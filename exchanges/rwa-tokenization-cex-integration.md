@@ -1,0 +1,70 @@
+---
+title: RWA (Real World Asset) tokenization × CEX 取扱
+aliases:
+  - RWA tokenization CEX
+  - 実物資産トークン化 取引所
+  - Ondo BUIDL Securitize Maple
+domain: exchanges
+created: 2026-05-19
+last_updated: 2026-05-19
+last_tended: 2026-05-19
+review_by: 2027-05-19
+confidence: likely
+tags:
+  - exchanges
+  - rwa
+  - tokenization
+  - mmf
+  - institutional
+  - cex
+sources:
+  - https://ondo.finance/
+  - https://securitize.io/
+  - https://www.blackrock.com/
+status: candidate
+---
+
+## 概要
+
+RWA (Real World Asset) tokenization = 実物資産 (米国債 / 不動産 / コモディティ / private credit) をオンチェーン token として発行する仕組み。BlackRock BUIDL (2024-03 launch · 米財務省 MMF) が触媒となり 2024-2026 急成長。総 RWA TVL は $12-20B (2026 推定) で、tokenized US Treasury が中心セグメント。
+
+## 主要プレイヤー
+
+- **BlackRock BUIDL** (Ethereum) — Securitize 経由発行 · 米国機関投資家限定 · 5.4% 利回り · $1.5B AUM (2025)
+- **Ondo Finance OUSG/USDY** — 米財務省 ETF (SHV) 担保 · OUSG (機関) + USDY (リテール) 二段階構造
+- **Securitize** — トークン化プラットフォーム · BUIDL / Apollo / Hamilton Lane 発行受託
+- **Maple Finance** — private credit lending on-chain
+- **Centrifuge** — multi-asset RWA pool
+- **Provenance Blockchain (Figure)** — 不動産 + private credit
+
+## CEX 取扱状況
+
+- **国内 (日本)**: 直接 spot 取扱なし · JVCEA WhiteList 未承認 · 三井物産 (Zipangcoin) 等 RWA 関連は別経路 (ST / 信託)
+- **海外 (米)**: Coinbase は機関向け OUSG カストディ · Binance 一部 RWA prime 提供
+- **CEX 戦略**: RWA は機関向け prime brokerage の延長 → リテール CEX より institutional CEX 強み
+
+## CEX × RWA 統合戦略
+
+- **custody**: BUIDL / OUSG は Coinbase Custody / Anchorage 受託多数
+- **trading**: 機関 OTC のみ secondary market (リテール限定的)
+- **settlement**: USDC / USDT 経由 24/7 settlement
+- **税制 + 規制**: 米 SEC 監督 + Reg D / Reg S exemption + 機関適格投資家限定
+
+## 国内 + アジア 展開
+
+- **Progmat** (三菱 UFJ 信託 系) — 信託型 ST 国内 最大 (~68% シェア)
+- **DCJPY** + **JPYC** — RWA settlement 補完候補
+- **HK SFC** + **MAS DPT** が RWA 統合実験 進行 (HKMA Project Ensemble 等)
+- 日本 retail RWA 取扱は 法令改正待ち (投信法 + 金商法)
+
+## Cross-links
+
+- [[exchanges/btc-spot-etf-japan-impact]] (機関化並行)
+- [[exchanges/global-institutional-custody-five-pillars]]
+- [[exchanges/jp-cex-deposit-token-stablecoin-integration]]
+- [[exchanges/global-cex-prime-brokerage-layer]]
+- [[fintech/blackrock-buidl-tokenized-mmf-overview]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption]]
+- Ondo Finance USDY/OUSG
+- [[fintech/jp-stablecoin-progmat]]
+- [[exchanges/jp-cex-staking-lending-regulation]]

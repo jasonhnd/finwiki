@@ -1,0 +1,175 @@
+---
+title: exchanges — Crypto exchange / VASP / market-structure index
+aliases: [exchanges index, CEX index, VASP index, crypto exchange wiki]
+domain: exchanges
+created: 2026-05-19
+last_updated: 2026-05-20
+last_tended: 2026-05-20
+review_by: 2026-11-16
+confidence: certain
+tags: [exchanges, index, crypto, vasp]
+status: active
+sources:
+  - "FinWiki P1 domain index build, 2026-05-19"
+---
+
+# exchanges — Crypto exchange / VASP / market-structure index
+
+## TL;DR
+
+`exchanges/` contains **112 entries** covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
+
+## Routing map
+
+| Cluster | Count | Core route |
+|---|---:|---|
+| Japan exchange entities | 37 | [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], [[exchanges/jp-exchange-binance-japan|Binance Japan]] |
+| Foreign unregistered exchange records | 8 | [[exchanges/fsa-foreign-exchange-warning-system|FSA warning system]], [[exchanges/jp-foreign-exchange-bybit|Bybit]], [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance legacy]] |
+| Japan VASP / JVCEA / FSA regulation | 22 | [[exchanges/jvcea-self-regulatory-overview|JVCEA]], [[exchanges/fsa-vasp-registration-system|FSA registration]], [[exchanges/jp-vasp-regulatory-timeline|regulatory timeline]] |
+| Custody / security / incidents | 12 | [[exchanges/jp-institutional-custody-three-pillars|Japan custody three pillars]], [[exchanges/jp-vasp-incident-history|incident history]], [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit hack]] |
+| Global licensing / market comparison | 15 | [[exchanges/global-cex-top10-comparison|global CEX top 10]], [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]], [[exchanges/us-crypto-licensing-multi-layer-system|US licensing]] |
+| DEX / DeFi / market infrastructure | 18 | [[exchanges/global-dex-major-five-comparison|global DEX five]], [[exchanges/amm-design-evolution|AMM design]], [[exchanges/cex-matching-engine-wallet-architecture|CEX architecture]] |
+
+## Start here
+
+- [[exchanges/jvcea-self-regulatory-overview|JVCEA — 日本暗号資産取引業協会 自主規制制度]]
+- [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]]
+- [[exchanges/jp-vasp-regulatory-timeline|国内暗号資産 VASP 規制タイムライン]]
+- [[exchanges/jp-vasp-parent-company-map|国内 VASP 親会社・株主構造マップ]]
+- [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較]]
+- [[exchanges/jp-vasp-incident-history|国内 VASP 暗号資産流出事件史]]
+- [[exchanges/global-dex-major-five-comparison|グローバル DEX 主要 5 社比較]]
+
+## Japan exchange entities
+
+### Type 1 / spot-oriented VASP
+
+- [[exchanges/jp-exchange-bitflyer|bitFlyer]]
+- [[exchanges/jp-exchange-bitbank|bitbank]]
+- [[exchanges/jp-exchange-coincheck|Coincheck]]
+- [[exchanges/jp-exchange-gmo-coin|GMO Coin]]
+- [[exchanges/jp-exchange-bittrade|BitTrade]]
+- [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
+- [[exchanges/jp-exchange-binance-japan|Binance Japan]]
+- [[exchanges/jp-exchange-rakuten-wallet|Rakuten Wallet]]
+- [[exchanges/jp-exchange-mercoin|Mercoin]]
+- [[exchanges/jp-exchange-okcoin-japan|OKCoin Japan / OKJ]]
+- [[exchanges/jp-exchange-zaif|Zaif]]
+- [[exchanges/jp-exchange-btcbox|BTCBOX]]
+- [[exchanges/jp-exchange-osl-japan|OSL Japan]]
+- [[exchanges/jp-exchange-gate-japan|Gate Japan]]
+- [[exchanges/jp-exchange-sblox|S.BLOX]]
+- [[exchanges/jp-exchange-gaia|Gaia]]
+- [[exchanges/jp-exchange-backseat-exchange|BACKSEAT / coinbook]]
+- [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]]
+- [[exchanges/jp-exchange-mercury|Mercury / CoinTrade]]
+- [[exchanges/jp-exchange-tokyo-hash|Tokyo Hash]]
+- [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]
+- [[exchanges/jp-exchange-custodiem|Custodiem]]
+- [[exchanges/jp-exchange-line-xenesis|LINE Xenesis]]
+- [[exchanges/jp-exchange-money-partners|Money Partners]]
+
+### Derivatives / securities / preparation / special cases
+
+- [[exchanges/jp-exchange-sbi-securities|SBI Securities]]
+- [[exchanges/jp-exchange-bi-fxtrade|SBI FX Trade / BI FXTRADE]]
+- [[exchanges/jp-exchange-monex|Monex]]
+- [[exchanges/jp-exchange-traders-securities|Traders Securities]]
+- [[exchanges/jp-exchange-goldenway-japan|Goldenway Japan]]
+- [[exchanges/jp-exchange-dmm-com-securities|DMM.com Securities]]
+- [[exchanges/jp-exchange-dmm-bitcoin|DMM Bitcoin]]
+- [[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]]
+- [[exchanges/jp-exchange-saxo-bank-japan|Saxo Bank Japan]]
+- [[exchanges/jp-exchange-gaudiy|Gaudiy Financial Labs]]
+- [[exchanges/jp-exchange-trek-labs-japan|Trek Labs Japan / Backpack]]
+- [[exchanges/jp-exchange-laser-digital-japan|Laser Digital Japan]]
+- [[exchanges/jp-exchange-jpyc|JPYC]]
+
+## Regulation and Japan market structure
+
+- [[exchanges/jvcea-self-regulatory-overview|JVCEA overview]]
+- [[exchanges/fsa-vasp-registration-system|FSA VASP registration]]
+- [[exchanges/jp-vasp-regulatory-timeline|Japan VASP regulatory timeline]]
+- [[exchanges/jp-vasp-derivative-license-system|Japan crypto derivatives licensing]]
+- [[exchanges/fsa-business-improvement-orders-history|FSA business improvement orders]]
+- [[exchanges/jp-vasp-cold-storage-segregation-rules|cold storage 95% + segregation]]
+- [[exchanges/jvcea-whitelist-token-listing|JVCEA WhiteList]]
+- [[exchanges/jvcea-whitelist-listing-timeline|JVCEA listing timeline]]
+- [[exchanges/jvcea-type2-associate-membership-system|JVCEA Type 2 membership]]
+- [[exchanges/jp-vasp-aml-travel-rule-implementation|AML / Travel Rule implementation]]
+- [[exchanges/jp-vasp-ma-consolidation-history|Japan VASP M&A consolidation]]
+- [[exchanges/jp-crypto-exchange-overview|Japan crypto exchange overview]]
+- [[exchanges/jp-vasp-parent-company-map|parent company map]]
+- [[exchanges/jp-listed-cex-related-companies-matrix|listed CEX-related companies]]
+- [[exchanges/jp-crypto-vc-fund-landscape|Japan crypto VC/fund landscape]]
+- [[exchanges/jp-crypto-market-maker-otc-layer|market maker / OTC layer]]
+- [[exchanges/jp-cex-sales-vs-exchange-model-economics|sales desk vs order book economics]]
+- [[exchanges/jp-cex-points-economy-integration|points economy integration]]
+- [[exchanges/jp-cex-deposit-token-stablecoin-integration|CEX x deposit token / EPI integration]]
+- [[exchanges/jp-cex-nft-marketplace-integration|CEX x NFT marketplace integration]]
+- [[exchanges/jp-cex-staking-lending-regulation|CEX staking / lending regulation]]
+- [[exchanges/jp-crypto-bank-credit-facilities|CEX x Japan bank credit facilities]]
+- [[exchanges/jp-crypto-merchant-payment-lightning|crypto merchant payment / Lightning]]
+- [[exchanges/jp-ieo-system-and-cases|Japan IEO system and cases]]
+- [[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA spot volume statistics]]
+- [[exchanges/jp-crypto-asset-taxation-detailed|Japan crypto tax]]
+- [[exchanges/btc-spot-etf-japan-impact|BTC spot ETF Japan impact]]
+
+## Custody, incidents, and security
+
+- [[exchanges/jp-institutional-custody-three-pillars|Japan institutional custody three pillars]]
+- [[exchanges/jp-custody-ginco|Ginco]]
+- [[exchanges/jp-custody-komainu|Komainu]]
+- [[exchanges/jp-custody-fireblocks-japan|Fireblocks Japan]]
+- [[exchanges/global-institutional-custody-five-pillars|global custody five pillars]]
+- [[exchanges/global-crypto-forensics-vendor-layer|forensics vendor layer]]
+- [[exchanges/jp-vasp-incident-history|Japan VASP incident history]]
+- [[exchanges/mtgox-bankruptcy-processing-timeline|Mt.Gox bankruptcy timeline]]
+- [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack]]
+- [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]]
+- [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]]
+- [[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% return case]]
+- [[exchanges/jp-vasp-security-audit-certification|Japan VASP security audit / ISMS]]
+
+## Global comparison and DEX / DeFi
+
+- [[exchanges/fsa-foreign-exchange-warning-system|FSA foreign exchange warning system]]
+- [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings legacy]]
+- [[exchanges/jp-foreign-exchange-bybit|Bybit]]
+- [[exchanges/jp-foreign-exchange-bitget|Bitget]]
+- [[exchanges/jp-foreign-exchange-mexc|MEXC]]
+- [[exchanges/jp-foreign-exchange-kucoin|KuCoin]]
+- [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]]
+- [[exchanges/jp-foreign-exchange-lbank|LBank]]
+- [[exchanges/jp-foreign-exchange-bitforex|Bitforex]]
+- [[exchanges/korea-cex-five-pillars-comparison|Korea CEX five pillars]]
+- [[exchanges/hk-sfc-vasp-licensing-overview|Hong Kong SFC VASP]]
+- [[exchanges/sg-mas-dpt-licensing-overview|Singapore MAS DPT]]
+- [[exchanges/uae-vara-licensing-overview|UAE VARA]]
+- [[exchanges/us-crypto-licensing-multi-layer-system|US licensing stack]]
+- [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]]
+- [[exchanges/uk-fca-crypto-registration-overview|UK FCA registration]]
+- [[exchanges/switzerland-finma-crypto-valley-overview|Switzerland FINMA / Crypto Valley]]
+- [[exchanges/taiwan-fsc-vasp-licensing-overview|Taiwan FSC VASP]]
+- [[exchanges/global-dex-major-five-comparison|global DEX major five]]
+- [[exchanges/global-perp-dex-five-comparison|global perp DEX five]]
+- [[exchanges/amm-design-evolution|AMM design evolution]]
+- [[exchanges/ve33-governance-mechanism|ve(3,3) governance]]
+- [[exchanges/vetoken-host-protocol-flywheel|veToken host protocol flywheel]]
+- [[exchanges/native-dex-flip-incumbent-pattern|native DEX flip incumbent pattern]]
+- [[exchanges/solana-ecosystem-dex-comparison|Solana DEX ecosystem]]
+- [[exchanges/cex-api-sdk-ecosystem-comparison|CEX API / SDK ecosystem]]
+- [[exchanges/cex-native-token-strategy-comparison|CEX native token strategy]]
+- [[exchanges/global-cex-prime-brokerage-layer|global CEX prime brokerage layer]]
+- [[exchanges/global-crypto-exchange-bankruptcy-comparison|global crypto exchange bankruptcy comparison]]
+- [[exchanges/korea-kimchi-premium-economics|Korea kimchi premium economics]]
+- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking / restaking CEX exposure]]
+- [[exchanges/rwa-tokenization-cex-integration|RWA tokenization x CEX]]
+- [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge x CEX deposit/withdrawal]]
+
+## Backlog
+
+- Add a regulatory comparison matrix for Japan / Korea / Hong Kong / Singapore / EU / US.
+- Split dormant / withdrawn Japan entities from active VASP operators.
+- Add a short source-quality tier for exchange entries: primary registry, company IR, media, inferred.
+- Reconcile `jp-exchange-jpyc` with the fintech stablecoin namespace so JPYC is not mistaken for a CEX.

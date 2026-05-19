@@ -1,0 +1,107 @@
+---
+title: "Seven & i Holdings"
+aliases:
+  - "seven-and-i-hd"
+  - "Seven & i"
+  - "セブン&アイ・ホールディングス"
+domain: "retail"
+created: 2026-05-19
+last_updated: 2026-05-20
+last_tended: 2026-05-20
+review_by: 2026-11-15
+confidence: likely
+tags: [retail, convenience-store, atm-bank, payments, loyalty, financial-services]
+status: active
+sources:
+  - "https://www.7andi.com/en/company/profile"
+  - "https://www.7andi.com/en/ir/library/co_financial/2025/finance/"
+  - "https://www.sevenbank.co.jp/english/corp/"
+  - "https://www.sevenbank.co.jp/group/"
+  - "https://www.nanaco-net.jp/introduction/"
+  - "FinWiki P3 graph repair inbound from JapanFG/seven-bank.md"
+---
+
+# Seven & i Holdings
+
+## TL;DR
+
+Seven & i is a convenience-store-centered retail platform whose finance stack is anchored by **[[JapanFG/seven-bank|Seven Bank]] ATM infrastructure**, Seven Card Service, and nanaco. In JapanFG terms, Seven & i is less a universal financial group and more a **retail infrastructure owner**: high-frequency convenience-store traffic turns ATMs, prepaid money, cards, and data into finance-adjacent assets.
+
+## Structure
+
+| Layer | Role | Finance relevance |
+|---|---|---|
+| Seven & i Holdings | Pure holding company centered on convenience-store business | Controls the retail footprint that makes finance distribution valuable |
+| 7-Eleven Japan | Convenience-store traffic and cash-handling node | Drives ATM, payment, nanaco, and consumer campaign frequency |
+| [[JapanFG/seven-bank|Seven Bank]] | ATM platform bank | 28,000+ ATM infrastructure, bank account services, overseas cards, B2B cash services |
+| Seven Card Service | Credit card / nanaco service layer | Card spend, nanaco point, retail loyalty, group payment |
+| nanaco | Prepaid electronic money and point program | Store-linked payment and loyalty rail |
+| Seven Payment Service | ATM receipt / cash collection and B2B cash-adjacent services | Converts ATM footprint into corporate and government payout infrastructure |
+
+## Financial-Services Model
+
+Seven & i's finance model has two distinctive traits:
+
+1. **ATM-first infrastructure**: Seven Bank's ATM network is a real-world payment and cash-access layer, not just an app.
+2. **Convenience-store frequency**: small, repeated visits make payment, points, coupons, and cash withdrawal highly habitual.
+
+This differs from [[retail/aeon-group|AEON]], where the key asset is mall / supermarket catchment and a broader credit-card / bank / Asian-consumer-finance model.
+
+## Key Financial Assets
+
+| Asset | Role | Why it matters |
+|---|---|---|
+| Seven Bank ATMs | Nationwide financial access points | Can support cash withdrawal, deposits, overseas cards, account procedures, remittance, authentication, and corporate payout services |
+| nanaco | Prepaid electronic money + point layer | Anchors convenience and supermarket payment behavior in group ecosystem |
+| Seven Card | Credit card linked to group benefits | Card economics plus nanaco point accumulation |
+| Overseas card access | Inbound tourist cash access | Connects retail stores, ATMs, and travel recovery |
+| ATM receipt / payout services | B2B2C cash distribution | Useful for refunds, benefits, campaign payouts, gig / small-business use cases |
+
+## Competitive Position
+
+| Competitor | Seven & i contrast |
+|---|---|
+| [[retail/aeon-group|AEON]] | AEON has broader financial services; Seven has stronger convenience-store and ATM intensity. |
+| [[JapanFG/lawson-bank|Lawson Bank]] | Both are convenience-store ATM banks; Seven Bank has older scale and broader platform identity. |
+| [[JapanFG/paypay-fg|PayPay FG]] | PayPay is app-first; Seven is store / ATM-first. Cooperation and competition can coexist. |
+| [[JapanFG/rakuten-fg|Rakuten FG]] | Rakuten monetizes online membership; Seven monetizes physical convenience traffic. |
+| Megabanks | Megabanks can shrink branch / ATM footprints while relying on Seven Bank as access infrastructure. |
+
+## Regulatory / Legal Reading
+
+- Seven Bank is a bank, so the banking layer belongs in [[JapanFG/seven-bank|Seven Bank]] and [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]].
+- nanaco is prepaid electronic money / point infrastructure, so it belongs near [[payments/cashless-jp-landscape|cashless payments]] and [[loyalty/japan-points-landscape|points landscape]].
+- Credit card and installment economics should be checked under card / installment-sales routes.
+- ATM receipt and corporate payout products need funds-transfer / agency / bank-service boundary checks depending on product structure.
+
+## Strategic Reading
+
+Seven & i's finance advantage is **last-mile trust and location density**. The group can make financial services feel mundane: withdraw cash, charge prepaid value, pay, receive refunds, pay bills, or verify identity at a familiar store. That is powerful in Japan because cash usage remains material even as cashless penetration rises.
+
+The long-term issue is whether this store / ATM infrastructure becomes less valuable as code payments and account-to-account transfers rise, or more valuable because it becomes the physical bridge for digital procedures, identity, and payouts.
+
+## Open Questions
+
+- How far can Seven Bank move from ATM usage fees into authentication, digital procedures, and corporate payout infrastructure?
+- Will nanaco remain a group-retail tool or become a broader payment / points network?
+- How does Seven & i's strategic focus on convenience stores affect financial subsidiaries and card / point investment?
+- Does cashless adoption reduce ATM withdrawals faster than new ATM services can offset?
+- Can Seven & i monetize retail media and loyalty data at the same level as app-first ecosystems?
+
+## Related
+
+- [[retail/INDEX|retail INDEX]]
+- [[JapanFG/seven-bank|Seven Bank]]
+- [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
+- [[loyalty/japan-points-landscape|Japan points landscape]]
+- [[retail/aeon-group|AEON Group]]
+- [[JapanFG/lawson-bank|Lawson Bank]]
+- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[INDEX|FinWiki index]]
+
+## Sources
+
+- Seven & i Holdings official corporate overview.
+- Seven & i IR financial-services data.
+- Seven Bank official corporate and group-service pages.
+- nanaco official introduction and point guidance.

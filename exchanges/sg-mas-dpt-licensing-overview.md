@@ -1,0 +1,57 @@
+---
+title: シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業
+aliases:
+  - SG MAS DPT licensing
+  - Singapore DPT registration
+  - Payment Services Act crypto
+domain: exchanges
+created: 2026-05-19
+last_updated: 2026-05-19
+last_tended: 2026-05-19
+review_by: 2027-05-19
+confidence: likely
+tags:
+  - exchanges
+  - vasp
+  - singapore
+  - mas
+  - regulation
+  - dpt
+sources:
+  - https://www.mas.gov.sg/regulation/payments
+  - https://eservices.mas.gov.sg/fid/
+status: candidate
+---
+
+## 制度概要
+
+シンガポールは 2020-01 に **PSA (Payment Services Act)** を施行し、決済サービスを 7 種に整理した。その中の一つとして **DPT (Digital Payment Token) サービス**カテゴリが新設され、暗号資産の売買・交換・カストディ等が単一法体系下で規制されることになった。既存の銀行業免許 (Banking Act) や資金移動業免許 (旧 MAS Act ベース) と並列の構造であり、規制当局は **MAS (Monetary Authority of Singapore, 金融管理局)** が一元担当する。FATF Travel Rule 完全準拠 + AML/CFT 強化を前提に、機関志向のクリプト hub としてのポジショニングを明確化している。日本の [[exchanges/fsa-vasp-registration-system]] が FSA + JVCEA の二層構造を取るのに対し、MAS 単独体制でガバナンスの効率を担保する点が対照的。
+
+## ライセンス区分 3 種
+
+- **Major Payment Institution (MPI)**: 大規模 DPT 取引業者向け · 月次取扱 SG$3M 超または 1 日残高 SG$6M 超で要件発生 · 大手 CEX はこの区分
+- **Standard Payment Institution (SPI)**: 中規模事業者 · 上記閾値以下
+- **Money-Changing Licence**: 両替業に限定された軽量区分
+
+DPT サービス提供事業者は実質的にほぼ MPI を取得することになり、SPI は中継的位置づけ。
+
+## 主要保有事業者 (2024-2026 時点)
+
+- **Coinbase Singapore** (MPI, 2023-10 取得) — 米 Coinbase の APAC 拠点
+- **Crypto.com** (MPI, 2023-06) — シンガポール本社系の主要 CEX
+- **Independent Reserve** (MPI) — 豪系
+- **HashKey Singapore** (MPI) — 香港 HashKey の SG 拠点 ([[exchanges/hk-sfc-vasp-licensing-overview]] と二重展開)
+- **Circle** (MPI for USDC, 2023-06) — 米親会社系、USDC 発行体
+- **Paxos** + **DBS Digital Exchange** — 銀行系統 (DBS は機関専用)
+
+## リテール広告制限 (2022-)
+
+MAS は 2022-01 に「DPT サービス事業者は一般公衆向けに DPT 取引を促進・広告してはならない」とのガイドラインを発出し、実質的に**リテール広告を全面禁止**した。許容されるのは「事業者自身のコーポレートサイト + 公式アプリ」での情報提供のみ (パッシブ取引)。地下鉄広告・SNS インフルエンサー起用・公道広告は全て不可。これは [[exchanges/hk-sfc-vasp-licensing-overview]] が 2023-08 にリテール解禁した方針と真逆の戦略であり、シンガポールの「機関中心 hub」戦略を明確に示すマーカーになっている。
+
+## 戦略的位置づけ
+
+シンガポールは「リテール禁止 + 強制 MPI ライセンス + 強い AML/CFT」の三点セットで、**機関・富裕層・APAC 進出企業向けの拠点**としてポジショニング。日本 ([[exchanges/fsa-vasp-registration-system]] · FSA + JVCEA · リテール許容、ホワイトリスト厳格) と韓国 ([[exchanges/korea-cex-five-pillars-comparison]] · ISMS + 銀行 RWA · リテール中心) と比較して、より機関志向で厳格。一方、香港の SFC VATP はリテール志向。三都市の役割分担が、APAC クリプト規制の地理的多様性を形成している。[[exchanges/global-cex-top10-comparison]] における Tier 1 拠点として、Coinbase/Crypto.com/Circle の APAC HQ を集約。詳細な PSA 全体像は [[fintech/singapore-mas-payment-services-act-overview]] を参照、ステーブルコイン側 framework は [[fintech/three-circles-stablecoin-mra-framework]]。
+
+---
+
+来源: projects/cgv/jp-crypto-exchange-research/ + MAS 公告 + PSA 法令公開資料 + Coindesk Asia

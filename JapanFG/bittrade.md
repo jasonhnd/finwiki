@@ -1,0 +1,123 @@
+---
+title: ビットトレード (BitTrade)
+aliases: ["BitTrade", "ビットトレード", "株式会社ビットトレード", "Huobi Japan", "フォビジャパン"]
+domain: JapanFG
+created: 2026-05-19
+last_updated: 2026-05-19
+last_tended: 2026-05-19
+review_by: 2026-11-15
+confidence: likely
+tags: [JapanFG, crypto]
+status: active
+sources:
+  - "Wikipedia: ビットトレード / Huobi Japan (2026-05-19 抽出)"
+  - 金融庁 暗号資産交換業者登録一覧 (関東財務局長 第 00007 号)
+  - JVCEA (日本暗号資産取引業協会) 会員名簿
+---
+
+# ビットトレード (BitTrade)
+
+## TL;DR
+
+日本国内の暗号資産交換業者中堅枠。**旧 Huobi Japan が 2022-08 に「BitTrade」へ再改称**し、グローバル Huobi 本体（Justin Sun 関連）からの分離印象を打ち出した。**関東財務局長 第 00007 号**登録、JVCEA 第一種会員。取扱通貨数は国内最多級（2024 時点で 30+ 通貨）でロングテール戦略を取る。bitFlyer / Coincheck / GMO コイン / SBI VC Trade の次の中堅ポジション。^[extracted]
+
+## 1. 公司结构
+
+**正式名**：株式会社ビットトレード（BitTrade Co., Ltd.）^[extracted]
+**旧称**：株式会社フォビジャパン（Huobi Japan Co., Ltd.）→ 2022-08 BitTrade に再改称 ^[extracted]
+**業態**：暗号資産交換業 ^[extracted]
+**登録**：関東財務局長 第 00007 号 ^[extracted]
+**業界団体**：JVCEA（日本暗号資産取引業協会）第一種会員 ^[extracted]
+**親会社（経緯）**：旧 BitTrade（独立系）→ 2018 Huobi グループ買収 → 2022 PtokaPay 系（Justin Sun 関連と報じられる）→ 「BitTrade」として再ブランディング ^[ambiguous]
+
+### 沿革（公開情報ベース）^[extracted]
+
+| 年月 | 事象 |
+|---|---|
+| 2016 | 旧 BitTrade 体制で創業（独立系暗号資産取引所）|
+| 2017 | 改正資金決済法施行 → 暗号資産交換業 登録制スタート |
+| 2018 | Huobi グループが買収 → 「**Huobi Japan / フォビジャパン**」に改称 |
+| 2019〜 | Huobi Japan として国内 spot 取引運営（取扱通貨拡充）|
+| **2022-08** | **Huobi Japan → BitTrade に再改称**。グローバル Huobi 本体（Justin Sun 関連と報じられる）との分離印象を打ち出し |
+| 2023〜 | 「BitTrade」ブランドで取扱通貨ロングテール戦略を継続 |
+| 2024 | 取扱通貨数 30+（国内最多級）|
+
+> 経営権変動：2022 年前後の Huobi グローバル側のオーナー変動（Justin Sun 系と報じられる）と、日本法人の「BitTrade」再改称が時期的に重なる。日本法人の現株主構成・実質支配の明示的開示は公開情報では限定的 ^[ambiguous]
+
+## 2. 业务线 map
+
+| セグメント | 内容 | 特徴 |
+|---|---|---|
+| 国内 spot 取引 | 暗号資産現物売買（Type 1 / JVCEA 第一種）| 中堅枠・取扱通貨数で国内最多級 |
+| 取扱通貨 | 30+ 通貨（2024 時点）| BTC / ETH / 主要アルト + 国内取扱がレアな銘柄を含むロングテール |
+| 暗号資産レンディング | 預入 → 利息相当の付与 | 国内取扱業者で展開する付随サービス |
+| 法人向け | OTC / 法人口座等 | 中堅枠としての差別化領域 |
+| デリバティブ | 国内では限定的 | デリバティブは bitFlyer / GMO 等が主軸 |
+
+## 3. 戦略与竞争
+
+### ポジショニング
+
+- 国内暗号資産取引所の **中堅枠**：bitFlyer / Coincheck / GMO コイン / SBI VC Trade の次のティア ^[inferred]
+- **取扱通貨ロングテール戦略**：大手が扱わないアルトを含めた 30+ 通貨で「銘柄数」で差別化 ^[extracted]
+- グローバル系（Huobi 起源）レガシーから「**日本独立系**」イメージへの再ブランディング（2022-08）^[extracted]
+
+### 競合マップ
+
+| カテゴリ | 主要プレイヤー |
+|---|---|
+| 大手 spot | bitFlyer / Coincheck（マネックス傘下）/ GMO コイン / SBI VC Trade |
+| 中堅 spot | **BitTrade** / DMM Bitcoin（旧）/ bitbank / LINE Xenesis（旧）等 |
+| 銀行系 | [[mufg]] Progmat 経由ステーブルコイン / [[smfg]] 等の動き |
+| 海外大手の国内法人 | Binance Japan（旧 Sakura Exchange BitCoin 買収）等 |
+
+### 戦略テーマ
+
+- **再ブランディング後の独立イメージ確立**：Huobi グローバル（Justin Sun 関連）からの距離取り
+- **取扱通貨数の維持**：ロングテール戦略は審査・上場フローの体力勝負
+- **JVCEA / 金融庁監督下での compliance 強化**：トラベルルール / AML / 顧客資産分別管理
+
+## 4. 监管与政策
+
+- **主管**：金融庁 / 関東財務局（登録：第 00007 号）^[extracted]
+- **根拠法**：改正資金決済法（暗号資産交換業）
+- **業界団体**：**JVCEA**（日本暗号資産取引業協会）第一種会員、自主規制
+- **主要 compliance 領域**：
+  - 顧客資産の **分別管理**（信託・コールドウォレット）
+  - **トラベルルール**対応
+  - **AML / CFT**（取引時確認・疑わしい取引届出）
+  - 上場銘柄審査（JVCEA グリーンリスト/個別審査）
+- **直近政策論点**：
+  - 2024〜 ステーブルコイン制度（資金決済法改正）下での取扱対応
+  - 海外無登録業者警告との関係（**BitTrade は登録業者**であり警告対象側ではない）^[extracted]
+
+## Counterpoints
+
+- 「Huobi 系列からの独立性」：BitTrade への再改称（2022-08）でブランド分離は明確だが、Huobi グローバル本体（Justin Sun 関連）との実質的な資本・人的独立性が監督上どこまで明確かは公開情報で完全には追えない ^[ambiguous]
+- 「国内シェア」：取扱通貨数では国内最多級だが、**取引高シェアでは中位**（bitFlyer / Coincheck より小）^[inferred]
+- 「ロングテール戦略の持続性」：マイナー銘柄の上場・運営コスト vs 出来高の薄さ。大手の通貨拡充に追随されるとエッジ消滅リスク ^[inferred]
+- 「再ブランディングの効果」：海外系起源の業者という認識が国内ユーザーに残るかどうかは ^[ambiguous]
+
+## Open questions
+
+- BitTrade 日本法人の **現在の実質支配株主**と Huobi グローバル / PtokaPay / Justin Sun 系との資本関係の最新整理は？
+- 取扱通貨数 30+ のうち、**実取引高の集中度**（上位 5 銘柄シェア）は？
+- JVCEA 内での **新規上場審査スピード**（BitTrade vs bitFlyer 等）の差は？
+- ステーブルコイン制度下で [[mufg]] **Progmat Coin** 等を BitTrade が扱う可能性は？
+- 中堅枠の **M&A 再編シナリオ**（メガバンク系 FG や海外大手による国内中堅買収）における立ち位置は？
+
+## Related
+
+- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]]
+- [[bitflyer]] · [[exchanges/jp-exchange-coincheck|coincheck]] · [[gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
+
+## Sources
+
+- **Wikipedia: ビットトレード / Huobi Japan**（2026-05-19 抽出）
+- **金融庁** 暗号資産交換業者登録一覧（関東財務局長 第 00007 号）
+- **JVCEA**（日本暗号資産取引業協会）会員名簿・公表資料
+
+---
+
+> [!info] 校核状态
+> confidence: **likely**（公開情報ベース）。再改称（2022-08 Huobi Japan → BitTrade）・登録番号（第 00007 号）・JVCEA 加盟は公開情報で確認可能。**親会社の実質支配構造（PtokaPay / Justin Sun 系との関係）は公開情報では完全には追えず ^[ambiguous]**。取扱通貨数（30+）と「国内最多級」表現は 2024 時点の業界比較ベース。
