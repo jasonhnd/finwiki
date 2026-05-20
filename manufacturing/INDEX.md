@@ -12,7 +12,6 @@ confidence: certain
 tags: [manufacturing, index]
 status: active
 sources:
-  - "FinWiki P4 promotion batch, 2026-05-20"
 ---
 
 # manufacturing — Japanese manufacturing company index

@@ -19,7 +19,6 @@ sources:
   - "https://www.aeonfinancial.co.jp/en/ir/library/annual"
   - "https://www.aeonbank.co.jp/company/about/outline/"
   - "https://www.waon.net/about/"
-  - "FinWiki P3 graph repair inbound from JapanFG/aeon-bank.md"
 ---
 
 # AEON Group

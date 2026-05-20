@@ -19,7 +19,6 @@ sources:
   - "https://paymentsjapan.or.jp/category/publications/"
   - "https://www.fsa.go.jp/common/shinsei/dendai/dentori.html"
   - "https://www.fsa.go.jp/policy/prepaid/"
-  - "FinWiki P3 graph repair inbound from JapanFG/aeon-bank.md"
 ---
 
 # Japan cashless payment landscape

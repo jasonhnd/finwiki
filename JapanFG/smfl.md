@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.smfl.co.jp/english/corporate/about/"
   - "https://www.smfl.co.jp/english/corporate/finance/integrated-report/"
-  - "FinWiki P3 graph repair inbound from JapanFG/orix-corp.md"
 ---
 
 # SMFL / Sumitomo Mitsui Finance and Leasing

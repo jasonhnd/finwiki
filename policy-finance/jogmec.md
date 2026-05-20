@@ -15,7 +15,6 @@ tags: [policy-finance, energy-security, minerals, japan]
 status: active
 sources:
   - "https://www.jogmec.go.jp/english/about/overview.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/jbic.md"
 ---
 
 # JOGMEC (Japan Organization for Metals and Energy Security)

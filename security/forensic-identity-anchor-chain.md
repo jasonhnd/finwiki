@@ -29,7 +29,7 @@ related:
 3. **Email 域偏好** — ProtonMail / iCloud / 自定义域 vs Gmail · 团队整体偏好往往一致
 4. **LinkedIn 公司页人名语种** — 西非 / 东南亚 / 印度 / 中文 / 日文 名字混搭
 5. **GitHub commit author name 语种** — 真实 commit 的 name field (vs LinkedIn 门面名)
-6. **CLI / config path 暴露** — home-directory/.config/... / ~/.ssh/known_hosts 残留 · 文档 metadata / Whitepaper PDF author
+6. **CLI / config path 暴露** — home-directory config paths, SSH known-host leftovers, document metadata, and PDF author fields
 
 ## 拼合 logic
 

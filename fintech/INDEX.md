@@ -10,7 +10,6 @@ confidence: certain
 tags: [fintech, index, stablecoin, tokenized-money]
 status: active
 sources:
-  - "FinWiki P1 domain index build, 2026-05-19"
 ---
 
 # fintech — Stablecoin / tokenized money / payments index

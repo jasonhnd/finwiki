@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.jasso.go.jp/about/organization/index.html"
   - "https://www.studyinjapan.go.jp/en/about/outline.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/jfc.md"
 ---
 
 # JASSO (Japan Student Services Organization)

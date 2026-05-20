@@ -15,7 +15,6 @@ status: active
 sources:
   - "https://www.akita-bank.co.jp/aboutus/info/company/"
   - "https://www.akita-bank.co.jp/aboutus/info/kanren/"
-  - "FinWiki P3 graph repair inbound from JapanFG/fidea-hd.md"
 ---
 
 # 株式会社秋田銀行 (The Akita Bank)
@@ -84,7 +83,6 @@ sources:
 
 - 秋田銀行「会社概要」: https://www.akita-bank.co.jp/aboutus/info/company/
 - 秋田銀行「関連会社」: https://www.akita-bank.co.jp/aboutus/info/kanren/
-- FinWiki P3 graph repair inbound: [[JapanFG/fidea-hd]]
 
 ---
 

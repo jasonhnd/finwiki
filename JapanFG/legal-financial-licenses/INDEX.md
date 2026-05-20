@@ -24,7 +24,6 @@ sources:
   - "https://www.chihousai.or.jp/en/02/10.php"
   - "https://www.smfl.co.jp/english/corporate/about/"
   - "https://elaws.e-gov.go.jp/"
-  - "FinWiki JapanFG / banking / fintech / exchanges domain pages, 2026-05-19"
 ---
 
 # JapanFG legal / financial licenses domain
@@ -197,4 +196,3 @@ Promote or create these pages first when expanding this domain:
 - 金融庁: 免許・許可・登録等を受けている事業者一覧.
 - 金融庁: 暗号資産・電子決済手段関係.
 - e-Gov 法令検索.
-- FinWiki internal links listed above.

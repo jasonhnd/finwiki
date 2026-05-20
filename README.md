@@ -77,7 +77,7 @@ git diff --cached --stat
 git commit -m "docs: ..."
 git push
 git ls-remote origin refs/heads/main
-gh release create <tag> --repo FinWiki repository --target main --title "<日本語タイトル>" --notes-file releases/<tag>.md
+gh release create <tag> --target main --title "<日本語タイトル>" --notes-file releases/<tag>.md
 ```
 
 ## 中文 🇨🇳
@@ -157,5 +157,5 @@ git diff --cached --stat
 git commit -m "docs: ..."
 git push
 git ls-remote origin refs/heads/main
-gh release create <tag> --repo FinWiki repository --target main --title "<日文标题>" --notes-file releases/<tag>.md
+gh release create <tag> --target main --title "<日文标题>" --notes-file releases/<tag>.md
 ```

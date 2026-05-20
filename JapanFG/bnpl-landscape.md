@@ -18,8 +18,6 @@ sources:
   - "https://paidy.com/company/"
   - "https://investor.pypl.com/news-and-events/news-details/2021/PayPal-to-Acquire-Paidy/default.aspx"
   - "https://newsroom.jp.paypal-corp.com/2021-09-07-PayPal-to-Acquire-Paidy"
-  - "FinWiki internal: JapanFG/installment-sales-act-2020-amendment.md"
-  - "FinWiki P3 graph repair inbound from JapanFG/paidy.md"
 ---
 
 # Japan BNPL landscape
@@ -108,4 +106,3 @@ Japan already had mature credit-card installment / revolving systems and strong 
 - Paidy official company profile.
 - PayPal investor release on Paidy acquisition, 2021.
 - PayPal Japan newsroom release on Paidy acquisition, 2021.
-- FinWiki internal legal anchor: [[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]].

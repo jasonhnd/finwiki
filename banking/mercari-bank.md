@@ -18,7 +18,6 @@ sources:
   - "https://www.minna-no-ginko.com/branches/baas-mercari/?id=program"
   - "https://help.jp.mercari.com/guide/articles/2074/"
   - "https://static.jp.mercari.com/electronic_payment_agency_business"
-  - "FinWiki P3 graph repair inbound from JapanFG/gmo-aozora-net.md"
 ---
 
 # メルカリバンク (Mercari Bank)

@@ -19,7 +19,6 @@ sources:
   - "https://dpoint.docomo.ne.jp/"
   - "https://www.waon.net/point/"
   - "https://www.nanaco-net.jp/introduction/"
-  - "FinWiki P3 graph repair inbound from JapanFG/ndfg.md"
 ---
 
 # Japan points and loyalty landscape

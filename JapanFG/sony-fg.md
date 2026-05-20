@@ -130,7 +130,6 @@ sources:
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
 - [[banking/rakuten-bank]] · [[JapanFG/sbi-shinsei-bank|banking/sbi-shinsei-bank]] · [[banking/au-jibun-bank]] · [[banking/minna-bank-baas-model]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]] ^[planned]
 
 ## Sources
 

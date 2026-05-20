@@ -2,7 +2,6 @@
 title: "Securities domain"
 aliases:
   - "securities INDEX"
-  - "FinWiki securities"
   - "証券 domain"
 domain: "securities"
 created: 2026-05-20
@@ -16,7 +15,6 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/"
   - "https://www.jsda.or.jp/shijyo/seido/tax/2024nisaqa.html"
-  - "FinWiki JapanFG / securities pages, 2026-05-20"
 ---
 
 # Securities domain

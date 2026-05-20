@@ -10,7 +10,6 @@ confidence: certain
 tags: [exchanges, index, crypto, vasp]
 status: active
 sources:
-  - "FinWiki P1 domain index build, 2026-05-19"
 ---
 
 # exchanges — Crypto exchange / VASP / market-structure index

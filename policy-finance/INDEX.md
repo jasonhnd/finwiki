@@ -13,7 +13,6 @@ confidence: certain
 tags: [policy-finance, index, public-finance, export-credit]
 status: active
 sources:
-  - "FinWiki P4 policy-finance domain index build, 2026-05-19"
 ---
 
 # policy-finance — Japan public finance / export credit index

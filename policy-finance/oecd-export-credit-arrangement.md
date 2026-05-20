@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.oecd.org/en/topics/policy-issues/export-credits.html"
   - "https://www.oecd.org/en/topics/arrangement-and-sector-understandings.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/jbic.md"
 ---
 
 # OECD Arrangement on Officially Supported Export Credits

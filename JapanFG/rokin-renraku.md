@@ -18,7 +18,6 @@ sources:
   - "https://www.rokinren.com/about/profile.html"
   - "https://www.rokinren.com/about/our-roles.html"
   - "https://www.rokinren.com/about/works.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/zenshin-kumi.md"
 ---
 
 # 労働金庫連合会 (The Rokinren Bank)
@@ -89,7 +88,6 @@ sources:
 - 労働金庫連合会「労金連のプロフィール」: https://www.rokinren.com/about/profile.html
 - 労働金庫連合会「労金連の役割」: https://www.rokinren.com/about/our-roles.html
 - 労働金庫連合会「業務のご案内」: https://www.rokinren.com/about/works.html
-- FinWiki P3 graph repair inbound: [[JapanFG/zenshin-kumi]]
 
 ---
 

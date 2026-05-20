@@ -16,7 +16,6 @@ tags: [banking, net-bank, au, kddi, digital-bank]
 status: active
 sources:
   - "https://www.jibunbank.co.jp/corporate/outline/"
-  - "FinWiki P3 graph repair inbound from JapanFG/sony-fg.md"
 ---
 
 # auじぶん銀行 (au Jibun Bank)

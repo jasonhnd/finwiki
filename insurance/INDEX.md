@@ -2,7 +2,6 @@
 title: "Insurance domain"
 aliases:
   - "insurance INDEX"
-  - "FinWiki insurance"
   - "保険 domain"
 domain: "insurance"
 created: 2026-05-19
@@ -18,7 +17,6 @@ sources:
   - "https://www.seiho.or.jp/"
   - "https://www.sonpo.or.jp/"
   - "https://www.nihonjishin.co.jp/"
-  - "FinWiki JapanFG / insurance pages, 2026-05-19"
 ---
 
 # Insurance domain

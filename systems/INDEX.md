@@ -3,23 +3,22 @@ title: systems — Protocol / infrastructure / technical systems index
 aliases: [systems index, protocol systems index, infrastructure index]
 domain: systems
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-20
+last_tended: 2026-05-20
 review_by: 2026-11-15
 confidence: certain
 tags: [systems, index, protocol, infrastructure]
 status: active
-sources:
-  - "FinWiki P1 domain index build, 2026-05-19"
+sources: []
 ---
 
-# systems — Protocol / infrastructure / technical systems index
+# systems — Protocol / Infrastructure / Technical Systems Index
 
 ## TL;DR
 
-`systems/` contains **44 entries** about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and wiki/tooling compliance. Use this page when expanding technical infrastructure notes rather than business/regulatory theses.
+`systems/` contains **43 entries** about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and protocol implementation topics.
 
-## Routing map
+## Routing Map
 
 | Cluster | Count | Core route |
 |---|---:|---|
@@ -27,18 +26,19 @@ sources:
 | Ethereum / account abstraction / Pectra | 10 | [[systems/erc-4337-overview|ERC-4337]], [[systems/erc-7702-overview|ERC-7702]], [[systems/pectra-upgrade-overview|Pectra]] |
 | BFT / validator economics / L1 launch | 8 | [[systems/bft-validator-economy-overview|BFT validator economics]], [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT]], [[systems/l1-progressive-decentralization-three-phase|progressive decentralization]] |
 | Institutional DLT / Canton / Besu | 7 | [[systems/canton-overview|Canton]], [[systems/canton-daml-technical-spec|DAML]], [[systems/hyperledger-besu-overview|Besu]] |
+| Formal methods / compliance | 1 | [[systems/formal-spec-implementation-codesign|formal spec implementation co-design]] |
 
-## Start here
+## Start Here
 
-- [[systems/cross-chain-four-poles-overview|跨链四极架构]]
-- [[systems/cctp-v2-overview|CCTP V2 概览]]
-- [[systems/chain-abstraction-pattern-overview|链抽象模式概览]]
-- [[systems/erc-4337-overview|ERC-4337 概览]]
-- [[systems/erc-7702-overview|ERC-7702 概览]]
-- [[systems/bft-validator-economy-overview|BFT validator 经济学概览]]
-- [[systems/canton-overview|Canton Network 概览]]
+- [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
+- [[systems/cctp-v2-overview|CCTP V2 overview]]
+- [[systems/chain-abstraction-pattern-overview|chain abstraction overview]]
+- [[systems/erc-4337-overview|ERC-4337 overview]]
+- [[systems/erc-7702-overview|ERC-7702 overview]]
+- [[systems/bft-validator-economy-overview|BFT validator economics overview]]
+- [[systems/canton-overview|Canton Network overview]]
 
-## Cross-chain / interoperability
+## Cross-Chain / Interoperability
 
 - [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
 - [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional default]]
@@ -47,7 +47,7 @@ sources:
 - [[systems/layerzero-v2-omnichain-messaging|LayerZero v2]]
 - [[systems/hyperlane-overview|Hyperlane overview]]
 - [[systems/hyperlane-ism-modular-security|Hyperlane ISM modular security]]
-- [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero/CCIP]]
+- [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero / CCIP]]
 - [[systems/cctp-v2-overview|CCTP V2 overview]]
 - [[systems/cctp-v2-technical-spec|CCTP V2 technical spec]]
 - [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton]]
@@ -55,10 +55,10 @@ sources:
 - [[systems/chain-abstraction-pattern-three-solutions|chain abstraction three solutions]]
 - [[systems/chain-abstraction-pattern-value-capture|chain abstraction value capture]]
 
-## Ethereum / AA / protocol upgrades
+## Ethereum / AA / Protocol Upgrades
 
 - [[systems/erc-4337-overview|ERC-4337 overview]]
-- [[systems/erc-4337-userop-bundler-flow|ERC-4337 UserOp/Bundler/EntryPoint]]
+- [[systems/erc-4337-userop-bundler-flow|ERC-4337 UserOp / Bundler / EntryPoint]]
 - [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]]
 - [[systems/erc-7702-overview|ERC-7702 overview]]
 - [[systems/erc-7702-vs-erc-4337|ERC-7702 vs ERC-4337]]
@@ -70,7 +70,7 @@ sources:
 - [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]]
 - [[systems/eigenlayer-l1-bootstrapping|EigenLayer L1 bootstrapping]]
 
-## BFT / validator economics / L1 architecture
+## BFT / Validator Economics / L1 Architecture
 
 - [[systems/bft-validator-economy-overview|BFT validator economics overview]]
 - [[systems/bft-validator-economy-four-variables|BFT validator economy four variables]]
@@ -82,7 +82,7 @@ sources:
 - [[systems/post-quantum-blockchain-day1-integration|post-quantum day-1 integration]]
 - [[systems/vitalik-l1-l2-strategy-anchor|L1/L2 strategy anchor]]
 
-## Institutional DLT / enterprise chains
+## Institutional DLT / Enterprise Chains
 
 - [[systems/canton-overview|Canton Network overview]]
 - [[systems/canton-daml-technical-spec|Canton DAML technical spec]]
@@ -91,7 +91,7 @@ sources:
 - [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton migration]]
 - [[systems/bitflyer-blockchain|bitFlyer Blockchain]]
 
-## Tooling / compliance / methods
+## Formal Methods / Compliance
 
 - [[systems/formal-spec-implementation-codesign|formal spec implementation co-design]]
 - [[systems/hook-enforced-compliance|hook-enforced compliance]]

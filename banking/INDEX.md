@@ -13,7 +13,6 @@ confidence: certain
 tags: [banking, index, net-bank, baas]
 status: active
 sources:
-  - "FinWiki P4 banking domain index build, 2026-05-19"
 ---
 
 # banking — Net bank / BaaS / banking-structure index

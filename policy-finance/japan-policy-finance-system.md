@@ -18,7 +18,6 @@ sources:
   - "https://www.nexi.go.jp/en/corporate/profile.html"
   - "https://www.jogmec.go.jp/english/about/overview.html"
   - "https://www.okinawakouko.go.jp/english/1678100259/"
-  - "FinWiki P3 graph repair inbound from JapanFG/jbic.md"
 ---
 
 # Japan policy finance system

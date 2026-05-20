@@ -1,7 +1,6 @@
 ---
 title: "パーシャルスピンオフ税制 — partial spin-off tax deferral"
 aliases:
-  - "corporate-strategy/partial-spinoff-tax-deferral"
   - "partial-spinoff-tax-deferral"
   - "パーシャルスピンオフ税制"
   - "partial spin-off tax deferral"
@@ -19,7 +18,6 @@ sources:
   - "https://www.mof.go.jp/public_relations/finance/202402/202402e.html"
   - "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/"
   - "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/sony-fg.md"
 ---
 
 # パーシャルスピンオフ税制 — partial spin-off tax deferral
@@ -96,7 +94,6 @@ METI は 2024-02-14、Sony Group の産業競争力強化法に基づく事業�
 - 財務省「令和6年度税制改正」解説: https://www.mof.go.jp/public_relations/finance/202402/202402e.html
 - Sony Group「Regarding the Partial Spin-off of the Financial Services Business」: https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/
 - METI「ソニーグループ株式会社の事業再編計画を認定」: https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html
-- FinWiki P3 graph repair inbound: [[JapanFG/sony-fg]]
 
 ---
 

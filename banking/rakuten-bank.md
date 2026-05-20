@@ -16,8 +16,6 @@ status: active
 sources:
   - "https://global.rakuten.com/corp/news/press/2026/0105_03.html"
   - "https://global.rakuten.com/corp/news/press/2026/0514_01.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/gmo-aozora-net.md"
-  - "FinWiki P3 graph repair inbound from JapanFG/ssnb.md"
 ---
 
 # 楽天銀行 (Rakuten Bank)

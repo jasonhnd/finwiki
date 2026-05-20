@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.jica.go.jp/about/index.html"
   - "https://www.jica.go.jp/english/about/"
-  - "FinWiki P3 graph repair inbound from JapanFG/jbic.md"
 ---
 
 # JICA (Japan International Cooperation Agency)

@@ -2,7 +2,6 @@
 title: "Money market domain"
 aliases:
   - "money-market INDEX"
-  - "FinWiki money market"
   - "短期金融市場 domain"
 domain: "money-market"
 created: 2026-05-19
@@ -17,7 +16,6 @@ sources:
   - "https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm"
   - "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b31.htm"
   - "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b34.htm"
-  - "FinWiki JapanFG / money-market pages, 2026-05-19"
 ---
 
 # Money market domain

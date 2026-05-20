@@ -15,7 +15,6 @@ status: active
 sources:
   - "https://www.iwatebank.co.jp/company/information/aboutus.html"
   - "https://www.iwatebank.co.jp/company/management/plan.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/fidea-hd.md"
 ---
 
 # 株式会社岩手銀行 (The Bank of Iwate)
@@ -82,7 +81,6 @@ sources:
 
 - 岩手銀行「会社概要」: https://www.iwatebank.co.jp/company/information/aboutus.html
 - 岩手銀行「第21次中期経営計画」: https://www.iwatebank.co.jp/company/management/plan.html
-- FinWiki P3 graph repair inbound: [[JapanFG/fidea-hd]]
 
 ---
 

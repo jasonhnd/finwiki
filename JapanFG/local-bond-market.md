@@ -18,7 +18,6 @@ sources:
   - "https://www.jfm.go.jp/en/index.html"
   - "https://www.mof.go.jp/filp/summary/filp_local/tihousaiseidonogaiyou.htm"
   - "https://www.stat.go.jp/english/data/nenkan/1431-05e.htm"
-  - "FinWiki P3 graph repair inbound from JapanFG/local-govt-finance.md"
 ---
 
 # Japan local government bond market

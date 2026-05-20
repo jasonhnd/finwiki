@@ -17,7 +17,6 @@ sources:
   - "https://corporate.epson/en/about/info.html"
   - "https://corporate.epson/en/investors/publications/annual-report.html"
   - "https://corporate.epson/en/investors/publications/integrated-report.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/hachijuni-bank.md"
 ---
 
 # Seiko Epson Corporation (セイコーエプソン)
@@ -87,7 +86,6 @@ sources:
 - Epson「Company Outline」: https://corporate.epson/en/about/info.html
 - Epson「Annual Report」: https://corporate.epson/en/investors/publications/annual-report.html
 - Epson「Integrated Report」: https://corporate.epson/en/investors/publications/integrated-report.html
-- FinWiki P3 graph repair inbound: [[JapanFG/hachijuni-bank]]
 
 ---
 

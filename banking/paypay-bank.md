@@ -16,8 +16,6 @@ status: active
 sources:
   - "https://www.paypay-bank.co.jp/company/about/index.html"
   - "https://about.paypay.ne.jp/en/pr/20250414/01/"
-  - "FinWiki P3 graph repair inbound from JapanFG/gmo-aozora-net.md"
-  - "FinWiki P3 graph repair inbound from JapanFG/ssnb.md"
 ---
 
 # PayPay 銀行 (PayPay Bank)

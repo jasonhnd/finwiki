@@ -15,7 +15,6 @@ status: active
 sources:
   - "https://www.joyobank.co.jp/kabunushi/corporate/history.html"
   - "https://www.mebuki-fg.co.jp/eng/shareholder/ir_library/annual_report/"
-  - "FinWiki P3 graph repair inbound from JapanFG/77-bank.md"
 ---
 
 # 株式会社常陽銀行 (Joyo Bank)
@@ -82,7 +81,6 @@ sources:
 
 - 常陽銀行「会社概要・沿革・年史」: https://www.joyobank.co.jp/kabunushi/corporate/history.html
 - めぶき FG Annual Report / disclosure library: https://www.mebuki-fg.co.jp/eng/shareholder/ir_library/annual_report/
-- FinWiki P3 graph repair inbound: [[JapanFG/77-bank]]
 
 ---
 

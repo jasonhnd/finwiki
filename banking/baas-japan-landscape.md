@@ -18,7 +18,6 @@ sources:
   - "https://www.fukuoka-fg.com/investorimage/data/20250908_irday_2.pdf"
   - "https://www.minna-no-ginko.com/alliance-service/"
   - "https://www.fsa.go.jp/menkyo/menkyo.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/gmo-aozora-net.md"
 ---
 
 # Japan BaaS landscape

@@ -18,7 +18,6 @@ sources:
   - "https://ir.group.gmo/assets/pdf/en/integrated-report_2025.pdf"
   - "https://www.gmo-pg.com/en/corp/company-management/"
   - "https://gmo-aozora.com/company/outline.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/gmo-payment-gateway.md"
 ---
 
 # GMO Internet Group

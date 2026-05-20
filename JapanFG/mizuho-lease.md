@@ -17,7 +17,6 @@ sources:
   - "https://www.mizuho-ls.co.jp/en/company/data.html"
   - "https://www.mizuho-ls.co.jp/en/ir/stock_rating/stock.html"
   - "https://www.marubeni.com/en/news/2024/release/20240514E.pdf"
-  - "FinWiki P3 graph repair inbound from JapanFG/orix-corp.md"
 ---
 
 # Mizuho Leasing

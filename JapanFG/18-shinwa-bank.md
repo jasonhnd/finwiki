@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.18shinwabank.co.jp/aboutus/outline/"
   - "https://www.18shinwabank.co.jp/aboutus/message/"
-  - "FinWiki P3 graph repair inbound from JapanFG/77-bank.md"
 ---
 
 # 株式会社十八親和銀行 (Eighteenth Shinwa Bank)
@@ -82,7 +81,6 @@ sources:
 
 - 十八親和銀行「会社概要」: https://www.18shinwabank.co.jp/aboutus/outline/
 - 十八親和銀行「頭取メッセージ」: https://www.18shinwabank.co.jp/aboutus/message/
-- FinWiki P3 graph repair inbound: [[JapanFG/77-bank]]
 
 ---
 

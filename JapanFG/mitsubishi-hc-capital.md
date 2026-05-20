@@ -17,7 +17,6 @@ status: active
 sources:
   - "https://www.mitsubishi-hc-capital.com/english/corporate/"
   - "https://www.mitsubishi-hc-capital.com/english/corporate/business/"
-  - "FinWiki P3 graph repair inbound from JapanFG/orix-corp.md"
 ---
 
 # 三菱 HC キャピタル (Mitsubishi HC Capital)

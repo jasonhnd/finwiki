@@ -12,7 +12,6 @@ confidence: unlikely
 tags: [JapanFG, graph-repair, deprecated-alias, link-audit]
 status: deprecated
 sources:
-  - "FinWiki P3 graph repair inbound from JapanFG/proclair-hd.md"
   - "https://www.zenginkyo.or.jp/abstract/outline/organization/member-01/"
   - "https://www.zenginkyo.or.jp/bankdb/bc0125/"
   - "https://www.77bank.co.jp/"
@@ -52,7 +51,6 @@ sources:
 - 全国銀行協会「銀行コード検索 七十七銀行」: https://www.zenginkyo.or.jp/bankdb/bc0125/
 - 七十七銀行 公式サイト: https://www.77bank.co.jp/
 - SBJ銀行「会社概要」: https://sbjbank.co.jp/about_sbj/about/
-- FinWiki P3 graph repair inbound: [[JapanFG/proclair-hd]]
 
 ---
 

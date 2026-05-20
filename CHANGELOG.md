@@ -8,6 +8,7 @@
 - 每次重要工作都要记录详细时间线，而不是只写一句版本说明。
 - 每条记录应尽量包含：JST 时间、工作背景、影响范围、主要文件或目录、执行步骤、验证结果、后续事项。
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
+- 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
 ### 日本語
 
@@ -15,8 +16,59 @@
 - 重要な作業ごとに、短いバージョン説明だけでなく詳細なタイムラインを残します。
 - 各記録には、可能な限り JST 時刻、背景、影響範囲、主要ファイルまたはディレクトリ、実行手順、検証結果、残タスクを含めます。
 - 小さなエントリー更新であっても、変更理由、変更箇所、確認方法を明記します。
+- 本リポジトリ本文には公開インターネット情報、公的資料、公開開示、または公開情報に基づく分析のみを残します。個人情報、ローカルパス、非公開会話、顧客・相手方情報、内部案件の詳細は削除します。
 
 ## 2026-05-20
+
+### 09:18 JST: 公開面プライバシー監査と非公開情報の削除
+
+#### 日本語記録
+
+- 背景: ユーザーから「すべての内容を確認し、個人情報をなくし、すべてをインターネット公開情報にする」よう指示があった。
+- 影響範囲: 公開 wiki 本文、ルート入口、Obsidian 設定文書、schema、release notes、agent 運用ルール、CHANGELOG の過去記録表現。
+- 主要ファイル / ディレクトリ:
+  - 更新: `README.md`, `INDEX.md`, `SCHEMA.md`, `OBSIDIAN-SETUP.md`, `AGENTS.md`, `CHANGELOG.md`, `finance/INDEX.md`, `systems/INDEX.md`, `releases/v2026.05.20.md`, `releases/v2026.05.20-3.md`
+- タイムライン:
+  - 09:15: `rg` で local path、email、GitHub account handle、user quote、内部研究、私募貸付、個人 FIRE、顧客 / 相手方、非公開 case などのパターンを走査。
+  - 09:15: `.DS_Store` と `.ruff_cache/` は `.gitignore` 対象であり、公開面の主要リスクではないことを確認。
+  - 09:15: 個人所得例、資産額例、ユーザー原話、内部案件 source、ローカル Obsidian path、非公開業務 case を含むページを公開不適合と判定。
+  - 09:16: 公開情報として成立しない methodology / writing / strategy / lifestyle / internal-case 系ページを file-level で削除。
+  - 09:16: 削除ページへの wikilink を機械的に除去し、残存ページの Related / 本文から private shadow link を消去。
+  - 09:17: `INDEX.md` を公開版に再作成し、503 knowledge entries / 20 domains の現在 surface に更新。
+  - 09:17: `README.md`, `SCHEMA.md`, `OBSIDIAN-SETUP.md`, `AGENTS.md` に「公開情報 only / 個人情報禁止 / local path 禁止」ルールを明文化。
+  - 09:18: `CHANGELOG.md` 既存記録内の local path、個人 GitHub account handle、auth scope 記述を一般化。
+  - 09:18: `releases/v2026.05.20.md` から account handle と非公開方法論表現を削除し、本作業用に `releases/v2026.05.20-3.md` を作成。
+- 検証結果:
+  - privacy pattern scan: email、home-directory path、personal account handle、local sync path、private finance examples、personal FIRE examples、内部 source 表現を走査し、公開面に残すべきでない実データは検出されない状態まで修正。
+  - broken-link scan: 削除済みディレクトリと削除済みファイルへの wikilink 残存なし。
+  - `git diff --check` は whitespace error なし。
+  - `git status --short --branch` で今回の削除・更新・新規 release notes を確認。
+  - broader privacy keyword scan の残存命中は、公開情報運用ルール本文、公開会社・公開規制用語、または「非公開情報は引用していない」という confidence 注記に限定されることを確認。
+- 残タスク: Git history や既存 GitHub release body には過去 snapshot が残る可能性があるため、完全な履歴消去が必要な場合は別途 history rewrite / release body 更新の範囲確認が必要。
+
+#### 中文记录
+
+- 背景：用户要求“检查所有内容，去掉任何个人信息，所有内容都应该是互联网公开信息”。
+- 影响范围：公开 wiki 正文、根入口、Obsidian 设置文档、schema、release notes、agent 运维规则、CHANGELOG 既有记录表述。
+- 主要文件 / 目录：
+  - 更新：`README.md`, `INDEX.md`, `SCHEMA.md`, `OBSIDIAN-SETUP.md`, `AGENTS.md`, `CHANGELOG.md`, `finance/INDEX.md`, `systems/INDEX.md`, `releases/v2026.05.20.md`, `releases/v2026.05.20-3.md`
+- 时间线：
+  - 09:15: 用 `rg` 扫描 local path、email、GitHub account handle、用户原话、内部研究、私募贷款、个人 FIRE、客户 / 相手方、非公开 case 等模式。
+  - 09:15: 确认 `.DS_Store` 和 `.ruff_cache/` 已被 `.gitignore` 忽略，不是当前公开面主要风险。
+  - 09:15: 将包含个人收入示例、资产额示例、用户原话、内部案件来源、本地 Obsidian path、非公开业务 case 的页面判定为不适合公开。
+  - 09:16: 以文件级删除方式移除无法公开化的 methodology / writing / strategy / lifestyle / internal-case 类页面。
+  - 09:16: 机械清理指向已删除页面的 wikilink，删除残留的 private shadow link。
+  - 09:17: 重建 `INDEX.md` 为公开版，并更新为当前 503 knowledge entries / 20 domains。
+  - 09:17: 在 `README.md`, `SCHEMA.md`, `OBSIDIAN-SETUP.md`, `AGENTS.md` 中明确“只保留公开信息 / 禁止个人信息 / 禁止 local path”规则。
+  - 09:18: 将 `CHANGELOG.md` 历史记录中的 local path、个人 GitHub account handle、auth scope 文字一般化。
+  - 09:18: 从 `releases/v2026.05.20.md` 中移除 account handle 与非公开方法论表述，并新建本次作业的 `releases/v2026.05.20-3.md`。
+- 验证结果：
+  - privacy pattern scan：扫描 email、home-directory path、personal account handle、local sync path、私人金融示例、个人 FIRE 示例、内部来源表述，并修正到公开面不再残留不应公开的实数据。
+  - broken-link scan：没有发现指向已删除目录或已删除文件的 wikilink 残留。
+  - `git diff --check` 没有 whitespace error。
+  - `git status --short --branch` 已确认本次删除、更新和新增 release notes。
+  - broader privacy keyword scan 的剩余命中只属于公开信息运维规则、公开公司/监管术语，或“未引用非公开信息”的 confidence 注记。
+- 后续事项：Git history 和既有 GitHub release body 可能仍保留过去 snapshot；如果需要彻底从历史中删除，需要单独确认 history rewrite / release body 更新范围。
 
 ### 09:16 JST: Release title 日本語のみ化と push 連動ルール追加
 

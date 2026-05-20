@@ -1,18 +1,15 @@
-# Obsidian setup for FinWiki
+# Obsidian Setup for FinWiki
 
-This file documents recommended Obsidian configuration for `FinWiki` as a
-standalone vault copied from the source workspace public knowledge base wiki.
+This file documents generic Obsidian settings for reading FinWiki as a local vault. It intentionally avoids machine-specific paths, account names, and private sync locations.
 
-Related: [[INDEX|FinWiki index]] · [[SCHEMA|frontmatter schema]] · [[log|activity log]]
+Related: [[INDEX|FinWiki index]] · [[SCHEMA|frontmatter schema]]
 
-## Open links
+## Open Links
 
-- Open vault by path: [Open FinWiki](obsidian://open?path=FinWiki)
-- Open vault by name after it has been registered once in Obsidian: [Open FinWiki vault](obsidian://open?vault=FinWiki)
-- Local folder path:
-  `FinWiki`
+- Open by vault name after registering the folder once in Obsidian: [Open FinWiki vault](obsidian://open?vault=FinWiki)
+- If your local vault name is different, update only your local Obsidian settings. Do not commit personal filesystem paths.
 
-## Link convention
+## Link Convention
 
 FinWiki uses Obsidian wikilinks relative to the vault root:
 
@@ -22,47 +19,20 @@ FinWiki uses Obsidian wikilinks relative to the vault root:
 [[exchanges/jvcea-self-regulatory-overview|JVCEA]]
 ```
 
-Do not use the original source workspace subtree prefix in new notes:
+Do not use local filesystem paths or private source-tree prefixes in public notes.
 
-```md
-\[\[wiki/fintech/mica-overview]]
-```
-
-> **Auto-applied by v1.8.1**: if `.obsidian/graph.json` existed when
-> `setup-public-knowledge-base.sh` ran (auto-invoked by SessionStart hook), a wiki
-> color group was added automatically. A backup was saved to
-> `.obsidian/graph.json.lifeos-backup-<timestamp>` before any edit.
-> If you don't use Obsidian's graph view, this is a no-op.
-
-## Recommended plugin set
+## Recommended Plugin Set
 
 | Plugin | Why | Source |
 |---|---|---|
-| **Dataview** | Query frontmatter: list all entries where `confidence` is `unlikely` or `possible`, sort by `last_tended`, group by `status`. The single biggest UX win for the wiki. | Community Plugins → "Dataview" |
-| **Graph Analysis** | Find hub entries (high in-degree) and orphan entries (zero links). Use to plan link-density improvements. | Community Plugins → "Graph Analysis" |
-| **Templater** | Spawn new wiki entries from `.templates/wiki-entry-template.md` with one keystroke (vs hand-typing frontmatter every time). | Community Plugins → "Templater" |
-| Excalidraw (optional) | Hand-drawn diagrams attached to wiki entries. Use when text alone won't carry the model. | Community Plugins → "Excalidraw" |
+| Dataview | Query frontmatter, review status, source coverage, and stale entries. | Community Plugins |
+| Graph Analysis | Find hub entries and orphan entries for link maintenance. | Community Plugins |
+| Templater | Create new wiki entries from `.templates/wiki-entry-template.md`. | Community Plugins |
+| Excalidraw | Optional visual diagrams attached to wiki entries. | Community Plugins |
 
-Install via Settings → Community Plugins → Browse → search the name.
+Install plugins from Obsidian Settings -> Community Plugins. Plugin installation is a local user choice and should not be required for reading the repository on GitHub.
 
-## What the auto-applied graph color group does
-
-The patched `.obsidian/graph.json` now has an entry like:
-
-```jsonc
-{
-  "query": "path:fintech/ OR path:exchanges/ OR path:JapanFG/",
-  "color": { "a": 1, "rgb": 4737228 }
-}
-```
-
-Result: selected FinWiki domains show in blue (#4842cc) in graph view.
-To customize the color, edit the `rgb` value (decimal RGB integer; pick any
-color you prefer) and reload the graph view.
-
-To revert: restore the backup file `.obsidian/graph.json.lifeos-backup-*`.
-
-## Useful Dataview queries (paste into any note)
+## Useful Dataview Queries
 
 ```dataview
 TABLE confidence, last_tended, status
@@ -76,8 +46,6 @@ TABLE length(file.outlinks) as outlinks, length(file.inlinks) as inlinks
 FROM ""
 WHERE length(file.outlinks) = 0 AND length(file.inlinks) = 0
 ```
-(orphan entries — no incoming or outgoing wikilinks; candidates for either
-better integration or deprecation)
 
 ```dataview
 TABLE last_tended, review_by
@@ -85,43 +53,16 @@ FROM ""
 WHERE review_by != null AND date(review_by) <= date(today)
 SORT review_by ASC
 ```
-(entries flagged for review — `wiki-decay` re-surfaces these on next run.
-Empty result = nothing currently due.)
 
-```dataview
-TABLE last_tended
-FROM ""
-WHERE date(today) - date(last_tended) > dur(180 days)
-SORT last_tended ASC
-```
-(stale entries — not actively reviewed in 180+ days; consider re-tending or
-deprecating.)
+## Template Usage
 
-## Template usage
+The `.templates/wiki-entry-template.md` file contains a schema-compatible frontmatter stub and standard H2 sections. With Templater installed, bind it to a hotkey and insert the template when creating a new entry.
 
-The `.templates/wiki-entry-template.md` file contains a SCHEMA-compliant
-frontmatter stub + standard H2 sections. With Templater installed, bind it to
-a hotkey (Settings → Templater → Hotkey) and inserting a new wiki entry
-becomes one keystroke.
+## Public-Surface Reminder
 
-## Audit your link graph
+Before committing Obsidian-related files:
 
-Run a link audit after large edits. FinWiki currently uses Obsidian
-wikilinks, so the key check is whether `[[domain/slug]]` resolves to an
-existing `domain/slug.md` or `domain/slug/INDEX.md`.
-
-For a standalone link-only pass:
-
-- Slash command: `/wiki-link-audit`
-- Natural language: "wiki link audit" / "查 wiki 哪些链接断了"
-
-Suggested cadence: monthly, or after any large import / reorganization.
-
-## What this doesn't do
-
-- Doesn't reorganize your existing FinWiki tree
-- Doesn't enforce wikilinks (you can keep using markdown `[name](path.md)`
-  if you prefer; Obsidian renders both)
-- Doesn't change your `.obsidian/app.json` or `.obsidian/appearance.json`
-- Doesn't install plugins for you (Obsidian community plugins are user-
-  consent only; you decide what runs in your vault)
+- Do not include local paths.
+- Do not include vault paths containing personal names or email addresses.
+- Do not include private sync-provider metadata.
+- Do not include `.obsidian/` configuration unless it has been reviewed for local identifiers.

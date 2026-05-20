@@ -17,7 +17,6 @@ sources:
   - "https://blockchain.bitflyer.com/"
   - "https://bitflyer.com/en-jp/miyabi"
   - "https://bitflyer.com/en-jp/miyabi-blockchain"
-  - "FinWiki P3 graph repair inbound from JapanFG/bitflyer.md"
 ---
 
 # bitFlyer Blockchain

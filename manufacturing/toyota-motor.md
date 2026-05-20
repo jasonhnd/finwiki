@@ -17,7 +17,6 @@ sources:
   - "https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu"
   - "https://global.toyota/en/ir/library/annual/"
   - "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
-  - "FinWiki P3 graph repair inbound from JapanFG/toyota-financial.md"
 ---
 
 # Toyota Motor Corporation (トヨタ自動車)
@@ -88,7 +87,6 @@ FY2025 Integrated Report では、FY2025 の総販売台数は 9,362,410 台、�
 - Toyota Motor Corporation「Company Overview」: https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu
 - Toyota Motor Corporation「Annual Report / Integrated Report」: https://global.toyota/en/ir/library/annual/
 - Toyota「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/
-- FinWiki P3 graph repair inbound: [[JapanFG/toyota-financial]]
 
 ---
 

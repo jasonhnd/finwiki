@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.okinawakouko.go.jp/english/1678100259/"
   - "https://www.okinawakouko.go.jp/about/profile/"
-  - "FinWiki P3 graph repair inbound from JapanFG/jfc.md"
 ---
 
 # 沖縄振興開発金融公庫 (ODFC)

@@ -20,7 +20,6 @@ sources:
   - "https://wholesale.banking.societegenerale.com/en/about/locations/worldwide-details/office/tokyo/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/touroku.pdf"
   - "https://www.fsa.go.jp/menkyo/dairi_g.pdf"
-  - "FinWiki P3 graph repair inbound from JapanFG/deutsche-japan.md"
 ---
 
 # ソシエテ・ジェネラル日本 (Societe Generale Japan)
@@ -90,7 +89,6 @@ sources:
 - Societe Generale wholesale banking「Tokyo office」: https://wholesale.banking.societegenerale.com/en/about/locations/worldwide-details/office/tokyo/
 - 金融庁「金融商品取引業者等一覧 / 登録金融機関」: https://www.fsa.go.jp/menkyo/menkyoj/touroku.pdf
 - 金融庁「外国銀行代理銀行一覧」: https://www.fsa.go.jp/menkyo/dairi_g.pdf
-- FinWiki P3 graph repair inbound: [[JapanFG/deutsche-japan]]
 
 ---
 

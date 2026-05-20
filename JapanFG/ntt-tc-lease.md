@@ -17,7 +17,6 @@ sources:
   - "https://www.ntt-tc-lease.com/eng/company/outline/"
   - "https://group.ntt/en/newsrelease/2020/02/06/200206a.html"
   - "https://www.tokyocentury.co.jp/en/company/info/domestic/"
-  - "FinWiki P3 graph repair inbound from JapanFG/orix-corp.md"
 ---
 
 # NTT TC Leasing

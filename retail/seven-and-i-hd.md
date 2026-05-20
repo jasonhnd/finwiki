@@ -18,7 +18,6 @@ sources:
   - "https://www.sevenbank.co.jp/english/corp/"
   - "https://www.sevenbank.co.jp/group/"
   - "https://www.nanaco-net.jp/introduction/"
-  - "FinWiki P3 graph repair inbound from JapanFG/seven-bank.md"
 ---
 
 # Seven & i Holdings

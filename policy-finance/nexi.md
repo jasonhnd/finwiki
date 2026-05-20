@@ -16,7 +16,6 @@ status: active
 sources:
   - "https://www.nexi.go.jp/en/corporate/profile.html"
   - "https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html"
-  - "FinWiki P3 graph repair inbound from JapanFG/jbic.md"
 ---
 
 # NEXI (Nippon Export and Investment Insurance)
