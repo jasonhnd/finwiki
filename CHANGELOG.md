@@ -20,6 +20,64 @@
 
 ## 2026-05-20
 
+### 10:49 JST: GitHub Pages 公開開始と `finwiki.zksc.io` ホームページ追加
+
+#### 日本語記録
+
+- 背景: ユーザーから、Cloudflare で設定済みの `finwiki.zksc.io` を使って GitHub Pages を先に起動するよう指示があった。
+- 影響範囲: GitHub Pages 設定、Cloudflare CNAME 連携、repository root、README、CHANGELOG、release notes、GitHub Release。
+- 主要ファイル:
+  - `CNAME`
+  - `index.html`
+  - `README.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-5.md`
+- タイムライン:
+  - 10:44: Cloudflare 側で `finwiki.zksc.io` の CNAME が `jasonhnd.github.io` に解決することを確認。
+  - 10:45: GitHub repository settings の Pages 画面を開き、source を `Deploy from a branch`、branch を `main`、folder を `/ (root)` に設定。
+  - 10:46: GitHub Pages custom domain に `finwiki.zksc.io` を保存し、GitHub 側の DNS check が successful になったことを確認。
+  - 10:47: GitHub Pages build `pages-build-deployment` が起動し、最初の custom domain 反映で `CNAME` file が remote `main` に自動作成されたことを確認。
+  - 10:48: Pages build / deploy が成功し、GitHub API で `status: built`, `cname: finwiki.zksc.io`, `source: main /` を確認。
+  - 10:48: `http://finwiki.zksc.io` と `https://finwiki.zksc.io` が 404 を返すことを確認し、原因を repository root に `index.html` / `index.md` が存在しないことと判定。
+  - 10:49: `index.html` を追加し、Pages の公開入口、README / INDEX / CHANGELOG への導線、公開面ルールを日本語先・中文併記で整備。
+  - 10:49: README に GitHub Pages の公開ドメイン、DNS、source、custom domain、HTTPS 注意点を追記。
+- 検証予定:
+  - `git diff --check` で空白エラーを確認。
+  - `index.html`、README、CHANGELOG、release notes を commit / push。
+  - GitHub Pages build を再度確認し、`finwiki.zksc.io` が 200 を返すことを確認。
+  - GitHub Release `v2026.05.20-5` を日本語 title のみで作成。
+- 既知の注意点:
+  - GitHub Pages の HTTPS enforce は、custom domain の証明書発行が完了するまで UI 上で unavailable になる。
+  - Pages の主コンテンツは現時点では静的 homepage と Markdown entry links であり、Markdown 全文を Pages 用 HTML に変換する専用ビルドはまだ未導入。
+
+#### 中文记录
+
+- 背景：用户要求先用已经在 Cloudflare 配好的 `finwiki.zksc.io` 启动 GitHub Pages。
+- 影响范围：GitHub Pages 设置、Cloudflare CNAME 联动、repository root、README、CHANGELOG、release notes、GitHub Release。
+- 主要文件：
+  - `CNAME`
+  - `index.html`
+  - `README.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-5.md`
+- 时间线：
+  - 10:44: 确认 Cloudflare 侧 `finwiki.zksc.io` 已经 CNAME 到 `jasonhnd.github.io`。
+  - 10:45: 打开 GitHub repository settings 的 Pages 页面，将 source 设置为 `Deploy from a branch`，branch 设置为 `main`，folder 设置为 `/ (root)`。
+  - 10:46: 在 GitHub Pages custom domain 中保存 `finwiki.zksc.io`，并确认 GitHub 侧 DNS check successful。
+  - 10:47: GitHub Pages build `pages-build-deployment` 启动，并确认 custom domain 操作在远端 `main` 自动生成了 `CNAME` 文件。
+  - 10:48: Pages build / deploy 成功，GitHub API 显示 `status: built`, `cname: finwiki.zksc.io`, `source: main /`。
+  - 10:48: 检查 `http://finwiki.zksc.io` 和 `https://finwiki.zksc.io`，均返回 404；判断原因是 repository root 没有 `index.html` / `index.md` 首页文件。
+  - 10:49: 新增 `index.html`，作为 Pages 公开入口，包含 README / INDEX / CHANGELOG 导航和公开面规则，日文在前并同步中文。
+  - 10:49: 在 README 中补充 GitHub Pages 公开域名、DNS、source、custom domain、HTTPS 注意事项。
+- 验证计划：
+  - 用 `git diff --check` 检查空白错误。
+  - 提交并 push `index.html`、README、CHANGELOG、release notes。
+  - 再次确认 GitHub Pages build，并确认 `finwiki.zksc.io` 返回 200。
+  - 创建 GitHub Release `v2026.05.20-5`，标题只使用日文。
+- 已知注意事项：
+  - GitHub Pages 的 HTTPS enforce 需要等待 custom domain 证书签发完成，在此之前 UI 会显示 unavailable。
+  - 当前 Pages 主内容是静态首页加 Markdown 入口链接，尚未引入将全库 Markdown 转成 Pages HTML 的专用构建流程。
+
 ### 09:31 JST: GitHub 公開履歴の privacy rewrite と force push
 
 #### 日本語記録
