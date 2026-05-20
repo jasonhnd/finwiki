@@ -90,6 +90,21 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 - [ ] 大容量ファイルを誤って追加していない。
 - [ ] コミット後に `origin/main` へ push し、remote HEAD を確認した。
 
+### 📦 GitHub Releases
+
+FinWiki の GitHub Releases は、ソフトウェアのバイナリ配布ではなく、**知識ベースの重要な公開スナップショット**として使います。📌
+
+| 項目 | ルール |
+| --- | --- |
+| 言語順 | 必ず日本語を先、中文を後に置く。 |
+| タグ形式 | 原則 `vYYYY.MM.DD`。同日に複数回出す場合は `vYYYY.MM.DD-2` のように枝番を付ける。 |
+| Release title | 日本語タイトルを先に書き、必要なら `/` の後に中文タイトルを置く。 |
+| Release body | 概要、対象範囲、主要変更、検証結果、既知の注意点、次の作業を明記する。 |
+| 記録元 | 詳細な作業履歴は [CHANGELOG.md](CHANGELOG.md) に残し、release body はその公開向け要約として整理する。 |
+| 初回 release | [releases/v2026.05.20.md](releases/v2026.05.20.md) を参照。 |
+
+Release を作るときは、GitHub の `No releases published` 状態を放置せず、対象 snapshot の意味が分かる説明を必ず入れます。🧾✨
+
 ### 🚀 推奨同期フロー
 
 ```bash
@@ -190,6 +205,21 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 - [ ] 未加入密钥、凭证或不必要的本地文件。
 - [ ] 未误加入大文件。
 - [ ] 提交后已推送到 `origin/main`，并确认远端 HEAD。
+
+### 📦 GitHub Releases
+
+FinWiki 的 GitHub Releases 不是软件二进制分发，而是作为**知识库重要公开快照**来使用。📌
+
+| 项目 | 规则 |
+| --- | --- |
+| 语言顺序 | 必须日文在前，中文在后。 |
+| 标签格式 | 原则使用 `vYYYY.MM.DD`。如果同一天发布多次，用 `vYYYY.MM.DD-2` 这样的后缀区分。 |
+| Release title | 先写日文标题，如有需要再用 `/` 接中文标题。 |
+| Release body | 必须写清楚概要、影响范围、主要变更、验证结果、已知注意事项和下一步。 |
+| 记录来源 | 详细工作历史保留在 [CHANGELOG.md](CHANGELOG.md)，release body 则整理成面向公开阅读的摘要。 |
+| 初始 release | 见 [releases/v2026.05.20.md](releases/v2026.05.20.md)。 |
+
+创建 release 时，不能让 GitHub 页面停留在 `No releases published` 状态；每个公开快照都要让读者一眼看懂它是什么、包含什么、如何验证。🧾✨
 
 ### 🚀 推荐同步流程
 

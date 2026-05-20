@@ -18,6 +18,60 @@
 
 ## 2026-05-20
 
+### 09:10 JST: GitHub Release 初回公開準備と release notes 明文化
+
+#### 日本語記録
+
+- 背景: ユーザーが GitHub の Releases 欄に `No releases published / Create a new release` と表示されていることを示し、release についても内容を非常に明確にし、日本語を先に置くよう指示した。
+- 影響範囲: GitHub Releases 運用、README の release 方針、agent 向け運用ルール、初回 release notes。
+- 主要ファイル:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+  - `releases/v2026.05.20.md`
+- タイムライン:
+  - 09:10: `gh --version` と `gh auth status` を確認し、GitHub CLI が利用可能で、`repository-owner` アカウントが `repo` scope で認証済みであることを確認。
+  - 09:10: `gh release list --repo FinWiki repository --limit 10` を実行し、既存 release がないことを確認。
+  - 09:10: `README.md` に GitHub Releases セクションを追加し、FinWiki の release はソフトウェア配布ではなく知識ベース snapshot として扱うことを明記。
+  - 09:10: release の言語順、タグ形式、title、body、記録元、初回 release 参照先を README に追加。
+  - 09:10: `AGENTS.md` に GitHub Release の title/body も日本語先・中文後にし、公開範囲、主要変更、検証結果、既知の注意点、次の作業を書くルールを追加。
+  - 09:10: `releases/v2026.05.20.md` を作成し、初回 release 用の日本語先・中文後の詳細 release notes を準備。
+  - 09:10: `CHANGELOG.md` に本エントリーを追加し、release 未作成状態の確認、文書更新、release notes 作成、検証計画を記録。
+- 検証予定:
+  - `README.md` の release セクションが日本語側・中文側の両方に存在することを確認。
+  - `releases/v2026.05.20.md` が日本語先・中文後であることを確認。
+  - `git diff --cached --check` を実行し、新規文書の空白問題を確認。
+  - コミット後に `origin/main` へ push。
+  - `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md` で初回 release を作成。
+  - 作成後に `gh release view v2026.05.20 --repo FinWiki repository` と `gh release list` で公開状態を確認。
+- 残タスク: 今後の重要 snapshot でも、release notes と changelog の両方を更新し、GitHub Releases ページが空洞化しないようにする。
+
+#### 中文记录
+
+- 背景：用户指出 GitHub Releases 区域显示 `No releases published / Create a new release`，并要求 release 也必须写得很清楚，日文放在前面。
+- 影响范围：GitHub Releases 运维、README release 方针、agent 本地规则、首次 release notes。
+- 主要文件：
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+  - `releases/v2026.05.20.md`
+- 时间线：
+  - 09:10: 检查 `gh --version` 与 `gh auth status`，确认 GitHub CLI 可用，且 `repository-owner` 账号已带 `repo` scope 登录。
+  - 09:10: 执行 `gh release list --repo FinWiki repository --limit 10`，确认当前没有任何 release。
+  - 09:10: 在 `README.md` 增加 GitHub Releases 章节，说明 FinWiki 的 release 不是软件包分发，而是知识库公开快照。
+  - 09:10: 在 README 中补充 release 语言顺序、tag 格式、title、body、记录来源和初始 release 参考文件。
+  - 09:10: 更新 `AGENTS.md`，明确 GitHub Release 的 title/body 也必须日文在前、中文在后，并写清楚发布范围、主要变更、验证结果、已知注意事项和下一步。
+  - 09:10: 新增 `releases/v2026.05.20.md`，准备首次 release 用的日文优先、中文随后详细 release notes。
+  - 09:10: 在 `CHANGELOG.md` 增加本条记录，记录 release 空状态确认、文档更新、release notes 准备和验证计划。
+- 验证计划：
+  - 确认 `README.md` 的日文和中文部分都包含 release 章节。
+  - 确认 `releases/v2026.05.20.md` 是日文在前、中文在后。
+  - 执行 `git diff --cached --check`，确认新增文档无尾随空格。
+  - 提交后推送到 `origin/main`。
+  - 使用 `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md` 创建首次 release。
+  - 创建后用 `gh release view v2026.05.20 --repo FinWiki repository` 与 `gh release list` 确认发布状态。
+- 后续事项：以后重要快照都要同时更新 release notes 和 changelog，避免 GitHub Releases 页面再次变成空壳。
+
 ### 09:06 JST: README 日文优先与内容强化
 
 #### 日本語記録
