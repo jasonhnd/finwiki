@@ -20,6 +20,56 @@
 
 ## 2026-05-20
 
+### 09:31 JST: GitHub 公開履歴の privacy rewrite と force push
+
+#### 日本語記録
+
+- 背景: ユーザーから、GitHub 上の公開 repository でも個人情報を恒久削除するよう追加指示があった。
+- 影響範囲: Git commit history、commit author / committer metadata、`main` branch、既存 release tags、GitHub Releases、README の release 運用ルール。
+- 主要ファイル:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-4.md`
+- 実行手順:
+  - `git filter-branch` で公開不適合ページと残存テキストを history 全体から除去。
+  - すべての commit author / committer を `FinWiki Maintainer <noreply@finwiki.invalid>` に一般化。
+  - `main` と既存 release tags を rewrite 後の commit に更新。
+  - `refs/original/*`、reflog、unreachable objects を local で削除し、local garbage collection を実行。
+  - `git push --force` で `main` と `v2026.05.20`, `v2026.05.20-2`, `v2026.05.20-3` を GitHub 上で強制更新。
+- 検証結果:
+  - `git log --all --format` で commit metadata が一般化されていることを確認。
+  - `git rev-list --all | xargs git grep` で local history 全体に privacy scan の対象語が残っていないことを確認。
+  - 削除対象 path に対する `git rev-list --all -- <path>` は空。
+  - GitHub remote refs は rewrite 後の `main` と tags のみを指す。
+  - Fresh mirror clone / shallow clone の両方で公開 refs 内の privacy scan は no match。
+- 残タスク:
+  - GitHub API では旧 SHA が dangling commit として一時的に直接参照できるため、完全な GitHub 側 purge には GitHub Support に cached views / dangling commits の purge を依頼する必要がある。
+  - 既存 fork や第三者 clone がある場合、GitHub 側だけでは削除できないため、fork / clone 側の削除または再作成が必要。
+
+#### 中文记录
+
+- 背景：用户追加要求 GitHub 上的公开 repository 也必须永久删除个人信息。
+- 影响范围：Git commit history、commit author / committer metadata、`main` branch、既有 release tags、GitHub Releases、README 的 release 运维规则。
+- 主要文件：
+  - `README.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-4.md`
+- 执行步骤：
+  - 用 `git filter-branch` 从全历史删除不适合公开的页面和残留文本。
+  - 将所有 commit author / committer 泛化为 `FinWiki Maintainer <noreply@finwiki.invalid>`。
+  - 将 `main` 和既有 release tags 更新到重写后的 commit。
+  - 删除本地 `refs/original/*`、reflog、unreachable objects，并执行 local garbage collection。
+  - 用 `git push --force` 强制更新 GitHub 上的 `main` 和 `v2026.05.20`, `v2026.05.20-2`, `v2026.05.20-3`。
+- 验证结果：
+  - 用 `git log --all --format` 确认 commit metadata 已泛化。
+  - 用 `git rev-list --all | xargs git grep` 确认本地全历史 privacy scan 无命中。
+  - 对删除目标 path 执行 `git rev-list --all -- <path>`，结果为空。
+  - GitHub remote refs 只指向重写后的 `main` 和 tags。
+  - Fresh mirror clone / shallow clone 的公开 refs privacy scan 均无命中。
+- 后续事项：
+  - GitHub API 仍可能临时通过旧 SHA 直接访问 dangling commits；要在 GitHub 侧彻底 purge，需要联系 GitHub Support 清理 cached views / dangling commits。
+  - 如果存在 fork 或第三方 clone，GitHub 主仓库无法单方面删除那些副本，需要同步处理 fork / clone。
+
 ### 09:18 JST: 公開面プライバシー監査と非公開情報の削除
 
 #### 日本語記録
