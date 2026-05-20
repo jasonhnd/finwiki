@@ -18,6 +18,60 @@
 
 ## 2026-05-20
 
+### 09:16 JST: Release title 日本語のみ化と push 連動ルール追加
+
+#### 日本語記録
+
+- 背景: ユーザーから、GitHub Releases の title から中文を外し、日本語だけにすること、さらに今後すべての git push で詳細な `README.md` / `CHANGELOG.md` / Releases 更新を行うことが明示された。
+- 影響範囲: release title ルール、release body ルール、push 前後の必須更新フロー、既存 release `v2026.05.20`、新規 release `v2026.05.20-2`。
+- 主要ファイル:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+  - `releases/v2026.05.20.md`
+  - `releases/v2026.05.20-2.md`
+- タイムライン:
+  - 09:16: `git status --short --branch` を確認し、wiki 本文側に多数の未コミット変更・削除が存在することを確認。
+  - 09:16: 本作業の対象を release / README / CHANGELOG / AGENTS の運用文書に限定し、本文側の未コミット変更には触れない方針を決定。
+  - 09:16: `gh release view v2026.05.20` で既存 release title が `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开` であることを確認。
+  - 09:16: `README.md` の GitHub Releases ルールを更新し、Release title は日本語のみ、body は日本語先・中文後と明記。
+  - 09:16: `README.md` と `AGENTS.md` に、`origin/main` へ push するたびに詳細な README / CHANGELOG / release notes / GitHub Release を更新するルールを追加。
+  - 09:16: `releases/v2026.05.20.md` の見出しから中文タイトルを外し、初回 release notes 内の release 運用表現を更新。
+  - 09:16: `releases/v2026.05.20-2.md` を新規作成し、本 push 用の release notes を日本語先・中文後で作成。
+- 検証予定:
+  - `git diff --cached --check` で今回 stage する文書の空白問題を確認。
+  - 対象文書だけを commit / push し、本文側の未コミット変更は stage しない。
+  - 既存 release `v2026.05.20` の title を `v2026.05.20 FinWiki 初回公開` に修正。
+  - 新規 release `v2026.05.20-2` を title `v2026.05.20-2 Release運用ルール更新` で作成。
+  - `gh release list` と `gh release view` で title が日本語のみであることを確認。
+- 残タスク: wiki 本文側の大量未コミット変更・削除は、別作業として範囲確認が必要。
+
+#### 中文记录
+
+- 背景：用户要求 GitHub Releases 的标题去掉中文，只保留日语；同时要求今后每次 git push 都必须更新详细的 `README.md` / `CHANGELOG.md` / Releases。
+- 影响范围：release title 规则、release body 规则、push 前后的必需更新流程、既有 release `v2026.05.20`、新增 release `v2026.05.20-2`。
+- 主要文件：
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+  - `releases/v2026.05.20.md`
+  - `releases/v2026.05.20-2.md`
+- 时间线：
+  - 09:16: 检查 `git status --short --branch`，发现 wiki 正文侧存在大量未提交修改和删除。
+  - 09:16: 决定本次只处理 release / README / CHANGELOG / AGENTS 运维文档，不触碰正文侧未提交改动。
+  - 09:16: 用 `gh release view v2026.05.20` 确认现有 release title 是 `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开`。
+  - 09:16: 更新 `README.md` 的 GitHub Releases 规则，明确 Release title 只使用日文，body 保持日文在前、中文在后。
+  - 09:16: 在 `README.md` 和 `AGENTS.md` 中加入规则：每次 push 到 `origin/main`，都必须同步更新详细 README / CHANGELOG / release notes / GitHub Release。
+  - 09:16: 修改 `releases/v2026.05.20.md` 标题，去掉中文标题，并更新首次 release notes 中的 release 运用规则表述。
+  - 09:16: 新增 `releases/v2026.05.20-2.md`，作为本次 push 的 release notes，日文在前、中文在后。
+- 验证计划：
+  - 执行 `git diff --cached --check`，确认本次 staged 文档没有空白问题。
+  - 只提交和推送目标文档，不 stage 正文侧未提交改动。
+  - 将既有 release `v2026.05.20` 的 title 改为 `v2026.05.20 FinWiki 初回公開`。
+  - 创建新 release `v2026.05.20-2`，title 为 `v2026.05.20-2 Release運用ルール更新`。
+  - 用 `gh release list` 和 `gh release view` 确认 release title 只保留日文。
+- 后续事项：wiki 正文侧大量未提交修改和删除需要作为另一项工作单独确认范围。
+
 ### 09:10 JST: GitHub Release 初回公開準備と release notes 明文化
 
 #### 日本語記録
@@ -30,8 +84,8 @@
   - `AGENTS.md`
   - `releases/v2026.05.20.md`
 - タイムライン:
-  - 09:10: `gh --version` と `gh auth status` を確認し、GitHub CLI が利用可能で、`repository-owner` アカウントが `repo` scope で認証済みであることを確認。
-  - 09:10: `gh release list --repo FinWiki repository --limit 10` を実行し、既存 release がないことを確認。
+  - 09:10: `gh --version` と `gh auth status` を確認し、GitHub CLI が利用可能でを確認。
+  - 09:10: `gh release list --repo <repository> --limit 10` を実行し、既存 release がないことを確認。
   - 09:10: `README.md` に GitHub Releases セクションを追加し、FinWiki の release はソフトウェア配布ではなく知識ベース snapshot として扱うことを明記。
   - 09:10: release の言語順、タグ形式、title、body、記録元、初回 release 参照先を README に追加。
   - 09:10: `AGENTS.md` に GitHub Release の title/body も日本語先・中文後にし、公開範囲、主要変更、検証結果、既知の注意点、次の作業を書くルールを追加。
@@ -43,10 +97,10 @@
   - `git diff --cached --check` を実行し、新規文書の空白問題を確認。
   - コミット後に `origin/main` へ push。
   - `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md` で初回 release を作成。
-  - 作成後に `gh release view v2026.05.20 --repo FinWiki repository` と `gh release list` で公開状態を確認。
+  - 作成後に `gh release view v2026.05.20 --repo <repository>` と `gh release list` で公開状態を確認。
 - 検証結果:
   - 09:13: `v2026.05.20` を GitHub Release として公開。
-  - Release URL: https://github.com/FinWiki repository/releases/tag/v2026.05.20
+  - Release URL: origin repository/releases/tag/v2026.05.20
   - `gh release list` で `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开` が `Latest` として表示されることを確認。
   - `gh release view` で draft ではなく prerelease でもない通常 release として公開済みであることを確認。
   - remote の `refs/tags/v2026.05.20` が release 準備コミット `749506c` を指していることを確認。
@@ -62,8 +116,8 @@
   - `AGENTS.md`
   - `releases/v2026.05.20.md`
 - 时间线：
-  - 09:10: 检查 `gh --version` 与 `gh auth status`，确认 GitHub CLI 可用，且 `repository-owner` 账号已带 `repo` scope 登录。
-  - 09:10: 执行 `gh release list --repo FinWiki repository --limit 10`，确认当前没有任何 release。
+  - 09:10: 检查 `gh --version` 与 `gh auth status`，确认 GitHub CLI 可用。
+  - 09:10: 执行 `gh release list --repo <repository> --limit 10`，确认当前没有任何 release。
   - 09:10: 在 `README.md` 增加 GitHub Releases 章节，说明 FinWiki 的 release 不是软件包分发，而是知识库公开快照。
   - 09:10: 在 README 中补充 release 语言顺序、tag 格式、title、body、记录来源和初始 release 参考文件。
   - 09:10: 更新 `AGENTS.md`，明确 GitHub Release 的 title/body 也必须日文在前、中文在后，并写清楚发布范围、主要变更、验证结果、已知注意事项和下一步。
@@ -75,10 +129,10 @@
   - 执行 `git diff --cached --check`，确认新增文档无尾随空格。
   - 提交后推送到 `origin/main`。
   - 使用 `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md` 创建首次 release。
-  - 创建后用 `gh release view v2026.05.20 --repo FinWiki repository` 与 `gh release list` 确认发布状态。
+  - 创建后用 `gh release view v2026.05.20 --repo <repository>` 与 `gh release list` 确认发布状态。
 - 验证结果：
   - 09:13: 已将 `v2026.05.20` 发布为 GitHub Release。
-  - Release URL: https://github.com/FinWiki repository/releases/tag/v2026.05.20
+  - Release URL: origin repository/releases/tag/v2026.05.20
   - 已用 `gh release list` 确认 `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开` 显示为 `Latest`。
   - 已用 `gh release view` 确认该 release 不是 draft，也不是 prerelease，而是正式 release。
   - 已确认远端 `refs/tags/v2026.05.20` 指向 release 准备提交 `749506c`。
@@ -178,15 +232,15 @@
 
 #### 中文记录
 
-- 背景：需要把本地 `FinWiki` 的全部知识库内容同步到 GitHub 仓库 `FinWiki repository`。
-- 远端仓库：[FinWiki repository](https://github.com/FinWiki repository)
+- 背景：需要把本地 `local FinWiki working directory` 的全部知识库内容同步到 GitHub 仓库 `origin repository`。
+- 远端仓库：[origin repository](origin repository)
 - 提交：`c710bd4 docs: sync FinWiki knowledge base`
 - 影响范围：全仓库初始同步。
 - 时间线：
   - 08:56: 检查本地目录，确认当时还不是 git 仓库。
   - 08:56: 检查远端 `main`，确认远端已有初始提交 `ca4b9a8 Initial commit`。
   - 08:56: 临时克隆远端，确认远端只有 `README.md` 和 `LICENSE` 两个文件。
-  - 08:58: 在本地目录初始化 git 仓库，设置 `origin` 为 `https://github.com/FinWiki repository.git`。
+  - 08:58: 在本地目录初始化 git 仓库，设置 `origin` 为 `origin remote URL`。
   - 08:58: 拉取并对齐 `origin/main`，保留远端原有 `README.md` 与 `LICENSE`。
   - 08:58: 新增 `.gitignore`，排除 `.DS_Store`、`.ruff_cache/`、`__pycache__/`、Python bytecode。
   - 08:58: 暂存本地 wiki 内容，形成 577 个新增文件。
@@ -205,15 +259,15 @@
 
 #### 日本語記録
 
-- 背景: ローカルの `FinWiki` にあるナレッジベース全体を GitHub リポジトリ `FinWiki repository` に同期する必要があった。
-- リモートリポジトリ: [FinWiki repository](https://github.com/FinWiki repository)
+- 背景: ローカルの `local FinWiki working directory` にあるナレッジベース全体を GitHub リポジトリ `origin repository` に同期する必要があった。
+- リモートリポジトリ: [origin repository](origin repository)
 - コミット: `c710bd4 docs: sync FinWiki knowledge base`
 - 影響範囲: リポジトリ全体の初回同期。
 - タイムライン:
   - 08:56: ローカルディレクトリを確認し、その時点では git リポジトリではないことを確認。
   - 08:56: リモート `main` を確認し、初期コミット `ca4b9a8 Initial commit` が存在することを確認。
   - 08:56: リモートを一時 clone し、リモートには `README.md` と `LICENSE` の 2 ファイルのみ存在することを確認。
-  - 08:58: ローカルディレクトリで git リポジトリを初期化し、`origin` を `https://github.com/FinWiki repository.git` に設定。
+  - 08:58: ローカルディレクトリで git リポジトリを初期化し、`origin` を `origin remote URL` に設定。
   - 08:58: `origin/main` を取得してローカルと揃え、リモート既存の `README.md` と `LICENSE` を保持。
   - 08:58: `.gitignore` を追加し、`.DS_Store`、`.ruff_cache/`、`__pycache__/`、Python bytecode を除外。
   - 08:58: ローカル wiki コンテンツを stage し、577 個の新規ファイルを追加対象にした。
