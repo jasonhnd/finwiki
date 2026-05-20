@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: extracted
+confidence: certain
 tags: [JapanFG, megabank]
 status: active
 sources:
@@ -15,7 +15,6 @@ sources:
   - みずほ FG 第 23 期 (2025-03 期) 有価証券報告書
   - みずほ FG「中期経営計画 2024-2026」(2024-05 公表)
 ---
-
 # みずほ FG (Mizuho FG)
 
 ## TL;DR

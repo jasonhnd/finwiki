@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: high
+confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
 status: active
 sources:
@@ -19,7 +19,6 @@ sources:
   - "日本経済新聞「日本生命保険、営業職員数5万人割れ」(2024-06-28)"
   - "日本生命「Vision 2030」公式説明資料"
 ---
-
 # 日本生命保険相互会社 (Nippon Life)
 
 ## TL;DR

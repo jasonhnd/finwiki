@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: high
+confidence: likely
 tags: [JapanFG, life-insurance]
 status: active
 sources:
@@ -15,7 +15,6 @@ sources:
   - "2025年3月期 決算短信 (連結, 2025-05-15 開示)"
   - "2026年3月期 第2四半期(中間期) 決算短信 (連結, 2025-11-14 開示)"
 ---
-
 # 第一生命 HD (Dai-ichi Life Holdings)
 
 ## TL;DR

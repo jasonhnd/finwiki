@@ -16,14 +16,14 @@ sources:
 
 ## TL;DR
 
-`fintech/` contains **102 entries** centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-money expansion before adding new issuer or regulatory pages.
+`fintech/` contains **103 entries** centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-money expansion before adding new issuer or regulatory pages.
 
 ## Routing map
 
 | Cluster | Count | Core route |
 |---|---:|---|
 | Stablecoin regulation / compliance | 29 | [[fintech/genius-act-501-denylist-mandate|GENIUS §501]], [[fintech/mica-overview|MiCA]], [[fintech/japan-epi-three-types-overview|Japan EPI]] |
-| Strategy theses and market structure | 17 | [[fintech/2022-three-variable-cascade-thesis|2022 cascade]], [[fintech/four-motive-classes-asymmetric-competition|4 motive classes]], [[fintech/portfolio-winner-structure-arm-analog|portfolio winner]] |
+| Strategy theses and market structure | 18 | [[fintech/2022-three-variable-cascade-thesis|2022 cascade]], [[fintech/four-motive-classes-asymmetric-competition|4 motive classes]], [[fintech/portfolio-winner-structure-arm-analog|portfolio winner]] |
 | Issuers / products / reserve assets | 17 | [[fintech/paypal-pyusd-stablecoin|PYUSD]], [[fintech/ripple-rlusd-stablecoin|RLUSD]], [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] |
 | CBDC / wholesale settlement | 13 | [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]], [[fintech/bis-project-agora-overview|Agorá]], [[fintech/cbdc-multi-tier-architecture-overview|CBDC architecture]] |
 | Japan-specific stablecoin / EPI | 10 | [[fintech/japan-stablecoin-regulatory-landscape|Japan SC landscape]], [[fintech/jp-stablecoin-progmat|Progmat]], [[fintech/jp-stablecoin-dcjpy|DCJPY]] |
@@ -137,6 +137,7 @@ sources:
 - [[fintech/chain-level-ofac-freeze-precedent|chain-level OFAC freeze]]
 - [[fintech/em-market-crypto-dollarization-pattern|emerging-market crypto dollarization]]
 - [[fintech/enterprise-procurement-deadline-anchor|enterprise procurement deadline anchor]]
+- [[fintech/protocol-renewal-trigger-as-event-anchor|protocol renewal trigger]]
 - [[fintech/stablecoin-war-articles-2026-05|stablecoin war article series]]
 
 ## Embedded wallets / interchange / business economics

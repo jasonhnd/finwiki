@@ -6,16 +6,15 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-19
-confidence: tentative
+confidence: possible
 tags: [JapanFG, telco-financial, holding-company]
-status: planned
+status: candidate
 sources:
   - "NTT ドコモ プレスリリース「金融事業を統括する中間持株会社の設立について」(公開発表ベース)"
   - "マネックスグループ・住信 SBI ネット銀行 各社 IR 適時開示"
   - "日経新聞 / Bloomberg / Reuters 公開報道 (2024〜2026)"
   - "Wikipedia: NTT ドコモ"
 ---
-
 # NTT ドコモ・フィナンシャルグループ (NDFG)
 
 ## TL;DR

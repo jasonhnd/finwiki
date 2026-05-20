@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: confirmed
+confidence: certain
 tags: [JapanFG, trust-banking]
 status: active
 sources:
@@ -14,7 +14,6 @@ sources:
   - "Wikipedia: 三井住友トラストグループ (公開情報、2026-05-19 参照)"
   - "Wikipedia: 三井住友信託銀行 (公開情報、2026-05-19 参照)"
 ---
-
 # 三井住友トラストグループ (SuMi TRUST)
 
 ## TL;DR

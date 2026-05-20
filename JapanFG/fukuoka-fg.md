@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: confirmed
+confidence: certain
 tags: [JapanFG, regional-bank, baas]
 status: active
 sources:
@@ -19,7 +19,6 @@ sources:
   - "Wikipedia: みんなの銀行 (2026-05-19 抽出)"
   - "Wikipedia: 十八親和銀行 (2026-05-19 抽出)"
 ---
-
 # ふくおか FG (FFG)
 
 ## TL;DR

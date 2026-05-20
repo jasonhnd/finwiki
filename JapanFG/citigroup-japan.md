@@ -4,6 +4,7 @@ aliases: ["Citigroup Japan", "シティグループ", "Citi Japan", "シティ�
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -16,7 +17,6 @@ sources:
   - "Citigroup Inc. Annual Report 2024 (公開 IR)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
 ---
-
 # シティグループ・ジャパン (Citigroup Japan)
 
 ## TL;DR

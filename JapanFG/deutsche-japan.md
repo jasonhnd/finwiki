@@ -4,6 +4,7 @@ aliases: ["Deutsche Japan", "ドイツ銀行東京支店", "ドイチェ証券",
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -13,7 +14,6 @@ sources:
   - "Deutsche Bank AG 公式日本サイト"
   - "公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)"
 ---
-
 # ドイチェ・ジャパン (Deutsche Japan)
 
 ## TL;DR

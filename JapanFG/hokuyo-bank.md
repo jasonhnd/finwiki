@@ -4,6 +4,7 @@ aliases: ["Hokuyo Bank", "株式会社北洋銀行", "北洋", "Hokuyou Bank", "
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, hokkaido, second-tier]
@@ -14,7 +15,6 @@ sources:
   - "Wikipedia: 北海道拓殖銀行 (2026-05-19 抽出)"
   - "財務省北海道財務局 公表資料 (2008-10-14)"
 ---
-
 # 北洋銀行
 
 ## TL;DR

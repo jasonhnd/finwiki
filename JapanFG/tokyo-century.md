@@ -4,6 +4,7 @@ aliases: ["Tokyo Century", "東京センチュリー", "TC", "8439", "旧 東京
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, leasing]
@@ -12,7 +13,6 @@ sources:
   - "Wikipedia: 東京センチュリー (公開情報, 2026-05-19 抽出)"
   - 東京センチュリー 公式 IR (公開情報)
 ---
-
 # 東京センチュリー株式会社 (Tokyo Century Corporation)
 
 ## TL;DR

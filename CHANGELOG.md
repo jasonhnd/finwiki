@@ -20,6 +20,56 @@
 
 ## 2026-05-20
 
+### 17:58 JST: グローバルヘルスチェックの実施とフロントマターおよび壊れたリンクの修正 / 全局健康检查实施与前置元数据及损坏链接修复
+
+#### 日本語記録
+
+- 背景: 530以上のWiki Markdownファイルにおけるメタデータの整合性とリンクの整合性を確保するため、リポジトリ全体のグローバルヘルスチェックを実施し、不整合のあるフロントマター（frontmatter）および壊れたウィキリンク（broken wikilinks）を一括修正した。また、欠落していた重要なフレームワークに関する新規Wikiページを2件追加し、関連インデックスを更新した。
+- 影響範囲: `JapanFG`の27個のコンテンツファイル、`fintech/INDEX.md`、`INDEX.md`、`JapanFG/sompo.md`、および新規追加した2つのWikiファイル（`fintech/protocol-renewal-trigger-as-event-anchor.md`、`security/fork-and-rebrand-5-layer-audit-framework.md`）。
+- 主要ファイル:
+  - `INDEX.md` (ルートインデックス)
+  - `fintech/INDEX.md` (フィンテックインデックス)
+  - `JapanFG/sompo.md` (リンク修正)
+  - `fintech/protocol-renewal-trigger-as-event-anchor.md` (新規)
+  - `security/fork-and-rebrand-5-layer-audit-framework.md` (新規)
+  - `JapanFG/` 配下の27ファイル (フロントマター修正)
+- タイムライン:
+  - 17:47: リポジトリ全体のグローバルスキャン結果からフロントマターのスキーマ違反27箇所と壊れたウィキリンクを特定。
+  - 17:52: 自動フロントマター修正スクリプト (`fix_frontmatter.py`) を作成・実行。`last_tended`の自動挿入および無効な `confidence` / `status` 値の正規化（`high`->`likely`、`confirmed`/`extracted`->`certain`、`tentative`->`possible`、`planned`->`candidate`）を実施。
+  - 17:54: 新規Wikiエントリーとして `protocol-renewal-trigger-as-event-anchor.md` と `fork-and-rebrand-5-layer-audit-framework.md` をテンプレートに従い美しく作成。
+  - 17:55: `JapanFG/sompo.md` の壊れたウィキリンク `[[JapanFG]]` を `[[JapanFG/INDEX|JapanFG]]` に修正。
+  - 17:56: `fintech/INDEX.md` およびルートの `INDEX.md` の記数を更新し、新規ページのウィキリンクを追加。
+  - 17:57: ヘルスチェックスクリプト (`vault_health_check.py`) を再実行し、制御文書以外の全Wikiファイルでエラーおよび壊れたリンクが完全にゼロになったことを検証。
+  - 17:58: 本 `CHANGELOG.md` を更新し、リリース用ファイル `releases/v2026.05.20-9.md` をJP/EN/ZHの三言語で起草。
+- 検証結果:
+  - 再スキャンにより、534個 of Wikiファイル中で制御文書以外のすべてのスキーマエラーと壊れた内部ウィキリンクが解決されたことを確認。
+- 後続事項:
+  - コミット後に `origin/main` にプッシュし、GitHub CLI を使用してタイトルが日本語のみの `v2026.05.20-9` リリースを作成・発行。
+
+#### 中文记录
+
+- 背景：为确保530多个Wiki Markdown文件的元数据完整性与内部链接有效性，我们对整个知识库进行了全局健康检查，一揽子修复了所有不符合规范的 YAML 前置元数据（frontmatter）以及损坏的维基链接（broken wikilinks）。同时，根据缺失关联创建了两个全新的核心框架 Wiki 页面，并同步更新了相关索引文件。
+- 影响范围：`JapanFG` 下的27个Wiki文件、`fintech/INDEX.md`、根目录 `INDEX.md`、`JapanFG/sompo.md` 以及新增的两个 Wiki 页面（`fintech/protocol-renewal-trigger-as-event-anchor.md`、`security/fork-and-rebrand-5-layer-audit-framework.md`）。
+- 主要文件：
+  - `INDEX.md` (根索引)
+  - `fintech/INDEX.md` (Fintech索引)
+  - `JapanFG/sompo.md` (链接修正)
+  - `fintech/protocol-renewal-trigger-as-event-anchor.md` (新增)
+  - `security/fork-and-rebrand-5-layer-audit-framework.md` (新增)
+  - `JapanFG/` 目录下的27个Wiki文件 (前置元数据修正)
+- 时间线：
+  - 17:47: 基于全局扫描报告，定位到 27 处前置元数据规范冲突以及损坏的维基链接。
+  - 17:52: 编写并执行前置元数据自动化修复脚本 (`fix_frontmatter.py`)。补全缺失的 `last_tended` 维护日期，并将无效的 `confidence` / `status` 参数映射至规范值（`high`->`likely`，`confirmed`/`extracted`->`certain`，`tentative`->`possible`，`planned`->`candidate`）。
+  - 17:54: 严格按照模板要求，高质量创建了两个全新的概念 Wiki 页面 `protocol-renewal-trigger-as-event-anchor.md` 和 `fork-and-rebrand-5-layer-audit-framework.md`。
+  - 17:55: 修复 `JapanFG/sompo.md` 中指向错误目录的损坏链接 `[[JapanFG]]` 为 `[[JapanFG/INDEX|JapanFG]]`。
+  - 17:56: 更新了 `fintech/INDEX.md` 和根目录 `INDEX.md` 中的文章总数、分类总数以及新增页面的维基链接。
+  - 17:57: 重新运行健康检查脚本 (`vault_health_check.py`)，验证除控制文档外，所有知识页面前置数据及链接错误数均归零。
+  - 17:58: 更新本 `CHANGELOG.md` 变更日志，并在 `releases/v2026.05.20-9.md` 中起草日/英/中三语版发布说明。
+- 验证结果：
+  - 经重新扫描验证，534个Wiki文件中已彻底消除所有非控制性文档的元数据冲突及损坏的维基链接。
+- 后续事项：
+  - 将所有修改推送至 `origin/main` 远端，并通过 GitHub CLI 创建日文标题的 `v2026.05.20-9` 版本正式发布。
+
 ### 16:52 JST: GitHub Pages ポータルステータスカードの三言語化 / GitHub Pages 门户状态卡片的三语化
 
 #### 日本語記録

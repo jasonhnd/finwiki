@@ -4,6 +4,7 @@ aliases: ["Morgan Stanley Japan", "MS Japan", "モルガン・スタンレー・
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
@@ -13,7 +14,6 @@ sources:
   - Morgan Stanley Annual Report (2024 / Form 10-K)
   - MUFG IR 開示 (Morgan Stanley 戦略提携関連)
 ---
-
 # モルガン・スタンレー・ジャパン (Morgan Stanley Japan)
 
 ## TL;DR

@@ -4,6 +4,7 @@ aliases: ["三十三フィナンシャルグループ", "San ju San FG", "三十
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -12,7 +13,6 @@ sources:
   - "Wikipedia: 三十三フィナンシャルグループ (2026-05-19 抽出)"
   - "Wikipedia: 三十三銀行 (2026-05-19 抽出)"
 ---
-
 # 三十三 FG (San ju San Financial Group)
 
 ## TL;DR

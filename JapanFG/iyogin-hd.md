@@ -4,6 +4,7 @@ aliases: ["いよぎんホールディングス", "Iyogin HD", "Iyogin Holdings"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, shikoku]
@@ -13,7 +14,6 @@ sources:
   - "Wikipedia: 株式会社伊予銀行 (公開情報)"
   - "いよぎん HD コーポレートサイト (公開 IR)"
 ---
-
 # いよぎん HD (Iyogin Holdings)
 
 ## TL;DR
