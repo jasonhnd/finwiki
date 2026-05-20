@@ -44,6 +44,12 @@
   - コミット後に `origin/main` へ push。
   - `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md` で初回 release を作成。
   - 作成後に `gh release view v2026.05.20 --repo FinWiki repository` と `gh release list` で公開状態を確認。
+- 検証結果:
+  - 09:13: `v2026.05.20` を GitHub Release として公開。
+  - Release URL: https://github.com/FinWiki repository/releases/tag/v2026.05.20
+  - `gh release list` で `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开` が `Latest` として表示されることを確認。
+  - `gh release view` で draft ではなく prerelease でもない通常 release として公開済みであることを確認。
+  - remote の `refs/tags/v2026.05.20` が release 準備コミット `749506c` を指していることを確認。
 - 残タスク: 今後の重要 snapshot でも、release notes と changelog の両方を更新し、GitHub Releases ページが空洞化しないようにする。
 
 #### 中文记录
@@ -70,6 +76,12 @@
   - 提交后推送到 `origin/main`。
   - 使用 `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md` 创建首次 release。
   - 创建后用 `gh release view v2026.05.20 --repo FinWiki repository` 与 `gh release list` 确认发布状态。
+- 验证结果：
+  - 09:13: 已将 `v2026.05.20` 发布为 GitHub Release。
+  - Release URL: https://github.com/FinWiki repository/releases/tag/v2026.05.20
+  - 已用 `gh release list` 确认 `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开` 显示为 `Latest`。
+  - 已用 `gh release view` 确认该 release 不是 draft，也不是 prerelease，而是正式 release。
+  - 已确认远端 `refs/tags/v2026.05.20` 指向 release 准备提交 `749506c`。
 - 后续事项：以后重要快照都要同时更新 release notes 和 changelog，避免 GitHub Releases 页面再次变成空壳。
 
 ### 09:06 JST: README 日文优先与内容强化
