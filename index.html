@@ -6,8 +6,11 @@
     <title>FinWiki</title>
     <meta
       name="description"
-      content="FinWiki is a public bilingual knowledge base for finance, payments, stablecoins, crypto assets, Japanese financial institutions, and capital markets."
+      content="FinWiki is a public trilingual knowledge base for finance, payments, stablecoins, crypto assets, Japanese financial institutions, and capital markets."
     >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>
       :root {
         color-scheme: light;
@@ -30,10 +33,12 @@
         margin: 0;
         background: var(--paper);
         color: var(--ink);
-        font-family:
-          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-          "Segoe UI", sans-serif;
+        font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         line-height: 1.65;
+      }
+
+      h1, h2, h3, .eyebrow, .brand, .lang-btn, .button {
+        font-family: 'Outfit', 'Inter', sans-serif;
       }
 
       a {
@@ -76,6 +81,7 @@
         border: 1px solid var(--line);
         border-radius: 8px;
         background: #f4faf8;
+        font-size: 1.2rem;
       }
 
       nav {
@@ -86,25 +92,30 @@
       }
 
       main {
-        padding: 44px 0 56px;
+        padding: 32px 0 56px;
       }
 
       .hero {
         display: grid;
         gap: 18px;
-        padding-bottom: 32px;
+        padding-bottom: 24px;
       }
 
       .eyebrow {
         color: var(--teal);
         font-weight: 750;
+        font-size: 1.05rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
       }
 
       h1 {
         max-width: 900px;
         margin: 0;
-        font-size: clamp(2.2rem, 6vw, 4.6rem);
+        font-size: clamp(2.2rem, 6vw, 4.2rem);
         line-height: 1.06;
+        font-weight: 800;
+        letter-spacing: -0.02em;
       }
 
       .lead {
@@ -125,14 +136,21 @@
         display: inline-flex;
         align-items: center;
         gap: 8px;
-        min-height: 42px;
-        padding: 8px 14px;
+        min-height: 44px;
+        padding: 8px 18px;
         border: 1px solid var(--line);
         border-radius: 8px;
         background: #ffffff;
         color: var(--ink);
         font-weight: 700;
         text-decoration: none;
+        transition: all 0.2s ease;
+      }
+
+      .button:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        border-color: #cbd5e1;
       }
 
       .button.primary {
@@ -141,10 +159,59 @@
         color: #ffffff;
       }
 
+      .button.primary:hover {
+        box-shadow: 0 4px 12px rgba(11, 122, 117, 0.25);
+        background: #09635f;
+      }
+
+      /* Language selector styles */
+      .lang-selector-container {
+        display: flex;
+        justify-content: center;
+        margin: 8px 0 36px;
+      }
+
+      .lang-selector {
+        display: inline-flex;
+        background: #f1f5f9;
+        padding: 4px;
+        border-radius: 30px;
+        border: 1px solid var(--line);
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.03);
+      }
+
+      .lang-btn {
+        border: none;
+        background: none;
+        padding: 8px 24px;
+        font-weight: 700;
+        font-size: 0.95rem;
+        color: var(--muted);
+        border-radius: 26px;
+        cursor: pointer;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        outline: none;
+      }
+
+      .lang-btn:hover {
+        color: var(--ink);
+      }
+
+      .lang-btn.active {
+        background: #ffffff;
+        color: var(--teal);
+        box-shadow: 0 4px 12px rgba(11, 122, 117, 0.12), 0 1px 3px rgba(0, 0, 0, 0.05);
+      }
+
+      /* Language sections */
+      .lang-section {
+        display: block;
+      }
+
       .status {
         display: grid;
         grid-template-columns: repeat(4, minmax(0, 1fr));
-        gap: 12px;
+        gap: 14px;
         margin: 26px 0 36px;
       }
 
@@ -153,15 +220,23 @@
         border: 1px solid var(--line);
         border-radius: 8px;
         background: var(--panel);
+        transition: all 0.2s ease;
       }
 
       .stat {
-        padding: 14px;
+        padding: 16px;
+        border-left: 4px solid var(--teal);
+      }
+
+      .stat:hover {
+        background: #f8fafc;
+        transform: translateY(-1px);
       }
 
       .stat strong {
         display: block;
         font-size: 1.05rem;
+        font-weight: 700;
       }
 
       .stat span {
@@ -172,46 +247,67 @@
       .grid {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
-        gap: 14px;
+        gap: 16px;
         margin: 18px 0 36px;
       }
 
       .card {
-        padding: 18px;
+        padding: 20px;
       }
 
-      .card h2,
+      .card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+        border-color: #cbd5e1;
+      }
+
       .card h3 {
-        margin: 0 0 8px;
-        font-size: 1.05rem;
+        margin: 0 0 10px;
+        font-size: 1.1rem;
+        font-weight: 700;
       }
 
       .card p {
         margin: 0;
         color: var(--muted);
+        font-size: 0.95rem;
       }
 
       .section-title {
         display: flex;
         align-items: center;
         gap: 10px;
-        margin: 30px 0 12px;
-        font-size: 1.28rem;
+        margin: 36px 0 16px;
+        font-size: 1.35rem;
+        font-weight: 700;
+        border-bottom: 2px solid var(--line);
+        padding-bottom: 6px;
       }
 
       .domains {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 10px 16px;
-        margin: 0;
+        gap: 12px 18px;
+        margin: 0 0 36px 0;
         padding: 0;
         list-style: none;
       }
 
       .domains li {
         border-left: 4px solid var(--gold);
-        padding: 8px 0 8px 12px;
+        padding: 10px 14px;
         background: #fffdf6;
+        border-radius: 0 8px 8px 0;
+        font-weight: 600;
+        font-size: 0.98rem;
+        border: 1px solid var(--line);
+        border-left: 4px solid var(--gold);
+        transition: all 0.2s ease;
+      }
+
+      .domains li:hover {
+        transform: translateX(2px);
+        background: #fffbef;
       }
 
       .jp {
@@ -222,16 +318,23 @@
         border-top: 4px solid var(--teal);
       }
 
+      .en {
+        border-top: 4px solid var(--blue);
+      }
+
       footer {
         border-top: 1px solid var(--line);
-        padding: 24px 0 36px;
+        padding: 28px 0 40px;
         color: var(--muted);
+        font-size: 0.95rem;
+        text-align: center;
       }
 
       @media (max-width: 820px) {
         .topbar {
           align-items: flex-start;
           flex-direction: column;
+          gap: 12px;
         }
 
         .status,
@@ -241,10 +344,23 @@
         }
 
         main {
-          padding-top: 30px;
+          padding-top: 20px;
         }
       }
     </style>
+    <noscript>
+      <style>
+        .lang-section {
+          display: block !important;
+          margin-bottom: 60px;
+          border-bottom: 2px dashed var(--line);
+          padding-bottom: 40px;
+        }
+        .lang-selector-container {
+          display: none !important;
+        }
+      </style>
+    </noscript>
   </head>
   <body>
     <header>
@@ -264,89 +380,317 @@
 
     <main>
       <div class="shell">
-        <section class="hero">
-          <div class="eyebrow">🇯🇵 Public Finance Knowledge Base / 公開金融ナレッジベース</div>
-          <h1>FinWiki 📚💴🧭</h1>
-          <p class="lead">
-            金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う公開 Markdown wiki です。
-          </p>
-          <p class="lead">
-            面向金融、支付、稳定币、加密资产、资本市场、日本金融机构、政策金融以及公开公司/公开人物案例的公开 Markdown 知识库。
-          </p>
-          <div class="actions">
-            <a class="button primary" href="INDEX.md">🧭 全体索引 / 全库索引</a>
-            <a class="button" href="README.md">📘 README</a>
-            <a class="button" href="CHANGELOG.md">🕒 変更履歴 / 变更记录</a>
+        <!-- Segmented Language Control -->
+        <div class="lang-selector-container">
+          <div class="lang-selector" role="tablist" aria-label="Language Selector">
+            <button class="lang-btn active" role="tab" aria-selected="true" aria-controls="sec-jp" data-lang="jp" id="tab-jp">日本語</button>
+            <button class="lang-btn" role="tab" aria-selected="false" aria-controls="sec-en" data-lang="en" id="tab-en">English</button>
+            <button class="lang-btn" role="tab" aria-selected="false" aria-controls="sec-zh" data-lang="zh" id="tab-zh">中文</button>
           </div>
+        </div>
+
+        <!-- ==================== JAPANESE SECTION ==================== -->
+        <section id="sec-jp" class="lang-section" role="tabpanel" aria-labelledby="tab-jp">
+          <section class="hero">
+            <div class="eyebrow">🇯🇵 公開金融ナレッジベース</div>
+            <h1>FinWiki 📚💴🧭</h1>
+            <p class="lead">
+              金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う公開 Markdown wiki です。リンクは Obsidian の wikilink 形式を採用しています。
+            </p>
+            <div class="actions">
+              <a class="button primary" href="INDEX.md">🧭 全体索引 (INDEX.md)</a>
+              <a class="button" href="README.md">📘 運用ルール (README.md)</a>
+              <a class="button" href="CHANGELOG.md">🕒 変更履歴 (CHANGELOG.md)</a>
+            </div>
+          </section>
+
+          <section class="status" aria-label="リポジトリの状態">
+            <div class="stat">
+              <strong>🌐 finwiki.zksc.io</strong>
+              <span>GitHub Pages カスタムドメイン</span>
+            </div>
+            <div class="stat">
+              <strong>🇯🇵 日本語優先</strong>
+              <span>README / リリース文の順序</span>
+            </div>
+            <div class="stat">
+              <strong>🇨🇳 中国語維持</strong>
+              <span>二言語でのドキュメント運用体制</span>
+            </div>
+            <div class="stat">
+              <strong>🔐 公開情報限定</strong>
+              <span>個人情報・非公開環境パスの排除</span>
+            </div>
+          </section>
+
+          <h2 class="section-title">🚪 主な入口</h2>
+          <section class="grid" aria-label="エントランス">
+            <article class="card jp">
+              <h3>🧭 INDEX.md</h3>
+              <p><a href="INDEX.md">全体索引</a>から領域別に整理されたエントリーを探します。</p>
+            </article>
+            <article class="card jp">
+              <h3>📘 README.md</h3>
+              <p><a href="README.md">運用ルール</a>、公開面フィルター、リリース方針を確認します。</p>
+            </article>
+            <article class="card jp">
+              <h3>🕒 CHANGELOG.md</h3>
+              <p><a href="CHANGELOG.md">詳細な時系列</a>、作業記録、検証結果、リリース証跡を残します。</p>
+            </article>
+          </section>
+
+          <h2 class="section-title">🗺️ 主要領域 (Main Domains)</h2>
+          <ul class="domains">
+            <li>🏦 日本金融機関 (メガバンク、地方銀行、保険、証券、政策金融、外資金融等)</li>
+            <li>💳 フィンテック (ステーブルコイン、CBDC、EPI、MiCA、オンチェーン金融)</li>
+            <li>🪙 取引所・VASP (日本・海外CEX/DEX、カストディ規制、JVCEA、セキュリティ事案)</li>
+            <li>⚙️ システム基盤 (Canton/DAML、クロスチェーンCCTP、BFT、アカウント抽象化)</li>
+            <li>📊 金融・資本市場 (M&A、短期金融市場、日銀オペレーション、新NISA)</li>
+            <li>🛡️ セキュリティ (フォレンジック取証、bytecode検証、Waybackタイムスタンプ)</li>
+          </ul>
+
+          <h2 class="section-title">🔐 公開面ルール (Public Surface Policy)</h2>
+          <section class="grid" aria-label="公開面ポリシー">
+            <article class="card jp">
+              <h3>✅ 公開情報のみ</h3>
+              <p>公的機関資料、企業IR開示、規制当局登録簿、公開市場ニュースを厳格に優先します。</p>
+            </article>
+            <article class="card jp">
+              <h3>🚫 個人情報の排除</h3>
+              <p>ローカル環境のファイルパス、メールアドレス、個人資産額、非公開会話は記載しません。</p>
+            </article>
+            <article class="card jp">
+              <h3>📦 同期とリリース</h3>
+              <p>PushごとにREADME、CHANGELOG、リリースノート、GitHub Releasesを同期更新します。</p>
+            </article>
+          </section>
         </section>
 
-        <section class="status" aria-label="Repository status">
-          <div class="stat">
-            <strong>🌐 finwiki.zksc.io</strong>
-            <span>GitHub Pages custom domain</span>
-          </div>
-          <div class="stat">
-            <strong>🇯🇵 日本語 first</strong>
-            <span>README / Releases body order</span>
-          </div>
-          <div class="stat">
-            <strong>🇨🇳 中文 maintained</strong>
-            <span>Bilingual operations</span>
-          </div>
-          <div class="stat">
-            <strong>🔐 Public-only</strong>
-            <span>No private/local data</span>
-          </div>
+        <!-- ==================== ENGLISH SECTION ==================== -->
+        <section id="sec-en" class="lang-section" role="tabpanel" aria-labelledby="tab-en" hidden="until-found">
+          <section class="hero">
+            <div class="eyebrow">🌐 Public Finance Knowledge Base</div>
+            <h1>FinWiki 📚💴🧭</h1>
+            <p class="lead">
+              A public Markdown knowledge base covering finance, cashless payments, stablecoins, crypto assets, capital markets, Japanese financial institutions, policy finance, and strategic corporate cases. Driven by Obsidian-style vault-root wikilinks.
+            </p>
+            <div class="actions">
+              <a class="button primary" href="INDEX.md">🧭 Global Index (INDEX.md)</a>
+              <a class="button" href="README.md">📘 Guidebook (README.md)</a>
+              <a class="button" href="CHANGELOG.md">🕒 Changelog (CHANGELOG.md)</a>
+            </div>
+          </section>
+
+          <section class="status" aria-label="Repository Status">
+            <div class="stat">
+              <strong>🌐 finwiki.zksc.io</strong>
+              <span>GitHub Pages Custom Domain</span>
+            </div>
+            <div class="stat">
+              <strong>🇯🇵 Japanese First</strong>
+              <span>Order of README and releases</span>
+            </div>
+            <div class="stat">
+              <strong>🇨🇳 Chinese Maintained</strong>
+              <span>Trilingual & bilingual synchronization</span>
+            </div>
+            <div class="stat">
+              <strong>🔐 Public-Only</strong>
+              <span>Strict removal of private/local datasets</span>
+            </div>
+          </section>
+
+          <h2 class="section-title">🚪 Primary Entrances</h2>
+          <section class="grid" aria-label="Entrances">
+            <article class="card en">
+              <h3>🧭 INDEX.md</h3>
+              <p>Browse knowledge entries structured by domain from the <a href="INDEX.md">Global Index</a>.</p>
+            </article>
+            <article class="card en">
+              <h3>📘 README.md</h3>
+              <p>Review <a href="README.md">Operations & Release rules</a> and public-surface safety guidelines.</p>
+            </article>
+            <article class="card en">
+              <h3>🕒 CHANGELOG.md</h3>
+              <p>Check the <a href="CHANGELOG.md">Detailed Timeline</a>, execution logs, and validation results.</p>
+            </article>
+          </section>
+
+          <h2 class="section-title">🗺️ Main Domains</h2>
+          <ul class="domains">
+            <li>🏦 Japanese Financial Groups (Mega banks, regional banks, insurers, policy finance)</li>
+            <li>💳 Fintech & Stablecoins (Tokenized assets, EPI, MiCA, CBDC, on-chain finance)</li>
+            <li>🪙 Exchanges & VASP (CEX, DEX, JVCEA/FSA, custody, security incidents)</li>
+            <li>⚙️ Systems & Infrastructure (Canton/DAML, cross-chain, BFT, account abstraction)</li>
+            <li>📊 Capital Markets (M&A, NISA, BoJ open-market operations, call markets)</li>
+            <li>🛡️ Security & Forensics (Supply-chain risk, bytecode verification, Wayback preservation)</li>
+          </ul>
+
+          <h2 class="section-title">🔐 Public Surface Policy</h2>
+          <section class="grid" aria-label="Public Surface Policy">
+            <article class="card en">
+              <h3>✅ Public Info Only</h3>
+              <p>Prioritize official public records, corporate filings, regulatory registers, and public market data.</p>
+            </article>
+            <article class="card en">
+              <h3>🚫 No Private/Local Data</h3>
+              <p>Local filesystem paths, personal emails, personal asset/income figures, and unpublished cases are forbidden.</p>
+            </article>
+            <article class="card en">
+              <h3>📦 Release Snapshots</h3>
+              <p>Synchronously update README, CHANGELOG, release notes, and GitHub Releases on every git push.</p>
+            </article>
+          </section>
         </section>
 
-        <h2 class="section-title">🚪 入口</h2>
-        <section class="grid" aria-label="Entrances">
-          <article class="card jp">
-            <h3>🧭 INDEX.md</h3>
-            <p><a href="INDEX.md">全体索引</a>から領域別にエントリーを探します。</p>
-          </article>
-          <article class="card jp">
-            <h3>📘 README.md</h3>
-            <p><a href="README.md">運用ルール</a>、公開面ルール、release 方針を確認します。</p>
-          </article>
-          <article class="card jp">
-            <h3>🕒 CHANGELOG.md</h3>
-            <p><a href="CHANGELOG.md">詳細な時系列</a>、作業記録、検証結果を残します。</p>
-          </article>
-        </section>
+        <!-- ==================== CHINESE SECTION ==================== -->
+        <section id="sec-zh" class="lang-section" role="tabpanel" aria-labelledby="tab-zh" hidden="until-found">
+          <section class="hero">
+            <div class="eyebrow">🇨🇳 公开金融知识库</div>
+            <h1>FinWiki 📚💴🧭</h1>
+            <p class="lead">
+              面向金融、支付、稳定币、加密资产、资本市场、日本金融机构、政策金融以及公开公司/公开人物案例的公开 Markdown 知识库。链接主要采用 Obsidian 风格的库根 wikilink 结构。
+            </p>
+            <div class="actions">
+              <a class="button primary" href="INDEX.md">🧭 全库索引 (INDEX.md)</a>
+              <a class="button" href="README.md">📘 运维规则 (README.md)</a>
+              <a class="button" href="CHANGELOG.md">🕒 变更记录 (CHANGELOG.md)</a>
+            </div>
+          </section>
 
-        <h2 class="section-title">🗺️ Main Domains</h2>
-        <ul class="domains">
-          <li>🏦 日本金融機関 / 日本金融机构</li>
-          <li>💳 Fintech / 金融科技</li>
-          <li>🪙 Exchanges / 交易所</li>
-          <li>⚙️ Financial systems / 金融系统</li>
-          <li>📊 Capital markets / 资本市场</li>
-          <li>🛡️ Security / 安全</li>
-        </ul>
+          <section class="status" aria-label="仓库状态">
+            <div class="stat">
+              <strong>🌐 finwiki.zksc.io</strong>
+              <span>GitHub Pages 自定义域名</span>
+            </div>
+            <div class="stat">
+              <strong>🇯🇵 日语优先</strong>
+              <span>README 与既有发布日志语言顺序</span>
+            </div>
+            <div class="stat">
+              <strong>🇨🇳 中文同步维护</strong>
+              <span>多语言常态化与高度一致性运作</span>
+            </div>
+            <div class="stat">
+              <strong>🔐 仅限公开信息</strong>
+              <span>彻底剔除个人私密与本地环境数据</span>
+            </div>
+          </section>
 
-        <h2 class="section-title">🔐 Public Surface Policy</h2>
-        <section class="grid" aria-label="Public surface policy">
-          <article class="card zh">
-            <h3>✅ 公開情報のみ</h3>
-            <p>公的資料、企業開示、規制当局資料、公開市場情報を優先します。</p>
-          </article>
-          <article class="card zh">
-            <h3>🚫 Private data forbidden</h3>
-            <p>個人情報、ローカルパス、非公開会話、内部案件情報は公開面に置きません。</p>
-          </article>
-          <article class="card zh">
-            <h3>📦 Release discipline</h3>
-            <p>Push ごとに README、CHANGELOG、release notes、GitHub Release を同期します。</p>
-          </article>
+          <h2 class="section-title">🚪 优先入口</h2>
+          <section class="grid" aria-label="入口链接">
+            <article class="card zh">
+              <h3>🧭 INDEX.md</h3>
+              <p>通过<a href="INDEX.md">全局索引</a>按领域快速检索和浏览条目。</p>
+            </article>
+            <article class="card zh">
+              <h3>📘 README.md</h3>
+              <p>阅读<a href="README.md">运维与发布规则</a>、公开面准则及本地 Agent 开发纪律。</p>
+            </article>
+            <article class="card zh">
+              <h3>🕒 CHANGELOG.md</h3>
+              <p>查看<a href="CHANGELOG.md">详细时间线</a>、操作历史、双语验证结果与发布轨迹。</p>
+            </article>
+          </section>
+
+          <h2 class="section-title">🗺️ 核心领域 (Main Domains)</h2>
+          <ul class="domains">
+            <li>🏦 日本金融机构 (大型银行、地方银行、保险、证券、政策金融、支付公司等)</li>
+            <li>💳 金融科技与稳定币 (稳定币、CBDC、EPI、MiCA、链上金融)</li>
+            <li>🪙 交易所与 VASP (日韩及全球 CEX/DEX、监管、JVCEA、安全事件)</li>
+            <li>⚙️ 系统基础设施 (Canton/DAML、跨链CCTP、BFT、账户抽象、L1/L2 基盘)</li>
+            <li>📊 金融与资本市场 (M&A、短期金融市场、日本央行操作、新NISA)</li>
+            <li>🛡️ 安全与取证 (forensic、供应链安全、bytecode verification、存档验证)</li>
+          </ul>
+
+          <h2 class="section-title">🔐 公开面规则 (Public Surface Policy)</h2>
+          <section class="grid" aria-label="公开面规则">
+            <article class="card zh">
+              <h3>✅ 仅限公开信息</h3>
+              <p>优先使用政府公报、公司披露、监管机构登记簿与公开市场数据。</p>
+            </article>
+            <article class="card zh">
+              <h3>🚫 严禁私密数据</h3>
+              <p>本地路径、邮箱、个人资产额、非公开对话、未公开案例绝不放入公开面。</p>
+            </article>
+            <article class="card zh">
+              <h3>📦 严格发布纪律</h3>
+              <p>每次 Git Push 时，必须同步更新 README、CHANGELOG、Release Notes 及 GitHub Release。</p>
+            </article>
+          </section>
         </section>
       </div>
     </main>
 
     <footer>
       <div class="shell">
-        FinWiki is maintained as a public, bilingual, source-attributed finance knowledge base.
+        FinWiki is maintained as a public, trilingual, source-attributed finance knowledge base.
       </div>
     </footer>
+
+    <script>
+      function switchLang(lang) {
+        // Update buttons styling & accessibilities
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+          const isActive = btn.getAttribute('data-lang') === lang;
+          btn.classList.toggle('active', isActive);
+          btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
+        });
+
+        // Update sections visibility (utilizing searchable hidden attribute where supported)
+        document.querySelectorAll('.lang-section').forEach(section => {
+          const isTarget = section.getAttribute('id') === `sec-${lang}`;
+          if (isTarget) {
+            section.removeAttribute('hidden');
+          } else {
+            section.setAttribute('hidden', 'until-found');
+          }
+        });
+
+        // Persist preference in localStorage
+        try {
+          localStorage.setItem('finwiki_lang_pref', lang);
+        } catch (e) {}
+      }
+
+      document.addEventListener('DOMContentLoaded', () => {
+        let initialLang = 'jp'; // Default to Japanese first
+
+        // Try load preference from localStorage
+        try {
+          const pref = localStorage.getItem('finwiki_lang_pref');
+          if (pref === 'jp' || pref === 'en' || pref === 'zh') {
+            initialLang = pref;
+          }
+        } catch (e) {}
+
+        // Try load from URL Hash
+        const hash = window.location.hash;
+        if (hash === '#jp' || hash === '#en' || hash === '#zh') {
+          initialLang = hash.substring(1);
+        }
+
+        // Initialize state
+        switchLang(initialLang);
+
+        // Bind click events on buttons
+        document.querySelectorAll('.lang-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const lang = btn.getAttribute('data-lang');
+            switchLang(lang);
+            // Update hash cleanly without jumping
+            history.replaceState(null, null, `#${lang}`);
+          });
+        });
+
+        // Listen for browser native search events (onbeforematch)
+        document.querySelectorAll('.lang-section').forEach(section => {
+          section.addEventListener('beforematch', () => {
+            const lang = section.getAttribute('id').replace('sec-', '');
+            switchLang(lang);
+          });
+        });
+      });
+    </script>
   </body>
 </html>
