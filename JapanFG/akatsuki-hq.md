@@ -4,6 +4,7 @@ aliases: ["あかつき本社", "Akatsuki Honsha", "株式会社あかつき本�
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, holding]
@@ -13,7 +14,6 @@ sources:
   - "Wikipedia: あかつき証券 (2026-05-19 抽出)"
   - "東証 STD 8737 開示情報 (公開分)"
 ---
-
 # あかつき本社 (Akatsuki Honsha)
 
 ## TL;DR

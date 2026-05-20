@@ -4,6 +4,7 @@ aliases: ["十六フィナンシャルグループ", "Juroku FG", "十六 FG", "
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -12,7 +13,6 @@ sources:
   - "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)"
   - "Wikipedia: 十六銀行 (2026-05-19 抽出)"
 ---
-
 # 十六 FG (Juroku Financial Group)
 
 ## TL;DR

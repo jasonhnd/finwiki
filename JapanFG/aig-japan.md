@@ -4,6 +4,7 @@ aliases: ["AIG Japan", "AIG ジャパン・ホールディングス", "AIG 損�
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance, foreign-japan-subsidiary]
@@ -15,7 +16,6 @@ sources:
   - "Wikipedia: American International Group (2026-05-19 参照)"
   - "AIG Inc. Annual Report 2024"
 ---
-
 # AIG ジャパン (AIG 損害保険)
 
 ## TL;DR

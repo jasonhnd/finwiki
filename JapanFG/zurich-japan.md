@@ -4,6 +4,7 @@ aliases: ["Zurich Japan", "Zurich Insurance Japan Branch", "チューリッヒ",
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance, life-insurance, foreign-japan-subsidiary, direct-insurance]
@@ -14,7 +15,6 @@ sources:
   - "Wikipedia: Zurich Insurance Group (2026-05-19 参照)"
   - "Zurich Insurance Group Annual Report 2024 (公式 IR)"
 ---
-
 # チューリッヒ保険会社 (Zurich Japan)
 
 ## TL;DR

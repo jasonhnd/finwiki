@@ -4,6 +4,7 @@ aliases: ["State Street Japan", "ステート・ストリート", "State Street"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custodian]
@@ -16,7 +17,6 @@ sources:
   - "State Street Corporation 4Q25 Earnings Release (2026-01-16 公表)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
 ---
-
 # ステート・ストリート (State Street Japan)
 
 ## TL;DR

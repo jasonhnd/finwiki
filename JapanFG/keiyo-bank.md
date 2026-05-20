@@ -4,6 +4,7 @@ aliases: ["京葉銀行", "けいよう銀行", "Keiyo Bank", "Keiyo Ginko"]
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -12,7 +13,6 @@ sources:
   - "Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）"
   - 京葉銀行 公式 IR ディスクロージャー誌（公開）
 ---
-
 # 株式会社京葉銀行
 
 ## TL;DR

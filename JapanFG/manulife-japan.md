@@ -4,6 +4,7 @@ aliases: ["マニュライフ生命", "Manulife Japan", "Manulife Life Insurance
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, foreign-japan-subsidiary]
@@ -13,7 +14,6 @@ sources:
   - "Wikipedia: Manulife Financial (2026-05-19 抽出)"
   - "Wikipedia: 第百生命保険 (2026-05-19 抽出)"
 ---
-
 # マニュライフ生命保険 (Manulife Life Insurance Japan)
 
 ## TL;DR

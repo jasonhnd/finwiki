@@ -4,6 +4,7 @@ aliases: ["AXA Japan", "アクサジャパンホールディング", "アクサ�
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, non-life-insurance, foreign-japan-subsidiary]
@@ -14,7 +15,6 @@ sources:
   - "Wikipedia: AXA (2026-05-19 参照)"
   - "AXA グループ公式 Annual Report 2024"
 ---
-
 # アクサ・ジャパン (AXA Japan)
 
 ## TL;DR

@@ -1,7 +1,7 @@
 # FinWiki Index
 
 > Last privacy review: 2026-05-20 09:15 JST.
-> Current public surface: 503 knowledge entries across 20 domains, plus control documents, domain indexes, templates, and release notes.
+> Current public surface: 505 knowledge entries across 20 domains, plus control documents, domain indexes, templates, and release notes.
 
 FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-asset regulation, Japanese financial institutions, payment infrastructure, capital markets, and adjacent industrial context.
 
@@ -18,7 +18,7 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 |---|---:|---|---|
 | JapanFG | 167 | [[JapanFG/INDEX]] | Japanese financial groups, banks, insurers, securities firms, policy finance, payment companies, fintech companies, foreign Japan subsidiaries, and report-source references. |
 | exchanges | 112 | [[exchanges/INDEX]] | Japan and global CEX / DEX, VASP regulation, JVCEA / FSA structure, custody, IEO, warnings, and incidents. |
-| fintech | 102 | [[fintech/INDEX]] | Stablecoins, tokenized money, EPI, GENIUS, MiCA, MAS, HKMA, CBDC, embedded wallets, and monetary geopolitics. |
+| fintech | 103 | [[fintech/INDEX]] | Stablecoins, tokenized money, EPI, GENIUS, MiCA, MAS, HKMA, CBDC, embedded wallets, and monetary geopolitics. |
 | systems | 43 | [[systems/INDEX]] | Cross-chain infrastructure, BFT / validator economics, account abstraction, Canton / DAML, Besu, Ethereum upgrades, and protocol implementation topics. |
 | agent-economy | 21 | [[agent-economy/ai-agent-payment-protocols-overview]] | AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure. |
 | banking | 12 | [[banking/INDEX]] | Net banks, BaaS, cooperative banking, foreign-bank retreat, regional-bank consolidation, and quick-deposit flows. |
@@ -26,7 +26,7 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 | policy-finance | 7 | [[policy-finance/INDEX]] | Public finance, development finance, export credit, policy-bank adjacency, JICA, JBIC, NEXI, JOGMEC, and JASSO. |
 | insurance | 7 | [[insurance/INDEX]] | Solvency, ESR, life-insurance distribution, mutual-company governance, internet life insurance, reinsurance, and direct non-life insurance. |
 | finance | 4 | [[finance/INDEX]] | Public finance reference pages for FIRE math, cross-border M&A, investment-banking league tables, and public tax-jurisdiction comparison. |
-| security | 4 | [[security/bytecode-forensic-three-tier-verify]] | Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation. |
+| security | 5 | [[security/bytecode-forensic-three-tier-verify]] | Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation. |
 | money-market | 3 | [[money-market/INDEX]] | Call markets, BoJ open-market operations, and Japan money-market structure. |
 | governance | 2 | [[governance/japan-general-foundation-establishment-requirements]] | Public legal and grant information for Japanese foundations and research grants. |
 | manufacturing | 2 | [[manufacturing/INDEX]] | Manufacturing companies relevant to finance, regional banks, and captive finance. |

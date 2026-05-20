@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: confirmed
+confidence: certain
 tags: [JapanFG, regional-bank]
 status: active
 sources:
@@ -17,7 +17,6 @@ sources:
   - "TSUBASA アライアンス公式 (tsubasa-al.co.jp, 2025-03 末 10 行体制確認)"
   - "Wikipedia: 横浜フィナンシャルグループ / 横浜銀行 / 東日本銀行 (2026-05-19 抽出)"
 ---
-
 # 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）
 
 ## TL;DR

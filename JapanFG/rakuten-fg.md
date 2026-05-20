@@ -6,7 +6,7 @@ created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
-confidence: high
+confidence: likely
 tags: [JapanFG, ec-fg, fintech]
 status: active
 sources:
@@ -15,7 +15,6 @@ sources:
   - "楽天銀行 預金 12 兆円突破プレスリリース (2025-01-07)"
   - "Wikipedia: 楽天グループ / 楽天銀行 / 楽天証券 / 楽天カード (2026-05-19 抽出)"
 ---
-
 # 楽天グループ金融事業 (Rakuten FG)
 
 ## TL;DR

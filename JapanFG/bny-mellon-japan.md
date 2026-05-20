@@ -4,6 +4,7 @@ aliases: ["BNY Mellon Japan", "BNY メロン", "BNY Mellon", "Bank of New York M
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
+last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custody]
@@ -14,7 +15,6 @@ sources:
   - "BNY Mellon Annual Report 2024 (公開 IR、bny.com)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
 ---
-
 # BNY メロン日本 (BNY Mellon Japan)
 
 ## TL;DR
