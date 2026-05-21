@@ -23,6 +23,8 @@ sources:
 status: candidate
 ---
 
+# シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業
+
 ## 制度概要
 
 シンガポールは 2020-01 に **PSA (Payment Services Act)** を施行し、決済サービスを 7 種に整理した。その中の一つとして **DPT (Digital Payment Token) サービス**カテゴリが新設され、暗号資産の売買・交換・カストディ等が単一法体系下で規制されることになった。既存の銀行業免許 (Banking Act) や資金移動業免許 (旧 MAS Act ベース) と並列の構造であり、規制当局は **MAS (Monetary Authority of Singapore, 金融管理局)** が一元担当する。FATF Travel Rule 完全準拠 + AML/CFT 強化を前提に、機関志向のクリプト hub としてのポジショニングを明確化している。日本の [[exchanges/fsa-vasp-registration-system]] が FSA + JVCEA の二層構造を取るのに対し、MAS 単独体制でガバナンスの効率を担保する点が対照的。

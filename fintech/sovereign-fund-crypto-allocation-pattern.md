@@ -16,6 +16,11 @@ sources: []
 
 # 主权基金加密基础设施配置模式
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 中东主权基金 + Wall Street 资管联合体在 2024-2026 进入加密基础设施层，规模 **$200–500 亿**，模式 = 主权基金作 LP（隐身）+ Wall Street 作 GP（公开）+ 投向稳定币 / L1 / RWA tokenization 三层基础设施。Mubadala 是 Circle Arc 私募 LP $15M 已公开披露，是第一个明面案例。
 

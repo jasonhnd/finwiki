@@ -12,6 +12,10 @@ tags: [needs-review]
 status: confirmed
 evidence_count: 1
 type: wiki
+sources:
+  - "https://www.release.tdnet.info/inbs/I_main_00.html"
+  - "https://disclosure2.edinet-fsa.go.jp/"
+  - "https://www2.jpx.co.jp/tseHpFront/JJK010010Action.do"
 ---
 
 # 日本上場会社 開示情報モニタリング SOP（17 チャネル）

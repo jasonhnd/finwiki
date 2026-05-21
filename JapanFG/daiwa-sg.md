@@ -18,6 +18,11 @@ sources:
 
 # 大和証券グループ本社 (Daiwa Securities Group)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **野村に次ぐ国内 2 位の大手証券グループ**。株式会社大和証券グループ本社（東証 PRIME 8601）を頂点とする純粋持株会社体制。**1902 年「藤本ビルブローカー銀行」として創業 → 1943 年「大和証券」商号 → 1999-04 持株会社化**という 120 年超の歴史を持つ。コア事業は **リテール（大和証券）+ ホールセール（IB）+ アセットマネジメント（大和 AM）+ シンクタンク（大和総研）+ ネット銀行（大和ネクスト銀行）** の 5 軸構造。1999 年に住友グループと「大和証券 SMBC」合弁を設立したが 2009 年に解消（三井住友 FG は別途 [[smfg]] 傘下で SMBC 日興証券を買収）し、独立系大手としての立ち位置を再確立。社長は中田誠司。野村 HD と異なり「リテール深耕 + アジア中規模展開」を志向する独立系の戦略を採る。

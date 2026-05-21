@@ -14,6 +14,11 @@ status: candidate
 
 # HKMA 双轨战略 · Ensemble × mBridge
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > HKMA 用 Ensemble(境内代币化港元存款)+ mBridge(跨境多 CBDC 走廊)双轨,构建"人民币国际化 + 代币化基础设施"的双引擎枢纽。这是亚洲唯一同时拥有两套基础设施的金融中心,也是香港在三圆 MRA(欧 MiCA / 美 GENIUS / 港 HKMA)谈判中的差异化资本。
 

@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 海外大手 CEX は自社 token (exchange token) を発行し、(a) **手数料割引** (b) **利益還元 buyback&burn** (c) **自社 L1 ガス token** の 3 役割を統合する。これは取引所収益の token 化と顧客 lock-in を同時に実現する設計だが、**FTX FTT 暴落 (2022-11)** で balance sheet 担保利用の risk が顕在化した。**Binance BNB** は時価 $80-100B 規模の主要 utility token として継続するが、SEC 訴訟 (2023-06) で証券性論争を惹起した (2025-02 取下げ)。

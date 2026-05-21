@@ -1,10 +1,10 @@
 ---
 title: 北國 FHD (Hokkoku FHD)
-aliases: ["Hokkoku FHD", "Hokkoku Financial Holdings", "北國フィナンシャルホールディングス", "株式会社北國フィナンシャルホールディングス", "北國銀行", "Hokkoku Bank"]
+aliases: ["Hokkoku FHD", "Hokkoku Financial Holdings", "北國フィナンシャルホールディングス", "株式会社北國フィナンシャルホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, digital-leader]
@@ -16,6 +16,11 @@ sources:
 ---
 
 # 北國 FHD (Hokkoku FHD)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -32,6 +32,7 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 |---|---|---|
 | Domain overview | [[money-market/japan-money-market|Japan money market]] | How Japan's short-term funding layer fits into BoJ policy and JapanFG entities. |
 | Call-rate mechanism | [[money-market/call-market-structure|Call market structure]] | How the uncollateralized overnight call rate is formed and why it matters. |
+| JGB repo / secured funding | [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] | How secured JGB funding, collateral scarcity, GC / SC repo, and securities lending affect market functioning. |
 | BoJ implementation | [[money-market/boj-open-market-operations|BoJ open market operations]] | What operation tools the BoJ uses to supply or absorb funds. |
 
 ## JapanFG Anchors
@@ -55,7 +56,6 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 
 | Priority | Page | Why |
 |---|---|---|
-| P1 | `money-market/jgb-repo-market-japan.md` | Needed to separate secured repo from uncollateralized call funding. |
 | P1 | `money-market/tanshi-company-business-model.md` | Needed to compare Tokyo Tanshi, Central Tanshi, and Ueda Yagi Tanshi. |
 | P2 | `money-market/boj-current-account-access.md` | Useful for bank / settlement / tanshi boundary analysis. |
 

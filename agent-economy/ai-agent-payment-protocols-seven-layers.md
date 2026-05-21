@@ -14,8 +14,10 @@ status: candidate
 
 # AI Agent 支付七协议分层表
 
-> [!info] TL;DR
-> Agent 支付协议按职能可分三层 7 个:意图层 3 个(AP2 / SPT / ACP)负责 mandate 信任链;传输层 2 个(x402 / TAP)负责实际转账;上下文层 2 个(MCP / A2A)负责 LLM 调工具与 agent 互通。三层互补,任何完整 agent 流通常同时调用其中一种。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

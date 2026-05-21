@@ -17,6 +17,11 @@ sources:
 
 # GMO あおぞらネット銀行
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ssnb|住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **法人特化 BaaS（Banking as a Service）軸**のネット銀行。旧 **あおぞら信託銀行**（2004-04 開業、[[aozora-bank]] 子会社）を母体に、2018-07 **GMO インターネットグループ**が過半数取得し改称。株主構成は GMO ~85% + あおぞら銀行 ~15%（^[ambiguous]、時点変動あり）。**個人重視の楽天銀行・PayPay 銀行・住信 SBI ネット銀行とは異なり、フリーランス・スタートアップ・fintech 連動の法人口座 + API 連携を主軸**に据える。代表サービスは「**あんしんワイド**」（法人向けビジネスローン）と「**銀行 API for Developers**」。freee・マネーフォワード・Square・Stripe 等の fintech との戦略提携でポジションを築いている。^[extracted]

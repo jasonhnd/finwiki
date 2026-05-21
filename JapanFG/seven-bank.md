@@ -17,6 +17,11 @@ sources:
 
 # セブン銀行 (Seven Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/lawson-bank|ローソン銀行 (Lawson Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **ATM 特化型銀行**。セブンイレブン店舗網に設置した約 **27,000 台** の ATM を基盤に、提携金融機関（約 600 行）からの **ATM 利用手数料** を主収益とする B2B2C モデル。2001-04-10 アイワイバンク銀行として設立、2001-05-21 開業、2005-10 セブン銀行に商号変更。親会社は [[retail/seven-and-i-hd|seven-and-i-hd]]（連結子会社、持株比率約 46%）。東証 PRIME 8410。自前の貸出・預金は限定的で、伝統的銀行業とは異なる「ATM プラットフォーマー」業態。訪日インバウンド需要（海外発行カード対応）と ASEAN 展開（フィリピン・インドネシア）が新成長軸。^[extracted]

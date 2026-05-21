@@ -22,6 +22,11 @@ sources:
 
 # Call market structure
 
+
+## Wiki route
+
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/japan-money-market|Japan money market]] for peer / contrast context and [[money-market/boj-open-market-operations|BoJ open market operations]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 The call market is Japan's short-term interbank funding market. The uncollateralized overnight call rate is especially important because it is the policy-rate transmission point used in BoJ money-market operation guidelines. Banks and other financial institutions use overnight call transactions to adjust end-of-day liquidity; tanshi companies sit in the market as brokers / intermediaries.

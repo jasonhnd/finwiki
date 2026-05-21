@@ -17,7 +17,13 @@ sources:
   - "State Street Corporation 4Q25 Earnings Release (2026-01-16 公表)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
 ---
+
 # ステート・ストリート (State Street Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

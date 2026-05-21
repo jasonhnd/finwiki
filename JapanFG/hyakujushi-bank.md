@@ -3,8 +3,8 @@ title: 百十四銀行 (Hyakujushi Bank)
 aliases: ["百十四", "ひゃくじゅうし", "The Hyakujushi Bank", "株式会社百十四銀行", "114 Bank"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, shikoku]
@@ -17,9 +17,14 @@ sources:
 
 # 百十四銀行 (Hyakujushi Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-香川県地盤の独立系地方銀行。**1878-12-23 第百十四国立銀行**として高松で創業、社名は旧国立銀行番号「114」由来。**持株会社化していない単独銀行**として東証 PRIME 上場 (8386)、香川県の指定金融機関を担う県内最大手行。県内では [[tomony-hd]] 傘下の香川銀行と二強体制、四国広域では [[iyogin-hd]] (愛媛)・[[tomony-hd]] (徳島)・四国銀行 (高知) と競合する四国 4 大地銀の一角。2015 年 **TSUBASA アライアンス**準会員参加で千葉銀行系の広域ゆるやかな連携網に参画。^[extracted]
+香川県地盤の独立系地方銀行。**1878-12-23 第百十四国立銀行**として高松で創業、社名は旧国立銀行番号「114」由来。**持株会社化していない単独銀行**として東証 PRIME 上場 (8386)、香川県の指定金融機関を担う県内最大手行。県内では [[tomony-hd]] 傘下の [[kagawa-bank|香川銀行]] と二強体制、四国広域では [[iyogin-hd]] / [[iyo-bank|伊予銀行]] (愛媛)・[[awa-bank|阿波銀行]] (徳島)・[[shikoku-bank|四国銀行]] (高知) と競合する四国 4 大地銀の一角。2015 年 **TSUBASA アライアンス**準会員参加で千葉銀行系の広域ゆるやかな連携網に参画。^[extracted]
 
 ## 1. 公司结构
 
@@ -72,11 +77,11 @@ sources:
 ### 地盤・競争構造
 
 - **香川県地盤**: 高松本店、瀬戸内海沿岸（坂出・丸亀・観音寺）に支店密集。香川県内預金シェアは首位、貸出シェアも上位 ^[inferred]
-- **県内競合**: [[tomony-hd]] 傘下の **香川銀行**との二強体制。香川銀行は徳島系トモニ HD 傘下の第二地銀で、住宅ローン・個人金融で激しい競合 ^[extracted]
+- **県内競合**: [[tomony-hd]] 傘下の **[[kagawa-bank|香川銀行]]**との二強体制。香川銀行は徳島系トモニ HD 傘下の第二地銀で、住宅ローン・個人金融で激しい競合 ^[extracted]
 - **四国広域競合**: 四国 4 大地銀の一角
-  - [[iyogin-hd]] (伊予銀行・愛媛地盤、四国最大手)
-  - [[tomony-hd]] (徳島大正銀行 + 香川銀行、四国 + 大阪)
-  - 四国銀行 (高知地盤)
+  - [[iyogin-hd]] / [[iyo-bank|伊予銀行]] (愛媛地盤、四国最大手)
+  - [[tomony-hd]] ([[tokushima-taisho-bank|徳島大正銀行]] + [[kagawa-bank|香川銀行]]、四国 + 大阪)
+  - [[shikoku-bank|四国銀行]] (高知地盤)
   - 百十四銀行 (香川地盤)
 - **県外進出**: 大阪・神戸・岡山・東京に支店。関西経済圏（特に大阪）への香川系企業・出身者向けが主、岡山は瀬戸大橋経由の経済圏接続による隣接県進出 ^[inferred]
 
@@ -117,20 +122,20 @@ sources:
 
 - 「単独銀行のままで持続可能か」: 四国他行が再編進行する中、人口減少県の単独地銀として規模の経済を確保できるかは構造的懸念 ^[ambiguous]
 - 「TSUBASA 参加で十分か」: ゆるやかな連携が再編代替になるか、最終的に経営統合が必要かは将来の論点 ^[ambiguous]
-- 「香川銀行との関係」: 同一県内で第一・第二地銀が並立する構造は全国でも珍しくないが、人口減少下での非効率は将来課題 ^[inferred]
+- 「[[kagawa-bank|香川銀行]]との関係」: 同一県内で第一・第二地銀が並立する構造は全国でも珍しくないが、人口減少下での非効率は将来課題 ^[inferred]
 - 「観光業集中リスク」: 観光・うどん・直島アートに依存する経済構造は、コロナ・天災・観光トレンド変化に弱い ^[inferred]
 
 ## Open questions
 
 - 中期経営計画 (2024〜) のデジタル化・域外展開の数値目標は？
 - TSUBASA アライアンスでの具体的なシステム共同化進捗（勘定系基盤統合の有無）は？
-- 香川銀行・[[tomony-hd]] との将来的な再編可能性は？（県内 1 行化シナリオ）
-- 四国 4 行（百十四・[[iyogin-hd]]・[[tomony-hd]]・四国銀行）の将来的な再編構想は？
+- [[kagawa-bank|香川銀行]]・[[tomony-hd]] との将来的な再編可能性は？（県内 1 行化シナリオ）
+- 四国 4 行（百十四・[[iyogin-hd]] / [[iyo-bank|伊予]]・[[awa-bank|阿波]]・[[shikoku-bank|四国銀行]]）の将来的な再編構想は？
 - 域外（大阪・岡山）支店の収益貢献度は？
 
 ## Related
 
-- [[tomony-hd]] · [[iyogin-hd]] — 四国地銀
+- [[tomony-hd]] · [[kagawa-bank]] · [[iyogin-hd]] · [[iyo-bank]] · [[awa-bank]] · [[shikoku-bank]] — 四国地銀
 - [[chiba-bank]] — TSUBASA アライアンス主導行
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク（県内併存）
 

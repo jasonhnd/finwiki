@@ -24,6 +24,11 @@ status: candidate
 
 # FSA 業務改善命令 (BIO) 国内 VASP 行政処分履歴 (2018-2026)
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 1. 制度概要
 
 **業務改善命令 (Business Improvement Order, BIO)** は金融庁が監督対象事業者に対して発出する行政処分のうち、改善計画の提出・実行を命じる中程度の処分。VASP に対しては **改正資金決済法 63 条の 9** および兼業デリバ業者は **金商法 51 条** が根拠。より重い **業務停止命令 (Business Suspension Command, BSC)** とは区別され、BSC は一定期間の業務全面停止を命じる(2018 Coincheck・2018 テックビューロ等で BIO と併発)。BIO 単独は廃業命令ではなく、改善計画提出・四半期報告で事業継続可能。

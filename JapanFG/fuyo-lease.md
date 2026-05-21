@@ -17,6 +17,11 @@ sources:
 
 # 芙蓉総合リース
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 旧 富士銀行 系の準大手総合リース会社（東証 PRIME **8424**）。**3 大リース（[[orix-corp]] / 三菱 HC キャピタル / [[tokyo-century]]）に次ぐ準大手** で、**芙蓉グループ**（旧 富士銀行コミュニティ：[[mizuho-fg]] + 丸紅 + 日産 + キヤノン + 日清製粉 + 東京海上 [[tokio-marine]] 等）の金融中核機能を担う。1969-09-04 創業（旧称：芙蓉ファクター）。一般機器リース + 不動産 + 環境・再エネ + 医療・介護 + 航空機・船舶 + 海外（アジア中心）の 6 軸構成。同じ旧富士銀行系で「準三大リースに先行統合できた」[[tokyo-century]] とは兄弟関係 + 競合関係。^[extracted]

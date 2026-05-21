@@ -22,6 +22,11 @@ sources:
 
 # Japan money market
 
+
+## Wiki route
+
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/call-market-structure|Call market structure]] for peer / contrast context and [[money-market/boj-open-market-operations|BoJ open market operations]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan's money market is the short-term funding and liquidity-adjustment layer where the Bank of Japan implements monetary policy, financial institutions manage reserve / settlement balances, and tanshi companies intermediate short-term funds. The most important operating signal is the uncollateralized overnight call rate, because BoJ guidelines for money market operations use it as the short-rate target in the current framework.

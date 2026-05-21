@@ -14,8 +14,10 @@ status: candidate
 
 # 监管转向关键官员案例 · 个人意识形态 + 制度授权(Hester Peirce)
 
-> [!info] TL;DR
-> 监管转向不是"政府换届后自然发生",而是**长期持异见的特定官员 + 行政授权 + 立法侧呼应**三联触发。Hester Peirce(SEC Commissioner 2018+,2025 任 Crypto Task Force 主席)是 2025-2026 美国加密监管转向的关键执行者:意识形态长期稳定 + 任内撤诉 Gensler 时代 ~20 起案件 + 与 Lummis(立法)/ Atkins(行政)三角共振。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -17,6 +17,11 @@ sources:
 
 # UBS ジャパン (UBS Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 スイス UBS Group AG（G-SIB Bucket 1、世界最大級プライベートバンク）の日本拠点群。**2023-06 スイス政府主導で旧クレディ・スイス緊急買収完了**、2024 年に旧 CS 日本拠点との統合が進行 ★。日本では UBS 証券（法人 IB）+ **UBS SuMi TRUST ウェルス・マネジメント（[[sumitomo-mitsui-trust]] との JV）** + UBS 銀行東京支店 + UBS アセット・マネジメント の 4 軸体制。PB（プライベートバンキング）は世界トップクラスで、日本では富裕層向け資産運用を SuMi TRUST JV で展開。^[extracted]

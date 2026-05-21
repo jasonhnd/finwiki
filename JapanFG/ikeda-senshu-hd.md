@@ -19,6 +19,11 @@ sources:
 
 # 池田泉州ホールディングス
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/kyoto-fg|京都フィナンシャルグループ]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 大阪府を地盤とする **関西中堅地銀 FG**。証券コード **東証 PRIME 8714**。2009-10-01 **池田銀行 + 泉州銀行** の経営統合により発足し、翌 2010-05-01 に両子銀行が合併して **池田泉州銀行** が成立。大阪府 **北摂・池田エリア（旧池田銀）** + **泉州エリア = 大阪府南部（旧泉州銀）** + **兵庫県南東部** を 3 つの主軸地盤とし、京阪神メガ経済圏の中堅・中小企業金融に特化。関西では [[resona-hd]]（関西みらい銀）・京都 FG・滋賀銀行・南都銀行 等と直接競合。メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては中堅・中小レイヤーで棲み分け。^[extracted]

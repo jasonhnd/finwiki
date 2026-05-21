@@ -17,7 +17,17 @@ related:
   - "[[fork-and-rebrand-5-layer-audit-framework]]"
   - "[[forensic-identity-anchor-chain]]"
 tags: [security/supply-chain, security/dependency, security/dd]
+sources:
+  - "https://go.dev/ref/mod"
+  - "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+  - "https://securityscorecards.dev/"
 ---
+
+# Module path confusion + LICENSE strip = supply chain attack 三连击
+
+## Wiki route
+
+This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-rebrand-5-layer-audit-framework|fork-and-rebrand audit framework]] for peer context and [[systems/INDEX|systems index]] for the broader dependency boundary.
 
 > [!info] TL;DR
 > 三个独立动作组合 -> supply chain attack 形态: (1) go.mod / package.json 模块路径冒名 upstream (e.g. github.com/cosmos/...) (2) replace 指令把冒名路径劫持到自家 fork (3) 主仓库 LICENSE 删除 -> 任何下游用户 import "正版"路径,实际跑你的 fork.

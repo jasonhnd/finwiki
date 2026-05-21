@@ -14,6 +14,11 @@ status: candidate
 
 # 代币化存款累计交易规模模式 · Kinexys $1.5T 作为银行存款代币赛道锚
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 银行存款代币(deposit token)赛道与稳定币赛道是**两个互不重叠的市场**。Kinexys (JPMD) 累计交易额 $1.5T(2026-05) · 日均 $5B+ · **100% 机构客户** —— 这一规模不可与 USDC / USDT 的累计流量直接比较,因为客户层、监管层、清算层完全不同。$1.5T 是衡量"代币化存款赛道渗透率"的核心锚 —— 第二大数字美元基础设施,但服务对象是 80 家全球机构(包括 6 家央行),不是零售/DeFi 用户。
 

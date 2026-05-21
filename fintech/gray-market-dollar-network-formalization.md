@@ -16,6 +16,11 @@ sources: []
 
 # 灰色市场美元网络的正式化
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 已支配灰色市场的玩家通过申请**主流司法管辖区合规身份**实现"洗白"——不是把不法资金合法化，而是把**灰色市场已合法但缺乏合规身份的资金接入主流金融**。Tether 2026-05 申请 HK 牌照是该模式的典型案例，潜在市值上行 +50% - +150%。
 

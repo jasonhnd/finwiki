@@ -17,6 +17,11 @@ sources: []
 
 # Claude Code 扩展组件架构
 
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it with [[agent-economy/erc-7715-overview|ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付]] for adjacent context and [[agent-economy/ap2-overview|AP2 · Google Agent Payments Protocol 概览]] for the broader system boundary.
+
 > [!info] TL;DR
 > 来源：2026-04-16 收到的 5 张架构图（微信公众号「童童的 AI 创业圈」）。以下为图片内容的完整文字化。
 

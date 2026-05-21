@@ -13,7 +13,13 @@ sources:
   - "Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）"
   - 京葉銀行 公式 IR ディスクロージャー誌（公開）
 ---
+
 # 株式会社京葉銀行
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -14,8 +14,10 @@ status: candidate
 
 # Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施
 
-> [!info] TL;DR
-> Coinbase Developer Platform (CDP) 是 Coinbase 面向开发者的全栈 API/SDK 套件,核心是 **embedded wallet**——一行 SDK 让任何应用集成 onchain 钱包,无需用户离开应用。2025-12 AWS Bedrock AgentCore 选 **CDP + Privy 双 wallet provider** 作为默认 AI agent 钱包基础设施——这把 CDP 锁定为 AI agent on-chain 经济的关键 distribution channel,并与 Stripe 的 Privy × Tempo × USDB 闭环形成镜像对称竞争。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 复活的 AI agent 支付协议(总览)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

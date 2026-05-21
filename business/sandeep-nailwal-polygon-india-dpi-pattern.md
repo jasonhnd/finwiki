@@ -14,8 +14,10 @@ status: candidate
 
 # 国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应
 
-> [!info] TL;DR
-> "把项目命运绑定在新兴市场主权反美元叙事 + 提供链路 + 借大企业生态入口" 是被困赢家的国家级 hedge 模板。Sandeep Nailwal / Polygon(2025-06 任 Foundation CEO 后)是 2026 年标本:ARC(印度政府许可型卢比稳定币)+ Reliance Jio 4.5 亿用户入口 + DPI(UPI / MOSIP)联盟,把"全球市场失意"的 L1 重新锚定到印度国家叙事。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/paolo-ardoino-tether-business-model-template|40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

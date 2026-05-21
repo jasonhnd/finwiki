@@ -23,6 +23,8 @@ sources:
 status: candidate
 ---
 
+# 韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX
+
 ## 韓国制度概要
 
 韓国は **特定金融情報法 (특정금융정보법, 2021-03-25 施行)** で **仮想資産事業者 (VASP / VA-OP, 가상자산사업자)** 登録制度を成立させた。登録 2 要件: **(a) KISA (Korea Internet & Security Agency) の ISMS 認証** + **(b) 国内銀行との実名口座契約 (실명확인 입출금 계정)**。両要件を満たして **金融情報分析院 (FIU, 韓国版 FinCEN)** に登録できた取引所のみが **KRW 取引ペア (KRW spot market)** を提供可能。2026 年時点で KRW 取引可能なのは下記 **5 社のみ**。コイン-only 取引所 (代表: GDAC など) は登録済みでも KRW ペア非対応。

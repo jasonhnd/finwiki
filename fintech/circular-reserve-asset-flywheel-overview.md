@@ -14,6 +14,11 @@ status: candidate
 
 # 储备金互锁飞轮 · BUIDL ↔ USDC 系统性循环依赖
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > BlackRock BUIDL(代币化国债 MMF)已成为 Circle USDC 储备金的核心组成部分。Circle 持有 BUIDL 产生的利息再次流入 BUIDL → 推高 BUIDL AUM → 让 Circle 储备金更"BUIDL 化"。这是一个**利息→储备→AUM→利息**的自反馈系统性互锁飞轮 · 2026 后或成为 stablecoin 监管定义"reserve concentration risk"的样本案例。
 

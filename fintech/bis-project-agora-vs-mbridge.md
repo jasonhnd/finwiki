@@ -14,6 +14,11 @@ status: candidate
 
 # Agorá vs mBridge · 跨境清算双轨制战略对照
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > mBridge(2021- · BIS + 中港泰 UAE · BIS 2024.10 退出)与 Agorá(2024.04- · BIS + 7 G10 央行)是 2026+ 跨境清算双轨制的事实分野。两者最大政治差异是 FRBNY 深度参与 Agorá 但完全不参与 mBridge,代表"美元锚定 + G10 共识"vs"金砖 + 中东 + 香港"两个地缘轴。
 

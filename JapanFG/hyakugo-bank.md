@@ -17,6 +17,11 @@ sources:
 
 # 百五銀行 (Hyakugo Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 三重県地盤の独立系地方銀行。**1878-12-12 第百五国立銀行**として津で創業、社名は旧国立銀行番号「105」由来（読み「ひゃくご」）。**持株会社化していない単独銀行**として東証 PRIME 上場 (8368)、三重県の指定金融機関を担う県内最大手行。県内預金量・貸出量で No.1 のポジションを維持し、[[san-jusan-fg]]（三十三銀行）との県内二強体制を形成。地盤は三重県北部・中部（津・四日市・松阪）で、四日市コンビナート関連融資 + 伊勢神宮観光金融 + 中京経済圏アクセスを 3 本柱とする。^[extracted]

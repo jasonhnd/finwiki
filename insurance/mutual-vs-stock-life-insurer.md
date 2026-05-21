@@ -21,6 +21,11 @@ sources:
 
 # Mutual vs stock life insurer
 
+
+## Wiki route
+
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/life-insurance-channel-mix|Life insurance channel mix]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan's life insurers can be structured as mutual companies or stock companies. A mutual life insurer is oriented around policyholder-members and long-term surplus distribution; a stock life insurer has shareholders, listed or unlisted equity governance, and easier access to equity-market capital. The legal form shapes governance, M&A capacity, disclosure incentives, and the tension between policyholder return and shareholder return.

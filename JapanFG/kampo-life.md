@@ -17,6 +17,11 @@ sources:
 
 # かんぽ生命保険 (Japan Post Insurance)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **旧簡易保険（1916 開始）の民営化承継子会社**。日本郵政グループ傘下、東証 PRIME 7181（2015-11-04 親子 3 社同時上場）。総資産は約 60-70 兆円規模 ^[ambiguous]、全国郵便局網（約 2 万局）をリテール基盤とする国内大手生保。**2019-06〜2020 不適切販売事件**（旧契約と新契約の二重課金、高齢者向け不適切販売など約 18 万件超）で 2019-12 業務改善命令、2020-01 経営陣総辞任、2020-04 業務停止命令（営業自粛 3 ヶ月）を受けた歴史的事件のレガシーが残る。中期経営計画下で信頼回復と再成長を目指す。民営化進展に伴う日本郵政の段階的売却で政府保有比率が漸減中。^[extracted]

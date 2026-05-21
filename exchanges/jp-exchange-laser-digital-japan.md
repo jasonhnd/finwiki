@@ -30,6 +30,11 @@ sources:
 
 # Laser Digital Japan — 日本暗号資産交換業者 overview
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > JVCEA 第二種会員 #2037 · 代表取締役: 工藤英明 · 親会社: Laser Digital Holdings AG（野村ホールディングス 100% 子会社）
 
 ## 1. 法人・株主

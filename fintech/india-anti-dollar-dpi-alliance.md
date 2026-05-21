@@ -14,6 +14,11 @@ status: candidate
 
 # 印度反美元 DPI 联盟 — UPI / MOSIP / ARC 三轴叙事
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 印度对美元稳定币的官方反对立场不是孤立姿态，而是一套**完整的反美元 DPI 联盟叙事**：**UPI 跨境化**（已扩至 8 国）+ **MOSIP 全球输出**（20 国部署）+ **ARC 卢比稳定币**（Polygon 链上、政府背景）= 在新兴市场提供完整的 USDT/USDC 替代方案。这是与美方 GENIUS Act §501 / 三圆 MRA 框架直接对冲的"数字非结盟"（Digital Non-Alignment）路线。
 

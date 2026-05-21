@@ -18,6 +18,11 @@ sources:
 
 # プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 米 **Prudential Financial, Inc.**（NYSE: PRU、米国大手生保）の日本法人群。中間持株会社 **プルデンシャル・ホールディング・オブ・ジャパン株式会社** の下に **プルデンシャル生命**（1987 開業、ライフプランナーチャネル代表）+ **ジブラルタ生命**（2001-03 旧 協栄生命破綻買収）+ **PGF 生命**（2008-08 旧 AIG エジソン/AIG スター生命買収）の 3 生保を運営する珍しい構造。3 ブランドを **販売チャネルで使い分け**: プルデンシャル = ライフプランナー（LP、高度資格営業職員）、ジブラルタ = 代理店 + 教職員、PGF = 銀行窓販。米プルデンシャル本体（米国）と **英 Prudential plc（英国系・現在は M&G plc 分離）は完全別法人**、混同注意。^[extracted]

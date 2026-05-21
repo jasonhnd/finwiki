@@ -20,6 +20,11 @@ sources:
 
 # OECD Arrangement on Officially Supported Export Credits
 
+
+## Wiki route
+
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/nexi|NEXI (Nippon Export and Investment Insurance)]] for peer / contrast context and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 The OECD Arrangement is the rulebook for officially supported export credits with repayment terms of two years or more. For Japan, it constrains and coordinates how [[JapanFG/jbic|JBIC]], [[policy-finance/nexi|NEXI]], and other official export-credit actors can support overseas projects without turning export finance into a subsidy race.

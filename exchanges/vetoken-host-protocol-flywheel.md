@@ -16,6 +16,11 @@ sources: []
 
 # veToken × 主导方 DEX 自循环飞轮
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > [!info] TL;DR
 > L1/L2 主导方通过持有原生 DEX 的 ve 治理代币，引导 emission 流向自家关键资产池（如 wrapped BTC），既获得排他性流动性，又在该资产托管费上完成 **链上闭环回流主业**。Coinbase × Aerodrome × cbBTC 案例年化 **$130–250M**，是 EVM 多链历史中首个被定量验证的"主导方-DEX"自循环结构。
 

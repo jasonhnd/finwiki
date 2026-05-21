@@ -14,8 +14,10 @@ status: candidate
 
 # ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付
 
-> [!info] TL;DR
-> ERC-7715 是 2024 提出、2025 在 MetaMask / Coinbase Smart Wallet / Safe 等主流钱包实装的 **wallet permissions standard**——dapp 可向 wallet 申请 **受限权限**(如"每天最多花 $10 USDC · 只能转给地址 X · 有效期 7 天")· wallet 一次性授权后 · dapp/agent 可在 scope 内自动执行 · 无需每次签名。**AI agent 自主支付的关键基础设施**。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

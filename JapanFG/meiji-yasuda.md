@@ -13,7 +13,13 @@ sources:
   - "Wikipedia: 明治安田生命保険 (2026-05-19 抽出)"
   - "明治安田生命 公式サイト 沿革 (2026-05-19 参照)"
 ---
+
 # 明治安田生命保険相互会社
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nippon-life|日本生命保険相互会社 (Nippon Life)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

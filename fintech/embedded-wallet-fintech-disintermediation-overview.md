@@ -14,6 +14,11 @@ status: candidate
 
 # 嵌入式钱包对 Fintech 去中介化 · 四强格局
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 嵌入式钱包(Embedded wallet)是 2025-2026 fintech 反向去中介化的关键载体 —— **Privy(Stripe 2025.06 收购 ~$1.1B)/ Coinbase CDP / Magic / Web3Auth** 四强让 fintech 现有客户基础变成 crypto 入口 · **用户无感**地持有/转账/签 crypto。协议基础是 ERC-4337/7702/7715 三件套。
 

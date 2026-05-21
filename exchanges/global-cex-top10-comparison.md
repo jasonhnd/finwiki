@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# グローバル CEX top 10 ランキング比較 (2025-2026)
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 グローバル CEX は spot 取引高ベースで **Binance** が圧倒的首位 (シェア 30-50%、月により変動)。派生 (deriv) 市場は **Binance + Bybit + OKX** の 3 強構造で、3 社合計で deriv 取引高の 60%+ を占める。米国法人 (**Coinbase / Kraken**) は規制制約で spot 中心 (deriv は限定的 Bitnomial / Kraken Derivatives EU)。韓国 **Upbit** は国内シェア 70%+ で BTC-KRW プレミアム市場を独占。多くがオフショア (セーシェル/ケイマン/Bahamas) から UAE・EU・香港へ規制ホスト移動中。

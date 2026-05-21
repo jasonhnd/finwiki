@@ -11,12 +11,20 @@ review_by: 2026-11-12
 confidence: possible
 evidence_count: 4
 challenges: 0
-source: session
 status: confirmed
 tags: [fintech, stablecoin, institutional]
+sources:
+  - "https://progmat.co.jp/about/"
+  - "https://progmat.co.jp/concept/"
+  - "Public JPMorgan, BIS, DTCC, Broadridge, and institutional tokenization disclosures."
 ---
 
 # 機関投資家市場のステーブルコイン = 銀行発行の預金トークンのみが構造的に解
+
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
 > 200-300 億円規模の機関決済では、ステーブルコインの KYC・規制水準が決済相手の水準と一致しなければ運用できない。パーミッションレスな USDC/USDT は構造上この市場に入れない。**JPM・三菱・三井住友・JP モルガン等の銀行発行預金トークンが、機関投資家向けステーブルコインの唯一の解**になる。

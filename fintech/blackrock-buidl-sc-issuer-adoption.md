@@ -14,6 +14,11 @@ status: candidate
 
 # BlackRock BUIDL · 稳定币与 DeFi 协议储备采用矩阵
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > BUIDL 是 GENIUS Act §501 之后唯一一只**横跨所有"白圈"+"DeFi 灰圈" SC issuer 的中立储备资产**——USDB(Stripe/Bridge)/ Frax sfrxUSD / Ondo OUSG / Ethena USDtb / Spark sUSDS 都以不同方式把 BUIDL 写入储备或抵押。BUIDL 同时被 CME / Binance / Deribit / Crypto.com 接受为衍生品保证金。这种"无差别 servicing"是 BlackRock 的 **中立军火商定位**,与 JPMorgan 闭环银行模式形成镜像。
 

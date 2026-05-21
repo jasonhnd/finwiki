@@ -17,6 +17,11 @@ sources:
 
 # 日本カストディ銀行 (CBJ)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大級の信託カストディ専業銀行（運用受託資産 約 600〜700 兆円規模 ^[ambiguous]）。**2020-07-27 日本トラスティ・サービス信託銀行 (JTSB) + 資産管理サービス信託銀行 (TCSB) 合併発足**。[[sumitomo-mitsui-trust]] 46.5% + [[mizuho-fg]] 信託 27.0% + [[dai-ichi-life]] 8.0% 等の合弁。**上場企業の主要株主欄に「日本カストディ銀行 (信託口)」として常連登場 ★**。日本マスタートラスト信託 [[master-trust-bank]]（MUFG [[mufg]] + [[nippon-life]] 系）と並ぶ国内 2 強の信託口株主（証券保管 2 強体制）。^[extracted]

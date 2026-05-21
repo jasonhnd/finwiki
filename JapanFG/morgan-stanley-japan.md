@@ -14,7 +14,13 @@ sources:
   - Morgan Stanley Annual Report (2024 / Form 10-K)
   - MUFG IR 開示 (Morgan Stanley 戦略提携関連)
 ---
+
 # モルガン・スタンレー・ジャパン (Morgan Stanley Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/goldman-sachs-japan|ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -23,6 +23,11 @@ sources:
 
 # Nat-cat reinsurance in Japan
 
+
+## Wiki route
+
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/saison-automobile-fire|Saison Automobile & Fire / SOMPO Direct]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan's non-life insurers operate in one of the world's major natural-catastrophe markets: earthquake, typhoon, flood, storm surge, and volcanic risk all matter. Natural-catastrophe reinsurance is therefore not a back-office technicality; it is a core balance-sheet and pricing mechanism for [[JapanFG/tokio-marine]], [[JapanFG/msad]], [[JapanFG/sompo]], and specialist or regional non-life insurers.

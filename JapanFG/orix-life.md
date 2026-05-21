@@ -16,6 +16,11 @@ sources:
 
 # オリックス生命保険
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 中堅生命保険会社、オリックス [[orix-corp]] 100% 子会社（非上場）。1991-04 米 Mutual of Omaha との合弁「オリックス・オマハ生命」として設立、2002 米側撤退で 100% 子会社化・現社名へ。代理店 + 銀行窓販 + **ネット直販**の 3 チャネル並用が特徴で、医療保険「**CURE（キュア）**」シリーズが国内ネット販売の主力商品。死亡保険・がん保険を含む第三分野中心のラインアップで、オリックスグループ個人向け金融商品のコアを担う。

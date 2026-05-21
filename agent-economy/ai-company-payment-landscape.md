@@ -11,10 +11,19 @@ review_by: 2026-10-30
 confidence: likely
 tags: [agent-economy]
 status: candidate
-sources: []
+sources:
+  - "https://stripe.com/"
+  - "https://openai.com/api/pricing/"
+  - "https://cloud.google.com/billing/docs"
+  - "Public billing / payment documentation for major AI and cloud API providers."
 ---
 
 # AI 公司收款方式现状
+
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it with [[agent-economy/erc-7715-overview|ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付]] for adjacent context and [[agent-economy/ap2-overview|AP2 · Google Agent Payments Protocol 概览]] for the broader system boundary.
 
 > [!info] TL;DR
 > 截至 2026 年 4 月，主要 AI 公司的海外收款方式：
@@ -30,7 +39,7 @@ sources: []
 
 **关键缺口**：基于非美国 LLM 做应用出海的创业公司群体更大也更碎，它们没有阿里云这种渠道兜底，需要自己解决[[fintech/ai-payment-two-tracks|跨境支付]]（Stripe 路径或稳定币路径），这是目前最大的未服务市场。
 
-来源: domestic SC pilot research journal
+Source note: public billing / payment documentation and public AI-company product pages; cross-border payment implications are framework-level synthesis.
 
 ## Related
 <!-- wiki-links:managed -->

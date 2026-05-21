@@ -14,6 +14,11 @@ status: candidate
 
 # WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > World Liberty Financial (WLF) USD1 稳定币 2024-09 启动 / 2025-Q1 实际部署,Trump 家族关联(Donald Jr / Eric / Barron 顾问 · 创始人 Steve Witkoff 中东特使候选 · ex-Dough Finance 团队)。2025-03 与 **Bridge** (Stripe 收购的稳定币发行平台) 签分销协议。MCap 2026-05 ~**$200M**(主要 WLF 自买驱动)。USD1 是**政治背景稳定币的标志性案例**——披着合规外衣的政治寻租,对 GENIUS Act "§501 中立性"投下长期阴影。
 

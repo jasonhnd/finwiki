@@ -14,6 +14,11 @@ status: candidate
 
 # FATF Travel Rule 跨境四层 stack · 各国门槛差异 + §501 协同
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 各国 Travel Rule 实施门槛差异巨大(EU TFR $0 · 日本 ¥100,000 · 美国 $3,000)但 R.16 是全球 floor。BSA Travel Rule + FATF R.16 + EU TFR + GENIUS §501 freeze 四层叠加 = 现代加密合规 stack。"差异化执行 + R.16 全球 floor" 是 GENIUS / MiCA / EPI 协同的底层 AML 层。
 

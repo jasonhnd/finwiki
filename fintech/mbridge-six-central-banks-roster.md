@@ -14,6 +14,11 @@ status: candidate
 
 # mBridge 6 央行清单与角色(2026-Q2)
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > mBridge 截至 2026-Q2 实际参与央行 5 + 准成员 1:PBoC(实质主导)/ HKMA(第二大节点 + Ensemble 互通)/ BoT / CBUAE / SAMA(2024-06 加入)/ BCB(2026-Q2 互操作测试)。BIS 2025-10 退出后这 6 家形成 "中国 + 中东 + 东南亚 + 拉美" 的非美元结算雏形。
 

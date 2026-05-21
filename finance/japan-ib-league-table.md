@@ -21,6 +21,11 @@ sources:
 
 # Japan IB league table
 
+
+## Wiki route
+
+This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/cross-border-m-a-japan|Cross-border M&A Japan]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan investment-banking league tables are ranking tools, not ground truth. The result depends on the vendor, product category, eligible deal universe, announcement / completion date, role credit, and currency conversion. Use them to map competitive position and mandate access, but always record the source vendor and period.

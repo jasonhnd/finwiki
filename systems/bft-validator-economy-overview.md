@@ -14,8 +14,10 @@ status: candidate
 
 # BFT validator 经济学概览
 
-> [!info] TL;DR
-> BFT 共识链的 validator 经济由四变量构成:**staking yield / slashing risk / MEV / 集中度风险**。机构级链普遍倾向少量高资质 validator,公开承认集中度换性能与可信度 —— validator 经济在机构链中退化为"运营经济",更接近传统金融基础设施的服务费模式。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-four-variables|BFT validator 经济四变量 · yield / slashing / MEV / 集中度]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

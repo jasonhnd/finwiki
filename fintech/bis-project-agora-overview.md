@@ -14,6 +14,11 @@ status: candidate
 
 # BIS Project Agorá 概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Agorá(古希腊语"广场")是 BIS Innovation Hub 2024.04 启动的旗舰项目 —— 7 家 G10 央行(美 FRBNY / 英 BoE / 法 BdF / 日 BoJ / 韩 BoK / 墨 Banxico / 瑞 SNB)+ 40+ 商业银行在统一可编程平台上同时实验 wholesale CBDC + 代币化商业银行存款,定位为多边主义代币化基础设施的事实标准候选。
 

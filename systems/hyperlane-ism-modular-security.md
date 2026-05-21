@@ -14,8 +14,10 @@ status: candidate
 
 # Hyperlane Interchain Security Modules(ISM)· 可插拔验证层
 
-> [!info] TL;DR
-> Hyperlane 的 ISM 是 **跨链消息验证的可插拔抽象**——开发者从 Multisig / Optimistic / CCIPRead / Aggregation / Routing / EigenLayerISM 中自选验证方案 · 把信任假设外包给适合自己 use case 的模型。这与 LayerZero 的 DVN(也是可选 verifier)思路相似 · 但 Hyperlane 把 modular 推到更深 · 包括 restaking-based 安全模型。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

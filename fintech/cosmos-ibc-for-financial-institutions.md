@@ -14,6 +14,11 @@ sources: []
 
 # Cosmos IBC for Financial Institutions
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 金融機関が cross-chain protocol を選ぶ場合、**信頼最小化(trust-minimized) / 認証可能性(verifiable) / 規制親和性(regulatory-friendly)** が core requirement。Cosmos **IBC + LCP(Light Client Proxy via TEE)** は唯一 light client verification を完備した protocol で、Progmat / Datachain が日本側で実装中。Hyperlane / CCIP / LayerZero は使いやすさは上だが、**multi-sig / oracle 依存** で信託銀行の AML/CFT 要件と緊張関係にある。
 

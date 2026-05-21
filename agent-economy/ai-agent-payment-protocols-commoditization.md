@@ -14,8 +14,10 @@ status: candidate
 
 # Agent 支付协议 commoditization 与价值上移
 
-> [!info] TL;DR
-> FIDO 2026 接管 AP2 → AAIF 后,agent 支付协议层注定 commoditization。价值上移到 distribution 控制点 —— Stripe 五层架构(L1 链 / wallet / 稳定币 / SDK / 商家流量)+ Privy 双默认(嵌入式 wallet 默认 + 应用层 SDK 默认)是当前最完整的价值捕获模板。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

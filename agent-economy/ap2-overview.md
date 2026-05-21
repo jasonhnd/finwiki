@@ -14,8 +14,10 @@ status: candidate
 
 # AP2 · Google Agent Payments Protocol 概览
 
-> [!info] TL;DR
-> AP2(Agent Payments Protocol)是 **Google 2025-09 发布、2026-Q1 v1.0** 的 AI agent 经济专用支付协议,目标是让 AI agent(代表用户)与 merchant 之间完成可信支付。差异化定位是 **强绑定 Google Wallet/Pay + Gemini agent + Verified Credentials**,主打"用户授权可证明、merchant 可信、agent 可问责"。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/ap2-adoption|AP2 采用版图 · Google 闭环 vs 协议四国杀]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -14,8 +14,10 @@ status: candidate
 
 # 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角
 
-> [!info] TL;DR
-> 把"VC 联合创始人 + 大客户 Board Director + 被投公司 CEO"三身份压在同一人身上,是一种**不可被任何其他人复制的 hedge 结构**——失败可回前两栏,成功则三栏共同获益。Matt Huang(Paradigm GP + Stripe Director + Tempo CEO)是 2026 年最完整的标本,也是诊断"为什么这家被投公司表面反常的战略其实合理"的模板。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/jamie-dimon-anti-crypto-pivot-case|jamie dimon anti crypto pivot case]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -16,6 +16,11 @@ sources: []
 
 # 稳定币地缘货币对立框架
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|美 / 欧 / 日 "三个大圆" 稳定币全球合规架构（MRA 互认）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 2026-2030 年的稳定币战争将演化为**五极地缘货币对立**,而非单一的"USDC vs USDT"零和竞争:①美国合规阵营（USDC / USD1 / PYUSD on Arc / Tempo / Base）②欧盟阵营（EURC + EUR-stable on MiCA-compliant chains）③日本阵营（JPYC / XJPY on Progmat / Arc-Japan-channel）④中国 / 香港阵营（e-CNY 链外 + HKD-stable）⑤灰色市场（USDT on Tron + Lightning + 新兴地下通道）。
 

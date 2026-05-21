@@ -14,8 +14,10 @@ status: candidate
 
 # EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁
 
-> [!info] TL;DR
-> EigenLayer 是 2023-06 上线 Ethereum 主网的 **restaking 协议**——已质押的 ETH(或 LST 如 stETH)可以**二次质押**给第三方 Actively Validated Services(AVS),用同一笔抵押品同时保障 Ethereum L1 和外部服务的安全。已聚合 **150 亿+ USD TVL**(2025 中),40+ AVS 上线,成为 Ethereum 生态的"加密经济安全租赁市场"。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-avs-mechanism|EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -14,6 +14,11 @@ sources: []
 
 # 日本信託型 SC 架構
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/multi-megabank-consortium-governance|多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 日本改正資金決済法把 SC 発行分成 **三型** —— **信託型(第 3 号 EPI)/銀行型(第 1 号 EPI)/資金移動業者型(第 1 号 EPI)** —— 各有不同法律根据 / 倒産隔離強度 / 送金上限。**信託型是 B2B 大口決算的唯一可行路径**(送金上限なし + 信託機構による 100% 倒産隔離),也是 Progmat Coin / 三大行共同 SC 的法律基盘。它在 §501(d) 互操作場景中構造性占優,但跨境通道依然開放。
 

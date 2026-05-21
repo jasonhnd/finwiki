@@ -19,6 +19,11 @@ sources:
 
 # 三菱 UFJ FG (MUFG)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfg|三井住友 FG (SMFG / SMBC グループ)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大金融集团（総資産 **431.7 兆円**、純利益 **2 兆 4300 億円** / **2026-03 期 (FY2026) 実績・邦銀史上最高益**、2026-05-15 公表）。2005-10-01 三菱東京 FG + UFJ HD 合併発足。**商業銀行 + 信託 + 証券（Morgan Stanley 戦略提携）+ 海外（アジア中心、Krungsri 等）4 軸**。G-SIB Bucket 1。グループスローガン「世界が進むチカラになる」。略称由来: UFJ = United Financial of Japan（社名に「フィナンシャル」が 2 つ含まれる）。^[extracted]

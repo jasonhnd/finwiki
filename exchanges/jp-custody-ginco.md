@@ -27,6 +27,11 @@ sources:
 
 # 株式会社Ginco — 日本 B2B ブロックチェーン・カストディインフラ提供者
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > VASP ではなく B2B インフラ提供者 · JVCEA 非加盟 · FSA 暗号資産交換業登録なし · 設立 2017-12-21
 
 ## 1. 法人・株主

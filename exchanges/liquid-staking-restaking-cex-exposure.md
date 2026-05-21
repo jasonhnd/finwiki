@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# Liquid staking + Restaking エコシステム + CEX exposure
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 **Liquid Staking** = staked ETH を再流動化する LST (Liquid Staking Token) を発行し、staking 中も DeFi 利用を可能にする仕組み。**Restaking** = その staked ETH を更に AVS (Actively Validated Service) に再 stake し、追加の経済的セキュリティを提供する仕組み。EigenLayer が 2024 年に再 staking の標準を確立し、LRT (Liquid Restaking Token) と組み合わせて 2 段重ねのレバレッジ構造を作った。機関 + CEX が両層に exposure を増加させている。

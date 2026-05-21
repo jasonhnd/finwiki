@@ -23,6 +23,11 @@ sources:
 
 # PayPay 金融グループ
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/au-fh|au フィナンシャルホールディングス (au-FH)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 SoftBank 株式会社 + LY Corporation 系の決済中核金融グループ。**コード決済「PayPay」登録ユーザー 7000 万超**（2025-07 時点、国内人口の過半数）、QR コード決済シェア約 2/3 で圧倒的首位。銀行・証券・カード・保険のクロスセル「スーパーアプリ」モデル。明示的な持株会社「PayPay 金融グループ」名称は **2024 年頃から使用**（純粋な金融持株会社ではなく機能的グルーピング呼称）。Z Holdings → LY Corporation 統合（2023-10）と **LINE Pay 国内終了（2025-04-30）完遂**を経て、PayPay 経済圏として再編完了。**2025-Q1 から SoftBank の Finance セグメントへ PayPay 銀行が再編入**（売上 4045 億円、社内全セグメント最大成長）。楽天経済圏 / au 経済圏 / d 経済圏 と並ぶ 4 大「通信・決済系経済圏」の一角。**PayPay 株式会社の IPO 観測**が SoftBank FY2025 通期決算（売上 7 兆円超で初）で本格化。

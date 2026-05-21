@@ -24,6 +24,11 @@ status: candidate
 
 # 国内暗号資産 税制 詳細 — 雑所得 vs 申告分離 + 個人 vs 法人
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 1. 概要
 
 国内暗号資産は所得税法上「雑所得」として課税 (2017- 仮想通貨法施行に合わせ国税庁 Q&A 整備)。個人は最大 **55% (45% 所得税 + 10% 住民税) 累進**。一方、株式・FX・暗号資産 ETF (米経由) は申告分離 20% (15% 所得税 + 5% 住民税) — **35 percentage point 差**が retail 投資家の保有・売買行動を歪める最大要因。OECD 主要国でも突出して重い税率である。

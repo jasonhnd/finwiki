@@ -16,6 +16,11 @@ sources:
 
 # 大垣共立銀行 (OKB)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 岐阜県大垣市に本店を置く東海地方の地方銀行。1896-03 創業、東証 PRIME 8361 上場、持株会社化していない**単独銀行体制**。岐阜県西濃地方を地盤に、愛知県北西部・三重県北部の**中京経済圏北辺**を主要営業圏とする。VI 略称「**OKB**」(1991 年導入)。「**楽しい銀行**」をコンセプトに、ドライブスルー店舗・ピンク基調の店内装飾・移動店舗車などユニーク施策で知られ、「**日本一の女性活躍銀行**」も掲げる。県内シェアでは [[juroku-fg]] と並ぶ二大銀行の一角。^[extracted]

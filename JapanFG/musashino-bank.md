@@ -17,6 +17,11 @@ sources:
 
 # 武蔵野銀行 (The Musashino Bank, Ltd.)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 埼玉県地盤の単独・第一地銀（東証 PRIME **8336**、本店さいたま市大宮区）。1952-03-06 戦後の埼玉県中小企業金融補完目的で **戦後新設地銀** として設立、1973 東証上場。略称「**むさしの**」。県内競合は **埼玉りそな銀行**（[[resona-hd]] 子会社、シェア No.1）。**TSUBASA アライアンス**（[[chiba-bank]] 主導の地銀広域連合）参加で IT・海外・市場運用を共同化。持株会社化していない単独銀行体制が継続中。^[extracted]

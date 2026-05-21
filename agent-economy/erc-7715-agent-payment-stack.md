@@ -14,8 +14,10 @@ status: candidate
 
 # ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同
 
-> [!info] TL;DR
-> 完整 agent payment stack 由四层组成:**HTTP 层(x402 复活)+ Agent 协商层(AP2 / MPP / ACP)+ Wallet 授权层(ERC-7715)+ Wallet 底层(ERC-4337 / 7702)**。任何 SaaS 都可以接收 agent 的自动支付——agent 持有"每月最多 $X 给 Vercel"的 scoped permission · 直接付费。**这把 SaaS 计费层从 Stripe Billing(基于卡)迁移到链上 permission(基于地址 + scope)**。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

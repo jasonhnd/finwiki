@@ -14,8 +14,10 @@ status: candidate
 
 # Pectra EIP-7691 · blob 翻倍与 L2 经济连锁
 
-> [!info] TL;DR
-> EIP-7691 把 Dencun 引入的 blob 容量从 target=3 / max=6 提升到 target=6 / max=9 · L2 calldata 成本直接 -50%。Base / Arbitrum / Optimism 用户 gas 进一步压低,sequencer 收入随活跃度上升但单位下降,Stripe Base 上的 USDC settlement 与 Coinbase Smart Wallet 体验同步改善 · 是 Vitalik L2 战略的延续动作。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-upgrade-overview|Ethereum Pectra 升级 · 四 EIP 双轨战略总览]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

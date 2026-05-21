@@ -14,6 +14,11 @@ status: candidate
 
 # Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Sky (2024-09 由 MakerDAO 重塑) 发行 USDS, 从 DAI ($4B 衰减) 向 USDS 迁移 (2026-Q1 USDS **$8.5B** · 合计 $12.5B). 是 GENIUS §501 时代**唯一仍坚持去中心化路线的大体量 SC**——通过 sUSDS (质押版 5-8% APY) + Spark Protocol (DeFi 子协议 $3.2B TVL) + Endgame Subdao 分裂三招应对 §501 合规压力。**变相合规**: sUSDS 通过 RWA vault 间接持有 ~$300M BlackRock BUIDL,削弱去中心化纯度但提高真实美元锚定能力。
 

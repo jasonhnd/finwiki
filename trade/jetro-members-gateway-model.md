@@ -16,6 +16,11 @@ sources: []
 
 # JETRO Members 有料会員制は B2B 提案の入口ゲート
 
+
+## Wiki route
+
+This entry sits under [[trade/jetro-organization-structure|JETRO は会員組織ではなく経産省傘下の独立行政法人]] and should be read with [[INDEX|FinWiki index]].
+
 > [!info] TL;DR
 > JETRO が「会員組織ではない」は法的に正しいが、実務上はジェトロ・メンバーズ（有料）入会が B2B 提案チャネルへの入口条件。
 

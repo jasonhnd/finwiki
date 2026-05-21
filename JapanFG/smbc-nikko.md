@@ -19,6 +19,11 @@ sources:
 
 # SMBC 日興証券 (SMBC Nikko Securities)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **三井住友 FG（[[smfg]]）100% 子会社の国内大手 5 大証券の一角**。SMBC 日興証券株式会社（非上場、[[smfg]] 連結子会社）。**1918 年「川島屋商店」創業を起源とし、1944 年 旧 日興証券 設立 → 2009 年 シティグループによる完全子会社化 → 2010-10 SMFG が約 7700 億円で取得 → 2011-04 SMBC 日興証券 改称**という波乱の系譜を持つ。**国内大手 5 大証券**（[[nomura-hd]] / [[daiwa-sg]] / SMBC 日興 / みずほ証券 / 三菱 UFJ モルガン・スタンレー証券）の中で唯一の「メガバンク 100% 子会社モデル」（みずほ証券・三菱 UFJ モルガン・スタンレー証券は中間持株会社や JV 形態を介する）。**2022 年の相場操縦事件（ブロックオファー取引）** で業務改善命令 + 業務停止命令を受け、ガバナンス再建が継続中。戦略軸は「リテール富裕層特化 + [[smfg]] グループ・ホールセール連携 + Olive ブランド統合」。

@@ -37,6 +37,16 @@ Public figures, public companies, public regulators, public laws, official addre
 | `sources` | YAML list | Public URLs, public documents, or public-source descriptions. Prefer URLs when possible. |
 | `status` | enum | `candidate`, `confirmed`, `active`, `borderline`, or `deprecated`. |
 
+## Body-Link Requirement
+
+FinWiki entries must work as connected wiki nodes, not as isolated notes with only footer links.
+
+- Every true wiki entry should have a top-level H1 title after frontmatter.
+- Every true wiki entry should contain at least three body `[[wikilink]]` links before `## Related` or `## Sources`.
+- Body links should normally include one route link to the domain index or nearest routing page, one peer / contrast link, and one system / regulatory link.
+- `## Related` remains useful as a footer, but footer-only links do not satisfy the body-link requirement.
+- Run `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` before push.
+
 ## Optional / Legacy Fields
 
 | Field | Type | Notes |
@@ -115,4 +125,5 @@ sources:
 
 - Use [INDEX.md](INDEX.md) and domain `INDEX.md` files as routing surfaces.
 - Use [.templates/wiki-entry-template.md](.templates/wiki-entry-template.md) for new entries.
+- Use [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) to audit body-link density and semantic link quality.
 - Update [CHANGELOG.md](CHANGELOG.md) for public-surface, structure, index, sync, release, or maintenance-rule changes.

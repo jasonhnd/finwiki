@@ -17,6 +17,11 @@ sources:
 
 # 岡三証券グループ (Okasan Securities Group)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 中堅独立証券持株会社（東証 PRIME **8609**）。1923 年 加藤精一が名古屋で 岡三商店 として創業 → 1944 株式会社化 → 2009-04 持株会社化。**5 大証券（[[ndfg]] 野村 / 大和 / SMBC 日興 / みずほ証券 / MUMSS）に次ぐ独立中堅** ポジション。中京経済圏（名古屋・三重発祥）に強い対面リテール基盤 + ネット証券（岡三オンライン）のハイブリッド戦略。主要競合は同じ中京系 東海東京 FH、ネット系 [[monex-group]] / 松井証券。^[extracted]

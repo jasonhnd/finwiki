@@ -14,8 +14,10 @@ status: candidate
 
 # CCTP V2 概览 · Circle USDC 跨链 burn-and-mint
 
-> [!info] TL;DR
-> CCTP V2 是 Circle 自 **2024-11 上线** 的 USDC 跨链原生 burn-and-mint 协议——在源链销毁 USDC、Circle Attestation Service 签名后,在目标链 mint 等量原生 USDC。**没有 wrapped token、没有锁仓桥风险**——这是 Canton / Hyperledger Besu 等私链做不到的"公链 USDC 单一发行"模型,也是 Arc 链 §501(d) 合规叙事的技术地基。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-technical-spec|CCTP V2 技术规范 · Fast Transfer · Hooks · Attestation Service]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

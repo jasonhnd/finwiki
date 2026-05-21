@@ -16,6 +16,11 @@ sources: []
 
 # GENIUS Act §501 链级 Denylist 合法化
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 美国 GENIUS Act §501（2025 年通过）以明文形式要求合规稳定币发行方具备**链级地址封禁能力**（chain-level Denylist）。该条款反向解释了 Circle 必须自建 L1（Arc）的根本原因：**唯有自有链才能同时控制 token 与共识层,实现端到端的合规执行**。链级 Denylist 由"商业妥协"升格为"法律明文要求"。
 

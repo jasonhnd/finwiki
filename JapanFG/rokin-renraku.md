@@ -8,8 +8,8 @@ aliases:
   - "労働金庫連合会"
 domain: "JapanFG"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, cooperative-banking, central-institution]
@@ -18,9 +18,15 @@ sources:
   - "https://www.rokinren.com/about/profile.html"
   - "https://www.rokinren.com/about/our-roles.html"
   - "https://www.rokinren.com/about/works.html"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx"
 ---
 
 # 労働金庫連合会 (The Rokinren Bank)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -82,12 +88,14 @@ sources:
 
 - [[JapanFG/zenshin-kumi|zenshin-kumi]] · [[JapanFG/shinkin-central|shinkin-central]] · [[JapanFG/norinchukin|norinchukin]]
 - [[banking/INDEX|banking INDEX]] · [[INDEX|FinWiki index]]
+- [[banking/rokin-bank-registry-japan]] — 労働金庫 13 金庫の registry index
 
 ## Sources
 
 - 労働金庫連合会「労金連のプロフィール」: https://www.rokinren.com/about/profile.html
 - 労働金庫連合会「労金連の役割」: https://www.rokinren.com/about/our-roles.html
 - 労働金庫連合会「業務のご案内」: https://www.rokinren.com/about/works.html
+- 金融庁: 労働金庫連合会・労働金庫免許一覧 (2023-08-14): https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx
 
 ---
 

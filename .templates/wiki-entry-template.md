@@ -9,13 +9,16 @@ review_by: <%+ tp.date.now("YYYY-MM-DD") %>     # when wiki-decay should re-surf
 confidence: possible       # enum: impossible | unlikely | possible | likely | certain  (was 0.0–1.0 float in v1.7)
 tags: [<domain>, <topic-tag>]
 status: candidate          # candidate | confirmed | deprecated
-sources: []                # plural array — list every URL / citation / conversation that contributed
+sources: []                # plural array — public URLs, public documents, or public-source descriptions only
 ---
 
 # <title>
 
 ## TL;DR
 <2-3 sentences>
+
+## Wiki route
+This entry sits under [[<domain>/INDEX|<domain>]]. Read it with [[<peer-entry>|<peer label>]] for adjacent context and [[<system-or-regulatory-entry>|<system label>]] for the broader system boundary.
 
 ## Key facts
 <!--

@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# 国内 CEX 販売所 vs 取引所 ビジネスモデル経済学
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-cex-points-economy-integration|国内 CEX × ポイントエコノミー統合モデル]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内 CEX は 2 つのサービス形態を並行運営する独自構造を持つ。**販売所 (はんばいじょ)** = CEX 自身が顧客と相対取引する OTC スプレッドモデル vs **取引所 (とりひきじょ)** = 顧客同士の指値板で約定する maker/taker fee モデル。両者は収益構造・規制上の位置付け・想定顧客層が大きく異なり、同一 CEX が両サービスを併設するケースが多い。

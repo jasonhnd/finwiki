@@ -14,8 +14,10 @@ status: candidate
 
 # Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争
 
-> [!info] TL;DR
-> 移动 wallet 有两条路径之争:**Embedded Wallet(Privy / Coinbase CDP)** 把 wallet 做进 dapp · 依赖手机 OS 的 passkey/biometric;**Solana Mobile Stack(SMS)** 把 wallet 做成 Android 系统服务 · 绕开浏览器 + app store。两者在 mobile checkout / consumer-side payment 场景正面碰撞。Stripe Tap to Pay 偏 SMS 范式(NFC 系统层)· Privy 偏 embedded 范式。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

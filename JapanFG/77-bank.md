@@ -16,6 +16,11 @@ sources:
 
 # 七十七銀行 (77 Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **東北地方最大の地方銀行**、宮城県仙台市本店、東証 PRIME 8341。1878-12-09 第七十七国立銀行として仙台で設立、1898 株式会社七十七銀行に改称。**単独銀行体制（持株会社化せず）**を維持し、宮城県内シェア圧倒・東北 6 県＋首都圏に展開。略称「しちしち」「77」。**2011-03-11 東日本大震災で仙台本店周辺が壊滅的被害**を受けたが、復興金融の中核として機能。総資産概ね 10 兆円台、貸出金 6〜7 兆円規模 ^[ambiguous]。^[extracted]

@@ -15,8 +15,10 @@ status: candidate
 
 # 40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino
 
-> [!info] TL;DR
-> "用户资金 → 短期美债 → 利息直接利益化"+ 40 人体制极简组织 = 历史人均利润最高的金融机构模板($388M / 人 / 年)。Tether(Paolo Ardoino)是 2024-2025 Fed 高利率周期的极致受益者($15.5B 净利润),但模板的核心约束 = **必须放弃 KYC 才能维持灰色市场霸权 +必须地缘 hedge 替代监管**。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

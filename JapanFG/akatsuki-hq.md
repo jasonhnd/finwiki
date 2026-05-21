@@ -14,7 +14,13 @@ sources:
   - "Wikipedia: あかつき証券 (2026-05-19 抽出)"
   - "東証 STD 8737 開示情報 (公開分)"
 ---
+
 # あかつき本社 (Akatsuki Honsha)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

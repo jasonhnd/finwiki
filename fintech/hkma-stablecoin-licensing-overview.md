@@ -14,6 +14,11 @@ status: candidate
 
 # HKMA 稳定币牌照 · 香港 Stablecoin Licensing Regime 概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 香港 HKMA(Hong Kong Monetary Authority)稳定币立法 2025-08 通过,是亚洲第一个完整 SC 牌照框架。2026-05-21 首批 9 家申请方决定(实际只发 2 张:HSBC + Anchorpoint)。HK 牌照 = 三圆 MRA 第三圈候选 + 中国大陆唯一可获牌途径。
 

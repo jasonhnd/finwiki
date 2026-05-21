@@ -14,7 +14,13 @@ sources:
   - "Deutsche Bank AG 公式日本サイト"
   - "公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)"
 ---
+
 # ドイチェ・ジャパン (Deutsche Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -14,8 +14,10 @@ status: candidate
 
 # ERC-4337 UserOp/Bundler/EntryPoint 流程详解
 
-> [!info] TL;DR
-> ERC-4337 用 **alternative transaction pool** 完整绕过协议层修改:UserOp 进入 alt-mempool → Bundler 打包成标准 transaction → EntryPoint 验证签名 + 调用 SCW factory(若需要)+ 执行 calldata → 可选 Paymaster 代付 gas。**5 个核心组件:UserOp / Bundler / EntryPoint / Paymaster / Aggregator**。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概览 · Account Abstraction 的应用层实现]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

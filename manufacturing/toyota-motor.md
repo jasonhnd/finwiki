@@ -21,6 +21,11 @@ sources:
 
 # Toyota Motor Corporation (トヨタ自動車)
 
+
+## Wiki route
+
+This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it against [[manufacturing/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 トヨタ自動車は 1937-08-28 設立の日本最大級自動車メーカーで、[[JapanFG/toyota-financial|トヨタファイナンシャルサービス]] の親会社。FinWiki では「製造業本体が金融子会社・販売金融・残価リスク・EV/ハイブリッド戦略をどう支えるか」を見るための manufacturing anchor として使う。

@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 CEX が公開する Developer Interface は概ね 3 階層で標準化されている: **(a) REST API** (注文発注 · 残高照会 · 約定履歴 · KYC 設定など state-changing + snapshot 系)、**(b) WebSocket** (リアルタイム板情報 · 価格 stream · 自己約定 push — 低遅延 push 系)、**(c) FIX 4.4 / 5.0** (機関 prime broker 向け · 一部大手 CEX のみ提供)。主用途は bot trading、機関連携、データ取得 (オンチェーン分析 / market making 用素材)、自家ウォレット連携 (取引所⇔セルフカストディ往復)。レート制限 + IP allowlist + API key 署名認証 (HMAC-SHA256) が共通。

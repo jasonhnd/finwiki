@@ -10,11 +10,22 @@ review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
 status: candidate
+sources:
+  - "https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce"
+  - "https://www.x402.org/"
+  - "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol"
+  - "https://eips.ethereum.org/EIPS/eip-8004"
 ---
+
 # Agent 支付基础设施研究报告
 
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/skill-market-monetization|Skill 市场收费化]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
-> 内部调研 | 2026-04-08
+> Public-source protocol snapshot | 2026-04-08
 
 ## 一、协议标准格局
 

@@ -17,7 +17,13 @@ sources:
   - "TSUBASA アライアンス公式 (tsubasa-al.co.jp, 2025-03 末 10 行体制確認)"
   - "Wikipedia: 横浜フィナンシャルグループ / 横浜銀行 / 東日本銀行 (2026-05-19 抽出)"
 ---
+
 # 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

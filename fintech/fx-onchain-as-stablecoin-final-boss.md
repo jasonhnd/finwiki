@@ -11,12 +11,20 @@ review_by: 2026-11-12
 confidence: possible
 evidence_count: 3
 challenges: 0
-source: session
 status: confirmed
 tags: [fintech, stablecoin, fx, settlement-risk]
+sources:
+  - "BIS / CPMI public materials on foreign-exchange settlement risk and payment-versus-payment."
+  - "Public CLS and central-bank materials on FX settlement and Herstatt risk."
+  - "Public stablecoin / tokenized-deposit disclosures related to cross-border settlement."
 ---
 
 # 為替 onchain 化はステーブルコイン領域の「ラスボス」 — プライムブローカー消失と Herstatt Risk 解消
+
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
 > 円ステーブルコイン × ドルステーブルコインの 24/365 即時決済が実現すれば、(1) FX 市場のプライムブローカー層が機能不要化し、(2) 時差決済リスク（Herstatt Risk）が消滅する。これがステーブルコイン業界全体での最大の上場利益であり、機関投資家市場における「最終的に向かう先（ラスボス）」。

@@ -11,12 +11,20 @@ review_by: 2026-11-12
 confidence: possible
 evidence_count: 3
 challenges: 0
-source: session
 status: confirmed
 tags: [fintech, blockchain, stablecoin]
+sources:
+  - "https://docs.digitalasset.com/integrate/devnet/canton-network-overview/index.html"
+  - "https://progmat.co.jp/about/"
+  - "Public DTCC, Nasdaq, Broadridge, Circle, and institutional tokenization disclosures."
 ---
 
 # ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した
+
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
 > 2024 年以降、ブロックチェーン技術は「クリプト（イデオロギー駆動・パーミッションレス・分散化）」と「オンチェーンファイナンス（純粋テクノロジー駆動・決済効率化）」に完全分離。同じ「ブロックチェーン」という単語でも、文脈次第で全く別物を指す。両者を同じ議論で扱うと話が噛み合わない。

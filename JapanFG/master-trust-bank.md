@@ -16,6 +16,11 @@ sources:
 
 # 日本マスタートラスト信託銀行
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/custody-bank|日本カストディ銀行 (CBJ)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大の資産管理専業信託銀行（受託資産 **約 700 兆円超** / 2024 年時点）^[ambiguous]。2000-05 設立、[[mufg]] 系 + 生損保連合（[[nippon-life]]・[[meiji-yasuda]]・[[norinchukin]]）の合弁。**「日本マスタートラスト信託銀行（信託口）」名義で上場企業有報の主要株主筆頭に頻出** — 但し実際の受益者は年金基金・機関投資家・投信ファンドで、議決権行使指図は委託者側にある。**カストディ + 年金信託 + 有価証券管理 専業**で、融資・預金は事実上扱わない。競合 [[custody-bank]]（日本カストディ銀行）と並び日本の証券保管インフラ 2 強体制を構成。^[extracted]

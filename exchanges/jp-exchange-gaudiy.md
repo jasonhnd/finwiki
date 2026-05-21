@@ -33,6 +33,11 @@ sources:
 
 # 株式会社Gaudiy Financial Labs — JVCEA 第二種会員（Web3 IP プラットフォーム事業者）
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > FSA 登録番号 **公表なし（第二種会員 = 申請準備中または申請予定）** · JVCEA 会員 #2033（第二種会員） · 親グループ: 株式会社 Gaudiy Group（旧 株式会社 Gaudiy）
 
 株式会社 Gaudiy Financial Labs は、**暗号資産交換業者ではなく Web3 × IP ファンエコノミー分野のスタートアップ**である株式会社 Gaudiy Group の金融インフラ子会社として設立された法人。JVCEA 第二種会員への加入は、同グループが IP ホルダーとファンをつなぐファントークンや暗号資産関連サービスのインフラを整備するための牌照取得準備と位置づけられる。既存の暗号資産交換所（第一種会員各社）とは事業モデルが大きく異なり、BtoB 向け IP コミュニティプラットフォームの金融機能拡張が主目的とみられる。

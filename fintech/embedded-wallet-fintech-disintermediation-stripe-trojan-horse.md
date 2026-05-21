@@ -14,6 +14,11 @@ status: candidate
 
 # 嵌入式钱包 · Fintech 反吃 Web3 的 Trojan Horse(Stripe 五层)
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 嵌入式钱包不是 Web3 渗透 Fintech · 是反过来 —— **Fintech 把 crypto 嵌入后台 · 让 5M+ 商家变 crypto 入口 · 用户不需"成为 crypto user"**。Stripe 五层 collapse(L5 Checkout → L4 Privy → L3 Bridge USDB → L2 Tempo → L1 AP2/x402)是这场反向去中介化的样本架构 · Privy 在 L4 是桥头堡。
 

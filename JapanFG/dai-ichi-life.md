@@ -1,10 +1,10 @@
 ---
-title: 第一生命 HD (Dai-ichi Life Holdings)
-aliases: ["Dai-ichi Life", "第一生命ホールディングス", "第一生命 HD", "Dai-ichi Life Holdings", "8750"]
+title: 第一ライフグループ / 旧 第一生命 HD
+aliases: ["Dai-ichi Life", "Daiichi Life Group", "Dai-ichi Life Group", "株式会社第一ライフグループ", "第一ライフグループ", "第一生命ホールディングス", "第一生命 HD", "Dai-ichi Life Holdings", "8750"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance]
@@ -14,17 +14,26 @@ sources:
   - "第一生命 HD 公式 IR / 沿革ページ (公開情報)"
   - "2025年3月期 決算短信 (連結, 2025-05-15 開示)"
   - "2026年3月期 第2四半期(中間期) 決算短信 (連結, 2025-11-14 開示)"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf"
+  - "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_036.pdf"
 ---
-# 第一生命 HD (Dai-ichi Life Holdings)
+
+# 第一ライフグループ / 旧 第一生命 HD
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nippon-life|日本生命保険相互会社 (Nippon Life)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-国内大手 4 生保の一角（第一生命 / [[nippon-life]] / 住友生命 / 明治安田生命）。**1902-09 創業、日本初の相互会社形態保険会社**。2010-04 株式会社化・上場（当時史上最大の相互→株式会社化）、2016-10 持株会社化で**第一生命 HD 発足**。東証 PRIME 8750。**国内（営業職員 + 銀行窓販 + 乗合代理店 3 軸）+ 海外（米 Protective / 豪 TAL / アジア）+ 資産運用（みずほ JV アセマネ One）** 戦略。**FY2024（2025-03 期）純利益 4,296 億円（+34%）、海外事業利益が初の 1,000 億円超（1,146 億円）**で米 Protective 利益 3.4 倍。健康増進型「健康第一」など DX 推進。中計「Re-connect 2026」（2024〜）展開中。
+国内大手 4 生保の一角（第一生命 / [[nippon-life]] / 住友生命 / 明治安田生命）。**1902-09 創業、日本初の相互会社形態保険会社**。2010-04 株式会社化・上場（当時史上最大の相互→株式会社化）、2016-10 持株会社化で**第一生命 HD 発足**。2026-04-01 に商号を **株式会社第一ライフグループ（Daiichi Life Group, Inc.）** へ変更。東証 PRIME 8750。**国内（営業職員 + 銀行窓販 + 乗合代理店 3 軸）+ 海外（米 Protective / 豪 TAL / アジア）+ 資産運用（みずほ JV アセマネ One）** 戦略。**FY2024（2025-03 期）純利益 4,296 億円（+34%）、海外事業利益が初の 1,000 億円超（1,146 億円）**で米 Protective 利益 3.4 倍。健康増進型「健康第一」など DX 推進。中計「Re-connect 2026」（2024〜）展開中。
 
 ## 1. 公司结构
 
-**正式名**：第一生命ホールディングス株式会社
-**英名**：Dai-ichi Life Holdings, Inc.
+**正式名**：株式会社第一ライフグループ（2026-04-01 商号変更）
+**旧商号**：第一生命ホールディングス株式会社
+**英名**：Daiichi Life Group, Inc.
 **証券コード**：東証 PRIME 8750
 **創業**：1902-09（旧 第一生命保險相互会社、矢野恒太 創設）
 **株式会社化・上場**：2010-04-01
@@ -63,7 +72,7 @@ sources:
 ### 主要子会社・持分
 
 ```
-第一生命 HD（持株会社・上場 8750）
+第一ライフグループ（旧 第一生命 HD、持株会社・上場 8750）
   ├── 第一生命保険（100%）── 主力国内事業・営業職員チャネル
   ├── 第一フロンティア生命（100%）── 銀行窓販向け（貯蓄性商品中心)
   ├── ネオファースト生命（100%）── ネット・乗合代理店向け

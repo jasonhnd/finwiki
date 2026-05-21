@@ -16,6 +16,11 @@ sources: []
 
 # 协议层多线 hedge 策略
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 当新兴领域（例如 AI agent 支付）存在多套竞争协议尚未收敛时,既有玩家倾向于采取"**同时担任多套协议的 co-author / founding member**"策略 —— 不以重资押注单一协议成为标准,而是确保**任何标准胜出时都不被抛下**。Stripe 同时参与 MPP（自家协议）、ACP（OpenAI）、AP2（Google）、x402（Coinbase / Cloudflare）是该模式的教科书案例。
 

@@ -16,6 +16,11 @@ sources: []
 
 # 企业 IT 采购预算锁定
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 表面看是"市场截止线"或"协议续约日"的事件，**真实驱动力是企业 IT 采购预算锁定周期**。机构买家不在实时市场决定，而在 6-12 个月前的预算周期决定。**2026-08 Coinbase-Circle 协议续约**的真实威力来自其**对应 2027 年度企业采购预算锁定时段**。
 

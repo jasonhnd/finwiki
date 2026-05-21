@@ -16,6 +16,11 @@ sources: []
 
 # DAG-BFT vs Chain-BFT 架构本质分歧
 
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it with [[fintech/INDEX|fintech index]] for adjacent context and [[security/bytecode-forensic-three-tier-verify|智能合约 bytecode forensic — 三层 verify 技术]] for the broader system boundary.
+
 > [!info] TL;DR
 > 现代 BFT 共识算法分为两大流派:**Chain-BFT**（HotStuff / Tendermint / Threshold Simplex / Malachite）将 block 链化,**DAG-BFT**（Narwhal / Bullshark / Mysticeti）将 mempool 升格为 first-class consensus citizen。**本质分歧不在性能而在 mempool 抽象方式** —— Chain-BFT 适合支付场景（审计友好）,DAG-BFT 适合高吞吐场景（100k+ TPS）。Tempo 与 Arc 均选择 Chain-BFT。
 

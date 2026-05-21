@@ -17,6 +17,11 @@ sources:
 
 # 国際協力銀行 (JBIC)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本の海外向け **政策金融機関**（財務大臣 100% 株主、特殊会社）。**輸出金融 + 海外投資金融 + アンタイドローン + 出資** の 4 業務で、日本企業のグローバル展開・資源エネルギー確保・GX を支援。2012-04-01 [[jfc]]（日本政策金融公庫）から再独立して特殊会社化。前身は 1950 設立の日本輸出銀行（→ 日本輸出入銀行）と 1961 設立の海外経済協力基金（OECF）。1999-10 両者統合で旧 JBIC 発足、2008-10 JFC に一旦統合 → 2012-04 再独立。民間メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）との **協調融資が中心スキーム**、[[policy-finance/jica|jica]] とは「JBIC = 輸出/投資、JICA = ODA」で分業。^[extracted]

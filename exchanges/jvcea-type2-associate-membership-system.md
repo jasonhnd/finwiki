@@ -23,6 +23,11 @@ status: candidate
 
 # JVCEA Type 2 (第二種会員) 制度 — 賛助会員 4 社分析
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jvcea-self-regulatory-overview|JVCEA — 日本暗号資産取引業協会 自主規制制度]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 制度概要
 
 JVCEA ([[exchanges/jvcea-self-regulatory-overview]]) は会員区分を 2 種類設定:

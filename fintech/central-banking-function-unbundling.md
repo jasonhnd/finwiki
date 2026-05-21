@@ -16,6 +16,11 @@ sources: []
 
 # 中央银行职能解体五层
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|美 / 欧 / 日 "三个大圆" 稳定币全球合规架构（MRA 互认）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > Bretton Woods 体系（1944）建立的隐含假设是**央行同时承担货币系统的 5 项职能**，且这些职能**捆绑出售**。2022 年起，5 项中 4 项（#2-#5）被分别私有化、商品化、链原生化、多极化。央行保留计价单位（#1），其余的解体过程是过去 80 年最大的金融基础设施重组。
 

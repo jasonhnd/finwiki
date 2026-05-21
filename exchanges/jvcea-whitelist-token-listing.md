@@ -24,6 +24,12 @@ sources:
 status: candidate
 ---
 
+# JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jvcea-whitelist-listing-timeline|JVCEA WhiteList 上場銘柄 timeline (2017-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 制度概要
 
 JVCEA (日本暗号資産取引業協会) は認定自主規制団体として、国内 VASP (暗号資産交換業者) が取扱可能な銘柄を審査・公開リスト化する役割を担う。改正資金決済法のもとで、新規トークン上場には JVCEA 事前審査が事実上必須であり、FSA (金融庁) は審査機能の大部分を協会に委任している。会員 VASP は同協会の取扱方針規則に従い、新規・既存銘柄の取扱判断を行う。詳細は [[exchanges/jvcea-self-regulatory-overview]] 参照。

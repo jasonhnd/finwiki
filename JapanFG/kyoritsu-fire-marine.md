@@ -17,6 +17,11 @@ sources:
 
 # 共栄火災海上保険
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 JA 共済連を筆頭株主（**74.20%**）とする中堅損害保険会社。1942-07-01 戦時統合（大東海上 + 大福海上）で創業、1946 年に**損保業界では珍しく相互会社化**、2003-04 株式会社転換。3 大損保（[[tokio-marine]] / [[msad]] / [[sompo]]）には属さず**協同組合・協同組織系列**の独立路線。北海道・東北・北陸・九州で相対的に強いシェアを持ち、JA 共済では扱えない領域（自動車・火災等）を補完する位置付け。2025-04 から新中計「**SHIFT〜持続的成長に向けて〜**」開始。^[extracted]

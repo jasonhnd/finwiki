@@ -14,8 +14,10 @@ status: candidate
 
 # Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照
 
-> [!info] TL;DR
-> 三大跨链 AMP 协议代表两种部署哲学:**Hyperlane permissionless(开发者全权选 ISM)** vs **LayerZero 半 gated(团队评估新链 · DVN 可选)** vs **Chainlink CCIP 重 gated(Chainlink DON 部署 + RMN 风控)**。**Cosmos / Solana / app-chain 默认 Hyperlane · 大型机构 dApp 偏 LayerZero/CCIP**——这是跨链生态长期共存的格局。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

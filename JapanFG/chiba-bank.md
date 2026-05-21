@@ -16,6 +16,11 @@ sources:
 
 # 千葉銀行 (Chiba Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gunma-bank|群馬銀行 (The Gunma Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 千葉県地盤の地銀単独最大手級（預金 **18-20 兆円規模** ^[ambiguous] / 千葉県シェア No.1）。1943-03 千葉合同銀行として戦時統合で発足、同月千葉銀行に改称。1949 東証上場。**持株会社化していない単独銀行** で経営の柔軟性を確保しつつ、地銀 FG（[[concordia-fg]]・[[fukuoka-fg]]・[[hokuhoku-fg]] 等）に並ぶ規模で重要。**2015 TSUBASA アライアンス主導設立** ★ により 11 行協業（システム共同化・海外サポート）でホールディング化を回避しつつスケールメリット獲得。2023-12 シンガポール支店開設で海外戦略本格化。^[extracted]

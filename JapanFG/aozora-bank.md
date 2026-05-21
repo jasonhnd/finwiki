@@ -17,6 +17,11 @@ sources:
 
 # あおぞら銀行 (Aozora Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sbi-shinsei-bank|SBI 新生銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 旧 **日本債券信用銀行（日債銀, NCB）** 系譜の中堅独立銀行。**1998-12 経営破綻 → 特別公的管理（一時国有化）** を経験した邦銀再生史の代表例。2000-09 ソフトバンク + オリックス + 東京海上連合に売却 → 2001-01「あおぞら銀行」改称 → 2003 米 PE **サーベラス（Cerberus Capital Management）** 主要株主化 → 2006-11 東証一部再上場 → サーベラス段階的売却完了。直近最大論点は **2023-2024 期 米国 CRE（商業用不動産）融資巨額損失** → 2024-05 通期赤字発表 → 業績下方修正・経営戦略再構築フェーズ。メガ系列にも地銀系列にも属さない「中堅独立銀行」モデル ^[extracted]。

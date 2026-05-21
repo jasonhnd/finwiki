@@ -14,8 +14,10 @@ status: candidate
 
 # Tempo vs Arc · 机构链 validator 设计两条路径
 
-> [!info] TL;DR
-> Tempo(Stripe + Paradigm)采"4 外部 validator 极简"模型,公开承认集中度换性能与可信度;Arc(Circle)采"PoA → 许可 PoS → 治理 PoS"三阶段渐进式去中心化。两者是 2025-2026 机构链 validator 设计的两个典型范式 —— 共同点是都拒绝 retail 公链经济模型。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-l1-bootstrapping|EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -14,6 +14,11 @@ status: candidate
 
 # HKMA 牌照战略含义 · Tether HK 非对称赌注 + 中国大陆 SC 通道
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Tether HK 申请是 2026 年最被低估的事件:获批 50-60% 概率下 Tether 母公司估值从 $5-10B 跃升至 $15-25B(+50% 至 +150%)的非对称赌注。HK 牌照同时是中国大陆唯一可获牌途径 —— PBoC 离岸 CNH 窗口(2026-Q4)与 HK SC 协同 = 北京"既要离岸国际化又要划界"的双轨设计。
 

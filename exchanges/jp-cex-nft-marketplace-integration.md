@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# 国内 CEX × NFT マーケットプレイス統合モデル
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-cex-staking-lending-regulation|国内 CEX ステーキング・レンディングサービス + 規制]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内 CEX は VASP ライセンス保有の強みを活用し、NFT マーケットプレイス (MP) を自社運営または連携。2021-2022 NFT bubble 期に各社が一斉進出したが、2023-2026 は明確な縮小整理フェーズに移行。決済レイヤーで暗号資産を扱う必要があるため、VASP 登録済み CEX が構造的に有利なポジションを持つ。

@@ -24,6 +24,11 @@ status: candidate
 
 # CEX matching engine + cold/hot wallet 内部架構
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-cold-storage-segregation-rules|国内 VASP コールド保管 95% + 分別管理制度]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. matching engine 概要
 
 CEX のコア = **matching engine (注文書照合エンジン)**。設計思想は大別して 3 種類:

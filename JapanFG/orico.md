@@ -16,6 +16,11 @@ sources:
 
 # 株式会社オリエントコーポレーション (Orico)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **[[mizuho-fg]] 系・伊藤忠商事系の国内大手信販**。1954-12-22 広島で「廣島総合信用」として設立、1962 にオリエントファイナンス、2001 に現社名へ改称。**自動車ローン (オートローン) 国内最大手**を背骨に、ショッピングクレジット・クレジットカード (Orico Card 各種)・カードローン・法人ファイナンス・不動産担保ローンを展開。2005-12 経営再建で [[mizuho-fg]] (旧興銀系) + 伊藤忠商事 + KDDI 等の優先株注入を受け、現在は **みずほ FG の持分法適用関連会社 + 伊藤忠商事**が主要株主の枠組み。東証 PRIME 8585。競合は [[jaccs]] / クレディセゾン / 三井住友カード ([[smfg]] 系) / 三菱 UFJ ニコス ([[mufg]] 系) / イオン系 [[aeon-bank]]。^[extracted]

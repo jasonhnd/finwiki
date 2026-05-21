@@ -14,6 +14,11 @@ status: candidate
 
 # BlackRock BUIDL · 代币化 MMF 标杆 · "稳定币 yield 基础设施"
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > BlackRock USD Institutional Digital Liquidity Fund (BUIDL) 由 Securitize 发行,2024-03 以太坊上线,2026-05 跨 **8 条链**、AUM **$2.58B**、获 Moody's **Aaa-mf** 顶级评级。BUIDL 不是普通"链上理财产品",而是被升级为**稳定币储备的 yield 基础设施**——卖给 USDB / Frax / Ondo OUSG / Ethena USDtb / Spark sUSDS 等几乎所有大型 SC/DeFi 协议,与 JPMorgan Kinexys MONY/JLTXX 共同构成代币化 MMF **双核**。
 

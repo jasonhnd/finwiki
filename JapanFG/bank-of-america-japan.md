@@ -23,6 +23,11 @@ sources:
 
 # バンク・オブ・アメリカ日本 (Bank of America Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/socgen-japan|ソシエテ・ジェネラル日本 (Societe Generale Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Bank of America は 1947年に日本で事業を開始した米大手金融グループの在日拠点。現在は BofA証券株式会社と Bank of America, N.A., Tokyo Branch の 2 法人を軸に、証券・投資銀行、法人銀行、外為、貿易金融、円・外貨口座、信用供与を提供する。[[JapanFG/wells-fargo-japan|wells-fargo-japan]]、[[JapanFG/citigroup-japan|citigroup-japan]]、[[JapanFG/jpmorgan-japan|jpmorgan-japan]] と並ぶ米系ホールセール銀行・IB 比較対象。

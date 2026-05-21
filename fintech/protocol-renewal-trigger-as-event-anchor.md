@@ -16,6 +16,11 @@ sources: []
 
 # 协议续约触发器 —— 商业合作重构与事件锚定机制
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > **协议续约触发器**是指在高度共生但存在潜在竞争（Co-opetition）的双寡头或强伙伴关系中，**事先约定的协议重谈或续约期限（Event Anchor）**。该时点不仅是法律条文的重新签署，更是**整个市场生态重新定价、产品竞速发布以及战略转向的强力排期锚点**。最典型的案例是 **2026-08 Coinbase-Circle 协议续约**，迫使整个稳定币生态提前 6 个月进行战略重排。
 

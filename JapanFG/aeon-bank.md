@@ -17,6 +17,11 @@ sources:
 
 # イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/seven-bank|セブン銀行 (Seven Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **流通系銀行の代表格**。総合スーパー [[retail/aeon-group]] イオン株式会社が頂点に立ち、中間持株会社 **イオンフィナンシャルサービス（AFS、東証 PRIME 8570）** が **イオン銀行 100%** と **アジア消費者金融 7 ヶ国網** を束ねる構造。**店舗 = イオンモール内ブランチ + 駅前 ATM 約 6,500 台級**、**プロダクト = イオンカード（国内発行枚数上位）+ WAON 電子マネー + イオン住宅ローン**、**海外 = タイ・マレーシア・香港等のアジア消費者金融子会社群**。[[seven-bank]] / [[lawson-bank]] と並ぶ流通 3 兄弟だが、ATM 単機能の 7 銀 / L 銀と異なり「総合銀行 + クレカ + アジア」の **3 階建てモデル**。^[extracted]

@@ -17,6 +17,11 @@ sources:
 
 # ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 米 Goldman Sachs Group (NYSE: GS) の日本拠点。1974 年東京支店開設、現在は六本木ヒルズ森タワー本社。中核法人は **ゴールドマン・サックス証券株式会社** で、外資系投資銀行として日本企業の **M&A・ECM・DCM アドバイザリーで外資 No.1 級**。法人取引中心、リテール業務は限定。主要競合は [[morgan-stanley-japan]] / JP モルガン証券 / シティグループ証券。邦銀メガバンク IB（[[mufg]] MUMSS / [[smfg]] SMBC 日興 / [[mizuho-fg]] みずほ証券）とは IB リーグテーブルで毎期競合。^[extracted]

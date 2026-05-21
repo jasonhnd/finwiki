@@ -18,6 +18,11 @@ sources:
 
 # アコム株式会社 (Acom)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 [[mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[mufg]] 系列）・プロミス（[[smfg]] 内 SMBCCF）・アイフル（[[aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。2006-2008 のグレーゾーン金利最高裁判決を契機に過払い金請求が殺到、**2008-10 MUFG TOB で持分法適用会社化（現 持分法 37.6% + 信託 2.0% = 39.6%）**。^[extracted]

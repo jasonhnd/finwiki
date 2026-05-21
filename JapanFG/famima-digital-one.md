@@ -17,6 +17,11 @@ sources:
 
 # ファミマデジタルワン (FamiMa Digital One)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-payment-gateway|GMO ペイメントゲートウェイ]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 伊藤忠商事 → ファミリーマート 100% 子会社の**コンビニ系決済・ポイント・金融子会社**。2019-04-01 設立（前身: 株式会社ファミマトラベル）、2019-07-01 **FamiPay**（QR + バーコード決済）リリース。資金移動業者ライセンスベースで銀行ライセンスなし。コンビニアプリ完結型決済 + BNPL（FamiPay 翌月払い）+ 個人融資（FamiPay ローン）+ ファミペイカード（旧 ファミマ T カード）。**Tポイント連携を 2024-04 解消 → ファミペイポイント独立化**で「伊藤忠 G 内決済プラットフォーム」へ転換中。競合は au PAY ([[au-fh]]) / PayPay ([[paypay-fg]]) / 楽天ペイ ([[rakuten-fg]]) / d 払い ([[ndfg]])。

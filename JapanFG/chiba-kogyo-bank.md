@@ -16,6 +16,11 @@ sources:
 
 # 千葉興業銀行 (Chiba Kogyo Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 千葉県地盤の **第二地銀**（東証 PRIME 8337、略称「ちば興銀」）。1952-01-18 旧千葉商工信用組合として発足、信金転換 → 普通銀行転換 → 1973 現社名。**持株会社化していない単独銀行** で、千葉県内 No.2 ポジション（No.1 は [[chiba-bank]]）。1991 頃の経営悪化を契機に **旧第一勧銀・富士銀行系（現 [[mizuho-fg]]）** の戦略株主受け入れにより事実上のみずほ系第二地銀として再生。中小企業融資・地域密着営業に特化し、ホールセール領域では [[mizuho-fg]] とのリファラル/シナジーを活用。^[extracted]

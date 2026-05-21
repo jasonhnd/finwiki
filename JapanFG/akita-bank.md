@@ -19,6 +19,11 @@ sources:
 
 # 株式会社秋田銀行 (The Akita Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 秋田銀行は秋田県を地盤とする第一地方銀行。[[JapanFG/fidea-hd|フィデア HD]] 傘下の北都銀行と同じ秋田県市場を向くが、秋田銀行は単独上場銀行として県内法人・個人・公共金融を担う独立系である。人口減少県の代表例であり、地銀再編・県内製造業・観光・公金取引の観察対象として使う。

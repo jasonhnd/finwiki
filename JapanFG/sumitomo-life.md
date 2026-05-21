@@ -13,7 +13,13 @@ sources:
   - "Wikipedia: 住友生命保険 (2026-05-19 抽出)"
   - "住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)"
 ---
+
 # 住友生命保険相互会社 (Sumitomo Life)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nippon-life|日本生命保険相互会社 (Nippon Life)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

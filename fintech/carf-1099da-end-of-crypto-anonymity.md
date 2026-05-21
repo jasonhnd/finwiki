@@ -16,6 +16,11 @@ sources: []
 
 # CARF + 1099-DA = 跨境加密匿名性彻底终结
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > **OECD CARF（Crypto-Asset Reporting Framework）+ 美国 IRS 1099-DA broker reporting + GENIUS Act §§501 链级 freeze** 三项工具协同部署,使**2026-2027 年间全球 CEX 全面接入 CARF,至 2030 年全球 tax transparency 接近完美**。跨境加密 tax optimization 的可行路径只剩**合法的 jurisdiction selection**,资产隐藏路径已经关闭 —— 这是结构性变化,不可逆。
 

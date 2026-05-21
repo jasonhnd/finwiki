@@ -24,6 +24,11 @@ status: candidate
 
 # Bitcoin spot ETF 米承認の国内 CEX 影響 (2024-01〜)
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-institutional-custody-three-pillars|国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 概要
 
 2024-01-10、米 SEC は BTC spot ETF 11 件を一斉承認した (BlackRock IBIT, Fidelity FBTC, Ark 21Shares ARKB, Bitwise BITB, Grayscale GBTC, Invesco/Galaxy BTCO, VanEck HODL, Valkyrie BRRR, Franklin EZBC, WisdomTree BTCW, Hashdex DEFI)。これにより世界の機関投資家フローが暗号資産現物市場へ正規ルートで解放され、ヘッジファンド・年金・RIA (Registered Investment Advisor) が低コスト exposure を得た。日本国内 CEX への影響は **(a) spot 価格上昇による取引高増** **(b) 国内機関口座の加速** **(c) 国内 BTC ETF 解禁議論の本格化** の 3 経路で観察される。

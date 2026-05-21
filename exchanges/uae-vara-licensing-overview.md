@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# UAE VARA ライセンス制度 — ドバイ拠点の世界初独立暗号資産規制機関
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 制度概要
 
 UAE (アラブ首長国連邦) は 2022-03 にドバイ首長令 No. 111 of 2022 を発令し、**VARA (Virtual Assets Regulatory Authority, 仮想資産規制庁)** を設立した。これは **世界初の独立した暗号資産専門規制機関**であり、既存の証券・銀行規制から完全に分離された single-purpose 当局である点が他国制度と一線を画す。管轄範囲はドバイ首長国全域 (DIFC = Dubai International Financial Centre を除く) + 全フリーゾーン横断で、連邦レベルの **UAE SCA (Securities and Commodities Authority)** + **UAE Central Bank** とは並行関係 (重複しない棲み分け)。DIFC 内は別途 **DFSA (Dubai Financial Services Authority)** が管轄するため、UAE 内でも 3 系統の暗号資産規制が併存する。

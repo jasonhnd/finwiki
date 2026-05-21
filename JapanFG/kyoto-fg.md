@@ -17,6 +17,11 @@ sources:
 
 # 京都フィナンシャルグループ
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ikeda-senshu-hd|池田泉州ホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 京都府を地盤とする **関西の名門地銀 FG**。証券コード **東証 PRIME 5844**。**2023-10-02** に京都銀行の **単独株式移転** による持株会社化で発足（地銀の中では持株会社化が遅かった例）。**京都銀行は京都府内シェア No.1** を維持し、京都府本社の任天堂・京セラ・村田製作所・日本電産（現ニデック）等の **世界的優良企業** との取引・**政策保有株式** で著名。関西では [[resona-hd]]（関西みらい銀）・[[ikeda-senshu-hd]]・滋賀銀行・南都銀行・紀陽銀行 等と直接競合。メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては京都地盤と上場企業株式持合いの **資金力** で独自の存在感。^[extracted]

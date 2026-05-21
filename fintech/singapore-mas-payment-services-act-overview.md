@@ -14,6 +14,11 @@ status: candidate
 
 # Singapore MAS Payment Services Act + SCS 框架概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 新加坡 MAS Payment Services Act(2019)+ Stablecoin Framework(2023-08 SCS 类别)+ DTSP Regime(2024-04 修订)= 亚洲最完整加密支付立法栈。SCS(Single-Currency Stablecoin)类别要求 100% reserve + daily attestation + AAA-rated assets,比 HKMA 严更早。2026-03 新加坡与美财政部签 MRA = §501(d) 第一波亚洲入榜。
 

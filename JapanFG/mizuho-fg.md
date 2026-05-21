@@ -15,7 +15,13 @@ sources:
   - みずほ FG 第 23 期 (2025-03 期) 有価証券報告書
   - みずほ FG「中期経営計画 2024-2026」(2024-05 公表)
 ---
+
 # みずほ FG (Mizuho FG)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

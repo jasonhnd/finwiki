@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# JVCEA WhiteList 上場銘柄 timeline (2017-2026)
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jvcea-whitelist-token-listing|JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 JVCEA WhiteList は国内 VASP (暗号資産交換業者) が取扱可能な暗号資産銘柄リスト。2017 年改正資金決済法施行時の BTC/ETH 中心の単純構成から、2026 年現在 ~33 銘柄へ拡大。国内独占銘柄 + 国内初上場銘柄 + 国内市場特有需要 (円ペッグ SC、貴金属連動 SC、文化的 token) を反映する独特の生態系を形成。海外 CEX の 350-2,376 銘柄と比較して厳格な審査基準 (JVCEA 8 大基準) が特徴。

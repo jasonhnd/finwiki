@@ -17,6 +17,11 @@ sources:
 
 # メットライフ生命保険 (MetLife Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **日本最大級の外資系生命保険会社**。米 **MetLife, Inc.**（NYSE: MET、世界最大級の生保グループ）の日本子会社。1973-01 米 American Life Insurance Company（ALICO）の日本支店「**アリコジャパン**」として開業 → 2001 米 AIG 完全子会社化 → 2008 リーマン後 AIG 経営危機 → **2010-04 米 MetLife が ALICO を約 155 億ドルで AIG から買収**（米保険業界最大級 M&A）→ 2012-04「メットライフアリコ」→「**メットライフ生命**」改称。本社東京都千代田区（旧外資保険ビル → 浜松町スクエア）。外貨建保険（米ドル建定期保険・終身保険）で国内シェア上位、銀行窓販・代理店・FA チャネルの **3 チャネル並走モデル**。^[extracted]

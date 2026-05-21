@@ -21,6 +21,11 @@ sources:
 
 # Internet life insurance business model
 
+
+## Wiki route
+
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/life-insurance-channel-mix|Life insurance channel mix]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 The internet life-insurance model sells life insurance through direct digital acquisition, simpler product design, online disclosure, and lower-friction application workflows. Its economic promise is lower distribution cost and better UX; its hard constraint is that life insurance still requires trust, suitability, underwriting, data security, and long-term policyholder service.

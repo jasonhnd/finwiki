@@ -17,6 +17,11 @@ sources:
 
 # 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **2025-09-25 東証スタンダード上場廃止 → 2025-10-01 NTT ドコモ連結子会社化 → 2025-10-02 SBI HD 資本関係完全解消 → 2026-08-03 「ドコモ SMTB ネット銀行」改称予定**という劇的な親会社入替を経た元ネット銀行。三井住友信託 + SBI HD 50:50 JV として 2007-09-24 開業し、2023-03-29 PRIME 上場した後、わずか 2 年半で SBI HD 持分を NTT ドコモが買収。**FY2024（2025-03 期）連結純利益 281 億円・経常収益 1,465 億円・預金残高 9 兆 8,216 億円・口座数 825 万件**で、ネット銀行業界 [[banking/rakuten-bank|rakuten-bank]] に次ぐ規模。**住宅ローン取扱高ネット銀行 No.1 級** + **日本最大級の BaaS（NEOBANK）プロバイダー** の 2 軸が中核。「docomo NEOBANK / d スマートバンク」のバックエンドだった同行が、提携先 [[ndfg]] そのものに吸収された珍しい事例。

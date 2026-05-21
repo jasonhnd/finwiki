@@ -20,6 +20,11 @@ sources:
 
 # SMFL / Sumitomo Mitsui Finance and Leasing
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mizuho-lease|Mizuho Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 SMFL is the leasing / non-bank finance joint platform of **[[JapanFG/smfg|SMFG]] and Sumitomo Corporation**. It is strategically different from a bank subsidiary because it combines bank funding / credit discipline with trading-company asset knowledge, especially in equipment finance, transportation, real estate, environmental energy, and overseas leasing.

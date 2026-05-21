@@ -24,6 +24,11 @@ status: candidate
 
 # グローバル DEX 主要 5 社比較
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 分散型取引所 (DEX) は設計面で AMM (Automated Market Maker) と CLOB (Central Limit Order Book on-chain) の 2 大潮流に分かれる。Uniswap が AMM の事実上の標準を確立し、流動性プール × xy=k 数式を業界共通言語にした一方、Hyperliquid は 2024 年以降に専用 L1 上の CLOB perp で急台頭し「DEX = AMM」の前提を破った。EVM 多チェーン化が進む中で、Aerodrome (Base) のような chain 専属 native DEX が当該 chain で Uniswap を逆転する事例も観測される ([[exchanges/native-dex-flip-incumbent-pattern]])。本記事は取引高・流動性で代表的な 5 強をプロファイル化する。

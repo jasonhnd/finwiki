@@ -25,6 +25,11 @@ status: candidate
 
 # ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 **ve(3,3)** は **vote-escrow (ve)** + **(3,3) game theory** の組み合わせ。LP リワード + プロトコル収益分配 + ガバナンス投票を統合する DeFi トークノミクス機制。Curve の veCRV (2020) が原点、Solidly (Andre Cronje, 2022) が抽象化、Velodrome (Optimism, 2022) / Aerodrome (Base, 2023) が実用化。今や数十の派生 protocol が L2 native DEX 経済の核として稼働。

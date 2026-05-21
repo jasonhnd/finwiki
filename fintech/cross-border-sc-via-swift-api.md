@@ -14,6 +14,11 @@ sources: []
 
 # 跨境 SC via SWIFT API
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 跨境 SC 普及最大の阻害は「銀行 workflow / AML/CFT との非互換性」。これを解く現代パターンは **SWIFT API を front-end に置き、blockchain settlement を back-end で実行する hybrid 構造**。Project Pax(Progmat + Datachain · 2024-09)と BIS Project Agorá がこの構造の代表実装。**TD(Tokenized Deposit) は SWIFT API 互換性で先行**、**SC は §501(d) 互操作 ライセンス次第で接続パターンが分岐**。
 

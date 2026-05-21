@@ -17,6 +17,11 @@ sources:
 
 # 松井証券株式会社 (Matsui Securities)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sbi-securities|SBI証券 (SBI Securities)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **日本初のネット証券** (1998-05 オンライン株式取引開始、対面店舗全廃の先駆け) として知られる中堅オンライン証券 (東証 PRIME 8628)。1918 年に松井房吉が創業した老舗証券で、1995-04 に 4 代目 **松井道夫** が社長就任後、対面リテール証券からネット専業へ業態転換した日本ネット証券パイオニア。**信用取引 1 日定額制**や個人投資家向け投資情報アプリで差別化し、顧客口座数約 150 万、ネット証券上位 5 行に次ぐ中堅ポジション。現在は **SBI 証券**（[[sbi-hd]] 内）/ **楽天証券**（[[rakuten-fg]] 内）/ **マネックス証券**（[[monex-group]] 内）等が大手として先行し、松井証券は独立系オンライン証券として独自路線を維持。

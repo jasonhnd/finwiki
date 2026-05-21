@@ -10,8 +10,17 @@ review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
 status: candidate
+sources:
+  - "Public works and institutional-economics references by Hayek, Coase, Searle, de Soto, Latour, and related authors."
+  - "Public AI-agent payment and identity-protocol disclosures referenced by related FinWiki entries."
 ---
+
 # Agent 主体性辩论：四个阵营
+
+
+## Wiki route
+
+This entry sits under [[agent-economy/skill-market-monetization|Skill 市场收费化]]. Read it with [[agent-economy/2026-04-08_agent-payment-infrastructure-research|Agent 支付基础设施研究报告]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
 
 > [!info] TL;DR
 > AI Agent 是否构成新型经济主体，存在四个立场阵营：

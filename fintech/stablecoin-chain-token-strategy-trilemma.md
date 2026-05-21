@@ -16,6 +16,11 @@ sources: []
 
 # 稳定币公链 token 策略三态博弈
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 稳定币与支付公链在 "是否发行 native token" 的决策上呈现三种策略均衡：**摇摆中（Base 模式）** / **明确不发（Tempo 模式）** / **已发（Arc 模式）**。每一态绑定不同的资本群体、监管 trade-off 与时间窗口约束，且**一旦选定 3-5 年内难以反转**。
 

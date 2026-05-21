@@ -15,7 +15,13 @@ sources:
   - "Wikipedia: 北海道拓殖銀行 (2026-05-19 抽出)"
   - "財務省北海道財務局 公表資料 (2008-10-14)"
 ---
+
 # 北洋銀行
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

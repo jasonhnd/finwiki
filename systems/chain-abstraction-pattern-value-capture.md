@@ -14,8 +14,10 @@ status: candidate
 
 # 跨链桥 commoditization 与链抽象层价值上移
 
-> [!info] TL;DR
-> 2020-2023 跨链桥(Wormhole / LayerZero / Axelar)是高利润赛道(收 0.1-0.5% 手续费),2024+ 技术成熟、利润压缩 → 价值捕获上移到链抽象层(UX + 流动性路由 + 意图 solver 市场)。LayerZero / Wormhole 正在转型为"链抽象基础设施提供方"而非"桥"。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chain-abstraction-pattern-overview|链抽象模式概览 · 用户不感知底层链的下一层基础设施]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -16,6 +16,11 @@ sources:
 
 # ライフネット生命保険 (LifeNet Insurance)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **日本初の独立系インターネット専業生命保険会社**。2006-10 出口治明（元日本生命）と岩瀬大輔（元 BCG）が共同創業、2008-05-18 開業。営業職員チャネルを持たず、**全てネット完結**で「シンプル・透明・安い」を売りに 20-30 代若年層をターゲット。2012-03-15 東証マザーズ上場（戦後初のネット生保上場）。**KDDI [[au-fh]] が約 28% を保有する戦略的株主**で、au 経済圏と連携。主力は定期死亡保険・医療・がん・就業不能。^[extracted]

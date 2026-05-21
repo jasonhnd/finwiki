@@ -22,6 +22,11 @@ sources:
 
 # メルカリバンク license stack
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for adjacent context and [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] for the broader system boundary.
+
 ## TL;DR
 
 メルカリバンクは「メルペイが銀行になった」案件ではない。銀行口座の主体は [[banking/minna-bank-baas-model|みんなの銀行]]、メルペイは電子決済等代行業者として API 接続・口座情報表示・資金移動指図のレイヤーを担う。つまり、サービス名は銀行的だが、法的には **banking layer / API instruction layer / Mercari app UX layer** の分業で成立している。

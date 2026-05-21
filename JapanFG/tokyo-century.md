@@ -13,7 +13,13 @@ sources:
   - "Wikipedia: 東京センチュリー (公開情報, 2026-05-19 抽出)"
   - 東京センチュリー 公式 IR (公開情報)
 ---
+
 # 東京センチュリー株式会社 (Tokyo Century Corporation)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

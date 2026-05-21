@@ -14,6 +14,11 @@ status: candidate
 
 # 欧盟 MiCA · Markets in Crypto-Assets Regulation 概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > MiCA 是欧盟统一加密 / 稳定币监管法律,2023-06 通过,2024-06 SC(ART / EMT)部分生效,2024-12 全面生效。MiCA 与美国 GENIUS Act §501 协同形成 U.S.-EU MRA 基础。它是三圆 MRA 的欧盟支柱,将欧洲变成 USDC / EURC 双轨合规市场。
 

@@ -14,8 +14,10 @@ status: candidate
 
 # Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy
 
-> [!info] TL;DR
-> DAML(Digital Asset Modeling Language)是专为金融合约设计的 **functional + obligation-based** 智能合约语言。与 Solidity 的根本差异:**编程范式 functional vs 命令式 · 隐私默认隔离 vs 全公开 · 多方原子原生支持 vs 需复杂组合 · 监管节点是一等公民**。这是为什么 JPM Kinexys 选择从 Base(Solidity)迁回 Canton(DAML)。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概览 · DAML 智能合约的隐私机构链]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

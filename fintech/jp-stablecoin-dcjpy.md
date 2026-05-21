@@ -30,6 +30,11 @@ sources:
 
 # DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/jp-stablecoin-progmat|株式会社Progmat — デジタルアセットプラットフォーム概要]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!warning] 法人実体の重要な区別
 > **株式会社ディーカレットDCP（DeCurret DCP Inc.）** = 預金トークン DCJPY 専業の **デジタル通貨事業会社**（暗号資産交換業 **非**登録）。
 > **旧ディーカレット（暗号資産交換業登録）= 現 S.BLOX 株式会社**（ソニーグループ傘下）。両者は全くの別法人・別事業。詳細は [[exchanges/jp-exchange-sblox|S.BLOX 概要]] を参照。

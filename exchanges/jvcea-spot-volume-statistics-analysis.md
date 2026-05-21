@@ -21,6 +21,12 @@ sources:
 status: candidate
 ---
 
+# JVCEA 国内 spot 取引高 統計分析 (2017-2026)
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jvcea-self-regulatory-overview|JVCEA — 日本暗号資産取引業協会 自主規制制度]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 JVCEA は会員 (Type 1 暗号資産交換業者) の合算月次統計を公開し、spot / レバレッジ / 現物保有 / 顧客口座数 / 取扱銘柄数 の主要指標を継続公表している。2017 改正資金決済法施行以来、日本暗号資産市場の唯一系統的時系列データとして機関投資家・規制当局・メディアが参照する基盤統計。

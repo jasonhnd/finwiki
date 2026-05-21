@@ -22,6 +22,11 @@ sources:
 
 # GMO Internet Group
 
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 GMO Internet Group is the parent-company context behind several JapanFG-relevant finance rails: [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] for merchant payments, [[JapanFG/gmo-coin|GMO Coin]] for crypto assets, GMO Financial Holdings / GMO Click for online securities and FX, and [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] through the Aozora Bank joint structure.

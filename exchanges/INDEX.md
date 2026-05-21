@@ -3,26 +3,28 @@ title: exchanges — Crypto exchange / VASP / market-structure index
 aliases: [exchanges index, CEX index, VASP index, crypto exchange wiki]
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-16
 confidence: certain
 tags: [exchanges, index, crypto, vasp]
 status: active
 sources:
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+  - "https://jvcea.or.jp/member/"
 ---
 
 # exchanges — Crypto exchange / VASP / market-structure index
 
 ## TL;DR
 
-`exchanges/` contains **112 entries** covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
+`exchanges/` contains **114 entries** covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
 
 ## Routing map
 
 | Cluster | Count | Core route |
 |---|---:|---|
-| Japan exchange entities | 37 | [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], [[exchanges/jp-exchange-binance-japan|Binance Japan]] |
+| Japan exchange entities | 39 | [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], [[exchanges/jp-exchange-binance-japan|Binance Japan]] |
 | Foreign unregistered exchange records | 8 | [[exchanges/fsa-foreign-exchange-warning-system|FSA warning system]], [[exchanges/jp-foreign-exchange-bybit|Bybit]], [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance legacy]] |
 | Japan VASP / JVCEA / FSA regulation | 22 | [[exchanges/jvcea-self-regulatory-overview|JVCEA]], [[exchanges/fsa-vasp-registration-system|FSA registration]], [[exchanges/jp-vasp-regulatory-timeline|regulatory timeline]] |
 | Custody / security / incidents | 12 | [[exchanges/jp-institutional-custody-three-pillars|Japan custody three pillars]], [[exchanges/jp-vasp-incident-history|incident history]], [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit hack]] |
@@ -49,6 +51,8 @@ sources:
 - [[exchanges/jp-exchange-gmo-coin|GMO Coin]]
 - [[exchanges/jp-exchange-bittrade|BitTrade]]
 - [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
+- [[exchanges/jp-exchange-finx-jcrypto|FINX JCrypto]]
+- [[exchanges/jp-exchange-coinhub|COINHUB]]
 - [[exchanges/jp-exchange-binance-japan|Binance Japan]]
 - [[exchanges/jp-exchange-rakuten-wallet|Rakuten Wallet]]
 - [[exchanges/jp-exchange-mercoin|Mercoin]]
@@ -83,6 +87,40 @@ sources:
 - [[exchanges/jp-exchange-trek-labs-japan|Trek Labs Japan / Backpack]]
 - [[exchanges/jp-exchange-laser-digital-japan|Laser Digital Japan]]
 - [[exchanges/jp-exchange-jpyc|JPYC]]
+
+## FSA registered operator completeness
+
+FSA registered crypto asset exchange operator list snapshot used here: 2026-04-01. This table is a completeness control, not a ranking.
+
+| FSA row | Operator | FinWiki route |
+|---:|---|---|
+| 00001 | Money Partners | [[exchanges/jp-exchange-money-partners]] |
+| 00002 | Custodiem | [[exchanges/jp-exchange-custodiem]] |
+| 00003 | bitFlyer | [[exchanges/jp-exchange-bitflyer]] |
+| 00004 | bitbank | [[exchanges/jp-exchange-bitbank]] |
+| 00005 | GMO Coin | [[exchanges/jp-exchange-gmo-coin]] |
+| 00006 | BitTrade | [[exchanges/jp-exchange-bittrade]] |
+| 00007 | BTCBOX | [[exchanges/jp-exchange-btcbox]] |
+| 00011 | SBI VC Trade | [[exchanges/jp-exchange-sbi-vc-trade]] |
+| 00012 | FINX JCrypto | [[exchanges/jp-exchange-finx-jcrypto]] |
+| 00013 | COINHUB | [[exchanges/jp-exchange-coinhub]] |
+| 00014 | Coincheck | [[exchanges/jp-exchange-coincheck]] |
+| 00015 | Rakuten Wallet | [[exchanges/jp-exchange-rakuten-wallet]] |
+| 00016 | S.BLOX | [[exchanges/jp-exchange-sblox]] |
+| 00017 | LINE Xenesis | [[exchanges/jp-exchange-line-xenesis]] |
+| 00018 | Gate Japan | [[exchanges/jp-exchange-gate-japan]] |
+| 00020 | OKCoin Japan / OKJ | [[exchanges/jp-exchange-okcoin-japan]] |
+| 00021 | OSL Japan | [[exchanges/jp-exchange-osl-japan]] |
+| 00024 | Digital Asset Markets | [[exchanges/jp-exchange-digital-asset-markets]] |
+| 00025 | Mercury / CoinTrade | [[exchanges/jp-exchange-mercury]] |
+| 00026 | BACKSEAT / coinbook | [[exchanges/jp-exchange-backseat-exchange]] |
+| 00027 | Tokyo Hash | [[exchanges/jp-exchange-tokyo-hash]] |
+| 00028 | Coinbase Japan | [[exchanges/jp-exchange-coinbase-japan]] |
+| 00029 | Crypto Garage | [[exchanges/jp-exchange-crypto-garage]] |
+| 00030 | Mercoin | [[exchanges/jp-exchange-mercoin]] |
+| 00031 | Binance Japan | [[exchanges/jp-exchange-binance-japan]] |
+| 00032 | Zaif | [[exchanges/jp-exchange-zaif]] |
+| Kinki 00004 | Gaia | [[exchanges/jp-exchange-gaia]] |
 
 ## Regulation and Japan market structure
 
@@ -171,4 +209,4 @@ sources:
 - Add a regulatory comparison matrix for Japan / Korea / Hong Kong / Singapore / EU / US.
 - Split dormant / withdrawn Japan entities from active VASP operators.
 - Add a short source-quality tier for exchange entries: primary registry, company IR, media, inferred.
-- Reconcile `jp-exchange-jpyc` with the fintech stablecoin namespace so JPYC is not mistaken for a CEX.
+- JPYC overlap reconciled via [[JapanFG/jpyc|JapanFG JPYC anchor]]; keep [[exchanges/jp-exchange-jpyc|JPYC]] as a legacy stablecoin-routing page, not a conventional CEX page.

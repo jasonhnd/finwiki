@@ -17,6 +17,11 @@ sources:
 
 # 東和銀行 (The Towa Bank, Ltd.)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 群馬県前橋市に本店を置く**第二地方銀行**（東証 PRIME 8558）。**1917-11-01 群馬無尽株式会社**として創業、相互銀行転換（1951）を経て **1989 普通銀行転換に合わせて東和銀行 改称**。**持株会社化していない単独銀行体制**で、群馬県内では第 1 地銀 [[gunma-bank]] に次ぐ県内 No.2 ポジション。中小企業特化型営業基盤と **SUBARU 太田工場サプライチェーン金融**が法人ビジネスの中核。**2003 旧第一勧業銀行（現 [[mizuho-fg]]）系との戦略提携**で広域連携体制を構築。略称「とうわ」。^[extracted]

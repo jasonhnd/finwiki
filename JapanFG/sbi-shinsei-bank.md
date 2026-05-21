@@ -17,6 +17,11 @@ sources:
 
 # SBI 新生銀行
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/aozora-bank|あおぞら銀行 (Aozora Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 旧 **日本長期信用銀行（LTCB）→ 1998-10 経営破綻 → 一時国有化 → 2000 リップルウッド連合へ売却 → 「新生銀行」改称・再生**の流れを経て、**2023-09 SBI HD [[sbi-hd]] の TOB 完了で完全子会社化・上場廃止、2023-12 「SBI 新生銀行」に商号変更**した普通銀行。SBI HD が掲げる「**第 4 のメガバンク構想**」の銀行コア。最大の経営論点は **旧 LTCB 国有化時の公的資金未返済（約 3500 億円規模）**。リテール（新生 + アプラスフィナンシャル）+ 法人融資 + 不動産・ストラクチャードファイナンスの 3 軸。^[extracted]

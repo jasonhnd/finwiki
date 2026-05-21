@@ -14,7 +14,13 @@ sources:
   - "Wikipedia: 三井住友トラストグループ (公開情報、2026-05-19 参照)"
   - "Wikipedia: 三井住友信託銀行 (公開情報、2026-05-19 参照)"
 ---
+
 # 三井住友トラストグループ (SuMi TRUST)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

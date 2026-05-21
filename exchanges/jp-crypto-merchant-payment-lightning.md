@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# 国内暗号資産マーチャント決済 + Lightning Network
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内暗号資産マーチャント決済は 2017 BTC バブル期に [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] 経由で導入されたが、2018 流出事件 + 価格ボラティリティで縮小。2023+ 以降 Lightning Network 普及で復活の兆候があり、主に観光地 + Web3 ネイティブ事業者で運用されている。

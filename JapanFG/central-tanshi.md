@@ -17,6 +17,11 @@ sources:
 
 # セントラル短資株式会社 (Central Tanshi)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ueda-yagi-tanshi|上田八木短資株式会社 (Ueda Yagi Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本 **3 大短資会社** の一角を成す短期金融市場仲介業者。2001-04 に旧 **山根短資 + セントラル短資 + 短資** の 3 社合併で発足した非上場会社で、コール市場・手形売買市場・CD/CP 売買・国債売買等の **インターバンク仲介** をコア業務とする。日銀オペ対手としても機能。子会社の **セントラル短資 FX** を通じて短資会社では珍しく **個人向け FX サービス** を展開している点が業界内で異色。競合は [[ueda-yagi-tanshi]]（上田八木短資）と東京短資で、3 社で寡占的 oligopoly を形成。2024 年日銀マイナス金利解除を契機に、長らく縮小傾向だった短資業界の復活期待が高まる。

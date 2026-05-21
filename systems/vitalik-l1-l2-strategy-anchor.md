@@ -14,8 +14,10 @@ status: candidate
 
 # L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈
 
-> [!info] TL;DR
-> 2020 Vitalik 提出 "rollup-centric roadmap"(L2 优先)→ 2025 双轨修正(L1 增强 + L2 扩容)是 stablecoin / RWA 选链决策的**结构性 anchor**:每一次 Ethereum 升级(Dencun → Pectra → Fusaka)都直接降低 L2 stablecoin 转账成本,削弱"独立 L1"(Arc / Tempo / Plasma)的经济激励。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-overview|ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

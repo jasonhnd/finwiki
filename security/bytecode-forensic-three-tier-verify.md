@@ -18,7 +18,17 @@ related:
   - "[[wayback-machine-as-forensic-tool]]"
   - "[[forensic-identity-anchor-chain]]"
 tags: [security/forensic, security/smart-contract, security/dd]
+sources:
+  - "https://ethereum.org/en/developers/docs/apis/json-rpc/#eth_getcode"
+  - "https://docs.soliditylang.org/en/latest/metadata.html"
+  - "https://docs.etherscan.io/contract-verification/"
 ---
+
+# 智能合约 bytecode forensic — 三层 verify 技术
+
+## Wiki route
+
+This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-rebrand-5-layer-audit-framework|fork-and-rebrand audit framework]] for peer context and [[systems/INDEX|systems index]] for the broader infrastructure boundary.
 
 > [!info] TL;DR
 > 当项目方 verified contract 与 GitHub 源码不一致时,bytecode 是 ground truth. 三层 verify: (1) 链上 deployed bytecode vs GitHub source compile (2) 4-byte PUSH4-EQ dispatcher 反推 fn selector 命中未 verified 合约的接口 (3) 跨链 verified twin fingerprint 定位团队身份.

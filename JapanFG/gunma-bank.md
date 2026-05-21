@@ -17,6 +17,11 @@ sources:
 
 # 群馬銀行 (The Gunma Bank, Ltd.)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/chiba-bank|千葉銀行 (Chiba Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 群馬県地盤の地銀（東証 PRIME 8334）。**1932-09 群馬大同銀行として設立**（大同銀+群馬商工銀+黒岩銀 統合）→ **1955 群馬銀行 改称**。**持株会社化していない単独銀行体制**を維持する首都圏 PRIME 上場地銀の代表格。**SUBARU 太田工場・上信越自動車道経済圏**を背景に自動車関連サプライチェーン融資が重要顧客基盤。2015 TSUBASA アライアンス参加でシステム共同化・海外サポート連携。^[extracted]

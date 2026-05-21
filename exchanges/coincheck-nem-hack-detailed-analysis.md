@@ -26,6 +26,11 @@ status: candidate
 
 # Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 事件概要
 
 2018-01-26 早朝、Coincheck の NEM (XEM) ホットウォレットから **約 5.2 億 XEM (当時 約 580 億円相当)** が外部に流出。当時 **史上最大規模の暗号資産盗難** 事件であり、Mt.Gox (2014) を超える金額として国際的に注目された。NEM Foundation が開発した **モザイクタグ追跡** によって流出資金のフローはリアルタイムで追跡可能だったが、ダークウェブ DEX 経由での現金化を完全には阻止できず、約 60% 相当が他通貨へロンダリングされたとされる。

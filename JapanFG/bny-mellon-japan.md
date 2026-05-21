@@ -15,7 +15,13 @@ sources:
   - "BNY Mellon Annual Report 2024 (公開 IR、bny.com)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
 ---
+
 # BNY メロン日本 (BNY Mellon Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

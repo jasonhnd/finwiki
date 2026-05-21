@@ -6,8 +6,8 @@ aliases:
   - VCTRADE
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2027-05-18
 confidence: likely
 tags:
@@ -22,11 +22,17 @@ sources:
   - https://www.sbivc.co.jp/dmm_vct
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+  - https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx
   - https://coinpost.jp/?p=272806
   - https://coinpost.jp/?p=685228
 ---
 
 # SBI VCトレード株式会社 — 日本暗号資産交換業者 overview
+
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-exchange-coincheck|コインチェック株式会社 — 日本暗号資産交換業者]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
 
 > FSA 登録番号 関東財務局 第00011号 · JVCEA 会員 #1011 · 登録日 2017-12-01
 
@@ -51,6 +57,12 @@ sources:
 
 - **JVCEA 会員種類**：第一種（会員番号 1011）
 - **加入協会**：日本暗号資産等取引業協会（JVCEA）、日本暗号資産ビジネス協会（JCBA）、日本デジタル経済連盟、日本デジタル分散型金融協会、JPCrypto-ISAC
+
+### 電子決済手段 / USDC cross-link
+
+金融庁の電子決済手段等取引業者登録一覧では、SBI VCトレードが関東財務局長 第00001号の登録業者として記載され、取扱電子決済手段は USDC とされている。したがって同社は単なる暗号資産交換業者ではなく、日本の電子決済手段 / stablecoin 実装を読む際の primary route でもある。
+
+Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[JapanFG/jpyc]], [[JapanFG/progmat]].
 
 ## 3. 取扱通貨
 
@@ -124,6 +136,8 @@ sources:
 - [[fintech/japan-ecisb-license]] — 電子決済手段等取引業制度解説
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[JapanFG/jpyc]] — 資金移動業者型 JPY stablecoin issuer
+- [[JapanFG/progmat]] — trust-type stablecoin / tokenization platform company anchor
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]] — SBI × JPYC スタブコインチャネル
 - [[exchanges/jp-exchange-binance-japan]] — 同業他社 overview（Binance Japan）
 - [[exchanges/jp-exchange-gmo-coin]] — 同業他社 overview（GMO コイン）

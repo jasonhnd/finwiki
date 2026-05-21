@@ -14,8 +14,10 @@ status: candidate
 
 # 跨链四极架构 · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2
 
-> [!info] TL;DR
-> 跨链互操作市场 2026 收敛为 **4 个通用极 + 1 个 Circle 专用极**:LayerZero(general purpose · 100+ chains)/ Chainlink CCIP(institutional · DTCC/SWIFT)/ Wormhole(Solana 中心 · TVL 最大)/ Hyperlane(permissionless · open)/ CCTP V2(Circle 原生 USDC 桥)。不同选型对应不同主角的监管 / 性能 / 链覆盖优先级。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-selection-decision|跨链选型决策树 · 按主角维度匹配协议]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

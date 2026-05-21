@@ -3,8 +3,8 @@ title: JapanFG — 日本金融集团 wiki namespace
 aliases: ["Japan FG", "日本 FG", "JFG-index", "日本金融集団"]
 domain: JapanFG
 created: 2026-05-18
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-16
 confidence: certain
 tags: [JapanFG, index]
@@ -19,7 +19,7 @@ sources:
 
 ## TL;DR
 
-日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**166 entries + 1 INDEX + 1 legal/license subdomain INDEX + 1 report-source index** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
+日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**375 entity entries + 1 INDEX + 1 legal/license subdomain INDEX + 1 report-source index + 1 expansion backlog + 1 foreign-bank branch registry index + 1 trust-company registry index** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + payment/card/PSP operators + wallet / remittance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
 
 ## 命名与位置 convention
 
@@ -184,7 +184,7 @@ sources:
 | ✅ likely | [[fuyo-lease]] | 芙蓉総合リース | 準大手リース (旧 富士銀系) |
 | ✅ likely | [[chiba-bank]] | 千葉銀行 | 持株会社化なし · TSUBASA アライアンス主導 |
 | ✅ likely | [[gunma-bank]] | 群馬銀行 | 持株会社化なし · 群馬地盤 |
-| ✅ likely | [[hachijuni-bank]] | 八十二銀行 | 長野銀 + 長野 (2025-06 合併予定) |
+| ✅ updated | [[hachijuni-bank]] | 八十二銀行 | predecessor / historical page; current legal-name anchor is [[hachijuni-nagano-bank]] |
 | ✅ likely | [[suruga-bank]] | スルガ銀行 | 2018 シェアハウス事件 |
 | ✅ likely | [[chugin-okayama]] | ちゅうぎん FG | 旧 中国銀(岡山), 2022-10 持株会社化 |
 | ✅ likely | [[san-in-godo-bank]] | 山陰合同銀行 | 鳥取・島根 |
@@ -201,8 +201,8 @@ sources:
 | ✅ likely | [[jimoto-hd]] | じもと HD | きらやか + 仙台 (2024 RCC 国有化) |
 | ✅ likely | [[juroku-fg]] | 十六 FG | 岐阜 (2021-10 持株会社化) |
 | ✅ likely | [[nanto-bank]] | 南都銀行 | 奈良 (関西 3 県境界) |
-| ✅ likely | [[shinkin-central]] | 信金中央金庫 | 信用金庫 254 行中央機関 |
-| ✅ likely | [[zenshin-kumi]] | 全国信用協同組合連合会 | 信用組合 145 中央機関 |
+| ✅ likely | [[shinkin-central]] | 信金中央金庫 | 信用金庫 254 金庫中央機関 |
+| ✅ likely | [[zenshin-kumi]] | 全国信用協同組合連合会 | 信用組合 143 組合中央機関 |
 | ✅ likely | [[daido-fire-marine]] | 大同火災海上 | 沖縄損保 |
 
 ## P11 外資生損保 + Fintech + 暗号資産 (10 家) ✅ 完了
@@ -265,6 +265,359 @@ sources:
 | ✅ likely | [[state-street-japan]] | ステート・ストリート日本 | 外資系 custody / asset servicing |
 | ✅ likely | [[wells-fargo-japan]] | Wells Fargo 東京支店 | 外資系銀行 |
 
+## P15 銀行 operating-company pages B1 (18 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[mizuho-bank]] | みずほ銀行 | [[mizuho-fg]] bank operating company |
+| ✅ likely | [[sumitomo-mitsui-banking-corp]] | 三井住友銀行 / SMBC | [[smfg]] bank operating company |
+| ✅ likely | [[mufg-bank]] | 三菱UFJ銀行 | [[mufg]] bank operating company |
+| ✅ likely | [[resona-bank]] | りそな銀行 | [[resona-hd]] bank operating company |
+| ✅ likely | [[saitama-resona-bank]] | 埼玉りそな銀行 | [[resona-hd]] regional bank operating company |
+| ✅ likely | [[mitsubishi-ufj-trust-bank]] | 三菱UFJ信託銀行 | [[mufg]] trust-bank operating company |
+| ✅ likely | [[mizuho-trust-bank]] | みずほ信託銀行 | [[mizuho-fg]] trust-bank operating company |
+| ✅ likely | [[smtb]] | 三井住友信託銀行 | [[sumitomo-mitsui-trust]] trust-bank operating company |
+| ✅ likely | [[smbc-trust-bank]] | SMBC信託銀行 | SMBC / PRESTIA trust-bank boundary |
+| ✅ likely | [[nomura-trust-bank]] | 野村信託銀行 | [[nomura-hd]] trust-bank arm |
+| ✅ likely | [[nochu-trust-bank]] | 農中信託銀行 | [[norinchukin]] trust-bank arm |
+| ✅ likely | [[orix-bank]] | オリックス銀行 | ORIX -> Daiwa Next Bank ownership-transition watch |
+| ✅ likely | [[sony-bank]] | ソニー銀行 | [[sony-fg]] internet-bank operating company |
+| ✅ likely | [[daiwa-next-bank]] | 大和ネクスト銀行 | [[daiwa-sg]] bank operating company |
+| ✅ likely | [[ui-bank]] | UI銀行 | [[kiraboshi-fg]] digital-bank arm |
+| ✅ likely | [[01-bank]] | 01銀行 | data-driven SME digital-bank model |
+| ✅ likely | [[sbj-bank]] | SBJ銀行 | Shinhan Bank Japan subsidiary |
+| ✅ likely | [[rcc]] | 整理回収機構 / RCC | resolution / special servicing bank-license entity |
+
+## P16 証券・資産運用 operators Batch C (15 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[sbi-securities]] | SBI証券 | [[sbi-hd]] online securities arm |
+| ✅ likely | [[mufg-esmart-securities]] | 三菱UFJ eスマート証券 | [[mufg]] online broker / former auカブコム |
+| ✅ likely | [[paypay-securities]] | PayPay証券 | [[paypay-fg]] app-embedded brokerage |
+| ✅ likely | [[gmo-click-securities]] | GMOクリック証券 | [[gmo-financial-hd]] FX / CFD / securities operator |
+| ✅ likely | [[dmm-com-securities]] | DMM.com証券 | FIEA securities / FX page separated from exchange namespace |
+| ✅ likely | [[traders-securities]] | トレイダーズ証券 | FX / derivatives operator |
+| ✅ likely | [[saxo-bank-securities]] | サクソバンク証券 | foreign online broker Japan entity |
+| ✅ likely | [[sbi-fx-trade]] | SBI FXトレード | SBI FX-specialist FIEA operator |
+| ✅ likely | [[nomura-asset-management]] | 野村アセットマネジメント | [[nomura-hd]] asset-management arm |
+| ✅ likely | [[nikko-asset-management]] | アモーヴァ・アセットマネジメント | former Nikko AM / [[sumitomo-mitsui-trust]] AM arm |
+| ✅ likely | [[asset-management-one]] | アセットマネジメントOne | [[mizuho-fg]] / [[dai-ichi-life]] AM joint platform |
+| ✅ likely | [[mufg-asset-management]] | 三菱UFJアセットマネジメント | [[mufg]] AM platform |
+| ✅ likely | [[smd-am]] | 三井住友DSアセットマネジメント | [[smfg]] / [[daiwa-sg]] / insurer shareholder platform |
+| ✅ likely | [[daiwa-asset-management]] | 大和アセットマネジメント | [[daiwa-sg]] AM platform |
+| ✅ likely | [[sbi-asset-management]] | SBIアセットマネジメント | SBI AM product-manufacturing platform |
+
+## P17 Payments / cards / PSP operators Batch E1 (15 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[smbc-card]] | 三井住友カード | [[smfg]] card / merchant-acquiring operator |
+| ✅ likely | [[mufg-nicos]] | 三菱UFJニコス | [[mufg]] card / installment-credit operator |
+| ✅ likely | [[rakuten-card]] | 楽天カード | [[rakuten-fg]] card and ecosystem-finance operator |
+| ✅ likely | [[paypay-card]] | PayPayカード | [[paypay-fg]] credit-card / PayPay credit operator |
+| ✅ likely | [[aeon-financial-service]] | イオンフィナンシャルサービス | [[retail/aeon-group]] retail finance platform |
+| ✅ likely | [[epos-card]] | エポスカード | Marui retail-card operator |
+| ✅ likely | [[life-card]] | ライフカード | [[aiful]] card / prepaid / guarantee arm |
+| ✅ likely | [[pocket-card]] | ポケットカード | retail / co-brand credit-card operator |
+| ✅ likely | [[ucs-card]] | UCSカード | retail card / majica electronic-money operator |
+| ✅ likely | [[seven-card-service]] | セブン・カードサービス | [[retail/seven-and-i-hd]] card-services operator |
+| ✅ likely | [[smbc-consumer-finance]] | SMBCコンシューマーファイナンス | [[smfg]] consumer-finance / guarantee operator |
+| ✅ likely | [[aplus]] | アプラス | [[sbi-shinsei-bank]] installment-credit / card operator |
+| ✅ likely | [[sb-payment-service]] | SBペイメントサービス | SoftBank merchant PSP / acquirer |
+| ✅ likely | [[gmo-epsilon]] | GMOイプシロン | [[gmo-payment-gateway]] SME / EC PSP operator |
+| ✅ likely | [[dg-financial-technology]] | DGフィナンシャルテクノロジー | Digital Garage payment gateway / PSP operator |
+
+## P18 Wallet / funds-transfer / remittance operators Batch E2 (16 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[paypay]] | PayPay株式会社 | [[paypay-fg]] wallet / code-payment operator |
+| ✅ likely | [[merpay]] | メルペイ | [[mercari-hd]] marketplace wallet / credit operator |
+| ✅ likely | [[au-payment]] | auペイメント | [[au-fh]] prepaid / au PAY funds-transfer operator |
+| ✅ likely | [[rakuten-edy]] | 楽天Edy | [[rakuten-fg]] prepaid electronic-money / Rakuten Cash operator |
+| ✅ likely | [[kyash]] | Kyash | independent wallet / prepaid-card / funds-transfer fintech |
+| ✅ likely | [[smartbank]] | スマートバンク | B/43 / household-finance funds-transfer operator |
+| ✅ likely | [[pring]] | pring | P2P transfer app / registry-active funds-transfer operator |
+| ✅ likely | [[seven-payment-service]] | セブン・ペイメントサービス | [[seven-bank]] ATM payout / funds-transfer operator |
+| ✅ likely | [[wise-payments-japan]] | Wise Payments Japan | Type 1 / Type 2 cross-border remittance operator |
+| ✅ likely | [[revolut-technologies-japan]] | Revolut Technologies Japan | neobank-style Type 2 funds-transfer operator |
+| ✅ likely | [[paypal-pte-ltd-japan]] | PayPal Japan service boundary | PayPal Pte. Ltd. prepaid / Type 2 funds-transfer boundary |
+| ✅ likely | [[payoneer-japan]] | Payoneer Japan | marketplace payout / business payment operator |
+| ✅ likely | [[western-union-japan]] | Western Union Japan | agent-network international remittance operator |
+| ✅ likely | [[sbi-remit]] | SBIレミット | [[sbi-hd]] international-remittance operator |
+| ✅ likely | [[travelex-japan]] | Travelex Japan | foreign-exchange / remittance-adjacent operator |
+| ✅ likely | [[airwallex-japan]] | Airwallex Japan | B2B cross-border payments / funds-transfer operator |
+
+## P19 Stablecoin / EPI adjacency Batch E3 (2 anchors + 1 cross-link) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[jpyc]] | JPYC株式会社 | funds-transfer-type JPY stablecoin issuer / JPYC EX operator |
+| ✅ likely | [[progmat]] | 株式会社Progmat | trust-type stablecoin / digital-asset platform company anchor |
+| ✅ cross-link | [[exchanges/jp-exchange-sbi-vc-trade]] | SBI VC Trade | EPI service provider #00001 / USDC distribution route |
+
+## P20 Life-insurance operating companies Batch D1 (13 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[asahi-life]] | 朝日生命保険 | mutual life-insurance operating company |
+| ✅ likely | [[sbi-life]] | SBI生命保険 | [[sbi-insurance-group]] / [[sbi-hd]] life-insurance arm |
+| ✅ likely | [[nn-life-japan]] | NN生命保険 | foreign-affiliated Japan life insurer |
+| ✅ likely | [[fwd-life-japan]] | FWD生命保険 | foreign-affiliated Japan life insurer |
+| ✅ likely | [[sony-life]] | ソニー生命保険 | [[sony-fg]] life-insurance operating company |
+| ✅ likely | [[sompo-himawari-life]] | SOMPOひまわり生命保険 | [[sompo]] life-insurance operating company |
+| ✅ likely | [[dai-ichi-frontier-life]] | 第一フロンティア生命保険 | [[dai-ichi-life]] financial-institution channel specialist |
+| ✅ likely | [[taiju-life]] | 大樹生命保険 | traditional life insurer / former Mitsui Life lineage |
+| ✅ likely | [[daido-life]] | 大同生命保険 | [[td-hd]] SME / owner-insurance specialist |
+| ✅ likely | [[taiyo-life]] | 太陽生命保険 | [[td-hd]] household / individual life-insurance arm |
+| ✅ likely | [[tokio-marine-nichido-life]] | 東京海上日動あんしん生命保険 | [[tokio-marine]] life-insurance operating company |
+| ✅ likely | [[fukoku-life]] | 富国生命保険 | mutual life-insurance operating company |
+| ✅ likely | [[rakuten-life]] | 楽天生命保険 | [[rakuten-fg]] ecosystem life-insurance arm |
+
+## P21 Life subsidiaries / specialty insurers Batch D2 (9 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[cardif-life]] | カーディフ生命保険 | BNP Paribas Cardif / bancassurance-oriented life insurer |
+| ✅ likely | [[gibraltar-life]] | ジブラルタ生命保険 | [[prudential-japan]] cluster operating company |
+| ✅ likely | [[zurich-life]] | チューリッヒ生命保険 | [[zurich-japan]] life-insurance entity split from Zurich Japan umbrella |
+| ✅ likely | [[td-financial-life]] | T&Dフィナンシャル生命保険 | [[td-hd]] financial-institution / shop-channel specialist |
+| ✅ likely | [[nanairo-life]] | なないろ生命保険 | [[asahi-life]] group specialty insurer |
+| ✅ likely | [[nissay-wealth-life]] | ニッセイ・ウェルス生命保険 | [[nippon-life]] group wealth / FI-channel specialist |
+| ✅ likely | [[hanasaku-life]] | はなさく生命保険 | [[nippon-life]] group newer specialty insurer |
+| ✅ likely | [[mitsui-sumitomo-aioi-life]] | 三井住友海上あいおい生命保険 | [[msad]] life-insurance operating company |
+| ✅ likely | [[medicare-life]] | メディケア生命保険 | [[sumitomo-life]] group medical / protection specialist |
+
+## P22 Non-life majors Batch D3 (4 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[tokio-marine-nichido-fire]] | 東京海上日動火災保険 | [[tokio-marine]] core non-life operating company |
+| ✅ likely | [[mitsui-sumitomo-insurance]] | 三井住友海上火災保険 | [[msad]] core non-life operating company |
+| ✅ likely | [[aioi-nissay-dowa-insurance]] | あいおいニッセイ同和損害保険 | [[msad]] domestic non-life operating company |
+| ✅ likely | [[sompo-japan-insurance]] | 損害保険ジャパン | [[sompo]] core non-life operating company |
+
+## P23 Direct / digital non-life Batch D4 (7 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[sony-insurance]] | ソニー損害保険 | [[sony-fg]] direct non-life operating company |
+| ✅ likely | [[sbi-insurance]] | SBI損害保険 | [[sbi-insurance-group]] / [[sbi-hd]] direct non-life operating company |
+| ✅ likely | [[au-insurance]] | au損害保険 | [[au-fh]] + [[aioi-nissay-dowa-insurance]] mobile / direct insurance adjacency |
+| ✅ likely | [[tokio-marine-direct]] | 東京海上ダイレクト損害保険 | [[tokio-marine]] direct non-life operating company / former eDesign |
+| ✅ likely | [[sompo-direct]] | SOMPOダイレクト損害保険 | [[sompo]] direct non-life operating company |
+| ✅ likely | [[mitsui-direct]] | 三井ダイレクト損害保険 | [[msad]] direct non-life operating company |
+| ✅ likely | [[rakuten-general-insurance]] | 楽天損害保険 | [[rakuten-fg]] ecosystem non-life operating company |
+
+## P24 Specialty / reinsurance Batch D5 (6 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[anicom-insurance]] | アニコム損害保険 | pet-insurance specialty non-life insurer |
+| ✅ likely | [[secom-insurance]] | セコム損害保険 | security-services adjacency non-life insurer |
+| ✅ likely | [[toa-reinsurance]] | トーア再保険 | reinsurance operating company |
+| ✅ likely | [[japan-earthquake-reinsurance]] | 日本地震再保険 | earthquake reinsurance scheme company anchor |
+| ✅ likely | [[nisshin-fire]] | 日新火災海上保険 | Tokio Marine group specialty / regional non-life insurer |
+| ✅ likely | [[meiji-yasuda-general-insurance]] | 明治安田損害保険 | [[meiji-yasuda]] group non-life operating company |
+
+## P25 Insurance holding companies Batch D6 (3 new + 1 name update) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[anicom-hd]] | アニコム ホールディングス | pet-insurance group holding company |
+| ✅ likely | [[ntt-docomo-sompo-hd]] | NTTドコモ損害保険ホールディングス | telco / reinsurance insurance holding company |
+| ✅ likely | [[rakuten-insurance-hd]] | 楽天インシュアランスホールディングス | Rakuten insurance ecosystem holding company |
+| ✅ updated | [[dai-ichi-life]] | 株式会社第一ライフグループ | 2026-04-01 name-update from 第一生命HD |
+
+## P26 Remaining exact-name life insurers Batch D7 (8 家) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[credit-agricole-life]] | クレディ・アグリコル生命保険 | foreign-affiliated bancassurance life insurer |
+| ✅ likely | [[dai-ichi-life-insurance]] | 第一生命保険 | [[dai-ichi-life]] core domestic operating company |
+| ✅ likely | [[dai-ichi-neo-life]] | 第一ネオ生命保険 | [[dai-ichi-life]] specialty / agency-channel life insurer |
+| ✅ likely | [[fukokushinrai-life]] | フコクしんらい生命保険 | [[fukoku-life]] / shinkin-channel life insurer |
+| ✅ likely | [[pgf-life]] | PGF生命 | [[prudential-japan]] financial-institution-channel life insurer |
+| ✅ likely | [[ms-primary-life]] | 三井住友海上プライマリー生命保険 | [[msad]] FI-channel life insurer |
+| ✅ likely | [[midori-life]] | みどり生命保険 | smaller specialty life-insurance operating company |
+| ✅ likely | [[meiji-yasuda-trust-life]] | 明治安田トラスト生命保険 | [[meiji-yasuda]] group / former Aeon Allianz life insurer |
+
+## P27 Regional-bank operating companies Batch B2.1 Hokuriku / Hokkaido (5 行) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[hokkaido-bank]] | 北海道銀行 | [[hokuhoku-fg]] Hokkaido operating bank |
+| ✅ likely | [[hokuriku-bank]] | 北陸銀行 | [[hokuhoku-fg]] Hokuriku operating bank |
+| ✅ likely | [[hokkoku-bank]] | 北國銀行 | [[hokkoku-fhd]] bank operating company |
+| ✅ likely | [[toyama-bank]] | 富山銀行 | Toyama regional-bank operating company |
+| ✅ likely | [[toyama-first-bank]] | 富山第一銀行 | Toyama second-regional-bank operating company |
+
+## P28 Regional-bank operating companies Batch B2.2 Tohoku / Fidea / Jimoto (8 行 + 1 boundary correction) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[tohoku-bank]] | 東北銀行 | Iwate independent regional-bank operating company; Fidea integration basic agreement terminated |
+| ✅ likely | [[hokuto-bank]] | 北都銀行 | [[fidea-hd]] Akita operating bank / 2027 Fidea Bank planned merger |
+| ✅ likely | [[shonai-bank]] | 荘内銀行 | [[fidea-hd]] Yamagata operating bank / 2027 Fidea Bank planned merger |
+| ✅ likely | [[kita-nippon-bank]] | 北日本銀行 | Iwate second-regional-bank operating company |
+| ✅ likely | [[sendai-bank]] | 仙台銀行 | [[jimoto-hd]] Miyagi second-regional-bank operating bank |
+| ✅ likely | [[kirayaka-bank]] | きらやか銀行 | [[jimoto-hd]] Yamagata second-regional-bank operating bank |
+| ✅ likely | [[fukushima-bank]] | 福島銀行 | Fukushima second-regional-bank operating company |
+| ✅ likely | [[daito-bank]] | 大東銀行 | Fukushima / Koriyama second-regional-bank operating company |
+| ✅ updated | [[fidea-hd]] | フィデア HD | Updated current boundary: [[tohoku-bank]] is not a Fidea operating bank; 2027 Fidea Bank merger watch added |
+
+## P29 Regional-bank operating companies Batch B2.3 Kanto (9 行 + 1 alias split) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[tsukuba-bank]] | 筑波銀行 | Ibaraki regional-bank operating company |
+| ✅ likely | [[ashikaga-bank]] | 足利銀行 | [[mebuki-fg]] Tochigi operating bank |
+| ✅ likely | [[kiraboshi-bank]] | きらぼし銀行 | [[kiraboshi-fg]] Tokyo operating bank |
+| ✅ likely | [[yokohama-bank]] | 横浜銀行 | [[concordia-fg]] / Yokohama FG core operating bank |
+| ✅ likely | [[higashi-nippon-bank]] | 東日本銀行 | [[concordia-fg]] / Yokohama FG Tokyo second-regional operating bank |
+| ✅ likely | [[tokyo-star-bank]] | 東京スター銀行 | foreign-owned second-regional-bank operating company |
+| ✅ likely | [[kanagawa-bank]] | 神奈川銀行 | Kanagawa second-regional-bank operating company |
+| ✅ likely | [[tochigi-bank]] | 栃木銀行 | Tochigi second-regional-bank operating company |
+| ✅ likely | [[taiko-bank]] | 大光銀行 | Niigata / Kanto-adjacent second-regional-bank operating company |
+| ✅ updated | [[kiraboshi-fg]] | 東京きらぼし FG | removed bank-name alias so [[kiraboshi-bank]] owns the operating-company boundary |
+
+## P30 Regional-bank operating companies Batch B2.4 Chubu (10 行 + 4 boundary corrections) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[daishi-hokuetsu-bank]] | 第四北越銀行 | [[dai-shi-hokuetsu-fg]] core operating bank |
+| ✅ likely | [[yamanashi-chuo-bank]] | 山梨中央銀行 | Yamanashi regional-bank operating company |
+| ✅ likely | [[hachijuni-nagano-bank]] | 八十二長野銀行 | current legal-name successor to [[hachijuni-bank]] / Nagano Bank integration |
+| ✅ likely | [[juroku-bank]] | 十六銀行 | [[juroku-fg]] core operating bank |
+| ✅ likely | [[shizuoka-bank]] | 静岡銀行 | [[shizuoka-fg]] core operating bank |
+| ✅ likely | [[shimizu-bank]] | 清水銀行 | independent Shizuoka regional bank; not an [[shizuoka-fg]] subsidiary |
+| ✅ likely | [[shizuoka-chuo-bank]] | 静岡中央銀行 | Shizuoka second-regional-bank operating company |
+| ✅ likely | [[aichi-bank]] | あいち銀行 | [[aichi-fg]] current operating bank after Aichi / Chukyo merger |
+| ✅ likely | [[nagoya-bank]] | 名古屋銀行 | Aichi / Nagoya second-regional-bank operating company |
+| ✅ likely | [[fukui-bank]] | 福井銀行 | Fukui regional-bank operating company |
+| ✅ updated | [[hachijuni-bank]] | 八十二銀行 | converted to predecessor / historical page; current boundary moved to [[hachijuni-nagano-bank]] |
+| ✅ updated | [[aichi-fg]] | あいち FG | removed stale merger-forecast language; current bank boundary moved to [[aichi-bank]] |
+| ✅ updated | [[shizuoka-fg]] | しずおか FG | corrected Shimizu Bank boundary links |
+| ✅ updated | [[suruga-bank]] | スルガ銀行 | corrected Shizuoka peer-bank wording |
+
+## P31 Regional-bank operating companies Batch B2.5 Kansai / Chugoku (9 行 + 2 alias splits) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[kyoto-bank]] | 京都銀行 | [[kyoto-fg]] core operating bank |
+| ✅ likely | [[kansai-mirai-bank]] | 関西みらい銀行 | [[resona-hd]] Kansai operating bank |
+| ✅ likely | [[ikeda-senshu-bank]] | 池田泉州銀行 | [[ikeda-senshu-hd]] core operating bank |
+| ✅ likely | [[tajima-bank]] | 但馬銀行 | Hyogo / Tajima independent regional-bank operating company |
+| ✅ likely | [[tottori-bank]] | 鳥取銀行 | Tottori independent regional-bank operating company |
+| ✅ likely | [[chugoku-bank]] | 中国銀行 | [[chugin-okayama]] / Chugin FG core operating bank |
+| ✅ likely | [[hiroshima-bank]] | 広島銀行 | [[hirogin-hd]] core operating bank |
+| ✅ likely | [[momiji-bank]] | もみじ銀行 | [[yamaguchi-fg]] Hiroshima second-regional operating bank |
+| ✅ likely | [[tomato-bank]] | トマト銀行 | Okayama second-regional-bank operating company |
+| ✅ updated | [[chugin-okayama]] | ちゅうぎん FG | removed bank-name aliases so [[chugoku-bank]] owns the operating-company boundary |
+| ✅ updated | [[hirogin-hd]] | ひろぎん HD | removed bank-name aliases so [[hiroshima-bank]] owns the operating-company boundary |
+
+## P32 Regional-bank operating companies Batch B2.6 Shikoku (7 行 + 3 boundary link updates) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[awa-bank]] | 阿波銀行 | Tokushima first-regional-bank operating company |
+| ✅ likely | [[iyo-bank]] | 伊予銀行 | [[iyogin-hd]] core operating bank |
+| ✅ likely | [[shikoku-bank]] | 四国銀行 | Kochi first-regional-bank operating company |
+| ✅ likely | [[tokushima-taisho-bank]] | 徳島大正銀行 | [[tomony-hd]] Tokushima / Osaka second-regional operating bank |
+| ✅ likely | [[kagawa-bank]] | 香川銀行 | [[tomony-hd]] Kagawa second-regional operating bank |
+| ✅ likely | [[ehime-bank]] | 愛媛銀行 | Ehime second-regional-bank operating company |
+| ✅ likely | [[kochi-bank]] | 高知銀行 | Kochi second-regional-bank operating company |
+| ✅ updated | [[iyogin-hd]] | いよぎん HD | linked operating-company boundary to [[iyo-bank]] and Shikoku peer map |
+| ✅ updated | [[tomony-hd]] | トモニ HD | linked two-bank operating-company boundary to [[tokushima-taisho-bank]] / [[kagawa-bank]] |
+| ✅ updated | [[hyakujushi-bank]] | 百十四銀行 | linked Shikoku first / second regional peer map |
+
+## P33 Regional-bank operating companies Batch B2.7 Kyushu / Okinawa (10 行 + 5 boundary link updates) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[fukuoka-bank]] | 福岡銀行 | [[fukuoka-fg]] core operating bank |
+| ✅ likely | [[chikuho-bank]] | 筑邦銀行 | Fukuoka / Chikugo standalone regional-bank operating company |
+| ✅ likely | [[nishi-nippon-city-bank]] | 西日本シティ銀行 | [[nishi-nippon-fhd]] core operating bank |
+| ✅ likely | [[kitakyushu-bank]] | 北九州銀行 | [[yamaguchi-fg]] Kitakyushu operating bank |
+| ✅ likely | [[saga-bank]] | 佐賀銀行 | Saga standalone regional-bank operating company |
+| ✅ likely | [[higo-bank]] | 肥後銀行 | [[kyushu-fg]] core operating bank |
+| ✅ likely | [[oita-bank]] | 大分銀行 | Oita standalone regional-bank operating company |
+| ✅ likely | [[miyazaki-bank]] | 宮崎銀行 | Miyazaki standalone regional-bank operating company |
+| ✅ likely | [[kagoshima-bank]] | 鹿児島銀行 | [[kyushu-fg]] core operating bank |
+| ✅ likely | [[okinawa-bank]] | 沖縄銀行 | [[okinawa-fg]] core operating bank |
+| ✅ existing | [[18-shinwa-bank]] | 十八親和銀行 | existing FSA regional-bank page retained in B2.7 map |
+| ✅ existing | [[ryukyu-bank]] | 琉球銀行 | existing FSA regional-bank page retained in B2.7 map |
+| ✅ updated | [[fukuoka-fg]] | ふくおか FG | linked core operating bank boundary to [[fukuoka-bank]] |
+| ✅ updated | [[nishi-nippon-fhd]] | 西日本 FHD | linked core operating bank boundary to [[nishi-nippon-city-bank]] |
+| ✅ updated | [[kyushu-fg]] | 九州 FG | linked core operating bank boundaries to [[higo-bank]] / [[kagoshima-bank]] |
+| ✅ updated | [[okinawa-fg]] | おきなわ FG | linked core operating bank boundary to [[okinawa-bank]] |
+| ✅ updated | [[yamaguchi-fg]] | 山口 FG | linked Kitakyushu operating bank boundary to [[kitakyushu-bank]] |
+
+## P34 Regional-bank operating companies Batch B2.8 second-regional long tail (10 行 + 1 existing anchor + boundary link updates) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[minato-bank]] | みなと銀行 | [[resona-hd]] Hyogo / Kansai second-regional operating bank |
+| ✅ likely | [[shimane-bank]] | 島根銀行 | Shimane second-regional operating bank; SBI alliance adjacency |
+| ✅ likely | [[saikyo-bank]] | 西京銀行 | Yamaguchi standalone second-regional operating bank |
+| ✅ likely | [[fukuoka-chuo-bank]] | 福岡中央銀行 | [[fukuoka-fg]] Fukuoka second-regional operating bank |
+| ✅ likely | [[saga-kyoei-bank]] | 佐賀共栄銀行 | Saga standalone second-regional operating bank |
+| ✅ likely | [[nagasaki-bank]] | 長崎銀行 | [[nishi-nippon-fhd]] Nagasaki second-regional operating bank |
+| ✅ likely | [[kumamoto-bank]] | 熊本銀行 | [[fukuoka-fg]] Kumamoto second-regional operating bank |
+| ✅ likely | [[howa-bank]] | 豊和銀行 | Oita standalone second-regional operating bank |
+| ✅ likely | [[miyazaki-taiyo-bank]] | 宮崎太陽銀行 | Miyazaki standalone second-regional operating bank |
+| ✅ likely | [[minami-nippon-bank]] | 南日本銀行 | Kagoshima standalone second-regional operating bank |
+| ✅ existing | [[okinawa-kaiho-bank]] | 沖縄海邦銀行 | existing Okinawa second-regional page retained in B2.8 map |
+| ✅ updated | [[resona-hd]] / [[resona-bank]] | りそな group | linked みなと銀行 boundary |
+| ✅ updated | [[fukuoka-fg]] / [[nishi-nippon-fhd]] / [[kyushu-fg]] | Kyushu FG pages | linked 熊本銀行 / 福岡中央銀行 / 長崎銀行 / 南日本銀行 boundaries |
+| ✅ updated | [[sbi-regional-bank-hd]] / [[sbi-hd]] / [[san-in-godo-bank]] | SBI / San-in pages | linked 島根銀行 boundary |
+| ✅ updated | [[yamaguchi-fg]] / [[oita-bank]] / [[miyazaki-bank]] / [[okinawa-fg]] / [[ryukyu-bank]] | peer pages | linked second-regional peer anchors |
+
+## P35 Foreign bank branches Batch G P0 (10 branches) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[credit-agricole-bank-japan]] | クレディ・アグリコル銀行 東京支店 | France / Crédit Agricole CIB banking branch; separate from [[credit-agricole-life]] |
+| ✅ likely | [[natixis-japan]] | ナティクシス 東京支店 | France / Groupe BPCE CIB banking branch added after 2025 banking license |
+| ✅ likely | [[rbc-japan]] | カナダロイヤル銀行 東京支店 | Canada / Royal Bank of Canada banking branch; paired with RBC securities platform |
+| ✅ likely | [[commerzbank-japan]] | コメルツ銀行 東京支店 | Germany / Commerzbank AG corporate and institutional branch |
+| ✅ likely | [[ing-bank-japan]] | アイエヌジーバンク エヌ・ヴイ 東京支店 | Netherlands / ING wholesale-banking branch |
+| ✅ likely | [[dbs-bank-japan]] | DBS銀行 東京支店 | Singapore / DBS Bank Tokyo Branch; non-retail Japan branch |
+| ✅ likely | [[ocbc-bank-japan]] | オーバーシー・チャイニーズ銀行 東京支店 | Singapore / OCBC corporate and institutional branch |
+| ✅ likely | [[uob-bank-japan]] | ユナイテッド・オーバーシーズ銀行 東京支店 | Singapore / UOB Tokyo FDI and corporate-banking branch |
+| ✅ likely | [[bbva-bank-japan]] | ビルバオ・ビスカヤ・アルヘンタリア銀行 東京支店 | Spain / BBVA Asia wholesale and institutional branch |
+| ✅ likely | [[intesa-sanpaolo-japan]] | インテーザ・サンパオロ 東京支店 | Italy / Intesa Sanpaolo corporate branch |
+| ✅ updated | [[banking/foreign-bank-japan-retreat]] | foreign-bank Japan pattern | linked P0 foreign-bank branch map and ASEAN / Europe peer routes |
+| ✅ updated | [[credit-agricole-life]] | Credit Agricole Life | clarified insurance-vs-bank branch boundary |
+
+## P36 Foreign bank branches Batch G P1 Korea / Taiwan / China (13 branches) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[woori-bank-japan]] | ウリィ銀行 東京支店 | Korea / Woori Bank Japan branch |
+| ✅ likely | [[hana-bank-japan]] | ハナ銀行 在日支店 | Korea / Hana Bank Japan branch; legacy KOEX route retained |
+| ✅ likely | [[korea-development-bank-japan]] | 韓国産業銀行 東京支店 | Korea Development Bank policy / development-bank branch |
+| ✅ likely | [[industrial-bank-of-korea-japan]] | 中小企業銀行 東京支店 | Industrial Bank of Korea SME-finance branch |
+| ✅ likely | [[kb-kookmin-bank-japan]] | 國民銀行 東京支店 | KB Kookmin Bank Japan branch |
+| ✅ likely | [[bank-of-taiwan-japan]] | 台湾銀行 東京支店 | Taiwan public-bank Japan branch |
+| ✅ likely | [[mega-icbc-japan]] | 兆豐國際商業銀行 東京支店 | Taiwan Mega International Commercial Bank Japan branch |
+| ✅ likely | [[ctbc-bank-japan]] | 中國信託商業銀行 東京支店 | Taiwan CTBC private-bank branch |
+| ✅ likely | [[esun-bank-japan]] | 玉山銀行 東京支店 | Taiwan E.SUN Bank Japan branch |
+| ✅ likely | [[bank-of-china-japan]] | 中國銀行 東京支店 | Mainland Bank of China branch; separate from [[chugoku-bank]] |
+| ✅ likely | [[icbc-japan]] | 中国工商銀行 東京支店 | Mainland ICBC Japan branch |
+| ✅ likely | [[china-construction-bank-japan]] | 中国建設銀行 東京支店 | Mainland CCB Japan branch |
+| ✅ likely | [[agricultural-bank-of-china-japan]] | 中国農業銀行 東京支店 | Mainland ABC Japan branch |
+| ✅ updated | [[banking/foreign-bank-japan-retreat]] | foreign-bank Japan pattern | linked Korea, Taiwan, and mainland China corridor branch clusters |
+
+## P37 Foreign bank branches registry index Batch G (57 rows) ✅ 完了
+
+| Status | Route | Scope | Boundary |
+|---|---|---|---|
+| ✅ likely | [[foreign-bank-branches-japan-index]] | FSA 57 foreign-bank branch rows as of 2026-05-13 | 36 standalone / umbrella wiki routes + 21 registry-only rows |
+| ✅ updated | [[missing-financial-institutions-backlog]] | Batch G checklist and QA snapshot | foreign-bank branch coverage moved to registry-index closed |
+| ✅ updated | [[banking/foreign-bank-japan-retreat]] | foreign-bank Japan pattern | linked full registry route and standalone-promotion rule |
+
 ## P3 graph-repair pages (21) ✅ resolved
 
 | Status | Slug | Name / target |
@@ -297,6 +650,12 @@ sources:
 |---|---|---|
 | Legal / financial licenses | [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] | Banking Act, FIEA / securities, insurance, funds transfer, prepaid, electronic-payment-agency, crypto / EPI, lending, installment-sales, policy-finance statute routes |
 | Financial reports 2020+ | [[JapanFG/financial-reports-2020-index|JapanFG financial reports 2020+ index]] | Official annual-report / disclosure / securities-report source ledger for 159 JapanFG companies and institutions |
+| Foreign bank branches | [[JapanFG/foreign-bank-branches-japan-index|Japan foreign-bank branch registry index]] | FSA 57-row foreign-bank branch registry route; 36 standalone / umbrella wiki routes and 21 registry-only rows |
+| Trust companies | [[JapanFG/trust-companies-japan-index|Japan trust companies registry index]] | FSA 38-row trust-company registry route; 6 rows have existing group wiki routes and 32 rows remain registry-only |
+| FIEA operators | [[securities/financial-instruments-business-operators-japan-index|Japan FIEA operator registry index]] | FSA 1,945-row financial instruments business operator registry-control route |
+| Cooperative banking systems | [[banking/ja-bank-system-japan|JA Bank system]] / [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] | Local JA / JA Shinnoren and local JF / JF Shingyoren boundary routes, both linked to [[JapanFG/norinchukin|Norinchukin]] |
+| Public-credit adjacency | [[policy-finance/japan-housing-finance-agency|JHF]] / [[policy-finance/japan-credit-guarantee-system|credit guarantee system]] / [[policy-finance/agriculture-credit-guarantee-system|agriculture guarantees]] / [[policy-finance/fisheries-credit-guarantee-system|fisheries guarantees]] | Policy-finance routes that explain housing, SME, agriculture, and fisheries credit creation without counting them as JapanFG operating-company pages |
+| Payment registries | [[payments/prepaid-payment-instrument-issuers-japan-index|Japan third-party prepaid issuer registry]] | FSA 803-row prepaid issuer registry-control route; standalone JapanFG pages only for material wallet/card/retail operators |
 
 ---
 
@@ -327,14 +686,72 @@ sources:
 - **Phase 23 (P4 final graph-repair promotion batch)** — 2026-05-20 — [[18-shinwa-bank]] / [[akita-bank]] / [[iwate-bank]] / [[joyo-bank]] / [[rokin-renraku]] / [[socgen-japan]] / [[bank-of-america-japan]] promoted to likely / active; [[ssjbank]] deprecated as erroneous alias ✅
 - **Phase 24 (financial report source index)** — 2026-05-20 — [[JapanFG/financial-reports-2020-index|financial-reports-2020-index]] created: 159 company/institution rows, 88 complete / 40 boundary / 27 partial / 4 gap ✅
 - **Phase 25 (校核 + 数値更新)** — 待定 — IR 報告で財務 KPI 精度向上 + ^[ambiguous] のクリア
-- **Phase 26 (追加候補)** — 待定 — 第四世代地銀 / 中堅 fintech / 政府系・中央機関 / 在日外資支店の残り
+- **Phase 26 (追加候補 execution checklist)** — 2026-05-20 — [[JapanFG/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] created from FSA / industry registry baseline ✅
+- **Phase 27 (market infrastructure execution batch)** — 2026-05-20 — [[JapanFG/japan-exchange-group|JPX]] / [[JapanFG/japan-securities-finance|JSF]] + securities market infrastructure pages created ✅
+- **Phase 28 (bank operating-company Batch B1)** — 2026-05-20 — 18 licensed bank operating-company pages created from FSA bank-license baseline ✅
+- **Phase 29 (registry QA / index-control Batch J)** — 2026-05-20 — FSA registry snapshot + machine exact/alias lower-bound coverage table added to [[JapanFG/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] ✅
+- **Phase 30 (securities / asset-management Batch C)** — 2026-05-20 — 15 FIEA operator pages created from FSA `kinyushohin.xlsx` + official company profiles ✅
+- **Phase 31 (payments / cards / PSP Batch E1)** — 2026-05-21 — 15 card issuer, consumer-finance, and merchant PSP pages created from METI registered-operator surface + official company profiles ✅
+- **Phase 32 (wallet / funds-transfer / remittance Batch E2)** — 2026-05-21 — 16 wallet, funds-transfer, and cross-border remittance pages created from FSA `shikin_idou.pdf` + official company pages ✅
+- **Phase 33 (stablecoin / EPI adjacency Batch E3)** — 2026-05-21 — [[jpyc]] / [[progmat]] JapanFG anchors created and SBI VC Trade EPI cross-links reconciled ✅
+- **Phase 34 (life-insurance operating-company Batch D1)** — 2026-05-21 — 13 life-insurance operating-company pages created from FSA `hoken.pdf` + Life Insurance Association member list ✅
+- **Phase 35 (life subsidiaries / specialty insurers Batch D2)** — 2026-05-21 — 9 specialty / subsidiary life-insurance pages created; [[zurich-japan]] alias boundary split from [[zurich-life]] ✅
+- **Phase 36 (non-life majors Batch D3)** — 2026-05-21 — 4 major non-life operating-company pages created from FSA `songai.pdf` + protection-corporation member list ✅
+- **Phase 37 (direct / digital non-life Batch D4)** — 2026-05-21 — 7 direct / digital non-life operating-company pages created from FSA `songai.pdf` + official company profiles ✅
+- **Phase 38 (specialty / reinsurance Batch D5)** — 2026-05-21 — 6 specialty / reinsurance non-life pages created from FSA `songai.pdf` + public member list ✅
+- **Phase 39 (insurance holding companies Batch D6)** — 2026-05-21 — 3 insurance holding-company pages created and [[dai-ichi-life]] updated to 株式会社第一ライフグループ current name ✅
+- **Phase 40 (remaining exact-name life insurers Batch D7)** — 2026-05-21 — 8 remaining FSA life-insurer exact-name anchors created; FSA 41 life-insurer surface closed at standalone / intentional group-anchor level ✅
+- **Phase 41 (regional-bank Batch B2.1 Hokuriku / Hokkaido)** — 2026-05-21 — 5 regional / second-regional bank operating-company pages created from FSA `ginkou.xlsx` ✅
+- **Phase 42 (regional-bank Batch B2.2 Tohoku / Fidea / Jimoto)** — 2026-05-21 — 8 regional / second-regional bank operating-company pages created and [[fidea-hd]] boundary corrected ✅
+- **Phase 43 (regional-bank Batch B2.3 Kanto)** — 2026-05-21 — 9 regional / second-regional bank operating-company pages created and [[kiraboshi-fg]] alias split ✅
+- **Phase 44 (regional-bank Batch B2.4 Chubu)** — 2026-05-21 — 10 regional / second-regional bank operating-company pages created and 4 stale boundaries corrected ✅
+- **Phase 45 (regional-bank Batch B2.5 Kansai / Chugoku)** — 2026-05-21 — 9 regional / second-regional bank operating-company pages created and 2 exact-name alias splits completed ✅
+- **Phase 46 (regional-bank Batch B2.6 Shikoku)** — 2026-05-21 — 7 regional / second-regional bank operating-company pages created and 3 Shikoku peer-boundary pages updated ✅
+- **Phase 47 (regional-bank Batch B2.7 Kyushu / Okinawa)** — 2026-05-21 — 10 regional-bank operating-company pages created, 2 existing regional-bank pages retained in the map, and 5 boundary pages updated ✅
+- **Phase 48 (regional-bank Batch B2.8 second-regional long tail)** — 2026-05-21 — 10 second-regional bank operating-company pages created, 1 existing Okinawa Kaiho Bank page retained in the map, and second-regional FSA 34-row surface closed ✅
+- **Phase 49 (cooperative-finance registry indexes Batch H)** — 2026-05-21 — [[banking/shinkin-bank-registry-japan]] / [[banking/credit-cooperative-registry-japan]] / [[banking/rokin-bank-registry-japan]] created; FSA 255 / 144 / 14 cooperative-finance surfaces closed at registry-index level ✅
+- **Phase 50 (foreign-bank branch P0 Batch G)** — 2026-05-21 — [[credit-agricole-bank-japan]] / [[natixis-japan]] / [[rbc-japan]] / [[commerzbank-japan]] / [[ing-bank-japan]] / [[dbs-bank-japan]] / [[ocbc-bank-japan]] / [[uob-bank-japan]] / [[bbva-bank-japan]] / [[intesa-sanpaolo-japan]] created; FSA 57 foreign-bank branch surface now has P0 material branches covered ✅
+- **Phase 51 (foreign-bank branch P1 Korea / Taiwan / China Batch G)** — 2026-05-21 — [[woori-bank-japan]] / [[hana-bank-japan]] / [[korea-development-bank-japan]] / [[industrial-bank-of-korea-japan]] / [[kb-kookmin-bank-japan]] / [[bank-of-taiwan-japan]] / [[mega-icbc-japan]] / [[ctbc-bank-japan]] / [[esun-bank-japan]] / [[bank-of-china-japan]] / [[icbc-japan]] / [[china-construction-bank-japan]] / [[agricultural-bank-of-china-japan]] created; FSA foreign-bank branch lower-bound coverage moved to 30 / 57 ✅
+- **Phase 52 (foreign-bank branch registry index Batch G)** — 2026-05-21 — [[foreign-bank-branches-japan-index]] created; FSA 57 foreign-bank branch rows covered as 36 standalone / umbrella routes + 21 registry-only rows ✅
+- **Phase 53 (JA Bank system Batch H)** — 2026-05-21 — [[banking/ja-bank-system-japan]] created; JA / JA Shinnoren / [[norinchukin]] boundary routed under banking system map ✅
+- **Phase 54 (JF Marine Bank system Batch H)** — 2026-05-21 — [[banking/jf-marine-bank-system-japan]] created; JF / JF Shingyoren / [[norinchukin]] boundary routed under banking system map ✅
+- **Phase 55 (policy-finance adjacency Batch I)** — 2026-05-21 — [[policy-finance/japan-housing-finance-agency]] / [[policy-finance/japan-credit-guarantee-system]] / [[policy-finance/national-federation-credit-guarantee-corporations]] / [[policy-finance/agriculture-credit-guarantee-system]] / [[policy-finance/fisheries-credit-guarantee-system]] created; public-credit routes closed at system-page level ✅
+- **Phase 56 (trust-company registry index)** — 2026-05-21 — [[JapanFG/trust-companies-japan-index]] created; FSA 38 trust-company rows covered as 6 existing group wiki routes + 32 registry-only rows ✅
+- **Phase 57 (third-party prepaid issuer registry index)** — 2026-05-21 — [[payments/prepaid-payment-instrument-issuers-japan-index]] created; FSA 803 prepaid issuer rows covered through official-source registry route and jurisdiction counts ✅
+- **Phase 58 (FIEA operator registry index)** — 2026-05-21 — [[securities/financial-instruments-business-operators-japan-index]] created; FSA 1,945 financial instruments business operator rows covered through official-source registry route and category / jurisdiction counts ✅
+- **Phase 59 (追加候補 execution batch)** — 待定 — strategic foreign-bank P2 exceptions, credit-purchase registry candidate, funds-transfer registry refresh, or data QA refresh
 
 ## 統計
 
-- 合計エントリ数: **166** entity entries (INDEX / legal-license subdomain INDEX を除く)
+- 合計エントリ数: **375** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
 - P0-P12 完成済み: 125 entries
 - P13 地域銀行・残存銀行追加: 10 entries
 - P14 信託・短資・外資・消費者金融・政策金融追加: 10 entries
+- P15 銀行 operating-company pages B1: 18 entries
+- P16 証券・資産運用 operators Batch C: 15 entries
+- P17 Payments / cards / PSP operators Batch E1: 15 entries
+- P18 Wallet / funds-transfer / remittance operators Batch E2: 16 entries
+- P19 Stablecoin / EPI adjacency Batch E3: 2 entity anchors + 1 cross-link
+- P20 Life-insurance operating companies Batch D1: 13 entries
+- P21 Life subsidiaries / specialty insurers Batch D2: 9 entries
+- P22 Non-life majors Batch D3: 4 entries
+- P23 Direct / digital non-life Batch D4: 7 entries
+- P24 Specialty / reinsurance Batch D5: 6 entries
+- P25 Insurance holding companies Batch D6: 3 new entries + 1 existing page name update
+- P26 Remaining exact-name life insurers Batch D7: 8 entries
+- P27 Regional-bank operating companies Batch B2.1: 5 entries
+- P28 Regional-bank operating companies Batch B2.2: 8 entries + 1 existing boundary correction
+- P29 Regional-bank operating companies Batch B2.3: 9 entries + 1 existing alias split
+- P30 Regional-bank operating companies Batch B2.4: 10 entries + 4 existing boundary corrections
+- P31 Regional-bank operating companies Batch B2.5: 9 entries + 2 existing alias splits
+- P32 Regional-bank operating companies Batch B2.6: 7 entries + 3 existing boundary link updates
+- P33 Regional-bank operating companies Batch B2.7: 10 entries + 5 existing boundary link updates
+- P34 Regional-bank operating companies Batch B2.8: 10 entries + 1 existing anchor + boundary link updates
+- P35 Foreign-bank branches Batch G P0: 10 entries + 2 boundary link updates
+- P36 Foreign-bank branches Batch G P1 Korea / Taiwan / China: 13 entries + 1 boundary link update
+- P37 Foreign-bank branch registry index Batch G: 1 non-entity registry index, 57 rows closed at registry-index level
+- Registry QA / index-control snapshot: 1 compact coverage table in expansion backlog (no new entity count)
+- Cooperative-finance registry indexes: 3 banking-domain indexes (no JapanFG entity count change)
 - P3 graph-repair pages: 21 entries (20 promoted in P4, 1 deprecated erroneous alias, 0 planned stubs remain)
 - メガバンク + 通信系 + 決済系 + EC 系 + 網絡金融: 8 (P0)
 - ネオバンク + 証券 + 暗号資産: 8 (P1)
@@ -349,10 +766,74 @@ sources:
 - 沖縄 + 中央機関 + 残り地銀: 10 (P10)
 - 外資生損保 + Fintech + 暗号資産: 10 (P11)
 - 持株会社カテゴリ追加発見: 10 (P12)
+- 市場インフラ + 証券金融: 2 (JPX / JSF)
+- 銀行 operating-company pages: 18 (B1)
+- 証券・資産運用 operators: 15 (Batch C)
+- Payment-card / consumer-finance / PSP operators: 15 (Batch E1)
+- Wallet / funds-transfer / remittance operators: 16 (Batch E2)
+- Stablecoin / EPI infrastructure anchors: 2 (Batch E3)
+- Life-insurance operating-company pages: 13 (Batch D1)
+- Life subsidiaries / specialty insurers: 9 (Batch D2)
+- Non-life major operating-company pages: 4 (Batch D3)
+- Direct / digital non-life operating-company pages: 7 (Batch D4)
+- Specialty / reinsurance non-life operating-company pages: 6 (Batch D5)
+- Insurance holding-company pages: 3 new entries + [[dai-ichi-life]] name update (Batch D6)
+- Remaining exact-name life-insurer pages: 8 (Batch D7)
+- Regional-bank operating-company pages: 68 (Batch B2.1 Hokuriku / Hokkaido + B2.2 Tohoku / Fidea / Jimoto + B2.3 Kanto + B2.4 Chubu + B2.5 Kansai / Chugoku + B2.6 Shikoku + B2.7 Kyushu / Okinawa + B2.8 second-regional long tail)
+- Foreign-bank branch P0 pages: 10 (Batch G P0)
+- Foreign-bank branch P1 Korea / Taiwan / China pages: 13 (Batch G P1)
+- Foreign-bank branch registry index: 57 FSA rows, 36 standalone / umbrella routes, 21 registry-only rows
 
 ## Cross-refs
 
 - [[JapanFG/legal-financial-licenses/INDEX]] — 法律 / 金融牌照横断 domain
+- [[JapanFG/missing-financial-institutions-backlog]] — 日本金融機関の追加候補と実行チェックリスト
+- [[JapanFG/japan-exchange-group]] — JPX / 取引所持株会社
+- [[JapanFG/japan-securities-finance]] — JSF / 証券金融
+- [[JapanFG/mizuho-bank]] / [[JapanFG/sumitomo-mitsui-banking-corp]] / [[JapanFG/mufg-bank]] — メガバンク operating-company pages
+- [[JapanFG/mitsubishi-ufj-trust-bank]] / [[JapanFG/mizuho-trust-bank]] / [[JapanFG/smtb]] / [[JapanFG/smbc-trust-bank]] — trust-bank operating-company pages
+- [[JapanFG/orix-bank]] / [[JapanFG/daiwa-next-bank]] — 2026 ownership-transition bank pages
+- [[JapanFG/missing-financial-institutions-backlog#Batch J QA snapshot (2026-05-20)|Batch J QA snapshot]] — FSA registry coverage control table
+- [[JapanFG/tsukuba-bank]] / [[JapanFG/ashikaga-bank]] / [[JapanFG/kiraboshi-bank]] / [[JapanFG/yokohama-bank]] / [[JapanFG/higashi-nippon-bank]] / [[JapanFG/tokyo-star-bank]] / [[JapanFG/kanagawa-bank]] / [[JapanFG/tochigi-bank]] / [[JapanFG/taiko-bank]] — Kanto regional-bank operating-company anchors
+- [[JapanFG/daishi-hokuetsu-bank]] / [[JapanFG/yamanashi-chuo-bank]] / [[JapanFG/hachijuni-nagano-bank]] / [[JapanFG/juroku-bank]] / [[JapanFG/shizuoka-bank]] / [[JapanFG/shimizu-bank]] / [[JapanFG/shizuoka-chuo-bank]] / [[JapanFG/aichi-bank]] / [[JapanFG/nagoya-bank]] / [[JapanFG/fukui-bank]] — Chubu regional-bank operating-company anchors
+- [[JapanFG/kyoto-bank]] / [[JapanFG/kansai-mirai-bank]] / [[JapanFG/ikeda-senshu-bank]] / [[JapanFG/tajima-bank]] / [[JapanFG/tottori-bank]] / [[JapanFG/chugoku-bank]] / [[JapanFG/hiroshima-bank]] / [[JapanFG/momiji-bank]] / [[JapanFG/tomato-bank]] — Kansai / Chugoku regional-bank operating-company anchors
+- [[JapanFG/sbi-securities]] / [[JapanFG/paypay-securities]] / [[JapanFG/mufg-esmart-securities]] — retail online brokerage comparison
+- [[JapanFG/nomura-asset-management]] / [[JapanFG/asset-management-one]] / [[JapanFG/mufg-asset-management]] / [[JapanFG/smd-am]] — major asset-management platforms
+- [[JapanFG/smbc-card]] / [[JapanFG/mufg-nicos]] / [[JapanFG/rakuten-card]] / [[JapanFG/paypay-card]] — major card issuers and card-credit operators
+- [[JapanFG/sb-payment-service]] / [[JapanFG/gmo-epsilon]] / [[JapanFG/dg-financial-technology]] — merchant PSP / acquiring operators
+- [[JapanFG/smbc-consumer-finance]] / [[JapanFG/aplus]] / [[JapanFG/life-card]] — consumer-credit / installment-credit operators
+- [[JapanFG/paypay]] / [[JapanFG/merpay]] / [[JapanFG/au-payment]] / [[JapanFG/rakuten-edy]] — major consumer wallet / stored-value operators
+- [[JapanFG/wise-payments-japan]] / [[JapanFG/revolut-technologies-japan]] / [[JapanFG/paypal-pte-ltd-japan]] / [[JapanFG/payoneer-japan]] — global cross-border payment operators in Japan
+- [[JapanFG/sbi-remit]] / [[JapanFG/western-union-japan]] / [[JapanFG/travelex-japan]] / [[JapanFG/airwallex-japan]] — remittance and B2B cross-border payment operators
+- [[JapanFG/jpyc]] / [[JapanFG/progmat]] / [[exchanges/jp-exchange-sbi-vc-trade]] — stablecoin issuer / platform / EPI distributor boundary map
+- [[securities/financial-instruments-business-operators-japan-index]] — FSA 1,945-row FIEA / financial instruments business operator registry-control route
+- [[payments/prepaid-payment-instrument-issuers-japan-index]] — FSA 803-row third-party prepaid issuer registry-control route
+- [[JapanFG/asahi-life]] / [[JapanFG/fukoku-life]] — mutual life-insurance operating-company anchors
+- [[JapanFG/sbi-life]] / [[JapanFG/rakuten-life]] / [[JapanFG/sony-life]] — ecosystem / group life-insurance operators
+- [[JapanFG/daido-life]] / [[JapanFG/taiyo-life]] / [[JapanFG/dai-ichi-frontier-life]] — group specialist life-insurance operators
+- [[JapanFG/sompo-himawari-life]] / [[JapanFG/tokio-marine-nichido-life]] — non-life major group life-insurance arms
+- [[JapanFG/cardif-life]] / [[JapanFG/td-financial-life]] / [[JapanFG/nissay-wealth-life]] — bancassurance / wealth-channel life specialists
+- [[JapanFG/hanasaku-life]] / [[JapanFG/nanairo-life]] / [[JapanFG/medicare-life]] — major-life group specialty subsidiaries
+- [[JapanFG/gibraltar-life]] / [[JapanFG/zurich-life]] — foreign-affiliated life-insurance specialty operators
+- [[JapanFG/tokio-marine-nichido-fire]] / [[JapanFG/mitsui-sumitomo-insurance]] / [[JapanFG/aioi-nissay-dowa-insurance]] / [[JapanFG/sompo-japan-insurance]] — major non-life operating companies
+- [[JapanFG/sony-insurance]] / [[JapanFG/sbi-insurance]] / [[JapanFG/au-insurance]] / [[JapanFG/tokio-marine-direct]] / [[JapanFG/sompo-direct]] / [[JapanFG/mitsui-direct]] / [[JapanFG/rakuten-general-insurance]] — direct / digital non-life operators
+- [[JapanFG/anicom-insurance]] / [[JapanFG/secom-insurance]] / [[JapanFG/toa-reinsurance]] / [[JapanFG/japan-earthquake-reinsurance]] / [[JapanFG/nisshin-fire]] / [[JapanFG/meiji-yasuda-general-insurance]] — specialty, reinsurance, and group-adjacent non-life operators
+- [[JapanFG/anicom-hd]] / [[JapanFG/ntt-docomo-sompo-hd]] / [[JapanFG/rakuten-insurance-hd]] / [[JapanFG/dai-ichi-life]] — insurance holding-company and current-name anchors
+- [[JapanFG/credit-agricole-life]] / [[JapanFG/dai-ichi-life-insurance]] / [[JapanFG/dai-ichi-neo-life]] / [[JapanFG/fukokushinrai-life]] / [[JapanFG/pgf-life]] / [[JapanFG/ms-primary-life]] / [[JapanFG/midori-life]] / [[JapanFG/meiji-yasuda-trust-life]] — FSA life-insurer exact-name completion anchors
+- [[JapanFG/hokkaido-bank]] / [[JapanFG/hokuriku-bank]] / [[JapanFG/hokkoku-bank]] / [[JapanFG/toyama-bank]] / [[JapanFG/toyama-first-bank]] — Hokuriku / Hokkaido regional-bank operating-company anchors
+- [[JapanFG/tohoku-bank]] / [[JapanFG/hokuto-bank]] / [[JapanFG/shonai-bank]] / [[JapanFG/kita-nippon-bank]] / [[JapanFG/sendai-bank]] / [[JapanFG/kirayaka-bank]] / [[JapanFG/fukushima-bank]] / [[JapanFG/daito-bank]] — Tohoku / Fidea / Jimoto regional-bank operating-company anchors
+- [[JapanFG/awa-bank]] / [[JapanFG/hyakujushi-bank]] / [[JapanFG/iyo-bank]] / [[JapanFG/shikoku-bank]] / [[JapanFG/tokushima-taisho-bank]] / [[JapanFG/kagawa-bank]] / [[JapanFG/ehime-bank]] / [[JapanFG/kochi-bank]] — Shikoku regional-bank operating-company anchors
+- [[JapanFG/fukuoka-bank]] / [[JapanFG/chikuho-bank]] / [[JapanFG/nishi-nippon-city-bank]] / [[JapanFG/kitakyushu-bank]] / [[JapanFG/saga-bank]] / [[JapanFG/18-shinwa-bank]] / [[JapanFG/higo-bank]] / [[JapanFG/oita-bank]] / [[JapanFG/miyazaki-bank]] / [[JapanFG/kagoshima-bank]] / [[JapanFG/ryukyu-bank]] / [[JapanFG/okinawa-bank]] — Kyushu / Okinawa regional-bank operating-company anchors
+- [[JapanFG/minato-bank]] / [[JapanFG/shimane-bank]] / [[JapanFG/saikyo-bank]] / [[JapanFG/fukuoka-chuo-bank]] / [[JapanFG/saga-kyoei-bank]] / [[JapanFG/nagasaki-bank]] / [[JapanFG/kumamoto-bank]] / [[JapanFG/howa-bank]] / [[JapanFG/miyazaki-taiyo-bank]] / [[JapanFG/minami-nippon-bank]] / [[JapanFG/okinawa-kaiho-bank]] — second-regional long-tail operating-company anchors
+- [[JapanFG/credit-agricole-bank-japan]] / [[JapanFG/natixis-japan]] / [[JapanFG/rbc-japan]] / [[JapanFG/commerzbank-japan]] / [[JapanFG/ing-bank-japan]] / [[JapanFG/dbs-bank-japan]] / [[JapanFG/ocbc-bank-japan]] / [[JapanFG/uob-bank-japan]] / [[JapanFG/bbva-bank-japan]] / [[JapanFG/intesa-sanpaolo-japan]] — foreign-bank branch P0 anchors
+- [[JapanFG/woori-bank-japan]] / [[JapanFG/hana-bank-japan]] / [[JapanFG/korea-development-bank-japan]] / [[JapanFG/industrial-bank-of-korea-japan]] / [[JapanFG/kb-kookmin-bank-japan]] / [[JapanFG/bank-of-taiwan-japan]] / [[JapanFG/mega-icbc-japan]] / [[JapanFG/ctbc-bank-japan]] / [[JapanFG/esun-bank-japan]] / [[JapanFG/bank-of-china-japan]] / [[JapanFG/icbc-japan]] / [[JapanFG/china-construction-bank-japan]] / [[JapanFG/agricultural-bank-of-china-japan]] — foreign-bank branch P1 Korea / Taiwan / China anchors
+- [[JapanFG/foreign-bank-branches-japan-index]] — FSA 57-row foreign-bank branch registry route
+- [[JapanFG/trust-companies-japan-index]] — FSA 38-row trust-company registry route
+- [[banking/ja-bank-system-japan]] — JA / JA Shinnoren / 農林中央金庫 agricultural cooperative banking system route
+- [[banking/jf-marine-bank-system-japan]] — JF / JF Shingyoren / 農林中央金庫 fisheries cooperative banking system route
+- [[policy-finance/japan-housing-finance-agency]] / [[policy-finance/japan-credit-guarantee-system]] / [[policy-finance/national-federation-credit-guarantee-corporations]] — housing finance and SME public-credit guarantee routes
+- [[policy-finance/agriculture-credit-guarantee-system]] / [[policy-finance/fisheries-credit-guarantee-system]] — agriculture / fisheries credit guarantee-insurance routes
+- [[banking/shinkin-bank-registry-japan]] / [[banking/credit-cooperative-registry-japan]] / [[banking/rokin-bank-registry-japan]] — cooperative-finance official-name registry indexes
 - [[banking/minna-bank-baas-model]] — みん銀 BaaS（FG 戦略と関連）
 - [[banking/mercari-bank-license-stack]] — ライセンス階段
 - [[banking/quick-deposit-four-methods]] — クイック入金
@@ -360,12 +841,12 @@ sources:
 ## Open questions
 
 - 個別銀行 (持株会社化していない地銀: 千葉銀 / 群馬銀 / 八十二銀 / スルガ銀 / 七十七銀 等) も namespace に含めるべきか?
-- 信用金庫中央機関 (信金中央金庫 等) は別 namespace か?
+- 信用金庫 / 信用組合 / 労金 / JA / JF の long-tail 個別 pages は、registry index / system page 以上に戦略的理由がある場合だけ追加する。
 - Fintech 独立創業系の追加 (NP 後払い / Liquid Group / Kyash / みんかぶ 等) はどうするか?
-- 外資系のうち、米 Wells Fargo / 米 BNY Mellon / 米 State Street / 加 RBC 等の在日支店も追加するか?
+- Foreign-bank branch P0 / P1 Korea-Taiwan-China と 57-row registry index は完了。FIEA 1,945-row registry index, prepaid 803-row registry index, Trust-company 38-row registry index, JA Bank system / JF Marine Bank system, and policy-finance public-credit adjacency も system route に分離済み。今後の standalone は strategic exception のみにする。
 - 大手証券: 三菱 UFJ モルガン・スタンレー証券 [[mufg]] 内 vs 独立 entry にする?
 
 ---
 
 > [!info] Source-of-truth
-> 本 INDEX は wiki/JapanFG/ namespace 唯一権威 entry tracker。新規 / 完成 entity 時に本表更新。命名 / 模板変更は本ファイルへの反映必須。**166 entity entries + 1 INDEX + 1 legal-license subdomain INDEX + 1 report-source index** が現状 (2026-05-20)。P3 graph-repair placeholders have been resolved; future work should focus on KPI precision, report/PDF precision, and new candidate discovery.
+> 本 INDEX は wiki/JapanFG/ namespace 唯一権威 entry tracker。新規 / 完成 entity 時に本表更新。命名 / 模板変更は本ファイルへの反映必須。**375 entity entries + 1 INDEX + 1 legal-license subdomain INDEX + 1 report-source index + 1 expansion backlog + 1 foreign-bank branch registry index + 1 trust-company registry index** が現状 (2026-05-21)。JA Bank system and JF Marine Bank system are routed through [[banking/ja-bank-system-japan]] / [[banking/jf-marine-bank-system-japan]] rather than counted as JapanFG entities. P3 graph-repair placeholders have been resolved; future work should focus on KPI precision, report/PDF precision, and registry-aware new candidate execution.

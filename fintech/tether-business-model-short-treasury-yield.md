@@ -11,12 +11,20 @@ review_by: 2026-11-12
 confidence: possible
 evidence_count: 3
 challenges: 0
-source: session
 status: confirmed
 tags: [fintech, stablecoin, business-model]
+sources:
+  - "https://tether.to/en/transparency/"
+  - "Public Tether reserve attestations and transparency reports."
+  - "Public stablecoin market disclosures and issuer reports."
 ---
 
 # Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制
+
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
 > Tether (USDT 発行体) は、預かったユーザー資金を短期米国債で運用し、その金利をそのまま利益として計上することで、40 人体制で年間約 1.5 兆円の利益を稼ぐ。起源は BTC/ETH を担保化して USDT を発行するグレーゾーン的スタートだったが、結果オーライで規模化。ただし KYC レイヤー不一致で機関投資家市場には参入不可。

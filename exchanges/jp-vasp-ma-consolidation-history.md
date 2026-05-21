@@ -24,6 +24,11 @@ status: candidate
 
 # 国内暗号資産交換業 M&A 統廃合史 (2018-2026)
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-incident-history|国内 VASP 暗号資産流出事件史 (2014-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内 VASP 業界は 2018-01 Coincheck NEM 流出事件(580 億円)を起点に、規制圧力(資金決済法改正・JVCEA 自主規制強化)と度重なる流出事件・資本力要求が連鎖し、独立系の単独存続が困難化。結果、**大手金融グループ(SBI / Monex / bitFlyer HD / 楽天 / GMO)傘下への conglomerate 統合**が trend として定着した。

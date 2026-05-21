@@ -14,8 +14,10 @@ status: candidate
 
 # 独立路线案例 · 拒绝产业联盟 + 押注跨境合规价值(北尾吉孝 / SBI)
 
-> [!info] TL;DR
-> "拒绝加入主流产业联盟 + 押注另一条合规价值轨道"是少数派独立路线的典型动作。北尾吉孝 / SBI HD 在日本稳定币战争中**公开拒绝 3 大行 Progmat 联盟**,反向走 SBI × Circle 50/50 合资 + USDC 日本独家分销,押"跨境合规价值远超国内 B2B 联盟" — §501(d) 入榜后日本 4 阵营评级反转(SBI 从 #3 升 #1)。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

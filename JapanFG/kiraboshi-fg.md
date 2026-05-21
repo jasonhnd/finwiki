@@ -1,10 +1,10 @@
 ---
 title: 東京きらぼし FG (Tokyo Kiraboshi FG)
-aliases: ["Tokyo Kiraboshi FG", "東京きらぼし FG", "東京きらぼしフィナンシャルグループ", "Kiraboshi FG", "きらぼし FG", "旧 東京 TY フィナンシャルグループ", "TY FG", "きらぼし銀行"]
+aliases: ["Tokyo Kiraboshi FG", "東京きらぼし FG", "東京きらぼしフィナンシャルグループ", "Kiraboshi FG", "きらぼし FG", "旧 東京 TY フィナンシャルグループ", "TY FG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tokyo-region]
@@ -17,6 +17,11 @@ sources:
 ---
 
 # 東京きらぼし FG (Tokyo Kiraboshi FG)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

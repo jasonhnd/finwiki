@@ -3,8 +3,8 @@ title: 農林中央金庫 (Norinchukin Bank)
 aliases: ["農林中金", "農中", "Norinchukin", "The Norinchukin Bank", "Nochu"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, cooperative-bank]
@@ -13,13 +13,21 @@ sources:
   - "Wikipedia: 農林中央金庫 (2026-05-19 抽出)"
   - "農林中央金庫法 (昭和 61 年法律第 93 号、2001 改正)"
   - "農林中央金庫 ディスクロージャー誌 (公式 IR)"
+  - "https://www.jabank.org/about/sikumi/"
+  - "https://www.jfmbk.org/about/housin.html"
+  - "https://www.nochubank.or.jp/about/features.html"
 ---
 
 # 農林中央金庫 (Norinchukin Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-**世界最大級の協同組合系金融機関**。1923 産業組合中央金庫として設立、1943「農林中央金庫」改称、1986/2001 農林中央金庫法改正で現代的銀行業務へ。**株式会社ではない特殊法人**で、出資者は JA（農協）・JF（漁協）・森林組合等の系統団体。系統信用事業の頂点 + **国内屈指の機関投資家**という二重性格。総資産約 80-100 兆円規模 ^[ambiguous]。**2008 リーマン・ショックで米サブプライム関連約 1.5 兆円損失**、**2024-06 米国債等の含み損対策で出資 JA から 1.2 兆円規模の資本増強**を発表 ^[extracted] — 2 度の大規模機関投資損失がガバナンス論点として浮上。
+**世界最大級の協同組合系金融機関**。1923 産業組合中央金庫として設立、1943「農林中央金庫」改称、1986/2001 農林中央金庫法改正で現代的銀行業務へ。**株式会社ではない特殊法人**で、出資者は JA（農協）・JF（漁協）・森林組合等の系統団体。[[banking/ja-bank-system-japan|JA Bank system]] と [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] の national central institution layer を担い、系統信用事業の頂点 + **国内屈指の機関投資家**という二重性格を持つ。総資産約 80-100 兆円規模 ^[ambiguous]。**2008 リーマン・ショックで米サブプライム関連約 1.5 兆円損失**、**2024-06 米国債等の含み損対策で出資 JA から 1.2 兆円規模の資本増強**を発表 ^[extracted] — 2 度の大規模機関投資損失がガバナンス論点として浮上。
 
 ## 1. 公司结构
 
@@ -163,6 +171,10 @@ sources:
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[resona-hd]]
 - [[jfc]] · [[dbj]] · [[sumitomo-mitsui-trust]]
 - [[nippon-life]] · [[dai-ichi-life]]
+- [[banking/ja-bank-system-japan]]
+- [[banking/jf-marine-bank-system-japan]]
+- [[banking/cooperative-banking-japan]]
+- [[JapanFG/nochu-trust-bank]]
 
 ## Sources
 

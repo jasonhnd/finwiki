@@ -16,6 +16,11 @@ sources: []
 
 # 国家许可型私营稳定币 + DPI 全球输出战略
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 印度 ARC token × Polygon 2026 Q1 上线 = **全球首个国家许可型私营稳定币 + 数字公共基础设施（DPI）全球输出**模式：政府许可单一私营发行方 + 与 UPI / MOSIP / Aadhaar 集成 + 通过 G20 / 双边协议向新兴市场输出全套 stack → **反美元 DPI 联盟**叙事。是新兴市场对抗 USDC / USDT 主导格局的第一个有可执行路径的战略。
 

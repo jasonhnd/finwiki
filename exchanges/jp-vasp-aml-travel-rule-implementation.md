@@ -26,6 +26,8 @@ sources:
 status: candidate
 ---
 
+# 国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)
+
 ## 概要
 
 国内 VASP は **犯罪収益移転防止法 (犯収法)** で本人確認 + 取引監視 + 疑わしい取引届出を義務化されている。**FATF Recommendation 16 (Travel Rule)** は 2023-06 改正犯収法施行で完全実装され、仮想資産送金が **≥ 10 万円相当** で送受信両者の KYC データ伝達が義務化された。AML/CFT 体系は FSA 監督 + JAFIC (警察庁) 情報集約 + JVCEA 自主規制の三層構造で運用される。

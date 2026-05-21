@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# 国内暗号資産 VC + クリプトファンド ランドスケープ
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/solana-ecosystem-dex-comparison|solana ecosystem dex comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内クリプト VC は **大手企業系 CVC** ・ **独立ファンド** ・ **大学系** ・ **PE 派生** の 4 系列が並存。LP 構成は既存金融機関 + 事業会社 + 個人投資家の混合。海外大手 (a16z crypto / Paradigm / Sequoia / Coinbase Ventures / Pantera) との共同投資・連携多。資金供給は 2018-2021 年に急増、2022-2023 年の冬で縮小、2024-2026 年は ETF・Sony Astar 化・JPYC 規制施行を背景に再活性化。

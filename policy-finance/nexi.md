@@ -20,6 +20,11 @@ sources:
 
 # NEXI (Nippon Export and Investment Insurance)
 
+
+## Wiki route
+
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/jica|JICA (Japan International Cooperation Agency)]] for peer / contrast context and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 NEXI is Japan's public trade and investment insurance institution. Its role is to cover risks in foreign transactions that commercial insurance does not cover, making it the insurance leg of Japan's export / overseas-investment support stack beside [[JapanFG/jbic|JBIC]] lending and commercial bank co-finance.

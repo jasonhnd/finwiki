@@ -1,10 +1,10 @@
 ---
 title: ひろぎん HD (Hirogin Holdings)
-aliases: ["ひろぎん HD", "Hirogin Holdings", "株式会社ひろぎんホールディングス", "広島銀行", "Hiroshima Bank"]
+aliases: ["ひろぎん HD", "Hirogin Holdings", "株式会社ひろぎんホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -16,9 +16,14 @@ sources:
 
 # ひろぎん HD (Hirogin Holdings)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **広島銀行**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[JapanFG/chugin-okayama|chugin-fg]]（中国銀行・岡山）、[[san-in-godo-bank]]（山陰合同・松江）、[[yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
+広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **[[hiroshima-bank|広島銀行]]**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[JapanFG/chugin-okayama|chugin-fg]]（[[chugoku-bank|中国銀行]]・岡山）、[[san-in-godo-bank]]（山陰合同・松江）、[[yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
 
 ## 1. 公司结构
 

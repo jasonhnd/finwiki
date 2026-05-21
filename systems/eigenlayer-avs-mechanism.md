@@ -14,8 +14,10 @@ status: candidate
 
 # EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁
 
-> [!info] TL;DR
-> AVS(Actively Validated Service)是 EigenLayer 经济模型的核心抽象——任何需要外部验证的服务可定义自己的 slashing 条件,Operator opt-in 接受任务并将质押 ETH 暴露于该 AVS 的 slashing 风险。**EIGEN token 提供 inter-subjective dispute resolution 最后仲裁层**,处理密码学不可证伪场景(如 oracle 报价偏离市场)。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

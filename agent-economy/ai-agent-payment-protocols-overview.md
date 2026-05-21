@@ -14,8 +14,10 @@ status: candidate
 
 # AI Agent 支付协议总图 · 七协议格局概览
 
-> [!info] TL;DR
-> "AI agent 支付四协议"是 2025-2026 行业速记 —— 实际格局是 7 个协议并存,分意图(AP2/SPT/ACP)、传输(x402/TAP)、上下文(MCP/A2A)三层。任何"统一协议"叙事都被 FIDO 接管 AAIF 中立化打破:协议层注定 commoditization。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/ai-agent-payment-protocols-seven-layers|AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

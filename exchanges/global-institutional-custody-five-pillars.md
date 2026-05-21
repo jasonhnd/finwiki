@@ -25,6 +25,12 @@ sources:
 status: candidate
 ---
 
+# グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 機関向け暗号資産カストディは、VASP の自己保管モデルとは構造的に異なる。米国市場では Qualified Custodian (SEC Rule 206(4)-2) ステータス + 信託銀行業務免許 (Trust Charter) 保有が機関投資家受託の事実上の要件となる。米系 4 強 (Coinbase / Fidelity / Anchorage / BitGo) + 欧/日系 Komainu の 5 大プレイヤーが ETF・年金・SWF 等の超機関市場を主導する。

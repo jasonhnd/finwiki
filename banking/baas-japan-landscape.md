@@ -22,6 +22,11 @@ sources:
 
 # Japan BaaS landscape
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/minna-bank-baas-model|みんなの銀行 BaaS model]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本の BaaS は、単一の「銀行 API 商品」ではない。少なくとも 4 類型に分かれる: API 提供、パートナー支店、銀行代理 / white-label 的な口座獲得、そして決済・口座振替・即時入金に特化した narrow BaaS。[[banking/minna-bank-baas-model|みんなの銀行]] は B2C アプリへの埋め込み型 BaaS、[[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]] は法人 / API / 組込金融寄り、[[JapanFG/ssnb|住信SBIネット銀行]] は NEOBANK 型で比較される。

@@ -14,8 +14,10 @@ status: candidate
 
 # ERC-4337 概览 · Account Abstraction 的应用层实现
 
-> [!info] TL;DR
-> ERC-4337 是 2023-03 在 Ethereum 主网激活的 **Account Abstraction 标准**——**不修改协议层、纯应用层实现**——通过 `UserOperation` mempool + `Bundler` 打包 + `EntryPoint` 单例合约,让 **Smart Contract Wallet(SCW)** 拥有 EOA 之前没有的 gas abstraction / social recovery / batch transaction / session key 能力。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-vs-erc-4337|ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

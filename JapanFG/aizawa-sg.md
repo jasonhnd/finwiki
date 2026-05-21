@@ -17,6 +17,11 @@ sources:
 
 # アイザワ証券グループ (Aizawa Securities Group)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 中堅独立証券持株会社（東証 STD **8708**）。1918-02 藍澤彌八が東京・日本橋兜町で 藍澤證券店 として創業 → 1948 株式会社化 → 1989 ジャスダック上場 → 2017-04 持株会社化。**「アジア新興国投資の専門証券」** として独自ポジション確立。日本の証券会社では最も広いアジア新興国カバレッジ（ベトナム・インドネシア・タイ・カンボジア・ミャンマー等）。リテール中心、法人 IB は限定的。競合は同じ独立中堅枠の [[okasan-sg]] / [[tokai-tokyo-fh]]、ネット系 [[matsui-sec]] / [[monex-group]]。^[extracted]

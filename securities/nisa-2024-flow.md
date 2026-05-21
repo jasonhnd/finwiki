@@ -22,6 +22,11 @@ sources:
 
 # NISA 2024 flow
 
+
+## Wiki route
+
+This entry sits under [[securities/INDEX|securities index]]. Read it against [[securities/japan-securities-clearing-corp|日本証券クリアリング機構 (JSCC)]] for peer / contrast context and [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 The 2024 NISA reform turned Japan's household tax-free investment account into a permanent asset-building regime. FSA's NISA site says the new system started in January 2024 and became permanent. The official guidebook frames two usable buckets: a tsumitate investment quota and a growth investment quota, with combined annual investment capacity of 3.6 million yen and lifetime tax-free holding capacity of 18 million yen.

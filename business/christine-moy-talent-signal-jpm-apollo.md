@@ -14,8 +14,10 @@ status: candidate
 
 # 关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo
 
-> [!info] TL;DR
-> 当某机构的**早期关键技术建设者**主动跳到另一机构的相似岗位,**人才流向本身就是产业重心迁移的前置信号**——通常领先公开战略 6-18 个月。Christine Moy 从 JPMorgan Onyx 跳到 Apollo(2024)推 ACRED,是"机构稳定币重心从 TD → MMF / Credit"的早期识别样本。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

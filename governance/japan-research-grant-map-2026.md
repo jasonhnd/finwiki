@@ -10,8 +10,20 @@ review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
 status: candidate
+sources:
+  - "https://www.taf.or.jp/grant-a/"
+  - "https://www.suntory.co.jp/sfnd/research/"
+  - "https://www.mitsubishi-zaidan.jp/support/social-welfare.html"
+  - "https://www.mhlw.go.jp/stf/newpage_67035.html"
+  - "https://www.toyotafound.or.jp/grant/research/"
 ---
+
 # 日本 研究助成金 map（2026 年度）
+
+
+## Wiki route
+
+This entry sits under [[governance/japan-general-foundation-establishment-requirements|日本 一般財団法人 設立要件・プロセス]] and should be read with [[INDEX|FinWiki index]].
 
 > [!info] TL;DR
 > [[governance/japan-general-foundation-establishment-requirements|一般財団法人]] / 研究機関 / 公益目的の研究プロジェクトが狙える主要な助成金を一覧化。助成金額は年度ごとに変動するため「2026 年度」のスナップショットとして記録。

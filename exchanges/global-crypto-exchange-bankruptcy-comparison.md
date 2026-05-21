@@ -21,6 +21,12 @@ sources:
 status: candidate
 ---
 
+# 暗号資産取引所 倒産処理 国際比較
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 2014-2026 年に発生した主要な暗号資産取引所 / 貸借業者の破綻案件 6 件以上 を、米国 Chapter 11 + 日本民事再生/破産 + 各国制度の枠組みで対比する。**顧客資産分別管理の有無** が弁済速度を決定する最大要因であり、制度設計の哲学差が顕著に表れた領域である。

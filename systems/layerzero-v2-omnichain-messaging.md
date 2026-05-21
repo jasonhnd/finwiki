@@ -14,8 +14,10 @@ status: candidate
 
 # LayerZero v2 · DVN 可配置的全链消息协议
 
-> [!info] TL;DR
-> LayerZero v2 是 100+ 链覆盖的通用跨链消息协议,核心创新是 DVN(Decentralized Verifier Network)可配置 —— 应用自选 N-of-M 验证者组合(Polyhedra zkBridge / Google Cloud / Animoca 等)。Stargate 在其上构建,是 USDT/USDC retail 跨链月均 $10B+ 的事实标准。DeFi + 长尾 + retail 主导。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -16,6 +16,11 @@ sources: []
 
 # 监管立法窗口前的战略买家收购模式
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 当一项关键监管立法进入 **最后 6–12 个月** 通过窗口，标的赛道会出现"VC 短期 N 倍 exit + 战略买家溢价抢购"的标准时序。Sequoia 在 2 个月内通过 Stripe 收购 Bridge 实现 5× exit，让 Stripe 在 GENIUS Act 通过前 3 个月拿下稳定币 issuance "皇冠位"。这是 fintech 监管周期内最可重复的 M&A 模式。
 

@@ -3,8 +3,8 @@ title: 信金中央金庫 (Shinkin Central Bank)
 aliases: ["信金中金", "信金中央金庫", "SCB", "Shinkin Central Bank", "全国信用金庫連合会", "全信連"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, cooperative-central, shinkin]
@@ -13,13 +13,19 @@ sources:
   - "Wikipedia: 信金中央金庫 (2026-05-19 抽出)"
   - "信金中央金庫 公式サイト (https://www.shinkin-central-bank.jp/)"
   - "信金中央金庫 ディスクロージャー誌 (2024 年度)"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
 ---
 
 # 信金中央金庫 (Shinkin Central Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-全国信用金庫業界（254 行・2024 時点 ^[ambiguous]）の **中央機関**。協同組織金融機関として設立、信用金庫から預け入れられた余資の運用と、信用金庫向け貸出を二大柱とする。総資産は **40〜50 兆円規模** ^[ambiguous] と推定される国内屈指の機関投資家。[[norinchukin]]（農林中央金庫＝農協系）と並ぶ「協同組織系中央銀行」の双璧で、海外債券・社債・株式・オルタナティブ投資を含む大規模運用ポートフォリオを持つ。非上場で会員（信用金庫 254 行）からの出資金で構成される。^[extracted]
+全国信用金庫業界（金融庁 registry では 2025-11-06 時点 254 金庫）の **中央機関**。協同組織金融機関として設立、信用金庫から預け入れられた余資の運用と、信用金庫向け貸出を二大柱とする。総資産は **40〜50 兆円規模** ^[ambiguous] と推定される国内屈指の機関投資家。[[norinchukin]]（農林中央金庫＝農協系）と並ぶ「協同組織系中央銀行」の双璧で、海外債券・社債・株式・オルタナティブ投資を含む大規模運用ポートフォリオを持つ。非上場で会員（信用金庫 254 行）からの出資金で構成される。^[extracted]
 
 ## 1. 公司结构
 
@@ -30,14 +36,14 @@ sources:
 **本社**：東京都中央区八重洲 1-3-7
 **上場**：非上場（協同組織金融機関、出資金は信用金庫 254 行が会員として保有）
 **法的根拠**：信用金庫法（1951 制定・1958 全面施行）
-**会員**：全国信用金庫（2024 時点 254 行 ^[ambiguous]）
+**会員**：全国信用金庫（金融庁 registry 2025-11-06 時点 254 金庫）
 
 ### 主要数値（推定・概況）^[ambiguous]
 
 | 項目 | 規模 |
 |---|---|
 | 総資産 | 約 40〜50 兆円規模 ^[ambiguous] |
-| 会員数（信用金庫）| 254 行（2024 時点）^[ambiguous] |
+| 会員数（信用金庫）| 254 金庫（金融庁 registry 2025-11-06 時点） |
 | 海外拠点 | ニューヨーク・ロンドン |
 
 > 注: 信金中金は非上場のため、有報ベースの開示は無く、ディスクロージャー誌が一次資料となる。最新値はディスクロージャー誌 / 半期報告を参照すべき。^[inferred]
@@ -100,7 +106,7 @@ sources:
 
 ## Counterpoints
 
-- **信用金庫数の減少**: 信用金庫は 1990 年代以降、合併・統合が進行し、ピーク時 400 行超 → 2024 時点 254 行 ^[ambiguous]。会員数の減少は中央機関としての規模・存在意義に影響する。^[inferred]
+- **信用金庫数の減少**: 信用金庫は 1990 年代以降、合併・統合が進行し、ピーク時 400 行超 → 金融庁 registry 2025-11-06 時点 254 金庫。会員数の減少は中央機関としての規模・存在意義に影響する。^[inferred]
 - **機関投資依存の金利感応度**: 総資産の相当部分が運用ポートフォリオであり、金利・クレジットスプレッド変動に対する感応度が高い。2008〜2009 リーマン期の運用損失はその脆弱性を露呈した。^[extracted][^inferred]
 - **中央機関と末端信用金庫のガバナンス**: 中央機関の運用方針・経営判断が会員信用金庫に十分共有・統制されているか、協同組織特有のガバナンス課題。^[inferred]
 - **[[norinchukin]] との対比**: 農中は海外クレジット投資で 2008・2022〜2024 と複数回の大規模損失を経験。信金中金も同型モデルゆえ、同様の運用リスクを構造的に抱える。^[inferred]
@@ -120,14 +126,16 @@ sources:
 - [[norinchukin]] — 農林中央金庫（同型の協同組織中央機関）
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク（協同組織と対照される株式会社型銀行）
 - [[ndfg]] — 地銀系 FG（地域金融機関のもう一つの軸）
+- [[banking/shinkin-bank-registry-japan]] — 信用金庫 254 金庫の registry index
 
 ## Sources
 
 - **Wikipedia: 信金中央金庫**（https://ja.wikipedia.org/wiki/信金中央金庫, 2026-05-19 抽出）
 - **信金中央金庫 公式サイト**（https://www.shinkin-central-bank.jp/）
 - **信金中央金庫 ディスクロージャー誌**（年次刊行、最新版は 2024 年度）
+- 金融庁: 信用金庫連合会・信用金庫免許一覧 (2025-11-06): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報（Wikipedia + 公式サイト + ディスクロージャー誌）ベースで構成。総資産規模・会員数等の数値は ^[ambiguous] 表記とし、最新値はディスクロージャー誌一次資料を要参照。協同組織ゆえ有報ベース開示が無く、メガバンクと比較して情報粒度は限定的。
+> confidence: **likely**。公開情報（Wikipedia + 公式サイト + ディスクロージャー誌 + 金融庁 registry）ベースで構成。総資産規模等の数値は ^[ambiguous] 表記とし、最新値はディスクロージャー誌一次資料を要参照。協同組織ゆえ有報ベース開示が無く、メガバンクと比較して情報粒度は限定的。

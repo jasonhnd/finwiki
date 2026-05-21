@@ -18,6 +18,11 @@ sources:
 
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 国内最大手暗号資産取引所の一つ。**2014-01-09 加納裕三 創業**、改正資金決済法施行直後の **2017-09 関東財務局長 第 00003 号** 取得（第一陣 11 社のうちの一角）。ビットコイン現物取引高で **国内トップ級**（年により [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] と首位争い）。2019 持株会社化（bitFlyer Holdings 設立）、**米国 / EU（ルクセンブルク）** に子会社展開。グループ独自プライベートチェーン「miyabi」を [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が運営。2024-2025 IPO 検討報道と並行して **創業者復帰・経営権争い** が表面化。JVCEA Type 1 業者。

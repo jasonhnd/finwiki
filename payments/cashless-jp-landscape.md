@@ -23,6 +23,11 @@ sources:
 
 # Japan cashless payment landscape
 
+
+## Wiki route
+
+This entry sits under [[payments/INDEX|payments index]]. Read it against [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] for peer / contrast context and [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan's cashless market is no longer a "future adoption" theme. METI's latest public release says the **2025 cashless payment ratio reached 58.0% / JPY 162.7 trillion**, after the 2024 ratio had already exceeded the older 40% target. Credit cards still dominate transaction value, while code payments are the fastest strategic battleground because they connect payments, points, BNPL, bank accounts, prepaid balances, and platform advertising.

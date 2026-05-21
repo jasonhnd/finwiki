@@ -14,8 +14,10 @@ status: candidate
 
 # Canton Network 概览 · DAML 智能合约的隐私机构链
 
-> [!info] TL;DR
-> Canton 是 Digital Asset 公司开发的隐私保护型 DLT,用 **DAML(Digital Asset Modeling Language)** 智能合约,核心创新是 **sub-transaction privacy**——每笔交易只对参与方可见,监管者可作为节点观察。2026-Q1 已有 600+ 机构、**$6T+ tokenized assets**(自我披露)、5 家 MMF 入驻 GS DAP。JPM Kinexys 2026-01 宣布主战场从 Base 迁回 Canton。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-daml-technical-spec|Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

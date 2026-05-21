@@ -24,6 +24,12 @@ sources:
 status: candidate
 ---
 
+# RWA (Real World Asset) tokenization × CEX 取扱
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 RWA (Real World Asset) tokenization = 実物資産 (米国債 / 不動産 / コモディティ / private credit) をオンチェーン token として発行する仕組み。BlackRock BUIDL (2024-03 launch · 米財務省 MMF) が触媒となり 2024-2026 急成長。総 RWA TVL は $12-20B (2026 推定) で、tokenized US Treasury が中心セグメント。

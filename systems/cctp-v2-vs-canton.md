@@ -14,8 +14,10 @@ status: candidate
 
 # CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙
 
-> [!info] TL;DR
-> CCTP V2(Circle 公链 USDC 流动性)与 Canton(JPM/GS/BNY 私链联盟)代表 2026 年机构数字资产的两条根本对峙路线。**JPM Kinexys 2026-01 明确不集成 CCTP V2**——这是公链中立流动性 vs 私链银行控制流动性的根本路线分歧,也是 §501 入榜地经济学的关键变量。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-overview|CCTP V2 概览 · Circle USDC 跨链 burn-and-mint]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

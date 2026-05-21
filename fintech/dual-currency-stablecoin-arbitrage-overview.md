@@ -14,6 +14,11 @@ status: candidate
 
 # 双币稳定币套利 · §501 时代唯一合法 FX 链上化路径
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > GENIUS Act §501 限定 stablecoin 发行 / 持有 / 转账的合规边界 · **只有"双币 / 多币 stablecoin 互转"是清晰合法的链上 FX 路径**。USDC ↔ EURC ↔ JPYC 三角套利结构是样本 —— interchange 成本可压到 0.01%(传统跨境 FX 1-3% 的 100×),在 $33T 全球支付轨道上即使捕获 1% 也是 $3.3B 年化收入机会。
 

@@ -14,8 +14,10 @@ status: candidate
 
 # 资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力
 
-> [!info] TL;DR
-> "ETF + RWA tokenization + 政治影响力"三角是**传统资管巨头进入加密的合规模板**——三栏互锁让任何单一监管事件都不会全盘动摇业务。Larry Fink / BlackRock(IBIT $80B + BUIDL $60B + Annual Letter 政治影响力)是 2026 年最完整标本,也是其他资管(Franklin / WisdomTree / Fidelity)的复制母版。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/christine-moy-talent-signal-jpm-apollo|关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

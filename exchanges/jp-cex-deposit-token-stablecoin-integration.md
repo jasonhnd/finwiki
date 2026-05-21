@@ -27,6 +27,11 @@ status: candidate
 
 # 国内 CEX × 預金トークン / EPI 統合戦略 — DCJPY / Progmat / JPYC 連携
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 2022-06 改正資金決済法により EPI（電子決済手段）三型 — **信託型 / 銀行型 / 資金移動業者型** — の制度が施行され、円ペッグ stablecoin と預金トークンの法的位置付けが確立した。既存 VASP は EPI 発行体ではないものの、2025-2026 にかけて取扱統合が急速に進行している。CEX × EPI の連携モデルが国内市場の流動性 hub 化を推進する局面に入りつつある。

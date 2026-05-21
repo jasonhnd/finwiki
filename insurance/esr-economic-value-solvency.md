@@ -22,6 +22,11 @@ sources:
 
 # ESR (Economic Solvency Ratio)
 
+
+## Wiki route
+
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 ESR is the insurer-level economic solvency ratio used to express whether available economic capital is sufficient against required risk capital. Exact formulas and naming vary by company and regulatory phase, so FinWiki should treat ESR as a capital-sufficiency signal, not a single universal accounting number.

@@ -16,6 +16,11 @@ sources:
 
 # 株式会社山形銀行
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 山形県を地盤とする**東北地区の単独地銀**。1896 (明治 29) 年「両羽銀行」として創業、1965 年現商号に変更。**東証 PRIME 8344**(1949 年上場)、第二地銀ではない**第一地方銀行**で、山形県内預金シェア No.1 の県内最大金融機関。第二地銀の[[jimoto-hd]]傘下・きらやか銀行とは県内競合関係。隣県では[[fidea-hd]]傘下・荘内銀行 (鶴岡市) ・北都銀行 (秋田) とエリアが重なる。**持株会社化せず単独地銀のまま**経営する東北地区の独立系。観光 (蔵王・山寺・銀山温泉) ・農業 (さくらんぼ生産日本一・米沢牛・つや姫) ・製造業 (精密機械・電子部品) の地域経済を支える。^[extracted]

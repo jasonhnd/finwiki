@@ -17,6 +17,11 @@ sources:
 
 # JP モルガン日本 (JPMorgan Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 米国最大の銀行 **JPMorgan Chase & Co.**（NYSE: JPM、総資産 約 4.0 兆ドル、G-SIB **Bucket 3** = +2.0% CET1 追加資本）の日本拠点。**1924 年に Guaranty Trust（後 JP モルガン前身の一つ）が東京支店設置** → 戦後再進出 → 2000 年代以降 IB・マーケッツ中心に拡大。日本では **JP モルガン証券（IB 主力）+ JP モルガン・チェース銀行東京支店（コーポレート銀行）+ JP モルガン・アセット・マネジメント + JP モルガン信託銀行** の 4 法人体制。リテール（Chase Bank）は日本未展開、邦銀リテール領域とは非競合。**M&A アドバイザリー / DCM / ECM / FX / 機関投資家サービス**で外資 IB 三強（vs [[goldman-sachs-japan]] / [[morgan-stanley-japan]]）の一角。^[extracted]

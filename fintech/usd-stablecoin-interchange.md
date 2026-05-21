@@ -16,6 +16,11 @@ sources: []
 
 # USD 稳定币互换市场
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > USDT、USDC、USDS、PYUSD 等 USD 稳定币之间的兑换、清算和结算本身构成一个独立的大规模市场。
 

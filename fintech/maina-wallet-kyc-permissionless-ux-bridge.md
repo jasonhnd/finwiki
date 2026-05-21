@@ -11,12 +11,20 @@ review_by: 2026-11-12
 confidence: possible
 evidence_count: 3
 challenges: 0
-source: session
 status: confirmed
 tags: [fintech, stablecoin, kyc, japan]
+sources:
+  - "https://www.digital.go.jp/policies/mynumber/"
+  - "https://www.soumu.go.jp/kojinbango_card/"
+  - "Public company disclosures on My Number Card / wallet identity initiatives."
 ---
 
 # マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解
+
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
 > マイナンバーカードと連携した本人確認機能を持つウォレットを銀行アプリのアプリ内アプリとして組み込めば、銀行 KYC 水準を満たしつつパーミッションレスに近い UX を実現できる。日本のリテール SC が陥る[[fintech/retail-stablecoin-dual-bind|二律背反]]を打破する有力解。証券系・暗号資産系の事業者が 2025 年内に出資済（公開）。

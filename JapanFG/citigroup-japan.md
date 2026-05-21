@@ -17,7 +17,13 @@ sources:
   - "Citigroup Inc. Annual Report 2024 (公開 IR)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
 ---
+
 # シティグループ・ジャパン (Citigroup Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hsbc-japan|HSBC ジャパン (HSBC Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

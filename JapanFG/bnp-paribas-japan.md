@@ -19,6 +19,11 @@ sources:
 
 # BNP パリバ日本 (BNP Paribas Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 仏 **BNP パリバ SA**（G-SIB Bucket 2 / 2025 FSB リスト、Mitsubishi UFJ FG と同列）の日本拠点群。**1867 年 横浜開設**（旧 Comptoir National d'Escompte de Paris = CEP）に遡る最古参の在日欧州銀行のひとつ。現在は **約 700 名規模**、銀行（東京支店）+ 証券（BNP パリバ証券）+ 資産運用（BNP パリバ AM ジャパン）+ 生損保（カーディフ生命・カーディフ損保）の 4 軸で、CIB（コーポレート・機関投資家銀行業務）+ IPS（投資・保護サービス）の 2 ドメインを担当。欧州系では [[hsbc-japan]] / [[deutsche-japan]] と並ぶ主要外資 IB プレゼンス。

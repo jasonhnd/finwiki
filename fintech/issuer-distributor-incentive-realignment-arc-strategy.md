@@ -14,6 +14,11 @@ status: candidate
 
 # Circle Arc 战略 · 发行方收回 50% 分成的 §501 终局
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Circle 2025.09 公布 Arc(自营 L1)的真正战略目标 = **在 Arc 上的 USDC 利息不需分给 Coinbase 50%** —— 不是技术问题 · 是经济问题。如果 USDC 在 Arc 上流通量从 $0 增长到 $5B · Circle 多保留的利息 = $5B × 4.5% × 50% = **$112.5M / 年** 纯增量收入(无需新发 USDC)。这是 stablecoin 发行方-分销方均衡重构的核心样本。
 

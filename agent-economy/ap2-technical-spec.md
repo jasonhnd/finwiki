@@ -14,8 +14,10 @@ status: candidate
 
 # AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter
 
-> [!info] TL;DR
-> AP2 的技术栈核心三件套:**Authorization Mandate(用户签发的 W3C VC)** + **Payment Intent(agent 提交的支付意图)** + **Wallet Adapter(抽象层 · 一份 mandate 可走 Google Pay / USDC / 银行 rails)**。Google 用其 fraud detection AI 给每个 Payment Intent 打 risk score,merchant 可设阈值。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/ap2-overview|AP2 · Google Agent Payments Protocol 概览]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

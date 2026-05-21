@@ -28,6 +28,11 @@ sources:
 
 # オーケーコイン・ジャパン株式会社（OKJ） — 日本暗号資産交換業者 overview
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > FSA 登録番号 関東財務局 第00020号 · JVCEA 会員 #1023 · 登録日 2020-03-30
 
 ## 1. 法人・株主

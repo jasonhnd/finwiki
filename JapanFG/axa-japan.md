@@ -15,7 +15,13 @@ sources:
   - "Wikipedia: AXA (2026-05-19 参照)"
   - "AXA グループ公式 Annual Report 2024"
 ---
+
 # アクサ・ジャパン (AXA Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

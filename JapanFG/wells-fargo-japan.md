@@ -17,6 +17,11 @@ sources:
 
 # ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank, N.A., Tokyo Branch)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 米 4 大商業銀行の一角 **Wells Fargo & Company**（NYSE: WFC、G-SIB Bucket 1）の在日支店。**法人特化型**で、米国企業の日本進出サポートおよび邦銀・日系企業の米国業務支援が主軸。リテール（個人向け）は日本展開なし。トランザクション・バンキング、為替・トレード・ファイナンス、グローバルキャッシュマネジメントが 3 本柱。米国本体は 2016 年以降の偽口座事件で経営課題を抱えつつ、2024 年以降は連邦準備制度の資産上限解除を視野に再成長フェーズへ。在日プレゼンスはシティ [[citigroup-japan]] / JP モルガン [[jpmorgan-japan]] / バンク・オブ・アメリカと比し小規模、ホールセール特化型ニッチ。^[extracted]

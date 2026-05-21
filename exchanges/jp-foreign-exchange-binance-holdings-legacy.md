@@ -28,6 +28,11 @@ sources:
 
 # Binance Holdings Limited — 日本FSA警告対象・無登録海外業者（歴史的記録）
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > **歴史的記録エントリ** · FSA 無登録状態: 2017年末〜2022年10月 · 警告書: 計2回（2018-03 / 2021-06） · 2022年10月 Binance Japan 株式会社の FSA 登録により無登録状態解消
 >
 > 現役の日本法人エントリ → [[exchanges/jp-exchange-binance-japan]]

@@ -18,6 +18,11 @@ sources:
 
 # GMO コイン (GMO Coin)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **GMO インターネットグループ** 傘下の暗号資産取引所。**関東財務局長 第 00006 号**（業界最初期登録の 1 つ）、JVCEA 第一種会員。**販売所 + 取引所 + レバレッジ取引** 3 軸 + **20 種以上の取扱通貨** で国内大手。親会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]] / GMO クリック証券 / [[gmo-aozora-net|GMO あおぞらネット銀行]] と並ぶ GMO 金融エコシステムの **暗号資産担当**。競合は [[bitflyer]] / Coincheck（[[monex-group]] 内）/ SBI VC Trade（[[sbi-hd]] 内）/ DMM Bitcoin / bitbank / [[bittrade]]。

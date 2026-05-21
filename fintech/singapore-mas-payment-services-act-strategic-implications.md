@@ -14,6 +14,11 @@ status: candidate
 
 # MAS 战略含义 + 与 HK 对比 · Circle SG hub + DBS/StanChart 通道
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Singapore = "合规美元 SC hub";HK = "灰色美元 SC 合规化试验场"。Circle 选 Singapore 作 APAC HQ(2023)= 押注 MAS-US MRA 早于 HK,2026-03 MRA 签署验证战略正确。DBS / Standard Chartered Singapore 是亚洲 institutional crypto custody 双寡头 · §501(d) 第一波亚洲机构 onboarding 核心节点。HK 第三波(2027-H2)滞后 Singapore 1.5 年 → 资本流先去 Singapore 再考虑 HK。
 

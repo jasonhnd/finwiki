@@ -28,6 +28,11 @@ sources:
 
 # Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > FSA 暗号資産交換業登録なし · JVCEA 非加盟 · B2B インフラベンダー · 米国本社（ニューヨーク）· 東京拠点あり（社員 5 名前後 · LinkedIn 確認）
 
 ## 1. 法人・株主

@@ -16,6 +16,11 @@ sources: []
 
 # L2 原生 DEX 反超 incumbent 模式
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > [!info] TL;DR
 > EVM 多链历史中，原生 DEX 在 L2 主场反超 incumbent（通常 Uniswap）极罕见。**Aerodrome 在 Base 上反超至 63% DEX 量份额**，是首个有完整复盘的案例。其机制 = ve(3,3) + L2 主导方利益绑定 + 关键 wrapped 资产配对池 + 跨链合并复制。
 
