@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-institutional-custody-five-pillars|global institutional custody five pillars]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 暗号資産 prime brokerage は機関投資家向けに (a) 統合口座 (multi-CEX cross-margin) (b) custody (c) lending (d) execution (e) reporting を一括提供する layer。伝統金融の Goldman / JP Morgan 機能と類似だが暗号資産特化。2024 BTC spot ETF 承認後の機関流入を背景に、2024-2026 年に急成長し、暗号資産機関 flow の中枢インフラとして定着しつつある。

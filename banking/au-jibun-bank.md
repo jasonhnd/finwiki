@@ -20,6 +20,11 @@ sources:
 
 # auじぶん銀行 (au Jibun Bank)
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 auじぶん銀行は au フィナンシャルホールディングス 100% のネット銀行。2008-06-17 設立、資本金 1,190 億円で、KDDI / au 金融圏に接続するスマホ中心の銀行ポジションを持つ。2026-04-01 時点の従業員数は 650 名、銀行コードは 0039。

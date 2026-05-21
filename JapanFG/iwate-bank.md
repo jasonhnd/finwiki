@@ -19,6 +19,11 @@ sources:
 
 # 株式会社岩手銀行 (The Bank of Iwate)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 岩手銀行は岩手県盛岡市を本店とする第一地方銀行。東北北部では [[JapanFG/fidea-hd|フィデア HD]]、[[JapanFG/proclair-hd|プロクレア HD]]、[[JapanFG/77-bank|七十七銀行]] と並べて、人口減少地域の地域金融を観察する基準点になる。岩手県内の預金・法人取引・震災復興金融・地域産業支援が中核。

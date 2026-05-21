@@ -14,8 +14,10 @@ status: candidate
 
 # 反加密 CEO 转向支持的被动适应案例 · Jamie Dimon / JPM
 
-> [!info] TL;DR
-> 长期反加密的传统金融 CEO 在监管 + 客户 + 竞争压力共振下被动转向支持的**被动适应模板**——决策稳定性低于早期信仰者,但一旦转向规模庞大(全球第一银行)。Jamie Dimon 2017-2024 长期称 BTC 为"欺诈" / "宠物石头",2024-Q4 后转支持 Kinexys + 2025-Q4 JPMD on Base 上线 = 银行公链代币化主动让步。
+
+## Wiki route
+
+This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

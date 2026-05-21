@@ -13,9 +13,18 @@ tags: [identity, tax-residency, jurisdictions, estate, high-net-worth]
 status: candidate
 evidence_count: 2
 type: wiki
+sources:
+  - "Public PwC, EY, KPMG, and tax-authority guides on individual tax residency and capital-gains treatment."
+  - "OECD CRS / FATCA public documentation."
+  - "Public tax-authority materials on statutory residence, exit tax, and deemed-disposition rules."
 ---
 
 # 跨境身份组合的税务杠杆
+
+
+## Wiki route
+
+This entry sits under [[finance/INDEX|finance index]]. Read it with [[securities/INDEX|securities index]] for adjacent context and [[money-market/INDEX|money-market index]] for the broader system boundary.
 
 > [!info] TL;DR
 > "身份不是护照，是税务切换期权"

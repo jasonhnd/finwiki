@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# AMM 設計の進化 — Uniswap v1/v2/v3/v4 + 異派 (Curve / Balancer / TraderJoe)
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 AMM (Automated Market Maker) は 2018 年 Uniswap v1 の登場以降、4 段階で進化し、並列して異派が発展した。設計の核は **constant product (x*y=k) → stable swap → concentrated liquidity → custom hooks** という流れで、各段階が DEX エコシステム全体の流動性効率・資本効率・拡張性を駆動してきた。オーダーブック型 CEX に対する DEX の代替性を成立させた根幹技術である。

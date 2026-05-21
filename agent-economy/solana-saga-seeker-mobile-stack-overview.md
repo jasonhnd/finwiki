@@ -14,8 +14,10 @@ status: candidate
 
 # Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)
 
-> [!info] TL;DR
-> Solana Saga(2023)+ Seeker(2025 量产 · 15 万台预订)是 crypto-native Android 手机,核心 Solana Mobile Stack(SMS)= Seed Vault(硬件级 keystore TEE)+ Mobile Wallet Adapter(MWA dapp 协议)+ Solana dApp Store(绕开 30% 抽成)。把 mobile wallet 从 app 内组件升级为 OS 级原语。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -14,8 +14,10 @@ status: candidate
 
 # Hyperledger Besu vs Canton · JPM 主战场迁移路径
 
-> [!info] TL;DR
-> JPMorgan 2026 起把机构主战场从 Quorum/Besu 迁往 Canton Network,2027 H1 完成。核心驱动是 DAML 比 Solidity 更适合金融合约 + Canton 原生 multi-party atomic settlement + application-level 数据隔离更适合监管。Besu 不被淘汰,而是降级为 EVM 兼容测试环境。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/hyperledger-besu-overview|Hyperledger Besu · EVM 兼容企业链(Quorum 进化)]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -24,6 +24,8 @@ sources:
 status: candidate
 ---
 
+# 国内 VASP セキュリティ・監査・ISMS 認証実態
+
 ## 概要
 
 国内 VASP は **FSA 監督指針 + JVCEA 自主規制規則 + 業界自主標準** の三層でセキュリティ + 監査義務を負う。法定要件に加え、**ISMS (ISO/IEC 27001)** や **SOC2 Type II 報告書** 等の第三者認証取得が事実上のスタンダード化しており、機関投資家オンボーディング + 海外連携 + B2B custody 受託の前提条件となっている。Coincheck NEM 流出 (2018) + DMM Bitcoin Lazarus 流出 (2024) を経て、認証取得は「任意だが取らないと業界に居られない」状態。

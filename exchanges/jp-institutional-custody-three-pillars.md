@@ -24,6 +24,8 @@ sources:
 status: candidate
 ---
 
+# 国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較
+
 ## 概要
 
 国内機関向けカストディ市場は **技術 (cold vs MPC) × 親会社 (国内 vs 海外)** の二軸で分化している。VASP の自社カストディ (bitFlyer / Coincheck / bitbank 等) と並行して、B2B vendor 層 (機関・他 VASP・金融機関向けインフラ供給) が形成されており、その中核に Komainu / Ginco / Fireblocks Japan の三社が位置する。

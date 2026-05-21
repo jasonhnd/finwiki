@@ -14,8 +14,10 @@ status: candidate
 
 # 嵌入式钱包网络效应 · 集成商而非钱包本身的护城河
 
-> [!info] TL;DR
-> Privy / Coinbase CDP / Magic / Web3Auth 等嵌入式钱包重新定义"钱包" —— 用户**不知道自己有钱包** · 签名 / key / gas 完全后端化。**关键洞察:网络效应不来自 wallet 本身 · 而来自集成商生态**。AWS Bedrock AgentCore Payments 2025.07 选 Privy 作为 default wallet provider · 是这个范式被巨头确认的范式打通时刻。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe 子公司的嵌入式自托管钱包(总览)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

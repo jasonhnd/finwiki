@@ -14,6 +14,11 @@ status: candidate
 
 # First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > First Digital USD (FDUSD) 由香港 First Digital Trust 发行,2023-06 上线作为 BUSD (NY DFS 关停) 的 Binance 主交易对替代,2026-Q1 MCap **~$3B**。FDT 是 HKMA SC 牌照第一阶段 9 家申请人之一,2025-08 申请,但因 **Justin Sun 关联实体储备争议**(2024-12 The Block 调查 + 2025-Q1 短暂脱锚) 被 HKMA 要求剥离,牌照推迟至 2026-Q3。FDUSD 是亚太"灰圈 → 白圈"转型的最大体量样本,也是 HKMA 的 "牌照样板压力测试"。
 

@@ -17,6 +17,11 @@ sources:
 
 # アイフル株式会社 (Aiful)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 京都発祥の消費者金融大手。**1967-04 福田吉孝が個人事業「丸三」として京都で創業**、1978 に「アイフル」に改称。業態は個人向け無担保ローン主軸（カードローン）+ クレジットカード（ライフカード子会社）+ 事業者ローン。**アコム（[[mufg]] 内）・プロミス（[[smfg]] 内）と並ぶ「3 大消費者金融」のうち、メガバンク系列に属さない独立系唯一の大手** ★。2006-2010 のグレーゾーン金利・過払い金返還問題で経営危機 → 事業再生 ADR 経由で再建。東証 PRIME 8515 上場。^[extracted]

@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# 国内 VASP コールド保管 95% + 分別管理制度
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 制度概要
 
 改正資金決済法施行規則（2020-05 施行）により、顧客から預託された暗号資産の **95% 以上をコールドウォレット（オフライン環境）で保管する義務**が国内 VASP に課された。残り 5% 以下のみがホット運用許容（出金原資・流動性確保用）。直接のトリガーは [[exchanges/jp-vasp-incident-history]] の 2018-01 Coincheck NEM 580 億円流出事件。事件当時 NEM 全量がホット保管下にあった反省から、業界全体への規制反射として導入された。違反は業務改善命令の根拠となる（[[exchanges/fsa-business-improvement-orders-history]] 参照）。

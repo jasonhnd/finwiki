@@ -1,13 +1,13 @@
 ---
 title: チューリッヒ保険会社 (Zurich Japan)
-aliases: ["Zurich Japan", "Zurich Insurance Japan Branch", "チューリッヒ", "チューリッヒ保険", "チューリッヒ生命", "Zurich Life Insurance Japan"]
+aliases: ["Zurich Japan", "Zurich Insurance Japan Branch", "チューリッヒ", "チューリッヒ保険"]
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19
 last_tended: 2026-05-19
 review_by: 2026-11-15
 confidence: likely
-tags: [JapanFG, non-life-insurance, life-insurance, foreign-japan-subsidiary, direct-insurance]
+tags: [JapanFG, non-life-insurance, foreign-japan-subsidiary, direct-insurance]
 status: active
 sources:
   - "Wikipedia: チューリッヒ保険会社 (2026-05-19 参照)"
@@ -15,7 +15,13 @@ sources:
   - "Wikipedia: Zurich Insurance Group (2026-05-19 参照)"
   - "Zurich Insurance Group Annual Report 2024 (公式 IR)"
 ---
+
 # チューリッヒ保険会社 (Zurich Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

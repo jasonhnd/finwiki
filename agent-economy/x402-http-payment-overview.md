@@ -14,8 +14,10 @@ status: candidate
 
 # x402 · HTTP 402 复活的 AI agent 支付协议(总览)
 
-> [!info] TL;DR
-> x402 是 Coinbase 2025-05 发布的开源协议,把 HTTP 402 Payment Required(1996 年定义但 30 年未启用)真正落地 —— 任何 API endpoint 可 "先付钱再返回数据",默认结算 USDC on Base,亦支持 Solana / 其他 L2。这是 AI agent 经济的 "micropayment-by-API" 基础设施 —— agent 调一次 API 付 $0.001 比订阅模式更适合 agent workflow。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

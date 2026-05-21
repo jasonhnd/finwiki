@@ -14,6 +14,11 @@ status: candidate
 
 # MiCA 跨境含义 · USDC ↔ EURC 双向互认 + USA-EU MRA 2026-Q3
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > MiCA + GENIUS Act §501 协同形成 U.S.-EU MRA 基础(预计 2026-Q3 签署)。USDC EU + EURC 双品牌互认是技术原型。Circle Europe 是 MiCA EMT 第一批持牌发行方,Société Générale STBL 是欧洲银行系 SC 代表。§501(d) 第一波清单预期欧盟入榜。MiCA 是三圆 MRA 的欧盟支柱。
 

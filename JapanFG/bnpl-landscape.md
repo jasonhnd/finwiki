@@ -22,6 +22,11 @@ sources:
 
 # Japan BNPL landscape
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-card|楽天カード (Rakuten Card)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan's BNPL / "あと払い" market is best understood as a **merchant checkout and consumer-credit boundary problem**. [[JapanFG/paidy|Paidy]] is the anchor case because PayPal acquired it to expand domestic Japanese payment relevance, but BNPL also overlaps with credit cards, installment sales, convenience-store payment, wallet balances, and loyalty-led checkout.

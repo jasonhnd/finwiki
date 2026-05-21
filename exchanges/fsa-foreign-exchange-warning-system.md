@@ -22,6 +22,12 @@ sources:
 status: candidate
 ---
 
+# FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 制度概要
 
 2017-04 施行の改正資金決済法は、日本居住者向けに無登録で暗号資産交換業を勧誘する行為を禁じた。違反した海外事業者に対し、FSA は三段階の措置を講じる:

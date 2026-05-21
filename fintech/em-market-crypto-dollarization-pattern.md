@@ -16,6 +16,11 @@ sources: []
 
 # 新兴市场加密美元化模式
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 新兴市场（拉美、非洲、印度）的加密采用本质上是**美元化与抵御本币贬值**的需求,而非"去中心化"愿景的实现。USDT on Tron 与 USDC on Solana / Polygon 已经成为家庭储蓄、跨境汇款与商业结算的**事实美元代理**。其结构性结果是:**加密 = 加速美元化**（并非"去美元化"）,这与早期 cypherpunk 理想完全相反。
 

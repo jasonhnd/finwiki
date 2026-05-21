@@ -14,8 +14,10 @@ status: candidate
 
 # Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线
 
-> [!info] TL;DR
-> Canton 联盟围绕 MMF tokenization 形成一套完整 stack:**JPM JPMD(cash leg)+ GS DAP(MMF leg)+ BNY LiquidityDirect(custody/客户入口)+ DTCC Project Ion(Treasury underlying)** 全覆盖机构 MMF 全生命周期,**且没有 BlackRock 直接参与的环节**——BlackRock 只是被动入驻的资产管理人之一。这是 Canton 联盟对 BlackRock BUIDL 公链路线最强的结构性反击。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概览 · DAML 智能合约的隐私机构链]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

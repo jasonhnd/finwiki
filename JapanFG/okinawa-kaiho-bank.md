@@ -3,13 +3,15 @@ title: 株式会社沖縄海邦銀行
 aliases: ["沖縄海邦銀行", "海邦銀行", "かいぎん", "海銀", "Okinawa Kaiho Bank", "The Okinawa Kaiho Bank, Ltd."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa, second-tier]
 status: active
 sources:
+  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.kaiho-bank.co.jp/about/kigyo/gaiyo/"
   - "Wikipedia: 沖縄海邦銀行 (公開項目)"
   - 沖縄海邦銀行 公式サイト (https://www.kaiho-bank.co.jp/) 沿革
   - 沖縄海邦銀行 ディスクロージャー誌 (公表分)
@@ -18,6 +20,11 @@ sources:
 ---
 
 # 株式会社沖縄海邦銀行
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

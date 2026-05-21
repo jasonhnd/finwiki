@@ -14,6 +14,11 @@ status: candidate
 
 # CFTC vs SEC 加密管辖权之争 · 商品证券二分
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 美国加密监管核心问题:BTC/ETH = commodity(CFTC 管)vs SC/Token = security(SEC 管)。Gensler 时代(2021-2025-01)SEC 强硬扩张管辖至几乎所有 token;Atkins/Peirce 2025-02 撤诉 Coinbase/Kraken/Binance 标志 SEC 收缩。CLARITY Act(2026 重启)+ FIT21 立法预期完成商品/证券清晰划界。
 

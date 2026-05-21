@@ -16,6 +16,11 @@ sources:
 
 # 岩井コスモホールディングス
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **大阪地盤の中堅独立系証券持株会社**（東証 PRIME 8707）。1918 年 岩井宇次郎 が大阪で創業した岩井証券をルーツとし、2010-04 に旧 岩井証券と旧 コスモ証券が経営統合して**岩井コスモ証券**を発足、同月 持株会社化により 岩井コスモ HD が成立した。対面リテール中心の中堅独立証券として、関西基盤に米国株・新興国株などの海外仲介、IPO 引受、コンサルティング型営業を展開する。競合は [[aizawa-sg]] / [[okasan-sg]] / [[tokai-tokyo-fh]] / [[matsui-sec]] 等の中堅独立証券グループ。^[extracted]

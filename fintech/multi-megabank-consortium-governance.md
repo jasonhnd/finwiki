@@ -14,6 +14,11 @@ sources: []
 
 # 多巨行联合体治理
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Fintech 基础设施を「単一銀行」「複数銀行 JV」「独立企業 + 銀行少数持株」の **3 つの治理モデル** で比較すると、**Progmat 型(独立企業 + non-controlling stake 設計)が最も拡張性が高い**。JPMorgan Kinexys は単一銀行型、BIS Project Agorá は中央銀行コンソーシアム型、Progmat は独立企業型 —— 各々が要求する規制環境と意思決定速度のトレードオフが異なる。
 

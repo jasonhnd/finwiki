@@ -14,6 +14,11 @@ status: candidate
 
 # IRS 1099-DA · 美国加密税务报告强制
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > IRS Form 1099-DA(Digital Assets)是美国加密资产强制税务报告表,2025-01 生效,2026 申报年度首次落地。所有 broker(包括交易所 / 钱包 / DeFi 前端 / 部分支付通道)必须报告客户加密交易给 IRS。与 CARF(OECD 跨境)协同 = **跨境加密匿名性彻底终结**。1099-DA + CARF + GENIUS §501 链级 freeze = 三重监管闭环。
 

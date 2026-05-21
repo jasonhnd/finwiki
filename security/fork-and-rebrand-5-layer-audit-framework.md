@@ -16,6 +16,11 @@ sources: []
 
 # Fork and Rebrand 项目的五层审计框架
 
+
+## Wiki route
+
+This entry sits under [[security/bytecode-forensic-three-tier-verify|智能合约 bytecode forensic — 三层 verify 技术]]. Read it against [[systems/INDEX|systems index]] for peer / contrast context and [[INDEX|FinWiki index]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 当项目方通过复制（Fork）知名开源协议（如 Uniswap、Compound、GMX）并重新包装品牌（Rebrand）上线时，传统的单体代码审计会产生大量盲区。**五层审计框架（5-Layer Audit Framework）** 是专门针对此类项目设计的系统化安全与溯源审计方法，涵盖从代码差异、已知漏洞遗传、编译指纹、团队关联到合规风险的全方位排查。
 

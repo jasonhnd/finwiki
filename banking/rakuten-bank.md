@@ -20,6 +20,11 @@ sources:
 
 # 楽天銀行 (Rakuten Bank)
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/paypay-bank|PayPay 銀行 (PayPay Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 楽天銀行は楽天グループ内のインターネット銀行で、楽天市場・楽天証券・楽天 Pay などの利用導線と結びついた「生活口座」化が中核。公式発表では、2026-03 末時点で非連結口座数 1,807 万、預金残高 12.9 兆円に達しており、単独ネット銀行としては国内最大級の規模を持つ。

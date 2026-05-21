@@ -16,6 +16,11 @@ sources: []
 
 # 组合赢家结构（Portfolio Winner Structure）
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立投资策略（Visa 双线模式）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 当一个层正在多极化时，最佳战略位置是"**给所有极都供货的层**"。这种结构在 1990s-2010s 由 ARM Holdings 在芯片 IP 市场实现，在 2024-2030s 由 Visa 在稳定币 / AI Agent 经济中复制。"组合赢家"**不押注哪家赢，而是让所有交战方都成为客户**。
 

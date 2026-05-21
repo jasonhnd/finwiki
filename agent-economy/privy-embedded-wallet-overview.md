@@ -14,8 +14,10 @@ status: candidate
 
 # Privy · Stripe 子公司的嵌入式自托管钱包(总览)
 
-> [!info] TL;DR
-> Privy 是 2021 由 Henri Stern + Asta Li 创办的 embedded wallet infrastructure,2025-06 被 Stripe 收购(推测 $300-500M)。30 行代码集成 self-custodial 钱包,MPC + TEE 切片私钥(用户 Passkey / WebAuthn + Privy TEE),用户用 email/Google 登录无感 onboarding。截至 2026-Q1 已有 110M+ 钱包。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/embedded-wallet-network-effects-moat|嵌入式钱包网络效应 · 集成商而非钱包本身的护城河]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

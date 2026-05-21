@@ -14,8 +14,10 @@ status: candidate
 
 # ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe
 
-> [!info] TL;DR
-> ERC-4337 是 2025-2026 fintech-as-wallet 浪潮的技术底座。**Privy(被 Stripe 收购)+ Coinbase CDP Wallets + Alchemy Account Kit + Pimlico / ZeroDev(B2B infra)+ Safe{Core}(机构 multi-sig)** 形成完整 embedded wallet 生态。**这直接动摇 Coinbase / Binance 等 CEX 的"托管"价值主张**——Stripe / Robinhood / PayPal / Revolut 都可以发行 self-custodial wallet 给用户而无需用户理解 seed phrase。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概览 · Account Abstraction 的应用层实现]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -14,6 +14,11 @@ status: candidate
 
 # DORA · EU Digital Operational Resilience Act 概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > DORA(Regulation (EU) 2022/2554)2025-01-17 全面生效,对欧盟所有金融机构 + 其 critical ICT 第三方供应商(含 cloud / wallet provider / blockchain infrastructure)施加 5 大支柱要求:ICT risk management / incident reporting / digital operational resilience testing / third-party risk / information sharing。与 MiCA 形成"业务 + 韧性"双轨监管。
 

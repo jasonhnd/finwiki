@@ -17,6 +17,11 @@ sources:
 
 # 東海東京 FH (Tokai Tokyo Financial Holdings)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 中京 (名古屋) 本拠の**中堅独立系証券持株会社**。2009-04-01 東海東京証券を中心に持株会社化。最大の戦略的特徴は**地銀との合弁証券モデル**で、西日本シティ TT 証券・池田泉州 TT 証券・福井銀行 TT 証券・浜銀 TT 証券・とちぎん TT 証券・愛媛銀行系・四国アライアンス系など多数の地域銀行と JV を組み、地銀の証券機能を補完する「地域連携型ハイブリッド証券」モデルを確立。**競合**は同じ名古屋系の [[okasan-sg]] (岡三証券グループ)、および対面 5 大証券。東証 PRIME 8616。

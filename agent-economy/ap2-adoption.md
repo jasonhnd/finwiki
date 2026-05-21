@@ -14,8 +14,10 @@ status: candidate
 
 # AP2 采用版图 · Google 闭环 vs 协议四国杀
 
-> [!info] TL;DR
-> AP2 是 Google 在 agent 经济的 wallet 站位——靠 **Google Pay 6 亿用户 + Gemini 数亿触点 + W3C VC 标准影响力 + fraud detection AI** 四个底座形成 agent-payment 闭环,直接对标 OpenAI(暂无 wallet)+ Anthropic(ACP 但无 wallet)+ Stripe(via Privy 但无 agent)。2026-Q2 起 Shopify/Square 等 merchant pilot 启动。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

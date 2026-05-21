@@ -14,8 +14,10 @@ status: candidate
 
 # Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)
 
-> [!info] TL;DR
-> CCIP 是 Chainlink 的机构级跨链消息协议,核心特征是 OCR2(预言机共识)+ RMN(独立 Risk Management Network 第二网络)双层验证 + 统一保险。SWIFT + 7 大银行 2024-09 完成首次 tokenized asset 跨链 settlement pilot,2026-Q3 计划成为 SWIFT 的 on-chain messaging extension —— 这是 Chainlink 估值的核心叙事。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

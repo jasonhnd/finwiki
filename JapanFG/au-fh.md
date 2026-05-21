@@ -19,6 +19,11 @@ sources:
 
 # au フィナンシャルホールディングス (au-FH)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/paypay-fg|PayPay 金融グループ]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 KDDI 100% 子会社、KDDI 金融経済圏の持株会社。**2019-04-01 設立**。傘下に **auじぶん銀行 / au PAY カード / au PAY / au PAY 損害保険 / auアセットマネジメント** 等。2025-01-31 MUFG から auじぶん銀行 全株を取得（対価として旧 auカブコム証券 → 三菱 UFJ eスマート証券 を MUFG に売却）→ **銀行 100% 子会社化が完了**。**FY2026/3 営業利益 432 億円**（前期 406 億円、+6.4% / CAGR FY2023+ **30.4%**）、**総資産 約 9.3 兆円**。**2026-05-12 KDDI が auFH の東証上場準備開始を公式適時開示** — 通信系 FG 初の IPO 候補化（時期未定、上場後も KDDI は主要株主継続予定）。au Ponta + 2024-07 Lawson 50/50 JV により「通信 × コンビニ × 金融」生態圏を構築。通信系 FG 4 極（[[ndfg]] / au-FH / [[paypay-fg]] / [[rakuten-fg]]）の一角。^[extracted]

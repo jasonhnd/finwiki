@@ -14,6 +14,11 @@ status: candidate
 
 # Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Apollo Diversified Credit Securitize Fund (ACRED) 2025-01-30 上线,部署 **7 条链**(含 Circle Arc + Sei),Wormhole 跨链。Christine Moy(ex-JPMorgan Onyx)操盘,Apollo $700B+ alternative asset 平台背书。ACRED 是第二梯队 tokenized fund 中**最具独立生存能力**的玩家——占住 private credit 代币化标杆位置,**不与 BUIDL 在同一资产赛道**,因此难以被挤压。
 

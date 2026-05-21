@@ -20,6 +20,11 @@ sources:
 
 # 沖縄振興開発金融公庫 (ODFC)
 
+
+## Wiki route
+
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/nexi|NEXI (Nippon Export and Investment Insurance)]] for peer / contrast context and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 沖縄振興開発金融公庫 is a government-affiliated financial institution created for Okinawa-specific policy finance. It was established on 1972-05-15, when Okinawa returned to Japan, to provide centralized and comprehensive policy-based finance for Okinawa.

@@ -17,6 +17,11 @@ sources:
 
 # 上田八木短資株式会社 (Ueda Yagi Tanshi)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/central-tanshi|セントラル短資株式会社 (Central Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本 3 大短資会社の一角を担う独立系短資会社。**2001-04 上田短資 + 八木短資 合併**で発足。短期金融市場（コール市場・手形売買・CD/CP）の仲介と日銀オペレーション対手を中核業務とする。短資業界は 2009 リーマン後の超低金利環境で長期低迷したが、**2024-03 マイナス金利解除**により業界マージン改善期待が立ち上がっている。非上場・独立系で、メガバンク・地銀との取引集中型ビジネスモデル。^[extracted]

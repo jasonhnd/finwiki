@@ -25,6 +25,12 @@ sources:
 status: candidate
 ---
 
+# クロスチェーン bridge と CEX 入出金経路 — Wormhole / LayerZero / Axelar / Hyperlane / CCIP 比較
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 CEX は通常複数 chain (Ethereum / Solana / BSC / Polygon / Arbitrum / Optimism / Base / Avalanche 等) で同 token の入出金を提供する。内部的に CEX 自身が cross-chain bridge を運用するパターンと、vendor bridge (Wormhole / LayerZero / Axelar / Hyperlane / CCIP) を経由するパターンが共存。ユーザから見れば「USDT (ERC20)」「USDT (TRC20)」のような network 選択 UI として現れるが、裏側は wrapped token + lock-mint or burn-mint の bridge プロトコルが動いている。

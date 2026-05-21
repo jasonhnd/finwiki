@@ -14,8 +14,10 @@ status: candidate
 
 # Hyperlane 概览 · Permissionless Cross-chain Interoperability
 
-> [!info] TL;DR
-> Hyperlane 是当前唯一 **permissionless** 的通用跨链消息协议——任何人都可以把任意 chain(EVM / Cosmos / Solana / Move)接入网络 · 无需 Hyperlane 团队批准。核心创新是 **Interchain Security Modules(ISM)**——开发者自选验证方案(multisig / Optimistic / ZK / restaking) · 把信任假设外包出去。在 50+ 链上线 · 是 Cosmos / Solana / 多链应用接入 EVM 生态的关键基础设施。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

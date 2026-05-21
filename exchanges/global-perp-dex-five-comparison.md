@@ -24,6 +24,11 @@ status: candidate
 
 # グローバル Perp DEX 主要 5 社比較
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 Perp (Perpetual Futures) DEX は CEX 派生取引 (Binance / Bybit / OKX) のオンチェーン代替として、レバレッジ + funding-rate 機構をスマートコントラクトで再現する系統。設計は CLOB (Central Limit Order Book on-chain) と AMM/oracle-pricing の 2 大分岐に明確に分かれる。CLOB は Hyperliquid と dYdX v4 が主導し、AMM/oracle pricing は GMX と Drift が代表する。2024-2026 期は Hyperliquid が圧倒的台頭を見せ、CEX 並みの latency と注文板 UX を on-chain で実現した点で先行する。CEX との取引高対比は ([[exchanges/global-cex-top10-comparison]])、spot DEX は ([[exchanges/global-dex-major-five-comparison]]) を参照。

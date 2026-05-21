@@ -20,6 +20,11 @@ sources:
 
 # ssjbank 誤リンク監査
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 `ssjbank` は公式に確認できる日本の金融機関名ではなく、FinWiki 内では [[JapanFG/proclair-hd|proclair-hd]] の「七十七銀行・宮城ベース」という文脈から発生した誤リンクと判断する。正しい参照先は既存の [[JapanFG/77-bank|七十七銀行]]。`SBJ銀行` は実在するが、公式英名は Shinhan Bank Japan であり、このリンク文脈とは一致しない。

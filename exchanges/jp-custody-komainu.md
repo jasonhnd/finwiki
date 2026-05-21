@@ -28,6 +28,11 @@ sources:
 
 # Komainu — 機関投資家向けデジタル資産 custody 専業
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > Jersey FSC 登録（2019）· UK FCA Crypto 登録（2025）· VARA（Dubai）登録（2023）· **日本拠点なし / 日本 FSA 未登録**
 
 ## 1. 法人・株主

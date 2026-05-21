@@ -13,7 +13,13 @@ sources:
   - "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)"
   - "Wikipedia: 十六銀行 (2026-05-19 抽出)"
 ---
+
 # 十六 FG (Juroku Financial Group)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

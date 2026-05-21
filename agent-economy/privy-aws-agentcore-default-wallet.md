@@ -14,8 +14,10 @@ status: candidate
 
 # Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位
 
-> [!info] TL;DR
-> 2026-05-07 AWS Bedrock AgentCore Payments 发布 · 把 Privy(Stripe 子公司)+ Coinbase CDP 并列为默认 wallet provider,Circle / Arc / Anchorage 明确不在默认列表。这是 AI agent 经济基础设施的关键卡位:AWS 站在 Stripe + Coinbase 一侧,Circle 被边缘化 —— 反映 Coinbase / Circle 2023 分手后 AWS 选边站的战略后果。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

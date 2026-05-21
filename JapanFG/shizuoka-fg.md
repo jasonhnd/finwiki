@@ -3,8 +3,8 @@ title: しずおか FG (Shizuoka FG)
 aliases: ["Shizuoka FG", "Shizuoka Financial Group", "しずおかフィナンシャルグループ", "株式会社しずおかフィナンシャルグループ", "静岡 FG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -16,9 +16,14 @@ sources:
 
 # しずおか FG (Shizuoka FG)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-静岡県地盤の単独地銀持株会社（地銀単体としては国内最大級の一角）。2022-10-03 静岡銀行が単独株式移転で持株会社化して発足。**静岡県内 No.1 地盤（県内シェア圧倒・製造業集積地）+ モンゴル等海外進出 + 県内同業 [[ssnb|スルガ銀行]]・[[ndfg|清水銀行 (NDFG 系)]] との並存**。単独地銀の持株会社化により資本効率改善と M&A 余地を確保する戦略。
+静岡県地盤の単独地銀持株会社（地銀単体としては国内最大級の一角）。2022-10-03 静岡銀行が単独株式移転で持株会社化して発足。**静岡県内 No.1 地盤（県内シェア圧倒・製造業集積地）+ モンゴル等海外進出 + 県内同業 [[suruga-bank|スルガ銀行]]・[[shimizu-bank|清水銀行]] との並存**。単独地銀の持株会社化により資本効率改善と M&A 余地を確保する戦略。
 
 ## 1. 公司结构
 
@@ -84,8 +89,8 @@ sources:
 
 - **静岡県 = 製造業集積地**：人口約 360 万（全国 10 位前後）、自動車（スズキ・ヤマハ発動機・トヨタ系）、楽器（ヤマハ・ローランド・河合楽器）、食品・お茶等の有力中堅企業集積。これらの main bank ポジションが収益基盤
 - **県内同業との並存**：
-  - [[ssnb|スルガ銀行]]（静岡県沼津本店、第二地銀）── 県東部の競合、過去のかぼちゃの家投資問題で経営再建中
-  - [[ndfg|清水銀行 等]] ── 県内中小地銀との競合・棲み分け
+  - [[suruga-bank|スルガ銀行]]（静岡県沼津本店、第二地銀）── 県東部の競合、過去のかぼちゃの家投資問題で経営再建中
+  - [[shimizu-bank|清水銀行 等]] ── 県内中小地銀との競合・棲み分け
 - **県内シェア圧倒**だが、人口減と若年層流出は中長期の構造課題
 
 ### 海外戦略
@@ -129,7 +134,7 @@ sources:
 
 - しずおか FG 設立後の中計（2024〜）の進捗実績は？ 資本効率 / ROE 改善度
 - 持株会社化後の新規 M&A・新業態進出事例は？ 銀行本体では取得不可だった案件
-- 県内同業（[[ssnb|スルガ]] / 清水銀行 等）との再編可能性は？
+- 県内同業（[[suruga-bank|スルガ]] / [[shimizu-bank|清水銀行]] / [[shizuoka-chuo-bank|静岡中央銀行]] 等）との再編可能性は？
 - モンゴル MFG 銀行 等の海外子会社の収益貢献度は？
 - デジタル戦略（[[fukuoka-fg|FFG]] みんなの銀行のような独自デジタルバンク構想等）の有無
 - 静岡県製造業の EV シフト・脱炭素転換に対する main bank としての対応戦略
@@ -137,7 +142,7 @@ sources:
 ## Related
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク 3 行）
-- [[fukuoka-fg]] · [[ssnb]] · [[ndfg]]（地銀・第二地銀群）
+- [[fukuoka-fg]] · [[suruga-bank]] · [[shimizu-bank]] · [[shizuoka-chuo-bank]]（地銀・第二地銀群）
 - [[banking/minna-bank-baas-model]]（地銀デジタル戦略比較）
 
 ## Sources

@@ -16,6 +16,11 @@ sources:
 
 # 株式会社マネーフォワード (Money Forward)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/freee|freee 株式会社 (freee K.K.)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大の PFM (Personal Financial Management) + 中小企業向け会計 SaaS のリーディング企業。**個人家計簿アプリ「マネーフォワード ME」(1500 万人超ユーザー) と法人向け「マネーフォワード クラウド」の両軸**。創業者・**辻庸介** (元マネックスグループ) が 2012-05-18 設立、2017-09-29 東証マザーズ上場 → 2022 東証グロース → 東証 PRIME (3994)。**1500 行以上の金融機関 API 連携** が技術的堀。2025-04-15 MUFG との JV「Biz Forward」(ファクタリング) 持分を単独取得し独立性強化。中計の黒字化計画延期で株価軟調も、SaaS ARR 拡大基調。^[extracted]

@@ -23,6 +23,11 @@ sources:
 
 # みんなの銀行 BaaS model
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/mercari-bank-license-stack|メルカリバンク license stack]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 みんなの銀行の BaaS は、銀行機能を外部アプリへ埋め込む **API提供モデル** と、パートナー企業のブランドを持つ **パートナー支店モデル** の組み合わせで動く。重要なのは、差分が「銀行ライセンスの有無」ではなく、ユーザー接点・ブランド・API連携の深さにある点。[[banking/mercari-bank|Mercari Bank]] は、メルカリの強い生活導線にこの BaaS を載せた代表例。

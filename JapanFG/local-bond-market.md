@@ -22,6 +22,11 @@ sources:
 
 # Japan local government bond market
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/japan-policy-finance-map|Japan policy-finance map]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Japan's local government bond market is the capital-market interface of local public finance. It includes public offering local bonds, jointly issued local government bonds, private placements / bank loans, and funding from public channels such as the Japan Finance Organization for Municipalities.

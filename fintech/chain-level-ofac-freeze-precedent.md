@@ -16,6 +16,11 @@ sources: []
 
 # 链级 OFAC freeze = 美元链级霸权
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > GENIUS Act §§504、Travel Rule 与 OFAC real-time feed 协同创造了**前所未有的链级金融制裁能力**。**Bybit Hack 后 30 分钟内 Circle 即冻结了 $45M USDC** —— 这是传统 SWIFT 与银行制裁体系无法达到的响应速度。"链级 OFAC"将成为 2026 年之后金融监管的新基线,所有合规稳定币 issuer 必须在 day-1 提供支持。
 

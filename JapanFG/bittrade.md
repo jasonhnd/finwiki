@@ -17,6 +17,11 @@ sources:
 
 # ビットトレード (BitTrade)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本国内の暗号資産交換業者中堅枠。**旧 Huobi Japan が 2022-08 に「BitTrade」へ再改称**し、グローバル Huobi 本体（Justin Sun 関連）からの分離印象を打ち出した。**関東財務局長 第 00007 号**登録、JVCEA 第一種会員。取扱通貨数は国内最多級（2024 時点で 30+ 通貨）でロングテール戦略を取る。bitFlyer / Coincheck / GMO コイン / SBI VC Trade の次の中堅ポジション。^[extracted]

@@ -21,6 +21,11 @@ sources:
 
 # 三菱 HC キャピタル (Mitsubishi HC Capital)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 三菱 HC キャピタルは Mitsubishi / MUFG 系譜の大手リース・アセットファイナンス会社。公式資料では FY2024 net income 1,351 億円、2025-03 末 total assets 11.7 兆円、従業員 8,380 人、20 か国超で事業展開とされる。[[JapanFG/orix-corp|ORIX]] と比較する際は、銀行系・商社系の asset finance platform として見る。

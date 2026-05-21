@@ -13,12 +13,18 @@ tags: [fire, personal-finance, retirement, safe-withdrawal-rate]
 status: confirmed
 evidence_count: 3
 type: wiki
+sources:
+  - "Cooley, Hubbard, and Walz, 1998 Trinity Study on retirement spending."
+  - "William Bengen, public safe-withdrawal-rate research."
+  - "Public FIRE community materials on withdrawal-rate arithmetic."
 ---
 
 # FIRE 数学反推框架
 
-> [!info] TL;DR
-> "从终局倒推本金，再从本金倒推月投——不是'我能存多少'，而是'我必须到达多少'"
+
+## Wiki route
+
+This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/japan-ib-league-table|Japan IB league table]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## 核心命题
 

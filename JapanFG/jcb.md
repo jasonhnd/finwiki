@@ -16,6 +16,11 @@ sources:
 
 # 株式会社ジェーシービー (JCB)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orico|株式会社オリエントコーポレーション (Orico)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **日本唯一の国際カードブランド**。1961-01 旧三和銀行 + 日本信販 等の出資で「日本クレジットビューロー (Japan Credit Bureau)」として発足、後に略称「JCB」が社名・ブランド名として定着。国際 5 大カードブランド (**Visa / Mastercard / American Express / Discover / JCB**) の一角を構成し、**アジア (日本・中国・韓国・台湾・東南アジア) で強み**。非上場 — 主要株主は [[mufg]] 系・[[smfg]] 系の銀行連合。米国は Discover、中国は銀聯 (UnionPay) との相互利用提携で世界 200 超の国・地域でカバー。国内は [[smfg]] 系三井住友カード (Visa) / 楽天カード等と競合。

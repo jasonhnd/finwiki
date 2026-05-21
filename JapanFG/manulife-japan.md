@@ -14,7 +14,13 @@ sources:
   - "Wikipedia: Manulife Financial (2026-05-19 抽出)"
   - "Wikipedia: 第百生命保険 (2026-05-19 抽出)"
 ---
+
 # マニュライフ生命保険 (Manulife Life Insurance Japan)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

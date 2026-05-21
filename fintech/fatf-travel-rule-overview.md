@@ -14,6 +14,11 @@ status: candidate
 
 # FATF Travel Rule · R.16 VASP $1,000 KYC 信息传递
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > FATF Recommendation 16 是全球 VASP 行业 AML/CFT 统一信息传递标准 —— VASP 转账 ≥ USD/EUR 1,000 必须共享 sender + receiver KYC。把 1996 BSA Travel Rule 移植到加密。Notabene / TRISA / Sygna / TRP 等 BTS 层成为强制合规基础设施 —— 没有 Travel Rule 协议接入就没有 VASP 业务资格。
 

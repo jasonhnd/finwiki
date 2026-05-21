@@ -14,6 +14,11 @@ status: candidate
 
 # 双币套利 · §501 法律 hack 与监管脆弱性
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 双币稳定币套利的合法性建立在一个法律 hack:**"两个独立 payment stablecoin 之间的 atomic swap 不是 FX 业务"**。这给了链上 FX 的法律空间。但 hack 的脆弱点是:美国 / 欧盟 / 日本任一监管机构把"双币 swap"重新定义为"FX 业务" → 整套结构失效。必须监控 SEC / OCC / FCA / FSA 公告。
 

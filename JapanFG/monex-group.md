@@ -17,6 +17,11 @@ sources:
 
 # マネックスグループ (Monex Group)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本のオンライン証券大手 + 暗号資産（Coincheck）+ 米国オンラインブローカー（TradeStation）を束ねる**個人投資家向けグローバル金融プラットフォーム**持株会社（東証 PRIME 8698）。1999-05-19 創業（旧マネックス証券、ソニー + 松本大 共同出資）、創業者の**松本大**（元 Goldman Sachs パートナー、現会長兼 CEO）が今も舵を取る。**国内（マネックス証券）/ 米国（TradeStation）/ 暗号資産（Coincheck）の 3 軸構造**が特徴で、メガバンク系の総合金融とは対極の「個人投資家プラットフォーム特化」モデル。2024 年に NTT ドコモが出資・連結子会社化を公表し、マネックス証券は [[ndfg]]（ドコモ系金融グループ）の証券コア事業として位置付けられる方向（2026 年公開予定）。

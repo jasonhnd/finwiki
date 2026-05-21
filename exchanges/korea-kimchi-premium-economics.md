@@ -21,6 +21,12 @@ sources:
 status: candidate
 ---
 
+# 韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 「キムチプレミアム」(韓国語 김치 프리미엄) は韓国国内 CEX (Upbit/Bithumb 等) BTC 価格が海外 (Binance/Coinbase) 価格より 1-10% 高くなる現象。2017-2018 ピーク時は 40-60% 達成。KRW 法定通貨流出制約と韓国国内クリプト需要過熱の二重要因によって、規制差が価格に内在化された独特な市場構造。

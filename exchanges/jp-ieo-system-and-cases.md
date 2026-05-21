@@ -23,6 +23,11 @@ status: candidate
 
 # 国内 IEO (Initial Exchange Offering) 制度 + 主要案件 timeline
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jvcea-whitelist-token-listing|JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 制度概要
 
 IEO (Initial Exchange Offering) = 暗号資産発行体が CEX を通じて新規 token を投資家に販売する仕組み。国内では JVCEA 規則 (2020-) で枠組みが整備され、ICO の規制グレーゾーン解消手段として位置付けられる。CEX が発行体と投資家の間に立ち、審査と販売を担う「ゲートキーパー型」モデル。

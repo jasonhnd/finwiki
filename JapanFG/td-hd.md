@@ -16,6 +16,11 @@ sources:
 
 # T&D ホールディングス (T&D Holdings)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **独立系生保では国内最大級**の中堅生命保険持株会社。**太陽生命（1893 創業・家庭マーケット） + 大同生命（1902 創業・中小企業経営者マーケット） + T&D フィナンシャル生命（銀行窓販）** の **3 社差別化** が最大特徴。2004-04 経営統合により発足、東証 PRIME 8795。大手 4 生保（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）に次ぐ第 5 極ポジション。2020 米 Fortitude Group へ出資参画（再保険プラットフォーム化）、2024 中計で海外 M&A 拡大を視野。社名「T&D」は **Taiyo + Daido** に由来。^[extracted]

@@ -14,6 +14,11 @@ status: candidate
 
 # Frax frxUSD · DeFi 原生稳定币的"半合规化"路线
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Frax Finance v3 升级 (2024-Q2) 推出 frxUSD 取代原 FRAX,采用 "**100% UST 储备 + DAO 治理**" 双轨——前者满足 §501 合规储备要求,后者保留 DeFi 原生去中心化治理。frxUSD MCap **$1.2B** (2026-Q1) 远小于 Sky USDS,但 sfrxUSD (质押版) **7-9% APY** 是 DeFi 原生 SC 中最高。**2026-Q2 frxUSD 接入 BlackRock BUIDL ~$200M**,首个 DeFi 协议直持 BUIDL → §501 时代 "半合规化" 代表方案。
 

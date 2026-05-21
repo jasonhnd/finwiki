@@ -26,6 +26,11 @@ status: candidate
 
 # DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 事件概要
 
 2024-05-31 夕方、DMM Bitcoin から **4,502.9 BTC (約 482 億円相当)** が不正流出。当時としては [[exchanges/jp-exchange-coincheck]] NEM 事件 (2018, 580 億円) に次ぐ国内大規模流出事件。後に FBI + 警察庁 + DC3 (米国防省サイバー犯罪センター) の三者合同で 2024-12 に北朝鮮 Lazarus 配下 **TraderTraitor** への帰属が公表された。

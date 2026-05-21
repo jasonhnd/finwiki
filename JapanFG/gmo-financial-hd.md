@@ -17,6 +17,11 @@ sources:
 
 # GMO フィナンシャルホールディングス (GMO FHD)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **GMO インターネットグループ**の **金融セグメント中間持株会社**（東証 STD 7177）。**GMO クリック証券**（ネット証券・FX）を中核に、**GMO 外貨**（FX 専業）・**GMO クリック総研**・海外証券拠点（タイ・香港・英国等）を傘下に置く。**ネット完結・低手数料・FX/CFD 業界トップシェア**が GMO 金融経済圏の収益エンジン。**親会社 GMO インターネットグループの連結子会社**で、兄弟会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]（決済代行・東証 PRIME 3769）/ [[gmo-coin]]（暗号資産）/ [[gmo-aozora-net|GMO あおぞらネット銀行]]（法人 BaaS）と並ぶ「**インターネット金融経済圏**」の証券・FX レイヤー担当。競合は [[sbi-hd|SBI 証券]] / [[rakuten-fg|楽天証券]] / [[monex-group|マネックス]] / [[matsui-sec|松井証券]]。^[extracted]

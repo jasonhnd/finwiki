@@ -17,6 +17,11 @@ sources:
 
 # スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 英 Standard Chartered PLC（HQ ロンドン、LSE: STAN / HKSE: 2888 / FTSE 100 構成）の日本拠点。**業務は アジア・中東・アフリカ（AMEA）新興国に集中**する点で、グローバル・ユニバーサル銀行型の [[hsbc-japan]] や [[citigroup-japan]] とは戦略軸が一線を画す。日本では 1880 年代から長い歴史を持つが、リテール非展開・**法人専業**。邦銀の「自前で拠点を持ちにくい新興国」（南アジア / 東南アジア / 中東 / アフリカ）向けコルレス・トランザクション・バンキング・トレード・ファイナンス機能を担うニッチ・ポジション。^[extracted]

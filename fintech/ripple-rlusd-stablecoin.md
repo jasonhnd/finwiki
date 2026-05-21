@@ -14,6 +14,11 @@ status: candidate
 
 # Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Ripple RLUSD 2024-12-17 在 XRPL + Ethereum **双链同步上线**,Standard Custody (Ripple 子公司,NY DFS 信託牌照) 发行,**银行级合规优先**定位。2026-05 MCap **$700M+**,目标 2027 突破 $3B。RLUSD 是 Ripple 从"跨境支付软件"向"端到端清算栈" (RLUSD + ODL + XRPL DEX + RippleNet) 完成的关键产品——在 GENIUS Act 框架下是"合规优先 / 增长次之"的典型代表。
 

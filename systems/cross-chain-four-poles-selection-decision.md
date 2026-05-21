@@ -14,8 +14,10 @@ status: candidate
 
 # 跨链选型决策树 · 按主角维度匹配协议
 
-> [!info] TL;DR
-> 跨链协议选型不是"哪个最好",而是"哪个匹配主角的客户基础 / 监管约束 / 链分布"。稳定币 L1 → CCIP institutional;EVM L2 多链 → CCIP + LayerZero + CCTP V2 组合;Solana 系列 → Wormhole;长尾 L2 / appchain → Hyperlane permissionless;纯 USDC 调度 → CCTP V2 Fast Transfer。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

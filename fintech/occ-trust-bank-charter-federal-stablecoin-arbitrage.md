@@ -16,6 +16,11 @@ sources: []
 
 # OCC trust bank charter 作为联邦稳定币银行套利路径
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > OCC（Office of the Comptroller of the Currency）颁发的 **trust bank charter conditional approval** = 联邦层"稳定币银行"，**豁免 50 州 Money Transmitter License (MTL)** 且具备 **FedWire 直连**。Bridge 在 2026-02 获批，是 fintech 历史首个进入此路径的稳定币发行方，构成对手不可短期复制的合规护城河。
 

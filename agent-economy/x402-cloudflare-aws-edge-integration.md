@@ -14,8 +14,10 @@ status: candidate
 
 # x402 x Cloudflare / AWS · 边缘层默认支付组件
 
-> [!info] TL;DR
-> 2026-Q1 Cloudflare 把 x402 集成进 Workers · 2026-Q2 AWS API Gateway 跟进。Cloudflare 处理 20%+ 全球 HTTP 流量,这意味着 web infrastructure 默认有 payment rail。开发者写 5 行配置即可商业化任何 API,facilitator 抽 1-2% 手续费 —— x402 从 crypto 实验变成下一代 web 默认组件。
+
+## Wiki route
+
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 复活的 AI agent 支付协议(总览)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -14,6 +14,11 @@ status: active
 
 # 稳定币战争系列 · 23 篇 publication-grade 长文(2026-05)
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > blockchain-research-2026-05 项目产出的 23 篇 publication-grade 长文集合,~159K 字 / 8.2 小时阅读 · 分 4 波交付(v1 11 + v2 4 + v3 4 + v4 4) · 风格对标 FT Big Read / NYT Upshot / a16z research · 5 主角 + 1 组合赢家(Visa) + 1 人才信号(Christine Moy) 构成完整论点骨架。本条作为 reference 入口,长文本身不进 wiki 原子层。
 

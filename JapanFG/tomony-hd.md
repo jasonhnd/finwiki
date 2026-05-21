@@ -3,8 +3,8 @@ title: トモニホールディングス (Tomony HD)
 aliases: ["トモニ HD", "Tomony Holdings", "株式会社トモニホールディングス", "Tomony Holdings, Inc."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -17,9 +17,14 @@ sources:
 
 # トモニホールディングス (Tomony HD)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-四国 (徳島・香川) + 大阪 (大正銀行系) のクロス地盤で広域展開する地銀 FG。**徳島銀行 + 香川銀行 経営統合**で 2010-04-01 発足、2017 大正銀行 (旧 ホクト商事系・大阪) を救済子会社化、2020-01 徳島 + 大正 を合併し **徳島大正銀行**を誕生させた。現在の主要子会社は徳島大正銀行 + 香川銀行の 2 行体制。^[extracted]
+四国 (徳島・香川) + 大阪 (大正銀行系) のクロス地盤で広域展開する地銀 FG。**徳島銀行 + 香川銀行 経営統合**で 2010-04-01 発足、2017 大正銀行 (旧 ホクト商事系・大阪) を救済子会社化、2020-01 徳島 + 大正 を合併し **[[tokushima-taisho-bank|徳島大正銀行]]**を誕生させた。現在の主要子会社は [[tokushima-taisho-bank|徳島大正銀行]] + [[kagawa-bank|香川銀行]] の 2 行体制。^[extracted]
 
 ## 1. 公司结构
 
@@ -34,10 +39,10 @@ sources:
 
 ```
 トモニ HD（持株会社・上場 8600）
-  ├── 徳島大正銀行（100%, 本店: 徳島市）── 四国 + 大阪のクロス地盤地銀
+  ├── 徳島大正銀行（100%, 本店: 徳島市）── [[tokushima-taisho-bank]] / 四国 + 大阪のクロス地盤地銀
   │     ├── 旧 徳島銀行（1944 設立 旧 徳島合同銀行系）
   │     └── 旧 大正銀行（1922 設立 大阪、2017 子会社化 → 2020-01 合併）
-  ├── 香川銀行（100%, 本店: 高松市）── 1943 香川無尽 → 1989 普通銀行転換
+  ├── 香川銀行（100%, 本店: 高松市）── [[kagawa-bank]] / 1943 香川無尽 → 1989 普通銀行転換
   └── トモニインフォメーションシステムズ等 グループ機能子会社
 ```
 
@@ -69,9 +74,9 @@ sources:
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 四国地銀 | 徳島大正銀行・香川銀行 | 徳島・香川中心の地盤 |
-| 関西展開 | 徳島大正銀行（旧 大正銀行店舗網）| 大阪府内の店舗・関西経済圏アクセス |
-| 中小企業金融 | 徳島大正銀行・香川銀行 | 製造業（東予地区造船・四国製紙）・農業（みかん・うどん粉）・観光（八十八ヶ所）|
+| 四国地銀 | [[tokushima-taisho-bank|徳島大正銀行]]・[[kagawa-bank|香川銀行]] | 徳島・香川中心の地盤 |
+| 関西展開 | [[tokushima-taisho-bank|徳島大正銀行]]（旧 大正銀行店舗網）| 大阪府内の店舗・関西経済圏アクセス |
+| 中小企業金融 | [[tokushima-taisho-bank|徳島大正銀行]]・[[kagawa-bank|香川銀行]] | 製造業（東予地区造船・四国製紙）・農業（みかん・うどん粉）・観光（八十八ヶ所）|
 | 個人ローン | 各子会社銀行 | 住宅・自動車・教育ローン中心 |
 | 個人預金 | 各子会社銀行 | 地元密着・高齢者比率高 ^[inferred]|
 | グループ機能 | トモニインフォメーションシステムズ等 | システム共通化・コスト削減 ^[inferred]|
@@ -101,10 +106,10 @@ sources:
 
 ### 地銀再編文脈での位置
 
-- 四国地銀: トモニ HD (徳島大正 + 香川) / [[iyogin-hd]] (伊予銀行) / 阿波銀行 (徳島) / 百十四銀行 (香川) / 四国銀行 (高知) 等
-- 徳島県内: 徳島大正銀行 vs 阿波銀行 の 2 行体制
-- 香川県内: 香川銀行 vs 百十四銀行 の 2 行体制
-- 大阪府内: 徳島大正銀行 (旧 大正銀行店舗) vs メガ + [[smfg]] 系 + 関西 mirai FG 等
+- 四国地銀: トモニ HD ([[tokushima-taisho-bank|徳島大正]] + [[kagawa-bank|香川]]) / [[iyogin-hd]] ([[iyo-bank|伊予銀行]]) / [[awa-bank|阿波銀行]] (徳島) / [[hyakujushi-bank|百十四銀行]] (香川) / [[shikoku-bank|四国銀行]] (高知) 等
+- 徳島県内: [[tokushima-taisho-bank|徳島大正銀行]] vs [[awa-bank|阿波銀行]] の 2 行体制
+- 香川県内: [[kagawa-bank|香川銀行]] vs [[hyakujushi-bank|百十四銀行]] の 2 行体制
+- 大阪府内: [[tokushima-taisho-bank|徳島大正銀行]] (旧 大正銀行店舗) vs メガ + [[smfg]] 系 + 関西 mirai FG 等
 
 ## 4. 监管与政策
 
@@ -129,12 +134,12 @@ sources:
 - 中期経営計画 2024 の具体的数値目標・進捗は？
 - 徳島大正銀行 + 香川銀行 の将来統合シナリオは？ HD 内 2 行体制は維持されるか?
 - 大阪地盤（旧 大正銀行店舗）の収益貢献度・店舗展開計画は？
-- 四国地銀再編における トモニ HD の位置取り（[[iyogin-hd]] / 阿波銀行 等との関係）は？
+- 四国地銀再編における トモニ HD の位置取り（[[iyogin-hd]] / [[awa-bank|阿波銀行]] 等との関係）は？
 - DX・地域商社事業等 非金融領域への展開状況は？
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[iyogin-hd]]
+- [[tokushima-taisho-bank]] · [[kagawa-bank]] · [[awa-bank]] · [[hyakujushi-bank]] · [[iyogin-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 
 ## Sources

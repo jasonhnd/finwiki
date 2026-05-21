@@ -17,6 +17,11 @@ sources:
 
 # 東京海上ホールディングス (Tokio Marine Holdings)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 国内損保 **3 メガ筆頭**(東京海上 / [[JapanFG/msad|ms-ad]] / [[JapanFG/sompo|sompo-hd]] のうち時価総額 No.1)。1879 年創業の **日本初の損害保険会社** 東京海上保険会社を起源とし、2002-04 ミレアホールディングス設立 → 2008-07 東京海上 HD に改称。**国内損保(東京海上日動) + 国内生保(あんしん生命) + 海外(米 4 大プラットフォーム:Philadelphia / Delphi / HCC / Pure)** の 3 軸。**純利益ベース海外比率 50% 超**で損保業界 No.1 の海外プレゼンス。東証 PRIME 8766。

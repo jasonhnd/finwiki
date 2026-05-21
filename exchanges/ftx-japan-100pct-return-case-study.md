@@ -25,6 +25,11 @@ status: candidate
 
 # FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-incident-history|国内 VASP 暗号資産流出事件史 (2014-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 経緯
 
 2022-11-11、FTX Trading Ltd. 等の Chapter 11 申請。グローバルでは Alameda Research との流動性危機 + 顧客資金の自社運用への混同により、世界中の FTX 顧客資産が凍結。日本法人 FTX Japan (旧 [[exchanges/jp-exchange-custodiem|QUOINE]]) は[[exchanges/jp-vasp-cold-storage-segregation-rules|分別管理義務]] (信託銀行への信託保管) を遵守していたため、顧客資産が無傷で残存していた点が決定的に異なる。

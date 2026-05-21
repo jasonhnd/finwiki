@@ -14,6 +14,11 @@ status: candidate
 
 # Basel III FRTB 加密敞口 · BCBS SCO60 1,250% 风险加权概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > BCBS(巴塞尔银行监管委员会)2022-12 发布《Prudential treatment of cryptoasset exposures》标准(SCO60),将加密资产分两组:**Group 1**(合规 tokenization 或满足条件的 stablecoin)适用既有风险加权 5-100% · **Group 2**(其他加密资产含 BTC/ETH)适用 **1,250% 风险加权 + 1% exposure cap**。2025-01-01 各国 implementation 目标日。
 

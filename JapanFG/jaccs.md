@@ -17,6 +17,11 @@ sources:
 
 # 株式会社ジャックス (Jaccs)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orico|株式会社オリエントコーポレーション (Orico)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 北海道発祥のクレジット・信販大手。**1954-07 北海道信用販売株式会社として函館で設立**、1968 に「ジャックス」に改称。業態は信販・個品割賦・カードローン・集金代行・家賃保証・自動車ローン軸。**[[mufg]] グループの持分法適用関連会社**（三菱 UFJ 銀行が主要株主）として位置付け、MUFG のクレカ・消費者金融軸（[[mufg]] 内の 三菱 UFJ ニコス・アコム）と並ぶ「**第三の信販軸**」を担う。東証 PRIME 8584 上場。競合は [[orico]]・[[credit-saison]]。海外はベトナム・カンボジア・インドネシアでファイナンス事業を展開。

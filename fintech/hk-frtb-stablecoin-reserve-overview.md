@@ -14,6 +14,11 @@ status: candidate
 
 # HK FRTB 稳定币储备金要求 · HKMA Reserve Framework
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > HKMA 2025-08 稳定币立法的储备金条款是亚洲第一个对标 Basel III FRTB(Fundamental Review of the Trading Book)标准的 SC reserve framework。核心要求:100% 1:1 法币储备 + Tier 1 资产(HKD/USD 短期国债 + HKMA 存款)+ 第三方托管 + 月度审计 + 资本金 HKD 100M+。与 GENIUS §501(≤ 93 天 T-bill)+ MiCA EMT(≥ 30% 银行存款)形成三圆架构第三个差异化坐标。
 

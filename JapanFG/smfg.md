@@ -18,6 +18,11 @@ sources:
 
 # 三井住友 FG (SMFG / SMBC グループ)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[securities/INDEX|securities index]] for the broader system boundary.
+
 ## TL;DR
 
 日本第 2 大金融集団（総資産 **328 兆 5111 億円**、親会社株主純利益 **1 兆 5829 億円** / 2026-03 期実績、前期比 +34.4%）。2002-12-02 三井住友銀行 単独株式移転で設立。**2018-04 にコングロマリット名称を「三井住友フィナンシャルグループ」→「SMBC グループ」に変更**（持株会社名 = SMFG は継続）。SMBC + SMBC 信託 + SMBC 日興証券 + 三井住友カード（Olive ブランド）+ SMBCCF（旧プロミス）+ SMFL + 日本総合研究所。**2022 年〜 SBI HD との「SMBC-SBI アライアンス」**（包括的資本業務提携、SMFG が SBI HD 株 8.91% 保有・2025-09 Olive コンサルティング合弁設立）。**2025-09 米 Jefferies と日本投資銀行事業統合発表**（MUFG-MS 提携の SMFG 版）。G-SIB Bucket 1。^[extracted]

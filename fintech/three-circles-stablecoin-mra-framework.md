@@ -16,6 +16,11 @@ sources: []
 
 # 美 / 欧 / 日 "三个大圆" 稳定币全球合规架构
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 通过 **MRA（Mutual Recognition Agreement）** 机制,美国 GENIUS Act、欧盟 MiCA 与日本 EPI 三大独立稳定币立法体系将形成**相互承认的合规圈**,覆盖约 $130B+ 的 stablecoin 流通量。**U.S.-Japan MRA 已于 2026-02 签署,U.S.-EU MRA 预计于 2026-Q3 签署**。USDC 在三国均已持牌;Tether **完全位于圈外**,被边缘化至新兴市场。
 

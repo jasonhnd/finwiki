@@ -14,6 +14,11 @@ status: candidate
 
 # HKMA Project Ensemble 概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Project Ensemble 是香港金管局(HKMA)2024.03 启动的代币化货币沙盒,核心测试代币化银行存款 + wholesale CBDC 在香港境内的应用。首批 HSBC / Standard Chartered / BoCHK / Hang Seng;2024.08 Anchorpoint(非传统银行)加入。Ensemble + mBridge 双轨使香港成为亚洲唯一同时拥有本地代币化结算 + 跨境 CBDC 走廊的金融中心。
 

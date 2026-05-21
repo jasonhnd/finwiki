@@ -14,8 +14,10 @@ status: candidate
 
 # EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径
 
-> [!info] TL;DR
-> Tempo(Stripe-backed)和 Arc(Circle 主导)都是企业级 L1,**无法承担"启动期 token 攻击窗口"**——EigenLayer restaking 提供"启动期租用 ETH 安全,逐步过渡到自有 token"的选项。Arc 已公开探讨 "restaking-secured permissioned BFT" 模型。如果实现,EigenLayer 从模块化中间件扩展到 **新 L1 启动期保护伞**——这是协议史上最大的扩张方向。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

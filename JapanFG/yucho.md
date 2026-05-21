@@ -16,6 +16,11 @@ sources:
 
 # ゆうちょ銀行 (Japan Post Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/resona-hd|りそなホールディングス (Resona Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大級の預貯金規模（**約 190-200 兆円**規模 ^[ambiguous]、国内銀行で最大級）を持つ商業銀行。郵政民営化（2007-10-01）と同日に開業し、全国 **約 24,000 局**の郵便局網（日本郵便への業務委託）をリテール基盤とする。融資業務は限定的で、運用資産の大部分は**国債を中心とした有価証券運用**に依存してきたが、近年は**海外債券・オルタナティブ・私募ファンドへの多様化**を中計の柱に据える。親会社は日本郵政（政府保有比率は段階的売却中、約 60% 級 ^[ambiguous]）。2015-11-04 に日本郵政・かんぽ生命と **3 社同時 IPO**。^[extracted]

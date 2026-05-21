@@ -17,6 +17,11 @@ sources:
 
 # ウェルスナビ株式会社 (WealthNavi)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 国内ロボアドバイザリー型資産運用サービス最大手。**預かり資産約 1 兆円 ^[ambiguous]**、運用者数約 40 万人規模 ^[ambiguous]。2015-04-28 柴山和久（元 マッキンゼー、財務省出身）創業、2016-07 サービス開始。2020-12-22 東証マザーズ上場（証券コード **7342**、現 グロース）。**2024-12-12 三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表 ★** ── 国内ロボアドのパイオニアがメガバンク AI 金融エコシステムに統合される転換点。^[extracted]

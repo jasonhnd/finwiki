@@ -20,6 +20,11 @@ sources:
 
 # 株式会社十八親和銀行 (Eighteenth Shinwa Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-bank|福岡銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 十八親和銀行は長崎県を地盤とする [[JapanFG/fukuoka-fg|ふくおか FG]] 傘下銀行。1877年創立の十八銀行と、1879年起源・1939年設立の親和銀行が合併し、2020年10月に現在の十八親和銀行として発足した。長崎県の地域金融、FFG の九州広域戦略、地銀合併後のブランド統合を見るための entry。

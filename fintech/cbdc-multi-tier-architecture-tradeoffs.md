@@ -14,6 +14,11 @@ status: candidate
 
 # CBDC 架构选择 4 核心权衡
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 央行选 CBDC 架构时面对 4 个核心权衡:**金融中介存续 vs 央行直达**(决定商业银行命运)、**货币主权 vs 跨境互操作**(决定与 wholesale CBDC 走廊关系)、**隐私 vs 反洗钱**(决定央行可视度)、**创新空间 vs 系统稳定**(决定可编程性)。所有现役 CBDC 设计都是这 4 个权衡的不同组合。
 

@@ -23,6 +23,11 @@ sources:
 
 # BoJ open market operations
 
+
+## Wiki route
+
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] for peer / contrast context and [[money-market/japan-money-market|Japan money market]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Open market operations are the Bank of Japan's main implementation tool for money-market control. Under the policy guideline decided at Monetary Policy Meetings, the BoJ supplies or absorbs funds by lending against collateral, buying or selling securities, conducting repo-style operations, and using other market-operation facilities.

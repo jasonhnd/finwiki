@@ -19,6 +19,11 @@ sources:
 
 # じもとホールディングス (JIMOTO HD)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+
 ## TL;DR
 
 山形 + 宮城を地盤とする北東北第二地銀 FG（**きらやか銀行** + **仙台銀行**）。2012-10-01 東日本大震災後の経営統合で発足。**2024-06-20 整理回収機構（RCC）が議決権 63.52% を取得し実質国有化**、**2024-09 公的資金 200 億円の返済期限を 13 年延期（2024-09 → 2037-09）金融庁承認**、2024-04 経営トップ全面刷新。SBI ホールディングス（SBI 地銀 HD）が 2020-11 に第三者割当 35 億円で筆頭株主入り → RCC 国有化で順位入替。^[extracted]

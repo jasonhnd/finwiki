@@ -14,6 +14,11 @@ status: candidate
 
 # Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > BCBS SCO60 的 Group 1b vs Group 2 资本差异决定**银行选择持有 USDC over USDT 的资本经济学**——USDC PPSI 银行托管成本 ~10% capital backing,USDT 疑问 Group 1b 资格则 ~100%。这是 USDC 估值溢价的 hidden moat,也是 BUIDL 突破 $1B AUM 的银行通道法律基础。BCBS 是三圆 MRA 的国际资本协调机制。
 

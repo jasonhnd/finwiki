@@ -22,6 +22,11 @@ sources:
 
 # メルカリバンク (Mercari Bank)
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/mercari-bank-license-stack|メルカリバンク license stack]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 メルカリバンクは、メルカリアプリ内でみんなの銀行口座を使えるようにした BaaS サービス。2025-12-18 に、みんなの銀行とメルペイの BaaS 業務提携により開始された。銀行主体は [[banking/minna-bank-baas-model|みんなの銀行]] であり、メルペイは API 連携・電子決済等代行業のレイヤーを担う。

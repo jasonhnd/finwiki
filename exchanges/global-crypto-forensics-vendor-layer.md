@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# グローバル暗号資産 forensics vendor 層 — Chainalysis / Elliptic / TRM / Crystal 比較
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-aml-travel-rule-implementation|国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 CEX + 銀行 + 法執行機関は、暗号資産取引の AML/CFT 監視、制裁スクリーニング、不正資金追跡で専門 forensics vendor に依存する。Chainalysis (米) が業界標準として君臨、Elliptic / TRM Labs / Crystal Intelligence が競合上位を形成。OFAC freeze + Travel Rule + 制裁監視 + Lazarus/北朝鮮 trace の中核インフラであり、現代の暗号資産規制は事実上これら vendor の存在を前提として成立している。国内 VASP も全社が海外 vendor と顧問契約。

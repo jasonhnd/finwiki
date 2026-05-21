@@ -5,8 +5,8 @@ aliases:
   - "保険 domain"
 domain: "insurance"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [insurance, index, solvency, distribution, reinsurance]
@@ -14,6 +14,7 @@ status: active
 sources:
   - "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
   - "https://www.fsa.go.jp/common/law/guide/ins/"
+  - "https://www.fsa.go.jp/menkyo/hoken.pdf"
   - "https://www.seiho.or.jp/"
   - "https://www.sonpo.or.jp/"
   - "https://www.nihonjishin.co.jp/"
@@ -44,10 +45,20 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 | Cluster | Entity pages |
 |---|---|
 | Big life insurers | [[JapanFG/dai-ichi-life]], [[JapanFG/nippon-life]], [[JapanFG/meiji-yasuda]], [[JapanFG/sumitomo-life]], [[JapanFG/kampo-life]] |
+| Mutual / traditional life operating companies | [[JapanFG/asahi-life]], [[JapanFG/fukoku-life]], [[JapanFG/taiju-life]] |
+| Group life operating companies | [[JapanFG/sony-life]], [[JapanFG/sbi-life]], [[JapanFG/rakuten-life]], [[JapanFG/daido-life]], [[JapanFG/taiyo-life]], [[JapanFG/dai-ichi-frontier-life]] |
+| Life subsidiaries / specialty insurers | [[JapanFG/cardif-life]], [[JapanFG/td-financial-life]], [[JapanFG/nanairo-life]], [[JapanFG/nissay-wealth-life]], [[JapanFG/hanasaku-life]], [[JapanFG/medicare-life]] |
+| FSA life-insurer exact-name completion | [[JapanFG/credit-agricole-life]], [[JapanFG/dai-ichi-life-insurance]], [[JapanFG/dai-ichi-neo-life]], [[JapanFG/fukokushinrai-life]], [[JapanFG/pgf-life]], [[JapanFG/ms-primary-life]], [[JapanFG/midori-life]], [[JapanFG/meiji-yasuda-trust-life]] |
+| Non-life group life arms | [[JapanFG/sompo-himawari-life]], [[JapanFG/tokio-marine-nichido-life]] |
+| Foreign-affiliated life operating companies | [[JapanFG/nn-life-japan]], [[JapanFG/fwd-life-japan]], [[JapanFG/cardif-life]], [[JapanFG/gibraltar-life]], [[JapanFG/zurich-life]], [[JapanFG/aflac-japan]], [[JapanFG/metlife-japan]], [[JapanFG/manulife-japan]] |
 | Online / direct / product-specialist life | [[JapanFG/lifenet]], [[JapanFG/orix-life]], [[JapanFG/metlife-japan]], [[JapanFG/manulife-japan]] |
 | Non-life majors | [[JapanFG/tokio-marine]], [[JapanFG/msad]], [[JapanFG/sompo]] |
-| Specialist / regional non-life | [[JapanFG/daido-fire-marine]], [[JapanFG/kyoritsu-fire-marine]], [[JapanFG/sbi-insurance-group]] |
+| Non-life major operating companies | [[JapanFG/tokio-marine-nichido-fire]], [[JapanFG/mitsui-sumitomo-insurance]], [[JapanFG/aioi-nissay-dowa-insurance]], [[JapanFG/sompo-japan-insurance]] |
+| Direct / digital non-life | [[JapanFG/sony-insurance]], [[JapanFG/sbi-insurance]], [[JapanFG/au-insurance]], [[JapanFG/tokio-marine-direct]], [[JapanFG/sompo-direct]], [[JapanFG/mitsui-direct]], [[JapanFG/rakuten-general-insurance]] |
+| Specialist / regional non-life | [[JapanFG/daido-fire-marine]], [[JapanFG/kyoritsu-fire-marine]], [[JapanFG/anicom-insurance]], [[JapanFG/secom-insurance]], [[JapanFG/nisshin-fire]], [[JapanFG/meiji-yasuda-general-insurance]], [[JapanFG/sbi-insurance-group]] |
+| Reinsurance / catastrophe scheme | [[JapanFG/toa-reinsurance]], [[JapanFG/japan-earthquake-reinsurance]], [[insurance/natcat-reinsurance-japan]] |
 | Platform / brand financial groups | [[JapanFG/sony-fg]], [[JapanFG/rakuten-fg]], [[JapanFG/sbi-hd]] |
+| Insurance holding companies | [[JapanFG/anicom-hd]], [[JapanFG/ntt-docomo-sompo-hd]], [[JapanFG/rakuten-insurance-hd]], [[JapanFG/dai-ichi-life]] |
 
 ## Research Control
 
@@ -82,6 +93,9 @@ When expanding this domain:
 
 - FSA: economic value-based solvency regulation.
 - FSA: insurance company supervision guideline.
+- FSA: life-insurance company license list.
+- FSA: non-life insurance company license list.
+- FSA: insurance holding-company list.
 - Life Insurance Association of Japan.
 - General Insurance Association of Japan.
 - Japanese Earthquake Reinsurance.

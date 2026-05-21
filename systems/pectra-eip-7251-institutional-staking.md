@@ -14,8 +14,10 @@ status: candidate
 
 # Pectra EIP-7251 · 机构 staking 经济友好化(2048 ETH 上限)
 
-> [!info] TL;DR
-> EIP-7251 把验证人 MAX_EFFECTIVE_BALANCE 从 32 ETH 提升到 2048 ETH(64×)· 让 Lido / Coinbase Cloud / Binance 等大型质押方把上千个验证人合并为几十个,运营成本暴跌但 slashing 单点风险集中,中心化压力上升。同时验证人退出排队加快、家庭 staker 相对受挤压。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-upgrade-overview|Ethereum Pectra 升级 · 四 EIP 双轨战略总览]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

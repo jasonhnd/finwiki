@@ -16,6 +16,11 @@ sources: []
 
 # 4 类动机不对称分析
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 通用做法是把市场参与者分为"竞争阵营"（如某金融グループ deck 的 7 阵营、本调研 v1 的 5 极）。这隐含**对称竞争**假设。**实际上玩家有 4 种结构性动机**，对应**完全不同的退出博弈**。理解动机分类才能预测各玩家在压力下的行为。
 

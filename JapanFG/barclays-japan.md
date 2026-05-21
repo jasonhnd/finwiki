@@ -19,6 +19,11 @@ sources:
 
 # バークレイズ日本 (Barclays Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 英国 **Barclays PLC**（G-SIB Bucket 2）の日本拠点。**1969 駐在員事務所開設 → 1972 東京支店 → 1986 英銀初の東証上場 → 1987 BZW 証券事務所 → 1990 東証会員 → 2006 バークレイズ・キャピタル証券化 → 2012 バークレイズ証券に商号変更**。リーマンショック後の世界再編で、**北米はバークレイズが買収、アジア太平洋（含む日本）は [[nomura-hd]] が買収**したため、**日本拠点は Lehman 統合の恩恵を直接受けず**、自力での IB / マーケッツ集中戦略を歩む。2016 グローバル再編でアジア株式キャッシュ事業撤退、現在は**日本・香港・シンガポール・インドの 4 拠点をコアアジア市場**として残す。約 500 名規模、本拠は六本木ヒルズ森タワー 31F。^[extracted]
@@ -59,7 +64,7 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
         ├── 香港
         ├── シンガポール
         └── インド
-        
+
 日本拠点
   ├── バークレイズ銀行 東京支店（外銀支店）
   └── バークレイズ証券（国内法人）

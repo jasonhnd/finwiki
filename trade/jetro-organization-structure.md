@@ -16,6 +16,11 @@ sources: []
 
 # JETRO は会員組織ではなく経産省傘下の独立行政法人
 
+
+## Wiki route
+
+This entry sits under [[trade/jetro-members-gateway-model|JETRO Members 有料会員制は B2B 提案の入口ゲート]] and should be read with [[INDEX|FinWiki index]].
+
 > [!info] TL;DR
 > JETRO（日本貿易振興機構）は「会員企業」を持つ業界団体ではなく、経済産業省所管の独立行政法人（2003年設立）。全球76海外事務所・52国内事務所、職員1,925名。サービス対象は主に輸出志向の中小企業で、多くのサービスは無料または低コスト。
 

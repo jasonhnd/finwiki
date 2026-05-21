@@ -18,6 +18,11 @@ sources:
 
 # アフラック生命保険 (Aflac Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 米 Aflac Incorporated (NYSE: AFL、本社 米ジョージア州コロンバス) の日本子会社。1974-11 日本初のがん保険を発売、第三分野保険 (がん・医療) で国内 No.1 級の保有契約件数。**2018-04-02 旧日本支店から日本法人「アフラック生命保険株式会社」に転換**し子会社化、同年 **2018-07-12 第一生命 HD ([[dai-ichi-life]]) と戦略的業務・資本提携を締結 (第一生命が議決権ベース約 7%、長期保有目的で取得)**。営業職員 + 代理店 + 銀行窓販 + ネットの 4 チャネルで第三分野シェアを維持。^[extracted]

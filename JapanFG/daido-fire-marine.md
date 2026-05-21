@@ -16,6 +16,11 @@ sources:
 
 # 大同火災海上保険
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **沖縄県唯一の地場損害保険会社**。1951-04 米軍政下の沖縄で「沖縄海上火災保険」として設立、戦後沖縄で日本籍の損保会社として唯一の存在。1972 年沖縄本土復帰により日本国内損保扱いに、1985 年現社名「大同火災海上保険」へ改称。2000 年代以降、損保ジャパン（現 [[sompo]]）との業務提携を通じて全国網カバー。**沖縄県内損保シェア No.1**、観光保険（旅行傷害・レンタカー・民宿賠償）と台風・離島再保険スキームに特化。大手 3 損保（[[tokio-marine]] / [[msad]] / [[sompo]]）の沖縄拠点との競合下で地場優位を維持。非上場。^[extracted]

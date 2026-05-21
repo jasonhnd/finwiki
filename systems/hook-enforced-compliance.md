@@ -12,14 +12,18 @@ confidence: possible
 tags: [compliance, enforcement, hook, documentation-vs-execution, meta]
 status: candidate
 evidence_count: 1
+sources:
+  - "Public agent-framework documentation on hook-based automation and instruction injection."
+  - "Public Codex / AGENTS-style repository instruction patterns."
+  - "Public Claude Code hook documentation and workflow examples."
 ---
 
 # Hook-Enforced Compliance
 
-> [!info] 核心認知
-> **ドキュメントだけでは規則は強制されない**（"documentation alone enforces nothing"）。
 
-HARD RULE をマークダウンや skill 定義に書いても、LLM がそれを読んだ後に従うかどうかは実行時の意思決定に委ねられる。**物理的な注入点**（hook）がなければ、bypass は発生しうる。
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite）]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## 5 層防御モデル（personal OS）
 
@@ -75,8 +79,8 @@ deployment ≠ working。Hook を配置しても、実際に firing するかは
 
 ## 出典
 
-- Compliance spec
-- Violation logs（dev + user）
+- Public hook and agent-instruction documentation.
+- Public workflow-design examples for pre-generation and post-run compliance checks.
 
 ## Related
 <!-- wiki-links:managed -->

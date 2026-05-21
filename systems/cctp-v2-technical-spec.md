@@ -14,8 +14,10 @@ status: candidate
 
 # CCTP V2 技术规范 · Fast Transfer · Hooks · Attestation Service
 
-> [!info] TL;DR
-> CCTP V2 三大技术组件:**Fast Transfer(Circle 自有 $4.34B treasury 担保 < 1 秒 finality)** + **Hooks(目标链合约可在 mint 同 tx 中自动触发)** + **Attestation Service(off-chain signer 验证 + 签名)**。集中化代价是 Circle 单点信任 · 优势是天然适配 §501 denylist 执行。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-overview|CCTP V2 概览 · Circle USDC 跨链 burn-and-mint]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

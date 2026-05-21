@@ -15,7 +15,13 @@ sources:
   - "楽天銀行 預金 12 兆円突破プレスリリース (2025-01-07)"
   - "Wikipedia: 楽天グループ / 楽天銀行 / 楽天証券 / 楽天カード (2026-05-19 抽出)"
 ---
+
 # 楽天グループ金融事業 (Rakuten FG)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-payment-gateway|GMO ペイメントゲートウェイ]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

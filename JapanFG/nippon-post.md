@@ -17,6 +17,11 @@ sources:
 
 # 日本郵政 (Japan Post Holdings)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 旧 日本郵政公社 を改組した「郵便 + 金融 [銀行 + 保険]」3 本柱の上場持株会社。**国内最大級の金融グループ**（連結ベースでグループ運用資産規模 250 兆円超の領域）。2015-11-04 に持株会社 / [[yucho]] / [[kampo-life]] **3 社同時 IPO** ★。筆頭株主は財務大臣（郵政民営化法により**当面 1/3 超**保有義務）。2019-2020 [[kampo-life]] 不適切販売事件で経営陣交代・業務改善命令を受け、信頼回復と運用利回り改善が中期テーマ。^[extracted]

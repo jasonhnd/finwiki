@@ -1,10 +1,10 @@
 ---
-title: 中国銀行 (岡山・ちゅうぎん FG)
-aliases: ["Chugoku Bank", "The Chugoku Bank", "ちゅうぎん", "中銀", "ちゅうぎんフィナンシャルグループ", "Chugin FG", "Chugin Financial Group", "株式会社中国銀行"]
+title: ちゅうぎん FG / 中国銀行 historical group page
+aliases: ["ちゅうぎんフィナンシャルグループ", "Chugin FG", "Chugin Financial Group", "株式会社ちゅうぎんフィナンシャルグループ", "ちゅうぎんグループ"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -17,11 +17,16 @@ sources:
   - "ちゅうぎん FG 中期経営計画「未来共創プラン ステージ III」(2023-04〜2027-03)"
 ---
 
-# 中国銀行 (岡山・ちゅうぎん FG)
+# ちゅうぎん FG / 中国銀行 historical group page
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-岡山県岡山市丸の内に本店を置く中国地方東部地盤の地銀。**Bank of China（中華人民共和国）とは無関係**で、英名 **The Chugoku Bank, Limited**、略称「ちゅうぎん／中銀」で混同回避を図る。1930-12-21 第一合同銀行 + 山陽銀行 合併で発足、源流は 1878 設立の **第八十六国立銀行**（高梁）まで遡る。**2022-10-03 株式移転で持株会社「ちゅうぎんフィナンシャルグループ」を新設、銀行単独上場（旧 8382）から FG 上場（東証 PRIME 5832）に移行**。2025-03 期 連結純利益 **274 億円**（前年比 +28.2%、過去最高水準）。**TSUBASA アライアンス（千葉銀ハブ・10 行）**創設メンバーで、地銀広域連携の中核行の 1 つ。^[extracted]
+岡山県岡山市丸の内に本店を置く中国地方東部地盤の地銀グループ page。現在の bank-license operating-company boundary は [[chugoku-bank|中国銀行]] に分離し、本ページは ちゅうぎん FG / historical strategy / Bank of China confusion-control の route として残す。1930-12-21 第一合同銀行 + 山陽銀行 合併で発足、源流は 1878 設立の **第八十六国立銀行**（高梁）まで遡る。**2022-10-03 株式移転で持株会社「ちゅうぎんフィナンシャルグループ」を新設、銀行単独上場（旧 8382）から FG 上場（東証 PRIME 5832）に移行**。2025-03 期 連結純利益 **274 億円**（前年比 +28.2%、過去最高水準）。**TSUBASA アライアンス（千葉銀ハブ・10 行）**創設メンバーで、地銀広域連携の中核行の 1 つ。^[extracted]
 
 ## 1. 公司结构
 

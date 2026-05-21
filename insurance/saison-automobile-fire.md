@@ -23,6 +23,11 @@ sources:
 
 # Saison Automobile & Fire / SOMPO Direct
 
+
+## Wiki route
+
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Saison Automobile & Fire is the historical name of the direct non-life insurer now operating as SOMPO Direct General Insurance. The official company history says it changed name to セゾン自動車火災保険株式会社 in 1998 and to ＳＯＭＰＯダイレクト損害保険株式会社 in October 2024.

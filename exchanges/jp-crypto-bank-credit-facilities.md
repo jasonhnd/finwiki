@@ -16,6 +16,11 @@ sources: []
 
 # CEX × 日本銀行 無担保授信実績図譜
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード株式会社 — 日本暗号資産交換業者]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 日本国内暗号資産交换业者从商业银行获得**无担保·无保证**授信的公开先例图谱。这份情报对 CEX 系项目 / SC 発行体 / Tokenized Gold 等的融资规划都有直接参考价值。
 

@@ -14,6 +14,11 @@ status: candidate
 
 # mBridge · BIS 多 CBDC 跨境结算桥(总览)
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > mBridge 是央行间直接结算的批发型 CBDC 网络,基于 HotStuff BFT + DLT permissioned ledger,绕开 SWIFT + Fedwire 用各国本币 CBDC 做点对点 PvP atomic settlement。2025-10 BIS 退出后释放了中国主导自由度,与三圆 MRA 美元体系形成两极结构。
 

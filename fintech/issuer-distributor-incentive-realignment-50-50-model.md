@@ -14,6 +14,11 @@ status: candidate
 
 # 发行方 vs 分销方 50/50 模型 · Coinbase ↔ Circle 利息分成机制
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > Coinbase 和 Circle 的 USDC 利息 50/50 分成模型(2018 Centre 联合发行协议 → 2023 Circle 独立后延续)是 stablecoin 行业**最大的发行方-分销方利益绑定结构**。Q1 2025 Coinbase 稳定币收入 $305M ≈ 公司总收入 12-15% · 但 GENIUS Act §501 时代议价能力根本变化 · 50/50 必然进入重新议价窗口。
 

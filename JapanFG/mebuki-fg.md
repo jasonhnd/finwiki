@@ -17,6 +17,11 @@ sources:
 
 # めぶき FG (Mebuki FG)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 北関東 2 県（茨城 + 栃木）を地盤とする地銀 FG 大手（預金規模で地銀 FG 第 2-3 位クラス）。2016-10-01 **常陽銀行**（茨城地盤）+ **足利ホールディングス**（栃木地盤・足利銀行を傘下）の共同株式移転で発足。**「メガリージョナルバンクグループ」志向 + 首都圏進出 + デジタル / 地方創生**の 3 軸。足利銀行の **2003 年破綻 → 一時国有化 → 2008 年民間譲渡**という劇的歴史を経て統合に至った点が他地銀 FG と異なる。隣接首都圏では [[concordia-fg]]（横浜銀行 + 東日本銀行）/ [[JapanFG/chiba-bank|chiba-bank-fg]] と競合・連携模索。^[extracted]

@@ -28,6 +28,11 @@ sources:
 
 # Bybit — 海外無登録暗号資産交換所（日本FSA警告3回）
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > 日本における暗号資産交換業登録なし · FSA 警告書発出: 計3回（2021-05 / 2023-03 / 2024-11）· JVCEA 非会員 · 2026年3月末をもって日本居住者向けサービスを完全終了
 
 ## 1. 法人・株主

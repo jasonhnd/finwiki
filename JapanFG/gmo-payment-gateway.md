@@ -14,7 +14,13 @@ sources:
   - GMO Payment Gateway 公式 IR (corp.gmo-pg.com, 2026-05-19 参照)
   - GMO インターネットグループ 有価証券報告書
 ---
+
 # GMO ペイメントゲートウェイ
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/famima-digital-one|ファミマデジタルワン (FamiMa Digital One)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

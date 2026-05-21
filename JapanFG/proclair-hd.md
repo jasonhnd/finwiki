@@ -17,6 +17,11 @@ sources:
 
 # プロクレアホールディングス (ProCrea HD)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 青森県地盤の地銀 2 行（**青森銀行 + みちのく銀行**）が 2022-04-01 経営統合して発足した持株会社（東証 PRIME **7384**）。**独占禁止法特例法（地域基盤企業特例法）初適用案件**として国の「お墨付き」で県内 2 行統合を実現した、**人口減少地域における地銀生残モデルケース**。2025-01-01 を期して両子銀行は合併し「**青森みちのく銀行**」となる予定 ^[forecast]。社名「ProCrea」は「Progress（前進）」と「Creation（創造）」の合成、北東北（青森・岩手・秋田）広域戦略を掲げる。

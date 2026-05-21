@@ -16,7 +16,13 @@ sources:
   - "Wikipedia: American International Group (2026-05-19 参照)"
   - "AIG Inc. Annual Report 2024"
 ---
+
 # AIG ジャパン (AIG 損害保険)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -14,8 +14,10 @@ status: candidate
 
 # BFT validator 经济四变量
 
-> [!info] TL;DR
-> 任何 BFT/PoS 链的 validator 经济都可拆为 4 个变量:staking yield(收益)、slashing risk(惩罚)、MEV(可提取价值)、集中度风险。四者互相耦合 —— 调高 yield 引中心化,削减 slashing 削弱安全,放任 MEV 加剧集中,公开集中度暴露监管风险。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-overview|BFT validator 经济学概览 · 四变量与机构链退化]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

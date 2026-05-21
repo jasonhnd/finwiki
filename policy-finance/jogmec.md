@@ -19,6 +19,11 @@ sources:
 
 # JOGMEC (Japan Organization for Metals and Energy Security)
 
+
+## Wiki route
+
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/nexi|NEXI (Nippon Export and Investment Insurance)]] for peer / contrast context and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 JOGMEC is Japan's public agency for energy and mineral resource security. It combines oil / gas, metals, stockpiling, resource exploration, and newer energy-security functions, making it the resource-security counterpart to [[JapanFG/jbic|JBIC]] and [[policy-finance/nexi|NEXI]] in overseas project finance.

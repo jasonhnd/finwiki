@@ -21,6 +21,11 @@ sources:
 
 # Mizuho Leasing
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Mizuho Leasing is the listed leasing platform most closely associated with **[[JapanFG/mizuho-fg|Mizuho FG]]** and, after the 2024 capital relationship expansion, **Marubeni**. It sits in the non-bank asset-finance layer between bank lending, trading-company project development, and corporate equipment / real-estate / aircraft / overseas leasing.

@@ -19,6 +19,11 @@ sources:
 
 # 株式会社常陽銀行 (Joyo Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ashikaga-bank|足利銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 常陽銀行は茨城県を地盤とする [[JapanFG/mebuki-fg|めぶき FG]] の中核銀行。常磐銀行と五十銀行が合併して 1935年7月30日に設立され、2016年10月に足利 HD との経営統合でめぶき FG を発足させた。茨城・栃木・首都圏北部、製造業・農業・筑波研究学園都市・日立系サプライチェーンの地域金融を見るための anchor。

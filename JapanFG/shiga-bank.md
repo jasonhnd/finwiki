@@ -17,6 +17,11 @@ sources:
 
 # 株式会社滋賀銀行 (The Shiga Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ikeda-senshu-hd|池田泉州ホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 滋賀県地盤の単独銀行（**持株会社化していない地銀**の一つ）。1933-10-01 八十三銀行 + 近江銀行 統合により発足、ルーツは **1879 第六十四国立銀行（彦根）**。略称「**しがぎん**」。**滋賀県内シェア No.1 + 京都府北部 / 大阪府北摂 / 名古屋圏 への関西・東海境界エリア展開 + 琵琶湖周辺の環境ファイナンス + ESG / サステナビリティ先進性**が収益コア。**国連責任銀行原則（UN PRB）採択地銀の先駆け**（2019、地銀初）として ESG リーダー枠を確立。[[chiba-bank]] 主導の **TSUBASA アライアンス 加盟行**でシステム共同化・海外サポートに参画。競合は [[kyoto-fg]] / [[resona-hd]] / [[ikeda-senshu-hd]] / [[nanto-bank]]。^[ambiguous]

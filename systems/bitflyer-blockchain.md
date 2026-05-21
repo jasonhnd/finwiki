@@ -21,6 +21,11 @@ sources:
 
 # bitFlyer Blockchain
 
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/hyperledger-besu-overview|Hyperledger Besu · EVM 兼容企业链(Quorum 进化)]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 bitFlyer Blockchain is the enterprise blockchain arm around bitFlyer's proprietary private-chain technology, Miyabi. In FinWiki it should be treated as a **systems / enterprise DLT** node, not as a CEX entity. The page is connected from [[JapanFG/bitflyer|bitFlyer]] because Miyabi is part of the group's B2B blockchain story.

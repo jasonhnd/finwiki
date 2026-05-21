@@ -21,6 +21,11 @@ sources:
 
 # Life insurance channel mix
 
+
+## Wiki route
+
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/internet-life-insurance-business-model|Internet life insurance business model]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 Life insurance distribution in Japan is not one channel. Large insurers combine captive sales representatives, agencies, bancassurance, corporate / group channels, direct internet sales, call centers, and embedded partners. Channel mix determines product economics, compliance risk, customer demographics, and capital efficiency.

@@ -17,6 +17,11 @@ sources:
 
 # 日本政策金融公庫 (JFC)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jbic|国際協力銀行 (JBIC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大の政策金融機関。**2008-10-01 国民生活金融公庫 + 中小企業金融公庫 + 農林漁業金融公庫 + 国際協力銀行国際金融部門の 4 機関統合**で発足した特殊会社。財務 / 厚労 / 農水 / 経産 4 大臣 100% 出資。**4 事業部門（国民生活・中小企業・農林水産・危機対応円滑化）**で、民間金融機関が貸せないリスクをカバーする「民間補完原則」を基軸。コロナ特別貸付 20 兆円超実行（2020-2022）が直近最大の出番。創業支援 / 事業承継 / 海外展開 / セーフティネットの 4 軸が現行戦略。^[extracted]

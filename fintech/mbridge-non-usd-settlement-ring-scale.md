@@ -14,6 +14,11 @@ status: candidate
 
 # mBridge 非美元清算环规模模式 · GDP 覆盖率作为 wholesale settlement 上限
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 跨境清算环的规模不能用流量(SWIFT GPI 历史日均)评估,而是用**成员国 GDP 覆盖率**作为理论上限。mBridge 在 2026 H2 巴西 DREX 加入后,6 国成员 GDP $23.3T + 观察员 $11.7T = **$35T 影响范围(全球 GDP 33%)**。这是非美元 wholesale 清算的"理论天花板":若完全成熟,可绕过 SWIFT 处理 1/3 全球贸易。**$35T 与三圆 MRA $130B 形成镜像** —— 白圈是私营合规零售/机构,绿圈是央行级 wholesale 清算,两个量级、两套基础设施、互不替代。
 

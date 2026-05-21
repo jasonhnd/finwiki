@@ -14,6 +14,11 @@ status: candidate
 
 # Hyperledger Besu · EVM 兼容企业链(Quorum 进化)
 
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it with [[fintech/INDEX|fintech index]] for adjacent context and [[security/bytecode-forensic-three-tier-verify|智能合约 bytecode forensic — 三层 verify 技术]] for the broader system boundary.
+
 > [!info] TL;DR
 > Hyperledger Besu 是 ConsenSys 主导的 EVM 兼容企业 permissioned 链,前身为 JPMorgan 2015 启动的 Quorum(Geth 分支),2020-08 出售后并入 Hyperledger。JPM 保留自有 fork 持续改造,2024-11 内部链改名 Kinexys Chain,仍是 Besu 月 commit top 5 贡献者。
 

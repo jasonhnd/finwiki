@@ -22,6 +22,11 @@ sources:
 
 # パーシャルスピンオフ税制 — partial spin-off tax deferral
 
+
+## Wiki route
+
+This entry sits under [[INDEX|FinWiki index]]. Read it with [[JapanFG/sony-fg|Sony FG]] as the main public transaction example and [[finance/INDEX|finance index]] for adjacent capital-markets context.
+
 ## TL;DR
 
 パーシャルスピンオフ税制は、親会社が子会社株式の一部を残したまま、子会社株式を株主へ現物分配するスピンオフでも、一定要件を満たせば再編時の譲渡損益課税や株主のみなし配当課税を繰り延べ・対象外にする制度。日本では 2023年度税制改正で創設され、2024年度税制改正で要件見直しと適用期限延長が行われた。[[JapanFG/sony-fg|sony-fg]] の再上場・分離は国内代表例。

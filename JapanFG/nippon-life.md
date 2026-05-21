@@ -19,7 +19,13 @@ sources:
   - "日本経済新聞「日本生命保険、営業職員数5万人割れ」(2024-06-28)"
   - "日本生命「Vision 2030」公式説明資料"
 ---
+
 # 日本生命保険相互会社 (Nippon Life)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/meiji-yasuda|明治安田生命保険相互会社]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

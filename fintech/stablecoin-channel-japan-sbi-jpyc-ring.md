@@ -14,6 +14,11 @@ status: candidate
 
 # SBI × JPYC × Circle 环形持股 — 日本稳定币分销通道
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > SBI × Circle × JPYC 形成的**环形持股结构**是 2025-2026 日本稳定币最重要的分销通道——SBI Circle Holdings（2025-08 折半出资 50/50）持有 USDC 国内独占发行渠道，Circle 持 JPYC 3.51%，JPYC 作为 Circle Partner SC，三方互锁形成 **§501(d) 入榜后的跨境合规霸主架构**。日本 4 阵营评级中此通道 v2 评级 **#1 ★★★★★**，远高于 Progmat 信託型联盟（无跨境通道）。
 
@@ -31,7 +36,7 @@ status: candidate
 
 ```
         Circle Internet Financial（USDC 発行体）
-              │  50%                    
+              │  50%
               │           3.51%
               ├─────────────> JPYC Inc.（資金移動業 EPI）
               │                  │ Circle Partner SC
@@ -94,4 +99,3 @@ status: candidate
 <!-- /wiki-links:managed -->
 
 ## Sources
-

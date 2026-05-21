@@ -21,6 +21,11 @@ sources:
 
 # Seiko Epson Corporation (セイコーエプソン)
 
+
+## Wiki route
+
+This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with [[manufacturing/toyota-motor|Toyota Motor Corporation (トヨタ自動車)]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
+
 ## TL;DR
 
 セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[JapanFG/hachijuni-bank|八十二銀行]] の長野県製造業 main bank 文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための manufacturing anchor。

@@ -14,8 +14,10 @@ status: candidate
 
 # 链抽象模式概览
 
-> [!info] TL;DR
-> 链抽象(Chain Abstraction)是 2024-2026 区块链 UX 范式的核心演化方向:用户无需选择 / 切换 / 理解底层链,所有跨链操作由协议层自动完成。链抽象是 embedded wallet 范式的逻辑延伸 —— 当用户不感知钱包后,下一步就是不感知链。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

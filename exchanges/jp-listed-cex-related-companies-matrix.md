@@ -21,6 +21,12 @@ sources:
 status: candidate
 ---
 
+# 国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-parent-company-map|国内 VASP 親会社・株主構造マップ — 三分類 + 大手金融グループ系列]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 日本国内に拠点を持つ CEX (暗号資産交換業者) のうち、上場企業の傘下、または自社が上場しているものを一覧化する。プライム + スタンダード + Nasdaq + 米国 OTC を網羅し、機関投資家・個人投資家が二次市場経由で日本 CEX 業界 exposure を取れるルートを整理する。参照: [[exchanges/jp-vasp-parent-company-map]]。

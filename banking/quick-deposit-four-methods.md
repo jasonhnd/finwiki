@@ -18,6 +18,11 @@ type: wiki
 
 # クイック入金の4方式分解フレーム
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 「即時入金の UX を決めるのは、裏側の銀行接続方式である」
 

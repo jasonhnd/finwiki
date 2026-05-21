@@ -17,6 +17,11 @@ sources:
 
 # トヨタファイナンシャルサービス (TFS)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **トヨタ自動車 100% 子会社、グローバル自動車金融統括会社**（2000-07-03 設立）。世界 **30 ヶ国超**で自動車ローン・リース・保険・クレカを展開。**米 Toyota Financial Services Americas（旧 TMCC）は米国大手自動車金融**として Ford Motor Credit・Ally Financial に伍する規模。国内コアは **トヨタファイナンス株式会社**（TS キュービックカード・自動車ローン）。新車販売 + ローン + リース + 保険 + クレカの**総合パッケージ**でディーラー網と一体化、Toyota ブランドの収益源として 2024 年以降は EV / コネクテッドカー連動金融へシフト中。非上場（トヨタ自動車 連結子会社）。

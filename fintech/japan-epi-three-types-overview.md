@@ -14,6 +14,11 @@ status: candidate
 
 # 日本 EPI 三型架构 · 信託 / 銀行 / 資金移動業者型概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 日本《资金決済法》修订(2023)建立**全球最 nuanced 的稳定币 framework** —— EPI(Electronic Payment Instrument)三型架构:信託型(Progmat XJPY)/ 銀行型(みんなの銀行 + 福冈 FG)/ 資金移動業者型(JPYC)。三型监管负担、灵活性、流通限制完全不同。日本是全球第一个明文定义 SC 法律地位的主要经济体(早于 GENIUS Act 2 年)。
 

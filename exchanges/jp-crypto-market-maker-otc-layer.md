@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# 国内暗号資産マーケットメイカー / OTC デスク業界 overview
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-prime-brokerage-layer|global cex prime brokerage layer]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内 CEX の表面板の裏には、機関注文と高額取引を担う MM (マーケットメイカー) / OTC デスク層が存在する。国内 VASP の表面取引高の多くは、これら MM の continuous quoting に依存しており、リテール板の流動性は実質的にこの層によって支えられている。

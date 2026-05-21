@@ -14,6 +14,11 @@ status: candidate
 
 # 三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 三圆合规圈(GENIUS + MiCA + EPI)2030 规模预测 **$130B**,仅占合规稳定币市场 35-40%;同期 USDT 灰区(7 国年流量 $384B)是合规圈的 **~3 倍**。这是一种"白圈与灰圈长期共存"的经济量化模式 —— 合规创造价值,但灰区不会消失。三圆并非"取代 USDT",而是从结构上把零售/灰区与机构/合规切分为两个不互通的市场。
 

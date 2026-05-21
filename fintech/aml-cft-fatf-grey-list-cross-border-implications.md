@@ -14,6 +14,11 @@ status: candidate
 
 # FATF 评级跨境合规含义 · §501(d) 入榜资格前置过滤层
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > FATF 灰/黑名单是**底层技术过滤**(AML/CFT 合规),决定 SC issuer / OCC charter / §501(d) 入榜资格的潜在前置门槛——灰名单国家的 SC issuer 几乎不可能通过 US/EU MRA。FATF 是 jurisdiction-list-monetary-protectionism 的 necessary but not sufficient 条件,加密美元化阵营划界由此开始。
 

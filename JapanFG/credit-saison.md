@@ -16,6 +16,11 @@ sources:
 
 # クレディセゾン (Credit Saison)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 国内クレジットカード大手。1951 年 緑屋クレジット 設立 → 1980 西武クレジット → 1989 クレディセゾン 改称。**累計会員 4000 万人超** の業界トップ級発行枚数を背景に、**米 American Express 提携プレミアム**、**永久不滅ポイント** エコシステム、**セゾン投信** クロスセル、**インド消費者金融**（Kisetsu Saison Finance）海外展開の 4 軸で稼ぐノンバンク。旧西武セゾングループ解体後はみずほ FG 系列の独立カード会社として再定位 ([[mizuho-fg]] 系)。証券コード 東証 PRIME 8253。

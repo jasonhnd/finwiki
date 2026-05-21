@@ -15,6 +15,11 @@ sources:
 
 # 株式会社南都銀行 (The Nanto Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ikeda-senshu-hd|池田泉州ホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 奈良県地盤の単独銀行（**持株会社化していない地銀**の一つ）。1934-06-01 六十八銀行 + 八木合同銀行 + 御所銀行 + 吉野銀行 + 大和実業銀行 + 第三十国立銀行系などの戦時統合で発足。略称「**なんと**」。**奈良県内シェア圧倒（県内 No.1）+ 大阪府東部・京都府南部への関西 3 県境界エリア展開 + 観光業（奈良公園・東大寺・薬師寺・春日大社・法隆寺）融資 + 不動産融資**が収益コア。関西経済圏の競合は [[resona-hd]] / [[kyoto-fg]] / [[ikeda-senshu-hd]]、隣接県境では紀陽銀行（和歌山）/ 滋賀銀行 / [[tomony-hd]](旧大正銀行)と競合。^[ambiguous]

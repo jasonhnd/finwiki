@@ -14,6 +14,11 @@ status: candidate
 
 # MiCA EMT vs ART 子分类深度 · 监管负担塑形产品
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > MiCA 把稳定币精细分为 EMT(单一法币锚定)与 ART(多资产/多币锚定),表面是分类技术,实际是**用监管负担塑形产品**——把多数项目逼成 EMT,让 ART 几乎无人采用。USDC/USDT 适用 EMT,BUIDL 类多资产基金型适用 ART。**MiCA EMT 的 ≥ 30% 银行存款要求是与 GENIUS Act ≤ 50% 银行存款 / ≤ 93 天 T-bill 的关键差异**,这是跨大西洋 MRA(2026-Q3)必须调和的技术鸿沟。
 

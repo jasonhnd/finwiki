@@ -16,6 +16,11 @@ sources: []
 
 # 司法管辖区清单作为货币保护主义工具
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|美 / 欧 / 日 "三个大圆" 稳定币全球合规架构（MRA 互认）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > GENIUS Act §501(d) 要求美国财政部于 2026-Q3 前发布**"允许互操作的境外司法管辖区"清单**。**入榜的司法管辖区**获得 12-18 个月跨境合规独占窗口；**入榜的稳定币 / 链**获得机构准入"通行证"。这是新型"白名单货币保护主义"，与 1980s 关税壁垒 / 2010s 数据本地化 同源但更精细。
 

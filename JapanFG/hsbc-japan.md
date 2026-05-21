@@ -17,6 +17,11 @@ sources:
 
 # HSBC ジャパン (HSBC Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 英 HSBC Holdings plc（LSE / HKEX 上場、G-SIB Bucket 2）の日本拠点群。**1866 横浜支店開設で外資銀行最古級**、**2012-03 「HSBC プレミア」リテール撤退 → 法人専業へ大転換**が現在の事業形態を規定する転換点。香港上海銀行 東京支店（コマーシャル / ホールセール バンキング）+ HSBC 証券会社（IB）+ HSBC グローバルアセットマネジメント を 3 軸とし、アジア（香港）ハブ経由で邦銀グローバル展開・多国籍企業向けトランザクション バンキング・為替コモディティに特化。競合は [[citigroup-japan]] / スタンダード・チャータード / ドイチェ。^[extracted]

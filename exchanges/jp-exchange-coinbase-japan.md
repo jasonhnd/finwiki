@@ -28,6 +28,11 @@ sources:
 
 # Coinbase 株式会社 — 日本暗号資産交換業者（dormant）overview
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > FSA 登録番号 関東財務局 第00028号 · JVCEA 非加盟（2023年退会） · 登録日 2021-06-18
 
 **dormant VASP / 2023-02 リテール撤退済 / FSA 持照のまま JVCEA 非加盟**

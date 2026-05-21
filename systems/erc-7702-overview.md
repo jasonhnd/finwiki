@@ -14,8 +14,10 @@ status: candidate
 
 # ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级
 
-> [!info] TL;DR
-> ERC-7702 是 **Pectra 升级(2025-05 主网激活,2026 全面铺开)** 引入的 EOA → SCW 提案——Vitalik 2024-05 抛弃 EIP-3074 后亲自起草。通过新的 `SET_CODE_TX`(type 0x04)事务类型 · 允许 EOA **在单笔交易内临时附加 contract code** · 从而获得 SCW 的 batch / sponsorship / multi-sig 能力 · **而无需放弃原 EOA 地址或资产**。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-vs-erc-4337|ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -25,6 +25,11 @@ status: candidate
 
 # Mt.Gox 破綻処理 timeline (2014-2026)
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-incident-history|国内 VASP 暗号資産流出事件史 (2014-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 概要
 
 2014-02-28、Mt.Gox (株式会社 MTGOX、東京・渋谷) が約 850,000 BTC + 約 28 億円の流出を発表し民事再生を申立て。その後破産手続へ移行し、2018-06 に世界初となる「暗号資産事業者の民事再生再開」決定を受けた。2024-06 にようやく現物弁済が開始され、2026 年現在も継続中 — 12 年に及ぶ世界最長級の暗号資産破綻処理事例。[[exchanges/jp-vasp-incident-history|JP VASP インシデント史]]の起点であり、日本の VASP 制度設計の最大トリガーとなった。

@@ -17,6 +17,11 @@ sources:
 
 # 株式会社ペイディ (Paidy)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本初の本格的 **BNPL (Buy Now Pay Later)** プロバイダー。2008-10 旧 **株式会社エクスチェンジコーポレーション** として設立、2018-09 社名を Paidy に変更。創業者 **Russell Cummer**（米国出身）。**2021-09-07 PayPal Holdings が約 27 億ドル（約 3000 億円）で買収発表**、2022 完了 → PayPal 日本子会社化。メールアドレス + 電話番号のみで決済可、後日コンビニ・銀行振込・口座振替で支払う「あと払い」モデル。加盟店約 100 万店（Amazon Japan / SHEIN / Apple Store / メルカリ等）。米 Affirm / Klarna / Afterpay の日本版ポジション。^[extracted]

@@ -23,6 +23,12 @@ sources:
 status: candidate
 ---
 
+# 香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP (Crypto-Asset Service Provider) regime]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 制度概要
 
 香港は 2023-06-01 に改正 AMLO (Anti-Money Laundering Ordinance) を施行し、新たに **VATP (Virtual Asset Trading Platform) 制度**を導入した。既存 SFC (Securities and Futures Commission, 証券及期貨事務監察委員會) 体制下の **Type 1 (証券売買業)** + **Type 7 (自動取引サービス提供業)** ライセンスをデジタル資産プラットフォームに適用する枠組みであり、SFC が単一規制当局として AML/CFT + 投資家保護の両面を管轄する。2023-08 にはリテール (零售) 取引が解禁され、機関専用から一般投資家アクセス可能な体制に転換した。

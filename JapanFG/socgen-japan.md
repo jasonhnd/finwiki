@@ -24,6 +24,11 @@ sources:
 
 # ソシエテ・ジェネラル日本 (Societe Generale Japan)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 ソシエテ・ジェネラル日本は、仏大手銀行 Societe Generale グループの在日拠点群。銀行東京支店と証券法人を通じて、ホールセール銀行、マーケッツ、デリバティブ、証券・投資銀行業務を行う。[[JapanFG/deutsche-japan|deutsche-japan]]、[[JapanFG/bnp-paribas-japan|bnp-paribas-japan]]、[[JapanFG/barclays-japan|barclays-japan]] と並ぶ欧州系在日 IB / markets 参加者。

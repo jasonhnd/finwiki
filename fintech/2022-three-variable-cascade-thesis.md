@@ -16,6 +16,11 @@ sources: []
 
 # 2022 年三变量级联
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|美 / 欧 / 日 "三个大圆" 稳定币全球合规架构（MRA 互认）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 2025-2026 稳定币爆发 / Tokenized Money 三层分化 / 地缘多极化 / AI Agent 经济 —— 这些"独立潮流" 都是**2022 年三个变量同时触发后的级联反应**。理解这一点能预测下一个相同结构事件。
 

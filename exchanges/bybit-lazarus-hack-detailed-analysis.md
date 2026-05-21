@@ -24,6 +24,12 @@ sources:
 status: candidate
 ---
 
+# Bybit Lazarus $14.6 億 hack 詳細分析 (2025-02) — 史上最大暗号資産流出
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 1. 事件概要
 
 2025-02-21、Bybit の ETH コールドウォレットから約 **$14.6 億 (約 2,200 億円)** 相当の ETH + stETH + mETH 等が流出。**史上最大の暗号資産盗難** であり、名目換算で Mt.Gox 2014 の 850,000 BTC を上回る規模。Chainalysis + Elliptic + ZachXBT が事件発生後即時に **Lazarus Group (北朝鮮国家後援ハッカー)** への帰属を公開フォレンジックで断定。Bybit は UAE Dubai を本拠とする世界 top 3 CEX (デリバ取引高首位級)。

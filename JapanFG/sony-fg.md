@@ -17,6 +17,11 @@ sources:
 
 # ソニーフィナンシャルグループ (Sony FG)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sony-life|ソニー生命保険]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 ソニーブランド × 個人金融に特化した総合金融持株会社。生命保険（ソニー生命、ライフプランナー営業）+ 損害保険（ソニー損保、ネット自動車保険）+ ネット銀行（ソニー銀行、外貨・住宅ローン強）の 3 本柱。2007 上場（旧称 SFH）→ **2020-09 親会社ソニーグループによる TOB で完全子会社化・上場廃止** → 2024-05 「金融事業分離・再上場」発表 → **2025-10-01 パーシャルスピンオフでソニーフィナンシャルグループとして東証 PRIME 再上場予定**。^[forecast] メガバンク系と異なり、製造業由来コングロマリットの金融部門が独立再上場するレアケース。

@@ -14,6 +14,11 @@ status: candidate
 
 # DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > DORA Art. 28-44 的 Critical Third-Party Provider (CTPP) 机制是欧盟把 cloud / Anchorage / Coinbase Custody 等 SC 关键基础设施"间接纳入监管"的法律工具。任何欧盟 SC issuer / CASP / 托管商必须双合规(MiCA + DORA)。2026-Q2 第一批 CTPP 名单预计包括 AWS / Azure / GCP / Anchorage / Coinbase Custody / Chainalysis / TRM Labs / Fireblocks / Circle Europe。
 

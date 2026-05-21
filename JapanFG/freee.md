@@ -17,6 +17,11 @@ sources:
 
 # freee 株式会社 (freee K.K.)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/money-forward|株式会社マネーフォワード (Money Forward)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本のクラウド会計・人事労務 SaaS 業界を [[JapanFG/money-forward|Money Forward]] と並んで切り拓いた**スモールビジネス向け統合バックオフィス・プラットフォーマー**（東証グロース 4478）。2012-07-09 に**佐々木大輔**（元 Google Japan・SMB マーケティング出身）が創業し、エンジニアリング起源のスタートアップとして金融周辺ソフトウェア市場では特異な立ち位置。2019-12-17 に東証マザーズ上場（現グロース）、2023 年に黒字化を達成。中小企業 / 個人事業主 / フリーランス専業に絞り、家計簿アプリ領域（マネーフォワード ME 的個人領域）には踏み込まない**法人 / 自営業者特化路線**を堅持。AI による仕訳自動化と電子帳簿保存法・インボイス制度対応を差別化軸とし、**会計 + 人事労務 + 電子契約 + 法人カード + 融資マッチング**を一体運用する「統合 BPaaS（Business Platform as a Service）」モデルを志向する。^[extracted]

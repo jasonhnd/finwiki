@@ -1,38 +1,56 @@
 ---
 title: 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）
-aliases: []
+aliases: ["Japan stablecoin regulatory landscape", "日本ステーブルコイン制度", "JPYC USDC Progmat"]
 domain: fintech
 kind: knowledge
 topic: japan-stablecoin-regulatory-landscape
 created: 2026-04-14
-last_updated: 2026-05-03
-last_tended: 2026-05-05
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-10-30
-confidence: certain
-tags: [fintech]
+confidence: likely
+tags: [fintech, stablecoin, JapanFG, EPI]
 status: confirmed
-sources: []
-  - projects/bittrade-jetro/index.md
+sources:
+  - "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+  - "https://jpyc.co.jp/"
+  - "https://www.sbivc.co.jp/usdc"
+  - "https://progmat.co.jp/about/"
+  - "https://progmat.co.jp/concept/"
 ---
 
 # 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）
 
 > [!info] TL;DR
-> 改正資金決済法（→ [[fintech/japan-financial-regulation|日本金融規制]]）により、日本は世界で最も体系的なステーブルコイン法制度を構築済み。発行者には銀行・資金移動業者・信託会社のいずれかのライセンスが必須。
+> 改正資金決済法（→ [[fintech/japan-financial-regulation|日本金融規制]]）により、日本の stablecoin / electronic payment instrument (EPI) analysis must separate **issuer**, **distributor / EPI service provider**, **platform provider**, and **wallet / payment route**.
 
-三つの柱が同時進行：
-1. **JPYC** — 2025年10月、電子決済手段等取引業者として登録完了。世界初の完全規制対応 JPY ペグ型 SC。
-2. **Circle USDC** — 日本初の外国発 SC として承認。Circle SBI Japan KK（SBI との合弁）設立。2026年春キャッシュレス決済パイロット。
-3. **Project Pax**（MUFG × SMBC × みずほ）— 三大メガバンク共同の B2B 日本円 SC。2028年までに1兆円規模の発行目標。韓日間決済コリドーで実証済み。
+## Current map (source-refresh 2026-05-21)
 
-**含意**：第一種金融商品取引業ライセンスを保有する暗号資産交換業者（BitTrade 等）は、この新制度下でステーブルコイン流通の仲介者として有利なポジションを確保し得る。
+| Lane | Current anchor | What to remember |
+|---|---|---|
+| Funds-transfer-type JPY stablecoin issuer | [[JapanFG/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYC is in the FSA funds-transfer registry as 関東財務局長 第00099号. It should not be mistaken for a conventional crypto exchange. |
+| Foreign stablecoin distribution / EPI service provider | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] | FSA's EPI service-provider list contains one operator: SBI VC Trade, registration 関東財務局長 第00001号, handling USDC. |
+| Trust-type stablecoin / tokenization platform | [[JapanFG/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmat is a platform provider. Issuer / trustee roles sit with regulated trust banks and participating financial institutions. |
 
-来源: projects/bittrade-jetro（2026-04-14 調査）| [[fintech/stablecoin-crossborder-b2b-growth|stablecoin-crossborder-b2b-growth]]
+## Implication
+
+Stablecoin coverage in this wiki should route as follows:
+
+- issuer / regulated company pages: `JapanFG/`
+- exchange / EPI distributor pages: `exchanges/`
+- legal architecture and tokenization model pages: `fintech/`
+- payment / wallet route pages: `payments/`
+
+This avoids the common error of treating a stablecoin issuer, an EPI service provider, and a tokenization platform as the same type of financial institution.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照]]
+- [[JapanFG/jpyc|JPYC株式会社]]
+- [[JapanFG/progmat|株式会社Progmat]]
+- [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
 - [[fintech/gold-tokenization-scheme-comparison|日本におけるトークン発行スキーム比較]]
 - [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式]]
 <!-- /wiki-links:managed -->

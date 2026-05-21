@@ -25,6 +25,11 @@ status: candidate
 
 # 国内 CEX ステーキング・レンディングサービス + 規制
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+
 ## 概要
 
 国内 CEX は **ステーキング (PoS 報酬獲得)** と **レンディング (利息獲得)** を顧客向けに提供。許容範囲は **JVCEA 自主規制 + FSA 監督指針** で制限的に規定され、米国 (SEC vs Kraken/Coinbase) との対比で日本は事前ガイドライン型を採る。

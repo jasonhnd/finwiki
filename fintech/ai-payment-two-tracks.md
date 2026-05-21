@@ -16,6 +16,11 @@ sources: []
 
 # AI 产业的两条支付轨道
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+
 > [!info] TL;DR
 > 当前 AI 产业的跨境收款存在两条不对等的轨道：
 

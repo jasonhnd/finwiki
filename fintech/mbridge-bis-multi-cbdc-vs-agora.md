@@ -14,6 +14,11 @@ status: candidate
 
 # mBridge vs Agora · BIS 2025 同年切换的双轨对照
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 2025 是 BIS 在 CBDC 跨境结算战略上 "切换跑道" 的关键一年:10 月退出 mBridge(BRICS+ 多 CBDC)+ 全年加速推进 Agora(7 大央行 + 私营银行的 tokenized correspondent banking)。两个项目从 "中立桥" 与 "美元友好桥" 的双轨变成 "中国主导" vs "美欧主导" 的二元结构。
 

@@ -16,7 +16,18 @@ review_by: 2026-11-08
 related:
   - "[[fork-and-rebrand-5-layer-audit-framework]]"
   - "[[bytecode-forensic-three-tier-verify]]"
+tags: [security/forensic, web-archives, evidence-preservation]
+sources:
+  - "https://web.archive.org/"
+  - "https://mementoweb.org/"
+  - "https://archive.org/about/"
 ---
+
+# 主动 de-published 内容救回 — Wayback Machine 作为 forensic 武器
+
+## Wiki route
+
+This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] for peer context and [[systems/INDEX|systems index]] for the broader evidence boundary.
 
 > [!info] TL;DR
 > 项目方主动从官网/docs/PDF 链接撤下的文档 = 强 signal of awareness. 用 Wayback Machine (web.archive.org) 救回的原文,可作为单点证据来源对照"现在自首/否认"的口径偏移. PDF 链接 403 是数据,不是终点.

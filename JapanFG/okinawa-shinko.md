@@ -18,6 +18,11 @@ sources:
 
 # 沖縄振興開発金融公庫 (ODFC)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 沖縄県限定の政策金融特殊法人。**1972-05-15 沖縄本土復帰と同時に設立**された県内唯一の総合政策金融機関で、本土の [[jfc]]（国民・中小企業・農林漁業）+ [[dbj]]（中堅・大企業）+ 住宅金融支援機構 の機能を**沖縄県内で一機関に統合**したユニークな存在。国 100% 出資の特殊法人で、内閣府沖縄担当部局が主管。**沖縄振興特別措置法**に基づく特別金利・特別保証で県内事業者・住宅取得者・離島住民を支援。2008 政策金融再編で本土公庫が JFC に統合された際にも、**「沖縄の特殊事情」を理由に単独存続が決定**された希少な機関。^[extracted]

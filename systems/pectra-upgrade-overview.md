@@ -14,8 +14,10 @@ status: candidate
 
 # Ethereum Pectra 升级 · 四 EIP 双轨战略总览
 
-> [!info] TL;DR
-> Pectra(Prague-Electra,2025-Q2 主网激活)是 The Merge 之后第 4 次大升级 · 首次同时升级 EL + CL。四条主线 —— EIP-7702(EOA 临时获 SCW 能力)/ EIP-7251(MAX_EFFECTIVE_BALANCE 32→2048)/ EIP-7691(blob 翻倍)/ EIP-2537(BLS 预编译)—— 同时强化 L1 机构资本承载力 + L2 数据带宽,落实 Vitalik "L1 厚化 + L2 扩容" 双轨。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-overview|ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

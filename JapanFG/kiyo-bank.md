@@ -16,6 +16,11 @@ sources:
 
 # 株式会社紀陽銀行 (The Kiyo Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ikeda-senshu-hd|池田泉州ホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 和歌山県地盤の単独銀行（**持株会社化を経て再び単独銀行体制に戻った** 珍しい再編歴を持つ地銀）。1895（明治 28）創業、現法人は 1985-05-01 紀陽銀行 + 和歌山銀行 等の系譜を引く県内コアバンク。略称「**きよう**」。証券コード **東証 PRIME 8370**（旧 池田銀行 8370 を経て 紀陽銀行が継承）。**持株会社経緯：2006-02-20 紀陽ホールディングス 設立 → 2006-10-01 和歌山銀行 経営統合 → 2013-10-01 持株会社解散・銀行に統合（単独銀行体制復帰）**。**和歌山県内シェア圧倒（県内 No.1）+ 大阪府南部（泉州エリア）への展開 + 観光業（高野山・熊野古道・南紀白浜）融資 + 第一次産業（みかん・梅・林業）融資** が収益コア。関西経済圏では [[ikeda-senshu-hd]] / [[nanto-bank]] / [[kyoto-fg]] / [[resona-hd]] と競合。^[ambiguous]

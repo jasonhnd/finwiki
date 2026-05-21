@@ -18,6 +18,11 @@ sources:
 
 # SBI インシュアランスグループ (SBI Insurance Group)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sbi-securities|SBI証券 (SBI Securities)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 [[sbi-hd]] の**保険事業統括中間持株会社**。**2017-04 設立**、ネット直販型保険ビジネスのプラットフォーム。傘下に **SBI 損害保険**（自動車保険メイン）/ **SBI 生命保険**（旧 PCA 生命、定期死亡 + 医療）/ **SBI いきいき少額短期保険**（高齢者向け）/ **SBI リスタ少額短期保険**（地震費用保険）を擁する。グループ戦略は「**米 Geico / Progressive モデルの日本版**」= 低価格・ダイレクト型 + SBI 証券・[[sbi-shinsei-bank]]・住信 SBI ネット銀との**クロスセル**。2017-09 東証マザーズ上場 → 2023-09 SBI HD による完全子会社化（TOB スクイーズアウト）で再非公開化。^[extracted]

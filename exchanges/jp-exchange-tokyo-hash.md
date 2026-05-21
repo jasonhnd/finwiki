@@ -27,6 +27,11 @@ sources:
 
 # 東京ハッシュ株式会社 — 日本暗号資産交換業者 overview
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > FSA 登録番号 関東財務局長 第00027号 · JVCEA 会員 #1032 · 登録日 2021-06-18
 
 ## 1. 法人・株主

@@ -16,6 +16,11 @@ sources: []
 
 # Wall Street 加密网络中立投资策略
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 当**数项相互竞争的基础设施**同时崛起（例如稳定币公链、AI agent 协议、L2 网络），机构投资人倾向于采取"**网络中立**"策略：同时投资、运营或接入多家竞争对手,不公开站队任何一方,押注**基础设施本身**而非某一具体赢家。**Visa 同时作为 Arc 投资人与 Tempo validator**是该模式的最强样本。
 

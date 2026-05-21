@@ -19,6 +19,11 @@ sources:
 
 # メルカリ HD（株式会社メルカリ）
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大級 **C2C フリマアプリ + 決済 + 暗号資産** 垂直統合エコシステム。2013-02-01 山田進太郎 創業、2018-06-19 東証マザーズ IPO（2022 PRIME 移行、東証 PRIME **4385**）。**メルカリ（フリマ）+ メルペイ（決済・後払い）+ メルコイン（ビットコイン）+ メルカード（JCB 提携）** の 4 軸。国内 MAU **2,304 万**（FY2025.6 4Q）、Marketplace GMV **1.12 兆円**（FY2025.6 通期）、メルカード発行 **300 万枚超**、メルコイン口座 **200 万超**。FY2025.6 通期で売上収益 **1,926 億円**（YoY +3%）、当期利益 **261 億円**（YoY +94%、3 期連続最高益）、**米国事業が初の通期黒字化**達成（US GMV 728 百万米ドル ≒ 1,091 億円）。銀行ライセンスは未保有（資金移動業者）。メガバンク系 [[mufg]] / [[smfg]] とは異なり「マーケットプレース起点」金融プラットフォーム化が特徴。

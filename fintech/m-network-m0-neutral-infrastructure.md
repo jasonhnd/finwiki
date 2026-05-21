@@ -14,6 +14,11 @@ status: candidate
 
 # M^0 / M Network · 中性稳定币基础设施 · "瑞士银行模型"
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > M^0 (M Network) 不发行自家品牌稳定币, 而是为多个 issuer 提供**共享、标准化的储备/铸造/治理基础设施**。类比"瑞士银行模型": 不卷入品牌竞争, 只提供中立金库。投资人 BlackRock + Goldman + Bain Capital + Pantera, 2025 H2 融资 **$40M+**。M^0 是 §501 后稳定币赛道**分层逻辑**的关键样本: 品牌层 (USDC / USDB / PYUSD) 继续竞争, 基础设施层 (M^0 / BUIDL / Bridge) 走中立化, 加速**长尾稳定币**市场形成。
 

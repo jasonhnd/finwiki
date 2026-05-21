@@ -16,6 +16,11 @@ sources:
 
 # 東邦銀行 (Toho Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 **福島県唯一の第一地方銀行・福島県内シェア No.1**、本店福島市、東証 PRIME 8346。1941-11-21 戦時統合で福島県内 5 行を統合して設立、1949 東証上場。**単独銀行体制**を維持し、2015 [[chiba-bank]] 主導の **TSUBASA アライアンスに参加**してシステム共同化と広域連携を進める。**2011-03-11 東日本大震災 + 福島第一原発事故の二重被災**を経験し、復興融資と原発事故関連帰還困難区域取引の中核を担う ★。略称「とうほう」。^[extracted]

@@ -20,6 +20,11 @@ sources:
 
 # PayPay 銀行 (PayPay Bank)
 
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 PayPay 銀行は 2000 年設立・開業の国内ネット銀行で、現在は PayPay グループの金融中核銀行。2025-04 の株式再編により PayPay 株式会社が議決権 75.53% を持つ構造になり、決済 app・カード・証券・銀行を同一ブランドで束ねる位置付けが強まった。

@@ -16,6 +16,11 @@ sources:
 
 # 日本政策投資銀行 (DBJ)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 財務大臣 100% 出資の**政策金融機関**。中堅・大企業向け長期融資・エクイティ投資・アドバイザリーを三位一体で提供する点で JFC(中小企業)とも市中銀行とも違う。1951 年設立の日本開発銀行を源流に、1999 年北海道東北開発公庫と統合、2008-10-01 株式会社化。**完全民営化は計画されていたが東日本大震災・コロナ・GX 転換で延期され続けている**(政府全額出資の特殊会社のまま)。インフラ・エネルギー・GX(グリーン・トランスフォーメーション)・事業再生・危機対応融資が看板。2015 年に「特定投資業務」(3 兆円規模)を開始し、ESG/GX/DX 領域で官民協調投資のプラットフォーム化を進めている。

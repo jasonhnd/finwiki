@@ -15,7 +15,13 @@ sources:
   - "日経新聞 / Bloomberg / Reuters 公開報道 (2024〜2026)"
   - "Wikipedia: NTT ドコモ"
 ---
+
 # NTT ドコモ・フィナンシャルグループ (NDFG)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-insurance-hd|楽天インシュアランスホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

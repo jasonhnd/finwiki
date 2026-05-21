@@ -17,7 +17,18 @@ related:
   - "[[bytecode-forensic-three-tier-verify]]"
   - "[[fork-and-rebrand-5-layer-audit-framework]]"
   - "[[module-path-confusion-supply-chain-attack]]"
+tags: [security/forensic, security/identity, security/dd]
+sources:
+  - "https://certificate.transparency.dev/"
+  - "https://docs.github.com/en/rest/commits/commits"
+  - "https://web.archive.org/"
 ---
+
+# 团队真实身份 forensic anchor chain — 多源指纹拼合
+
+## Wiki route
+
+This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/bytecode-forensic-three-tier-verify|bytecode forensic]] for peer context and [[systems/INDEX|systems index]] for the broader infrastructure boundary.
 
 > [!info] TL;DR
 > 当门面团队 (LinkedIn 公司页 / 官网 about / PR 宣传) 与真实写代码的人不一致,用 6 个独立指纹源拼合 -> 单点身份链 -> 锁定"门面 vs 真团队"分离结构.

@@ -17,6 +17,11 @@ sources:
 
 # 地方公共団体金融機構 (JFM)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 地方自治体 (都道府県・市区町村) 向け長期融資に特化した**地方共同法人**。設立 2008-08-01 (地方公営企業等金融機構として) → 2009-06-01 現名称に改組。旧 **公営企業金融公庫** (1957-06 設立、2008-09-30 廃止) の業務を承継。出資者は全 47 都道府県 + 全市区町村による地方共同出資 (国出資なし)。融資残高は概算 **13-15 兆円規模** で、地方財政の長期資金供給インフラ。**民間メガバンク・地銀との競合 + 補完関係**を持ち、災害復興融資・上下水道などの地方公営企業向け融資で独自の役割。^[ambiguous]

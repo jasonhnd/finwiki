@@ -16,6 +16,11 @@ sources: []
 
 # 稳定币利息分润经济学
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 稳定币发行方与主要分销渠道之间的**利息分账**遵循 "on-platform 100% / off-platform 50%" 模型。USDC 案例已经数学验证：**Coinbase Q1 2026 stablecoin revenue $305M ≈ $19B 平台内 × 4% × 100% + $58B 平台外 × 4% × 50% / 4 = $306M**。
 

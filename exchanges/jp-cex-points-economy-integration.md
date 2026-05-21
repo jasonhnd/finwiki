@@ -24,6 +24,11 @@ status: candidate
 
 # 国内 CEX × ポイントエコノミー統合モデル
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-cex-sales-vs-exchange-model-economics|国内 CEX 販売所 vs 取引所 ビジネスモデル経済学]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 日本国内独自のビジネスモデル — 既存大手プラットフォームのポイント/通貨を暗号資産購入チャネルに統合し、**新規顧客獲得 + KYC コスト削減 + ロイヤルティ ロックイン**を同時実現する。海外 CEX (Binance / Coinbase) が pure-crypto 単独ブランド戦略を取るのに対し、日本では「既存経済圏 × VASP」hybrid が支配的構造。米国 Cash App / PayPal Crypto Hub は似た構造だが**ポイント経済**との直接統合は日本特有。

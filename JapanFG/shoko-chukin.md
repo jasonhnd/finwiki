@@ -17,6 +17,11 @@ sources:
 
 # 商工中金 (Shoko Chukin Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 旧 政策金融機関の **民間商業銀行化版**。1936 (昭和 11 年) 商工組合中央金庫法に基づく特殊会社として設立、2008-10 株式会社化、**2023-10 政府保有株式売却完了 → 完全民営化**。中小企業組合・組合員向け融資 + 一般中小企業融資に特化。2016-2017 **危機対応融資不正事件** (約 4,800 件規模) で金融庁から 2 度の業務改善命令を受け、経営陣総入れ替え・ガバナンス改革を経て民営化完了に至る。メガバンク・地銀・信金との中小企業マーケットでの三つ巴競合下、規模で劣る中で「組合員密着 + 事業承継/M&A」差別化を模索する民営化後フェーズ。^[extracted]

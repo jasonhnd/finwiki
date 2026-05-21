@@ -17,6 +17,11 @@ sources:
 
 # ローソン銀行 (Lawson Bank)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/seven-bank|セブン銀行 (Seven Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 コンビニ ATM 特化型の新興リテール銀行。**2017-11-15 設立 / 2018-10-15 開業** ^[extracted]。親会社 株式会社ローソンが 2024-09 に **三菱商事 + KDDI 50:50 共同保有 JV** 体制へ移行し上場廃止 → ローソン銀行も間接的に **三菱商事系列 + KDDI au 経済圏** 二重所属の様相に。先行する [[seven-bank]]（セブン銀行モデル）を追随する後発組で、ATM 設置数は**約 13,000 台** ^[ambiguous]（ローソン店舗中心）。コンビニ ATM 三強（[[seven-bank]] / Lawson Bank / E-net）の一角。 ^[extracted]

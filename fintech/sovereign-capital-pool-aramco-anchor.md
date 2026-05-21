@@ -14,6 +14,11 @@ status: candidate
 
 # 主权资本池规模锚 · Aramco $7T 作为中东数字资产配置上限
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 资源型主权资本(石油国家)的数字资产配置上限不是流通市值,而是**全口径主权资本池**(NPV 折现的储量 + 国家股权 + 主权基金 AUM)。Aramco $7T 全口径估值是中东数字资产基金的"天花板锚":即便配置比例仅 0.5-7%,单一国家可调动 $35-490B,**单一动作即可超过整个三圆 MRA 白圈 2030 预测($130B)**。这是一种"主权口径 vs 市场口径"的规模评估模式。
 

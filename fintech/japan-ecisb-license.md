@@ -17,6 +17,11 @@ note: 2026-06 全面施行日期为会话中推测，未经官方来源确认
 
 # 日本 ECISB 牌照
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > ⚠️ **待核实**：2026 年 6 月施行日期为会话讨论中的推测，尚未经金融庁/資金決済法改正公告的官方来源核验。使用前需先查証。
 

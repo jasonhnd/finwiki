@@ -14,6 +14,11 @@ status: candidate
 
 # 日本 SC 四阵营对比 · §501(d) 视角下 SBI Circle = #1
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > 日本 SC 四阵营格局:Progmat(信託型 · 3 大行)/ JPYC(资金移動業者型 · 岡部典孝)/ SBI Circle Holdings(USDC 独家 · 北尾吉孝)/ みんなの銀行(銀行型 Solana · 永吉健一)。**§501(d) 司法管辖区清单视角下重新排序:SBI Circle Holdings = #1**,因为它是跨境合规霸主 USDC ↔ JPYC 唯一通道。Project Pax 不解决 §501(d),只解决 SWIFT 兼容性。
 

@@ -21,6 +21,11 @@ sources:
 
 # NTT TC Leasing
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 NTT TC Leasing is the leasing joint venture created from the NTT Finance leasing / global business and Tokyo Century's leasing expertise. Its strategic importance is not only ordinary equipment leasing: it is the financing layer for **NTT-related assets, telecom infrastructure, IT equipment, data-center adjacency, and corporate asset solutions**.

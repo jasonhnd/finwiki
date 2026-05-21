@@ -14,8 +14,10 @@ status: candidate
 
 # 链抽象三大主流方案
 
-> [!info] TL;DR
-> 链抽象有三个并行的技术路径:Polygon AggLayer(共享流动性 + 状态 · ZK 证明)、NEAR Chain Abstraction(意图驱动 + MPC 多链账户)、EigenLayer / Hyperliquid 模式(共享安全 + restaking)。三者技术路径完全不同,可能长期并存,代表"流动性抽象"、"账户抽象"、"安全抽象"三种不同方向。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

@@ -3,8 +3,8 @@ title: fintech — Stablecoin / tokenized money / payments index
 aliases: [fintech index, stablecoin index, tokenized money index]
 domain: fintech
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: certain
 tags: [fintech, index, stablecoin, tokenized-money]
@@ -26,7 +26,7 @@ sources:
 | Strategy theses and market structure | 18 | [[fintech/2022-three-variable-cascade-thesis|2022 cascade]], [[fintech/four-motive-classes-asymmetric-competition|4 motive classes]], [[fintech/portfolio-winner-structure-arm-analog|portfolio winner]] |
 | Issuers / products / reserve assets | 17 | [[fintech/paypal-pyusd-stablecoin|PYUSD]], [[fintech/ripple-rlusd-stablecoin|RLUSD]], [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] |
 | CBDC / wholesale settlement | 13 | [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]], [[fintech/bis-project-agora-overview|Agorá]], [[fintech/cbdc-multi-tier-architecture-overview|CBDC architecture]] |
-| Japan-specific stablecoin / EPI | 10 | [[fintech/japan-stablecoin-regulatory-landscape|Japan SC landscape]], [[fintech/jp-stablecoin-progmat|Progmat]], [[fintech/jp-stablecoin-dcjpy|DCJPY]] |
+| Japan-specific stablecoin / EPI | 10 | [[fintech/japan-stablecoin-regulatory-landscape|Japan SC landscape]], [[fintech/jp-stablecoin-progmat|Progmat]], [[JapanFG/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade / USDC]] |
 | Embedded wallet / interchange / payment rail | 9 | [[fintech/embedded-wallet-fintech-disintermediation-overview|embedded wallets]], [[fintech/usd-stablecoin-interchange|USD SC interchange]], [[fintech/ai-payment-two-tracks|AI payment two tracks]] |
 
 ## Start here

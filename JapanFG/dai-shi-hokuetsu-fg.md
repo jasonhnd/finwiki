@@ -18,6 +18,11 @@ sources:
 
 # 第四北越 FG
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 新潟県地盤の地銀フィナンシャルグループ（同県内シェア圧倒・人口 220 万県の一県一行型）。2018-10-01 第四銀行 + 北越銀行 の共同持株会社化で発足、2021-01-01 子銀行同士を合併し **第四北越銀行** 単一行体制へ移行。**県内地盤統合（フルバンキング + 中堅企業 main bank）+ 県外進出（首都圏営業店）2 軸**。前身の第四銀行は 1873 年設立で「日本初の国立銀行の一つ」(第四国立銀行) という由緒。観光（佐渡・スキー）・農業（米産地）・製造業（燕三条等）金融が地盤特性。地銀再編の中堅広域連合事例の一つ。

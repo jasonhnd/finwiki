@@ -17,6 +17,11 @@ sources:
 
 # オリックス株式会社 (ORIX Corporation)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本最大手の総合金融サービス・コングロマリット。1964-04-17 旧 オリエント・リース として三和銀行 + 日綿実業 + ニチメン 等 5 社共同出資で設立。**リース起点 → 10 セグメント（法人金融・自動車・不動産・事業投資・環境エネルギー・保険・銀行・AM・米州・アジア豪州）**へ多角化。連結持分会社的構造で銀行法上の銀行持株会社ではない（金融商品取引業者）。東証 PRIME 8591 / NYSE: IX 二重上場。会長 井上亮、シニア・チェアマン 宮内義彦（実質的中興の祖）。^[extracted]

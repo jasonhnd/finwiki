@@ -14,6 +14,11 @@ status: candidate
 
 # cbBTC · Coinbase 包装 BTC · 机构信任替代 WBTC 的窗口期产品
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > cbBTC 是 Coinbase 托管的 ERC-20 wrapped BTC (2024-09-12 上线),1:1 BTC 储备 · 2026-03 流通 ~**89,000 cbBTC** / 市值 **$6.1B** / Base 上 TVL **$839M**。在 2024 年 BitGo WBTC 治理风波后,cbBTC 抓住"机构 BTC-DeFi 头寸迁移"窗口期成为替代,并构成 Coinbase **veToken host protocol flywheel** 中的 host 资产层——把 BTC 从 CEX 托管资产升级为"链上自循环现金流引擎"。
 

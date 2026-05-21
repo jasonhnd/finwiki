@@ -14,8 +14,10 @@ status: candidate
 
 # CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河
 
-> [!info] TL;DR
-> Chainlink CCIP 在 2024-2025 成为 institutional 跨链默认选择 · 核心不是技术先进而是客户名单(**DTCC / SWIFT 11000+ 银行 / J.P. Morgan Kinexys**)+ RMN 双层验证模型让监管可接受。CCIP 正在成为 **TradFi → DeFi 的数据桥** —— SWIFT 走 Chainlink messaging · DTCC Smart NAV 走 CCIP · 这是基础设施 winner 路径的核心证据。
+
+## Wiki route
+
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

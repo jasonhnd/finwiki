@@ -20,6 +20,11 @@ sources:
 
 # JASSO (Japan Student Services Organization)
 
+
+## Wiki route
+
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for adjacent context and [[banking/INDEX|banking index]] for the broader system boundary.
+
 ## TL;DR
 
 JASSO is Japan's student-support agency under MEXT. In FinWiki policy-finance terms, it is the education-finance node: scholarships, student loans, international-student support, and student-life support. It should not be merged into [[JapanFG/jfc|JFC]], but it sits adjacent to JFC because both touch household / education-related public finance.

@@ -14,6 +14,11 @@ status: candidate
 
 # 储备金互锁飞轮 · 三层系统性风险情景
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > BUIDL ↔ USDC 互锁飞轮的风险不在资产质量(国债是 risk-free),而在三层结构性问题:**赎回时的二级市场流动性 vs 储备金账面价值** · **监管尚未定义"代币化 MMF 集中度"框架** · **利息流的反身性持续推高集中度**。2023.03 SVB 事件中 USDC 因储备金 8.25% 集中在 SVB 短暂脱锚 · BUIDL 路径风险机制相同。
 

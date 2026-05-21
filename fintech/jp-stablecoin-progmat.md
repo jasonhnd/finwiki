@@ -6,8 +6,8 @@ aliases:
   - 株式会社Progmat
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2027-05-18
 confidence: likely
 tags:
@@ -26,6 +26,11 @@ sources:
 ---
 
 # 株式会社Progmat — デジタルアセットプラットフォーム概要
+
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > JVCEA 非加盟 · 暗号資産交換業者ではない · デジタルアセット発行プラットフォーム提供事業者 · 設立 2023-10-02 · 東京都千代田区丸の内
 
@@ -195,6 +200,8 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 
 ## Related
 
+- [[JapanFG/progmat|株式会社Progmat]] — JapanFG company anchor
+- [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — regulated trust-bank boundary
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]] — Progmat Coinの法的根拠（第3号EPI・特定信託受益権）の詳細解説
 - [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]] — MUTB 49% 設計の意図と三大行ガバナンス構造
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]] — JPYC・DCJPY・Progmat Coinの制度的位置付け比較

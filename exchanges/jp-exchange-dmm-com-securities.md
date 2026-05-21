@@ -27,6 +27,11 @@ sources:
 
 # 株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）overview
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > FSA 関東財務局長（金商）第1629号 · JVCEA 第一種会員 #1043（暗号資産デリバティブ取引業のみ）· 第一種金融商品取引業登録日 2007-09-30
 > **注意**：DMM Bitcoin（株式会社DMM Bitcoin · 廃業）とは**別法人**。同社は暗号資産現物交換業を担い 2025-03 廃業。本法人は FX/CFD/株式を主力とし、暗号資産は**デリバティブ（CFD）**登録のみ。→ [[exchanges/jp-exchange-dmm-bitcoin]]
 
@@ -98,7 +103,8 @@ sources:
 | 2025-03-08 | DMM Bitcoin サービス全面終了。DMM.com証券は DMM Bitcoin とは別法人のため直接の業務影響は公表なし（公式声明なし） |
 | 2026-03 | 自己資本規制比率 419.6% を開示（財務健全） |
 
-**DMM Bitcoin（別法人）廃業との関係**：  
+**DMM Bitcoin（別法人）廃業との関係**：
+
 DMM.com証券と DMM Bitcoin は別法人（住所は同じ東京日本橋タワーだが法人格・登録番号は別）。DMM Bitcoin の廃業（2024-12 発表・2025-03 完了）が DMM.com証券の JVCEA 暗号資産デリバティブ登録・事業継続に直接影響したとの公式発表は確認できない（2026-05-18現在）。ただし DMM グループとしての暗号資産現物取引業務は消滅したため、グループ全体の暗号資産事業は大幅に縮小した。
 
 ## 7. 戦略動向

@@ -25,6 +25,11 @@ status: candidate
 
 # Solana エコシステム DEX 群比較
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+
 ## 概要
 
 Solana は EVM 系 (Ethereum / L2) と異なる SVM (Sealevel Virtual Machine) 環境上で、独自の DEX 生態系を構築している。トップ層には aggregator (DEX 統合 router) である Jupiter が君臨し、その下に Raydium / Orca / Meteora の 3 大 AMM、さらに perp 専門の Drift と機関向け CLOB の Phoenix が併存する 6 層構造。400ms ブロック + 並列実行 + 低 transaction cost (< $0.001) が、retail mania と memecoin 経済を支える基盤となり、2023-2026 期に急成長を遂げた。EVM 生態系の比較は ([[exchanges/global-dex-major-five-comparison]]) 参照。

@@ -14,6 +14,11 @@ status: candidate
 
 # CBDC 多层架构概览
 
+
+## Wiki route
+
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+
 > [!info] TL;DR
 > CBDC(央行数字货币)按发行架构分三范式:**双层架构**(央行 → 商行 → 用户 · 如中国 e-CNY)、**直接 CBDC**(央行直接对用户 · 仅理论)、**token-based 多层架构**(央行 + 商行代币化存款分层 · 如巴西 DREX / 欧元数字)。架构选择反映央行对金融中介存续 / 货币主权 / 隐私 / 跨境互操作的根本判断。
 

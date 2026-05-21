@@ -10,8 +10,18 @@ review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
 status: candidate
+sources:
+  - "https://laws.e-gov.go.jp/"
+  - "https://www.koshonin.gr.jp/"
+  - "https://www.moj.go.jp/MINJI/minji153.html"
 ---
+
 # 日本 一般財団法人 設立要件・プロセス
+
+
+## Wiki route
+
+This entry sits under [[governance/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]] and should be read with [[INDEX|FinWiki index]].
 
 > [!info] TL;DR
 > 「公益財団法人」「NPO 法人」と混同されやすいが、**一般財団法人** は中立的な法人形態として独自の位置づけを持つ。研究 / 提言型の団体に適した形態。

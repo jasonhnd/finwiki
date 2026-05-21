@@ -3,8 +3,8 @@ title: あいち FG (Aichi FG)
 aliases: ["あいち FG", "Aichi FG", "あいちフィナンシャルグループ", "Aichi Financial Group", "7389"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, chubu]
@@ -18,9 +18,14 @@ sources:
 
 # あいち FG (Aichi FG)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hachijuni-nagano-bank|八十二長野銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
-愛知県地盤の地銀フィナンシャルグループ（東証 PRIME 7389）。**2022-10-03 愛知銀行 + 中京銀行 経営統合**で発足。両子銀行は **2025-01-01 合併予定**、新銀行名は「愛知銀行」継承予定。中京経済圏（名古屋・トヨタサプライチェーン）地盤の地銀再編モデル。県内競合は名古屋銀行（持株会社化なし、県内 No.2）、近隣は [[juroku-fg]]（岐阜）/[[san-jusan-fg]]（三重）/[[ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
+愛知県地盤の地銀フィナンシャルグループ（東証 PRIME 7389）。**2022-10-03 愛知銀行 + 中京銀行 経営統合**で発足し、銀行子会社は [[aichi-bank|あいち銀行]] に統合済み。中京経済圏（名古屋・トヨタサプライチェーン）地盤の地銀再編モデル。県内競合は [[nagoya-bank]]（持株会社化なし、県内 No.2）、近隣は [[juroku-fg]]（岐阜）/[[san-jusan-fg]]（三重）/[[ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
 
 ## 1. 公司结构
 
@@ -35,10 +40,8 @@ sources:
 
 ```
 あいち FG（持株会社・上場 7389）
-  ├── 愛知銀行（100%）── 1910 創業・愛知県内 第二地銀から普通銀行
-  │     └── 県内支店ネットワーク・中堅中小企業融資
-  └── 中京銀行（100%）── 1953 設立・第二地銀
-        └── 名古屋市内・中小零細企業融資
+  └── [[aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 operating bank
+        └── 県内支店ネットワーク・中堅中小企業融資
 ```
 
 ### 合併歴史・前身
@@ -58,7 +61,7 @@ sources:
 
 - 県内地銀過剰（愛知銀行・中京銀行 + 名古屋銀行）と人口減少・低金利継続を背景に、両行が経営統合協議に入る ^[inferred]
 - **2022-10-03 あいち FG 設立**（共同株式移転、両行 100% 子会社化、新 FG が東証 PRIME 上場）^[extracted]
-- **2025-01-01（予定）愛知銀行 + 中京銀行 合併**、存続銀行は愛知銀行、新銀行名「愛知銀行」継承予定 ^[forecast]
+- **2025-01-01 愛知銀行 + 中京銀行 合併**、current operating bank は [[aichi-bank|あいち銀行]]。
 
 ### 重要年表 ^[extracted]
 
@@ -69,15 +72,15 @@ sources:
 | 1953 | 中京銀行 設立（第三相互無尽 + 第十七相互無尽）|
 | **2022-10-03** | **あいち FG 設立**（愛知銀行 + 中京銀行 共同株式移転）/ 東証 PRIME 上場 |
 | 2024 | 第 1 次中期経営計画 ^[inferred] |
-| **2025-01-01** | **愛知銀行 + 中京銀行 合併予定**（存続: 愛知銀行、行名継承）^[forecast] |
+| **2025-01-01** | **愛知銀行 + 中京銀行 合併**、[[aichi-bank|あいち銀行]] に operating-company boundary を整理 |
 
 ## 2. 业务线 map
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 中堅中小企業融資 | 愛知銀行 | 愛知県内製造業・サプライヤー金融 |
-| 中小零細企業融資 | 中京銀行 | 名古屋市内・小規模事業者層 |
-| 個人リテール | 両行 | 住宅ローン・預金 |
+| 中堅中小企業融資 | [[aichi-bank|あいち銀行]] | 愛知県内製造業・サプライヤー金融 |
+| 中小零細企業融資 | [[aichi-bank|あいち銀行]] | 旧中京銀行側の名古屋市内・小規模事業者層を含む |
+| 個人リテール | [[aichi-bank|あいち銀行]] | 住宅ローン・預金 |
 | トヨタ自動車サプライチェーン融資 | 両行 | 中京経済圏自動車関連サプライヤー融資 ^[inferred] |
 
 ## 3. 戦略与竞争
@@ -145,7 +148,7 @@ sources:
 
 - [[juroku-fg]] · [[san-jusan-fg]] · [[ogaki-kyoritsu-bank]]（近隣中部地銀）
 - [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク）
-- [[ndfg]]（同時期地銀 FG 比較対象）
+- [[shizuoka-fg]] / [[juroku-fg]]（同時期地銀 FG 比較対象）
 
 ## Sources
 
@@ -157,4 +160,4 @@ sources:
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia + 公式 IR 校核 2026-05-19）。2025-01-01 銀行合併は本記事作成時点で予定事項であり、^[forecast] 標注。財務数値・合併比率・店舗数等の定量データは Wikipedia 経由情報のみで、最新値はあいち FG 有価証券報告書を要参照。
+> confidence: **likely**（v1.1 public-source correction 2026-05-21）。2025-01-01 銀行合併の forecast 表現を外し、current operating-company boundary を [[aichi-bank|あいち銀行]] に分離した。財務数値・店舗数等の定量データは最新 disclosure / 有価証券報告書で継続確認。

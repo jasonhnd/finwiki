@@ -6,8 +6,8 @@ aliases:
   - ジェイピーワイシー
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-21
+last_tended: 2026-05-21
 review_by: 2027-05-18
 confidence: likely
 tags:
@@ -16,7 +16,7 @@ tags:
   - vasp
   - stablecoin-issuer
   - jpy-stablecoin
-status: candidate
+status: active
 sources:
   - https://jpyc.co.jp/about
   - https://jpyc.co.jp/
@@ -26,7 +26,14 @@ sources:
 
 # JPYC 株式会社 — 日本円ステーブルコイン発行体（資金移動業者型）
 
+
+## Wiki route
+
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+
 > 資金移動業者登録 関東財務局 第00099号 · JVCEA 会員 #1042（資金移動業）· 設立 2019年11月
+
+> Namespace note: JPYC is not a conventional crypto-asset exchange. This detailed page remains in `exchanges/` for legacy stablecoin-routing reasons; the operating-company anchor is [[JapanFG/jpyc]].
 
 ## 1. 法人・株主
 
@@ -109,6 +116,7 @@ sources:
 ## Related
 
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 三層法制度（JPYC・USDC・信託型の位置付け）
+- [[JapanFG/jpyc]] — JapanFG operating-company anchor
 - [[fintech/jp-trust-type-sc-architecture]] — 三型 SC 比較（信託型・銀行型・資金移動業者型）
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade（電子決済手段等取引業も保有する交換業者の比較例）

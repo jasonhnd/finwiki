@@ -17,6 +17,11 @@ sources:
 
 # 東京短資 (Tokyo Tanshi)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/central-tanshi|セントラル短資株式会社 (Central Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 日本 3 大短資会社の一角（非上場、1908-09 創業、明治末期から続く老舗）。**コール市場仲介 + 手形売買 + 日銀オペ対手 + 法人向け FX** の 4 軸で短期金融市場のインターディーラー機能を担う。2016-01〜2024-03 マイナス金利政策下でコール市場機能停滞 → 業界全体が縮小局面、外為・FX 法人ブローカレッジでの収益源多様化を進めてきた。2024-03-19 日銀マイナス金利解除・2024-07-31 政策金利 0.25% 引上で短期金利市場が 8 年ぶりに正常化 → 短資業界復活期待が高まる。

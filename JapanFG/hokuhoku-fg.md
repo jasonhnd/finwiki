@@ -17,6 +17,11 @@ sources:
 
 # ほくほく FG (Hokuhoku FG)
 
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 北陸 3 県（富山・石川・福井）+ 北海道の **2 拠点広域地銀 FG**。2003-09-26 北陸銀行が単独株式移転で持株会社化（旧「ほくぎん FG」）、2004-09-01 北海道銀行と経営統合して **ほくほく FG** 発足。**地理ロングテール戦略**（北陸 + 北海道の遠距離 2 地盤）が最大の特徴で、邦銀史上初の「離れた地域の地銀どうしの広域連合」モデル。北陸銀行は富山県地盤の旧第十二国立銀行（1877 創立）系、北海道銀行は札幌地盤の戦後設立（1951）行。北海道では **[[ndfg]]（北洋銀行）** との競合構造、北陸では富山県内 main bank ポジション。^[extracted]
