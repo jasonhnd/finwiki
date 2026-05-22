@@ -6,8 +6,8 @@ aliases:
   - "BaaS index"
 domain: "banking"
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-15
 confidence: certain
 tags: [banking, index, net-bank, baas]
@@ -22,22 +22,36 @@ sources:
   - "https://www.nochubank.or.jp/about/features.html"
   - "https://www.jfmbk.org/"
   - "https://www.jfmbk.org/about/housin.html"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
+  - "https://www.shintaku-kyokai.or.jp/trust/trustbanks/"
+  - "https://www.mastertrust.co.jp/about/overview.html"
+  - "https://www.custody.jp/recruit/aboutus/about.html"
+  - "https://www.zenginkyo.or.jp/abstract/council/openapi/"
+  - "https://baas.minna-no-ginko.com/"
+  - "https://www.netbk.co.jp/contents/neobank/"
+  - "https://www.fsa.go.jp/common/shinsei/dendai/index.html"
 ---
 
 # banking — Net bank / BaaS / banking-structure index
 
-## TL;DR
+## Overview
 
-`banking/` contains **17 entries** about Japanese net banks, BaaS, quick deposit, cooperative banking, JA Bank system, JF Marine Bank system, cooperative-finance registries, regional bank structure, and foreign-bank retreat patterns. P4 has now promoted the full banking domain: the net-bank / BaaS cluster plus [[banking/cooperative-banking-japan|cooperative banking]], [[banking/ja-bank-system-japan|JA Bank system]], [[banking/jf-marine-bank-system-japan|JF Marine Bank system]], [[banking/shinkin-bank-registry-japan|shinkin registry]], [[banking/credit-cooperative-registry-japan|credit-cooperative registry]], [[banking/rokin-bank-registry-japan|rokin registry]], [[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]], [[banking/post-megabank-positioning|post-megabank positioning]], and [[banking/regional-bank-consolidation-pattern|regional bank consolidation]]. Bank operating-company pages now live under [[JapanFG/INDEX|JapanFG]] and are cross-linked below.
+`banking/` contains **23 entries** about Japanese net banks, BaaS, quick deposit, cooperative banking, JA Bank system, JF Marine Bank system, cooperative-finance registries, trust-bank / custody infrastructure, regional bank API partnerships, regional bank structure, and foreign-bank retreat patterns. P5 has now deepened the operating-model layer: [[banking/japan-net-bank-competition-map|net-bank competition map]], [[banking/japan-baas-operating-models|BaaS operating models]], [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]], [[banking/cooperative-banking-japan|cooperative banking]], [[banking/ja-bank-system-japan|JA Bank system]], [[banking/jf-marine-bank-system-japan|JF Marine Bank system]], [[banking/shinkin-bank-registry-japan|shinkin registry]], [[banking/credit-cooperative-registry-japan|credit-cooperative registry]], [[banking/rokin-bank-registry-japan|rokin registry]], [[banking/japan-trust-bank-custody-map|trust-bank custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody bank landscape]], [[banking/regional-bank-api-digital-partnership-route|regional bank API route]], [[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]], [[banking/post-megabank-positioning|post-megabank positioning]], and [[banking/regional-bank-consolidation-pattern|regional bank consolidation]]. Bank operating-company pages now live under [[JapanFG/INDEX|JapanFG]] and are cross-linked below.
 
 ## Start here
 
 - [[banking/rakuten-bank|楽天銀行]]
 - [[banking/paypay-bank|PayPay 銀行]]
 - [[banking/au-jibun-bank|auじぶん銀行]]
+- [[banking/japan-net-bank-competition-map|Japan net bank competition map]]
+- [[banking/japan-baas-operating-models|Japan BaaS operating models]]
 - [[banking/minna-bank-baas-model|Minna Bank BaaS model]]
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]]
 - [[banking/quick-deposit-four-methods|Quick deposit four methods]]
+- [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]
+- [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]
+- [[banking/trust-bank-custody-operating-comparison|Japan trust bank custody operating comparison]]
+- [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]]
 
 ## Net banks / platform banks
 
@@ -72,10 +86,18 @@ sources:
 
 ## BaaS / infrastructure
 
+- [[banking/japan-baas-operating-models|Japan BaaS operating models]]
 - [[banking/minna-bank-baas-model|Minna Bank BaaS model]]
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]]
 - [[banking/baas-japan-landscape|Japan BaaS landscape]]
 - [[banking/quick-deposit-four-methods|Quick deposit four methods]]
+- [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]]
+
+## Trust / custody infrastructure
+
+- [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]
+- [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]
+- [[banking/trust-bank-custody-operating-comparison|Japan trust bank custody operating comparison]]
 
 ## Banking structure patterns
 
@@ -88,8 +110,10 @@ sources:
 - [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]]
 - [[banking/post-megabank-positioning|Post-megabank positioning]]
 - [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]]
+- [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]]
 
 ## Backlog
 
-- Add comparison table: Rakuten Bank / PayPay Bank / au Jibun Bank / SSNB / GMO Aozora / Minna Bank / Mercari Bank.
-- Split BaaS operating models from retail net-bank account-acquisition models if the domain grows past 25 entries.
+- Done: [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for Rakuten Bank / PayPay Bank / au Jibun Bank / SSNB / GMO Aozora / Minna Bank / Sony Bank / UI Bank comparison.
+- Done: [[banking/japan-baas-operating-models|Japan BaaS operating models]] split from retail net-bank account-acquisition models.
+- Done: [[banking/trust-bank-custody-operating-comparison|Japan trust-bank custody operating comparison]] for full-service trust banks, asset-administration specialists, global custodians, ICSDs, and market infrastructure.

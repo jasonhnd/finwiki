@@ -8,8 +8,8 @@ aliases:
 domain: "JapanFG"
 subdomain: "legal-financial-licenses"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, index, legal, financial-license, regulation]
@@ -23,29 +23,36 @@ sources:
   - "https://paymentsjapan.or.jp/category/publications/"
   - "https://www.chihousai.or.jp/en/02/10.php"
   - "https://www.smfl.co.jp/english/corporate/about/"
+  - "https://www.jsda.or.jp/about/gaiyou/"
+  - "https://www.zengin-net.jp/zengin_system/cotra/"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf"
+  - "https://www.fsa.go.jp/en/regulated/licensed/city.pdf"
+  - "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf"
+  - "https://www.fsa.go.jp/en/news/2025/20250630/20250630.html"
+  - "https://www.jsda.or.jp/en/about/members-list/index.html"
   - "https://elaws.e-gov.go.jp/"
 ---
 
 # JapanFG legal / financial licenses domain
 
-## TL;DR
+## Overview
 
 This is the JapanFG horizontal domain for **law, regulation, and financial-license stack**. Company pages stay in [[JapanFG/INDEX|JapanFG]], while this page routes the cross-cutting legal layer: bank licenses, securities / FIEA registration, insurance regulation, funds transfer / prepaid / electronic-payment-agency registration, crypto-asset exchange registration, stablecoin / EPI regimes, lending / installment-sales law, and policy-finance special statutes.
 
 Use this page when the question is **"what license / legal regime makes this financial activity possible?"** rather than **"which company is this?"**
 
-This is a navigation and research-control page, not legal advice. Any actual license conclusion should be checked against the latest FSA list, e-Gov law text, supervisory guidelines, and counsel / regulator confirmation.
+This is a navigation and research-control page, not legal advice. Any actual license conclusion requires checking against the latest FSA list, e-Gov law text, supervisory guidelines, and counsel / regulator confirmation.
 
 ## Route Map
 
 | Lane | License / law layer | Start here |
 |---|---|---|
-| Bank / deposit-taking | Banking Act, bank holding company, foreign bank branch, trust-bank functions | [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]], [[JapanFG/sumitomo-mitsui-trust|SMTH]], [[banking/baas-japan-landscape|Japan BaaS landscape]] |
-| Securities / capital markets | Financial Instruments and Exchange Act, Type I FIBO, registered financial institution, JSDA self-regulation | [[securities/INDEX|securities INDEX]], [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]], [[JapanFG/rakuten-securities|Rakuten Securities]], [[JapanFG/jsda|JSDA]] |
-| Payments / embedded finance | Funds transfer, prepaid payment instruments, electronic payment agency, financial-service intermediary | [[payments/INDEX|payments INDEX]], [[payments/cashless-jp-landscape|Cashless JP landscape]], [[loyalty/INDEX|loyalty INDEX]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]], [[banking/minna-bank-baas-model|Minna Bank BaaS]], [[fintech/japan-financial-regulation|Japan financial regulation]] |
+| Bank / deposit-taking | Banking Act, bank holding company, foreign bank branch, foreign bank agency, bank license / BaaS boundary, trust-bank functions | [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]], [[JapanFG/sumitomo-mitsui-trust|SMTH]], [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]], [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]], [[JapanFG/legal-financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]], [[banking/baas-japan-landscape|Japan BaaS landscape]] |
+| Securities / capital markets | Financial Instruments and Exchange Act, Type I/II FIBO, registered financial institution, intermediary, advisory / management, PTS, JSDA self-regulation | [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/INDEX|securities INDEX]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]], [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]], [[JapanFG/rakuten-securities|Rakuten Securities]], [[JapanFG/jsda|JSDA]] |
+| Payments / embedded finance | Funds transfer, prepaid payment instruments, account-to-account payment, account-direct merchant acquiring, electronic payment agency, electronic payment instruments, electronic payment handling, bank API, financial-service intermediary | [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]], [[payments/INDEX|payments INDEX]], [[payments/cashless-jp-landscape|Cashless JP landscape]], [[payments/account-to-account-payment-japan|Japan account-to-account payment route]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], [[payments/japan-bank-api-payment-agency-route|Japan bank API and electronic payment agency route]], [[loyalty/INDEX|loyalty INDEX]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]], [[banking/minna-bank-baas-model|Minna Bank BaaS]], [[fintech/japan-financial-regulation|Japan financial regulation]] |
 | Credit / installment / BNPL | Installment Sales Act, money lending, credit-card acquiring / issuing, consumer-finance regulation | [[JapanFG/jcb|JCB]], [[JapanFG/paidy|Paidy]], [[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]], [[JapanFG/acom|Acom]], [[JapanFG/aiful|Aiful]] |
 | Crypto / stablecoin / EPI | Crypto-asset exchange registration, JVCEA, electronic payment instruments, ECISB, stablecoin transaction layers | [[exchanges/fsa-vasp-registration-system|FSA VASP registration]], [[exchanges/jvcea-self-regulatory-overview|JVCEA]], [[fintech/japan-ecisb-license|ECISB]], [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] |
-| Insurance | Insurance Business Act, life / non-life insurer, insurance holding company, solvency / ESR | [[insurance/INDEX|insurance INDEX]], [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/tokio-marine|Tokio Marine]], [[insurance/economic-value-based-solvency|Economic-value solvency]] |
+| Insurance | Insurance Business Act, life / non-life insurer, insurance holding company, insurance agent / broker, solvency / ESR | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/INDEX|insurance INDEX]], [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/tokio-marine|Tokio Marine]], [[insurance/economic-value-based-solvency|Economic-value solvency]] |
 | Leasing / non-bank finance | Leasing, credit, consumer finance, finance-company registration, non-bank group finance | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[JapanFG/smfl|SMFL]], [[JapanFG/mizuho-lease|Mizuho Lease]], [[JapanFG/credit-saison|Credit Saison]], [[JapanFG/orico|Orico]] |
 | Policy finance / special corporation | Policy-finance statutes, government financial institutions, export credit, ODA, Okinawa development finance | [[policy-finance/INDEX|policy-finance INDEX]], [[JapanFG/jfc|JFC]], [[JapanFG/jbic|JBIC]], [[JapanFG/dbj|DBJ]], [[JapanFG/okinawa-shinko|ODFC]] |
 | Money market / central bank | Bank of Japan Act, money-market operations, tanshi companies, local-government finance | [[money-market/INDEX|money-market INDEX]], [[JapanFG/boj-monetary-policy|BoJ monetary policy]], [[JapanFG/tokyo-tanshi|Tokyo Tanshi]], [[JapanFG/central-tanshi|Central Tanshi]], [[JapanFG/local-bond-market|Local bond market]] |
@@ -54,16 +61,17 @@ This is a navigation and research-control page, not legal advice. Any actual lic
 
 | Activity / balance sheet | Primary license or registration | Legal / supervisory anchor | Typical JapanFG entities | Verification source |
 |---|---|---|---|---|
-| Taking deposits / lending as a bank | Bank license; bank holding company approval where applicable | Banking Act; FSA bank / bank holding company lists | [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho]], [[JapanFG/seven-bank|Seven Bank]], [[banking/rakuten-bank|Rakuten Bank]] | FSA "銀行" / "銀行持株会社" lists |
+| Taking deposits / lending as a bank | Bank license; bank holding company approval where applicable | Banking Act; FSA bank / bank holding company lists; [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] | [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho]], [[JapanFG/seven-bank|Seven Bank]], [[banking/rakuten-bank|Rakuten Bank]] | FSA "銀行" / "銀行持株会社" lists |
+| Foreign bank branch / agency | Foreign bank branch license; foreign bank agency bank route | Banking Act; FSA foreign-bank branch and foreign-bank agency lists; FSA monitoring report | [[JapanFG/jpmorgan-japan|JPMorgan Japan]], [[JapanFG/hsbc-japan|HSBC Japan]], [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]] | [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]], [[JapanFG/legal-financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]] |
 | Trust banking / custody trust | Trust bank / trust business / trust-company route | Trust Business Act; trust-bank lists; FSA trust-company lists | [[JapanFG/sumitomo-mitsui-trust|SMTH]], [[JapanFG/custody-bank|Custody Bank]], [[JapanFG/master-trust-bank|Master Trust Bank]] | FSA "信託兼営金融機関" / "信託会社" lists |
 | Securities brokerage / underwriting | Type I Financial Instruments Business Operator; registered financial institution where bank does securities business | Financial Instruments and Exchange Act; JSDA rules | [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]] | FSA "金融商品取引業者" / "登録金融機関" lists; [[JapanFG/jsda|JSDA]] |
 | Asset management / investment advisory | Investment management / investment advisory and agency business | FIEA; FSA FIBO list | [[JapanFG/nomura-hd|Nomura]], [[JapanFG/mufg|MUFG]], [[JapanFG/mizuho-fg|Mizuho]] asset-management subsidiaries | FSA "金融商品取引業者" list |
-| Life / non-life insurance underwriting | Life insurer / non-life insurer license; insurance holding company | Insurance Business Act; FSA insurance lists | [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], [[JapanFG/sompo|Sompo]] | FSA "生命保険" / "損害保険" / "保険持株会社" lists |
-| Insurance solicitation / brokerage | Insurance agent / insurance broker route | Insurance Business Act | Insurance agency channels under banks, retailers, and fintechs | FSA insurance-broker list + firm disclosures |
-| Funds transfer / remittance | Funds transfer service provider | Payment Services Act | [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/mercari-hd|Mercari HD]], [[JapanFG/rakuten-fg|Rakuten FG]] payment arms | FSA "資金移動業者" list; [[payments/cashless-jp-landscape|cashless JP landscape]] |
-| Prepaid / stored value | Third-party or self-use prepaid payment instruments issuer | Payment Services Act | PayPay / Rakuten / Mercari / WAON / nanaco / selected points and wallet products | FSA "前払式支払手段" lists; [[loyalty/japan-points-landscape|points landscape]] |
+| Life / non-life insurance underwriting | Life insurer / non-life insurer license; insurance holding company | Insurance Business Act; FSA insurance lists; FSA economic-value solvency hub | [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], [[JapanFG/sompo|Sompo]] | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], FSA "生命保険" / "損害保険" / "保険持株会社" lists |
+| Insurance solicitation / brokerage | Insurance agent / insurance broker route | Insurance Business Act; FSA insurance-broker supervision guideline | Insurance agency channels under banks, retailers, and fintechs | [[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]], FSA insurance-broker list + firm disclosures |
+| Funds transfer / remittance | Funds transfer service provider | Payment Services Act; [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] | [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/mercari-hd|Mercari HD]], [[JapanFG/rakuten-fg|Rakuten FG]] payment arms | FSA "資金移動業者" list; [[payments/cashless-jp-landscape|cashless JP landscape]] |
+| Prepaid / stored value | Third-party or self-use prepaid payment instruments issuer | Payment Services Act; [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] | PayPay / Rakuten / Mercari / WAON / nanaco / selected points and wallet products | FSA "前払式支払手段" lists; [[loyalty/japan-points-landscape|points landscape]] |
 | Electronic payment agency / bank API instruction | Electronic payment agency registration | Banking Act / related registration regime | [[banking/mercari-bank-license-stack|Merpay x Minna Bank]], account-aggregation / BaaS flows | FSA "電子決済等代行業者" list |
-| Stablecoin intermediary / EPI transaction | Electronic payment instruments transaction business; electronic payment handling business | Payment Services Act / Banking Act; FSA stablecoin guidance | JPYC / SBI VC Trade / bank-stablecoin or EPI intermediaries | FSA "電子決済手段等取引業者" list; FSA EPI page |
+| Stablecoin intermediary / EPI transaction | Electronic payment instruments transaction business; electronic payment handling business | Payment Services Act / Banking Act; FSA stablecoin guidance; [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] | JPYC / SBI VC Trade / bank-stablecoin or EPI intermediaries | FSA "電子決済手段等取引業者" list; FSA EPI page |
 | Crypto-asset exchange / custody / brokerage | Crypto-asset exchange service provider | Payment Services Act; FSA crypto-asset registration list; JVCEA self-regulation | [[JapanFG/bitflyer|bitFlyer]], [[JapanFG/bittrade|BitTrade]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] | [[exchanges/fsa-vasp-registration-system|FSA VASP registration]], [[exchanges/jvcea-self-regulatory-overview|JVCEA]] |
 | Crypto derivatives / CFDs | Type I FIBO or derivatives registration route plus JVCEA derivative layer | FIEA + JVCEA | Monex / SBI / DMM / FX-securities linked entities | [[exchanges/jp-vasp-derivative-license-system|VASP derivative license system]] |
 | Credit card / installment / BNPL | Installment sales / credit purchase intermediation / card-acquirer and issuer regimes | Installment Sales Act; METI / relevant registration; consumer-protection rules | [[JapanFG/jcb|JCB]], [[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]], [[JapanFG/paidy|Paidy]] | [[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]] |
@@ -107,7 +115,8 @@ Use this table when evaluating a product idea, target company, or M&A / partners
 |---|---|---|
 | Megabanks | Bank holding company, banking, trust, securities subsidiaries, registered financial institution, AML / sanctions | [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho]], [[JapanFG/resona-hd|Resona]] |
 | Trust / custody banks | Trust business, custody, asset servicing, fund administration | [[JapanFG/sumitomo-mitsui-trust|SMTH]], [[JapanFG/custody-bank|Custody Bank]], [[JapanFG/master-trust-bank|Master Trust Bank]], [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]] |
-| Securities groups | Type I FIBO, underwriting, brokerage, investment banking, JSDA | [[securities/INDEX|securities INDEX]], [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]], [[JapanFG/rakuten-securities|Rakuten Securities]] |
+| Foreign financial groups | Foreign bank branch, foreign bank agency, securities / FIBO, asset management, custody, payment adjacency | [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]], [[JapanFG/legal-financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]], [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]], [[JapanFG/foreign-bank-branches-japan-index|foreign-bank branch registry index]] |
+| Securities groups | Type I/II FIBO, registered financial institution, intermediary, underwriting, brokerage, investment banking, JSDA | [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/INDEX|securities INDEX]], [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]], [[JapanFG/rakuten-securities|Rakuten Securities]] |
 | Payment / platform finance groups | Funds transfer, prepaid, electronic payment agency, credit-card / acquiring, BaaS | [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/mercari-hd|Mercari HD]], [[JapanFG/jcb|JCB]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]] |
 | Crypto-linked groups | Crypto-asset exchange, derivatives, custody, JVCEA, stablecoin / EPI | [[JapanFG/bitflyer|bitFlyer]], [[JapanFG/bittrade|BitTrade]], [[JapanFG/monex-group|Monex]], [[JapanFG/sbi-hd|SBI HD]], [[exchanges/INDEX|exchanges INDEX]] |
 | Insurance groups | Insurance Business Act, solvency margin, economic-value solvency / ESR, distribution | [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], [[JapanFG/sompo|Sompo]] |
@@ -144,7 +153,7 @@ sources:
 
 # <Topic>
 
-## TL;DR
+## Overview
 
 ## Regime Map
 
@@ -176,10 +185,13 @@ Promote or create these pages first when expanding this domain:
 | Done | [[JapanFG/bnpl-landscape|BNPL landscape]] | Source-verified bridge for Paidy / pay-later / installment-sales boundary checks |
 | Done | [[JapanFG/smfl|SMFL]], [[JapanFG/mizuho-lease|Mizuho Lease]], [[JapanFG/ntt-tc-lease|NTT TC Leasing]] | Source-verified leasing / non-bank finance peer cluster |
 | Done | [[JapanFG/local-bond-market|Local bond market]] | Source-verified local-government bond and public-finance capital-market route |
-| P2 | `JapanFG/legal-financial-licenses/bank-license-and-baas-boundary.md` | Explains why embedded banking UX does not equal bank license |
-| P2 | `JapanFG/legal-financial-licenses/payment-license-stack.md` | Funds transfer / prepaid / electronic payment agency / EPI comparison |
-| P2 | `JapanFG/legal-financial-licenses/securities-license-stack.md` | Type I/II FIBO, registered financial institution, intermediary, advisory |
-| P2 | `JapanFG/legal-financial-licenses/insurance-license-and-solvency.md` | Insurance underwriting vs distribution and ESR |
+| Done | [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|Japan bank license and BaaS boundary]] | Created to record Banking Act bank license, bank agency, electronic payment agency, electronic payment handling, and BaaS deposit-claim boundary fields |
+| Done | [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route|Japan foreign-bank branch license route]] | Foreign bank branch / representative-office / subsidiary / securities route split |
+| Done | [[JapanFG/legal-financial-licenses/foreign-bank-agency-business-route|Japan foreign bank agency business route]] | Foreign bank agency-bank route, principal foreign bank, and cross-border service boundary |
+| Done | [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses|Foreign financial group adjacent licenses in Japan]] | Foreign group bank / securities / custody / trust / payment stack route |
+| Done | [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] | Created to record funds transfer, prepaid, electronic payment agency, EPI transaction, electronic payment handling, credit / card, and account-direct payment routes |
+| Done | [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]] | Type I/II FIBO, registered financial institution, intermediary, advisory / management, PTS, JSDA |
+| Done | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|Japan insurance license and solvency route]] | Insurance underwriting vs distribution, insurance holding company, agency / broker, solvency margin, ESR, and FSA licensing |
 | Done | [[insurance/economic-value-based-solvency|Economic-value based solvency]] | Source-verified insurance regulatory-capital route under [[insurance/INDEX|insurance INDEX]] |
 | Done | [[securities/nisa-2024-flow|NISA 2024 flow]] | Source-verified securities distribution and household-investment policy route under [[securities/INDEX|securities INDEX]] |
 

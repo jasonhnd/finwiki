@@ -24,16 +24,16 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | 領域 | ディレクトリ | 内容 |
 | --- | --- | --- |
-| 🏦 日本金融機関 | [JapanFG/](JapanFG/) | メガバンク、地銀、保険、証券、政策金融、決済会社、外資金融機関、外国銀行支店 registry、信託会社 registry。 |
-| 💳 フィンテック・決済 | [fintech/](fintech/), [payments/](payments/) | ステーブルコイン、CBDC、EPI、MiCA、GENIUS、MAS、HKMA、オンチェーン金融、prepaid issuer registry。 |
+| 🏦 日本金融機関 | [JapanFG/](JapanFG/) | メガバンク、地銀、保険、証券、bank license / BaaS boundary、payment license stack、証券 license stack、insurance license / solvency route、政策金融、決済会社、消費者金融・自動車金融、外資金融機関、外国銀行支店 registry、ICSD / India / Thailand / ANZ corridor strategic exceptions、Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors、specialty trust-bank / CCI current-name anchors、pet / outdoor / telco-linked specialty insurers、信託会社 registry。 |
+| 💳 フィンテック・決済 | [fintech/](fintech/), [payments/](payments/) | ステーブルコイン、CBDC、EPI、MiCA、GENIUS、MAS、HKMA、オンチェーン金融、bank API / electronic payment agency、bank API incident controls、card issuer / acquirer / processor split、interchange / merchant-fee stack、payment clearing / settlement infrastructure、card security / authentication controls、BNPL / credit-purchase boundary、prepaid / funds-transfer / credit-card registry、account-to-account payment、account-direct acquiring、code-payment competition、PSP settlement risk。 |
 | 🪙 取引所・VASP | [exchanges/](exchanges/) | 日本・海外 CEX、DEX、VASP 規制、JVCEA、カストディ、IEO、セキュリティ事案。 |
 | ⚙️ システム | [systems/](systems/) | Canton、CCTP、EigenLayer、Hyperlane、BFT、クロスチェーン、L1/L2 基盤。 |
 | 🧩 Agent 経済 | [agent-economy/](agent-economy/) | AI agent payment、x402、AP2、embedded wallet、agent 決済インフラ。 |
-| 🏛️ 銀行・政策金融 | [banking/](banking/), [policy-finance/](policy-finance/) | BaaS、ネット銀行、JA Bank / JF Marine Bank system、協同組織金融 registry、JHF、信用保証、JICA、JBIC、NEXI、JOGMEC 等。 |
-| 📊 金融・資本市場 | [finance/](finance/), [securities/](securities/), [money-market/](money-market/) | M&A、資本市場、NISA、FIEA operator registry、短期金融市場、日銀オペレーション。 |
+| 🏛️ 銀行・政策金融 | [banking/](banking/), [policy-finance/](policy-finance/) | BaaS、BaaS operating models、ネット銀行、net-bank competition map、trust-bank / custody infrastructure、trust-bank custody operating comparison、regional bank API partnerships、JA Bank / JF Marine Bank system、協同組織金融 registry、JHF、信用保証、JICA、JBIC、NEXI、JOGMEC 等。 |
+| 📊 金融・資本市場 | [finance/](finance/), [securities/](securities/), [money-market/](money-market/) | M&A、acquisition finance、activist / engagement playbook、TOB / public-company control、MBO / squeeze-out process、large-shareholding disclosure、fair disclosure / insider trading controls、shareholder proposal / AGM voting route、資本市場、IPO listing disclosure、security-token secondary market、NISA、online brokerage competition、best execution / SOR / PTS、PTS liquidity data、margin trading / securities finance、short-selling / stock-loan controls、stock lending、prime brokerage / institutional financing、underwriting、market infrastructure、FIEA operator registry、短期金融市場、日銀オペレーション。 |
 | 🧾 事業・会社ケース | [business/](business/), [corporate-strategy/](corporate-strategy/) | 公開企業・公開人物の事業ケース、親会社文脈、スピンオフ設計。 |
 | 🛡️ セキュリティ | [security/](security/) | forensic、supply chain attack、bytecode verification、Wayback 検証。 |
-| 🛍️ その他産業 | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | 小売、製造、保険、ポイント経済などの周辺領域。 |
+| 🛍️ その他産業 | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | 小売、製造、保険（life big four、non-life big three、earthquake public-private scheme、agency / brokerage）、ポイント経済などの周辺領域。 |
 
 ### 🔐 公開面ルール
 
@@ -121,16 +121,16 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Domain | Directory | Scope |
 | --- | --- | --- |
-| 🏦 Japanese Financial Groups | [JapanFG/](JapanFG/) | Mega banks, regional banks, insurers, securities firms, policy finance, payments, foreign subsidiaries, the foreign-bank branch registry, and the trust-company registry. |
-| 💳 Fintech & Payments | [fintech/](fintech/), [payments/](payments/) | Stablecoins, CBDC, EPI, MiCA, GENIUS, MAS, HKMA, on-chain finance, and prepaid issuer registry. |
+| 🏦 Japanese Financial Groups | [JapanFG/](JapanFG/) | Mega banks, regional banks, insurers, securities firms, bank license / BaaS boundary, payment license stack, securities license stack, insurance license / solvency route, foreign-bank branch / agency / adjacent-license routes, ICSD / India / Thailand / ANZ corridor strategic exceptions, Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors, specialty trust-bank / CCI current-name anchors, pet / outdoor / telco-linked specialty insurers, policy finance, payments, consumer finance, auto finance, foreign subsidiaries, the foreign-bank branch registry, and the trust-company registry. |
+| 💳 Fintech & Payments | [fintech/](fintech/), [payments/](payments/) | Stablecoins, CBDC, EPI, MiCA, GENIUS, MAS, HKMA, on-chain finance, bank API / electronic payment agency, bank API incident controls, card issuer / acquirer / processor split, interchange / merchant-fee stack, payment clearing / settlement infrastructure, card security / authentication controls, BNPL / credit-purchase boundary, prepaid / funds-transfer / credit-card registries, account-to-account payment, account-direct acquiring, code-payment competition, and PSP settlement risk. |
 | 🪙 Exchanges & VASP | [exchanges/](exchanges/) | Global and Japanese CEX/DEX, VASP regulations, JVCEA, custody, IEO, security incidents. |
 | ⚙️ Systems & Infrastructure | [systems/](systems/) | Canton/DAML, CCTP, EigenLayer, Hyperlane, BFT, cross-chain, L1/L2 foundations. |
 | 🧩 Agent Economy | [agent-economy/](agent-economy/) | AI agent payment protocols, x402, AP2, embedded wallets, agent-commerce infrastructure. |
-| 🏛️ Banking & Policy Finance | [banking/](banking/), [policy-finance/](policy-finance/) | BaaS, net banks, JA Bank / JF Marine Bank system, cooperative-banking registries, JHF, credit guarantees, JICA, JBIC, NEXI, JOGMEC, etc. |
-| 📊 Capital Markets | [finance/](finance/), [securities/](securities/), [money-market/](money-market/) | M&A, capital markets, NISA, FIEA operator registry, call markets, BoJ open-market operations. |
+| 🏛️ Banking & Policy Finance | [banking/](banking/), [policy-finance/](policy-finance/) | BaaS, BaaS operating models, net banks, net-bank competition map, trust-bank / custody infrastructure, trust-bank custody operating comparison, regional bank API partnerships, JA Bank / JF Marine Bank system, cooperative-banking registries, JHF, credit guarantees, JICA, JBIC, NEXI, JOGMEC, etc. |
+| 📊 Capital Markets | [finance/](finance/), [securities/](securities/), [money-market/](money-market/) | M&A, acquisition finance, activist / engagement playbook, TOB / public-company control, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, capital markets, IPO listing disclosure, security-token secondary market, NISA, online brokerage competition, best execution / SOR / PTS, PTS liquidity data, margin trading / securities finance, short-selling / stock-loan controls, stock lending, prime brokerage / institutional financing, underwriting, market infrastructure, FIEA operator registry, call markets, BoJ open-market operations. |
 | 🧾 Strategic Cases | [business/](business/), [corporate-strategy/](corporate-strategy/) | Public company/person strategic business cases, spin-off designs, parent entity contexts. |
 | 🛡️ Security & Forensics | [security/](security/) | Forensics, supply-chain attacks, bytecode verification, Wayback time stamps. |
-| 🛍️ Peripheral Industries | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | Retail groups, captive finance, insurance, point loyalty liabilities. |
+| 🛍️ Peripheral Industries | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | Retail groups, captive finance, insurance operating models, life / non-life comparison pages, public-private earthquake insurance, agency / brokerage, and point loyalty liabilities. |
 
 ### 🔐 Public Surface Policy
 
@@ -203,16 +203,16 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 领域 | 目录 | 内容 |
 | --- | --- | --- |
-| 🏦 日本金融机构 | [JapanFG/](JapanFG/) | 大型银行、地方银行、保险、证券、政策金融、支付公司、外资金融机构、外国银行支店 registry 与信托公司 registry。 |
-| 💳 金融科技与支付 | [fintech/](fintech/), [payments/](payments/) | 稳定币、CBDC、EPI、MiCA、GENIUS、MAS、HKMA、链上金融与 prepaid issuer registry。 |
+| 🏦 日本金融机构 | [JapanFG/](JapanFG/) | 大型银行、地方银行、保险、证券、bank license / BaaS boundary、payment license stack、证券 license stack、insurance license / solvency route、政策金融、支付公司、消费金融、自动车金融、外资金融机构、外国银行支店 registry、ICSD / India / Thailand / ANZ corridor strategic exceptions、Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors、specialty trust-bank / CCI current-name anchors、pet / outdoor / telco-linked specialty insurers 与信托公司 registry。 |
+| 💳 金融科技与支付 | [fintech/](fintech/), [payments/](payments/) | 稳定币、CBDC、EPI、MiCA、GENIUS、MAS、HKMA、链上金融、bank API / electronic payment agency、bank API incident controls、card issuer / acquirer / processor split、interchange / merchant-fee stack、payment clearing / settlement infrastructure、card security / authentication controls、BNPL / credit-purchase boundary、prepaid / funds-transfer / credit-card registry、account-to-account payment、account-direct acquiring、code-payment competition 与 PSP settlement risk。 |
 | 🪙 交易所与 VASP | [exchanges/](exchanges/) | 日本与全球 CEX、DEX、VASP 监管、JVCEA、托管、IEO、安全事件。 |
 | ⚙️ 系统基础设施 | [systems/](systems/) | Canton、CCTP、EigenLayer、Hyperlane、BFT、跨链、L1/L2 基础设施。 |
 | 🧩 Agent 经济 | [agent-economy/](agent-economy/) | AI agent payment、x402、AP2、embedded wallet、agent 支付基础设施。 |
-| 🏛️ 银行与政策金融 | [banking/](banking/), [policy-finance/](policy-finance/) | BaaS、网络银行、JA Bank / JF Marine Bank system、协同组织金融 registry、JHF、信用保证、JICA、JBIC、NEXI、JOGMEC 等。 |
-| 📊 金融与资本市场 | [finance/](finance/), [securities/](securities/), [money-market/](money-market/) | M&A、资本市场、NISA、FIEA operator registry、短期金融市场、日本央行操作。 |
+| 🏛️ 银行与政策金融 | [banking/](banking/), [policy-finance/](policy-finance/) | BaaS、BaaS operating models、网络银行、net-bank competition map、trust-bank / custody infrastructure、trust-bank custody operating comparison、regional bank API partnerships、JA Bank / JF Marine Bank system、协同组织金融 registry、JHF、信用保证、JICA、JBIC、NEXI、JOGMEC 等。 |
+| 📊 金融与资本市场 | [finance/](finance/), [securities/](securities/), [money-market/](money-market/) | M&A、acquisition finance、activist / engagement playbook、TOB / public-company control、MBO / squeeze-out process、large-shareholding disclosure、fair disclosure / insider trading controls、shareholder proposal / AGM voting route、资本市场、IPO listing disclosure、security-token secondary market、NISA、online brokerage competition、best execution / SOR / PTS、PTS liquidity data、margin trading / securities finance、short-selling / stock-loan controls、stock lending、prime brokerage / institutional financing、underwriting、market infrastructure、FIEA operator registry、短期金融市场、日本央行操作。 |
 | 🧾 商业与公司案例 | [business/](business/), [corporate-strategy/](corporate-strategy/) | 公开公司、公开人物、母公司背景和分拆设计。 |
 | 🛡️ 安全 | [security/](security/) | forensic、供应链攻击、bytecode verification、Wayback 验证。 |
-| 🛍️ 其他产业 | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | 零售、制造、保险、积分经济等周边领域。 |
+| 🛍️ 其他产业 | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | 零售、制造、保险经营模型、寿险/损保比较、地震保险公私合营 scheme、保险代理/经纪、积分经济等周边领域。 |
 
 ### 🔐 公开面规则
 

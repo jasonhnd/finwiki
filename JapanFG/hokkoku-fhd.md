@@ -3,8 +3,8 @@ title: 北國 FHD (Hokkoku FHD)
 aliases: ["Hokkoku FHD", "Hokkoku Financial Holdings", "北國フィナンシャルホールディングス", "株式会社北國フィナンシャルホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, digital-leader]
@@ -13,6 +13,8 @@ sources:
   - "Wikipedia: 北國フィナンシャルホールディングス (公開情報)"
   - "Wikipedia: 北國銀行 (公開情報)"
   - "北國 FHD 公式 IR 公開資料"
+  - "https://www.ccig.co.jp/company/about/"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf"
 ---
 
 # 北國 FHD (Hokkoku FHD)
@@ -22,9 +24,11 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## TL;DR
+Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as the historical / old-name Hokkoku FHD bridge for older research notes and links.
 
-石川県地盤の地方銀行持株会社（東証 PRIME 7381）。2021-10-01 北國銀行の単独株式移転で発足。資産規模は中堅地銀クラスだが、**地銀業界で別格の「デジタル先進地銀」**として知られる。2008 年に地銀で初めて Microsoft Azure を採用、2010 年に勘定系をオープン勘定系（Windows サーバ + .NET ベース）へ移行、2017 年に営業店窓口端末を Surface に刷新するなど、**業界の常識を 10 年以上先取りした IT 路線**を貫いてきた。2023 年には ICT コンサル子会社「デジタルバリュー」と BaaS プラットフォーム「Tonari」を立ち上げ、**「地銀発デジタルプラットフォーマー」へと業態転換**を進める。[[fukuoka-fg]]（みんなの銀行）と並ぶ地銀 DX リーダーの一角。
+## Overview
+
+石川県地盤の地方銀行持株会社（東証 PRIME 7381）。2021-10-01 北國銀行の単独株式移転で発足し、2025-10-01 に [[JapanFG/cci-group|株式会社CCIグループ]] へ商号変更した。資産規模は中堅地銀クラスだが、**地銀業界で別格の「デジタル先進地銀」**として知られる。2008 年に地銀で初めて Microsoft Azure を採用、2010 年に勘定系をオープン勘定系（Windows サーバ + .NET ベース）へ移行、2017 年に営業店窓口端末を Surface に刷新するなど、**業界の常識を 10 年以上先取りした IT 路線**を貫いてきた。2023 年には ICT コンサル子会社「デジタルバリュー」と BaaS プラットフォーム「Tonari」を立ち上げ、**「地銀発デジタルプラットフォーマー」へと業態転換**を進める。[[fukuoka-fg]]（みんなの銀行）と並ぶ地銀 DX リーダーの一角。
 
 ## 1. 公司结构
 
