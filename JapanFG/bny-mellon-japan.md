@@ -3,8 +3,8 @@ title: BNY メロン日本 (BNY Mellon Japan)
 aliases: ["BNY Mellon Japan", "BNY メロン", "BNY Mellon", "Bank of New York Mellon", "ザ・バンク・オブ・ニューヨーク・メロン", "ザ・バンク・オブ・ニューヨーク・メロン東京支店", "BNY メロン信託銀行", "BNY メロン信託銀行株式会社", "BNY Mellon Trust Bank", "BNY メロン・アセット・マネジメント・ジャパン", "BNY Mellon Asset Management Japan", "The Bank of New York Mellon"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custody]
@@ -14,6 +14,8 @@ sources:
   - "Wikipedia: The Bank of New York Mellon (英語版、2026-05-19 参照)"
   - "BNY Mellon Annual Report 2024 (公開 IR、bny.com)"
   - "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
+  - "https://www.bny.com/corporate/jp/ja.html"
+  - "https://www.bny.com/corporate/jp/ja/asset-servicing-japan-disclosure.html"
 ---
 
 # BNY メロン日本 (BNY Mellon Japan)
@@ -23,7 +25,7 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## TL;DR
+## Overview
 
 米 **The Bank of New York Mellon Corporation**（NYSE: **BK**）の日本拠点群。親会社は **世界最大のカストディ銀行**（Assets Under Custody/Administration **約 50 兆ドル超**）^[extracted] であり、日本では **BNY メロン信託銀行株式会社 + ザ・バンク・オブ・ニューヨーク・メロン東京支店 + BNY メロン・アセット・マネジメント・ジャパン** の 3 軸構成。**邦銀リテールには関与せず**、グローバルカストディ（米国 ADR・海外証券・債券保管）と機関投資家向け資産管理サービスに集中する純粋ホールセール外資。**日本マスタートラスト [[master-trust-bank]] が国内信託に特化** するのに対し、**BNY Mellon は GPIF・大手年金基金・邦銀の海外投資カストディというグローバル分業** を担う点が構造的特徴。^[inferred]
 
@@ -51,6 +53,12 @@ The Bank of New York Mellon Corporation（米 NYSE: BK・FRB / OCC 監督）
 - 日本での主体は **「信託銀行（国内信託業ライセンス）+ 在日支店 + AM 子会社」のトライアングル構成**。グローバルカストディ業務には**信託業免許**が日本で必要なため、**信託銀行を国内法人として保有する点** が [[citigroup-japan]] や [[jpmorgan-japan]] と同様 ^[inferred]
 - **リテールバンキング・個人預金は一切扱わない**。完全に B2B / B2 機関投資家特化
 - 雇用規模は限定的（数百名規模 ^[inferred]）だが、**カストディ受託資産では State Street [[state-street-japan]] と並ぶ世界 2 強の一角**
+
+### 信託銀行 route の扱い
+
+BNY の日本公式ページは 2009 年に日本の信託銀行事業を買収し、現在の **ニューヨークメロン信託銀行株式会社** につながると説明している。別の公式 disclosure page も、ニューヨークメロン信託銀行を日本に設立された信託銀行で、法人顧客向け受託サービスを主業務とする登録金融機関として説明している。
+
+このため、FinWiki では `bny-mellon-trust-bank` を独立ページとして量産せず、本ページを [[JapanFG/foreign-bank-branches-japan-index|foreign-bank branch registry]] と [[JapanFG/trust-companies-japan-index|trust-company registry]] の umbrella route として扱う。必要な場合だけ、本節から [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] や [[JapanFG/custody-bank|日本カストディ銀行]] との custody / trust-bank 比較に進む。
 
 ## 2. 重要历史（年表抜粋）
 
@@ -140,6 +148,8 @@ The Bank of New York Mellon Corporation（米 NYSE: BK・FRB / OCC 監督）
 - **Wikipedia: The Bank of New York Mellon**（英語版、2026-05-19 参照）
 - **BNY Mellon Annual Report 2024**（公式 IR、bny.com）
 - **FSB List of G-SIBs 2024**（金融安定理事会公表、Bucket 区分）
+- **BNY Japan official page**（日本の沿革、2009 年信託銀行事業買収）
+- **BNY Japan disclosure page**（ニューヨークメロン信託銀行の登録金融機関 / 受託サービス説明）
 
 ---
 

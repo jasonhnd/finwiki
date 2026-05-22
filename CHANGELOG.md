@@ -18,7 +18,822 @@
 - 小さなエントリー更新であっても、変更理由、変更箇所、確認方法を明記します。
 - 本リポジトリ本文には公開インターネット情報、公的資料、公開開示、または公開情報に基づく分析のみを残します。個人情報、ローカルパス、非公開会話、顧客・相手方情報、内部案件の詳細は削除します。
 
+## 2026-05-22
+
+### 16:15 JST: Release notes and push preparation / Release notes と push 準備 / release notes 与 push 准备
+
+#### 日本語記録
+
+- 背景: user から `push` の指示があり、repository rule に従って push 前に release notes と GitHub Release 対象を更新する必要があった。
+- 影響範囲: `releases/v2026.05.22.md`, `CHANGELOG.md`, and pending wiki expansion files。
+- 実施内容: `v2026.05.22` 用 release notes を新規作成し、日本語、英語、中国語の順で公開範囲、主要変更、検証結果、既知の注意点、次の作業を記録。
+- 数値記録: 最新 objective expansion 8 pages は 1,071 lines / 8,624 words / 72,470 Unicode chars。commit 前の untracked new markdown expansion は release notes を除いて 75 files / 8,103 lines / 60,210 words / 514,208 Unicode chars。
+- 検証予定: staging 後に wiki-link audit, `git diff --cached --check`, hard local path / secret-like pattern scan, commit, push, remote HEAD check, and GitHub Release creation / verification を実行。
+
+#### English Record
+
+- Background: The user requested `push`; repository rules require synchronized release notes and GitHub Release handling before pushing to `origin/main`.
+- Scope: `releases/v2026.05.22.md`, `CHANGELOG.md`, and pending wiki expansion files.
+- Change: created release notes for `v2026.05.22` in Japanese, English, and Chinese, covering scope, major changes, validation results, known notes, and next work.
+- Counts: the latest objective expansion has 8 pages / 1,071 lines / 8,624 words / 72,470 Unicode chars. The pre-commit untracked new markdown expansion, excluding release notes, has 75 files / 8,103 lines / 60,210 words / 514,208 Unicode chars.
+- Validation plan: after staging, run wiki-link audit, `git diff --cached --check`, hard local path / secret-like pattern scan, commit, push, remote HEAD check, and GitHub Release creation / verification.
+
+#### 中文记录
+
+- 背景：用户要求 `push`；根据仓库规则，push 到 `origin/main` 前需要同步 release notes 和 GitHub Release。
+- 影响范围：`releases/v2026.05.22.md`、`CHANGELOG.md` 和待提交的 wiki 扩写文件。
+- 执行内容：新增 `v2026.05.22` release notes，按日文、英文、中文顺序记录发布范围、主要变更、验证结果、已知注意事项和下一步。
+- 数字记录：最新 objective expansion 8 pages 为 1,071 行 / 8,624 words / 72,470 Unicode chars。commit 前 untracked new markdown expansion 不含 release notes 为 75 files / 8,103 行 / 60,210 words / 514,208 Unicode chars。
+- 验证计划：stage 后执行 wiki-link audit、`git diff --cached --check`、hard local path / secret-like pattern scan、commit、push、remote HEAD check，以及 GitHub Release 创建 / 验证。
+
+### 16:03 JST: Bank / payment / disclosure infrastructure wiki expansion / 銀行・決済・開示インフラ wiki 拡張 / 银行、支付与披露基础设施 wiki 扩写
+
+#### 日本語記録
+
+- 背景: user から「続けて拡写」し、かつ「wiki は客観事実であり、コメントは不要」と明示されたため、制度・登録簿・公開 disclosure route・公的 source fields のみを中心にした factual wiki expansion として実行した。
+- 影響範囲: `JapanFG/legal-financial-licenses/`, `payments/`, `securities/`, `finance/`, root `INDEX.md`, domain index files, `README.md`, and this `CHANGELOG.md`。
+- 新規 / 拡張ページ 8 件:
+  - `JapanFG/legal-financial-licenses/bank-license-and-baas-boundary.md`
+  - `JapanFG/legal-financial-licenses/payment-license-stack.md`
+  - `payments/japan-interchange-and-merchant-fee-stack.md`
+  - `payments/japan-payment-clearing-and-settlement-infrastructure.md`
+  - `securities/japan-ipo-listing-disclosure-route.md`
+  - `securities/japan-security-token-secondary-market-route.md`
+  - `finance/japan-fair-disclosure-and-insider-trading-controls.md`
+  - `finance/japan-shareholder-proposal-and-agm-voting-route.md`
+- 既存 index / entry surface 更新 6 件: `INDEX.md`, `README.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `payments/INDEX.md`, `securities/INDEX.md`, `finance/INDEX.md`。
+- 文字量: 新規 / 拡張 8 pages の本文規模は 1,071 lines / 8,624 whitespace words / 72,470 Unicode chars（frontmatter と Markdown 記法を含む）。本バッチの page-level 追加字数は **72,470 chars**、単語数は **8,624 words**。
+- 書いた内容:
+  - 銀行 / BaaS: Banking Act bank license, bank agency, electronic payment agency, electronic payment handling, deposit-claim holder, partner UI, and BaaS boundary fields.
+  - 決済 license: Payment Services Act funds-transfer types, prepaid self-use / third-party split, EPI transaction business, electronic payment handling, credit / card, and account-direct payment routes.
+  - Card fee: JFTC / METI / Payments Japan merchant-fee, issuer-fee / interchange, acquirer-share, standard-rate, and public numeric fields.
+  - 決済 clearing / settlement: BOJ / BOJ-NET, Zengin, Cotra, JEPPO, Bank Pay, J-Debit, and account-direct clearing / settlement fields.
+  - IPO disclosure: JPX / TSE listing route, JPX-R examination, new-listing documents, EDINET, TDnet, and post-listing disclosure fields.
+  - Security token secondary market: FSA Market System WG, JSDA unlisted securities PTS rules, ODX START, Progmat public fields, JPX / BOOSTRY adjacency, and settlement / custody fields.
+  - FD / insider trading: FIEA Article 27-36, Article 166, FSA fair-disclosure guideline fields, TDnet publication measures, and public surface retention fields.
+  - Shareholder proposal / AGM: Companies Act Articles 298-305 / 312, convocation notice, written voting, electronic voting, JPX governance-report AGM facilitation fields.
+- 実行ステップ:
+  - 15:45: FSA, METI / JFTC, BOJ, Zengin, Cotra, JEPPO, JPX, JSDA, ODX, Progmat, e-Gov, and Japanese Law Translation の public sources を確認。
+  - 15:52: 8 pages を objective wiki style に拡張し、評論見出しを使わず `Overview`, `Route Map`, `Public Record Fields`, `Sources` を中心に整理。
+  - 15:59: root / domain indexes and README content map を更新し、wiki audit surface を 832 checked entries に同期。
+  - 16:03: 本 changelog entry を追加。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=832, entries_with_issues=0）。`git diff --check` は pass。8 pages は frontmatter delimiter=2 / H1=1 / code fences=0。hard local path / secret-like pattern scan は該当なし。評論語彙 scan も該当なし。
+- 後続事項: push は未実行。push する場合は release notes and GitHub Release を同じ作業で更新する。
+
+#### English Record
+
+- Background: The user asked to continue expansion and clarified that the wiki should contain objective facts rather than commentary. This batch was written as factual source-field wiki content.
+- Scope: legal-financial-license, payments, securities, and finance pages plus root / domain indexes, README, and this changelog.
+- New / expanded pages: 8 files covering bank / BaaS boundary, payment license stack, interchange / merchant-fee stack, payment clearing / settlement infrastructure, IPO listing disclosure, security-token secondary market, fair disclosure / insider trading controls, and shareholder proposal / AGM voting route.
+- Existing index / entry-surface files updated: `INDEX.md`, `README.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `payments/INDEX.md`, `securities/INDEX.md`, and `finance/INDEX.md`.
+- Page-level volume: 1,071 lines / 8,624 whitespace words / 72,470 Unicode chars across the 8 new / expanded pages.
+- Content written: official-law and official-source fields for Banking Act bank license / BaaS boundaries, Payment Services Act payment categories, card merchant-fee disclosure, BOJ / Zengin / Cotra / Bank Pay / J-Debit infrastructure, JPX IPO disclosure, ODX START / JSDA security-token secondary market route, FIEA fair-disclosure / insider-trading publication measures, and Companies Act shareholder proposal / AGM voting fields.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=832 and entries_with_issues=0. `git diff --check` passed. The 8 pages have frontmatter delimiter=2, H1=1, and code fences=0. Hard local path / secret-like pattern scan returned no matches. Commentary-wording scan returned no matches.
+- Follow-up: no push performed in this batch. A push requires synchronized release notes and GitHub Release updates.
+
+#### 中文记录
+
+- 背景：用户要求继续扩写，并明确指出“wiki 是客观事实，不需要评论”。本轮按客观事实 wiki 写法执行，只保留制度、登记簿、公开披露路径和官方来源字段。
+- 影响范围：`JapanFG/legal-financial-licenses/`、`payments/`、`securities/`、`finance/`，以及根 `INDEX.md`、各 domain index、`README.md` 和本 `CHANGELOG.md`。
+- 新增 / 扩写页面 8 个：
+  - `JapanFG/legal-financial-licenses/bank-license-and-baas-boundary.md`
+  - `JapanFG/legal-financial-licenses/payment-license-stack.md`
+  - `payments/japan-interchange-and-merchant-fee-stack.md`
+  - `payments/japan-payment-clearing-and-settlement-infrastructure.md`
+  - `securities/japan-ipo-listing-disclosure-route.md`
+  - `securities/japan-security-token-secondary-market-route.md`
+  - `finance/japan-fair-disclosure-and-insider-trading-controls.md`
+  - `finance/japan-shareholder-proposal-and-agm-voting-route.md`
+- 更新既有索引 / 入口文件 6 个：`INDEX.md`、`README.md`、`JapanFG/legal-financial-licenses/INDEX.md`、`payments/INDEX.md`、`securities/INDEX.md`、`finance/INDEX.md`。
+- 新增字数：8 个新增 / 扩写页面合计 1,071 行 / 8,624 个 whitespace words / 72,470 个 Unicode chars（含 frontmatter 和 Markdown 记法）。本轮 page-level 新增字符数为 **72,470 chars**，新增词数为 **8,624 words**。
+- 写了什么：
+  - 银行 / BaaS：银行牌照、银行代理、电子支付等代行业、电子支付等取扱业、存款债权归属、partner UI 与 BaaS 边界字段。
+  - 支付牌照：资金移转三类型、预付式支付手段自家型 / 第三者型、电子支付手段等交易业、电子支付等取扱业、信用 / 卡与账户直连支付路径。
+  - 卡费率：JFTC / METI / Payments Japan 的 merchant fee、issuer fee / interchange、acquirer share、standard rate 与公开数字字段。
+  - 清算 / 结算：BOJ / BOJ-NET、Zengin、Cotra、JEPPO、Bank Pay、J-Debit 与账户直连支付基础设施。
+  - IPO 披露：JPX / TSE 上市路径、JPX-R 审查、新上市文件、EDINET、TDnet 和上市后披露字段。
+  - Security token 二级市场：FSA Market System WG、JSDA 非上市证券 PTS 规则、ODX START、Progmat 公开字段、JPX / BOOSTRY 相邻记录、结算 / 托管字段。
+  - FD / 内幕交易：FIEA Article 27-36、Article 166、FSA fair-disclosure guideline、TDnet 公表措置与公开检索保留字段。
+  - 股东提案 / AGM：Companies Act Articles 298-305 / 312、召集通知、书面投票、电子投票、JPX governance report 中的 AGM facilitation 字段。
+- 执行步骤：
+  - 15:45: 检查 FSA、METI / JFTC、BOJ、Zengin、Cotra、JEPPO、JPX、JSDA、ODX、Progmat、e-Gov、Japanese Law Translation 等公开来源。
+  - 15:52: 按 objective wiki style 扩写 8 个页面，使用 `Overview`、`Route Map`、`Public Record Fields`、`Sources` 等客观结构。
+  - 15:59: 更新 root / domain indexes 和 README content map，并把 wiki audit surface 同步到 832 checked entries。
+  - 16:03: 写入本 changelog entry。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=832, entries_with_issues=0）。`git diff --check` 通过。8 个页面均为 frontmatter delimiter=2 / H1=1 / code fences=0。hard local path / secret-like pattern scan 无命中。评论式词汇 scan 无命中。
+- 后续事项：本轮未 push；如果 push，需要同步更新 release notes 和 GitHub Release。
+
+### 15:41 JST: Objective wiki tone normalization / 客観 wiki 文体補正 / 客观 wiki 文体修正
+
+#### 日本語記録
+
+- 背景: user から「wiki は客観事実であり、コメントは不要」と明確なフィードバックがあったため、直前 batch の新規 10 pages を評論調から wiki 調に補正した。
+- 影響範囲: `JapanFG/legal-financial-licenses/insurance-license-and-solvency.md`, `insurance/japan-life-insurance-big-four.md`, `insurance/japan-nonlife-big-three.md`, `insurance/earthquake-insurance-public-private-scheme.md`, `insurance/insurance-agency-and-brokerage-japan.md`, `banking/japan-net-bank-competition-map.md`, `banking/japan-baas-operating-models.md`, `banking/trust-bank-custody-operating-comparison.md`, `finance/japan-mbo-and-squeeze-out-process.md`, `finance/japan-large-shareholding-disclosure.md`, and this `CHANGELOG.md`。
+- 実施内容: `TL;DR` を `Overview` に変更し、`Strategic Read`, `Strategic Questions`, `Why it matters`, `Common analytical mistake`, `should`, `avoid` などの評論・助言調を、`Public data fields`, `Source Fields`, `Public record field`, `Legal / operating boundary` などの客観的な項目名に置換。
+- 成果: 10 pages は、制度定義、公開 source field、法的 / 事業上の境界、公開 record route、関連 wiki link を中心にした構成へ補正。
+- 後続事項: 今後の wiki expansion は、評価コメントや「読むべき」表現を避け、公開事実・制度・登録簿・開示項目・source date を中心に書く。
+
+#### English Record
+
+- Background: The user clarified that this is a factual wiki and does not need commentary. The immediately preceding 10 new pages were normalized from commentary-style wording to neutral wiki wording.
+- Scope: the 10 newly created insurance, banking, and finance route pages plus this changelog.
+- Changes: replaced `TL;DR` with `Overview`; replaced advisory / commentary headings such as `Strategic Read`, `Strategic Questions`, `Why it matters`, and `Common analytical mistake` with factual headings such as `Public data fields`, `Source Fields`, `Public record field`, and `Legal / operating boundary`.
+- Result: the pages now center on definitions, public source fields, legal / operating boundaries, public record routes, and internal wiki links.
+
+#### 中文记录
+
+- 背景：用户明确反馈“这是 wiki，是客观事实，不需要评论”。因此对刚才新增的 10 个页面做文体修正。
+- 影响范围：本轮新增的 10 个 insurance / banking / finance route 页面，以及本 `CHANGELOG.md`。
+- 修改内容：把 `TL;DR` 改为 `Overview`；把 `Strategic Read`、`Strategic Questions`、`Why it matters`、`Common analytical mistake`、`should`、`avoid` 等评论/建议式表达，改成 `Public data fields`、`Source Fields`、`Public record field`、`Legal / operating boundary` 等客观字段。
+- 成果：10 个页面现在以制度定义、公开来源字段、法律/经营边界、公开披露路径和内部链接为主，不再写评论式判断。
+- 后续要求：之后扩写 wiki 时，只写公开事实、制度、登记簿、披露字段和 source date；不写主观评价和“应该怎么读”的评论。
+
+### 15:05 JST: Insurance / banking / public-company control route expansion / 保険・銀行・上場会社支配ルート拡張 / 保险、银行与上市公司控制交易扩写
+
+#### 日本語記録
+
+- 背景: user から「続けて拡写」「一度にもっと多く書く」「毎回、何を書いたか・成果・ファイル数・字数を詳細報告する」方針が明示されているため、前回の entity-heavy expansion から、保険制度、銀行 operating model、上場会社支配取引の横断 route に拡張した。
+- 影響範囲: `insurance/`, `banking/`, `finance/`, `JapanFG/legal-financial-licenses/`, root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this `CHANGELOG.md`。
+- 新規ファイル 10 件:
+  - `JapanFG/legal-financial-licenses/insurance-license-and-solvency.md`
+  - `insurance/japan-life-insurance-big-four.md`
+  - `insurance/japan-nonlife-big-three.md`
+  - `insurance/earthquake-insurance-public-private-scheme.md`
+  - `insurance/insurance-agency-and-brokerage-japan.md`
+  - `banking/japan-net-bank-competition-map.md`
+  - `banking/japan-baas-operating-models.md`
+  - `banking/trust-bank-custody-operating-comparison.md`
+  - `finance/japan-mbo-and-squeeze-out-process.md`
+  - `finance/japan-large-shareholding-disclosure.md`
+- 既存ファイル更新 10 件: `INDEX.md`, `JapanFG/INDEX.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `README.md`, `banking/INDEX.md`, `finance/INDEX.md`, `insurance/INDEX.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this `CHANGELOG.md`。
+- 文字量: 新規 10 pages の正味本文は 1,154 lines / 9,368 whitespace words / 78,497 Unicode chars（frontmatter と Markdown 記法を含む）。本バッチ単独での追加字数は **78,497 chars**、単語数は **9,368 words**。
+- 書いた内容:
+  - 保険 legal / capital route: insurance underwriting, holding-company layer, insurance agent / broker boundary, solvency margin, economic-value solvency, and ESR reading route.
+  - 保険 operating model: life-insurance big four, non-life big three, earthquake insurance public-private scheme, and insurance agency / brokerage distribution map.
+  - 銀行 operating model: net-bank competition map, BaaS operating models, and trust-bank custody operating comparison.
+  - 上場会社支配取引: MBO / squeeze-out process and post-May-1-2026 large-shareholding disclosure / EDINET workflow.
+- 実行ステップ:
+  - 14:45: FSA, METI, MOF, Japan Earthquake Reinsurance, Minna Bank, SSNB NEOBANK, and EDINET / JPX public sources を再確認。
+  - 14:52: insurance 5 pages, banking 3 pages, finance 2 pages を新規作成。
+  - 14:58: root index, JapanFG legal-license index, insurance / banking / finance indexes, README, and release notes を 808 entries surface に同期。
+  - 15:02: first wiki-link audit で missing route link 5 件を検出し、各 page の本文に domain route link を追加。
+  - 15:05: final audit, diff check, count check, frontmatter / H1 / code-fence check, and privacy scan を実行。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 824、entries with issues: 0、body links below 3: 0。
+  - `git diff --check`: pass。
+  - Root public surface: 808。Root domain count sum: 808。更新後の root rows: JapanFG 411、banking 23、insurance 11、finance 9。
+  - Frontmatter / H1 / code-fence check: issues 0。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+- 後続事項:
+  - 次は source URL drift QA、既存 entity の KPI / report-source precision、または保険・銀行・資本市場 route の表内数値 source-date 補強が自然。
+  - 残る foreign-bank registry-only rows は strategic reason が出た場合のみ standalone 化する。
+
+#### English Record
+
+- Background: The user asked for larger expansion batches and required every pass to report what was written, file counts, work results, and word / character counts. This pass moved from entity-heavy expansion into insurance systems, banking operating models, and listed-company control-transaction routes.
+- Scope: `insurance/`, `banking/`, `finance/`, `JapanFG/legal-financial-licenses/`, root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, release notes, and wiki-link QA report.
+- New files: 10 pages: insurance license / solvency, life-insurance big four, non-life big three, earthquake insurance scheme, agency / brokerage, net-bank competition map, BaaS operating models, trust-bank custody comparison, MBO / squeeze-out process, and large-shareholding disclosure.
+- Existing files updated: `INDEX.md`, `JapanFG/INDEX.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `README.md`, `banking/INDEX.md`, `finance/INDEX.md`, `insurance/INDEX.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this changelog.
+- Text volume: the new 10 pages contain 1,154 lines / 9,368 whitespace words / 78,497 Unicode characters, including frontmatter and Markdown syntax.
+- Work performed:
+  - Added an insurance legal / capital route covering underwriting, holding-company layers, agents / brokers, solvency margin, economic-value solvency, and ESR.
+  - Added insurance operating-model pages for the life big four, non-life big three, earthquake public-private scheme, and agency / brokerage distribution.
+  - Added banking operating-model pages for net-bank competition, BaaS, and trust-bank custody.
+  - Added listed-company control pages for MBO / squeeze-out process and post-May-1-2026 large-shareholding disclosure.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 824; entries with issues: 0; body links below 3: 0.
+  - `git diff --check`: pass.
+  - Root public surface: 808; root domain count sum: 808. Updated rows: JapanFG 411, banking 23, insurance 11, finance 9.
+  - Frontmatter / H1 / code-fence check: issues 0.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+- Next:
+  - Useful next work: source URL drift QA, KPI / report-source precision for existing entities, and source-dated numeric tables for the insurance / banking / capital-market routes.
+  - Remaining foreign-bank registry-only rows should be promoted only where a standalone strategic reason appears.
+
+#### 中文记录
+
+- 背景：用户明确要求继续扩写、一次多写、并且每次都报告“完整写了什么、工作成果、文件数量、字数/字符数”。本轮从上一批 entity-heavy 扩写，转向保险制度、银行经营模型与上市公司控制交易 route。
+- 影响范围：`insurance/`、`banking/`、`finance/`、`JapanFG/legal-financial-licenses/`、根目录 `INDEX.md`、`JapanFG/INDEX.md`、`README.md`、release notes、wiki-link QA 报告与本 `CHANGELOG.md`。
+- 新增文件 10 个：
+  - `JapanFG/legal-financial-licenses/insurance-license-and-solvency.md`
+  - `insurance/japan-life-insurance-big-four.md`
+  - `insurance/japan-nonlife-big-three.md`
+  - `insurance/earthquake-insurance-public-private-scheme.md`
+  - `insurance/insurance-agency-and-brokerage-japan.md`
+  - `banking/japan-net-bank-competition-map.md`
+  - `banking/japan-baas-operating-models.md`
+  - `banking/trust-bank-custody-operating-comparison.md`
+  - `finance/japan-mbo-and-squeeze-out-process.md`
+  - `finance/japan-large-shareholding-disclosure.md`
+- 更新既有文件 10 个：`INDEX.md`、`JapanFG/INDEX.md`、`JapanFG/legal-financial-licenses/INDEX.md`、`README.md`、`banking/INDEX.md`、`finance/INDEX.md`、`insurance/INDEX.md`、`releases/v2026.05.21.md`、`wiki-link-improvement-plan.md` 与本 `CHANGELOG.md`。
+- 新增字数：本轮新增 10 页合计 **1,154 行 / 9,368 whitespace words / 78,497 Unicode chars**（包含 frontmatter 与 Markdown 标记）。也就是本轮单独增加 **78,497 字符**。
+- 完整写作内容：
+  - 保险牌照与资本 route：承保实体、保险持股公司、代理/经纪边界、solvency margin、economic-value solvency、ESR 读法。
+  - 保险经营模型：日本寿险四大、损保三大、地震保险公私合营制度、保险代理/经纪分销结构。
+  - 银行经营模型：日本网络银行竞争图、BaaS operating models、信托银行 / custody operating comparison。
+  - 上市公司控制交易：MBO / squeeze-out process，以及 2026-05-01 改正施行后的 large-shareholding disclosure / EDINET workflow。
+- 执行步骤：
+  - 14:45：重新核对 FSA、METI、MOF、日本地震再保险、みんなの銀行、SSNB NEOBANK、EDINET / JPX 等公开来源。
+  - 14:52：新增 insurance 5 页、banking 3 页、finance 2 页。
+  - 14:58：同步 root index、JapanFG legal-license index、insurance / banking / finance indexes、README 与 release notes 到 808 entries surface。
+  - 15:02：第一次 wiki-link audit 抓到 5 个 missing route link；随后逐页在正文补入 domain route link。
+  - 15:05：完成最终 audit、diff check、计数校验、frontmatter / H1 / code-fence 检查和隐私扫描。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`：pass。Entries checked: 824；entries with issues: 0；body links below 3: 0。
+  - `git diff --check`：pass。
+  - Root public surface: 808；Root domain count sum: 808。更新后 root rows：JapanFG 411、banking 23、insurance 11、finance 9。
+  - Frontmatter / H1 / code-fence check：issues 0。
+  - 公开面 hard local path / account string / high-confidence secret pattern 扫描：checked Markdown public surface 无命中。
+- 后续事项：
+  - 下一步适合做 source URL drift QA、既有 entity 的 KPI / report-source precision，或给保险 / 银行 / 资本市场 route 补更精确的带日期数字表。
+  - 剩余 foreign-bank registry-only rows 只在有战略理由时 standalone，不做机械 raw-list completion。
+
+### 14:37 JST: Trust-bank / CCI / foreign-bank P3 / specialty-insurer expansion / 信託銀行・CCI・外銀 P3・specialty insurer 拡張 / 信托银行、CCI、外银 P3 与专项保险扩写
+
+#### 日本語記録
+
+- 背景: user から「続けて拡写」「一度にもっと多く書く」「毎回ファイル数と字数を詳細報告する」方針が明示されているため、前回の P2 strategic foreign-bank batch から、残る高価値の銀行 / 信託 / 保険 route に対象を広げた。
+- 影響範囲: `JapanFG/`, `insurance/INDEX.md`, `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, and `wiki-link-improvement-plan.md`。
+- 新規ファイル 15 件:
+  - `JapanFG/sbi-shinsei-trust-bank.md`
+  - `JapanFG/jsf-trust-bank.md`
+  - `JapanFG/cci-group.md`
+  - `JapanFG/commonwealth-bank-japan.md`
+  - `JapanFG/national-australia-bank-japan.md`
+  - `JapanFG/bank-negara-indonesia-japan.md`
+  - `JapanFG/philippine-national-bank-japan.md`
+  - `JapanFG/metrobank-japan.md`
+  - `JapanFG/banco-do-brasil-japan.md`
+  - `JapanFG/first-commercial-bank-japan.md`
+  - `JapanFG/taipei-fubon-bank-japan.md`
+  - `JapanFG/dai-ichi-ipet-insurance.md`
+  - `JapanFG/pet-and-family-insurance.md`
+  - `JapanFG/yamap-naturance-insurance.md`
+  - `JapanFG/ntt-docomo-sonpo.md`
+- 既存ファイル更新: `JapanFG/bny-mellon-japan.md`, `JapanFG/hokkoku-fhd.md`, `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `insurance/INDEX.md`, root `INDEX.md`, `README.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this `CHANGELOG.md`。
+- 文字量: 新規 15 pages の正味本文は 1,321 lines / 8,388 whitespace words / 70,937 Unicode chars（frontmatter と Markdown 記法を含む）。
+- タイムライン:
+  - 13:40: trust / bank-holding / insurance / foreign-bank candidate を agent findings と公開 source で整理し、BNY Mellon Trust は独立ページ化せず [[JapanFG/bny-mellon-japan]] umbrella に吸収する方針を決定。
+  - 14:05: [[JapanFG/sbi-shinsei-trust-bank]], [[JapanFG/jsf-trust-bank]], and [[JapanFG/cci-group]] を作成し、[[JapanFG/hokkoku-fhd]] を current-name [[JapanFG/cci-group]] への historical bridge として補正。
+  - 14:18: Commonwealth Bank, NAB, BNI, PNB, Metrobank, Banco do Brasil, First Commercial Bank, and Taipei Fubon の foreign-bank P3 corridor pages を作成し、foreign-bank registry coverage を 43 standalone / 14 registry-only から 51 standalone / 6 registry-only に更新。
+  - 14:30: Daiichi ipet, Pet & Family, YAMAP Naturance, and NTT Docomo General Insurance の specialty insurer pages を作成し、[[insurance/INDEX]] と backlog の D8 / non-life lower-bound coverage を同期。
+  - 14:37: root index, JapanFG index, foreign-bank registry, insurance index, backlog, README, release notes, and changelog を同期。Root public surface は 783 から 798、JapanFG は 395 から 410、JapanFG entity count は 387 から 402 に更新。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 814、entries with issues: 0、body links below 3: 0。
+  - Root public surface: 798。Root domain count sum: 798。Root rows: JapanFG 410、banking 20、insurance 7、payments 15、securities 18、finance 7。
+  - Frontmatter required issues: 0。Missing H1: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+- 後続事項:
+  - Remaining foreign-bank registry-only rows are now 6; promote only for strategic reason, not raw list completion.
+  - Next useful work is source URL drift QA, report-source precision, or deeper KPI / operating-model refinement for custody, trust-bank, and specialty insurance pages.
+
+#### English Record
+
+- Background: The user asked to keep expanding, write more per pass, and report file counts and word counts every time. This pass extended the previous P2 strategic foreign-bank work into high-value banking, trust, CCI, foreign-bank P3, and specialty-insurance routes.
+- Scope: `JapanFG/`, `insurance/INDEX.md`, the foreign-bank registry index, the missing-institution backlog, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, and `wiki-link-improvement-plan.md`.
+- New files: 15 pages covering SBI Shinsei Trust Bank, JSF Trust Bank, CCI Group, eight foreign-bank P3 corridor pages, and four specialty insurer pages.
+- Existing files updated: `JapanFG/bny-mellon-japan.md`, `JapanFG/hokkoku-fhd.md`, `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `insurance/INDEX.md`, root `INDEX.md`, `README.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this changelog.
+- Text volume: the new 15 pages contain 1,321 lines / 8,388 whitespace words / 70,937 Unicode characters, including frontmatter and Markdown syntax.
+- Timeline:
+  - 13:40: Reconciled trust / bank-holding / insurance / foreign-bank candidates from agent findings and public sources; decided not to create a duplicate BNY Mellon Trust page and instead strengthened the [[JapanFG/bny-mellon-japan]] umbrella route.
+  - 14:05: Created SBI Shinsei Trust Bank, JSF Trust Bank, and CCI Group pages, then updated Hokkoku FHD as the historical bridge to current-name CCI Group.
+  - 14:18: Created Commonwealth Bank, NAB, BNI, PNB, Metrobank, Banco do Brasil, First Commercial Bank, and Taipei Fubon pages; moved foreign-bank branch coverage from 43 standalone / 14 registry-only to 51 standalone / 6 registry-only.
+  - 14:30: Created Daiichi ipet, Pet & Family, YAMAP Naturance, and NTT Docomo General Insurance pages; synced the insurance index and D8 backlog coverage.
+  - 14:37: Synced the root index, JapanFG index, foreign-bank registry, insurance index, backlog, README, release notes, and changelog. Root public surface moved from 783 to 798, JapanFG from 395 to 410, and JapanFG entity count from 387 to 402.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 814; entries with issues: 0; body links below 3: 0.
+  - Root public surface: 798. Root domain count sum: 798. Root rows: JapanFG 410, banking 20, insurance 7, payments 15, securities 18, finance 7.
+  - Frontmatter required issues: 0. Missing H1: 0. Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+- Next:
+  - Remaining registry-only foreign-bank rows are now 6; promote only for strategic reasons, not raw list completion.
+  - Useful next work is source URL drift QA, report-source precision, or deeper KPI / operating-model refinement for custody, trust-bank, and specialty-insurance pages.
+
+#### 中文记录
+
+- 背景：用户要求继续扩写，并要求每次都扩大工作量、完整报告新增文件数与新增字数。本轮在上一批 foreign-bank P2 strategic exceptions 之后，继续补写高价值银行、信托、CCI、外银 P3 与专项保险路线。
+- 影响范围：`JapanFG/`、`insurance/INDEX.md`、foreign-bank registry index、missing-institution backlog、`JapanFG/INDEX.md`、根 `INDEX.md`、`README.md`、release notes 与 `wiki-link-improvement-plan.md`。
+- 新增文件 15 个：SBI Shinsei Trust Bank、JSF Trust Bank、CCI Group、8 个 foreign-bank P3 corridor pages、4 个 specialty insurer pages。
+- 更新既有文件：`JapanFG/bny-mellon-japan.md`、`JapanFG/hokkoku-fhd.md`、`JapanFG/foreign-bank-branches-japan-index.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、`insurance/INDEX.md`、根 `INDEX.md`、`README.md`、`releases/v2026.05.21.md`、`wiki-link-improvement-plan.md` 与本 changelog。
+- 字数统计：新增 15 页合计 1,321 行 / 8,388 个 whitespace words / 70,937 个 Unicode 字符（含 frontmatter 与 Markdown 语法）。
+- 时间线：
+  - 13:40: 根据并行 agent findings 与公开来源整理 trust / bank-holding / insurance / foreign-bank 候选；决定不为 BNY Mellon Trust 单独造重复页面，而是增强 [[JapanFG/bny-mellon-japan]] umbrella route。
+  - 14:05: 创建 SBI Shinsei Trust Bank、JSF Trust Bank、CCI Group 页面，并把 Hokkoku FHD 修正为指向当前名称 CCI Group 的历史桥接页。
+  - 14:18: 创建 Commonwealth Bank、NAB、BNI、PNB、Metrobank、Banco do Brasil、First Commercial Bank、Taipei Fubon 页面；foreign-bank branch 覆盖从 43 standalone / 14 registry-only 更新为 51 standalone / 6 registry-only。
+  - 14:30: 创建 Daiichi ipet、Pet & Family、YAMAP Naturance、NTT Docomo General Insurance 页面，并同步 insurance index 与 backlog D8 / non-life coverage。
+  - 14:37: 同步根 index、JapanFG index、foreign-bank registry、insurance index、backlog、README、release notes 与 changelog。Root public surface 从 783 更新到 798，JapanFG 从 395 更新到 410，JapanFG entity count 从 387 更新到 402。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 814，entries with issues: 0，body links below 3: 0。
+  - Root public surface: 798。Root domain count sum: 798。Root rows: JapanFG 410，banking 20，insurance 7，payments 15，securities 18，finance 7。
+  - Frontmatter required issues: 0。Missing H1: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面 hard local paths、local account strings 与 high-confidence secret patterns 扫描：checked Markdown public surface 内无匹配。
+- 后续事项：
+  - foreign-bank registry-only rows 现在剩 6 行；后续只在有战略理由时提升为 standalone，不做 raw list completion。
+  - 下一步更适合做 source URL drift QA、report-source precision，或深化 custody、trust-bank、specialty-insurance pages 的 KPI / operating-model 分析。
+
+### 12:06 JST: Strategic foreign-bank, card-security, prime-brokerage, and finance route expansion / 戦略的 foreign-bank・card-security・prime-brokerage・finance route 拡張 / 战略外银、卡安全、prime brokerage 与财务路线扩写
+
+#### 日本語記録
+
+- 背景: user から「毎回もっと大きく書き、成果・ファイル数・字数を詳細報告する」方針が追加されたため、3 つの並行 research agent を使い、外銀 P2 strategic exceptions と payments / securities / finance control gaps をまとめて実行した。
+- 影響範囲: `JapanFG/`, `payments/`, `securities/`, `finance/`, `banking/`, `JapanFG/legal-financial-licenses/`, root `INDEX.md`, `README.md`, release notes, backlog, and `wiki-link-improvement-plan.md`。
+- 新規ファイル 11 件:
+  - `JapanFG/euroclear-bank-japan.md`
+  - `JapanFG/clearstream-banking-japan.md`
+  - `JapanFG/bank-of-communications-japan.md`
+  - `JapanFG/bangkok-bank-japan.md`
+  - `JapanFG/state-bank-of-india-japan.md`
+  - `JapanFG/bank-of-india-japan.md`
+  - `JapanFG/anz-bank-japan.md`
+  - `payments/japan-card-security-authentication-controls.md`
+  - `securities/japan-prime-brokerage-and-institutional-financing.md`
+  - `finance/japan-acquisition-finance.md`
+  - `finance/japan-activist-investor-playbook.md`
+- 文字量: 新規 11 pages の正味本文は 1,251 lines / 9,045 whitespace words / 77,053 Unicode chars（frontmatter と Markdown 記法を含む）。
+- タイムライン:
+  - 11:25: foreign-bank / FMI agent, securities / finance agent, payments card-security agent の結果を統合し、FSA, Euroclear, Clearstream, IBA Japan, Bangkok Bank, State Bank of India, Bank of India, ANZ, METI, JCA, PCI SSC, EMVCo, JPX, JSDA, JASDEC, JSCC, METI takeover guideline, FSA FIEA FAQ, and TSE governance sources を確認。
+  - 11:42: Euroclear, Clearstream, Bank of Communications, Bangkok Bank, State Bank of India, Bank of India, and ANZ の 7 entity pages を作成し、[[JapanFG/foreign-bank-branches-japan-index]] coverage を 36 standalone / 21 registry-only から 43 standalone / 14 registry-only に更新。
+  - 11:52: card security / authentication controls, prime brokerage / institutional financing, acquisition finance, and activist investor playbook を作成し、payments / securities / finance の backlog を Done に更新。
+  - 12:03: root index, domain indexes, foreign-bank registry, legal-license routes, banking foreign-bank-retreat page, trust-bank custody map, securities market-infrastructure map, README, release notes, and backlog を同期。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 799、entries with issues: 0、body links below 3: 0。
+  - Root public surface: 783。Root domain count sum: 783。Root rows: JapanFG 395、payments 15、securities 18、finance 7。
+  - Frontmatter checked: 798。Required issues: 0。Missing H1: 0。
+  - Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+- 後続事項:
+  - Remaining foreign-bank standalone pages should be promoted only for strategic reasons, not raw list completion.
+  - Next useful batch candidates are source URL drift QA, report-source precision, or deeper KPI / operating-model refinement for custody / institutional-finance pages.
+
+#### English Record
+
+- Background: The user added a standing reporting requirement for larger batches, full work-result detail, file counts, and word counts. This pass used three parallel research agents and executed foreign-bank P2 strategic exceptions plus payments / securities / finance control gaps in one batch.
+- Scope: `JapanFG/`, `payments/`, `securities/`, `finance/`, `banking/`, `JapanFG/legal-financial-licenses/`, root `INDEX.md`, `README.md`, release notes, backlog, and `wiki-link-improvement-plan.md`.
+- New files: 11 pages covering Euroclear, Clearstream, Bank of Communications, Bangkok Bank, State Bank of India, Bank of India, ANZ, card security / authentication, prime brokerage / institutional financing, acquisition finance, and activist investor playbook.
+- Text volume: the new 11 pages contain 1,251 lines / 9,045 whitespace words / 77,053 Unicode characters, including frontmatter and Markdown syntax.
+- Timeline:
+  - 11:25: Integrated the foreign-bank / FMI, securities / finance, and card-security research results and checked public-source routes from FSA, Euroclear, Clearstream, IBA Japan, the named banks, METI, JCA, PCI SSC, EMVCo, JPX, JSDA, JASDEC, JSCC, FSA FIEA FAQ, and TSE governance materials.
+  - 11:42: Created seven foreign-bank / ICSD / corridor entity pages and moved foreign-bank branch coverage from 36 standalone / 21 registry-only to 43 standalone / 14 registry-only.
+  - 11:52: Created card security / authentication controls, prime brokerage / institutional financing, acquisition finance, and activist investor playbook, then marked the relevant payments / securities / finance backlog items Done.
+  - 12:03: Synced root index, domain indexes, foreign-bank registry, legal-license routes, foreign-bank-retreat page, trust-bank custody map, securities market-infrastructure map, README, release notes, and backlog.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 799; entries with issues: 0; body links below 3: 0.
+  - Root public surface: 783. Root domain count sum: 783. Root rows: JapanFG 395, payments 15, securities 18, finance 7.
+  - Frontmatter checked: 798. Required issues: 0. Missing H1: 0.
+  - Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+- Next:
+  - Promote remaining foreign-bank standalone pages only for strategic reasons, not raw list completion.
+  - Useful next batches are source URL drift QA, report-source precision, or deeper KPI / operating-model refinement for custody / institutional-finance pages.
+
+#### 中文记录
+
+- 背景：用户新增长期要求：每次扩写都要更大批量执行，并完整报告工作成果、文件数量和新增字数。本轮使用 3 个并行 research agent，把 foreign-bank P2 strategic exceptions 与 payments / securities / finance control gaps 合并执行。
+- 影响范围：`JapanFG/`、`payments/`、`securities/`、`finance/`、`banking/`、`JapanFG/legal-financial-licenses/`、根 `INDEX.md`、`README.md`、release notes、backlog 与 `wiki-link-improvement-plan.md`。
+- 新增文件 11 个：Euroclear、Clearstream、交通银行、Bangkok Bank、State Bank of India、Bank of India、ANZ、card security / authentication、prime brokerage / institutional financing、acquisition finance、activist investor playbook。
+- 字数统计：新增 11 页合计 1,251 行 / 9,045 个 whitespace words / 77,053 个 Unicode 字符（含 frontmatter 与 Markdown 语法）。
+- 时间线：
+  - 11:25: 整合 foreign-bank / FMI、securities / finance、card-security 三组 research 结果，并核对 FSA、Euroclear、Clearstream、IBA Japan、相关银行官网、METI、JCA、PCI SSC、EMVCo、JPX、JSDA、JASDEC、JSCC、FSA FIEA FAQ 与 TSE governance materials。
+  - 11:42: 创建 7 个 foreign-bank / ICSD / corridor entity pages，并把 foreign-bank branch 覆盖率从 36 standalone / 21 registry-only 更新为 43 standalone / 14 registry-only。
+  - 11:52: 创建 card security / authentication controls、prime brokerage / institutional financing、acquisition finance 与 activist investor playbook，并把 payments / securities / finance backlog 对应项标为 Done。
+  - 12:03: 同步根 index、domain indexes、foreign-bank registry、legal-license routes、foreign-bank-retreat page、trust-bank custody map、securities market-infrastructure map、README、release notes 与 backlog。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 799，entries with issues: 0，body links below 3: 0。
+  - Root public surface: 783。Root domain count sum: 783。Root rows: JapanFG 395，payments 15，securities 18，finance 7。
+  - Frontmatter checked: 798。Required issues: 0。Missing H1: 0。
+  - Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+- 后续事项：
+  - 剩余 foreign-bank standalone pages 只在有战略原因时继续提升，不做 raw list completion。
+  - 下一批更适合做 source URL drift QA、report-source precision，或对 custody / institutional-finance pages 做更深的 KPI / operating-model refinement。
+
+### 11:16 JST: Large-batch horizontal route expansion / 大型 batch の horizontal route 拡張 / 大批量横向路线扩写
+
+#### 日本語記録
+
+- 背景: user から「もっと長い作業時間を使い、parallel agent で一度に多く書く」方針が明示されたため、従来の 2-page batch から 12-page horizontal route batch に切り替えた。
+- 影響範囲: `payments/`, `securities/`, `banking/`, `finance/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, release notes, and `wiki-link-improvement-plan.md`。
+- 新規ファイル:
+  - `payments/japan-bank-api-incident-and-fraud-control.md`
+  - `payments/japan-card-issuer-acquirer-processor-split.md`
+  - `payments/japan-bnpl-credit-purchase-boundary.md`
+  - `securities/japan-short-selling-and-stock-loan-controls.md`
+  - `securities/japan-stock-lending-market-route.md`
+  - `banking/japan-trust-bank-custody-map.md`
+  - `banking/japan-master-trust-and-custody-bank-landscape.md`
+  - `banking/regional-bank-api-digital-partnership-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-bank-branch-license-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-bank-agency-business-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses.md`
+  - `finance/japan-tender-offer-process.md`
+- タイムライン:
+  - 10:58: Payments / securities / banking-trust / foreign-bank-license の 4 つの並行 research agent を起動し、FSA, JPX, JSDA, JASDEC, JSCC, JBA, JCA, METI, CAA, BOJ, Trust Companies Association, and company official pages の候補 source を分担収集。
+  - 11:03: 8 pages を先に作成し、agent findings を受けて JCA 6.0, JCB card-role model, JPX short-selling positions, JSDA stock-lending guideline, JASDEC DVP, FSA foreign-bank monitoring / agency list 等を追加反映。
+  - 11:10: さらに regional bank API, foreign bank agency, foreign financial group adjacent-license, and tender-offer process pages を追加し、12-page batch に拡張。
+  - 11:16: payments, securities, banking, finance, legal-license, JapanFG, root index, README, release notes, and backlog を同期。Root public surface は 760 から 772。Root rows は JapanFG 385 -> 388, banking 17 -> 20, payments 11 -> 14, securities 15 -> 17, finance 4 -> 5。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 788、entries with issues: 0、body links below 3: 0。
+  - Frontmatter checked: 788。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for formal wiki entries: 0。
+  - Root domain count sum: 772 / declared public surface: 772。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+- 後続事項:
+  - 次の大型 batch 候補は Euroclear / Clearstream FMI P2 exceptions, India / Thailand / ANZ corridor foreign-bank pages, card security authentication controls, prime-brokerage / institutional financing, or source URL drift QA。
+
+#### English Record
+
+- Background: The user explicitly asked to use longer work windows, parallel agents, and larger writing batches, so this pass switched from two-page batches to a 12-page horizontal-route batch.
+- Scope: `payments/`, `securities/`, `banking/`, `finance/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, release notes, and `wiki-link-improvement-plan.md`.
+- New files:
+  - `payments/japan-bank-api-incident-and-fraud-control.md`
+  - `payments/japan-card-issuer-acquirer-processor-split.md`
+  - `payments/japan-bnpl-credit-purchase-boundary.md`
+  - `securities/japan-short-selling-and-stock-loan-controls.md`
+  - `securities/japan-stock-lending-market-route.md`
+  - `banking/japan-trust-bank-custody-map.md`
+  - `banking/japan-master-trust-and-custody-bank-landscape.md`
+  - `banking/regional-bank-api-digital-partnership-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-bank-branch-license-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-bank-agency-business-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses.md`
+  - `finance/japan-tender-offer-process.md`
+- Timeline:
+  - 10:58: Started four parallel research agents for payments, securities, banking / trust custody, and foreign-bank license routes; they gathered candidate sources from FSA, JPX, JSDA, JASDEC, JSCC, JBA, JCA, METI, CAA, BOJ, Trust Companies Association, and company official pages.
+  - 11:03: Created the first 8 pages, then incorporated agent findings including JCA 6.0, JCB's card-role model, JPX short-selling positions, JSDA stock-lending guideline, JASDEC DVP, and FSA foreign-bank monitoring / agency-list sources.
+  - 11:10: Added regional bank API, foreign bank agency, foreign financial group adjacent-license, and tender-offer process pages, expanding the batch to 12 pages.
+  - 11:16: Synced payments, securities, banking, finance, legal-license, JapanFG, root index, README, release notes, and backlog. Root public surface moved from 760 to 772. Root rows moved as follows: JapanFG 385 -> 388, banking 17 -> 20, payments 11 -> 14, securities 15 -> 17, finance 4 -> 5.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 788; entries with issues: 0; body links below 3: 0.
+  - Frontmatter checked: 788. Required issues: 0. Missing H1: 0.
+  - Alias-aware unresolved wikilinks for formal wiki entries: 0.
+  - Root domain count sum: 772 / declared public surface: 772. Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+- Next:
+  - Candidate large-batch follow-ups are Euroclear / Clearstream FMI P2 exceptions, India / Thailand / ANZ corridor foreign-bank pages, card security authentication controls, prime-brokerage / institutional financing, or source URL drift QA.
+
+#### 中文记录
+
+- 背景：用户明确要求给更长工作时间、使用 parallel agents、一次写更多内容，因此本轮从 2 篇小 batch 改为 12 篇横向路线 batch。
+- 影响范围：`payments/`、`securities/`、`banking/`、`finance/`、`JapanFG/legal-financial-licenses/`、`JapanFG/INDEX.md`、`JapanFG/missing-financial-institutions-backlog.md`、根 `INDEX.md`、`README.md`、release notes 与 `wiki-link-improvement-plan.md`。
+- 新增文件：
+  - `payments/japan-bank-api-incident-and-fraud-control.md`
+  - `payments/japan-card-issuer-acquirer-processor-split.md`
+  - `payments/japan-bnpl-credit-purchase-boundary.md`
+  - `securities/japan-short-selling-and-stock-loan-controls.md`
+  - `securities/japan-stock-lending-market-route.md`
+  - `banking/japan-trust-bank-custody-map.md`
+  - `banking/japan-master-trust-and-custody-bank-landscape.md`
+  - `banking/regional-bank-api-digital-partnership-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-bank-branch-license-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-bank-agency-business-route.md`
+  - `JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses.md`
+  - `finance/japan-tender-offer-process.md`
+- 时间线：
+  - 10:58: 启动 4 个并行 research agent，分别处理 payments、securities、banking / trust custody、foreign-bank license routes，并分头收集 FSA、JPX、JSDA、JASDEC、JSCC、JBA、JCA、METI、CAA、BOJ、信託協会与公司官网来源。
+  - 11:03: 先创建 8 篇页面，再吸收 agent findings，补入 JCA 6.0、JCB card-role model、JPX short-selling positions、JSDA stock-lending guideline、JASDEC DVP、FSA foreign-bank monitoring / agency-list 等来源。
+  - 11:10: 继续新增 regional bank API、foreign bank agency、foreign financial group adjacent-license 与 tender-offer process 页面，将本批扩展到 12 篇。
+  - 11:16: 同步 payments、securities、banking、finance、legal-license、JapanFG、根 index、README、release notes 与 backlog。Root public surface 从 760 到 772。Root rows：JapanFG 385 -> 388，banking 17 -> 20，payments 11 -> 14，securities 15 -> 17，finance 4 -> 5。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 788，entries with issues: 0，body links below 3: 0。
+  - Frontmatter checked: 788。Required issues: 0。Missing H1: 0。
+  - 正式 wiki 条目的 alias-aware unresolved wikilinks: 0。
+  - Root domain count sum: 772 / declared public surface: 772。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+- 后续事项：
+  - 下一批大 batch 候选是 Euroclear / Clearstream FMI P2 exceptions、India / Thailand / ANZ corridor foreign-bank pages、card security authentication controls、prime-brokerage / institutional financing 或 source URL drift QA。
+
+### 10:51 JST: Bank API route and margin trading securities-finance map / Bank API route と信用取引 securities-finance map 拡張 / 银行 API 路线与信用交易证券金融图谱扩写
+
+#### 日本語記録
+
+- 背景: 前回の PTS liquidity data / account-direct merchant acquiring pass の後、残った control gap として bank API / electronic payment agency route と margin trading / securities finance route を実行した。
+- 影響範囲: `payments/`, `securities/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`。
+- 主要ファイル:
+  - 新規: `payments/japan-bank-api-payment-agency-route.md`
+  - 新規: `securities/japan-margin-trading-and-securities-finance.md`
+  - 更新: `payments/INDEX.md`, `securities/INDEX.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, backlog
+- タイムライン:
+  - 10:30: FSA electronic payment agency registry, FSA authorized association page, JBA Open API model contract, and FAPI association links を確認し、bank API / electronic payment agency route を作成。
+  - 10:39: JPX margin trading overview / mechanism / restriction pages, JPX margin-trading outline PDF, and JSF public securities-finance pages を確認し、margin trading / securities finance page を作成。
+  - 10:51: payments index, securities index, legal-license index, JapanFG index, root index, README, release notes, and backlog を同期。Root public surface は 758 から 760、root `payments` row は 10 から 11、root `securities` row は 14 から 15 に更新。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 776、entries with issues: 0、body links below 3: 0。
+  - Frontmatter checked: 776。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for formal wiki entries: 0。
+  - Root domain count sum: 760 / declared public surface: 760。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+- 後続事項:
+  - 次の候補は bank API incident / fraud-control map, short-selling / stock-loan controls, strategic foreign-bank P2 exceptions, or source URL drift QA。
+
+#### English Record
+
+- Background: After the PTS liquidity data / account-direct merchant acquiring pass, this pass executed the remaining control gaps: the bank API / electronic payment agency route and margin trading / securities finance route.
+- Scope: `payments/`, `securities/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`.
+- Key files:
+  - New: `payments/japan-bank-api-payment-agency-route.md`
+  - New: `securities/japan-margin-trading-and-securities-finance.md`
+  - Updated the payments index, securities index, legal-license index, JapanFG index, root index, README, release notes, and backlog.
+- Timeline:
+  - 10:30: Checked the FSA electronic payment agency registry, FSA authorized association page, JBA Open API model contract, and FAPI association links, then created the bank API / electronic payment agency route page.
+  - 10:39: Checked JPX margin trading overview / mechanism / restriction pages, JPX margin-trading outline PDF, and JSF public securities-finance pages, then created the margin trading / securities finance page.
+  - 10:51: Synced the payments index, securities index, legal-license index, JapanFG index, root index, README, release notes, and backlog. Root public surface moved from 758 to 760; root `payments` row moved from 10 to 11; root `securities` row moved from 14 to 15.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 776; entries with issues: 0; body links below 3: 0.
+  - Frontmatter checked: 776. Required issues: 0. Missing H1: 0.
+  - Alias-aware unresolved wikilinks for formal wiki entries: 0.
+  - Root domain count sum: 760 / declared public surface: 760. Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+- Next:
+  - Candidate follow-ups are a bank API incident / fraud-control map, short-selling / stock-loan controls, strategic foreign-bank P2 exceptions, or source URL drift QA.
+
+#### 中文记录
+
+- 背景：上一轮完成 PTS liquidity data / account-direct merchant acquiring 后，本轮继续执行剩余 control gap：bank API / electronic payment agency route 与 margin trading / securities finance route。
+- 影响范围：`payments/`、`securities/`、`JapanFG/legal-financial-licenses/`、`JapanFG/INDEX.md`、`JapanFG/missing-financial-institutions-backlog.md`、根 `INDEX.md`、`README.md`、`CHANGELOG.md`、`releases/v2026.05.21.md` 与 `wiki-link-improvement-plan.md`。
+- 主要文件：
+  - 新增：`payments/japan-bank-api-payment-agency-route.md`
+  - 新增：`securities/japan-margin-trading-and-securities-finance.md`
+  - 更新：payments index、securities index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。
+- 时间线：
+  - 10:30: 核对 FSA electronic payment agency registry、FSA authorized association page、JBA Open API model contract 和 FAPI association links，并创建 bank API / electronic payment agency route 页面。
+  - 10:39: 核对 JPX margin trading overview / mechanism / restriction pages、JPX margin-trading outline PDF 和 JSF public securities-finance pages，并创建 margin trading / securities finance 页面。
+  - 10:51: 同步 payments index、securities index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。Root public surface 从 758 到 760；root `payments` row 从 10 到 11；root `securities` row 从 14 到 15。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 776，entries with issues: 0，body links below 3: 0。
+  - Frontmatter checked: 776。Required issues: 0。Missing H1: 0。
+  - 正式 wiki 条目的 alias-aware unresolved wikilinks: 0。
+  - Root domain count sum: 760 / declared public surface: 760。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+- 后续事项：
+  - 下一批候选是 bank API incident / fraud-control map、short-selling / stock-loan controls、strategic foreign-bank P2 exceptions 或 source URL drift QA。
+
+### 09:51 JST: PTS liquidity data and account-direct merchant acquiring maps / PTS 流動性 data と account-direct merchant acquiring 拡張 / PTS 流动性数据与账户直连商户收单扩写
+
+#### 日本語記録
+
+- 背景: 前回の best-execution / SOR / PTS と account-to-account payment route の後、次の control gap として PTS liquidity data guide と merchant bank-account direct acquiring detail を実行した。
+- 影響範囲: `securities/`, `payments/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`。
+- 主要ファイル:
+  - 新規: `securities/japan-pts-liquidity-data-guide.md`
+  - 新規: `payments/merchant-bank-pay-account-direct-acquiring.md`
+  - 更新: `securities/INDEX.md`, `payments/INDEX.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, backlog
+- タイムライン:
+  - 09:40: JSDA PTS statistics page, JSDA explanatory PDF, JPX equity statistics, Japannext / ODX public venue pages を確認し、PTS liquidity data guide を作成。
+  - 09:46: JEPPO official pages, Bank Pay merchant registration rules, Bank Pay guideline, Zengin-Net / Cotra public pages を確認し、merchant account-direct acquiring page を作成。
+  - 09:51: securities index, payments index, legal-license index, JapanFG index, root index, README, release notes, and backlog を同期。Root public surface は 756 から 758、root `payments` row は 9 から 10、root `securities` row は 13 から 14 に更新。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 774、entries with issues: 0、body links below 3: 0。
+  - Frontmatter checked: 774。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+  - Root domain count sum: 758 / declared public surface: 758。
+- 後続事項:
+  - 次の候補は bank API / electronic payment agency route, margin trading / securities finance route, strategic foreign-bank P2 exceptions, or source URL drift QA。
+
+#### English Record
+
+- Background: After the best-execution / SOR / PTS and account-to-account payment route pass, this pass executed the next control gaps: a PTS liquidity data guide and merchant bank-account direct acquiring detail.
+- Scope: `securities/`, `payments/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`.
+- Key files:
+  - New: `securities/japan-pts-liquidity-data-guide.md`
+  - New: `payments/merchant-bank-pay-account-direct-acquiring.md`
+  - Updated the securities index, payments index, legal-license index, JapanFG index, root index, README, release notes, and backlog.
+- Timeline:
+  - 09:40: Checked the JSDA PTS statistics page, JSDA explanatory PDF, JPX equity statistics, and Japannext / ODX public venue pages, then created the PTS liquidity data guide.
+  - 09:46: Checked JEPPO official pages, Bank Pay merchant registration rules, Bank Pay guideline, and Zengin-Net / Cotra public pages, then created the merchant account-direct acquiring page.
+  - 09:51: Synced the securities index, payments index, legal-license index, JapanFG index, root index, README, release notes, and backlog. Root public surface moved from 756 to 758; root `payments` row moved from 9 to 10; root `securities` row moved from 13 to 14.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 774; entries with issues: 0; body links below 3: 0.
+  - Frontmatter checked: 774. Required issues: 0. Missing H1: 0.
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0. Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+  - Root domain count sum: 758 / declared public surface: 758.
+- Next:
+  - Candidate follow-ups are a bank API / electronic payment agency route, margin trading / securities finance route, strategic foreign-bank P2 exceptions, or source URL drift QA.
+
+#### 中文记录
+
+- 背景：上一轮完成 best-execution / SOR / PTS 与 account-to-account payment route 后，本轮继续执行下一个 control gap：PTS liquidity data guide 与 merchant bank-account direct acquiring detail。
+- 影响范围：`securities/`、`payments/`、`JapanFG/legal-financial-licenses/`、`JapanFG/INDEX.md`、`JapanFG/missing-financial-institutions-backlog.md`、根 `INDEX.md`、`README.md`、`CHANGELOG.md`、`releases/v2026.05.21.md` 与 `wiki-link-improvement-plan.md`。
+- 主要文件：
+  - 新增：`securities/japan-pts-liquidity-data-guide.md`
+  - 新增：`payments/merchant-bank-pay-account-direct-acquiring.md`
+  - 更新：securities index、payments index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。
+- 时间线：
+  - 09:40: 核对 JSDA PTS statistics page、JSDA explanatory PDF、JPX equity statistics、Japannext / ODX public venue pages，并创建 PTS liquidity data guide。
+  - 09:46: 核对 JEPPO official pages、Bank Pay merchant registration rules、Bank Pay guideline、Zengin-Net / Cotra public pages，并创建 merchant account-direct acquiring page。
+  - 09:51: 同步 securities index、payments index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。Root public surface 从 756 到 758；root `payments` row 从 9 到 10；root `securities` row 从 13 到 14。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 774，entries with issues: 0，body links below 3: 0。
+  - Frontmatter checked: 774。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+  - Root domain count sum: 758 / declared public surface: 758。
+- 后续事项：
+  - 下一批候选是 bank API / electronic payment agency route、margin trading / securities finance route、strategic foreign-bank P2 exceptions 或 source URL drift QA。
+
+### 09:33 JST: Best-execution / SOR / PTS and account-to-account payment maps / 最良執行・SOR・PTS と A2A payment map 拡張 / 最佳执行、SOR、PTS 与账户间支付路线扩写
+
+#### 日本語記録
+
+- 背景: 前回の証券 control-map expansion 後、残った高価値 gap である best-execution / SOR / PTS と account-to-account payment route を続けて作成した。
+- 影響範囲: `securities/`, `payments/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`。
+- 主要ファイル:
+  - 新規: `securities/japan-best-execution-sor-pts.md`
+  - 新規: `payments/account-to-account-payment-japan.md`
+  - 更新: `securities/INDEX.md`, `payments/INDEX.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, backlog
+- タイムライン:
+  - 09:18: FSA supervisory guideline / customer-oriented conduct page, JSDA PTS statistics / rules pages, Japannext / ODX / JPX route を確認し、best-execution / SOR / PTS page を作成。
+  - 09:24: Zengin-Net Cotra system explanation, Cotra official service / participant pages, and JEPPO / Bank Pay official pages を確認し、account-to-account payment route を作成。
+  - 09:33: securities index, payments index, legal-license index, JapanFG index, root index, README, release notes, and backlog を同期。Root public surface は 754 から 756、root `payments` row は 8 から 9、root `securities` row は 12 から 13 に更新。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 772、entries with issues: 0、body links below 3: 0。
+  - Frontmatter checked: 772。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+  - Root domain count sum: 756 / declared public surface: 756。
+- 後続事項:
+  - 次の候補は PTS liquidity data guide, merchant bank-account direct acquiring detail, strategic foreign-bank P2 exceptions, or source URL drift QA。
+
+#### English Record
+
+- Background: After the previous securities control-map expansion, this pass continued into the remaining high-value gaps: best execution / SOR / PTS and account-to-account payment routing.
+- Scope: `securities/`, `payments/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`.
+- Key files:
+  - New: `securities/japan-best-execution-sor-pts.md`
+  - New: `payments/account-to-account-payment-japan.md`
+  - Updated the securities index, payments index, legal-license index, JapanFG index, root index, README, release notes, and backlog.
+- Timeline:
+  - 09:18: Checked FSA supervisory guideline / customer-oriented conduct page, JSDA PTS statistics / rules pages, and the Japannext / ODX / JPX route, then created the best-execution / SOR / PTS page.
+  - 09:24: Checked Zengin-Net Cotra system explanation, Cotra official service / participant pages, and JEPPO / Bank Pay official pages, then created the account-to-account payment route.
+  - 09:33: Synced the securities index, payments index, legal-license index, JapanFG index, root index, README, release notes, and backlog. Root public surface moved from 754 to 756; root `payments` row moved from 8 to 9; root `securities` row moved from 12 to 13.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 772; entries with issues: 0; body links below 3: 0.
+  - Frontmatter checked: 772. Required issues: 0. Missing H1: 0.
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0. Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+  - Root domain count sum: 756 / declared public surface: 756.
+- Next:
+  - Candidate follow-ups are a PTS liquidity data guide, merchant bank-account direct acquiring detail, strategic foreign-bank P2 exceptions, or source URL drift QA.
+
+#### 中文记录
+
+- 背景：上一轮完成 securities control-map expansion 后，本轮继续处理剩余高价值 gap：best execution / SOR / PTS 和 account-to-account payment route。
+- 影响范围：`securities/`、`payments/`、`JapanFG/legal-financial-licenses/`、`JapanFG/INDEX.md`、`JapanFG/missing-financial-institutions-backlog.md`、根 `INDEX.md`、`README.md`、`CHANGELOG.md`、`releases/v2026.05.21.md` 与 `wiki-link-improvement-plan.md`。
+- 主要文件：
+  - 新增：`securities/japan-best-execution-sor-pts.md`
+  - 新增：`payments/account-to-account-payment-japan.md`
+  - 更新：securities index、payments index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。
+- 时间线：
+  - 09:18: 核对 FSA supervisory guideline / customer-oriented conduct page、JSDA PTS statistics / rules pages，以及 Japannext / ODX / JPX route，并创建 best-execution / SOR / PTS 页面。
+  - 09:24: 核对 Zengin-Net Cotra system explanation、Cotra 官方服务 / 参与机构页面、JEPPO / Bank Pay 官方页面，并创建 account-to-account payment route。
+  - 09:33: 同步 securities index、payments index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。Root public surface 从 754 到 756；root `payments` row 从 8 到 9；root `securities` row 从 12 到 13。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 772，entries with issues: 0，body links below 3: 0。
+  - Frontmatter checked: 772。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+  - Root domain count sum: 756 / declared public surface: 756。
+- 后续事项：
+  - 下一批候选是 PTS liquidity data guide、merchant bank-account direct acquiring detail、strategic foreign-bank P2 exceptions 或 source URL drift QA。
+
+### 00:16 JST: Securities license, brokerage, underwriting, and infrastructure maps / 証券 license・brokerage・underwriting・infrastructure map 拡張 / 证券牌照、线上券商、承销与市场基础设施扩写
+
+#### 日本語記録
+
+- 背景: user の「继续扩写」に合わせ、直前 backlog の online brokerage / underwriting market maps を実行し、FIEA registry だけでは説明しきれない license / competition / post-trade control layer を補完した。
+- 影響範囲: `securities/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`。
+- 主要ファイル:
+  - 新規: `JapanFG/legal-financial-licenses/securities-license-stack.md`
+  - 新規: `securities/japan-online-brokerage-competition.md`, `securities/japan-underwriting-market-structure.md`, `securities/japan-market-infrastructure-map.md`
+  - 更新: `securities/INDEX.md`, `JapanFG/legal-financial-licenses/INDEX.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, backlog
+- タイムライン:
+  - 23:55-00:03: FSA license portal, FSA `kinyushohin.xlsx`, JSDA member / rules pages, JPX listing / clearing-settlement pages, JASDEC DVP pages, and online-broker official fee / service pages を確認。
+  - 00:07: securities license stack を作成し、Type I/II FIBO, registered financial institution, intermediary, advisory / management, PTS, JSDA, clearing / depository route を整理。
+  - 00:10: online brokerage competition, underwriting market structure, and Japan market infrastructure map を作成し、NISA / points / fee model / SOR / PTS / JPX / JSCC / JASDEC / JSF の横断リンクを追加。
+  - 00:16: securities index, legal-license index, JapanFG index, root index, README, release notes, and backlog を同期。Root public surface は 750 から 754、root `JapanFG` row は 384 から 385、root `securities` row は 9 から 12 に更新。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 770、entries with issues: 0、body links below 3: 0。
+  - Frontmatter checked: 770。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+  - Root domain count sum: 754 / declared public surface: 754。
+- 後続事項:
+  - 次の有力候補は best-execution / SOR / PTS detail page, account-to-account payment route, strategic foreign-bank P2 exceptions, or source URL drift QA。
+
+#### English Record
+
+- Background: In response to the user's request to keep expanding the wiki, this pass executed the online brokerage / underwriting market-map backlog and filled the license, competition, and post-trade control layer that the FIEA registry alone cannot explain.
+- Scope: `securities/`, `JapanFG/legal-financial-licenses/`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `wiki-link-improvement-plan.md`.
+- Key files:
+  - New: `JapanFG/legal-financial-licenses/securities-license-stack.md`
+  - New: `securities/japan-online-brokerage-competition.md`, `securities/japan-underwriting-market-structure.md`, `securities/japan-market-infrastructure-map.md`
+  - Updated the securities index, legal-license index, JapanFG index, root index, README, release notes, and backlog.
+- Timeline:
+  - 23:55-00:03: Checked the FSA license portal, FSA `kinyushohin.xlsx`, JSDA member / rules pages, JPX listing / clearing-settlement pages, JASDEC DVP pages, and online-broker official fee / service pages.
+  - 00:07: Created the securities license stack page, covering Type I/II FIBO, registered financial institution, intermediary, advisory / management, PTS, JSDA, clearing, and depository routes.
+  - 00:10: Created online brokerage competition, underwriting market structure, and Japan market infrastructure map pages, adding cross-links across NISA, points, fee models, SOR, PTS, JPX, JSCC, JASDEC, and JSF.
+  - 00:16: Synced the securities index, legal-license index, JapanFG index, root index, README, release notes, and backlog. Root public surface moved from 750 to 754; root `JapanFG` row moved from 384 to 385; root `securities` row moved from 9 to 12.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 770; entries with issues: 0; body links below 3: 0.
+  - Frontmatter checked: 770. Required issues: 0. Missing H1: 0.
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0. Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+  - Root domain count sum: 754 / declared public surface: 754.
+- Next:
+  - Strong follow-ups are a best-execution / SOR / PTS detail page, account-to-account payment route, strategic foreign-bank P2 exceptions, or source URL drift QA.
+
+#### 中文记录
+
+- 背景：根据用户“继续扩写”的要求，本轮执行 online brokerage / underwriting market maps 的 backlog，补上 FIEA registry 无法单独解释的牌照、竞争格局与 post-trade control layer。
+- 影响范围：`securities/`、`JapanFG/legal-financial-licenses/`、`JapanFG/INDEX.md`、`JapanFG/missing-financial-institutions-backlog.md`、根 `INDEX.md`、`README.md`、`CHANGELOG.md`、`releases/v2026.05.21.md` 与 `wiki-link-improvement-plan.md`。
+- 主要文件：
+  - 新增：`JapanFG/legal-financial-licenses/securities-license-stack.md`
+  - 新增：`securities/japan-online-brokerage-competition.md`、`securities/japan-underwriting-market-structure.md`、`securities/japan-market-infrastructure-map.md`
+  - 更新：securities index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。
+- 时间线：
+  - 23:55-00:03: 核对 FSA license portal、FSA `kinyushohin.xlsx`、JSDA member / rules pages、JPX listing / clearing-settlement pages、JASDEC DVP pages，以及线上券商官方手续费 / 服务页面。
+  - 00:07: 新建 securities license stack，整理 Type I/II FIBO、registered financial institution、intermediary、advisory / management、PTS、JSDA、clearing / depository route。
+  - 00:10: 新建 online brokerage competition、underwriting market structure 和 Japan market infrastructure map，并补齐 NISA、points、fee model、SOR、PTS、JPX、JSCC、JASDEC、JSF 的横向链接。
+  - 00:16: 同步 securities index、legal-license index、JapanFG index、根 index、README、release notes 和 backlog。Root public surface 从 750 到 754；root `JapanFG` row 从 384 到 385；root `securities` row 从 9 到 12。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 770，entries with issues: 0，body links below 3: 0。
+  - Frontmatter checked: 770。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks for frontmatter entries: 0。Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+  - Root domain count sum: 754 / declared public surface: 754。
+- 后续事项：
+  - 下一批高价值候选是 best-execution / SOR / PTS detail page、account-to-account payment route、strategic foreign-bank P2 exceptions 或 source URL drift QA。
+
 ## 2026-05-21
+
+### 22:25 JST: Payments Batch K registry and operator expansion / 決済 Batch K registry + operator 拡張 / 支付 Batch K 登记表与运营公司扩写
+
+#### 日本語記録
+
+- 背景: ユーザーが「wiki を続けて拡写したい」と指示し、直前計画で優先した payment / credit / PSP gap を実行対象にした。
+- 影響範囲: `payments/`, `JapanFG/`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `JapanFG/missing-financial-institutions-backlog.md`。
+- 主要ファイル:
+  - 新規: `payments/funds-transfer-service-providers-japan-index.md`, `payments/credit-purchase-card-operators-japan-index.md`, `payments/japan-code-payment-competitive-map.md`, `payments/psp-merchant-settlement-risk.md`
+  - 新規: `JapanFG/shinsei-financial.md`, `JapanFG/toyota-finance.md`, `JapanFG/netstars.md`, `JapanFG/recruit-mufg-business.md`, `JapanFG/jal-payment-port.md`
+  - 更新: `payments/INDEX.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, release notes, backlog
+- タイムライン:
+  - 22:05: FSA registration index と METI Installment Sales Act lists を再確認し、FSA funds-transfer list は 2026-04-30 現在 83 operators、METI credit lists は 2026-04 month-end で 241 / 138 / 275 の control counts と確認。
+  - 22:12: official company pages for Shinsei Financial, Toyota Finance, Netstars, Recruit MUFG Business, and JAL Payment Port を確認し、公開会社概要・登録情報に基づく standalone pages を作成。
+  - 22:18: funds-transfer registry, credit / card registry, code-payment competitive map, and PSP merchant-settlement-risk pages を作成し、row-level data は official FSA / METI sources に残す方針を明記。
+  - 22:25: payments index, JapanFG index, root index, README, release notes, and backlog を同期し、Batch E open gaps を material-page / registry-control level で closed に更新。
+- 検証結果:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 766、entries with issues: 0、body links below 3: 0。
+  - Frontmatter checked: 766。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks: 0。Root domain count sum: 750 / declared public surface: 750。
+  - Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in checked Markdown public surface。
+- 後続事項:
+  - 次の拡張候補は account-to-account payment route, online brokerage / underwriting market maps, strategic foreign-bank P2 exceptions, or source URL drift QA。
+
+#### English Record
+
+- Background: The user asked to continue expanding the wiki, so this pass executed the payment / credit / PSP gap selected in the previous plan.
+- Scope: `payments/`, `JapanFG/`, root `INDEX.md`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.21.md`, and `JapanFG/missing-financial-institutions-backlog.md`.
+- Key files:
+  - New: `payments/funds-transfer-service-providers-japan-index.md`, `payments/credit-purchase-card-operators-japan-index.md`, `payments/japan-code-payment-competitive-map.md`, `payments/psp-merchant-settlement-risk.md`
+  - New: `JapanFG/shinsei-financial.md`, `JapanFG/toyota-finance.md`, `JapanFG/netstars.md`, `JapanFG/recruit-mufg-business.md`, `JapanFG/jal-payment-port.md`
+  - Updated the payments index, JapanFG index, root index, README, release notes, and backlog.
+- Timeline:
+  - 22:05: Rechecked the FSA registration index and METI Installment Sales Act lists. FSA funds-transfer list is 83 operators as of 2026-04-30; METI credit lists are 241 / 138 / 275 as of 2026-04 month-end.
+  - 22:12: Checked official company pages for Shinsei Financial, Toyota Finance, Netstars, Recruit MUFG Business, and JAL Payment Port, then wrote standalone pages from public company profiles and registration routes.
+  - 22:18: Created funds-transfer registry, credit / card registry, code-payment competitive map, and PSP merchant-settlement-risk pages, keeping row-level data with the official FSA / METI sources.
+  - 22:25: Synced the payments index, JapanFG index, root index, README, release notes, and backlog; marked Batch E open gaps closed at material-page / registry-control level.
+- Verification:
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass. Entries checked: 766; entries with issues: 0; body links below 3: 0.
+  - Frontmatter checked: 766. Required issues: 0. Missing H1: 0.
+  - Alias-aware unresolved wikilinks: 0. Root domain count sum: 750 / declared public surface: 750.
+  - Markdown code-fence imbalance: 0. `git diff --check`: pass.
+  - Public-surface scan for hard local paths, local account strings, and high-confidence secret patterns: no matches in the checked Markdown public surface.
+- Next:
+  - Candidate follow-ups are account-to-account payment route, online brokerage / underwriting market maps, strategic foreign-bank P2 exceptions, or source URL drift QA.
+
+#### 中文记录
+
+- 背景：用户要求继续扩写 wiki，因此本轮执行上一计划中优先级最高的 payment / credit / PSP gap。
+- 影响范围：`payments/`、`JapanFG/`、根 `INDEX.md`、`README.md`、`CHANGELOG.md`、`releases/v2026.05.21.md` 与 `JapanFG/missing-financial-institutions-backlog.md`。
+- 主要文件：
+  - 新增：`payments/funds-transfer-service-providers-japan-index.md`、`payments/credit-purchase-card-operators-japan-index.md`、`payments/japan-code-payment-competitive-map.md`、`payments/psp-merchant-settlement-risk.md`
+  - 新增：`JapanFG/shinsei-financial.md`、`JapanFG/toyota-finance.md`、`JapanFG/netstars.md`、`JapanFG/recruit-mufg-business.md`、`JapanFG/jal-payment-port.md`
+  - 更新：payments index、JapanFG index、根 index、README、release notes 和 backlog。
+- 时间线：
+  - 22:05: 重新确认 FSA registration index 与 METI Installment Sales Act lists。FSA funds-transfer list 为 2026-04-30 当前 83 家；METI credit lists 为 2026-04 月末 241 / 138 / 275。
+  - 22:12: 核对 Shinsei Financial、Toyota Finance、Netstars、Recruit MUFG Business、JAL Payment Port 的官方公司页面，并基于公开公司概要和登记路线创建 standalone pages。
+  - 22:18: 新建 funds-transfer registry、credit / card registry、code-payment competitive map 和 PSP merchant-settlement-risk 页面，明确逐行事实仍以 FSA / METI official sources 为准。
+  - 22:25: 同步 payments index、JapanFG index、根 index、README、release notes 和 backlog；将 Batch E 未完成 gap 更新为 material-page / registry-control level 已完成。
+- 验证结果：
+  - `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`: pass。Entries checked: 766，entries with issues: 0，body links below 3: 0。
+  - Frontmatter checked: 766。Required issues: 0。Missing H1: 0。
+  - Alias-aware unresolved wikilinks: 0。Root domain count sum: 750 / declared public surface: 750。
+  - Markdown code-fence imbalance: 0。`git diff --check`: pass。
+  - 公开面扫描 hard local paths、local account strings 与 high-confidence secret patterns：checked Markdown public surface 内无匹配。
+- 后续事项：
+  - 下一批候选是 account-to-account payment route、online brokerage / underwriting market maps、strategic foreign-bank P2 exceptions 或 source URL drift QA。
 
 ### 21:48 JST: Body wikilink audit tooling and scaffold pass / 本文 wikilink 監査と scaffold / 正文内链审计与补链
 

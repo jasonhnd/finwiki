@@ -5,8 +5,8 @@ aliases:
   - "保険 domain"
 domain: "insurance"
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-15
 confidence: likely
 tags: [insurance, index, solvency, distribution, reinsurance]
@@ -18,13 +18,15 @@ sources:
   - "https://www.seiho.or.jp/"
   - "https://www.sonpo.or.jp/"
   - "https://www.nihonjishin.co.jp/"
+  - "https://www.nihonjishin.co.jp/insurance/system.html"
+  - "https://www.fsa.go.jp/common/law/guide/ins/05.html"
 ---
 
 # Insurance domain
 
-## TL;DR
+## Overview
 
-This domain routes insurance-specific concept pages for FinWiki: solvency / ESR, life-insurance distribution, mutual-company governance, internet life insurance, natural-catastrophe reinsurance, and direct non-life insurance.
+This domain routes insurance-specific concept pages for FinWiki: solvency / ESR, life-insurance distribution, mutual-company governance, internet life insurance, life-insurance big-four comparison, non-life big-three comparison, public-private earthquake insurance, agency / brokerage distribution, natural-catastrophe reinsurance, and direct non-life insurance.
 
 Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays in [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]. This page is the insurance operating-model map between those layers.
 
@@ -34,9 +36,14 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 |---|---|---|
 | Solvency regime | [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] | How FSA's economic-value solvency framework changes insurer capital. |
 | Company capital KPI | [[insurance/esr-economic-value-solvency|ESR]] | How to read economic solvency ratios in insurer disclosures. |
+| Legal / license route | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Whether a page is about underwriting, holding-company control, distribution, brokerage, or insurer capital. |
 | Life distribution | [[insurance/life-insurance-channel-mix|Life insurance channel mix]] | Whether a life insurer is sales-force, agency, bancassurance, online, or embedded-led. |
+| Life big four | [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] | Compare Nippon Life, Dai-ichi, Meiji Yasuda, and Sumitomo Life by form, channel, overseas strategy, and solvency. |
 | Online life model | [[insurance/internet-life-insurance-business-model|Internet life insurance business model]] | Why Lifenet-style direct online life insurance is different from traditional channels. |
 | Governance form | [[insurance/mutual-vs-stock-life-insurer|Mutual vs stock life insurer]] | How mutual-company vs stock-company form changes incentives and capital access. |
+| Non-life big three | [[insurance/japan-nonlife-big-three|Japan non-life big three]] | Compare Tokio Marine, MS&AD, and Sompo by operating-company layer, overseas exposure, catastrophe risk, and governance. |
+| Earthquake scheme | [[insurance/earthquake-insurance-public-private-scheme|Earthquake insurance public-private scheme]] | How household earthquake insurance differs from broader private nat-cat reinsurance. |
+| Agency / brokerage | [[insurance/insurance-agency-and-brokerage-japan|Insurance agency and brokerage Japan]] | Distinguish insurer, agency, broker, bank counter, platform, and direct channels. |
 | Non-life tail risk | [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] | How earthquake / typhoon / flood risk affects non-life balance sheets. |
 | Direct non-life | [[insurance/saison-automobile-fire|Saison Automobile & Fire / SOMPO Direct]] | Direct auto / non-life distribution, especially SOMPO vs Sony comparison. |
 
@@ -55,10 +62,10 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 | Non-life majors | [[JapanFG/tokio-marine]], [[JapanFG/msad]], [[JapanFG/sompo]] |
 | Non-life major operating companies | [[JapanFG/tokio-marine-nichido-fire]], [[JapanFG/mitsui-sumitomo-insurance]], [[JapanFG/aioi-nissay-dowa-insurance]], [[JapanFG/sompo-japan-insurance]] |
 | Direct / digital non-life | [[JapanFG/sony-insurance]], [[JapanFG/sbi-insurance]], [[JapanFG/au-insurance]], [[JapanFG/tokio-marine-direct]], [[JapanFG/sompo-direct]], [[JapanFG/mitsui-direct]], [[JapanFG/rakuten-general-insurance]] |
-| Specialist / regional non-life | [[JapanFG/daido-fire-marine]], [[JapanFG/kyoritsu-fire-marine]], [[JapanFG/anicom-insurance]], [[JapanFG/secom-insurance]], [[JapanFG/nisshin-fire]], [[JapanFG/meiji-yasuda-general-insurance]], [[JapanFG/sbi-insurance-group]] |
+| Specialist / regional non-life | [[JapanFG/daido-fire-marine]], [[JapanFG/kyoritsu-fire-marine]], [[JapanFG/anicom-insurance]], [[JapanFG/dai-ichi-ipet-insurance]], [[JapanFG/pet-and-family-insurance]], [[JapanFG/yamap-naturance-insurance]], [[JapanFG/ntt-docomo-sonpo]], [[JapanFG/secom-insurance]], [[JapanFG/nisshin-fire]], [[JapanFG/meiji-yasuda-general-insurance]], [[JapanFG/sbi-insurance-group]] |
 | Reinsurance / catastrophe scheme | [[JapanFG/toa-reinsurance]], [[JapanFG/japan-earthquake-reinsurance]], [[insurance/natcat-reinsurance-japan]] |
 | Platform / brand financial groups | [[JapanFG/sony-fg]], [[JapanFG/rakuten-fg]], [[JapanFG/sbi-hd]] |
-| Insurance holding companies | [[JapanFG/anicom-hd]], [[JapanFG/ntt-docomo-sompo-hd]], [[JapanFG/rakuten-insurance-hd]], [[JapanFG/dai-ichi-life]] |
+| Insurance holding companies | [[JapanFG/anicom-hd]], [[JapanFG/ntt-docomo-sompo-hd]], [[JapanFG/rakuten-insurance-hd]], [[JapanFG/dai-ichi-life]], [[JapanFG/td-hd]] |
 
 ## Research Control
 
@@ -74,11 +81,11 @@ When expanding this domain:
 
 | Priority | Page | Why |
 |---|---|---|
-| P1 | `JapanFG/legal-financial-licenses/insurance-license-and-solvency.md` | Dedicated legal page for insurance underwriting vs distribution, solvency margin, ESR, and FSA licensing. |
-| P1 | `insurance/japan-life-insurance-big-four.md` | Compare Nippon Life, Dai-ichi, Meiji Yasuda, and Sumitomo Life by form, channel, and solvency. |
-| P1 | `insurance/japan-nonlife-big-three.md` | Compare Tokio Marine, MS&AD, and SOMPO by overseas exposure, catastrophe risk, and governance. |
-| P2 | `insurance/earthquake-insurance-public-private-scheme.md` | Split public-private earthquake scheme from broader nat-cat reinsurance. |
-| P2 | `insurance/insurance-agency-and-brokerage-japan.md` | Distribution-law and channel economics for insurance agents / brokers. |
+| Done | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Dedicated legal page for insurance underwriting vs distribution, solvency margin, ESR, and FSA licensing. |
+| Done | [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] | Compare Nippon Life, Dai-ichi, Meiji Yasuda, and Sumitomo Life by form, channel, and solvency. |
+| Done | [[insurance/japan-nonlife-big-three|Japan non-life big three]] | Compare Tokio Marine, MS&AD, and SOMPO by overseas exposure, catastrophe risk, and governance. |
+| Done | [[insurance/earthquake-insurance-public-private-scheme|Earthquake insurance public-private scheme]] | Split public-private earthquake scheme from broader nat-cat reinsurance. |
+| Done | [[insurance/insurance-agency-and-brokerage-japan|Insurance agency and brokerage Japan]] | Distribution-law and channel economics for insurance agents / brokers. |
 
 ## Related
 
