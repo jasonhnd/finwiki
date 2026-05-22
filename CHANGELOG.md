@@ -20,6 +20,47 @@
 
 ## 2026-05-22
 
+### 17:25 JST: Homepage and README language normalization / ホームページと README の言語表現修正 / 首页和 README 语言修正
+
+#### 日本語記録
+
+- 背景: user から「該当言語ではその言語を使い、英字は専門用語・略語に限定すべき。英文が多すぎて読みにくい」と指摘があったため、公開ホームページと README の日本語・中国語部分を読みやすい表現へ修正した。
+- 影響範囲: root `index.html`, `README.md`, `CHANGELOG.md`, and release notes `releases/v2026.05.22-3.md`。
+- 実施内容:
+  - `index.html` の日本語セクションで、`bank license`, `payment license stack`, `incident / warning records`, `online brokerage`, `stock lending` などの英語列挙を日本語へ置換。
+  - `index.html` の中国語セクションで、`entries / domains`, `bank API`, `clearing / settlement`, `security token`, `money-market routes` などの英語列挙を中国語へ置換。
+  - `README.md` の日本語・中国語コンテンツマップを同じ方針で整理し、英字は `BaaS`, `CBDC`, `TOB`, `MBO`, `PTS`, `CEX`, `DEX`, `JVCEA`, `FSA` など一般的な略語や正式名称に限定。
+  - 日本語・中国語の運用説明に残っていた `route / peer / system link` などの管理用英語も、経路・同格・制度背景リンク / 路径、同类项、制度背景链接へ置換。
+- 数値記録: release notes 追加前の本文修正は 2 files / 62 changed lines / 432 added words / 939 removed words / net -507 words / net -2,939 chars。wiki 本文ページの新規追加は 0 件。
+- 検証結果: language scan は pass。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=832, entries_with_issues=0）。`git diff --check` は pass。Playwright preview で mobile / desktop の日本語表示を確認済み。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+- 後続事項: 今後 homepage / README の日本語・中国語セクションでは、英字は略語、製品名、法制度名、ファイル名に限り、説明文は原則として各言語で書く。
+
+#### English Record
+
+- Background: The user pointed out that the Japanese and Chinese areas were too full of English phrases and should use the target language, while keeping only professional acronyms and proper names in Latin letters.
+- Scope: root `index.html`, `README.md`, `CHANGELOG.md`, and release notes `releases/v2026.05.22-3.md`.
+- Changes:
+  - Rewrote English-heavy phrases in the Japanese homepage section into natural Japanese.
+  - Rewrote English-heavy phrases in the Chinese homepage section into natural Chinese.
+  - Applied the same language cleanup to the Japanese and Chinese README content maps.
+  - Replaced maintenance wording such as `route / peer / system link` with Japanese and Chinese equivalents.
+- Counts: before adding release notes, the language cleanup changed 2 files / 62 lines with 432 added words and 939 removed words, for a net reduction of 507 words and 2,939 characters. No new wiki article pages were added.
+- Validation result: language scan passed. `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=832 and entries_with_issues=0. `git diff --check` passed. Playwright preview checked the Japanese layout on mobile and desktop. remote HEAD / GitHub Release / Pages verification runs after push.
+- Follow-up: future homepage and README Japanese / Chinese sections should use natural target-language prose and reserve Latin letters for acronyms, proper names, file names, and established financial terms.
+
+#### 中文记录
+
+- 背景：用户指出日文和中文区块里英文太多，应该“该用日语的时候用日语，该用中文的时候用中文”，英文字母只保留专业缩写、正式名称和文件名。
+- 影响范围：根目录 `index.html`、`README.md`、`CHANGELOG.md`、发布说明 `releases/v2026.05.22-3.md`。
+- 执行内容：
+  - 将首页日文区块中大量英文短语改成自然日语。
+  - 将首页中文区块中大量英文短语改成自然中文。
+  - 同步清理 `README.md` 的日文和中文内容地图。
+  - 将维护说明里的 `route / peer / system link` 改成日文的“経路・同格・制度背景リンク”和中文的“路径、同类项、制度背景链接”。
+- 数字记录：新增发布说明前，本轮语言修正涉及 2 个文件 / 62 行替换 / 新增 432 words / 删除 939 words / 净减少 507 words / 净减少 2,939 chars。新增 wiki 正文页面 0 个。
+- 验证结果：语言扫描通过；`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=832, entries_with_issues=0）；`git diff --check` 通过；Playwright preview 已检查日文页面的手机和桌面布局；remote HEAD / GitHub Release / Pages verification 在 push 后执行。
+- 后续事项：以后首页和 README 的日文/中文部分，说明文字原则上使用对应语言；英文字母只保留缩写、正式名称、文件名和通行金融术语。
+
 ### 17:07 JST: Public homepage content map refresh / 公開ホームページ内容地図更新 / 公开首页内容地图更新
 
 #### 日本語記録
