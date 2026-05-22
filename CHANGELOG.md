@@ -20,6 +20,47 @@
 
 ## 2026-05-22
 
+### 17:07 JST: Public homepage content map refresh / 公開ホームページ内容地図更新 / 公开首页内容地图更新
+
+#### 日本語記録
+
+- 背景: user から `https://finwiki.zksc.io/` の首頁で「個人情報の排除」カードを削除し、wiki 全体の収録内容を説明するページへ書き換えるよう指示があった。また、今後 wiki 内容を更新するたびに首頁も更新する運用ルールを追加する必要があった。
+- 影響範囲: root `index.html`, `README.md`, `AGENTS.md`, `CHANGELOG.md`, `wiki-link-improvement-plan.md`, and release notes `releases/v2026.05.22-2.md`。
+- 実施内容:
+  - `index.html` の日本語、英語、中国語セクションから private/local data 排除カードを削除。
+  - homepage の status card を `832 entries / 20 domains` に変更し、INDEX / domain index との同期状態を明示。
+  - homepage の main domains を、日本金融機関、金融ライセンス、決済・fintech、取引所・VASP、銀行・政策金融、金融・証券・資本市場、市場インフラ、保険・産業・loyalty、systems / security / agent economy まで拡張。
+  - `README.md` と `AGENTS.md` に、wiki 内容、索引、領域数、公開 snapshot を更新するたびに root `index.html` も内容地図として更新する rule を追加。
+- 数値記録: wiki 本文ページの新規追加は 0 件。公開 homepage / 運用文書 / audit report / release notes の対象ファイルは 6 件。wiki entry count は 832 checked entries / 20 domains のまま維持。
+- 検証結果: `index.html` 内の対象文言 scan は該当なし。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=832, entries_with_issues=0）。`git diff --check` は pass。Playwright local preview は desktop / mobile とも表示確認済み。
+- 後続事項: 今後の wiki expansion では、本文ページだけでなく `index.html` homepage の content map も同じ作業内で更新する。
+
+#### English Record
+
+- Background: The user requested the public homepage at `https://finwiki.zksc.io/` to remove the personal-information-exclusion card and rewrite the page around what the entire wiki contains. The user also required the homepage to be refreshed whenever future wiki content changes.
+- Scope: root `index.html`, `README.md`, `AGENTS.md`, `CHANGELOG.md`, `wiki-link-improvement-plan.md`, and release notes `releases/v2026.05.22-2.md`.
+- Changes:
+  - Removed the private/local data card from the Japanese, English, and Chinese homepage sections.
+  - Replaced the homepage status card with `832 entries / 20 domains`, synchronized with INDEX / domain indexes.
+  - Expanded the homepage content map across Japanese financial institutions, financial licenses, payments / fintech, exchanges / VASP, banking / policy finance, finance / securities / capital markets, market infrastructure, insurance / industries / loyalty, and systems / security / agent economy.
+  - Added a README and AGENTS rule requiring root `index.html` to be refreshed as the current content map whenever wiki content, indexes, domain counts, or public snapshots change.
+- Counts: 0 new wiki article pages. 6 public-surface / operations / audit files affected including release notes. Wiki count remains 832 checked entries across 20 domains.
+- Validation result: target-text scan in `index.html` returned no matches. `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=832 and entries_with_issues=0. `git diff --check` passed. Playwright local preview was checked on desktop and mobile.
+- Follow-up: future wiki expansion must update both content pages and the homepage content map in the same work.
+
+#### 中文记录
+
+- 背景：用户指出 `https://finwiki.zksc.io/` 首页没有看到变化，要求删除「個人情報の排除」卡片，并把首页改写为整个 wiki 当前收录内容的说明页。同时要求今后每次更新 wiki 内容时都重新做这一页。
+- 影响范围：根目录 `index.html`、`README.md`、`AGENTS.md`、`CHANGELOG.md`、`wiki-link-improvement-plan.md`、release notes `releases/v2026.05.22-2.md`。
+- 执行内容：
+  - 从首页日文、英文、中文三个语言区块删除 private/local data 排除卡片。
+  - 将首页状态卡改为 `832 entries / 20 domains`，说明与 INDEX / domain indexes 同步。
+  - 扩写首页内容地图，覆盖日本金融机构、金融牌照、支付 / fintech、交易所 / VASP、银行 / 政策金融、金融 / 证券 / 资本市场、市场基础设施、保险 / 产业 / loyalty、systems / security / agent economy。
+  - 在 `README.md` 与 `AGENTS.md` 写入强制规则：今后每次更新 wiki 内容、索引、领域数量或公开快照时，必须同步更新根目录 `index.html`，把它作为当前内容地图维护。
+- 数字记录：新增 wiki 正文页面 0 个；本次影响公开首页 / 运维文档 / audit report / release notes 共 6 个文件；wiki 条目数量保持 832 checked entries / 20 domains。
+- 验证结果：`index.html` 目标文案扫描无命中；`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=832, entries_with_issues=0）；`git diff --check` 通过；Playwright local preview 已检查 desktop / mobile。
+- 后续事项：以后每轮 wiki 扩写都必须同时更新内容页面和首页内容地图。
+
 ### 16:15 JST: Release notes and push preparation / Release notes と push 準備 / release notes 与 push 准备
 
 #### 日本語記録
