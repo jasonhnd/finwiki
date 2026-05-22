@@ -24,7 +24,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | 領域 | ディレクトリ | 内容 |
 | --- | --- | --- |
-| 🏦 日本金融機関 | [JapanFG/](JapanFG/) | メガバンク、地方銀行、保険会社、証券会社、銀行免許と BaaS 境界、資金移動・前払式支払手段・電子決済手段の登録、金融商品取引業、保険業免許とソルベンシー、政策金融、決済会社、消費者金融、自動車金融、外資金融機関、外国銀行支店登録簿、国際証券決済機関（ICSD）、インド・タイ・豪州・ニュージーランド回廊、豪州・台湾・インドネシア・フィリピン・ブラジル回廊、専門信託銀行、商工中金の現行名称、ペット・アウトドア・通信系の専門保険会社、信託会社登録簿。 |
+| 🏦 日本金融機関 | [JapanFG/](JapanFG/) | メガバンク、地方銀行、保険会社、証券会社、銀行免許と BaaS 境界、資金移動・前払式支払手段・電子決済手段の登録、金融商品取引業、保険業免許とソルベンシー、政策金融、決済会社、消費者金融、自動車金融、外資金融機関、外国銀行支店登録簿、国際証券決済機関（ICSD）、インド・タイ・豪州・ニュージーランド回廊、豪州・台湾・インドネシア・フィリピン・ブラジル回廊、台湾・パキスタン・UBAF の残登録行収束、57 / 57 行の外国銀行支店が持つ単独ページまたは包括ページ、専門信託銀行、信託会社登録簿、38 / 38 行の信託会社が持つ単独ページまたは既存 group route、商工中金の現行名称、ペット・アウトドア・通信・旅行・賃貸住宅・外資系の専門保険会社。 |
 | 💳 フィンテック・決済 | [fintech/](fintech/), [payments/](payments/) | ステーブルコイン、CBDC、EPI、MiCA、GENIUS、シンガポール金融管理局（MAS）、香港金融管理局（HKMA）、オンチェーン金融、銀行 API、電子決済等代行業、銀行 API の不正利用対策、カード発行会社・加盟店管理会社・処理会社の分担、インターチェンジ手数料と加盟店手数料、清算・決済インフラ、カード認証、BNPL と信用購入あっせんの境界、前払式支払手段、資金移動業、クレジットカード登録簿、口座間決済、口座直結型加盟店決済、コード決済競争、決済代行事業者の加盟店精算リスク。 |
 | 🪙 取引所・VASP | [exchanges/](exchanges/) | 日本・海外の暗号資産交換業者、集中型取引所（CEX）、分散型取引所（DEX）、暗号資産サービス事業者（VASP）規制、JVCEA、カストディ、IEO、セキュリティ事案。 |
 | ⚙️ システム | [systems/](systems/) | Canton、CCTP、EigenLayer、Hyperlane、BFT、クロスチェーン、L1/L2 基盤。 |
@@ -122,7 +122,7 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Domain | Directory | Scope |
 | --- | --- | --- |
-| 🏦 Japanese Financial Groups | [JapanFG/](JapanFG/) | Mega banks, regional banks, insurers, securities firms, bank license / BaaS boundary, payment license stack, securities license stack, insurance license / solvency route, foreign-bank branch / agency / adjacent-license routes, ICSD / India / Thailand / ANZ corridor strategic exceptions, Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors, specialty trust-bank / CCI current-name anchors, pet / outdoor / telco-linked specialty insurers, policy finance, payments, consumer finance, auto finance, foreign subsidiaries, the foreign-bank branch registry, and the trust-company registry. |
+| 🏦 Japanese Financial Groups | [JapanFG/](JapanFG/) | Mega banks, regional banks, insurers, securities firms, bank license / BaaS boundary, payment license stack, securities license stack, insurance license / solvency route, foreign-bank branch / agency / adjacent-license routes, ICSD / India / Thailand / ANZ corridor strategic exceptions, Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors, Taiwan / Pakistan / UBAF registry-only closure anchors, 57 / 57 foreign-bank branch routes, specialty trust-bank / CCI current-name anchors, 38 / 38 trust-company standalone or existing group routes, priority-A / B / C trust-company anchors, pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers, policy finance, payments, consumer finance, auto finance, foreign subsidiaries, the foreign-bank branch registry, and the trust-company registry. |
 | 💳 Fintech & Payments | [fintech/](fintech/), [payments/](payments/) | Stablecoins, CBDC, EPI, MiCA, GENIUS, MAS, HKMA, on-chain finance, bank API / electronic payment agency, bank API incident controls, card issuer / acquirer / processor split, interchange / merchant-fee stack, payment clearing / settlement infrastructure, card security / authentication controls, BNPL / credit-purchase boundary, prepaid / funds-transfer / credit-card registries, account-to-account payment, account-direct acquiring, code-payment competition, and PSP settlement risk. |
 | 🪙 Exchanges & VASP | [exchanges/](exchanges/) | Global and Japanese CEX/DEX, VASP regulations, JVCEA, custody, IEO, security incidents. |
 | ⚙️ Systems & Infrastructure | [systems/](systems/) | Canton/DAML, CCTP, EigenLayer, Hyperlane, BFT, cross-chain, L1/L2 foundations. |
@@ -205,7 +205,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 领域 | 目录 | 内容 |
 | --- | --- | --- |
-| 🏦 日本金融机构 | [JapanFG/](JapanFG/) | 大型银行、地方银行、保险公司、证券公司、银行牌照与 BaaS 边界、资金移转、预付式支付工具、电子支付手段登记、证券牌照、保险牌照与偿付能力、政策金融、支付公司、消费金融、汽车金融、外资金融机构、外国银行支店登记簿、国际证券结算机构（ICSD）、印度/泰国/澳新金融通道、澳大利亚/台湾/印尼/菲律宾/巴西通道、专业信托银行、商工中金现行名称、宠物/户外/通信系专业保险公司、信托公司登记簿。 |
+| 🏦 日本金融机构 | [JapanFG/](JapanFG/) | 大型银行、地方银行、保险公司、证券公司、银行牌照与 BaaS 边界、资金移转、预付式支付工具、电子支付手段登记、证券牌照、保险牌照与偿付能力、政策金融、支付公司、消费金融、汽车金融、外资金融机构、外国银行支店登记簿、国际证券结算机构（ICSD）、印度/泰国/澳新金融通道、澳大利亚/台湾/印尼/菲律宾/巴西通道、台湾/巴基斯坦/UBAF 剩余登记行收束、57 / 57 行外国银行支店都有独立页面或总括页面、专业信托银行、38 / 38 行信托公司都有独立页面或现有 group route、商工中金现行名称、宠物/户外/通信/旅行/租赁住宅/外资系专业保险公司、信托公司登记簿。 |
 | 💳 金融科技与支付 | [fintech/](fintech/), [payments/](payments/) | 稳定币、CBDC、EPI、MiCA、GENIUS、新加坡金融管理局（MAS）、香港金融管理局（HKMA）、链上金融、银行 API、电子支付等代行业、银行 API 风险控制、发卡方/收单方/处理方分工、交换费与商户手续费、清算与结算基础设施、卡认证、BNPL 与信用购买中介边界、预付式支付工具、资金移转业、信用卡登记簿、账户直连支付、账户直连收单、二维码支付竞争、支付服务商的商户结算风险。 |
 | 🪙 交易所与 VASP | [exchanges/](exchanges/) | 日本与海外加密资产交易所、集中式交易所（CEX）、去中心化交易所（DEX）、虚拟资产服务商（VASP）监管、JVCEA、托管、IEO、安全事件。 |
 | ⚙️ 系统基础设施 | [systems/](systems/) | Canton、CCTP、EigenLayer、Hyperlane、BFT、跨链、L1/L2 基础设施。 |

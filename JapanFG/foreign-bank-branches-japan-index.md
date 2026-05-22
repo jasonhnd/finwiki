@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Overview
 
-This registry index captures all **57 foreign bank branches** listed in the FSA bank-license workbook as of **2026-05-13**. It is the control surface for Batch G: 51 rows now have standalone or umbrella wiki routes, while 6 rows remain registry-only until there is a strategic reason to create a standalone page.
+This registry index captures all **57 foreign bank branches** listed in the FSA bank-license workbook as of **2026-05-13**. It is the control surface for Batch G: all 57 rows now have standalone or umbrella wiki routes after the 2026-05-22 P4 closure of the remaining Taiwan, Pakistan, and UBAF registry-only rows.
 
 Do not create long-tail foreign-bank branch pages one by one from this table by default. Use standalone pages for material Japan corridor banks, market-infrastructure-adjacent banks, or strategically important cross-border banking corridors.
 
@@ -33,8 +33,8 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | Metric | Count |
 |---|---:|
 | FSA foreign-bank branch rows | 57 |
-| Standalone / umbrella wiki routes | 51 |
-| Registry-only rows | 6 |
+| Standalone / umbrella wiki routes | 57 |
+| Registry-only rows | 0 |
 | Source as-of date | 2026-05-13 |
 
 ## Jurisdiction summary
@@ -97,15 +97,15 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | 大韓民国 | 韓国産業銀行 | 5700150000402 | 100-6736 東京都千代田区丸の内１－９－１ | [[JapanFG/korea-development-bank-japan]] | standalone |
 | 大韓民国 | 中小企業銀行 | 3700150005015 | 105-0001 東京都港区虎ノ門５－１２－１ | [[JapanFG/industrial-bank-of-korea-japan]] | standalone |
 | 大韓民国 | 國民銀行 | 6700150000434 | 100-0011 東京都千代田区内幸町１－２－２ | [[JapanFG/kb-kookmin-bank-japan]] | standalone |
-| 台湾 | 彰化商業銀行 | 5700150000971 | 100-0005 東京都千代田区丸の内１－８－３ | registry-only | registry-only |
+| 台湾 | 彰化商業銀行 | 5700150000971 | 100-0005 東京都千代田区丸の内１－８－３ | [[JapanFG/chang-hwa-bank-japan]] | standalone |
 | 台湾 | 第一商業銀行 | 6700150001085 | 100-0004 東京都千代田区大手町２－１－１ | [[JapanFG/first-commercial-bank-japan]] | standalone |
 | 台湾 | 台湾銀行 | 7700150001084 | 100-0011 東京都千代田区内幸町２－２－２ | [[JapanFG/bank-of-taiwan-japan]] | standalone |
 | 台湾 | 兆豐國際商業銀行 | 3700150001146 | 100-0005 東京都千代田区丸の内２－２－１ | [[JapanFG/mega-icbc-japan]] | standalone |
 | 台湾 | 中國信託商業銀行 | 1700150006262 | 102-0094 東京都千代田区紀尾井町１－３ | [[JapanFG/ctbc-bank-japan]] | standalone |
-| 台湾 | 台新國際商業銀行 | 1700150075695 | 100-0005 東京都千代田区丸の内２－１－１ | registry-only | registry-only |
+| 台湾 | 台新國際商業銀行 | 1700150075695 | 100-0005 東京都千代田区丸の内２－１－１ | [[JapanFG/taishin-bank-japan]] | standalone |
 | 台湾 | 玉山銀行 | 4700150084974 | 100-6331 東京都千代田区丸の内２－４－１ | [[JapanFG/esun-bank-japan]] | standalone |
-| 台湾 | 台湾中小企業銀行 | 9700150084994 | 100-0005 東京都千代田区丸の内１－８－２ | registry-only | registry-only |
-| 台湾 | 合作金庫商業銀行 | 7700150131039 | 100-0004 東京都千代田区大手町２－６－４ | registry-only | registry-only |
+| 台湾 | 台湾中小企業銀行 | 9700150084994 | 100-0005 東京都千代田区丸の内１－８－２ | [[JapanFG/taiwan-business-bank-japan]] | standalone |
+| 台湾 | 合作金庫商業銀行 | 7700150131039 | 100-0004 東京都千代田区大手町２－６－４ | [[JapanFG/taiwan-cooperative-bank-japan]] | standalone |
 | 台湾 | 台北富邦商業銀行 | 7700150134974 | 100-0004 東京都千代田区大手町２－６－４ | [[JapanFG/taipei-fubon-bank-japan]] | standalone |
 | 中華人民共和国 | 交通銀行 | 4700150003653 | 103-0027 東京都中央区日本橋１ー３－５ | [[JapanFG/bank-of-communications-japan]] | standalone |
 | 中華人民共和国 | 中國銀行 | 5700150006168 | 107-0052 東京都港区赤坂３－４－１ | [[JapanFG/bank-of-china-japan]] | standalone |
@@ -114,14 +114,14 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | 中華人民共和国 | 中国農業銀行 | 7700150001150 | 100-0005 東京都千代田区丸の内２－３－２ | [[JapanFG/agricultural-bank-of-china-japan]] | standalone |
 | ドイツ連邦共和国 | コメルツ銀行 | 7700150004772 | 105-5509 東京都港区虎ノ門２－６－１ | [[JapanFG/commerzbank-japan]] | standalone |
 | ドイツ連邦共和国 | ドイツ銀行 | 6700150001325 | 106-0041 東京都港区麻布台１－３－１ | [[JapanFG/deutsche-japan]] | standalone |
-| パキスタン・イスラム共和国 | パキスタン・ナショナル銀行 | 8700150005175 | 108-0073 東京都港区三田１－４－２８ | registry-only | registry-only |
+| パキスタン・イスラム共和国 | パキスタン・ナショナル銀行 | 8700150005175 | 108-0073 東京都港区三田１－４－２８ | [[JapanFG/national-bank-of-pakistan-japan]] | standalone |
 | フィリピン共和国 | フィリピン・ナショナル・バンク | 2700150005429 | 108-0073 東京都港区三田２－１１－１５ | [[JapanFG/philippine-national-bank-japan]] | standalone |
 | フィリピン共和国 | メトロポリタン銀行 | 7700150003411 | 101-0054 東京都千代田区神田錦町１－１９－１ | [[JapanFG/metrobank-japan]] | standalone |
 | ブラジル連邦共和国 | ブラジル銀行 | 2700150002327 | 100-0005 東京都千代田区丸の内１－６－５ | [[JapanFG/banco-do-brasil-japan]] | standalone |
 | フランス共和国 | クレディ・アグリコル銀行 | 3700150004594 | 106-0041 東京都港区麻布台１－３－１ | [[JapanFG/credit-agricole-bank-japan]] | standalone |
 | フランス共和国 | ソシエテ・ジェネラル銀行 | 2700150001080 | 100-8206 東京都千代田区丸の内１－１－１ | [[JapanFG/socgen-japan]] | standalone |
 | フランス共和国 | ビー・エヌ・ピー・パリバ銀行 | 2700150002426 | 100-6741 東京都千代田区丸の内１－９－１ | [[JapanFG/bnp-paribas-japan]] | standalone |
-| フランス共和国 | ユバフーアラブ・フランス連合銀行 | 4700150003422 | 101-0051 東京都千代田区神田神保町３－５ | registry-only | registry-only |
+| フランス共和国 | ユバフーアラブ・フランス連合銀行 | 4700150003422 | 101-0051 東京都千代田区神田神保町３－５ | [[JapanFG/ubaf-japan]] | standalone |
 | フランス共和国 | ナティクシス | 3700150001344 | 106-0032 東京都港区六本木１－４－５ | [[JapanFG/natixis-japan]] | standalone |
 | ベルギー王国 | ユーロクリア・バンク・エスアー・エヌヴェー | 9700150086297 | 100-0005 東京都千代田区丸の内１－４－１ | [[JapanFG/euroclear-bank-japan]] | standalone |
 | 香港特別行政区 | 香港上海銀行 | 3700150003670 | 103-0027 東京都中央区日本橋３－１１－１ | [[JapanFG/hsbc-japan]] | standalone |
@@ -140,7 +140,9 @@ The 2026-05-22 P2 promotion moved [[JapanFG/euroclear-bank-japan|Euroclear]], [[
 
 The 2026-05-22 P3 promotion moved [[JapanFG/commonwealth-bank-japan|Commonwealth Bank]], [[JapanFG/national-australia-bank-japan|National Australia Bank]], [[JapanFG/bank-negara-indonesia-japan|Bank Negara Indonesia]], [[JapanFG/philippine-national-bank-japan|Philippine National Bank]], [[JapanFG/metrobank-japan|Metrobank]], [[JapanFG/banco-do-brasil-japan|Banco do Brasil]], [[JapanFG/first-commercial-bank-japan|First Commercial Bank]], and [[JapanFG/taipei-fubon-bank-japan|Taipei Fubon Bank]] to standalone routes because they carry Australia, Indonesia, Philippines, Brazil, and Taiwan corridor relevance beyond raw registry presence.
 
-Registry-only rows remain valid coverage for the official-name surface. Promote them only when a future research question needs standalone analysis.
+The 2026-05-22 P4 closure moved [[JapanFG/chang-hwa-bank-japan|Chang Hwa Bank]], [[JapanFG/taishin-bank-japan|Taishin Bank]], [[JapanFG/taiwan-business-bank-japan|Taiwan Business Bank]], [[JapanFG/taiwan-cooperative-bank-japan|Taiwan Cooperative Bank]], [[JapanFG/national-bank-of-pakistan-japan|National Bank of Pakistan]], and [[JapanFG/ubaf-japan|UBAF]] to standalone routes. This closes the previous 6 registry-only rows while keeping each page concise and branch / corridor focused.
+
+No registry-only rows remain as of this pass. Future changes should follow FSA list changes or a new strategic research question, not raw page-count completion.
 
 ## Related
 
@@ -156,6 +158,12 @@ Registry-only rows remain valid coverage for the official-name surface. Promote 
 - [[JapanFG/banco-do-brasil-japan]]
 - [[JapanFG/first-commercial-bank-japan]]
 - [[JapanFG/taipei-fubon-bank-japan]]
+- [[JapanFG/chang-hwa-bank-japan]]
+- [[JapanFG/taishin-bank-japan]]
+- [[JapanFG/taiwan-business-bank-japan]]
+- [[JapanFG/taiwan-cooperative-bank-japan]]
+- [[JapanFG/national-bank-of-pakistan-japan]]
+- [[JapanFG/ubaf-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

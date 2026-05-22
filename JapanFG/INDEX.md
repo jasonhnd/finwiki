@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**402 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
+日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**451 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
 
 ## 命名与位置 convention
 
@@ -614,7 +614,7 @@ sources:
 
 | Status | Route | Scope | Boundary |
 |---|---|---|---|
-| ✅ likely | [[foreign-bank-branches-japan-index]] | FSA 57 foreign-bank branch rows as of 2026-05-13 | 36 standalone / umbrella wiki routes + 21 registry-only rows |
+| ✅ likely | [[foreign-bank-branches-japan-index]] | FSA 57 foreign-bank branch rows as of 2026-05-13 | All 57 rows now have standalone / umbrella wiki routes after P2 / P3 / P4 promotions |
 | ✅ updated | [[missing-financial-institutions-backlog]] | Batch G checklist and QA snapshot | foreign-bank branch coverage moved to registry-index closed |
 | ✅ updated | [[banking/foreign-bank-japan-retreat]] | foreign-bank Japan pattern | linked full registry route and standalone-promotion rule |
 
@@ -660,6 +660,80 @@ sources:
 | ✅ likely | [[yamap-naturance-insurance]] | ヤマップネイチャランス損害保険 | outdoor / platform-adjacent specialty non-life insurer |
 | ✅ likely | [[ntt-docomo-sonpo]] | NTTドコモ損害保険 | [[ntt-docomo-sompo-hd]] operating insurer / reinsurance route |
 
+## P41 Foreign bank branches Batch G P4 registry-only closure (6 branches) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[chang-hwa-bank-japan]] | 彰化商業銀行 東京支店 | Taiwan-Japan corporate banking, trade-finance, remittance, FX, and syndicated-loan route |
+| ✅ likely | [[taishin-bank-japan]] | 台新國際商業銀行 東京支店 | Taiwan private financial-holding-company bank route |
+| ✅ likely | [[taiwan-business-bank-japan]] | 台湾中小企業銀行 東京支店 | Taiwan SME-bank / mid-market corporate banking comparator |
+| ✅ likely | [[taiwan-cooperative-bank-japan]] | 合作金庫商業銀行 東京支店 | Taiwan cooperative-bank heritage, trade-finance, and 2025 Tokyo Branch build-out route |
+| ✅ likely | [[national-bank-of-pakistan-japan]] | パキスタン・ナショナル銀行 東京支店 | Pakistan-Japan deposits, remittance, and trade-finance corridor |
+| ✅ likely | [[ubaf-japan]] | ユバフーアラブ・フランス連合銀行 東京支店 | France / Arab-world trade-finance, correspondent-banking, and Tokyo clearing route |
+
+## P42 Trust companies Priority A promotion (6 companies) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[fpg-trust]] | FPG信託 | FPG group operating trust company for movable-asset, real-estate, money-claim, and securities trust routes |
+| ✅ likely | [[fintech-global-trust]] | フィンテックグローバル信託 | Structured-finance trust-company route for FGI group style asset structuring |
+| ✅ likely | [[lgt-wealth-management-trust]] | LGTウェルスマネジメント信託 | Foreign private-banking / wealth-management trust-company route with investment management / advisory registrations |
+| ✅ likely | [[alterna-trust]] | オルタナ信託 | Digital securities / beneficiary-certificate issuing trust route linked to SMTB, Progmat, and ALTERNA |
+| ✅ likely | [[escrow-agent-japan-trust]] | エスクロー・エージェント・ジャパン信託 | Escrow, real-estate transaction support, and inheritance-related trust route |
+| ✅ likely | [[pasona-ip-trust]] | パソナ知財信託 | Intellectual-property trust route for patents, industrial-property rights, and intangible-asset administration |
+
+## P43 Trust companies Priority B promotion (7 companies) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[starts-trust]] | スターツ信託 | Real-estate management trust-company route tied to Starts group housing / construction / property-management context |
+| ✅ likely | [[daiwa-living-trust]] | 大和リビング信託 | Daiwa House / Daiwa Living rental-housing trust and rent / deposit administration route |
+| ✅ likely | [[sekisui-house-trust]] | 積水ハウス信託 | Sekisui House group housing-finance and land / building trust route |
+| ✅ likely | [[yamada-escrow-trust]] | 山田エスクロー信託 | Real-estate settlement, escrow, and professional-services trust-company route |
+| ✅ likely | [[oag-trust]] | OAG信託 | Tax / inheritance / estate-planning trust-company route |
+| ✅ likely | [[hogaraka-trust]] | ほがらか信託 | Welfare, elder-care, and guardianship-adjacent trust-company route |
+| ✅ likely | [[fukushi-trust]] | ふくし信託 | Welfare and family-support trust-company route |
+
+## P44 Trust companies Priority C completion (19 companies) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[asahi-trust]] | 朝日信託 | Personal trust, estate planning, inheritance, and family asset-administration route |
+| ✅ likely | [[capital-trust]] | キャピタル信託 | Alternative-asset, securitization, repackaging, and project-finance trust route |
+| ✅ likely | [[lombard-odier-trust]] | ロンバー・オディエ信託 | Foreign private-banking / wealth-management trust-company route |
+| ✅ likely | [[jvalue-trust]] | ジェイバリュー信託 | Smaller specialist trust-company route with public company profile anchor |
+| ✅ likely | [[jia-trust]] | JIA信託 | Japan Investment Adviser group trust route for aircraft, real-estate, and cash / securities trust property |
+| ✅ likely | [[daito-mirai-trust]] | 大東みらい信託 | Daito Kentaku group real-estate management and succession trust route |
+| ✅ likely | [[ryugaku-anshin-trust]] | 留学安心信託 | Study-abroad fee protection and education-payment escrow route |
+| ✅ likely | [[kotaeru-trust]] | コタエル信託 | Trust-type stock-option and corporate incentive-plan route |
+| ✅ likely | [[castglobal-trust]] | キャストグローバル信託 | Professional-services, escrow, real-estate, and cross-border trust route |
+| ✅ likely | [[midori-trust]] | みどり信託 | Funeral, end-of-life, inheritance, and insurance-adjacent trust route |
+| ✅ likely | [[uk-trust]] | UK信託 | 2024 registered management-type trust-company anchor with thin-source control |
+| ✅ likely | [[kiriu-real-estate-trust]] | きりう不動産信託 | Kansai real-estate, old-building reuse, and regional-revitalization trust route |
+| ✅ likely | [[first-trust]] | ファースト信託 | Kinki-region specialist trust-company anchor |
+| ✅ likely | [[kyodo-trust]] | 共同信託 | Rights-adjustment, real-estate, and professional-services trust route |
+| ✅ likely | [[nichizei-trust]] | 日税信託 | Tax-professional, inheritance, funeral-cost, and elder asset-management trust route |
+| ✅ likely | [[sumire-regional-trust]] | すみれ地域信託 | Tokai regional revitalization and community real-estate trust route |
+| ✅ likely | [[kainuma-trust-real-estate]] | 貝沼信託不動産 | Tokai rental-property, owner succession, and local real-estate trust route |
+| ✅ likely | [[greif-trust]] | グライフ信託 | Chugoku regional trust-company route with adjacent license watch |
+| ✅ likely | [[miyoshi-smile-trust]] | 三好スマイル信託 | Fukuoka / Kyushu real-estate and family-asset trust route |
+
+## P45 Specialty / foreign-affiliated non-life extension D9 (11 companies) ✅ 完了
+
+| Status | Slug | Name | Boundary |
+|---|---|---|---|
+| ✅ likely | [[american-home-insurance-japan]] | アメリカンホーム医療・損害保険 | Legacy AIG-linked direct / medical non-life insurance route |
+| ✅ likely | [[allianz-fire-marine-japan]] | アリアンツ火災海上保険 | Foreign-affiliated corporate / commercial risk insurer route |
+| ✅ likely | [[hs-insurance]] | エイチ・エス損害保険 | Travel / pet product-specialty non-life insurer route |
+| ✅ likely | [[cardif-nonlife]] | カーディフ損害保険 | BNP Paribas Cardif non-life / bancassurance protection route |
+| ✅ likely | [[capital-insurance]] | キャピタル損害保険 | Mitsubishi HC Capital-adjacent specialty non-life route |
+| ✅ likely | [[sakura-insurance]] | さくら損害保険 | Device / small-ticket product-specialty insurance route |
+| ✅ likely | [[ji-accident-fire-insurance]] | ジェイアイ傷害火災保険 | Travel-insurance specialist route |
+| ✅ likely | [[zenkankyo-reiwa-insurance]] | 全管協れいわ損害保険 | Rental-housing resident and property-management insurance route |
+| ✅ likely | [[chubb-insurance-japan]] | Chubb損害保険 | Foreign-affiliated corporate / specialty risk insurer route |
+| ✅ likely | [[rescue-insurance]] | レスキュー損害保険 | Home-service / platform-adjacent non-life insurer route |
+| ✅ likely | [[hyundai-marine-fire-japan]] | 現代海上火災保険 | Korea-Japan foreign non-life insurer route |
+
 ## P3 graph-repair pages (21) ✅ resolved
 
 | Status | Slug | Name / target |
@@ -692,8 +766,8 @@ sources:
 |---|---|---|
 | Legal / financial licenses | [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] / [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]] / [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] / [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]] / [[JapanFG/legal-financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]] / [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]] | Banking Act, FIEA / securities, Insurance Business Act, foreign-bank branch / agency, insurance underwriting / distribution / solvency, funds transfer, prepaid, electronic-payment-agency, crypto / EPI, lending, installment-sales, policy-finance statute routes |
 | Financial reports 2020+ | [[JapanFG/financial-reports-2020-index|JapanFG financial reports 2020+ index]] | Official annual-report / disclosure / securities-report source ledger for 159 JapanFG companies and institutions |
-| Foreign bank branches | [[JapanFG/foreign-bank-branches-japan-index|Japan foreign-bank branch registry index]] | FSA 57-row foreign-bank branch registry route; 51 standalone / umbrella wiki routes and 6 registry-only rows |
-| Trust companies | [[JapanFG/trust-companies-japan-index|Japan trust companies registry index]] | FSA 38-row trust-company registry route; 6 rows have existing group wiki routes and 32 rows remain registry-only |
+| Foreign bank branches | [[JapanFG/foreign-bank-branches-japan-index|Japan foreign-bank branch registry index]] | FSA 57-row foreign-bank branch registry route; all 57 rows now have standalone / umbrella wiki routes |
+| Trust companies | [[JapanFG/trust-companies-japan-index|Japan trust companies registry index]] | FSA 38-row trust-company registry route; all 38 rows now have standalone or existing group wiki routes, 0 rows remain registry-only, and priority A / B / C standalone promotion is complete |
 | FIEA operators | [[securities/financial-instruments-business-operators-japan-index|Japan FIEA operator registry index]] | FSA 1,945-row financial instruments business operator registry-control route |
 | Cooperative banking systems | [[banking/ja-bank-system-japan|JA Bank system]] / [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] | Local JA / JA Shinnoren and local JF / JF Shingyoren boundary routes, both linked to [[JapanFG/norinchukin|Norinchukin]] |
 | Public-credit adjacency | [[policy-finance/japan-housing-finance-agency|JHF]] / [[policy-finance/japan-credit-guarantee-system|credit guarantee system]] / [[policy-finance/agriculture-credit-guarantee-system|agriculture guarantees]] / [[policy-finance/fisheries-credit-guarantee-system|fisheries guarantees]] | Policy-finance routes that explain housing, SME, agriculture, and fisheries credit creation without counting them as JapanFG operating-company pages |
@@ -770,11 +844,16 @@ sources:
 - **Phase 65 (strategic foreign-bank / payments / securities / finance expansion)** — 2026-05-22 — [[euroclear-bank-japan]] / [[clearstream-banking-japan]] / [[bank-of-communications-japan]] / [[bangkok-bank-japan]] / [[state-bank-of-india-japan]] / [[bank-of-india-japan]] / [[anz-bank-japan]] created; P2 strategic foreign-bank registry rows promoted; card security, prime brokerage, acquisition finance, and activist playbook control pages created in their domains ✅
 - **Phase 66 (追加候補 execution batch)** — 2026-05-22 — [[sbi-shinsei-trust-bank]] / [[jsf-trust-bank]] / [[cci-group]] / eight foreign-bank P3 corridor anchors / four specialty insurer anchors created; [[bny-mellon-japan]] and [[hokkoku-fhd]] boundary routes updated ✅
 - **Phase 67 (insurance / banking / capital-market control expansion)** — 2026-05-22 — [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/japan-life-insurance-big-four]], [[insurance/japan-nonlife-big-three]], [[insurance/earthquake-insurance-public-private-scheme]], [[insurance/insurance-agency-and-brokerage-japan]], [[banking/japan-net-bank-competition-map]], [[banking/japan-baas-operating-models]], [[banking/trust-bank-custody-operating-comparison]], [[finance/japan-mbo-and-squeeze-out-process]], and [[finance/japan-large-shareholding-disclosure]] created; counts synced across root / domain indexes ✅
-- **Phase 68 (next precision batch)** — 待定 — remaining registry-only foreign-bank branches only if strategic reason emerges, source URL drift QA, or deeper entity KPI / report-source precision
+- **Phase 68 (foreign-bank registry-only closure + trust-company priority map)** — 2026-05-22 — [[chang-hwa-bank-japan]] / [[taishin-bank-japan]] / [[taiwan-business-bank-japan]] / [[taiwan-cooperative-bank-japan]] / [[national-bank-of-pakistan-japan]] / [[ubaf-japan]] created; foreign-bank branch registry moved to 57 / 57 standalone or umbrella routes; [[trust-companies-japan-index]] gained an A / B / C promotion priority map ✅
+- **Phase 69 (trust-company Priority A promotion)** — 2026-05-22 — [[fpg-trust]] / [[fintech-global-trust]] / [[lgt-wealth-management-trust]] / [[alterna-trust]] / [[escrow-agent-japan-trust]] / [[pasona-ip-trust]] created; trust-company registry moved to 12 standalone / existing group routes and 26 registry-only rows ✅
+- **Phase 70 (trust-company Priority B promotion)** — 2026-05-22 — [[starts-trust]] / [[daiwa-living-trust]] / [[sekisui-house-trust]] / [[yamada-escrow-trust]] / [[oag-trust]] / [[hogaraka-trust]] / [[fukushi-trust]] created; trust-company registry moved to 19 standalone / existing group routes and 19 registry-only rows ✅
+- **Phase 71 (trust-company Priority C completion)** — 2026-05-22 — [[asahi-trust]] / [[capital-trust]] / [[lombard-odier-trust]] / [[jvalue-trust]] / [[jia-trust]] / [[daito-mirai-trust]] / [[ryugaku-anshin-trust]] / [[kotaeru-trust]] / [[castglobal-trust]] / [[midori-trust]] / [[uk-trust]] / [[kiriu-real-estate-trust]] / [[first-trust]] / [[kyodo-trust]] / [[nichizei-trust]] / [[sumire-regional-trust]] / [[kainuma-trust-real-estate]] / [[greif-trust]] / [[miyoshi-smile-trust]] created; trust-company registry moved to 38 standalone / existing group routes and 0 registry-only rows ✅
+- **Phase 72 (specialty / foreign-affiliated non-life D9)** — 2026-05-23 — [[american-home-insurance-japan]] / [[allianz-fire-marine-japan]] / [[hs-insurance]] / [[cardif-nonlife]] / [[capital-insurance]] / [[sakura-insurance]] / [[ji-accident-fire-insurance]] / [[zenkankyo-reiwa-insurance]] / [[chubb-insurance-japan]] / [[rescue-insurance]] / [[hyundai-marine-fire-japan]] created; FSA non-life lower-bound standalone coverage moved to 37 / 57 ✅
+- **Phase 73 (next precision batch)** — 待定 — source URL drift QA, non-life insurer registry index, foreign reinsurer / P&I carrier map, or deeper entity KPI / report-source precision
 
 ## 統計
 
-- 合計エントリ数: **402** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
+- 合計エントリ数: **451** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
 - P0-P12 完成済み: 125 entries
 - P13 地域銀行・残存銀行追加: 10 entries
 - P14 信託・短資・外資・消費者金融・政策金融追加: 10 entries
@@ -803,6 +882,11 @@ sources:
 - P37 Foreign-bank branch registry index Batch G: 1 non-entity registry index, 57 rows closed at registry-index level
 - P39 Foreign-bank branch P2 strategic exceptions Batch G: 7 entries
 - P40 Trust-bank / CCI / foreign-bank P3 / specialty-insurer expansion: 15 entries + 2 existing boundary updates
+- P41 Foreign-bank branch P4 registry-only closure: 6 entries
+- P42 Trust-company Priority A promotion: 6 entries
+- P43 Trust-company Priority B promotion: 7 entries
+- P44 Trust-company Priority C completion: 19 entries
+- P45 Specialty / foreign-affiliated non-life extension D9: 11 entries
 - Registry QA / index-control snapshot: 1 compact coverage table in expansion backlog (no new entity count)
 - Cooperative-finance registry indexes: 3 banking-domain indexes (no JapanFG entity count change)
 - P3 graph-repair pages: 21 entries (20 promoted in P4, 1 deprecated erroneous alias, 0 planned stubs remain)
@@ -829,16 +913,20 @@ sources:
 - Life subsidiaries / specialty insurers: 9 (Batch D2)
 - Non-life major operating-company pages: 4 (Batch D3)
 - Direct / digital non-life operating-company pages: 7 (Batch D4)
-- Specialty / reinsurance non-life operating-company pages: 6 (Batch D5)
+- Specialty / reinsurance non-life operating-company pages: 21 (Batch D5 + D8 + D9, excluding existing regional / mid-sized anchors)
 - Insurance holding-company pages: 3 new entries + [[dai-ichi-life]] name update (Batch D6)
 - Remaining exact-name life-insurer pages: 8 (Batch D7)
 - Specialty trust-bank / CCI current-name anchors: 3 (SBI Shinsei Trust / JSF Trust / CCI Group)
+- Trust-company Priority A anchors: 6 (FPG Trust / Fintech Global Trust / LGT Wealth Management Trust / Alterna Trust / Escrow Agent Japan Trust / Pasona IP Trust)
+- Trust-company Priority B anchors: 7 (Starts Trust / Daiwa Living Trust / Sekisui House Trust / Yamada Escrow Trust / OAG Trust / Hogaraka Trust / Fukushi Trust)
+- Trust-company Priority C anchors: 19 (Asahi Trust / Capital Trust / Lombard Odier Trust / JValue Trust / JIA Trust / Daito Mirai Trust / Ryugaku Anshin Trust / Kotaeru Trust / CastGlobal Trust / Midori Trust / UK Trust / Kiriu Real Estate Trust / First Trust / Kyodo Trust / Nichizei Trust / Sumire Regional Trust / Kainuma Trust Real Estate / Greif Trust / Miyoshi Smile Trust)
 - Regional-bank operating-company pages: 68 (Batch B2.1 Hokuriku / Hokkaido + B2.2 Tohoku / Fidea / Jimoto + B2.3 Kanto + B2.4 Chubu + B2.5 Kansai / Chugoku + B2.6 Shikoku + B2.7 Kyushu / Okinawa + B2.8 second-regional long tail)
 - Foreign-bank branch P0 pages: 10 (Batch G P0)
 - Foreign-bank branch P1 Korea / Taiwan / China pages: 13 (Batch G P1)
 - Foreign-bank branch P2 strategic exception pages: 7 (Euroclear / Clearstream / Bank of Communications / Bangkok Bank / State Bank of India / Bank of India / ANZ)
 - Foreign-bank branch P3 corridor pages: 8 (Commonwealth Bank / National Australia Bank / Bank Negara Indonesia / Philippine National Bank / Metrobank / Banco do Brasil / First Commercial Bank / Taipei Fubon Bank)
-- Foreign-bank branch registry index: 57 FSA rows, 51 standalone / umbrella routes, 6 registry-only rows
+- Foreign-bank branch P4 registry-only closure pages: 6 (Chang Hwa Bank / Taishin Bank / Taiwan Business Bank / Taiwan Cooperative Bank / National Bank of Pakistan / UBAF)
+- Foreign-bank branch registry index: 57 FSA rows, 57 standalone / umbrella routes, 0 registry-only rows
 - Specialty insurer extension pages: 4 (Daiichi ipet / Pet & Family / YAMAP Naturance / NTT Docomo General Insurance)
 - Legal / market-structure control pages: [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]] + [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] + 7 securities-domain maps + 4 payments control maps + 5 finance-domain M&A / control-transaction maps (not counted as JapanFG entity entries)
 
@@ -882,6 +970,7 @@ sources:
 - [[JapanFG/tokio-marine-nichido-fire]] / [[JapanFG/mitsui-sumitomo-insurance]] / [[JapanFG/aioi-nissay-dowa-insurance]] / [[JapanFG/sompo-japan-insurance]] — major non-life operating companies
 - [[JapanFG/sony-insurance]] / [[JapanFG/sbi-insurance]] / [[JapanFG/au-insurance]] / [[JapanFG/tokio-marine-direct]] / [[JapanFG/sompo-direct]] / [[JapanFG/mitsui-direct]] / [[JapanFG/rakuten-general-insurance]] — direct / digital non-life operators
 - [[JapanFG/anicom-insurance]] / [[JapanFG/dai-ichi-ipet-insurance]] / [[JapanFG/pet-and-family-insurance]] / [[JapanFG/yamap-naturance-insurance]] / [[JapanFG/ntt-docomo-sonpo]] / [[JapanFG/secom-insurance]] / [[JapanFG/toa-reinsurance]] / [[JapanFG/japan-earthquake-reinsurance]] / [[JapanFG/nisshin-fire]] / [[JapanFG/meiji-yasuda-general-insurance]] — specialty, reinsurance, pet, outdoor, telco-linked, and group-adjacent non-life operators
+- [[JapanFG/american-home-insurance-japan]] / [[JapanFG/allianz-fire-marine-japan]] / [[JapanFG/hs-insurance]] / [[JapanFG/cardif-nonlife]] / [[JapanFG/capital-insurance]] / [[JapanFG/sakura-insurance]] / [[JapanFG/ji-accident-fire-insurance]] / [[JapanFG/zenkankyo-reiwa-insurance]] / [[JapanFG/chubb-insurance-japan]] / [[JapanFG/rescue-insurance]] / [[JapanFG/hyundai-marine-fire-japan]] — D9 specialty / foreign-affiliated non-life extension anchors
 - [[JapanFG/anicom-hd]] / [[JapanFG/ntt-docomo-sompo-hd]] / [[JapanFG/rakuten-insurance-hd]] / [[JapanFG/dai-ichi-life]] — insurance holding-company and current-name anchors
 - [[JapanFG/credit-agricole-life]] / [[JapanFG/dai-ichi-life-insurance]] / [[JapanFG/dai-ichi-neo-life]] / [[JapanFG/fukokushinrai-life]] / [[JapanFG/pgf-life]] / [[JapanFG/ms-primary-life]] / [[JapanFG/midori-life]] / [[JapanFG/meiji-yasuda-trust-life]] — FSA life-insurer exact-name completion anchors
 - [[JapanFG/hokkaido-bank]] / [[JapanFG/hokuriku-bank]] / [[JapanFG/hokkoku-bank]] / [[JapanFG/toyama-bank]] / [[JapanFG/toyama-first-bank]] — Hokuriku / Hokkaido regional-bank operating-company anchors
@@ -893,9 +982,13 @@ sources:
 - [[JapanFG/woori-bank-japan]] / [[JapanFG/hana-bank-japan]] / [[JapanFG/korea-development-bank-japan]] / [[JapanFG/industrial-bank-of-korea-japan]] / [[JapanFG/kb-kookmin-bank-japan]] / [[JapanFG/bank-of-taiwan-japan]] / [[JapanFG/mega-icbc-japan]] / [[JapanFG/ctbc-bank-japan]] / [[JapanFG/esun-bank-japan]] / [[JapanFG/bank-of-china-japan]] / [[JapanFG/icbc-japan]] / [[JapanFG/china-construction-bank-japan]] / [[JapanFG/agricultural-bank-of-china-japan]] — foreign-bank branch P1 Korea / Taiwan / China anchors
 - [[JapanFG/euroclear-bank-japan]] / [[JapanFG/clearstream-banking-japan]] / [[JapanFG/bank-of-communications-japan]] / [[JapanFG/bangkok-bank-japan]] / [[JapanFG/state-bank-of-india-japan]] / [[JapanFG/bank-of-india-japan]] / [[JapanFG/anz-bank-japan]] — foreign-bank branch P2 strategic exception anchors for ICSD / collateral / China / ASEAN / India / Australia-New Zealand corridors
 - [[JapanFG/commonwealth-bank-japan]] / [[JapanFG/national-australia-bank-japan]] / [[JapanFG/bank-negara-indonesia-japan]] / [[JapanFG/philippine-national-bank-japan]] / [[JapanFG/metrobank-japan]] / [[JapanFG/banco-do-brasil-japan]] / [[JapanFG/first-commercial-bank-japan]] / [[JapanFG/taipei-fubon-bank-japan]] — foreign-bank branch P3 corridor anchors for Australia, Indonesia, Philippines, Brazil, and Taiwan
+- [[JapanFG/chang-hwa-bank-japan]] / [[JapanFG/taishin-bank-japan]] / [[JapanFG/taiwan-business-bank-japan]] / [[JapanFG/taiwan-cooperative-bank-japan]] / [[JapanFG/national-bank-of-pakistan-japan]] / [[JapanFG/ubaf-japan]] — foreign-bank branch P4 closure anchors for remaining Taiwan, Pakistan, and UBAF registry rows
 - [[JapanFG/foreign-bank-branches-japan-index]] — FSA 57-row foreign-bank branch registry route
 - [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route]] / [[JapanFG/legal-financial-licenses/foreign-bank-agency-business-route]] / [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses]] — foreign-bank branch / agency / adjacent-license control routes
 - [[JapanFG/trust-companies-japan-index]] — FSA 38-row trust-company registry route
+- [[JapanFG/fpg-trust]] / [[JapanFG/fintech-global-trust]] / [[JapanFG/lgt-wealth-management-trust]] / [[JapanFG/alterna-trust]] / [[JapanFG/escrow-agent-japan-trust]] / [[JapanFG/pasona-ip-trust]] — trust-company priority A anchors
+- [[JapanFG/starts-trust]] / [[JapanFG/daiwa-living-trust]] / [[JapanFG/sekisui-house-trust]] / [[JapanFG/yamada-escrow-trust]] / [[JapanFG/oag-trust]] / [[JapanFG/hogaraka-trust]] / [[JapanFG/fukushi-trust]] — trust-company priority B anchors
+- [[JapanFG/asahi-trust]] / [[JapanFG/capital-trust]] / [[JapanFG/lombard-odier-trust]] / [[JapanFG/jvalue-trust]] / [[JapanFG/jia-trust]] / [[JapanFG/daito-mirai-trust]] / [[JapanFG/ryugaku-anshin-trust]] / [[JapanFG/kotaeru-trust]] / [[JapanFG/castglobal-trust]] / [[JapanFG/midori-trust]] / [[JapanFG/uk-trust]] / [[JapanFG/kiriu-real-estate-trust]] / [[JapanFG/first-trust]] / [[JapanFG/kyodo-trust]] / [[JapanFG/nichizei-trust]] / [[JapanFG/sumire-regional-trust]] / [[JapanFG/kainuma-trust-real-estate]] / [[JapanFG/greif-trust]] / [[JapanFG/miyoshi-smile-trust]] — trust-company priority C anchors
 - [[banking/ja-bank-system-japan]] — JA / JA Shinnoren / 農林中央金庫 agricultural cooperative banking system route
 - [[banking/jf-marine-bank-system-japan]] — JF / JF Shingyoren / 農林中央金庫 fisheries cooperative banking system route
 - [[policy-finance/japan-housing-finance-agency]] / [[policy-finance/japan-credit-guarantee-system]] / [[policy-finance/national-federation-credit-guarantee-corporations]] — housing finance and SME public-credit guarantee routes
@@ -913,10 +1006,10 @@ sources:
 - 個別銀行 (持株会社化していない地銀: 千葉銀 / 群馬銀 / 八十二銀 / スルガ銀 / 七十七銀 等) も namespace に含めるべきか?
 - 信用金庫 / 信用組合 / 労金 / JA / JF の long-tail 個別 pages は、registry index / system page 以上に戦略的理由がある場合だけ追加する。
 - Fintech 独立創業系の追加 (NP 後払い / Liquid Group / Kyash / みんかぶ 等) はどうするか?
-- Foreign-bank branch P0 / P1 Korea-Taiwan-China / P2 strategic exceptions / P3 corridor anchors と 57-row registry index は完了。FIEA 1,945-row registry index, securities license stack, foreign-bank branch / agency / adjacent-license routes, prepaid 803-row registry index, funds-transfer 83-row registry index, METI credit / card registry index, Trust-company 38-row registry index, JA Bank system / JF Marine Bank system, and policy-finance public-credit adjacency も system route に分離済み。今後の standalone は strategic exception のみにする。
+- Foreign-bank branch P0 / P1 Korea-Taiwan-China / P2 strategic exceptions / P3 corridor anchors / P4 registry-only closure と 57-row registry index は完了し、57 / 57 rows が standalone / umbrella route を持つ。Trust-company priority A / B / C も standalone 化済みで、38 / 38 rows が standalone / existing group route を持つ。FIEA 1,945-row registry index, securities license stack, foreign-bank branch / agency / adjacent-license routes, prepaid 803-row registry index, funds-transfer 83-row registry index, METI credit / card registry index, Trust-company 38-row registry index, JA Bank system / JF Marine Bank system, and policy-finance public-credit adjacency も system route に分離済み。今後の standalone は strategic exception のみにする。
 - 大手証券: 三菱 UFJ モルガン・スタンレー証券 [[mufg]] 内 vs 独立 entry にする?
 
 ---
 
 > [!info] Source-of-truth
-> 本 INDEX は wiki/JapanFG/ namespace 唯一権威 entry tracker。新規 / 完成 entity 時に本表更新。命名 / 模板変更は本ファイルへの反映必須。**402 entity entries plus INDEX / legal-license / registry / backlog control surfaces** が現状 (2026-05-22)。JA Bank system and JF Marine Bank system are routed through [[banking/ja-bank-system-japan]] / [[banking/jf-marine-bank-system-japan]] rather than counted as JapanFG entities. Insurance license / solvency, BaaS, custody, MBO, and large-shareholding pages are control-route pages rather than JapanFG entity entries. P3 graph-repair placeholders have been resolved; future work focuses on KPI precision, report/PDF precision, remaining strategic exceptions, and source URL drift QA.
+> 本 INDEX は wiki/JapanFG/ namespace 唯一権威 entry tracker。新規 / 完成 entity 時に本表更新。命名 / 模板変更は本ファイルへの反映必須。**451 entity entries plus INDEX / legal-license / registry / backlog control surfaces** が現状 (2026-05-23)。JA Bank system and JF Marine Bank system are routed through [[banking/ja-bank-system-japan]] / [[banking/jf-marine-bank-system-japan]] rather than counted as JapanFG entities. Insurance license / solvency, BaaS, custody, MBO, and large-shareholding pages are control-route pages rather than JapanFG entity entries. P3 graph-repair placeholders have been resolved; future work focuses on KPI precision, report/PDF precision, non-life registry / foreign reinsurer mapping, and source URL drift QA.

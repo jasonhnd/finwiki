@@ -3,13 +3,14 @@ title: fintech — Stablecoin / tokenized money / payments index
 aliases: [fintech index, stablecoin index, tokenized money index]
 domain: fintech
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-15
 confidence: certain
 tags: [fintech, index, stablecoin, tokenized-money]
 status: active
 sources:
+  - "Domain index maintained from public FinWiki entries and source-backed entry frontmatter."
 ---
 
 # fintech — Stablecoin / tokenized money / payments index
