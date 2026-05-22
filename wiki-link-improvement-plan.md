@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 88 |
+| Changed or new entries in current worktree | 0 |
 
 ## Wiki Linking Standard
 
@@ -31,94 +31,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/anz-bank-japan.md` | `A` | 21 | ok |
-| `JapanFG/banco-do-brasil-japan.md` | `A` | 12 | ok |
-| `JapanFG/bangkok-bank-japan.md` | `A` | 12 | ok |
-| `JapanFG/bank-negara-indonesia-japan.md` | `A` | 9 | ok |
-| `JapanFG/bank-of-communications-japan.md` | `A` | 17 | ok |
-| `JapanFG/bank-of-india-japan.md` | `A` | 12 | ok |
-| `JapanFG/cci-group.md` | `A` | 21 | ok |
-| `JapanFG/clearstream-banking-japan.md` | `A` | 23 | ok |
-| `JapanFG/commonwealth-bank-japan.md` | `A` | 14 | ok |
-| `JapanFG/dai-ichi-ipet-insurance.md` | `A` | 12 | ok |
-| `JapanFG/euroclear-bank-japan.md` | `A` | 25 | ok |
-| `JapanFG/first-commercial-bank-japan.md` | `A` | 12 | ok |
-| `JapanFG/jal-payment-port.md` | `A` | 10 | ok |
-| `JapanFG/jsf-trust-bank.md` | `A` | 17 | ok |
-| `JapanFG/legal-financial-licenses/bank-license-and-baas-boundary.md` | `A` | 27 | ok |
-| `JapanFG/legal-financial-licenses/foreign-bank-agency-business-route.md` | `A` | 14 | ok |
-| `JapanFG/legal-financial-licenses/foreign-bank-branch-license-route.md` | `A` | 34 | ok |
-| `JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses.md` | `A` | 20 | ok |
-| `JapanFG/legal-financial-licenses/insurance-license-and-solvency.md` | `A` | 53 | ok |
-| `JapanFG/legal-financial-licenses/payment-license-stack.md` | `A` | 45 | ok |
-| `JapanFG/legal-financial-licenses/securities-license-stack.md` | `A` | 4 | ok |
-| `JapanFG/metrobank-japan.md` | `A` | 11 | ok |
-| `JapanFG/national-australia-bank-japan.md` | `A` | 11 | ok |
-| `JapanFG/netstars.md` | `A` | 11 | ok |
-| `JapanFG/ntt-docomo-sonpo.md` | `A` | 18 | ok |
-| `JapanFG/pet-and-family-insurance.md` | `A` | 14 | ok |
-| `JapanFG/philippine-national-bank-japan.md` | `A` | 11 | ok |
-| `JapanFG/recruit-mufg-business.md` | `A` | 12 | ok |
-| `JapanFG/sbi-shinsei-trust-bank.md` | `A` | 25 | ok |
-| `JapanFG/shinsei-financial.md` | `A` | 11 | ok |
-| `JapanFG/state-bank-of-india-japan.md` | `A` | 21 | ok |
-| `JapanFG/taipei-fubon-bank-japan.md` | `A` | 12 | ok |
-| `JapanFG/toyota-finance.md` | `A` | 10 | ok |
-| `JapanFG/yamap-naturance-insurance.md` | `A` | 12 | ok |
-| `banking/japan-baas-operating-models.md` | `A` | 23 | ok |
-| `banking/japan-master-trust-and-custody-bank-landscape.md` | `A` | 15 | ok |
-| `banking/japan-net-bank-competition-map.md` | `A` | 33 | ok |
-| `banking/japan-trust-bank-custody-map.md` | `A` | 27 | ok |
-| `banking/regional-bank-api-digital-partnership-route.md` | `A` | 24 | ok |
-| `banking/trust-bank-custody-operating-comparison.md` | `A` | 31 | ok |
-| `finance/japan-acquisition-finance.md` | `A` | 23 | ok |
-| `finance/japan-activist-investor-playbook.md` | `A` | 25 | ok |
-| `finance/japan-fair-disclosure-and-insider-trading-controls.md` | `A` | 20 | ok |
-| `finance/japan-large-shareholding-disclosure.md` | `A` | 11 | ok |
-| `finance/japan-mbo-and-squeeze-out-process.md` | `A` | 11 | ok |
-| `finance/japan-shareholder-proposal-and-agm-voting-route.md` | `A` | 18 | ok |
-| `finance/japan-tender-offer-process.md` | `A` | 20 | ok |
-| `insurance/earthquake-insurance-public-private-scheme.md` | `A` | 13 | ok |
-| `insurance/insurance-agency-and-brokerage-japan.md` | `A` | 18 | ok |
-| `insurance/japan-life-insurance-big-four.md` | `A` | 25 | ok |
-| `insurance/japan-nonlife-big-three.md` | `A` | 30 | ok |
-| `payments/account-to-account-payment-japan.md` | `A` | 31 | ok |
-| `payments/credit-purchase-card-operators-japan-index.md` | `A` | 34 | ok |
-| `payments/funds-transfer-service-providers-japan-index.md` | `A` | 34 | ok |
-| `payments/japan-bank-api-incident-and-fraud-control.md` | `A` | 25 | ok |
-| `payments/japan-bank-api-payment-agency-route.md` | `A` | 6 | ok |
-| `payments/japan-bnpl-credit-purchase-boundary.md` | `A` | 27 | ok |
-| `payments/japan-card-issuer-acquirer-processor-split.md` | `A` | 28 | ok |
-| `payments/japan-card-security-authentication-controls.md` | `A` | 22 | ok |
-| `payments/japan-code-payment-competitive-map.md` | `A` | 30 | ok |
-| `payments/japan-interchange-and-merchant-fee-stack.md` | `A` | 29 | ok |
-| `payments/japan-payment-clearing-and-settlement-infrastructure.md` | `A` | 10 | ok |
-| `payments/merchant-bank-pay-account-direct-acquiring.md` | `A` | 20 | ok |
-| `payments/psp-merchant-settlement-risk.md` | `A` | 15 | ok |
-| `securities/japan-best-execution-sor-pts.md` | `A` | 10 | ok |
-| `securities/japan-ipo-listing-disclosure-route.md` | `A` | 22 | ok |
-| `securities/japan-margin-trading-and-securities-finance.md` | `A` | 30 | ok |
-| `securities/japan-market-infrastructure-map.md` | `A` | 49 | ok |
-| `securities/japan-online-brokerage-competition.md` | `A` | 44 | ok |
-| `securities/japan-prime-brokerage-and-institutional-financing.md` | `A` | 33 | ok |
-| `securities/japan-pts-liquidity-data-guide.md` | `A` | 7 | ok |
-| `securities/japan-security-token-secondary-market-route.md` | `A` | 14 | ok |
-| `securities/japan-short-selling-and-stock-loan-controls.md` | `A` | 21 | ok |
-| `securities/japan-stock-lending-market-route.md` | `A` | 23 | ok |
-| `securities/japan-underwriting-market-structure.md` | `A` | 32 | ok |
-| `INDEX.md` | `M` | 26 | ok |
-| `JapanFG/INDEX.md` | `M` | 982 | ok |
-| `JapanFG/bny-mellon-japan.md` | `M` | 26 | ok |
-| `JapanFG/foreign-bank-branches-japan-index.md` | `M` | 69 | ok |
-| `JapanFG/hokkoku-fhd.md` | `M` | 18 | ok |
-| `JapanFG/legal-financial-licenses/INDEX.md` | `M` | 169 | ok |
-| `JapanFG/missing-financial-institutions-backlog.md` | `M` | 292 | ok |
-| `banking/INDEX.md` | `M` | 152 | ok |
-| `banking/foreign-bank-japan-retreat.md` | `M` | 53 | ok |
-| `finance/INDEX.md` | `M` | 29 | ok |
-| `insurance/INDEX.md` | `M` | 99 | ok |
-| `payments/INDEX.md` | `M` | 125 | ok |
-| `securities/INDEX.md` | `M` | 74 | ok |
 
 ## Domain Snapshot
 
