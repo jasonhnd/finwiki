@@ -1,24 +1,334 @@
 # CHANGELOG
 
-## 维护原则 / 運用原則
-
-### 中文
-
-- 本文件必须与 `README.md` 一样，永远同时维护中文和日文。
-- 每次重要工作都要记录详细时间线，而不是只写一句版本说明。
-- 每条记录应尽量包含：JST 时间、工作背景、影响范围、主要文件或目录、执行步骤、验证结果、后续事项。
-- 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
-- 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
+## 運用原則 / Maintenance Principles / 维护原则
 
 ### 日本語
 
-- 本ファイルは `README.md` と同様に、中国語と日本語を常に同時に維持します。
+- 本ファイルは `README.md` と同様に、日本語、英語、中国語を常に同時に維持します。
+- 本ファイル内の説明と各作業記録は、日本語、英語、中国語の順で配置します。
 - 重要な作業ごとに、短いバージョン説明だけでなく詳細なタイムラインを残します。
 - 各記録には、可能な限り JST 時刻、背景、影響範囲、主要ファイルまたはディレクトリ、実行手順、検証結果、残タスクを含めます。
 - 小さなエントリー更新であっても、変更理由、変更箇所、確認方法を明記します。
 - 本リポジトリ本文には公開インターネット情報、公的資料、公開開示、または公開情報に基づく分析のみを残します。個人情報、ローカルパス、非公開会話、顧客・相手方情報、内部案件の詳細は削除します。
 
+### English
+
+- This file, like `README.md`, must always maintain Japanese, English, and Chinese together.
+- Explanatory text and work records in this file must be ordered Japanese first, then English, then Chinese.
+- Important work must leave a detailed timeline rather than a one-line version note.
+- Each record should include JST time, background, scope, main files or directories, execution steps, validation results, and follow-up items whenever possible.
+- Even small entry updates should explain why the change was made, what changed, and how it was checked.
+- Body content in this repository must be limited to public internet information, official materials, public disclosures, or analysis based on public sources. Personal information, local paths, non-public conversations, customer or counterparty information, and internal case details must be removed.
+
+### 中文
+
+- 本文件必须与 `README.md` 一样，永远同时维护日文、英文和中文。
+- 本文件的说明文字和每条工作记录，都必须按日文在前、英文在中、中文在后的顺序排列。
+- 每次重要工作都要记录详细时间线，而不是只写一句版本说明。
+- 每条记录应尽量包含：JST 时间、工作背景、影响范围、主要文件或目录、执行步骤、验证结果、后续事项。
+- 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
+- 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
+
+## 2026-05-23
+
+### 00:51 JST: Specialty / foreign-affiliated non-life D9 expansion / 損害保険 specialty D9 拡張 / 非寿险 specialty D9 扩写
+
+#### 日本語記録
+
+- 背景: trust-company registry completion 後、次の候補として FSA 損害保険会社一覧の long-tail specialty exceptions を確認した。旅行、賃貸住宅、商品特化、外資系 / クロスボーダー文脈を持つ 11 社は公開ソースの厚みがあり、standalone route 化する価値があると判断した。
+- 影響範囲: `JapanFG/`, `insurance/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `releases/v2026.05.23.md`, and this `CHANGELOG.md`。
+- 主要ファイル:
+  - 新規 11 件: `JapanFG/american-home-insurance-japan.md`, `JapanFG/allianz-fire-marine-japan.md`, `JapanFG/hs-insurance.md`, `JapanFG/cardif-nonlife.md`, `JapanFG/capital-insurance.md`, `JapanFG/sakura-insurance.md`, `JapanFG/ji-accident-fire-insurance.md`, `JapanFG/zenkankyo-reiwa-insurance.md`, `JapanFG/chubb-insurance-japan.md`, `JapanFG/rescue-insurance.md`, `JapanFG/hyundai-marine-fire-japan.md`。
+  - 更新: `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `insurance/INDEX.md`。
+- 実施内容:
+  - 11 社を、travel / rental-housing / product-specialty / foreign-affiliated non-life route として追加。
+  - 各ページに wiki route、entity boundary、business role map、public context、research checklist、related links、sources を配置。
+  - `insurance/INDEX.md` に specialist / regional non-life と foreign-affiliated non-life の routing rows を追加。
+  - `JapanFG/INDEX.md` に P45 D9 batch を追加し、JapanFG entity entries を 451 に更新。
+  - root `INDEX.md`, `README.md`, `index.html` を 881 checked entries / JapanFG 464 entries に同期。
+  - `missing-financial-institutions-backlog` の non-life QA snapshot を 37 / 57 standalone lower-bound coverage に更新。
+- 数値記録: wiki 本文ページは 11 件追加。JapanFG domain entries は 453 から 464。JapanFG entity entries は 440 から 451。FSA non-life lower-bound standalone coverage は 26 / 57 から 37 / 57。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=881, entries_with_issues=0）。`git diff --check` は pass。
+- 後続事項: 残りの non-life long-tail rows は blanket page generation ではなく、non-life insurer registry index、foreign reinsurer / P&I carrier map、source URL drift refresh、report-source / KPI precision に回す。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+
+#### English Record
+
+- Background: After completing the trust-company registry, the next candidate set was the long-tail specialty-exception surface in the FSA non-life insurer list. Eleven companies with travel, rental-housing, product-specialty, foreign-affiliated, or cross-border context had enough public-source support to justify standalone routes.
+- Scope: `JapanFG/`, `insurance/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `releases/v2026.05.23.md`, and this `CHANGELOG.md`.
+- Main files:
+  - New pages: `JapanFG/american-home-insurance-japan.md`, `JapanFG/allianz-fire-marine-japan.md`, `JapanFG/hs-insurance.md`, `JapanFG/cardif-nonlife.md`, `JapanFG/capital-insurance.md`, `JapanFG/sakura-insurance.md`, `JapanFG/ji-accident-fire-insurance.md`, `JapanFG/zenkankyo-reiwa-insurance.md`, `JapanFG/chubb-insurance-japan.md`, `JapanFG/rescue-insurance.md`, and `JapanFG/hyundai-marine-fire-japan.md`.
+  - Updated files: `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, and `insurance/INDEX.md`.
+- Changes:
+  - Added eleven travel, rental-housing, product-specialty, and foreign-affiliated non-life insurer routes.
+  - Gave each page a wiki route, entity boundary, business role map, public context, research checklist, related links, and sources.
+  - Added specialist / regional non-life and foreign-affiliated non-life routing rows to `insurance/INDEX.md`.
+  - Added the P45 D9 batch to `JapanFG/INDEX.md` and updated JapanFG entity entries to 451.
+  - Synced root `INDEX.md`, `README.md`, and `index.html` to 881 checked entries and 464 JapanFG entries.
+  - Updated the non-life QA snapshot in `missing-financial-institutions-backlog` to 37 / 57 standalone lower-bound coverage.
+- Counts: 11 new wiki article pages. JapanFG domain entries moved from 453 to 464. JapanFG entity entries moved from 440 to 451. FSA non-life lower-bound standalone coverage moved from 26 / 57 to 37 / 57.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=881 and entries_with_issues=0. `git diff --check` passed.
+- Follow-up: Remaining non-life long-tail rows should not be blanket-generated as company pages. Move them to a non-life insurer registry index, foreign reinsurer / P&I carrier map, source URL drift refresh, or report-source / KPI precision. remote HEAD / GitHub Release / Pages verification runs after push.
+
+#### 中文记录
+
+- 背景：完成 trust-company registry 后，下一组候选是 FSA 损害保险公司名单中的 long-tail specialty exceptions。旅行、租赁住宅、商品特化、外资 / 跨境语境的 11 家公司具备足够公开资料厚度，适合提升为 standalone route。
+- 影响范围：`JapanFG/`、`insurance/INDEX.md`、根目录 `INDEX.md`、`README.md`、`index.html`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、`releases/v2026.05.23.md` 和本 `CHANGELOG.md`。
+- 主要文件：
+  - 新增 11 个页面：`JapanFG/american-home-insurance-japan.md`、`JapanFG/allianz-fire-marine-japan.md`、`JapanFG/hs-insurance.md`、`JapanFG/cardif-nonlife.md`、`JapanFG/capital-insurance.md`、`JapanFG/sakura-insurance.md`、`JapanFG/ji-accident-fire-insurance.md`、`JapanFG/zenkankyo-reiwa-insurance.md`、`JapanFG/chubb-insurance-japan.md`、`JapanFG/rescue-insurance.md`、`JapanFG/hyundai-marine-fire-japan.md`。
+  - 更新：`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、根目录 `INDEX.md`、`README.md`、`index.html`、`insurance/INDEX.md`。
+- 执行内容：
+  - 新增 11 条 travel / rental-housing / product-specialty / foreign-affiliated non-life route。
+  - 每个页面都补齐 wiki route、entity boundary、business role map、public context、research checklist、related links 和 sources。
+  - 在 `insurance/INDEX.md` 增加 specialist / regional non-life 与 foreign-affiliated non-life routing rows。
+  - 在 `JapanFG/INDEX.md` 增加 P45 D9 batch，并将 JapanFG entity entries 更新为 451。
+  - 同步 root `INDEX.md`、`README.md`、`index.html` 到 881 checked entries / JapanFG 464 entries。
+  - 将 `missing-financial-institutions-backlog` 的 non-life QA snapshot 更新为 37 / 57 standalone lower-bound coverage。
+- 数字记录：新增 wiki 正文页面 11 个。JapanFG domain entries 从 453 增至 464。JapanFG entity entries 从 440 增至 451。FSA non-life lower-bound standalone coverage 从 26 / 57 增至 37 / 57。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=881，entries_with_issues=0。`git diff --check` 通过。
+- 后续事项：剩余 non-life long-tail rows 不应机械生成 company pages，下一步转向 non-life insurer registry index、foreign reinsurer / P&I carrier map、source URL drift refresh、report-source / KPI precision。remote HEAD / GitHub Release / Pages verification 在 push 后执行。
+
+### 00:50 JST: CHANGELOG 言語順序の正規化 / CHANGELOG language-order normalization / CHANGELOG 语言顺序统一
+
+#### 日本語記録
+
+- 背景: user から `https://finwiki.zksc.io/CHANGELOG.md` も「日文在上面，英文，中文」の順にするよう指示があった。live page では冒頭の運用原則が中国語先で、一部の 2026-05-20 旧エントリーも英語欄を持っていなかった。
+- 影響範囲: root `CHANGELOG.md` のみ。
+- 実施内容:
+  - 冒頭の運用原則を `運用原則 / Maintenance Principles / 维护原则` に変更し、日本語、英語、中国語の順に再配置。
+  - 2026-05-20 の旧エントリーのうち英語欄がなかった記録に `English Record` を追加。
+  - 中文が日本語より先に置かれていた初期同期 / 運用ルール固定エントリーを、日本語、英語、中国語の順に再配置。
+  - 本変更自体も 3 言語の作業記録として追加。
+- 検証結果: `CHANGELOG.md` の作業エントリー構造 scan は pass（全 work entries が `日本語記録` -> `English Record` -> `中文记录`）。`git diff --check -- CHANGELOG.md` も pass。
+- 後続事項: 現在の working tree には既存の未コミット FinWiki 拡張差分が多数あるため、public Pages への反映は push scope を分けて確認する。
+
+#### English Record
+
+- Background: The user pointed to `https://finwiki.zksc.io/CHANGELOG.md` and requested that this page also be ordered Japanese first, then English, then Chinese. The live page still had maintenance principles with Chinese first, and some older 2026-05-20 entries had no English section.
+- Scope: root `CHANGELOG.md` only.
+- Changes:
+  - Renamed the opening principles section to `運用原則 / Maintenance Principles / 维护原则` and reordered it as Japanese, English, and Chinese.
+  - Added `English Record` sections to older 2026-05-20 entries that were missing English.
+  - Reordered initial-sync and maintenance-rule-hardening entries that previously placed Chinese before Japanese.
+  - Added this change itself as a trilingual work record.
+- Validation result: the `CHANGELOG.md` work-entry structure scan passed; all work entries now use `日本語記録` -> `English Record` -> `中文记录`. `git diff --check -- CHANGELOG.md` also passed.
+- Follow-up: The current working tree already has many uncommitted FinWiki expansion changes, so the public Pages update should be published with an explicitly separated push scope.
+
+#### 中文记录
+
+- 背景：用户指出 `https://finwiki.zksc.io/CHANGELOG.md` 这一页也要改成“日文在上面，英文，中文”的顺序。当前 live page 顶部维护原则仍是中文在前，且部分 2026-05-20 旧记录没有英文段落。
+- 影响范围：仅根目录 `CHANGELOG.md`。
+- 执行内容：
+  - 将开头维护原则改为 `運用原則 / Maintenance Principles / 维护原则`，并按日文、英文、中文顺序重排。
+  - 为缺少英文段的 2026-05-20 旧记录补充 `English Record`。
+  - 将中文在日文前面的初始同步 / 维护规则固化记录，调整为日文、英文、中文顺序。
+  - 将本次变更本身也追加为三语工作记录。
+- 验证结果：`CHANGELOG.md` 工作记录结构扫描通过；所有 work entries 均为 `日本語記録` -> `English Record` -> `中文记录`。`git diff --check -- CHANGELOG.md` 也通过。
+- 后续事项：当前 working tree 已有大量既存未提交的 FinWiki 扩写差分，因此 public Pages 反映需要单独确认 push scope。
+
 ## 2026-05-22
+
+### 23:21 JST: Trust-company Priority C registry completion / 信託会社 Priority C registry 完了 / 信托公司 Priority C 登记簿闭合
+
+#### 日本語記録
+
+- 背景: Trust-company priority B 完了後、残り 19 registry-only rows について公式サイト・公開会社概要・公開 PDF / 公的資料の有無を確認した。公開ソースの厚みが最低限あると判断したため、registry-only を残さず concise standalone route 化した。
+- 影響範囲: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-8.md`, and this `CHANGELOG.md`。
+- 主要ファイル:
+  - 新規 19 件: `JapanFG/asahi-trust.md`, `JapanFG/capital-trust.md`, `JapanFG/lombard-odier-trust.md`, `JapanFG/jvalue-trust.md`, `JapanFG/jia-trust.md`, `JapanFG/daito-mirai-trust.md`, `JapanFG/ryugaku-anshin-trust.md`, `JapanFG/kotaeru-trust.md`, `JapanFG/castglobal-trust.md`, `JapanFG/midori-trust.md`, `JapanFG/uk-trust.md`, `JapanFG/kiriu-real-estate-trust.md`, `JapanFG/first-trust.md`, `JapanFG/kyodo-trust.md`, `JapanFG/nichizei-trust.md`, `JapanFG/sumire-regional-trust.md`, `JapanFG/kainuma-trust-real-estate.md`, `JapanFG/greif-trust.md`, `JapanFG/miyoshi-smile-trust.md`。
+  - 更新: `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`。
+- 実施内容:
+  - 19 社を、estate / real-estate / escrow / tax / welfare / education-payment / stock-option / regional trust の concise source-backed pages にした。
+  - `trust-companies-japan-index` の priority C を完了扱いに変更し、official registry rows 全 38 件を standalone / existing group route に更新。
+  - Trust-company QA snapshot を 19 standalone / existing group route + 19 registry-only から 38 standalone / existing group route + 0 registry-only に更新。
+  - root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, `index.html` を 870 checked entries / JapanFG 453 entries に同期。
+- 数値記録: wiki 本文ページは 19 件追加。JapanFG entity entries は 421 から 440。Trust-company registry は 38 rows のうち 38 rows が standalone / existing group route、0 rows が registry-only。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=870, entries_with_issues=0）。`git diff --check` は pass。
+- 後続事項: trust-company registry の raw completion は完了。今後は FSA `sintaku01.xlsx` の更新、社名変更、URL drift refresh、既存ページの report-source / KPI precision に移す。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+
+#### English Record
+
+- Background: After completing trust-company priority B, this pass checked the remaining 19 registry-only rows for official sites, public company profiles, public PDFs, or public-agency sources. Because each had minimum public-source support, the rows were promoted into concise standalone routes.
+- Scope: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-8.md`, and this `CHANGELOG.md`.
+- Main files:
+  - New pages: `JapanFG/asahi-trust.md`, `JapanFG/capital-trust.md`, `JapanFG/lombard-odier-trust.md`, `JapanFG/jvalue-trust.md`, `JapanFG/jia-trust.md`, `JapanFG/daito-mirai-trust.md`, `JapanFG/ryugaku-anshin-trust.md`, `JapanFG/kotaeru-trust.md`, `JapanFG/castglobal-trust.md`, `JapanFG/midori-trust.md`, `JapanFG/uk-trust.md`, `JapanFG/kiriu-real-estate-trust.md`, `JapanFG/first-trust.md`, `JapanFG/kyodo-trust.md`, `JapanFG/nichizei-trust.md`, `JapanFG/sumire-regional-trust.md`, `JapanFG/kainuma-trust-real-estate.md`, `JapanFG/greif-trust.md`, and `JapanFG/miyoshi-smile-trust.md`.
+  - Updated files: `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, and `wiki-link-improvement-plan.md`.
+- Changes:
+  - Added 19 concise source-backed pages covering estate, real-estate, escrow, tax, welfare, education-payment, stock-option, and regional trust routes.
+  - Marked priority C as completed in `trust-companies-japan-index` and updated all 38 official registry rows to standalone or existing group routes.
+  - Updated the trust-company QA snapshot from 19 standalone / existing group routes plus 19 registry-only rows to 38 standalone / existing group routes and 0 registry-only rows.
+  - Synced root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, and `index.html` to 870 checked entries and 453 JapanFG entries.
+- Counts: 19 new wiki article pages. JapanFG entity entries moved from 421 to 440. The trust-company registry now has 38 standalone / existing group route rows and 0 registry-only rows.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=870 and entries_with_issues=0. `git diff --check` passed.
+- Follow-up: raw trust-company registry completion is done. Future work should move to FSA `sintaku01.xlsx` updates, name changes, URL drift refresh, and report-source / KPI precision. remote HEAD / GitHub Release / Pages verification runs after push.
+
+#### 中文记录
+
+- 背景：完成 trust-company priority B 后，本轮继续核对剩余 19 个 registry-only rows 是否有官网、公开公司概要、公开 PDF 或公的资料。因每一行都具备最低公开资料支撑，所以本轮将其全部提升为 concise standalone route。
+- 影响范围：`JapanFG/`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`、`releases/v2026.05.22-8.md` 和本 `CHANGELOG.md`。
+- 主要文件：
+  - 新增 19 个页面：`JapanFG/asahi-trust.md`、`JapanFG/capital-trust.md`、`JapanFG/lombard-odier-trust.md`、`JapanFG/jvalue-trust.md`、`JapanFG/jia-trust.md`、`JapanFG/daito-mirai-trust.md`、`JapanFG/ryugaku-anshin-trust.md`、`JapanFG/kotaeru-trust.md`、`JapanFG/castglobal-trust.md`、`JapanFG/midori-trust.md`、`JapanFG/uk-trust.md`、`JapanFG/kiriu-real-estate-trust.md`、`JapanFG/first-trust.md`、`JapanFG/kyodo-trust.md`、`JapanFG/nichizei-trust.md`、`JapanFG/sumire-regional-trust.md`、`JapanFG/kainuma-trust-real-estate.md`、`JapanFG/greif-trust.md`、`JapanFG/miyoshi-smile-trust.md`。
+  - 更新：`JapanFG/trust-companies-japan-index.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`。
+- 执行内容：
+  - 将 19 家公司写成覆盖 estate、不动产、escrow、税务、福祉、留学费用保护、股票期权、地方信托公司路径的 concise source-backed 页面。
+  - 在 `trust-companies-japan-index` 中将 priority C 标记为完成，并把 official registry rows 全部更新为 standalone 或 existing group route。
+  - 将 trust-company QA snapshot 从 19 个 standalone / existing group route + 19 个 registry-only rows，更新为 38 个 standalone / existing group route + 0 个 registry-only rows。
+  - 同步 root `INDEX.md`、`JapanFG/INDEX.md`、`README.md`、`index.html` 到 870 checked entries / JapanFG 453 entries。
+- 数字记录：新增 wiki 正文页面 19 个。JapanFG entity entries 从 421 增至 440。信托公司登记簿现在 38 行中有 38 行 standalone / existing group route、0 行 registry-only。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=870，entries_with_issues=0。`git diff --check` 通过。
+- 后续事项：trust-company registry 的原始补齐已经完成。后续转向 FSA `sintaku01.xlsx` 更新、社名变更、URL drift refresh、既有页面的 report-source / KPI precision。remote HEAD / GitHub Release / Pages verification 在 push 后执行。
+
+### 21:44 JST: Trust-company Priority B standalone promotion / 信託会社 Priority B standalone 化 / 信托公司 Priority B 独立页面化
+
+#### 日本語記録
+
+- 背景: Trust-company priority A の完了後、priority B として整理済みだった不動産、住宅、相続、税務、福祉、escrow 隣接の信託会社 7 社について、公開ソースが確認できたため standalone route 化した。
+- 影響範囲: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-7.md`, and this `CHANGELOG.md`。
+- 主要ファイル:
+  - 新規 7 件: `JapanFG/starts-trust.md`, `JapanFG/daiwa-living-trust.md`, `JapanFG/sekisui-house-trust.md`, `JapanFG/yamada-escrow-trust.md`, `JapanFG/oag-trust.md`, `JapanFG/hogaraka-trust.md`, `JapanFG/fukushi-trust.md`。
+  - 更新: `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`。
+- 実施内容:
+  - 7 社を、real-estate trust / rental-housing trust / escrow / tax and inheritance / welfare trust の source-backed pages にした。
+  - `trust-companies-japan-index` の priority B を完了扱いに変更し、official registry rows を新規 standalone route に更新。
+  - Trust-company QA snapshot を 12 standalone / existing group route + 26 registry-only から 19 standalone / existing group route + 19 registry-only に更新。
+  - root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, `index.html` を 851 checked entries / JapanFG 434 entries に同期。
+- 数値記録: wiki 本文ページは 7 件追加。JapanFG entity entries は 414 から 421。Trust-company registry は 38 rows のうち 19 rows が standalone / existing group route、19 rows が registry-only。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=851, entries_with_issues=0）。`git diff --check` は pass。
+- 後続事項: trust-company priority C は公開ソースの厚みがある会社だけ選別する。source URL drift refresh と report-source / KPI precision も次候補として残す。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+
+#### English Record
+
+- Background: After completing trust-company priority A, this pass promoted the seven priority-B trust companies with public-source depth around real estate, housing, inheritance, tax, welfare, and escrow adjacency.
+- Scope: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-7.md`, and this `CHANGELOG.md`.
+- Main files:
+  - New pages: `JapanFG/starts-trust.md`, `JapanFG/daiwa-living-trust.md`, `JapanFG/sekisui-house-trust.md`, `JapanFG/yamada-escrow-trust.md`, `JapanFG/oag-trust.md`, `JapanFG/hogaraka-trust.md`, and `JapanFG/fukushi-trust.md`.
+  - Updated files: `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, and `wiki-link-improvement-plan.md`.
+- Changes:
+  - Added seven source-backed pages covering real-estate trust, rental-housing trust, escrow, tax and inheritance, and welfare-trust routes.
+  - Marked priority B as completed in `trust-companies-japan-index` and updated official registry rows to the new standalone routes.
+  - Updated the trust-company QA snapshot from 12 standalone / existing group routes plus 26 registry-only rows to 19 standalone / existing group routes plus 19 registry-only rows.
+  - Synced root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, and `index.html` to 851 checked entries and 434 JapanFG entries.
+- Counts: 7 new wiki article pages. JapanFG entity entries moved from 414 to 421. The trust-company registry now has 19 standalone / existing group route rows and 19 registry-only rows.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=851 and entries_with_issues=0. `git diff --check` passed.
+- Follow-up: priority-C trust companies should be selected only where public-source depth supports a useful page. source URL drift refresh and report-source / KPI precision remain next candidates. remote HEAD / GitHub Release / Pages verification runs after push.
+
+#### 中文记录
+
+- 背景：完成 trust-company priority A 后，本轮继续处理已整理为 priority B 的 7 家信托公司；这些公司在不动产、住宅、继承、税务、福祉与 escrow 相关路径上有可核对的公开资料，足以支撑 standalone route。
+- 影响范围：`JapanFG/`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`、`releases/v2026.05.22-7.md` 和本 `CHANGELOG.md`。
+- 主要文件：
+  - 新增 7 个页面：`JapanFG/starts-trust.md`、`JapanFG/daiwa-living-trust.md`、`JapanFG/sekisui-house-trust.md`、`JapanFG/yamada-escrow-trust.md`、`JapanFG/oag-trust.md`、`JapanFG/hogaraka-trust.md`、`JapanFG/fukushi-trust.md`。
+  - 更新：`JapanFG/trust-companies-japan-index.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`。
+- 执行内容：
+  - 将 7 家公司写成覆盖不动产信托、租赁住宅信托、escrow、税务与继承、福祉信托路径的短 source-backed 页面。
+  - 在 `trust-companies-japan-index` 中将 priority B 标记为完成，并把 official registry rows 指向新增 standalone route。
+  - 将 trust-company QA snapshot 从 12 个 standalone / existing group route + 26 个 registry-only rows，更新为 19 个 standalone / existing group route + 19 个 registry-only rows。
+  - 同步 root `INDEX.md`、`JapanFG/INDEX.md`、`README.md`、`index.html` 到 851 checked entries / JapanFG 434 entries。
+- 数字记录：新增 wiki 正文页面 7 个。JapanFG entity entries 从 414 增至 421。信托公司登记簿现在 38 行中有 19 行 standalone / existing group route、19 行 registry-only。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=851，entries_with_issues=0。`git diff --check` 通过。
+- 后续事项：priority-C 信托公司只在公开资料足够时继续扩写。source URL drift refresh 与既有 entity 的 report-source / KPI precision 仍是下一候选。remote HEAD / GitHub Release / Pages verification 在 push 后执行。
+
+### 21:27 JST: Trust-company Priority A standalone promotion / 信託会社 Priority A standalone 化 / 信托公司 Priority A 独立页面化
+
+#### 日本語記録
+
+- 背景: foreign-bank registry-only closure の次候補として、信託会社 registry の priority A 6 社を確認した。公開ソースが十分な会社だけを standalone 化する方針に基づき、FPG信託、フィンテックグローバル信託、LGTウェルスマネジメント信託、オルタナ信託、エスクロー・エージェント・ジャパン信託、パソナ知財信託を追加した。
+- 影響範囲: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-6.md`, and this `CHANGELOG.md`。
+- 主要ファイル:
+  - 新規 6 件: `JapanFG/fpg-trust.md`, `JapanFG/fintech-global-trust.md`, `JapanFG/lgt-wealth-management-trust.md`, `JapanFG/alterna-trust.md`, `JapanFG/escrow-agent-japan-trust.md`, `JapanFG/pasona-ip-trust.md`。
+  - 更新: `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`。
+- 実施内容:
+  - 6 社を、信託会社 / wealth-management / security-token / escrow / IP trust の route として短い source-backed pages にした。
+  - `trust-companies-japan-index` の priority A を完了扱いに変更し、official registry rows を新規 standalone route に更新。
+  - Trust-company QA snapshot を 6 group-route + 32 registry-only から 12 standalone / existing group route + 26 registry-only に更新。
+  - root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, `index.html` を 844 checked entries / JapanFG 427 entries に同期。
+- 数値記録: wiki 本文ページは 6 件追加。JapanFG entity entries は 408 から 414。Trust-company registry は 38 rows のうち 12 rows が standalone / existing group route、26 rows が registry-only。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=844, entries_with_issues=0）。`git diff --check` は pass。
+- 後続事項: trust-company priority B は公開ソースの厚みを見て選別する。source URL drift refresh と report-source / KPI precision も次候補として残す。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+
+#### English Record
+
+- Background: After closing the foreign-bank registry-only rows, this pass executed the next content-expansion candidate: priority-A trust companies with enough public-source depth for standalone routes.
+- Scope: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-6.md`, and this `CHANGELOG.md`.
+- Main files:
+  - New pages: `JapanFG/fpg-trust.md`, `JapanFG/fintech-global-trust.md`, `JapanFG/lgt-wealth-management-trust.md`, `JapanFG/alterna-trust.md`, `JapanFG/escrow-agent-japan-trust.md`, and `JapanFG/pasona-ip-trust.md`.
+  - Updated files: `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, and `wiki-link-improvement-plan.md`.
+- Changes:
+  - Added six source-backed pages covering trust-company, wealth-management, security-token, escrow, and IP trust routes.
+  - Marked priority A as completed in `trust-companies-japan-index` and updated official registry rows to the new standalone routes.
+  - Updated the trust-company QA snapshot from 6 group routes + 32 registry-only rows to 12 standalone / existing group routes + 26 registry-only rows.
+  - Synced root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, and `index.html` to 844 checked entries and 427 JapanFG entries.
+- Counts: 6 new wiki article pages. JapanFG entity entries moved from 408 to 414. The trust-company registry now has 12 standalone / existing group route rows and 26 registry-only rows.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=844 and entries_with_issues=0. `git diff --check` passed.
+- Follow-up: priority-B trust companies should be selected only where public-source depth supports a useful page. source URL drift refresh and report-source / KPI precision remain next candidates. remote HEAD / GitHub Release / Pages verification runs after push.
+
+#### 中文记录
+
+- 背景：完成 foreign-bank registry-only 收束后，本轮执行下一个可扩写候选：公开资料足够支撑 standalone route 的 priority-A 信托公司。
+- 影响范围：`JapanFG/`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`、`releases/v2026.05.22-6.md` 和本 `CHANGELOG.md`。
+- 主要文件：
+  - 新增 6 个页面：`JapanFG/fpg-trust.md`、`JapanFG/fintech-global-trust.md`、`JapanFG/lgt-wealth-management-trust.md`、`JapanFG/alterna-trust.md`、`JapanFG/escrow-agent-japan-trust.md`、`JapanFG/pasona-ip-trust.md`。
+  - 更新：`JapanFG/trust-companies-japan-index.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`。
+- 执行内容：
+  - 将 6 家公司写成覆盖信托公司、财富管理、证券型代币、escrow、知识产权信托路径的短 source-backed 页面。
+  - 在 `trust-companies-japan-index` 中将 priority A 标记为完成，并把 official registry rows 指向新增 standalone route。
+  - 将 trust-company QA snapshot 从 6 个 group-route + 32 个 registry-only rows，更新为 12 个 standalone / existing group route + 26 个 registry-only rows。
+  - 同步 root `INDEX.md`、`JapanFG/INDEX.md`、`README.md`、`index.html` 到 844 checked entries / JapanFG 427 entries。
+- 数字记录：新增 wiki 正文页面 6 个。JapanFG entity entries 从 408 增至 414。信托公司登记簿现在 38 行中有 12 行 standalone / existing group route、26 行 registry-only。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=844，entries_with_issues=0。`git diff --check` 通过。
+- 后续事项：priority-B 信托公司只在公开资料足够时继续扩写。source URL drift refresh 与既有 entity 的 report-source / KPI precision 仍是下一候选。remote HEAD / GitHub Release / Pages verification 在 push 后执行。
+
+### 19:34 JST: Foreign-bank registry-only closure and trust-company priority map / 外国銀行 registry-only 解消と信託会社優先度整理 / 外国银行 registry-only 收束与信托公司优先级图
+
+#### 日本語記録
+
+- 背景: user から「まだ何を拡写できるか」の確認後に実行指示があり、最も小さく完了状態を改善できる残件として、外国銀行支店 registry の 6 registry-only rows を standalone / umbrella route に閉じる方針を採用した。
+- 影響範囲: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-5.md`, and this `CHANGELOG.md`。
+- 主要ファイル:
+  - 新規 6 件: `JapanFG/chang-hwa-bank-japan.md`, `JapanFG/taishin-bank-japan.md`, `JapanFG/taiwan-business-bank-japan.md`, `JapanFG/taiwan-cooperative-bank-japan.md`, `JapanFG/national-bank-of-pakistan-japan.md`, `JapanFG/ubaf-japan.md`。
+  - 更新: `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`。
+- 実施内容:
+  - 彰化商業銀行、台新國際商業銀行、台湾中小企業銀行、合作金庫商業銀行、パキスタン・ナショナル銀行、UBAF を、公開 source に基づく短い branch / corridor pages として追加。
+  - `foreign-bank-branches-japan-index` の coverage を 51 standalone / umbrella + 6 registry-only から 57 standalone / umbrella + 0 registry-only に更新。
+  - `missing-financial-institutions-backlog` の Batch G / QA snapshot / 推奨実行順を更新し、今後の foreign-bank work を raw list completion ではなく source refresh / precision work と明示。
+  - `trust-companies-japan-index` に A / B / C priority map を追加し、32 registry-only rows をむやみにページ化しない運用を明確化。
+  - root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, `index.html` を 838 checked entries / JapanFG 421 entries に同期。
+- 数値記録: wiki 本文ページは 6 件追加。外国銀行支店 registry は 57 / 57 rows が standalone / umbrella route になった。Trust-company registry は 38 rows のうち 6 group-route / 32 registry-only のまま、priority map を追加。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=838, entries_with_issues=0）。`git diff --check` は pass。
+- 後続事項: source URL drift refresh、trust-company priority A の source-backed standalone 化、既存 JapanFG entity の report-source / KPI precision を次候補とする。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+
+#### English Record
+
+- Background: After the user asked what could still be expanded and then said to proceed, this pass picked the smallest high-confidence completion improvement: closing the six registry-only rows in the foreign-bank branch registry.
+- Scope: `JapanFG/`, root `INDEX.md`, `README.md`, `index.html`, `wiki-link-improvement-plan.md`, `releases/v2026.05.22-5.md`, and this `CHANGELOG.md`.
+- Main files:
+  - New pages: `JapanFG/chang-hwa-bank-japan.md`, `JapanFG/taishin-bank-japan.md`, `JapanFG/taiwan-business-bank-japan.md`, `JapanFG/taiwan-cooperative-bank-japan.md`, `JapanFG/national-bank-of-pakistan-japan.md`, and `JapanFG/ubaf-japan.md`.
+  - Updated files: `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/trust-companies-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, root `INDEX.md`, `README.md`, `index.html`, and `wiki-link-improvement-plan.md`.
+- Changes:
+  - Added concise public-source branch / corridor pages for Chang Hwa Bank, Taishin Bank, Taiwan Business Bank, Taiwan Cooperative Bank, National Bank of Pakistan, and UBAF.
+  - Updated `foreign-bank-branches-japan-index` from 51 standalone / umbrella routes plus 6 registry-only rows to 57 standalone / umbrella routes and 0 registry-only rows.
+  - Updated the expansion backlog so future foreign-bank work is source refresh / precision work rather than raw list completion.
+  - Added an A / B / C promotion priority map to `trust-companies-japan-index`.
+  - Synced root `INDEX.md`, `JapanFG/INDEX.md`, `README.md`, and `index.html` to 838 checked entries and 421 JapanFG entries.
+- Counts: 6 new wiki article pages. The foreign-bank branch registry now has 57 / 57 standalone or umbrella routes. The trust-company registry still intentionally keeps 32 registry-only rows while adding a priority map.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=838 and entries_with_issues=0. `git diff --check` passed.
+- Follow-up: source URL drift refresh, source-backed promotion of priority-A trust companies, and report-source / KPI precision for existing JapanFG entities. remote HEAD / GitHub Release / Pages verification runs after push.
+
+#### 中文记录
+
+- 背景：用户在确认“还有什么内容可以扩写”之后下达执行指示，本轮选择最小但能明显提高完成度的残项：把外国银行支店登记簿里剩余的 6 个 registry-only rows 收束为 standalone / umbrella route。
+- 影响范围：`JapanFG/`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`、`releases/v2026.05.22-5.md` 和本 `CHANGELOG.md`。
+- 主要文件：
+  - 新增 6 个页面：`JapanFG/chang-hwa-bank-japan.md`、`JapanFG/taishin-bank-japan.md`、`JapanFG/taiwan-business-bank-japan.md`、`JapanFG/taiwan-cooperative-bank-japan.md`、`JapanFG/national-bank-of-pakistan-japan.md`、`JapanFG/ubaf-japan.md`。
+  - 更新：`JapanFG/foreign-bank-branches-japan-index.md`、`JapanFG/trust-companies-japan-index.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、根目录 `INDEX.md`、`README.md`、`index.html`、`wiki-link-improvement-plan.md`。
+- 执行内容：
+  - 将彰化商業銀行、台新國際商業銀行、台湾中小企業銀行、合作金庫商業銀行、パキスタン・ナショナル銀行、UBAF 写成基于公开来源的短 branch / corridor 页面。
+  - 将 `foreign-bank-branches-japan-index` 从 51 个 standalone / umbrella route + 6 个 registry-only rows，更新为 57 个 standalone / umbrella route + 0 个 registry-only rows。
+  - 更新扩写 backlog 的 Batch G、QA snapshot 和推荐执行顺序，明确后续 foreign-bank 工作应转为 source refresh / precision work，而不是机械补齐列表。
+  - 在 `trust-companies-japan-index` 中加入 A / B / C 扩写优先级图，避免把 32 个 registry-only rows 无差别生成页面。
+  - 同步 root `INDEX.md`、`JapanFG/INDEX.md`、`README.md`、`index.html` 到 838 checked entries / JapanFG 421 entries。
+- 数字记录：新增 wiki 正文页面 6 个。外国银行支店登记簿已达到 57 / 57 rows 拥有 standalone 或 umbrella route。信托公司登记簿仍保持 6 个 group-route / 32 个 registry-only rows，但新增优先级图。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=838，entries_with_issues=0。`git diff --check` 通过。
+- 后续事项：source URL drift refresh、priority-A 信托公司的 source-backed standalone 化、既有 JapanFG entity 的 report-source / KPI precision。remote HEAD / GitHub Release / Pages verification 在 push 后执行。
 
 ### 17:36 JST: Long human-readable homepage introduction / 公開ホームページ長文紹介拡張 / 公开首页长篇简介扩展
 
@@ -3024,6 +3334,30 @@
 - 後続事項:
   - コミット後に `origin/main` にプッシュし、GitHub CLI を使用してタイトルが日本語のみの `v2026.05.20-9` リリースを作成・発行。
 
+#### English Record
+
+- Background: To keep metadata and internal links consistent across more than 530 wiki Markdown files, this pass ran a repository-wide health check and batch-fixed invalid frontmatter and broken wikilinks. It also added two missing framework pages and refreshed the relevant indexes.
+- Scope: 27 content files under `JapanFG`, `fintech/INDEX.md`, root `INDEX.md`, `JapanFG/sompo.md`, and the two new wiki files `fintech/protocol-renewal-trigger-as-event-anchor.md` and `security/fork-and-rebrand-5-layer-audit-framework.md`.
+- Main files:
+  - `INDEX.md` (root index)
+  - `fintech/INDEX.md` (fintech index)
+  - `JapanFG/sompo.md` (link fix)
+  - `fintech/protocol-renewal-trigger-as-event-anchor.md` (new)
+  - `security/fork-and-rebrand-5-layer-audit-framework.md` (new)
+  - 27 files under `JapanFG/` (frontmatter fixes)
+- Timeline:
+  - 17:47: Identified 27 frontmatter schema violations and broken wikilinks from the global scan report.
+  - 17:52: Created and ran `fix_frontmatter.py` to insert missing `last_tended` values and normalize invalid `confidence` / `status` values.
+  - 17:54: Created `protocol-renewal-trigger-as-event-anchor.md` and `fork-and-rebrand-5-layer-audit-framework.md` using the repository template.
+  - 17:55: Fixed the broken `[[JapanFG]]` link in `JapanFG/sompo.md` to `[[JapanFG/INDEX|JapanFG]]`.
+  - 17:56: Updated `fintech/INDEX.md` and root `INDEX.md` counts and links for the new pages.
+  - 17:57: Re-ran `vault_health_check.py` and confirmed that non-control wiki files had zero schema errors and zero broken wikilinks.
+  - 17:58: Updated this `CHANGELOG.md` and drafted `releases/v2026.05.20-9.md` in Japanese, English, and Chinese.
+- Validation result:
+  - The rescan confirmed that schema conflicts and broken internal wikilinks were cleared for all non-control documents in the 534-file wiki set.
+- Follow-up:
+  - After commit, push to `origin/main` and publish the Japanese-title-only `v2026.05.20-9` release with GitHub CLI.
+
 #### 中文记录
 
 - 背景：为确保530多个Wiki Markdown文件的元数据完整性与内部链接有效性，我们对整个知识库进行了全局健康检查，一揽子修复了所有不符合规范的 YAML 前置元数据（frontmatter）以及损坏的维基链接（broken wikilinks）。同时，根据缺失关联创建了两个全新的核心框架 Wiki 页面，并同步更新了相关索引文件。
@@ -3067,6 +3401,23 @@
 - 後続事項:
   - `origin/main` へのコミット・プッシュを実行し、GitHub CLI でタイトルが日本語のみの `v2026.05.20-8` リリースを作成。
 
+#### English Record
+
+- Background: The status cards at the bottom of the GitHub Pages portal (`index.html`) still used the older bilingual / Chinese-maintenance wording. This pass synchronized all Japanese, English, and Chinese panels with the new trilingual maintenance rule and JP-EN-ZH ordering.
+- Scope: GitHub Pages portal (`index.html`), `CHANGELOG.md`, release notes, and GitHub Release.
+- Main files:
+  - `index.html`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-8.md`
+- Timeline:
+  - 16:50: Extracted the status cards in the Japanese panel (`#sec-jp`), English panel (`#sec-en`), and Chinese panel (`#sec-zh`) and rewrote language-priority / multilingual-maintenance wording for the three-language system.
+  - 16:51: Added the detailed change record to this `CHANGELOG.md`.
+  - 16:52: Prepared the release notes file `releases/v2026.05.20-8.md`.
+- Validation result:
+  - Checked `git diff` and `git status` to confirm the change did not introduce personal information, local paths, or invalid whitespace.
+- Follow-up:
+  - Commit and push to `origin/main`, then create the Japanese-title-only `v2026.05.20-8` GitHub Release with GitHub CLI.
+
 #### 中文记录
 
 - 背景：因 GitHub Pages 门户页面 (`index.html`) 底部的状态卡片仍残留之前“双语维持・中文维持”的描述，与本次实行的“日文、英文、中文”三语同步维护规则（JP-EN-ZH）不一致。因此，我们修改并同步了全部语言面板（日、英、中）中的相关卡片文字表述。
@@ -3104,6 +3455,25 @@
   - `git diff` および `git status` で変更内容に個人情報やローカルパス、不正な空白が含まれていないことを確認。
 - 後続事項:
   - `origin/main` へのコミット・プッシュを実行し、GitHub CLI でタイトルが日本語のみの `v2026.05.20-7` リリースを作成。
+
+#### English Record
+
+- Background: The GitHub README had Japanese and Chinese content but no English section. This pass added the English translation to `README.md` and formally applied the multilingual maintenance rule: Japanese, English, then Chinese (JP-EN-ZH), aligned with the portal page.
+- Scope: README (`README.md`), agent instructions (`AGENTS.md`), `CHANGELOG.md`, release notes, and GitHub Release.
+- Main files:
+  - `README.md`
+  - `AGENTS.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-7.md`
+- Timeline:
+  - 16:35: Updated README operation rules and GitHub Release language ordering in the Japanese section, explicitly requiring Japanese, English, and Chinese maintenance in order.
+  - 16:37: Updated `AGENTS.md` so future agents must maintain README, CHANGELOG, and release bodies in Japanese, English, and Chinese.
+  - 16:39: Added this change history entry to `CHANGELOG.md`.
+  - 16:40: Prepared the release notes file `releases/v2026.05.20-7.md`.
+- Validation result:
+  - Checked `git diff` and `git status` to confirm the change did not introduce personal information, local paths, or invalid whitespace.
+- Follow-up:
+  - Commit and push to `origin/main`, then create the Japanese-title-only `v2026.05.20-7` GitHub Release with GitHub CLI.
 
 #### 中文记录
 
@@ -3146,6 +3516,27 @@
   - タブの切り替え、`localStorage` による言語選択状態の保存、およびブラウザ検索連動ロジックが正常に動作することを確認。
 - 残タスク:
   - 変更内容を `origin/main` にプッシュ後、GitHub CLI を使用して `v2026.05.20-6` のリリースを作成し、リモート HEAD の同期を確認する。
+
+#### English Record
+
+- Background: The user requested the GitHub Pages portal (`index.html`) to separate Japanese and Chinese content instead of mixing them, and to present the new version in Japanese, English, and Chinese order.
+- Scope: GitHub Pages portal (`index.html`), `CHANGELOG.md`, release notes, and GitHub Release.
+- Main files:
+  - `index.html`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-6.md`
+- Timeline:
+  - 11:50: Started redesigning the portal structure with separated Japanese, English, and Chinese sections and a modern segmented tab control in that order.
+  - 11:51: Used native `hidden="until-found"` for inactive language panels so browser search can reveal hidden matches and trigger the `beforematch` language-switching logic.
+  - 11:52: Added `<noscript>` graceful degradation so all three language panels render vertically in Japanese, English, and Chinese order when JavaScript is disabled.
+  - 11:53: Added English translations for the hero, status, main entrances, domain map, and public-surface policy sections.
+  - 11:54: Introduced the Outfit heading font, Inter body font, and card hover details for a more polished visual surface.
+  - 11:55: Created this `CHANGELOG.md` entry and `releases/v2026.05.20-6.md`.
+- Validation result:
+  - `git diff --check` confirmed no trailing whitespace errors.
+  - Tab switching, `localStorage` language persistence, and browser-search integration worked as expected.
+- Follow-up:
+  - After pushing to `origin/main`, create the Japanese-title-only `v2026.05.20-6` GitHub Release and verify remote HEAD synchronization.
 
 #### 中文记录
 
@@ -3197,6 +3588,34 @@
 - 既知の注意点:
   - GitHub Pages の HTTPS enforce は、custom domain の証明書発行が完了するまで UI 上で unavailable になる。
   - Pages の主コンテンツは現時点では静的 homepage と Markdown entry links であり、Markdown 全文を Pages 用 HTML に変換する専用ビルドはまだ未導入。
+
+#### English Record
+
+- Background: The user instructed that GitHub Pages should be started first using the already configured Cloudflare domain `finwiki.zksc.io`.
+- Scope: GitHub Pages settings, Cloudflare CNAME linkage, repository root, README, CHANGELOG, release notes, and GitHub Release.
+- Main files:
+  - `CNAME`
+  - `index.html`
+  - `README.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-5.md`
+- Timeline:
+  - 10:44: Confirmed that Cloudflare resolved `finwiki.zksc.io` as a CNAME to `jasonhnd.github.io`.
+  - 10:45: Opened GitHub repository Pages settings and set source to `Deploy from a branch`, branch to `main`, and folder to `/ (root)`.
+  - 10:46: Saved `finwiki.zksc.io` as the GitHub Pages custom domain and confirmed a successful DNS check.
+  - 10:47: Confirmed that the Pages build `pages-build-deployment` started and that the custom-domain operation auto-created `CNAME` on remote `main`.
+  - 10:48: Confirmed the Pages build / deploy succeeded and that the GitHub API reported `status: built`, `cname: finwiki.zksc.io`, and `source: main /`.
+  - 10:48: Confirmed that both `http://finwiki.zksc.io` and `https://finwiki.zksc.io` returned 404, then identified the cause as the missing root `index.html` / `index.md`.
+  - 10:49: Added `index.html` with a Pages public entrance, README / INDEX / CHANGELOG links, and Japanese-first public-surface rules with Chinese alongside.
+  - 10:49: Added GitHub Pages domain, DNS, source, custom-domain, and HTTPS notes to README.
+- Validation plan:
+  - Run `git diff --check` for whitespace errors.
+  - Commit and push `index.html`, README, CHANGELOG, and release notes.
+  - Recheck GitHub Pages build and confirm `finwiki.zksc.io` returns 200.
+  - Create GitHub Release `v2026.05.20-5` with a Japanese-only title.
+- Known notes:
+  - GitHub Pages HTTPS enforcement remains unavailable in the UI until custom-domain certificate issuance completes.
+  - The Pages surface is currently a static homepage plus Markdown entry links; a dedicated Markdown-to-Pages HTML build has not yet been introduced.
 
 #### 中文记录
 
@@ -3252,6 +3671,30 @@
   - GitHub API では旧 SHA が dangling commit として一時的に直接参照できるため、完全な GitHub 側 purge には GitHub Support に cached views / dangling commits の purge を依頼する必要がある。
   - 既存 fork や第三者 clone がある場合、GitHub 側だけでは削除できないため、fork / clone 側の削除または再作成が必要。
 
+#### English Record
+
+- Background: The user additionally instructed that personal information must be permanently removed from the public GitHub repository as well.
+- Scope: Git commit history, commit author / committer metadata, `main` branch, existing release tags, GitHub Releases, and README release-operation rules.
+- Main files:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `releases/v2026.05.20-4.md`
+- Execution steps:
+  - Used `git filter-branch` to remove non-public pages and residual text from the entire history.
+  - Generalized all commit authors / committers to `FinWiki Maintainer <noreply@finwiki.invalid>`.
+  - Updated `main` and existing release tags to rewritten commits.
+  - Removed local `refs/original/*`, reflogs, and unreachable objects, then ran local garbage collection.
+  - Force-pushed `main` and `v2026.05.20`, `v2026.05.20-2`, `v2026.05.20-3` to GitHub.
+- Validation result:
+  - Confirmed via `git log --all --format` that commit metadata was generalized.
+  - Confirmed via `git rev-list --all | xargs git grep` that the local full history had no remaining privacy-scan target terms.
+  - Confirmed `git rev-list --all -- <path>` returned empty for deleted target paths.
+  - Confirmed GitHub remote refs pointed only to rewritten `main` and tags.
+  - Confirmed privacy scans in both fresh mirror and shallow clones had no matches in public refs.
+- Remaining tasks:
+  - Old SHA objects may remain temporarily accessible as dangling commits through the GitHub API; full GitHub-side purge requires a GitHub Support request for cached views / dangling commits.
+  - Existing forks or third-party clones cannot be removed from the main GitHub repository alone and require separate cleanup or recreation.
+
 #### 中文记录
 
 - 背景：用户追加要求 GitHub 上的公开 repository 也必须永久删除个人信息。
@@ -3301,6 +3744,30 @@
   - `git status --short --branch` で今回の削除・更新・新規 release notes を確認。
   - broader privacy keyword scan の残存命中は、公開情報運用ルール本文、公開会社・公開規制用語、または「非公開情報は引用していない」という confidence 注記に限定されることを確認。
 - 残タスク: Git history や既存 GitHub release body には過去 snapshot が残る可能性があるため、完全な履歴消去が必要な場合は別途 history rewrite / release body 更新の範囲確認が必要。
+
+#### English Record
+
+- Background: The user instructed that all content should be reviewed, personal information removed, and all remaining content limited to internet-public information.
+- Scope: Public wiki body content, root entry points, Obsidian setup documentation, schema, release notes, agent operation rules, and historical wording in `CHANGELOG.md`.
+- Main files / directories:
+  - Updated: `README.md`, `INDEX.md`, `SCHEMA.md`, `OBSIDIAN-SETUP.md`, `AGENTS.md`, `CHANGELOG.md`, `finance/INDEX.md`, `systems/INDEX.md`, `releases/v2026.05.20.md`, `releases/v2026.05.20-3.md`
+- Timeline:
+  - 09:15: Used `rg` to scan for local paths, email addresses, GitHub account handles, user quotes, internal research, private lending, personal FIRE, customer / counterparty references, and non-public cases.
+  - 09:15: Confirmed `.DS_Store` and `.ruff_cache/` were covered by `.gitignore` and were not primary public-surface risks.
+  - 09:15: Marked pages with personal-income examples, asset examples, user quotes, internal-case sources, local Obsidian paths, or non-public business cases as unsuitable for publication.
+  - 09:16: Removed methodology / writing / strategy / lifestyle / internal-case pages at file level when they could not be made public.
+  - 09:16: Mechanically removed wikilinks to deleted pages and cleared private shadow links from remaining Related sections and body text.
+  - 09:17: Rebuilt `INDEX.md` as the public version and updated the current surface to 503 knowledge entries / 20 domains.
+  - 09:17: Added explicit public-information-only, no-personal-information, and no-local-path rules to `README.md`, `SCHEMA.md`, `OBSIDIAN-SETUP.md`, and `AGENTS.md`.
+  - 09:18: Generalized local paths, personal GitHub account handles, and auth-scope wording in historical `CHANGELOG.md` records.
+  - 09:18: Removed account handles and non-public methodology wording from `releases/v2026.05.20.md`, and created `releases/v2026.05.20-3.md`.
+- Validation result:
+  - Privacy pattern scans covered email, home-directory paths, personal account handles, local sync paths, private finance examples, personal FIRE examples, and internal-source wording, and no real data unsuitable for the public surface remained.
+  - Broken-link scan found no wikilinks to deleted directories or deleted files.
+  - `git diff --check` had no whitespace errors.
+  - `git status --short --branch` confirmed the intended deletes, updates, and new release notes.
+  - Broader privacy keyword matches were limited to public-information operating rules, public company / regulatory terms, or confidence notes saying non-public information was not cited.
+- Remaining task: Git history and existing GitHub release bodies may still preserve older snapshots; if full history erasure is required, the history rewrite / release body update scope needs separate confirmation.
 
 #### 中文记录
 
@@ -3353,6 +3820,32 @@
   - 新規 release `v2026.05.20-2` を title `v2026.05.20-2 Release運用ルール更新` で作成。
   - `gh release list` と `gh release view` で title が日本語のみであることを確認。
 - 残タスク: wiki 本文側の大量未コミット変更・削除は、別作業として範囲確認が必要。
+
+#### English Record
+
+- Background: The user explicitly required GitHub Release titles to remove Chinese and use Japanese only, and also required detailed `README.md` / `CHANGELOG.md` / Releases updates for every future git push.
+- Scope: release title rules, release body rules, required pre/post-push update flow, existing release `v2026.05.20`, and new release `v2026.05.20-2`.
+- Main files:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+  - `releases/v2026.05.20.md`
+  - `releases/v2026.05.20-2.md`
+- Timeline:
+  - 09:16: Checked `git status --short --branch` and confirmed many uncommitted wiki-body modifications and deletions.
+  - 09:16: Limited this work to release / README / CHANGELOG / AGENTS operation documents and decided not to touch the uncommitted body-content changes.
+  - 09:16: Used `gh release view v2026.05.20` to confirm the existing release title was `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开`.
+  - 09:16: Updated README GitHub Release rules to state that release titles use Japanese only and bodies put Japanese before Chinese.
+  - 09:16: Added rules to `README.md` and `AGENTS.md` requiring detailed README / CHANGELOG / release notes / GitHub Release updates for every push to `origin/main`.
+  - 09:16: Removed the Chinese title from `releases/v2026.05.20.md` and updated release-operation wording in the initial release notes.
+  - 09:16: Created `releases/v2026.05.20-2.md` as the release notes for this push, with Japanese first and Chinese second.
+- Validation plan:
+  - Run `git diff --cached --check` on the documents staged for this work.
+  - Commit / push only the target documents and leave uncommitted body-content changes unstaged.
+  - Rename existing release `v2026.05.20` to `v2026.05.20 FinWiki 初回公開`.
+  - Create new release `v2026.05.20-2` with title `v2026.05.20-2 Release運用ルール更新`.
+  - Use `gh release list` and `gh release view` to confirm release titles are Japanese only.
+- Remaining task: The large uncommitted wiki-body modifications and deletions need separate scope confirmation.
 
 #### 中文记录
 
@@ -3414,6 +3907,38 @@
   - remote の `refs/tags/v2026.05.20` が release 準備コミット `749506c` を指していることを確認。
 - 残タスク: 今後の重要 snapshot でも、release notes と changelog の両方を更新し、GitHub Releases ページが空洞化しないようにする。
 
+#### English Record
+
+- Background: The user showed that the GitHub Releases area displayed `No releases published / Create a new release` and instructed that release content should also be very explicit with Japanese first.
+- Scope: GitHub Releases operation, README release policy, local agent rules, and initial release notes.
+- Main files:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+  - `releases/v2026.05.20.md`
+- Timeline:
+  - 09:10: Checked `gh --version` and `gh auth status` to confirm GitHub CLI availability.
+  - 09:10: Ran `gh release list --repo <repository> --limit 10` and confirmed that there were no existing releases.
+  - 09:10: Added a GitHub Releases section to `README.md`, clarifying that FinWiki releases are knowledge-base snapshots rather than software distributions.
+  - 09:10: Added release language order, tag format, title, body, record source, and initial release reference to README.
+  - 09:10: Updated `AGENTS.md` so GitHub Release title/body rules also put Japanese first and Chinese second, with scope, major changes, validation results, known notes, and next work.
+  - 09:10: Created `releases/v2026.05.20.md` as detailed Japanese-first / Chinese-second release notes for the initial release.
+  - 09:10: Added this entry to `CHANGELOG.md`, recording the no-release state check, document updates, release-note creation, and validation plan.
+- Validation plan:
+  - Confirm the README release section exists in both Japanese and Chinese areas.
+  - Confirm `releases/v2026.05.20.md` puts Japanese before Chinese.
+  - Run `git diff --cached --check` for whitespace issues in the new documents.
+  - Push to `origin/main` after commit.
+  - Create the initial release with `gh release create v2026.05.20 --title ... --notes-file releases/v2026.05.20.md`.
+  - Verify the published state with `gh release view v2026.05.20 --repo <repository>` and `gh release list`.
+- Validation result:
+  - 09:13: Published `v2026.05.20` as a GitHub Release.
+  - Release URL: origin repository/releases/tag/v2026.05.20
+  - Confirmed with `gh release list` that `v2026.05.20 FinWiki 初回公開 / FinWiki 初始公开` appeared as `Latest`.
+  - Confirmed with `gh release view` that the release was published as a normal release, not draft or prerelease.
+  - Confirmed remote `refs/tags/v2026.05.20` pointed to release-preparation commit `749506c`.
+- Remaining task: Future important snapshots should update both release notes and changelog so the GitHub Releases page does not become empty again.
+
 #### 中文记录
 
 - 背景：用户指出 GitHub Releases 区域显示 `No releases published / Create a new release`，并要求 release 也必须写得很清楚，日文放在前面。
@@ -3470,6 +3995,28 @@
   - コミット後に `origin/main` へ push し、リモート HEAD を確認。
 - 残タスク: 今後 README に新しい領域や運用方針を追加する場合も、日本語先・中国語後の順序を維持する。
 
+#### English Record
+
+- Background: The user explicitly requested that `README.md` put Japanese first, that emoji could be used generously, and that the existing README was too thin and needed more detail.
+- Scope: Repository entry documentation, local agent operation rules, and future README update policy.
+- Main files:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+- Timeline:
+  - 09:06: Checked the existing `README.md` and confirmed it placed Chinese first and only had short sections for overview, content map, maintenance rules, and sync flow.
+  - 09:06: Checked the existing `CHANGELOG.md` and determined that this README policy and content expansion required a detailed record.
+  - 09:06: Expanded `README.md` substantially and rearranged it with Japanese first and Chinese second.
+  - 09:06: Added an emoji-supported entry, content map, usage guide, entry structure, confidence tags, operation rules, update checklist, and recommended sync flow to README.
+  - 09:06: Updated `AGENTS.md` with the rule that README must put Japanese before Chinese and may use more emoji.
+  - 09:06: Added this entry to `CHANGELOG.md` with the user request, target files, execution details, and validation plan.
+- Validation plan:
+  - Confirm `README.md` starts with the Japanese section.
+  - Review the staged diff for `README.md`, `CHANGELOG.md`, and `AGENTS.md`.
+  - Run `git diff --cached --check` to confirm the new documents have no trailing whitespace.
+  - Push to `origin/main` after commit and confirm remote HEAD.
+- Remaining task: Future README additions for domains or maintenance rules should keep Japanese first and Chinese second.
+
 #### 中文记录
 
 - 背景：用户明确要求 `README.md` 里面日文放在前面，可以大量使用 emoji，并指出当前 README 内容不够详细，需要加强。
@@ -3494,27 +4041,6 @@
 
 ### 09:03 JST: 双语 README / CHANGELOG 维护规则固化
 
-#### 中文记录
-
-- 背景：用户明确要求本 Git 仓库的 `README.md` 与 `CHANGELOG.md` 永远同时维护中文和日文，且 `CHANGELOG.md` 必须有详细时间线和工作记录。
-- 影响范围：仓库根目录文档与后续维护流程。
-- 主要文件：
-  - `README.md`
-  - `CHANGELOG.md`
-  - `AGENTS.md`
-- 时间线：
-  - 09:03: 检查仓库根目录，确认原 `README.md` 只有 `# finwiki`，尚无 `CHANGELOG.md` 与项目级 `AGENTS.md`。
-  - 09:03: 读取近期 git 历史，确认上一轮同步提交为 `c710bd4 docs: sync FinWiki knowledge base`。
-  - 09:03: 统计当前 tracked 文件数为 579，确认本次规则固化是在已完成初始同步之后进行。
-  - 09:03: 重写 `README.md`，加入中文和日文的仓库说明、内容地图、维护规则和同步流程。
-  - 09:03: 新增 `CHANGELOG.md`，建立中文和日文并行记录格式，并补记初始同步工作。
-  - 09:03: 新增 `AGENTS.md`，把双语 README / CHANGELOG 与详细时间线要求固化为后续 agent 必须遵守的本地规则。
-- 验证计划：
-  - 检查 git diff，确认只改动根目录维护文档。
-  - 提交并推送到 `origin/main`。
-  - 推送后确认远端 `main` 指向最新提交。
-- 后续要求：未来所有内容同步、批量新增、目录调整、删除或规则变更，都要同步更新 `README.md` 与 `CHANGELOG.md` 的中文和日文内容。
-
 #### 日本語記録
 
 - 背景: ユーザーから、この Git リポジトリでは `README.md` と `CHANGELOG.md` を常に中国語・日本語の両方で維持し、特に `CHANGELOG.md` には詳細なタイムラインと作業記録を残すよう明示された。
@@ -3536,34 +4062,49 @@
   - プッシュ後、リモート `main` が最新コミットを指していることを確認。
 - 今後の要件: 今後のコンテンツ同期、大量追加、ディレクトリ再編、削除、運用ルール変更では、必ず `README.md` と `CHANGELOG.md` の中国語・日本語内容を同時に更新する。
 
-### 08:58 JST: 初始 FinWiki 知识库同步到 GitHub
+#### English Record
+
+- Background: The user explicitly required this Git repository to maintain both `README.md` and `CHANGELOG.md` in Chinese and Japanese at all times, and specifically required `CHANGELOG.md` to preserve detailed timelines and work records.
+- Scope: Root-level operation documents and future maintenance workflow.
+- Main files:
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
+- Timeline:
+  - 09:03: Checked the repository root and confirmed the existing `README.md` only contained `# finwiki`, with no `CHANGELOG.md` or project-level `AGENTS.md`.
+  - 09:03: Reviewed recent git history and confirmed the previous sync commit was `c710bd4 docs: sync FinWiki knowledge base`.
+  - 09:03: Counted 579 tracked files and positioned this rule-hardening work after the initial sync.
+  - 09:03: Rewrote `README.md` with Chinese and Japanese repository descriptions, content map, maintenance rules, and sync flow.
+  - 09:03: Created `CHANGELOG.md`, defined the parallel Chinese / Japanese record format, and backfilled the initial sync work.
+  - 09:03: Created `AGENTS.md` to lock README / CHANGELOG bilingual maintenance and detailed timeline requirements as local rules for future agents.
+- Validation plan:
+  - Review git diff and confirm the change is limited to root operation documents.
+  - Commit and push to `origin/main`.
+  - After push, confirm remote `main` points to the latest commit.
+- Follow-up requirement: Future content syncs, batch additions, directory reorganizations, deletions, or operation-rule changes must update both Chinese and Japanese content in `README.md` and `CHANGELOG.md`.
 
 #### 中文记录
 
-- 背景：需要把本地 `local FinWiki working directory` 的全部知识库内容同步到 GitHub 仓库 `origin repository`。
-- 远端仓库：[origin repository](origin repository)
-- 提交：`c710bd4 docs: sync FinWiki knowledge base`
-- 影响范围：全仓库初始同步。
+- 背景：用户明确要求本 Git 仓库的 `README.md` 与 `CHANGELOG.md` 永远同时维护中文和日文，且 `CHANGELOG.md` 必须有详细时间线和工作记录。
+- 影响范围：仓库根目录文档与后续维护流程。
+- 主要文件：
+  - `README.md`
+  - `CHANGELOG.md`
+  - `AGENTS.md`
 - 时间线：
-  - 08:56: 检查本地目录，确认当时还不是 git 仓库。
-  - 08:56: 检查远端 `main`，确认远端已有初始提交 `ca4b9a8 Initial commit`。
-  - 08:56: 临时克隆远端，确认远端只有 `README.md` 和 `LICENSE` 两个文件。
-  - 08:58: 在本地目录初始化 git 仓库，设置 `origin` 为 `origin remote URL`。
-  - 08:58: 拉取并对齐 `origin/main`，保留远端原有 `README.md` 与 `LICENSE`。
-  - 08:58: 新增 `.gitignore`，排除 `.DS_Store`、`.ruff_cache/`、`__pycache__/`、Python bytecode。
-  - 08:58: 暂存本地 wiki 内容，形成 577 个新增文件。
-  - 08:58: 执行严格密钥特征扫描，未发现 OpenAI key、AWS key、GitHub PAT、Slack token 或私钥块。
-  - 08:58: 执行大文件检查，未发现超过 10MB 的文件。
-  - 08:58: 尝试 `git diff --cached --check`，发现大量既有 Markdown 尾随空格。为避免把初始同步变成大规模格式改写，保留正文原貌。
-  - 08:58: 提交 `c710bd4 docs: sync FinWiki knowledge base`，共 577 files changed、61602 insertions。
-  - 08:59: 推送 `main` 到 GitHub，并设置本地 `main` 跟踪 `origin/main`。
-  - 09:00: 验证远端 `refs/heads/main` 指向 `c710bd4f59a9f1c185f80cf35a73bbd64c04114c`。
-- 验证结果：
-  - 本地分支状态为 `main...origin/main`。
-  - 远端 HEAD 与本地 HEAD 一致。
-  - tracked 文件数为 579。
-  - 本地没有未提交变更。
-- 备注：初始同步阶段没有创建详细 `CHANGELOG.md`，本文件在 09:03 的维护规则固化中补建并补记该工作。
+  - 09:03: 检查仓库根目录，确认原 `README.md` 只有 `# finwiki`，尚无 `CHANGELOG.md` 与项目级 `AGENTS.md`。
+  - 09:03: 读取近期 git 历史，确认上一轮同步提交为 `c710bd4 docs: sync FinWiki knowledge base`。
+  - 09:03: 统计当前 tracked 文件数为 579，确认本次规则固化是在已完成初始同步之后进行。
+  - 09:03: 重写 `README.md`，加入中文和日文的仓库说明、内容地图、维护规则和同步流程。
+  - 09:03: 新增 `CHANGELOG.md`，建立中文和日文并行记录格式，并补记初始同步工作。
+  - 09:03: 新增 `AGENTS.md`，把双语 README / CHANGELOG 与详细时间线要求固化为后续 agent 必须遵守的本地规则。
+- 验证计划：
+  - 检查 git diff，确认只改动根目录维护文档。
+  - 提交并推送到 `origin/main`。
+  - 推送后确认远端 `main` 指向最新提交。
+- 后续要求：未来所有内容同步、批量新增、目录调整、删除或规则变更，都要同步更新 `README.md` 与 `CHANGELOG.md` 的中文和日文内容。
+
+### 08:58 JST: 初始 FinWiki 知识库同步到 GitHub
 
 #### 日本語記録
 
@@ -3591,3 +4132,57 @@
   - tracked ファイル数は 579。
   - ローカルに未コミット変更はなし。
 - 備考: 初回同期時点では詳細な `CHANGELOG.md` は未作成だったため、09:03 の運用ルール固定作業で本ファイルを作成し、この初回同期記録を追記した。
+
+#### English Record
+
+- Background: The complete local FinWiki knowledge base in `local FinWiki working directory` needed to be synchronized to the GitHub repository `origin repository`.
+- Remote repository: [origin repository](origin repository)
+- Commit: `c710bd4 docs: sync FinWiki knowledge base`
+- Scope: Initial synchronization of the whole repository.
+- Timeline:
+  - 08:56: Checked the local directory and confirmed it was not yet a git repository.
+  - 08:56: Checked remote `main` and confirmed the initial commit `ca4b9a8 Initial commit` existed.
+  - 08:56: Cloned the remote temporarily and confirmed it only contained `README.md` and `LICENSE`.
+  - 08:58: Initialized a git repository in the local directory and set `origin` to `origin remote URL`.
+  - 08:58: Fetched and aligned with `origin/main`, preserving the remote `README.md` and `LICENSE`.
+  - 08:58: Added `.gitignore` for `.DS_Store`, `.ruff_cache/`, `__pycache__/`, and Python bytecode.
+  - 08:58: Staged the local wiki content, resulting in 577 new files.
+  - 08:58: Ran a strict secret-pattern scan and found no OpenAI keys, AWS keys, GitHub PATs, Slack tokens, or private-key blocks.
+  - 08:58: Ran a large-file check and found no files over 10MB.
+  - 08:58: Tried `git diff --cached --check` and found many pre-existing Markdown trailing spaces. To avoid turning the initial sync into a large formatting rewrite, preserved the original body text.
+  - 08:58: Committed as `c710bd4 docs: sync FinWiki knowledge base`, with 577 files changed and 61602 insertions.
+  - 08:59: Pushed `main` to GitHub and set local `main` to track `origin/main`.
+  - 09:00: Verified remote `refs/heads/main` pointed to `c710bd4f59a9f1c185f80cf35a73bbd64c04114c`.
+- Validation result:
+  - Local branch state was `main...origin/main`.
+  - Remote HEAD matched local HEAD.
+  - Tracked file count was 579.
+  - There were no uncommitted local changes.
+- Note: No detailed `CHANGELOG.md` existed during the initial sync. This file was created during the 09:03 maintenance-rule hardening work and backfilled with the initial sync record.
+
+#### 中文记录
+
+- 背景：需要把本地 `local FinWiki working directory` 的全部知识库内容同步到 GitHub 仓库 `origin repository`。
+- 远端仓库：[origin repository](origin repository)
+- 提交：`c710bd4 docs: sync FinWiki knowledge base`
+- 影响范围：全仓库初始同步。
+- 时间线：
+  - 08:56: 检查本地目录，确认当时还不是 git 仓库。
+  - 08:56: 检查远端 `main`，确认远端已有初始提交 `ca4b9a8 Initial commit`。
+  - 08:56: 临时克隆远端，确认远端只有 `README.md` 和 `LICENSE` 两个文件。
+  - 08:58: 在本地目录初始化 git 仓库，设置 `origin` 为 `origin remote URL`。
+  - 08:58: 拉取并对齐 `origin/main`，保留远端原有 `README.md` 与 `LICENSE`。
+  - 08:58: 新增 `.gitignore`，排除 `.DS_Store`、`.ruff_cache/`、`__pycache__/`、Python bytecode。
+  - 08:58: 暂存本地 wiki 内容，形成 577 个新增文件。
+  - 08:58: 执行严格密钥特征扫描，未发现 OpenAI key、AWS key、GitHub PAT、Slack token 或私钥块。
+  - 08:58: 执行大文件检查，未发现超过 10MB 的文件。
+  - 08:58: 尝试 `git diff --cached --check`，发现大量既有 Markdown 尾随空格。为避免把初始同步变成大规模格式改写，保留正文原貌。
+  - 08:58: 提交 `c710bd4 docs: sync FinWiki knowledge base`，共 577 files changed、61602 insertions。
+  - 08:59: 推送 `main` 到 GitHub，并设置本地 `main` 跟踪 `origin/main`。
+  - 09:00: 验证远端 `refs/heads/main` 指向 `c710bd4f59a9f1c185f80cf35a73bbd64c04114c`。
+- 验证结果：
+  - 本地分支状态为 `main...origin/main`。
+  - 远端 HEAD 与本地 HEAD 一致。
+  - tracked 文件数为 579。
+  - 本地没有未提交变更。
+- 备注：初始同步阶段没有创建详细 `CHANGELOG.md`，本文件在 09:03 的维护规则固化中补建并补记该工作。

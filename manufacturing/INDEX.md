@@ -5,13 +5,14 @@ aliases:
   - "日本製造業 index"
 domain: "manufacturing"
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-22
+last_tended: 2026-05-22
 review_by: 2026-11-16
 confidence: certain
 tags: [manufacturing, index]
 status: active
 sources:
+  - "Domain index maintained from public FinWiki entries and source-backed entry frontmatter."
 ---
 
 # manufacturing — Japanese manufacturing company index
