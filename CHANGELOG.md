@@ -20,6 +20,47 @@
 
 ## 2026-05-22
 
+### 17:36 JST: Long human-readable homepage introduction / 公開ホームページ長文紹介拡張 / 公开首页长篇简介扩展
+
+#### 日本語記録
+
+- 背景: user から「FinWiki は人間が読む長い紹介であるべきで、少なくとも 3-5 倍の説明量が必要」と指摘があったため、公開ホームページを短い案内から長文の初回読者向け紹介へ拡張した。
+- 影響範囲: root `index.html`, `README.md`, `CHANGELOG.md`, and release notes `releases/v2026.05.22-4.md`。
+- 実施内容:
+  - `index.html` の日本語、英語、中国語それぞれに `FinWiki とは / What FinWiki Is / FinWiki 是什么` の長文紹介セクションを追加。
+  - 長文紹介では、FinWiki の目的、扱う領域、公開資料ベースの方針、内部リンクの読み方、想定読者を説明。
+  - README の Pages 入口説明も、`index.html` が長い人間向け紹介文と現在の内容地図を兼ねることが分かる表現へ更新。
+  - UI は既存の静的 HTML と三言語タブ構造を維持し、本文はカード化せず読み物として配置。
+- 数値記録: release notes 追加前の本文変更は 2 files / 56 added lines / 4 removed lines / 510 added words / 66 removed words / net +444 words / net +5,347 chars。新規 wiki 本文ページは 0 件。homepage の長文紹介部分は日本語 963 chars、英語 342 words / 2,424 chars、中国語 804 chars。
+- 検証結果: language scan は pass。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=832, entries_with_issues=0）。`git diff --check` は pass。Playwright preview で desktop / mobile の表示を確認済み。remote HEAD / GitHub Release / Pages verification は push 後に実行する。
+- 後続事項: 今後の homepage 更新では、単なる領域一覧だけでなく、人間が初回閲覧で FinWiki の目的と読み方を理解できる説明量を維持する。
+
+#### English Record
+
+- Background: The user requested the FinWiki homepage to read as a long human-facing introduction, with at least three to five times more explanatory content.
+- Scope: root `index.html`, `README.md`, `CHANGELOG.md`, and release notes `releases/v2026.05.22-4.md`.
+- Changes:
+  - Added long introductory sections to the Japanese, English, and Chinese homepage views.
+  - Explained what FinWiki is, what it covers, why it is organized around public sources, how readers should follow internal links, and who the wiki is for.
+  - Updated README entrance wording to clarify that `index.html` is both a long human-readable introduction and the current content map.
+  - Kept the existing static HTML and trilingual tab structure, placing the new introduction as readable prose rather than card-heavy UI.
+- Counts: before adding release notes, the content change affected 2 files with 56 added lines, 4 removed lines, 510 added words, 66 removed words, net +444 words, and net +5,347 characters. No new wiki article pages were added. The new homepage introduction adds 963 Japanese characters, 342 English words / 2,424 characters, and 804 Chinese characters.
+- Validation result: language scan passed. `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=832 and entries_with_issues=0. `git diff --check` passed. Playwright preview checked desktop and mobile display. remote HEAD / GitHub Release / Pages verification runs after push.
+- Follow-up: future homepage updates should preserve enough explanatory prose for first-time human readers to understand the purpose and reading path of FinWiki.
+
+#### 中文记录
+
+- 背景：用户指出 FinWiki 首页应该是给人类看的长篇简介，内容量至少要达到原来的 3 到 5 倍，因此本轮把首页从短导览扩展为初次阅读者也能看懂的长篇介绍。
+- 影响范围：根目录 `index.html`、`README.md`、`CHANGELOG.md`、发布说明 `releases/v2026.05.22-4.md`。
+- 执行内容：
+  - 在首页日文、英文、中文三个语言视图中分别新增长篇介绍区块。
+  - 长篇介绍说明 FinWiki 是什么、覆盖哪些领域、为什么以公开资料为基础、应该如何沿着内部链接阅读、适合哪些读者使用。
+  - 更新 README 的公开入口说明，明确 `index.html` 同时是人类可读的长篇简介和当前内容地图。
+  - 保持既有静态 HTML 和三语标签页结构，不把长篇介绍做成堆叠卡片，而是作为正文说明放置。
+- 数字记录：新增发布说明前，本轮正文改动为 2 个文件 / 新增 56 行 / 删除 4 行 / 新增 510 words / 删除 66 words / 净增加 444 words / 净增加 5,347 chars。新增 wiki 正文页面 0 个。首页长篇介绍部分为日文 963 chars、英文 342 words / 2,424 chars、中文 804 chars。
+- 验证结果：语言扫描通过；`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=832, entries_with_issues=0）；`git diff --check` 通过；Playwright preview 已检查桌面和手机显示；remote HEAD / GitHub Release / Pages verification 在 push 后执行。
+- 后续事项：以后更新首页时，不能只列领域清单，也要保留足够的说明文字，让第一次打开页面的人能理解 FinWiki 的目的和阅读方式。
+
 ### 17:25 JST: Homepage and README language normalization / ホームページと README の言語表現修正 / 首页和 README 语言修正
 
 #### 日本語記録
