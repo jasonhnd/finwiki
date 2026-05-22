@@ -12,7 +12,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | 入口 | 用途 |
 | --- | --- |
-| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages の公開入口。`index.html` は wiki 全体の現在の内容地図として更新します。 |
+| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages の公開入口。`index.html` は、人間が最初に読むための長い紹介文と wiki 全体の現在の内容地図として更新します。 |
 | [INDEX.md](INDEX.md) | 全体索引。テーマ別にエントリーを探すためのメイン入口。 |
 | [SCHEMA.md](SCHEMA.md) | wiki エントリーの構造、frontmatter、管理ルール。 |
 | [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 本文内 `[[wikilink]]` の密度と、経路・同格・制度背景リンクの監査レポート。 |
@@ -110,7 +110,7 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Entrance | Purpose |
 | --- | --- |
-| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages public entrance. `index.html` is maintained as the current content map for the whole wiki. |
+| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages public entrance. `index.html` is maintained as a human-readable long introduction and current content map for the whole wiki. |
 | [INDEX.md](INDEX.md) | Global Index. The main entrance to find entries by theme. |
 | [SCHEMA.md](SCHEMA.md) | Schema for wiki entries, frontmatter guidelines, and maintenance conventions. |
 | [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | Audit report for body `[[wikilink]]` density plus route / peer / system links. |
@@ -193,7 +193,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 入口 | 用途 |
 | --- | --- |
-| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages 公开入口。`index.html` 作为整个 wiki 的当前内容地图同步维护。 |
+| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages 公开入口。`index.html` 作为给人类初次阅读的长篇简介和整个 wiki 的当前内容地图同步维护。 |
 | [INDEX.md](INDEX.md) | 全库索引。按主题查找条目的主入口。 |
 | [SCHEMA.md](SCHEMA.md) | wiki 条目的结构、frontmatter 与管理规则。 |
 | [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 正文 `[[wikilink]]` 密度，以及路径、同类项、制度背景链接的审计报告。 |
