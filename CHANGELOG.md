@@ -31,6 +31,53 @@
 
 ## 2026-05-23
 
+### 21:48 JST: Homepage readability design pass / ホームページ可読性デザイン改善 / 首页可读性设计优化
+
+#### 日本語記録
+
+- 背景: user から public homepage の文字量が密集して見えるため、より美しく読みやすくするにはどうすべきか相談があった。
+- 影響範囲: root `index.html`, `README.md`, `releases/v2026.05.23-3.md`, and this `CHANGELOG.md`。
+- 実施内容:
+  - `FinWiki とは` / `What FinWiki Is` / `FinWiki 是什么` の長い introduction paragraphs を短い lede + two concept cards に分解。
+  - `どのように読むか` / `How to Read It` / `应该怎么读` と対象読者説明を collapsed details に変更し、初期表示の文字密度を下げた。
+  - `主要領域` / `Main Domains` / `核心领域` の 9-item list を compact accordion-style domain cards に変更し、初期表示は domain name 중심、詳細は展開時に読める構造にした。
+  - CSS に `concept-grid`, `concept-card`, `read-more`, domain `details` styles を追加し、desktop では 3-column domain grid、mobile では single column にした。
+  - README の homepage row を、metric cards / short concept cards / expandable domain cards を持つ現在の内容地図として更新。
+  - `releases/v2026.05.23-3.md` を作成し、本 push 用 release notes として公開範囲、主要変更、検証結果、既知の注意点、次の作業を記録。
+- 検証結果: local preview で desktop は concept grid 2 columns / domain grid 3 columns、390px mobile は concept / metric / domain grids 1 column、3 language tabs とも horizontal overflow なしを確認。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=881, entries_with_issues=0）。`git diff --check` は pass。
+- 数値記録: Markdown files 909、topical domains 20、non-space UTF-8 characters 3,631,366、word-like tokens 577,676、link-audited entries 881、unresolved link issues 0。
+- 後続事項: push 後に GitHub Release と GitHub Pages live site の反映を確認する。
+
+#### English Record
+
+- Background: The user said the public homepage felt too text-dense and asked how to make the page look better.
+- Scope: root `index.html`, `README.md`, `releases/v2026.05.23-3.md`, and this `CHANGELOG.md`.
+- Changes:
+  - Broke the long introduction paragraphs in `FinWiki とは` / `What FinWiki Is` / `FinWiki 是什么` into a short lede plus two concept cards.
+  - Converted the reading guidance and audience explanation into collapsed details blocks to reduce initial text density.
+  - Converted the nine main-domain list items into compact accordion-style domain cards, with domain names visible first and details available on expansion.
+  - Added `concept-grid`, `concept-card`, `read-more`, and domain `details` styles; desktop uses a three-column domain grid and mobile uses one column.
+  - Updated the README homepage row to describe the page as a current content map with metric cards, short concept cards, and expandable domain cards.
+  - Created `releases/v2026.05.23-3.md` as the release notes for this push, covering scope, major changes, validation, known notes, and next work.
+- Validation result: local preview confirmed a two-column concept grid and three-column domain grid on desktop, one-column concept / metric / domain grids on 390px mobile, and no horizontal overflow across all three language tabs. `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=881 and entries_with_issues=0. `git diff --check` passed.
+- Counts: 909 Markdown files, 20 topical domains, 3,631,366 non-space UTF-8 characters, 577,676 word-like tokens, 881 link-audited entries, and 0 unresolved link issues.
+- Follow-up: after push, verify the GitHub Release and GitHub Pages live site.
+
+#### 中文记录
+
+- 背景：用户认为 public homepage 文字太密集，询问如何让页面看起来更漂亮、更易读。
+- 影响范围：根目录 `index.html`、`README.md`、`releases/v2026.05.23-3.md` 和本 `CHANGELOG.md`。
+- 执行内容：
+  - 将 `FinWiki とは` / `What FinWiki Is` / `FinWiki 是什么` 中较长的 introduction paragraphs 拆成短 lede + 两张 concept cards。
+  - 将阅读方式和适合读者说明改为 collapsed details，降低初始显示的文字密度。
+  - 将 `主要領域` / `Main Domains` / `核心领域` 的 9 项长列表改成 compact accordion-style domain cards，默认先显示主题名，展开后阅读细节。
+  - 新增 `concept-grid`、`concept-card`、`read-more`、domain `details` 等样式；desktop 使用三列主题 grid，mobile 使用单列。
+  - README 的 homepage row 同步改为：带 metric cards / short concept cards / expandable domain cards 的当前内容地图。
+  - 创建 `releases/v2026.05.23-3.md` 作为本次 push 的 release notes，记录公开范围、主要变更、验证结果、已知注意事项和下一步。
+- 验证结果：local preview 已确认 desktop 为 concept grid 两列 / domain grid 三列，390px mobile 为 concept / metric / domain grids 单列，三语 tabs 均无横向溢出。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=881，entries_with_issues=0。`git diff --check` 通过。
+- 数字记录：Markdown files 909、topical domains 20、non-space UTF-8 characters 3,631,366、word-like tokens 577,676、link-audited entries 881、unresolved link issues 0。
+- 后续事项：push 后确认 GitHub Release 和 GitHub Pages live site 已反映。
+
 ### 21:00 JST: Homepage quantitative summary / ホームページ数値サマリー追加 / 首页数字数据说明追加
 
 #### 日本語記録

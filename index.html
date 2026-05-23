@@ -6,7 +6,7 @@
     <title>FinWiki</title>
     <meta
       name="description"
-      content="FinWiki is a public trilingual finance wiki with 908 Markdown files, 881 link-audited entries, 20 topical domains, and about 3.62 million non-space characters covering Japanese financial institutions, payments, fintech, capital markets, policy finance, systems, and security."
+      content="FinWiki is a public trilingual finance wiki with 909 Markdown files, 881 link-audited entries, 20 topical domains, and about 3.63 million non-space characters covering Japanese financial institutions, payments, fintech, capital markets, policy finance, systems, and security."
     >
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230b7a75'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-family='Arial,sans-serif' font-size='34' font-weight='700' fill='white'%3EF%3C/text%3E%3C/svg%3E">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -93,13 +93,13 @@
       }
 
       main {
-        padding: 32px 0 56px;
+        padding: 40px 0 64px;
       }
 
       .hero {
         display: grid;
-        gap: 18px;
-        padding-bottom: 24px;
+        gap: 20px;
+        padding: 10px 0 28px;
       }
 
       .eyebrow {
@@ -120,10 +120,11 @@
       }
 
       .lead {
-        max-width: 850px;
+        max-width: 800px;
         margin: 0;
         color: var(--muted);
         font-size: 1.14rem;
+        line-height: 1.75;
       }
 
       .actions {
@@ -278,7 +279,7 @@
         display: flex;
         align-items: center;
         gap: 10px;
-        margin: 36px 0 16px;
+        margin: 44px 0 18px;
         font-size: 1.35rem;
         font-weight: 700;
         border-bottom: 2px solid var(--line);
@@ -287,9 +288,9 @@
 
       .intro-copy {
         display: grid;
-        gap: 14px;
-        max-width: 960px;
-        margin: 8px 0 36px;
+        gap: 18px;
+        max-width: 1040px;
+        margin: 8px 0 42px;
       }
 
       .intro-copy h3 {
@@ -302,6 +303,45 @@
         margin: 0;
         color: var(--muted);
         font-size: 1rem;
+      }
+
+      .intro-lede {
+        max-width: 860px;
+        font-size: 1.08rem !important;
+        line-height: 1.85;
+      }
+
+      .concept-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+        margin: 2px 0 4px;
+      }
+
+      .concept-card {
+        padding: 22px;
+        background: #ffffff;
+      }
+
+      .concept-card h3 {
+        margin-top: 0;
+      }
+
+      .read-more {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #ffffff;
+        padding: 0;
+      }
+
+      .read-more summary {
+        cursor: pointer;
+        padding: 16px 18px;
+        font-weight: 700;
+      }
+
+      .read-more p {
+        padding: 0 18px 18px;
       }
 
       .metric-grid {
@@ -337,7 +377,7 @@
 
       .domains {
         display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 12px 18px;
         margin: 0 0 36px 0;
         padding: 0;
@@ -346,11 +386,11 @@
 
       .domains li {
         border-left: 4px solid var(--gold);
-        padding: 10px 14px;
+        padding: 0;
         background: #fffdf6;
         border-radius: 0 8px 8px 0;
         font-weight: 600;
-        font-size: 0.98rem;
+        font-size: 0.96rem;
         border: 1px solid var(--line);
         border-left: 4px solid var(--gold);
         transition: all 0.2s ease;
@@ -359,6 +399,28 @@
       .domains li:hover {
         transform: translateX(2px);
         background: #fffbef;
+      }
+
+      .domains details {
+        height: 100%;
+      }
+
+      .domains summary {
+        cursor: pointer;
+        min-height: 58px;
+        padding: 14px 16px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .domains p {
+        margin: 0;
+        padding: 0 16px 16px;
+        color: var(--muted);
+        font-size: 0.92rem;
+        line-height: 1.65;
+        font-weight: 500;
       }
 
       .jp {
@@ -391,6 +453,7 @@
         .status,
         .grid,
         .metric-grid,
+        .concept-grid,
         .domains {
           grid-template-columns: 1fr;
         }
@@ -477,14 +540,22 @@
 
           <h2 class="section-title">📖 FinWiki とは</h2>
           <section class="intro-copy" aria-label="FinWiki の紹介">
-            <p>FinWiki は、金融を「会社名の一覧」や「ニュースの切り抜き」だけで扱うのではなく、制度、登録簿、業態、資本市場、決済インフラ、公開企業の事業ケースをつなげて読むための公開知識ベースです。日本の金融機関を中心にしながら、銀行、信託、証券、保険、決済、暗号資産、ステーブルコイン、政策金融、短期金融市場、上場会社の支配権移動までを、同じ地図の上で見られるように整理しています。</p>
-            <p>各エントリーは、ひとつの会社、制度、登録簿、業務ルート、または市場インフラを説明する単位です。単独で読めるようにしつつ、本文内リンクで関連する免許、同業他社、監督官庁、決済経路、資本市場の手続きへ進める構造にしています。たとえば銀行のページから BaaS、銀行 API、決済代行、資金移動、信託銀行のカストディ、政策金融へ進み、そこからさらに証券・保険・暗号資産の隣接領域へ移動できます。</p>
-            <p>この wiki が重視しているのは、公開資料をもとにした整理です。金融庁、日銀、取引所、業界団体、企業開示、登録簿、法令、公開市場情報など、人が再確認できる公開情報を軸にして、制度上の位置づけ、登録上の分類、事業上の役割、関連する市場インフラを見分けられるようにしています。断片的な会社紹介ではなく、「その会社や制度が金融システムのどこにあるのか」を読むための入口です。</p>
+            <p class="intro-lede">FinWiki は、金融を「会社名の一覧」や「ニュースの切り抜き」だけで扱うのではなく、制度、登録簿、業態、資本市場、決済インフラ、公開企業の事業ケースをつなげて読むための公開知識ベースです。</p>
+            <section class="concept-grid" aria-label="FinWiki の編集方針">
+              <article class="card concept-card jp">
+                <h3>つなげて読む</h3>
+                <p>銀行、信託、証券、保険、決済、暗号資産、ステーブルコイン、政策金融、短期金融市場、上場会社の支配権移動を、同じ地図の上で見られるように整理しています。</p>
+              </article>
+              <article class="card concept-card jp">
+                <h3>公開資料で確かめる</h3>
+                <p>金融庁、日銀、取引所、業界団体、企業開示、登録簿、法令、公開市場情報など、人が再確認できる公開情報を軸にしています。</p>
+              </article>
+            </section>
             <h3>数字で見る FinWiki</h3>
             <section class="metric-grid" aria-label="FinWiki の数値サマリー">
               <article class="card metric-card jp">
                 <span>Markdown files</span>
-                <strong>908</strong>
+                <strong>909</strong>
                 <p>repository 内の `.md` files。release notes、control docs、templates を含み、`.git` は除外しています。</p>
               </article>
               <article class="card metric-card jp">
@@ -494,8 +565,8 @@
               </article>
               <article class="card metric-card jp">
                 <span>Text volume</span>
-                <strong>約362.3万字</strong>
-                <p>Markdown 全体の空白除外 UTF-8 文字数。英語 / CJK の近似 token 数は約 57.6 万です。</p>
+                <strong>約363.1万字</strong>
+                <p>Markdown 全体の空白除外 UTF-8 文字数。英語 / CJK の近似 token 数は約 57.8 万です。</p>
               </article>
               <article class="card metric-card jp">
                 <span>Audited entries</span>
@@ -504,10 +575,14 @@
               </article>
             </section>
             <p class="metric-note">集計基準: 2026-05-23 JST 時点の current repository snapshot。公開サイトに反映するには `origin/main` への push と Pages 配信後確認が必要です。</p>
-            <h3>どのように読むか</h3>
-            <p>初めて読む場合は、まず INDEX.md から関心領域を選ぶのが最も早い方法です。会社を探す場合は日本金融機関や取引所・VASP の索引へ、制度を調べる場合は金融ライセンス、銀行・政策金融、証券・資本市場、決済・フィンテックの領域へ進みます。各ページでは、本文中のリンクをたどることで、同業比較、制度背景、登録簿、関連する市場インフラを横断できます。</p>
-            <h3>誰のための wiki か</h3>
-            <p>FinWiki は、金融業界を調べる人、事業開発や投資調査のために業界構造を把握したい人、決済・ステーブルコイン・暗号資産と既存金融の接続点を理解したい人、公開資料から会社や制度の位置づけを確認したい人を想定しています。専門家だけでなく、金融機関名や制度名を初めて見た読者でも、索引とリンクをたどって全体像をつかめるように作っています。</p>
+            <details class="read-more">
+              <summary>どのように読むか</summary>
+              <p>初めて読む場合は、まず INDEX.md から関心領域を選ぶのが最も早い方法です。会社を探す場合は日本金融機関や取引所・VASP の索引へ、制度を調べる場合は金融ライセンス、銀行・政策金融、証券・資本市場、決済・フィンテックの領域へ進みます。各ページでは、本文中のリンクをたどることで、同業比較、制度背景、登録簿、関連する市場インフラを横断できます。</p>
+            </details>
+            <details class="read-more">
+              <summary>誰のための wiki か</summary>
+              <p>FinWiki は、金融業界を調べる人、事業開発や投資調査のために業界構造を把握したい人、決済・ステーブルコイン・暗号資産と既存金融の接続点を理解したい人、公開資料から会社や制度の位置づけを確認したい人を想定しています。専門家だけでなく、金融機関名や制度名を初めて見た読者でも、索引とリンクをたどって全体像をつかめるように作っています。</p>
+            </details>
           </section>
 
           <h2 class="section-title">🚪 主な入口</h2>
@@ -528,15 +603,15 @@
 
           <h2 class="section-title">🗺️ 主要領域</h2>
           <ul class="domains">
-            <li>🏦 日本金融機関: メガバンク、地方銀行、外資金融機関、57 行すべてに単独ページまたは包括ページを持つ外国銀行支店、38 行すべてに単独ページまたは既存 group route を持つ信託会社、旅行・賃貸住宅・外資系を含む専門保険会社、証券会社、カード会社、決済代行事業者、消費者金融、自動車金融、政策金融機関。</li>
-            <li>🧾 金融ライセンス: 銀行免許と BaaS の境界、資金移動・前払式支払手段・電子決済手段の登録、金融商品取引業、保険業免許とソルベンシー、外国銀行支店と銀行代理業の制度ルート。</li>
-            <li>💳 決済・フィンテック: ステーブルコイン、CBDC、EPI、MiCA、GENIUS、シンガポール金融管理局（MAS）と香港金融管理局（HKMA）、銀行 API、BNPL、資金移動、カード登録簿、口座間決済。</li>
-            <li>🪙 取引所・VASP: 日本・海外の暗号資産交換業者、集中型取引所（CEX）、分散型取引所（DEX）、暗号資産サービス事業者（VASP）規制、日本暗号資産取引業協会（JVCEA）と金融庁（FSA）、カストディ、IEO、事案記録。</li>
-            <li>🏛️ 銀行・政策金融: BaaS の運営モデル、ネット銀行、信託銀行のカストディ、地方銀行の API 連携、JA バンク、JF マリンバンク、信用金庫、信用組合、労働金庫、住宅金融支援機構、信用保証、JICA、JBIC、NEXI、JOGMEC。</li>
-            <li>📊 金融・証券・資本市場: M&A、買収ファイナンス、アクティビスト投資家、TOB、MBO とスクイーズアウト、大量保有報告、フェア・ディスクロージャーとインサイダー取引規制、株主提案と株主総会、IPO、セキュリティトークン市場、NISA。</li>
-            <li>📈 市場インフラ: オンライン証券、最良執行、SOR、PTS、PTS 流動性、信用取引と証券金融、空売り、株券貸借、プライム・ブローカレッジ、引受、金融商品取引業者登録簿、短期金融市場、日銀オペ。</li>
-            <li>🛡️ 保険・産業・ポイント: 大手生命保険 4 社、大手損害保険 3 グループ、地震保険、保険代理店・保険仲立人、小売、製造、ポイント負債。</li>
-            <li>⚙️ システム・セキュリティ・エージェント経済: Canton / DAML、CCTP、EigenLayer、Hyperlane、BFT、L1 / L2、x402、AP2、組み込みウォレット、フォレンジック、バイトコード検証、Wayback 保存証跡。</li>
+            <li><details><summary>🏦 日本金融機関</summary><p>メガバンク、地方銀行、外資金融機関、外国銀行支店、信託会社、専門保険会社、証券会社、カード会社、決済代行事業者、消費者金融、自動車金融、政策金融機関。</p></details></li>
+            <li><details><summary>🧾 金融ライセンス</summary><p>銀行免許と BaaS の境界、資金移動・前払式支払手段・電子決済手段の登録、金融商品取引業、保険業免許とソルベンシー、外国銀行支店と銀行代理業の制度ルート。</p></details></li>
+            <li><details><summary>💳 決済・フィンテック</summary><p>ステーブルコイン、CBDC、EPI、MiCA、GENIUS、MAS、HKMA、銀行 API、BNPL、資金移動、カード登録簿、口座間決済。</p></details></li>
+            <li><details><summary>🪙 取引所・VASP</summary><p>日本・海外の暗号資産交換業者、CEX、DEX、VASP 規制、JVCEA / FSA、カストディ、IEO、事案記録。</p></details></li>
+            <li><details><summary>🏛️ 銀行・政策金融</summary><p>BaaS、ネット銀行、信託銀行カストディ、地方銀行 API 連携、JA バンク、JF マリンバンク、協同組織金融、住宅金融支援、信用保証、JICA、JBIC、NEXI、JOGMEC。</p></details></li>
+            <li><details><summary>📊 金融・証券・資本市場</summary><p>M&A、買収ファイナンス、アクティビスト投資家、TOB、MBO、大量保有報告、フェア・ディスクロージャー、インサイダー取引、株主提案、IPO、セキュリティトークン、NISA。</p></details></li>
+            <li><details><summary>📈 市場インフラ</summary><p>オンライン証券、最良執行、SOR、PTS、信用取引、証券金融、空売り、株券貸借、プライム・ブローカレッジ、引受、短期金融市場、日銀オペ。</p></details></li>
+            <li><details><summary>🛡️ 保険・産業・ポイント</summary><p>大手生命保険 4 社、大手損害保険 3 グループ、地震保険、保険代理店・保険仲立人、小売、製造、ポイント負債。</p></details></li>
+            <li><details><summary>⚙️ システム・セキュリティ・エージェント経済</summary><p>Canton / DAML、CCTP、EigenLayer、Hyperlane、BFT、L1 / L2、x402、AP2、組み込みウォレット、フォレンジック、バイトコード検証、Wayback 保存証跡。</p></details></li>
           </ul>
 
           <h2 class="section-title">📚 現在の収録内容</h2>
@@ -596,14 +671,22 @@
 
           <h2 class="section-title">📖 What FinWiki Is</h2>
           <section class="intro-copy" aria-label="FinWiki introduction">
-            <p>FinWiki is a public finance wiki designed to make financial institutions, rules, registries, markets, and infrastructure readable as one connected map. It is not only a company list and not only a news archive. It links Japanese financial groups, banking licenses, payment rails, securities markets, insurance structures, crypto-asset regulation, stablecoin policy, policy finance, and public corporate cases so that readers can see where each institution or rule sits inside the wider financial system.</p>
-            <p>Each entry is written as a small unit of public knowledge: a company, license route, registry, market process, financial product category, or infrastructure layer. The pages are meant to be readable on their own, but their real value is in the internal links. A bank page can point to BaaS, bank APIs, payment agencies, funds transfer, trust-bank custody, policy finance, securities markets, insurance routes, and digital-asset infrastructure. This makes the wiki useful for moving from one entity to the system around it.</p>
-            <p>The wiki is built around public information. It prioritizes official records, regulator pages, central-bank materials, exchange disclosures, corporate filings, industry association materials, laws, registries, and public market information. The goal is to help a reader distinguish legal classification, business role, registration status, market function, and infrastructure dependency without having to reconstruct the whole context from scattered sources.</p>
+            <p class="intro-lede">FinWiki is a public finance wiki designed to make financial institutions, rules, registries, markets, and infrastructure readable as one connected map.</p>
+            <section class="concept-grid" aria-label="FinWiki editorial model">
+              <article class="card concept-card en">
+                <h3>Read the connections</h3>
+                <p>It links Japanese financial groups, banking licenses, payment rails, securities markets, insurance structures, crypto-asset regulation, stablecoin policy, policy finance, and public corporate cases.</p>
+              </article>
+              <article class="card concept-card en">
+                <h3>Check public sources</h3>
+                <p>It prioritizes official records, regulator pages, central-bank materials, exchange disclosures, corporate filings, laws, registries, industry association materials, and public market information.</p>
+              </article>
+            </section>
             <h3>FinWiki by the Numbers</h3>
             <section class="metric-grid" aria-label="FinWiki numeric summary">
               <article class="card metric-card en">
                 <span>Markdown files</span>
-                <strong>908</strong>
+                <strong>909</strong>
                 <p>Repository `.md` files, including release notes, control documents, and templates, excluding `.git`.</p>
               </article>
               <article class="card metric-card en">
@@ -613,8 +696,8 @@
               </article>
               <article class="card metric-card en">
                 <span>Text volume</span>
-                <strong>~3.62M chars</strong>
-                <p>Non-space UTF-8 characters across Markdown. The English / CJK word-like token estimate is about 576.2K.</p>
+                <strong>~3.63M chars</strong>
+                <p>Non-space UTF-8 characters across Markdown. The English / CJK word-like token estimate is about 577.7K.</p>
               </article>
               <article class="card metric-card en">
                 <span>Audited entries</span>
@@ -623,10 +706,14 @@
               </article>
             </section>
             <p class="metric-note">Counting basis: current repository snapshot as of 2026-05-23 JST. Publication requires push to `origin/main` and GitHub Pages verification.</p>
-            <h3>How to Read It</h3>
-            <p>The fastest path is to start from INDEX.md, choose a domain, and then follow body links. If you are looking for a company, start with Japanese financial institutions, exchanges, payments, or securities. If you are researching a rule or market structure, start with financial licenses, banking and policy finance, capital markets, payments, or fintech. The body links connect peers, routes, registries, regulators, market infrastructure, and adjacent industries.</p>
-            <h3>Who It Is For</h3>
-            <p>FinWiki is intended for people researching finance from public sources: analysts, builders, business-development teams, students, writers, investors, and readers who need a structured map before going deeper. It should help both specialists and first-time readers understand how banks, payment companies, exchanges, insurers, securities firms, policy institutions, and digital-asset systems relate to each other.</p>
+            <details class="read-more">
+              <summary>How to Read It</summary>
+              <p>The fastest path is to start from INDEX.md, choose a domain, and then follow body links. If you are looking for a company, start with Japanese financial institutions, exchanges, payments, or securities. If you are researching a rule or market structure, start with financial licenses, banking and policy finance, capital markets, payments, or fintech. The body links connect peers, routes, registries, regulators, market infrastructure, and adjacent industries.</p>
+            </details>
+            <details class="read-more">
+              <summary>Who It Is For</summary>
+              <p>FinWiki is intended for people researching finance from public sources: analysts, builders, business-development teams, students, writers, investors, and readers who need a structured map before going deeper. It should help both specialists and first-time readers understand how banks, payment companies, exchanges, insurers, securities firms, policy institutions, and digital-asset systems relate to each other.</p>
+            </details>
           </section>
 
           <h2 class="section-title">🚪 Primary Entrances</h2>
@@ -647,15 +734,15 @@
 
           <h2 class="section-title">🗺️ Main Domains</h2>
           <ul class="domains">
-            <li>🏦 Japanese financial institutions: mega banks, regional banks, foreign financial institutions, foreign-bank branches with 57 / 57 standalone or umbrella routes, trust companies with 38 / 38 standalone or existing group routes, specialty insurers covering travel, rental housing, foreign-affiliated, pet, outdoor, and telco-linked routes, securities firms, card companies, PSPs, consumer finance, auto finance, and policy finance.</li>
-            <li>🧾 Financial licenses: bank license / BaaS boundary, payment license stack, securities license stack, insurance license / solvency route, and foreign-bank branch / agency routes.</li>
-            <li>💳 Payments & fintech: stablecoins, CBDC, EPI, MiCA, GENIUS, MAS, HKMA, bank APIs, BNPL, prepaid instruments, funds transfer, credit-card registries, and account-to-account payment.</li>
-            <li>🪙 Exchanges & VASP: Japanese and global CEX, DEX, VASP regulation, JVCEA / FSA routes, custody, IEO, incidents, and warning records.</li>
-            <li>🏛️ Banking & policy finance: BaaS operating models, net banks, trust-bank custody, regional bank API partnerships, JA / JF / shinkin / shinkumi / rokin, JHF, credit guarantees, JICA, JBIC, NEXI, and JOGMEC.</li>
-            <li>📊 Finance, securities, and capital markets: M&A, acquisition finance, activism, TOB, MBO / squeeze-out, large-shareholding disclosure, fair disclosure / insider trading, shareholder proposals / AGM, IPO, security-token secondary markets, and NISA.</li>
-            <li>📈 Market infrastructure: online brokerage, best execution / SOR / PTS, PTS liquidity, margin trading / securities finance, short-selling, stock lending, prime brokerage, underwriting, FIEA operator registries, money markets, and BoJ operations.</li>
-            <li>🛡️ Insurance, industries, and loyalty: life big four, non-life big three, earthquake insurance, agency / brokerage, retail, manufacturing, and loyalty liabilities.</li>
-            <li>⚙️ Systems, security, and agent economy: Canton / DAML, CCTP, EigenLayer, Hyperlane, BFT, L1 / L2, x402, AP2, embedded wallets, forensics, bytecode verification, and Wayback evidence.</li>
+            <li><details><summary>🏦 Japanese financial institutions</summary><p>Mega banks, regional banks, foreign financial institutions, foreign-bank branches, trust companies, specialty insurers, securities firms, card companies, PSPs, consumer finance, auto finance, and policy finance.</p></details></li>
+            <li><details><summary>🧾 Financial licenses</summary><p>Bank license / BaaS boundary, payment license stack, securities license stack, insurance license / solvency route, and foreign-bank branch / agency routes.</p></details></li>
+            <li><details><summary>💳 Payments & fintech</summary><p>Stablecoins, CBDC, EPI, MiCA, GENIUS, MAS, HKMA, bank APIs, BNPL, prepaid instruments, funds transfer, credit-card registries, and account-to-account payment.</p></details></li>
+            <li><details><summary>🪙 Exchanges & VASP</summary><p>Japanese and global CEX, DEX, VASP regulation, JVCEA / FSA routes, custody, IEO, incidents, and warning records.</p></details></li>
+            <li><details><summary>🏛️ Banking & policy finance</summary><p>BaaS operating models, net banks, trust-bank custody, regional bank API partnerships, cooperative finance, JHF, credit guarantees, JICA, JBIC, NEXI, and JOGMEC.</p></details></li>
+            <li><details><summary>📊 Finance, securities, and capital markets</summary><p>M&A, acquisition finance, activism, TOB, MBO, large-shareholding disclosure, fair disclosure, insider trading, shareholder proposals, IPO, security tokens, and NISA.</p></details></li>
+            <li><details><summary>📈 Market infrastructure</summary><p>Online brokerage, best execution, SOR, PTS, margin trading, securities finance, short-selling, stock lending, prime brokerage, underwriting, money markets, and BoJ operations.</p></details></li>
+            <li><details><summary>🛡️ Insurance, industries, and loyalty</summary><p>Life big four, non-life big three, earthquake insurance, agency / brokerage, retail, manufacturing, and loyalty liabilities.</p></details></li>
+            <li><details><summary>⚙️ Systems, security, and agent economy</summary><p>Canton / DAML, CCTP, EigenLayer, Hyperlane, BFT, L1 / L2, x402, AP2, embedded wallets, forensics, bytecode verification, and Wayback evidence.</p></details></li>
           </ul>
 
           <h2 class="section-title">📚 Current Coverage</h2>
@@ -715,14 +802,22 @@
 
           <h2 class="section-title">📖 FinWiki 是什么</h2>
           <section class="intro-copy" aria-label="FinWiki 简介">
-            <p>FinWiki 是一个公开金融知识库，目的不是简单列公司名单，也不是做新闻剪贴，而是把金融机构、监管制度、登记簿、市场流程、支付基础设施和公开公司案例放在同一张地图里阅读。它以日本金融机构为中心，同时覆盖银行、信托、证券、保险、支付、加密资产、稳定币、政策金融、短期金融市场、上市公司控制权变化等领域，让读者能够看清一个机构或一项制度在整个金融系统中的位置。</p>
-            <p>每个条目都是一个相对独立的知识单元，可以是一家公司、一类牌照、一条业务路径、一份登记簿、一种市场流程、一个金融产品类别，或者一层基础设施。页面本身可以单独阅读，但更重要的是页面之间的内文链接。比如从一家银行出发，可以继续读到 BaaS、银行 API、支付服务商、资金移转、信托银行托管、政策金融、证券市场、保险制度和数字资产基础设施。</p>
-            <p>FinWiki 的写法以公开资料为基础，优先使用监管机构、央行、交易所、行业协会、公司披露、法律法规、登记簿和公开市场信息。它不追求把每个新闻事件都写进去，而是帮助读者判断：这个机构属于什么监管分类，经营什么业务，登记或牌照状态是什么，和哪些市场基础设施相连，在同类机构中处于什么位置。</p>
+            <p class="intro-lede">FinWiki 是一个公开金融知识库。它不是简单列公司名单，也不是做新闻剪贴，而是把金融机构、监管制度、登记簿、市场流程、支付基础设施和公开公司案例放在同一张地图里阅读。</p>
+            <section class="concept-grid" aria-label="FinWiki 编辑方式">
+              <article class="card concept-card zh">
+                <h3>看连接关系</h3>
+                <p>它以日本金融机构为中心，同时覆盖银行、信托、证券、保险、支付、加密资产、稳定币、政策金融、短期金融市场、上市公司控制权变化等领域。</p>
+              </article>
+              <article class="card concept-card zh">
+                <h3>用公开资料校验</h3>
+                <p>优先使用监管机构、央行、交易所、行业协会、公司披露、法律法规、登记簿和公开市场信息，帮助读者判断机构和制度在金融系统里的位置。</p>
+              </article>
+            </section>
             <h3>用数字看 FinWiki</h3>
             <section class="metric-grid" aria-label="FinWiki 数字摘要">
               <article class="card metric-card zh">
                 <span>Markdown files</span>
-                <strong>908</strong>
+                <strong>909</strong>
                 <p>仓库内 `.md` 文件总数，包含 release notes、控制文档和模板，排除 `.git`。</p>
               </article>
               <article class="card metric-card zh">
@@ -732,8 +827,8 @@
               </article>
               <article class="card metric-card zh">
                 <span>Text volume</span>
-                <strong>约362.3万字</strong>
-                <p>全库 Markdown 空白除外 UTF-8 字符数。英文 / CJK 近似 token 数约 57.6 万。</p>
+                <strong>约363.1万字</strong>
+                <p>全库 Markdown 空白除外 UTF-8 字符数。英文 / CJK 近似 token 数约 57.8 万。</p>
               </article>
               <article class="card metric-card zh">
                 <span>Audited entries</span>
@@ -742,10 +837,14 @@
               </article>
             </section>
             <p class="metric-note">统计口径：2026-05-23 JST 的当前 repository snapshot。要反映到公开站点，需要 push 到 `origin/main` 并等待 GitHub Pages 配信后确认。</p>
-            <h3>应该怎么读</h3>
-            <p>第一次阅读时，建议先从 INDEX.md 进入，按领域选择路径。如果要找公司，可以从日本金融机构、交易所、支付、证券等索引开始；如果要查制度或市场结构，可以从金融牌照、银行与政策金融、资本市场、支付与金融科技等领域进入。正文中的链接会继续连接同类机构、制度路径、登记簿、监管部门、市场基础设施和相邻行业。</p>
-            <h3>适合谁使用</h3>
-            <p>FinWiki 面向需要用公开资料理解金融系统的人：研究员、创业者、业务开发人员、学生、写作者、投资者，以及任何需要先建立行业地图再深入阅读的人。它既服务专业读者，也希望让第一次接触某个金融机构或制度名称的人，能够沿着索引和链接逐步看懂上下文。</p>
+            <details class="read-more">
+              <summary>应该怎么读</summary>
+              <p>第一次阅读时，建议先从 INDEX.md 进入，按领域选择路径。如果要找公司，可以从日本金融机构、交易所、支付、证券等索引开始；如果要查制度或市场结构，可以从金融牌照、银行与政策金融、资本市场、支付与金融科技等领域进入。正文中的链接会继续连接同类机构、制度路径、登记簿、监管部门、市场基础设施和相邻行业。</p>
+            </details>
+            <details class="read-more">
+              <summary>适合谁使用</summary>
+              <p>FinWiki 面向需要用公开资料理解金融系统的人：研究员、创业者、业务开发人员、学生、写作者、投资者，以及任何需要先建立行业地图再深入阅读的人。它既服务专业读者，也希望让第一次接触某个金融机构或制度名称的人，能够沿着索引和链接逐步看懂上下文。</p>
+            </details>
           </section>
 
           <h2 class="section-title">🚪 优先入口</h2>
@@ -766,15 +865,15 @@
 
           <h2 class="section-title">🗺️ 核心领域</h2>
           <ul class="domains">
-            <li>🏦 日本金融机构：大型银行、地方银行、外资金融机构、57 行全部拥有独立页面或总括页面的外国银行支店、38 行全部拥有独立页面或现有 group route 的信托公司、覆盖旅行、租赁住宅、外资系、宠物、户外、通信相关路径的专业保险公司、证券公司、银行卡公司、支付服务商、消费金融、汽车金融、政策金融机构。</li>
-            <li>🧾 金融牌照：银行牌照与 BaaS 边界、资金移转、预付式支付工具、电子支付手段登记、证券牌照、保险牌照与偿付能力、外国银行支店和银行代理制度路径。</li>
-            <li>💳 支付与金融科技：稳定币、CBDC、EPI、MiCA、GENIUS、新加坡金融管理局（MAS）、香港金融管理局（HKMA）、银行 API、先买后付（BNPL）、资金移转、信用卡登记簿、账户直连支付。</li>
-            <li>🪙 交易所与 VASP：日本和海外加密资产交易所、集中式交易所（CEX）、去中心化交易所（DEX）、虚拟资产服务商（VASP）监管、日本加密资产交易业协会（JVCEA）和金融厅（FSA）、托管、IEO、事件记录。</li>
-            <li>🏛️ 银行与政策金融：BaaS 运营模式、网络银行、信托银行托管、地方银行 API 合作、JA 银行、JF 海洋银行、信用金库、信用组合、劳动金库、住宅金融支援机构、信用保证、JICA、JBIC、NEXI、JOGMEC。</li>
-            <li>📊 金融、证券与资本市场：M&A、收购融资、激进投资者、TOB、MBO 与 squeeze-out、大量持股披露、公平披露与内幕交易监管、股东提案与股东大会、IPO、证券型代币市场、NISA。</li>
-            <li>📈 市场基础设施：网络券商、最佳执行、SOR、PTS、PTS 流动性、信用交易与证券金融、卖空、股票借贷、主经纪业务、承销、金融商品交易业者登记簿、短期金融市场、日本央行公开市场操作。</li>
-            <li>🛡️ 保险、产业与积分：四大寿险、三大损保集团、地震保险、保险代理与保险经纪、零售、制造、积分负债。</li>
-            <li>⚙️ 系统、安全与智能体经济：Canton / DAML、CCTP、EigenLayer、Hyperlane、BFT、L1 / L2、x402、AP2、嵌入式钱包、取证、字节码验证、Wayback 保存证据。</li>
+            <li><details><summary>🏦 日本金融机构</summary><p>大型银行、地方银行、外资金融机构、外国银行支店、信托公司、专业保险公司、证券公司、银行卡公司、支付服务商、消费金融、汽车金融、政策金融机构。</p></details></li>
+            <li><details><summary>🧾 金融牌照</summary><p>银行牌照与 BaaS 边界、资金移转、预付式支付工具、电子支付手段登记、证券牌照、保险牌照与偿付能力、外国银行支店和银行代理制度路径。</p></details></li>
+            <li><details><summary>💳 支付与金融科技</summary><p>稳定币、CBDC、EPI、MiCA、GENIUS、MAS、HKMA、银行 API、BNPL、资金移转、信用卡登记簿、账户直连支付。</p></details></li>
+            <li><details><summary>🪙 交易所与 VASP</summary><p>日本和海外加密资产交易所、CEX、DEX、VASP 监管、JVCEA / FSA、托管、IEO、事件记录。</p></details></li>
+            <li><details><summary>🏛️ 银行与政策金融</summary><p>BaaS 运营模式、网络银行、信托银行托管、地方银行 API 合作、协同组织金融、住宅金融支援机构、信用保证、JICA、JBIC、NEXI、JOGMEC。</p></details></li>
+            <li><details><summary>📊 金融、证券与资本市场</summary><p>M&A、收购融资、激进投资者、TOB、MBO、大量持股披露、公平披露、内幕交易、股东提案、IPO、证券型代币、NISA。</p></details></li>
+            <li><details><summary>📈 市场基础设施</summary><p>网络券商、最佳执行、SOR、PTS、信用交易、证券金融、卖空、股票借贷、主经纪业务、承销、短期金融市场、日本央行公开市场操作。</p></details></li>
+            <li><details><summary>🛡️ 保险、产业与积分</summary><p>四大寿险、三大损保集团、地震保险、保险代理与保险经纪、零售、制造、积分负债。</p></details></li>
+            <li><details><summary>⚙️ 系统、安全与智能体经济</summary><p>Canton / DAML、CCTP、EigenLayer、Hyperlane、BFT、L1 / L2、x402、AP2、嵌入式钱包、取证、字节码验证、Wayback 保存证据。</p></details></li>
           </ul>
 
           <h2 class="section-title">📚 当前收录内容</h2>
