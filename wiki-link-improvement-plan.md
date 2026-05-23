@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 57 |
+| Changed or new entries in current worktree | 0 |
 
 ## Wiki Linking Standard
 
@@ -31,63 +31,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/allianz-fire-marine-japan.md` | `??` | 10 | ok |
-| `JapanFG/alterna-trust.md` | `??` | 11 | ok |
-| `JapanFG/american-home-insurance-japan.md` | `??` | 8 | ok |
-| `JapanFG/asahi-trust.md` | `??` | 10 | ok |
-| `JapanFG/capital-insurance.md` | `??` | 6 | ok |
-| `JapanFG/capital-trust.md` | `??` | 6 | ok |
-| `JapanFG/cardif-nonlife.md` | `??` | 9 | ok |
-| `JapanFG/castglobal-trust.md` | `??` | 8 | ok |
-| `JapanFG/chang-hwa-bank-japan.md` | `??` | 8 | ok |
-| `JapanFG/chubb-insurance-japan.md` | `??` | 9 | ok |
-| `JapanFG/daito-mirai-trust.md` | `??` | 8 | ok |
-| `JapanFG/daiwa-living-trust.md` | `??` | 6 | ok |
-| `JapanFG/escrow-agent-japan-trust.md` | `??` | 5 | ok |
-| `JapanFG/fintech-global-trust.md` | `??` | 6 | ok |
-| `JapanFG/first-trust.md` | `??` | 6 | ok |
-| `JapanFG/fpg-trust.md` | `??` | 5 | ok |
-| `JapanFG/fukushi-trust.md` | `??` | 5 | ok |
-| `JapanFG/greif-trust.md` | `??` | 7 | ok |
-| `JapanFG/hogaraka-trust.md` | `??` | 5 | ok |
-| `JapanFG/hs-insurance.md` | `??` | 9 | ok |
-| `JapanFG/hyundai-marine-fire-japan.md` | `??` | 5 | ok |
-| `JapanFG/ji-accident-fire-insurance.md` | `??` | 8 | ok |
-| `JapanFG/jia-trust.md` | `??` | 7 | ok |
-| `JapanFG/jvalue-trust.md` | `??` | 9 | ok |
-| `JapanFG/kainuma-trust-real-estate.md` | `??` | 8 | ok |
-| `JapanFG/kiriu-real-estate-trust.md` | `??` | 7 | ok |
-| `JapanFG/kotaeru-trust.md` | `??` | 6 | ok |
-| `JapanFG/kyodo-trust.md` | `??` | 6 | ok |
-| `JapanFG/lgt-wealth-management-trust.md` | `??` | 8 | ok |
-| `JapanFG/lombard-odier-trust.md` | `??` | 8 | ok |
-| `JapanFG/midori-trust.md` | `??` | 8 | ok |
-| `JapanFG/miyoshi-smile-trust.md` | `??` | 6 | ok |
-| `JapanFG/national-bank-of-pakistan-japan.md` | `??` | 8 | ok |
-| `JapanFG/nichizei-trust.md` | `??` | 6 | ok |
-| `JapanFG/oag-trust.md` | `??` | 7 | ok |
-| `JapanFG/pasona-ip-trust.md` | `??` | 5 | ok |
-| `JapanFG/rescue-insurance.md` | `??` | 8 | ok |
-| `JapanFG/ryugaku-anshin-trust.md` | `??` | 6 | ok |
-| `JapanFG/sakura-insurance.md` | `??` | 7 | ok |
-| `JapanFG/sekisui-house-trust.md` | `??` | 8 | ok |
-| `JapanFG/starts-trust.md` | `??` | 5 | ok |
-| `JapanFG/sumire-regional-trust.md` | `??` | 7 | ok |
-| `JapanFG/taishin-bank-japan.md` | `??` | 10 | ok |
-| `JapanFG/taiwan-business-bank-japan.md` | `??` | 8 | ok |
-| `JapanFG/taiwan-cooperative-bank-japan.md` | `??` | 6 | ok |
-| `JapanFG/ubaf-japan.md` | `??` | 8 | ok |
-| `JapanFG/uk-trust.md` | `??` | 6 | ok |
-| `JapanFG/yamada-escrow-trust.md` | `??` | 5 | ok |
-| `JapanFG/zenkankyo-reiwa-insurance.md` | `??` | 7 | ok |
-| `INDEX.md` | `M` | 26 | ok |
-| `JapanFG/INDEX.md` | `M` | 1130 | ok |
-| `JapanFG/foreign-bank-branches-japan-index.md` | `M` | 81 | ok |
-| `JapanFG/missing-financial-institutions-backlog.md` | `M` | 309 | ok |
-| `JapanFG/trust-companies-japan-index.md` | `M` | 77 | ok |
-| `fintech/INDEX.md` | `M` | 129 | ok |
-| `insurance/INDEX.md` | `M` | 112 | ok |
-| `manufacturing/INDEX.md` | `M` | 4 | ok |
 
 ## Domain Snapshot
 

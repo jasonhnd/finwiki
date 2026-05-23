@@ -31,6 +31,56 @@
 
 ## 2026-05-23
 
+### 21:00 JST: Homepage quantitative summary / ホームページ数値サマリー追加 / 首页数字数据说明追加
+
+#### 日本語記録
+
+- 背景: user から `https://finwiki.zksc.io/` の `FinWiki とは` セクションに、FinWiki の Markdown file count、multi-topic coverage、text volume を数字で説明する block を追加するよう依頼があった。
+- 影響範囲: root `index.html`, `README.md`, `wiki-link-improvement-plan.md`, `releases/v2026.05.23-2.md`, and this `CHANGELOG.md`。
+- 実施内容:
+  - `index.html` の meta description に、908 Markdown files、881 link-audited entries、20 topical domains、約 3.62 million non-space characters を追加。
+  - 日本語 `FinWiki とは`、English `What FinWiki Is`、中文 `FinWiki 是什么` の各 introduction section に、同じ数値 summary card を追加。
+  - `README.md` の日本語・英語・中文 sections にも repository numeric snapshot table を追加。
+  - `releases/v2026.05.23-2.md` を作成し、本 push 用 release notes として公開範囲、主要変更、検証結果、既知の注意点、次の作業を記録。
+  - 数値 card は 908 Markdown files、20 topical domains、約 362.3 万字 / 3.62M non-space characters、881 audited entries / 0 unresolved link issues の 4 指標に整理。
+  - 集計口径として、2026-05-23 JST 時点の current repository snapshot、`.git` excluded、Markdown 空白除外 UTF-8 文字数、publication requires push / Pages verification を明記。
+  - link-audit report を再生成し、前 batch の stale changed/new entries list を current worktree baseline に合わせて 0 に更新。
+- 数値記録: Markdown files 908、topical domains 20、non-space UTF-8 characters 3,623,199、word-like tokens 576,237、link-audited entries 881、unresolved link issues 0。
+- 検証結果: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=881, entries_with_issues=0）。`git diff --check` は pass。`index.html` の metric labels scan で日本語・英語・中文 section すべてに数値 block が存在することを確認。
+- 後続事項: さらに追加するなら、largest domains ranking、last updated timestamp、source-category breakdown、public-source / official-source ratio、link graph density などの data block が候補。
+
+#### English Record
+
+- Background: The user asked to add a numeric explanation to the `FinWiki とは` section on `https://finwiki.zksc.io/`, covering how many Markdown files the wiki has, how many topic areas it spans, and how much text it contains.
+- Scope: root `index.html`, `README.md`, `wiki-link-improvement-plan.md`, `releases/v2026.05.23-2.md`, and this `CHANGELOG.md`.
+- Changes:
+  - Added 908 Markdown files, 881 link-audited entries, 20 topical domains, and about 3.62 million non-space characters to the `index.html` meta description.
+  - Added matching numeric summary cards to the Japanese `FinWiki とは`, English `What FinWiki Is`, and Chinese `FinWiki 是什么` introduction sections.
+  - Added repository numeric snapshot tables to the Japanese, English, and Chinese sections in `README.md`.
+  - Created `releases/v2026.05.23-2.md` as this push's release notes, covering scope, major changes, validation results, known notes, and next work.
+  - Organized the cards around four metrics: 908 Markdown files, 20 topical domains, about 3.623 million non-space characters, and 881 audited entries with 0 unresolved link issues.
+  - Documented the counting basis: current repository snapshot as of 2026-05-23 JST, `.git` excluded, Markdown non-space UTF-8 character count, and publication requiring push / Pages verification.
+  - Regenerated the link-audit report and cleared the previous batch's stale changed/new entries list to the current worktree baseline of 0.
+- Counts: 908 Markdown files, 20 topical domains, 3,623,199 non-space UTF-8 characters, 576,237 word-like tokens, 881 link-audited entries, and 0 unresolved link issues.
+- Validation result: `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=881 and entries_with_issues=0. `git diff --check` passed. The `index.html` metric-label scan confirmed that the Japanese, English, and Chinese sections all contain the numeric block.
+- Follow-up: Useful next data blocks would include largest-domain ranking, last-updated timestamp, source-category breakdown, public-source / official-source ratio, and link-graph density.
+
+#### 中文记录
+
+- 背景：用户要求在 `https://finwiki.zksc.io/` 的 `FinWiki とは` 区块中，增加 FinWiki 一共有多少 Markdown 文件、覆盖多少主题、整体文字量多少的数字说明。
+- 影响范围：根目录 `index.html`、`README.md`、`wiki-link-improvement-plan.md`、`releases/v2026.05.23-2.md` 和本 `CHANGELOG.md`。
+- 执行内容：
+  - 在 `index.html` 的 meta description 中加入 908 个 Markdown files、881 个 link-audited entries、20 个 topical domains、约 3.62 million non-space characters。
+  - 在日文 `FinWiki とは`、英文 `What FinWiki Is`、中文 `FinWiki 是什么` 三个 introduction section 中加入一致的数字 summary cards。
+  - 在 `README.md` 的日文、英文、中文 sections 中也加入 repository numeric snapshot table。
+  - 创建 `releases/v2026.05.23-2.md`，作为本次 push 的 release notes，记录发布范围、主要变更、验证结果、已知注意事项和下一步。
+  - 数字卡片整理为四个指标：908 个 Markdown files、20 个 topical domains、约 362.3 万非空白字符、881 个 audited entries / 0 个未解决链接问题。
+  - 明确统计口径：2026-05-23 JST 当前 repository snapshot、排除 `.git`、按 Markdown 空白除外 UTF-8 字符数统计、公开站点反映仍需要 push / Pages verification。
+  - 重新生成 link-audit report，把上一批遗留的 changed/new entries list 同步为当前 worktree baseline 的 0。
+- 数字记录：Markdown files 908、topical domains 20、non-space UTF-8 characters 3,623,199、word-like tokens 576,237、link-audited entries 881、unresolved link issues 0。
+- 验证结果：`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=881，entries_with_issues=0。`git diff --check` 通过。`index.html` metric labels scan 确认日文、英文、中文区块都存在数字数据说明。
+- 后续事项：如需继续增强首页数据说明，可以追加最大领域排名、最后更新时间、来源类型拆分、public-source / official-source ratio、link graph density 等数据块。
+
 ### 00:51 JST: Specialty / foreign-affiliated non-life D9 expansion / 損害保険 specialty D9 拡張 / 非寿险 specialty D9 扩写
 
 #### 日本語記録
