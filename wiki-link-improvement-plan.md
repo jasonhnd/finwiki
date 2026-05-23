@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 1 |
+| Changed or new entries in current worktree | 0 |
 
 ## Wiki Linking Standard
 
@@ -31,7 +31,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `INDEX.md` | `M` | 26 | ok |
 
 ## Domain Snapshot
 

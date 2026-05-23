@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-23T22:57:45+09:00
+Generated: 2026-05-23T23:11:02+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 910
-Public pages listed: 909
+Markdown files: 911
+Public pages listed: 910
 
 ## Reading Rules
 
@@ -27,7 +27,7 @@ Public pages listed: 909
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-23, 22:31 JST: AI discovery surfaces / AI 発見性サーフェス追加 / AI 可发现入口追加, 21:48 JST: Homepage readability design pass / ホームページ可読性デザイン改善 / 首页可读性设计优化
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-23, 23:06 JST: AI-first corpus statement / AI 向け corpus 方針追記 / AI 优先 corpus 说明追加, 22:31 JST: AI discovery surfaces / AI 発見性サーフェス追加 / AI 可发现入口追加
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/cci-group, https://finwiki.zksc.io/JapanFG/chugoku-bank, https://finwiki.zksc.io/JapanFG/concordia-fg, https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index, https://finwiki.zksc.io/JapanFG/hokkoku-fhd, https://finwiki.zksc.io/JapanFG/jsf-trust-bank, https://finwiki.zksc.io/JapanFG/kiraboshi-fg, https://finwiki.zksc.io/JapanFG/mebuki-fg, https://finwiki.zksc.io/JapanFG/sbi-shinsei-trust-bank
 
 ### FinWiki Index
@@ -8311,6 +8311,15 @@ Public pages listed: 909
 - Type: release_note
 - Summary: FinWiki の homepage は人間向けに読みやすく保ちつつ、AI / crawler が全公開 content を安定して発見・巡回できる machine-readable entry points を追加しました。今後 wiki content、indexes、domain counts、public snapshots を更新するたびに、同じ作業内で AI discovery files も再生成します。
 - Headings: AI 発見性サーフェス追加 2026-05-23, 日本語, 概要, 対象範囲, 主要変更, 数値スナップショット, 検証結果, 既知の注意点
+
+### AI 向け corpus 方針追記 2026-05-23
+- URL: https://finwiki.zksc.io/releases/v2026.05.23-5
+- Source path: releases/v2026.05.23-5.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.23-5.md
+- Domain: releases
+- Type: release_note
+- Summary: FinWiki の homepage lead と README overview に、homepage は人間が入口を理解するためのものだが、wiki 本文 corpus は AI が読み取り、検索し、引用し、接続するための knowledge graph として設計している、という方針を追記しました。
+- Headings: AI 向け corpus 方針追記 2026-05-23, 日本語, 概要, 対象範囲, 主要変更, 数値スナップショット, 検証結果, 既知の注意点
 
 ### 損害保険特化会社 D9 拡張と CHANGELOG 言語順序修正 2026-05-23
 - URL: https://finwiki.zksc.io/releases/v2026.05.23
