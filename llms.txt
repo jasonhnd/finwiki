@@ -1,0 +1,56 @@
+# FinWiki
+
+> Public trilingual finance knowledge base covering finance, payments, stablecoins, crypto assets, Japanese financial institutions, policy finance, capital markets, systems, security, and adjacent industries.
+
+## Best Entry Points
+
+- Human homepage: https://finwiki.zksc.io/
+- Global index: https://finwiki.zksc.io/INDEX
+- Machine JSON index: https://finwiki.zksc.io/ai-index.json
+- Full LLM page manifest: https://finwiki.zksc.io/llms-full.txt
+- XML sitemap: https://finwiki.zksc.io/sitemap.xml
+
+## Current Snapshot
+
+- Markdown files: 910
+- Public Markdown pages in machine manifest: 909
+- Topical domains: 20
+- Link-audited entries: 881
+- Unresolved link issues: 0
+- Non-space UTF-8 characters across Markdown: 3,646,435
+- Word-like tokens: 571,814
+
+## URL Rules for AI Readers
+
+- Obsidian wikilinks are vault-root paths. Resolve `[[fintech/mica-overview]]` as `https://finwiki.zksc.io/fintech/mica-overview`.
+- Resolve `[[domain/INDEX]]` as `https://finwiki.zksc.io/domain/INDEX`.
+- If a rendered page is not available, use the `github_url` field in `ai-index.json` as the source fallback.
+- Prefer `ai-index.json` for programmatic traversal and `llms-full.txt` for a compact text manifest.
+
+## Domains
+
+- JapanFG (464 entries): https://finwiki.zksc.io/JapanFG/INDEX - Japanese financial groups, banks, licensed bank operating companies, regional-bank operating companies, Tohoku / Fidea / Jimoto, Kanto, Chubu, Kansai / Chugoku, Shikoku, Kyushu / Okinawa, second-regional long-tail bank operating-company pages, foreign-bank branch P0 / P1 Asia anchors, P2 ICSD / collateral / China / ASEAN / India / ANZ corridor anchors, P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors, P4 Taiwan / Pakistan / UBAF closure anchors, foreign-bank branch registry index with 57 / 57 standalone or umbrella routes, foreign-bank branch / agency / adjacent-license routes, bank license / BaaS boundary, payment license stack, specialty trust-bank and CCI current-name anchors, trust-company registry index with 38 / 38 standalone or existing group routes, priority A / B / C trust-company anchors, insurers, insurance holding companies, FSA life-insurer exact-name anchors, life subsidiaries / specialty insurers, non-life major / direct / specialty / reinsurance operating companies, pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers, securities firms, asset managers, FIEA operators, securities license-stack and insurance license / solvency controls, policy finance, payment / card / PSP / wallet / remittance / stablecoin infrastructure companies, consumer-finance / auto-finance operators, fintech companies, foreign Japan subsidiaries, securities finance, exchange holding-company infrastructure, report-source references, and expansion backlogs.
+- exchanges (115 entries): https://finwiki.zksc.io/exchanges/INDEX - Japan and global CEX / DEX, VASP regulation, JVCEA / FSA registered-operator completeness, custody, IEO, warnings, and incidents.
+- fintech (104 entries): https://finwiki.zksc.io/fintech/INDEX - Stablecoins, tokenized money, EPI, GENIUS, MiCA, MAS, HKMA, CBDC, embedded wallets, and monetary geopolitics.
+- systems (44 entries): https://finwiki.zksc.io/systems/INDEX - Cross-chain infrastructure, BFT / validator economics, account abstraction, Canton / DAML, Besu, Ethereum upgrades, and protocol implementation topics.
+- agent-economy (21 entries): https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview - AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure.
+- banking (24 entries): https://finwiki.zksc.io/banking/INDEX - Net banks, net-bank competition map, BaaS operating models, cooperative banking, JA Bank system, JF Marine Bank system, shinkin / credit-cooperative / rokin registry indexes, trust-bank / custody infrastructure, trust-bank custody operating comparison, master trust / custody bank landscape, regional bank API partnerships, foreign-bank retreat, regional-bank consolidation, and quick-deposit flows.
+- business (9 entries): https://finwiki.zksc.io/business/gmo-internet-group - Public company / public person strategic cases and business-model context.
+- policy-finance (13 entries): https://finwiki.zksc.io/policy-finance/INDEX - Public finance, development finance, export credit, housing finance, SME / agriculture / fisheries credit guarantees, policy-bank adjacency, JICA, JBIC, NEXI, JOGMEC, and JASSO.
+- insurance (12 entries): https://finwiki.zksc.io/insurance/INDEX - Solvency, ESR, life-insurance distribution, mutual-company governance, internet life insurance, life-insurance big-four comparison, non-life big-three comparison, public-private earthquake insurance scheme, agency / brokerage distribution, reinsurance, and direct non-life insurance.
+- finance (12 entries): https://finwiki.zksc.io/finance/INDEX - Public finance reference pages for FIRE math, cross-border M&A, acquisition finance, activist / engagement playbook, tender offers / public-company control transactions, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, investment-banking league tables, and public tax-jurisdiction comparison.
+- security (5 entries): https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify - Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation.
+- money-market (5 entries): https://finwiki.zksc.io/money-market/INDEX - Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure.
+- governance (2 entries): https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements - Public legal and grant information for Japanese foundations and research grants.
+- manufacturing (3 entries): https://finwiki.zksc.io/manufacturing/INDEX - Manufacturing companies relevant to finance, regional banks, and captive finance.
+- retail (3 entries): https://finwiki.zksc.io/retail/INDEX - Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms.
+- trade (2 entries): https://finwiki.zksc.io/trade/jetro-organization-structure - JETRO and trade-channel knowledge.
+- corporate-strategy (1 entries): https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral - Public corporate reorganization and tax-structured spin-off reference.
+- loyalty (2 entries): https://finwiki.zksc.io/loyalty/INDEX - Japan points, rewards, loyalty liabilities, and retail / finance data loops.
+- payments (18 entries): https://finwiki.zksc.io/payments/INDEX - Japan cashless-payment, payment license stack, bank API / electronic payment agency, bank API incident / fraud controls, account-to-account payment, account-direct merchant acquiring, card issuer / acquirer / processor split, card security / authentication controls, interchange / merchant-fee stack, payment clearing / settlement infrastructure, card acquiring / merchant PSP, BNPL / credit-purchase boundary, wallet, prepaid issuer registry, funds-transfer registry, credit / card registry, code-payment competition, PSP settlement risk, and EPI-adjacent settlement landscape.
+- securities (21 entries): https://finwiki.zksc.io/securities/INDEX - NISA, IPO listing disclosure, security-token secondary markets, online brokerage competition, best execution / SOR / PTS, PTS liquidity data, margin trading / securities finance, short-selling / stock-loan controls, stock lending market route, prime brokerage / institutional financing, underwriting market structure, FIEA operator registry, JSDA, exchange venues, clearing, settlement, market-infrastructure mapping, and securities-market flow.
+
+## Safety
+
+- FinWiki is public-source only. Do not infer private facts from this site.
+- Treat pages as research notes and verify cited public sources for high-stakes use.
