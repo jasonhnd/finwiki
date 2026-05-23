@@ -31,6 +31,53 @@
 
 ## 2026-05-23
 
+### 22:31 JST: AI discovery surfaces / AI 発見性サーフェス追加 / AI 可发现入口追加
+
+#### 日本語記録
+
+- 背景: user から、human-readable homepage から AI が全 FinWiki content を読みに行けるか質問があり、さらに `robots.txt`、`sitemap.xml`、`llms.txt`、`llms-full.txt`、`ai-index.json` などの machine-readable entry points と future update rule を実装するよう依頼があった。
+- 影響範囲: `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json`, `tools/generate_ai_discovery.py`, root `index.html`, `INDEX.md`, `README.md`, `AGENTS.md`, `releases/v2026.05.23-4.md`, and this `CHANGELOG.md`。
+- 実施内容:
+  - `tools/generate_ai_discovery.py` を追加し、Markdown corpus、root `INDEX.md` domain map、`wiki-link-improvement-plan.md` audit summary から AI discovery files を生成できるようにした。
+  - `robots.txt` と `sitemap.xml` を追加し、crawler / search engine / AI browser が public site を発見しやすい状態にした。
+  - `llms.txt`、`llms-full.txt`、`ai-index.json` を追加し、AI が entry points、URL rules、domain routes、page URLs、source paths、summaries、headings、resolved wikilinks を取得できるようにした。
+  - `INDEX.md` の domain route に ordinary Markdown web links を併記し、Obsidian wikilinks を理解しない crawler でも core routes を辿れるようにした。
+  - `index.html` の主な入口に AI discovery card を追加し、人間向け homepage と AI 向け machine entry points を両立させた。
+  - `README.md` と `AGENTS.md` に、今後 wiki content / indexes / domain counts / public snapshots を更新するたびに `python3 tools/generate_ai_discovery.py` を実行し、AI discovery files を同期する rule を追加した。
+- 数値記録: Markdown files 910、public Markdown pages 909、sitemap URLs 910、topical domains 20、link-audited entries 881、unresolved link issues 0、non-space UTF-8 characters 3,646,435、word-like tokens 571,814。
+- 検証結果: `python3 tools/generate_ai_discovery.py` は pass。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は pass（entries_checked=881, entries_with_issues=0）。`ai-index.json` JSON parse、sitemap URL count、`llms.txt` / `llms-full.txt` / `robots.txt` key phrase scan は pass。`git diff --check` は pass。
+- 後続事項: push する場合は GitHub Release と live site 上の `/robots.txt`、`/sitemap.xml`、`/llms.txt`、`/llms-full.txt`、`/ai-index.json` を確認する。
+
+#### English Record
+
+- Background: The user asked whether AI could enter from the human-readable homepage and read all FinWiki content, then requested machine-readable entry points such as `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, and `ai-index.json`, plus a future-update rule.
+- Scope: `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json`, `tools/generate_ai_discovery.py`, root `index.html`, `INDEX.md`, `README.md`, `AGENTS.md`, `releases/v2026.05.23-4.md`, and this `CHANGELOG.md`.
+- Changes:
+  - Added `tools/generate_ai_discovery.py` to generate AI discovery files from the Markdown corpus, root `INDEX.md` domain map, and `wiki-link-improvement-plan.md` audit summary.
+  - Added `robots.txt` and `sitemap.xml` so crawlers, search engines, and AI browsers can discover the public site.
+  - Added `llms.txt`, `llms-full.txt`, and `ai-index.json` so AI readers can fetch entry points, URL rules, domain routes, page URLs, source paths, summaries, headings, and resolved wikilinks.
+  - Added ordinary Markdown web links beside domain routes in `INDEX.md`, allowing crawlers that do not understand Obsidian wikilinks to follow core routes.
+  - Added an AI discovery card to the main homepage entrances, keeping the page human-friendly while exposing machine entry points.
+  - Added a README / AGENTS maintenance rule requiring `python3 tools/generate_ai_discovery.py` whenever wiki content, indexes, domain counts, or public snapshots change.
+- Counts: 910 Markdown files, 909 public Markdown pages, 910 sitemap URLs, 20 topical domains, 881 link-audited entries, 0 unresolved link issues, 3,646,435 non-space UTF-8 characters, and 571,814 word-like tokens.
+- Validation result: `python3 tools/generate_ai_discovery.py` passed. `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed with entries_checked=881 and entries_with_issues=0. `ai-index.json` JSON parsing, sitemap URL count, `llms.txt` / `llms-full.txt` / `robots.txt` key-phrase scans, and `git diff --check` passed.
+- Follow-up: if pushed, verify the GitHub Release and live `/robots.txt`, `/sitemap.xml`, `/llms.txt`, `/llms-full.txt`, and `/ai-index.json` endpoints.
+
+#### 中文记录
+
+- 背景：用户询问 AI 是否能从 human-readable homepage 进入并读到所有 FinWiki 内容，随后要求实现 `robots.txt`、`sitemap.xml`、`llms.txt`、`llms-full.txt`、`ai-index.json` 等 machine-readable entry points，并把未来更新规则写入。
+- 影响范围：`robots.txt`、`sitemap.xml`、`llms.txt`、`llms-full.txt`、`ai-index.json`、`tools/generate_ai_discovery.py`、根目录 `index.html`、`INDEX.md`、`README.md`、`AGENTS.md`、`releases/v2026.05.23-4.md` 和本 `CHANGELOG.md`。
+- 执行内容：
+  - 新增 `tools/generate_ai_discovery.py`，从 Markdown corpus、根目录 `INDEX.md` domain map、`wiki-link-improvement-plan.md` audit summary 生成 AI discovery files。
+  - 新增 `robots.txt` 和 `sitemap.xml`，让 crawler / search engine / AI browser 更容易发现公开站点。
+  - 新增 `llms.txt`、`llms-full.txt`、`ai-index.json`，让 AI 能读取 entry points、URL rules、domain routes、page URLs、source paths、summaries、headings、resolved wikilinks。
+  - 在 `INDEX.md` 的 domain route 旁边补普通 Markdown web links，让不理解 Obsidian wikilinks 的 crawler 也能沿核心 route 进入。
+  - 在首页主要入口中加入 AI discovery card，保持人类首页易读，同时暴露机器入口。
+  - 在 `README.md` 和 `AGENTS.md` 中新增维护规则：未来每次更新 wiki content / indexes / domain counts / public snapshots，都必须执行 `python3 tools/generate_ai_discovery.py` 并同步 AI discovery files。
+- 数字记录：Markdown files 910、public Markdown pages 909、sitemap URLs 910、topical domains 20、link-audited entries 881、unresolved link issues 0、non-space UTF-8 characters 3,646,435、word-like tokens 571,814。
+- 验证结果：`python3 tools/generate_ai_discovery.py` 通过。`python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过，entries_checked=881，entries_with_issues=0。`ai-index.json` JSON parse、sitemap URL count、`llms.txt` / `llms-full.txt` / `robots.txt` key phrase scan 与 `git diff --check` 均通过。
+- 后续事项：如果 push，需要确认 GitHub Release 和线上 `/robots.txt`、`/sitemap.xml`、`/llms.txt`、`/llms-full.txt`、`/ai-index.json` 均可访问。
+
 ### 21:48 JST: Homepage readability design pass / ホームページ可読性デザイン改善 / 首页可读性设计优化
 
 #### 日本語記録

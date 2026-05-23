@@ -6,7 +6,7 @@
     <title>FinWiki</title>
     <meta
       name="description"
-      content="FinWiki is a public trilingual finance wiki with 909 Markdown files, 881 link-audited entries, 20 topical domains, and about 3.63 million non-space characters covering Japanese financial institutions, payments, fintech, capital markets, policy finance, systems, and security."
+      content="FinWiki is a public trilingual finance wiki with 910 Markdown files, 881 link-audited entries, 20 topical domains, and about 3.65 million non-space characters covering Japanese financial institutions, payments, fintech, capital markets, policy finance, systems, and security."
     >
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230b7a75'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-family='Arial,sans-serif' font-size='34' font-weight='700' fill='white'%3EF%3C/text%3E%3C/svg%3E">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -486,6 +486,7 @@
         </div>
         <nav aria-label="Primary">
           <a href="INDEX.md">INDEX</a>
+          <a href="llms.txt">AI</a>
           <a href="README.md">README</a>
           <a href="CHANGELOG.md">CHANGELOG</a>
           <a href="https://github.com/jasonhnd/finwiki">GitHub</a>
@@ -514,6 +515,7 @@
             </p>
             <div class="actions">
               <a class="button primary" href="INDEX.md">🧭 全体索引 (INDEX.md)</a>
+              <a class="button" href="llms.txt">🤖 AI入口 (llms.txt)</a>
               <a class="button" href="README.md">📘 運用ルール (README.md)</a>
               <a class="button" href="CHANGELOG.md">🕒 変更履歴 (CHANGELOG.md)</a>
             </div>
@@ -555,7 +557,7 @@
             <section class="metric-grid" aria-label="FinWiki の数値サマリー">
               <article class="card metric-card jp">
                 <span>Markdown files</span>
-                <strong>909</strong>
+                <strong>910</strong>
                 <p>repository 内の `.md` files。release notes、control docs、templates を含み、`.git` は除外しています。</p>
               </article>
               <article class="card metric-card jp">
@@ -565,8 +567,8 @@
               </article>
               <article class="card metric-card jp">
                 <span>Text volume</span>
-                <strong>約363.1万字</strong>
-                <p>Markdown 全体の空白除外 UTF-8 文字数。英語 / CJK の近似 token 数は約 57.8 万です。</p>
+                <strong>約364.6万字</strong>
+                <p>Markdown 全体の空白除外 UTF-8 文字数。英語 / CJK の近似 token 数は約 57.2 万です。</p>
               </article>
               <article class="card metric-card jp">
                 <span>Audited entries</span>
@@ -594,6 +596,10 @@
             <article class="card jp">
               <h3>📘 README.md</h3>
               <p><a href="README.md">運用ルール</a>、公開面フィルター、リリース方針を確認します。</p>
+            </article>
+            <article class="card jp">
+              <h3>🤖 AI discovery</h3>
+              <p><a href="llms.txt">llms.txt</a>、<a href="llms-full.txt">llms-full.txt</a>、<a href="ai-index.json">ai-index.json</a>、<a href="sitemap.xml">sitemap.xml</a> から機械的に全体を辿れます。</p>
             </article>
             <article class="card jp">
               <h3>🕒 CHANGELOG.md</h3>
@@ -630,7 +636,7 @@
             </article>
             <article class="card jp">
               <h3>🔄 ホームページ同期</h3>
-              <p>wiki 本文、索引、領域数、公開スナップショットを更新するたびに、このページも現在の内容地図として更新します。</p>
+              <p>wiki 本文、索引、領域数、公開スナップショットを更新するたびに、このページと AI discovery files を現在の内容地図として更新します。</p>
             </article>
           </section>
         </section>
@@ -645,6 +651,7 @@
             </p>
             <div class="actions">
               <a class="button primary" href="INDEX.md">🧭 Global Index (INDEX.md)</a>
+              <a class="button" href="llms.txt">🤖 AI Entry (llms.txt)</a>
               <a class="button" href="README.md">📘 Guidebook (README.md)</a>
               <a class="button" href="CHANGELOG.md">🕒 Changelog (CHANGELOG.md)</a>
             </div>
@@ -686,7 +693,7 @@
             <section class="metric-grid" aria-label="FinWiki numeric summary">
               <article class="card metric-card en">
                 <span>Markdown files</span>
-                <strong>909</strong>
+                <strong>910</strong>
                 <p>Repository `.md` files, including release notes, control documents, and templates, excluding `.git`.</p>
               </article>
               <article class="card metric-card en">
@@ -696,8 +703,8 @@
               </article>
               <article class="card metric-card en">
                 <span>Text volume</span>
-                <strong>~3.63M chars</strong>
-                <p>Non-space UTF-8 characters across Markdown. The English / CJK word-like token estimate is about 577.7K.</p>
+                <strong>~3.65M chars</strong>
+                <p>Non-space UTF-8 characters across Markdown. The English / CJK word-like token estimate is about 571.8K.</p>
               </article>
               <article class="card metric-card en">
                 <span>Audited entries</span>
@@ -725,6 +732,10 @@
             <article class="card en">
               <h3>📘 README.md</h3>
               <p>Review <a href="README.md">Operations & Release rules</a> and public-surface safety guidelines.</p>
+            </article>
+            <article class="card en">
+              <h3>🤖 AI discovery</h3>
+              <p>Use <a href="llms.txt">llms.txt</a>, <a href="llms-full.txt">llms-full.txt</a>, <a href="ai-index.json">ai-index.json</a>, and <a href="sitemap.xml">sitemap.xml</a> to traverse the full public site programmatically.</p>
             </article>
             <article class="card en">
               <h3>🕒 CHANGELOG.md</h3>
@@ -761,7 +772,7 @@
             </article>
             <article class="card en">
               <h3>🔄 Homepage Sync</h3>
-              <p>Whenever wiki content, indexes, domain counts, or public snapshots change, this page is updated as the current content map.</p>
+              <p>Whenever wiki content, indexes, domain counts, or public snapshots change, this page and the AI discovery files are updated as the current content map.</p>
             </article>
           </section>
         </section>
@@ -776,6 +787,7 @@
             </p>
             <div class="actions">
               <a class="button primary" href="INDEX.md">🧭 全库索引 (INDEX.md)</a>
+              <a class="button" href="llms.txt">🤖 AI 入口 (llms.txt)</a>
               <a class="button" href="README.md">📘 运维规则 (README.md)</a>
               <a class="button" href="CHANGELOG.md">🕒 变更记录 (CHANGELOG.md)</a>
             </div>
@@ -817,7 +829,7 @@
             <section class="metric-grid" aria-label="FinWiki 数字摘要">
               <article class="card metric-card zh">
                 <span>Markdown files</span>
-                <strong>909</strong>
+                <strong>910</strong>
                 <p>仓库内 `.md` 文件总数，包含 release notes、控制文档和模板，排除 `.git`。</p>
               </article>
               <article class="card metric-card zh">
@@ -827,8 +839,8 @@
               </article>
               <article class="card metric-card zh">
                 <span>Text volume</span>
-                <strong>约363.1万字</strong>
-                <p>全库 Markdown 空白除外 UTF-8 字符数。英文 / CJK 近似 token 数约 57.8 万。</p>
+                <strong>约364.6万字</strong>
+                <p>全库 Markdown 空白除外 UTF-8 字符数。英文 / CJK 近似 token 数约 57.2 万。</p>
               </article>
               <article class="card metric-card zh">
                 <span>Audited entries</span>
@@ -856,6 +868,10 @@
             <article class="card zh">
               <h3>📘 README.md</h3>
               <p>阅读<a href="README.md">运维与发布规则</a>、公开面准则及本地 Agent 开发纪律。</p>
+            </article>
+            <article class="card zh">
+              <h3>🤖 AI discovery</h3>
+              <p>AI 可以通过 <a href="llms.txt">llms.txt</a>、<a href="llms-full.txt">llms-full.txt</a>、<a href="ai-index.json">ai-index.json</a>、<a href="sitemap.xml">sitemap.xml</a> 稳定遍历全站。</p>
             </article>
             <article class="card zh">
               <h3>🕒 CHANGELOG.md</h3>
@@ -892,7 +908,7 @@
             </article>
             <article class="card zh">
               <h3>🔄 首页同步</h3>
-              <p>今后每次更新 wiki 内容、索引、领域数量或公开快照时，本页都同步重写为最新内容地图。</p>
+              <p>今后每次更新 wiki 内容、索引、领域数量或公开快照时，本页和 AI discovery files 都同步重写为最新内容地图。</p>
             </article>
           </section>
         </section>
