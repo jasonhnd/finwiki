@@ -31,6 +31,50 @@
 
 ## 2026-05-23
 
+### 23:06 JST: AI-first corpus statement / AI 向け corpus 方針追記 / AI 优先 corpus 说明追加
+
+#### 日本語記録
+
+- 背景: user から homepage lead の「金融、決済、ステーブルコイン...」の段落後に、この wiki は人間向け本文ではなく AI 向け corpus であることを追記するよう依頼があった。
+- 影響範囲: root `index.html`, `README.md`, `releases/v2026.05.23-5.md`, AI discovery files, and this `CHANGELOG.md`。
+- 実施内容:
+  - Japanese homepage lead に、homepage は人間が入口を理解するためのものだが、wiki 本文 corpus は AI が読み取り、検索し、引用し、接続するための knowledge graph として設計している旨を追加。
+  - English / 中文 homepage lead に同じ方針を同期。
+  - README の日本語・英語・中文 overview にも同じ AI-first corpus positioning を同期。
+  - `releases/v2026.05.23-5.md` を作成し、本 push 用 release notes として公開範囲、主要変更、検証結果、既知の注意点、次の作業を記録。
+  - `python3 tools/generate_ai_discovery.py` を再実行し、AI discovery files を current snapshot に同期。
+- 数値記録: Markdown files 911、public Markdown pages 910、sitemap URLs 911、topical domains 20、link-audited entries 881、unresolved link issues 0、non-space UTF-8 characters 3,653,607、word-like tokens 573,116。
+- 検証結果: `python3 tools/generate_ai_discovery.py` は pass。AI discovery files は current snapshot に同期済み。
+- 後続事項: push 後に GitHub Release と live site の反映を確認する。
+
+#### English Record
+
+- Background: The user asked to append a statement after the homepage lead paragraph beginning with "金融、決済、ステーブルコイン...", making clear that the wiki corpus is for AI rather than as a human-first body text product.
+- Scope: root `index.html`, `README.md`, `releases/v2026.05.23-5.md`, AI discovery files, and this `CHANGELOG.md`.
+- Changes:
+  - Added a Japanese homepage lead statement that the homepage is for humans to understand the entrance, while the wiki corpus is designed as a knowledge graph for AI to read, search, retrieve, cite, and connect.
+  - Synchronized the same positioning in the English and Chinese homepage leads.
+  - Synchronized the same AI-first corpus positioning in the Japanese, English, and Chinese README overview sections.
+  - Created `releases/v2026.05.23-5.md` as the release notes for this push, covering scope, major changes, validation, known notes, and next work.
+  - Re-ran `python3 tools/generate_ai_discovery.py` to refresh AI discovery files against the current snapshot.
+- Counts: 911 Markdown files, 910 public Markdown pages, 911 sitemap URLs, 20 topical domains, 881 link-audited entries, 0 unresolved link issues, 3,653,607 non-space UTF-8 characters, and 573,116 word-like tokens.
+- Validation result: `python3 tools/generate_ai_discovery.py` passed. AI discovery files were synchronized with the current snapshot.
+- Follow-up: after push, verify the GitHub Release and live site.
+
+#### 中文记录
+
+- 背景：用户要求在首页 lead 中「金融、決済、ステーブルコイン...」这段后面追加说明：这个 wiki 正文不是给人类使用的，而是给 AI 使用的。
+- 影响范围：根目录 `index.html`、`README.md`、`releases/v2026.05.23-5.md`、AI discovery files 和本 `CHANGELOG.md`。
+- 执行内容：
+  - 在日文 homepage lead 中追加说明：首页是给人理解入口用的，但 wiki 正文 corpus 是给 AI 读取、检索、引用和连接的 knowledge graph。
+  - 同步更新英文和中文 homepage lead。
+  - 在 README 的日文、英文、中文 overview 中同步加入 AI-first corpus positioning。
+  - 创建 `releases/v2026.05.23-5.md` 作为本次 push 的 release notes，记录公开范围、主要变更、验证结果、已知注意事项和下一步。
+  - 重新执行 `python3 tools/generate_ai_discovery.py`，把 AI discovery files 刷新到 current snapshot。
+- 数字记录：Markdown files 911、public Markdown pages 910、sitemap URLs 911、topical domains 20、link-audited entries 881、unresolved link issues 0、non-space UTF-8 characters 3,653,607、word-like tokens 573,116。
+- 验证结果：`python3 tools/generate_ai_discovery.py` 通过。AI discovery files 已同步到 current snapshot。
+- 后续事项：push 后确认 GitHub Release 和 live site 已反映。
+
 ### 22:31 JST: AI discovery surfaces / AI 発見性サーフェス追加 / AI 可发现入口追加
 
 #### 日本語記録

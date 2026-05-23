@@ -4,6 +4,8 @@
 
 FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う Markdown ナレッジベースです。主なリンク形式は Obsidian の `[[wikilink]]` で、全体入口は [INDEX.md](INDEX.md) です。
 
+Homepage は人間が入口を理解するために整えていますが、wiki 本文 corpus は人間が順番に通読するためではなく、AI が読み取り、検索し、引用し、接続するための knowledge graph として設計しています。
+
 このリポジトリは公開前提の知識ベースです。記載対象は、公開ウェブ情報、公的資料、企業開示、規制当局資料、公開市場情報、またはそれらをもとにした公開可能な整理に限定します。個人情報、ローカル環境情報、非公開会話、顧客・相手方情報、内部案件メモは置きません。
 
 公開サイトは GitHub Pages で配信します: [finwiki.zksc.io](http://finwiki.zksc.io/) 🌐
@@ -12,12 +14,12 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 910 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 911 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 20 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 881 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約364.6万字 | Markdown 全体の空白除外 UTF-8 文字数 3,646,435 |
-| Word-like tokens | 571,814 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約365.4万字 | Markdown 全体の空白除外 UTF-8 文字数 3,653,607 |
+| Word-like tokens | 573,116 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-05-23 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
@@ -122,6 +124,8 @@ gh release create <tag> --target main --title "<日本語タイトル>" --notes-
 
 FinWiki is a public Markdown knowledge base covering finance, payments, stablecoins, crypto assets, capital markets, Japanese financial institutions, policy finance, and strategic corporate cases. It organizes content using Obsidian-style `[[wikilink]]` connections, and the main entry point is [INDEX.md](INDEX.md).
 
+The homepage is designed for humans to understand the entrance, but the wiki corpus itself is designed primarily as a knowledge graph for AI agents to read, search, retrieve, cite, and connect rather than as a linear human reading product.
+
 This repository is maintained as a strictly public knowledge base. The content is restricted to public web information, official records, corporate filings, regulatory disclosures, public market data, or synthesis based on such public sources. It does not contain any personal information, local environment paths, private conversations, customer or counterparty details, or internal advisory case notes.
 
 The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwiki.zksc.io/) 🌐
@@ -130,12 +134,12 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 910 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 911 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 20 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 881 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~3.65M chars | 3,646,435 non-space UTF-8 characters across Markdown |
-| Word-like tokens | 571,814 | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~3.65M chars | 3,653,607 non-space UTF-8 characters across Markdown |
+| Word-like tokens | 573,116 | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-05-23 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
@@ -225,6 +229,8 @@ gh release create <tag> --target main --title "<Japanese Title>" --notes-file re
 
 FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场、日本金融机构、政策金融、公开公司与公开人物战略案例的 Markdown 知识库。仓库主要使用 Obsidian 风格的 `[[wikilink]]` 组织内容，总入口是 [INDEX.md](INDEX.md)。
 
+首页是给人理解入口用的，但 wiki 正文 corpus 主要不是给人按顺序通读，而是作为给 AI 读取、检索、引用和连接的 knowledge graph 来设计。
+
 这个仓库按公开发布标准维护。内容只保留互联网公开信息、公文资料、公司披露、监管资料、公开市场信息，以及基于这些公开材料整理出的可公开分析。这里不保留个人信息、本地环境信息、非公开对话、客户/相手方信息或内部案件笔记。
 
 公开站点通过 GitHub Pages 发布：[finwiki.zksc.io](http://finwiki.zksc.io/) 🌐
@@ -233,12 +239,12 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 910 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 911 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 20 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 881 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约364.6万字 | 全库 Markdown 空白除外 UTF-8 字符数 3,646,435 |
-| Word-like tokens | 571,814 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约365.4万字 | 全库 Markdown 空白除外 UTF-8 字符数 3,653,607 |
+| Word-like tokens | 573,116 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-05-23 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
