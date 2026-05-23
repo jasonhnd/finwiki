@@ -12,12 +12,12 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 908 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 909 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 20 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 881 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約362.3万字 | Markdown 全体の空白除外 UTF-8 文字数 3,623,199 |
-| Word-like tokens | 576,237 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約363.1万字 | Markdown 全体の空白除外 UTF-8 文字数 3,631,366 |
+| Word-like tokens | 577,676 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-05-23 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
@@ -25,7 +25,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | 入口 | 用途 |
 | --- | --- |
-| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages の公開入口。`index.html` は、人間が最初に読むための長い紹介文と wiki 全体の現在の内容地図として更新します。 |
+| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages の公開入口。`index.html` は、数値カード、短い紹介カード、展開式の領域カードを持つ、読みやすい現在の内容地図として更新します。 |
 | [INDEX.md](INDEX.md) | 全体索引。テーマ別にエントリーを探すためのメイン入口。 |
 | [SCHEMA.md](SCHEMA.md) | wiki エントリーの構造、frontmatter、管理ルール。 |
 | [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 本文内 `[[wikilink]]` の密度と、経路・同格・制度背景リンクの監査レポート。 |
@@ -123,12 +123,12 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 908 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 909 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 20 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 881 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~3.62M chars | 3,623,199 non-space UTF-8 characters across Markdown |
-| Word-like tokens | 576,237 | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~3.63M chars | 3,631,366 non-space UTF-8 characters across Markdown |
+| Word-like tokens | 577,676 | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-05-23 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
@@ -136,7 +136,7 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Entrance | Purpose |
 | --- | --- |
-| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages public entrance. `index.html` is maintained as a human-readable long introduction and current content map for the whole wiki. |
+| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages public entrance. `index.html` is maintained as a readable current content map with metric cards, short concept cards, and expandable domain cards. |
 | [INDEX.md](INDEX.md) | Global Index. The main entrance to find entries by theme. |
 | [SCHEMA.md](SCHEMA.md) | Schema for wiki entries, frontmatter guidelines, and maintenance conventions. |
 | [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | Audit report for body `[[wikilink]]` density plus route / peer / system links. |
@@ -219,12 +219,12 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 908 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 909 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 20 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 881 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约362.3万字 | 全库 Markdown 空白除外 UTF-8 字符数 3,623,199 |
-| Word-like tokens | 576,237 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约363.1万字 | 全库 Markdown 空白除外 UTF-8 字符数 3,631,366 |
+| Word-like tokens | 577,676 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-05-23 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
@@ -232,7 +232,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 入口 | 用途 |
 | --- | --- |
-| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages 公开入口。`index.html` 作为给人类初次阅读的长篇简介和整个 wiki 的当前内容地图同步维护。 |
+| [finwiki.zksc.io](http://finwiki.zksc.io/) | GitHub Pages 公开入口。`index.html` 以数字卡、短介绍卡、可展开领域卡的形式，维护为更易读的当前内容地图。 |
 | [INDEX.md](INDEX.md) | 全库索引。按主题查找条目的主入口。 |
 | [SCHEMA.md](SCHEMA.md) | wiki 条目的结构、frontmatter 与管理规则。 |
 | [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 正文 `[[wikilink]]` 密度，以及路径、同类项、制度背景链接的审计报告。 |
