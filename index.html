@@ -6,7 +6,7 @@
     <title>FinWiki</title>
     <meta
       name="description"
-      content="FinWiki is a public trilingual finance wiki with a human-readable long introduction and 881 entries across 20 domains, covering Japanese financial institutions, payments, fintech, capital markets, policy finance, systems, and security."
+      content="FinWiki is a public trilingual finance wiki with 908 Markdown files, 881 link-audited entries, 20 topical domains, and about 3.62 million non-space characters covering Japanese financial institutions, payments, fintech, capital markets, policy finance, systems, and security."
     >
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230b7a75'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-family='Arial,sans-serif' font-size='34' font-weight='700' fill='white'%3EF%3C/text%3E%3C/svg%3E">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -304,6 +304,37 @@
         font-size: 1rem;
       }
 
+      .metric-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 14px;
+        margin: 4px 0 10px;
+      }
+
+      .metric-card {
+        min-height: 150px;
+      }
+
+      .metric-card span {
+        color: var(--muted);
+        font-size: 0.82rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .metric-card strong {
+        display: block;
+        margin: 6px 0 8px;
+        color: var(--teal);
+        font-size: clamp(1.6rem, 3vw, 2.25rem);
+        line-height: 1;
+      }
+
+      .metric-note {
+        font-size: 0.92rem !important;
+      }
+
       .domains {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -359,6 +390,7 @@
 
         .status,
         .grid,
+        .metric-grid,
         .domains {
           grid-template-columns: 1fr;
         }
@@ -448,6 +480,30 @@
             <p>FinWiki は、金融を「会社名の一覧」や「ニュースの切り抜き」だけで扱うのではなく、制度、登録簿、業態、資本市場、決済インフラ、公開企業の事業ケースをつなげて読むための公開知識ベースです。日本の金融機関を中心にしながら、銀行、信託、証券、保険、決済、暗号資産、ステーブルコイン、政策金融、短期金融市場、上場会社の支配権移動までを、同じ地図の上で見られるように整理しています。</p>
             <p>各エントリーは、ひとつの会社、制度、登録簿、業務ルート、または市場インフラを説明する単位です。単独で読めるようにしつつ、本文内リンクで関連する免許、同業他社、監督官庁、決済経路、資本市場の手続きへ進める構造にしています。たとえば銀行のページから BaaS、銀行 API、決済代行、資金移動、信託銀行のカストディ、政策金融へ進み、そこからさらに証券・保険・暗号資産の隣接領域へ移動できます。</p>
             <p>この wiki が重視しているのは、公開資料をもとにした整理です。金融庁、日銀、取引所、業界団体、企業開示、登録簿、法令、公開市場情報など、人が再確認できる公開情報を軸にして、制度上の位置づけ、登録上の分類、事業上の役割、関連する市場インフラを見分けられるようにしています。断片的な会社紹介ではなく、「その会社や制度が金融システムのどこにあるのか」を読むための入口です。</p>
+            <h3>数字で見る FinWiki</h3>
+            <section class="metric-grid" aria-label="FinWiki の数値サマリー">
+              <article class="card metric-card jp">
+                <span>Markdown files</span>
+                <strong>908</strong>
+                <p>repository 内の `.md` files。release notes、control docs、templates を含み、`.git` は除外しています。</p>
+              </article>
+              <article class="card metric-card jp">
+                <span>Topical domains</span>
+                <strong>20</strong>
+                <p>日本金融機関、決済、fintech、証券、保険、政策金融、systems などの主要テーマ領域。</p>
+              </article>
+              <article class="card metric-card jp">
+                <span>Text volume</span>
+                <strong>約362.3万字</strong>
+                <p>Markdown 全体の空白除外 UTF-8 文字数。英語 / CJK の近似 token 数は約 57.6 万です。</p>
+              </article>
+              <article class="card metric-card jp">
+                <span>Audited entries</span>
+                <strong>881</strong>
+                <p>link audit が確認する public wiki entries。未解決リンク issue は 0 件です。</p>
+              </article>
+            </section>
+            <p class="metric-note">集計基準: 2026-05-23 JST 時点の current repository snapshot。公開サイトに反映するには `origin/main` への push と Pages 配信後確認が必要です。</p>
             <h3>どのように読むか</h3>
             <p>初めて読む場合は、まず INDEX.md から関心領域を選ぶのが最も早い方法です。会社を探す場合は日本金融機関や取引所・VASP の索引へ、制度を調べる場合は金融ライセンス、銀行・政策金融、証券・資本市場、決済・フィンテックの領域へ進みます。各ページでは、本文中のリンクをたどることで、同業比較、制度背景、登録簿、関連する市場インフラを横断できます。</p>
             <h3>誰のための wiki か</h3>
@@ -543,6 +599,30 @@
             <p>FinWiki is a public finance wiki designed to make financial institutions, rules, registries, markets, and infrastructure readable as one connected map. It is not only a company list and not only a news archive. It links Japanese financial groups, banking licenses, payment rails, securities markets, insurance structures, crypto-asset regulation, stablecoin policy, policy finance, and public corporate cases so that readers can see where each institution or rule sits inside the wider financial system.</p>
             <p>Each entry is written as a small unit of public knowledge: a company, license route, registry, market process, financial product category, or infrastructure layer. The pages are meant to be readable on their own, but their real value is in the internal links. A bank page can point to BaaS, bank APIs, payment agencies, funds transfer, trust-bank custody, policy finance, securities markets, insurance routes, and digital-asset infrastructure. This makes the wiki useful for moving from one entity to the system around it.</p>
             <p>The wiki is built around public information. It prioritizes official records, regulator pages, central-bank materials, exchange disclosures, corporate filings, industry association materials, laws, registries, and public market information. The goal is to help a reader distinguish legal classification, business role, registration status, market function, and infrastructure dependency without having to reconstruct the whole context from scattered sources.</p>
+            <h3>FinWiki by the Numbers</h3>
+            <section class="metric-grid" aria-label="FinWiki numeric summary">
+              <article class="card metric-card en">
+                <span>Markdown files</span>
+                <strong>908</strong>
+                <p>Repository `.md` files, including release notes, control documents, and templates, excluding `.git`.</p>
+              </article>
+              <article class="card metric-card en">
+                <span>Topical domains</span>
+                <strong>20</strong>
+                <p>Major topic areas including Japanese institutions, payments, fintech, securities, insurance, policy finance, and systems.</p>
+              </article>
+              <article class="card metric-card en">
+                <span>Text volume</span>
+                <strong>~3.62M chars</strong>
+                <p>Non-space UTF-8 characters across Markdown. The English / CJK word-like token estimate is about 576.2K.</p>
+              </article>
+              <article class="card metric-card en">
+                <span>Audited entries</span>
+                <strong>881</strong>
+                <p>Public wiki entries checked by the link audit, with 0 unresolved link issues.</p>
+              </article>
+            </section>
+            <p class="metric-note">Counting basis: current repository snapshot as of 2026-05-23 JST. Publication requires push to `origin/main` and GitHub Pages verification.</p>
             <h3>How to Read It</h3>
             <p>The fastest path is to start from INDEX.md, choose a domain, and then follow body links. If you are looking for a company, start with Japanese financial institutions, exchanges, payments, or securities. If you are researching a rule or market structure, start with financial licenses, banking and policy finance, capital markets, payments, or fintech. The body links connect peers, routes, registries, regulators, market infrastructure, and adjacent industries.</p>
             <h3>Who It Is For</h3>
@@ -638,6 +718,30 @@
             <p>FinWiki 是一个公开金融知识库，目的不是简单列公司名单，也不是做新闻剪贴，而是把金融机构、监管制度、登记簿、市场流程、支付基础设施和公开公司案例放在同一张地图里阅读。它以日本金融机构为中心，同时覆盖银行、信托、证券、保险、支付、加密资产、稳定币、政策金融、短期金融市场、上市公司控制权变化等领域，让读者能够看清一个机构或一项制度在整个金融系统中的位置。</p>
             <p>每个条目都是一个相对独立的知识单元，可以是一家公司、一类牌照、一条业务路径、一份登记簿、一种市场流程、一个金融产品类别，或者一层基础设施。页面本身可以单独阅读，但更重要的是页面之间的内文链接。比如从一家银行出发，可以继续读到 BaaS、银行 API、支付服务商、资金移转、信托银行托管、政策金融、证券市场、保险制度和数字资产基础设施。</p>
             <p>FinWiki 的写法以公开资料为基础，优先使用监管机构、央行、交易所、行业协会、公司披露、法律法规、登记簿和公开市场信息。它不追求把每个新闻事件都写进去，而是帮助读者判断：这个机构属于什么监管分类，经营什么业务，登记或牌照状态是什么，和哪些市场基础设施相连，在同类机构中处于什么位置。</p>
+            <h3>用数字看 FinWiki</h3>
+            <section class="metric-grid" aria-label="FinWiki 数字摘要">
+              <article class="card metric-card zh">
+                <span>Markdown files</span>
+                <strong>908</strong>
+                <p>仓库内 `.md` 文件总数，包含 release notes、控制文档和模板，排除 `.git`。</p>
+              </article>
+              <article class="card metric-card zh">
+                <span>Topical domains</span>
+                <strong>20</strong>
+                <p>覆盖日本金融机构、支付、fintech、证券、保险、政策金融、systems 等多主题领域。</p>
+              </article>
+              <article class="card metric-card zh">
+                <span>Text volume</span>
+                <strong>约362.3万字</strong>
+                <p>全库 Markdown 空白除外 UTF-8 字符数。英文 / CJK 近似 token 数约 57.6 万。</p>
+              </article>
+              <article class="card metric-card zh">
+                <span>Audited entries</span>
+                <strong>881</strong>
+                <p>链接审计覆盖的 public wiki entries；当前未解决链接 issue 为 0。</p>
+              </article>
+            </section>
+            <p class="metric-note">统计口径：2026-05-23 JST 的当前 repository snapshot。要反映到公开站点，需要 push 到 `origin/main` 并等待 GitHub Pages 配信后确认。</p>
             <h3>应该怎么读</h3>
             <p>第一次阅读时，建议先从 INDEX.md 进入，按领域选择路径。如果要找公司，可以从日本金融机构、交易所、支付、证券等索引开始；如果要查制度或市场结构，可以从金融牌照、银行与政策金融、资本市场、支付与金融科技等领域进入。正文中的链接会继续连接同类机构、制度路径、登记簿、监管部门、市场基础设施和相邻行业。</p>
             <h3>适合谁使用</h3>
