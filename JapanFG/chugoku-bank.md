@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-中国銀行は、岡山県を中心に retail deposits, SME finance, corporate lending, TSUBASA alliance collaboration, and Chugoku / Setouchi-area business support を担う regional bank。FG / strategic history belongs in [[chugin-okayama]], while the current bank-license boundary sits here.
+中国銀行は、岡山県を中心に retail deposits, SME finance, corporate lending, TSUBASA alliance collaboration, and Chugoku / Setouchi-area business support を担う regional bank。FG / strategic history belongs in [[chugin-okayama]], while the current bank-license boundary sits here. Chugoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

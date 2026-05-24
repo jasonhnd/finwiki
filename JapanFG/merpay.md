@@ -38,8 +38,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[payments/I
 ## 2. Business role
 
 - Converts Mercari's marketplace balance and user identity into payment and credit usage.
-- Bridges C2C marketplace data, code payment, deferred payment, and bank-account withdrawal.
-- A comparator against PayPay, Rakuten Pay, au PAY, and d払い.
+- Bridges C2C marketplace data, code payment, deferred payment, and bank-account withdrawal; see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor split.
+- A comparator against PayPay, Rakuten Pay, au PAY, and d払い — also surfaced in [[payments/funds-transfer-service-providers-japan-index]].
 
 ## 3. Why this standalone page matters
 

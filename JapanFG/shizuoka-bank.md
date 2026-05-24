@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-静岡銀行は、静岡県の retail deposits, SME finance, manufacturing main-bank relationships, cross-border / overseas support, and wealth-management services を担う regional bank。FG page は capital policy and group strategy を扱い、本ページは bank-level operations を扱う。
+静岡銀行は、静岡県の retail deposits, SME finance, manufacturing main-bank relationships, cross-border / overseas support, and wealth-management services を担う regional bank。FG page は capital policy and group strategy を扱い、本ページは bank-level operations を扱う。Cross-prefecture regional-bank pressure curve は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-西日本シティ銀行は、福岡都市圏と北部九州を中心に retail deposits, SME finance, urban corporate banking, and Asian business support を担う regional bank。[[nishi-nippon-fhd]] page は holding-company strategy and group portfolio を扱い、本ページは bank-license entity を扱う。
+西日本シティ銀行は、福岡都市圏と北部九州を中心に retail deposits, SME finance, urban corporate banking, and Asian business support を担う regional bank。[[nishi-nippon-fhd]] page は holding-company strategy and group portfolio を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

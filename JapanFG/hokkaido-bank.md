@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-北海道銀行は、札幌都市圏と北海道全域の retail, SME, tourism, agriculture, fishery, logistics, and municipal finance を担う regional bank。[[hokuhoku-fg]] の広域 2 地盤モデルでは、北陸側の [[hokuriku-bank]] と並ぶ片翼になる。
+北海道銀行は、札幌都市圏と北海道全域の retail, SME, tourism, agriculture, fishery, logistics, and municipal finance を担う regional bank。[[hokuhoku-fg]] の広域 2 地盤モデルでは、北陸側の [[hokuriku-bank]] と並ぶ片翼になる。Cross-prefecture regional-bank pressure context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

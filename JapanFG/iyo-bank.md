@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-伊予銀行は、愛媛県を中心に retail deposits, SME finance, maritime / shipbuilding cluster finance, and Shikoku-wide corporate support を担う regional bank。[[iyogin-hd]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。
+伊予銀行は、愛媛県を中心に retail deposits, SME finance, maritime / shipbuilding cluster finance, and Shikoku-wide corporate support を担う regional bank。[[iyogin-hd]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-池田泉州銀行は、大阪府北摂・泉州エリアと兵庫県南東部を中心に retail deposits, SME finance, real-estate / logistics finance, and regional consulting を担う regional bank。HD page は group strategy を扱い、本ページは banking operations and license boundary を扱う。
+池田泉州銀行は、大阪府北摂・泉州エリアと兵庫県南東部を中心に retail deposits, SME finance, real-estate / logistics finance, and regional consulting を担う regional bank。HD page は group strategy を扱い、本ページは banking operations and license boundary を扱う。Kansai regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

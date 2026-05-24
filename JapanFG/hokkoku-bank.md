@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-北國銀行は、石川県・北陸地域の retail / SME / municipal finance を担いながら、[[hokkoku-fhd]] の digital / BaaS platform strategy の実装母体にもなっている。Holding company と bank operating company を分けることで、IT platform strategy と銀行免許業務を混同しない。
+北國銀行は、石川県・北陸地域の retail / SME / municipal finance を担いながら、[[hokkoku-fhd]] の digital / BaaS platform strategy の実装母体にもなっている。Holding company と bank operating company を分けることで、IT platform strategy と銀行免許業務を混同しない。Hokuriku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-北都銀行は、秋田県を中心に retail, SME, public-sector, renewable-energy, tourism, and local-asset-management support を担う regional bank。単独上場の [[akita-bank]] と同じ秋田県市場を向く一方、北都銀行は [[fidea-hd]] の山形・秋田広域モデルの秋田側 operating company になる。
+北都銀行は、秋田県を中心に retail, SME, public-sector, renewable-energy, tourism, and local-asset-management support を担う regional bank。単独上場の [[akita-bank]] と同じ秋田県市場を向く一方、北都銀行は [[fidea-hd]] の山形・秋田広域モデルの秋田側 operating company になる。Tohoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

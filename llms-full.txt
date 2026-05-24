@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-24T20:27:35+09:00
+Generated: 2026-05-24T21:10:59+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1013
-Public pages listed: 1012
+Markdown files: 1057
+Public pages listed: 1056
 
 ## Reading Rules
 
@@ -129,6 +129,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 中国農業銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/icbc-japan, https://finwiki.zksc.io/bank-of-china-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/china-construction-bank-japan, https://finwiki.zksc.io/icbc-japan
+
+### AIA Life Japan / AIA生命保険
+- URL: https://finwiki.zksc.io/JapanFG/aia-life-japan
+- Source path: JapanFG/aia-life-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aia-life-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against MetLife Japan and Manulife Life Insurance Japan for foreign-life-insurer peer context, and insurance index for the broader Japan life insurance market system / regulatory boundary.
+- Headings: AIA Life Japan / AIA生命保険, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aflac-japan, https://finwiki.zksc.io/JapanFG/axa-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/manulife-japan, https://finwiki.zksc.io/JapanFG/metlife-japan, https://finwiki.zksc.io/JapanFG/nn-life-japan, https://finwiki.zksc.io/JapanFG/principal-japan, https://finwiki.zksc.io/JapanFG/prudential-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-life-insurance-big-four
 
 ### あいち銀行
 - URL: https://finwiki.zksc.io/JapanFG/aichi-bank
@@ -308,7 +318,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and securities index for the broader system boundary.
 - Headings: アプラス (APLUS), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/securities/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix, https://finwiki.zksc.io/securities/INDEX
 
 ### 朝日生命保険
 - URL: https://finwiki.zksc.io/JapanFG/asahi-life
@@ -348,7 +358,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 足利銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/joyo-bank, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/tochigi-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/joyo-bank, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/tochigi-bank
 
 ### アセットマネジメントOne
 - URL: https://finwiki.zksc.io/JapanFG/asset-management-one
@@ -359,6 +369,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 三井住友DSアセットマネジメント for peer / contrast context and securities index for the broader system / regulatory boundary.
 - Headings: アセットマネジメントOne, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/smd-am, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/nisa-2024-flow
+
+### atone (アトネ)
+- URL: https://finwiki.zksc.io/JapanFG/atone
+- Source path: JapanFG/atone.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/atone.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a consumer BNPL wallet brand. Read it together with the Japan BNPL landscape system note, the Net Protections HD corporate parent for ownership context, and the Paidy peer for direct comparator. The BNPL and credit-purchase boundary page sets the regulatory
+- Headings: atone (アトネ), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/credit-saison, https://finwiki.zksc.io/JapanFG/famima-digital-one, https://finwiki.zksc.io/JapanFG/jaccs, https://finwiki.zksc.io/JapanFG/merpay, https://finwiki.zksc.io/JapanFG/net-protections-hd, https://finwiki.zksc.io/JapanFG/paidy, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### au フィナンシャルホールディングス (au-FH)
 - URL: https://finwiki.zksc.io/JapanFG/au-fh
@@ -509,6 +529,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: ビルバオ・ビスカヤ・アルヘンタリア銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/commerzbank-japan, https://finwiki.zksc.io/JapanFG/credit-agricole-bank-japan, https://finwiki.zksc.io/JapanFG/ing-bank-japan, https://finwiki.zksc.io/JapanFG/intesa-sanpaolo-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat
+
+### BDO 三優監査法人 (BDO Sanyu)
+- URL: https://finwiki.zksc.io/JapanFG/bdo-sanyu
+- Source path: JapanFG/bdo-sanyu.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/bdo-sanyu.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside 太陽グラントソントン for peer 中堅 audit context, and EY 新日本・トーマツ for Big 4 比較; 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
+- Headings: BDO 三優監査法人 (BDO Sanyu), TL;DR, Wiki route, 1. 法人概要, 規模（公開ベース概算）^[inferred], 2. 沿革, 3. 金融サービス監査・アドバイザリー実務, IPO 準備支援 ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
 
 ### bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 - URL: https://finwiki.zksc.io/JapanFG/bitflyer
@@ -898,7 +928,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: 第一生命保険, Wiki route, TL;DR, 1. License / group boundary, 2. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/dai-ichi-neo-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/dai-ichi-neo-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/life-insurance-channel-mix
 
 ### 第一ライフグループ / 旧 第一生命 HD
 - URL: https://finwiki.zksc.io/JapanFG/dai-ichi-life
@@ -918,7 +948,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: 第一ネオ生命保険, Wiki route, TL;DR, 1. License / group boundary, 2. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/dai-ichi-life-insurance, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-frontier-life, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/dai-ichi-life-insurance, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/life-insurance-channel-mix
 
 ### 第四北越 FG
 - URL: https://finwiki.zksc.io/JapanFG/dai-shi-hokuetsu-fg
@@ -978,7 +1008,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 福島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 大東銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukushima-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/fukushima-bank, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/toho-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukushima-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukushima-bank, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/toho-bank
 
 ### Daito Mirai Trust / 大東みらい信託
 - URL: https://finwiki.zksc.io/JapanFG/daito-mirai-trust
@@ -1049,6 +1079,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.
 - Headings: DBS銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/ocbc-bank-japan, https://finwiki.zksc.io/JapanFG/uob-bank-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat
+
+### 有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)
+- URL: https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu
+- Source path: JapanFG/deloitte-touche-tohmatsu.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/deloitte-touche-tohmatsu.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside EY 新日本 and PwC あらた for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
+- Headings: 有限責任監査法人トーマツ (Deloitte Touche Tohmatsu), TL;DR, Wiki route, 1. 法人概要, 規模（公開ベース概算）^[inferred], 2. 沿革, 3. 金融サービス監査・アドバイザリー実務, 銀行 / 保険 / 証券 ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape, https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer, https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation
 
 ### ドイチェ・ジャパン (Deutsche Japan)
 - URL: https://finwiki.zksc.io/JapanFG/deutsche-japan
@@ -1140,6 +1180,16 @@ Public pages listed: 1012
 - Headings: ユーロクリア・バンク日本 (Euroclear Bank Japan), Wiki route, Overview, Why It Is Not Registry-only, Function Stack, Japan Asset Route, Peer / Contrast Map, Research Checklist
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/clearstream-banking-japan, https://finwiki.zksc.io/JapanFG/deutsche-japan, https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index, https://finwiki.zksc.io/JapanFG/japan-securities-finance, https://finwiki.zksc.io/JapanFG/state-street-japan, https://finwiki.zksc.io/banking/japan-trust-bank-custody-map, https://finwiki.zksc.io/money-market/jgb-repo-market-japan, https://finwiki.zksc.io/securities/japan-market-infrastructure-map, https://finwiki.zksc.io/securities/japan-securities-clearing-corp
 
+### EY 新日本有限責任監査法人 (EY ShinNihon)
+- URL: https://finwiki.zksc.io/JapanFG/ey-shinnihon
+- Source path: JapanFG/ey-shinnihon.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ey-shinnihon.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside 有限責任監査法人トーマツ (Deloitte) and あずさ監査法人 (KPMG) for peer Big 4 audit context, and 金融ライセンス INDEX for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は 金融庁 監督局 と 金融庁 総合政策局 の所管文脈を併読。
+- Headings: EY 新日本有限責任監査法人 (EY ShinNihon), TL;DR, Wiki route, 1. 法人概要, 規模（公開ベース概算）^[inferred], 2. 沿革・系譜, 3. 金融サービス本部（Financial Services Office, FSO）, 主要セクター ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
+
 ### ファミマデジタルワン (FamiMa Digital One)
 - URL: https://finwiki.zksc.io/JapanFG/famima-digital-one
 - Source path: JapanFG/famima-digital-one.md
@@ -1209,6 +1259,16 @@ Public pages listed: 1012
 - Summary: Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/first-trust
 - Headings: First Trust Japan / ファースト信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/first-trust, https://finwiki.zksc.io/JapanFG/jvalue-trust, https://finwiki.zksc.io/JapanFG/kyodo-trust, https://finwiki.zksc.io/JapanFG/trust-companies-japan-index, https://finwiki.zksc.io/banking/japan-trust-bank-custody-map
+
+### FM Global Japan / FMグローバル・ジャパン
+- URL: https://finwiki.zksc.io/JapanFG/fm-global-japan
+- Source path: JapanFG/fm-global-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fm-global-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against Lloyd's Japan and Chubb Insurance Japan for foreign-commercial-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.
+- Headings: FM Global Japan / FMグローバル・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aig-japan, https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan, https://finwiki.zksc.io/JapanFG/chubb-insurance-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/lloyd-japan, https://finwiki.zksc.io/JapanFG/qbe-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-nonlife-big-three, https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan
 
 ### Foreign bank branches in Japan registry index
 - URL: https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index
@@ -1460,6 +1520,16 @@ Public pages listed: 1012
 - Headings: GMO ペイメントゲートウェイ, Wiki route, TL;DR, 1. 公司结构, 2. 业务线 map, 3. 重要历史, 4. 戦略与竞争, 国内戦略
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/famima-digital-one, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/freee, https://finwiki.zksc.io/jcb, https://finwiki.zksc.io/mercari-hd, https://finwiki.zksc.io/money-forward, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/paidy, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/smfg
 
+### GMO後払い (GMO Postpay)
+- URL: https://finwiki.zksc.io/JapanFG/gmo-postpay
+- Source path: JapanFG/gmo-postpay.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/gmo-postpay.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a PSP-side BNPL product. Read it against the Japan BNPL landscape system note, with the GMO ペイメントゲートウェイ sibling explaining the merchant-acquiring stack and the Net Protections HD / Paidy peers showing pure-play BNPL. The BNPL and credit-purchase boundary fr
+- Headings: GMO後払い (GMO Postpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/gmo-payment-gateway, https://finwiki.zksc.io/JapanFG/gmo-postpay, https://finwiki.zksc.io/JapanFG/kuroneko-atobarai, https://finwiki.zksc.io/JapanFG/net-protections-hd, https://finwiki.zksc.io/JapanFG/paidy, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
+
 ### ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 - URL: https://finwiki.zksc.io/JapanFG/goldman-sachs-japan
 - Source path: JapanFG/goldman-sachs-japan.md
@@ -1568,7 +1638,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 東日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/tokyo-star-bank, https://finwiki.zksc.io/yokohama-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/tokyo-star-bank, https://finwiki.zksc.io/yokohama-bank
 
 ### 肥後銀行
 - URL: https://finwiki.zksc.io/JapanFG/higo-bank
@@ -1638,7 +1708,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 北陸銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 北海道銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hokuriku-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/hokuyo-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hokuriku-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/hokuyo-bank
 
 ### 北海道リース
 - URL: https://finwiki.zksc.io/JapanFG/hokkaido-lease
@@ -1658,7 +1728,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 北國銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
 
 ### 北國 FHD (Hokkoku FHD)
 - URL: https://finwiki.zksc.io/JapanFG/hokkoku-fhd
@@ -1688,7 +1758,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 北海道銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 北陸銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hokkaido-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/hokkaido-bank, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hokkaido-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokkaido-bank, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
 
 ### 北都銀行
 - URL: https://finwiki.zksc.io/JapanFG/hokuto-bank
@@ -1698,7 +1768,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 荘内銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 北都銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/shonai-bank, https://finwiki.zksc.io/akita-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/shonai-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/shonai-bank, https://finwiki.zksc.io/akita-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/shonai-bank
 
 ### 北洋銀行
 - URL: https://finwiki.zksc.io/JapanFG/hokuyo-bank
@@ -1840,6 +1910,16 @@ Public pages listed: 1012
 - Headings: 中小企業銀行 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat, https://finwiki.zksc.io/hana-bank-japan, https://finwiki.zksc.io/kb-kookmin-bank-japan, https://finwiki.zksc.io/korea-development-bank-japan, https://finwiki.zksc.io/sbj-bank, https://finwiki.zksc.io/woori-bank-japan
 
+### インフキュリオン (Infcurion)
+- URL: https://finwiki.zksc.io/JapanFG/infcurion
+- Source path: JapanFG/infcurion.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/infcurion.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a white-label fintech vendor that sits one layer below the consumer-facing wallets. Read it together with the Japan BNPL landscape for the BNPL-adjacent payment context, the DG Financial Technology and FamiMa Digital One peers for white-label / merchant-sid
+- Headings: インフキュリオン (Infcurion), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/dg-financial-technology, https://finwiki.zksc.io/JapanFG/famima-digital-one, https://finwiki.zksc.io/JapanFG/freee, https://finwiki.zksc.io/JapanFG/kyash, https://finwiki.zksc.io/JapanFG/merpay, https://finwiki.zksc.io/JapanFG/money-forward, https://finwiki.zksc.io/JapanFG/net-protections-hd, https://finwiki.zksc.io/JapanFG/paidy, https://finwiki.zksc.io/JapanFG/smartbank
+
 ### アイエヌジーバンク エヌ・ヴイ 東京支店
 - URL: https://finwiki.zksc.io/JapanFG/ing-bank-japan
 - Source path: JapanFG/ing-bank-japan.md
@@ -1869,6 +1949,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: インテーザ・サンパオロ 東京支店, Wiki route, TL;DR, 1. License / branch boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bbva-bank-japan, https://finwiki.zksc.io/JapanFG/commerzbank-japan, https://finwiki.zksc.io/JapanFG/credit-agricole-bank-japan, https://finwiki.zksc.io/JapanFG/ing-bank-japan, https://finwiki.zksc.io/JapanFG/natixis-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/foreign-bank-japan-retreat
+
+### 伊藤忠商事 (ITOCHU Corporation)
+- URL: https://finwiki.zksc.io/JapanFG/itochu-corp
+- Source path: JapanFG/itochu-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/itochu-corp.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against 三菱商事 (5 大首位 / 資源寄り対照) and 丸紅 (繊維・穀物商社としての対照) for peer / contrast context. For the financial
+- Headings: 伊藤忠商事 (ITOCHU Corporation), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/famima, https://finwiki.zksc.io/JapanFG/itochu-finance, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp, https://finwiki.zksc.io/finance/INDEX
 
 ### 伊藤忠ファイナンス (ITOCHU Finance Corporation)
 - URL: https://finwiki.zksc.io/JapanFG/itochu-finance
@@ -1920,6 +2010,16 @@ Public pages listed: 1012
 - Headings: いよぎん HD (Iyogin Holdings), Wiki route, TL;DR, 1. 公司结构, 主要子会社 (公開情報), 2. 重要历史, 3. 业务线 map, 4. 战略与竞争
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/iyo-bank, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/ehime-bank, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/kagawa-bank, https://finwiki.zksc.io/kochi-bank, https://finwiki.zksc.io/shikoku-bank, https://finwiki.zksc.io/tokushima-taisho-bank, https://finwiki.zksc.io/tomony-hd
 
+### JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)
+- URL: https://finwiki.zksc.io/JapanFG/ja-kyosairen
+- Source path: JapanFG/ja-kyosairen.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-kyosairen.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the JA Group cooperative-insurance federation, parallel to 農林中央金庫 (信用) / JA 全農 (経済) / JA 全中 (代表). Read with insurance domain for cooperative-vs-stock insurance form, 共栄火災海上保険 (JA 共済連が筆頭株主) for the損保補完, and JA Bank system for the JA Group system boundary.
+- Headings: JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives), Wiki route, TL;DR, 1. 組織構造, 共済事業 vs 保険業法 (区別) ^[extracted], JA グループ 4 大全国連の役割分担, 重要年表 ^[extracted], 2. 業務内容
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zen-noh, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-zengyoren, https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine, https://finwiki.zksc.io/JapanFG/meiji-yasuda, https://finwiki.zksc.io/JapanFG/msad, https://finwiki.zksc.io/JapanFG/nippon-life, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/sompo
+
 ### JA三井リース
 - URL: https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing
 - Source path: JapanFG/ja-mitsui-leasing.md
@@ -1929,6 +2029,36 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As a JA / 農林中金 + 三井系の合弁体, it should be cross-read with 農林中央金庫 for the JA-side context.
 - Headings: JA三井リース, Wiki route, TL;DR, 1. License / group boundary, 2. Business lines, 3. Strategy & competitive position, 4. Why this page matters, Related
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fuyo-lease, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/smfl, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/japan-acquisition-finance
+
+### JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives)
+- URL: https://finwiki.zksc.io/JapanFG/ja-shinnoren
+- Source path: JapanFG/ja-shinnoren.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-shinnoren.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the prefectural credit-federation layer of the JA Bank system, sitting between local JA (497 cooperatives) and the national central institution 農林中央金庫. Read with JF 信漁連 for the fishery-side equivalent and cooperative banking domain for the wider context.
+- Headings: JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives), Wiki route, TL;DR, 1. 組織構造, JA Bank system の三段構造 ^[extracted], 信連数の推移 ^[extracted], 重要年表 ^[extracted], 2. 機能・業務
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/ja-zen-noh, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-shingyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan
+
+### JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)
+- URL: https://finwiki.zksc.io/JapanFG/ja-zen-noh
+- Source path: JapanFG/ja-zen-noh.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-zen-noh.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the JA Group economic-business federation, parallel to 農林中央金庫 (信用) / JA 共済連 (共済) / JA 全中 (代表). Read with JA Bank system for the credit-side adjacency and cooperative banking domain for the system boundary.
+- Headings: JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations), Wiki route, TL;DR, 1. 組織構造, 統合史 ^[extracted], 2. 事業 map, 2 大事業ライン, 加工・物流子会社・関連企業 ^[inferred]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-zengyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan
+
+### JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)
+- URL: https://finwiki.zksc.io/JapanFG/ja-zenchu
+- Source path: JapanFG/ja-zenchu.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-zenchu.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the JA Group national-coordination layer behind 農林中央金庫 (Norinchukin) and the JA Bank system. Read it together with JA 全農 (全国農業協同組合連合会) for the commercial-federation counterpart, JA 共済連 for the cooperative insurance federation, and cooperative banking domain for
+- Headings: JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives), Wiki route, TL;DR, 1. 組織構造, JA グループ 4 大全国連の役割分担 ^[extracted], 重要年表 ^[extracted], 2. 主要機能, 4 大機能 ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zen-noh, https://finwiki.zksc.io/JapanFG/jf-zengyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko, https://finwiki.zksc.io/JapanFG/zenginkyo, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan, https://finwiki.zksc.io/ja-kyosairen, https://finwiki.zksc.io/ja-shinnoren
 
 ### 株式会社ジャックス (Jaccs)
 - URL: https://finwiki.zksc.io/JapanFG/jaccs
@@ -2029,6 +2159,26 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 株式会社ジェーシービー (JCB), Wiki route, TL;DR, 1. 公司结构, 略称の由来, 主要株主 (公開情報・非上場のため概要のみ), 主要子会社・関連法人, 重要年表
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/orico, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/smfg
+
+### JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)
+- URL: https://finwiki.zksc.io/JapanFG/jf-shingyoren
+- Source path: JapanFG/jf-shingyoren.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jf-shingyoren.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative / economic-
+- Headings: JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives), Wiki route, TL;DR, 1. 組織構造, JF Marine Bank system の三段構造 ^[extracted], JA 信連との対比 ^[extracted], 重要年表 ^[extracted], 2. 機能・業務
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-zengyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan, https://finwiki.zksc.io/banking/jf-marine-bank-system-japan, https://finwiki.zksc.io/norinchukin
+
+### JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)
+- URL: https://finwiki.zksc.io/JapanFG/jf-zengyoren
+- Source path: JapanFG/jf-zengyoren.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jf-zengyoren.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the JF Group national representative federation, parallel to JA 全中 in the agricultural cooperative system. Read with 農林中央金庫 for the central financial institution, JF Marine Bank system for the credit system boundary, and cooperative banking domain for the broad
+- Headings: JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations), Wiki route, TL;DR, 1. 組織構造, JF グループ全国組織の役割分担 ^[extracted], 重要年表 ^[extracted], 2. 事業 map, 主要事業 ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/ja-zen-noh, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-shingyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan, https://finwiki.zksc.io/banking/jf-marine-bank-system-japan, https://finwiki.zksc.io/jf-shingyoren, https://finwiki.zksc.io/norinchukin
 
 ### 日本政策金融公庫 (JFC)
 - URL: https://finwiki.zksc.io/JapanFG/jfc
@@ -2278,7 +2428,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: きらぼし銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/kiraboshi-fg, https://finwiki.zksc.io/tokyo-star-bank, https://finwiki.zksc.io/ui-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/kiraboshi-fg, https://finwiki.zksc.io/tokyo-star-bank, https://finwiki.zksc.io/ui-bank
 
 ### 東京きらぼし FG (Tokyo Kiraboshi FG)
 - URL: https://finwiki.zksc.io/JapanFG/kiraboshi-fg
@@ -2298,7 +2448,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 仙台銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: きらやか銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sendai-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/sendai-bank, https://finwiki.zksc.io/yamagata-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sendai-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/sendai-bank, https://finwiki.zksc.io/yamagata-bank
 
 ### Kiriu Real Estate Trust / きりう不動産信託
 - URL: https://finwiki.zksc.io/JapanFG/kiriu-real-estate-trust
@@ -2370,6 +2520,16 @@ Public pages listed: 1012
 - Headings: Kotaeru Trust / コタエル信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/kotaeru-trust, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack, https://finwiki.zksc.io/JapanFG/trust-companies-japan-index, https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure, https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting
 
+### 有限責任 あずさ監査法人 (KPMG AZSA)
+- URL: https://finwiki.zksc.io/JapanFG/kpmg-azsa
+- Source path: JapanFG/kpmg-azsa.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kpmg-azsa.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside EY 新日本 and トーマツ for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
+- Headings: 有限責任 あずさ監査法人 (KPMG AZSA), TL;DR, Wiki route, 1. 法人概要, 規模（公開ベース概算）^[inferred], 2. 沿革, 3. 金融サービス監査・アドバイザリー実務, 金融機関監査（最大強み）^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape, https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities
+
 ### 熊本銀行
 - URL: https://finwiki.zksc.io/JapanFG/kumamoto-bank
 - Source path: JapanFG/kumamoto-bank.md
@@ -2379,6 +2539,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 肥後銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 熊本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/higo-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/higo-bank, https://finwiki.zksc.io/kyushu-fg
+
+### クロネコ代金後払いサービス (Kuroneko Atobarai)
+- URL: https://finwiki.zksc.io/JapanFG/kuroneko-atobarai
+- Source path: JapanFG/kuroneko-atobarai.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kuroneko-atobarai.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a logistics-anchored BNPL product. Read it against the Japan BNPL landscape system note, the Net Protections HD / Paidy BNPL peer set, and the Japan BNPL and credit-purchase boundary for the regulatory question. The METI credit-purchase registry is the regi
+- Headings: クロネコ代金後払いサービス (Kuroneko Atobarai), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/jcb, https://finwiki.zksc.io/JapanFG/net-protections-hd, https://finwiki.zksc.io/JapanFG/nippon-post, https://finwiki.zksc.io/JapanFG/paidy, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### Kyash
 - URL: https://finwiki.zksc.io/JapanFG/kyash
@@ -2580,6 +2750,16 @@ Public pages listed: 1012
 - Headings: ライフネット生命保険 (LifeNet Insurance), Wiki route, TL;DR, 1. 公司结构, 主要株主, 創業者・経営陣（沿革）, 2. 业务线 map, チャネル・契約フロー
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/au-fh, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/internet-life-insurance-business-model, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg
 
+### Lloyd's Japan / ロイズ・ジャパン
+- URL: https://finwiki.zksc.io/JapanFG/lloyd-japan
+- Source path: JapanFG/lloyd-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/lloyd-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against FM Global Japan and AIG Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.
+- Headings: Lloyd's Japan / ロイズ・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aig-japan, https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan, https://finwiki.zksc.io/JapanFG/chubb-insurance-japan, https://finwiki.zksc.io/JapanFG/fm-global-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/qbe-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-nonlife-big-three
+
 ### Japan local government bond market
 - URL: https://finwiki.zksc.io/JapanFG/local-bond-market
 - Source path: JapanFG/local-bond-market.md
@@ -2619,6 +2799,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: マニュライフ生命保険 (Manulife Life Insurance Japan), Wiki route, TL;DR, 1. 公司结构, 親会社 Manulife Financial Corporation 概要 ^[extracted], グループ構造, 2. 重要历史, 旧 第百生命 系譜（1880〜1999）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/prudential-japan, https://finwiki.zksc.io/aflac-japan, https://finwiki.zksc.io/axa-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/metlife-japan, https://finwiki.zksc.io/prudential-japan
+
+### 丸紅 (Marubeni Corporation)
+- URL: https://finwiki.zksc.io/JapanFG/marubeni-corp
+- Source path: JapanFG/marubeni-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/marubeni-corp.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) and みずほリース (旧 興銀リー
+- Headings: 丸紅 (Marubeni Corporation), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/marubeni-financial-services, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp, https://finwiki.zksc.io/JapanFG/tokyo-century
 
 ### 丸紅フィナンス (Marubeni Finance Corporation)
 - URL: https://finwiki.zksc.io/JapanFG/marubeni-financial-services
@@ -2728,7 +2918,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.
 - Headings: 明治安田損害保険, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer, https://finwiki.zksc.io/meiji-yasuda, https://finwiki.zksc.io/nisshin-fire
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer, https://finwiki.zksc.io/meiji-yasuda, https://finwiki.zksc.io/nisshin-fire
 
 ### 明治安田トラスト生命保険
 - URL: https://finwiki.zksc.io/JapanFG/meiji-yasuda-trust-life
@@ -2768,7 +2958,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: メルペイ (Merpay), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mercari-hd, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mercari-hd, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split
 
 ### メットライフ生命保険 (MetLife Japan)
 - URL: https://finwiki.zksc.io/JapanFG/metlife-japan
@@ -2798,7 +2988,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: みどり生命保険, Wiki route, TL;DR, 1. License / group boundary, 2. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/asahi-life, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog, https://finwiki.zksc.io/insurance/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/asahi-life, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix
 
 ### Midori Trust / みどり信託
 - URL: https://finwiki.zksc.io/JapanFG/midori-trust
@@ -2860,6 +3050,16 @@ Public pages listed: 1012
 - Headings: 三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services), Wiki route, TL;DR, 1. 公司结构, 三菱グループ金融機能の三層構造, 2. 业务线 map, 3. 战略与竞争, 商社系 group-treasury の典型像
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/fuyo-lease, https://finwiki.zksc.io/JapanFG/itochu-finance, https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing, https://finwiki.zksc.io/JapanFG/marubeni-financial-services, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-asset-management, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/mufg
 
+### 三菱商事 (Mitsubishi Corporation)
+- URL: https://finwiki.zksc.io/JapanFG/mitsubishi-corp
+- Source path: JapanFG/mitsubishi-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsubishi-corp.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against 三井物産 and 伊藤忠商事 for the closest 5 大商社 peer / contrast context. For the financial-services adjacen
+- Headings: 三菱商事 (Mitsubishi Corporation), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bank-of-tokyo-mitsubishi-ufj, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-asset-management, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/sojitz-corp
+
 ### 三菱 HC キャピタル (Mitsubishi HC Capital)
 - URL: https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital
 - Source path: JapanFG/mitsubishi-hc-capital.md
@@ -2889,6 +3089,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under SMFG. See banki
 - Headings: 三井物産フィナンシャルサービス (Mitsui & Co. Financial Services), Wiki route, TL;DR, 1. 公司结构, 三井物産の金融機能配置, 2. 业务线 map, 3. 战略与竞争, 三井物産の事業構造と金融機能
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/itochu-finance, https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing, https://finwiki.zksc.io/JapanFG/marubeni-financial-services, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/smfl, https://finwiki.zksc.io/JapanFG/smtb
+
+### 三井物産 (Mitsui & Co., Ltd.)
+- URL: https://finwiki.zksc.io/JapanFG/mitsui-co
+- Source path: JapanFG/mitsui-co.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsui-co.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (純利益首位を争う最大ライバル) and 伊藤忠商事 (非資源寄り 5 大商社の対照) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルサービス (内向け CMS) and SMFL (住友三井オートサービス系の総合
+- Headings: 三井物産 (Mitsui & Co., Ltd.), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/smfl, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-auto-service
 
 ### 三井ダイレクト損害保険
 - URL: https://finwiki.zksc.io/JapanFG/mitsui-direct
@@ -3168,7 +3378,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against はなさく生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: なないろ生命保険, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hanasaku-life, https://finwiki.zksc.io/asahi-life, https://finwiki.zksc.io/hanasaku-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix, https://finwiki.zksc.io/medicare-life
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hanasaku-life, https://finwiki.zksc.io/asahi-life, https://finwiki.zksc.io/hanasaku-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/life-insurance-channel-mix, https://finwiki.zksc.io/medicare-life
 
 ### 株式会社南都銀行 (The Nanto Bank)
 - URL: https://finwiki.zksc.io/JapanFG/nanto-bank
@@ -3229,6 +3439,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against リコーリース for peer / contrast context (both are事業会社 captive lease) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.
 - Headings: NECキャピタルソリューション, Wiki route, TL;DR, 1. License / group boundary, 2. Business lines, 3. Strategy & competitive position, 4. Why this page matters, Related
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fuyo-lease, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/ricoh-leasing, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/JapanFG/toyota-finance, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/japan-acquisition-finance
+
+### ネットプロテクションズHD (Net Protections HD)
+- URL: https://finwiki.zksc.io/JapanFG/net-protections-hd
+- Source path: JapanFG/net-protections-hd.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/net-protections-hd.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchoring the
+- Headings: ネットプロテクションズHD (Net Protections HD), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aplus, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/credit-saison, https://finwiki.zksc.io/JapanFG/installment-sales-act-2020-amendment, https://finwiki.zksc.io/JapanFG/jaccs, https://finwiki.zksc.io/JapanFG/merpay, https://finwiki.zksc.io/JapanFG/orico, https://finwiki.zksc.io/JapanFG/paidy, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary
 
 ### ネットスターズ
 - URL: https://finwiki.zksc.io/JapanFG/netstars
@@ -3530,6 +3750,16 @@ Public pages listed: 1012
 - Headings: 沖縄振興開発金融公庫 (ODFC), Wiki route, TL;DR, 1. 公司结构, 設立背景 ^[extracted], ガバナンス・機関設計, 事業部門（県内完結型・一機関統合）, 重要年表 ^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/dbj, https://finwiki.zksc.io/jbic, https://finwiki.zksc.io/jfc, https://finwiki.zksc.io/okinawa-fg, https://finwiki.zksc.io/ryukyu-bank, https://finwiki.zksc.io/shoko-chukin
 
+### OLTA (オルタ)
+- URL: https://finwiki.zksc.io/JapanFG/olta
+- Source path: JapanFG/olta.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/olta.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a B2B factoring fintech that sits next to BNPL in the wider working-capital stack. Read it together with the Japan BNPL landscape system note, the Net Protections HD BtoB BNPL peer (NP 掛け払い), and the Money Forward / Biz Forward sibling for the SaaS-led fact
+- Headings: OLTA (オルタ), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/credit-saison, https://finwiki.zksc.io/JapanFG/freee, https://finwiki.zksc.io/JapanFG/jaccs, https://finwiki.zksc.io/JapanFG/money-forward, https://finwiki.zksc.io/JapanFG/net-protections-hd, https://finwiki.zksc.io/JapanFG/orico, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
+
 ### 株式会社オリエントコーポレーション (Orico)
 - URL: https://finwiki.zksc.io/JapanFG/orico
 - Source path: JapanFG/orico.md
@@ -3580,6 +3810,16 @@ Public pages listed: 1012
 - Headings: 大阪信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/kawasaki-shinkin, https://finwiki.zksc.io/JapanFG/kyoto-chuo-shinkin, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan
 
+### Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
+- URL: https://finwiki.zksc.io/JapanFG/pacific-life-re-japan
+- Source path: JapanFG/pacific-life-re-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pacific-life-re-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against Swiss Re Japan and Hannover Re Japan for life-reinsurer peer context, and insurance index for the broader Japan life insurance / reinsurance market system / regulatory boundary.
+- Headings: Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hannover-re-japan, https://finwiki.zksc.io/JapanFG/japan-earthquake-reinsurance, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/manulife-japan, https://finwiki.zksc.io/JapanFG/metlife-japan, https://finwiki.zksc.io/JapanFG/swiss-re-japan, https://finwiki.zksc.io/JapanFG/toa-reinsurance, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-life-insurance-big-four, https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer
+
 ### 株式会社ペイディ (Paidy)
 - URL: https://finwiki.zksc.io/JapanFG/paidy
 - Source path: JapanFG/paidy.md
@@ -3628,7 +3868,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: PayPayカード (PayPay Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/paypay-securities, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/paypay-securities, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### PayPay 金融グループ
 - URL: https://finwiki.zksc.io/JapanFG/paypay-fg
@@ -3648,7 +3888,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with securities index for adjacent context and JapanFG index for the broader system boundary.
 - Headings: PayPay証券, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/nisa-2024-flow
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index, https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix, https://finwiki.zksc.io/securities/nisa-2024-flow
 
 ### PayPay株式会社
 - URL: https://finwiki.zksc.io/JapanFG/paypay
@@ -3700,6 +3940,16 @@ Public pages listed: 1012
 - Headings: ポケットカード (Pocket Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/credit-saison, https://finwiki.zksc.io/JapanFG/epos-card, https://finwiki.zksc.io/JapanFG/famima-digital-one, https://finwiki.zksc.io/JapanFG/jcb, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape
 
+### Principal Japan / プリンシパル・ジャパン
+- URL: https://finwiki.zksc.io/JapanFG/principal-japan
+- Source path: JapanFG/principal-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/principal-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.
+- Headings: Principal Japan / プリンシパル・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/manulife-japan, https://finwiki.zksc.io/JapanFG/metlife-japan, https://finwiki.zksc.io/JapanFG/nn-life-japan, https://finwiki.zksc.io/JapanFG/prudential-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-life-insurance-big-four
+
 ### pring
 - URL: https://finwiki.zksc.io/JapanFG/pring
 - Source path: JapanFG/pring.md
@@ -3740,6 +3990,26 @@ Public pages listed: 1012
 - Headings: プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan), Wiki route, TL;DR, 1. 公司结构, 3 生保の連結ポジション ^[extracted], 主要構造図, 合併歴史・買収譜系, 重要年表（抜粋）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/axa-japan, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/meiji-yasuda, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/smfg, https://finwiki.zksc.io/sony-fg
 
+### PwC Japan 有限責任監査法人 (旧 PwC あらた)
+- URL: https://finwiki.zksc.io/JapanFG/pwc-aarata
+- Source path: JapanFG/pwc-aarata.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pwc-aarata.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside トーマツ (Deloitte) and EY 新日本 for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
+- Headings: PwC Japan 有限責任監査法人 (旧 PwC あらた), TL;DR, Wiki route, 1. 法人概要, 規模（公開ベース概算）^[inferred], 2. 沿革, 3. 金融サービス監査・アドバイザリー実務, FinTech / 暗号資産 ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/sompo, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
+
+### QBE Japan / QBEインシュアランス・ジャパン
+- URL: https://finwiki.zksc.io/JapanFG/qbe-japan
+- Source path: JapanFG/qbe-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/qbe-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against Lloyd's Japan and FM Global Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.
+- Headings: QBE Japan / QBEインシュアランス・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aig-japan, https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan, https://finwiki.zksc.io/JapanFG/chubb-insurance-japan, https://finwiki.zksc.io/JapanFG/fm-global-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/lloyd-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-nonlife-big-three, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan
+
 ### 楽天カード (Rakuten Card)
 - URL: https://finwiki.zksc.io/JapanFG/rakuten-card
 - Source path: JapanFG/rakuten-card.md
@@ -3748,7 +4018,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: 楽天カード (Rakuten Card), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/card-acquiring-japan-stack, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### 楽天Edy
 - URL: https://finwiki.zksc.io/JapanFG/rakuten-edy
@@ -3758,7 +4028,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.
 - Headings: 楽天Edy, Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/rakuten-card, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/rakuten-card, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index, https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
 
 ### 楽天グループ金融事業 (Rakuten FG)
 - URL: https://finwiki.zksc.io/JapanFG/rakuten-fg
@@ -4198,7 +4468,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against きらやか銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 仙台銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/77-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/kirayaka-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/kirayaka-bank
+- First resolved wikilinks: https://finwiki.zksc.io/77-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/kirayaka-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/kirayaka-bank
 
 ### セブン銀行 (Seven Bank)
 - URL: https://finwiki.zksc.io/JapanFG/seven-bank
@@ -4470,6 +4740,16 @@ Public pages listed: 1012
 - Headings: ソシエテ・ジェネラル日本 (Societe Generale Japan), Wiki route, TL;DR, 1. 公司结构, 2. 业务线 map, 3. 战略与竞争, 4. 监管与政策, Counterpoints
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bank-of-america-japan, https://finwiki.zksc.io/JapanFG/barclays-japan, https://finwiki.zksc.io/JapanFG/bnp-paribas-japan, https://finwiki.zksc.io/JapanFG/deutsche-japan, https://finwiki.zksc.io/JapanFG/goldman-sachs-japan, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/morgan-stanley-japan, https://finwiki.zksc.io/JapanFG/standard-chartered-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/securities/INDEX
 
+### 双日 (Sojitz Corporation)
+- URL: https://finwiki.zksc.io/JapanFG/sojitz-corp
+- Source path: JapanFG/sojitz-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sojitz-corp.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 双日フ
+- Headings: 双日 (Sojitz Corporation), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing, https://finwiki.zksc.io/JapanFG/kanematsu-leasing, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp
+
 ### 双日フィナンス (Sojitz Finance)
 - URL: https://finwiki.zksc.io/JapanFG/sojitz-finance
 - Source path: JapanFG/sojitz-finance.md
@@ -4600,6 +4880,16 @@ Public pages listed: 1012
 - Headings: スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo), Wiki route, TL;DR, 1. 公司结构, グループ・ポジション（親会社）, 主要法人（日本関連）, 2. 重要历史, 3. 业务线 map（日本拠点）
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/citigroup-japan, https://finwiki.zksc.io/hsbc-japan, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg
 
+### Starr Insurance Japan / スター・インシュアランス・ジャパン
+- URL: https://finwiki.zksc.io/JapanFG/starr-insurance-japan
+- Source path: JapanFG/starr-insurance-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/starr-insurance-japan.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it against AIG Japan and Chubb Insurance Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.
+- Headings: Starr Insurance Japan / スター・インシュアランス・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Counterpoints, Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aig-japan, https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan, https://finwiki.zksc.io/JapanFG/chubb-insurance-japan, https://finwiki.zksc.io/JapanFG/fm-global-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/lloyd-japan, https://finwiki.zksc.io/JapanFG/qbe-japan, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/japan-nonlife-big-three
+
 ### スターツ信託 (Starts Trust)
 - URL: https://finwiki.zksc.io/JapanFG/starts-trust
 - Source path: JapanFG/starts-trust.md
@@ -4649,6 +4939,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against SMFL (the same-parent 外向けリース・asset finance JV with SMFG) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 伊藤忠ファイナンス, 丸紅フィナンス. See banking index for the broader regulatory boundary.
 - Headings: 住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management), Wiki route, TL;DR, 1. 公司结构, 住友グループ + SMFG 金融機能の配置, 2. 业务线 map, 3. 战略与竞争, 住友商事の事業構造と金融機能
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/itochu-finance, https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing, https://finwiki.zksc.io/JapanFG/marubeni-financial-services, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/mizuho-lease, https://finwiki.zksc.io/JapanFG/smbc-card, https://finwiki.zksc.io/JapanFG/smfg
+
+### 住友商事 (Sumitomo Corporation)
+- URL: https://finwiki.zksc.io/JapanFG/sumitomo-corp
+- Source path: JapanFG/sumitomo-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sumitomo-corp.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especially SMFL (三井住友ファイナ
+- Headings: 住友商事 (Sumitomo Corporation), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/smfl, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management
 
 ### 住友生命保険相互会社 (Sumitomo Life)
 - URL: https://finwiki.zksc.io/JapanFG/sumitomo-life
@@ -4748,7 +5048,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.
 - Headings: 大光銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/sbi-regional-bank-hd
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/daishi-hokuetsu-bank, https://finwiki.zksc.io/sbi-regional-bank-hd
 
 ### 台北富邦商業銀行日本 (Taipei Fubon Bank Japan)
 - URL: https://finwiki.zksc.io/JapanFG/taipei-fubon-bank-japan
@@ -4789,6 +5089,16 @@ Public pages listed: 1012
 - Summary: Taiwan Cooperative Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Chang Hwa Bank Japan, First Commercial Bank Japan, Taiwan Business Bank Japan, and banking index.
 - Headings: 合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/chang-hwa-bank-japan, https://finwiki.zksc.io/JapanFG/first-commercial-bank-japan, https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route, https://finwiki.zksc.io/JapanFG/taipei-fubon-bank-japan, https://finwiki.zksc.io/JapanFG/taiwan-business-bank-japan, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan
+
+### 太陽有限責任監査法人 (Grant Thornton Taiyo)
+- URL: https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton
+- Source path: JapanFG/taiyo-grant-thornton.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/taiyo-grant-thornton.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
+- Headings: 太陽有限責任監査法人 (Grant Thornton Taiyo), TL;DR, Wiki route, 1. 法人概要, 規模（公開ベース概算）^[inferred], 2. 沿革, 3. 金融サービス監査・アドバイザリー実務, IPO 準備支援（最大強み）^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
 
 ### 太陽生命保険
 - URL: https://finwiki.zksc.io/JapanFG/taiyo-life
@@ -4858,7 +5168,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 東京スター銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 栃木銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/tokyo-star-bank, https://finwiki.zksc.io/ashikaga-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/towa-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/tokyo-star-bank, https://finwiki.zksc.io/ashikaga-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/towa-bank
 
 ### 東邦銀行 (Toho Bank)
 - URL: https://finwiki.zksc.io/JapanFG/toho-bank
@@ -4878,7 +5188,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 荘内銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 東北銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Boundary note, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/shonai-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/iwate-bank, https://finwiki.zksc.io/kita-nippon-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/shonai-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/iwate-bank, https://finwiki.zksc.io/kita-nippon-bank
 
 ### 東海東京 FH (Tokai Tokyo Financial Holdings)
 - URL: https://finwiki.zksc.io/JapanFG/tokai-tokyo-fh
@@ -5028,7 +5338,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 富山銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/toyama-first-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/toyama-first-bank
 
 ### 富山第一銀行
 - URL: https://finwiki.zksc.io/JapanFG/toyama-first-bank
@@ -5038,7 +5348,7 @@ Public pages listed: 1012
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 富山第一銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/tokushima-taisho-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/toyama-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/tokushima-taisho-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/toyama-bank
 
 ### トヨタファイナンス
 - URL: https://finwiki.zksc.io/JapanFG/toyota-finance
@@ -5059,6 +5369,16 @@ Public pages listed: 1012
 - Summary: This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: トヨタファイナンシャルサービス (TFS), Wiki route, TL;DR, 1. 公司结构, 主要子会社・グループ会社, 業態カテゴリ, 2. 重要历史・年表, 3. 业务线 map
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/manufacturing/toyota-motor, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/orix-corp, https://finwiki.zksc.io/tokyo-century
+
+### 豊田通商 (Toyota Tsusho Corporation)
+- URL: https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp
+- Source path: JapanFG/toyota-tsusho-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/toyota-tsusho-corp.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For the financial-serv
+- Headings: 豊田通商 (Toyota Tsusho Corporation), Wiki route, TL;DR, 1. 公司结构, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 业务线 map, 3. Financial-services adjacency
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aichi-fg, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp, https://finwiki.zksc.io/JapanFG/tepco-hd, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance
 
 ### 豊田通商フィナンス (Toyota Tsusho Finance)
 - URL: https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance
@@ -5350,6 +5670,16 @@ Public pages listed: 1012
 - Headings: ゆうちょ銀行 (Japan Post Bank), Wiki route, TL;DR, 1. 公司结构, 主要数値（公開ベース・直近実績）^[ambiguous], 親会社・グループ構造, 重要年表 ^[extracted], 2. 业务线 map
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg
 
+### Zaim (ザイム)
+- URL: https://finwiki.zksc.io/JapanFG/zaim
+- Source path: JapanFG/zaim.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zaim.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under the JapanFG index as a PFM (Personal Financial Management) app sitting next to the much larger Money Forward ME peer. Read it with the Japan BNPL landscape for adjacent consumer-finance context, the freee / SmartBank sibling household-finance set, and the au フィナンシャル HD corporat
+- Headings: Zaim (ザイム), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why this standalone page matters, 4. 监管与政策, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/au-fh, https://finwiki.zksc.io/JapanFG/au-payment, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/famima-digital-one, https://finwiki.zksc.io/JapanFG/freee, https://finwiki.zksc.io/JapanFG/money-forward, https://finwiki.zksc.io/JapanFG/smartbank, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index, https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary, https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix
+
 ### Regional Banks Association of Japan (Zenchūgin-kyō / 全国地方銀行協会)
 - URL: https://finwiki.zksc.io/JapanFG/zenchugin-kyo
 - Source path: JapanFG/zenchugin-kyo.md
@@ -5379,6 +5709,16 @@ Public pages listed: 1012
 - Summary: Wiki route: JapanFG/INDEX -> insurance/INDEX -> JapanFG/zenkankyo-reiwa-insurance
 - Headings: Zenkankyo Reiwa Insurance / 全管協れいわ損害保険, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/rescue-insurance, https://finwiki.zksc.io/JapanFG/sakura-insurance, https://finwiki.zksc.io/JapanFG/zenkankyo-reiwa-insurance, https://finwiki.zksc.io/insurance/INDEX
+
+### 全労済 / こくみん共済 coop (全国労働者共済生活協同組合連合会 / National Federation of Workers and Consumers Insurance Cooperatives)
+- URL: https://finwiki.zksc.io/JapanFG/zenrosai
+- Source path: JapanFG/zenrosai.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zenrosai.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as a workers' / consumer-cooperative-based mutual-aid (共済) federation outside the JA / JF / shinkin / shinkumi axis. Read with JA 共済連 for the agricultural cooperative kyosai peer, 共栄火災海上保険 for cooperative-system non-life adjacency, insurance domain for the kyosai-
+- Headings: 全労済 / こくみん共済 coop (全国労働者共済生活協同組合連合会 / National Federation of Workers and Consumers Insurance Cooperatives), Wiki route, TL;DR, 1. 組織構造, 生協系共済 vs 農協系共済 ^[extracted], 重要年表 ^[extracted], 2. 業務内容, 主力共済商品 ^[extracted]
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine, https://finwiki.zksc.io/JapanFG/lifenet, https://finwiki.zksc.io/JapanFG/meiji-yasuda, https://finwiki.zksc.io/JapanFG/msad, https://finwiki.zksc.io/JapanFG/nippon-life, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/sompo, https://finwiki.zksc.io/JapanFG/sumitomo-life
 
 ### 全国信用協同組合連合会 (全信組連)
 - URL: https://finwiki.zksc.io/JapanFG/zenshin-kumi
@@ -5750,6 +6090,16 @@ Public pages listed: 1012
 - Headings: Japan BaaS operating models, Overview, Operating-Model Matrix, Legal Stack Versus UX Stack, Case Set, Minna Bank, SSNB NEOBANK, GMO Aozora
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/gmo-aozora-net, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/JapanFG/ui-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/japan-net-bank-competition-map, https://finwiki.zksc.io/banking/mercari-bank, https://finwiki.zksc.io/banking/mercari-bank-license-stack, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/banking/quick-deposit-four-methods, https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route
 
+### Japan banking-license tier comparison matrix
+- URL: https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix
+- Source path: banking/japan-banking-license-tier-comparison-matrix.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-banking-license-tier-comparison-matrix.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This
+- Headings: Japan banking-license tier comparison matrix, TL;DR, Wiki route, Why a tier matrix matters, Tier 1 — Megabank (普通銀行 / 都市銀行), Tier 2 — Regional bank (地方銀行), Tier 3 — Second regional bank (第二地方銀行), Tier 4 — Trust bank (信託銀行)
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/norinchukin\, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/shinkin-central\, https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko, https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko\, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan
+
 ### Japan master trust and custody bank landscape
 - URL: https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape
 - Source path: banking/japan-master-trust-and-custody-bank-landscape.md
@@ -5779,6 +6129,16 @@ Public pages listed: 1012
 - Summary: Japan's trust-bank / custody layer separates legal title, beneficial owner, asset administration, investment instruction, corporate actions, voting, stock lending, and fund accounting. The key mistake is to read "trust account" nominee names in filings as if the trust bank itself were the economic i
 - Headings: Japan trust bank and custody map, Overview, Function Map, Main Institution Types, Interpretation Rules, Capital-Market Links, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/clearstream-banking-japan, https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/euroclear-bank-japan, https://finwiki.zksc.io/JapanFG/japan-securities-finance, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/smtb, https://finwiki.zksc.io/JapanFG/state-street-japan, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust
+
+### Japan trust bank vs global custodian comparison matrix
+- URL: https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix
+- Source path: banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks
+- Headings: Japan trust bank vs global custodian comparison matrix, TL;DR, Wiki route, Population covered, Comparison Matrix (Japanese trust banks), Comparison Matrix (global custodians in Japan), Cross-camp matrix view, Master Trust vs Custody Bank of Japan — 2020 統合の意味
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/clearstream-banking-japan, https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/euroclear-bank-japan, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/jsf-trust-bank, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/mufg-bank
 
 ### JF Marine Bank system in Japan
 - URL: https://finwiki.zksc.io/banking/jf-marine-bank-system-japan
@@ -8869,6 +9229,16 @@ Public pages listed: 1012
 - Headings: Japan code-payment competitive map, Overview, Competitive Lanes, What Actually Drives Competition, Operator Lens, Counterpoints, Open Questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/au-fh, https://finwiki.zksc.io/JapanFG/au-payment, https://finwiki.zksc.io/JapanFG/gmo-payment-gateway, https://finwiki.zksc.io/JapanFG/jal-payment-port, https://finwiki.zksc.io/JapanFG/mercari-hd, https://finwiki.zksc.io/JapanFG/merpay, https://finwiki.zksc.io/JapanFG/ndfg, https://finwiki.zksc.io/JapanFG/netstars, https://finwiki.zksc.io/JapanFG/paypay, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/rakuten-card
 
+### Japan consumer-credit operator comparison matrix
+- URL: https://finwiki.zksc.io/payments/japan-consumer-credit-operator-comparison-matrix
+- Source path: payments/japan-consumer-credit-operator-comparison-matrix.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/payments/japan-consumer-credit-operator-comparison-matrix.md
+- Domain: payments
+- Type: wiki_entry
+- Summary: "Consumer credit" in Japan is not one industry — it is at least nine operator categories that look similar at checkout but sit on different licenses, different regulators, different lending caps, different interest-rate ceilings, and different consumer-protection regimes. A reader who flattens カードロー
+- Headings: Japan consumer-credit operator comparison matrix, TL;DR, Wiki route, Nine operator categories, Comparison matrix — full, Category-by-category notes, 1. Card issuer (クレジットカード会社 / 包括信用購入あっせん業者), 2. Consumer finance / shoko-loan (消費者金融 / 貸金業者)
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/acom, https://finwiki.zksc.io/JapanFG/acom\, https://finwiki.zksc.io/JapanFG/aeon-financial-service, https://finwiki.zksc.io/JapanFG/aiful, https://finwiki.zksc.io/JapanFG/aiful\, https://finwiki.zksc.io/JapanFG/aplus, https://finwiki.zksc.io/JapanFG/aplus\, https://finwiki.zksc.io/JapanFG/bnpl-landscape, https://finwiki.zksc.io/JapanFG/jaccs, https://finwiki.zksc.io/JapanFG/jaccs\, https://finwiki.zksc.io/JapanFG/jcb
+
 ### Japan interchange and merchant fee stack
 - URL: https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack
 - Source path: payments/japan-interchange-and-merchant-fee-stack.md
@@ -8969,6 +9339,26 @@ Public pages listed: 1012
 - Headings: Japan credit guarantee system, Wiki route, TL;DR, 1. System boundary, 2. Operating logic, 3. Why it matters, 4. Boundary cases, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/banking/credit-cooperative-registry-japan, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations
 
+### Japan Export-Import Bank (historical predecessor of JBIC)
+- URL: https://finwiki.zksc.io/policy-finance/japan-eximbank-history
+- Source path: policy-finance/japan-eximbank-history.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-eximbank-history.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's principal state export-credit and overseas-investment lending institution from 1950 to 1999. In 1999 it merged with the Overseas Economic Cooperation Fund (海外経済協力基金 / OECF) to form the original Japan Bank for International Cooperation (JBIC)
+- Headings: Japan Export-Import Bank (historical predecessor of JBIC), TL;DR, 1. Institutional boundary, 2. Why this page exists separately, 3. Function map (historical), 4. Historical trajectory, 5. Institutional significance, 6. Boundary cases
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram, https://finwiki.zksc.io/policy-finance/jica, https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement
+
+### Japan Finance Organization for Municipalities (JFM)
+- URL: https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities
+- Source path: policy-finance/japan-finance-organization-municipalities.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-finance-organization-municipalities.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: Japan Finance Organization for Municipalities is the joint-funded public credit institution that supplies long-term low-cost loans to all 47 prefectures and municipalities for water, sewerage, transport, hospital, school, disaster-recovery, and general local-finance needs. It is not a national-gover
+- Headings: Japan Finance Organization for Municipalities (JFM), TL;DR, 1. Institutional boundary, 2. Function map, 3. System position, 4. Historical trajectory, 5. Why it matters, 6. Boundary cases
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/local-govt-finance, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram
+
 ### Japan Housing Finance Agency (JHF)
 - URL: https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency
 - Source path: policy-finance/japan-housing-finance-agency.md
@@ -8978,6 +9368,16 @@ Public pages listed: 1012
 - Summary: Japan Housing Finance Agency is Japan's housing-finance policy institution. It supports private housing finance through securitization support, housing loan insurance, and direct lending in areas where ordinary private finance is incomplete, including disaster recovery and housing-related public-pol
 - Headings: Japan Housing Finance Agency (JHF), TL;DR, 1. Institutional boundary, 2. Function map, 3. Why it matters, 4. Boundary cases, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations, https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp
+
+### Japan Local Government Bond Association (Chihousai Kyoukai)
+- URL: https://finwiki.zksc.io/policy-finance/japan-local-bond-association
+- Source path: policy-finance/japan-local-bond-association.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-local-bond-association.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: The Japan Local Government Bond Association (公益社団法人地方債協会) is the public-interest incorporated association that coordinates, researches, and publishes on Japan's local-government bond market. It is the canonical published source for local-bond-market structure, issuance statistics, joint-issuance arr
+- Headings: Japan Local Government Bond Association (Chihousai Kyoukai), TL;DR, 1. Institutional boundary, 2. Function map, 3. Why it matters for FinWiki, 4. System position, 5. Boundary cases, 6. Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/local-govt-finance, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/local-government-bond-market, https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations
 
 ### Japan policy finance system
 - URL: https://finwiki.zksc.io/policy-finance/japan-policy-finance-system
@@ -9029,6 +9429,16 @@ Public pages listed: 1012
 - Headings: JOGMEC (Japan Organization for Metals and Energy Security), Wiki route, TL;DR, Role map, Strategic read, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/nexi, https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement
 
+### Local government bond market (Japan policy-finance perspective)
+- URL: https://finwiki.zksc.io/policy-finance/local-government-bond-market
+- Source path: policy-finance/local-government-bond-market.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/local-government-bond-market.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: The Japanese local government bond market is the capital-market interface for prefecture and municipality finance. It is structurally distinct from JGBs: issuance volumes are smaller, credit analysis incorporates the Local Allocation Tax fiscal-equalization layer, and a meaningful share of debt is f
+- Headings: Local government bond market (Japan policy-finance perspective), TL;DR, 1. Issuance channels, 2. Issuer / credit logic, 3. Why it sits in policy-finance, 4. Connection to other markets, 5. Boundary cases, 6. Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/local-govt-finance, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/money-market/jgb-repo-market-japan, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system
+
 ### Japan Federation of Credit Guarantee Corporations
 - URL: https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations
 - Source path: policy-finance/national-federation-credit-guarantee-corporations.md
@@ -9068,6 +9478,36 @@ Public pages listed: 1012
 - Summary: This entry sits under policy-finance index. Read it against NEXI (Nippon Export and Investment Insurance) for peer / contrast context and Japan policy finance system for the broader system / regulatory boundary.
 - Headings: 沖縄振興開発金融公庫 (ODFC), Wiki route, TL;DR, Role map, Strategic read, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/okinawa-fg, https://finwiki.zksc.io/JapanFG/okinawa-kaiho-bank, https://finwiki.zksc.io/JapanFG/okinawa-shinko, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/nexi
+
+### Osaka Credit Guarantee Corporation
+- URL: https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp
+- Source path: policy-finance/osaka-credit-guarantee-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/osaka-credit-guarantee-corp.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: Osaka Credit Guarantee Corporation (大阪信用保証協会) is the Osaka-prefecture member of Japan's 51-corporation local credit guarantee system. It is typically the second-largest local corporation by guarantee balance after Tokyo Credit Guarantee Corporation, reflecting Osaka's status as the Kansai SME / manu
+- Headings: Osaka Credit Guarantee Corporation, TL;DR, 1. Institutional boundary, 2. Function map, 3. Why it matters, 4. Boundary cases, 5. Comparison with Tokyo CGC, 6. Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations, https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp
+
+### Tokyo Credit Guarantee Corporation
+- URL: https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp
+- Source path: policy-finance/tokyo-credit-guarantee-corp.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/tokyo-credit-guarantee-corp.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: Tokyo Credit Guarantee Corporation (東京信用保証協会) is the Tokyo-metropolis member of Japan's 51-corporation local credit guarantee system. It is consistently the largest single corporation in the federation by guarantee balance, eligible-borrower count, and policy-program scale, because the Tokyo metropo
+- Headings: Tokyo Credit Guarantee Corporation, TL;DR, 1. Institutional boundary, 2. Function map, 3. Why it matters, 4. System anchoring, 5. Boundary cases, 6. Open questions
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/banking/credit-cooperative-registry-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency
+
+### Tokyo Metropolitan Bond (Tokyo-to-sai)
+- URL: https://finwiki.zksc.io/policy-finance/tokyo-metropolitan-bond
+- Source path: policy-finance/tokyo-metropolitan-bond.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/tokyo-metropolitan-bond.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: Tokyo Metropolitan Bonds (東京都債 / Tokyo-to-sai) are debt securities issued by the Tokyo Metropolitan Government. As the largest single local-government issuer in Japan by tax base and issuance volume, Tokyo Metropolis is the benchmark issuer for the Japanese local government bond market and is treate
+- Headings: Tokyo Metropolitan Bond (Tokyo-to-sai), TL;DR, 1. Issuer boundary, 2. Why Tokyo Metropolitan Bond is a special case, 3. Issuance program logic, 4. Position in the broader policy-finance map, 5. Boundary cases, 6. Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/local-govt-finance, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities, https://finwiki.zksc.io/policy-finance/japan-local-bond-association, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram, https://finwiki.zksc.io/policy-finance/local-government-bond-market
 
 ### v2026.05.20-2 Release運用ルール更新
 - URL: https://finwiki.zksc.io/releases/v2026.05.20-2

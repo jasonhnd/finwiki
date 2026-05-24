@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-東日本銀行は、東京都内と首都圏の SME lending, relationship banking, deposit, and local business support を担う second regional bank。[[yokohama-bank]] が神奈川 retail / public-sector core である一方、東日本銀行は都内中小企業特化の role を持つ。
+東日本銀行は、東京都内と首都圏の SME lending, relationship banking, deposit, and local business support を担う second regional bank。[[yokohama-bank]] が神奈川 retail / public-sector core である一方、東日本銀行は都内中小企業特化の role を持つ。Kanto second-regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

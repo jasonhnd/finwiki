@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-愛媛銀行は、愛媛県を中心に retail deposits, SME finance, local relationship banking, and Shikoku-area customer support を担う second regional bank。愛媛県内では [[iyo-bank]] / [[iyogin-hd]] side と first / second-regional-bank peer boundary を持つ。
+愛媛銀行は、愛媛県を中心に retail deposits, SME finance, local relationship banking, and Shikoku-area customer support を担う second regional bank。愛媛県内では [[iyo-bank]] / [[iyogin-hd]] side と first / second-regional-bank peer boundary を持つ。Shikoku second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

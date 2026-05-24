@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-なないろ生命は、traditional mutual-company insurer の [[asahi-life]] と違い、newer product / agency-channel surface を持つ specialist entity。大手 life insurer groups が separate subsidiaries を使って channel / product strategy を分ける例として扱う。
+なないろ生命は、traditional mutual-company insurer の [[asahi-life]] と違い、newer product / agency-channel surface を持つ specialist entity。大手 life insurer groups が separate subsidiaries を使って channel / product strategy を分ける例として扱う。Cross-frame solvency context は [[insurance/global-solvency-framework-comparison-matrix]] を参照。
 
 ## 3. Why this page matters
 

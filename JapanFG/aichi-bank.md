@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-あいち銀行は、愛知県の retail deposits, SME finance, Chukyo manufacturing supply-chain finance, business succession, and local consulting を担う second regional bank。[[aichi-fg]] page は holding-company integration and strategy を扱い、本ページは current bank-license entity を扱う。
+あいち銀行は、愛知県の retail deposits, SME finance, Chukyo manufacturing supply-chain finance, business succession, and local consulting を担う second regional bank。[[aichi-fg]] page は holding-company integration and strategy を扱い、本ページは current bank-license entity を扱う。Chukyo regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-鹿児島銀行は、鹿児島県を中心に retail deposits, SME finance, agriculture / fisheries / tourism support, and South Kyushu relationship banking を担う regional bank。[[kyushu-fg]] page は group strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。
+鹿児島銀行は、鹿児島県を中心に retail deposits, SME finance, agriculture / fisheries / tourism support, and South Kyushu relationship banking を担う regional bank。[[kyushu-fg]] page は group strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

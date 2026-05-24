@@ -38,8 +38,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[payments/I
 ## 2. Business role
 
 - Operates an early and still material prepaid electronic-money rail.
-- Connects Rakuten points, Rakuten Cash, Rakuten Pay, card recharge, and merchant acceptance.
-- Useful for separating prepaid stored value from credit-card and bank-account products.
+- Connects Rakuten points, Rakuten Cash, Rakuten Pay, card recharge, and merchant acceptance; see [[payments/japan-payment-scheme-economics-matrix]] for prepaid scheme economics.
+- Useful for separating prepaid stored value from credit-card and bank-account products — also surfaced in [[payments/funds-transfer-service-providers-japan-index]].
 
 ## 3. Why this standalone page matters
 

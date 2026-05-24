@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 2. Operating model
 
-宮崎太陽銀行は、宮崎県内の retail deposits, SME finance, consumer banking, and local relationship banking を担う second regional bank。[[miyazaki-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。
+宮崎太陽銀行は、宮崎県内の retail deposits, SME finance, consumer banking, and local relationship banking を担う second regional bank。[[miyazaki-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。Kyushu second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

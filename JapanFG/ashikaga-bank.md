@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-足利銀行は、栃木県を中心に retail, SME, public-sector, housing-loan, and regional-development finance を担う regional bank。2003 年の一時国有化 history は [[mebuki-fg]] page で詳述し、この page は現行の bank-license and operating-company boundary を担当する。
+足利銀行は、栃木県を中心に retail, SME, public-sector, housing-loan, and regional-development finance を担う regional bank。2003 年の一時国有化 history は [[mebuki-fg]] page で詳述し、この page は現行の bank-license and operating-company boundary を担当する。Kanto regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

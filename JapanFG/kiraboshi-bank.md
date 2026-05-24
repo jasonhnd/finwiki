@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-きらぼし銀行は、東京都内と首都圏を中心に SME finance, retail deposits, wealth / securities intermediation, business succession, and digital-bank adjacency を担う regional bank。[[kiraboshi-fg]] page covers the holding-company and group strategy; this page separates the actual bank license and branch / customer surface.
+きらぼし銀行は、東京都内と首都圏を中心に SME finance, retail deposits, wealth / securities intermediation, business succession, and digital-bank adjacency を担う regional bank。[[kiraboshi-fg]] page covers the holding-company and group strategy; this page separates the actual bank license and branch / customer surface. Tokyo / Kanto regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-仙台銀行は、宮城県内の retail, SME, reconstruction-related finance, business loans, and local consulting を担う second regional bank。[[jimoto-hd]] page covers the public-funds and holding-company angle; this page separates the bank license and operating footprint.
+仙台銀行は、宮城県内の retail, SME, reconstruction-related finance, business loans, and local consulting を担う second regional bank。[[jimoto-hd]] page covers the public-funds and holding-company angle; this page separates the bank license and operating footprint. Tohoku second-regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

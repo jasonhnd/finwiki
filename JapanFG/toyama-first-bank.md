@@ -36,13 +36,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-富山第一銀行 is a second regional bank with local retail / SME / regional corporate relationships. In the Hokuriku bank map, it should not be folded into [[hokuhoku-fg]] or [[hokkoku-fhd]] because it is a separate licensed bank and competitor.
+富山第一銀行 is a second regional bank with local retail / SME / regional corporate relationships. In the Hokuriku bank map, it should not be folded into [[hokuhoku-fg]] or [[hokkoku-fhd]] because it is a separate licensed bank and competitor. See [[banking/regional-bank-consolidation-pattern]] for the broader second-regional-bank pressure curve.
 
 ## 3. Why this page matters
 
 - Adds a second-regional-bank exact-name page.
 - Completes the first Hokuriku B2 slice alongside [[hokuriku-bank]], [[hokkoku-bank]], and [[toyama-bank]].
-- Registry-backed B2.1 regional-bank operating-company page.
+- Registry-backed B2.1 regional-bank operating-company page, indexed under [[JapanFG/INDEX|JapanFG index]].
 
 ## Related
 

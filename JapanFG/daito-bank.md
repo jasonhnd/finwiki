@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-大東銀行は、福島県中通りを中心に retail, SME lending, local deposits, cards / credit-adjacent group services, and community finance を担う second regional bank。公式会社概要では郡山市中町の本店、1942 年設立、普通銀行への転換 history が確認できる。
+大東銀行は、福島県中通りを中心に retail, SME lending, local deposits, cards / credit-adjacent group services, and community finance を担う second regional bank。公式会社概要では郡山市中町の本店、1942 年設立、普通銀行への転換 history が確認できる。Tohoku second-regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

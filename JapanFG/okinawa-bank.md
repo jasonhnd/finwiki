@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-沖縄銀行は、沖縄県を中心に retail deposits, SME finance, tourism / construction finance, trust-agency-adjacent services, and island economy relationship banking を担う regional bank。[[okinawa-fg]] page は holding-company strategy and group financials を扱い、本ページは bank-license entity を扱う。
+沖縄銀行は、沖縄県を中心に retail deposits, SME finance, tourism / construction finance, trust-agency-adjacent services, and island economy relationship banking を担う regional bank。[[okinawa-fg]] page は holding-company strategy and group financials を扱い、本ページは bank-license entity を扱う。Okinawa / Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

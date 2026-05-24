@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-トマト銀行は、岡山県を中心に retail deposits, SME finance, local consumer banking, and regional relationship services を担う second regional bank。[[chugoku-bank]] が県内 primary regional bank anchor であるのに対し、トマト銀行は second-regional-bank exact-name anchor として整理する。
+トマト銀行は、岡山県を中心に retail deposits, SME finance, local consumer banking, and regional relationship services を担う second regional bank。[[chugoku-bank]] が県内 primary regional bank anchor であるのに対し、トマト銀行は second-regional-bank exact-name anchor として整理する。Chugoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

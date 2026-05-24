@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-きらやか銀行は、山形県内の retail deposits, SME finance, business-support services, and local restructuring support を担う second regional bank。[[jimoto-hd]] page covers group-level public-funds and shareholder structure; this page keeps the bank license and local branch footprint visible.
+きらやか銀行は、山形県内の retail deposits, SME finance, business-support services, and local restructuring support を担う second regional bank。[[jimoto-hd]] page covers group-level public-funds and shareholder structure; this page keeps the bank license and local branch footprint visible. Tohoku second-regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

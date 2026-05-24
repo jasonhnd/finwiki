@@ -37,12 +37,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 2. Operating model
 
-豊和銀行は、大分県内の retail deposits, SME finance, consumer banking, and local relationship banking を担う second regional bank。[[oita-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。
+豊和銀行は、大分県内の retail deposits, SME finance, consumer banking, and local relationship banking を担う second regional bank。[[oita-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。九州 second-regional-bank の整理動向は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for 豊和銀行.
-- Completes the Oita first / second regional-bank peer pair.
+- Completes the Oita first / second regional-bank peer pair, indexed via [[JapanFG/INDEX|JapanFG index]].
 - Provides a Kyushu second-regional-bank anchor for shared-system and consolidation analysis.
 
 ## Related

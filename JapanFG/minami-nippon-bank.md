@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-南日本銀行は、鹿児島県内の retail deposits, SME finance, consumer banking, and local relationship banking を担う second regional bank。[[kagoshima-bank]] page は [[kyushu-fg]] core-bank boundary を扱い、本ページは independent second-regional-bank license boundary を扱う。
+南日本銀行は、鹿児島県内の retail deposits, SME finance, consumer banking, and local relationship banking を担う second regional bank。[[kagoshima-bank]] page は [[kyushu-fg]] core-bank boundary を扱い、本ページは independent second-regional-bank license boundary を扱う。Kyushu second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

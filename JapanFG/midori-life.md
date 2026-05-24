@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - Closes a FSA 41 exact-name gap.
 - Keeps the life-insurer registry complete without overfitting to only large groups.
-- Provides a future route for product / disclosure review if needed.
+- Provides a future route for product / disclosure review if needed; cross-frame solvency comparisons live at [[insurance/global-solvency-framework-comparison-matrix]].
 
 ## Related
 

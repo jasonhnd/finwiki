@@ -44,7 +44,7 @@ PayPay証券は [[JapanFG/paypay-fg|PayPay financial ecosystem]] に属するス
 
 ## 3. Why standalone page matters
 
-PayPay証券は「証券会社」だけでなく、payment super-app に証券機能を埋め込む実験でもある。手数料・商品ラインアップだけでなく、PayPay 残高 / ポイント / 決済アプリから投資行動への転換を見る必要がある。
+PayPay証券は「証券会社」だけでなく、payment super-app に証券機能を埋め込む実験でもある。手数料・商品ラインアップだけでなく、PayPay 残高 / ポイント / 決済アプリから投資行動への転換を見る必要がある。Smartphone broker / FIBO ライセンス比較は [[securities/financial-instruments-business-operators-japan-index]] を、資産運用業界全体の比較は [[securities/japan-asset-manager-landscape-matrix]] を参照。
 
 ## Related
 

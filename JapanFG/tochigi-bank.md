@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-栃木銀行は、栃木県内の retail deposits, SME loans, community finance, and local consulting を担う second regional bank。[[ashikaga-bank]] and [[mebuki-fg]] coverage とは別に、地域金融の competitive layer を見るための bank-license anchor になる。
+栃木銀行は、栃木県内の retail deposits, SME loans, community finance, and local consulting を担う second regional bank。[[ashikaga-bank]] and [[mebuki-fg]] coverage とは別に、地域金融の competitive layer を見るための bank-license anchor になる。Kanto second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

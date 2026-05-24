@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-筑邦銀行は、福岡県南部を中心に retail deposits, SME finance, local relationship banking, and Chikugo-area business support を担う regional bank。福岡県内では large-bank peers の [[fukuoka-bank]] / [[nishi-nippon-city-bank]] と別の local-bank boundary を持つ。
+筑邦銀行は、福岡県南部を中心に retail deposits, SME finance, local relationship banking, and Chikugo-area business support を担う regional bank。福岡県内では large-bank peers の [[fukuoka-bank]] / [[nishi-nippon-city-bank]] と別の local-bank boundary を持つ。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] と [[banking/INDEX|banking index]] を参照。
 
 ## 3. Why this page matters
 

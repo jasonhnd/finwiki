@@ -38,8 +38,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[payments/I
 ## 2. Business role
 
 - Converts Rakuten commerce and point activity into card usage and recurring account relationships.
-- Serves as a major data and rewards interface across the Rakuten ecosystem.
-- Anchors credit risk, fraud-control, and point-liability analysis for Rakuten's consumer finance surface.
+- Serves as a major data and rewards interface across the Rakuten ecosystem; scheme economics live at [[payments/japan-payment-scheme-economics-matrix]].
+- Anchors credit risk, fraud-control, and point-liability analysis for Rakuten's consumer finance surface — see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor split.
 
 ## 3. Why this standalone page matters
 

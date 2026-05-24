@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-肥後銀行は、熊本県を中心に retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking を担う regional bank。[[kyushu-fg]] page は holding-company strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。
+肥後銀行は、熊本県を中心に retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking を担う regional bank。[[kyushu-fg]] page は holding-company strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

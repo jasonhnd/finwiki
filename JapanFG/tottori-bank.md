@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-鳥取銀行は、鳥取県を中心に retail deposits, SME finance, tourism / agriculture support, and local relationship banking を担う regional bank。山陰地方では [[san-in-godo-bank]] が larger peer であり、鳥取銀行は Tottori-specific local-bank anchor として整理する。
+鳥取銀行は、鳥取県を中心に retail deposits, SME finance, tourism / agriculture support, and local relationship banking を担う regional bank。山陰地方では [[san-in-godo-bank]] が larger peer であり、鳥取銀行は Tottori-specific local-bank anchor として整理する。Chugoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

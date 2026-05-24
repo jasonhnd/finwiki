@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-京都銀行は、京都府の retail deposits, SME finance, listed-company relationships, tourism / traditional-industry finance, and Kansai-area corporate support を担う regional bank。[[kyoto-fg]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。
+京都銀行は、京都府の retail deposits, SME finance, listed-company relationships, tourism / traditional-industry finance, and Kansai-area corporate support を担う regional bank。[[kyoto-fg]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Kansai regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[insurance/
 
 ## 2. Operating model
 
-Life-insurer groups can hold non-life entities to support employee benefits, group insurance, affinity products, and complementary protection products. 明治安田損保 is a useful example because the parent group's core identity remains mutual life insurance.
+Life-insurer groups can hold non-life entities to support employee benefits, group insurance, affinity products, and complementary protection products. 明治安田損保 is a useful example because the parent group's core identity remains mutual life insurance. Capital / solvency framework comparison は [[insurance/global-solvency-framework-comparison-matrix]] を参照。
 
 ## 3. Why this page matters
 

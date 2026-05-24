@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-高知銀行は、高知県を中心に retail deposits, SME finance, local relationship banking, and regional customer support を担う second regional bank。高知県内では [[shikoku-bank]] と first / second-regional-bank peer boundary を持つ。
+高知銀行は、高知県を中心に retail deposits, SME finance, local relationship banking, and regional customer support を担う second regional bank。高知県内では [[shikoku-bank]] と first / second-regional-bank peer boundary を持つ。Shikoku second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] と [[banking/INDEX|banking index]] を参照。
 
 ## 3. Why this page matters
 

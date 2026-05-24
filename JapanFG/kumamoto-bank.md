@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-熊本銀行は、熊本県内の retail deposits, SME finance, consumer banking, and FFG group distribution を担う second regional bank。[[higo-bank]] page は Kyushu FG core-bank boundary を扱い、本ページは FFG-side Kumamoto license boundary を扱う。
+熊本銀行は、熊本県内の retail deposits, SME finance, consumer banking, and FFG group distribution を担う second regional bank。[[higo-bank]] page は Kyushu FG core-bank boundary を扱い、本ページは FFG-side Kumamoto license boundary を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

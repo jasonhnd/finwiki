@@ -122,6 +122,11 @@ Member shinkin operating-company pages now live under [[JapanFG/INDEX|JapanFG]];
 - [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]]
 - [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]]
 
+## Comparison matrices
+
+- [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] — 10 license tiers (megabank / regional / second regional / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF) across statute, regulator, capital floor, BIS / LCR, DICJ vs alternative deposit insurance, permitted activities, cross-border scope, governance, BoJ counterparty access.
+- [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] — 10 Japanese trust-bank custody operators vs 4 global custodians (BNY Mellon / State Street / JP Morgan / Citi) Japan operations across entity type, license, statutory role, AUC class, client types, cross-border, DVP / JSCC / JASDEC / ICSD gateways, specialty fields, M&A history.
+
 ## Backlog
 
 - Done: [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for Rakuten Bank / PayPay Bank / au Jibun Bank / SSNB / GMO Aozora / Minna Bank / Sony Bank / UI Bank comparison.

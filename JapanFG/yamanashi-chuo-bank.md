@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 2. Operating model
 
-山梨中央銀行は、山梨県内の retail deposits, SME finance, municipal / local-business relationships, tourism-adjacent finance, and Tokyo-neighboring corporate support を担う regional bank。首都圏に近いが、wiki では Kanto ではなく Chubu regional-bank batch の legal-name anchor として整理する。
+山梨中央銀行は、山梨県内の retail deposits, SME finance, municipal / local-business relationships, tourism-adjacent finance, and Tokyo-neighboring corporate support を担う regional bank。首都圏に近いが、wiki では Kanto ではなく Chubu regional-bank batch の legal-name anchor として整理する。Chubu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を、近隣 peer は [[hachijuni-nagano-bank]] と [[shizuoka-bank]] を参照。
 
 ## 3. Why this page matters
 
