@@ -50,11 +50,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 启动 | 2025-01 | 2026-2027 各国分批 |
 | 协同 | 重叠覆盖跨境美国客户 | 闭环全球加密 KYC |
 
-**三重监管闭环**:1099-DA(美国境内税务)+ CARF(跨境信息交换)+ GENIUS §501(链级 freeze)= 任何"加密匿名"叙事在 2026 之后已经无效。
+**三重监管闭环**:1099-DA(美国境内税务)+ CARF(跨境信息交换)+ GENIUS §501(链级 freeze)= 任何"加密匿名"叙事在 2026 之后已经无效。链级执法的实际先例见 [[fintech/chain-level-ofac-freeze-precedent|链级 OFAC freeze 先例]]。
 
 ## Origin & evolution
 
-2014 IRS Notice 2014-21 把加密定义为 property → 强制资本利得报告。2021 Infrastructure Investment and Jobs Act 创设 1099-DA 法定基础。2023 IRS final rule + 2024 amendments 细化 broker 定义。2025-01 1099-DA 生效。2024-2026 DeFi 定义多次修订,目前部分免除完全去中心化协议。与 OECD CARF 协同(2026-2027 各国分批 implementation)= 全球加密税务透明化。
+2014 IRS Notice 2014-21 把加密定义为 property → 强制资本利得报告。2021 Infrastructure Investment and Jobs Act 创设 1099-DA 法定基础。2023 IRS final rule + 2024 amendments 细化 broker 定义。2025-01 1099-DA 生效。2024-2026 DeFi 定义多次修订,目前部分免除完全去中心化协议。与 OECD CARF 协同(2026-2027 各国分批 implementation,详见 [[fintech/carf-1099da-end-of-crypto-anonymity|CARF + 1099-DA 加密匿名终结]])= 全球加密税务透明化。美国 VASP 监管的全景对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Counterpoints
 

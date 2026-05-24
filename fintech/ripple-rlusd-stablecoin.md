@@ -34,11 +34,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-RLUSD 与 USDC/USDT 的核心差异化: **不追求 DeFi 流动性深度** (USDC 强项), **不追求灰区流通规模** (USDT 强项), 而是**专注机构跨境支付清算**——叠加 Ripple ODL (2018 启动) + XRPL 原生 DEX (2018) + RippleNet 银行网络 (200+ 家). 这把 Ripple 从软件层 → 流动性层 → 稳定币层 → 完整闭环演化路径完成:跨境银行用 RippleNet 消息层 → ODL 通道 RLUSD 替代 XRP 桥接 → XRPL 上 sub-3-second 结算 → 收款银行赎回为本币. 整个清算栈**比 USDC + SWIFT** 更紧凑(发行人 + 桥接资产 + DEX + 银行消息都是 Ripple 自家系)。
+RLUSD 与 USDC/USDT 的核心差异化: **不追求 DeFi 流动性深度** (USDC 强项), **不追求灰区流通规模** (USDT 强项), 而是**专注机构跨境支付清算**——叠加 Ripple ODL (2018 启动) + XRPL 原生 DEX (2018) + RippleNet 银行网络 (200+ 家). 这把 Ripple 从软件层 → 流动性层 → 稳定币层 → 完整闭环演化路径完成:跨境银行用 RippleNet 消息层 → ODL 通道 RLUSD 替代 XRP 桥接 → XRPL 上 sub-3-second 结算 → 收款银行赎回为本币. 整个清算栈**比 USDC + SWIFT** 更紧凑(发行人 + 桥接资产 + DEX + 银行消息都是 Ripple 自家系),与 [[fintech/cross-border-sc-via-swift-api|稳定币 × SWIFT API 跨境]] 走的是同一战场的不同打法。
 
 ## Origin & evolution
 
-2012-2018 软件层 (RippleNet · 200+ 家银行). 2018-起流动性层 (ODL · XRP 作桥接). 2020-2023 与 SEC 诉讼 (XRP 是否证券). 2023-07 法院判决 XRP 在公开交易所不是证券. 2024-04 收购 Standard Custody (NY DFS Trust 牌照). **2024-12-17 RLUSD 同步 XRPL + Ethereum 上线**. 2025-Q3 RLUSD 进入 Bitstamp (被 Robinhood 收购的交易所) 大幅扩大零售触达. 2026-Q1 Ripple 申请 OCC National Bank Charter. 与 Stripe Tempo / Coinbase Arc 形成镜像三足: **Ripple = "跨境合规清算" / Stripe = "电商支付" / Coinbase = "DeFi 流动性"**。
+2012-2018 软件层 (RippleNet · 200+ 家银行). 2018-起流动性层 (ODL · XRP 作桥接). 2020-2023 与 SEC 诉讼 (XRP 是否证券). 2023-07 法院判决 XRP 在公开交易所不是证券. 2024-04 收购 Standard Custody (NY DFS Trust 牌照). **2024-12-17 RLUSD 同步 XRPL + Ethereum 上线**. 2025-Q3 RLUSD 进入 Bitstamp (被 Robinhood 收购的交易所) 大幅扩大零售触达. 2026-Q1 Ripple 申请 OCC National Bank Charter (走的是 [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC 信託银行联邦套利]] 路径). 与 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe Tempo 协议对冲战法]] / Coinbase Arc 形成镜像三足: **Ripple = "跨境合规清算" / Stripe = "电商支付" / Coinbase = "DeFi 流动性"**。
 
 ## Counterpoints
 

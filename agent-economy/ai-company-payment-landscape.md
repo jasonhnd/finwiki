@@ -37,7 +37,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 | 阿里通义 | Qwen API | 阿里云国际站 | 走云渠道，不直接面向个人 |
 | 百度文心 | ERNIE API | 百度智能云国际 | 同上 |
 
-**关键缺口**：基于非美国 LLM 做应用出海的创业公司群体更大也更碎，它们没有阿里云这种渠道兜底，需要自己解决[[fintech/ai-payment-two-tracks|跨境支付]]（Stripe 路径或稳定币路径），这是目前最大的未服务市场。
+**关键缺口**：基于非美国 LLM 做应用出海的创业公司群体更大也更碎，它们没有阿里云这种渠道兜底，需要自己解决[[fintech/ai-payment-two-tracks|跨境支付]]（Stripe 路径或稳定币路径 · 参见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]] 与 [[fintech/stablecoin-crossborder-b2b-growth|稳定币跨境 B2B 增长]]），这是目前最大的未服务市场。
 
 Source note: public billing / payment documentation and public AI-company product pages; cross-border payment implications are framework-level synthesis.
 

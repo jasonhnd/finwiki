@@ -36,11 +36,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 FATF 评估双轨架构:**技术合规 (TC)** 评估 40 Recommendations 的法律实施情况,**有效性 (Effectiveness)** 评估 11 Immediate Outcomes 的实际效果。每国约 7-10 年完成一次 Mutual Evaluation Report (MER),期间穿插 follow-up。两份名单更新:**Call for Action (Black list)** 强制对等措施 + 增强尽调;**Increased Monitoring (Grey list)** 受持续监控 + action plan 修复。
 
-加密相关核心条款两条:**R.15 (Virtual Assets, 2019-10 修订)** 要求 VASP（交易所 / 钱包托管 / ICO 平台 / SC issuer）必须 license/register · 适用 R.10-21 全套 AML/CFT 要求。**R.16 (Travel Rule)** 要求 ≥ USD/EUR 1,000 VA transfer 必须传递 originator + beneficiary 信息 · VASP-to-VASP 信息共享强制。
+加密相关核心条款两条:**R.15 (Virtual Assets, 2019-10 修订)** 要求 VASP（交易所 / 钱包托管 / ICO 平台 / SC issuer）必须 license/register · 适用 R.10-21 全套 AML/CFT 要求。**R.16 (Travel Rule)** 要求 ≥ USD/EUR 1,000 VA transfer 必须传递 originator + beneficiary 信息 · VASP-to-VASP 信息共享强制(详见 [[fintech/fatf-travel-rule-overview|FATF Travel Rule 概览]])。VASP 的全球横向比较见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Origin & evolution
 
-FATF 1989 G7 巴黎峰会创立,初期聚焦反洗钱。2001 911 后扩展到反恐融资。2012 整合发布 40+9 → 40 Recommendations。2019-10 G20 Osaka 公布加密扩展(R.15 + R.16 改造),把 VASP 纳入全球 AML/CFT 框架。2025-09 FATF Targeted Update on VA 指出 75% 司法辖区仍未完全实施 R.15/R.16,重点关注 self-hosted wallet + DeFi 风险,推动 RegTech 跨境 Travel Rule 通信标准。
+FATF 1989 G7 巴黎峰会创立,初期聚焦反洗钱。2001 911 后扩展到反恐融资。2012 整合发布 40+9 → 40 Recommendations。2019-10 G20 Osaka 公布加密扩展(R.15 + R.16 改造),把 VASP 纳入全球 AML/CFT 框架。2025-09 FATF Targeted Update on VA 指出 75% 司法辖区仍未完全实施 R.15/R.16,重点关注 self-hosted wallet + DeFi 风险,推动 RegTech 跨境 Travel Rule 通信标准。日本侧 VASP 监管时间线见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]]。
 
 ## Counterpoints
 

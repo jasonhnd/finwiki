@@ -22,7 +22,7 @@ sources: []
 This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> USDT、USDC、USDS、PYUSD 等 USD 稳定币之间的兑换、清算和结算本身构成一个独立的大规模市场。
+> USDT、USDC、[[fintech/sky-usds-decentralized-stablecoin|USDS]]、[[fintech/paypal-pyusd-stablecoin|PYUSD]] 等 USD 稳定币之间的兑换、清算和结算本身构成一个独立的大规模市场。
 
 **市场规模**：2025 年稳定币交易量 $33 万亿 [Bloomberg/Artemis]。即使仅 10% 涉及 USD 稳定币互换，0.01% 费率也意味着 $3.3 亿/年级别的收入。
 
@@ -32,7 +32,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 - DeFi（Curve 等）：USDT↔USDC 约 0.01-0.04%，无需许可，但大额滑点和 gas 费
 - CeFi（做市商/交易所 API）：0.02-0.05%，深度好，需 KYB 对接
 
-**独立价值**：稳定币互换 gateway 不必依附于特定应用（[[fintech/ai-payment-two-tracks|AI 支付]]、[[fintech/stablecoin-crossborder-b2b-growth|跨境 B2B 汇款]]等），可作为独立基础设施服务任何行业。类似于外汇市场中的做市商角色。日本侧若以 self-custody 路由方式运营仅信息中介则可对应 [[fintech/japan-ecisb-license|ECISB 牌照]]。
+**独立价值**：稳定币互换 gateway 不必依附于特定应用（[[fintech/ai-payment-two-tracks|AI 支付]]、[[fintech/stablecoin-crossborder-b2b-growth|跨境 B2B 汇款]]等），可作为独立基础设施服务任何行业。类似于外汇市场中的做市商角色。日本侧若以 self-custody 路由方式运营仅信息中介则可对应 [[fintech/japan-ecisb-license|ECISB 牌照]]。跨币种边界(USD/EUR/JPY) 走法律 hack 路径见 [[fintech/dual-currency-stablecoin-arbitrage-overview|双币三角套利]]。
 
 ## Related
 <!-- wiki-links:managed -->

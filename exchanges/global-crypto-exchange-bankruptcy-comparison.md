@@ -68,6 +68,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/us-crypto-licensing-multi-layer-system]]
 - [[exchanges/global-cex-top10-comparison]]
 - [[exchanges/fsa-business-improvement-orders-history]]
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/coincheck-nem-hack-detailed-analysis]] — Coincheck NEM ハック詳細分析
+- [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]] — DMM Bitcoin Lazarus ハック詳細分析
 
 ---
 

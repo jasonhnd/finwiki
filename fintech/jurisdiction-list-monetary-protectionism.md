@@ -29,7 +29,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 §501(d) 实质等效测试要求：
 - 与美国 GENIUS Act 框架对齐的本地立法
 - OFAC 制裁兼容的执法能力
-- AML/CFT 框架与 FATF Travel Rule 一致
+- AML/CFT 框架与 FATF Travel Rule 一致（详见 [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule 跨境 stack]]）
 
 **MRA（双边等效协议）是入榜前置条件**：
 - U.S.-Japan MRA: 2026-02 已签
@@ -93,9 +93,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 | 阵营 | §501 入榜后地位 | 评级 |
 |---|---|---|
 | **SBI Circle Holdings** | 跨境合规霸主（USDC ↔ JPYC 唯一持牌通道）| ★★★★★ |
-| **JPYC（岡部典孝）**| 日本零售合规第一 | ★★★★ |
-| **Progmat（三大行）**| 日本 B2B 大口，**无跨境合规通道** | ★★★ |
+| **[[JapanFG/jpyc|JPYC]]（岡部典孝）**| 日本零售合规第一 | ★★★★ |
+| **[[JapanFG/progmat|Progmat]]（三大行）**| 日本 B2B 大口，**无跨境合规通道** | ★★★ |
 | **みんなの銀行 / Solana** | 纯本土零售，Solana 不在 §501 路径 | ★★ |
+
+详细 4 阵营对比见 [[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]]。
 
 ## 关联
 

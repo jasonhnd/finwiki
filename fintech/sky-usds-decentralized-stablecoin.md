@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-Endgame 三招应对 §501: (1) **sUSDS 质押** = 用户存 USDS → sUSDS → 自动 5-8% yield (类 Coinbase × USDC 但合规路径不同,以 SSR 形式给 SC 持有人); (2) **Subdao 分裂** = Spark/Bloom 等子协议独立 token + 独立治理 → 分散监管风险; (3) **RWA vault 间接持有 BUIDL** = 通过去中心化 vault 接入 BlackRock 合规储备,变相获得机构级抵押。**与 §501 的张力**: GENIUS Act §501 要求 SC issuer 注册 + 100% 储备 + 不付利息。Sky Endgame 押注"完全去中心化 SC 不属于 §501 SC issuer 监管范围" → 若 SEC/Treasury 2027-2028 认定 USDS 仍属"受监管 SC", Sky 必须强制合规或退出美国市场。
+Endgame 三招应对 §501: (1) **sUSDS 质押** = 用户存 USDS → sUSDS → 自动 5-8% yield (类 Coinbase × USDC 但合规路径不同,以 SSR 形式给 SC 持有人); (2) **Subdao 分裂** = Spark/Bloom 等子协议独立 token + 独立治理 → 分散监管风险; (3) **RWA vault 间接持有 BUIDL** = 通过去中心化 vault 接入 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 合规储备,变相获得机构级抵押。**与 §501 的张力**: GENIUS Act §501 要求 SC issuer 注册 + 100% 储备 + 不付利息。Sky Endgame 押注"完全去中心化 SC 不属于 §501 SC issuer 监管范围" → 若 SEC/Treasury 2027-2028 认定 USDS 仍属"受监管 SC", Sky 必须强制合规或退出美国市场,具体边界推演见 [[fintech/regulatory-window-strategic-acquisition|监管窗口 × 并购套利]]。
 
 ## Origin & evolution
 
@@ -43,7 +43,7 @@ Endgame 三招应对 §501: (1) **sUSDS 质押** = 用户存 USDS → sUSDS → 
 
 ## Counterpoints
 
-"间接持 BUIDL" 削弱了 Sky 的去中心化叙事——本质上 Sky 用户的 USDS 储备最终在 BlackRock 合规账户中. Vitalik Buterin 公开倡导 DAI/USDS 类去中心化 SC, 也承认这种 RWA 化趋势的两难. SKY token 治理活跃地址仅 ~2500, 远低于 Sky 主张的"真正去中心化"门槛. **DeFi 历史集成层 lock-in**: 数百个协议、数千合约硬编码 DAI 地址,Sky 选择"双轨 + 缓慢自然衰减"是路径依赖的理性选择,但也意味着 5 年内 Sky 必须同时维护两个 SC 合约系统. **与 Tether 灰圈不同**: Sky 通过技术去中心化主张"无 issuer 可监管",Tether 通过 jurisdictional 选择 (萨尔瓦多/BVI) → 两条路径都是 §501 灰区生存策略,但 Sky 更脆弱。
+"间接持 BUIDL" 削弱了 Sky 的去中心化叙事——本质上 Sky 用户的 USDS 储备最终在 BlackRock 合规账户中. Vitalik Buterin 公开倡导 DAI/USDS 类去中心化 SC, 也承认这种 RWA 化趋势的两难. SKY token 治理活跃地址仅 ~2500, 远低于 Sky 主张的"真正去中心化"门槛. **DeFi 历史集成层 lock-in**: 数百个协议、数千合约硬编码 DAI 地址,Sky 选择"双轨 + 缓慢自然衰减"是路径依赖的理性选择,但也意味着 5 年内 Sky 必须同时维护两个 SC 合约系统. **与 [[fintech/tether-business-model-short-treasury-yield|Tether 灰圈]] 不同**: Sky 通过技术去中心化主张"无 issuer 可监管",Tether 通过 jurisdictional 选择 (萨尔瓦多/BVI) → 两条路径都是 §501 灰区生存策略,但 Sky 更脆弱。
 
 ## Open questions
 

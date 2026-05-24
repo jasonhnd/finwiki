@@ -40,7 +40,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 | 监管模型 | Circle 自我合规 + §501 denylist | Regulator Node 内嵌 |
 | 用户类型 | 加密原生 + 部分机构 | 纯机构客户 |
 
-**JPM Kinexys 选择**:JPMD 不集成 CCTP V2 而是迁回 Canton——理由(1) Coinbase Custody 客户在 Base 上 holdings 可被 chain analysis 反推;(2) Canton 原生支持 multi-party atomic settlement;(3) DAML 比 Solidity 更适合金融合约;(4) JPM 是 Canton 创始成员的战略一致性。
+**JPM Kinexys 选择**:[[fintech/jpmorgan-jpmd-coin|JPMD]] 不集成 CCTP V2 而是迁回 Canton——理由(1) Coinbase Custody 客户在 Base 上 holdings 可被 chain analysis 反推;(2) Canton 原生支持 multi-party atomic settlement;(3) DAML 比 Solidity 更适合金融合约;(4) JPM 是 Canton 创始成员的战略一致性。
 
 **Circle Arc 选择**:Arc 链直接押 CCTP V2 + USDC 即 gas + §501 合规叙事,**绕开 Coinbase Base 分润($200M/年)**——这是 Circle 去-Coinbase 化的核心动作。
 
@@ -48,7 +48,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 2024-2025 间机构 tokenization 进入路线选择窗口期。Circle 路径(CCTP V1 → V2 → Arc)和 JPM 路径(JPMD on Base → JPMD on Canton)同步演进但走向相反。2026-01 JPM 公开宣布主战场迁 Canton,标志公私链分裂正式定型。
 
-预期未来 5 年:**公链路线**(CCTP V2 + Arc + Base + BlackRock BUIDL)主导加密原生 + DeFi + 跨境零售;**私链路线**(Canton + JPMD + GS DAP + BNY LiquidityDirect)主导机构 collateral management + 大额清算。两条路线在 §501 入榜地条款约束下,**形成"美元合规圈"内部的并行体系**。
+预期未来 5 年:**公链路线**(CCTP V2 + Arc + Base + [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]])主导加密原生 + DeFi + 跨境零售;**私链路线**(Canton + JPMD + GS DAP + BNY LiquidityDirect)主导机构 collateral management + 大额清算。两条路线在 §501 入榜地条款约束下,**形成"美元合规圈"内部的并行体系**(参见 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]])。
 
 ## Counterpoints
 

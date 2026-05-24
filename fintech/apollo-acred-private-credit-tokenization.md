@@ -32,11 +32,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-ACRED 严格而言**不是 MMF**——它 tokenize 的是 Apollo Diversified Credit Fund,覆盖 corporate direct lending + asset-backed lending + performing/distressed credit + structured credit。但常被归入 tokenization 同组讨论:(1) 客户重合 (买 BUIDL 的机构也评估 ACRED);(2) 平台同源 (Securitize);(3) 渠道重叠 (Coinbase Asset Management / Kraken 同时分销)。**资产类别差异化是它的护城河**——BlackRock BUIDL 占政府 MMF 赛道,Apollo ACRED 占私募信贷赛道,**两个赛道几乎不重叠**。
+ACRED 严格而言**不是 MMF**——它 tokenize 的是 Apollo Diversified Credit Fund,覆盖 corporate direct lending + asset-backed lending + performing/distressed credit + structured credit。但常被归入 tokenization 同组讨论:(1) 客户重合 (买 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 的机构也评估 ACRED);(2) 平台同源 (Securitize);(3) 渠道重叠 (Coinbase Asset Management / Kraken 同时分销)。**资产类别差异化是它的护城河**——BlackRock BUIDL 占政府 MMF 赛道,Apollo ACRED 占私募信贷赛道,**两个赛道几乎不重叠**,与 [[exchanges/rwa-tokenization-cex-integration|CEX RWA tokenization 集成]] 共享同一类机构客户。
 
 ## Origin & evolution
 
-2022-04 Christine Moy 离开 JPMorgan Onyx 加入 Apollo (Partner, Digital Assets, Data & AI Strategy)。在 JPM Onyx 期间她主导 JPM Coin、Onyx Digital Assets repo、与 BlackRock/Goldman 多家 tokenization PoC。加入 Apollo 后主导 ACRED 设计——ACRED 的多链部署 + Wormhole 跨链 + 与 DeFi 协议集成接口都带有强烈的 **JPM Onyx "基础设施中立 · 资产为王" 烙印**。2025-01-30 ACRED 主网。2025-06 sACRED 上线,首个 private credit fund 进入 DeFi yield。2026-05-11 Apollo 跻身 Circle Arc $222M 私募投资人名单(同轮 BlackRock / ICE / SBI / a16z crypto / Standard Chartered)。
+2022-04 Christine Moy 离开 JPMorgan Onyx 加入 Apollo (Partner, Digital Assets, Data & AI Strategy)。在 JPM Onyx 期间她主导 JPM Coin、Onyx Digital Assets repo、与 BlackRock/Goldman 多家 tokenization PoC。加入 Apollo 后主导 ACRED 设计——ACRED 的多链部署 + Wormhole 跨链 + 与 DeFi 协议集成接口都带有强烈的 **JPM Onyx "基础设施中立 · 资产为王" 烙印**。2025-01-30 ACRED 主网。2025-06 sACRED 上线,首个 private credit fund 进入 DeFi yield。2026-05-11 Apollo 跻身 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Circle Arc]] $222M 私募投资人名单(同轮 BlackRock / ICE / SBI / a16z crypto / Standard Chartered)。
 
 ## Counterpoints
 

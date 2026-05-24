@@ -115,6 +115,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-foreign-exchange-kucoin]] — 2024-11-28 同時警告対象（KuCoin）
 - [[exchanges/jp-foreign-exchange-bitget]] — 同 Bitget
 - [[exchanges/jp-exchange-binance-japan]] — Binance の日本法人化・正規登録事例（Bybit との構造対比）
+- [[exchanges/bybit-lazarus-hack-detailed-analysis]] — Bybit Lazarus ハック詳細分析
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/uae-vara-licensing-overview]] — UAE VARA ライセンス overview（Bybit 本拠地）
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
 
 ## Sources
 

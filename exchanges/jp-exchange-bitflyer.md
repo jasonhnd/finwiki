@@ -98,7 +98,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 7. 戦略動向
 
-- **2024年6月 FTX Japan 買収**：破産申請したFTXの日本法人を買収することを発表。日本における顧客基盤・ライセンス資産の獲得が目的とみられる（公式プレスリリース 2024-06-20）。
+- **2024年6月 FTX Japan 買収**：破産申請したFTXの日本法人を買収することを発表（[[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% 返還ケーススタディ]] 参照）。日本における顧客基盤・ライセンス資産の獲得が目的とみられる（公式プレスリリース 2024-06-20）。
 - **直近財務パフォーマンス改善**：2025年12月期 営業利益 42億5700万円（対前期比改善傾向 — Holdings の第12期事業報告書による）。
 - **海外法人の現状**：bitFlyer USA, Inc.（デラウェア法人）および bitFlyer EUROPE S.A.（ルクセンブルク）の 2018年当時の海外展開は公表されているが、2026年5月時点の運営状況は公式確認不可。
 - **本田翼 CM 起用**：2024年9月より本田翼を起用した広告展開（公式リリース 2024-08-28）。
@@ -119,6 +119,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[exchanges/jp-exchange-binance-japan]] — 同業他社 overview
 - [[exchanges/jp-exchange-gmo-coin]] — 同業他社 overview
+- [[JapanFG/bitflyer]] — bitFlyer Holdings 親会社プロファイル
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
+- [[exchanges/jvcea-self-regulatory-overview]] — JVCEA 自主規制体系
 
 ## Sources
 

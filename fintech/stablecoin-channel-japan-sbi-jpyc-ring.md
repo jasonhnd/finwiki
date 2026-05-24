@@ -25,8 +25,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Key facts
 
 - **2025-08**: SBI Holdings + Circle Internet Financial 折半出资设立 **SBI Circle Holdings**（50/50 JV）
-- **环形持股**: Circle 持 JPYC 约 3.51%；JPYC ∈ Circle Partner SC；SBI 通过 SBI Circle Holdings 间接关联 JPYC
-- **国内通道**: SBI VC トレード = 国内第 1 号 EPI 業者（2025-03-04 認可）· USDC 国内取扱開始（2025-03-26）
+- **环形持股**: Circle 持 [[JapanFG/jpyc|JPYC]] 约 3.51%；JPYC ∈ Circle Partner SC；SBI 通过 SBI Circle Holdings 间接关联 JPYC
+- **国内通道**: [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = 国内第 1 号 EPI 業者（2025-03-04 認可）· USDC 国内取扱開始（2025-03-26）
 - **资本投资**: SBI HD + SBI 新生 共计 $50M 投资 Circle IPO（2025-06-05 NYSE 上場）
 - **拒绝 Progmat**: 北尾吉孝 2026-02 X 投稿"画一的・競争制限的・護送船団的"——明确不加入 Progmat 信託型联盟
 - **JPYSC 補完**: SBI 新生信託銀行 × Startale "JPYSC" 信託型 SC（2026-Q2 上线）填补"日元侧"
@@ -70,7 +70,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2026-02     北尾吉孝 X：「Progmat ジョイン拒絶」
 ```
 
-**v1 → v2 评级跃迁**: §501(d) 出台前，SBI 阵营被视为"独立路线 / #3"。出台后 USDC ↔ JPY 跨境合规通道价值激升，SBI Circle Holdings 升至 **#1 ★★★★★**——Progmat（三大行信託型）反降至 #3，原因是"无跨境合规通道"。
+**v1 → v2 评级跃迁**: §501(d) 出台前，SBI 阵营被视为"独立路线 / #3"。出台后 USDC ↔ JPY 跨境合规通道价值激升，SBI Circle Holdings 升至 **#1 ★★★★★**——[[JapanFG/progmat|Progmat]]（三大行信託型）反降至 #3，原因是"无跨境合规通道"，详见 [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]]。
 
 ## Counterpoints
 

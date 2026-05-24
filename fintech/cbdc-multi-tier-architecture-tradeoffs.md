@@ -36,7 +36,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **1. 金融中介存续 vs 央行直达**:直接 CBDC 让商业银行边缘化 → 金融中介崩塌 → 央行被迫承担信贷分配(直接放贷给企业) → 政治上不可接受。所有主要央行都选择保护银行存款基础(双层或多层)。这是为什么没有 G10 央行采用直接 CBDC。
 
-**2. 货币主权 vs 跨境互操作**:双层架构对内强(完整央行 → 商行 → 用户控制链),跨境弱(需借 wholesale CBDC 走廊如 mBridge)。token-based 多层天然跨境友好(代币标准互通)但威胁主权货币层级(本国代币化存款可能在外国流通)。这是 e-CNY 选双层 + mBridge 跨境补充的逻辑。
+**2. 货币主权 vs 跨境互操作**:双层架构对内强(完整央行 → 商行 → 用户控制链),跨境弱(需借 wholesale CBDC 走廊如 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]])。token-based 多层天然跨境友好(代币标准互通)但威胁主权货币层级(本国代币化存款可能在外国流通)。这是 e-CNY 选双层 + mBridge 跨境补充的逻辑。
 
 **3. 隐私 vs 反洗钱**:直接 CBDC = 央行全可见,AML 最强但隐私归零(欧洲反对最大)。双层 = 商业银行做 KYC,央行不直接看到用户,符合现行金融隐私规范。token-based 多层 = 通过加密层(零知识证明 / 阈值签名)可调隐私,但合规成本高,监管学习曲线陡。
 
@@ -44,7 +44,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-2017-2020 BIS / IMF 早期 CBDC 框架几乎只讨论"直接 vs 双层"二分,创新维度未浮现。2020-2022 Hyperledger / Corda 等 enterprise DLT 在 PoC 阶段验证可编程性 → "token-based 多层"作为第三选择浮现。2022-2024 各央行根据自身政治 / 监管偏好做权衡:中国选稳定优先(e-CNY 双层),巴西选创新优先(DREX token-based),欧元区在中介保护和可编程性间妥协(数字欧元混合 + 持有上限)。2026+ 三圆 MRA(欧 MiCA + 美 GENIUS + 港 HKMA)+ wholesale CBDC 走廊(mBridge + Agorá)进一步约束架构选择空间。
+2017-2020 BIS / IMF 早期 CBDC 框架几乎只讨论"直接 vs 双层"二分,创新维度未浮现。2020-2022 Hyperledger / Corda 等 enterprise DLT 在 PoC 阶段验证可编程性 → "token-based 多层"作为第三选择浮现。2022-2024 各央行根据自身政治 / 监管偏好做权衡:中国选稳定优先(e-CNY 双层),巴西选创新优先(DREX token-based),欧元区在中介保护和可编程性间妥协(数字欧元混合 + 持有上限)。2026+ 三圆 MRA(欧 [[fintech/mica-overview|MiCA]] + 美 [[fintech/genius-act-501-denylist-mandate|GENIUS]] + 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]])+ wholesale CBDC 走廊([[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] + [[fintech/bis-project-agora-overview|Agorá]])进一步约束架构选择空间。
 
 ## Counterpoints
 

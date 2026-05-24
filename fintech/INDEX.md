@@ -37,6 +37,7 @@ sources:
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[fintech/mica-overview|EU MiCA]]
 - [[fintech/three-circles-stablecoin-mra-framework|美 / 欧 / 日 三个大圆 MRA]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバル 5 極比較マトリクス (GENIUS / MiCA / Japan EPI / HKMA / MAS)]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币公链 token 策略三态]]
 - [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe embedded wallet stack]]
 
@@ -164,6 +165,6 @@ sources:
 ## Backlog
 
 - Separate stablecoin issuer pages from regulatory framework pages in a second-level taxonomy.
-- Add one comparison matrix for GENIUS / MiCA / Japan EPI / HKMA / MAS.
+- Done: [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]] covering GENIUS / MiCA / Japan EPI / HKMA / MAS across statute, scope, issuer types, reserve / redemption / capital, cross-border access, disclosure / AML / resolution, and permitted use.
 - Add `source-quality` notes for high-consequence claims such as 2026 effective dates, volumes, and licensing status.
 - Reconcile overlap with `exchanges/` for JPYC, BitTrade, custody vendors, and FSA warning pages.

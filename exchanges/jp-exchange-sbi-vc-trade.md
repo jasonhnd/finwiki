@@ -141,6 +141,9 @@ Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stab
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]] — SBI × JPYC スタブコインチャネル
 - [[exchanges/jp-exchange-binance-japan]] — 同業他社 overview（Binance Japan）
 - [[exchanges/jp-exchange-gmo-coin]] — 同業他社 overview（GMO コイン）
+- [[JapanFG/sbi-hd]] — SBI ホールディングス親会社プロファイル
+- [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX deposit token / stablecoin integration
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
 
 ## Sources
 

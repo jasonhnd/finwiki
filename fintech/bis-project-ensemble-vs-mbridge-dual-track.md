@@ -44,11 +44,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **双轨协同**:Ensemble 训练本地金融机构掌握代币化存款 know-how(技术 + 合规),mBridge 让港元成为跨境 CBDC 走廊的"必经货币"(地缘 + 流量)。两者结合 → 香港金融机构同时在境内(代币化存款)+ 跨境(多 CBDC)两端都有不可替代位置。
 
-**三圆 MRA 中的差异化资本**:三圆 MRA(欧 MiCA / 美 GENIUS / 港 HKMA)谈判中,欧美主要谈"法律互认",HKMA 是唯一带着"实际跑通的代币化基础设施"上桌的监管者。技术资本 = 谈判筹码。
+**三圆 MRA 中的差异化资本**:三圆 MRA(欧 [[fintech/mica-overview|MiCA]] / 美 [[fintech/genius-act-501-denylist-mandate|GENIUS]] / 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]])谈判中,欧美主要谈"法律互认",HKMA 是唯一带着"实际跑通的代币化基础设施"上桌的监管者。技术资本 = 谈判筹码。
 
 ## Origin & evolution
 
-2017-2020 HKMA 与新加坡 MAS 在亚洲金融科技中心地位竞争激烈。2021 HKMA 通过 mBridge 锁定跨境 CBDC 走廊地位(MAS 没有对应项目)。2024.03 Ensemble 启动 → HKMA 补境内沙盒短板(MAS Guardian 早 2 年启动)。2024.10 BIS 退出 mBridge 后,HKMA + PBoC 接管,mBridge 政治含义剧增(去美元化跨境清算)。2025-2026 HKMA Stablecoin Ordinance 发牌 → 双轨战略与三圆 MRA 谈判同步推进。Anchorpoint(2024.08)入 Ensemble 标志双轨向"金融科技 + 银行"混合开放。
+2017-2020 HKMA 与新加坡 MAS 在亚洲金融科技中心地位竞争激烈。2021 HKMA 通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 锁定跨境 CBDC 走廊地位(MAS 没有对应项目)。2024.03 Ensemble 启动 → HKMA 补境内沙盒短板([[fintech/bis-project-guardian-overview|MAS Guardian]] 早 2 年启动)。2024.10 BIS 退出 mBridge 后,HKMA + PBoC 接管,mBridge 政治含义剧增(去美元化跨境清算)。2025-2026 HKMA Stablecoin Ordinance 发牌 → 双轨战略与三圆 MRA 谈判同步推进。Anchorpoint(2024.08)入 Ensemble 标志双轨向"金融科技 + 银行"混合开放。
 
 ## Counterpoints
 

@@ -43,7 +43,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Origin & evolution
 
-2017-2019 Atomic Swap / WBTC 等早期跨链方案,无标准化协议。2020-2021 Wormhole / Multichain / Axelar 等通用跨链桥兴起 → 高 fee + 高 TVL 时代。2022 Wormhole 被攻击损失 $325M → 跨链桥风险显化。2023 LayerZero / Hyperlane / Across 等下一代跨链架构涌现 → 技术路径多样化但 fee 已被压缩。2024+ 跨链桥利润压缩,价值上移到链抽象层。AggLayer / NEAR Intents / Across 都开始向"链抽象 + solver 市场"转型。2025-2026 跨链桥服务商纷纷转型 —— LayerZero 现在更愿意自我定位为"omnichain messaging infrastructure"而非"bridge"。
+2017-2019 Atomic Swap / WBTC 等早期跨链方案,无标准化协议。2020-2021 Wormhole / Multichain / Axelar 等通用跨链桥兴起 → 高 fee + 高 TVL 时代。2022 Wormhole 被攻击损失 $325M → 跨链桥风险显化。2023 LayerZero / Hyperlane / Across 等下一代跨链架构涌现 → 技术路径多样化但 fee 已被压缩。2024+ 跨链桥利润压缩,价值上移到链抽象层。AggLayer / NEAR Intents / Across 都开始向"链抽象 + solver 市场"转型。2025-2026 跨链桥服务商纷纷转型 —— LayerZero 现在更愿意自我定位为"omnichain messaging infrastructure"而非"bridge"(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 与 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 的最新切片)。
 
 ## Counterpoints
 
@@ -56,7 +56,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 - 桥公司在转型期是否会被链抽象层公司(AggLayer / NEAR)收购?
 - 监管对 solver 市场的反洗钱合规如何处理?
-- 机构链(Tempo / Arc)是否会建立自有的链抽象 + solver 网络(垂直整合)?
+- 机构链(Tempo / Arc)是否会建立自有的链抽象 + solver 网络(垂直整合)?(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 中 Circle 自营 Arc 链的取舍)
 
 ## Related
 <!-- wiki-links:managed -->

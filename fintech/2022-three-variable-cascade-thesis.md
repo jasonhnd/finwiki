@@ -37,16 +37,16 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 ## 因果链
 
 ```
-2022 利率正常化 →  Circle / Tether 等稳定币 economics 首次成立
+2022 利率正常化 →  Circle / [[fintech/tether-business-model-short-treasury-yield|Tether]] 等稳定币 economics 首次成立
                 → 2025-06 Circle IPO 上市窗口打开
                 → 2025-2026 SC/TD/MMF 三层分化加速
 
 2022 制裁俄罗斯 → 全球去美元化讨论政治正常化
-                → 2022-2026 mBridge / BIS Agorá / e-CNY / Project Nexus 全部加速
+                → 2022-2026 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] / BIS Agorá / e-CNY / Project Nexus 全部加速
                 → 地缘多极化 5-极结构成型
 
 2022 ChatGPT  → Agent 经济从科幻变可信
-              → 2025-2026 MCP / AP2 / x402 / MPP / ACP / SPT / TAP 7 协议并出
+              → 2025-2026 MCP / [[agent-economy/ap2-overview|AP2]] / [[agent-economy/x402-http-payment-overview|x402]] / MPP / ACP / SPT / TAP 7 协议并出
               → AWS Bedrock AgentCore + Visa TAP + FIDO 移管标准化
 ```
 

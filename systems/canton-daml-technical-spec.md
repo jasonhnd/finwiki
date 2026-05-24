@@ -39,7 +39,7 @@ DAML vs Solidity 维度对比:
 | 监管节点 | 无概念 | Regulator Node 模型——监管者作为参与方 |
 | 适用场景 | DeFi + 通用 dApp | 金融合约 + 机构清算 |
 
-DAML 的"权利义务建模"具体例:一份债券合约会明确写出"issuer 有义务 X · holder 有权利 Y · custodian 有审计义务 Z"——这与传统金融法律合约的语义直接对应。Solidity 则需要程序员自己编码这些角色关系,容易出错。
+DAML 的"权利义务建模"具体例:一份债券合约会明确写出"issuer 有义务 X · holder 有权利 Y · custodian 有审计义务 Z"——这与传统金融法律合约的语义直接对应(对照 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 在 DAML 上承载的产品结构)。Solidity 则需要程序员自己编码这些角色关系,容易出错。
 
 Sub-transaction privacy 的实现:每笔 transaction 被分解为 sub-events,每个 sub-event 只对涉及的参与方加密广播,Global Synchronizer 只负责排序(不解密内容)。
 
@@ -56,6 +56,7 @@ DAML 的学习曲线陡峭——大多数区块链开发者熟悉 Solidity/Move/
 - DAML 4.x 的 roadmap 是否会增加 EVM 兼容层?
 - Sub-transaction privacy 在面对 Global Synchronizer 妥协时的实际保护强度?
 - DAML 形式化验证工具链(类似 Move Prover、Certora)的发展?
+- 在 [[fintech/bis-project-agora-overview|BIS Agora]] 等跨 CBDC 试点中 DAML 是否会作为合约层标准?
 
 ## Related
 <!-- wiki-links:managed -->

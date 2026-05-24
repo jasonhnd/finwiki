@@ -51,11 +51,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | Progmat | B2B 大口 · 无跨境合规 | #1 | #3 ★★★ |
 | みんなの銀行 | 纯本土零售 | #4 | #4 ★★ |
 
-**核心逻辑**:§501(d) 入榜清单视角下,**跨境合规能力 > 国内规模**。SBI Circle Holdings 独家分销 USDC 意味着自动与 §501(d) 美元圆连接,这是 Progmat / JPYC / みんなの銀行都不具备的能力。Project Pax 三大行跨境 SC 项目只解决 SWIFT 兼容性(技术层),不解决 §501(d) 合规(法律层)。
+**核心逻辑**:§501(d) 入榜清单视角下,**跨境合规能力 > 国内规模**。SBI Circle Holdings 独家分销 USDC 意味着自动与 §501(d) 美元圆连接,这是 [[JapanFG/progmat|Progmat]] / [[JapanFG/jpyc|JPYC]] / みんなの銀行都不具备的能力。Project Pax 三大行跨境 SC 项目只解决 SWIFT 兼容性(技术层),不解决 §501(d) 合规(法律层)。
 
 ## Origin & evolution
 
-2023-06 EPI 三型生效 → 2024 三大行 Progmat XJPY + JPYC 流通同步增长 → 2025-08 SBI Circle Holdings 50/50 合资成立改变格局 → 2026-Q1 JPYC 流通 21 億円 + 6 万 holders + 3 个月 2.6 倍增长 → 2026-05 §501(d) 视角下 SBI-Circle 升至 #1。预测 2028 最终格局:SBI-Circle 跨境 + JPYC 散户 + Progmat 大口 B2B + みんなの銀行 区域。
+2023-06 EPI 三型生效 → 2024 三大行 Progmat XJPY + JPYC 流通同步增长 → 2025-08 SBI Circle Holdings 50/50 合资成立改变格局 → 2026-Q1 JPYC 流通 21 億円 + 6 万 holders + 3 个月 2.6 倍增长 → 2026-05 §501(d) 视角下 SBI-Circle 升至 #1。预测 2028 最终格局:SBI-Circle 跨境 + JPYC 散户 + Progmat 大口 B2B + みんなの銀行 区域。日本牌照体系总览见 [[JapanFG/legal-financial-licenses/INDEX|日本金融牌照索引]]。
 
 ## Counterpoints
 

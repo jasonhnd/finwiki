@@ -66,14 +66,14 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 **Delegation 安全风险**:用户签名授权 EOA 临时绑定合约 · 若 delegation 目标合约有 bug 或恶意 · EOA 资产可能被全部转走。这与"用户保管私钥即拥有资产"的 EOA 原始信任模型形成张力。需要钱包 UI 充分提示 delegation 目标的可信度。
 
-**对 4337 阵营商业冲击**:7702 让"无 SCW 也能享受 batch/sponsorship"成为可能 · 短期内 Privy/Coinbase CDP 等 4337 SCW 钱包的 UX 差异化壁垒下降。但长期看 7702 是 Ethereum 全民升级到 AA 的关键路径 · 对整个生态正面。
+**对 4337 阵营商业冲击**:7702 让"无 SCW 也能享受 batch/sponsorship"成为可能 · 短期内 [[agent-economy/privy-embedded-wallet-overview|Privy]]/Coinbase CDP 等 4337 SCW 钱包的 UX 差异化壁垒下降。但长期看 7702 是 Ethereum 全民升级到 AA 的关键路径 · 对整个生态正面(参见 [[agent-economy/erc-7715-overview|ERC-7715]] 在 EOA 升级后的 agent permission 模型)。
 
 ## Open questions
 
 - 7702 persistent delegation 的取消机制是否会产生 dust attack?
 - 钱包 UI 如何向普通用户解释 delegation 风险?
 - 2026-H2 Fusaka 升级具体会做哪些优化?
-- 7702 在 L2(Optimism / Arbitrum / Base)的等效支持时间表?
+- 7702 在 L2(Optimism / Arbitrum / Base)的等效支持时间表?(对照 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应]] 在多链场景的复用)
 
 ## Related
 <!-- wiki-links:managed -->

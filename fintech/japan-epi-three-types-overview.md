@@ -42,11 +42,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 銀行型 | 銀行 | 銀行業法 + EPI | 中(与存款绑定) | 与银行 BS 挂钩 | みんなの銀行 SC(Solana 路线) |
 | 資金移動業者型 | 資金移動業者 | 資金決済法 | 低(小额跨境 ¥100万限制部分) | ¥100万 / 笔(部分) | JPYC(岡部典孝) |
 
-**信託型**(Progmat XJPY):三菱 UFJ + 三井住友 + みずほ 三大行 + Datachain 合资,设计为 non-MUFG-controlled(49% 单一最大持股 + 51% 治理多元化),目标 B2B 大口资金。**銀行型**(みんなの銀行):福冈 FG / みんなの銀行 + Solana 路线,目标银行客户 retail。**資金移動業者型**(JPYC):岡部典孝主导,日本唯一资金移動業者型 SC 持牌方,3 个月增长 2.6 倍。
+**信託型**([[JapanFG/progmat|Progmat]] XJPY):三菱 UFJ + 三井住友 + みずほ 三大行 + Datachain 合资,设计为 non-MUFG-controlled(49% 单一最大持股 + 51% 治理多元化),目标 B2B 大口资金。**銀行型**(みんなの銀行):福冈 FG / みんなの銀行 + Solana 路线,目标银行客户 retail。**資金移動業者型**([[JapanFG/jpyc|JPYC]]):岡部典孝主导,日本唯一资金移動業者型 SC 持牌方,3 个月增长 2.6 倍。
 
 ## Origin & evolution
 
-2017《资金決済法》修订首次定义"仮想通貨"。2019-04《改正资金決済法》引入"暗号资産"概念。2022-06 改正案通过引入 EPI 三型 framework。2023-06 生效,日本成为全球第一个明文定义 SC 法律地位的主要经济体。2025-08 SBI Circle Holdings 成立改变格局:USDC 在日本独家分销 + 与 JPYC / Progmat / みんなの銀行 形成 4 阵营。
+2017《资金決済法》修订首次定义"仮想通貨"。2019-04《改正资金決済法》引入"暗号资産"概念。2022-06 改正案通过引入 EPI 三型 framework。2023-06 生效,日本成为全球第一个明文定义 SC 法律地位的主要经济体。2025-08 SBI Circle Holdings 成立改变格局:USDC 在日本独家分销 + 与 JPYC / Progmat / みんなの銀行 形成 4 阵营,详见 [[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]]。日本 VASP 总览见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]]。
 
 ## Counterpoints
 

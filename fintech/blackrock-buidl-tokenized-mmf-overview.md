@@ -34,11 +34,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-BUIDL 的 "yield 基础设施" 模型 = SC issuer 持有 BUIDL 作为储备 → BUIDL 4.3% APY 流入 issuer 净利息收入 → issuer 反过来扩大 SC 流通 → 流通扩大反过来再买 BUIDL。**关键创新**:BUIDL 同时被 CME / Binance / Deribit / Crypto.com 接受为衍生品 IM collateral,Apollo ACRED 用 BUIDL 提供赎回流动性——BUIDL 的真实经济规模 ≠ AUM,而是被反复 **杠杆化使用**。这与 [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮]] 直接耦合(详见姊妹条目)。
+BUIDL 的 "yield 基础设施" 模型 = SC issuer 持有 BUIDL 作为储备 → BUIDL 4.3% APY 流入 issuer 净利息收入 → issuer 反过来扩大 SC 流通 → 流通扩大反过来再买 BUIDL。**关键创新**:BUIDL 同时被 CME / Binance / Deribit / Crypto.com 接受为衍生品 IM collateral,[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 用 BUIDL 提供赎回流动性——BUIDL 的真实经济规模 ≠ AUM,而是被反复 **杠杆化使用**。这与 [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮]] 直接耦合(详见姊妹条目)。
 
 ## Origin & evolution
 
-2024-03 BUIDL 上线 (Ethereum 单链) · 2024-2025 跨 8 链 + AUM 4-5× 增长 · 2025-04 Circle 公开承认是 BUIDL 早期最大机构 LP 之一 · 2025-12 累计分红 $100M+ · 2026-05-13 Moody's Aaa-mf · 2026-05-14 $1B 即时赎回设施 · 2026-05-08 新发 BSTBL/BRSRV 把 §501 后的"SC 储备"赛道做成产品化。BlackRock 数字资产 AUM 截至 2026-Q1 **$60.67B**(5 月已破 $70B),BUIDL 是这个组合中**最具杠杆性的中心节点**。
+2024-03 BUIDL 上线 (Ethereum 单链) · 2024-2025 跨 8 链 + AUM 4-5× 增长 · 2025-04 Circle 公开承认是 BUIDL 早期最大机构 LP 之一 · 2025-12 累计分红 $100M+ · 2026-05-13 Moody's Aaa-mf · 2026-05-14 $1B 即时赎回设施 · 2026-05-08 新发 BSTBL/BRSRV 把 [[fintech/genius-act-501-denylist-mandate|GENIUS §501]] 后的"SC 储备"赛道做成产品化。BlackRock 数字资产 AUM 截至 2026-Q1 **$60.67B**(5 月已破 $70B),BUIDL 是这个组合中**最具杠杆性的中心节点**,与 [[exchanges/rwa-tokenization-cex-integration|CEX RWA 集成]] 共享同一类机构客户。
 
 ## Counterpoints
 

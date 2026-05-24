@@ -61,3 +61,6 @@ Brexit 後の独自路線で EU MiCA より柔軟 (AML 中心の軽い枠組み)
 - [[exchanges/fsa-vasp-registration-system]]
 - [[exchanges/global-cex-top10-comparison]]
 - [[exchanges/jp-vasp-aml-travel-rule-implementation]]
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
+- [[exchanges/uae-vara-licensing-overview]] — UAE VARA ライセンス制度比較

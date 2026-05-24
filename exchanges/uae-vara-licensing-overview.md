@@ -65,7 +65,7 @@ VARA は活動別ライセンス制を採用し、事業者は必要な機能を
 - **OKX** は UAE VARA + 日本 OKJ ([[exchanges/jp-exchange-okcoin-japan]]) 二重ライセンス保有のハイブリッド戦略
 - VARA 取得が「グローバル信認の floor」となり、日本進出時の JVCEA 審査にも間接的優位を与える構造
 
-国際比較は [[exchanges/global-cex-top10-comparison]] + [[exchanges/hk-sfc-vasp-licensing-overview]] + [[exchanges/sg-mas-dpt-licensing-overview]] を参照。
+国際比較は [[exchanges/global-cex-top10-comparison]] + [[exchanges/hk-sfc-vasp-licensing-overview]] + [[exchanges/sg-mas-dpt-licensing-overview]] を参照。グローバル制度比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] および [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP regime]] と読み合わせ、ステーブルコイン視点では [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバル stablecoin 規制 5 極比較]] を併読。
 
 ---
 

@@ -30,11 +30,11 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-七协议按层级分工:**意图层**(用户表达"我想花 X 买 Y")交由 AP2 / SPT / ACP 处理 mandate 三层信任链(Intent → Cart → Payment),用 VC + DPK 签名固化;**传输层**(实际转账)由 x402 复活 HTTP 402 Payment Required 头,实现 per-call USDC 微支付,Lite 版已落地 Cloudflare Agents / Vercel AI SDK;**上下文层**(LLM 怎么调工具)由 MCP 标准化 LLM ↔ tools / data sources 接口,A2A 处理 agent 间通信。三层互补,不互斥:一个完整 agent 支付流程通常同时调用 AP2(意图)+ x402(传输)+ MCP(上下文)。
+七协议按层级分工:**意图层**(用户表达"我想花 X 买 Y")交由 AP2 / SPT / ACP 处理 mandate 三层信任链(Intent → Cart → Payment),用 VC + DPK 签名固化;**传输层**(实际转账)由 x402 复活 HTTP 402 Payment Required 头,实现 per-call USDC 微支付,Lite 版已落地 Cloudflare Agents / Vercel AI SDK;**上下文层**(LLM 怎么调工具)由 MCP 标准化 LLM ↔ tools / data sources 接口,A2A 处理 agent 间通信。三层互补,不互斥:一个完整 agent 支付流程通常同时调用 AP2(意图)+ x402(传输)+ MCP(上下文)。底层依赖 [[systems/erc-4337-overview|ERC-4337 账户抽象]] 与 [[systems/erc-7702-overview|ERC-7702 EOA 升级]] 提供可编程 wallet 能力。
 
 ## Origin & evolution
 
-2024.11 MCP 首发,确立"LLM 接口"事实标准。2025.05 Coinbase 发 x402,复活 30 年前 HTTP 402 状态码,绑定 USDC。2025.09 Google 联合 60+ 伙伴发 AP2,定位为"agent 支付意图标准"。2025 内 SPT(Skyfire)/ ACP(Catena Labs · Sequoia 投)/ TAP(xpay)等次级竞争者涌现。2026 年中 FIDO 接管 AP2 重命名 AAIF,Apple / Microsoft / Mastercard 加入,联盟扩至 100+ —— 协议层进入 commoditization 通道,类比 WebAuthn / OAuth / OpenID Connect。
+2024.11 MCP 首发,确立"LLM 接口"事实标准。2025.05 Coinbase 发 x402,复活 30 年前 HTTP 402 状态码,绑定 USDC(USDC 角色见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。2025.09 Google 联合 60+ 伙伴发 AP2,定位为"agent 支付意图标准"。2025 内 SPT(Skyfire)/ ACP(Catena Labs · Sequoia 投)/ TAP(xpay)等次级竞争者涌现。2026 年中 FIDO 接管 AP2 重命名 AAIF,Apple / Microsoft / Mastercard 加入,联盟扩至 100+ —— 协议层进入 commoditization 通道,类比 WebAuthn / OAuth / OpenID Connect(详见 [[agent-economy/ai-agent-payment-protocols-commoditization|协议 commoditization 与价值上移]])。
 
 ## Counterpoints
 

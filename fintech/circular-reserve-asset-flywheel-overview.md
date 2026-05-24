@@ -42,15 +42,15 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 [Circle 净利息收入] ──分 Coinbase 50% + 再投 BUIDL──┘
 ```
 
-Circle 每存 $1 在 BUIDL → BlackRock 收 0.5% 管理费 → 净 4% 利息回给 Circle → 50% 分 Coinbase + 50% 自留 → 自留部分继续买 BUIDL。如果"自留→再投"比例 > 0 · BUIDL 占储备的比例会**单调上升**,直到外力打断(监管 cap / Circle 主动多元化 / 竞品 MMF 抢份额)。
+Circle 每存 $1 在 BUIDL → BlackRock 收 0.5% 管理费 → 净 4% 利息回给 Circle → 50% 分 Coinbase + 50% 自留 → 自留部分继续买 BUIDL。如果"自留→再投"比例 > 0 · BUIDL 占储备的比例会**单调上升**,直到外力打断(监管 cap / Circle 主动多元化 / 竞品 MMF 抢份额)。同样的反身性循环也出现在 [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL × SC issuer 矩阵]] 的其他 issuer 关系(USDB / USDtb / sfrxUSD / OUSG)。
 
 ## Origin & evolution
 
-2024.03 BUIDL 上线 · Circle 早期建仓但规模有限。2024-2025 AUM 4-5× 增长期 Circle 持仓快速放大 · 2025.04 Circle 公开承认。2025.07 GENIUS Act §504 要求逐月披露储备金构成但未禁止"通过代币化国债持仓" → 飞轮在监管灰区内继续运转。
+2024.03 BUIDL 上线 · Circle 早期建仓但规模有限。2024-2025 AUM 4-5× 增长期 Circle 持仓快速放大 · 2025.04 Circle 公开承认。2025.07 [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] §504 要求逐月披露储备金构成但未禁止"通过代币化国债持仓" → 飞轮在监管灰区内继续运转。
 
 ## Counterpoints
 
-飞轮存在 ≠ 必然失控 —— 关键看 Circle 自留再投比例与监管 cap 时间窗。BUIDL 由 BlackRock 做市 · 二级流动性比一般代币化 MMF 强;若 Circle 主动多元化(USDP / Franklin BENJI / Apollo ACRED 等),飞轮速度会自然减缓。也有人主张代币化 MMF 储备金本质上比直接持债更透明 → "concentration risk"叙事被高估。
+飞轮存在 ≠ 必然失控 —— 关键看 Circle 自留再投比例与监管 cap 时间窗。BUIDL 由 BlackRock 做市 · 二级流动性比一般代币化 MMF 强;若 Circle 主动多元化(USDP / Franklin BENJI / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等),飞轮速度会自然减缓。也有人主张代币化 MMF 储备金本质上比直接持债更透明 → "concentration risk"叙事被高估。
 
 ## Open questions
 

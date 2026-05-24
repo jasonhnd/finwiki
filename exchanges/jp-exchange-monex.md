@@ -124,6 +124,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[JapanFG/monex-group]] — マネックスグループ親会社プロファイル
+- [[exchanges/jp-vasp-derivative-license-system]] — JP VASP デリバティブライセンス制度
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 

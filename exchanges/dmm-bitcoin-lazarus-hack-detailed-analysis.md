@@ -72,5 +72,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/coincheck-nem-hack-detailed-analysis]] (比較)
 - [[exchanges/fsa-business-improvement-orders-history]]
 - [[exchanges/jp-vasp-ma-consolidation-history]]
+- [[security/forensic-identity-anchor-chain|forensic identity anchor chain]]
+- [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]]
+- [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック詳細分析]]
+- [[exchanges/global-crypto-forensics-vendor-layer|グローバル crypto forensics ベンダーレイヤー]]
 
 来源: projects/cgv/jp-crypto-exchange-research/

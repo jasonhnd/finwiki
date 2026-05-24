@@ -32,11 +32,11 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-AI agent 经济与 SaaS 订阅模式根本不匹配:agent 可能临时调用上百个不同 API,每个 API 走 "注册 + 信用卡 + 订阅 + API key 管理" 流程对 agent 不可能。需要 per-call micropayment + 即时鉴权 + 无账号注册。**x402 协议流程**:(1) 客户端请求 API endpoint;(2) Server 返回 `HTTP 402 Payment Required` + `X-Payment-Required` header(包含金额、地址、accepted assets);(3) 客户端构造 USDC 转账;(4) 客户端重发请求带 `X-Payment` header(包含 tx hash / proof);(5) Server 验证支付 → 返回数据。Facilitator 模式让 Server 不必自己验证链上 tx —— 委托 Coinbase / Cloudflare 等 facilitator,降低实现门槛同时缩短到 < 100ms。
+AI agent 经济与 SaaS 订阅模式根本不匹配:agent 可能临时调用上百个不同 API,每个 API 走 "注册 + 信用卡 + 订阅 + API key 管理" 流程对 agent 不可能。需要 per-call micropayment + 即时鉴权 + 无账号注册。**x402 协议流程**:(1) 客户端请求 API endpoint;(2) Server 返回 `HTTP 402 Payment Required` + `X-Payment-Required` header(包含金额、地址、accepted assets);(3) 客户端构造 [[fintech/usd-stablecoin-interchange|USDC]] 转账;(4) 客户端重发请求带 `X-Payment` header(包含 tx hash / proof);(5) Server 验证支付 → 返回数据。Facilitator 模式让 Server 不必自己验证链上 tx —— 委托 Coinbase / Cloudflare 等 facilitator,降低实现门槛同时缩短到 < 100ms(agent 钱包通常基于 [[systems/erc-4337-overview|ERC-4337]] 或 [[systems/erc-7702-overview|ERC-7702]],由 [[systems/erc-4337-userop-bundler-flow|bundler]] 处理 UserOp)。
 
 ## Origin & evolution
 
-RFC 7231 定义 HTTP 402 Payment Required 但留空 "reserved for future use" · 30 年无人启用因缺 universal payment rail。USDC + stablecoin 解决了这点。2025-05 Coinbase 把 x402 作为 spec 开源(github.com/coinbase/x402)· 默认绑 USDC on Base。2025 H2 早期采用者包括 Vercel AI SDK / Cloudflare Workers 实验。2026-Q1 Cloudflare 把 x402 集成进 Workers 生产环境 → 全球 20%+ HTTP 流量层默认有了 payment rail。2026-Q2 AWS API Gateway 跟进。x402 Bazaar MCP 收录 10,000+ endpoints 作为 agent-discoverable 付费 API 目录。
+RFC 7231 定义 HTTP 402 Payment Required 但留空 "reserved for future use" · 30 年无人启用因缺 universal payment rail。USDC + stablecoin 解决了这点(战略空间见 [[fintech/stablecoin-chain-token-strategy-trilemma|链 × 币 × 策略三难]])。2025-05 Coinbase 把 x402 作为 spec 开源(github.com/coinbase/x402)· 默认绑 USDC on Base。2025 H2 早期采用者包括 Vercel AI SDK / Cloudflare Workers 实验。2026-Q1 Cloudflare 把 x402 集成进 Workers 生产环境 → 全球 20%+ HTTP 流量层默认有了 payment rail。2026-Q2 AWS API Gateway 跟进。x402 Bazaar MCP 收录 10,000+ endpoints 作为 agent-discoverable 付费 API 目录。
 
 ## Counterpoints
 

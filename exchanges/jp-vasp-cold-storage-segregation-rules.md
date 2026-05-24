@@ -56,4 +56,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - 香港 SFC Type 1 + VASP ライセンス: 顧客資産との混蔵（Co-Mingling）禁止、独立 Trust Company 経由必須
 - EU MiCA CASP（2024 施行）: 顧客資産の完全分別保管義務、第三者カストディアン許容
 
-参考: [[exchanges/jvcea-self-regulatory-overview]] · [[exchanges/jp-vasp-regulatory-timeline]] · [[exchanges/jp-institutional-custody-three-pillars]]
+参考: [[exchanges/jvcea-self-regulatory-overview]] · [[exchanges/jp-vasp-regulatory-timeline]] · [[exchanges/jp-institutional-custody-three-pillars]] · [[exchanges/global-vasp-regulatory-comparison-matrix]] · [[exchanges/coincheck-nem-hack-detailed-analysis]] · [[exchanges/cex-matching-engine-wallet-architecture]]

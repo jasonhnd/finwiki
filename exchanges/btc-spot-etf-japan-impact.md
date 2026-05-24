@@ -59,6 +59,12 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - **国内 CEX 競合圧力**: ETF 解禁時、国内 spot 取引のシェア低下リスク。米国でも spot ETF 承認後、Coinbase retail spot 取引高は ETF へ流れる trend 観察 → [[jp-cex-sales-vs-exchange-model-economics]] の販売所モデル収益にも影響
 - **機関プレイヤー流入**: Monex / SBI / 野村 / 三井住友トラスト等の大手金融 conglomerate 戦略意義増大 → [[jp-listed-cex-related-companies-matrix]]
 
+## 関連
+
+- [[exchanges/global-institutional-custody-five-pillars]] — グローバル institutional custody 5 本柱
+- [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX 統合
+- [[exchanges/global-cex-prime-brokerage-layer]] — グローバル CEX prime brokerage レイヤー
+
 ---
 
 来源: projects/cgv/jp-crypto-exchange-research/ + 公開情報 (SEC press, BlackRock IBIT prospectus, Coinbase Custody IR, FSA + 日経/ITmedia 報道)

@@ -42,10 +42,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 |---|---|---|
 | 发行方核心成本 | 监管不确定 + 储备金 + 上市渠道 | 储备金 + Arc 自有 L1 |
 | 分销方核心价值 | 用户基础 + 流动性 + 合规背书 | 用户基础 + 流动性(合规已标准化) |
-| 发行方 fallback | 必须找头部交易所 | 可建自有 L1(Arc · 自销自循环) |
+| 发行方 fallback | 必须找头部交易所 | 可建自有 L1([[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc · 自销自循环]]) |
 | 分销方 fallback | 仅 USDC(no alternative) | 可推自有 stablecoin(Base USDB-like) |
 
-**结果**:50/50 模型的"分销方溢价"在 §501 后必须重新议价。
+**结果**:50/50 模型的"分销方溢价"在 [[fintech/genius-act-501-denylist-mandate|§501]] 后必须重新议价。
 
 ## Origin & evolution
 
@@ -53,7 +53,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Counterpoints
 
-主张"50/50 不会破裂":Coinbase Q1 2025 $305M = 公司收入 12-15% · 双方都不愿破裂 · 维持比破裂更优。Circle 已上市需对股东负责 · 主动让 Coinbase = 内部治理问题。Arc 即使成功侵蚀 USDC on Base · 也是 5-10 年慢节奏 · 50/50 模型可以同步缓慢调整(40/60 / 30/70)而不需断点重设。
+主张"50/50 不会破裂":Coinbase Q1 2025 $305M = 公司收入 12-15% · 双方都不愿破裂 · 维持比破裂更优。Circle 已上市需对股东负责 · 主动让 Coinbase = 内部治理问题。Arc 即使成功侵蚀 USDC on Base · 也是 5-10 年慢节奏 · 50/50 模型可以同步缓慢调整(40/60 / 30/70)而不需断点重设。类似 [[fintech/paypal-pyusd-stablecoin|PYUSD]] (Paxos → PayPal 80-90%) 的极端分销激励则代表更晚期、更对手不对称的版本。
 
 ## Open questions
 

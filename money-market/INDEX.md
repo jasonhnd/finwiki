@@ -34,6 +34,7 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 | Call-rate mechanism | [[money-market/call-market-structure|Call market structure]] | How the uncollateralized overnight call rate is formed and why it matters. |
 | JGB repo / secured funding | [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] | How secured JGB funding, collateral scarcity, GC / SC repo, and securities lending affect market functioning. |
 | BoJ implementation | [[money-market/boj-open-market-operations|BoJ open market operations]] | What operation tools the BoJ uses to supply or absorb funds. |
+| Tanshi business model | [[money-market/tanshi-company-business-model|Tanshi company business model]] | How Tokyo / Central / Ueda Yagi tanshi differ in business model and intersect with BoJ operations. |
 
 ## JapanFG Anchors
 
@@ -56,7 +57,7 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 
 | Priority | Page | Why |
 |---|---|---|
-| P1 | `money-market/tanshi-company-business-model.md` | Needed to compare Tokyo Tanshi, Central Tanshi, and Ueda Yagi Tanshi. |
+| Done | [[money-market/tanshi-company-business-model|Tanshi company business model]] | Created to compare Tokyo Tanshi, Central Tanshi, and Ueda Yagi Tanshi business models, BoJ-operations adjacency, and FIEA Type 1 framing. |
 | P2 | `money-market/boj-current-account-access.md` | Useful for bank / settlement / tanshi boundary analysis. |
 
 ## Related

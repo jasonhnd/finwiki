@@ -67,6 +67,9 @@ The public company-facing surface is narrower than many retail exchanges. The of
 - [[exchanges/jvcea-self-regulatory-overview]]
 - [[exchanges/jp-crypto-exchange-overview]]
 - [[exchanges/jp-exchange-coinhub]]
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
+- [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX 統合（不動産隣接）
+- [[fintech/japan-financial-regulation]] — 日本金融規制全体
 
 ## Sources
 

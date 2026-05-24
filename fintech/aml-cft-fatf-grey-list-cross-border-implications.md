@@ -36,11 +36,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 FATF 评级影响 SC 合规的传导链:**Grey list 国家** → IMF Article IV 报告中风险评级下调 → 国际银行 correspondent banking 关系收紧(de-risking) → FedWire / SWIFT 准入门槛上升 → OCC / EBA / FSA 拒绝该司法区 issuer 申请 → §501(d) / MiCA equivalent 资格基本断绝。
 
-具体到 SC issuer 选址:HK / SG / US / EU / Switzerland / Japan / UK 是 FATF 顶级国家,所有 OCC 等价 charter 集中于此。Cayman / BVI 虽未上灰但 FATF 评级中等,DAO 类项目转向 Switzerland (Zug) / Singapore。Tether HK 申请的隐性瓶颈正是 HK FSA 必须确认 Tether 历史 BVI/El Salvador 操作不违 FATF R.15/R.16。
+具体到 SC issuer 选址:HK / SG / US / EU / Switzerland / Japan / UK 是 FATF 顶级国家,所有 OCC 等价 charter 集中于此。Cayman / BVI 虽未上灰但 FATF 评级中等,DAO 类项目转向 Switzerland (Zug) / Singapore。Tether HK 申请的隐性瓶颈正是 HK FSA 必须确认 Tether 历史 BVI/El Salvador 操作不违 FATF R.15/R.16(详见 [[fintech/hkma-stablecoin-licensing-implications|HKMA 牌照战略含义]])。HK SFC VASP 侧的牌照配套见 [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP 牌照概览]]。
 
 ## Origin & evolution
 
-2019-10 G20 Osaka 加密扩展后,FATF 评级首次成为 SC 监管的 gatekeeper 工具。FSB 2023-07《High-level Recommendations for Crypto Asset Activities》直接引用 FATF,IOSCO 2023-11《Policy Recommendations for Crypto and Digital Asset Markets》同步,三方形成 "FATF(反洗钱) + FSB(金融稳定) + IOSCO(市场行为)" 三角。2024-2025 多国 Grey list 退出潮(UAE / Türkiye / Cayman / Philippines)直接释放 SC 市场流动性。
+2019-10 G20 Osaka 加密扩展后,FATF 评级首次成为 SC 监管的 gatekeeper 工具。FSB 2023-07《High-level Recommendations for Crypto Asset Activities》直接引用 FATF,IOSCO 2023-11《Policy Recommendations for Crypto and Digital Asset Markets》同步,三方形成 "FATF(反洗钱) + FSB(金融稳定) + IOSCO(市场行为)" 三角。2024-2025 多国 Grey list 退出潮(UAE / Türkiye / Cayman / Philippines)直接释放 SC 市场流动性,与 [[fintech/gray-market-dollar-network-formalization|灰色市场美元正式化]] 同步推进。
 
 ## Counterpoints
 

@@ -30,7 +30,7 @@ sources:
 This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-rebrand-5-layer-audit-framework|fork-and-rebrand audit framework]] for peer context and [[systems/INDEX|systems index]] for the broader dependency boundary.
 
 > [!info] TL;DR
-> 三个独立动作组合 -> supply chain attack 形态: (1) go.mod / package.json 模块路径冒名 upstream (e.g. github.com/cosmos/...) (2) replace 指令把冒名路径劫持到自家 fork (3) 主仓库 LICENSE 删除 -> 任何下游用户 import "正版"路径,实际跑你的 fork.
+> 三个独立动作组合 -> supply chain attack 形态: (1) go.mod / package.json 模块路径冒名 upstream (e.g. github.com/cosmos/...) (2) replace 指令把冒名路径劫持到自家 fork (3) 主仓库 LICENSE 删除 -> 任何下游用户 import "正版"路径,实际跑你的 fork. 在受监管 VASP 链路上,此类攻击面被 [[exchanges/jp-vasp-security-audit-certification|JP VASP 安全审计认证]] 体系部分覆盖.
 
 ## 三连击拆解
 
@@ -63,14 +63,14 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-
 ## When to Use
 
 - 项目 claim "完全自研" 但仓库结构高度疑似 fork
-- 依赖此项目的下游用户做 supply chain risk audit
+- 依赖此项目的下游用户做 supply chain risk audit — 重大事件如 [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]] 暴露了第三方依赖侧 social-engineering / build-toolchain 攻击的真实风险
 - 法务侧评估 "这家公司用了哪些 OSS / 是否授权合规"
 
 ## When NOT to Use
 
 - 项目公开标注 "fork of X" + 保留原 LICENSE — 此为合法 fork
 - 纯应用层项目无 module path 概念
-- 闭源项目无法 audit (此时需其他途径)
+- 闭源项目无法 audit (此时需其他途径) — 例如许可链 [[systems/canton-overview|Canton]] 这类需要走 governance + auditor 通道而非源码 diff
 
 ## Counterpoints
 

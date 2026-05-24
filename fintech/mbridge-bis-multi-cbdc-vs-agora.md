@@ -33,11 +33,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-mBridge 与 Agora 在技术层都用 permissioned DLT + BFT 共识,但治理与参与结构根本不同。**mBridge** 是央行节点 + 商业银行 sub-participants 的两层结构,绕开 SWIFT + Fedwire 走各国 CBDC 直接结算。**Agora** 是 "tokenized correspondent banking" —— 央行发 tokenized reserve · 商业银行发 tokenized deposit · 共同在统一 ledger 上结算,实质是 "把现有 SWIFT/Fedwire correspondent banking 上链",而非颠覆美元体系。BIS 2025 的切换意味着 BIS 选择了 "上链补丁" 而非 "替代体系" 的路线 —— 让美元侧拥抱 tokenization 而留下 mBridge 给非美元侧自治。
+mBridge 与 Agora 在技术层都用 permissioned DLT + BFT 共识,但治理与参与结构根本不同。**mBridge** 是央行节点 + 商业银行 sub-participants 的两层结构,绕开 SWIFT + Fedwire 走各国 CBDC 直接结算。**Agora** 是 "tokenized correspondent banking" —— 央行发 tokenized reserve · 商业银行发 tokenized deposit · 共同在统一 ledger 上结算,实质是 "把现有 SWIFT/Fedwire correspondent banking 上链",而非颠覆美元体系(deposit token 论题见 [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC 与 deposit token 论题]])。BIS 2025 的切换意味着 BIS 选择了 "上链补丁" 而非 "替代体系" 的路线 —— 让美元侧拥抱 tokenization 而留下 mBridge 给非美元侧自治。
 
 ## Origin & evolution
 
-2021 mBridge 启动 · 同期 Agora 仅是 BIS 内部 ideation。2023-2024 mBridge 进入 MVP · Agora 仍在筹备。2024-04 Agora 正式公布 · 7 央行 + 41 商业银行加入(JPM / Citi / HSBC / 三菱 UFJ 等)。2025-Q1-Q3 Agora 完成首轮 atomic settlement PoC · mBridge 同期被 G7 政治压力包围。2025-10 BIS 宣布退出 mBridge 运营 —— 同时持续宣传 Agora 进展。2026-Q2 起 mBridge 与巴西 DREX 互操作测试 · Agora 进入扩展央行招募阶段。两个项目从 "BIS 双轨" 变成 "对立的两个货币阵营技术栈"。
+2021 mBridge 启动 · 同期 Agora 仅是 BIS 内部 ideation。2023-2024 mBridge 进入 MVP · Agora 仍在筹备。2024-04 Agora 正式公布 · 7 央行 + 41 商业银行加入(JPM / Citi / HSBC / [[JapanFG/mufg|三菱 UFJ]] 等)。2025-Q1-Q3 Agora 完成首轮 atomic settlement PoC · mBridge 同期被 G7 政治压力包围。2025-10 BIS 宣布退出 mBridge 运营 —— 同时持续宣传 Agora 进展。2026-Q2 起 mBridge 与巴西 DREX 互操作测试 · Agora 进入扩展央行招募阶段。两个项目从 "BIS 双轨" 变成 "对立的两个货币阵营技术栈"。
 
 ## Counterpoints
 

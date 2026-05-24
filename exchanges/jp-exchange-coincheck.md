@@ -84,7 +84,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 |------|------|
 | 2012-08 | Wonder株式会社として設立。暗号資産ウォレット・取引サービスを開始 |
 | 2014頃 | コインチェック株式会社に商号変更 |
-| **2018-01-26** | **NEM（XEM）不正流出事件**：ホットウォレットに保管されていた XEM 約5億2,630万 NEM（当時時価約580億円相当）が外部ハッカーにより不正送金される。同日深夜に同社が公式発表。日本史上最大規模の暗号資産流出事件 |
+| **2018-01-26** | **NEM（XEM）不正流出事件**：ホットウォレットに保管されていた XEM 約5億2,630万 NEM（当時時価約580億円相当）が外部ハッカーにより不正送金される。同日深夜に同社が公式発表。日本史上最大規模の暗号資産流出事件（詳細は [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM ハック詳細分析]] および [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] 参照） |
 | 2018-03 | 金融庁より業務改善命令（複数回）受領。FSA 検査・改善要求に対応 |
 | 2018-04 | マネックスグループが全株式を約36億円で取得し完全子会社化。経営体制刷新 |
 | 2019-01-11 | 暗号資産交換業登録（関東財務局 第00014号）取得 |
@@ -117,6 +117,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-bitflyer]] — bitFlyer
 - [[exchanges/jp-exchange-gmo-coin]] — GMOコイン
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
+- [[exchanges/coincheck-nem-hack-detailed-analysis]] — Coincheck NEM 流出事件詳細分析
+- [[JapanFG/monex-group]] — 親会社 Monex Group
+- [[exchanges/jp-ieo-system-and-cases]] — IEO 制度・事例
 
 ## Sources
 

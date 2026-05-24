@@ -72,5 +72,8 @@ status: candidate
 - [[exchanges/global-cex-top10-comparison]]
 - [[exchanges/global-institutional-custody-five-pillars]]
 - [[exchanges/jp-exchange-laser-digital-japan]] (Nomura スイス子会社経由)
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
+- [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX 統合（SDX 関連）
 
 来源: 公開情報のみ (FINMA 公告, Crypto Valley Association 公式 cryptovalley.swiss, 各社公式 IR)

@@ -49,11 +49,11 @@ GENIUS §501 freeze (30 分钟)   ← OFAC SDN 自动执行
 - 日本 ¥100,000 → 与零售用户体验平衡
 - 新加坡 SGD 1,500 + DTSP Regime 2024-04 → 关闭灰色地带
 
-**DeFi 灰区**:FATF 2021-10 Updated Guidance 指 "sufficient degree of control or influence" 则视为 VASP。纯智能合约 + 无 governance = 不是。实际操作中常追溯到 founders / DAO 成员(Tornado Cash 案例)。
+**DeFi 灰区**:FATF 2021-10 Updated Guidance 指 "sufficient degree of control or influence" 则视为 VASP。纯智能合约 + 无 governance = 不是。实际操作中常追溯到 founders / DAO 成员(Tornado Cash 案例)。日本 VASP 时间线对照见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]],全球横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Origin & evolution
 
-1996 美国先行,2019 G20 Osaka 加密扩展把 R.16 全球化,2023-2024 各国本地化(日本 6 月 · 欧盟 12 月)。2024-12-30 EU TFR 生效是分水岭 · USDT 在欧盟份额从 28% 跌到 3%(MiCA + TFR 双重打击)。2026-Q3 FinCEN 美国对齐计划 = 全球 floor 几乎统一。
+1996 美国先行,2019 G20 Osaka 加密扩展把 R.16 全球化,2023-2024 各国本地化(日本 6 月 · 欧盟 12 月)。2024-12-30 EU TFR 生效是分水岭 · USDT 在欧盟份额从 28% 跌到 3%([[fintech/mica-overview|MiCA]] + TFR 双重打击)。2026-Q3 FinCEN 美国对齐计划 = 全球 floor 几乎统一。
 
 ## Counterpoints
 

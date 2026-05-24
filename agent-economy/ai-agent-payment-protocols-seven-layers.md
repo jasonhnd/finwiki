@@ -31,13 +31,13 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 **意图层**响应"用户想做什么"。AP2 定义三层信任链 mandate:Intent(用户 ↦ agent · 我授权你买 X)→ Cart(agent ↦ 商家 · 我代表用户下单)→ Payment(商家 ↦ 支付网络 · 收款指令)。每一层都用 VC + DPK 签名,链式不可篡改。SPT / ACP 是类似设计的早期竞争者。
 
-**传输层**响应"钱怎么从 A 到 B"。x402 复活 HTTP 402 Payment Required 状态码:服务器在响应中嵌入"付 X USDC 到 Y 地址",agent 钱包自动签名转账,per-call 微支付成立。TAP 走类似 token-based auth 路径但生态薄。
+**传输层**响应"钱怎么从 A 到 B"。x402 复活 HTTP 402 Payment Required 状态码:服务器在响应中嵌入"付 X USDC 到 Y 地址",agent 钱包自动签名转账,per-call 微支付成立。底层钱包通常基于 [[systems/erc-4337-overview|ERC-4337 智能账户]] 或 [[systems/erc-7702-overview|ERC-7702 临时升级]],跨链时依赖 [[systems/chain-abstraction-pattern-overview|chain abstraction 模式]] 隐藏底层链差。TAP 走类似 token-based auth 路径但生态薄。
 
 **上下文层**响应"LLM 怎么知道有哪些工具 / 数据可用"。MCP 标准化 server-side tool definitions + resources,LLM client 自动发现并调用。A2A 处理 agent 间通信(一个 agent 委托另一个 agent),与 MCP 是 server-tool 对 agent-agent 的两个方向互补。
 
 ## Origin & evolution
 
-2024.11 Anthropic 发 MCP · 6 个月内 OpenAI / Google 跟进 · 事实标准。2025.04 Google 发 A2A 补 agent 间通信。2025.05 Coinbase 发 x402,引爆"HTTP 原生支付"叙事。2025.09 Google 联 60+ 伙伴发 AP2,意图层定调。2026 年中 FIDO 接管 AP2 → AAIF,意图层走向中立标准。次级协议(SPT/ACP/TAP)在 2025 内涌现,但因 AP2 + FIDO 双重 commoditization 压力难以建立独立护城河。
+2024.11 Anthropic 发 MCP · 6 个月内 OpenAI / Google 跟进 · 事实标准。2025.04 Google 发 A2A 补 agent 间通信。2025.05 Coinbase 发 x402,引爆"HTTP 原生支付"叙事(USDC 作为默认结算币 · 详见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。2025.09 Google 联 60+ 伙伴发 AP2,意图层定调。2026 年中 FIDO 接管 AP2 → AAIF,意图层走向中立标准。次级协议(SPT/ACP/TAP)在 2025 内涌现,但因 AP2 + FIDO 双重 commoditization 压力难以建立独立护城河 —— 与 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe 协议对冲策略]] 形成结构对照。
 
 ## Counterpoints
 

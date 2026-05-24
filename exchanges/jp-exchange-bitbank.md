@@ -83,7 +83,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 7. 戦略動向
 
-- **FTX Japan 吸収（2024年）**：破綻 exchange の顧客保護型引き継ぎを実施。口座数・取引通貨の拡充が見込まれる。
+- **FTX Japan 吸収（2024年）**：破綻 exchange の顧客保護型引き継ぎを実施（[[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% 返還ケーススタディ]] と [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]] 参照）。口座数・取引通貨の拡充が見込まれる。
 - **本店移転（2026年2月）**：東京ミッドタウン八重洲へ移転。大手交流ハブエリアへの集約と見られる。
 - IPO・外部資本調達に関する公開発表は確認できていない。
 
@@ -100,6 +100,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[exchanges/jp-exchange-bitflyer]] — 同業者 bitFlyer overview
 - [[exchanges/jp-exchange-bittrade]] — 同業者 BitTrade（旧 FTX Japan の前身 FolioCoin → Huobi Japan → BitTrade）overview
+- [[exchanges/jvcea-whitelist-token-listing]] — JVCEA whitelist token listing reference
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP parent company map
 
 ## Sources
 

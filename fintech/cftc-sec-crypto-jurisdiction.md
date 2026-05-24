@@ -40,11 +40,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - **SEC 管辖**:ICO tokens(Howey Test)· Yield/staking 产品(Gemini Earn)· DeFi front-end 运营(Uniswap Labs 2025-02 撤诉前)· Stablecoin —— 2025 起转交 OCC/FRB/FinCEN(GENIUS PPSI)
 - **灰区**:SOL / ADA / AVAX(撤诉后 ambiguous)· DeFi tokens(UNI/AAVE/CRV)· "decentralization test" token 从 SEC 转 CFTC 的路径
 
-发行方影响:BTC/ETH ETF issuer(BlackRock / Fidelity)受益于 CFTC 路径清晰;新 token 发行不再必经 SEC 注册地狱 → Atkins "safe harbor rulemaking" 提供出路。SC 完全脱离 SEC,转入 GENIUS PPSI(OCC/FRB/FinCEN)。
+发行方影响:BTC/ETH ETF issuer(BlackRock / Fidelity)受益于 CFTC 路径清晰;新 token 发行不再必经 SEC 注册地狱 → Atkins "safe harbor rulemaking" 提供出路。SC 完全脱离 SEC,转入 GENIUS PPSI(OCC/FRB/FinCEN,详见 [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter]])。
 
 ## Origin & evolution
 
-1946 Howey Test 奠基,2017 SEC DAO Report 把 Howey 移植加密。2021-2025 Gensler 时代 SEC 攻击性扩张,起诉 Coinbase / Kraken / Binance / Ripple 多线。2024-05 FIT21 众议院通过但参议院搁置。2025-01 Trump 2.0 上任后 SEC 立场 180 度转向,Acting Chair Uyeda 2025-02/03 密集撤诉,Atkins 4 月接任 + Peirce 主导 Crypto Task Force。2026 French Hill 推动 CLARITY Act 重启,目标完成 FIT21 未竟之路。
+1946 Howey Test 奠基,2017 SEC DAO Report 把 Howey 移植加密。2021-2025 Gensler 时代 SEC 攻击性扩张,起诉 Coinbase / Kraken / Binance / Ripple 多线。2024-05 FIT21 众议院通过但参议院搁置。2025-01 Trump 2.0 上任后 SEC 立场 180 度转向,Acting Chair Uyeda 2025-02/03 密集撤诉,Atkins 4 月接任 + Peirce 主导 Crypto Task Force。2026 French Hill 推动 CLARITY Act 重启,目标完成 FIT21 未竟之路。VASP 全球横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Counterpoints
 

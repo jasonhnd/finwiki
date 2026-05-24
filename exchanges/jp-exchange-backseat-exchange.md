@@ -120,6 +120,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBIグループ系（役員経歴の接点）
 - [[exchanges/jp-exchange-bitflyer]] — 元 bitFlyer 社長が監査役として参画
+- [[exchanges/jp-ieo-system-and-cases]] — JP IEO 制度・事例（NIDT 含む）
+- [[exchanges/jvcea-self-regulatory-overview]] — JVCEA 自主規制体系
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 

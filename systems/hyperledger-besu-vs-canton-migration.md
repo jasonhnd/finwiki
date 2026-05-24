@@ -33,7 +33,7 @@ Quorum/Besu 的优势是 EVM 兼容 · 可复用 Solidity 工具链 · 银行客
 
 ## Origin & evolution
 
-2015-2020 JPM 在 Quorum 上孵化 JPMD / Onyx Coin · 验证 stablecoin + 内部链可行性。2021 Daml/Canton 完成机构联盟启动 · DTCC + 高盛 + 摩根斯坦利加入。2024-11 JPM 改名 Onyx → Kinexys 同时启动 Canton 评估。2026 Q2-Q3 Kinexys 完成 Canton 部分功能切换(repo + collateral 优先)。2027 H1 计划完成全部主战场迁移,Quorum fork 转为内部测试环境。Citi CTS / HSBC TDS / BNP Securities Services 走类似路径但起点不同:Citi 直接 Canton + Hedera 并行,HSBC 仍以 Besu 为主未公开 Canton 计划。
+2015-2020 JPM 在 Quorum 上孵化 [[fintech/jpmorgan-jpmd-coin|JPMD]] / Onyx Coin · 验证 stablecoin + 内部链可行性。2021 Daml/Canton 完成机构联盟启动 · DTCC + 高盛 + 摩根斯坦利加入。2024-11 JPM 改名 Onyx → Kinexys 同时启动 Canton 评估。2026 Q2-Q3 Kinexys 完成 Canton 部分功能切换(repo + collateral 优先)。2027 H1 计划完成全部主战场迁移,Quorum fork 转为内部测试环境。Citi CTS / HSBC TDS / BNP Securities Services 走类似路径但起点不同:Citi 直接 Canton + Hedera 并行,HSBC 仍以 Besu 为主未公开 Canton 计划(对照 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 等公链 RWA 在机构链上的反向部署)。
 
 ## Counterpoints
 
@@ -46,6 +46,7 @@ Quorum/Besu 的优势是 EVM 兼容 · 可复用 Solidity 工具链 · 银行客
 - 2027 H1 迁移完成后 Citi / HSBC 会跟进 Canton 还是继续 Besu?
 - Canton 多方原子结算的实测 TPS / 延迟数据何时公开?
 - Besu 社区若失去 JPM 核心贡献是否还能维持月 commit top 5?
+- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED 等私募信贷代币化]] 选 Canton 还是 Besu?
 
 ## Related
 <!-- wiki-links:managed -->

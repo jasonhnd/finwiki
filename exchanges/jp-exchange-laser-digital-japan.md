@@ -112,6 +112,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
+- [[exchanges/jp-custody-komainu]] — Komainu institutional custody（連携）
+- [[exchanges/jvcea-type2-associate-membership-system]] — JVCEA Type 2 associate membership 制度
+- [[exchanges/global-cex-prime-brokerage-layer]] — グローバル CEX プライムブローカレッジレイヤー
 
 ## Sources
 

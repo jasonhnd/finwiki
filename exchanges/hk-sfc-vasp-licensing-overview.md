@@ -58,7 +58,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - **シンガポール** MAS DPT (Digital Payment Token) — リテール厳格制限
 - **UAE** VARA — Dubai 中心、より柔軟
 
-日本企業の対香港進出は活発で、Tether HK 戦略や三井系統の参入観測あり。SFC VATP は [[exchanges/global-cex-top10-comparison]] における Tier 2 拠点として位置付けられる一方、[[fintech/three-circles-stablecoin-mra-framework]] のような相互承認の議論はまだ初期段階。
+日本企業の対香港進出は活発で、Tether HK 戦略や三井系統の参入観測あり。SFC VATP は [[exchanges/global-cex-top10-comparison]] における Tier 2 拠点として位置付けられる一方、[[fintech/three-circles-stablecoin-mra-framework]] のような相互承認の議論はまだ初期段階。香港 VATP 体制は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] と [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバル stablecoin 規制 5 極比較]] の両軸で参照され、 [[fintech/hkma-stablecoin-licensing-implications|HKMA stablecoin licensing implications]] と並行して読む価値がある。
 
 ---
 

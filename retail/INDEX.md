@@ -33,6 +33,7 @@ The current active pair is [[retail/aeon-group|AEON Group]] and [[retail/seven-a
 |---|---|---|
 | likely | [[retail/aeon-group|AEON Group]] | Mall / supermarket retail-to-finance model with AEON Bank, AFS, AEON Card, WAON, WAON POINT |
 | likely | [[retail/seven-and-i-hd|Seven & i Holdings]] | Convenience-store and ATM infrastructure model with Seven Bank, nanaco, Seven Card Service |
+| likely | [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] | Third CVS-finance case after 2024-02 KDDI + Mitsubishi 50/50 TOB: Lawson Bank + au PAY + Pontaポイント telco-anchored model |
 
 ## Retail Finance Pattern
 
@@ -56,7 +57,7 @@ The current active pair is [[retail/aeon-group|AEON Group]] and [[retail/seven-a
 
 | Priority | Candidate | Why |
 |---|---|---|
-| P1 | `retail/lawson-kddi-retail-finance.md` | Needed to complete the convenience-store finance comparison beside Seven and AEON |
+| Done | [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] | Created to complete the CVS-finance comparison beside Seven & i and AEON after the 2024-02 KDDI + Mitsubishi joint TOB |
 | P2 | `retail/japan-retail-media-finance-loop.md` | Retail media, points, payment, and card data are converging |
 | P2 | `retail/store-traffic-as-financial-distribution.md` | Control page for physical retail CAC advantage |
 

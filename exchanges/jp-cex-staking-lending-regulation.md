@@ -64,3 +64,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - **validator 選定**: 内製 or 委託 (Figment / Blockdaemon 等) の透明性開示
 - **liquidity リスク**: アンステーク期間 (ETH 14-21 日 等) の流動性ロック
 - **token 選定**: 国内 CEX は保守的に PoS 主要 (ETH / SOL / ATOM 等) のみ提供
+
+## 関連
+
+- [[exchanges/liquid-staking-restaking-cex-exposure]] — Liquid staking / restaking × CEX 露出
+- [[exchanges/jp-crypto-asset-taxation-detailed]] — JP crypto asset 税制詳細
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス

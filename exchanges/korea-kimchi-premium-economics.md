@@ -62,3 +62,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jvcea-spot-volume-statistics-analysis]]
 - [[fintech/em-market-crypto-dollarization-pattern]]
 - [[fintech/cross-border-sc-via-swift-api]]
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/cross-chain-bridge-cex-deposit-withdrawal]] — cross-chain bridge × CEX 入出金（arbitrage ルート）
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較

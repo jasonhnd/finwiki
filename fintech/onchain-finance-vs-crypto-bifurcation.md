@@ -45,12 +45,12 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - 単一の「ブロックチェーン」議論は 2023 年以前のもの。2024-2025 で技術スタックも企業群も価値観も完全分岐
 - クリプトの「みんな chain で誰でも触れる」は機関投資家決済とは構造的に両立しない（→ [[fintech/institutional-stablecoin-deposit-token-thesis|institutional-stablecoin-deposit-token-thesis]]）
-- Canton Network を運営する Digital Asset 社は「クリプトの使い方は間違っている」と明言して立ち上がっている
+- [[systems/canton-overview|Canton Network]] を運営する Digital Asset 社は「クリプトの使い方は間違っている」と明言して立ち上がっている
 
 ## Applicable When
 
 - ブロックチェーン関連の戦略議論を始める前、相手がどちらの軌道で話しているか確認する必要があるとき
-- USDT/USDC を機関投資家 use case に持ち込む議論が出たとき
+- USDT/USDC を機関投資家 use case に持ち込む議論が出たとき（参照: [[fintech/wall-street-crypto-network-neutrality|Wall Street × Crypto 中立軍火商]]）
 - 新規 SC プロジェクトのターゲット市場を decompose するとき
 - ステークホルダーへのプレゼンで「ブロックチェーン」という単語を使う前
 

@@ -27,8 +27,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 **三件套**：
 
 1. **CARF**（OECD 2022 年提议 → 2026-2027 年全球落地）:50 余个司法辖区将强制要求 CEX 报告非居民客户的加密交易明细。
-2. **IRS Form 1099-DA**（2024 年提议 → 2026-01-01 broker 强制报告 → 2027-01-01 DeFi broker 部分生效）:美国人或对美交易 CEX 必须报告 gross proceeds。
-3. **GENIUS Act §§501 + OFAC 链上 feed**:合规稳定币 issuer 必须具备地址冻结能力 → 跨链转账实时审查。
+2. **[[fintech/irs-1099-da|IRS Form 1099-DA]]**（2024 年提议 → 2026-01-01 broker 强制报告 → 2027-01-01 DeFi broker 部分生效）:美国人或对美交易 CEX 必须报告 gross proceeds。
+3. **[[fintech/genius-act-501-denylist-mandate|GENIUS Act §§501]] + OFAC 链上 feed**:合规稳定币 issuer 必须具备地址冻结能力 → 跨链转账实时审查 — 实际先例见 [[fintech/chain-level-ofac-freeze-precedent|链级 OFAC freeze 先例]]。
 
 **含义**：
 

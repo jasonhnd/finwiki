@@ -32,11 +32,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-**风险 1 · 流动性挤兑场景**:USDC 大规模赎回 → Circle 必须卖 BUIDL → BUIDL 二级流动性受冲击 → BUIDL NAV 短暂偏离 → 其他持有者(交易所 / 机构)恐慌 → BUIDL AUM 下降 → 反过来加剧 Circle 储备金可信度问题。与 SVB 危机机制相同 —— 集中度问题不在资产质量 · 在赎回时二级流动性。
+**风险 1 · 流动性挤兑场景**:USDC 大规模赎回 → Circle 必须卖 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] → BUIDL 二级流动性受冲击 → BUIDL NAV 短暂偏离 → 其他持有者(交易所 / 机构)恐慌 → BUIDL AUM 下降 → 反过来加剧 Circle 储备金可信度问题。与 SVB 危机机制相同 —— 集中度问题不在资产质量 · 在赎回时二级流动性。
 
-**风险 2 · 监管"reserve concentration"重新定义**:GENIUS §504 未禁止代币化 MMF 集中持仓 · OCC / FRB 2026 后可能新增:单一代币化 MMF 不得超储备金 X% / 提供方与发行方不得有股权关联 / 系统性互锁结构必须建立独立风控隔离。BUIDL ↔ USDC 是当前规模最大、最透明的互锁案例 · 极可能成为监管样本。
+**风险 2 · 监管"reserve concentration"重新定义**:GENIUS §504 未禁止代币化 MMF 集中持仓 · OCC / FRB 2026 后可能新增:单一代币化 MMF 不得超储备金 X% / 提供方与发行方不得有股权关联 / 系统性互锁结构必须建立独立风控隔离。BUIDL ↔ USDC 是当前规模最大、最透明的互锁案例 · 极可能成为监管样本 —— 这与 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 稳定币储备资本框架]] 在跨境侧的反射动作相互呼应。
 
-**风险 3 · 利息流反身性**:50% 自留利息持续再投 BUIDL · 占比单调上升 · 直到外力打断。
+**风险 3 · 利息流反身性**:50% 自留利息持续再投 BUIDL · 占比单调上升 · 直到外力打断(参照 [[fintech/issuer-distributor-incentive-realignment-50-50-model|50/50 分账模型]] 的利息流方向)。
 
 ## Origin & evolution
 

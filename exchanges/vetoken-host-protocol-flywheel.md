@@ -74,4 +74,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
 - [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]]
 - [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX 反超 incumbent]]
+- [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]
+- [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]
+- [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure arm analog]]
 <!-- /wiki-links:managed -->

@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-USD1 经济学 = WLF token 经济学的**辅助燃料**: WLF 通过销售自家 token 给散户筹集资金 → 资金部分入 USD1 储备 (100% UST) → 储备 yield 不归 USD1 持有人(信託规则) 也不像 PayPal 那样靠分销激励,而是**回流到 WLF token holder**(政治支持者经济回报). 这绕过了 GENIUS Act "§501 SC 不得付息"约束 (yield 给的是另一个代币持有人不是 SC 持有人). 2024-11 Trump 当选后, 2025-01 EO 14178 "Strengthening American Leadership in Digital Financial Technology" 签署 → WLF 散户 token 销售大涨 → 2025-03 与 Bridge 签分销协议 → 2025-Q2 SEC 暂停多起加密公司调查. **政治权力 × 监管放松 × 自家稳定币** 的三重共振。
+USD1 经济学 = WLF token 经济学的**辅助燃料**: WLF 通过销售自家 token 给散户筹集资金 → 资金部分入 USD1 储备 (100% UST) → 储备 yield 不归 USD1 持有人(信託规则) 也不像 [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] 那样靠分销激励,而是**回流到 WLF token holder**(政治支持者经济回报). 这绕过了 GENIUS Act "§501 SC 不得付息"约束 (yield 给的是另一个代币持有人不是 SC 持有人). 2024-11 Trump 当选后, 2025-01 EO 14178 "Strengthening American Leadership in Digital Financial Technology" 签署 → WLF 散户 token 销售大涨 → 2025-03 与 Bridge 签分销协议 → 2025-Q2 SEC 暂停多起加密公司调查. **政治权力 × 监管放松 × 自家稳定币** 的三重共振。
 
 ## Origin & evolution
 
@@ -43,7 +43,7 @@ USD1 经济学 = WLF token 经济学的**辅助燃料**: WLF 通过销售自家 
 
 ## Counterpoints
 
-USD1 真实使用率极低 - 主要靠 WLF 自买 + 政治支持者忠诚购买驱动 MCap 增长,不是商业场景使用. Bridge 把 USD1 与 USDB 并列是"全光谱接纳"策略 (Bridge/Stripe 不愿被政治化),不代表 Bridge 主动推广. 2027 Trump 任期结束后,如果新一届政府强化 SC 监管,USD1 可能成为第一批被强制合规审查或冻结的产品. 欧盟与日本监管机构因此对"美元稳定币互认"采取更谨慎态度——USD1 反向损害了三圆 MRA 进程.
+USD1 真实使用率极低 - 主要靠 WLF 自买 + 政治支持者忠诚购买驱动 MCap 增长,不是商业场景使用. Bridge 把 USD1 与 USDB 并列是"全光谱接纳"策略 (Bridge/Stripe 不愿被政治化),不代表 Bridge 主动推广,与 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse]] 的渠道占位逻辑一致. 2027 Trump 任期结束后,如果新一届政府强化 SC 监管,USD1 可能成为第一批被强制合规审查或冻结的产品,直接触发 [[fintech/chain-level-ofac-freeze-precedent|链上 OFAC 冻结判例]] 路径. 欧盟与日本监管机构因此对"美元稳定币互认"采取更谨慎态度——USD1 反向损害了三圆 MRA 进程.
 
 ## Open questions
 

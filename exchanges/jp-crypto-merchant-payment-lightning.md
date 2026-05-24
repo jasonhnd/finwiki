@@ -57,6 +57,12 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 エルサルバドル (BTC 法定通貨化 2021) · 米 Cash App (Strike 連携) · アルゼンチン retail ([[fintech/em-market-crypto-dollarization-pattern]]) · 国内は規制慎重性 + 価格ボラで普及遅延。ステーブルコイン連携 ([[exchanges/jp-cex-deposit-token-stablecoin-integration]]) が次世代決済レイヤー候補。
 
+## 関連
+
+- [[payments/japan-payment-clearing-and-settlement-infrastructure]] — JP payment clearing & settlement infrastructure
+- [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX × 預金トークン / EPI 統合
+- [[exchanges/jp-crypto-market-maker-otc-layer]] — JP crypto market maker / OTC レイヤー
+
 ## Sources
 
 - Lightning Network 公式 (lightning.network)

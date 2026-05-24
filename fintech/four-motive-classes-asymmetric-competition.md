@@ -32,9 +32,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **例子**：
 - Circle（USDC 是其唯一产品线）
-- Tether（USDT 是其唯一产品线）
-- Paxos（PYUSD / USAT / 各 SC 发行）
-- Stripe（垂直整合赌注全在 Bridge + Tempo + Privy）
+- [[fintech/tether-business-model-short-treasury-yield|Tether]]（USDT 是其唯一产品线）
+- Paxos（[[fintech/paypal-pyusd-stablecoin|PYUSD]] / USAT / 各 SC 发行）
+- Stripe（垂直整合赌注全在 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Bridge + Tempo + Privy]]）
 - Coinbase（Base + USDC 协议 + Prime 是其核心收入）
 - 稳定币 L1 / L2 链
 
@@ -46,9 +46,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **例子**：
 - a16z crypto（Arc $75M lead + 投多家其他 SC / 链项目）
-- BlackRock（投 Arc + BUIDL on 8 chains + 投 Tempo）
-- Apollo（投 Arc + ACRED on 6 chains）
-- SBI Holdings（投 Circle + 持 JPYC + 持 SBI Circle Holdings 50% + 多家其他）
+- BlackRock（投 Arc + [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] on 8 chains + 投 Tempo）
+- Apollo（投 Arc + [[fintech/apollo-acred-private-credit-tokenization|ACRED]] on 6 chains）
+- SBI Holdings（投 Circle + 持 [[JapanFG/jpyc|JPYC]] + 持 SBI Circle Holdings 50% + 多家其他）
 - Mubadala（投 Arc + 中东 RWA 基金）
 - Visa（投 Arc + Tempo validator + 接受所有 SC + 不发自己 SC）
 - Mastercard（同 Visa 但晚）

@@ -31,6 +31,7 @@ sources: []
 ## Start Here
 
 - [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
+- [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix (CCTP / CCIP / LayerZero / Hyperlane / Wormhole)]]
 - [[systems/cctp-v2-overview|CCTP V2 overview]]
 - [[systems/chain-abstraction-pattern-overview|chain abstraction overview]]
 - [[systems/erc-4337-overview|ERC-4337 overview]]
@@ -98,7 +99,7 @@ sources: []
 
 ## Backlog
 
-- Add a comparative table for CCTP V2 / CCIP / LayerZero / Hyperlane / Wormhole.
+- Done: [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] covering CCTP V2 / CCIP / LayerZero / Hyperlane / Wormhole across messaging model, security, settlement, chain coverage, institutional adoption, fee economics, governance, incident history, and best-fit use cases.
 - Separate Ethereum AA entries from cross-chain entries if the namespace grows past 60 entries.
 - Add diagrams for validator economics and institution-chain decentralization stages.
 - Reconcile protocol notes with `fintech/` issuer and regulatory strategy entries.

@@ -57,7 +57,7 @@ This entry sits under [[governance/japan-general-foundation-establishment-requir
 
 ### 3. 応募期間は 12 月〜翌 4 月に集中
 
-研究助成の公募は一般に前年 12 月 〜 当年 4 月に集中するため、**計画書は前年 11 月までに完成させておく** のが実務的な段取り。
+研究助成の公募は一般に前年 12 月 〜 当年 4 月に集中するため、**計画書は前年 11 月までに完成させておく** のが実務的な段取り。学生・若手研究者向けの奨学金・支援制度は別立てで [[policy-finance/japan-student-services-organization|JASSO]] が整理されており、研究助成と組み合わせることで研究代表者の生活基盤を確保できる。
 
 ## 適用案
 
@@ -68,9 +68,12 @@ This entry sits under [[governance/japan-general-foundation-establishment-requir
 | 公共教育事業 | サントリー文化財団・電通普及 | 人文社会研究型 |
 | 研究代表者が若手の場合 | トヨタ財団 | 45 歳以下の要件適合時 |
 
+金融・政策金融分野のテーマで助成申請する場合は、[[policy-finance/INDEX|policy-finance INDEX]] と [[finance/INDEX|finance INDEX]] を一次資料の棚卸し用に、業界横断の事業者マッピングは [[business/INDEX|business INDEX]] を参照すると、課題設定と先行整理の解像度が上がる。
+
 ## 関連 wiki
 
 - [[governance/japan-general-foundation-establishment-requirements|japan-general-foundation-establishment-requirements]]（財団法人として助成金を申請する前提）
+- [[JapanFG/INDEX|JapanFG INDEX]]（金融機関を研究対象とする場合の参照）
 
 ## 来源
 

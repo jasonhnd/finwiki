@@ -20,7 +20,7 @@ sources: []
 
 ## 案A: 暗号資産型
 - 資金決済法に基づく（→ [[fintech/japan-financial-regulation|日本金融規制]]）
-- 暗号資産交換業者（CAESP）による上場・流通
+- 暗号資産交換業者（CAESP）による上場・流通（CEX 側の典型集成は [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX 預金トークン/SC 統合]]）
 - 上場後の流動性が高い
 - 規制が比較的明確
 - 適合: 流動性重視・既存取引所活用
@@ -28,13 +28,13 @@ sources: []
 ## 案B: セキュリティトークン（ST）型
 - 金商法に基づく電子記録移転有価証券表示権利等
 - PTS（私設取引システム）or 取扱業者による流通
-- 機関投資家アクセス可能
+- 機関投資家アクセス可能（参照: [[exchanges/rwa-tokenization-cex-integration|CEX RWA トークン化統合]]）
 - コンプライアンス負荷が高い
 - 適合: 機関投資家向け・大口取引
 
 ## 案C: 信託型
 - 信託業法に基づく受益権トークン化
-- 信託銀行との連携が必要
+- 信託銀行との連携が必要（同型 SC 設計は [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]）
 - 投資家保護が最も厚い
 - 設計自由度が高いが組成に時間がかかる
 - 適合: 保守的スキーム・信託銀行パートナーあり

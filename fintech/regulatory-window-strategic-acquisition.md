@@ -33,7 +33,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
    - 收购：立即获得"皇冠位"，溢价 3–5× 仍划算
 4. 监管细则发布后，赛道估值再涨 1 轮 → 战略买家完成布局，VC 已 cash out
 
-**Sequoia × Bridge × Stripe 案例**：
+**Sequoia × Bridge × Stripe 案例**（详细五层链路见 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan Horse]]）：
 
 | 时间 | 事件 | 估值 / 倍数 |
 |---|---|---|
@@ -53,7 +53,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **通用性 / 可推广至**：
 
-- 加密：未来 GENIUS Act / MiCA / 日本 EPI 实施细则窗口前的连续 M&A
+- 加密：未来 [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] / [[fintech/mica-overview|MiCA]] / 日本 EPI 实施细则窗口前的连续 M&A
 - AI：欧盟 AI Act 实施细则窗口前的关键基础设施收购
 - 医疗：HIPAA / FDA 重大修订前的合规 SaaS 收购
 - 国防：CHIPS Act / Export Control 重大修订前的供应链收购

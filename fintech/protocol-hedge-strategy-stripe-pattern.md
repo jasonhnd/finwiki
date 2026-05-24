@@ -39,8 +39,8 @@ Draft          生态             Agents 生态    升级版
 
 - MPP:主导（IETF Internet-Draft 提交方 + Tempo 首发实现）
 - ACP:与 OpenAI 共同担任 co-author
-- AP2:协作方
-- x402:founding member（与 Coinbase、Cloudflare 共同发起）
+- [[agent-economy/ap2-overview|AP2]]:协作方
+- [[agent-economy/x402-http-payment-overview|x402]]:founding member（与 Coinbase、Cloudflare 共同发起）
 
 **含义**：
 
@@ -60,7 +60,7 @@ Draft          生态             Agents 生态    升级版
 - 早期 Bitcoin 阵营拒绝采用类似 Wi-Fi alliance 的多线策略 → 与以太坊分裂
 - Web3 钱包争夺战（MetaMask 一家独大 → 其他钱包多年追赶失败）
 
-**战略含义**：在新兴领域识别"多线下注"机会的风险显著低于"押注单一协议",例如稳定币地缘货币对立、AI agent 经济、链上 RWA 标准等领域。
+**战略含义**：在新兴领域识别"多线下注"机会的风险显著低于"押注单一协议",例如稳定币地缘货币对立、AI agent 经济、链上 RWA 标准等领域,与 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan Horse]] 共同构成 Stripe 在协议-应用双层的全栈对冲组合。
 
 
 ## Related

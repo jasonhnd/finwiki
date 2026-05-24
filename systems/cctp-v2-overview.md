@@ -29,7 +29,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Mechanism / How it works
 
-CCTP 把 USDC 变成 "一个 USDC、多条链"——所有公链上流通的 USDC 都是 Circle 直接 mint 的 native asset,没有 wrapped 版本。三步流程:
+CCTP 把 USDC 变成 "一个 USDC、多条链"——所有公链上流通的 USDC 都是 Circle 直接 mint 的 native asset,没有 wrapped 版本(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 的多桥拓扑)。三步流程:
 
 ```
 源链 (USDC burn)
@@ -46,7 +46,7 @@ V2 vs V1 关键差异:
 2. **Hooks**:跨链到达后自动触发目标链合约调用,支持 1-tx 跨链 swap / 1-tx 跨链贷款
 3. **更多链支持**:V2 上线后 1 年内扩展到 18+ 链
 
-**集中化代价**:Circle Attestation Service 是单点信任——Circle 可拒绝签名(已发生过 Tornado Cash 相关地址)。这是 GENIUS §501 Denylist 在 protocol-level 的执行通道。
+**集中化代价**:Circle Attestation Service 是单点信任——Circle 可拒绝签名(已发生过 Tornado Cash 相关地址)。这是 GENIUS §501 Denylist 在 protocol-level 的执行通道(对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥 deposit/withdrawal 路径]] 上同样的 Circle 节点)。
 
 ## Origin & evolution
 
@@ -65,7 +65,7 @@ Circle 的中心化角色是双刃剑:**优势**是单点 mint 可执行 §501 d
 - V1 退役的确切时间表?(预计 2026 但具体季度未公布)
 - Fast Transfer 的对手风险定价模型?Circle 如何对冲?
 - Hooks 在 DeFi 集成的实际安全审计实践?
-- 与 LayerZero/Wormhole 等通用桥的长期共存还是替代?
+- 与 LayerZero/Wormhole 等通用桥的长期共存还是替代?(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]])
 
 ## Related
 <!-- wiki-links:managed -->

@@ -29,12 +29,12 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-协议 commoditization 后,take rate 不可能从开源 standard 收取(无法收取 HTTP 协议费)。价值捕获必须上移到**纵向 distribution 控制点**:谁控制用户登录的 wallet → 谁控制 agent 默认支付路径 → 谁收 transaction fee。
+协议 commoditization 后,take rate 不可能从开源 standard 收取(无法收取 HTTP 协议费)。价值捕获必须上移到**纵向 distribution 控制点**:谁控制用户登录的 [[fintech/embedded-wallet-fintech-disintermediation-overview|wallet 去中介化]] → 谁控制 agent 默认支付路径 → 谁收 transaction fee。
 
 Stripe 五层全栈逻辑:
 1. **L1 链**(Tempo · Stripe + Paradigm)—— 支付优化链,7-10 validator,机构高资质
-2. **L2 / wallet**(Privy · Stripe 收购)—— 嵌入式 wallet 默认,集成在 5M+ Stripe 商户 checkout
-3. **稳定币**(USDB / Bridge · Stripe 旗下)—— 原生支付币
+2. **L2 / wallet**(Privy · Stripe 收购)—— [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|嵌入式 wallet 默认]],集成在 5M+ Stripe 商户 checkout
+3. **稳定币**(USDB / Bridge · Stripe 旗下)—— 原生支付币(参见 [[fintech/stablecoin-chain-token-strategy-trilemma|链 × 币 × 策略三难]])
 4. **SDK**(Stripe Checkout / Connect)—— 商户接入零代码
 5. **商家流量**(5M+ 商户)—— 终端 distribution 实控
 
@@ -44,7 +44,7 @@ Stripe 五层全栈逻辑:
 
 2024 Stripe 收购 Bridge(USDB 发行方)→ 进入稳定币层。2025.04 Stripe + Paradigm 合资创立 Tempo(支付 L1)→ 占链层。2025.07 Stripe 收购 Privy → 占 wallet 层。2025.09 AP2 发布时 Stripe 不在 60+ 伙伴名单 —— Stripe 战略明确"不参与协议博弈,只占 distribution"。2026 年中 FIDO 接管 AP2 → AAIF 后,Stripe 五层全栈位置基本不可挑战。
 
-类比:Visa / Mastercard 也不写 ISO 8583 协议规范,但仍捕获主要支付价值 —— **协议是公地,distribution 是私产**。
+类比:Visa / Mastercard 也不写 ISO 8583 协议规范,但仍捕获主要支付价值 —— **协议是公地,distribution 是私产**(同模式见 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe 协议对冲策略]])。
 
 ## Counterpoints
 

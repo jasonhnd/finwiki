@@ -66,3 +66,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jp-exchange-mercoin]]
 - [[exchanges/jp-cex-points-economy-integration]]
 - [[exchanges/jp-vasp-parent-company-map]]
+- [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX 統合
+- [[exchanges/jp-exchange-gaudiy]] — Gaudiy Financial Labs（IP × Web3）
+- [[fintech/japan-financial-regulation]] — 日本金融規制全体

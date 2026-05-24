@@ -30,7 +30,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-CDP 把"集成 Web3"从"几个月开发 + 自托管基础设施"压缩到"几分钟 API 集成":开发者拿到一行 SDK 即可在自家产品中嵌入 onchain 钱包(MPC 托管 + email/social 登录 + ERC-4337 智能合约钱包 + 法币 onramp + USDC gas-free transfer 一体化)。AgentKit (2025-04 推出) 把这套能力专门暴露给 AI agent 框架(LangChain/AutoGen 等),让 AI agent 可以**自主创建钱包 → 接收/发送 USDC → 调用 DeFi 合约**。AgentCore 集成后,AWS 上的 Bedrock agent 默认通过 CDP 或 Privy 拿到钱包能力——**AI agent on-chain 支付的 50%+ 流量预计经过 CDP/Privy**。
+CDP 把"集成 Web3"从"几个月开发 + 自托管基础设施"压缩到"几分钟 API 集成":开发者拿到一行 SDK 即可在自家产品中嵌入 onchain 钱包([[fintech/embedded-wallet-fintech-disintermediation-overview|MPC 嵌入式钱包模式]] + email/social 登录 + [[systems/erc-4337-overview|ERC-4337]] 智能合约钱包 + 法币 onramp + [[fintech/usd-stablecoin-interchange|USDC]] gas-free transfer 一体化)。AgentKit (2025-04 推出) 把这套能力专门暴露给 AI agent 框架(LangChain/AutoGen 等),让 AI agent 可以**自主创建钱包 → 接收/发送 USDC → 调用 DeFi 合约**。AgentCore 集成后,AWS 上的 Bedrock agent 默认通过 CDP 或 Privy 拿到钱包能力——**AI agent on-chain 支付的 50%+ 流量预计经过 CDP/Privy**。
 
 ## Origin & evolution
 
@@ -42,7 +42,7 @@ CDP 默认绑定 Base / USDC = Coinbase 控制色彩强 · 与 Privy 的 "多链
 
 ## Open questions
 
-CDP 与 Base 的耦合在 2027 Base 完全 decentralize sequencer 后会否解开?AgentKit 在 ERC-7702 (EIP-7702 + ERC-4337 hybrid) 普及后,如何处理 EOA → Smart Account 迁移?CDP 是否会单独 IPO 或被剥离为独立子公司?
+CDP 与 Base 的耦合在 2027 Base 完全 decentralize sequencer 后会否解开?AgentKit 在 [[systems/erc-7702-overview|ERC-7702]] (EIP-7702 + [[systems/erc-7702-vs-erc-4337|7702/4337 hybrid]]) 普及后,如何处理 EOA → Smart Account 迁移?CDP 是否会单独 IPO 或被剥离为独立子公司?
 
 ## Related
 <!-- wiki-links:managed -->

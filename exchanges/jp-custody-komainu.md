@@ -141,6 +141,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-crypto-garage]] — 野村 HD が出資する別の日本向けデジタル資産法人
 - [[exchanges/jp-custody-ginco]] — 日本国内の institutional custody 比較対象
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
+- [[exchanges/global-institutional-custody-five-pillars]] — グローバル institutional custody 5 本柱
+- [[exchanges/uae-vara-licensing-overview]] — UAE VARA ライセンス制度（Komainu Dubai 拠点）
+- [[exchanges/jp-institutional-custody-three-pillars]] — JP institutional custody 三本柱
 
 ## Sources
 

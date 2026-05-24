@@ -58,9 +58,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 - USDT-HK 可与 HKD 受监管兑换
 
 **第二层：跨境通道**
-- HK → 新加坡（MAS Project Guardian）
+- HK → 新加坡（[[fintech/bis-project-guardian-overview|MAS Project Guardian]] / [[fintech/singapore-mas-payment-services-act-overview|MAS PS Act]]）
 - HK → 中国大陆（资本管制下仍有灰色通道）
-- HK → 中东（中东资本进入亚洲中介）
+- HK → 中东（中东资本进入亚洲中介,详见 [[fintech/sovereign-capital-pool-aramco-anchor|Aramco 主权资金池锚]]）
 
 **第三层：竞争结构改变**
 - USDC 失去"独占合规护城河"
@@ -111,7 +111,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 - **Binance（2023 美国和解）**：未能获得 SEC 全面合规，被迫支付 $4.3B 罚款 + CEO 引退
 - **Tether 2018-2024 NYAG 案**：与 NYAG 和解 $18.5M 但未获 BitLicense
 
-**Tether HK 申请的真实风险**：
+**Tether HK 申请的真实风险**（详细 9 家申请方与 HKMA 流程见 [[fintech/hkma-stablecoin-licensing-overview|HKMA 牌照概览]]）：
 - HK 要求透明度要求（月度审计 / 储备金 100% 国债）→ Tether 不愿接受
 - 部分获批（仅 HK USDT 透明，全球 USDT 不变）→ 估值上行有限
 

@@ -55,13 +55,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-2018-2024 = Coinbase + Circle 联盟稳定 · 50/50 维持。2024.Q4 = Stripe / Visa / SC 入场 · 多家稳定币 L1 项目浮现(Tempo / Codex / Plasma) · 改变 Circle 的 outside option 集合。2025.07 = GENIUS Act §501 标准化合规 · Circle 不再需要 Coinbase 的"合规背书"。2025.09 = Arc 公布 = Circle 用"垂直整合"杠杆迫使 Coinbase 重新议价。2026 Arc 主网启动 = 议价进入实战阶段。
+2018-2024 = Coinbase + Circle 联盟稳定 · 50/50 维持。2024.Q4 = Stripe / Visa / SC 入场 · 多家稳定币 L1 项目浮现([[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] / Codex / Plasma) · 改变 Circle 的 outside option 集合。2025.07 = GENIUS Act §501 标准化合规 · Circle 不再需要 Coinbase 的"合规背书"。2025.09 = Arc 公布 = Circle 用"垂直整合"杠杆迫使 Coinbase 重新议价。2026 Arc 主网启动 = 议价进入实战阶段,并需要与 [[systems/cctp-v2-overview|CCTP v2]] 桥接以稀释 Base 单链锁定。
 
 **历史类比**:Visa / Mastercard 与发卡行的 interchange 重新议价 · Apple ↔ Google 搜索默认协议(2024 反垄断) · 微软 ↔ IBM OS 协议(1990s)。**核心规律**:分销方占总价值 50% 的协议在监管 / 技术变革窗口必然重新议价。
 
 ## Counterpoints
 
-主张"Arc 会失败":Circle 没有 L1 运营经验 · validator 招募难 · 与现有 Coinbase / Base 用户基础脱钩 · 5 年内 USDC on Arc 可能只达 $1-2B(不足以重设 50/50)。监管(SEC / OCC)可能介入垂直整合(Circle 同时是发行方 + L1 运营方 = conflict of interest)。Coinbase 可能反向加速 BASE token 启动 = 路径 C 反噬 Circle。
+主张"Arc 会失败":Circle 没有 L1 运营经验 · validator 招募难 · 与现有 Coinbase / Base 用户基础脱钩 · 5 年内 USDC on Arc 可能只达 $1-2B(不足以重设 50/50)。监管(SEC / OCC)可能介入垂直整合(Circle 同时是发行方 + L1 运营方 = conflict of interest)。Coinbase 可能反向加速 BASE token 启动 = 路径 C 反噬 Circle,而 [[fintech/cbbtc-institutional-btc-wrapper|cbBTC 闭环]] 已经为 Base 自循环现金流提供了原型。
 
 ## Open questions
 

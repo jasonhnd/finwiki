@@ -65,3 +65,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[fintech/japan-epi-four-camps-comparison]]
 - [[fintech/three-circles-stablecoin-mra-framework]]
 - [[fintech/genius-act-501-denylist-mandate]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
+- [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 規制ランドスケープ
+- [[JapanFG/jpyc]] — JPYC operating-company anchor
+- [[JapanFG/progmat]] — Progmat operating-company anchor

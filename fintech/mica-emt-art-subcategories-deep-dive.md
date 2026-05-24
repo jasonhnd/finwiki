@@ -41,11 +41,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **Significant EMT/ART 阈值**(EBA RTS 2025-01-22):Outstanding ≥ €700M,或 30 天日均交易量 ≥ €500M,或 holder ≥ 1M。任一即由 EBA 直接监管 + 更严资本要求 + stress testing。USDC 2025-09 起被列为 Significant EMT(欧盟唯一)。
 
-**Reserve 关键差异 vs GENIUS Act**:MiCA ≥ 30% 银行存款 + 允许较长期国债;GENIUS 限 ≤ 93 天 T-bill + 上限 50% 存款 → MRA 必须互认。这是 USDC 估值溢价于 USDT 的核心结构性原因(USDC 同时满足三圆合规)。
+**Reserve 关键差异 vs GENIUS Act**:MiCA ≥ 30% 银行存款 + 允许较长期国债;GENIUS 限 ≤ 93 天 T-bill + 上限 50% 存款 → MRA 必须互认。这是 USDC 估值溢价于 USDT 的核心结构性原因(USDC 同时满足三圆合规)。EMT 流通的二级市场 CASP 牌照配套见 [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概览]]。
 
 ## Origin & evolution
 
-MiCA 双类型设计起源于 2020-09 EU Commission Digital Finance Package。2023-06 Regulation (EU) 2023/1114 通过明确 EMT / ART 二分。2024-12-30 全面生效后市场用脚投票:8 家持牌 EMT 但几乎无 ART → 监管负担塑形产品成功。USDT 既不是 EMT(无 EMI 牌照)也不是 ART(reserve composition 不达标)→ 欧盟撤退。Membrane Finance 收购 Tether 谈判 2025-08 破裂 = 欧盟入路彻底关闭。
+MiCA 双类型设计起源于 2020-09 EU Commission Digital Finance Package。2023-06 Regulation (EU) 2023/1114 通过明确 EMT / ART 二分。2024-12-30 全面生效后市场用脚投票:8 家持牌 EMT 但几乎无 ART → 监管负担塑形产品成功。USDT 既不是 EMT(无 EMI 牌照)也不是 ART(reserve composition 不达标)→ 欧盟撤退。Membrane Finance 收购 Tether 谈判 2025-08 破裂 = 欧盟入路彻底关闭。日本侧的 EPI 三型对应版见 [[fintech/japan-epi-three-types-overview|日本 EPI 三型架构概览]]。
 
 ## Counterpoints
 

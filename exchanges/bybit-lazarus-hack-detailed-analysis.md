@@ -78,5 +78,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/uae-vara-licensing-overview]]
 - [[exchanges/global-cex-top10-comparison]]
 - [[fintech/chain-level-ofac-freeze-precedent]]
+- [[security/forensic-identity-anchor-chain|forensic identity anchor chain]]
+- [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]]
+- [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]]
+- [[exchanges/global-crypto-forensics-vendor-layer|グローバル crypto forensics ベンダーレイヤー]]
 
 来源: 2026-05-19 jp-crypto-exchange-research Phase 5

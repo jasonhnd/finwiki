@@ -47,7 +47,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Origin & evolution
 
-2024 Aave Arc / JPM Onyx 早期许可池 → "机构链初期必须许可"成为共识。2025.04 Tempo 公开 4 外部 validator 设计 → 极简模型显化。2025 Circle 公开 Arc 三阶段路线图 → 渐进式去中心化模板成型。2025-2026 Kinexys / Mony / 多家代币化存款项目引用 Arc 三阶段模板。两条路径共存的根本原因:Tempo 服务 retail 商户(对性能极敏感),Arc 服务机构客户(对合规叙事极敏感)。
+2024 Aave Arc / JPM Onyx 早期许可池 → "机构链初期必须许可"成为共识。2025.04 Tempo 公开 4 外部 validator 设计 → 极简模型显化。2025 Circle 公开 Arc 三阶段路线图 → 渐进式去中心化模板成型。2025-2026 [[fintech/jpmorgan-jpmd-coin|Kinexys / JPMD]] / Mony / 多家代币化存款项目引用 Arc 三阶段模板。两条路径共存的根本原因:Tempo 服务 retail 商户(对性能极敏感),Arc 服务机构客户(对合规叙事极敏感)。
 
 ## Counterpoints
 
@@ -60,7 +60,8 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 - Tempo 4 个 validator 真能 long-term 稳定服务全球商户吗?(地缘分散性)
 - Arc 阶段 3 治理 PoS 在 5 年内能落地吗?
-- 是否会出第三条路径(如 EigenLayer restaking + 机构链),让机构链借用 ETH validator 集合?
+- 是否会出第三条路径(如 EigenLayer restaking + 机构链),让机构链借用 ETH validator 集合?(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])
+- DEX 在机构链上是否有空间运营?(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各家对许可链的态度)
 
 ## Related
 <!-- wiki-links:managed -->

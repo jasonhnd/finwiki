@@ -32,8 +32,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **Visa 案例分解**：
 
-- 在 Arc 中:作为私募投资人参与（与 BlackRock / Apollo / ICE 同轮）
-- 在 Tempo 中:作为外部 validator 节点运营方（与 Stripe / Zodia / OnePay 共同运营节点）
+- 在 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] 中:作为私募投资人参与（与 BlackRock / Apollo / ICE 同轮）
+- 在 [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] 中:作为外部 validator 节点运营方（与 Stripe / Zodia / OnePay 共同运营节点）
 - 在自营业务中:Visa Direct + B2B Connect + Tokenized Asset Platform
 - 结果:无论稳定币战争谁胜出,Visa 均可收取费率
 
@@ -45,9 +45,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **其他典型案例**：
 
-- BlackRock:BUIDL（自营）+ Circle Arc（投资）+ Bitcoin ETF（被动）
+- BlackRock:[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]（自营）+ Circle Arc（投资）+ Bitcoin ETF（被动）
 - Standard Chartered:Tempo 网络上的 Zodia validator + Arc 投资人 + Zodia Custody（自营）
-- AWS Bedrock AgentCore Payments:默认 wallet = Privy（Stripe 子公司）+ Coinbase CDP 的**双默认结构**
+- AWS Bedrock AgentCore Payments:默认 wallet = [[agent-economy/privy-aws-agentcore-default-wallet|Privy（Stripe 子公司）]] + Coinbase CDP 的**双默认结构**
 
 **反模式 / 缺席名单**（同样具有信息价值）：
 

@@ -31,7 +31,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-主流 embedded wallet(Privy / Coinbase CDP)解决 dapp 内部 wallet UX,但所有 web/PWA wallet 仍受制于 iOS Safari 沙箱 + Google Play / App Store 30% 抽成 + 浏览器 push 受限。Solana 判断 wallet 必须下沉到 OS 层。**Seed Vault** 在 Android 系统服务级别提供基于 TEE 的 keystore · 私钥不出 SoC · 任何 dapp 通过 system intent 请求签名 · UI 由 OS 控制防钓鱼 —— 等同把硬件钱包做进手机。**MWA** 是开放协议 · dapp 用 deep link / QR / Bluetooth 与 wallet 通信 · 无需在浏览器内注入 JS。**dApp Store** 预装在 Saga/Seeker · 开发者直接收 SOL/USDC 无 platform fee。Seeker 进一步以 $450 平民化定价 + Helius RPC 集成 + SKR token 经济提升原生体验。
+主流 embedded wallet(Privy / Coinbase CDP)解决 dapp 内部 wallet UX,但所有 web/PWA wallet 仍受制于 iOS Safari 沙箱 + Google Play / App Store 30% 抽成 + 浏览器 push 受限。Solana 判断 wallet 必须下沉到 OS 层(与 [[fintech/embedded-wallet-fintech-disintermediation-overview|嵌入式钱包对 fintech 的去中介化]] 形成 OS 层 vs App 层路径分歧)。**Seed Vault** 在 Android 系统服务级别提供基于 TEE 的 keystore · 私钥不出 SoC · 任何 dapp 通过 system intent 请求签名 · UI 由 OS 控制防钓鱼 —— 等同把硬件钱包做进手机。**MWA** 是开放协议 · dapp 用 deep link / QR / Bluetooth 与 wallet 通信 · 无需在浏览器内注入 JS。**dApp Store** 预装在 Saga/Seeker · 开发者直接收 SOL/USDC 无 platform fee(USDC settlement 见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。Seeker 进一步以 $450 平民化定价 + Helius RPC 集成 + SKR token 经济提升原生体验。
 
 ## Origin & evolution
 
@@ -41,7 +41,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 - 15 万台 vs Apple 200M iPhone/年 · 实际规模仍极小
 - Seed Vault 标准化游说能否成功不确定 · 三星 / 小米可能仍倾向自有 Wallet
-- "OS 级 wallet" 在监管视角下可能被分类为系统组件 · 触发新的合规挑战
+- "OS 级 wallet" 在监管视角下可能被分类为系统组件 · 触发新的合规挑战(参见 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] 对非托管 wallet 的边界划定)
 - 与 Stripe Tap to Pay 不是直接竞争 · 反而互补(Saga 消费端 + Stripe 商户端)
 
 ## Open questions

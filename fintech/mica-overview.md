@@ -40,13 +40,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | EMT(E-Money Token) | 锚定单一法币 | EBA + 国家央行 | USDC(Circle Europe) / EURC / PYUSD |
 | ART(Asset-Referenced Token) | 锚定一篮子资产 / 多法币 | EBA(特殊监管) | 几乎无大规模合规 ART |
 
-**关键洞察**:MiCA 把稳定币按"是否锚定单一法币"分类,**实际上把多数项目逼成 EMT**。ART 监管负担过重 → 几乎无人采用。这与 GENIUS §501 的"链级 Denylist 强制" 是同构的——用规则塑形产品。
+**关键洞察**:MiCA 把稳定币按"是否锚定单一法币"分类,**实际上把多数项目逼成 EMT**。ART 监管负担过重 → 几乎无人采用。这与 GENIUS §501 的"链级 Denylist 强制" 是同构的——用规则塑形产品。MiCA CASP 牌照的具体实施细节见 [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概览]],与 HK / SG / JP 的横向对比见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 **核心条款**:储备金 100% 储备(短期国债 + 央行存款)+ 储备金第三方托管 + 月度审计披露 + 发行方在欧盟有实体 + 资本要求 + 流通额上限(大型 ART > €5B 限制 + 大型 EMT 部分限制)+ 白名单(仅 EU 持牌发行方可在欧盟商业流通)+ 与 GENIUS §501 协同(需有 freeze 能力 + AML/CFT)。
 
 ## Origin & evolution
 
-MiCA 2020-09 EU Commission Digital Finance Package 一部分提案。2023-06 通过(Regulation (EU) 2023/1114)。2024-06 SC 部分(ART / EMT)生效。2024-12 全面生效。受压玩家:Tether / USDT(MiCA 不接受 + Article 17 大型 SC 限制 → 欧盟流通额受限)· DAI / LUSD / FRAX(无发行方的 SC 受限)· algorithmic stablecoins(UST 崩盘后果 · 明文禁止)。受益玩家:Circle(USDC EU + EURC 双品牌覆盖)· Société Générale(STBL EUR 锚定)· BBVA / Santander(拟发欧元 SC)· MiCA 合规交易所(Kraken / Bitstamp / Coinbase EU)。
+MiCA 2020-09 EU Commission Digital Finance Package 一部分提案。2023-06 通过(Regulation (EU) 2023/1114)。2024-06 SC 部分(ART / EMT)生效。2024-12 全面生效。受压玩家:Tether / USDT(MiCA 不接受 + Article 17 大型 SC 限制 → 欧盟流通额受限)· DAI / LUSD / FRAX(无发行方的 SC 受限)· algorithmic stablecoins(UST 崩盘后果 · 明文禁止)。受益玩家:Circle(USDC EU + EURC 双品牌覆盖)· Société Générale(STBL EUR 锚定)· BBVA / Santander(拟发欧元 SC)· MiCA 合规交易所(Kraken / Bitstamp / Coinbase EU)。MiCA 与 [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] 形成"业务 + 韧性"双轨监管框架。
 
 ## Counterpoints
 

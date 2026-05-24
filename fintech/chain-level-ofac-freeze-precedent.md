@@ -43,7 +43,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 1. **稳定币已经不属于"加密原教旨"阵营**:USDC / PYUSD / RLUSD 接受 issuer freeze authority 是合规妥协,但市场份额回报巨大。
 2. **DAI / LUSD 等去中心化稳定币的真实价值** = 抗审查 + 灰色市场流通,但 TVL 被压制至 5% 以下。
-3. **Tether 仍保留部分自主权**:选择性 freeze（配合执法）+ 选择性 ignore（地缘客户）—— 这是 USDT 在新兴市场仍能保持霸权的根本原因。
+3. **Tether 仍保留部分自主权**:选择性 freeze（配合执法）+ 选择性 ignore（地缘客户）—— 这是 USDT 在新兴市场仍能保持霸权的根本原因（详见 [[fintech/em-market-crypto-dollarization-pattern|新兴市场加密美元化]]）。
 4. **加密 OG 文化与监管现实分裂**:Cypherpunk vs Wall Street 的 final divide。
 
 **对其他链的含义**：
@@ -56,6 +56,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - 链上支付与稳定币业务必须在 day-1 内置 OFAC 合规模块
 - 与 [[fintech/genius-act-501-denylist-mandate|GENIUS §501 链级 Denylist]] 形成直接关联
+- VASP 端配套见 [[fintech/fatf-travel-rule-overview|FATF Travel Rule]] 与 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]
 
 
 ## Related

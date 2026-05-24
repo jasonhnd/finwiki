@@ -40,7 +40,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Origin & evolution
 
-2015-2018 PoW 时代不存在 validator 经济。2018-2020 Cosmos / Tezos 早期 PoS 形成 yield + slashing 雏形。2020.12 ETH 2.0 Beacon Chain 上线 → 双签 + 下线 slashing 进入主网。2021.04 Flashbots 推 MEV-Boost → MEV 显化为可量化收益变量。2022-2024 Lido / 客户端 / 地理三类集中度成为研究焦点(Vitalik 多次发文)。2025-2026 机构链以"少量 KYC validator"姿态出现,四变量框架在机构链 vs retail 链发生路径分叉。
+2015-2018 PoW 时代不存在 validator 经济。2018-2020 Cosmos / Tezos 早期 PoS 形成 yield + slashing 雏形。2020.12 ETH 2.0 Beacon Chain 上线 → 双签 + 下线 slashing 进入主网。2021.04 Flashbots 推 MEV-Boost → MEV 显化为可量化收益变量。2022-2024 Lido / 客户端 / 地理三类集中度成为研究焦点(Vitalik 多次发文)。2025-2026 机构链以"少量 KYC validator"姿态出现,四变量框架在机构链 vs retail 链发生路径分叉(参见 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]])。
 
 ## Counterpoints
 
@@ -52,8 +52,8 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Open questions
 
 - ETH 等大链是否应通过协议层硬性限制单 validator 占比?
-- restaking(EigenLayer)是否会重塑四变量框架(新增"安全租赁收益"维度)?
-- ZK / proof market 时代,validator 经济与 prover 经济如何耦合?
+- restaking(EigenLayer)是否会重塑四变量框架(新增"安全租赁收益"维度)?(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])
+- ZK / proof market 时代,validator 经济与 prover 经济如何耦合?(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各 DEX 在 prover 市场的角色)
 
 ## Related
 <!-- wiki-links:managed -->

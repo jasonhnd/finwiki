@@ -151,6 +151,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/maina-wallet-kyc-permissionless-ux-bridge]] — ウォレット × KYC 設計
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 規制
 - [[fintech/jp-trust-type-sc-architecture]] — 信託型 SC アーキテクチャ
+- [[exchanges/jp-institutional-custody-three-pillars]] — JP institutional custody 三本柱
+- [[exchanges/global-institutional-custody-five-pillars]] — グローバル institutional custody 5 本柱
+- [[exchanges/jp-vasp-cold-storage-segregation-rules]] — JP VASP cold storage 分別管理ルール
 
 ## Sources
 

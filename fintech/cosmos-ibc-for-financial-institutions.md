@@ -79,13 +79,13 @@ LCP middleware(TEE-based light client)
 
 ## §501(d) 視点
 
-GENIUS Act §501(d) は cross-border SC の「互操作要件」を求める。IBC + LCP は:
+[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501(d)]] は cross-border SC の「互操作要件」を求める。IBC + LCP は:
 - **Verifiable** ✓
 - **Auditable** ✓
 - **Open standard** ✓
 - **No single point of trust** ✓
 
-これらは §501(d) 認定の評価軸と整合的 → 将来 §501(d) tier 取得を目指す SC issuer にとって IBC + LCP は構造的に有利な選択。
+これらは §501(d) 認定の評価軸と整合的 → 将来 §501(d) tier 取得を目指す SC issuer にとって IBC + LCP は構造的に有利な選択。クロスチェーン 5 極の横向対照は [[systems/cross-chain-five-pole-comparison-matrix|跨链 5 极比较矩阵]] 参照。
 
 ## 応用
 

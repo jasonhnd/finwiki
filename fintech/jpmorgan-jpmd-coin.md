@@ -35,15 +35,15 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-JPMD 的核心法律地位 = **银行存款的代币化**, 不是稳定币。Jamie Dimon 公开立场: "stablecoins are not banks, and not regulated as banks" (SC 是临时现象) vs "tokenized deposits are bank deposits with new technology" (TD 是未来) ——与 GENIUS Act §501 法律分类**完全一致**。这意味着 JPM **不需要 §501 SC 资格**就能提供链上美元服务,反而保留了 SC 玩家无法享受的优势: **付息能力 + FDIC 保险 + 信贷创造 (B/S 联动)**。运行栈: Kinexys 私链 (Quorum) 主体 + Base 对接公链流动性 + Canton 联邦提供隐私 + 跨境通过 Liink 银行间消息 (1100+ 银行接入)。
+JPMD 的核心法律地位 = **银行存款的代币化**, 不是稳定币。Jamie Dimon 公开立场: "stablecoins are not banks, and not regulated as banks" (SC 是临时现象) vs "tokenized deposits are bank deposits with new technology" (TD 是未来) ——与 GENIUS Act §501 法律分类**完全一致**。这意味着 JPM **不需要 §501 SC 资格**就能提供链上美元服务,反而保留了 SC 玩家无法享受的优势: **付息能力 + FDIC 保险 + 信贷创造 (B/S 联动)**。运行栈: Kinexys 私链 (Quorum) 主体 + Base 对接公链流动性 + Canton 联邦提供隐私 + 跨境通过 Liink 银行间消息 (1100+ 银行接入),与 [[fintech/tokenized-deposit-cumulative-volume-scale|代币化存款累计量级]] 共同显示 TD 已是事实主战场。
 
 ## Origin & evolution
 
-2019-02 JPM Coin 公开 (内部测试 $300B+ 累计). 2024-11 Onyx → **Kinexys** 改名 (准备 TD "白标"). 2025-11 JPMD on Base = 第一个 TD 上 public L2. 2026-01 迁 Canton (与 Coinbase 解耦 + 隐私). 2026-03 Kinexys × BUIDL 集成 = TD 端接 MMF yield. 2026-05-13 JLTXX 上线 + Anchorage 跟投 → 暗示 USAT (US Anchorage TD) 路径,可能成为 JPM 通过 Anchorage 打入 Tether USDT 储备体系的关键产品. **v1 把 JPM 归类为"平行竞争 / 观望"是分析错误**——JPM 是唯一在央行职能 5 层框架中**全 close 主权**且有 100 年历史的玩家,本研究 v2 升级为第 4 主角。
+2019-02 JPM Coin 公开 (内部测试 $300B+ 累计). 2024-11 Onyx → **Kinexys** 改名 (准备 TD "白标"). 2025-11 JPMD on Base = 第一个 TD 上 public L2. 2026-01 迁 [[systems/canton-overview|Canton]] (与 Coinbase 解耦 + 隐私). 2026-03 Kinexys × BUIDL 集成 = TD 端接 MMF yield. 2026-05-13 JLTXX 上线 + Anchorage 跟投 → 暗示 USAT (US Anchorage TD) 路径,可能成为 JPM 通过 Anchorage 打入 Tether USDT 储备体系的关键产品. **v1 把 JPM 归类为"平行竞争 / 观望"是分析错误**——JPM 是唯一在央行职能 5 层框架中**全 close 主权**且有 100 年历史的玩家,本研究 v2 升级为第 4 主角。
 
 ## Counterpoints
 
-JPMD 的"TD ≠ SC"法律豁免依赖 OCC 持续不反对——若新一届 OCC / FRB 收紧 TD 定义 (例如要求 "TD 仅在银行 4 堵墙内流通,不得上 public L2"),JPMD on Base 必须撤回。Tether 灰圈 + Circle 白圈仍占据 SC 流通量绝大部分,JPMD 在零售层完全没有渗透 (180 个机构客户 ≠ 数亿散户). Kinexys 6 模块预测 2030 $7.2B 收入是 base-case,**实际取决于多银行联邦能否突破** (目前 Liink 接入主要是 partner 银行,非竞争对手银行)。
+JPMD 的"TD ≠ SC"法律豁免依赖 OCC 持续不反对——若新一届 OCC / FRB 收紧 TD 定义 (例如要求 "TD 仅在银行 4 堵墙内流通,不得上 public L2"),JPMD on Base 必须撤回。[[fintech/tether-business-model-short-treasury-yield|Tether 灰圈]] + Circle 白圈仍占据 SC 流通量绝大部分,JPMD 在零售层完全没有渗透 (180 个机构客户 ≠ 数亿散户). Kinexys 6 模块预测 2030 $7.2B 收入是 base-case,**实际取决于多银行联邦能否突破** (目前 Liink 接入主要是 partner 银行,非竞争对手银行,与 [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]] 的结构性瓶颈相似)。
 
 ## Open questions
 

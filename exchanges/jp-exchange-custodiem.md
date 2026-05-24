@@ -108,6 +108,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/ftx-japan-100pct-return-case-study]] — FTX Japan 100% 返還ケーススタディ（前身）
+- [[exchanges/jp-institutional-custody-three-pillars]] — JP institutional custody 三本柱
+- [[exchanges/btc-spot-etf-japan-impact]] — BTC spot ETF 日本 impact（ETF 準備）
 
 ## Sources
 

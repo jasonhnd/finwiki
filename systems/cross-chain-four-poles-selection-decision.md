@@ -57,7 +57,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Origin & evolution
 
-2022-2023 跨链选型 = "选 TVL 最大 = Wormhole"。2024 institutional 入场后 = CCIP 因 Chainlink oracle 品牌 + RMN 双层验证成为银行 / DTCC / SWIFT 实际选择。2025 收敛 = 多极并存 + 任务专精化 · 主角同时用 2-3 个桥(CCIP institutional · LayerZero general · CCTP V2 USDC)。
+2022-2023 跨链选型 = "选 TVL 最大 = Wormhole"。2024 institutional 入场后 = CCIP 因 Chainlink oracle 品牌 + RMN 双层验证成为银行 / DTCC / SWIFT 实际选择。2025 收敛 = 多极并存 + 任务专精化 · 主角同时用 2-3 个桥(CCIP institutional · LayerZero general · CCTP V2 USDC)。完整对照矩阵见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]。
 
 ## Counterpoints
 
@@ -65,7 +65,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Open questions
 
-Base 多极组合的实际比例(CCIP 多少 % · LayerZero 多少 % · CCTP V2 多少 %)?Tempo / Arc 是否会自建专用桥替代 CCIP?Hyperlane permissionless 安全模型在大规模 stake 后能否抗 51%?CCTP V2 Hooks 是否让"USDC 跨链 = 1 个协议"成为新默认?
+Base 多极组合的实际比例(CCIP 多少 % · LayerZero 多少 % · CCTP V2 多少 %)?Tempo / Arc 是否会自建专用桥替代 CCIP?Hyperlane permissionless 安全模型在大规模 stake 后能否抗 51%?CCTP V2 Hooks 是否让"USDC 跨链 = 1 个协议"成为新默认?(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 与 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 的实际份额观察)
 
 ## Related
 <!-- wiki-links:managed -->

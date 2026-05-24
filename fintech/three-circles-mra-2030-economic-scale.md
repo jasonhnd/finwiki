@@ -47,13 +47,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ```
 
 **单边互认 → 双边互认 → 三边 MRA** 的演化路径:
-- 2026-02 U.S.-Japan MRA 已签(USDC × JPYC 双向)
-- 2026-Q3 U.S.-EU MRA 预计签署
+- 2026-02 U.S.-Japan MRA 已签(USDC × [[JapanFG/jpyc|JPYC]] 双向)
+- 2026-Q3 U.S.-EU MRA 预计签署 — 详见 [[fintech/mica-cross-border-implications|MiCA 跨境含义]]
 - 2027-2028 三圆 MRA 全签 → 持牌 issuer 自动 passporting
 
 ## Origin & evolution
 
-GENIUS Act 2025 通过 + MiCA 2024-12-30 全面生效 + 日本改正資金決済法 2023-06 升级为 EPI 三型 = 三圆基础齐备。$130B 2030 数字是在"互认协议 2028 签署 + EPI 信託型 2027 升级到允许利息分账"两个前提下的估算。若任一前提延迟,2030 规模可能降至 $80-100B。
+[[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 2025 通过 + [[fintech/mica-overview|MiCA]] 2024-12-30 全面生效 + 日本改正資金決済法 2023-06 升级为 [[fintech/japan-epi-three-types-overview|EPI 三型]] = 三圆基础齐备。$130B 2030 数字是在"互认协议 2028 签署 + EPI 信託型 2027 升级到允许利息分账"两个前提下的估算。若任一前提延迟,2030 规模可能降至 $80-100B。
 
 ## Counterpoints
 

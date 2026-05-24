@@ -90,7 +90,7 @@ CEX 実装例:
 - **Komainu** — cold + air-gap (Nomura JV)
 - **Fireblocks** — MPC SaaS · 国内 GMO コイン等が採用
 
-2025 Bybit Lazarus hack ([[exchanges/bybit-lazarus-hack-detailed-analysis]]) は **Safe UI 偽装**で multi-sig 署名者を騙した社会工学攻撃。技術自体は機能したが UI 層の脆弱性が露呈、air-gap + ハードウェア確認の重要性を再認識させた。
+2025 Bybit Lazarus hack ([[exchanges/bybit-lazarus-hack-detailed-analysis]]) は **Safe UI 偽装**で multi-sig 署名者を騙した社会工学攻撃。技術自体は機能したが UI 層の脆弱性が露呈、air-gap + ハードウェア確認の重要性を再認識させた。詳細フォレンジック手法は [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] と [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] を併読。サプライチェーン攻撃の構造分析は [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]] 参照。
 
 ---
 

@@ -43,11 +43,11 @@ Q3-Q4 [年 N+1] = 评估 + 锁定 [年 N+2]
 
 **所有主要玩家在 2026-05 至 2026-08 集中发布**：
 - Base Azul Rust 2026-05-13
-- Arc 私募 2026-05-11
-- Tempo Presto 2026-03-18
+- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] 私募 2026-05-11
+- [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo Presto]] 2026-03-18
 - HK 9 家牌照 2026-05-21
 - Bridge OCC conditional 2026-02
-- GENIUS Act 实施细则 2026-Q3
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 实施细则 2026-Q3
 
 **不是相互竞速。是赶 2026-Q3 企业采购预算锁定**。
 

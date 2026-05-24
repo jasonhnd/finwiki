@@ -43,11 +43,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 技术 | 账户为主 | 账户或代币 | 代币 + 智能合约 |
 | 跨境 | 弱 | 极弱 | 强(与 wholesale CBDC 互操作) |
 
-**架构选择的政治含义**:直接 CBDC 让商业银行边缘化 → 金融中介崩塌 → 央行承担信贷分配 → 政治上不可接受。**所有主要央行都选择保护银行存款基础**(双层或多层)。token-based 多层是新兴中间路径,通过让商业银行发行代币化存款,既保留中介又引入可编程性。
+**架构选择的政治含义**:直接 CBDC 让商业银行边缘化 → 金融中介崩塌 → 央行承担信贷分配 → 政治上不可接受。**所有主要央行都选择保护银行存款基础**(双层或多层)。token-based 多层是新兴中间路径,通过让商业银行发行代币化存款,既保留中介又引入可编程性 —— 与 [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC 与 deposit token 论题]] 的逻辑同构。
 
 ## Origin & evolution
 
-2014 中国 PBoC 启动 e-CNY 研究(全球最早大规模 CBDC 项目)。2017-2019 BIS / IMF 等多边组织提出 "央行数字货币" 概念框架。2020 ECB 发数字欧元报告,确立"双层 / 直接"二分法。2022.04 中国 e-CNY 试点扩至 23 城,双层架构规模化验证。2023-2024 巴西 DREX(基于 Hyperledger Besu)+ 欧元数字立法启动 → token-based 多层范式成熟。2025-2026 G10 央行通过 Agorá 协调 wholesale CBDC,零售 CBDC 各国独立推进 → "架构选择决定主权空间"成为央行间共识。
+2014 中国 PBoC 启动 e-CNY 研究(全球最早大规模 CBDC 项目)。2017-2019 BIS / IMF 等多边组织提出 "央行数字货币" 概念框架。2020 ECB 发数字欧元报告,确立"双层 / 直接"二分法。2022.04 中国 e-CNY 试点扩至 23 城,双层架构规模化验证。2023-2024 巴西 DREX(基于 Hyperledger Besu)+ 欧元数字立法启动 → token-based 多层范式成熟。2025-2026 G10 央行通过 [[fintech/bis-project-agora-overview|Agorá]] 协调 wholesale CBDC,零售 CBDC 各国独立推进 → "架构选择决定主权空间"成为央行间共识。日本侧 DC-JPY 试点见 [[fintech/jp-stablecoin-dcjpy|DC-JPY 概览]]。
 
 ## Counterpoints
 

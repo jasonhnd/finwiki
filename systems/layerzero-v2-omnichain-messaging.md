@@ -30,7 +30,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Mechanism / How it works
 
-每条链上部署一个 immutable **Endpoint contract** 处理 send / receive。源链消息发出后由应用预先指定的 **DVN 组合** 验证 —— 比如 "Polyhedra(zk) + Google Cloud(主流签名) + Animoca(权益签名)三选二" 形成 N-of-M 多签 quorum。**Executor** 在目标链 deliver 并支付目标链 gas。应用层可自由组合 DVN,因此 LayerZero 既能服务低风险场景(单 DVN 即可),又能服务高价值场景(zk + 多重签名 + 经济激励 quorum)。Stargate 在协议之上加 liquidity pool + token model · 形成 USDC/USDT 跨链 retail 主导地位。
+每条链上部署一个 immutable **Endpoint contract** 处理 send / receive。源链消息发出后由应用预先指定的 **DVN 组合** 验证 —— 比如 "Polyhedra(zk) + Google Cloud(主流签名) + Animoca(权益签名)三选二" 形成 N-of-M 多签 quorum。**Executor** 在目标链 deliver 并支付目标链 gas。应用层可自由组合 DVN,因此 LayerZero 既能服务低风险场景(单 DVN 即可),又能服务高价值场景(zk + 多重签名 + 经济激励 quorum)。Stargate 在协议之上加 liquidity pool + token model · 形成 USDC/USDT 跨链 retail 主导地位(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 的多桥流量分布)。
 
 ## Origin & evolution
 
@@ -41,7 +41,8 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - DVN 可配置 = 安全责任转嫁给应用 · 长尾应用容易选错配置导致漏洞
 - "100+ 链" 中长尾链流量极低 · 实际有效市场可能 < 20 条
 - LayerZero Labs 私有治理是机构客户(银行 / DTCC)拒绝的关键原因
-- Wormhole 在 Solana 生态仍有竞争 · 不是单极结构
+- Wormhole 在 Solana 生态仍有竞争 · 不是单极结构(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]])
+- CEX 跨链路径上仍偏向 Circle/Wormhole · LayerZero retail dominance 局限于 DEX(对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥 deposit/withdrawal]])
 
 ## Open questions
 

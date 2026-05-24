@@ -45,11 +45,11 @@ R.16 要求 VASP 转账 ≥ USD/EUR 1,000 必须共享:**Originator** name + acc
 - **Shyft**(Token 激励 · 链上发现):早期玩家
 - **OpenVASP**(欧洲 · EVM-based):早期欧洲
 
-互通问题:协议互不兼容 → 必须接入多个或选大网络。Notabene + TRP 双协议覆盖 2026 年全球约 80% VASP 流量。
+互通问题:协议互不兼容 → 必须接入多个或选大网络。Notabene + TRP 双协议覆盖 2026 年全球约 80% VASP 流量。日本 VASP 自律侧的 Travel Rule 落地见 [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律规则概览]],日本 VASP 时间线见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]]。
 
 ## Origin & evolution
 
-1996 FinCEN + Fed 联合发布 BSA Travel Rule(31 CFR §1010.410(f)),原本只覆盖 ≥ $3,000 wire。2019-05 FinCEN FIN-2019-G001 明确 BSA Travel Rule 适用于 CVC。2019-06 G20 Osaka summit FATF 发布 R.15 + R.16 加密扩展 → 全球 floor 确立。2024-12-30 EU TFR 2023/1113 把欧盟门槛设为 EUR 0(最严)。2026-Q3 FinCEN 拟把美国阈值从 $3,000 降到 $1,000(与 FATF 对齐)。
+1996 FinCEN + Fed 联合发布 BSA Travel Rule(31 CFR §1010.410(f)),原本只覆盖 ≥ $3,000 wire。2019-05 FinCEN FIN-2019-G001 明确 BSA Travel Rule 适用于 CVC。2019-06 G20 Osaka summit FATF 发布 R.15 + R.16 加密扩展 → 全球 floor 确立。2024-12-30 EU TFR 2023/1113 把欧盟门槛设为 EUR 0(最严)。2026-Q3 FinCEN 拟把美国阈值从 $3,000 降到 $1,000(与 FATF 对齐)。跨境四层 stack 详见 [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule 跨境 stack]]。
 
 ## Counterpoints
 

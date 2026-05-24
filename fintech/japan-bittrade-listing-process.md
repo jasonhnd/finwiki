@@ -102,7 +102,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 BitTrade → JVCEA（自律审查） → FSA（金融厅）
 ```
 
-**提交清单**: 风险说明 · 用户保护方案 · AML 风险分析 · 市场操纵风险评估 · Token 分类法律意见 · 技术风险说明 · 流动性方案。
+**提交清单**: 风险说明 · 用户保护方案 · AML 风险分析 · 市场操纵风险评估 · Token 分类法律意见 · 技术风险说明 · 流动性方案。JVCEA 自律审查的全景见 [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概览]],FSA 持牌登録の流れ见 [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]。
 
 ## 第 6 段階: 流动性与做市 `[V?]`
 
@@ -156,6 +156,7 @@ IEO 在标准上币流程之上加一层：募资结构设计 · 日本用户销
 - 海外 token 项目询问"日本上币要多久 / 多难"时的回答框架
 - 评估自己手上 token 设计是否触发证券化红线
 - 与 BitTrade / bitbank / Coincheck 等持牌交易所的初次商务接触前自检
+- 日本 VASP 监管时间线背景见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]]
 
 ## 待核实点
 

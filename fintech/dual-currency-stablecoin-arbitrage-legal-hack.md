@@ -46,11 +46,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-2024 之前 = 链上 FX 不可行(USDC 一币独大)。2024 MiCA Title IV 生效 + EURC 流通量上升 + SocGen / Lugh 上市 = 欧元侧多发行方格局形成。2025 JPYC 在日本资金決済法新框架下成首批日元 stablecoin。2026.05 三角套利首次在 DEX 实际跑通 = 法律 hack 从理论到产品。
+2024 之前 = 链上 FX 不可行(USDC 一币独大)。2024 [[fintech/mica-overview|MiCA]] Title IV 生效 + EURC 流通量上升 + SocGen / Lugh 上市 = 欧元侧多发行方格局形成。2025 [[JapanFG/jpyc|JPYC]] 在日本资金決済法新框架下成首批日元 stablecoin。2026.05 三角套利首次在 DEX 实际跑通 = 法律 hack 从理论到产品。
 
 ## Counterpoints
 
-监管 critics 主张"用户自主"论无效 —— 任何 facilitator (DEX / aggregator)若有 routing / pricing 算法,实际就是市场 maker · 应受 FX / commodity 监管。SEC 已对 Uniswap 发 Wells Notice(2024)· 路径模糊。日本 FSA 也可能将 stablecoin swap 视为类 FX · 因为它涉及汇率 discovery。监管最终落点可能不是"是 vs 不是" · 而是 "scope 多大 + 报告义务多重"。
+监管 critics 主张"用户自主"论无效 —— 任何 facilitator (DEX / aggregator)若有 routing / pricing 算法,实际就是市场 maker · 应受 FX / commodity 监管。SEC 已对 Uniswap 发 Wells Notice(2024)· 路径模糊。日本 FSA 也可能将 stablecoin swap 视为类 FX · 因为它涉及汇率 discovery。监管最终落点可能不是"是 vs 不是" · 而是 "scope 多大 + 报告义务多重",最终会影响 [[fintech/fx-onchain-as-stablecoin-final-boss|FX onchain 化 = 稳定币のラスボス]] 的实际落地速度。
 
 ## Open questions
 

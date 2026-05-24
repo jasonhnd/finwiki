@@ -38,6 +38,7 @@ sources:
 - [[exchanges/jp-vasp-regulatory-timeline|国内暗号資産 VASP 規制タイムライン]]
 - [[exchanges/jp-vasp-parent-company-map|国内 VASP 親会社・株主構造マップ]]
 - [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較]]
+- [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制 8 極比較マトリクス (JP / KR / HK / SG / EU / US / UAE / UK)]]
 - [[exchanges/jp-vasp-incident-history|国内 VASP 暗号資産流出事件史]]
 - [[exchanges/global-dex-major-five-comparison|グローバル DEX 主要 5 社比較]]
 
@@ -204,9 +205,20 @@ FSA registered crypto asset exchange operator list snapshot used here: 2026-04-0
 - [[exchanges/rwa-tokenization-cex-integration|RWA tokenization x CEX]]
 - [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge x CEX deposit/withdrawal]]
 
+## Industry bodies and service layer
+
+- [[exchanges/jcba-japan-crypto-business-association|JCBA — Japan Crypto Business Association]]
+- [[exchanges/japan-blockchain-association-jba|Japan Blockchain Association (JBA)]]
+- [[exchanges/japan-crypto-audit-firm-landscape|Japan crypto-audit firm landscape]]
+- [[exchanges/japan-crypto-law-firm-landscape|Japan crypto-law firm landscape]]
+- [[exchanges/jp-crypto-staking-as-a-service-operators|Japan crypto staking-as-a-service operators]]
+- [[exchanges/jp-crypto-on-off-ramp-bridge-layer|Japan crypto on/off-ramp bridge layer]]
+- [[exchanges/jp-crypto-tax-software-vendor-layer|Japan crypto-tax software vendor layer]]
+- [[exchanges/jp-web3-policy-public-body-layer|Japan Web3 / crypto policy public body layer]]
+
 ## Backlog
 
-- Add a regulatory comparison matrix for Japan / Korea / Hong Kong / Singapore / EU / US.
+- Done: [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison matrix]] covering JP / KR / HK / SG / EU / US / UAE / UK across 13 axes (statute, license tiers, activity coverage, capital, cold-storage segregation, fit-and-proper, AML / Travel Rule, stablecoin issuance, cross-border passporting, marketing, enforcement, disclosure, carve-outs).
 - Split dormant / withdrawn Japan entities from active VASP operators.
 - Add a short source-quality tier for exchange entries: primary registry, company IR, media, inferred.
 - JPYC overlap reconciled via [[JapanFG/jpyc|JapanFG JPYC anchor]]; keep [[exchanges/jp-exchange-jpyc|JPYC]] as a legacy stablecoin-routing page, not a conventional CEX page.

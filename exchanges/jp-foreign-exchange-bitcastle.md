@@ -101,6 +101,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[exchanges/jp-foreign-exchange-kucoin]] — 同時警告を受けた KuCoin
 - [[exchanges/jp-foreign-exchange-bybit]] — 同時警告を受けた Bybit（3度目）
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
+- [[exchanges/jp-foreign-exchange-bitget]] — 同時警告を受けた Bitget
+- [[exchanges/jp-foreign-exchange-mexc]] — 同時警告を受けた MEXC
 
 ## Sources
 

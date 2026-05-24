@@ -51,6 +51,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 | PancakeSwap | BSC 専属 | AMM + perp | CAKE | $0.3-0.8B | BSC hub・retail |
 | Hyperliquid | 自社 L1 | CLOB perp | (なし) | $1-3B (perp) | on-chain 板・points |
 
-設計面の trade-off — AMM は流動性提供の単純さと MEV 耐性の課題を抱える一方、CLOB は注文タイプの多様性と価格発見の精度で優れる。Emission 構造は veToken 系 (Curve / Aerodrome) と固定発行系 (Uniswap)、trading-fee-rebate (Hyperliquid) で大きく分岐。規制位置はいずれもアメリカからのアクセス遮断が進行中で、日本では未上場 token として FSA 警告書発出の対象外だが、JVCEA WhiteList ([[exchanges/jvcea-whitelist-token-listing]]) には載っていない (国内取引所では非取扱)。CEX との取引高対比は ([[exchanges/global-cex-top10-comparison]]) を参照。取引高は市場変動が大きく、表中の数値は 2025 時点の概算範囲。
+設計面の trade-off — AMM は流動性提供の単純さと MEV 耐性の課題を抱える一方、CLOB は注文タイプの多様性と価格発見の精度で優れる。Emission 構造は veToken 系 (Curve / Aerodrome) と固定発行系 (Uniswap)、trading-fee-rebate (Hyperliquid) で大きく分岐。規制位置はいずれもアメリカからのアクセス遮断が進行中で、日本では未上場 token として FSA 警告書発出の対象外だが、JVCEA WhiteList ([[exchanges/jvcea-whitelist-token-listing]]) には載っていない (国内取引所では非取扱)。CEX との取引高対比は ([[exchanges/global-cex-top10-comparison]]) を参照。取引高は市場変動が大きく、表中の数値は 2025 時点の概算範囲。設計派閥比較は [[exchanges/amm-design-evolution|AMM design evolution]] と [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]、Solana 系は [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]] を参照。
 
 来源: DefiLlama dexs ranking · Dune Analytics ダッシュボード · 各 protocol whitepaper / docs (Uniswap, Curve, Aerodrome, PancakeSwap, Hyperliquid)

@@ -39,7 +39,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Origin & evolution
 
-2017-2022 多链时代用户深感切链痛苦(钱包切换 / gas 代币 / 桥风险)。2022-2023 跨链桥(Wormhole / LayerZero / Axelar)成熟但不解决 UX 问题。2023 Privy / Dynamic / Magic 等 embedded wallet 出现,解决私钥 UX,但链选择仍需用户。2024.02 Polygon AggLayer v1 上线 → "共享流动性 + 状态"路径。2024.04 NEAR Chain Signatures + Intents → "意图驱动 + MPC 多链账户"路径。2024.04 EigenLayer mainnet → "共享安全 / restaking"路径(安全层抽象)。2025-2026 三方案并存,链抽象成为协议价值捕获新前沿。
+2017-2022 多链时代用户深感切链痛苦(钱包切换 / gas 代币 / 桥风险)。2022-2023 跨链桥(Wormhole / LayerZero / Axelar)成熟但不解决 UX 问题。2023 [[agent-economy/privy-embedded-wallet-overview|Privy]] / Dynamic / Magic 等 embedded wallet 出现,解决私钥 UX,但链选择仍需用户(参见 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。2024.02 Polygon AggLayer v1 上线 → "共享流动性 + 状态"路径。2024.04 NEAR Chain Signatures + Intents → "意图驱动 + MPC 多链账户"路径。2024.04 EigenLayer mainnet → "共享安全 / restaking"路径(安全层抽象)。2025-2026 三方案并存,链抽象成为协议价值捕获新前沿。
 
 ## Counterpoints
 
@@ -52,7 +52,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 - AggLayer / NEAR / EigenLayer 哪个会成为事实标准?或者并存?
 - 监管(MiCA / GENIUS)何时会针对链抽象出明确规则?
-- 机构链(Tempo / Arc / Kinexys)会否选择拥抱链抽象?
+- 机构链(Tempo / Arc / Kinexys)会否选择拥抱链抽象?(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 在多链上的实际抽象层)
 
 ## Related
 <!-- wiki-links:managed -->

@@ -42,7 +42,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **(b) 送金上限なしの破壊力**:JPYC 等資金移動業者型は 1 回 100 万円という制約により **個人向け零售に限定**される。信託型は **B2B 大口決算(10 億円〜数百億円 1 笔)が可能** —— これが Progmat が信託型を選んだ根本理由。
 
-**(c) 多銀行共同委託の意味**:Progmat Coin の信託スキームでは **複数銀行(MUFG, SMBC, Mizuho)が共同委託者**となり、**三菱 UFJ 信託 1 社が受託者**となる。これにより 3 つの megabank 客户预金を **統一支持一種共同 SC** することが法律上可能になる —— [[multi-megabank-consortium-governance|多巨行联合体治理]] の法律的基盤。
+**(c) 多銀行共同委託の意味**:[[JapanFG/progmat|Progmat Coin]] の信託スキームでは **複数銀行([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG/SMBC]], Mizuho)が共同委託者**となり、**三菱 UFJ 信託 1 社が受託者**となる。これにより 3 つの megabank 客户预金を **統一支持一種共同 SC** することが法律上可能になる —— [[multi-megabank-consortium-governance|多巨行联合体治理]] の法律的基盤。
 
 ## §501(d) との関係
 

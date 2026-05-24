@@ -34,11 +34,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-Frax 走中间路线: **储备合规 (BUIDL + UST) + 治理去中心化 (veFXS DAO)**. 与 Circle/Paxos 完全合规不同 (失去去中心化基因), 也与 Sky USDS 完全去中心化不同 (失去合规通道). Sam Kazemian 2024-09 公开声明 "frxUSD 走 hybrid 路线"。机制: 用户存 frxUSD → 收 sfrxUSD → 自动 7-9% yield (来自 SOFR + Frax 内部 yield 策略 + BUIDL 直持收益). Fraxtal L2 = frxUSD 作 native gas 资产, **内部循环锁定流动性** —— 用户在 Fraxtal 上转账消耗 frxUSD 作 gas,而非 ETH,Frax 协议 capture 全部 gas 经济。 与 [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]] 形成镜像: Sky 走 Subdao 分散监管, Frax 走储备靠拢 BUIDL —— 两者代表 DeFi SC 在 §501 时代的两种生存策略。
+Frax 走中间路线: **储备合规 ([[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] + UST) + 治理去中心化 (veFXS DAO)**. 与 Circle/Paxos 完全合规不同 (失去去中心化基因), 也与 Sky USDS 完全去中心化不同 (失去合规通道). Sam Kazemian 2024-09 公开声明 "frxUSD 走 hybrid 路线"。机制: 用户存 frxUSD → 收 sfrxUSD → 自动 7-9% yield (来自 SOFR + Frax 内部 yield 策略 + BUIDL 直持收益). Fraxtal L2 = frxUSD 作 native gas 资产, **内部循环锁定流动性** —— 用户在 Fraxtal 上转账消耗 frxUSD 作 gas,而非 ETH,Frax 协议 capture 全部 gas 经济, 与 [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币-链-代币策略三难]] 中 "自链 capture" 一极相吻合。 与 [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]] 形成镜像: Sky 走 Subdao 分散监管, Frax 走储备靠拢 BUIDL —— 两者代表 DeFi SC 在 §501 时代的两种生存策略。
 
 ## Origin & evolution
 
-Frax 原 FRAX 2020 上线 (部分储备 + 算法稳定币 hybrid). 2022-2023 受 UST/Luna 崩盘后市场对算法 SC 的高度警惕影响, Frax 主动从算法部分撤出. **2024-Q2 v3 升级**: frxUSD 替换 FRAX, 储备从 USDC + 算法迁到 100% UST + RWA. **2024-02 Fraxtal L2 上线** (原 Frax Chain · OP Superchain 成员). 2025 sfrxUSD 7-9% APY 跑赢同类去中心化 SC. **2026-Q2 frxUSD vault 直持 BUIDL ~$200M** = 首个 DeFi 协议直接持 BUIDL (不通过 RWA 间接 vault). 这把 frxUSD 推进到 "半合规白圈" 边缘 —— **储备 100% 在白圈资产, 但 issuer 是 veFXS DAO**, GENIUS §501 灰色合规。
+Frax 原 FRAX 2020 上线 (部分储备 + 算法稳定币 hybrid). 2022-2023 受 UST/Luna 崩盘后市场对算法 SC 的高度警惕影响, Frax 主动从算法部分撤出. **2024-Q2 v3 升级**: frxUSD 替换 FRAX, 储备从 USDC + 算法迁到 100% UST + RWA. **2024-02 Fraxtal L2 上线** (原 Frax Chain · OP Superchain 成员). 2025 sfrxUSD 7-9% APY 跑赢同类去中心化 SC. **2026-Q2 frxUSD vault 直持 BUIDL ~$200M** = 首个 DeFi 协议直接持 BUIDL (不通过 RWA 间接 vault). 这把 frxUSD 推进到 "半合规白圈" 边缘 —— **储备 100% 在白圈资产, 但 issuer 是 veFXS DAO**, [[fintech/genius-act-501-denylist-mandate|GENIUS §501]] 灰色合规。
 
 ## Counterpoints
 

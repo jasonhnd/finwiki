@@ -53,9 +53,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **对稳定币战争的市场结构含义**：
 
-- **Tether 不会被消灭** → 在美 / 欧 / 日合规圈之外存在结构性需求
+- **Tether 不会被消灭** → 在美 / 欧 / 日合规圈之外存在结构性需求（详见 [[fintech/gray-market-dollar-network-formalization|灰色市场美元正式化]]）
 - **USDC、Arc 与 Tempo 在新兴市场的渗透率受限** → 主要捕获机构与跨境企业市场
 - **Visa / Mastercard / Stripe 在新兴市场的稳定币战略**应当是 partnership with USDT,而非压制策略
+- 各国主权抗美元化的 DPI 方案见 [[fintech/india-anti-dollar-dpi-alliance|印度 UPI / MOSIP DPI 联盟]] 与 [[fintech/national-license-private-stablecoin-with-dpi-export|国家许可型私营稳定币 + DPI 输出]]
 
 **典型企业打法**：
 

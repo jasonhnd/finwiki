@@ -39,11 +39,11 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 | 代表客户 | Stargate · Pendle · LiFi | DTCC / SWIFT / Kinexys | Solana · Jito · Pyth | Eclipse · Celestia · 长尾 L2 | Coinbase · Circle 原生 USDC |
 | 定位 | General purpose 默认 | Institutional / regulated | Solana 中心 + throughput | Permissionless / open | 仅 USDC · O(1) burn-mint |
 
-CCIP 双层验证(transaction + risk)是 institutional 接受的关键 · LayerZero DVN 是 general 默认 · Wormhole TVL 大但来自 Solana 生态集中 · Hyperlane 让长尾链不用等被列入。
+CCIP 双层验证(transaction + risk)是 institutional 接受的关键 · LayerZero DVN 是 general 默认 · Wormhole TVL 大但来自 Solana 生态集中 · Hyperlane 让长尾链不用等被列入。完整对照见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]];CEX deposit/withdrawal 路径上的实际分布对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]]。
 
 ## Origin & evolution
 
-2021-2022 跨链 = Wormhole / Multichain / Synapse 多家竞争。2022 一连串 bridge hack($600M Ronin / $325M Wormhole / $570M BSC)让安全模型成核心。2023-2024 收敛 = LayerZero general grade · Chainlink CCIP 借 oracle 品牌切 institutional · Wormhole ZK 升级保留 Solana 阵地。2025 Hyperlane permissionless 切长尾 · CCTP V2 让 USDC 调度成 "atomic cross-chain primitive"。
+2021-2022 跨链 = Wormhole / Multichain / Synapse 多家竞争。2022 一连串 bridge hack($600M Ronin / $325M Wormhole / $570M BSC)让安全模型成核心。2023-2024 收敛 = LayerZero general grade · Chainlink CCIP 借 oracle 品牌切 institutional · Wormhole ZK 升级保留 Solana 阵地。2025 Hyperlane permissionless 切长尾 · CCTP V2 让 USDC 调度成 "atomic cross-chain primitive"(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]])。
 
 ## Counterpoints
 

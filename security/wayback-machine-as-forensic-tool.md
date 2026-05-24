@@ -30,7 +30,7 @@ sources:
 This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] for peer context and [[systems/INDEX|systems index]] for the broader evidence boundary.
 
 > [!info] TL;DR
-> 项目方主动从官网/docs/PDF 链接撤下的文档 = 强 signal of awareness. 用 Wayback Machine (web.archive.org) 救回的原文,可作为单点证据来源对照"现在自首/否认"的口径偏移. PDF 链接 403 是数据,不是终点.
+> 项目方主动从官网/docs/PDF 链接撤下的文档 = 强 signal of awareness. 用 Wayback Machine (web.archive.org) 救回的原文,可作为单点证据来源对照"现在自首/否认"的口径偏移. PDF 链接 403 是数据,不是终点. 历史交易所事件如 [[exchanges/mtgox-bankruptcy-processing-timeline|Mt.Gox 破产处理 timeline]] 的早期 disclosure 多依赖此类档案保全.
 
 ## 操作步骤
 
@@ -45,7 +45,7 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/forensic-
 - 项目方 README / docs / PDF 出现新的 404
 - 白皮书页"暂时维护中"超过 1 周
 - 关键 claim 在最新版文档消失,但记忆中早期版本里有过
-- 任何"应该公开却查不到" 的 artifact
+- 任何"应该公开却查不到" 的 artifact — 包括 [[exchanges/jp-vasp-incident-history|JP VASP incident history]] 中倒闭 / 被吊销牌照交易所的早期 marketing / risk disclosure 页面
 
 ## When NOT to Use
 
@@ -62,4 +62,4 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/forensic-
 ## Provenance
 
 - case study (vaporware audit): 白皮书 PDF 链接 403 · Wayback 救回原文 · 作为唯一证据来源对照项目方"已撤下/否认" 的 claim 偏移
-- inferred forensic standard practice in chain investigation
+- inferred forensic standard practice in chain investigation — 商用 [[exchanges/global-crypto-forensics-vendor-layer|链上 forensics vendor]] 常将 Wayback 与链上 cluster 数据 join 作为完整 attribution package

@@ -40,6 +40,7 @@ sources:
 - [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]
 - [[policy-finance/agriculture-credit-guarantee-system|Agriculture credit guarantee system]]
 - [[policy-finance/fisheries-credit-guarantee-system|Fisheries credit guarantee system]]
+- [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)]]
 
 ## Institution lanes
 
@@ -66,6 +67,6 @@ sources:
 
 ## Backlog
 
-- Add a project-finance stack diagram: JOGMEC -> JBIC -> NEXI -> megabanks -> sponsor.
+- Done: [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] mapping JOGMEC equity → JBIC sovereign lending → NEXI political/commercial insurance → megabank syndicate (MUFG/SMFG/Mizuho) → sponsor SPV with deal-flow timeline, public examples (Mozambique/Australia LNG, mining, power), and OECD-Arrangement counterpoints.
 - Add domestic policy-finance comparison: JFC / ODFC / JASSO / local public credit guarantee corporations.
 - Track economic-security changes to JBIC, NEXI, JOGMEC, and guarantee-insurance mandates.

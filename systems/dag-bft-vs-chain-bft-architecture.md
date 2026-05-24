@@ -46,7 +46,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it with [[fintech/IN
 
 **DAG-BFT 的优势场景**：
 
-- Sui / Aptos 等 high-TPS L1
+- Sui / Aptos 等 high-TPS L1(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各家在不同 L1 的部署)
 - Solana 类似设计（PoH + Tower BFT 属于 DAG-flavored）
 - 未来 AI agent 微支付场景（每秒数百万笔 sub-cent transaction）
 
@@ -67,7 +67,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it with [[fintech/IN
 
 **适用判断框架**：
 
-- **支付 / 结算** → Chain-BFT
+- **支付 / 结算** → Chain-BFT(对照 [[fintech/protocol-renewal-trigger-as-event-anchor|protocol renewal trigger]] 中机构链对线性可审计性的偏好)
 - **游戏 / 高频** → DAG-BFT
 - **通用 L1** → 两者皆可（取决于生态目标）
 

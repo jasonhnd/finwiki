@@ -71,3 +71,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jp-exchange-custodiem]]
 - [[exchanges/jp-exchange-crypto-garage]]
 - [[exchanges/btc-spot-etf-japan-impact]]
+- [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX 統合
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[securities/japan-best-execution-sor-pts]] — japan best execution SOR/PTS

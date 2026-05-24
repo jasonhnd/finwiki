@@ -34,11 +34,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-BUIDL 在三种角色上同时使用:(1) **SC 储备资产** ——issuer 持有 BUIDL,把"国债 yield" 通过"SC 流通"杠杆化;(2) **DeFi 协议抵押品** ——RWA vault 接 BUIDL 后,USDS / sfrxUSD 等去中心化 SC 也可间接获得机构合规储备;(3) **衍生品 IM** ——交易所与 prime broker 把 BUIDL 列入合格保证金,让机构在不动现金的情况下吃 4.3% APY。**横跨白圈 + 灰圈是关键**:BUIDL 不挑客户(中立军火商),只要 KYC 通过都能买 → 这与 JPMorgan JPMD 只服务自家客户的闭环模式形成镜像。
+BUIDL 在三种角色上同时使用:(1) **SC 储备资产** ——issuer 持有 BUIDL,把"国债 yield" 通过"SC 流通"杠杆化;(2) **DeFi 协议抵押品** ——RWA vault 接 BUIDL 后,USDS / sfrxUSD 等去中心化 SC 也可间接获得机构合规储备;(3) **衍生品 IM** ——交易所与 prime broker 把 BUIDL 列入合格保证金,让机构在不动现金的情况下吃 4.3% APY。**横跨白圈 + 灰圈是关键**:BUIDL 不挑客户(中立军火商),只要 KYC 通过都能买 → 这与 [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]] 只服务自家客户的闭环模式形成镜像,也呼应 [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]] 的中立军火商范式。
 
 ## Origin & evolution
 
-2024-03 BUIDL 上线时主要服务 Ondo OUSG 单一客户(早期 $400M+ 来自 Ondo)。2024-Q4 Ethena USDtb + Frax v3 + Spark RWA vault 接入。2025-Q3 USDB (Stripe/Bridge) 上线后成为最大单一 SC issuer 客户。2025-11 Binance 把 BUIDL 接入 BNB Chain 作 IM,**首次有 CEX 直接接受代币化 MMF 作保证金**。2026-Q1 Apollo ACRED 用 BUIDL 做赎回流动性后备,**首次有 private credit fund 用 BUIDL 解决 T+0 流动性**。2026-05-14 $1B 即时赎回设施进一步把 BUIDL 锁定为流动性网络中心节点。
+2024-03 BUIDL 上线时主要服务 Ondo OUSG 单一客户(早期 $400M+ 来自 Ondo)。2024-Q4 Ethena USDtb + Frax v3 + Spark RWA vault 接入。2025-Q3 USDB (Stripe/Bridge) 上线后成为最大单一 SC issuer 客户。2025-11 Binance 把 BUIDL 接入 BNB Chain 作 IM,**首次有 CEX 直接接受代币化 MMF 作保证金**,扩大了 [[exchanges/rwa-tokenization-cex-integration|CEX RWA 抵押集成]] 的标准模板。2026-Q1 Apollo ACRED 用 BUIDL 做赎回流动性后备,**首次有 private credit fund 用 BUIDL 解决 T+0 流动性**。2026-05-14 $1B 即时赎回设施进一步把 BUIDL 锁定为流动性网络中心节点。
 
 ## Counterpoints
 

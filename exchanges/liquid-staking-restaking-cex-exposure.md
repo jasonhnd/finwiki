@@ -73,3 +73,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/eu-mica-casp-regime-overview]]
 - [[exchanges/us-crypto-licensing-multi-layer-system]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview]]
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX 統合
+- [[exchanges/vetoken-host-protocol-flywheel]] — veToken host protocol 飛輪

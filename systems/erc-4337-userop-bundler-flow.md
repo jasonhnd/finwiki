@@ -66,7 +66,7 @@ Bundler 经济模型在 v0.7 后引入 priority fee 拍卖机制 · 缓解早期
 
 ## Counterpoints
 
-**复杂度集中在开发者**:end-user 体验简洁(无 seed phrase、用 USDC 付 gas)· 但开发者需要选 Bundler、配 Paymaster、管 EntryPoint 版本——这是为什么 Privy / Coinbase CDP / Alchemy 把"AA-as-a-Service"做成商业模式。
+**复杂度集中在开发者**:end-user 体验简洁(无 seed phrase、用 USDC 付 gas)· 但开发者需要选 Bundler、配 Paymaster、管 EntryPoint 版本——这是为什么 [[agent-economy/privy-embedded-wallet-overview|Privy]] / Coinbase CDP / Alchemy 把"AA-as-a-Service"做成商业模式(参见 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。
 
 **Bundler 审查风险**:Bundler 理论上可拒绝特定 UserOp(类似 builder MEV 审查)。当前 Bundler 数量少(主流 3-5 家)· 中心化风险显著。社区有讨论 stake-based Bundler · 但未广泛落地。
 
@@ -75,7 +75,7 @@ Bundler 经济模型在 v0.7 后引入 priority fee 拍卖机制 · 缓解早期
 - v0.7 后 Bundler 数量和地理分布?
 - Aggregator(BLS 批签名)的实际采用率?
 - EntryPoint 升级路径(单例合约升级的安全模型)?
-- 与 7702 EOA 升级共享 EntryPoint 的具体语义?
+- 与 7702 EOA 升级共享 EntryPoint 的具体语义?(对照 [[agent-economy/erc-7715-overview|ERC-7715]] 在 AA stack 上构建的 agent permission 模型)
 
 ## Related
 <!-- wiki-links:managed -->

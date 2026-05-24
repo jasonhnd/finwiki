@@ -130,8 +130,8 @@ Skills 使用命名空间（例如 /my-plugin:review）避免冲突。
 
 以下为初步联想，待进一步讨论：
 
-1. **支付能力作为 MCP Server**：任何 Agent 通过 MCP 协议调用[[agent-economy/2026-04-08_agent-payment-infrastructure-research|支付能力]]（check_balance, authorize_payment, get_price, dispute）
-2. **Marketplace 收费化**：[[agent-economy/skill-market-monetization|Plugin Marketplace 启用付费]]后，可作为计费和结算后端
+1. **支付能力作为 MCP Server**：任何 Agent 通过 MCP 协议调用[[agent-economy/2026-04-08_agent-payment-infrastructure-research|支付能力]]（check_balance, authorize_payment, get_price, dispute），底层依赖 [[systems/erc-4337-overview|ERC-4337 可编程钱包]]
+2. **Marketplace 收费化**：[[agent-economy/skill-market-monetization|Plugin Marketplace 启用付费]]后，可作为计费和结算后端（结算币选择见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]]）
 3. **层级化预算管控**：用户级 → 项目级 → Agent 级 → 任务级 → 单次调用，映射组件层级
 4. **金融成本追踪**：类似上下文成本追踪，追踪每次 Skill 调用的金融成本（花了多少钱、值不值）
 

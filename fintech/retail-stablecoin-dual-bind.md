@@ -48,7 +48,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - ペイペイ取扱高 4 兆円、ドコモ d 払い 4 兆円、日本の消費総額 200 兆円 → リテール決済は既に充足
 - 銀行発行 SC が「単に決済だけ」だとペイペイで足りる → やる必要性ゼロ
-- パーミッションレス前提の USDC は日本でも全く伸びない（羽田空港 ネットスターズ 1 ヶ月 40 件）
+- パーミッションレス前提の USDC は日本でも全く伸びない（羽田空港 ネットスターズ 1 ヶ月 40 件、流通通道全体は [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環]] を参照）
 - 「決済以外の価値」が必要 — 「KYC + ウォレット + スマコン」三点セットが差別化軸として提示される
 - ワールドカップチケット 10 万円規模のような「金額上限ある電子マネーでは不可能 + ID トレース必須」が現実的 use case 例
 
@@ -56,7 +56,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - リテール向け SC の事業設計を始める前 — 純粋な決済レイヤー競争に行こうとする提案を pre-empt
 - 「ペイペイで十分ではないか？」反論への回答準備
-- 商業 SC 設計の retail 軸 / リテール UC 設計
+- 商業 SC 設計の retail 軸 / リテール UC 設計（プロトコル UX 基礎は [[systems/erc-7702-overview|ERC-7702]] / [[agent-economy/privy-embedded-wallet-overview|Privy 嵌入式钱包]]）
 - 規制側との議論で「リテール SC の社会的価値は何か」問われたとき → ID + スマコン + 金額上限解放
 
 ## Source

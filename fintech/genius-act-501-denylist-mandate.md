@@ -52,7 +52,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **地缘含义**：法案使美国稳定币阵营（USDC / USD1 / PYUSD）与非美国稳定币（USDT 灰色路径 / 各国主权稳定币 / 算法稳定币）形成结构性对立。详见 [[stablecoin-chain-sovereign-currency-divide]]。
 
-**与日本立法的平行关系**：日本《资金决済法》中的对应条款（第 1 号电子决済手段）同样要求发行方具备类似能力（信托型 / 银行型 / 资金移动业者型）。GENIUS Act 与日本立法属于**平行立法趋势**,而非孤立现象。
+**与日本立法的平行关系**：日本《资金决済法》中的对应条款（第 1 号电子决済手段）同样要求发行方具备类似能力（信托型 / 银行型 / 资金移动业者型，详见 [[fintech/japan-epi-three-types-overview|日本 EPI 三型架构]]）。GENIUS Act 与日本立法属于**平行立法趋势**,而非孤立现象。
+
+**先例与跨境延伸**：链级冻结的实际操作先例已在 USDC / USDT 多链上发生，详见 [[fintech/chain-level-ofac-freeze-precedent|链级 OFAC freeze 先例]]。VASP 侧 [[fintech/fatf-travel-rule-overview|FATF Travel Rule]] 配套的 BTS 协议层构成"信息层 + 资产层"双合规栈。全球 VASP 监管的横向矩阵见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 
 ## Related

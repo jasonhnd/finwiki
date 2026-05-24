@@ -72,3 +72,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jp-exchange-okcoin-japan]]
 - [[exchanges/us-crypto-licensing-multi-layer-system]] (SEC 関連)
 - [[exchanges/jvcea-whitelist-token-listing]]
+- [[exchanges/ve33-governance-mechanism]] — ve(3,3) governance メカニズム
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[fintech/portfolio-winner-structure-arm-analog]] — portfolio winner structure arm analog

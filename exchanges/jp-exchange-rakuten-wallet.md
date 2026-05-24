@@ -128,6 +128,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-gmo-coin]] — 同業 GMO コイン overview
 - [[exchanges/jp-exchange-mercoin]] — 同業 メルコイン overview
 - [[exchanges/jp-exchange-binance-japan]] — 同業 バイナンスジャパン overview
+- [[JapanFG/rakuten-fg]] — 楽天グループ親会社プロファイル
+- [[exchanges/jp-cex-points-economy-integration]] — JP CEX ポイント経済統合
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 
