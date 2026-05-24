@@ -101,7 +101,7 @@ MEXC はアルトコイン上場数の多さでグローバル有数の取引所
 - 2024 年を通じて新規上場スピードを加速。業界内で「first-listing」の優位性をマーケティングの軸に据えている
 - コピートレード・DEX+ など新機能の継続的追加
 - 2025 年 2 月の日本 App Store 削除以降、日本向け公式コミュニケーションは確認されていない
-- Bybit の日本撤退（2026 年方針）を受け、日本語ブログで移行先候補として MEXC を紹介するコンテンツを公開（2026-01-22）—ただしこれは MEXC 自身のマーケティングコンテンツであり、日本 FSA 認可取得の動向は公表なし
+- [[exchanges/jp-foreign-exchange-bybit|Bybit]] の日本撤退（2026 年方針）を受け、日本語ブログで移行先候補として MEXC を紹介するコンテンツを公開（2026-01-22）—ただしこれは MEXC 自身のマーケティングコンテンツであり、日本 FSA 認可取得の動向は公表なし。同時警告対象は [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] と [[exchanges/jp-foreign-exchange-bitget|Bitget]] にも該当（背景は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]]）。
 
 ## 8. 関連人物
 

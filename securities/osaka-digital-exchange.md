@@ -52,11 +52,11 @@ For FinWiki, ODX is the bridge between old securities market structure and token
 
 ODX matters because it puts three themes into one entity:
 
-- PTS competition against TSE execution;
-- security-token secondary liquidity;
-- bank-backed digital settlement experiments.
+- PTS competition against [[securities/tokyo-stock-exchange|TSE]] execution (peer venue: [[securities/japannext-securities|Japannext]]);
+- security-token secondary liquidity tied to [[JapanFG/progmat|Progmat]] tokenization infrastructure;
+- bank-backed digital settlement experiments coordinated with [[JapanFG/smfg|SMFG]] / [[JapanFG/nomura-hd|Nomura]] / [[JapanFG/sbi-hd|SBI HD]] shareholders.
 
-It should be read together with [[fintech/jp-stablecoin-progmat|Progmat]], trust-type stablecoin design, and securities-settlement infrastructure.
+It should be read together with [[fintech/jp-stablecoin-progmat|Progmat]], trust-type stablecoin design, and securities-settlement infrastructure ([[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]]).
 
 ## Counterpoints
 

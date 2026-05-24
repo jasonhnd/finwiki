@@ -73,11 +73,11 @@ For the registered third-party prepaid issuer population, use [[payments/prepaid
 
 | Product surface | Possible legal layers |
 |---|---|
-| Code payment app | Funds-transfer balance, prepaid balance, credit card, bank debit, points, coupons. |
+| Code payment app | Funds-transfer balance, prepaid balance, credit card, bank debit, points, coupons (e.g. [[JapanFG/paypay|PayPay]], [[JapanFG/kyash|Kyash]]). |
 | Retail electronic money | Prepaid payment instrument, loyalty points, merchant settlement contract. |
-| Marketplace wallet | Funds-transfer balance for seller payouts, prepaid credits for purchases, escrow / settlement functions. |
+| Marketplace wallet | Funds-transfer balance for seller payouts, prepaid credits for purchases, escrow / settlement functions (compare [[JapanFG/merpay|Merpay]]). |
 | Game / app credits | Server-based prepaid payment instrument, promotional points, platform fee economics. |
-| Stablecoin / EPI bridge | Electronic payment instrument, funds-transfer route, trust route, crypto-asset / ECISB boundary. |
+| Stablecoin / EPI bridge | Electronic payment instrument, funds-transfer route, trust route, crypto-asset / ECISB boundary (see [[fintech/japan-ecisb-license|Japan ECISB license]]). |
 
 ## Why It Matters
 

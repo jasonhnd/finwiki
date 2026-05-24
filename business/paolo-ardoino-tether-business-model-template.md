@@ -31,7 +31,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-商业模式 = **stablecoin 是负债端,短期美债是资产端,利差直接归发行方**。具体:用户用 1 USD 买入 1 USDT(Tether 持有 1 USD)→ Tether 用 USD 购买短期美债 → 美债利息归 Tether(不分给 USDT 持有者)→ 体制极简(40 人 ≈ 一家中型律所)→ 人均利润历史最高。模板"自然垄断"在**高利率周期 + 美元主导新兴市场 + KYC 缺位**三个变量共振时最强。
+商业模式 = **stablecoin 是负债端,短期美债是资产端,利差直接归发行方**。具体:用户用 1 USD 买入 1 USDT(Tether 持有 1 USD)→ Tether 用 USD 购买短期美债 → 美债利息归 Tether(不分给 USDT 持有者,这与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等付息型代币化 MMF 的核心差别)→ 体制极简(40 人 ≈ 一家中型律所)→ 人均利润历史最高。模板"自然垄断"在**高利率周期 + 美元主导新兴市场 + KYC 缺位**三个变量共振时最强(参见 [[fintech/em-market-crypto-dollarization-pattern|EM 加密美元化模式]] 与 [[business/sandeep-nailwal-polygon-india-dpi-pattern|Polygon 反美元 DPI]] 镜像案例)。
 
 模板的代价:**Tether 不能向 USDT 持有者付息**(否则会被认定为证券)→ 只能用"免 KYC + 灰色市场 + 新兴市场不可替代"作 hedge。新兴市场美元化深度(尼日利亚 $32B / 月、阿根廷 USDT 占家庭流动美元 40-50%、伊朗石油 30% USDT-Tron)= Tether 真正的护城河,不在合规通道。
 

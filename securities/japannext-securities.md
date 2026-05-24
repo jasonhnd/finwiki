@@ -50,11 +50,11 @@ For FinWiki, Japannext is the main private-venue counterpoint to [[securities/to
 
 Japannext matters because it tests whether Japanese equity execution is a single-exchange world or a routed market. Watch:
 
-- retail broker SOR adoption;
-- best-execution policy revisions;
+- retail broker SOR adoption (e.g. routing into [[JapanFG/rakuten-securities|Rakuten Securities]] / [[JapanFG/sbi-securities|SBI 証券]]);
+- best-execution policy revisions ([[securities/financial-instruments-business-operators-japan-index|FIBO index]] tracks the registered operators);
 - spread / tick-size differences;
 - nighttime liquidity;
-- ownership and strategic alignment with SBI / Cboe-related market structure.
+- ownership and strategic alignment with [[JapanFG/sbi-hd|SBI HD]] / Cboe-related market structure (peer venues are [[securities/osaka-digital-exchange|ODX]] and the parent [[securities/tokyo-stock-exchange|TSE]]).
 
 ## Counterpoints
 

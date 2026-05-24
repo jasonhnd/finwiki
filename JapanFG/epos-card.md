@@ -42,7 +42,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 3. Why this standalone page matters
 
-EPOS is strategically different from megabank cards: its moat is retail relationship, tenant network, and customer experience rather than a deposit base.
+EPOS is strategically different from megabank cards like [[JapanFG/mufg|MUFG]]-affiliated issuers: its moat is retail relationship, tenant network, and customer experience rather than a deposit base. Useful peers include [[JapanFG/pocket-card|Pocket Card]] and [[JapanFG/aeon-financial-service|イオンフィナンシャルサービス]] for other retail-origin card issuers.
 
 ## Related
 

@@ -66,7 +66,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/co
 
 ## BaaS design lesson
 
-メルカリバンクは、BaaS の本質を「ライセンスを丸ごと取ること」ではなく「既存ライセンスと銀行 API をどこで接続するか」として示す案件。暗号資産交換業者、証券アプリ、EC アプリが同じ UX を目指す場合、まず切り分けるべきは次の 4 点。
+メルカリバンクは、[[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] の本質を「ライセンスを丸ごと取ること」ではなく「既存ライセンスと銀行 API をどこで接続するか」として示す案件。[[exchanges/jp-exchange-mercoin|メルコイン]] など同グループの暗号資産交換業者、証券アプリ、EC アプリが同じ UX を目指す場合、まず切り分けるべきは次の 4 点（親会社の最新像は [[JapanFG/mercari-hd|メルカリ HD]] 参照）。
 
 1. 預金口座を誰が提供するか。
 2. 口座情報表示と資金移動指図を誰が扱うか。

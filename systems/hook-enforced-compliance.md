@@ -67,7 +67,7 @@ deployment ≠ working。Hook を配置しても、実際に firing するかは
 - **契約書・SOP**：「書いた = 守られる」ではない · 監査・罰則・ログが強制機構
 - **コード規約**：lint / CI / pre-commit hook が Layer 1 相当
 - **組織プロセス**：review step / sign-off が Layer 4 相当
-- **法令順守**：監督官庁の査察 が Layer 4 相当 · 自主検査が Layer 3 相当
+- **法令順守**：監督官庁の査察 が Layer 4 相当 · 自主検査が Layer 3 相当（金融ドメインの実例は [[exchanges/fsa-business-improvement-orders-history|FSA 業務改善命令史]] や [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制体系]] が並走）
 
 ## 認知特性との関係
 

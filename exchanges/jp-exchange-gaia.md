@@ -49,7 +49,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **暗号資産交換業**: 近畿財務局長 第00004号（登録日 2021-06-18）
 - **JVCEA 第一種会員**: #1034（2021年1月に第二種で加入 → 同年6月に第一種へ種別変更）
 - 金融商品取引業・電子決済手段等取引業・資金移動業の登録なし（公表情報の範囲内）
-- 関西所在の暗号資産交換業 VASP は 26 社中 2 社のみ（Zaif: 近畿財務局長 第00001号 と当社）
+- 関西所在の暗号資産交換業 VASP は 26 社中 2 社のみ（[[exchanges/jp-exchange-zaif|Zaif]]: 近畿財務局長 第00001号 と当社、参考は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]]）
 
 ## 3. 取扱通貨
 
@@ -59,7 +59,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 4. 業務範囲
 
-- **主力サービス**: 暗号資産自動両替機 BTM（Bitcoin Teller Machine）— 日本国内唯一の暗号資産 ATM として展開（2022年8月開始）
+- **主力サービス**: 暗号資産自動両替機 BTM（Bitcoin Teller Machine）— 日本国内唯一の暗号資産 ATM として展開（2022年8月開始、対比は [[exchanges/jp-exchange-coinhub|COINHUB]] の ATM 業態）
 - **BTM**: 日本円 ↔ BTC / ETH 購入・売却、ADA 購入のみ対応。1取引最大10万円。
 - **WEB 両替サービス**: BTM 不要のオンライン両替（24時間受付、BTC / ETH / ADA の購入・売却対応）
 - **インバウンド対応**: 利用者登録なし・ICAO 準拠 IC パスポートのみで ADA 売却以外の両替が可能（外国人観光客向け）

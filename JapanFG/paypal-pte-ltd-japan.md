@@ -43,7 +43,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 3. Why this standalone page matters
 
-PayPal is global and brand-led, but Japan analysis needs the entity and account-type boundary. Personal and business account treatment is not identical.
+PayPal is global and brand-led, but Japan analysis needs the entity and account-type boundary. Personal and business account treatment is not identical. Useful peers include [[JapanFG/wise-payments-japan|Wise]], [[JapanFG/payoneer-japan|Payoneer]], and [[JapanFG/airwallex-japan|Airwallex]] for the funds-transfer comparator, and [[JapanFG/paypay|PayPay]] for the domestic wallet adjacent surface.
 
 ## Related
 

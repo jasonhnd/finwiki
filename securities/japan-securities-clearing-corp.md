@@ -52,11 +52,11 @@ For FinWiki, JSCC is the risk-mutualization and collateral node connecting excha
 
 JSCC is where market volume becomes counterparty risk. It matters most during:
 
-- margin stress;
-- volatility spikes;
-- JGB collateral pressure;
+- margin stress (with [[JapanFG/japan-securities-finance|JSF]] providing the standardized financing layer);
+- volatility spikes on [[securities/tokyo-stock-exchange|TSE]] or [[securities/osaka-exchange|OSE]];
+- JGB collateral pressure (linked to [[money-market/jgb-repo-market-japan|JGB repo market]]);
 - clearing participant defaults;
-- product migration between exchange, PTS, OTC, and tokenized markets.
+- product migration between exchange, PTS, OTC, and tokenized markets ([[securities/osaka-digital-exchange|ODX]] / [[JapanFG/progmat|Progmat]] context).
 
 ## Counterpoints
 

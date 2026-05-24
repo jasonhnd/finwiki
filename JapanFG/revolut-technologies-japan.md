@@ -38,7 +38,7 @@ REVOLUT TECHNOLOGIES JAPAN株式会社は Revolut の日本 operating entity。�
 ## 2. Business role
 
 - Brings a global neobank-style app into Japan under funds-transfer licensing.
-- Competes most directly with Wise and Airwallex on cross-border UX, but also overlaps with prepaid / wallet products.
+- Competes most directly with [[JapanFG/wise-payments-japan|Wise]] and [[JapanFG/airwallex-japan|Airwallex]] on cross-border UX, but also overlaps with prepaid / wallet products such as [[JapanFG/paypay|PayPay]].
 - Important for tracking how global fintech models adapt to Japanese regulation.
 
 ## 3. Why this standalone page matters

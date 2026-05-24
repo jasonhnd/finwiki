@@ -30,7 +30,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-独立路线的判断逻辑:**主流联盟覆盖什么 + 未覆盖什么**。Progmat = 信託型 + 日本 3 大行 + B2B 大口结算,**未覆盖 = 跨境合规通道**(Project Pax 解决 SWIFT 兼容性,不解决 §501)。北尾判断:日本 SC 价值核心是跨境合规,不是国内 B2B → 拒绝 Progmat → 抢与 Circle 合资 → USDC 日本独家分销锁定跨境通道。
+独立路线的判断逻辑:**主流联盟覆盖什么 + 未覆盖什么**。[[JapanFG/progmat|Progmat]] = 信託型 + 日本 3 大行 + B2B 大口结算,**未覆盖 = 跨境合规通道**(Project Pax 解决 SWIFT 兼容性,不解决 [[fintech/genius-act-501-denylist-mandate|§501 denylist]])。北尾判断:日本 SC 价值核心是跨境合规,不是国内 B2B → 拒绝 Progmat → 抢与 Circle 合资 → USDC 日本独家分销锁定跨境通道(对照 [[JapanFG/sbi-hd|SBI HD]] 战略上的多边布局)。
 
 诊断模板:当某行业出现"主流联盟"时,识别独立路线机会 = **1) 联盟 explicit 覆盖的价值轴**(B2B 国内);**2) 联盟 implicit 未覆盖的价值轴**(跨境 / 零售 / 灰色);**3) 该未覆盖轴是否长期价值更大**(取决于全球监管演化方向)。三联判断对 = 独立路线 5-10 年后反超联盟。北尾案例是 2025-2026 最干净标本,因为他**公开发声拒绝**而非沉默旁观 → 独立路线动机可考。
 

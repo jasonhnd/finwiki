@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 2. Business role
 
 - 個人投資家向け FX / derivatives services を中心に展開する。
-- retail FX market map では GMOクリック証券、DMM.com証券、SBI FXトレード、サクソバンク証券と比較対象になる。
+- retail FX market map では [[JapanFG/gmo-click-securities|GMOクリック証券]]、[[JapanFG/dmm-com-securities|DMM.com 証券]]、[[JapanFG/sbi-fx-trade|SBI FXトレード]]、[[JapanFG/saxo-bank-securities|サクソバンク証券]]と比較対象になる。
 - 上場持株会社の収益源として FX / financial derivatives の cyclicality を見る必要がある。
 
 ## 3. Why standalone page matters

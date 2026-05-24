@@ -66,7 +66,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## 5. 市占・取引高
 
 - 取引高・口座数：公表なし
-- 旧 c0ban 取引所は c0ban（RYO）と円の売買に特化した国内ニッチプレイヤーであり、市場シェアは主要各社（bitFlyer・コインチェック・GMOコイン等）と比較して小規模と推定される
+- 旧 c0ban 取引所は c0ban（RYO）と円の売買に特化した国内ニッチプレイヤーであり、市場シェアは主要各社（[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|コインチェック]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]等）と比較して小規模と推定される。Gate Group の日本再参入パターンは [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]] および [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]] 参照
 - Gate グループ全体ではグローバル管理資産 100億 USD 規模・登録ユーザー 3,400万人と公称（Gate Japan 個社の数字ではない）
 - 顧客層：retail 向けおよびOTC経由の法人・機関を想定
 

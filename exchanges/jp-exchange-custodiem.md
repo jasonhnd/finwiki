@@ -91,8 +91,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## 7. 戦略動向
 
 - **コア事業転換（2024-2025）**: 暗号資産交換業（retail ブローカー）から**クリプトカストディ（機関投資家向け暗号資産預託）**へのピボット
-- **bitFlyer グループ内役割分担**: bitFlyer = 販売所・取引所、Custodiem = カストディ + 将来の ETF 関連サービス
-- **暗号資産現物 ETF 準備**: 日本国内の法制度整備を条件に、現物 ETF 関連サービスの提供を計画（法制整備時期は不確定）
+- **[[exchanges/jp-exchange-bitflyer|bitFlyer]] グループ内役割分担**: bitFlyer = 販売所・取引所、Custodiem = カストディ + 将来の ETF 関連サービス（FTX Japan からの顧客資産返還経緯は [[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% 返還ケーススタディ]] 参照）
+- **暗号資産現物 ETF 準備**: 日本国内の法制度整備を条件に、現物 ETF 関連サービスの提供を計画（法制整備時期は不確定、市場影響は [[exchanges/btc-spot-etf-japan-impact|BTC spot ETF 日本 impact]] および [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] 参照）
 - **bitFlyer への口座移管**: 既存 Custodiem 口座顧客の同意ベース移管を継続推進中
 - **自己資本規制比率**: 2026年3月31日付で開示（詳細数値は PDF 参照）
 

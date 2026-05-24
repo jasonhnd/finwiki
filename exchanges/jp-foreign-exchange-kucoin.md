@@ -85,7 +85,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 7. 戦略動向
 
-- 2025年4月、タイ SEC 監督下の ERX Company Ltd. とパートナーシップを締結し「KuCoin Thailand」を開設（2025-04-22 開始）。東南アジアの規制内市場へのアクセスを確保する動き。
+- 2025年4月、タイ SEC 監督下の ERX Company Ltd. とパートナーシップを締結し「KuCoin Thailand」を開設（2025-04-22 開始）。東南アジアの規制内市場へのアクセスを確保する動き。FSA 警告同日付の対比は [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]] にあり、警告制度の全体像は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]] 参照。
 - グローバルのコンプライアンス体制強化を標榜し、DOJ 和解後の再建を推進中とされる（具体的内容は公式 PR 以外は未確認）。
 - KCC（KuCoin Community Chain）を通じた DeFi エコシステムへの注力を継続。
 

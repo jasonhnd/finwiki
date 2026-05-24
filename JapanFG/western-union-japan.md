@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - Provides international remittance for migrant, travel, and cross-border household flows.
 - Differs from app-first fintechs because agent / cash-pickup infrastructure is central.
-- A comparator against SBI Remit, Travelex, Wise, and PayPal.
+- A comparator against [[JapanFG/sbi-remit|SBI Remit]], [[JapanFG/travelex-japan|Travelex]], [[JapanFG/wise-payments-japan|Wise]], and [[JapanFG/paypal-pte-ltd-japan|PayPal]].
 
 ## 3. Why this standalone page matters
 

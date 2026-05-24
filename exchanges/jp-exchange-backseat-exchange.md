@@ -72,7 +72,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 月次・年次の取引高、口座数は **公表なし**。
 - JVCEA 33 社中で第一種会員 #1031（会員番号順で後発から 3 番目）。FSA 登録番号 第00026号 は 2021年登録の後発組。
-- 取引所で表示される銘柄が ADA・NIDT の 2 ペアにとどまること、ステーキング・外部入出庫の停止通知（2026年2月）などから、**ニッチ / 機関向け寄りのポジション**と推定されるが、定量的根拠は公表なし。
+- 取引所で表示される銘柄が ADA・NIDT の 2 ペアにとどまること、ステーキング・外部入出庫の停止通知（2026年2月）などから、**ニッチ / 機関向け寄りのポジション**と推定されるが、定量的根拠は公表なし。主流の銘柄数比較は [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] / [[exchanges/jp-exchange-gmo-coin|GMOコイン]] 参照（IEO 制度全般は [[exchanges/jp-ieo-system-and-cases|JP IEO 制度・事例]]）。
 - 顧客層：個人・法人双方を対象とコーポレートサイトで明示。機関向け OTC も提供。
 
 ## 6. 沿革・重大事件

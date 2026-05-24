@@ -39,7 +39,7 @@ Kyashは wallet, prepaid Visa, funds transfer を組み合わせる independent 
 
 - Bridges app-based money movement and Visa card acceptance.
 - Serves as a startup-style alternative to bank, telecom, and retail payment groups.
-- The shareholder mix links venture capital and financial institutions, making it useful for fintech ecosystem mapping.
+- The shareholder mix links venture capital and financial institutions, making it useful for fintech ecosystem mapping alongside peers like [[JapanFG/smartbank|SmartBank]], [[JapanFG/pring|pring]], and major wallets such as [[JapanFG/paypay|PayPay]].
 
 ## 3. Why this standalone page matters
 

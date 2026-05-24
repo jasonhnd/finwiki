@@ -42,7 +42,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **代表者**: 関根義光（せきねもん）— 日本人実業家
 - **親会社・上場**: 非上場。BLITZ GROUP の一事業体（関根氏が CEO）
 
-**異色性**：海外無登録警告対象となった暗号資産取引所の中で、代表者が日本人であることが FSA 警告書に明記されている事例は bitcastle LLC が特異。通常の警告対象（KuCoin、Bybit、MEXC 等）は外国企業・外国人経営であり、日本人代表の法人が無登録で日本居住者向けに営業したとして警告を受けるパターンは珍しい。
+**異色性**：海外無登録警告対象となった暗号資産取引所の中で、代表者が日本人であることが FSA 警告書に明記されている事例は bitcastle LLC が特異。通常の警告対象（[[exchanges/jp-foreign-exchange-kucoin|KuCoin]]、[[exchanges/jp-foreign-exchange-bybit|Bybit]]、[[exchanges/jp-foreign-exchange-mexc|MEXC]] 等）は外国企業・外国人経営であり、日本人代表の法人が無登録で日本居住者向けに営業したとして警告を受けるパターンは珍しい（制度詳細は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]]）。
 
 ## 2. 牌照・登録状況
 

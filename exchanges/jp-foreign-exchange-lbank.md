@@ -76,7 +76,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **登録ユーザー数**: 2,000 万人以上（同社公式サイト公表）
 - **カバー国・地域**: 210 以上の国・地域
 - **顧客層**: 主にリテール個人投資家。新興国・アルトコイン投資家層への訴求が強い
-- **競合内ポジション**: グローバル CEX の中では中堅。大手（Binance・OKX・Bybit 等）には及ばないが、小型アルトコインの流動性供給において一定のニッチを確立。取引高・ユーザー数の公表数値は同社の自己申告であり第三者検証済みの数字ではない（confidence: possible）
+- **競合内ポジション**: グローバル CEX の中では中堅。大手（Binance・OKX・[[exchanges/jp-foreign-exchange-bybit|Bybit]] 等）には及ばないが、小型アルトコインの流動性供給において一定のニッチを確立。取引高・ユーザー数の公表数値は同社の自己申告であり第三者検証済みの数字ではない（confidence: possible）。FSA 警告対象としては [[exchanges/jp-foreign-exchange-mexc|MEXC]]・[[exchanges/jp-foreign-exchange-bitget|Bitget]]・[[exchanges/jp-foreign-exchange-kucoin|KuCoin]] と同類（制度詳細は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]]）。
 
 ## 6. 沿革・重大事件
 

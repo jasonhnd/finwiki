@@ -78,7 +78,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **ユーザー数**: 2025 年 1 月時点で同社は「グローバルの総ユーザー数で業界第 2 位のエコシステム」と発表（同社プレスリリース、具体的数値は公表なし）。別途「100 カ国以上で 800 万人超」という言及も複数二次報道に確認
 - **BGB トークン**: 2024 年末までに価格が約 8 ドルまで上昇し、年間騰落率 1,000%+ と報告（同社プレスリリース 2025-01-23）
 - **顧客層**: リテール（特に初中級者向けコピートレード）、一部機関投資家・VIP 向けサービスも展開
-- **競合内ポジション**: デリバティブ取引高ではバイナンス・OKX に次ぐ tier2 上位グループに位置。コピートレード機能の規模では業界最大規模と自称
+- **競合内ポジション**: デリバティブ取引高ではバイナンス・OKX に次ぐ tier2 上位グループに位置。コピートレード機能の規模では業界最大規模と自称。同様に FSA 警告を受けた海外無登録取引所には [[exchanges/jp-foreign-exchange-bybit|Bybit]]、[[exchanges/jp-foreign-exchange-mexc|MEXC]]、[[exchanges/jp-foreign-exchange-kucoin|KuCoin]] があり、ネイティブトークン戦略比較は [[exchanges/cex-native-token-strategy-comparison|CEX ネイティブトークン戦略比較]] 参照。
 
 ## 6. 沿革・重大事件
 

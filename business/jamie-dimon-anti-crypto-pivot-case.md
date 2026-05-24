@@ -30,7 +30,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-被动转向三压共振机制:**1) 监管压力**(GENIUS Act 2025-07 通过 → 银行体系若不跟上,代币化存款市场被 USDC / USDT 抢占);**2) 客户压力**(机构客户主动要求链上结算 + 持有 BUIDL 等代币化资产);**3) 竞争压力**(BlackRock Fink 2022 战略合作 Coinbase → 资管巨头先动,银行不动会被边缘化)。三压齐到 = CEO 个人立场必须转 → JPMD on Base 上线 = JPM 主动让步进加密原生生态。
+被动转向三压共振机制:**1) 监管压力**([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist 强制]] 2025-07 通过 → 银行体系若不跟上,代币化存款市场被 USDC / USDT 抢占);**2) 客户压力**(机构客户主动要求链上结算 + 持有 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等代币化资产);**3) 竞争压力**([[business/larry-fink-blackrock-digital-asset-template|BlackRock Fink]] 2022 战略合作 Coinbase → 资管巨头先动,银行不动会被边缘化)。三压齐到 = CEO 个人立场必须转 → JPMD on Base 上线 = JPM 主动让步进加密原生生态。
 
 诊断模板:识别"下一个被动转向"= 找出长期反加密但已开始软化(承认稳定币 / 代币化的具体用例)的 Tier-1 银行 CEO → 监控其内部代币化产品时间表 → 6-12 个月内会有公链产品上线公告。Dimon 案例:2024-Q2 软化 → 2024-11 改名 → 2025-Q4 公链产品 → 18 个月完整转向。决策稳定性弱于 Fink(主动信仰者),因 Dimon 是被动适应 → 后 Dimon 时代加密路径可能再次漂移。
 

@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - Competes on transparent FX, cross-border account rails, and business remittance.
 - Type 1 approval removes the older one-million-yen transaction ceiling for eligible flows, making it strategically different from smaller Type 2-only operators.
-- A comparator against Revolut, PayPal, Payoneer, SBI Remit, and Western Union.
+- A comparator against [[JapanFG/revolut-technologies-japan|Revolut]], [[JapanFG/paypal-pte-ltd-japan|PayPal]], [[JapanFG/payoneer-japan|Payoneer]], [[JapanFG/sbi-remit|SBI Remit]], and [[JapanFG/western-union-japan|Western Union]].
 
 ## 3. Why this standalone page matters
 

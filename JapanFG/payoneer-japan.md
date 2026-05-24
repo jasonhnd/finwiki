@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 2. Business role
 
 - Serves global marketplace sellers, freelancers, contractors, and SMEs receiving foreign platform income.
-- Competes with Wise, PayPal, Airwallex, and bank wire services.
+- Competes with [[JapanFG/wise-payments-japan|Wise]], [[JapanFG/paypal-pte-ltd-japan|PayPal]], [[JapanFG/airwallex-japan|Airwallex]], and bank wire services.
 - Important for Japan outbound / inbound digital-commerce payment flows.
 
 ## 3. Why this standalone page matters

@@ -30,7 +30,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-三身份不是 conflict of interest 的累加,而是相互"反向解锁"。**VC 身份**让 CEO 在被投公司无需短期估值套现 → 可承诺"5-10 年不发币";**大客户 Board 身份**让被投公司可以提前对接合规通道 + 推动产品集成(如 Tempo + Stripe Connect)→ 监管对手无法用"独立小公司"理由施压;**CEO 身份**让前两栏的资源不被中间层稀释。任意单一身份持有人都做不到:纯 VC 不进产品、纯 Director 不主导链路、纯 CEO 没有大客户内线。三栏组合 = 单人形成战略锁。
+三身份不是 conflict of interest 的累加,而是相互"反向解锁"。**VC 身份**让 CEO 在被投公司无需短期估值套现 → 可承诺"5-10 年不发币"(参考 [[business/larry-fink-blackrock-digital-asset-template|Larry Fink 三角影响力]] 模板);**大客户 Board 身份**让被投公司可以提前对接合规通道 + 推动产品集成(如 Tempo + Stripe Connect)→ 监管对手无法用"独立小公司"理由施压;**CEO 身份**让前两栏的资源不被中间层稀释(对比 [[business/christine-moy-talent-signal-jpm-apollo|人才流向信号]] 的解读)。任意单一身份持有人都做不到:纯 VC 不进产品、纯 Director 不主导链路、纯 CEO 没有大客户内线。三栏组合 = 单人形成战略锁。
 
 诊断模板:当某 crypto 项目 CEO 同时是 top-tier crypto VC 的 partner 和某传统金融大客户的 director,**不要把这视为 COI risk,而要视为该公司不发币 / 慢上市 / 不抢估值的真正解释**。
 

@@ -85,7 +85,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## 5. 市占・取引高
 
 - **口座数・取引高**: 公表なし（開示情報に数値記載なし）
-- **市場内ポジション**: 銘柄数の豊富さを主な差別化軸とする中堅取引所。JVCEA Type 1 会員26社のうち、暗号資産交換業とデリバティブ取引の双方を保有するのは13社に限られ、同社はその一つ。
+- **市場内ポジション**: 銘柄数の豊富さを主な差別化軸とする中堅取引所。JVCEA Type 1 会員26社のうち、暗号資産交換業とデリバティブ取引の双方を保有するのは13社に限られ、同社はその一つ（詳細は [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制体系]] / [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]] 参照）。アルトコイン軸の競合は [[exchanges/jp-exchange-bitbank|bitbank]]、フルレンジ業界比較は [[exchanges/jp-exchange-binance-japan|Binance Japan]] が参考になる。
 - **顧客層**: 主に個人リテール。法人向けサービスも展開。
 
 ## 6. 沿革・重大事件

@@ -99,7 +99,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 7. 戦略動向
 
-- **日本市場からの撤退（2026-Q1）**: FSA 警告3回を経て、日本居住者向けサービスを2026年3月末に完全終了。Binance が2022年に日本法人（Sakura Exchange BitCoin、現 Binance Japan）を設立し登録を取得したのとは対照的に、Bybit は日本市場への規制適合アプローチを採らず、スポットの切り離しを選択した。
+- **日本市場からの撤退（2026-Q1）**: FSA 警告3回を経て、日本居住者向けサービスを2026年3月末に完全終了。[[exchanges/jp-exchange-binance-japan|Binance]] が2022年に日本法人（Sakura Exchange BitCoin、現 Binance Japan）を設立し登録を取得したのとは対照的に、Bybit は日本市場への規制適合アプローチを採らず、スポットの切り離しを選択した（背景は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]] と [[exchanges/uae-vara-licensing-overview|UAE VARA ライセンス]] が補完情報）。
 - **UAE・グローバル主要市場への注力**: ドバイを本拠として機関投資家向けサービス・デリバティブの拡大を継続。
 - **2025年ハック後の信頼回復**: 約1.5億ドルの被害に対し短期間での準備金回復を実現。透明性向上を目的とした POA（Proof of Assets）開示の強化を発表。
 - **インド市場への再参入**: 2025年2月に FIU-IND 登録・罰則金支払いを完了し、規制下での合法運営に転換。インド暗号資産市場における正規プレイヤーとしての地位確立を目指す。

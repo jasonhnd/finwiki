@@ -44,7 +44,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 3. Why standalone page matters
 
-RCC は「銀行」カテゴリに載るが、預金獲得や一般貸出を競う銀行ではない。金融システム安定、預金保険、破綻処理、反社等債権回収、地域金融再生の analysis node として、通常銀行ページとは別の説明が必要。
+RCC は「銀行」カテゴリに載るが、預金獲得や一般貸出を競う銀行ではない。金融システム安定、預金保険、破綻処理、反社等債権回収、地域金融再生の analysis node として、通常銀行ページとは別の説明が必要。Peer policy-finance vehicles include [[JapanFG/jbic|JBIC]] と [[JapanFG/dbj|DBJ]]、related institutional context は [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] と [[banking/INDEX|banking index]] を参照。
 
 ## Related
 

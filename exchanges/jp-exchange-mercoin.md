@@ -72,7 +72,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **2024-05**：直近1年間の暗号資産口座開設数が業界 No.1 と同社が公表（MMD研究所調査）
 - 月間取引高・預かり資産残高等の詳細数字：公表なし
 - **顧客層**：メルカリ既存ユーザー（スマホ利用者）を主軸とした個人 retail。1 円からの少額購入設計
-- **競合内ポジション**：口座開設数では industry top クラスと公称。ただしトレーダー向け機能は限定的で、本格的な売買プラットフォームとしては大手専業取引所（bitFlyer / bitbank 等）と異なるセグメントを主戦場とする
+- **競合内ポジション**：口座開設数では industry top クラスと公称。ただしトレーダー向け機能は限定的で、本格的な売買プラットフォームとしては大手専業取引所（[[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-bitbank|bitbank]] 等）と異なるセグメントを主戦場とする。リテール経済圏連携は [[exchanges/jp-exchange-rakuten-wallet|楽天ウォレット]] と並んで [[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] パターンを成す。
 
 ## 6. 沿革・重大事件
 

@@ -97,7 +97,7 @@ BTC · ETH · XRP · LTC · BCH · XLM · MATIC · LINK · MKR · AVAX · CHZ ·
 
 **不正流出事件（2024-05-31）詳細**：
 
-流出額は約 482 億円相当（流出発生当時のレート換算）。流出した BTC 数量は約 4,502.9 BTC（複数報道に基づく — 同社一次プレスリリースは現在アクセス不可）。同社は事態収拾のため 550 億円規模の資金調達を発表し BTC の市場買い戻しを実施したが、事業継続断念に至った。
+流出額は約 482 億円相当（流出発生当時のレート換算）。流出した BTC 数量は約 4,502.9 BTC（複数報道に基づく — 同社一次プレスリリースは現在アクセス不可）。同社は事態収拾のため 550 億円規模の資金調達を発表し BTC の市場買い戻しを実施したが、事業継続断念に至った（詳細は [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus ハック詳細分析]] と [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]] 参照、姉妹案件として [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック]] と [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 流出]] が比較可能）。
 
 日本警察庁・金融庁・米国 FBI は 2024-12-24 付で「Trader Traitor（北朝鮮 Lazarus Group）」による攻撃と特定・注意喚起を公表した（FSA ページ上の「令和6年12月24日『北朝鮮を背景とするサイバー攻撃グループTrader Traitorによるサイバー攻撃について（注意喚起）』の公表について」に記録）。
 

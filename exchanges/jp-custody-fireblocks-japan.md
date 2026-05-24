@@ -88,8 +88,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ### 日本国内競合・住み分け
 
-**vs. Ginco（国内独立系）**:
-- Ginco は「日本国内シェア No.1 暗号資産ビジネス向けウォレット」を掲げ、国内 VASP・金融機関の MPC ウォレット需要を獲得。日本語サポート・FSA 規制対応ノウハウ・国産 HSM 連携が強み
+**vs. [[exchanges/jp-custody-ginco|Ginco]]（国内独立系）**:
+- Ginco は「日本国内シェア No.1 暗号資産ビジネス向けウォレット」を掲げ、国内 VASP・金融機関の MPC ウォレット需要を獲得。日本語サポート・FSA 規制対応ノウハウ・国産 HSM 連携が強み（業界配置は [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] 参照）
 - Fireblocks は同一領域で競合するが、グローバルネットワーク（Fireblocks Network）・豊富な DeFi 統合・policy engine の完成度で差別化。大手メガバンク・外資系機関の選定実績を積む
 - 実際に STIR（国内 Web3 コンサル）が Fireblocks を用いた CoinTrade 向けステーキングシステム構築支援を担い（2024-02）、国内ベンダー経由での採用も進む
 

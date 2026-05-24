@@ -16,6 +16,10 @@ sources:
 
 # 韓国産業銀行 東京支店
 
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/woori-bank-japan|Woori Bank Tokyo]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+
 ## TL;DR
 
 韓国産業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Korea Development Bank の在日銀行支店。Korean policy-bank / development-bank corridor として、project finance, shipping / aircraft finance, syndicated loans, trade finance, and cross-border corporate finance を扱う。

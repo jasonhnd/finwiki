@@ -42,7 +42,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 Intesa Sanpaolo's official newsroom describes its Tokyo corporate branch as using specialist expertise to support Italian and international customers doing business in Japan, and to help Japanese businesses expand abroad. The same article notes presence in Tokyo since 1972 through Intesa Sanpaolo and predecessors.
 
-The branch is best understood as a corporate / trade / project-finance and Italian-business bridge rather than a domestic retail bank. Public cases such as financing for Italian businesses in Japan illustrate the branch's role in the bilateral corporate corridor.
+The branch is best understood as a corporate / trade / project-finance and Italian-business bridge rather than a domestic retail bank. Public cases such as financing for Italian businesses in Japan illustrate the branch's role in the bilateral corporate corridor. The Italian P0 branch slot in [[JapanFG/INDEX|JapanFG]] sits alongside French peers like [[JapanFG/credit-agricole-bank-japan|Crédit Agricole Tokyo]] and German [[JapanFG/commerzbank-japan|Commerzbank Tokyo]] in [[banking/INDEX|banking]] coverage.
 
 ## 3. Why this page matters
 

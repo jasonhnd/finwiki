@@ -38,7 +38,7 @@ UCSは credit card、majica electronic money、insurance agency などを扱う 
 
 - Converts retail-store frequency into card usage and majica stored-value / loyalty activity.
 - Sits between card issuer, electronic money, and retail data platform.
-- Useful for comparing AEON, Seven, FamilyMart, and PPIH retail finance models.
+- Useful for comparing [[JapanFG/aeon-financial-service|AEON]], [[JapanFG/seven-card-service|Seven]], and PPIH retail finance models alongside [[JapanFG/epos-card|EPOS]] for retail-origin issuer peers.
 
 ## 3. Why this standalone page matters
 

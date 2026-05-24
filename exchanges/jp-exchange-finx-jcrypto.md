@@ -52,7 +52,7 @@ The public company-facing surface is narrower than many retail exchanges. The of
 ## 4. 戦略動向
 
 - **Real-estate adjacency**: Public materials position the company near real-estate value creation and crypto-asset settlement.
-- **Long-tail VASP**: It is a registered operator, but not one of the major consumer-facing exchange brands such as bitFlyer, Coincheck, GMO Coin, or SBI VC Trade.
+- **Long-tail VASP**: It is a registered operator, but not one of the major consumer-facing exchange brands such as [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]], or [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]. Real-estate × token adjacency belongs in the [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX 統合]] discussion.
 - **Registry completeness**: The main reason to include this page is to avoid gaps against the FSA registered-operator list.
 
 ## Counterpoints

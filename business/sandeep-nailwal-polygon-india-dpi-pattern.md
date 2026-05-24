@@ -30,7 +30,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-国家级抱团的"反对手"机制:**1) 监管栏**(ARC 是政府许可,与 RBI LRS 兼容,仅企业账户可铸造)→ 抵御美国 GENIUS Act 跨境压力;**2) 大企业栏**(Reliance Jio 独家合作)→ 提供 4.5 亿用户底盘,其他链(Ethereum / Solana / TON)无法企及;**3) 主权叙事栏**(反"事实美元化",代表 G20 新兴市场对美元稳定币的反制立场)→ 把项目命运绑在国家利益,获得长期政治保护。
+国家级抱团的"反对手"机制:**1) 监管栏**(ARC 是政府许可,与 RBI LRS 兼容,仅企业账户可铸造)→ 抵御美国 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]] 跨境压力;**2) 大企业栏**(Reliance Jio 独家合作)→ 提供 4.5 亿用户底盘,其他链(Ethereum / Solana / TON)无法企及;**3) 主权叙事栏**(反"事实美元化",代表 G20 新兴市场对美元稳定币的反制立场,参见 [[fintech/india-anti-dollar-dpi-alliance|印度反美元 DPI 联盟]])→ 把项目命运绑在国家利益,获得长期政治保护(与 [[business/paolo-ardoino-tether-business-model-template|Tether 反向模板]] 形成镜像)。
 
 诊断模板:当某 L1 / L2 链方在"全球市场失意"(无 Tier-1 美国机构客户),开始 pivot 到"国家级抱团"路径时,**监控指标 = 该国监管机构的 explicit endorsement + 国家级大企业独家合作 + 主权叙事在 G20 / BIS 场合发声**。三栏齐到 = pivot 成功(Polygon 案例);仅一栏 = 短期回光返照。
 

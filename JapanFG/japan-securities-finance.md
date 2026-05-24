@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 Japan Securities Finance is Japan's listed securities-finance company and a key wholesale layer behind margin trading, stock lending, and securities financing. Official company materials define its business as securities finance under the Financial Instruments and Exchange Act, including loan transactions, securities finance, and securities investment operations.
 
-For FinWiki, JSF links retail margin trading, institutional stock lending, broker funding, and PTS / exchange settlement plumbing.
+For FinWiki, JSF links retail margin trading, institutional stock lending, broker funding, and PTS / exchange settlement plumbing on the [[securities/INDEX|securities]] side, with peers like [[JapanFG/matsui-sec|松井証券]] and infrastructure adjacency to [[securities/japan-securities-clearing-corp|JSCC]] central clearing.
 
 ## 1. 公司结构
 

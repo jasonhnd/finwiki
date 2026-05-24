@@ -73,7 +73,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - 2025年12月期 売上高: 135億6700万円、営業利益: 42億5700万円（株式会社bitFlyer 第12期決算公告・2025-05-23付官報）
 - 2020年3月時点 日米欧累計顧客数250万人突破（公式発表、仮想通貨Watch）
 - 口座数・直近取引量の公開データは非確認（公表なし扱い）
-- **競合ポジション**：国内 top 3 圏内（取引高・口座数ともに 2016年以降継続的上位、FSA 登録番号が 第00003号と早期取得の経緯）
+- **競合ポジション**：国内 top 3 圏内で、主要競合は [[exchanges/jp-exchange-coincheck|Coincheck]]、[[exchanges/jp-exchange-gmo-coin|GMOコイン]]、[[exchanges/jp-exchange-bitbank|bitbank]] など（取引高・口座数ともに 2016年以降継続的上位、FSA 登録番号が 第00003号と早期取得の経緯）。JVCEA 自主規制および会員制度については [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制体系]] 参照。
 
 ## 6. 沿革・重大事件
 

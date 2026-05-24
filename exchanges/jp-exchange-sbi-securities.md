@@ -104,7 +104,7 @@ SBI証券は証券・FX・商品先物を主軸とし、暗号資産自体の現
 
 **顧客層**：個人リテール中心。証券会社の顧客基盤を生かし、証券口座から暗号資産 CFD へのクロスセルが想定される構造。法人サービスも提供。
 
-**競合内ポジション**：暗号資産デリバティブ専業の観点では、マネックス証券（JVCEA #1024）・SBI FXトレード（JVCEA #1026）・GMO コイン（JVCEA #1006）などと並ぶ第一種会員 13 社の一角。ただし SBI 証券の本業は証券であり、暗号資産デリバはニッチな付帯事業の位置付け。
+**競合内ポジション**：暗号資産デリバティブ専業の観点では、[[exchanges/jp-exchange-monex|マネックス証券]]（JVCEA #1024）・[[exchanges/jp-exchange-bi-fxtrade|SBI FXトレード]]（JVCEA #1026）・[[exchanges/jp-exchange-gmo-coin|GMO コイン]]（JVCEA #1006）などと並ぶ第一種会員 13 社の一角（背景は [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]] 参照）。ただし SBI 証券の本業は証券であり、暗号資産デリバはニッチな付帯事業の位置付け。
 
 ## 6. 沿革・重大事件
 

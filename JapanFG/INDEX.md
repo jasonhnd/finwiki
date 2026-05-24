@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**483 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
+日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**525 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
 
 ## 命名与位置 convention
 
@@ -786,6 +786,73 @@ sources:
 | ✅ likely | [[diners-club-japan]] | Diners Club Japan (Sumitomo Mitsui Trust Club 経由) | Diners (Discover 系) 3-party ブランド |
 | ✅ likely | [[unionpay-international-japan]] | UnionPay International Japan | UnionPay (中国銀聯) Japan ブランドライセンス |
 
+## P50 海外 reinsurer + marine mutual / P&I anchors Batch I1 (8 entries) ✅ 完了
+
+| Status | Slug | Name | 役割 |
+|---|---|---|---|
+| ✅ likely | [[munich-re-japan]] | Munich Re Japan branch | Top global reinsurer JP branch |
+| ✅ likely | [[swiss-re-japan]] | Swiss Re Japan branch | Top global reinsurer JP branch |
+| ✅ likely | [[hannover-re-japan]] | Hannover Re Japan branch | Top-tier non-life reinsurer JP |
+| ✅ likely | [[scor-japan]] | SCOR Japan branch | European reinsurer JP |
+| ✅ likely | [[rga-japan]] | RGA Japan | Life reinsurance specialist (under FSA 生命 license) |
+| ✅ likely | [[gen-re-japan]] | Gen Re Japan | Berkshire Hathaway global non-life subsidiary |
+| ✅ likely | [[japan-pi-club]] | 日本船主責任相互保険組合 (Japan P&I Club) | 船主相互保険組合法基づく marine mutual · IG P&I member |
+| ✅ likely | [[nippon-kaiji-kyokai]] | 日本海事協会 (ClassNK) | 一般財団法人 ship classification adjacent (insurance-adjacent infra) |
+
+## P51 商社系 finance arms Batch C1 (9 entries) ✅ 完了
+
+| Status | Slug | Name | Parent group |
+|---|---|---|---|
+| ✅ tentative | [[mitsubishi-corp-finance]] | 三菱商事フィナンシャルサービス | 三菱商事 |
+| ✅ tentative | [[mitsubishi-corp-asset-management]] | 三菱商事系 asset management | 三菱商事 |
+| ✅ tentative | [[mitsui-bussan-financial-services]] | 三井物産フィナンシャルサービス | 三井物産 |
+| ✅ tentative | [[itochu-finance]] | 伊藤忠商事フィナンシャル | 伊藤忠 |
+| ✅ tentative | [[marubeni-financial-services]] | 丸紅フィナンシャルサービス | 丸紅 |
+| ✅ tentative | [[sumitomo-corp-financial-management]] | 住友商事系 finance | 住友商事 |
+| ✅ tentative | [[toyota-tsusho-finance]] | 豊田通商系 finance | 豊田通商 |
+| ✅ tentative | [[sojitz-finance]] | 双日系 finance | 双日 |
+| ✅ likely | [[sumitomo-mitsui-auto-service]] | 住友三井オートサービス (SMAS) | SMFG + 住友商事 50/50 JV (auto fleet leasing top-2) |
+
+## P52 業界団体 / SRO / 統制機構 Batch SR1 (9 entries) ✅ 完了
+
+| Status | Slug | Name | 役割 |
+|---|---|---|---|
+| ✅ likely | [[zenginkyo]] | 全国銀行協会 (Zenginkyō) | 銀行業 SRO · Zengin / Cotra 関連 |
+| ✅ likely | [[zenchugin-kyo]] | 全国地方銀行協会 (第一地銀協) | 地銀業 SRO |
+| ✅ likely | [[dai2-chigin-kyo]] | 第二地方銀行協会 | 第二地銀業 SRO |
+| ✅ likely | [[zenshin-kyo]] | 全国信用金庫協会 | 信用金庫業 SRO |
+| ✅ likely | [[shintaku-kyokai]] | 信託協会 | 信託業 SRO |
+| ✅ likely | [[seiho-kyokai]] | 生命保険協会 | 生保業 SRO |
+| ✅ likely | [[sonpo-kyokai]] | 日本損害保険協会 | 損保業 SRO |
+| ✅ likely | [[yokin-hoken-kiko]] | 預金保険機構 (DICJ) | 預金保険 + 破綻処理 statutory corporation |
+| ✅ likely | [[hokenryo-sanshutsu-kiko]] | 損害保険料率算出機構 | 自動車 / 火災 / 地震 料率算出 statutory |
+
+## P53 中堅証券 + 残存 asset-management Batch C2 (8 entries) ✅ 完了
+
+| Status | Slug | Name | Class |
+|---|---|---|---|
+| ✅ likely | [[marusan-securities]] | 丸三証券 (8613, 東証 PRIME) | 中堅独立証券 (1910 創業) |
+| ✅ likely | [[tachibana-securities]] | 立花証券 | 中堅証券 (信用取引特化) |
+| ✅ likely | [[kyokuto-securities]] | 極東証券 (8706, 東証 STD) | 中堅証券 (外債仲介) |
+| ✅ likely | [[imamura-securities]] | 今村証券 (7175, 東証 STD) | 北陸金沢地域中堅証券 |
+| ✅ likely | [[smt-am]] | 三井住友トラスト・アセットマネジメント | 信託系 AM (SuMi TRUST 100%) |
+| ✅ likely | [[tokio-marine-asset-management]] | 東京海上アセットマネジメント | 損保系 AM |
+| ✅ likely | [[nissay-asset-management]] | ニッセイ・アセットマネジメント | 生保系 AM (国内最大級) |
+| ✅ likely | [[t-and-d-asset-management]] | T&D アセットマネジメント | 中堅生保 FG 系 AM |
+
+## P54 Regional FG subsidiary + 旧称 disambiguation Batch R2 (8 entries) ✅ 完了
+
+| Status | Slug | Name | Group / Note |
+|---|---|---|---|
+| ✅ likely | [[san-jusan-bank]] | 三十三銀行 | [[san-jusan-fg]] 傘下 operating bank |
+| ✅ likely | [[chukyo-bank]] | 中京銀行 (旧称) | 2025-01 → [[aichi-bank]] 統合 · historical disambiguation |
+| ✅ likely | [[mebuki-securities]] | めぶき証券 | [[mebuki-fg]] 証券子会社 (旧 常陽証券) |
+| ✅ likely | [[mebuki-lease]] | めぶきリース | [[mebuki-fg]] リース子会社 |
+| ✅ likely | [[ffg-securities]] | FFG 証券 | [[fukuoka-fg]] 証券子会社 |
+| ✅ likely | [[ibank-marketing]] | iBank マーケティング | [[fukuoka-fg]] fintech 子会社 (Wallet+ 運営) |
+| ✅ likely | [[yokohama-bank-leasing]] | 横浜銀リース | [[concordia-fg]] リース子会社 |
+| ✅ likely | [[hamagin-research]] | はまぎん総合研究所 | [[concordia-fg]] think-tank |
+
 ## P3 graph-repair pages (21) ✅ resolved
 
 | Status | Slug | Name / target |
@@ -905,11 +972,16 @@ sources:
 - **Phase 74 (大手 leasing Batch L1)** — 2026-05-24 — [[ricoh-leasing]] / [[ja-mitsui-leasing]] / [[showa-leasing]] / [[nec-leasing]] / [[kanematsu-leasing]] / [[hokkaido-lease]] created; [[ibj-leasing]] / [[hitachi-capital]] historical disambiguation anchors added; leasing operating-company surface expanded beyond [[fuyo-lease]] / [[mizuho-lease]] / [[ntt-tc-lease]] / [[tokyo-century]] / [[mitsubishi-hc-capital]] / [[smfl]] ✅
 - **Phase 75 (BoJ + FSA internal-bureau Batch R1)** — 2026-05-24 — [[boj-financial-markets-dept]] / [[boj-financial-system-dept]] / [[boj-payment-settlement-dept]] / [[boj-international-dept]] / [[fsa-supervision-bureau]] / [[fsa-inspection-bureau]] (historical) / [[fsa-strategy-bureau]] / [[fsa-planning-coordination-bureau]] created; central-bank + regulator 内部局 anchor surface opened beside [[boj-monetary-policy]] ✅
 - **Phase 76 (JCB / 国際カードブランド Batch CB1)** — 2026-05-24 — [[jcb-international]] / [[mastercard-japan]] / [[visa-worldwide-japan]] / [[american-express-international-japan]] / [[diners-club-japan]] / [[unionpay-international-japan]] created; international card-brand operating-company surface opened beside [[jcb]] / [[smbc-card]] / [[mufg-nicos]] ✅
-- **Phase 77 (next precision batch)** — 待定 — entity-level KPI deepening, foreign reinsurer / P&I carrier map, additional shinkin / leasing batches, or non-life insurer registry index expansion
+- **Phase 77 (海外 reinsurer + P&I Batch I1)** — 2026-05-24 — [[munich-re-japan]] / [[swiss-re-japan]] / [[hannover-re-japan]] / [[scor-japan]] / [[rga-japan]] / [[gen-re-japan]] / [[japan-pi-club]] / [[nippon-kaiji-kyokai]] created; foreign reinsurer + marine-mutual / ship-classification adjacency anchored beside [[toa-reinsurance]] and [[japan-earthquake-reinsurance]] ✅
+- **Phase 78 (商社系 finance arms Batch C1)** — 2026-05-24 — [[mitsubishi-corp-finance]] / [[mitsubishi-corp-asset-management]] / [[mitsui-bussan-financial-services]] / [[itochu-finance]] / [[marubeni-financial-services]] / [[sumitomo-corp-financial-management]] / [[toyota-tsusho-finance]] / [[sojitz-finance]] / [[sumitomo-mitsui-auto-service]] created; 5 大商社 + 双日 + SMFG/住商 auto-lease JV finance arms surface opened; 7 parent 商社 holding-company pages remain as future backlog ✅
+- **Phase 79 (業界団体 / SRO Batch SR1)** — 2026-05-24 — [[zenginkyo]] / [[zenchugin-kyo]] / [[dai2-chigin-kyo]] / [[zenshin-kyo]] / [[shintaku-kyokai]] / [[seiho-kyokai]] / [[sonpo-kyokai]] / [[yokin-hoken-kiko]] / [[hokenryo-sanshutsu-kiko]] created; industry SRO + statutory corporation surface opened beside [[jsda]] ✅
+- **Phase 80 (中堅証券 + AM 残存 Batch C2)** — 2026-05-24 — [[marusan-securities]] / [[tachibana-securities]] / [[kyokuto-securities]] / [[imamura-securities]] / [[smt-am]] / [[tokio-marine-asset-management]] / [[nissay-asset-management]] / [[t-and-d-asset-management]] created; 中堅独立証券 + 信託 / 損保 / 生保系 AM completion ✅
+- **Phase 81 (Regional FG subsidiary + 旧称 Batch R2)** — 2026-05-24 — [[san-jusan-bank]] / [[chukyo-bank]] (historical) / [[mebuki-securities]] / [[mebuki-lease]] / [[ffg-securities]] / [[ibank-marketing]] / [[yokohama-bank-leasing]] / [[hamagin-research]] created; regional FG subsidiary operating-company + historical anchor surface filled ✅
+- **Phase 82 (next precision batch)** — 待定 — 7 商社 parent holding-company pages, additional regional FG subsidiary completion, entity-level KPI deepening, or non-life insurer registry index
 
 ## 統計
 
-- 合計エントリ数: **483** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
+- 合計エントリ数: **525** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
 - P0-P12 完成済み: 125 entries
 - P13 地域銀行・残存銀行追加: 10 entries
 - P14 信託・短資・外資・消費者金融・政策金融追加: 10 entries
@@ -947,6 +1019,11 @@ sources:
 - P47 大手 leasing operating-company anchors Batch L1: 8 entries (6 active + 2 historical disambiguation)
 - P48 BoJ + FSA internal-bureau anchors Batch R1: 8 entries (1 historical / 7 active)
 - P49 JCB / 国際カードブランド Batch CB1: 6 entries
+- P50 海外 reinsurer + marine mutual / P&I anchors Batch I1: 8 entries
+- P51 商社系 finance arms Batch C1: 9 entries
+- P52 業界団体 / SRO Batch SR1: 9 entries
+- P53 中堅証券 + AM 残存 Batch C2: 8 entries
+- P54 Regional FG subsidiary + 旧称 Batch R2: 8 entries
 - Registry QA / index-control snapshot: 1 compact coverage table in expansion backlog (no new entity count)
 - Cooperative-finance registry indexes: 3 banking-domain indexes (no JapanFG entity count change)
 - P3 graph-repair pages: 21 entries (20 promoted in P4, 1 deprecated erroneous alias, 0 planned stubs remain)

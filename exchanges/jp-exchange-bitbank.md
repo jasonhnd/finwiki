@@ -68,7 +68,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **取引高**：JVCEA 月次統計にて会員個社別の取引高が公表されているが、2026-05-18 時点では当該 Excel への直接アクセス不可のため具体数字は未記入。
 - **口座数**：公表なし
 - **顧客層**：retail（個人投資家）中心。法人サービスも提供。
-- **競合内ポジション**：アルトコイン取引高において国内上位とされるが、根拠となる JVCEA 統計の具体数値は要別途確認。BTC 中心の bitFlyer・Coincheck に対し、XRP など多通貨の取引高が相対的に高い構造を持つ。
+- **競合内ポジション**：アルトコイン取引高において国内上位とされるが、根拠となる JVCEA 統計の具体数値は要別途確認。BTC 中心の [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]] に対し、XRP など多通貨の取引高が相対的に高い構造を持つ。スポット取引量の業界比較は [[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA スポット取引量統計分析]] 参照。
 
 ## 6. 沿革・重大事件
 

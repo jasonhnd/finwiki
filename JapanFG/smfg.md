@@ -199,7 +199,7 @@ SMFG（持株会社・上場 8316）
 
 ### 数字化转型
 
-- **Olive プラットフォーム**: 三井住友 G 統合 app（銀行・証券・カード・保険・通貨）、570 万口座 ^[extracted from project source, needs primary IR verification]
+- **Olive プラットフォーム**: 三井住友 G 統合 app（銀行・証券・カード・保険・通貨）、570 万口座 ^[extracted from project source, needs primary IR verification]。証券は [[JapanFG/smbc-nikko|SMBC 日興証券]]、カードは [[JapanFG/smbc-card|三井住友カード]]、消費者金融は [[JapanFG/smbc-consumer-finance|SMBCCF (旧プロミス)]] と [[JapanFG/sbi-hd|SBI HD]] アライアンスの双方が支える。
 - **Olive Infinite × SBI 連携**（2025-09-05〜・2026 春サービス開始予定）★: Olive 最上位ランク向け資産運用サービス、SBI 連携の Olive コンサルティング JV ^[extracted from SBI HD Wikipedia]
 - **V ポイント経済圏**: 旧 T ポイント統合後の自社ポイント、SMCC 主管、CCC 20% / SMFG 25%
 - **Progmat 加盟**: ステーブルコイン基盤、[[mufg]] 主導枠組みに加盟 ^[inferred]

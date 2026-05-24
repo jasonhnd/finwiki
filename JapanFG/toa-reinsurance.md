@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-Reinsurance redistributes catastrophe, mortality / morbidity, liability, and large-loss risks across insurers and global capital. トーア再保険 is important because Japanese primary insurers' risk capacity is partly shaped by domestic and global reinsurance relationships.
+Reinsurance redistributes catastrophe, mortality / morbidity, liability, and large-loss risks across insurers and global capital. トーア再保険 is important because Japanese primary insurers' risk capacity is partly shaped by domestic and global reinsurance relationships, including the big three non-life insurers [[JapanFG/tokio-marine|東京海上 HD]], [[JapanFG/msad|MS&AD]], and [[JapanFG/sompo|SOMPO HD]] who cede a portion of catastrophe exposure via [[insurance/natcat-reinsurance-japan|natcat reinsurance arrangements]].
 
 ## 3. Why this page matters
 

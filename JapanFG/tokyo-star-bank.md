@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-東京スター銀行は、東京都を拠点に retail deposits, mortgage, real-estate-secured loans, wealth consultation, and selected SME services を提供する bank。一般的な県内地銀モデルより、foreign-owned banking platform and niche product model として読む方が自然。
+東京スター銀行は、東京都を拠点に retail deposits, mortgage, real-estate-secured loans, wealth consultation, and selected SME services を提供する bank。一般的な県内地銀モデルより、foreign-owned banking platform and niche product model として読む方が自然。Useful contrast peers include [[JapanFG/sbj-bank|SBJ 銀行]] (韓国・新韓銀行系) for the foreign-owned-bank lens and [[JapanFG/kiraboshi-bank|きらぼし銀行]] for the Tokyo regional-bank context, alongside [[banking/foreign-bank-japan-retreat|外銀撤退史]] for the broader cycle.
 
 ## 3. Why this page matters
 

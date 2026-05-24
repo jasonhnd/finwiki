@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[insurance/
 
 ## 2. Operating model
 
-This company is important because it shows telco-finance expansion beyond payments, banking, securities, and consumer insurance distribution. The business is tied to non-life / reinsurance holding-company regulation, so it belongs in JapanFG's insurance-holding-company surface rather than only in telco finance.
+This company is important because it shows telco-finance expansion beyond payments, banking, securities, and consumer insurance distribution by [[JapanFG/ndfg|NDFG (NTT Docomo Financial Group)]]. The business is tied to non-life / reinsurance holding-company regulation alongside the [[JapanFG/sompo|SOMPO HD]] sponsorship link, so it belongs in JapanFG's insurance-holding-company surface rather than only in telco finance. Peer telco-FG insurance arms include the [[JapanFG/au-fh|au-FH]] line via [[JapanFG/au-insurance|au 損保]].
 
 ## 3. Why this page matters
 
