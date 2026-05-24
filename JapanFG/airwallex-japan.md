@@ -39,7 +39,7 @@ Airwallex Japan株式会社は Airwallex group の Japan B2B payments and cross-
 
 - Targets globalizing SMEs and platform businesses rather than only consumer remittance.
 - Combines payment acceptance, global accounts, FX, transfers, and corporate spend infrastructure.
-- Useful comparator against Wise Business, Payoneer, PayPal, and bank international-remittance products.
+- Useful comparator against [[JapanFG/wise-payments-japan|Wise Business]], [[JapanFG/payoneer-japan|Payoneer]], [[JapanFG/paypal-pte-ltd-japan|PayPal]], and bank international-remittance products.
 
 ## 3. Why this standalone page matters
 

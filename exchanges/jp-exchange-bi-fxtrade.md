@@ -107,7 +107,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **2026年4月**: 設立15周年特設ページ公開、周年キャンペーン展開
 - **2026年5月**: 新通貨ペア（トルコリラ/円）の基準スプレッド縮小（1.28銭）
 - 暗号資産 CFD は 2020年8月開始以降、銘柄拡充（BTC→XRP→ETH の順）は完了済みで、対ドル銘柄も追加済み。直近12ヶ月で暗号資産部門の新規拡張発表は確認されず。
-- SBI グループ全体の暗号資産戦略はグループ統括会社（SBI HD）および [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード]] が主導しており、同社はリテール FX 基盤での補完的位置付け。
+- SBI グループ全体の暗号資産戦略はグループ統括会社（[[JapanFG/sbi-hd|SBI HD]]）および [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード]] が主導しており、同社はリテール FX 基盤での補完的位置付け。JP VASP のデリバティブ・現物兼業構造は [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]] 参照。
 
 ## 8. 関連人物
 

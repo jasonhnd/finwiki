@@ -72,7 +72,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **口座数・月間取引高**: 公表なし（2026-05-18 時点）
 - **過去の市場地位**: 2014年4月サービス開始後、国内BTC/JPY取引量をほぼ独占し、2015年11月まで国内1位を継続（Wikipedia 記述、出典はbitcoin日本語情報サイト）
 - **2019年4月時点**: CoinMarketCap「調整取引量・仮想通貨取引所 Top100」において日本の取引所の中で1位を記録（Wikipedia 記述、出典はCoinMarketCap）
-- **現在のポジション**: 取引高・口座数の最新公表データなし。bitFlyer/GMOコイン/Coincheck 等の大手と比較すると niche / mid に位置する独立系老舗として業界内で認知されている。
+- **現在のポジション**: 取引高・口座数の最新公表データなし。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]・[[exchanges/jp-exchange-coincheck|Coincheck]] 等の大手と比較すると niche / mid に位置する独立系老舗として業界内で認知されている（[[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA スポット取引量統計分析]] 参照）。
 - **顧客層**: 国内個人（海外個人・法人口座も開設可）
 
 ## 6. 沿革・重大事件

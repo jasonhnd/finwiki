@@ -89,7 +89,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 口座数・取引高の数字は2026年5月時点で同社から公表なし
 - 同社のお知らせ（2026年5月）では「現物板取引を提供する国内全暗号資産交換業者8社」という表現を用いており、国内現物板取引の競合として8社を認識している
-- 親会社 JNグループの IR によれば Zaif は2026年11月期も損失計上見込みで、本格的黒字化は2027年11月期以降の見通し（crex-data.com 2026-04-23 掲載）。取引高規模は国内中位以下とみられる
+- 親会社 JNグループの IR によれば Zaif は2026年11月期も損失計上見込みで、本格的黒字化は2027年11月期以降の見通し（crex-data.com 2026-04-23 掲載）。取引高規模は国内中位以下とみられる（業界トップは [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]）
 - 顧客層：主として国内 retail 投資家
 
 ## 6. 沿革・重大事件
@@ -101,7 +101,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2014年頃 | テックビューロ株式会社（大阪府大阪市西区）設立。代表は朝山貴生。Zaif 取引所を運営 |
 | 2015-16年 | Zaif は国内主要取引所として MONA・XEM 等のアルトコイン取引で存在感 |
 | 2017-09-29 | 暗号資産交換業登録（近畿財務局長 第00001号） |
-| **2018-09-14** | **ホットウォレットから約67億円相当の暗号資産流出**（BTC・BCH・MONA 等。うち約45億円が顧客から預かった資産。同社プレス・FSA 参考資料より）|
+| **2018-09-14** | **ホットウォレットから約67億円相当の暗号資産流出**（BTC・BCH・MONA 等。うち約45億円が顧客から預かった資産。同社プレス・FSA 参考資料より）— 国内 VASP 重大事案として [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]] および対比は [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 流出事件詳細]] 参照 |
 | 2018-09-25 | 金融庁がテックビューロ株式会社に対し業務改善命令を発令（近畿財務局が命令、金融庁ウェブサイト掲載） |
 | **2018-11頃** | **Zaif 取引所事業をフィスコ仮想通貨取引所（現：Zaif Inc.）に譲渡**。テックビューロはその後も別法人として存続（2021年9月に子会社2社を吸収合併、現在も同番号で継続） |
 

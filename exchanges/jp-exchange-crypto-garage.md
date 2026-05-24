@@ -113,7 +113,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - **機関向け × Bitcoin ネイティブ** の路線を一貫維持。SETTLENET PRO は暗号資産インターディーラー市場という国内唯一クラスのニッチポジションを確立
 - **Blockstream / Liquid Network との協業**：公式サイト "Backed By" セクションに Blockstream が掲載。R&D テーマが Bitcoin・Lightning・Liquid Network に特化しており、Liquid Network サイドチェーン技術の日本市場における主要普及パートナーとしての役割が示唆される（Blockstream との具体的出資額・契約内容は非公表）
-- **野村グループ × Komainu 連携**（2023年11月）：機関投資家向けカストディ・サービス領域での協業。Komainu（野村 HD × Ledger × CoinShares の合弁カストディアン）との連携により、グローバルレベルの機関向けインフラ整備を進める
+- **野村グループ × Komainu 連携**（2023年11月）：機関投資家向けカストディ・サービス領域での協業。[[exchanges/jp-custody-komainu|Komainu]]（[[JapanFG/nomura-hd|野村 HD]] × Ledger × CoinShares の合弁カストディアン）との連携により、グローバルレベルの機関向けインフラ整備を進める（同社のポジションは [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] と [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC レイヤー]] で詳述）
 - **web3 開発受託の拡張**：2024年以降、日産自動車・日本英語検定協会・スカパー JSAT・岩手県紫波町など非 crypto 領域へのブロックチェーン開発支援案件が増加。mahola API を通じた開発者向けビジネスラインを多角化
 - **直近 12 ヶ月（2025年5月基準）**：Pacific Meta との暗号資産保有コンサルティング共同提供（2025年8月）、IEEE Blockchain 2025 論文採択（2025年12月）。IPO・海外展開に関する公開発表はなし
 

@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - Provides a branch / physical-network model for FX and remittance-adjacent services.
 - Distinct from app-first fintechs because airport and retail storefront distribution matter.
-- Useful comparator against Western Union and SBI Remit.
+- Useful comparator against [[JapanFG/western-union-japan|Western Union]] and [[JapanFG/sbi-remit|SBI Remit]], as well as digital-first peers like [[JapanFG/wise-payments-japan|Wise]].
 
 ## 3. Why this standalone page matters
 

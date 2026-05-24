@@ -67,6 +67,7 @@ Use this domain when the question is **how value moves at checkout or through a 
 | Account-to-account payments | [[payments/account-to-account-payment-japan|Japan account-to-account payment route]] | [[banking/quick-deposit-four-methods|quick deposit methods]] |
 | Account-direct merchant acquiring | [[payments/merchant-bank-pay-account-direct-acquiring|Merchant bank-account direct acquiring in Japan]] | [[payments/psp-merchant-settlement-risk|PSP settlement risk]] |
 | Clearing / settlement infrastructure | [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]] | [[payments/account-to-account-payment-japan|account-to-account payment route]] |
+| Payment scheme economics | [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] | [[payments/cashless-jp-landscape|cashless landscape]] |
 | PSP settlement risk | [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] | [[payments/card-acquiring-japan-stack|card acquiring stack]] |
 | Points / campaign economics | [[loyalty/japan-points-landscape|Japan points landscape]] | [[loyalty/INDEX|loyalty INDEX]] |
 | Retail payment platforms | [[retail/aeon-group|AEON Group]], [[retail/seven-and-i-hd|Seven & i]] | [[retail/INDEX|retail INDEX]] |

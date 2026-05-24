@@ -1,0 +1,131 @@
+---
+title: 今村証券 (Imamura Securities)
+aliases: ["Imamura Securities", "Imamura Securities Co., Ltd.", "今村証券", "今村証券株式会社", "7175"]
+domain: JapanFG
+created: 2026-05-24
+last_updated: 2026-05-24
+last_tended: 2026-05-24
+review_by: 2026-11-20
+confidence: likely
+tags: [JapanFG, securities, independent, mid-tier, regional]
+status: active
+sources:
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+  - "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html"
+  - "https://www.imamura-sec.co.jp/company/profile.html"
+---
+
+# 今村証券 (Imamura Securities)
+
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
+
+## TL;DR
+
+今村証券は **石川県金沢市本拠の地域中堅独立証券** (東証 STANDARD **7175**)、北陸地方の対面リテール証券として地元密着のコンサルティング営業を展開する。FSA 金融商品取引業者一覧では「今村証券株式会社」、北陸財務局長(金商)第3号として掲載される。**日本証券業協会 ([[JapanFG/jsda|JSDA]]) 正会員**。同じ地方拠点の独立中堅証券 ([[JapanFG/iwai-cosmo-hd|岩井コスモ HD]] 大阪 / [[JapanFG/okasan-sg|岡三 SG]] 中京) とは異なる**北陸 (金沢) 単独地域基盤**が特徴で、地元顧客との対面長期関係を主軸とする。
+
+## 1. 法人・ライセンス境界
+
+| Item | Reading |
+|---|---|
+| Legal name | 今村証券株式会社 |
+| 英名 | Imamura Securities Co., Ltd. |
+| 証券コード | 東証 STANDARD 7175 |
+| FSA registration | 北陸財務局長(金商)第3号 (地方財務局登録) |
+| FIEA scope | 第一種金融商品取引業 (証券業) |
+| SRO 加盟 | 日本証券業協会 ([[JapanFG/jsda|JSDA]]) 正会員 |
+| 本社 | 石川県金沢市 |
+| 業態 | 地域中堅独立系証券 (北陸地方密着) |
+
+## 2. 公司結構
+
+**正式名**：今村証券株式会社
+**英名**：Imamura Securities Co., Ltd.
+**証券コード**：東証 STANDARD 7175 ^[extracted]
+**本社**：石川県金沢市 ^[extracted]
+**FSA 登録**：**北陸財務局長(金商)第3号** (関東財務局ではなく地方財務局登録) ^[extracted]
+**業態**：金融商品取引業 (第一種金融商品取引業者) — 地域中堅独立系証券
+**地域基盤**：北陸 3 県 (石川・富山・福井) 中心の対面リテール
+
+### 業態の特徴
+
+今村証券は東京・大阪・名古屋の三大都市圏ではなく、**北陸 (金沢) 単独地域基盤**の中堅独立証券。FSA 登録番号も「北陸財務局長(金商)第3号」と地方財務局登録で、地域証券としての位置付けが明確。中京の [[JapanFG/okasan-sg|岡三 SG]] や関西の [[JapanFG/iwai-cosmo-hd|岩井コスモ HD]] と並ぶ「地方発祥独立証券」枠だが、地域規模はより限定的。
+
+### 重要年表 (公開情報ベース)
+
+| 年月 | 事象 |
+|---|---|
+| 昭和初期〜戦後 | 金沢で創業 (具体創業年は公式沿革参照) ^[inferred] |
+| 高度成長期〜 | 北陸地方の地域証券として対面リテール展開 ^[inferred] |
+| 2000 年代〜 | ネット取引対応 (対面 + オンラインのハイブリッド) ^[inferred] |
+| 2022-04 | 東証市場区分見直し → 東証 STANDARD (7175) ^[extracted] |
+| 2024〜 | 新 NISA 制度対応、地域顧客向け NISA 商品強化 ^[inferred] |
+
+## 3. 业务线 map
+
+| セグメント | 内容 | 特徴 |
+|---|---|---|
+| **国内株式 (対面リテール)** ★ | 個人投資家向け株式仲介 | **本社中核**、北陸地域顧客密着 |
+| 投資信託 | 公募投信販売 | 安定収益源 |
+| 債券 | 個人向け国債・外債 | 補完商品 |
+| 法人取引 | 北陸地域中小法人 | 地域密着型 |
+| 投資相談 | 対面コンサルティング | 「教育型営業」 ^[inferred] |
+| オンライン取引 | ネット支店併設 | 対面が主軸 |
+
+## 4. 战略与競争
+
+### 地域密着型独立証券としてのポジション
+
+今村証券は **北陸 3 県 (石川・富山・福井) 中心の地域証券** として、地元顧客との長期対面関係を軸にビジネスを展開する。三大都市圏の大手証券 ([[JapanFG/nomura-hd|野村]] / [[JapanFG/daiwa-sg|大和]] / [[JapanFG/smbc-nikko|SMBC 日興]]) や中堅独立証券 ([[JapanFG/marusan-securities|丸三]] / [[JapanFG/aizawa-sg|アイザワ]]) と異なり、**地域単独基盤** で生き残るニッチ戦略。
+
+### 競合関係
+
+- **北陸地銀** ([[JapanFG/hokkoku-fhd|北國 FHD]] / [[JapanFG/hokuriku-bank|北陸銀行]] 等) の証券子会社・代理店との競合
+- **ネット証券** ([[JapanFG/sbi-securities|SBI]] / [[JapanFG/rakuten-securities|楽天]] / [[JapanFG/matsui-sec|松井]]) のオンラインアクセス拡大
+- **大手対面証券** の北陸支店ネットワーク
+
+差別化軸は「地元密着 + 対面信頼関係」で、ネット証券の低手数料化に対して**地域コミュニティ深耕型**で対抗する。
+
+### NISA 拡充と地域証券 ([[securities/nisa-2024-flow|nisa-2024-flow]] 文脈)
+
+- 2024〜 新 NISA 拡充で、地域富裕層・シニア層向け NISA 商品ラインナップを強化 ^[inferred]
+- 地域証券として地元の世代間資産承継 (相続・贈与関連の運用相談) ニーズに対応 ^[inferred]
+
+## 5. 监管と政策
+
+- **主管**：金融庁 (FSA)・**北陸財務局** (地方財務局登録)
+- **業態**：第一種金融商品取引業 (証券業)
+- **規制**：金融商品取引法・日本証券業協会 ([[JapanFG/jsda|JSDA]]) 自主規制
+- **直近政策論点**：
+  - 2024〜 新 NISA 拡充：地域証券としての富裕層 NISA 商品強化 ^[inferred]
+  - 顧客本位の業務運営 (FD 原則) 強化：対面コンサル型営業の正当化
+  - 地域金融機関再編論議の中での地域証券の位置付け ^[ambiguous]
+
+## Counterpoints
+
+- 「地域基盤の規模制約」：北陸 3 県の人口減少 + 高齢化で顧客基盤の長期的縮小リスク ^[inferred]
+- 「ネット証券との価格競争」：地域密着型でも、若年層のネット証券流出には対面では対抗困難 ^[inferred]
+- 「地銀証券子会社との競合」：[[JapanFG/hokkoku-fhd|北國 FHD]] 等の地銀系証券業務との直接競合 ^[inferred]
+- 「事業承継・経営継続性」：地域独立証券の世代交代と経営継続戦略は継続論点 ^[ambiguous]
+
+## Open questions
+
+- 今村証券の北陸地域シェア (対面リテール証券間) は?
+- 地域人口減少下での顧客基盤の長期予測は?
+- 地銀 ([[JapanFG/hokkoku-fhd|北國 FHD]] 等) との連携・統合シナリオはあるか?
+- ネット取引比率の現状と中長期目標は?
+
+## Related
+
+- [[JapanFG/marusan-securities]] · [[JapanFG/aizawa-sg]] · [[JapanFG/iwai-cosmo-hd]] · [[JapanFG/kyokuto-securities]]
+- [[JapanFG/okasan-sg]] · [[JapanFG/tokai-tokyo-fh]]
+- [[JapanFG/jsda]]
+- [[securities/financial-instruments-business-operators-japan-index]]
+
+## Sources
+
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (公開エクセル一覧).
+- 日本証券業協会 (JSDA), "協会員名簿".
+- 今村証券株式会社, "会社概要" (公式コーポレートサイト).

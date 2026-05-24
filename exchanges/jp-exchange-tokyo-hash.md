@@ -68,7 +68,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 取引高・口座数は非公表
 - 顧客層：コーポレートサイトの記述・セミナー内容・2銘柄限定という構成から、リテール一般投資家よりも **機関投資家・法人顧客** を主要ターゲットと推測される（根拠：「HashKey Group は機関投資家向けデジタル資産投資支援を主力事業とする」旨の公式記載）
-- 競合内ポジション：登録番号 #00027 は国内 26 社中後発。銘柄数・口座数とも非公表であり大手 top 3（bitFlyer・Coincheck・GMO コイン）とは異なるニッチポジション
+- 競合内ポジション：登録番号 #00027 は国内 26 社中後発。銘柄数・口座数とも非公表であり大手 top 3（[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMO コイン]]）とは異なるニッチポジション。親会社 HashKey の本拠地ライセンス制度は [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP ライセンス]] 参照
 
 ## 6. 沿革・重大事件
 

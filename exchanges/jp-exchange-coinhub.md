@@ -43,7 +43,7 @@ For FinWiki, this is the second missing FSA-registered VASP page identified in t
 
 ## 2. 業務範囲
 
-COINHUB's public site describes business activities as crypto asset exchange service and emphasizes crypto ATM access. This makes it different from large online order-book exchanges and from bank-backed platforms.
+COINHUB's public site describes business activities as crypto asset exchange service and emphasizes crypto ATM access. This makes it different from large online order-book exchanges like [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-bitbank|bitbank]] and from bank-backed platforms. Cash-rail context is in [[exchanges/jp-crypto-merchant-payment-lightning|JP crypto merchant payment]] and AML compliance fits [[exchanges/jp-vasp-aml-travel-rule-implementation|VASP AML / travel rule]].
 
 ## 3. 戦略動向
 

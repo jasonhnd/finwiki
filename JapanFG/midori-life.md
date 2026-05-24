@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-みどり生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される smaller specialty life-insurance operating company。Large group pages では拾いにくいため、exact-name anchor として追加する。
+みどり生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される smaller specialty life-insurance operating company。Large group pages では拾いにくいため、[[JapanFG/INDEX|JapanFG]] 内の exact-name anchor として追加する。比較対象としては [[JapanFG/dai-ichi-frontier-life|第一フロンティア生命]] や [[JapanFG/asahi-life|朝日生命]] など中堅 life insurer が参照しやすい（[[insurance/INDEX|insurance index]] 経由）。
 
 ## 1. License / group boundary
 

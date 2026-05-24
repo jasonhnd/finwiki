@@ -32,7 +32,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 人才流向作为信号的机制:**早期建设者**比公开高管更早接触下一个 product cycle 的 evidence(数据 / 客户对话 / 内部 roadmap)。当他们押注跳槽时,**个人 reputation + 期权 + 时间成本**全部压在新方向 → 比公开宣告更强的信号。识别方式:1) 锁定行业 top 20 早期建设者名单;2) 监控他们的 LinkedIn / Twitter 跳槽公告;3) 跳到同领域不同 vertical(如 TD → MMF / Credit / RWA)= 重心迁移;4) 跳到完全不同领域 = 该人个人选择,信号弱。
 
-应用 = 提前 6-18 个月部署研究资源到新 vertical。Christine Moy 跳到 Apollo + 同期 Arc 私募收 Apollo + ACRED on Arc 计划 → 三联交叉验证"私募信贷链上化"是机构稳定币战争的下一战场。
+应用 = 提前 6-18 个月部署研究资源到新 vertical。Christine Moy 跳到 Apollo + 同期 Arc 私募收 Apollo + ACRED on Arc 计划 → 三联交叉验证"私募信贷链上化"是机构稳定币战争的下一战场(参见 [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED 私募信贷代币化]] 与 [[business/larry-fink-blackrock-digital-asset-template|BlackRock 三角模板]] 的资管 RWA 对照)。
 
 ## Origin & evolution
 

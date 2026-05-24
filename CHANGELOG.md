@@ -31,6 +31,74 @@
 
 ## 2026-05-24
 
+### 22:30 JST: Wave 3 並列 9 agents — 46 件新規 (海外 reinsurer + 商社 finance + 業界団体 + 中堅証券 / AM + 地銀 FG 子会社 + 4 新 matrix) / Wave 3 parallel-9 batch — 46 new entries (foreign reinsurer + sōgō shōsha finance + industry bodies + mid-tier securities + AM + regional FG subsidiaries + 4 new matrices) / Wave 3 并行 9 agent 批次 — 46 条新增
+
+#### 日本語記録
+
+- 背景: Wave 1 + Wave 2 完了 + GitHub Release v2026.05.24 公開後、user 指示 `继续` で wave 3 を開始。残りの institutional / market-structure gap を埋める方向で 10 並列 agent を起動 (うち W3-10 density round 2 は user により途中で cancel; 残 9 agent 完走)。
+- 影響範囲: 46 件新規 .md (JapanFG 42 + insurance 1 + securities 1 + payments 1 + finance 1) + JapanFG/INDEX に P50~P54 batch sections と Phase 77~81 rollout 履歴 + 統計 + 4 件 domain INDEX (insurance, securities, payments, finance) に新規 matrix entry 行追加 + root `INDEX.md` 数値同期 + `README.md` + `index.html` 三語 numeric snapshot 同期 + AI discovery 5 ファイル + `wiki-link-improvement-plan.md`。
+- 主要新規ファイル (46 件):
+  - **P50 海外 reinsurer + P&I (8)**: [[JapanFG/munich-re-japan]], [[JapanFG/swiss-re-japan]], [[JapanFG/hannover-re-japan]], [[JapanFG/scor-japan]], [[JapanFG/rga-japan]], [[JapanFG/gen-re-japan]], [[JapanFG/japan-pi-club]], [[JapanFG/nippon-kaiji-kyokai]]
+  - **P51 商社系 finance arms (9)**: [[JapanFG/mitsubishi-corp-finance]], [[JapanFG/mitsubishi-corp-asset-management]], [[JapanFG/mitsui-bussan-financial-services]], [[JapanFG/itochu-finance]], [[JapanFG/marubeni-financial-services]], [[JapanFG/sumitomo-corp-financial-management]], [[JapanFG/toyota-tsusho-finance]], [[JapanFG/sojitz-finance]], [[JapanFG/sumitomo-mitsui-auto-service]]
+  - **P52 業界団体 / SRO (9)**: [[JapanFG/zenginkyo]], [[JapanFG/zenchugin-kyo]], [[JapanFG/dai2-chigin-kyo]], [[JapanFG/zenshin-kyo]], [[JapanFG/shintaku-kyokai]], [[JapanFG/seiho-kyokai]], [[JapanFG/sonpo-kyokai]], [[JapanFG/yokin-hoken-kiko]], [[JapanFG/hokenryo-sanshutsu-kiko]]
+  - **P53 中堅証券 + AM 残存 (8)**: [[JapanFG/marusan-securities]], [[JapanFG/tachibana-securities]], [[JapanFG/kyokuto-securities]], [[JapanFG/imamura-securities]], [[JapanFG/smt-am]], [[JapanFG/tokio-marine-asset-management]], [[JapanFG/nissay-asset-management]], [[JapanFG/t-and-d-asset-management]]
+  - **P54 Regional FG subsidiary + 旧称 (8)**: [[JapanFG/san-jusan-bank]], [[JapanFG/chukyo-bank]] (historical), [[JapanFG/mebuki-securities]], [[JapanFG/mebuki-lease]], [[JapanFG/ffg-securities]], [[JapanFG/ibank-marketing]], [[JapanFG/yokohama-bank-leasing]], [[JapanFG/hamagin-research]]
+  - **4 新 comparison matrix**: [[insurance/global-solvency-framework-comparison-matrix]] (FSA ESR / IAIS ICS / EU Solvency II / US RBC), [[securities/japan-asset-manager-landscape-matrix]] (megabank / insurance / independent / foreign 4 lane), [[payments/japan-payment-scheme-economics-matrix]] (card / code / A2A / prepaid 4 scheme), [[finance/japan-listed-financial-groups-investable-universe]] (上場 JP financial groups reference universe)
+- 実施内容:
+  - 10 並列 `general-purpose` agent を spawn (W3-1 〜 W3-10)。W3-10 (C density round 2) は user により途中で cancel; 残 9 agent 完走。各 agent に self-contained prompt + 担当 directory 制約 + 既存 entry 風格 reference + 公開 source URL を渡し、CHANGELOG / INDEX / README / index.html / AI discovery files への書き込み禁止。
+  - JapanFG/INDEX に P50 (海外 reinsurer + P&I) + P51 (商社系 finance) + P52 (業界団体 / SRO) + P53 (中堅証券 + AM) + P54 (Regional FG subsidiary + 旧称) batch sections を追加し、Phase 77~81 rollout 履歴と統計を更新、合計 entity entry 数を 483 → 525 に修正。
+  - 4 件 domain INDEX (insurance, securities, payments, finance) の Start Here / Route Map 表に新規 matrix entry 行を追加。
+  - root `INDEX.md` の domain table を新カウント (JapanFG 496→538, insurance 12→13, securities 21→22, payments 18→19, finance 12→13) と公開 surface count (935→981) に同期。
+  - `README.md` + `index.html` の三語 numeric snapshot を 981 entries / 1012 Markdown files / 約 435.0 万字 / 679,983 tokens に同期。
+  - 一部 wave-3 agent は新規 entry 作成時に既存 entry (japan-earthquake-reinsurance / msad / payoneer-japan / paypay-fg 等) に back-link を inline で追加 (92 件の既存 entry が修正)。factual content は変更せず、cross-link 強化のみ。
+- 数値スナップショット: Markdown files 965 → **1012** (+47, うち 46 件 entry + 1 件 release notes ファイル), public Markdown pages 964 → **1011** (+47), sitemap URLs 965 → **1012** (+47), topical domains 20, link-audited entries 935 → **981** (+46), unresolved link issues 0, non-space UTF-8 characters 3,992,427 → **4,349,903** (+357,476), word-like tokens 625,721 → **679,983** (+54,262)。
+- 検証結果: `python tools/generate_ai_discovery.py` pass。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` pass (entries_checked=981, entries_with_issues=0)。9 並列 agent 全数 self-reported pass + 46 件新規ファイル 100% 落盤確認 + 各 entry ≥3 body wikilinks 確認済み。
+- 後続事項: 7 件の 商社 parent holding-company pages (mitsubishi-corp / mitsui-co / itochu-corp / marubeni-corp / sumitomo-corp / toyota-tsusho-corp / sojitz-corp) が backlog として残存; agent W3-2 が指摘済み。release notes は `releases/v2026.05.24-2.md` として別途作成、GitHub Release `v2026.05.24-2` として公開予定。
+
+#### English Record
+
+- Background: After wave 1 + wave 2 completion and GitHub Release v2026.05.24 publication, the user said `继续` to start wave 3. Launched 10 parallel agents focused on remaining institutional / market-structure gaps. W3-10 (C density round 2) was canceled by the user partway through; the remaining 9 agents completed.
+- Scope: 46 new `.md` files (JapanFG 42 + insurance 1 + securities 1 + payments 1 + finance 1) + JapanFG/INDEX P50~P54 batch sections + Phase 77~81 rollout history + statistics + 4 domain INDEX updates (insurance, securities, payments, finance) routing the new matrices + root `INDEX.md` count sync + `README.md` + `index.html` trilingual numeric snapshot + 5 AI discovery files + `wiki-link-improvement-plan.md`.
+- New files (46):
+  - P50 foreign reinsurer + P&I (8): Munich Re Japan, Swiss Re Japan, Hannover Re Japan, SCOR Japan, RGA Japan, Gen Re Japan, Japan P&I Club, Nippon Kaiji Kyokai (ClassNK).
+  - P51 sōgō shōsha finance arms (9): Mitsubishi Corp Finance, Mitsubishi Corp AM, Mitsui Bussan FS, Itochu Finance, Marubeni FS, Sumitomo Corp Financial Management, Toyota Tsusho Finance, Sojitz Finance, Sumitomo Mitsui Auto Service (SMAS bonus).
+  - P52 industry SROs + statutory bodies (9): Zenginkyō, Zenchugin-kyō, Dai2 Chigin-kyō, Zenshin-kyō, Shintaku Kyōkai, Seiho Kyōkai, Sonpo Kyōkai, DICJ, Hokenryō Santshutsu Kikō.
+  - P53 mid-tier securities + remaining AM (8): Marusan, Tachibana, Kyokuto, Imamura Securities; SMT AM, Tokio Marine AM, Nissay AM, T&D AM.
+  - P54 Regional FG subsidiary + historical disambiguation (8): San-jusan Bank, Chukyo Bank (historical), Mebuki Securities, Mebuki Lease, FFG Securities, iBank Marketing, Yokohama Bank Leasing, Hamagin Research.
+  - 4 new comparison matrices: insurance global solvency framework (FSA ESR / IAIS ICS / EU Solvency II / US RBC); securities Japan asset manager landscape (4 lanes); payments Japan scheme economics (4 schemes); finance Japan listed financial groups investable universe reference.
+- Changes:
+  - Spawned 10 parallel `general-purpose` agents via the Agent tool. W3-10 was canceled by the user; the remaining 9 completed. Each agent had self-contained prompts, directory constraints, existing-entry style references, and public source URLs, with strict bans on shared-file touches.
+  - Added P50~P54 batch sections to `JapanFG/INDEX.md`, refreshed Phase 77~81 rollout history and statistics, and updated the total entity count from 483 to 525.
+  - Added new matrix-entry rows to insurance/INDEX (Start Here), securities/INDEX (Start Here), payments/INDEX (Route Map), and finance/INDEX (Start Here).
+  - Synchronized the root `INDEX.md` domain table (JapanFG 496→538, insurance 12→13, securities 21→22, payments 18→19, finance 12→13) and public-surface count (935→981).
+  - Synchronized `README.md` and `index.html` trilingual numeric snapshots to 981 entries / 1012 Markdown files / ~4.35M characters / 679,983 tokens.
+  - Some wave-3 agents added inline back-links to existing entries (japan-earthquake-reinsurance / msad / payoneer-japan / paypay-fg etc., ~92 existing files modified). Factual content unchanged — cross-link strengthening only.
+- Counts: 965 → 1012 Markdown files (+47, of which 46 new entries + 1 release notes file), 964 → 1011 public pages (+47), 965 → 1012 sitemap URLs (+47), 20 topical domains, 935 → 981 link-audited entries (+46), 0 unresolved link issues, 3,992,427 → 4,349,903 non-space UTF-8 characters (+357,476), 625,721 → 679,983 word-like tokens (+54,262).
+- Validation: `python tools/generate_ai_discovery.py` passed; `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed (entries_checked=981, entries_with_issues=0). All 9 completed agents self-reported pass; all 46 new files confirmed on disk; all entries have ≥3 body wikilinks before Related/Sources.
+- Follow-up: 7 parent sōgō shōsha holding-company pages (Mitsubishi Corp, Mitsui & Co, Itochu Corp, Marubeni Corp, Sumitomo Corp, Toyota Tsusho Corp, Sojitz Corp) remain as backlog (flagged by agent W3-2). Release notes drafted as `releases/v2026.05.24-2.md`; will be published as GitHub Release `v2026.05.24-2`.
+
+#### 中文记录
+
+- 背景：Wave 1 + Wave 2 完成、GitHub Release v2026.05.24 发布后，用户说「继续」开始 wave 3。并行启动 10 个 agent 主攻剩余 institutional / market-structure 空隙（其中 W3-10 是 C density round 2，被用户中途 cancel；剩 9 个 agent 跑完）。
+- 影响范围：46 个新增 .md（JapanFG 42 + insurance 1 + securities 1 + payments 1 + finance 1）+ JapanFG/INDEX 加 P50~P54 batch 段 + Phase 77~81 rollout 历史 + 统计 + 4 个 domain INDEX（insurance / securities / payments / finance）路由新 matrix + 根 `INDEX.md` 数字同步 + `README.md` + `index.html` 三语 numeric snapshot + 5 个 AI discovery files + `wiki-link-improvement-plan.md`。
+- 46 个新文件：
+  - **P50 海外再保险 + P&I（8）**：Munich Re / Swiss Re / Hannover Re / SCOR / RGA / Gen Re Japan + Japan P&I Club + 日本海事協会
+  - **P51 商社系 finance arms（9）**：三菱商事 finance / 三菱商事 AM / 三井物産 FS / 伊藤忠 finance / 丸紅 FS / 住友商事 financial management / 豊田通商 finance / 双日 finance / SMAS（SMFG+住商 auto-lease JV）
+  - **P52 業界団体 / SRO（9）**：全銀協 / 全地銀協 / 第二地銀協 / 全信協 / 信託協会 / 生保協会 / 損保協会 / DICJ / 損保料率算出機構
+  - **P53 中堅証券 + AM 残存（8）**：丸三 / 立花 / 極東 / 今村証券 + 三井住友トラスト AM / 東京海上 AM / ニッセイ AM / T&D AM
+  - **P54 Regional FG subsidiary + 旧称（8）**：三十三銀行 / 中京銀行（历史）/ めぶき証券 / めぶきリース / FFG 証券 / iBank マーケティング / 横浜銀リース / はまぎん総合研究所
+  - **4 个新 comparison matrix**：保险偿付能力 framework（FSA ESR / IAIS ICS / EU SII / US RBC）/ Japan asset manager landscape（4 lane）/ Japan payment scheme economics（4 scheme）/ Japan listed FG investable universe
+- 执行内容：
+  - 用 Agent 工具并行启动 10 个 `general-purpose` agent（W3-1 ~ W3-10）。W3-10 被用户 cancel；剩 9 个跑完。每个 agent 收到 self-contained prompt + 目录约束 + 现有 entry 风格 reference + 公开 source URL，严禁触碰共享文件。
+  - 在 `JapanFG/INDEX.md` 加 P50（海外 reinsurer + P&I）+ P51（商社 finance）+ P52（業界団体 / SRO）+ P53（中堅証券 + AM）+ P54（Regional FG subsidiary + 旧称）batch 段，更新 Phase 77~81 rollout 历史和统计，合计 entity entry 数从 483 改成 525。
+  - 在 insurance/INDEX、securities/INDEX、payments/INDEX、finance/INDEX 的 Start Here / Route Map 表里加入新 matrix entry 行。
+  - 同步根 `INDEX.md` 的 domain table（JapanFG 496→538, insurance 12→13, securities 21→22, payments 18→19, finance 12→13）和公开 surface count（935→981）。
+  - 同步 `README.md` 和 `index.html` 的三语 numeric snapshot 到 981 entries / 1012 Markdown files / 约 435.0 万字 / 679,983 tokens。
+  - 部分 wave-3 agent 在创建新 entry 时在现有 entry（japan-earthquake-reinsurance / msad / payoneer-japan / paypay-fg 等）里 inline 加 back-link（~92 个现有文件被改）。factual 内容没变，只是加 cross-link 强化。
+- 数字快照：Markdown files 965 → **1012**（+47，含 46 个 entry + 1 个 release notes 文件），public pages 964 → **1011**（+47），sitemap URLs 965 → **1012**（+47），topical domains 20，link-audited entries 935 → **981**（+46），unresolved link issues 0，non-space UTF-8 characters 3,992,427 → **4,349,903**（+357,476），word-like tokens 625,721 → **679,983**（+54,262）。
+- 验证结果：`python tools/generate_ai_discovery.py` 通过。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=981, entries_with_issues=0）。9 个完成 agent 全部 self-report pass + 46 个新文件 100% 落盘确认 + 每条 entry ≥3 个 body wikilink 确认。
+- 后续事项：7 个商社 parent holding-company 页面（三菱商事 / 三井物産 / 伊藤忠 / 丸紅 / 住友商事 / 豊田通商 / 双日）作为 backlog 残留，agent W3-2 已指出。release notes 写成 `releases/v2026.05.24-2.md`，将作为 GitHub Release `v2026.05.24-2` 发布。
+
 ### 20:15 JST: Wave 2 並列 10 agents — 22 件新規 + 横断 link-density pass / Wave 2 parallel-10 batch — 22 new entries + cross-domain link-density pass / Wave 2 并行 10 agent 批次 — 22 条新增 + 横向链接密度加密
 
 #### 日本語記録

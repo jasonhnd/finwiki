@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-国内 3 大損保の一角（東京海上 HD・MS&AD HD・SOMPO HD）。**2010-04 旧 損保ジャパン + 日本興亜損保 経営統合**で NKSJ HD として発足、2014-09 ソンポ HD → 2016-10 SOMPO HD 改称。**「テーマパーク戦略」**で 損保 + 生保 + **介護（SOMPO ケア = 国内介護最大手）** + デジタル + 海外保険（**Sompo International**, 2017 約 6300 億円で旧 Endurance 買収）を 5 本柱。**2023-2024 ビッグモーター不正修理問題**で損保ジャパンが業務改善命令を受け、ガバナンス再建が現在の最大論点 ^[ambiguous]。東証 PRIME 8630。^[extracted]
+国内 3 大損保の一角（[[JapanFG/tokio-marine|東京海上 HD]]・[[JapanFG/msad|MS&AD HD]]・SOMPO HD）。**2010-04 旧 [[JapanFG/sompo-japan-insurance|損保ジャパン]] + 日本興亜損保 経営統合**で NKSJ HD として発足、2014-09 ソンポ HD → 2016-10 SOMPO HD 改称。**「テーマパーク戦略」**で 損保 + 生保 + **介護（SOMPO ケア = 国内介護最大手）** + デジタル + 海外保険（**Sompo International**, 2017 約 6300 億円で旧 Endurance 買収）を 5 本柱。**2023-2024 ビッグモーター不正修理問題**で損保ジャパンが業務改善命令を受け、ガバナンス再建が現在の最大論点 ^[ambiguous]。東証 PRIME 8630。^[extracted]
 
 ## 1. 公司结构
 

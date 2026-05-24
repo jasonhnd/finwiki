@@ -92,7 +92,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 暗号資産 CFD 専業比較での市場シェアは公表なし
 - **JVCEA 加盟 13 社のデリバ業者のうちの 1 社**（#1024）
-- 主要競合（デリバ同業）: bitFlyer（FXP 部門）、GMO Coin、Rakuten Wallet、SBI 証券、DMM.com 証券 等
+- 主要競合（デリバ同業）: [[exchanges/jp-exchange-bitflyer|bitFlyer]]（FXP 部門）、[[exchanges/jp-exchange-gmo-coin|GMO Coin]]、[[exchanges/jp-exchange-rakuten-wallet|Rakuten Wallet]]、[[exchanges/jp-exchange-sbi-securities|SBI 証券]]、[[exchanges/jp-exchange-dmm-com-securities|DMM.com 証券]] 等
 - 顧客層: マネックス証券口座保有者を中心とした国内個人投資家（retail）
 - 月次口座数等は「口座数等 月次概況」で公表（詳細数値 取得時 公表ページアクセス不可）
 - 証券業本業における口座数: 数百万口座規模（マネックスグループ月次開示）— 正確数値は公表 IR 参照要

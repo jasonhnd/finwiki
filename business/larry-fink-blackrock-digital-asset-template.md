@@ -30,7 +30,7 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-三角的核心是**"任一栏受冲击,另两栏维持业务连续性"**。**ETF 栏**已通过 SEC 批准 → 监管层面不可逆,机构资金通道稳定;**RWA 栏**用代币化货币市场基金作为客户的链上现金 + 同时作为稳定币 issuer(USDC / Circle)的储备资产,形成上下游绑定;**政治栏**用 CEO Annual Letter 等公开发声参与立法形成期定调 + 利用 AUM $11.5T 体量天然影响监管协调。
+三角的核心是**"任一栏受冲击,另两栏维持业务连续性"**。**ETF 栏**已通过 SEC 批准 → 监管层面不可逆,机构资金通道稳定;**RWA 栏**用代币化货币市场基金([[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等)作为客户的链上现金 + 同时作为稳定币 issuer(USDC / Circle)的储备资产,形成上下游绑定;**政治栏**用 CEO Annual Letter 等公开发声参与立法形成期定调(对比 [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce 监管转向]] 与 [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon 被动转向]] 案例)+ 利用 AUM $11.5T 体量天然影响监管协调。
 
 诊断模板:当传统资管进入加密时,**三栏齐头并进 = 合规模板成立**(BlackRock / Franklin Templeton / Fidelity 都在走这条路);只有 ETF 无 RWA = 短期渔利;只有 RWA 无 ETF = 缺机构信任 anchor;无政治影响力 = 监管被动接受方。Larry Fink 个人因 BlackRock 管 200+ 资产类别,加密只占 ~$100B → **言论可信度极高**(无单一项目存亡风险)。
 

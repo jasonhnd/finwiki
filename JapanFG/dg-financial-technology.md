@@ -38,7 +38,7 @@ DGフィナンシャルテクノロジーは Digital Garage group の payment / 
 ## 2. Business role
 
 - Provides payment-processing infrastructure for merchants and platform businesses.
-- Sits in the same analytical lane as GMO-PG / GMO Epsilon / SBPS, but with Digital Garage's commerce and marketing-tech context.
+- Sits in the same analytical lane as [[JapanFG/gmo-payment-gateway|GMO-PG]] / [[JapanFG/gmo-epsilon|GMO Epsilon]] / [[JapanFG/sb-payment-service|SBPS]], but with Digital Garage's commerce and marketing-tech context.
 - Important for mapping Japan's non-bank merchant payment infrastructure.
 
 ## 3. Why this standalone page matters

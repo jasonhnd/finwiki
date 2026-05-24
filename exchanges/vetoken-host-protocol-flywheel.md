@@ -29,7 +29,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 1. L1/L2 主导方（运营公司或其投资部门）持有原生 DEX 的 ve 治理代币
 2. 用治理票引导 emission → 自家关键资产配对池（cbBTC/USDC、cbBTC/ETH 等）
 3. 排他性深度流动性吸引机构使用主导方的 wrapped 资产，扩大托管 AUM
-4. 托管费 / 储备金收益 / 借贷 spread **回流主业财报**
+4. 托管费 / 储备金收益 / 借贷 spread **回流主业财报**（同样的反超动力学见 [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX 反超 incumbent]] 和 [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]）
 5. 主业现金流再投入 ve 头寸或 emission 引导，飞轮自加速
 
 **典型量级（cbBTC × veAERO × Coinbase）**：

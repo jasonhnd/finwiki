@@ -91,9 +91,9 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 
 ## 与其他金融规划框架的关系
 
-- **目标本金**：FIRE 的答案问题 "How much"
+- **目标本金**：FIRE 的答案问题 "How much"（与 [[finance/multi-jurisdiction-identity-tax-leverage|跨境身份组合的税务杠杆]] 联动可降低有效目标本金）
 - **时间价值**：资金时间价值是反推的工具
-- **SWR**：Trinity Study 的实证基础
+- **SWR**：Trinity Study 的实证基础（在 [[finance/INDEX|finance index]] 主轴和 [[securities/INDEX|securities index]] 的资产配置框架中复用）
 
 ## 参考
 

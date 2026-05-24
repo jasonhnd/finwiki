@@ -46,6 +46,7 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 | Agency / brokerage | [[insurance/insurance-agency-and-brokerage-japan|Insurance agency and brokerage Japan]] | Distinguish insurer, agency, broker, bank counter, platform, and direct channels. |
 | Non-life tail risk | [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] | How earthquake / typhoon / flood risk affects non-life balance sheets. |
 | Direct non-life | [[insurance/saison-automobile-fire|Saison Automobile & Fire / SOMPO Direct]] | Direct auto / non-life distribution, especially SOMPO vs Sony comparison. |
+| Global solvency comparison | [[insurance/global-solvency-framework-comparison-matrix|Global solvency framework comparison matrix]] | Side-by-side comparison of Japan FSA ESR, IAIS ICS 2.0, EU Solvency II, US NAIC RBC across philosophy, capital tiers, valuation, discount rate, risk modules, internal model, disclosure, ICS convergence, and Japan insurer impact. |
 
 ## JapanFG Anchors
 

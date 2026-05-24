@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 2. Business role
 
 - グローバル online trading platform の日本法人として、多市場・多商品 access を提供する。
-- 国内 online brokers と比べ、外国株式・オプション・CFD / FX の横断性が強い。
+- 国内 online brokers と比べ、外国株式・オプション・CFD / FX の横断性が強い。主要 retail FX 国内競合は [[JapanFG/gmo-click-securities|GMOクリック証券]] と [[JapanFG/dmm-com-securities|DMM.com 証券]]、横並びの [[JapanFG/sbi-fx-trade|SBI FXトレード]] が定番ベンチマーク。
 - 外資系 FIEA operator として、foreign bank branch とは別に扱う。
 
 ## 3. Why standalone page matters

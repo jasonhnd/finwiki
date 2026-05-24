@@ -55,9 +55,9 @@ For FinWiki, JASDEC is the settlement / book-entry rail behind listed shares, co
 JASDEC is easy to miss because it is not consumer-facing. It becomes central when analyzing:
 
 - where broker-held shares are recorded;
-- how settlement risk is reduced;
-- how corporate actions flow through the system;
-- why digital securities and security-token markets need clear links to existing CSD infrastructure or a parallel settlement model.
+- how settlement risk is reduced via [[securities/japan-securities-clearing-corp|JSCC]] central counterparty layering;
+- how corporate actions flow through the system into venues such as [[securities/tokyo-stock-exchange|TSE]] and [[securities/osaka-digital-exchange|ODX]];
+- why digital securities and security-token markets need clear links to existing CSD infrastructure or a parallel settlement model (compare with the [[JapanFG/progmat|Progmat]] tokenization platform on the [[JapanFG/INDEX|JapanFG]] side).
 
 ## Counterpoints
 

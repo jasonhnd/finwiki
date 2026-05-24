@@ -68,7 +68,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - 口座数（FX 2ブランド合算）：667,900口座（2027年3月期 4月時点 = 2026-04 公表）
 - 預り資産（同）：133,611,648千円（≒1,336億円）（2026-04 公表）
 - 暗号資産 CFD 単独の口座数・取引高は公表なし。
-- 競合内ポジション：FX 中堅証券（みんなのFX は国内 FX 口座数トップ10圏内と推定されるが公式ランキング出典なし）。暗号資産デリバティブは同業13社のうち規模は中位と推定（公表なし）。
+- 競合内ポジション：FX 中堅証券（みんなのFX は国内 FX 口座数トップ10圏内と推定されるが公式ランキング出典なし）。暗号資産デリバティブは同業13社のうち規模は中位と推定（公表なし）。同業他社には [[exchanges/jp-exchange-monex|マネックス証券]]、[[exchanges/jp-exchange-sbi-securities|SBI 証券]]、[[exchanges/jp-exchange-bi-fxtrade|SBI FXトレード]] があり、上場企業の対比は [[exchanges/jp-listed-cex-related-companies-matrix|JP 上場 CEX 関連企業マトリクス]] 参照。
 
 ## 6. 沿革・重大事件
 

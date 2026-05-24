@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - Builds payment and account-like UX around household budgeting problems.
 - Uses prepaid / funds-transfer licensing to support shared spending and wallet flows.
-- A useful comparator against Kyash, Merpay, and bank app experiences.
+- A useful comparator against [[JapanFG/kyash|Kyash]], [[JapanFG/merpay|Merpay]], and bank app experiences such as [[JapanFG/paypay|PayPay]] super-app coverage.
 
 ## 3. Why this standalone page matters
 

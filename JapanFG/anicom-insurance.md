@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-Pet insurance is structurally different from auto / fire insurance: veterinary clinic networks, claim-frequency behavior, pet-owner acquisition, and medical-cost inflation matter more than motor accident frequency. アニコム損保 anchors this specialty line in JapanFG.
+Pet insurance is structurally different from auto / fire insurance: veterinary clinic networks, claim-frequency behavior, pet-owner acquisition, and medical-cost inflation matter more than motor accident frequency. アニコム損保 anchors this specialty line in [[JapanFG/INDEX|JapanFG]], with parent context at [[JapanFG/anicom-hd|アニコム HD]] and a specialty-line contrast against [[JapanFG/sony-insurance|ソニー損保]] direct auto.
 
 ## 3. Why this page matters
 

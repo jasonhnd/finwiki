@@ -80,7 +80,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 公表されている月間取引高・口座数: 非公表（単独の IR 開示なし）
 - GMO インターネットグループの連結決算に「暗号資産事業」として数字が含まれるが、GMO コイン単体の取引高は定期的に公表されていない
-- 業界ポジション: FSA 登録番号 第00006号（登録6社目）で業歴・規制遵守の面では上位層。スポット取引 + デリバティブ + 外為 FX の兼業体制はコインチェック・bitFlyer・SBI VC トレードとともに上位 tier に位置するとみられる（数字根拠なし・公表データ待ち）
+- 業界ポジション: FSA 登録番号 第00006号（登録6社目）で業歴・規制遵守の面では上位層。スポット取引 + デリバティブ + 外為 FX の兼業体制は [[exchanges/jp-exchange-coincheck|コインチェック]]・[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] とともに上位 tier に位置するとみられる（数字根拠なし・公表データ待ち）。ステーキング・レンディング業務の規制境界は [[exchanges/jp-cex-staking-lending-regulation|JP CEX ステーキング・レンディング規制]] 参照。
 - 顧客層: 主に個人小売投資家。法人口座・API 提供によりトレーダー・機関需要にも対応
 
 ## 6. 沿革・重大事件

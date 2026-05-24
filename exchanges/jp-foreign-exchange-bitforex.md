@@ -88,7 +88,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 2024 年 2 月以降、同社は実質的に運営停止状態にある。ウェブサイト・アプリへのアクセスは現在（2026-05 時点）も不可
 - 2024 年 7 月に一度声明を発表したものの、その後の継続的な情報開示はなく、実態は不明
-- FSA 無登録海外所在業者リストには引き続き掲載中（2026-05 時点）
+- FSA 無登録海外所在業者リストには引き続き掲載中（2026-05 時点、制度全体は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]] 参照）。Exit scam パターンの調査手法は [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] で展開、グローバル破綻比較は [[exchanges/global-crypto-exchange-bankruptcy-comparison|グローバル暗号資産取引所破綻比較]] 参照
 - 日本居住者の残高・資産回収の見通しは公式には公表されていない。国内ニュースメディアでの続報は限定的
 
 ## 8. 関連人物

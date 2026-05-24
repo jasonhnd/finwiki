@@ -80,7 +80,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - **取引高・口座数**: 非公表
 - **顧客層**: 主にリテール（個人）中心。法人向けプレミアサービスで機関投資家・法人層にも対応開始
-- **競合内ポジション**: JVCEA 26社のうちの中堅。主要マーケットメーカー（bitFlyer・Coincheck・SBI VC Trade 等）と比べると規模は小さいとみられるが、取扱銘柄数は国内上位クラス。口座数・取引高の公表なし
+- **競合内ポジション**: JVCEA 26社のうちの中堅。主要マーケットメーカー（[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] 等）と比べると規模は小さいとみられるが、取扱銘柄数は国内上位クラス。口座数・取引高の公表なし。VASP 親会社の地理分布は [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]] 参照。
 
 ## 6. 沿革・重大事件
 

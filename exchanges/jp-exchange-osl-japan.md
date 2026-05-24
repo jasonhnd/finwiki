@@ -72,7 +72,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - 公表されている取引高・口座数は確認できず（公表なし）。
 - 取扱銘柄 5 種・販売所のみという構成から、リテール大量獲得より法人・大口顧客に特化したニッチポジションと位置付けられる。
 - OTC Prime サービスでは「2018 年の設立以来、グループ累計取引高 1,000 億米ドル超」と親会社グループとしての規模を訴求している（日本子会社単独の数字は公表なし）。
-- 競合内ポジション: niche（機関・大口特化）。国内 spot リテール大手（Bitflyer, Coincheck, GMO Coin 等）とは市場セグメントが異なる。
+- 競合内ポジション: niche（機関・大口特化）。国内 spot リテール大手（[[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]] 等）とは市場セグメントが異なる（OTC レイヤーは [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC レイヤー]] および [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP ライセンス]] が親会社の本拠地ライセンス）。
 
 ## 6. 沿革・重大事件
 

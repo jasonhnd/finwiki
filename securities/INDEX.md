@@ -68,6 +68,7 @@ This domain routes securities-market and household-investment pages. Listed fina
 | FIEA operator registry | [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] | FSA 1,945-row registry-control route for financial instruments business operators. |
 | Self-regulation | [[JapanFG/jsda|JSDA]] | Securities self-regulatory body route. |
 | Investment-banking comparison | [[finance/japan-ib-league-table|Japan IB league table]] | How to read underwriting / M&A adviser rankings. |
+| Asset manager landscape | [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] | Four-lane comparison (megabank-affiliated / insurance-affiliated / independent-online / foreign-affiliated) across AUM, distribution, product mix, NISA / iDeCo share, ETF, ESG, in-house vs sub-advisory, recent M&A. |
 
 ## JapanFG Anchors
 

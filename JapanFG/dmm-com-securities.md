@@ -40,7 +40,7 @@ DMM.com証券は DMM グループの securities / FX / CFD operator。FSA 金融
 
 - DMM 株、DMM FX、CFD など retail trading services を提供する。
 - FIEA operator としての registration と、crypto-asset operator としての registration が交差するため、namespace 分離が重要。
-- retail FX / CFD 市場で GMOクリック証券、SBI FXトレード、トレイダーズ証券などと比較対象になる。
+- retail FX / CFD 市場で [[JapanFG/gmo-click-securities|GMOクリック証券]]、[[JapanFG/sbi-fx-trade|SBI FXトレード]]、[[JapanFG/traders-securities|トレイダーズ証券]]、[[JapanFG/saxo-bank-securities|サクソバンク証券]]などと比較対象になる。
 
 ## 3. Why standalone page matters
 

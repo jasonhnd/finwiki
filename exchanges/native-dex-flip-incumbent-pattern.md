@@ -26,7 +26,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 **核心机制**：
 
-1. **ve(3,3) emission 引导**：Aerodrome 用 Velodrome (v2) 架构，veAERO 投票决定 emission 流向
+1. **ve(3,3) emission 引导**：Aerodrome 用 Velodrome (v2) 架构，veAERO 投票决定 emission 流向（基础机制见 [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]）
 2. **L2 主导方持仓**：Coinbase Ventures 持显著 veAERO，可定向引导 emission
 3. **关键资产护城河**：cbBTC / cbETH 等只在 Base 原生的 wrapped 资产强化"必须在 Aerodrome 交易"的诉求
 4. **稳定币基础对**：USDC 主导池子集中在 Aerodrome（与 Coinbase USDC 关系协同）
@@ -55,7 +55,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - Polygon：QuickSwap 历史尝试但失败（缺主导方持仓）
 - 未来 Arc：Curve fork + Circle Ventures 持仓 + USDC 主场，**复制可能性高**
 - 未来 Tempo：可能孵化 Stripe + Paradigm 联合背书 DEX
-- 任何 L1/L2 主导方愿意持 ve 头寸的链 + ve(3,3) 类 DEX 组合
+- 任何 L1/L2 主导方愿意持 ve 头寸的链 + ve(3,3) 类 DEX 组合（参见 [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]] と [[exchanges/amm-design-evolution|AMM design evolution]] 的设计基线）
 
 **反例 / 边界**：
 

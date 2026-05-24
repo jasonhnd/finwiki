@@ -102,7 +102,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - 親会社（Coinbase Global）の再参入・事業再開に関する公開アナウンスなし（2026-05 時点）
 - 本店住所の変更（2026-02-03）は法人維持のための最低限の法的対応とみられる
 
-**業界的位置付け**：同社の事例は Kraken Japan（2023-01 撤退発表）と並び、「外資系取引所の日本市場撤退パターン」として言及されることが多い。撤退理由として当時指摘されたのは以下の3点：
+**業界的位置付け**：同社の事例は Kraken Japan（2023-01 撤退発表）と並び、「外資系取引所の日本市場撤退パターン」として言及されることが多い（背景は [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]] と [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]] 参照、対照例として継続する外資系 [[exchanges/jp-exchange-bittrade|BitTrade]] / [[exchanges/jp-exchange-binance-japan|Binance Japan]]）。撤退理由として当時指摘されたのは以下の3点：
 
 1. 規制環境の厳格さ（KYC・AML 対応コスト、FSA 審査の複雑さ）
 2. 2022年の暗号資産市場低迷と顧客取得コスト高

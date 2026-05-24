@@ -38,8 +38,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[fintech/ja
 ## 2. Business role
 
 - Provides tokenization platform rails for security tokens, utility tokens, and stablecoin infrastructure.
-- Connects MUFG trust-bank know-how, other megabank participants, NTT Data, JPX, and Datachain-style interoperability work.
-- Acts as the institutional stablecoin / tokenized-asset platform counterpart to JPYC's funds-transfer-issued model.
+- Connects [[JapanFG/mufg|MUFG]] trust-bank know-how, other megabank participants, NTT Data, [[JapanFG/japan-exchange-group|JPX]], and Datachain-style interoperability work.
+- Acts as the institutional stablecoin / tokenized-asset platform counterpart to [[exchanges/jp-exchange-jpyc|JPYC]]'s funds-transfer-issued model, distinct from non-bank exchange surfaces tracked in [[exchanges/INDEX|exchanges index]].
 
 ## 3. Why this standalone page matters
 

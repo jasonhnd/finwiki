@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-Japan's residential earthquake insurance is not a normal private-only catastrophe product. Primary insurers cede earthquake risk into a public-private reinsurance structure, and 日本地震再保険 sits at the operational center of that scheme.
+Japan's residential earthquake insurance is not a normal private-only catastrophe product. Primary insurers including [[JapanFG/tokio-marine-nichido-fire|東京海上日動]], [[JapanFG/mitsui-sumitomo-insurance|三井住友海上]], and [[JapanFG/sompo-japan-insurance|損保ジャパン]] cede earthquake risk into a public-private reinsurance structure described at [[insurance/natcat-reinsurance-japan|natcat reinsurance Japan]], and 日本地震再保険 sits at the operational center of that scheme.
 
 ## 3. Why this page matters
 

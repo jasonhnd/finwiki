@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-但馬銀行は、兵庫県北部を中心に retail deposits, SME finance, local tourism / agriculture finance, and regional relationship banking を担う regional bank。Kansai major-bank market から距離のある local-community banking anchor として整理する。
+但馬銀行は、兵庫県北部を中心に retail deposits, SME finance, local tourism / agriculture finance, and regional relationship banking を担う regional bank。[[JapanFG/kansai-mirai-bank|関西みらい銀行]] や [[JapanFG/minato-bank|みなと銀行]] とは異なる、Kansai major-bank market から距離のある local-community banking anchor として整理する（[[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] 経由で系列再編動向を参照可能）。
 
 ## 3. Why this page matters
 

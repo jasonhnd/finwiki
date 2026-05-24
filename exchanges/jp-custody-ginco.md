@@ -93,7 +93,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - **国内 B2B 暗号資産ウォレット**: 2021年8月に「暗号資産交換業者向け業務用ウォレット Ginco Enterprise Wallet が国内シェアトップ」と自社発表。具体的な数値（社数・割合）は公表なし。
 - **顧客層**: 国内 FSA 登録暗号資産交換業者、証券会社（みずほ証券・大和証券グループ等）、信託銀行（三菱UFJ信託銀行等）
-- **競合**: 国際的には Fireblocks（米国）が日本市場に参入済み。Komainu（Nomura系）は機関向け custody。国内同業インフラとしては Liquid 系統のシステムベンダー等があるが、Ginco は「全インハウス開発」と「国内最多対応チェーン」を差別化軸とする。
+- **競合**: 国際的には [[exchanges/jp-custody-fireblocks-japan|Fireblocks（米国）]]が日本市場に参入済み。[[exchanges/jp-custody-komainu|Komainu（Nomura系）]]は機関向け custody。国内同業インフラとしては Liquid 系統のシステムベンダー等があるが、Ginco は「全インハウス開発」と「国内最多対応チェーン」を差別化軸とする。同社のポジションは [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] で詳述。
 - **東洋経済新報社「すごいベンチャー100」**: 2023年9月選出
 
 ## 6. 沿革・重大事件

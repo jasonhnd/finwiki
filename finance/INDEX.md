@@ -48,6 +48,7 @@ This domain keeps public finance reference pages for capital markets, M&A, acqui
 | Activism / engagement | [[finance/japan-activist-investor-playbook|Japan activist investor playbook]] | Governance reform, cost-of-capital pressure, large-shareholding, shareholder proposal, AGM, and TOB-adjacent route. |
 | Tax jurisdiction comparison | [[finance/multi-jurisdiction-identity-tax-leverage|Multi-jurisdiction identity tax leverage]] | Public comparison of tax-residency and capital-gains regimes. |
 | Retirement math | [[finance/fire-math-reverse-derivation|FIRE math reverse derivation]] | Generic safe-withdrawal and capital requirement math. |
+| Listed FG universe | [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] | Reference matrix across megabank / trust / regional FGs / net banks / insurers / securities / card / consumer-finance / leasing / telco-finance / fintech listed groups (NOT investment advice — reader-verifiable). |
 
 ## JapanFG Anchors
 

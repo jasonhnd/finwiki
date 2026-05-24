@@ -74,7 +74,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **取引高**: 公表なし（グローバル Binance の取引高統計には日本法人分が別掲されていない）
 - **口座数**: 公表なし
 - **顧客層**: 主にリテール（個人投資家）向け
-- **競合内ポジション**: 取扱銘柄数では国内最多クラス。口座数・取引高では bitFlyer / GMOコイン / Coincheck 等の老舗と比較した公表数値なし。グローバルブランド知名度を強みとするが国内シェアのデータは未公表。
+- **競合内ポジション**: 取扱銘柄数では国内最多クラス。口座数・取引高では [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-gmo-coin|GMOコイン]] / [[exchanges/jp-exchange-coincheck|Coincheck]] 等の老舗と比較した公表数値なし。グローバルブランド知名度を強みとするが国内シェアのデータは未公表（VASP 親会社別の対比は [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]]）。
 
 ## 6. 沿革・重大事件
 

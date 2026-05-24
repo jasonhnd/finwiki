@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-セコム損保 matters because insurance can be bundled with prevention, security, monitoring, and response services. That makes it different from pure claims-transfer models and useful for studying risk prevention as a financial-service edge.
+セコム損保 matters because insurance can be bundled with prevention, security, monitoring, and response services. That makes it different from pure claims-transfer models and useful for studying risk prevention as a financial-service edge. Peer specialty non-life insurers include [[JapanFG/anicom-insurance|アニコム損保]] (pet) and direct-channel [[JapanFG/sompo-direct|SOMPO ダイレクト]], while [[JapanFG/sompo-japan-insurance|損保ジャパン]] and [[JapanFG/tokio-marine-nichido-fire|東京海上日動]] anchor the mainstream non-life comparison.
 
 ## 3. Why this page matters
 

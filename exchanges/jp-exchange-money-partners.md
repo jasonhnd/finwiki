@@ -93,7 +93,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2025-12 | 本社を同タワー 33F → 16F に移転 |
 | 2026-05 | 役員体制変更（詳細は公表文書参照） |
 
-FSA 登録番号「第00001号」は、2017年9月29日の暗号資産交換業制度施行時に最初に登録を完了した事業者であることを示す。
+FSA 登録番号「第00001号」は、2017年9月29日の暗号資産交換業制度施行時に最初に登録を完了した事業者であることを示す（同時期登録組には [[exchanges/jp-exchange-bitflyer|bitFlyer]] #00003、[[exchanges/jp-exchange-bitbank|bitbank]] #00004、[[exchanges/jp-exchange-gmo-coin|GMOコイン]] #00006、[[exchanges/jp-exchange-bittrade|BitTrade]] #00007 等が並ぶ）。
 
 ## 7. 戦略動向
 

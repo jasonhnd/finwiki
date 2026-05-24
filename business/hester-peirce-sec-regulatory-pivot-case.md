@@ -30,9 +30,9 @@ This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read i
 
 ## Mechanism / How it works
 
-监管转向三联触发机制:**1) 个人意识形态长期一致性**(Peirce 2018-2025 立场未变,被任命前已 publicly committed)→ 任后行为可预测 + 无 reputation 风险;**2) 制度授权**(任 Crypto Task Force 主席)→ 由 Commissioner 个人意见上升为 SEC 政策路线;**3) 三角共振**(行政 = Trump / Atkins,立法 = Lummis / GENIUS Act,行业 = Coinbase / Circle 解禁)→ 任何单一环节卡住,转向都不会发生。
+监管转向三联触发机制:**1) 个人意识形态长期一致性**(Peirce 2018-2025 立场未变,被任命前已 publicly committed)→ 任后行为可预测 + 无 reputation 风险;**2) 制度授权**(任 Crypto Task Force 主席)→ 由 Commissioner 个人意见上升为 SEC 政策路线;**3) 三角共振**(行政 = Trump / Atkins,立法 = Lummis / GENIUS Act,行业 = Coinbase / Circle 解禁)→ 任何单一环节卡住,转向都不会发生(对比 [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon 反加密转向]] 的镜像案例)。
 
-诊断模板:识别"下一个监管转向"的关键 = 找出该机构内长期持异见的官员(任职 5+ 年 + 公开 dissent record + 无大公司经济利益) → 等待行政侧任命 + 立法侧法案 → 三联到位时,该官员任期内 6-12 个月内会出现政策大幅转向。Peirce 案例 = 完整三联,撤诉潮 2025-Q1 集中爆发。
+诊断模板:识别"下一个监管转向"的关键 = 找出该机构内长期持异见的官员(任职 5+ 年 + 公开 dissent record + 无大公司经济利益) → 等待行政侧任命 + 立法侧法案 → 三联到位时,该官员任期内 6-12 个月内会出现政策大幅转向。Peirce 案例 = 完整三联,撤诉潮 2025-Q1 集中爆发(参见 [[business/INDEX|business 案例库]] 和 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist 强制条款]] 的立法侧落地)。
 
 ## Origin & evolution
 

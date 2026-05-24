@@ -38,7 +38,7 @@ pring は個人間送金アプリとして知られる funds-transfer fintech op
 
 - Represents the P2P wallet wave that preceded large platform wallets.
 - Shows how bank-account withdrawal and ATM cash-out can be layered onto a money-transfer app.
-- Useful as a historical and registry-active comparator for Kyash, Merpay, and PayPay.
+- Useful as a historical and registry-active comparator for [[JapanFG/kyash|Kyash]], [[JapanFG/merpay|Merpay]], and [[JapanFG/paypay|PayPay]].
 
 ## 3. Why this standalone page matters
 
