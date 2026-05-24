@@ -31,7 +31,7 @@ sources:
 This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/bytecode-forensic-three-tier-verify|bytecode forensic]] for peer context and [[systems/INDEX|systems index]] for the broader infrastructure boundary.
 
 > [!info] TL;DR
-> 当门面团队 (LinkedIn 公司页 / 官网 about / PR 宣传) 与真实写代码的人不一致,用 6 个独立指纹源拼合 -> 单点身份链 -> 锁定"门面 vs 真团队"分离结构.
+> 当门面团队 (LinkedIn 公司页 / 官网 about / PR 宣传) 与真实写代码的人不一致,用 6 个独立指纹源拼合 -> 单点身份链 -> 锁定"门面 vs 真团队"分离结构. 与 [[exchanges/global-crypto-forensics-vendor-layer|商用链上 forensics vendor]] 的 cluster 标签结合可形成完整 attribution.
 
 ## 6 个独立指纹源
 
@@ -45,8 +45,8 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/bytecode-
 ## 拼合 logic
 
 - **门面 vs 真团队判定**: source 4 (LinkedIn 名字) 不等于 source 5 (commit author name) + source 3 (email 偏好) -> 二元分离
-- **Sock-puppet 判定**: source 2 (注册时间集中度) + source 5 (邮箱重叠跨"独立"账号) -> 同一人多马甲
-- **个体身份锚定**: source 1 (TLS) 交集 source 6 (CLI path) -> 单点 dev 身份
+- **Sock-puppet 判定**: source 2 (注册时间集中度) + source 5 (邮箱重叠跨"独立"账号) -> 同一人多马甲 — 大型交易所事件如 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] 的归因正是依赖此类多账号 cluster 重叠分析
+- **个体身份锚定**: source 1 (TLS) 交集 source 6 (CLI path) -> 单点 dev 身份 — 此层结果可对接 [[fintech/chain-level-ofac-freeze-precedent|链上 OFAC freeze precedent]] 的制裁名单匹配流程
 
 ## Anti-pattern
 
@@ -73,3 +73,4 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/bytecode-
 ## Provenance
 
 - case study (vaporware audit): 多个 GitHub 账号短时间内集中注册 + LinkedIn 公司页人名语种 vs commit author name 语种不一致 + Whitepaper PDF metadata author + CLI path 残留 + 自定义域 email · 多个 anchor 交叉印证锁定门面/真团队分离
+- 同类技术应用于事后归因: 参见 [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack 归因分析]] 与 [[exchanges/jp-vasp-incident-history|JP VASP incident history]] 中的攻击者追踪线索

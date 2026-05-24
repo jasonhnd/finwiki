@@ -47,10 +47,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 **Stripe 五层 collapse 架构**:
 
 - **L5 应用**:Checkout · Connect · 5M+ 商家 · 是 Stripe 的现有大本营
-- **L4 钱包**:Privy · 嵌入式默认 · 让 L5 商家无感拥有 crypto 入口
+- **L4 钱包**:[[agent-economy/privy-embedded-wallet-overview|Privy]] · 嵌入式默认 · 让 L5 商家无感拥有 crypto 入口
 - **L3 stablecoin**:Bridge · USDB · 让 L4 钱包持有 + 转账有载体
 - **L2 链**:Tempo · 让 L3 stablecoin 跑得快 + 合规
-- **L1 agent 协议**:AP2 / x402 · 让 agent 自主调度 L2-L5 全栈
+- **L1 agent 协议**:[[agent-economy/ap2-overview|AP2]] / [[agent-economy/x402-http-payment-overview|x402]] · 让 agent 自主调度 L2-L5 全栈
 
 Privy 在 L4 是 Trojan horse —— 因为 L4 是用户唯一直接接触层 · 控制 L4 = 控制 user identity + spending pattern + agent permission · 等同于 80 年代 Microsoft 控制 Windows OS。
 
@@ -60,7 +60,7 @@ Privy 在 L4 是 Trojan horse —— 因为 L4 是用户唯一直接接触层 ·
 
 ## Counterpoints
 
-主张"五层 collapse 不可行":监管 / 反垄断必然介入(2024 Apple ↔ Google 案例)· 单一公司同时控制 L1-L5 = 必须拆分。Privy 中立性下降后 · 非 Stripe 商家可能转向 CDP / Magic / Web3Auth · L4 实际是双寡头不是单一。Tempo 是否能撑住 institutional 客户(Visa / SC)仍存疑 · 若失败则 L2 失守。
+主张"五层 collapse 不可行":监管 / 反垄断必然介入(2024 Apple ↔ Google 案例)· 单一公司同时控制 L1-L5 = 必须拆分。Privy 中立性下降后 · 非 Stripe 商家可能转向 CDP / Magic / Web3Auth · L4 实际是双寡头不是单一,这点与 [[agent-economy/embedded-wallet-network-effects-moat|嵌入式钱包网络效应护城河]] 描述的多寡头收敛趋势一致。Tempo 是否能撑住 institutional 客户(Visa / SC)仍存疑 · 若失败则 L2 失守。
 
 ## Open questions
 

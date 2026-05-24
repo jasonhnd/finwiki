@@ -42,7 +42,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 **Tempo / Arc 的选择逻辑**:作为新 L1 · 不能等 LayerZero 或 CCIP 团队批准时间表。Hyperlane permissionless 部署让 Tempo/Arc 上线即接入 EVM 流动性。但同时他们可能并行集成 LayerZero / CCIP 以触达更多 dApp · 三足鼎立。
 
-**非 EVM 流动性的关键瓶颈**:Cosmos / Solana / Move 等非 EVM 链接入 EVM 生态(USDC / USDT 流动性主要在 EVM)· LayerZero / CCIP 推进缓慢——Hyperlane 成为事实标准。这让 Hyperlane 在长尾市场有先发优势。
+**非 EVM 流动性的关键瓶颈**:Cosmos / Solana / Move 等非 EVM 链接入 EVM 生态(USDC / USDT 流动性主要在 EVM)· LayerZero / CCIP 推进缓慢——Hyperlane 成为事实标准(对比 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 机构对照]] 在金融机构场景的渗透)。这让 Hyperlane 在长尾市场有先发优势。
 
 ## Origin & evolution
 
@@ -63,10 +63,10 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Open questions
 
-- 三大协议 5 年市场份额预测?
+- 三大协议 5 年市场份额预测?(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 的并表评估)
 - Hyperlane 是否会建立"机构信任锚"(类似 Chainlink RMN)?
 - ZK ISM(zero-knowledge 验证)何时主流化?
-- 跨协议 messaging(LayerZero <-> Hyperlane)是否会出现?
+- 跨协议 messaging(LayerZero <-> Hyperlane)是否会出现?(在 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 场景中三家如何分摊流量也是验证窗口)
 
 ## Related
 <!-- wiki-links:managed -->

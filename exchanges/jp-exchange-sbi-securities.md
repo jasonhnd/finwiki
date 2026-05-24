@@ -142,6 +142,9 @@ SBI証券は証券・FX・商品先物を主軸とし、暗号資産自体の現
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般論
+- [[JapanFG/sbi-securities]] — JapanFG SBI 証券プロファイル
+- [[exchanges/btc-spot-etf-japan-impact]] — BTC spot ETF 日本 impact
+- [[exchanges/jp-vasp-derivative-license-system]] — JP VASP デリバティブライセンス制度
 
 ## Sources
 

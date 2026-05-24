@@ -64,4 +64,10 @@ JVCEA 取扱方針規則に基づく審査項目:
 - **KAIA** — Finschia 後継チェーン、[[exchanges/jp-exchange-line-xenesis]] にて取扱開始
 - **NIDT** — Nippon Idol Token、[[exchanges/jp-exchange-backseat-exchange]] にて発行・流通
 
+## 関連
+
+- [[exchanges/jvcea-whitelist-listing-timeline]] — JVCEA whitelist 上場銘柄 timeline
+- [[exchanges/jp-ieo-system-and-cases]] — JP IEO 制度・事例
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+
 来源: JVCEA 規則公開 (jvcea.or.jp/about/regulations/), 各 VASP 取扱銘柄一覧公告, 日経 / ITmedia 関連報道 (2025-2026)

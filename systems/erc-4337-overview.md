@@ -43,7 +43,7 @@ ERC-4337 引入新的 **alternative transaction pool**:
 
 ## Origin & evolution
 
-ERC-4337 由 Vitalik Buterin、Yoav Weiss、Kristof Gazso 等 2021 提出 · 初衷是绕过"修改 Ethereum 协议层"的高门槛(此前 EIP-2938、EIP-3074 都未能进主网)。2023-03 主网激活后 · 进展超预期——Privy / Coinbase CDP / Alchemy 等 embedded wallet 栈快速集成。
+ERC-4337 由 Vitalik Buterin、Yoav Weiss、Kristof Gazso 等 2021 提出 · 初衷是绕过"修改 Ethereum 协议层"的高门槛(此前 EIP-2938、EIP-3074 都未能进主网)。2023-03 主网激活后 · 进展超预期——[[agent-economy/privy-embedded-wallet-overview|Privy]] / Coinbase CDP / Alchemy 等 embedded wallet 栈快速集成(对照 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。
 
 2026 年 v0.7 升级:简化 mempool 规则 · 降低 gas 开销 20-30% · Bundler 经济模型优化。同期 ERC-7702(Vitalik 2024-05 起草)反向解决"现有 EOA 升级 SCW"问题——两者形成互补双轨。
 
@@ -57,7 +57,7 @@ ERC-4337 由 Vitalik Buterin、Yoav Weiss、Kristof Gazso 等 2021 提出 · 初
 
 - v0.7 之后下一代 4337(v0.8/v1.0)的方向?
 - Bundler 去中心化(stake-based、PBS 整合)进展?
-- 与 7702 的长期分工是否会稳定?
+- 与 7702 的长期分工是否会稳定?(参见 [[agent-economy/erc-7715-overview|ERC-7715 agent payment stack]] 等基于 AA 的高阶协议演化)
 - 非 EVM 链(Solana / Move / Cosmos)的类 4337 标准发展?
 
 ## Related

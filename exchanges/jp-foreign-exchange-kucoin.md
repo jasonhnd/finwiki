@@ -102,6 +102,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-foreign-exchange-bybit]] — 同期間に警告書を受けた海外無登録業者（Bybit）
 - [[exchanges/jp-foreign-exchange-mexc]] — 同 MEXC Global
 - [[exchanges/jp-foreign-exchange-bitget]] — 同 Bitget
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/global-crypto-exchange-bankruptcy-comparison]] — グローバル暗号資産取引所破綻比較
 
 ## Sources
 

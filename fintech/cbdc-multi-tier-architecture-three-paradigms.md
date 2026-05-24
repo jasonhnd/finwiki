@@ -38,7 +38,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 央行(PBoC)→ 运营机构(6 商行)→ 用户钱包
 - 账户 + 价值代币混合,可控匿名(小额匿名,大额可追溯)
 - 完整保留商业银行中介,不动摇 4 大行体系
-- 跨境通过 mBridge,与港币 / 泰铢 / 迪拉姆互联
+- 跨境通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]],与港币 / 泰铢 / 迪拉姆互联
 
 **巴西 DREX · token-based 多层**:
 - BCB(巴西央行)→ 商业银行(发代币化存款)→ 用户
@@ -54,7 +54,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-2014 中国 PBoC 启动 e-CNY → 全球最早 CBDC 研究项目。2020.04 e-CNY 首批 4 城试点,2022.04 扩至 23 城。2023 巴西 DREX(原 Real Digital)启动 → 选 Hyperledger Besu 是从"链原生 + EVM 生态"角度的关键决定。2023 ECB 完成数字欧元 Investigation Phase,2024 Preparation Phase,2025.06 立法启动 → 持有上限是设计协商的政治焦点。三个项目分别代表中国(国家主导)、新兴市场(银行赋能)、欧元区(谨慎保护中介)三种政治路径。
+2014 中国 PBoC 启动 e-CNY → 全球最早 CBDC 研究项目。2020.04 e-CNY 首批 4 城试点,2022.04 扩至 23 城。2023 巴西 DREX(原 Real Digital)启动 → 选 Hyperledger Besu 是从"链原生 + EVM 生态"角度的关键决定。2023 ECB 完成数字欧元 Investigation Phase,2024 Preparation Phase,2025.06 立法启动 → 持有上限是设计协商的政治焦点。三个项目分别代表中国(国家主导)、新兴市场(银行赋能)、欧元区(谨慎保护中介)三种政治路径。日本侧 DC-JPY 见 [[fintech/jp-stablecoin-dcjpy|DC-JPY 概览]]。
 
 ## Counterpoints
 

@@ -123,6 +123,9 @@ BTC · ETH · XRP · LTC · BCH · XLM · MATIC · LINK · MKR · AVAX · CHZ ·
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
+- [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]] — DMM Bitcoin Lazarus ハック詳細分析
+- [[security/forensic-identity-anchor-chain]] — forensic identity anchor chain
+- [[exchanges/jp-vasp-incident-history]] — JP VASP インシデント史
 
 ## Sources
 

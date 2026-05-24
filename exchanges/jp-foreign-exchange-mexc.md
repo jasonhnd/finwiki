@@ -115,6 +115,9 @@ MEXC はアルトコイン上場数の多さでグローバル有数の取引所
 - [[exchanges/jp-foreign-exchange-bybit]] — 同じく FSA 警告複数回受領の海外取引所
 - [[exchanges/jp-foreign-exchange-kucoin]] — 同様の無登録海外取引所
 - [[exchanges/jp-foreign-exchange-bitget]] — 同じく 2023・2024 年に FSA 警告
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/jp-vasp-regulatory-timeline]] — JP VASP 規制タイムライン
 
 ## Sources
 

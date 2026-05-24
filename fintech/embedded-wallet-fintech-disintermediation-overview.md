@@ -49,11 +49,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Recovery: 多 share(device + cloud + server)分布
 - 跨链: Hyperlane / CCIP 后台调度 · 用户见单一余额
 
-**协议基础**:ERC-4337(AA SCW)+ ERC-7702(EOA → SCW 临时升级)+ ERC-7715(granular permissions)三件套合起来 = 用户无感 + 无缝升级 + 细粒度授权。
+**协议基础**:[[systems/erc-4337-overview|ERC-4337]](AA SCW)+ [[systems/erc-7702-overview|ERC-7702]](EOA → SCW 临时升级)+ [[agent-economy/erc-7715-overview|ERC-7715]](granular permissions)三件套合起来 = 用户无感 + 无缝升级 + 细粒度授权。
 
 ## Origin & evolution
 
-2018-2022 = MetaMask 主导 · 用户主动安装 · seed phrase 自管 · crypto-native 边界明确。2023-2024 = Privy / CDP / Magic 切 b2b SaaS · 客户从 dApp 扩到 fintech。2025.06 = Stripe 同时收购 Privy + Bridge · 标志 fintech 正式纳入 crypto 入口。2025.07 = AWS Bedrock AgentCore Payments 选 Privy 作为 default(详见 embedded-wallet-network-effects)· 嵌入式钱包从 crypto 工具升级为通用支付基础设施。
+2018-2022 = MetaMask 主导 · 用户主动安装 · seed phrase 自管 · crypto-native 边界明确。2023-2024 = Privy / CDP / Magic 切 b2b SaaS · 客户从 dApp 扩到 fintech。2025.06 = Stripe 同时收购 Privy + Bridge · 标志 fintech 正式纳入 crypto 入口。2025.07 = AWS Bedrock AgentCore Payments 选 Privy 作为 default(详见 [[agent-economy/privy-aws-agentcore-default-wallet|Privy × AgentCore]])· 嵌入式钱包从 crypto 工具升级为通用支付基础设施。
 
 ## Counterpoints
 

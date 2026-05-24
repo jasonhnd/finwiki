@@ -119,6 +119,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/jp-vasp-aml-travel-rule-implementation]] — JP VASP AML / travel rule（ATM・インバウンド）
+- [[exchanges/jp-crypto-merchant-payment-lightning]] — JP crypto merchant payment（現金接点）
+- [[exchanges/jp-exchange-coinhub]] — 同業 COINHUB（ATM 業者）
 
 ## Sources
 

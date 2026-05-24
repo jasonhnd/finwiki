@@ -31,7 +31,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 **RMN 双层验证**:CCIP 把消息处理分两个独立网络 · transaction network 处理基本消息 · risk management network 独立验证可疑交易(异常金额 / 异常路径 / 黑名单)。两层都通过才放行 → 给 institutional 客户提供"风控可解释"。
 
-**TradFi → DeFi 数据桥意义**:SWIFT 是 50 年银行间消息标准 · DTCC 是美国证券清算中心。这两家选 Chainlink 不是"测试 web3",是把 TradFi 数据流量正式接入链上 · 让 BUIDL / Smart NAV / Onyx 等 RWA 产品可以在 chain 之间流动而保持监管合规。详见 [[fintech/ai-payment-two-tracks|AI 支付两条轨道]] + 跨链 + RWA 三个故事线交汇。
+**TradFi → DeFi 数据桥意义**:SWIFT 是 50 年银行间消息标准 · DTCC 是美国证券清算中心。这两家选 Chainlink 不是"测试 web3",是把 TradFi 数据流量正式接入链上 · 让 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / Smart NAV / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等 RWA 产品可以在 chain 之间流动而保持监管合规。详见 [[fintech/ai-payment-two-tracks|AI 支付两条轨道]] + 跨链 + RWA 三个故事线交汇。
 
 **Tempo 选 CCIP 逻辑**:Tempo 客户 = Visa / Standard Chartered / Stripe = 受监管金融机构 · 不能用 Wormhole 19 多签 (Guardian Council 不是 fiduciary)。CCIP 是当前 唯一 institutional grade 跨链层。
 
@@ -45,7 +45,7 @@ LayerZero / Wormhole 主张 CCIP 的 "institutional" 是营销 · RMN 仍是 Cha
 
 ## Open questions
 
-CCIP 是否能扩到 50+ chains 而保持 risk grade?DTCC Smart NAV 2026 production volume 多大?J.P. Morgan Kinexys 是否会切换至自有 bridge(基于 Onyx)?SWIFT 11000+ 银行实际有多少接入 Chainlink messaging?CCIP 是否会被 Tempo / Arc 自建桥架空(后者已有 institutional 客户)?
+CCIP 是否能扩到 50+ chains 而保持 risk grade?DTCC Smart NAV 2026 production volume 多大?[[fintech/jpmorgan-jpmd-coin|J.P. Morgan Kinexys / JPMD]] 是否会切换至自有 bridge(基于 Onyx)?SWIFT 11000+ 银行实际有多少接入 Chainlink messaging?CCIP 是否会被 Tempo / Arc 自建桥架空(后者已有 institutional 客户)?
 
 ## Related
 <!-- wiki-links:managed -->

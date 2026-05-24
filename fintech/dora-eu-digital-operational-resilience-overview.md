@@ -39,12 +39,12 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - **ICT Risk Management (Art. 5-16)**:治理框架 · CEO / Board 直接责任 · 资产 inventory + 风险评估 · Business Continuity Plan + Disaster Recovery
 - **ICT-Related Incident Reporting (Art. 17-23)**:Major incident 4 小时初报 + 72 小时详报 · 欧盟通用模板(ESAs 2024-07 RTS)
 - **Digital Operational Resilience Testing (Art. 24-27)**:每 3 年 Threat-Led Penetration Testing (TLPT) · 基于 TIBER-EU 框架 · 跨境协同测试
-- **ICT Third-Party Risk (Art. 28-44)**:Critical Third-Party Provider (CTPP) 由 ESAs 直接监管 · 涵盖 cloud / blockchain infra / wallet provider
+- **ICT Third-Party Risk (Art. 28-44)**:Critical Third-Party Provider (CTPP) 由 ESAs 直接监管 · 涵盖 cloud / blockchain infra / wallet provider — 详见 [[fintech/dora-eu-digital-operational-resilience-ctpp|DORA CTPP 第三方风险]]
 - **Information Sharing (Art. 45)**:自愿威胁情报共享 · 类比 US FS-ISAC
 
 ## Origin & evolution
 
-DORA 2020-09 EU Commission Digital Finance Package 一部分提案,与 MiCA 同期推进。2022-12 通过,2025-01 全部生效。ESAs(EBA + ESMA + EIOPA)2024-07 发布 9 套 Level 2 RTS/ITS,落地 9 个细分领域。**美国对应**:FFIEC IT Handbook · NYDFS Part 500 · OCC Heightened Standards · MRA 维度 USA-EU MRA 必须含 DORA-equivalent 条款。
+DORA 2020-09 EU Commission Digital Finance Package 一部分提案,与 [[fintech/mica-overview|MiCA]] 同期推进。2022-12 通过,2025-01 全部生效。ESAs(EBA + ESMA + EIOPA)2024-07 发布 9 套 Level 2 RTS/ITS,落地 9 个细分领域。**美国对应**:FFIEC IT Handbook · NYDFS Part 500 · OCC Heightened Standards · MRA 维度 USA-EU MRA 必须含 DORA-equivalent 条款,详见 [[fintech/mica-cross-border-implications|MiCA 跨境含义]]。
 
 ## Counterpoints
 

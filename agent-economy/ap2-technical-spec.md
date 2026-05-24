@@ -37,7 +37,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 4. 航司验证 mandate + 通过 AP2 settlement adapter(Google Pay 或 USDC)
 5. Audit trail 写回用户 Google 账号
 
-Wallet Adapter 是 AP2 的关键抽象——mandate 和 intent 都不绑定具体结算 rail,merchant 只需对接一份 AP2 API,即可同时接收卡支付和稳定币支付。这与 x402 协议(明确 USDC-first)形成路线差异:**AP2 是"rail-neutral"** · x402 是"USDC-native"。
+Wallet Adapter 是 AP2 的关键抽象——mandate 和 intent 都不绑定具体结算 rail,merchant 只需对接一份 AP2 API,即可同时接收卡支付和稳定币支付(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。这与 x402 协议(明确 USDC-first)形成路线差异:**AP2 是"rail-neutral"** · x402 是"USDC-native"。跨链 USDC settlement 需经 [[systems/cctp-v2-overview|CCTP V2]] 与 [[systems/chain-abstraction-pattern-overview|chain abstraction]] 协同。
 
 ## Origin & evolution
 
@@ -47,7 +47,7 @@ W3C Verifiable Credentials 标准本身已被 W3C 自 2019 起持续推进,Googl
 
 ## Counterpoints
 
-Risk Score 由 Google 单方 AI 计算,这意味着 **Google 隐含成为 AP2 网络的 fraud arbiter**——merchant 信不信 Google 的判断?对非 Google 系 merchant(尤其欧盟)可能形成 vendor lock-in 顾虑。另外 W3C VC 本身的撤销机制依赖 status registry,在高 throughput agent 支付场景下,registry 性能是潜在瓶颈。
+Risk Score 由 Google 单方 AI 计算,这意味着 **Google 隐含成为 AP2 网络的 fraud arbiter**——merchant 信不信 Google 的判断?对非 Google 系 merchant(尤其欧盟)可能形成 vendor lock-in 顾虑。另外 W3C VC 本身的撤销机制依赖 status registry,在高 throughput agent 支付场景下,registry 性能是潜在瓶颈(底层钱包通常基于 [[systems/erc-4337-overview|ERC-4337]] · UserOp 验证流程可参考 [[systems/erc-4337-userop-bundler-flow|ERC-4337 bundler flow]])。
 
 ## Open questions
 

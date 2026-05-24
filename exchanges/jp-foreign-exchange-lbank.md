@@ -108,6 +108,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-foreign-exchange-bitget]] — Bitget Limited（FSA 警告 2 回）
 - [[exchanges/jp-foreign-exchange-kucoin]] — KuCoin（FSA 警告受領済み）
 - [[exchanges/jp-foreign-exchange-bitcastle]] — bitcastle LLC（FSA 警告受領済み）
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
 
 ## Sources
 

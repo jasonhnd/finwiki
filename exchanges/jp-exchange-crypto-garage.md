@@ -137,6 +137,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
 - [[exchanges/jp-exchange-bitflyer]] — 同業他社（大手）
 - [[exchanges/jp-exchange-sbi-vc-trade]] — 同業他社（機関向け）
+- [[exchanges/jp-custody-komainu]] — 連携先 Komainu（institutional custody）
+- [[exchanges/jp-institutional-custody-three-pillars]] — JP institutional custody 三本柱
+- [[exchanges/jp-crypto-market-maker-otc-layer]] — JP crypto market maker / OTC レイヤー
 
 ## Sources
 

@@ -65,6 +65,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 任何 USD 锚定稳定币发行方
 - 未来 RWA tokenization 平台（BlackRock BUIDL、Apollo ACRED）
 
+SEC / CFTC 管辖权背景见 [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 加密管辖权之争]],各国稳定币牌照横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
+
 **反例 / 边界**：
 
 - 非 USD 稳定币不适用（EUR、JPY、SGD 需各自联邦监管路径）
@@ -77,7 +79,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Bridge 估值 25–35% 来自 OCC charter 独占性（Stripe 收购溢价的核心解释）
 - 竞品（USDC、PYUSD、USD1）估值需打"路径滞后"折扣
 - 投资判断：未来 18 个月 OCC charter 数量上限（OCC 历史 5–10 张 / 年）= 稀缺溢价
-- M&A 信号：未上市稳定币公司若 OCC 申请到 conditional stage，**收购溢价 3–5×**
+- M&A 信号：未上市稳定币公司若 OCC 申请到 conditional stage，**收购溢价 3–5×**（监管窗口逻辑见 [[fintech/regulatory-window-strategic-acquisition|监管窗口前战略收购]]）
 
 
 ## Related

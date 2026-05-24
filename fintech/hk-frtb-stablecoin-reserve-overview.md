@@ -37,7 +37,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **HKMA 稳定币储备金核心**:100% 1:1 法币储备(HKD / USD pegged)+ Tier 1 资产构成(HKD 现金 + HKMA 央行存款 + HKD/USD 短期国债 ≤ 1 年 + 受限比例商业票据)+ 第三方独立托管(持牌 TCSP/Trust)+ 月度审计 + 季度公开披露 + Bankruptcy-remote segregation + HKD 100M+ paid-up capital。
 
-**FRTB 对接**:HKMA 将 SC reserve 视为银行 trading book 类资产 → 套用 Basel III FRTB SA(Standardised Approach)。市场风险资本计算:interest rate risk + currency risk + credit spread risk。这是全球首个把 SC reserve 明确纳入 Basel 资本框架的监管设计。
+**FRTB 对接**:HKMA 将 SC reserve 视为银行 trading book 类资产 → 套用 Basel III FRTB SA(Standardised Approach)。市场风险资本计算:interest rate risk + currency risk + credit spread risk。这是全球首个把 SC reserve 明确纳入 Basel 资本框架的监管设计。资本计量传导到银行端的隐含 USDC vs USDT 溢价逻辑见 [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 战略含义]]。
 
 **三圆架构对比**:
 | 维度 | HKMA | GENIUS §501 | MiCA EMT |
@@ -51,7 +51,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-HKMA 2022-12 启动 SC consultation,2023-12 第二轮 CP 确立 Sandbox(ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium),2025-08 通过 Stablecoin Ordinance。2026-04 HKMA Consultation Paper《Capital treatment for licensed stablecoins》直接引用 BCBS SCO60 作为母标准。2026-05-21 首批牌照决定:9 家申请,实际仅 2 张(HSBC + StanChart Anchorpoint)。
+HKMA 2022-12 启动 SC consultation,2023-12 第二轮 CP 确立 Sandbox(ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium),2025-08 通过 Stablecoin Ordinance。2026-04 HKMA Consultation Paper《Capital treatment for licensed stablecoins》直接引用 BCBS SCO60 作为母标准。2026-05-21 首批牌照决定:9 家申请,实际仅 2 张(HSBC + StanChart Anchorpoint),战略含义详见 [[fintech/hkma-stablecoin-licensing-implications|HKMA 牌照战略含义]]。亚洲 / 全球横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Counterpoints
 

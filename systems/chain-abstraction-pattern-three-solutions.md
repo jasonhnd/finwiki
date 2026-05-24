@@ -35,7 +35,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 **2. NEAR Chain Abstraction · 意图驱动 + 多链账户**:用户用单一 NEAR 账户,通过 MPC(Chain Signatures)控制 ETH / BTC / SOL 等其他链私钥。意图(intent)输入 → solver 网络竞价完成 → 用户只看结果。**抽象层**:账户 + 操作意图。NEAR 从 L1 转型为"账户抽象 + 跨链路由层"。
 
-**3. EigenLayer / Hyperliquid 模式 · 共享安全**:多个应用 / 链共享 ETH 验证者集合(restaking)。新链不需要 bootstrap 验证者经济,直接租用 ETH 安全。**抽象层**:安全 / 验证者集合。代表案例 EigenDA / AltLayer / Hyperliquid(自有 L1 + 借用安全)。**不是 UX 层抽象,而是安全层抽象** —— 用户不感知"这条链有几个验证者"。
+**3. EigenLayer / Hyperliquid 模式 · 共享安全**:多个应用 / 链共享 ETH 验证者集合(restaking)。新链不需要 bootstrap 验证者经济,直接租用 ETH 安全(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])。**抽象层**:安全 / 验证者集合。代表案例 EigenDA / AltLayer / Hyperliquid(自有 L1 + 借用安全)。**不是 UX 层抽象,而是安全层抽象** —— 用户不感知"这条链有几个验证者"。
 
 三方案对比:
 
@@ -54,13 +54,13 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - 三方案抽象的是不同维度,严格说不是直接竞争而是不同问题的解
 - AggLayer 依赖 ZK 证明性能持续提升,若 ZK 进展放缓则 AggLayer UX 优势削弱
 - NEAR MPC 路径有密钥托管风险(MPC 节点串通理论可能),长期安全性未充分验证
-- EigenLayer restaking 引入新的 slashing 风险叠加,机构是否真敢用 EigenLayer 借安全存疑
+- EigenLayer restaking 引入新的 slashing 风险叠加,机构是否真敢用 EigenLayer 借安全存疑(参见 [[fintech/jpmorgan-jpmd-coin|JPMD]] 选 Canton 而非 restaking 的对照)
 
 ## Open questions
 
 - 三方案会融合(如 AggLayer 集成 NEAR Intents)还是分裂(三路独立成熟)?
 - 哪种抽象层会成为机构链(Tempo / Arc)首选?
-- 监管对 MPC 跨链密钥控制(NEAR 模式)的态度?
+- 监管对 MPC 跨链密钥控制(NEAR 模式)的态度?(对照 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 各方案的信任假设光谱)
 
 ## Related
 <!-- wiki-links:managed -->

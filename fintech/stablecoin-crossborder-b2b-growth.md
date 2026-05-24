@@ -24,13 +24,13 @@ sources: []
 - SC 時価総額：$318.6B（過去最高）
 - SC 年間取引量：$33 兆（PayPal の 20 倍）
 - USDT 59% / USDC 25%（ただし取引量シェアでは USDC が 64% で逆転）
-- GENIUS Act（米国 SC 法）2025年7月署名成立 — 100% 準備金義務化、SEC/CFTC 管轄外を明確化
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act]]（米国 SC 法）2025年7月署名成立 — 100% 準備金義務化、SEC/CFTC 管轄外を明確化
 
-主要企業の採用：Visa（年 $46 億決済処理）、Stripe（$4,000 億 SC 決済量）、PayPal（PYUSD 供給量 600% 増）。
+主要企業の採用：Visa（年 $46 億決済処理）、[[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe]]（$4,000 億 SC 決済量）、[[fintech/paypal-pyusd-stablecoin|PayPal]]（PYUSD 供給量 600% 増）。
 
 市場予測：JPMorgan $5,000-6,000 億（2028）、Citi $1.9-4 兆（2030）。
 
-**含意**：B2B 跨境決済における SC の爆発的成長は、「暗号資産は投機」というナラティブから「貿易決済の実需インフラ」への転換点を示す。JETRO 会員の中小貿易企業にとって、従来の SWIFT 送金（手数料 3-7%、1-3 営業日）からの移行は経済合理性がある。日本側の制度配置は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]、上位の法体系は [[fintech/japan-financial-regulation|日本金融規制]] を参照。
+**含意**：B2B 跨境決済における SC の爆発的成長は、「暗号資産は投機」というナラティブから「貿易決済の実需インフラ」への転換点を示す。JETRO 会員の中小貿易企業にとって、従来の SWIFT 送金（手数料 3-7%、1-3 営業日）からの移行は経済合理性がある（具体的 corridor 戦略は [[fintech/cross-border-sc-via-swift-api|SC × SWIFT API]] と [[fintech/dual-currency-stablecoin-arbitrage-overview|双币三角套利]] を参照）。日本側の制度配置は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]、上位の法体系は [[fintech/japan-financial-regulation|日本金融規制]] を参照。
 
 来源: projects/bittrade-jetro（2026-04-14 調査）| [[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] | [[agent-economy/skill-market-monetization|skill-market-monetization]]
 

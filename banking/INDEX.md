@@ -107,6 +107,16 @@ sources:
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]
 - [[banking/rokin-bank-registry-japan|Japan rokin bank registry]]
+
+## Shinkin operating-company anchors
+
+Member shinkin operating-company pages now live under [[JapanFG/INDEX|JapanFG]]; this section is the cross-link surface from the banking domain map.
+
+- Kansai: [[JapanFG/kyoto-chuo-shinkin|京都中央信用金庫]], [[JapanFG/osaka-shinkin|大阪信用金庫]]
+- Tokyo: [[JapanFG/jonan-shinkin|城南信用金庫]], [[JapanFG/asahi-shinkin|朝日信用金庫]], [[JapanFG/johoku-shinkin|城北信用金庫]], [[JapanFG/tama-shinkin|多摩信用金庫]]
+- Kanagawa: [[JapanFG/kawasaki-shinkin|川崎信用金庫]], [[JapanFG/yokohama-shinkin|横浜信用金庫]]
+- Chubu: [[JapanFG/okazaki-shinkin|岡崎信用金庫]], [[JapanFG/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]
+- Central organization: [[JapanFG/shinkin-central|信金中央金庫]]
 - [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]]
 - [[banking/post-megabank-positioning|Post-megabank positioning]]
 - [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]]

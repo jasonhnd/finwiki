@@ -56,7 +56,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 | 层 | Visa 产品 | 客户（"竞争"对手都是客户）|
 |---|---|---|
-| #2 结算介质 | VTAP 跨 9 chains | USDC, USDT, EURC, PYUSD, JPMD 等所有 SC/TD |
+| #2 结算介质 | VTAP 跨 9 chains | USDC, USDT, EURC, [[fintech/paypal-pyusd-stablecoin|PYUSD]], [[fintech/jpmorgan-jpmd-coin|JPMD]] 等所有 SC/TD |
 | #3 支付管道 | Visa Direct + B2B Connect | 全球 200+ 国，100M+ 商户 |
 | #4 身份 | Visa 网络 KYC + VTAP 链级 ID | 所有 Visa 网络成员 |
 | #5 执法 | Visa TAP（AI Agent 验证） | AI Agent 经济 + 加密合规 |
@@ -72,11 +72,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 |---|---|---|
 | **Visa** | 稳定币 / AI Agent / 跨境结算 | ★★★★★ |
 | **Mastercard** | 同 Visa，晚 6-12 个月 | ★★★★ |
-| **AWS / Microsoft** | AI Agent 云基础设施（Bedrock AgentCore）| ★★★★ |
-| **Cloudflare** | x402、AP2、AI 推理代理 | ★★★ |
+| **AWS / Microsoft** | AI Agent 云基础设施（[[agent-economy/privy-aws-agentcore-default-wallet|Bedrock AgentCore]])| ★★★★ |
+| **Cloudflare** | [[agent-economy/x402-cloudflare-aws-edge-integration|x402]]、AP2、AI 推理代理 | ★★★ |
 | **Anchorage** | OCC charter 即服务 | ★★★ |
 | **Chainalysis / TRM Labs** | 链上合规即服务 | ★★★ |
-| **BlackRock**（部分）| MMF 投所有 SC 储备金 | ★★★ |
+| **BlackRock**（部分）| MMF 投所有 SC 储备金（[[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL 矩阵]]）| ★★★ |
 | **FIDO Alliance / Linux Foundation AAIF** | 协议标准化即治理 | ★★（非营利，不可投资）|
 
 ## 失败模式

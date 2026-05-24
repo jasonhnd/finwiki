@@ -36,13 +36,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **USDC vs USDT 资本逻辑**:银行持有 $1B USDC(Group 1b)需 ~$100M capital backing,持有 $1B USDT(疑问 Group 1b)需 ~$1B capital backing,价差 = 银行选择 USDC over USDT 的资本经济学根本原因。这是 USDC 估值溢价的 hidden moat,也是 Circle / Bridge / Anchorage / Coinbase Custody 等"合规通道"的法律护城河。
 
-**BUIDL 案例**:Group 1a(tokenized T-bills)= 银行可大规模持有 → 触发 BUIDL 突破 $1B AUM(2024-Q4)+ 2026-05 ~$3B AUM 增长。与 banking sector 形成"机构 SC alternative"通道,B2B 大口资金从 USDT/USDC 部分迁移到 BUIDL。
+**BUIDL 案例**:Group 1a(tokenized T-bills)= 银行可大规模持有 → 触发 BUIDL 突破 $1B AUM(2024-Q4)+ 2026-05 ~$3B AUM 增长。与 banking sector 形成"机构 SC alternative"通道,B2B 大口资金从 USDT/USDC 部分迁移到 BUIDL。机构 SC vs deposit token 的二元辨析见 [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC 与 deposit token 论题]]。
 
 **cbBTC / WBTC**:1,250% RW 限制银行持有,主要使用场景 = DeFi 抵押品(链上),与传统银行 balance sheet 隔离。这解释了为何 cbBTC 主要在 Base 上 DeFi 使用而非银行托管。
 
 ## Origin & evolution
 
-2022-12 SCO60 发布后,各大银行 risk 部门 2023 启动 Group 资格预判 → 2024 BlackRock 与 BNY Mellon 合作 BUIDL,押注 Group 1a 资格成立。Circle 2024-Q4 起强化 PPSI 披露,目标 USDC 在 2025-Q3 BCBS implementation 后获 Group 1b。Tether 反应保守,2025 Q4 仍未达 Group 1b 标准。HK FRTB consultation(2026-04)直接 mapping SCO60,是亚洲第一个对 SC issuer 国际资本框架的 implementation。
+2022-12 SCO60 发布后,各大银行 risk 部门 2023 启动 Group 资格预判 → 2024 BlackRock 与 BNY Mellon 合作 BUIDL,押注 Group 1a 资格成立。Circle 2024-Q4 起强化 PPSI 披露,目标 USDC 在 2025-Q3 BCBS implementation 后获 Group 1b。Tether 反应保守,2025 Q4 仍未达 Group 1b 标准。HK FRTB consultation(2026-04)直接 mapping SCO60(详见 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]]),是亚洲第一个对 SC issuer 国际资本框架的 implementation。
 
 ## Counterpoints
 

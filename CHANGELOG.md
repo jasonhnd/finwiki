@@ -29,6 +29,138 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-05-24
+
+### 20:15 JST: Wave 2 並列 10 agents — 22 件新規 + 横断 link-density pass / Wave 2 parallel-10 batch — 22 new entries + cross-domain link-density pass / Wave 2 并行 10 agent 批次 — 22 条新增 + 横向链接密度加密
+
+#### 日本語記録
+
+- 背景: Wave 1 完了直後、引き続き user 指示 `ABCDE 都要做。長期任務、並列 10 agent` の C (thin-link 領域 density) + D3 (BoJ/FSA 内部局) + D4 (crypto-adjacent services) + D5 (JCB card-scheme 周辺) を wave 2 として 10 並列 agent で実行。
+- 影響範囲: 22 件新規 .md (JapanFG 14 + exchanges 8) + 約 200 件既存 entry に inline body wikilink 追加 (link-density pass) + JapanFG/INDEX + exchanges/INDEX + root `INDEX.md` + `README.md` + `index.html` + AI discovery 5 ファイル + `wiki-link-improvement-plan.md`。
+- 主要新規ファイル (22 件):
+  - JapanFG BoJ + FSA 内部局 Batch R1 (8): [[JapanFG/boj-financial-markets-dept]], [[JapanFG/boj-financial-system-dept]], [[JapanFG/boj-payment-settlement-dept]], [[JapanFG/boj-international-dept]], [[JapanFG/fsa-supervision-bureau]], [[JapanFG/fsa-inspection-bureau]] (historical), [[JapanFG/fsa-strategy-bureau]], [[JapanFG/fsa-planning-coordination-bureau]]
+  - JapanFG JCB / 国際カードブランド Batch CB1 (6): [[JapanFG/jcb-international]], [[JapanFG/mastercard-japan]], [[JapanFG/visa-worldwide-japan]], [[JapanFG/american-express-international-japan]], [[JapanFG/diners-club-japan]], [[JapanFG/unionpay-international-japan]]
+  - exchanges crypto-adjacent service layer (8): [[exchanges/jcba-japan-crypto-business-association]], [[exchanges/japan-blockchain-association-jba]], [[exchanges/japan-crypto-audit-firm-landscape]], [[exchanges/japan-crypto-law-firm-landscape]], [[exchanges/jp-crypto-staking-as-a-service-operators]], [[exchanges/jp-crypto-on-off-ramp-bridge-layer]], [[exchanges/jp-crypto-tax-software-vendor-layer]], [[exchanges/jp-web3-policy-public-body-layer]]
+- C link-density pass (約 200 件既存 entry に inline wikilink 追加):
+  - agent-economy (20 entries, ~66 links added), security (5 entries, ~15 links), trade + governance + corporate-strategy (5 entries), systems (35 entries, ~101 links), fintech 前半 issuer/embedded-wallet/strategy (46 entries, ~130 links), fintech 後半 regulatory/CBDC (58 entries, ~150 links), exchanges (~88 entries, ~200 links)
+- 実施内容:
+  - 10 並列 `general-purpose` agent を Agent ツールで spawn (W2-1 〜 W2-10)。各 agent に self-contained prompt + 担当 directory 制約 + 既存 entry 風格 reference + 公開 source URL を渡し、CHANGELOG / INDEX / README / index.html / AI discovery files への書き込み禁止。
+  - JapanFG/INDEX に P48 (BoJ + FSA 内部局 R1) + P49 (国際カードブランド CB1) batch sections を追加し、Phase 75 + Phase 76 rollout 履歴と統計を更新、合計 entity entry 数を 469 → 483 に修正。
+  - exchanges/INDEX に新規 "Industry bodies and service layer" section を追加し、8 件 crypto-adjacent entries を route。
+  - root `INDEX.md` の domain table を新カウント (JapanFG 482→496, exchanges 116→124) と公開 surface count (913→935) に同期。
+  - `README.md` と `index.html` の numeric snapshot を 935 entries / 965 Markdown files / 約 399.2 万字 / 625,721 tokens に同期 (3 言語の metric card と meta description を含む)。
+  - C density agent は各担当 entry を読み、既存 prose に自然な位置で 2-3 件 cross-domain wikilink を inline で追加。全 link target は事前 Read / Glob で存在確認、broken link を導入せず。
+- 数値スナップショット: Markdown files 943 → **965** (+22), public Markdown pages 942 → **964** (+22), sitemap URLs 943 → **965** (+22), topical domains 20, link-audited entries 913 → **935** (+22), unresolved link issues 0, non-space UTF-8 characters 3,830,476 → **3,992,427** (+161,951), word-like tokens 601,199 → **625,721** (+24,522)。
+- 検証結果: `python tools/generate_ai_discovery.py` pass。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` pass (entries_checked=935, entries_with_issues=0)。10 agent 全数 self-reported pass + 22 件新規ファイル 100% 落盤確認 + density pass で導入された 600+ 件新 wikilink 全数 target 存在検証済み。
+- 後続事項: Wave 1 + Wave 2 で ABCDE 全件カバー完了。push to `origin/main` + GitHub Release 作成は user 確認後に行う。今回 push 候補 release notes は本 CHANGELOG エントリーをベースに別途 `releases/v2026.05.24.md` として作成予定。
+
+#### English Record
+
+- Background: After wave 1 completed, immediately launched wave 2 — covering C (link-density passes across 5 thin-link domains) + D3 (BoJ/FSA internal bureaus) + D4 (crypto-adjacent service layer) + D5 (JCB / international card-brand Japan operating companies) — per the user's `ABCDE 都要做。长期任务、并行 10 agent` directive. Wave 2 spawned 10 more parallel agents (W2-1 through W2-10).
+- Scope: 22 new `.md` files (14 in JapanFG/, 8 in exchanges/) + ~200 existing entries received inline body wikilink additions via density passes + JapanFG/INDEX + exchanges/INDEX + root `INDEX.md` + `README.md` + `index.html` + 5 AI discovery files + `wiki-link-improvement-plan.md`.
+- New files (22):
+  - JapanFG BoJ + FSA internal-bureau Batch R1 (8): boj-financial-markets-dept, boj-financial-system-dept, boj-payment-settlement-dept, boj-international-dept, fsa-supervision-bureau, fsa-inspection-bureau (historical anchor for the pre-2018 standalone bureau), fsa-strategy-bureau, fsa-planning-coordination-bureau.
+  - JapanFG JCB + international card-brand Batch CB1 (6): jcb-international, mastercard-japan, visa-worldwide-japan, american-express-international-japan, diners-club-japan, unionpay-international-japan.
+  - exchanges crypto-adjacent service layer (8): JCBA, JBA, Japan crypto-audit firm landscape, Japan crypto-law firm landscape, Japan staking-as-a-service operators, on/off-ramp bridge layer, crypto-tax software vendor layer, Web3 / crypto policy public body layer.
+- Link-density pass (~200 existing entries received new inline wikilinks):
+  - agent-economy (20 entries, ~66 new links), security (5 entries, ~15 links), trade + governance + corporate-strategy (5 entries), systems (35 entries, ~101 links), fintech issuer/embedded-wallet/strategy half (46 entries, ~130 links), fintech regulatory/CBDC half (58 entries, ~150 links), exchanges (~88 entries, ~200 links).
+- Changes:
+  - Spawned 10 parallel `general-purpose` agents via the Agent tool with self-contained prompts, directory constraints, existing-entry style references, and public source URLs. Strict bans on touching shared files (CHANGELOG / INDEX / README / index.html / AI discovery files / wiki-link-improvement-plan).
+  - Added P48 (BoJ + FSA internal-bureau R1) + P49 (international card-brand CB1) batch sections to `JapanFG/INDEX.md`, refreshed Phase 75 + Phase 76 rollout history and statistics, and updated the total entity count from 469 to 483.
+  - Added a new "Industry bodies and service layer" section to `exchanges/INDEX.md` routing the 8 crypto-adjacent entries.
+  - Synchronized the root `INDEX.md` domain table (JapanFG 482→496, exchanges 116→124) and public-surface count (913→935).
+  - Synchronized `README.md` and `index.html` numeric snapshots to 935 entries / 965 Markdown files / ~3.99M characters / 625,721 tokens across all three language sections and meta description.
+  - C density agents read every assigned entry, identified natural insertion points in existing prose, and added 2-3 cross-domain wikilinks per entry. All link targets were Glob/Read-verified before insertion to avoid broken links.
+- Counts: 943 → 965 Markdown files (+22), 942 → 964 public pages (+22), 943 → 965 sitemap URLs (+22), 20 topical domains, 913 → 935 link-audited entries (+22), 0 unresolved link issues, 3,830,476 → 3,992,427 non-space UTF-8 characters (+161,951), 601,199 → 625,721 word-like tokens (+24,522).
+- Validation result: `python tools/generate_ai_discovery.py` passed. `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed (entries_checked=935, entries_with_issues=0). All 10 agents self-reported pass; all 22 new files confirmed on disk; all 600+ new wikilinks introduced by the density pass verified against existing targets.
+- Follow-up: Wave 1 + Wave 2 together cover all of ABCDE. Push to `origin/main` + GitHub Release creation pending user confirmation. A `releases/v2026.05.24.md` release-notes file will be drafted based on this CHANGELOG entry before push.
+
+#### 中文记录
+
+- 背景：Wave 1 完成后立即启动 wave 2 —— 覆盖 C（5 个 thin-link 领域 density 加密）+ D3（BoJ/FSA 内部局）+ D4（crypto-adjacent 服务层）+ D5（JCB / 国际卡品牌 日本 operating company）—— 仍按用户 `ABCDE 都要做。长期任务，并行 10 agent` 指示，再并行 10 个 agent（W2-1 到 W2-10）。
+- 影响范围：22 个新 .md（JapanFG 14 + exchanges 8）+ 约 200 个既有 entry inline 加 body wikilink（density pass）+ JapanFG/INDEX + exchanges/INDEX + 根目录 `INDEX.md` + `README.md` + `index.html` + 5 个 AI discovery files + `wiki-link-improvement-plan.md`。
+- 22 个新文件：
+  - JapanFG BoJ + FSA 内部局 Batch R1（8 条）：金融市場局 / 金融機構局 / 決済機構局 / 国際局 + 監督局 / 検査局（历史 disambiguation）/ 総合政策局 / 企画市場局。
+  - JapanFG JCB + 国际卡品牌 Batch CB1（6 条）：JCB International / Mastercard Japan / Visa Worldwide Japan + VJA / American Express Japan branch / Diners Club Japan / UnionPay International Japan。
+  - exchanges crypto-adjacent service layer（8 条）：JCBA / JBA / 日本 crypto-audit firm landscape / 日本 crypto-law firm landscape / 日本 staking-as-a-service operators / 日本 on/off-ramp bridge layer / 日本 crypto-tax software vendor layer / 日本 Web3 / crypto policy public body layer。
+- Link-density pass（~200 个既有 entry 加 inline wikilink）：
+  - agent-economy（20 条, ~66 个新 link）、security（5 条, ~15 个）、trade + governance + corporate-strategy（5 条）、systems（35 条, ~101 个）、fintech 前半（46 条, ~130 个）、fintech 后半（58 条, ~150 个）、exchanges（~88 条, ~200 个）。
+- 执行内容：
+  - 用 Agent 工具并行启动 10 个 `general-purpose` agent，每个 agent 收到 self-contained prompt + 目录约束 + 现有 entry 风格 reference + 公开 source URL，严禁触碰共享文件（CHANGELOG / INDEX / README / index.html / AI discovery / wiki-link-improvement-plan）。
+  - 在 `JapanFG/INDEX.md` 加 P48（BoJ + FSA 内部局 R1）+ P49（国际卡品牌 CB1）batch 段，更新 Phase 75 + Phase 76 rollout 历史和统计，合计 entity entry 数从 469 改成 483。
+  - 在 `exchanges/INDEX.md` 加新「Industry bodies and service layer」段，路由 8 个 crypto-adjacent 新 entry。
+  - 同步根 `INDEX.md` 的 domain table（JapanFG 482→496, exchanges 116→124）和公开 surface count（913→935）。
+  - 同步 `README.md` 和 `index.html` 的 numeric snapshot 到 935 entries / 965 Markdown files / 约 399.2 万字 / 625,721 tokens（三语 metric card 和 meta description 均覆盖）。
+  - C density agent 阅读每个分配 entry，在现有 prose 自然位置 inline 加 2-3 个 cross-domain wikilink。所有 link target 事前 Glob/Read 验证存在，没有引入断链。
+- 数字快照：Markdown files 943 → **965**（+22），public Markdown pages 942 → **964**（+22），sitemap URLs 943 → **965**（+22），topical domains 20，link-audited entries 913 → **935**（+22），unresolved link issues 0，non-space UTF-8 characters 3,830,476 → **3,992,427**（+161,951），word-like tokens 601,199 → **625,721**（+24,522）。
+- 验证结果：`python tools/generate_ai_discovery.py` 通过。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=935, entries_with_issues=0）。10 个 agent 全部 self-report pass + 22 个新文件 100% 落盘确认 + density pass 引入的 600+ 个新 wikilink 全部 target 已验证。
+- 后续事项：Wave 1 + Wave 2 合计覆盖完 ABCDE 全部。push 到 `origin/main` + 建 GitHub Release 等用户确认后再做。本次 push 用的 `releases/v2026.05.24.md` release notes 将基于本 CHANGELOG 条目起草。
+
+### 18:30 JST: Wave 1 並列 10 agents 大規模拡張 / Wave 1 parallel-10 batch expansion / Wave 1 并行 10 agent 批量扩写
+
+#### 日本語記録
+
+- 背景: user から `ABCDE 都要做。長期任務、並列 10 agent` 指示があり、wiki 全体を点検した上で A (8 件 backlog 既知 entry) / B (6 件不足 INDEX) / C (link-density 増強) / D (新規 batch) / E (empty placeholder 削除) を全てカバーするロードマップを定義し、wave 1 として 10 並列 agent を spawn して 32 件新規 + 多数の INDEX 整備を実施。
+- 影響範囲: 32 件新規 .md + 10 件 domain INDEX 更新 + root `INDEX.md` + `README.md` + `index.html` + AI discovery 5 ファイル + `wiki-link-improvement-plan.md` + 6 件 empty placeholder ディレクトリ削除。
+- 主要新規ファイル (32 件):
+  - Single new entries (8): `money-market/tanshi-company-business-model.md`, `loyalty/point-liability-accounting-boundary.md`, `loyalty/v-point-smbc-ccc-case.md`, `retail/lawson-kddi-retail-finance.md`, `systems/cross-chain-five-pole-comparison-matrix.md`, `fintech/global-stablecoin-regulatory-five-pole-matrix.md`, `exchanges/global-vasp-regulatory-comparison-matrix.md`, `policy-finance/japan-project-finance-stack-diagram.md`
+  - Domain INDEX 新規 6 件: `agent-economy/INDEX.md`, `business/INDEX.md`, `security/INDEX.md`, `governance/INDEX.md`, `trade/INDEX.md`, `corporate-strategy/INDEX.md` (以前は entry はあったが domain INDEX が存在せず routing が root INDEX 直接だった)
+  - JapanFG 信用金庫 Batch S1 (10): [[JapanFG/kyoto-chuo-shinkin]], [[JapanFG/osaka-shinkin]], [[JapanFG/jonan-shinkin]], [[JapanFG/asahi-shinkin]], [[JapanFG/johoku-shinkin]], [[JapanFG/tama-shinkin]], [[JapanFG/kawasaki-shinkin]], [[JapanFG/yokohama-shinkin]], [[JapanFG/okazaki-shinkin]], [[JapanFG/hamamatsu-iwata-shinkin]] — 初の per-shinkin operating-company anchors (信金中央金庫 以外)
+  - JapanFG 大手 leasing Batch L1 (8): [[JapanFG/ricoh-leasing]], [[JapanFG/ja-mitsui-leasing]], [[JapanFG/showa-leasing]], [[JapanFG/nec-leasing]], [[JapanFG/kanematsu-leasing]], [[JapanFG/hokkaido-lease]], [[JapanFG/ibj-leasing]] (historical disambiguation), [[JapanFG/hitachi-capital]] (historical disambiguation)
+- 実施内容:
+  - 10 並列 `general-purpose` agent を Agent ツールで spawn。各 agent に self-contained prompt (hard rules + style reference 既存 entry path + sources + 出力 JSON format) を渡し、assigned ディレクトリ外への書き込み (CHANGELOG / INDEX / README / index.html / AI discovery files) を全面禁止。
+  - Empty placeholder ディレクトリ 6 件 (`frontend`, `lifestyle`, `m-and-a`, `methodology`, `strategy`, `writing`) を `rmdir` で削除 (全て tracked file 0)。
+  - 10 件 domain INDEX (`money-market`, `loyalty`, `retail`, `systems`, `fintech`, `exchanges`, `policy-finance`, `banking`, `JapanFG`, plus 6 newly-built INDEXes) に新規 entry 反映、backlog Done 化、Cross-link 追加。
+  - JapanFG/INDEX に P46 (信用金庫 S1) + P47 (大手 leasing L1) batch sections を追加し、Phase 73 / Phase 74 rollout 履歴と統計を更新、合計 entity entry 数を 451 → 469 に修正。
+  - root `INDEX.md` の domain table を新カウント (JapanFG 464→482, exchanges 115→116, fintech 104→105, systems 44→45, agent-economy 21→22, business 9→10, policy-finance 13→14, security 5→6, money-market 5→6, governance 2→3, retail 3→4, trade 2→3, corporate-strategy 1→2, loyalty 2→4) に同期、route リンクは 6 件新 INDEX に向けて更新。
+  - `README.md`, `index.html` の numeric snapshot を 913 entries / 943 Markdown files / 約 383.0 万字 / 601,199 tokens に同期 (3 言語の metric card と meta description を含む)。
+  - 1 件 audit 警告 (`loyalty/japan-points-landscape.md` の missing peer link — 新規 sibling 2 件追加で peer 期待値が変化したため) を V Point row への peer wikilink 追加で修正。
+- 数値スナップショット: Markdown files 911 → **943** (+32), public Markdown pages 910 → **942** (+32), sitemap URLs 911 → **943** (+32), topical domains 20, link-audited entries 881 → **913** (+32), unresolved link issues 0, non-space UTF-8 characters 3,653,607 → **3,830,476** (+176,869), word-like tokens 573,116 → **601,199** (+28,083)。
+- 検証結果: `python tools/generate_ai_discovery.py` pass。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` pass (entries_checked=913, entries_with_issues=0)。10 agent 全数 self-reported pass + 32 件新規ファイル 100% 存在確認 + 各 entry ≥ 3 body wikilinks 確認済み。
+- 後続事項: Wave 2 として、C (thin-link 5 領域の density 強化) + D3 (BoJ/FSA 内部局) + D4 (crypto-adjacent services) + D5 (JCB card-scheme 周辺) を並列 10 agent で実行予定。push は wave 2 完了後にまとめて user 確認を経て行う。
+
+#### English Record
+
+- Background: The user instructed `ABCDE 都要做。长期任務、并行 10 agent` after the wiki-wide expansion plan was approved, covering A (8 named backlog entries), B (6 missing domain INDEXes), C (link-density passes), D (new content batches), and E (empty placeholder deletion). Wave 1 launched 10 parallel agents that produced 32 new entries and prepared the routing surface for wave 2.
+- Scope: 32 new `.md` files + 10 domain INDEX updates + root `INDEX.md` + `README.md` + `index.html` + 5 AI discovery files + `wiki-link-improvement-plan.md` + deletion of 6 empty placeholder directories.
+- New files (32):
+  - 8 single new comparison / concept entries across money-market, loyalty (×2), retail, systems, fintech, exchanges, policy-finance.
+  - 6 newly-created domain INDEXes: `agent-economy`, `business`, `security`, `governance`, `trade`, `corporate-strategy` (these domains had entries but no INDEX, so previously routed only from root `INDEX.md` direct links).
+  - JapanFG shinkin Batch S1 (10 operating-company anchors): kyoto-chuo, osaka, jonan, asahi, johoku, tama, kawasaki, yokohama, okazaki, hamamatsu-iwata — first per-shinkin pages beside the existing `shinkin-central` (Shinkin Central Bank) anchor.
+  - JapanFG large leasing Batch L1 (8 entries): ricoh-leasing, ja-mitsui-leasing, showa-leasing, nec-leasing, kanematsu-leasing, hokkaido-lease, plus two historical disambiguation pages (ibj-leasing merged into mizuho-lease 2019-04-01; hitachi-capital merged with MUFG Lease into mitsubishi-hc-capital 2021-04-01).
+- Changes:
+  - Spawned 10 parallel `general-purpose` agents via the Agent tool. Each agent received a self-contained prompt (hard rules + existing-entry style reference + source URLs + required JSON output format) and was strictly forbidden from touching shared files (CHANGELOG, INDEX, README, index.html, AI discovery files).
+  - Deleted 6 empty placeholder directories (`frontend`, `lifestyle`, `m-and-a`, `methodology`, `strategy`, `writing`) — all had 0 tracked files.
+  - Updated 10 domain INDEXes (`money-market`, `loyalty`, `retail`, `systems`, `fintech`, `exchanges`, `policy-finance`, `banking`, `JapanFG`, plus the 6 newly built INDEXes) to add new entries, mark backlog items Done, and cross-link cousins.
+  - Added P46 (shinkin S1) + P47 (large leasing L1) batch sections to `JapanFG/INDEX.md`, refreshed Phase 73 / Phase 74 rollout history and statistics, and updated the total entity entry count from 451 to 469.
+  - Synchronized the root `INDEX.md` domain table to the new counts (JapanFG 464→482, exchanges 115→116, fintech 104→105, systems 44→45, agent-economy 21→22, business 9→10, policy-finance 13→14, security 5→6, money-market 5→6, governance 2→3, retail 3→4, trade 2→3, corporate-strategy 1→2, loyalty 2→4) and pointed the route links at the 6 new INDEX files.
+  - Synchronized the `README.md` and `index.html` numeric snapshot to 913 entries / 943 Markdown files / ~3.83M characters / 601,199 tokens across all three language sections and the meta description.
+  - Fixed one audit warning (`loyalty/japan-points-landscape.md` missing peer link — adding two sibling entries shifted the audit's peer expectation) by adding a peer wikilink to the V Point row.
+- Counts: 911 → 943 Markdown files (+32), 910 → 942 public pages (+32), 911 → 943 sitemap URLs (+32), 20 topical domains, 881 → 913 link-audited entries (+32), 0 unresolved link issues, 3,653,607 → 3,830,476 non-space UTF-8 characters (+176,869), 573,116 → 601,199 word-like tokens (+28,083).
+- Validation result: `python tools/generate_ai_discovery.py` passed. `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed (entries_checked=913, entries_with_issues=0). All 10 agents self-reported pass; all 32 new files verified to exist on disk; all entries have ≥3 body wikilinks before Related/Sources.
+- Follow-up: Wave 2 will launch 10 more parallel agents covering C (thin-link density passes in 5 domains) + D3 (BoJ/FSA internal bureaus) + D4 (crypto-adjacent services) + D5 (JCB card-scheme adjacencies). Push to `origin/main` will happen after wave 2 finishes and user confirmation.
+
+#### 中文记录
+
+- 背景：用户在评估完整体扩写方案后指示 `ABCDE 都要做。长期任务，并行 10 agent`，覆盖 A (8 个已记录但未动的 backlog) / B (6 个缺失的 domain INDEX) / C (link-density 加密) / D (新批次内容) / E (清理空 placeholder)。Wave 1 并行 10 个 agent 产出 32 个新 entry 并为 wave 2 准备好 routing 面。
+- 影响范围：32 个新增 .md + 10 个 domain INDEX 更新 + 根目录 `INDEX.md` + `README.md` + `index.html` + 5 个 AI discovery files + `wiki-link-improvement-plan.md` + 删除 6 个空 placeholder 目录。
+- 新增 32 个文件：
+  - 8 个单条新增（money-market/tanshi 商业模型、loyalty 2 条、retail Lawson-KDDI、systems 跨链 5 极、fintech 稳定币 5 极、exchanges VASP 8 极、policy-finance project finance stack）。
+  - 6 个新建 domain INDEX（agent-economy、business、security、governance、trade、corporate-strategy）—— 此前这些 domain 已有 entry 但缺 INDEX，只能从 root INDEX 直接链接。
+  - JapanFG 信用金庫 Batch S1（10 条 operating-company anchors）：京都中央 / 大阪 / 城南 / 朝日 / 城北 / 多摩 / 川崎 / 横浜 / 岡崎 / 浜松磐田 —— 信金中央金庫 之外首次 per-shinkin 页面。
+  - JapanFG 大手 leasing Batch L1（8 条）：リコーリース / JA三井リース / 昭和リース / NEC キャピタル / 兼松リース / 北海道リース，加 2 条历史 disambiguation（興銀リース 2019-04-01 合并到 mizuho-lease；日立キャピタル 2021-04-01 合并到 mitsubishi-hc-capital）。
+- 执行内容：
+  - 用 Agent 工具并行启动 10 个 `general-purpose` agent，每个 agent 收到 self-contained prompt（hard rules + 现有 entry 风格 reference + 公开 source URL + 必填 JSON 输出格式），严禁触碰共享文件（CHANGELOG / INDEX / README / index.html / AI discovery files）。
+  - 删除 6 个空 placeholder 目录（`frontend`, `lifestyle`, `m-and-a`, `methodology`, `strategy`, `writing`）—— 全部 tracked file 数=0。
+  - 更新 10 个 domain INDEX（money-market、loyalty、retail、systems、fintech、exchanges、policy-finance、banking、JapanFG、加上 6 个新建 INDEX），加入新 entry、把 backlog 标 Done、补 cross-link。
+  - 在 `JapanFG/INDEX.md` 加 P46（信用金庫 S1）+ P47（大手 leasing L1）batch 段，更新 Phase 73 / Phase 74 rollout 历史和统计，合计 entity entry 数从 451 改成 469。
+  - 同步根 `INDEX.md` 的 domain table 到新数字（JapanFG 464→482, exchanges 115→116, fintech 104→105, systems 44→45, agent-economy 21→22, business 9→10, policy-finance 13→14, security 5→6, money-market 5→6, governance 2→3, retail 3→4, trade 2→3, corporate-strategy 1→2, loyalty 2→4），route 链接指向 6 个新 INDEX 文件。
+  - 同步 `README.md` 和 `index.html` 的 numeric snapshot 到 913 entries / 943 Markdown files / 约 383.0 万字 / 601,199 tokens（三语 metric card 和 meta description 均覆盖）。
+  - 修复 1 个 audit 警告（`loyalty/japan-points-landscape.md` 缺 peer link —— 新加 2 个 sibling 后 audit 期望它互引），在 V Point 行加 peer wikilink 解决。
+- 数字快照：Markdown files 911 → **943**（+32），public Markdown pages 910 → **942**（+32），sitemap URLs 911 → **943**（+32），topical domains 20，link-audited entries 881 → **913**（+32），unresolved link issues 0，non-space UTF-8 characters 3,653,607 → **3,830,476**（+176,869），word-like tokens 573,116 → **601,199**（+28,083）。
+- 验证结果：`python tools/generate_ai_discovery.py` 通过。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=913, entries_with_issues=0）。10 个 agent 全部 self-report pass + 32 个新文件 100% 落盘确认 + 每条 entry ≥3 个 body wikilink 已验证。
+- 后续事项：Wave 2 计划并行 10 agent 处理 C（5 个 thin-link 领域 density 加密）+ D3（BoJ/FSA 内部局）+ D4（crypto-adjacent services）+ D5（JCB card-scheme 周边）。push 到 `origin/main` 在 wave 2 完成 + 用户确认后再做。
+
 ## 2026-05-23
 
 ### 23:06 JST: AI-first corpus statement / AI 向け corpus 方針追記 / AI 优先 corpus 说明追加

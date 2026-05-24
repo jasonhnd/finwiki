@@ -34,7 +34,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-PYUSD 的核心差异化 = **不追求 DeFi 流动性(USDC 强项),专注 PayPal/Venmo 5 亿活跃账户的零售触达**——把"用 PayPal 账户的人"自然迁移到"用 PYUSD 链上转账"。分销激励模型镜像 Circle × Coinbase: Paxos 把储备 yield 的 80-90% 分给 PayPal 作为分销激励,**分销渠道捕获绝大部分经济价值,发行人只剩牌照壳和合规义务**。这与 [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]] 直接对应,是 2023-2026 稳定币行业 "分销 > 发行" 模式的典型样本。
+PYUSD 的核心差异化 = **不追求 DeFi 流动性(USDC 强项),专注 PayPal/Venmo 5 亿活跃账户的零售触达**——把"用 PayPal 账户的人"自然迁移到"用 PYUSD 链上转账"。分销激励模型镜像 Circle × Coinbase: Paxos 把储备 yield 的 80-90% 分给 PayPal 作为分销激励,**分销渠道捕获绝大部分经济价值,发行人只剩牌照壳和合规义务**。这与 [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]] 直接对应,同时呼应 [[fintech/issuer-distributor-incentive-realignment-50-50-model|发行/分销 50-50 重排范式]],是 2023-2026 稳定币行业 "分销 > 发行" 模式的典型样本。
 
 ## Origin & evolution
 
@@ -42,7 +42,7 @@ PYUSD 的核心差异化 = **不追求 DeFi 流动性(USDC 强项),专注 PayPal
 
 ## Counterpoints
 
-PYUSD MCap $1B 远小于 USDC $60B / USDT $145B —— 在零售汇款场景的市场份额仍小。PayPal 作为发行品牌方但不是技术控制方 (Paxos 控制 mint/burn 与储备),**PayPal 不能像 Circle 那样把发行能力锁死**,Paxos 也曾发过 BUSD (被 NY DFS 关停),意味着分销激励比例可能在压力下被压缩。Solana 主战场策略让 PYUSD 与 Solana 生态命运绑定 (Solana 若再次出现 2022 类 outage,PYUSD 零售场景受重创)。
+PYUSD MCap $1B 远小于 USDC $60B / USDT $145B —— 在零售汇款场景的市场份额仍小。PayPal 作为发行品牌方但不是技术控制方 (Paxos 控制 mint/burn 与储备),**PayPal 不能像 Circle 那样把发行能力锁死**,Paxos 也曾发过 BUSD (被 NY DFS 关停),意味着分销激励比例可能在压力下被压缩。Solana 主战场策略让 PYUSD 与 Solana 生态命运绑定 (Solana 若再次出现 2022 类 outage,PYUSD 零售场景受重创),跨链补强需依赖 [[systems/cctp-v2-overview|CCTP v2]] 之类的原生流动性桥才能稀释单链依赖。
 
 ## Open questions
 

@@ -35,19 +35,19 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 | 観点 | リテール SC（USDC 等） | 機関投資家 SC（預金トークン） |
 |---|---|---|
-| 発行体 | クリプト企業 | 銀行（JPM・三菱 UFJ・三井住友等） |
+| 発行体 | クリプト企業 | 銀行（[[fintech/jpmorgan-jpmd-coin|JPM]]・[[JapanFG/mufg|三菱 UFJ]]・[[JapanFG/smfg|三井住友]]等） |
 | KYC | パーミッションレス | 銀行口座 KYC = 機関投資家グレード |
 | 規模 | 小口 | 200-300 億円単位 / 案件 |
 | 決済対象 | リテール送金・暗号資産取引 | 米国債、社債、レポ市場、有価証券、FX |
-| プラットフォーム | Ethereum / Solana 等公開チェーン | Canton Network, Arc Network 等機関向け |
+| プラットフォーム | Ethereum / Solana 等公開チェーン | [[systems/canton-overview|Canton Network]], Arc Network 等機関向け |
 
 ## Reasoning
 
 - 米国債を 200 億円買う機関投資家が、ステーブルトークン単位で「この KYC 大丈夫か」を毎回チェックすることは不可能 → 同じ KYC レイヤーの発行体である必要
 - イランの人が米国債トークンを持てない（米国 SEC 規制下）→ 発行体側で KYC を完了済の預金トークンでしか決済できない
-- JPM Coin / Project Pax 等の「銀行発行預金トークン」が技術的・規制的に整合する唯一の形態
+- JPM Coin / [[fintech/jp-stablecoin-progmat|Project Pax]] 等の「銀行発行預金トークン」が技術的・規制的に整合する唯一の形態
 - DTCC・Nasdaq・Broadridge が米国債・株式の onchain 化アグリーメント進行中 → これらは全て機関向け、リテール SC は接続しない
-- 「USDC を機関市場で使えるか？」答えは構造的に "No" — プレイヤーが違うから
+- 「USDC を機関市場で使えるか？」答えは構造的に "No" — プレイヤーが違うから（[[fintech/tokenized-deposit-cumulative-volume-scale|TD 累計量級]] で機関側の実規模が確認できる）
 
 ## Applicable When
 

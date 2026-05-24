@@ -132,6 +132,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
 - [[exchanges/jp-exchange-binance-japan]] — 同業者 overview（Binance Japan）
 - [[exchanges/jp-exchange-gmo-coin]] — 同業者 overview（GMO コイン）
+- [[exchanges/jp-ieo-system-and-cases]] — JP IEO 制度・事例
+- [[exchanges/jp-vasp-derivative-license-system]] — JP VASP デリバティブライセンス制度
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 

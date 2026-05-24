@@ -129,6 +129,9 @@ JVCEA（一般社団法人日本暗号資産等取引業協会）の第二種会
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论（個別社の上場活動と区別）
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/jvcea-type2-associate-membership-system]] — JVCEA Type 2 associate membership 制度
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
+- [[exchanges/jp-vasp-derivative-license-system]] — JP VASP デリバティブライセンス制度
 
 ## Sources
 

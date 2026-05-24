@@ -112,6 +112,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-coincheck]] — 主要競合
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
+- [[exchanges/jp-vasp-ma-consolidation-history]] — JP VASP M&A コンソリデーション史
+- [[exchanges/jp-cex-nft-marketplace-integration]] — JP CEX NFT マーケットプレイス統合
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 

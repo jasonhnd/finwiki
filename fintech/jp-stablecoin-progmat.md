@@ -118,7 +118,7 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 
 **業務外**: 自社による暗号資産取引・交換・保管（JVCEA非加盟のため）
 
-**Project Pax（クロスボーダー）**:
+**Project Pax（クロスボーダー）** — SWIFT API 互換通道の詳細は [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]] 参照:
 - 2024-09: Datachain・TOKI連携で日韓間SC転送パイロット開始
 - 2025-02: 韓国金融機関とのMOU締結
 - 2025-03: 香港 – 日本間貿易決済実証（IDA・Datachain・TOKI連携）

@@ -39,7 +39,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## 典型案例：2026-08 Coinbase-Circle 协议续约
 
-作为稳定币历史上最重要的共生关系，Coinbase 与 Circle 在 2023 年 8 月重新签署了 USDC 利益分成协议（销毁了 Centre Consortium，改由 Circle 直接发行，Coinbase 获得股权及基于平台内 USDC 余额的利息分成）。
+作为稳定币历史上最重要的共生关系，Coinbase 与 Circle 在 2023 年 8 月重新签署了 USDC 利益分成协议（销毁了 Centre Consortium，改由 Circle 直接发行，Coinbase 获得基于平台内 USDC 余额的利息分成）。具体的 50/50 分成数学结构见 [[fintech/issuer-distributor-incentive-realignment-50-50-model|发行方-分销方 50/50 模型]] 与 [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]。
 
 | 阶段 | 周期时间 | 战略行为与杠杆构建 |
 |---|---|---|
@@ -58,7 +58,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ### 2. 协议受制方（如依赖渠道的发行方）
 - **策略**：在续约日前完成“去渠道化”布局，构建直接面向终端用户的分发网络。
-- **手段**：Circle 推出 Arc 战略、积极游说 GENIUS Act 立法以获得联邦级合规身份，从而降低对单一交易所渠道的依赖。
+- **手段**：Circle 推出 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc 战略]]、积极游说 [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 立法以获得联邦级合规身份，从而降低对单一交易所渠道的依赖。
 
 ### 3. 外部观察者与竞争者
 - **策略**：将续约日期作为做空/做多相关标的的事件驱动型（Event-Driven）时间锚点。

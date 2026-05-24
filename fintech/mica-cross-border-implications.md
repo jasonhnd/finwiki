@@ -37,7 +37,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **三圆 MRA 欧盟支柱**:USA-EU MRA(预计 2026-Q3)= USDC ↔ EURC 双向互认。Circle Europe 是 MiCA EMT 第一批持牌发行方(USDC EU + EURC),同时满足 GENIUS PPSI + MiCA EMT + Significant Token 三重合规 → 跨大西洋"day-1 双圆合规"独家。这是 USDC 估值溢价于 USDT 的核心结构性原因之一。
 
-**ESMA Q&A 3.4 锚点**:明确"等待 MRA"——这是政策时间表锚点。任何 MiCA 第一波 §501(d) 入榜 = 三圆 MRA 欧盟支柱落地。MiCA 与 DORA(2025-01-17 生效)形成"业务 + 韧性"双轨监管,DORA CTPP 机制把 AWS / Anchorage / Coinbase Custody 等 SC 关键基础设施"间接纳入监管"。
+**ESMA Q&A 3.4 锚点**:明确"等待 MRA"——这是政策时间表锚点。任何 MiCA 第一波 §501(d) 入榜 = 三圆 MRA 欧盟支柱落地。MiCA 与 DORA(2025-01-17 生效)形成"业务 + 韧性"双轨监管,DORA CTPP 机制把 AWS / Anchorage / Coinbase Custody 等 SC 关键基础设施"间接纳入监管"。CASP 配套要求详见 [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概览]],与 GENIUS / HKMA / MAS / JFSA 横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 **受压玩家路径**:
 - Tether / USDT:MiCA 不接受 + Article 17 大型 SC 限制 → USDT 在欧盟份额 2024-12 ~28% → 2026-05 ~3% · 转向 HK 申请 + 灰色市场
@@ -47,7 +47,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-2024-12 MiCA 全面生效 → 2024-12-30 EU TFR 2023/1113 生效 + USDT 在欧盟主流交易所下架 → 2025-01-17 DORA 全部条款生效 → 2025-08 Membrane Finance 收购 Tether 谈判破裂 = 欧盟入路彻底关闭 → 2025-09 USDC 列为 Significant EMT。2026-Q3 USA-EU MRA 签署预期 = 三圆 MRA 第一支柱落地。
+2024-12 MiCA 全面生效 → 2024-12-30 EU TFR 2023/1113 生效 + USDT 在欧盟主流交易所下架 → 2025-01-17 [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] 全部条款生效 → 2025-08 Membrane Finance 收购 Tether 谈判破裂 = 欧盟入路彻底关闭 → 2025-09 USDC 列为 Significant EMT。2026-Q3 USA-EU MRA 签署预期 = 三圆 MRA 第一支柱落地。
 
 ## Counterpoints
 

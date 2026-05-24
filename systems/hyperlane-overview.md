@@ -51,19 +51,19 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 Hyperlane 由 Asa Oines、Jon Kol 等(原 Celo 团队成员)2021 创立 · 早期名为 Abacus · 2022 改名 Hyperlane。核心赌注是"长尾链需要 permissionless bridge",这与 LayerZero / CCIP 的中心化部署模式形成路线分歧。
 
-2023-2025 间陆续被 Celestia / dYdX v4 / Injective / Sei / Berachain 等长尾 / app-chain 采用 · 成为非 EVM(Cosmos / Solana / Move)接入 EVM 生态的事实标准。2024 加入 EigenLayer restaking 集成后 · 加密经济安全继承自 Ethereum L1。
+2023-2025 间陆续被 Celestia / dYdX v4 / Injective / Sei / Berachain 等长尾 / app-chain 采用 · 成为非 EVM(Cosmos / Solana / Move)接入 EVM 生态的事实标准(参见 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 机构对照]])。2024 加入 EigenLayer restaking 集成后 · 加密经济安全继承自 Ethereum L1。
 
 ## Counterpoints
 
 **Permissionless 的代价**:**ISM 选择责任全在 app 开发者**。如果 app 选了弱 multisig · 被 hack 不能怪 Hyperlane 协议。这与 LayerZero/CCIP 的"协议方背书"模式形成 trade-off——更开放但更需要 app 团队懂 security。
 
-**心智份额**:LayerZero 通过早期激进市场推广 · 心智份额仍领先 Hyperlane。机构/大型 dApp 在选择跨链协议时 · LayerZero 的"团队背书"反而是优势 · Hyperlane 主要服务"愿意自负 security 责任"的项目方。
+**心智份额**:LayerZero 通过早期激进市场推广 · 心智份额仍领先 Hyperlane。机构/大型 dApp 在选择跨链协议时 · LayerZero 的"团队背书"反而是优势 · Hyperlane 主要服务"愿意自负 security 责任"的项目方(对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 上 LayerZero 与 Wormhole 的份额)。
 
 ## Open questions
 
 - 50+ 链中实际有活跃流量的占比?
 - EigenLayerISM 在 2025-2026 间的实际采用率?
-- 与 LayerZero / CCIP 的长期市场份额分配?
+- 与 LayerZero / CCIP 的长期市场份额分配?(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]])
 - Hyperlane token 经济模型对长期可持续性的影响?
 
 ## Related

@@ -35,14 +35,14 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **通用性**：该模型可推广至以下情景：
 
-- PYUSD（PayPal）与 Paxos 之间的分账安排
-- USD1（World Liberty Financial）与 Bridge 之间的分账安排
-- JPYC（[[stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 环形持股]]）的潜在分销分账结构
+- [[fintech/paypal-pyusd-stablecoin|PYUSD（PayPal）]] 与 Paxos 之间的分账安排
+- [[fintech/world-liberty-usd1-political-stablecoin|USD1（World Liberty Financial）]] 与 Bridge 之间的分账安排
+- [[JapanFG/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 环形持股]]）的潜在分销分账结构
 - USDT（Tether）与 Bitfinex 的历史关系（条款未公开）
 
 **典型触发时间窗**：分销协议通常以 3-5 年期限叠加自动续约条款的形式签订。USDC 案例中 2026-08 协议续约即是 Circle 与 Coinbase 之间的关键博弈节点。
 
-**估值含义**：分销方（Coinbase）的稳定币 revenue 高度依赖于**协议存续**。若协议解约，年化收入可能下滑 30-60%。这是 [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密原生]] 演化路径中的关键经济动因。
+**估值含义**：分销方（Coinbase）的稳定币 revenue 高度依赖于**协议存续**。若协议解约，年化收入可能下滑 30-60%。这是 [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密原生]] 演化路径中的关键经济动因，并直接推动了 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Circle Arc 反向整合战略]] 的形成。
 
 
 ## Related

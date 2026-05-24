@@ -37,11 +37,11 @@ cbBTC 在 Coinbase 4 层闭环中扮演 host 资产:**Coinbase CEX → mint cbBT
 
 ## Origin & evolution
 
-2024-09-12 cbBTC 上线 (Coinbase 内部 BTC 业务部门 + Base 团队联合发布)。2024-Q4 BitGo 治理风波 (WBTC 储备多签转 Sun 关联实体) 引发机构信任危机,Coinbase 主动以"美国上市公司 + OCC 监管 + 透明储备" 三件套接收迁移。2025-Q1 cbBTC 在 Aerodrome 流动性深度反超 WBTC。2025-Q3 Aerodrome+Velodrome 合并 (94.5% : 5.5%) 进入 Ethereum L1 + Circle Arc,cbBTC 跨链复制路径启动。2026-03 流通量达 89,000 BTC = WBTC 历史峰值的 ~60%。**机构迁移窗口期约 18-24 个月**,一旦头寸固化迁移成本极高。
+2024-09-12 cbBTC 上线 (Coinbase 内部 BTC 业务部门 + Base 团队联合发布)。2024-Q4 BitGo 治理风波 (WBTC 储备多签转 Sun 关联实体) 引发机构信任危机,Coinbase 主动以"美国上市公司 + OCC 监管 + 透明储备" 三件套接收迁移。2025-Q1 cbBTC 在 Aerodrome 流动性深度反超 WBTC。2025-Q3 Aerodrome+Velodrome 合并 (94.5% : 5.5%) 进入 Ethereum L1 + Circle Arc,cbBTC 跨链复制路径启动。2026-03 流通量达 89,000 BTC = WBTC 历史峰值的 ~60%。**机构迁移窗口期约 18-24 个月**,一旦头寸固化迁移成本极高,与 [[fintech/regulatory-window-strategic-acquisition|监管窗口 × 战略收购]] 中"窗口期对手不可逆迁移"逻辑同构。
 
 ## Counterpoints
 
-cbBTC 单点失败 + 利益冲突:Coinbase 同时是托管方 + 链方 + Aerodrome 大股东 + cbBTC mint/burn 控制人 + 链上 attestation 提供方。SEC 在 Coinbase v SEC 诉讼中已暗示这类多重角色的复杂性。Threshold tBTC 在散户路径仍有替代作用,Wrapped 资产领域不是 winner-takes-all。**反例**:若 OCC 禁止 Coinbase 同时托管 IBIT + cbBTC + USDC 储备,Coinbase 必须拆分业务,cbBTC 飞轮直接受损。
+cbBTC 单点失败 + 利益冲突:Coinbase 同时是托管方 + 链方 + Aerodrome 大股东 + cbBTC mint/burn 控制人 + 链上 attestation 提供方。SEC 在 Coinbase v SEC 诉讼中已暗示这类多重角色的复杂性,这与 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|发行/分销 ARC 战略]] 中 Circle 把 issuer / chain / distributor 内化为同一实体的"全栈反向整合"路径形成镜像。Threshold tBTC 在散户路径仍有替代作用,Wrapped 资产领域不是 winner-takes-all。**反例**:若 OCC 禁止 Coinbase 同时托管 IBIT + cbBTC + USDC 储备,Coinbase 必须拆分业务,cbBTC 飞轮直接受损。
 
 ## Open questions
 

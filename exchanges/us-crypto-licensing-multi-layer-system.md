@@ -70,3 +70,6 @@ status: candidate
 - [[exchanges/hk-sfc-vasp-licensing-overview]] — 香港制度比較
 - [[fintech/cftc-sec-crypto-jurisdiction]] — SEC/CFTC 管轄競争詳細
 - [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage]] — OCC Trust の連邦アービトラージ構造
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
+- [[exchanges/eu-mica-casp-regime-overview]] — EU MiCA CASP 制度比較

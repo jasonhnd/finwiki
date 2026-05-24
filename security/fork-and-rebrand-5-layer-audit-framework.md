@@ -50,7 +50,7 @@ Layer 5: 合规与许可证审计 (License & Copyleft Verification)
 - **手段**：
   - 检索上游协议自分叉 Commit 以来的所有漏洞披露、审计报告及 GitHub Security Advisories。
   - 定向检查本项目中对应的漏洞代码片段。
-  - **典型失败案例**：许多 Compound V2 Fork 项目在 2023-2024 年依然遗传了原版已被修复的只读预言机操纵（Read-only Oracle Manipulation）漏洞。
+  - **典型失败案例**：许多 Compound V2 Fork 项目在 2023-2024 年依然遗传了原版已被修复的只读预言机操纵（Read-only Oracle Manipulation）漏洞。日本 VASP 侧的同类问题可参考 [[exchanges/jp-vasp-security-audit-certification|JP VASP 安全审计认证体系]] 的强制 disclosure 要求。
 
 ### Layer 3: 编译指纹与字节码比对 (Compilation Fingerprint & Diff)
 - **目标**：利用 [[security/bytecode-forensic-three-tier-verify|三层 verify 技术]]，验证链上实际部署的 Bytecode 是否与项目方声称的开源代码完全一致。
@@ -76,12 +76,12 @@ Layer 5: 合规与许可证审计 (License & Copyleft Verification)
 ## 适用场景
 
 - **DeFi 乐高集成商**：在集成某新型借贷/DEX 协议前，评估其是否为劣质 Fork。
-- **安全审计机构**：为项目方提供针对性的分叉安全合规报告。
-- **司法与追赃取证**：在发生黑客攻击后，判断受害项目是否因遗传上游已知漏洞导致被盗，并厘清责任归属。
+- **安全审计机构**：为项目方提供针对性的分叉安全合规报告。在受监管基础设施场景下，参考 [[systems/hook-enforced-compliance|hook-enforced compliance]] 模式将检测前置到运行时。
+- **司法与追赃取证**：在发生黑客攻击后，判断受害项目是否因遗传上游已知漏洞导致被盗，并厘清责任归属。重大事件参考 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] 与 [[exchanges/mtgox-bankruptcy-processing-timeline|Mt.Gox 破产处理 timeline]] 等历史范式。
 
 ## 相关限制与边界
 
-- **零知识/非 EVM 链**：在 Solana、Aptos 等非 EVM 链上，字节码比对和指纹提取需要完全不同的工具链（如 Anchor build 验证）。
+- **零知识/非 EVM 链**：在 Solana、Aptos 等非 EVM 链上，字节码比对和指纹提取需要完全不同的工具链（如 Anchor build 验证）。许可链 / privacy-preserving 链如 [[systems/canton-overview|Canton]] 的 DAML model 进一步需要 contract-template 级 diff。
 - **混淆编译器**：如果项目方使用了专有的混淆技术或修改了 solc 编译器，Layer 3 的相似度匹配效果将大幅下降。
 
 ## Related

@@ -114,6 +114,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-foreign-exchange-bybit]] — 同様に FSA 警告を受けた海外無登録取引所
 - [[exchanges/jp-foreign-exchange-mexc]] — 同日 FSA 警告を受けた取引所
 - [[exchanges/jp-foreign-exchange-kucoin]] — 同日 FSA 警告を受けた取引所
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
+- [[exchanges/cex-native-token-strategy-comparison]] — CEX ネイティブトークン戦略比較（BGB）
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
 
 ## Sources
 

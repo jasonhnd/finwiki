@@ -58,11 +58,11 @@ AgentCore / AWS / 主流 SaaS 巨头确认 (2025.07+)
 
 **Privy = "Stripe of Web3 wallets"** 是 2024.Q4 起 a16z / Sequoia 投资逻辑核心 · 2025-2026 被 AWS AgentCore 验证。
 
-**§501 监管友好的关键设计**:用户的 USDC / USDB 余额**直接在用户的链上 wallet** (Privy / CDP-derived address) · Privy / CDP 本身**不持有用户余额**(MPC + TEE 隔离) · 仅提供 key management / signing 服务 → 不是 money transmitter · 不是 custodian。
+**§501 监管友好的关键设计**:用户的 USDC / USDB 余额**直接在用户的链上 wallet** (Privy / CDP-derived address) · Privy / CDP 本身**不持有用户余额**(MPC + TEE 隔离) · 仅提供 key management / signing 服务 → 不是 money transmitter · 不是 custodian(参见 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] · 与 [[exchanges/cex-matching-engine-wallet-architecture|CEX 托管模型]] 形成鲜明对照)。
 
 ## Origin & evolution
 
-2018-2022 = MetaMask 主导 · 用户主动安装。2023-2024 = Privy / Magic / CDP 切 b2b SaaS · 1000+ dApps 默认集成。2025.07 = AWS AgentCore 把 Privy 选为 default · 嵌入式 wallet 从 crypto 工具升级为通用支付基础设施。2025-2026 Tempo / Base / Arc 生态预计集体采用嵌入式 wallet 而非自建 · 形成"全行业默认"格局。
+2018-2022 = MetaMask 主导 · 用户主动安装。2023-2024 = Privy / Magic / CDP 切 b2b SaaS · 1000+ dApps 默认集成(技术底座普及见 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 嵌入式钱包采用]])。2025.07 = AWS AgentCore 把 Privy 选为 default · 嵌入式 wallet 从 crypto 工具升级为通用支付基础设施。2025-2026 Tempo / Base / Arc 生态预计集体采用嵌入式 wallet 而非自建 · 形成"全行业默认"格局。
 
 ## Counterpoints
 

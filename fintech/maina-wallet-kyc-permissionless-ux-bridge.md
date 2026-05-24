@@ -52,13 +52,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - マイナンバーカードは 1 億発行超 = 日本社会インフラ化済
 - マイナウォレット社の株主構造に証券系（Monex）と暗号資産系（Coincheck グループ）が並ぶ → 暗号資産業務 know-how と証券業務 know-how が交差する組合せ
 - 病院決済 PoC、チケット転売防止、メルカリ偽物対策など、ID + 決済の組合せ use case が存在
-- 銀行・既存決済企業が単独では作れない「ID × ウォレット × KYC」レイヤーを社会インフラとして提供する位置取り
+- 銀行・既存決済企業が単独では作れない「ID × ウォレット × KYC」レイヤーを社会インフラとして提供する位置取り（プロトコル基礎は [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]] と同方向だが KYC 起点）
 
 ## Applicable When
 
-- 日本リテール SC の差別化設計（マイナ連携 等）
+- 日本リテール SC の差別化設計（マイナ連携 等、[[JapanFG/jpyc|JPYC]] と接続を検討する場面）
 - 「USDC vs 国産 SC」議論で日本の構造的優位を語るとき → マイナがある日本は KYC ベース SC を最初から組める「チャンス」
-- 銀行 BaaS × ウォレット連携の構造を設計するとき
+- 銀行 BaaS × ウォレット連携の構造を設計するとき、[[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン/SC 統合]] と組み合わせて KYC レイヤーを共有する設計が成り立つ
 - SC 発行体として KYC レイヤーを設計するとき
 - ペイペイ・スイカ等既存リテール決済との差別化軸を組むとき
 

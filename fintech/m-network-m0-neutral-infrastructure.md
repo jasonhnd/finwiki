@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-传统模型 = issuer 同时管储备 + 写智能合约 + 自分销 (Circle / Paxos / Tether 都是垂直整合). **M^0 分层中立模型**: (1) **Infrastructure Layer** = M^0 统一接 BUIDL/UST/现金储备 + 统一智能合约 (EVM 兼容) + DAO 验证 issuer 资格; (2) **Brand Layer** = 多家 issuer 共享 M^0 基础设施, 各自带自有品牌 (银行 X 的 SC / Fintech Y 的 SC / 跨境支付公司 Z 的 SC). 任何想发稳定币的机构 / Fintech / 银行**不用自己造轮子**——直接接入 M^0 合规模板 + 储备接入 + 智能合约审计 + DAO 治理, 几周上线一个合规稳定币。收费按发行规模收 bps (类似 BUIDL 20bps 管理费), 不卷入品牌竞争。
+传统模型 = issuer 同时管储备 + 写智能合约 + 自分销 (Circle / Paxos / Tether 都是垂直整合). **M^0 分层中立模型**: (1) **Infrastructure Layer** = M^0 统一接 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]/UST/现金储备 + 统一智能合约 (EVM 兼容) + DAO 验证 issuer 资格; (2) **Brand Layer** = 多家 issuer 共享 M^0 基础设施, 各自带自有品牌 (银行 X 的 SC / Fintech Y 的 SC / 跨境支付公司 Z 的 SC). 任何想发稳定币的机构 / Fintech / 银行**不用自己造轮子**——直接接入 M^0 合规模板 + 储备接入 + 智能合约审计 + DAO 治理, 几周上线一个合规稳定币。收费按发行规模收 bps (类似 BUIDL 20bps 管理费), 不卷入品牌竞争, 与 [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]] 共享同一战略立场。
 
 ## Origin & evolution
 
@@ -43,7 +43,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Counterpoints
 
-M^0 总管理 $300M 仍是早期阶段, 距离"基础设施层标准"地位差至少 10x. 8 家 issuer 中只有 3 家公开 = 早期可能多为 "纸面合作", 真实流通量分布不明. **"分层中立"叙事的脆弱性**: BlackRock 投 M^0 = 不再绝对中立 (BlackRock 控制 M^0 储备资产偏好); Goldman 投 M^0 = 银行客户群体被绑定. 中性基础设施面临的真实竞争来自 **Bridge (Stripe)** —— Bridge 同样提供 "替你发稳定币" 服务但绑 Stripe 客户网络, 在分销层比 M^0 强。Circle Mint API 也允许第三方品牌化 USDC, 部分蚕食 M^0 长尾市场。
+M^0 总管理 $300M 仍是早期阶段, 距离"基础设施层标准"地位差至少 10x. 8 家 issuer 中只有 3 家公开 = 早期可能多为 "纸面合作", 真实流通量分布不明. **"分层中立"叙事的脆弱性**: BlackRock 投 M^0 = 不再绝对中立 (BlackRock 控制 M^0 储备资产偏好); Goldman 投 M^0 = 银行客户群体被绑定. 中性基础设施面临的真实竞争来自 **Bridge (Stripe)** —— Bridge 同样提供 "替你发稳定币" 服务但绑 Stripe 客户网络, 在分销层比 M^0 强, 与 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse 路径]] 的"分销端 lock-in" 形成正面对抗。Circle Mint API 也允许第三方品牌化 USDC, 部分蚕食 M^0 长尾市场。
 
 ## Open questions
 

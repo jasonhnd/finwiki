@@ -34,11 +34,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-每个央行运营 1 个 mBridge 验证节点 + 各自的 CBDC ledger,共享 mBridge ledger 做跨币种结算。PvP 模式确保两笔 CBDC 转账要么同时成功要么同时回滚,消除 Herstatt risk(时差结算风险)。商业银行作为 sub-participants 通过各国央行接入 —— 没有私营节点。HotStuff BFT 提供 < 10 秒 finality 对比 SWIFT MT 跨境 1-3 天。BIS 退出后(2025-10)反而释放了中国 PBoC 主导该协议的自由度 —— 没有 BIS 中立性约束后,mBridge 可以更激进地扩展 BRICS+ 货币与商品贸易场景。
+每个央行运营 1 个 mBridge 验证节点 + 各自的 CBDC ledger,共享 mBridge ledger 做跨币种结算。PvP 模式确保两笔 CBDC 转账要么同时成功要么同时回滚,消除 Herstatt risk(时差结算风险)。商业银行作为 sub-participants 通过各国央行接入 —— 没有私营节点。HotStuff BFT 提供 < 10 秒 finality 对比 SWIFT MT 跨境 1-3 天。BIS 退出后(2025-10)反而释放了中国 PBoC 主导该协议的自由度 —— 没有 BIS 中立性约束后,mBridge 可以更激进地扩展 BRICS+ 货币与商品贸易场景,与 SWIFT API 通道的对照见 [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]。
 
 ## Origin & evolution
 
-2021 BIS Innovation Hub Hong Kong Centre 启动 · 联合 PBoC / HKMA / BoT / CBUAE 4 央行。2022-2023 PoC 阶段完成跨币种实验。2024-06 沙特 SAMA 加入 · 升至 5 央行。2024 进入 MVP 商业可用阶段 · 与 Aramco 石油结算 / 中-巴大豆贸易 / 中-阿黄金交割接入测试。2025-10 BIS 退出运营 —— 表面 "地缘政治风险" · 实际是 美国/G7 政治压力 + 中国主导话语权过强。2026-Q2 起与巴西 BCB DREX 互操作性测试 → 跨大洲非美元结算闭环成型。
+2021 BIS Innovation Hub Hong Kong Centre 启动 · 联合 PBoC / HKMA / BoT / CBUAE 4 央行。2022-2023 PoC 阶段完成跨币种实验。2024-06 沙特 SAMA 加入 · 升至 5 央行。2024 进入 MVP 商业可用阶段 · 与 Aramco 石油结算(详见 [[fintech/sovereign-capital-pool-aramco-anchor|Aramco 主权资金池锚]])/ 中-巴大豆贸易 / 中-阿黄金交割接入测试。2025-10 BIS 退出运营 —— 表面 "地缘政治风险" · 实际是 美国/G7 政治压力 + 中国主导话语权过强。2026-Q2 起与巴西 BCB DREX 互操作性测试 → 跨大洲非美元结算闭环成型,详细规模见 [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge 非美元结算环规模]]。
 
 ## Counterpoints
 

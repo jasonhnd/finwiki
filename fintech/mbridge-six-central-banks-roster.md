@@ -34,7 +34,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-mBridge 验证者 = 央行(100% 主权)· 商业银行 = sub-participants(通过央行接入)。这与 BIS Agora 的 "央行 + 商业银行共同验证" 模式不同 —— mBridge 把私营完全排除在共识层之外。PBoC 实质主导意味着 e-CNY 是事实上的 "桥本位币" —— 跨境结算可以双边(如人民币-雷亚尔)但更常见的是经 e-CNY 中转。HKMA 的特殊地位:既是 mBridge 节点又主导 Project Ensemble(香港多代币化资产结算平台),两者打通让香港成为 "离岸人民币 CBDC + tokenized asset" 的双重枢纽。SAMA 加入意味着石油结算潜在转向 mBridge —— 这是 "石油美元" 体系最直接的挑战。BCB DREX 互操作把南美最大经济体接入,完成首个非洲外大洲扩展。
+mBridge 验证者 = 央行(100% 主权)· 商业银行 = sub-participants(通过央行接入)。这与 [[fintech/bis-project-agora-overview|BIS Agora]] 的 "央行 + 商业银行共同验证" 模式不同 —— mBridge 把私营完全排除在共识层之外。PBoC 实质主导意味着 e-CNY 是事实上的 "桥本位币" —— 跨境结算可以双边(如人民币-雷亚尔)但更常见的是经 e-CNY 中转。HKMA 的特殊地位:既是 mBridge 节点又主导 Project Ensemble(香港多代币化资产结算平台,详见 [[fintech/bis-project-ensemble-overview|BIS Project Ensemble 总览]]),两者打通让香港成为 "离岸人民币 CBDC + tokenized asset" 的双重枢纽。SAMA 加入意味着石油结算潜在转向 mBridge —— 这是 "石油美元" 体系最直接的挑战(详见 [[fintech/sovereign-capital-pool-aramco-anchor|Aramco 主权资金池锚]])。BCB DREX 互操作把南美最大经济体接入,完成首个非洲外大洲扩展。
 
 ## Origin & evolution
 

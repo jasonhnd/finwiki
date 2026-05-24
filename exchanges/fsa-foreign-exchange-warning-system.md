@@ -68,4 +68,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 2025-02 MEXC 案件は、FSA が直接 Apple/Google にアプリ削除を要請した初期事例。警告書の法的拘束力欠如を補い、デバイス層でのアクセス遮断を実現する**実効的措置**として位置づけられる。今後の海外事業者対応の標準モデルとなる可能性が高い。
 
+## 関連
+
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/jp-vasp-regulatory-timeline]] — JP VASP 規制タイムライン
+- [[exchanges/fsa-business-improvement-orders-history]] — FSA 業務改善命令履歴
+
 来源: projects/cgv/jp-crypto-exchange-research/

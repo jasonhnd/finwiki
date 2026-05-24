@@ -45,9 +45,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - SCS license:发行 SGD-pegged 或 G10-pegged 稳定币 → 必须 MAS-regulated
 - USDC 在新加坡:通过 Circle Singapore(DPT-licensed)流通,但 USDC 本身的发行受 GENIUS §501 监管 · 非 MAS SCS
 
+DPT 牌照体系的详细机构层级见 [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT 牌照概览]]。
+
 ## Origin & evolution
 
-2019 PS Act 通过奠定六类 payment service 法律基础。2020-2022 DPT licensing 启动,Coinbase / Crypto.com / StraitsX 等陆续获牌。2023-08 SCS Framework 发布(亚洲首个完整 SC 子框架,早于 HKMA 2 年)。2024-04 DTSP Regime 修订关闭"Singapore hub serving global"灰色地带,USDT 等不合规玩家退出 hub 战略。2026-03 Singapore-US MRA 签署 → §501(d) 第一波亚洲入榜。
+2019 PS Act 通过奠定六类 payment service 法律基础。2020-2022 DPT licensing 启动,Coinbase / Crypto.com / StraitsX 等陆续获牌。2023-08 SCS Framework 发布(亚洲首个完整 SC 子框架,早于 [[fintech/hkma-stablecoin-licensing-overview|HKMA]] 2 年)。2024-04 DTSP Regime 修订关闭"Singapore hub serving global"灰色地带,USDT 等不合规玩家退出 hub 战略。2026-03 Singapore-US MRA 签署 → §501(d) 第一波亚洲入榜。亚洲 / 全球 VASP 横向比较见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Counterpoints
 

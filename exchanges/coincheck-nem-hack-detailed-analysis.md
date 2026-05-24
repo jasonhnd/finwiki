@@ -70,5 +70,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jp-vasp-ma-consolidation-history]] (Monex 子会社化)
 - [[exchanges/mtgox-bankruptcy-processing-timeline]]
 - [[exchanges/ftx-japan-100pct-return-case-study]]
+- [[security/forensic-identity-anchor-chain|forensic identity anchor chain]]
+- [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]]
+- [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック詳細分析]]
 
 来源: projects/cgv/jp-crypto-exchange-research/

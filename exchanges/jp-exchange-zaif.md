@@ -149,6 +149,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般論
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/jp-vasp-incident-history]] — JP VASP インシデント史（Zaif ハック含む）
+- [[exchanges/jp-vasp-ma-consolidation-history]] — JP VASP M&A コンソリデーション史
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 

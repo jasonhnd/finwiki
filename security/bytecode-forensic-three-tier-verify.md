@@ -54,18 +54,18 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-
 - 同一团队部署多链时,verified 一边 + 未 verified 另一边的情况常见
 - 拿 verified 那边的 runtime bytecode (剥离 metadata hash) 作为 fingerprint
 - 在未 verified 链用 bytecode 相似度匹配 (e.g. SimHash / k-gram)
-- 命中 = 同一团队 = 身份锚定
+- 命中 = 同一团队 = 身份锚定 — 商用 [[exchanges/global-crypto-forensics-vendor-layer|链上 forensics vendor]] 把这层做成跨链 cluster 标签库
 
 ## When to Use
 
 - 关键合约 (bridge / vault / governance) 故意不 verify
 - 项目方 GitHub 已删但合约还在跑
 - 跨链项目要识别"门面 vs 真团队"
-- 怀疑 backdoor / 紧急 pause / 黑名单接口
+- 怀疑 backdoor / 紧急 pause / 黑名单接口 — 历史交易所事件如 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] 与 [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]] 都涉及 attacker 部署未 verified 中转合约
 
 ## When NOT to Use
 
-- 已完整 verified + 源码可信的合约 (直接读源码)
+- 已完整 verified + 源码可信的合约 (直接读源码) — 此时 [[systems/formal-spec-implementation-codesign|formal-spec implementation co-design]] 类的规范优先方法更有效
 - proxy 合约 (用 EIP-1967 storage slot 找 implementation 再做)
 - 纯只读 view 合约 (风险低)
 

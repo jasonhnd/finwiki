@@ -1,0 +1,118 @@
+---
+title: "Business domain"
+aliases:
+  - "business INDEX"
+  - "business cases domain"
+  - "ビジネスケース domain"
+domain: "business"
+created: 2026-05-24
+last_updated: 2026-05-24
+last_tended: 2026-05-24
+review_by: 2026-11-20
+confidence: certain
+tags: [business, index, case-studies, strategy, people, templates]
+status: active
+sources:
+  - "https://www.jpmorgan.com/onyx/index"
+  - "https://www.apollo.com/insights"
+  - "https://www.blackrock.com/corporate/literature/whitepaper/bii-tokenisation.pdf"
+  - "https://tether.to/en/transparency"
+  - "https://www.sec.gov/biography/commissioner-hester-m-peirce"
+  - "https://www.sbigroup.co.jp/english/"
+  - "https://www.paradigm.xyz/team"
+  - "https://polygon.technology/"
+  - "https://www.gmo.jp/en/"
+---
+
+# Business domain
+
+## TL;DR
+
+This domain holds **named strategic case studies** — people, founders, regulators, and one operating-company case — where the public record is rich enough to extract a *reusable pattern or template*. Each entry has a "what's the template" framing, not just a profile.
+
+The current set splits into two clusters: **people case studies** (founders, executives, regulators whose individual decisions visibly shape the system) and the **public-company strategic case** for GMO Internet Group as the lone operating-company entry. For Japan-financial-group entity coverage use [[JapanFG/INDEX|JapanFG]]; for the AI-agent protocols several of these case subjects influence, use [[agent-economy/INDEX|agent-economy]].
+
+## Route map
+
+| Lane | Start here | Cluster |
+|---|---|---|
+| Anti-crypto-pivot template | [[business/jamie-dimon-anti-crypto-pivot-case\|Jamie Dimon · anti-crypto CEO pivot to support · JPM Kinexys / JPMD on Base]] | People case studies |
+| Asset-manager template | [[business/larry-fink-blackrock-digital-asset-template\|Larry Fink · BlackRock digital asset template · ETF + RWA + politics]] | People case studies |
+| Triple-role COI template | [[business/matt-huang-triple-role-coi-template\|Matt Huang · triple-role COI template · VC GP + Board + portfolio CEO]] | People case studies |
+| Issuer business model | [[business/paolo-ardoino-tether-business-model-template\|Paolo Ardoino · Tether 40-person + short-Treasury arbitrage model]] | People case studies |
+| Talent flow as signal | [[business/christine-moy-talent-signal-jpm-apollo\|Christine Moy · key talent flow as industry signal · JPM Onyx → Apollo]] | People case studies |
+| Regulator-pivot template | [[business/hester-peirce-sec-regulatory-pivot-case\|Hester Peirce · regulator pivot · personal ideology + institutional mandate]] | People case studies |
+| Independent-strategy template | [[business/kitao-yoshitaka-sbi-independent-strategy-case\|Kitao Yoshitaka / SBI · independent strategy · refuse industry alliance, bet on cross-border compliance]] | People case studies |
+| Country-bloc winner pattern | [[business/sandeep-nailwal-polygon-india-dpi-pattern\|Sandeep Nailwal / Polygon · country-bloc winner · anti-USD DPI alliance and EM chain supply]] | People case studies |
+| Operating-company case | [[business/gmo-internet-group\|GMO Internet Group]] | Public-company strategic cases |
+
+## Start here
+
+Five high-leverage entries to read first:
+
+1. [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino · Tether business model template]] — clearest illustration of "40 people + short-Treasury arbitrage" as a reusable issuer business model.
+2. [[business/larry-fink-blackrock-digital-asset-template|Larry Fink · BlackRock digital asset template]] — the triangle of ETF + RWA tokenization + political influence used by the biggest asset manager.
+3. [[business/matt-huang-triple-role-coi-template|Matt Huang · triple-role COI template]] — the structural conflict-of-interest pattern in crypto VC that doesn't replicate in other industries.
+4. [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon · anti-crypto pivot case]] — the cleanest "loud opponent flips to operator" case, useful as a precedent template.
+5. [[business/christine-moy-talent-signal-jpm-apollo|Christine Moy · talent flow as industry signal]] — methodology entry: how to read individual talent moves between [[JapanFG/mufg|JPM-class institutions]] and asset managers as forward signals.
+6. [[business/gmo-internet-group|GMO Internet Group]] — the only operating-company entry, illustrating an internet group that operates a Japan-licensed bank, exchange, and FX broker in one holding.
+
+## Public people case studies
+
+Each entry follows a "named individual → reusable template" pattern. The template name is in the title.
+
+| Slug | Title | Template |
+|---|---|---|
+| [[business/paolo-ardoino-tether-business-model-template\|paolo-ardoino-tether-business-model-template]] | 40-person + short-Treasury arbitrage business model template · Tether / Paolo Ardoino | Issuer business model |
+| [[business/larry-fink-blackrock-digital-asset-template\|larry-fink-blackrock-digital-asset-template]] | Asset-manager crypto compliance triangle template · ETF + RWA tokenization + political influence (Larry Fink / BlackRock) | Asset-manager playbook |
+| [[business/matt-huang-triple-role-coi-template\|matt-huang-triple-role-coi-template]] | Triple-role COI template · VC GP + key-client Board + portfolio CEO triangle | Crypto VC governance |
+| [[business/jamie-dimon-anti-crypto-pivot-case\|jamie-dimon-anti-crypto-pivot-case]] | Anti-crypto CEO pivot-to-support case · Jamie Dimon / JPM Kinexys / JPMD on Base | CEO pivot precedent |
+| [[business/christine-moy-talent-signal-jpm-apollo\|christine-moy-talent-signal-jpm-apollo]] | Key-talent flow across institutions as industry forecast signal · JPM Onyx → Apollo | Talent-flow methodology |
+| [[business/hester-peirce-sec-regulatory-pivot-case\|hester-peirce-sec-regulatory-pivot-case]] | Regulator-pivot key-official case · personal ideology + institutional mandate (Hester Peirce / SEC) | Regulator pivot |
+| [[business/kitao-yoshitaka-sbi-independent-strategy-case\|kitao-yoshitaka-sbi-independent-strategy-case]] | Independent strategy case · refuse industry alliance + bet on cross-border compliance value (Kitao / SBI) | Independent FG strategy |
+| [[business/sandeep-nailwal-polygon-india-dpi-pattern\|sandeep-nailwal-polygon-india-dpi-pattern]] | Country-bloc winner pattern · anti-USD DPI alliance and emerging-market chain supply (Sandeep / Polygon / India) | Country-bloc thesis |
+
+## Public-company strategic cases
+
+The only operating-company case currently in this domain. Other Japan-licensed entities live in [[JapanFG/INDEX|JapanFG]].
+
+| Slug | Title |
+|---|---|
+| [[business/gmo-internet-group\|gmo-internet-group]] | GMO Internet Group |
+
+## Research control
+
+When expanding this domain:
+
+1. **Public record only.** Every claim must be sourced from public IR / press / regulator filings, not from rumor or private conversation. Title must reference the named individual or company, not anonymized profiles.
+2. **Pattern-first framing.** Each entry should declare a template / pattern in its title — `... template`, `... case`, `... pattern`, `... signal`. Pure biographies do not belong in this domain.
+3. **Keep entities separate.** Japan-financial-group entities themselves live in [[JapanFG/INDEX|JapanFG]]. This domain references them when a strategic case is being argued.
+4. **Cross-link to mechanism domains.** Tether → [[fintech/INDEX|fintech]] stablecoins; BlackRock RWA → [[fintech/INDEX|fintech]] RWA pages; Polygon DPI → [[agent-economy/INDEX|agent-economy]] chain rails when an agent angle applies.
+
+## Related domains
+
+- [[JapanFG/INDEX|JapanFG INDEX]] — entity coverage of Japanese financial groups (including SBI Holdings and GMO Internet Group's bank / exchange subsidiaries).
+- [[fintech/INDEX|fintech INDEX]] — stablecoin issuers, RWA tokenization, and crypto-native finance covered by several case-subject templates.
+- [[agent-economy/INDEX|agent-economy INDEX]] — AI-agent payment protocols and embedded wallets that several case subjects (Huang, Fink, Ardoino) shape capital flows into.
+- [[INDEX|FinWiki index]] — top-level navigation.
+
+## Backlog
+
+| Priority | Page | Why |
+|---|---|---|
+| P1 | `business/changpeng-zhao-binance-post-doj-case.md` | Post-DOJ Binance leadership transition is a major template for founder-to-foundation handoff and would round out the people set. |
+| P1 | `business/brian-armstrong-coinbase-public-company-template.md` | Coinbase as the cleanest US-listed crypto-native operator; template for exchange-as-public-company governance. |
+| P2 | `business/cz-vs-sbf-trial-comparison-case.md` | Trial-outcome comparison as a template for legal-risk pricing in crypto founders. |
+| P2 | `business/yoichiro-taku-anycolor-creator-economy-case.md` | Japan creator-economy public-company operating model case to balance the GMO operating-company entry. |
+
+## Sources
+
+- jpmorgan.com/onyx — JPMorgan Onyx / Kinexys business unit.
+- apollo.com/insights — Apollo Global Management public research.
+- blackrock.com — BlackRock tokenization whitepaper.
+- tether.to/en/transparency — Tether transparency / reserves.
+- sec.gov/biography/commissioner-hester-m-peirce — Hester Peirce SEC biography.
+- sbigroup.co.jp/english — SBI Holdings public IR.
+- paradigm.xyz/team — Paradigm team page (Matt Huang).
+- polygon.technology — Polygon official.
+- gmo.jp/en — GMO Internet Group corporate site.

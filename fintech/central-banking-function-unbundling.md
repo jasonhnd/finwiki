@@ -68,10 +68,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 | 主角 | #2 | #3 | #4 | #5 |
 |---|---|---|---|---|
-| **Coinbase / Base** | USDC 依赖 + 自有 token 待发 | Base L2 | 散户 KYC + Prime 机构 | OFAC 配合 |
-| **Stripe / Tempo+Bridge+Privy** | USDB | Tempo + Connect | Bridge OCC + 商户网络 | OCC compliance |
-| **Circle / Arc** | USDC | Arc | OCC 申请中 + USDC 品牌 | §501 day-1 |
-| **JPMorgan / Kinexys** | JPMD + MONY/JLTXX | Kinexys + Canton | 银行 KYC 100 年 | 央行直连 + OCC 母行 |
+| **Coinbase / Base** | USDC 依赖 + 自有 token 待发 | Base L2 + [[fintech/cbbtc-institutional-btc-wrapper|cbBTC]] 闭环 | 散户 KYC + Prime 机构 | OFAC 配合 |
+| **Stripe / Tempo+Bridge+Privy** | USDB | [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Tempo + Connect]] | Bridge OCC + 商户网络 | OCC compliance |
+| **Circle / Arc** | USDC | [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] | OCC 申请中 + USDC 品牌 | §501 day-1 |
+| **JPMorgan / Kinexys** | [[fintech/jpmorgan-jpmd-coin|JPMD + MONY/JLTXX]] | Kinexys + [[systems/canton-overview|Canton]] | 银行 KYC 100 年 | 央行直连 + OCC 母行 |
 
 **JPMorgan 是隐藏巨人**：在 #2-#5 全部 close 主权，不依赖 crypto 生态。它的劣势只有不是 crypto-native，但 TD 路径不需要 §501 SC 资格。
 

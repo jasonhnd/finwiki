@@ -71,3 +71,6 @@ CEX は通常複数 chain (Ethereum / Solana / BSC / Polygon / Arbitrum / Optimi
 - [[exchanges/bybit-lazarus-hack-detailed-analysis]] (Ronin 比較)
 - [[fintech/cosmos-ibc-for-financial-institutions]]
 - [[fintech/chain-level-ofac-freeze-precedent]]
+- [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
+- [[systems/cross-chain-five-pole-comparison-matrix|cross-chain 5 極比較マトリクス]]
+- [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional 詳細]]

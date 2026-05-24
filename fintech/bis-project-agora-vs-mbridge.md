@@ -40,7 +40,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **Agorá 模式**:BIS 现役旗舰项目,7 G10 央行 + 40+ 全球大行深度共建。商业银行深度参与设计(JPM / Citi / HSBC / SWIFT / Mastercard / Visa)。**核心地缘特征**:美元为中心 + 西方 G10 共识 + 韩国 / 墨西哥两个亚太 / 美洲连接点。
 
-**双轨制含义**:2026+ 跨境支付不再是"SWIFT 唯一"或"Visa / Mastercard 唯一",而是 mBridge(东方)+ Agorá(西方)+ SWIFT(传统)+ stablecoin(私营)四轨并行。商业银行需要同时接入多轨,稳定币发行方需要在多轨架构下定位结算锚。
+**双轨制含义**:2026+ 跨境支付不再是"SWIFT 唯一"或"Visa / Mastercard 唯一",而是 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]](东方)+ Agorá(西方)+ [[fintech/cross-border-sc-via-swift-api|SWIFT API]](传统)+ stablecoin(私营 · 详见 [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]])四轨并行。商业银行需要同时接入多轨,稳定币发行方需要在多轨架构下定位结算锚。
 
 ## Origin & evolution
 

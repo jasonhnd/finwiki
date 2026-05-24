@@ -31,11 +31,11 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-边缘层(edge layer)是 HTTP 流量必经路径,Cloudflare Workers / AWS API Gateway 是其中最大两家。把 x402 集成在边缘层意味着:**开发者无需写 payment 逻辑**,只需声明 endpoint 价格(如 "此 API $0.001 USDC")· 边缘层自动:(1) 拦截无支付的请求 → 返回 HTTP 402;(2) 验证带 X-Payment header 的请求(异步链上 settlement);(3) 路由放行 → 后端处理。Facilitator 模式让边缘层信用代付:在链上 USDC settlement 完成前,facilitator 已经把请求 release · 把单次延迟压到 < 100ms。Cloudflare 抽 1-2% 是 facilitator fee · 与传统 Stripe 2.9% + $0.30 相比对低价 API 调用极具优势。AWS API Gateway + Bedrock 路径让 agent 在 AWS 内调付费 API 闭环。
+边缘层(edge layer)是 HTTP 流量必经路径,Cloudflare Workers / AWS API Gateway 是其中最大两家。把 x402 集成在边缘层意味着:**开发者无需写 payment 逻辑**,只需声明 endpoint 价格(如 "此 API $0.001 USDC")· 边缘层自动:(1) 拦截无支付的请求 → 返回 HTTP 402;(2) 验证带 X-Payment header 的请求(异步链上 settlement);(3) 路由放行 → 后端处理。Facilitator 模式让边缘层信用代付:在链上 [[fintech/usd-stablecoin-interchange|USDC settlement]] 完成前,facilitator 已经把请求 release · 把单次延迟压到 < 100ms。Cloudflare 抽 1-2% 是 facilitator fee · 与传统 Stripe 2.9% + $0.30 相比对低价 API 调用极具优势(对照 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]] 的费率护城河)。AWS API Gateway + Bedrock 路径让 agent 在 AWS 内调付费 API 闭环。
 
 ## Origin & evolution
 
-2025-05 Coinbase 发布 x402 spec。2025 H2 Cloudflare 工程师在 Workers 上做 experimental 集成 · 验证 facilitator 模式延迟可压到 100ms。2025-Q4 Cloudflare 决定 2026-Q1 生产化。2026-Q1 Cloudflare Workers x402 集成正式发布 —— 这是 x402 第一个 enterprise-grade 集成。2026-Q2 AWS API Gateway 跟进,Bedrock AgentCore 与 x402 形成闭环(AgentCore 默认 wallet Privy/CDP + API Gateway x402 收单)。同期 Vercel AI SDK 也支持 x402 客户端调用。OpenAI / Anthropic 尚未公开正式集成 · 但 SDK 兼容 x402 客户端调用(只要 agent 能签 wallet)。
+2025-05 Coinbase 发布 x402 spec。2025 H2 Cloudflare 工程师在 Workers 上做 experimental 集成 · 验证 facilitator 模式延迟可压到 100ms。2025-Q4 Cloudflare 决定 2026-Q1 生产化。2026-Q1 Cloudflare Workers x402 集成正式发布 —— 这是 x402 第一个 enterprise-grade 集成。2026-Q2 AWS API Gateway 跟进,Bedrock AgentCore 与 x402 形成闭环(AgentCore 默认 wallet Privy/CDP + API Gateway x402 收单)。同期 Vercel AI SDK 也支持 x402 客户端调用。OpenAI / Anthropic 尚未公开正式集成 · 但 SDK 兼容 x402 客户端调用(只要 agent 能签 wallet · 底层依赖 [[systems/erc-4337-overview|ERC-4337]] 或 [[systems/erc-7702-overview|ERC-7702]])。
 
 ## Counterpoints
 

@@ -39,7 +39,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 | 价值归属 | 资产管理人 + 公链生态 | 银行(GS/BNY/JPM/DTCC) |
 | 客户类型 | DeFi + 加密原生 + 机构混合 | 纯机构 + 传统 collateral mgmt |
 
-**关键洞察**:Canton 联盟的设计让"机构 MMF 全生命周期"的每个环节都由联盟成员控制——cash(JPM)+ 资产(GS DAP)+ custody(BNY)+ underlying Treasury(DTCC)。BlackRock 作为 BUIDL 发行人,在 Canton 上只是 GS DAP 上的一个 MMF 选项,**价值归属和客户关系都不在 BlackRock 手里**。这与公链路线下 BlackRock 直接面客户、与 Securitize 分润形成鲜明对比。
+**关键洞察**:Canton 联盟的设计让"机构 MMF 全生命周期"的每个环节都由联盟成员控制——cash([[fintech/jpmorgan-jpmd-coin|JPM JPMD]])+ 资产(GS DAP)+ custody(BNY)+ underlying Treasury(DTCC)。[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 作为 MMF 发行人,在 Canton 上只是 GS DAP 上的一个 MMF 选项,**价值归属和客户关系都不在 BlackRock 手里**。这与公链路线下 BlackRock 直接面客户、与 Securitize 分润形成鲜明对比(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]])。
 
 ## Origin & evolution
 
@@ -57,6 +57,7 @@ Canton 联盟的弱点:**缺少零售/DeFi 入口**。机构客户的 collateral
 - BlackRock 是否会做出反击——例如在 Securitize 上线"BlackRock 自营 custody"?
 - Canton 联盟会不会扩张到 EU 银行(Deutsche Bank / BNP)?
 - 长期 5-10 年视角下,机构 MMF 中私链 vs 公链路线的市场份额?
+- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED 私募信贷代币化]] 等 RWA 是否陆续选 Canton 联盟而非公链?
 
 ## Related
 <!-- wiki-links:managed -->

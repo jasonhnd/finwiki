@@ -54,7 +54,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2. **MOSIP（身份层）**: 把 Aadhaar 技术开源到全球南方 20 国，与中国"数字丝绸之路"形成对照——抢占新兴市场身份基础设施
 3. **ARC（货币层）**: Polygon 链上 INR 稳定币，**仅企业账户铸造 + 白名单 swap + 与 LRS 兼容**——给 RBI 一个"替代 USDT/USDC"的合规答案，减弱财政部推动美元稳定币合法化的政治压力
 
-**反美元逻辑链**：USDT/USDC 在印度成为"事实美元化"通道 → 削弱卢比购买力 → 影响货币主权 → 必须在国内（ARC）和跨境（UPI）双向堵截。
+**反美元逻辑链**：USDT/USDC 在印度成为"事实美元化"通道 → 削弱卢比购买力 → 影响货币主权 → 必须在国内（ARC）和跨境（UPI）双向堵截。具体国家许可型稳定币 + DPI 输出模式见 [[fintech/national-license-private-stablecoin-with-dpi-export|国家许可型私营稳定币 + DPI 输出]]。
 
 ## Origin & evolution
 

@@ -32,7 +32,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-**套利路径**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ JPYC (JPYC Inc. JPY 1:1) ↔ USDC 平仓。
+**套利路径**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[JapanFG/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ USDC 平仓。
 
 | 步骤 | 操作 | 成本 |
 |---|---|---|
@@ -41,11 +41,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 3 | JPYC → USDC 平仓 | ~0 bp + mint/burn fee |
 | 净 | 跨货币三角套利 | ~10-20 bp |
 
-对比:SWIFT + correspondent banking 1-3% all-in · T+1/T+2;Wise / Remitly 0.5-1% · 数小时;双币 stablecoin 0.01-0.02% · 秒级 finality。**100× cost reduction + 数百倍速度**。
+对比:SWIFT + correspondent banking 1-3% all-in · T+1/T+2;Wise / Remitly 0.5-1% · 数小时;双币 stablecoin 0.01-0.02% · 秒级 finality。**100× cost reduction + 数百倍速度**,与 [[fintech/cross-border-sc-via-swift-api|稳定币 × SWIFT API 跨境]] 走相反方向(后者把 SC 嵌入 SWIFT,前者绕过)。
 
 ## Origin & evolution
 
-2018-2023 = Circle USDC 独霸 · EURC 2022 上线但流动性低。2024 MiCA Title IV(EMT)激活欧元 stablecoin 多发行方。2024-2025 日本资金決済法新框架 JPYC 首批日元 stablecoin。2025.07 GENIUS Act §501 生效后 = 法律空间清晰:"双币 swap ≠ FX 业务" · 是两个独立 1:1 token 的资产配置。2026 三角套利从理论变为 DEX 实际产品。
+2018-2023 = Circle USDC 独霸 · EURC 2022 上线但流动性低。2024 [[fintech/mica-overview|MiCA]] Title IV(EMT)激活欧元 stablecoin 多发行方。2024-2025 日本资金決済法新框架 JPYC 首批日元 stablecoin。2025.07 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] 生效后 = 法律空间清晰:"双币 swap ≠ FX 业务" · 是两个独立 1:1 token 的资产配置。2026 三角套利从理论变为 DEX 实际产品。
 
 ## Counterpoints
 

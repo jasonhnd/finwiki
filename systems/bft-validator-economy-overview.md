@@ -35,7 +35,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 3. **MEV** = tx 排序权变现(套利 / 清算 / 抢跑) — 决定 validator 实际收益结构
 4. **集中度** = Nakamoto 系数(攻击网络所需最少 validator 数)+ 客户端 + 质押池 + 地理多维度
 
-机构链(Tempo / Arc / Kinexys)四变量重新组合:yield 弱化(运营方付费)/ slashing 由法律协议替代 / MEV 归零 / 集中度公开承认。**validator 经济退化为运营经济**,与 retail 公链完全不同的设计哲学。
+机构链(Tempo / Arc / Kinexys)四变量重新组合:yield 弱化(运营方付费)/ slashing 由法律协议替代 / MEV 归零 / 集中度公开承认。**validator 经济退化为运营经济**,与 retail 公链完全不同的设计哲学(对照 [[fintech/protocol-renewal-trigger-as-event-anchor|protocol renewal trigger as event anchor]] 中机构链的治理周期)。
 
 ## Origin & evolution
 
@@ -51,7 +51,8 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 - 机构链的 KYC validator 集合扩展到什么规模才算"足够分散"?(20?50?100?)
 - 监管(OFAC / EU MiCA)会否将 KYC validator 列为受监管金融基础设施?
-- 链抽象层兴起后,validator 经济是否会进一步抽象化(如 EigenLayer restaking)?
+- 链抽象层兴起后,validator 经济是否会进一步抽象化(如 EigenLayer restaking)?(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])
+- 全球 DEX 主流五家在 validator 集中度上的表现?(参见 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]])
 
 ## Related
 <!-- wiki-links:managed -->

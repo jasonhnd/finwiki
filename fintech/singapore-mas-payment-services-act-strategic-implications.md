@@ -42,9 +42,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **DBS / StanChart 银行系战略**:DBS 是新加坡首家上链托管 USDC 的传统大行(2024 partnership with Circle)。Standard Chartered Singapore + Zodia Custody = 亚洲 institutional crypto custody 双寡头。这两家是 §501(d) 第一波亚洲机构 onboarding 的核心节点。
 
-**Tether 反衬**:USDT 在 Singapore DPT 灰色流通 → DTSP Regime 2024-04 收紧后退出 hub 战略。Tether 选 HK 而非 Singapore = MAS 标准过严 + DTSP 太苛刻。**Singapore = 合规美元 SC hub;HK = 灰色美元 SC 合规化试验场**。
+**Tether 反衬**:USDT 在 Singapore DPT 灰色流通 → DTSP Regime 2024-04 收紧后退出 hub 战略。Tether 选 HK 而非 Singapore = MAS 标准过严 + DTSP 太苛刻。**Singapore = 合规美元 SC hub;HK = 灰色美元 SC 合规化试验场**。"灰色→合规"通道的逻辑见 [[fintech/gray-market-dollar-network-formalization|灰色市场美元正式化]]。DPT 牌照体系详见 [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT 牌照概览]]。
 
-**§501(d) 三圆架构亚洲席位**:Singapore 2026-03 MRA 入榜 = 第一波 5-7 国名单的亚洲席位。与 EU MiCA(2026-Q3 预期)+ Japan EPI + UK FCA 形成 §501(d) 第一波完整覆盖。HK 第三波(2027-H2)滞后 Singapore 1.5 年 → 资本流先去 Singapore 再考虑 HK。
+**§501(d) 三圆架构亚洲席位**:Singapore 2026-03 MRA 入榜 = 第一波 5-7 国名单的亚洲席位。与 EU MiCA(2026-Q3 预期)+ Japan EPI + UK FCA 形成 §501(d) 第一波完整覆盖。HK 第三波(2027-H2)滞后 Singapore 1.5 年 → 资本流先去 Singapore 再考虑 HK。全球 VASP 横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Origin & evolution
 

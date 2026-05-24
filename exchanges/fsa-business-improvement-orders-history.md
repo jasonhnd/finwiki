@@ -62,6 +62,6 @@ BIO 集中時期 **2018 年(NEM・Zaif の連鎖流出)** が [[exchanges/jvcea-
 
 ---
 
-**Related:** [[exchanges/jp-vasp-incident-history]] · [[exchanges/jp-exchange-coincheck]] · [[exchanges/jp-exchange-zaif]] · [[exchanges/jp-exchange-custodiem]] · [[exchanges/jp-exchange-dmm-bitcoin]] · [[exchanges/jvcea-self-regulatory-overview]] · [[exchanges/jp-vasp-regulatory-timeline]]
+**Related:** [[exchanges/jp-vasp-incident-history]] · [[exchanges/jp-exchange-coincheck]] · [[exchanges/jp-exchange-zaif]] · [[exchanges/jp-exchange-custodiem]] · [[exchanges/jp-exchange-dmm-bitcoin]] · [[exchanges/jvcea-self-regulatory-overview]] · [[exchanges/jp-vasp-regulatory-timeline]] · [[exchanges/coincheck-nem-hack-detailed-analysis]] · [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]] · [[exchanges/global-vasp-regulatory-comparison-matrix]]
 
 来源: FSA 公表 業務改善命令一覧 (www.fsa.go.jp)、日経新聞、ITmedia NEWS。数字には日付タグ付与済。

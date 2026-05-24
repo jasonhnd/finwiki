@@ -40,7 +40,7 @@ embedded wallet 玩家分层:
 | **ZeroDev / Pimlico** | Bundler + Paymaster 基础设施 | B2B infra | 基础设施 fee |
 | **Safe{Core}** | 4337 适配 + Modular Safe | 机构 multi-sig | 开源 + 集成支持 |
 
-**Stripe via Privy 战略路径**:Stripe 2024 收购 Privy 后 · 把 4337 wallet 能力打包进 Stripe Connect——merchant 客户可直接给终端用户发 self-custodial USDC wallet · 无需用户懂区块链。这是 Stripe 进入 stablecoin payment 的关键楔子。
+**Stripe via Privy 战略路径**:Stripe 2024 收购 [[agent-economy/privy-embedded-wallet-overview|Privy]] 后 · 把 4337 wallet 能力打包进 Stripe Connect——merchant 客户可直接给终端用户发 self-custodial USDC wallet · 无需用户懂区块链。这是 Stripe 进入 stablecoin payment 的关键楔子(对照 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。
 
 **Coinbase 的矛盾点**:Coinbase 既运营托管(CEX 主业)· 又主推 self-custodial(CDP / Base / Smart Wallet)——4337 是它"左手砍右手"的工具。商业逻辑:即使部分用户流失到 self-custodial · Coinbase 通过 Base 收 gas + 流量 fee 仍可获益(且不流失到竞品 CEX)。
 
@@ -48,7 +48,7 @@ embedded wallet 玩家分层:
 
 2023-03 4337 主网激活后 6-12 个月内 · Privy / Coinbase CDP / Alchemy 都已上线集成产品。2024-2025 间 embedded wallet 进入"Web2 fintech 接入"阶段——Stripe / Robinhood / PayPal / Revolut 都在不同程度上探索。2024 年 Stripe 收购 Privy 是标志性事件 · 表明 Web2 支付巨头认可 4337 是下一代 wallet UX 基础。
 
-2026 年随 v0.7 升级 · embedded wallet 落地速度进一步加快——客户体验进一步逼近 Web2 水平。
+2026 年随 v0.7 升级 · embedded wallet 落地速度进一步加快——客户体验进一步逼近 Web2 水平。再叠加 [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]],wallet 既要服务真人又要服务 AI agent,4337 成为通用底层。
 
 ## Counterpoints
 

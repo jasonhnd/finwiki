@@ -37,7 +37,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 | **HTTP** | x402 | API 返回 402 + 支付指令 · client 完成支付后重试 |
 | **Agent 协商** | AP2 / MPP / ACP / A2A | mandate / intent metadata 标准 |
 | **Wallet 授权** | ERC-7715 | scoped permission 给 agent · 一次授权多次使用 |
-| **Wallet 底层** | ERC-4337 / 7702 | 可编程钱包 · 支持 module / delegation |
+| **Wallet 底层** | ERC-4337 / 7702 | 可编程钱包(详见 [[systems/erc-4337-overview|ERC-4337]] 与 [[systems/erc-7702-overview|ERC-7702]]) · 支持 module / delegation |
 
 **典型 agent 自动支付流程**:
 1. 用户授权 agent "每天可以花 $5 给 vercel.com API"(7715 scoped permission)
@@ -46,7 +46,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 4. Vercel 验证支付 + 返回 API 响应
 5. 用户在 wallet UI 看到当日累计 $X.XX 给 Vercel · 可随时撤销 permission
 
-**Stripe Privy 整合潜力**:Stripe 通过 Privy(收购的)已经接入 4337。如果 Stripe + Privy + 7715 + AP2 整合 · **任何 SaaS 都可以接收 agent 的自动支付** · 无需信用卡号、无需 OAuth、无需订阅管理——这把 SaaS 计费层从 Stripe Billing(基于卡)迁移到链上 permission(基于地址 + scope)。
+**Stripe Privy 整合潜力**:Stripe 通过 Privy(收购的)已经接入 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 嵌入式钱包]]。如果 Stripe + Privy + 7715 + AP2 整合 · **任何 SaaS 都可以接收 agent 的自动支付** · 无需信用卡号、无需 OAuth、无需订阅管理——这把 SaaS 计费层从 Stripe Billing(基于卡)迁移到链上 permission(基于地址 + scope)。详见 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]]。
 
 **主角分工**:
 - **MetaMask Snaps**:2025 实装 7715 · EOA + 7702 双模式

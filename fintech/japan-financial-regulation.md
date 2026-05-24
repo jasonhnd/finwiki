@@ -23,14 +23,15 @@ challenges: 0
 
 ## Reasoning (法体系の三本柱)
 
-- 暗号資産型 → 資金決済法（暗号資産交換業登録・関東財務局長）
+- 暗号資産型 → 資金決済法（暗号資産交換業登録・関東財務局長） — [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]
 - ST 型 → 金商法（電子記録移転有価証券表示権利等・第一種金商業 or PTS）
-- 信託型 → 信託業法（信託銀行連携・受益権トークン化）
+- 信託型 → 信託業法（信託銀行連携・受益権トークン化） — [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
 - スキーム選択の比較は [[fintech/gold-tokenization-scheme-comparison|日本におけるトークン発行スキーム比較]] 参照
 - クロスボーダー決済 → 資金移動業 or 暗号資産交換業の併用
 - ステーブルコイン制度 → [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]（電子決済手段等取引業）
 - 軽量牌照 → [[fintech/japan-ecisb-license|ECISB]]（資金を持たない仲介業向け 2026 年新設）
 - 100 万円問題（JPOC）：暗号資産送金の上限議論が進行中
+- VASP 自律規則 → [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概览]]
 - KYC 済みアカウント限定 + ホワイトリスト運用は全スキーム共通の実務要件
 
 ## Applicable When

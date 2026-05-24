@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-**HKMA SC 牌照核心要求**:100% 储备金(HKD / USD 短期国债 + 央行存款)+ 储备金第三方托管 + 月度审计 + 发行方在 HK 有实体 + HKD 100M+ 资本要求 + KYC + AML/CFT + Travel Rule + 与 OFAC SDN 协同(间接通过 USD 储备)+ 与 PBoC / e-CNY 划界(不接收中国大陆零售客户)。
+**HKMA SC 牌照核心要求**:100% 储备金(HKD / USD 短期国债 + 央行存款)+ 储备金第三方托管 + 月度审计 + 发行方在 HK 有实体 + HKD 100M+ 资本要求 + KYC + AML/CFT + Travel Rule + 与 OFAC SDN 协同(间接通过 USD 储备)+ 与 PBoC / e-CNY 划界(不接收中国大陆零售客户)。香港 VASP / OTC 侧的另一条监管腿见 [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP 牌照概览]]。
 
 **9 家申请方(2026-05-21 决定)**:
 | 申请方 | 背景 | 牌照决定 |
@@ -54,7 +54,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-HKMA 2022-12 启动 SC consultation,2023-12 第二轮 CP 确立 Sandbox 名单。2025-08 通过 Stablecoin Ordinance(立法历时近 3 年)。2026-05-21 首批决定释放重要信号:HKMA 优先发给"低政治风险 + 高合规背景"的全球大行(HSBC / StanChart),中国大陆背景大厂 + 灰色市场玩家延迟。
+HKMA 2022-12 启动 SC consultation,2023-12 第二轮 CP 确立 Sandbox 名单。2025-08 通过 Stablecoin Ordinance(立法历时近 3 年)。2026-05-21 首批决定释放重要信号:HKMA 优先发给"低政治风险 + 高合规背景"的全球大行(HSBC / StanChart),中国大陆背景大厂 + 灰色市场玩家延迟。储备金 FRTB 资本计量框架见 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]],亚洲全景比较见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## Counterpoints
 

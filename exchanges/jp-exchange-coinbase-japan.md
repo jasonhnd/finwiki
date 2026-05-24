@@ -121,6 +121,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[exchanges/jp-exchange-binance-japan]] — 外資系 entry 比較（Binance Japan）
 - [[exchanges/jp-exchange-bittrade]] — 日本市場で継続する外資系取引所
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/us-crypto-licensing-multi-layer-system]] — 親会社の本拠地 US crypto licensing
+- [[exchanges/jp-vasp-ma-consolidation-history]] — JP VASP M&A コンソリデーション史（外資撤退含む）
 
 ## Sources
 

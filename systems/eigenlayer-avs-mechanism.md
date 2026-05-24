@@ -42,7 +42,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 **EigenPods 机制**:Operator 的 ETH 通过 EigenPod 合约接收 staking rewards,EigenLayer 通过 EigenPod 监听 Operator 在 Ethereum L1 的 validator 行为——这是把 L1 slashing 与 L2 AVS slashing 关联的关键桥梁。
 
-**Strategies**:除 native ETH 外,EigenLayer 支持 LST restaking(stETH / rETH / cbETH 等)——大幅扩大可质押资本池,但也增加了对 LST 协议(Lido / Rocket Pool / Coinbase)安全的间接依赖。
+**Strategies**:除 native ETH 外,EigenLayer 支持 LST restaking(stETH / rETH / cbETH 等)——大幅扩大可质押资本池,但也增加了对 LST 协议(Lido / Rocket Pool / Coinbase)安全的间接依赖(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])。
 
 ## Origin & evolution
 
@@ -58,14 +58,14 @@ AVS 概念是 EigenLayer 2021 论文的核心抽象。2023-06 上线时只支持
 
 实际 1 年内多数 AVS 选择保守 slash 比例(1-5%),这削弱了"加密经济安全"的实际威慑力。
 
-EIGEN inter-subjective 仲裁的可操控性是关键风险——若一个 AVS 的争议 slash 涉及金额远大于 EIGEN 流通市值,资本操控投票几乎不可避免。
+EIGEN inter-subjective 仲裁的可操控性是关键风险——若一个 AVS 的争议 slash 涉及金额远大于 EIGEN 流通市值,资本操控投票几乎不可避免(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各家治理 token 的操控成本曲线)。
 
 ## Open questions
 
 - 实际 slash 事件中 objective vs inter-subjective 比例?
 - EIGEN token 流通市值与单次 slash 上限的安全边界?
 - Operator 在多 AVS 中的实际平均参与度?
-- LST restaking 在 Lido 等 LST 协议风险事件中的连锁影响?
+- LST restaking 在 Lido 等 LST 协议风险事件中的连锁影响?(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 中加密原生侧的传染路径)
 
 ## Related
 <!-- wiki-links:managed -->

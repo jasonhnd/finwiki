@@ -41,11 +41,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - **Group 2a (Hedged)**:BTC/ETH 有 derivatives 对冲 · 1,250% RW + capital relief
 - **Group 2b (其他)**:1,250% RW = 100% capital backing · 1% exposure cap
 
-Basel III 公式:RWA = Exposure × Risk Weight × 12.5 · Capital = RWA × 8%。$100 BTC exposure → RWA = $100 × 1250% = $1,250 → Capital = $100,即 1:1 capital deduction。实际效果 = bank 必须用自有资本 1:1 对应 BTC 持仓 · ROE 折损 ~12.5x vs 普通信贷。USDC Group 1b 对比:reserve = T-bills + cash · 应用 T-bills risk weight 0-20% · Capital ~10% = 远便宜。
+Basel III 公式:RWA = Exposure × Risk Weight × 12.5 · Capital = RWA × 8%。$100 BTC exposure → RWA = $100 × 1250% = $1,250 → Capital = $100,即 1:1 capital deduction。实际效果 = bank 必须用自有资本 1:1 对应 BTC 持仓 · ROE 折损 ~12.5x vs 普通信贷。USDC Group 1b 对比:reserve = T-bills + cash · 应用 T-bills risk weight 0-20% · Capital ~10% = 远便宜。HK 侧 reserve 框架直接对接 SCO60,详见 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]]。
 
 ## Origin & evolution
 
-BCBS 2019 启动加密资产 consultation,2021 第二轮 CP 引入 Group 1/2 分类雏形。2022-06 最终 CP,2022-12-16 SCO60 标准发布。各国 2024 上半年完成本国 BCBS implementation 草案,2025-01 全球落地目标。美国 Endgame 提案大型银行游说要求 BTC/ETH ETF 部分豁免,Trump 2.0 倾向 light-touch,2026-Q3 final rule 可能软化 1,250% 至 ~150-300%。
+BCBS 2019 启动加密资产 consultation,2021 第二轮 CP 引入 Group 1/2 分类雏形。2022-06 最终 CP,2022-12-16 SCO60 标准发布。各国 2024 上半年完成本国 BCBS implementation 草案,2025-01 全球落地目标。美国 Endgame 提案大型银行游说要求 BTC/ETH ETF 部分豁免,Trump 2.0 倾向 light-touch,2026-Q3 final rule 可能软化 1,250% 至 ~150-300%。资本传导对 USDC vs USDT 银行选择的隐性影响详见 [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 战略含义]]。
 
 ## Counterpoints
 

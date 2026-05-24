@@ -106,6 +106,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般論（個別社の上場活動と区別）
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連ステーブルコイン制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/hk-sfc-vasp-licensing-overview]] — 親 HashKey Group の本拠 HK SFC VASP ライセンス
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 
 ## Sources
 

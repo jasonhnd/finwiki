@@ -70,6 +70,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jvcea-spot-volume-statistics-analysis]]
 - [[exchanges/jp-listed-cex-related-companies-matrix]]
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
+- [[exchanges/jp-cex-staking-lending-regulation]] — JP CEX ステーキング・レンディング規制
+- [[fintech/japan-financial-regulation]] — 日本金融規制全体
 
 ## Sources
 

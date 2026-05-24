@@ -28,7 +28,7 @@ This entry sits under [[agent-economy/2026-04-08_agent-payment-infrastructure-re
 
 Skill 当前几乎全部免费，但三重力量推动收费化不可逆：运营成本随调用量上升不可持续；免费市场无法激励质量竞争；平台需要从生态交易中获取收入（Stripe 已通过 [[agent-economy/2026-04-08_agent-payment-infrastructure-research|ACP/MPP]] 提供收费基础设施）。
 
-Skill 收费化是 A2A 经济交易量的原生催化剂。每一次 Agent 调用付费 Skill 即产生一笔微交易。单个任务平均调用 5-20 个 Skill，活跃 Agent 达十万级时日均交易笔数可达千万级——此规模使清算、定价、信用等基础设施从可选变为必需。
+Skill 收费化是 A2A 经济交易量的原生催化剂。每一次 Agent 调用付费 Skill 即产生一笔微交易（结算优先走 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]]，钱包基于 [[systems/erc-4337-overview|ERC-4337]] 或 [[systems/erc-7702-overview|ERC-7702]]）。单个任务平均调用 5-20 个 Skill，活跃 Agent 达十万级时日均交易笔数可达千万级——此规模使清算、定价、信用等基础设施从可选变为必需。
 
 预计 12-18 个月内 Skill 收费将从个别案例演变为平台标准功能。
 

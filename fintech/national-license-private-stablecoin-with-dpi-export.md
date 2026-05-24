@@ -75,13 +75,14 @@ Step 3 (2027+): 反美元 DPI 联盟联合声明
 - 投资判断：早期参与国家许可型发行方 = 政策红利锁定 5–10 年
 - 战略买家信号：Polygon 类公链选择与印度合作 = 长期与国家战略绑定
 - 地缘风险：国家许可型稳定币 + DPI 输出 = 中美在新兴市场争夺的新战场
-- 监管沟通：印度 ARC token 是否被 IMF / FATF 接受 = 模式可推广性的关键 KPI
+- 监管沟通：印度 ARC token 是否被 [[fintech/aml-cft-fatf-grey-list-overview|IMF / FATF]] 接受 = 模式可推广性的关键 KPI
 
 **与中国 mBridge 的区别**：
 
-- mBridge = CBDC（央行直接发行）多边互操作环
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] = CBDC（央行直接发行）多边互操作环
 - 印度 ARC = 国家许可的私营稳定币（民营效率 + 国家背书）
 - 两者目标重叠（非美元结算），路径不同 → 未来可能融合或竞争
+- DPI 联盟全貌见 [[fintech/india-anti-dollar-dpi-alliance|印度 UPI / MOSIP DPI 联盟]]
 
 
 ## Related

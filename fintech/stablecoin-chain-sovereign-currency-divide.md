@@ -28,10 +28,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 | 极 | 主导货币 | 主导链 | 主导监管 | 关键玩家 |
 |---|---|---|---|---|
-| 🇺🇸 美国合规 | USDC / USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum | GENIUS Act §501 | Circle / Stripe / Coinbase / PayPal |
-| 🇪🇺 欧盟 | EURC / EUR-stable | MiCA-compliant chains | MiCA ART / EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
-| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | 改正資金決済法（EPI 三型）| 三菱 UFJ / SBI / JPYC（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
-| 🇨🇳🇭🇰 中港 | e-CNY（链外）+ HKD-stable | 香港 sandbox + 圆币科技 First Digital Trust | HKMA 立法（2025-08）+ PBoC | 蚂蚁国际 / 京东 / 渣打香港 |
+| 🇺🇸 美国合规 | USDC / USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum | [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] | Circle / Stripe / Coinbase / PayPal |
+| 🇪🇺 欧盟 | EURC / EUR-stable | MiCA-compliant chains | [[fintech/mica-overview|MiCA]] ART / EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
+| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[JapanFG/mufg|三菱 UFJ]] / SBI / [[JapanFG/jpyc|JPYC]]（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
+| 🇨🇳🇭🇰 中港 | e-CNY（链外）+ HKD-stable | 香港 sandbox + 圆币科技 First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]] + PBoC | 蚂蚁国际 / 京东 / 渣打香港 |
 | 🌍 灰色 | USDT | Tron + Lightning + 新通道 | 各国规避 | Tether（Lugano）/ Tron / 灰色支付商 |
 
 **演化驱动因素**：

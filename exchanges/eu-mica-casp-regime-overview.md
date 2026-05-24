@@ -78,3 +78,6 @@ CASP は以下 10 サービスから取得対象を申請する:
 - [[exchanges/jp-vasp-aml-travel-rule-implementation]] — Travel Rule 国内実装比較
 - [[fintech/mica-overview]] — MiCA 全体構造
 - [[fintech/mica-emt-art-subcategories-deep-dive]] — ART/EMT Stablecoin 認可枠組み
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
+- [[fintech/mica-cross-border-implications]] — MiCA cross-border 影響分析

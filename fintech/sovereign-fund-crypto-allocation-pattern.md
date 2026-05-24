@@ -40,11 +40,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **Mubadala × Arc 案例（已公开披露）**：
 
-- 2026-05-11 Arc 私募 $222M / FDV $3B 完成
+- 2026-05-11 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] 私募 $222M / FDV $3B 完成
 - Mubadala 作为 LP 投资约 $15M（披露的最大主权基金 LP）
 - 其他 LP 包括 Visa / StanChart / Apollo / ICE / BlackRock 等
 
-**Aramco × BlackRock 中东数字资产基金（2025-Q4）**：
+**Aramco × BlackRock 中东数字资产基金（2025-Q4）** — 全口径主权资本天花板分析见 [[fintech/sovereign-capital-pool-aramco-anchor|Aramco 主权资金池锚]]：
 
 - 规模目标 $200–500 亿
 - 联合 GP：BlackRock + Aramco Ventures
@@ -67,17 +67,17 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **反例 / 边界**：
 
-- 中国国资委 / 主权基金 / 国家管控不参与（监管禁止）
+- 中国国资委 / 主权基金 / 国家管控不参与（监管禁止 · CBDC 跨境通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 替代）
 - 欧盟 ESG 框架下，部分主权基金（北欧）限制 PoW 加密配置
 - 沙特 PIF 内部对加密风险偏好分裂（Mubadala / PIF 立场不一致）
 - 制裁敏感主权基金（俄、伊朗）配置加密 = 加剧制裁风险
 
 **估值 / 决策含义**：
 
-- 加密基础设施公司的"主权基金 LP 名单" = 重要估值信号（Anchorage / Fireblocks 早期估值 30–50% 来自此）
+- 加密基础设施公司的"主权基金 LP 名单" = 重要估值信号（Anchorage / Fireblocks 早期估值 30–50% 来自此，参考 [[exchanges/global-institutional-custody-five-pillars|机构托管五柱]]）
 - 主权基金入场时点 = 赛道成熟标志（≈ "传统资产中长期 allocation 解锁"）
 - 监管沟通：主权基金 LP 名单可作为合规背书（OCC / FinCEN 审批时引用）
-- 地缘风险：主权基金入场后，跨境制裁 / 资产冻结风险被放大（俄罗斯先例）
+- 地缘风险：主权基金入场后，跨境制裁 / 资产冻结风险被放大（俄罗斯先例，详细机制见 [[fintech/chain-level-ofac-freeze-precedent|链上 OFAC 冻结判例]]）
 
 
 ## Related

@@ -30,7 +30,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-Google 的四底座组合:**Google Pay(6 亿 mobile wallet 用户)** + **Gemini(数亿 Android/Chrome/Workspace 触点)** + **W3C VC 标准影响力(核心贡献者)** + **fraud detection AI(全球最大 ML 反欺诈基建)**——任何一个底座单独不足以推标准,组合起来形成 agent 支付的闭环。
+Google 的四底座组合:**Google Pay(6 亿 mobile wallet 用户)** + **Gemini(数亿 Android/Chrome/Workspace 触点)** + **W3C VC 标准影响力(核心贡献者)** + **fraud detection AI(全球最大 ML 反欺诈基建)**——任何一个底座单独不足以推标准,组合起来形成 agent 支付的闭环(对比 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]] 的纵向 distribution 控制)。
 
 与同期协议的位置:
 
@@ -44,9 +44,9 @@ Google 的四底座组合:**Google Pay(6 亿 mobile wallet 用户)** + **Gemini(
 
 ## Origin & evolution
 
-四国杀格局并非偶然——每家巨头都意识到 agent 经济兴起后,**谁掌握 agent-payment 标准谁就握住下一代 commerce gateway**。Google 选择押 wallet+identity(自家强项),Microsoft 押 merchant API,Anthropic 押 commerce platform 交互,Cloudflare/Coinbase/AWS 选最底层的 HTTP+stablecoin 通道。Linux Foundation 的 A2A 是中立 fallback。
+四国杀格局并非偶然——每家巨头都意识到 agent 经济兴起后,**谁掌握 agent-payment 标准谁就握住下一代 commerce gateway**。Google 选择押 wallet+identity(自家强项),Microsoft 押 merchant API,Anthropic 押 commerce platform 交互,Cloudflare/Coinbase/AWS 选最底层的 HTTP+stablecoin 通道(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。Linux Foundation 的 A2A 是中立 fallback。
 
-Stripe 的观望姿态是关键变量——若 Stripe 通过 Privy(已收购)押 AP2,Google 阵营优势显著扩大;若 Stripe 自建 ACP 兼容栈,可能分裂市场。
+Stripe 的观望姿态是关键变量——若 Stripe 通过 Privy(已收购)押 AP2,Google 阵营优势显著扩大;若 Stripe 自建 ACP 兼容栈,可能分裂市场。这条 [[fintech/embedded-wallet-fintech-disintermediation-overview|嵌入式钱包去中介化]] 战线决定 fintech 价值链谁拿。
 
 ## Counterpoints
 

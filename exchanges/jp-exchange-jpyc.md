@@ -120,6 +120,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/jp-trust-type-sc-architecture]] — 三型 SC 比較（信託型・銀行型・資金移動業者型）
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade（電子決済手段等取引業も保有する交換業者の比較例）
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
+- [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]] — SBI × JPYC stablecoin チャネル
+- [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX deposit token / stablecoin 統合
 
 ## Sources
 

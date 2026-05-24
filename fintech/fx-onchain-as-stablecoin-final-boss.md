@@ -33,8 +33,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 機関決済における FX onchain 化のメリットは三つ:
 
-1. **プライムブローカー層の消失** — 現状、JPM/ゴールドマン/モルスタ/三菱と複数行で為替決済する機関投資家は、プライムブローカーに束ねを依頼してコスト払い。SC 直接決済ならこの中間層が不要
-2. **Herstatt Risk の消滅** — 円は日銀、ドルは Fed で別々に決済され、時差で 12-14 時間ギャップ。この間に決済相手が倒産すると片側支払い済の損失発生（1974 Continental Illinois Bank 倒産が歴史的事例）。24/365 同時決済なら時差ゼロ
+1. **プライムブローカー層の消失** — 現状、[[fintech/jpmorgan-jpmd-coin|JPM]]/ゴールドマン/モルスタ/[[JapanFG/mufg|三菱]] と複数行で為替決済する機関投資家は、プライムブローカーに束ねを依頼してコスト払い。SC 直接決済ならこの中間層が不要
+2. **Herstatt Risk の消滅** — 円は日銀、ドルは Fed で別々に決済され、時差で 12-14 時間ギャップ。この間に決済相手が倒産すると片側支払い済の損失発生（1974 Continental Illinois Bank 倒産が歴史的事例）。24/365 同時決済なら時差ゼロ（クロスチェイン PvP 設計は [[systems/cross-chain-five-pole-comparison-matrix|跨链五極対比マトリクス]] を参照）
 3. **資本効率改善** — 銀行は決済リスク分の資本を積む義務があり、決済リスクが消えれば資本を別用途に解放可能 — 経営効率に直接効く
 
 ## Reasoning
@@ -49,7 +49,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - 機関投資家向けステーブルコイン pitch の長期 vision を設計するとき
 - 「ステーブルコインの上場利益はどこか？」議論で短期 use case にとどまらず本質を語るとき
-- 機関 B2B SC 戦略（Project Pax 等）を組み立てるとき
+- 機関 B2B SC 戦略（[[fintech/jp-stablecoin-progmat|Project Pax / Progmat]] 等）を組み立てるとき
 - 規制当局向け説明で「銀行発行 SC の社会的価値」を論証するとき
 - 既存 FX 市場の非効率性を root cause で語るとき
 

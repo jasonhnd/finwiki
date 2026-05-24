@@ -63,3 +63,6 @@ DEX aggregator ([[exchanges/global-dex-major-five-comparison]] の 1inch / Paras
 - [[exchanges/global-perp-dex-five-comparison]] — perp 系 (CLOB / oracle / AMM) vs 本記事 spot AMM
 - [[exchanges/native-dex-flip-incumbent-pattern]] — チェーンネイティブ DEX が外部参入を凌駕する構造
 - [[exchanges/vetoken-host-protocol-flywheel]] — Curve war の veCRV モデル詳細
+- [[systems/cross-chain-four-poles-overview]] — cross-chain 4 極 overview（AMM × bridge）
+- [[exchanges/cross-chain-bridge-cex-deposit-withdrawal]] — cross-chain bridge × CEX 入出金
+- [[exchanges/ve33-governance-mechanism]] — ve(3,3) governance メカニズム

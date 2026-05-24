@@ -38,7 +38,7 @@ Besu 是 **EVM 完全兼容的 permissioned 链**:Solidity 合约可直接迁移
 
 ## Origin & evolution
 
-2015 JPM 启动 Quorum · 基于 Geth fork。2017-05 Quorum 1.0 开源。2018-2020 摩根试图把 Quorum 商业化失败 · 2020-08 出售给 ConsenSys,并入 Hyperledger Besu(Linux Foundation 治理)。JPM 同步保留自有 fork 持续改造 · 2024-11 内部链从 Onyx Chain 改名 Kinexys Chain。Linux Foundation 2025 成立 "Decentralized Trust" 基金会接管 Hyperledger 治理,JPM 仍为核心成员。Citi / HSBC / BNP 等 G-SIB 新建私链时仍把 Besu 作为默认选项 —— 这是 EVM 兼容性的网络效应。
+2015 JPM 启动 Quorum · 基于 Geth fork。2017-05 Quorum 1.0 开源。2018-2020 摩根试图把 Quorum 商业化失败 · 2020-08 出售给 ConsenSys,并入 Hyperledger Besu(Linux Foundation 治理)。JPM 同步保留自有 fork 持续改造 · 2024-11 内部链从 Onyx Chain 改名 Kinexys Chain([[fintech/jpmorgan-jpmd-coin|JPMD]] 现存货币 leg)。Linux Foundation 2025 成立 "Decentralized Trust" 基金会接管 Hyperledger 治理,JPM 仍为核心成员。Citi / HSBC / BNP 等 G-SIB 新建私链时仍把 Besu 作为默认选项 —— 这是 EVM 兼容性的网络效应(对照 [[fintech/bis-project-agora-overview|BIS Agora]] 等跨 G-SIB 多 CBDC 试点的链选型)。
 
 ## Counterpoints
 

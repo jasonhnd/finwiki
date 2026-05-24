@@ -28,7 +28,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 | 维度 | 摇摆中 | 明确不发 | 已发 |
 |---|---|---|---|
-| 典型案例 | Base | Tempo | Arc |
+| 典型案例 | Base | [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] | [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] |
 | 绑定资本 | 散户（airdrop 预期）+ 投资人（视发币动作而定）| 商户 + 传统机构 | Wall Street 机构 |
 | 监管阻力 | 中等（取决于母公司身份）| 最低 | 最高（取决于 token 定性）|
 | 短期套现窗口 | 中（押注未来发币）| 0（押注 10 年市场捕获）| 高（私募轮 + listing 杠杆）|
@@ -46,7 +46,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 监管窗口开启（SEC 撤诉 / 政府换届）→ 摇摆 → 发币
 - 关键人物多重身份切割 → 不发 → 摇摆（例如 Matt Huang 三重身份未来若被切割,Tempo 可能重估其立场）
 
-**反例 / 例外**：Ethereum L2（Arbitrum / Optimism / zkSync 等）大多已经发币,但其与稳定币、支付公链的"内化收入"动机不同。本框架仅适用于**稳定币原生 / 支付定位**的公链。
+**反例 / 例外**：Ethereum L2（Arbitrum / Optimism / zkSync 等）大多已经发币,但其与稳定币、支付公链的"内化收入"动机不同。本框架仅适用于**稳定币原生 / 支付定位**的公链。更广的跨链比较见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]。
 
 
 ## Related

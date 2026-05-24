@@ -77,4 +77,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/vetoken-host-protocol-flywheel|veToken × 主导方飞轮]]
 - [[fintech/stablecoin-revenue-split-economics|稳定币利息分润]]
 - [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密原生]]
+- [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]
+- [[exchanges/amm-design-evolution|AMM design evolution]]
+- [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]
+- [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
 <!-- /wiki-links:managed -->

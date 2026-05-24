@@ -125,6 +125,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較マトリクス
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
+- [[exchanges/cex-native-token-strategy-comparison]] — CEX ネイティブトークン戦略比較
 
 ## Sources
 

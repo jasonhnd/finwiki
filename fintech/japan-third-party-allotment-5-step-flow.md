@@ -103,8 +103,9 @@ sources:
 ### 段階 4 → 段階 5 の間
 
 - 払込完了 → 登記公告タイミング
-- 大量保有報告書（5% rule）発動確認
+- 大量保有報告書（5% rule）発動確認 — 詳細制度は [[finance/japan-large-shareholding-disclosure|日本大量保有報告制度]]
 - 生株保有 or 予約権行使の戦略選択
+- TOB が併用される場合は [[finance/japan-tender-offer-process|日本公開買付プロセス]] と連動
 
 ### 段階 5（長期）
 

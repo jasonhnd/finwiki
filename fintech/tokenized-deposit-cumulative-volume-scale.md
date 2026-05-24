@@ -49,11 +49,11 @@ JPMorgan 用 deposit token 绕开 §501 的"100% 国债 + 不许付利息"约束
 
 ## Origin & evolution
 
-2019 JPM Coin 启动(Onyx Coin System 私链 / Quorum 分支) · 2024 重命名 Kinexys · 2025-12 客户数达 80 家 · 2026-04 JPMD 上线 Coinbase Base 公链(首次公链桥接) · 与 BlackRock BUIDL 形成**代币化资产基础设施双核** —— BlackRock 走中立军火商(BUIDL 卖给所有 SC issuer),JPMorgan 走闭环银行(JPMD 服务 JPM 客户)。
+2019 JPM Coin 启动(Onyx Coin System 私链 / Quorum 分支) · 2024 重命名 Kinexys · 2025-12 客户数达 80 家 · 2026-04 [[fintech/jpmorgan-jpmd-coin|JPMD]] 上线 Coinbase Base 公链(首次公链桥接) · 与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 形成**代币化资产基础设施双核** —— BlackRock 走中立军火商(BUIDL 卖给所有 SC issuer),JPMorgan 走闭环银行(JPMD 服务 JPM 客户)。
 
 ## Counterpoints
 
-$1.5T 累计 / 日均 $5B 数字来自 JPMorgan 自报 · 第三方独立验证有限。Kinexys 私链(Quorum)对外可观察性低,日均 $5B 可能含相当比例"内部 netting"(JPM 内部账户调账)而非真正跨机构清算。与 USDT $20T+ 直接比较有误导性 —— 灰区流量与机构清算量级不可同等比较。Citi Token Services 等竞品快速扩张,Kinexys "第二"位置在 2027-2028 可能被超越。
+$1.5T 累计 / 日均 $5B 数字来自 JPMorgan 自报 · 第三方独立验证有限。Kinexys 私链(Quorum)对外可观察性低,日均 $5B 可能含相当比例"内部 netting"(JPM 内部账户调账)而非真正跨机构清算。与 [[fintech/tether-business-model-short-treasury-yield|USDT]] $20T+ 直接比较有误导性 —— 灰区流量与机构清算量级不可同等比较。Citi Token Services 等竞品快速扩张,Kinexys "第二"位置在 2027-2028 可能被超越,同样的多巨行竞合见 [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]]。
 
 ## Open questions
 

@@ -52,4 +52,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - リテール客の "見えない手数料" 問題 — FSA 監督指針が透明性改善を継続的に要求
 - **取引高は販売所 > 取引所** だが **収益率は販売所 ≫ 取引所** — 国内 CEX 黒字化の主要レバー
 - 海外 CEX ([[exchanges/global-cex-top10-comparison]] Binance / Coinbase 等) は基本 maker/taker — 日本の販売所モデルは国際的に特異な構造
-- 暗号資産 ETF 解禁・税制改正等で取引所モデルへのシフト圧力が継続
+- 暗号資産 ETF 解禁 ([[exchanges/btc-spot-etf-japan-impact|BTC spot ETF 日本 impact]])・税制改正 ([[exchanges/jp-crypto-asset-taxation-detailed|JP crypto asset 税制詳細]]) 等で取引所モデルへのシフト圧力が継続。最良執行は [[securities/japan-best-execution-sor-pts|japan best execution SOR/PTS]] を参照。

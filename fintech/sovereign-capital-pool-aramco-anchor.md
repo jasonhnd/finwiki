@@ -44,11 +44,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
                   (与油价周期解耦 · 5-10 年战略部署)
 ```
 
-Aramco 的特殊性在于**国家直接控制 + 油气长期现金流可证券化**: BlackRock 作 GP,Aramco 作 LP / 战略协同方,资金可绕过传统主权基金(PIF)的政治审批,直接进入"能源主权 → 数字主权"的转化通道。
+Aramco 的特殊性在于**国家直接控制 + 油气长期现金流可证券化**: BlackRock 作 GP,Aramco 作 LP / 战略协同方,资金可绕过传统主权基金(PIF)的政治审批,直接进入"能源主权 → 数字主权"的转化通道,并通过 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等 BlackRock 自家代币化产品获得即时合规储备。
 
 ## Origin & evolution
 
-中东主权基金 2014-2020 仅通过 ETF / 间接持仓接触加密。2024-09 沙特 PIF 战略宣布将 1-3% AUM 投向数字资产基础设施。2025-Q4 Aramco × BlackRock 中东数字资产基金正式宣布,2026-Q1 已启动 PoC。Vision 2030 是底层驱动 · 与油价波动解耦,目标是把石油峰值预期下的现金流提前转化为数字基础设施股权。
+中东主权基金 2014-2020 仅通过 ETF / 间接持仓接触加密。2024-09 沙特 PIF 战略宣布将 1-3% AUM 投向数字资产基础设施。2025-Q4 Aramco × BlackRock 中东数字资产基金正式宣布,2026-Q1 已启动 PoC。Vision 2030 是底层驱动 · 与油价波动解耦,目标是把石油峰值预期下的现金流提前转化为数字基础设施股权,与 [[fintech/sovereign-fund-crypto-allocation-pattern|主权基金加密配置模式]] 描述的"5-10 年战略部署"周期一致。SAMA 同时是 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 创始 5 央行之一,Aramco 石油结算转 mBridge 是该天花板的执行通道。
 
 ## Counterpoints
 

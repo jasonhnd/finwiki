@@ -41,7 +41,7 @@ The key split is:
 | Program | Sponsor / ecosystem | Core role | Finance adjacency |
 |---|---|---|---|
 | Rakuten Point | Rakuten Group | EC + card + bank + securities + mobile flywheel | [[JapanFG/rakuten-fg|Rakuten FG]], Rakuten Card, Rakuten Bank, Rakuten Securities |
-| V Point | CCCMK / SMBC Card alliance after T Point + V Point integration | Common points + SMBC credit-card and Olive adjacency | [[JapanFG/smfg|SMFG]], SMBC Card, retail partners |
+| V Point | CCCMK / SMBC Card alliance after T Point + V Point integration | Common points + SMBC credit-card and Olive adjacency · see [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the 2024-04-22 unification detail and [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for breakage / IFRS 15 treatment | [[JapanFG/smfg|SMFG]], SMBC Card, retail partners |
 | d Point | NTT docomo | Telco ID + d払い + d Card + planned [[JapanFG/ndfg|NDFG]] financial consolidation | NTT docomo finance, d Card, d払い, bank / securities / insurance route |
 | PayPay Point | PayPay / SoftBank / LY | Code-payment frequency and campaign economics | [[JapanFG/paypay-fg|PayPay FG]], PayPay Card, PayPay Bank, PayPay Securities |
 | WAON POINT | AEON | Mall / supermarket / AEON Card / WAON retention | [[retail/aeon-group|Aeon Group]], [[JapanFG/aeon-bank|Aeon Bank / AFS]] |

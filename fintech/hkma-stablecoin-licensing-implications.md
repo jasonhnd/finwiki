@@ -41,13 +41,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 被拒 | 35-45% | 无变化 | 维持灰色市场地位 |
 | 附条件 | 5-15% | 部分上修 | 中间路径 |
 
-**§501(d) 第三波候选条件**:与中国大陆 e-CNY 划界 + 不接收 SDN 客户。政治平衡:HK 想做国际金融中心 vs 北京想 e-CNY 跨境。
+**§501(d) 第三波候选条件**:与中国大陆 e-CNY 划界 + 不接收 SDN 客户。政治平衡:HK 想做国际金融中心 vs 北京想 e-CNY 跨境。两条监管腿对照见 [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP 牌照概览]],亚洲三地对比见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 **中国大陆 SC 通道**:HK 牌照是中国大陆背景大厂(JD-HKD / 蚂蚁国际 / BOCHK / Conflux)唯一可获牌途径。e-CNY 离岸 CNH 窗口(2026-Q4 预期)与 HK SC 牌照协同 = 北京"既要离岸国际化又要划界"的双轨设计。
 
 ## Origin & evolution
 
-2025-08 HKMA Stablecoin Ordinance 通过 → 2026-05-21 首批决定 → 实际只发 2 张(HSBC + Anchorpoint)→ 中国大陆背景大厂 + Tether 延迟。此延迟释放重要信号:HKMA 严格执行"政治敏感性"过滤,在 2026-Q4 PBoC 离岸 CNH 窗口推出前不会批准中国大陆背景大厂。Tether 决定可能拖到 2026-Q4 之后,与 PBoC 窗口共同形成"亚洲合规美元 vs 离岸 CNH"的双轨观察点。
+2025-08 HKMA Stablecoin Ordinance 通过 → 2026-05-21 首批决定 → 实际只发 2 张(HSBC + Anchorpoint)→ 中国大陆背景大厂 + Tether 延迟,详细背景见 [[fintech/hkma-stablecoin-licensing-overview|HKMA 牌照概览]]。此延迟释放重要信号:HKMA 严格执行"政治敏感性"过滤,在 2026-Q4 PBoC 离岸 CNH 窗口推出前不会批准中国大陆背景大厂。Tether 决定可能拖到 2026-Q4 之后,与 PBoC 窗口共同形成"亚洲合规美元 vs 离岸 CNH"的双轨观察点。
 
 ## Counterpoints
 

@@ -115,6 +115,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论（個別社の上場活動と区別）
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
+- [[exchanges/jp-cex-staking-lending-regulation]] — JP CEX ステーキング・レンディング規制
+- [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
+- [[exchanges/jvcea-self-regulatory-overview]] — JVCEA 自主規制体系
 
 ## Sources
 

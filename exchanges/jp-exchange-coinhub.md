@@ -63,6 +63,9 @@ COINHUB's public site describes business activities as crypto asset exchange ser
 - [[exchanges/jvcea-self-regulatory-overview]]
 - [[exchanges/jp-crypto-exchange-overview]]
 - [[exchanges/jp-exchange-finx-jcrypto]]
+- [[exchanges/jp-vasp-aml-travel-rule-implementation]] — JP VASP AML / travel rule（ATM 業者は AML 重要）
+- [[exchanges/jp-crypto-merchant-payment-lightning]] — JP crypto merchant payment（現金接点）
+- [[fintech/japan-financial-regulation]] — 日本金融規制全体
 
 ## Sources
 

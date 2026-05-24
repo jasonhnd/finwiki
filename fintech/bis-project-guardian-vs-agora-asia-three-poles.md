@@ -43,9 +43,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | BoJ-via-Agorá | 主权端 | 日本对接 G10 多边协调 |
 
 **互补关系**:
-- Guardian 实验出的代币化资产标准 → 可在 Ensemble 代币化存款上结算 → 跨境时通过 mBridge 或 Agorá wholesale CBDC 出口
+- Guardian 实验出的代币化资产标准 → 可在 Ensemble 代币化存款上结算 → 跨境时通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 或 Agorá wholesale CBDC 出口
 - 三层穿透:代币化资产(Guardian) → 代币化存款(Ensemble) → wholesale CBDC(Agorá)
-- **三家都参与 Agorá**(MAS / HKMA / BoJ 都在 7 G10 央行外或内有连接)→ 亚洲三极在 G10 共识下整合
+- **三家都参与 Agorá**(MAS / HKMA / BoJ 都在 7 G10 央行外或内有连接)→ 亚洲三极在 G10 共识下整合,日本侧实施基础见 [[fintech/japan-epi-three-types-overview|日本 EPI 三型架构概览]]
 
 **核心差异**:Guardian 是产业实验室(机构多但无主权货币层),Ensemble 是主权沙盒(港元 + 跨境 CBDC),Agorá 是 G10 主权协调(日本接入)。三家都不构成单独完整基础设施,但合起来 = 亚洲代币化全栈。
 

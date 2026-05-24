@@ -102,6 +102,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-foreign-exchange-bybit]] — 同時期（2023-03-31）に FSA 警告を受けた Bybit
 - [[exchanges/jp-foreign-exchange-mexc]] — 同時期（2023-03-31）に FSA 警告を受けた MEXC Global
 - [[exchanges/jp-foreign-exchange-bitget]] — 同時期（2023-03-31）に FSA 警告を受けた Bitget
+- [[exchanges/fsa-foreign-exchange-warning-system]] — FSA 海外取引所警告制度
+- [[exchanges/global-crypto-exchange-bankruptcy-comparison]] — グローバル暗号資産取引所破綻比較
+- [[security/forensic-identity-anchor-chain]] — forensic identity anchor chain（exit scam 追跡）
 
 ## Sources
 

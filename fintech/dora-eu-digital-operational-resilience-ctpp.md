@@ -43,11 +43,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 现场检查 + 远程审查权
 - ESAs 可强制 financial entity 终止合同
 
-**实际影响链**:Circle Europe(MiCA EMT)必须同时 DORA 合规 → 其 AWS 供应商自动成 CTPP → AWS 必须设欧盟法律实体应 ESAs 监管 → BUIDL on Solana 触达欧盟客户 → BlackRock Europe + Solana validator 都受影响。
+**实际影响链**:Circle Europe([[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT]])必须同时 DORA 合规 → 其 AWS 供应商自动成 CTPP → AWS 必须设欧盟法律实体应 ESAs 监管 → BUIDL on Solana 触达欧盟客户 → BlackRock Europe + Solana validator 都受影响。
 
 ## Origin & evolution
 
-CTPP 概念源自 2018-2021 欧洲银行业 cloud 集中度担忧(AWS 占欧盟金融云 40%+)。EBA 2017《Recommendations on outsourcing to cloud service providers》是早期尝试。DORA 2022 通过把 CTPP 从软指引升级为硬监管。2024-07 ESAs Level 2 RTS 明确量化标准。**首次"非金融科技公司被金融监管"**:AWS / Azure / GCP 自动 CTPP → ESAs 直接监管 = 欧盟 sovereignty cloud 要求加剧(Gaia-X / EuroStack),触发 onshore data center 建设潮。
+CTPP 概念源自 2018-2021 欧洲银行业 cloud 集中度担忧(AWS 占欧盟金融云 40%+)。EBA 2017《Recommendations on outsourcing to cloud service providers》是早期尝试。DORA 2022 通过把 CTPP 从软指引升级为硬监管。2024-07 ESAs Level 2 RTS 明确量化标准。**首次"非金融科技公司被金融监管"**:AWS / Azure / GCP 自动 CTPP → ESAs 直接监管 = 欧盟 sovereignty cloud 要求加剧(Gaia-X / EuroStack),触发 onshore data center 建设潮。配合 [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概览]] 构成欧盟加密"业务 + 韧性"双轨监管。
 
 ## Counterpoints
 

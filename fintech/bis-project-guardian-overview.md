@@ -43,7 +43,7 @@ Guardian 是"代币化资产实验室",MAS 单一监管者主导,无央行联盟
 4. **贸易融资**:Standard Chartered / Ant International
 5. **碳信用**:与新加坡 Climate Impact X(CIX)联动
 
-**Guardian Wholesale Network**(2024.11 上线)是 MAS 主导的机构结算层,不依赖任何主权 CBDC,实质提供"代币化资产对代币化资产"的机构清算基础设施。**MAS 单一监管者 = 决策快速**:相比 Agorá 7 央行协调成本,Guardian 一年一个 milestone 节奏。
+**Guardian Wholesale Network**(2024.11 上线)是 MAS 主导的机构结算层,不依赖任何主权 CBDC,实质提供"代币化资产对代币化资产"的机构清算基础设施。**MAS 单一监管者 = 决策快速**:相比 [[fintech/bis-project-agora-overview|Agorá]] 7 央行协调成本,Guardian 一年一个 milestone 节奏。MAS 在零售 / 机构 SC 牌照面的安排见 [[fintech/singapore-mas-payment-services-act-overview|MAS PS Act 概览]] 与 [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT 牌照概览]]。
 
 ## Origin & evolution
 
