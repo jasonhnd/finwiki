@@ -127,6 +127,22 @@ Member shinkin operating-company pages now live under [[JapanFG/INDEX|JapanFG]];
 - [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] — 10 license tiers (megabank / regional / second regional / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF) across statute, regulator, capital floor, BIS / LCR, DICJ vs alternative deposit insurance, permitted activities, cross-border scope, governance, BoJ counterparty access.
 - [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] — 10 Japanese trust-bank custody operators vs 4 global custodians (BNY Mellon / State Street / JP Morgan / Citi) Japan operations across entity type, license, statutory role, AUC class, client types, cross-border, DVP / JSCC / JASDEC / ICSD gateways, specialty fields, M&A history.
 
+## Wave 5-6 additions (2026-05)
+
+Trust / custody / pension plumbing deepening:
+
+- [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] — Master Trust Bank of Japan (MTBJ) asset-administration, AUC scale, and shareholder structure.
+- [[banking/custody-bank-operating-model|Custody Bank operating model]] — Custody Bank of Japan (CBJ / 旧JTSB) asset-administration role, mandate types, and operations.
+- [[banking/jasdec-settlement-operations|JASDEC settlement operations]] — book-entry transfer, DVP / SVP, settlement participants, and trust-bank interface.
+- [[banking/trust-bank-fee-structure-comparison|Trust bank fee structure comparison]] — full-service trust vs asset-administration specialist fee economics, basis-point ranges, mandate-mix dependence.
+- [[banking/pension-trust-mandate-allocation-japan|Pension trust mandate allocation in Japan]] — GPIF, DB, DC, employees' pension fund mandate flow into trust banks and discretionary managers.
+
+### Comparison matrices (added 2026-05)
+
+- [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative banking unified federation matrix]] — shinkin / shinkumi / rōkin / JA / JF / Norinchukin tier overlay across statute, federation structure, deposit-insurance scheme, central organ, and member-bank scope.
+- [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix|Japan regional bank M&A consolidation family-tree matrix]] — Daishi-Hokuetsu / Juroku / Concordia / Mebuki / Kyushu FG / Fukuoka FG / SBI 4th-Megabank consolidation lineage and FG-formation timeline.
+- [[banking/japan-foreign-bank-retreat-refocus-timeline-matrix|Japan foreign bank retreat / refocus timeline matrix]] — Citi / RBS / SocGen / Barclays / Deutsche / Credit Suisse / UBS Japan retreat, transfer, and refocus events with year-by-year exit timeline.
+
 ## Backlog
 
 - Done: [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for Rakuten Bank / PayPay Bank / au Jibun Bank / SSNB / GMO Aozora / Minna Bank / Sony Bank / UI Bank comparison.

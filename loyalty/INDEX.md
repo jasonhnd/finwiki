@@ -43,6 +43,7 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 | likely | [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] | Top-level point ecosystem and financial-distribution bridge |
 | likely | [[loyalty/point-liability-accounting-boundary|Point liability accounting boundary]] | Marketing cost / liability / breakage / purchased-value / cross-program exchange accounting split |
 | likely | [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] | T Point → V Point 2024-04-22 unification, Olive ecosystem, vs telco / EC / payment-app common-point models |
+| likely | [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation\|d Point / au (KDDI) / docomo telco-point consolidation case]] | Wave 5: telco-anchored common-point consolidation case vs the V Point bank-led model — Pontaポイント・dポイント・au PAY point overlap |
 
 ## Expansion Backlog
 
@@ -50,6 +51,7 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 |---|---|---|
 | Done | [[loyalty/point-liability-accounting-boundary|Point liability accounting boundary]] | Created to separate marketing cost, contract-liability under IFRS 15 / ASBJ Statement No.29, breakage, prepaid-value (FSA registry), and cross-program exchange accounting |
 | Done | [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] | Created to document the 2024-04-22 T Point → V Point unification as the bank-led common-point archetype |
+| Done | [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation\|d Point / au (KDDI) / docomo telco-point consolidation case]] | Wave 5 (2026-05): telco-anchored common-point consolidation case beside the V Point bank-led archetype |
 | P2 | `loyalty/retail-media-points-data-loop.md` | Points are becoming retail media / ID graph infrastructure |
 | P2 | `loyalty/point-exchange-network-risk.md` | Cross-program exchange creates settlement, fraud, and economics questions |
 

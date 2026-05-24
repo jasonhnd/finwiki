@@ -14,12 +14,12 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1057 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
-| Topical domains | 20 | `INDEX.md` domain map の主要テーマ領域 |
-| Link-audited entries | 1025 | `tools/wiki_link_audit.py` が確認する public wiki entries |
+| Markdown files | 1235 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
+| Link-audited entries | 1203 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約467.8万字 | Markdown 全体の空白除外 UTF-8 文字数 4,678,432 |
-| Word-like tokens | 730,596 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約620万字 | Markdown 全体の空白除外 UTF-8 文字数（約 6,200,000） |
+| Word-like tokens | 約970,000 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-05-24 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
@@ -53,6 +53,9 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 | 🧾 事業・会社ケース | [business/](business/), [corporate-strategy/](corporate-strategy/) | 公開企業・公開人物の事業ケース、親会社文脈、スピンオフ設計。 |
 | 🛡️ セキュリティ | [security/](security/) | フォレンジック、サプライチェーン攻撃、バイトコード検証、Wayback 保存確認。 |
 | 🛍️ その他産業 | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | 小売、製造、保険（大手生命保険 4 社、大手損害保険 3 グループ、地震保険の官民制度、保険代理店・保険仲立人）、ポイント経済などの周辺領域。 |
+| 📐 デリバティブ | [derivatives/](derivatives/) | 日本・グローバルのデリバティブ市場。金利（IRS / OIS / 国債先物）、為替（クロスカレンシーベーシス / FX オプション / 店頭 FX）、信用（CDS / 仕組債 / EB ノックイン）、株式ボラティリティ（JPX-VI）、OTC 清算インフラ（JSCC、取引情報蓄積機関）、ディーラー銀行の収益構成。 |
+| 🏢 不動産金融 | [real-estate-finance/](real-estate-finance/) | 日本・グローバルの不動産金融。J-REIT（時価総額上位 10 法人マトリックス、スポンサー利益相反、米国 REIT とのガバナンス比較）、証券化（CMBS / RMBS / ブリッジファンド / GK-TK SPV / 鑑定評価）、デベロッパー金融（三井不動産 / 三菱地所 / イオンモール / 三菱商業不動産融資）、キャップレート圧縮、外国人投資家・税制。 |
+| 🧱 ストラクチャード・ファイナンス | [structured-finance/](structured-finance/) | 日本・グローバルのストラクチャード・ファイナンス。ABS（オート / 消費者 / RMBS / CMBS）、JHF MBS、CLO、不良債権証券化、プロジェクトファイナンス SPV（再エネ）、航空機 / 船舶 / インフラ金融、RWA 軽減目的の合成型証券化、SPV ビークル（TK / GK / TMK）、格付け方法（JCR / R&I）。 |
 
 ### 🔐 公開面ルール
 
@@ -134,12 +137,12 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1057 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
-| Topical domains | 20 | Major topic areas in the `INDEX.md` domain map |
-| Link-audited entries | 1025 | Public wiki entries checked by `tools/wiki_link_audit.py` |
+| Markdown files | 1235 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
+| Link-audited entries | 1203 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~4.68M chars | 4,678,432 non-space UTF-8 characters across Markdown |
-| Word-like tokens | 730,596 | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~6.2M chars | ~6,200,000 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~970,000 | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-05-24 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
@@ -173,6 +176,9 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 | 🧾 Strategic Cases | [business/](business/), [corporate-strategy/](corporate-strategy/) | Public company/person strategic business cases, spin-off designs, parent entity contexts. |
 | 🛡️ Security & Forensics | [security/](security/) | Forensics, supply-chain attacks, bytecode verification, Wayback time stamps. |
 | 🛍️ Peripheral Industries | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | Retail groups, captive finance, insurance operating models, life / non-life comparison pages, public-private earthquake insurance, agency / brokerage, and point loyalty liabilities. |
+| 📐 Derivatives | [derivatives/](derivatives/) | Japan + global derivatives markets — interest rate (IRS / OIS / JGB futures), FX (cross-currency basis / FX options / retail FX), credit (CDS / structured bond / EB knock-in), equity volatility (JPX-VI), OTC clearing infrastructure (JSCC, trade repository), and dealer-bank revenue mix. |
+| 🏢 Real-Estate Finance | [real-estate-finance/](real-estate-finance/) | Japan + global real-estate finance — J-REIT (top 10 matrix, sponsor-conflict, governance vs US REIT), securitization (CMBS / RMBS / bridge fund / GK-TK SPV / appraisal), developer financing (Mitsui Fudosan / Mitsubishi Estate / AEON Mall / Mitsubishi commercial real-estate lending), cap-rate compression, foreign-investor / tax. |
+| 🧱 Structured Finance | [structured-finance/](structured-finance/) | Japan + global structured finance — ABS (auto / consumer / RMBS / CMBS), JHF MBS, CLO, NPL securitization, project finance SPV (renewable), aircraft / ship / infrastructure finance, synthetic securitization for RWA relief, SPV vehicles (TK / GK / TMK), and credit rating methodology (JCR / R&I). |
 
 ### 🔐 Public Surface Policy
 
@@ -239,12 +245,12 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1057 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
-| Topical domains | 20 | `INDEX.md` domain map 中的主要主题领域 |
-| Link-audited entries | 1025 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
+| Markdown files | 1235 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
+| Link-audited entries | 1203 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约467.8万字 | 全库 Markdown 空白除外 UTF-8 字符数 4,678,432 |
-| Word-like tokens | 730,596 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约620万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 6,200,000） |
+| Word-like tokens | 约970,000 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-05-24 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
@@ -278,6 +284,9 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 | 🧾 商业与公司案例 | [business/](business/), [corporate-strategy/](corporate-strategy/) | 公开公司、公开人物、母公司背景和分拆设计。 |
 | 🛡️ 安全 | [security/](security/) | 取证、供应链攻击、字节码验证、Wayback 保存验证。 |
 | 🛍️ 其他产业 | [retail/](retail/), [manufacturing/](manufacturing/), [insurance/](insurance/), [loyalty/](loyalty/) | 零售、制造、保险经营模型、寿险四大、损保三大、地震保险公私合作制度、保险代理与经纪、积分经济等周边领域。 |
+| 📐 衍生品 | [derivatives/](derivatives/) | 日本与全球衍生品市场。利率（IRS / OIS / JGB 国债期货）、外汇（跨币种基差 / 外汇期权 / 零售外汇）、信用（CDS / 结构化债券 / EB 敲入）、股票波动率（JPX-VI）、OTC 清算基础设施（JSCC、交易报告库）、做市银行收入结构。 |
+| 🏢 房地产金融 | [real-estate-finance/](real-estate-finance/) | 日本与全球房地产金融。J-REIT（前 10 大市值矩阵、发起人利益冲突、与美国 REIT 的治理对比）、证券化（CMBS / RMBS / 桥梁基金 / GK-TK SPV / 估值）、开发商融资（三井不动产 / 三菱地所 / AEON Mall / 三菱商业地产贷款）、资本化率压缩、外国投资者与税制。 |
+| 🧱 结构化融资 | [structured-finance/](structured-finance/) | 日本与全球结构化融资。ABS（汽车 / 消费者 / RMBS / CMBS）、JHF MBS、CLO、不良债权证券化、项目融资 SPV（可再生能源）、飞机 / 船舶 / 基础设施融资、用于 RWA 缓释的合成型证券化、SPV 工具（TK / GK / TMK）、信用评级方法（JCR / R&I）。 |
 
 ### 🔐 公开面规则
 

@@ -97,6 +97,25 @@ sources: []
 - [[systems/formal-spec-implementation-codesign|formal spec implementation co-design]]
 - [[systems/hook-enforced-compliance|hook-enforced compliance]]
 
+## Wave 6-7 additions (2026-05)
+
+### Comparison matrices (added 2026-05)
+
+- [[systems/cross-chain-bridge-security-insurance-matrix-2026|Cross-chain bridge security × insurance matrix (2026)]] — bridge trust model × insurance coverage × incident history across major bridges.
+- [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|zk-EVM rollup maturity comparison matrix (2026)]] — Scroll / zkSync / Polygon zkEVM / Linea / Taiko on equivalence stage, prover, and decentralization.
+- [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|Restaking / AVS landscape matrix (EigenLayer vs Symbiotic)]] — restaking platforms, AVS roster, slashing rules, and operator distribution.
+
+### 2026 protocol reality (Solana, DA, ZK-EVM, restaking, Bitcoin, L2)
+
+- [[systems/solana-firedancer-validator-economics|Solana Firedancer validator economics]] — Firedancer client impact on validator cost, throughput, and decentralization curve.
+- [[systems/data-availability-celestia-eigenda-blob-comparison|Data availability — Celestia / EigenDA / blob comparison]] — DA layer comparison and rollup migration implications.
+- [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob economics impact (2026)]] — blob fee market behavior and downstream rollup cost structure.
+- [[systems/rollup-market-share-2026-arbitrum-optimism-base|Rollup market share 2026 (Arbitrum / Optimism / Base)]] — L2 share, sequencer revenue, and bridge flows update.
+- [[systems/bitcoin-scaling-2026-stacks-lightning-bitvm|Bitcoin scaling 2026 (Stacks / Lightning / BitVM)]] — Bitcoin L2 / sidechain / Layer-2 scaling status and capital flows.
+- [[systems/polygon-agglayer-architecture-rollout|Polygon AggLayer architecture rollout]] — AggLayer unified-bridge architecture and CDK chain onboarding.
+- [[systems/institutional-dlt-adoption-comparison-2026|Institutional DLT adoption comparison (2026)]] — Canton / Besu / Corda / Quorum live workloads and migration patterns.
+- [[systems/l2-agent-economics-arbitrum-base-op-comparison|L2 agent economics (Arbitrum / Base / OP)]] — per-L2 cost and latency profile for agent-driven transactions.
+
 ## Backlog
 
 - Done: [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] covering CCTP V2 / CCIP / LayerZero / Hyperlane / Wormhole across messaging model, security, settlement, chain coverage, institutional adoption, fee economics, governance, incident history, and best-fit use cases.

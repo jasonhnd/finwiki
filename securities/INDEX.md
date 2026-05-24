@@ -112,6 +112,21 @@ This domain routes securities-market and household-investment pages. Listed fina
 | Done | [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]] | Created to route JPX / TSE listing examination, new-listing documents, EDINET, TDnet, and post-listing disclosure fields. |
 | Done | [[securities/japan-security-token-secondary-market-route|Japan security token secondary market route]] | Created to route ODX START, JSDA unlisted securities PTS rules, Progmat, FIEA securities-firm access, and ST settlement / custody fields. |
 
+## Wave 5-6 additions (2026-05)
+
+Venue / token / research / market-maker plumbing deepening:
+
+- [[securities/japannext-sor-routing-deep-dive|Japannext SOR routing deep dive]] — Japannext PTS order book, SOR routing logic, latency, depth, and broker connectivity.
+- [[securities/odx-start-stb-secondary-market|ODX START / STB secondary market]] — Osaka Digital Exchange START security-token secondary market and STB transfer-restricted infrastructure.
+- [[securities/progmat-tokenized-securities-infrastructure|Progmat tokenized securities infrastructure]] — Progmat tokenized securities issuance/transfer infrastructure, MUFG-led consortium, and ST-issuer access.
+- [[securities/japan-equity-analyst-and-sell-side-research-ecosystem|Japan equity analyst and sell-side research ecosystem]] — Nikkei Veritas ranking, JSDA analyst rules, MiFID II unbundling pressure, and research-fee unbundling.
+- [[securities/japan-market-maker-and-liquidity-provider-landscape|Japan market maker and liquidity provider landscape]] — JPX market-making program, designated market makers, ETF market makers, and HFT participants.
+
+### Comparison matrices (added 2026-05)
+
+- [[securities/japan-fiea-operator-registry-segment-matrix|Japan FIEA operator registry segment matrix]] — Type I / Type II / IAB / IMB / RFI / registered-financial-institution / intermediary / advisory segment overlay across statute, capital, scope, and JSDA membership.
+- [[securities/japan-prime-brokerage-and-institutional-financing-matrix|Japan prime brokerage and institutional financing matrix]] — Nomura / Daiwa / SMBC Nikko / MUFG MUMS / Mizuho Securities / Goldman Sachs Japan / Morgan Stanley MUFG prime-brokerage scope, margin, stock borrow, collateral, derivatives, custody, and clearing overlay.
+
 ## Related
 
 - [[JapanFG/INDEX]]

@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[INDEX|FinWiki index]]. Read it with [[JapanFG/sony-fg|Sony FG]] as the main public transaction example and [[finance/INDEX|finance index]] for adjacent capital-markets context.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy index]] and [[INDEX|FinWiki index]]. Read it with [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the legal-plumbing peer, [[JapanFG/sony-fg|Sony FG]] as the main public transaction example, and [[finance/INDEX|finance index]] for adjacent capital-markets context.
 
 ## TL;DR
 

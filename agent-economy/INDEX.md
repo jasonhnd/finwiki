@@ -125,14 +125,34 @@ When expanding this domain:
 - [[business/INDEX|business INDEX]] — strategic case studies of the people running the agent / crypto buildout (Paolo Ardoino, Matt Huang, Larry Fink, Christine Moy).
 - [[security/INDEX|security INDEX]] — bytecode forensics and supply-chain audit framing that applies to agent-callable contracts.
 
+## Wave 6-7 additions (2026-05)
+
+### P1 backlog (ERC primers + agent commerce)
+
+- [[agent-economy/erc-4337-account-abstraction-primer-for-agents|ERC-4337 account abstraction primer for agents]] — agent-focused primer on entry point, bundler, UserOp, and paymaster mechanics.
+- [[agent-economy/erc-7702-eoa-delegation-primer-for-agents|ERC-7702 EOA delegation primer for agents]] — companion primer on EOA-side delegation path for agent transactions.
+- [[agent-economy/stripe-agent-toolkit-position|Stripe Agent Toolkit position]] — Stripe's own agent SDK and how it overlaps with x402 transport.
+- [[agent-economy/visa-mastercard-agentic-commerce-pilots|Visa / Mastercard agentic commerce pilots]] — closed-loop card-network agentic commerce as counterweight to AP2 / x402.
+
+### Embedded wallet 2026
+
+- [[agent-economy/embedded-wallet-landscape-2026-consolidation|Embedded wallet landscape 2026 consolidation]] — Privy / Dynamic / Magic / Coinbase CDP / Turnkey market structure update.
+- [[agent-economy/embedded-wallet-custody-bankruptcy-mechanics|Embedded wallet custody bankruptcy mechanics]] — segregation, MPC, and bankruptcy-remoteness for embedded-wallet custody.
+- [[agent-economy/stablecoin-routing-agent-transactions|Stablecoin routing for agent transactions]] — issuer / chain / bridge routing logic an agent must encode at payment time.
+- [[agent-economy/agent-legal-tax-liability-framework|Agent legal / tax liability framework]] — operator vs principal liability, withholding, and reporting framework for agent-driven payments.
+
+### Agent protocol 2026 status
+
+- [[agent-economy/agent-protocol-mainnet-adoption-2026|Agent protocol mainnet adoption 2026]] — x402 / AP2 / ERC-7715 mainnet adoption status snapshot.
+
 ## Backlog
 
 | Priority | Page | Why |
 |---|---|---|
-| P1 | `agent-economy/erc-4337-account-abstraction-primer.md` | Foundation for ERC-7715, currently linked but not anchored in-domain. |
-| P1 | `agent-economy/erc-7702-eoa-delegation-primer.md` | Companion to ERC-7715; needed to explain the EOA-side path. |
-| P2 | `agent-economy/stripe-agent-toolkit-position.md` | Stripe's own agent SDK now competes with x402 transport-layer claims. |
-| P2 | `agent-economy/visa-mastercard-agentic-commerce-pilots.md` | Card-network agentic commerce pilots as the closed-loop counterweight to AP2 / x402. |
+| P1 | `agent-economy/erc-4337-account-abstraction-primer.md` | Foundation for ERC-7715, currently linked but not anchored in-domain. (Done — see [[agent-economy/erc-4337-account-abstraction-primer-for-agents|primer]].) |
+| P1 | `agent-economy/erc-7702-eoa-delegation-primer.md` | Companion to ERC-7715; needed to explain the EOA-side path. (Done — see [[agent-economy/erc-7702-eoa-delegation-primer-for-agents|primer]].) |
+| P2 | `agent-economy/stripe-agent-toolkit-position.md` | Stripe's own agent SDK now competes with x402 transport-layer claims. (Done — see [[agent-economy/stripe-agent-toolkit-position]].) |
+| P2 | `agent-economy/visa-mastercard-agentic-commerce-pilots.md` | Card-network agentic commerce pilots as the closed-loop counterweight to AP2 / x402. (Done — see [[agent-economy/visa-mastercard-agentic-commerce-pilots]].) |
 
 ## Sources
 

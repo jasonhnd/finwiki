@@ -44,6 +44,8 @@ The current set splits into two clusters: **people case studies** (founders, exe
 | Regulator-pivot template | [[business/hester-peirce-sec-regulatory-pivot-case\|Hester Peirce · regulator pivot · personal ideology + institutional mandate]] | People case studies |
 | Independent-strategy template | [[business/kitao-yoshitaka-sbi-independent-strategy-case\|Kitao Yoshitaka / SBI · independent strategy · refuse industry alliance, bet on cross-border compliance]] | People case studies |
 | Country-bloc winner pattern | [[business/sandeep-nailwal-polygon-india-dpi-pattern\|Sandeep Nailwal / Polygon · country-bloc winner · anti-USD DPI alliance and EM chain supply]] | People case studies |
+| Exchange-as-public-company template | [[business/brian-armstrong-coinbase-public-company-template\|Brian Armstrong / Coinbase · exchange-as-US-listed-public-company template]] | People case studies (Wave 5) |
+| Founder pivot-outcome matrix | [[business/founder-pivot-outcome-template-matrix\|Founder pivot-outcome template matrix · success vs failure vs hybrid pivots]] | Cross-case templates (Wave 6) |
 | Operating-company case | [[business/gmo-internet-group\|GMO Internet Group]] | Public-company strategic cases |
 
 ## Start here
@@ -71,6 +73,8 @@ Each entry follows a "named individual → reusable template" pattern. The templ
 | [[business/hester-peirce-sec-regulatory-pivot-case\|hester-peirce-sec-regulatory-pivot-case]] | Regulator-pivot key-official case · personal ideology + institutional mandate (Hester Peirce / SEC) | Regulator pivot |
 | [[business/kitao-yoshitaka-sbi-independent-strategy-case\|kitao-yoshitaka-sbi-independent-strategy-case]] | Independent strategy case · refuse industry alliance + bet on cross-border compliance value (Kitao / SBI) | Independent FG strategy |
 | [[business/sandeep-nailwal-polygon-india-dpi-pattern\|sandeep-nailwal-polygon-india-dpi-pattern]] | Country-bloc winner pattern · anti-USD DPI alliance and emerging-market chain supply (Sandeep / Polygon / India) | Country-bloc thesis |
+| [[business/brian-armstrong-coinbase-public-company-template\|brian-armstrong-coinbase-public-company-template]] | Exchange-as-public-company template · US-listed crypto-native operator governance (Brian Armstrong / Coinbase) | Public-company exchange template |
+| [[business/founder-pivot-outcome-template-matrix\|founder-pivot-outcome-template-matrix]] | Founder pivot-outcome template matrix · success / failure / hybrid pivot patterns across people cases | Cross-case pivot matrix |
 
 ## Public-company strategic cases
 
@@ -101,7 +105,8 @@ When expanding this domain:
 | Priority | Page | Why |
 |---|---|---|
 | P1 | `business/changpeng-zhao-binance-post-doj-case.md` | Post-DOJ Binance leadership transition is a major template for founder-to-foundation handoff and would round out the people set. |
-| P1 | `business/brian-armstrong-coinbase-public-company-template.md` | Coinbase as the cleanest US-listed crypto-native operator; template for exchange-as-public-company governance. |
+| Done | [[business/brian-armstrong-coinbase-public-company-template\|brian-armstrong-coinbase-public-company-template]] | Wave 5 (2026-05): Coinbase as the cleanest US-listed crypto-native operator; template for exchange-as-public-company governance. |
+| Done | [[business/founder-pivot-outcome-template-matrix\|founder-pivot-outcome-template-matrix]] | Wave 6 (2026-05): cross-case matrix categorizing founder pivot patterns from the existing people-case set. |
 | P2 | `business/cz-vs-sbf-trial-comparison-case.md` | Trial-outcome comparison as a template for legal-risk pricing in crypto founders. |
 | P2 | `business/yoichiro-taku-anycolor-creator-economy-case.md` | Japan creator-economy public-company operating model case to balance the GMO operating-company entry. |
 

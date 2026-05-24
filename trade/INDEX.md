@@ -33,6 +33,7 @@ This is a small but high-leverage domain for any question about *how foreign bus
 |---|---|---|---|
 | certain | [[trade/jetro-organization-structure\|jetro-organization-structure]] | JETRO は会員組織ではなく経産省傘下の独立行政法人 | JETRO is a METI-supervised independent administrative agency, not a membership chamber |
 | certain | [[trade/jetro-members-gateway-model\|jetro-members-gateway-model]] | JETRO Members 有料会員制は B2B 提案の入口ゲート | JETRO Members paid program is a B2B proposal gateway, not a service-fee wall |
+| certain | [[trade/jetro-vs-nexi-vs-jbic-comparison\|jetro-vs-nexi-vs-jbic-comparison]] | JETRO vs NEXI vs JBIC 比較 — promotion / export-credit insurance / export financing | Decision page splitting the three METI-orbit institutions routinely confused as one |
 
 ## Start here
 
@@ -64,7 +65,7 @@ When expanding this domain:
 
 | Priority | Page | Why |
 |---|---|---|
-| P1 | `trade/jetro-vs-nexi-vs-jbic-trade-finance-comparison.md` | Decision page splitting JETRO (promotion), NEXI (export-credit insurance), and JBIC (export financing) — the three are routinely confused. |
+| Done | [[trade/jetro-vs-nexi-vs-jbic-comparison\|jetro-vs-nexi-vs-jbic-comparison]] | Wave 5 (2026-05): decision page splitting JETRO (promotion), NEXI (export-credit insurance), and JBIC (export financing). |
 | P1 | `trade/jetro-j-bridge-startup-acceleration-program.md` | J-Bridge / J-Startup are JETRO's flagship startup programs and deserve their own entries to anchor practical operator questions. |
 | P2 | `trade/japan-fta-epa-rcep-utilization-guide.md` | FTA / EPA / RCEP utilization rates from Japan's side; JETRO is the primary information channel. |
 | P2 | `trade/jetro-overseas-office-network.md` | JETRO's overseas office network is the actual operating layer of the institution; should be a standalone page. |

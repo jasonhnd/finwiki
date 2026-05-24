@@ -29,6 +29,85 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-05-25
+
+### Wave 5-9 大規模拡張 (5 waves / 178 entries / 25 matrices / 3 new domains) / Wave 5-9 mega-expansion / Wave 5-9 大规模扩展
+
+#### 日本語記録
+
+## 2026-05-25 — Wave 5-9 大規模拡張 (5 waves / 178 entries / 25 matrices / 3 new domains)
+
+### 概要
+
+2026-05-25 JST、Wave 4 (v2026.05.24-3) 完了後の 5 wave 並列拡張。Wave 5-8 各 10 並列 agent + Wave 9 infrastructure sync で 178 件新規 entry + 25 件 comparison matrix + 3 new domains + 5 trilingual release notes を一括出荷。
+
+### 主要変更
+
+- **Wave 5 (50 entries)** — 残量収口: JapanFG 非寿命 / 再保険 / 地方 FG 子会社 / 47 都道府県 信用保証協会 5 件 / 政策金融 operating (JFC/JBIC/NEXI/JOGMEC) / Trust bank custody / Payments 残量 (JCB / 交通系 / FamiPay / WAON-nanaco) / Securities 残量 (Japannext / ODX / Progmat) / Insurance analytical / Finance (PE/LBO/CB/cross-shareholding/hedge) / 5 件小域 P1 backlog 清盘.
+- **Wave 6 (25 matrices)** — 9 → 34 comparison matrices: banking 3 (cooperative federation / regional M&A / foreign bank retreat), exchanges 5 (stablecoin reg / VASP business model / custody / CEX parent-FG adjacency / perp DEX), payments 3 (JCB issuer / merchant PSP / BNPL registry), securities 2 (FIEA segment / prime brokerage), insurance 2 (life big-4 / non-life big-3 reinsurance), policy-finance 2 (institution mandate / local bond), finance 2 (M&A deal process / PE fund structure), systems 3 (bridge security / ZK-EVM / restaking AVS), cross-cutting 2 (retail wedge / founder pivot).
+- **Wave 7 (40 entries)** — 2025-2026 freshness: US crypto reset (SAB 121 / Bitcoin Strategic Reserve EO / GENIUS §501 impl / Treasury policy / OCC charter), stablecoin consolidation (Ondo / Paxos / Franklin / market consolidation), CBDC update (e-CNY / eRupee / e-Euro / cross-country), SE Asia + LatAm (SE Asia regulatory / Indonesia OVO / LatAm dollarization / Brazil DREX), agent-economy P1 (ERC-4337 / ERC-7702 primers / Stripe Agent Toolkit / Visa-Mastercard agentic), embedded wallet (2026 landscape / custody bankruptcy / stablecoin routing / legal-tax), systems 2026 (Solana Firedancer / DA layers / EIP-4844 / rollup market share / Bitcoin scaling / Polygon AggLayer / institutional DLT / L2 agent economics), 2026 events (mainnet adoption / state charter / mBridge update / Argentina USDT / M0 / Brazil-Mexico / MiCA / Japan stablecoin tracker).
+- **Wave 8 (60 entries + 3 INDEX)** — 3 new domains: `derivatives/` (yen-basis-swap / JGB futures / OIS-TONA / IRS / FX options / CDS / structured bond / Nikkei VIX / OTC clearing / dealer revenue, 20 entries), `real-estate-finance/` (J-REIT / CMBS-RMBS / GK-TK SPV / cap rate / developer financing / asset class, 20 entries), `structured-finance/` (ABS / RMBS / CMBS / auto-loan / consumer / JHF MBS / SPV / CLO / NPL / project finance / aircraft / ship / synthetic / rating methodology, 20 entries).
+- **Wave 9** — Infrastructure sync: 17 domain INDEX updates + root INDEX.md / README.md / index.html trilingual numeric snapshot sync (1057 → 1235 MD / 1025 → 1203 entries / 20 → 23 domains) + 5 release notes (v2026.05.25.md through v2026.05.25-5.md) + wiki_link_audit + AI discovery regenerate.
+
+### 数値スナップショット
+
+- Markdown files: 1057 → **1235** (+178)
+- Link-audited entries: 1025 → **1203** (+178)
+- Topical domains: 20 → **23** (+3: derivatives, real-estate-finance, structured-finance)
+- Comparison matrices: 9 → **34** (+25)
+- Releases: 26 → **31** (+5)
+- Public-surface rule: 全 178 件 entry が public-source-only (no PII, no local paths, no internal cases)
+
+#### English Record
+
+## 2026-05-25 — Wave 5-9 mega-expansion (5 waves / 178 entries / 25 matrices / 3 new domains)
+
+### Overview
+
+On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave parallel expansion: waves 5-8 each ran 10 parallel agents, and wave 9 was an infrastructure synchronization pass. The combined shipment delivered 178 new entries, 25 new comparison matrices, 3 new topical domains, and 5 trilingual release notes in a single day.
+
+### Highlights
+
+- **Wave 5 (50 entries)** — Long-tail closure: JapanFG non-life / reinsurance / regional FG subsidiaries / 5 prefectural credit guarantee corps / policy-finance operating layer (JFC / JBIC / NEXI / JOGMEC) / trust bank custody / payments residual (JCB / transit-IC / FamiPay / WAON / nanaco) / securities residual (Japannext / ODX / Progmat) / insurance analytical / finance (PE / LBO / convertible bond / cross-shareholding / hedge), plus 5 small-domain P1 backlog closes.
+- **Wave 6 (25 matrices)** — Comparison matrices grew 9 → 34: banking 3 (cooperative federation / regional M&A / foreign bank retreat), exchanges 5 (stablecoin reg / VASP business model / custody / CEX parent-FG adjacency / perp DEX), payments 3 (JCB issuer / merchant PSP / BNPL registry), securities 2 (FIEA segment / prime brokerage), insurance 2 (life big-4 / non-life big-3 reinsurance), policy-finance 2 (institution mandate / local bond), finance 2 (M&A deal process / PE fund structure), systems 3 (bridge security / ZK-EVM / restaking AVS), cross-cutting 2 (retail wedge / founder pivot).
+- **Wave 7 (40 entries)** — 2025-2026 freshness pass: US crypto reset (SAB 121 / Bitcoin Strategic Reserve EO / GENIUS §501 implementation / Treasury policy / OCC charter), stablecoin consolidation (Ondo / Paxos / Franklin / market consolidation), CBDC updates (e-CNY / eRupee / e-Euro / cross-country), SE Asia + LatAm (SE Asia regulatory / Indonesia OVO / LatAm dollarization / Brazil DREX), agent-economy P1 (ERC-4337 / ERC-7702 primers / Stripe Agent Toolkit / Visa-Mastercard agentic rails), embedded wallet (2026 landscape / custody bankruptcy / stablecoin routing / legal-tax), systems 2026 (Solana Firedancer / DA layers / EIP-4844 / rollup market share / Bitcoin scaling / Polygon AggLayer / institutional DLT / L2 agent economics), and a 2026 event ledger (mainnet adoption / state charter / mBridge / Argentina USDT / M0 / Brazil-Mexico / MiCA / Japan stablecoin tracker).
+- **Wave 8 (60 entries + 3 INDEX)** — 3 new domains: `derivatives/` (yen-basis-swap / JGB futures / OIS-TONA / IRS / FX options / CDS / structured bond / Nikkei VIX / OTC clearing / dealer revenue, 20 entries), `real-estate-finance/` (J-REIT / CMBS-RMBS / GK-TK SPV / cap rate / developer financing / asset class, 20 entries), and `structured-finance/` (ABS / RMBS / CMBS / auto-loan / consumer / JHF MBS / SPV / CLO / NPL / project finance / aircraft / ship / synthetic / rating methodology, 20 entries).
+- **Wave 9** — Infrastructure sync: 17 domain INDEX updates + root `INDEX.md` / `README.md` / `index.html` trilingual numeric snapshot sync (1057 → 1235 MD / 1025 → 1203 entries / 20 → 23 domains) + 5 release notes (`v2026.05.25.md` through `v2026.05.25-5.md`) + `wiki_link_audit` + AI discovery regeneration.
+
+### Numeric snapshot
+
+- Markdown files: 1057 → **1235** (+178)
+- Link-audited entries: 1025 → **1203** (+178)
+- Topical domains: 20 → **23** (+3: derivatives, real-estate-finance, structured-finance)
+- Comparison matrices: 9 → **34** (+25)
+- Releases: 26 → **31** (+5)
+- Public-surface rule: all 178 entries are public-source-only (no PII, no local paths, no internal cases).
+
+#### 中文记录
+
+## 2026-05-25 — Wave 5-9 大规模扩展 (5 waves / 178 entries / 25 matrices / 3 new domains)
+
+### 概要
+
+2026-05-25 JST，Wave 4（v2026.05.24-3）发布完成后，运行 5 个 wave 的并行扩展。Wave 5-8 各跑 10 个并行 agent，Wave 9 做基础设施同步。一天内合计交付 178 个新 entry + 25 个新 comparison matrix + 3 个新 domain + 5 份三语 release notes。
+
+### 主要变更
+
+- **Wave 5（50 条）** — 残量收口：JapanFG 非寿险 / 再保险 / 地方 FG 子会社 / 47 都道府县信用保证协会 5 件 / 政策金融 operating（JFC / JBIC / NEXI / JOGMEC）/ 信託银行 custody / Payments 残量（JCB / 交通系 IC / FamiPay / WAON-nanaco）/ Securities 残量（Japannext / ODX / Progmat）/ Insurance analytical / Finance（PE / LBO / 可转债 / cross-shareholding / hedge）+ 5 个小域 P1 backlog 清盘。
+- **Wave 6（25 个 matrix）** — Comparison matrix 从 9 涨到 34：banking 3（合作金融联合体 / 地银 M&A / 外资银行撤退）, exchanges 5（稳定币监管 / VASP 商业模式 / custody / CEX 母 FG 邻接 / perp DEX）, payments 3（JCB 发卡 / 商户 PSP / BNPL 登录簿）, securities 2（FIEA 类别 / prime brokerage）, insurance 2（寿险四强 / 非寿险三强再保险）, policy-finance 2（机构使命 / 地方债）, finance 2（M&A 流程 / PE 基金结构）, systems 3（桥安全 / ZK-EVM / restaking AVS）, cross-cutting 2（零售切入 / 创始人 pivot）。
+- **Wave 7（40 条）** — 2025-2026 新鲜度补强：美国加密重置（SAB 121 / 比特币战略储备 EO / GENIUS §501 落地 / 财政部政策 / OCC charter）、稳定币集中度（Ondo / Paxos / Franklin / 市场整合）、CBDC update（e-CNY / eRupee / e-Euro / 跨国）、东南亚 + 拉美（东南亚监管 / 印尼 OVO / 拉美美元化 / 巴西 DREX）、agent-economy P1（ERC-4337 / ERC-7702 入门 / Stripe Agent Toolkit / Visa-Mastercard agentic）、嵌入式钱包（2026 景观 / 托管破产 / 稳定币 routing / 法税）、systems 2026（Solana Firedancer / DA layer / EIP-4844 / rollup 市占 / 比特币扩容 / Polygon AggLayer / institutional DLT / L2 agent economics）、2026 事件（主网采纳 / 州 charter / mBridge / 阿根廷 USDT / M0 / 巴西-墨西哥 / MiCA / 日本稳定币 tracker）。
+- **Wave 8（60 条 + 3 个 INDEX）** — 3 个新 domain：`derivatives/`（日元 basis swap / JGB 期货 / OIS-TONA / IRS / FX 期权 / CDS / 结构化债 / 日经 VIX / OTC clearing / dealer 收入，20 条）、`real-estate-finance/`（J-REIT / CMBS-RMBS / GK-TK SPV / cap rate / developer financing / 资产分类，20 条）、`structured-finance/`（ABS / RMBS / CMBS / auto-loan / consumer / JHF MBS / SPV / CLO / NPL / 项目融资 / 飞机 / 船舶 / 合成 / 评级方法学，20 条）。
+- **Wave 9** — 基础设施同步：17 个 domain INDEX 更新 + 根 `INDEX.md` / `README.md` / `index.html` 三语 numeric snapshot 同步（1057 → 1235 MD / 1025 → 1203 entries / 20 → 23 domains）+ 5 份 release notes（`v2026.05.25.md` 到 `v2026.05.25-5.md`）+ `wiki_link_audit` + AI discovery 重生成。
+
+### 数字快照
+
+- Markdown 文件：1057 → **1235**（+178）
+- 链接审计 entry：1025 → **1203**（+178）
+- 主题 domain：20 → **23**（+3：derivatives、real-estate-finance、structured-finance）
+- Comparison matrix：9 → **34**（+25）
+- Releases：26 → **31**（+5）
+- 公开面规则：178 条 entry 全部 public-source-only（无 PII、无本地路径、无内部案件）。
+
 ## 2026-05-24
 
 ### 25:30 JST (翌 01:30): Wave 4 並列 10 agents — 44 件新規 (商社 parent / JA 系統 / 外資保険 / BNPL / 監査法人 / policy-finance + 3 新 matrix) + 56 件 density pass / Wave 4 parallel-10 batch — 44 new entries + 56 density-pass cross-links / Wave 4 并行 10 agent 批次 — 44 条新增 + 56 条 density
