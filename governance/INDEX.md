@@ -35,6 +35,7 @@ This is the only domain that intentionally talks about *Japanese non-profit gove
 |---|---|---|---|
 | certain | [[governance/japan-general-foundation-establishment-requirements\|japan-general-foundation-establishment-requirements]] | 日本 一般財団法人 設立要件・プロセス | Legal route to establish a Japanese general incorporated foundation |
 | certain | [[governance/japan-research-grant-map-2026\|japan-research-grant-map-2026]] | 日本 研究助成金 map（2026 年度） | Mapping of Japan's research grant programs as of FY2026 |
+| certain | [[governance/japan-koeki-vs-general-zaidan-comparison\|japan-koeki-vs-general-zaidan-comparison]] | 日本 公益財団法人 vs 一般財団法人 比較 | Wave 5: decision page splitting 公益財団 (tax-favored, supervisory burden) vs 一般財団 (simpler setup, no tax break) |
 
 ## Start here
 
@@ -65,7 +66,7 @@ When expanding this domain:
 
 | Priority | Page | Why |
 |---|---|---|
-| P1 | `governance/japan-public-interest-foundation-koeki-zaidan.md` | Companion to the general-foundation page; 公益財団法人 has different tax / supervisory treatment and deserves its own entry. |
+| Done | [[governance/japan-koeki-vs-general-zaidan-comparison\|japan-koeki-vs-general-zaidan-comparison]] | Wave 5 (2026-05): companion decision page comparing 公益財団 vs 一般財団 tax, supervisory, and disclosure boundaries. |
 | P1 | `governance/japan-npo-vs-zaidan-vs-shadan-comparison.md` | Decision page comparing NPO法人 / 一般財団 / 一般社団 / 公益財団 / 公益社団 by tax, governance, and disclosure obligations. |
 | P2 | `governance/japan-corporate-foundation-tax-deduction.md` | Tax-deduction rules for corporate donations into public-interest foundations — needed for any company-funded grant program. |
 

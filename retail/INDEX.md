@@ -34,6 +34,7 @@ The current active pair is [[retail/aeon-group|AEON Group]] and [[retail/seven-a
 | likely | [[retail/aeon-group|AEON Group]] | Mall / supermarket retail-to-finance model with AEON Bank, AFS, AEON Card, WAON, WAON POINT |
 | likely | [[retail/seven-and-i-hd|Seven & i Holdings]] | Convenience-store and ATM infrastructure model with Seven Bank, nanaco, Seven Card Service |
 | likely | [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] | Third CVS-finance case after 2024-02 KDDI + Mitsubishi 50/50 TOB: Lawson Bank + au PAY + Pontaポイント telco-anchored model |
+| likely | [[retail/japan-retail-financial-distribution-wedge-matrix\|Japan retail financial-distribution wedge matrix]] | Wave 6: matrix mapping the physical-retail wedge (SM / CVS / drugstore / EC / telco store) to bank / payment / point / card layers across AEON, Seven & i, Lawson, Rakuten, PayPay, and telco-anchored ecosystems |
 
 ## Retail Finance Pattern
 
@@ -58,6 +59,7 @@ The current active pair is [[retail/aeon-group|AEON Group]] and [[retail/seven-a
 | Priority | Candidate | Why |
 |---|---|---|
 | Done | [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] | Created to complete the CVS-finance comparison beside Seven & i and AEON after the 2024-02 KDDI + Mitsubishi joint TOB |
+| Done | [[retail/japan-retail-financial-distribution-wedge-matrix\|Japan retail financial-distribution wedge matrix]] | Wave 6 (2026-05): cross-case matrix of physical-retail wedge × bank / payment / point / card layers across AEON, Seven & i, Lawson, Rakuten, PayPay, and telco-anchored groups |
 | P2 | `retail/japan-retail-media-finance-loop.md` | Retail media, points, payment, and card data are converging |
 | P2 | `retail/store-traffic-as-financial-distribution.md` | Control page for physical retail CAC advantage |
 

@@ -1042,6 +1042,20 @@ sources:
 - **Phase 85 (BNPL + fintech 残量 Batch F2)** — 2026-05-24 — [[net-protections-hd]] / [[atone]] / [[kuroneko-atobarai]] / [[gmo-postpay]] / [[infcurion]] / [[olta]] / [[zaim]] created; pure BNPL + embedded fintech + KDDI 子会社 PFM 補完 ✅
 - **Phase 86 (大手 audit firm Batch A1)** — 2026-05-24 — [[ey-shinnihon]] / [[deloitte-touche-tohmatsu]] / [[pwc-aarata]] / [[kpmg-azsa]] / [[taiyo-grant-thornton]] / [[bdo-sanyu]] created; Big 4 監査法人 + 中堅 (太陽 / BDO) FS practice anchor surface opened ✅
 - **Phase 87 (next precision batch)** — 待定 — entity-level KPI deepening, additional regional FG subsidiary completion, residual specialty insurer, JapanFG financial-reports source ledger refresh, or another C density round
+- **Phase 88 (P60 Wave 5 — regional FG financial subsidiaries + non-life registry)** — 2026-05 — [[nonlife-insurer-registry-japan-index]] / [[chibagin-securities]] / [[chibagin-leasing]] / [[yamaguchi-leasing]] / [[iyogin-leasing]] / [[shizugin-card]] created; FSA non-life registry control surface added beside [[insurance/japan-nonlife-big-three]]; regional FG financial-services subsidiaries opened beside [[chiba-bank]] / [[yamaguchi-fg]] / [[iyogin-hd]] / [[shizuoka-fg]] ✅
+
+## P60 Wave 5 additions (2026-05): regional FG financial subsidiaries + non-life registry
+
+Wave 5 closes two coverage gaps simultaneously — (i) a non-life insurer registry control surface that complements the [[insurance/japan-nonlife-big-three]] operating-model map with an FSA-row-level index, and (ii) the first material wave of regional-FG financial-services subsidiaries (securities, leasing, card) that operate inside Chiba / Yamaguchi / Iyo / Shizuoka FG umbrellas. Together they extend the regional-FG operating-company surface beyond the bank entity into the FG's cross-sell / fee-business arms.
+
+| Status | Slug | Title | Role |
+|---|---|---|---|
+| likely | [[nonlife-insurer-registry-japan-index]] | 日本非生命保険会社レジストリ index (FSA non-life registry route) | FSA non-life insurer registry control surface beside [[insurance/japan-nonlife-big-three]] |
+| likely | [[chibagin-securities]] | ちばぎん証券 | [[chiba-bank]] 系列証券 (regional-FG securities subsidiary) |
+| likely | [[chibagin-leasing]] | ちばぎんリース | [[chiba-bank]] 系列リース (regional-FG leasing subsidiary) |
+| likely | [[yamaguchi-leasing]] | やまぎんリース | [[yamaguchi-fg]] 系列リース (regional-FG leasing subsidiary) |
+| likely | [[iyogin-leasing]] | いよぎんリース | [[iyogin-hd]] 系列リース (regional-FG leasing subsidiary) |
+| likely | [[shizugin-card]] | しずぎんカード | [[shizuoka-fg]] 系列カード (regional-FG card / consumer-finance subsidiary) |
 
 ## 統計
 
@@ -1206,6 +1220,8 @@ sources:
 - [[banking/quick-deposit-four-methods]] — クイック入金
 - [[insurance/japan-life-insurance-big-four]] / [[insurance/japan-nonlife-big-three]] / [[insurance/earthquake-insurance-public-private-scheme]] / [[insurance/insurance-agency-and-brokerage-japan]] — insurance operating-model and distribution maps
 - [[finance/japan-mbo-and-squeeze-out-process]] / [[finance/japan-large-shareholding-disclosure]] — public-company control and disclosure routes
+- [[JapanFG/nonlife-insurer-registry-japan-index]] — FSA non-life insurer registry route (Wave 5)
+- [[JapanFG/chibagin-securities]] / [[JapanFG/chibagin-leasing]] / [[JapanFG/yamaguchi-leasing]] / [[JapanFG/iyogin-leasing]] / [[JapanFG/shizugin-card]] — regional FG securities / leasing / card subsidiary anchors (Wave 5)
 
 ## Open questions
 

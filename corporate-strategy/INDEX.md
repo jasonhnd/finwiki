@@ -31,6 +31,7 @@ The domain is currently single-entry by design: spinoff / split / merger tax reg
 | Status | Slug | Title | Role |
 |---|---|---|---|
 | certain | [[corporate-strategy/partial-spinoff-tax-deferral\|partial-spinoff-tax-deferral]] | パーシャルスピンオフ税制 — partial spin-off tax deferral | The 2023 partial-spinoff tax-deferral regime in Japan |
+| certain | [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime\|japan-kaisha-bunkatsu-tax-regime]] | 日本 会社分割 税制 — 吸収分割 / 新設分割 tax treatment | Wave 5: the broader 会社分割 regime under which パーシャルスピンオフ sits — qualified vs non-qualified split tax treatment |
 
 ## Start here
 
@@ -56,7 +57,7 @@ There is one entry. Read [[corporate-strategy/partial-spinoff-tax-deferral|parti
 | Priority | Page | Why |
 |---|---|---|
 | P1 | `corporate-strategy/japan-stock-distribution-vs-spinoff-comparison.md` | Decision page distinguishing 株式分配 / スピンオフ / パーシャルスピンオフ — the three are commonly confused. |
-| P1 | `corporate-strategy/japan-corporate-split-kaisha-bunkatsu-tax-treatment.md` | 会社分割 (吸収分割 / 新設分割) tax treatment, the broader regime under which spinoffs sit. |
+| Done | [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime\|japan-kaisha-bunkatsu-tax-regime]] | Wave 5 (2026-05): 会社分割 (吸収分割 / 新設分割) tax treatment, the broader regime under which spinoffs sit. |
 | P2 | `corporate-strategy/japan-stock-transfer-kabushiki-koufu-tax-treatment.md` | 株式交付 regime tax treatment, useful for cross-border share-swap acquisitions of Japanese targets. |
 | P2 | `corporate-strategy/japan-tob-mandatory-bid-rule-threshold.md` | TOB / mandatory-bid threshold rules that interact with restructuring tax regimes. |
 

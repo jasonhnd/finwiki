@@ -162,6 +162,49 @@ sources:
 - [[fintech/maina-wallet-kyc-permissionless-ux-bridge|Maina wallet KYC x permissionless UX]]
 - [[fintech/tokenized-deposit-cumulative-volume-scale|tokenized deposit cumulative volume scale]]
 
+## Wave 6-7 additions (2026-05)
+
+### US 2025 regulatory reset
+
+- [[fintech/regulatory-reset-2025-usa-crypto-policy|2025 USA crypto policy reset]] — post-election regulatory pivot and stablecoin posture realignment.
+- [[fintech/genius-act-501-actual-implementation|GENIUS §501 actual implementation]] — operational rulemaking and denylist enforcement after statute enactment.
+- [[fintech/treasury-stablecoin-policy-2025|Treasury 2025 stablecoin policy]] — Treasury / OFAC stance on permitted issuers and reserve composition.
+- [[fintech/occ-bank-charter-crypto-2025|OCC bank charter crypto 2025]] — federal trust / national bank charter pathway for stablecoin issuers in 2025.
+
+### Stablecoin consolidation 2025-2026
+
+- [[fintech/stablecoin-issuer-2025-2026-market-consolidation|Stablecoin issuer 2025-2026 market consolidation]] — sector M&A, exits, and concentration trends.
+- [[fintech/ondo-finance-rusdy-adoption|Ondo Finance rUSDY adoption]] — tokenized US Treasury yield-bearing rail growth.
+- [[fintech/paxos-paxg-post-binance-pivot|Paxos PAXG post-Binance pivot]] — Paxos product mix after BUSD wind-down.
+- [[fintech/franklin-templeton-stablecoin-migration|Franklin Templeton stablecoin migration]] — BENJI / tokenized MMF shift across chains.
+
+### CBDC pilot update
+
+- [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026 (CN/JP/EU/IN)]] — comparative pilot status across four poles.
+- [[fintech/ecny-supply-chain-expansion|e-CNY supply chain expansion]] — corporate B2B and supply-chain rollout.
+- [[fintech/erupee-india-pilot-status|e-Rupee India pilot status]] — RBI wholesale and retail pilot scale and merchant rails.
+- [[fintech/e-euro-retail-rollout|e-Euro retail rollout]] — ECB digital euro retail rollout phasing.
+
+### SE Asia + LatAm landscape
+
+- [[fintech/southeast-asia-stablecoin-regulatory-landscape|Southeast Asia stablecoin regulatory landscape]] — ASEAN cross-jurisdiction comparison.
+- [[fintech/indonesia-ovo-stablecoin-route|Indonesia OVO stablecoin route]] — OVO / GoPay / DANA payment-wallet stablecoin pathway.
+- [[fintech/latin-america-cbdc-stablecoin-dollarization|Latin America CBDC × stablecoin × dollarization]] — regional dollarization dynamics.
+- [[fintech/brazil-drex-timeline-2026|Brazil Drex 2026 timeline]] — BCB Drex (DREX) wholesale-CBDC launch progress.
+
+### State / cross-border infrastructure
+
+- [[fintech/state-charter-crypto-arbitrage-2025|State charter crypto arbitrage 2025]] — Wyoming / NY / FL state-level licensing arbitrage.
+- [[fintech/bis-agora-vs-mbridge-2026-update|BIS Agorá vs mBridge 2026 update]] — refreshed competitive status after participant moves.
+- [[fintech/argentina-usdt-formalization|Argentina USDT formalization]] — post-Milei stablecoin formalization track.
+
+### 2026 event tracker
+
+- [[fintech/m0-network-infrastructure-update-2026|M0 network infrastructure update 2026]] — M^0 issuer minter pipeline and treasury rail expansion.
+- [[fintech/brazil-mexico-cbdc-stablecoin-push-2026|Brazil + Mexico CBDC × stablecoin push 2026]] — LatAm twin-track public/private money rollout.
+- [[fintech/eu-mica-implementation-status-2026|EU MiCA implementation status 2026]] — Title III / IV authorisation pipeline status one year in.
+- [[fintech/japan-stablecoin-2026-event-tracker|Japan stablecoin 2026 event tracker]] — dated JPYC / Progmat / SBI / JPMD timeline.
+
 ## Backlog
 
 - Separate stablecoin issuer pages from regulatory framework pages in a second-level taxonomy.

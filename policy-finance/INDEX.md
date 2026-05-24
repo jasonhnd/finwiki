@@ -72,8 +72,31 @@ sources:
 - [[policy-finance/japan-policy-finance-system|Japan policy finance system]]
 - [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]]
 
+## Wave 5-6 additions (2026-05)
+
+Local credit guarantee corporations:
+
+- [[policy-finance/aichi-credit-guarantee-corp|Aichi Credit Guarantee Corporation]] — Aichi prefecture SME credit guarantee operator, member-bank routes, and reinsurance via JFC credit insurance.
+- [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa Credit Guarantee Corporation]] — Kanagawa prefecture SME credit guarantee operator and partner-bank network.
+- [[policy-finance/hokkaido-credit-guarantee-corp|Hokkaido Credit Guarantee Corporation]] — Hokkaido prefecture SME credit guarantee operator, regional-bank linkage, and JFC reinsurance.
+- [[policy-finance/fukuoka-credit-guarantee-corp|Fukuoka Credit Guarantee Corporation]] — Fukuoka prefecture SME credit guarantee operator and Kyushu regional-bank linkage.
+- [[policy-finance/hyogo-credit-guarantee-corp|Hyogo Credit Guarantee Corporation]] — Hyogo prefecture SME credit guarantee operator and member-bank routes.
+
+JFC / JBIC / NEXI / JOGMEC operating deepening:
+
+- [[policy-finance/jfc-sme-division-operating-model|JFC SME division operating model]] — JFC small business / SME unit operating model, lending product mix, and credit-guarantee linkage.
+- [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC agriculture / forestry / fisheries division]] — JFC agriculture, forestry, and fisheries unit lending operations and policy-finance mandate.
+- [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment underwriting process]] — JBIC overseas-investment loan / equity underwriting workflow, sovereign / corporate / project-finance product split.
+- [[policy-finance/nexi-export-credit-insurance-products|NEXI export credit insurance products]] — NEXI trade and investment insurance product matrix, OECD Arrangement alignment, and country-risk classification.
+- [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]] — JOGMEC equity participation, offtake right structure, resource-security mandate, and project-finance interface.
+
+### Comparison matrices (added 2026-05)
+
+- [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy finance institution mandate matrix]] — JFC / JBIC / NEXI / JOGMEC / DBJ / ODFC / JHF / JICA / JASSO mandate, statute, capital source, instrument type, target borrower, and economic-security scope overlay.
+- [[policy-finance/japan-local-government-bond-market-issuance-matrix|Japan local government bond market issuance matrix]] — Tokyo Metropolitan / Osaka / Hyogo / prefecture / municipality / JFM joint bond issuer overlay across issuance type, underwriter syndicate, MOF supervision, and benchmark spread.
+
 ## Backlog
 
 - Done: [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] mapping JOGMEC equity → JBIC sovereign lending → NEXI political/commercial insurance → megabank syndicate (MUFG/SMFG/Mizuho) → sponsor SPV with deal-flow timeline, public examples (Mozambique/Australia LNG, mining, power), and OECD-Arrangement counterpoints.
-- Add domestic policy-finance comparison: JFC / ODFC / JASSO / local public credit guarantee corporations.
+- Done: domestic policy-finance comparison matrix covering JFC / JBIC / NEXI / JOGMEC / DBJ / ODFC / JHF / JICA / JASSO.
 - Track economic-security changes to JBIC, NEXI, JOGMEC, and guarantee-insurance mandates.

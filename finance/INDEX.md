@@ -76,6 +76,21 @@ This domain keeps public finance reference pages for capital markets, M&A, acqui
 | Done | [[finance/japan-fair-disclosure-and-insider-trading-controls|Japan fair disclosure and insider trading controls]] | Created to route FSA fair-disclosure rule, FIEA insider-trading publication measures, TDnet, and linked disclosure controls. |
 | Done | [[finance/japan-shareholder-proposal-and-agm-voting-route|Japan shareholder proposal and AGM voting route]] | Created to route Companies Act shareholder proposals, AGM notices, written / electronic voting, and JPX governance-report fields. |
 
+## Wave 5-6 additions (2026-05)
+
+PE / LBO / convertible / cross-shareholding / FX hedge deepening:
+
+- [[finance/japan-private-equity-operating-model|Japan private equity operating model]] — domestic and foreign PE GP operating model, fund formation, target sourcing, exit channels, and Japan-specific deal mechanics.
+- [[finance/japan-leveraged-buyout-economics|Japan leveraged buyout economics]] — LBO debt / equity stack, IRR drivers, megabank acquisition-finance role, and exit IRR-to-MOIC translation.
+- [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]] — CB / euroyen CB / MSCB structure, conversion premium, dilution accounting, and issuer / underwriter mechanics.
+- [[finance/japan-cross-shareholding-unwinding-economics|Japan cross-shareholding unwinding economics]] — METI / FSA pressure, Corporate Governance Code Principle 1.4, capital-efficiency unwinding plans, and balance-sheet impact.
+- [[finance/japan-corporate-fx-and-rate-hedge-policy|Japan corporate FX and rate hedge policy]] — Japanese corporate / asset-manager / insurer FX hedging policy, JPY / USD hedge ratios, hedging cost, and rate-hedge instruments.
+
+### Comparison matrices (added 2026-05)
+
+- [[finance/japan-m-a-deal-process-comparison-matrix|Japan M&A deal process comparison matrix]] — TOB / MBO / squeeze-out / takeover-defense / friendly merger / cross-border deal-process overlay across statute, regulator, disclosure, target opinion, and price-formation rules.
+- [[finance/japan-private-equity-fund-structure-matrix|Japan private equity fund structure matrix]] — domestic GP / foreign GP / SoftBank-style / corporate-VC / growth / buyout / secondaries fund structure overlay with vehicle, LP base, mandate, and exit profile.
+
 ## Related
 
 - [[securities/INDEX]]

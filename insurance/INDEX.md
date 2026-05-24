@@ -89,6 +89,28 @@ When expanding this domain:
 | Done | [[insurance/earthquake-insurance-public-private-scheme|Earthquake insurance public-private scheme]] | Split public-private earthquake scheme from broader nat-cat reinsurance. |
 | Done | [[insurance/insurance-agency-and-brokerage-japan|Insurance agency and brokerage Japan]] | Distribution-law and channel economics for insurance agents / brokers. |
 
+## Wave 5-6 additions (2026-05)
+
+Foreign / specialty insurance carriers and market structure:
+
+- [[insurance/foreign-reinsurer-japan-landscape|Foreign reinsurer Japan landscape]] — Munich Re / Swiss Re / Hannover Re / SCOR Japan branches and treaty reinsurance positioning.
+- [[insurance/marine-insurance-and-pi-cover-market|Marine insurance and P&I cover market]] — hull, cargo, marine liability, and protection & indemnity club coverage for Japan shipping.
+- [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] — Lloyd's Japan branch, coverholder, broker, and syndicate access route.
+- [[insurance/captive-insurance-japan-market|Captive insurance Japan market]] — Japanese corporate captives, offshore domiciles, and self-insurance economics.
+
+Life insurance operating-model deepening:
+
+- [[insurance/sony-life-group-life-operating-model|Sony Life group life operating model]] — life-planner channel, product mix, and Sony FG positioning.
+- [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] — economic-value liability, duration matching, JGB allocation, and hedging program structure.
+- [[insurance/foreign-life-affiliate-japan-positioning|Foreign life affiliate Japan positioning]] — MetLife / Manulife / AIA / Aflac / Prudential / Allianz Japan-affiliated life positioning.
+- [[insurance/japan-iaig-ics-mapping|Japan IAIG ICS mapping]] — IAIS Internationally Active Insurance Group designations and ICS 2.0 → FSA ESR mapping.
+- [[insurance/japan-non-life-underwriting-cycle|Japan non-life underwriting cycle]] — hard/soft market phases, catastrophe loss cycles, rate-adequacy reading.
+
+### Comparison matrices (added 2026-05)
+
+- [[insurance/japan-life-big-four-overlay-comparison-matrix|Japan life big four overlay comparison matrix]] — Nippon Life / Dai-ichi / Meiji Yasuda / Sumitomo Life overlay across form, channel mix, overseas footprint, ALM posture, ESR, group capital actions.
+- [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix|Japan non-life big three reinsurance / cat matrix]] — Tokio Marine / MS&AD / SOMPO reinsurance program, cat exposure, retention, retrocession, alt-capital usage.
+
 ## Related
 
 - [[JapanFG/INDEX]]

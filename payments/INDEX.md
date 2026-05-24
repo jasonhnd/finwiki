@@ -126,6 +126,23 @@ Use this domain when the question is **how value moves at checkout or through a 
 | Done | [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] | Created to route JFTC / METI / Payments Japan card merchant-fee and issuer-fee / interchange disclosure fields |
 | Done | [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]] | Created to route BOJ, Zengin, Cotra, Bank Pay, J-Debit, and account-direct clearing / settlement infrastructure |
 
+## Wave 5-6 additions (2026-05)
+
+Brand / wallet / transit / fraud deepening:
+
+- [[payments/jcb-three-party-operating-model|JCB three-party operating model]] — JCB unified issuer / acquirer / brand three-party scheme vs Visa / Mastercard four-party split.
+- [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Japan transit prepaid Suica / PASMO / ICOCA economics]] — transit IC card economics, interoperability, float, retail acceptance, and Mobile Suica positioning.
+- [[payments/famipay-valucreate-strategy|FamiPay / ValuCreate strategy]] — FamilyMart's FamiPay wallet, ValuCreate financial strategy, and convenience-store payment integration.
+- [[payments/waon-nanaco-retail-prepaid-comparison|WAON / nanaco retail prepaid comparison]] — AEON WAON vs Seven & i nanaco retail prepaid economics, loyalty integration, and acceptance footprint.
+- [[payments/japan-payment-fraud-incident-timeline-2023-2025|Japan payment fraud incident timeline 2023-2025]] — wallet account-takeover, code-payment fraud, card BIN-attack, and bank-API incident timeline 2023-2025.
+
+### Comparison matrices (added 2026-05)
+
+- [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic money operator matrix]] — transit IC (Suica / PASMO / ICOCA), retail prepaid (WAON / nanaco), and other prepaid e-money operator overlay.
+- [[payments/japan-jcb-issuer-ecosystem-positioning-matrix|Japan JCB issuer ecosystem positioning matrix]] — JCB-brand issuer / co-brand / acquirer / brand-only positioning overlay across megabank, regional, retail, and platform issuers.
+- [[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]] — GMO-PG / GMO Epsilon / SBPS / DGFT / Netstars / Square / Stripe Japan / Adyen Japan competitive positioning.
+- [[payments/japan-bnpl-pay-later-operator-registry-matrix|Japan BNPL / pay-later operator registry matrix]] — Paidy / NP Atobarai / Atone / Merpay Smart / PayPay Atobarai / au PAY pay-later operator overlay with license type and credit-purchase boundary mapping.
+
 ## Related
 
 - [[INDEX|FinWiki index]]

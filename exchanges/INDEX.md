@@ -216,6 +216,16 @@ FSA registered crypto asset exchange operator list snapshot used here: 2026-04-0
 - [[exchanges/jp-crypto-tax-software-vendor-layer|Japan crypto-tax software vendor layer]]
 - [[exchanges/jp-web3-policy-public-body-layer|Japan Web3 / crypto policy public body layer]]
 
+## Wave 6-7 additions (2026-05)
+
+### Comparison matrices (added 2026-05)
+
+- [[exchanges/japan-stablecoin-issuer-regulatory-classification-matrix|Japan stablecoin issuer regulatory classification matrix]] — trust-type / bank-type / fund-type / EPI classification across Japan issuers.
+- [[exchanges/japan-vasp-business-model-competitive-matrix|Japan VASP business model competitive matrix]] — spot / derivatives / sales-desk / staking / custody business mix across JP CEXs.
+- [[exchanges/crypto-custody-provider-landscape-matrix|Crypto custody provider landscape matrix]] — global custody vendor comparison across MPC, HSM, insurance, regulatory coverage.
+- [[exchanges/japan-cex-parent-fg-adjacency-matrix|Japan CEX × parent FG adjacency matrix]] — VASP-to-FG parent mapping and shared infrastructure cross-table.
+- [[exchanges/global-perp-dex-competitive-deep-dive-matrix|Global perp DEX competitive deep-dive matrix]] — Hyperliquid / dYdX / GMX / Vertex / Drift extended axes (oracle, funding, fees, regional access).
+
 ## Backlog
 
 - Done: [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison matrix]] covering JP / KR / HK / SG / EU / US / UAE / UK across 13 axes (statute, license tiers, activity coverage, capital, cold-storage segregation, fit-and-proper, AML / Travel Rule, stablecoin issuance, cross-border passporting, marketing, enforcement, disclosure, carve-outs).
