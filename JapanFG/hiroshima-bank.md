@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-広島銀行は、広島県の retail deposits, SME finance, Mazda / automotive-supply-chain relationships, Setouchi-area corporate banking, and regional consulting を担う regional bank。[[hirogin-hd]] page は holding-company strategy を扱い、本ページは bank-license operating boundary を扱う。
+広島銀行は、広島県の retail deposits, SME finance, Mazda / automotive-supply-chain relationships, Setouchi-area corporate banking, and regional consulting を担う regional bank。[[hirogin-hd]] page は holding-company strategy を扱い、本ページは bank-license operating boundary を扱う。Chugoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

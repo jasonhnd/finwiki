@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**525 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
+日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**559 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
 
 ## 命名与位置 convention
 
@@ -853,6 +853,65 @@ sources:
 | ✅ likely | [[yokohama-bank-leasing]] | 横浜銀リース | [[concordia-fg]] リース子会社 |
 | ✅ likely | [[hamagin-research]] | はまぎん総合研究所 | [[concordia-fg]] think-tank |
 
+## P55 商社 parent holding-company anchors Batch SC1 (7 社) ✅ 完了
+
+| Status | Slug | Name | Group |
+|---|---|---|---|
+| ✅ likely | [[mitsubishi-corp]] | 三菱商事 (Mitsubishi Corporation, 8058) | 5 大商社 (筆頭) · MUFG cross-shareholding |
+| ✅ likely | [[mitsui-co]] | 三井物産 (Mitsui & Co, 8031) | 5 大商社 · SMBC main · SMFL JV |
+| ✅ likely | [[itochu-corp]] | 伊藤忠商事 (ITOCHU, 8001) | 5 大商社 · FamilyMart 100% · 東京センチュリー ~25% |
+| ✅ likely | [[marubeni-corp]] | 丸紅 (Marubeni, 8002) | 5 大商社 · みずほ FG メイン · みずほリース ~20% |
+| ✅ likely | [[sumitomo-corp]] | 住友商事 (Sumitomo Corp, 8053) | 5 大商社 · SMFL 50/50 · SMAS JV |
+| ✅ likely | [[toyota-tsusho-corp]] | 豊田通商 (Toyota Tsusho, 8015) | Toyota group trading + Africa strategy |
+| ✅ likely | [[sojitz-corp]] | 双日 (Sojitz, 2768) | 中堅商社 (旧日商岩井+ニチメン) |
+
+## P56 JA / JF / 全労済 cooperative federation anchors Batch CO1 (7 entries) ✅ 完了
+
+| Status | Slug | Name | Role |
+|---|---|---|---|
+| ✅ likely | [[ja-zenchu]] | JA 全中 (全国農業協同組合中央会) | JA 系統中央会 |
+| ✅ likely | [[ja-zen-noh]] | JA 全農 (全国農業協同組合連合会) | JA 経済事業中央 federation |
+| ✅ likely | [[ja-kyosairen]] | JA 共済連 (全国共済農業協同組合連合会) | JA 保険・共済 中央 federation |
+| ✅ likely | [[jf-zengyoren]] | JF 全漁連 (全国漁業協同組合連合会) | JF 系統中央会 |
+| ✅ likely | [[zenrosai]] | 全労済 / こくみん共済 coop | Workers' cooperative mutual aid |
+| ✅ likely | [[ja-shinnoren]] | 信連 (JA 信用農業協同組合連合会) | 都道府県級 JA 信用 federation system |
+| ✅ likely | [[jf-shingyoren]] | 信漁連 (JF 信用漁業協同組合連合会) | 都道府県級 JF 信用 federation system |
+
+## P57 海外保険 Japan branch + foreign insurer 残量 Batch I3 (7 社) ✅ 完了
+
+| Status | Slug | Name | Class |
+|---|---|---|---|
+| ✅ likely | [[lloyd-japan]] | Lloyd's Japan | 英ロイズマーケットプレース日本拠点 |
+| ✅ likely | [[fm-global-japan]] | FM Global Japan | 米相互工業損保 |
+| ✅ likely | [[qbe-japan]] | QBE Japan | 豪州 specialty 損保 |
+| ✅ likely | [[aia-life-japan]] | AIA Life Japan | 香港系汎アジア生保 |
+| ✅ likely | [[principal-japan]] | Principal Financial Group Japan | 米年金 / 資産運用 |
+| ✅ likely | [[starr-insurance-japan]] | Starr Insurance Japan | Greenberg 系 specialty 損保 |
+| ✅ likely | [[pacific-life-re-japan]] | Pacific Life Re Japan | 米生保再保険 specialist |
+
+## P58 BNPL + Japan fintech 残量 Batch F2 (7 社) ✅ 完了
+
+| Status | Slug | Name | Class |
+|---|---|---|---|
+| ✅ likely | [[net-protections-hd]] | Net Protections HD (7383) | NP 後払い / atone / AFTEE 親会社 |
+| ✅ likely | [[atone]] | atone | Net Protections 消費者 BNPL ブランド |
+| ✅ likely | [[kuroneko-atobarai]] | クロネコ後払い (Yamato Credit Finance) | EC 後払い · ヤマト系物流連動 |
+| ✅ likely | [[gmo-postpay]] | GMO 後払い (GMO ペイメントサービス) | GMO PG sibling · PSP-side BNPL |
+| ✅ likely | [[infcurion]] | インフキュリオン | white-label fintech · embedded finance |
+| ✅ likely | [[olta]] | OLTA | クラウドファクタリング · SME BtoB BNPL-adjacent |
+| ✅ likely | [[zaim]] | Zaim (KDDI 子会社 2022-04) | PFM 家計簿 · KDDI 100% |
+
+## P59 大手 audit firm financial-services practice Batch A1 (6 社) ✅ 完了
+
+| Status | Slug | Name | Class |
+|---|---|---|---|
+| ✅ likely | [[ey-shinnihon]] | EY 新日本有限責任監査法人 | Big 4 (Ernst & Young Japan) |
+| ✅ likely | [[deloitte-touche-tohmatsu]] | 有限責任監査法人 トーマツ (Deloitte) | Big 4 |
+| ✅ likely | [[pwc-aarata]] | PwC あらた有限責任監査法人 (PwC Japan) | Big 4 |
+| ✅ likely | [[kpmg-azsa]] | 有限責任 あずさ監査法人 (KPMG) | Big 4 |
+| ✅ likely | [[taiyo-grant-thornton]] | 太陽有限責任監査法人 (Grant Thornton) | 中堅 |
+| ✅ likely | [[bdo-sanyu]] | BDO 三優監査法人 | 中堅 |
+
 ## P3 graph-repair pages (21) ✅ resolved
 
 | Status | Slug | Name / target |
@@ -977,11 +1036,16 @@ sources:
 - **Phase 79 (業界団体 / SRO Batch SR1)** — 2026-05-24 — [[zenginkyo]] / [[zenchugin-kyo]] / [[dai2-chigin-kyo]] / [[zenshin-kyo]] / [[shintaku-kyokai]] / [[seiho-kyokai]] / [[sonpo-kyokai]] / [[yokin-hoken-kiko]] / [[hokenryo-sanshutsu-kiko]] created; industry SRO + statutory corporation surface opened beside [[jsda]] ✅
 - **Phase 80 (中堅証券 + AM 残存 Batch C2)** — 2026-05-24 — [[marusan-securities]] / [[tachibana-securities]] / [[kyokuto-securities]] / [[imamura-securities]] / [[smt-am]] / [[tokio-marine-asset-management]] / [[nissay-asset-management]] / [[t-and-d-asset-management]] created; 中堅独立証券 + 信託 / 損保 / 生保系 AM completion ✅
 - **Phase 81 (Regional FG subsidiary + 旧称 Batch R2)** — 2026-05-24 — [[san-jusan-bank]] / [[chukyo-bank]] (historical) / [[mebuki-securities]] / [[mebuki-lease]] / [[ffg-securities]] / [[ibank-marketing]] / [[yokohama-bank-leasing]] / [[hamagin-research]] created; regional FG subsidiary operating-company + historical anchor surface filled ✅
-- **Phase 82 (next precision batch)** — 待定 — 7 商社 parent holding-company pages, additional regional FG subsidiary completion, entity-level KPI deepening, or non-life insurer registry index
+- **Phase 82 (商社 parent holding-company Batch SC1)** — 2026-05-24 — [[mitsubishi-corp]] / [[mitsui-co]] / [[itochu-corp]] / [[marubeni-corp]] / [[sumitomo-corp]] / [[toyota-tsusho-corp]] / [[sojitz-corp]] created; 5 大商社 + 双日 + 豊田通商 parent surface filled with financial-services adjacency tables (group-treasury / external-leasing layer) ✅
+- **Phase 83 (JA / JF / 全労済 cooperative federation Batch CO1)** — 2026-05-24 — [[ja-zenchu]] / [[ja-zen-noh]] / [[ja-kyosairen]] / [[jf-zengyoren]] / [[zenrosai]] / [[ja-shinnoren]] / [[jf-shingyoren]] created; JA 系統 4 federations + JF 全漁連 + 全労済 + 都道府県 信連 / 信漁連 system layer pages opened beside [[norinchukin]] ✅
+- **Phase 84 (海外保険 + 残量 foreign insurer Batch I3)** — 2026-05-24 — [[lloyd-japan]] / [[fm-global-japan]] / [[qbe-japan]] / [[aia-life-japan]] / [[principal-japan]] / [[starr-insurance-japan]] / [[pacific-life-re-japan]] created; specialty insurance marketplace + foreign life / non-life branch surface extended ✅
+- **Phase 85 (BNPL + fintech 残量 Batch F2)** — 2026-05-24 — [[net-protections-hd]] / [[atone]] / [[kuroneko-atobarai]] / [[gmo-postpay]] / [[infcurion]] / [[olta]] / [[zaim]] created; pure BNPL + embedded fintech + KDDI 子会社 PFM 補完 ✅
+- **Phase 86 (大手 audit firm Batch A1)** — 2026-05-24 — [[ey-shinnihon]] / [[deloitte-touche-tohmatsu]] / [[pwc-aarata]] / [[kpmg-azsa]] / [[taiyo-grant-thornton]] / [[bdo-sanyu]] created; Big 4 監査法人 + 中堅 (太陽 / BDO) FS practice anchor surface opened ✅
+- **Phase 87 (next precision batch)** — 待定 — entity-level KPI deepening, additional regional FG subsidiary completion, residual specialty insurer, JapanFG financial-reports source ledger refresh, or another C density round
 
 ## 統計
 
-- 合計エントリ数: **525** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
+- 合計エントリ数: **559** entity entries (INDEX / legal-license subdomain INDEX / report-source index / expansion backlog を除く)
 - P0-P12 完成済み: 125 entries
 - P13 地域銀行・残存銀行追加: 10 entries
 - P14 信託・短資・外資・消費者金融・政策金融追加: 10 entries
@@ -1024,6 +1088,11 @@ sources:
 - P52 業界団体 / SRO Batch SR1: 9 entries
 - P53 中堅証券 + AM 残存 Batch C2: 8 entries
 - P54 Regional FG subsidiary + 旧称 Batch R2: 8 entries
+- P55 商社 parent holding-company Batch SC1: 7 entries
+- P56 JA / JF / 全労済 cooperative federation Batch CO1: 7 entries
+- P57 海外保険 + 残量 foreign insurer Batch I3: 7 entries
+- P58 BNPL + fintech 残量 Batch F2: 7 entries
+- P59 大手 audit firm Batch A1: 6 entries
 - Registry QA / index-control snapshot: 1 compact coverage table in expansion backlog (no new entity count)
 - Cooperative-finance registry indexes: 3 banking-domain indexes (no JapanFG entity count change)
 - P3 graph-repair pages: 21 entries (20 promoted in P4, 1 deprecated erroneous alias, 0 planned stubs remain)

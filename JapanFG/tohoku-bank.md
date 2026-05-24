@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-東北銀行は、岩手県内の retail, SME, primary-industry finance, municipal finance, and local business succession support を担う regional bank。岩手県内では [[iwate-bank]] が県内第一地銀として強いが、東北銀行は県内中小企業金融と地域密着型金融の別チャネルになる。
+東北銀行は、岩手県内の retail, SME, primary-industry finance, municipal finance, and local business succession support を担う regional bank。岩手県内では [[iwate-bank]] が県内第一地銀として強いが、東北銀行は県内中小企業金融と地域密着型金融の別チャネルになる。Tohoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Boundary note
 

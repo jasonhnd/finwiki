@@ -31,6 +31,83 @@
 
 ## 2026-05-24
 
+### 25:30 JST (翌 01:30): Wave 4 並列 10 agents — 44 件新規 (商社 parent / JA 系統 / 外資保険 / BNPL / 監査法人 / policy-finance + 3 新 matrix) + 56 件 density pass / Wave 4 parallel-10 batch — 44 new entries + 56 density-pass cross-links / Wave 4 并行 10 agent 批次 — 44 条新增 + 56 条 density
+
+#### 日本語記録
+
+- 背景: Wave 3 (v2026.05.24-2) 公開後、user 指示 `继续` で wave 4 を開始。10 並列 agent で残存 institutional gap (商社 parent / JA 系統中央会 / 海外保険残量 / BNPL pure-play / 監査法人 FS practice / policy-finance 残量) + 3 新 comparison matrix (banking license tier / consumer credit operator / trust bank vs global custodian) + C density round 2 retry をカバー。
+- 影響範囲: 44 件新規 .md (JapanFG 34 + banking 2 + payments 1 + policy-finance 7) + 56 件既存 entry に inline body wikilink 追加 (W4-5 density pass) + JapanFG/INDEX に P55~P59 batch sections + Phase 82~86 rollout 履歴 + 統計 + 4 件 domain INDEX (banking, payments, policy-finance + JapanFG) に matrix / entry route 行追加 + root `INDEX.md` 数値同期 + `README.md` + `index.html` 三語 numeric snapshot 同期 + AI discovery 5 ファイル + `wiki-link-improvement-plan.md`。
+- 主要新規ファイル (44 件):
+  - **P55 商社 parent (7)**: [[JapanFG/mitsubishi-corp]], [[JapanFG/mitsui-co]], [[JapanFG/itochu-corp]], [[JapanFG/marubeni-corp]], [[JapanFG/sumitomo-corp]], [[JapanFG/toyota-tsusho-corp]], [[JapanFG/sojitz-corp]]
+  - **P56 JA / JF / 全労済 cooperative federation (7)**: [[JapanFG/ja-zenchu]], [[JapanFG/ja-zen-noh]], [[JapanFG/ja-kyosairen]], [[JapanFG/jf-zengyoren]], [[JapanFG/zenrosai]], [[JapanFG/ja-shinnoren]], [[JapanFG/jf-shingyoren]]
+  - **P57 海外保険 + 残量 foreign insurer (7)**: [[JapanFG/lloyd-japan]], [[JapanFG/fm-global-japan]], [[JapanFG/qbe-japan]], [[JapanFG/aia-life-japan]], [[JapanFG/principal-japan]], [[JapanFG/starr-insurance-japan]], [[JapanFG/pacific-life-re-japan]]
+  - **P58 BNPL + fintech 残量 (7)**: [[JapanFG/net-protections-hd]], [[JapanFG/atone]], [[JapanFG/kuroneko-atobarai]], [[JapanFG/gmo-postpay]], [[JapanFG/infcurion]], [[JapanFG/olta]], [[JapanFG/zaim]]
+  - **P59 大手 audit firm (6)**: [[JapanFG/ey-shinnihon]], [[JapanFG/deloitte-touche-tohmatsu]], [[JapanFG/pwc-aarata]], [[JapanFG/kpmg-azsa]], [[JapanFG/taiyo-grant-thornton]], [[JapanFG/bdo-sanyu]]
+  - **3 新 comparison matrix**: [[banking/japan-banking-license-tier-comparison-matrix]] (10 license tier), [[payments/japan-consumer-credit-operator-comparison-matrix]] (9 operator category), [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]] (10 JP trust banks vs 4 global custodians)
+  - **policy-finance 残量 (7)**: [[policy-finance/japan-finance-organization-municipalities]] (JFM), [[policy-finance/tokyo-credit-guarantee-corp]], [[policy-finance/osaka-credit-guarantee-corp]], [[policy-finance/local-government-bond-market]], [[policy-finance/japan-eximbank-history]], [[policy-finance/japan-local-bond-association]], [[policy-finance/tokyo-metropolitan-bond]]
+- C density pass: W4-5 が 56 件 JapanFG entry の prose に 2 件平均 cross-domain wikilink を追加 (regional bank → banking/regional-bank-consolidation-pattern、insurer → insurance/global-solvency-framework-comparison-matrix、card / wallet operator → payments/japan-payment-scheme-economics-matrix、AM / 証券 → securities/japan-asset-manager-landscape-matrix 等)。Body link 5 未満の薄い entry を全数 >=5 まで持ち上げ。
+- 実施内容:
+  - 10 並列 `general-purpose` agent を spawn (W4-1 〜 W4-10)。Google Drive G: mount 一時切断あったが全 agent 復旧 + 書き込み完了。
+  - JapanFG/INDEX に P55 (商社 parent) + P56 (JA/JF/全労済 cooperative) + P57 (海外保険 I3) + P58 (BNPL F2) + P59 (audit firm A1) batch sections を追加し、Phase 82~86 rollout 履歴と統計を更新、合計 entity entry 数を 525 → 559 に修正。
+  - banking/INDEX に新規 "Comparison matrices" section を追加し、2 件新 matrix を route。
+  - payments/INDEX の Route Map に consumer credit operator matrix 行を追加。
+  - policy-finance/INDEX の Start Here に 7 件新規 entry を追加。
+  - root `INDEX.md` の domain table を新カウント (JapanFG 538→572, banking 24→26, payments 19→20, policy-finance 14→21) と公開 surface count (981→1025) に同期。
+  - `README.md` + `index.html` の三語 numeric snapshot を 1025 entries / 1057 Markdown files / 約 467.8 万字 / 730,596 tokens に同期。
+- 数値スナップショット: Markdown files 1012 → **1057** (+45, うち 44 件 entry + 1 件 release notes), public Markdown pages 1011 → **1056** (+45), sitemap URLs 1012 → **1057** (+45), topical domains 20, link-audited entries 981 → **1025** (+44), unresolved link issues 0, non-space UTF-8 characters 4,349,903 → **4,678,432** (+328,529), word-like tokens 679,983 → **730,596** (+50,613)。
+- 検証結果: `python tools/generate_ai_discovery.py` pass。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` pass (entries_checked=1025, entries_with_issues=0)。10 並列 agent 全数 self-reported pass + 44 件新規ファイル 100% 落盤確認 + W4-5 が 56 件 entry の body link 数を密度向上 + density pass 後も全 entry が ≥3 body wikilinks before `## Related` / `## Sources` を保持。
+- 後續事項: release notes は `releases/v2026.05.24-3.md` として別途作成、GitHub Release `v2026.05.24-3` として公開予定。残 backlog: 都道府県 信連 specific entries、追加 商社 finance subsidiary、JapanFG financial-reports source ledger refresh、entity-level KPI deepening、追加 C density round。
+
+#### English Record
+
+- Background: After wave 3 (v2026.05.24-2) shipped, the user said `继续` to start wave 4. Launched 10 parallel agents to cover remaining institutional gaps (sōgō shōsha parent / JA national federations / foreign insurer residual / BNPL pure-play / audit firm FS practice / policy-finance residual) + 3 new comparison matrices (banking license tier / consumer credit operator / trust bank vs global custodian) + C density round 2 retry.
+- Scope: 44 new `.md` files (JapanFG 34 + banking 2 + payments 1 + policy-finance 7) + 56 existing entries received inline body wikilinks via W4-5 density pass + JapanFG/INDEX P55~P59 batch sections + Phase 82~86 rollout history + statistics + 4 domain INDEX updates routing the new matrices and entries + root `INDEX.md` count sync + `README.md` + `index.html` trilingual numeric snapshot sync + 5 AI discovery files + `wiki-link-improvement-plan.md`.
+- New files (44):
+  - P55 sōgō shōsha parent (7): Mitsubishi Corp, Mitsui & Co, ITOCHU, Marubeni, Sumitomo Corp, Toyota Tsusho, Sojitz.
+  - P56 JA / JF / 全労済 cooperative federations (7): JA Zenchu, JA Zen-Noh, JA Kyosairen, JF Zengyoren, Zenrosai, JA Shinnoren, JF Shingyoren.
+  - P57 foreign insurer residual (7): Lloyd's Japan, FM Global Japan, QBE Japan, AIA Life Japan, Principal Japan, Starr Insurance Japan, Pacific Life Re Japan.
+  - P58 BNPL + fintech residual (7): Net Protections HD, atone, Kuroneko Atobarai, GMO Postpay, Infcurion, OLTA, Zaim.
+  - P59 audit firms (6): EY ShinNihon, Deloitte Tohmatsu, PwC Aarata, KPMG AZSA, Taiyo Grant Thornton, BDO Sanyu.
+  - 3 new comparison matrices: banking license tier (10 tiers), payments consumer credit operator (9 categories), banking trust bank vs global custodian (10 vs 4).
+  - policy-finance residual (7): JFM (Japan Finance Organization for Municipalities), Tokyo / Osaka Credit Guarantee Corps, local-government bond market, Japan Eximbank history, Japan Local Government Bond Association, Tokyo Metropolitan bond benchmark.
+- W4-5 density pass: cross-domain body wikilinks added to 56 thin JapanFG entries (regional banks → banking/regional-bank-consolidation-pattern; life insurers → insurance/global-solvency-framework-comparison-matrix; card / wallet operators → payments/japan-payment-scheme-economics-matrix; AM / securities → securities/japan-asset-manager-landscape-matrix etc.). Pulled body-link counts below 5 up to ≥5 across the touched set.
+- Changes:
+  - Spawned 10 parallel `general-purpose` agents (W4-1 through W4-10). Google Drive G: mount briefly disconnected during agent W4-1/W4-2/W4-3 writes; all agents recovered and completed writes.
+  - Added P55 (sōgō shōsha) + P56 (cooperative federation) + P57 (foreign insurer I3) + P58 (BNPL F2) + P59 (audit firm A1) batch sections to `JapanFG/INDEX.md`, refreshed Phase 82~86 rollout history and statistics, and updated total entity count from 525 to 559.
+  - Added a new "Comparison matrices" section to `banking/INDEX.md` routing the two new matrices.
+  - Added the consumer credit operator matrix row to `payments/INDEX.md` Route Map.
+  - Added 7 new policy-finance entries to `policy-finance/INDEX.md` Start Here.
+  - Synchronized root `INDEX.md` domain table (JapanFG 538→572, banking 24→26, payments 19→20, policy-finance 14→21) and public-surface count (981→1025).
+  - Synchronized `README.md` and `index.html` trilingual numeric snapshots to 1025 entries / 1057 Markdown files / ~4.68M characters / 730,596 tokens.
+- Counts: 1012 → 1057 Markdown files (+45, of which 44 new entries + 1 release notes file), 1011 → 1056 public pages (+45), 1012 → 1057 sitemap URLs (+45), 20 topical domains, 981 → 1025 link-audited entries (+44), 0 unresolved link issues, 4,349,903 → 4,678,432 non-space UTF-8 characters (+328,529), 679,983 → 730,596 word-like tokens (+50,613).
+- Validation: `python tools/generate_ai_discovery.py` passed. `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` passed (entries_checked=1025, entries_with_issues=0). All 10 agents self-reported pass; all 44 new files confirmed on disk; W4-5 raised body-link counts on 56 thin entries; all entries retain ≥3 body wikilinks before `## Related` / `## Sources`.
+- Follow-up: release notes drafted as `releases/v2026.05.24-3.md`; GitHub Release `v2026.05.24-3` to be created. Remaining backlog: prefecture-level Shinnoren / Shingyoren specific entries, additional shōsha finance subsidiaries, JapanFG financial-reports source ledger refresh, entity-level KPI deepening, further C density rounds.
+
+#### 中文记录
+
+- 背景：Wave 3（v2026.05.24-2）发布后，用户说「继续」开始 wave 4。并行 10 个 agent 覆盖残存 institutional 空隙（商社 parent / JA 系統中央会 / 海外保险残量 / BNPL pure-play / 監査法人 FS practice / policy-finance 残量）+ 3 个新 comparison matrix（banking license tier / consumer credit operator / trust bank vs global custodian）+ C density round 2 重做。
+- 影响范围：44 个新 .md（JapanFG 34 + banking 2 + payments 1 + policy-finance 7）+ 56 个既有 entry inline 加 body wikilink（W4-5 density pass）+ JapanFG/INDEX 加 P55~P59 batch 段 + Phase 82~86 rollout 历史 + 统计 + 4 个 domain INDEX（banking / payments / policy-finance + JapanFG）加 matrix / entry route 行 + 根 `INDEX.md` 数字同步 + `README.md` + `index.html` 三语 numeric snapshot 同步 + 5 个 AI discovery files + `wiki-link-improvement-plan.md`。
+- 44 个新文件：
+  - **P55 商社 parent（7）**：三菱商事 / 三井物産 / 伊藤忠 / 丸紅 / 住友商事 / 豊田通商 / 双日
+  - **P56 JA / JF / 全労済 cooperative（7）**：JA 全中 / JA 全農 / JA 共済連 / JF 全漁連 / 全労済 / JA 信連 / JF 信漁連
+  - **P57 海外保险残量（7）**：Lloyd's Japan / FM Global / QBE / AIA Life / Principal / Starr Insurance / Pacific Life Re
+  - **P58 BNPL + fintech 残量（7）**：Net Protections HD / atone / クロネコ後払い / GMO 後払い / Infcurion / OLTA / Zaim
+  - **P59 大手 audit firm（6）**：EY 新日本 / トーマツ / PwC あらた / あずさ / 太陽 / BDO 三優
+  - **3 个新 matrix**：banking 银行牌照 10 层比较 / payments consumer credit operator 9 类比较 / banking 信託銀行 vs 全球 custodian 比较
+  - **policy-finance 残量（7）**：JFM / 東京信用保証協会 / 大阪信用保証協会 / 地方债市场 / 旧日本輸出入銀行 / 地方债协会 / 東京都债 benchmark
+- W4-5 density pass：56 个 JapanFG 薄页加 cross-domain wikilink（地银→regional bank consolidation pattern；寿险→global solvency matrix；卡/钱包→payment scheme economics matrix；AM/证券→asset manager landscape matrix 等），把 body link 5 以下全部拉到 >=5。
+- 执行内容：
+  - 用 Agent 工具并行启动 10 个 `general-purpose` agent（W4-1 ~ W4-10）。Google Drive G: mount 中途短暂断开，全部 agent 恢复 + 写入完成。
+  - `JapanFG/INDEX.md` 加 P55（商社 parent）+ P56（JA/JF/全労済）+ P57（海外保险 I3）+ P58（BNPL F2）+ P59（监査法人 A1）batch 段，更新 Phase 82~86 rollout 历史和统计，合计 entity entry 数从 525 改成 559。
+  - `banking/INDEX.md` 加新 "Comparison matrices" 段，路由 2 个新 matrix。
+  - `payments/INDEX.md` Route Map 加 consumer credit operator matrix 行。
+  - `policy-finance/INDEX.md` Start Here 加 7 个新 entry。
+  - 同步根 `INDEX.md` 的 domain table（JapanFG 538→572, banking 24→26, payments 19→20, policy-finance 14→21）和公开 surface count（981→1025）。
+  - 同步 `README.md` + `index.html` 的三语 numeric snapshot 到 1025 entries / 1057 Markdown files / 约 467.8 万字 / 730,596 tokens。
+- 数字快照：Markdown files 1012 → **1057**（+45，含 44 个 entry + 1 个 release notes），public pages 1011 → **1056**（+45），sitemap URLs 1012 → **1057**（+45），topical domains 20，link-audited entries 981 → **1025**（+44），unresolved link issues 0，non-space UTF-8 characters 4,349,903 → **4,678,432**（+328,529），word-like tokens 679,983 → **730,596**（+50,613）。
+- 验证结果：`python tools/generate_ai_discovery.py` 通过。`python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` 通过（entries_checked=1025, entries_with_issues=0）。10 个并行 agent 全部 self-report pass + 44 个新文件 100% 落盘确认 + W4-5 把 56 个薄页的 body link 数密度提高 + density pass 后所有 entry 仍 ≥3 body wikilink before `## Related` / `## Sources`。
+- 后续事项：release notes 写成 `releases/v2026.05.24-3.md`，将作为 GitHub Release `v2026.05.24-3` 发布。剩 backlog：都道府県 信连 / 信漁連 specific entries、追加商社 finance 子会社、JapanFG financial-reports source ledger 刷新、entity-level KPI 深挖、再做 C density round。
+
 ### 22:30 JST: Wave 3 並列 9 agents — 46 件新規 (海外 reinsurer + 商社 finance + 業界団体 + 中堅証券 / AM + 地銀 FG 子会社 + 4 新 matrix) / Wave 3 parallel-9 batch — 46 new entries (foreign reinsurer + sōgō shōsha finance + industry bodies + mid-tier securities + AM + regional FG subsidiaries + 4 new matrices) / Wave 3 并行 9 agent 批次 — 46 条新增
 
 #### 日本語記録

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-西京銀行は、山口県を中心に retail deposits, SME finance, personal loans, and local relationship banking を担う second regional bank。[[yamaguchi-fg]] page は multi-bank holding-company strategy を扱い、本ページは independent second-regional-bank license boundary を扱う。
+西京銀行は、山口県を中心に retail deposits, SME finance, personal loans, and local relationship banking を担う second regional bank。[[yamaguchi-fg]] page は multi-bank holding-company strategy を扱い、本ページは independent second-regional-bank license boundary を扱う。Chugoku second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

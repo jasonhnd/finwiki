@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-八十二長野銀行は、長野県の retail deposits, SME finance, manufacturing main-bank relationships, tourism finance, and regional consulting を担う regional bank。旧八十二銀行 page は historical / predecessor analysis として残し、current legal-name exact anchor は本ページに分離する。
+八十二長野銀行は、長野県の retail deposits, SME finance, manufacturing main-bank relationships, tourism finance, and regional consulting を担う regional bank。旧八十二銀行 page は historical / predecessor analysis として残し、current legal-name exact anchor は本ページに分離する。Cross-prefecture regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

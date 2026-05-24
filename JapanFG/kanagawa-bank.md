@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-神奈川銀行は、横浜市を中心に local deposits, SME lending, retail loans, and community finance を担う second regional bank。県内 market map では [[yokohama-bank]] と比較し、より小規模な地域密着型 bank として読む。
+神奈川銀行は、横浜市を中心に local deposits, SME lending, retail loans, and community finance を担う second regional bank。県内 market map では [[yokohama-bank]] と比較し、より小規模な地域密着型 bank として読む。Kanto second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 2. Operating model
 
-大光銀行は、新潟県長岡市を本店に retail deposits, SME finance, local consulting, leasing / card-adjacent group services, and regional development support を担う second regional bank。[[sbi-regional-bank-hd]] page may reference alliance context, but the bank license and operating footprint sit here.
+大光銀行は、新潟県長岡市を本店に retail deposits, SME finance, local consulting, leasing / card-adjacent group services, and regional development support を担う second regional bank。[[sbi-regional-bank-hd]] page may reference alliance context, but the bank license and operating footprint sit here. Niigata regional-bank peers は [[daishi-hokuetsu-bank]] と [[dai-shi-hokuetsu-fg]] を参照。
 
 ## 3. Why this page matters
 

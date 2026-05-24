@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-十六銀行は、岐阜県を中心に retail deposits, SME finance, corporate lending, wealth / securities referral, and Chukyo-area corporate support を担う regional bank。[[juroku-fg]] page は holding-company strategy を扱い、本ページは banking-license operating boundary を持つ。
+十六銀行は、岐阜県を中心に retail deposits, SME finance, corporate lending, wealth / securities referral, and Chukyo-area corporate support を担う regional bank。[[juroku-fg]] page は holding-company strategy を扱い、本ページは banking-license operating boundary を持つ。Chukyo-area regional-bank context は [[banking/INDEX|banking index]] と [[JapanFG/INDEX|JapanFG index]] を参照。
 
 ## 3. Why this page matters
 

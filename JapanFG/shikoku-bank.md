@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-四国銀行は、高知県を中心に retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking を担う regional bank。高知県内では [[kochi-bank]] と first / second-regional-bank peer boundary を持つ。
+四国銀行は、高知県を中心に retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking を担う regional bank。高知県内では [[kochi-bank]] と first / second-regional-bank peer boundary を持つ。Shikoku regional-bank consolidation context は [[banking/INDEX|banking index]] と [[JapanFG/INDEX|JapanFG index]] を参照。
 
 ## 3. Why this page matters
 

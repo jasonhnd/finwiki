@@ -43,7 +43,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - Separates the regional-bank legal entity from [[hokuhoku-fg]].
 - Key comparison point against [[hokkoku-bank]], [[toyama-bank]], and [[toyama-first-bank]].
-- Registry-backed B2.1 regional-bank operating-company page.
+- Registry-backed B2.1 regional-bank operating-company page; consolidation context lives at [[banking/regional-bank-consolidation-pattern]] under [[banking/INDEX|banking index]].
 
 ## Related
 

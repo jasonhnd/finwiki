@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 2. Operating model
 
-佐賀共栄銀行は、佐賀県内の retail deposits, SME finance, small-business lending, and local consumer banking を担う second regional bank。[[saga-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。
+佐賀共栄銀行は、佐賀県内の retail deposits, SME finance, small-business lending, and local consumer banking を担う second regional bank。[[saga-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。Kyushu second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

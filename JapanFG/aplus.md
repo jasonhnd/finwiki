@@ -37,8 +37,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 ## 2. Business role
 
 - Provides installment-credit and card capabilities inside the SBI Shinsei consumer-finance stack.
-- Complements bank lending, guarantee, and payment services with sales-finance relationships.
-- Useful for reading how a bank group keeps legacy consumer-credit assets active after SBI integration.
+- Complements bank lending, guarantee, and payment services with sales-finance relationships; scheme economics live at [[payments/japan-payment-scheme-economics-matrix]].
+- Useful for reading how a bank group keeps legacy consumer-credit assets active after SBI integration — see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor split.
 
 ## 3. Why this standalone page matters
 

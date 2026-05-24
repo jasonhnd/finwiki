@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-24T20:27:35+09:00",
+  "generated_at": "2026-05-24T21:10:59+09:00",
   "counts": {
-    "markdown_files": 1013,
-    "public_markdown_pages": 1012,
-    "site_urls_in_sitemap": 1013,
+    "markdown_files": 1057,
+    "public_markdown_pages": 1056,
+    "site_urls_in_sitemap": 1057,
     "topical_domains": 20,
     "link_audited_entries": 981,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 4371727,
-    "word_like_tokens": 683937
+    "nonspace_utf8_chars": 4678432,
+    "word_like_tokens": 730596
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -1858,6 +1858,61 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/aia-life-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/aia-life-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aia-life-japan.md",
+      "title": "AIA Life Japan / AIA生命保険",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against MetLife Japan and Manulife Life Insurance Japan for foreign-life-insurer peer context, and insurance index for the broader Japan life insurance market system / regulatory boundary.",
+      "headings": [
+        "AIA Life Japan / AIA生命保険",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aflac-japan",
+        "JapanFG/axa-japan",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/manulife-japan",
+        "JapanFG/metlife-japan",
+        "JapanFG/nn-life-japan",
+        "JapanFG/principal-japan",
+        "JapanFG/prudential-japan",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-life-insurance-big-four",
+        "insurance/life-insurance-channel-mix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aflac-japan",
+        "https://finwiki.zksc.io/JapanFG/axa-japan",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/manulife-japan",
+        "https://finwiki.zksc.io/JapanFG/metlife-japan",
+        "https://finwiki.zksc.io/JapanFG/nn-life-japan",
+        "https://finwiki.zksc.io/JapanFG/principal-japan",
+        "https://finwiki.zksc.io/JapanFG/prudential-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+        "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5117,
+      "word_like_tokens": 847,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/aichi-bank.md",
       "url": "https://finwiki.zksc.io/JapanFG/aichi-bank",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aichi-bank.md",
@@ -1896,9 +1951,9 @@
         "https://finwiki.zksc.io/ogaki-kyoritsu-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1639,
-      "word_like_tokens": 261,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1730,
+      "word_like_tokens": 273,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/aichi-fg.md",
@@ -2685,6 +2740,8 @@
         "banking/INDEX",
         "payments/card-acquiring-japan-stack",
         "payments/cashless-jp-landscape",
+        "payments/japan-card-issuer-acquirer-processor-split",
+        "payments/japan-payment-scheme-economics-matrix",
         "securities/INDEX"
       ],
       "resolved_wikilinks": [
@@ -2694,12 +2751,14 @@
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+        "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1840,
-      "word_like_tokens": 284,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2007,
+      "word_like_tokens": 308,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/asahi-life.md",
@@ -2860,6 +2919,7 @@
         "JapanFG/INDEX",
         "JapanFG/yokohama-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "joyo-bank",
         "mebuki-fg",
         "tochigi-bank"
@@ -2868,14 +2928,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/yokohama-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/joyo-bank",
         "https://finwiki.zksc.io/mebuki-fg",
         "https://finwiki.zksc.io/tochigi-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1588,
-      "word_like_tokens": 258,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1678,
+      "word_like_tokens": 270,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/asset-management-one.md",
@@ -2919,6 +2980,57 @@
       "nonspace_chars": 1620,
       "word_like_tokens": 258,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/atone.md",
+      "url": "https://finwiki.zksc.io/JapanFG/atone",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/atone.md",
+      "title": "atone (アトネ)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a consumer BNPL wallet brand. Read it together with the Japan BNPL landscape system note, the Net Protections HD corporate parent for ownership context, and the Paidy peer for direct comparator. The BNPL and credit-purchase boundary page sets the regulatory",
+      "headings": [
+        "atone (アトネ)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/credit-saison",
+        "JapanFG/famima-digital-one",
+        "JapanFG/jaccs",
+        "JapanFG/merpay",
+        "JapanFG/net-protections-hd",
+        "JapanFG/paidy",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/credit-saison",
+        "https://finwiki.zksc.io/JapanFG/famima-digital-one",
+        "https://finwiki.zksc.io/JapanFG/jaccs",
+        "https://finwiki.zksc.io/JapanFG/merpay",
+        "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+        "https://finwiki.zksc.io/JapanFG/paidy",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3452,
+      "word_like_tokens": 482,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/au-fh.md",
@@ -3655,6 +3767,57 @@
       "nonspace_chars": 2293,
       "word_like_tokens": 366,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/bdo-sanyu.md",
+      "url": "https://finwiki.zksc.io/JapanFG/bdo-sanyu",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/bdo-sanyu.md",
+      "title": "BDO 三優監査法人 (BDO Sanyu)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it alongside 太陽グラントソントン for peer 中堅 audit context, and EY 新日本・トーマツ for Big 4 比較; 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+      "headings": [
+        "BDO 三優監査法人 (BDO Sanyu)",
+        "TL;DR",
+        "Wiki route",
+        "1. 法人概要",
+        "規模（公開ベース概算）^[inferred]",
+        "2. 沿革",
+        "3. 金融サービス監査・アドバイザリー実務",
+        "IPO 準備支援 ^[extracted]",
+        "VASP / 暗号資産 ^[extracted]",
+        "外資系日本子会社 ^[inferred]"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/deloitte-touche-tohmatsu",
+        "JapanFG/ey-shinnihon",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/kpmg-azsa",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/pwc-aarata",
+        "JapanFG/sbi-hd",
+        "JapanFG/taiyo-grant-thornton",
+        "exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+        "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+        "https://finwiki.zksc.io/JapanFG/sbi-hd",
+        "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+        "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4458,
+      "word_like_tokens": 656,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/bitflyer.md",
@@ -4686,9 +4849,9 @@
         "https://finwiki.zksc.io/sbi-regional-bank-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1715,
-      "word_like_tokens": 270,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1837,
+      "word_like_tokens": 287,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/china-construction-bank-japan.md",
@@ -4866,9 +5029,9 @@
         "https://finwiki.zksc.io/tottori-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1729,
-      "word_like_tokens": 271,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1821,
+      "word_like_tokens": 283,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/chukyo-bank.md",
@@ -5512,6 +5675,7 @@
         "dai-ichi-life",
         "dai-ichi-neo-life",
         "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
         "insurance/life-insurance-channel-mix"
       ],
       "resolved_wikilinks": [
@@ -5521,12 +5685,13 @@
         "https://finwiki.zksc.io/dai-ichi-life",
         "https://finwiki.zksc.io/dai-ichi-neo-life",
         "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1644,
-      "word_like_tokens": 265,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1770,
+      "word_like_tokens": 281,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/dai-ichi-life.md",
@@ -5599,6 +5764,7 @@
         "dai-ichi-life",
         "dai-ichi-life-insurance",
         "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
         "insurance/life-insurance-channel-mix"
       ],
       "resolved_wikilinks": [
@@ -5608,12 +5774,13 @@
         "https://finwiki.zksc.io/dai-ichi-life",
         "https://finwiki.zksc.io/dai-ichi-life-insurance",
         "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1541,
-      "word_like_tokens": 245,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1655,
+      "word_like_tokens": 260,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/dai-shi-hokuetsu-fg.md",
@@ -5902,6 +6069,7 @@
         "JapanFG/INDEX",
         "JapanFG/fukushima-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "fukushima-bank",
         "sbi-regional-bank-hd",
         "toho-bank"
@@ -5910,14 +6078,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/fukushima-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/fukushima-bank",
         "https://finwiki.zksc.io/sbi-regional-bank-hd",
         "https://finwiki.zksc.io/toho-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1597,
-      "word_like_tokens": 250,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1695,
+      "word_like_tokens": 263,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/daito-mirai-trust.md",
@@ -6224,6 +6393,59 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/deloitte-touche-tohmatsu.md",
+      "url": "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/deloitte-touche-tohmatsu.md",
+      "title": "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本 and PwC あらた for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+      "headings": [
+        "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
+        "TL;DR",
+        "Wiki route",
+        "1. 法人概要",
+        "規模（公開ベース概算）^[inferred]",
+        "2. 沿革",
+        "3. 金融サービス監査・アドバイザリー実務",
+        "銀行 / 保険 / 証券 ^[extracted]",
+        "暗号資産 / デジタルアセット ^[extracted]",
+        "Travel Rule / AML コンサル ^[extracted]"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ey-shinnihon",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/kpmg-azsa",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/nomura-hd",
+        "JapanFG/pwc-aarata",
+        "JapanFG/taiyo-grant-thornton",
+        "exchanges/japan-crypto-audit-firm-landscape",
+        "exchanges/jp-exchange-bitflyer",
+        "exchanges/jp-vasp-aml-travel-rule-implementation"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/nomura-hd",
+        "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+        "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+        "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+        "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+        "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5373,
+      "word_like_tokens": 744,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/deutsche-japan.md",
       "url": "https://finwiki.zksc.io/JapanFG/deutsche-japan",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/deutsche-japan.md",
@@ -6449,9 +6671,9 @@
         "https://finwiki.zksc.io/shikoku-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1635,
-      "word_like_tokens": 260,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1735,
+      "word_like_tokens": 273,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/epos-card.md",
@@ -6633,6 +6855,55 @@
       "nonspace_chars": 6453,
       "word_like_tokens": 997,
       "last_modified": "2026-05-22"
+    },
+    {
+      "source_path": "JapanFG/ey-shinnihon.md",
+      "url": "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ey-shinnihon.md",
+      "title": "EY 新日本有限責任監査法人 (EY ShinNihon)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it alongside 有限責任監査法人トーマツ (Deloitte) and あずさ監査法人 (KPMG) for peer Big 4 audit context, and 金融ライセンス INDEX for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は 金融庁 監督局 と 金融庁 総合政策局 の所管文脈を併読。",
+      "headings": [
+        "EY 新日本有限責任監査法人 (EY ShinNihon)",
+        "TL;DR",
+        "Wiki route",
+        "1. 法人概要",
+        "規模（公開ベース概算）^[inferred]",
+        "2. 沿革・系譜",
+        "3. 金融サービス本部（Financial Services Office, FSO）",
+        "主要セクター ^[extracted]",
+        "サービスライン",
+        "4. 主要 listed FG クライアント関係（公開ベース）"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/deloitte-touche-tohmatsu",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/kpmg-azsa",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/mufg",
+        "JapanFG/pwc-aarata",
+        "JapanFG/taiyo-grant-thornton",
+        "exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+        "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+        "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5340,
+      "word_like_tokens": 740,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/famima-digital-one.md",
@@ -7285,6 +7556,59 @@
       "last_modified": "2026-05-22"
     },
     {
+      "source_path": "JapanFG/fm-global-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/fm-global-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fm-global-japan.md",
+      "title": "FM Global Japan / FMグローバル・ジャパン",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against Lloyd's Japan and Chubb Insurance Japan for foreign-commercial-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
+      "headings": [
+        "FM Global Japan / FMグローバル・ジャパン",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aig-japan",
+        "JapanFG/allianz-fire-marine-japan",
+        "JapanFG/chubb-insurance-japan",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/lloyd-japan",
+        "JapanFG/qbe-japan",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-nonlife-big-three",
+        "insurance/mutual-vs-stock-life-insurer",
+        "insurance/natcat-reinsurance-japan"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aig-japan",
+        "https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan",
+        "https://finwiki.zksc.io/JapanFG/chubb-insurance-japan",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/lloyd-japan",
+        "https://finwiki.zksc.io/JapanFG/qbe-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+        "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5965,
+      "word_like_tokens": 924,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/foreign-bank-branches-japan-index.md",
       "url": "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/foreign-bank-branches-japan-index.md",
@@ -7853,9 +8177,9 @@
         "https://finwiki.zksc.io/tokai-tokyo-fh"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1622,
-      "word_like_tokens": 255,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1715,
+      "word_like_tokens": 267,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/fukuoka-bank.md",
@@ -8589,6 +8913,57 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/gmo-postpay.md",
+      "url": "https://finwiki.zksc.io/JapanFG/gmo-postpay",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/gmo-postpay.md",
+      "title": "GMO後払い (GMO Postpay)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a PSP-side BNPL product. Read it against the Japan BNPL landscape system note, with the GMO ペイメントゲートウェイ sibling explaining the merchant-acquiring stack and the Net Protections HD / Paidy peers showing pure-play BNPL. The BNPL and credit-purchase boundary fr",
+      "headings": [
+        "GMO後払い (GMO Postpay)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/atone",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/gmo-payment-gateway",
+        "JapanFG/gmo-postpay",
+        "JapanFG/kuroneko-atobarai",
+        "JapanFG/net-protections-hd",
+        "JapanFG/paidy",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/atone",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
+        "https://finwiki.zksc.io/JapanFG/gmo-postpay",
+        "https://finwiki.zksc.io/JapanFG/kuroneko-atobarai",
+        "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+        "https://finwiki.zksc.io/JapanFG/paidy",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3750,
+      "word_like_tokens": 553,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/goldman-sachs-japan.md",
       "url": "https://finwiki.zksc.io/JapanFG/goldman-sachs-japan",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/goldman-sachs-japan.md",
@@ -8827,9 +9202,9 @@
         "https://finwiki.zksc.io/yamanashi-chuo-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1740,
-      "word_like_tokens": 265,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1841,
+      "word_like_tokens": 278,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hamagin-research.md",
@@ -9093,6 +9468,7 @@
         "JapanFG/INDEX",
         "JapanFG/yokohama-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "concordia-fg",
         "tokyo-star-bank",
         "yokohama-bank"
@@ -9101,14 +9477,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/yokohama-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/concordia-fg",
         "https://finwiki.zksc.io/tokyo-star-bank",
         "https://finwiki.zksc.io/yokohama-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1727,
-      "word_like_tokens": 269,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1824,
+      "word_like_tokens": 282,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/higo-bank.md",
@@ -9149,9 +9526,9 @@
         "https://finwiki.zksc.io/miyazaki-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1703,
-      "word_like_tokens": 265,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1794,
+      "word_like_tokens": 277,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hirogin-hd.md",
@@ -9245,9 +9622,9 @@
         "https://finwiki.zksc.io/yamaguchi-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1666,
-      "word_like_tokens": 260,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1758,
+      "word_like_tokens": 272,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hitachi-capital.md",
@@ -9443,6 +9820,7 @@
         "JapanFG/INDEX",
         "JapanFG/hokuriku-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "hokuhoku-fg",
         "hokuriku-bank",
         "hokuyo-bank"
@@ -9451,14 +9829,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/hokuriku-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/hokuhoku-fg",
         "https://finwiki.zksc.io/hokuriku-bank",
         "https://finwiki.zksc.io/hokuyo-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1558,
-      "word_like_tokens": 244,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1654,
+      "word_like_tokens": 257,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hokkaido-lease.md",
@@ -9528,6 +9907,7 @@
         "JapanFG/INDEX",
         "JapanFG/fukuoka-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "hokkoku-fhd",
         "hokuriku-bank",
         "toyama-bank",
@@ -9537,15 +9917,16 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/fukuoka-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/hokkoku-fhd",
         "https://finwiki.zksc.io/hokuriku-bank",
         "https://finwiki.zksc.io/toyama-bank",
         "https://finwiki.zksc.io/toyama-first-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1615,
-      "word_like_tokens": 252,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1708,
+      "word_like_tokens": 264,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hokkoku-fhd.md",
@@ -9675,6 +10056,7 @@
         "JapanFG/INDEX",
         "JapanFG/hokkaido-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "hokkaido-bank",
         "hokkoku-bank",
         "hokuhoku-fg",
@@ -9685,6 +10067,7 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/hokkaido-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/hokkaido-bank",
         "https://finwiki.zksc.io/hokkoku-bank",
         "https://finwiki.zksc.io/hokuhoku-fg",
@@ -9692,9 +10075,9 @@
         "https://finwiki.zksc.io/toyama-first-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1596,
-      "word_like_tokens": 251,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1706,
+      "word_like_tokens": 265,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hokuto-bank.md",
@@ -9719,6 +10102,7 @@
         "JapanFG/shonai-bank",
         "akita-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "fidea-hd",
         "shonai-bank"
       ],
@@ -9727,13 +10111,14 @@
         "https://finwiki.zksc.io/JapanFG/shonai-bank",
         "https://finwiki.zksc.io/akita-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/fidea-hd",
         "https://finwiki.zksc.io/shonai-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1507,
-      "word_like_tokens": 242,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1598,
+      "word_like_tokens": 254,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hokuyo-bank.md",
@@ -9819,9 +10204,9 @@
         "https://finwiki.zksc.io/oita-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1595,
-      "word_like_tokens": 257,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1715,
+      "word_like_tokens": 274,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/hs-insurance.md",
@@ -10246,9 +10631,9 @@
         "https://finwiki.zksc.io/kyoto-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1666,
-      "word_like_tokens": 262,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1757,
+      "word_like_tokens": 274,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/ikeda-senshu-hd.md",
@@ -10422,6 +10807,65 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/infcurion.md",
+      "url": "https://finwiki.zksc.io/JapanFG/infcurion",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/infcurion.md",
+      "title": "インフキュリオン (Infcurion)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a white-label fintech vendor that sits one layer below the consumer-facing wallets. Read it together with the Japan BNPL landscape for the BNPL-adjacent payment context, the DG Financial Technology and FamiMa Digital One peers for white-label / merchant-sid",
+      "headings": [
+        "インフキュリオン (Infcurion)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/atone",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/dg-financial-technology",
+        "JapanFG/famima-digital-one",
+        "JapanFG/freee",
+        "JapanFG/kyash",
+        "JapanFG/merpay",
+        "JapanFG/money-forward",
+        "JapanFG/net-protections-hd",
+        "JapanFG/paidy",
+        "JapanFG/smartbank",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/atone",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/dg-financial-technology",
+        "https://finwiki.zksc.io/JapanFG/famima-digital-one",
+        "https://finwiki.zksc.io/JapanFG/freee",
+        "https://finwiki.zksc.io/JapanFG/kyash",
+        "https://finwiki.zksc.io/JapanFG/merpay",
+        "https://finwiki.zksc.io/JapanFG/money-forward",
+        "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+        "https://finwiki.zksc.io/JapanFG/paidy",
+        "https://finwiki.zksc.io/JapanFG/smartbank",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3811,
+      "word_like_tokens": 505,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/ing-bank-japan.md",
       "url": "https://finwiki.zksc.io/JapanFG/ing-bank-japan",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ing-bank-japan.md",
@@ -10546,6 +10990,61 @@
       "markdown_links": [],
       "nonspace_chars": 2864,
       "word_like_tokens": 453,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/itochu-corp.md",
+      "url": "https://finwiki.zksc.io/JapanFG/itochu-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/itochu-corp.md",
+      "title": "伊藤忠商事 (ITOCHU Corporation)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against 三菱商事 (5 大首位 / 資源寄り対照) and 丸紅 (繊維・穀物商社としての対照) for peer / contrast context. For the financial",
+      "headings": [
+        "伊藤忠商事 (ITOCHU Corporation)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "5 大商社内の identity"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/famima",
+        "JapanFG/itochu-finance",
+        "JapanFG/marubeni-corp",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsui-co",
+        "JapanFG/mizuho-fg",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sumitomo-corp",
+        "JapanFG/tokyo-century",
+        "JapanFG/toyota-tsusho-corp",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/famima",
+        "https://finwiki.zksc.io/JapanFG/itochu-finance",
+        "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsui-co",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+        "https://finwiki.zksc.io/JapanFG/tokyo-century",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6853,
+      "word_like_tokens": 1038,
       "last_modified": "2026-05-24"
     },
     {
@@ -10750,9 +11249,9 @@
         "https://finwiki.zksc.io/shikoku-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1658,
-      "word_like_tokens": 266,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1750,
+      "word_like_tokens": 278,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/iyogin-hd.md",
@@ -10808,6 +11307,73 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/ja-kyosairen.md",
+      "url": "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-kyosairen.md",
+      "title": "JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as the JA Group cooperative-insurance federation, parallel to 農林中央金庫 (信用) / JA 全農 (経済) / JA 全中 (代表). Read with insurance domain for cooperative-vs-stock insurance form, 共栄火災海上保険 (JA 共済連が筆頭株主) for the損保補完, and JA Bank system for the JA Group system boundary.",
+      "headings": [
+        "JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "共済事業 vs 保険業法 (区別) ^[extracted]",
+        "JA グループ 4 大全国連の役割分担",
+        "重要年表 ^[extracted]",
+        "2. 業務内容",
+        "主力共済商品 ^[extracted]",
+        "共済 vs 保険のチャネル"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/dai-ichi-life",
+        "JapanFG/ja-shinnoren",
+        "JapanFG/ja-zen-noh",
+        "JapanFG/ja-zenchu",
+        "JapanFG/jf-zengyoren",
+        "JapanFG/kyoritsu-fire-marine",
+        "JapanFG/meiji-yasuda",
+        "JapanFG/msad",
+        "JapanFG/nippon-life",
+        "JapanFG/norinchukin",
+        "JapanFG/sompo",
+        "JapanFG/sumitomo-life",
+        "JapanFG/tokio-marine",
+        "JapanFG/zenrosai",
+        "banking/ja-bank-system-japan",
+        "insurance/INDEX",
+        "insurance/japan-life-insurance-big-four",
+        "insurance/mutual-vs-stock-life-insurer"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+        "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+        "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+        "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+        "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+        "https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine",
+        "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
+        "https://finwiki.zksc.io/JapanFG/msad",
+        "https://finwiki.zksc.io/JapanFG/nippon-life",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/JapanFG/sompo",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+        "https://finwiki.zksc.io/JapanFG/tokio-marine",
+        "https://finwiki.zksc.io/JapanFG/zenrosai",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6192,
+      "word_like_tokens": 912,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/ja-mitsui-leasing.md",
       "url": "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-mitsui-leasing.md",
@@ -10851,6 +11417,165 @@
       "markdown_links": [],
       "nonspace_chars": 3028,
       "word_like_tokens": 443,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/ja-shinnoren.md",
+      "url": "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-shinnoren.md",
+      "title": "JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as the prefectural credit-federation layer of the JA Bank system, sitting between local JA (497 cooperatives) and the national central institution 農林中央金庫. Read with JF 信漁連 for the fishery-side equivalent and cooperative banking domain for the wider context.",
+      "headings": [
+        "JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "JA Bank system の三段構造 ^[extracted]",
+        "信連数の推移 ^[extracted]",
+        "重要年表 ^[extracted]",
+        "2. 機能・業務",
+        "4 大機能 ^[extracted]",
+        "JA Bank system 内の資金フロー ^[inferred]"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ja-kyosairen",
+        "JapanFG/ja-zen-noh",
+        "JapanFG/ja-zenchu",
+        "JapanFG/jf-shingyoren",
+        "JapanFG/norinchukin",
+        "JapanFG/rokin-renraku",
+        "JapanFG/shinkin-central",
+        "JapanFG/yokin-hoken-kiko",
+        "JapanFG/zenshin-kumi",
+        "banking/cooperative-banking-japan",
+        "banking/ja-bank-system-japan",
+        "norinchukin"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+        "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+        "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+        "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/JapanFG/rokin-renraku",
+        "https://finwiki.zksc.io/JapanFG/shinkin-central",
+        "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
+        "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+        "https://finwiki.zksc.io/norinchukin"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5877,
+      "word_like_tokens": 889,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/ja-zen-noh.md",
+      "url": "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-zen-noh.md",
+      "title": "JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as the JA Group economic-business federation, parallel to 農林中央金庫 (信用) / JA 共済連 (共済) / JA 全中 (代表). Read with JA Bank system for the credit-side adjacency and cooperative banking domain for the system boundary.",
+      "headings": [
+        "JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "統合史 ^[extracted]",
+        "2. 事業 map",
+        "2 大事業ライン",
+        "加工・物流子会社・関連企業 ^[inferred]",
+        "金融補完関係",
+        "3. 戦略・競争"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ja-kyosairen",
+        "JapanFG/ja-mitsui-leasing",
+        "JapanFG/ja-shinnoren",
+        "JapanFG/ja-zenchu",
+        "JapanFG/jf-zengyoren",
+        "JapanFG/norinchukin",
+        "banking/cooperative-banking-japan",
+        "banking/ja-bank-system-japan"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+        "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+        "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+        "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+        "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5130,
+      "word_like_tokens": 751,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/ja-zenchu.md",
+      "url": "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-zenchu.md",
+      "title": "JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as the JA Group national-coordination layer behind 農林中央金庫 (Norinchukin) and the JA Bank system. Read it together with JA 全農 (全国農業協同組合連合会) for the commercial-federation counterpart, JA 共済連 for the cooperative insurance federation, and cooperative banking domain for",
+      "headings": [
+        "JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "JA グループ 4 大全国連の役割分担 ^[extracted]",
+        "重要年表 ^[extracted]",
+        "2. 主要機能",
+        "4 大機能 ^[extracted]",
+        "JA バンク中央本部との関係",
+        "全国連結合体としての JA グループ"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ja-kyosairen",
+        "JapanFG/ja-shinnoren",
+        "JapanFG/ja-zen-noh",
+        "JapanFG/jf-zengyoren",
+        "JapanFG/norinchukin",
+        "JapanFG/yokin-hoken-kiko",
+        "JapanFG/zenginkyo",
+        "banking/cooperative-banking-japan",
+        "banking/ja-bank-system-japan",
+        "ja-kyosairen",
+        "ja-shinnoren",
+        "ja-zen-noh",
+        "norinchukin"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+        "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+        "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+        "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
+        "https://finwiki.zksc.io/JapanFG/zenginkyo",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+        "https://finwiki.zksc.io/ja-kyosairen",
+        "https://finwiki.zksc.io/ja-shinnoren",
+        "https://finwiki.zksc.io/ja-zen-noh",
+        "https://finwiki.zksc.io/norinchukin"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5635,
+      "word_like_tokens": 815,
       "last_modified": "2026-05-24"
     },
     {
@@ -11356,6 +12081,110 @@
       "nonspace_chars": 5154,
       "word_like_tokens": 738,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/jf-shingyoren.md",
+      "url": "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jf-shingyoren.md",
+      "title": "JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative / economic-",
+      "headings": [
+        "JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "JF Marine Bank system の三段構造 ^[extracted]",
+        "JA 信連との対比 ^[extracted]",
+        "重要年表 ^[extracted]",
+        "2. 機能・業務",
+        "4 大機能 ^[extracted]",
+        "JF Marine Bank system 内の資金フロー ^[inferred]"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ja-shinnoren",
+        "JapanFG/ja-zenchu",
+        "JapanFG/jf-zengyoren",
+        "JapanFG/norinchukin",
+        "JapanFG/rokin-renraku",
+        "JapanFG/shinkin-central",
+        "JapanFG/zenshin-kumi",
+        "banking/cooperative-banking-japan",
+        "banking/ja-bank-system-japan",
+        "banking/jf-marine-bank-system-japan",
+        "norinchukin"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+        "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+        "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/JapanFG/rokin-renraku",
+        "https://finwiki.zksc.io/JapanFG/shinkin-central",
+        "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+        "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+        "https://finwiki.zksc.io/norinchukin"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5987,
+      "word_like_tokens": 901,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/jf-zengyoren.md",
+      "url": "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jf-zengyoren.md",
+      "title": "JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as the JF Group national representative federation, parallel to JA 全中 in the agricultural cooperative system. Read with 農林中央金庫 for the central financial institution, JF Marine Bank system for the credit system boundary, and cooperative banking domain for the broad",
+      "headings": [
+        "JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "JF グループ全国組織の役割分担 ^[extracted]",
+        "重要年表 ^[extracted]",
+        "2. 事業 map",
+        "主要事業 ^[extracted]",
+        "子会社・関連企業 ^[inferred]",
+        "JF Marine Bank system との関係 ^[extracted]"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ja-kyosairen",
+        "JapanFG/ja-zen-noh",
+        "JapanFG/ja-zenchu",
+        "JapanFG/jf-shingyoren",
+        "JapanFG/norinchukin",
+        "banking/cooperative-banking-japan",
+        "banking/ja-bank-system-japan",
+        "banking/jf-marine-bank-system-japan",
+        "jf-shingyoren",
+        "norinchukin"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+        "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+        "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+        "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+        "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+        "https://finwiki.zksc.io/jf-shingyoren",
+        "https://finwiki.zksc.io/norinchukin"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5970,
+      "word_like_tokens": 898,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/jfc.md",
@@ -11903,9 +12732,9 @@
         "https://finwiki.zksc.io/ogaki-kyoritsu-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1601,
-      "word_like_tokens": 256,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1698,
+      "word_like_tokens": 272,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/juroku-fg.md",
@@ -12040,9 +12869,9 @@
         "https://finwiki.zksc.io/tomony-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1655,
-      "word_like_tokens": 262,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1755,
+      "word_like_tokens": 275,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kagoshima-bank.md",
@@ -12083,9 +12912,9 @@
         "https://finwiki.zksc.io/oita-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1683,
-      "word_like_tokens": 264,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1774,
+      "word_like_tokens": 276,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kainuma-trust-real-estate.md",
@@ -12214,9 +13043,9 @@
         "https://finwiki.zksc.io/yokohama-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1606,
-      "word_like_tokens": 250,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1704,
+      "word_like_tokens": 263,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kanematsu-leasing.md",
@@ -12470,6 +13299,7 @@
         "JapanFG/INDEX",
         "JapanFG/yokohama-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "kiraboshi-fg",
         "tokyo-star-bank",
         "ui-bank"
@@ -12478,14 +13308,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/yokohama-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/kiraboshi-fg",
         "https://finwiki.zksc.io/tokyo-star-bank",
         "https://finwiki.zksc.io/ui-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1693,
-      "word_like_tokens": 265,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1789,
+      "word_like_tokens": 278,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kiraboshi-fg.md",
@@ -12562,6 +13393,7 @@
         "JapanFG/INDEX",
         "JapanFG/sendai-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "jimoto-hd",
         "sbi-regional-bank-hd",
         "sendai-bank",
@@ -12571,15 +13403,16 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/sendai-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/jimoto-hd",
         "https://finwiki.zksc.io/sbi-regional-bank-hd",
         "https://finwiki.zksc.io/sendai-bank",
         "https://finwiki.zksc.io/yamagata-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1726,
-      "word_like_tokens": 274,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1824,
+      "word_like_tokens": 287,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kiriu-real-estate-trust.md",
@@ -12800,9 +13633,9 @@
         "https://finwiki.zksc.io/shikoku-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1625,
-      "word_like_tokens": 257,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1756,
+      "word_like_tokens": 275,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/korea-development-bank-japan.md",
@@ -12895,6 +13728,59 @@
       "last_modified": "2026-05-22"
     },
     {
+      "source_path": "JapanFG/kpmg-azsa.md",
+      "url": "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kpmg-azsa.md",
+      "title": "有限責任 あずさ監査法人 (KPMG AZSA)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本 and トーマツ for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+      "headings": [
+        "有限責任 あずさ監査法人 (KPMG AZSA)",
+        "TL;DR",
+        "Wiki route",
+        "1. 法人概要",
+        "規模（公開ベース概算）^[inferred]",
+        "2. 沿革",
+        "3. 金融サービス監査・アドバイザリー実務",
+        "金融機関監査（最大強み）^[extracted]",
+        "暗号資産・デジタルアセット ^[extracted]",
+        "地方銀行 / 地方公共団体"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/deloitte-touche-tohmatsu",
+        "JapanFG/ey-shinnihon",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/mizuho-fg",
+        "JapanFG/pwc-aarata",
+        "JapanFG/smfg",
+        "JapanFG/taiyo-grant-thornton",
+        "exchanges/japan-crypto-audit-firm-landscape",
+        "exchanges/jp-crypto-bank-credit-facilities"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+        "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+        "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+        "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4733,
+      "word_like_tokens": 673,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/kumamoto-bank.md",
       "url": "https://finwiki.zksc.io/JapanFG/kumamoto-bank",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kumamoto-bank.md",
@@ -12935,9 +13821,58 @@
         "https://finwiki.zksc.io/kyushu-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1740,
-      "word_like_tokens": 279,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1831,
+      "word_like_tokens": 291,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/kuroneko-atobarai.md",
+      "url": "https://finwiki.zksc.io/JapanFG/kuroneko-atobarai",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kuroneko-atobarai.md",
+      "title": "クロネコ代金後払いサービス (Kuroneko Atobarai)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a logistics-anchored BNPL product. Read it against the Japan BNPL landscape system note, the Net Protections HD / Paidy BNPL peer set, and the Japan BNPL and credit-purchase boundary for the regulatory question. The METI credit-purchase registry is the regi",
+      "headings": [
+        "クロネコ代金後払いサービス (Kuroneko Atobarai)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/atone",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/jcb",
+        "JapanFG/net-protections-hd",
+        "JapanFG/nippon-post",
+        "JapanFG/paidy",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/atone",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/jcb",
+        "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+        "https://finwiki.zksc.io/JapanFG/nippon-post",
+        "https://finwiki.zksc.io/JapanFG/paidy",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3643,
+      "word_like_tokens": 491,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kyash.md",
@@ -13168,9 +14103,9 @@
         "https://finwiki.zksc.io/shiga-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1702,
-      "word_like_tokens": 274,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1793,
+      "word_like_tokens": 286,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/kyoto-chuo-shinkin.md",
@@ -14290,6 +15225,55 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/lloyd-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/lloyd-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/lloyd-japan.md",
+      "title": "Lloyd's Japan / ロイズ・ジャパン",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against FM Global Japan and AIG Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
+      "headings": [
+        "Lloyd's Japan / ロイズ・ジャパン",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aig-japan",
+        "JapanFG/allianz-fire-marine-japan",
+        "JapanFG/chubb-insurance-japan",
+        "JapanFG/fm-global-japan",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/qbe-japan",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-nonlife-big-three"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aig-japan",
+        "https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan",
+        "https://finwiki.zksc.io/JapanFG/chubb-insurance-japan",
+        "https://finwiki.zksc.io/JapanFG/fm-global-japan",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/qbe-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-nonlife-big-three"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5382,
+      "word_like_tokens": 883,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/local-bond-market.md",
       "url": "https://finwiki.zksc.io/JapanFG/local-bond-market",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/local-bond-market.md",
@@ -14472,6 +15456,65 @@
       "nonspace_chars": 5584,
       "word_like_tokens": 724,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/marubeni-corp.md",
+      "url": "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/marubeni-corp.md",
+      "title": "丸紅 (Marubeni Corporation)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) and みずほリース (旧 興銀リー",
+      "headings": [
+        "丸紅 (Marubeni Corporation)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "5 大商社内の identity"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/itochu-corp",
+        "JapanFG/marubeni-financial-services",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsubishi-hc-capital",
+        "JapanFG/mitsui-co",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mizuho-lease",
+        "JapanFG/orix-corp",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sumitomo-corp",
+        "JapanFG/tokyo-century",
+        "JapanFG/toyota-tsusho-corp",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/itochu-corp",
+        "https://finwiki.zksc.io/JapanFG/marubeni-financial-services",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+        "https://finwiki.zksc.io/JapanFG/mitsui-co",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+        "https://finwiki.zksc.io/JapanFG/orix-corp",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+        "https://finwiki.zksc.io/JapanFG/tokyo-century",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6971,
+      "word_like_tokens": 1080,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/marubeni-financial-services.md",
@@ -15052,6 +16095,7 @@
         "JapanFG/INDEX",
         "JapanFG/legal-financial-licenses/INDEX",
         "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
         "insurance/mutual-vs-stock-life-insurer",
         "meiji-yasuda",
         "nisshin-fire"
@@ -15060,14 +16104,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
         "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
         "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
         "https://finwiki.zksc.io/meiji-yasuda",
         "https://finwiki.zksc.io/nisshin-fire"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1880,
-      "word_like_tokens": 296,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1977,
+      "word_like_tokens": 308,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/meiji-yasuda-trust-life.md",
@@ -15233,7 +16278,9 @@
         "loyalty/japan-points-landscape",
         "payments/INDEX",
         "payments/cashless-jp-landscape",
-        "payments/funds-transfer-vs-prepaid-boundary"
+        "payments/funds-transfer-service-providers-japan-index",
+        "payments/funds-transfer-vs-prepaid-boundary",
+        "payments/japan-card-issuer-acquirer-processor-split"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -15241,12 +16288,14 @@
         "https://finwiki.zksc.io/loyalty/japan-points-landscape",
         "https://finwiki.zksc.io/payments/INDEX",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+        "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+        "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1836,
-      "word_like_tokens": 287,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2003,
+      "word_like_tokens": 311,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/metlife-japan.md",
@@ -15379,18 +16428,20 @@
         "JapanFG/asahi-life",
         "JapanFG/dai-ichi-frontier-life",
         "JapanFG/missing-financial-institutions-backlog",
-        "insurance/INDEX"
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/asahi-life",
         "https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life",
         "https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog",
-        "https://finwiki.zksc.io/insurance/INDEX"
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1639,
-      "word_like_tokens": 256,
+      "nonspace_chars": 1733,
+      "word_like_tokens": 268,
       "last_modified": "2026-05-24"
     },
     {
@@ -15471,9 +16522,9 @@
         "https://finwiki.zksc.io/miyazaki-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1668,
-      "word_like_tokens": 259,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1767,
+      "word_like_tokens": 272,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/minato-bank.md",
@@ -16057,6 +17108,69 @@
       "last_modified": "2026-05-24"
     },
     {
+      "source_path": "JapanFG/mitsubishi-corp.md",
+      "url": "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsubishi-corp.md",
+      "title": "三菱商事 (Mitsubishi Corporation)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against 三井物産 and 伊藤忠商事 for the closest 5 大商社 peer / contrast context. For the financial-services adjacen",
+      "headings": [
+        "三菱商事 (Mitsubishi Corporation)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "5 大商社ポジショニング"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/bank-of-tokyo-mitsubishi-ufj",
+        "JapanFG/itochu-corp",
+        "JapanFG/marubeni-corp",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsubishi-corp-asset-management",
+        "JapanFG/mitsubishi-corp-finance",
+        "JapanFG/mitsubishi-hc-capital",
+        "JapanFG/mitsubishi-ufj-trust",
+        "JapanFG/mitsui-co",
+        "JapanFG/mufg",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sumitomo-corp",
+        "JapanFG/tokio-marine-hd",
+        "JapanFG/toyota-tsusho-corp",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/bank-of-tokyo-mitsubishi-ufj",
+        "https://finwiki.zksc.io/JapanFG/itochu-corp",
+        "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-asset-management",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust",
+        "https://finwiki.zksc.io/JapanFG/mitsui-co",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+        "https://finwiki.zksc.io/JapanFG/tokio-marine-hd",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 7667,
+      "word_like_tokens": 1196,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/mitsubishi-hc-capital.md",
       "url": "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsubishi-hc-capital.md",
@@ -16208,6 +17322,67 @@
       "markdown_links": [],
       "nonspace_chars": 5423,
       "word_like_tokens": 722,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/mitsui-co.md",
+      "url": "https://finwiki.zksc.io/JapanFG/mitsui-co",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsui-co.md",
+      "title": "三井物産 (Mitsui & Co., Ltd.)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (純利益首位を争う最大ライバル) and 伊藤忠商事 (非資源寄り 5 大商社の対照) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルサービス (内向け CMS) and SMFL (住友三井オートサービス系の総合",
+      "headings": [
+        "三井物産 (Mitsui & Co., Ltd.)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "5 大商社内の identity"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/itochu-corp",
+        "JapanFG/ja-mitsui-leasing",
+        "JapanFG/marubeni-corp",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsui-bussan-financial-services",
+        "JapanFG/mitsui-sumitomo-insurance",
+        "JapanFG/smfg",
+        "JapanFG/smfl",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sumitomo-corp",
+        "JapanFG/sumitomo-mitsui-auto-service",
+        "JapanFG/sumitomo-mitsui-trust",
+        "JapanFG/toyota-tsusho-corp",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/itochu-corp",
+        "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+        "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services",
+        "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/JapanFG/smfl",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-auto-service",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 7118,
+      "word_like_tokens": 1091,
       "last_modified": "2026-05-24"
     },
     {
@@ -16415,9 +17590,9 @@
         "https://finwiki.zksc.io/miyazaki-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1663,
-      "word_like_tokens": 259,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1762,
+      "word_like_tokens": 272,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/miyoshi-smile-trust.md",
@@ -17451,6 +18626,7 @@
         "asahi-life",
         "hanasaku-life",
         "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
         "insurance/life-insurance-channel-mix",
         "medicare-life"
       ],
@@ -17460,13 +18636,14 @@
         "https://finwiki.zksc.io/asahi-life",
         "https://finwiki.zksc.io/hanasaku-life",
         "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
         "https://finwiki.zksc.io/medicare-life"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1746,
-      "word_like_tokens": 271,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1834,
+      "word_like_tokens": 283,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/nanto-bank.md",
@@ -17753,6 +18930,61 @@
       "markdown_links": [],
       "nonspace_chars": 3361,
       "word_like_tokens": 508,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/net-protections-hd.md",
+      "url": "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/net-protections-hd.md",
+      "title": "ネットプロテクションズHD (Net Protections HD)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchoring the",
+      "headings": [
+        "ネットプロテクションズHD (Net Protections HD)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aplus",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/credit-saison",
+        "JapanFG/installment-sales-act-2020-amendment",
+        "JapanFG/jaccs",
+        "JapanFG/merpay",
+        "JapanFG/orico",
+        "JapanFG/paidy",
+        "ndfg",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aplus",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/credit-saison",
+        "https://finwiki.zksc.io/JapanFG/installment-sales-act-2020-amendment",
+        "https://finwiki.zksc.io/JapanFG/jaccs",
+        "https://finwiki.zksc.io/JapanFG/merpay",
+        "https://finwiki.zksc.io/JapanFG/orico",
+        "https://finwiki.zksc.io/JapanFG/paidy",
+        "https://finwiki.zksc.io/ndfg",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4457,
+      "word_like_tokens": 650,
       "last_modified": "2026-05-24"
     },
     {
@@ -18069,9 +19301,9 @@
         "https://finwiki.zksc.io/nishi-nippon-fhd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1733,
-      "word_like_tokens": 270,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1824,
+      "word_like_tokens": 282,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/nishi-nippon-fhd.md",
@@ -19001,9 +20233,9 @@
         "https://finwiki.zksc.io/ryukyu-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1641,
-      "word_like_tokens": 262,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1740,
+      "word_like_tokens": 275,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/okinawa-fg.md",
@@ -19155,6 +20387,57 @@
       "nonspace_chars": 6399,
       "word_like_tokens": 826,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/olta.md",
+      "url": "https://finwiki.zksc.io/JapanFG/olta",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/olta.md",
+      "title": "OLTA (オルタ)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a B2B factoring fintech that sits next to BNPL in the wider working-capital stack. Read it together with the Japan BNPL landscape system note, the Net Protections HD BtoB BNPL peer (NP 掛け払い), and the Money Forward / Biz Forward sibling for the SaaS-led fact",
+      "headings": [
+        "OLTA (オルタ)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/credit-saison",
+        "JapanFG/freee",
+        "JapanFG/jaccs",
+        "JapanFG/money-forward",
+        "JapanFG/net-protections-hd",
+        "JapanFG/orico",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/credit-saison",
+        "https://finwiki.zksc.io/JapanFG/freee",
+        "https://finwiki.zksc.io/JapanFG/jaccs",
+        "https://finwiki.zksc.io/JapanFG/money-forward",
+        "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+        "https://finwiki.zksc.io/JapanFG/orico",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3565,
+      "word_like_tokens": 476,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/orico.md",
@@ -19408,6 +20691,59 @@
       "last_modified": "2026-05-24"
     },
     {
+      "source_path": "JapanFG/pacific-life-re-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/pacific-life-re-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pacific-life-re-japan.md",
+      "title": "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against Swiss Re Japan and Hannover Re Japan for life-reinsurer peer context, and insurance index for the broader Japan life insurance / reinsurance market system / regulatory boundary.",
+      "headings": [
+        "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/hannover-re-japan",
+        "JapanFG/japan-earthquake-reinsurance",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/manulife-japan",
+        "JapanFG/metlife-japan",
+        "JapanFG/swiss-re-japan",
+        "JapanFG/toa-reinsurance",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-life-insurance-big-four",
+        "insurance/mutual-vs-stock-life-insurer"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/hannover-re-japan",
+        "https://finwiki.zksc.io/JapanFG/japan-earthquake-reinsurance",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/manulife-japan",
+        "https://finwiki.zksc.io/JapanFG/metlife-japan",
+        "https://finwiki.zksc.io/JapanFG/swiss-re-japan",
+        "https://finwiki.zksc.io/JapanFG/toa-reinsurance",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5851,
+      "word_like_tokens": 943,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/paidy.md",
       "url": "https://finwiki.zksc.io/JapanFG/paidy",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/paidy.md",
@@ -19607,7 +20943,9 @@
         "payments/INDEX",
         "payments/card-acquiring-japan-stack",
         "payments/cashless-jp-landscape",
-        "payments/funds-transfer-vs-prepaid-boundary"
+        "payments/funds-transfer-vs-prepaid-boundary",
+        "payments/japan-card-issuer-acquirer-processor-split",
+        "payments/japan-payment-scheme-economics-matrix"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -19616,12 +20954,14 @@
         "https://finwiki.zksc.io/payments/INDEX",
         "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+        "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1926,
-      "word_like_tokens": 301,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2091,
+      "word_like_tokens": 325,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/paypay-fg.md",
@@ -19701,6 +21041,8 @@
         "banking/paypay-bank",
         "payments/cashless-jp-landscape",
         "securities/INDEX",
+        "securities/financial-instruments-business-operators-japan-index",
+        "securities/japan-asset-manager-landscape-matrix",
         "securities/nisa-2024-flow"
       ],
       "resolved_wikilinks": [
@@ -19710,12 +21052,14 @@
         "https://finwiki.zksc.io/banking/paypay-bank",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
         "https://finwiki.zksc.io/securities/INDEX",
+        "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+        "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1584,
-      "word_like_tokens": 236,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1749,
+      "word_like_tokens": 256,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/paypay.md",
@@ -19940,6 +21284,57 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/principal-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/principal-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/principal-japan.md",
+      "title": "Principal Japan / プリンシパル・ジャパン",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.",
+      "headings": [
+        "Principal Japan / プリンシパル・ジャパン",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aia-life-japan",
+        "JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/manulife-japan",
+        "JapanFG/metlife-japan",
+        "JapanFG/nn-life-japan",
+        "JapanFG/prudential-japan",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-life-insurance-big-four"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aia-life-japan",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/manulife-japan",
+        "https://finwiki.zksc.io/JapanFG/metlife-japan",
+        "https://finwiki.zksc.io/JapanFG/nn-life-japan",
+        "https://finwiki.zksc.io/JapanFG/prudential-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6188,
+      "word_like_tokens": 908,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/pring.md",
       "url": "https://finwiki.zksc.io/JapanFG/pring",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pring.md",
@@ -20126,6 +21521,106 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/pwc-aarata.md",
+      "url": "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pwc-aarata.md",
+      "title": "PwC Japan 有限責任監査法人 (旧 PwC あらた)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it alongside トーマツ (Deloitte) and EY 新日本 for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+      "headings": [
+        "PwC Japan 有限責任監査法人 (旧 PwC あらた)",
+        "TL;DR",
+        "Wiki route",
+        "1. 法人概要",
+        "規模（公開ベース概算）^[inferred]",
+        "2. 沿革",
+        "3. 金融サービス監査・アドバイザリー実務",
+        "FinTech / 暗号資産 ^[extracted]",
+        "銀行 / 保険 / 証券",
+        "サステナビリティ保証"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/deloitte-touche-tohmatsu",
+        "JapanFG/ey-shinnihon",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/kpmg-azsa",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/sompo",
+        "JapanFG/taiyo-grant-thornton",
+        "exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+        "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/sompo",
+        "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+        "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4926,
+      "word_like_tokens": 734,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/qbe-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/qbe-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/qbe-japan.md",
+      "title": "QBE Japan / QBEインシュアランス・ジャパン",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against Lloyd's Japan and FM Global Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
+      "headings": [
+        "QBE Japan / QBEインシュアランス・ジャパン",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aig-japan",
+        "JapanFG/allianz-fire-marine-japan",
+        "JapanFG/chubb-insurance-japan",
+        "JapanFG/fm-global-japan",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/lloyd-japan",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-nonlife-big-three",
+        "insurance/natcat-reinsurance-japan"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aig-japan",
+        "https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan",
+        "https://finwiki.zksc.io/JapanFG/chubb-insurance-japan",
+        "https://finwiki.zksc.io/JapanFG/fm-global-japan",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/lloyd-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+        "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5086,
+      "word_like_tokens": 811,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/rakuten-card.md",
       "url": "https://finwiki.zksc.io/JapanFG/rakuten-card",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rakuten-card.md",
@@ -20150,7 +21645,9 @@
         "payments/INDEX",
         "payments/card-acquiring-japan-stack",
         "payments/cashless-jp-landscape",
-        "payments/funds-transfer-vs-prepaid-boundary"
+        "payments/funds-transfer-vs-prepaid-boundary",
+        "payments/japan-card-issuer-acquirer-processor-split",
+        "payments/japan-payment-scheme-economics-matrix"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -20159,12 +21656,14 @@
         "https://finwiki.zksc.io/payments/INDEX",
         "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+        "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2038,
-      "word_like_tokens": 313,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2205,
+      "word_like_tokens": 337,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/rakuten-edy.md",
@@ -20191,7 +21690,9 @@
         "loyalty/japan-points-landscape",
         "payments/INDEX",
         "payments/cashless-jp-landscape",
-        "payments/funds-transfer-vs-prepaid-boundary"
+        "payments/funds-transfer-service-providers-japan-index",
+        "payments/funds-transfer-vs-prepaid-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -20200,12 +21701,14 @@
         "https://finwiki.zksc.io/loyalty/japan-points-landscape",
         "https://finwiki.zksc.io/payments/INDEX",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+        "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+        "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1995,
-      "word_like_tokens": 326,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2146,
+      "word_like_tokens": 347,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/rakuten-fg.md",
@@ -21077,9 +22580,9 @@
         "https://finwiki.zksc.io/saga-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1660,
-      "word_like_tokens": 265,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1759,
+      "word_like_tokens": 278,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/saikyo-bank.md",
@@ -21120,9 +22623,9 @@
         "https://finwiki.zksc.io/yamaguchi-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1678,
-      "word_like_tokens": 260,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1778,
+      "word_like_tokens": 273,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/saitama-resona-bank.md",
@@ -22270,6 +23773,7 @@
         "JapanFG/INDEX",
         "JapanFG/kirayaka-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "jimoto-hd",
         "kirayaka-bank"
       ],
@@ -22278,13 +23782,14 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/kirayaka-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/jimoto-hd",
         "https://finwiki.zksc.io/kirayaka-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1652,
-      "word_like_tokens": 264,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1750,
+      "word_like_tokens": 277,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/seven-bank.md",
@@ -22523,9 +24028,9 @@
         "https://finwiki.zksc.io/kochi-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1609,
-      "word_like_tokens": 254,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1715,
+      "word_like_tokens": 270,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/shimane-bank.md",
@@ -22825,9 +24330,9 @@
         "https://finwiki.zksc.io/suruga-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1648,
-      "word_like_tokens": 258,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1742,
+      "word_like_tokens": 271,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/shizuoka-chuo-bank.md",
@@ -23583,6 +25088,77 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/sojitz-corp.md",
+      "url": "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sojitz-corp.md",
+      "title": "双日 (Sojitz Corporation)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 双日フ",
+      "headings": [
+        "双日 (Sojitz Corporation)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "7 大商社内の identity"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/itochu-corp",
+        "JapanFG/ja-mitsui-leasing",
+        "JapanFG/kanematsu-leasing",
+        "JapanFG/marubeni-corp",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsubishi-hc-capital",
+        "JapanFG/mitsui-co",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mizuho-lease",
+        "JapanFG/mufg",
+        "JapanFG/orix-corp",
+        "JapanFG/smfg",
+        "JapanFG/smfl",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sojitz-finance",
+        "JapanFG/sumitomo-corp",
+        "JapanFG/tokyo-century",
+        "JapanFG/toyota-tsusho-corp",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/itochu-corp",
+        "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+        "https://finwiki.zksc.io/JapanFG/kanematsu-leasing",
+        "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+        "https://finwiki.zksc.io/JapanFG/mitsui-co",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/orix-corp",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/JapanFG/smfl",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sojitz-finance",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+        "https://finwiki.zksc.io/JapanFG/tokyo-century",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6475,
+      "word_like_tokens": 1021,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/sojitz-finance.md",
       "url": "https://finwiki.zksc.io/JapanFG/sojitz-finance",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sojitz-finance.md",
@@ -24245,6 +25821,57 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/starr-insurance-japan.md",
+      "url": "https://finwiki.zksc.io/JapanFG/starr-insurance-japan",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/starr-insurance-japan.md",
+      "title": "Starr Insurance Japan / スター・インシュアランス・ジャパン",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against AIG Japan and Chubb Insurance Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
+      "headings": [
+        "Starr Insurance Japan / スター・インシュアランス・ジャパン",
+        "Wiki route",
+        "TL;DR",
+        "1. License / group boundary",
+        "2. Operating model",
+        "3. Why this page matters",
+        "Counterpoints",
+        "Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aig-japan",
+        "JapanFG/allianz-fire-marine-japan",
+        "JapanFG/chubb-insurance-japan",
+        "JapanFG/fm-global-japan",
+        "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "JapanFG/lloyd-japan",
+        "JapanFG/qbe-japan",
+        "insurance/INDEX",
+        "insurance/global-solvency-framework-comparison-matrix",
+        "insurance/japan-nonlife-big-three"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aig-japan",
+        "https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan",
+        "https://finwiki.zksc.io/JapanFG/chubb-insurance-japan",
+        "https://finwiki.zksc.io/JapanFG/fm-global-japan",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/JapanFG/lloyd-japan",
+        "https://finwiki.zksc.io/JapanFG/qbe-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+        "https://finwiki.zksc.io/insurance/japan-nonlife-big-three"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5347,
+      "word_like_tokens": 840,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/starts-trust.md",
       "url": "https://finwiki.zksc.io/JapanFG/starts-trust",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/starts-trust.md",
@@ -24530,6 +26157,71 @@
       "markdown_links": [],
       "nonspace_chars": 5863,
       "word_like_tokens": 790,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/sumitomo-corp.md",
+      "url": "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sumitomo-corp.md",
+      "title": "住友商事 (Sumitomo Corporation)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especially SMFL (三井住友ファイナ",
+      "headings": [
+        "住友商事 (Sumitomo Corporation)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "5 大商社内の identity"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/itochu-corp",
+        "JapanFG/marubeni-corp",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsubishi-hc-capital",
+        "JapanFG/mitsui-co",
+        "JapanFG/mitsui-sumitomo-insurance",
+        "JapanFG/orix-corp",
+        "JapanFG/smfg",
+        "JapanFG/smfl",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sumitomo-corp-financial-management",
+        "JapanFG/sumitomo-mitsui-auto-service",
+        "JapanFG/sumitomo-mitsui-trust",
+        "JapanFG/tokyo-century",
+        "JapanFG/toyota-tsusho-corp",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/itochu-corp",
+        "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+        "https://finwiki.zksc.io/JapanFG/mitsui-co",
+        "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
+        "https://finwiki.zksc.io/JapanFG/orix-corp",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/JapanFG/smfl",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-auto-service",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+        "https://finwiki.zksc.io/JapanFG/tokyo-century",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 7315,
+      "word_like_tokens": 1125,
       "last_modified": "2026-05-24"
     },
     {
@@ -25043,6 +26735,8 @@
         "JapanFG/legal-financial-licenses/INDEX",
         "banking/INDEX",
         "banking/regional-bank-consolidation-pattern",
+        "dai-shi-hokuetsu-fg",
+        "daishi-hokuetsu-bank",
         "sbi-regional-bank-hd"
       ],
       "resolved_wikilinks": [
@@ -25050,12 +26744,14 @@
         "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+        "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
+        "https://finwiki.zksc.io/daishi-hokuetsu-bank",
         "https://finwiki.zksc.io/sbi-regional-bank-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1738,
-      "word_like_tokens": 277,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1816,
+      "word_like_tokens": 291,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/taipei-fubon-bank-japan.md",
@@ -25246,6 +26942,55 @@
       "nonspace_chars": 3683,
       "word_like_tokens": 579,
       "last_modified": "2026-05-22"
+    },
+    {
+      "source_path": "JapanFG/taiyo-grant-thornton.md",
+      "url": "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/taiyo-grant-thornton.md",
+      "title": "太陽有限責任監査法人 (Grant Thornton Taiyo)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+      "headings": [
+        "太陽有限責任監査法人 (Grant Thornton Taiyo)",
+        "TL;DR",
+        "Wiki route",
+        "1. 法人概要",
+        "規模（公開ベース概算）^[inferred]",
+        "2. 沿革",
+        "3. 金融サービス監査・アドバイザリー実務",
+        "IPO 準備支援（最大強み）^[extracted]",
+        "VASP / 暗号資産 ^[extracted]",
+        "中堅金融機関"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/deloitte-touche-tohmatsu",
+        "JapanFG/ey-shinnihon",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/kpmg-azsa",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/pwc-aarata",
+        "JapanFG/sbi-hd",
+        "exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+        "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+        "https://finwiki.zksc.io/JapanFG/sbi-hd",
+        "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4534,
+      "word_like_tokens": 633,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/taiyo-life.md",
@@ -25536,6 +27281,7 @@
         "JapanFG/tokyo-star-bank",
         "ashikaga-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "mebuki-fg",
         "towa-bank"
       ],
@@ -25544,13 +27290,14 @@
         "https://finwiki.zksc.io/JapanFG/tokyo-star-bank",
         "https://finwiki.zksc.io/ashikaga-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/mebuki-fg",
         "https://finwiki.zksc.io/towa-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1609,
-      "word_like_tokens": 256,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1707,
+      "word_like_tokens": 269,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/toho-bank.md",
@@ -25631,6 +27378,7 @@
         "JapanFG/INDEX",
         "JapanFG/shonai-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "fidea-hd",
         "iwate-bank",
         "kita-nippon-bank"
@@ -25639,14 +27387,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/shonai-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/fidea-hd",
         "https://finwiki.zksc.io/iwate-bank",
         "https://finwiki.zksc.io/kita-nippon-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1682,
-      "word_like_tokens": 259,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1773,
+      "word_like_tokens": 271,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/tokai-tokyo-fh.md",
@@ -25969,9 +27718,9 @@
         "https://finwiki.zksc.io/tomony-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1758,
-      "word_like_tokens": 279,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1850,
+      "word_like_tokens": 291,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/tokyo-century.md",
@@ -26147,9 +27896,9 @@
         "https://finwiki.zksc.io/tottori-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1574,
-      "word_like_tokens": 246,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1666,
+      "word_like_tokens": 258,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/tomony-hd.md",
@@ -26241,9 +27990,9 @@
         "https://finwiki.zksc.io/san-in-godo-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1598,
-      "word_like_tokens": 255,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1690,
+      "word_like_tokens": 267,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/towa-bank.md",
@@ -26320,6 +28069,7 @@
         "JapanFG/INDEX",
         "JapanFG/fukuoka-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "hokuhoku-fg",
         "hokuriku-bank",
         "toyama-first-bank"
@@ -26328,14 +28078,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/fukuoka-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/hokuhoku-fg",
         "https://finwiki.zksc.io/hokuriku-bank",
         "https://finwiki.zksc.io/toyama-first-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1491,
-      "word_like_tokens": 239,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1659,
+      "word_like_tokens": 267,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/toyama-first-bank.md",
@@ -26359,6 +28110,7 @@
         "JapanFG/INDEX",
         "JapanFG/tokushima-taisho-bank",
         "banking/INDEX",
+        "banking/regional-bank-consolidation-pattern",
         "hokkoku-bank",
         "hokkoku-fhd",
         "hokuhoku-fg",
@@ -26369,6 +28121,7 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/tokushima-taisho-bank",
         "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
         "https://finwiki.zksc.io/hokkoku-bank",
         "https://finwiki.zksc.io/hokkoku-fhd",
         "https://finwiki.zksc.io/hokuhoku-fg",
@@ -26376,9 +28129,9 @@
         "https://finwiki.zksc.io/toyama-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1571,
-      "word_like_tokens": 253,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1711,
+      "word_like_tokens": 273,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/toyota-finance.md",
@@ -26469,6 +28222,63 @@
       "nonspace_chars": 4871,
       "word_like_tokens": 655,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/toyota-tsusho-corp.md",
+      "url": "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/toyota-tsusho-corp.md",
+      "title": "豊田通商 (Toyota Tsusho Corporation)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For the financial-serv",
+      "headings": [
+        "豊田通商 (Toyota Tsusho Corporation)",
+        "Wiki route",
+        "TL;DR",
+        "1. 公司结构",
+        "主要子会社・関連会社 (JapanFG 文脈)",
+        "沿革ハイライト ^[extracted]",
+        "2. 业务线 map",
+        "3. Financial-services adjacency",
+        "4. 戦略与競争",
+        "Toyota グループ系商社の identity"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aichi-fg",
+        "JapanFG/itochu-corp",
+        "JapanFG/marubeni-corp",
+        "JapanFG/mitsubishi-corp",
+        "JapanFG/mitsui-co",
+        "JapanFG/mufg",
+        "JapanFG/sojitz-corp",
+        "JapanFG/sumitomo-corp",
+        "JapanFG/tepco-hd",
+        "JapanFG/toyota-financial",
+        "JapanFG/toyota-tsusho-finance",
+        "finance/INDEX",
+        "finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aichi-fg",
+        "https://finwiki.zksc.io/JapanFG/itochu-corp",
+        "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+        "https://finwiki.zksc.io/JapanFG/mitsui-co",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+        "https://finwiki.zksc.io/JapanFG/tepco-hd",
+        "https://finwiki.zksc.io/JapanFG/toyota-financial",
+        "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 7097,
+      "word_like_tokens": 1044,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/toyota-tsusho-finance.md",
@@ -27596,9 +29406,9 @@
         "https://finwiki.zksc.io/shizuoka-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1666,
-      "word_like_tokens": 259,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1808,
+      "word_like_tokens": 281,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/yamap-naturance-insurance.md",
@@ -27916,6 +29726,57 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/zaim.md",
+      "url": "https://finwiki.zksc.io/JapanFG/zaim",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zaim.md",
+      "title": "Zaim (ザイム)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under the JapanFG index as a PFM (Personal Financial Management) app sitting next to the much larger Money Forward ME peer. Read it with the Japan BNPL landscape for adjacent consumer-finance context, the freee / SmartBank sibling household-finance set, and the au フィナンシャル HD corporat",
+      "headings": [
+        "Zaim (ザイム)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人・ライセンス境界",
+        "2. Business role",
+        "3. Why this standalone page matters",
+        "4. 监管与政策",
+        "Counterpoints",
+        "Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/au-fh",
+        "JapanFG/au-payment",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/famima-digital-one",
+        "JapanFG/freee",
+        "JapanFG/money-forward",
+        "JapanFG/smartbank",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-payment-scheme-economics-matrix"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/au-fh",
+        "https://finwiki.zksc.io/JapanFG/au-payment",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/famima-digital-one",
+        "https://finwiki.zksc.io/JapanFG/freee",
+        "https://finwiki.zksc.io/JapanFG/money-forward",
+        "https://finwiki.zksc.io/JapanFG/smartbank",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3517,
+      "word_like_tokens": 511,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "JapanFG/zenchugin-kyo.md",
       "url": "https://finwiki.zksc.io/JapanFG/zenchugin-kyo",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zenchugin-kyo.md",
@@ -28103,6 +29964,69 @@
       "nonspace_chars": 2601,
       "word_like_tokens": 434,
       "last_modified": "2026-05-23"
+    },
+    {
+      "source_path": "JapanFG/zenrosai.md",
+      "url": "https://finwiki.zksc.io/JapanFG/zenrosai",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zenrosai.md",
+      "title": "全労済 / こくみん共済 coop (全国労働者共済生活協同組合連合会 / National Federation of Workers and Consumers Insurance Cooperatives)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index as a workers' / consumer-cooperative-based mutual-aid (共済) federation outside the JA / JF / shinkin / shinkumi axis. Read with JA 共済連 for the agricultural cooperative kyosai peer, 共栄火災海上保険 for cooperative-system non-life adjacency, insurance domain for the kyosai-",
+      "headings": [
+        "全労済 / こくみん共済 coop (全国労働者共済生活協同組合連合会 / National Federation of Workers and Consumers Insurance Cooperatives)",
+        "Wiki route",
+        "TL;DR",
+        "1. 組織構造",
+        "生協系共済 vs 農協系共済 ^[extracted]",
+        "重要年表 ^[extracted]",
+        "2. 業務内容",
+        "主力共済商品 ^[extracted]",
+        "販売チャネル",
+        "規模感 (推定) ^[ambiguous]"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/dai-ichi-life",
+        "JapanFG/ja-kyosairen",
+        "JapanFG/kyoritsu-fire-marine",
+        "JapanFG/lifenet",
+        "JapanFG/meiji-yasuda",
+        "JapanFG/msad",
+        "JapanFG/nippon-life",
+        "JapanFG/norinchukin",
+        "JapanFG/rokin-renraku",
+        "JapanFG/sompo",
+        "JapanFG/sumitomo-life",
+        "JapanFG/tokio-marine",
+        "JapanFG/zenchugin-kyo",
+        "banking/cooperative-banking-japan",
+        "insurance/INDEX",
+        "insurance/mutual-vs-stock-life-insurer"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+        "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+        "https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine",
+        "https://finwiki.zksc.io/JapanFG/lifenet",
+        "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
+        "https://finwiki.zksc.io/JapanFG/msad",
+        "https://finwiki.zksc.io/JapanFG/nippon-life",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/JapanFG/rokin-renraku",
+        "https://finwiki.zksc.io/JapanFG/sompo",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+        "https://finwiki.zksc.io/JapanFG/tokio-marine",
+        "https://finwiki.zksc.io/JapanFG/zenchugin-kyo",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/insurance/INDEX",
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5311,
+      "word_like_tokens": 722,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "JapanFG/zenshin-kumi.md",
@@ -30190,6 +32114,79 @@
       "last_modified": "2026-05-22"
     },
     {
+      "source_path": "banking/japan-banking-license-tier-comparison-matrix.md",
+      "url": "https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-banking-license-tier-comparison-matrix.md",
+      "title": "Japan banking-license tier comparison matrix",
+      "domain": "banking",
+      "entry_type": "wiki_entry",
+      "summary": "Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This",
+      "headings": [
+        "Japan banking-license tier comparison matrix",
+        "TL;DR",
+        "Wiki route",
+        "Why a tier matrix matters",
+        "Tier 1 — Megabank (普通銀行 / 都市銀行)",
+        "Tier 2 — Regional bank (地方銀行)",
+        "Tier 3 — Second regional bank (第二地方銀行)",
+        "Tier 4 — Trust bank (信託銀行)",
+        "Tier 5 — Net bank (ネット銀行)",
+        "Tier 6 — Foreign bank branch (外国銀行支店)"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/INDEX",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
+        "JapanFG/norinchukin",
+        "JapanFG/norinchukin\\",
+        "JapanFG/shinkin-central",
+        "JapanFG/shinkin-central\\",
+        "JapanFG/yokin-hoken-kiko",
+        "JapanFG/yokin-hoken-kiko\\",
+        "banking/INDEX",
+        "banking/cooperative-banking-japan",
+        "banking/credit-cooperative-registry-japan",
+        "banking/foreign-bank-japan-retreat",
+        "banking/ja-bank-system-japan",
+        "banking/japan-baas-operating-models",
+        "banking/japan-net-bank-competition-map",
+        "banking/jf-marine-bank-system-japan",
+        "banking/regional-bank-consolidation-pattern",
+        "banking/rokin-bank-registry-japan",
+        "banking/shinkin-bank-registry-japan",
+        "banking/trust-bank-custody-operating-comparison"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
+        "https://finwiki.zksc.io/JapanFG/norinchukin",
+        "https://finwiki.zksc.io/JapanFG/norinchukin\\",
+        "https://finwiki.zksc.io/JapanFG/shinkin-central",
+        "https://finwiki.zksc.io/JapanFG/shinkin-central\\",
+        "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
+        "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko\\",
+        "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+        "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+        "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+        "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+        "https://finwiki.zksc.io/banking/japan-baas-operating-models",
+        "https://finwiki.zksc.io/banking/japan-net-bank-competition-map",
+        "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+        "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+        "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
+        "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+        "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 29703,
+      "word_like_tokens": 4583,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "banking/japan-master-trust-and-custody-bank-landscape.md",
       "url": "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-master-trust-and-custody-bank-landscape.md",
@@ -30373,6 +32370,85 @@
       "nonspace_chars": 5971,
       "word_like_tokens": 876,
       "last_modified": "2026-05-22"
+    },
+    {
+      "source_path": "banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md",
+      "url": "https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md",
+      "title": "Japan trust bank vs global custodian comparison matrix",
+      "domain": "banking",
+      "entry_type": "wiki_entry",
+      "summary": "Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks",
+      "headings": [
+        "Japan trust bank vs global custodian comparison matrix",
+        "TL;DR",
+        "Wiki route",
+        "Population covered",
+        "Comparison Matrix (Japanese trust banks)",
+        "Comparison Matrix (global custodians in Japan)",
+        "Cross-camp matrix view",
+        "Master Trust vs Custody Bank of Japan — 2020 統合の意味",
+        "Pricing power dynamics",
+        "Interpretation rules"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/bny-mellon-japan",
+        "JapanFG/citigroup-japan",
+        "JapanFG/clearstream-banking-japan",
+        "JapanFG/custody-bank",
+        "JapanFG/euroclear-bank-japan",
+        "JapanFG/jpmorgan-japan",
+        "JapanFG/jsf-trust-bank",
+        "JapanFG/master-trust-bank",
+        "JapanFG/mitsubishi-ufj-trust-bank",
+        "JapanFG/mizuho-trust-bank",
+        "JapanFG/mufg-bank",
+        "JapanFG/nochu-trust-bank",
+        "JapanFG/nomura-trust-bank",
+        "JapanFG/sbi-shinsei-trust-bank",
+        "JapanFG/smbc-trust-bank",
+        "JapanFG/smtb",
+        "JapanFG/state-street-japan",
+        "banking/INDEX",
+        "banking/japan-master-trust-and-custody-bank-landscape",
+        "banking/japan-trust-bank-custody-map",
+        "banking/trust-bank-custody-operating-comparison",
+        "securities/japan-asset-manager-landscape-matrix",
+        "securities/japan-securities-clearing-corp",
+        "securities/japan-securities-depository-center"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/bny-mellon-japan",
+        "https://finwiki.zksc.io/JapanFG/citigroup-japan",
+        "https://finwiki.zksc.io/JapanFG/clearstream-banking-japan",
+        "https://finwiki.zksc.io/JapanFG/custody-bank",
+        "https://finwiki.zksc.io/JapanFG/euroclear-bank-japan",
+        "https://finwiki.zksc.io/JapanFG/jpmorgan-japan",
+        "https://finwiki.zksc.io/JapanFG/jsf-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/master-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/mufg-bank",
+        "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/nomura-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/sbi-shinsei-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/smbc-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/smtb",
+        "https://finwiki.zksc.io/JapanFG/state-street-japan",
+        "https://finwiki.zksc.io/banking/INDEX",
+        "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
+        "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+        "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+        "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
+        "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+        "https://finwiki.zksc.io/securities/japan-securities-depository-center"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 12618,
+      "word_like_tokens": 2020,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "banking/jf-marine-bank-system-japan.md",
@@ -47161,6 +49237,117 @@
       "last_modified": "2026-05-22"
     },
     {
+      "source_path": "payments/japan-consumer-credit-operator-comparison-matrix.md",
+      "url": "https://finwiki.zksc.io/payments/japan-consumer-credit-operator-comparison-matrix",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/japan-consumer-credit-operator-comparison-matrix.md",
+      "title": "Japan consumer-credit operator comparison matrix",
+      "domain": "payments",
+      "entry_type": "wiki_entry",
+      "summary": "\"Consumer credit\" in Japan is not one industry — it is at least nine operator categories that look similar at checkout but sit on different licenses, different regulators, different lending caps, different interest-rate ceilings, and different consumer-protection regimes. A reader who flattens カードロー",
+      "headings": [
+        "Japan consumer-credit operator comparison matrix",
+        "TL;DR",
+        "Wiki route",
+        "Nine operator categories",
+        "Comparison matrix — full",
+        "Category-by-category notes",
+        "1. Card issuer (クレジットカード会社 / 包括信用購入あっせん業者)",
+        "2. Consumer finance / shoko-loan (消費者金融 / 貸金業者)",
+        "3. Installment credit / shinpan (信販会社 / 個別信用購入あっせん業者)",
+        "4. BNPL pure-play (BNPL / 後払い)"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/acom",
+        "JapanFG/acom\\",
+        "JapanFG/aeon-financial-service",
+        "JapanFG/aiful",
+        "JapanFG/aiful\\",
+        "JapanFG/aplus",
+        "JapanFG/aplus\\",
+        "JapanFG/bnpl-landscape",
+        "JapanFG/jaccs",
+        "JapanFG/jaccs\\",
+        "JapanFG/jcb",
+        "JapanFG/jcb\\",
+        "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/legal-financial-licenses/payment-license-stack",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mufg",
+        "JapanFG/mufg-nicos",
+        "JapanFG/mufg-nicos\\",
+        "JapanFG/orico",
+        "JapanFG/orico\\",
+        "JapanFG/paidy",
+        "JapanFG/paypay-card",
+        "JapanFG/paypay-card\\",
+        "JapanFG/rakuten-card",
+        "JapanFG/rakuten-card\\",
+        "JapanFG/sbi-shinsei-bank",
+        "JapanFG/smbc-card",
+        "JapanFG/smbc-card\\",
+        "JapanFG/smbc-consumer-finance",
+        "JapanFG/smbc-consumer-finance\\",
+        "JapanFG/smfg",
+        "payments/INDEX",
+        "payments/cashless-jp-landscape",
+        "payments/credit-purchase-card-operators-japan-index",
+        "payments/japan-bnpl-credit-purchase-boundary",
+        "payments/japan-card-issuer-acquirer-processor-split",
+        "payments/japan-card-security-authentication-controls",
+        "payments/japan-interchange-and-merchant-fee-stack",
+        "payments/japan-payment-scheme-economics-matrix",
+        "policy-finance/japan-housing-finance-agency"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/acom",
+        "https://finwiki.zksc.io/JapanFG/acom\\",
+        "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+        "https://finwiki.zksc.io/JapanFG/aiful",
+        "https://finwiki.zksc.io/JapanFG/aiful\\",
+        "https://finwiki.zksc.io/JapanFG/aplus",
+        "https://finwiki.zksc.io/JapanFG/aplus\\",
+        "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+        "https://finwiki.zksc.io/JapanFG/jaccs",
+        "https://finwiki.zksc.io/JapanFG/jaccs\\",
+        "https://finwiki.zksc.io/JapanFG/jcb",
+        "https://finwiki.zksc.io/JapanFG/jcb\\",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/mufg-nicos",
+        "https://finwiki.zksc.io/JapanFG/mufg-nicos\\",
+        "https://finwiki.zksc.io/JapanFG/orico",
+        "https://finwiki.zksc.io/JapanFG/orico\\",
+        "https://finwiki.zksc.io/JapanFG/paidy",
+        "https://finwiki.zksc.io/JapanFG/paypay-card",
+        "https://finwiki.zksc.io/JapanFG/paypay-card\\",
+        "https://finwiki.zksc.io/JapanFG/rakuten-card",
+        "https://finwiki.zksc.io/JapanFG/rakuten-card\\",
+        "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+        "https://finwiki.zksc.io/JapanFG/smbc-card",
+        "https://finwiki.zksc.io/JapanFG/smbc-card\\",
+        "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
+        "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance\\",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/payments/INDEX",
+        "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+        "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+        "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+        "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+        "https://finwiki.zksc.io/payments/japan-card-security-authentication-controls",
+        "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack",
+        "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+        "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 29026,
+      "word_like_tokens": 4818,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "payments/japan-interchange-and-merchant-fee-stack.md",
       "url": "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/japan-interchange-and-merchant-fee-stack.md",
@@ -47783,6 +49970,110 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "policy-finance/japan-eximbank-history.md",
+      "url": "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-eximbank-history.md",
+      "title": "Japan Export-Import Bank (historical predecessor of JBIC)",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's principal state export-credit and overseas-investment lending institution from 1950 to 1999. In 1999 it merged with the Overseas Economic Cooperation Fund (海外経済協力基金 / OECF) to form the original Japan Bank for International Cooperation (JBIC)",
+      "headings": [
+        "Japan Export-Import Bank (historical predecessor of JBIC)",
+        "TL;DR",
+        "1. Institutional boundary",
+        "2. Why this page exists separately",
+        "3. Function map (historical)",
+        "4. Historical trajectory",
+        "5. Institutional significance",
+        "6. Boundary cases",
+        "7. Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/dbj",
+        "JapanFG/jbic",
+        "JapanFG/jfc",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mufg",
+        "JapanFG/smfg",
+        "policy-finance/INDEX",
+        "policy-finance/japan-policy-finance-system",
+        "policy-finance/japan-project-finance-stack-diagram",
+        "policy-finance/jica",
+        "policy-finance/oecd-export-credit-arrangement"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/dbj",
+        "https://finwiki.zksc.io/JapanFG/jbic",
+        "https://finwiki.zksc.io/JapanFG/jfc",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+        "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+        "https://finwiki.zksc.io/policy-finance/jica",
+        "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6589,
+      "word_like_tokens": 1034,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "policy-finance/japan-finance-organization-municipalities.md",
+      "url": "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-finance-organization-municipalities.md",
+      "title": "Japan Finance Organization for Municipalities (JFM)",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "Japan Finance Organization for Municipalities is the joint-funded public credit institution that supplies long-term low-cost loans to all 47 prefectures and municipalities for water, sewerage, transport, hospital, school, disaster-recovery, and general local-finance needs. It is not a national-gover",
+      "headings": [
+        "Japan Finance Organization for Municipalities (JFM)",
+        "TL;DR",
+        "1. Institutional boundary",
+        "2. Function map",
+        "3. System position",
+        "4. Historical trajectory",
+        "5. Why it matters",
+        "6. Boundary cases",
+        "7. Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/dbj",
+        "JapanFG/jbic",
+        "JapanFG/jfc",
+        "JapanFG/local-bond-market",
+        "JapanFG/local-govt-finance",
+        "money-market/INDEX",
+        "policy-finance/INDEX",
+        "policy-finance/japan-housing-finance-agency",
+        "policy-finance/japan-policy-finance-system",
+        "policy-finance/japan-project-finance-stack-diagram"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/dbj",
+        "https://finwiki.zksc.io/JapanFG/jbic",
+        "https://finwiki.zksc.io/JapanFG/jfc",
+        "https://finwiki.zksc.io/JapanFG/local-bond-market",
+        "https://finwiki.zksc.io/JapanFG/local-govt-finance",
+        "https://finwiki.zksc.io/money-market/INDEX",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+        "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6979,
+      "word_like_tokens": 1089,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "policy-finance/japan-housing-finance-agency.md",
       "url": "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-housing-finance-agency.md",
@@ -47826,6 +50117,55 @@
       "nonspace_chars": 2779,
       "word_like_tokens": 427,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "policy-finance/japan-local-bond-association.md",
+      "url": "https://finwiki.zksc.io/policy-finance/japan-local-bond-association",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-local-bond-association.md",
+      "title": "Japan Local Government Bond Association (Chihousai Kyoukai)",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "The Japan Local Government Bond Association (公益社団法人地方債協会) is the public-interest incorporated association that coordinates, researches, and publishes on Japan's local-government bond market. It is the canonical published source for local-bond-market structure, issuance statistics, joint-issuance arr",
+      "headings": [
+        "Japan Local Government Bond Association (Chihousai Kyoukai)",
+        "TL;DR",
+        "1. Institutional boundary",
+        "2. Function map",
+        "3. Why it matters for FinWiki",
+        "4. System position",
+        "5. Boundary cases",
+        "6. Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/jfc",
+        "JapanFG/local-bond-market",
+        "JapanFG/local-govt-finance",
+        "money-market/INDEX",
+        "policy-finance/INDEX",
+        "policy-finance/japan-finance-organization-municipalities",
+        "policy-finance/japan-policy-finance-system",
+        "policy-finance/local-government-bond-market",
+        "policy-finance/national-federation-credit-guarantee-corporations"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/jfc",
+        "https://finwiki.zksc.io/JapanFG/local-bond-market",
+        "https://finwiki.zksc.io/JapanFG/local-govt-finance",
+        "https://finwiki.zksc.io/money-market/INDEX",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+        "https://finwiki.zksc.io/policy-finance/local-government-bond-market",
+        "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5619,
+      "word_like_tokens": 813,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "policy-finance/japan-policy-finance-system.md",
@@ -48043,6 +50383,57 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "policy-finance/local-government-bond-market.md",
+      "url": "https://finwiki.zksc.io/policy-finance/local-government-bond-market",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/local-government-bond-market.md",
+      "title": "Local government bond market (Japan policy-finance perspective)",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "The Japanese local government bond market is the capital-market interface for prefecture and municipality finance. It is structurally distinct from JGBs: issuance volumes are smaller, credit analysis incorporates the Local Allocation Tax fiscal-equalization layer, and a meaningful share of debt is f",
+      "headings": [
+        "Local government bond market (Japan policy-finance perspective)",
+        "TL;DR",
+        "1. Issuance channels",
+        "2. Issuer / credit logic",
+        "3. Why it sits in policy-finance",
+        "4. Connection to other markets",
+        "5. Boundary cases",
+        "6. Counterpoints",
+        "7. Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/dbj",
+        "JapanFG/jbic",
+        "JapanFG/jfc",
+        "JapanFG/local-bond-market",
+        "JapanFG/local-govt-finance",
+        "money-market/INDEX",
+        "money-market/jgb-repo-market-japan",
+        "policy-finance/INDEX",
+        "policy-finance/japan-finance-organization-municipalities",
+        "policy-finance/japan-policy-finance-system"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/dbj",
+        "https://finwiki.zksc.io/JapanFG/jbic",
+        "https://finwiki.zksc.io/JapanFG/jfc",
+        "https://finwiki.zksc.io/JapanFG/local-bond-market",
+        "https://finwiki.zksc.io/JapanFG/local-govt-finance",
+        "https://finwiki.zksc.io/money-market/INDEX",
+        "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6757,
+      "word_like_tokens": 1056,
+      "last_modified": "2026-05-24"
+    },
+    {
       "source_path": "policy-finance/national-federation-credit-guarantee-corporations.md",
       "url": "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/national-federation-credit-guarantee-corporations.md",
@@ -48200,6 +50591,173 @@
       "nonspace_chars": 2750,
       "word_like_tokens": 419,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "policy-finance/osaka-credit-guarantee-corp.md",
+      "url": "https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/osaka-credit-guarantee-corp.md",
+      "title": "Osaka Credit Guarantee Corporation",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "Osaka Credit Guarantee Corporation (大阪信用保証協会) is the Osaka-prefecture member of Japan's 51-corporation local credit guarantee system. It is typically the second-largest local corporation by guarantee balance after Tokyo Credit Guarantee Corporation, reflecting Osaka's status as the Kansai SME / manu",
+      "headings": [
+        "Osaka Credit Guarantee Corporation",
+        "TL;DR",
+        "1. Institutional boundary",
+        "2. Function map",
+        "3. Why it matters",
+        "4. Boundary cases",
+        "5. Comparison with Tokyo CGC",
+        "6. Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/jfc",
+        "JapanFG/mufg",
+        "JapanFG/resona-hd",
+        "JapanFG/smfg",
+        "banking/shinkin-bank-registry-japan",
+        "policy-finance/INDEX",
+        "policy-finance/japan-credit-guarantee-system",
+        "policy-finance/japan-policy-finance-system",
+        "policy-finance/national-federation-credit-guarantee-corporations",
+        "policy-finance/tokyo-credit-guarantee-corp"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/jfc",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/resona-hd",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+        "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+        "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5952,
+      "word_like_tokens": 898,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "policy-finance/tokyo-credit-guarantee-corp.md",
+      "url": "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/tokyo-credit-guarantee-corp.md",
+      "title": "Tokyo Credit Guarantee Corporation",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "Tokyo Credit Guarantee Corporation (東京信用保証協会) is the Tokyo-metropolis member of Japan's 51-corporation local credit guarantee system. It is consistently the largest single corporation in the federation by guarantee balance, eligible-borrower count, and policy-program scale, because the Tokyo metropo",
+      "headings": [
+        "Tokyo Credit Guarantee Corporation",
+        "TL;DR",
+        "1. Institutional boundary",
+        "2. Function map",
+        "3. Why it matters",
+        "4. System anchoring",
+        "5. Boundary cases",
+        "6. Open questions",
+        "Related",
+        "Sources"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/jfc",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mufg",
+        "JapanFG/smfg",
+        "banking/credit-cooperative-registry-japan",
+        "banking/shinkin-bank-registry-japan",
+        "policy-finance/INDEX",
+        "policy-finance/agriculture-credit-guarantee-system",
+        "policy-finance/fisheries-credit-guarantee-system",
+        "policy-finance/japan-credit-guarantee-system",
+        "policy-finance/japan-housing-finance-agency",
+        "policy-finance/japan-policy-finance-system",
+        "policy-finance/japan-project-finance-stack-diagram",
+        "policy-finance/national-federation-credit-guarantee-corporations",
+        "policy-finance/nexi",
+        "policy-finance/osaka-credit-guarantee-corp"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/jfc",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+        "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+        "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+        "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+        "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+        "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+        "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+        "https://finwiki.zksc.io/policy-finance/nexi",
+        "https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6390,
+      "word_like_tokens": 961,
+      "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "policy-finance/tokyo-metropolitan-bond.md",
+      "url": "https://finwiki.zksc.io/policy-finance/tokyo-metropolitan-bond",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/tokyo-metropolitan-bond.md",
+      "title": "Tokyo Metropolitan Bond (Tokyo-to-sai)",
+      "domain": "policy-finance",
+      "entry_type": "wiki_entry",
+      "summary": "Tokyo Metropolitan Bonds (東京都債 / Tokyo-to-sai) are debt securities issued by the Tokyo Metropolitan Government. As the largest single local-government issuer in Japan by tax base and issuance volume, Tokyo Metropolis is the benchmark issuer for the Japanese local government bond market and is treate",
+      "headings": [
+        "Tokyo Metropolitan Bond (Tokyo-to-sai)",
+        "TL;DR",
+        "1. Issuer boundary",
+        "2. Why Tokyo Metropolitan Bond is a special case",
+        "3. Issuance program logic",
+        "4. Position in the broader policy-finance map",
+        "5. Boundary cases",
+        "6. Counterpoints",
+        "7. Open questions",
+        "Related"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/dbj",
+        "JapanFG/jbic",
+        "JapanFG/local-bond-market",
+        "JapanFG/local-govt-finance",
+        "money-market/INDEX",
+        "policy-finance/INDEX",
+        "policy-finance/japan-finance-organization-municipalities",
+        "policy-finance/japan-local-bond-association",
+        "policy-finance/japan-policy-finance-system",
+        "policy-finance/japan-project-finance-stack-diagram",
+        "policy-finance/local-government-bond-market"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/dbj",
+        "https://finwiki.zksc.io/JapanFG/jbic",
+        "https://finwiki.zksc.io/JapanFG/local-bond-market",
+        "https://finwiki.zksc.io/JapanFG/local-govt-finance",
+        "https://finwiki.zksc.io/money-market/INDEX",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-finance-organization-municipalities",
+        "https://finwiki.zksc.io/policy-finance/japan-local-bond-association",
+        "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+        "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+        "https://finwiki.zksc.io/policy-finance/local-government-bond-market"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 6765,
+      "word_like_tokens": 1042,
+      "last_modified": "2026-05-24"
     },
     {
       "source_path": "releases/v2026.05.20-2.md",
@@ -53209,8 +55767,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 8139,
-      "word_like_tokens": 1407,
+      "nonspace_chars": 8321,
+      "word_like_tokens": 1442,
       "last_modified": "2026-05-24"
     }
   ]

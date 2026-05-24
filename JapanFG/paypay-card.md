@@ -37,8 +37,8 @@ PayPayカードは [[JapanFG/paypay-fg|PayPay金融グループ]] のクレジ�
 ## 2. Business role
 
 - Adds revolving / credit-card economics to PayPay's code-payment and app distribution base.
-- Links points, app checkout, card acquiring partners, and consumer credit into one retail finance funnel.
-- Important for comparing PayPay with Rakuten, au PAY, d払い, and traditional card issuers.
+- Links points, app checkout, card acquiring partners, and consumer credit into one retail finance funnel; see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor map.
+- Important for comparing PayPay with Rakuten, au PAY, d払い, and traditional card issuers — scheme economics live at [[payments/japan-payment-scheme-economics-matrix]].
 
 ## 3. Why this standalone page matters
 

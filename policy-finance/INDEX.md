@@ -41,6 +41,13 @@ sources:
 - [[policy-finance/agriculture-credit-guarantee-system|Agriculture credit guarantee system]]
 - [[policy-finance/fisheries-credit-guarantee-system|Fisheries credit guarantee system]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)]]
+- [[policy-finance/japan-finance-organization-municipalities|Japan Finance Organization for Municipalities (JFM)]]
+- [[policy-finance/tokyo-credit-guarantee-corp|Tokyo Credit Guarantee Corporation]]
+- [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]]
+- [[policy-finance/local-government-bond-market|Local government bond market]]
+- [[policy-finance/japan-eximbank-history|Japan Eximbank (旧日本輸出入銀行) — historical predecessor of JBIC]]
+- [[policy-finance/japan-local-bond-association|Japan Local Government Bond Association]]
+- [[policy-finance/tokyo-metropolitan-bond|Tokyo Metropolitan bond benchmark]]
 
 ## Institution lanes
 

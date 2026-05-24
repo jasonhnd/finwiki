@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-徳島大正銀行は、徳島県と旧大正銀行由来の Osaka branch network を軸に retail deposits, SME finance, local relationship banking, and cross-regional business support を担う second regional bank。[[tomony-hd]] page は group strategy and two-bank structure を扱い、本ページは bank-license entity を扱う。
+徳島大正銀行は、徳島県と旧大正銀行由来の Osaka branch network を軸に retail deposits, SME finance, local relationship banking, and cross-regional business support を担う second regional bank。[[tomony-hd]] page は group strategy and two-bank structure を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

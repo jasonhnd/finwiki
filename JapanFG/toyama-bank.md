@@ -36,13 +36,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-富山銀行 is a smaller regional bank focused on Toyama prefecture retail, SME, local corporate, and municipal relationships. It matters because Toyama has multiple bank competitors rather than a single dominant bank page.
+富山銀行 is a smaller regional bank focused on Toyama prefecture retail, SME, local corporate, and municipal relationships. It matters because Toyama has multiple bank competitors rather than a single dominant bank page — see [[banking/regional-bank-consolidation-pattern]] for the broader pressure on small regional banks like this one to merge.
 
 ## 3. Why this page matters
 
 - Adds an exact-name FSA regional-bank page.
 - Complements [[hokuriku-bank]] and [[toyama-first-bank]].
-- Registry-backed B2.1 regional-bank operating-company page.
+- Registry-backed B2.1 regional-bank operating-company page, tracked under the wider [[JapanFG/INDEX|JapanFG index]] surface.
 
 ## Related
 

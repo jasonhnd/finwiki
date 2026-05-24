@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-香川銀行は、香川県を中心に retail deposits, SME finance, local relationship banking, and Tomony group cross-selling を担う second regional bank。[[tomony-hd]] page は group-level governance and 徳島大正銀行との two-bank structure を扱い、本ページは bank-license entity を扱う。
+香川銀行は、香川県を中心に retail deposits, SME finance, local relationship banking, and Tomony group cross-selling を担う second regional bank。[[tomony-hd]] page は group-level governance and 徳島大正銀行との two-bank structure を扱い、本ページは bank-license entity を扱う。Shikoku second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

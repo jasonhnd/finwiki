@@ -37,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 2. Operating model
 
-福井銀行は、福井県を中心に retail deposits, SME finance, regional corporate relationships, Hokuriku manufacturing / services support, and local consulting を担う regional bank。北陸側では [[hokuhoku-fg]] and [[hokkoku-fhd]] と比較されるが、legal-name boundary は standalone bank entity である。
+福井銀行は、福井県を中心に retail deposits, SME finance, regional corporate relationships, Hokuriku manufacturing / services support, and local consulting を担う regional bank。北陸側では [[hokuhoku-fg]] and [[hokkoku-fhd]] と比較されるが、legal-name boundary は standalone bank entity である。Hokuriku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 

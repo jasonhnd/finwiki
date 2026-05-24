@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-第一生命保険株式会社は、[[dai-ichi-life]]（株式会社第一ライフグループ）の core domestic life-insurance operating company。JapanFG では holding company / listed group page と、営業職員 channel を持つ insurance underwriter を分けて扱う。
+第一生命保険株式会社は、[[dai-ichi-life]]（株式会社第一ライフグループ）の core domestic life-insurance operating company。JapanFG では holding company / listed group page と、営業職員 channel を持つ insurance underwriter を分けて扱う。Capital / solvency framework は [[insurance/global-solvency-framework-comparison-matrix]] を参照。
 
 ## 1. License / group boundary
 
@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 2. Why this page matters
 
 - Keeps [[dai-ichi-life]] as the listed holding-company / group strategy page.
-- Anchors the actual licensed life-insurance operating company.
+- Anchors the actual licensed life-insurance operating company under [[insurance/INDEX|insurance index]].
 - Complements [[dai-ichi-frontier-life]] and [[dai-ichi-neo-life]].
 
 ## Related

@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-第一ネオ生命保険株式会社は、[[dai-ichi-life]] group の specialty life-insurance operating company。旧ネオファースト生命から 2026-04 に第一ネオ生命へ社名変更したため、exact-name anchor を置く。
+第一ネオ生命保険株式会社は、[[dai-ichi-life]] group の specialty life-insurance operating company。旧ネオファースト生命から 2026-04 に第一ネオ生命へ社名変更したため、exact-name anchor を置く。Solvency / capital framework context は [[insurance/global-solvency-framework-comparison-matrix]] と [[insurance/INDEX]] を参照。
 
 ## 1. License / group boundary
 
