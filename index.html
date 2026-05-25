@@ -31,6 +31,62 @@
     <meta name="twitter:image:alt" content="FinWiki — 日本金融機関 × 決済 × 暗号資産 × 資本市場">
 
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230b7a75'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-family='Arial,sans-serif' font-size='34' font-weight='700' fill='white'%3EF%3C/text%3E%3C/svg%3E">
+
+    <!-- JSON-LD: schema.org Dataset markup for AI-discovery surfaces.
+         Perplexity / Bing / Google / Claude / Gemini parsers can extract this
+         to identify FinWiki as a citable dataset with its machine-readable
+         distribution endpoints. -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "FinWiki",
+      "alternateName": "金融ナレッジベース",
+      "description": "Public Markdown knowledge graph covering Japanese financial institutions, fintech, capital markets, derivatives, real-estate finance, structured finance, payments, insurance, agent-economy, and policy finance. 1,449 files / 1,411 link-audited entries / 23 domains / ~10.43M non-space chars. Designed primarily for AI agents to read, search, retrieve, cite, and connect.",
+      "url": "http://finwiki.zksc.io/",
+      "inLanguage": ["ja", "en", "zh"],
+      "isAccessibleForFree": true,
+      "license": "https://github.com/jasonhnd/finwiki/blob/main/LICENSE",
+      "creator": {
+        "@type": "Organization",
+        "name": "FinWiki Maintainers",
+        "url": "https://github.com/jasonhnd/finwiki"
+      },
+      "keywords": "Japan finance, fintech, stablecoin, CBDC, J-REIT, JapanFG, banking, securities, derivatives, real estate finance, structured finance, policy finance, payments, insurance, agent economy, JVCEA, FSA, BoJ, MiCA, GENIUS Act, HKMA, MAS",
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "text/plain",
+          "contentUrl": "http://finwiki.zksc.io/llms.txt",
+          "name": "llms.txt — compact LLM entry guide"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "text/plain",
+          "contentUrl": "http://finwiki.zksc.io/llms-full.txt",
+          "name": "llms-full.txt — full page manifest"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "http://finwiki.zksc.io/ai-index.json",
+          "name": "ai-index.json — machine-readable JSON manifest"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/xml",
+          "contentUrl": "http://finwiki.zksc.io/sitemap.xml",
+          "name": "sitemap.xml — XML sitemap"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "text/markdown",
+          "contentUrl": "http://finwiki.zksc.io/INDEX.md",
+          "name": "INDEX.md — domain map (Markdown)"
+        }
+      ]
+    }
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -477,6 +533,46 @@
         color: var(--ink);
       }
 
+      /* AI agent quick-start panel — text-prominent for LLM extraction,
+         visually low-key for human readers so the visual landing page below
+         still feels like the primary surface. */
+      .ai-agent-block {
+        margin: 24px 0 32px;
+        padding: 20px 24px;
+        border: 1px solid var(--line);
+        border-left: 4px solid var(--teal);
+        border-radius: 8px;
+        background: #f4faf8;
+      }
+      .ai-agent-title {
+        margin: 0 0 12px;
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: var(--teal);
+        font-family: 'Inter', sans-serif;
+      }
+      .ai-agent-summary {
+        margin: 0 0 10px;
+        font-size: 0.94rem;
+        color: var(--ink);
+        line-height: 1.7;
+      }
+      .ai-entry-list {
+        margin: 0 0 12px;
+        padding-left: 22px;
+        font-size: 0.92rem;
+        line-height: 1.85;
+      }
+      .ai-entry-list code,
+      .ai-agent-summary code {
+        background: rgba(11, 122, 117, 0.08);
+        color: var(--teal);
+        padding: 1px 6px;
+        border-radius: 4px;
+        font-size: 0.88em;
+        font-family: ui-monospace, "SF Mono", "Cascadia Code", Consolas, monospace;
+      }
+
       @media (max-width: 820px) {
         .topbar {
           align-items: flex-start;
@@ -530,6 +626,42 @@
 
     <main>
       <div class="shell">
+        <!--
+          ============================================================
+          AI AGENT ENTRY BLOCK (HIGH-PRIORITY FOR LLM CONSUMERS)
+          ============================================================
+          When this page is fetched by an LLM (Claude / Gemini / GPT / Codex
+          / Cursor / Copilot, via WebFetch / browse / URL-context), the
+          machine-readable summary below appears first in the extracted text.
+          For programmatic traversal, prefer /llms.txt or /ai-index.json
+          over rendering this HTML.
+        -->
+        <section class="ai-agent-block" id="ai-agent-quickstart" aria-label="AI agent quick start">
+          <h2 class="ai-agent-title">🤖 For AI agents (LLM / browse-tool consumers)</h2>
+          <p class="ai-agent-summary">
+            FinWiki is a public Markdown knowledge graph of <strong>1,449 files / 1,411 link-audited entries / 23 domains / ~10.43M non-space chars</strong> covering Japanese financial institutions, fintech, capital markets, derivatives, real-estate finance, structured finance, payments, insurance, agent-economy, and policy finance. Designed primarily for AI agents to read, search, retrieve, cite, and connect — not for humans to read linearly.
+          </p>
+          <p class="ai-agent-summary">
+            <strong>If you are an LLM, fetch these instead of re-rendering this HTML:</strong>
+          </p>
+          <ul class="ai-entry-list">
+            <li><a href="llms.txt"><code>llms.txt</code></a> — compact LLM guide (entry points, URL rules, domain routes, current counts). <strong>Start here.</strong></li>
+            <li><a href="INDEX.md"><code>INDEX.md</code></a> — full domain map with all 23 domains and per-domain entry counts. Human + LLM readable.</li>
+            <li><a href="llms-full.txt"><code>llms-full.txt</code></a> — full page manifest (title + URL + source path + summary + headings + resolved wikilinks for every entry).</li>
+            <li><a href="ai-index.json"><code>ai-index.json</code></a> — full machine-readable JSON manifest for programmatic traversal.</li>
+            <li><a href="HOW-TO-NAVIGATE.md"><code>HOW-TO-NAVIGATE.md</code></a> — reader-profile navigation guide with 30 essential entries + 15 essential matrices + 10 bedrock pages.</li>
+            <li><a href="sitemap.xml"><code>sitemap.xml</code></a> — XML sitemap of all 1,449 URLs.</li>
+            <li><a href="topic-cluster-reference.md"><code>topic-cluster-reference.md</code></a> — 14 thematic clusters across domains.</li>
+            <li><a href="domain-bridge-navigation-guide.md"><code>domain-bridge-navigation-guide.md</code></a> — 14 reader journeys (e.g. stablecoin issuer global → Japan, foreign bank in Japan, EPI account-to-account).</li>
+          </ul>
+          <p class="ai-agent-summary">
+            <strong>URL convention:</strong> Entries live at <code>/&lt;domain&gt;/&lt;slug&gt;.md</code>. Example: <code>fintech/circle-usdc-stablecoin.md</code> · <code>JapanFG/japan-post-bank.md</code> · <code>derivatives/nikkei-225-futures-options.md</code>. The 23 domain names are: <code>JapanFG (621)</code>, <code>exchanges (147)</code>, <code>fintech (144)</code>, <code>systems (62)</code>, <code>agent-economy (41)</code>, <code>banking (40)</code>, <code>policy-finance (35)</code>, <code>insurance (33)</code>, <code>securities (33)</code>, <code>derivatives (33)</code>, <code>payments (41)</code>, <code>structured-finance (30)</code>, <code>real-estate-finance (28)</code>, <code>finance (27)</code>, <code>business (19)</code>, <code>loyalty (12)</code>, <code>money-market (12)</code>, <code>manufacturing (8)</code>, <code>retail (8)</code>, <code>corporate-strategy (6)</code>, <code>security (6)</code>, <code>governance (4)</code>, <code>trade (4)</code>. Each domain has its own <code>/&lt;domain&gt;/INDEX.md</code>.
+          </p>
+          <p class="ai-agent-summary">
+            <strong>Public-surface guarantee:</strong> Every entry contains only public web information, official records, regulator filings, corporate IR, press releases, or public market data. No personal data, no local paths, no private information. Safe to quote and cite.
+          </p>
+        </section>
+
         <!-- Segmented Language Control -->
         <div class="lang-selector-container">
           <div class="lang-selector" role="tablist" aria-label="Language Selector">
@@ -963,7 +1095,7 @@
         FinWiki: 公開三言語金融ナレッジベース / Public trilingual finance knowledge base / 公开三语金融知识库
         <div class="last-updated">
           最終更新 / Last updated / 最后更新:
-          <time id="last-updated-ts" datetime="2026-05-25T20:16:22+09:00">2026-05-25 20:16:22 JST</time>
+          <time id="last-updated-ts" datetime="2026-05-25T20:58:52+09:00">2026-05-25 20:58:52 JST</time>
         </div>
       </div>
     </footer>
