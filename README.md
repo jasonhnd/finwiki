@@ -14,14 +14,14 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1235 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1319 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
-| Link-audited entries | 1203 | `tools/wiki_link_audit.py` が確認する public wiki entries |
+| Link-audited entries | 1281 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約620万字 | Markdown 全体の空白除外 UTF-8 文字数（約 6,200,000） |
-| Word-like tokens | 約970,000 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約872万字 | Markdown 全体の空白除外 UTF-8 文字数（約 8,723,428） |
+| Word-like tokens | 約214万 | English / CJK mixed corpus の近似 token count |
 
-> 集計基準: 2026-05-24 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
+> 集計基準: 2026-05-25 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
 ### 🚪 まず見る場所
 
@@ -137,14 +137,14 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1235 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1319 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
-| Link-audited entries | 1203 | Public wiki entries checked by `tools/wiki_link_audit.py` |
+| Link-audited entries | 1281 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~6.2M chars | ~6,200,000 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~970,000 | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~8.72M chars | ~8,723,428 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~2.14M | Approximate English / CJK mixed-corpus token count |
 
-> Counting basis: current repository snapshot as of 2026-05-24 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
+> Counting basis: current repository snapshot as of 2026-05-25 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
 ### 🚪 Primary Entrances
 
@@ -245,14 +245,14 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1235 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1319 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
-| Link-audited entries | 1203 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
+| Link-audited entries | 1281 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约620万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 6,200,000） |
-| Word-like tokens | 约970,000 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约872万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 8,723,428） |
+| Word-like tokens | 约214万 | English / CJK mixed corpus 的近似 token count |
 
-> 统计口径：2026-05-24 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
+> 统计口径：2026-05-25 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
 ### 🚪 优先入口
 

@@ -31,6 +31,100 @@
 
 ## 2026-05-25
 
+### Wave 10 — 旗艦欠缺実体 77 条新規エントリー / Wave 10 — flagship missing-entity expansion (77 new entries) / Wave 10 — 旗舰缺失实体扩写 (77 条新条目)
+
+#### 日本語記録
+
+- **背景**: Wave 5-9 後の全 corpus audit で判明した「旗艦実体不在」(Circle USDC / Japan Post Bank / JA Kyosai / Kampo / 主要 J-REIT / 主要 derivative product / 主要 money-market instrument / 主要 business case 等) を一括解消する。
+- **手法**: 10 並列 agent (A1-A10) を非重複ドメイン割当で展開。各 agent は cold-read で対象範囲を理解した上で、SCHEMA-compliant frontmatter + ≥3 body wikilinks + public URL sources のみで 5-12 条のエントリーを作成。
+- **エージェント別成果**:
+  - A1 banking/JFG 旗艦 (7): japan-post-bank, sony-bank, ui-bank, gmo-aozora-net-bank, daiwa-next-bank, japan-stablecoin-bank-perimeter-2025, jfc-kokumin-life-finance-division
+  - A2 fintech 稳定币 (8): **circle-usdc-stablecoin (重要欠缺閉合)**, stripe-usdb-bridge-stablecoin, fnality-wholesale-settlement, partior-jpm-dbs-temasek-consortium, jpm-onyx-wholesale-network, european-payments-initiative-wero, tether-usat-anchorage, tokenized-mmf-wisdomtree-hashnote
+  - A3 CBDC + DBJ 深化 (5): nigeria-enaira-retail-cbdc, bahamas-sand-dollar-cbdc, jamaica-jam-dex-cbdc, boe-digital-pound-consultation, policy-finance/dbj-mandate-deep-dive
+  - A4 insurance 構造欠缺 (5): **ja-kyosai-zenkyoren-overview (非 FSA 最大セクター)**, kampo-japan-post-insurance, medical-cancer-insurance-product-economics, cooperative-insurance-system-japan, bancassurance-economics-japan
+  - A5 exchanges 拡張 (8): jp-exchange-kraken-japan-historical, jp-exchange-bitpoint-historical-deprecated, dex-raydium-solana, dex-orca-solana, dex-jito-solana, dex-pendle, cex-bithumb-korea, cex-upbit-korea
+  - A6 derivatives 製品 (8): nikkei-225-futures-options, topix-futures, japan-single-stock-options, japan-swaption-market, japan-cms-constant-maturity-swap, japan-inflation-swap, jgb-inflation-linked-bond-jgbi, jgb-special-participants-primary-dealer
+  - A7 J-REIT + 結構化 (8): nippon-building-fund-j-reit-8951, japan-real-estate-j-reit-8952, nomura-real-estate-master-fund-nmf, glp-j-reit-3281, nippon-prologis-reit-3283, japan-covered-bond-mufg-smbc, japan-green-securitization, tmk-special-purpose-company-mechanics
+  - A8 money-market + securities (7): japan-cp-commercial-paper-market, japan-ncd-negotiable-cd-market, japan-tbill-treasury-discount-bill, japan-mmf-money-market-mutual-fund, boj-post-2024-floor-system-complementary-deposit-facility, nisa-2025-tax-reform-update, japan-ipo-2024-2025-case-study-kioxia-tokyo-metro
+  - A9 business + corporate-strategy (9): sony-fg-partial-spinoff-case, softbank-vision-fund-arm-ipo-template, rakuten-group-mobile-finance-bundling-case, ntt-docomo-d-point-telco-finance-case, cz-binance-founder-handoff-case, jpx-public-company-as-market-infrastructure, kabushiki-koufu-stock-distribution-regime, spinoff-decision-tree-japan, toshiba-tob-squeeze-out-2023-2024-case
+  - A10 finance + agent-economy + systems (12): jftc-merger-control-process, japan-takeover-defense-poison-pill, carve-out-divestiture-japan, skyfire-closed-loop-agent-issuer, nevermined-compute-payment-protocol, lit-protocol-pkp-agent-keys, crossmint-agent-sdk, ibc-cosmos-cross-chain, polkadot-xcm-parachain-messaging, sui-aptos-move-l1-ecosystem, ton-telegram-openwallet-ecosystem, mev-flashbots-suave-order-flow-auction
+- **検証**:
+  - `wiki_link_audit.py`: 1281 entries / 0 issues (1 件の missing_peer_link は sony-fg-partial-spinoff-case に SoftBank/JPX peer link を追記して解消)
+  - `generate_ai_discovery.py`: 1319 / 1318 / 1319 / 23 / 1281
+  - 公開面違反スキャン: 0 件 (全ファイル `公開情報整理 (...)` 形式の public-source 記述のみ)
+- **数値スナップショット**:
+  - Markdown files: 1242 → **1319** (+77)
+  - Link-audited entries: 1204 → **1281** (+77)
+  - Text volume: 約 796 万字 → 約 **872 万字** (+76 万字, +9.5%)
+  - Token count: 約 127 万 → 約 **214 万** (測定方法精度向上分含む)
+  - 23 ドメインのうち 14 ドメインで件数増加 (JapanFG +2 / exchanges +8 / fintech +12 / systems +5 / agent-economy +4 / banking +5 / business +6 / policy-finance +2 / insurance +5 / finance +3 / money-market +5 / corporate-strategy +3 / securities +2 / derivatives +8 / real-estate-finance +5 / structured-finance +3)
+- **後続 (Wave 11 計画)**: 33 比較マトリクス + 約 40 件の date staleness refresh (MiCA / HKMA / MAS / GENIUS / EPI bedrock pages の Wave 8-9 数字 back-propagation, FSA snapshot refresh, NISA 2025, IPO 2024-2025) + schema cleanup (約 92 件の `sources: []` 補完、legacy frontmatter key 整理、INDEX self-count 修復)。
+
+#### English Record
+
+- **Context**: Following the Wave 5-9 audit findings of "flagship entity gaps" — Circle USDC missing despite 100+ references; Japan Post Bank ¥200tn deposits absent; JA Kyosai (Japan's largest non-FSA insurance sector) entirely uncovered; major individual J-REITs not standalone; major derivative products (Nikkei 225 futures, swaption, JGBi, primary dealer system) only in matrices; money-market missing CP/NCD/TBill/MMF/post-2024 floor system; insurance missing Kampo and medical products; business missing 6 canonical cases (Sony FG spinoff, SoftBank/Arm, Rakuten/Docomo, CZ/Binance, JPX, Toshiba going-private) — dispatched 10 parallel content-writer agents to close all 77 gaps in one wave.
+- **Method**: Each agent received self-contained brief with SCHEMA reference, style-anchor file paths, public-source-only constraint, and 5-12 specific entry topics with content guidance. All entries follow canonical frontmatter (title/aliases/domain/dates/confidence/tags/status/sources), include ≥3 body wikilinks before `## Related`, cite public URLs (issuer IR, regulator pages, central banks, JPX/EDINET/SEC EDGAR), and avoid `projects/cgv/`-style internal references.
+- **Results per agent** (mirror of Japanese log above): A1=7 banking/JFG, A2=8 fintech stablecoin, A3=5 CBDC+DBJ, A4=5 insurance, A5=8 exchanges, A6=8 derivatives, A7=8 J-REIT+structured, A8=7 money-market+securities, A9=9 business+corp-strategy, A10=12 finance+agent+systems. **Total 77 new entries.**
+- **Validation**: `wiki_link_audit.py` → 1281 entries / 0 issues (one missing_peer_link in `business/sony-fg-partial-spinoff-case.md` resolved by adding SoftBank/Arm + JPX peer-route links); `generate_ai_discovery.py` → 1319/1318/1319/23/1281; public-surface scan → 0 violations.
+- **Numerical snapshot**: 1242→1319 files (+77), 1204→1281 link-audited (+77), ~7.96M→~8.72M chars (+760K, +9.5%), domain entry counts updated in INDEX.md domain map for all 16 affected domains.
+- **Next (Wave 11 plan)**: 33 comparison matrices + ~40 currency-refresh updates (MiCA/HKMA/MAS/GENIUS/EPI bedrock back-propagation, FSA snapshot, NISA 2025, IPO 2024-2025) + schema cleanup (~92 empty `sources: []`, legacy keys, INDEX self-count drift).
+
+#### 中文记录
+
+- **背景**: Wave 5-9 全 corpus 审计揭示「旗舰实体缺失」: Circle USDC 被引用 100+ 次却无独立页；Japan Post Bank ¥200tn 存款规模缺位；JA Kyosai 作为日本最大非 FSA 保险板块完全无覆盖；主要 J-REIT 仅在矩阵中提及；衍生品 Nikkei 225 期权/swaption/JGBi/primary dealer 体系无独立页；money-market 缺 CP/NCD/TBill/MMF/2024 post-floor system；保险缺 Kampo 和医保产品；business 缺 6 个标杆案例 (Sony FG 分拆 / SoftBank Arm / Rakuten Docomo / CZ Binance / JPX / Toshiba going-private)。一次性闭合 77 个缺口。
+- **方法**: 10 并行 content-writer agent (A1-A10)，非重叠领域分配。每 agent 接收自包含 brief，含 SCHEMA 引用 / 风格 anchor 文件路径 / 公开来源约束 / 5-12 个主题清单。所有新建条目遵循 canonical frontmatter，≥3 body wikilinks，引用 public URL，杜绝 `projects/cgv/` 内部引用。
+- **各 agent 成果** (与日文记录对齐): A1=7 / A2=8 / A3=5 / A4=5 / A5=8 / A6=8 / A7=8 / A8=7 / A9=9 / A10=12。**总计 77 条新建。**
+- **验证**: link audit 1281/0；AI discovery 1319/1318/1319/23/1281；公开面违规 0。
+- **数字快照**: 1242→1319 (+77) / 1204→1281 (+77) / 约 796 万字→约 872 万字 (+76 万 +9.5%) / 16 个域 INDEX domain map 数字同步。
+- **后续 Wave 11**: 33 对比矩阵 + 约 40 条 date refresh + schema 清理 (约 92 个空 `sources:` / 5 处 INDEX 自计数漂移修复)。
+
+---
+
+### 全 1241 文件 audit + 公開面違反修復 + cpaaob 補完 + AGENTS.md 三言語化 / Full-corpus audit + public-surface fix + cpaaob backfill + AGENTS.md trilingual repair / 全1241文件审计 + 公开面违规修复 + cpaaob 补建 + AGENTS.md 三语化
+
+#### 日本語記録
+
+- **背景**: Wave 5-9 直後の corpus 全体品質審査要求に対し、10 並列 agent で 23 領域 1241 ファイルを cold-read で全件 audit。
+- **発見した重大問題**:
+  1. **公開面違反 (HIGH)**: 13 個の `exchanges/` ファイルが `来源: projects/cgv/jp-crypto-exchange-research/` という内部ステージング・ディレクトリ参照を含んでいた。
+  2. **断リンク (HIGH)**: `[[JapanFG/cpaaob]]` が `fsa-supervision-bureau` / `fsa-inspection-bureau` / `fsa-strategy-bureau` / `fsa-planning-coordination-bureau` の 4 ファイルで 7 回参照されているが、`JapanFG/cpaaob.md` は存在せず、ai-index.json には既に dead URL が公表されていた。
+  3. **AGENTS.md 自身が三言語規則違反 (HIGH)**: 順序が「中文 → 日本語」で English ブロック完全欠落 — 自分のルールに反する。
+  4. **数字漂移 (MEDIUM)**: README が 1235 files / 約 620 万字 / 約 97 万 tokens を主張するも、実測は 1242 / 約 796 万字 / 約 127 万 tokens。
+- **修復**:
+  - 13 個の `exchanges/*.md` の `projects/cgv/...` 参照を、各事案の公開ソース記述 (FSA 公表 / IR / Chainalysis 等) に置換。
+  - `JapanFG/cpaaob.md` 新規作成 (170 行、CPAAOB の法的位置づけ・主要機能・JICPA との役割分担・ガバナンス・counterpoints・open questions を含む)。
+  - `AGENTS.md` を「日本語 → English → 中文」の正しい順序に再配列し、欠落していた English ブロックを追加。
+  - `README.md` 三箇所と `INDEX.md` の数値を、2026-05-25 JST 実測値に同期更新。
+- **検証**: `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` → `entries_checked=1204 entries_with_issues=0`. `python tools/generate_ai_discovery.py` → `markdown_files=1242 public_pages=1241 sitemap_urls=1242 domains=23 link_audited_entries=1204`. `grep "projects/cgv/"` → 0 件残存。
+- **領域別 audit 結果** (詳細は audit transcripts 参照): JapanFG A- / exchanges B+→A- (修復後) / fintech B+ / systems B- / agent-economy A- / banking A- / policy-finance B+ / capital-markets B+ / payments A- / insurance B+ / real-estate-finance A- / structured-finance A- / business C+ / corporate-strategy B- / governance B / manufacturing C / retail A- / loyalty A- / security C / trade B-.
+- **次の作業 (P1 backlog)**: business/ の 8 wrong-route boilerplate 修復、insurance/ の Kyosai/Kampo/医保補完、money-market/ の CP/NCD/TBill/MMF 補完、policy-finance/ の DBJ・Japan Post Bank 独立ページ、systems/ の 6 stub の本文充実 (post-quantum / threshold-bft / EIP-7708 / formal-spec / l1-decentralization / multi-proof)、約 92 ファイルの `sources: []` 空配列の補完。
+
+#### English Record
+
+- **Context**: Following the Wave 5-9 mega-expansion, dispatched 10 parallel cold-read audit agents across all 23 domains / 1241 files.
+- **Critical findings**:
+  1. **Public-surface violation (HIGH)**: 13 `exchanges/` files contained `来源: projects/cgv/jp-crypto-exchange-research/` — an internal staging-directory reference.
+  2. **Broken cross-reference (HIGH)**: `[[JapanFG/cpaaob]]` referenced 7 times across 4 files but `JapanFG/cpaaob.md` did not exist; the dead URL had already been published to `ai-index.json`.
+  3. **AGENTS.md self-violation (HIGH)**: Ordered "中文 → 日本語" with English block missing entirely — violating its own trilingual rule.
+  4. **Count drift (MEDIUM)**: README claimed 1235 files / ~6.2M chars / ~970K tokens; actual was 1242 / ~7.96M / ~1.27M.
+- **Fixes**: Replaced 13 internal-path references with public-source descriptions (FSA, IR, Chainalysis, etc.); created `JapanFG/cpaaob.md` (170 lines: legal status, functions, JICPA role split, governance position, counterpoints, open questions); reordered `AGENTS.md` to ja → en → zh with added English block; synced README (3 places) + INDEX numerical snapshot to 2026-05-25 JST actuals.
+- **Validation**: `wiki_link_audit.py` → 1204 entries / 0 issues; `generate_ai_discovery.py` → 1242/1241/1242/23/1204; `grep projects/cgv/` → 0 hits remaining.
+- **Per-domain audit verdicts**: JapanFG A- / exchanges B+→A- (post-fix) / fintech B+ / systems B- / agent-economy A- / banking A- / policy-finance B+ / capital-markets B+ / payments A- / insurance B+ / real-estate-finance A- / structured-finance A- / business C+ / corporate-strategy B- / governance B / manufacturing C / retail A- / loyalty A- / security C / trade B-.
+- **P1 backlog**: fix 8 wrong-route boilerplates in business/, build Kyosai/Kampo/medical-insurance pages, add CP/NCD/TBill/MMF in money-market/, add DBJ and Japan Post Bank standalone in policy-finance/, fill out 6 systems/ stubs, populate ~92 files with empty `sources: []`.
+
+#### 中文记录
+
+- **背景**: Wave 5-9 后启动全 corpus 质量审计，10 个并行 agent 冷读 23 个领域共 1241 文件。
+- **关键发现**:
+  1. **公开面违规 (HIGH)**: 13 个 `exchanges/` 文件包含 `来源: projects/cgv/jp-crypto-exchange-research/` 内部 staging 目录引用。
+  2. **断链 (HIGH)**: `[[JapanFG/cpaaob]]` 在 4 个文件中被引用 7 次，但 `JapanFG/cpaaob.md` 不存在，且 dead URL 已发布到 ai-index.json。
+  3. **AGENTS.md 自身违规 (HIGH)**: 排序为「中文 → 日本語」，完全缺失 English 段 — 违反自身规则。
+  4. **数字漂移 (MEDIUM)**: README 声称 1235 文件 / 约 620 万字 / 约 97 万 tokens；实测 1242 / 约 796 万字 / 约 127 万 tokens。
+- **修复**: 13 个 exchanges 文件的内部路径引用替换为公开来源描述；新建 `JapanFG/cpaaob.md` (170 行)；`AGENTS.md` 重排为日→英→中并补全 English 段；README 三处和 INDEX 数字同步到 2026-05-25 JST 实测值。
+- **验证**: link audit 1204/0；AI discovery 1242/1241/1242/23/1204；`projects/cgv/` 残留 0 处。
+- **各域评级**: JapanFG A- / exchanges B+→A- / fintech B+ / systems B- / agent-economy A- / banking A- / policy-finance B+ / capital-markets B+ / payments A- / insurance B+ / real-estate-finance A- / structured-finance A- / business C+ / corporate-strategy B- / governance B / manufacturing C / retail A- / loyalty A- / security C / trade B-。
+- **P1 后续**: 修 business/ 8 处 wrong-route；补 Kyosai/Kampo/医保；money-market/ 补 CP/NCD/TBill/MMF；policy-finance/ 补 DBJ 和 Japan Post Bank 独立页；systems/ 6 个 stub 充实；约 92 文件 `sources: []` 空数组补全。
+
 ### Wave 5-9 大規模拡張 (5 waves / 178 entries / 25 matrices / 3 new domains) / Wave 5-9 mega-expansion / Wave 5-9 大规模扩展
 
 #### 日本語記録

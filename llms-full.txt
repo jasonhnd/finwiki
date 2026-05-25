@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-25T05:53:26+09:00
+Generated: 2026-05-25T11:12:23+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1241
-Public pages listed: 1240
+Markdown files: 1319
+Public pages listed: 1318
 
 ## Reading Rules
 
@@ -19,7 +19,7 @@ Public pages listed: 1240
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/AGENTS.md
 - Domain: root
 - Type: control_doc
-- Headings: FinWiki Agent Instructions, Required Trilingual Documentation, 中文, 日本語
+- Headings: FinWiki Agent Instructions, Required Trilingual Documentation, 日本語, English, 中文
 
 ### CHANGELOG
 - URL: https://finwiki.zksc.io/CHANGELOG
@@ -27,8 +27,8 @@ Public pages listed: 1240
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Summary: 2026-05-25 JST、Wave 4 (v2026.05.24-3) 完了後の 5 wave 並列拡張。Wave 5-8 各 10 並列 agent + Wave 9 infrastructure sync で 178 件新規 entry + 25 件 comparison matrix + 3 new domains + 5 trilingual release notes を一括出荷。
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-25, Wave 5-9 大規模拡張 (5 waves / 178 entries / 25 matrices / 3 new domains) / Wave 5-9 mega-expansion / Wave 5-9 大规模扩展, 2026-05-25 — Wave 5-9 大規模拡張 (5 waves / 178 entries / 25 matrices / 3 new domains)
+- Summary: 1. 公開面違反 (HIGH): 13 個の exchanges/ ファイルが 来源: projects/cgv/jp-crypto-exchange-research/ という内部ステージング・ディレクトリ参照を含んでいた。 2. 断リンク (HIGH): JapanFG/cpaaob が fsa-supervision-bureau / fsa-inspection-bureau / fsa-strategy-bureau / fsa-planning-coordination-bureau の 4 ファイルで 7 回参照されているが、JapanFG/cpaaob.md は存在せず、ai-
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-25, Wave 10 — 旗艦欠缺実体 77 条新規エントリー / Wave 10 — flagship missing-entity expansion (77 new entries) / Wave 10 — 旗舰缺失实体扩写 (77 条新条目), 全 1241 文件 audit + 公開面違反修復 + cpaaob 補完 + AGENTS.md 三言語化 / Full-corpus audit + public-surface fix + cpaaob backfill + AGENTS.md trilingual repair / 全1241文件审计 + 公开面违规修复 + cpaaob 补建 + AGENTS.md 三语化
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### FinWiki Index
@@ -870,6 +870,16 @@ Public pages listed: 1240
 - Summary: This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）, Wiki route, TL;DR, 1. 公司结构, 2025-03 期決算（FY2024 通期 連結実績）^[extracted], 2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted], 主要子会社・組織, 合併歴史・前身
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/rakuten-fg, https://finwiki.zksc.io/resona-hd, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg, https://finwiki.zksc.io/sumitomo-mitsui-trust
+
+### 公認会計士・監査審査会 (CPAAOB)
+- URL: https://finwiki.zksc.io/JapanFG/cpaaob
+- Source path: JapanFG/cpaaob.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/cpaaob.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index. Read it alongside FSA 監督局 and FSA 検査局 (historical) for the supervisory boundary, and against FSA 総合政策局 / FSA 企画市場局 for the rule-making and policy interfaces. For the audit-firm side, anchor through EY 新日本 · トーマツ · KPMG あずさ · PwC あらた (Big 4) and 太陽グラントソントン · BDO 三
+- Headings: 公認会計士・監査審査会 (CPAAOB), Wiki route, TL;DR, 1. 法的位置づけ, 2. 主要機能, 2.1 公認会計士試験 (CPA Examination), 2.2 監査法人・公認会計士検査 (Audit Firm Inspection), 2.3 監査品質管理レビュー (Quality Control Review)
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-inspection-bureau, https://finwiki.zksc.io/JapanFG/fsa-planning-coordination-bureau, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton
 
 ### クレディ・アグリコル銀行 東京支店
 - URL: https://finwiki.zksc.io/JapanFG/credit-agricole-bank-japan
@@ -2150,6 +2160,16 @@ Public pages listed: 1240
 - Summary: Japan's policy-finance system is a stack of special-purpose public finance institutions, not one government bank. For JapanFG analysis, the useful routing is:
 - Headings: Japan policy-finance map, TL;DR, Institution Map, Legal / Mandate Layer, Use-Case Routing, JapanFG Relevance, Boundary Cases, Counterpoints
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/local-govt-finance, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/okinawa-fg, https://finwiki.zksc.io/JapanFG/okinawa-kaiho-bank, https://finwiki.zksc.io/JapanFG/okinawa-shinko, https://finwiki.zksc.io/JapanFG/ryukyu-bank
+
+### Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile
+- URL: https://finwiki.zksc.io/JapanFG/japan-post-bank
+- Source path: JapanFG/japan-post-bank.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/japan-post-bank.md
+- Domain: JapanFG
+- Type: wiki_entry
+- Summary: This entry sits under JapanFG index as the operating-profile companion to the entity anchor at ゆうちょ銀行 (Japan Post Bank) entity anchor. Read it against MUFG · SMFG · Mizuho FG for the megabank-asset-class peer comparison, against りそなホールディングス for the listed non-megabank universal-bank peer, against co
+- Headings: Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile, Wiki route, TL;DR, 1. Group and ownership position, Three-bank parent chain (post-IPO), Why the JP Holdings ownership chain matters, Reference timeline, 2. Balance-sheet structure — why JPB is unusual
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/japan-post, https://finwiki.zksc.io/JapanFG/japan-post-holdings, https://finwiki.zksc.io/JapanFG/kanpo-life, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/JapanFG/yucho, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank
 
 ### 日本証券金融 (JSF)
 - URL: https://finwiki.zksc.io/JapanFG/japan-securities-finance
@@ -5991,6 +6011,16 @@ Public pages listed: 1240
 - Headings: Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-seven-layers, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel, https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper, https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/erc-7702-overview
 
+### Crossmint agent SDK · NFT and wallet abstraction for AI agents
+- URL: https://finwiki.zksc.io/agent-economy/crossmint-agent-sdk
+- Source path: agent-economy/crossmint-agent-sdk.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/crossmint-agent-sdk.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, embedded wallet consolidation for market context, and embedded wallet moat for value-capture framing.
+- Headings: Crossmint agent SDK · NFT and wallet abstraction for AI agents, Wiki route, Key facts, What Crossmint provides for AI agents, Crossmint vs Privy vs Dynamic vs Magic, Where Crossmint sits in the agent stack, Origin and evolution, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/embedded-wallet-landscape-2026-consolidation, https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat, https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol, https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer, https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow
+
 ### Embedded-wallet custody bankruptcy mechanics · what happens to end-user funds if Privy / Stripe / Coinbase CDP / AWS Bedrock fails
 - URL: https://finwiki.zksc.io/agent-economy/embedded-wallet-custody-bankruptcy-mechanics
 - Source path: agent-economy/embedded-wallet-custody-bankruptcy-mechanics.md
@@ -6061,6 +6091,26 @@ Public pages listed: 1240
 - Headings: ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow, https://finwiki.zksc.io/systems/erc-7702-overview, https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337
 
+### Lit Protocol PKP · Programmable Key Pairs for AI agents
+- URL: https://finwiki.zksc.io/agent-economy/lit-protocol-pkp-agent-keys
+- Source path: agent-economy/lit-protocol-pkp-agent-keys.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/lit-protocol-pkp-agent-keys.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, ERC-7715 wallet permissions for the policy / scope layer, and threshold BFT for the underlying cryptography family.
+- Headings: Lit Protocol PKP · Programmable Key Pairs for AI agents, Wiki route, Key facts, Mechanism — how PKPs sign for agents, Where PKP fits in agent stacks, Comparison vs embedded wallet operators, Origin and evolution, Use cases for AI agents
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat, https://finwiki.zksc.io/agent-economy/erc-4337-account-abstraction-primer-for-agents, https://finwiki.zksc.io/agent-economy/erc-7702-eoa-delegation-primer-for-agents, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
+
+### Nevermined · AI compute-payment protocol
+- URL: https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol
+- Source path: agent-economy/nevermined-compute-payment-protocol.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/nevermined-compute-payment-protocol.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP-native micropayment for peer / contrast, skill market monetization for the marketplace framing, and payments index for the broader rail context.
+- Headings: Nevermined · AI compute-payment protocol, Wiki route, Key facts, Mechanism — how Nevermined routes compute payments, Compute-marketplace fit, Integration with x402, Where Nevermined sits, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/skill-market-monetization, https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/payments/INDEX
+
 ### Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位
 - URL: https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet
 - Source path: agent-economy/privy-aws-agentcore-default-wallet.md
@@ -6090,6 +6140,16 @@ Public pages listed: 1240
 - Summary: This entry sits under Agent 支付基础设施研究报告. Read it with Agent 主体性辩论：四个阵营 for adjacent context and FinWiki index for the broader system boundary.
 - Headings: Skill 市场收费化, Wiki route, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research, https://finwiki.zksc.io/agent-economy/agent-actorship-debate, https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape, https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/erc-7702-overview
+
+### Skyfire · closed-loop card-network agent payment issuer
+- URL: https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer
+- Source path: agent-economy/skyfire-closed-loop-agent-issuer.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/agent-economy/skyfire-closed-loop-agent-issuer.md
+- Domain: agent-economy
+- Type: wiki_entry
+- Summary: This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP 402 stablecoin rail and AP2 · Google mandate protocol for peer / contrast, Visa / Mastercard agentic-commerce pilots for card-network framing, and payments index for the broader regulatory boundary.
+- Headings: Skyfire · closed-loop card-network agent payment issuer, Wiki route, Key facts, Mechanism — what closed-loop means here, Where Skyfire sits in the seven-protocol map, Competitive positioning, Origin and evolution, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/agent-actorship-debate, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position, https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/payments/INDEX
 
 ### Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)
 - URL: https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview
@@ -6221,6 +6281,16 @@ Public pages listed: 1240
 - Headings: Custody Bank of Japan operating model, Wiki route, TL;DR, 1. 機関位置, Shareholder structure (public disclosure), Why two specialist custodians, not one, Lineage diagram, 2. 主要業務
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/progmat, https://finwiki.zksc.io/JapanFG/state-street-japan, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/INDEX
 
+### Daiwa Next Bank operating profile (大和ネクスト銀行)
+- URL: https://finwiki.zksc.io/banking/daiwa-next-bank
+- Source path: banking/daiwa-next-bank.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/daiwa-next-bank.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at 大和ネクスト銀行 entity anchor. Read it within the segment map at Japan net bank competition map, with parent context at Daiwa Securities Group and the to-be-consolidated Orix Bank page, against the securities-adj
+- Headings: Daiwa Next Bank operating profile (大和ネクスト銀行), Wiki route, TL;DR, 1. Identity and group position, Why a securities group built a bank, Group structure (post-Orix Bank acquisition completion), 2. Product franchise, Brokerage-linked deposit core (MRF / sweep mechanics)
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/au-kabucom-securities, https://finwiki.zksc.io/JapanFG/daiwa-asset-management, https://finwiki.zksc.io/JapanFG/daiwa-living-trust, https://finwiki.zksc.io/JapanFG/daiwa-next-bank, https://finwiki.zksc.io/JapanFG/daiwa-securities, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/orix-bank, https://finwiki.zksc.io/JapanFG/rakuten-securities, https://finwiki.zksc.io/JapanFG/sbi-securities, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank
+
 ### Foreign-bank Japan retreat pattern
 - URL: https://finwiki.zksc.io/banking/foreign-bank-japan-retreat
 - Source path: banking/foreign-bank-japan-retreat.md
@@ -6230,6 +6300,16 @@ Public pages listed: 1240
 - Summary: This entry sits under banking index. Read it against Post-megabank positioning for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.
 - Headings: Foreign-bank Japan retreat pattern, Wiki route, Overview, Pattern Map, Why Retail Is Hard, Regulatory Reading, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/agricultural-bank-of-china-japan, https://finwiki.zksc.io/JapanFG/anz-bank-japan, https://finwiki.zksc.io/JapanFG/bangkok-bank-japan, https://finwiki.zksc.io/JapanFG/bank-of-america-japan, https://finwiki.zksc.io/JapanFG/bank-of-china-japan, https://finwiki.zksc.io/JapanFG/bank-of-communications-japan, https://finwiki.zksc.io/JapanFG/bank-of-india-japan, https://finwiki.zksc.io/JapanFG/bank-of-taiwan-japan, https://finwiki.zksc.io/JapanFG/bbva-bank-japan, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/china-construction-bank-japan
+
+### GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)
+- URL: https://finwiki.zksc.io/banking/gmo-aozora-net-bank
+- Source path: banking/gmo-aozora-net-bank.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/gmo-aozora-net-bank.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at GMO あおぞらネット銀行 entity anchor. Read it within the segment map at Japan net bank competition map, against the corporate-API peer 住信SBIネット銀行 / NEOBANK and the consumer-led net-bank cohort Rakuten Bank · PayPay
+- Headings: GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行), Wiki route, TL;DR, 1. Identity and ownership, How the JV came together, Group-context positioning, 2. Product franchise, Corporate / SME / freelancer account franchise
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/aozora-bank, https://finwiki.zksc.io/JapanFG/gmo-aozora-net, https://finwiki.zksc.io/JapanFG/gmo-click-securities, https://finwiki.zksc.io/JapanFG/gmo-coin, https://finwiki.zksc.io/JapanFG/gmo-financial-hd, https://finwiki.zksc.io/JapanFG/gmo-payment-gateway, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/daiwa-next-bank
 
 ### JA Bank system in Japan
 - URL: https://finwiki.zksc.io/banking/ja-bank-system-japan
@@ -6310,6 +6390,16 @@ Public pages listed: 1240
 - Summary: Post-1990 regional-bank consolidation in Japan has produced a layered map of bank holding companies, each combining one or more first-regional ("地銀") and/or second-regional ("第二地銀") predecessors, and in some cases a credit-cooperative / 新銀行 predecessor. This matrix collects the surviving FG name, ye
 - Headings: Japan regional bank M&A consolidation family-tree matrix, TL;DR, Wiki route, Why this family-tree matters, Cross-FG family-tree comparison table, Cross-axis: which FG combined which tier of predecessor banks, How to read this matrix, Key consolidation events as turning points
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/18-shinwa-bank\, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aichi-bank\, https://finwiki.zksc.io/JapanFG/aichi-fg, https://finwiki.zksc.io/JapanFG/aichi-fg\, https://finwiki.zksc.io/JapanFG/aomori-bank\, https://finwiki.zksc.io/JapanFG/ashikaga-bank\, https://finwiki.zksc.io/JapanFG/cci-group, https://finwiki.zksc.io/JapanFG/cci-group\, https://finwiki.zksc.io/JapanFG/chukyo-bank\
+
+### Japan stablecoin / BaaS bank perimeter (2025–2026)
+- URL: https://finwiki.zksc.io/banking/japan-stablecoin-bank-perimeter-2025
+- Source path: banking/japan-stablecoin-bank-perimeter-2025.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/japan-stablecoin-bank-perimeter-2025.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: This entry sits under banking index as the bank-side perimeter view of the Japan stablecoin / electronic-payment-instrument (EPI) regulatory architecture. Read it with 日本 Stablecoin 法制度の三層構造 for the fintech-side perimeter view, with the platform anchor Progmat and the issuer anchors JPYC · SBI VC Tr
+- Headings: Japan stablecoin / BaaS bank perimeter (2025–2026), Wiki route, TL;DR, 1. The three-layer perimeter, 2. Why each issuer route is distinct on the bank side, Deposit token — within the standard bank deposit regime, Bank-issued EPI (預金型) — bridging deposit and broader circulation, Trust-type EPI (信託型) — the institutional-platform lane
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/japan-exchange-group, https://finwiki.zksc.io/JapanFG/jpyc, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/progmat, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/baas-japan-landscape
 
 ### Japan trust bank and custody map
 - URL: https://finwiki.zksc.io/banking/japan-trust-bank-custody-map
@@ -6481,6 +6571,16 @@ Public pages listed: 1240
 - Headings: Japan shinkin bank registry, Wiki route, TL;DR, 1. Registry snapshot, 2. Coverage decision, 3. Supervisory-bureau count, 4. Prefecture count, 5. Prefecture name index
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern
 
+### Sony Bank operating profile (ソニー銀行)
+- URL: https://finwiki.zksc.io/banking/sony-bank
+- Source path: banking/sony-bank.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/sony-bank.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at ソニー銀行 (Sony Bank) entity anchor. Read it inside the net-bank-segment map at Japan net bank competition map, with the parent-group context at Sony Financial Group, and against peers Rakuten Bank · PayPay Ba
+- Headings: Sony Bank operating profile (ソニー銀行), Wiki route, TL;DR, 1. Identity and ownership, Where Sony Bank sits inside the parent, 2. Product franchise — what differentiates Sony Bank, Multi-currency deposit + FX core, Mortgage origination
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/au-kabucom-securities, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/JapanFG/sbi-securities, https://finwiki.zksc.io/JapanFG/sony-bank, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/sony-insurance, https://finwiki.zksc.io/JapanFG/sony-life, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/daiwa-next-bank, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix
+
 ### Japan trust bank custody operating comparison
 - URL: https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison
 - Source path: banking/trust-bank-custody-operating-comparison.md
@@ -6500,6 +6600,16 @@ Public pages listed: 1240
 - Summary: This entry sits under banking index and complements the operating-model deep dives — read it alongside Master Trust Bank operating model, Custody Bank operating model, Japan master trust and custody bank landscape, the cross-camp matrix Japan trust bank vs global custodian comparison matrix, and the
 - Headings: Trust bank fee structure comparison, Wiki route, TL;DR, 1. 機関位置, 2. 主要業務 — fee-line breakdown, Custody fee mechanics, Pension trust admin fees, Securities investment trust admin fees
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/nochu-trust-bank, https://finwiki.zksc.io/JapanFG/smbc-group, https://finwiki.zksc.io/JapanFG/smbc-trust-bank
+
+### UI Bank operating profile (UI銀行 / きらぼし FG 系)
+- URL: https://finwiki.zksc.io/banking/ui-bank
+- Source path: banking/ui-bank.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/ui-bank.md
+- Domain: banking
+- Type: wiki_entry
+- Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at UI銀行 entity anchor. Read it within the segment map at Japan net bank competition map, next to the regional-digital-bank peers Minna Bank BaaS model · 01 Bank, with the parent context at 東京きらぼし FG and きらぼし銀
+- Headings: UI Bank operating profile (UI銀行 / きらぼし FG 系), Wiki route, TL;DR, 1. Identity and group position, Why a separate license from きらぼし銀行, Group structure, 2. Product franchise, Account, deposit, payment
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/01-bank, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/JapanFG/kiraboshi-bank, https://finwiki.zksc.io/JapanFG/kiraboshi-fg, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/JapanFG/saitama-resona-bank, https://finwiki.zksc.io/JapanFG/ui-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/daiwa-next-bank
 
 ### Business domain
 - URL: https://finwiki.zksc.io/business/INDEX
@@ -6530,6 +6640,16 @@ Public pages listed: 1240
 - Summary: This entry sits under GMO Internet Group. Read it against larry fink blackrock digital asset template for peer / contrast context and fintech index for the broader system / regulatory boundary.
 - Headings: 关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template, https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization
+
+### Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership
+- URL: https://finwiki.zksc.io/business/cz-binance-founder-handoff-case
+- Source path: business/cz-binance-founder-handoff-case.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/cz-binance-founder-handoff-case.md
+- Domain: business
+- Type: wiki_entry
+- Summary: This entry sits under business INDEX as a public people-case study (note: Binance is privately held, but the founder transition is a public-record case). Read it against Brian Armstrong Coinbase exchange-as-public-company template for the contrasting US-listed-incumbent path, Jamie Dimon anti-crypto
+- Headings: Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership, Wiki route, TL;DR, 1. Pre-Settlement Position, 2. The November 2023 Settlement Architecture, 3. The Founder-Handoff Mechanism, 4. Richard Teng — Regulator-To-CEO Credential, 5. Post-Handoff Trajectory (2024-2025)
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/bitflyer, https://finwiki.zksc.io/JapanFG/bittrade, https://finwiki.zksc.io/JapanFG/gmo-coin, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template, https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo, https://finwiki.zksc.io/business/founder-pivot-outcome-template-matrix, https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case, https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case, https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template
 
 ### Founder / executive pivot outcome template matrix
 - URL: https://finwiki.zksc.io/business/founder-pivot-outcome-template-matrix
@@ -6571,6 +6691,16 @@ Public pages listed: 1240
 - Headings: 反加密 CEO 转向支持的被动适应案例 · Jamie Dimon / JPM, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case, https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case, https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template, https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate
 
+### Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure
+- URL: https://finwiki.zksc.io/business/jpx-public-company-as-market-infrastructure
+- Source path: business/jpx-public-company-as-market-infrastructure.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/jpx-public-company-as-market-infrastructure.md
+- Domain: business
+- Type: wiki_entry
+- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against Brian Armstrong Coinbase exchange-as-public-company template for the crypto-native parallel, GMO Internet Group for an internet-infrastructure-to-finance parallel, and securities INDEX / Japan market infrastruct
+- Headings: Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure, Wiki route, TL;DR, 1. Group Structure, 2. The 2013 TSE-OSE Merger — Strategic Rationale, 3. Business Mix, 4. Comparison With Global Listed Exchange Operators, 5. The Regulator-Utility-Public-Company Tension
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template, https://finwiki.zksc.io/business/cz-binance-founder-handoff-case, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route, https://finwiki.zksc.io/securities/japan-market-infrastructure-map, https://finwiki.zksc.io/securities/japan-pts-liquidity-data-guide, https://finwiki.zksc.io/securities/japan-securities-clearing-corp, https://finwiki.zksc.io/securities/japan-securities-depository-center
+
 ### 独立路线案例 · 拒绝产业联盟 + 押注跨境合规价值(北尾吉孝 / SBI)
 - URL: https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case
 - Source path: business/kitao-yoshitaka-sbi-independent-strategy-case.md
@@ -6601,6 +6731,16 @@ Public pages listed: 1240
 - Headings: 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case, https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template, https://finwiki.zksc.io/fintech/INDEX
 
+### NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up
+- URL: https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case
+- Source path: business/ntt-docomo-d-point-telco-finance-case.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/ntt-docomo-d-point-telco-finance-case.md
+- Domain: business
+- Type: wiki_entry
+- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against Rakuten Group mobile-finance bundling case for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), GMO Internet Group for an internet-to-finance conglomerate cont
+- Headings: NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up, Wiki route, TL;DR, 1. Pre-Tie-Up Docomo Finance Stack, 2. The 2024 SMBC Strategic Tie-Up, 3. Telco-To-Finance Distribution Pattern, 4. Comparison Matrix — Telco-Finance Models In Japan, 5. Post-Tie-Up Strategic Implications
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/paypay-card, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/rakuten-bank, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/JapanFG/rakuten-securities, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case
+
 ### 40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino
 - URL: https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template
 - Source path: business/paolo-ardoino-tether-business-model-template.md
@@ -6611,6 +6751,16 @@ Public pages listed: 1240
 - Headings: 40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template, https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template, https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern
 
+### Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits
+- URL: https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case
+- Source path: business/rakuten-group-mobile-finance-bundling-case.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/rakuten-group-mobile-finance-bundling-case.md
+- Domain: business
+- Type: wiki_entry
+- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against NTT Docomo d-Point telco-finance case for the contrast pattern where telco subsidizes finance instead of the reverse, GMO Internet Group for the internet-to-finance conglomerate parallel, and Kitao Yoshitaka SBI
+- Headings: Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits, Wiki route, TL;DR, 1. Group Architecture, 2. Mobile Cash Burn — The Cross-Subsidy Constraint, 3. Finance Profit Engine, 4. 2023-2025 Recapitalization Moves, 5. Comparative Cross-Subsidy Patterns
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/rakuten-bank, https://finwiki.zksc.io/JapanFG/rakuten-card, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/JapanFG/rakuten-securities, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case, https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case, https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template
+
 ### 国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应
 - URL: https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern
 - Source path: business/sandeep-nailwal-polygon-india-dpi-pattern.md
@@ -6620,6 +6770,26 @@ Public pages listed: 1240
 - Summary: This entry sits under GMO Internet Group. Read it against 40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino for peer / contrast context and fintech index for the broader system / regulatory boundary.
 - Headings: 国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template, https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template, https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance
+
+### SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing
+- URL: https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template
+- Source path: business/softbank-vision-fund-arm-ipo-template.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/softbank-vision-fund-arm-ipo-template.md
+- Domain: business
+- Type: wiki_entry
+- Summary: This entry sits under business INDEX as a public-company strategic case in the people-and-portfolio cluster. Read it against Brian Armstrong Coinbase exchange-as-public-company template for peer / contrast context on portfolio company going public, Kitao Yoshitaka SBI independent strategy for the co
+- Headings: SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing, Wiki route, TL;DR, 1. Vision Fund Structure & Arm's Path Through It, 2. Transaction Architecture (September 2023), 3. Why The IPO Mattered More As Marker Than Cash Raise, 4. Post-IPO SBG Strategy, 5. Comparison: Arm IPO vs Other Vision Fund Exits
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template, https://finwiki.zksc.io/business/founder-pivot-outcome-template-matrix, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/finance/INDEX
+
+### Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延
+- URL: https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case
+- Source path: business/sony-fg-partial-spinoff-case.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/sony-fg-partial-spinoff-case.md
+- Domain: business
+- Type: wiki_entry
+- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against SoftBank/Arm IPO template and JPX listed exchange case as peer Japan large-cap public-company restructurings, partial spinoff tax deferral for the tax-regime mechanics, Sony FG for the entity profile, and 会社分割 t
+- Headings: Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延, Wiki route, TL;DR, 1. Transaction Architecture, 2. Why Sony Chose Partial Spinoff Over Alternatives, 3. Timeline, 4. Strategic Rationale, 5. Tax & Regulatory Compliance
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/sony-bank, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/sony-insurance, https://finwiki.zksc.io/JapanFG/sony-life, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/jpx-public-company-as-market-infrastructure, https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template
 
 ### Corporate strategy domain
 - URL: https://finwiki.zksc.io/corporate-strategy/INDEX
@@ -6641,6 +6811,16 @@ Public pages listed: 1240
 - Headings: 会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession, Wiki route, TL;DR, Two-Axis Structural Map, Direction Axis — Absorption vs Incorporation, 吸収分割 (absorption-type, Companies Act art. 757-766), 新設分割 (incorporation-type, Companies Act art. 762-766), Tax Axis — 適格 vs 非適格
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-ib-league-table, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-tender-offer-process, https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage, https://finwiki.zksc.io/governance/INDEX
 
+### 株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision
+- URL: https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime
+- Source path: corporate-strategy/kabushiki-koufu-stock-distribution-regime.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/kabushiki-koufu-stock-distribution-regime.md
+- Domain: corporate-strategy
+- Type: wiki_entry
+- Summary: This entry sits under corporate-strategy INDEX and routes into finance INDEX for transaction-finance context. Read with 会社分割 tax regime for the contrast against split-mechanism reorganizations, partial spinoff tax deferral for the distribution-side parallel, spinoff decision tree Japan for option-se
+- Headings: 株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision, Wiki route, TL;DR, 1. Why The 2021 Regime Was Created, 2. Mechanism, 3. Comparison Of Three Share-Side Reorganization Regimes, 4. Tax Treatment Mechanics, 5. Practical Use Cases
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics, https://finwiki.zksc.io/finance/japan-m-a-deal-process-comparison-matrix, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-tender-offer-process
+
 ### パーシャルスピンオフ税制 — partial spin-off tax deferral
 - URL: https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral
 - Source path: corporate-strategy/partial-spinoff-tax-deferral.md
@@ -6650,6 +6830,26 @@ Public pages listed: 1240
 - Summary: This entry sits under corporate-strategy index and FinWiki index. Read it with 会社分割 tax regime for the legal-plumbing peer, Sony FG as the main public transaction example, and finance index for adjacent capital-markets context.
 - Headings: パーシャルスピンオフ税制 — partial spin-off tax deferral, Wiki route, TL;DR, 1. 制度结构, 2. 典型 transaction flow, 3. Sony FG case, 4. Strategic reading, 5. 监管与政策
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-tender-offer-process, https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route
+
+### Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection
+- URL: https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan
+- Source path: corporate-strategy/spinoff-decision-tree-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/spinoff-decision-tree-japan.md
+- Domain: corporate-strategy
+- Type: wiki_entry
+- Summary: This entry sits under corporate-strategy INDEX and routes into finance INDEX for transaction context. Read with partial spinoff tax deferral for the partial-spinoff regime detail, 会社分割 tax regime for the underlying split mechanics, 株式交付 regime for the acquisition-side parallel, and Sony FG partial s
+- Headings: Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection, Wiki route, TL;DR, 1. The Decision Tree, 2. Decision Matrix, 3. When To Use Each Path — Strategic Decision Criteria, Use 株式譲渡 (cash sale) when:, Use 株式分配 (full spinoff) when:
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case, https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/business/toshiba-tob-squeeze-out-2023-2024-case, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime, https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-m-a-deal-process-comparison-matrix
+
+### Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template
+- URL: https://finwiki.zksc.io/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case
+- Source path: corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md
+- Domain: corporate-strategy
+- Type: wiki_entry
+- Summary: This entry sits under corporate-strategy INDEX and routes into finance INDEX for the transaction-finance overlay. Read with Japan MBO / squeeze-out process for the procedural mechanics, Japan tender offer process for the TOB framework, spinoff decision tree Japan for the alternative-path context, an
+- Headings: Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template, Wiki route, TL;DR, 1. Pre-Crisis Context (2015-2022), 2. The 2023 TOB Architecture, 3. Why TOB Take-Private Was Chosen Over Alternatives, 4. Squeeze-Out Mechanics, 5. Post-Private Restructuring Runway
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case, https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime, https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-activist-investor-playbook
 
 ### Derivatives Index
 - URL: https://finwiki.zksc.io/derivatives/INDEX
@@ -6751,6 +6951,26 @@ Public pages listed: 1240
 - Headings: Japan CDS market overview, TL;DR, Wiki route, Market structure, Product taxonomy, iTraxx Japan composition, Single-name CDS coverage, Dealer set
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/goldman-sachs-japan, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/morgan-stanley-japan, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smbc-nikko, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/basis-trade-bond-cds-japan
 
+### Japan CMS (constant maturity swap) market
+- URL: https://finwiki.zksc.io/derivatives/japan-cms-constant-maturity-swap
+- Source path: derivatives/japan-cms-constant-maturity-swap.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-cms-constant-maturity-swap.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: A constant maturity swap (CMS) is an OTC interest-rate derivative in which one leg pays a fixed reference (or a floating short-rate reference) and the other leg pays a periodically reset long-tenor swap rate — most commonly the 10Y or 5Y JPY swap rate at each reset date. The CMS leg's defining featu
+- Headings: Japan CMS (constant maturity swap) market, TL;DR, Wiki route, Instrument Mechanics, Why a Convexity Adjustment Is Needed, JPY Use Cases, Pricing Inputs, Dealer Franchise
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix, https://finwiki.zksc.io/derivatives/japan-inflation-swap, https://finwiki.zksc.io/derivatives/japan-irs-market, https://finwiki.zksc.io/derivatives/japan-swaption-market, https://finwiki.zksc.io/derivatives/jgb-futures-curve, https://finwiki.zksc.io/derivatives/ois-tona-curve, https://finwiki.zksc.io/derivatives/structured-bond-japan-retail-issuance, https://finwiki.zksc.io/derivatives/structured-product-eb-knockin-japan-retail
+
+### Japan inflation swap market (JPY CPI-linked)
+- URL: https://finwiki.zksc.io/derivatives/japan-inflation-swap
+- Source path: derivatives/japan-inflation-swap.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-inflation-swap.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: A JPY inflation swap is an OTC derivative in which one party pays a fixed rate and the other party pays a floating rate indexed to a Japanese Consumer Price Index (CPI) measure — most commonly the Statistics Bureau's CPI ex-fresh-food index (生鮮食品除く). The two principal structural forms are zero-coupo
+- Headings: Japan inflation swap market (JPY CPI-linked), TL;DR, Wiki route, Instrument Mechanics, Zero-Coupon Inflation Swap (ZCIS), Year-on-Year Inflation Swap (YoY), CPI Reference Index, Breakeven Inflation Signal
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix, https://finwiki.zksc.io/derivatives/japan-cms-constant-maturity-swap, https://finwiki.zksc.io/derivatives/japan-irs-market, https://finwiki.zksc.io/derivatives/japan-swaption-market, https://finwiki.zksc.io/derivatives/jgb-futures-curve, https://finwiki.zksc.io/derivatives/jgb-inflation-linked-bond-jgbi, https://finwiki.zksc.io/derivatives/ois-tona-curve, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview
+
 ### Japan interest-rate derivatives overview
 - URL: https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview
 - Source path: derivatives/japan-interest-rate-derivatives-overview.md
@@ -6771,6 +6991,26 @@ Public pages listed: 1240
 - Headings: Japan yen interest-rate swap (IRS) market, TL;DR, Wiki route, Instrument Mechanics, TIBOR vs TONA Migration, Notional Outstanding, Dealer Bank Revenue Split, Corporate vs Financial-Institution End-Users
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/japan-securities-finance, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview, https://finwiki.zksc.io/derivatives/jgb-futures-curve, https://finwiki.zksc.io/derivatives/ois-tona-curve, https://finwiki.zksc.io/derivatives/yen-basis-swap-market
 
+### Japan single-stock options (OSE)
+- URL: https://finwiki.zksc.io/derivatives/japan-single-stock-options
+- Source path: derivatives/japan-single-stock-options.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-single-stock-options.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on selected individual Japanese stocks. Despite OSE listing options on ~150 large-cap names at any time, the actual liquidity is structurally limited compare
+- Headings: Japan single-stock options (OSE), TL;DR, Wiki route, Contract Specifications, Liquidity Reality, Why Liquidity Is Limited (Structural Factors), OTC Single-Stock Options, Post-2022 Issuer-Side Hedging Developments
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix, https://finwiki.zksc.io/derivatives/equity-volatility-hedging-corporates-japan, https://finwiki.zksc.io/derivatives/nikkei-225-futures-options, https://finwiki.zksc.io/derivatives/nikkei-vix-jpx-vi-equivalent, https://finwiki.zksc.io/derivatives/retail-fx-margin-trade-japan, https://finwiki.zksc.io/derivatives/structured-bond-japan-retail-issuance, https://finwiki.zksc.io/derivatives/structured-product-eb-knockin-japan-retail, https://finwiki.zksc.io/derivatives/topix-futures, https://finwiki.zksc.io/securities/INDEX
+
+### Japan swaption (interest-rate option) market
+- URL: https://finwiki.zksc.io/derivatives/japan-swaption-market
+- Source path: derivatives/japan-swaption-market.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-swaption-market.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: A swaption is an OTC interest-rate option granting the holder the right (but not the obligation) to enter into a defined interest-rate swap at a future date and at a pre-agreed strike rate. JPY swaptions are the volatility-sensitive complement to the JPY interest-rate swap and OIS-TONA markets, and
+- Headings: Japan swaption (interest-rate option) market, TL;DR, Wiki route, Instrument Mechanics, JPY Swaption Implied-Volatility Grid, Payer vs Receiver Flow, Bermudan Callable Swaptions, Life-Insurer Variable-Annuity (GMxB) Hedging
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix, https://finwiki.zksc.io/derivatives/japan-cms-constant-maturity-swap, https://finwiki.zksc.io/derivatives/japan-inflation-swap, https://finwiki.zksc.io/derivatives/japan-irs-market, https://finwiki.zksc.io/derivatives/jgb-futures-curve, https://finwiki.zksc.io/derivatives/ois-tona-curve, https://finwiki.zksc.io/derivatives/structured-bond-japan-retail-issuance, https://finwiki.zksc.io/derivatives/yen-basis-swap-market, https://finwiki.zksc.io/insurance/INDEX
+
 ### JGB futures market and curve
 - URL: https://finwiki.zksc.io/derivatives/jgb-futures-curve
 - Source path: derivatives/jgb-futures-curve.md
@@ -6780,6 +7020,36 @@ Public pages listed: 1240
 - Summary: JGB futures are exchange-listed interest-rate derivatives on Japanese government bonds, traded on the Osaka Exchange (OSE) under the Japan Exchange Group (JPX). They include three principal contracts at standard size — 10-year, 5-year, and 20-year — plus a "mini" 10-year contract sized at one-tenth
 - Headings: JGB futures market and curve, TL;DR, Wiki route, Contract Specifications, Cheapest-to-Deliver (CTD), Basis Trade, Settlement Cycle and JSCC Clearing, OTC Repo Basis
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/japan-securities-finance, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview, https://finwiki.zksc.io/derivatives/japan-irs-market, https://finwiki.zksc.io/derivatives/ois-tona-curve, https://finwiki.zksc.io/derivatives/yen-basis-swap-market, https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy
+
+### JGB inflation-linked bond (JGBi)
+- URL: https://finwiki.zksc.io/derivatives/jgb-inflation-linked-bond-jgbi
+- Source path: derivatives/jgb-inflation-linked-bond-jgbi.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/jgb-inflation-linked-bond-jgbi.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: JGBi (物価連動国債, "Japan Government Bond Inflation-Indexed") is the inflation-linked variant of the Japanese Government Bond (JGB), issued by the Ministry of Finance (MoF) with principal indexed to the Japan CPI ex-fresh-food index. JGBi was first issued in March 2004; issuance was paused in 2008 amid t
+- Headings: JGB inflation-linked bond (JGBi), TL;DR, Wiki route, Issuance History, Auction and Reopening Mechanics, Deflation Floor, Foreign Investor Share, Breakeven Inflation Rate Signal
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/japan-inflation-swap, https://finwiki.zksc.io/derivatives/japan-irs-market, https://finwiki.zksc.io/derivatives/japan-swaption-market, https://finwiki.zksc.io/derivatives/jgb-futures-curve, https://finwiki.zksc.io/derivatives/jgb-special-participants-primary-dealer, https://finwiki.zksc.io/derivatives/ois-tona-curve, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/money-market/boj-open-market-operations
+
+### JGB Special Participants (Japan primary dealer system)
+- URL: https://finwiki.zksc.io/derivatives/jgb-special-participants-primary-dealer
+- Source path: derivatives/jgb-special-participants-primary-dealer.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/jgb-special-participants-primary-dealer.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: The JGB Special Participants system (国債市場特別参加者制度) is Japan's primary dealer regime: a Ministry of Finance (MoF)-administered framework under which a defined set of financial institutions are recognized as the principal counterparties to MoF JGB auctions in exchange for accepting bid-and-make-market
+- Headings: JGB Special Participants (Japan primary dealer system), TL;DR, Wiki route, System Overview, List Composition (Typical), Obligations of Special Participants, Benefits of Special Participant Status, Auction Mechanics in the JGB System
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/japan-inflation-swap, https://finwiki.zksc.io/derivatives/japan-irs-market, https://finwiki.zksc.io/derivatives/japan-swaption-market, https://finwiki.zksc.io/derivatives/jgb-futures-curve, https://finwiki.zksc.io/derivatives/jgb-inflation-linked-bond-jgbi
+
+### Nikkei 225 futures and options (OSE)
+- URL: https://finwiki.zksc.io/derivatives/nikkei-225-futures-options
+- Source path: derivatives/nikkei-225-futures-options.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/nikkei-225-futures-options.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) is the largest exchange-traded derivative product set in Japan by daily turnover and the canonical hedge instrument for Japanese equity-beta exposure. The complex contains three principal c
+- Headings: Nikkei 225 futures and options (OSE), TL;DR, Wiki route, Contract Specifications, Trading Hours: OSE Day, OSE Night, and CME Globex, Mini and Micro: The Retail Layer, Weekly Options, Participant Mix
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/equity-volatility-hedging-corporates-japan, https://finwiki.zksc.io/derivatives/japan-single-stock-options, https://finwiki.zksc.io/derivatives/nikkei-vix-jpx-vi-equivalent, https://finwiki.zksc.io/derivatives/structured-product-eb-knockin-japan-retail, https://finwiki.zksc.io/derivatives/topix-futures, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview, https://finwiki.zksc.io/securities/INDEX
 
 ### Nikkei VIX / JPX-VI — Japan equity volatility index
 - URL: https://finwiki.zksc.io/derivatives/nikkei-vix-jpx-vi-equivalent
@@ -6851,6 +7121,16 @@ Public pages listed: 1240
 - Headings: Swap execution facility — Japan equivalent (ETP regime), TL;DR, Wiki route, Why the ETP regime matters, ETP regulatory framework under FIEA, Registration and supervision, Mandatory electronic execution scope, Pre-trade and post-trade transparency
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/goldman-sachs-japan, https://finwiki.zksc.io/JapanFG/japan-exchange-group, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/morgan-stanley-japan, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smbc-nikko
 
+### TOPIX futures (OSE)
+- URL: https://finwiki.zksc.io/derivatives/topix-futures
+- Source path: derivatives/topix-futures.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/topix-futures.md
+- Domain: derivatives
+- Type: wiki_entry
+- Summary: TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX), the JPX-flagship free-float-market-capitalization-weighted index covering all Prime Market (formerly First Section) constituents — roughly 2,000 stocks. They list on the Osaka Exchange (OSE) under Japan Ex
+- Headings: TOPIX futures (OSE), TL;DR, Wiki route, Contract Specifications, TOPIX vs Nikkei 225: Methodological Difference, Basis to ETF Arbitrage, Institutional Flow Profile, Sub-Index Futures: Core 30, 100, Banks
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/derivatives/INDEX, https://finwiki.zksc.io/derivatives/equity-volatility-hedging-corporates-japan, https://finwiki.zksc.io/derivatives/japan-single-stock-options, https://finwiki.zksc.io/derivatives/nikkei-225-futures-options, https://finwiki.zksc.io/derivatives/nikkei-vix-jpx-vi-equivalent, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview, https://finwiki.zksc.io/money-market/boj-open-market-operations, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix
+
 ### Yen-USD cross-currency basis swap market
 - URL: https://finwiki.zksc.io/derivatives/yen-basis-swap-market
 - Source path: derivatives/yen-basis-swap-market.md
@@ -6911,6 +7191,16 @@ Public pages listed: 1240
 - Headings: CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface, Wiki route, 概要, 国内主要 CEX API, 海外大手 CEX API, 第三者 ライブラリ + aggregator, 機関接続規格, 関連
 - First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison, https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer, https://finwiki.zksc.io/exchanges/jp-exchange-bitbank, https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer, https://finwiki.zksc.io/exchanges/jp-exchange-coincheck, https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit
 
+### Bithumb（빗썸）— 韓国 KRW spot CEX overview
+- URL: https://finwiki.zksc.io/exchanges/cex-bithumb-korea
+- Source path: exchanges/cex-bithumb-korea.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-bithumb-korea.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit for the closest peer comparison, and global CEX top 10 comparison for the broader system / market boundary.
+- Headings: Bithumb（빗썸）— 韓国 KRW spot CEX overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/cex-upbit-korea, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison, https://finwiki.zksc.io/fintech/japan-financial-regulation
+
 ### CEX matching engine + cold/hot wallet 内部架構
 - URL: https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture
 - Source path: exchanges/cex-matching-engine-wallet-architecture.md
@@ -6930,6 +7220,16 @@ Public pages listed: 1240
 - Summary: This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
 - Headings: CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制, Wiki route, 概要, 主要 CEX 自家 token 比較, 経済機制の trade-off, 規制リスク (米 SEC + EU MiCA), 国内 CEX 不在の構造的理由, 関連
 - First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan, https://finwiki.zksc.io/exchanges/jp-exchange-okcoin-japan, https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget, https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit, https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin, https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc, https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing, https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system
+
+### Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview
+- URL: https://finwiki.zksc.io/exchanges/cex-upbit-korea
+- Source path: exchanges/cex-upbit-korea.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-upbit-korea.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Bithumb for the closest peer comparison（#2），and global CEX top 10 comparison for the broader global market context.
+- Headings: Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/cex-bithumb-korea, https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison
 
 ### Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)
 - URL: https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis
@@ -6960,6 +7260,46 @@ Public pages listed: 1240
 - Summary: 機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本 3 強 (Ginco / Komainu / Fireblocks Japan) + 米系 4 強 (Coinbase Custody / Fidelity Digital / Anchorage / BitGo) +
 - Headings: 暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較, TL;DR, Wiki route, Why this matrix matters, Per-custodian sections, A. 日本 B2B vendor 3 強 (国内 VASP インフラ供給), B. 米系 4 強 (Trust Charter Qualified Custodian), C. Big Bank 系 (G-SIB のデジタル資産参入)
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/state-street-japan, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact, https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture, https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis, https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/exchanges/japan-stablecoin-issuer-regulatory-classification-matrix
+
+### Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview
+- URL: https://finwiki.zksc.io/exchanges/dex-jito-solana
+- Source path: exchanges/dex-jito-solana.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-jito-solana.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against Solana エコシステム DEX 群比較 for the Solana ecosystem context, Raydium / Orca for adjacent DEX peer context, and AMM 設計進化系譜 for the broader system / mechanism boundary.
+- Headings: Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview, Wiki route, 1. プロトコル概要, 2. JitoSOL の設計（MEV-aware LST）, 3. MEV 再分配メカニズム（Jito-Solana client）, 4. JTO token / Jito DAO, 5. Solana LST 市場での位置付け, 6. CEX / DeFi 統合
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/amm-design-evolution, https://finwiki.zksc.io/exchanges/dex-orca-solana, https://finwiki.zksc.io/exchanges/dex-raydium-solana, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison
+
+### Orca Whirlpools — Solana 系集中流動性 AMM overview
+- URL: https://finwiki.zksc.io/exchanges/dex-orca-solana
+- Source path: exchanges/dex-orca-solana.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-orca-solana.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against Raydium for the Solana AMM peer comparison, Solana エコシステム DEX 群比較 for the broader Solana DEX layer, and AMM 設計進化系譜 for the system / design boundary.
+- Headings: Orca Whirlpools — Solana 系集中流動性 AMM overview, Wiki route, 1. プロトコル概要, 2. Whirlpools CLMM の設計, 3. UX / 設計思想, 4. Raydium との比較（Solana 2 大 AMM）, 5. 主要事件・沿革, 6. ガバナンス・経済モデル
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/amm-design-evolution, https://finwiki.zksc.io/exchanges/dex-raydium-solana, https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison, https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern, https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison
+
+### Pendle Finance — yield tokenization プロトコル（PT/YT）overview
+- URL: https://finwiki.zksc.io/exchanges/dex-pendle
+- Source path: exchanges/dex-pendle.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-pendle.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against global DEX major five comparison for adjacent DEX peer context, AMM 設計進化系譜 for the broader system / design boundary, and CEX native token strategy comparison for token economy contrast.
+- Headings: Pendle Finance — yield tokenization プロトコル（PT/YT）overview, Wiki route, 1. プロトコル概要, 2. PT / YT メカニズム, 3. 主要対応資産（2024–2026）, 4. AMM 設計（カスタム curve）, 5. vePENDLE 経済, 6. 主要事件・沿革
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/amm-design-evolution, https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison, https://finwiki.zksc.io/exchanges/dex-jito-solana, https://finwiki.zksc.io/exchanges/dex-orca-solana, https://finwiki.zksc.io/exchanges/dex-raydium-solana, https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison, https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern, https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison
+
+### Raydium — Solana 系老舗 AMM / memecoin 流動性 hub overview
+- URL: https://finwiki.zksc.io/exchanges/dex-raydium-solana
+- Source path: exchanges/dex-raydium-solana.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-raydium-solana.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against Solana エコシステム DEX 群比較 for the Solana peer context, global DEX major five comparison for EVM 対比, and AMM 設計進化系譜 for the broader system / design boundary.
+- Headings: Raydium — Solana 系老舗 AMM / memecoin 流動性 hub overview, Wiki route, 1. プロトコル概要, 2. 設計上の特徴（Serum legacy → OpenBook 移行 → 自前 CLMM）, 3. memecoin 経済における役割, 4. Orca / Meteora との比較, 5. 主要事件・沿革, 6. ガバナンス・経済モデル
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/amm-design-evolution, https://finwiki.zksc.io/exchanges/dex-orca-solana, https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison, https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern, https://finwiki.zksc.io/exchanges/openbook-fork-solana, https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison
 
 ### DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC
 - URL: https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis
@@ -7411,6 +7751,16 @@ Public pages listed: 1240
 - Headings: 株式会社 bitFlyer — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/bitflyer, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study, https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan, https://finwiki.zksc.io/exchanges/jp-exchange-bitbank, https://finwiki.zksc.io/exchanges/jp-exchange-coincheck, https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin, https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map, https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview, https://finwiki.zksc.io/fintech/japan-financial-regulation
 
+### 株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）overview
+- URL: https://finwiki.zksc.io/exchanges/jp-exchange-bitpoint-historical-deprecated
+- Source path: exchanges/jp-exchange-bitpoint-historical-deprecated.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-bitpoint-historical-deprecated.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it with SBI VC トレード株式会社（吸収合併存続会社）for the absorption context, JP VASP M&A コンソリデーション史 for industry context, and FSA 業務改善命令履歴 for regulatory action context.
+- Headings: 株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）overview, Wiki route, 1. 法人・株主（最終状態）, 2. 牌照・登録状況（歴史）, 3. 取扱通貨, 4. 業務範囲（合併前）, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis, https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis, https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/japan-cex-parent-fg-adjacency-matrix, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history, https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview
+
 ### ビットトレード株式会社 — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/exchanges/jp-exchange-bittrade
 - Source path: exchanges/jp-exchange-bittrade.md
@@ -7580,6 +7930,16 @@ Public pages listed: 1240
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: JPYC 株式会社 — 日本円ステーブルコイン発行体（資金移動業者型）, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/jpyc, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture, https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring
+
+### Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview
+- URL: https://finwiki.zksc.io/exchanges/jp-exchange-kraken-japan-historical
+- Source path: exchanges/jp-exchange-kraken-japan-historical.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-kraken-japan-historical.md
+- Domain: exchanges
+- Type: wiki_entry
+- Summary: This entry sits under exchanges index. Read it against Coinbase 株式会社 — 日本暗号資産交換業者 for the closest parallel pattern (外資系 retail exit) and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.
+- Headings: Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況（歴史）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/global-cex-top10-comparison, https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan, https://finwiki.zksc.io/exchanges/jp-exchange-bittrade, https://finwiki.zksc.io/exchanges/jp-exchange-coinbase-japan, https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history, https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview, https://finwiki.zksc.io/fintech/japan-financial-regulation
 
 ### Laser Digital Japan — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan
@@ -8161,6 +8521,16 @@ Public pages listed: 1240
 - Headings: Finance Domain, Overview, Start Here, JapanFG Anchors, Backlog, Wave 5-6 additions (2026-05), Comparison matrices (added 2026-05), Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/bank-of-america-japan, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/goldman-sachs-japan, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smbc-nikko, https://finwiki.zksc.io/JapanFG/socgen-japan
 
+### Carve-out and divestiture process in Japan
+- URL: https://finwiki.zksc.io/finance/carve-out-divestiture-japan
+- Source path: finance/carve-out-divestiture-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/finance/carve-out-divestiture-japan.md
+- Domain: finance
+- Type: wiki_entry
+- Summary: A Japanese carve-out separates a business unit from a parent and routes it to a new owner (trade sale), a new listed entity (IPO spin), or distributed shareholders (stock-distribution / demerger). The mechanical choice between asset deal vs share deal vs company-split (会社分割) vs stock-distribution dr
+- Headings: Carve-out and divestiture process in Japan, Overview, Structure decision matrix, Asset deal vs share deal, Stock-distribution vs trade sale, TSA — transition services agreement, Tax considerations, Carve-out workstreams
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics, https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill, https://finwiki.zksc.io/finance/japan-tender-offer-process, https://finwiki.zksc.io/finance/jftc-merger-control-process, https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage
+
 ### Cross-border M&A Japan
 - URL: https://finwiki.zksc.io/finance/cross-border-m-a-japan
 - Source path: finance/cross-border-m-a-japan.md
@@ -8331,6 +8701,16 @@ Public pages listed: 1240
 - Headings: Japan shareholder proposal and AGM voting route, Overview, Route Map, Companies Act Fields, AGM Materials Route, JPX Governance Report Fields, Public Record Fields, Activism Connection
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/japan-exchange-group, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/monex-group, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/wealthnavi, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/japan-activist-investor-playbook
 
+### Japan takeover defense and poison pill
+- URL: https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill
+- Source path: finance/japan-takeover-defense-poison-pill.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/finance/japan-takeover-defense-poison-pill.md
+- Domain: finance
+- Type: wiki_entry
+- Summary: Japan takeover defense is a board-level response system that sits on top of the FIEA tender-offer process: when a hostile bidder appears, the target chooses between pre-bid structural defenses (advance-warning rights-plan, golden parachute, cross-shareholdings) and in-bid tactical responses (white-k
+- Headings: Japan takeover defense and poison pill, Overview, Defense taxonomy, Bull-Dog Sauce 2007 — the foundational case, METI 2023 Fair M&A Guidelines, Recent cases (2020-2026), Pre-bid vs in-bid response decision, What to extract from a defense filing
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-activist-investor-playbook, https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route, https://finwiki.zksc.io/finance/japan-tender-offer-process, https://finwiki.zksc.io/finance/jftc-merger-control-process
+
 ### Japan tender offer process
 - URL: https://finwiki.zksc.io/finance/japan-tender-offer-process
 - Source path: finance/japan-tender-offer-process.md
@@ -8340,6 +8720,16 @@ Public pages listed: 1240
 - Summary: Japan TOB analysis is a disclosure-control workflow: tender offer trigger, public notice, tender offer statement, target company opinion, amendments, EDINET statutory filing, TDnet timely disclosure, large-shareholding reports, settlement, and squeeze-out / delisting route. It belongs in finance bec
 - Headings: Japan tender offer process, Overview, Process Map, Large-Shareholding Overlay, What To Extract, JapanFG Relevance, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank, https://finwiki.zksc.io/JapanFG/smbc-nikko, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/wealthnavi, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan
+
+### JFTC merger control process
+- URL: https://finwiki.zksc.io/finance/jftc-merger-control-process
+- Source path: finance/jftc-merger-control-process.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/finance/jftc-merger-control-process.md
+- Domain: finance
+- Type: wiki_entry
+- Summary: JFTC (Japan Fair Trade Commission) merger control is the antitrust gate that sits in parallel with the FIEA tender offer route: any control transaction that crosses domestic-turnover thresholds must be pre-notified to JFTC under the Antimonopoly Act (AMA) and cleared before completion. It belongs in
+- Headings: JFTC merger control process, Overview, Notification thresholds (post-2010 amendment), Phase I / Phase II review, Gun-jumping prohibitions, Recent case map, What to extract from a JFTC file, Research checklist
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-activist-investor-playbook, https://finwiki.zksc.io/finance/japan-fair-disclosure-and-insider-trading-controls, https://finwiki.zksc.io/finance/japan-ib-league-table, https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill, https://finwiki.zksc.io/finance/japan-tender-offer-process
 
 ### 跨境身份组合的税务杠杆
 - URL: https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage
@@ -8420,6 +8810,16 @@ Public pages listed: 1240
 - Summary: Argentina's two-year arc under Milei (Dec 2023 inauguration → 2025) has converted what was the world's most acute case of shadow dollarization via USDT (40-50% of household liquid USD assets pre-2024, see EM 加密美元化模式) into a formally regulated and tax-reformed crypto economy. The Comisión Nacional de
 - Headings: Argentina USDT Formalization · Post-Milei Reforms 2024-2026, TL;DR, Wiki route, The pre-Milei baseline (2023 and earlier), The Milei reform sequence (2024), 1. CNV Resolution 994/2024 — PSAV registration framework, 2. BCRA capital control relaxation (2024-2026), 3. Ley Bases / Ley 27.742 (mid-2024) — Tax reform + amnesty
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/fatf-travel-rule-overview, https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization, https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism, https://finwiki.zksc.io/fintech/sovereign-fund-crypto-allocation-pattern, https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield
+
+### Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons
+- URL: https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc
+- Source path: fintech/bahamas-sand-dollar-cbdc.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/bahamas-sand-dollar-cbdc.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index as the per-jurisdiction case study on the Sand Dollar, the first nation-wide live retail CBDC issued by any central bank globally (Bahamas, 2020-10-20). Read it against Nigeria eNaira (live 2021-10, same Bitt-vendor technology lineage), Jamaica JAM-DEX (live 2022,
+- Headings: Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons, Wiki route, Programme architecture, Matrix A · Statute, regulator, phase status, Matrix B · Design choices — financial inclusion-first, low-friction onboarding, Matrix C · Adoption metrics (most recent public), Matrix D · AFI distribution model — the canonical two-tier retail CBDC, Matrix E · Tiered KYC — the inclusion-vs-AML balance
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/bis-project-agora-overview, https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs, https://finwiki.zksc.io/fintech/e-euro-retail-rollout, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc, https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc\, https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy
 
 ### Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道
 - URL: https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-implications
@@ -8531,6 +8931,16 @@ Public pages listed: 1240
 - Headings: BlackRock BUIDL · 代币化 MMF 标杆 · "稳定币 yield 基础设施", Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization, https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin, https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog, https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics
 
+### Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB
+- URL: https://finwiki.zksc.io/fintech/boe-digital-pound-consultation
+- Source path: fintech/boe-digital-pound-consultation.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/boe-digital-pound-consultation.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index as the per-jurisdiction deep dive on the Bank of England (BoE) and HM Treasury (HMT) digital pound consultation and design phase — the UK retail-CBDC track. Read it against ECB digital euro retail rollout (the parallel EU programme with similar design choices), CB
+- Headings: Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB, Wiki route, Programme architecture, Matrix A · Statute, regulator, phase status, Matrix B · Design choices — explicitly mirror the EU digital euro architecture, Matrix C · The 2024 consultation response — substantive findings, Matrix D · Private-sector wallet model (PIP + ESIP), Matrix E · Holding limit debate — £10,000-£20,000 vs €3,000-€4,000
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc, https://finwiki.zksc.io/fintech/bis-project-agora-overview, https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs, https://finwiki.zksc.io/fintech/central-banking-function-unbundling, https://finwiki.zksc.io/fintech/e-euro-retail-rollout, https://finwiki.zksc.io/fintech/e-euro-retail-rollout\, https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview
+
 ### Brazil DREX Timeline 2024-2026
 - URL: https://finwiki.zksc.io/fintech/brazil-drex-timeline-2026
 - Source path: fintech/brazil-drex-timeline-2026.md
@@ -8640,6 +9050,16 @@ Public pages listed: 1240
 - Summary: This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.
 - Headings: 链级 OFAC freeze = 美元链级霸权, Wiki route, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/fatf-travel-rule-overview, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield, https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework
+
+### Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁
+- URL: https://finwiki.zksc.io/fintech/circle-usdc-stablecoin
+- Source path: fintech/circle-usdc-stablecoin.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/circle-usdc-stablecoin.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with PayPal PYUSD and Tether USDT 经济学 for the white-circle / grey-circle contrast, and with GENIUS Act §501 for the regulatory frame in which USDC has become the de facto white-circle benchmark.
+- Headings: Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model, https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive, https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation, https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin, https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin, https://finwiki.zksc.io/fintech/stablecoin-issuer-2025-2026-market-consolidation
 
 ### 储备金互锁飞轮 · BUIDL ↔ USDC 系统性循环依赖
 - URL: https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview
@@ -8801,6 +9221,16 @@ Public pages listed: 1240
 - Headings: EU MiCA 实施状态 2026-05 · EMT/ART 持牌图谱 × USDT 退出 × USDC 市场份额重塑, TL;DR, Wiki route, 实施时间线 (2024-2026), EMT (E-Money Token) 持牌方图谱 (2026-05), ART (Asset-Referenced Token) 持牌方图谱 (2026-05), USDT 退出欧盟与 USDC 份额重塑, 主要欧元 SC 详解
 - First resolved wikilinks: https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/brazil-mexico-cbdc-stablecoin-push-2026, https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview, https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-ctpp, https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-overview, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/mica-cross-border-implications, https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive, https://finwiki.zksc.io/fintech/mica-overview, https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield
 
+### European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay
+- URL: https://finwiki.zksc.io/fintech/european-payments-initiative-wero
+- Source path: fintech/european-payments-initiative-wero.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/european-payments-initiative-wero.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with digital euro retail rollout for the ECB-issued retail money parallel track, and with Fnality for the wholesale-side European bank-consortium pattern (Wero is the retail mirror).
+- Headings: European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/circle-usdc-stablecoin, https://finwiki.zksc.io/fintech/e-euro-retail-rollout, https://finwiki.zksc.io/fintech/fnality-wholesale-settlement, https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism, https://finwiki.zksc.io/fintech/mica-overview, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance
+
 ### FATF Travel Rule 跨境四层 stack · 各国门槛差异 + §501 协同
 - URL: https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack
 - Source path: fintech/fatf-travel-rule-cross-border-stack.md
@@ -8830,6 +9260,16 @@ Public pages listed: 1240
 - Summary: This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.
 - Headings: First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization, https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview, https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism, https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin, https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield, https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework
+
+### Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线
+- URL: https://finwiki.zksc.io/fintech/fnality-wholesale-settlement
+- Source path: fintech/fnality-wholesale-settlement.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/fnality-wholesale-settlement.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with Partior and JPM Onyx / Kinexys for the wholesale-settlement consortium triangle, and with 多大银行联邦治理 for the governance pattern that gives Fnality its multi-bank shape (vs. JPM single-issuer model).
+- Headings: Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/bis-project-agora-overview, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/central-banking-function-unbundling, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network, https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance, https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium
 
 ### 4 类动机不对称分析
 - URL: https://finwiki.zksc.io/fintech/four-motive-classes-asymmetric-competition
@@ -9011,6 +9451,16 @@ Public pages listed: 1240
 - Headings: Circle Arc 战略 · 发行方收回 50% 分成的 §501 终局, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper, https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview, https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation, https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog, https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern, https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma, https://finwiki.zksc.io/systems/cctp-v2-overview
 
+### Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor
+- URL: https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc
+- Source path: fintech/jamaica-jam-dex-cbdc.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/jamaica-jam-dex-cbdc.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index as the per-jurisdiction case study on JAM-DEX (Jamaica Digital Exchange), the Bank of Jamaica's retail CBDC launched in 2022 — the third major small-economy retail CBDC after the Bahamas Sand Dollar (2020) and Nigeria eNaira (2021), and the most cleanly adopted of
+- Headings: Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor, Wiki route, Programme architecture, Matrix A · Statute, regulator, phase status, Matrix B · Design choices — wallet-first, incentive-driven, banked-population focus, Matrix C · Adoption metrics (most recent public), Matrix D · Lynk wallet — the distribution-channel-ownership advantage, Matrix E · Government incentive design
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc, https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc\, https://finwiki.zksc.io/fintech/bis-project-agora-overview, https://finwiki.zksc.io/fintech/boe-digital-pound-consultation, https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs, https://finwiki.zksc.io/fintech/e-euro-retail-rollout, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern
+
 ### 日本 BitTrade 上币流程 — 持牌交易所 Listing 的 8 階段構造
 - URL: https://finwiki.zksc.io/fintech/japan-bittrade-listing-process
 - Source path: fintech/japan-bittrade-listing-process.md
@@ -9129,6 +9579,16 @@ Public pages listed: 1240
 - Summary: This entry sits under fintech index. Read it against 多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.
 - Headings: 日本信託型 SC 架構, Wiki route, 三型構造比較, 信託型の構造的優位, §501(d) との関係, 三型の市場分担(現状 2026), 応用, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/progmat, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/cross-border-sc-via-swift-api, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance
+
+### JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets
+- URL: https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network
+- Source path: fintech/jpm-onyx-wholesale-network.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/jpm-onyx-wholesale-network.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with JPMorgan JPMD for the retail-deposit-token sibling product, and with Fnality / Partior for the multi-bank consortium contrast that Onyx-Kinexys deliberately rejects.
+- Headings: JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/central-banking-function-unbundling, https://finwiki.zksc.io/fintech/fnality-wholesale-settlement, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance, https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium, https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale, https://finwiki.zksc.io/systems/canton-overview, https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix
 
 ### JPMorgan JPMD · 代币化存款 · GENIUS §501 法律分类下的 TD 范式
 - URL: https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin
@@ -9280,6 +9740,16 @@ Public pages listed: 1240
 - Headings: 国家许可型私营稳定币 + DPI 全球输出战略, Wiki route, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview, https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide, https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework
 
+### Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision
+- URL: https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc
+- Source path: fintech/nigeria-enaira-retail-cbdc.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/nigeria-enaira-retail-cbdc.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index as the per-jurisdiction case study on the eNaira, the second live retail CBDC issued by any major emerging-market central bank (after the Bahamian Sand Dollar) and globally the most-studied adoption-failure case among live CBDC programmes. Read it against Bahamas
+- Headings: Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision, Wiki route, Programme architecture, Matrix A · Statute, regulator, phase status, Matrix B · Design choices — tiered KYC, free distribution, low-friction-but-low-utility, Matrix C · Adoption metrics (most recent public), Matrix D · The 2022-2023 Naira redesign collision, Matrix E · Distribution model and the unbanked
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc, https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc\, https://finwiki.zksc.io/fintech/bis-project-agora-overview, https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms, https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs, https://finwiki.zksc.io/fintech/e-euro-retail-rollout, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization
+
 ### OCC National Bank Charter for Crypto Firms · 2025 Update
 - URL: https://finwiki.zksc.io/fintech/occ-bank-charter-crypto-2025
 - Source path: fintech/occ-bank-charter-crypto-2025.md
@@ -9319,6 +9789,16 @@ Public pages listed: 1240
 - Summary: Ondo Finance 2021 创立,2023 起从单一 tokenized Treasury 产品 (OUSG) 扩展为 RWA 全栈 = OUSG (合格投资人代币化国债) + USDY (零售可持有 yieldcoin) + rUSDY (rebasing 合规变体) + Ondo Chain (RWA-optimized L1, 2025 公布)。OUSG 与 BlackRock BUIDL 形成深度共生 — Ondo 把 OUSG 后端储备的相当部分换成 BUIDL,作为 BUIDL 在 DeFi 协议层的最大零售分销端。2026-05 Ondo 系列产品 TVL ~$1.5B+
 - Headings: Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家, TL;DR, Wiki route, Product stack — what each token actually is, OUSG ↔ BUIDL partnership — the key structural fact, USDY / rUSDY — the "yieldcoin for non-US individuals", Multi-chain deployment — the "RWA on every chain that matters" thesis, Ondo Chain — the L1 thesis
 - First resolved wikilinks: https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization, https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper, https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin, https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy
+
+### Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算
+- URL: https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium
+- Source path: fintech/partior-jpm-dbs-temasek-consortium.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/partior-jpm-dbs-temasek-consortium.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with Fnality (英美侧多银行 wholesale) and JPM Onyx (单银行 TD) for the wholesale-settlement consortium triangle, and with MAS 战略含义 for Partior 的新加坡锚定结构。
+- Headings: Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/bis-project-guardian-overview, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/central-banking-function-unbundling, https://finwiki.zksc.io/fintech/circle-usdc-stablecoin, https://finwiki.zksc.io/fintech/fnality-wholesale-settlement, https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance, https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network, https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance, https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview
 
 ### Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG
 - URL: https://finwiki.zksc.io/fintech/paxos-paxg-post-binance-pivot
@@ -9550,6 +10030,16 @@ Public pages listed: 1240
 - Headings: State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race, TL;DR, Wiki route, The four arbitrage paths — comparison, Wyoming SPDI — the speed leader, Custodia Bank — the test case, Kraken Financial — the operational case, Two Ocean Trust and others
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism, https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export, https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage, https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition
 
+### Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体
+- URL: https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin
+- Source path: fintech/stripe-usdb-bridge-stablecoin.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/stripe-usdb-bridge-stablecoin.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with Circle USDC and PayPal PYUSD for the payment-company-branded stablecoin trio, and with Stripe 五层 Trojan Horse for the L3 position of USDB in Stripe's vertical stack.
+- Headings: Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ap2-overview, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/circle-usdc-stablecoin, https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview, https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate
+
 ### Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制
 - URL: https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield
 - Source path: fintech/tether-business-model-short-treasury-yield.md
@@ -9559,6 +10049,16 @@ Public pages listed: 1240
 - Summary: This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.
 - Headings: Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制, Wiki route, Conclusion, Reasoning, Applicable When, Source, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jpyc, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation, https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics
+
+### Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离
+- URL: https://finwiki.zksc.io/fintech/tether-usat-anchorage
+- Source path: fintech/tether-usat-anchorage.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/tether-usat-anchorage.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with Tether USDT 经济学 for the parent product whose bifurcation USAT represents, and with GENIUS Act §501 for the U.S. regulatory framework that forced Tether to design a separate U.S.-compliant entity.
+- Headings: Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent, https://finwiki.zksc.io/fintech/circle-usdc-stablecoin, https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin, https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage, https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin, https://finwiki.zksc.io/fintech/regulatory-reset-2025-usa-crypto-policy, https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin, https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield
 
 ### 三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式
 - URL: https://finwiki.zksc.io/fintech/three-circles-mra-2030-economic-scale
@@ -9589,6 +10089,16 @@ Public pages listed: 1240
 - Summary: This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.
 - Headings: 代币化存款累计交易规模模式 · Kinexys $1.5T 作为银行存款代币赛道锚, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions, https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance, https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation, https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics, https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield
+
+### Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵
+- URL: https://finwiki.zksc.io/fintech/tokenized-mmf-wisdomtree-hashnote
+- Source path: fintech/tokenized-mmf-wisdomtree-hashnote.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/fintech/tokenized-mmf-wisdomtree-hashnote.md
+- Domain: fintech
+- Type: wiki_entry
+- Summary: This entry sits under fintech index. Read it with BlackRock BUIDL (leader 第一梯队) and Franklin BENJI / Apollo ACRED for the full tokenized-MMF and tokenized-RWA matrix, and with 储备金互锁飞轮 for the systemic role tokenized MMF plays as stablecoin yield infrastructure.
+- Headings: Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization, https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/circle-usdc-stablecoin, https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview, https://finwiki.zksc.io/fintech/franklin-templeton-stablecoin-migration, https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/ondo-finance-rusdy-adoption, https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog
 
 ### Treasury 2025 Stablecoin Policy Framework · PWG Recommendations and Dual-Track Charters
 - URL: https://finwiki.zksc.io/fintech/treasury-stablecoin-policy-2025
@@ -9680,6 +10190,16 @@ Public pages listed: 1240
 - Headings: Insurance domain, Overview, Start Here, JapanFG Anchors, Research Control, Backlog, Wave 5-6 additions (2026-05), Comparison matrices (added 2026-05)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aflac-japan, https://finwiki.zksc.io/JapanFG/aig-japan, https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan, https://finwiki.zksc.io/JapanFG/american-home-insurance-japan, https://finwiki.zksc.io/JapanFG/anicom-hd, https://finwiki.zksc.io/JapanFG/anicom-insurance, https://finwiki.zksc.io/JapanFG/asahi-life, https://finwiki.zksc.io/JapanFG/au-insurance, https://finwiki.zksc.io/JapanFG/axa-japan
 
+### Bancassurance economics in Japan
+- URL: https://finwiki.zksc.io/insurance/bancassurance-economics-japan
+- Source path: insurance/bancassurance-economics-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/bancassurance-economics-japan.md
+- Domain: insurance
+- Type: wiki_entry
+- Summary: Bancassurance (銀行窓販 / "ginkō-madohan") in Japan is the bank-channel sale of life and annuity insurance products to bank deposit customers, structurally enabled by phased FSA deregulation that culminated in the full deregulation of December 2007 lifting the last product-line restrictions. The channel
+- Headings: Bancassurance economics in Japan, TL;DR, Wiki route, Deregulation history, Product mix: what actually sells through bank counters, Channel economics: commission split, Megabank-insurer affiliations, Anti-pressure-sales rules
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aflac-japan, https://finwiki.zksc.io/JapanFG/asset-management-one, https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/japan-post-bank, https://finwiki.zksc.io/JapanFG/kampo-life, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/manulife-japan, https://finwiki.zksc.io/JapanFG/metlife-japan, https://finwiki.zksc.io/JapanFG/mizuho, https://finwiki.zksc.io/JapanFG/mizuho-bank
+
 ### Captive insurance market in Japan
 - URL: https://finwiki.zksc.io/insurance/captive-insurance-japan-market
 - Source path: insurance/captive-insurance-japan-market.md
@@ -9689,6 +10209,16 @@ Public pages listed: 1240
 - Summary: A captive insurance company is an insurer wholly owned by its policyholder — typically a large industrial group — formed to retain the group's own risk on its own balance sheet instead of paying premium to a commercial insurer. Captives are a standard part of corporate risk financing at large Japane
 - Headings: Captive insurance market in Japan, TL;DR, Wiki route, 1. What a captive is, and why corporates form one, Why a Japanese group forms a captive, 2. The Japan onshore captive licence gap, 3. Known and inferred Japanese-group captives, 4. Fronting and the Japan-located-risk problem
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/JapanFG/hannover-re-japan, https://finwiki.zksc.io/JapanFG/japan-pi-club, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/lloyd-japan, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/munich-re-japan, https://finwiki.zksc.io/JapanFG/nonlife-insurer-registry-japan-index, https://finwiki.zksc.io/JapanFG/sompo-japan-insurance, https://finwiki.zksc.io/JapanFG/swiss-re-japan, https://finwiki.zksc.io/JapanFG/tokio-marine-nichido-fire
+
+### Cooperative insurance (kyosai) system in Japan
+- URL: https://finwiki.zksc.io/insurance/cooperative-insurance-system-japan
+- Source path: insurance/cooperative-insurance-system-japan.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/cooperative-insurance-system-japan.md
+- Domain: insurance
+- Type: wiki_entry
+- Summary: The Japanese 共済 (kyosai / "cooperative mutual aid") sector is a parallel insurance industry of cooperative-form underwriters operating outside the FSA-supervised Insurance Business Act perimeter. The four largest sub-sectors are JA共済 (Zenkyoren) — the agricultural cooperative federation, 全労済 (Zenros
+- Headings: Cooperative insurance (kyosai) system in Japan, TL;DR, Wiki route, What "kyosai" means, The four large sub-sectors, JA共済 (Zenkyoren), 全労済 / こくみん共済 coop (Zenrosai), 県民共済 (Kenmin Kyosai)
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/coop-kyosai, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/japan-coop, https://finwiki.zksc.io/JapanFG/kenmin-kyosai, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/zenrosai, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme, https://finwiki.zksc.io/insurance/economic-value-based-solvency, https://finwiki.zksc.io/insurance/esr-economic-value-solvency, https://finwiki.zksc.io/insurance/foreign-life-affiliate-japan-positioning
 
 ### Japan earthquake insurance public-private scheme
 - URL: https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme
@@ -9770,6 +10300,16 @@ Public pages listed: 1240
 - Headings: Internet life insurance business model, Wiki route, TL;DR, Model Components, JapanFG Relevance, Economic Thesis, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/lifenet, https://finwiki.zksc.io/JapanFG/nippon-life, https://finwiki.zksc.io/JapanFG/orix-life, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/sumitomo-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix, https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer
 
+### JA Kyosai / Zenkyoren overview
+- URL: https://finwiki.zksc.io/insurance/ja-kyosai-zenkyoren-overview
+- Source path: insurance/ja-kyosai-zenkyoren-overview.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/ja-kyosai-zenkyoren-overview.md
+- Domain: insurance
+- Type: wiki_entry
+- Summary: JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会) is the federated cooperative insurance underwriter of Japan's agricultural cooperative (JA / 農協) movement, and by reserve / asset scale is the largest non-FSA-supervised insurance entity in Japan. It writes a full kyosai (共済) product line — life-equivalent (who
+- Headings: JA Kyosai / Zenkyoren overview, TL;DR, Wiki route, What Zenkyoren is and is not, Product perimeter, Scale and balance sheet, Regulator: MAFF, not FSA, Distribution: JA channel
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/japanese-government-bonds, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/nippon-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/cooperative-insurance-system-japan, https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme, https://finwiki.zksc.io/insurance/economic-value-based-solvency, https://finwiki.zksc.io/insurance/esr-economic-value-solvency, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan
+
 ### Japan IAIG and ICS mapping
 - URL: https://finwiki.zksc.io/insurance/japan-iaig-ics-mapping
 - Source path: insurance/japan-iaig-ics-mapping.md
@@ -9840,6 +10380,16 @@ Public pages listed: 1240
 - Headings: Japan non-life big three, Overview, Holding-Company Map, What To Compare, Natural-Catastrophe Lens, Domestic Operating Structure, Governance / Channel Risk, Source Fields
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/JapanFG/japan-earthquake-reinsurance, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/msad, https://finwiki.zksc.io/JapanFG/sompo, https://finwiki.zksc.io/JapanFG/sompo-japan-insurance, https://finwiki.zksc.io/JapanFG/tokio-marine, https://finwiki.zksc.io/JapanFG/tokio-marine-nichido-fire, https://finwiki.zksc.io/insurance/INDEX
 
+### Kampo / Japan Post Insurance
+- URL: https://finwiki.zksc.io/insurance/kampo-japan-post-insurance
+- Source path: insurance/kampo-japan-post-insurance.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/kampo-japan-post-insurance.md
+- Domain: insurance
+- Type: wiki_entry
+- Summary: かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181) is one of the largest life-insurance balance sheets in Japan by reserve and asset scale, originated as the postal-savings-era national insurance scheme (郵便貯金 / 簡易保険 / "Kanpo") and now a publicly listed subsidiary inside the Japan Post Holdings
+- Headings: Kampo / Japan Post Insurance, TL;DR, Wiki route, Identity and group structure, Balance sheet and scale, Distribution: postal channel, The 2019 fraudulent-sales scandal, ALM in the low-rate era
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/japan-post-bank, https://finwiki.zksc.io/JapanFG/japan-post-holdings, https://finwiki.zksc.io/JapanFG/japanese-government-bonds, https://finwiki.zksc.io/JapanFG/kampo-life, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/JapanFG/nippon-life, https://finwiki.zksc.io/JapanFG/nippon-post, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/bancassurance-economics-japan, https://finwiki.zksc.io/insurance/economic-value-based-solvency
+
 ### Life insurance channel mix
 - URL: https://finwiki.zksc.io/insurance/life-insurance-channel-mix
 - Source path: insurance/life-insurance-channel-mix.md
@@ -9869,6 +10419,16 @@ Public pages listed: 1240
 - Summary: Japan's marine insurance market splits cleanly into three regulatory and structural pieces. (1) Hull and machinery plus cargo / transit are written by the 大手3社 non-life insurers — Tokio Marine & Nichido Fire (historically Japan's largest marine carrier and the firm whose name still begins with 東京海上
 - Headings: Marine insurance and P&I cover market in Japan, TL;DR, Wiki route, 1. Market structure, 2. Hull and machinery (H&M), 3. Cargo / transit, 4. P&I cover — the mutual layer, Why P&I is mutual
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aig-japan, https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance, https://finwiki.zksc.io/JapanFG/chubb-insurance-japan, https://finwiki.zksc.io/JapanFG/japan-pi-club, https://finwiki.zksc.io/JapanFG/lloyd-japan, https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance, https://finwiki.zksc.io/JapanFG/munich-re-japan, https://finwiki.zksc.io/JapanFG/nippon-kaiji-kyokai, https://finwiki.zksc.io/JapanFG/nonlife-insurer-registry-japan-index, https://finwiki.zksc.io/JapanFG/sompo-japan-insurance, https://finwiki.zksc.io/JapanFG/swiss-re-japan
+
+### Medical / cancer insurance product economics in Japan
+- URL: https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics
+- Source path: insurance/medical-cancer-insurance-product-economics.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/medical-cancer-insurance-product-economics.md
+- Domain: insurance
+- Type: wiki_entry
+- Summary: Medical (医療保険) and cancer (がん保険) insurance are the dominant individual-protection product lines in the Japanese life-insurance market in number of contracts and in retail visibility, sitting on top of (not as a substitute for) the universal public health-insurance system run under the Ministry of He
+- Headings: Medical / cancer insurance product economics in Japan, TL;DR, Wiki route, Why these products are a separate product economics, Competitive map, Product economics components, Channel-cost interaction, Public-system overlay
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aflac, https://finwiki.zksc.io/JapanFG/aflac-japan, https://finwiki.zksc.io/JapanFG/aia, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/lifenet, https://finwiki.zksc.io/JapanFG/metlife-japan, https://finwiki.zksc.io/JapanFG/ms-ad, https://finwiki.zksc.io/JapanFG/prudential-japan, https://finwiki.zksc.io/JapanFG/sompo, https://finwiki.zksc.io/JapanFG/sompo-himawari-life, https://finwiki.zksc.io/JapanFG/tokio-marine-direct
 
 ### Mutual vs stock life insurer
 - URL: https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer
@@ -10010,6 +10570,16 @@ Public pages listed: 1240
 - Headings: BoJ open market operations, Wiki route, TL;DR, Operation Types, Why Operations Matter, JapanFG Relevance, Reading Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-tanshi, https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi
 
+### BoJ post-2024 floor system and complementary deposit facility (補完当座預金制度)
+- URL: https://finwiki.zksc.io/money-market/boj-post-2024-floor-system-complementary-deposit-facility
+- Source path: money-market/boj-post-2024-floor-system-complementary-deposit-facility.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/money-market/boj-post-2024-floor-system-complementary-deposit-facility.md
+- Domain: money-market
+- Type: wiki_entry
+- Summary: This entry sits under money-market index. Read it against BoJ open market operations for peer / contrast context and Japan money market for the broader system / regulatory boundary.
+- Headings: BoJ post-2024 floor system and complementary deposit facility (補完当座預金制度), Wiki route, TL;DR, Framework Map, Complementary Deposit Facility Mechanics, Tiered IOER Structure (Reference Reading), Why the Floor System Works, Comparison with Fed IORB and ECB DFR
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-tanshi, https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi, https://finwiki.zksc.io/money-market/INDEX
+
 ### Call market structure
 - URL: https://finwiki.zksc.io/money-market/call-market-structure
 - Source path: money-market/call-market-structure.md
@@ -10020,6 +10590,26 @@ Public pages listed: 1240
 - Headings: Call market structure, Wiki route, TL;DR, Core Mechanics, How To Read The Rate, JapanFG Relevance, Boundary Cases, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-tanshi, https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/money-market/boj-open-market-operations
 
+### Japan CP (commercial paper) market
+- URL: https://finwiki.zksc.io/money-market/japan-cp-commercial-paper-market
+- Source path: money-market/japan-cp-commercial-paper-market.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/money-market/japan-cp-commercial-paper-market.md
+- Domain: money-market
+- Type: wiki_entry
+- Summary: This entry sits under money-market index. Read it against Japan NCD market for peer / contrast context and BoJ open market operations for the broader system / regulatory boundary.
+- Headings: Japan CP (commercial paper) market, Wiki route, TL;DR, Market Map, Instrument Mechanics, Tenor and Issuer Composition, BoJ Eligibility and Operations, Market Size and Reading Rules
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/japan-securities-finance, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smbc-nikko, https://finwiki.zksc.io/JapanFG/smfg
+
+### Japan MMF / MRF (money market mutual funds)
+- URL: https://finwiki.zksc.io/money-market/japan-mmf-money-market-mutual-fund
+- Source path: money-market/japan-mmf-money-market-mutual-fund.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/money-market/japan-mmf-money-market-mutual-fund.md
+- Domain: money-market
+- Type: wiki_entry
+- Summary: This entry sits under money-market index. Read it against Japan NCD market for peer / contrast context and BoJ post-2024 floor system for the broader system / regulatory boundary.
+- Headings: Japan MMF / MRF (money market mutual funds), Wiki route, TL;DR, Product Map, Historical Arc, MRF vs Old MMF, Current Substitutes, Investment Holdings
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/asset-management-one, https://finwiki.zksc.io/JapanFG/daiwa-asset-management, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/monex-group, https://finwiki.zksc.io/JapanFG/mufg-asset-management, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nikko-asset-management, https://finwiki.zksc.io/JapanFG/nomura-asset-management, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/rakuten-securities
+
 ### Japan money market
 - URL: https://finwiki.zksc.io/money-market/japan-money-market
 - Source path: money-market/japan-money-market.md
@@ -10029,6 +10619,26 @@ Public pages listed: 1240
 - Summary: This entry sits under money-market index. Read it against Call market structure for peer / contrast context and BoJ open market operations for the broader system / regulatory boundary.
 - Headings: Japan money market, Wiki route, TL;DR, Market Map, Why It Matters, Post-YCC Reading Rule, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/tokyo-tanshi, https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/money-market/boj-open-market-operations, https://finwiki.zksc.io/money-market/call-market-structure
+
+### Japan NCD (negotiable certificate of deposit) market
+- URL: https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market
+- Source path: money-market/japan-ncd-negotiable-cd-market.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/money-market/japan-ncd-negotiable-cd-market.md
+- Domain: money-market
+- Type: wiki_entry
+- Summary: This entry sits under money-market index. Read it against Japan CP market for peer / contrast context and BoJ open market operations for the broader system / regulatory boundary.
+- Headings: Japan NCD (negotiable certificate of deposit) market, Wiki route, TL;DR, Market Map, Instrument Mechanics, Secondary Market Liquidity, MMF / MRF Eligibility, Current Outstanding Scale
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smbc-nikko, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-tanshi
+
+### Japan Treasury Discount Bills (TDB / 国庫短期証券)
+- URL: https://finwiki.zksc.io/money-market/japan-tbill-treasury-discount-bill
+- Source path: money-market/japan-tbill-treasury-discount-bill.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/money-market/japan-tbill-treasury-discount-bill.md
+- Domain: money-market
+- Type: wiki_entry
+- Summary: This entry sits under money-market index. Read it against Japan CP market for peer / contrast context and JGB repo market for the broader system / regulatory boundary.
+- Headings: Japan Treasury Discount Bills (TDB / 国庫短期証券), Wiki route, TL;DR, Market Map, Issuance Mechanics, Auction Cadence, Investor Composition, BoJ and TDB
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-tanshi
 
 ### JGB repo market in Japan
 - URL: https://finwiki.zksc.io/money-market/jgb-repo-market-japan
@@ -10370,6 +10980,16 @@ Public pages listed: 1240
 - Headings: 愛知県信用保証協会 (Aichi Credit Guarantee Corporation), Wiki route, TL;DR, 1. 機関概要, 2. 主要保証商品, 3. 県内産業構造との関係, 4. Co-lending and JFC overlay, 5. 代位弁済と求償
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aichi-bank, https://finwiki.zksc.io/JapanFG/aichi-fg, https://finwiki.zksc.io/JapanFG/chukyo-bank, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/nagoya-bank, https://finwiki.zksc.io/JapanFG/shoko-chukin, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp, https://finwiki.zksc.io/banking/INDEX
 
+### DBJ mandate deep dive — 特定投資業務 ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI
+- URL: https://finwiki.zksc.io/policy-finance/dbj-mandate-deep-dive
+- Source path: policy-finance/dbj-mandate-deep-dive.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/dbj-mandate-deep-dive.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: This entry sits under policy-finance index as the operating-mechanics deep dive on 株式会社日本政策投資銀行 (DBJ). The original DBJ profile at JapanFG/dbj focuses on corporate structure, history, and high-level business-line map; this entry goes one layer deeper into the operating mechanics of the 特定投資業務 framew
+- Headings: DBJ mandate deep dive — 特定投資業務 ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI, Wiki route, TL;DR, 1. 株式会社 + 政策金融機関 のハイブリッド構造, 2. 特定投資業務 (Special Investment Operations) framework, 2.1 法的構造と授権枠, 2.2 リスクマネー (risk money) の operating 定義, 2.3 投資選別基準
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jbic\, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/jfc\, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-policy-finance-institution-mandate-matrix, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram
+
 ### Fisheries credit guarantee system in Japan
 - URL: https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system
 - Source path: policy-finance/fisheries-credit-guarantee-system.md
@@ -10529,6 +11149,16 @@ Public pages listed: 1240
 - Summary: This entry sits under policy-finance index as one of the three product-bearing divisions inside 日本政策金融公庫 (JFC). Read it alongside JFC SME Division operating model for the peer division, against Agriculture credit guarantee system and Fisheries credit guarantee system for the parallel public-credit c
 - Headings: JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業), Wiki route, TL;DR, 1. 部門位置 within JFC, 2. 主要事業 / 商品メニュー, 2.1 Product menu table, 2.2 経営体育成 (management-body development) framing, 2.3 Forestry — the long-tenor anomaly
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/norinchukin\, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system
+
+### JFC 国民生活事業 (National Life Finance Division) operating model
+- URL: https://finwiki.zksc.io/policy-finance/jfc-kokumin-life-finance-division
+- Source path: policy-finance/jfc-kokumin-life-finance-division.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/policy-finance/jfc-kokumin-life-finance-division.md
+- Domain: policy-finance
+- Type: wiki_entry
+- Summary: This entry sits under policy-finance index as the third product-bearing division inside 日本政策金融公庫 (JFC), alongside JFC SME Division (中小企業事業) and JFC Agriculture, Forestry and Fisheries Division (農林水産事業). Read it against Japan credit guarantee system and JFG for the parallel public-credit channel that
+- Headings: JFC 国民生活事業 (National Life Finance Division) operating model, Wiki route, TL;DR, 1. 部門位置 within JFC, 2. 主要事業 / 商品メニュー, 2.1 Loan-product table, 2.2 創業融資 — the 新創業融資制度 anchor, 2.3 マル経融資 (Marukei Loan) — the 商工会議所 / 商工会 channel
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/dbj, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/shoko-chukin, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/credit-cooperative-registry-japan, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system, https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system\, https://finwiki.zksc.io/policy-finance/japan-eximbank-history
 
 ### JFC SME Division operating model (中小企業事業)
 - URL: https://finwiki.zksc.io/policy-finance/jfc-sme-division-operating-model
@@ -10710,6 +11340,16 @@ Public pages listed: 1240
 - Headings: GK-TK bond real-estate SPV, TL;DR, Wiki route, 1. Legal-form anatomy, Two layers, one vehicle, Why GK and not KK or LLP, The 信託受益権 layer, 2. Bond-type GK-TK (社債型)
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/moodys-japan, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/JapanFG/sp-global-ratings-japan, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape, https://finwiki.zksc.io/banking/master-trust-bank-operating-model
 
+### GLP J-REIT (3281)
+- URL: https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281
+- Source path: real-estate-finance/glp-j-reit-3281.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/glp-j-reit-3281.md
+- Domain: real-estate-finance
+- Type: wiki_entry
+- Summary: GLP J-REIT's structural identity rests on three pillars: (i) sponsor pipeline — GLP develops modern logistics assets on the sponsor balance sheet and feeds stabilized properties into GLP J-REIT through preferential-supply agreements; (ii) active asset rotation — periodic disposition of properties no
+- Headings: GLP J-REIT (3281), TL;DR, Wiki route, 1. Corporate identity, 2. Sponsor platform — GLP, 3. Portfolio composition, 4. Capital and leverage, 5. Asset rotation strategy
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread, https://finwiki.zksc.io/real-estate-finance/j-reit-foreign-investor-ownership, https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview, https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict, https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison, https://finwiki.zksc.io/real-estate-finance/japan-real-estate-j-reit-8952, https://finwiki.zksc.io/real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison
+
 ### J-REIT dividend yield vs JGB spread
 - URL: https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread
 - Source path: real-estate-finance/j-reit-dividend-yield-vs-jgb-spread.md
@@ -10780,6 +11420,16 @@ Public pages listed: 1240
 - Headings: Japan real-estate appraisal methodology, TL;DR, Wiki route, 1. Statutory framework, Real Estate Appraisal Standards, Appraiser licensing, Independence rules, 2. Income approach — DCF method
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/japan-real-estate-institute, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape, https://finwiki.zksc.io/banking/master-trust-bank-operating-model, https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview, https://finwiki.zksc.io/policy-finance/INDEX
 
+### Japan Real Estate Investment (JRE, J-REIT 8952)
+- URL: https://finwiki.zksc.io/real-estate-finance/japan-real-estate-j-reit-8952
+- Source path: real-estate-finance/japan-real-estate-j-reit-8952.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/japan-real-estate-j-reit-8952.md
+- Domain: real-estate-finance
+- Type: wiki_entry
+- Summary: The MEC vs Mitsui rivalry expressed at the listed-REIT layer through JRE vs NBF is the defining feature: both are conservative-LTV (low-to-mid 40% zone), AA-rated, premium-yield (low end of J-REIT yield distribution), foreign-investor-benchmark office J-REIT. The key contrast is sponsor pipeline sou
+- Headings: Japan Real Estate Investment (JRE, J-REIT 8952), TL;DR, Wiki route, 1. Corporate identity, 2. Portfolio composition, 3. Capital and leverage, 4. Top-tenant exposure, 5. JRE vs NBF — the MEC vs Mitsui rivalry proxy
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281, https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread
+
 ### JPX TSE REIT Index derivatives
 - URL: https://finwiki.zksc.io/real-estate-finance/jpx-real-estate-index-derivatives
 - Source path: real-estate-finance/jpx-real-estate-index-derivatives.md
@@ -10829,6 +11479,36 @@ Public pages listed: 1240
 - Summary: For FinWiki, Mitsui Fudosan is the office / mixed-use developer financing template: it shows how Japan's largest developers combine (i) public corporate debt at investment-grade pricing, (ii) syndicated bank financing for greenfield capex, (iii) sponsor-REIT equity recycling for stabilized assets, a
 - Headings: Mitsui Fudosan financing model, TL;DR, Wiki route, Corporate identity, Funding stack, 1. Corporate debt — public bonds, 2. Syndicated bank loans, 3. Sponsor J-REIT equity recycling
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/derivatives/yen-basis-swap-market, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/aeon-mall-financing-and-securitization, https://finwiki.zksc.io/real-estate-finance/bank-commercial-real-estate-lending-japan, https://finwiki.zksc.io/real-estate-finance/j-reit-foreign-investor-ownership
+
+### Nippon Building Fund (NBF, J-REIT 8951)
+- URL: https://finwiki.zksc.io/real-estate-finance/nippon-building-fund-j-reit-8951
+- Source path: real-estate-finance/nippon-building-fund-j-reit-8951.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/nippon-building-fund-j-reit-8951.md
+- Domain: real-estate-finance
+- Type: wiki_entry
+- Summary: NBF's investor profile combines (i) a conservative LTV in the low-to-mid-40% range, (ii) AA-domestic-rating-zone credit that supports tight investment-corporation-bond pricing, (iii) DPU yield at the low end of the J-REIT distribution (reflecting the sponsor + Tokyo CBD office + scale + liquidity pr
+- Headings: Nippon Building Fund (NBF, J-REIT 8951), TL;DR, Wiki route, 1. Corporate identity, 2. Portfolio composition, 3. Capital and leverage, 4. Top-tenant exposure, 5. NBF vs JRE — the MEC vs Mitsui rivalry proxy
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281, https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread, https://finwiki.zksc.io/real-estate-finance/j-reit-foreign-investor-ownership, https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview
+
+### Nippon Prologis REIT (3283)
+- URL: https://finwiki.zksc.io/real-estate-finance/nippon-prologis-reit-3283
+- Source path: real-estate-finance/nippon-prologis-reit-3283.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/nippon-prologis-reit-3283.md
+- Domain: real-estate-finance
+- Type: wiki_entry
+- Summary: NPR's portfolio is concentrated in AAA-grade modern logistics facilities — high-spec multi-tenant warehouses in Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets developed by Prologis Japan on the sponsor balance sheet. The AAA-grade designation refers to facility specifications: large flo
+- Headings: Nippon Prologis REIT (3283), TL;DR, Wiki route, 1. Corporate identity, 2. Prologis sponsor platform, 3. Sponsor support agreement structure, 4. Portfolio composition, 5. Capital and leverage
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281, https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread, https://finwiki.zksc.io/real-estate-finance/j-reit-foreign-investor-ownership, https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview, https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict, https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison, https://finwiki.zksc.io/real-estate-finance/japan-real-estate-j-reit-8952
+
+### Nomura Real Estate Master Fund (NMF, J-REIT 3462)
+- URL: https://finwiki.zksc.io/real-estate-finance/nomura-real-estate-master-fund-nmf
+- Source path: real-estate-finance/nomura-real-estate-master-fund-nmf.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/nomura-real-estate-master-fund-nmf.md
+- Domain: real-estate-finance
+- Type: wiki_entry
+- Summary: For FinWiki, NMF is the diversified-J-REIT template — the contrast to pure-play office J-REIT like NBF and JRE and to pure-play logistics J-REIT like GLP J-REIT and Nippon Prologis REIT. The diversified profile gives smoother DPU through cycles but at the cost of less crisp asset-class exposure for
+- Headings: Nomura Real Estate Master Fund (NMF, J-REIT 3462), TL;DR, Wiki route, 1. Corporate identity, 2. The 2015 three-way merger, 3. Portfolio composition, 4. Capital and leverage, 5. Diversified vs pure-play J-REIT
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281, https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread, https://finwiki.zksc.io/real-estate-finance/j-reit-foreign-investor-ownership, https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview, https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict, https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison
 
 ### Private REIT Japan vs listed J-REIT comparison
 - URL: https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison
@@ -11278,6 +11958,16 @@ Public pages listed: 1240
 - Headings: Japan FIEA operator registry segment matrix, TL;DR, Wiki route, Why this matrix matters, Registry-wide snapshot, Segment 1 — Type I 金商業者 (第一種金融商品取引業), Segment 2 — Type II 金商業者 (第二種金融商品取引業), Segment 3 — 投資助言・代理業 (Investment Advisory / Agency Business)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/asset-management-one, https://finwiki.zksc.io/JapanFG/asset-management-one\, https://finwiki.zksc.io/JapanFG/bank-of-america-japan, https://finwiki.zksc.io/JapanFG/bank-of-america-japan\, https://finwiki.zksc.io/JapanFG/barclays-japan, https://finwiki.zksc.io/JapanFG/barclays-japan\, https://finwiki.zksc.io/JapanFG/bnp-paribas-japan, https://finwiki.zksc.io/JapanFG/bnp-paribas-japan\, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/citigroup-japan\, https://finwiki.zksc.io/JapanFG/crowdcredit-incorporated
 
+### Japan IPO 2024-2025 case study: Tokyo Metro and Kioxia
+- URL: https://finwiki.zksc.io/securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro
+- Source path: securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md
+- Domain: securities
+- Type: wiki_entry
+- Summary: This entry sits under securities index. Read it against Japan IPO listing disclosure route for the structural / system / regulatory boundary and Japan underwriting market structure for peer / contrast context. This page records two large 2024-2025 listing cases used as case-study readings for the li
+- Headings: Japan IPO 2024-2025 case study: Tokyo Metro and Kioxia, Wiki route, TL;DR, Case Study Map, Case 1: Tokyo Metro (9023), Issuer summary, Offering structure, Why the case is structurally important
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/gmo-click-securities, https://finwiki.zksc.io/JapanFG/japan-exchange-group, https://finwiki.zksc.io/JapanFG/jsda, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/monex-group, https://finwiki.zksc.io/JapanFG/mufg-esmart-securities, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/paypay-securities, https://finwiki.zksc.io/JapanFG/rakuten-securities
+
 ### Japan IPO listing disclosure route
 - URL: https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route
 - Source path: securities/japan-ipo-listing-disclosure-route.md
@@ -11447,6 +12137,16 @@ Public pages listed: 1240
 - Summary: This entry sits under securities index. Read it against 日本証券クリアリング機構 (JSCC) for peer / contrast context and financial instruments business operators japan index for the broader system / regulatory boundary.
 - Headings: NISA 2024 flow, Wiki route, TL;DR, System Map, Key Parameters, JapanFG Relevance, Decision Use, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/jsda, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/rakuten-securities, https://finwiki.zksc.io/JapanFG/smbc-nikko, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index
+
+### NISA 2025 tax reform update
+- URL: https://finwiki.zksc.io/securities/nisa-2025-tax-reform-update
+- Source path: securities/nisa-2025-tax-reform-update.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/securities/nisa-2025-tax-reform-update.md
+- Domain: securities
+- Type: wiki_entry
+- Summary: This entry sits under securities index. Read it against NISA 2024 flow for peer / contrast context and FIEA operator registry index for the broader system / regulatory boundary. This page records the 2025 tax-reform expansion items that sit on top of the 2024-launched permanent NISA regime.
+- Headings: NISA 2025 tax reform update, Wiki route, TL;DR, Why a Separate Page, Reform Track Map, Reading Method, Inheritance / Succession Direction, Operational Improvement Items
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-sg, https://finwiki.zksc.io/JapanFG/dmm-com-securities, https://finwiki.zksc.io/JapanFG/gmo-click-securities, https://finwiki.zksc.io/JapanFG/jsda, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/monex-group, https://finwiki.zksc.io/JapanFG/mufg-esmart-securities, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/nomura-hd, https://finwiki.zksc.io/JapanFG/paypay-securities, https://finwiki.zksc.io/JapanFG/rakuten-securities
 
 ### ODX START security token secondary market
 - URL: https://finwiki.zksc.io/securities/odx-start-stb-secondary-market
@@ -11678,6 +12378,26 @@ Public pages listed: 1240
 - Headings: Japan CMBS issuance structure, TL;DR, Wiki route, 1. Structure types, 2. Tranching, 3. B-piece buyer market, 4. Recovery scenarios, 5. Post-2008 issuance drop
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/structured-finance/INDEX, https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i, https://finwiki.zksc.io/structured-finance/japan-abs-market-overview, https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure, https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv, https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax
 
+### Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs
+- URL: https://finwiki.zksc.io/structured-finance/japan-covered-bond-mufg-smbc
+- Source path: structured-finance/japan-covered-bond-mufg-smbc.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-covered-bond-mufg-smbc.md
+- Domain: structured-finance
+- Type: wiki_entry
+- Summary: The Japanese megabanks — led by MUFG Bank and SMBC — issue EUR and USD covered bonds to international investors as a USD/EUR-denominated funding source positioned between senior unsecured bonds and traditional RMBS securitization. The covered-bond programs are contractually structured (rather than s
+- Headings: Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs, TL;DR, Wiki route, 1. What a covered bond is — short refresher, 2. European statutory vs Japanese contractual structure, 3. The Japanese megabank programs — MUFG and SMBC, MUFG Bank covered bond program, SMBC covered bond program
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/moodys-japan, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-bank, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/sp-global-ratings-japan, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp, https://finwiki.zksc.io/finance/INDEX
+
+### Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification
+- URL: https://finwiki.zksc.io/structured-finance/japan-green-securitization
+- Source path: structured-finance/japan-green-securitization.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-green-securitization.md
+- Domain: structured-finance
+- Type: wiki_entry
+- Summary: The market operates under the ICMA Green Bond Principles / Sustainability Bond Guidelines framework supplemented by Japan-specific FSA principles (most notably the FSA / METI / MOE Green Bond Guidelines) and increasingly Climate Bonds Initiative (CBI) certification for global investor recognition. T
+- Headings: Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification, TL;DR, Wiki route, 1. Green / sustainable securitization — framework, 2. Japanese regulatory framework, 3. Green RMBS — JHF green Flat-35-S anchor, Megabank green RMBS, 4. Green ABS — renewable and EV-charging receivables
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency, https://finwiki.zksc.io/structured-finance/INDEX, https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda, https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i, https://finwiki.zksc.io/structured-finance/japan-abs-market-overview, https://finwiki.zksc.io/structured-finance/japan-covered-bond-mufg-smbc
+
 ### Japan RMBS issuance structure
 - URL: https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure
 - Source path: structured-finance/japan-rmbs-issuance-structure.md
@@ -11777,6 +12497,16 @@ Public pages listed: 1240
 - Summary: Synthetic securitisation — where a bank transfers credit risk on a reference loan portfolio to outside investors via a credit-default swap (CDS) or credit-linked note (CLN) structure without selling the underlying loans — is the modern Basel III tool for risk-weighted asset (RWA) relief on bank bala
 - Headings: Synthetic securitisation in Japan — bank RWA relief via CLN / CDS on reference loan portfolios, TL;DR, Wiki route, 1. The problem — bank capital constraints on loan growth, 2. The two paths to RWA relief, 3. Synthetic securitisation structure, 4. FSA capital-relief approval — the structural test, 5. Japanese megabank synthetic-SRT activity
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/japan-exchange-group, https://finwiki.zksc.io/JapanFG/japan-post-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/derivatives/japan-cds-market-overview, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics, https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/structured-finance/INDEX
+
+### TMK (特定目的会社) special-purpose-company mechanics
+- URL: https://finwiki.zksc.io/structured-finance/tmk-special-purpose-company-mechanics
+- Source path: structured-finance/tmk-special-purpose-company-mechanics.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/tmk-special-purpose-company-mechanics.md
+- Domain: structured-finance
+- Type: wiki_entry
+- Summary: For FinWiki, TMK is the regulated-statutory-SPV node in the Japan securitization landscape. The choice between TMK and GK-TK is the foundational securitization-vehicle-choice decision for arrangers — TMK for public-bond issuance, regulatory-disclosure deals, listed CMBS, complex structures; GK-TK fo
+- Headings: TMK (特定目的会社) special-purpose-company mechanics, TL;DR, Wiki route, 1. Legal basis — Act on Securitization of Assets, 2. Issuance instruments, 3. Tax treatment — the distinctive feature, 4. Comparison with GK-TK, 5. TMK in current J-REIT structure
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jcr, https://finwiki.zksc.io/JapanFG/moodys-japan, https://finwiki.zksc.io/JapanFG/rating-and-investment, https://finwiki.zksc.io/JapanFG/sp-global-ratings-japan, https://finwiki.zksc.io/real-estate-finance/INDEX, https://finwiki.zksc.io/real-estate-finance/gk-tk-bond-real-estate-spv, https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview, https://finwiki.zksc.io/real-estate-finance/japan-cmbs-rmbs-securitization, https://finwiki.zksc.io/structured-finance/INDEX, https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i, https://finwiki.zksc.io/structured-finance/japan-abs-market-overview
 
 ### systems — Protocol / Infrastructure / Technical Systems Index
 - URL: https://finwiki.zksc.io/systems/INDEX
@@ -12178,6 +12908,16 @@ Public pages listed: 1240
 - Headings: Hyperledger Besu vs Canton · JPM 主战场迁移路径, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization, https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview, https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin, https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/canton-overview, https://finwiki.zksc.io/systems/hyperledger-besu-overview
 
+### IBC · Cosmos Inter-Blockchain Communication protocol
+- URL: https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain
+- Source path: systems/ibc-cosmos-cross-chain.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/ibc-cosmos-cross-chain.md
+- Domain: systems
+- Type: wiki_entry
+- Summary: This entry sits under systems index. Read it against cross-chain four poles overview and cross-chain five-pole matrix for peer / contrast, CCTP V2 for the alternative trust-minimized model, and Hyperlane vs LayerZero / CCIP for the broader interop comparison.
+- Headings: IBC · Cosmos Inter-Blockchain Communication protocol, Wiki route, Key facts, Trust model — light clients on both sides, IBC v1 vs IBC v2, Comparison vs other interop protocols, IBC channel and packet lifecycle, Origin and evolution
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging, https://finwiki.zksc.io/systems/cross-chain-bridge-security-insurance-matrix-2026, https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview, https://finwiki.zksc.io/systems/data-availability-celestia-eigenda-blob-comparison, https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow, https://finwiki.zksc.io/systems/hyperlane-overview, https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip, https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging
+
 ### 机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon
 - URL: https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026
 - Source path: systems/institutional-dlt-adoption-comparison-2026.md
@@ -12218,6 +12958,16 @@ Public pages listed: 1240
 - Headings: LayerZero v2 · DVN 可配置的全链消息协议, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging, https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview
 
+### MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions
+- URL: https://finwiki.zksc.io/systems/mev-flashbots-suave-order-flow-auction
+- Source path: systems/mev-flashbots-suave-order-flow-auction.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/mev-flashbots-suave-order-flow-auction.md
+- Domain: systems
+- Type: wiki_entry
+- Summary: This entry sits under systems index. Read it against EigenLayer for the broader crypto-economic-coordination context, L2 agent economics for the rollup-level MEV picture, and agent-economy index for the agent-transaction-cost angle.
+- Headings: MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions, Wiki route, Key facts, MEV taxonomy, Pre-Merge → Post-Merge architecture, MEV-Boost numbers and dependencies, SUAVE — what it is trying to be, Order-Flow Auctions (OFAs) for users / agents
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/stablecoin-routing-agent-transactions, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/bft-validator-economy-overview, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/eigenlayer-overview, https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow, https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison, https://finwiki.zksc.io/systems/rollup-market-share-2026-arbitrum-optimism-base, https://finwiki.zksc.io/systems/solana-firedancer-validator-economics, https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem
+
 ### 多证明系统聚合 fault prover 架构
 - URL: https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover
 - Source path: systems/multi-proof-aggregation-fault-prover.md
@@ -12257,6 +13007,16 @@ Public pages listed: 1240
 - Summary: This entry sits under systems index. Read it against ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级 for peer / contrast context and fintech index for the broader system / regulatory boundary.
 - Headings: Ethereum Pectra 升级 · 四 EIP 双轨战略总览, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Counterpoints, Open questions, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/erc-7715-overview, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/erc-4337-overview, https://finwiki.zksc.io/systems/erc-7702-overview, https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking, https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact
+
+### Polkadot XCM · parachain messaging v3-v4
+- URL: https://finwiki.zksc.io/systems/polkadot-xcm-parachain-messaging
+- Source path: systems/polkadot-xcm-parachain-messaging.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/polkadot-xcm-parachain-messaging.md
+- Domain: systems
+- Type: wiki_entry
+- Summary: This entry sits under systems index. Read it against IBC · Cosmos for the closest peer in shared-security multi-chain interop, cross-chain four poles for the broader interop landscape, and five-pole comparison matrix for side-by-side.
+- Headings: Polkadot XCM · parachain messaging v3-v4, Wiki route, Key facts, Shared-security architecture, XCM v3 → v4 evolution, Asset Hub and institutional pilots, JAM and the long-term roadmap, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/canton-overview, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview, https://finwiki.zksc.io/systems/eigenlayer-overview, https://finwiki.zksc.io/systems/hyperledger-besu-overview, https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain, https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026, https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison
 
 ### Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合
 - URL: https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout
@@ -12308,6 +13068,16 @@ Public pages listed: 1240
 - Headings: Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构, TL;DR, Wiki route, Mechanism · Firedancer 架构与 Solana 客户端格局, 三客户端格局(2026-Q2), Firedancer 性能特点, Tile-based 并行架构, Market dynamics · MEV pipeline 重构与 Jito 经济
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation, https://finwiki.zksc.io/exchanges/jp-crypto-staking-as-a-service-operators, https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure, https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/bft-validator-economy-four-variables, https://finwiki.zksc.io/systems/bft-validator-economy-overview, https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc, https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix, https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture, https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking
 
+### Sui and Aptos · Move L1 ecosystem
+- URL: https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem
+- Source path: systems/sui-aptos-move-l1-ecosystem.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/sui-aptos-move-l1-ecosystem.md
+- Domain: systems
+- Type: wiki_entry
+- Summary: This entry sits under systems index. Read it against DAG-BFT vs chain-BFT for the consensus framing, BFT validator economics for token / staking dynamics, and threshold BFT for the implementation-language context.
+- Headings: Sui and Aptos · Move L1 ecosystem, Wiki route, Key facts, Move language origin and design, Sui vs Aptos architectural divergence, Parallel execution — why Move L1s matter, Financial / agent-payment use cases, Counterpoints
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/bft-validator-economy-overview, https://finwiki.zksc.io/systems/canton-overview, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture, https://finwiki.zksc.io/systems/hyperledger-besu-overview, https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison, https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging, https://finwiki.zksc.io/systems/solana-firedancer-validator-economics, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
+
 ### Threshold BFT 共识 Rust 化潮流
 - URL: https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
 - Source path: systems/threshold-bft-consensus-rust-implementations.md
@@ -12317,6 +13087,16 @@ Public pages listed: 1240
 - Summary: This entry sits under systems index. Read it against DAG-BFT vs Chain-BFT 架构本质分歧（mempool 抽象之争） for peer / contrast context and fintech index for the broader system / regulatory boundary.
 - Headings: Threshold BFT 共识 Rust 化潮流, Wiki route, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture, https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration
+
+### TON · Telegram Open Network ecosystem
+- URL: https://finwiki.zksc.io/systems/ton-telegram-openwallet-ecosystem
+- Source path: systems/ton-telegram-openwallet-ecosystem.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/ton-telegram-openwallet-ecosystem.md
+- Domain: systems
+- Type: wiki_entry
+- Summary: This entry sits under systems index. Read it against Sui and Aptos and Solana for peer L1 context, BFT validator economics for consensus framing, and agent-economy index for the bot / agent UX angle.
+- Headings: TON · Telegram Open Network ecosystem, Wiki route, Key facts, Telegram + TON architectural fit, TON architecture in brief, USDT-TON growth thesis, Agent-payment volume on TON, TON vs Solana vs Tron for stablecoin mass distribution
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/INDEX, https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview, https://finwiki.zksc.io/agent-economy/x402-http-payment-overview, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/bft-validator-economy-overview, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison, https://finwiki.zksc.io/systems/solana-firedancer-validator-economics
 
 ### L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈
 - URL: https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor
