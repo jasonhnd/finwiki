@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, stablecoin, ripple, rlusd, xrpl, cross-border, compliance-first]
-sources: []
+sources:
+  - https://ripple.com/stablecoin/
+  - https://ripple.com/insights/
+  - https://www.dfs.ny.gov/industry_guidance/industry_letters/il20241210_ripple_usd
+  - https://xrpl.org/
+  - https://ripple.com/press-releases/
 status: candidate
 ---
 

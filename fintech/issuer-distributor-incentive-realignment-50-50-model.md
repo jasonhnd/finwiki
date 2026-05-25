@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, coinbase, circle, usdc, revenue-split, distribution-economics, genius-501]
-sources: []
+sources:
+  - https://www.circle.com/en/usdc
+  - https://investor.coinbase.com/financials/sec-filings/default.aspx
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K
+  - https://www.circle.com/en/transparency
+  - https://www.coinbase.com/blog
 status: candidate
 ---
 

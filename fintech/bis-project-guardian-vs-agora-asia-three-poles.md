@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, mas, hkma, boj, guardian, ensemble, agora, asia, tokenization]
-sources: []
+sources:
+  - https://www.mas.gov.sg/schemes-and-initiatives/project-guardian
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/research-and-applications/project-ensemble/
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
+  - https://www.boj.or.jp/en/paym/digital/index.htm
+  - https://www.bis.org/innovation_hub.htm
 status: candidate
 ---
 

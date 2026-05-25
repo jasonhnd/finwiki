@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, fatf, travel-rule, eu, jp, us, hk, sg]
-sources: []
+sources:
+  - https://www.fatf-gafi.org/en/topics/virtual-assets.html
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1113
+  - https://www.fincen.gov/resources/statutes-and-regulations
+  - https://www.fsa.go.jp/en/news/index.html
+  - https://www.hkma.gov.hk/eng/key-functions/banking/anti-money-laundering-and-counter-financing-of-terrorism/
 status: candidate
 ---
 

@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: likely
 tags: [fintech, sovereign-wealth, crypto, mubadala, aramco, blackrock, middle-east, allocation]
 status: candidate
-sources: []
+sources:
+  - https://www.mubadala.com/en/news
+  - https://www.aramco.com/en/investors
+  - https://www.blackrock.com/corporate/newsroom
+  - https://www.pif.gov.sa/
+  - https://www.swfinstitute.org/fund-rankings/sovereign-wealth-fund
 ---
 
 # 主权基金加密基础设施配置模式

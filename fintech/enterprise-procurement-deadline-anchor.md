@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, enterprise-sales, B2B, timing-analysis, stablecoin]
 status: candidate
-sources: []
+sources:
+  - https://www.gartner.com/en/research/methodologies/it-budget
+  - https://www.idc.com/
+  - https://www2.deloitte.com/us/en/insights/topics/strategy/digital-transformation-budget.html
+  - https://stripe.com/enterprise
+  - https://www.circle.com/en/business
 ---
 
 # 企业 IT 采购预算锁定

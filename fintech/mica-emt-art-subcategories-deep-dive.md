@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, eu, mica, emt, art, stablecoin]
-sources: []
+sources:
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
+  - https://www.eba.europa.eu/regulation-and-policy/markets-crypto-assets
+  - https://www.eba.europa.eu/publications-and-media/press-releases
+  - https://www.esma.europa.eu/document/mica-art-emt-asset-referenced-electronic-money-tokens
 status: candidate
 ---
 

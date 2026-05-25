@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, eu, mica, mra, usdc, eurc]
-sources: []
+sources:
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
+  - https://www.circle.com/en/eurc
+  - https://www.circle.com/en/usdc
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
 status: candidate
 ---
 

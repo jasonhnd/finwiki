@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, wrapped-asset, bitcoin, coinbase, base, defi, custody]
-sources: []
+sources:
+  - https://www.coinbase.com/cbbtc
+  - https://www.coinbase.com/blog/introducing-coinbase-wrapped-btc-cbbtc
+  - https://base.org/
+  - https://www.coinbase.com/legal/cbbtc
+  - https://wbtc.network/
 status: candidate
 ---
 

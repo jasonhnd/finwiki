@@ -34,6 +34,7 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 
 | Lane | Start page | Use when asking |
 |---|---|---|
+| System overview | [[insurance/japan-insurance-system-overview|Japan insurance system overview]] | What the full Japan insurance system looks like across life / non-life / kyosai / reinsurance / earthquake-insurance scheme. |
 | Solvency regime | [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] | How FSA's economic-value solvency framework changes insurer capital. |
 | Company capital KPI | [[insurance/esr-economic-value-solvency|ESR]] | How to read economic solvency ratios in insurer disclosures. |
 | Legal / license route | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Whether a page is about underwriting, holding-company control, distribution, brokerage, or insurer capital. |

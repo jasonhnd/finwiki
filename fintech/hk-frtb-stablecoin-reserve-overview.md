@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, hk, hkma, stablecoin, reserve, frtb]
-sources: []
+sources:
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/
+  - https://www.legco.gov.hk/yr2024/english/bills/b202412201.pdf
+  - https://www.bis.org/bcbs/publ/d457.htm
+  - https://www.bis.org/bcbs/publ/d533.htm
+  - https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/12/20241218-3/
 status: candidate
 ---
 

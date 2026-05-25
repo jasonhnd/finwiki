@@ -45,6 +45,7 @@ This domain routes securities-market and household-investment pages. Listed fina
 
 | Lane | Start page | Use when asking |
 |---|---|---|
+| Ecosystem overview | [[securities/japan-capital-markets-ecosystem-overview|Japan capital markets ecosystem overview]] | What the full Japan capital-markets ecosystem looks like across issuance / trading / clearing / settlement / regulation. |
 | Household asset-building | [[securities/nisa-2024-flow|NISA 2024 flow]] | How New NISA changes retail brokerage competition and household investment flow. |
 | Online brokerage competition | [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] | How SBI, Rakuten, Monex, Matsui, MUFG eSmart, PayPay Securities, GMO Click, and DMM compete across NISA, points, fees, bank linkage, FX / CFD, and app-native investing. |
 | Best execution / SOR / PTS | [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]] | How broker routing, PTS, smart order routing, explicit fees, implicit spread, and customer-outcome controls connect. |

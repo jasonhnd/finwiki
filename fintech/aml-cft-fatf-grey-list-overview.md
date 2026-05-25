@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, aml, cft, fatf, jurisdiction]
-sources: []
+sources:
+  - https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html
+  - https://www.fatf-gafi.org/en/publications/Mutualevaluations/Mutual-evaluations.html
+  - https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
+  - https://www.imf.org/external/np/leg/amlcft/eng/
+  - https://www.worldbank.org/en/topic/financialmarketintegrity
 status: candidate
 ---
 

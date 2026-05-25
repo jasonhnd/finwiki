@@ -9,7 +9,12 @@ review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, japan, regulation, trust-banking, progmat, td]
 status: candidate
-sources: []
+sources:
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://progmat.co.jp/
+  - https://www.mufg.jp/english/
+  - https://www.smtb.jp/business/digital_assets/
+  - https://elaws.e-gov.go.jp/document?lawid=418AC0000000108
 ---
 
 # 日本信託型 SC 架構

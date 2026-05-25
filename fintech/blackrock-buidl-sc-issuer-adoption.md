@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, tokenization, mmf, blackrock, stablecoin-reserve, defi-collateral, im-collateral]
-sources: []
+sources:
+  - https://www.blackrock.com/us/individual/products/335977/buidl
+  - https://securitize.io/products/buidl
+  - https://www.ondo.finance/
+  - https://app.rwa.xyz/treasuries
+  - https://www.sky.money/
 status: candidate
 ---
 

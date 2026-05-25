@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, circle, arc, coinbase, base, stablecoin-l1, vertical-integration]
-sources: []
+sources:
+  - https://www.circle.com/en/arc
+  - https://www.circle.com/en/usdc
+  - https://www.base.org/
+  - https://investor.coinbase.com/news-events/press-releases/default.aspx
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=10-K
 status: candidate
 ---
 

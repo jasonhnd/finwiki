@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, us, irs, tax, anonymity, defi]
-sources: []
+sources:
+  - https://www.irs.gov/forms-pubs/about-form-1099-da
+  - https://www.irs.gov/pub/irs-drop/td-10000.pdf
+  - https://www.federalregister.gov/documents/2024/07/09/2024-14004/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for
+  - https://home.treasury.gov/news/press-releases/jy2110
+  - https://www.oecd.org/tax/exchange-of-tax-information/crypto-asset-reporting-framework-and-amendments-to-the-common-reporting-standard.htm
 status: candidate
 ---
 

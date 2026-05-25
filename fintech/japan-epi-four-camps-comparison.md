@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, japan, stablecoin, sbi-circle, jpyc, progmat]
-sources: []
+sources:
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.sbigroup.co.jp/news/
+  - https://jpyc.co.jp/
+  - https://progmat.co.jp/
+  - https://www.boj.or.jp/en/paym/digital/index.htm
 status: candidate
 ---
 

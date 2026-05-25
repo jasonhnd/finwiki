@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, cbdc, bridge, mbridge, bis, china, brics, non-dollar]
-sources: []
+sources:
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://www.bis.org/publ/othp59.htm
+  - https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/06/20240605-4/
+  - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
+  - https://www.bis.org/about/bisih/locations/hong_kong_sar.htm
 status: candidate
 ---
 

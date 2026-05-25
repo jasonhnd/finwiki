@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, cbdc, e-cny, drex, digital-euro, monetary-architecture]
-sources: []
+sources:
+  - https://www.bis.org/publ/othp33.htm
+  - https://www.bis.org/publ/arpdf/ar2021e3.htm
+  - https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html
+  - https://www.bcb.gov.br/en/financialstability/drex_en
+  - https://www.pbc.gov.cn/en/3688110/index.html
 status: candidate
 ---
 

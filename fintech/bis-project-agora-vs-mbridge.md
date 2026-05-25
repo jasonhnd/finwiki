@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, bis, mbridge, agora, cbdc, geopolitics, cross-border-settlement]
-sources: []
+sources:
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://www.bis.org/press/p240403.htm
+  - https://www.bis.org/innovation_hub.htm
+  - https://www.pbc.gov.cn/en/3688110/index.html
 status: candidate
 ---
 

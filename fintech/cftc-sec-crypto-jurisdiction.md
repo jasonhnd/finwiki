@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, us-regulation, cftc, sec, jurisdiction, fit21]
-sources: []
+sources:
+  - https://www.cftc.gov/digitalassets/index.htm
+  - https://www.sec.gov/spotlight/cybersecurity-enforcement-actions
+  - https://www.congress.gov/bill/118th-congress/house-bill/4763
+  - https://www.congress.gov/bill/119th-congress/house-bill/3633
+  - https://www.sec.gov/news/statement/gensler-crypto-2023-04-18
 status: candidate
 ---
 

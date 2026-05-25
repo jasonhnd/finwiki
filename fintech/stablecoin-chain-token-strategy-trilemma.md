@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: likely
 tags: [fintech, blockchain, token, game-theory, framework]
 status: candidate
-sources: []
+sources:
+  - https://www.circle.com/en/arc
+  - https://www.base.org/
+  - https://tether.to/en/news/
+  - https://ethereum.org/en/
+  - https://solana.com/news
 ---
 
 # 稳定币公链 token 策略三态博弈

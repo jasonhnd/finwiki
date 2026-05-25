@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: certain
 tags: [fintech, stablecoin, emerging-markets, dollarization, USDT, USDC]
 status: candidate
-sources: []
+sources:
+  - https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
+  - https://www.imf.org/en/Publications/WP/Issues/2024/01/26/Crypto-Assets-and-Macroeconomic-Stability
+  - https://tether.to/en/transparency/
+  - https://www.bis.org/publ/work1227.htm
+  - https://www.coindesk.com/markets/2023/argentina-stablecoin-usage/
 ---
 
 # 新兴市场加密美元化模式

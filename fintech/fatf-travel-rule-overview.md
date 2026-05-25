@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, fatf, travel-rule, vasp, kyc, aml]
-sources: []
+sources:
+  - https://www.fatf-gafi.org/en/topics/virtual-assets.html
+  - https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
+  - https://www.fincen.gov/resources/statutes-and-regulations
+  - https://www.fatf-gafi.org/content/dam/fatf-gafi/recommendations/Updated-Guidance-VA-VASP.pdf
+  - https://www.notabene.id/travel-rule
 status: candidate
 ---
 

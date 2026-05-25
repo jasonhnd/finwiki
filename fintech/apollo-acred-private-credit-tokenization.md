@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, tokenization, private-credit, apollo, securitize, rwa, mmf]
-sources: []
+sources:
+  - https://www.apollo.com/insights/
+  - https://www.securitize.io/
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=apollo
+  - https://www.apollo.com/strategies/yield/diversified-credit
+  - https://app.rwa.xyz/
 status: candidate
 ---
 

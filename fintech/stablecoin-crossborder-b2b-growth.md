@@ -11,7 +11,12 @@ review_by: 2026-10-30
 confidence: certain
 tags: [fintech]
 status: confirmed
-sources: []
+sources:
+  - https://www.fireblocks.com/state-of-stablecoins-2025/
+  - https://www.circle.com/en/blog
+  - https://www.coinbase.com/blog
+  - https://www.visa.com/blogarchives/us/2024/09/05/stablecoins-cross-border/index.html
+  - https://www.bis.org/cpmi/publ/d215.htm
   - projects/bittrade-jetro/index.md
 ---
 

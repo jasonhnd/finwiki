@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, systemic-risk, stablecoin, tokenized-mmf, buidl, usdc]
-sources: []
+sources:
+  - https://www.blackrock.com/us/individual/products/335977/buidl
+  - https://www.circle.com/en/transparency
+  - https://securitize.io/products/buidl
+  - https://app.rwa.xyz/treasuries
+  - https://www.federalreserve.gov/publications/financial-stability-report.htm
 status: candidate
 ---
 

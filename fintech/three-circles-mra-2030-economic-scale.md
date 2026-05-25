@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, number, economic-pattern, mra, genius, mica, epi, white-gray-ring, 2030-forecast]
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.bis.org/cpmi/publ/d215.htm
+  - https://www.imf.org/en/Publications/WEO
 status: candidate
 ---
 

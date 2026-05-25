@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, basel, bcbs, frtb, bank, capital-requirement]
-sources: []
+sources:
+  - https://www.bis.org/bcbs/publ/d545.htm
+  - https://www.bis.org/basel_framework/chapter/SCO/60.htm
+  - https://www.bis.org/bcbs/
+  - https://www.eba.europa.eu/regulation-and-policy/single-rulebook
+  - https://www.federalreserve.gov/supervisionreg/topics/cryptoasset.htm
 status: candidate
 ---
 

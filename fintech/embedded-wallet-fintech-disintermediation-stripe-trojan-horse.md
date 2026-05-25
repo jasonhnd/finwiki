@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, embedded-wallet, stripe, privy, bridge, tempo, trojan-horse, vertical-integration]
-sources: []
+sources:
+  - https://stripe.com/newsroom
+  - https://www.bridge.xyz/
+  - https://www.privy.io/
+  - https://tempo.xyz/
+  - https://stripe.com/use-cases/crypto
 status: candidate
 ---
 

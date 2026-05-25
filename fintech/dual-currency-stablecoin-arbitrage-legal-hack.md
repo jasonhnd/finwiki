@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, fx, legal-hack, genius-501, mica, japan-psa, stablecoin]
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://www.fsa.go.jp/en/news/index.html
+  - https://www.esma.europa.eu/policy-activities/crypto-assets-mica
+  - https://www.circle.com/en/eurc
+  - https://www.circle.com/en/usdc
 status: candidate
 ---
 

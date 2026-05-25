@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: likely
 tags: [fintech, stablecoin, geopolitics, sovereign-currency, framework]
 status: candidate
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
+  - https://www.bis.org/cpmi/publ/d215.htm
 ---
 
 # 稳定币地缘货币对立框架

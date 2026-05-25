@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: certain
 tags: [fintech, wall-street, investment, framework, Visa]
 status: candidate
-sources: []
+sources:
+  - https://investor.visa.com/financial-information/sec-filings/default.aspx
+  - https://www.mastercard.com/news/press/
+  - https://www.blackrock.com/corporate/newsroom
+  - https://www.circle.com/en/usdc
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K
 ---
 
 # Wall Street 加密网络中立投资策略

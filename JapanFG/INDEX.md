@@ -45,6 +45,12 @@ sources:
 
 ---
 
+## Cross-cutting overview
+
+- [[JapanFG/japan-financial-conglomerate-structure-overview|Japan financial conglomerate structure overview]] — six-cluster taxonomy of Japan's financial conglomerates (mega-bank FG / trust-dominant FG / postal-and-policy-finance / communications-and-payment FG / independent securities-and-asset-management FG / regional bank FG), FSA conglomerate supervision, and structural history.
+
+---
+
 ## P0 メガバンク + 主要 FG（8 家）✅ 完了
 
 | Status | Slug | Name | 類型 | 備考 |

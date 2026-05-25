@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, fdusd, first-digital, hong-kong, hkma, binance, gray-to-white]
-sources: []
+sources:
+  - https://firstdigitallabs.com/
+  - https://firstdigitallabs.com/fdusd
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/
+  - https://www.binance.com/en/support/announcement
+  - https://coinmarketcap.com/currencies/first-digital-usd/
 status: candidate
 ---
 

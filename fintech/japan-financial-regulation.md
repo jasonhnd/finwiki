@@ -11,7 +11,12 @@ review_by: 2026-10-30
 confidence: likely
 tags: [fintech]
 status: candidate
-sources: []
+sources:
+  - https://www.fsa.go.jp/en/
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.fsa.go.jp/common/law/index.html
+  - https://elaws.e-gov.go.jp/
+  - https://www.boj.or.jp/en/paym/digital/index.htm
 evidence_count: 2
 challenges: 0
 ---

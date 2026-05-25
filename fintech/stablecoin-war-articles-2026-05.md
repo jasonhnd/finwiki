@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, reference, stablecoin, publication, project-index]
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/
+  - https://www.bis.org/cpmi/publ/d215.htm
 status: active
 ---
 

@@ -10,7 +10,12 @@ review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
 status: candidate
-sources: []
+sources:
+  - https://www.fsa.go.jp/en/news/index.html
+  - https://www.fsa.go.jp/policy/virtual_currency/index.html
+  - https://www.boj.or.jp/en/about/index.htm
+  - https://www.paxos.com/pax-gold/
+  - https://tether.to/en/transparency/?tab=xaut
 ---
 
 # 日本におけるトークン発行スキーム比較

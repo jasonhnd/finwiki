@@ -11,7 +11,12 @@ review_by: 2026-10-30
 confidence: likely
 tags: [fintech, needs-verification]
 status: candidate
-sources: []
+sources:
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.fsa.go.jp/news/r5/sonota/20231121/2023_paymentservices.html
+  - https://www.fsa.go.jp/common/law/index.html
+  - https://www.fsa.go.jp/en/news/
+  - https://elaws.e-gov.go.jp/document?lawid=421AC0000000059
 note: 2026-06 全面施行日期为会话中推测，未经官方来源确认
 ---
 
