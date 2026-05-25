@@ -62,4 +62,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ---
 
-来源: projects/cgv/jp-crypto-exchange-research/ + SFC 公告 + HK AMLO 改正条文公開資料
+来源: 公開情報整理 (SFC 公告、HK AMLO 改正条文公開資料、HKMA stablecoin issuer 公告、各ライセンシー IR)

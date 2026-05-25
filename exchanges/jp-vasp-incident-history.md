@@ -56,4 +56,4 @@ DMM Bitcoin 事案 (2024-05) は、FBI・米財務省・警察庁の共同声明
 - [[fintech/japan-financial-regulation]] — 資金決済法 / 金商法の枠組み
 - [[exchanges/jp-custody-ginco]] — DMM 事案の侵入経路
 
-来源: projects/cgv/jp-crypto-exchange-research/
+来源: 公開情報整理 (FSA 業務改善命令・行政処分公表、JVCEA 公告、各事案当事社の IR・記者会見・第三者委員会調査報告書、警察庁/サイバー警察局公表、Chainalysis/Elliptic 公開リサーチ)

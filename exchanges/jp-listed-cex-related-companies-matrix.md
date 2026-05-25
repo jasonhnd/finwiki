@@ -58,4 +58,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - **機関配分**: 大手金融 conglomerate 経由 (Monex / SBI / 野村) が現実的。専業上場は CNCK のみ。
 - **撤退/縮小 (反例)**: マネパG 上場廃止, LINE Xenesis 終了, DMM Bitcoin 廃業 — 専業独立は資本市場で持続困難。参照: [[exchanges/jp-vasp-ma-consolidation-history]]。
 
-来源: projects/cgv/jp-crypto-exchange-research/ + 東証/Nasdaq 開示 + EDINET
+来源: 公開情報整理 (東証/Nasdaq 開示、EDINET、各上場会社 IR・有価証券報告書、FSA 暗号資産交換業者登録一覧)

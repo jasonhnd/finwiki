@@ -54,4 +54,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 「金融 × プラットフォーム」hybrid が国内 CEX 競争軸。**LINE 撤退 vs PayPay 進出** = ソフトバンク系再編 sign。今後は dポイント・PayPay ポイントが次の統合候補。[[exchanges/jp-vasp-parent-company-map]]親会社プロファイルは [[JapanFG/rakuten-fg|Rakuten FG]] および [[JapanFG/monex-group|Monex Group]] と読み合わせると関係性が見える。stablecoin 統合は [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン / EPI 統合]] と [[fintech/japan-stablecoin-regulatory-landscape|日本 stablecoin 規制ランドスケープ]] を併読。
 
-来源: projects/cgv/jp-crypto-exchange-research/
+来源: 公開情報整理 (各 CEX/ポイント発行体 IR・利用規約、JVCEA 自主規制公表、楽天/SBI/PayPay/メルカリ各社プレスリリース)

@@ -55,4 +55,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 **日本市場アクセス**: top 10 の多くが日本 FSA [[exchanges/fsa-foreign-exchange-warning-system|警告対象]]。**Binance** のみ日本法人化に成功 ([[exchanges/jp-exchange-binance-japan|Binance Japan]] 2022 サクラエクスチェンジ買収、JVCEA Type 1)。**Coinbase** は 2018 FSA 登録するも 2023 日本撤退 (dormant 状態、[[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]])。**OKX** は [[exchanges/jp-exchange-okcoin-japan|OKCoinJapan/OKJ]] を別法人として Type 1 spot 運営 (deriv なし)。**Bybit / Bitget / KuCoin / MEXC** は無登録のまま日本居住者向けサービスを継続し FSA 警告継続中 ([[exchanges/jp-foreign-exchange-bybit]] · [[exchanges/jp-foreign-exchange-mexc]] · [[exchanges/jp-foreign-exchange-bitget]] · [[exchanges/jp-foreign-exchange-kucoin]] · [[exchanges/jp-foreign-exchange-binance-holdings-legacy]])。**Kraken** は 2018 日本撤退後再参入せず、**Crypto.com** は日本進出未確認、**Gate.io / Upbit** は日本居住者向け案内なし。
 
-来源: projects/cgv/jp-crypto-exchange-research/, CoinGecko / CoinMarketCap ranking, 各社公式 IR · Wikipedia (二次)
+来源: 公開情報整理 (CoinGecko/CoinMarketCap ranking、各社公式 IR、SEC EDGAR (Coinbase 10-K/10-Q)、EDINET、各社プレスリリース、Wikipedia (二次参照))

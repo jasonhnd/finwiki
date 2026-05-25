@@ -77,4 +77,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック詳細分析]]
 - [[exchanges/global-crypto-forensics-vendor-layer|グローバル crypto forensics ベンダーレイヤー]]
 
-来源: projects/cgv/jp-crypto-exchange-research/
+来源: 公開情報整理 (DMM Bitcoin/SBI VC Trade IR 開示、FSA 業務改善命令、警察庁/NPA 公表、Chainalysis/Elliptic 公開トレース、Lazarus グループ追跡レポート)

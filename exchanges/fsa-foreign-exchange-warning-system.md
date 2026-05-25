@@ -74,4 +74,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jp-vasp-regulatory-timeline]] — JP VASP 規制タイムライン
 - [[exchanges/fsa-business-improvement-orders-history]] — FSA 業務改善命令履歴
 
-来源: projects/cgv/jp-crypto-exchange-research/
+来源: 公開情報整理 (FSA「警告書発出先一覧」、金融庁/関東財務局等の警告書公表、各社サイトの WHOIS/アーカイブ確認)
