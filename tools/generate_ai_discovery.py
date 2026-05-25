@@ -7,15 +7,15 @@ import json
 import re
 import unicodedata
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from html import escape
 from pathlib import Path
 from typing import Iterable
 
-try:
-    from zoneinfo import ZoneInfo
-except ImportError:  # pragma: no cover - Python 3.8 fallback only.
-    ZoneInfo = None
+# Fixed +09:00 offset — works on every Python install regardless of whether
+# tzdata is present (Python 3.14 on Windows ships without the IANA db, so
+# ZoneInfo("Asia/Tokyo") would crash).
+JST = timezone(timedelta(hours=9))
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -64,9 +64,7 @@ class Entry:
 
 
 def now_jst() -> datetime:
-    if ZoneInfo is None:
-        return datetime.now().astimezone()
-    return datetime.now(ZoneInfo("Asia/Tokyo"))
+    return datetime.now(tz=JST)
 
 
 def site_url(path: str = "") -> str:
@@ -422,7 +420,7 @@ def write_robots(model: dict[str, object]) -> None:
             "",
         ]
     )
-    (ROOT / "robots.txt").write_text(text, encoding="utf-8")
+    (ROOT / "robots.txt").write_text(text, encoding="utf-8", newline="\n")
 
 
 def write_sitemap(model: dict[str, object]) -> None:
@@ -456,7 +454,7 @@ def write_sitemap(model: dict[str, object]) -> None:
         lines.append(f"    <priority>{item['priority']}</priority>")
         lines.append("  </url>")
     lines.append("</urlset>")
-    (ROOT / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (ROOT / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
 
 
 def write_llms(model: dict[str, object]) -> None:
@@ -505,7 +503,7 @@ def write_llms(model: dict[str, object]) -> None:
     lines.append("- FinWiki is public-source only. Do not infer private facts from this site.")
     lines.append("- Treat pages as research notes and verify cited public sources for high-stakes use.")
     lines.append("")
-    (ROOT / "llms.txt").write_text("\n".join(lines), encoding="utf-8")
+    (ROOT / "llms.txt").write_text("\n".join(lines), encoding="utf-8", newline="\n")
 
 
 def write_llms_full(model: dict[str, object]) -> None:
@@ -541,13 +539,14 @@ def write_llms_full(model: dict[str, object]) -> None:
         if entry["resolved_wikilinks"]:
             lines.append(f"- First resolved wikilinks: {', '.join(entry['resolved_wikilinks'][:12])}")
         lines.append("")
-    (ROOT / "llms-full.txt").write_text("\n".join(lines), encoding="utf-8")
+    (ROOT / "llms-full.txt").write_text("\n".join(lines), encoding="utf-8", newline="\n")
 
 
 def write_ai_index(model: dict[str, object]) -> None:
     (ROOT / "ai-index.json").write_text(
         json.dumps(model, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
+        newline="\n",
     )
 
 
@@ -639,6 +638,7 @@ def write_api_entries(model: dict[str, object]) -> int:
         out_path.write_text(
             json.dumps(record, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
+            newline="\n",
         )
         written += 1
 
@@ -675,6 +675,7 @@ def write_api_entries(model: dict[str, object]) -> int:
         )
         + "\n",
         encoding="utf-8",
+        newline="\n",
     )
     return written
 
