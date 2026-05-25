@@ -11,8 +11,10 @@ review_by: 2026-10-30
 confidence: certain
 tags: [agent-economy]
 status: confirmed
-sources: []
-  - 微信公众号「童童的 AI 创业圈」截图，2026-04-16 收到
+sources:
+  - https://docs.claude.com/claude-code
+  - https://github.com/anthropics/claude-code
+  - https://www.anthropic.com/news/claude-code
 ---
 
 # Claude Code 扩展组件架构

@@ -59,7 +59,7 @@ This entry sits under [[finance/INDEX|finance index]]. Read it with [[securities
 | 加拿大 | 0%（但 deemed disposition）| 去世时视为资产变现，资本利得税适用 |
 | 香港 | 0% | 2006 年废除 |
 | 美国 | 最高 40% | $13.61M 免税额（2024）|
-| 英国 | 40%（超 £325K）|
+| 英国 | 40%（超 £325K）| nil-rate band 適用、配偶間移転は免税 |
 
 → 对未来 **¥10 亿+ 继承转移** 有决定性影响。
 

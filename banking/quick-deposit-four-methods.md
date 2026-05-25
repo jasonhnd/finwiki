@@ -89,7 +89,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 - [[fintech/japan-financial-regulation|japan-financial-regulation]] — 電代業登録の法的根拠（資金決済法/銀行法）
 - [[banking/mercari-bank-license-stack|mercari-bank-license-stack]] — 電代業を含むライセンス階段の具体例
 
-来源: specific deal case research notes
+来源: 公開情報整理 (各 BaaS 提供銀行公式サイト・FSA 電代業登録一覧・全国銀行協会発表資料)
 
 ## Related
 <!-- wiki-links:managed -->

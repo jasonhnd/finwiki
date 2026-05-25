@@ -16,7 +16,7 @@ sources: []
 
 ## TL;DR
 
-`systems/` contains **61 entries** about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and protocol implementation topics.
+`systems/` contains **61 entries** (excluding INDEX, 62 total) about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and protocol implementation topics.
 
 ## Routing Map
 

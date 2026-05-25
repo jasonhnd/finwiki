@@ -29,7 +29,7 @@ sources:
 
 ## TL;DR
 
-Medical (医療保険) and cancer (がん保険) insurance are the dominant individual-protection product lines in the Japanese life-insurance market in number of contracts and in retail visibility, sitting on top of (not as a substitute for) the universal public health-insurance system run under the [[regulators/mhlw|Ministry of Health, Labour and Welfare (MHLW / 厚生労働省)]]. The competitive structure is dominated by a small number of specialist-positioned carriers — [[JapanFG/aflac-japan|Aflac (アフラック)]] holds a structurally dominant share of the cancer-insurance line (commonly reported around the ~70% bracket of individual cancer-policy in-force), [[JapanFG/aia-life-japan|AIA Group]] is a major foreign-life writer of medical / protection, [[insurance/japan-nonlife-big-three|the non-life big three]] subsidiaries [[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life "Anshin"]], [[JapanFG/sompo-himawari-life|Sompo Himawari Life]], and the MS&AD Aioi Nissay Dowa Life / Mitsui Sumitomo Aioi Life vehicles compete with bundled / rider-led offerings, and the [[insurance/japan-life-insurance-big-four|life big-four]] mutuals offer medical / cancer protection primarily as riders on whole-life or term-life base contracts. The economics are characterized by short-tail morbidity-driven loss ratios (different from rate-sensitive savings products), heavy distribution-channel cost (commission share is the largest single line in product economics), agency / bancassurance / direct channel substitution dynamics, and product-mix interaction with [[insurance/internet-life-insurance-business-model|the internet life insurance business model]] for simple yen-term-style medical covers.
+Medical (医療保険) and cancer (がん保険) insurance are the dominant individual-protection product lines in the Japanese life-insurance market in number of contracts and in retail visibility, sitting on top of (not as a substitute for) the universal public health-insurance system run under the Ministry of Health, Labour and Welfare (MHLW / 厚生労働省). The competitive structure is dominated by a small number of specialist-positioned carriers — [[JapanFG/aflac-japan|Aflac (アフラック)]] holds a structurally dominant share of the cancer-insurance line (commonly reported around the ~70% bracket of individual cancer-policy in-force), [[JapanFG/aia-life-japan|AIA Group]] is a major foreign-life writer of medical / protection, [[insurance/japan-nonlife-big-three|the non-life big three]] subsidiaries [[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life "Anshin"]], [[JapanFG/sompo-himawari-life|Sompo Himawari Life]], and the MS&AD Aioi Nissay Dowa Life / Mitsui Sumitomo Aioi Life vehicles compete with bundled / rider-led offerings, and the [[insurance/japan-life-insurance-big-four|life big-four]] mutuals offer medical / cancer protection primarily as riders on whole-life or term-life base contracts. The economics are characterized by short-tail morbidity-driven loss ratios (different from rate-sensitive savings products), heavy distribution-channel cost (commission share is the largest single line in product economics), agency / bancassurance / direct channel substitution dynamics, and product-mix interaction with [[insurance/internet-life-insurance-business-model|the internet life insurance business model]] for simple yen-term-style medical covers.
 
 ## Wiki route
 
@@ -137,8 +137,8 @@ Use this page when:
 - [[JapanFG/sompo-himawari-life]]
 - [[JapanFG/metlife-japan]]
 - [[JapanFG/prudential-japan]]
-- [[regulators/mhlw]]
-- [[regulators/fsa]]
+- MHLW (Ministry of Health, Labour and Welfare)
+- [[JapanFG/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

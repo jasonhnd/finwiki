@@ -32,7 +32,7 @@ sources:
 
 ## TL;DR
 
-The Japanese 共済 (kyosai / "cooperative mutual aid") sector is a parallel insurance industry of cooperative-form underwriters operating outside the [[regulators/fsa|FSA]]-supervised Insurance Business Act perimeter. The four largest sub-sectors are [[insurance/ja-kyosai-zenkyoren-overview|JA共済 (Zenkyoren)]] — the agricultural cooperative federation, [[JapanFG/zenrosai|全労済 (Zenrosai / こくみん共済 coop)]] — the labour-cooperative federation, [[JapanFG/kenmin-kyosai|県民共済 (Kenmin Kyosai)]] — the prefectural consumer-cooperative system, and [[JapanFG/coop-kyosai|COOP共済 (CO・OP共済)]] — the consumer-cooperative system run by the consumer cooperative federation, each supervised by a different ministry (MAFF for JA, MHLW for Zenrosai and COOP, the prefectural governor for Kenmin) under cooperative-sector laws rather than the FSA Insurance Business Act. Smaller cooperatives such as 全自共 (全国自動車共済協同組合連合会 / national auto-cooperative federation) sit alongside. Aggregate sector reserves and in-force kyosai premium are on the order of mid-double-digit trillions of yen — large enough that any Japan-wide insurance-sector study that omits the cooperative perimeter materially understates protection-product scale. Kyosai products are functionally equivalent to FSA insurance (life-equivalent, non-life-equivalent, medical / cancer-equivalent) but legally, regulatorily, tax-wise, and conduct-wise separate. The cooperative sector is the structural counterpart that explains why the FSA-licensed [[insurance/japan-life-insurance-big-four|life big-four]] and [[insurance/japan-nonlife-big-three|non-life big-three]] do not aggregate to "the Japan insurance market" on their own.
+The Japanese 共済 (kyosai / "cooperative mutual aid") sector is a parallel insurance industry of cooperative-form underwriters operating outside the [[JapanFG/fsa|FSA]]-supervised Insurance Business Act perimeter. The four largest sub-sectors are [[insurance/ja-kyosai-zenkyoren-overview|JA共済 (Zenkyoren)]] — the agricultural cooperative federation, [[JapanFG/zenrosai|全労済 (Zenrosai / こくみん共済 coop)]] — the labour-cooperative federation, [[JapanFG/kenmin-kyosai|県民共済 (Kenmin Kyosai)]] — the prefectural consumer-cooperative system, and [[JapanFG/coop-kyosai|COOP共済 (CO・OP共済)]] — the consumer-cooperative system run by the consumer cooperative federation, each supervised by a different ministry (MAFF for JA, MHLW for Zenrosai and COOP, the prefectural governor for Kenmin) under cooperative-sector laws rather than the FSA Insurance Business Act. Smaller cooperatives such as 全自共 (全国自動車共済協同組合連合会 / national auto-cooperative federation) sit alongside. Aggregate sector reserves and in-force kyosai premium are on the order of mid-double-digit trillions of yen — large enough that any Japan-wide insurance-sector study that omits the cooperative perimeter materially understates protection-product scale. Kyosai products are functionally equivalent to FSA insurance (life-equivalent, non-life-equivalent, medical / cancer-equivalent) but legally, regulatorily, tax-wise, and conduct-wise separate. The cooperative sector is the structural counterpart that explains why the FSA-licensed [[insurance/japan-life-insurance-big-four|life big-four]] and [[insurance/japan-nonlife-big-three|non-life big-three]] do not aggregate to "the Japan insurance market" on their own.
 
 ## Wiki route
 
@@ -53,11 +53,11 @@ Kyosai are functionally equivalent to insurance (premium paid, mortality / morbi
 
 ### JA共済 (Zenkyoren)
 
-The agricultural cooperative federation. Supervised by [[regulators/maff|MAFF]] under the Agricultural Cooperatives Act. Full life-equivalent + non-life-equivalent product line including 終身共済 (whole-life-equivalent), 養老生命共済 (endowment-equivalent), 医療共済 (medical), 自動車共済 (auto), 建物更生共済 (building rehabilitation / fire-earthquake-savings hybrid). Asset / reserve scale comparable to the largest [[insurance/japan-life-insurance-big-four|life big-four]] mutual; the single largest cooperative-sector entity. See [[insurance/ja-kyosai-zenkyoren-overview|the dedicated overview page]].
+The agricultural cooperative federation. Supervised by MAFF under the Agricultural Cooperatives Act. Full life-equivalent + non-life-equivalent product line including 終身共済 (whole-life-equivalent), 養老生命共済 (endowment-equivalent), 医療共済 (medical), 自動車共済 (auto), 建物更生共済 (building rehabilitation / fire-earthquake-savings hybrid). Asset / reserve scale comparable to the largest [[insurance/japan-life-insurance-big-four|life big-four]] mutual; the single largest cooperative-sector entity. See [[insurance/ja-kyosai-zenkyoren-overview|the dedicated overview page]].
 
 ### 全労済 / こくみん共済 coop (Zenrosai)
 
-全国労働者共済生活協同組合連合会 / Zenrosai (formal: 全国労働者共済生活協同組合連合会; rebranded retail: こくみん共済 coop). The labour-cooperative federation, supervised by [[regulators/mhlw|MHLW]] under the Consumer Livelihood Cooperative Society Act (消費生活協同組合法 / 生協法). Products span life-equivalent, medical, fire / dwelling, and auto cooperatives. The retail-facing brand "こくみん共済 coop" emphasises a low-cost, plain-language alternative to commercial insurance for working-household members. Distribution is via the labour cooperative federation channels.
+全国労働者共済生活協同組合連合会 / Zenrosai (formal: 全国労働者共済生活協同組合連合会; rebranded retail: こくみん共済 coop). The labour-cooperative federation, supervised by MHLW under the Consumer Livelihood Cooperative Society Act (消費生活協同組合法 / 生協法). Products span life-equivalent, medical, fire / dwelling, and auto cooperatives. The retail-facing brand "こくみん共済 coop" emphasises a low-cost, plain-language alternative to commercial insurance for working-household members. Distribution is via the labour cooperative federation channels.
 
 ### 県民共済 (Kenmin Kyosai)
 
@@ -161,9 +161,9 @@ Use this page when:
 - [[insurance/foreign-life-affiliate-japan-positioning]]
 - [[JapanFG/ja-kyosairen]]
 - [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[regulators/fsa]]
-- [[regulators/maff]]
-- [[regulators/mhlw]]
+- [[JapanFG/fsa]]
+- MAFF (Ministry of Agriculture, Forestry and Fisheries)
+- MHLW (Ministry of Health, Labour and Welfare)
 - [[INDEX|FinWiki index]]
 
 ## Sources

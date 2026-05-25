@@ -13,7 +13,7 @@ created: 2026-05-24
 last_updated: 2026-05-24
 last_tended: 2026-05-24
 review_by: 2026-11-20
-confidence: tentative
+confidence: possible
 tags: [JapanFG, finance, trading-company-finance, itochu, group-treasury, factoring, cms]
 status: active
 sources:

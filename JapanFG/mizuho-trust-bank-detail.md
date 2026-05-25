@@ -26,11 +26,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/mizuho-trust-bank|みずほ信託銀行]]. Read it against [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託銀行]] for peer trust-bank competitor context, [[JapanFG/mizuho-fg|みずほFG]] / [[JapanFG/mizuho-bank|みずほ銀行]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/mizuho-trust-bank|みずほ信託銀行]]. Read it against [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] for peer trust-bank competitor context, [[JapanFG/mizuho-fg|みずほFG]] / [[JapanFG/mizuho-bank|みずほ銀行]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-[[JapanFG/mizuho-trust-bank|みずほ信託銀行株式会社]] は **[[JapanFG/mizuho-fg|みずほフィナンシャルグループ]] 傘下の信託銀行 operating company**。[[JapanFG/mizuho-bank|みずほ銀行]] が商業銀行中核を担う一方、みずほ信託銀行は **信託 + 年金 + 不動産 + 証券代行 + 受託財産** 側を担う FG 内事業分業の片翼。源流は 1925-05 設立の **「中央信託」** および 「**安田信託」**（後の富士信託銀行系統） — 2000-2003 の旧 3 行統合（第一勧業銀行・富士銀行・日本興業銀行）に伴う信託機能統合を経て現法人形態に。本エントリは事業セグメント・年金信託・不動産信託・証券代行・国際業務・FG 内 banking-trust 連携の **operating-level depth** を扱う。3 大信託銀行（みずほ信託 / [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託]] / [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託]]）の中では中位規模。
+[[JapanFG/mizuho-trust-bank|みずほ信託銀行株式会社]] は **[[JapanFG/mizuho-fg|みずほフィナンシャルグループ]] 傘下の信託銀行 operating company**。[[JapanFG/mizuho-bank|みずほ銀行]] が商業銀行中核を担う一方、みずほ信託銀行は **信託 + 年金 + 不動産 + 証券代行 + 受託財産** 側を担う FG 内事業分業の片翼。源流は 1925-05 設立の **「中央信託」** および 「**安田信託」**（後の富士信託銀行系統） — 2000-2003 の旧 3 行統合（第一勧業銀行・富士銀行・日本興業銀行）に伴う信託機能統合を経て現法人形態に。本エントリは事業セグメント・年金信託・不動産信託・証券代行・国際業務・FG 内 banking-trust 連携の **operating-level depth** を扱う。3 大信託銀行（みずほ信託 / [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託]]）の中では中位規模。
 
 ## 1. 親グループ関係（みずほ FG）
 
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - **不動産信託受益権**：不動産流動化スキーム・REIT 関連の信託受益権組成
 - **不動産仲介**：法人 / 富裕層向け不動産売買仲介・コンサルティング
 - **不動産ファンド**：私募不動産ファンド組成
-- **競合**：[[JapanFG/mitsubishi-ufj-trust-bank|MUTB]] / [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託]] / 大手不動産会社（[[JapanFG/INDEX|三井不動産]]・三菱地所等）
+- **競合**：[[JapanFG/mitsubishi-ufj-trust-bank|MUTB]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託]] / 大手不動産会社（[[JapanFG/INDEX|三井不動産]]・三菱地所等）
 
 ### 4.3 証券代行（株主名簿管理）
 
@@ -103,7 +103,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 | 信託銀行 | 親 FG | 規模感（信託財産） |
 |---|---|---|
 | [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[JapanFG/mufg|MUFG]] | **3 大信託最大** (300 兆円超) |
-| [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託銀行]] | [[JapanFG/INDEX|三井住友トラストHD]] | 300 兆円超 (年金で先行) |
+| [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] | [[JapanFG/INDEX|三井住友トラストHD]] | 300 兆円超 (年金で先行) |
 | **みずほ信託銀行** | みずほ FG | 中位規模 (200 兆円台) |
 
 その他、地銀系信託（[[JapanFG/INDEX|横浜銀行]] グループ等）や独立系信託（オリックス・東京海上等）の信託子会社も補完。
@@ -147,7 +147,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - [[JapanFG/mizuho-bank|みずほ銀行]] — FG 内商業銀行姉妹
 - [[JapanFG/mizuho-securities|みずほ証券]] — FG 内証券姉妹
 - [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3 大信託競合
-- [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託銀行]] — 3 大信託競合
+- [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] — 3 大信託競合
 - [[JapanFG/smbc-trust-bank|SMBC信託銀行]] — SMFG 系信託（規模小）
 - [[JapanFG/INDEX|JapanFG index]]
 - [[banking/INDEX|Banking domain index]]

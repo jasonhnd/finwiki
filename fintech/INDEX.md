@@ -17,7 +17,7 @@ sources:
 
 ## TL;DR
 
-`fintech/` contains **140 entries** centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-money expansion before adding new issuer or regulatory pages.
+`fintech/` contains **143 entries** (excluding INDEX, 144 total) centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-money expansion before adding new issuer or regulatory pages.
 
 ## Routing map
 

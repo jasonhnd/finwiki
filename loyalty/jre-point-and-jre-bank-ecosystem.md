@@ -138,7 +138,7 @@ The **funnel widens at the lower layers and narrows at the higher layers**, whic
 
 The most direct peer is **dポイント** (telco-anchored, with NTT docomo's mobile-line subscription serving the same "daily-frequency captive anchor" role that JR-East rail commute serves for JRE POINT). The biggest structural difference is **geographic scope**: dポイント is national; JRE POINT is fundamentally JR-East serving-area-bounded. This caps the JRE POINT member-scale ceiling at the JR-East ridership population (still tens of millions, dominated by Tokyo Metropolitan).
 
-The second-closest peer is **私鉄系 transit-anchored loyalty** ([[JapanFG/tokyu-card|東急カード]] + 東急ポイント, [[mobility/odakyu|小田急]]系 etc.), which uses the same architectural pattern at smaller scale.
+The second-closest peer is **私鉄系 transit-anchored loyalty** ([[JapanFG/tokyu-card|東急カード]] + 東急ポイント, 小田急系 etc.), which uses the same architectural pattern at smaller scale.
 
 ## Counterpoints
 

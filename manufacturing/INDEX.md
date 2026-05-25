@@ -19,7 +19,7 @@ sources:
 
 ## TL;DR
 
-`manufacturing/` contains **2 active entries** for non-financial operating companies that are referenced from JapanFG pages. Use this domain when a bank / finance page needs the underlying industrial borrower, parent company, or regional manufacturing anchor.
+`manufacturing/` contains **7 active entries** (excluding INDEX, 8 total) for non-financial operating companies referenced from JapanFG pages, with Wave 12 adding deep operating profiles for Hitachi industrial finance, Sony Group finance arm, Panasonic captive finance, Mitsubishi Heavy export finance, and Toyota Financial Services. Use this domain when a bank / finance page needs the underlying industrial borrower, parent company, or regional manufacturing anchor.
 
 ## Entries
 

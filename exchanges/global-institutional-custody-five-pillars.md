@@ -66,4 +66,4 @@ Komainu は Nomura HD 親会社経由で日本機関大手 (生保・地銀・SW
 - [[exchanges/global-cex-top10-comparison]] — Coinbase CEX 側
 - [[exchanges/jp-exchange-laser-digital-japan]] — Nomura 系 (Komainu Board 重なり)
 
-来源: projects/jp-crypto-exchange-research/ Phase 5 海外無登録警告組 + custody research
+来源: 公開情報整理 (FSA 暗号資産交換業者公表・海外無登録警告書一覧、Nomura HD/SMFG/MUFG IR、Komainu/Fireblocks 公式、Chainalysis Crypto Crime Report 2024-2025)

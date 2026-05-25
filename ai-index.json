@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-25T16:33:12+09:00",
+  "generated_at": "2026-05-25T17:18:24+09:00",
   "counts": {
-    "markdown_files": 1439,
-    "public_markdown_pages": 1438,
-    "site_urls_in_sitemap": 1439,
+    "markdown_files": 1449,
+    "public_markdown_pages": 1448,
+    "site_urls_in_sitemap": 1449,
     "topical_domains": 23,
-    "link_audited_entries": 1401,
+    "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10384749,
-    "word_like_tokens": 1651416
+    "nonspace_utf8_chars": 10433545,
+    "word_like_tokens": 1659214
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -32,7 +32,7 @@
   "domains": [
     {
       "domain": "JapanFG",
-      "entries": 602,
+      "entries": 631,
       "route": "JapanFG/INDEX",
       "url": "https://finwiki.zksc.io/JapanFG/INDEX",
       "scope": "Japanese financial groups, banks, licensed bank operating companies, regional-bank operating companies, Tohoku / Fidea / Jimoto, Kanto, Chubu, Kansai / Chugoku, Shikoku, Kyushu / Okinawa, second-regional long-tail bank operating-company pages, foreign-bank branch P0 / P1 Asia anchors, P2 ICSD / collateral / China / ASEAN / India / ANZ corridor anchors, P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors, P4 Taiwan / Pakistan / UBAF closure anchors, foreign-bank branch registry index with 57 / 57 standalone or umbrella routes, foreign-bank branch / agency / adjacent-license routes, bank license / BaaS boundary, payment license stack, specialty trust-bank and CCI current-name anchors, trust-company registry index with 38 / 38 standalone or existing group routes, priority A / B / C trust-company anchors, insurers, insurance holding companies, FSA life-insurer exact-name anchors, life subsidiaries / specialty insurers, non-life major / direct / specialty / reinsurance operating companies, pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers, securities firms, asset managers, FIEA operators, securities license-stack and insurance license / solvency controls, policy finance, payment / card / PSP / wallet / remittance / stablecoin infrastructure companies, consumer-finance / auto-finance operators, fintech companies, foreign Japan subsidiaries, securities finance, exchange holding-company infrastructure, report-source references, and expansion backlogs."
@@ -60,7 +60,7 @@
     },
     {
       "domain": "agent-economy",
-      "entries": 36,
+      "entries": 41,
       "route": "agent-economy/INDEX",
       "url": "https://finwiki.zksc.io/agent-economy/INDEX",
       "scope": "AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure."
@@ -88,14 +88,14 @@
     },
     {
       "domain": "insurance",
-      "entries": 32,
+      "entries": 33,
       "route": "insurance/INDEX",
       "url": "https://finwiki.zksc.io/insurance/INDEX",
       "scope": "Solvency, ESR, life-insurance distribution, mutual-company governance, internet life insurance, life-insurance big-four comparison, non-life big-three comparison, public-private earthquake insurance scheme, agency / brokerage distribution, reinsurance, direct non-life insurance, and the global solvency framework comparison (FSA ESR / IAIS ICS / EU Solvency II / US RBC)."
     },
     {
       "domain": "finance",
-      "entries": 23,
+      "entries": 27,
       "route": "finance/INDEX",
       "url": "https://finwiki.zksc.io/finance/INDEX",
       "scope": "Public finance reference pages for FIRE math, cross-border M&A, acquisition finance, activist / engagement playbook, tender offers / public-company control transactions, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, investment-banking league tables, and public tax-jurisdiction comparison."
@@ -130,7 +130,7 @@
     },
     {
       "domain": "retail",
-      "entries": 5,
+      "entries": 8,
       "route": "retail/INDEX",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "scope": "Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms."
@@ -151,35 +151,35 @@
     },
     {
       "domain": "loyalty",
-      "entries": 9,
+      "entries": 12,
       "route": "loyalty/INDEX",
       "url": "https://finwiki.zksc.io/loyalty/INDEX",
       "scope": "Japan points, rewards, loyalty liabilities, and retail / finance data loops."
     },
     {
       "domain": "payments",
-      "entries": 31,
+      "entries": 41,
       "route": "payments/INDEX",
       "url": "https://finwiki.zksc.io/payments/INDEX",
       "scope": "Japan cashless-payment, payment license stack, bank API / electronic payment agency, bank API incident / fraud controls, account-to-account payment, account-direct merchant acquiring, card issuer / acquirer / processor split, card security / authentication controls, interchange / merchant-fee stack, payment clearing / settlement infrastructure, card acquiring / merchant PSP, BNPL / credit-purchase boundary, wallet, prepaid issuer registry, funds-transfer registry, credit / card registry, code-payment competition, PSP settlement risk, and EPI-adjacent settlement landscape."
     },
     {
       "domain": "securities",
-      "entries": 32,
+      "entries": 33,
       "route": "securities/INDEX",
       "url": "https://finwiki.zksc.io/securities/INDEX",
       "scope": "NISA, IPO listing disclosure, security-token secondary markets, online brokerage competition, best execution / SOR / PTS, PTS liquidity data, margin trading / securities finance, short-selling / stock-loan controls, stock lending market route, prime brokerage / institutional financing, underwriting market structure, FIEA operator registry, JSDA, exchange venues, clearing, settlement, market-infrastructure mapping, and securities-market flow."
     },
     {
       "domain": "derivatives",
-      "entries": 32,
+      "entries": 33,
       "route": "derivatives/INDEX",
       "url": "https://finwiki.zksc.io/derivatives/INDEX",
       "scope": "Japan + global derivatives markets — interest rate (IRS / OIS / JGB futures), FX (cross-currency basis / FX options / retail FX), credit (CDS / structured bond / EB knock-in), equity volatility (JPX-VI), OTC clearing infrastructure (JSCC, trade repository), dealer-bank revenue mix."
     },
     {
       "domain": "real-estate-finance",
-      "entries": 27,
+      "entries": 28,
       "route": "real-estate-finance/INDEX",
       "url": "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "scope": "Japan + global real-estate finance — J-REIT (top 10 matrix, sponsor-conflict, governance vs US REIT), securitization (CMBS / RMBS / bridge fund / GK-TK SPV / appraisal), developer financing (Mitsui Fudosan / Mitsubishi Estate / AEON Mall / Mitsubishi commercial real-estate lending), cap-rate compression, foreign-investor / tax."
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-05-25",
+        "Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写",
+        "Wave 13 — 長尾完整性 + 方法論 + Schema 債務閉合 (54 新 + 79 sources 補全 + 1000 万字突破) / Wave 13 — long-tail completeness + methodology + schema-debt closure (54 new + 79 source backfills + 10M-char threshold crossed) / Wave 13 — 长尾完整性 + 方法论 + Schema 债务闭合 (54 新 + 79 sources 补全 + 突破 1000 万字)",
         "Wave 12 — ドメイン深度提升 (45 新エントリー + 11 stub promotion) / Wave 12 — domain depth promotion (45 new entries + 11 stub promotions) / Wave 12 — 域深度提升 (45 新条目 + 11 stub 升级)",
-        "Wave 11 — 20 比較マトリクス + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 new comparison matrices + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 对比矩阵 + 22 bedrock 刷新 + 33 结构清理",
-        "Wave 10 — 旗艦欠缺実体 77 条新規エントリー / Wave 10 — flagship missing-entity expansion (77 new entries) / Wave 10 — 旗舰缺失实体扩写 (77 条新条目)",
-        "全 1241 文件 audit + 公開面違反修復 + cpaaob 補完 + AGENTS.md 三言語化 / Full-corpus audit + public-surface fix + cpaaob backfill + AGENTS.md trilingual repair / 全1241文件审计 + 公开面违规修复 + cpaaob 补建 + AGENTS.md 三语化"
+        "Wave 11 — 20 比較マトリクス + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 new comparison matrices + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 对比矩阵 + 22 bedrock 刷新 + 33 结构清理"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 388859,
-      "word_like_tokens": 68172,
+      "nonspace_chars": 399574,
+      "word_like_tokens": 70156,
       "last_modified": "2026-05-25"
     },
     {
@@ -809,7 +809,7 @@
         "trade/INDEX",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 10203,
+      "nonspace_chars": 10204,
       "word_like_tokens": 1514,
       "last_modified": "2026-05-25"
     },
@@ -965,7 +965,7 @@
       "title": "JapanFG — 日本金融集团 wiki namespace",
       "domain": "JapanFG",
       "entry_type": "domain_index",
-      "summary": "日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。580 entity entries + INDEX / legal-license / registry / backlog control surfaces 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-c",
+      "summary": "日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。620 entity entries + INDEX / legal-license / registry / backlog control surfaces 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-c",
       "headings": [
         "JapanFG — 日本金融集团 wiki namespace",
         "Overview",
@@ -1950,8 +1950,8 @@
         "https://finwiki.zksc.io/JapanFG/fukushima-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 96091,
-      "word_like_tokens": 14285,
+      "nonspace_chars": 96103,
+      "word_like_tokens": 14288,
       "last_modified": "2026-05-25"
     },
     {
@@ -2147,12 +2147,7 @@
         "JapanFG/sony-fg",
         "JapanFG/sony-finance",
         "JapanFG/toyota-finance",
-        "asset-management/cvc-japan-landscape",
-        "corporate/cyberagent",
-        "corporate/dentsu-group",
-        "corporate/hakuhodo-dy-hd",
-        "corporate/recruit",
-        "corporate/wpp-japan"
+        "asset-management/cvc-japan-landscape"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -2164,16 +2159,11 @@
         "https://finwiki.zksc.io/JapanFG/sony-fg",
         "https://finwiki.zksc.io/JapanFG/sony-finance",
         "https://finwiki.zksc.io/JapanFG/toyota-finance",
-        "https://finwiki.zksc.io/asset-management/cvc-japan-landscape",
-        "https://finwiki.zksc.io/corporate/cyberagent",
-        "https://finwiki.zksc.io/corporate/dentsu-group",
-        "https://finwiki.zksc.io/corporate/hakuhodo-dy-hd",
-        "https://finwiki.zksc.io/corporate/recruit",
-        "https://finwiki.zksc.io/corporate/wpp-japan"
+        "https://finwiki.zksc.io/asset-management/cvc-japan-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6624,
-      "word_like_tokens": 962,
+      "nonspace_chars": 6361,
+      "word_like_tokens": 932,
       "last_modified": "2026-05-25"
     },
     {
@@ -2540,7 +2530,7 @@
         "JapanFG/aichi-bank",
         "JapanFG/aichi-fg",
         "JapanFG/dic",
-        "JapanFG/mizuho",
+        "JapanFG/mizuho-fg",
         "JapanFG/mufg",
         "JapanFG/nagoya-bank",
         "JapanFG/osaka-shogin-shinkumi",
@@ -2555,7 +2545,7 @@
         "https://finwiki.zksc.io/JapanFG/aichi-bank",
         "https://finwiki.zksc.io/JapanFG/aichi-fg",
         "https://finwiki.zksc.io/JapanFG/dic",
-        "https://finwiki.zksc.io/JapanFG/mizuho",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/nagoya-bank",
         "https://finwiki.zksc.io/JapanFG/osaka-shogin-shinkumi",
@@ -2566,8 +2556,8 @@
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5729,
-      "word_like_tokens": 742,
+      "nonspace_chars": 5732,
+      "word_like_tokens": 743,
       "last_modified": "2026-05-25"
     },
     {
@@ -5061,6 +5051,63 @@
       "last_modified": "2026-05-24"
     },
     {
+      "source_path": "JapanFG/boj.md",
+      "url": "https://finwiki.zksc.io/JapanFG/boj",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/boj.md",
+      "title": "日本銀行 (BoJ)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 金融庁 for the regulatory counterpart, 預金保険機構 for the safety-net peer, and BoJ 金融政策 / BoJ 金融市場局 for internal organs.",
+      "headings": [
+        "日本銀行 (BoJ)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法的根拠・設立",
+        "出資構造",
+        "重要年表",
+        "2. 4 大機能",
+        "1) 通貨発行",
+        "2) 金融政策（→ 詳細）",
+        "3) 銀行の銀行（→ 金融機構局）"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/boj-financial-markets-dept",
+        "JapanFG/boj-financial-system-dept",
+        "JapanFG/boj-international-dept",
+        "JapanFG/boj-monetary-policy",
+        "JapanFG/boj-payment-settlement-dept",
+        "JapanFG/dic",
+        "JapanFG/fsa",
+        "JapanFG/japan-post-bank",
+        "JapanFG/mizuho-bank",
+        "JapanFG/mufg-bank",
+        "JapanFG/smbc",
+        "systems/bojnet",
+        "systems/zengin"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept",
+        "https://finwiki.zksc.io/JapanFG/boj-financial-system-dept",
+        "https://finwiki.zksc.io/JapanFG/boj-international-dept",
+        "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+        "https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept",
+        "https://finwiki.zksc.io/JapanFG/dic",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+        "https://finwiki.zksc.io/JapanFG/mufg-bank",
+        "https://finwiki.zksc.io/JapanFG/smbc",
+        "https://finwiki.zksc.io/systems/bojnet",
+        "https://finwiki.zksc.io/systems/zengin"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4510,
+      "word_like_tokens": 776,
+      "last_modified": "2026-05-25"
+    },
+    {
       "source_path": "JapanFG/capital-insurance.md",
       "url": "https://finwiki.zksc.io/JapanFG/capital-insurance",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/capital-insurance.md",
@@ -7543,6 +7590,63 @@
       "last_modified": "2026-05-24"
     },
     {
+      "source_path": "JapanFG/dic.md",
+      "url": "https://finwiki.zksc.io/JapanFG/dic",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/dic.md",
+      "title": "預金保険機構 (DIC)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 損害保険契約者保護機構 and 生命保険契約者保護機構 for parallel safety-net peers, and against 金融庁 / 日本銀行 for the broader system / regulatory boundary.",
+      "headings": [
+        "預金保険機構 (DIC)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法的根拠・設立",
+        "出資構造",
+        "重要年表",
+        "2. 業務領域",
+        "主要機関エコシステム",
+        "3. 平成金融危機での実績",
+        "2003 りそな救済（最大級の公的資金注入）"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/ashikaga-hd",
+        "JapanFG/boj",
+        "JapanFG/fsa",
+        "JapanFG/japan-post-bank",
+        "JapanFG/japan-shinko-bank",
+        "JapanFG/mizuho-bank",
+        "JapanFG/mufg-bank",
+        "JapanFG/rcc",
+        "JapanFG/resona-hd",
+        "JapanFG/seimei-hokensha-hogo-kiko",
+        "JapanFG/smbc",
+        "JapanFG/sonpo-hosho-kiko",
+        "banking/INDEX"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/ashikaga-hd",
+        "https://finwiki.zksc.io/JapanFG/boj",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+        "https://finwiki.zksc.io/JapanFG/japan-shinko-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+        "https://finwiki.zksc.io/JapanFG/mufg-bank",
+        "https://finwiki.zksc.io/JapanFG/rcc",
+        "https://finwiki.zksc.io/JapanFG/resona-hd",
+        "https://finwiki.zksc.io/JapanFG/seimei-hokensha-hogo-kiko",
+        "https://finwiki.zksc.io/JapanFG/smbc",
+        "https://finwiki.zksc.io/JapanFG/sonpo-hosho-kiko",
+        "https://finwiki.zksc.io/banking/INDEX"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4080,
+      "word_like_tokens": 597,
+      "last_modified": "2026-05-25"
+    },
+    {
       "source_path": "JapanFG/diners-club-japan.md",
       "url": "https://finwiki.zksc.io/JapanFG/diners-club-japan",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/diners-club-japan.md",
@@ -7655,47 +7759,37 @@
         "JapanFG/INDEX",
         "JapanFG/au-fh",
         "JapanFG/digital-garage",
-        "JapanFG/gmo-pg",
+        "JapanFG/gmo-payment-gateway",
         "JapanFG/ndfg",
         "JapanFG/paypay",
         "JapanFG/paypay-bank",
         "JapanFG/paypay-card",
         "JapanFG/paypay-fg",
         "JapanFG/paypay-securities",
-        "corporate/lohaco",
-        "corporate/ly-corporation",
-        "corporate/yahoo-japan",
-        "corporate/zozotown",
-        "mobility/softbank-corp",
         "payments/INDEX",
         "payments/cashless-jp-landscape",
         "payments/paypay",
-        "transit/suica"
+        "payments/suica-prepaid-jr-east"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/au-fh",
         "https://finwiki.zksc.io/JapanFG/digital-garage",
-        "https://finwiki.zksc.io/JapanFG/gmo-pg",
+        "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
         "https://finwiki.zksc.io/JapanFG/ndfg",
         "https://finwiki.zksc.io/JapanFG/paypay",
         "https://finwiki.zksc.io/JapanFG/paypay-bank",
         "https://finwiki.zksc.io/JapanFG/paypay-card",
         "https://finwiki.zksc.io/JapanFG/paypay-fg",
         "https://finwiki.zksc.io/JapanFG/paypay-securities",
-        "https://finwiki.zksc.io/corporate/lohaco",
-        "https://finwiki.zksc.io/corporate/ly-corporation",
-        "https://finwiki.zksc.io/corporate/yahoo-japan",
-        "https://finwiki.zksc.io/corporate/zozotown",
-        "https://finwiki.zksc.io/mobility/softbank-corp",
         "https://finwiki.zksc.io/payments/INDEX",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
         "https://finwiki.zksc.io/payments/paypay",
-        "https://finwiki.zksc.io/transit/suica"
+        "https://finwiki.zksc.io/payments/suica-prepaid-jr-east"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6704,
-      "word_like_tokens": 984,
+      "nonspace_chars": 6542,
+      "word_like_tokens": 964,
       "last_modified": "2026-05-25"
     },
     {
@@ -9124,6 +9218,97 @@
       "last_modified": "2026-05-24"
     },
     {
+      "source_path": "JapanFG/fsa.md",
+      "url": "https://finwiki.zksc.io/JapanFG/fsa",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fsa.md",
+      "title": "金融庁 (FSA)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 日本銀行 for the central-bank counterpart, and 預金保険機構 / 損保機構 / 生保機構 for the safety-net peers it supervises.",
+      "headings": [
+        "金融庁 (FSA)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法的根拠・設立",
+        "沿革",
+        "重要年表",
+        "2. 組織体制（現行）",
+        "主要審議会・会議体",
+        "3. 監督対象",
+        "4. 主要規制テーマ（2020 年代）"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/acom",
+        "JapanFG/aiful",
+        "JapanFG/bitflyer",
+        "JapanFG/boj",
+        "JapanFG/dai-ichi-life-hd",
+        "JapanFG/daiwa-sg",
+        "JapanFG/dic",
+        "JapanFG/fsa-inspection-bureau",
+        "JapanFG/fsa-planning-coordination-bureau",
+        "JapanFG/fsa-strategy-bureau",
+        "JapanFG/fsa-supervision-bureau",
+        "JapanFG/gmo-coin",
+        "JapanFG/japan-exchange-group",
+        "JapanFG/jcr",
+        "JapanFG/jsda",
+        "JapanFG/kampo-life",
+        "JapanFG/line-pay",
+        "JapanFG/mizuho-bank",
+        "JapanFG/mizuho-securities",
+        "JapanFG/mufg-bank",
+        "JapanFG/nomura-hd",
+        "JapanFG/paypay",
+        "JapanFG/rating-and-investment",
+        "JapanFG/resona-hd",
+        "JapanFG/seimei-hokensha-hogo-kiko",
+        "JapanFG/smbc",
+        "JapanFG/sonpo-hosho-kiko",
+        "JapanFG/tokio-marine-hd",
+        "finance/issb",
+        "finance/ssbj"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/acom",
+        "https://finwiki.zksc.io/JapanFG/aiful",
+        "https://finwiki.zksc.io/JapanFG/bitflyer",
+        "https://finwiki.zksc.io/JapanFG/boj",
+        "https://finwiki.zksc.io/JapanFG/dai-ichi-life-hd",
+        "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+        "https://finwiki.zksc.io/JapanFG/dic",
+        "https://finwiki.zksc.io/JapanFG/fsa-inspection-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-planning-coordination-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+        "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+        "https://finwiki.zksc.io/JapanFG/gmo-coin",
+        "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+        "https://finwiki.zksc.io/JapanFG/jcr",
+        "https://finwiki.zksc.io/JapanFG/jsda",
+        "https://finwiki.zksc.io/JapanFG/kampo-life",
+        "https://finwiki.zksc.io/JapanFG/line-pay",
+        "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+        "https://finwiki.zksc.io/JapanFG/mufg-bank",
+        "https://finwiki.zksc.io/JapanFG/nomura-hd",
+        "https://finwiki.zksc.io/JapanFG/paypay",
+        "https://finwiki.zksc.io/JapanFG/rating-and-investment",
+        "https://finwiki.zksc.io/JapanFG/resona-hd",
+        "https://finwiki.zksc.io/JapanFG/seimei-hokensha-hogo-kiko",
+        "https://finwiki.zksc.io/JapanFG/smbc",
+        "https://finwiki.zksc.io/JapanFG/sonpo-hosho-kiko",
+        "https://finwiki.zksc.io/JapanFG/tokio-marine-hd",
+        "https://finwiki.zksc.io/finance/issb",
+        "https://finwiki.zksc.io/finance/ssbj"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4509,
+      "word_like_tokens": 670,
+      "last_modified": "2026-05-25"
+    },
+    {
       "source_path": "JapanFG/fukoku-life.md",
       "url": "https://finwiki.zksc.io/JapanFG/fukoku-life",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fukoku-life.md",
@@ -9426,7 +9611,7 @@
         "JapanFG/kitakyushu-bank",
         "JapanFG/kyushu-fg",
         "JapanFG/miyazaki-bank",
-        "JapanFG/mizuho",
+        "JapanFG/mizuho-fg",
         "JapanFG/mufg",
         "JapanFG/nishi-nippon-fhd",
         "JapanFG/nnfh",
@@ -9446,7 +9631,7 @@
         "https://finwiki.zksc.io/JapanFG/kitakyushu-bank",
         "https://finwiki.zksc.io/JapanFG/kyushu-fg",
         "https://finwiki.zksc.io/JapanFG/miyazaki-bank",
-        "https://finwiki.zksc.io/JapanFG/mizuho",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/nishi-nippon-fhd",
         "https://finwiki.zksc.io/JapanFG/nnfh",
@@ -9457,8 +9642,8 @@
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5563,
-      "word_like_tokens": 759,
+      "nonspace_chars": 5566,
+      "word_like_tokens": 760,
       "last_modified": "2026-05-25"
     },
     {
@@ -11061,9 +11246,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3021,
+      "nonspace_chars": 3020,
       "word_like_tokens": 389,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/hokkoku-bank.md",
@@ -12194,7 +12379,7 @@
       ],
       "wikilinks": [
         "JapanFG/INDEX",
-        "JapanFG/famima",
+        "JapanFG/famima-digital-one",
         "JapanFG/itochu-finance",
         "JapanFG/marubeni-corp",
         "JapanFG/mitsubishi-corp",
@@ -12209,7 +12394,7 @@
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
-        "https://finwiki.zksc.io/JapanFG/famima",
+        "https://finwiki.zksc.io/JapanFG/famima-digital-one",
         "https://finwiki.zksc.io/JapanFG/itochu-finance",
         "https://finwiki.zksc.io/JapanFG/marubeni-corp",
         "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
@@ -12223,9 +12408,9 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6853,
-      "word_like_tokens": 1038,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 6925,
+      "word_like_tokens": 1050,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/itochu-finance.md",
@@ -12290,9 +12475,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5243,
+      "nonspace_chars": 5242,
       "word_like_tokens": 679,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/iwai-cosmo-hd.md",
@@ -13749,6 +13934,51 @@
       "last_modified": "2026-05-25"
     },
     {
+      "source_path": "JapanFG/japan-post-holdings.md",
+      "url": "https://finwiki.zksc.io/JapanFG/japan-post-holdings",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/japan-post-holdings.md",
+      "title": "日本郵政株式会社",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against ゆうちょ銀行 (7182) and かんぽ生命 (7181) for its main金融子会社, and against 金融庁 / 日本銀行 for the broader system / regulatory boundary.",
+      "headings": [
+        "日本郵政株式会社",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人構造",
+        "グループ構造",
+        "重要年表",
+        "2. 事業セグメント",
+        "3. 政府保有・上場ガバナンス",
+        "法律上の保有義務",
+        "政府保有比率推移"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/boj",
+        "JapanFG/fsa",
+        "JapanFG/japan-exchange-group",
+        "JapanFG/japan-post-bank",
+        "JapanFG/japan-post-co",
+        "JapanFG/kampo-life",
+        "corporate-strategy/parent-subsidiary-listing"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/boj",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+        "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+        "https://finwiki.zksc.io/JapanFG/japan-post-co",
+        "https://finwiki.zksc.io/JapanFG/kampo-life",
+        "https://finwiki.zksc.io/corporate-strategy/parent-subsidiary-listing"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4383,
+      "word_like_tokens": 658,
+      "last_modified": "2026-05-25"
+    },
+    {
       "source_path": "JapanFG/japan-securities-finance.md",
       "url": "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/japan-securities-finance.md",
@@ -13940,6 +14170,53 @@
       "nonspace_chars": 5154,
       "word_like_tokens": 738,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/jcr.md",
+      "url": "https://finwiki.zksc.io/JapanFG/jcr",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jcr.md",
+      "title": "日本格付研究所 (JCR)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 格付投資情報センター (R&I) for peer / contrast context and 金融庁 for the broader regulatory boundary (信用格付業者登録).",
+      "headings": [
+        "日本格付研究所 (JCR)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人構造・沿革",
+        "重要年表",
+        "2. 格付業務 map",
+        "格付スケール",
+        "3. 競争・市場ポジション",
+        "国内 4 大格付機関",
+        "国内 vs 国際の格付ギャップ問題"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/fsa",
+        "JapanFG/japan-exchange-group",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mufg",
+        "JapanFG/rating-and-investment",
+        "JapanFG/smfg",
+        "finance/issb",
+        "finance/ssbj"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/rating-and-investment",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/finance/issb",
+        "https://finwiki.zksc.io/finance/ssbj"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3845,
+      "word_like_tokens": 585,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/jf-kyosuiren.md",
@@ -14597,14 +14874,11 @@
         "JapanFG/seven-bank",
         "JapanFG/tokyu-card",
         "banking/baas-rakuten-jre-bank",
-        "mobility/jr-east",
-        "mobility/odakyu",
-        "mobility/tokyu",
         "payments/d-barai",
         "payments/paypay",
         "payments/rakuten-pay",
         "payments/suica-pasmo-fares",
-        "transit/suica"
+        "payments/suica-prepaid-jr-east"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -14615,18 +14889,15 @@
         "https://finwiki.zksc.io/JapanFG/seven-bank",
         "https://finwiki.zksc.io/JapanFG/tokyu-card",
         "https://finwiki.zksc.io/banking/baas-rakuten-jre-bank",
-        "https://finwiki.zksc.io/mobility/jr-east",
-        "https://finwiki.zksc.io/mobility/odakyu",
-        "https://finwiki.zksc.io/mobility/tokyu",
         "https://finwiki.zksc.io/payments/d-barai",
         "https://finwiki.zksc.io/payments/paypay",
         "https://finwiki.zksc.io/payments/rakuten-pay",
         "https://finwiki.zksc.io/payments/suica-pasmo-fares",
-        "https://finwiki.zksc.io/transit/suica"
+        "https://finwiki.zksc.io/payments/suica-prepaid-jr-east"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6879,
-      "word_like_tokens": 1107,
+      "nonspace_chars": 6569,
+      "word_like_tokens": 1066,
       "last_modified": "2026-05-25"
     },
     {
@@ -15127,9 +15398,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2871,
+      "nonspace_chars": 2870,
       "word_like_tokens": 390,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/kansai-mirai-bank.md",
@@ -15657,7 +15928,7 @@
         "JapanFG/sendai-shinkin",
         "JapanFG/shinkin-central",
         "JapanFG/shinkin-network-services",
-        "JapanFG/sumitomo-mitsui-trust-bank",
+        "JapanFG/sumitomo-mitsui-trust",
         "JapanFG/toto",
         "JapanFG/yokin-hoken-kiko",
         "JapanFG/zenshin-kyo",
@@ -15682,7 +15953,7 @@
         "https://finwiki.zksc.io/JapanFG/sendai-shinkin",
         "https://finwiki.zksc.io/JapanFG/shinkin-central",
         "https://finwiki.zksc.io/JapanFG/shinkin-network-services",
-        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
         "https://finwiki.zksc.io/JapanFG/toto",
         "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
         "https://finwiki.zksc.io/JapanFG/zenshin-kyo",
@@ -15693,8 +15964,8 @@
         "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4958,
-      "word_like_tokens": 660,
+      "nonspace_chars": 4953,
+      "word_like_tokens": 659,
       "last_modified": "2026-05-25"
     },
     {
@@ -17739,9 +18010,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5430,
+      "nonspace_chars": 5429,
       "word_like_tokens": 746,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/marusan-securities.md",
@@ -19123,8 +19394,8 @@
         "https://finwiki.zksc.io/JapanFG/hokuto-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 37032,
-      "word_like_tokens": 5712,
+      "nonspace_chars": 37132,
+      "word_like_tokens": 5726,
       "last_modified": "2026-05-25"
     },
     {
@@ -19194,9 +19465,9 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5982,
+      "nonspace_chars": 5981,
       "word_like_tokens": 897,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/mitsubishi-corp-finance.md",
@@ -19263,9 +19534,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5789,
+      "nonspace_chars": 5788,
       "word_like_tokens": 750,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/mitsubishi-corp.md",
@@ -19480,9 +19751,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5423,
+      "nonspace_chars": 5422,
       "word_like_tokens": 722,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/mitsui-co.md",
@@ -20015,7 +20286,7 @@
         "JapanFG/mizuho-trust-bank",
         "JapanFG/mufg",
         "JapanFG/smbc-trust-bank",
-        "JapanFG/sumitomo-mitsui-trust-bank",
+        "JapanFG/sumitomo-mitsui-trust",
         "banking/INDEX"
       ],
       "resolved_wikilinks": [
@@ -20027,12 +20298,12 @@
         "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/smbc-trust-bank",
-        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
         "https://finwiki.zksc.io/banking/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4892,
-      "word_like_tokens": 713,
+      "nonspace_chars": 4867,
+      "word_like_tokens": 708,
       "last_modified": "2026-05-25"
     },
     {
@@ -20568,6 +20839,61 @@
       "nonspace_chars": 1968,
       "word_like_tokens": 298,
       "last_modified": "2026-05-21"
+    },
+    {
+      "source_path": "JapanFG/mufg-securities.md",
+      "url": "https://finwiki.zksc.io/JapanFG/mufg-securities",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mufg-securities.md",
+      "title": "MUFG 証券ホールディングス",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against MUFG (8306、親会社), SMBC 日興証券 / みずほ証券 for peer / contrast (メガバンク系証券)、野村 HD / 大和証券 for independent rival context, and 金融庁 for the regulatory boundary.",
+      "headings": [
+        "MUFG 証券ホールディングス",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人構造",
+        "傘下構造",
+        "重要年表",
+        "2. JV 構造の特徴",
+        "なぜ 2 社に分けたか",
+        "Morgan Stanley との戦略的関係",
+        "3. 海外現法の機能"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/daiwa-sg",
+        "JapanFG/fsa",
+        "JapanFG/japan-exchange-group",
+        "JapanFG/jsda",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mizuho-securities",
+        "JapanFG/mufg",
+        "JapanFG/mufg-bank",
+        "JapanFG/mufg-mums",
+        "JapanFG/nomura-hd",
+        "JapanFG/smbc-nikko",
+        "JapanFG/smfg"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+        "https://finwiki.zksc.io/JapanFG/jsda",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/mufg-bank",
+        "https://finwiki.zksc.io/JapanFG/mufg-mums",
+        "https://finwiki.zksc.io/JapanFG/nomura-hd",
+        "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+        "https://finwiki.zksc.io/JapanFG/smfg"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4943,
+      "word_like_tokens": 769,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/mufg.md",
@@ -22046,7 +22372,7 @@
         "JapanFG/nomura-securities",
         "JapanFG/sbi-shinsei-bank",
         "JapanFG/sbi-shinsei-trust-bank",
-        "JapanFG/sumitomo-mitsui-trust-bank",
+        "JapanFG/sumitomo-mitsui-trust",
         "banking/INDEX",
         "banking/post-megabank-positioning",
         "securities/INDEX"
@@ -22067,14 +22393,14 @@
         "https://finwiki.zksc.io/JapanFG/nomura-securities",
         "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
         "https://finwiki.zksc.io/JapanFG/sbi-shinsei-trust-bank",
-        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/banking/post-megabank-positioning",
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5691,
-      "word_like_tokens": 835,
+      "nonspace_chars": 5676,
+      "word_like_tokens": 832,
       "last_modified": "2026-05-25"
     },
     {
@@ -24593,6 +24919,51 @@
       "last_modified": "2026-05-20"
     },
     {
+      "source_path": "JapanFG/rating-and-investment.md",
+      "url": "https://finwiki.zksc.io/JapanFG/rating-and-investment",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rating-and-investment.md",
+      "title": "格付投資情報センター (R&I)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 日本格付研究所 (JCR) for peer / contrast context and 金融庁 for the broader regulatory boundary.",
+      "headings": [
+        "格付投資情報センター (R&I)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人構造・沿革",
+        "沿革・前身",
+        "重要年表",
+        "2. 業務 map",
+        "格付スケール",
+        "3. 競争・差別化",
+        "vs JCR"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/fsa",
+        "JapanFG/japan-exchange-group",
+        "JapanFG/jcr",
+        "JapanFG/mizuho-bank",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mufg",
+        "JapanFG/smfg"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+        "https://finwiki.zksc.io/JapanFG/jcr",
+        "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/smfg"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 3690,
+      "word_like_tokens": 583,
+      "last_modified": "2026-05-25"
+    },
+    {
       "source_path": "JapanFG/rbc-japan.md",
       "url": "https://finwiki.zksc.io/JapanFG/rbc-japan",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rbc-japan.md",
@@ -25633,7 +26004,7 @@
         "JapanFG/hokuhoku-fg",
         "JapanFG/hokuyo-bank",
         "JapanFG/iwaki-shinkumi",
-        "JapanFG/mizuho",
+        "JapanFG/mizuho-fg",
         "JapanFG/mufg",
         "JapanFG/sapporo-shinkin",
         "JapanFG/smbc",
@@ -25648,7 +26019,7 @@
         "https://finwiki.zksc.io/JapanFG/hokuhoku-fg",
         "https://finwiki.zksc.io/JapanFG/hokuyo-bank",
         "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
-        "https://finwiki.zksc.io/JapanFG/mizuho",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/sapporo-shinkin",
         "https://finwiki.zksc.io/JapanFG/smbc",
@@ -25657,8 +26028,8 @@
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5297,
-      "word_like_tokens": 707,
+      "nonspace_chars": 5300,
+      "word_like_tokens": 708,
       "last_modified": "2026-05-25"
     },
     {
@@ -26575,6 +26946,73 @@
       "nonspace_chars": 8012,
       "word_like_tokens": 1234,
       "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/seimei-hokensha-hogo-kiko.md",
+      "url": "https://finwiki.zksc.io/JapanFG/seimei-hokensha-hogo-kiko",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/seimei-hokensha-hogo-kiko.md",
+      "title": "生命保険契約者保護機構",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 損害保険契約者保護機構 for parallel safety-net peer and 預金保険機構 / 金融庁 for the broader system / regulatory boundary.",
+      "headings": [
+        "生命保険契約者保護機構",
+        "Wiki route",
+        "TL;DR",
+        "1. 法的根拠・設立",
+        "加入義務",
+        "重要年表",
+        "2. 補償の仕組み",
+        "補償水準（基本ルール）",
+        "「90% 補償」の意味",
+        "3. 過去の救済事例"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/asahi-life",
+        "JapanFG/chiyoda-life",
+        "JapanFG/dai-hyaku-life",
+        "JapanFG/dai-ichi-life-hd",
+        "JapanFG/daido-life",
+        "JapanFG/dic",
+        "JapanFG/fsa",
+        "JapanFG/fukoku-life",
+        "JapanFG/kampo-life",
+        "JapanFG/kyoei-life",
+        "JapanFG/nissan-life",
+        "JapanFG/sonpo-hosho-kiko",
+        "JapanFG/taisho-life",
+        "JapanFG/taiyo-life",
+        "JapanFG/toho-life",
+        "JapanFG/tokyo-life",
+        "JapanFG/yamato-life",
+        "insurance/INDEX"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/asahi-life",
+        "https://finwiki.zksc.io/JapanFG/chiyoda-life",
+        "https://finwiki.zksc.io/JapanFG/dai-hyaku-life",
+        "https://finwiki.zksc.io/JapanFG/dai-ichi-life-hd",
+        "https://finwiki.zksc.io/JapanFG/daido-life",
+        "https://finwiki.zksc.io/JapanFG/dic",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/fukoku-life",
+        "https://finwiki.zksc.io/JapanFG/kampo-life",
+        "https://finwiki.zksc.io/JapanFG/kyoei-life",
+        "https://finwiki.zksc.io/JapanFG/nissan-life",
+        "https://finwiki.zksc.io/JapanFG/sonpo-hosho-kiko",
+        "https://finwiki.zksc.io/JapanFG/taisho-life",
+        "https://finwiki.zksc.io/JapanFG/taiyo-life",
+        "https://finwiki.zksc.io/JapanFG/toho-life",
+        "https://finwiki.zksc.io/JapanFG/tokyo-life",
+        "https://finwiki.zksc.io/JapanFG/yamato-life",
+        "https://finwiki.zksc.io/insurance/INDEX"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4504,
+      "word_like_tokens": 664,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/sekisui-house-trust.md",
@@ -27972,6 +28410,67 @@
       "last_modified": "2026-05-21"
     },
     {
+      "source_path": "JapanFG/smbc.md",
+      "url": "https://finwiki.zksc.io/JapanFG/smbc",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smbc.md",
+      "title": "株式会社三井住友銀行 (SMBC)",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
+      "headings": [
+        "株式会社三井住友銀行 (SMBC)",
+        "Wiki route",
+        "TL;DR",
+        "1. 法人構造",
+        "沿革・前身",
+        "重要年表",
+        "2. グループ内分業",
+        "3. 業務セグメント",
+        "主要拠点",
+        "4. 競争上の位置付け"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/boj",
+        "JapanFG/dic",
+        "JapanFG/fsa",
+        "JapanFG/japan-post-bank",
+        "JapanFG/jcb",
+        "JapanFG/mizuho-bank",
+        "JapanFG/mizuho-fg",
+        "JapanFG/mufg",
+        "JapanFG/mufg-bank",
+        "JapanFG/smbc-card",
+        "JapanFG/smbc-consumer-finance",
+        "JapanFG/smbc-nikko",
+        "JapanFG/smbc-trust-bank",
+        "JapanFG/smfg",
+        "banking/INDEX"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/boj",
+        "https://finwiki.zksc.io/JapanFG/dic",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+        "https://finwiki.zksc.io/JapanFG/jcb",
+        "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+        "https://finwiki.zksc.io/JapanFG/mufg",
+        "https://finwiki.zksc.io/JapanFG/mufg-bank",
+        "https://finwiki.zksc.io/JapanFG/smbc-card",
+        "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
+        "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+        "https://finwiki.zksc.io/JapanFG/smbc-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/smfg",
+        "https://finwiki.zksc.io/banking/INDEX"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4481,
+      "word_like_tokens": 685,
+      "last_modified": "2026-05-25"
+    },
+    {
       "source_path": "JapanFG/smd-am.md",
       "url": "https://finwiki.zksc.io/JapanFG/smd-am",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smd-am.md",
@@ -28401,9 +28900,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5672,
+      "nonspace_chars": 5671,
       "word_like_tokens": 766,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/sompo-direct.md",
@@ -28584,6 +29083,59 @@
       "nonspace_chars": 6472,
       "word_like_tokens": 1003,
       "last_modified": "2026-05-24"
+    },
+    {
+      "source_path": "JapanFG/sonpo-hosho-kiko.md",
+      "url": "https://finwiki.zksc.io/JapanFG/sonpo-hosho-kiko",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sonpo-hosho-kiko.md",
+      "title": "損害保険契約者保護機構",
+      "domain": "JapanFG",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under JapanFG index. Read it against 生命保険契約者保護機構 for parallel safety-net peer and 預金保険機構 / 金融庁 for the broader system / regulatory boundary.",
+      "headings": [
+        "損害保険契約者保護機構",
+        "Wiki route",
+        "TL;DR",
+        "1. 法的根拠・設立",
+        "加入義務",
+        "重要年表",
+        "2. 業務スキーム",
+        "補償水準（主要種目）",
+        "3. 資金構造",
+        "負担金算定"
+      ],
+      "wikilinks": [
+        "JapanFG/INDEX",
+        "JapanFG/aioi-nissay-dowa-insurance",
+        "JapanFG/dai-ichi-mutual",
+        "JapanFG/dic",
+        "JapanFG/fsa",
+        "JapanFG/mitsui-sumitomo",
+        "JapanFG/seimei-hokensha-hogo-kiko",
+        "JapanFG/sompo-japan",
+        "JapanFG/taisei-kasai",
+        "JapanFG/taisho-kasai",
+        "JapanFG/tokio-marine-hd",
+        "insurance/INDEX"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance",
+        "https://finwiki.zksc.io/JapanFG/dai-ichi-mutual",
+        "https://finwiki.zksc.io/JapanFG/dic",
+        "https://finwiki.zksc.io/JapanFG/fsa",
+        "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo",
+        "https://finwiki.zksc.io/JapanFG/seimei-hokensha-hogo-kiko",
+        "https://finwiki.zksc.io/JapanFG/sompo-japan",
+        "https://finwiki.zksc.io/JapanFG/taisei-kasai",
+        "https://finwiki.zksc.io/JapanFG/taisho-kasai",
+        "https://finwiki.zksc.io/JapanFG/tokio-marine-hd",
+        "https://finwiki.zksc.io/insurance/INDEX"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4330,
+      "word_like_tokens": 586,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/sonpo-kyokai.md",
@@ -29335,9 +29887,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5863,
+      "nonspace_chars": 5862,
       "word_like_tokens": 790,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/sumitomo-corp.md",
@@ -29512,9 +30064,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6385,
+      "nonspace_chars": 6384,
       "word_like_tokens": 851,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/sumitomo-mitsui-banking-corp.md",
@@ -31752,9 +32304,9 @@
         "https://finwiki.zksc.io/finance/japan-acquisition-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5966,
+      "nonspace_chars": 5965,
       "word_like_tokens": 762,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "JapanFG/traders-securities.md",
@@ -33945,7 +34497,7 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 23010,
+      "nonspace_chars": 23016,
       "word_like_tokens": 3473,
       "last_modified": "2026-05-25"
     },
@@ -34667,7 +35219,7 @@
       "title": "AI Agent 支付协议总图 · 七协议格局概览",
       "domain": "agent-economy",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under agent-economy INDEX. Read it against AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文 for peer / contrast context and payments index for the broader system / regulatory boundary.",
       "headings": [
         "AI Agent 支付协议总图 · 七协议格局概览",
         "Wiki route",
@@ -34681,8 +35233,8 @@
       ],
       "wikilinks": [
         "INDEX",
+        "agent-economy/INDEX",
         "agent-economy/ai-agent-payment-protocols-commoditization",
-        "agent-economy/ai-agent-payment-protocols-overview",
         "agent-economy/ai-agent-payment-protocols-seven-layers",
         "fintech/central-banking-function-unbundling",
         "fintech/usd-stablecoin-interchange",
@@ -34692,8 +35244,8 @@
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/agent-economy/INDEX",
         "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-commoditization",
-        "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
         "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-seven-layers",
         "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
         "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
@@ -34702,9 +35254,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2514,
-      "word_like_tokens": 448,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 2481,
+      "word_like_tokens": 443,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "agent-economy/ai-agent-payment-protocols-seven-layers.md",
@@ -35044,9 +35596,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3194,
-      "word_like_tokens": 492,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3282,
+      "word_like_tokens": 502,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "agent-economy/coinbase-cdp-developer-platform.md",
@@ -36311,7 +36863,7 @@
       "title": "banking — Net bank / BaaS / banking-structure index",
       "domain": "banking",
       "entry_type": "domain_index",
-      "summary": "banking/ contains 39 entries about Japanese net banks, BaaS, quick deposit, cooperative banking, JA Bank system, JF Marine Bank system, cooperative-finance registries, trust-bank / custody infrastructure, regional bank API partnerships, regional bank structure, and foreign-bank retreat patterns. P5",
+      "summary": "banking/ contains 39 entries (excluding INDEX, 40 total) about Japanese net banks, BaaS, quick deposit, cooperative banking, JA Bank system, JF Marine Bank system, cooperative-finance registries, trust-bank / custody infrastructure, regional bank API partnerships, regional bank structure, and foreig",
       "headings": [
         "banking — Net bank / BaaS / banking-structure index",
         "Overview",
@@ -36547,8 +37099,8 @@
         "https://finwiki.zksc.io/JapanFG/shimizu-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 11794,
-      "word_like_tokens": 1721,
+      "nonspace_chars": 11818,
+      "word_like_tokens": 1725,
       "last_modified": "2026-05-25"
     },
     {
@@ -38784,9 +39336,9 @@
         "https://finwiki.zksc.io/fintech/japan-financial-regulation"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2557,
-      "word_like_tokens": 393,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2572,
+      "word_like_tokens": 394,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "banking/rakuten-bank.md",
@@ -39610,7 +40162,7 @@
       "title": "GMO Internet Group",
       "domain": "business",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under GMO Internet Group. Read it against 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under business INDEX. Read it against 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
       "headings": [
         "GMO Internet Group",
         "Wiki route",
@@ -39633,7 +40185,7 @@
         "JapanFG/sbi-hd",
         "JapanFG/smfg",
         "banking/baas-japan-landscape",
-        "business/gmo-internet-group",
+        "business/INDEX",
         "business/matt-huang-triple-role-coi-template",
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
@@ -39652,7 +40204,7 @@
         "https://finwiki.zksc.io/JapanFG/sbi-hd",
         "https://finwiki.zksc.io/JapanFG/smfg",
         "https://finwiki.zksc.io/banking/baas-japan-landscape",
-        "https://finwiki.zksc.io/business/gmo-internet-group",
+        "https://finwiki.zksc.io/business/INDEX",
         "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
         "https://finwiki.zksc.io/exchanges/INDEX",
         "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
@@ -39662,9 +40214,9 @@
         "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5676,
-      "word_like_tokens": 872,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 5660,
+      "word_like_tokens": 869,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "business/hester-peirce-sec-regulatory-pivot-case.md",
@@ -39833,8 +40385,8 @@
         "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route"
       ],
       "markdown_links": [],
-      "nonspace_chars": 21071,
-      "word_like_tokens": 3386,
+      "nonspace_chars": 21154,
+      "word_like_tokens": 3403,
       "last_modified": "2026-05-25"
     },
     {
@@ -43466,7 +44018,7 @@
       "title": "exchanges — Crypto exchange / VASP / market-structure index",
       "domain": "exchanges",
       "entry_type": "domain_index",
-      "summary": "exchanges/ contains 137 entries covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surfac",
+      "summary": "exchanges/ contains 146 entries (excluding INDEX, 147 total) covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, country-tail CEX (India / Brazil / Vietnam / K",
       "headings": [
         "exchanges — Crypto exchange / VASP / market-structure index",
         "TL;DR",
@@ -43693,8 +44245,8 @@
         "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14032,
-      "word_like_tokens": 1960,
+      "nonspace_chars": 14101,
+      "word_like_tokens": 1971,
       "last_modified": "2026-05-25"
     },
     {
@@ -45509,9 +46061,9 @@
         "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2687,
-      "word_like_tokens": 421,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2732,
+      "word_like_tokens": 428,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "exchanges/global-perp-dex-competitive-deep-dive-matrix.md",
@@ -53355,9 +53907,9 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2807,
-      "word_like_tokens": 468,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2831,
+      "word_like_tokens": 473,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "finance/real-options-valuation-japan-applications.md",
@@ -53485,7 +54037,7 @@
       "title": "fintech — Stablecoin / tokenized money / payments index",
       "domain": "fintech",
       "entry_type": "domain_index",
-      "summary": "fintech/ contains 140 entries centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-money expansion before adding new",
+      "summary": "fintech/ contains 143 entries (excluding INDEX, 144 total) centered on stablecoins, tokenized deposits, CBDC and wholesale settlement, Japan EPI structures, regulatory regimes, embedded wallets, payment protocol strategy, and monetary geopolitics. Use this page to route stablecoin and tokenized-mone",
       "headings": [
         "fintech — Stablecoin / tokenized money / payments index",
         "TL;DR",
@@ -53712,8 +54264,8 @@
         "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13795,
-      "word_like_tokens": 1903,
+      "nonspace_chars": 13820,
+      "word_like_tokens": 1907,
       "last_modified": "2026-05-25"
     },
     {
@@ -60306,8 +60858,8 @@
         "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2021,
-      "word_like_tokens": 330,
+      "nonspace_chars": 2088,
+      "word_like_tokens": 341,
       "last_modified": "2026-05-25"
     },
     {
@@ -61833,13 +62385,14 @@
         "JapanFG/asset-management-one",
         "JapanFG/dai-ichi-frontier-life",
         "JapanFG/dai-ichi-life",
+        "JapanFG/fsa",
         "JapanFG/japan-post-bank",
         "JapanFG/kampo-life",
         "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
         "JapanFG/manulife-japan",
         "JapanFG/metlife-japan",
-        "JapanFG/mizuho",
         "JapanFG/mizuho-bank",
+        "JapanFG/mizuho-fg",
         "JapanFG/mufg",
         "JapanFG/mufg-bank",
         "JapanFG/norinchukin",
@@ -61861,8 +62414,7 @@
         "insurance/japan-life-insurance-big-four",
         "insurance/kampo-japan-post-insurance",
         "insurance/life-insurance-channel-mix",
-        "insurance/medical-cancer-insurance-product-economics",
-        "regulators/fsa"
+        "insurance/medical-cancer-insurance-product-economics"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
@@ -61870,13 +62422,14 @@
         "https://finwiki.zksc.io/JapanFG/asset-management-one",
         "https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life",
         "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+        "https://finwiki.zksc.io/JapanFG/fsa",
         "https://finwiki.zksc.io/JapanFG/japan-post-bank",
         "https://finwiki.zksc.io/JapanFG/kampo-life",
         "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
         "https://finwiki.zksc.io/JapanFG/manulife-japan",
         "https://finwiki.zksc.io/JapanFG/metlife-japan",
-        "https://finwiki.zksc.io/JapanFG/mizuho",
         "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/mufg-bank",
         "https://finwiki.zksc.io/JapanFG/norinchukin",
@@ -61898,12 +62451,11 @@
         "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
         "https://finwiki.zksc.io/insurance/kampo-japan-post-insurance",
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-        "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics",
-        "https://finwiki.zksc.io/regulators/fsa"
+        "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics"
       ],
       "markdown_links": [],
-      "nonspace_chars": 18452,
-      "word_like_tokens": 2837,
+      "nonspace_chars": 18455,
+      "word_like_tokens": 2840,
       "last_modified": "2026-05-25"
     },
     {
@@ -62010,6 +62562,7 @@
       "wikilinks": [
         "INDEX",
         "JapanFG/coop-kyosai",
+        "JapanFG/fsa",
         "JapanFG/ja-kyosairen",
         "JapanFG/japan-coop",
         "JapanFG/kenmin-kyosai",
@@ -62025,14 +62578,12 @@
         "insurance/ja-kyosai-zenkyoren-overview",
         "insurance/japan-life-insurance-big-four",
         "insurance/japan-nonlife-big-three",
-        "insurance/mutual-vs-stock-life-insurer",
-        "regulators/fsa",
-        "regulators/maff",
-        "regulators/mhlw"
+        "insurance/mutual-vs-stock-life-insurer"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
         "https://finwiki.zksc.io/JapanFG/coop-kyosai",
+        "https://finwiki.zksc.io/JapanFG/fsa",
         "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
         "https://finwiki.zksc.io/JapanFG/japan-coop",
         "https://finwiki.zksc.io/JapanFG/kenmin-kyosai",
@@ -62048,14 +62599,11 @@
         "https://finwiki.zksc.io/insurance/ja-kyosai-zenkyoren-overview",
         "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
         "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
-        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-        "https://finwiki.zksc.io/regulators/fsa",
-        "https://finwiki.zksc.io/regulators/maff",
-        "https://finwiki.zksc.io/regulators/mhlw"
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14537,
-      "word_like_tokens": 2226,
+      "nonspace_chars": 14540,
+      "word_like_tokens": 2232,
       "last_modified": "2026-05-25"
     },
     {
@@ -62554,6 +63102,7 @@
       ],
       "wikilinks": [
         "INDEX",
+        "JapanFG/fsa",
         "JapanFG/ja-kyosairen",
         "JapanFG/japanese-government-bonds",
         "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
@@ -62570,12 +63119,11 @@
         "insurance/japan-life-insurance-alm-overview",
         "insurance/japan-life-insurance-big-four",
         "insurance/japan-nonlife-big-three",
-        "insurance/mutual-vs-stock-life-insurer",
-        "regulators/fsa",
-        "regulators/maff"
+        "insurance/mutual-vs-stock-life-insurer"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/fsa",
         "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
         "https://finwiki.zksc.io/JapanFG/japanese-government-bonds",
         "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
@@ -62592,13 +63140,11 @@
         "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
         "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
         "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
-        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-        "https://finwiki.zksc.io/regulators/fsa",
-        "https://finwiki.zksc.io/regulators/maff"
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13317,
-      "word_like_tokens": 2099,
+      "nonspace_chars": 13277,
+      "word_like_tokens": 2098,
       "last_modified": "2026-05-25"
     },
     {
@@ -63690,6 +64236,7 @@
       "wikilinks": [
         "INDEX",
         "JapanFG/dai-ichi-life",
+        "JapanFG/fsa",
         "JapanFG/japan-post-bank",
         "JapanFG/japan-post-holdings",
         "JapanFG/japanese-government-bonds",
@@ -63707,13 +64254,12 @@
         "insurance/japan-life-insurance-big-four",
         "insurance/life-insurance-channel-mix",
         "insurance/medical-cancer-insurance-product-economics",
-        "insurance/mutual-vs-stock-life-insurer",
-        "regulators/fsa",
-        "regulators/mic"
+        "insurance/mutual-vs-stock-life-insurer"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
         "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+        "https://finwiki.zksc.io/JapanFG/fsa",
         "https://finwiki.zksc.io/JapanFG/japan-post-bank",
         "https://finwiki.zksc.io/JapanFG/japan-post-holdings",
         "https://finwiki.zksc.io/JapanFG/japanese-government-bonds",
@@ -63731,13 +64277,11 @@
         "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
         "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics",
-        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-        "https://finwiki.zksc.io/regulators/fsa",
-        "https://finwiki.zksc.io/regulators/mic"
+        "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13267,
-      "word_like_tokens": 2186,
+      "nonspace_chars": 13249,
+      "word_like_tokens": 2187,
       "last_modified": "2026-05-25"
     },
     {
@@ -63967,6 +64511,7 @@
         "JapanFG/aflac-japan",
         "JapanFG/aia",
         "JapanFG/aia-life-japan",
+        "JapanFG/fsa",
         "JapanFG/lifenet",
         "JapanFG/metlife-japan",
         "JapanFG/ms-ad",
@@ -63985,9 +64530,7 @@
         "insurance/japan-life-insurance-alm-overview",
         "insurance/japan-life-insurance-big-four",
         "insurance/japan-nonlife-big-three",
-        "insurance/life-insurance-channel-mix",
-        "regulators/fsa",
-        "regulators/mhlw"
+        "insurance/life-insurance-channel-mix"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
@@ -63995,6 +64538,7 @@
         "https://finwiki.zksc.io/JapanFG/aflac-japan",
         "https://finwiki.zksc.io/JapanFG/aia",
         "https://finwiki.zksc.io/JapanFG/aia-life-japan",
+        "https://finwiki.zksc.io/JapanFG/fsa",
         "https://finwiki.zksc.io/JapanFG/lifenet",
         "https://finwiki.zksc.io/JapanFG/metlife-japan",
         "https://finwiki.zksc.io/JapanFG/ms-ad",
@@ -64013,13 +64557,11 @@
         "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
         "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
         "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
-        "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-        "https://finwiki.zksc.io/regulators/fsa",
-        "https://finwiki.zksc.io/regulators/mhlw"
+        "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14492,
-      "word_like_tokens": 2251,
+      "nonspace_chars": 14489,
+      "word_like_tokens": 2254,
       "last_modified": "2026-05-25"
     },
     {
@@ -64691,7 +65233,6 @@
         "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
         "loyalty/t-point-v-point-post-2024-merger",
         "loyalty/v-point-smbc-ccc-case",
-        "mobility/odakyu",
         "payments/cashless-jp-landscape",
         "payments/japan-code-payment-operator-2025-market-share-matrix",
         "retail/INDEX",
@@ -64716,15 +65257,14 @@
         "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
         "https://finwiki.zksc.io/loyalty/t-point-v-point-post-2024-merger",
         "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
-        "https://finwiki.zksc.io/mobility/odakyu",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
         "https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix",
         "https://finwiki.zksc.io/retail/INDEX",
         "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive"
       ],
       "markdown_links": [],
-      "nonspace_chars": 15406,
-      "word_like_tokens": 2669,
+      "nonspace_chars": 15386,
+      "word_like_tokens": 2666,
       "last_modified": "2026-05-25"
     },
     {
@@ -65063,7 +65603,7 @@
       "title": "manufacturing — Japanese manufacturing company index",
       "domain": "manufacturing",
       "entry_type": "domain_index",
-      "summary": "manufacturing/ contains 2 active entries for non-financial operating companies that are referenced from JapanFG pages. Use this domain when a bank / finance page needs the underlying industrial borrower, parent company, or regional manufacturing anchor.",
+      "summary": "manufacturing/ contains 7 active entries (excluding INDEX, 8 total) for non-financial operating companies referenced from JapanFG pages, with Wave 12 adding deep operating profiles for Hitachi industrial finance, Sony Group finance arm, Panasonic captive finance, Mitsubishi Heavy export finance, and",
       "headings": [
         "manufacturing — Japanese manufacturing company index",
         "TL;DR",
@@ -65092,9 +65632,9 @@
         "https://finwiki.zksc.io/manufacturing/toyota-motor"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1555,
-      "word_like_tokens": 224,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 1736,
+      "word_like_tokens": 252,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "manufacturing/hitachi-industrial-finance-platform.md",
@@ -71836,7 +72376,7 @@
         "insurance/INDEX",
         "policy-finance/INDEX",
         "policy-finance/japan-housing-finance-agency",
-        "real-estate-finance/INDEX",
+        "real-estate-finance/gk-tk-bond-real-estate-spv",
         "real-estate-finance/j-reit-market-overview",
         "real-estate-finance/j-reit-market-overview\\",
         "real-estate-finance/j-reit-sponsor-structure-conflict",
@@ -71862,7 +72402,7 @@
         "https://finwiki.zksc.io/insurance/INDEX",
         "https://finwiki.zksc.io/policy-finance/INDEX",
         "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
-        "https://finwiki.zksc.io/real-estate-finance/INDEX",
+        "https://finwiki.zksc.io/real-estate-finance/gk-tk-bond-real-estate-spv",
         "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
         "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview\\",
         "https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict",
@@ -71879,8 +72419,8 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6817,
-      "word_like_tokens": 1128,
+      "nonspace_chars": 6808,
+      "word_like_tokens": 1129,
       "last_modified": "2026-05-25"
     },
     {
@@ -77333,7 +77873,7 @@
         "JapanFG/mufg",
         "JapanFG/orix",
         "JapanFG/smbc",
-        "JapanFG/sumitomo-mitsui-trust-bank",
+        "JapanFG/sumitomo-mitsui-trust",
         "JapanFG/tokio-marine-nichido",
         "business/japan-listed-corp-strategic-restructuring-matrix",
         "business/softbank-vision-fund-arm-ipo-template",
@@ -77367,7 +77907,7 @@
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/orix",
         "https://finwiki.zksc.io/JapanFG/smbc",
-        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
         "https://finwiki.zksc.io/JapanFG/tokio-marine-nichido",
         "https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix",
         "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
@@ -77395,8 +77935,8 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 19872,
-      "word_like_tokens": 3042,
+      "nonspace_chars": 19867,
+      "word_like_tokens": 3041,
       "last_modified": "2026-05-25"
     },
     {
@@ -80453,7 +80993,7 @@
       "title": "systems — Protocol / Infrastructure / Technical Systems Index",
       "domain": "systems",
       "entry_type": "domain_index",
-      "summary": "systems/ contains 61 entries about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and protocol implementation topics.",
+      "summary": "systems/ contains 61 entries (excluding INDEX, 62 total) about blockchain infrastructure, cross-chain protocols, account abstraction, validator economics, institutional DLT, Ethereum upgrades, formal specification, and protocol implementation topics.",
       "headings": [
         "systems — Protocol / Infrastructure / Technical Systems Index",
         "TL;DR",
@@ -80581,8 +81121,8 @@
         "https://finwiki.zksc.io/systems/zk-evm-rollup-maturity-comparison-matrix-2026"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7494,
-      "word_like_tokens": 1019,
+      "nonspace_chars": 7518,
+      "word_like_tokens": 1023,
       "last_modified": "2026-05-25"
     },
     {
@@ -83895,9 +84435,9 @@
         "https://finwiki.zksc.io/trade/jetro-organization-structure"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1306,
-      "word_like_tokens": 177,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 1359,
+      "word_like_tokens": 185,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "trade/jetro-organization-structure.md",
@@ -83931,9 +84471,9 @@
         "https://finwiki.zksc.io/trade/jetro-members-gateway-model"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1307,
-      "word_like_tokens": 191,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 1343,
+      "word_like_tokens": 195,
+      "last_modified": "2026-05-25"
     },
     {
       "source_path": "trade/jetro-vs-nexi-vs-jbic-comparison.md",
@@ -84010,8 +84550,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 9871,
-      "word_like_tokens": 1647,
+      "nonspace_chars": 4672,
+      "word_like_tokens": 841,
       "last_modified": "2026-05-25"
     }
   ]

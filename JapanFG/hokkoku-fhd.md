@@ -8,7 +8,7 @@ last_tended: 2026-05-25
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, digital-leader, historical-bridge]
-status: deprecated
+status: borderline
 sources:
   - "Wikipedia: 北國フィナンシャルホールディングス (公開情報)"
   - "Wikipedia: 北國銀行 (公開情報)"

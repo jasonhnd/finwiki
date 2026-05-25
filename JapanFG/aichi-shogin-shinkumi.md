@@ -162,7 +162,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 ## Counterpoints
 
 - **民族系信組の存在意義論争**: 在日コミュニティの世代交代 + 一般日系金融機関のサービス充実で **民族系信組固有需要が縮小**するリスク vs **コミュニティ密着** の独自価値 ^[ambiguous]
-- **中京 SME 競合過密**: [[JapanFG/mufg|三菱UFJ銀行]] (旧東海銀行ホームマーケット)・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho|みずほ]]・[[JapanFG/aichi-bank|愛知銀行]]・[[JapanFG/nagoya-bank|名古屋銀行]] + 名古屋圏信金との直接競合で **規模デメリット** ^[inferred]
+- **中京 SME 競合過密**: [[JapanFG/mufg|三菱UFJ銀行]] (旧東海銀行ホームマーケット)・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]]・[[JapanFG/aichi-bank|愛知銀行]]・[[JapanFG/nagoya-bank|名古屋銀行]] + 名古屋圏信金との直接競合で **規模デメリット** ^[inferred]
 - **2002〜2003 信組危機の長期影響**: 不良債権処理を経た再編体制ゆえ **慎重な経営姿勢** が成長機会の制約 ^[inferred]
 - **跨境送金規制対応コスト**: 民族系信組固有の韓国向け送金需要が AML/CFT 規制対応コストを増大、小規模信組には負担大 ^[inferred]
 

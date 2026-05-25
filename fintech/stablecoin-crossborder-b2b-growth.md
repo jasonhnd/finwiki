@@ -17,7 +17,7 @@ sources:
   - https://www.coinbase.com/blog
   - https://www.visa.com/blogarchives/us/2024/09/05/stablecoins-cross-border/index.html
   - https://www.bis.org/cpmi/publ/d215.htm
-  - projects/bittrade-jetro/index.md
+  - https://www.jetro.go.jp/biz/areareports/
 ---
 
 # B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）
@@ -37,7 +37,7 @@ sources:
 
 **含意**：B2B 跨境決済における SC の爆発的成長は、「暗号資産は投機」というナラティブから「貿易決済の実需インフラ」への転換点を示す。JETRO 会員の中小貿易企業にとって、従来の SWIFT 送金（手数料 3-7%、1-3 営業日）からの移行は経済合理性がある（具体的 corridor 戦略は [[fintech/cross-border-sc-via-swift-api|SC × SWIFT API]] と [[fintech/dual-currency-stablecoin-arbitrage-overview|双币三角套利]] を参照）。日本側の制度配置は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]、上位の法体系は [[fintech/japan-financial-regulation|日本金融規制]] を参照。
 
-来源: projects/bittrade-jetro（2026-04-14 調査）| [[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] | [[agent-economy/skill-market-monetization|skill-market-monetization]]
+来源: 公開情報整理 (Fireblocks State of Stablecoins 2025、JETRO 公開貿易統計、Visa Cross-Border Stablecoins Blog、BIS CPMI d215) | [[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] | [[agent-economy/skill-market-monetization|skill-market-monetization]]
 
 ## Related
 <!-- wiki-links:managed -->

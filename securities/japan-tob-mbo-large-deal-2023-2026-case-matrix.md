@@ -173,7 +173,7 @@ By 2026 the METI Fair Guideline has effectively become the **procedural floor** 
 
 ### PE financing depth
 
-The cohort confirms that Japan's [[finance/japan-acquisition-finance|acquisition finance]] market — led by [[JapanFG/mufg|MUFG]], [[JapanFG/smbc|SMBC]], [[JapanFG/mizuho-bank|Mizuho]] trust-bank pools, [[JapanFG/sumitomo-mitsui-trust-bank|Sumitomo Mitsui Trust]] — has the capacity to finance multi-trillion-yen LBOs (Toshiba) and multi-hundred-billion-yen LBOs (Outsourcing) without external syndication stretch. [[finance/japan-leveraged-buyout-economics|Japan LBO economics]] documents the EBITDA-multiple and leverage-multiple norms.
+The cohort confirms that Japan's [[finance/japan-acquisition-finance|acquisition finance]] market — led by [[JapanFG/mufg|MUFG]], [[JapanFG/smbc|SMBC]], [[JapanFG/mizuho-bank|Mizuho]] trust-bank pools, [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] — has the capacity to finance multi-trillion-yen LBOs (Toshiba) and multi-hundred-billion-yen LBOs (Outsourcing) without external syndication stretch. [[finance/japan-leveraged-buyout-economics|Japan LBO economics]] documents the EBITDA-multiple and leverage-multiple norms.
 
 ### Special-committee quality variance
 
