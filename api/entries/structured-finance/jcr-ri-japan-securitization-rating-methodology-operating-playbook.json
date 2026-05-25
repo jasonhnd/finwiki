@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook",
+  "source_path": "structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md",
+  "url": "https://finwiki.zksc.io/structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md",
+  "domain": "structured-finance",
+  "title": "JCR / R&I Japan securitization rating methodology operating playbook",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JCR / R&I Japan securitization rating methodology operating playbook",
+    "aliases": [
+      "JCR R&I securitization methodology playbook",
+      "JCR rating playbook",
+      "R&I rating playbook",
+      "JCR R&I SDR calculation",
+      "JCR R&I cash-flow modeling",
+      "JCR R&I surveillance frequency",
+      "JCR R&I downgrade triggers",
+      "structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "rating-agency",
+      "jcr",
+      "ri",
+      "methodology",
+      "sdr",
+      "cash-flow-model",
+      "surveillance",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "JCR structured-finance criteria — https://www.jcr.co.jp/en/",
+      "R&I structured-finance methodology — https://www.r-i.co.jp/en/",
+      "FSA designated rating agency — https://www.fsa.go.jp/en/",
+      "JSDA — https://www.jsda.or.jp/en/",
+      "ASF Japan — https://www.asf-japan.gr.jp/"
+    ]
+  },
+  "summary": "JCR (株式会社日本格付研究所) and R&I (格付投資情報センター) are the two FSA-designated domestic credit rating agencies dominating Japan structured finance. Their operating methodology for ABS / RMBS / CMBS / consumer / card / lease ratings follows a four-step playbook: (1) asset-class-specific stressed default rate (SDR",
+  "headings": [
+    "JCR / R&I Japan securitization rating methodology operating playbook",
+    "TL;DR",
+    "Wiki route",
+    "1. JCR and R&I — the agency identities",
+    "2. The asset-class methodology architecture",
+    "3. The stressed default rate (SDR) calculation",
+    "3a. Base-case default frequency",
+    "3b. Stress multipliers by rating category",
+    "3c. Adjustments for pool-specific features",
+    "4. Cash-flow modeling"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/nochu-trust-bank",
+      "JapanFG/smfg",
+      "JapanFG/sumitomo-mitsui-trust",
+      "structured-finance/INDEX",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/fitch-moody-sp-japan-criteria",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-auto-loan-abs-waterfall-mechanics",
+      "structured-finance/japan-cmbs-issuance-structure",
+      "structured-finance/japan-consumer-loan-abs-structure",
+      "structured-finance/japan-credit-card-receivable-abs",
+      "structured-finance/japan-equipment-lease-abs",
+      "structured-finance/japan-rmbs-issuance-structure",
+      "structured-finance/japan-securitization-product-matrix",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/fitch-moody-sp-japan-criteria",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-auto-loan-abs-waterfall-mechanics",
+      "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-consumer-loan-abs-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-credit-card-receivable-abs",
+      "https://finwiki.zksc.io/structured-finance/japan-equipment-lease-abs",
+      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-securitization-product-matrix",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16314,
+    "word_like_tokens": 2587,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

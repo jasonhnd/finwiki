@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/ap2-technical-spec",
+  "source_path": "agent-economy/ap2-technical-spec.md",
+  "url": "https://finwiki.zksc.io/agent-economy/ap2-technical-spec",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ap2-technical-spec.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ap2-technical-spec.md",
+  "domain": "agent-economy",
+  "title": "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+    "aliases": [
+      "ap2-technical-spec",
+      "ap2-mandate-intent-settlement",
+      "google-ap2-spec"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "protocol",
+      "payment",
+      "ap2",
+      "technical-spec"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against AP2 · Google Agent Payments Protocol 概览 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-adoption",
+      "agent-economy/ap2-overview",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX",
+      "systems/cctp-v2-overview",
+      "systems/chain-abstraction-pattern-overview",
+      "systems/erc-4337-overview",
+      "systems/erc-4337-userop-bundler-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-adoption",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2629,
+    "word_like_tokens": 456,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-24"
+  }
+}

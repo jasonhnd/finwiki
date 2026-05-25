@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/mizuho-securities",
+  "source_path": "JapanFG/mizuho-securities.md",
+  "url": "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mizuho-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/mizuho-securities.md",
+  "domain": "JapanFG",
+  "title": "Mizuho Securities",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Mizuho Securities",
+    "aliases": [
+      "mizuho-securities",
+      "Mizuho Securities",
+      "みずほ証券"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "investment-banking",
+      "FIEA",
+      "Mizuho"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.mizuhogroup.com/jp/securities/who-we-are/profile",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+      "https://www.fsa.go.jp/common/law/guide/city/index.html"
+    ]
+  },
+  "summary": "Mizuho Securities is the securities arm of Mizuho Financial Group. It is a registered Financial Instruments Business Operator; FSA's financial instruments business operator list identifies みずほ証券株式会社 as Kanto Local Finance Bureau (FIBO) No. 94, with Type I / Type II / investment advisory & agency / i",
+  "headings": [
+    "Mizuho Securities",
+    "TL;DR",
+    "Positioning",
+    "JapanFG Relevance",
+    "Boundary Cases",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/smbc-nikko",
+      "finance/japan-ib-league-table",
+      "securities/INDEX",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2531,
+    "word_like_tokens": 370,
+    "inbound_wikilinks_count": 60,
+    "last_modified": "2026-05-20"
+  }
+}

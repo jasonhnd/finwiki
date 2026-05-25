@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/mercari-bank-license-stack",
+  "source_path": "banking/mercari-bank-license-stack.md",
+  "url": "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/mercari-bank-license-stack.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/mercari-bank-license-stack.md",
+  "domain": "banking",
+  "title": "メルカリバンク license stack",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "メルカリバンク license stack",
+    "aliases": [
+      "mercari-bank-license-stack",
+      "メルカリバンクのライセンス三層構造",
+      "Mercari Bank license stack"
+    ],
+    "domain": "banking",
+    "created": "2026-04-24",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "baas",
+      "license-stack",
+      "merpay",
+      "minna-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://static.jp.mercari.com/electronic_payment_agency_business",
+      "https://jp.merpay.com/about/",
+      "https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyo.html"
+    ]
+  },
+  "summary": "This entry sits under banking index. Read it with Cooperative banking in Japan for adjacent context and Regional bank consolidation pattern for the broader system boundary.",
+  "headings": [
+    "メルカリバンク license stack",
+    "Wiki route",
+    "TL;DR",
+    "Stack",
+    "What electronic payment agency explains",
+    "Important correction",
+    "BaaS design lesson",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/mercari-hd",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/cooperative-banking-japan",
+      "banking/mercari-bank",
+      "banking/minna-bank-baas-model",
+      "banking/quick-deposit-four-methods",
+      "banking/regional-bank-consolidation-pattern",
+      "exchanges/jp-exchange-mercoin",
+      "fintech/japan-financial-regulation",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/mercari-hd",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/mercari-bank",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2772,
+    "word_like_tokens": 347,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-05-24"
+  }
+}

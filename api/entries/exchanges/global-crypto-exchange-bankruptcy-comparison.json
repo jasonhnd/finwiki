@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-crypto-exchange-bankruptcy-comparison",
+  "source_path": "exchanges/global-crypto-exchange-bankruptcy-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-crypto-exchange-bankruptcy-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-crypto-exchange-bankruptcy-comparison.md",
+  "domain": "exchanges",
+  "title": "暗号資産取引所 倒産処理 国際比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "暗号資産取引所 倒産処理 国際比較",
+    "aliases": [
+      "Global crypto exchange bankruptcy comparison",
+      "暗号資産破綻処理 国際",
+      "FTX Celsius Voyager BlockFi Mt.Gox"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "bankruptcy",
+      "insolvency",
+      "global",
+      "comparison"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.pacer.gov/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "暗号資産取引所 倒産処理 国際比較",
+    "Wiki route",
+    "概要",
+    "6 大破綻案件比較表",
+    "制度的要因 (弁済速度差)",
+    "弁済形態",
+    "規制反射",
+    "関連条目"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/ftx-japan-100pct-return-case-study",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/mtgox-bankruptcy-processing-timeline",
+      "exchanges/us-crypto-licensing-multi-layer-system"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2361,
+    "word_like_tokens": 384,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

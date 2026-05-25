@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/ftx-japan-100pct-return-case-study",
+  "source_path": "exchanges/ftx-japan-100pct-return-case-study.md",
+  "url": "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/ftx-japan-100pct-return-case-study.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/ftx-japan-100pct-return-case-study.md",
+  "domain": "exchanges",
+  "title": "FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例",
+    "aliases": [
+      "FTX Japan customer asset return",
+      "FTX 日本法人 100% 返還",
+      "QUOINE 全額返還"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "ftx-japan",
+      "custodiem",
+      "quoine",
+      "incident",
+      "regulatory-success"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/",
+      "https://ftxjapan.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 VASP 暗号資産流出事件史 (2014-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例",
+    "Wiki route",
+    "1. 経緯",
+    "2. 返還 timeline",
+    "3. 制度的意味",
+    "4. その後の経緯",
+    "5. 海外比較"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/jp-vasp-ma-consolidation-history"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2178,
+    "word_like_tokens": 345,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-21"
+  }
+}

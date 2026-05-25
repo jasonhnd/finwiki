@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/hanasaku-life",
+  "source_path": "JapanFG/hanasaku-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/hanasaku-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/hanasaku-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/hanasaku-life.md",
+  "domain": "JapanFG",
+  "title": "はなさく生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "はなさく生命保険",
+    "aliases": [
+      "はなさく生命",
+      "Hanasaku Life",
+      "Hanasaku Life Insurance",
+      "はなさく生命保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "nippon-life",
+      "agency-channel",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://www.life8739.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against なないろ生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "はなさく生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/nanairo-life",
+      "insurance/INDEX",
+      "insurance/life-insurance-channel-mix",
+      "medicare-life",
+      "nanairo-life",
+      "nippon-life",
+      "nissay-wealth-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nanairo-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/medicare-life",
+      "https://finwiki.zksc.io/nanairo-life",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/nissay-wealth-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1797,
+    "word_like_tokens": 280,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

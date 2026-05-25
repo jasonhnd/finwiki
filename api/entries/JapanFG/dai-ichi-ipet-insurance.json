@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/dai-ichi-ipet-insurance",
+  "source_path": "JapanFG/dai-ichi-ipet-insurance.md",
+  "url": "https://finwiki.zksc.io/JapanFG/dai-ichi-ipet-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/dai-ichi-ipet-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/dai-ichi-ipet-insurance.md",
+  "domain": "JapanFG",
+  "title": "第一アイペット損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "第一アイペット損害保険",
+    "aliases": [
+      "第一アイペット損保",
+      "Daiichi ipet Insurance",
+      "Daiichi ipet",
+      "第一アイペット損害保険株式会社",
+      "アイペット損害保険"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "pet-insurance",
+      "dai-ichi-life",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.ipet-ins.com/company/ipet/overview.html",
+      "https://www.daiichilife-group.com/about/business/domestic-insurance.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with 第一ライフグループ, アニコム損害保険, ペット＆ファミリー損害保険, and insurance index.",
+  "headings": [
+    "第一アイペット損害保険",
+    "Wiki route",
+    "Overview",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Strategic reading",
+    "4. Boundary notes",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/anicom-hd",
+      "JapanFG/anicom-insurance",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/dai-ichi-life-insurance",
+      "JapanFG/dai-ichi-neo-life",
+      "JapanFG/pet-and-family-insurance",
+      "insurance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/anicom-hd",
+      "https://finwiki.zksc.io/JapanFG/anicom-insurance",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life-insurance",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-neo-life",
+      "https://finwiki.zksc.io/JapanFG/pet-and-family-insurance",
+      "https://finwiki.zksc.io/insurance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3487,
+    "word_like_tokens": 569,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-22"
+  }
+}

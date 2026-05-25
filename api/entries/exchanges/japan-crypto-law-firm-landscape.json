@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/japan-crypto-law-firm-landscape",
+  "source_path": "exchanges/japan-crypto-law-firm-landscape.md",
+  "url": "https://finwiki.zksc.io/exchanges/japan-crypto-law-firm-landscape",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/japan-crypto-law-firm-landscape.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/japan-crypto-law-firm-landscape.md",
+  "domain": "exchanges",
+  "title": "国内クリプト法律事務所 ランドスケープ — Anderson Mori / 西村あさひ / Mori Hamada / TMI / BCLP 比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内クリプト法律事務所 ランドスケープ — Anderson Mori / 西村あさひ / Mori Hamada / TMI / BCLP 比較",
+    "aliases": [
+      "JP crypto law firm landscape",
+      "国内暗号資産 法律事務所",
+      "Crypto law Japan Big 4"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "law-firm",
+      "legal-advisory",
+      "regulation",
+      "web3"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.amt-law.com/practices/practice-detail/financial-regulation-fintech-blockchain",
+      "https://www.nishimura.com/ja/practices/expertise/blockchain-cryptoasset",
+      "https://www.mhmjapan.com/ja/practices/groups/blockchain-crypto-assets/index.html",
+      "https://www.tmi.gr.jp/services/business/blockchain.html",
+      "https://www.bclplaw.com/en-US/people/index.html"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内クリプト監査法人ランドスケープ for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内クリプト法律事務所 ランドスケープ — Anderson Mori / 西村あさひ / Mori Hamada / TMI / BCLP 比較",
+    "Wiki route",
+    "概要",
+    "5 大事務所のクリプト実務",
+    "Anderson Mori Tomotsune (アンダーソン・毛利・友常 / AMT)",
+    "西村あさひ法律事務所 (Nishimura & Asahi)",
+    "森・濱田松本法律事務所 (Mori Hamada & Matsumoto / MHM)",
+    "TMI 総合法律事務所 (TMI Associates)",
+    "BCLP (Bryan Cave Leighton Paisner / 英ロンドン本拠 + 東京オフィス)",
+    "その他注目事務所"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/japan-crypto-audit-firm-landscape",
+      "exchanges/jcba-japan-crypto-business-association",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-crypto-vc-fund-landscape",
+      "exchanges/jp-custody-fireblocks-japan",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-jpyc",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-vc-fund-landscape",
+      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4536,
+    "word_like_tokens": 641,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-24"
+  }
+}

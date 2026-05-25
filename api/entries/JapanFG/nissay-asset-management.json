@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nissay-asset-management",
+  "source_path": "JapanFG/nissay-asset-management.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nissay-asset-management",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nissay-asset-management.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nissay-asset-management.md",
+  "domain": "JapanFG",
+  "title": "ニッセイアセットマネジメント (Nissay AM)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ニッセイアセットマネジメント (Nissay AM)",
+    "aliases": [
+      "Nissay Asset Management",
+      "ニッセイアセットマネジメント",
+      "ニッセイアセットマネジメント株式会社",
+      "Nissay AM",
+      "NAM"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "asset-management",
+      "fiea-operator",
+      "nippon-life",
+      "life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.nam.co.jp/company/profile/",
+      "https://www.nissay.co.jp/kaisha/group/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
+  "headings": [
+    "ニッセイアセットマネジメント (Nissay AM)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. 出資・統治構造",
+    "4. Why standalone page matters",
+    "5. 競合・peer",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/asset-management-one",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "JapanFG/mufg",
+      "JapanFG/mufg-asset-management",
+      "JapanFG/nippon-life",
+      "JapanFG/sbi-asset-management",
+      "JapanFG/sbi-hd",
+      "JapanFG/t-and-d-asset-management",
+      "JapanFG/td-hd",
+      "JapanFG/tokio-marine",
+      "JapanFG/tokio-marine-asset-management",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/asset-management-one",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-asset-management",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/JapanFG/sbi-asset-management",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/t-and-d-asset-management",
+      "https://finwiki.zksc.io/JapanFG/td-hd",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine-asset-management",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3596,
+    "word_like_tokens": 503,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

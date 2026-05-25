@@ -122,6 +122,57 @@ def strip_frontmatter(text: str) -> str:
     return text[end + 4 :].lstrip()
 
 
+def extract_frontmatter(text: str) -> dict[str, object]:
+    """Parse YAML frontmatter to a flat dict.
+
+    Permissive line-oriented parser — handles the simple key/value, inline
+    list (key: [a, b, c]), and block-list (key:\\n  - a\\n  - b) shapes used
+    across the FinWiki corpus. Not a full YAML parser; rejects nested maps.
+    Returns {} when frontmatter is absent or malformed.
+    """
+    if not text.startswith("---\n"):
+        return {}
+    end = text.find("\n---", 4)
+    if end == -1:
+        return {}
+    block = text[4:end]
+    result: dict[str, object] = {}
+    current_key: str | None = None
+    current_list: list[str] | None = None
+    for raw in block.split("\n"):
+        if not raw.strip():
+            continue
+        if raw.startswith("  - ") or raw.startswith("- "):
+            value = raw.lstrip(" -").strip().strip('"').strip("'")
+            if current_list is not None:
+                current_list.append(value)
+            continue
+        if ":" not in raw:
+            continue
+        key, _, value = raw.partition(":")
+        key = key.strip()
+        value = value.strip()
+        if not value:
+            current_list = []
+            result[key] = current_list
+            current_key = key
+            continue
+        if value.startswith("[") and value.endswith("]"):
+            items = [
+                item.strip().strip('"').strip("'")
+                for item in value[1:-1].split(",")
+                if item.strip()
+            ]
+            result[key] = items
+            current_list = None
+            current_key = key
+            continue
+        result[key] = value.strip('"').strip("'")
+        current_list = None
+        current_key = key
+    return result
+
+
 def strip_inline_markdown(text: str) -> str:
     text = WIKILINK_RE.sub(lambda match: match.group(1).split("|", 1)[-1], text)
     text = MARKDOWN_LINK_RE.sub(lambda match: match.group(1), text)
@@ -500,6 +551,134 @@ def write_ai_index(model: dict[str, object]) -> None:
     )
 
 
+def write_api_entries(model: dict[str, object]) -> int:
+    """Write one JSON per entry under api/entries/<domain>/<slug>.json.
+
+    Each file is a self-contained record so an AI agent can fetch a single
+    entry's metadata without parsing the full ai-index.json or rendering the
+    markdown HTML.
+    """
+    entries = model["entries"]
+    assert isinstance(entries, list)
+
+    # Build inbound-link index: for each entry source_path, count how many
+    # other entries' resolved wikilinks point to it.
+    inbound: dict[str, int] = {}
+    for entry in entries:
+        for resolved in entry.get("resolved_wikilinks", []) or []:
+            slug = resolved.replace(SITE_URL, "")
+            inbound[slug] = inbound.get(slug, 0) + 1
+
+    api_root = ROOT / "api" / "entries"
+    written = 0
+    for entry in entries:
+        source_path = entry["source_path"]
+        # Only build per-entry JSON for domain entries (skip root control
+        # docs, release notes, and templates — these are already in
+        # ai-index.json and don't need individual API records).
+        if "/" not in source_path:
+            continue
+        if source_path.startswith("releases/") or source_path.startswith(".templates/"):
+            continue
+        if source_path.endswith("/INDEX.md"):
+            # Domain INDEX still gets a record — useful for AI agents to fetch
+            # a single domain's structure.
+            pass
+
+        path = ROOT / source_path
+        if not path.exists():
+            continue
+        text = read_text(path)
+        fm = extract_frontmatter(text)
+
+        slug = source_path.removesuffix(".md")
+        out_path = api_root / f"{slug}.json"
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+
+        record = {
+            "schema_version": "1.0",
+            "slug": slug,
+            "source_path": source_path,
+            "url": entry["url"],
+            "github_url": entry["github_url"],
+            "raw_markdown_url": (
+                f"https://raw.githubusercontent.com/jasonhnd/finwiki/main/{source_path}"
+            ),
+            "domain": entry["domain"],
+            "title": entry["title"],
+            "entry_type": entry["entry_type"],
+            "frontmatter": {
+                "title": fm.get("title"),
+                "aliases": fm.get("aliases") if isinstance(fm.get("aliases"), list) else [],
+                "domain": fm.get("domain"),
+                "created": fm.get("created"),
+                "last_updated": fm.get("last_updated"),
+                "last_tended": fm.get("last_tended"),
+                "review_by": fm.get("review_by"),
+                "confidence": fm.get("confidence"),
+                "tags": fm.get("tags") if isinstance(fm.get("tags"), list) else [],
+                "status": fm.get("status"),
+                "sources": fm.get("sources") if isinstance(fm.get("sources"), list) else [],
+            },
+            "summary": entry["summary"],
+            "headings": entry["headings"],
+            "body_links": {
+                "wikilinks_count": len(entry["wikilinks"]),
+                "wikilinks": entry["wikilinks"][:80],
+                "resolved_wikilinks": entry["resolved_wikilinks"],
+                "external_links_count": len(entry["markdown_links"]),
+                "external_links": entry["markdown_links"][:40],
+            },
+            "metrics": {
+                "nonspace_chars": entry["nonspace_chars"],
+                "word_like_tokens": entry["word_like_tokens"],
+                "inbound_wikilinks_count": inbound.get(slug, 0),
+                "last_modified": entry["last_modified"],
+            },
+        }
+        out_path.write_text(
+            json.dumps(record, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        written += 1
+
+    # Write a top-level api/entries/index.json that lists every per-entry
+    # JSON URL so an AI agent can discover what API records exist.
+    index_records = []
+    for entry in entries:
+        source_path = entry["source_path"]
+        if "/" not in source_path:
+            continue
+        if source_path.startswith("releases/") or source_path.startswith(".templates/"):
+            continue
+        slug = source_path.removesuffix(".md")
+        index_records.append(
+            {
+                "slug": slug,
+                "domain": entry["domain"],
+                "title": entry["title"],
+                "api_url": site_url(f"api/entries/{slug}.json"),
+                "html_url": entry["url"],
+            }
+        )
+    (api_root / "index.json").write_text(
+        json.dumps(
+            {
+                "schema_version": "1.0",
+                "generated_at": now_jst().strftime("%Y-%m-%dT%H:%M:%S+09:00"),
+                "site_url": SITE_URL,
+                "total_entries": len(index_records),
+                "entries": index_records,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    return written
+
+
 def main() -> None:
     model = build_model()
     write_robots(model)
@@ -507,6 +686,7 @@ def main() -> None:
     write_llms(model)
     write_llms_full(model)
     write_ai_index(model)
+    api_count = write_api_entries(model)
     counts = model["counts"]
     print(
         "generated "
@@ -514,7 +694,8 @@ def main() -> None:
         f"public_pages={counts['public_markdown_pages']} "
         f"sitemap_urls={counts['site_urls_in_sitemap']} "
         f"domains={counts['topical_domains']} "
-        f"link_audited_entries={counts['link_audited_entries']}"
+        f"link_audited_entries={counts['link_audited_entries']} "
+        f"api_entries={api_count}"
     )
 
 

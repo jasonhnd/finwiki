@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/four-motive-classes-asymmetric-competition",
+  "source_path": "fintech/four-motive-classes-asymmetric-competition.md",
+  "url": "https://finwiki.zksc.io/fintech/four-motive-classes-asymmetric-competition",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/four-motive-classes-asymmetric-competition.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/four-motive-classes-asymmetric-competition.md",
+  "domain": "fintech",
+  "title": "4 类动机不对称分析",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "4 类动机不对称分析 —— 不是 7 阵营对称竞争",
+    "aliases": [
+      "4 motive classes",
+      "asymmetric competition",
+      "不对称博弈",
+      "玩家动机分类"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "game-theory",
+      "stablecoin",
+      "competition-analysis",
+      "motive-mapping"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.circle.com/en/business",
+      "https://tether.to/en/",
+      "https://www.federalreserve.gov/publications/2024-financial-stability-report.htm",
+      "https://www.bis.org/publ/arpdf/ar2023e3.htm",
+      "https://www.imf.org/en/Topics/fintech"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "4 类动机不对称分析",
+    "Wiki route",
+    "4 类动机",
+    "类 1：被困赢家（Locked-in Winners）",
+    "类 2：组合赢家（Portfolio Winners）",
+    "类 3：基础设施赢家（Infrastructure Winners）",
+    "类 4：主权协调者（Sovereign Coordinators）",
+    "为什么这个分类比\"7 阵营\"更有用",
+    "应用模板",
+    "关联"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/jpyc",
+      "central-banking-function-unbundling",
+      "fintech/INDEX",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/tether-business-model-short-treasury-yield",
+      "portfolio-winner-structure-arm-analog",
+      "wall-street-crypto-network-neutrality"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jpyc",
+      "https://finwiki.zksc.io/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/portfolio-winner-structure-arm-analog",
+      "https://finwiki.zksc.io/wall-street-crypto-network-neutrality"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3417,
+    "word_like_tokens": 593,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

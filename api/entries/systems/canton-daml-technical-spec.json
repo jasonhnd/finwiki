@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/canton-daml-technical-spec",
+  "source_path": "systems/canton-daml-technical-spec.md",
+  "url": "https://finwiki.zksc.io/systems/canton-daml-technical-spec",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/canton-daml-technical-spec.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/canton-daml-technical-spec.md",
+  "domain": "systems",
+  "title": "Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy",
+    "aliases": [
+      "canton-daml",
+      "daml-spec",
+      "canton-technical-spec",
+      "daml-vs-solidity"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "dlt",
+      "daml",
+      "smart-contracts",
+      "privacy",
+      "canton"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Canton Network 概览 · DAML 智能合约的隐私机构链 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/bis-project-agora-overview",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "systems/INDEX",
+      "systems/canton-mmf-coalition",
+      "systems/canton-overview",
+      "systems/cctp-v2-vs-canton"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-mmf-coalition",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2328,
+    "word_like_tokens": 360,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

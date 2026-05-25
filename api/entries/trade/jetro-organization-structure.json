@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/jetro-organization-structure",
+  "source_path": "trade/jetro-organization-structure.md",
+  "url": "https://finwiki.zksc.io/trade/jetro-organization-structure",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/jetro-organization-structure.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/jetro-organization-structure.md",
+  "domain": "trade",
+  "title": "JETRO は会員組織ではなく経産省傘下の独立行政法人",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JETRO は会員組織ではなく経産省傘下の独立行政法人",
+    "aliases": [],
+    "domain": "trade",
+    "created": "2026-04-14",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "certain",
+    "tags": [
+      "trade"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under JETRO Members 有料会員制は B2B 提案の入口ゲート and should be read with FinWiki index.",
+  "headings": [
+    "JETRO は会員組織ではなく経産省傘下の独立行政法人",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jbic",
+      "finance/cross-border-m-a-japan",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/nexi",
+      "trade/jetro-members-gateway-model"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/trade/jetro-members-gateway-model"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1343,
+    "word_like_tokens": 195,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

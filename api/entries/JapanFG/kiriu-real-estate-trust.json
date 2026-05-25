@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/kiriu-real-estate-trust",
+  "source_path": "JapanFG/kiriu-real-estate-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/kiriu-real-estate-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kiriu-real-estate-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/kiriu-real-estate-trust.md",
+  "domain": "JapanFG",
+  "title": "Kiriu Real Estate Trust / きりう不動産信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Kiriu Real Estate Trust / きりう不動産信託",
+    "aliases": [
+      "きりう不動産信託",
+      "きりう不動産信託株式会社",
+      "Kiriu Real Estate Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "regional-revitalization",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Kiriu Real Estate Trust official site: https://www.kiriu-trust.co.jp/",
+      "MLIT historical-townscape research PDF: https://www.mlit.go.jp/common/001083330.pdf"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/kiriu-real-estate-trust",
+  "headings": [
+    "Kiriu Real Estate Trust / きりう不動産信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/kainuma-trust-real-estate",
+      "JapanFG/kiriu-real-estate-trust",
+      "JapanFG/sekisui-house-trust",
+      "JapanFG/sumire-regional-trust",
+      "JapanFG/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/kainuma-trust-real-estate",
+      "https://finwiki.zksc.io/JapanFG/kiriu-real-estate-trust",
+      "https://finwiki.zksc.io/JapanFG/sekisui-house-trust",
+      "https://finwiki.zksc.io/JapanFG/sumire-regional-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2279,
+    "word_like_tokens": 363,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-22"
+  }
+}

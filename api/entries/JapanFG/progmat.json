@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/progmat",
+  "source_path": "JapanFG/progmat.md",
+  "url": "https://finwiki.zksc.io/JapanFG/progmat",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/progmat.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/progmat.md",
+  "domain": "JapanFG",
+  "title": "株式会社Progmat",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社Progmat",
+    "aliases": [
+      "Progmat",
+      "Progmat Inc.",
+      "株式会社Progmat",
+      "プログマット"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "stablecoin",
+      "digital-assets",
+      "trust-bank",
+      "tokenization"
+    ],
+    "status": "active",
+    "sources": [
+      "https://progmat.co.jp/about/",
+      "https://progmat.co.jp/concept/",
+      "https://progmat.co.jp/en/news/2023-09-11-press/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for adjacent context and payments index for the broader system boundary.",
+  "headings": [
+    "株式会社Progmat",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/mufg",
+      "exchanges/INDEX",
+      "exchanges/jp-exchange-jpyc",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-progmat",
+      "fintech/jp-trust-type-sc-architecture",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2276,
+    "word_like_tokens": 348,
+    "inbound_wikilinks_count": 36,
+    "last_modified": "2026-05-24"
+  }
+}

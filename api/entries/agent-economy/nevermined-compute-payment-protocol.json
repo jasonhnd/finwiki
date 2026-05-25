@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/nevermined-compute-payment-protocol",
+  "source_path": "agent-economy/nevermined-compute-payment-protocol.md",
+  "url": "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/nevermined-compute-payment-protocol.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/nevermined-compute-payment-protocol.md",
+  "domain": "agent-economy",
+  "title": "Nevermined · AI compute-payment protocol",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Nevermined · AI compute-payment protocol",
+    "aliases": [
+      "nevermined-compute-payment-protocol",
+      "Nevermined",
+      "AI compute marketplace payment",
+      "per-inference micropayment"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "possible",
+    "tags": [
+      "agent-economy",
+      "payment",
+      "nevermined",
+      "compute-marketplace",
+      "per-inference",
+      "micropayment",
+      "x402"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://nevermined.io/",
+      "https://docs.nevermined.io/",
+      "https://github.com/nevermined-io",
+      "https://nevermined.app/"
+    ]
+  },
+  "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP-native micropayment for peer / contrast, skill market monetization for the marketplace framing, and payments index for the broader rail context.",
+  "headings": [
+    "Nevermined · AI compute-payment protocol",
+    "Wiki route",
+    "Key facts",
+    "Mechanism — how Nevermined routes compute payments",
+    "Compute-marketplace fit",
+    "Integration with x402",
+    "Where Nevermined sits",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/skill-market-monetization",
+      "agent-economy/skyfire-closed-loop-agent-issuer",
+      "agent-economy/x402-http-payment-overview",
+      "finance/multi-jurisdiction-identity-tax-leverage",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX",
+      "systems/l2-agent-economics-arbitrum-base-op-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
+      "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5715,
+    "word_like_tokens": 862,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

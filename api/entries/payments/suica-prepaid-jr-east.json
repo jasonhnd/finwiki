@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/suica-prepaid-jr-east",
+  "source_path": "payments/suica-prepaid-jr-east.md",
+  "url": "https://finwiki.zksc.io/payments/suica-prepaid-jr-east",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/suica-prepaid-jr-east.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/suica-prepaid-jr-east.md",
+  "domain": "payments",
+  "title": "Suica: JR East transit and general-purpose IC prepaid",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Suica: JR East transit and general-purpose IC prepaid",
+    "aliases": [
+      "suica-prepaid-jr-east",
+      "Suica 電子マネー",
+      "JR East Suica",
+      "スイカ 前払式支払手段",
+      "Mobile Suica Apple Pay"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "electronic-money",
+      "transit",
+      "felica",
+      "suica",
+      "jr-east",
+      "mobile-suica"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jreast.co.jp/suica/",
+      "https://www.jreast.co.jp/mobilesuica/",
+      "https://www.jreast.co.jp/",
+      "https://www.jreast.co.jp/investor/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.felicanetworks.co.jp/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the JR East-anchored prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with transit-prepaid e-money economics for the cross-issuer scheme view (10 IC mutual-use, Cyberne settlement). Compare with PASM",
+  "headings": [
+    "Suica: JR East transit and general-purpose IC prepaid",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and operational structure",
+    "Legal basis: 前払式支払手段",
+    "The 10 IC mutual-use scheme",
+    "Mobile Suica generations",
+    "KPI snapshot",
+    "Strategy: transit-anchored cashless platform",
+    "Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jr-east-financial",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/edy-rakuten-prepaid",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-card-security-authentication-controls",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/pasmo-prepaid-tokyo-metro",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/waon-prepaid-aeon"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jr-east-financial",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/edy-rakuten-prepaid",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-card-security-authentication-controls",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/pasmo-prepaid-tokyo-metro",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9073,
+    "word_like_tokens": 1493,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

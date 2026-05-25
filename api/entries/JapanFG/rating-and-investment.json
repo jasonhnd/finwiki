@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/rating-and-investment",
+  "source_path": "JapanFG/rating-and-investment.md",
+  "url": "https://finwiki.zksc.io/JapanFG/rating-and-investment",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rating-and-investment.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/rating-and-investment.md",
+  "domain": "JapanFG",
+  "title": "格付投資情報センター (R&I)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "格付投資情報センター (R&I)",
+    "aliases": [
+      "R&I",
+      "Rating and Investment Information",
+      "Inc.",
+      "株式会社格付投資情報センター",
+      "格付投資情報センター"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "credit-rating-agency",
+      "mizuho-related",
+      "capital-markets"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 格付投資情報センター (2026-05-25 抽出)",
+      "R&I 公式サイト (https://www.r-i.co.jp/, 2026-05-25 参照)",
+      "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)",
+      "金融商品取引法 第 66 条の 27 以下"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本格付研究所 (JCR) for peer / contrast context and 金融庁 for the broader regulatory boundary.",
+  "headings": [
+    "格付投資情報センター (R&I)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人構造・沿革",
+    "沿革・前身",
+    "重要年表",
+    "2. 業務 map",
+    "格付スケール",
+    "3. 競争・差別化",
+    "vs JCR"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fsa",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/jcr",
+      "JapanFG/mizuho-bank",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fsa",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/jcr",
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3690,
+    "word_like_tokens": 583,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

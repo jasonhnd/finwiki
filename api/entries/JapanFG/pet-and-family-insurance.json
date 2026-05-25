@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/pet-and-family-insurance",
+  "source_path": "JapanFG/pet-and-family-insurance.md",
+  "url": "https://finwiki.zksc.io/JapanFG/pet-and-family-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pet-and-family-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/pet-and-family-insurance.md",
+  "domain": "JapanFG",
+  "title": "ペット＆ファミリー損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ペット＆ファミリー損害保険",
+    "aliases": [
+      "ペット＆ファミリー損保",
+      "Pet & Family Insurance",
+      "Pet and Family Insurance",
+      "ペット＆ファミリー損害保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "pet-insurance",
+      "td-holdings",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.petfamilyins.co.jp/company/overview/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with T&D Holdings, 第一アイペット損害保険, アニコム損害保険, and insurance index.",
+  "headings": [
+    "ペット＆ファミリー損害保険",
+    "Wiki route",
+    "Overview",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Strategic reading",
+    "4. Boundary notes",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/anicom-insurance",
+      "JapanFG/dai-ichi-ipet-insurance",
+      "JapanFG/daido-life",
+      "JapanFG/taiyo-life",
+      "JapanFG/td-financial-life",
+      "JapanFG/td-hd",
+      "insurance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/anicom-insurance",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-ipet-insurance",
+      "https://finwiki.zksc.io/JapanFG/daido-life",
+      "https://finwiki.zksc.io/JapanFG/taiyo-life",
+      "https://finwiki.zksc.io/JapanFG/td-financial-life",
+      "https://finwiki.zksc.io/JapanFG/td-hd",
+      "https://finwiki.zksc.io/insurance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3203,
+    "word_like_tokens": 540,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-22"
+  }
+}

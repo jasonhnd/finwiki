@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ja-mitsui-leasing",
+  "source_path": "JapanFG/ja-mitsui-leasing.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-mitsui-leasing.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ja-mitsui-leasing.md",
+  "domain": "JapanFG",
+  "title": "JA三井リース",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JA三井リース",
+    "aliases": [
+      "JA Mitsui Leasing",
+      "JA Mitsui Leasing, Ltd.",
+      "JA三井リース株式会社",
+      "ja-mitsui-leasing",
+      "JAML"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "finance",
+      "mitsui-group",
+      "ja-group",
+      "norinchukin"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jamitsui.com/",
+      "https://www.jamitsui.com/company/",
+      "https://www.nochubank.or.jp/",
+      "https://www.leasing.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As a JA / 農林中金 + 三井系の合弁体, it should be cross-read with 農林中央金庫 for the JA-side context.",
+  "headings": [
+    "JA三井リース",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fuyo-lease",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mizuho-lease",
+      "JapanFG/norinchukin",
+      "JapanFG/smfl",
+      "JapanFG/tokyo-century",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3028,
+    "word_like_tokens": 443,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

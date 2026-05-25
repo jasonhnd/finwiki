@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/chain-abstraction-pattern-value-capture",
+  "source_path": "systems/chain-abstraction-pattern-value-capture.md",
+  "url": "https://finwiki.zksc.io/systems/chain-abstraction-pattern-value-capture",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chain-abstraction-pattern-value-capture.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chain-abstraction-pattern-value-capture.md",
+  "domain": "systems",
+  "title": "跨链桥 commoditization 与链抽象层价值上移",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "跨链桥 commoditization 与链抽象层价值上移",
+    "aliases": [
+      "chain-abstraction-pattern-value-capture",
+      "cross-chain bridge commoditization",
+      "跨链桥 commoditization"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "chain-abstraction",
+      "cross-chain-bridge",
+      "commoditization",
+      "value-capture"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against 链抽象模式概览 · 用户不感知底层链的下一层基础设施 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "跨链桥 commoditization 与链抽象层价值上移",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-commoditization",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "fintech/INDEX",
+      "fintech/usd-stablecoin-interchange",
+      "systems/INDEX",
+      "systems/chain-abstraction-pattern-overview",
+      "systems/chain-abstraction-pattern-three-solutions",
+      "systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-commoditization",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2483,
+    "word_like_tokens": 387,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/asahi-trust",
+  "source_path": "JapanFG/asahi-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/asahi-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/asahi-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/asahi-trust.md",
+  "domain": "JapanFG",
+  "title": "Asahi Trust / 朝日信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Asahi Trust / 朝日信託",
+    "aliases": [
+      "朝日信託",
+      "株式会社朝日信託",
+      "Asahi Trust Co.",
+      "Ltd."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "estate-planning",
+      "inheritance",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Asahi Trust official site: https://www.a-t.jp/",
+      "Asahi Trust company profile: https://www.a-t.jp/company/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/asahi-trust",
+  "headings": [
+    "Asahi Trust / 朝日信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/asahi-trust",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/nichizei-trust",
+      "JapanFG/oag-trust",
+      "JapanFG/smtb",
+      "JapanFG/trust-companies-japan-index",
+      "banking/japan-trust-bank-custody-map",
+      "insurance/japan-life-insurance-big-four"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/asahi-trust",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/nichizei-trust",
+      "https://finwiki.zksc.io/JapanFG/oag-trust",
+      "https://finwiki.zksc.io/JapanFG/smtb",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2377,
+    "word_like_tokens": 388,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-22"
+  }
+}

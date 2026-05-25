@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/mebuki-lease",
+  "source_path": "JapanFG/mebuki-lease.md",
+  "url": "https://finwiki.zksc.io/JapanFG/mebuki-lease",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mebuki-lease.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/mebuki-lease.md",
+  "domain": "JapanFG",
+  "title": "めぶきリース (Mebuki Lease)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "めぶきリース (Mebuki Lease)",
+    "aliases": [
+      "Mebuki Lease",
+      "めぶきリース",
+      "株式会社めぶきリース",
+      "旧 常陽リース",
+      "旧 足利リース"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "regional-bank-leasing-subsidiary",
+      "kanto",
+      "ibaraki",
+      "tochigi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.mebuki-lease.co.jp/",
+      "https://www.mebuki-fg.co.jp/",
+      "https://www.chiginkyo.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as the FG-subsidiary leasing operating-company anchor for めぶき FG. Read it against parent operating banks 常陽銀行 / 足利銀行 and sibling subsidiary めぶき証券. Peer comparison: 北海道リース (北洋・北海道銀行系) and major lessor 三菱 HC キャピタル / みずほリース. For broader system route see regional-",
+  "headings": [
+    "めぶきリース (Mebuki Lease)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. 持株ツリー",
+    "3. 合併歷史・前身",
+    "旧 常陽リース系譜",
+    "旧 足利リース系譜",
+    "めぶき FG 設立とグループ統合",
+    "4. KPI table (concept) ^[ambiguous]"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "ashikaga-bank",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "fuyo-lease",
+      "hokkaido-lease",
+      "ja-mitsui-leasing",
+      "joyo-bank",
+      "mebuki-fg",
+      "mebuki-securities",
+      "mitsubishi-hc-capital",
+      "mizuho-lease",
+      "nec-leasing",
+      "ricoh-leasing",
+      "showa-leasing",
+      "smfl",
+      "tochigi-bank",
+      "tokyo-century",
+      "toyota-finance",
+      "tsukuba-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/ashikaga-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/fuyo-lease",
+      "https://finwiki.zksc.io/hokkaido-lease",
+      "https://finwiki.zksc.io/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/joyo-bank",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mebuki-securities",
+      "https://finwiki.zksc.io/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/mizuho-lease",
+      "https://finwiki.zksc.io/nec-leasing",
+      "https://finwiki.zksc.io/ricoh-leasing",
+      "https://finwiki.zksc.io/showa-leasing",
+      "https://finwiki.zksc.io/smfl",
+      "https://finwiki.zksc.io/tochigi-bank",
+      "https://finwiki.zksc.io/tokyo-century",
+      "https://finwiki.zksc.io/toyota-finance",
+      "https://finwiki.zksc.io/tsukuba-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4917,
+    "word_like_tokens": 660,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

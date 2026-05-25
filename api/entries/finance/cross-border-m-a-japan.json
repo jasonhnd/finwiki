@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/cross-border-m-a-japan",
+  "source_path": "finance/cross-border-m-a-japan.md",
+  "url": "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/cross-border-m-a-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/cross-border-m-a-japan.md",
+  "domain": "finance",
+  "title": "Cross-border M&A Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Cross-border M&A Japan",
+    "aliases": [
+      "finance/cross-border-m-a-japan",
+      "cross-border-m-a-japan",
+      "Japan cross-border M&A"
+    ],
+    "domain": "finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "M&A",
+      "cross-border",
+      "Japan",
+      "FEFTA",
+      "JFTC"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/english/press/2023/0419_002.html",
+      "https://www.mof.go.jp/english/policy/international_policy/fdi/gaitamehou_20200508.htm",
+      "https://www.jftc.go.jp/en/pressreleases/yearly-2019/December/191217.html",
+      "https://www.jftc.go.jp/en/legislation_gls/imonopoly_guidelines_files/191217policy.pdf",
+      "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
+    ]
+  },
+  "summary": "Japan cross-border M&A has three different deal directions: inbound foreign acquisition / investment into Japanese companies, outbound Japanese acquisition overseas, and joint ventures / strategic alliances. Do not collapse them into one market. Each has different board, financing, regulatory, forei",
+  "headings": [
+    "Cross-border M&A Japan",
+    "TL;DR",
+    "Direction Map",
+    "Regulatory Map",
+    "METI Inbound M&A Reading",
+    "JapanFG Relevance",
+    "Due-Diligence Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/goldman-sachs-japan",
+      "JapanFG/jbic",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/smbc-nikko",
+      "finance/INDEX",
+      "finance/japan-ib-league-table",
+      "policy-finance/INDEX",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/goldman-sachs-japan",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4361,
+    "word_like_tokens": 654,
+    "inbound_wikilinks_count": 43,
+    "last_modified": "2026-05-20"
+  }
+}

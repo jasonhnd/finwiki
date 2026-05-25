@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/jf-marine-bank-hokkaido",
+  "source_path": "JapanFG/jf-marine-bank-hokkaido.md",
+  "url": "https://finwiki.zksc.io/JapanFG/jf-marine-bank-hokkaido",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jf-marine-bank-hokkaido.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/jf-marine-bank-hokkaido.md",
+  "domain": "JapanFG",
+  "title": "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
+    "aliases": [
+      "JF-Marine-Bank-Hokkaido",
+      "北海道信漁連",
+      "北海道信用漁連",
+      "Hokkaido Shingyoren",
+      "JF Marine Bank Hokkaido",
+      "道信漁連"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "jf-group",
+      "jf-marine-bank-system",
+      "prefectural-federation",
+      "shingyoren",
+      "hokkaido",
+      "fisheries-finance",
+      "cooperative-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jfmbk.org/",
+      "https://www.jfmbk.org/about/housin.html",
+      "https://www.jfmbk.org/common/pdf/housin_jf_all.pdf",
+      "https://www.nochubank.or.jp/about/features.html",
+      "水産業協同組合法 (昭和 23 年法律第 242 号)",
+      "https://www.zengyoren.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the first JF Marine Bank prefectural-federation operating-company anchor in FinWiki, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the single largest fisheries region in Japan (sake / hota",
+  "headings": [
+    "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / 組織構造",
+    "北海道漁業の規模感 ^[extracted]",
+    "10 信漁連の構成 ^[extracted / inferred]",
+    "JF Marine Bank system 内の北海道信漁連の位置付け ^[extracted]",
+    "重要年表 ^[extracted / inferred]",
+    "2. 業務 map",
+    "4 大機能 (信漁連共通) ^[extracted]"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/hokkaido-bank",
+      "JapanFG/ja-bank-tokyo-shinren",
+      "JapanFG/ja-kyosairen-fukushima",
+      "JapanFG/ja-shinnoren",
+      "JapanFG/jf-shingyoren",
+      "JapanFG/jf-zengyoren",
+      "JapanFG/norinchukin",
+      "JapanFG/north-pacific-bank",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/hokkaido-bank",
+      "https://finwiki.zksc.io/JapanFG/ja-bank-tokyo-shinren",
+      "https://finwiki.zksc.io/JapanFG/ja-kyosairen-fukushima",
+      "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+      "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
+      "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/north-pacific-bank",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8060,
+    "word_like_tokens": 1177,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

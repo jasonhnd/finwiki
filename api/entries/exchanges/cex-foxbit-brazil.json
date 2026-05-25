@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-foxbit-brazil",
+  "source_path": "exchanges/cex-foxbit-brazil.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-foxbit-brazil",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-foxbit-brazil.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-foxbit-brazil.md",
+  "domain": "exchanges",
+  "title": "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性",
+    "aliases": [
+      "Foxbit",
+      "Foxbit Brasil",
+      "Foxbit Exchange"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "brazil",
+      "brl-spot",
+      "pix"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Foxbit 公式 IR / About ページ, foxbit.com.br)",
+      "公開情報整理 (Banco Central do Brasil / CVM 仮想資産規制声明・通達)",
+      "公開情報整理 (Lei 14.478/2022 marco legal de criptoativos 官報資料)",
+      "公開情報整理 (Foxbit IPO 検討報道 2021–2022 Valor Econômico / InfoMoney)",
+      "公開情報整理 (ABCripto / Associação Brasileira de Criptoeconomia メンバーリスト)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against Mercado Bitcoin for the closest Brazil peer / contrast context（#1），global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
+  "headings": [
+    "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（ブラジル制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 業界での位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-bithumb-korea",
+      "exchanges/cex-coindcx-india",
+      "exchanges/cex-mercado-bitcoin-brazil",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/rwa-tokenization-cex-integration"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+      "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
+      "https://finwiki.zksc.io/exchanges/cex-mercado-bitcoin-brazil",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4649,
+    "word_like_tokens": 756,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/insurance-agency-and-brokerage-japan",
+  "source_path": "insurance/insurance-agency-and-brokerage-japan.md",
+  "url": "https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/insurance-agency-and-brokerage-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/insurance-agency-and-brokerage-japan.md",
+  "domain": "insurance",
+  "title": "Japan insurance agency and brokerage",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan insurance agency and brokerage",
+    "aliases": [
+      "Japan insurance agency and brokerage",
+      "insurance agents and brokers Japan",
+      "保険代理店 保険仲立人 Japan"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "distribution",
+      "agency",
+      "brokerage",
+      "solicitation",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/common/law/guide/ins/",
+      "https://www.fsa.go.jp/common/law/guide/ins/05.html",
+      "https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON",
+      "https://www.sonpo.or.jp/exam/dairiten/about/index.html",
+      "https://www.sonpo.or.jp/report/statistics/boshu/index.html"
+    ]
+  },
+  "summary": "Insurance distribution in Japan is mapped by authority and responsibility. An insurer, an insurance agent / solicitor, an insurance broker, a bank counter, a retailer, a platform app, and a comparison site can all touch the customer journey, but they do not carry the same legal role.",
+  "headings": [
+    "Japan insurance agency and brokerage",
+    "Overview",
+    "Distribution Role Map",
+    "Agency Versus Brokerage",
+    "Channel Economics",
+    "Why This Matters For FinWiki",
+    "Source Fields",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/lifenet",
+      "JapanFG/mitsui-sumitomo-insurance",
+      "JapanFG/sompo-japan-insurance",
+      "JapanFG/sony-insurance",
+      "JapanFG/tokio-marine-nichido-fire",
+      "banking/INDEX",
+      "fintech/INDEX",
+      "insurance/INDEX",
+      "insurance/internet-life-insurance-business-model",
+      "insurance/japan-life-insurance-big-four",
+      "insurance/japan-nonlife-big-three",
+      "insurance/life-insurance-channel-mix",
+      "insurance/saison-automobile-fire",
+      "payments/INDEX",
+      "retail/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/lifenet",
+      "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/JapanFG/sompo-japan-insurance",
+      "https://finwiki.zksc.io/JapanFG/sony-insurance",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine-nichido-fire",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/retail/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6084,
+    "word_like_tokens": 891,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-22"
+  }
+}

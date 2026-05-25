@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/onchain-finance-vs-crypto-bifurcation",
+  "source_path": "fintech/onchain-finance-vs-crypto-bifurcation.md",
+  "url": "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/onchain-finance-vs-crypto-bifurcation.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/onchain-finance-vs-crypto-bifurcation.md",
+  "domain": "fintech",
+  "title": "ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した",
+    "aliases": [
+      "onchain-vs-crypto",
+      "blockchain-bifurcation"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-12",
+    "confidence": "possible",
+    "tags": [
+      "fintech",
+      "blockchain",
+      "stablecoin"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "https://docs.digitalasset.com/integrate/devnet/canton-network-overview/index.html",
+      "https://progmat.co.jp/about/",
+      "Public DTCC, Nasdaq, Broadridge, Circle, and institutional tokenization disclosures."
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した",
+    "Wiki route",
+    "Conclusion",
+    "Reasoning",
+    "Applicable When",
+    "Source",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "banking/minna-bank-baas-model",
+      "fintech/INDEX",
+      "fintech/fx-onchain-as-stablecoin-final-boss",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/retail-stablecoin-dual-bind",
+      "fintech/stablecoin-crossborder-b2b-growth",
+      "fintech/wall-street-crypto-network-neutrality",
+      "systems/canton-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/fx-onchain-as-stablecoin-final-boss",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/retail-stablecoin-dual-bind",
+      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
+      "https://finwiki.zksc.io/systems/canton-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2588,
+    "word_like_tokens": 343,
+    "inbound_wikilinks_count": 39,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sbi-insurance-group",
+  "source_path": "JapanFG/sbi-insurance-group.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sbi-insurance-group",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sbi-insurance-group.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sbi-insurance-group.md",
+  "domain": "JapanFG",
+  "title": "SBI インシュアランスグループ (SBI Insurance Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBI インシュアランスグループ (SBI Insurance Group)",
+    "aliases": [
+      "SBI Insurance Group",
+      "SBI インシュアランスグループ",
+      "SBI Insurance Group Co.",
+      "Ltd.",
+      "SBIIG",
+      "SBI 保険グループ"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance-holdings",
+      "sbi"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: SBIインシュアランスグループ (2026-05-19 抽出)",
+      "Wikipedia: SBI損害保険 (2026-05-19 抽出)",
+      "Wikipedia: SBI生命保険 (2026-05-19 抽出)",
+      "SBI HD 公式・保険事業 IR (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SBI証券 (SBI Securities) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBI インシュアランスグループ (SBI Insurance Group)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社",
+    "重要历史 ^[extracted]",
+    "2. 业务线 map",
+    "3. 戦略与竞争",
+    "コアコンセプト",
+    "合纵连横"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/sbi-securities",
+      "axa-japan",
+      "banking/INDEX",
+      "lifenet",
+      "msad",
+      "prudential-japan",
+      "rakuten-fg",
+      "sbi-hd",
+      "sbi-shinsei-bank",
+      "sompo",
+      "sony-fg",
+      "tokio-marine",
+      "zurich-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/axa-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/lifenet",
+      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/prudential-japan",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/sompo",
+      "https://finwiki.zksc.io/sony-fg",
+      "https://finwiki.zksc.io/tokio-marine",
+      "https://finwiki.zksc.io/zurich-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4371,
+    "word_like_tokens": 683,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

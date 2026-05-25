@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/san-jusan-fg",
+  "source_path": "JapanFG/san-jusan-fg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/san-jusan-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/san-jusan-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/san-jusan-fg.md",
+  "domain": "JapanFG",
+  "title": "三十三 FG (San ju San Financial Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三十三 FG (San ju San Financial Group)",
+    "aliases": [
+      "三十三フィナンシャルグループ",
+      "San ju San FG",
+      "三十三 FG",
+      "San ju San Financial Group"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 三十三フィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 三十三銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三十三 FG (San ju San Financial Group)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・関連会社",
+    "2. 合併歷史・前身",
+    "旧 第三銀行系",
+    "旧 三重銀行系",
+    "統合",
+    "3. 业务线 map"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fukuoka-fg",
+      "banking/INDEX",
+      "hyakugo-bank",
+      "juroku-fg",
+      "mufg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/hyakugo-bank",
+      "https://finwiki.zksc.io/juroku-fg",
+      "https://finwiki.zksc.io/mufg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3040,
+    "word_like_tokens": 470,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-21"
+  }
+}

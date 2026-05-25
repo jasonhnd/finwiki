@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/japan-single-stock-options",
+  "source_path": "derivatives/japan-single-stock-options.md",
+  "url": "https://finwiki.zksc.io/derivatives/japan-single-stock-options",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-single-stock-options.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/japan-single-stock-options.md",
+  "domain": "derivatives",
+  "title": "Japan single-stock options (OSE)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan single-stock options (OSE)",
+    "aliases": [
+      "japan-single-stock-options",
+      "single stock options Japan",
+      "OSE equity options",
+      "個別株オプション",
+      "個別証券オプション",
+      "stock-on-stock options Japan",
+      "Japan equity options market",
+      "covered call Japan"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "equity-derivatives",
+      "single-stock-options",
+      "OSE",
+      "JPX",
+      "structured-products",
+      "retail-issuer-hedging"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/markets/derivatives/securities-options/",
+      "https://www.jpx.co.jp/english/markets/derivatives/",
+      "https://www.jpx.co.jp/english/markets/derivatives/trading-volume/",
+      "https://www.jscc.co.jp/en/",
+      "https://www.fsa.go.jp/en/",
+      "https://www.theocc.com/"
+    ]
+  },
+  "summary": "Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on selected individual Japanese stocks. Despite OSE listing options on ~150 large-cap names at any time, the actual liquidity is structurally limited compare",
+  "headings": [
+    "Japan single-stock options (OSE)",
+    "TL;DR",
+    "Wiki route",
+    "Contract Specifications",
+    "Liquidity Reality",
+    "Why Liquidity Is Limited (Structural Factors)",
+    "OTC Single-Stock Options",
+    "Post-2022 Issuer-Side Hedging Developments",
+    "Clearing and Margin",
+    "Comparison with US Single-Stock Options Depth"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "banking/INDEX",
+      "derivatives/INDEX",
+      "derivatives/dealer-bank-derivatives-revenue-mix",
+      "derivatives/equity-volatility-hedging-corporates-japan",
+      "derivatives/nikkei-225-futures-options",
+      "derivatives/nikkei-vix-jpx-vi-equivalent",
+      "derivatives/retail-fx-margin-trade-japan",
+      "derivatives/structured-bond-japan-retail-issuance",
+      "derivatives/structured-product-eb-knockin-japan-retail",
+      "derivatives/topix-futures",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-market-maker-and-liquidity-provider-landscape",
+      "securities/japan-online-brokerage-competition",
+      "securities/japan-prime-brokerage-and-institutional-financing",
+      "securities/japan-securities-clearing-corp",
+      "securities/osaka-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix",
+      "https://finwiki.zksc.io/derivatives/equity-volatility-hedging-corporates-japan",
+      "https://finwiki.zksc.io/derivatives/nikkei-225-futures-options",
+      "https://finwiki.zksc.io/derivatives/nikkei-vix-jpx-vi-equivalent",
+      "https://finwiki.zksc.io/derivatives/retail-fx-margin-trade-japan",
+      "https://finwiki.zksc.io/derivatives/structured-bond-japan-retail-issuance",
+      "https://finwiki.zksc.io/derivatives/structured-product-eb-knockin-japan-retail",
+      "https://finwiki.zksc.io/derivatives/topix-futures",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-market-maker-and-liquidity-provider-landscape",
+      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition",
+      "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/osaka-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 12456,
+    "word_like_tokens": 1988,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

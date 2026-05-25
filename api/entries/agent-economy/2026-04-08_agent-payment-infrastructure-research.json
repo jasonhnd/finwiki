@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/2026-04-08_agent-payment-infrastructure-research",
+  "source_path": "agent-economy/2026-04-08_agent-payment-infrastructure-research.md",
+  "url": "https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/2026-04-08_agent-payment-infrastructure-research.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/2026-04-08_agent-payment-infrastructure-research.md",
+  "domain": "agent-economy",
+  "title": "Agent 支付基础设施研究报告",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Agent 支付基础设施研究报告",
+    "aliases": [],
+    "domain": "agent-economy",
+    "created": "2026-04-08",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "needs-review"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce",
+      "https://www.x402.org/",
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
+      "https://eips.ethereum.org/EIPS/eip-8004"
+    ]
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against Skill 市场收费化 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "Agent 支付基础设施研究报告",
+    "Wiki route",
+    "一、协议标准格局",
+    "二、关键玩家",
+    "三、身份与信任层",
+    "四、市场数据",
+    "五、对 Agent 支付项目的启示",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/agent-actorship-debate",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/claude-code-extension-architecture",
+      "agent-economy/skill-market-monetization",
+      "fintech/ai-payment-two-tracks",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture",
+      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 16,
+    "external_links": [
+      "https://a16z.com/newsletter/big-ideas-2026-part-2/",
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
+      "https://eips.ethereum.org/EIPS/eip-8004",
+      "https://getblock.io/blog/what-is-a-machine-payments-protocol-mpp/",
+      "https://github.com/google-agentic-commerce/a2a-x402",
+      "https://nevermined.ai/",
+      "https://nevermined.ai/blog/ai-agent-payment-statistics",
+      "https://skyfire.xyz/product/",
+      "https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce",
+      "https://sumsub.com/blog/know-your-agent/",
+      "https://www.circle.com/blog/building-the-internet-financial-system-circles-product-vision-for-2026",
+      "https://www.coinbase.com/developer-platform/discover/launches/agentic-wallets",
+      "https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet",
+      "https://www.crossmint.com/solutions/agentic-payments",
+      "https://www.tryellmo.ai/blog/agentic-commerce-protocol-landscape-2025-2026",
+      "https://www.x402.org/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5112,
+    "word_like_tokens": 865,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

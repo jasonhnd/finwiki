@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/tokyo-to-shokuin-shinkumi",
+  "source_path": "JapanFG/tokyo-to-shokuin-shinkumi.md",
+  "url": "https://finwiki.zksc.io/JapanFG/tokyo-to-shokuin-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/tokyo-to-shokuin-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/tokyo-to-shokuin-shinkumi.md",
+  "domain": "JapanFG",
+  "title": "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)",
+    "aliases": [
+      "Tokyo-to-Shokuin-Shinkumi",
+      "東京都職員信組",
+      "都職員信組",
+      "Tokyo Metropolitan Government Employees Credit Co-operative"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "kanto",
+      "tokyo",
+      "occupation-based-shinkumi",
+      "civil-servant-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the largest 自治体職員 (local government employee) shinkumi in Japan, complementing peer 職域 (occupation-based) shinkumi like 警視庁職員信用組合 (police) and 東京消防信用組合 (fire dept) within the 143-cooperative population catalogued in Japan credit cooperative registry.",
+  "headings": [
+    "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "2. 営業地区・組合員資格",
+    "組合員資格 ^[extracted]",
+    "組合員から除外される範囲 ^[inferred]",
+    "営業拠点 ^[inferred]",
+    "3. 系統内位置",
+    "全信組連内の位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/dic",
+      "JapanFG/iwaki-shinkumi",
+      "JapanFG/keishicho-shinkumi",
+      "JapanFG/sony-bank",
+      "JapanFG/tokyo-shobo-shinkumi",
+      "JapanFG/zenshin-kumi",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dic",
+      "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
+      "https://finwiki.zksc.io/JapanFG/keishicho-shinkumi",
+      "https://finwiki.zksc.io/JapanFG/sony-bank",
+      "https://finwiki.zksc.io/JapanFG/tokyo-shobo-shinkumi",
+      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5487,
+    "word_like_tokens": 684,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/local-bond-market",
+  "source_path": "JapanFG/local-bond-market.md",
+  "url": "https://finwiki.zksc.io/JapanFG/local-bond-market",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/local-bond-market.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/local-bond-market.md",
+  "domain": "JapanFG",
+  "title": "Japan local government bond market",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan local government bond market",
+    "aliases": [
+      "JapanFG/local-bond-market",
+      "local-bond-market",
+      "地方債市場",
+      "Japanese local government bonds"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "local-government-bonds",
+      "public-finance",
+      "policy-finance",
+      "capital-markets"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.chihousai.or.jp/en/02/10.php",
+      "https://www.jfm.go.jp/en/index.html",
+      "https://www.mof.go.jp/filp/summary/filp_local/tihousaiseidonogaiyou.htm",
+      "https://www.stat.go.jp/english/data/nenkan/1431-05e.htm"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against Japan policy-finance map for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "Japan local government bond market",
+    "Wiki route",
+    "TL;DR",
+    "Market Structure",
+    "Issuer / Credit Logic",
+    "Why It Matters For JapanFG",
+    "Joint Local Government Bonds",
+    "Risk Notes",
+    "Open Questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/central-tanshi",
+      "JapanFG/dbj",
+      "JapanFG/japan-policy-finance-map",
+      "JapanFG/jfc",
+      "JapanFG/local-govt-finance",
+      "JapanFG/tokyo-tanshi",
+      "banking/INDEX",
+      "money-market/INDEX",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/central-tanshi",
+      "https://finwiki.zksc.io/JapanFG/dbj",
+      "https://finwiki.zksc.io/JapanFG/japan-policy-finance-map",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/local-govt-finance",
+      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4639,
+    "word_like_tokens": 713,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-vc-fund-landscape",
+  "source_path": "exchanges/jp-crypto-vc-fund-landscape.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-vc-fund-landscape",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-vc-fund-landscape.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-vc-fund-landscape.md",
+  "domain": "exchanges",
+  "title": "国内暗号資産 VC + クリプトファンド ランドスケープ",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内暗号資産 VC + クリプトファンド ランドスケープ",
+    "aliases": [
+      "JP crypto VC landscape",
+      "国内暗号資産 投資家",
+      "JP crypto fund map"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "venture-capital",
+      "investment",
+      "crypto-fund",
+      "ecosystem"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://gumi-cryptos.com/",
+      "https://www.sbiholdings.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against solana ecosystem dex comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内暗号資産 VC + クリプトファンド ランドスケープ",
+    "Wiki route",
+    "概要",
+    "独立系クリプト VC",
+    "大手企業系 CVC",
+    "海外大手 LP / 投資家の国内 PRJ 出資例",
+    "国内 PRJ 投資ハブ"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-jpyc",
+      "exchanges/jp-exchange-sblox",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-listed-cex-related-companies-matrix",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sblox",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2170,
+    "word_like_tokens": 363,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

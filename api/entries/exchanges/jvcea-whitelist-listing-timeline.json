@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jvcea-whitelist-listing-timeline",
+  "source_path": "exchanges/jvcea-whitelist-listing-timeline.md",
+  "url": "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-whitelist-listing-timeline.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jvcea-whitelist-listing-timeline.md",
+  "domain": "exchanges",
+  "title": "JVCEA WhiteList 上場銘柄 timeline (2017-2026)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JVCEA WhiteList 上場銘柄 timeline (2017-2026)",
+    "aliases": [
+      "JVCEA WhiteList timeline",
+      "国内暗号資産 上場銘柄推移",
+      "JP crypto listing history"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "jvcea",
+      "whitelist",
+      "listing",
+      "token",
+      "history"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/",
+      "https://jvcea.or.jp/about/list/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "JVCEA WhiteList 上場銘柄 timeline (2017-2026)",
+    "Wiki route",
+    "概要",
+    "Timeline 主要 Milestone",
+    "国内独占・初上場銘柄",
+    "海外 vs 国内 取扱差",
+    "戦略含意",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-backseat-exchange",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-digital-asset-markets",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-jpyc",
+      "exchanges/jp-exchange-line-xenesis",
+      "exchanges/jp-foreign-exchange-mexc",
+      "exchanges/jvcea-self-regulatory-overview",
+      "exchanges/jvcea-spot-volume-statistics-analysis",
+      "exchanges/jvcea-whitelist-token-listing"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-backseat-exchange",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-digital-asset-markets",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2469,
+    "word_like_tokens": 413,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

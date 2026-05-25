@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "slug": "governance/japan-general-foundation-establishment-requirements",
+  "source_path": "governance/japan-general-foundation-establishment-requirements.md",
+  "url": "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/governance/japan-general-foundation-establishment-requirements.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/governance/japan-general-foundation-establishment-requirements.md",
+  "domain": "governance",
+  "title": "日本 一般財団法人 設立要件・プロセス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 一般財団法人 設立要件・プロセス",
+    "aliases": [],
+    "domain": "governance",
+    "created": "2026-04-22",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "needs-review"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://laws.e-gov.go.jp/",
+      "https://www.koshonin.gr.jp/",
+      "https://www.moj.go.jp/MINJI/minji153.html"
+    ]
+  },
+  "summary": "This entry sits under 日本 研究助成金 map（2026 年度） and should be read with FinWiki index.",
+  "headings": [
+    "日本 一般財団法人 設立要件・プロセス",
+    "Wiki route",
+    "法的根拠",
+    "必要機関（全て強制）",
+    "兼任禁止（重要）",
+    "財産要件",
+    "任期",
+    "理事会開催頻度の実質要件",
+    "設立費用（ミニマム）",
+    "標準設立期間：1〜2 ヶ月"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "business/INDEX",
+      "finance/INDEX",
+      "fintech/japan-financial-regulation",
+      "governance/japan-research-grant-map-2026",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/governance/japan-research-grant-map-2026",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2557,
+    "word_like_tokens": 461,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

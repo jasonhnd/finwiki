@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/japan-net-bank-competition-map",
+  "source_path": "banking/japan-net-bank-competition-map.md",
+  "url": "https://finwiki.zksc.io/banking/japan-net-bank-competition-map",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-net-bank-competition-map.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/japan-net-bank-competition-map.md",
+  "domain": "banking",
+  "title": "Japan net bank competition map",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan net bank competition map",
+    "aliases": [
+      "Japan net bank competition",
+      "Japan digital bank competition map",
+      "ネット銀行 competition map"
+    ],
+    "domain": "banking",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "net-bank",
+      "digital-bank",
+      "BaaS",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://global.rakuten.com/corp/news/press/2026/0514_01.html",
+      "https://www.paypay-bank.co.jp/company/about/",
+      "https://about.paypay.ne.jp/en/pr/20250414/01/",
+      "https://www.jibunbank.co.jp/corporate/performance/",
+      "https://www.netbk.co.jp/contents/company/about/",
+      "https://www.netbk.co.jp/contents/neobank/",
+      "https://gmo-aozora.com/company/outline.html",
+      "https://sonybank.jp/corporate/aboutus/profile.html",
+      "https://www.uibank.co.jp/info/"
+    ]
+  },
+  "summary": "Japan net-bank competition includes several public operating models: ecosystem retail banks, full-banking BaaS / white-label banks, SME / corporate API banks, securities / asset-formation banks, and regional-group digital banks. The FSA bank list provides the legal universe. Public comparison fields",
+  "headings": [
+    "Japan net bank competition map",
+    "Overview",
+    "Competitive Segments",
+    "Comparison Axes",
+    "Model Notes",
+    "Ecosystem Retail",
+    "BaaS / White-Label Banking",
+    "SME / Corporate API",
+    "Asset-Formation Specialists",
+    "Regional Digital Banks"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/01-bank",
+      "JapanFG/daiwa-next-bank",
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/sony-bank",
+      "JapanFG/ssnb",
+      "JapanFG/ui-bank",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/japan-baas-operating-models",
+      "banking/minna-bank-baas-model",
+      "banking/paypay-bank",
+      "banking/post-megabank-positioning",
+      "banking/rakuten-bank",
+      "banking/regional-bank-api-digital-partnership-route",
+      "payments/japan-bank-api-payment-agency-route",
+      "securities/INDEX",
+      "securities/japan-online-brokerage-competition"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/01-bank",
+      "https://finwiki.zksc.io/JapanFG/daiwa-next-bank",
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/sony-bank",
+      "https://finwiki.zksc.io/JapanFG/ssnb",
+      "https://finwiki.zksc.io/JapanFG/ui-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/japan-baas-operating-models",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
+      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6328,
+    "word_like_tokens": 981,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-22"
+  }
+}

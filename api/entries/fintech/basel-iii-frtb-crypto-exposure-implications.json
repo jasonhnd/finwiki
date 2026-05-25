@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/basel-iii-frtb-crypto-exposure-implications",
+  "source_path": "fintech/basel-iii-frtb-crypto-exposure-implications.md",
+  "url": "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-implications",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/basel-iii-frtb-crypto-exposure-implications.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/basel-iii-frtb-crypto-exposure-implications.md",
+  "domain": "fintech",
+  "title": "Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道",
+    "aliases": [
+      "basel-iii-frtb-implications",
+      "BCBS USDC moat",
+      "BUIDL bank channel"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "law",
+      "regulation",
+      "basel",
+      "bank",
+      "stablecoin",
+      "usdc",
+      "buidl",
+      "capital"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.bis.org/bcbs/publ/d545.htm",
+      "https://www.bis.org/basel_framework/",
+      "https://www.circle.com/en/transparency",
+      "https://securitize.io/products/buidl",
+      "https://www.federalreserve.gov/supervisionreg/topics/cryptoasset.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/basel-iii-frtb-crypto-exposure-overview",
+      "fintech/hk-frtb-stablecoin-reserve-overview",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-overview",
+      "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2987,
+    "word_like_tokens": 555,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

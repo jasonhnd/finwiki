@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/sony-bank",
+  "source_path": "banking/sony-bank.md",
+  "url": "https://finwiki.zksc.io/banking/sony-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/sony-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/sony-bank.md",
+  "domain": "banking",
+  "title": "Sony Bank operating profile (ソニー銀行)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Sony Bank operating profile (ソニー銀行)",
+    "aliases": [
+      "banking/sony-bank",
+      "Sony Bank operating profile",
+      "ソニー銀行 operating profile",
+      "Sony Bank Inc.",
+      "MoneyKit"
+    ],
+    "domain": "banking",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "net-bank",
+      "sony-fg",
+      "fx",
+      "mortgage",
+      "deposit-bank",
+      "asset-formation-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://moneykit.net/",
+      "https://moneykit.net/visitor/co/",
+      "https://moneykit.net/visitor/co/disc.html",
+      "https://moneykit.net/visitor/sbw/",
+      "https://www.sonyfg.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+    ]
+  },
+  "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at ソニー銀行 (Sony Bank) entity anchor. Read it inside the net-bank-segment map at Japan net bank competition map, with the parent-group context at Sony Financial Group, and against peers Rakuten Bank · PayPay Ba",
+  "headings": [
+    "Sony Bank operating profile (ソニー銀行)",
+    "Wiki route",
+    "TL;DR",
+    "1. Identity and ownership",
+    "Where Sony Bank sits inside the parent",
+    "2. Product franchise — what differentiates Sony Bank",
+    "Multi-currency deposit + FX core",
+    "Mortgage origination",
+    "Investment-product distribution",
+    "Card and payment adjacencies"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/au-kabucom-securities",
+      "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
+      "JapanFG/sbi-securities",
+      "JapanFG/sony-bank",
+      "JapanFG/sony-fg",
+      "JapanFG/sony-insurance",
+      "JapanFG/sony-life",
+      "JapanFG/ssnb",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/daiwa-next-bank",
+      "banking/japan-banking-license-tier-comparison-matrix",
+      "banking/japan-net-bank-competition-map",
+      "banking/paypay-bank",
+      "banking/post-megabank-positioning",
+      "banking/quick-deposit-four-methods",
+      "banking/rakuten-bank",
+      "fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/au-kabucom-securities",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/JapanFG/sony-bank",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/sony-insurance",
+      "https://finwiki.zksc.io/JapanFG/sony-life",
+      "https://finwiki.zksc.io/JapanFG/ssnb",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/daiwa-next-bank",
+      "https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix",
+      "https://finwiki.zksc.io/banking/japan-net-bank-competition-map",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11145,
+    "word_like_tokens": 1837,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

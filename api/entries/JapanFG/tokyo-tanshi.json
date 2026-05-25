@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/tokyo-tanshi",
+  "source_path": "JapanFG/tokyo-tanshi.md",
+  "url": "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/tokyo-tanshi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/tokyo-tanshi.md",
+  "domain": "JapanFG",
+  "title": "東京短資 (Tokyo Tanshi)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京短資 (Tokyo Tanshi)",
+    "aliases": [
+      "東京短資",
+      "Tokyo Tanshi",
+      "東京短資株式会社",
+      "Tokyo Tanshi Co.",
+      "Ltd."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "money-market",
+      "tanshi"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 東京短資 (公開情報、2026-05-19 抽出)",
+      "日銀 公開市場操作対手リスト（公開情報）",
+      "短資協会 公開資料"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against セントラル短資株式会社 (Central Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "東京短資 (Tokyo Tanshi)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "3 大短資の位置付け",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "マイナス金利期の苦境（2016-01〜2024-03）",
+    "マイナス金利解除と復活期待（2024-03〜）",
+    "法人 FX ブローカレッジ強化"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/central-tanshi",
+      "banking/INDEX",
+      "central-tanshi",
+      "mizuho-fg",
+      "money-market/call-market-structure",
+      "mufg",
+      "smfg",
+      "ueda-yagi-tanshi"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/central-tanshi",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/central-tanshi",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/money-market/call-market-structure",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ueda-yagi-tanshi"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3981,
+    "word_like_tokens": 541,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-21"
+  }
+}

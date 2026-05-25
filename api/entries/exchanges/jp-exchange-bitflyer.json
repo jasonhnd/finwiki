@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-bitflyer",
+  "source_path": "exchanges/jp-exchange-bitflyer.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-bitflyer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-bitflyer.md",
+  "domain": "exchanges",
+  "title": "株式会社 bitFlyer — 日本暗号資産交換業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社 bitFlyer — 日本暗号資産交換業者",
+    "aliases": [
+      "bitFlyer",
+      "bitFlyer Inc.",
+      "ビットフライヤー"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "bitflyer-holdings"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://bitflyer.com/ja-jp/s/company",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://ja.wikipedia.org/wiki/BitFlyer"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "株式会社 bitFlyer — 日本暗号資産交換業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/bitflyer",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/ftx-japan-100pct-return-case-study",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/bitflyer",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 4,
+    "external_links": [
+      "https://bitflyer.com/ja-jp/s/company",
+      "https://ja.wikipedia.org/wiki/BitFlyer",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4537,
+    "word_like_tokens": 791,
+    "inbound_wikilinks_count": 45,
+    "last_modified": "2026-05-24"
+  }
+}

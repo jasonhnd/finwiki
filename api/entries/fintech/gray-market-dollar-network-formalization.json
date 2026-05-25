@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/gray-market-dollar-network-formalization",
+  "source_path": "fintech/gray-market-dollar-network-formalization.md",
+  "url": "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/gray-market-dollar-network-formalization.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/gray-market-dollar-network-formalization.md",
+  "domain": "fintech",
+  "title": "灰色市场美元网络的正式化",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "灰色市场美元网络的正式化 —— Tether HK 模板",
+    "aliases": [
+      "灰色美元正式化",
+      "Tether HK 模板",
+      "gray market formalization"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "Tether",
+      "regulatory-arbitrage",
+      "market-structure"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://tether.to/en/news/",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/",
+      "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
+      "https://www.bis.org/cpmi/publ/d215.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "灰色市场美元网络的正式化",
+    "Wiki route",
+    "模式定义",
+    "Tether HK 案例",
+    "数字",
+    "4 层连锁",
+    "历史先例",
+    "应用 / 转用",
+    "风险 / 反例",
+    "关联"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "em-market-crypto-dollarization-pattern",
+      "fintech/INDEX",
+      "fintech/bis-project-guardian-overview",
+      "fintech/hkma-stablecoin-licensing-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/singapore-mas-payment-services-act-overview",
+      "fintech/sovereign-capital-pool-aramco-anchor",
+      "occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "regulatory-window-strategic-acquisition",
+      "tether-business-model-short-treasury-yield"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
+      "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
+      "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/regulatory-window-strategic-acquisition",
+      "https://finwiki.zksc.io/tether-business-model-short-treasury-yield"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3144,
+    "word_like_tokens": 530,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-25"
+  }
+}

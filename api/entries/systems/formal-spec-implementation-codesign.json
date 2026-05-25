@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/formal-spec-implementation-codesign",
+  "source_path": "systems/formal-spec-implementation-codesign.md",
+  "url": "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/formal-spec-implementation-codesign.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/formal-spec-implementation-codesign.md",
+  "domain": "systems",
+  "title": "形式化规范 ↔ 实现 co-design",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "形式化规范 ↔ 实现 co-design —— Quint × Malachite 范式",
+    "aliases": [
+      "formal-implementation co-design",
+      "Quint Malachite codesign",
+      "TLA+ MBT codesign",
+      "spec-impl convergent design"
+    ],
+    "domain": "systems",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "formal-methods",
+      "consensus",
+      "tla",
+      "quint",
+      "malachite",
+      "bft"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "形式化规范 ↔ 实现 co-design",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "systems/INDEX",
+      "systems/dag-bft-vs-chain-bft-architecture",
+      "systems/post-quantum-blockchain-day1-integration",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 983,
+    "word_like_tokens": 153,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-21"
+  }
+}

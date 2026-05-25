@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/mitsui-bussan-financial-services",
+  "source_path": "JapanFG/mitsui-bussan-financial-services.md",
+  "url": "https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsui-bussan-financial-services.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/mitsui-bussan-financial-services.md",
+  "domain": "JapanFG",
+  "title": "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
+    "aliases": [
+      "Mitsui & Co. Financial Services",
+      "三井物産フィナンシャルサービス",
+      "Mitsui Bussan Financial Services",
+      "MBFS",
+      "mitsui-bussan-financial-services"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "finance",
+      "trading-company-finance",
+      "mitsui-bussan",
+      "group-treasury",
+      "factoring",
+      "cms"
+    ],
+    "status": "active",
+    "sources": [
+      "三井物産 (8031) 有価証券報告書 (関係会社一覧)",
+      "三井物産 公式 IR / 統合報告書",
+      "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
+      "EDINET 有価証券報告書検索"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under SMFG. See banki",
+  "headings": [
+    "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "三井物産の金融機能配置",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "三井物産の事業構造と金融機能",
+    "競合 / Peer",
+    "4. 监管与政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/itochu-finance",
+      "JapanFG/ja-mitsui-leasing",
+      "JapanFG/marubeni-financial-services",
+      "JapanFG/mitsubishi-corp-finance",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mitsui-sumitomo-insurance",
+      "JapanFG/mizuho-lease",
+      "JapanFG/smfg",
+      "JapanFG/smfl",
+      "JapanFG/smtb",
+      "JapanFG/sojitz-finance",
+      "JapanFG/sumitomo-corp-financial-management",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "JapanFG/tokyo-century",
+      "JapanFG/toyota-tsusho-finance",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/itochu-finance",
+      "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/JapanFG/marubeni-financial-services",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/JapanFG/smtb",
+      "https://finwiki.zksc.io/JapanFG/sojitz-finance",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5422,
+    "word_like_tokens": 722,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-25"
+  }
+}

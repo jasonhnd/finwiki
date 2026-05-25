@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/erc-7702-vs-erc-4337",
+  "source_path": "systems/erc-7702-vs-erc-4337.md",
+  "url": "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/erc-7702-vs-erc-4337.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/erc-7702-vs-erc-4337.md",
+  "domain": "systems",
+  "title": "ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照",
+    "aliases": [
+      "erc-7702-vs-4337",
+      "aa-dual-track",
+      "ethereum-aa-comparison"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "wallet",
+      "aa",
+      "erc-7702",
+      "erc-4337",
+      "comparison",
+      "ethereum"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/erc-7715-agent-payment-stack",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/privy-embedded-wallet-overview",
+      "fintech/INDEX",
+      "systems/INDEX",
+      "systems/erc-4337-embedded-wallet-adoption",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2580,
+    "word_like_tokens": 457,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

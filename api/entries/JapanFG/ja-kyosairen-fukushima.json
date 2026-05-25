@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ja-kyosairen-fukushima",
+  "source_path": "JapanFG/ja-kyosairen-fukushima.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ja-kyosairen-fukushima",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-kyosairen-fukushima.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ja-kyosairen-fukushima.md",
+  "domain": "JapanFG",
+  "title": "JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)",
+    "aliases": [
+      "JA-Kyosairen-Fukushima",
+      "JA共済連福島",
+      "全共連福島",
+      "福島県本部",
+      "Fukushima Prefectural Office JA Kyosairen"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "ja-group",
+      "kyosai",
+      "prefectural-federation",
+      "fukushima",
+      "tohoku",
+      "disaster-recovery",
+      "ja-kyosairen"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.ja-kyosai.or.jp/",
+      "https://www.ja-kyosai.or.jp/about/",
+      "https://www.ja-kyosai.or.jp/about/zenken/",
+      "https://org.ja-group.jp/factbook/",
+      "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
+      "農業協同組合法 (昭和 22 年法律第 132 号)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap that \"JA 共済連 exists but no prefectural 信連 anchors exist\". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大",
+  "headings": [
+    "JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / 組織構造",
+    "県共済連統合 (2000) の経緯 ^[extracted]",
+    "全共連 + 47 県本部の一体運営 ^[extracted]",
+    "2. 業務 map",
+    "主要業務 (県本部固有) ^[extracted]",
+    "2011 東日本大震災 + 原発事故での建更給付 ^[extracted]",
+    "福島県の農業・JA 構造 ^[extracted]"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fukushima-bank",
+      "JapanFG/ja-bank-tokyo-shinren",
+      "JapanFG/ja-kyosairen",
+      "JapanFG/ja-shinnoren",
+      "JapanFG/ja-zen-noh",
+      "JapanFG/ja-zenchu",
+      "JapanFG/jf-shingyoren",
+      "JapanFG/kyoritsu-fire-marine",
+      "JapanFG/norinchukin",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "insurance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fukushima-bank",
+      "https://finwiki.zksc.io/JapanFG/ja-bank-tokyo-shinren",
+      "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+      "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+      "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+      "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+      "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
+      "https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/insurance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6124,
+    "word_like_tokens": 904,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

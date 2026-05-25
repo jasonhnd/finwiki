@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-on-off-ramp-bridge-layer",
+  "source_path": "exchanges/jp-crypto-on-off-ramp-bridge-layer.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-on-off-ramp-bridge-layer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-on-off-ramp-bridge-layer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-on-off-ramp-bridge-layer.md",
+  "domain": "exchanges",
+  "title": "国内向け on/off ramp + 法定通貨↔暗号資産ブリッジ層 (MoonPay / Transak / Banxa / VASP 直接)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内向け on/off ramp + 法定通貨↔暗号資産ブリッジ層 (MoonPay / Transak / Banxa / VASP 直接)",
+    "aliases": [
+      "JP crypto on off ramp",
+      "法定通貨 暗号資産 ブリッジ",
+      "JP fiat crypto bridge",
+      "MoonPay Japan Transak Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "on-ramp",
+      "off-ramp",
+      "fiat-bridge",
+      "payment-gateway",
+      "web3"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.moonpay.com/",
+      "https://transak.com/",
+      "https://banxa.com/",
+      "https://www.fsa.go.jp/",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内暗号資産マーケットメイカー / OTC デスク業界 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内向け on/off ramp + 法定通貨↔暗号資産ブリッジ層 (MoonPay / Transak / Banxa / VASP 直接)",
+    "Wiki route",
+    "概要",
+    "国内 VASP 直接ルート (公式 on/off ramp)",
+    "海外 on-ramp 事業者の対日提供 (越境)",
+    "取引所直接ルートと dApps ブリッジの組合せ",
+    "クレジットカード / Pay 系の組合せ",
+    "ステーブルコイン on-ramp の特殊性",
+    "規制 + 監査 + フォレンジック",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-crypto-merchant-payment-lightning",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-bittrade",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-jpyc",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-merchant-payment-lightning",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4164,
+    "word_like_tokens": 650,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

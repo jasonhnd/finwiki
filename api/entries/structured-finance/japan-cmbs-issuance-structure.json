@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/japan-cmbs-issuance-structure",
+  "source_path": "structured-finance/japan-cmbs-issuance-structure.md",
+  "url": "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-cmbs-issuance-structure.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/japan-cmbs-issuance-structure.md",
+  "domain": "structured-finance",
+  "title": "Japan CMBS issuance structure",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan CMBS issuance structure",
+    "aliases": [
+      "Japan CMBS",
+      "日本CMBS",
+      "Japanese commercial mortgage-backed securities",
+      "Japan single-borrower CMBS",
+      "Japan conduit CMBS",
+      "Japan CMBS post-2008"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "cmbs",
+      "securitization",
+      "japan",
+      "commercial-real-estate"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/",
+      "https://www.jsda.or.jp/en/"
+    ]
+  },
+  "summary": "Japan CMBS is split between single-borrower (single-asset or small-pool, one sponsor) and conduit (multiple uncorrelated borrowers, larger pool) structures. The market peaked in 2006-2007, was devastated by the 2008-2010 global financial crisis with many defaults at maturity rollover, and stayed lar",
+  "headings": [
+    "Japan CMBS issuance structure",
+    "TL;DR",
+    "Wiki route",
+    "1. Structure types",
+    "2. Tranching",
+    "3. B-piece buyer market",
+    "4. Recovery scenarios",
+    "5. Post-2008 issuance drop",
+    "6. Market revival 2020s",
+    "7. Vehicle choice"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance",
+      "real-estate-finance/INDEX",
+      "structured-finance/INDEX",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-rmbs-issuance-structure",
+      "structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6714,
+    "word_like_tokens": 1091,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

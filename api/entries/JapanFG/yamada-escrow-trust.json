@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/yamada-escrow-trust",
+  "source_path": "JapanFG/yamada-escrow-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/yamada-escrow-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/yamada-escrow-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/yamada-escrow-trust.md",
+  "domain": "JapanFG",
+  "title": "山田エスクロー信託 (Yamada Escrow Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "山田エスクロー信託 (Yamada Escrow Trust)",
+    "aliases": [
+      "Yamada Escrow Trust",
+      "株式会社山田エスクロー信託"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "escrow",
+      "real-estate",
+      "m-and-a"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.y-escrow-trust.co.jp/",
+      "https://www.y-escrow-trust.co.jp/news/pdf/920f75354c325c19353be143f28eff510517861c.pdf"
+    ]
+  },
+  "summary": "Yamada Escrow Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Escrow Agent Japan Trust.",
+  "headings": [
+    "山田エスクロー信託 (Yamada Escrow Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/escrow-agent-japan-trust",
+      "JapanFG/trust-companies-japan-index",
+      "finance/japan-acquisition-finance",
+      "finance/japan-mbo-and-squeeze-out-process"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/escrow-agent-japan-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3037,
+    "word_like_tokens": 500,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-22"
+  }
+}

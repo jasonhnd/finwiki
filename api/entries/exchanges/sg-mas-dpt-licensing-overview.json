@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/sg-mas-dpt-licensing-overview",
+  "source_path": "exchanges/sg-mas-dpt-licensing-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/sg-mas-dpt-licensing-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/sg-mas-dpt-licensing-overview.md",
+  "domain": "exchanges",
+  "title": "シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業",
+    "aliases": [
+      "SG MAS DPT licensing",
+      "Singapore DPT registration",
+      "Payment Services Act crypto"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "singapore",
+      "mas",
+      "regulation",
+      "dpt"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.mas.gov.sg/regulation/payments",
+      "https://eservices.mas.gov.sg/fid/"
+    ]
+  },
+  "summary": "シンガポールは 2020-01 に PSA (Payment Services Act) を施行し、決済サービスを 7 種に整理した。その中の一つとして DPT (Digital Payment Token) サービスカテゴリが新設され、暗号資産の売買・交換・カストディ等が単一法体系下で規制されることになった。既存の銀行業免許 (Banking Act) や資金移動業免許 (旧 MAS Act ベース) と並列の構造であり、規制当局は MAS (Monetary Authority of Singapore, 金融管理局) が一元担当する。FATF Travel Rule 完全準拠 + AML",
+  "headings": [
+    "シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業",
+    "制度概要",
+    "ライセンス区分 3 種",
+    "主要保有事業者 (2024-2026 時点)",
+    "リテール広告制限 (2022-)",
+    "戦略的位置づけ"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/hk-sfc-vasp-licensing-overview",
+      "exchanges/korea-cex-five-pillars-comparison",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/singapore-mas-payment-services-act-overview",
+      "fintech/singapore-mas-payment-services-act-strategic-implications",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2562,
+    "word_like_tokens": 401,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

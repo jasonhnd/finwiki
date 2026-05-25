@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/smbc-nikko",
+  "source_path": "JapanFG/smbc-nikko.md",
+  "url": "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smbc-nikko.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/smbc-nikko.md",
+  "domain": "JapanFG",
+  "title": "SMBC 日興証券 (SMBC Nikko Securities)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SMBC 日興証券 (SMBC Nikko Securities)",
+    "aliases": [
+      "SMBC Nikko Securities",
+      "SMBC 日興証券株式会社",
+      "SMBC Nikko",
+      "日興コーディアル証券",
+      "Nikko Cordial Securities",
+      "日興証券",
+      "Nikko Securities"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: SMBC日興証券 (公開情報、2026-05-19 抽出)",
+      "Wikipedia: 日興コーディアル証券 (公開情報、2026-05-19 抽出)",
+      "SMBC 日興証券 公式コーポレートサイト / 沿革ページ (公開情報)",
+      "三井住友フィナンシャルグループ IR 公開資料 (連結子会社情報)",
+      "金融庁 業務改善命令 / 業務停止命令 公表資料 (2022-10)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "SMBC 日興証券 (SMBC Nikko Securities)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "業態の特徴",
+    "主要子会社・関連会社（公開情報ベース）",
+    "重要年表（公開情報ベース）",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "グループ内ポジション（smfg 内）"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/jsda",
+      "JapanFG/nomura-hd",
+      "daiwa-sg",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "nomura-hd",
+      "rakuten-fg",
+      "sbi-hd",
+      "securities/INDEX",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/daiwa-sg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6785,
+    "word_like_tokens": 984,
+    "inbound_wikilinks_count": 60,
+    "last_modified": "2026-05-21"
+  }
+}

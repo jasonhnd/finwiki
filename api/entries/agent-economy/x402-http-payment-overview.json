@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/x402-http-payment-overview",
+  "source_path": "agent-economy/x402-http-payment-overview.md",
+  "url": "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/x402-http-payment-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/x402-http-payment-overview.md",
+  "domain": "agent-economy",
+  "title": "x402 · HTTP 402 复活的 AI agent 支付协议(总览)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "x402 · HTTP 402 复活的 AI agent 支付协议(总览)",
+    "aliases": [
+      "x402-http-payment-overview",
+      "x402",
+      "http-402",
+      "payment-required",
+      "coinbase-x402"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "payment",
+      "x402",
+      "coinbase",
+      "usdc",
+      "base",
+      "http-402",
+      "micropayment"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "x402 · HTTP 402 复活的 AI agent 支付协议(总览)",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/privy-aws-agentcore-default-wallet",
+      "agent-economy/x402-cloudflare-aws-edge-integration",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/stablecoin-chain-token-strategy-trilemma",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX",
+      "systems/erc-4337-overview",
+      "systems/erc-4337-userop-bundler-flow",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2903,
+    "word_like_tokens": 508,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-05-24"
+  }
+}

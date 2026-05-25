@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/erc-7715-agent-payment-stack",
+  "source_path": "agent-economy/erc-7715-agent-payment-stack.md",
+  "url": "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/erc-7715-agent-payment-stack.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/erc-7715-agent-payment-stack.md",
+  "domain": "agent-economy",
+  "title": "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+    "aliases": [
+      "erc-7715-stack",
+      "agent-payment-stack",
+      "x402-ap2-7715-4337"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "protocol",
+      "agent-payment",
+      "erc-7715",
+      "x402",
+      "ap2"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
+  "headings": [
+    "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/erc-7715-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "payments/INDEX",
+      "systems/INDEX",
+      "systems/erc-4337-embedded-wallet-adoption",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3111,
+    "word_like_tokens": 546,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

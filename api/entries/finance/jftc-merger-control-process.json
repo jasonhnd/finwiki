@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/jftc-merger-control-process",
+  "source_path": "finance/jftc-merger-control-process.md",
+  "url": "https://finwiki.zksc.io/finance/jftc-merger-control-process",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/jftc-merger-control-process.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/jftc-merger-control-process.md",
+  "domain": "finance",
+  "title": "JFTC merger control process",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JFTC merger control process",
+    "aliases": [
+      "jftc-merger-control-process",
+      "JFTC merger review",
+      "Japan antitrust merger notification",
+      "Japan competition law M&A",
+      "公正取引委員会 企業結合審査"
+    ],
+    "domain": "finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "M&A",
+      "antitrust",
+      "competition-law",
+      "JFTC",
+      "gun-jumping",
+      "merger-control",
+      "regulatory"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jftc.go.jp/en/legislation_gls/index.html",
+      "https://www.jftc.go.jp/en/legislation_gls/amended_ama09/notification.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
+      "https://www.jftc.go.jp/houdou/pressrelease/2021/aug/210804.html",
+      "https://www.jftc.go.jp/en/pressreleases/yearly-2024/index.html"
+    ]
+  },
+  "summary": "JFTC (Japan Fair Trade Commission) merger control is the antitrust gate that sits in parallel with the FIEA tender offer route: any control transaction that crosses domestic-turnover thresholds must be pre-notified to JFTC under the Antimonopoly Act (AMA) and cleared before completion. It belongs in",
+  "headings": [
+    "JFTC merger control process",
+    "Overview",
+    "Notification thresholds (post-2010 amendment)",
+    "Phase I / Phase II review",
+    "Gun-jumping prohibitions",
+    "Recent case map",
+    "What to extract from a JFTC file",
+    "Research checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-activist-investor-playbook",
+      "finance/japan-fair-disclosure-and-insider-trading-controls",
+      "finance/japan-ib-league-table",
+      "finance/japan-leveraged-buyout-economics",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-takeover-defense-poison-pill",
+      "finance/japan-tender-offer-process"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/finance/japan-fair-disclosure-and-insider-trading-controls",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5918,
+    "word_like_tokens": 924,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

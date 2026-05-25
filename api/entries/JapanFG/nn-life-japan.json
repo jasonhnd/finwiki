@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nn-life-japan",
+  "source_path": "JapanFG/nn-life-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nn-life-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nn-life-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nn-life-japan.md",
+  "domain": "JapanFG",
+  "title": "NN生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NN生命保険",
+    "aliases": [
+      "NN生命",
+      "NN Life Japan",
+      "NN Life Insurance Japan",
+      "エヌエヌ生命",
+      "エヌエヌ生命保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "foreign-japan",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://www.nnlife.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "NN生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/credit-agricole-life",
+      "aflac-japan",
+      "axa-japan",
+      "insurance/INDEX",
+      "insurance/life-insurance-channel-mix",
+      "manulife-japan",
+      "metlife-japan",
+      "prudential-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/credit-agricole-life",
+      "https://finwiki.zksc.io/aflac-japan",
+      "https://finwiki.zksc.io/axa-japan",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/manulife-japan",
+      "https://finwiki.zksc.io/metlife-japan",
+      "https://finwiki.zksc.io/prudential-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1983,
+    "word_like_tokens": 300,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-traders-securities",
+  "source_path": "exchanges/jp-exchange-traders-securities.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-traders-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-traders-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-traders-securities.md",
+  "domain": "exchanges",
+  "title": "トレイダーズ証券 — 日本暗号資産デリバティブ取引業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "トレイダーズ証券 — 日本暗号資産デリバティブ取引業者",
+    "aliases": [
+      "Traders Securities",
+      "TRADERS SECURITIES CO., LTD.",
+      "トレイダーズ証券株式会社"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "crypto-derivatives"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://traderssec.com/company/outline/",
+      "https://traderssec.com/company/directors/",
+      "https://traderssec.com/disclosure/account/",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "トレイダーズ証券 — 日本暗号資産デリバティブ取引業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-bi-fxtrade",
+      "exchanges/jp-exchange-monex",
+      "exchanges/jp-exchange-sbi-securities",
+      "exchanges/jp-listed-cex-related-companies-matrix",
+      "exchanges/jp-vasp-derivative-license-system",
+      "exchanges/jp-vasp-parent-company-map",
+      "fintech/japan-bittrade-listing-process",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bi-fxtrade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-monex",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-securities",
+      "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "external_links_count": 7,
+    "external_links": [
+      "https://finance.yahoo.co.jp/quote/8704.T",
+      "https://jvcea.or.jp/member/",
+      "https://min-fx.jp/lineup/coin/",
+      "https://traderssec.com/company/directors/",
+      "https://traderssec.com/company/outline/",
+      "https://traderssec.com/disclosure/account/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 3916,
+    "word_like_tokens": 665,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

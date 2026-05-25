@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/threshold-bft-consensus-rust-implementations",
+  "source_path": "systems/threshold-bft-consensus-rust-implementations.md",
+  "url": "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/threshold-bft-consensus-rust-implementations.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/threshold-bft-consensus-rust-implementations.md",
+  "domain": "systems",
+  "title": "Threshold BFT 共识 Rust 化潮流",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite）",
+    "aliases": [
+      "Threshold BFT Rust",
+      "Malachite",
+      "Threshold Simplex",
+      "BLS aggregate consensus"
+    ],
+    "domain": "systems",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "blockchain",
+      "consensus",
+      "BFT",
+      "Rust",
+      "BLS"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against DAG-BFT vs Chain-BFT 架构本质分歧（mempool 抽象之争） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Threshold BFT 共识 Rust 化潮流",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/stablecoin-chain-token-strategy-trilemma",
+      "systems/INDEX",
+      "systems/dag-bft-vs-chain-bft-architecture",
+      "systems/post-quantum-blockchain-day1-integration"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 872,
+    "word_like_tokens": 137,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-21"
+  }
+}

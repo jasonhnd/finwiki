@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sompo",
+  "source_path": "JapanFG/sompo.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sompo",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sompo.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sompo.md",
+  "domain": "JapanFG",
+  "title": "SOMPO ホールディングス (Sompo Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SOMPO ホールディングス (Sompo Holdings)",
+    "aliases": [
+      "SOMPO HD",
+      "Sompo Holdings",
+      "SOMPO ホールディングス",
+      "損保ジャパン HD",
+      "旧 NKSJ HD"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: SOMPO ホールディングス (公開情報, 2026-05-19 抽出)",
+      "Wikipedia: 損害保険ジャパン / SOMPO ケア / Sompo International (公開情報)",
+      "金融庁 業務改善命令 (ビッグモーター関連, 2024) 公開発表"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against MS&AD インシュアランス グループ ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SOMPO ホールディングス (Sompo Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・持分",
+    "合併歴史・前身",
+    "重要年表（抜粋）^[extracted]",
+    "1.5 最新財務 (FY2024 = 2025-03 期, 連結) ^[extracted]",
+    "主要株主構成 ^[extracted]",
+    "2. 业务线 map"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/msad",
+      "JapanFG/sompo-japan-insurance",
+      "JapanFG/tokio-marine",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "nomura-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/sompo-japan-insurance",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.sompo-hd.com/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 6472,
+    "word_like_tokens": 1003,
+    "inbound_wikilinks_count": 35,
+    "last_modified": "2026-05-24"
+  }
+}

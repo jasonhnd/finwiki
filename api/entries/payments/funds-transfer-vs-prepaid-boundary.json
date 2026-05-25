@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/funds-transfer-vs-prepaid-boundary",
+  "source_path": "payments/funds-transfer-vs-prepaid-boundary.md",
+  "url": "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/funds-transfer-vs-prepaid-boundary.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/funds-transfer-vs-prepaid-boundary.md",
+  "domain": "payments",
+  "title": "Funds transfer vs prepaid boundary in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Funds transfer vs prepaid boundary in Japan",
+    "aliases": [
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "funds-transfer-vs-prepaid-boundary",
+      "Japan funds transfer prepaid boundary",
+      "資金移動業 前払式支払手段 境界"
+    ],
+    "domain": "payments",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "funds-transfer",
+      "prepaid",
+      "payment-services-act",
+      "wallet"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/news/27/sonota/20151214-2.html",
+      "https://www.fsa.go.jp/access/r2/213.html",
+      "https://www.fsa.go.jp/news/r2/sonota/20201225-2/20201225-2.html",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/common/about/pamphlet/2019purika.pdf"
+    ]
+  },
+  "summary": "This entry sits under payments index. Read it with Japan card acquiring stack for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "Funds transfer vs prepaid boundary in Japan",
+    "Wiki route",
+    "TL;DR",
+    "Boundary Test",
+    "Funds-Transfer Categories",
+    "Prepaid Layer",
+    "Product Decomposition",
+    "Why It Matters",
+    "Counterpoints",
+    "Open Questions"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/kyash",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/merpay",
+      "JapanFG/paypay",
+      "fintech/japan-ecisb-license",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/card-acquiring-japan-stack",
+      "payments/cashless-jp-landscape",
+      "payments/prepaid-payment-instrument-issuers-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/kyash",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/merpay",
+      "https://finwiki.zksc.io/JapanFG/paypay",
+      "https://finwiki.zksc.io/fintech/japan-ecisb-license",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6607,
+    "word_like_tokens": 1052,
+    "inbound_wikilinks_count": 66,
+    "last_modified": "2026-05-24"
+  }
+}

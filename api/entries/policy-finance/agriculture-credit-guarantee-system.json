@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/agriculture-credit-guarantee-system",
+  "source_path": "policy-finance/agriculture-credit-guarantee-system.md",
+  "url": "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/agriculture-credit-guarantee-system.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/agriculture-credit-guarantee-system.md",
+  "domain": "policy-finance",
+  "title": "Agriculture credit guarantee system in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Agriculture credit guarantee system in Japan",
+    "aliases": [
+      "Agriculture credit guarantee system",
+      "Agricultural credit guarantee insurance system",
+      "農業信用保証保険制度",
+      "農業信用基金協会",
+      "農林漁業信用基金 農業信用保険",
+      "農信基",
+      "全国農業信用基金協会連合会"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "agriculture-finance",
+      "credit-guarantee",
+      "ja-bank",
+      "public-credit",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.maff.go.jp/j/keiei/kinyu/hosyo/hosyou.html",
+      "https://www.jaffic.go.jp/",
+      "https://www.jaffic.go.jp/guide/nou/index.html",
+      "https://www.jaffic.go.jp/whats_kikin/outline.html",
+      "https://www.jaffic.go.jp/guide/target/financial.html",
+      "https://www.maff.go.jp/j/keiei/kinyu/",
+      "https://www.jacom.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index. Read it against Japan credit guarantee system for SME-side contrast, fisheries credit guarantee system for the sister sector system, and Japan policy finance system for the broader public-credit perimeter. The deposit-and-lending counterpart for farmers is",
+  "headings": [
+    "Agriculture credit guarantee system in Japan",
+    "Wiki route",
+    "TL;DR",
+    "1. 系統金融との位置関係",
+    "2. 機関概要 — 農業信用基金協会",
+    "3. 機関概要 — JAFFIC (農林漁業信用基金)",
+    "4. 主要保証商品",
+    "5. Operating logic — guarantee, subrogation, reinsurance",
+    "6. 保証料 economics",
+    "7. Year evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jfc",
+      "JapanFG/jfc\\",
+      "JapanFG/norinchukin",
+      "JapanFG/shoko-chukin",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "policy-finance/INDEX",
+      "policy-finance/fisheries-credit-guarantee-system",
+      "policy-finance/japan-credit-guarantee-system",
+      "policy-finance/japan-credit-guarantee-system\\",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/national-federation-credit-guarantee-corporations",
+      "policy-finance/national-federation-credit-guarantee-corporations\\"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/jfc\\",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/shoko-chukin",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system\\",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations\\"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11889,
+    "word_like_tokens": 1754,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "loyalty/point-liability-accounting-boundary",
+  "source_path": "loyalty/point-liability-accounting-boundary.md",
+  "url": "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/point-liability-accounting-boundary.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/loyalty/point-liability-accounting-boundary.md",
+  "domain": "loyalty",
+  "title": "Point liability accounting boundary (JP loyalty programs)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Point liability accounting boundary (JP loyalty programs)",
+    "aliases": [
+      "loyalty/point-liability-accounting-boundary",
+      "point-liability-accounting-boundary",
+      "ポイント引当金 会計境界",
+      "JP loyalty point accounting",
+      "ポイント負債 会計処理"
+    ],
+    "domain": "loyalty",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "loyalty",
+      "accounting",
+      "ifrs-15",
+      "asbj",
+      "prepaid",
+      "breakage",
+      "japan",
+      "finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/03kohyou.pdf",
+      "https://corp.rakuten.co.jp/investors/financial/",
+      "https://www.aeonfinancial.co.jp/ir/",
+      "https://www.docomo.ne.jp/corporate/ir/",
+      "https://paymentsjapan.or.jp/",
+      "https://vpoint.jp/"
+    ]
+  },
+  "summary": "\"Points\" in Japan are not one accounting concept. The same word covers (1) marketing-promotional grants that are pure expense, (2) loyalty liabilities that are deferred revenue under IFRS 15 / ASBJ Statement No.29, (3) breakage assumptions that drive when revenue is finally recognised, (4) purchased",
+  "headings": [
+    "Point liability accounting boundary (JP loyalty programs)",
+    "TL;DR",
+    "Five accounting buckets",
+    "1. Marketing-promotional cost (no contract liability)",
+    "2. Loyalty liability under IFRS 15 / ASBJ Statement No.29",
+    "3. Breakage assumption (when deferred revenue is recognised)",
+    "4. Purchased / charged value (prepaid boundary)",
+    "5. Cross-program exchange points (settlement leg + accounting timing)",
+    "Operator examples",
+    "Why this boundary matters for JapanFG analysis"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aeon-bank",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/legal-financial-licenses/payment-license-stack",
+      "JapanFG/ndfg",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "fintech/INDEX",
+      "loyalty/INDEX",
+      "loyalty/japan-points-landscape",
+      "loyalty/v-point-smbc-ccc-case",
+      "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
+      "https://finwiki.zksc.io/JapanFG/ndfg",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/loyalty/INDEX",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11055,
+    "word_like_tokens": 1820,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-24"
+  }
+}

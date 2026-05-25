@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/ecny-supply-chain-expansion",
+  "source_path": "fintech/ecny-supply-chain-expansion.md",
+  "url": "https://finwiki.zksc.io/fintech/ecny-supply-chain-expansion",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/ecny-supply-chain-expansion.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/ecny-supply-chain-expansion.md",
+  "domain": "fintech",
+  "title": "e-CNY supply-chain and cross-border expansion 2025-2026",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "e-CNY supply-chain and cross-border expansion 2025-2026 — mBridge bridges, Belt-and-Road pilots, HK stablecoin competitive context",
+    "aliases": [
+      "ecny-supply-chain-expansion",
+      "e-CNY 2026 expansion",
+      "e-CNY cross-border bridges",
+      "数字人民币 跨境扩展",
+      "e-CNY supply chain settlement",
+      "e-CNY mBridge expansion"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "e-cny",
+      "china",
+      "mbridge",
+      "hong-kong",
+      "belt-and-road",
+      "cross-border",
+      "supply-chain"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.pbc.gov.cn/en/3688110/3688172/index.html",
+      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
+      "https://www.bis.org/publ/othp59.htm",
+      "https://www.bis.org/about/bisih/topics/cbdc.htm",
+      "https://www.bot.or.th/en/news-and-media/news/",
+      "https://www.centralbank.ae/en/news/"
+    ]
+  },
+  "summary": "This entry sits under fintech index as the per-country deep dive on China's e-CNY for the 2025-2026 cross-border expansion phase. It is paired with CBDC adoption curve 2026 for the four-country comparative view, with mBridge BIS 多 CBDC 跨境结算桥 for the wholesale-bridge architecture, and with HKMA stabl",
+  "headings": [
+    "e-CNY supply-chain and cross-border expansion 2025-2026",
+    "Wiki route",
+    "Three expansion layers",
+    "Layer 1 — Hong Kong / GBA cross-boundary retail link",
+    "Layer 2 — mBridge wholesale ring",
+    "Layer 3 — Belt-and-Road project-pilot integration",
+    "Adoption metrics most-recent public",
+    "Architecture and design choices in the expansion phase",
+    "HK stablecoin licensing as competitive context",
+    "Origin and evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/bis-project-agora-vs-mbridge",
+      "fintech/bis-project-ensemble-overview",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/central-banking-function-unbundling",
+      "fintech/hkma-stablecoin-licensing-implications",
+      "fintech/hkma-stablecoin-licensing-overview",
+      "fintech/jurisdiction-list-monetary-protectionism",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/mbridge-bis-multi-cbdc-vs-agora",
+      "fintech/mbridge-non-usd-settlement-ring-scale",
+      "fintech/mbridge-six-central-banks-roster",
+      "fintech/sovereign-capital-pool-aramco-anchor"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
+      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-implications",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-vs-agora",
+      "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale",
+      "https://finwiki.zksc.io/fintech/mbridge-six-central-banks-roster",
+      "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 17641,
+    "word_like_tokens": 3014,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

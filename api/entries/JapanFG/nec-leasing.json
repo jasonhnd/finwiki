@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nec-leasing",
+  "source_path": "JapanFG/nec-leasing.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nec-leasing",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nec-leasing.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nec-leasing.md",
+  "domain": "JapanFG",
+  "title": "NECキャピタルソリューション",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NECキャピタルソリューション",
+    "aliases": [
+      "NEC Capital Solutions",
+      "NEC Capital Solutions Limited",
+      "NECキャピタルソリューション株式会社",
+      "NECリース",
+      "nec-leasing",
+      "NECC"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "finance",
+      "nec-group",
+      "captive-lease",
+      "it-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.necap.co.jp/",
+      "https://www.necap.co.jp/ir/",
+      "https://www.nec.com/",
+      "https://www.leasing.or.jp/",
+      "東証 PRIME 8793 上場 公開情報"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against リコーリース for peer / contrast context (both are事業会社 captive lease) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.",
+  "headings": [
+    "NECキャピタルソリューション",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fuyo-lease",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mizuho-lease",
+      "JapanFG/orix-corp",
+      "JapanFG/ricoh-leasing",
+      "JapanFG/tokyo-century",
+      "JapanFG/toyota-finance",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/ricoh-leasing",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/JapanFG/toyota-finance",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3361,
+    "word_like_tokens": 508,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

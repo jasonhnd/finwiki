@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "slug": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
+  "source_path": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
+  "url": "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
+  "domain": "loyalty",
+  "title": "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+    "aliases": [
+      "d-point-au-kddi-docomo-telco-point-consolidation",
+      "d-point vs au point",
+      "dポイント auポイント 比較",
+      "telco point Japan",
+      "Japan telco loyalty consolidation",
+      "docomo KDDI point ecosystem",
+      "NTT docomo finance distribution",
+      "au KDDI Ponta integration"
+    ],
+    "domain": "loyalty",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "loyalty",
+      "points",
+      "telco",
+      "retail-finance",
+      "japan",
+      "subscriber-data"
+    ],
+    "status": "active",
+    "sources": [
+      "https://dpoint.docomo.ne.jp/",
+      "https://aupay.wallet.auone.jp/contents/static/point/",
+      "https://www.kddi.com/corporate/newsrelease/",
+      "https://www.docomo.ne.jp/info/news_release/",
+      "https://www.recruit.co.jp/newsroom/"
+    ]
+  },
+  "summary": "This entry sits under loyalty INDEX and is the telco-anchored counterpart to the finance-anchored V Point (SMBC × CCC) case. Read with Japan points and loyalty landscape for the cross-ecosystem map, point liability accounting boundary for the breakage / IFRS-15 treatment, and Japan code-payment comp",
+  "headings": [
+    "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+    "Wiki route",
+    "TL;DR",
+    "Telco-anchored model — what subscriber identity buys",
+    "Side-by-side comparison",
+    "The Lawson question — overlapping retail anchor",
+    "NTT docomo — d Point as the front-end of NDFG",
+    "KDDI — au Point inside au FH",
+    "Contrast with V Point — finance-anchored vs telco-anchored",
+    "Issuance and accrual mechanics"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/au-fh",
+      "JapanFG/au-insurance",
+      "JapanFG/au-payment",
+      "JapanFG/ndfg",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "JapanFG/smfg",
+      "loyalty/INDEX",
+      "loyalty/japan-points-landscape",
+      "loyalty/point-liability-accounting-boundary",
+      "loyalty/v-point-smbc-ccc-case",
+      "payments/japan-code-payment-competitive-map",
+      "retail/INDEX",
+      "retail/aeon-group",
+      "retail/lawson-kddi-retail-finance",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-fh",
+      "https://finwiki.zksc.io/JapanFG/au-insurance",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/ndfg",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/loyalty/INDEX",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 15011,
+    "word_like_tokens": 2605,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-25"
+  }
+}

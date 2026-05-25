@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/bahamas-sand-dollar-cbdc",
+  "source_path": "fintech/bahamas-sand-dollar-cbdc.md",
+  "url": "https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bahamas-sand-dollar-cbdc.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/bahamas-sand-dollar-cbdc.md",
+  "domain": "fintech",
+  "title": "Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons",
+    "aliases": [
+      "bahamas-sand-dollar-cbdc",
+      "Sand Dollar",
+      "Sand Dollar CBDC",
+      "Central Bank of The Bahamas CBDC",
+      "BSD CBDC",
+      "longest-running retail CBDC",
+      "Bahamas digital currency"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "retail-cbdc",
+      "bahamas",
+      "sand-dollar",
+      "central-bank-bahamas",
+      "small-economy",
+      "afi",
+      "caribbean",
+      "financial-inclusion"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.centralbankbahamas.com/",
+      "https://www.centralbankbahamas.com/payments-system/the-sand-dollar/sand-dollar-faqs",
+      "https://www.sanddollar.bs/",
+      "https://www.imf.org/en/Publications/WP/Issues/2022/06/10/The-Bahamas-Sand-Dollar-CBDC-and-Lessons-Learned-518864",
+      "https://www.bis.org/publ/work1116.htm",
+      "https://www.bis.org/about/bisih/topics/cbdc.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index as the per-jurisdiction case study on the Sand Dollar, the first nation-wide live retail CBDC issued by any central bank globally (Bahamas, 2020-10-20). Read it against Nigeria eNaira (live 2021-10, same Bitt-vendor technology lineage), Jamaica JAM-DEX (live 2022,",
+  "headings": [
+    "Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons",
+    "Wiki route",
+    "Programme architecture",
+    "Matrix A · Statute, regulator, phase status",
+    "Matrix B · Design choices — financial inclusion-first, low-friction onboarding",
+    "Matrix C · Adoption metrics (most recent public)",
+    "Matrix D · AFI distribution model — the canonical two-tier retail CBDC",
+    "Matrix E · Tiered KYC — the inclusion-vs-AML balance",
+    "Matrix F · Comparison to peer small-economy / emerging-market CBDCs",
+    "Origin and evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/e-euro-retail-rollout",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/jamaica-jam-dex-cbdc",
+      "fintech/jamaica-jam-dex-cbdc\\",
+      "fintech/jp-stablecoin-dcjpy",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/nigeria-enaira-retail-cbdc",
+      "fintech/nigeria-enaira-retail-cbdc\\"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc",
+      "https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc\\",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc",
+      "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc\\"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16884,
+    "word_like_tokens": 2840,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/cbdc-multi-tier-architecture-three-paradigms",
+  "source_path": "fintech/cbdc-multi-tier-architecture-three-paradigms.md",
+  "url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cbdc-multi-tier-architecture-three-paradigms.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cbdc-multi-tier-architecture-three-paradigms.md",
+  "domain": "fintech",
+  "title": "CBDC 三大现役范式",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CBDC 三大现役范式 · e-CNY / DREX / 数字欧元",
+    "aliases": [
+      "cbdc-multi-tier-architecture-three-paradigms",
+      "ecny drex digital-euro comparison",
+      "CBDC 现役范式对比"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "e-cny",
+      "drex",
+      "digital-euro",
+      "paradigm",
+      "case-study"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.pbc.gov.cn/en/3688110/index.html",
+      "https://www.bcb.gov.br/en/financialstability/drex_en",
+      "https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html",
+      "https://www.bis.org/publ/othp33.htm",
+      "https://www.bis.org/publ/arpdf/ar2021e3.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "CBDC 三大现役范式",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-vs-mbridge",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-dcjpy",
+      "fintech/mbridge-bis-multi-cbdc-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2623,
+    "word_like_tokens": 464,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-25"
+  }
+}

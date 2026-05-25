@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/national-bank-of-pakistan-japan",
+  "source_path": "JapanFG/national-bank-of-pakistan-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/national-bank-of-pakistan-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/national-bank-of-pakistan-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/national-bank-of-pakistan-japan.md",
+  "domain": "JapanFG",
+  "title": "パキスタン・ナショナル銀行日本 (National Bank of Pakistan Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "パキスタン・ナショナル銀行日本 (National Bank of Pakistan Japan)",
+    "aliases": [
+      "National Bank of Pakistan Japan",
+      "National Bank of Pakistan Tokyo Branch",
+      "Pakistan National Bank Japan",
+      "パキスタン・ナショナル銀行東京支店"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Pakistan",
+      "remittance",
+      "trade-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.nbptokyo.com/index.php/solutions/",
+      "https://www.nbp.com.pk/services/",
+      "https://www.nbp.com.pk/ficmd/TradeSer.aspx",
+      "https://nbp.com.pk/hrem/index.aspx"
+    ]
+  },
+  "summary": "National Bank of Pakistan Japan sits under JapanFG index and is a foreign-bank branch route in the foreign-bank branch registry. Read it with State Bank of India Japan for South Asia corridor comparison, funds-transfer registry for remittance context, and banking index.",
+  "headings": [
+    "パキスタン・ナショナル銀行日本 (National Bank of Pakistan Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/bank-of-india-japan",
+      "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/state-bank-of-india-japan",
+      "banking/INDEX",
+      "payments/INDEX",
+      "payments/account-to-account-payment-japan",
+      "payments/funds-transfer-service-providers-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bank-of-india-japan",
+      "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/state-bank-of-india-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3632,
+    "word_like_tokens": 586,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-22"
+  }
+}

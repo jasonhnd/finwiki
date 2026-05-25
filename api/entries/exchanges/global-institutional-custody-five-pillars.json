@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-institutional-custody-five-pillars",
+  "source_path": "exchanges/global-institutional-custody-five-pillars.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-institutional-custody-five-pillars.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-institutional-custody-five-pillars.md",
+  "domain": "exchanges",
+  "title": "グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu",
+    "aliases": [
+      "Global institutional custody comparison",
+      "機関暗号資産カストディ 5 強",
+      "Top 5 institutional crypto custodians"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "custody",
+      "institutional",
+      "global",
+      "comparison"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.coinbase.com/custody",
+      "https://www.fidelitydigitalassets.com/",
+      "https://www.anchorage.com/",
+      "https://www.bitgo.com/",
+      "https://komainu.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu",
+    "Wiki route",
+    "概要",
+    "五強プロファイル比較",
+    "技術スタック分布",
+    "規制ライセンス比較",
+    "日本市場接触",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jp-custody-fireblocks-japan",
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-laser-digital-japan",
+      "exchanges/jp-institutional-custody-three-pillars"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2732,
+    "word_like_tokens": 428,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-25"
+  }
+}

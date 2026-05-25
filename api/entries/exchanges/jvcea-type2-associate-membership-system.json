@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jvcea-type2-associate-membership-system",
+  "source_path": "exchanges/jvcea-type2-associate-membership-system.md",
+  "url": "https://finwiki.zksc.io/exchanges/jvcea-type2-associate-membership-system",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-type2-associate-membership-system.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jvcea-type2-associate-membership-system.md",
+  "domain": "exchanges",
+  "title": "JVCEA Type 2 (第二種会員) 制度 — 賛助会員 4 社分析",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JVCEA Type 2 (第二種会員) 制度 — 賛助会員 4 社分析",
+    "aliases": [
+      "JVCEA Type 2 membership",
+      "JVCEA 第二種会員",
+      "賛助会員 制度"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "jvcea",
+      "membership",
+      "type2",
+      "associate"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/member/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against JVCEA — 日本暗号資産取引業協会 自主規制制度 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "JVCEA Type 2 (第二種会員) 制度 — 賛助会員 4 社分析",
+    "Wiki route",
+    "1. 制度概要",
+    "2. Type 2 加盟意義",
+    "3. 主要 Type 2 会員 (2026-05 時点 4 社)",
+    "4. 業界含意",
+    "5. 比較 — Type 1 vs Type 2"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-gaudiy",
+      "exchanges/jp-exchange-laser-digital-japan",
+      "exchanges/jp-exchange-saxo-bank-japan",
+      "exchanges/jp-exchange-trek-labs-japan",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/jvcea-self-regulatory-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gaudiy",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-saxo-bank-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-trek-labs-japan",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1925,
+    "word_like_tokens": 331,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

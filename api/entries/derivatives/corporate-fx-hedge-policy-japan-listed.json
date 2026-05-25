@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/corporate-fx-hedge-policy-japan-listed",
+  "source_path": "derivatives/corporate-fx-hedge-policy-japan-listed.md",
+  "url": "https://finwiki.zksc.io/derivatives/corporate-fx-hedge-policy-japan-listed",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/corporate-fx-hedge-policy-japan-listed.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/corporate-fx-hedge-policy-japan-listed.md",
+  "domain": "derivatives",
+  "title": "Corporate FX hedge policy at Japan listed companies",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Corporate FX hedge policy at Japan listed companies",
+    "aliases": [
+      "corporate-fx-hedge-policy-japan-listed",
+      "Japan listed-corp FX hedging policy",
+      "為替予約 ヘッジ方針",
+      "FX hedge policy Japan",
+      "上場企業 為替ヘッジ",
+      "JGAAP IFRS 9 hedge accounting Japan",
+      "Japan corporate FX hedging",
+      "Japan exporter hedging"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "fx",
+      "corporate-treasury",
+      "hedge-accounting",
+      "JGAAP",
+      "IFRS9"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "https://www.fsa.go.jp/en/",
+      "https://www.asb.or.jp/en/",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/",
+      "https://www.isda.org/"
+    ]
+  },
+  "summary": "A Japan-listed corporate FX hedge policy is the board-approved framework that translates a company's foreign-currency exposure into a disciplined hedging program using forwards, NDFs, options, and cross-currency swaps. The policy answers four operative questions: what to hedge, how far out to hedge,",
+  "headings": [
+    "Corporate FX hedge policy at Japan listed companies",
+    "TL;DR",
+    "Wiki route",
+    "Why hedge at all",
+    "Hedge ratio by tenor",
+    "Hedge instrument mix",
+    "Layered / rolling hedge programs",
+    "Hedge-accounting designation",
+    "Embedded derivative disclosure",
+    "Common embedded-derivative scenarios"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/mizuho-bank",
+      "JapanFG/mufg-bank",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "derivatives/INDEX",
+      "derivatives/cross-currency-basis-swap-japan",
+      "derivatives/fx-options-japan-corporate-treasury",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/japan-irs-market",
+      "derivatives/jgb-futures-curve",
+      "derivatives/ois-tona-curve",
+      "derivatives/yen-basis-swap-market",
+      "finance/japan-corporate-fx-and-rate-hedge-policy",
+      "insurance/japan-life-insurance-alm-overview",
+      "money-market/boj-open-market-operations",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
+      "https://finwiki.zksc.io/derivatives/fx-options-japan-corporate-treasury",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/jgb-futures-curve",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
+      "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 18511,
+    "word_like_tokens": 3061,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nomura-asset-management",
+  "source_path": "JapanFG/nomura-asset-management.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nomura-asset-management",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nomura-asset-management.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nomura-asset-management.md",
+  "domain": "JapanFG",
+  "title": "野村アセットマネジメント",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "野村アセットマネジメント",
+    "aliases": [
+      "Nomura Asset Management",
+      "野村アセットマネジメント",
+      "野村アセットマネジメント株式会社",
+      "NAM"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "asset-management",
+      "fiea-operator",
+      "nomura"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html",
+      "https://www.nomura-am.co.jp/corporate/philosophy.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アセットマネジメントOne for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "野村アセットマネジメント",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/asset-management-one",
+      "JapanFG/nomura-hd",
+      "JapanFG/nomura-trust-bank",
+      "securities/INDEX",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/asset-management-one",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/nomura-trust-bank",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1640,
+    "word_like_tokens": 243,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-21"
+  }
+}

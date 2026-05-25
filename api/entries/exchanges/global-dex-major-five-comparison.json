@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-dex-major-five-comparison",
+  "source_path": "exchanges/global-dex-major-five-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-dex-major-five-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-dex-major-five-comparison.md",
+  "domain": "exchanges",
+  "title": "グローバル DEX 主要 5 社比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グローバル DEX 主要 5 社比較 — Uniswap / Curve / Aerodrome / PancakeSwap / Hyperliquid",
+    "aliases": [
+      "Global DEX comparison",
+      "Top 5 DEX",
+      "グローバル分散型取引所 5 強"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "dex",
+      "defi",
+      "global",
+      "comparison"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://defillama.com/dexs",
+      "https://dune.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "グローバル DEX 主要 5 社比較",
+    "Wiki route",
+    "概要",
+    "5 強プロファイル",
+    "比較表 (chain / 設計 / token / 24h vol / 特徴)"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jvcea-whitelist-token-listing",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/solana-ecosystem-dex-comparison",
+      "exchanges/vetoken-host-protocol-flywheel",
+      "systems/cross-chain-four-poles-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2984,
+    "word_like_tokens": 516,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-05-24"
+  }
+}

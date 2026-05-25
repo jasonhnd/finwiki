@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/jetro-members-gateway-model",
+  "source_path": "trade/jetro-members-gateway-model.md",
+  "url": "https://finwiki.zksc.io/trade/jetro-members-gateway-model",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/jetro-members-gateway-model.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/jetro-members-gateway-model.md",
+  "domain": "trade",
+  "title": "JETRO Members 有料会員制は B2B 提案の入口ゲート",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JETRO Members 有料会員制は B2B 提案の入口ゲート",
+    "aliases": [],
+    "domain": "trade",
+    "created": "2026-04-22",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "certain",
+    "tags": [
+      "trade"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under JETRO は会員組織ではなく経産省傘下の独立行政法人 and should be read with FinWiki index.",
+  "headings": [
+    "JETRO Members 有料会員制は B2B 提案の入口ゲート",
+    "Wiki route",
+    "入会後の利用範囲",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jbic",
+      "jetro-organization-structure",
+      "policy-finance/japan-project-finance-stack-diagram",
+      "policy-finance/jogmec",
+      "policy-finance/nexi",
+      "policy-finance/oecd-export-credit-arrangement",
+      "trade/jetro-organization-structure"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/jetro-organization-structure",
+      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+      "https://finwiki.zksc.io/policy-finance/jogmec",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement",
+      "https://finwiki.zksc.io/trade/jetro-organization-structure"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1359,
+    "word_like_tokens": 185,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

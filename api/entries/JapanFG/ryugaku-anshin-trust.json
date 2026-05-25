@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ryugaku-anshin-trust",
+  "source_path": "JapanFG/ryugaku-anshin-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ryugaku-anshin-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ryugaku-anshin-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ryugaku-anshin-trust.md",
+  "domain": "JapanFG",
+  "title": "Ryugaku Anshin Trust / 留学安心信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Ryugaku Anshin Trust / 留学安心信託",
+    "aliases": [
+      "留学安心信託",
+      "留学安心信託株式会社",
+      "Ryugaku Anshin Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "escrow",
+      "education",
+      "consumer-protection",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Ryugaku Anshin Trust official site: https://www.jrst.co.jp/",
+      "Ryugaku Anshin Trust company profile: https://www.jrst.co.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/ryugaku-anshin-trust",
+  "headings": [
+    "Ryugaku Anshin Trust / 留学安心信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/escrow-agent-japan-trust",
+      "JapanFG/ryugaku-anshin-trust",
+      "JapanFG/trust-companies-japan-index",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/psp-merchant-settlement-risk"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/escrow-agent-japan-trust",
+      "https://finwiki.zksc.io/JapanFG/ryugaku-anshin-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/psp-merchant-settlement-risk"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2327,
+    "word_like_tokens": 381,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-22"
+  }
+}

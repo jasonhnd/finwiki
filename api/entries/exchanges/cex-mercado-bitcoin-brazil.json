@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-mercado-bitcoin-brazil",
+  "source_path": "exchanges/cex-mercado-bitcoin-brazil.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-mercado-bitcoin-brazil",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-mercado-bitcoin-brazil.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-mercado-bitcoin-brazil.md",
+  "domain": "exchanges",
+  "title": "Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push",
+    "aliases": [
+      "Mercado Bitcoin",
+      "MB",
+      "2TM Group",
+      "Mercado Bitcoin Brasil"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "brazil",
+      "brl-spot",
+      "rwa",
+      "tokenization",
+      "softbank"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Mercado Bitcoin / 2TM 公式 IR, mercadobitcoin.com.br / 2tm.io)",
+      "公開情報整理 (Banco Central do Brasil / CVM 仮想資産規制声明・通達)",
+      "公開情報整理 (Lei 14.478/2022 marco legal de criptoativos 官報資料)",
+      "公開情報整理 (SoftBank Latin America Fund 2021-07 $200M 投資ラウンド発表)",
+      "公開情報整理 (2X Capital / Tribe Capital / DST Global / Coinbase Ventures 投資ラウンド報道)",
+      "公開情報整理 (BCB ATIVOS VIRTUAIS regulação 2024-2025 公開資料)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against Foxbit for the closest Brazil peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and RWA tokenization × CEX integration for the RWA-on-CEX vertical.",
+  "headings": [
+    "Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（ブラジル制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 業界での位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-bithumb-korea",
+      "exchanges/cex-coindcx-india",
+      "exchanges/cex-foxbit-brazil",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/rwa-tokenization-cex-integration"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+      "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
+      "https://finwiki.zksc.io/exchanges/cex-foxbit-brazil",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5308,
+    "word_like_tokens": 874,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

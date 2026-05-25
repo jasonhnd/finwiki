@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/shinkin-shoken",
+  "source_path": "JapanFG/shinkin-shoken.md",
+  "url": "https://finwiki.zksc.io/JapanFG/shinkin-shoken",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/shinkin-shoken.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/shinkin-shoken.md",
+  "domain": "JapanFG",
+  "title": "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+    "aliases": [
+      "JapanFG/shinkin-shoken",
+      "shinkin-shoken",
+      "信金証券",
+      "Shinkin Securities lane",
+      "信金アセットマネジメント",
+      "Shinkin Asset Management",
+      "信金 AM",
+      "Shinkin AM",
+      "信金中金グループ証券機能"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkin",
+      "cooperative-banking",
+      "securities",
+      "asset-management",
+      "scb-group",
+      "infrastructure",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.shinkin-central-bank.jp/",
+      "https://www.shinkin-am.co.jp/",
+      "https://www.shinkin.org/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyo.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 信金中央金庫（中央機関本体）, 全国信用金庫協会（policy / industry body）, and 信金ネットワークサービス（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against 農林中央金庫 グループの 農中信託銀行・農中証券 for the parallel JA central-system secur",
+  "headings": [
+    "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+    "Wiki route",
+    "TL;DR",
+    "1. Legal / group boundary",
+    "2. 業務の内容",
+    "3. 系統内位置（Systemic position）",
+    "4. Cross-system comparison（協同組織中央機関グループ間の証券・運用機能の対比）",
+    "5. Why this page matters",
+    "6. 関連 / 戦略論点",
+    "信用金庫顧客の資産運用ニーズ拡大"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/kitakyushu-shinkin",
+      "JapanFG/kyoto-chuo-shinkin",
+      "JapanFG/nagoya-shinkin",
+      "JapanFG/nochu-securities",
+      "JapanFG/norinchukin",
+      "JapanFG/rokin-renraku",
+      "JapanFG/sapporo-shinkin",
+      "JapanFG/sendai-shinkin",
+      "JapanFG/shinkin-central",
+      "JapanFG/shinkin-network-services",
+      "JapanFG/yokin-hoken-kiko",
+      "JapanFG/zenshin-kumi",
+      "JapanFG/zenshin-kyo",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/japan-cooperative-banking-unified-federation-matrix",
+      "banking/shinkin-bank-registry-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/kitakyushu-shinkin",
+      "https://finwiki.zksc.io/JapanFG/kyoto-chuo-shinkin",
+      "https://finwiki.zksc.io/JapanFG/nagoya-shinkin",
+      "https://finwiki.zksc.io/JapanFG/nochu-securities",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/rokin-renraku",
+      "https://finwiki.zksc.io/JapanFG/sapporo-shinkin",
+      "https://finwiki.zksc.io/JapanFG/sendai-shinkin",
+      "https://finwiki.zksc.io/JapanFG/shinkin-central",
+      "https://finwiki.zksc.io/JapanFG/shinkin-network-services",
+      "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+      "https://finwiki.zksc.io/JapanFG/zenshin-kyo",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5796,
+    "word_like_tokens": 722,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

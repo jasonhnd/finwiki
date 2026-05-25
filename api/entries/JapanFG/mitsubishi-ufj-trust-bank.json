@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/mitsubishi-ufj-trust-bank",
+  "source_path": "JapanFG/mitsubishi-ufj-trust-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsubishi-ufj-trust-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/mitsubishi-ufj-trust-bank.md",
+  "domain": "JapanFG",
+  "title": "三菱UFJ信託銀行 (MUTB)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三菱UFJ信託銀行 (MUTB)",
+    "aliases": [
+      "MUTB",
+      "Mitsubishi UFJ Trust and Banking",
+      "三菱UFJ信託銀行",
+      "三菱UFJ信託銀行株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "trust-bank",
+      "mufg",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.tr.mufg.jp/ir/about/",
+      "https://www.tr.mufg.jp/ippan/about/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SMBC信託銀行 (SMBC Trust Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三菱UFJ信託銀行 (MUTB)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/master-trust-bank",
+      "JapanFG/mufg",
+      "JapanFG/mufg-bank",
+      "JapanFG/smbc-trust-bank",
+      "banking/INDEX",
+      "fintech/jp-stablecoin-progmat",
+      "securities/japan-securities-depository-center"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/master-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/smbc-trust-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1712,
+    "word_like_tokens": 270,
+    "inbound_wikilinks_count": 58,
+    "last_modified": "2026-05-21"
+  }
+}

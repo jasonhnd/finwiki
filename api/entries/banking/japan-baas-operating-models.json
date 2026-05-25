@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/japan-baas-operating-models",
+  "source_path": "banking/japan-baas-operating-models.md",
+  "url": "https://finwiki.zksc.io/banking/japan-baas-operating-models",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-baas-operating-models.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/japan-baas-operating-models.md",
+  "domain": "banking",
+  "title": "Japan BaaS operating models",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan BaaS operating models",
+    "aliases": [
+      "Japan BaaS operating models",
+      "BaaS operating models Japan",
+      "日本 BaaS operating models"
+    ],
+    "domain": "banking",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "BaaS",
+      "embedded-finance",
+      "bank-api",
+      "neobank",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://baas.minna-no-ginko.com/",
+      "https://www.minna-no-ginko.com/alliance-service/",
+      "https://www.netbk.co.jp/contents/neobank/",
+      "https://gmo-aozora.com/company/outline.html",
+      "https://gmo-aozora.com/business/service/pdf/api-spec-webhooks.pdf",
+      "https://www.uibank.co.jp/cqbank/",
+      "https://www.fsa.go.jp/common/shinsei/dendai/index.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf",
+      "https://www.zenginkyo.or.jp/abstract/council/openapi/"
+    ]
+  },
+  "summary": "Japan BaaS can be described by customer ownership, deposit-contract holder, UI controller, API provider, KYC / AML / fraud-monitoring responsibility, and license stack. A partner-branded app can present a banking UX while the bank account legally remains with a licensed bank.",
+  "headings": [
+    "Japan BaaS operating models",
+    "Overview",
+    "Operating-Model Matrix",
+    "Legal Stack Versus UX Stack",
+    "Case Set",
+    "Minna Bank",
+    "SSNB NEOBANK",
+    "GMO Aozora",
+    "UI Bank / CQ BANK",
+    "Responsibility Boundary"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/ssnb",
+      "JapanFG/ui-bank",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/japan-net-bank-competition-map",
+      "banking/mercari-bank",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "banking/quick-deposit-four-methods",
+      "banking/regional-bank-api-digital-partnership-route",
+      "fintech/japan-financial-regulation",
+      "payments/account-to-account-payment-japan",
+      "payments/japan-bank-api-payment-agency-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/ssnb",
+      "https://finwiki.zksc.io/JapanFG/ui-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/japan-net-bank-competition-map",
+      "https://finwiki.zksc.io/banking/mercari-bank",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6208,
+    "word_like_tokens": 983,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-22"
+  }
+}

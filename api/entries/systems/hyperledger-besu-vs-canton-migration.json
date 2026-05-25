@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/hyperledger-besu-vs-canton-migration",
+  "source_path": "systems/hyperledger-besu-vs-canton-migration.md",
+  "url": "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperledger-besu-vs-canton-migration.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperledger-besu-vs-canton-migration.md",
+  "domain": "systems",
+  "title": "Hyperledger Besu vs Canton · JPM 主战场迁移路径",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Hyperledger Besu vs Canton · JPM 主战场迁移路径",
+    "aliases": [
+      "hyperledger-besu-vs-canton-migration",
+      "jpm-quorum-canton-migration",
+      "besu-vs-canton"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "blockchain",
+      "evm",
+      "daml",
+      "canton",
+      "besu",
+      "jpmorgan",
+      "kinexys"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Hyperledger Besu · EVM 兼容企业链(Quorum 进化) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Hyperledger Besu vs Canton · JPM 主战场迁移路径",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/multi-megabank-consortium-governance",
+      "systems/INDEX",
+      "systems/canton-overview",
+      "systems/hyperledger-besu-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2261,
+    "word_like_tokens": 370,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/01-bank",
+  "source_path": "JapanFG/01-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/01-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/01-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/01-bank.md",
+  "domain": "JapanFG",
+  "title": "01銀行 (01Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "01銀行 (01Bank)",
+    "aliases": [
+      "01Bank",
+      "01 Bank",
+      "01銀行",
+      "０１銀行",
+      "０１銀行株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "digital-bank",
+      "sme-finance",
+      "operating-company",
+      "ffg-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://01bank.co.jp/aboutus/index.html",
+      "https://01bank.co.jp/news/pdf/2025/0724.pdf",
+      "Fukuoka FG IR 公開資料",
+      "Wikipedia: ふくおかフィナンシャルグループ (公開情報)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) for peer / contrast context, ふくおか FG (FFG) for parent group context, and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "01銀行 (01Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. KPI 表（v1.0 公開ベース概算）^[inferred]",
+    "3. 重要年表",
+    "4. 親会社 FFG との関係",
+    "5. 業務モデル — データドリブン SME finance",
+    "6. ピア比較 — 地銀デジタル子会社の系譜",
+    "7. 監督・規制"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fukuoka-fg",
+      "JapanFG/hokkoku-fhd",
+      "JapanFG/ui-bank",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/minna-bank-baas-model"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/JapanFG/hokkoku-fhd",
+      "https://finwiki.zksc.io/JapanFG/ui-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4752,
+    "word_like_tokens": 703,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

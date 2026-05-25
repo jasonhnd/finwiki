@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/agent-actorship-debate",
+  "source_path": "agent-economy/agent-actorship-debate.md",
+  "url": "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/agent-actorship-debate.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/agent-actorship-debate.md",
+  "domain": "agent-economy",
+  "title": "Agent 主体性辩论：四个阵营",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Agent 主体性辩论：四个阵营",
+    "aliases": [],
+    "domain": "agent-economy",
+    "created": "2026-04-13",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "needs-review"
+    ],
+    "status": "candidate",
+    "sources": [
+      "Public works and institutional-economics references by Hayek, Coase, Searle, de Soto, Latour, and related authors.",
+      "Public AI-agent payment and identity-protocol disclosures referenced by related FinWiki entries."
+    ]
+  },
+  "summary": "This entry sits under Skill 市场收费化. Read it with Agent 支付基础设施研究报告 for adjacent context and FinWiki index for the broader system boundary.",
+  "headings": [
+    "Agent 主体性辩论：四个阵营",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/2026-04-08_agent-payment-infrastructure-research",
+      "agent-economy/ai-company-payment-landscape",
+      "agent-economy/skill-market-monetization",
+      "fintech/usd-stablecoin-interchange",
+      "systems/erc-4337-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research",
+      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
+      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/erc-4337-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1620,
+    "word_like_tokens": 240,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-24"
+  }
+}

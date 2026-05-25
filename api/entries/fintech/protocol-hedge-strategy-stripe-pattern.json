@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/protocol-hedge-strategy-stripe-pattern",
+  "source_path": "fintech/protocol-hedge-strategy-stripe-pattern.md",
+  "url": "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/protocol-hedge-strategy-stripe-pattern.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/protocol-hedge-strategy-stripe-pattern.md",
+  "domain": "fintech",
+  "title": "协议层多线 hedge 策略",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "协议层多线 hedge 策略（Stripe MPP / ACP / AP2 / x402 模式）",
+    "aliases": [
+      "protocol hedge",
+      "multi-protocol coauthor strategy",
+      "Stripe AI payment hedge"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "protocol",
+      "AI-agent",
+      "payment",
+      "framework",
+      "Stripe"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://stripe.com/use-cases/ai",
+      "https://docs.stripe.com/payments",
+      "https://openai.com/index/introducing-the-stripe-app/",
+      "https://www.anthropic.com/news",
+      "https://stripe.com/sessions"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "协议层多线 hedge 策略",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-company-payment-landscape",
+      "agent-economy/ap2-overview",
+      "agent-economy/x402-http-payment-overview",
+      "fintech/INDEX",
+      "fintech/ai-payment-two-tracks",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/wall-street-crypto-network-neutrality"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2324,
+    "word_like_tokens": 365,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-25"
+  }
+}

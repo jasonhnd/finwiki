@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-tender-offer-process",
+  "source_path": "finance/japan-tender-offer-process.md",
+  "url": "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-tender-offer-process.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-tender-offer-process.md",
+  "domain": "finance",
+  "title": "Japan tender offer process",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan tender offer process",
+    "aliases": [
+      "japan-tender-offer-process",
+      "Japan TOB process",
+      "公開買付け process"
+    ],
+    "domain": "finance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "M&A",
+      "tender-offer",
+      "TOB",
+      "disclosure",
+      "EDINET",
+      "TDnet",
+      "FIEA"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea.pdf",
+      "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf",
+      "https://www.fsa.go.jp/news/r5/sonota/20240628-3/20240628.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/english/listing/co-search/index.html"
+    ]
+  },
+  "summary": "Japan TOB analysis is a disclosure-control workflow: tender offer trigger, public notice, tender offer statement, target company opinion, amendments, EDINET statutory filing, TDnet timely disclosure, large-shareholding reports, settlement, and squeeze-out / delisting route. It belongs in finance bec",
+  "headings": [
+    "Japan tender offer process",
+    "Overview",
+    "Process Map",
+    "Large-Shareholding Overlay",
+    "What To Extract",
+    "JapanFG Relevance",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/sbi-hd",
+      "JapanFG/sbi-shinsei-bank",
+      "JapanFG/smbc-nikko",
+      "JapanFG/sony-fg",
+      "JapanFG/wealthnavi",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-activist-investor-playbook",
+      "securities/japan-underwriting-market-structure",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/wealthnavi",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/securities/japan-underwriting-market-structure",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5578,
+    "word_like_tokens": 836,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-05-22"
+  }
+}

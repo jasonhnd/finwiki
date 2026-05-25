@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/spv-tk-gk-vehicle-japan-tax",
+  "source_path": "structured-finance/spv-tk-gk-vehicle-japan-tax.md",
+  "url": "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/spv-tk-gk-vehicle-japan-tax.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/spv-tk-gk-vehicle-japan-tax.md",
+  "domain": "structured-finance",
+  "title": "SPV TK / GK / TMK / SPC vehicle choice (Japan tax)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SPV TK / GK / TMK / SPC vehicle choice (Japan tax)",
+    "aliases": [
+      "Japan SPV vehicle",
+      "TK-GK scheme",
+      "TMK",
+      "SPC Japan",
+      "Tokumei kumiai",
+      "Godo kaisha",
+      "Tokutei mokuteki kaisha",
+      "Japan securitization vehicle",
+      "Japan tax-pass-through SPV"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "spv",
+      "tk",
+      "gk",
+      "tmk",
+      "spc",
+      "japan",
+      "tax"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jsda.or.jp/en/",
+      "https://www.fsa.go.jp/en/",
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/"
+    ]
+  },
+  "summary": "Japan securitization deals use one of four main SPV structures: TK (匿名組合, silent partnership), GK (合同会社, LLC), TMK (特定目的会社, specified-purpose company under the asset-securitization law), or generic SPC. The most common private-placement structure is \"TK-GK\" — a GK acts as the asset-holding entity an",
+  "headings": [
+    "SPV TK / GK / TMK / SPC vehicle choice (Japan tax)",
+    "TL;DR",
+    "Wiki route",
+    "1. Vehicle types — overview",
+    "2. TK-GK scheme — the workhorse",
+    "3. TMK — asset-securitization-law specified-purpose company",
+    "4. Tax pass-through mechanics",
+    "5. Off-balance-sheet criteria",
+    "6. Asset-securitization-law SPC vs general SPC",
+    "7. Public vs private placement"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "banking/INDEX",
+      "finance/INDEX",
+      "real-estate-finance/INDEX",
+      "structured-finance/INDEX",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/consumer-loan-abs-japan-card-issuer",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-cmbs-issuance-structure",
+      "structured-finance/japan-rmbs-issuance-structure",
+      "structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "structured-finance/jhf-mbs-mechanics"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/consumer-loan-abs-japan-card-issuer",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8568,
+    "word_like_tokens": 1362,
+    "inbound_wikilinks_count": 28,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-large-shareholding-disclosure",
+  "source_path": "finance/japan-large-shareholding-disclosure.md",
+  "url": "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-large-shareholding-disclosure.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-large-shareholding-disclosure.md",
+  "domain": "finance",
+  "title": "Japan large shareholding disclosure",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan large shareholding disclosure",
+    "aliases": [
+      "Japan large shareholding disclosure",
+      "Japan 5 percent rule",
+      "大量保有報告制度"
+    ],
+    "domain": "finance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "disclosure",
+      "FIEA",
+      "EDINET",
+      "large-shareholding",
+      "activism",
+      "Japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/summary/index.html",
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section05.html",
+      "https://www.fsa.go.jp/singi/singi_kinyu/tosin/20231225.html",
+      "https://www.fsa.go.jp/access/r5/246.html",
+      "https://disclosure2.edinet-fsa.go.jp/week0010.aspx?media=53999",
+      "https://www.jpx.co.jp/equities/listing/disclosure/overview/",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+    ]
+  },
+  "summary": "Japan's large-shareholding disclosure regime is the FIEA \"5% rule\" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a 1% or greater",
+  "headings": [
+    "Japan large shareholding disclosure",
+    "Overview",
+    "Regime Snapshot",
+    "What It Is Not",
+    "Holder Analysis",
+    "Activism / Control Reading",
+    "EDINET Workflow",
+    "Reading Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/sbi-hd",
+      "JapanFG/sbi-shinsei-bank",
+      "JapanFG/wealthnavi",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-activist-investor-playbook",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/JapanFG/wealthnavi",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5971,
+    "word_like_tokens": 933,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-05-22"
+  }
+}

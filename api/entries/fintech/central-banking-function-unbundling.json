@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/central-banking-function-unbundling",
+  "source_path": "fintech/central-banking-function-unbundling.md",
+  "url": "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/central-banking-function-unbundling.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/central-banking-function-unbundling.md",
+  "domain": "fintech",
+  "title": "中央银行职能解体五层",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "中央银行职能解体五层 —— 货币基础设施重组的宏观结构",
+    "aliases": [
+      "央行解体",
+      "5-layer unbundling",
+      "central banking function unbundling"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "central-banking",
+      "macro-framework",
+      "geopolitics"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.bis.org/publ/arpdf/ar2023e3.htm",
+      "https://www.bis.org/publ/othp33.htm",
+      "https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm",
+      "https://www.imf.org/en/Topics/fintech",
+      "https://www.bis.org/cpmi/index.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构（MRA 互认） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "中央银行职能解体五层",
+    "Wiki route",
+    "5 项职能定义",
+    "解体触发",
+    "跨层网络效应",
+    "主角层级覆盖",
+    "应用",
+    "关联"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "2022-three-variable-cascade-thesis",
+      "fintech/INDEX",
+      "fintech/cbbtc-institutional-btc-wrapper",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "fintech/japan-financial-regulation",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/three-circles-stablecoin-mra-framework",
+      "occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "stablecoin-chain-sovereign-currency-divide",
+      "systems/canton-overview",
+      "three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/2022-three-variable-cascade-thesis",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/stablecoin-chain-sovereign-currency-divide",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2937,
+    "word_like_tokens": 497,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/gmo-coin",
+  "source_path": "JapanFG/gmo-coin.md",
+  "url": "https://finwiki.zksc.io/JapanFG/gmo-coin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/gmo-coin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/gmo-coin.md",
+  "domain": "JapanFG",
+  "title": "GMO コイン (GMO Coin)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMO コイン (GMO Coin)",
+    "aliases": [
+      "GMO Coin",
+      "株式会社 GMO コイン",
+      "GMO Coin",
+      "Inc.",
+      "GMOコイン"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "crypto",
+      "gmo"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: GMO コイン (2026-05-19 抽出)",
+      "金融庁 暗号資産交換業者登録一覧 (関東財務局長 第 00006 号)",
+      "JVCEA 加盟業者一覧",
+      "GMO フィナンシャルホールディングス IR 公開資料"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "GMO コイン (GMO Coin)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "グループ構造",
+    "2. 业务线 map",
+    "3. 重要历史",
+    "4. 战略与竞争",
+    "GMO 金融エコシステム連携",
+    "競合ポジション"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/gmo-financial-hd",
+      "JapanFG/monex-group",
+      "banking/INDEX",
+      "bitflyer",
+      "bittrade",
+      "gmo-aozora-net",
+      "gmo-payment-gateway",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/gmo-financial-hd",
+      "https://finwiki.zksc.io/JapanFG/monex-group",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/bitflyer",
+      "https://finwiki.zksc.io/bittrade",
+      "https://finwiki.zksc.io/gmo-aozora-net",
+      "https://finwiki.zksc.io/gmo-payment-gateway",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4653,
+    "word_like_tokens": 774,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-21"
+  }
+}

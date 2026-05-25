@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/cross-chain-four-poles-ccip-institutional",
+  "source_path": "systems/cross-chain-four-poles-ccip-institutional.md",
+  "url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-four-poles-ccip-institutional.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-four-poles-ccip-institutional.md",
+  "domain": "systems",
+  "title": "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+    "aliases": [
+      "cross chain four poles ccip institutional",
+      "Chainlink CCIP institutional default",
+      "CCIP DTCC SWIFT Kinexys"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "ccip",
+      "chainlink",
+      "institutional",
+      "dtcc",
+      "swift",
+      "tradfi-defi"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/ai-payment-two-tracks",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "systems/INDEX",
+      "systems/chainlink-ccip-institutional-messaging",
+      "systems/cross-chain-four-poles-overview",
+      "systems/cross-chain-four-poles-selection-decision"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2591,
+    "word_like_tokens": 419,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

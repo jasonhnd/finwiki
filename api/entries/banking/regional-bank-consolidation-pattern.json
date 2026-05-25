@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/regional-bank-consolidation-pattern",
+  "source_path": "banking/regional-bank-consolidation-pattern.md",
+  "url": "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/regional-bank-consolidation-pattern.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/regional-bank-consolidation-pattern.md",
+  "domain": "banking",
+  "title": "Regional bank consolidation pattern",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Regional bank consolidation pattern",
+    "aliases": [
+      "banking/regional-bank-consolidation-pattern",
+      "regional-bank-consolidation-pattern",
+      "地銀再編 pattern"
+    ],
+    "domain": "banking",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "regional-bank",
+      "consolidation",
+      "JapanFG",
+      "FSA"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/news/r5/ginkou/20240628-1/20240628.html",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250612/20250612.html",
+      "https://www.fsa.go.jp/access/r2/210.html",
+      "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
+      "https://www.fsa.go.jp/common/law/guide/chusho/index.html"
+    ]
+  },
+  "summary": "Regional bank consolidation in Japan is driven by local demographic pressure, narrow net interest margins, branch / system cost, digital investment needs, and the need to maintain basic financial services in shrinking regions. FSA's framing emphasizes customer-problem solving, financial-intermediati",
+  "headings": [
+    "Regional bank consolidation pattern",
+    "TL;DR",
+    "Consolidation Forms",
+    "Why It Happens",
+    "JapanFG Relevance",
+    "Decision Use",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/18-shinwa-bank",
+      "JapanFG/akita-bank",
+      "JapanFG/chiba-bank",
+      "JapanFG/concordia-fg",
+      "JapanFG/fukuoka-fg",
+      "JapanFG/iwate-bank",
+      "JapanFG/joyo-bank",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/tomony-hd",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/post-megabank-positioning"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/18-shinwa-bank",
+      "https://finwiki.zksc.io/JapanFG/akita-bank",
+      "https://finwiki.zksc.io/JapanFG/chiba-bank",
+      "https://finwiki.zksc.io/JapanFG/concordia-fg",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/JapanFG/iwate-bank",
+      "https://finwiki.zksc.io/JapanFG/joyo-bank",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/tomony-hd",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/post-megabank-positioning"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3547,
+    "word_like_tokens": 534,
+    "inbound_wikilinks_count": 112,
+    "last_modified": "2026-05-20"
+  }
+}

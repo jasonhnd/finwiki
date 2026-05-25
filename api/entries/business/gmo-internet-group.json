@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/gmo-internet-group",
+  "source_path": "business/gmo-internet-group.md",
+  "url": "https://finwiki.zksc.io/business/gmo-internet-group",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/gmo-internet-group.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/gmo-internet-group.md",
+  "domain": "business",
+  "title": "GMO Internet Group",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMO Internet Group",
+    "aliases": [
+      "gmo-internet-group",
+      "GMO Internet",
+      "GMOインターネットグループ"
+    ],
+    "domain": "business",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "parent-company",
+      "payments",
+      "internet-infrastructure",
+      "finance",
+      "crypto"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.gmo.jp/en/company-profile/",
+      "https://www.gmo.jp/en/company-profile/business/",
+      "https://ir.group.gmo/assets/pdf/en/integrated-report_2025.pdf",
+      "https://www.gmo-pg.com/en/corp/company-management/",
+      "https://gmo-aozora.com/company/outline.html"
+    ]
+  },
+  "summary": "This entry sits under business INDEX. Read it against 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "GMO Internet Group",
+    "Wiki route",
+    "TL;DR",
+    "Group Map",
+    "Why GMO Matters In JapanFG",
+    "Finance / License Stack",
+    "Strategic Pattern",
+    "Competitive Context",
+    "Open Questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/gmo-coin",
+      "JapanFG/gmo-payment-gateway",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/paypay-fg",
+      "JapanFG/sbi-hd",
+      "JapanFG/smfg",
+      "banking/baas-japan-landscape",
+      "business/INDEX",
+      "business/matt-huang-triple-role-coi-template",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "fintech/INDEX",
+      "payments/cashless-jp-landscape",
+      "securities/INDEX",
+      "security/bytecode-forensic-three-tier-verify"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/gmo-coin",
+      "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5660,
+    "word_like_tokens": 869,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-25"
+  }
+}

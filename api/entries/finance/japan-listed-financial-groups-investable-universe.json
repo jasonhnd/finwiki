@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-listed-financial-groups-investable-universe",
+  "source_path": "finance/japan-listed-financial-groups-investable-universe.md",
+  "url": "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-listed-financial-groups-investable-universe.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-listed-financial-groups-investable-universe.md",
+  "domain": "finance",
+  "title": "Japan listed financial groups investable universe",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan listed financial groups investable universe",
+    "aliases": [
+      "japan-listed-financial-groups-investable-universe",
+      "Japan financials stock universe",
+      "JP listed financial groups reference universe",
+      "日本金融グループ上場ユニバース"
+    ],
+    "domain": "finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "japan",
+      "listed-financials",
+      "megabank",
+      "insurance",
+      "securities",
+      "consumer-finance",
+      "leasing",
+      "fintech",
+      "reference-universe"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://disclosure.edinet-fsa.go.jp/",
+      "https://www.jpx.co.jp/markets/indices/topix/",
+      "https://www.jpx.co.jp/english/markets/indices/topix/",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/english/listing/co-search/",
+      "https://www.fsa.go.jp/en/policy/stewardship/",
+      "https://www.fsa.go.jp/en/policy/corporategovernencereform/20240115.html"
+    ]
+  },
+  "summary": "This page sits under finance index. It is a public-source reference universe for Japan-listed financial groups, read against finance/japan-ib-league-table for adviser-side peer mapping, finance/japan-activist-investor-playbook for engagement / control reading, finance/japan-large-shareholding-disclo",
+  "headings": [
+    "Japan listed financial groups investable universe",
+    "Wiki route",
+    "TL;DR",
+    "Universe Scope",
+    "Investable-Universe Matrix Fields",
+    "Megabank FGs",
+    "Trust FG",
+    "Regional FGs (representative)",
+    "Net banks / digital banks and bank-adjacent listed names",
+    "Major insurers (listed)"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/nomura-hd",
+      "JapanFG/smfg",
+      "JapanFG/sompo",
+      "finance/INDEX",
+      "finance/japan-acquisition-finance",
+      "finance/japan-activist-investor-playbook",
+      "finance/japan-ib-league-table",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-shareholder-proposal-and-agm-voting-route",
+      "finance/japan-tender-offer-process",
+      "securities/japan-market-infrastructure-map",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 3,
+    "external_links": [
+      "https://disclosure.edinet-fsa.go.jp/",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/markets/indices/topix/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 23201,
+    "word_like_tokens": 3666,
+    "inbound_wikilinks_count": 55,
+    "last_modified": "2026-05-24"
+  }
+}

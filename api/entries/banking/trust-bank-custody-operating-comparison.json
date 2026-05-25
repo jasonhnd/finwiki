@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/trust-bank-custody-operating-comparison",
+  "source_path": "banking/trust-bank-custody-operating-comparison.md",
+  "url": "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/trust-bank-custody-operating-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/trust-bank-custody-operating-comparison.md",
+  "domain": "banking",
+  "title": "Japan trust bank custody operating comparison",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan trust bank custody operating comparison",
+    "aliases": [
+      "trust bank custody operating comparison",
+      "Japan custody operating comparison",
+      "信託銀行 custody operating comparison"
+    ],
+    "domain": "banking",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "trust-bank",
+      "custody",
+      "asset-administration",
+      "securities-settlement"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "https://www.fsa.go.jp/common/law/guide/shintaku/11.html",
+      "https://www.shintaku-kyokai.or.jp/trust/trustbanks/",
+      "https://www.shintaku-kyokai.or.jp/profile/member_companies.html",
+      "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf",
+      "https://www.mastertrust.co.jp/about/overview.html",
+      "https://www.custody.jp/corporate/information/index.html",
+      "https://www.jasdec.com/en/system/",
+      "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
+      "https://www.boj.or.jp/en/paym/jgb_bes/index.htm"
+    ]
+  },
+  "summary": "Japan custody analysis uses institution types as a primary field. Full-service trust banks, asset-administration specialists, global custodians / ICSD branches, and settlement infrastructures perform different jobs. A \"trust account\" or custodian name in a shareholder table is usually a nominee / ad",
+  "headings": [
+    "Japan trust bank custody operating comparison",
+    "Overview",
+    "Institution-Type Comparison",
+    "Operating Functions",
+    "Master Trust Versus Custody Bank",
+    "Full-Service Trust Banks",
+    "Public-Filing Interpretation",
+    "Source Fields",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/bny-mellon-japan",
+      "JapanFG/clearstream-banking-japan",
+      "JapanFG/custody-bank",
+      "JapanFG/euroclear-bank-japan",
+      "JapanFG/master-trust-bank",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/mizuho-trust-bank",
+      "JapanFG/smtb",
+      "JapanFG/state-street-japan",
+      "banking/INDEX",
+      "banking/japan-master-trust-and-custody-bank-landscape",
+      "banking/japan-trust-bank-custody-map",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/japan-stock-lending-market-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bny-mellon-japan",
+      "https://finwiki.zksc.io/JapanFG/clearstream-banking-japan",
+      "https://finwiki.zksc.io/JapanFG/custody-bank",
+      "https://finwiki.zksc.io/JapanFG/euroclear-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/master-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/smtb",
+      "https://finwiki.zksc.io/JapanFG/state-street-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/japan-stock-lending-market-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7325,
+    "word_like_tokens": 1067,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-05-22"
+  }
+}

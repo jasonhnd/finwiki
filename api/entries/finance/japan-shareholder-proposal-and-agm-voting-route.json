@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-shareholder-proposal-and-agm-voting-route",
+  "source_path": "finance/japan-shareholder-proposal-and-agm-voting-route.md",
+  "url": "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-shareholder-proposal-and-agm-voting-route.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-shareholder-proposal-and-agm-voting-route.md",
+  "domain": "finance",
+  "title": "Japan shareholder proposal and AGM voting route",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan shareholder proposal and AGM voting route",
+    "aliases": [
+      "Japan shareholder proposal AGM voting",
+      "Japan AGM voting route",
+      "株主提案 AGM voting Japan"
+    ],
+    "domain": "finance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "governance",
+      "AGM",
+      "shareholder-proposal",
+      "voting",
+      "Japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/data/Act/417AC0000000086/618544_1/417AC0000000086_20240522_506AC0000000032_h1.pdf",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en/1000",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/guidebook/dh3otn0000000xbv-att/Guidebook.pdf",
+      "https://www.jpx.co.jp/equities/listing/cg/index.html",
+      "https://www.jpx.co.jp/equities/listing/disclosure/overview/"
+    ]
+  },
+  "summary": "Japan shareholder proposal and AGM voting records connect Companies Act shareholder rights, convocation notice, reference documents, written voting, electronic voting, corporate-governance disclosure, proxy voting, stewardship disclosure, and post-meeting voting results. This page records public rec",
+  "headings": [
+    "Japan shareholder proposal and AGM voting route",
+    "Overview",
+    "Route Map",
+    "Companies Act Fields",
+    "AGM Materials Route",
+    "JPX Governance Report Fields",
+    "Public Record Fields",
+    "Activism Connection",
+    "JapanFG Relevance",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/mizuho-fg",
+      "JapanFG/monex-group",
+      "JapanFG/mufg",
+      "JapanFG/nomura-hd",
+      "JapanFG/sbi-hd",
+      "JapanFG/smfg",
+      "JapanFG/wealthnavi",
+      "finance/INDEX",
+      "finance/japan-activist-investor-playbook",
+      "finance/japan-fair-disclosure-and-insider-trading-controls",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process",
+      "securities/japan-ipo-listing-disclosure-route",
+      "securities/japan-underwriting-market-structure",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/monex-group",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/wealthnavi",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/finance/japan-fair-disclosure-and-insider-trading-controls",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route",
+      "https://finwiki.zksc.io/securities/japan-underwriting-market-structure",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7339,
+    "word_like_tokens": 1072,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-22"
+  }
+}

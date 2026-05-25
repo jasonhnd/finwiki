@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/agricultural-bank-of-china-japan",
+  "source_path": "JapanFG/agricultural-bank-of-china-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/agricultural-bank-of-china-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/agricultural-bank-of-china-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/agricultural-bank-of-china-japan.md",
+  "domain": "JapanFG",
+  "title": "中国農業銀行 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "中国農業銀行 東京支店",
+    "aliases": [
+      "Agricultural Bank of China Japan",
+      "ABC Tokyo Branch",
+      "Agricultural Bank of China Tokyo Branch",
+      "中国農業銀行",
+      "中國農業銀行東京支店"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "china",
+      "asia-corridor",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "http://www.jp.abchina.com/jp/branch_profile/",
+      "http://www.jp.abchina.com/en/branch_profile/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "中国農業銀行 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/icbc-japan",
+      "bank-of-china-japan",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "china-construction-bank-japan",
+      "icbc-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/icbc-japan",
+      "https://finwiki.zksc.io/bank-of-china-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/china-construction-bank-japan",
+      "https://finwiki.zksc.io/icbc-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2284,
+    "word_like_tokens": 366,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

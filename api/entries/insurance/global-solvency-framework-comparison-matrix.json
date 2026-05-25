@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/global-solvency-framework-comparison-matrix",
+  "source_path": "insurance/global-solvency-framework-comparison-matrix.md",
+  "url": "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/global-solvency-framework-comparison-matrix.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/global-solvency-framework-comparison-matrix.md",
+  "domain": "insurance",
+  "title": "Global solvency framework comparison matrix",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Global solvency framework comparison matrix",
+    "aliases": [
+      "global-solvency-framework-comparison-matrix",
+      "ESR vs ICS vs Solvency II vs RBC",
+      "insurance capital framework comparison",
+      "グローバル ソルベンシー 比較"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "solvency",
+      "ESR",
+      "ICS",
+      "solvency-II",
+      "RBC",
+      "regulation",
+      "capital",
+      "comparison"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
+      "https://www.iaisweb.org/activities-topics/insurance-capital-standard",
+      "https://www.eiopa.europa.eu/browse/solvency-ii_en",
+      "https://content.naic.org/cipr-topics/risk-based-capital",
+      "https://www.oecd.org/finance/insurance/"
+    ]
+  },
+  "summary": "This entry sits under insurance index and is the cross-jurisdiction comparison page for insurer capital frameworks. Read it against insurance/economic-value-based-solvency and insurance/esr-economic-value-solvency for the Japan-specific economic-value detail, against JapanFG/legal-financial-licenses",
+  "headings": [
+    "Global solvency framework comparison matrix",
+    "Wiki route",
+    "TL;DR",
+    "Framework matrix",
+    "Identity and effective date",
+    "Philosophy and valuation",
+    "Capital structure",
+    "Risk modules",
+    "Disclosure and supervision",
+    "Convergence and divergence vs IAIS ICS"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/tokio-marine",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/esr-economic-value-solvency",
+      "insurance/japan-life-insurance-big-four",
+      "insurance/japan-nonlife-big-three",
+      "insurance/mutual-vs-stock-life-insurer",
+      "insurance/natcat-reinsurance-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 14252,
+    "word_like_tokens": 2299,
+    "inbound_wikilinks_count": 31,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
+  "source_path": "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison.md",
+  "url": "https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison.md",
+  "domain": "real-estate-finance",
+  "title": "Private REIT Japan vs listed J-REIT comparison",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Private REIT Japan vs listed J-REIT comparison",
+    "aliases": [
+      "private REIT Japan vs listed J-REIT",
+      "非上場REIT vs Jリート",
+      "Japan private REIT comparison",
+      "open-ended private REIT Japan",
+      "GK-TK private real estate fund Japan",
+      "ARES private REIT member",
+      "pension allocation Japan private REIT",
+      "私募REIT 上場REIT 比較"
+    ],
+    "domain": "real-estate-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "real-estate-finance",
+      "private-reit",
+      "j-reit",
+      "pension",
+      "redemption",
+      "ares"
+    ],
+    "status": "active",
+    "sources": [
+      "https://j-reit.jp/en/",
+      "https://www.ares.or.jp/en/",
+      "https://www.jpx.co.jp/english/markets/products/reit/index.html",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "Private REIT (私募リート / 非上場REIT) and listed J-REIT are structurally the same kind of investment corporation under the Investment Trust Act, but the listing status changes almost everything about how they are used in practice. Listed J-REIT trade continuously on JPX with full continuing-disclosure obli",
+  "headings": [
+    "Private REIT Japan vs listed J-REIT comparison",
+    "TL;DR",
+    "Wiki route",
+    "1. Side-by-side comparison",
+    "2. Open-ended redemption mechanics",
+    "3. Fee structure trade-off",
+    "4. Pension and institutional allocation use cases",
+    "5. Transparency trade-off",
+    "6. ARES member ecosystem",
+    "7. Relationship with GK-TK private real-estate funds"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/sumitomo-mitsui-trust",
+      "banking/INDEX",
+      "banking/INDEX\\",
+      "banking/trust-bank-custody-operating-comparison",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "insurance/INDEX",
+      "insurance/INDEX\\",
+      "policy-finance/INDEX",
+      "policy-finance/japan-housing-finance-agency",
+      "real-estate-finance/INDEX",
+      "real-estate-finance/INDEX\\",
+      "real-estate-finance/j-reit-market-overview",
+      "real-estate-finance/j-reit-sponsor-structure-conflict",
+      "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
+      "real-estate-finance/top-10-j-reit-overview-matrix",
+      "retail/aeon-group",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX\\",
+      "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX\\",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX\\",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison",
+      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11845,
+    "word_like_tokens": 1943,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-25"
+  }
+}

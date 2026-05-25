@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/bis-project-guardian-vs-agora-asia-three-poles",
+  "source_path": "fintech/bis-project-guardian-vs-agora-asia-three-poles.md",
+  "url": "https://finwiki.zksc.io/fintech/bis-project-guardian-vs-agora-asia-three-poles",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bis-project-guardian-vs-agora-asia-three-poles.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/bis-project-guardian-vs-agora-asia-three-poles.md",
+  "domain": "fintech",
+  "title": "亚洲代币化基础设施三极",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "亚洲代币化基础设施三极 · Guardian × Ensemble × Agorá-via-BoJ",
+    "aliases": [
+      "bis-project-guardian-vs-agora-asia-three-poles",
+      "asia tokenization three poles",
+      "亚洲三极分工"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "mas",
+      "hkma",
+      "boj",
+      "guardian",
+      "ensemble",
+      "agora",
+      "asia",
+      "tokenization"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.mas.gov.sg/schemes-and-initiatives/project-guardian",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/research-and-applications/project-ensemble/",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.boj.or.jp/en/paym/digital/index.htm",
+      "https://www.bis.org/innovation_hub.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "亚洲代币化基础设施三极",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/bis-project-agora-vs-mbridge",
+      "fintech/bis-project-ensemble-overview",
+      "fintech/bis-project-guardian-overview",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mbridge-bis-multi-cbdc-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
+      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2909,
+    "word_like_tokens": 474,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

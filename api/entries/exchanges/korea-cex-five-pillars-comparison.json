@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/korea-cex-five-pillars-comparison",
+  "source_path": "exchanges/korea-cex-five-pillars-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/korea-cex-five-pillars-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/korea-cex-five-pillars-comparison.md",
+  "domain": "exchanges",
+  "title": "韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX",
+    "aliases": [
+      "Korea CEX comparison",
+      "韓国仮想資産取引所 5 強",
+      "韓国 ISMS-CASP regime"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "korea",
+      "regulation",
+      "isms",
+      "comparison"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsc.go.kr/",
+      "https://www.kisa.or.kr/"
+    ]
+  },
+  "summary": "韓国は 特定金融情報法 (특정금융정보법, 2021-03-25 施行) で 仮想資産事業者 (VASP / VA-OP, 가상자산사업자) 登録制度を成立させた。登録 2 要件: (a) KISA (Korea Internet & Security Agency) の ISMS 認証 + (b) 国内銀行との実名口座契約 (실명확인 입출금 계정)。両要件を満たして 金融情報分析院 (FIU, 韓国版 FinCEN) に登録できた取引所のみが KRW 取引ペア (KRW spot market) を提供可能。2026 年時点で KRW 取引可能なのは下記 5 社のみ。コイン-only 取引",
+  "headings": [
+    "韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX",
+    "韓国制度概要",
+    "5 強プロファイル",
+    "実名口座銀行契約 (실명확인 입출금 계정)",
+    "ISMS-CASP 認証",
+    "国際比較",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation",
+      "jvcea-self-regulatory-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/jvcea-self-regulatory-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2250,
+    "word_like_tokens": 375,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-21"
+  }
+}

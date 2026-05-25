@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/taiwan-fsc-vasp-licensing-overview",
+  "source_path": "exchanges/taiwan-fsc-vasp-licensing-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/taiwan-fsc-vasp-licensing-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/taiwan-fsc-vasp-licensing-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/taiwan-fsc-vasp-licensing-overview.md",
+  "domain": "exchanges",
+  "title": "台湾 FSC VASP licensing 制度",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "台湾 FSC VASP licensing 制度",
+    "aliases": [
+      "Taiwan FSC VASP",
+      "台湾虚擬資産服務業者",
+      "TW FSC crypto regulation"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "taiwan",
+      "fsc",
+      "regulation",
+      "benchmark"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsc.gov.tw/"
+    ]
+  },
+  "summary": "台湾 FSC (金融監督管理委員會) は 2021-07 AML 法改正で VASP (虛擬資産服務業者) 制度を確立。既存 6 業種 (証券/銀行/保険/期貨/信託/投信) と並行する独自 framework として位置づけ、2024-2025 にかけて専門法 (虛擬資產服務法草案) の立法準備を進めている。アジアで最も柔軟な枠組だが、近い将来構造化が予想される過渡期。",
+  "headings": [
+    "台湾 FSC VASP licensing 制度",
+    "制度概要",
+    "現行制度 (AML 中心)",
+    "主要事業者 (2024-2026)",
+    "2024 立法動向",
+    "国際比較",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/hk-sfc-vasp-licensing-overview",
+      "exchanges/korea-cex-five-pillars-comparison",
+      "exchanges/sg-mas-dpt-licensing-overview",
+      "exchanges/uae-vara-licensing-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1502,
+    "word_like_tokens": 240,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-21"
+  }
+}

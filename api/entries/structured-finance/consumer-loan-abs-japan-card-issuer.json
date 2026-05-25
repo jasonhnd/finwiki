@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/consumer-loan-abs-japan-card-issuer",
+  "source_path": "structured-finance/consumer-loan-abs-japan-card-issuer.md",
+  "url": "https://finwiki.zksc.io/structured-finance/consumer-loan-abs-japan-card-issuer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/consumer-loan-abs-japan-card-issuer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/consumer-loan-abs-japan-card-issuer.md",
+  "domain": "structured-finance",
+  "title": "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+    "aliases": [
+      "Japan consumer ABS",
+      "Japan card-receivable ABS",
+      "カード債権ABS",
+      "Aplus ABS",
+      "Orico ABS",
+      "JACCS ABS",
+      "MUFG NICOS ABS",
+      "Japan consumer-finance securitization"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "abs",
+      "consumer-finance",
+      "card-receivable",
+      "japan",
+      "revolving"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/",
+      "https://www.jsda.or.jp/en/"
+    ]
+  },
+  "summary": "Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — JapanFG/aplus, JapanFG/orico, JapanFG/jaccs, JapanFG/mufg-nicos, and others — and use revolving-pool structures with early-amortization triggers. The asset class is structurally distinct",
+  "headings": [
+    "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+    "TL;DR",
+    "Wiki route",
+    "1. Repeat issuers",
+    "2. Revolving structure",
+    "3. Early-amortization triggers",
+    "4. Cyclical default rate",
+    "5. Tranching",
+    "6. Credit enhancement",
+    "7. Vehicle choice"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/aplus",
+      "JapanFG/bnpl-landscape",
+      "JapanFG/credit-saison",
+      "JapanFG/jaccs",
+      "JapanFG/jcb",
+      "JapanFG/mufg-nicos",
+      "JapanFG/orico",
+      "JapanFG/sumitomo-mitsui-trust",
+      "structured-finance/INDEX",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/aplus",
+      "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+      "https://finwiki.zksc.io/JapanFG/credit-saison",
+      "https://finwiki.zksc.io/JapanFG/jaccs",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/mufg-nicos",
+      "https://finwiki.zksc.io/JapanFG/orico",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7393,
+    "word_like_tokens": 1131,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/toho-bank",
+  "source_path": "JapanFG/toho-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/toho-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/toho-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/toho-bank.md",
+  "domain": "JapanFG",
+  "title": "東邦銀行 (Toho Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東邦銀行 (Toho Bank)",
+    "aliases": [
+      "Toho Bank",
+      "The Toho Bank",
+      "株式会社東邦銀行",
+      "とうほう銀行",
+      "東邦",
+      "TOHO"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社東邦銀行 (2026-05-19 抽出)",
+      "東邦銀行 公式 IR (有価証券報告書・ディスクロージャー誌)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "東邦銀行 (Toho Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "業態の特徴",
+    "主要関連会社(推定)^[ambiguous]",
+    "2. 重要历史",
+    "戦時統合期: 一県一行政策下の発足",
+    "戦後〜バブル期",
+    "東日本大震災 + 原発事故(最重要)★"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "77-bank",
+      "JapanFG/INDEX",
+      "JapanFG/fidea-hd",
+      "JapanFG/shizuoka-fg",
+      "banking/INDEX",
+      "chiba-bank",
+      "jimoto-hd",
+      "mebuki-fg",
+      "mizuho-fg",
+      "mufg",
+      "proclair-hd",
+      "sbi-regional-bank-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/77-bank",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fidea-hd",
+      "https://finwiki.zksc.io/JapanFG/shizuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/chiba-bank",
+      "https://finwiki.zksc.io/jimoto-hd",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/proclair-hd",
+      "https://finwiki.zksc.io/sbi-regional-bank-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "福島県を含む東北南部・関東北部地域を視野"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5487,
+    "word_like_tokens": 674,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-21"
+  }
+}

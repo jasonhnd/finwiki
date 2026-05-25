@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/osaka-credit-guarantee-corp",
+  "source_path": "policy-finance/osaka-credit-guarantee-corp.md",
+  "url": "https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/osaka-credit-guarantee-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/osaka-credit-guarantee-corp.md",
+  "domain": "policy-finance",
+  "title": "Osaka Credit Guarantee Corporation",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Osaka Credit Guarantee Corporation",
+    "aliases": [
+      "Osaka Credit Guarantee Corporation",
+      "Osaka CGC",
+      "大阪信用保証協会",
+      "policy-finance/osaka-credit-guarantee-corp"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "credit-guarantee",
+      "sme-finance",
+      "public-credit",
+      "osaka",
+      "kansai",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.cgc-osaka.or.jp/",
+      "https://www.cgc-osaka.or.jp/about/",
+      "https://www.zenshinhoren.or.jp/"
+    ]
+  },
+  "summary": "Osaka Credit Guarantee Corporation (大阪信用保証協会) is the Osaka-prefecture member of Japan's 51-corporation local credit guarantee system. It is typically the second-largest local corporation by guarantee balance after Tokyo Credit Guarantee Corporation, reflecting Osaka's status as the Kansai SME / manu",
+  "headings": [
+    "Osaka Credit Guarantee Corporation",
+    "TL;DR",
+    "1. Institutional boundary",
+    "2. Function map",
+    "3. Why it matters",
+    "4. Boundary cases",
+    "5. Comparison with Tokyo CGC",
+    "6. Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jfc",
+      "JapanFG/mufg",
+      "JapanFG/resona-hd",
+      "JapanFG/smfg",
+      "banking/shinkin-bank-registry-japan",
+      "policy-finance/INDEX",
+      "policy-finance/japan-credit-guarantee-system",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/national-federation-credit-guarantee-corporations",
+      "policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/resona-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+      "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5952,
+    "word_like_tokens": 898,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-24"
+  }
+}

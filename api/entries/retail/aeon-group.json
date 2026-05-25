@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/aeon-group",
+  "source_path": "retail/aeon-group.md",
+  "url": "https://finwiki.zksc.io/retail/aeon-group",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/aeon-group.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/aeon-group.md",
+  "domain": "retail",
+  "title": "AEON Group",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "AEON Group",
+    "aliases": [
+      "retail/aeon-group",
+      "aeon-group",
+      "イオングループ",
+      "AEON"
+    ],
+    "domain": "retail",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "retail",
+      "financial-services",
+      "payments",
+      "loyalty",
+      "bank",
+      "credit-card"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aeon.info/en/company/",
+      "https://www.aeonfinancial.co.jp/en/corp/about/",
+      "https://www.aeonfinancial.co.jp/en/ir/library/annual",
+      "https://www.aeonbank.co.jp/company/about/outline/",
+      "https://www.waon.net/about/"
+    ]
+  },
+  "summary": "AEON is a retail group whose financial-services value comes from daily-life distribution: supermarkets, malls, credit cards, WAON electronic money, AEON Pay, insurance counters, and Aeon Bank / AEON Financial Service. For FinWiki, AEON is the strongest example of a Japanese retail-to-finance operati",
+  "headings": [
+    "AEON Group",
+    "TL;DR",
+    "Structure",
+    "Business Model",
+    "Financial-Services Stack",
+    "Competitive Position",
+    "Strategic Reading",
+    "Open Questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aeon-bank",
+      "JapanFG/jcb",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "finance/INDEX",
+      "insurance/INDEX",
+      "loyalty/japan-points-landscape",
+      "payments/cashless-jp-landscape",
+      "retail/INDEX",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4805,
+    "word_like_tokens": 761,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-05-20"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/fukokushinrai-life",
+  "source_path": "JapanFG/fukokushinrai-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/fukokushinrai-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fukokushinrai-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/fukokushinrai-life.md",
+  "domain": "JapanFG",
+  "title": "フコクしんらい生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "フコクしんらい生命保険",
+    "aliases": [
+      "フコクしんらい生命",
+      "Fukokushinrai Life",
+      "Fukokushinrai Life Insurance",
+      "フコクしんらい生命保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "fukoku-life",
+      "shinkin",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://www.fukokushinrai.co.jp/company/profile/outline/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "フコクしんらい生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-frontier-life",
+      "fukoku-life",
+      "insurance/INDEX",
+      "insurance/life-insurance-channel-mix",
+      "kyoritsu-fire-marine",
+      "shinkin-central"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-frontier-life",
+      "https://finwiki.zksc.io/fukoku-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/shinkin-central"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1671,
+    "word_like_tokens": 248,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

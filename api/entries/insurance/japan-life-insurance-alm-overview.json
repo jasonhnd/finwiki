@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/japan-life-insurance-alm-overview",
+  "source_path": "insurance/japan-life-insurance-alm-overview.md",
+  "url": "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/japan-life-insurance-alm-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/japan-life-insurance-alm-overview.md",
+  "domain": "insurance",
+  "title": "Japan life insurance ALM overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan life insurance ALM overview",
+    "aliases": [
+      "japan-life-insurance-alm-overview",
+      "Japan life ALM",
+      "日本 生命保険 ALM",
+      "Japan life insurer asset-liability management"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "life-insurance",
+      "alm",
+      "japan",
+      "duration",
+      "currency-hedge",
+      "esr"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
+      "https://www.boj.or.jp/en/statistics/index.htm",
+      "https://www.mof.go.jp/english/policy/jgbs/index.html",
+      "https://www.seiho.or.jp/english/about/companies/",
+      "https://www.iaisweb.org/activities-topics/insurance-capital-standard"
+    ]
+  },
+  "summary": "This entry sits under insurance index and is the asset-liability management routing page for Japanese life insurers. Read it together with Japan life big four for the entities, with Sony Life Lifeplanner / group-life operating model for the stock-company variant, with economic-value-based solvency f",
+  "headings": [
+    "Japan life insurance ALM overview",
+    "Wiki route",
+    "TL;DR",
+    "Liability profile",
+    "Duration",
+    "Crediting rate and guarantee structure",
+    "Asset side",
+    "Yen government bonds (JGB)",
+    "Foreign bonds, hedged",
+    "Foreign bonds, unhedged"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/meiji-yasuda",
+      "JapanFG/nippon-life",
+      "JapanFG/sony-fg",
+      "JapanFG/sony-life",
+      "JapanFG/sumitomo-life",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/esr-economic-value-solvency",
+      "insurance/foreign-life-affiliate-japan-positioning",
+      "insurance/global-solvency-framework-comparison-matrix",
+      "insurance/internet-life-insurance-business-model",
+      "insurance/japan-iaig-ics-mapping",
+      "insurance/japan-life-insurance-big-four",
+      "insurance/japan-nonlife-big-three",
+      "insurance/mutual-vs-stock-life-insurer",
+      "insurance/sony-life-group-life-operating-model"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/sony-life",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+      "https://finwiki.zksc.io/insurance/foreign-life-affiliate-japan-positioning",
+      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/insurance/japan-iaig-ics-mapping",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 17558,
+    "word_like_tokens": 2807,
+    "inbound_wikilinks_count": 35,
+    "last_modified": "2026-05-25"
+  }
+}

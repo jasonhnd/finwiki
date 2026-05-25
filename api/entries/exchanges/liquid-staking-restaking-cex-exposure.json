@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/liquid-staking-restaking-cex-exposure",
+  "source_path": "exchanges/liquid-staking-restaking-cex-exposure.md",
+  "url": "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/liquid-staking-restaking-cex-exposure.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/liquid-staking-restaking-cex-exposure.md",
+  "domain": "exchanges",
+  "title": "Liquid staking + Restaking エコシステム + CEX exposure",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Liquid staking + Restaking エコシステム + CEX exposure",
+    "aliases": [
+      "LST LRT liquid staking restaking",
+      "Lido EigenLayer Rocket Pool comparison",
+      "stETH cbETH Liquid Staking Token"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "liquid-staking",
+      "restaking",
+      "lst",
+      "lrt",
+      "defi"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://lido.fi/",
+      "https://www.eigenlayer.xyz/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "Liquid staking + Restaking エコシステム + CEX exposure",
+    "Wiki route",
+    "概要",
+    "Liquid Staking Top プレイヤー",
+    "Restaking エコシステム",
+    "CEX 取扱状況",
+    "リスク + システム的含意",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/eu-mica-casp-regime-overview",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/global-perp-dex-five-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-cex-staking-lending-regulation",
+      "exchanges/rwa-tokenization-cex-integration",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "exchanges/ve33-governance-mechanism",
+      "exchanges/vetoken-host-protocol-flywheel",
+      "fintech/blackrock-buidl-tokenized-mmf-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
+      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2860,
+    "word_like_tokens": 467,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-05-24"
+  }
+}

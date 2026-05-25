@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/partior-jpm-dbs-temasek-consortium",
+  "source_path": "fintech/partior-jpm-dbs-temasek-consortium.md",
+  "url": "https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/partior-jpm-dbs-temasek-consortium.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/partior-jpm-dbs-temasek-consortium.md",
+  "domain": "fintech",
+  "title": "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+    "aliases": [
+      "partior-jpm-dbs-temasek-consortium",
+      "Partior",
+      "Partior Pte",
+      "MAS Partior",
+      "JPM DBS StanChart Temasek"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "wholesale-settlement",
+      "partior",
+      "jpmorgan",
+      "dbs",
+      "standard-chartered",
+      "temasek",
+      "singapore-mas",
+      "cross-border",
+      "multi-bank-consortium"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.partior.com/",
+      "https://www.partior.com/news",
+      "https://www.mas.gov.sg/news/media-releases/2021/partior-launch",
+      "https://www.dbs.com/newsroom/Partior_launch",
+      "https://www.standardchartered.com/news/partior"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with Fnality (英美侧多银行 wholesale) and JPM Onyx (单银行 TD) for the wholesale-settlement consortium triangle, and with MAS 战略含义 for Partior 的新加坡锚定结构。",
+  "headings": [
+    "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-guardian-overview",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/fnality-wholesale-settlement",
+      "fintech/india-anti-dollar-dpi-alliance",
+      "fintech/jpm-onyx-wholesale-network",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/multi-megabank-consortium-governance",
+      "fintech/singapore-mas-payment-services-act-overview",
+      "fintech/singapore-mas-payment-services-act-strategic-implications",
+      "systems/canton-overview",
+      "systems/chainlink-ccip-institutional-messaging",
+      "systems/cosmos-ibc-for-financial-institutions"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
+      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
+      "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+      "https://finwiki.zksc.io/systems/cosmos-ibc-for-financial-institutions"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5313,
+    "word_like_tokens": 874,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

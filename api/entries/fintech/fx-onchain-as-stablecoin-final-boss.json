@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/fx-onchain-as-stablecoin-final-boss",
+  "source_path": "fintech/fx-onchain-as-stablecoin-final-boss.md",
+  "url": "https://finwiki.zksc.io/fintech/fx-onchain-as-stablecoin-final-boss",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/fx-onchain-as-stablecoin-final-boss.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/fx-onchain-as-stablecoin-final-boss.md",
+  "domain": "fintech",
+  "title": "為替 onchain 化はステーブルコイン領域の「ラスボス」 — プライムブローカー消失と Herstatt Risk 解消",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "為替 onchain 化はステーブルコイン領域の「ラスボス」 — プライムブローカー消失と Herstatt Risk 解消",
+    "aliases": [
+      "fx-onchain",
+      "stablecoin-final-boss",
+      "herstatt-risk-elimination"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-12",
+    "confidence": "possible",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "fx",
+      "settlement-risk"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "BIS / CPMI public materials on foreign-exchange settlement risk and payment-versus-payment.",
+      "Public CLS and central-bank materials on FX settlement and Herstatt risk.",
+      "Public stablecoin / tokenized-deposit disclosures related to cross-border settlement."
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "為替 onchain 化はステーブルコイン領域の「ラスボス」 — プライムブローカー消失と Herstatt Risk 解消",
+    "Wiki route",
+    "Conclusion",
+    "Reasoning",
+    "Applicable When",
+    "Source",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mufg",
+      "fintech/INDEX",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-progmat",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/stablecoin-crossborder-b2b-growth",
+      "systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2533,
+    "word_like_tokens": 360,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/japan-blockchain-association-jba",
+  "source_path": "exchanges/japan-blockchain-association-jba.md",
+  "url": "https://finwiki.zksc.io/exchanges/japan-blockchain-association-jba",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/japan-blockchain-association-jba.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/japan-blockchain-association-jba.md",
+  "domain": "exchanges",
+  "title": "JBA — 日本ブロックチェーン協会 (Japan Blockchain Association)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JBA — 日本ブロックチェーン協会 (Japan Blockchain Association)",
+    "aliases": [
+      "JBA",
+      "日本ブロックチェーン協会",
+      "Japan Blockchain Association"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "jba",
+      "blockchain",
+      "industry-body",
+      "policy"
+    ],
+    "status": "active",
+    "sources": [
+      "https://jba-web.jp/",
+      "https://jba-web.jp/about",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against JCBA — 日本暗号資産ビジネス協会 for peer / contrast context and JVCEA — 認定自主規制協会 for the broader system / regulatory boundary.",
+  "headings": [
+    "JBA — 日本ブロックチェーン協会 (Japan Blockchain Association)",
+    "Wiki route",
+    "概要",
+    "沿革",
+    "現在の活動領域",
+    "組織",
+    "JCBA / JVCEA との棲み分け (三層構造)",
+    "著名な歴史的会員 / 代表者",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jcba-japan-crypto-business-association",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jp-vasp-security-audit-certification",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3037,
+    "word_like_tokens": 426,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

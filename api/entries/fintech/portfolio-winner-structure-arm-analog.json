@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/portfolio-winner-structure-arm-analog",
+  "source_path": "fintech/portfolio-winner-structure-arm-analog.md",
+  "url": "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/portfolio-winner-structure-arm-analog.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/portfolio-winner-structure-arm-analog.md",
+  "domain": "fintech",
+  "title": "组合赢家结构（Portfolio Winner Structure）",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "组合赢家结构 —— ARM Holdings 的金融基础设施版本",
+    "aliases": [
+      "portfolio winner",
+      "组合赢家",
+      "ARM analog",
+      "network-neutrality 投资逻辑"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "investment-strategy",
+      "Visa",
+      "ARM",
+      "infrastructure",
+      "structural-position"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://investor.visa.com/financial-information/sec-filings/default.aspx",
+      "https://www.arm.com/company/investors",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001973239&type=10-K",
+      "https://www.mastercard.com/news/press/"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against Wall Street 加密网络中立投资策略（Visa 双线模式） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "组合赢家结构（Portfolio Winner Structure）",
+    "Wiki route",
+    "成立条件（4 必要）",
+    "历史先例",
+    "ARM Holdings（1990-2020s）",
+    "其他先例",
+    "金融基础设施重组中的复制",
+    "替代候选（其他可能的\"组合赢家\"）",
+    "失败模式",
+    "应用 / 转用模板"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "agent-economy/privy-aws-agentcore-default-wallet",
+      "agent-economy/x402-cloudflare-aws-edge-integration",
+      "central-banking-function-unbundling",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-sc-issuer-adoption",
+      "fintech/japan-financial-regulation",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/wall-street-crypto-network-neutrality",
+      "protocol-hedge-strategy-stripe-pattern",
+      "wall-street-crypto-network-neutrality"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+      "https://finwiki.zksc.io/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
+      "https://finwiki.zksc.io/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/wall-street-crypto-network-neutrality"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3047,
+    "word_like_tokens": 488,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

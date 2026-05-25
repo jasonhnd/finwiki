@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-ib-league-table",
+  "source_path": "finance/japan-ib-league-table.md",
+  "url": "https://finwiki.zksc.io/finance/japan-ib-league-table",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-ib-league-table.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-ib-league-table.md",
+  "domain": "finance",
+  "title": "Japan IB league table",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan IB league table",
+    "aliases": [
+      "finance/japan-ib-league-table",
+      "japan-ib-league-table",
+      "Japan investment banking league table"
+    ],
+    "domain": "finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "investment-banking",
+      "league-table",
+      "JapanFG",
+      "securities"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables",
+      "https://www.nomuraholdings.com/en/services/wholesale/ib.html",
+      "https://www.jpx.co.jp/english/equities/listing-on-tse/new/basic/03.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
+    ]
+  },
+  "summary": "This entry sits under finance index. Read it against Cross-border M&A Japan for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "Japan IB league table",
+    "Wiki route",
+    "TL;DR",
+    "What Gets Ranked",
+    "Reading Rules",
+    "JapanFG Relevance",
+    "Decision Use",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/bank-of-america-japan",
+      "JapanFG/daiwa-sg",
+      "JapanFG/goldman-sachs-japan",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/smbc-nikko",
+      "JapanFG/socgen-japan",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bank-of-america-japan",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/goldman-sachs-japan",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/socgen-japan",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3753,
+    "word_like_tokens": 590,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-05-21"
+  }
+}

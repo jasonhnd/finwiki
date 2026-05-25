@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/jamaica-jam-dex-cbdc",
+  "source_path": "fintech/jamaica-jam-dex-cbdc.md",
+  "url": "https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jamaica-jam-dex-cbdc.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jamaica-jam-dex-cbdc.md",
+  "domain": "fintech",
+  "title": "Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor",
+    "aliases": [
+      "jamaica-jam-dex-cbdc",
+      "JAM-DEX",
+      "Jam-Dex",
+      "Jamaica Digital Exchange",
+      "BoJ Jamaica CBDC",
+      "Lynk wallet",
+      "Bank of Jamaica CBDC"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "retail-cbdc",
+      "jamaica",
+      "jam-dex",
+      "bank-of-jamaica",
+      "caribbean",
+      "lynk",
+      "ecurrency-mint",
+      "financial-inclusion"
+    ],
+    "status": "active",
+    "sources": [
+      "https://boj.org.jm/",
+      "https://boj.org.jm/core-functions/currency/cbdc/",
+      "https://boj.org.jm/jam-dex/",
+      "https://lynk.us/",
+      "https://www.bis.org/publ/work1116.htm",
+      "https://www.bis.org/about/bisih/topics/cbdc.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index as the per-jurisdiction case study on JAM-DEX (Jamaica Digital Exchange), the Bank of Jamaica's retail CBDC launched in 2022 — the third major small-economy retail CBDC after the Bahamas Sand Dollar (2020) and Nigeria eNaira (2021), and the most cleanly adopted of",
+  "headings": [
+    "Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor",
+    "Wiki route",
+    "Programme architecture",
+    "Matrix A · Statute, regulator, phase status",
+    "Matrix B · Design choices — wallet-first, incentive-driven, banked-population focus",
+    "Matrix C · Adoption metrics (most recent public)",
+    "Matrix D · Lynk wallet — the distribution-channel-ownership advantage",
+    "Matrix E · Government incentive design",
+    "Matrix F · Comparison to peer CBDCs",
+    "Origin and evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bahamas-sand-dollar-cbdc",
+      "fintech/bahamas-sand-dollar-cbdc\\",
+      "fintech/bis-project-agora-overview",
+      "fintech/boe-digital-pound-consultation",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/e-euro-retail-rollout",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/jp-stablecoin-dcjpy",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/nigeria-enaira-retail-cbdc",
+      "fintech/nigeria-enaira-retail-cbdc\\"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc",
+      "https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc\\",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/boe-digital-pound-consultation",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc",
+      "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc\\"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 15724,
+    "word_like_tokens": 2604,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/rakuten-edy",
+  "source_path": "JapanFG/rakuten-edy.md",
+  "url": "https://finwiki.zksc.io/JapanFG/rakuten-edy",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rakuten-edy.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/rakuten-edy.md",
+  "domain": "JapanFG",
+  "title": "楽天Edy",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "楽天Edy",
+    "aliases": [
+      "Rakuten Edy",
+      "楽天Edy",
+      "楽天Edy株式会社",
+      "楽天キャッシュ"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "prepaid",
+      "electronic-money",
+      "funds-transfer",
+      "rakuten"
+    ],
+    "status": "active",
+    "sources": [
+      "https://edy.rakuten.co.jp/company/company.html?l-id=lid_top_footer_company",
+      "https://edy.rakuten.co.jp/company/?l-id=footer_company",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "headings": [
+    "楽天Edy",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/rakuten-card",
+      "JapanFG/rakuten-fg",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-service-providers-japan-index",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-payment-scheme-economics-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/rakuten-card",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2146,
+    "word_like_tokens": 347,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-24"
+  }
+}

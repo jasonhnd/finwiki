@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-vasp-aml-travel-rule-implementation",
+  "source_path": "exchanges/jp-vasp-aml-travel-rule-implementation.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-aml-travel-rule-implementation.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-aml-travel-rule-implementation.md",
+  "domain": "exchanges",
+  "title": "国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)",
+    "aliases": [
+      "JP VASP AML Travel Rule",
+      "犯収法 + Travel Rule",
+      "FATF Recommendation 16 JP implementation"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "aml",
+      "cft",
+      "travel-rule",
+      "fatf",
+      "regulation"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/",
+      "https://www.npa.go.jp/sosikihanzai/jafic/",
+      "https://jvcea.or.jp/",
+      "https://www.fatf-gafi.org/"
+    ]
+  },
+  "summary": "国内 VASP は 犯罪収益移転防止法 (犯収法) で本人確認 + 取引監視 + 疑わしい取引届出を義務化されている。FATF Recommendation 16 (Travel Rule) は 2023-06 改正犯収法施行で完全実装され、仮想資産送金が ≥ 10 万円相当 で送受信両者の KYC データ伝達が義務化された。AML/CFT 体系は FSA 監督 + JAFIC (警察庁) 情報集約 + JVCEA 自主規制の三層構造で運用される。",
+  "headings": [
+    "国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)",
+    "概要",
+    "犯収法上の義務 4 本柱",
+    "Travel Rule 国内実装",
+    "海外との相互運用",
+    "リスクと課題",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/carf-1099da-end-of-crypto-anonymity",
+      "fintech/fatf-travel-rule-cross-border-stack",
+      "fintech/fatf-travel-rule-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1746,
+    "word_like_tokens": 291,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-21"
+  }
+}

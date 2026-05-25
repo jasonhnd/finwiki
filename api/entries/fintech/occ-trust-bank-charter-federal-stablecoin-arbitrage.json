@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+  "source_path": "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
+  "url": "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
+  "domain": "fintech",
+  "title": "OCC trust bank charter 作为联邦稳定币银行套利路径",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "OCC trust bank charter 作为联邦稳定币银行套利路径",
+    "aliases": [
+      "OCC trust bank stablecoin",
+      "Bridge OCC conditional",
+      "federal stablecoin charter arbitrage"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "regulation",
+      "stablecoin",
+      "occ",
+      "charter",
+      "bridge",
+      "mtl",
+      "fedwire"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.occ.gov/topics/charters-and-licensing/index-charters-and-licensing.html",
+      "https://www.occ.gov/news-issuances/news-releases/index-news-releases.html",
+      "https://www.federalreserve.gov/paymentsystems/fedwire_about.htm",
+      "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "OCC trust bank charter 作为联邦稳定币银行套利路径",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "fintech/INDEX",
+      "fintech/cftc-sec-crypto-jurisdiction",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/regulatory-window-strategic-acquisition",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3167,
+    "word_like_tokens": 540,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

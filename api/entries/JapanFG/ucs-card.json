@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ucs-card",
+  "source_path": "JapanFG/ucs-card.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ucs-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ucs-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ucs-card.md",
+  "domain": "JapanFG",
+  "title": "UCSカード (UCS)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "UCSカード (UCS)",
+    "aliases": [
+      "UCS Card",
+      "UCS",
+      "UCSカード",
+      "株式会社UCS",
+      "株式会社ＵＣＳ"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "prepaid",
+      "retail-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.ucscard.co.jp/company/com/profile/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ライフカード (Life Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "UCSカード (UCS)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/epos-card",
+      "JapanFG/life-card",
+      "JapanFG/seven-card-service",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/epos-card",
+      "https://finwiki.zksc.io/JapanFG/life-card",
+      "https://finwiki.zksc.io/JapanFG/seven-card-service",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1946,
+    "word_like_tokens": 306,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

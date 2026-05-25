@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/enterprise-procurement-deadline-anchor",
+  "source_path": "fintech/enterprise-procurement-deadline-anchor.md",
+  "url": "https://finwiki.zksc.io/fintech/enterprise-procurement-deadline-anchor",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/enterprise-procurement-deadline-anchor.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/enterprise-procurement-deadline-anchor.md",
+  "domain": "fintech",
+  "title": "企业 IT 采购预算锁定",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "企业 IT 采购预算锁定 —— 表面市场截止线的隐藏机制",
+    "aliases": [
+      "企业采购周期",
+      "IT budget cycle",
+      "procurement deadline anchor"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "enterprise-sales",
+      "B2B",
+      "timing-analysis",
+      "stablecoin"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.gartner.com/en/research/methodologies/it-budget",
+      "https://www.idc.com/",
+      "https://www2.deloitte.com/us/en/insights/topics/strategy/digital-transformation-budget.html",
+      "https://stripe.com/enterprise",
+      "https://www.circle.com/en/business"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "企业 IT 采购预算锁定",
+    "Wiki route",
+    "机制",
+    "稳定币 2026 案例",
+    "解释力",
+    "应用 / 转用",
+    "关联"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "central-banking-function-unbundling",
+      "fintech/INDEX",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/protocol-hedge-strategy-stripe-pattern",
+      "protocol-renewal-trigger-as-event-anchor",
+      "regulatory-window-strategic-acquisition"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/protocol-renewal-trigger-as-event-anchor",
+      "https://finwiki.zksc.io/regulatory-window-strategic-acquisition"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2424,
+    "word_like_tokens": 440,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

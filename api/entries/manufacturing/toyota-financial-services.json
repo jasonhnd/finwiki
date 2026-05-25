@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturing/toyota-financial-services",
+  "source_path": "manufacturing/toyota-financial-services.md",
+  "url": "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/toyota-financial-services.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturing/toyota-financial-services.md",
+  "domain": "manufacturing",
+  "title": "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
+    "aliases": [
+      "toyota-financial-services",
+      "TFS manufacturing anchor",
+      "Toyota Financial Services manufacturing view",
+      "TFS captive finance",
+      "トヨタ FS 製造業視点"
+    ],
+    "domain": "manufacturing",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "toyota",
+      "captive-finance",
+      "auto-finance",
+      "abs",
+      "residual-value",
+      "mobility",
+      "japan",
+      "global"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.toyota/en/company/profile/other-toyota-businesses/finance/",
+      "https://global.toyota/en/ir/library/annual/",
+      "https://www.toyotafinancial.com/us/en.html",
+      "https://www.toyota-finance.co.jp/",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w",
+  "headings": [
+    "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司結構と製造業視点",
+    "製造業視点のグループ構造",
+    "Toyota Motor 本体との関係",
+    "2. 製品 / 事業ライン × 製造業視点での意義",
+    "自動車 ABS との接続",
+    "3. KPI (FY2024 連結 + 金融セグメント)",
+    "4. 戦略 (Residual Value + EV + Mobility)"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/orix-corp",
+      "JapanFG/smfg",
+      "JapanFG/tokyo-century",
+      "JapanFG/toyota-finance",
+      "JapanFG/toyota-financial",
+      "JapanFG/toyota-tsusho-finance",
+      "manufacturing/INDEX",
+      "manufacturing/hitachi-industrial-finance-platform",
+      "manufacturing/mitsubishi-heavy-export-finance",
+      "manufacturing/panasonic-captive-finance",
+      "manufacturing/sony-group-finance-arm",
+      "manufacturing/toyota-motor",
+      "structured-finance/auto-loan-abs-japan-toyota-honda"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/JapanFG/toyota-finance",
+      "https://finwiki.zksc.io/JapanFG/toyota-financial",
+      "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
+      "https://finwiki.zksc.io/manufacturing/INDEX",
+      "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
+      "https://finwiki.zksc.io/manufacturing/toyota-motor",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7706,
+    "word_like_tokens": 1108,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/fisheries-credit-guarantee-system",
+  "source_path": "policy-finance/fisheries-credit-guarantee-system.md",
+  "url": "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/fisheries-credit-guarantee-system.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/fisheries-credit-guarantee-system.md",
+  "domain": "policy-finance",
+  "title": "Fisheries credit guarantee system in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Fisheries credit guarantee system in Japan",
+    "aliases": [
+      "Fisheries credit guarantee system",
+      "Fishery credit guarantee insurance system",
+      "漁業信用保証保険制度",
+      "漁業信用基金協会",
+      "全国漁業信用基金協会連合会",
+      "農林漁業信用基金 漁業信用保険",
+      "漁信基"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "fisheries-finance",
+      "credit-guarantee",
+      "jf-marine-bank",
+      "public-credit",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jaffic.go.jp/guide/gyo/index.html",
+      "https://www.jaffic.go.jp/whats_kikin/outline.html",
+      "https://zengyoki.or.jp/",
+      "https://zengyoki.or.jp/guidance/guarantee-details/",
+      "https://www.maff.go.jp/j/pr/annual/pdf/gyogyo_sinyouhosyou.pdf",
+      "https://www.jfa.maff.go.jp/",
+      "https://www.zengyoren.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index. Read it against Japan credit guarantee system for SME-side contrast, agriculture credit guarantee system for the sister sector (same JAFFIC parent), and Japan policy finance system for the broader public-credit boundary. The fisheries deposit-and-lending c",
+  "headings": [
+    "Fisheries credit guarantee system in Japan",
+    "Wiki route",
+    "TL;DR",
+    "1. 系統金融との位置関係 (fisheries variant)",
+    "2. 機関概要 — 漁業信用基金協会",
+    "3. 機関概要 — JAFFIC 漁業信用保険業務",
+    "4. 主要保証商品",
+    "5. 製品ミックス characteristics",
+    "6. Geographic concentration",
+    "7. Year evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jfc",
+      "JapanFG/norinchukin",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "policy-finance/INDEX",
+      "policy-finance/agriculture-credit-guarantee-system",
+      "policy-finance/agriculture-credit-guarantee-system\\",
+      "policy-finance/hokkaido-credit-guarantee-corp",
+      "policy-finance/japan-credit-guarantee-system",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/national-federation-credit-guarantee-corporations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system\\",
+      "https://finwiki.zksc.io/policy-finance/hokkaido-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 12130,
+    "word_like_tokens": 1722,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-25"
+  }
+}

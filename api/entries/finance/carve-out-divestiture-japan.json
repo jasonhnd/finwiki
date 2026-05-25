@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/carve-out-divestiture-japan",
+  "source_path": "finance/carve-out-divestiture-japan.md",
+  "url": "https://finwiki.zksc.io/finance/carve-out-divestiture-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/carve-out-divestiture-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/carve-out-divestiture-japan.md",
+  "domain": "finance",
+  "title": "Carve-out and divestiture process in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Carve-out and divestiture process in Japan",
+    "aliases": [
+      "carve-out-divestiture-japan",
+      "Japan carve-out process",
+      "Japan divestiture",
+      "Japan spin-off",
+      "事業承継 カーブアウト"
+    ],
+    "domain": "finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "M&A",
+      "carve-out",
+      "divestiture",
+      "spin-off",
+      "TSA",
+      "asset-deal",
+      "share-deal",
+      "tax"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/english/press/2023/0419_002.html",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
+      "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea.pdf",
+      "https://www.nta.go.jp/english/index.htm",
+      "https://www.jftc.go.jp/en/legislation_gls/amended_ama09/notification.html"
+    ]
+  },
+  "summary": "A Japanese carve-out separates a business unit from a parent and routes it to a new owner (trade sale), a new listed entity (IPO spin), or distributed shareholders (stock-distribution / demerger). The mechanical choice between asset deal vs share deal vs company-split (会社分割) vs stock-distribution dr",
+  "headings": [
+    "Carve-out and divestiture process in Japan",
+    "Overview",
+    "Structure decision matrix",
+    "Asset deal vs share deal",
+    "Stock-distribution vs trade sale",
+    "TSA — transition services agreement",
+    "Tax considerations",
+    "Carve-out workstreams",
+    "Recent examples (2023-2026)",
+    "Research checklist"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-leveraged-buyout-economics",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-takeover-defense-poison-pill",
+      "finance/japan-tender-offer-process",
+      "finance/jftc-merger-control-process",
+      "finance/multi-jurisdiction-identity-tax-leverage"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/finance/jftc-merger-control-process",
+      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7985,
+    "word_like_tokens": 1229,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

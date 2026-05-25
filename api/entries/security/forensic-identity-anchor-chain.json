@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/forensic-identity-anchor-chain",
+  "source_path": "security/forensic-identity-anchor-chain.md",
+  "url": "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/forensic-identity-anchor-chain.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/forensic-identity-anchor-chain.md",
+  "domain": "security",
+  "title": "团队真实身份 forensic anchor chain — 多源指纹拼合",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "团队真实身份 forensic anchor chain — 多源指纹拼合",
+    "aliases": [],
+    "domain": "security",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-08",
+    "confidence": "possible",
+    "tags": [
+      "security/forensic",
+      "security/identity",
+      "security/dd"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://certificate.transparency.dev/",
+      "https://docs.github.com/en/rest/commits/commits",
+      "https://web.archive.org/"
+    ]
+  },
+  "summary": "This entry sits under FinWiki index. Read it with bytecode forensic for peer context and systems index for the broader infrastructure boundary.",
+  "headings": [
+    "团队真实身份 forensic anchor chain — 多源指纹拼合",
+    "Wiki route",
+    "6 个独立指纹源",
+    "拼合 logic",
+    "Anti-pattern",
+    "When to Use",
+    "When NOT to Use",
+    "Counterpoints",
+    "Provenance"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "bytecode-forensic-three-tier-verify",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/jp-vasp-incident-history",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "fork-and-rebrand-5-layer-audit-framework",
+      "module-path-confusion-supply-chain-attack",
+      "security/bytecode-forensic-three-tier-verify",
+      "systems/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/module-path-confusion-supply-chain-attack",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/systems/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2524,
+    "word_like_tokens": 433,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-24"
+  }
+}

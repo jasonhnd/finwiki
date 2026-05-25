@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-vasp-ma-consolidation-history",
+  "source_path": "exchanges/jp-vasp-ma-consolidation-history.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-ma-consolidation-history.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-ma-consolidation-history.md",
+  "domain": "exchanges",
+  "title": "国内暗号資産交換業 M&A 統廃合史 (2018-2026)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内暗号資産交換業 M&A 統廃合史 (2018-2026)",
+    "aliases": [
+      "日本 VASP M&A history",
+      "国内暗号資産交換業 統廃合",
+      "JP crypto exchange consolidation timeline"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "m-and-a",
+      "consolidation",
+      "history"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 VASP 暗号資産流出事件史 (2014-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内暗号資産交換業 M&A 統廃合史 (2018-2026)",
+    "Wiki route",
+    "概要",
+    "主要案件 timeline",
+    "動因分析(3 つの統合トリガー)",
+    "統合後の市場集中度 (2026-05 時点)",
+    "関連エントリ"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-exchange-dmm-bitcoin",
+      "exchanges/jp-exchange-monex",
+      "exchanges/jp-exchange-rakuten-wallet",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-exchange-sblox",
+      "exchanges/jp-exchange-zaif",
+      "exchanges/jp-vasp-incident-history"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-monex",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sblox",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-zaif",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2585,
+    "word_like_tokens": 417,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-21"
+  }
+}

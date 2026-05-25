@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/multi-proof-aggregation-fault-prover",
+  "source_path": "systems/multi-proof-aggregation-fault-prover.md",
+  "url": "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/multi-proof-aggregation-fault-prover.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/multi-proof-aggregation-fault-prover.md",
+  "domain": "systems",
+  "title": "多证明系统聚合 fault prover 架构",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "多证明系统聚合 fault prover 架构",
+    "aliases": [
+      "multi-proof aggregation",
+      "base fault prover three-track",
+      "TEE ZK optimistic aggregate",
+      "proofBytes type tag"
+    ],
+    "domain": "systems",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "rollup",
+      "fault-proof",
+      "zk",
+      "tee",
+      "optimistic",
+      "base",
+      "l2",
+      "rust"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 翻倍与 L2 经济连锁 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "多证明系统聚合 fault prover 架构",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "systems/INDEX",
+      "systems/formal-spec-implementation-codesign",
+      "systems/pectra-eip-7691-blob-l2-impact",
+      "systems/post-quantum-blockchain-day1-integration",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
+      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
+      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 927,
+    "word_like_tokens": 148,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

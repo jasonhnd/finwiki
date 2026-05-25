@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/credit-saison",
+  "source_path": "JapanFG/credit-saison.md",
+  "url": "https://finwiki.zksc.io/JapanFG/credit-saison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/credit-saison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/credit-saison.md",
+  "domain": "JapanFG",
+  "title": "クレディセゾン (Credit Saison)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "クレディセゾン (Credit Saison)",
+    "aliases": [
+      "Credit Saison",
+      "クレディセゾン",
+      "セゾン",
+      "Saison",
+      "西武クレジット",
+      "緑屋クレジット"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "credit-card",
+      "parco",
+      "consumer-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社クレディセゾン (公開情報, 2026-05-19 抽出)",
+      "クレディセゾン公式 IR (会社沿革・公開資料)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "クレディセゾン (Credit Saison)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "関連・親会社の系譜",
+    "主要子会社・グループ会社（公開情報ベース）",
+    "2. 业务线 map",
+    "主要カードブランド",
+    "3. 战略与竞争",
+    "永久不滅ポイント エコシステム"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/jaccs",
+      "banking/INDEX",
+      "jcb",
+      "mizuho-fg",
+      "mufg",
+      "paypay-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jaccs",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/jcb",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4675,
+    "word_like_tokens": 659,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-05-21"
+  }
+}

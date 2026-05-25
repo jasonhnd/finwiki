@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/edy-rakuten-prepaid",
+  "source_path": "payments/edy-rakuten-prepaid.md",
+  "url": "https://finwiki.zksc.io/payments/edy-rakuten-prepaid",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/edy-rakuten-prepaid.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/edy-rakuten-prepaid.md",
+  "domain": "payments",
+  "title": "Rakuten Edy: platform-agnostic FeliCa prepaid e-money",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Rakuten Edy: platform-agnostic FeliCa prepaid e-money",
+    "aliases": [
+      "edy-rakuten-prepaid",
+      "Rakuten Edy",
+      "楽天Edy",
+      "Edy FeliCa prepaid",
+      "ビットワレット bitWallet"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "electronic-money",
+      "felica",
+      "edy",
+      "rakuten",
+      "platform-agnostic"
+    ],
+    "status": "active",
+    "sources": [
+      "https://edy.rakuten.co.jp/",
+      "https://corp.rakuten.co.jp/",
+      "https://www.rakuten-card.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.felicanetworks.co.jp/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the Rakuten Edy prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with Japan payment scheme economics matrix for the four-class scheme comparison. Compare with retail-anchored (WAON / nanaco) and tran",
+  "headings": [
+    "Rakuten Edy: platform-agnostic FeliCa prepaid e-money",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and operational structure",
+    "Legal basis: 第三者型 prepaid",
+    "Pioneer / legacy position vs successor entrants",
+    "Acceptance footprint",
+    "Rakuten Card + Edy + Rakuten Points integration",
+    "KPI snapshot",
+    "Strategy: platform-agnostic FeliCa with Rakuten integration"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/rakuten-card",
+      "JapanFG/rakuten-card\\",
+      "JapanFG/rakuten-edy",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/pasmo-prepaid-tokyo-metro",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/suica-prepaid-jr-east",
+      "payments/waon-nanaco-retail-prepaid-comparison",
+      "payments/waon-prepaid-aeon"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/rakuten-card",
+      "https://finwiki.zksc.io/JapanFG/rakuten-card\\",
+      "https://finwiki.zksc.io/JapanFG/rakuten-edy",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/pasmo-prepaid-tokyo-metro",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/suica-prepaid-jr-east",
+      "https://finwiki.zksc.io/payments/waon-nanaco-retail-prepaid-comparison",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9103,
+    "word_like_tokens": 1430,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/toyota-financial",
+  "source_path": "JapanFG/toyota-financial.md",
+  "url": "https://finwiki.zksc.io/JapanFG/toyota-financial",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/toyota-financial.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/toyota-financial.md",
+  "domain": "JapanFG",
+  "title": "トヨタファイナンシャルサービス (TFS)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "トヨタファイナンシャルサービス (TFS)",
+    "aliases": [
+      "TFS",
+      "トヨタファイナンシャルサービス",
+      "Toyota Financial Services",
+      "Toyota Financial Services Corporation",
+      "トヨタ FS"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "auto-finance",
+      "toyota"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: トヨタファイナンシャルサービス (2026-05-19 公開情報)",
+      "Wikipedia: トヨタファイナンス (2026-05-19 公開情報)",
+      "Toyota Financial Services 公式 公開コーポレートサイト"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "トヨタファイナンシャルサービス (TFS)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・グループ会社",
+    "業態カテゴリ",
+    "2. 重要历史・年表",
+    "3. 业务线 map",
+    "4. 战略与竞争",
+    "総合パッケージ戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/mufg",
+      "banking/INDEX",
+      "manufacturing/toyota-motor",
+      "mufg",
+      "orix-corp",
+      "tokyo-century"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/manufacturing/toyota-motor",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/orix-corp",
+      "https://finwiki.zksc.io/tokyo-century"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4871,
+    "word_like_tokens": 655,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-21"
+  }
+}

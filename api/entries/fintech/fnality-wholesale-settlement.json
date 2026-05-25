@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/fnality-wholesale-settlement",
+  "source_path": "fintech/fnality-wholesale-settlement.md",
+  "url": "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/fnality-wholesale-settlement.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/fnality-wholesale-settlement.md",
+  "domain": "fintech",
+  "title": "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+    "aliases": [
+      "fnality-wholesale-settlement",
+      "Fnality",
+      "FnPS",
+      "Fnality Payment System",
+      "USC",
+      "Utility Settlement Coin"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "wholesale-settlement",
+      "fnality",
+      "central-bank-money",
+      "gbp-fnps",
+      "boe",
+      "multi-bank-consortium",
+      "tokenized-deposit"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fnality.org/",
+      "https://www.fnality.org/news-views",
+      "https://www.bankofengland.co.uk/news/2023/november/boe-statement-on-fnality",
+      "https://www.fnality.org/governance",
+      "https://www.swift.com/news-events/news/swift-fnality-collaboration"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with Partior and JPM Onyx / Kinexys for the wholesale-settlement consortium triangle, and with 多大银行联邦治理 for the governance pattern that gives Fnality its multi-bank shape (vs. JPM single-issuer model).",
+  "headings": [
+    "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/jpm-onyx-wholesale-network",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/multi-megabank-consortium-governance",
+      "fintech/partior-jpm-dbs-temasek-consortium",
+      "fintech/tokenized-deposit-cumulative-volume-scale",
+      "systems/canton-overview",
+      "systems/chainlink-ccip-institutional-messaging",
+      "systems/cls-bank-overview",
+      "systems/cross-chain-four-poles-overview",
+      "systems/swift-iso-20022-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium",
+      "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+      "https://finwiki.zksc.io/systems/cls-bank-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+      "https://finwiki.zksc.io/systems/swift-iso-20022-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5604,
+    "word_like_tokens": 929,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

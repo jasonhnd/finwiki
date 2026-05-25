@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/starr-insurance-japan",
+  "source_path": "JapanFG/starr-insurance-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/starr-insurance-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/starr-insurance-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/starr-insurance-japan.md",
+  "domain": "JapanFG",
+  "title": "Starr Insurance Japan / スター・インシュアランス・ジャパン",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Starr Insurance Japan / スター・インシュアランス・ジャパン",
+    "aliases": [
+      "Starr Insurance Japan",
+      "Starr Companies Japan",
+      "Starr International Japan",
+      "スター・インシュアランス・カンパニーズ",
+      "Starr Indemnity & Liability Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "foreign-insurer",
+      "specialty-insurance",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
+      "Starr Companies official: https://www.starrcompanies.com",
+      "Starr Insurance Japan official page (公開版)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against AIG Japan and Chubb Insurance Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
+  "headings": [
+    "Starr Insurance Japan / スター・インシュアランス・ジャパン",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aig-japan",
+      "JapanFG/allianz-fire-marine-japan",
+      "JapanFG/chubb-insurance-japan",
+      "JapanFG/fm-global-japan",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/lloyd-japan",
+      "JapanFG/qbe-japan",
+      "insurance/INDEX",
+      "insurance/global-solvency-framework-comparison-matrix",
+      "insurance/japan-nonlife-big-three"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aig-japan",
+      "https://finwiki.zksc.io/JapanFG/allianz-fire-marine-japan",
+      "https://finwiki.zksc.io/JapanFG/chubb-insurance-japan",
+      "https://finwiki.zksc.io/JapanFG/fm-global-japan",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/lloyd-japan",
+      "https://finwiki.zksc.io/JapanFG/qbe-japan",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5347,
+    "word_like_tokens": 840,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

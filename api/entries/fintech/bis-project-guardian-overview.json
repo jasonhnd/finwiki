@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/bis-project-guardian-overview",
+  "source_path": "fintech/bis-project-guardian-overview.md",
+  "url": "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bis-project-guardian-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/bis-project-guardian-overview.md",
+  "domain": "fintech",
+  "title": "MAS Project Guardian 概览",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "MAS Project Guardian 概览 · 新加坡代币化资产实证联盟",
+    "aliases": [
+      "bis-project-guardian-overview",
+      "mas-project-guardian",
+      "Project Guardian"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "mas",
+      "singapore",
+      "tokenization",
+      "asset-tokenization",
+      "dbs",
+      "jpm",
+      "citi"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.mas.gov.sg/schemes-and-initiatives/project-guardian",
+      "https://www.mas.gov.sg/news/media-releases",
+      "https://www.bis.org/about/bisih/locations/singapore.htm",
+      "https://www.dbs.com.sg/corporate/businessclass/articles",
+      "https://www.jpmorgan.com/onyx/index"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "MAS Project Guardian 概览",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/sg-mas-dpt-licensing-overview",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/bis-project-ensemble-overview",
+      "fintech/bis-project-guardian-vs-agora-asia-three-poles",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/singapore-mas-payment-services-act-overview",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-guardian-vs-agora-asia-three-poles",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3088,
+    "word_like_tokens": 520,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-25"
+  }
+}

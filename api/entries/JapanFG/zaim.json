@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/zaim",
+  "source_path": "JapanFG/zaim.md",
+  "url": "https://finwiki.zksc.io/JapanFG/zaim",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zaim.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/zaim.md",
+  "domain": "JapanFG",
+  "title": "Zaim (ザイム)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Zaim (ザイム)",
+    "aliases": [
+      "Zaim",
+      "ザイム",
+      "株式会社 Zaim",
+      "Zaim Inc."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "fintech",
+      "pfm",
+      "household-finance",
+      "kddi"
+    ],
+    "status": "active",
+    "sources": [
+      "https://content.zaim.net/",
+      "https://content.zaim.net/company/",
+      "https://news.kddi.com/kddi/corporate/newsrelease/2022/04/14/6014.html"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as a PFM (Personal Financial Management) app sitting next to the much larger Money Forward ME peer. Read it with the Japan BNPL landscape for adjacent consumer-finance context, the freee / SmartBank sibling household-finance set, and the au フィナンシャル HD corporat",
+  "headings": [
+    "Zaim (ザイム)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "4. 监管与政策",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/au-fh",
+      "JapanFG/au-payment",
+      "JapanFG/bnpl-landscape",
+      "JapanFG/famima-digital-one",
+      "JapanFG/freee",
+      "JapanFG/money-forward",
+      "JapanFG/smartbank",
+      "payments/credit-purchase-card-operators-japan-index",
+      "payments/japan-bnpl-credit-purchase-boundary",
+      "payments/japan-payment-scheme-economics-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-fh",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+      "https://finwiki.zksc.io/JapanFG/famima-digital-one",
+      "https://finwiki.zksc.io/JapanFG/freee",
+      "https://finwiki.zksc.io/JapanFG/money-forward",
+      "https://finwiki.zksc.io/JapanFG/smartbank",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3517,
+    "word_like_tokens": 511,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-24"
+  }
+}

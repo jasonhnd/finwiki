@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-dmm-com-securities",
+  "source_path": "exchanges/jp-exchange-dmm-com-securities.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-com-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-dmm-com-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-dmm-com-securities.md",
+  "domain": "exchanges",
+  "title": "株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）",
+    "aliases": [
+      "DMM.com証券",
+      "DMM Securities",
+      "DMM.com Securities",
+      "DMMドットコム証券"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "crypto-derivative"
+    ],
+    "status": "active",
+    "sources": [
+      "https://securities.dmm.com/company/",
+      "https://securities.dmm.com/finance-results/",
+      "https://fx.dmm.com/cfd/service/lineup/",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨（暗号資産）",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/dmm-com-securities",
+      "exchanges/INDEX",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-dmm-bitcoin",
+      "exchanges/jp-vasp-derivative-license-system",
+      "fintech/japan-bittrade-listing-process",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
+      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "external_links_count": 5,
+    "external_links": [
+      "https://fx.dmm.com/cfd/service/lineup/",
+      "https://jvcea.or.jp/member/",
+      "https://securities.dmm.com/company/",
+      "https://securities.dmm.com/finance-results/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4286,
+    "word_like_tokens": 733,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

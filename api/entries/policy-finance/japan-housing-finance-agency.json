@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/japan-housing-finance-agency",
+  "source_path": "policy-finance/japan-housing-finance-agency.md",
+  "url": "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-housing-finance-agency.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-housing-finance-agency.md",
+  "domain": "policy-finance",
+  "title": "Japan Housing Finance Agency (JHF)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan Housing Finance Agency (JHF)",
+    "aliases": [
+      "Japan Housing Finance Agency",
+      "JHF",
+      "住宅金融支援機構",
+      "独立行政法人住宅金融支援機構",
+      "GHLC successor",
+      "Government Housing Loan Corporation successor"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "housing-finance",
+      "securitization",
+      "public-credit",
+      "mbs",
+      "flat-35",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jhf.go.jp/about/index.html",
+      "https://www.jhf.go.jp/about/organization/outline/index.html",
+      "https://www.jhf.go.jp/about/business/index.html",
+      "https://www.jhf.go.jp/files/300368739.pdf",
+      "https://www.mlit.go.jp/about/jhf_.html",
+      "https://www.mof.go.jp/",
+      "https://www.flat35.com/"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as Japan's housing-finance policy institution. Read it against Japan policy finance system for the broader public-credit boundary and pair it with JHF MBS mechanics for the securitization plumbing. JHF is structurally distinct from JFC (SME / agriculture-fo",
+  "headings": [
+    "Japan Housing Finance Agency (JHF)",
+    "Wiki route",
+    "TL;DR",
+    "1. 機関概要",
+    "2. 業務マップ",
+    "3. Flat 35 product family",
+    "4. Year evolution and the 2007 privatization-then-recreated arc",
+    "5. Securitization linkage (JHF MBS)",
+    "6. ARR / 政策金利 spread economics",
+    "7. Regional-bank servicing partnerships"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jbic",
+      "JapanFG/jfc",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "policy-finance/INDEX",
+      "policy-finance/agriculture-credit-guarantee-system",
+      "policy-finance/fisheries-credit-guarantee-system",
+      "policy-finance/japan-credit-guarantee-system",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/national-federation-credit-guarantee-corporations",
+      "policy-finance/okinawa-development-finance-corp",
+      "structured-finance/jhf-mbs-mechanics",
+      "structured-finance/jhf-mbs-vs-private-rmbs-spread"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+      "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-vs-private-rmbs-spread"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 12866,
+    "word_like_tokens": 2080,
+    "inbound_wikilinks_count": 28,
+    "last_modified": "2026-05-25"
+  }
+}

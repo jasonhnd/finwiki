@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-native-token-strategy-comparison",
+  "source_path": "exchanges/cex-native-token-strategy-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-native-token-strategy-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-native-token-strategy-comparison.md",
+  "domain": "exchanges",
+  "title": "CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制",
+    "aliases": [
+      "CEX native token strategy",
+      "取引所自家トークン",
+      "BNB OKB HT KCS BGB comparison"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "native-token",
+      "exchange-token",
+      "tokenomics"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.binance.com/",
+      "https://www.okx.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制",
+    "Wiki route",
+    "概要",
+    "主要 CEX 自家 token 比較",
+    "経済機制の trade-off",
+    "規制リスク (米 SEC + EU MiCA)",
+    "国内 CEX 不在の構造的理由",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-okcoin-japan",
+      "exchanges/jp-foreign-exchange-bitget",
+      "exchanges/jp-foreign-exchange-bybit",
+      "exchanges/jp-foreign-exchange-kucoin",
+      "exchanges/jp-foreign-exchange-mexc",
+      "exchanges/jvcea-whitelist-token-listing",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "exchanges/ve33-governance-mechanism",
+      "fintech/portfolio-winner-structure-arm-analog"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-okcoin-japan",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
+      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2603,
+    "word_like_tokens": 447,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

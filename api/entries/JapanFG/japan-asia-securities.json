@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/japan-asia-securities",
+  "source_path": "JapanFG/japan-asia-securities.md",
+  "url": "https://finwiki.zksc.io/JapanFG/japan-asia-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/japan-asia-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/japan-asia-securities.md",
+  "domain": "JapanFG",
+  "title": "日本アジア証券 (Japan Asia Securities)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本アジア証券 (Japan Asia Securities)",
+    "aliases": [
+      "Japan Asia Securities",
+      "日本アジア証券",
+      "日本アジア証券株式会社",
+      "Japan Asia Securities Co., Ltd.",
+      "日アジ"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "independent",
+      "mid-cap",
+      "FIEA-type-1",
+      "asia"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.jsda.or.jp/about/kaiin/list.html",
+      "https://www.jsda.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アイザワ証券 / 岩井コスモ証券 for peer mid-cap independent securities with Asian-emerging focus, 丸三証券 for old-line independent broker context, and securities index for the broader market-structure boundary.",
+  "headings": [
+    "日本アジア証券 (Japan Asia Securities)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・基本情報",
+    "2. ライセンス・登録",
+    "3. 業務セグメント（中小独立証券一般形態）",
+    "4. 競合・業界ポジション（中小独立証券セグメント）",
+    "5. 業界構造的論点",
+    "6. 業界再編・戦略選択肢",
+    "7. 関連規制・参照"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aizawa-securities",
+      "JapanFG/aizawa-sg",
+      "JapanFG/iwai-cosmo-hd",
+      "JapanFG/iwai-cosmo-securities",
+      "JapanFG/marusan-securities",
+      "JapanFG/matsui-sec",
+      "JapanFG/monex-group",
+      "JapanFG/okasan-sg",
+      "JapanFG/tokai-tokyo-fh",
+      "JapanFG/tokai-tokyo-securities",
+      "securities/INDEX",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aizawa-securities",
+      "https://finwiki.zksc.io/JapanFG/aizawa-sg",
+      "https://finwiki.zksc.io/JapanFG/iwai-cosmo-hd",
+      "https://finwiki.zksc.io/JapanFG/iwai-cosmo-securities",
+      "https://finwiki.zksc.io/JapanFG/marusan-securities",
+      "https://finwiki.zksc.io/JapanFG/matsui-sec",
+      "https://finwiki.zksc.io/JapanFG/monex-group",
+      "https://finwiki.zksc.io/JapanFG/okasan-sg",
+      "https://finwiki.zksc.io/JapanFG/tokai-tokyo-fh",
+      "https://finwiki.zksc.io/JapanFG/tokai-tokyo-securities",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3652,
+    "word_like_tokens": 485,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

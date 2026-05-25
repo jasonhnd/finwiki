@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/larry-fink-blackrock-digital-asset-template",
+  "source_path": "business/larry-fink-blackrock-digital-asset-template.md",
+  "url": "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/larry-fink-blackrock-digital-asset-template.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/larry-fink-blackrock-digital-asset-template.md",
+  "domain": "business",
+  "title": "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力(Larry Fink / BlackRock)",
+    "aliases": [
+      "larry-fink-blackrock-digital-asset",
+      "blackrock-three-vector-template",
+      "etf-rwa-political-triangle"
+    ],
+    "domain": "business",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "people",
+      "blackrock",
+      "etf",
+      "rwa",
+      "tokenization",
+      "template",
+      "larry-fink"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "business/INDEX",
+      "business/christine-moy-talent-signal-jpm-apollo",
+      "business/hester-peirce-sec-regulatory-pivot-case",
+      "business/jamie-dimon-anti-crypto-pivot-case",
+      "business/matt-huang-triple-role-coi-template",
+      "business/paolo-ardoino-tether-business-model-template",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
+      "https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case",
+      "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case",
+      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
+      "https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2660,
+    "word_like_tokens": 443,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-05-25"
+  }
+}

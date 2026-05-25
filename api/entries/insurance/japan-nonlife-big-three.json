@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/japan-nonlife-big-three",
+  "source_path": "insurance/japan-nonlife-big-three.md",
+  "url": "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/japan-nonlife-big-three.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/japan-nonlife-big-three.md",
+  "domain": "insurance",
+  "title": "Japan non-life big three",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan non-life big three",
+    "aliases": [
+      "Japan non-life big three",
+      "Japan P&C big three",
+      "日本 損保 big three"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "non-life",
+      "P&C",
+      "japan",
+      "catastrophe-risk",
+      "solvency"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyo.html?guid=ON",
+      "https://www.tokiomarinehd.com/en/ir/download/annual_report.html",
+      "https://www.ms-ad-hd.com/en/ir/library/disclosure.html",
+      "https://www.sompo-hd.com/en/ir/data/annual/",
+      "https://www.sonpo.or.jp/about/gaiyo/",
+      "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
+    ]
+  },
+  "summary": "Japan's non-life \"big three\" is a holding-company grouping for Tokio Marine, MS&AD, and Sompo. The operating-company layer includes Tokio Marine & Nichido Fire, Mitsui Sumitomo Insurance, Aioi Nissay Dowa Insurance, and Sompo Japan Insurance.",
+  "headings": [
+    "Japan non-life big three",
+    "Overview",
+    "Holding-Company Map",
+    "What To Compare",
+    "Natural-Catastrophe Lens",
+    "Domestic Operating Structure",
+    "Governance / Channel Risk",
+    "Source Fields",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/aioi-nissay-dowa-insurance",
+      "JapanFG/japan-earthquake-reinsurance",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/mitsui-sumitomo-insurance",
+      "JapanFG/msad",
+      "JapanFG/sompo",
+      "JapanFG/sompo-japan-insurance",
+      "JapanFG/tokio-marine",
+      "JapanFG/tokio-marine-nichido-fire",
+      "insurance/INDEX",
+      "insurance/earthquake-insurance-public-private-scheme",
+      "insurance/economic-value-based-solvency",
+      "insurance/insurance-agency-and-brokerage-japan",
+      "insurance/natcat-reinsurance-japan",
+      "insurance/saison-automobile-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance",
+      "https://finwiki.zksc.io/JapanFG/japan-earthquake-reinsurance",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/sompo-japan-insurance",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine-nichido-fire",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6344,
+    "word_like_tokens": 934,
+    "inbound_wikilinks_count": 27,
+    "last_modified": "2026-05-22"
+  }
+}

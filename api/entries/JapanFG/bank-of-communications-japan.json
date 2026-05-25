@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/bank-of-communications-japan",
+  "source_path": "JapanFG/bank-of-communications-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/bank-of-communications-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/bank-of-communications-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/bank-of-communications-japan.md",
+  "domain": "JapanFG",
+  "title": "交通銀行東京支店 (Bank of Communications Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "交通銀行東京支店 (Bank of Communications Japan)",
+    "aliases": [
+      "Bank of Communications Japan",
+      "Bank of Communications Tokyo Branch",
+      "交通銀行東京支店",
+      "交通銀行 日本"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "China",
+      "corporate-banking",
+      "trade-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",
+      "https://www.jp.bankcomm.com/",
+      "https://www.bankcomm.com/BankCommSite/shtml/jyjr/en/2600212/list.shtml",
+      "https://www.ibajapan.org/who-we-are/our-members/commercial-bank/bank-communications-co-ltd-tokyo-branch"
+    ]
+  },
+  "summary": "This page upgrades the Bank of Communications row in foreign-bank branch registry into a China-Japan corporate banking route. Read it with Bank of China Japan, ICBC Japan, China Construction Bank Japan, and Agricultural Bank of China Japan.",
+  "headings": [
+    "交通銀行東京支店 (Bank of Communications Japan)",
+    "Wiki route",
+    "Overview",
+    "China-Japan Corridor Role",
+    "Mainland China Bank Peer Map",
+    "Registry / License Boundary",
+    "Research Checklist",
+    "Caveats",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/agricultural-bank-of-china-japan",
+      "JapanFG/bank-of-china-japan",
+      "JapanFG/bank-of-communications-japan",
+      "JapanFG/china-construction-bank-japan",
+      "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/icbc-japan",
+      "JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "payments/INDEX",
+      "payments/account-to-account-payment-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/agricultural-bank-of-china-japan",
+      "https://finwiki.zksc.io/JapanFG/bank-of-china-japan",
+      "https://finwiki.zksc.io/JapanFG/bank-of-communications-japan",
+      "https://finwiki.zksc.io/JapanFG/china-construction-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/icbc-japan",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4984,
+    "word_like_tokens": 791,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-22"
+  }
+}

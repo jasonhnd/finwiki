@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/life-insurance-channel-mix",
+  "source_path": "insurance/life-insurance-channel-mix.md",
+  "url": "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/life-insurance-channel-mix.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/life-insurance-channel-mix.md",
+  "domain": "insurance",
+  "title": "Life insurance channel mix",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Life insurance channel mix",
+    "aliases": [
+      "life-insurance-channel-mix",
+      "生命保険チャネルミックス",
+      "life-insurance distribution channels"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "life-insurance",
+      "distribution",
+      "channel-strategy"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.seiho.or.jp/member/list/index.html",
+      "https://www.seiho.or.jp/about/outline/",
+      "https://ir.lifenet-seimei.co.jp/ja/ir/midtermplan/strategies_by_business.html",
+      "https://www.fsa.go.jp/common/law/guide/ins/"
+    ]
+  },
+  "summary": "This entry sits under insurance index. Read it against Internet life insurance business model for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "headings": [
+    "Life insurance channel mix",
+    "Wiki route",
+    "TL;DR",
+    "Channel Map",
+    "JapanFG Patterns",
+    "Why It Matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/lifenet",
+      "JapanFG/nippon-life",
+      "JapanFG/orix-life",
+      "JapanFG/sony-fg",
+      "JapanFG/sumitomo-life",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/internet-life-insurance-business-model",
+      "insurance/mutual-vs-stock-life-insurer"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/lifenet",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/JapanFG/orix-life",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3644,
+    "word_like_tokens": 525,
+    "inbound_wikilinks_count": 38,
+    "last_modified": "2026-05-21"
+  }
+}

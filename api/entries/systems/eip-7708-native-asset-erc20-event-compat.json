@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/eip-7708-native-asset-erc20-event-compat",
+  "source_path": "systems/eip-7708-native-asset-erc20-event-compat.md",
+  "url": "https://finwiki.zksc.io/systems/eip-7708-native-asset-erc20-event-compat",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/eip-7708-native-asset-erc20-event-compat.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/eip-7708-native-asset-erc20-event-compat.md",
+  "domain": "systems",
+  "title": "EIP-7708 native asset → ERC-20 event 索引兼容",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "EIP-7708 native asset → ERC-20 event 索引兼容",
+    "aliases": [
+      "EIP-7708",
+      "native asset ERC20 transfer event",
+      "Arc USDC native compat",
+      "indexer compat native asset"
+    ],
+    "domain": "systems",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "eip",
+      "ethereum",
+      "erc20",
+      "indexer",
+      "arc",
+      "usdc",
+      "evm-compat"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against CCTP V2 概览 · Circle USDC 跨链 burn-and-mint for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "EIP-7708 native asset → ERC-20 event 索引兼容",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/stablecoin-chain-token-strategy-trilemma",
+      "systems/INDEX",
+      "systems/cctp-v2-overview",
+      "systems/multi-proof-aggregation-fault-prover",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 948,
+    "word_like_tokens": 157,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-21"
+  }
+}

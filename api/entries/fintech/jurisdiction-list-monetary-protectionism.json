@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/jurisdiction-list-monetary-protectionism",
+  "source_path": "fintech/jurisdiction-list-monetary-protectionism.md",
+  "url": "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jurisdiction-list-monetary-protectionism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jurisdiction-list-monetary-protectionism.md",
+  "domain": "fintech",
+  "title": "司法管辖区清单作为货币保护主义工具",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "司法管辖区清单 —— 货币保护主义的新形态",
+    "aliases": [
+      "§501(d)",
+      "jurisdiction list",
+      "互操作清单",
+      "monetary protectionism"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "regulation",
+      "geopolitics",
+      "GENIUS-Act"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
+      "https://home.treasury.gov/news/press-releases",
+      "https://www.federalreserve.gov/aboutthefed/section-13.htm",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
+      "https://www.fsa.go.jp/en/policy/sftl/index.html"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构（MRA 互认） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "司法管辖区清单作为货币保护主义工具",
+    "Wiki route",
+    "法律机制",
+    "第一波入榜预测",
+    "入榜的连锁反应",
+    "对司法管辖区",
+    "对合规 SC 发行人",
+    "对未入榜",
+    "货币保护主义的历史先例",
+    "应用 / 转用"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/jpyc",
+      "JapanFG/progmat",
+      "central-banking-function-unbundling",
+      "fintech/INDEX",
+      "fintech/fatf-travel-rule-cross-border-stack",
+      "fintech/japan-epi-four-camps-comparison",
+      "fintech/japan-financial-regulation",
+      "fintech/three-circles-stablecoin-mra-framework",
+      "genius-act-501-denylist-mandate",
+      "occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jpyc",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack",
+      "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2820,
+    "word_like_tokens": 483,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/dag-bft-vs-chain-bft-architecture",
+  "source_path": "systems/dag-bft-vs-chain-bft-architecture.md",
+  "url": "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/dag-bft-vs-chain-bft-architecture.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/dag-bft-vs-chain-bft-architecture.md",
+  "domain": "systems",
+  "title": "DAG-BFT vs Chain-BFT 架构本质分歧",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "DAG-BFT vs Chain-BFT 架构本质分歧（mempool 抽象之争）",
+    "aliases": [
+      "DAG BFT",
+      "chain BFT",
+      "mempool abstraction",
+      "Bullshark Narwhal"
+    ],
+    "domain": "systems",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "blockchain",
+      "BFT",
+      "consensus",
+      "mempool",
+      "architecture"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and 智能合约 bytecode forensic — 三层 verify 技术 for the broader system boundary.",
+  "headings": [
+    "DAG-BFT vs Chain-BFT 架构本质分歧",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-dex-major-five-comparison",
+      "fintech/INDEX",
+      "fintech/protocol-renewal-trigger-as-event-anchor",
+      "security/bytecode-forensic-three-tier-verify",
+      "systems/INDEX",
+      "systems/post-quantum-blockchain-day1-integration",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2618,
+    "word_like_tokens": 428,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

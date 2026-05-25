@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/fsa-foreign-exchange-warning-system",
+  "source_path": "exchanges/fsa-foreign-exchange-warning-system.md",
+  "url": "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/fsa-foreign-exchange-warning-system.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/fsa-foreign-exchange-warning-system.md",
+  "domain": "exchanges",
+  "title": "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+    "aliases": [
+      "FSA warning letter system",
+      "海外無登録 警告書",
+      "改正資金決済法 域外適用"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "regulation",
+      "fsa",
+      "foreign-exchange",
+      "warning-letter"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+    "Wiki route",
+    "制度概要",
+    "警告書発出履歴 (主要 8 事業者)",
+    "警告事業者の対応パターン (3 種)",
+    "撤退",
+    "法人化 (唯一の正規化路径)",
+    "継続稼働 (警告無視)",
+    "App Store 削除要請の意義",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-foreign-exchange-binance-holdings-legacy",
+      "exchanges/jp-foreign-exchange-bitcastle",
+      "exchanges/jp-foreign-exchange-bitforex",
+      "exchanges/jp-foreign-exchange-bitget",
+      "exchanges/jp-foreign-exchange-bybit",
+      "exchanges/jp-foreign-exchange-kucoin",
+      "exchanges/jp-foreign-exchange-lbank",
+      "exchanges/jp-foreign-exchange-mexc",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-binance-holdings-legacy",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitcastle",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitforex",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-lbank",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3076,
+    "word_like_tokens": 434,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-05-25"
+  }
+}

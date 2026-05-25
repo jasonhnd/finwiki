@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sony-fg",
+  "source_path": "JapanFG/sony-fg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sony-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sony-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sony-fg.md",
+  "domain": "JapanFG",
+  "title": "ソニーフィナンシャルグループ (Sony FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ソニーフィナンシャルグループ (Sony FG)",
+    "aliases": [
+      "Sony Financial Group",
+      "ソニーフィナンシャル G",
+      "SFG",
+      "旧 ソニーフィナンシャルホールディングス",
+      "SFH",
+      "Sony Financial Holdings"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "mfg-financial",
+      "sony"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ソニーフィナンシャルグループ / ソニーフィナンシャルホールディングス (2026-05-19 抽出)",
+      "ソニーグループ 2024-05 経営方針説明会 (金融事業分離・パーシャルスピンオフ発表資料)",
+      "ソニー生命 / ソニー損保 / ソニー銀行 公式沿革"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ソニー生命保険 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ソニーフィナンシャルグループ (Sony FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・グループ構造（再上場後想定）",
+    "主要株主（再上場後の想定構造）",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "B2C ブランド戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/sbi-shinsei-bank",
+      "JapanFG/sony-life",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/minna-bank-baas-model",
+      "banking/rakuten-bank",
+      "insurance/saison-automobile-fire",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/JapanFG/sony-life",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5278,
+    "word_like_tokens": 695,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-05-21"
+  }
+}

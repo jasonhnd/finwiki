@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/boj-payment-settlement-dept",
+  "source_path": "JapanFG/boj-payment-settlement-dept.md",
+  "url": "https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/boj-payment-settlement-dept.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/boj-payment-settlement-dept.md",
+  "domain": "JapanFG",
+  "title": "決済機構局 (BoJ Payment and Settlement Systems Department)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "決済機構局 (BoJ Payment and Settlement Systems Department)",
+    "aliases": [
+      "JapanFG/boj-payment-settlement-dept",
+      "boj-payment-settlement-dept",
+      "BoJ Payment and Settlement Systems Department",
+      "Payment and Settlement Systems Department",
+      "決済機構局",
+      "BoJ PSSD"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "central-bank",
+      "internal-bureau",
+      "BoJ",
+      "payment",
+      "settlement",
+      "BOJ-NET",
+      "FMI"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/about/organization/index.htm",
+      "https://www.boj.or.jp/en/paym/bojnet/index.htm",
+      "https://www.boj.or.jp/en/paym/outline/index.htm",
+      "https://www.boj.or.jp/en/paym/release/index.htm",
+      "https://www.boj.or.jp/en/about/publication/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 金融市場局 for the BoJ market-operations counterpart and 金融機構局 for the prudential-side bureau. For the broader settlement system, anchor through banking landscape and BoJ monetary policy.",
+  "headings": [
+    "決済機構局 (BoJ Payment and Settlement Systems Department)",
+    "Wiki route",
+    "TL;DR",
+    "1. Function / scope",
+    "2. Counterparty / interaction",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-financial-markets-dept",
+      "JapanFG/boj-financial-system-dept",
+      "JapanFG/boj-international-dept",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/central-tanshi",
+      "JapanFG/fsa-supervision-bureau",
+      "JapanFG/tokyo-tanshi",
+      "JapanFG/ueda-yagi-tanshi",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/quick-deposit-four-methods",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept",
+      "https://finwiki.zksc.io/JapanFG/boj-financial-system-dept",
+      "https://finwiki.zksc.io/JapanFG/boj-international-dept",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/central-tanshi",
+      "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
+      "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5591,
+    "word_like_tokens": 926,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-24"
+  }
+}

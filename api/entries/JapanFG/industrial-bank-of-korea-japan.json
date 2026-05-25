@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/industrial-bank-of-korea-japan",
+  "source_path": "JapanFG/industrial-bank-of-korea-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/industrial-bank-of-korea-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/industrial-bank-of-korea-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/industrial-bank-of-korea-japan.md",
+  "domain": "JapanFG",
+  "title": "中小企業銀行 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "中小企業銀行 東京支店",
+    "aliases": [
+      "Industrial Bank of Korea Japan",
+      "IBK Tokyo Branch",
+      "Industrial Bank of Korea Tokyo Branch",
+      "IBK企業銀行 東京支店",
+      "中小企業銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "korea",
+      "sme-finance",
+      "asia-corridor",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://global.ibk.co.kr/en/",
+      "https://www.zenginkyo.or.jp/bankdb/bc0498/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "中小企業銀行 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "hana-bank-japan",
+      "kb-kookmin-bank-japan",
+      "korea-development-bank-japan",
+      "sbj-bank",
+      "woori-bank-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/hana-bank-japan",
+      "https://finwiki.zksc.io/kb-kookmin-bank-japan",
+      "https://finwiki.zksc.io/korea-development-bank-japan",
+      "https://finwiki.zksc.io/sbj-bank",
+      "https://finwiki.zksc.io/woori-bank-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2122,
+    "word_like_tokens": 360,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

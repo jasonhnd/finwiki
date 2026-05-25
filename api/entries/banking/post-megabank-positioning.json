@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/post-megabank-positioning",
+  "source_path": "banking/post-megabank-positioning.md",
+  "url": "https://finwiki.zksc.io/banking/post-megabank-positioning",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/post-megabank-positioning.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/post-megabank-positioning.md",
+  "domain": "banking",
+  "title": "Post-megabank positioning",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Post-megabank positioning",
+    "aliases": [
+      "banking/post-megabank-positioning",
+      "post-megabank-positioning",
+      "post megabank positioning"
+    ],
+    "domain": "banking",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "JapanFG",
+      "megabank",
+      "regional-bank",
+      "strategy"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
+      "https://www.fsa.go.jp/common/law/guide/city/index.html",
+      "https://www.fsa.go.jp/common/law/guide/city/05.html",
+      "https://www.fsa.go.jp/common/law/guide/city/07.html"
+    ]
+  },
+  "summary": "Post-megabank positioning describes banks and bank groups that sit below the three Japanese megabanks but above narrow local or fintech niches. They often compete by specializing in retail banking, regional concentration, trust / custody, platform banking, consumer finance, or local corporate relati",
+  "headings": [
+    "Post-megabank positioning",
+    "TL;DR",
+    "Positioning Map",
+    "Why The Category Matters",
+    "Regulatory / Supervisory Context",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/chiba-bank",
+      "JapanFG/concordia-fg",
+      "JapanFG/fukuoka-fg",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/resona-hd",
+      "JapanFG/sbi-shinsei-bank",
+      "JapanFG/smfg",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/baas-japan-landscape",
+      "banking/cooperative-banking-japan",
+      "banking/foreign-bank-japan-retreat",
+      "banking/paypay-bank",
+      "banking/rakuten-bank",
+      "banking/regional-bank-consolidation-pattern"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/chiba-bank",
+      "https://finwiki.zksc.io/JapanFG/concordia-fg",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/resona-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3166,
+    "word_like_tokens": 477,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-05-20"
+  }
+}

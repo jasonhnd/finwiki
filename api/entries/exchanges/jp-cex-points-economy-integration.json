@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-cex-points-economy-integration",
+  "source_path": "exchanges/jp-cex-points-economy-integration.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-cex-points-economy-integration",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-cex-points-economy-integration.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-cex-points-economy-integration.md",
+  "domain": "exchanges",
+  "title": "国内 CEX × ポイントエコノミー統合モデル",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 CEX × ポイントエコノミー統合モデル",
+    "aliases": [
+      "JP CEX points economy",
+      "楽天/メルカリ ポイント連携 CEX",
+      "国内 CEX ロイヤルティ統合"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "points-economy",
+      "loyalty",
+      "business-model"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://wallet.rakuten.co.jp/",
+      "https://www.mercoin.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 CEX 販売所 vs 取引所 ビジネスモデル経済学 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内 CEX × ポイントエコノミー統合モデル",
+    "Wiki route",
+    "概要",
+    "主要連携モデル 4 種",
+    "ビジネスモデル分析",
+    "海外比較",
+    "戦略含意"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/monex-group",
+      "JapanFG/rakuten-fg",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "exchanges/jp-cex-sales-vs-exchange-model-economics",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-line-xenesis",
+      "exchanges/jp-exchange-mercoin",
+      "exchanges/jp-exchange-rakuten-wallet",
+      "exchanges/jp-vasp-parent-company-map",
+      "fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/monex-group",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2133,
+    "word_like_tokens": 328,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

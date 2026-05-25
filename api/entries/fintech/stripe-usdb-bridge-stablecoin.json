@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/stripe-usdb-bridge-stablecoin",
+  "source_path": "fintech/stripe-usdb-bridge-stablecoin.md",
+  "url": "https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stripe-usdb-bridge-stablecoin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stripe-usdb-bridge-stablecoin.md",
+  "domain": "fintech",
+  "title": "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+    "aliases": [
+      "stripe-usdb-bridge-stablecoin",
+      "USDB",
+      "Stripe Bridge",
+      "Bridge USDB",
+      "Stripe stablecoin"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "stripe",
+      "bridge",
+      "usdb",
+      "tempo",
+      "agent-payment",
+      "vertical-integration"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://stripe.com/",
+      "https://stripe.com/newsroom/news/stripe-acquires-bridge",
+      "https://www.bridge.xyz/",
+      "https://tempo.xyz/",
+      "https://stripe.com/use-cases/stablecoins",
+      "https://stripe.com/newsroom/news/usdb",
+      "https://www.paradigm.xyz/2025/09/announcing-tempo"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with Circle USDC and PayPal PYUSD for the payment-company-branded stablecoin trio, and with Stripe 五层 Trojan Horse for the L3 position of USDB in Stripe's vertical stack.",
+  "headings": [
+    "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ap2-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/privy-embedded-wallet-overview",
+      "agent-economy/visa-mastercard-agentic-commerce-pilots",
+      "agent-economy/x402-http-payment-overview",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/embedded-wallet-fintech-disintermediation-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/protocol-hedge-strategy-stripe-pattern",
+      "fintech/ripple-rlusd-stablecoin",
+      "systems/bft-validator-economy-overview",
+      "systems/canton-overview",
+      "systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5655,
+    "word_like_tokens": 994,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

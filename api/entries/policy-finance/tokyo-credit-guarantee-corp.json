@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/tokyo-credit-guarantee-corp",
+  "source_path": "policy-finance/tokyo-credit-guarantee-corp.md",
+  "url": "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/tokyo-credit-guarantee-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/tokyo-credit-guarantee-corp.md",
+  "domain": "policy-finance",
+  "title": "Tokyo Credit Guarantee Corporation",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Tokyo Credit Guarantee Corporation",
+    "aliases": [
+      "Tokyo Credit Guarantee Corporation",
+      "Tokyo CGC",
+      "東京信用保証協会",
+      "policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "credit-guarantee",
+      "sme-finance",
+      "public-credit",
+      "tokyo",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.cgc-tokyo.or.jp/",
+      "https://www.cgc-tokyo.or.jp/profile/index.html",
+      "https://www.zenshinhoren.or.jp/"
+    ]
+  },
+  "summary": "Tokyo Credit Guarantee Corporation (東京信用保証協会) is the Tokyo-metropolis member of Japan's 51-corporation local credit guarantee system. It is consistently the largest single corporation in the federation by guarantee balance, eligible-borrower count, and policy-program scale, because the Tokyo metropo",
+  "headings": [
+    "Tokyo Credit Guarantee Corporation",
+    "TL;DR",
+    "1. Institutional boundary",
+    "2. Function map",
+    "3. Why it matters",
+    "4. System anchoring",
+    "5. Boundary cases",
+    "6. Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jfc",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "banking/credit-cooperative-registry-japan",
+      "banking/shinkin-bank-registry-japan",
+      "policy-finance/INDEX",
+      "policy-finance/agriculture-credit-guarantee-system",
+      "policy-finance/fisheries-credit-guarantee-system",
+      "policy-finance/japan-credit-guarantee-system",
+      "policy-finance/japan-housing-finance-agency",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/japan-project-finance-stack-diagram",
+      "policy-finance/national-federation-credit-guarantee-corporations",
+      "policy-finance/nexi",
+      "policy-finance/osaka-credit-guarantee-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6390,
+    "word_like_tokens": 961,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

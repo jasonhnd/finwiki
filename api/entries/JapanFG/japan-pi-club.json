@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/japan-pi-club",
+  "source_path": "JapanFG/japan-pi-club.md",
+  "url": "https://finwiki.zksc.io/JapanFG/japan-pi-club",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/japan-pi-club.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/japan-pi-club.md",
+  "domain": "JapanFG",
+  "title": "日本船主責任相互保険組合",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本船主責任相互保険組合",
+    "aliases": [
+      "Japan P&I Club",
+      "日本 P&I クラブ",
+      "JPI",
+      "Japan P and I Club",
+      "Nihon Senshu Sekinin Sogo Hoken Kumiai",
+      "船主責任相互保険組合"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "p-and-i",
+      "marine-insurance",
+      "mutual",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.piclub.or.jp/",
+      "https://www.igpandi.org/clubs",
+      "https://www.fsa.go.jp/menkyo/hoken.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against トーア再保険 for a reinsurance peer (both sit outside the FSA non-life direct primary register) and 日本海事協会 (ClassNK) for the closest marine-industry sibling. The broader system frame is insurance index and the global P&I context is the International Gro",
+  "headings": [
+    "日本船主責任相互保険組合",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/nippon-kaiji-kyokai",
+      "JapanFG/toa-reinsurance",
+      "insurance/INDEX",
+      "mitsui-osk-lines",
+      "mitsui-sumitomo-insurance",
+      "nippon-kaiji-kyokai",
+      "nippon-yusen",
+      "sompo-japan-insurance",
+      "toa-reinsurance",
+      "tokio-marine-nichido-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nippon-kaiji-kyokai",
+      "https://finwiki.zksc.io/JapanFG/toa-reinsurance",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/mitsui-osk-lines",
+      "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/nippon-kaiji-kyokai",
+      "https://finwiki.zksc.io/nippon-yusen",
+      "https://finwiki.zksc.io/sompo-japan-insurance",
+      "https://finwiki.zksc.io/toa-reinsurance",
+      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3098,
+    "word_like_tokens": 485,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

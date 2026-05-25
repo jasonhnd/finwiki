@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/american-express-international-japan",
+  "source_path": "JapanFG/american-express-international-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/american-express-international-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/american-express-international-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/american-express-international-japan.md",
+  "domain": "JapanFG",
+  "title": "アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)",
+    "aliases": [
+      "American Express Japan",
+      "Amex Japan",
+      "アメリカン・エキスプレス",
+      "アメックス",
+      "American Express International",
+      "Inc."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "card-brand",
+      "payments",
+      "amex",
+      "3-party-scheme",
+      "direct-issuer"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.americanexpress.com/jp/",
+      "https://www.americanexpress.com/jp/company/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against JCB for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
+  "headings": [
+    "アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines in Japan",
+    "3. Strategy & competitive position vs JCB / domestic schemes",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aplus",
+      "JapanFG/diners-club-japan",
+      "JapanFG/jcb",
+      "JapanFG/mastercard-japan",
+      "JapanFG/mufg-nicos",
+      "JapanFG/smbc-card",
+      "JapanFG/unionpay-international-japan",
+      "JapanFG/visa-worldwide-japan",
+      "payments/japan-card-issuer-acquirer-processor-split",
+      "payments/japan-interchange-and-merchant-fee-stack"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aplus",
+      "https://finwiki.zksc.io/JapanFG/diners-club-japan",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/mastercard-japan",
+      "https://finwiki.zksc.io/JapanFG/mufg-nicos",
+      "https://finwiki.zksc.io/JapanFG/smbc-card",
+      "https://finwiki.zksc.io/JapanFG/unionpay-international-japan",
+      "https://finwiki.zksc.io/JapanFG/visa-worldwide-japan",
+      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+      "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3722,
+    "word_like_tokens": 529,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

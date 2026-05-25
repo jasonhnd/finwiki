@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/rbc-japan",
+  "source_path": "JapanFG/rbc-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/rbc-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rbc-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/rbc-japan.md",
+  "domain": "JapanFG",
+  "title": "カナダロイヤル銀行 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "カナダロイヤル銀行 東京支店",
+    "aliases": [
+      "RBC Japan",
+      "Royal Bank of Canada Tokyo Branch",
+      "Royal Bank of Canada Japan",
+      "カナダロイヤル銀行",
+      "RBC Capital Markets Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "canada",
+      "wholesale-banking",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.rbccm.com/jp/japan/company-profile.page",
+      "https://www.rbccm.com/en/legal/legal-terms-of-use"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "カナダロイヤル銀行 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/bny-mellon-japan",
+      "JapanFG/credit-agricole-bank-japan",
+      "JapanFG/state-street-japan",
+      "JapanFG/wells-fargo-japan",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bny-mellon-japan",
+      "https://finwiki.zksc.io/JapanFG/credit-agricole-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/state-street-japan",
+      "https://finwiki.zksc.io/JapanFG/wells-fargo-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2554,
+    "word_like_tokens": 409,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

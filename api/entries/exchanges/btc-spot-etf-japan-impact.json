@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/btc-spot-etf-japan-impact",
+  "source_path": "exchanges/btc-spot-etf-japan-impact.md",
+  "url": "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/btc-spot-etf-japan-impact.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/btc-spot-etf-japan-impact.md",
+  "domain": "exchanges",
+  "title": "Bitcoin spot ETF 米承認の国内 CEX 影響 (2024-01〜)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Bitcoin spot ETF 米承認の国内 CEX 影響 (2024-01〜)",
+    "aliases": [
+      "BTC spot ETF impact Japan",
+      "国内暗号資産取引所 ETF 影響",
+      "BlackRock IBIT 日本影響"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "btc-etf",
+      "institutional",
+      "market-structure",
+      "fund-flow"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.sec.gov/",
+      "https://www.fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "Bitcoin spot ETF 米承認の国内 CEX 影響 (2024-01〜)",
+    "Wiki route",
+    "1. 概要",
+    "2. 数字 (2024-2026)",
+    "3. 国内 CEX への 3 経路影響",
+    "4. 日本 ETF 解禁の制度的障壁",
+    "5. 投資家含意",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-prime-brokerage-layer",
+      "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/rwa-tokenization-cex-integration",
+      "global-institutional-custody-five-pillars",
+      "jp-cex-sales-vs-exchange-model-economics",
+      "jp-listed-cex-related-companies-matrix",
+      "jp-vasp-regulatory-timeline",
+      "jvcea-spot-volume-statistics-analysis"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
+      "https://finwiki.zksc.io/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/jp-cex-sales-vs-exchange-model-economics",
+      "https://finwiki.zksc.io/jp-listed-cex-related-companies-matrix",
+      "https://finwiki.zksc.io/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/jvcea-spot-volume-statistics-analysis"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2639,
+    "word_like_tokens": 454,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

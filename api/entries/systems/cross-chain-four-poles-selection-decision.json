@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/cross-chain-four-poles-selection-decision",
+  "source_path": "systems/cross-chain-four-poles-selection-decision.md",
+  "url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-four-poles-selection-decision.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-four-poles-selection-decision.md",
+  "domain": "systems",
+  "title": "跨链选型决策树 · 按主角维度匹配协议",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "跨链选型决策树 · 按主角维度匹配协议",
+    "aliases": [
+      "cross chain four poles selection decision",
+      "bridge protocol selection by protagonist",
+      "cross-chain decision tree"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "bridge",
+      "decision-framework",
+      "layerzero",
+      "ccip",
+      "hyperlane",
+      "cctp"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "跨链选型决策树 · 按主角维度匹配协议",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "fintech/INDEX",
+      "fintech/ai-payment-two-tracks",
+      "fintech/stablecoin-chain-token-strategy-trilemma",
+      "fintech/usd-stablecoin-interchange",
+      "systems/INDEX",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-ccip-institutional",
+      "systems/cross-chain-four-poles-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2515,
+    "word_like_tokens": 412,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

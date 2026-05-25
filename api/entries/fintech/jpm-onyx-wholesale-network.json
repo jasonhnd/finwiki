@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/jpm-onyx-wholesale-network",
+  "source_path": "fintech/jpm-onyx-wholesale-network.md",
+  "url": "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jpm-onyx-wholesale-network.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jpm-onyx-wholesale-network.md",
+  "domain": "fintech",
+  "title": "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+    "aliases": [
+      "jpm-onyx-wholesale-network",
+      "JPM Onyx",
+      "Onyx by JP Morgan",
+      "Kinexys wholesale",
+      "Liink",
+      "Onyx Digital Assets",
+      "JPM Coin"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "wholesale-settlement",
+      "jpmorgan",
+      "kinexys",
+      "onyx",
+      "liink",
+      "jpm-coin",
+      "tokenized-deposit",
+      "single-bank-network"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpmorgan.com/kinexys",
+      "https://www.jpmorgan.com/onyx",
+      "https://www.jpmorgan.com/kinexys/news",
+      "https://www.jpmorgan.com/insights/payments/kinexys",
+      "https://www.theblock.co/post/jpmorgan-onyx-kinexys-rebrand"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with JPMorgan JPMD for the retail-deposit-token sibling product, and with Fnality / Partior for the multi-bank consortium contrast that Onyx-Kinexys deliberately rejects.",
+  "headings": [
+    "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/fnality-wholesale-settlement",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/multi-megabank-consortium-governance",
+      "fintech/partior-jpm-dbs-temasek-consortium",
+      "fintech/tokenized-deposit-cumulative-volume-scale",
+      "systems/canton-overview",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/swift-iso-20022-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium",
+      "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/swift-iso-20022-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5607,
+    "word_like_tokens": 956,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-25"
+  }
+}

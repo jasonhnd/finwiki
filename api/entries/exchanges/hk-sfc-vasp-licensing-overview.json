@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/hk-sfc-vasp-licensing-overview",
+  "source_path": "exchanges/hk-sfc-vasp-licensing-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/hk-sfc-vasp-licensing-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/hk-sfc-vasp-licensing-overview.md",
+  "domain": "exchanges",
+  "title": "香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview",
+    "aliases": [
+      "HK SFC VATP licensing",
+      "香港 VASP ライセンス",
+      "HK Type 1 + Type 7 crypto license"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "hong-kong",
+      "sfc",
+      "regulation",
+      "benchmark"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.sfc.hk/",
+      "https://apps.sfc.hk/edistributionWeb/gateway/EN/licensee-list/listing"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against EU MiCA CASP (Crypto-Asset Service Provider) regime for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview",
+    "Wiki route",
+    "制度概要",
+    "ライセンス取得状況 (2026 時点)",
+    "主要規制要件",
+    "取扱可能銘柄",
+    "国際比較"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/eu-mica-casp-regime-overview",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-exchange-osl-japan",
+      "exchanges/jp-exchange-tokyo-hash",
+      "exchanges/jvcea-whitelist-token-listing",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/hkma-stablecoin-licensing-implications",
+      "fintech/hkma-stablecoin-licensing-overview",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-tokyo-hash",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-implications",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2501,
+    "word_like_tokens": 391,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-25"
+  }
+}

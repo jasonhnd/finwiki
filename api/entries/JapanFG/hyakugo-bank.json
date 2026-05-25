@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/hyakugo-bank",
+  "source_path": "JapanFG/hyakugo-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/hyakugo-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/hyakugo-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/hyakugo-bank.md",
+  "domain": "JapanFG",
+  "title": "百五銀行 (Hyakugo Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "百五銀行 (Hyakugo Bank)",
+    "aliases": [
+      "百五",
+      "ひゃくご",
+      "The Hyakugo Bank",
+      "株式会社百五銀行",
+      "105 Bank"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社百五銀行 (2026-05-19 抽出)",
+      "百五銀行 公式コーポレートサイト 沿革・会社概要 (2026-05-19 抽出)",
+      "全国地方銀行協会 加盟行公開情報"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "百五銀行 (Hyakugo Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・関連会社",
+    "沿革（抜粋）^[extracted]",
+    "2. 业务线 map",
+    "3. 戦略と競争",
+    "地盤・競争構造",
+    "産業特性"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fukuoka-fg",
+      "banking/INDEX",
+      "hyakujushi-bank",
+      "mizuho-fg",
+      "mufg",
+      "san-jusan-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/hyakujushi-bank",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4265,
+    "word_like_tokens": 536,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-cex-prime-brokerage-layer",
+  "source_path": "exchanges/global-cex-prime-brokerage-layer.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-cex-prime-brokerage-layer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-cex-prime-brokerage-layer.md",
+  "domain": "exchanges",
+  "title": "グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland",
+    "aliases": [
+      "Crypto prime brokerage",
+      "機関向け暗号資産プライムブローカー",
+      "Hidden Road FalconX Galaxy"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "prime-brokerage",
+      "institutional",
+      "liquidity",
+      "global"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://hiddenroad.com/",
+      "https://falconx.io/",
+      "https://www.galaxy.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global institutional custody five pillars for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland",
+    "Wiki route",
+    "概要",
+    "Top 5 プレイヤー",
+    "ビジネスモデル",
+    "リスク管理",
+    "日本市場との接点",
+    "関連リンク"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/btc-spot-etf-japan-impact",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-crypto-exchange-bankruptcy-comparison",
+      "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-exchange-crypto-garage",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/rwa-tokenization-cex-integration",
+      "securities/japan-best-execution-sor-pts"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2912,
+    "word_like_tokens": 444,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

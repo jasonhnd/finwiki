@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/rakuten-group-mobile-finance-bundling-case",
+  "source_path": "business/rakuten-group-mobile-finance-bundling-case.md",
+  "url": "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/rakuten-group-mobile-finance-bundling-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/rakuten-group-mobile-finance-bundling-case.md",
+  "domain": "business",
+  "title": "Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits",
+    "aliases": [
+      "rakuten-group-mobile-finance-bundling-case",
+      "Rakuten mobile cross-subsidy",
+      "Rakuten Card Bank Securities recapitalization case",
+      "rakuten-conglomerate-finance"
+    ],
+    "domain": "business",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "rakuten",
+      "mobile",
+      "telco",
+      "cross-subsidy",
+      "recapitalization",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://corp.rakuten.co.jp/about/strategy/",
+      "https://global.rakuten.com/corp/investors/",
+      "https://network.mobile.rakuten.co.jp/en/",
+      "https://global.rakuten.com/corp/news/press/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against NTT Docomo d-Point telco-finance case for the contrast pattern where telco subsidizes finance instead of the reverse, GMO Internet Group for the internet-to-finance conglomerate parallel, and Kitao Yoshitaka SBI",
+  "headings": [
+    "Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits",
+    "Wiki route",
+    "TL;DR",
+    "1. Group Architecture",
+    "2. Mobile Cash Burn — The Cross-Subsidy Constraint",
+    "3. Finance Profit Engine",
+    "4. 2023-2025 Recapitalization Moves",
+    "5. Comparative Cross-Subsidy Patterns",
+    "6. Why The Cross-Subsidy Persists",
+    "7. Risks To The Cross-Subsidy Model"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-bank",
+      "JapanFG/rakuten-card",
+      "JapanFG/rakuten-fg",
+      "JapanFG/rakuten-securities",
+      "business/INDEX",
+      "business/gmo-internet-group",
+      "business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "business/ntt-docomo-d-point-telco-finance-case",
+      "business/softbank-vision-fund-arm-ipo-template",
+      "business/sony-fg-partial-spinoff-case",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "exchanges/fsa-vasp-registration-system",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
+      "https://finwiki.zksc.io/JapanFG/rakuten-card",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
+      "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10416,
+    "word_like_tokens": 1626,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/rwa-tokenization-cex-integration",
+  "source_path": "exchanges/rwa-tokenization-cex-integration.md",
+  "url": "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/rwa-tokenization-cex-integration.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/rwa-tokenization-cex-integration.md",
+  "domain": "exchanges",
+  "title": "RWA (Real World Asset) tokenization × CEX 取扱",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "RWA (Real World Asset) tokenization × CEX 取扱",
+    "aliases": [
+      "RWA tokenization CEX",
+      "実物資産トークン化 取引所",
+      "Ondo BUIDL Securitize Maple"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "rwa",
+      "tokenization",
+      "mmf",
+      "institutional",
+      "cex"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://ondo.finance/",
+      "https://securitize.io/",
+      "https://www.blackrock.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "RWA (Real World Asset) tokenization × CEX 取扱",
+    "Wiki route",
+    "概要",
+    "主要プレイヤー",
+    "CEX 取扱状況",
+    "CEX × RWA 統合戦略",
+    "国内 + アジア 展開",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/progmat",
+      "exchanges/INDEX",
+      "exchanges/btc-spot-etf-japan-impact",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-prime-brokerage-layer",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "exchanges/jp-cex-staking-lending-regulation",
+      "fintech/blackrock-buidl-sc-issuer-adoption",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/jp-stablecoin-progmat",
+      "payments/japan-payment-clearing-and-settlement-infrastructure",
+      "securities/japan-best-execution-sor-pts"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2469,
+    "word_like_tokens": 401,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

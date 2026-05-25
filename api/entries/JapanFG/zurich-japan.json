@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/zurich-japan",
+  "source_path": "JapanFG/zurich-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/zurich-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/zurich-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/zurich-japan.md",
+  "domain": "JapanFG",
+  "title": "チューリッヒ保険会社 (Zurich Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "チューリッヒ保険会社 (Zurich Japan)",
+    "aliases": [
+      "Zurich Japan",
+      "Zurich Insurance Japan Branch",
+      "チューリッヒ",
+      "チューリッヒ保険"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "foreign-japan-subsidiary",
+      "direct-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: チューリッヒ保険会社 (2026-05-19 参照)",
+      "Wikipedia: チューリッヒ生命保険 (2026-05-19 参照)",
+      "Wikipedia: Zurich Insurance Group (2026-05-19 参照)",
+      "Zurich Insurance Group Annual Report 2024 (公式 IR)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "チューリッヒ保険会社 (Zurich Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. グループ構造",
+    "主要法人ストラクチャ",
+    "重要历史（年表）",
+    "2. 業務ライン",
+    "3. 戦略と競争",
+    "ポジショニング",
+    "グローバルレバレッジ"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/axa-japan",
+      "axa-japan",
+      "banking/INDEX",
+      "lifenet",
+      "msad",
+      "nippon-life",
+      "prudential-japan",
+      "sbi-hd",
+      "sompo",
+      "sony-fg",
+      "tokio-marine"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/axa-japan",
+      "https://finwiki.zksc.io/axa-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/lifenet",
+      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/prudential-japan",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/sompo",
+      "https://finwiki.zksc.io/sony-fg",
+      "https://finwiki.zksc.io/tokio-marine"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5507,
+    "word_like_tokens": 677,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-21"
+  }
+}

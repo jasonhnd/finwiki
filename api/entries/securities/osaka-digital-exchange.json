@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/osaka-digital-exchange",
+  "source_path": "securities/osaka-digital-exchange.md",
+  "url": "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/osaka-digital-exchange.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/osaka-digital-exchange.md",
+  "domain": "securities",
+  "title": "大阪デジタルエクスチェンジ (ODX)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大阪デジタルエクスチェンジ (ODX)",
+    "aliases": [
+      "ODX",
+      "Osaka Digital Exchange",
+      "大阪デジタルエクスチェンジ",
+      "START"
+    ],
+    "domain": "securities",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "pts",
+      "security-token",
+      "digital-securities",
+      "market-infrastructure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.odx.co.jp/ja/",
+      "https://www.odx.co.jp/ja/company/about/",
+      "https://www.odx.co.jp/en/news/article/dd45st6kma/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+    ]
+  },
+  "summary": "This entry sits under securities index. Read it with financial instruments business operators japan index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "大阪デジタルエクスチェンジ (ODX)",
+    "Wiki route",
+    "TL;DR",
+    "System Map",
+    "Market Map",
+    "Strategic Reading",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/daiwa-sg",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/nomura-hd",
+      "JapanFG/progmat",
+      "JapanFG/sbi-hd",
+      "JapanFG/smfg",
+      "fintech/jp-stablecoin-progmat",
+      "fintech/jp-trust-type-sc-architecture",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/japannext-securities",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/japannext-securities",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3239,
+    "word_like_tokens": 475,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-05-24"
+  }
+}

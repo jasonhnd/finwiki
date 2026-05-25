@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-bitpoint-historical-deprecated",
+  "source_path": "exchanges/jp-exchange-bitpoint-historical-deprecated.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-bitpoint-historical-deprecated",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-bitpoint-historical-deprecated.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-bitpoint-historical-deprecated.md",
+  "domain": "exchanges",
+  "title": "株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）",
+    "aliases": [
+      "BITPoint Japan",
+      "BITPoint",
+      "ビットポイントジャパン",
+      "Remixpoint Crypto"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "deprecated",
+      "absorbed-by-sbi",
+      "2019-hack"
+    ],
+    "status": "deprecated",
+    "sources": [
+      "公開情報整理 (Remixpoint 株式会社 IR 開示、適時開示)",
+      "公開情報整理 (FSA 関東財務局 業務改善命令履歴, 2018-2019)",
+      "公開情報整理 (CoinPost / 仮想通貨 Watch 報道、2019-07 BITPoint ハッキング事案)",
+      "公開情報整理 (SBI VC トレード × ビットポイントジャパン合併プレスリリース 2026-01-30)",
+      "公開情報整理 (FSA 暗号資産交換業者登録一覧、令和8年4月1日 snapshot)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with SBI VC トレード株式会社（吸収合併存続会社）for the absorption context, JP VASP M&A コンソリデーション史 for industry context, and FSA 業務改善命令履歴 for regulatory action context.",
+  "headings": [
+    "株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）overview",
+    "Wiki route",
+    "1. 法人・株主（最終状態）",
+    "2. 牌照・登録状況（歴史）",
+    "3. 取扱通貨",
+    "4. 業務範囲（合併前）",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向（合併に至る経緯）",
+    "8. 関連人物（合併前最終期）"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/japan-cex-parent-fg-adjacency-matrix",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-vasp-ma-consolidation-history",
+      "exchanges/jvcea-self-regulatory-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/japan-cex-parent-fg-adjacency-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4115,
+    "word_like_tokens": 661,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

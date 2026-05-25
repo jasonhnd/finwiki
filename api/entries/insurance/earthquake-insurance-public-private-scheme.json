@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/earthquake-insurance-public-private-scheme",
+  "source_path": "insurance/earthquake-insurance-public-private-scheme.md",
+  "url": "https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/earthquake-insurance-public-private-scheme.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/earthquake-insurance-public-private-scheme.md",
+  "domain": "insurance",
+  "title": "Japan earthquake insurance public-private scheme",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan earthquake insurance public-private scheme",
+    "aliases": [
+      "earthquake insurance public-private scheme",
+      "Japan earthquake insurance scheme",
+      "地震保険 public-private scheme"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "earthquake-insurance",
+      "reinsurance",
+      "public-private",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.nihonjishin.co.jp/insurance/system.html",
+      "https://www.nihonjishin.co.jp/insurance/about.html",
+      "https://www.mof.go.jp/policy/financial_system/earthquake_insurance/index.html",
+      "https://www.sonpo.or.jp/insurance/jishin/index.html",
+      "https://www.giroj.or.jp/ratemaking/earthquake/"
+    ]
+  },
+  "summary": "Japanese household earthquake insurance is not a normal private non-life product. It is a public-private scheme involving private non-life insurers, Japan Earthquake Reinsurance, and the Japanese government. It is normally attached to household fire insurance and is designed for residential building",
+  "headings": [
+    "Japan earthquake insurance public-private scheme",
+    "Overview",
+    "Scheme Map",
+    "Product Boundary",
+    "Reinsurance Mechanics",
+    "Difference From Nat-Cat Reinsurance",
+    "Scheme Effects",
+    "Source Fields",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/japan-earthquake-reinsurance",
+      "JapanFG/msad",
+      "JapanFG/sompo",
+      "JapanFG/toa-reinsurance",
+      "JapanFG/tokio-marine",
+      "insurance/INDEX",
+      "insurance/japan-nonlife-big-three",
+      "insurance/natcat-reinsurance-japan",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/japan-earthquake-reinsurance",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/toa-reinsurance",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5857,
+    "word_like_tokens": 851,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-22"
+  }
+}

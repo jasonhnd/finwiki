@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/aichi-shogin-shinkumi",
+  "source_path": "JapanFG/aichi-shogin-shinkumi.md",
+  "url": "https://finwiki.zksc.io/JapanFG/aichi-shogin-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aichi-shogin-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/aichi-shogin-shinkumi.md",
+  "domain": "JapanFG",
+  "title": "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)",
+    "aliases": [
+      "Aichi-Shogin-Shinkumi",
+      "愛知商銀信用組合",
+      "愛知商銀",
+      "Aichi Shogin Credit Co-operative",
+      "아이치상은신용조합"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "chubu",
+      "aichi",
+      "nagoya",
+      "ethnic-business-finance",
+      "korean-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the Chubu (中京) representative of the 商銀系 (in-Japan Korean business) shinkumi network, complementing 大阪商銀信用組合 (Kansai) and routing through Japan credit cooperative registry for the broader 143-cooperative population.",
+  "headings": [
+    "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "2. 営業地区・組合員資格",
+    "営業地区 ^[inferred]",
+    "組合員資格 ^[extracted]",
+    "愛知県信組ブロック (registry比較)",
+    "3. 系統内位置・商銀系ネットワーク",
+    "全信組連内の位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aichi-bank",
+      "JapanFG/aichi-fg",
+      "JapanFG/dic",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/nagoya-bank",
+      "JapanFG/osaka-shogin-shinkumi",
+      "JapanFG/smbc",
+      "JapanFG/yokohama-kogin-shinkumi",
+      "JapanFG/zenshin-kumi",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aichi-bank",
+      "https://finwiki.zksc.io/JapanFG/aichi-fg",
+      "https://finwiki.zksc.io/JapanFG/dic",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nagoya-bank",
+      "https://finwiki.zksc.io/JapanFG/osaka-shogin-shinkumi",
+      "https://finwiki.zksc.io/JapanFG/smbc",
+      "https://finwiki.zksc.io/JapanFG/yokohama-kogin-shinkumi",
+      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5732,
+    "word_like_tokens": 743,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/okinawa-fg",
+  "source_path": "JapanFG/okinawa-fg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/okinawa-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/okinawa-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/okinawa-fg.md",
+  "domain": "JapanFG",
+  "title": "おきなわ FG (Okinawa FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "おきなわ FG (Okinawa FG)",
+    "aliases": [
+      "Okinawa FG",
+      "おきなわフィナンシャルグループ",
+      "Okinawa Financial Group",
+      "株式会社おきなわフィナンシャルグループ",
+      "OFG",
+      "OkiFG"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "okinawa"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: おきなわフィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 沖縄銀行 (2026-05-19 抽出)",
+      "おきなわ FG 公式 沿革 (https://www.okinawafg.co.jp/history/)",
+      "おきなわ FG 2025-03 期 決算短信 (2025-05-09 公表)",
+      "おきなわ FG 第 2 次中期経営計画『成長の共創』(2024-04 開示)",
+      "日本経済新聞: おきなわ FG 純利益 27% 増、25-03 期 中計目標を上方修正 (2025-05-09)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社琉球銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "おきなわ FG (Okinawa FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2025-03 期決算（連結）",
+    "主要株主（2022-03-31 時点・公開）",
+    "主要子会社・持分",
+    "沖縄銀行 前身・合併歴",
+    "重要年表",
+    "2. 业务线 map"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/ryukyu-bank",
+      "banking/INDEX",
+      "fukuoka-fg",
+      "kyushu-fg",
+      "mizuho-fg",
+      "mufg",
+      "nishi-nippon-fhd",
+      "okinawa-bank",
+      "okinawa-kaiho-bank",
+      "ryukyu-bank",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ryukyu-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/kyushu-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nishi-nippon-fhd",
+      "https://finwiki.zksc.io/okinawa-bank",
+      "https://finwiki.zksc.io/okinawa-kaiho-bank",
+      "https://finwiki.zksc.io/ryukyu-bank",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6963,
+    "word_like_tokens": 1208,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

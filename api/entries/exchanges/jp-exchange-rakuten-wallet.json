@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-rakuten-wallet",
+  "source_path": "exchanges/jp-exchange-rakuten-wallet.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-rakuten-wallet.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-rakuten-wallet.md",
+  "domain": "exchanges",
+  "title": "楽天ウォレット株式会社 — 日本暗号資産交換業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "楽天ウォレット株式会社 — 日本暗号資産交換業者",
+    "aliases": [
+      "Rakuten Wallet",
+      "ラクテンウォレット",
+      "みんなのビットコイン"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "rakuten"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.rakuten-wallet.co.jp/company/company.html",
+      "https://www.rakuten-wallet.co.jp/irpress/statement.html",
+      "https://www.rakuten-wallet.co.jp/start/cryptoassets.html",
+      "https://www.rakuten-wallet.co.jp/point/",
+      "https://jvcea.or.jp/member/",
+      "https://ja.wikipedia.org/wiki/%E6%A5%BD%E5%A4%A9%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "楽天ウォレット株式会社 — 日本暗号資産交換業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/rakuten-fg",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-cex-points-economy-integration",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-mercoin",
+      "exchanges/jp-vasp-parent-company-map",
+      "fintech/japan-bittrade-listing-process",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-trust-type-sc-architecture"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-cex-points-economy-integration",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+    ],
+    "external_links_count": 7,
+    "external_links": [
+      "https://ja.wikipedia.org/wiki/%E6%A5%BD%E5%A4%A9%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.rakuten-wallet.co.jp/company/company.html",
+      "https://www.rakuten-wallet.co.jp/irpress/statement.html",
+      "https://www.rakuten-wallet.co.jp/point/",
+      "https://www.rakuten-wallet.co.jp/start/cryptoassets.html"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5102,
+    "word_like_tokens": 820,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

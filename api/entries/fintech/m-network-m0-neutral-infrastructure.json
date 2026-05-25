@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/m-network-m0-neutral-infrastructure",
+  "source_path": "fintech/m-network-m0-neutral-infrastructure.md",
+  "url": "https://finwiki.zksc.io/fintech/m-network-m0-neutral-infrastructure",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/m-network-m0-neutral-infrastructure.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/m-network-m0-neutral-infrastructure.md",
+  "domain": "fintech",
+  "title": "M^0 / M Network · 中性稳定币基础设施 · \"瑞士银行模型\"",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "M^0 / M Network · 中性稳定币基础设施 · \"瑞士银行模型",
+    "aliases": [
+      "m-network-m0-neutral-infrastructure",
+      "M^0",
+      "M Network",
+      "M zero",
+      "neutral stablecoin infra"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin-infra",
+      "m-network",
+      "m0",
+      "neutral-infra",
+      "blackrock",
+      "goldman",
+      "long-tail"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://m0.org/",
+      "https://docs.m0.org/",
+      "https://www.m0.foundation/",
+      "https://github.com/m0-foundation"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "M^0 / M Network · 中性稳定币基础设施 · \"瑞士银行模型\"",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-sc-issuer-adoption",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/stablecoin-revenue-split-economics",
+      "fintech/three-circles-stablecoin-mra-framework",
+      "fintech/wall-street-crypto-network-neutrality"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3280,
+    "word_like_tokens": 589,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

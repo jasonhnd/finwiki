@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/suruga-bank",
+  "source_path": "JapanFG/suruga-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/suruga-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/suruga-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/suruga-bank.md",
+  "domain": "JapanFG",
+  "title": "スルガ銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "スルガ銀行",
+    "aliases": [
+      "Suruga Bank",
+      "株式会社スルガ銀行",
+      "Suruga Bank Ltd.",
+      "スルガ銀"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "post-scandal"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: スルガ銀行 (2026-05-19 抽出)",
+      "スルガ銀行 第 213 期 (2025-03 期) 有価証券報告書",
+      "金融庁業務改善命令 (2018-10-05)",
+      "第三者委員会調査報告書 (2018-09-07)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "スルガ銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2025-03 期決算（連結・参考値）^[inferred]",
+    "主要株主（直近 公開ベース）^[extracted]",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "信頼回復フェーズの戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/au-fh",
+      "JapanFG/fukuoka-fg",
+      "aozora-bank",
+      "au-fh",
+      "banking/INDEX",
+      "concordia-fg",
+      "mizuho-fg",
+      "mufg",
+      "paypay-fg",
+      "sbi-shinsei-bank",
+      "shimizu-bank",
+      "shizuoka-bank",
+      "shizuoka-chuo-bank",
+      "shizuoka-fg",
+      "smfg",
+      "sony-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-fh",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/aozora-bank",
+      "https://finwiki.zksc.io/au-fh",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/shimizu-bank",
+      "https://finwiki.zksc.io/shizuoka-bank",
+      "https://finwiki.zksc.io/shizuoka-chuo-bank",
+      "https://finwiki.zksc.io/shizuoka-fg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sony-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4713,
+    "word_like_tokens": 656,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-21"
+  }
+}

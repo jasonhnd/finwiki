@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-matching-engine-wallet-architecture",
+  "source_path": "exchanges/cex-matching-engine-wallet-architecture.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-matching-engine-wallet-architecture.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-matching-engine-wallet-architecture.md",
+  "domain": "exchanges",
+  "title": "CEX matching engine + cold/hot wallet 内部架構",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CEX matching engine + cold/hot wallet 内部架構",
+    "aliases": [
+      "CEX matching engine architecture",
+      "CEX cold hot wallet design",
+      "Exchange order book + custody architecture"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "matching-engine",
+      "cold-storage",
+      "architecture",
+      "technical"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.nyse.com/",
+      "https://github.com/binance/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 VASP コールド保管 95% + 分別管理制度 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "CEX matching engine + cold/hot wallet 内部架構",
+    "Wiki route",
+    "1. matching engine 概要",
+    "2. CLOB matching engine 設計要素",
+    "3. RFQ / OTC engine",
+    "4. cold/hot wallet 内部架構",
+    "5. 主要技術スタック"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/jp-cex-sales-vs-exchange-model-economics",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/forensic-identity-anchor-chain",
+      "security/module-path-confusion-supply-chain-attack"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3266,
+    "word_like_tokens": 546,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

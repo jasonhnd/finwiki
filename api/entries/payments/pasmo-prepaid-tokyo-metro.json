@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/pasmo-prepaid-tokyo-metro",
+  "source_path": "payments/pasmo-prepaid-tokyo-metro.md",
+  "url": "https://finwiki.zksc.io/payments/pasmo-prepaid-tokyo-metro",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/pasmo-prepaid-tokyo-metro.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/pasmo-prepaid-tokyo-metro.md",
+  "domain": "payments",
+  "title": "PASMO: Tokyo private-rail and bus consortium prepaid IC",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "PASMO: Tokyo private-rail and bus consortium prepaid IC",
+    "aliases": [
+      "pasmo-prepaid-tokyo-metro",
+      "PASMO 電子マネー",
+      "PASMO Co Ltd",
+      "パスモ 前払式支払手段",
+      "Mobile PASMO Apple Pay"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "electronic-money",
+      "transit",
+      "felica",
+      "pasmo",
+      "tokyo-metro",
+      "private-rail"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.pasmo.co.jp/",
+      "https://www.tokyometro.jp/",
+      "https://www.kotsu.metro.tokyo.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.felicanetworks.co.jp/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the Tokyo private-rail / bus consortium prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with transit-prepaid e-money economics for the 10 IC mutual-use scheme context. Compare with Suica (JR East co",
+  "headings": [
+    "PASMO: Tokyo private-rail and bus consortium prepaid IC",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and consortium structure",
+    "Legal basis: 前払式支払手段",
+    "Consortium-coordination vs single-issuer comparison",
+    "The 10 IC mutual-use scheme",
+    "Mobile PASMO generations",
+    "KPI snapshot",
+    "Strategy: consortium-anchored Tokyo cashless"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/edy-rakuten-prepaid",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/suica-prepaid-jr-east",
+      "payments/waon-prepaid-aeon"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/edy-rakuten-prepaid",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/suica-prepaid-jr-east",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8930,
+    "word_like_tokens": 1483,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

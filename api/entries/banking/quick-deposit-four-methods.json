@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/quick-deposit-four-methods",
+  "source_path": "banking/quick-deposit-four-methods.md",
+  "url": "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/quick-deposit-four-methods.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/quick-deposit-four-methods.md",
+  "domain": "banking",
+  "title": "クイック入金の4方式分解フレーム",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "クイック入金の4方式分解フレーム",
+    "aliases": [],
+    "domain": "banking",
+    "created": "2026-04-20",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "certain",
+    "tags": [
+      "banking",
+      "fintech",
+      "crypto-exchange",
+      "oauth",
+      "payment-ux",
+      "integration"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under banking index. Read it against Regional bank consolidation pattern for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
+  "headings": [
+    "クイック入金の4方式分解フレーム",
+    "Wiki route",
+    "核心命題",
+    "4方式の比較",
+    "方式選択の論点",
+    "事業者側の観点",
+    "ユーザ側の観点",
+    "副産物：Pay-easy 7日送金制限",
+    "電子決済等代行業登録の意味",
+    "参照系 API と 更新系 API"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "banking/regional-bank-consolidation-pattern",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2572,
+    "word_like_tokens": 394,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-25"
+  }
+}

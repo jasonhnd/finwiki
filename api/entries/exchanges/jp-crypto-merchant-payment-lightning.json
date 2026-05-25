@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-merchant-payment-lightning",
+  "source_path": "exchanges/jp-crypto-merchant-payment-lightning.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-merchant-payment-lightning",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-merchant-payment-lightning.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-merchant-payment-lightning.md",
+  "domain": "exchanges",
+  "title": "国内暗号資産マーチャント決済 + Lightning Network",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内暗号資産マーチャント決済 + Lightning Network",
+    "aliases": [
+      "JP crypto merchant payment",
+      "国内 Lightning Network 事業者",
+      "BTC merchant settlement Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "merchant",
+      "lightning-network",
+      "payment",
+      "btc"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://lightning.network/",
+      "https://btcpayserver.org/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内暗号資産マーチャント決済 + Lightning Network",
+    "Wiki route",
+    "概要",
+    "国内主要事業者・サービス",
+    "Lightning Network 国内導入",
+    "規制位置",
+    "国際比較",
+    "関連",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-crypto-garage",
+      "exchanges/jp-exchange-gaia",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/japan-financial-regulation",
+      "payments/japan-payment-clearing-and-settlement-infrastructure"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gaia",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2278,
+    "word_like_tokens": 319,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

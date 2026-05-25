@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/zk-evm-rollup-maturity-comparison-matrix-2026",
+  "source_path": "systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
+  "url": "https://finwiki.zksc.io/systems/zk-evm-rollup-maturity-comparison-matrix-2026",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
+  "domain": "systems",
+  "title": "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+    "aliases": [
+      "zk-evm rollup maturity matrix 2026",
+      "zk rollup comparison 2026",
+      "polygon zksync starknet scroll linea taiko matrix",
+      "zk-evm proving system tvl da decentralization comparison",
+      "ethereum l2 zk rollup landscape 2026"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "matrix",
+      "zk-evm",
+      "rollup",
+      "ethereum",
+      "l2",
+      "polygon",
+      "zksync",
+      "starknet",
+      "scroll",
+      "linea",
+      "taiko",
+      "kakarot",
+      "miden",
+      "immutable",
+      "agglayer"
+    ],
+    "status": "active",
+    "sources": [
+      "https://polygon.technology/agglayer",
+      "https://docs.zksync.io/",
+      "https://docs.starknet.io/",
+      "https://docs.scroll.io/",
+      "https://docs.linea.build/",
+      "https://docs.taiko.xyz/",
+      "https://docs.kakarot.org/",
+      "https://0xmiden.github.io/miden-docs/",
+      "https://docs.immutable.com/",
+      "https://l2beat.com/scaling/summary",
+      "https://defillama.com/chains/Rollup",
+      "https://ethereum.org/en/developers/docs/scaling/zk-rollups/"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 翻倍与 L2 经济连锁 for the L1 blob capacity context that drives rollup gas cost, and Pectra upgrade overview for the broader Ethereum upgrade landscape. Pair with Vitalik L1/L2 strategy anchor for the meta-strategy that frames \"L2",
+  "headings": [
+    "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+    "TL;DR",
+    "Wiki route",
+    "Why this matrix matters",
+    "Per-rollup sections",
+    "Polygon zkEVM / AggLayer",
+    "zkSync Era (Matter Labs)",
+    "StarkNet",
+    "Scroll",
+    "Linea (Consensys)"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "systems/INDEX",
+      "systems/chainlink-ccip-institutional-messaging",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/eigenlayer-overview",
+      "systems/formal-spec-implementation-codesign",
+      "systems/multi-proof-aggregation-fault-prover",
+      "systems/pectra-eip-7691-blob-l2-impact",
+      "systems/pectra-upgrade-overview",
+      "systems/post-quantum-blockchain-day1-integration",
+      "systems/vitalik-l1-l2-strategy-anchor"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/eigenlayer-overview",
+      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
+      "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover",
+      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
+      "https://finwiki.zksc.io/systems/pectra-upgrade-overview",
+      "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
+      "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 17640,
+    "word_like_tokens": 3156,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

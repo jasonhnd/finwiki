@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/erupee-india-pilot-status",
+  "source_path": "fintech/erupee-india-pilot-status.md",
+  "url": "https://finwiki.zksc.io/fintech/erupee-india-pilot-status",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/erupee-india-pilot-status.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/erupee-india-pilot-status.md",
+  "domain": "fintech",
+  "title": "eRupee India pilot status 2026 — retail + wholesale dual track, UPI interoperability, programmable-money use cases",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "eRupee India pilot status 2026 — retail + wholesale dual track, UPI interoperability, programmable-money use cases",
+    "aliases": [
+      "erupee-india-pilot-status",
+      "eRupee 2026 status",
+      "India digital rupee pilot",
+      "RBI CBDC pilot status",
+      "数字卢比 试点",
+      "e-rupee retail wholesale dual track"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "erupee",
+      "india",
+      "rbi",
+      "upi",
+      "retail-cbdc",
+      "wholesale-cbdc",
+      "programmable-money"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
+      "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1218",
+      "https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx",
+      "https://www.npci.org.in/what-we-do/upi/product-statistics",
+      "https://www.bis.org/about/bisih/topics/cbdc.htm",
+      "https://www.bis.org/publ/work1116.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index as the per-country deep dive on India's eRupee (Digital Rupee, e₹) for the 2026 pilot expansion phase. It pairs with CBDC adoption curve 2026 for the four-country comparative view, with 印度反美元 DPI 联盟 for the broader Indian digital-payment-stack geopolitics, and wit",
+  "headings": [
+    "eRupee India pilot status 2026 — retail + wholesale dual track, UPI interoperability, programmable-money use cases",
+    "Wiki route",
+    "Programme architecture",
+    "Matrix A · Track-by-track status (most recent public)",
+    "Matrix B · Adoption metrics (most recent public)",
+    "Matrix C · Architecture and design choices",
+    "Matrix D · Use cases and pilot tranches",
+    "Comparison to UPI dominance",
+    "Cross-border and international engagement",
+    "Origin and evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/bis-project-agora-vs-mbridge",
+      "fintech/bis-project-ensemble-overview",
+      "fintech/bis-project-guardian-overview",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/central-banking-function-unbundling",
+      "fintech/e-euro-retail-rollout",
+      "fintech/ecny-supply-chain-expansion",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/india-anti-dollar-dpi-alliance",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/mbridge-bis-multi-cbdc-vs-agora"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
+      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
+      "https://finwiki.zksc.io/fintech/ecny-supply-chain-expansion",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-vs-agora"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16505,
+    "word_like_tokens": 2829,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

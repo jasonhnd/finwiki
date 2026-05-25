@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sumitomo-life",
+  "source_path": "JapanFG/sumitomo-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sumitomo-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sumitomo-life.md",
+  "domain": "JapanFG",
+  "title": "住友生命保険相互会社 (Sumitomo Life)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "住友生命保険相互会社 (Sumitomo Life)",
+    "aliases": [
+      "住友生命",
+      "Sumitomo Life",
+      "Sumitomo Life Insurance Company",
+      "スミセイ"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "mutual-company"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 住友生命保険 (2026-05-19 抽出)",
+      "住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "住友生命保険相互会社 (Sumitomo Life)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "業界位置",
+    "主要子会社・関連 ^[extracted]",
+    "重要历史 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "「Vitality」健康増進型保険でリーディング差別化"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/nippon-life",
+      "insurance/INDEX",
+      "meiji-yasuda",
+      "mizuho-fg",
+      "mufg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/meiji-yasuda",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4316,
+    "word_like_tokens": 632,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-05-21"
+  }
+}

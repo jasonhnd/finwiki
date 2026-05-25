@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/jp-trust-type-sc-architecture",
+  "source_path": "fintech/jp-trust-type-sc-architecture.md",
+  "url": "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jp-trust-type-sc-architecture.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jp-trust-type-sc-architecture.md",
+  "domain": "fintech",
+  "title": "日本信託型 SC 架構",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本信託型 SC 架構 —— 三型分化下的第 3 号 EPI 結構解剖",
+    "aliases": [
+      "信託型 SC",
+      "JP trust-type stablecoin",
+      "第 3 号 EPI",
+      "trust-type EPI architecture"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "japan",
+      "regulation",
+      "trust-banking",
+      "progmat",
+      "td"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/en/policy/sftl/index.html",
+      "https://progmat.co.jp/",
+      "https://www.mufg.jp/english/",
+      "https://www.smtb.jp/business/digital_assets/",
+      "https://elaws.e-gov.go.jp/document?lawid=418AC0000000108"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "日本信託型 SC 架構",
+    "Wiki route",
+    "三型構造比較",
+    "信託型の構造的優位",
+    "§501(d) との関係",
+    "三型の市場分担(現状 2026)",
+    "応用",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mufg",
+      "JapanFG/progmat",
+      "JapanFG/smfg",
+      "cross-border-sc-via-swift-api",
+      "fintech/INDEX",
+      "fintech/cross-border-sc-via-swift-api",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/multi-megabank-consortium-governance",
+      "institutional-stablecoin-deposit-token-thesis",
+      "multi-megabank-consortium-governance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/multi-megabank-consortium-governance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3177,
+    "word_like_tokens": 532,
+    "inbound_wikilinks_count": 45,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/dex-raydium-solana",
+  "source_path": "exchanges/dex-raydium-solana.md",
+  "url": "https://finwiki.zksc.io/exchanges/dex-raydium-solana",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-raydium-solana.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/dex-raydium-solana.md",
+  "domain": "exchanges",
+  "title": "Raydium — Solana 系老舗 AMM / memecoin 流動性 hub overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Raydium — Solana 系老舗 AMM / memecoin 流動性 hub",
+    "aliases": [
+      "Raydium",
+      "RAY",
+      "Raydium AMM"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "dex",
+      "solana",
+      "amm",
+      "memecoin"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Raydium 公式 docs / Whitepaper, raydium.io)",
+      "公開情報整理 (DefiLlama Raydium TVL/Volume データ, 2024-2026)",
+      "公開情報整理 (Solana Foundation エコシステム発表 / Serum 終焉時系列, 2022-12)",
+      "公開情報整理 (Pump.fun × Raydium bonding curve 連動仕様, 2024-2025)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against Solana エコシステム DEX 群比較 for the Solana peer context, global DEX major five comparison for EVM 対比, and AMM 設計進化系譜 for the broader system / design boundary.",
+  "headings": [
+    "Raydium — Solana 系老舗 AMM / memecoin 流動性 hub overview",
+    "Wiki route",
+    "1. プロトコル概要",
+    "2. 設計上の特徴（Serum legacy → OpenBook 移行 → 自前 CLMM）",
+    "3. memecoin 経済における役割",
+    "4. Orca / Meteora との比較",
+    "5. 主要事件・沿革",
+    "6. ガバナンス・経済モデル",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/dex-orca-solana",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/openbook-fork-solana",
+      "exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/dex-orca-solana",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/openbook-fork-solana",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3565,
+    "word_like_tokens": 618,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

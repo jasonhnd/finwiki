@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/rokin-bank-registry-japan",
+  "source_path": "banking/rokin-bank-registry-japan.md",
+  "url": "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/rokin-bank-registry-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/rokin-bank-registry-japan.md",
+  "domain": "banking",
+  "title": "Japan rokin bank registry",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan rokin bank registry",
+    "aliases": [
+      "労働金庫 registry",
+      "労金一覧",
+      "Japan labor banks",
+      "Rokin bank registry Japan"
+    ],
+    "domain": "banking",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "cooperative-banking",
+      "rokin",
+      "labor-bank",
+      "registry",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyo.html"
+    ]
+  },
+  "summary": "This entry sits under banking index. Read it with Cooperative banking in Japan for adjacent context and Regional bank consolidation pattern for the broader system boundary.",
+  "headings": [
+    "Japan rokin bank registry",
+    "Wiki route",
+    "TL;DR",
+    "1. Registry snapshot",
+    "2. Coverage decision",
+    "3. Supervisory-bureau count",
+    "4. Prefecture count",
+    "5. Prefecture name index",
+    "6. Full official registry rows",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 5,
+    "wikilinks": [
+      "JapanFG/missing-financial-institutions-backlog",
+      "JapanFG/rokin-renraku",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/regional-bank-consolidation-pattern"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog",
+      "https://finwiki.zksc.io/JapanFG/rokin-renraku",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3600,
+    "word_like_tokens": 572,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-21"
+  }
+}

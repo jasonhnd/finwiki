@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/bft-validator-economy-tempo-vs-arc",
+  "source_path": "systems/bft-validator-economy-tempo-vs-arc.md",
+  "url": "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-tempo-vs-arc.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-tempo-vs-arc.md",
+  "domain": "systems",
+  "title": "Tempo vs Arc · 机构链 validator 设计两条路径",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Tempo vs Arc · 机构链 validator 设计两条路径",
+    "aliases": [
+      "bft-validator-economy-tempo-vs-arc",
+      "tempo arc validator comparison",
+      "机构链 validator 设计"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "validator",
+      "tempo",
+      "arc",
+      "institutional-chain",
+      "poa",
+      "progressive-decentralization"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Tempo vs Arc · 机构链 validator 设计两条路径",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "fintech/INDEX",
+      "fintech/jpmorgan-jpmd-coin",
+      "systems/INDEX",
+      "systems/bft-validator-economy-four-variables",
+      "systems/bft-validator-economy-overview",
+      "systems/chain-abstraction-pattern-overview",
+      "systems/eigenlayer-l1-bootstrapping"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
+      "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2453,
+    "word_like_tokens": 419,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

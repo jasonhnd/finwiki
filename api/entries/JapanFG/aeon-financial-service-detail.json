@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/aeon-financial-service-detail",
+  "source_path": "JapanFG/aeon-financial-service-detail.md",
+  "url": "https://finwiki.zksc.io/JapanFG/aeon-financial-service-detail",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aeon-financial-service-detail.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/aeon-financial-service-detail.md",
+  "domain": "JapanFG",
+  "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+    "aliases": [
+      "Dentsu Finance",
+      "電通金融",
+      "電通ファイナンス",
+      "電通グループ金融",
+      "Dentsu Group Financial",
+      "Dentsu Capital",
+      "電通キャピタル",
+      "電通ベンチャーズ",
+      "Dentsu Ventures"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "corporate-finance",
+      "captive-finance",
+      "dentsu",
+      "CVC",
+      "ventures",
+      "media-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.group.dentsu.com/jp/about/",
+      "https://www.group.dentsu.com/jp/ir/",
+      "https://www.dentsuventures.com/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/fund_transfer.html",
+      "Wikipedia: 電通グループ (公開情報, 2026-05-25 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the operating-company anchor for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の 金融機能子会社群 — specifically, 電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context",
+  "headings": [
+    "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+    "Wiki route",
+    "TL;DR",
+    "1. 親会社・グループ構造",
+    "グループ金融機能の所在",
+    "2. 業務ライン",
+    "2.1 電通ベンチャーズ（Dentsu Ventures）",
+    "2.2 電通キャピタル（電通グループの戦略投資 / M&A 機能）",
+    "2.3 広告主向け請求・決済機能",
+    "2.4 国際拠点ファイナンス管理"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/mufg",
+      "JapanFG/nissan-finance",
+      "JapanFG/sbi-hd",
+      "JapanFG/smfg",
+      "JapanFG/sony-fg",
+      "JapanFG/sony-finance",
+      "JapanFG/toyota-finance",
+      "asset-management/cvc-japan-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nissan-finance",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/sony-finance",
+      "https://finwiki.zksc.io/JapanFG/toyota-finance",
+      "https://finwiki.zksc.io/asset-management/cvc-japan-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6361,
+    "word_like_tokens": 932,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

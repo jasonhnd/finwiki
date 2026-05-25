@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/ja-bank-system-japan",
+  "source_path": "banking/ja-bank-system-japan.md",
+  "url": "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/ja-bank-system-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/ja-bank-system-japan.md",
+  "domain": "banking",
+  "title": "JA Bank system in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JA Bank system in Japan",
+    "aliases": [
+      "JA Bank system",
+      "JA Bank",
+      "JAバンク",
+      "JAバンクシステム",
+      "農協系統金融",
+      "Japan agricultural cooperative banking system"
+    ],
+    "domain": "banking",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "cooperative-banking",
+      "ja-bank",
+      "agricultural-finance",
+      "norinchukin",
+      "registry"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jabank.org/about/sikumi/",
+      "https://www.jabank.org/about/sikumi/banksystem/",
+      "https://www.jabank.org/about/housin/",
+      "https://www.nochubank.or.jp/about/features.html",
+      "https://org.ja-group.jp/factbook/03_4",
+      "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
+    ]
+  },
+  "summary": "JA Bank is not one stock-company bank. It is the agricultural cooperative credit-business system formed by local JA credit businesses, prefectural JA Shinnoren, and Norinchukin Bank. Official JA Bank materials describe these three layers as the members of the JA Bank system, with integrated operatio",
+  "headings": [
+    "JA Bank system in Japan",
+    "TL;DR",
+    "1. System boundary",
+    "2. Operating logic",
+    "3. Why it matters",
+    "4. Boundary cases",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/nochu-trust-bank",
+      "JapanFG/norinchukin",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan",
+      "banking/rokin-bank-registry-japan",
+      "banking/shinkin-bank-registry-japan",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4219,
+    "word_like_tokens": 686,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-05-21"
+  }
+}

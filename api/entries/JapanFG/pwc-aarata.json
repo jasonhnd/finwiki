@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/pwc-aarata",
+  "source_path": "JapanFG/pwc-aarata.md",
+  "url": "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pwc-aarata.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/pwc-aarata.md",
+  "domain": "JapanFG",
+  "title": "PwC Japan 有限責任監査法人 (旧 PwC あらた)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "PwC Japan 有限責任監査法人 (旧 PwC あらた)",
+    "aliases": [
+      "PwC Aarata",
+      "PwC あらた",
+      "PwC あらた有限責任監査法人",
+      "PwC Japan",
+      "PwC Japan LLC",
+      "あらた監査法人",
+      "PricewaterhouseCoopers Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "audit",
+      "big4",
+      "assurance",
+      "accounting",
+      "pwc"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.pwc.com/jp/ja/about-us/member/japan.html",
+      "https://www.pwc.com/jp/ja/services/audit-assurance.html",
+      "https://www.pwc.com/jp/ja/issues/crypto-asset.html",
+      "https://jicpa.or.jp/",
+      "https://www.fsa.go.jp/cpaaob/",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it alongside トーマツ (Deloitte) and EY 新日本 for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+  "headings": [
+    "PwC Japan 有限責任監査法人 (旧 PwC あらた)",
+    "TL;DR",
+    "Wiki route",
+    "1. 法人概要",
+    "規模（公開ベース概算）^[inferred]",
+    "2. 沿革",
+    "3. 金融サービス監査・アドバイザリー実務",
+    "FinTech / 暗号資産 ^[extracted]",
+    "銀行 / 保険 / 証券",
+    "サステナビリティ保証"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/deloitte-touche-tohmatsu",
+      "JapanFG/ey-shinnihon",
+      "JapanFG/fsa-strategy-bureau",
+      "JapanFG/fsa-supervision-bureau",
+      "JapanFG/kpmg-azsa",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/sompo",
+      "JapanFG/taiyo-grant-thornton",
+      "exchanges/japan-crypto-audit-firm-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+      "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+      "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4926,
+    "word_like_tokens": 734,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

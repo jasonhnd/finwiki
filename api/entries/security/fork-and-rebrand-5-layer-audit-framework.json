@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/fork-and-rebrand-5-layer-audit-framework",
+  "source_path": "security/fork-and-rebrand-5-layer-audit-framework.md",
+  "url": "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/fork-and-rebrand-5-layer-audit-framework.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/fork-and-rebrand-5-layer-audit-framework.md",
+  "domain": "security",
+  "title": "Fork and Rebrand 项目的五层审计框架",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Fork and Rebrand 项目的五层审计框架",
+    "aliases": [
+      "fork and rebrand audit",
+      "5-layer audit framework",
+      "code provenance audit",
+      "smart contract fork security"
+    ],
+    "domain": "security",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "certain",
+    "tags": [
+      "security",
+      "audit",
+      "smart-contract",
+      "forensic",
+      "open-source"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under 智能合约 bytecode forensic — 三层 verify 技术. Read it against systems index for peer / contrast context and FinWiki index for the broader system / regulatory boundary.",
+  "headings": [
+    "Fork and Rebrand 项目的五层审计框架",
+    "Wiki route",
+    "核心机制",
+    "Layer 1: 代码库上游比对 (Upstream Source Diff)",
+    "Layer 2: 历史漏洞与修补遗传 (Inherited Vulnerability Scan)",
+    "Layer 3: 编译指纹与字节码比对 (Compilation Fingerprint & Diff)",
+    "Layer 4: 团队与部署溯源 (Team & Deployer Provenance)",
+    "Layer 5: 合规与许可证审计 (License & Copyleft Verification)",
+    "适用场景",
+    "相关限制与边界"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/jp-vasp-security-audit-certification",
+      "exchanges/mtgox-bankruptcy-processing-timeline",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/forensic-identity-anchor-chain",
+      "security/module-path-confusion-supply-chain-attack.md",
+      "security/wayback-machine-as-forensic-tool",
+      "systems/INDEX",
+      "systems/canton-overview",
+      "systems/hook-enforced-compliance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
+      "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/hook-enforced-compliance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3552,
+    "word_like_tokens": 510,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

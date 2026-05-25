@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/genius-act-501-denylist-mandate",
+  "source_path": "fintech/genius-act-501-denylist-mandate.md",
+  "url": "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/genius-act-501-denylist-mandate.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/genius-act-501-denylist-mandate.md",
+  "domain": "fintech",
+  "title": "GENIUS Act §501 链级 Denylist 合法化",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GENIUS Act §501 将链级 Denylist 合法化 —— 稳定币原生 L1 的合规反向解释",
+    "aliases": [
+      "GENIUS Act denylist",
+      "stablecoin chain regulation",
+      "链级 Denylist 合法化"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-13",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "regulation",
+      "GENIUS-Act",
+      "stablecoin",
+      "US",
+      "compliance"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.congress.gov/bill/119th-congress/senate-bill/919",
+      "https://home.treasury.gov/news/press-releases",
+      "https://www.federalreserve.gov/newsevents/pressreleases.htm",
+      "https://ofac.treasury.gov/sanctions-programs-and-country-information"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "GENIUS Act §501 链级 Denylist 合法化",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "fintech/INDEX",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/eu-mica-implementation-status-2026",
+      "fintech/fatf-travel-rule-overview",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "stablecoin-chain-sovereign-currency-divide"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/eu-mica-implementation-status-2026",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/stablecoin-chain-sovereign-currency-divide"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2952,
+    "word_like_tokens": 465,
+    "inbound_wikilinks_count": 76,
+    "last_modified": "2026-05-25"
+  }
+}

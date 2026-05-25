@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/brazil-mexico-cbdc-stablecoin-push-2026",
+  "source_path": "fintech/brazil-mexico-cbdc-stablecoin-push-2026.md",
+  "url": "https://finwiki.zksc.io/fintech/brazil-mexico-cbdc-stablecoin-push-2026",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/brazil-mexico-cbdc-stablecoin-push-2026.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/brazil-mexico-cbdc-stablecoin-push-2026.md",
+  "domain": "fintech",
+  "title": "Brazil DREX × Mexico Banxico CoDi × 拉美 CBDC 与稳定币并行架构 2026",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Brazil DREX × Mexico Banxico CoDi × 拉美 CBDC 与稳定币并行架构 2026",
+    "aliases": [
+      "brazil-mexico-cbdc-stablecoin-push-2026",
+      "DREX 2026",
+      "Brazil CBDC stablecoin",
+      "Mexico Banxico CoDi",
+      "MXNB M0 pilot",
+      "BRL stablecoin",
+      "Bitso role 2026",
+      "Mercado Bitcoin BRL",
+      "LatAm CBDC parallel"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "cbdc",
+      "brazil",
+      "mexico",
+      "latam",
+      "drex",
+      "banxico",
+      "2026-event"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.bcb.gov.br/en/financialstability/drex_en",
+      "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco.html",
+      "https://www.iadb.org/en/news/digital-currencies-latam-2026",
+      "https://bitso.com/blog/mxnb-stablecoin-pilot",
+      "https://www.mercadobitcoin.com.br/blog/brl-stablecoin",
+      "https://www.bis.org/publ/work1156.htm",
+      "https://www.reuters.com/business/finance/brazil-drex-second-phase-2026"
+    ]
+  },
+  "summary": "巴西和墨西哥 2026 年同时进入 \"CBDC + 私人稳定币 + 美元 SC 灰色化\" 三轨并行阶段。巴西 DREX 在 2025-12 第二轮试点扩大到 16 家机构、覆盖批发 + 零售 dual-layer (与 CBDC 多层架构概览 一致); Mercado Bitcoin 在 Polygon / Ethereum 发行BRL-anchored 稳定币作为 DREX 的市场版补充, 与 DREX 形成\"公私双轨\"。墨西哥 Banxico 不发零售 CBDC 但深化 CoDi 即时支付, 并默许 Bitso × Mercado Bitcoin × M0 联合发行 MXNB (墨西哥比索",
+  "headings": [
+    "Brazil DREX × Mexico Banxico CoDi × 拉美 CBDC 与稳定币并行架构 2026",
+    "TL;DR",
+    "Wiki route",
+    "Key facts (2026-05 snapshot)",
+    "DREX (巴西) 详解",
+    "Mercado Bitcoin BRL 稳定币",
+    "Banxico CoDi × MXNB pilot (墨西哥)",
+    "双轨 (CBDC + 本币 SC) vs 单轨 (灰色美元化)",
+    "与 mBridge / Project Agora 的距离",
+    "与 M0 MXNB pilot 的纵深耦合"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "fintech/INDEX",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/fatf-travel-rule-overview",
+      "fintech/gray-market-dollar-network-formalization",
+      "fintech/india-anti-dollar-dpi-alliance",
+      "fintech/jurisdiction-list-monetary-protectionism",
+      "fintech/m0-network-infrastructure-update-2026",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/mbridge-non-usd-settlement-ring-scale",
+      "fintech/mica-emt-art-subcategories-deep-dive",
+      "fintech/stablecoin-chain-token-strategy-trilemma"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
+      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+      "https://finwiki.zksc.io/fintech/m0-network-infrastructure-update-2026",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale",
+      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9591,
+    "word_like_tokens": 1777,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

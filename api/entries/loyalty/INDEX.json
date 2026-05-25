@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "loyalty/INDEX",
+  "source_path": "loyalty/INDEX.md",
+  "url": "https://finwiki.zksc.io/loyalty/INDEX",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/INDEX.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/loyalty/INDEX.md",
+  "domain": "loyalty",
+  "title": "loyalty domain",
+  "entry_type": "domain_index",
+  "frontmatter": {
+    "title": "loyalty domain",
+    "aliases": [
+      "loyalty INDEX",
+      "Japan points domain",
+      "日本ポイント domain"
+    ],
+    "domain": "loyalty",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "loyalty",
+      "index",
+      "points",
+      "payments",
+      "retail-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+      "https://www.waon.net/point/",
+      "https://www.nanaco-net.jp/introduction/"
+    ]
+  },
+  "summary": "This domain routes point programs, loyalty liabilities, campaign economics, and retail / payment data loops. The current anchor is Japan points and loyalty landscape.",
+  "headings": [
+    "loyalty domain",
+    "TL;DR",
+    "Route Map",
+    "Active Entries",
+    "Expansion Backlog",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/ndfg",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "loyalty/d-point-au-kddi-docomo-telco-point-consolidation\\",
+      "loyalty/japan-points-landscape",
+      "loyalty/point-liability-accounting-boundary",
+      "loyalty/v-point-smbc-ccc-case",
+      "payments/INDEX",
+      "retail/INDEX",
+      "retail/aeon-group",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ndfg",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation\\",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3096,
+    "word_like_tokens": 483,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-05-25"
+  }
+}

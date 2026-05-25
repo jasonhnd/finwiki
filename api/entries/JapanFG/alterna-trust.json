@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/alterna-trust",
+  "source_path": "JapanFG/alterna-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/alterna-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/alterna-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/alterna-trust.md",
+  "domain": "JapanFG",
+  "title": "オルタナ信託 (Alterna Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "オルタナ信託 (Alterna Trust)",
+    "aliases": [
+      "Alterna Trust",
+      "オルタナ信託株式会社",
+      "ALTERNA Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "security-token",
+      "digital-securities",
+      "Progmat"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://corp.mitsui-x.com/news/2025/07/03/pr20250703_2.html",
+      "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/250703.pdf",
+      "https://prtimes.jp/main/html/rd/p/000000083.000056997.html"
+    ]
+  },
+  "summary": "Alterna Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Progmat, Progmat stablecoin / digital asset route, ODX, and SMTB.",
+  "headings": [
+    "オルタナ信託 (Alterna Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "JapanFG/progmat",
+      "JapanFG/smtb",
+      "JapanFG/trust-companies-japan-index",
+      "fintech/jp-stablecoin-progmat",
+      "securities/osaka-digital-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/JapanFG/smtb",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3555,
+    "word_like_tokens": 545,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-22"
+  }
+}

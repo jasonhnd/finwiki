@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/aichi-credit-guarantee-corp",
+  "source_path": "policy-finance/aichi-credit-guarantee-corp.md",
+  "url": "https://finwiki.zksc.io/policy-finance/aichi-credit-guarantee-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/aichi-credit-guarantee-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/aichi-credit-guarantee-corp.md",
+  "domain": "policy-finance",
+  "title": "愛知県信用保証協会 (Aichi Credit Guarantee Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "愛知県信用保証協会 (Aichi Credit Guarantee Corporation)",
+    "aliases": [
+      "Aichi Credit Guarantee Corporation",
+      "Aichi Pref CGC",
+      "Aichi CGC",
+      "愛知県信用保証協会",
+      "愛知信用保証協会",
+      "policy-finance/aichi-credit-guarantee-corp"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "credit-guarantee",
+      "prefecture-cgc",
+      "sme-finance",
+      "aichi"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.cgc-aichi.or.jp/",
+      "全国信用保証協会連合会 (Federation) - https://www.zenshinhoren.or.jp/",
+      "中小企業庁 (SME Agency) - https://www.chusho.meti.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as one of the 51 prefecture / city-level members of Japan's credit guarantee system. Read it alongside the system overview at Japan credit guarantee system and the coordinating body at Japan Federation of Credit Guarantee Corporations. Peer-compare against",
+  "headings": [
+    "愛知県信用保証協会 (Aichi Credit Guarantee Corporation)",
+    "Wiki route",
+    "TL;DR",
+    "1. 機関概要",
+    "2. 主要保証商品",
+    "3. 県内産業構造との関係",
+    "4. Co-lending and JFC overlay",
+    "5. 代位弁済と求償",
+    "6. Crisis-era response",
+    "7. Federation-system anchor"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aichi-bank",
+      "JapanFG/aichi-fg",
+      "JapanFG/chukyo-bank",
+      "JapanFG/jfc",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/nagoya-bank",
+      "JapanFG/shoko-chukin",
+      "JapanFG/smfg",
+      "JapanFG/toyota-tsusho-corp",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "banking/shinkin-bank-registry-japan",
+      "policy-finance/INDEX",
+      "policy-finance/japan-credit-guarantee-system",
+      "policy-finance/kanagawa-credit-guarantee-corp",
+      "policy-finance/national-federation-credit-guarantee-corporations",
+      "policy-finance/osaka-credit-guarantee-corp",
+      "policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aichi-bank",
+      "https://finwiki.zksc.io/JapanFG/aichi-fg",
+      "https://finwiki.zksc.io/JapanFG/chukyo-bank",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nagoya-bank",
+      "https://finwiki.zksc.io/JapanFG/shoko-chukin",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/kanagawa-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+      "https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 14302,
+    "word_like_tokens": 2255,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

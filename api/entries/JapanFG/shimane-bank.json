@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/shimane-bank",
+  "source_path": "JapanFG/shimane-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/shimane-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/shimane-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/shimane-bank.md",
+  "domain": "JapanFG",
+  "title": "島根銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "島根銀行",
+    "aliases": [
+      "Shimane Bank",
+      "The Shimane Bank",
+      "株式会社島根銀行",
+      "しまぎん"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "second-regional-bank",
+      "chugoku",
+      "shimane",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.shimagin.co.jp/company/gaiyo/",
+      "https://www.sbigroup.co.jp/news/2023/1122_14245"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against もみじ銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "島根銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/momiji-bank",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "san-in-godo-bank",
+      "sbi-hd",
+      "sbi-regional-bank-hd",
+      "tottori-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/momiji-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/san-in-godo-bank",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/sbi-regional-bank-hd",
+      "https://finwiki.zksc.io/tottori-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1880,
+    "word_like_tokens": 302,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

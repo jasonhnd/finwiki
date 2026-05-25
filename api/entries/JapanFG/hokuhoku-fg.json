@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/hokuhoku-fg",
+  "source_path": "JapanFG/hokuhoku-fg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/hokuhoku-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/hokuhoku-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/hokuhoku-fg.md",
+  "domain": "JapanFG",
+  "title": "ほくほく FG (Hokuhoku FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ほくほく FG (Hokuhoku FG)",
+    "aliases": [
+      "Hokuhoku FG",
+      "Hokuhoku Financial Group",
+      "ほくほくフィナンシャルグループ",
+      "株式会社ほくほくフィナンシャルグループ",
+      "8377"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ほくほくフィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 北陸銀行 (2026-05-19 抽出)",
+      "Wikipedia: 北海道銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ほくほく FG (Hokuhoku FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・持分",
+    "合併歴史・前身",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "地理ロングテール戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fukuoka-fg",
+      "banking/INDEX",
+      "fukuoka-fg",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "resona-hd",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3934,
+    "word_like_tokens": 610,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-21"
+  }
+}

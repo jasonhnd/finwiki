@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/japan-master-trust-and-custody-bank-landscape",
+  "source_path": "banking/japan-master-trust-and-custody-bank-landscape.md",
+  "url": "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/japan-master-trust-and-custody-bank-landscape.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/japan-master-trust-and-custody-bank-landscape.md",
+  "domain": "banking",
+  "title": "Japan master trust and custody bank landscape",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan master trust and custody bank landscape",
+    "aliases": [
+      "japan-master-trust-and-custody-bank-landscape",
+      "Japan master trust custody landscape",
+      "資産管理専門銀行 landscape"
+    ],
+    "domain": "banking",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "trust-bank",
+      "master-trust",
+      "custody",
+      "asset-administration",
+      "pension"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.mastertrust.co.jp/company/information.html",
+      "https://www.mastertrust.co.jp/about/overview.html",
+      "https://www.mastertrust.co.jp/business/asset-management.html",
+      "https://www.mastertrust.co.jp/company/",
+      "https://www.custody.jp/english/corporate/index.html",
+      "https://www.custody.jp/corporate/information/index.html",
+      "https://www.custody.jp/recruit/aboutus/about.html",
+      "https://www.custody.jp/recruit/aboutus/business.html",
+      "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
+    ]
+  },
+  "summary": "Japan's master-trust / custody-bank landscape is a two-anchor domestic infrastructure layer: Master Trust Bank of Japan and Custody Bank of Japan. They are not \"investors\" in the ordinary sense; they are asset-administration banks for pensions, investment trusts, insurers, asset managers, and instit",
+  "headings": [
+    "Japan master trust and custody bank landscape",
+    "Overview",
+    "Landscape Map",
+    "What They Actually Do",
+    "Why Filings Show Their Names",
+    "Public Research Fields",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/bny-mellon-japan",
+      "JapanFG/custody-bank",
+      "JapanFG/master-trust-bank",
+      "JapanFG/state-street-japan",
+      "banking/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "fintech/INDEX",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-short-selling-and-stock-loan-controls",
+      "securities/japan-stock-lending-market-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bny-mellon-japan",
+      "https://finwiki.zksc.io/JapanFG/custody-bank",
+      "https://finwiki.zksc.io/JapanFG/master-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/state-street-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-short-selling-and-stock-loan-controls",
+      "https://finwiki.zksc.io/securities/japan-stock-lending-market-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5457,
+    "word_like_tokens": 819,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-05-22"
+  }
+}

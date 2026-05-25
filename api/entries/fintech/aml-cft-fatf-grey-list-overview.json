@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/aml-cft-fatf-grey-list-overview",
+  "source_path": "fintech/aml-cft-fatf-grey-list-overview.md",
+  "url": "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/aml-cft-fatf-grey-list-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/aml-cft-fatf-grey-list-overview.md",
+  "domain": "fintech",
+  "title": "FATF 灰名单 / 黑名单 · AML/CFT 国家评估机制概览",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FATF 灰名单 / 黑名单 · AML/CFT 国家评估机制概览",
+    "aliases": [
+      "fatf-grey-list-overview",
+      "FATF jurisdiction list",
+      "AML/CFT 评估概览"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "law",
+      "regulation",
+      "aml",
+      "cft",
+      "fatf",
+      "jurisdiction"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Mutual-evaluations.html",
+      "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
+      "https://www.imf.org/external/np/leg/amlcft/eng/",
+      "https://www.worldbank.org/en/topic/financialmarketintegrity"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "FATF 灰名单 / 黑名单 · AML/CFT 国家评估机制概览",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "fintech/INDEX",
+      "fintech/aml-cft-fatf-grey-list-cross-border-implications",
+      "fintech/fatf-travel-rule-overview",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jurisdiction-list-monetary-protectionism"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-cross-border-implications",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3161,
+    "word_like_tokens": 555,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

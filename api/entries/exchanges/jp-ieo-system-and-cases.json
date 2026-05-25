@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-ieo-system-and-cases",
+  "source_path": "exchanges/jp-ieo-system-and-cases.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-ieo-system-and-cases",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-ieo-system-and-cases.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-ieo-system-and-cases.md",
+  "domain": "exchanges",
+  "title": "国内 IEO (Initial Exchange Offering) 制度 + 主要案件 timeline",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 IEO (Initial Exchange Offering) 制度 + 主要案件 timeline",
+    "aliases": [
+      "JP IEO system",
+      "国内暗号資産 IEO 制度",
+      "JVCEA IEO 規則"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "ieo",
+      "listing",
+      "token-sale",
+      "jvcea"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内 IEO (Initial Exchange Offering) 制度 + 主要案件 timeline",
+    "Wiki route",
+    "1. 制度概要",
+    "2. JVCEA IEO 規則 主要要件",
+    "3. 国内主要 IEO 案件 (2021-2026)",
+    "4. ビジネス含意",
+    "5. グローバル比較"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-native-token-strategy-comparison",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jvcea-self-regulatory-overview",
+      "exchanges/jvcea-whitelist-listing-timeline",
+      "exchanges/jvcea-whitelist-token-listing"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1993,
+    "word_like_tokens": 324,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-api-sdk-ecosystem-comparison",
+  "source_path": "exchanges/cex-api-sdk-ecosystem-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-api-sdk-ecosystem-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-api-sdk-ecosystem-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-api-sdk-ecosystem-comparison.md",
+  "domain": "exchanges",
+  "title": "CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface",
+    "aliases": [
+      "CEX API comparison",
+      "取引所 SDK ecosystem",
+      "REST/WebSocket/FIX exchange APIs"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "api",
+      "sdk",
+      "developer"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://docs.bitflyer.com/",
+      "https://docs.binance.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface",
+    "Wiki route",
+    "概要",
+    "国内主要 CEX API",
+    "海外大手 CEX API",
+    "第三者 ライブラリ + aggregator",
+    "機関接続規格",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-perp-dex-five-comparison",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-foreign-exchange-bybit"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2634,
+    "word_like_tokens": 439,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

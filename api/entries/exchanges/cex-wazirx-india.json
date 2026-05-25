@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-wazirx-india",
+  "source_path": "exchanges/cex-wazirx-india.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-wazirx-india",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-wazirx-india.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-wazirx-india.md",
+  "domain": "exchanges",
+  "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害",
+    "aliases": [
+      "WazirX",
+      "Zanmai Labs",
+      "वज़ीरएक्स"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "india",
+      "inr-spot",
+      "liminal-hack",
+      "binance",
+      "restructuring"
+    ],
+    "status": "borderline",
+    "sources": [
+      "公開情報整理 (WazirX 公式 IR / About / Hack response, wazirx.com)",
+      "公開情報整理 (Binance 2019-11 WazirX 買収発表 / 2023 dissociation 公式声明, binance.com Blog)",
+      "公開情報整理 (FIU-IND 2024-03 Show Cause Notice 公開情報)",
+      "公開情報整理 (Liminal Custody 2024-07 multi-sig wallet incident 公式声明)",
+      "公開情報整理 (Zettai Pte. Ltd. シンガポール High Court Moratorium / Scheme of Arrangement 公開資料)",
+      "公開情報整理 (WazirX restructuring proposal 2024-10 / 2025 報道 Reuters / CoinDesk / The Block)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against CoinDCX for the closest India peer / contrast context, Bybit Lazarus hack for parallel North Korean attribution pattern, and グローバル CEX 破綻比較 for the restructuring / scheme-of-arrangement framework.",
+  "headings": [
+    "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（インド制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 業界での位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/cex-coindcx-india",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-crypto-exchange-bankruptcy-comparison",
+      "exchanges/global-crypto-forensics-vendor-layer"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5831,
+    "word_like_tokens": 912,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

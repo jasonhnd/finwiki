@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/ai-agent-payment-protocols-seven-layers",
+  "source_path": "agent-economy/ai-agent-payment-protocols-seven-layers.md",
+  "url": "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-seven-layers",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ai-agent-payment-protocols-seven-layers.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ai-agent-payment-protocols-seven-layers.md",
+  "domain": "agent-economy",
+  "title": "AI Agent 支付七协议分层表",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文",
+    "aliases": [
+      "ai-agent-payment-seven-layers",
+      "AP2 x402 MCP A2A SPT ACP TAP 分层"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "ai-agent",
+      "payments",
+      "protocol-stack",
+      "ap2",
+      "x402",
+      "mcp",
+      "a2a"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
+  "headings": [
+    "AI Agent 支付七协议分层表",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-commoditization",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "fintech/protocol-hedge-strategy-stripe-pattern",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX",
+      "systems/INDEX",
+      "systems/chain-abstraction-pattern-overview",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-commoditization",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2395,
+    "word_like_tokens": 436,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-24"
+  }
+}

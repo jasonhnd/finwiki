@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-fair-disclosure-and-insider-trading-controls",
+  "source_path": "finance/japan-fair-disclosure-and-insider-trading-controls.md",
+  "url": "https://finwiki.zksc.io/finance/japan-fair-disclosure-and-insider-trading-controls",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-fair-disclosure-and-insider-trading-controls.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-fair-disclosure-and-insider-trading-controls.md",
+  "domain": "finance",
+  "title": "Japan fair disclosure and insider trading controls",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan fair disclosure and insider trading controls",
+    "aliases": [
+      "Japan fair disclosure insider trading controls",
+      "Japan FD rule insider trading",
+      "日本 フェアディスクロージャー insider trading"
+    ],
+    "domain": "finance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "disclosure",
+      "insider-trading",
+      "fair-disclosure",
+      "FIEA",
+      "Japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/common/law/kaiji/index.html",
+      "https://www.fsa.go.jp/common/law/kaiji/20180206-2.pdf",
+      "https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4633/en",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/3429/en",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/english/regulation/preventing/insider/",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/",
+      "https://www.jpx.co.jp/equities/listing/disclosure/overview/"
+    ]
+  },
+  "summary": "Japan fair disclosure and insider-trading records connect selective disclosure, timely disclosure, unpublished material facts, issuer information management, insider trading restrictions, and exchange disclosure systems. Public routes include FSA fair-disclosure materials, Financial Instruments and",
+  "headings": [
+    "Japan fair disclosure and insider trading controls",
+    "Overview",
+    "Control Map",
+    "Fair Disclosure Rule Fields",
+    "Insider Trading Publication Fields",
+    "TDnet Public Surfaces",
+    "Public Record Fields",
+    "Linked Disclosure Routes",
+    "Legal Publication and Practical Information Gap",
+    "JapanFG Relevance"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/nomura-hd",
+      "JapanFG/sbi-hd",
+      "JapanFG/smfg",
+      "JapanFG/sony-fg",
+      "JapanFG/wealthnavi",
+      "finance/INDEX",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-tender-offer-process",
+      "securities/INDEX",
+      "securities/japan-ipo-listing-disclosure-route",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-underwriting-market-structure",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/wealthnavi",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-underwriting-market-structure",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6964,
+    "word_like_tokens": 1013,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-22"
+  }
+}

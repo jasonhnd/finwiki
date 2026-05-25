@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sony-bank",
+  "source_path": "JapanFG/sony-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sony-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sony-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sony-bank.md",
+  "domain": "JapanFG",
+  "title": "ソニー銀行 (Sony Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ソニー銀行 (Sony Bank)",
+    "aliases": [
+      "Sony Bank",
+      "ソニー銀行",
+      "ソニー銀行株式会社",
+      "Sony Bank Incorporated"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "net-bank",
+      "sony-fg",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://sonybank.jp/corporate/disclosure/disclosure.html",
+      "https://sonybank.jp/corporate/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 大和ネクスト銀行 (Daiwa Next Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ソニー銀行 (Sony Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/daiwa-next-bank",
+      "JapanFG/lifenet",
+      "JapanFG/sony-fg",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/paypay-bank",
+      "banking/rakuten-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-next-bank",
+      "https://finwiki.zksc.io/JapanFG/lifenet",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1602,
+    "word_like_tokens": 232,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-21"
+  }
+}

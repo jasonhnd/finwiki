@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/fire-math-reverse-derivation",
+  "source_path": "finance/fire-math-reverse-derivation.md",
+  "url": "https://finwiki.zksc.io/finance/fire-math-reverse-derivation",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/fire-math-reverse-derivation.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/fire-math-reverse-derivation.md",
+  "domain": "finance",
+  "title": "FIRE 数学反推框架",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FIRE 数学反推框架",
+    "aliases": [],
+    "domain": "finance",
+    "created": "2026-04-20",
+    "last_updated": "2026-05-03",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "certain",
+    "tags": [
+      "fire",
+      "personal-finance",
+      "retirement",
+      "safe-withdrawal-rate"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "Cooley, Hubbard, and Walz, 1998 Trinity Study on retirement spending.",
+      "William Bengen, public safe-withdrawal-rate research.",
+      "Public FIRE community materials on withdrawal-rate arithmetic."
+    ]
+  },
+  "summary": "This entry sits under finance index. Read it against Japan IB league table for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "FIRE 数学反推框架",
+    "Wiki route",
+    "核心命题",
+    "标准参数",
+    "四步反推流程",
+    "数学校验公式",
+    "缺口分析",
+    "与\"单纯存钱\"模式的关键区别",
+    "安全垫意识",
+    "适用边界"
+  ],
+  "body_links": {
+    "wikilinks_count": 5,
+    "wikilinks": [
+      "INDEX",
+      "finance/INDEX",
+      "finance/japan-ib-league-table",
+      "finance/multi-jurisdiction-identity-tax-leverage",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2268,
+    "word_like_tokens": 394,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

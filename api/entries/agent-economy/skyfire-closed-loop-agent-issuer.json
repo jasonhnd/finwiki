@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/skyfire-closed-loop-agent-issuer",
+  "source_path": "agent-economy/skyfire-closed-loop-agent-issuer.md",
+  "url": "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/skyfire-closed-loop-agent-issuer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/skyfire-closed-loop-agent-issuer.md",
+  "domain": "agent-economy",
+  "title": "Skyfire · closed-loop card-network agent payment issuer",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Skyfire · closed-loop card-network agent payment issuer",
+    "aliases": [
+      "skyfire-closed-loop-agent-issuer",
+      "Skyfire",
+      "Skyfire AI agent virtual card",
+      "agent payment issuer"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "payment",
+      "skyfire",
+      "visa",
+      "stripe",
+      "agent-issuer",
+      "virtual-card",
+      "closed-loop",
+      "KYA"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.skyfire.xyz/",
+      "https://stripe.com/newsroom",
+      "https://usa.visa.com/visa-everywhere/innovation/agentic-commerce.html",
+      "https://www.visa.com/agentic-commerce",
+      "https://docs.skyfire.xyz/"
+    ]
+  },
+  "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against x402 · HTTP 402 stablecoin rail and AP2 · Google mandate protocol for peer / contrast, Visa / Mastercard agentic-commerce pilots for card-network framing, and payments index for the broader regulatory boundary.",
+  "headings": [
+    "Skyfire · closed-loop card-network agent payment issuer",
+    "Wiki route",
+    "Key facts",
+    "Mechanism — what closed-loop means here",
+    "Where Skyfire sits in the seven-protocol map",
+    "Competitive positioning",
+    "Origin and evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/agent-actorship-debate",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/stripe-agent-toolkit-position",
+      "agent-economy/visa-mastercard-agentic-commerce-pilots",
+      "agent-economy/x402-http-payment-overview",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position",
+      "https://finwiki.zksc.io/agent-economy/visa-mastercard-agentic-commerce-pilots",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6219,
+    "word_like_tokens": 973,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

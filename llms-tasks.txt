@@ -1,0 +1,171 @@
+# FinWiki — Task-Oriented Entry Guide for AI Agents
+
+> Compact task-oriented entry guide for LLM / browse-tool consumers. Pairs with
+> [llms.txt](llms.txt) (compact overview), [llms-full.txt](llms-full.txt) (full
+> page manifest), [ai-index.json](ai-index.json) (machine-readable manifest),
+> [INDEX.md](INDEX.md) (human-readable domain map), and
+> [HOW-TO-NAVIGATE.md](HOW-TO-NAVIGATE.md) (reader-profile navigation guide).
+>
+> Format per task: stated user intent → start file → bedrock follow-ups →
+> cross-references → comparison matrix anchor. All paths relative to
+> `http://finwiki.zksc.io/` (or raw on GitHub:
+> `https://raw.githubusercontent.com/jasonhnd/finwiki/main/`).
+>
+> Snapshot: 1,449 files / 1,411 link-audited entries / 23 domains /
+> ~10.43M chars. Last refreshed 2026-05-25 JST.
+
+---
+
+## How to use this file
+
+1. Identify the closest matching task below.
+2. Fetch the **start file** first. It anchors the topic.
+3. Fetch the listed **bedrock follow-ups** to deepen.
+4. The **matrix anchor** gives a cross-entity comparison view.
+5. If the user's intent does not match any task, fall back to
+   [INDEX.md](INDEX.md) → relevant domain INDEX → search by domain slug.
+
+---
+
+## TASK: Research Japan banking license tiers + BaaS perimeter
+
+- **Start**: [banking/japan-banking-license-tier-comparison-matrix.md](banking/japan-banking-license-tier-comparison-matrix.md)
+- **Bedrock**: [banking/japan-baas-operating-models.md](banking/japan-baas-operating-models.md), [JapanFG/legal-financial-licenses/INDEX.md](JapanFG/legal-financial-licenses/INDEX.md), [banking/japan-stablecoin-bank-perimeter-2025.md](banking/japan-stablecoin-bank-perimeter-2025.md)
+- **Operating-company anchors**: [JapanFG/INDEX.md](JapanFG/INDEX.md) (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF rows)
+- **Net banks**: [banking/japan-net-bank-deposit-feature-matrix-2026.md](banking/japan-net-bank-deposit-feature-matrix-2026.md)
+- **System / regulator**: [fintech/japan-financial-regulation.md](fintech/japan-financial-regulation.md)
+
+## TASK: Track global stablecoin macro 2025-2026 (GENIUS / MiCA / HKMA / MAS / EPI)
+
+- **Start**: [fintech/global-stablecoin-regulatory-five-pole-matrix.md](fintech/global-stablecoin-regulatory-five-pole-matrix.md)
+- **Bedrock (regulatory)**: [fintech/genius-act-501-actual-implementation.md](fintech/genius-act-501-actual-implementation.md), [fintech/eu-mica-implementation-status-2026.md](fintech/eu-mica-implementation-status-2026.md), [fintech/hkma-stablecoin-licensing-overview.md](fintech/hkma-stablecoin-licensing-overview.md), [fintech/singapore-mas-payment-services-act-overview.md](fintech/singapore-mas-payment-services-act-overview.md)
+- **Issuers**: [fintech/circle-usdc-stablecoin.md](fintech/circle-usdc-stablecoin.md), [fintech/paypal-pyusd-stablecoin.md](fintech/paypal-pyusd-stablecoin.md), [fintech/ripple-rlusd-stablecoin.md](fintech/ripple-rlusd-stablecoin.md), [fintech/jpmorgan-jpmd-coin.md](fintech/jpmorgan-jpmd-coin.md), [fintech/tether-usat-anchorage.md](fintech/tether-usat-anchorage.md), [fintech/stripe-usdb-bridge-stablecoin.md](fintech/stripe-usdb-bridge-stablecoin.md)
+- **Matrix**: [fintech/usd-stablecoin-issuer-eight-way-matrix.md](fintech/usd-stablecoin-issuer-eight-way-matrix.md)
+- **Japan side**: [fintech/japan-stablecoin-regulatory-landscape.md](fintech/japan-stablecoin-regulatory-landscape.md), [fintech/jp-stablecoin-progmat.md](fintech/jp-stablecoin-progmat.md), [fintech/japan-epi-three-types-overview.md](fintech/japan-epi-three-types-overview.md)
+
+## TASK: Build Japan M&A deal compendium (TOB / MBO / squeeze-out)
+
+- **Start**: [securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md](securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md)
+- **Process**: [finance/japan-tender-offer-process.md](finance/japan-tender-offer-process.md), [finance/japan-mbo-and-squeeze-out-process.md](finance/japan-mbo-and-squeeze-out-process.md), [finance/japan-takeover-defense-poison-pill.md](finance/japan-takeover-defense-poison-pill.md)
+- **JFTC review**: [finance/jftc-merger-control-process.md](finance/jftc-merger-control-process.md)
+- **Strategic context**: [business/japan-listed-corp-strategic-restructuring-matrix.md](business/japan-listed-corp-strategic-restructuring-matrix.md), [corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md](corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md), [corporate-strategy/spinoff-decision-tree-japan.md](corporate-strategy/spinoff-decision-tree-japan.md)
+- **Financing**: [finance/japan-acquisition-finance.md](finance/japan-acquisition-finance.md), [finance/japan-leveraged-buyout-economics.md](finance/japan-leveraged-buyout-economics.md)
+
+## TASK: Understand J-REIT landscape + governance
+
+- **Start**: [real-estate-finance/INDEX.md](real-estate-finance/INDEX.md)
+- **Matrices**: [real-estate-finance/j-reit-top-20-detailed-matrix.md](real-estate-finance/j-reit-top-20-detailed-matrix.md), [real-estate-finance/j-reit-vs-us-reit-governance-comparison.md](real-estate-finance/j-reit-vs-us-reit-governance-comparison.md), [real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison.md](real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison.md)
+- **Top 5 individual J-REITs**: [real-estate-finance/nippon-building-fund-j-reit-8951.md](real-estate-finance/nippon-building-fund-j-reit-8951.md), [real-estate-finance/japan-real-estate-j-reit-8952.md](real-estate-finance/japan-real-estate-j-reit-8952.md), [real-estate-finance/nomura-real-estate-master-fund-nmf.md](real-estate-finance/nomura-real-estate-master-fund-nmf.md), [real-estate-finance/glp-j-reit-3281.md](real-estate-finance/glp-j-reit-3281.md), [real-estate-finance/nippon-prologis-reit-3283.md](real-estate-finance/nippon-prologis-reit-3283.md)
+- **Valuation**: [real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework.md](real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework.md)
+
+## TASK: Map Japan payment ecosystem (card / code / A2A / prepaid)
+
+- **Start**: [payments/INDEX.md](payments/INDEX.md)
+- **Cashless overview**: [payments/japan-cashless-payment-market-overview.md](payments/japan-cashless-payment-market-overview.md)
+- **Card four-brand**: [payments/visa-mastercard-amex-jcb-japan-operating-comparison.md](payments/visa-mastercard-amex-jcb-japan-operating-comparison.md)
+- **Code payment 2025**: [payments/japan-code-payment-operator-2025-market-share-matrix.md](payments/japan-code-payment-operator-2025-market-share-matrix.md)
+- **Prepaid major issuers**: [payments/waon-prepaid-aeon.md](payments/waon-prepaid-aeon.md), [payments/nanaco-prepaid-seven-i.md](payments/nanaco-prepaid-seven-i.md), [payments/suica-prepaid-jr-east.md](payments/suica-prepaid-jr-east.md), [payments/pasmo-prepaid-tokyo-metro.md](payments/pasmo-prepaid-tokyo-metro.md)
+- **Settlement infra**: [payments/japan-payment-clearing-and-settlement-infrastructure.md](payments/japan-payment-clearing-and-settlement-infrastructure.md)
+
+## TASK: Compare crypto exchange / VASP regulation (Japan + global)
+
+- **Start**: [exchanges/INDEX.md](exchanges/INDEX.md)
+- **Japan registry**: [exchanges/fsa-vasp-registration-system.md](exchanges/fsa-vasp-registration-system.md), [exchanges/jvcea-self-regulatory-overview.md](exchanges/jvcea-self-regulatory-overview.md)
+- **Global matrix**: [exchanges/global-vasp-regulatory-comparison-matrix.md](exchanges/global-vasp-regulatory-comparison-matrix.md), [exchanges/global-cex-top10-comparison.md](exchanges/global-cex-top10-comparison.md)
+- **Country deep dives**: [exchanges/hk-sfc-vasp-licensing-overview.md](exchanges/hk-sfc-vasp-licensing-overview.md), [exchanges/sg-mas-dpt-licensing-overview.md](exchanges/sg-mas-dpt-licensing-overview.md), [exchanges/korea-cex-five-pillars-comparison.md](exchanges/korea-cex-five-pillars-comparison.md)
+- **Major operators**: [exchanges/jp-exchange-bitflyer.md](exchanges/jp-exchange-bitflyer.md), [exchanges/jp-exchange-sbi-vc-trade.md](exchanges/jp-exchange-sbi-vc-trade.md), [exchanges/jp-exchange-binance-japan.md](exchanges/jp-exchange-binance-japan.md)
+- **Incidents**: [exchanges/jp-vasp-incident-history.md](exchanges/jp-vasp-incident-history.md), [exchanges/coincheck-nem-hack-detailed-analysis.md](exchanges/coincheck-nem-hack-detailed-analysis.md), [exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md](exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md)
+
+## TASK: Research cross-chain infrastructure + bridge security
+
+- **Start**: [systems/cross-chain-bridge-eight-pole-comparison.md](systems/cross-chain-bridge-eight-pole-comparison.md)
+- **Per-bridge**: [systems/ibc-cosmos-cross-chain.md](systems/ibc-cosmos-cross-chain.md), [systems/cctp-v2-overview.md](systems/cctp-v2-overview.md), [systems/polkadot-xcm-parachain-messaging.md](systems/polkadot-xcm-parachain-messaging.md), [systems/hyperlane-permissionless-interop-overview.md](systems/hyperlane-permissionless-interop-overview.md)
+- **Security matrix**: [systems/cross-chain-bridge-security-insurance-matrix-2026.md](systems/cross-chain-bridge-security-insurance-matrix-2026.md)
+- **L2 economics**: [systems/l2-agent-economics-arbitrum-base-op-comparison.md](systems/l2-agent-economics-arbitrum-base-op-comparison.md)
+- **Ecosystems**: [systems/sui-aptos-move-l1-ecosystem.md](systems/sui-aptos-move-l1-ecosystem.md), [systems/ton-telegram-openwallet-ecosystem.md](systems/ton-telegram-openwallet-ecosystem.md)
+
+## TASK: Understand insurance solvency frameworks (Japan ESR / IAIS ICS / EU SII / US RBC)
+
+- **Start**: [insurance/global-solvency-framework-comparison-matrix.md](insurance/global-solvency-framework-comparison-matrix.md)
+- **Japan ESR**: [insurance/esr-economic-value-solvency.md](insurance/esr-economic-value-solvency.md), [insurance/economic-value-based-solvency.md](insurance/economic-value-based-solvency.md), [insurance/japan-iaig-ics-mapping.md](insurance/japan-iaig-ics-mapping.md)
+- **Operating context**: [insurance/japan-insurance-system-overview.md](insurance/japan-insurance-system-overview.md), [insurance/japan-life-big-four-overlay-comparison-matrix.md](insurance/japan-life-big-four-overlay-comparison-matrix.md)
+- **Cooperative perimeter (non-FSA)**: [insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix.md](insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix.md), [insurance/ja-kyosai-zenkyoren-overview.md](insurance/ja-kyosai-zenkyoren-overview.md), [insurance/kampo-japan-post-insurance.md](insurance/kampo-japan-post-insurance.md)
+
+## TASK: Investigate Japan policy finance (JBIC / JICA / NEXI / JOGMEC / JFC / DBJ)
+
+- **Start**: [policy-finance/INDEX.md](policy-finance/INDEX.md)
+- **System overview**: [policy-finance/japan-policy-finance-system.md](policy-finance/japan-policy-finance-system.md)
+- **Each institution deep**: [policy-finance/jbic-overseas-investment-underwriting-process.md](policy-finance/jbic-overseas-investment-underwriting-process.md), [policy-finance/jica.md](policy-finance/jica.md), [policy-finance/nexi.md](policy-finance/nexi.md), [policy-finance/jogmec.md](policy-finance/jogmec.md), [policy-finance/jfc-sme-division-operating-model.md](policy-finance/jfc-sme-division-operating-model.md), [JapanFG/dbj.md](JapanFG/dbj.md), [policy-finance/dbj-mandate-deep-dive.md](policy-finance/dbj-mandate-deep-dive.md)
+- **Credit guarantee**: [policy-finance/japan-credit-guarantee-system.md](policy-finance/japan-credit-guarantee-system.md), [policy-finance/hokkaido-credit-guarantee-corporation.md](policy-finance/hokkaido-credit-guarantee-corporation.md)
+
+## TASK: Compare derivatives products (rates / equity / FX / credit)
+
+- **Rates**: [derivatives/japan-rates-derivative-product-matrix.md](derivatives/japan-rates-derivative-product-matrix.md)
+- **Equity**: [derivatives/japan-equity-derivatives-product-matrix.md](derivatives/japan-equity-derivatives-product-matrix.md)
+- **FX**: [derivatives/cross-currency-basis-swap-japan.md](derivatives/cross-currency-basis-swap-japan.md), [derivatives/japan-fx-options-otc-market.md](derivatives/japan-fx-options-otc-market.md)
+- **Credit**: [derivatives/japan-cds-market-overview.md](derivatives/japan-cds-market-overview.md), [derivatives/structured-product-eb-knockin-japan-retail.md](derivatives/structured-product-eb-knockin-japan-retail.md)
+- **OTC clearing**: [derivatives/jscc-otc-clearing-infrastructure.md](derivatives/jscc-otc-clearing-infrastructure.md), [derivatives/isda-2020-protocol-japan-implementation.md](derivatives/isda-2020-protocol-japan-implementation.md)
+- **OTC market overview**: [derivatives/japan-otc-derivative-market-overview.md](derivatives/japan-otc-derivative-market-overview.md)
+
+## TASK: Understand agent-economy protocols (x402 / AP2 / Skyfire / Nevermined)
+
+- **Start**: [agent-economy/INDEX.md](agent-economy/INDEX.md)
+- **Comparison**: [agent-economy/agent-payment-protocol-four-way-comparison-2026.md](agent-economy/agent-payment-protocol-four-way-comparison-2026.md)
+- **Per-protocol**: [agent-economy/x402-http-payment-overview.md](agent-economy/x402-http-payment-overview.md), [agent-economy/ap2-overview.md](agent-economy/ap2-overview.md), [agent-economy/skyfire-closed-loop-agent-issuer.md](agent-economy/skyfire-closed-loop-agent-issuer.md), [agent-economy/nevermined-compute-payment-protocol.md](agent-economy/nevermined-compute-payment-protocol.md)
+- **Identity / wallet**: [agent-economy/lit-protocol-pkp-agent-keys.md](agent-economy/lit-protocol-pkp-agent-keys.md), [agent-economy/agent-identity-defi-and-traditional-finance-bridge.md](agent-economy/agent-identity-defi-and-traditional-finance-bridge.md)
+- **Custody framework**: [agent-economy/agent-custody-and-authorization-framework-2026.md](agent-economy/agent-custody-and-authorization-framework-2026.md)
+- **Regulation**: [agent-economy/ai-driven-trading-regulation-japan-2026.md](agent-economy/ai-driven-trading-regulation-japan-2026.md)
+
+## TASK: Research structured finance + ABS waterfall mechanics
+
+- **Start**: [structured-finance/INDEX.md](structured-finance/INDEX.md) + [structured-finance/japan-securitization-product-matrix.md](structured-finance/japan-securitization-product-matrix.md)
+- **Per-product mechanics**: [structured-finance/japan-auto-loan-abs-waterfall-mechanics.md](structured-finance/japan-auto-loan-abs-waterfall-mechanics.md), [structured-finance/japan-consumer-loan-abs-structure.md](structured-finance/japan-consumer-loan-abs-structure.md), [structured-finance/japan-credit-card-receivable-abs.md](structured-finance/japan-credit-card-receivable-abs.md), [structured-finance/japan-equipment-lease-abs.md](structured-finance/japan-equipment-lease-abs.md)
+- **CLO / NPL / project finance**: [structured-finance/japan-clo-issuance-japanese-banks.md](structured-finance/japan-clo-issuance-japanese-banks.md), [structured-finance/npl-securitization-japan.md](structured-finance/npl-securitization-japan.md), [structured-finance/project-finance-spv-japan-renewable.md](structured-finance/project-finance-spv-japan-renewable.md)
+- **Rating methodology**: [structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md](structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md), [structured-finance/fitch-moody-sp-japan-criteria.md](structured-finance/fitch-moody-sp-japan-criteria.md)
+- **Covered bonds**: [structured-finance/japan-covered-bond-mufg-smbc.md](structured-finance/japan-covered-bond-mufg-smbc.md)
+
+## TASK: Identify Japan public-company strategic restructuring cases
+
+- **Master matrix**: [business/japan-listed-corp-strategic-restructuring-matrix.md](business/japan-listed-corp-strategic-restructuring-matrix.md)
+- **Recent canonical cases**: [business/sony-fg-partial-spinoff-case.md](business/sony-fg-partial-spinoff-case.md), [business/softbank-vision-fund-arm-ipo-template.md](business/softbank-vision-fund-arm-ipo-template.md), [corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md](corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md), [business/rakuten-group-mobile-finance-bundling-case.md](business/rakuten-group-mobile-finance-bundling-case.md)
+- **Spinoff regime**: [corporate-strategy/partial-spinoff-tax-deferral.md](corporate-strategy/partial-spinoff-tax-deferral.md), [corporate-strategy/spinoff-decision-tree-japan.md](corporate-strategy/spinoff-decision-tree-japan.md), [corporate-strategy/kabushiki-koufu-stock-distribution-regime.md](corporate-strategy/kabushiki-koufu-stock-distribution-regime.md)
+
+## TASK: Map Japan money-market structure (call / repo / CP / NCD / TBill / MMF / BoJ ops)
+
+- **Start**: [money-market/japan-money-market-structure.md](money-market/japan-money-market-structure.md) + [money-market/japan-short-term-funding-instrument-matrix.md](money-market/japan-short-term-funding-instrument-matrix.md)
+- **Per-instrument**: [money-market/japan-call-money-market.md](money-market/japan-call-money-market.md), [money-market/japan-jgb-repo-securities-financing.md](money-market/japan-jgb-repo-securities-financing.md), [money-market/japan-cp-commercial-paper-market.md](money-market/japan-cp-commercial-paper-market.md), [money-market/japan-ncd-negotiable-cd-market.md](money-market/japan-ncd-negotiable-cd-market.md), [money-market/japan-tbill-treasury-discount-bill.md](money-market/japan-tbill-treasury-discount-bill.md), [money-market/japan-mmf-money-market-mutual-fund.md](money-market/japan-mmf-money-market-mutual-fund.md)
+- **BoJ ops post-2024**: [money-market/boj-post-2024-floor-system-complementary-deposit-facility.md](money-market/boj-post-2024-floor-system-complementary-deposit-facility.md), [money-market/boj-open-market-operations-overview.md](money-market/boj-open-market-operations-overview.md)
+
+## TASK: Understand Japan capital markets ecosystem (IPO / NISA / PTS / margin / short-selling)
+
+- **Start**: [securities/japan-capital-markets-ecosystem-overview.md](securities/japan-capital-markets-ecosystem-overview.md)
+- **NISA 2024 + 2025 reform**: [securities/nisa-2024-flow.md](securities/nisa-2024-flow.md), [securities/nisa-2025-tax-reform-update.md](securities/nisa-2025-tax-reform-update.md)
+- **IPO route + case studies**: [securities/japan-ipo-listing-disclosure-route.md](securities/japan-ipo-listing-disclosure-route.md), [securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md](securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md)
+- **PTS / best execution**: [securities/japan-best-execution-sor-pts.md](securities/japan-best-execution-sor-pts.md), [securities/japan-pts-liquidity-data.md](securities/japan-pts-liquidity-data.md)
+- **Margin + short-selling**: [securities/japan-margin-trading-and-securities-finance.md](securities/japan-margin-trading-and-securities-finance.md), [securities/japan-short-selling-and-stock-loan-controls.md](securities/japan-short-selling-and-stock-loan-controls.md)
+
+## TASK: Find a specific entity (Japanese bank / insurer / securities firm / regulator)
+
+- **Registry indexes**: [JapanFG/foreign-bank-branches-japan-index.md](JapanFG/foreign-bank-branches-japan-index.md), [JapanFG/trust-companies-japan-index.md](JapanFG/trust-companies-japan-index.md), [JapanFG/nonlife-insurer-registry-japan-index.md](JapanFG/nonlife-insurer-registry-japan-index.md), [banking/shinkin-bank-registry-japan.md](banking/shinkin-bank-registry-japan.md), [banking/credit-cooperative-registry-japan.md](banking/credit-cooperative-registry-japan.md), [banking/rokin-bank-registry-japan.md](banking/rokin-bank-registry-japan.md)
+- **Pattern**: Use `JapanFG/<slug>.md` for operating-company anchors. Examples: `JapanFG/mufg.md`, `JapanFG/smbc.md`, `JapanFG/mizuho-fg.md`, `JapanFG/japan-post-bank.md`, `JapanFG/kampo-life.md`, `JapanFG/nomura-hd.md`, `JapanFG/daiwa-securities.md`, `JapanFG/fsa.md`, `JapanFG/boj.md`, `JapanFG/dic.md`, `JapanFG/jcr.md`, `JapanFG/rating-and-investment.md`.
+
+---
+
+## How to fetch ANY entry as JSON
+
+Every entry has a JSON equivalent at:
+- `api/entries/<domain>/<slug>.json`
+
+Example: `api/entries/fintech/circle-usdc-stablecoin.json` returns
+title / aliases / domain / dates / confidence / tags / status / sources /
+body summary / body headings / body wikilinks / inbound link count.
+
+For the full manifest of every entry use [ai-index.json](ai-index.json).
+
+## How to cite
+
+Each entry has stable URL: `http://finwiki.zksc.io/<domain>/<slug>.md` or
+raw GitHub: `https://raw.githubusercontent.com/jasonhnd/finwiki/main/<domain>/<slug>.md`.
+Public-surface guarantee: only public web information / official records /
+regulator filings / corporate IR / press releases / public market data are
+included. Safe to quote and cite.

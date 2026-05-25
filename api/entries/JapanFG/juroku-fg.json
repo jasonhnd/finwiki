@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/juroku-fg",
+  "source_path": "JapanFG/juroku-fg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/juroku-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/juroku-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/juroku-fg.md",
+  "domain": "JapanFG",
+  "title": "十六 FG (Juroku Financial Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "十六 FG (Juroku Financial Group)",
+    "aliases": [
+      "十六フィナンシャルグループ",
+      "Juroku FG",
+      "十六 FG",
+      "Juroku Financial Group",
+      "16FG"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 十六銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "十六 FG (Juroku Financial Group)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・関連会社",
+    "2. 合併歷史・前身",
+    "旧 十六銀行系 (源流)",
+    "持株会社化",
+    "周辺関係",
+    "3. 业务线 map"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aichi-fg",
+      "JapanFG/fukuoka-fg",
+      "banking/INDEX",
+      "hokuhoku-fg",
+      "ikeda-senshu-hd",
+      "mufg",
+      "nishi-nippon-fhd",
+      "ogaki-kyoritsu-bank",
+      "san-jusan-fg",
+      "shizuoka-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aichi-fg",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/hokuhoku-fg",
+      "https://finwiki.zksc.io/ikeda-senshu-hd",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nishi-nippon-fhd",
+      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/shizuoka-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4422,
+    "word_like_tokens": 566,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-21"
+  }
+}

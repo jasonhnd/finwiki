@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/cz-binance-founder-handoff-case",
+  "source_path": "business/cz-binance-founder-handoff-case.md",
+  "url": "https://finwiki.zksc.io/business/cz-binance-founder-handoff-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/cz-binance-founder-handoff-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/cz-binance-founder-handoff-case.md",
+  "domain": "business",
+  "title": "Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership",
+    "aliases": [
+      "cz-binance-founder-handoff-case",
+      "CZ Binance handoff",
+      "Binance founder transition 2023",
+      "Richard Teng Binance CEO appointment",
+      "Binance DOJ settlement case"
+    ],
+    "domain": "business",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "binance",
+      "cz",
+      "doj",
+      "settlement",
+      "founder-handoff",
+      "governance",
+      "crypto"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.binance.com/en/news",
+      "https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution",
+      "https://home.treasury.gov/news/press-releases/jy1925",
+      "https://www.cnbc.com/binance/",
+      "https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-101.pdf"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public people-case study (note: Binance is privately held, but the founder transition is a public-record case). Read it against Brian Armstrong Coinbase exchange-as-public-company template for the contrasting US-listed-incumbent path, Jamie Dimon anti-crypto",
+  "headings": [
+    "Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership",
+    "Wiki route",
+    "TL;DR",
+    "1. Pre-Settlement Position",
+    "2. The November 2023 Settlement Architecture",
+    "3. The Founder-Handoff Mechanism",
+    "4. Richard Teng — Regulator-To-CEO Credential",
+    "5. Post-Handoff Trajectory (2024-2025)",
+    "6. Comparison With Other Founder-Crisis Templates",
+    "7. The Retained-Ownership Insight"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/bitflyer",
+      "JapanFG/bittrade",
+      "JapanFG/gmo-coin",
+      "JapanFG/sbi-hd",
+      "business/INDEX",
+      "business/brian-armstrong-coinbase-public-company-template",
+      "business/christine-moy-talent-signal-jpm-apollo",
+      "business/founder-pivot-outcome-template-matrix",
+      "business/hester-peirce-sec-regulatory-pivot-case",
+      "business/jamie-dimon-anti-crypto-pivot-case",
+      "business/paolo-ardoino-tether-business-model-template",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-crypto-exchange-bankruptcy-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bitflyer",
+      "https://finwiki.zksc.io/JapanFG/bittrade",
+      "https://finwiki.zksc.io/JapanFG/gmo-coin",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template",
+      "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
+      "https://finwiki.zksc.io/business/founder-pivot-outcome-template-matrix",
+      "https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case",
+      "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case",
+      "https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11325,
+    "word_like_tokens": 1804,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

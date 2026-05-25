@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/japan-best-execution-sor-pts",
+  "source_path": "securities/japan-best-execution-sor-pts.md",
+  "url": "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-best-execution-sor-pts.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-best-execution-sor-pts.md",
+  "domain": "securities",
+  "title": "Japan best execution, SOR, and PTS",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan best execution, SOR, and PTS",
+    "aliases": [
+      "japan-best-execution-sor-pts",
+      "Japan best execution",
+      "SOR and PTS Japan",
+      "最良執行 SOR PTS"
+    ],
+    "domain": "securities",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "best-execution",
+      "SOR",
+      "PTS",
+      "brokerage",
+      "market-infrastructure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/common/law/guide/kinyushohin/",
+      "https://www.fsa.go.jp/common/law/guide/kinyushohin.pdf",
+      "https://www.fsa.go.jp/policy/kokyakuhoni/kokyakuhoni.html",
+      "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "https://www.jsda.or.jp/about/kisoku/index.html",
+      "https://www.japannext.co.jp/",
+      "https://www.odx.co.jp/",
+      "https://www.jpx.co.jp/equities/clearing-settlement/outline/index.html"
+    ]
+  },
+  "summary": "Best execution in Japan is the control layer behind retail stock-fee competition. A broker's \"zero commission\" message does not by itself explain whether a customer order is routed to Tokyo Stock Exchange, a proprietary trading system (PTS), or another execution path, nor whether price, cost, speed,",
+  "headings": [
+    "Japan best execution, SOR, and PTS",
+    "Overview",
+    "Source Stack",
+    "Execution Route Map",
+    "SOR Is Not A Magic Word",
+    "PTS Role",
+    "Broker Comparison Questions",
+    "JapanFG Relevance",
+    "Risks and Caveats",
+    "Research Checklist"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/dmm-com-securities",
+      "JapanFG/gmo-click-securities",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "JapanFG/mufg-esmart-securities",
+      "JapanFG/paypay-securities",
+      "JapanFG/rakuten-securities",
+      "JapanFG/sbi-securities",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-online-brokerage-competition",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/japannext-securities",
+      "securities/osaka-digital-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/JapanFG/mufg-esmart-securities",
+      "https://finwiki.zksc.io/JapanFG/paypay-securities",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/japannext-securities",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8084,
+    "word_like_tokens": 1238,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-05-22"
+  }
+}

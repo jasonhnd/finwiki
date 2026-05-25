@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/meiji-yasuda",
+  "source_path": "JapanFG/meiji-yasuda.md",
+  "url": "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/meiji-yasuda.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/meiji-yasuda.md",
+  "domain": "JapanFG",
+  "title": "明治安田生命保険相互会社",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "明治安田生命保険相互会社",
+    "aliases": [
+      "明治安田生命",
+      "Meiji Yasuda Life",
+      "Meiji Yasuda",
+      "明治安田",
+      "MY 生命"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "mutual-company"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 明治安田生命保険 (2026-05-19 抽出)",
+      "明治安田生命 公式サイト 沿革 (2026-05-19 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "明治安田生命保険相互会社",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "相互会社形態のポイント",
+    "2. 合并历史与年表",
+    "前身 2 系統",
+    "重要年表",
+    "主要子会社・関連",
+    "3. 业务线 map"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/nippon-life",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "nippon-life",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4053,
+    "word_like_tokens": 588,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-05-21"
+  }
+}

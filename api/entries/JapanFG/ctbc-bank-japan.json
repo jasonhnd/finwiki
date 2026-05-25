@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ctbc-bank-japan",
+  "source_path": "JapanFG/ctbc-bank-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ctbc-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ctbc-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ctbc-bank-japan.md",
+  "domain": "JapanFG",
+  "title": "中國信託商業銀行 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "中國信託商業銀行 東京支店",
+    "aliases": [
+      "CTBC Bank Japan",
+      "CTBC Bank Tokyo Branch",
+      "CTBC Tokyo Branch",
+      "中國信託商業銀行",
+      "中国信託商業銀行東京支店"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "taiwan",
+      "asia-corridor",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://corporate.ctbcbank.com/jp/download/Application_JP.pdf",
+      "https://www.zenginkyo.or.jp/en/outline/list-of-members/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 兆豐國際商業銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "中國信託商業銀行 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/mega-icbc-japan",
+      "bank-of-taiwan-japan",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "esun-bank-japan",
+      "mega-icbc-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mega-icbc-japan",
+      "https://finwiki.zksc.io/bank-of-taiwan-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/esun-bank-japan",
+      "https://finwiki.zksc.io/mega-icbc-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1939,
+    "word_like_tokens": 319,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-21"
+  }
+}

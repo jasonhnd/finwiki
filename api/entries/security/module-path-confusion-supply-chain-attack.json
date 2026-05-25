@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/module-path-confusion-supply-chain-attack",
+  "source_path": "security/module-path-confusion-supply-chain-attack.md",
+  "url": "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/module-path-confusion-supply-chain-attack.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/module-path-confusion-supply-chain-attack.md",
+  "domain": "security",
+  "title": "Module path confusion + LICENSE strip = supply chain attack 三连击",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Module path confusion + LICENSE strip = supply chain attack 三连击",
+    "aliases": [],
+    "domain": "security",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-08",
+    "confidence": "possible",
+    "tags": [
+      "security/supply-chain",
+      "security/dependency",
+      "security/dd"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://go.dev/ref/mod",
+      "https://docs.npmjs.com/cli/v10/configuring-npm/package-json",
+      "https://securityscorecards.dev/"
+    ]
+  },
+  "summary": "This entry sits under FinWiki index. Read it with fork-and-rebrand audit framework for peer context and systems index for the broader dependency boundary.",
+  "headings": [
+    "Module path confusion + LICENSE strip = supply chain attack 三连击",
+    "Wiki route",
+    "三连击拆解",
+    "1. Module path confusion",
+    "2. Replace hijack",
+    "3. LICENSE strip",
+    "识别 checklist",
+    "When to Use",
+    "When NOT to Use",
+    "Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/jp-vasp-security-audit-certification",
+      "forensic-identity-anchor-chain",
+      "fork-and-rebrand-5-layer-audit-framework",
+      "security/fork-and-rebrand-5-layer-audit-framework",
+      "systems/INDEX",
+      "systems/canton-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2385,
+    "word_like_tokens": 408,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/seven-bank",
+  "source_path": "JapanFG/seven-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/seven-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/seven-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/seven-bank.md",
+  "domain": "JapanFG",
+  "title": "セブン銀行 (Seven Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "セブン銀行 (Seven Bank)",
+    "aliases": [
+      "Seven Bank",
+      "セブン銀行",
+      "株式会社セブン銀行",
+      "Seven Bank",
+      "Ltd.",
+      "旧 アイワイバンク銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "retail-bank",
+      "atm-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社セブン銀行 (2026-05-19 抽出)",
+      "セブン銀行 公式コーポレートサイト 沿革 (2026-05-19 参照)",
+      "セブン&アイ・ホールディングス 有価証券報告書 (2025-02 期)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ローソン銀行 (Lawson Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "セブン銀行 (Seven Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "業態の特徴",
+    "主要子会社・グループ ^[extracted]",
+    "株主構造（連結）^[ambiguous]",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "収益モデル（B2B2C）"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/lawson-bank",
+      "aeon-bank",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "lawson-bank",
+      "mizuho-fg",
+      "mufg",
+      "retail/seven-and-i-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/lawson-bank",
+      "https://finwiki.zksc.io/aeon-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/lawson-bank",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5539,
+    "word_like_tokens": 849,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-05-21"
+  }
+}
