@@ -61,4 +61,4 @@ Type 1 が "事業者" であれば Type 2 は "業界エコシステム"。 韓
 
 ---
 
-来源: projects/cgv/jp-crypto-exchange-research/ Phase 4 (JVCEA Type 2 全社 wiki overview)
+来源: 公開情報整理 (JVCEA 会員一覧・自主規制規則、FSA 暗号資産交換業者登録一覧、各 Type 2 会員企業の IR/会社概要)

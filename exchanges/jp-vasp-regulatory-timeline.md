@@ -56,4 +56,4 @@ status: candidate
 
 上位概念は [[fintech/japan-financial-regulation]] 参照。
 
-来源: projects/cgv/jp-crypto-exchange-research/
+来源: 公開情報整理 (FSA「暗号資産関係」ページ・改正資金決済法/金商法公布資料、JVCEA 自主規制規則、内閣官房 web3 政策推進室公表)

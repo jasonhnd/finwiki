@@ -67,4 +67,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ---
 
-来源: projects/cgv/jp-crypto-exchange-research/ + 公開情報 (SEC press, BlackRock IBIT prospectus, Coinbase Custody IR, FSA + 日経/ITmedia 報道)
+来源: 公開情報整理 (SEC press、BlackRock IBIT prospectus、Coinbase Custody IR、FSA 公表、日経/ITmedia 報道、Bloomberg ETF flow data)

@@ -74,4 +74,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]]
 - [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック詳細分析]]
 
-来源: projects/cgv/jp-crypto-exchange-research/
+来源: 公開情報整理 (Coincheck/マネックスグループ IR 開示、FSA 業務改善命令・記者会見、警察庁 NEM 流出事案関連発表、Chainalysis/Elliptic 公開トレース、Lazarus グループ追跡レポート)
