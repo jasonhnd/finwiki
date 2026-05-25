@@ -5,8 +5,8 @@ domain: fintech
 kind: knowledge
 topic: japan-financial-regulation
 created: 2026-04-15
-last_updated: 2026-05-03
-last_tended: 2026-05-05
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-10-30
 confidence: likely
 tags: [fintech]
@@ -28,7 +28,7 @@ challenges: 0
 - 信託型 → 信託業法（信託銀行連携・受益権トークン化） — [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
 - スキーム選択の比較は [[fintech/gold-tokenization-scheme-comparison|日本におけるトークン発行スキーム比較]] 参照
 - クロスボーダー決済 → 資金移動業 or 暗号資産交換業の併用
-- ステーブルコイン制度 → [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]（電子決済手段等取引業）
+- ステーブルコイン制度 → [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]（電子決済手段等取引業）· 銀行ペリメータ視点は [[banking/japan-stablecoin-bank-perimeter-2025|日本 Stablecoin 銀行ペリメータ 2025]]
 - 軽量牌照 → [[fintech/japan-ecisb-license|ECISB]]（資金を持たない仲介業向け 2026 年新設）
 - 100 万円問題（JPOC）：暗号資産送金の上限議論が進行中
 - VASP 自律規則 → [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概览]]
@@ -51,4 +51,9 @@ challenges: 0
 - [[fintech/japan-listed-company-disclosure-monitoring|日本上場会社 開示情報モニタリング SOP（17 チャネル）]]
 - [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式]]
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照]]
+- [[banking/japan-stablecoin-bank-perimeter-2025|日本 Stablecoin 銀行ペリメータ 2025]]
 <!-- /wiki-links:managed -->
+
+---
+
+**Last refresh** (2026-05-25): refreshed dates; added banking-domain `japan-stablecoin-bank-perimeter-2025` cross-link for SC perimeter context.

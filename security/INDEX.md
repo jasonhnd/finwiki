@@ -32,10 +32,10 @@ The unifying frame is *adversarial verification* — every entry assumes the pub
 
 | Status | Slug | Title | Why it exists |
 |---|---|---|---|
-| certain | [[security/bytecode-forensic-three-tier-verify\|bytecode-forensic-three-tier-verify]] | Smart contract bytecode forensic — three-tier verify technique | How to verify deployed contract bytecode against claimed source across three levels |
-| certain | [[security/forensic-identity-anchor-chain\|forensic-identity-anchor-chain]] | Team-real-identity forensic anchor chain — multi-source fingerprint stitching | How to reconstruct true team identity from scattered weak signals |
-| certain | [[security/wayback-machine-as-forensic-tool\|wayback-machine-as-forensic-tool]] | Actively de-published content recovery — Wayback Machine as forensic weapon | How to recover content the publisher has tried to erase |
-| certain | [[security/module-path-confusion-supply-chain-attack\|module-path-confusion-supply-chain-attack]] | Module path confusion + LICENSE strip = supply chain attack triple-play | Concrete supply-chain attack pattern combining three techniques |
+| possible | [[security/bytecode-forensic-three-tier-verify\|bytecode-forensic-three-tier-verify]] | Smart contract bytecode forensic — three-tier verify technique | How to verify deployed contract bytecode against claimed source across three levels |
+| possible | [[security/forensic-identity-anchor-chain\|forensic-identity-anchor-chain]] | Team-real-identity forensic anchor chain — multi-source fingerprint stitching | How to reconstruct true team identity from scattered weak signals |
+| possible | [[security/wayback-machine-as-forensic-tool\|wayback-machine-as-forensic-tool]] | Actively de-published content recovery — Wayback Machine as forensic weapon | How to recover content the publisher has tried to erase |
+| possible | [[security/module-path-confusion-supply-chain-attack\|module-path-confusion-supply-chain-attack]] | Module path confusion + LICENSE strip = supply chain attack triple-play | Concrete supply-chain attack pattern combining three techniques |
 | certain | [[security/fork-and-rebrand-5-layer-audit-framework\|fork-and-rebrand-5-layer-audit-framework]] | Fork-and-Rebrand five-layer audit framework | Structured audit checklist for projects that fork an existing repo and rebrand |
 
 ## Start here

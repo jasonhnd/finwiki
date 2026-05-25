@@ -5,13 +5,17 @@ domain: fintech
 kind: knowledge
 topic: genius-act-501-denylist-mandate
 created: 2026-05-13
-last_updated: 2026-05-13
-last_tended: 2026-05-13
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-11-13
 confidence: likely
 tags: [fintech, regulation, GENIUS-Act, stablecoin, US, compliance]
 status: candidate
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/919
+  - https://home.treasury.gov/news/press-releases
+  - https://www.federalreserve.gov/newsevents/pressreleases.htm
+  - https://ofac.treasury.gov/sanctions-programs-and-country-information
 ---
 
 # GENIUS Act §501 链级 Denylist 合法化
@@ -22,7 +26,7 @@ sources: []
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 美国 GENIUS Act §501（2025 年通过）以明文形式要求合规稳定币发行方具备**链级地址封禁能力**（chain-level Denylist）。该条款反向解释了 Circle 必须自建 L1（Arc）的根本原因：**唯有自有链才能同时控制 token 与共识层,实现端到端的合规执行**。链级 Denylist 由"商业妥协"升格为"法律明文要求"。
+> 美国 GENIUS Act §501（**2025-07-18 总统签署生效**;参议院通过 2025-06-17,众议院通过 2025-07-17）以明文形式要求合规稳定币发行方具备**链级地址封禁能力**（chain-level Denylist）。该条款反向解释了 [[fintech/circle-usdc-stablecoin|Circle]] 必须自建 L1（Arc）的根本原因：**唯有自有链才能同时控制 token 与共识层,实现端到端的合规执行**。链级 Denylist 由"商业妥协"升格为"法律明文要求"。
 
 **条款核心要求**：
 
@@ -63,4 +67,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度的三层构造]]
 - [[fintech/japan-financial-regulation|日本金融规制]]
 - [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密原生分流]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC · §501 白圈龙头]]
+- [[fintech/eu-mica-implementation-status-2026|EU MiCA 实施状态 · §501 对应物]]
 <!-- /wiki-links:managed -->
+
+---
+
+**Last refresh** (2026-05-25): pinned 2025-07-18 signing date inline (replacing vague "2025 年"); added Senate/House passage dates; added Circle USDC and MiCA implementation cross-links.

@@ -227,7 +227,7 @@ Complete these before writing more than 20 new pages.
 | [x] | Add or update domain indexes after each batch. | `JapanFG/INDEX.md` and root [[INDEX|INDEX]] synced after A/F and B1; Batch J recorded in [[JapanFG/INDEX|JapanFG INDEX]]. |
 | [x] | Run wikilink health check after each batch. | Changed-file wikilinks: 42 files ok after B1. |
 | [x] | Update [[CHANGELOG|CHANGELOG]] for each batch. | A/F, B1, and Batch J recorded with JST time, scope, validation, and remaining work. |
-| [x] | Recount root [[INDEX|INDEX]] after each batch. | Root domain table sum = 538 and filesystem count = 538 after B1; Batch J does not add entries. |
+| [x] | Recount root [[INDEX|INDEX]] after each batch. | Root domain table sum = 538 and filesystem count = 538 after B1; Batch J does not add entries. Note 2026-05-25: post-batch headline now 580 entity entries (filesystem .md count = 573 incl. non-entity surfaces). |
 
 ### Batch J QA snapshot (2026-05-20)
 

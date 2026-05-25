@@ -6,8 +6,8 @@ aliases:
   - ビットバンク
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2027-05-18
 confidence: possible
 tags:
@@ -108,4 +108,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [国税庁 法人番号公表サイト — ビットバンク株式会社](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1010801024625)（取得 2026-05-18）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
-- [bitbank コーポレートサイト](https://bitbank.cc/)（直接アクセス不可のため要別途確認）
+- [bitbank コーポレートサイト](https://bitbank.cc/)（直接アクセス不可のため要別途確認；2026-05-25 再試行も同状態 — confidence は引き続き `possible` 維持。FSA / JVCEA 一次ソースのみで構築された記述）

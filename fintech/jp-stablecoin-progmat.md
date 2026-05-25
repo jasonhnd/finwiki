@@ -6,8 +6,8 @@ aliases:
   - 株式会社Progmat
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2027-05-18
 confidence: likely
 tags:
@@ -54,11 +54,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 > **設計意図**: MUTB 49%は意図的（FSA指導）。三大メガバンクが対等なポジションを持ちつつ、MUFG単独支配を回避。SMBC・Mizuhoが「MUFG子会社」ではなく独立法人として使えることが分権型インフラの根拠となる（→ [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]]参照）。
 
-**取締役（非常勤）（公表分）**:
-- 田中 利宏（代表取締役 非常勤）
-- 西澤 明男、吉本 幸司、福島 良典、河合 健
-- CFO & CRO: 石山 進
-- CTO: 戸辺 勝俊
+**取締役構成（公表分・役職のみ要約)**:
+- 代表取締役（非常勤）× 1名
+- 取締役（非常勤）× 4名（株主行・パートナー法人からの派遣）
+- CFO & CRO × 1名
+- CTO × 1名
+
+> 個人名は公開情報に基づくため変動の可能性あり。プロフィール詳細は [[JapanFG/progmat|JapanFG / progmat company anchor]] と公式 IR で都度確認。
 
 ---
 
@@ -183,18 +185,17 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 
 ## 8. 関連人物
 
-| 氏名 | 肩書 | 備考 |
+| 氏名 / 役職 | 肩書 | 備考 |
 |---|---|---|
 | 齊藤 達哉（Tatsuya Saito） | 代表取締役 Founder and CEO | 三菱UFJ信託銀行出身。前身プロジェクト主導→独立法人化CEO |
-| 石山 進（Susumu Ishiyama） | 取締役 CFO and CRO | |
-| 田中 利宏（Toshihiro Tanaka） | 代表取締役（非常勤） | |
-| 西澤 明男（Akio Nishizawa） | 取締役（非常勤） | |
-| 吉本 幸司（Koji Yoshimoto） | 取締役（非常勤） | |
-| 福島 良典（Yoshinori Fukushima） | 取締役（非常勤） | |
-| 河合 健（Ken Kawai） | 取締役（非常勤） | |
-| 吉岡 伸（Shin Yoshioka） | 監査役（非常勤） | |
-| 戸辺 勝俊（Katsutoshi Tobe） | CTO | |
-| 川端 明（Akira Kawabata） | Vice President, Japan Business Development | |
+| 代表取締役（非常勤）× 1名 | — | 株主行派遣 |
+| 取締役（非常勤）× 4名 | — | 株主行・パートナー法人派遣 |
+| 監査役（非常勤）× 1名 | — | |
+| CFO & CRO | — | |
+| CTO | — | |
+| VP, Japan Business Development | — | |
+
+> 個人名はCEO以外は変動の可能性が高いため役職のみで要約。詳細は [[JapanFG/progmat|JapanFG / progmat]] と公式IRで確認。
 
 ---
 
@@ -221,3 +222,7 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 - [Progmat Coin Joint Study Press Release（2023-09-11）](https://progmat.co.jp/en/news/2023-09-11-press/)（取得 2026-05-18）
 - [wiki/fintech/multi-megabank-consortium-governance]（株主構成の推計源泉）
 - [wiki/fintech/jp-trust-type-sc-architecture]（制度的位置付けの詳細）
+
+---
+
+**Last refresh** (2026-05-25): tightened board personnel listing per audit (replaced 5+ named non-executive directors with roles-only summary; kept CEO name only); refreshed dates.

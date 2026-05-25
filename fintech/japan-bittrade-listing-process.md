@@ -9,7 +9,11 @@ review_by: 2026-11-13
 confidence: possible
 tags: [fintech, needs-verification]
 status: candidate
-sources: []
+sources:
+  - https://www.bittrade.co.jp/
+  - https://jvcea.or.jp/about/list/
+  - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+  - https://www.bittrade.co.jp/news/
 note: 用户标注「不一定对，需要持续跟踪」· 待用实际案例逐步核实
 ---
 

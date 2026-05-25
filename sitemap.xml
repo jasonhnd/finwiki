@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/01-bank</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -320,7 +320,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/bdo-sanyu</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1058,7 +1058,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/hokkoku-fhd</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1844,7 +1844,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2192,7 +2192,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/nomura-trust-bank</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2804,7 +2804,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/shoko-chukin</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3547,6 +3547,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/agent-economy/agent-protocol-mainnet-adoption-2026</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -3829,6 +3835,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/banking/japan-net-bank-deposit-feature-matrix-2026</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -3980,7 +3992,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4004,13 +4016,19 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4022,19 +4040,19 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4046,7 +4064,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4058,7 +4076,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4177,6 +4195,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/derivatives/japan-equity-derivatives-product-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/derivatives/japan-inflation-swap</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -4190,6 +4214,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/derivatives/japan-irs-market</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/derivatives/japan-rates-derivative-product-matrix</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -4405,6 +4435,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/exchanges/fsa-snapshot-delta-log</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system</loc>
     <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -4437,6 +4473,12 @@
   <url>
     <loc>https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/exchanges/global-dex-aggregator-comparison-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4640,7 +4682,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/exchanges/jp-exchange-bitbank</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4772,7 +4814,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5258,7 +5300,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/ai-payment-two-tracks</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5354,7 +5396,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5594,7 +5636,13 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/fintech/global-cbdc-retail-pilot-matrix-africa-caribbean</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5630,7 +5678,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5678,7 +5726,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/japan-bittrade-listing-process</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5696,13 +5744,13 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/japan-epi-three-types-overview</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/japan-financial-regulation</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5738,7 +5786,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/jp-stablecoin-progmat</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5756,7 +5804,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5774,7 +5822,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/m-network-m0-neutral-infrastructure</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5828,13 +5876,13 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/mica-overview</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5858,7 +5906,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5888,7 +5936,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5936,7 +5984,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5984,7 +6032,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6055,6 +6103,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/fintech/tokenized-mmf-issuer-comparison-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/fintech/tokenized-mmf-wisdomtree-hashnote</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -6068,13 +6122,25 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/usd-stablecoin-interchange</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/fintech/usd-stablecoin-issuer-eight-way-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/fintech/wholesale-settlement-network-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6187,7 +6253,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/insurance/japan-bancassurance-distribution-overlay-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/insurance/japan-iaig-ics-mapping</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -6207,6 +6285,12 @@
   <url>
     <loc>https://finwiki.zksc.io/insurance/japan-life-insurance-big-four</loc>
     <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/insurance/japan-medical-insurance-rider-product-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6379,6 +6463,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/money-market/japan-short-term-funding-instrument-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/money-market/japan-tbill-treasury-discount-bill</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -6487,6 +6577,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/payments/japan-consumer-credit-operator-comparison-matrix</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -6561,6 +6657,12 @@
   <url>
     <loc>https://finwiki.zksc.io/payments/psp-merchant-settlement-risk</loc>
     <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/payments/visa-mastercard-amex-jcb-japan-operating-comparison</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6830,6 +6932,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/real-estate-finance/j-reit-top-20-detailed-matrix</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -7273,6 +7381,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/securities/japan-tob-mbo-large-deal-2023-2026-case-matrix</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/securities/japan-underwriting-market-structure</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -7340,7 +7454,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/security/INDEX</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7454,6 +7568,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/structured-finance/japan-securitization-product-matrix</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -7611,6 +7731,12 @@
   <url>
     <loc>https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging</loc>
     <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/systems/cross-chain-bridge-eight-pole-comparison</loc>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

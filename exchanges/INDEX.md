@@ -18,7 +18,7 @@ sources:
 
 ## TL;DR
 
-`exchanges/` contains **114 entries** covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
+`exchanges/` contains **137 entries** covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
 
 ## Routing map
 
@@ -30,6 +30,7 @@ sources:
 | Custody / security / incidents | 12 | [[exchanges/jp-institutional-custody-three-pillars|Japan custody three pillars]], [[exchanges/jp-vasp-incident-history|incident history]], [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit hack]] |
 | Global licensing / market comparison | 15 | [[exchanges/global-cex-top10-comparison|global CEX top 10]], [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]], [[exchanges/us-crypto-licensing-multi-layer-system|US licensing]] |
 | DEX / DeFi / market infrastructure | 18 | [[exchanges/global-dex-major-five-comparison|global DEX five]], [[exchanges/amm-design-evolution|AMM design]], [[exchanges/cex-matching-engine-wallet-architecture|CEX architecture]] |
+| Comparison matrices / cross-cluster overlays | 23 | [[exchanges/japan-stablecoin-issuer-regulatory-classification-matrix|JP SC issuer matrix]], [[exchanges/japan-vasp-business-model-competitive-matrix|JP VASP business model matrix]], [[exchanges/global-perp-dex-competitive-deep-dive-matrix|global perp DEX matrix]] |
 
 ## Start here
 

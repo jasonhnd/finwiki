@@ -79,7 +79,6 @@ This domain routes structured-finance knowledge: how Japan's asset-backed securi
 
 - Public-surface only. Use JCR, R&I, JHF, JSDA, ASF Japan, megabank IR.
 - Public ratings: JCR and R&I publish rating actions; do not paraphrase non-public rating memos.
-- Run `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` before push.
 
 ## Sources
 

@@ -9,8 +9,7 @@ review_by: 2026-11-18
 confidence: likely
 tags: [business, people, tether, stablecoin, treasury, business-model, paolo-ardoino, template]
 sources: []
-  - https://wiki/fintech/tether-business-model-short-treasury-yield.md
-status: candidate
+status: confirmed
 ---
 
 # 40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino
@@ -18,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

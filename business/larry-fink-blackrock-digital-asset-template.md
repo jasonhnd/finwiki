@@ -9,7 +9,7 @@ review_by: 2026-11-18
 confidence: likely
 tags: [business, people, blackrock, etf, rwa, tokenization, template, larry-fink]
 sources: []
-status: candidate
+status: confirmed
 ---
 
 # 资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力
@@ -17,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/christine-moy-talent-signal-jpm-apollo|关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/christine-moy-talent-signal-jpm-apollo|关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

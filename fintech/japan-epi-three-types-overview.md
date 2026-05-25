@@ -8,7 +8,11 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, japan, stablecoin, epi]
-sources: []
+sources:
+  - https://www.fsa.go.jp/policy/virtual_currency02/index.html
+  - https://www.fsa.go.jp/news/r4/sonota/20230526/20230526.html
+  - https://elaws.e-gov.go.jp/document?lawid=421AC0000000059
+  - https://www.boj.or.jp/paym/digital/index.htm
 status: candidate
 ---
 

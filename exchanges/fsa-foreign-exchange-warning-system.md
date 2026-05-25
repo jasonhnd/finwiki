@@ -6,8 +6,8 @@ aliases:
   - 改正資金決済法 域外適用
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2027-05-19
 confidence: likely
 tags:
@@ -75,3 +75,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/fsa-business-improvement-orders-history]] — FSA 業務改善命令履歴
 
 来源: 公開情報整理 (FSA「警告書発出先一覧」、金融庁/関東財務局等の警告書公表、各社サイトの WHOIS/アーカイブ確認)
+
+---
+
+> [!note] 2026-05-25 refresh note
+> 2025-04 bitcastle 二重警告以降の 2025-Q3 / Q4 / 2026 警告ラウンドについては、本リフレッシュ時点（2026-05-25）で FSA 一次公表ページへの再確認が完了していない。新規追加・タイムライン延長は次回 review_by（2027-05-19）以前の中間リフレッシュで FSA「警告書発出先一覧」を直接参照して反映する。当面、表は 2025-04 までを公式記録とする。

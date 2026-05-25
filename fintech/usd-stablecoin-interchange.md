@@ -5,8 +5,8 @@ domain: fintech
 kind: knowledge
 topic: usd-stablecoin-interchange
 created: 2026-04-16
-last_updated: 2026-05-03
-last_tended: 2026-05-05
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-10-30
 confidence: certain
 tags: [fintech]
@@ -22,7 +22,7 @@ sources: []
 This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> USDT、USDC、[[fintech/sky-usds-decentralized-stablecoin|USDS]]、[[fintech/paypal-pyusd-stablecoin|PYUSD]] 等 USD 稳定币之间的兑换、清算和结算本身构成一个独立的大规模市场。
+> USDT、[[fintech/circle-usdc-stablecoin|USDC]]、[[fintech/sky-usds-decentralized-stablecoin|USDS]]、[[fintech/paypal-pyusd-stablecoin|PYUSD]] 等 USD 稳定币之间的兑换、清算和结算本身构成一个独立的大规模市场。
 
 **市场规模**：2025 年稳定币交易量 $33 万亿 [Bloomberg/Artemis]。即使仅 10% 涉及 USD 稳定币互换，0.01% 费率也意味着 $3.3 亿/年级别的收入。
 
@@ -41,4 +41,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照]]
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]
 - [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC 发行体]]
 <!-- /wiki-links:managed -->
+
+---
+
+**Last refresh** (2026-05-25): refreshed dates; added Circle USDC issuer wikilink alongside USDT/USDS/PYUSD peers.

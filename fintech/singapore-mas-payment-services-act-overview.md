@@ -3,12 +3,16 @@ title: Singapore MAS Payment Services Act + SCS 框架概览
 aliases: [mas-ps-act-overview, MAS PS Act, Singapore stablecoin, DPT, SCS, DTSP]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, singapore, mas, stablecoin, dpt, scs]
-sources: []
+sources:
+  - https://www.mas.gov.sg/regulation/acts/payment-services-act
+  - https://www.mas.gov.sg/regulation/payments
+  - https://www.mas.gov.sg/news/media-releases/2023/mas-finalises-stablecoin-regulatory-framework
+  - https://sso.agc.gov.sg/Act/PSA2019
 status: candidate
 ---
 
@@ -70,7 +74,12 @@ DPT 牌照体系的详细机构层级见 [[exchanges/sg-mas-dpt-licensing-overvi
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA 稳定币牌照概览]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC issuer · DPT 流通主体]]
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+---
+
+**Last refresh** (2026-05-25): refreshed `last_tended` only; added Circle USDC cross-link as DPT-licensed flow context.
 

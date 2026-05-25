@@ -3,11 +3,11 @@ title: 商工中金 (Shoko Chukin Bank)
 aliases: ["商工中金", "Shoko Chukin", "商工組合中央金庫", "株式会社商工組合中央金庫", "Shoko Chukin Bank, Ltd."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-11-15
 confidence: likely
-tags: [JapanFG, smb-bank, post-policy-finance]
+tags: [JapanFG, smb-bank, post-policy-finance, privatized-2023]
 status: active
 sources:
   - "Wikipedia: 株式会社商工組合中央金庫 (2026-05-19 抽出)"

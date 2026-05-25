@@ -31,6 +31,54 @@
 
 ## 2026-05-25
 
+### Wave 11 — 20 比較マトリクス + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 new comparison matrices + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 对比矩阵 + 22 bedrock 刷新 + 33 结构清理
+
+#### 日本語記録
+
+- **背景**: Wave 10 で 77 条の旗艦実体を補完した後、(1) 横断的な比較マトリクスで cross-entity 読解面を強化、(2) Wave 4-9 bedrock pages の date staleness を Wave 10 数字に back-propagation、(3) audit が指摘した structural defects (business wrong-route boilerplate 8 件 / security INDEX-vs-entry 矛盾 / structured-finance INDEX 内部ツール leak / 5 個の INDEX self-count drift / 92 件中 12 件の `sources: []` 補完) を一括処理。
+- **手法**: 10 並列 agent (A1-A10) を並列展開。A1-A7 が 20 矩阵、A8 が fintech bedrock refresh (12 件)、A9 が JapanFG + exchanges refresh (10 件 + 1 bonus)、A10 が structural cleanup (33 edits across 26 files)。
+- **成果**:
+  - A1 fintech matrices (4): global-cbdc-retail-pilot-matrix-africa-caribbean, tokenized-mmf-issuer-comparison-matrix, wholesale-settlement-network-matrix, usd-stablecoin-issuer-eight-way-matrix
+  - A2 insurance matrices (3): japan-kyosai-vs-fsa-insurance-perimeter-matrix, japan-medical-insurance-rider-product-matrix, japan-bancassurance-distribution-overlay-matrix
+  - A3 MM + derivatives matrices (3): japan-short-term-funding-instrument-matrix, japan-equity-derivatives-product-matrix, japan-rates-derivative-product-matrix
+  - A4 RE + structured matrices (2): j-reit-top-20-detailed-matrix, japan-securitization-product-matrix
+  - A5 payments matrices (2): visa-mastercard-amex-jcb-japan-operating-comparison, japan-code-payment-operator-2025-market-share-matrix
+  - A6 cross-domain matrices (3): japan-net-bank-deposit-feature-matrix-2026, japan-listed-corp-strategic-restructuring-matrix, japan-tob-mbo-large-deal-2023-2026-case-matrix
+  - A7 protocol matrices (3): agent-payment-protocol-four-way-comparison-2026, cross-chain-bridge-eight-pole-comparison, global-dex-aggregator-comparison-matrix
+  - A8 fintech bedrock refresh (12): MiCA / HKMA / MAS / GENIUS §501 (正確日付 2025-07-18 ピン止め) / USD-stablecoin-interchange / AI-payment-two-tracks / Japan-financial-regulation / PYUSD / JPMD / BUIDL / **Progmat (個人名 5 名を役職のみに整理し CEO のみ残す)** / MiCA implementation status
+  - A9 JapanFG + exchanges refresh (10 + 1 bonus): INDEX self-count 559 → 580 / Hokkoku FHD status: deprecated / Shoko Chukin 民営化 tag refresh / **01-bank 60→155 行に depth promotion** / **nomura-trust-bank 60→150 行 promotion** / bdo-sanyu inferred section tightening / bitbank.cc reverification note / LINE Xenesis 2026-06-01 closure warning + review_by 2026-07-01 / FSA warning system refresh note / **fsa-snapshot-delta-log.md 新規作成 (bonus)**
+  - A10 structural cleanup (33 edits, 26 files): **business/ 8 件 wrong-route boilerplate 修正** (gmo-internet-group → INDEX、`status: candidate → confirmed`) + Paolo Ardoino YAML malformation fix / security/INDEX 4 件を `certain → possible` に矯正 / structured-finance/INDEX operator instruction line 削除 / 5 INDEX self-count (banking 23→39, policy-finance 12→35, fintech 103→144, exchanges 114→139, systems 43→62) / 12 fintech `sources: []` 補完
+- **検証**:
+  - `wiki_link_audit.py`: 1302 entries / 0 issues (sony-fg matrix の 1 件 missing_peer_link は securities/ 内 peer link 追加で解消)
+  - `generate_ai_discovery.py`: 1340 / 1339 / 1340 / 23 / 1302
+  - 公開面違反スキャン: 0 件
+- **数値スナップショット**:
+  - Markdown files: 1319 → **1340** (+21: 20 matrices + 1 bonus snapshot-delta-log)
+  - Link-audited entries: 1281 → **1302** (+21)
+  - Text volume: 約 872 万字 → 約 **926 万字** (+54 万字, +6.2%)
+  - Token count: 約 214 万 → 約 **223 万** (+9 万)
+  - 13 ドメインで件数増加 (exchanges +2 / fintech +4 / systems +1 / agent-economy +1 / banking +1 / business +1 / insurance +3 / money-market +1 / securities +1 / derivatives +2 / real-estate-finance +1 / structured-finance +1 / payments +2)
+- **後続 (Wave 12 計画)**: policy-finance 6 entity stub の operating depth promotion (jica/nexi/jogmec/odfc/jasso/oecd-export-credit) + 5 件 credit guarantee system 充実 (JHF/agriculture/fisheries CGC) + JapanFG long-tail (shinkumi anchors / Saison subsidiaries / JA Kyosairen prefectural ops) + exchanges long-tail 国別 (India/Brazil/Vietnam) + manufacturing 5 件 (Hitachi/Sony/Panasonic/Mitsubishi Heavy/Toyota FS) + loyalty + retail 6 件深化。
+
+#### English Record
+
+- **Context**: Wave 10 closed 77 flagship-entity gaps. Wave 11 now (1) builds cross-entity comparison matrices linking those entries, (2) back-propagates Wave 10 numerical updates to Wave 4-9 bedrock pages that had stale dates, (3) closes audit-flagged structural defects in one cleanup pass.
+- **Method**: 10 parallel agents. A1-A7 produced 20 matrices; A8 refreshed 12 fintech bedrock pages (pinned GENIUS Act 2025-07-18 signing date; tightened Progmat board personnel listing per audit); A9 refreshed 10 JapanFG/exchanges files + created 1 bonus fsa-snapshot-delta-log; A10 executed 33 structural cleanup edits across 26 files (8 business wrong-route boilerplate fixes, security INDEX-vs-entry confidence reconciliation, structured-finance INDEX operator-instruction leak removal, 5 INDEX self-count updates, 12 fintech `sources: []` population, YAML malformation fix).
+- **Results per agent** (mirror of Japanese log).
+- **Validation**: `wiki_link_audit.py` → 1302 entries / 0 issues (one missing_peer_link in securities TOB/MBO matrix resolved by adding securities-domain peer links); `generate_ai_discovery.py` → 1340/1339/1340/23/1302; public-surface scan → 0 violations.
+- **Numerical snapshot**: 1319→1340 files (+21), 1281→1302 link-audited (+21), ~8.72M→~9.26M chars (+540K, +6.2%), 13 of 23 domains updated in INDEX.md.
+- **Next (Wave 12 plan)**: 6 policy-finance entity stub depth promotions (JICA/NEXI/JOGMEC/ODFC/JASSO/OECD-export-credit), 5 credit guarantee system promotions, JapanFG long-tail (shinkumi/Saison subs/JA Kyosairen), exchanges long-tail (India/Brazil/Vietnam), manufacturing 5 (Hitachi/Sony/Panasonic/Mitsubishi Heavy/Toyota FS), loyalty/retail 6 deepening.
+
+#### 中文记录
+
+- **背景**: Wave 10 闭合 77 个旗舰实体后，Wave 11 集中 (1) 用横向对比矩阵串联这些条目，(2) 把 Wave 10 的数字 back-propagation 到 Wave 4-9 bedrock 页 (date staleness 修复)，(3) 一次性闭合 audit 标记的结构性缺陷。
+- **方法**: 10 并行 agent。A1-A7 产出 20 矩阵；A8 刷新 12 个 fintech bedrock (GENIUS Act 2025-07-18 签署日期 pin 死；Progmat 个人名按 audit 缩到只剩 CEO)；A9 刷新 10 个 JapanFG/exchanges + 1 bonus 新文件；A10 执行 33 处结构清理 (8 个 business wrong-route 修复，security INDEX-vs-条目 confidence 调和，structured-finance INDEX 内部工具说明删除，5 个 INDEX self-count，12 个 fintech `sources: []` 补全，YAML malformation 修复)。
+- **验证**: link audit 1302/0；AI discovery 1340/1339/1340/23/1302；公开面违规 0。
+- **数字快照**: 1319→1340 (+21) / 1281→1302 (+21) / 约 872 万字→约 926 万字 (+54 万 +6.2%) / 13 个域 INDEX domain map 数字同步。
+- **后续 Wave 12**: 6 policy-finance entity stub 深度提升 + 5 credit guarantee system 充实 + JapanFG long-tail (shinkumi/Saison/JA Kyosairen) + exchanges 国别长尾 + manufacturing 5 + loyalty/retail 深化。
+
+---
+
 ### Wave 10 — 旗艦欠缺実体 77 条新規エントリー / Wave 10 — flagship missing-entity expansion (77 new entries) / Wave 10 — 旗舰缺失实体扩写 (77 条新条目)
 
 #### 日本語記録

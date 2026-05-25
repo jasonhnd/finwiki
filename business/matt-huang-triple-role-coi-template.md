@@ -9,7 +9,7 @@ review_by: 2026-11-18
 confidence: likely
 tags: [business, people, coi, vc, governance, hedge, case-study]
 sources: []
-status: candidate
+status: confirmed
 ---
 
 # 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角
@@ -17,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/jamie-dimon-anti-crypto-pivot-case|jamie dimon anti crypto pivot case]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/jamie-dimon-anti-crypto-pivot-case|jamie dimon anti crypto pivot case]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
