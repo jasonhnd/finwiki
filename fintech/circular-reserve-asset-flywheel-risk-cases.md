@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, systemic-risk, stablecoin, reserve-concentration, genius-504, tokenized-mmf]
-sources: []
+sources:
+  - https://www.blackrock.com/us/individual/products/335977/buidl
+  - https://www.circle.com/en/transparency
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://www.federalreserve.gov/publications/financial-stability-report.htm
+  - https://app.rwa.xyz/treasuries
 status: candidate
 ---
 

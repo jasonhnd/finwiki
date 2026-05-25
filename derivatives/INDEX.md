@@ -48,7 +48,8 @@ Excluded: opaque proprietary products, non-public bilateral term sheets, unverif
 
 | Lane | Start page | Use when asking |
 |---|---|---|
-| Overview | [[derivatives/japan-interest-rate-derivatives-overview]] | What instruments exist in Japan's rates-derivatives ecosystem and how they connect. |
+| OTC market overview | [[derivatives/japan-otc-derivative-market-overview]] | What the full Japan OTC derivative ecosystem looks like across rates, FX, credit, and equity / structured. |
+| Rates overview | [[derivatives/japan-interest-rate-derivatives-overview]] | What instruments exist in Japan's rates-derivatives ecosystem and how they connect. |
 | Currency basis | [[derivatives/yen-basis-swap-market]] | How cross-currency basis prices yen vs USD funding, especially at quarter-end. |
 | Futures | [[derivatives/jgb-futures-curve]] | How JGB futures (OSE) form a hedge curve and feed cash-futures basis trades. |
 | OIS curve | [[derivatives/ois-tona-curve]] | How TONA-referenced OIS replaced LIBOR for yen rates discounting. |

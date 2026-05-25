@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, hkma, hong-kong, tokenized-deposits, sandbox, hsbc, anchorpoint]
-sources: []
+sources:
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/research-and-applications/project-ensemble/
+  - https://www.hkma.gov.hk/eng/news-and-media/press-releases/
+  - https://www.bis.org/about/bisih/locations/hong_kong_sar.htm
+  - https://www.hsbc.com.hk/
+  - https://www.hkma.gov.hk/eng/
 status: candidate
 ---
 

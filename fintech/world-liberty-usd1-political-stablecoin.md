@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, wlf, usd1, trump, political, conflict-of-interest, genius-act]
-sources: []
+sources:
+  - https://www.worldlibertyfinancial.com/
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://www.sec.gov/edgar/searchedgar/companysearch
+  - https://www.bitgo.com/newsroom/press-releases/
+  - https://home.treasury.gov/news/press-releases
 status: candidate
 ---
 

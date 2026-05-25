@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: certain
 tags: [fintech, stablecoin, USDC, Coinbase, Circle, economic-model]
 status: candidate
-sources: []
+sources:
+  - https://www.circle.com/en/usdc
+  - https://investor.coinbase.com/financials/sec-filings/default.aspx
+  - https://www.circle.com/en/transparency
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=S-1
 ---
 
 # 稳定币利息分润经济学

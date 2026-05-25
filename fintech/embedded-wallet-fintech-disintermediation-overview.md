@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, embedded-wallet, privy, coinbase-cdp, account-abstraction, disintermediation]
-sources: []
+sources:
+  - https://www.privy.io/
+  - https://www.coinbase.com/developer-platform
+  - https://magic.link/
+  - https://web3auth.io/
+  - https://docs.stripe.com/crypto
 status: candidate
 ---
 

@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, macro, geopolitics, stablecoin, AI-agents]
 status: candidate
-sources: []
+sources:
+  - https://www.federalreserve.gov/monetarypolicy/openmarket.htm
+  - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions
+  - https://www.bis.org/publ/arpdf/ar2023e.htm
+  - https://www.imf.org/en/Publications/WEO
+  - https://openai.com/blog/chatgpt
 ---
 
 # 2022 年三变量级联

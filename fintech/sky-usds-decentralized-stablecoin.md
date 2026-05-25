@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, sky, makerdao, usds, decentralized-sc, genius-501, endgame]
-sources: []
+sources:
+  - https://sky.money/
+  - https://makerdao.com/
+  - https://forum.sky.money/
+  - https://docs.sky.money/
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
 status: candidate
 ---
 

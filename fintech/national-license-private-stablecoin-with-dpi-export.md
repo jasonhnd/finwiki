@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: likely
 tags: [fintech, stablecoin, india, polygon, upi, mosip, dpi, geopolitics]
 status: candidate
-sources: []
+sources:
+  - https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22329
+  - https://polygon.technology/blog
+  - https://www.npci.org.in/what-we-do/upi/product-statistics
+  - https://www.mosip.io/
+  - https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125
 ---
 
 # 国家许可型私营稳定币 + DPI 全球输出战略

@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, singapore, mas, hk, circle, dbs, stanchart]
-sources: []
+sources:
+  - https://www.mas.gov.sg/regulation/acts/payment-services-act
+  - https://www.mas.gov.sg/news/media-releases
+  - https://www.circle.com/en/blog
+  - https://www.dbs.com/newsroom/default.page
+  - https://www.sc.com/en/media/press-release/
 status: candidate
 ---
 

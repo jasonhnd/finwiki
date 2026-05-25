@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, stablecoin, central-banking, macro-framework, geopolitics]
 status: candidate
-sources: []
+sources:
+  - https://www.bis.org/publ/arpdf/ar2023e3.htm
+  - https://www.bis.org/publ/othp33.htm
+  - https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm
+  - https://www.imf.org/en/Topics/fintech
+  - https://www.bis.org/cpmi/index.htm
 ---
 
 # 中央银行职能解体五层

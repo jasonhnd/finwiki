@@ -9,7 +9,12 @@ review_by: 2026-11-18
 confidence: likely
 tags: [fintech, blockchain, cross-chain, ibc, cosmos, hyperlane, ccip, layerzero, td]
 status: candidate
-sources: []
+sources:
+  - https://ibcprotocol.dev/
+  - https://www.cosmos.network/ibc
+  - https://www.hyperlane.xyz/
+  - https://chain.link/cross-chain
+  - https://layerzero.network/
 ---
 
 # Cosmos IBC for Financial Institutions

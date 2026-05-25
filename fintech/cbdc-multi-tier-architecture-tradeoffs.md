@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, cbdc, monetary-architecture, tradeoffs, financial-disintermediation]
-sources: []
+sources:
+  - https://www.bis.org/publ/othp33.htm
+  - https://www.bis.org/publ/arpdf/ar2021e3.htm
+  - https://www.federalreserve.gov/publications/money-and-payments-discussion-paper.htm
+  - https://www.ecb.europa.eu/paym/digital_euro/html/index.en.html
+  - https://www.imf.org/en/Topics/fintech/central-bank-digital-currency
 status: candidate
 ---
 

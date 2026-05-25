@@ -11,7 +11,12 @@ review_by: 2026-10-30
 confidence: certain
 tags: [fintech]
 status: confirmed
-sources: []
+sources:
+  - https://www.circle.com/en/usdc
+  - https://tether.to/en/transparency/
+  - https://www.coinbase.com/blog
+  - https://curve.fi/
+  - https://www.visa.com/blogarchives/us/2024/09/05/stablecoins-cross-border/index.html
 ---
 
 # USD 稳定币互换市场

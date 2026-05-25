@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, basel, bank, stablecoin, usdc, buidl, capital]
-sources: []
+sources:
+  - https://www.bis.org/bcbs/publ/d545.htm
+  - https://www.bis.org/basel_framework/
+  - https://www.circle.com/en/transparency
+  - https://securitize.io/products/buidl
+  - https://www.federalreserve.gov/supervisionreg/topics/cryptoasset.htm
 status: candidate
 ---
 

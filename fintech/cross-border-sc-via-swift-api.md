@@ -9,7 +9,12 @@ review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, cross-border, swift, tokenized-deposit, ibc, japan]
 status: candidate
-sources: []
+sources:
+  - https://www.swift.com/news-events/news/swift-completes-cbdc-sandbox-testing
+  - https://www.swift.com/our-solutions/swift-payment-controls
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
+  - https://www.boj.or.jp/en/paym/digital/index.htm
+  - https://www.smfg.co.jp/english/news_e/2023/
 ---
 
 # 跨境 SC via SWIFT API

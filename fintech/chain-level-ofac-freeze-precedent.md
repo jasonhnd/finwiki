@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: certain
 tags: [fintech, OFAC, sanction, freeze, stablecoin, USDC]
 status: candidate
-sources: []
+sources:
+  - https://ofac.treasury.gov/recent-actions
+  - https://home.treasury.gov/policy-issues/financial-sanctions
+  - https://www.circle.com/en/transparency
+  - https://www.coindesk.com/policy/2022/08/08/us-sanctions-crypto-tool-tornado-cash/
+  - https://www.bybit.com/en/news
 ---
 
 # 链级 OFAC freeze = 美元链级霸权

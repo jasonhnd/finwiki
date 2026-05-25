@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, number, economic-pattern, tokenized-deposit, kinexys, jpmd, jpmorgan, institutional-only]
-sources: []
+sources:
+  - https://www.jpmorgan.com/kinexys
+  - https://www.jpmorgan.com/onyx/index
+  - https://www.jpmorgan.com/insights/payments/payments-trends
+  - https://www.jpmorganchase.com/ir/news
+  - https://www.bis.org/cpmi/publ/d215.htm
 status: candidate
 ---
 

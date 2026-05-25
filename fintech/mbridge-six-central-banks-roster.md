@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, cbdc, mbridge, central-banks, pboc, hkma, sama, drex]
-sources: []
+sources:
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/06/20240605-4/
+  - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
+  - https://www.sama.gov.sa/en-US/News/Pages/default.aspx
+  - https://www.bcb.gov.br/en/financialstability/drex_en
 status: candidate
 ---
 

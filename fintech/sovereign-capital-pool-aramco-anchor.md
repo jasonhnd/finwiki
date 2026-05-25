@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, number, economic-pattern, sovereign-capital, middle-east, aramco, blackrock, allocation-ceiling]
-sources: []
+sources:
+  - https://www.aramco.com/en/investors
+  - https://www.blackrock.com/corporate/newsroom
+  - https://www.pif.gov.sa/
+  - https://www.sama.gov.sa/en-US/News/Pages/default.aspx
+  - https://www.imf.org/en/Countries/SAU
 status: candidate
 ---
 

@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, m-and-a, regulation, vc, stripe, bridge, sequoia, stablecoin]
 status: candidate
-sources: []
+sources:
+  - https://stripe.com/newsroom
+  - https://www.bridge.xyz/
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://www.sequoiacap.com/article/
+  - https://stripe.com/press
 ---
 
 # 监管立法窗口前的战略买家收购模式

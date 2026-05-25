@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, game-theory, stablecoin, competition-analysis, motive-mapping]
 status: candidate
-sources: []
+sources:
+  - https://www.circle.com/en/business
+  - https://tether.to/en/
+  - https://www.federalreserve.gov/publications/2024-financial-stability-report.htm
+  - https://www.bis.org/publ/arpdf/ar2023e3.htm
+  - https://www.imf.org/en/Topics/fintech
 ---
 
 # 4 类动机不对称分析

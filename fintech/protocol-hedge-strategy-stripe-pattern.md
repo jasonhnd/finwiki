@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: likely
 tags: [fintech, protocol, AI-agent, payment, framework, Stripe]
 status: candidate
-sources: []
+sources:
+  - https://stripe.com/use-cases/ai
+  - https://docs.stripe.com/payments
+  - https://openai.com/index/introducing-the-stripe-app/
+  - https://www.anthropic.com/news
+  - https://stripe.com/sessions
 ---
 
 # 协议层多线 hedge 策略

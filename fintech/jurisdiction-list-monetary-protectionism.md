@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, stablecoin, regulation, geopolitics, GENIUS-Act]
 status: candidate
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://home.treasury.gov/news/press-releases
+  - https://www.federalreserve.gov/aboutthefed/section-13.htm
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
 ---
 
 # 司法管辖区清单作为货币保护主义工具

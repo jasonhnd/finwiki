@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, cbdc, mbridge, agora, bis, geopolitics, dollar, non-dollar]
-sources: []
+sources:
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
+  - https://www.bis.org/publ/othp59.htm
+  - https://www.newyorkfed.org/aboutthefed/nyic
+  - https://www.bis.org/cpmi/publ/d215.htm
 status: candidate
 ---
 

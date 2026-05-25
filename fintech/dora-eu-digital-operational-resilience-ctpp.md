@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, eu, dora, ctpp, cloud, custody, mica]
-sources: []
+sources:
+  - https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2554
+  - https://www.esma.europa.eu/policy-activities/digital-finance/digital-operational-resilience-act-dora
+  - https://www.eba.europa.eu/regulation-and-policy/operational-risk
+  - https://aws.amazon.com/financial-services/security-compliance/
 status: candidate
 ---
 

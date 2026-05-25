@@ -11,7 +11,12 @@ review_by: 2026-11-20
 confidence: certain
 tags: [fintech, corporate-strategy, co-opetition, stablecoin]
 status: candidate
-sources: []
+sources:
+  - https://www.circle.com/en/usdc
+  - https://investor.coinbase.com/financials/sec-filings/default.aspx
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=10-K
+  - https://www.circle.com/en/blog
 ---
 
 # 协议续约触发器 —— 商业合作重构与事件锚定机制

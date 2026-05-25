@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, frax, frxusd, sfrxusd, defi, decentralized-sc, genius-501, fraxtal]
-sources: []
+sources:
+  - https://frax.finance/
+  - https://docs.frax.finance/
+  - https://fraxtal.io/
+  - https://defillama.com/protocol/frax
+  - https://www.coingecko.com/en/coins/frax
 status: candidate
 ---
 

@@ -1,0 +1,198 @@
+---
+title: "福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)"
+aliases:
+  - "Fukuoka-Ken-Shinkumi"
+  - "福岡県信組"
+  - "Fukuoka Prefecture Credit Co-operative"
+domain: JapanFG
+created: 2026-05-25
+last_updated: 2026-05-25
+last_tended: 2026-05-25
+review_by: 2026-11-25
+confidence: likely
+tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kyushu, fukuoka, regional-shinkumi, prefecture-wide-shinkumi, operating-company]
+status: active
+sources:
+  - "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx"
+  - "https://www.shinyokumiai.or.jp/"
+  - "https://www.zenshinkumiren.jp/"
+  - "https://www.dic.go.jp/"
+  - "中小企業等協同組合法"
+---
+
+# 福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 (prefecture-wide) shinkumi anchor**, complementing [[JapanFG/iwaki-shinkumi|いわき信用組合]] (Tohoku city-level) and [[JapanFG/sapporo-chuo-shinkumi|札幌中央信用組合]] (Hokkaido city-level) for regional shinkumi coverage within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+
+## TL;DR
+
+福岡県信用組合は、福岡県福岡市中央区赤坂に本店を置く **福岡県全域を営業地区とする県域型地域信用組合**。FSA registry No. 128 (福岡財務支局所管)、法人番号 4290005002505。福岡県内 3 信組 (福岡県医師信組・福岡県信組・福岡県庁信組) の中核として、県内 SME 融資・住宅ローン・地域金融を担う。[[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[JapanFG/dic|預金保険機構]] 対象。九州最大地銀 [[JapanFG/fukuoka-fg|ふくおかFG (福岡銀行)]]・[[JapanFG/nishi-nippon-fhd|西日本シティ銀行 ([[JapanFG/nnfh|NNFH]])]] という強力地銀 2 行体制下で **県信組として固有のニッチ**を維持する地域金融機関。^[extracted]
+
+## 1. 法人概要
+
+| 項目 | 内容 |
+|---|---|
+| 正式名 | 福岡県信用組合 |
+| 通称 | 福岡県信組 / 県信組 |
+| 法人番号 | **4290005002505** ^[extracted FSA registry] |
+| FSA registry No. | **128** (福岡財務支局) |
+| 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
+| 本店所在地 | 福岡県福岡市中央区赤坂1-10-17 (郵便番号 810-0042) ^[extracted FSA registry] |
+| 系統 | [[JapanFG/zenshin-kumi|全信組連]] 会員 |
+| 監督官庁 | 金融庁・福岡財務支局 |
+| 預金保険 | [[JapanFG/dic|預金保険機構]] 対象 |
+| ホームマーケット | 福岡県全域 |
+| 信組類型 | **県域型地域信用組合** (地区組合員資格・県全域) |
+
+## 2. 営業地区・組合員資格
+
+### 営業地区 ^[inferred]
+
+- **本店**: 福岡市中央区赤坂 (天神隣接ビジネスエリア)
+- **支店網**: 福岡県内主要都市 (福岡市・北九州市・久留米市・大牟田市・飯塚市等) に分散展開 ^[inferred]
+- **県域型ゆえ広域営業**: 福岡県全 60 市町村相当のエリアを定款上カバー
+
+### 組合員資格 ^[extracted]
+
+県域型地域信組のため、組合員資格は **地区 (県全域) + 業域**の二層構造:
+
+1. **地区要件**: 福岡県内に在住・在勤・事業所を有する個人・法人
+2. **規模要件**: 中小企業者 — 従業員 300 人以下または資本金 3 億円以下 (業種により異なる)
+3. **業域**: 業域指定なし (地域型ゆえ業種横断)
+
+### 福岡県信組ブロック (registry比較)
+
+福岡県には FSA registry 上 3 信用組合 (registry No. 127-129):
+
+| 信組 | 本店 | 類型 |
+|---|---|---|
+| 福岡県医師信用組合 | 福岡市博多区博多駅南 | 業域 (医師) |
+| **福岡県信用組合** ★本ページ | **福岡市中央区赤坂** | **県域型地域信組** |
+| 福岡県庁信用組合 | 福岡市博多区東公園 | 職域 (福岡県庁職員) |
+
+> 注: 福岡 3 信組は **業域 (医師) / 地域 (県域) / 職域 (県職員)** の三類型で重複しない棲み分け構造。九州 7 県では福岡県のみがこの 3 類型を揃え、他県は 1-2 信組のみ。
+
+### 九州・福岡財務支局信組ブロック ^[extracted FSA registry]
+
+福岡財務支局 = 福岡県 + 佐賀県 + 長崎県 (10 信組合計):
+
+| 県 | 信組数 |
+|---|---|
+| 福岡県 | 3 (含本ページ) |
+| 佐賀県 | 3 |
+| 長崎県 | 4 |
+
+> 注: 九州本土の他県 (熊本・大分・宮崎・鹿児島) は **九州財務局**所管で別カウント。福岡財務支局 = 北九州ブロック (福岡・佐賀・長崎)。
+
+## 3. 系統内位置
+
+### 全信組連内の位置付け
+
+- **[[JapanFG/zenshin-kumi|全信組連]]** の九州ブロック会員行
+- 福岡財務支局 10 信組のうち福岡県 3 信組の中核地域型代表
+- 系統 ATM 連携・余資運用は全信組連経由
+
+### 福岡県金融機関ヒエラルキー ^[inferred]
+
+| ティア | 機関 | 位置 |
+|---|---|---|
+| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho|みずほ]] | 福岡支店 |
+| 地銀第一行 | [[JapanFG/fukuoka-fg|福岡銀行 (ふくおかFG)]] | 九州最大地銀 |
+| 地銀 (旧第二) | [[JapanFG/nnfh|西日本シティ銀行 (NNFH)]] | 第二地銀統合FG |
+| 地銀 | [[JapanFG/kitakyushu-bank|北九州銀行 (山口FG)]]・[[JapanFG/fukuoka-chuo-bank|福岡中央銀行]] | 県内地銀 |
+| 信金 | [[JapanFG/fukuoka-shinkin|福岡信用金庫]]・福岡ひびき信金等 | 福岡県信金ブロック |
+| **信組** | **福岡県信組** ★本ページ + 福岡県医師信組 + 福岡県庁信組 | **本層** |
+
+## 4. 業務 map
+
+### 主要業務 ^[extracted]
+
+| 業務 | 内容 |
+|---|---|
+| **中小企業向け融資** | 福岡県内 SME の運転資金・設備資金 |
+| **個人預金** | 組合員世帯向け定期・流動性預金 |
+| **住宅ローン** | 組合員向け住宅取得資金 |
+| **商店街金融** | 県内商店街・個店向け融資 ^[inferred] |
+| **農商工連携融資** | 県内一次産業者・農商工連携 SME ^[inferred] |
+| **教育・冠婚葬祭** | 組合員家庭の生活資金 |
+| **資産運用相談** | 国債・投信窓販 (系統経由) |
+
+### ALM・資金フロー ^[inferred]
+
+```
+組合員 (福岡県内 SME + 住民)
+  → 預金 → 福岡県信用組合
+              → 県内 SME 融資 + 住宅ローン
+              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+                                  → 機関投資 + 系統還元
+```
+
+## 5. KPI (推定) ^[ambiguous]
+
+| 指標 | 値 | 出典 |
+|---|---|---|
+| 総資産 | 数百億〜千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
+| 預金残高 | 数百億〜千億円規模 | ^[ambiguous] |
+| 貸出金 | 数百億円規模 | ^[ambiguous] |
+| 自己資本比率 | 信組基準 (4% 以上) を維持 | ^[inferred] |
+| 店舗数 | 数店舗〜十数店舗 | ^[inferred] |
+| 組合員数 | 万人台規模 | ^[ambiguous] |
+
+> 注: 最新数値は福岡県信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
+
+## 6. 監督・規制
+
+- **主管**: 金融庁・福岡財務支局
+- **法的根拠**: 中小企業等協同組合法 + 協同組合による金融事業に関する法律 (協金法)
+- **預金保険**: [[JapanFG/dic|預金保険機構]] 一般金融機関枠
+- **直近政策論点**:
+  - **DX 対応** (組合員向けスマホアプリ・電子契約)
+  - **AML/CFT 強化**対応コスト
+  - **福岡都心人口集中**の継続 vs **県内地方部過疎化**との相反トレンド
+  - **信組業界全体での再編・統合圧力** ^[inferred]
+  - **九州フィナンシャルグループ** (FFG・NNFH 主導) の地域金融再編フレームでのポジショニング
+
+## Counterpoints
+
+- **スケール劣位**: 福岡銀行・西日本シティ銀行という強力な地銀 2 行 + 福岡信金等の信金との直接競合で、規模デメリット ^[inferred]
+- **県内 3 信組の役割分担**: 福岡県信組 (地域) + 県庁信組 (職域) + 医師信組 (業域) の三類型棲み分けは明確だが、**統合シナジー余地**が業界再編議論で浮上する可能性 ^[inferred]
+- **DX 投資余力**: 系統共同化に依存、自前 DX 投資余力は限定的 ^[inferred]
+- **県内信金との競合**: [[JapanFG/fukuoka-shinkin|福岡信用金庫]]・福岡ひびき信金等の県内信金が同じ SME セグメントを争う ^[inferred]
+- **県外資本進出**: 鹿児島銀行 ([[JapanFG/kyushu-fg|九州FG]])・宮崎銀行 ([[JapanFG/miyazaki-bank|宮崎銀行]]) 等の他県地銀の福岡進出が組合員需要にも影響 ^[inferred]
+
+## Open questions
+
+- **最新総資産・預金・貸出規模** (組合員向け事業報告書を要参照)
+- **福岡県内 3 信組**の業務分担と統合可能性
+- **県外地銀進出**との競合・棲み分けの実態
+- **農商工連携融資**の具体的スキームと残高
+- **福岡都市圏 vs 県内周辺**の組合員分布
+
+## Related
+
+- [[JapanFG/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関)
+- [[JapanFG/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、Tohoku 版)
+- [[JapanFG/sapporo-chuo-shinkumi]] — 札幌中央信用組合 (peer 地域型信組、Hokkaido 版)
+- [[JapanFG/fukuoka-fg]] — ふくおかFG (福岡銀行親会社、九州最大地銀)
+- [[JapanFG/nnfh]] — 西日本シティ銀行 ([[JapanFG/nishi-nippon-fhd|NNFH]])
+- [[JapanFG/fukuoka-shinkin]] — 福岡信用金庫 (peer 福岡信金、業態対比)
+- [[JapanFG/dic]] — 預金保険機構
+- [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
+- [[banking/cooperative-banking-japan]] — 協同組織金融全体
+- [[JapanFG/INDEX|JapanFG index]]
+
+## Sources
+
+- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 4290005002505, registry No. 128)
+- **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
+- **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
+- **預金保険機構 公式**: https://www.dic.go.jp/
+- 中小企業等協同組合法
+- 協同組合による金融事業に関する法律 (協金法)
+
+---
+
+> [!info] 校核状態
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新は福岡県信組ディスクロージャー誌を要参照。Kyushu 県域型信組の代表アンカーとして Wave 13 拡張で追加。

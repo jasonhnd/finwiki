@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, investment-strategy, Visa, ARM, infrastructure, structural-position]
 status: candidate
-sources: []
+sources:
+  - https://investor.visa.com/financial-information/sec-filings/default.aspx
+  - https://www.arm.com/company/investors
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001973239&type=10-K
+  - https://www.mastercard.com/news/press/
 ---
 
 # 组合赢家结构（Portfolio Winner Structure）

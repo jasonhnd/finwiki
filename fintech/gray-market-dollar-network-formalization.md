@@ -11,7 +11,12 @@ review_by: 2026-11-16
 confidence: likely
 tags: [fintech, stablecoin, Tether, regulatory-arbitrage, market-structure]
 status: candidate
-sources: []
+sources:
+  - https://tether.to/en/news/
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/
+  - https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html
+  - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions
+  - https://www.bis.org/cpmi/publ/d215.htm
 ---
 
 # 灰色市场美元网络的正式化

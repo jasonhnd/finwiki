@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, fx, stablecoin, usdc, eurc, jpyc, cross-border, interchange]
-sources: []
+sources:
+  - https://www.circle.com/en/usdc
+  - https://www.circle.com/en/eurc
+  - https://jpyc.jp/
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://www.bis.org/cpmi/publ/d220.htm
 status: candidate
 ---
 

@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, hkma, hong-kong, ensemble, mbridge, dual-track, rmb-internationalization]
-sources: []
+sources:
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/research-and-applications/project-ensemble/
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://www.hkma.gov.hk/eng/news-and-media/press-releases/
+  - https://www.pbc.gov.cn/en/3688110/index.html
+  - https://www.bis.org/about/bisih/locations/hong_kong_sar.htm
 status: candidate
 ---
 

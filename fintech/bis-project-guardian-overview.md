@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, mas, singapore, tokenization, asset-tokenization, dbs, jpm, citi]
-sources: []
+sources:
+  - https://www.mas.gov.sg/schemes-and-initiatives/project-guardian
+  - https://www.mas.gov.sg/news/media-releases
+  - https://www.bis.org/about/bisih/locations/singapore.htm
+  - https://www.dbs.com.sg/corporate/businessclass/articles
+  - https://www.jpmorgan.com/onyx/index
 status: candidate
 ---
 

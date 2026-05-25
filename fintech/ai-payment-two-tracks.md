@@ -11,7 +11,12 @@ review_by: 2026-10-30
 confidence: likely
 tags: [fintech]
 status: candidate
-sources: []
+sources:
+  - https://stripe.com/use-cases/ai
+  - https://www.circle.com/en/usdc
+  - https://openai.com/index/introducing-the-stripe-app/
+  - https://docs.stripe.com/payments
+  - https://www.anthropic.com/news
 ---
 
 # AI 产业的两条支付轨道

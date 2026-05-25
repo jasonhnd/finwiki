@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: certain
 tags: [fintech, crypto, tax, CARF, IRS, compliance, cross-border]
 status: candidate
-sources: []
+sources:
+  - https://www.oecd.org/tax/exchange-of-tax-information/crypto-asset-reporting-framework-and-amendments-to-the-common-reporting-standard.htm
+  - https://www.irs.gov/forms-pubs/about-form-1099-da
+  - https://www.irs.gov/businesses/digital-assets
+  - https://home.treasury.gov/news/press-releases
+  - https://www.oecd.org/tax/exchange-of-tax-information/
 ---
 
 # CARF + 1099-DA = 跨境加密匿名性彻底终结

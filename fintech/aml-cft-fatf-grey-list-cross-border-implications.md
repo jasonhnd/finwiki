@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, aml, fatf, mra, stablecoin, jurisdiction]
-sources: []
+sources:
+  - https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html
+  - https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
+  - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions
+  - https://www.fincen.gov/resources/statutes-and-regulations
+  - https://www.imf.org/external/np/leg/amlcft/eng/
 status: candidate
 ---
 

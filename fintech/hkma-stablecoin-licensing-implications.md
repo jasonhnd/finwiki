@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, hk, stablecoin, tether, china, mra]
-sources: []
+sources:
+  - https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/
+  - https://tether.to/en/news/
+  - https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html
+  - https://www.hkma.gov.hk/eng/news-and-media/press-releases/
+  - https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Licensing
 status: candidate
 ---
 

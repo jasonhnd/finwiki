@@ -11,7 +11,12 @@ review_by: 2026-11-13
 confidence: certain
 tags: [fintech, stablecoin, MRA, regulation, geopolitics, framework]
 status: candidate
-sources: []
+sources:
+  - https://www.congress.gov/bill/119th-congress/senate-bill/394
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.fsa.go.jp/en/policy/sftl/index.html
+  - https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm
+  - https://home.treasury.gov/news/press-releases
 ---
 
 # 美 / 欧 / 日 "三个大圆" 稳定币全球合规架构

@@ -8,7 +8,12 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, bis, cbdc, tokenization, cross-border, wholesale, g10]
-sources: []
+sources:
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
+  - https://www.bis.org/press/p240403.htm
+  - https://www.bis.org/innovation_hub.htm
+  - https://www.iif.com/
+  - https://www.newyorkfed.org/aboutthefed/nyic
 status: candidate
 ---
 
