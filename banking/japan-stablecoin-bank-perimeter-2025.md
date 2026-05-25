@@ -1,0 +1,214 @@
+---
+title: "Japan stablecoin / BaaS bank perimeter (2025–2026)"
+aliases:
+  - "banking/japan-stablecoin-bank-perimeter-2025"
+  - "Japan stablecoin bank perimeter 2025"
+  - "改正資金決済法 bank perimeter"
+  - "Deposit token vs stablecoin bank boundary"
+  - "電子決済手段 bank perimeter"
+domain: banking
+created: 2026-05-25
+last_updated: 2026-05-25
+last_tended: 2026-05-25
+review_by: 2026-11-25
+confidence: likely
+tags: [banking, stablecoin, baas, regulatory-perimeter, EPI, electronic-payment-instrument, deposit-token, progmat, mufg, regional-bank-pilot]
+status: active
+sources:
+  - "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059"
+  - "https://progmat.co.jp/about/"
+  - "https://progmat.co.jp/concept/"
+  - "https://progmat.co.jp/en/news/2023-09-11-press/"
+  - "https://jpyc.co.jp/"
+  - "https://www.sbivc.co.jp/usdc"
+---
+
+# Japan stablecoin / BaaS bank perimeter (2025–2026)
+
+## Wiki route
+
+This entry sits under [[banking/INDEX|banking index]] as the bank-side perimeter view of the Japan stablecoin / electronic-payment-instrument (EPI) regulatory architecture. Read it with [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] for the fintech-side perimeter view, with the platform anchor [[JapanFG/progmat|Progmat]] and the issuer anchors [[JapanFG/jpyc|JPYC]] · [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade USDC distribution]], with [[fintech/jp-stablecoin-progmat|jp-stablecoin-progmat detailed]] · [[fintech/jp-trust-type-sc-architecture|jp trust-type SC architecture]] · [[fintech/jp-stablecoin-dcjpy|jp-stablecoin-dcjpy]] · [[fintech/japan-stablecoin-2026-event-tracker|Japan stablecoin 2026 event tracker]] · [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] · [[fintech/japan-epi-four-camps-comparison|Japan EPI four camps comparison]] · [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin deposit-token thesis]], and with the BaaS framework at [[banking/baas-japan-landscape|BaaS Japan landscape]] · [[banking/japan-baas-operating-models|Japan BaaS operating models]]. For license-stack context route through [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]] · [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]].
+
+## TL;DR
+
+By **2025**, Japan's regulatory perimeter for bank-issued digital money has hardened into a three-layer architecture under the 改正資金決済法 framework: (1) **deposit tokens** issued by **banks** under the standard 銀行法 deposit liability regime, (2) **stablecoins / electronic payment instruments (電子決済手段)** issued under a new 改正資金決済法 regime that recognises three issuer types — bank (預金型 EPI), 資金移動業 (funds-transfer-type EPI), and 信託 (信託型 EPI) — and distributed by a separate **電子決済手段等取引業者** (EPI service provider) license, and (3) **non-issued foreign stablecoins** (USDC etc.) distributed in Japan only through the same EPI-service-provider license. The bank-side perimeter has three concrete consequences: (a) only banks can issue 預金型 EPI as bank-deposit-backed tokens; (b) only trust banks (信託兼営銀行) can be issuers of 信託型 stablecoin under platforms like [[JapanFG/progmat|Progmat]]; (c) BaaS partner-channel distribution by banks now coexists with a separate stablecoin distribution channel under different license stacks. **MUFG's Progmat platform** (independent company since 2023-10) provides the institutional rails for 信託型 SC; **JPYC** runs the 資金移動業-based JPY SC; **SBI VC Trade** is the single registered foreign-SC distributor (USDC). Regional-bank pilots are emerging but operationally limited as of the 2025 transition. ^[ambiguous]
+
+## 1. The three-layer perimeter
+
+| Layer | License / route | What banks can do | What banks cannot do |
+|---|---|---|---|
+| **Deposit token (預金トークン)** | 銀行法 standard bank deposit | Issue tokenized deposit balances backed 1:1 by deposit liabilities on the bank's balance sheet; settle peer-to-peer or commercial transactions; redeem at par | Cannot be transferred outside the bank network without legal-form change; cannot be held by non-bank-account holders directly |
+| **Bank-issued EPI (預金型 EPI / 電子決済手段 第1号)** | 改正資金決済法 — EPI issuer | Issue a regulated electronic-payment-instrument backed by deposits; distributable through bank or non-bank EPI service providers | Subject to EPI regime (KYC, redeemability, reserve, conduct rules); cannot disguise non-deposit tokens as deposit-backed |
+| **Trust-type EPI (信託型 EPI / 電子決済手段 第3号)** | 改正資金決済法 — trust-bank issuer | Trust banks (信託兼営銀行) can issue 信託型 stablecoin where backing assets sit in trust; institutional / platform-based use case | Non-trust-banks cannot issue 信託型 EPI; issuer role distinct from platform-provider role |
+| **Funds-transfer EPI (資金移動型 EPI / 電子決済手段 第2号)** | 改正資金決済法 — funds-transfer-business issuer | A funds-transfer business (資金移動業, 第1〜3種) can issue a JPY stablecoin under the EPI framework | A bank as such does not need 資金移動業 — different lane |
+| **EPI distribution (電子決済手段等取引業)** | 改正資金決済法 — separate distributor license | Banks or non-banks holding the 電子決済手段等取引業 license can distribute EPI to customers; foreign SCs (USDC) are distributable only via this license | Distribution license does not authorise issuance |
+
+The legal-form mapping replaces a previously messy practice where SC-like products were tested under various 前払式支払手段 / 資金移動業 / VASP combinations without a clean fit. ^[inferred]
+
+## 2. Why each issuer route is distinct on the bank side
+
+### Deposit token — within the standard bank deposit regime
+
+A **deposit token** is not a new legal form. The bank holds the customer deposit liability under 銀行法; the token is a digital representation of that deposit balance on a programmable ledger. Settlement, redemption, and consumer protection all follow standard bank-deposit rules. Examples include [[fintech/jp-stablecoin-dcjpy|DCJPY]] (Decurret-anchored bank-deposit-token initiative).
+
+| Pros for the bank | Cons for the bank |
+|---|---|
+| No new license; fits inside existing 銀行法 framework | Limited to bank-customer-to-bank-customer flow without further legal-form changes |
+| Backing is the bank's deposit balance — already capitalised and supervised | Requires bilateral / consortium agreements to scale beyond a single bank |
+| Customer protection identical to deposit | Programmability constraints from deposit-liability regulatory expectations |
+
+### Bank-issued EPI (預金型) — bridging deposit and broader circulation
+
+The 預金型 EPI variant lets a bank issue a regulated electronic-payment-instrument whose backing is deposit liabilities but whose **circulation** can extend beyond a single bank's customer base via 電子決済手段等取引業 distributors. This is the bank-side analog to the funds-transfer-type 資金移動型 EPI that non-banks like JPYC use.
+
+| Pros for the bank | Cons for the bank |
+|---|---|
+| Allows the bank's brand and balance sheet to anchor a circulating SC | Adds the EPI regulatory layer (KYC obligations on distributors, redeemability rules, reserve rules) on top of banking supervision |
+| Compatible with cross-bank settlement design | Distributors must hold the EPI distributor license — adds a coordination burden |
+
+### Trust-type EPI (信託型) — the institutional-platform lane
+
+The **信託型 SC** uses a trust structure: a trust bank (信託兼営銀行) serves as the issuer; the backing assets (JPY deposits at multiple banks, JGBs, etc.) sit in trust; the platform provider arranges the technology rails; institutional and corporate users hold and transact the tokens. The [[JapanFG/progmat|Progmat]] platform is the leading example.
+
+| Pros for the bank | Cons for the bank |
+|---|---|
+| Trust segregation means SC holders' claim is on the trust assets, not on the trust bank's general balance sheet | Only trust-banks can issue — restricts the issuer set to a few institutions |
+| Multi-asset backing enables broader institutional adoption | More operational complexity than a single-bank deposit-token model |
+| Platform-provider role (Progmat) is distinct from issuer role (trust bank) — clear regulatory layering | Coordination across issuer / platform / participating-bank / EPI distributor is non-trivial |
+
+## 3. Issuer / distributor anchor map (2025–2026)
+
+| Token | Backing form | Issuer | Platform | Distribution | Regulatory layer |
+|---|---|---|---|---|---|
+| **DCJPY** (deposit token) | Bank deposit liability | Participating banks (multi-bank pilot) | DeCurret DCP | Limited / pilot | 銀行法 standard |
+| **Progmat Coin (planned 信託型 SC)** | Trust-held JPY assets | [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] and other participating trust banks | [[JapanFG/progmat|Progmat]] | Bank and non-bank EPI distributors | 改正資金決済法 信託型 EPI |
+| **JPYC** | 資金移動業 — backing held under 資金移動業 funds management rules | [[JapanFG/jpyc|JPYC株式会社]] | Own infrastructure | Direct + crypto exchanges | 改正資金決済法 資金移動型 EPI |
+| **USDC (foreign SC, distributed in Japan)** | Circle reserve | Circle (US issuer) | (foreign issuer infrastructure) | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] — the single registered EPI distributor for USDC as of the 2025–2026 cycle | 改正資金決済法 電子決済手段等取引業 (distribution side only) |
+
+## 4. MUFG / Progmat as the institutional anchor
+
+### Why Progmat anchors the institutional rails
+
+[[JapanFG/progmat|株式会社Progmat]] became an independent company on **2023-10-02**, separating from [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] internal-project status. Its shareholder structure brings together MUFG-group institutions plus NTT Data, [[JapanFG/japan-exchange-group|JPX]], and others; participating banks include not only [[JapanFG/mufg|MUFG]] but also other megabanks and regionals. ^[inferred] The platform's role is technology and operating-rail provision, **not** issuer status — the issuer role sits with trust banks under the 信託型 EPI regime.
+
+### Why platform-provider ≠ issuer
+
+The clean separation matters because: ^[inferred]
+
+- Progmat's regulatory burden is that of a technology and operating-platform provider, not a regulated financial institution.
+- Issuer status (and the corresponding 改正資金決済法 obligations) sits with the trust bank — keeping the consumer-protection and SC-redemption obligations on a regulated bank balance sheet.
+- Multiple trust banks can act as issuers on the same Progmat platform, enabling broader institutional adoption without bottlenecking on a single issuer.
+
+This pattern mirrors the way [[banking/baas-japan-landscape|BaaS]] separates the **partner brand** (UX layer) from the **bank** (license + balance sheet); Progmat separates the **platform** (technology) from the **issuer** (license + backing assets).
+
+## 5. Regional-bank pilots and the BaaS adjacency
+
+### What regional banks can and cannot do
+
+Regional banks face the same three-layer perimeter as megabanks: ^[inferred]
+
+- **Deposit tokens** are accessible to any bank under 銀行法 — regionals can participate in multi-bank deposit-token initiatives.
+- **預金型 EPI issuance** is open to regionals in principle, but the EPI regulatory layer adds operational and supervisory burden that may not be cost-effective for single-bank regional issuance — coordinated platform participation is the practical route.
+- **信託型 EPI issuance** requires trust-bank license; only regionals with a 信託兼営銀行 license can directly participate as issuers.
+
+### BaaS partner-channel distribution
+
+Some regional banks have used BaaS architectures ([[banking/minna-bank-baas-model|Minna Bank]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]]) to extend their deposit franchise into partner-brand customer journeys. The SC perimeter intersects with BaaS at two points: ^[inferred]
+
+1. **EPI distribution license overlay.** A BaaS-participating regional bank wishing to distribute SCs to its partner-brand customers needs the separate 電子決済手段等取引業 license.
+2. **Deposit-token integration.** A BaaS partner-brand customer journey can incorporate deposit-token settlement once the underlying bank deposits are tokenized — but this is still in pilot / planning stage as of 2025–2026. ^[ambiguous]
+
+### Regional pilot status
+
+As of the 2025–2026 transition, regional-bank SC pilots are emerging but **operationally limited**: most regional participation has been through participation in megabank- or trust-bank-led consortia (Progmat, DCJPY) rather than standalone SC issuance. The structural reason is fixed-cost technology and supervisory-coordination burden; specialised infrastructure providers like Progmat exist precisely to amortise that cost across many participating banks. ^[inferred]
+
+## 6. Deposit-token vs stablecoin — the operational boundary
+
+| Dimension | Deposit token | Stablecoin / EPI |
+|---|---|---|
+| Legal liability | Bank-deposit liability under 銀行法 | EPI under 改正資金決済法 (deposit-, funds-transfer-, or trust-type backing) |
+| Who can issue | Banks | Banks (預金型 + 信託型 via trust bank), 資金移動業 (資金移動型) |
+| Customer relationship | Bank-customer-of-the-issuer | Holder-of-the-EPI; not necessarily a bank customer |
+| Deposit insurance | Standard 預金保険 coverage | Does not apply to EPI — replaced by EPI-regime reserve / segregation rules |
+| Cross-institution transferability | Constrained to bank network without further legal-form change | Built for circulation via EPI distributors |
+| Programmability | Limited by deposit-liability constraints | Higher programmability under EPI framework |
+| Use cases | Inter-bank settlement, corporate treasury, conditional payments | Retail / institutional circulation, cross-platform settlement |
+| Reserves | Bank-balance-sheet liabilities matched by bank-asset side | EPI-specific reserve / trust rules |
+
+The two are **complementary, not substitutes** — banks can run both legal forms in parallel, choosing the legal form per use case rather than picking one architecture. ^[inferred]
+
+## 7. The four EPI camps (cross-cutting summary)
+
+| Camp | Lead operator | Legal form | Coverage |
+|---|---|---|---|
+| Trust-type / institutional | [[JapanFG/progmat|Progmat]] platform + participating trust banks | 信託型 EPI | Institutional, corporate, cross-bank settlement |
+| Funds-transfer-type / retail JPY | [[JapanFG/jpyc|JPYC]] | 資金移動型 EPI | Retail JPY SC, crypto-exchange-distributed |
+| Foreign-SC distribution | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] (USDC distributor) | 電子決済手段等取引業 (distribution only) | Distribution of Circle's USDC to Japanese users |
+| Deposit-token (bank-rails) | DCJPY (DeCurret + participating banks) | 銀行法 standard deposit liability | Inter-bank settlement, corporate treasury |
+
+For deeper comparison of the four camps and three issuer types, see [[fintech/japan-epi-four-camps-comparison|Japan EPI four camps comparison]] and [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]].
+
+## Counterpoints
+
+- "Japan SC framework is over-restrictive." The 信託型 lane is one of the more permissive institutional-SC frameworks globally; the broader perimeter trades off speed-to-market for legal clarity. ^[ambiguous]
+- "Deposit tokens are just a marketing relabel of bank deposits." Operationally distinct — programmability, settlement design, and inter-institution transferability are structurally different from passive deposit balances. ^[inferred]
+- "Stablecoins replace bank deposits." Wrong category — EPI is a separate legal form with separate consumer-protection rules; it does not displace bank-deposit funding economics. ^[inferred]
+- "Progmat is a bank." It is not — Progmat is a platform-provider company. The issuer / trustee / distributor roles sit with regulated entities. ^[extracted]
+- "Only megabanks can run SCs." Trust-bank issuance is restricted to 信託兼営銀行 (a small set), but participation in multi-bank consortia and EPI distribution is open to regionals and net banks under license. ^[inferred]
+- "Foreign SCs will displace JPY SCs in Japan." Different use case — USDC distribution under SBI VC Trade is for dollar-denominated SC exposure; JPY-denominated SCs (JPYC, Progmat coin) serve different settlement and treasury needs. ^[inferred]
+
+## Open questions
+
+- How rapidly will the Progmat platform onboard additional trust-bank issuers beyond MUFG Trust?
+- What is the realistic timeline for Progmat-anchored 信託型 SC to reach material institutional usage?
+- How will regional-bank SC pilots evolve — pure consortium participation, or genuinely standalone regional SC issuance?
+- How will deposit-token and EPI interoperate operationally — bridging protocols, settlement-vs-issuance distinction, conversion mechanics?
+- How does the 改正資金決済法 framework treat tokenized deposits in cross-border settlement under [[fintech/bis-project-agora-overview|BIS Project Agora]] / [[fintech/bis-project-ensemble-overview|BIS Project Ensemble]]-style multi-CBDC / SC architectures?
+- How does the SC perimeter intersect with the [[banking/baas-japan-landscape|BaaS]] architecture as partner-brand journeys begin to integrate token-based settlement?
+- How does the EPI distribution license framework adapt as more foreign SCs (USDT, PYUSD, etc.) seek Japan distribution beyond USDC?
+- Will the trust-bank issuer set expand beyond the current narrow group, or will the 信託兼営銀行 license remain a structural bottleneck?
+
+## Related
+
+- [[banking/INDEX]]
+- [[banking/baas-japan-landscape]]
+- [[banking/japan-baas-operating-models]]
+- [[banking/japan-banking-license-tier-comparison-matrix]]
+- [[banking/minna-bank-baas-model]]
+- [[banking/mercari-bank-license-stack]]
+- [[banking/gmo-aozora-net-bank]]
+- [[banking/japan-net-bank-competition-map]]
+- [[banking/post-megabank-positioning]]
+- [[JapanFG/INDEX]]
+- [[JapanFG/progmat]]
+- [[JapanFG/jpyc]]
+- [[JapanFG/mufg]]
+- [[JapanFG/mitsubishi-ufj-trust-bank]]
+- [[JapanFG/sumitomo-mitsui-trust]]
+- [[JapanFG/mizuho-trust-bank]]
+- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[fintech/japan-stablecoin-regulatory-landscape]]
+- [[fintech/jp-stablecoin-progmat]]
+- [[fintech/jp-trust-type-sc-architecture]]
+- [[fintech/jp-stablecoin-dcjpy]]
+- [[fintech/japan-stablecoin-2026-event-tracker]]
+- [[fintech/japan-epi-three-types-overview]]
+- [[fintech/japan-epi-four-camps-comparison]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis]]
+- [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]]
+- [[exchanges/jp-exchange-jpyc]]
+- [[exchanges/jp-exchange-sbi-vc-trade]]
+
+## Sources
+
+- FSA registered EPI service providers list (https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx).
+- FSA registered funds-transfer service providers list (https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf).
+- FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
+- 資金決済に関する法律 — 改正資金決済法 (e-Gov 法令検索: https://elaws.e-gov.go.jp/document?lawid=421AC0000000059).
+- Progmat company outline / concept / press releases (https://progmat.co.jp/about/, https://progmat.co.jp/concept/, https://progmat.co.jp/en/news/2023-09-11-press/).
+- JPYC corporate site (https://jpyc.co.jp/).
+- SBI VC Trade USDC product page (https://www.sbivc.co.jp/usdc).

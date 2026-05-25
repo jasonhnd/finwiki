@@ -1,0 +1,244 @@
+---
+title: "Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile"
+aliases:
+  - "JapanFG/japan-post-bank"
+  - "Japan Post Bank operating profile"
+  - "ゆうちょ銀行 operating profile"
+  - "JP Bank 7182"
+  - "JP Bank operating profile"
+  - "Japan Post Bank profile"
+domain: JapanFG
+created: 2026-05-25
+last_updated: 2026-05-25
+last_tended: 2026-05-25
+review_by: 2026-11-25
+confidence: likely
+tags: [JapanFG, banking, postal-savings, listed, government-affiliated, japan-post-holdings, deposit-franchise]
+status: active
+sources:
+  - "https://www.jp-bank.japanpost.jp/"
+  - "https://www.jp-bank.japanpost.jp/aboutus/company/abt_cmp_index.html"
+  - "https://www.jp-bank.japanpost.jp/ir/financial/ir_fnc_index.html"
+  - "https://www.jp-bank.japanpost.jp/ir/disclo/ir_dsc_index.html"
+  - "https://www.japanpost.jp/group/"
+  - "https://www.japanpost.jp/ir/"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.mof.go.jp/about_mof/councils/postal_privatization_committee/"
+  - "https://www.boj.or.jp/statistics/index.htm"
+---
+
+# Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-profile companion to the entity anchor at [[JapanFG/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]]. Read it against [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]] for the megabank-asset-class peer comparison, against [[JapanFG/resona-hd|りそなホールディングス]] for the listed non-megabank universal-bank peer, against [[banking/cooperative-banking-japan|cooperative banking Japan]] for the next-largest deposit-mass system outside the megabanks, and against [[banking/post-megabank-positioning|post-megabank positioning]] for the structural read of where Japan Post Bank sits in the listed retail-bank universe. Pair it with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the residual government-finance perimeter and with [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for the digital-distribution comparator.
+
+## TL;DR
+
+ゆうちょ銀行 (Japan Post Bank, JPB, 東証 PRIME 7182) is the listed retail-deposit-bank subsidiary of [[JapanFG/japan-post-holdings|日本郵政 (Japan Post Holdings, 6178)]]. It sits on roughly **¥190–200 trillion of deposits** (called 貯金, a postal-savings naming legacy) and is one of the largest single-institution deposit pools in the world ^[ambiguous]. Distribution is not branch-led in the megabank sense — the ~24,000 郵便局 (post offices) operated by [[JapanFG/japan-post|日本郵便]] act as the front-line counter, contractually under a banking-agency arrangement. The lending book is **structurally thin** (the privatization-era 民間補完 constraint plus low risk-appetite history), so most asset duration sits in **国債 (JGB) and securities-portfolio risk** rather than in loans. ROE has been chronically below megabank levels; NIM is squeezed by the JGB-heavy mix; the 2024–2026 BoJ exit cycle is the most consequential macro lever the bank has seen since IPO. Government ownership runs through Japan Post Holdings (Ministry of Finance shareholding), whose stake in JPB has been progressively diluted from 100% at the 2015-11-04 triple IPO toward a longer-run sub-50% target subject to privatization-law mechanics. ^[inferred]
+
+## 1. Group and ownership position
+
+| Item | Reading |
+|---|---|
+| Legal name | 株式会社ゆうちょ銀行 |
+| English name | Japan Post Bank Co., Ltd. |
+| TSE code | 7182 (Prime market, listed 2015-11-04) |
+| Parent | [[JapanFG/japan-post-holdings|日本郵政 (Japan Post Holdings, 6178)]] |
+| Ultimate state shareholder | 財務大臣 holds the government stake in Japan Post Holdings under the 郵政民営化法 framework |
+| Sister operating companies | [[JapanFG/kanpo-life|かんぽ生命 (Japan Post Insurance, 7181)]] · [[JapanFG/japan-post|日本郵便 (Japan Post)]] |
+| Primary regulator | 金融庁 (FSA) — banking supervision; 総務省 has policy interest via the postal-privatization framework |
+| Listing path | 2015-11-04 triple IPO of Japan Post Holdings + Japan Post Bank + Japan Post Insurance |
+| Bank-category | Ordinary bank under 銀行法 — not a specialised institution despite the postal-savings lineage |
+
+### Three-bank parent chain (post-IPO)
+
+```
+財務大臣 (Minister of Finance, state shareholder)
+        │  approximately one-third+ of Japan Post Holdings remains state-owned ^[ambiguous]
+        ▼
+日本郵政 株式会社 (Japan Post Holdings, TSE 6178)
+        ├── ゆうちょ銀行 (Japan Post Bank, TSE 7182, parent stake progressively diluted from 100% at IPO) ^[ambiguous]
+        ├── かんぽ生命 (Japan Post Insurance, TSE 7181)
+        ├── 日本郵便 (Japan Post, 100%) — runs the ~24,000 post-office network
+        └── unlisted real-estate / logistics adjacencies
+```
+
+### Why the JP Holdings ownership chain matters
+
+The 2015 triple IPO was structured so each of the three subsidiaries can have its parent stake reduced independently subject to the 郵政民営化法 mechanics. For Japan Post Bank specifically, the legal target trajectory is for Japan Post Holdings to step its stake down over time, with the 民間補完 doctrine being the political constraint that delays full privatization. The state's residual ownership of Japan Post Holdings indirectly anchors a quasi-sovereign read of JPB's deposit liabilities — depositors treat 貯金 as effectively state-grade safety, which is one structural source of JPB's deposit stickiness. ^[inferred]
+
+### Reference timeline
+
+| Year | Event |
+|---|---|
+| 1875 | Postal savings ("郵便貯金") originated under the Meiji-era postal system |
+| 1949 | Postal Services Agency reorganization, with postal savings as a separate function |
+| 2003-04-01 | Japan Post (公社) established, consolidating the three postal lines under a public corporation |
+| 2007-10-01 | Postal privatization — Japan Post Bank Co., Ltd. opens as a privatized bank under the 郵政民営化法 framework |
+| 2008-2010 | Privatization roadmap reset under the DPJ government; full-privatization timeline diluted |
+| **2015-11-04** | **Triple IPO** — Japan Post Holdings (6178), Japan Post Bank (7182), Japan Post Insurance (7181) list simultaneously on the TSE |
+| 2017-2024 | Periodic secondary offerings reduce Japan Post Holdings' stake in JPB toward a longer-run sub-50% target ^[ambiguous] |
+| 2022-04 | TSE market-segment reorganization — JPB moves to the Prime market |
+| 2024-03 | BoJ ends the negative-interest-rate policy (NIRP exit) — first material shift in Japan's policy-rate stance since 2016 |
+| 2024-2026 | Progressive BoJ rate-normalization cycle, with consequential impact on JPB's NIM and the JGB-portfolio mark-to-market |
+
+## 2. Balance-sheet structure — why JPB is unusual
+
+### Asset-side: deposit-funded but not loan-led
+
+| Side | Megabank typical | Japan Post Bank |
+|---|---|---|
+| Deposits | Wholesale + retail + corporate mix | Almost entirely retail 個人貯金 (postal-savings legacy) ^[inferred] |
+| Loans | 50–60% of assets, with corporate, mortgage, and overseas mix | A small fraction of assets — direct retail lending is limited and there is no large corporate-loan book ^[ambiguous] |
+| Securities | 30–40% of assets, balanced JGB + foreign + equities | Very large — historically dominated by JGBs, with progressive diversification into foreign bonds, alternatives, and private funds since the mid-2010s ^[inferred] |
+| Loans-to-deposits ratio | ~70–90% range | Single-digit-to-low-double-digit range — structurally a securities-portfolio bank, not a lending bank ^[ambiguous] |
+
+The 「貯金」 word is a postal-savings naming legacy — under 銀行法 these liabilities are bank deposits ("預金"), but the JPB product brand keeps the historical term. ^[extracted]
+
+### Why no big loan book
+
+Three reasons compound:
+
+1. **民間補完 doctrine.** The 郵政民営化法 framework expects JPB not to displace private banks. New lending business lines require approval from the 郵政民営化委員会 and have been incrementally permitted (e.g., individual unsecured loan permissions, modest mortgage capacity) but the bank has no megabank-style corporate-loan capability.
+2. **No corporate-banking franchise.** JPB has never had the megabank relationship-banking infrastructure for large corporates. Without that origination engine, building a loan book from scratch is uneconomic.
+3. **Operational design around the post office counter.** The ~24,000 post-office distribution network is optimised for high-volume small-ticket deposit, remittance, and basic financial-product sales — not for credit underwriting and relationship banking.
+
+### Securities portfolio — the policy-rate-exposure problem
+
+JPB's securities book has been the dominant earnings driver and the dominant risk concentration. Through the prolonged negative-rate / ZIRP era, the JGB-heavy mix produced compressed yields and limited rebalancing room. The 2024–2026 BoJ rate-normalization cycle is consequential on two opposing axes:
+
+- **Mark-to-market headwind** on the legacy long-duration JGB book as yields rise.
+- **NIM tailwind** as new investment runs in at higher reinvestment yields and as policy-rate-linked deposit-side spreads decompress.
+
+The aggregate net effect depends on duration profile, hedging, and the pace of portfolio rotation. JPB IR discloses the headline securities composition and unrealized gains/losses; granular tracking belongs to the IR disclosure cycle, not to a wiki page. ^[ambiguous]
+
+## 3. Distribution: the mail-channel banking-agency model
+
+### How the post-office counter actually works
+
+JPB does not own most of its customer-facing counters. The transaction flow is:
+
+```
+Customer at 郵便局 counter
+      ↓  (deposit / withdrawal / remittance / investment-product order)
+日本郵便 (Japan Post) — counter operator, ATM operator
+      ↓  (acting as banking agent for JPB under contract)
+ゆうちょ銀行 (Japan Post Bank) — account-holder, balance-sheet bearer
+```
+
+| Surface | Operator | Customer experience |
+|---|---|---|
+| ~24,000 郵便局 counters nationwide | 日本郵便 (Japan Post) acting as banking agent | Same counter handles mail, parcel, and JPB transactions |
+| ~30,000+ ゆうちょ ATM | JPB-branded ATMs at post offices, train stations, retail | Direct JPB-branded; ATM-network interoperability with other banks via [[banking/INDEX|banking index]] interbank rails |
+| Direct branches | A small set of approximately 230 directly-operated branches ^[ambiguous] | Concentrated in larger cities for higher-touch services |
+| ゆうちょ通帳アプリ + Web | JPB-owned digital channels | Account-balance, statement, transfers; thinner feature set than [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] |
+| mijika (smartphone-first sub-brand) | JPB digital initiative | Young-segment acquisition attempt ^[ambiguous] |
+
+### Why the agency model both anchors and constrains the franchise
+
+- The 24,000-counter reach is structurally **unmatched** by any other Japanese bank — it gives JPB the deepest geographic depth, including rural and elderly customer bases unserved by megabank branch networks.
+- But the cost structure is shared with Japan Post (mail / parcel) and JPB pays an internal commission to its sister company, which absorbs deposit-spread economics in low-rate periods.
+- As mail volumes structurally decline and Japan Post's profitability pressure rises, the cost-allocation negotiation between JPB and Japan Post is a recurring intra-group issue. ^[inferred]
+- Customer demographics skew older than megabanks or net banks, which both stabilises the deposit base (less rate-shopping) and limits the conversion of these customers into higher-margin product mix (mortgages, investment products, cards).
+
+## 4. KPI and profitability snapshot
+
+JPB's published headline financials show a structural pattern:
+
+| Dimension | Pattern |
+|---|---|
+| Total assets | ~¥230tn class ^[ambiguous] |
+| Deposit base | ~¥190–200tn class ^[ambiguous] — dominant retail mix |
+| ROE | Chronically below megabank peers; mid-single-digit ranges have been typical post-IPO ^[ambiguous] |
+| NIM | Structurally compressed by the JGB-heavy mix and the historical ZIRP/NIRP environment |
+| Cost-to-income | Bears the post-office counter agency cost via inter-company fees to [[JapanFG/japan-post|Japan Post]] |
+| Capital | Capital ratios consistently above 銀行法 minimums; G-SIB status is not assigned — JPB is a large domestic institution, not a global cross-border systemic bank |
+
+For point-in-time figures, refer to the most recent JPB 決算短信 / 有価証券報告書 cycle; this page tracks the **shape** of the franchise rather than the running headline numbers.
+
+## 5. Strategy: post-megabank positioning
+
+### Where JPB competes
+
+- **Deposit stickiness** is JPB's structural moat. Retail savings that have stayed across the 1875–present transition are unusually unlikely to migrate, even at rate disadvantage.
+- **Counter reach** dominates rural Japan in a way that megabanks cannot match.
+- **Bond-portfolio yield uplift** in the 2024–2026 normalization cycle gives a one-time multi-year reinvestment tailwind.
+
+### Where JPB does not compete
+
+- **Corporate banking, IB, and trust.** Megabanks own this segment.
+- **Digital-native primary banking.** [[banking/rakuten-bank|Rakuten Bank]], [[banking/paypay-bank|PayPay Bank]], [[banking/au-jibun-bank|au Jibun Bank]], [[JapanFG/ssnb|住信SBI / NEOBANK]] all out-execute on app-native UX and ecosystem-linked acquisition. JPB's digital channels (ゆうちょ通帳アプリ, mijika) trail materially.
+- **Mortgage origination at scale.** JPB has limited capacity here under the 民間補完 framing.
+
+### Strategic levers under management
+
+1. **Securities-portfolio diversification.** Continued rotation from JGB into foreign bonds, alternatives, and private funds — a multi-year effort coordinated with megabank-system advisors. ^[ambiguous]
+2. **Cost-discipline on the post-office channel.** Negotiating internal fee architecture with Japan Post as mail volumes fall.
+3. **Digital channel investment.** ゆうちょ通帳アプリ and mijika programs aim to slow customer-base aging.
+4. **Modest expansion of fee-business adjacencies.** Investment-trust sales, card-issuance partnerships (JP BANK カード), insurance distribution overlap with かんぽ生命 ^[ambiguous].
+5. **Privatization-step compliance.** As Japan Post Holdings reduces its JPB stake, additional business-line approvals under the 郵政民営化委員会 framework become possible.
+
+## 6. Regulatory and policy boundary
+
+### Stacked regulation
+
+| Layer | Statute / regulator | Implication for JPB |
+|---|---|---|
+| Banking | 銀行法, 金融庁 監督指針 | Standard ordinary-bank supervision: capital, liquidity, governance, IT, AML |
+| Postal privatization | 郵政民営化法, 郵政民営化委員会 | Permission framework for new business lines; sequencing of parent-stake reduction |
+| Postal-system policy | 総務省 (郵政行政) | Counter-network policy, universal-service obligations affecting Japan Post (not JPB directly) |
+| Deposit insurance | 預金保険機構 | JPB participates as a member; deposit guarantee applies under the standard scheme |
+| Securities supervision | 金融商品取引法 — for investment-trust sales and securities operations | JPB is supervised on its 投信 sales conduct under standard rules |
+| Consumer protection | 消費者契約法 + sector guidance | Heightened salience post-かんぽ問題 across the JP Group |
+
+### The 民間補完 doctrine — operating constraint
+
+The 郵政民営化法 enshrines a "民間補完" expectation: JPB's business expansion should not displace existing private-finance providers. In practice this is enforced through the 郵政民営化委員会's case-by-case approval of new product permissions (e.g., unsecured personal-loan expansion, mortgage capacity, corporate-lending pilots). The doctrine is the structural reason JPB has not built a loan book to match its deposit-base scale. Whether the doctrine should be relaxed as the state stake declines is a recurring policy debate.
+
+### The post-かんぽ governance overhang
+
+The 2019 かんぽ生命 mis-selling scandal (inappropriate sales of insurance products through Japan Post counters) triggered group-wide compliance and governance reforms, including stricter oversight of the post-office cross-selling model. JPB's investment-trust sales practices were tightened in parallel, and the speed of new product cross-sell expansion has been moderated by the overhang.
+
+## Counterpoints
+
+- "JPB is functionally a giant JGB fund, not a bank." Partly true on the asset mix; structurally false because deposit operations, counter-network compliance, and regulated banking activity dominate the operating model. ^[inferred]
+- "Government ownership keeps JPB safe forever." The privatization roadmap is open-ended; the residual state stake is a soft-comfort feature, not a permanent guarantee. ^[ambiguous]
+- "JPB will become a major lender as 民間補完 relaxes." Slow and incremental; the bank has no relationship-banking origination engine, so even if rules loosen, building loan capacity is a multi-year effort. ^[inferred]
+- "The 24,000-counter network is a strategic asset." It is, but its cost is absorbed by [[JapanFG/japan-post|Japan Post]] under structural decline pressure; the network economics is a two-sided sustainability question, not a pure JPB upside. ^[inferred]
+- "JPB will catch [[banking/rakuten-bank|Rakuten Bank]] in digital." Unlikely on current trajectory — the digital-native banks have material UX, ecosystem, and acquisition-cost advantages. ^[inferred]
+
+## Open questions
+
+- What is the current step-down trajectory of Japan Post Holdings' stake in JPB, and what is the realistic timeline to full privatization given political constraints?
+- How does the BoJ rate-normalization cycle through 2024–2026 net out across JPB's bond-mark-to-market headwind and reinvestment-NIM tailwind?
+- How much of the securities portfolio is now in foreign bonds and alternatives vs JGBs, and what is the medium-term target mix?
+- What is the inter-company commission paid to Japan Post for the counter-agency service, and how is that fee renegotiated as mail-side cost pressure rises?
+- Does the mijika smartphone-first sub-brand show meaningful young-segment acquisition KPI, or is digital-channel migration still trailing megabank and net-bank peers?
+- How does JPB's medium-term loan-book expansion plan interact with the 民間補完 doctrine and the 郵政民営化委員会 approval process?
+- How does JPB's pricing for postal-savings remittance and basic-deposit products evolve relative to digital-native competitors as customer demographics turn over?
+
+## Related
+
+- [[JapanFG/INDEX]]
+- [[JapanFG/yucho]] — entity-anchor companion page
+- [[JapanFG/japan-post-holdings]]
+- [[JapanFG/japan-post]]
+- [[JapanFG/kanpo-life]]
+- [[JapanFG/mufg]] · [[JapanFG/smfg]] · [[JapanFG/mizuho-fg]]
+- [[JapanFG/resona-hd]]
+- [[banking/INDEX]]
+- [[banking/post-megabank-positioning]]
+- [[banking/japan-net-bank-competition-map]]
+- [[banking/cooperative-banking-japan]]
+- [[banking/japan-banking-license-tier-comparison-matrix]]
+- [[banking/rakuten-bank]] · [[banking/paypay-bank]] · [[banking/au-jibun-bank]]
+- [[policy-finance/japan-policy-finance-system]]
+
+## Sources
+
+- Japan Post Bank corporate site and IR pages (https://www.jp-bank.japanpost.jp/).
+- Japan Post Holdings group disclosure (https://www.japanpost.jp/group/, https://www.japanpost.jp/ir/).
+- FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
+- MoF postal-privatization committee materials (https://www.mof.go.jp/about_mof/councils/postal_privatization_committee/).
+- BoJ monetary-statistics releases for context on the JGB / deposit aggregate environment.
