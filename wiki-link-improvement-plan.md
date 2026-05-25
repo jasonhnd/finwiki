@@ -6,14 +6,14 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1401 |
+| Entries checked | 1411 |
 | Entries with any issue | 0 |
 | Body links below 3 | 0 |
 | Missing H1 | 0 |
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 138 |
+| Changed or new entries in current worktree | 58 |
 
 ## Wiki Linking Standard
 
@@ -31,151 +31,71 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `HOW-TO-NAVIGATE.md` | `??` | 207 | ok |
-| `JapanFG/acom-co-detail.md` | `??` | 12 | ok |
-| `JapanFG/aichi-iryo-shinkumi.md` | `??` | 14 | ok |
-| `JapanFG/aichi-shogin-shinkumi.md` | `??` | 18 | ok |
-| `JapanFG/aizawa-securities.md` | `??` | 21 | ok |
-| `JapanFG/aozora-bank-detail.md` | `??` | 16 | ok |
-| `JapanFG/au-jibun-bank.md` | `??` | 19 | ok |
-| `JapanFG/fukuoka-ken-shinkumi.md` | `??` | 25 | ok |
-| `JapanFG/hana-shinkumi.md` | `??` | 16 | ok |
-| `JapanFG/iwaki-shinkumi.md` | `??` | 17 | ok |
-| `JapanFG/japan-asia-securities.md` | `??` | 15 | ok |
-| `JapanFG/japan-financial-conglomerate-structure-overview.md` | `??` | 60 | ok |
-| `JapanFG/keishicho-shinkumi.md` | `??` | 13 | ok |
-| `JapanFG/mizuho-trust-bank-detail.md` | `??` | 26 | ok |
-| `JapanFG/nec-capital-solutions.md` | `??` | 20 | ok |
-| `JapanFG/sapporo-chuo-shinkumi.md` | `??` | 21 | ok |
-| `JapanFG/tokyo-century-detail.md` | `??` | 12 | ok |
-| `JapanFG/tokyo-shobo-shinkumi.md` | `??` | 13 | ok |
-| `JapanFG/tokyo-to-shokuin-shinkumi.md` | `??` | 15 | ok |
-| `JapanFG/yokohama-kogin-shinkumi.md` | `??` | 15 | ok |
-| `agent-economy/agent-custody-and-authorization-framework-2026.md` | `??` | 29 | ok |
-| `agent-economy/agent-driven-market-data-interpretation-pipeline.md` | `??` | 15 | ok |
-| `agent-economy/agent-identity-defi-and-traditional-finance-bridge.md` | `??` | 30 | ok |
-| `agent-economy/ai-driven-trading-regulation-japan-2026.md` | `??` | 19 | ok |
-| `agent-economy/llm-agent-finance-application-overview-2026.md` | `??` | 24 | ok |
-| `cross-domain-anchor-convention.md` | `??` | 32 | ok |
-| `derivatives/japan-otc-derivative-market-overview.md` | `??` | 30 | ok |
-| `domain-bridge-navigation-guide.md` | `??` | 116 | ok |
-| `entity-mirror-page-policy.md` | `??` | 26 | ok |
-| `finance/cost-of-capital-japan-2026-reference.md` | `??` | 25 | ok |
-| `finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework.md` | `??` | 32 | ok |
-| `finance/esg-sustainability-cross-domain-framework.md` | `??` | 21 | ok |
-| `finance/real-options-valuation-japan-applications.md` | `??` | 28 | ok |
-| `frontmatter-canonical-anchor-field-proposal.md` | `??` | 25 | ok |
-| `insurance/japan-insurance-system-overview.md` | `??` | 61 | ok |
-| `loyalty/au-pay-loyalty-ecosystem-deep.md` | `??` | 34 | ok |
-| `loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison.md` | `??` | 22 | ok |
-| `loyalty/jre-point-and-jre-bank-ecosystem.md` | `??` | 32 | ok |
-| `payments/amazon-gift-card-japan.md` | `??` | 15 | ok |
-| `payments/apple-gift-card-japan.md` | `??` | 11 | ok |
-| `payments/edy-rakuten-prepaid.md` | `??` | 20 | ok |
-| `payments/google-play-gift-card-japan.md` | `??` | 15 | ok |
-| `payments/nanaco-prepaid-seven-i.md` | `??` | 28 | ok |
-| `payments/pasmo-prepaid-tokyo-metro.md` | `??` | 14 | ok |
-| `payments/quo-card-prepaid.md` | `??` | 17 | ok |
-| `payments/suica-prepaid-jr-east.md` | `??` | 15 | ok |
-| `payments/visa-gift-card-japan.md` | `??` | 27 | ok |
-| `payments/waon-prepaid-aeon.md` | `??` | 29 | ok |
-| `real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework.md` | `??` | 21 | ok |
-| `retail/familymart-itochu-financial-integration.md` | `??` | 34 | ok |
-| `retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md` | `??` | 29 | ok |
-| `retail/seven-i-holdings-finance-deep-dive.md` | `??` | 28 | ok |
-| `securities/japan-capital-markets-ecosystem-overview.md` | `??` | 80 | ok |
-| `topic-cluster-reference.md` | `??` | 146 | ok |
+| `JapanFG/boj.md` | `A` | 17 | ok |
+| `JapanFG/dic.md` | `A` | 16 | ok |
+| `JapanFG/fsa.md` | `A` | 28 | ok |
+| `JapanFG/japan-post-holdings.md` | `A` | 35 | ok |
+| `JapanFG/jcr.md` | `A` | 13 | ok |
+| `JapanFG/mufg-securities.md` | `A` | 26 | ok |
+| `JapanFG/rating-and-investment.md` | `A` | 12 | ok |
+| `JapanFG/seimei-hokensha-hogo-kiko.md` | `A` | 35 | ok |
+| `JapanFG/smbc.md` | `A` | 32 | ok |
+| `JapanFG/sonpo-hosho-kiko.md` | `A` | 24 | ok |
 | `INDEX.md` | `M` | 30 | ok |
 | `JapanFG/INDEX.md` | `M` | 1402 | ok |
-| `derivatives/INDEX.md` | `M` | 34 | ok |
-| `fintech/2022-three-variable-cascade-thesis.md` | `M` | 10 | ok |
-| `fintech/ai-payment-two-tracks.md` | `M` | 11 | ok |
-| `fintech/aml-cft-fatf-grey-list-cross-border-implications.md` | `M` | 6 | ok |
-| `fintech/aml-cft-fatf-grey-list-overview.md` | `M` | 6 | ok |
-| `fintech/apollo-acred-private-credit-tokenization.md` | `M` | 6 | ok |
-| `fintech/basel-iii-frtb-crypto-exposure-implications.md` | `M` | 5 | ok |
-| `fintech/basel-iii-frtb-crypto-exposure-overview.md` | `M` | 5 | ok |
-| `fintech/bis-project-agora-overview.md` | `M` | 8 | ok |
-| `fintech/bis-project-agora-vs-mbridge.md` | `M` | 6 | ok |
-| `fintech/bis-project-ensemble-overview.md` | `M` | 6 | ok |
-| `fintech/bis-project-ensemble-vs-mbridge-dual-track.md` | `M` | 8 | ok |
-| `fintech/bis-project-guardian-overview.md` | `M` | 6 | ok |
-| `fintech/bis-project-guardian-vs-agora-asia-three-poles.md` | `M` | 5 | ok |
-| `fintech/blackrock-buidl-sc-issuer-adoption.md` | `M` | 6 | ok |
-| `fintech/carf-1099da-end-of-crypto-anonymity.md` | `M` | 6 | ok |
-| `fintech/cbbtc-institutional-btc-wrapper.md` | `M` | 6 | ok |
-| `fintech/cbdc-multi-tier-architecture-overview.md` | `M` | 6 | ok |
-| `fintech/cbdc-multi-tier-architecture-three-paradigms.md` | `M` | 5 | ok |
-| `fintech/cbdc-multi-tier-architecture-tradeoffs.md` | `M` | 9 | ok |
-| `fintech/central-banking-function-unbundling.md` | `M` | 13 | ok |
-| `fintech/cftc-sec-crypto-jurisdiction.md` | `M` | 5 | ok |
-| `fintech/chain-level-ofac-freeze-precedent.md` | `M` | 8 | ok |
-| `fintech/circular-reserve-asset-flywheel-overview.md` | `M` | 6 | ok |
-| `fintech/circular-reserve-asset-flywheel-risk-cases.md` | `M` | 6 | ok |
-| `fintech/cosmos-ibc-for-financial-institutions.md` | `M` | 7 | ok |
-| `fintech/cross-border-sc-via-swift-api.md` | `M` | 7 | ok |
-| `fintech/dora-eu-digital-operational-resilience-ctpp.md` | `M` | 5 | ok |
-| `fintech/dora-eu-digital-operational-resilience-overview.md` | `M` | 6 | ok |
-| `fintech/dual-currency-stablecoin-arbitrage-legal-hack.md` | `M` | 6 | ok |
-| `fintech/dual-currency-stablecoin-arbitrage-overview.md` | `M` | 7 | ok |
-| `fintech/em-market-crypto-dollarization-pattern.md` | `M` | 6 | ok |
-| `fintech/embedded-wallet-fintech-disintermediation-overview.md` | `M` | 7 | ok |
-| `fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md` | `M` | 7 | ok |
-| `fintech/enterprise-procurement-deadline-anchor.md` | `M` | 9 | ok |
-| `fintech/fatf-travel-rule-cross-border-stack.md` | `M` | 6 | ok |
-| `fintech/fatf-travel-rule-overview.md` | `M` | 6 | ok |
-| `fintech/first-digital-fdusd-hk-stablecoin.md` | `M` | 6 | ok |
-| `fintech/four-motive-classes-asymmetric-competition.md` | `M` | 13 | ok |
-| `fintech/frax-frxusd-defi-stablecoin.md` | `M` | 7 | ok |
-| `fintech/gold-tokenization-scheme-comparison.md` | `M` | 6 | ok |
-| `fintech/gray-market-dollar-network-formalization.md` | `M` | 11 | ok |
-| `fintech/hk-frtb-stablecoin-reserve-overview.md` | `M` | 6 | ok |
-| `fintech/hkma-stablecoin-licensing-implications.md` | `M` | 6 | ok |
-| `fintech/india-anti-dollar-dpi-alliance.md` | `M` | 5 | ok |
-| `fintech/irs-1099-da.md` | `M` | 6 | ok |
-| `fintech/issuer-distributor-incentive-realignment-50-50-model.md` | `M` | 6 | ok |
-| `fintech/issuer-distributor-incentive-realignment-arc-strategy.md` | `M` | 6 | ok |
-| `fintech/japan-ecisb-license.md` | `M` | 7 | ok |
-| `fintech/japan-epi-four-camps-comparison.md` | `M` | 6 | ok |
-| `fintech/japan-financial-regulation.md` | `M` | 7 | ok |
-| `fintech/jp-trust-type-sc-architecture.md` | `M` | 10 | ok |
-| `fintech/jurisdiction-list-monetary-protectionism.md` | `M` | 11 | ok |
-| `fintech/mbridge-bis-multi-cbdc-overview.md` | `M` | 6 | ok |
-| `fintech/mbridge-bis-multi-cbdc-vs-agora.md` | `M` | 5 | ok |
-| `fintech/mbridge-non-usd-settlement-ring-scale.md` | `M` | 6 | ok |
-| `fintech/mbridge-six-central-banks-roster.md` | `M` | 6 | ok |
-| `fintech/mica-cross-border-implications.md` | `M` | 6 | ok |
-| `fintech/mica-emt-art-subcategories-deep-dive.md` | `M` | 5 | ok |
-| `fintech/national-license-private-stablecoin-with-dpi-export.md` | `M` | 6 | ok |
-| `fintech/portfolio-winner-structure-arm-analog.md` | `M` | 11 | ok |
-| `fintech/protocol-hedge-strategy-stripe-pattern.md` | `M` | 6 | ok |
-| `fintech/protocol-renewal-trigger-as-event-anchor.md` | `M` | 8 | ok |
-| `fintech/regulatory-window-strategic-acquisition.md` | `M` | 6 | ok |
-| `fintech/ripple-rlusd-stablecoin.md` | `M` | 6 | ok |
-| `fintech/singapore-mas-payment-services-act-strategic-implications.md` | `M` | 6 | ok |
-| `fintech/sky-usds-decentralized-stablecoin.md` | `M` | 6 | ok |
-| `fintech/sovereign-capital-pool-aramco-anchor.md` | `M` | 6 | ok |
-| `fintech/sovereign-fund-crypto-allocation-pattern.md` | `M` | 8 | ok |
-| `fintech/stablecoin-chain-sovereign-currency-divide.md` | `M` | 13 | ok |
-| `fintech/stablecoin-chain-token-strategy-trilemma.md` | `M` | 6 | ok |
+| `JapanFG/aeon-financial-service-detail.md` | `M` | 16 | ok |
+| `JapanFG/aichi-shogin-shinkumi.md` | `M` | 18 | ok |
+| `JapanFG/dock-financial.md` | `M` | 29 | ok |
+| `JapanFG/fukuoka-ken-shinkumi.md` | `M` | 25 | ok |
+| `JapanFG/hokkaido-lease.md` | `M` | 14 | ok |
+| `JapanFG/hokkoku-fhd.md` | `M` | 18 | ok |
+| `JapanFG/itochu-corp.md` | `M` | 36 | ok |
+| `JapanFG/itochu-finance.md` | `M` | 29 | ok |
+| `JapanFG/jr-east-financial.md` | `M` | 31 | ok |
+| `JapanFG/kanematsu-leasing.md` | `M` | 15 | ok |
+| `JapanFG/kitakyushu-shinkin.md` | `M` | 33 | ok |
+| `JapanFG/marubeni-financial-services.md` | `M` | 34 | ok |
+| `JapanFG/missing-financial-institutions-backlog.md` | `M` | 309 | ok |
+| `JapanFG/mitsubishi-corp-asset-management.md` | `M` | 26 | ok |
+| `JapanFG/mitsubishi-corp-finance.md` | `M` | 34 | ok |
+| `JapanFG/mitsui-bussan-financial-services.md` | `M` | 31 | ok |
+| `JapanFG/mizuho-trust-bank-detail.md` | `M` | 26 | ok |
+| `JapanFG/nomura-trust-bank.md` | `M` | 24 | ok |
+| `JapanFG/sapporo-chuo-shinkumi.md` | `M` | 21 | ok |
+| `JapanFG/sojitz-finance.md` | `M` | 34 | ok |
+| `JapanFG/sumitomo-corp-financial-management.md` | `M` | 38 | ok |
+| `JapanFG/sumitomo-mitsui-auto-service.md` | `M` | 42 | ok |
+| `JapanFG/toyota-tsusho-finance.md` | `M` | 34 | ok |
+| `agent-economy/ai-agent-payment-protocols-overview.md` | `M` | 7 | ok |
+| `agent-economy/claude-code-extension-architecture.md` | `M` | 7 | ok |
+| `banking/INDEX.md` | `M` | 174 | ok |
+| `banking/quick-deposit-four-methods.md` | `M` | 6 | ok |
+| `business/gmo-internet-group.md` | `M` | 22 | ok |
+| `business/japan-listed-corp-strategic-restructuring-matrix.md` | `M` | 54 | ok |
+| `exchanges/INDEX.md` | `M` | 184 | ok |
+| `exchanges/global-institutional-custody-five-pillars.md` | `M` | 10 | ok |
+| `finance/multi-jurisdiction-identity-tax-leverage.md` | `M` | 4 | ok |
+| `fintech/INDEX.md` | `M` | 154 | ok |
 | `fintech/stablecoin-crossborder-b2b-growth.md` | `M` | 9 | ok |
-| `fintech/stablecoin-revenue-split-economics.md` | `M` | 9 | ok |
-| `fintech/stablecoin-war-articles-2026-05.md` | `M` | 5 | ok |
-| `fintech/three-circles-mra-2030-economic-scale.md` | `M` | 8 | ok |
-| `fintech/three-circles-stablecoin-mra-framework.md` | `M` | 11 | ok |
-| `fintech/tokenized-deposit-cumulative-volume-scale.md` | `M` | 7 | ok |
-| `fintech/usd-stablecoin-interchange.md` | `M` | 10 | ok |
-| `fintech/wall-street-crypto-network-neutrality.md` | `M` | 7 | ok |
-| `fintech/world-liberty-usd1-political-stablecoin.md` | `M` | 6 | ok |
-| `insurance/INDEX.md` | `M` | 125 | ok |
-| `securities/INDEX.md` | `M` | 83 | ok |
+| `insurance/bancassurance-economics-japan.md` | `M` | 66 | ok |
+| `insurance/cooperative-insurance-system-japan.md` | `M` | 24 | ok |
+| `insurance/ja-kyosai-zenkyoren-overview.md` | `M` | 29 | ok |
+| `insurance/kampo-japan-post-insurance.md` | `M` | 31 | ok |
+| `insurance/medical-cancer-insurance-product-economics.md` | `M` | 43 | ok |
+| `loyalty/jre-point-and-jre-bank-ecosystem.md` | `M` | 31 | ok |
+| `manufacturing/INDEX.md` | `M` | 4 | ok |
+| `real-estate-finance/INDEX.md` | `M` | 17 | ok |
+| `securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md` | `M` | 45 | ok |
+| `systems/INDEX.md` | `M` | 76 | ok |
+| `trade/jetro-members-gateway-model.md` | `M` | 8 | ok |
+| `trade/jetro-organization-structure.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
 | `FinWiki` | 1 | 0 | 30.0 |
-| `JapanFG` | 621 | 0 | 17.9 |
+| `JapanFG` | 631 | 0 | 17.9 |
 | `agent-economy` | 41 | 0 | 14.4 |
 | `banking` | 40 | 0 | 44.8 |
 | `business` | 19 | 0 | 16.6 |
@@ -191,8 +111,8 @@
 | `finance` | 27 | 0 | 23.4 |
 | `fintech` | 144 | 0 | 11.6 |
 | `governance` | 4 | 0 | 8.8 |
-| `insurance` | 33 | 0 | 44.7 |
-| `loyalty` | 12 | 0 | 20.6 |
+| `insurance` | 33 | 0 | 44.5 |
+| `loyalty` | 12 | 0 | 20.5 |
 | `manufacturing` | 8 | 0 | 14.0 |
 | `money-market` | 12 | 0 | 21.7 |
 | `payments` | 41 | 0 | 35.7 |

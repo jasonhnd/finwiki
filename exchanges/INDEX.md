@@ -18,7 +18,7 @@ sources:
 
 ## TL;DR
 
-`exchanges/` contains **137 entries** covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
+`exchanges/` contains **146 entries** (excluding INDEX, 147 total) covering Japan VASP regulation, JVCEA/FSA rules, domestic and foreign exchange entities, registered-operator completeness, custody, incident history, global licensing regimes, DEX/DeFi design, country-tail CEX (India / Brazil / Vietnam / Korea), and market-structure infrastructure. Use this page as the navigation surface before expanding single-entity CEX pages or new horizontal-cut atoms.
 
 ## Routing map
 

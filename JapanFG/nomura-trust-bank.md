@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[JapanFG/nomura-hd|野村 HD]] for parent group context, [[JapanFG/sumitomo-mitsui-trust-bank|SMTB]] / [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[JapanFG/legal-financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[JapanFG/nomura-hd|野村 HD]] for parent group context, [[JapanFG/sumitomo-mitsui-trust|SMTB]] / [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[JapanFG/legal-financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 | 信託銀行 | 親 FG | 預金規模 | 強み軸 |
 |---|---|---|---|
-| [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託 (SMTB)]] | SuMi TRUST HD | ¥数十兆円 | 国内最大独立系信託、年金 / 不動産 / カストディ |
+| [[JapanFG/sumitomo-mitsui-trust|三井住友信託 (SMTB)]] | SuMi TRUST HD | ¥数十兆円 | 国内最大独立系信託、年金 / 不動産 / カストディ |
 | [[JapanFG/mitsubishi-ufj-trust-bank|三菱 UFJ 信託 (MUTB)]] | [[JapanFG/mufg|MUFG]] | ¥数十兆円 | メガ系、年金 / カストディ / 法人 |
 | [[JapanFG/mizuho-trust-banking|みずほ信託 (MTBJ)]] | [[JapanFG/mizuho-fg|みずほ FG]] | ¥数十兆円 | メガ系、不動産信託 / 年金 |
 | **野村信託銀行** | **[[JapanFG/nomura-hd|野村 HD]]** | **¥1兆円規模** ^[ambiguous] | **証券グループ付随、Wealth Mgmt 補完** |
@@ -134,7 +134,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 - [[JapanFG/nomura-hd]] — 親会社、証券中心金融グループ
 - [[JapanFG/nomura-securities]] — 中核証券子会社
 - [[JapanFG/nomura-asset-management]] — グループ AM
-- [[JapanFG/sumitomo-mitsui-trust-bank]] — 国内最大独立系信託
+- [[JapanFG/sumitomo-mitsui-trust]] — 国内最大独立系信託
 - [[JapanFG/mitsubishi-ufj-trust-bank]] — MUFG 系信託
 - [[JapanFG/mizuho-trust-banking]] — みずほ系信託
 - [[JapanFG/daiwa-next-bank]] — 大和証券系銀行（peer 構造）

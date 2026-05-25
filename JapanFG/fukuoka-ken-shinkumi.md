@@ -98,7 +98,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 
 | ティア | 機関 | 位置 |
 |---|---|---|
-| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho|みずほ]] | 福岡支店 |
+| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]] | 福岡支店 |
 | 地銀第一行 | [[JapanFG/fukuoka-fg|福岡銀行 (ふくおかFG)]] | 九州最大地銀 |
 | 地銀 (旧第二) | [[JapanFG/nnfh|西日本シティ銀行 (NNFH)]] | 第二地銀統合FG |
 | 地銀 | [[JapanFG/kitakyushu-bank|北九州銀行 (山口FG)]]・[[JapanFG/fukuoka-chuo-bank|福岡中央銀行]] | 県内地銀 |

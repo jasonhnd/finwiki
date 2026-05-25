@@ -33,7 +33,7 @@ sources:
 
 ## Wiki route
 
-This page sits under [[insurance/INDEX|insurance INDEX]] and is the postal-life counterpart to [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]]. Read it together with [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]] for the asset-liability problem, [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the corporate-form contrast (Kampo is listed, like Dai-ichi HD, but the parent and ultimate owner is JP Holdings, partly state-related), [[insurance/economic-value-based-solvency|economic-value-based solvency]] and [[insurance/esr-economic-value-solvency|ESR]] for the headline capital metric, [[insurance/life-insurance-channel-mix|the life insurance channel mix]] for the postal-channel placement, and [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]] for the post-2019 channel rebuild. The entity anchors are [[JapanFG/kampo-life|Kampo Life / 7181]] and [[JapanFG/japan-post-holdings|Japan Post Holdings / 6178]]. For the supervisor map see [[regulators/fsa|the FSA]] and the [[regulators/mic|Ministry of Internal Affairs and Communications (MIC / 総務省)]] postal-business supervision.
+This page sits under [[insurance/INDEX|insurance INDEX]] and is the postal-life counterpart to [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]]. Read it together with [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]] for the asset-liability problem, [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the corporate-form contrast (Kampo is listed, like Dai-ichi HD, but the parent and ultimate owner is JP Holdings, partly state-related), [[insurance/economic-value-based-solvency|economic-value-based solvency]] and [[insurance/esr-economic-value-solvency|ESR]] for the headline capital metric, [[insurance/life-insurance-channel-mix|the life insurance channel mix]] for the postal-channel placement, and [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]] for the post-2019 channel rebuild. The entity anchors are [[JapanFG/kampo-life|Kampo Life / 7181]] and [[JapanFG/japan-post-holdings|Japan Post Holdings / 6178]]. For the supervisor map see [[JapanFG/fsa|the FSA]] and the Ministry of Internal Affairs and Communications (MIC / 総務省) postal-business supervision.
 
 ## Identity and group structure
 
@@ -71,7 +71,7 @@ The 2019 不適正募集問題 / "improper-sales" scandal is the defining recent
 
 - **What happened.** Internal and external reviews surfaced widespread improper-sales practices in the postal channel: conversion misconduct (existing policies surrendered then re-issued without proper suitability assessment), dual-billing (customer paying both old and new policy premiums during transition), suitability failures (sales to elderly / vulnerable customers without adequate explanation), and incentive-driven volume push by both Kampo sales staff and post-office counter staff.
 - **Scale.** Tens of thousands of policies were identified as potentially problematic in the initial investigation; the figure expanded over subsequent reviews.
-- **Regulatory response.** The [[regulators/fsa|FSA]] and the [[regulators/mic|MIC]] issued business-improvement orders to Kampo and Japan Post Co. A voluntary suspension of active sales solicitation followed, with phased resumption under upgraded controls.
+- **Regulatory response.** The [[JapanFG/fsa|FSA]] and the MIC issued business-improvement orders to Kampo and Japan Post Co. A voluntary suspension of active sales solicitation followed, with phased resumption under upgraded controls.
 - **Internal response.** Sales-force restructuring, suitability-control rebuild, board / management changes at Kampo, JP Holdings, and Japan Post Co. Renewal of the postal-channel agency contract with strengthened conduct guardrails.
 - **Customer remediation.** A multi-year customer-contact and remediation program covering identified policies and an extended review universe.
 - **Aftermath.** The post-2020 trajectory is a slow rebuild rather than a return to pre-2019 volumes. Net new-policy issuance contracted materially in the immediate post-scandal period and the in-force book has been managed under run-off-adjacent dynamics on the legacy block.
@@ -147,8 +147,8 @@ Use this page when:
 - [[JapanFG/japan-post-bank]]
 - [[JapanFG/nippon-post]]
 - [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[regulators/fsa]]
-- [[regulators/mic]]
+- [[JapanFG/fsa]]
+- MIC (Ministry of Internal Affairs and Communications)
 - [[INDEX|FinWiki index]]
 
 ## Sources

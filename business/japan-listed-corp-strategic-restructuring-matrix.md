@@ -106,7 +106,7 @@ The tax axis is the **single most important structural choice** because it deter
 | Sponsor type | Examples in matrix | Pattern |
 |---|---|---|
 | **Domestic PE (JIP-led)** | Toshiba going-private, Olympus camera spin-off, Hitachi Astemo partial sale | JIP has anchored multiple high-profile domestic going-private and carve-out deals 2020-2024 |
-| **Domestic PE (Bain-led / others)** | Kioxia (Bain-led 2018 carve-out → 2024-12 IPO), Hitachi Astemo (Bain partial), [[finance/japan-private-equity-fund-structure-matrix|Japan PE fund structure]] anchors |
+| **Domestic PE (Bain-led / others)** | Kioxia (Bain-led 2018 carve-out → 2024-12 IPO), Hitachi Astemo (Bain partial), [[finance/japan-private-equity-fund-structure-matrix|Japan PE fund structure]] anchors | Bain has anchored carve-out → re-IPO chains where the parent monetizes a subsidiary in two stages |
 | **Foreign strategic** | Sharp ← Foxconn 2016 | Foreign strategic uses third-party allotment + tender to acquire control while target stays listed |
 | **Parent-retained majority post-IPO** | SoftBank → Arm, Rakuten Group → Rakuten Bank, Toshiba → Kioxia | Sub-IPO leaves parent with majority while the subsidiary trades on its own multiple |
 | **Public market only** | Sony Group → SFG partial spinoff | 株式分配 distributes shares to existing shareholders; no sponsor capital is taken |

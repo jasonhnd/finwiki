@@ -58,7 +58,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 伊藤忠商事 (8001, 東証 PRIME)
   ├── [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (100%)                      — 内向け CMS / グループファイナンス
   ├── [[JapanFG/tokyo-century|東京センチュリー]] (約 25% 級, 持分法)             — 外向けリース、東証 PRIME 8439、みずほ + 伊藤忠 2 軸株主
-  ├── [[JapanFG/famima|ファミリーマート]] (100%, 2020 年 TOB で完全子会社化)     — コンビニリテール・リテール金融プラットフォーム
+  ├── [[JapanFG/famima-digital-one|ファミリーマート]] (100%, 2020 年 TOB で完全子会社化)     — コンビニリテール・リテール金融プラットフォーム
   ├── Dole Food (旧 米国 Dole の食品事業を全面取得)                              — 食品セグメント核
   └── CITIC (中国中信集団, 約 10% 級 + チャロン・ポカパン 経由)                   — 中国・アジア戦略提携
 ```
@@ -89,7 +89,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 食料 | 穀物、青果 (Dole)、食品メーカー、コンビニ食品サプライチェーン | Dole Food、伊藤忠食品 |
 | 住生活 | 住宅資材、ライフスタイル、コンシューマー | — |
 | 情報・金融 | ICT (テレコム・IT サービス)、金融サービス (リテール金融含む) | [[JapanFG/itochu-finance|伊藤忠ファイナンス]] |
-| 第8 (Eighth) | コンビニ・リテール統合セグメント (2020 年新設) | [[JapanFG/famima|ファミマ]] (100%)、ファミペイ |
+| 第8 (Eighth) | コンビニ・リテール統合セグメント (2020 年新設) | [[JapanFG/famima-digital-one|ファミマ]] (100%)、ファミペイ |
 
 ## 3. Financial-services adjacency
 
@@ -97,11 +97,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 |---|---|---|---|
 | 伊藤忠ファイナンス | [[JapanFG/itochu-finance]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
 | **東京センチュリー** | **[[JapanFG/tokyo-century]]** | **約 25% 級 (持分法)** | **3 大リースの一角、東証 PRIME 8439、みずほ FG + 伊藤忠 2 軸株主構造** |
-| ファミマ (リテール金融プラットフォーム) | [[JapanFG/famima]] | 100% | ファミペイ、ファミマ ATM、保険販売、フィンテック |
+| ファミマ (リテール金融プラットフォーム) | [[JapanFG/famima-digital-one]] | 100% | ファミペイ、ファミマ ATM、保険販売、フィンテック |
 
 加えて、**伊藤忠グループの financial-services エコシステム**:
 - **[[JapanFG/mizuho-fg|みずほ FG]]** — [[JapanFG/tokyo-century|東京センチュリー]] を介した 2 軸株主関係。みずほは旧 第一勧業銀行系の系譜で、東京センチュリーの大株主としての歴史的経緯あり ^[inferred]
-- **[[JapanFG/famima|ファミマ]] 関連**: ファミペイ (キャッシュレス決済)、ファミマ ATM、保険販売、年金窓販 ([[JapanFG/famima]] のリテール金融プラットフォーム機能) ^[inferred]
+- **[[JapanFG/famima-digital-one|ファミマ]] 関連**: ファミペイ (キャッシュレス決済)、ファミマ ATM、保険販売、年金窓販 ([[JapanFG/famima-digital-one]] のリテール金融プラットフォーム機能) ^[inferred]
 - CITIC (中国中信集団) — 中国系金融機関とのアクセス ^[inferred]
 
 **「東京センチュリー = 伊藤忠の外向けリース・ファイナンス腕」「ファミマ = 伊藤忠のリテール金融プラットフォーム」「伊藤忠ファイナンス = 内向け CMS」** の三層構造が伊藤忠グループの財務オペレーションの定型。
@@ -157,7 +157,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - [[JapanFG/mitsubishi-corp|三菱商事]] · [[JapanFG/mitsui-co|三井物産]] · [[JapanFG/sumitomo-corp|住友商事]] · [[JapanFG/marubeni-corp|丸紅]] · [[JapanFG/toyota-tsusho-corp|豊田通商]] · [[JapanFG/sojitz-corp|双日]] (peer 商社)
 - [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (内向け group treasury)
 - [[JapanFG/tokyo-century|東京センチュリー]] (3 大リース、伊藤忠 戦略的持分 約 25% 級)
-- [[JapanFG/famima|ファミリーマート]] (コンビニ 100% 子会社化)
+- [[JapanFG/famima-digital-one|ファミリーマート]] (コンビニ 100% 子会社化)
 - [[JapanFG/mizuho-fg|みずほ FG]] (東京センチュリー の 2 軸株主)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 

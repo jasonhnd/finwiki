@@ -33,11 +33,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for [[corporate/dentsu-group|株式会社電通グループ]]（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against [[corporate/hakuhodo-dy-hd|博報堂 DY HD]] や [[corporate/wpp-japan|WPP Japan]] for media-industry peer context, [[JapanFG/INDEX]] のメーカー captive-finance 子会社群（[[JapanFG/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context, [[JapanFG/INDEX]] のメーカー captive-finance 子会社群（[[JapanFG/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
 
 ## TL;DR
 
-[[corporate/dentsu-group|株式会社電通グループ]]（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能 / 投資機能の子会社群**。広告事業を本業としつつ、グループ全体の **戦略投資・CVC（コーポレート・ベンチャー・キャピタル）・M&A 投資・広告主向け請求決済・国際拠点ファイナンス管理** 機能をいくつかの子会社で分業。代表は **電通ベンチャーズ（Dentsu Ventures）**（CVC、海外スタートアップ投資 + 国内 fintech / DX 投資）と **電通キャピタル**（M&A・戦略投資）。広告メディア事業との連動で **DX / Fintech / MarTech / AdTech スタートアップ** への投資シナジーを狙う。^[likely]
+株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能 / 投資機能の子会社群**。広告事業を本業としつつ、グループ全体の **戦略投資・CVC（コーポレート・ベンチャー・キャピタル）・M&A 投資・広告主向け請求決済・国際拠点ファイナンス管理** 機能をいくつかの子会社で分業。代表は **電通ベンチャーズ（Dentsu Ventures）**（CVC、海外スタートアップ投資 + 国内 fintech / DX 投資）と **電通キャピタル**（M&A・戦略投資）。広告メディア事業との連動で **DX / Fintech / MarTech / AdTech スタートアップ** への投資シナジーを狙う。^[likely]
 
 ## 1. 親会社・グループ構造
 
@@ -105,7 +105,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 
 - 広告メディア事業との **戦略的シナジー** を重視: 投資先のスタートアップが電通グループの広告主・媒体・テクノロジー基盤と接続
 - 投資先例（公開情報ベース、業界観測）: AdTech・MarTech・DX・Fintech・Web3・AI 系スタートアップ ^[ambiguous]
-- 競合 CVC: ソニーグループ系 CVC・[[JapanFG/sbi-hd|SBI HD]] 系・[[JapanFG/mufg|MUFG]] 系 / [[JapanFG/smfg|SMFG]] 系 のメガバンク CVC・[[corporate/recruit|リクルート]] 系等の事業会社 CVC
+- 競合 CVC: ソニーグループ系 CVC・[[JapanFG/sbi-hd|SBI HD]] 系・[[JapanFG/mufg|MUFG]] 系 / [[JapanFG/smfg|SMFG]] 系 のメガバンク CVC・リクルート 系等の事業会社 CVC
 
 ### 3.2 M&A 戦略（電通キャピタル機能）
 
@@ -125,7 +125,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 
 → 電通グループの金融機能は **メーカー captive と異なり、本業（広告事業）の運転資金 + 戦略投資 + 海外 M&A** が主軸で、消費者金融プロダクトには直接展開していない
 
-## 4. 親会社関係（[[corporate/dentsu-group|電通グループ]] 連結内）
+## 4. 親会社関係（電通グループ 連結内）
 
 ```
 株式会社電通グループ（東証 PRIME 4324）
@@ -180,13 +180,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 - 広告主向け請求管理機能の **外部金融サービス化** 余地?
 - メーカー captive-finance（[[JapanFG/toyota-finance|トヨタファイナンス]] 等）と異なり、消費者金融プロダクトを持たない理由?
 - 海外子会社（Dentsu International）の **国際資金管理 / グループ内ファイナンス** の規模感?
-- 競合広告大手（[[corporate/hakuhodo-dy-hd|博報堂 DY HD]]・WPP Japan・[[corporate/cyberagent|サイバーエージェント]]）との CVC / M&A 戦略の比較?
+- 競合広告大手（博報堂 DY HD・WPP Japan・サイバーエージェント）との CVC / M&A 戦略の比較?
 
 ## Related
 
-- [[corporate/dentsu-group]] — 親会社（東証 PRIME 4324）
-- [[corporate/hakuhodo-dy-hd]] — 広告業界ピア
-- [[corporate/cyberagent]] — デジタル広告ピア
+- 電通グループ（親会社、東証 PRIME 4324）
+- 博報堂 DY HD（広告業界ピア）
+- サイバーエージェント（デジタル広告ピア）
 - [[JapanFG/toyota-finance]] — メーカー captive-finance ピア
 - [[JapanFG/sony-finance]] — メーカー captive-finance ピア
 - [[JapanFG/nissan-finance]] — メーカー captive-finance ピア

@@ -17,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/ai-agent-payment-protocols-seven-layers|AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/INDEX|agent-economy INDEX]]. Read it against [[agent-economy/ai-agent-payment-protocols-seven-layers|AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

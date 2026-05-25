@@ -51,7 +51,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 福岡県金融市場の構造は以下のように整理される：
 - **福岡市側**: [[JapanFG/fukuoka-fg|ふくおか FG]]（[[JapanFG/fukuoka-bank|福岡銀行]] = 九州最大地銀）+ [[JapanFG/nishi-nippon-fh|西日本 FH]]（[[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]]）
 - **北九州市側**: [[JapanFG/kitakyushu-bank|北九州銀行]]（山口 FG 傘下、第二地銀）+ 北九州信用金庫（協同組織）
-- **その他県内地銀**: [[JapanFG/sumitomo-mitsui-trust-bank|三井住友信託]] 福岡拠点等
+- **その他県内地銀**: [[JapanFG/sumitomo-mitsui-trust|三井住友信託]] 福岡拠点等
 
 北九州都市圏は人口減少・工業構造転換の影響を強く受ける地域で、地域 SME 金融の構造変化への対応が同庫の戦略課題。
 

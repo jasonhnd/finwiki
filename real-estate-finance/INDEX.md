@@ -29,7 +29,7 @@ sources:
 
 ## TL;DR
 
-Real estate finance is the lane where private real-estate balance sheets meet the capital markets. In Japan this means [[real-estate-finance/j-reit-market-overview|J-REIT]], private REIT, [[real-estate-finance/INDEX|GK-TK SPV]] securitization, developer corporate finance, and the [[banking/INDEX|bank-led]] real-estate lending stack underneath all of it. Use this index to route between the J-REIT layer, the securitization plumbing, the developer-financing layer, and asset-class-specific economics. Distinguish public-surface ([[finance/japan-listed-financial-groups-investable-universe|listed J-REIT IR, JPX]]) from private fund-disclosure that is not in scope here.
+Real estate finance is the lane where private real-estate balance sheets meet the capital markets. In Japan this means [[real-estate-finance/j-reit-market-overview|J-REIT]], private REIT, [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] securitization, developer corporate finance, and the [[banking/INDEX|bank-led]] real-estate lending stack underneath all of it. Use this index to route between the J-REIT layer, the securitization plumbing, the developer-financing layer, and asset-class-specific economics. Distinguish public-surface ([[finance/japan-listed-financial-groups-investable-universe|listed J-REIT IR, JPX]]) from private fund-disclosure that is not in scope here.
 
 For the housing-credit complement (residential mortgage and policy-MBS) use [[policy-finance/japan-housing-finance-agency|JHF]]. For commercial-real-estate lending policy use [[banking/INDEX|banking domain]]. For the asset-administration plumbing under J-REIT custody use [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]].
 
@@ -71,7 +71,7 @@ Use this entry as the routing surface for the real-estate-finance domain. Move f
 
 ## Research Control
 
-1. Use JPX REIT segment data, [[real-estate-finance/INDEX|ARES (Association for Real Estate Securitization)]] statistics, and J-REIT IR materials as primary sources.
+1. Use JPX REIT segment data, ARES (Association for Real Estate Securitization) statistics, and J-REIT IR materials as primary sources.
 2. Treat J-REIT and listed real-estate companies as different surfaces: a J-REIT is an investment corporation under the Investment Trust Act, not a property-owning operating company.
 3. Separate the sponsor (developer) from the asset-management company and from the J-REIT investment corporation itself.
 4. Use JREI (Japan Real Estate Institute) appraisal methodology as the cap-rate / valuation source layer for cross-comparison.

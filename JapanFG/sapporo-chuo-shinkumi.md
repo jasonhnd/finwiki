@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 
 | ティア | 機関 | 位置 |
 |---|---|---|
-| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho|みずほ]] | 全国行の道内拠点 |
+| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]] | 全国行の道内拠点 |
 | 地銀第一行 | [[JapanFG/hokuyo-bank|北洋銀行]] | 道内最大・第二地銀 |
 | 地銀第二行 | [[JapanFG/hokkaido-bank|北海道銀行]] ([[JapanFG/hokuhoku-fg|ほくほくFG]]) | 道内第一地銀 |
 | 信金 | [[JapanFG/sapporo-shinkin|札幌信用金庫]]・北海道信用金庫等 | 道内信金ブロック |

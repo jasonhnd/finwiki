@@ -31,6 +31,63 @@
 
 ## 2026-05-25
 
+### Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写
+
+#### 日本語記録
+
+- **背景**: 全 wave 完了後の push 前最終 QA。6 並列 deep agent (schema / public-surface / cross-reference / Markdown syntax / INDEX 一致性 / 日期-重複-orphan) を展開し、発見した問題を即座に修復。
+- **発見と修復**:
+  - **QA-A2 公開面**: 残存 2 件の `projects/...` 内部参照を発見 (Wave 11 修復は `projects/cgv/` のみ対象、別パターンが残っていた) → `exchanges/global-institutional-custody-five-pillars.md` + `fintech/stablecoin-crossborder-b2b-growth.md` 修復。+ A2 とは別途 3 件の "specific deal case" 残留も発見・修復 (`banking/quick-deposit-four-methods.md` + `trade/jetro-members-gateway-model.md` + `trade/jetro-organization-structure.md`)。
+  - **QA-A4 Markdown syntax**: 4 件の critical syntax error 発見・修復: `agent-economy/claude-code-extension-architecture.md` YAML parse error (微信截图私有源も同時にクリーンアップ), `JapanFG/missing-financial-institutions-backlog.md` table 列数 mismatch, `business/japan-listed-corp-strategic-restructuring-matrix.md` table row 欠落, `finance/multi-jurisdiction-identity-tax-leverage.md` table row 欠落。
+  - **QA-A5 INDEX 一致性**: 8 件の per-domain INDEX self-count drift 発見・修復 (JapanFG 580→620, exchanges 137→146, fintech 140→143, manufacturing 2→7, banking 39→39 文言調整, systems 61→61 文言調整, backlog 538/573→621)。
+  - **QA-A6 dates+orphans**: 1 件 critical 発見 — `JapanFG/hokkoku-fhd.md` が `status: deprecated` のまま 34 inbound refs を持っていた → `status: borderline` (historical bridge として retain) に変更。
+  - **QA-A1 schema compliance**: 11 件の `confidence: tentative` (非 SCHEMA enum 値) を発見 → 全件 `confidence: possible` に bulk replace。対象は Wave 11 で追加された商社系リース/金融子会社 (`hokkaido-lease`, `itochu-finance`, `kanematsu-leasing`, `marubeni-financial-services`, `mitsubishi-corp-asset-management`, `mitsubishi-corp-finance`, `mitsui-bussan-financial-services`, `sojitz-finance`, `sumitomo-corp-financial-management`, `sumitomo-mitsui-auto-service`, `toyota-tsusho-finance`)。残存 quality debt: 73 件の `sources: []` 空配列 (うち 15 件は body `## Sources` セクションも欠落) と 67 件の off-schema `kind:` legacy key — いずれも push 不阻塞、Wave 14 候補。
+  - **QA-A3 cross-reference 重大発見**: 約 190 unique dead wikilink targets / ~430 references。`tools/wiki_link_audit.py` は target 存在を検証しないため漏れていた。即時 2 並列 cleanup agent を派遣:
+    - Cleanup #1: 10 件の不足 parent entity stub を作成 (DIC 預金保険機構 / JCR / R&I / 損保保護機構 / 生保保護機構 / 日本郵政 / FSA parent / BoJ parent / SMBC parent / MUFG Securities) → ~154 dead refs 閉合
+    - Cleanup #2: slug mismatch + phantom domain rewrite + template self-link bug 修復 (`sumitomo-mitsui-trust-bank` → `sumitomo-mitsui-trust` 10 件, `gmo-pg` → `gmo-payment-gateway` 7 件, `famima` → `famima-digital-one` 6 件, `mizuho` → `mizuho-fg` 7 件, `mobility/*` `regulators/*` `corporate/*` `transit/*` 全 42 件除外/再ルート, 4 件 template self-link 修復) → 76 dead refs 閉合
+  - **合計 dead-ref 閉合: ~230 件** (430 → ~200 残)
+- **検証**:
+  - `wiki_link_audit.py`: 1411 entries / **0 issues** (公式 audit metric は green)
+  - `generate_ai_discovery.py`: 1449 / 1448 / 1449 / 23 / 1411
+  - 公開面違反スキャン: **0 件** (`projects/cgv/`, `projects/bittrade-jetro`, `projects/jp-crypto-exchange-research`, `specific deal case`, `@gmail.com`, `C:\Users`, `G:\My Drive` 全パターン 0 件)
+- **数値スナップショット**:
+  - Markdown files: 1439 → **1449** (+10 parent stubs)
+  - Link-audited entries: 1401 → **1411** (+10)
+  - Text volume: 約 1038 万字 → 約 **1043 万字** (+5 万字)
+  - Token count: 約 250 万 → 約 **252 万** (+2 万)
+- **Known limitation**: 約 200 dead wikilink targets (低頻度引用) が `wiki_link_audit.py` の target-existence 未検証で残存。Wave 14 候補: (a) audit script に target-existence チェックを追加, (b) 追加 missing entity stub (`rakuten-bank` 28 refs in JapanFG/ namespace, 実際は `banking/rakuten-bank.md` 存在 → bulk rewrite, 等), (c) 29 orphan files を domain INDEX に register。Push 自体は可能 (公式 audit metric pass, 0 公開面違反, 0 syntax error)。
+
+#### English Record
+
+- **Context**: Pre-push final QA after all expansion waves complete. Dispatched 6 parallel deep audit agents (schema / public-surface / cross-reference / Markdown syntax / INDEX consistency / dates-duplicates-orphan) and immediately fixed surfaced issues.
+- **Critical findings + fixes**:
+  - **Public-surface (A2)**: 2 surviving `projects/...` internal references that Wave 11's `projects/cgv/` cleanup missed (different project paths) → fixed in `exchanges/global-institutional-custody-five-pillars.md` + `fintech/stablecoin-crossborder-b2b-growth.md`. Separately, 3 "specific deal case" leftovers also fixed.
+  - **Markdown syntax (A4)**: 4 critical syntax errors (YAML parse error in `agent-economy/claude-code-extension-architecture.md` — also cleaned a private WeChat-screenshot source; 3 table column mismatches in backlog / strategic restructuring matrix / multi-jurisdiction tax) → all fixed.
+  - **INDEX consistency (A5)**: 8 per-domain INDEX self-count drift items → all updated.
+  - **Dates+orphans (A6)**: 1 critical — `JapanFG/hokkoku-fhd.md` was `status: deprecated` despite 34 inbound refs (graph contradiction) → changed to `status: borderline` (historical-bridge retain).
+  - **Cross-reference (A3) — MAJOR FINDING**: ~190 unique dead wikilink targets / ~430 references. `wiki_link_audit.py` doesn't verify target existence so it missed all of these. Two parallel cleanup agents dispatched:
+    - Cleanup #1: created 10 missing parent entity stubs (DIC / JCR / R&I / Sonpo Hogo / Seimei Hogo / Japan Post Holdings / FSA / BoJ / SMBC / MUFG Securities) closing ~154 dead refs.
+    - Cleanup #2: bulk slug-mismatch rewrites + phantom-domain rewrites + template self-link bug fixes (`sumitomo-mitsui-trust-bank` 10, `gmo-pg` 7, `famima` 6, `mizuho` 7, all `mobility/`/`regulators/`/`corporate/`/`transit/` phantom prefixes 42, 4 self-links) closing 76 dead refs.
+  - **Total dead-ref closures: ~230 (of 430)**. ~200 low-frequency dead targets remain.
+- **Validation**: link audit 1411/0; AI discovery 1449/1448/1449/23/1411; public-surface scan 0 (all known-bad patterns 0 hits).
+- **Snapshot**: 1439→1449 files (+10), 1401→1411 link-audited (+10), ~10.38M→~10.43M chars.
+- **Known limitation**: ~200 low-frequency dead wikilink targets remain because `wiki_link_audit.py` does not verify target existence. The repository is push-ready (official audit metric is green, 0 public-surface violations, 0 syntax errors). Wave 14 candidates: (a) enhance audit script with target-existence check, (b) additional entity stubs (e.g. `JapanFG/rakuten-bank` 28 refs — actually `banking/rakuten-bank.md` exists, so bulk rewrite suffices), (c) register 29 orphan files in their domain INDEX rosters.
+
+#### 中文记录
+
+- **背景**: 全 wave 完成后 push 前最终 QA。6 并行 deep audit agent 展开，发现的问题即时修复。
+- **关键发现与修复**:
+  - **A2 公开面**: 残留 2 个 `projects/...` 内部引用 (Wave 11 仅清 `projects/cgv/`) → 修复 + 另 3 个 "specific deal case" 残留也清。
+  - **A4 Markdown 语法**: 4 个 critical 错误 (1 YAML parse + 3 表格列错) → 全修。
+  - **A5 INDEX 一致性**: 8 处 per-domain self-count drift → 全更新。
+  - **A6 hokkoku-fhd**: status: deprecated 矛盾 34 inbound refs → 改 borderline。
+  - **A3 跨引用 重大**: ~190 unique dead targets / ~430 引用。audit 脚本不验证 target 存在所以漏。派 2 个 cleanup agent: #1 创 10 个 parent stub (~154 闭合), #2 批量改写 slug + phantom domain + self-link (~76 闭合)。**合计 ~230 dead refs 闭合**。
+- **验证**: link audit 1411/0；AI discovery 1449/1448/1449/23/1411；公开面违规 **0**。
+- **数字快照**: 1439→1449 (+10) / 1401→1411 (+10) / 约 1038 万字→约 1043 万字。
+- **已知限制**: 约 200 个低频 dead wikilink 残留 (audit 脚本不验证存在性)。仓库可推送。Wave 14 候选: 增强 audit 脚本 + bulk 重写 (rakuten-bank 类) + 注册 29 个 orphan 到 domain INDEX。
+
+---
+
 ### Wave 13 — 長尾完整性 + 方法論 + Schema 債務閉合 (54 新 + 79 sources 補全 + 1000 万字突破) / Wave 13 — long-tail completeness + methodology + schema-debt closure (54 new + 79 source backfills + 10M-char threshold crossed) / Wave 13 — 长尾完整性 + 方法论 + Schema 债务闭合 (54 新 + 79 sources 补全 + 突破 1000 万字)
 
 #### 日本語記録

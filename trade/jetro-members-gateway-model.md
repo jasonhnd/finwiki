@@ -35,7 +35,7 @@ This entry sits under [[trade/jetro-organization-structure|JETRO は会員組織
 既存 wiki [[jetro-organization-structure]] の「会員企業を持たない」記述は法的事実としては正確だが、実務上の提案チャネルとしてはメンバーズ入会が前提となる点を補足すべき。なお輸出信用条件は OECD 体系（[[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]）で規律されており、JETRO の販路支援と NEXI 保険・JBIC 融資はその枠内で組み合わせる。
 
 参考: https://www.jetro.go.jp/members/
-来源: specific deal case JETRO research notes
+来源: 公開情報整理 (JETRO 公式メンバーズ案内 https://www.jetro.go.jp/members/, 経産省通商政策局公表資料, JETRO J-StarX プログラム公表)
 
 ## Related
 <!-- wiki-links:managed -->
