@@ -31,6 +31,57 @@
 
 ## 2026-05-25
 
+### Wave 12 — ドメイン深度提升 (45 新エントリー + 11 stub promotion) / Wave 12 — domain depth promotion (45 new entries + 11 stub promotions) / Wave 12 — 域深度提升 (45 新条目 + 11 stub 升级)
+
+#### 日本語記録
+
+- **背景**: Wave 10-11 で旗艦実体と比較マトリクスを構築した後、(1) policy-finance entity stub の operating depth promotion、(2) JapanFG / exchanges / manufacturing / loyalty / structured-finance の long-tail 充実を一括処理。
+- **手法**: 10 並列 agent (A1-A10)。A1+A2 が 11 件 stub depth promotion、A3-A10 が 45 件新規エントリー作成。
+- **成果**:
+  - A1 policy-finance entity promotion (6): jica / nexi / jogmec / okinawa-development-finance-corp / japan-student-services-organization / oecd-export-credit-arrangement (60-80 行 → 200+ 行)
+  - A2 credit guarantee system promotion (5): japan-housing-finance-agency / agriculture-credit-guarantee-system / fisheries-credit-guarantee-system / japan-credit-guarantee-system / national-federation-credit-guarantee-corporations (75-83 行 → 181-208 行)
+  - A3 JapanFG cooperative anchors (6): osaka-shogin-shinkumi, chochukin-rokin, ja-kyosairen-fukushima, ja-bank-tokyo-shinren, jf-marine-bank-hokkaido, jf-kyosuiren
+  - A4 JapanFG specialty subs (6): saison-automobile-fire-insurance, saison-asset-management, jr-east-financial, dock-financial, orient-trust-japan, aeon-financial-service-detail
+  - A5 shinkin depth (6): shinkin-shoken (substitution for existing zenshin-kyo), shinkin-network-services, sapporo-shinkin, sendai-shinkin, nagoya-shinkin, kitakyushu-shinkin
+  - A6 SF + derivatives depth (6): japan-auto-loan-abs-waterfall-mechanics, japan-consumer-loan-abs-structure, japan-credit-card-receivable-abs, japan-equipment-lease-abs, jcr-ri-japan-securitization-rating-methodology-operating-playbook, isda-2020-protocol-japan-implementation
+  - A7 exchanges country tail (8): cex-coindcx-india, cex-wazirx-india, cex-mercado-bitcoin-brazil, cex-foxbit-brazil, cex-vietnam-overview, cex-korbit-korea, cex-coinone-korea, cex-gopax-korea
+  - A8 manufacturing industrial finance (5): hitachi-industrial-finance-platform, sony-group-finance-arm, panasonic-captive-finance, mitsubishi-heavy-export-finance, toyota-financial-services
+  - A9 loyalty + retail deep (4 retained after rate-limit): d-point-detailed-ecosystem, t-point-v-point-post-2024-merger, ponta-points-deep-dive, sb-yahoo-paypay-points-unified-ecosystem
+  - A10 JapanFG long-tail (4 retained): iwai-cosmo-securities, tokai-tokyo-securities, view-card, jal-card
+- **注記**: A1, A3, A4, A6, A7, A9, A10 が Anthropic API rate limit に到達したものの、主要交付物は限度到達前にほぼ完了済み。A10 が当初予定していた 4 missing FSA crypto operator identification + creation は次回 Wave に持ち越し。
+- **検証**:
+  - `wiki_link_audit.py`: 1347 entries / 0 issues
+  - `generate_ai_discovery.py`: 1385 / 1384 / 1385 / 23 / 1347
+  - 公開面違反スキャン: 0 件
+- **数値スナップショット**:
+  - Markdown files: 1340 → **1385** (+45)
+  - Link-audited entries: 1302 → **1347** (+45)
+  - Text volume: 約 926 万字 → 約 **978 万字** (+52 万字, +5.5%)
+  - Token count: 約 223 万 → 約 **237 万** (+14 万)
+  - 7 ドメインで件数増加 (JapanFG +22 / exchanges +8 / derivatives +1 / structured-finance +5 / manufacturing +5 / loyalty +4) + policy-finance 全 11 件 entity の operating depth が 60-80 行 → 180-300+ 行へ
+- **後続 (Wave 13 計画)**: 4 missing FSA crypto operator identification (A10 の繰越分) + retail / loyalty 残り 2 件 + 跨領域 redirect / canonical-anchor convention + registry completeness 長尾 (shinkumi 残り / 前払式 803 / クレジット 241/138/275)。
+
+#### English Record
+
+- **Context**: Following Wave 10 (flagship entities) and Wave 11 (comparison matrices), Wave 12 focuses on (1) promoting policy-finance entity stubs to operating-depth quality, (2) closing JapanFG / exchanges / manufacturing / loyalty / structured-finance long-tail gaps.
+- **Method**: 10 parallel agents. A1+A2 promoted 11 stub files to 180-300+ lines; A3-A10 created 45 new entries.
+- **Results**: see Japanese log for per-agent breakdown (45 new entries + 11 depth promotions = 56 total file changes).
+- **Note**: A1, A3, A4, A6, A7, A9, A10 hit Anthropic API rate limit at session end, but core deliverables were already written before the limit. A10's planned FSA crypto operator gap-closure deferred to next wave.
+- **Validation**: link audit 1347/0; AI discovery 1385/1384/1385/23/1347; public-surface scan 0.
+- **Snapshot**: 1340→1385 files (+45), 1302→1347 link-audited (+45), ~9.26M→~9.78M chars (+520K, +5.5%), 7 domains incremented in INDEX.md.
+- **Next (Wave 13)**: A10 deferred FSA crypto gap-closure + retail/loyalty remainder + cross-domain redirect / canonical-anchor convention + registry completeness long-tail.
+
+#### 中文记录
+
+- **背景**: Wave 10-11 后，Wave 12 集中 (1) policy-finance entity stub 的 operating depth promotion，(2) JapanFG/exchanges/manufacturing/loyalty/SF long-tail 充实。
+- **方法**: 10 并行 agent。A1+A2 升级 11 个 stub 至 180-300+ 行；A3-A10 创建 45 个新条目。
+- **注记**: A1/A3/A4/A6/A7/A9/A10 在 session 末段命中 rate limit，但核心交付都在限度前完成。A10 4 个缺失 FSA crypto operator 任务延后至 Wave 13。
+- **验证**: link audit 1347/0；AI discovery 1385/1384/1385/23/1347；公开面违规 0。
+- **数字快照**: 1340→1385 (+45) / 1302→1347 (+45) / 约 926 万字→约 978 万字 (+52 万 +5.5%) / 7 域 INDEX 同步。
+- **后续 Wave 13**: A10 延期的 FSA crypto 缺口 + retail/loyalty 余下 + 跨域 redirect convention + registry 完整性长尾。
+
+---
+
 ### Wave 11 — 20 比較マトリクス + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 new comparison matrices + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 对比矩阵 + 22 bedrock 刷新 + 33 结构清理
 
 #### 日本語記録
