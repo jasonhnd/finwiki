@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-market-maker-otc-layer",
+  "source_path": "exchanges/jp-crypto-market-maker-otc-layer.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-market-maker-otc-layer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-market-maker-otc-layer.md",
+  "domain": "exchanges",
+  "title": "国内暗号資産マーケットメイカー / OTC デスク業界 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内暗号資産マーケットメイカー / OTC デスク業界 overview",
+    "aliases": [
+      "JP crypto market maker",
+      "国内暗号資産 OTC",
+      "JP crypto liquidity provider layer"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "market-maker",
+      "otc",
+      "liquidity",
+      "institutional"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.b2c2.com/",
+      "https://wintermute.com/",
+      "https://www.falconx.io/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global cex prime brokerage layer for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内暗号資産マーケットメイカー / OTC デスク業界 overview",
+    "Wiki route",
+    "概要",
+    "グローバル MM の国内展開",
+    "国内 OTC デスク独自プレイヤー",
+    "ビジネスモデル",
+    "規制関係",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-prime-brokerage-layer",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-crypto-garage",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-exchange-mercury",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/jvcea-spot-volume-statistics-analysis",
+      "securities/japan-best-execution-sor-pts"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-mercury",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1934,
+    "word_like_tokens": 304,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-24"
+  }
+}

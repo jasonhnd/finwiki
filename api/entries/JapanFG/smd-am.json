@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/smd-am",
+  "source_path": "JapanFG/smd-am.md",
+  "url": "https://finwiki.zksc.io/JapanFG/smd-am",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smd-am.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/smd-am.md",
+  "domain": "JapanFG",
+  "title": "三井住友DSアセットマネジメント",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井住友DSアセットマネジメント",
+    "aliases": [
+      "SMDAM",
+      "Sumitomo Mitsui DS Asset Management",
+      "三井住友DSアセットマネジメント",
+      "三井住友DSアセットマネジメント株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "asset-management",
+      "fiea-operator",
+      "smfg"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.smd-am.co.jp/corporate/overview/",
+      "https://www.smd-am.co.jp/corporate/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アセットマネジメントOne for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "三井住友DSアセットマネジメント",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/asset-management-one",
+      "JapanFG/daiwa-sg",
+      "JapanFG/smbc-nikko",
+      "JapanFG/smfg",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "securities/INDEX",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/asset-management-one",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1649,
+    "word_like_tokens": 251,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-21"
+  }
+}

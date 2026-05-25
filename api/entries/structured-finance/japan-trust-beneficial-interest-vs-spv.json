@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/japan-trust-beneficial-interest-vs-spv",
+  "source_path": "structured-finance/japan-trust-beneficial-interest-vs-spv.md",
+  "url": "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-trust-beneficial-interest-vs-spv.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/japan-trust-beneficial-interest-vs-spv.md",
+  "domain": "structured-finance",
+  "title": "Trust beneficial interest vs SPV (Japan securitization vehicle)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Trust beneficial interest vs SPV (Japan securitization vehicle)",
+    "aliases": [
+      "信託受益権",
+      "Trust beneficial interest Japan",
+      "Shintaku jueki-ken",
+      "TBI vs SPV",
+      "Japan trust securitization",
+      "Single-asset trust securitization",
+      "信託受益権の流動化"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "trust",
+      "beneficial-interest",
+      "spv",
+      "japan",
+      "securitization"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jsda.or.jp/en/",
+      "https://www.fsa.go.jp/en/",
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/"
+    ]
+  },
+  "summary": "Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trust beneficial interest (信託受益権) as the issuance vehicle. Trust beneficial interest is its own securitization vehicle, not just a wrapper: the originator transfers assets to a trust, the trust holds the assets, and trust be",
+  "headings": [
+    "Trust beneficial interest vs SPV (Japan securitization vehicle)",
+    "TL;DR",
+    "Wiki route",
+    "1. Trust beneficial interest as securitization vehicle",
+    "2. Single-asset trust (信託受益権の流動化)",
+    "3. Multi-asset trust",
+    "4. Trust vs SPV comparison",
+    "5. Why trust is used for RMBS",
+    "6. Why SPV is used for auto / consumer ABS",
+    "7. Dual-listed / combined structures"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/sumitomo-mitsui-trust",
+      "banking/INDEX",
+      "banking/master-trust-bank-operating-model",
+      "structured-finance/INDEX",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/consumer-loan-abs-japan-card-issuer",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-cmbs-issuance-structure",
+      "structured-finance/japan-rmbs-issuance-structure",
+      "structured-finance/jhf-mbs-mechanics",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/master-trust-bank-operating-model",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/consumer-loan-abs-japan-card-issuer",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8454,
+    "word_like_tokens": 1332,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

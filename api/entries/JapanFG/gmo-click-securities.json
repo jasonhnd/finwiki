@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/gmo-click-securities",
+  "source_path": "JapanFG/gmo-click-securities.md",
+  "url": "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/gmo-click-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/gmo-click-securities.md",
+  "domain": "JapanFG",
+  "title": "GMOクリック証券",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMOクリック証券",
+    "aliases": [
+      "GMO Click Securities",
+      "GMOクリック証券",
+      "GMOクリック証券株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "fx",
+      "cfd",
+      "fiea-operator",
+      "gmo"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.click-sec.com/corp/company/corphistory/",
+      "https://www.gmofh.com/ourbusiness/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against DMM.com証券 for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "GMOクリック証券",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/dmm-com-securities",
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/gmo-coin",
+      "JapanFG/gmo-financial-hd",
+      "JapanFG/gmo-payment-gateway",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/gmo-coin",
+      "https://finwiki.zksc.io/JapanFG/gmo-financial-hd",
+      "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1594,
+    "word_like_tokens": 252,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-05-21"
+  }
+}

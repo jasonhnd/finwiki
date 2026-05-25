@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/japan-clo-issuance-japanese-banks",
+  "source_path": "structured-finance/japan-clo-issuance-japanese-banks.md",
+  "url": "https://finwiki.zksc.io/structured-finance/japan-clo-issuance-japanese-banks",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-clo-issuance-japanese-banks.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/japan-clo-issuance-japanese-banks.md",
+  "domain": "structured-finance",
+  "title": "Japanese banks as CLO investors — Norinchukin, JPost, regional banks",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japanese banks as CLO investors — Norinchukin, JPost, regional banks",
+    "aliases": [
+      "Japan CLO investment",
+      "Japanese bank CLO exposure",
+      "Norinchukin CLO",
+      "JPost CLO",
+      "Regional bank CLO",
+      "Dodd-Frank Section 941 retention",
+      "structured-finance/japan-clo-issuance-japanese-banks"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "clo",
+      "norinchukin",
+      "japan-post-bank",
+      "regional-bank",
+      "dodd-frank",
+      "retention",
+      "japan",
+      "us-bsl"
+    ],
+    "status": "active",
+    "sources": [
+      "Norinchukin IR — https://www.nochubank.or.jp/en/",
+      "Japan Post Bank IR — https://www.jp-bank.japanpost.jp/en/",
+      "FSA bank supervision disclosures",
+      "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",
+      "BOJ Financial System Report"
+    ]
+  },
+  "summary": "Japanese banks — led by Norinchukin, with Japan Post Bank and a tier of regional banks behind it — became the world's single largest holder of US broadly-syndicated-loan (BSL) CLOs over the 2010s, drawn by the rate pickup over yen JGBs and the perceived AAA / AA security of the senior tranches. The",
+  "headings": [
+    "Japanese banks as CLO investors — Norinchukin, JPost, regional banks",
+    "TL;DR",
+    "Wiki route",
+    "1. What CLOs are — short refresher",
+    "2. The Japanese buyer base — three concentric tiers",
+    "Tier 1: Norinchukin",
+    "Tier 2: Japan Post Bank",
+    "Tier 3: Regional banks",
+    "3. Dodd-Frank Section 941 risk-retention — the 2010s regulatory arc",
+    "2014–2016: Initial implementation"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/japan-exchange-group",
+      "JapanFG/japan-post-bank",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/norinchukin",
+      "JapanFG/smfg",
+      "derivatives/japan-cds-market-overview",
+      "finance/INDEX",
+      "finance/japan-leveraged-buyout-economics",
+      "structured-finance/INDEX",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/derivatives/japan-cds-market-overview",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11060,
+    "word_like_tokens": 1881,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

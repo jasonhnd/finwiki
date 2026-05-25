@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-gopax-korea",
+  "source_path": "exchanges/cex-gopax-korea.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-gopax-korea",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-gopax-korea.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-gopax-korea.md",
+  "domain": "exchanges",
+  "title": "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退",
+    "aliases": [
+      "GOPAX",
+      "고팍스",
+      "Streami",
+      "Binance Korea",
+      "Gopax"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "korea",
+      "krw-spot",
+      "binance",
+      "isms-p",
+      "regulatory-saga"
+    ],
+    "status": "borderline",
+    "sources": [
+      "公開情報整理 (GOPAX / Streami 공식 IR, gopax.co.kr / streami.io)",
+      "公開情報整理 (Binance 2023-02 GOPAX 지분 인수 발표, binance.com Blog)",
+      "公開情報整理 (FSC / FIU 가상자산사업자 등록 변경 관련 정보)",
+      "公開情報整理 (전북은행 / Jeonbuk Bank 실명확인 입출금 계정 보도)",
+      "公開情報整理 (GoFi GOPAX Earn 사태 / Genesis Global 파산 노출 보도)",
+      "公開情報整理 (Binance 글로벌 미국 SEC / DOJ 합의 2023-11 영향 분석)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
+  "headings": [
+    "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（韓国制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 業界での位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-bithumb-korea",
+      "exchanges/cex-coinone-korea",
+      "exchanges/cex-korbit-korea",
+      "exchanges/cex-upbit-korea",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-crypto-exchange-bankruptcy-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/korea-cex-five-pillars-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+      "https://finwiki.zksc.io/exchanges/cex-coinone-korea",
+      "https://finwiki.zksc.io/exchanges/cex-korbit-korea",
+      "https://finwiki.zksc.io/exchanges/cex-upbit-korea",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-crypto-exchange-bankruptcy-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5097,
+    "word_like_tokens": 766,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

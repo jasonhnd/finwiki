@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/hyperledger-besu-overview",
+  "source_path": "systems/hyperledger-besu-overview.md",
+  "url": "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperledger-besu-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperledger-besu-overview.md",
+  "domain": "systems",
+  "title": "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+    "aliases": [
+      "hyperledger-besu-overview",
+      "besu",
+      "quorum",
+      "jpm-quorum-besu"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "blockchain",
+      "evm",
+      "private-chain",
+      "hyperledger",
+      "besu",
+      "quorum"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and 智能合约 bytecode forensic — 三层 verify 技术 for the broader system boundary.",
+  "headings": [
+    "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/cosmos-ibc-for-financial-institutions",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/multi-megabank-consortium-governance",
+      "security/bytecode-forensic-three-tier-verify",
+      "systems/INDEX",
+      "systems/canton-overview",
+      "systems/hyperledger-besu-vs-canton-migration"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2555,
+    "word_like_tokens": 459,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

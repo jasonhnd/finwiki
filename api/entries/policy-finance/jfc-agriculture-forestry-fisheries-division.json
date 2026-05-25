@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/jfc-agriculture-forestry-fisheries-division",
+  "source_path": "policy-finance/jfc-agriculture-forestry-fisheries-division.md",
+  "url": "https://finwiki.zksc.io/policy-finance/jfc-agriculture-forestry-fisheries-division",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/jfc-agriculture-forestry-fisheries-division.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/jfc-agriculture-forestry-fisheries-division.md",
+  "domain": "policy-finance",
+  "title": "JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業)",
+    "aliases": [
+      "policy-finance/jfc-agriculture-forestry-fisheries-division",
+      "jfc-agriculture-forestry-fisheries-division",
+      "JFC 農林水産事業",
+      "JFC AFF Unit",
+      "JFC Nourinsuisan Jigyo",
+      "JFC 農林漁業事業",
+      "Nourin Gyogyou Koko successor",
+      "農林水産事業本部"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "jfc",
+      "agriculture",
+      "forestry",
+      "fisheries",
+      "food-industry",
+      "ja-jf-coordination"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jfc.go.jp/n/finance/agri/",
+      "https://www.jfc.go.jp/n/findings/pdf/jfc2024.pdf",
+      "https://www.maff.go.jp/j/keiei/kinyu/",
+      "https://www.maff.go.jp/j/keiei/kinyu/hosyo/hosyou.html",
+      "https://www.jaffic.go.jp/guide/gyo/index.html",
+      "https://www.nochubank.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as one of the three product-bearing divisions inside 日本政策金融公庫 (JFC). Read it alongside JFC SME Division operating model for the peer division, against Agriculture credit guarantee system and Fisheries credit guarantee system for the parallel public-credit c",
+  "headings": [
+    "JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業)",
+    "Wiki route",
+    "TL;DR",
+    "1. 部門位置 within JFC",
+    "2. 主要事業 / 商品メニュー",
+    "2.1 Product menu table",
+    "2.2 経営体育成 (management-body development) framing",
+    "2.3 Forestry — the long-tenor anomaly",
+    "2.4 Fisheries — coastal vs offshore split",
+    "2.5 Food industry — the downstream tail"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/dbj",
+      "JapanFG/jbic",
+      "JapanFG/jfc",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/norinchukin",
+      "JapanFG/norinchukin\\",
+      "JapanFG/smfg",
+      "banking/cooperative-banking-japan",
+      "policy-finance/INDEX",
+      "policy-finance/agriculture-credit-guarantee-system",
+      "policy-finance/fisheries-credit-guarantee-system",
+      "policy-finance/japan-eximbank-history",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/jfc-sme-division-operating-model"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/dbj",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/norinchukin\\",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/jfc-sme-division-operating-model"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 23108,
+    "word_like_tokens": 3639,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

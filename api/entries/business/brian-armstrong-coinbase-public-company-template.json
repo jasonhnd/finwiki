@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/brian-armstrong-coinbase-public-company-template",
+  "source_path": "business/brian-armstrong-coinbase-public-company-template.md",
+  "url": "https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/brian-armstrong-coinbase-public-company-template.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/brian-armstrong-coinbase-public-company-template.md",
+  "domain": "business",
+  "title": "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
+    "aliases": [
+      "brian-armstrong-coinbase-public-company-template",
+      "Brian Armstrong Coinbase template",
+      "Coinbase direct listing 2021",
+      "Coinbase SEC engagement",
+      "crypto-native public exchange template",
+      "Coinbase Wells notice case",
+      "Armstrong founder-CEO conviction template",
+      "Coinbase IPO direct listing template"
+    ],
+    "domain": "business",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "people",
+      "brian-armstrong",
+      "coinbase",
+      "direct-listing",
+      "sec-engagement",
+      "crypto-public-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788",
+      "https://investor.coinbase.com/",
+      "https://www.coinbase.com/blog",
+      "https://www.sec.gov/litigation/litreleases.htm",
+      "https://www.federalregister.gov/agencies/commodity-futures-trading-commission"
+    ]
+  },
+  "summary": "This entry sits under business INDEX. Read it with Jamie Dimon anti-crypto pivot case as the bank-side contrast template and Larry Fink BlackRock digital-asset template as the asset-manager-side parallel. Cross-reference exchanges INDEX for the broader exchange-architecture context and CFTC / SEC cr",
+  "headings": [
+    "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
+    "Wiki route",
+    "Key facts (public sources only)",
+    "Operating template — the four-part Armstrong / Coinbase pattern",
+    "Part 1 · Public-company structure from day one of listing",
+    "Part 2 · Regulatory engagement as strategy, not defence",
+    "Part 3 · Product scope as a regulatory perimeter problem",
+    "Part 4 · Listed-exchange financial structure",
+    "Listed-exchange operating mechanics",
+    "Founder-CEO conviction layer"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "business/INDEX",
+      "business/hester-peirce-sec-regulatory-pivot-case",
+      "business/jamie-dimon-anti-crypto-pivot-case",
+      "business/larry-fink-blackrock-digital-asset-template",
+      "business/matt-huang-triple-role-coi-template",
+      "business/paolo-ardoino-tether-business-model-template",
+      "business/sandeep-nailwal-polygon-india-dpi-pattern",
+      "exchanges/INDEX",
+      "exchanges/jp-listed-cex-related-companies-matrix",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "fintech/cftc-sec-crypto-jurisdiction"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case",
+      "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case",
+      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
+      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
+      "https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template",
+      "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 17681,
+    "word_like_tokens": 2820,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

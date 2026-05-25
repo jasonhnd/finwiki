@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/jogmec",
+  "source_path": "policy-finance/jogmec.md",
+  "url": "https://finwiki.zksc.io/policy-finance/jogmec",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/jogmec.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/jogmec.md",
+  "domain": "policy-finance",
+  "title": "JOGMEC (Japan Organization for Metals and Energy Security)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JOGMEC (Japan Organization for Metals and Energy Security)",
+    "aliases": [
+      "jogmec",
+      "JOGMEC",
+      "Japan Organization for Metals and Energy Security",
+      "エネルギー・金属鉱物資源機構",
+      "石油天然ガス・金属鉱物資源機構",
+      "独立行政法人 エネルギー・金属鉱物資源機構",
+      "JOGMEC equity",
+      "JOGMEC stockpiling",
+      "JOGMEC critical minerals"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "energy-security",
+      "minerals",
+      "japan",
+      "meti",
+      "critical-minerals",
+      "stockpiling",
+      "lng",
+      "economic-security",
+      "equity-investment"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jogmec.go.jp/english/about/overview.html",
+      "https://www.jogmec.go.jp/english/oilgas/index.html",
+      "https://www.jogmec.go.jp/english/metal/index.html",
+      "https://www.jogmec.go.jp/english/stockpiling/index.html",
+      "https://www.enecho.meti.go.jp/en/category/special/article/detail_185.html",
+      "https://www.meti.go.jp/english/policy/energy_environment/energy_strategy/"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as the resource-security node of the Japanese state-finance system. Read it against JBIC for the lender-side overseas-investment counterpart on the same upstream-resource project axis; with NEXI for the political-risk insurance overlay that frequently sits",
+  "headings": [
+    "JOGMEC (Japan Organization for Metals and Energy Security)",
+    "Wiki route",
+    "TL;DR",
+    "1. Institutional structure",
+    "1.1 What JOGMEC does — and what it does not",
+    "1.2 ODA-grade vs commercial-grade financing — JOGMEC's place",
+    "2. Mandate by line of business",
+    "2.1 Product / instrument summary",
+    "2.2 Oil-gas vs metals/critical-mineral divisional split",
+    "2.3 Stockpiling"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/jbic",
+      "policy-finance/INDEX",
+      "policy-finance/japan-eximbank-history",
+      "policy-finance/japan-policy-finance-institution-mandate-matrix",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/japan-project-finance-stack-diagram",
+      "policy-finance/jbic-overseas-investment-underwriting-process",
+      "policy-finance/jica",
+      "policy-finance/jogmec-equity-and-offtake-mechanics",
+      "policy-finance/nexi",
+      "policy-finance/nexi-export-credit-insurance-products",
+      "policy-finance/oecd-export-credit-arrangement"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-institution-mandate-matrix",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+      "https://finwiki.zksc.io/policy-finance/jbic-overseas-investment-underwriting-process",
+      "https://finwiki.zksc.io/policy-finance/jica",
+      "https://finwiki.zksc.io/policy-finance/jogmec-equity-and-offtake-mechanics",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 19689,
+    "word_like_tokens": 3020,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-25"
+  }
+}

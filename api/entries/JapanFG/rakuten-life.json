@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/rakuten-life",
+  "source_path": "JapanFG/rakuten-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/rakuten-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/rakuten-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/rakuten-life.md",
+  "domain": "JapanFG",
+  "title": "楽天生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "楽天生命保険",
+    "aliases": [
+      "楽天生命",
+      "Rakuten Life",
+      "Rakuten Life Insurance",
+      "楽天生命保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "rakuten",
+      "ecosystem-finance",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://www.rakuten-insurance.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 楽天損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "楽天生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/rakuten-general-insurance",
+      "insurance/INDEX",
+      "insurance/internet-life-insurance-business-model",
+      "lifenet",
+      "rakuten-card",
+      "rakuten-edy",
+      "rakuten-fg",
+      "rakuten-securities",
+      "sbi-life",
+      "sony-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/rakuten-general-insurance",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/lifenet",
+      "https://finwiki.zksc.io/rakuten-card",
+      "https://finwiki.zksc.io/rakuten-edy",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/rakuten-securities",
+      "https://finwiki.zksc.io/sbi-life",
+      "https://finwiki.zksc.io/sony-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2022,
+    "word_like_tokens": 299,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

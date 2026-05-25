@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/pectra-eip-7691-blob-l2-impact",
+  "source_path": "systems/pectra-eip-7691-blob-l2-impact.md",
+  "url": "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/pectra-eip-7691-blob-l2-impact.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/pectra-eip-7691-blob-l2-impact.md",
+  "domain": "systems",
+  "title": "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+    "aliases": [
+      "pectra-eip-7691-blob-l2-impact",
+      "eip-7691",
+      "blob-target-six",
+      "l2-gas-50-percent-cut"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "ethereum",
+      "l2",
+      "eip-7691",
+      "blob",
+      "base",
+      "arbitrum",
+      "optimism",
+      "eip-4844"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Ethereum Pectra 升级 · 四 EIP 双轨战略总览 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "fintech/INDEX",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/usd-stablecoin-interchange",
+      "systems/INDEX",
+      "systems/pectra-eip-7251-institutional-staking",
+      "systems/pectra-upgrade-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking",
+      "https://finwiki.zksc.io/systems/pectra-upgrade-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2672,
+    "word_like_tokens": 507,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

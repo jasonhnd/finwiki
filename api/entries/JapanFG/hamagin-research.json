@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/hamagin-research",
+  "source_path": "JapanFG/hamagin-research.md",
+  "url": "https://finwiki.zksc.io/JapanFG/hamagin-research",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/hamagin-research.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/hamagin-research.md",
+  "domain": "JapanFG",
+  "title": "はまぎん総合研究所 (Hamagin Research Institute)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "はまぎん総合研究所 (Hamagin Research Institute)",
+    "aliases": [
+      "Hamagin Research Institute",
+      "Hamagin Research",
+      "はまぎん総合研究所",
+      "株式会社浜銀総合研究所",
+      "HRI"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "think-tank",
+      "regional-bank-think-tank-subsidiary",
+      "kanto",
+      "kanagawa",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.yokohama-ri.co.jp/",
+      "https://www.yokohamafg.co.jp/",
+      "https://www.boy.co.jp/",
+      "https://www.chiginkyo.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as the FG-subsidiary think-tank / research operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 横浜銀リース. For peer regional-bank think-tank context, contrast with major think tanks (野村総研, 三菱総",
+  "headings": [
+    "はまぎん総合研究所 (Hamagin Research Institute)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. 持株ツリー",
+    "3. 合併歷史・前身",
+    "はまぎん総研 設立",
+    "CFG → YFG 商号変更 (2025-10-01)",
+    "4. KPI table (concept) ^[ambiguous]",
+    "5. 业务线 map"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/regional-bank-api-digital-partnership-route",
+      "banking/regional-bank-consolidation-pattern",
+      "concordia-fg",
+      "ffg-securities",
+      "higashi-nippon-bank",
+      "ibank-marketing",
+      "mebuki-lease",
+      "mebuki-securities",
+      "yokohama-bank",
+      "yokohama-bank-leasing"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/ffg-securities",
+      "https://finwiki.zksc.io/higashi-nippon-bank",
+      "https://finwiki.zksc.io/ibank-marketing",
+      "https://finwiki.zksc.io/mebuki-lease",
+      "https://finwiki.zksc.io/mebuki-securities",
+      "https://finwiki.zksc.io/yokohama-bank",
+      "https://finwiki.zksc.io/yokohama-bank-leasing"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5124,
+    "word_like_tokens": 682,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

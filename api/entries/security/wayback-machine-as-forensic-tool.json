@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/wayback-machine-as-forensic-tool",
+  "source_path": "security/wayback-machine-as-forensic-tool.md",
+  "url": "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/wayback-machine-as-forensic-tool.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/wayback-machine-as-forensic-tool.md",
+  "domain": "security",
+  "title": "主动 de-published 内容救回 — Wayback Machine 作为 forensic 武器",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "主动 de-published 内容救回 — Wayback Machine 作为 forensic 武器",
+    "aliases": [],
+    "domain": "security",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-08",
+    "confidence": "possible",
+    "tags": [
+      "security/forensic",
+      "web-archives",
+      "evidence-preservation"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://web.archive.org/",
+      "https://mementoweb.org/",
+      "https://archive.org/about/"
+    ]
+  },
+  "summary": "This entry sits under FinWiki index. Read it with forensic identity anchor chain for peer context and systems index for the broader evidence boundary.",
+  "headings": [
+    "主动 de-published 内容救回 — Wayback Machine 作为 forensic 武器",
+    "Wiki route",
+    "操作步骤",
+    "When to Use",
+    "When NOT to Use",
+    "Counterpoints",
+    "Provenance"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "bytecode-forensic-three-tier-verify",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/mtgox-bankruptcy-processing-timeline",
+      "fork-and-rebrand-5-layer-audit-framework",
+      "security/forensic-identity-anchor-chain",
+      "systems/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
+      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/systems/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2015,
+    "word_like_tokens": 341,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

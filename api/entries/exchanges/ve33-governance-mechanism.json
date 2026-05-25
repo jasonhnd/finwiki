@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/ve33-governance-mechanism",
+  "source_path": "exchanges/ve33-governance-mechanism.md",
+  "url": "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/ve33-governance-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/ve33-governance-mechanism.md",
+  "domain": "exchanges",
+  "title": "ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化",
+    "aliases": [
+      "ve(3,3) tokenomics",
+      "veCRV Solidly Velodrome Aerodrome",
+      "Vote-escrow tokenomics evolution"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "dex",
+      "defi",
+      "tokenomics",
+      "governance",
+      "ve33"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://docs.curve.fi/",
+      "https://docs.velodrome.finance/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化",
+    "Wiki route",
+    "概要",
+    "基本構造",
+    "主要 protocol 比較",
+    "経済学的役割",
+    "リスクと制約",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/cex-native-token-strategy-comparison",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/solana-ecosystem-dex-comparison",
+      "exchanges/vetoken-host-protocol-flywheel",
+      "fintech/portfolio-winner-structure-arm-analog"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+      "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
+      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2675,
+    "word_like_tokens": 445,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/fx-options-japan-corporate-treasury",
+  "source_path": "derivatives/fx-options-japan-corporate-treasury.md",
+  "url": "https://finwiki.zksc.io/derivatives/fx-options-japan-corporate-treasury",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/fx-options-japan-corporate-treasury.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/fx-options-japan-corporate-treasury.md",
+  "domain": "derivatives",
+  "title": "FX options for Japan corporate treasury",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FX options for Japan corporate treasury",
+    "aliases": [
+      "fx-options-japan-corporate-treasury",
+      "Japan corporate FX options",
+      "通貨オプション 法人",
+      "TRF Japan corporate",
+      "target redemption forward Japan",
+      "risk reversal JPY",
+      "vanilla FX option Japan corp",
+      "knock-out FX option Japan"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "fx",
+      "options",
+      "corporate-treasury",
+      "structured-products"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "https://www.fsa.go.jp/en/",
+      "https://www.isda.org/",
+      "https://www.bis.org/publ/qtrpdf/r_qt2403.htm"
+    ]
+  },
+  "summary": "FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option offers protection against an adverse move while preserving upside, in exchange for an upfront premium (or, in zero-cost structures, embedded conditional risk). The",
+  "headings": [
+    "FX options for Japan corporate treasury",
+    "TL;DR",
+    "Wiki route",
+    "Product menu",
+    "Vanilla call / put",
+    "Straddle / strangle",
+    "Risk reversal",
+    "Knock-out forward",
+    "Knock-in option",
+    "Target redemption forward (TRF)"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "JapanFG/dmm-com-securities",
+      "JapanFG/gmo-click-securities",
+      "JapanFG/mizuho-bank",
+      "JapanFG/mufg-bank",
+      "JapanFG/sbi-fx-trade",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "derivatives/INDEX",
+      "derivatives/corporate-fx-hedge-policy-japan-listed",
+      "derivatives/cross-currency-basis-swap-japan",
+      "derivatives/fx-stp-broker-aggregation",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/japan-irs-market",
+      "derivatives/ois-tona-curve",
+      "derivatives/retail-fx-margin-trade-japan",
+      "derivatives/yen-basis-swap-market",
+      "finance/japan-corporate-fx-and-rate-hedge-policy",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/sbi-fx-trade",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/corporate-fx-hedge-policy-japan-listed",
+      "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
+      "https://finwiki.zksc.io/derivatives/fx-stp-broker-aggregation",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/derivatives/retail-fx-margin-trade-japan",
+      "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
+      "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16432,
+    "word_like_tokens": 2732,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

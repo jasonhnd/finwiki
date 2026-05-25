@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/wealthnavi",
+  "source_path": "JapanFG/wealthnavi.md",
+  "url": "https://finwiki.zksc.io/JapanFG/wealthnavi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/wealthnavi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/wealthnavi.md",
+  "domain": "JapanFG",
+  "title": "ウェルスナビ株式会社 (WealthNavi)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ウェルスナビ株式会社 (WealthNavi)",
+    "aliases": [
+      "WealthNavi",
+      "ウェルスナビ",
+      "WealthNavi Inc.",
+      "ウェルスナビ株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "robo-advisor",
+      "fintech"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ウェルスナビ (2026-05-19 抽出)",
+      "WealthNavi 公式コーポレートサイト 沿革ページ",
+      "2024-12-12 MUFG / WealthNavi 共同公開買付発表リリース (公開資料)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 楽天グループ金融事業 (Rakuten FG) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
+  "headings": [
+    "ウェルスナビ株式会社 (WealthNavi)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "創業者背景 ^[extracted]",
+    "主要事業数値（公開情報ベース）^[ambiguous]",
+    "主要提携サービス（ホワイトラベル展開）^[extracted]",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "運用方針"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/rakuten-fg",
+      "daiwa-sg",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "nomura-hd",
+      "rakuten-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/daiwa-sg",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5423,
+    "word_like_tokens": 825,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-21"
+  }
+}

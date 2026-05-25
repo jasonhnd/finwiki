@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nichizei-trust",
+  "source_path": "JapanFG/nichizei-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nichizei-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nichizei-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nichizei-trust.md",
+  "domain": "JapanFG",
+  "title": "Nichizei Trust / 日税信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Nichizei Trust / 日税信託",
+    "aliases": [
+      "日税信託",
+      "株式会社日税信託",
+      "Nichizei Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "tax",
+      "inheritance",
+      "estate-planning",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Nichizei Trust official site: https://www.nichizei.com/nt/",
+      "Nichizei group portal: https://www.nichizei.com/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/nichizei-trust",
+  "headings": [
+    "Nichizei Trust / 日税信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/asahi-trust",
+      "JapanFG/midori-trust",
+      "JapanFG/nichizei-trust",
+      "JapanFG/oag-trust",
+      "JapanFG/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/asahi-trust",
+      "https://finwiki.zksc.io/JapanFG/midori-trust",
+      "https://finwiki.zksc.io/JapanFG/nichizei-trust",
+      "https://finwiki.zksc.io/JapanFG/oag-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2046,
+    "word_like_tokens": 320,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-22"
+  }
+}

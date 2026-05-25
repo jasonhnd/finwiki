@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/skill-market-monetization",
+  "source_path": "agent-economy/skill-market-monetization.md",
+  "url": "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/skill-market-monetization.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/skill-market-monetization.md",
+  "domain": "agent-economy",
+  "title": "Skill 市场收费化",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Skill 市场收费化",
+    "aliases": [],
+    "domain": "agent-economy",
+    "created": "2026-04-13",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "needs-review"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce",
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
+      "https://www.x402.org/"
+    ]
+  },
+  "summary": "This entry sits under Agent 支付基础设施研究报告. Read it with Agent 主体性辩论：四个阵营 for adjacent context and FinWiki index for the broader system boundary.",
+  "headings": [
+    "Skill 市场收费化",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/2026-04-08_agent-payment-infrastructure-research",
+      "agent-economy/agent-actorship-debate",
+      "agent-economy/ai-company-payment-landscape",
+      "agent-economy/claude-code-extension-architecture",
+      "fintech/usd-stablecoin-interchange",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research",
+      "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
+      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
+      "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1644,
+    "word_like_tokens": 253,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-24"
+  }
+}

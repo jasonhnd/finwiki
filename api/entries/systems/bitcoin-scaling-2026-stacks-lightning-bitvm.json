@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/bitcoin-scaling-2026-stacks-lightning-bitvm",
+  "source_path": "systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
+  "url": "https://finwiki.zksc.io/systems/bitcoin-scaling-2026-stacks-lightning-bitvm",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
+  "domain": "systems",
+  "title": "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 并行栈",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 并行栈",
+    "aliases": [
+      "bitcoin-scaling-2026",
+      "btc-l2-stack",
+      "stacks-lightning-bitvm-babylon",
+      "bitcoin-scaling-stack",
+      "btc-layer2-2026",
+      "sbtc-bitvm-babylon",
+      "bitcoin-scaling-post-2024"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "bitcoin",
+      "scaling",
+      "layer2",
+      "stacks",
+      "lightning",
+      "bitvm",
+      "babylon",
+      "sbtc"
+    ],
+    "status": "active",
+    "sources": [
+      "https://docs.stacks.co",
+      "https://lightning.network/lightning-network-paper.pdf",
+      "https://bitvm.org/bitvm.pdf",
+      "https://babylonchain.io/papers",
+      "https://l2beat.com/scaling/summary",
+      "https://defillama.com/chain/Bitcoin",
+      "Bitcoin Optech newsletter archives",
+      "Galaxy Research \"State of Bitcoin Layers 2026"
+    ]
+  },
+  "summary": "Bitcoin 2026 的 scaling 不是 \"找一个 L2\",而是 四条并行栈分别吃不同需求:Lightning 吃 micropayment + 跨境汇款,Stacks 吃 BTC-native DeFi + sBTC 1:1 锚定,BitVM 吃 trust-minimized general computation(包括 EVM 风格 L2),Babylon 吃 Bitcoin staking 作为 PoS 链共享安全。Ordinals/Inscriptions 与 Runes 等 metaprotocol 不在传统 \"scaling\" 范畴但显著推高 L1 fee 基线。CTV",
+  "headings": [
+    "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 并行栈",
+    "TL;DR",
+    "Wiki route",
+    "Bitcoin scaling 四栈对照",
+    "Stack 1: Lightning Network",
+    "Stack 2: Stacks(sBTC + Nakamoto Release)",
+    "Stack 3: BitVM / BitVM2",
+    "Stack 4: Babylon(Bitcoin Staking)",
+    "Soft fork 状态:CTV / CSFS / drivechain",
+    "Post-2024 Bitcoin L2 TVL 分布"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/x402-cloudflare-aws-edge-integration",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "systems/INDEX",
+      "systems/cctp-v2-overview",
+      "systems/chain-abstraction-pattern-overview",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/eigenlayer-overview",
+      "systems/erc-4337-overview",
+      "systems/pectra-eip-7691-blob-l2-impact",
+      "systems/polygon-agglayer-architecture-rollout",
+      "systems/vitalik-l1-l2-strategy-anchor"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/eigenlayer-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
+      "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout",
+      "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10946,
+    "word_like_tokens": 1955,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

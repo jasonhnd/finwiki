@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-money-partners",
+  "source_path": "exchanges/jp-exchange-money-partners.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-money-partners",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-money-partners.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-money-partners.md",
+  "domain": "exchanges",
+  "title": "株式会社マネーパートナーズ — 日本暗号資産交換業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社マネーパートナーズ — 日本暗号資産交換業者",
+    "aliases": [
+      "Money Partners",
+      "マネーパートナーズ",
+      "MONEY PARTNERS CO.,LTD."
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "fx"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.moneypartners.co.jp/aboutus/outline.html",
+      "https://www.moneypartners.co.jp/crypto/index.html",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "株式会社マネーパートナーズ — 日本暗号資産交換業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-bittrade",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-vasp-derivative-license-system",
+      "exchanges/jp-vasp-ma-consolidation-history",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "external_links_count": 5,
+    "external_links": [
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.moneypartners.co.jp/aboutus/outline.html",
+      "https://www.moneypartners.co.jp/crypto/index.html",
+      "https://www.moneypartners.co.jp/news/2025/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4388,
+    "word_like_tokens": 687,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

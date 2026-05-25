@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-mbo-and-squeeze-out-process",
+  "source_path": "finance/japan-mbo-and-squeeze-out-process.md",
+  "url": "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-mbo-and-squeeze-out-process.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-mbo-and-squeeze-out-process.md",
+  "domain": "finance",
+  "title": "Japan MBO and squeeze-out process",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan MBO and squeeze-out process",
+    "aliases": [
+      "Japan MBO squeeze-out process",
+      "Japan squeeze-out process",
+      "日本 MBO squeeze-out"
+    ],
+    "domain": "finance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "M&A",
+      "MBO",
+      "squeeze-out",
+      "TOB",
+      "disclosure",
+      "Japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf",
+      "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf",
+      "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/3384/en",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/equities/listing/delisting/"
+    ]
+  },
+  "summary": "A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. The public process route includes board and special committee process, valuation / fairness work, TOB launch and disclosure, target opinion / TDnet disclosure, settlement, post-TOB squeeze-out, a",
+  "headings": [
+    "Japan MBO and squeeze-out process",
+    "Overview",
+    "Four-Layer Framework",
+    "Process Map",
+    "Squeeze-Out Routes",
+    "Fairness / Minority-Shareholder Focus",
+    "Financing Overlay",
+    "Source Fields",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/sbi-shinsei-bank",
+      "JapanFG/sony-fg",
+      "JapanFG/wealthnavi",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-activist-investor-playbook",
+      "finance/japan-tender-offer-process",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/JapanFG/wealthnavi",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6656,
+    "word_like_tokens": 1012,
+    "inbound_wikilinks_count": 27,
+    "last_modified": "2026-05-22"
+  }
+}

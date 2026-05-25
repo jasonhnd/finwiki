@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/credit-rating-methodology-jcr-r-and-i",
+  "source_path": "structured-finance/credit-rating-methodology-jcr-r-and-i.md",
+  "url": "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/credit-rating-methodology-jcr-r-and-i.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/credit-rating-methodology-jcr-r-and-i.md",
+  "domain": "structured-finance",
+  "title": "Credit rating methodology (JCR, R&I) for Japan structured finance",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Credit rating methodology (JCR, R&I) for Japan structured finance",
+    "aliases": [
+      "JCR",
+      "R&I",
+      "Japan Credit Rating Agency",
+      "Rating and Investment Information",
+      "Japan rating agencies",
+      "JCR structured finance criteria",
+      "R&I structured finance methodology",
+      "Japan NRSRO",
+      "FSA designated rating agencies"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "rating-agency",
+      "jcr",
+      "r-and-i",
+      "japan",
+      "methodology",
+      "nrsro"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/",
+      "https://www.fsa.go.jp/en/",
+      "https://www.jsda.or.jp/en/"
+    ]
+  },
+  "summary": "JCR (Japan Credit Rating Agency) and R&I (Rating and Investment Information) are Japan's two dominant domestic credit rating agencies for structured finance. Both are FSA-designated as credit rating agencies (the Japanese equivalent of NRSRO designation), and both publish detailed structured-finance",
+  "headings": [
+    "Credit rating methodology (JCR, R&I) for Japan structured finance",
+    "TL;DR",
+    "Wiki route",
+    "1. JCR — Japan Credit Rating Agency",
+    "2. R&I — Rating and Investment Information",
+    "3. FSA designation (NRSRO equivalent)",
+    "4. Methodology vs S&P / Moody's / Fitch",
+    "5. Structured-finance criteria — common elements",
+    "6. RMBS criteria specifics",
+    "7. CMBS criteria specifics"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "banking/INDEX",
+      "finance/INDEX",
+      "structured-finance/INDEX",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/consumer-loan-abs-japan-card-issuer",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-cmbs-issuance-structure",
+      "structured-finance/japan-rmbs-issuance-structure",
+      "structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "structured-finance/jhf-mbs-mechanics",
+      "structured-finance/jhf-mbs-vs-private-rmbs-spread",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/consumer-loan-abs-japan-card-issuer",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-vs-private-rmbs-spread",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8650,
+    "word_like_tokens": 1307,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-05-25"
+  }
+}

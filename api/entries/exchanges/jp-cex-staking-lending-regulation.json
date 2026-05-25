@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-cex-staking-lending-regulation",
+  "source_path": "exchanges/jp-cex-staking-lending-regulation.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-cex-staking-lending-regulation.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-cex-staking-lending-regulation.md",
+  "domain": "exchanges",
+  "title": "国内 CEX ステーキング・レンディングサービス + 規制",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 CEX ステーキング・レンディングサービス + 規制",
+    "aliases": [
+      "JP CEX staking regulation",
+      "国内暗号資産レンディング規制",
+      "JVCEA staking guideline"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "staking",
+      "lending",
+      "regulation",
+      "vasp"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内 CEX ステーキング・レンディングサービス + 規制",
+    "Wiki route",
+    "概要",
+    "国内主要サービス",
+    "規制ポイント",
+    "海外事例",
+    "リスク管理",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jvcea-self-regulatory-overview",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2014,
+    "word_like_tokens": 310,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

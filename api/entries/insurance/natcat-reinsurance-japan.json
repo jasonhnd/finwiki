@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/natcat-reinsurance-japan",
+  "source_path": "insurance/natcat-reinsurance-japan.md",
+  "url": "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/natcat-reinsurance-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/natcat-reinsurance-japan.md",
+  "domain": "insurance",
+  "title": "Nat-cat reinsurance in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Nat-cat reinsurance in Japan",
+    "aliases": [
+      "natcat-reinsurance-japan",
+      "Japan natural catastrophe reinsurance",
+      "日本自然災害再保険",
+      "地震保険再保険"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "non-life-insurance",
+      "reinsurance",
+      "natcat",
+      "earthquake"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.nihonjishin.co.jp/insurance/about.html",
+      "https://www.nihonjishin.co.jp/insurance/system.html",
+      "https://www.sonpo.or.jp/report/statistics/disaster/index.html",
+      "https://www.sonpo.or.jp/insurance/",
+      "https://www.fsa.go.jp/common/law/guide/ins/02c.html"
+    ]
+  },
+  "summary": "This entry sits under insurance index. Read it against Saison Automobile & Fire / SOMPO Direct for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "headings": [
+    "Nat-cat reinsurance in Japan",
+    "Wiki route",
+    "TL;DR",
+    "Risk Map",
+    "Japan Earthquake Scheme",
+    "JapanFG Relevance",
+    "Decision Use",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/daido-fire-marine",
+      "JapanFG/kyoritsu-fire-marine",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/msad",
+      "JapanFG/sompo",
+      "JapanFG/tokio-marine",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/esr-economic-value-solvency",
+      "insurance/saison-automobile-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daido-fire-marine",
+      "https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4122,
+    "word_like_tokens": 605,
+    "inbound_wikilinks_count": 31,
+    "last_modified": "2026-05-21"
+  }
+}

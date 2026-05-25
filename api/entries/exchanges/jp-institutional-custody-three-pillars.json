@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-institutional-custody-three-pillars",
+  "source_path": "exchanges/jp-institutional-custody-three-pillars.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-institutional-custody-three-pillars.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-institutional-custody-three-pillars.md",
+  "domain": "exchanges",
+  "title": "国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較",
+    "aliases": [
+      "JP institutional custody comparison",
+      "国内機関カストディ三強",
+      "Komainu Ginco Fireblocks Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "custody",
+      "institutional",
+      "mpc",
+      "cold-storage",
+      "jp-custody"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://komainu.com/",
+      "https://ginco.co.jp/",
+      "https://www.fireblocks.com/"
+    ]
+  },
+  "summary": "国内機関向けカストディ市場は 技術 (cold vs MPC) × 親会社 (国内 vs 海外) の二軸で分化している。VASP の自社カストディ (bitFlyer / Coincheck / bitbank 等) と並行して、B2B vendor 層 (機関・他 VASP・金融機関向けインフラ供給) が形成されており、その中核に Komainu / Ginco / Fireblocks Japan の三社が位置する。",
+  "headings": [
+    "国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較",
+    "概要",
+    "三社プロファイル",
+    "Komainu Holdings (英国 Jersey)",
+    "株式会社 Ginco (国内独立系)",
+    "Fireblocks Japan (海外 vendor 日本法人)",
+    "技術 / ビジネスモデル比較",
+    "規制位置づけ",
+    "競合層 (海外比較)"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-custody-fireblocks-japan",
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-crypto-garage",
+      "exchanges/jp-exchange-laser-digital-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2006,
+    "word_like_tokens": 322,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-21"
+  }
+}

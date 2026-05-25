@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jcba-japan-crypto-business-association",
+  "source_path": "exchanges/jcba-japan-crypto-business-association.md",
+  "url": "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jcba-japan-crypto-business-association.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jcba-japan-crypto-business-association.md",
+  "domain": "exchanges",
+  "title": "JCBA — 日本暗号資産ビジネス協会 (Japan Crypto-asset Business Association)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JCBA — 日本暗号資産ビジネス協会 (Japan Crypto-asset Business Association)",
+    "aliases": [
+      "JCBA",
+      "日本暗号資産ビジネス協会",
+      "Japan Crypto-asset Business Association",
+      "日本仮想通貨ビジネス協会"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "jcba",
+      "industry-body",
+      "web3",
+      "policy",
+      "self-regulatory-adjacent"
+    ],
+    "status": "active",
+    "sources": [
+      "https://cryptocurrency-association.org/",
+      "https://cryptocurrency-association.org/about/",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against JVCEA — 日本暗号資産取引業協会 自主規制制度 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
+  "headings": [
+    "JCBA — 日本暗号資産ビジネス協会 (Japan Crypto-asset Business Association)",
+    "Wiki route",
+    "概要",
+    "設立経緯と JVCEA との棲み分け",
+    "組織・運営",
+    "主要活動",
+    "会員 (公表ベース・代表例)",
+    "政策レイヤーとしての位置付け",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/japan-blockchain-association-jba",
+      "exchanges/japan-crypto-audit-firm-landscape",
+      "exchanges/japan-crypto-law-firm-landscape",
+      "exchanges/jp-crypto-vc-fund-landscape",
+      "exchanges/jp-custody-fireblocks-japan",
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-bittrade",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jp-web3-policy-public-body-layer",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/japan-blockchain-association-jba",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-law-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-vc-fund-landscape",
+      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jp-web3-policy-public-body-layer",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3519,
+    "word_like_tokens": 503,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

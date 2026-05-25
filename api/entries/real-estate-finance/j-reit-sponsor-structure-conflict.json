@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "real-estate-finance/j-reit-sponsor-structure-conflict",
+  "source_path": "real-estate-finance/j-reit-sponsor-structure-conflict.md",
+  "url": "https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/j-reit-sponsor-structure-conflict.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/real-estate-finance/j-reit-sponsor-structure-conflict.md",
+  "domain": "real-estate-finance",
+  "title": "J-REIT sponsor structure and conflict of interest",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "J-REIT sponsor structure and conflict of interest",
+    "aliases": [
+      "J-REIT sponsor structure",
+      "J-REIT sponsor conflict of interest",
+      "asset management company sponsor J-REIT",
+      "related party transaction J-REIT",
+      "sponsor support agreement J-REIT",
+      "Jリート スポンサー利益相反",
+      "developer sponsor J-REIT",
+      "FSA J-REIT governance scrutiny"
+    ],
+    "domain": "real-estate-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "real-estate-finance",
+      "j-reit",
+      "sponsor",
+      "conflict-of-interest",
+      "related-party-transaction",
+      "fsa"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/markets/products/reit/index.html",
+      "https://j-reit.jp/en/",
+      "https://www.ares.or.jp/en/",
+      "https://www.fsa.go.jp/en/",
+      "https://www.fsa.go.jp/en/regulated/index.html"
+    ]
+  },
+  "summary": "A typical J-REIT looks like a single entity from the outside but is a three-party structure: the investment corporation that issues units, the asset-management company that runs it, and the sponsor (usually a developer) that sits behind both. The sponsor owns the asset-management company, supplies t",
+  "headings": [
+    "J-REIT sponsor structure and conflict of interest",
+    "TL;DR",
+    "Wiki route",
+    "1. The three-party structure",
+    "2. Sponsor-support agreement — what it usually includes",
+    "3. Named sponsors — public mapping",
+    "4. Conflict-of-interest channels",
+    "5. FSA scrutiny lane",
+    "6. Unit-holder protection toolkit",
+    "7. Why this matters for investors"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/sumitomo-mitsui-trust",
+      "banking/INDEX",
+      "banking/trust-bank-custody-operating-comparison",
+      "banking/trust-bank-custody-operating-comparison\\",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "insurance/INDEX",
+      "policy-finance/INDEX",
+      "real-estate-finance/INDEX",
+      "real-estate-finance/j-reit-market-overview",
+      "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
+      "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
+      "real-estate-finance/top-10-j-reit-overview-matrix",
+      "retail/aeon-group",
+      "retail/aeon-group\\",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+      "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison\\",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison",
+      "https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
+      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/aeon-group\\",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11477,
+    "word_like_tokens": 1806,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-05-25"
+  }
+}

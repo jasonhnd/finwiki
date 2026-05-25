@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/fsa-vasp-registration-system",
+  "source_path": "exchanges/fsa-vasp-registration-system.md",
+  "url": "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/fsa-vasp-registration-system.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/fsa-vasp-registration-system.md",
+  "domain": "exchanges",
+  "title": "FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件",
+    "aliases": [
+      "FSA VASP registration",
+      "暗号資産交換業者登録",
+      "改正資金決済法 VASP 制度"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "regulation",
+      "fsa",
+      "registration"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
+      "https://elaws.e-gov.go.jp/"
+    ]
+  },
+  "summary": "2017-04 施行の改正資金決済法により、日本は世界に先駆けて暗号資産交換業の登録制を導入。施行時点で営業中だった事業者は「みなし業者」として暫定的に営業継続が認められ、順次本登録へ移行した。2019 年の法改正で従来の「仮想通貨」呼称が「暗号資産」に統一され、業態名も「暗号資産交換業」となった。所管は金融庁（FSA）、実務窓口は各財務局。",
+  "headings": [
+    "FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件",
+    "制度概要",
+    "登録番号体系",
+    "登録要件 5 本柱",
+    "登録から JVCEA 入会までの流れ"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-gaia",
+      "exchanges/jp-exchange-money-partners",
+      "exchanges/jp-exchange-zaif",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gaia",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-money-partners",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-zaif",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1454,
+    "word_like_tokens": 221,
+    "inbound_wikilinks_count": 137,
+    "last_modified": "2026-05-21"
+  }
+}

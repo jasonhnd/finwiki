@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/uk-fca-crypto-registration-overview",
+  "source_path": "exchanges/uk-fca-crypto-registration-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/uk-fca-crypto-registration-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/uk-fca-crypto-registration-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/uk-fca-crypto-registration-overview.md",
+  "domain": "exchanges",
+  "title": "UK FCA crypto-asset registration regime",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "UK FCA crypto-asset registration regime",
+    "aliases": [
+      "UK FCA crypto registration",
+      "英国 FCA 暗号資産登録",
+      "UK MLR 2017 crypto"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "uk",
+      "fca",
+      "regulation",
+      "benchmark"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fca.org.uk/"
+    ]
+  },
+  "summary": "Brexit 後 (2020-01) UK は EU MiCA から独立し、独自の暗号資産規制路線を選択。FCA (Financial Conduct Authority) による暗号資産事業者登録は MLR 2017 (Money Laundering Regulations 2017) ベースの AML/CFT 登録のみ で、証券性のあるトークンや規制資産は別 framework (FSMA) で扱う二層構造。2026-2027 に向けて暗号資産の phased regulation (段階的規制) が進行中で、現行の AML 中心の枠組みから trading/custody/stable",
+  "headings": [
+    "UK FCA crypto-asset registration regime",
+    "1. 制度概要",
+    "2. 制度の二段階構造",
+    "3. 主要保有事業者 (2024-2026)",
+    "4. 2024 Financial Promotion Regulation",
+    "5. 戦略的位置づけ",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/eu-mica-casp-regime-overview",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/hk-sfc-vasp-licensing-overview",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/sg-mas-dpt-licensing-overview",
+      "exchanges/uae-vara-licensing-overview",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2255,
+    "word_like_tokens": 362,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

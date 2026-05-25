@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/institutional-dlt-adoption-comparison-2026",
+  "source_path": "systems/institutional-dlt-adoption-comparison-2026.md",
+  "url": "https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/institutional-dlt-adoption-comparison-2026.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/institutional-dlt-adoption-comparison-2026.md",
+  "domain": "systems",
+  "title": "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+    "aliases": [
+      "institutional-dlt-adoption-2026",
+      "dlt-platform-comparison-institutional",
+      "canton-fabric-corda-comparison",
+      "institutional-blockchain-adoption-2026",
+      "dlt-financial-institutions-matrix",
+      "bank-dlt-selection-2026"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "dlt",
+      "institutional",
+      "canton",
+      "hyperledger",
+      "corda",
+      "avalanche",
+      "polygon",
+      "rwa",
+      "adoption"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.canton.network",
+      "https://www.hyperledger.org/projects/fabric",
+      "https://r3.com/products/corda/",
+      "https://www.blackrock.com/us/individual/products/333101/blackrock-usd-institutional-digital-liquidity-fund",
+      "https://www.franklintempleton.com/investments/options/money-market-funds",
+      "https://www.avax.network/subnets",
+      "https://l2beat.com/scaling/summary",
+      "https://defillama.com/chains",
+      "https://rwa.xyz",
+      "DTCC, BIS, IMF research reports"
+    ]
+  },
+  "summary": "2026 机构 DLT 选型已从 \"试点阶段\" 进入 \"Canton + 公链 Ethereum 双中心 + Corda 长尾 + Fabric 衰退\" 的成熟分化格局:Canton(Digital Asset / R3 合并后)拿下 G-SIB tokenization 主战场(JPM Kinexys + Goldman DAP + DTCC + BNY),公链 Ethereum L1 通过 BlackRock BUIDL + Franklin BENJI + Ondo 等 RWA 占据 \"可公开交易代币化基金\" 这一极,Corda 在英国 / 新加坡 / 部分 EM 央行 + 中央托管行(",
+  "headings": [
+    "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+    "TL;DR",
+    "Wiki route",
+    "六大机构 DLT 平台对位",
+    "1. Canton(Digital Asset + R3 合并阵营)",
+    "2. Public Ethereum L1(BlackRock + Franklin + Ondo 主导)",
+    "3. Corda(R3,2025 整合后)",
+    "4. Hyperledger Fabric(IBM-led)",
+    "5. Hyperledger Besu(EVM 兼容机构链)",
+    "6. Avalanche Subnets(机构 RWA 长尾)"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/bis-project-agora-overview",
+      "fintech/bis-project-agora-overview\\",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "systems/INDEX",
+      "systems/canton-daml-technical-spec",
+      "systems/canton-mmf-coalition",
+      "systems/canton-overview",
+      "systems/cctp-v2-overview",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/hyperledger-besu-overview",
+      "systems/hyperledger-besu-vs-canton-migration",
+      "systems/polygon-agglayer-architecture-rollout"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview\\",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-daml-technical-spec",
+      "https://finwiki.zksc.io/systems/canton-mmf-coalition",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration",
+      "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10961,
+    "word_like_tokens": 1843,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

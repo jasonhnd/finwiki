@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/deutsche-japan",
+  "source_path": "JapanFG/deutsche-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/deutsche-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/deutsche-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/deutsche-japan.md",
+  "domain": "JapanFG",
+  "title": "ドイチェ・ジャパン (Deutsche Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ドイチェ・ジャパン (Deutsche Japan)",
+    "aliases": [
+      "Deutsche Japan",
+      "ドイツ銀行東京支店",
+      "ドイチェ証券",
+      "Deutsche Bank Tokyo",
+      "Deutsche Securities Inc.",
+      "DSI"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-ib",
+      "banking"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出)",
+      "Deutsche Bank AG 公式日本サイト",
+      "公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ドイチェ・ジャパン (Deutsche Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要日本拠点",
+    "旧法人（縮小・閉鎖済）",
+    "2. 重要歴史・年表",
+    "3. 业务线 map",
+    "4. 戦略与競争",
+    "集中領域"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/bnp-paribas-japan",
+      "JapanFG/citigroup-japan",
+      "JapanFG/socgen-japan",
+      "banking/INDEX",
+      "barclays-japan",
+      "citigroup-japan",
+      "hsbc-japan",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "smfg",
+      "ubs-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bnp-paribas-japan",
+      "https://finwiki.zksc.io/JapanFG/citigroup-japan",
+      "https://finwiki.zksc.io/JapanFG/socgen-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/barclays-japan",
+      "https://finwiki.zksc.io/citigroup-japan",
+      "https://finwiki.zksc.io/hsbc-japan",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ubs-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4626,
+    "word_like_tokens": 684,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-21"
+  }
+}

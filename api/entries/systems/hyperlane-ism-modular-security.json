@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/hyperlane-ism-modular-security",
+  "source_path": "systems/hyperlane-ism-modular-security.md",
+  "url": "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperlane-ism-modular-security.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperlane-ism-modular-security.md",
+  "domain": "systems",
+  "title": "Hyperlane Interchain Security Modules(ISM)· 可插拔验证层",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Hyperlane Interchain Security Modules(ISM)· 可插拔验证层",
+    "aliases": [
+      "hyperlane-ism",
+      "modular-ism",
+      "hyperlane-security"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "bridge",
+      "ism",
+      "hyperlane",
+      "security"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Hyperlane Interchain Security Modules(ISM)· 可插拔验证层",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "fintech/INDEX",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "systems/INDEX",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-overview",
+      "systems/eigenlayer-avs-mechanism",
+      "systems/hyperlane-overview",
+      "systems/hyperlane-vs-layerzero-ccip"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+      "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism",
+      "https://finwiki.zksc.io/systems/hyperlane-overview",
+      "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2875,
+    "word_like_tokens": 446,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

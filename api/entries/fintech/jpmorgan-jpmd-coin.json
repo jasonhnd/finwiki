@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/jpmorgan-jpmd-coin",
+  "source_path": "fintech/jpmorgan-jpmd-coin.md",
+  "url": "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jpmorgan-jpmd-coin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jpmorgan-jpmd-coin.md",
+  "domain": "fintech",
+  "title": "JPMorgan JPMD · 代币化存款 · GENIUS §501 法律分类下的 TD 范式",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JPMorgan JPMD · 代币化存款 · GENIUS §501 法律分类下的 TD 范式",
+    "aliases": [
+      "jpmorgan-jpmd-coin",
+      "JPMD",
+      "JPM Coin Deposit Token",
+      "JPMorgan tokenized deposit"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "tokenized-deposit",
+      "jpmorgan",
+      "kinexys",
+      "td-vs-sc",
+      "genius-501",
+      "base",
+      "canton"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.jpmorgan.com/kinexys",
+      "https://www.jpmorgan.com/onyx/coin-system",
+      "https://www.jpmorgan.com/insights/global-research/payments/digital-assets",
+      "https://www.base.org/ecosystem"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "JPMorgan JPMD · 代币化存款 · GENIUS §501 法律分类下的 TD 范式",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jpm-onyx-wholesale-network",
+      "fintech/multi-megabank-consortium-governance",
+      "fintech/tether-business-model-short-treasury-yield",
+      "fintech/tokenized-deposit-cumulative-volume-scale",
+      "systems/canton-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
+      "https://finwiki.zksc.io/systems/canton-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3643,
+    "word_like_tokens": 665,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-05-25"
+  }
+}

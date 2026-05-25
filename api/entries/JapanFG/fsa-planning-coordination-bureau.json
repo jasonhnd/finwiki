@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/fsa-planning-coordination-bureau",
+  "source_path": "JapanFG/fsa-planning-coordination-bureau.md",
+  "url": "https://finwiki.zksc.io/JapanFG/fsa-planning-coordination-bureau",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fsa-planning-coordination-bureau.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/fsa-planning-coordination-bureau.md",
+  "domain": "JapanFG",
+  "title": "企画市場局 (FSA Planning and Coordination Bureau)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "企画市場局 (FSA Planning and Coordination Bureau)",
+    "aliases": [
+      "JapanFG/fsa-planning-coordination-bureau",
+      "fsa-planning-coordination-bureau",
+      "FSA Planning and Coordination Bureau",
+      "Planning and Coordination Bureau",
+      "企画市場局",
+      "FSA PCB"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regulator",
+      "internal-bureau",
+      "FSA",
+      "planning",
+      "market-policy",
+      "FIEA",
+      "governance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/about/orgchart.html",
+      "https://www.fsa.go.jp/en/about/annual.html",
+      "https://www.fsa.go.jp/en/policy/index.html",
+      "https://www.fsa.go.jp/common/about/sosiki/index.html",
+      "https://www.fsa.go.jp/en/refer/councils/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against FSA 監督局 for the supervision-side counterpart and FSA 総合政策局 for the cross-bureau strategy lane. For market-rule context, anchor through JSDA and the legal / financial licenses index; for the BoJ-side prudential bureau contrast, see BoJ 金融機構局.",
+  "headings": [
+    "企画市場局 (FSA Planning and Coordination Bureau)",
+    "Wiki route",
+    "TL;DR",
+    "1. Function / scope",
+    "2. Counterparty / interaction",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-financial-system-dept",
+      "JapanFG/cpaaob",
+      "JapanFG/fsa-inspection-bureau",
+      "JapanFG/fsa-strategy-bureau",
+      "JapanFG/fsa-supervision-bureau",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "banking/INDEX",
+      "exchanges/fsa-vasp-registration-system"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-financial-system-dept",
+      "https://finwiki.zksc.io/JapanFG/cpaaob",
+      "https://finwiki.zksc.io/JapanFG/fsa-inspection-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6084,
+    "word_like_tokens": 957,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

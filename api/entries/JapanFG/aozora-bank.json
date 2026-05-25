@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/aozora-bank",
+  "source_path": "JapanFG/aozora-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/aozora-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aozora-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/aozora-bank.md",
+  "domain": "JapanFG",
+  "title": "あおぞら銀行 (Aozora Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "あおぞら銀行 (Aozora Bank)",
+    "aliases": [
+      "Aozora Bank",
+      "あおぞら銀行",
+      "株式会社あおぞら銀行",
+      "Aozora",
+      "旧 日本債券信用銀行",
+      "日債銀",
+      "Nippon Credit Bank",
+      "NCB"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "post-rehab"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: あおぞら銀行 (2026-05-19 抽出)",
+      "Wikipedia: 日本債券信用銀行 (2026-05-19 抽出)",
+      "あおぞら銀行 2025-03 期 決算短信 / 有価証券報告書"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SBI 新生銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "あおぞら銀行 (Aozora Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要株主構成（推移）^[extracted]",
+    "主要子会社・関連会社 ^[extracted]",
+    "重要年表 ^[extracted]",
+    "関連事業（個人向けブランド）",
+    "2. 业务线 map",
+    "3. 战略与竞争"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/sbi-shinsei-bank",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4934,
+    "word_like_tokens": 724,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-21"
+  }
+}

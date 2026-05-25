@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/seven-and-i-hd",
+  "source_path": "retail/seven-and-i-hd.md",
+  "url": "https://finwiki.zksc.io/retail/seven-and-i-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/seven-and-i-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/seven-and-i-hd.md",
+  "domain": "retail",
+  "title": "Seven & i Holdings",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Seven & i Holdings",
+    "aliases": [
+      "seven-and-i-hd",
+      "Seven & i",
+      "セブン&アイ・ホールディングス"
+    ],
+    "domain": "retail",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "retail",
+      "convenience-store",
+      "atm-bank",
+      "payments",
+      "loyalty",
+      "financial-services"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.7andi.com/en/company/profile",
+      "https://www.7andi.com/en/ir/library/co_financial/2025/finance/",
+      "https://www.sevenbank.co.jp/english/corp/",
+      "https://www.sevenbank.co.jp/group/",
+      "https://www.nanaco-net.jp/introduction/"
+    ]
+  },
+  "summary": "Seven & i is a convenience-store-centered retail platform whose finance stack is anchored by Seven Bank ATM infrastructure, Seven Card Service, and nanaco. In JapanFG terms, Seven & i is less a universal financial group and more a retail infrastructure owner: high-frequency convenience-store traffic",
+  "headings": [
+    "Seven & i Holdings",
+    "TL;DR",
+    "Structure",
+    "Financial-Services Model",
+    "Key Financial Assets",
+    "Competitive Position",
+    "Regulatory / Legal Reading",
+    "Strategic Reading",
+    "Open Questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/lawson-bank",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "JapanFG/seven-bank",
+      "loyalty/japan-points-landscape",
+      "payments/cashless-jp-landscape",
+      "retail/INDEX",
+      "retail/aeon-group"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/lawson-bank",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5332,
+    "word_like_tokens": 850,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-05-20"
+  }
+}

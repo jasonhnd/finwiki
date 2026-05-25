@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/post-quantum-blockchain-day1-integration",
+  "source_path": "systems/post-quantum-blockchain-day1-integration.md",
+  "url": "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/post-quantum-blockchain-day1-integration.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/post-quantum-blockchain-day1-integration.md",
+  "domain": "systems",
+  "title": "抗量子签名 day-1 集成的经济学",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "抗量子签名 day-1 集成的经济学（FIPS 205 SLH-DSA on Arc）",
+    "aliases": [
+      "post-quantum blockchain",
+      "SLH-DSA-SHA2-128s",
+      "FIPS 205",
+      "Arc PQ signature"
+    ],
+    "domain": "systems",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "blockchain",
+      "post-quantum",
+      "cryptography",
+      "FIPS-205"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "抗量子签名 day-1 集成的经济学",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 4,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "systems/INDEX",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 829,
+    "word_like_tokens": 134,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-21"
+  }
+}

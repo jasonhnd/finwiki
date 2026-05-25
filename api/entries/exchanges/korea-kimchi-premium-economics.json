@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/korea-kimchi-premium-economics",
+  "source_path": "exchanges/korea-kimchi-premium-economics.md",
+  "url": "https://finwiki.zksc.io/exchanges/korea-kimchi-premium-economics",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/korea-kimchi-premium-economics.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/korea-kimchi-premium-economics.md",
+  "domain": "exchanges",
+  "title": "韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造",
+    "aliases": [
+      "Korea kimchi premium",
+      "韓国仮想通貨プレミアム",
+      "KRW BTC premium"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "korea",
+      "kimchi-premium",
+      "market-structure",
+      "arbitrage"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://upbit.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造",
+    "Wiki route",
+    "概要",
+    "構造的要因",
+    "数値変動",
+    "arbitrage 戦略 + 制約",
+    "海外 vs 国内市場 含意",
+    "関連項目"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jvcea-spot-volume-statistics-analysis",
+      "exchanges/korea-cex-five-pillars-comparison",
+      "fintech/cross-border-sc-via-swift-api",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1984,
+    "word_like_tokens": 319,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-24"
+  }
+}

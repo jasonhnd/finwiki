@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-custody-fireblocks-japan",
+  "source_path": "exchanges/jp-custody-fireblocks-japan.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-custody-fireblocks-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-custody-fireblocks-japan.md",
+  "domain": "exchanges",
+  "title": "Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）",
+    "aliases": [
+      "Fireblocks",
+      "ファイアブロックス",
+      "Fireblocks Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-custody",
+      "fireblocks",
+      "mpc-custody",
+      "foreign-vendor"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fireblocks.com/about/",
+      "https://www.fireblocks.com/customers/mitsui/",
+      "https://en.wikipedia.org/wiki/Fireblocks",
+      "https://www.linkedin.com/company/fireblocks/",
+      "https://coinpost.jp/?s=Fireblocks",
+      "https://www.neweconomy.jp/?s=Fireblocks"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 対応アセット",
+    "4. 業務範囲・主要プロダクト",
+    "5. 市場ポジション・競合比較",
+    "グローバル institutional custody 市場",
+    "日本国内競合・住み分け",
+    "6. 沿革・日本展開"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "agent-economy/embedded-wallet-network-effects-moat",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-trust-type-sc-architecture",
+      "fintech/maina-wallet-kyc-permissionless-ux-bridge",
+      "jp-custody-komainu",
+      "jp-exchange-sbi-vc-trade"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/fintech/maina-wallet-kyc-permissionless-ux-bridge",
+      "https://finwiki.zksc.io/jp-custody-komainu",
+      "https://finwiki.zksc.io/jp-exchange-sbi-vc-trade"
+    ],
+    "external_links_count": 8,
+    "external_links": [
+      "https://coinpost.jp/?s=Fireblocks",
+      "https://coinpost.jp/?s=Fireblocks+SMBC",
+      "https://en.wikipedia.org/wiki/Fireblocks",
+      "https://www.fireblocks.com/about/",
+      "https://www.fireblocks.com/customers/mitsui/",
+      "https://www.ginco.co.jp/en",
+      "https://www.linkedin.com/company/fireblocks/",
+      "https://www.neweconomy.jp/?s=Fireblocks+%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 6310,
+    "word_like_tokens": 972,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

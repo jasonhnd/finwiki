@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ricoh-leasing",
+  "source_path": "JapanFG/ricoh-leasing.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ricoh-leasing",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ricoh-leasing.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ricoh-leasing.md",
+  "domain": "JapanFG",
+  "title": "リコーリース",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "リコーリース",
+    "aliases": [
+      "Ricoh Leasing",
+      "リコーリース株式会社",
+      "Ricoh Leasing Company, Ltd.",
+      "ricoh-leasing"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "finance",
+      "ricoh-group",
+      "captive-lease",
+      "mizuho"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.r-lease.co.jp/",
+      "https://www.r-lease.co.jp/ir/",
+      "https://www.leasing.or.jp/",
+      "東証 PRIME 8566 上場 公開情報"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with Mizuho FG and Mizuho Leasing when mapping Mizuho-side asset-finance e",
+  "headings": [
+    "リコーリース",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fuyo-lease",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-lease",
+      "JapanFG/orix-corp",
+      "JapanFG/tokyo-century",
+      "JapanFG/toyota-finance",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/JapanFG/toyota-finance",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3292,
+    "word_like_tokens": 461,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

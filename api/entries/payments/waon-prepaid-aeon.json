@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/waon-prepaid-aeon",
+  "source_path": "payments/waon-prepaid-aeon.md",
+  "url": "https://finwiki.zksc.io/payments/waon-prepaid-aeon",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/waon-prepaid-aeon.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/waon-prepaid-aeon.md",
+  "domain": "payments",
+  "title": "WAON: AEON Group nationwide IC prepaid e-money",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "WAON: AEON Group nationwide IC prepaid e-money",
+    "aliases": [
+      "waon-prepaid-aeon",
+      "WAON 電子マネー",
+      "AEON WAON prepaid",
+      "ワオン 前払式支払手段",
+      "WAON POINT 連携"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "electronic-money",
+      "retail-anchor",
+      "felica",
+      "waon",
+      "aeon",
+      "point-integration"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.waon.net/",
+      "https://www.aeon.co.jp/",
+      "https://www.aeon.co.jp/sustainability/society/aeoncard_pay/",
+      "https://www.aeonfinancial.co.jp/",
+      "https://www.aeonbank.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the AEON-anchored prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view and with WAON vs nanaco retail prepaid comparison for the head-to-head retail anchor comparison. Compare with nanaco (Seven & i counterp",
+  "headings": [
+    "WAON: AEON Group nationwide IC prepaid e-money",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and operational structure",
+    "Legal basis: 前払式支払手段 (third-party prepaid payment instrument)",
+    "Acceptance footprint",
+    "KPI snapshot",
+    "Strategy: closed-loop loyalty anchor",
+    "Counterpoints",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aeon-bank",
+      "JapanFG/aeon-bank\\",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/aeon-financial-service\\",
+      "JapanFG/au-payment",
+      "JapanFG/paypay",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/edy-rakuten-prepaid",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/waon-nanaco-retail-prepaid-comparison",
+      "retail/aeon-group"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank\\",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service\\",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/paypay",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/edy-rakuten-prepaid",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/japan-transit-prepaid-suica-pasmo-icoca-economics",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/waon-nanaco-retail-prepaid-comparison",
+      "https://finwiki.zksc.io/retail/aeon-group"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9032,
+    "word_like_tokens": 1456,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

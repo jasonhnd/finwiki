@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/smbc-card",
+  "source_path": "JapanFG/smbc-card.md",
+  "url": "https://finwiki.zksc.io/JapanFG/smbc-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smbc-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/smbc-card.md",
+  "domain": "JapanFG",
+  "title": "三井住友カード (SMCC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井住友カード (SMCC)",
+    "aliases": [
+      "SMBC Card",
+      "Sumitomo Mitsui Card",
+      "三井住友カード",
+      "三井住友カード株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "acquirer",
+      "consumer-credit"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.smbc-card.com/company/info/outline.jsp",
+      "https://www.smbc-card.com/company/index.jsp",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱UFJニコス (Mitsubishi UFJ NICOS) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "三井住友カード (SMCC)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/mufg-nicos",
+      "JapanFG/smbc-consumer-finance",
+      "JapanFG/smfg",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "payments/INDEX",
+      "payments/card-acquiring-japan-stack",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg-nicos",
+      "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2210,
+    "word_like_tokens": 336,
+    "inbound_wikilinks_count": 29,
+    "last_modified": "2026-05-21"
+  }
+}

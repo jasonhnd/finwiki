@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/japan-short-selling-and-stock-loan-controls",
+  "source_path": "securities/japan-short-selling-and-stock-loan-controls.md",
+  "url": "https://finwiki.zksc.io/securities/japan-short-selling-and-stock-loan-controls",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-short-selling-and-stock-loan-controls.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-short-selling-and-stock-loan-controls.md",
+  "domain": "securities",
+  "title": "Japan short-selling and stock-loan controls",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan short-selling and stock-loan controls",
+    "aliases": [
+      "japan-short-selling-and-stock-loan-controls",
+      "Japan short selling controls",
+      "空売り stock-loan controls"
+    ],
+    "domain": "securities",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "short-selling",
+      "stock-loan",
+      "regulation",
+      "margin-trading",
+      "JPX",
+      "JSF"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/equities/trading/regulations/02.html",
+      "https://www.jpx.co.jp/equities/trading/regulations/02.html",
+      "https://www.jpx.co.jp/english/markets/public/short-selling/",
+      "https://www.jpx.co.jp/english/markets/statistics-equities/short-selling/",
+      "https://www.jpx.co.jp/english/equities/trading/margin/regulations/index.html",
+      "https://www.fsa.go.jp/en/news/2008/20081027-2.html",
+      "https://www.fsa.go.jp/en/news/2013/20130423.html",
+      "https://www.fsa.go.jp/access/25/123a.html",
+      "https://www.jsf.co.jp/en/business/security-finance.html"
+    ]
+  },
+  "summary": "Japan short selling sits on three connected control surfaces: legal short-selling rules, stock-borrow / securities-finance availability, and exchange / broker issue-level restrictions. Do not treat short interest, JSF loan balance, margin selling, and securities lending as one number.",
+  "headings": [
+    "Japan short-selling and stock-loan controls",
+    "Overview",
+    "Control Layers",
+    "Data Map",
+    "Stock Loan vs Short Selling",
+    "JapanFG Relevance",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/dmm-com-securities",
+      "JapanFG/gmo-click-securities",
+      "JapanFG/japan-securities-finance",
+      "JapanFG/matsui-sec",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/rakuten-securities",
+      "JapanFG/sbi-securities",
+      "JapanFG/smbc-nikko",
+      "money-market/jgb-repo-market-japan",
+      "securities/INDEX",
+      "securities/japan-best-execution-sor-pts",
+      "securities/japan-margin-trading-and-securities-finance",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-pts-liquidity-data-guide",
+      "securities/japan-stock-lending-market-route",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
+      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
+      "https://finwiki.zksc.io/JapanFG/matsui-sec",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts",
+      "https://finwiki.zksc.io/securities/japan-margin-trading-and-securities-finance",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-pts-liquidity-data-guide",
+      "https://finwiki.zksc.io/securities/japan-stock-lending-market-route",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5601,
+    "word_like_tokens": 846,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-22"
+  }
+}

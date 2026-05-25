@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/ap2-overview",
+  "source_path": "agent-economy/ap2-overview.md",
+  "url": "https://finwiki.zksc.io/agent-economy/ap2-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ap2-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ap2-overview.md",
+  "domain": "agent-economy",
+  "title": "AP2 · Google Agent Payments Protocol 概览",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "AP2 · Google Agent Payments Protocol 概览",
+    "aliases": [
+      "ap2-overview",
+      "agent-payments-protocol-overview",
+      "google-ap2-overview"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "protocol",
+      "payment",
+      "google",
+      "ap2"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against AP2 采用版图 · Google 闭环 vs 协议四国杀 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "AP2 · Google Agent Payments Protocol 概览",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-adoption",
+      "agent-economy/ap2-technical-spec",
+      "agent-economy/erc-7715-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-overview",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-adoption",
+      "https://finwiki.zksc.io/agent-economy/ap2-technical-spec",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2535,
+    "word_like_tokens": 417,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/saxo-bank-securities",
+  "source_path": "JapanFG/saxo-bank-securities.md",
+  "url": "https://finwiki.zksc.io/JapanFG/saxo-bank-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/saxo-bank-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/saxo-bank-securities.md",
+  "domain": "JapanFG",
+  "title": "サクソバンク証券",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "サクソバンク証券",
+    "aliases": [
+      "Saxo Bank Securities",
+      "サクソバンク証券",
+      "サクソバンク証券株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "fx",
+      "cfd",
+      "foreign-broker",
+      "fiea-operator"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.home.saxo/ja-jp/about-us/company",
+      "https://www.home.saxo/ja-jp/about-us"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against GMOクリック証券 for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "サクソバンク証券",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/citigroup-japan",
+      "JapanFG/dmm-com-securities",
+      "JapanFG/gmo-click-securities",
+      "JapanFG/goldman-sachs-japan",
+      "JapanFG/sbi-fx-trade",
+      "JapanFG/traders-securities",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/citigroup-japan",
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
+      "https://finwiki.zksc.io/JapanFG/goldman-sachs-japan",
+      "https://finwiki.zksc.io/JapanFG/sbi-fx-trade",
+      "https://finwiki.zksc.io/JapanFG/traders-securities",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1723,
+    "word_like_tokens": 268,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/sovereign-fund-crypto-allocation-pattern",
+  "source_path": "fintech/sovereign-fund-crypto-allocation-pattern.md",
+  "url": "https://finwiki.zksc.io/fintech/sovereign-fund-crypto-allocation-pattern",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/sovereign-fund-crypto-allocation-pattern.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/sovereign-fund-crypto-allocation-pattern.md",
+  "domain": "fintech",
+  "title": "主权基金加密基础设施配置模式",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "主权基金加密基础设施配置模式",
+    "aliases": [
+      "sovereign fund crypto allocation",
+      "Mubadala Arc",
+      "Aramco BlackRock middle east crypto",
+      "sovereign wealth digital asset"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "sovereign-wealth",
+      "crypto",
+      "mubadala",
+      "aramco",
+      "blackrock",
+      "middle-east",
+      "allocation"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.mubadala.com/en/news",
+      "https://www.aramco.com/en/investors",
+      "https://www.blackrock.com/corporate/newsroom",
+      "https://www.pif.gov.sa/",
+      "https://www.swfinstitute.org/fund-rankings/sovereign-wealth-fund"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "主权基金加密基础设施配置模式",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-institutional-custody-five-pillars",
+      "fintech/INDEX",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/sovereign-capital-pool-aramco-anchor",
+      "fintech/three-circles-stablecoin-mra-framework",
+      "fintech/wall-street-crypto-network-neutrality"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2843,
+    "word_like_tokens": 466,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

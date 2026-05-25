@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/eu-mica-implementation-status-2026",
+  "source_path": "fintech/eu-mica-implementation-status-2026.md",
+  "url": "https://finwiki.zksc.io/fintech/eu-mica-implementation-status-2026",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/eu-mica-implementation-status-2026.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/eu-mica-implementation-status-2026.md",
+  "domain": "fintech",
+  "title": "EU MiCA 实施状态 2026-05 · EMT/ART 持牌图谱 × USDT 退出 × USDC 市场份额重塑",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "EU MiCA 实施状态 2026-05 · EMT/ART 持牌图谱 × USDT 退出 × USDC 市场份额重塑",
+    "aliases": [
+      "eu-mica-implementation-status-2026",
+      "MiCA 2026 status",
+      "EUROC migration",
+      "Circle Europe EURC",
+      "Société Générale EURCV",
+      "BBVA EUR stablecoin",
+      "Tether USDT EU delisting",
+      "ESMA EBA coordination",
+      "MiCA EMT license tracker"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "mica",
+      "eu",
+      "regulation",
+      "emt",
+      "art",
+      "2026-event"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.esma.europa.eu/policy-activities/crypto-assets",
+      "https://www.eba.europa.eu/regulation-and-policy/crypto-assets-mica",
+      "https://www.circle.com/en/legal/eurc-mica",
+      "https://www.sgforge.com/product/eurcv/",
+      "https://www.bbva.com/en/innovation/bbva-launches-euro-stablecoin/",
+      "https://tether.to/en/news/2024-eu-delisting/",
+      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
+      "https://www.bafin.de/EN/Aufsicht/MiCAR/MiCAR_node.html"
+    ]
+  },
+  "summary": "EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) 自 2024-06 SC (EMT/ART) 部分生效 以及 2024-12 全面生效 后, 进入 18 个月的实施稳态。2026-05 状态: EMT 持牌方约 22 家 (跨 13 个成员国), ART 持牌方仅 3 家 (Bitstamp Pay / Quantoz EURD / Société Générale 部分产品), USDT 在欧盟主流交易所流通几乎归零 (从 2024-12 ~28% 份额降至 2026-05 ~1%), USDC",
+  "headings": [
+    "EU MiCA 实施状态 2026-05 · EMT/ART 持牌图谱 × USDT 退出 × USDC 市场份额重塑",
+    "TL;DR",
+    "Wiki route",
+    "实施时间线 (2024-2026)",
+    "EMT (E-Money Token) 持牌方图谱 (2026-05)",
+    "ART (Asset-Referenced Token) 持牌方图谱 (2026-05)",
+    "USDT 退出欧盟与 USDC 份额重塑",
+    "主要欧元 SC 详解",
+    "Circle EURC",
+    "Société Générale-FORGE EURCV (Euro Coin Vertu)"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "fintech/INDEX",
+      "fintech/brazil-mexico-cbdc-stablecoin-push-2026",
+      "fintech/circular-reserve-asset-flywheel-overview",
+      "fintech/dora-eu-digital-operational-resilience-ctpp",
+      "fintech/dora-eu-digital-operational-resilience-overview",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/mica-cross-border-implications",
+      "fintech/mica-emt-art-subcategories-deep-dive",
+      "fintech/mica-overview",
+      "fintech/tether-business-model-short-treasury-yield",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/brazil-mexico-cbdc-stablecoin-push-2026",
+      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
+      "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-ctpp",
+      "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-overview",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/mica-cross-border-implications",
+      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
+      "https://finwiki.zksc.io/fintech/mica-overview",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9202,
+    "word_like_tokens": 1795,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

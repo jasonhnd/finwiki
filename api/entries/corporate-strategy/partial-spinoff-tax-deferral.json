@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/partial-spinoff-tax-deferral",
+  "source_path": "corporate-strategy/partial-spinoff-tax-deferral.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/partial-spinoff-tax-deferral.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/partial-spinoff-tax-deferral.md",
+  "domain": "corporate-strategy",
+  "title": "パーシャルスピンオフ税制 — partial spin-off tax deferral",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "パーシャルスピンオフ税制 — partial spin-off tax deferral",
+    "aliases": [
+      "partial-spinoff-tax-deferral",
+      "パーシャルスピンオフ税制",
+      "partial spin-off tax deferral"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "tax",
+      "spin-off",
+      "Japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
+      "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/2306spinoff_QA.pdf",
+      "https://www.mof.go.jp/public_relations/finance/202402/202402e.html",
+      "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
+      "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy index and FinWiki index. Read it with 会社分割 tax regime for the legal-plumbing peer, Sony FG as the main public transaction example, and finance index for adjacent capital-markets context.",
+  "headings": [
+    "パーシャルスピンオフ税制 — partial spin-off tax deferral",
+    "Wiki route",
+    "TL;DR",
+    "1. 制度结构",
+    "2. 典型 transaction flow",
+    "3. Sony FG case",
+    "4. Strategic reading",
+    "5. 监管与政策",
+    "Counterpoints",
+    "Open questions"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/sony-fg",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process",
+      "securities/japan-ipo-listing-disclosure-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3949,
+    "word_like_tokens": 535,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-25"
+  }
+}

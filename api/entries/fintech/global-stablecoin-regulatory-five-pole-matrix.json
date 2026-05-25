@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/global-stablecoin-regulatory-five-pole-matrix",
+  "source_path": "fintech/global-stablecoin-regulatory-five-pole-matrix.md",
+  "url": "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/global-stablecoin-regulatory-five-pole-matrix.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/global-stablecoin-regulatory-five-pole-matrix.md",
+  "domain": "fintech",
+  "title": "グローバル・ステーブルコイン規制 五極比較マトリクス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グローバル・ステーブルコイン規制 五極比較マトリクス（US GENIUS / EU MiCA / 日本 EPI / HK / SG）",
+    "aliases": [
+      "global-stablecoin-regulatory-five-pole-matrix",
+      "five-pole stablecoin matrix",
+      "stablecoin global comparison",
+      "GENIUS vs MiCA vs EPI vs HKMA vs MAS"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "regulation",
+      "comparison",
+      "GENIUS",
+      "MiCA",
+      "EPI",
+      "HKMA",
+      "MAS",
+      "matrix"
+    ],
+    "status": "active",
+    "sources": [
+      "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets",
+      "https://occ.treas.gov/topics/charters-and-licensing/index-charters-and-licensing.html",
+      "https://www.esma.europa.eu/policy-activities/crypto-assets",
+      "https://www.eba.europa.eu/regulation-and-policy/markets-in-crypto-assets-mica",
+      "https://www.fsa.go.jp/policy/dem_dl/index.html",
+      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
+      "https://www.mas.gov.sg/regulation/payments",
+      "https://www.mas.gov.sg/regulation/explainers/a-guide-to-digital-token-offerings"
+    ]
+  },
+  "summary": "This entry sits under fintech index and is the cross-jurisdictional matrix view that sits above the per-regime overviews. It complements the geopolitical lens of fintech/three-circles-stablecoin-mra-framework (which collapses the world into three MRA circles), by instead enumerating all five active",
+  "headings": [
+    "グローバル・ステーブルコイン規制 五極比較マトリクス",
+    "Wiki route",
+    "Why a five-pole comparison",
+    "Matrix A · Statute, regulator, dates",
+    "Matrix B · Scope and excluded designs",
+    "Matrix C · Permitted issuer types",
+    "Matrix D · Reserve composition, redemption, capital",
+    "Matrix E · Cross-border and third-country access",
+    "Matrix F · Disclosure, audit, AML, resolution",
+    "Matrix G · Permitted use, distribution, interoperability"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/INDEX",
+      "fintech/INDEX",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/hkma-stablecoin-licensing-overview",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mica-overview",
+      "fintech/singapore-mas-payment-services-act-overview",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mica-overview",
+      "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 14287,
+    "word_like_tokens": 2461,
+    "inbound_wikilinks_count": 31,
+    "last_modified": "2026-05-24"
+  }
+}

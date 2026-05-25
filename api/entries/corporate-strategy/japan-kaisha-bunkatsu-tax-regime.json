@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+  "source_path": "corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
+  "domain": "corporate-strategy",
+  "title": "会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession",
+    "aliases": [
+      "japan-kaisha-bunkatsu-tax-regime",
+      "会社分割 税制",
+      "japan corporate split tax",
+      "kyushu bunkatsu shinsetsu bunkatsu",
+      "tekikaku bunkatsu",
+      "qualified corporate split japan",
+      "労働契約承継法 corporate split",
+      "japan demerger tax regime"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "tax",
+      "m-and-a",
+      "japan",
+      "demerger"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
+      "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/spinoff.html",
+      "https://www.mhlw.go.jp/general/seido/koyou/kyousai/index.html",
+      "https://elaws.e-gov.go.jp/document?lawid=412AC0000000103"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the transaction-finance overlay. Read with partial spinoff tax deferral for the comparison to distribution-type spinoffs, Japan MBO / squeeze-out process for the contrast with private take-out routes, and Japan tender o",
+  "headings": [
+    "会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession",
+    "Wiki route",
+    "TL;DR",
+    "Two-Axis Structural Map",
+    "Direction Axis — Absorption vs Incorporation",
+    "吸収分割 (absorption-type, Companies Act art. 757-766)",
+    "新設分割 (incorporation-type, Companies Act art. 762-766)",
+    "Tax Axis — 適格 vs 非適格",
+    "適格分割 tests (simplified)",
+    "非適格分割 consequences"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-ib-league-table",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process",
+      "finance/multi-jurisdiction-identity-tax-leverage",
+      "governance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+      "https://finwiki.zksc.io/governance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16096,
+    "word_like_tokens": 2637,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

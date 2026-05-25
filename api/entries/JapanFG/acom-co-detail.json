@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/acom-co-detail",
+  "source_path": "JapanFG/acom-co-detail.md",
+  "url": "https://finwiki.zksc.io/JapanFG/acom-co-detail",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/acom-co-detail.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/acom-co-detail.md",
+  "domain": "JapanFG",
+  "title": "アコム 事業詳細 (Acom Operating Profile)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アコム 事業詳細 (Acom Operating Profile)",
+    "aliases": [
+      "Acom Operating Profile",
+      "アコム事業詳細",
+      "アコム operating",
+      "Acom Co. Detail",
+      "アコム株式会社 事業詳細"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "consumer-finance",
+      "mufg",
+      "operating-profile",
+      "lending",
+      "guarantee",
+      "edinet"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.acom.co.jp/corporate/corporate/overview.html",
+      "https://www.acom.co.jp/corporate/ir/",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www.mufg.jp/profile/group/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index and complements the company-level summary at アコム株式会社. Read it against SMBCコンシューマーファイナンス (プロミス) for MUFG-group competitor SMFG-side context, アイフル for independent-pure-play consumer-finance peer, and MUFG / 三菱UFJ銀行 for parent-group context.",
+  "headings": [
+    "アコム 事業詳細 (Acom Operating Profile)",
+    "Wiki route",
+    "TL;DR",
+    "1. 親グループ関係",
+    "2. 事業セグメント詳細",
+    "2.1 ローン事業（個人向け無担保ローン）",
+    "2.2 クレジットカード事業",
+    "2.3 信用保証事業（戦略的中核）",
+    "2.4 海外金融事業",
+    "3. 法人セグメント別収益構造"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/acom",
+      "JapanFG/aiful",
+      "JapanFG/jaccs",
+      "JapanFG/mufg",
+      "JapanFG/mufg-bank",
+      "JapanFG/orico",
+      "JapanFG/smbc-consumer-finance",
+      "banking/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/acom",
+      "https://finwiki.zksc.io/JapanFG/aiful",
+      "https://finwiki.zksc.io/JapanFG/jaccs",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/orico",
+      "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
+      "https://finwiki.zksc.io/banking/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4441,
+    "word_like_tokens": 652,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

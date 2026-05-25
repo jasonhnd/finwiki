@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/okinawa-kaiho-bank",
+  "source_path": "JapanFG/okinawa-kaiho-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/okinawa-kaiho-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/okinawa-kaiho-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/okinawa-kaiho-bank.md",
+  "domain": "JapanFG",
+  "title": "株式会社沖縄海邦銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社沖縄海邦銀行",
+    "aliases": [
+      "沖縄海邦銀行",
+      "海邦銀行",
+      "かいぎん",
+      "海銀",
+      "Okinawa Kaiho Bank",
+      "The Okinawa Kaiho Bank",
+      "Ltd."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "okinawa",
+      "second-tier"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.kaiho-bank.co.jp/about/kigyo/gaiyo/",
+      "Wikipedia: 沖縄海邦銀行 (公開項目)",
+      "沖縄海邦銀行 公式サイト (https://www.kaiho-bank.co.jp/) 沿革",
+      "沖縄海邦銀行 ディスクロージャー誌 (公表分)",
+      "第二地方銀行協会 加盟行一覧 (公開分)",
+      "沖縄県金融業界一般公開情報"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社沖縄海邦銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "設立から普通銀行転換までの沿革",
+    "沖縄県内 3 行寡占構造での位置",
+    "主要子会社・関連会社（公開情報の概要）",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "第二地銀ゆえの戦略テーマ"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/jimoto-hd",
+      "banking/INDEX",
+      "fidea-hd",
+      "jimoto-hd",
+      "mizuho-fg",
+      "mufg",
+      "okinawa-fg",
+      "okinawa-shinko",
+      "ryukyu-bank",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jimoto-hd",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fidea-hd",
+      "https://finwiki.zksc.io/jimoto-hd",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/okinawa-fg",
+      "https://finwiki.zksc.io/okinawa-shinko",
+      "https://finwiki.zksc.io/ryukyu-bank",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5546,
+    "word_like_tokens": 730,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

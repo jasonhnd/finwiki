@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-coinhub",
+  "source_path": "exchanges/jp-exchange-coinhub.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-coinhub",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-coinhub.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-coinhub.md",
+  "domain": "exchanges",
+  "title": "COINHUB株式会社 — 日本暗号資産交換業者",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "COINHUB株式会社 — 日本暗号資産交換業者",
+    "aliases": [
+      "COINHUB",
+      "CoinHub",
+      "COINHUB株式会社",
+      "コインハブ"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "jp-crypto-exchange",
+      "vasp",
+      "crypto-atm",
+      "fsa-registered"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://coinhub.co.jp/en"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "COINHUB株式会社 — 日本暗号資産交換業者",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・牌照",
+    "2. 業務範囲",
+    "3. 戦略動向",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-crypto-exchange-overview",
+      "exchanges/jp-crypto-merchant-payment-lightning",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-finx-jcrypto",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-exchange-overview",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-merchant-payment-lightning",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-finx-jcrypto",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2783,
+    "word_like_tokens": 448,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

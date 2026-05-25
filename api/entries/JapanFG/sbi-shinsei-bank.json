@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sbi-shinsei-bank",
+  "source_path": "JapanFG/sbi-shinsei-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sbi-shinsei-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sbi-shinsei-bank.md",
+  "domain": "JapanFG",
+  "title": "SBI 新生銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBI 新生銀行",
+    "aliases": [
+      "SBI 新生銀行",
+      "SBI Shinsei Bank",
+      "新生銀行",
+      "Shinsei Bank",
+      "日本長期信用銀行",
+      "LTCB",
+      "Long-Term Credit Bank of Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "post-rehab"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: SBI新生銀行 (2026-05-19 抽出)",
+      "Wikipedia: 日本長期信用銀行 (2026-05-19 抽出)",
+      "SBI HD IR (2023-09 完全子会社化、2023-12 商号変更)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against あおぞら銀行 (Aozora Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBI 新生銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "業態の特殊性 ^[extracted]",
+    "主要子会社（連結）",
+    "重要年表（抜粋）^[extracted]",
+    "公的資金未返済問題 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aozora-bank",
+      "aozora-bank",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aozora-bank",
+      "https://finwiki.zksc.io/aozora-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4563,
+    "word_like_tokens": 705,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-05-21"
+  }
+}

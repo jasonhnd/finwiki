@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "real-estate-finance/top-10-j-reit-overview-matrix",
+  "source_path": "real-estate-finance/top-10-j-reit-overview-matrix.md",
+  "url": "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/top-10-j-reit-overview-matrix.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/real-estate-finance/top-10-j-reit-overview-matrix.md",
+  "domain": "real-estate-finance",
+  "title": "Top 10 J-REIT overview matrix",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Top 10 J-REIT overview matrix",
+    "aliases": [
+      "Top 10 J-REIT overview",
+      "top 10 J-REIT by market cap",
+      "largest J-REIT comparison",
+      "Jリート 上位10 比較表",
+      "biggest Japanese REIT comparison",
+      "Nippon Building Fund Japan Real Estate NMF comparison",
+      "J-REIT sponsor matrix",
+      "top J-REIT AUM matrix"
+    ],
+    "domain": "real-estate-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "real-estate-finance",
+      "j-reit",
+      "matrix",
+      "top-10",
+      "sponsor",
+      "asset-class",
+      "market-cap"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/markets/products/reit/index.html",
+      "https://j-reit.jp/en/",
+      "https://www.ares.or.jp/en/",
+      "https://www.jpx.co.jp/english/markets/indices/tsereit/index.html"
+    ]
+  },
+  "summary": "Use this entry as the named-name matrix companion to J-REIT market overview. It maps the top 10 listed J-REIT by approximate market capitalization to their sponsor, asset class, asset-class concentration, AUM scale, LTV range, DPU yield zone, and foreign-investor relevance. Specific numeric ranks sh",
+  "headings": [
+    "Top 10 J-REIT overview matrix",
+    "TL;DR",
+    "Wiki route",
+    "1. Representative top-of-market J-REIT (alphabetical)",
+    "2. Comparison axes",
+    "2.1 Sponsor and asset focus",
+    "2.2 Scale and leverage",
+    "2.3 DPU yield and foreign-investor relevance",
+    "3. Trustee mapping — public-surface reference",
+    "4. Comparison reading guide"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/mitsubishi-ufj-trust-bank\\",
+      "JapanFG/mizuho-trust-bank\\",
+      "JapanFG/sumitomo-mitsui-trust",
+      "JapanFG/sumitomo-mitsui-trust\\",
+      "banking/INDEX",
+      "banking/trust-bank-custody-operating-comparison",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "insurance/INDEX",
+      "policy-finance/INDEX",
+      "real-estate-finance/INDEX",
+      "real-estate-finance/j-reit-market-overview",
+      "real-estate-finance/j-reit-sponsor-structure-conflict",
+      "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
+      "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
+      "retail/aeon-group",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank\\",
+      "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank\\",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust\\",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict",
+      "https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison",
+      "https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10781,
+    "word_like_tokens": 1777,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-cex-sales-vs-exchange-model-economics",
+  "source_path": "exchanges/jp-cex-sales-vs-exchange-model-economics.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-cex-sales-vs-exchange-model-economics.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-cex-sales-vs-exchange-model-economics.md",
+  "domain": "exchanges",
+  "title": "国内 CEX 販売所 vs 取引所 ビジネスモデル経済学",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 CEX 販売所 vs 取引所 ビジネスモデル経済学",
+    "aliases": [
+      "JP CEX hanbai-jo vs torihiki-jo",
+      "国内 CEX スプレッド経済学",
+      "Sales (OTC) vs Order Book exchange model"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "business-model",
+      "spread",
+      "fees",
+      "hanbai-jo"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 CEX × ポイントエコノミー統合モデル for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内 CEX 販売所 vs 取引所 ビジネスモデル経済学",
+    "Wiki route",
+    "概要",
+    "販売所モデル (主流)",
+    "取引所モデル (玄人向け)",
+    "経済学的含意"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/btc-spot-etf-japan-impact",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jp-cex-points-economy-integration",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-mercoin",
+      "exchanges/jp-exchange-rakuten-wallet",
+      "securities/japan-best-execution-sor-pts"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-cex-points-economy-integration",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1908,
+    "word_like_tokens": 312,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-24"
+  }
+}

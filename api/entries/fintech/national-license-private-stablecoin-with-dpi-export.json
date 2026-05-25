@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/national-license-private-stablecoin-with-dpi-export",
+  "source_path": "fintech/national-license-private-stablecoin-with-dpi-export.md",
+  "url": "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
+  "domain": "fintech",
+  "title": "国家许可型私营稳定币 + DPI 全球输出战略",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国家许可型私营稳定币 + DPI 全球输出战略",
+    "aliases": [
+      "india ARC polygon",
+      "national license private stablecoin",
+      "DPI dollar alternative",
+      "UPI MOSIP stablecoin"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "india",
+      "polygon",
+      "upi",
+      "mosip",
+      "dpi",
+      "geopolitics"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22329",
+      "https://polygon.technology/blog",
+      "https://www.npci.org.in/what-we-do/upi/product-statistics",
+      "https://www.mosip.io/",
+      "https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "国家许可型私营稳定币 + DPI 全球输出战略",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/aml-cft-fatf-grey-list-overview",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/india-anti-dollar-dpi-alliance",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/stablecoin-chain-sovereign-currency-divide",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2776,
+    "word_like_tokens": 478,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

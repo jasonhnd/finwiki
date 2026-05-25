@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/japan-securities-depository-center",
+  "source_path": "securities/japan-securities-depository-center.md",
+  "url": "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-securities-depository-center.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-securities-depository-center.md",
+  "domain": "securities",
+  "title": "証券保管振替機構 (JASDEC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "証券保管振替機構 (JASDEC)",
+    "aliases": [
+      "JASDEC",
+      "ほふり",
+      "Japan Securities Depository Center",
+      "証券保管振替機構"
+    ],
+    "domain": "securities",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "settlement",
+      "csd",
+      "market-infrastructure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jasdec.com/en/",
+      "https://www.jasdec.com/en/about/office/outline/"
+    ]
+  },
+  "summary": "This entry sits under securities index. Read it with financial instruments business operators japan index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "証券保管振替機構 (JASDEC)",
+    "Wiki route",
+    "TL;DR",
+    "System Map",
+    "Service Map",
+    "Strategic Reading",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/progmat",
+      "fintech/japan-listed-company-disclosure-monitoring",
+      "fintech/japan-third-party-allotment-5-step-flow",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-securities-clearing-corp",
+      "securities/osaka-digital-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
+      "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2970,
+    "word_like_tokens": 436,
+    "inbound_wikilinks_count": 46,
+    "last_modified": "2026-05-24"
+  }
+}

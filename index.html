@@ -63,6 +63,12 @@
         {
           "@type": "DataDownload",
           "encodingFormat": "text/plain",
+          "contentUrl": "http://finwiki.zksc.io/llms-tasks.txt",
+          "name": "llms-tasks.txt — task-oriented entry guide (16 research tasks)"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "text/plain",
           "contentUrl": "http://finwiki.zksc.io/llms-full.txt",
           "name": "llms-full.txt — full page manifest"
         },
@@ -71,6 +77,12 @@
           "encodingFormat": "application/json",
           "contentUrl": "http://finwiki.zksc.io/ai-index.json",
           "name": "ai-index.json — machine-readable JSON manifest"
+        },
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "http://finwiki.zksc.io/api/entries/index.json",
+          "name": "api/entries/index.json — static JSON API (per-entry JSON at api/entries/{domain}/{slug}.json)"
         },
         {
           "@type": "DataDownload",
@@ -646,9 +658,11 @@
           </p>
           <ul class="ai-entry-list">
             <li><a href="llms.txt"><code>llms.txt</code></a> — compact LLM guide (entry points, URL rules, domain routes, current counts). <strong>Start here.</strong></li>
+            <li><a href="llms-tasks.txt"><code>llms-tasks.txt</code></a> — task-oriented entry guide (16 common research tasks with start file + bedrock follow-ups + matrix anchors).</li>
             <li><a href="INDEX.md"><code>INDEX.md</code></a> — full domain map with all 23 domains and per-domain entry counts. Human + LLM readable.</li>
             <li><a href="llms-full.txt"><code>llms-full.txt</code></a> — full page manifest (title + URL + source path + summary + headings + resolved wikilinks for every entry).</li>
             <li><a href="ai-index.json"><code>ai-index.json</code></a> — full machine-readable JSON manifest for programmatic traversal.</li>
+            <li><a href="api/entries/index.json"><code>api/entries/index.json</code></a> — static JSON API index. Then fetch <code>api/entries/&lt;domain&gt;/&lt;slug&gt;.json</code> for any single entry's metadata (title / aliases / dates / confidence / tags / status / sources / summary / headings / wikilinks / inbound count) without parsing markdown.</li>
             <li><a href="HOW-TO-NAVIGATE.md"><code>HOW-TO-NAVIGATE.md</code></a> — reader-profile navigation guide with 30 essential entries + 15 essential matrices + 10 bedrock pages.</li>
             <li><a href="sitemap.xml"><code>sitemap.xml</code></a> — XML sitemap of all 1,449 URLs.</li>
             <li><a href="topic-cluster-reference.md"><code>topic-cluster-reference.md</code></a> — 14 thematic clusters across domains.</li>
@@ -765,7 +779,7 @@
             </article>
             <article class="card jp">
               <h3>🤖 AI discovery</h3>
-              <p><a href="llms.txt">llms.txt</a>、<a href="llms-full.txt">llms-full.txt</a>、<a href="ai-index.json">ai-index.json</a>、<a href="sitemap.xml">sitemap.xml</a> から機械的に全体を辿れます。</p>
+              <p><a href="llms.txt">llms.txt</a>（コンパクト案内）、<a href="llms-tasks.txt">llms-tasks.txt</a>（16 件のタスク別エントリー）、<a href="llms-full.txt">llms-full.txt</a>（全ページマニフェスト）、<a href="ai-index.json">ai-index.json</a>（JSON 全体マニフェスト）、<a href="api/entries/index.json">api/entries/</a>（静的 JSON API、エントリー単位で <code>api/entries/&lt;domain&gt;/&lt;slug&gt;.json</code>）、<a href="sitemap.xml">sitemap.xml</a> から機械的に全体を辿れます。</p>
             </article>
             <article class="card jp">
               <h3>🕒 CHANGELOG.md</h3>
@@ -904,7 +918,7 @@
             </article>
             <article class="card en">
               <h3>🤖 AI discovery</h3>
-              <p>Use <a href="llms.txt">llms.txt</a>, <a href="llms-full.txt">llms-full.txt</a>, <a href="ai-index.json">ai-index.json</a>, and <a href="sitemap.xml">sitemap.xml</a> to traverse the full public site programmatically.</p>
+              <p>Use <a href="llms.txt">llms.txt</a> (compact guide), <a href="llms-tasks.txt">llms-tasks.txt</a> (16 task-oriented entry points), <a href="llms-full.txt">llms-full.txt</a> (full page manifest), <a href="ai-index.json">ai-index.json</a> (JSON manifest), <a href="api/entries/index.json">api/entries/</a> (static JSON API; per-entry JSON at <code>api/entries/&lt;domain&gt;/&lt;slug&gt;.json</code>), and <a href="sitemap.xml">sitemap.xml</a> to traverse the full public site programmatically.</p>
             </article>
             <article class="card en">
               <h3>🕒 CHANGELOG.md</h3>
@@ -1043,7 +1057,7 @@
             </article>
             <article class="card zh">
               <h3>🤖 AI discovery</h3>
-              <p>AI 可以通过 <a href="llms.txt">llms.txt</a>、<a href="llms-full.txt">llms-full.txt</a>、<a href="ai-index.json">ai-index.json</a>、<a href="sitemap.xml">sitemap.xml</a> 稳定遍历全站。</p>
+              <p>AI 可以通过 <a href="llms.txt">llms.txt</a>（简明导引）、<a href="llms-tasks.txt">llms-tasks.txt</a>（16 个任务导向入口）、<a href="llms-full.txt">llms-full.txt</a>（全页清单）、<a href="ai-index.json">ai-index.json</a>（JSON 总清单）、<a href="api/entries/index.json">api/entries/</a>（静态 JSON API，每条 entry 一个 <code>api/entries/&lt;domain&gt;/&lt;slug&gt;.json</code>）、<a href="sitemap.xml">sitemap.xml</a> 稳定遍历全站。</p>
             </article>
             <article class="card zh">
               <h3>🕒 CHANGELOG.md</h3>
@@ -1095,7 +1109,7 @@
         FinWiki: 公開三言語金融ナレッジベース / Public trilingual finance knowledge base / 公开三语金融知识库
         <div class="last-updated">
           最終更新 / Last updated / 最后更新:
-          <time id="last-updated-ts" datetime="2026-05-25T20:58:52+09:00">2026-05-25 20:58:52 JST</time>
+          <time id="last-updated-ts" datetime="2026-05-25T21:12:14+09:00">2026-05-25 21:12:14 JST</time>
         </div>
       </div>
     </footer>

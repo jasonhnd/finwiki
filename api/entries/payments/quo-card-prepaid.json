@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/quo-card-prepaid",
+  "source_path": "payments/quo-card-prepaid.md",
+  "url": "https://finwiki.zksc.io/payments/quo-card-prepaid",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/quo-card-prepaid.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/quo-card-prepaid.md",
+  "domain": "payments",
+  "title": "QUO Card: gift-card and paper / digital prepaid franchise",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "QUO Card: gift-card and paper / digital prepaid franchise",
+    "aliases": [
+      "quo-card-prepaid",
+      "QUO Card 株式会社クオカード",
+      "QUOカード Pay",
+      "ギフトカード 前払式支払手段",
+      "クオカード"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "gift-card",
+      "quo-card",
+      "paper-prepaid",
+      "digital-prepaid",
+      "business-gift"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.quocard.com/",
+      "https://www.quocard.com/pay/",
+      "https://www.quocard.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the QUO Card gift-card prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view. Compare with Amazon Gift Card Japan, Apple Gift Card Japan, Google Play Gift Card Japan, and Visa Gift Card Japan as gift-card pre",
+  "headings": [
+    "QUO Card: gift-card and paper / digital prepaid franchise",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and operational structure",
+    "Legal basis: 前払式支払手段",
+    "Use cases: where QUO Card dominates",
+    "Acceptance footprint",
+    "QUO Card Pay: digital extension",
+    "KPI snapshot",
+    "Strategy: corporate gift distribution franchise"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "payments/INDEX",
+      "payments/amazon-gift-card-japan",
+      "payments/apple-gift-card-japan",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/google-play-gift-card-japan",
+      "payments/japan-code-payment-competitive-map",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/pasmo-prepaid-tokyo-metro",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/suica-prepaid-jr-east",
+      "payments/visa-gift-card-japan",
+      "payments/waon-prepaid-aeon"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/amazon-gift-card-japan",
+      "https://finwiki.zksc.io/payments/apple-gift-card-japan",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/google-play-gift-card-japan",
+      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/pasmo-prepaid-tokyo-metro",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/suica-prepaid-jr-east",
+      "https://finwiki.zksc.io/payments/visa-gift-card-japan",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9182,
+    "word_like_tokens": 1487,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/keiyo-bank",
+  "source_path": "JapanFG/keiyo-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/keiyo-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/keiyo-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/keiyo-bank.md",
+  "domain": "JapanFG",
+  "title": "株式会社京葉銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社京葉銀行",
+    "aliases": [
+      "京葉銀行",
+      "けいよう銀行",
+      "Keiyo Bank",
+      "Keiyo Ginko"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "second-tier"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）",
+      "京葉銀行 公式 IR ディスクロージャー誌（公開）"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社京葉銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "概要数値（公開ベース・概数）",
+    "沿革（抜粋）",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "千葉県内市場構造",
+    "独立路線 — TSUBASA 未参加"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/jimoto-hd",
+      "banking/INDEX",
+      "chiba-bank",
+      "chiba-kogyo-bank",
+      "concordia-fg",
+      "mebuki-fg",
+      "mizuho-fg",
+      "mufg",
+      "paypay-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jimoto-hd",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/chiba-bank",
+      "https://finwiki.zksc.io/chiba-kogyo-bank",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4016,
+    "word_like_tokens": 560,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-21"
+  }
+}

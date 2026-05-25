@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/japan-rmbs-issuance-structure",
+  "source_path": "structured-finance/japan-rmbs-issuance-structure.md",
+  "url": "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-rmbs-issuance-structure.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/japan-rmbs-issuance-structure.md",
+  "domain": "structured-finance",
+  "title": "Japan RMBS issuance structure",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan RMBS issuance structure",
+    "aliases": [
+      "Japan private RMBS",
+      "日本RMBS",
+      "Japan residential mortgage-backed securities",
+      "Japanese jumbo RMBS",
+      "Private RMBS structure Japan",
+      "Megabank RMBS"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "rmbs",
+      "securitization",
+      "japan",
+      "mortgage"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/",
+      "https://www.jhf.go.jp/about/index.html",
+      "https://www.jsda.or.jp/en/"
+    ]
+  },
+  "summary": "Private RMBS in Japan are usually jumbo deals backed by megabank-originated residential mortgages. They sit alongside but distinct from JHF MBS: JHF MBS is government-supported and backed by Flat 35 fixed-rate loans, while private RMBS are megabank originations with their own credit enhancement and",
+  "headings": [
+    "Japan RMBS issuance structure",
+    "TL;DR",
+    "Wiki route",
+    "1. Originators",
+    "2. Comparison to JHF MBS",
+    "3. Structure — typical tranching",
+    "4. Credit enhancement",
+    "5. Prepayment modeling",
+    "6. Vehicle choice",
+    "7. Servicing"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "JapanFG/sumitomo-mitsui-trust",
+      "banking/INDEX",
+      "policy-finance/japan-housing-finance-agency",
+      "real-estate-finance/INDEX",
+      "structured-finance/INDEX",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "structured-finance/jhf-mbs-mechanics",
+      "structured-finance/jhf-mbs-vs-private-rmbs-spread",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-vs-private-rmbs-spread",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6765,
+    "word_like_tokens": 1043,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-25"
+  }
+}

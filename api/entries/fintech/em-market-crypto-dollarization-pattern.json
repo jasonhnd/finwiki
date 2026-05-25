@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/em-market-crypto-dollarization-pattern",
+  "source_path": "fintech/em-market-crypto-dollarization-pattern.md",
+  "url": "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/em-market-crypto-dollarization-pattern.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/em-market-crypto-dollarization-pattern.md",
+  "domain": "fintech",
+  "title": "新兴市场加密美元化模式",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "新兴市场加密美元化模式（尼日利亚 / 阿根廷 / 拉美三角）",
+    "aliases": [
+      "EM dollarization",
+      "crypto USD shadow",
+      "USDT EM hegemony"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "emerging-markets",
+      "dollarization",
+      "USDT",
+      "USDC"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/",
+      "https://www.imf.org/en/Publications/WP/Issues/2024/01/26/Crypto-Assets-and-Macroeconomic-Stability",
+      "https://tether.to/en/transparency/",
+      "https://www.bis.org/publ/work1227.htm",
+      "https://www.coindesk.com/markets/2023/argentina-stablecoin-usage/"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "新兴市场加密美元化模式",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/gray-market-dollar-network-formalization",
+      "fintech/india-anti-dollar-dpi-alliance",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/national-license-private-stablecoin-with-dpi-export",
+      "fintech/stablecoin-chain-sovereign-currency-divide",
+      "fintech/stablecoin-crossborder-b2b-growth",
+      "fintech/tether-business-model-short-treasury-yield"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
+      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2838,
+    "word_like_tokens": 455,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/famipay-valucreate-strategy",
+  "source_path": "payments/famipay-valucreate-strategy.md",
+  "url": "https://finwiki.zksc.io/payments/famipay-valucreate-strategy",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/famipay-valucreate-strategy.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/famipay-valucreate-strategy.md",
+  "domain": "payments",
+  "title": "FamiPay: FamilyMart wallet and Itochu group payment strategy",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FamiPay: FamilyMart wallet and Itochu group payment strategy",
+    "aliases": [
+      "famipay-valucreate-strategy",
+      "FamiPay wallet strategy",
+      "ファミペイ",
+      "FamilyMart code-payment",
+      "FamiPay 株式会社"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "code-payment",
+      "prepaid",
+      "wallet",
+      "retail-anchor",
+      "convenience-store",
+      "itochu"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.family.co.jp/famipay.html",
+      "https://famipay.jp/",
+      "https://www.family.co.jp/news.html",
+      "https://www.itochu.co.jp/ja/business/the_8th/index.html",
+      "https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html",
+      "https://paymentsjapan.or.jp/publications/code-payments-20260330/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "https://www.fsa.go.jp/policy/prepaid/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the FamilyMart-anchored code-payment operator page that pairs with Japan code-payment competitive map for the wallet-class competitive context, with Japan payment scheme economics matrix for the four-class economic comparison, with prepaid payment instrument i",
+  "headings": [
+    "FamiPay: FamilyMart wallet and Itochu group payment strategy",
+    "Wiki route",
+    "TL;DR",
+    "Operator structure and licensing",
+    "Competitive position vs other code-payment operators",
+    "FamilyMart loyalty integration",
+    "Itochu group ecosystem positioning",
+    "Funding rails and charge methods",
+    "Bill-payment and 払い込み票 functionality",
+    "Comparison with the discontinued Seven Pay 2019"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aeon-bank\\",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/au-payment",
+      "JapanFG/au-payment\\",
+      "JapanFG/paypay",
+      "JapanFG/paypay\\",
+      "JapanFG/rakuten-edy",
+      "JapanFG/seven-bank\\",
+      "JapanFG/seven-payment-service",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-bnpl-credit-purchase-boundary",
+      "payments/japan-code-payment-competitive-map",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/waon-nanaco-retail-prepaid-comparison",
+      "retail/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank\\",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/au-payment\\",
+      "https://finwiki.zksc.io/JapanFG/paypay",
+      "https://finwiki.zksc.io/JapanFG/paypay\\",
+      "https://finwiki.zksc.io/JapanFG/rakuten-edy",
+      "https://finwiki.zksc.io/JapanFG/seven-bank\\",
+      "https://finwiki.zksc.io/JapanFG/seven-payment-service",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/waon-nanaco-retail-prepaid-comparison",
+      "https://finwiki.zksc.io/retail/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 14839,
+    "word_like_tokens": 2347,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

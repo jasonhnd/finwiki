@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/wall-street-crypto-network-neutrality",
+  "source_path": "fintech/wall-street-crypto-network-neutrality.md",
+  "url": "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/wall-street-crypto-network-neutrality.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/wall-street-crypto-network-neutrality.md",
+  "domain": "fintech",
+  "title": "Wall Street 加密网络中立投资策略",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Wall Street 加密网络中立投资策略（Visa 双线模式）",
+    "aliases": [
+      "network neutrality investment",
+      "Visa double dip",
+      "institutional crypto hedge"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "wall-street",
+      "investment",
+      "framework",
+      "Visa"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://investor.visa.com/financial-information/sec-filings/default.aspx",
+      "https://www.mastercard.com/news/press/",
+      "https://www.blackrock.com/corporate/newsroom",
+      "https://www.circle.com/en/usdc",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "Wall Street 加密网络中立投资策略",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/privy-aws-agentcore-default-wallet",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/institutional-stablecoin-deposit-token-thesis",
+      "fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/protocol-hedge-strategy-stripe-pattern",
+      "fintech/stablecoin-chain-token-strategy-trilemma"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
+      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2380,
+    "word_like_tokens": 364,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-25"
+  }
+}

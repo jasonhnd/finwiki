@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sbj-bank",
+  "source_path": "JapanFG/sbj-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sbj-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sbj-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sbj-bank.md",
+  "domain": "JapanFG",
+  "title": "SBJ銀行 (Shinhan Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBJ銀行 (Shinhan Bank Japan)",
+    "aliases": [
+      "SBJ Bank",
+      "SBJ銀行",
+      "株式会社SBJ銀行",
+      "Shinhan Bank Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "foreign-bank-subsidiary",
+      "korea",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://sbjbank.co.jp/about_sbj/about/",
+      "https://www.sbjbank.co.jp/company/history/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBJ銀行 (Shinhan Bank Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/citigroup-japan",
+      "JapanFG/hsbc-japan",
+      "JapanFG/korea-development-bank-japan",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/standard-chartered-japan",
+      "JapanFG/tokyo-star-bank",
+      "JapanFG/woori-bank-japan",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/citigroup-japan",
+      "https://finwiki.zksc.io/JapanFG/hsbc-japan",
+      "https://finwiki.zksc.io/JapanFG/korea-development-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/standard-chartered-japan",
+      "https://finwiki.zksc.io/JapanFG/tokyo-star-bank",
+      "https://finwiki.zksc.io/JapanFG/woori-bank-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1667,
+    "word_like_tokens": 256,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

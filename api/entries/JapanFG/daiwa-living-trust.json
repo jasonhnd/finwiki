@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/daiwa-living-trust",
+  "source_path": "JapanFG/daiwa-living-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/daiwa-living-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/daiwa-living-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/daiwa-living-trust.md",
+  "domain": "JapanFG",
+  "title": "大和リビング信託 (Daiwa Living Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大和リビング信託 (Daiwa Living Trust)",
+    "aliases": [
+      "Daiwa Living Trust",
+      "大和リビング信託株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "housing",
+      "asset-succession"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.daiwaliving-trust.co.jp/"
+    ]
+  },
+  "summary": "Daiwa Living Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Starts Trust.",
+  "headings": [
+    "大和リビング信託 (Daiwa Living Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/starts-trust",
+      "JapanFG/trust-companies-japan-index",
+      "banking/japan-trust-bank-custody-map",
+      "finance/japan-acquisition-finance",
+      "policy-finance/japan-housing-finance-agency"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/starts-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3031,
+    "word_like_tokens": 487,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-22"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "money-market/jgb-repo-market-japan",
+  "source_path": "money-market/jgb-repo-market-japan.md",
+  "url": "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/money-market/jgb-repo-market-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/money-market/jgb-repo-market-japan.md",
+  "domain": "money-market",
+  "title": "JGB repo market in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JGB repo market in Japan",
+    "aliases": [
+      "money-market/jgb-repo-market-japan",
+      "jgb-repo-market-japan",
+      "Japan JGB repo market",
+      "日本国債レポ市場"
+    ],
+    "domain": "money-market",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "money-market",
+      "repo",
+      "JGB",
+      "securities-financing",
+      "BoJ"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/statistics/outline/exp/exrepo.htm",
+      "https://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+      "https://www.boj.or.jp/en/research/wps_rev/rev_2025/rev25e03.htm",
+      "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_b/index.htm"
+    ]
+  },
+  "summary": "This entry sits under money-market index. Read it against BoJ open market operations for peer / contrast context and Japan money market for the broader system / regulatory boundary.",
+  "headings": [
+    "JGB repo market in Japan",
+    "Wiki route",
+    "TL;DR",
+    "Market Mechanics",
+    "GC vs SC",
+    "Data Surface",
+    "BoJ and Market Functioning",
+    "JapanFG Relevance",
+    "Reading Rules",
+    "Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/central-tanshi",
+      "JapanFG/local-bond-market",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/smfg",
+      "JapanFG/tokyo-tanshi",
+      "JapanFG/ueda-yagi-tanshi",
+      "money-market/INDEX",
+      "money-market/boj-open-market-operations",
+      "money-market/call-market-structure",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/central-tanshi",
+      "https://finwiki.zksc.io/JapanFG/local-bond-market",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
+      "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/call-market-structure",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5885,
+    "word_like_tokens": 972,
+    "inbound_wikilinks_count": 33,
+    "last_modified": "2026-05-21"
+  }
+}

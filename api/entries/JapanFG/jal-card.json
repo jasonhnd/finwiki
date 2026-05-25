@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/jal-card",
+  "source_path": "JapanFG/jal-card.md",
+  "url": "https://finwiki.zksc.io/JapanFG/jal-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jal-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/jal-card.md",
+  "domain": "JapanFG",
+  "title": "株式会社JALカード (JAL Card)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社JALカード (JAL Card)",
+    "aliases": [
+      "JAL Card",
+      "JALカード",
+      "株式会社ジャルカード",
+      "JAL Card Co., Ltd."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "affinity-card",
+      "airline",
+      "JAL-group"
+    ],
+    "status": "active",
+    "sources": [
+      "https://jalcard.jal.co.jp/profile/company/overview/",
+      "https://jalcard.jal.co.jp/profile/company/history/",
+      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010701013124",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社JR東日本ファイナンシャル & View Card for peer / contrast context and credit purchase / card operators index for the broader regulatory / registry boundary.",
+  "headings": [
+    "株式会社JALカード (JAL Card)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・株主",
+    "2. ライセンス・登録",
+    "3. 商品ライン",
+    "4. 主要 KPI（公表ベース）",
+    "5. 業界ポジション",
+    "6. 沿革",
+    "7. 関連企業・取引先"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/credit-saison",
+      "JapanFG/epos-card",
+      "JapanFG/jcb",
+      "JapanFG/jr-east-financial",
+      "JapanFG/merpay",
+      "JapanFG/mufg-nicos",
+      "JapanFG/paypay",
+      "JapanFG/seven-bank",
+      "JapanFG/seven-card-service",
+      "JapanFG/smbc-card",
+      "payments/card-acquiring-japan-stack",
+      "payments/cashless-jp-landscape",
+      "payments/credit-purchase-card-operators-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/credit-saison",
+      "https://finwiki.zksc.io/JapanFG/epos-card",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/jr-east-financial",
+      "https://finwiki.zksc.io/JapanFG/merpay",
+      "https://finwiki.zksc.io/JapanFG/mufg-nicos",
+      "https://finwiki.zksc.io/JapanFG/paypay",
+      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/JapanFG/seven-card-service",
+      "https://finwiki.zksc.io/JapanFG/smbc-card",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
+    ],
+    "external_links_count": 4,
+    "external_links": [
+      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010701013124",
+      "https://jalcard.jal.co.jp/profile/company/history/",
+      "https://jalcard.jal.co.jp/profile/company/overview/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4798,
+    "word_like_tokens": 770,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

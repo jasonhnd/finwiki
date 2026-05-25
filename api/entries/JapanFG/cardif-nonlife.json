@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/cardif-nonlife",
+  "source_path": "JapanFG/cardif-nonlife.md",
+  "url": "https://finwiki.zksc.io/JapanFG/cardif-nonlife",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/cardif-nonlife.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/cardif-nonlife.md",
+  "domain": "JapanFG",
+  "title": "Cardif Non-Life Japan / カーディフ損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Cardif Non-Life Japan / カーディフ損害保険",
+    "aliases": [
+      "カーディフ損害保険",
+      "カーディフ損害保険株式会社",
+      "Cardif Non-Life Japan",
+      "BNP Paribas Cardif Japan Non Life"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-23",
+    "last_updated": "2026-05-23",
+    "last_tended": "2026-05-23",
+    "review_by": "2026-11-23",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "bancassurance",
+      "foreign-insurer",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
+      "Cardif Non-Life company profile: https://nonlife.cardif.co.jp/company/profile",
+      "Cardif Japan corporate profile 2025: https://nonlife.cardif.co.jp/wp-content/uploads/sites/37/2025/12/Cardif-CorporateProfile_2025.pdf"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> JapanFG/cardif-nonlife",
+  "headings": [
+    "Cardif Non-Life Japan / カーディフ損害保険",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/bnp-paribas-japan",
+      "JapanFG/cardif-life",
+      "JapanFG/cardif-nonlife",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "insurance/INDEX",
+      "insurance/life-insurance-distribution-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bnp-paribas-japan",
+      "https://finwiki.zksc.io/JapanFG/cardif-life",
+      "https://finwiki.zksc.io/JapanFG/cardif-nonlife",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/life-insurance-distribution-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2332,
+    "word_like_tokens": 366,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-23"
+  }
+}

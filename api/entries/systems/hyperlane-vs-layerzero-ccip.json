@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/hyperlane-vs-layerzero-ccip",
+  "source_path": "systems/hyperlane-vs-layerzero-ccip.md",
+  "url": "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperlane-vs-layerzero-ccip.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperlane-vs-layerzero-ccip.md",
+  "domain": "systems",
+  "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+    "aliases": [
+      "hyperlane-vs-layerzero",
+      "hyperlane-vs-ccip",
+      "bridge-comparison"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "bridge",
+      "hyperlane",
+      "layerzero",
+      "ccip",
+      "comparison"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "fintech/INDEX",
+      "fintech/cosmos-ibc-for-financial-institutions",
+      "systems/INDEX",
+      "systems/cctp-v2-overview",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-overview",
+      "systems/hyperlane-ism-modular-security",
+      "systems/hyperlane-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+      "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security",
+      "https://finwiki.zksc.io/systems/hyperlane-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2807,
+    "word_like_tokens": 463,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

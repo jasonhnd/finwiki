@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/jetro-vs-nexi-vs-jbic-comparison",
+  "source_path": "trade/jetro-vs-nexi-vs-jbic-comparison.md",
+  "url": "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/jetro-vs-nexi-vs-jbic-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/jetro-vs-nexi-vs-jbic-comparison.md",
+  "domain": "trade",
+  "title": "JETRO vs NEXI vs JBIC — Japan export-promotion / insurance / financing three-pillar comparison",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JETRO vs NEXI vs JBIC — Japan export-promotion / insurance / financing three-pillar comparison",
+    "aliases": [
+      "jetro-vs-nexi-vs-jbic-comparison",
+      "JETRO NEXI JBIC 比較",
+      "Japan export support three pillars",
+      "jetro nexi jbic split",
+      "Japan export-promotion stack",
+      "Japan export-credit institutions",
+      "Japan trade finance triad",
+      "JETRO NEXI JBIC function map"
+    ],
+    "domain": "trade",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "export-credit",
+      "policy-finance",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jetro.go.jp/en/jetro/",
+      "https://www.nexi.go.jp/en/",
+      "https://www.jbic.go.jp/en/",
+      "https://www.meti.go.jp/english/policy/external_economy/trade_control/index.html",
+      "https://www.mof.go.jp/english/policy/international_policy/index.html"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and routes into the broader policy-finance INDEX. Read with JETRO 独立行政法人 organisation structure for the JETRO-specific anatomy and Japan project-finance stack diagram for where credit pieces plug into deals.",
+  "headings": [
+    "JETRO vs NEXI vs JBIC — Japan export-promotion / insurance / financing three-pillar comparison",
+    "Wiki route",
+    "TL;DR",
+    "Three-Pillar Comparison Table",
+    "When a Japanese Exporter Uses Which",
+    "JETRO — Information and Promotion",
+    "NEXI — Export and Investment Insurance",
+    "JBIC — The Policy Bank",
+    "Domain Boundary — Where JBIC Ends and JICA Begins",
+    "Eligibility — Who Can Use Each Institution"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jbic",
+      "JapanFG/jfc",
+      "policy-finance/INDEX",
+      "policy-finance/japan-eximbank-history",
+      "policy-finance/japan-project-finance-stack-diagram",
+      "policy-finance/jica",
+      "policy-finance/jogmec",
+      "policy-finance/nexi",
+      "policy-finance/oecd-export-credit-arrangement",
+      "trade/INDEX",
+      "trade/jetro-members-gateway-model",
+      "trade/jetro-organization-structure"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
+      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+      "https://finwiki.zksc.io/policy-finance/jica",
+      "https://finwiki.zksc.io/policy-finance/jogmec",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/jetro-members-gateway-model",
+      "https://finwiki.zksc.io/trade/jetro-organization-structure"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16227,
+    "word_like_tokens": 2571,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

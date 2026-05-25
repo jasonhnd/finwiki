@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nippon-post",
+  "source_path": "JapanFG/nippon-post.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nippon-post",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nippon-post.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nippon-post.md",
+  "domain": "JapanFG",
+  "title": "日本郵政 (Japan Post Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本郵政 (Japan Post Holdings)",
+    "aliases": [
+      "Japan Post",
+      "Japan Post Holdings",
+      "日本郵政",
+      "日本郵政株式会社",
+      "JP HD",
+      "JPHD"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "post",
+      "government-related"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 日本郵政 (2026-05-19 抽出)",
+      "Wikipedia: ゆうちょ銀行 / かんぽ生命保険 (2026-05-19 抽出)",
+      "郵政民営化法 / 日本郵政株式会社法 公開条文"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against かんぽ生命保険 (Japan Post Insurance) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "日本郵政 (Japan Post Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "株主構造（民営化法上の特例）^[extracted]",
+    "主要子会社・持分",
+    "重要年表（抜粋）^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "グループ統合シナジー"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/kampo-life",
+      "banking/INDEX",
+      "kampo-life",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg",
+      "yucho"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/kampo-life",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/yucho"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5479,
+    "word_like_tokens": 830,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/INDEX",
+  "source_path": "corporate-strategy/INDEX.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/INDEX",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/INDEX.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/INDEX.md",
+  "domain": "corporate-strategy",
+  "title": "Corporate strategy domain",
+  "entry_type": "domain_index",
+  "frontmatter": {
+    "title": "Corporate strategy domain",
+    "aliases": [
+      "corporate-strategy INDEX",
+      "tax-driven corporate strategy domain",
+      "コーポレート戦略 domain"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "certain",
+    "tags": [
+      "corporate-strategy",
+      "index",
+      "spinoff",
+      "tax",
+      "japan-corporate-tax",
+      "restructuring"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/spinoff.html",
+      "https://www.nta.go.jp/english/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This domain routes tax-driven corporate-restructuring strategy in Japan — currently anchored on the single entry for partial spinoff tax deferral (パーシャルスピンオフ税制), the 2023 reform that lets a parent retain a minority stake in a spun-off subsidiary while still qualifying for tax-deferred treatment.",
+  "headings": [
+    "Corporate strategy domain",
+    "TL;DR",
+    "Entries",
+    "Start here",
+    "Expansion rules",
+    "Related domains",
+    "Backlog",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "business/INDEX",
+      "business/gmo-internet-group",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime\\",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/partial-spinoff-tax-deferral\\",
+      "finance/INDEX",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime\\",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral\\",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4155,
+    "word_like_tokens": 656,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-25"
+  }
+}

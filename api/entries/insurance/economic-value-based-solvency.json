@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/economic-value-based-solvency",
+  "source_path": "insurance/economic-value-based-solvency.md",
+  "url": "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/economic-value-based-solvency.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/economic-value-based-solvency.md",
+  "domain": "insurance",
+  "title": "Economic value-based solvency regulation",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Economic value-based solvency regulation",
+    "aliases": [
+      "economic-value-based-solvency",
+      "経済価値ベースのソルベンシー規制",
+      "economic value-based solvency"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "solvency",
+      "regulation",
+      "FSA",
+      "ESR"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
+      "https://www.fsa.go.jp/common/law/guide/ins/",
+      "https://www.fsa.go.jp/common/law/guide/ins/02b.html",
+      "https://www.fsa.go.jp/common/law/guide/ins/02c.html"
+    ]
+  },
+  "summary": "Japan's economic value-based solvency regime is the insurance-capital framework that looks through the accounting balance sheet and evaluates assets, liabilities, capital, and risk on a more market-consistent economic basis. FSA frames the regime around three pillars: solvency regulation, insurer ri",
+  "headings": [
+    "Economic value-based solvency regulation",
+    "TL;DR",
+    "Regime Map",
+    "JapanFG Relevance",
+    "Decision Use",
+    "Boundary",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/msad",
+      "JapanFG/nippon-life",
+      "JapanFG/sompo",
+      "JapanFG/tokio-marine",
+      "insurance/INDEX",
+      "insurance/esr-economic-value-solvency",
+      "insurance/natcat-reinsurance-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3576,
+    "word_like_tokens": 567,
+    "inbound_wikilinks_count": 33,
+    "last_modified": "2026-05-20"
+  }
+}

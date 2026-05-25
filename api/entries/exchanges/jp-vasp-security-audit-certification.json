@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-vasp-security-audit-certification",
+  "source_path": "exchanges/jp-vasp-security-audit-certification.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-security-audit-certification.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-security-audit-certification.md",
+  "domain": "exchanges",
+  "title": "国内 VASP セキュリティ・監査・ISMS 認証実態",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 VASP セキュリティ・監査・ISMS 認証実態",
+    "aliases": [
+      "JP VASP security certification",
+      "国内暗号資産取引所 ISMS",
+      "JP VASP SOC2 ISO27001"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "security",
+      "audit",
+      "isms",
+      "iso27001",
+      "soc2"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/",
+      "https://www.fsa.go.jp/"
+    ]
+  },
+  "summary": "国内 VASP は FSA 監督指針 + JVCEA 自主規制規則 + 業界自主標準 の三層でセキュリティ + 監査義務を負う。法定要件に加え、ISMS (ISO/IEC 27001) や SOC2 Type II 報告書 等の第三者認証取得が事実上のスタンダード化しており、機関投資家オンボーディング + 海外連携 + B2B custody 受託の前提条件となっている。Coincheck NEM 流出 (2018) + DMM Bitcoin Lazarus 流出 (2024) を経て、認証取得は「任意だが取らないと業界に居られない」状態。",
+  "headings": [
+    "国内 VASP セキュリティ・監査・ISMS 認証実態",
+    "概要",
+    "法令上の義務 (改正資金決済法 + 監督指針)",
+    "第三者認証 (任意だが事実上必須)",
+    "監査法人別 担当 VASP",
+    "国際比較",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/jvcea-self-regulatory-overview",
+      "exchanges/korea-cex-five-pillars-comparison",
+      "exchanges/us-crypto-licensing-multi-layer-system"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1753,
+    "word_like_tokens": 281,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-21"
+  }
+}

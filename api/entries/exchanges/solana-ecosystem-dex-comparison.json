@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/solana-ecosystem-dex-comparison",
+  "source_path": "exchanges/solana-ecosystem-dex-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/solana-ecosystem-dex-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/solana-ecosystem-dex-comparison.md",
+  "domain": "exchanges",
+  "title": "Solana エコシステム DEX 群比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Solana エコシステム DEX 群 — Jupiter / Raydium / Orca / Drift / Phoenix / Meteora 比較",
+    "aliases": [
+      "Solana DEX comparison",
+      "Jupiter Raydium Orca Drift Phoenix Meteora",
+      "Solana ecosystem onchain exchanges"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "dex",
+      "solana",
+      "defi",
+      "ecosystem"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jup.ag/",
+      "https://raydium.io/",
+      "https://www.orca.so/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "Solana エコシステム DEX 群比較",
+    "Wiki route",
+    "概要",
+    "Top 6 protocol プロファイル",
+    "比較表 (設計 / 用途 / TVL)",
+    "memecoin 経済学 (Solana 独自)",
+    "国際比較 — EVM 系との対比"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/global-perp-dex-five-comparison",
+      "exchanges/jvcea-whitelist-listing-timeline",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/ve33-governance-mechanism",
+      "systems/cross-chain-four-poles-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3215,
+    "word_like_tokens": 555,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-24"
+  }
+}

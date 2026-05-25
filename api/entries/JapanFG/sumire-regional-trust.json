@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sumire-regional-trust",
+  "source_path": "JapanFG/sumire-regional-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sumire-regional-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sumire-regional-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sumire-regional-trust.md",
+  "domain": "JapanFG",
+  "title": "Sumire Regional Trust / すみれ地域信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Sumire Regional Trust / すみれ地域信託",
+    "aliases": [
+      "すみれ地域信託",
+      "すみれ地域信託株式会社",
+      "Sumire Regional Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "regional-revitalization",
+      "real-estate",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Sumire Regional Trust policy page: https://www.sumiretrust.co.jp/policy/",
+      "Zentaku case page: https://www.zentaku.or.jp/about/research_project/renovation/renovation-10582/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/sumire-regional-trust",
+  "headings": [
+    "Sumire Regional Trust / すみれ地域信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/greif-trust",
+      "JapanFG/kiriu-real-estate-trust",
+      "JapanFG/sumire-regional-trust",
+      "JapanFG/trust-companies-japan-index",
+      "policy-finance/japan-credit-guarantee-system"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/greif-trust",
+      "https://finwiki.zksc.io/JapanFG/kiriu-real-estate-trust",
+      "https://finwiki.zksc.io/JapanFG/sumire-regional-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2280,
+    "word_like_tokens": 350,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-22"
+  }
+}

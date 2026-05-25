@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/taiko-bank",
+  "source_path": "JapanFG/taiko-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/taiko-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/taiko-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/taiko-bank.md",
+  "domain": "JapanFG",
+  "title": "大光銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大光銀行",
+    "aliases": [
+      "Taiko Bank",
+      "The Taiko Bank",
+      "株式会社大光銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "second-regional-bank",
+      "niigata",
+      "kanto",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.taikobank.jp/company/profile.php"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "大光銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "dai-shi-hokuetsu-fg",
+      "daishi-hokuetsu-bank",
+      "sbi-regional-bank-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
+      "https://finwiki.zksc.io/daishi-hokuetsu-bank",
+      "https://finwiki.zksc.io/sbi-regional-bank-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1816,
+    "word_like_tokens": 291,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

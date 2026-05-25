@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/view-card",
+  "source_path": "JapanFG/view-card.md",
+  "url": "https://finwiki.zksc.io/JapanFG/view-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/view-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/view-card.md",
+  "domain": "JapanFG",
+  "title": "株式会社ビューカード (Viewcard)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社ビューカード (Viewcard)",
+    "aliases": [
+      "View Card",
+      "ビューカード",
+      "Viewcard",
+      "株式会社ビューカード",
+      "Viewcard Co., Ltd.",
+      "VIEW CARD"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "affinity-card",
+      "transit-card",
+      "JR-East-group",
+      "bank-agency"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.viewcard.co.jp/company.html",
+      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010701023263",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社JALカード for peer / contrast context and credit purchase / card operators index for the broader regulatory / registry boundary.",
+  "headings": [
+    "株式会社ビューカード (Viewcard)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・株主",
+    "2. ライセンス・登録",
+    "3. 商品ライン",
+    "4. 主要 KPI（公表ベース）",
+    "5. 業界ポジション",
+    "6. 沿革",
+    "7. 関連企業・取引先"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/credit-saison",
+      "JapanFG/epos-card",
+      "JapanFG/jal-card",
+      "JapanFG/jcb",
+      "JapanFG/jr-east-financial",
+      "JapanFG/seven-card-service",
+      "JapanFG/smbc-card",
+      "payments/cashless-jp-landscape",
+      "payments/credit-purchase-card-operators-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/credit-saison",
+      "https://finwiki.zksc.io/JapanFG/epos-card",
+      "https://finwiki.zksc.io/JapanFG/jal-card",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/jr-east-financial",
+      "https://finwiki.zksc.io/JapanFG/seven-card-service",
+      "https://finwiki.zksc.io/JapanFG/smbc-card",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
+    ],
+    "external_links_count": 3,
+    "external_links": [
+      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010701023263",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "https://www.viewcard.co.jp/company.html"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4514,
+    "word_like_tokens": 703,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/boj-international-dept",
+  "source_path": "JapanFG/boj-international-dept.md",
+  "url": "https://finwiki.zksc.io/JapanFG/boj-international-dept",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/boj-international-dept.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/boj-international-dept.md",
+  "domain": "JapanFG",
+  "title": "国際局 (BoJ International Department)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国際局 (BoJ International Department)",
+    "aliases": [
+      "JapanFG/boj-international-dept",
+      "boj-international-dept",
+      "BoJ International Department",
+      "International Department",
+      "国際局",
+      "BoJ ID"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "central-bank",
+      "internal-bureau",
+      "BoJ",
+      "international",
+      "BIS",
+      "IMF",
+      "FX"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/about/organization/index.htm",
+      "https://www.boj.or.jp/en/intl_finance/index.htm",
+      "https://www.boj.or.jp/en/intl_finance/cooperate/index.htm",
+      "https://www.boj.or.jp/en/intl_finance/fxope/index.htm",
+      "https://www.boj.or.jp/en/about/publication/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 金融市場局 for the domestic market-operations counterpart and FSA 総合政策局 for the FSA-side international-policy lane. For currency-and-FX context, anchor through BoJ monetary policy and Japan money market.",
+  "headings": [
+    "国際局 (BoJ International Department)",
+    "Wiki route",
+    "TL;DR",
+    "1. Function / scope",
+    "2. Counterparty / interaction",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/bank-of-america-japan",
+      "JapanFG/bank-of-china-japan",
+      "JapanFG/bnp-paribas-japan",
+      "JapanFG/boj-financial-markets-dept",
+      "JapanFG/boj-financial-system-dept",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/boj-payment-settlement-dept",
+      "JapanFG/credit-agricole-bank-japan",
+      "JapanFG/fsa-strategy-bureau",
+      "JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bank-of-america-japan",
+      "https://finwiki.zksc.io/JapanFG/bank-of-china-japan",
+      "https://finwiki.zksc.io/JapanFG/bnp-paribas-japan",
+      "https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept",
+      "https://finwiki.zksc.io/JapanFG/boj-financial-system-dept",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept",
+      "https://finwiki.zksc.io/JapanFG/credit-agricole-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5557,
+    "word_like_tokens": 928,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

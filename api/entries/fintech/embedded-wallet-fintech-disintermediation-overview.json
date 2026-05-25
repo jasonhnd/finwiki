@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/embedded-wallet-fintech-disintermediation-overview",
+  "source_path": "fintech/embedded-wallet-fintech-disintermediation-overview.md",
+  "url": "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/embedded-wallet-fintech-disintermediation-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/embedded-wallet-fintech-disintermediation-overview.md",
+  "domain": "fintech",
+  "title": "嵌入式钱包对 Fintech 去中介化 · 四强格局",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "嵌入式钱包对 Fintech 去中介化 · Privy/CDP/Magic/Web3Auth 四强",
+    "aliases": [
+      "embedded wallet fintech disintermediation overview",
+      "embedded wallets Privy CDP Magic Web3Auth",
+      "wallet UX disintermediation"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "embedded-wallet",
+      "privy",
+      "coinbase-cdp",
+      "account-abstraction",
+      "disintermediation"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.privy.io/",
+      "https://www.coinbase.com/developer-platform",
+      "https://magic.link/",
+      "https://web3auth.io/",
+      "https://docs.stripe.com/crypto"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "嵌入式钱包对 Fintech 去中介化 · 四强格局",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/embedded-wallet-network-effects-moat",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/privy-aws-agentcore-default-wallet",
+      "fintech/INDEX",
+      "fintech/ai-payment-two-tracks",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/protocol-hedge-strategy-stripe-pattern",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3277,
+    "word_like_tokens": 556,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-05-25"
+  }
+}

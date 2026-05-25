@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/paolo-ardoino-tether-business-model-template",
+  "source_path": "business/paolo-ardoino-tether-business-model-template.md",
+  "url": "https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/paolo-ardoino-tether-business-model-template.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/paolo-ardoino-tether-business-model-template.md",
+  "domain": "business",
+  "title": "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+    "aliases": [
+      "paolo-ardoino-tether-business-model",
+      "lean-team-treasury-yield-template",
+      "tether-15b-profit-model"
+    ],
+    "domain": "business",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "people",
+      "tether",
+      "stablecoin",
+      "treasury",
+      "business-model",
+      "paolo-ardoino",
+      "template"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against larry fink blackrock digital asset template for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "business/INDEX",
+      "business/larry-fink-blackrock-digital-asset-template",
+      "business/matt-huang-triple-role-coi-template",
+      "business/sandeep-nailwal-polygon-india-dpi-pattern",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/em-market-crypto-dollarization-pattern"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
+      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
+      "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2514,
+    "word_like_tokens": 429,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

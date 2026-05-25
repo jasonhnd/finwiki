@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-cex-deposit-token-stablecoin-integration",
+  "source_path": "exchanges/jp-cex-deposit-token-stablecoin-integration.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-cex-deposit-token-stablecoin-integration.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-cex-deposit-token-stablecoin-integration.md",
+  "domain": "exchanges",
+  "title": "国内 CEX × 預金トークン / EPI 統合戦略 — DCJPY / Progmat / JPYC 連携",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 CEX × 預金トークン / EPI 統合戦略 — DCJPY / Progmat / JPYC 連携",
+    "aliases": [
+      "JP CEX deposit token integration",
+      "国内 CEX × EPI stablecoin",
+      "DCJPY Progmat JPYC × CEX strategy"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "stablecoin",
+      "deposit-token",
+      "epi",
+      "jpyc",
+      "dcjpy"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jpyc.co.jp/",
+      "https://progmat.co.jp/",
+      "https://www.decurret-dcp.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内 CEX × 預金トークン / EPI 統合戦略 — DCJPY / Progmat / JPYC 連携",
+    "Wiki route",
+    "概要",
+    "主要 EPI / 預金トークン プレイヤー",
+    "CEX 側の対応",
+    "ビジネス含意",
+    "戦略ロードマップ",
+    "関連エントリ"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/jpyc",
+      "JapanFG/progmat",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-crypto-garage",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-jpyc",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/japan-epi-four-camps-comparison",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-dcjpy",
+      "fintech/jp-stablecoin-progmat",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jpyc",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2632,
+    "word_like_tokens": 419,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-05-24"
+  }
+}

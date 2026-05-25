@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/japan-security-token-secondary-market-route",
+  "source_path": "securities/japan-security-token-secondary-market-route.md",
+  "url": "https://finwiki.zksc.io/securities/japan-security-token-secondary-market-route",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-security-token-secondary-market-route.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-security-token-secondary-market-route.md",
+  "domain": "securities",
+  "title": "Japan security token secondary market route",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan security token secondary market route",
+    "aliases": [
+      "Japan security token secondary market",
+      "security token secondary market Japan",
+      "日本 セキュリティトークン secondary market"
+    ],
+    "domain": "securities",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "security-token",
+      "PTS",
+      "ODX",
+      "FIEA",
+      "Japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/singi/singi_kinyu/tosin/20220622/houkoku.pdf",
+      "https://www.fsa.go.jp/singi/singi_kinyu/shijoseido_wg/shijoseido_wg_index.html",
+      "https://www.jsda.or.jp/shijyo/seido/jishukisei/web-handbook/106_saiken/index.html",
+      "https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0346.html",
+      "https://www.odx.co.jp/en/news/article/5s13s3n0vcms/",
+      "https://www.odx.co.jp/en/company/about/",
+      "https://progmat.co.jp/concept/",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20230330-02.html",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0010/20220214-01.html",
+      "https://www.jpx.co.jp/english/equities/clearing-settlement/outline/index.html",
+      "https://www.jpx.co.jp/english/equities/clearing-settlement/institution/index.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+    ]
+  },
+  "summary": "Japan security-token secondary-market records connect Financial Instruments and Exchange Act registration, Type I financial instruments business, PTS / alternative trading venue functions, token platform infrastructure, securities-firm distribution, custody / recordkeeping, and issuer disclosure. Th",
+  "headings": [
+    "Japan security token secondary market route",
+    "Overview",
+    "Route Map",
+    "Policy and Rule Route",
+    "ODX / START Route",
+    "Progmat Route",
+    "JPX / BOOSTRY Adjacency",
+    "Public Record Fields",
+    "Settlement Research Fields",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "JapanFG/mufg-mums",
+      "JapanFG/progmat",
+      "JapanFG/sbi-securities",
+      "fintech/jp-stablecoin-progmat",
+      "securities/INDEX",
+      "securities/japan-best-execution-sor-pts",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-pts-liquidity-data-guide",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/osaka-digital-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-pts-liquidity-data-guide",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7348,
+    "word_like_tokens": 1088,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-22"
+  }
+}

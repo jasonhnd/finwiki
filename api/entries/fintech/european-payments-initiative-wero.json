@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/european-payments-initiative-wero",
+  "source_path": "fintech/european-payments-initiative-wero.md",
+  "url": "https://finwiki.zksc.io/fintech/european-payments-initiative-wero",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/european-payments-initiative-wero.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/european-payments-initiative-wero.md",
+  "domain": "fintech",
+  "title": "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+    "aliases": [
+      "european-payments-initiative-wero",
+      "EPI",
+      "Wero",
+      "EPI Wero",
+      "European Payments Initiative"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "payments",
+      "epi",
+      "wero",
+      "european-bank-consortium",
+      "retail-wallet",
+      "sepa-instant",
+      "p2p",
+      "anti-paypal",
+      "digital-euro-prep"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.epicompany.eu/",
+      "https://www.wero-wallet.eu/",
+      "https://www.epicompany.eu/news",
+      "https://www.ecb.europa.eu/paym/intro/news/html/index.en.html",
+      "https://www.bundesbank.de/en/tasks/payment-systems"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with digital euro retail rollout for the ECB-issued retail money parallel track, and with Fnality for the wholesale-side European bank-consortium pattern (Wero is the retail mirror).",
+  "headings": [
+    "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ap2-overview",
+      "agent-economy/x402-http-payment-overview",
+      "fintech/INDEX",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/e-euro-retail-rollout",
+      "fintech/fnality-wholesale-settlement",
+      "fintech/jurisdiction-list-monetary-protectionism",
+      "fintech/mica-overview",
+      "fintech/multi-megabank-consortium-governance",
+      "fintech/stripe-usdb-bridge-stablecoin",
+      "systems/sepa-instant-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
+      "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+      "https://finwiki.zksc.io/fintech/mica-overview",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin",
+      "https://finwiki.zksc.io/systems/sepa-instant-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5327,
+    "word_like_tokens": 932,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/swiss-re-japan",
+  "source_path": "JapanFG/swiss-re-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/swiss-re-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/swiss-re-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/swiss-re-japan.md",
+  "domain": "JapanFG",
+  "title": "スイス再保険日本支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "スイス再保険日本支店",
+    "aliases": [
+      "Swiss Re Japan",
+      "Swiss Reinsurance Japan",
+      "Schweizer Rück Japan",
+      "スイス再保険",
+      "Swiss Re Japan Branch"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "reinsurance",
+      "foreign-affiliated",
+      "non-life-insurance",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.swissre.com/japan/",
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ミュンヘン再保険日本支店 for direct peer (\"Big 2\" global reinsurer) and トーア再保険 for the Japanese domestic-reinsurer contrast. The broader system anchor is nat-cat reinsurance Japan, and historical reference 日本地震再保険 explains the public-private earthquake scheme",
+  "headings": [
+    "スイス再保険日本支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines in Japan",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/japan-earthquake-reinsurance",
+      "JapanFG/munich-re-japan",
+      "JapanFG/toa-reinsurance",
+      "aig-japan",
+      "hannover-re-japan",
+      "insurance/INDEX",
+      "insurance/natcat-reinsurance-japan",
+      "japan-earthquake-reinsurance",
+      "mitsui-sumitomo-insurance",
+      "munich-re-japan",
+      "rga-japan",
+      "sompo-japan-insurance",
+      "toa-reinsurance",
+      "tokio-marine-nichido-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/japan-earthquake-reinsurance",
+      "https://finwiki.zksc.io/JapanFG/munich-re-japan",
+      "https://finwiki.zksc.io/JapanFG/toa-reinsurance",
+      "https://finwiki.zksc.io/aig-japan",
+      "https://finwiki.zksc.io/hannover-re-japan",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/japan-earthquake-reinsurance",
+      "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/munich-re-japan",
+      "https://finwiki.zksc.io/rga-japan",
+      "https://finwiki.zksc.io/sompo-japan-insurance",
+      "https://finwiki.zksc.io/toa-reinsurance",
+      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3270,
+    "word_like_tokens": 463,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/esr-economic-value-solvency",
+  "source_path": "insurance/esr-economic-value-solvency.md",
+  "url": "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/esr-economic-value-solvency.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/esr-economic-value-solvency.md",
+  "domain": "insurance",
+  "title": "ESR (Economic Solvency Ratio)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ESR (Economic Solvency Ratio)",
+    "aliases": [
+      "esr-economic-value-solvency",
+      "ESR",
+      "Economic Solvency Ratio",
+      "経済価値ベースのソルベンシー比率"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "ESR",
+      "solvency",
+      "regulation",
+      "capital"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
+      "https://www.fsa.go.jp/common/law/guide/ins/02c.html",
+      "https://www.nissay.co.jp/news/2025/pdf/kessan202505/gaiyo.pdf",
+      "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_046.pdf"
+    ]
+  },
+  "summary": "This entry sits under insurance index. Read it against Economic value-based solvency regulation for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "headings": [
+    "ESR (Economic Solvency Ratio)",
+    "Wiki route",
+    "TL;DR",
+    "Reading Rule",
+    "JapanFG Relevance",
+    "Analytical Uses",
+    "Cautions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/msad",
+      "JapanFG/nippon-life",
+      "JapanFG/sompo",
+      "JapanFG/tokio-marine",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/natcat-reinsurance-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3505,
+    "word_like_tokens": 552,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-21"
+  }
+}

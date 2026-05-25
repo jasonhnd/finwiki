@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/jp-stablecoin-dcjpy",
+  "source_path": "fintech/jp-stablecoin-dcjpy.md",
+  "url": "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jp-stablecoin-dcjpy.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jp-stablecoin-dcjpy.md",
+  "domain": "fintech",
+  "title": "DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム",
+    "aliases": [
+      "DCJPY",
+      "DeCurret DCP",
+      "ディーカレット DCP",
+      "預金トークン",
+      "DeCurret DCP Inc."
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-stablecoin",
+      "dcjpy",
+      "deposit-token",
+      "decurret"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.decurret-dcp.com/company/",
+      "https://www.decurret-dcp.com/service/",
+      "https://www.decurret-dcp.com/pressrelease/pr-20260402.html",
+      "https://www.decurret-dcp.com/pressrelease/pr-20260403.html",
+      "https://www.decurret-dcp.com/pressrelease/pr-20260326.html",
+      "https://coinpost.jp/?s=DCJPY"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it against 株式会社Progmat — デジタルアセットプラットフォーム概要 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. DCJPY プラットフォームの仕組み",
+    "4. 業務範囲・ユースケース",
+    "5. 市占・業界内ポジション",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/jpyc",
+      "JapanFG/mufg",
+      "JapanFG/progmat",
+      "exchanges/jp-exchange-sblox",
+      "fintech/INDEX",
+      "fintech/japan-epi-four-camps-comparison",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-progmat",
+      "fintech/jp-trust-type-sc-architecture"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jpyc",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sblox",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+    ],
+    "external_links_count": 6,
+    "external_links": [
+      "https://coinpost.jp/?s=DCJPY",
+      "https://www.decurret-dcp.com/company/",
+      "https://www.decurret-dcp.com/pressrelease/pr-20260326.html",
+      "https://www.decurret-dcp.com/pressrelease/pr-20260402.html",
+      "https://www.decurret-dcp.com/pressrelease/pr-20260403.html",
+      "https://www.decurret-dcp.com/service/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 6735,
+    "word_like_tokens": 1107,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-crypto-forensics-vendor-layer",
+  "source_path": "exchanges/global-crypto-forensics-vendor-layer.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-crypto-forensics-vendor-layer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-crypto-forensics-vendor-layer.md",
+  "domain": "exchanges",
+  "title": "グローバル暗号資産 forensics vendor 層 — Chainalysis / Elliptic / TRM / Crystal 比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グローバル暗号資産 forensics vendor 層 — Chainalysis / Elliptic / TRM / Crystal 比較",
+    "aliases": [
+      "Crypto forensics vendor",
+      "Chainalysis Elliptic TRM Labs comparison",
+      "暗号資産 fraud detection vendor"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "forensics",
+      "aml",
+      "compliance",
+      "vendor"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.chainalysis.com/",
+      "https://www.elliptic.co/",
+      "https://www.trmlabs.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "グローバル暗号資産 forensics vendor 層 — Chainalysis / Elliptic / TRM / Crystal 比較",
+    "Wiki route",
+    "概要",
+    "Top 4 vendor 比較",
+    "主要サービス",
+    "主要事件での役割",
+    "国内 VASP との関係",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jp-vasp-security-audit-certification",
+      "fintech/carf-1099da-end-of-crypto-anonymity",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/forensic-identity-anchor-chain",
+      "security/wayback-machine-as-forensic-tool"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3118,
+    "word_like_tokens": 484,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

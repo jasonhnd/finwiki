@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/japan-life-insurance-big-four",
+  "source_path": "insurance/japan-life-insurance-big-four.md",
+  "url": "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/japan-life-insurance-big-four.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/japan-life-insurance-big-four.md",
+  "domain": "insurance",
+  "title": "Japan life insurance big four",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan life insurance big four",
+    "aliases": [
+      "Japan life insurance big four",
+      "日本 生命保険 big four",
+      "Nippon Life Dai-ichi Meiji Yasuda Sumitomo Life comparison"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "life-insurance",
+      "japan",
+      "mutual-company",
+      "solvency",
+      "channel"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.seiho.or.jp/english/about/companies/",
+      "https://www.nissay.co.jp/global/report/integrated/",
+      "https://www.dai-ichi-life-hd.com/en/investor/library/annual_report/",
+      "https://www.meijiyasuda.co.jp/english/disclosure/annual-reports/",
+      "https://www.sumitomolife.co.jp/english/report/",
+      "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
+    ]
+  },
+  "summary": "\"Japan life insurance big four\" is a market shorthand, not a formal FSA category. It usually refers to Nippon Life, Dai-ichi Life, Meiji Yasuda, and Sumitomo Life. Public comparison fields include legal form, channel architecture, product mix, overseas expansion, capital disclosure, and policyholder",
+  "headings": [
+    "Japan life insurance big four",
+    "Overview",
+    "Comparison Snapshot",
+    "Legal Form",
+    "Channel Architecture",
+    "Product / Balance-Sheet Lens",
+    "Company Notes",
+    "Nippon Life",
+    "Dai-ichi Life",
+    "Meiji Yasuda"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-life",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/lifenet",
+      "JapanFG/meiji-yasuda",
+      "JapanFG/nippon-life",
+      "JapanFG/sumitomo-life",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/esr-economic-value-solvency",
+      "insurance/insurance-agency-and-brokerage-japan",
+      "insurance/internet-life-insurance-business-model",
+      "insurance/life-insurance-channel-mix",
+      "insurance/mutual-vs-stock-life-insurer"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/lifenet",
+      "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
+      "https://finwiki.zksc.io/JapanFG/nippon-life",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+      "https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan",
+      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6791,
+    "word_like_tokens": 983,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-05-22"
+  }
+}

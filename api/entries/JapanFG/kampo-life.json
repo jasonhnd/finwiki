@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/kampo-life",
+  "source_path": "JapanFG/kampo-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/kampo-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kampo-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/kampo-life.md",
+  "domain": "JapanFG",
+  "title": "かんぽ生命保険 (Japan Post Insurance)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "かんぽ生命保険 (Japan Post Insurance)",
+    "aliases": [
+      "Japan Post Insurance",
+      "かんぽ生命",
+      "かんぽ",
+      "Kampo Life",
+      "株式会社かんぽ生命保険",
+      "7181"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "post"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: かんぽ生命保険 (公開情報 2026-05-19 抽出)",
+      "かんぽ生命 公式 IR / 沿革ページ (公開情報)",
+      "金融庁 業務改善命令・業務停止命令 公表資料 (2019-12 / 2020-01)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "かんぽ生命保険 (Japan Post Insurance)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要 KPI（概観）^[ambiguous]",
+    "グループ構造",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "旧簡易保険ブランドと郵便局網"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-life",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "mizuho-fg",
+      "msad",
+      "mufg",
+      "nippon-life",
+      "smfg",
+      "sompo",
+      "tokio-marine"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sompo",
+      "https://finwiki.zksc.io/tokio-marine"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5158,
+    "word_like_tokens": 682,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/toyama-first-bank",
+  "source_path": "JapanFG/toyama-first-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/toyama-first-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/toyama-first-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/toyama-first-bank.md",
+  "domain": "JapanFG",
+  "title": "富山第一銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "富山第一銀行",
+    "aliases": [
+      "Toyama Daiichi Bank",
+      "The First Bank of Toyama",
+      "富山第一銀行株式会社",
+      "株式会社富山第一銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "second-regional-bank",
+      "toyama",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.first-bank.co.jp/about/company/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "富山第一銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/tokushima-taisho-bank",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "hokkoku-bank",
+      "hokkoku-fhd",
+      "hokuhoku-fg",
+      "hokuriku-bank",
+      "toyama-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/tokushima-taisho-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/hokkoku-bank",
+      "https://finwiki.zksc.io/hokkoku-fhd",
+      "https://finwiki.zksc.io/hokuhoku-fg",
+      "https://finwiki.zksc.io/hokuriku-bank",
+      "https://finwiki.zksc.io/toyama-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1711,
+    "word_like_tokens": 273,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-24"
+  }
+}

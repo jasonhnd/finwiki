@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/japan-listed-company-disclosure-monitoring",
+  "source_path": "fintech/japan-listed-company-disclosure-monitoring.md",
+  "url": "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-listed-company-disclosure-monitoring.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/japan-listed-company-disclosure-monitoring.md",
+  "domain": "fintech",
+  "title": "日本上場会社 開示情報モニタリング SOP（17 チャネル）",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本上場会社 開示情報モニタリング SOP（17 チャネル）",
+    "aliases": [],
+    "domain": "fintech",
+    "created": "2026-04-24",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "needs-review"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "https://www.release.tdnet.info/inbs/I_main_00.html",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www2.jpx.co.jp/tseHpFront/JJK010010Action.do"
+    ]
+  },
+  "summary": "適切な渠道選択により、公告 15:00 発表から数分以内の補足 + 翌日の舆情動向把握までを効率的にカバーできる。",
+  "headings": [
+    "日本上場会社 開示情報モニタリング SOP（17 チャネル）",
+    "三層構造",
+    "一層: 官方源（Primary · 最権威）",
+    "二層: 聚合器（Secondary · 易用性）",
+    "三層: 海外通道（Tertiary · 外盤参考）",
+    "時系列 SOP（大型開示日）",
+    "T-1 日（前日）",
+    "当日（T=0）",
+    "T+1 日〜 T+3 日",
+    "T+7 日〜 T+30 日"
+  ],
+  "body_links": {
+    "wikilinks_count": 5,
+    "wikilinks": [
+      "INDEX",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-tender-offer-process",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-third-party-allotment-5-step-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3440,
+    "word_like_tokens": 549,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

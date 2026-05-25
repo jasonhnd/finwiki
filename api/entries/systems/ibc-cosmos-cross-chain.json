@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/ibc-cosmos-cross-chain",
+  "source_path": "systems/ibc-cosmos-cross-chain.md",
+  "url": "https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/ibc-cosmos-cross-chain.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/ibc-cosmos-cross-chain.md",
+  "domain": "systems",
+  "title": "IBC · Cosmos Inter-Blockchain Communication protocol",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "IBC · Cosmos Inter-Blockchain Communication protocol",
+    "aliases": [
+      "ibc-cosmos-cross-chain",
+      "IBC",
+      "Inter-Blockchain Communication",
+      "IBC v2",
+      "Cosmos hub-and-spoke"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "cosmos",
+      "ibc",
+      "light-client",
+      "hub-and-spoke",
+      "hyperlane",
+      "layerzero",
+      "ccip"
+    ],
+    "status": "active",
+    "sources": [
+      "https://ibc.cosmos.network/",
+      "https://github.com/cosmos/ibc",
+      "https://docs.cosmos.network/",
+      "https://tutorials.cosmos.network/",
+      "https://github.com/cosmos/ibc-go"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against cross-chain four poles overview and cross-chain five-pole matrix for peer / contrast, CCTP V2 for the alternative trust-minimized model, and Hyperlane vs LayerZero / CCIP for the broader interop comparison.",
+  "headings": [
+    "IBC · Cosmos Inter-Blockchain Communication protocol",
+    "Wiki route",
+    "Key facts",
+    "Trust model — light clients on both sides",
+    "IBC v1 vs IBC v2",
+    "Comparison vs other interop protocols",
+    "IBC channel and packet lifecycle",
+    "Origin and evolution",
+    "Counterpoints",
+    "Open questions"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "systems/INDEX",
+      "systems/cctp-v2-overview",
+      "systems/chainlink-ccip-institutional-messaging",
+      "systems/cross-chain-bridge-security-insurance-matrix-2026",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-overview",
+      "systems/data-availability-celestia-eigenda-blob-comparison",
+      "systems/erc-4337-userop-bundler-flow",
+      "systems/hyperlane-overview",
+      "systems/hyperlane-vs-layerzero-ccip",
+      "systems/layerzero-v2-omnichain-messaging",
+      "systems/polkadot-xcm-parachain-messaging"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+      "https://finwiki.zksc.io/systems/cross-chain-bridge-security-insurance-matrix-2026",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+      "https://finwiki.zksc.io/systems/data-availability-celestia-eigenda-blob-comparison",
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
+      "https://finwiki.zksc.io/systems/hyperlane-overview",
+      "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip",
+      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
+      "https://finwiki.zksc.io/systems/polkadot-xcm-parachain-messaging"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7131,
+    "word_like_tokens": 1117,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

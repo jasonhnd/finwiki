@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-vasp-incident-history",
+  "source_path": "exchanges/jp-vasp-incident-history.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-incident-history.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-incident-history.md",
+  "domain": "exchanges",
+  "title": "国内 VASP 暗号資産流出事件史 (2014-2026)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 VASP 暗号資産流出事件史 (2014-2026)",
+    "aliases": [
+      "日本 VASP hack history",
+      "国内暗号資産流出事件",
+      "JP crypto exchange incident timeline"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "incident",
+      "security",
+      "history"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "国内 VASP 史は大規模流出事件によって規制が前進してきた歴史である。Mt.Gox (2014) は資金決済法改正の引き金となり、Coincheck (2018) は自主規制機関 JVCEA 発足とコールド保管比率規制の起点、DMM Bitcoin (2024) は北朝鮮 Lazarus 帰属が公的に確認された大型事案として SBI VC トレードへの事業移管を生んだ。流出は単発事件でなく、ホットウォレット 5% 上限・分別管理義務などの「制度反射」を伴って繰り返されてきた。",
+  "headings": [
+    "国内 VASP 暗号資産流出事件史 (2014-2026)",
+    "概要",
+    "主要事件 timeline",
+    "規制反射 (3 段階)",
+    "Lazarus 帰属の位置づけ",
+    "関連"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-exchange-dmm-bitcoin",
+      "exchanges/jp-exchange-zaif",
+      "exchanges/jp-foreign-exchange-bitforex",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-zaif",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitforex",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2075,
+    "word_like_tokens": 321,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-05-25"
+  }
+}

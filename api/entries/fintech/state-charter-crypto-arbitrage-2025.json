@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/state-charter-crypto-arbitrage-2025",
+  "source_path": "fintech/state-charter-crypto-arbitrage-2025.md",
+  "url": "https://finwiki.zksc.io/fintech/state-charter-crypto-arbitrage-2025",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/state-charter-crypto-arbitrage-2025.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/state-charter-crypto-arbitrage-2025.md",
+  "domain": "fintech",
+  "title": "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+    "aliases": [
+      "state-charter-crypto-arbitrage-2025",
+      "wyoming-spdi-vs-occ",
+      "custodia-kraken-financial-charter",
+      "nevada-digital-asset-bank",
+      "nydfs-bitlicense-exit",
+      "texas-crypto-regulator-wins",
+      "occ-vs-state-turf-war"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "2026-event",
+      "state-charter",
+      "wyoming",
+      "nevada",
+      "new-york",
+      "texas",
+      "occ",
+      "regulatory-arbitrage",
+      "spdi",
+      "bitlicense"
+    ],
+    "status": "active",
+    "sources": [
+      "Wyoming Banking Division SPDI register",
+      "Nevada Financial Institutions Division digital asset framework",
+      "NYDFS BitLicense register",
+      "Texas Department of Banking guidance (2023-2025)",
+      "OCC Interpretive Letters 1170 / 1172 / 1174",
+      "Custodia Bank v. Federal Reserve Board litigation docket",
+      "Kraken Financial corporate disclosures",
+      "Public press: WSJ / Bloomberg / Coindesk / The Block coverage 2024-2026"
+    ]
+  },
+  "summary": "US crypto firms in 2025-2026 face a four-way regulatory arbitrage: the federal OCC trust bank charter path (Bridge/Stripe pioneered), state-chartered Wyoming SPDI (Custodia, Kraken Financial), Nevada digital asset bank charter (2023-launched, slower uptake), and New York BitLicense (exodus accelerat",
+  "headings": [
+    "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+    "TL;DR",
+    "Wiki route",
+    "The four arbitrage paths — comparison",
+    "Wyoming SPDI — the speed leader",
+    "Custodia Bank — the test case",
+    "Kraken Financial — the operational case",
+    "Two Ocean Trust and others",
+    "Nevada — the second-mover digital asset bank charter",
+    "New York BitLicense exit pressure"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "fintech/INDEX",
+      "fintech/cftc-sec-crypto-jurisdiction",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/jurisdiction-list-monetary-protectionism",
+      "fintech/national-license-private-stablecoin-with-dpi-export",
+      "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "fintech/regulatory-window-strategic-acquisition"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+      "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
+      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 20034,
+    "word_like_tokens": 3297,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

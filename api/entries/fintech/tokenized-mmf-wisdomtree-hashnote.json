@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/tokenized-mmf-wisdomtree-hashnote",
+  "source_path": "fintech/tokenized-mmf-wisdomtree-hashnote.md",
+  "url": "https://finwiki.zksc.io/fintech/tokenized-mmf-wisdomtree-hashnote",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tokenized-mmf-wisdomtree-hashnote.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/tokenized-mmf-wisdomtree-hashnote.md",
+  "domain": "fintech",
+  "title": "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+    "aliases": [
+      "tokenized-mmf-wisdomtree-hashnote",
+      "WTGXX",
+      "USYC",
+      "Hashnote USYC",
+      "WisdomTree WTGXX",
+      "second-tier tokenized MMF"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "tokenization",
+      "mmf",
+      "wisdomtree",
+      "hashnote",
+      "usyc",
+      "wtgxx",
+      "rwa",
+      "second-tier",
+      "comparison-matrix"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx",
+      "https://www.wisdomtree.com/insights/wisdomtree-prime",
+      "https://www.usyc.com/",
+      "https://www.hashnote.com/",
+      "https://www.circle.com/blog/circle-acquires-hashnote",
+      "https://www.sec.gov/Archives/edgar/data/wisdomtree-prime",
+      "https://www.coindesk.com/business/2024/circle-hashnote-acquisition-usyc"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL (leader 第一梯队) and Franklin BENJI / Apollo ACRED for the full tokenized-MMF and tokenized-RWA matrix, and with 储备金互锁飞轮 for the systemic role tokenized MMF plays as stablecoin yield infrastructure.",
+  "headings": [
+    "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/blackrock-buidl-sc-issuer-adoption",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/circular-reserve-asset-flywheel-overview",
+      "fintech/franklin-templeton-stablecoin-migration",
+      "fintech/frax-frxusd-defi-stablecoin",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/ondo-finance-rusdy-adoption",
+      "fintech/portfolio-winner-structure-arm-analog",
+      "fintech/sky-usds-decentralized-stablecoin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
+      "https://finwiki.zksc.io/fintech/franklin-templeton-stablecoin-migration",
+      "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/ondo-finance-rusdy-adoption",
+      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
+      "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6268,
+    "word_like_tokens": 1069,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

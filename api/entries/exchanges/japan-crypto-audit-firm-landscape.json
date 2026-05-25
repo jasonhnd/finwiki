@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/japan-crypto-audit-firm-landscape",
+  "source_path": "exchanges/japan-crypto-audit-firm-landscape.md",
+  "url": "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/japan-crypto-audit-firm-landscape.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/japan-crypto-audit-firm-landscape.md",
+  "domain": "exchanges",
+  "title": "国内クリプト監査法人 ランドスケープ — Big4 + 太陽 + BDO 三優 クリプト実務比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内クリプト監査法人 ランドスケープ — Big4 + 太陽 + BDO 三優 クリプト実務比較",
+    "aliases": [
+      "JP crypto audit firm landscape",
+      "国内暗号資産監査 大手監査法人",
+      "Crypto audit Big4 Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "audit",
+      "accounting",
+      "big4",
+      "assurance",
+      "compliance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/digital-asset.html",
+      "https://www2.deloitte.com/jp/ja/pages/risk/articles/grc/crypto-assets.html",
+      "https://www.pwc.com/jp/ja/issues/crypto-asset.html",
+      "https://kpmg.com/jp/ja/home/services/audit/financial-services/crypto-assets-blockchain.html",
+      "https://www.shinnihon.or.jp/services/financial-services/crypto-assets/",
+      "https://www.grantthornton.jp/",
+      "https://www.bdo.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 VASP セキュリティ監査・認証取得状況 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内クリプト監査法人 ランドスケープ — Big4 + 太陽 + BDO 三優 クリプト実務比較",
+    "Wiki route",
+    "概要",
+    "Big4 監査法人クリプト実務",
+    "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
+    "EY 新日本有限責任監査法人 (EY ShinNihon)",
+    "有限責任 あずさ監査法人 (KPMG AZSA)",
+    "PwC あらた有限責任監査法人 (PwC Aarata)",
+    "準大手 (Tier 2)",
+    "Web3 / トークン発行体特有の論点"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/japan-crypto-law-firm-landscape",
+      "exchanges/jcba-japan-crypto-business-association",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-crypto-bank-credit-facilities",
+      "exchanges/jp-custody-fireblocks-japan",
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/jp-vasp-security-audit-certification",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-law-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
+      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4346,
+    "word_like_tokens": 628,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-coinone-korea",
+  "source_path": "exchanges/cex-coinone-korea.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-coinone-korea",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coinone-korea.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-coinone-korea.md",
+  "domain": "exchanges",
+  "title": "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系",
+    "aliases": [
+      "Coinone",
+      "코인원",
+      "Coinone Korea"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "korea",
+      "krw-spot",
+      "isms-p",
+      "daxa"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Coinone 공식 IR / 회사 소개 페이지, coinone.co.kr)",
+      "公開情報整理 (FSC / FIU 가상자산사업자 등록 정보, 한국 금융정보분석원)",
+      "公開情報整理 (KISA ISMS-P 인증 발표)",
+      "公開情報整理 (NH 농협은행 / 케이뱅크 실명확인 입출금 계정 보도)",
+      "公開情報整理 (DAXA 가상자산 거래소 자율규제 협의체 발표)",
+      "公開情報整理 (Coinone 경영진 검찰 기소 2022 보도, 코인데스크 코리아 / 한겨레)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
+  "headings": [
+    "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（韓国制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 業界での位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-bithumb-korea",
+      "exchanges/cex-gopax-korea",
+      "exchanges/cex-korbit-korea",
+      "exchanges/cex-upbit-korea",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/korea-cex-five-pillars-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+      "https://finwiki.zksc.io/exchanges/cex-gopax-korea",
+      "https://finwiki.zksc.io/exchanges/cex-korbit-korea",
+      "https://finwiki.zksc.io/exchanges/cex-upbit-korea",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4706,
+    "word_like_tokens": 729,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

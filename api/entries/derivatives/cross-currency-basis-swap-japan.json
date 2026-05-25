@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/cross-currency-basis-swap-japan",
+  "source_path": "derivatives/cross-currency-basis-swap-japan.md",
+  "url": "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/cross-currency-basis-swap-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/cross-currency-basis-swap-japan.md",
+  "domain": "derivatives",
+  "title": "Cross-currency basis swap (Japan focus)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Cross-currency basis swap (Japan focus)",
+    "aliases": [
+      "cross-currency-basis-swap-japan",
+      "CCBS JPY-USD",
+      "通貨ベーシス スワップ",
+      "Japan cross-currency basis",
+      "JPY-USD basis",
+      "EUR-USD basis",
+      "year-end basis widening",
+      "BoJ-Fed swap line"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "fx",
+      "basis",
+      "funding",
+      "life-insurer",
+      "central-bank-swap"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/paym/market/index.htm",
+      "https://www.boj.or.jp/en/announcements/release_2008/index.htm",
+      "https://www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm",
+      "https://www.isda.org/",
+      "https://www.bis.org/publ/qtrpdf/r_qt1709.htm"
+    ]
+  },
+  "summary": "A cross-currency basis swap (CCBS) is an OTC derivative in which two counterparties exchange floating-rate interest payments in two different currencies, with the principal also exchanged at inception and re-exchanged at maturity. The \"basis\" is the spread quoted on one leg (conventionally the non-U",
+  "headings": [
+    "Cross-currency basis swap (Japan focus)",
+    "TL;DR",
+    "Wiki route",
+    "Mechanics",
+    "Notional, collateral, and credit exchanges",
+    "Why the basis deviates from zero",
+    "JPY-USD vs EUR-USD basis dynamics",
+    "Term-structure of basis",
+    "Year-end / quarter-end widening",
+    "Central bank swap lines"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/mizuho-bank",
+      "JapanFG/mufg-bank",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "derivatives/INDEX",
+      "derivatives/corporate-fx-hedge-policy-japan-listed",
+      "derivatives/fx-options-japan-corporate-treasury",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/japan-irs-market",
+      "derivatives/jgb-futures-curve",
+      "derivatives/ois-tona-curve",
+      "derivatives/yen-basis-swap-market",
+      "finance/japan-corporate-fx-and-rate-hedge-policy",
+      "insurance/japan-life-insurance-alm-overview",
+      "money-market/INDEX",
+      "money-market/boj-open-market-operations",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/corporate-fx-hedge-policy-japan-listed",
+      "https://finwiki.zksc.io/derivatives/fx-options-japan-corporate-treasury",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/jgb-futures-curve",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
+      "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 15040,
+    "word_like_tokens": 2662,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-25"
+  }
+}

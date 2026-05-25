@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/layerzero-v2-omnichain-messaging",
+  "source_path": "systems/layerzero-v2-omnichain-messaging.md",
+  "url": "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/layerzero-v2-omnichain-messaging.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/layerzero-v2-omnichain-messaging.md",
+  "domain": "systems",
+  "title": "LayerZero v2 · DVN 可配置的全链消息协议",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "LayerZero v2 · DVN 可配置的全链消息协议",
+    "aliases": [
+      "layerzero-v2-omnichain-messaging",
+      "layerzero",
+      "layerzero-dvn",
+      "stargate"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "layerzero",
+      "dvn",
+      "omnichain",
+      "stargate"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "LayerZero v2 · DVN 可配置的全链消息协议",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "fintech/INDEX",
+      "fintech/cosmos-ibc-for-financial-institutions",
+      "fintech/usd-stablecoin-interchange",
+      "systems/INDEX",
+      "systems/chainlink-ccip-institutional-messaging",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2359,
+    "word_like_tokens": 380,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

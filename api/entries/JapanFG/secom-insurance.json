@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/secom-insurance",
+  "source_path": "JapanFG/secom-insurance.md",
+  "url": "https://finwiki.zksc.io/JapanFG/secom-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/secom-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/secom-insurance.md",
+  "domain": "JapanFG",
+  "title": "セコム損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "セコム損害保険",
+    "aliases": [
+      "セコム損保",
+      "Secom Insurance",
+      "Secom General Insurance",
+      "セコム損害保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "security-services",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.sonpohogo.or.jp/outline/member-companies.html",
+      "https://www.secom-sonpo.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "セコム損害保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/anicom-insurance",
+      "JapanFG/sompo-direct",
+      "JapanFG/sompo-japan-insurance",
+      "JapanFG/tokio-marine-nichido-fire",
+      "insurance/INDEX",
+      "insurance/natcat-reinsurance-japan",
+      "sompo-japan-insurance",
+      "tokio-marine-nichido-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/anicom-insurance",
+      "https://finwiki.zksc.io/JapanFG/sompo-direct",
+      "https://finwiki.zksc.io/JapanFG/sompo-japan-insurance",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine-nichido-fire",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/sompo-japan-insurance",
+      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2181,
+    "word_like_tokens": 330,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

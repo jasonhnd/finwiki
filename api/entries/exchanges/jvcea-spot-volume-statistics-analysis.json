@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jvcea-spot-volume-statistics-analysis",
+  "source_path": "exchanges/jvcea-spot-volume-statistics-analysis.md",
+  "url": "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-spot-volume-statistics-analysis.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jvcea-spot-volume-statistics-analysis.md",
+  "domain": "exchanges",
+  "title": "JVCEA 国内 spot 取引高 統計分析 (2017-2026)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JVCEA 国内 spot 取引高 統計分析 (2017-2026)",
+    "aliases": [
+      "JVCEA spot volume statistics",
+      "国内暗号資産 spot 取引高推移",
+      "日本 VASP spot 取引高"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "statistics",
+      "jvcea",
+      "market-structure",
+      "spot"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://jvcea.or.jp/about/statistics/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against JVCEA — 日本暗号資産取引業協会 自主規制制度 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "JVCEA 国内 spot 取引高 統計分析 (2017-2026)",
+    "Wiki route",
+    "概要",
+    "主要統計指標 (公開項目)",
+    "中期トレンド",
+    "業界構造",
+    "海外比較",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jp-cex-sales-vs-exchange-model-economics",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/jp-vasp-parent-company-map",
+      "exchanges/jvcea-self-regulatory-overview",
+      "exchanges/korea-cex-five-pillars-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1781,
+    "word_like_tokens": 289,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/jhf-mbs-vs-private-rmbs-spread",
+  "source_path": "structured-finance/jhf-mbs-vs-private-rmbs-spread.md",
+  "url": "https://finwiki.zksc.io/structured-finance/jhf-mbs-vs-private-rmbs-spread",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/jhf-mbs-vs-private-rmbs-spread.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/jhf-mbs-vs-private-rmbs-spread.md",
+  "domain": "structured-finance",
+  "title": "JHF MBS vs private RMBS spread",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JHF MBS vs private RMBS spread",
+    "aliases": [
+      "JHF MBS spread",
+      "Private RMBS spread Japan",
+      "Japan MBS spread comparison",
+      "JHF vs private spread",
+      "JGB MBS spread",
+      "Japan RMBS pricing"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "mbs",
+      "rmbs",
+      "spread",
+      "jhf",
+      "japan",
+      "pricing"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jhf.go.jp/about/index.html",
+      "https://www.jcr.co.jp/en/",
+      "https://www.r-i.co.jp/en/",
+      "https://www.jsda.or.jp/en/"
+    ]
+  },
+  "summary": "JHF MBS senior tranches trade tight vs JGB — typically in the 10-30bp range — reflecting effective sovereign-linked credit and predictable monthly supply. Private RMBS senior tranches trade meaningfully wider — typically 50-100bp vs JGB — reflecting the absence of government support and reliance on",
+  "headings": [
+    "JHF MBS vs private RMBS spread",
+    "TL;DR",
+    "Wiki route",
+    "1. Spread benchmarks",
+    "2. Drivers of the spread gap",
+    "3. Government-support spread component",
+    "4. Prepayment behavior difference",
+    "5. Institutional investor preference",
+    "6. Curve dynamics",
+    "7. Implications for structuring decisions"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "banking/INDEX",
+      "money-market/INDEX",
+      "policy-finance/INDEX",
+      "policy-finance/japan-housing-finance-agency",
+      "structured-finance/INDEX",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/japan-rmbs-issuance-structure",
+      "structured-finance/jhf-mbs-mechanics"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
+      "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7329,
+    "word_like_tokens": 1120,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

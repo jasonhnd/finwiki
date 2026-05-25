@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-vietnam-overview",
+  "source_path": "exchanges/cex-vietnam-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-vietnam-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-vietnam-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-vietnam-overview.md",
+  "domain": "exchanges",
+  "title": "ベトナム暗号通貨取引所ランドスケープ — SBV 規制曖昧 / ONUS / Remitano / グレー市場 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ベトナム暗号通貨取引所ランドスケープ — SBV 規制曖昧 / ONUS / Remitano / グレー市場",
+    "aliases": [
+      "Vietnam crypto exchange landscape",
+      "Vietnam CEX overview",
+      "ONUS Vietnam",
+      "Remitano",
+      "Việt Nam tiền điện tử sàn giao dịch"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "cex",
+      "vietnam",
+      "vnd-pair",
+      "regulatory-ambiguity",
+      "gray-market"
+    ],
+    "status": "candidate",
+    "sources": [
+      "公開情報整理 (State Bank of Vietnam / SBV 仮想通貨関連声明・通達, sbv.gov.vn)",
+      "公開情報整理 (Vietnam 財務省 / MoF 仮想資産税制・規制関連声明)",
+      "公開情報整理 (ONUS 公式 IR / About, goonus.io)",
+      "公開情報整理 (Remitano 公式 IR / About, remitano.com)",
+      "公開情報整理 (Vietnam crypto market reports Chainalysis Global Crypto Adoption Index)",
+      "公開情報整理 (Tuổi Trẻ / VnExpress 仮想通貨関連報道)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against CoinDCX India / Mercado Bitcoin Brazil for new-market peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
+  "headings": [
+    "ベトナム暗号通貨取引所ランドスケープ — SBV 規制曖昧 / ONUS / Remitano / グレー市場 overview",
+    "Wiki route",
+    "1. 規制環境概要（2026 年時点）",
+    "SBV（State Bank of Vietnam）の公式立場",
+    "課税",
+    "AML/CFT",
+    "2. 主要事業者プロファイル",
+    "ONUS（旧称 VNDC）",
+    "Remitano",
+    "offshore CEX のベトナム市場プレゼンス"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-bithumb-korea",
+      "exchanges/cex-coindcx-india",
+      "exchanges/cex-mercado-bitcoin-brazil",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-foreign-exchange-bybit",
+      "exchanges/sg-mas-dpt-licensing-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+      "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
+      "https://finwiki.zksc.io/exchanges/cex-mercado-bitcoin-brazil",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
+      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5051,
+    "word_like_tokens": 784,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

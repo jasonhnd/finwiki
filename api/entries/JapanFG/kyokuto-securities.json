@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/kyokuto-securities",
+  "source_path": "JapanFG/kyokuto-securities.md",
+  "url": "https://finwiki.zksc.io/JapanFG/kyokuto-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kyokuto-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/kyokuto-securities.md",
+  "domain": "JapanFG",
+  "title": "極東証券 (Kyokuto Securities)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "極東証券 (Kyokuto Securities)",
+    "aliases": [
+      "Kyokuto Securities",
+      "Kyokuto Securities Co.",
+      "Ltd.",
+      "極東証券",
+      "極東証券株式会社",
+      "8706"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "independent",
+      "mid-tier"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html",
+      "https://www.kyokuto-sec.co.jp/company/profile.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 丸三証券 for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for FIEA license boundary.",
+  "headings": [
+    "極東証券 (Kyokuto Securities)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. 公司結構",
+    "業態の特徴",
+    "重要年表 (公開情報ベース)",
+    "3. 业务线 map",
+    "4. 战略与競争",
+    "外債特化型ニッチ"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aizawa-sg",
+      "JapanFG/daiwa-sg",
+      "JapanFG/iwai-cosmo-hd",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/securities-license-stack",
+      "JapanFG/marusan-securities",
+      "JapanFG/nomura-hd",
+      "JapanFG/okasan-sg",
+      "JapanFG/smbc-nikko",
+      "JapanFG/tachibana-securities",
+      "JapanFG/tokai-tokyo-fh",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aizawa-sg",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/iwai-cosmo-hd",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/JapanFG/marusan-securities",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/okasan-sg",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/tachibana-securities",
+      "https://finwiki.zksc.io/JapanFG/tokai-tokyo-fh",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3978,
+    "word_like_tokens": 512,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

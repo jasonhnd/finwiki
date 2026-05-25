@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/au-fh",
+  "source_path": "JapanFG/au-fh.md",
+  "url": "https://finwiki.zksc.io/JapanFG/au-fh",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/au-fh.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/au-fh.md",
+  "domain": "JapanFG",
+  "title": "au フィナンシャルホールディングス (au-FH)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "au フィナンシャルホールディングス (au-FH)",
+    "aliases": [
+      "au-FH",
+      "auFH",
+      "au Financial Holdings",
+      "au フィナンシャル HD",
+      "auフィナンシャルホールディングス",
+      "KDDI 金融"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "telecom-fg",
+      "ipo-candidate"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: auフィナンシャルホールディングス (2026-05-19 抽出)",
+      "Wikipedia: auじぶん銀行 / auカブコム証券 / auじぶんでんき各項目 (2026-05-19 抽出)",
+      "KDDI 2026年3月期 決算短信・決算説明資料 (2026-05-12 公式 IR)",
+      "KDDI 適時開示『auフィナンシャルホールディングス株式会社の東京証券取引所への株式上場準備の開始について』(2026-05-12)",
+      "auじぶん銀行 公式プレスリリース：預金残高5兆円突破 (2025-08-06)・預金口座数700万突破 (2025-09-20)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against PayPay 金融グループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "au フィナンシャルホールディングス (au-FH)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "KPI 実績（KDDI 公式 IR・auじぶん銀行 公式 PR ベース）",
+    "主要子会社・持分（公開情報ベース）",
+    "重要年表（抜粋）^[extracted]",
+    "沿革トピック",
+    "2. 业务线 map",
+    "3. 战略与竞争"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/paypay-fg",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "mufg",
+      "ndfg",
+      "paypay-fg",
+      "rakuten-fg",
+      "smfg",
+      "ssnb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ssnb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9782,
+    "word_like_tokens": 1810,
+    "inbound_wikilinks_count": 27,
+    "last_modified": "2026-05-21"
+  }
+}

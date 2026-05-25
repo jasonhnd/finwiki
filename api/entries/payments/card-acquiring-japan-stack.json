@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/card-acquiring-japan-stack",
+  "source_path": "payments/card-acquiring-japan-stack.md",
+  "url": "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/card-acquiring-japan-stack.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/card-acquiring-japan-stack.md",
+  "domain": "payments",
+  "title": "Japan card acquiring stack",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan card acquiring stack",
+    "aliases": [
+      "payments/card-acquiring-japan-stack",
+      "card-acquiring-japan-stack",
+      "Japan card acquiring",
+      "クレジットカード加盟店契約"
+    ],
+    "domain": "payments",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "card-acquiring",
+      "installment-sales-act",
+      "PSP",
+      "PCI-DSS"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/3-1teiketusinnsei.html",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "Japan card acquiring should be read as a merchant-contracting and card-data-control stack, not only as a payment-processing feature. METI's Installment Sales Act materials define the registered merchant-contracting role as the business of concluding contracts that allow merchants to handle credit ca",
+  "headings": [
+    "Japan card acquiring stack",
+    "TL;DR",
+    "Core Stack",
+    "Registration Boundary",
+    "Operating Duties",
+    "Business Model Lens",
+    "JapanFG Relevance",
+    "Counterpoints",
+    "Open Questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/gmo-payment-gateway",
+      "JapanFG/jcb",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5821,
+    "word_like_tokens": 875,
+    "inbound_wikilinks_count": 28,
+    "last_modified": "2026-05-20"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/taiwan-cooperative-bank-japan",
+  "source_path": "JapanFG/taiwan-cooperative-bank-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/taiwan-cooperative-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/taiwan-cooperative-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/taiwan-cooperative-bank-japan.md",
+  "domain": "JapanFG",
+  "title": "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)",
+    "aliases": [
+      "Taiwan Cooperative Bank Japan",
+      "Taiwan Cooperative Bank Tokyo Branch",
+      "合作金庫商業銀行東京支店",
+      "TCB Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Taiwan",
+      "corporate-banking",
+      "trade-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.tcb-bank.com.tw/about-tcb/info/locations/oversea/tokyo-jp/profile",
+      "https://www.fsc.gov.tw/en/home.jsp?dataserno=202403050001&dtable=News&id=54&mcustomize=multimessage_view.jsp&parentpath=0"
+    ]
+  },
+  "summary": "Taiwan Cooperative Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Chang Hwa Bank Japan, First Commercial Bank Japan, Taiwan Business Bank Japan, and banking index.",
+  "headings": [
+    "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/chang-hwa-bank-japan",
+      "JapanFG/first-commercial-bank-japan",
+      "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "JapanFG/taipei-fubon-bank-japan",
+      "JapanFG/taiwan-business-bank-japan",
+      "banking/INDEX",
+      "finance/cross-border-m-a-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/chang-hwa-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/first-commercial-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/JapanFG/taipei-fubon-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/taiwan-business-bank-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3683,
+    "word_like_tokens": 579,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-22"
+  }
+}

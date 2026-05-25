@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/japannext-securities",
+  "source_path": "securities/japannext-securities.md",
+  "url": "https://finwiki.zksc.io/securities/japannext-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japannext-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japannext-securities.md",
+  "domain": "securities",
+  "title": "ジャパンネクスト証券 (Japannext)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ジャパンネクスト証券 (Japannext)",
+    "aliases": [
+      "Japannext",
+      "Japannext PTS",
+      "ジャパンネクスト証券",
+      "J-Market",
+      "X-Market"
+    ],
+    "domain": "securities",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "pts",
+      "trading-venue",
+      "market-infrastructure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.japannext.co.jp/ja/aboutus",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+    ]
+  },
+  "summary": "This entry sits under securities index. Read it with financial instruments business operators japan index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "ジャパンネクスト証券 (Japannext)",
+    "Wiki route",
+    "TL;DR",
+    "System Map",
+    "Venue Map",
+    "Strategic Reading",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/japan-securities-finance",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/rakuten-securities",
+      "JapanFG/sbi-hd",
+      "JapanFG/sbi-securities",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/nisa-2024-flow",
+      "securities/osaka-digital-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2738,
+    "word_like_tokens": 400,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-05-24"
+  }
+}

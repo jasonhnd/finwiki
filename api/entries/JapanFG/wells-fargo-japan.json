@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/wells-fargo-japan",
+  "source_path": "JapanFG/wells-fargo-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/wells-fargo-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/wells-fargo-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/wells-fargo-japan.md",
+  "domain": "JapanFG",
+  "title": "ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank, N.A., Tokyo Branch)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank Tokyo Branch)",
+    "aliases": [
+      "Wells Fargo Japan",
+      "Wells Fargo Bank N.A. Tokyo Branch",
+      "ウェルズ・ファーゴ銀行 東京支店",
+      "WFC Japan"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "us"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: Wells Fargo (2026-05-19 公開情報抽出)",
+      "Wells Fargo & Company 2024 Annual Report (10-K, 2025-02 公表)",
+      "金融庁 外国銀行支店一覧 (公表分)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against バンク・オブ・アメリカ日本 (Bank of America Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank, N.A., Tokyo Branch)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "親会社 Wells Fargo & Company 概況 ^[extracted]",
+    "主要事業ライン（親会社）^[extracted]",
+    "2. 业务线 map（東京支店）",
+    "3. 重要历史",
+    "親会社・米国 Wells Fargo 沿革 ^[extracted]",
+    "日本拠点の歴史（公開情報の範囲）^[inferred]"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/bank-of-america-japan",
+      "banking/INDEX",
+      "citigroup-japan",
+      "jpmorgan-japan",
+      "mizuho-fg",
+      "mufg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bank-of-america-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/citigroup-japan",
+      "https://finwiki.zksc.io/jpmorgan-japan",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5381,
+    "word_like_tokens": 753,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

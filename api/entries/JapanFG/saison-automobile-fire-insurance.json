@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/saison-automobile-fire-insurance",
+  "source_path": "JapanFG/saison-automobile-fire-insurance.md",
+  "url": "https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/saison-automobile-fire-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/saison-automobile-fire-insurance.md",
+  "domain": "JapanFG",
+  "title": "セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)",
+    "aliases": [
+      "Saison Automobile & Fire",
+      "セゾン自動車火災保険",
+      "セゾン自動車火災保険株式会社",
+      "SOMPO Direct",
+      "ＳＯＭＰＯダイレクト損害保険",
+      "SOMPOダイレクト損害保険株式会社",
+      "おとなの自動車保険"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "direct-insurance",
+      "SOMPO",
+      "auto-insurance",
+      "saison"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.sompo-direct.co.jp/company/profile.html",
+      "https://www.sompo-direct.co.jp/company/history.html",
+      "https://www.sompo-direct.co.jp/company/disclosure/",
+      "https://www.sompo-hd.com/ir/library/disclosure/",
+      "Wikipedia: セゾン自動車火災保険 (公開情報, 2026-05-25 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the operating-company anchor for the direct non-life insurer historically known as セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険. Read it against SOMPO HD for the parent group context, Sony FG for the direct-auto peer comparison, and Credit Saison for the histori",
+  "headings": [
+    "セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "2. 商号変遷と SOMPO 入り",
+    "3. 業務ライン",
+    "3.1 主力：「おとなの自動車保険」",
+    "3.2 サブ商品",
+    "3.3 SOMPO グループ内の役割",
+    "4. 親会社関係（SOMPO 連結内）"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/credit-saison",
+      "JapanFG/sompo",
+      "JapanFG/sompo-japan",
+      "JapanFG/sony-fg",
+      "insurance/INDEX",
+      "insurance/axa-direct",
+      "insurance/mitsui-direct",
+      "insurance/saa",
+      "insurance/saison-automobile-fire",
+      "insurance/sompo-himawari-life",
+      "insurance/sony-assurance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/credit-saison",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/sompo-japan",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/axa-direct",
+      "https://finwiki.zksc.io/insurance/mitsui-direct",
+      "https://finwiki.zksc.io/insurance/saa",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/insurance/sompo-himawari-life",
+      "https://finwiki.zksc.io/insurance/sony-assurance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5783,
+    "word_like_tokens": 802,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

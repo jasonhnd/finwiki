@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/circle-usdc-stablecoin",
+  "source_path": "fintech/circle-usdc-stablecoin.md",
+  "url": "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/circle-usdc-stablecoin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/circle-usdc-stablecoin.md",
+  "domain": "fintech",
+  "title": "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+    "aliases": [
+      "circle-usdc-stablecoin",
+      "USDC",
+      "Circle Internet Financial",
+      "USDC stablecoin",
+      "EURC"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "circle",
+      "usdc",
+      "eurc",
+      "nyse",
+      "cctp",
+      "buidl",
+      "genius-501",
+      "compliance-first"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.circle.com/",
+      "https://www.circle.com/transparency",
+      "https://www.circle.com/usdc",
+      "https://developers.circle.com/stablecoins/cctp-getting-started",
+      "https://investor.circle.com/",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=circle",
+      "https://www.bnymellon.com/us/en/insights/all-insights/circle-reserve-fund.html"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with PayPal PYUSD and Tether USDT 经济学 for the white-circle / grey-circle contrast, and with GENIUS Act §501 for the regulatory frame in which USDC has become the de facto white-circle benchmark.",
+  "headings": [
+    "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/circular-reserve-asset-flywheel-overview",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/issuer-distributor-incentive-realignment-50-50-model",
+      "fintech/mica-emt-art-subcategories-deep-dive",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/ripple-rlusd-stablecoin",
+      "fintech/stablecoin-issuer-2025-2026-market-consolidation",
+      "fintech/stablecoin-revenue-split-economics",
+      "fintech/tether-business-model-short-treasury-yield",
+      "fintech/three-circles-mra-2030-economic-scale",
+      "fintech/three-circles-stablecoin-mra-framework",
+      "systems/cctp-v2-overview",
+      "systems/chain-abstraction-pattern-value-capture"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
+      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/stablecoin-issuer-2025-2026-market-consolidation",
+      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/fintech/three-circles-mra-2030-economic-scale",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-value-capture"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6026,
+    "word_like_tokens": 1064,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-05-25"
+  }
+}

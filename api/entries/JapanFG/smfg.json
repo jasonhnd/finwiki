@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/smfg",
+  "source_path": "JapanFG/smfg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/smfg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smfg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/smfg.md",
+  "domain": "JapanFG",
+  "title": "三井住友 FG (SMFG / SMBC グループ)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井住友 FG (SMFG / SMBC グループ)",
+    "aliases": [
+      "SMFG",
+      "SMBC Group",
+      "SMBCグループ",
+      "Sumitomo Mitsui FG",
+      "三井住友フィナンシャルグループ",
+      "三井住友 FG"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-19",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "megabank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出)",
+      "Wikipedia: SBIホールディングス (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)",
+      "SMFG 第 23 期 (2025-03 期) 有価証券報告書",
+      "SMFG 2026年3月期 通期決算短信 (2026-05-13 公表) https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_01.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and securities index for the broader system boundary.",
+  "headings": [
+    "三井住友 FG (SMFG / SMBC グループ)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2026-03 期決算（連結, 2026-05-13 公表）^[extracted from 決算短信]",
+    "主要株主（2025-03-31）^[extracted]",
+    "主要子会社・持分 + 戦略提携先",
+    "合併歴史・前身",
+    "重要年表（抜粋）^[extracted]",
+    "SMBC-SBI アライアンス の詳細（2022〜）^[extracted from SBI HD Wikipedia]"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/sbi-hd",
+      "JapanFG/smbc-card",
+      "JapanFG/smbc-consumer-finance",
+      "JapanFG/smbc-nikko",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "ndfg",
+      "sbi-hd",
+      "securities/INDEX",
+      "ssnb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/JapanFG/smbc-card",
+      "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/ssnb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10958,
+    "word_like_tokens": 2158,
+    "inbound_wikilinks_count": 104,
+    "last_modified": "2026-05-24"
+  }
+}

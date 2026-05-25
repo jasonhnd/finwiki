@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/dex-jito-solana",
+  "source_path": "exchanges/dex-jito-solana.md",
+  "url": "https://finwiki.zksc.io/exchanges/dex-jito-solana",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-jito-solana.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/dex-jito-solana.md",
+  "domain": "exchanges",
+  "title": "Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Jito — Solana 液体ステーキング + MEV 再分配プロトコル",
+    "aliases": [
+      "Jito",
+      "JitoSOL",
+      "JTO token",
+      "Jito Labs"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "solana",
+      "liquid-staking",
+      "mev",
+      "lst"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Jito Foundation 公式 docs, jito.network)",
+      "公開情報整理 (Jito Labs MEV-aware validator client 仕様)",
+      "公開情報整理 (DefiLlama JitoSOL TVL データ, 2024-2026)",
+      "公開情報整理 (JTO airdrop 2023-12 launch event)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against Solana エコシステム DEX 群比較 for the Solana ecosystem context, Raydium / Orca for adjacent DEX peer context, and AMM 設計進化系譜 for the broader system / mechanism boundary.",
+  "headings": [
+    "Jito — Solana 液体ステーキング + MEV 再分配プロトコル overview",
+    "Wiki route",
+    "1. プロトコル概要",
+    "2. JitoSOL の設計（MEV-aware LST）",
+    "3. MEV 再分配メカニズム（Jito-Solana client）",
+    "4. JTO token / Jito DAO",
+    "5. Solana LST 市場での位置付け",
+    "6. CEX / DeFi 統合",
+    "7. 主要事件・沿革",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/dex-orca-solana",
+      "exchanges/dex-raydium-solana",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/dex-orca-solana",
+      "https://finwiki.zksc.io/exchanges/dex-raydium-solana",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3945,
+    "word_like_tokens": 697,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

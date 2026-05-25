@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/minna-bank-baas-model",
+  "source_path": "banking/minna-bank-baas-model.md",
+  "url": "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/minna-bank-baas-model.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/minna-bank-baas-model.md",
+  "domain": "banking",
+  "title": "みんなの銀行 BaaS model",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "みんなの銀行 BaaS model",
+    "aliases": [
+      "minna-bank-baas-model",
+      "みんなの銀行 BaaS モデル",
+      "Minna Bank BaaS"
+    ],
+    "domain": "banking",
+    "created": "2026-04-18",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "baas",
+      "embedded-finance",
+      "minna-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://baas.minna-no-ginko.com/",
+      "https://baas.minna-no-ginko.com/service/branches/",
+      "https://www.minna-no-ginko.com/alliance-service/",
+      "https://www.fukuoka-fg.com/investorimage/data/20250908_irday_2.pdf",
+      "https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf"
+    ]
+  },
+  "summary": "This entry sits under banking index. Read it against メルカリバンク license stack for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
+  "headings": [
+    "みんなの銀行 BaaS model",
+    "Wiki route",
+    "TL;DR",
+    "Model map",
+    "Strategic read",
+    "License boundary",
+    "Mercari case",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/fukuoka-fg",
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/ssnb",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/cooperative-banking-japan",
+      "banking/mercari-bank",
+      "banking/mercari-bank-license-stack",
+      "banking/quick-deposit-four-methods"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/ssnb",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/mercari-bank",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3336,
+    "word_like_tokens": 453,
+    "inbound_wikilinks_count": 45,
+    "last_modified": "2026-05-21"
+  }
+}

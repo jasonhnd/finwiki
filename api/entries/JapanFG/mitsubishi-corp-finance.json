@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/mitsubishi-corp-finance",
+  "source_path": "JapanFG/mitsubishi-corp-finance.md",
+  "url": "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mitsubishi-corp-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/mitsubishi-corp-finance.md",
+  "domain": "JapanFG",
+  "title": "三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)",
+    "aliases": [
+      "Mitsubishi Corporation Financial Services",
+      "三菱商事フィナンシャルサービス",
+      "MC Financial Services",
+      "MCFS",
+      "mitsubishi-corp-finance"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "finance",
+      "trading-company-finance",
+      "mitsubishi-corp",
+      "group-treasury",
+      "factoring",
+      "cms"
+    ],
+    "status": "active",
+    "sources": [
+      "三菱商事 (8058) 有価証券報告書 (関係会社一覧)",
+      "三菱商事 公式 IR / 統合報告書",
+      "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
+      "EDINET 有価証券報告書検索"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱商事アセットマネジメント for the asset-management adjacent within the same parent, and 三井物産フィナンシャルサービス for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — 三菱HCキャピタル (the Mitsubishi-side listed lea",
+  "headings": [
+    "三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "三菱グループ金融機能の三層構造",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "商社系 group-treasury の典型像",
+    "競合 / Peer",
+    "4. 监管与政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/fuyo-lease",
+      "JapanFG/itochu-finance",
+      "JapanFG/ja-mitsui-leasing",
+      "JapanFG/marubeni-financial-services",
+      "JapanFG/mitsubishi-corp-asset-management",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/mitsui-bussan-financial-services",
+      "JapanFG/mizuho-lease",
+      "JapanFG/mufg",
+      "JapanFG/mufg-bank",
+      "JapanFG/smfl",
+      "JapanFG/sojitz-finance",
+      "JapanFG/sumitomo-corp-financial-management",
+      "JapanFG/tokyo-century",
+      "JapanFG/toyota-tsusho-finance",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
+      "https://finwiki.zksc.io/JapanFG/itochu-finance",
+      "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/JapanFG/marubeni-financial-services",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-asset-management",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/JapanFG/sojitz-finance",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5788,
+    "word_like_tokens": 750,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-25"
+  }
+}

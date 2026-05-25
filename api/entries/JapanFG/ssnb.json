@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ssnb",
+  "source_path": "JapanFG/ssnb.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ssnb",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ssnb.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ssnb.md",
+  "domain": "JapanFG",
+  "title": "住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行",
+    "aliases": [
+      "SBI Sumishin Net Bank",
+      "住信 SBI",
+      "SSNB",
+      "住信 SBI ネット銀行",
+      "NEOBANK",
+      "ドコモ SMTB ネット銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "net-bank",
+      "baas",
+      "ndfg-affiliate"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 住信SBIネット銀行 (2026-05-19 抽出)",
+      "Wikipedia: NTTドコモ (2026-05-19 抽出)",
+      "住信 SBI ネット銀行 公式 IR (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against GMO あおぞらネット銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "数値（FY2024 = 2025-03 期、連結ベース）",
+    "資本関係の変遷",
+    "重要年表",
+    "2. 业务线 map",
+    "NEOBANK サービス（BaaS）一覧",
+    "3. 战略与竞争"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/sumitomo-mitsui-trust",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "banking/paypay-bank",
+      "banking/rakuten-bank",
+      "exchanges/jp-crypto-exchange-overview",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-exchange-overview",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6962,
+    "word_like_tokens": 1277,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-21"
+  }
+}

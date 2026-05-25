@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/rakuten-bank",
+  "source_path": "banking/rakuten-bank.md",
+  "url": "https://finwiki.zksc.io/banking/rakuten-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/rakuten-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/rakuten-bank.md",
+  "domain": "banking",
+  "title": "楽天銀行 (Rakuten Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "楽天銀行 (Rakuten Bank)",
+    "aliases": [
+      "rakuten-bank",
+      "Rakuten Bank",
+      "楽天銀行",
+      "Rakuten Bank, Ltd."
+    ],
+    "domain": "banking",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "net-bank",
+      "rakuten",
+      "digital-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.rakuten.com/corp/news/press/2026/0105_03.html",
+      "https://global.rakuten.com/corp/news/press/2026/0514_01.html"
+    ]
+  },
+  "summary": "This entry sits under banking index. Read it against PayPay 銀行 (PayPay Bank) for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
+  "headings": [
+    "楽天銀行 (Rakuten Bank)",
+    "Wiki route",
+    "TL;DR",
+    "Positioning",
+    "Strategic read",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/gmo-aozora-net",
+      "JapanFG/rakuten-fg",
+      "JapanFG/ssnb",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/cooperative-banking-japan",
+      "banking/minna-bank-baas-model",
+      "banking/paypay-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/ssnb",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/paypay-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2028,
+    "word_like_tokens": 280,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-05-21"
+  }
+}

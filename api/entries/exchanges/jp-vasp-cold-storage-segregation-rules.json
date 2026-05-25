@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-vasp-cold-storage-segregation-rules",
+  "source_path": "exchanges/jp-vasp-cold-storage-segregation-rules.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-cold-storage-segregation-rules.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-cold-storage-segregation-rules.md",
+  "domain": "exchanges",
+  "title": "国内 VASP コールド保管 95% + 分別管理制度",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内 VASP コールド保管 95% + 分別管理制度",
+    "aliases": [
+      "JP VASP cold storage rule",
+      "ホットウォレット 5% ルール",
+      "暗号資産分別管理義務"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "regulation",
+      "cold-storage",
+      "custody",
+      "segregation"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内 VASP コールド保管 95% + 分別管理制度",
+    "Wiki route",
+    "制度概要",
+    "コールド/ホットの定義と例外",
+    "分別管理の 3 形態",
+    "国内主要 VASP の運用例",
+    "グローバル比較"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-matching-engine-wallet-architecture",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2093,
+    "word_like_tokens": 296,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-24"
+  }
+}

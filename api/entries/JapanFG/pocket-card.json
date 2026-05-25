@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/pocket-card",
+  "source_path": "JapanFG/pocket-card.md",
+  "url": "https://finwiki.zksc.io/JapanFG/pocket-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/pocket-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/pocket-card.md",
+  "domain": "JapanFG",
+  "title": "ポケットカード (Pocket Card)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ポケットカード (Pocket Card)",
+    "aliases": [
+      "Pocket Card",
+      "ポケットカード",
+      "ポケットカード株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "retail-finance",
+      "consumer-credit"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.pocketcard.co.jp/ir/profile/profile_031.html",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against エポスカード (EPOS Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "ポケットカード (Pocket Card)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/credit-saison",
+      "JapanFG/epos-card",
+      "JapanFG/famima-digital-one",
+      "JapanFG/jcb",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/credit-saison",
+      "https://finwiki.zksc.io/JapanFG/epos-card",
+      "https://finwiki.zksc.io/JapanFG/famima-digital-one",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1837,
+    "word_like_tokens": 288,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-21"
+  }
+}

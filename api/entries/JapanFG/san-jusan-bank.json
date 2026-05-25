@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/san-jusan-bank",
+  "source_path": "JapanFG/san-jusan-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/san-jusan-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/san-jusan-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/san-jusan-bank.md",
+  "domain": "JapanFG",
+  "title": "三十三銀行 (San ju San Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三十三銀行 (San ju San Bank)",
+    "aliases": [
+      "San ju San Bank",
+      "San-ju-san Bank",
+      "三十三銀行",
+      "株式会社三十三銀行",
+      "33 銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "regional-bank",
+      "chubu",
+      "mie",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.33bk.co.jp/company/",
+      "https://www.33fg.co.jp/",
+      "https://www.chiginkyo.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as the bank-license operating-company anchor for the 三十三 FG holding-company route. Read it against the 百五銀行 in-prefecture rival and the 十六銀行 / あいち銀行 Chubu peer banks, and against the regional-bank consolidation pattern for the broader system / regulatory bound",
+  "headings": [
+    "三十三銀行 (San ju San Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. 持株ツリー",
+    "3. 合併歷史・前身",
+    "旧 第三銀行系譜",
+    "旧 三重銀行系譜",
+    "経営統合プロセス",
+    "4. KPI table (concept)"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aichi-bank",
+      "aichi-fg",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "hyakugo-bank",
+      "juroku-bank",
+      "juroku-fg",
+      "kyoto-fg",
+      "ogaki-kyoritsu-bank",
+      "san-jusan-fg",
+      "zenchugin-kyo"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aichi-bank",
+      "https://finwiki.zksc.io/aichi-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/hyakugo-bank",
+      "https://finwiki.zksc.io/juroku-bank",
+      "https://finwiki.zksc.io/juroku-fg",
+      "https://finwiki.zksc.io/kyoto-fg",
+      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/zenchugin-kyo"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4556,
+    "word_like_tokens": 731,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ueda-yagi-tanshi",
+  "source_path": "JapanFG/ueda-yagi-tanshi.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ueda-yagi-tanshi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ueda-yagi-tanshi.md",
+  "domain": "JapanFG",
+  "title": "上田八木短資株式会社 (Ueda Yagi Tanshi)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "上田八木短資株式会社 (Ueda Yagi Tanshi)",
+    "aliases": [
+      "上田八木短資",
+      "Ueda Yagi Tanshi",
+      "Ueda Yagi Short-Term Loan",
+      "UYT"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "money-market",
+      "tanshi"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 上田八木短資 (公開情報, 2026-05-19 抽出)",
+      "Wikipedia: 短資会社",
+      "日本銀行: コール市場・短期金融市場関連公開資料"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against セントラル短資株式会社 (Central Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "上田八木短資株式会社 (Ueda Yagi Tanshi)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "前身・合併歴史",
+    "業態・短資会社とは",
+    "2. 业务线 map",
+    "ビジネスモデル",
+    "3. 短資業界構造",
+    "3 大短資会社"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/central-tanshi",
+      "banking/INDEX",
+      "central-tanshi",
+      "fintech/jp-stablecoin-progmat",
+      "mizuho-fg",
+      "money-market/boj-open-market-operations",
+      "money-market/japan-money-market",
+      "mufg",
+      "smfg",
+      "tokyo-tanshi"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/central-tanshi",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/central-tanshi",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/tokyo-tanshi"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3797,
+    "word_like_tokens": 482,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-21"
+  }
+}

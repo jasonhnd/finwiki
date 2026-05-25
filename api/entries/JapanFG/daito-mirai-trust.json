@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/daito-mirai-trust",
+  "source_path": "JapanFG/daito-mirai-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/daito-mirai-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/daito-mirai-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/daito-mirai-trust.md",
+  "domain": "JapanFG",
+  "title": "Daito Mirai Trust / 大東みらい信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Daito Mirai Trust / 大東みらい信託",
+    "aliases": [
+      "大東みらい信託",
+      "大東みらい信託株式会社",
+      "Daito Mirai Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "succession",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Daito Mirai Trust official site: https://www.daitomirai.com/",
+      "Daito Mirai Trust company profile: https://www.daitomirai.com/company/outline/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/daito-mirai-trust",
+  "headings": [
+    "Daito Mirai Trust / 大東みらい信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/daito-mirai-trust",
+      "JapanFG/daiwa-living-trust",
+      "JapanFG/kainuma-trust-real-estate",
+      "JapanFG/starts-trust",
+      "JapanFG/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daito-mirai-trust",
+      "https://finwiki.zksc.io/JapanFG/daiwa-living-trust",
+      "https://finwiki.zksc.io/JapanFG/kainuma-trust-real-estate",
+      "https://finwiki.zksc.io/JapanFG/starts-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2181,
+    "word_like_tokens": 343,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-22"
+  }
+}

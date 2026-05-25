@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+  "source_path": "corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
+  "domain": "corporate-strategy",
+  "title": "株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision",
+    "aliases": [
+      "kabushiki-koufu-stock-distribution-regime",
+      "株式交付",
+      "share-for-share acquisition japan",
+      "kabushiki koufu regime",
+      "japan share delivery system"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "m-and-a",
+      "tax",
+      "japan",
+      "share-acquisition",
+      "2021-companies-act-revision"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
+      "https://www.moj.go.jp/MINJI/minji07_00214.html",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for transaction-finance context. Read with 会社分割 tax regime for the contrast against split-mechanism reorganizations, partial spinoff tax deferral for the distribution-side parallel, spinoff decision tree Japan for option-se",
+  "headings": [
+    "株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision",
+    "Wiki route",
+    "TL;DR",
+    "1. Why The 2021 Regime Was Created",
+    "2. Mechanism",
+    "3. Comparison Of Three Share-Side Reorganization Regimes",
+    "4. Tax Treatment Mechanics",
+    "5. Practical Use Cases",
+    "6. Procedural Requirements",
+    "7. Comparison With TOB-Plus-Squeeze-Out Path"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "finance/japan-cross-shareholding-unwinding-economics",
+      "finance/japan-m-a-deal-process-comparison-matrix",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
+      "https://finwiki.zksc.io/finance/japan-m-a-deal-process-comparison-matrix",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11072,
+    "word_like_tokens": 1750,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

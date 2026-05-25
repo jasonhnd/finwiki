@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/christine-moy-talent-signal-jpm-apollo",
+  "source_path": "business/christine-moy-talent-signal-jpm-apollo.md",
+  "url": "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/christine-moy-talent-signal-jpm-apollo.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/christine-moy-talent-signal-jpm-apollo.md",
+  "domain": "business",
+  "title": "关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例",
+    "aliases": [
+      "christine-moy-talent-signal",
+      "talent-flow-as-prediction-signal",
+      "jpm-apollo-talent-migration"
+    ],
+    "domain": "business",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "people",
+      "talent-flow",
+      "signal",
+      "prediction",
+      "rwa",
+      "tokenization"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against larry fink blackrock digital asset template for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "business/INDEX",
+      "business/larry-fink-blackrock-digital-asset-template",
+      "business/matt-huang-triple-role-coi-template",
+      "fintech/INDEX",
+      "fintech/apollo-acred-private-credit-tokenization"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
+      "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2331,
+    "word_like_tokens": 383,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-25"
+  }
+}

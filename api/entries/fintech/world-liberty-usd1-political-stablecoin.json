@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/world-liberty-usd1-political-stablecoin",
+  "source_path": "fintech/world-liberty-usd1-political-stablecoin.md",
+  "url": "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/world-liberty-usd1-political-stablecoin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/world-liberty-usd1-political-stablecoin.md",
+  "domain": "fintech",
+  "title": "WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力",
+    "aliases": [
+      "world-liberty-usd1-political-stablecoin",
+      "USD1",
+      "WLF",
+      "World Liberty Financial"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "wlf",
+      "usd1",
+      "trump",
+      "political",
+      "conflict-of-interest",
+      "genius-act"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.worldlibertyfinancial.com/",
+      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
+      "https://www.sec.gov/edgar/searchedgar/companysearch",
+      "https://www.bitgo.com/newsroom/press-releases/",
+      "https://home.treasury.gov/news/press-releases"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/regulatory-window-strategic-acquisition",
+      "fintech/ripple-rlusd-stablecoin",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
+      "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3331,
+    "word_like_tokens": 575,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

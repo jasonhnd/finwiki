@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/multi-megabank-consortium-governance",
+  "source_path": "fintech/multi-megabank-consortium-governance.md",
+  "url": "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/multi-megabank-consortium-governance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/multi-megabank-consortium-governance.md",
+  "domain": "fintech",
+  "title": "多巨行联合体治理",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式",
+    "aliases": [
+      "multi-megabank consortium governance",
+      "megabank consortium fintech",
+      "Progmat governance pattern"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "governance",
+      "japan",
+      "progmat",
+      "bis",
+      "consortium",
+      "megabank",
+      "td"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://progmat.co.jp/",
+      "https://www.mufg.jp/english/",
+      "https://www.smfg.co.jp/english/",
+      "https://www.mizuho-fg.com/index.html"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "多巨行联合体治理",
+    "Wiki route",
+    "3 つの治理モデル",
+    "Progmat 構造の精緻設計",
+    "多巨行型ガバナンス成立の条件",
+    "BIS Project Agorá との対比",
+    "共通リスク",
+    "応用",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mufg",
+      "JapanFG/progmat",
+      "JapanFG/smfg",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/cosmos-ibc-for-financial-institutions",
+      "fintech/cross-border-sc-via-swift-api",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-trust-type-sc-architecture"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3357,
+    "word_like_tokens": 531,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-25"
+  }
+}

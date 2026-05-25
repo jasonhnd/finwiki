@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/nisa-2024-flow",
+  "source_path": "securities/nisa-2024-flow.md",
+  "url": "https://finwiki.zksc.io/securities/nisa-2024-flow",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/nisa-2024-flow.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/nisa-2024-flow.md",
+  "domain": "securities",
+  "title": "NISA 2024 flow",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NISA 2024 flow",
+    "aliases": [
+      "securities/nisa-2024-flow",
+      "nisa-2024-flow",
+      "New NISA 2024",
+      "新NISA"
+    ],
+    "domain": "securities",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "NISA",
+      "household-investment",
+      "FSA",
+      "brokerage"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/",
+      "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/guidebook_202307.pdf",
+      "https://www.jsda.or.jp/shijyo/seido/tax/2024nisaqa.html",
+      "https://global.rakuten.com/corp/news/press/2024/0416_01.html"
+    ]
+  },
+  "summary": "This entry sits under securities index. Read it against 日本証券クリアリング機構 (JSCC) for peer / contrast context and financial instruments business operators japan index for the broader system / regulatory boundary.",
+  "headings": [
+    "NISA 2024 flow",
+    "Wiki route",
+    "TL;DR",
+    "System Map",
+    "Key Parameters",
+    "JapanFG Relevance",
+    "Decision Use",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/rakuten-securities",
+      "JapanFG/smbc-nikko",
+      "loyalty/japan-points-landscape",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-securities-clearing-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3638,
+    "word_like_tokens": 568,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-05-21"
+  }
+}

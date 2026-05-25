@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturing/toyota-motor",
+  "source_path": "manufacturing/toyota-motor.md",
+  "url": "https://finwiki.zksc.io/manufacturing/toyota-motor",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/toyota-motor.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturing/toyota-motor.md",
+  "domain": "manufacturing",
+  "title": "Toyota Motor Corporation (トヨタ自動車)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Toyota Motor Corporation (トヨタ自動車)",
+    "aliases": [
+      "toyota-motor",
+      "Toyota Motor",
+      "Toyota Motor Corporation",
+      "トヨタ自動車"
+    ],
+    "domain": "manufacturing",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "automotive",
+      "japan",
+      "toyota"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu",
+      "https://global.toyota/en/ir/library/annual/",
+      "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index. Read it against Seiko Epson Corporation (セイコーエプソン) for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "headings": [
+    "Toyota Motor Corporation (トヨタ自動車)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "4. 监管与政策",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "JapanFG/toyota-financial",
+      "manufacturing/INDEX",
+      "manufacturing/seiko-epson"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/toyota-financial",
+      "https://finwiki.zksc.io/manufacturing/INDEX",
+      "https://finwiki.zksc.io/manufacturing/seiko-epson"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3087,
+    "word_like_tokens": 427,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-21"
+  }
+}

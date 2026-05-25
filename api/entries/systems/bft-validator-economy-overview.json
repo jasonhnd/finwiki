@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/bft-validator-economy-overview",
+  "source_path": "systems/bft-validator-economy-overview.md",
+  "url": "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-overview.md",
+  "domain": "systems",
+  "title": "BFT validator 经济学概览",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "BFT validator 经济学概览 · 四变量与机构链退化",
+    "aliases": [
+      "bft-validator-economy-overview",
+      "BFT validator economics overview"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "validator",
+      "bft",
+      "staking",
+      "mev",
+      "slashing",
+      "decentralization"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against BFT validator 经济四变量 · yield / slashing / MEV / 集中度 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "BFT validator 经济学概览",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "fintech/INDEX",
+      "fintech/protocol-renewal-trigger-as-event-anchor",
+      "systems/INDEX",
+      "systems/bft-validator-economy-four-variables",
+      "systems/bft-validator-economy-tempo-vs-arc",
+      "systems/chain-abstraction-pattern-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc",
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2340,
+    "word_like_tokens": 385,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-24"
+  }
+}

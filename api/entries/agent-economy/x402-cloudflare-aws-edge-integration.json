@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/x402-cloudflare-aws-edge-integration",
+  "source_path": "agent-economy/x402-cloudflare-aws-edge-integration.md",
+  "url": "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/x402-cloudflare-aws-edge-integration.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/x402-cloudflare-aws-edge-integration.md",
+  "domain": "agent-economy",
+  "title": "x402 x Cloudflare / AWS · 边缘层默认支付组件",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "x402 x Cloudflare / AWS · 边缘层默认支付组件",
+    "aliases": [
+      "x402-cloudflare-aws-edge-integration",
+      "x402-cloudflare-workers",
+      "x402-aws-api-gateway"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "x402",
+      "cloudflare",
+      "aws",
+      "edge",
+      "facilitator",
+      "http-402"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against x402 · HTTP 402 复活的 AI agent 支付协议(总览) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "x402 x Cloudflare / AWS · 边缘层默认支付组件",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/privy-aws-agentcore-default-wallet",
+      "agent-economy/x402-http-payment-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2796,
+    "word_like_tokens": 491,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-24"
+  }
+}

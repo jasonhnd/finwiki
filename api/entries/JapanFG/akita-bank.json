@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/akita-bank",
+  "source_path": "JapanFG/akita-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/akita-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/akita-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/akita-bank.md",
+  "domain": "JapanFG",
+  "title": "株式会社秋田銀行 (The Akita Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社秋田銀行 (The Akita Bank)",
+    "aliases": [
+      "akita-bank",
+      "The Akita Bank",
+      "秋田銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.akita-bank.co.jp/aboutus/info/company/",
+      "https://www.akita-bank.co.jp/aboutus/info/kanren/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社秋田銀行 (The Akita Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "4. 监管与政策",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/fidea-hd",
+      "JapanFG/iwate-bank",
+      "JapanFG/jimoto-hd",
+      "JapanFG/proclair-hd",
+      "banking/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fidea-hd",
+      "https://finwiki.zksc.io/JapanFG/iwate-bank",
+      "https://finwiki.zksc.io/JapanFG/jimoto-hd",
+      "https://finwiki.zksc.io/JapanFG/proclair-hd",
+      "https://finwiki.zksc.io/banking/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2369,
+    "word_like_tokens": 340,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-21"
+  }
+}

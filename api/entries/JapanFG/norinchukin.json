@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/norinchukin",
+  "source_path": "JapanFG/norinchukin.md",
+  "url": "https://finwiki.zksc.io/JapanFG/norinchukin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/norinchukin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/norinchukin.md",
+  "domain": "JapanFG",
+  "title": "農林中央金庫 (Norinchukin Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "農林中央金庫 (Norinchukin Bank)",
+    "aliases": [
+      "農林中金",
+      "農中",
+      "Norinchukin",
+      "The Norinchukin Bank",
+      "Nochu"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 農林中央金庫 (2026-05-19 抽出)",
+      "農林中央金庫法 (昭和 61 年法律第 93 号、2001 改正)",
+      "農林中央金庫 ディスクロージャー誌 (公式 IR)",
+      "https://www.jabank.org/about/sikumi/",
+      "https://www.jfmbk.org/about/housin.html",
+      "https://www.nochubank.or.jp/about/features.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "農林中央金庫 (Norinchukin Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "出資構造（系統団体出資）^[extracted]",
+    "主要拠点",
+    "重要年表（抜粋）^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "二重性格：系統中央銀行 + 国内屈指の機関投資家"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/mufg",
+      "JapanFG/nochu-trust-bank",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "dai-ichi-life",
+      "dbj",
+      "jfc",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "nippon-life",
+      "resona-hd",
+      "smfg",
+      "sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/dbj",
+      "https://finwiki.zksc.io/jfc",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5502,
+    "word_like_tokens": 750,
+    "inbound_wikilinks_count": 37,
+    "last_modified": "2026-05-21"
+  }
+}

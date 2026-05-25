@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/aflac-japan",
+  "source_path": "JapanFG/aflac-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/aflac-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aflac-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/aflac-japan.md",
+  "domain": "JapanFG",
+  "title": "アフラック生命保険 (Aflac Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アフラック生命保険 (Aflac Japan)",
+    "aliases": [
+      "アフラック",
+      "Aflac",
+      "Aflac Life Insurance Japan",
+      "アフラック生命保険",
+      "American Family Life Assurance Company"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "foreign-japan-subsidiary",
+      "third-sector"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: アフラック生命保険 / Aflac Incorporated (2026-05-19 抽出)",
+      "Aflac Incorporated 10-K Annual Report (FY2024)",
+      "Aflac Japan 公式サイト 沿革・会社概要 (2026-05-19 抽出)",
+      "第一生命 HD 2018-07-12 プレスリリース「アフラック・インコーポレーテッドとの戦略的業務・資本提携について」"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "アフラック生命保険 (Aflac Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "Aflac グループ全体 (FY2024 米親会社 10-K ベース) ^[extracted]",
+    "主要株主・資本構造 ^[extracted]",
+    "主要子会社・グループ",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "重要历史年表 ^[extracted]"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/meiji-yasuda",
+      "JapanFG/prudential-japan",
+      "JapanFG/sompo",
+      "JapanFG/tokio-marine",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "kampo-life",
+      "metlife-japan",
+      "msad",
+      "nippon-life",
+      "sumitomo-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
+      "https://finwiki.zksc.io/JapanFG/prudential-japan",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/metlife-japan",
+      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/sumitomo-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6842,
+    "word_like_tokens": 921,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-21"
+  }
+}

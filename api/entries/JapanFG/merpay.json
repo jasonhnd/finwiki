@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/merpay",
+  "source_path": "JapanFG/merpay.md",
+  "url": "https://finwiki.zksc.io/JapanFG/merpay",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/merpay.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/merpay.md",
+  "domain": "JapanFG",
+  "title": "メルペイ (Merpay)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "メルペイ (Merpay)",
+    "aliases": [
+      "Merpay",
+      "メルペイ",
+      "株式会社メルペイ",
+      "Merpay Inc."
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "wallet",
+      "funds-transfer",
+      "mercari"
+    ],
+    "status": "active",
+    "sources": [
+      "https://jp.merpay.com/about/",
+      "https://static.jp.mercari.com/shikin_kessai",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "headings": [
+    "メルペイ (Merpay)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/mercari-hd",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-service-providers-japan-index",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-card-issuer-acquirer-processor-split"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mercari-hd",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2003,
+    "word_like_tokens": 311,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-05-24"
+  }
+}

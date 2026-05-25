@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/japan-third-party-allotment-5-step-flow",
+  "source_path": "fintech/japan-third-party-allotment-5-step-flow.md",
+  "url": "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-third-party-allotment-5-step-flow.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/japan-third-party-allotment-5-step-flow.md",
+  "domain": "fintech",
+  "title": "日本上場会社 第三者割当増資の 5 段階フロー",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本上場会社 第三者割当増資の 5 段階フロー",
+    "aliases": [],
+    "domain": "fintech",
+    "created": "2026-04-24",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "needs-review"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "https://www.jpx.co.jp/equities/listing/",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://elaws.e-gov.go.jp/document?lawid=323AC0000000025"
+    ]
+  },
+  "summary": "各段階の時間感・関与主体・監視ポイントが明確化されるため、投資家・カウンターパーティ側は現在地を正確に把握できる。",
+  "headings": [
+    "日本上場会社 第三者割当増資の 5 段階フロー",
+    "5 段階フロー",
+    "第 1 段階: 弁護士書類作成",
+    "第 2 段階: 当局提出（関東財務局・東証・金融庁）",
+    "第 3 段階: 正式開示（公告）",
+    "第 4 段階: ほふり（証券保管振替機構） → 証券会社 払込",
+    "第 5 段階: 生株・予約権の投資・行使",
+    "各段階の所要時間比較（案件例）",
+    "投資家側の戦略的判断ポイント",
+    "段階 3 → 段階 4 の間"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-tender-offer-process",
+      "fintech/gold-tokenization-scheme-comparison",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-listed-company-disclosure-monitoring"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/fintech/gold-tokenization-scheme-comparison",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2479,
+    "word_like_tokens": 370,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-24"
+  }
+}

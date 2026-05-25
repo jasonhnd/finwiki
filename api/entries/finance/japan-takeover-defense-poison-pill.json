@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/japan-takeover-defense-poison-pill",
+  "source_path": "finance/japan-takeover-defense-poison-pill.md",
+  "url": "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/japan-takeover-defense-poison-pill.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/japan-takeover-defense-poison-pill.md",
+  "domain": "finance",
+  "title": "Japan takeover defense and poison pill",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan takeover defense and poison pill",
+    "aliases": [
+      "japan-takeover-defense-poison-pill",
+      "Japan poison pill",
+      "Japan advance-warning takeover defense",
+      "事前警告型買収防衛策",
+      "Bull-Dog Sauce defense"
+    ],
+    "domain": "finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "finance",
+      "M&A",
+      "takeover-defense",
+      "poison-pill",
+      "TOB",
+      "Bull-Dog-Sauce",
+      "METI",
+      "FIEA",
+      "governance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
+      "https://www.meti.go.jp/english/press/2023/0831_001.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
+      "https://www.courts.go.jp/app/hanrei_en/detail?id=825",
+      "https://www.jpx.co.jp/english/equities/follow-up/02.html"
+    ]
+  },
+  "summary": "Japan takeover defense is a board-level response system that sits on top of the FIEA tender-offer process: when a hostile bidder appears, the target chooses between pre-bid structural defenses (advance-warning rights-plan, golden parachute, cross-shareholdings) and in-bid tactical responses (white-k",
+  "headings": [
+    "Japan takeover defense and poison pill",
+    "Overview",
+    "Defense taxonomy",
+    "Bull-Dog Sauce 2007 — the foundational case",
+    "METI 2023 Fair M&A Guidelines",
+    "Recent cases (2020-2026)",
+    "Pre-bid vs in-bid response decision",
+    "What to extract from a defense filing",
+    "Research checklist",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-activist-investor-playbook",
+      "finance/japan-cross-shareholding-unwinding-economics",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-shareholder-proposal-and-agm-voting-route",
+      "finance/japan-tender-offer-process",
+      "finance/jftc-merger-control-process"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
+      "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/finance/jftc-merger-control-process"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6634,
+    "word_like_tokens": 1016,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

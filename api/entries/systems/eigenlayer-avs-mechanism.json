@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/eigenlayer-avs-mechanism",
+  "source_path": "systems/eigenlayer-avs-mechanism.md",
+  "url": "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/eigenlayer-avs-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/eigenlayer-avs-mechanism.md",
+  "domain": "systems",
+  "title": "EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁",
+    "aliases": [
+      "eigenlayer-avs",
+      "avs-mechanism",
+      "operator-slashing-eigen"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "restaking",
+      "eigenlayer",
+      "avs",
+      "slashing",
+      "eigen-token"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "fintech/INDEX",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "systems/INDEX",
+      "systems/eigenlayer-l1-bootstrapping",
+      "systems/eigenlayer-overview",
+      "systems/hyperlane-ism-modular-security"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping",
+      "https://finwiki.zksc.io/systems/eigenlayer-overview",
+      "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2818,
+    "word_like_tokens": 471,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

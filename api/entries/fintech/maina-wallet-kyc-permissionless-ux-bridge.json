@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/maina-wallet-kyc-permissionless-ux-bridge",
+  "source_path": "fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
+  "url": "https://finwiki.zksc.io/fintech/maina-wallet-kyc-permissionless-ux-bridge",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
+  "domain": "fintech",
+  "title": "マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解",
+    "aliases": [
+      "maina-wallet-bridge",
+      "maina-wallet-bank-app-in-app"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-12",
+    "confidence": "possible",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "kyc",
+      "japan"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "https://www.digital.go.jp/policies/mynumber/",
+      "https://www.soumu.go.jp/kojinbango_card/",
+      "Public company disclosures on My Number Card / wallet identity initiatives."
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解",
+    "Wiki route",
+    "Conclusion",
+    "Reasoning",
+    "Applicable When",
+    "Source",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jpyc",
+      "banking/minna-bank-baas-model",
+      "exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "fintech/INDEX",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/retail-stablecoin-dual-bind",
+      "systems/erc-4337-embedded-wallet-adoption"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jpyc",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/retail-stablecoin-dual-bind",
+      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2406,
+    "word_like_tokens": 349,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

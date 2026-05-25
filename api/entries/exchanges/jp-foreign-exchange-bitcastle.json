@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-foreign-exchange-bitcastle",
+  "source_path": "exchanges/jp-foreign-exchange-bitcastle.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitcastle",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-foreign-exchange-bitcastle.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-foreign-exchange-bitcastle.md",
+  "domain": "exchanges",
+  "title": "bitcastle LLC — 日本向け海外無登録暗号資産取引所",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "bitcastle LLC — 日本向け海外無登録暗号資産取引所",
+    "aliases": [
+      "ビットキャッスル",
+      "bitcastle"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "possible",
+    "tags": [
+      "fintech",
+      "jp-foreign-exchange",
+      "fsa-warned",
+      "unlicensed",
+      "bitcastle",
+      "japanese-led-offshore"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.neweconomy.jp/posts/435203",
+      "https://www.fsa.go.jp/news/r6/kasou_tuka/bitcastle_llc_keikokushiryo.pdf",
+      "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
+      "https://ja.wikipedia.org/wiki/Bitcastle",
+      "https://www.ewarrant-sec.jp/bitcastle-interview"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "bitcastle LLC — 日本向け海外無登録暗号資産取引所",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-foreign-exchange-warning-system",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-foreign-exchange-bitget",
+      "exchanges/jp-foreign-exchange-bybit",
+      "exchanges/jp-foreign-exchange-kucoin",
+      "exchanges/jp-foreign-exchange-mexc",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 7,
+    "external_links": [
+      "https://coki.jp",
+      "https://ja.wikipedia.org/wiki/Bitcastle",
+      "https://lfb.mof.go.jp/rizai/pagekthp033000321",
+      "https://www.ewarrant-sec.jp/bitcastle-interview",
+      "https://www.fsa.go.jp/news/r6/kasou_tuka/bitcastle_llc_keikokushiryo.pdf",
+      "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
+      "https://www.neweconomy.jp/posts/435203"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4090,
+    "word_like_tokens": 587,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/marubeni-financial-services",
+  "source_path": "JapanFG/marubeni-financial-services.md",
+  "url": "https://finwiki.zksc.io/JapanFG/marubeni-financial-services",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/marubeni-financial-services.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/marubeni-financial-services.md",
+  "domain": "JapanFG",
+  "title": "丸紅フィナンス (Marubeni Finance Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "丸紅フィナンス (Marubeni Finance Corporation)",
+    "aliases": [
+      "Marubeni Finance",
+      "Marubeni Finance Corporation",
+      "丸紅フィナンス",
+      "丸紅フィナンシャルサービス",
+      "Marubeni Financial Services",
+      "MFC",
+      "marubeni-financial-services"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "finance",
+      "trading-company-finance",
+      "marubeni",
+      "fuyo-group",
+      "group-treasury",
+      "factoring",
+      "cms"
+    ],
+    "status": "active",
+    "sources": [
+      "丸紅 (8002) 有価証券報告書 (関係会社一覧)",
+      "丸紅 公式 IR / 統合報告書",
+      "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
+      "EDINET 有価証券報告書検索"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against みずほリース (the listed leasing arm where 丸紅 became a strategic shareholder in 2024) and 芙蓉総合リース (the 芙蓉グループ peer leasing arm — 丸紅 is part of the 芙蓉 community). For peer 商社系 group-treasury arms, see 三菱商事FS, 三井物産FS, 住友商事FM, 伊藤忠ファイナンス. See banking index",
+  "headings": [
+    "丸紅フィナンス (Marubeni Finance Corporation)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "丸紅と芙蓉グループ",
+    "丸紅系金融機能の配置",
+    "2024 年 丸紅 + みずほリース 資本関係拡大",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "丸紅の事業構造と金融機能"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/fuyo-lease",
+      "JapanFG/itochu-finance",
+      "JapanFG/ja-mitsui-leasing",
+      "JapanFG/mitsubishi-corp-finance",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mitsui-bussan-financial-services",
+      "JapanFG/mizuho-bank",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-lease",
+      "JapanFG/smfl",
+      "JapanFG/sojitz-finance",
+      "JapanFG/sumitomo-corp-financial-management",
+      "JapanFG/tokio-marine",
+      "JapanFG/tokyo-century",
+      "JapanFG/toyota-tsusho-finance",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
+      "https://finwiki.zksc.io/JapanFG/itochu-finance",
+      "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services",
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/JapanFG/sojitz-finance",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5429,
+    "word_like_tokens": 746,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-25"
+  }
+}

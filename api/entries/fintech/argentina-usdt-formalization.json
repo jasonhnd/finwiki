@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/argentina-usdt-formalization",
+  "source_path": "fintech/argentina-usdt-formalization.md",
+  "url": "https://finwiki.zksc.io/fintech/argentina-usdt-formalization",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/argentina-usdt-formalization.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/argentina-usdt-formalization.md",
+  "domain": "fintech",
+  "title": "Argentina USDT Formalization · Post-Milei Reforms 2024-2026",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Argentina USDT Formalization · Post-Milei Reforms 2024-2026",
+    "aliases": [
+      "argentina-usdt-formalization",
+      "argentina-cnv-crypto-framework",
+      "argentina-bcra-crypto-licensing",
+      "lemon-belo-buenbit-ripio-2026",
+      "argentina-tax-reform-crypto",
+      "southern-cone-crypto-impact"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "2026-event",
+      "argentina",
+      "usdt",
+      "milei",
+      "cnv",
+      "bcra",
+      "lemon",
+      "belo",
+      "buenbit",
+      "ripio",
+      "southern-cone",
+      "dollarization",
+      "capital-controls"
+    ],
+    "status": "active",
+    "sources": [
+      "Comisión Nacional de Valores (CNV) crypto framework rules (2024-2026)",
+      "Banco Central de la República Argentina (BCRA) crypto-related communications",
+      "Argentina Ministerio de Economía tax reform texts (Ley Bases 2024)",
+      "Lemon, Belo, Buenbit, Ripio public corporate disclosures",
+      "Public press: La Nación, Clarín, Bloomberg Línea, Coindesk Latam (2024-2026)",
+      "IMF Argentina Article IV consultations (2024, 2025)",
+      "Chainalysis Latam reports (2024, 2025, 2026)",
+      "Uruguay BCU and Paraguay BCP crypto regulatory statements"
+    ]
+  },
+  "summary": "Argentina's two-year arc under Milei (Dec 2023 inauguration → 2025) has converted what was the world's most acute case of shadow dollarization via USDT (40-50% of household liquid USD assets pre-2024, see EM 加密美元化模式) into a formally regulated and tax-reformed crypto economy. The Comisión Nacional de",
+  "headings": [
+    "Argentina USDT Formalization · Post-Milei Reforms 2024-2026",
+    "TL;DR",
+    "Wiki route",
+    "The pre-Milei baseline (2023 and earlier)",
+    "The Milei reform sequence (2024)",
+    "1. CNV Resolution 994/2024 — PSAV registration framework",
+    "2. BCRA capital control relaxation (2024-2026)",
+    "3. Ley Bases / Ley 27.742 (mid-2024) — Tax reform + amnesty",
+    "4. BCRA-CNV-UIF coordination — bank onramps re-opened",
+    "The five exchanges — competitive landscape 2026"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/INDEX",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "fintech/INDEX",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/fatf-travel-rule-overview",
+      "fintech/gray-market-dollar-network-formalization",
+      "fintech/jurisdiction-list-monetary-protectionism",
+      "fintech/sovereign-fund-crypto-allocation-pattern",
+      "fintech/tether-business-model-short-treasury-yield"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
+      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+      "https://finwiki.zksc.io/fintech/sovereign-fund-crypto-allocation-pattern",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 14532,
+    "word_like_tokens": 2347,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

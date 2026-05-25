@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/fsa-strategy-bureau",
+  "source_path": "JapanFG/fsa-strategy-bureau.md",
+  "url": "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fsa-strategy-bureau.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/fsa-strategy-bureau.md",
+  "domain": "JapanFG",
+  "title": "総合政策局 (FSA Strategy Development and Management Bureau)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "総合政策局 (FSA Strategy Development and Management Bureau)",
+    "aliases": [
+      "JapanFG/fsa-strategy-bureau",
+      "fsa-strategy-bureau",
+      "FSA Strategy Development and Management Bureau",
+      "Strategy Development and Management Bureau",
+      "総合政策局",
+      "FSA SDMB"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regulator",
+      "internal-bureau",
+      "FSA",
+      "strategy",
+      "international",
+      "financial-education"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/about/orgchart.html",
+      "https://www.fsa.go.jp/en/about/annual.html",
+      "https://www.fsa.go.jp/en/policy/index.html",
+      "https://www.fsa.go.jp/en/news/index.html",
+      "https://www.fsa.go.jp/common/about/sosiki/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against FSA 監督局 for the supervision-side counterpart and FSA 企画市場局 for the rule-making counterpart. For the BoJ-side international policy lane, anchor through BoJ 国際局, and for the broader regulatory perimeter through legal / financial licenses.",
+  "headings": [
+    "総合政策局 (FSA Strategy Development and Management Bureau)",
+    "Wiki route",
+    "TL;DR",
+    "1. Function / scope",
+    "2. Counterparty / interaction",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj-international-dept",
+      "JapanFG/cpaaob",
+      "JapanFG/fsa-inspection-bureau",
+      "JapanFG/fsa-planning-coordination-bureau",
+      "JapanFG/fsa-supervision-bureau",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "banking/INDEX",
+      "exchanges/fsa-vasp-registration-system"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-international-dept",
+      "https://finwiki.zksc.io/JapanFG/cpaaob",
+      "https://finwiki.zksc.io/JapanFG/fsa-inspection-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-planning-coordination-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5900,
+    "word_like_tokens": 932,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

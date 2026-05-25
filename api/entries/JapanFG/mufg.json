@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/mufg",
+  "source_path": "JapanFG/mufg.md",
+  "url": "https://finwiki.zksc.io/JapanFG/mufg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/mufg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/mufg.md",
+  "domain": "JapanFG",
+  "title": "三菱 UFJ FG (MUFG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三菱 UFJ FG (MUFG)",
+    "aliases": [
+      "MUFG",
+      "Mitsubishi UFJ FG",
+      "三菱 UFJ フィナンシャル・グループ",
+      "三菱 UFJ FG",
+      "Mitsubishi UFJ Financial Group"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-19",
+    "confidence": "certain",
+    "tags": [
+      "JapanFG",
+      "megabank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 三菱UFJフィナンシャル・グループ (2026-05-18 抽出)",
+      "MUFG 第 20 期 (2025-03 期) 有価証券報告書 (2025-06-25)",
+      "MUFG 第 21 期 (2026-03 期) 決算短信 (2026-05-15 公表): https://www.mufg.jp/dam/ir/fs/2025/pdf/summary2603_ja.pdf",
+      "MUFG IR: https://www.mufg.jp/ir/ (2026-05-19 IR Day 資料)",
+      "Nikkei 銘柄ニュース 8306 (2026-05-19 取得)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三井住友 FG (SMFG / SMBC グループ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三菱 UFJ FG (MUFG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2026-03 期決算 (FY2026・連結, 2026-05-15 公表) ^[extracted]",
+    "FY2027/3 業績予想 ^[extracted]",
+    "2025-03 期決算（連結・前期比較用）^[extracted]",
+    "主要株主（2025-03-31）^[extracted]",
+    "主要子会社・持分",
+    "合併歴史・前身"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/smfg",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "mizuho-fg",
+      "ndfg",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8897,
+    "word_like_tokens": 1830,
+    "inbound_wikilinks_count": 137,
+    "last_modified": "2026-05-21"
+  }
+}

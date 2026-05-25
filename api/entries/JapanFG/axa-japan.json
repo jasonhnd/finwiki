@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/axa-japan",
+  "source_path": "JapanFG/axa-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/axa-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/axa-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/axa-japan.md",
+  "domain": "JapanFG",
+  "title": "アクサ・ジャパン (AXA Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アクサ・ジャパン (AXA Japan)",
+    "aliases": [
+      "AXA Japan",
+      "アクサジャパンホールディング",
+      "アクサ生命",
+      "アクサ損保",
+      "アクサダイレクト生命",
+      "AXA Life Insurance Japan",
+      "AXA Direct"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "non-life-insurance",
+      "foreign-japan-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: アクサ生命保険 (2026-05-19 参照)",
+      "Wikipedia: アクサ損害保険 (2026-05-19 参照)",
+      "Wikipedia: AXA (2026-05-19 参照)",
+      "AXA グループ公式 Annual Report 2024"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "アクサ・ジャパン (AXA Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. グループ構造",
+    "主要日本法人",
+    "重要历史（年表）",
+    "2. 業務ライン",
+    "3. 戦略と競争",
+    "ポジショニング",
+    "グローバルレバレッジ"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/lifenet",
+      "JapanFG/msad",
+      "JapanFG/prudential-japan",
+      "JapanFG/sompo",
+      "JapanFG/td-hd",
+      "JapanFG/tokio-marine",
+      "aflac-japan",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "nippon-life",
+      "prudential-japan",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/lifenet",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/prudential-japan",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/td-hd",
+      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/aflac-japan",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/prudential-japan",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5250,
+    "word_like_tokens": 715,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-21"
+  }
+}

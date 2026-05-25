@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sompo-direct",
+  "source_path": "JapanFG/sompo-direct.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sompo-direct",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sompo-direct.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sompo-direct.md",
+  "domain": "JapanFG",
+  "title": "SOMPOダイレクト損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SOMPOダイレクト損害保険",
+    "aliases": [
+      "SOMPOダイレクト",
+      "SOMPO Direct",
+      "SOMPO Direct Insurance",
+      "ＳＯＭＰＯダイレクト損害保険株式会社",
+      "セゾン自動車火災"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "direct-insurance",
+      "sompo",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.sonpohogo.or.jp/outline/member-companies.html",
+      "https://www.sompo-direct.co.jp/company/profile.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 損害保険ジャパン for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "SOMPOダイレクト損害保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/sompo-japan-insurance",
+      "insurance/INDEX",
+      "insurance/saison-automobile-fire",
+      "sompo",
+      "sompo-japan-insurance",
+      "sony-insurance",
+      "tokio-marine-direct"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sompo-japan-insurance",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/sompo",
+      "https://finwiki.zksc.io/sompo-japan-insurance",
+      "https://finwiki.zksc.io/sony-insurance",
+      "https://finwiki.zksc.io/tokio-marine-direct"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1941,
+    "word_like_tokens": 294,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-21"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/clearstream-banking-japan",
+  "source_path": "JapanFG/clearstream-banking-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/clearstream-banking-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/clearstream-banking-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/clearstream-banking-japan.md",
+  "domain": "JapanFG",
+  "title": "クリアストリーム・バンキング日本 (Clearstream Banking Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "クリアストリーム・バンキング日本 (Clearstream Banking Japan)",
+    "aliases": [
+      "Clearstream Banking Japan",
+      "Clearstream Banking S.A. Japan Branch",
+      "クリアストリーム・バンキング・エス・エー",
+      "Clearstream Japan Branch"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "ICSD",
+      "custody",
+      "settlement",
+      "collateral"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",
+      "https://www.clearstream.com/clearstream-en/about-clearstream/regulation/licences-1278042",
+      "https://www.clearstream.com/clearstream-en/securities-services/settlement/japan-settlement-and-custody-of-japanese-corporate-and-municipal-bonds-1291796",
+      "https://www.clearstream.com/clearstream-en/res-library/market-coverage/disclosure-requirements-japan-1283168",
+      "https://www.ibajapan.org/ja/who-we-are/our-members/commercial-banks/clearstream-banking-sa",
+      "https://www.jasdec.com/en/"
+    ]
+  },
+  "summary": "This page promotes the Clearstream row in the foreign-bank branch registry into a standalone ICSD route. Read it with Euroclear Bank Japan, market infrastructure map, trust-bank custody map, and foreign financial group adjacent-license route.",
+  "headings": [
+    "クリアストリーム・バンキング日本 (Clearstream Banking Japan)",
+    "Wiki route",
+    "Overview",
+    "Why It Is Not Registry-only",
+    "Function Stack",
+    "Comparison With Euroclear",
+    "JapanFG Relevance",
+    "Research Checklist",
+    "Caveats",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/bny-mellon-japan",
+      "JapanFG/deutsche-japan",
+      "JapanFG/euroclear-bank-japan",
+      "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/japan-securities-finance",
+      "JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses",
+      "JapanFG/state-street-japan",
+      "banking/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "securities/INDEX",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bny-mellon-japan",
+      "https://finwiki.zksc.io/JapanFG/deutsche-japan",
+      "https://finwiki.zksc.io/JapanFG/euroclear-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses",
+      "https://finwiki.zksc.io/JapanFG/state-street-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6262,
+    "word_like_tokens": 931,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-22"
+  }
+}

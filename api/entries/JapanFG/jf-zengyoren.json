@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/jf-zengyoren",
+  "source_path": "JapanFG/jf-zengyoren.md",
+  "url": "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jf-zengyoren.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/jf-zengyoren.md",
+  "domain": "JapanFG",
+  "title": "JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)",
+    "aliases": [
+      "JF-Zengyoren",
+      "JF全漁連",
+      "全漁連",
+      "全国漁業協同組合連合会",
+      "Zengyoren",
+      "National Federation of Fisheries Cooperative Associations",
+      "JF Zen-Gyo-Ren"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-central",
+      "jf-group",
+      "industry-body",
+      "fisheries-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.zengyoren.or.jp/",
+      "https://www.zengyoren.or.jp/about/",
+      "https://www.jfmbk.org/",
+      "https://www.jfmbk.org/about/housin.html",
+      "水産業協同組合法 (昭和 23 年法律第 242 号)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the JF Group national representative federation, parallel to JA 全中 in the agricultural cooperative system. Read with 農林中央金庫 for the central financial institution, JF Marine Bank system for the credit system boundary, and cooperative banking domain for the broad",
+  "headings": [
+    "JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)",
+    "Wiki route",
+    "TL;DR",
+    "1. 組織構造",
+    "JF グループ全国組織の役割分担 ^[extracted]",
+    "重要年表 ^[extracted]",
+    "2. 事業 map",
+    "主要事業 ^[extracted]",
+    "子会社・関連企業 ^[inferred]",
+    "JF Marine Bank system との関係 ^[extracted]"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/ja-kyosairen",
+      "JapanFG/ja-zen-noh",
+      "JapanFG/ja-zenchu",
+      "JapanFG/jf-shingyoren",
+      "JapanFG/norinchukin",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "jf-shingyoren",
+      "norinchukin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+      "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+      "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+      "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/jf-shingyoren",
+      "https://finwiki.zksc.io/norinchukin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5970,
+    "word_like_tokens": 898,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

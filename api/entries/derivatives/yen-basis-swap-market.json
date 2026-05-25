@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/yen-basis-swap-market",
+  "source_path": "derivatives/yen-basis-swap-market.md",
+  "url": "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/yen-basis-swap-market.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/yen-basis-swap-market.md",
+  "domain": "derivatives",
+  "title": "Yen-USD cross-currency basis swap market",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Yen-USD cross-currency basis swap market",
+    "aliases": [
+      "yen-basis-swap-market",
+      "JPY-USD basis swap",
+      "yen basis swap",
+      "USD-JPY cross-currency basis",
+      "円ドルベーシススワップ",
+      "yen funding via basis swap",
+      "quarter-end basis widening",
+      "USDJPY basis curve"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "basis-swap",
+      "FX",
+      "USD-funding",
+      "JPY",
+      "megabank",
+      "dealer"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/paym/market/",
+      "https://www.bis.org/statistics/derstats.htm",
+      "https://www.isda.org/",
+      "https://www.jscc.co.jp/en/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "A yen-USD cross-currency basis swap (CCBS) is an OTC derivative in which two counterparties exchange principal and periodic floating-rate interest payments in two different currencies — typically JPY against USD — over a multi-year tenor. The \"basis\" is the spread (in basis points) added to one leg,",
+  "headings": [
+    "Yen-USD cross-currency basis swap market",
+    "TL;DR",
+    "Wiki route",
+    "Instrument Mechanics",
+    "Post-2008 Evolution",
+    "Corporate USD Funding via JPY Funding Swap",
+    "Megabank Dealer Franchise",
+    "Basis Widening Triggers",
+    "Comparison to EUR-USD Basis",
+    "Data Surface"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mizuho-bank",
+      "JapanFG/mufg-bank",
+      "JapanFG/sumitomo-mitsui-banking-corp",
+      "banking/INDEX",
+      "banking/japan-banking-license-tier-comparison-matrix",
+      "derivatives/INDEX",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/japan-irs-market",
+      "derivatives/jgb-futures-curve",
+      "derivatives/ois-tona-curve",
+      "finance/japan-corporate-fx-and-rate-hedge-policy",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "money-market/INDEX",
+      "money-market/boj-open-market-operations",
+      "money-market/japan-money-market",
+      "money-market/jgb-repo-market-japan",
+      "securities/japan-market-infrastructure-map"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/jgb-futures-curve",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11924,
+    "word_like_tokens": 2123,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-05-25"
+  }
+}

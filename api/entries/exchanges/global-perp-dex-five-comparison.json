@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-perp-dex-five-comparison",
+  "source_path": "exchanges/global-perp-dex-five-comparison.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-perp-dex-five-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-perp-dex-five-comparison.md",
+  "domain": "exchanges",
+  "title": "グローバル Perp DEX 主要 5 社比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グローバル Perp DEX 主要 5 社比較 — Hyperliquid / dYdX / GMX / Vertex / Drift",
+    "aliases": [
+      "Global perp DEX comparison",
+      "Perpetual futures DEX top 5",
+      "Onchain perp exchange ranking"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "dex",
+      "perp",
+      "derivatives",
+      "defi"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://defillama.com/derivatives",
+      "https://dune.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "グローバル Perp DEX 主要 5 社比較",
+    "Wiki route",
+    "概要",
+    "5 強プロファイル",
+    "比較表 (設計 / chain / token / 24h vol)"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/jvcea-whitelist-token-listing",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/solana-ecosystem-dex-comparison",
+      "systems/cross-chain-four-poles-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2876,
+    "word_like_tokens": 503,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

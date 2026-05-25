@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-listed-cex-related-companies-matrix",
+  "source_path": "exchanges/jp-listed-cex-related-companies-matrix.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-listed-cex-related-companies-matrix.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-listed-cex-related-companies-matrix.md",
+  "domain": "exchanges",
+  "title": "国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧",
+    "aliases": [
+      "JP listed CEX related companies",
+      "国内上場 暗号資産関連",
+      "東証 + Nasdaq 暗号資産企業"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "listed-company",
+      "parent-company",
+      "ipo"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.jpx.co.jp/",
+      "https://www.nasdaq.com/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内 VASP 親会社・株主構造マップ — 三分類 + 大手金融グループ系列 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧",
+    "Wiki route",
+    "概要",
+    "自社・直接親会社 上場マトリックス",
+    "海外上場 親会社経由",
+    "投資家含意"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "JapanFG/bitflyer",
+      "JapanFG/gmo-financial-hd",
+      "JapanFG/monex-group",
+      "JapanFG/sbi-hd",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-coinbase-japan",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-laser-digital-japan",
+      "exchanges/jp-exchange-mercury",
+      "exchanges/jp-exchange-monex",
+      "exchanges/jp-exchange-money-partners",
+      "exchanges/jp-exchange-osl-japan",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-exchange-tokyo-hash",
+      "exchanges/jp-exchange-traders-securities",
+      "exchanges/jp-exchange-zaif",
+      "exchanges/jp-vasp-ma-consolidation-history",
+      "exchanges/jp-vasp-parent-company-map"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/bitflyer",
+      "https://finwiki.zksc.io/JapanFG/gmo-financial-hd",
+      "https://finwiki.zksc.io/JapanFG/monex-group",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coinbase-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-mercury",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-monex",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-money-partners",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-tokyo-hash",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-traders-securities",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-zaif",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2298,
+    "word_like_tokens": 367,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

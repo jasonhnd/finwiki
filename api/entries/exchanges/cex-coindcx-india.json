@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-coindcx-india",
+  "source_path": "exchanges/cex-coindcx-india.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-coindcx-india",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coindcx-india.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-coindcx-india.md",
+  "domain": "exchanges",
+  "title": "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CoinDCX — インド最大 CEX / FIU-IND PMLA registered",
+    "aliases": [
+      "CoinDCX",
+      "Neblio Technologies",
+      "कॉइनडीसीएक्स"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "india",
+      "inr-spot",
+      "fiu-ind",
+      "pmla"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (CoinDCX 公式 IR / About ページ, coindcx.com)",
+      "公開情報整理 (FIU-IND PMLA Reporting Entity 登録公示, fiuindia.gov.in)",
+      "公開情報整理 (B Capital / Pantera Capital / Steadview Capital 投資ラウンド発表)",
+      "公開情報整理 (Reserve Bank of India / SEBI 仮想通貨ガイダンス)",
+      "公開情報整理 (CoinDCX Series D 資金調達 2022-04 Unicorn 評価 報道)",
+      "公開情報整理 (India 1% TDS 課税制度 2022-07 施行関連 Indian Express / Economic Times 報道)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against WazirX for the closest India peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
+  "headings": [
+    "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（インド制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 業界での位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-bithumb-korea",
+      "exchanges/cex-wazirx-india",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-foreign-exchange-bitget",
+      "exchanges/jp-foreign-exchange-bybit"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+      "https://finwiki.zksc.io/exchanges/cex-wazirx-india",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5245,
+    "word_like_tokens": 878,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

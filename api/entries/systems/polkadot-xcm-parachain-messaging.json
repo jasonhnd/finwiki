@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/polkadot-xcm-parachain-messaging",
+  "source_path": "systems/polkadot-xcm-parachain-messaging.md",
+  "url": "https://finwiki.zksc.io/systems/polkadot-xcm-parachain-messaging",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/polkadot-xcm-parachain-messaging.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/polkadot-xcm-parachain-messaging.md",
+  "domain": "systems",
+  "title": "Polkadot XCM · parachain messaging v3-v4",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Polkadot XCM · parachain messaging v3-v4",
+    "aliases": [
+      "polkadot-xcm-parachain-messaging",
+      "Polkadot XCM",
+      "XCM v3",
+      "XCM v4",
+      "Polkadot Asset Hub"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "cross-chain",
+      "polkadot",
+      "xcm",
+      "parachain",
+      "shared-security",
+      "asset-hub",
+      "institutional"
+    ],
+    "status": "active",
+    "sources": [
+      "https://wiki.polkadot.network/",
+      "https://github.com/paritytech/xcm-format",
+      "https://polkadot.network/",
+      "https://github.com/paritytech/polkadot-sdk",
+      "https://parachains.info/"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against IBC · Cosmos for the closest peer in shared-security multi-chain interop, cross-chain four poles for the broader interop landscape, and five-pole comparison matrix for side-by-side.",
+  "headings": [
+    "Polkadot XCM · parachain messaging v3-v4",
+    "Wiki route",
+    "Key facts",
+    "Shared-security architecture",
+    "XCM v3 → v4 evolution",
+    "Asset Hub and institutional pilots",
+    "JAM and the long-term roadmap",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "systems/INDEX",
+      "systems/canton-overview",
+      "systems/cctp-v2-overview",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-overview",
+      "systems/eigenlayer-overview",
+      "systems/hyperledger-besu-overview",
+      "systems/ibc-cosmos-cross-chain",
+      "systems/institutional-dlt-adoption-comparison-2026",
+      "systems/l2-agent-economics-arbitrum-base-op-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
+      "https://finwiki.zksc.io/systems/eigenlayer-overview",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
+      "https://finwiki.zksc.io/systems/ibc-cosmos-cross-chain",
+      "https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026",
+      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6314,
+    "word_like_tokens": 953,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

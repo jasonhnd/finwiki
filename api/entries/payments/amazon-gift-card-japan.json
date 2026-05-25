@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/amazon-gift-card-japan",
+  "source_path": "payments/amazon-gift-card-japan.md",
+  "url": "https://finwiki.zksc.io/payments/amazon-gift-card-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/amazon-gift-card-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/amazon-gift-card-japan.md",
+  "domain": "payments",
+  "title": "Amazon Gift Card Japan: closed-loop e-commerce prepaid",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Amazon Gift Card Japan: closed-loop e-commerce prepaid",
+    "aliases": [
+      "amazon-gift-card-japan",
+      "Amazonギフト券",
+      "Amazon Gift Card Japan",
+      "アマゾン ギフトカード",
+      "Amazon prepaid Japan"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "gift-card",
+      "amazon",
+      "e-commerce",
+      "digital-prepaid",
+      "closed-loop"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.amazon.co.jp/giftcards",
+      "https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GZ4SCNS6CY9SHFFR",
+      "https://www.amazon.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the Amazon Japan gift-card prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view. Compare with Apple Gift Card Japan, Google Play Gift Card Japan (peer platform-anchored closed-loop gift cards), QUO Card (mul",
+  "headings": [
+    "Amazon Gift Card Japan: closed-loop e-commerce prepaid",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and operational structure",
+    "Legal basis: 自家型前払式支払手段 (closed-loop / single-merchant)",
+    "Distribution rails and use cases",
+    "Gift-card fraud / scam concern",
+    "KPI snapshot",
+    "Strategy: closed-loop cashless on-ramp + gift distribution",
+    "Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "payments/INDEX",
+      "payments/apple-gift-card-japan",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/google-play-gift-card-japan",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/quo-card-prepaid",
+      "payments/visa-gift-card-japan",
+      "payments/waon-prepaid-aeon"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/apple-gift-card-japan",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/google-play-gift-card-japan",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/quo-card-prepaid",
+      "https://finwiki.zksc.io/payments/visa-gift-card-japan",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8937,
+    "word_like_tokens": 1468,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

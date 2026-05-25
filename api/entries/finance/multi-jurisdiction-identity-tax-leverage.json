@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "slug": "finance/multi-jurisdiction-identity-tax-leverage",
+  "source_path": "finance/multi-jurisdiction-identity-tax-leverage.md",
+  "url": "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/multi-jurisdiction-identity-tax-leverage.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/multi-jurisdiction-identity-tax-leverage.md",
+  "domain": "finance",
+  "title": "跨境身份组合的税务杠杆",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "跨境身份组合的税务杠杆",
+    "aliases": [],
+    "domain": "finance",
+    "created": "2026-04-20",
+    "last_updated": "2026-05-03",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "identity",
+      "tax-residency",
+      "jurisdictions",
+      "estate",
+      "high-net-worth"
+    ],
+    "status": "candidate",
+    "sources": [
+      "Public PwC, EY, KPMG, and tax-authority guides on individual tax residency and capital-gains treatment.",
+      "OECD CRS / FATCA public documentation.",
+      "Public tax-authority materials on statutory residence, exit tax, and deemed-disposition rules."
+    ]
+  },
+  "summary": "This entry sits under finance index. Read it with securities index for adjacent context and money-market index for the broader system boundary.",
+  "headings": [
+    "跨境身份组合的税务杠杆",
+    "Wiki route",
+    "核心命题",
+    "三层收益维度",
+    "1. 资本利得税（Capital Gains Tax）",
+    "2. 继承税 / 遗产税（Inheritance / Estate Tax）",
+    "3. 营业 / 个人所得税（Income Tax）",
+    "期权行权的三个关键时机",
+    "A. 积累期结束（本金触发阈值）",
+    "B. 退休年龄前（提取策略启动）"
+  ],
+  "body_links": {
+    "wikilinks_count": 5,
+    "wikilinks": [
+      "INDEX",
+      "finance/INDEX",
+      "finance/fire-math-reverse-derivation",
+      "money-market/INDEX",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/fire-math-reverse-derivation",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2831,
+    "word_like_tokens": 473,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-bank-credit-facilities",
+  "source_path": "exchanges/jp-crypto-bank-credit-facilities.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-bank-credit-facilities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-bank-credit-facilities.md",
+  "domain": "exchanges",
+  "title": "CEX × 日本銀行 無担保授信実績図譜",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CEX × 日本銀行 無担保授信実績図譜（Fintech 行业情报）",
+    "aliases": [],
+    "domain": "exchanges",
+    "created": "2026-04-17",
+    "last_updated": "2026-05-03",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "certain",
+    "tags": [
+      "fintech"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under exchanges index. Read it against SBI VCトレード株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "CEX × 日本銀行 無担保授信実績図譜",
+    "Wiki route",
+    "已知先例",
+    "bitbank × きらぼし銀行（2026-03 公表）⭐",
+    "GMO（コイン）× きらぼし銀行 + あおぞら銀行（2022-2023）",
+    "GMO 早期 × 単一地銀（年代待查）",
+    "行业共通要素",
+    "银行方偏好（パターン）",
+    "きらぼし銀行",
+    "あおぞら銀行"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/stablecoin-crossborder-b2b-growth",
+      "fintech/usd-stablecoin-interchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2487,
+    "word_like_tokens": 383,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-21"
+  }
+}

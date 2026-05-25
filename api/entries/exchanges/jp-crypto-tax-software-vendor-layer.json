@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-tax-software-vendor-layer",
+  "source_path": "exchanges/jp-crypto-tax-software-vendor-layer.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-tax-software-vendor-layer",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-tax-software-vendor-layer.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-tax-software-vendor-layer.md",
+  "domain": "exchanges",
+  "title": "国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)",
+    "aliases": [
+      "JP crypto tax software",
+      "国内暗号資産税務ソフト",
+      "Crypto tax SaaS Japan",
+      "Cryptact Gtax CryptoLinc"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "tax",
+      "software",
+      "saas",
+      "retail",
+      "institutional"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.cryptact.com/",
+      "https://crypto-city.net/",
+      "https://www.cryptolinc.com/",
+      "https://koinly.io/",
+      "https://www.nta.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内暗号資産税制詳細 for peer / contrast context and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)",
+    "Wiki route",
+    "概要",
+    "国内主要ベンダー",
+    "Cryptact (株式会社クリプタクト)",
+    "Gtax (株式会社 Aerial Partners 提供)",
+    "CryptoLinc (旧 GxC / 株式会社 GxC)",
+    "Koinly (海外大手の日本対応)",
+    "その他",
+    "主要機能 (各社共通)"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/japan-crypto-audit-firm-landscape",
+      "exchanges/japan-crypto-law-firm-landscape",
+      "exchanges/jcba-japan-crypto-business-association",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-crypto-on-off-ramp-bridge-layer",
+      "exchanges/jp-crypto-staking-as-a-service-operators",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-law-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jcba-japan-crypto-business-association",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-on-off-ramp-bridge-layer",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-staking-as-a-service-operators",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3977,
+    "word_like_tokens": 575,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/bytecode-forensic-three-tier-verify",
+  "source_path": "security/bytecode-forensic-three-tier-verify.md",
+  "url": "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/bytecode-forensic-three-tier-verify.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/bytecode-forensic-three-tier-verify.md",
+  "domain": "security",
+  "title": "智能合约 bytecode forensic — 三层 verify 技术",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "智能合约 bytecode forensic — 三层 verify 技术",
+    "aliases": [],
+    "domain": "security",
+    "created": "2026-05-12",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-12",
+    "review_by": "2026-11-08",
+    "confidence": "possible",
+    "tags": [
+      "security/forensic",
+      "security/smart-contract",
+      "security/dd"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://ethereum.org/en/developers/docs/apis/json-rpc/#eth_getcode",
+      "https://docs.soliditylang.org/en/latest/metadata.html",
+      "https://docs.etherscan.io/contract-verification/"
+    ]
+  },
+  "summary": "This entry sits under FinWiki index. Read it with fork-and-rebrand audit framework for peer context and systems index for the broader infrastructure boundary.",
+  "headings": [
+    "智能合约 bytecode forensic — 三层 verify 技术",
+    "Wiki route",
+    "三层 technique",
+    "Layer 1: Deployed vs Compiled diff",
+    "Layer 2: 4-byte PUSH4-EQ dispatcher 反推",
+    "Layer 3: 跨链 verified twin fingerprint",
+    "When to Use",
+    "When NOT to Use",
+    "Counterpoints",
+    "Provenance"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "forensic-identity-anchor-chain",
+      "fork-and-rebrand-5-layer-audit-framework",
+      "security/fork-and-rebrand-5-layer-audit-framework",
+      "systems/INDEX",
+      "systems/formal-spec-implementation-codesign",
+      "wayback-machine-as-forensic-tool"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
+      "https://finwiki.zksc.io/wayback-machine-as-forensic-tool"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2551,
+    "word_like_tokens": 429,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-24"
+  }
+}

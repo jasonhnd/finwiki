@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/dex-pendle",
+  "source_path": "exchanges/dex-pendle.md",
+  "url": "https://finwiki.zksc.io/exchanges/dex-pendle",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/dex-pendle.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/dex-pendle.md",
+  "domain": "exchanges",
+  "title": "Pendle Finance — yield tokenization プロトコル（PT/YT）overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Pendle Finance — yield tokenization プロトコル（PT/YT）",
+    "aliases": [
+      "Pendle",
+      "Pendle Finance",
+      "PENDLE token",
+      "PT YT"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "dex",
+      "defi",
+      "yield-tokenization",
+      "multi-chain"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Pendle 公式 docs / whitepaper, pendle.finance)",
+      "公開情報整理 (DefiLlama Pendle TVL データ, 2024-2026)",
+      "公開情報整理 (Ethena USDe × Pendle 統合公式発表, 2024)",
+      "公開情報整理 (Lido stETH / Maker sDAI / Frax sfrxETH の Pendle 上市場)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against global DEX major five comparison for adjacent DEX peer context, AMM 設計進化系譜 for the broader system / design boundary, and CEX native token strategy comparison for token economy contrast.",
+  "headings": [
+    "Pendle Finance — yield tokenization プロトコル（PT/YT）overview",
+    "Wiki route",
+    "1. プロトコル概要",
+    "2. PT / YT メカニズム",
+    "3. 主要対応資産（2024–2026）",
+    "4. AMM 設計（カスタム curve）",
+    "5. vePENDLE 経済",
+    "6. 主要事件・沿革",
+    "7. 国際比較・cross-chain 戦略",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/cex-native-token-strategy-comparison",
+      "exchanges/dex-jito-solana",
+      "exchanges/dex-orca-solana",
+      "exchanges/dex-raydium-solana",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/cex-native-token-strategy-comparison",
+      "https://finwiki.zksc.io/exchanges/dex-jito-solana",
+      "https://finwiki.zksc.io/exchanges/dex-orca-solana",
+      "https://finwiki.zksc.io/exchanges/dex-raydium-solana",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3914,
+    "word_like_tokens": 648,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

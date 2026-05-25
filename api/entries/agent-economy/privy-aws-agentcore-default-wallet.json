@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/privy-aws-agentcore-default-wallet",
+  "source_path": "agent-economy/privy-aws-agentcore-default-wallet.md",
+  "url": "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/privy-aws-agentcore-default-wallet.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/privy-aws-agentcore-default-wallet.md",
+  "domain": "agent-economy",
+  "title": "Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位",
+    "aliases": [
+      "privy-aws-agentcore-default-wallet",
+      "aws-agentcore-payments",
+      "privy-coinbase-cdp-aws-default"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "ai-agent",
+      "wallet",
+      "aws",
+      "bedrock",
+      "agentcore",
+      "privy",
+      "coinbase-cdp"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/privy-embedded-wallet-overview",
+      "agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
+      "agent-economy/x402-cloudflare-aws-edge-integration",
+      "fintech/embedded-wallet-fintech-disintermediation-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/stablecoin-chain-token-strategy-trilemma",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
+      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2854,
+    "word_like_tokens": 489,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-24"
+  }
+}

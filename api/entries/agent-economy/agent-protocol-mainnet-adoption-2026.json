@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/agent-protocol-mainnet-adoption-2026",
+  "source_path": "agent-economy/agent-protocol-mainnet-adoption-2026.md",
+  "url": "https://finwiki.zksc.io/agent-economy/agent-protocol-mainnet-adoption-2026",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/agent-protocol-mainnet-adoption-2026.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/agent-protocol-mainnet-adoption-2026.md",
+  "domain": "agent-economy",
+  "title": "Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot",
+    "aliases": [
+      "agent-protocol-mainnet-adoption-2026",
+      "agent payment mainnet status 2026",
+      "x402 ap2 erc7715 production status",
+      "agent stack production readiness"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "2026-event",
+      "mainnet",
+      "adoption",
+      "x402",
+      "ap2",
+      "erc-7715",
+      "erc-4337",
+      "erc-7702",
+      "production-readiness"
+    ],
+    "status": "active",
+    "sources": [
+      "Cloudflare Workers x402 release notes (2026-Q1)",
+      "AWS API Gateway x402 integration announcement (2026-Q2)",
+      "Google AP2 launch consortium press (2025-09)",
+      "Ethereum Pectra upgrade release notes (2025-Q2)",
+      "Anthropic Claude Code SDK documentation (2026)",
+      "OpenAI Agents SDK documentation (2026)",
+      "Google Gemini Agent platform documentation (2026)",
+      "FIDO Alliance AAIF announcement (2026-Q2)"
+    ]
+  },
+  "summary": "As of May 2026, the agent-payment protocol stack has bifurcated sharply between mainnet-shipped infrastructure and testnet / consortium-only specs. The production-live tier is dominated by x402 (Cloudflare Workers + AWS API Gateway edge integrations), ERC-4337 (mature 4+ years on mainnet), and ERC-7",
+  "headings": [
+    "Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot",
+    "TL;DR",
+    "Wiki route",
+    "Protocol-by-protocol mainnet status",
+    "x402 — Cloudflare + AWS edge live (PRODUCTION)",
+    "AP2 — Google + 60+ partners (CONSORTIUM-LIVE, sparse production)",
+    "ERC-7715 — testnet-mature, mainnet-partial (TESTNET → MAINNET ROLLING)",
+    "ERC-4337 — mature mainnet (PRODUCTION, T+4 years)",
+    "ERC-7702 — Pectra-shipped to mainnet (PRODUCTION, T+1 year)",
+    "Agent SDK integration matrix"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/ai-agent-payment-protocols-commoditization",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-adoption",
+      "agent-economy/ap2-overview",
+      "agent-economy/claude-code-extension-architecture",
+      "agent-economy/erc-7715-agent-payment-stack",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/x402-cloudflare-aws-edge-integration",
+      "agent-economy/x402-http-payment-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-commoditization",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-adoption",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 18945,
+    "word_like_tokens": 3192,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

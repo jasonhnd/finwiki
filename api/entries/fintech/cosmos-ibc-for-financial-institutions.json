@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/cosmos-ibc-for-financial-institutions",
+  "source_path": "fintech/cosmos-ibc-for-financial-institutions.md",
+  "url": "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cosmos-ibc-for-financial-institutions.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cosmos-ibc-for-financial-institutions.md",
+  "domain": "fintech",
+  "title": "Cosmos IBC for Financial Institutions",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Cosmos IBC for Financial Institutions —— 金融機関向け cross-chain protocol 选型",
+    "aliases": [
+      "Cosmos IBC for FI",
+      "IBC for banking",
+      "cross-chain protocol comparison"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "blockchain",
+      "cross-chain",
+      "ibc",
+      "cosmos",
+      "hyperlane",
+      "ccip",
+      "layerzero",
+      "td"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://ibcprotocol.dev/",
+      "https://www.cosmos.network/ibc",
+      "https://www.hyperlane.xyz/",
+      "https://chain.link/cross-chain",
+      "https://layerzero.network/"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "Cosmos IBC for Financial Institutions",
+    "Wiki route",
+    "4 つの代表 protocol 比較",
+    "なぜ IBC + LCP が金融機関向けに優位なのか",
+    "金融機関視点での弱点",
+    "銀行 stack での実装例(Progmat / Project Pax)",
+    "Hyperlane / CCIP / LayerZero との使い分け",
+    "§501(d) 視点",
+    "応用",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "cross-border-sc-via-swift-api",
+      "fintech/INDEX",
+      "fintech/central-banking-function-unbundling",
+      "fintech/cross-border-sc-via-swift-api",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-trust-type-sc-architecture",
+      "fintech/multi-megabank-consortium-governance",
+      "jp-trust-type-sc-architecture",
+      "systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4125,
+    "word_like_tokens": 698,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-25"
+  }
+}

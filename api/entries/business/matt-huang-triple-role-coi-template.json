@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/matt-huang-triple-role-coi-template",
+  "source_path": "business/matt-huang-triple-role-coi-template.md",
+  "url": "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/matt-huang-triple-role-coi-template.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/matt-huang-triple-role-coi-template.md",
+  "domain": "business",
+  "title": "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构",
+    "aliases": [
+      "matt-huang-triple-role-coi",
+      "triple-role-coi-template",
+      "vc-gp-board-ceo-coi"
+    ],
+    "domain": "business",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "people",
+      "coi",
+      "vc",
+      "governance",
+      "hedge",
+      "case-study"
+    ],
+    "status": "confirmed",
+    "sources": []
+  },
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against jamie dimon anti crypto pivot case for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "business/INDEX",
+      "business/christine-moy-talent-signal-jpm-apollo",
+      "business/jamie-dimon-anti-crypto-pivot-case",
+      "business/larry-fink-blackrock-digital-asset-template",
+      "fintech/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
+      "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case",
+      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
+      "https://finwiki.zksc.io/fintech/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2295,
+    "word_like_tokens": 388,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-25"
+  }
+}

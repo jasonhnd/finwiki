@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/epos-card",
+  "source_path": "JapanFG/epos-card.md",
+  "url": "https://finwiki.zksc.io/JapanFG/epos-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/epos-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/epos-card.md",
+  "domain": "JapanFG",
+  "title": "エポスカード (EPOS Card)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "エポスカード (EPOS Card)",
+    "aliases": [
+      "EPOS Card",
+      "エポスカード",
+      "株式会社エポスカード"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "retail-finance",
+      "consumer-credit"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.01epos.jp/company/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ポケットカード (Pocket Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "エポスカード (EPOS Card)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/mufg",
+      "JapanFG/pocket-card",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/card-acquiring-japan-stack",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/pocket-card",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1906,
+    "word_like_tokens": 281,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-24"
+  }
+}

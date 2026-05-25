@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/jsda",
+  "source_path": "JapanFG/jsda.md",
+  "url": "https://finwiki.zksc.io/JapanFG/jsda",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jsda.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/jsda.md",
+  "domain": "JapanFG",
+  "title": "Japan Securities Dealers Association (JSDA)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan Securities Dealers Association (JSDA)",
+    "aliases": [
+      "JapanFG/jsda",
+      "jsda",
+      "JSDA",
+      "Japan Securities Dealers Association",
+      "日本証券業協会"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "self-regulatory",
+      "JSDA",
+      "FIEA",
+      "regulation"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jsda.or.jp/en/about/profile/index.html",
+      "https://www.jsda.or.jp/en/about/major-activities/index.html",
+      "https://www.jsda.or.jp/en/about/members-list/index.html",
+      "https://www.fsa.go.jp/koueki/koueki10a.html",
+      "https://www.fsa.go.jp/koueki/s_houjin/05.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html"
+    ]
+  },
+  "summary": "JSDA / 日本証券業協会 is the core self-regulatory organization for Japan's securities-dealer layer. It is not a securities firm and not the statutory regulator itself. Its legal position is a Financial Instruments Firms Association authorized by the Prime Minister under the Financial Instruments and Exchan",
+  "headings": [
+    "Japan Securities Dealers Association (JSDA)",
+    "TL;DR",
+    "Institution Map",
+    "Legal Position",
+    "Self-Regulatory Functions",
+    "JapanFG Relevance",
+    "Boundary Cases",
+    "Counterpoints",
+    "Open Questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/mizuho-securities",
+      "JapanFG/nomura-hd",
+      "JapanFG/rakuten-securities",
+      "JapanFG/smbc-nikko"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10729,
+    "word_like_tokens": 1630,
+    "inbound_wikilinks_count": 44,
+    "last_modified": "2026-05-20"
+  }
+}

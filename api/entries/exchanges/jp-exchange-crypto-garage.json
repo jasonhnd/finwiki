@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-crypto-garage",
+  "source_path": "exchanges/jp-exchange-crypto-garage.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-crypto-garage",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-crypto-garage.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-crypto-garage.md",
+  "domain": "exchanges",
+  "title": "株式会社 Crypto Garage — 日本暗号資産交換業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社 Crypto Garage — 日本暗号資産交換業者",
+    "aliases": [
+      "Crypto Garage",
+      "クリプトガレージ",
+      "Crypto Garage Inc"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "institutional",
+      "blockchain-infrastructure"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://cryptogarage.co.jp/",
+      "https://cryptogarage.co.jp/about/",
+      "https://cryptogarage.co.jp/en/about/",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "株式会社 Crypto Garage — 日本暗号資産交換業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/nomura-hd",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "fintech/japan-bittrade-listing-process",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-trust-type-sc-architecture"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+    ],
+    "external_links_count": 10,
+    "external_links": [
+      "https://cryptogarage.co.jp/",
+      "https://cryptogarage.co.jp/about/",
+      "https://cryptogarage.co.jp/en/about/",
+      "https://cryptogarage.co.jp/news/",
+      "https://cryptogarage.co.jp/services/custody/",
+      "https://cryptogarage.co.jp/services/otc/",
+      "https://cryptogarage.co.jp/services/pro/",
+      "https://cryptogarage.co.jp/services/rd/",
+      "https://jvcea.or.jp/member/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 6138,
+    "word_like_tokens": 875,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

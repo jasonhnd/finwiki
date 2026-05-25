@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/lawson-kddi-retail-finance",
+  "source_path": "retail/lawson-kddi-retail-finance.md",
+  "url": "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/lawson-kddi-retail-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/lawson-kddi-retail-finance.md",
+  "domain": "retail",
+  "title": "Lawson + KDDI Retail Finance",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Lawson + KDDI Retail Finance",
+    "aliases": [
+      "retail/lawson-kddi-retail-finance",
+      "lawson-kddi-retail-finance",
+      "Lawson KDDI JV finance",
+      "ローソン KDDI リテール金融"
+    ],
+    "domain": "retail",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "retail",
+      "convenience-store",
+      "payments",
+      "loyalty",
+      "financial-services",
+      "telco",
+      "jv"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.kddi.com/corporate/newsrelease/",
+      "https://www.lawson.co.jp/company/",
+      "https://www.ponta.jp/",
+      "https://aupay.auone.jp/",
+      "https://www.lawsonbank.jp/",
+      "https://www.mitsubishicorp.com/jp/ja/pr/"
+    ]
+  },
+  "summary": "After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥4,952 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitti",
+  "headings": [
+    "Lawson + KDDI Retail Finance",
+    "TL;DR",
+    "Ownership and structure",
+    "Finance assets in the channel",
+    "Comparison with Seven & i and AEON",
+    "Why this is a third model, not a copy",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aeon-bank",
+      "JapanFG/au-fh",
+      "JapanFG/au-payment",
+      "JapanFG/lawson-bank",
+      "JapanFG/mitsubishi-ufj-bank",
+      "JapanFG/seven-bank",
+      "loyalty/japan-points-landscape",
+      "payments/cashless-jp-landscape",
+      "retail/INDEX",
+      "retail/aeon-group",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank",
+      "https://finwiki.zksc.io/JapanFG/au-fh",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/lawson-bank",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-bank",
+      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.kddi.com/corporate/newsrelease/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 7679,
+    "word_like_tokens": 1351,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-24"
+  }
+}

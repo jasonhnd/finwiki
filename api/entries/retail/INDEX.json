@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/INDEX",
+  "source_path": "retail/INDEX.md",
+  "url": "https://finwiki.zksc.io/retail/INDEX",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/INDEX.md",
+  "domain": "retail",
+  "title": "retail domain",
+  "entry_type": "domain_index",
+  "frontmatter": {
+    "title": "retail domain",
+    "aliases": [
+      "retail INDEX",
+      "Japan retail finance domain",
+      "日本小売金融 domain"
+    ],
+    "domain": "retail",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "retail",
+      "index",
+      "payments",
+      "loyalty",
+      "financial-services"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aeon.info/en/company/",
+      "https://www.7andi.com/en/company/profile",
+      "https://www.aeonfinancial.co.jp/en/corp/about/",
+      "https://www.7andi.com/en/ir/library/co_financial/2025/finance/"
+    ]
+  },
+  "summary": "This domain routes retail groups when they matter to finance: store traffic, card issuing, prepaid electronic money, loyalty points, ATM networks, retail media, and embedded financial distribution.",
+  "headings": [
+    "retail domain",
+    "TL;DR",
+    "Active Entries",
+    "Retail Finance Pattern",
+    "Related Domains",
+    "Expansion Backlog",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/aeon-bank",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/seven-bank",
+      "loyalty/INDEX",
+      "loyalty/japan-points-landscape",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "retail/aeon-group",
+      "retail/japan-retail-financial-distribution-wedge-matrix\\",
+      "retail/lawson-kddi-retail-finance",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/loyalty/INDEX",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix\\",
+      "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3278,
+    "word_like_tokens": 517,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-05-25"
+  }
+}

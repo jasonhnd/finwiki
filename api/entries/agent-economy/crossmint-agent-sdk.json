@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/crossmint-agent-sdk",
+  "source_path": "agent-economy/crossmint-agent-sdk.md",
+  "url": "https://finwiki.zksc.io/agent-economy/crossmint-agent-sdk",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/crossmint-agent-sdk.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/crossmint-agent-sdk.md",
+  "domain": "agent-economy",
+  "title": "Crossmint agent SDK · NFT and wallet abstraction for AI agents",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Crossmint agent SDK · NFT and wallet abstraction for AI agents",
+    "aliases": [
+      "crossmint-agent-sdk",
+      "Crossmint",
+      "Crossmint embedded wallet",
+      "Crossmint NFT agent"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "wallet",
+      "crossmint",
+      "embedded-wallet",
+      "nft",
+      "agent-sdk",
+      "privy",
+      "dynamic",
+      "magic"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.crossmint.com/",
+      "https://docs.crossmint.com/",
+      "https://github.com/crossmint",
+      "https://blog.crossmint.com/"
+    ]
+  },
+  "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, embedded wallet consolidation for market context, and embedded wallet moat for value-capture framing.",
+  "headings": [
+    "Crossmint agent SDK · NFT and wallet abstraction for AI agents",
+    "Wiki route",
+    "Key facts",
+    "What Crossmint provides for AI agents",
+    "Crossmint vs Privy vs Dynamic vs Magic",
+    "Where Crossmint sits in the agent stack",
+    "Origin and evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/embedded-wallet-landscape-2026-consolidation",
+      "agent-economy/embedded-wallet-network-effects-moat",
+      "agent-economy/nevermined-compute-payment-protocol",
+      "agent-economy/privy-aws-agentcore-default-wallet",
+      "agent-economy/privy-embedded-wallet-overview",
+      "agent-economy/skyfire-closed-loop-agent-issuer",
+      "systems/erc-4337-userop-bundler-flow",
+      "systems/ton-telegram-openwallet-ecosystem"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/embedded-wallet-landscape-2026-consolidation",
+      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
+      "https://finwiki.zksc.io/agent-economy/nevermined-compute-payment-protocol",
+      "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
+      "https://finwiki.zksc.io/systems/ton-telegram-openwallet-ecosystem"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6337,
+    "word_like_tokens": 997,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

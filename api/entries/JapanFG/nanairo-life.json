@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/nanairo-life",
+  "source_path": "JapanFG/nanairo-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/nanairo-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/nanairo-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/nanairo-life.md",
+  "domain": "JapanFG",
+  "title": "なないろ生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "なないろ生命保険",
+    "aliases": [
+      "なないろ生命",
+      "Nanairo Life",
+      "Nanairo Life Insurance",
+      "なないろ生命保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "asahi-life",
+      "agency-channel",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://www.nanairolife.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against はなさく生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "なないろ生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/hanasaku-life",
+      "asahi-life",
+      "hanasaku-life",
+      "insurance/INDEX",
+      "insurance/global-solvency-framework-comparison-matrix",
+      "insurance/life-insurance-channel-mix",
+      "medicare-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/hanasaku-life",
+      "https://finwiki.zksc.io/asahi-life",
+      "https://finwiki.zksc.io/hanasaku-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/medicare-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1834,
+    "word_like_tokens": 283,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

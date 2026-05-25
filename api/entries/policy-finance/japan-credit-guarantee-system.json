@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/japan-credit-guarantee-system",
+  "source_path": "policy-finance/japan-credit-guarantee-system.md",
+  "url": "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-credit-guarantee-system.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-credit-guarantee-system.md",
+  "domain": "policy-finance",
+  "title": "Japan credit guarantee system",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan credit guarantee system",
+    "aliases": [
+      "Japan credit guarantee system",
+      "Credit Guarantee Corporation system",
+      "信用保証協会制度",
+      "信用保証制度",
+      "信用補完制度",
+      "信保制度"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "credit-guarantee",
+      "sme-finance",
+      "public-credit",
+      "jfc",
+      "zerozero-loan",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.zenshinhoren.or.jp/guarantee-system/",
+      "https://www.zenshinhoren.or.jp/guarantee-system/hokan/",
+      "https://www.zenshinhoren.or.jp/guarantee-system/riyojoken/",
+      "https://www.chusho.meti.go.jp/kinyu/shikinguri/index.html",
+      "https://www.chusho.meti.go.jp/kinyu/sefuti/sefutinet_1gou.html",
+      "https://www.chusho.meti.go.jp/kinyu/sefuti/sefutinet_2gou.html",
+      "https://www.jfc.go.jp/n/finance/sme/index.html"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as the SME-finance mechanism page. Read it against Japan Federation of Credit Guarantee Corporations (JFG) for the coordinating-body view, Japan policy finance system for the broader perimeter, and the sector-specific counterparts agriculture / fisheries. L",
+  "headings": [
+    "Japan credit guarantee system",
+    "Wiki route",
+    "TL;DR",
+    "1. System architecture (the 信用補完制度 stack)",
+    "2. 機関概要 — local Credit Guarantee Corporations",
+    "3. 主要保証商品 (system-level menu)",
+    "4. Guarantee ratio mechanics (責任共有制度)",
+    "5. Safety-Net Guarantee programs (セーフティネット保証)",
+    "6. ZeroZero loan unwind status (2020 → 2026)",
+    "7. Funding source"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jfc",
+      "JapanFG/shoko-chukin",
+      "banking/credit-cooperative-registry-japan",
+      "banking/regional-bank-consolidation-pattern",
+      "banking/shinkin-bank-registry-japan",
+      "policy-finance/INDEX",
+      "policy-finance/agriculture-credit-guarantee-system",
+      "policy-finance/aichi-credit-guarantee-corp",
+      "policy-finance/fisheries-credit-guarantee-system",
+      "policy-finance/hokkaido-credit-guarantee-corp",
+      "policy-finance/hyogo-credit-guarantee-corp",
+      "policy-finance/japan-housing-finance-agency",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/national-federation-credit-guarantee-corporations",
+      "policy-finance/osaka-credit-guarantee-corp",
+      "policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/shoko-chukin",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/aichi-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
+      "https://finwiki.zksc.io/policy-finance/hokkaido-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/hyogo-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/national-federation-credit-guarantee-corporations",
+      "https://finwiki.zksc.io/policy-finance/osaka-credit-guarantee-corp",
+      "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 14656,
+    "word_like_tokens": 2237,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-05-25"
+  }
+}

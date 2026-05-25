@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/yucho",
+  "source_path": "JapanFG/yucho.md",
+  "url": "https://finwiki.zksc.io/JapanFG/yucho",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/yucho.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/yucho.md",
+  "domain": "JapanFG",
+  "title": "ゆうちょ銀行 (Japan Post Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ゆうちょ銀行 (Japan Post Bank)",
+    "aliases": [
+      "ゆうちょ銀行",
+      "Japan Post Bank",
+      "JP Bank",
+      "株式会社ゆうちょ銀行",
+      "JPB"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "post-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社ゆうちょ銀行 (2026-05-19 抽出)",
+      "日本郵政グループ 統合報告書 / IR 開示 (公開資料)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against りそなホールディングス (Resona Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ゆうちょ銀行 (Japan Post Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要数値（公開ベース・直近実績）^[ambiguous]",
+    "親会社・グループ構造",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "運用ポートフォリオの特徴 ^[inferred]",
+    "3. 战略与竞争"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/resona-hd",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/resona-hd",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4420,
+    "word_like_tokens": 559,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

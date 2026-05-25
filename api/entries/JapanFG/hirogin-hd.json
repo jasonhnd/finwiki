@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/hirogin-hd",
+  "source_path": "JapanFG/hirogin-hd.md",
+  "url": "https://finwiki.zksc.io/JapanFG/hirogin-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/hirogin-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/hirogin-hd.md",
+  "domain": "JapanFG",
+  "title": "ひろぎん HD (Hirogin Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ひろぎん HD (Hirogin Holdings)",
+    "aliases": [
+      "ひろぎん HD",
+      "Hirogin Holdings",
+      "株式会社ひろぎんホールディングス"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ひろぎんホールディングス / 広島銀行 (2026-05-19 抽出)",
+      "ひろぎん HD 第 5 期 (2025-03 期) 有価証券報告書"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ひろぎん HD (Hirogin Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社（連結）",
+    "重要历史",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "地盤戦略",
+    "中国地方競合構図"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/chugin-okayama",
+      "JapanFG/fukuoka-fg",
+      "banking/INDEX",
+      "chugoku-bank",
+      "hiroshima-bank",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "san-in-godo-bank",
+      "smfg",
+      "yamaguchi-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/chugin-okayama",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/chugoku-bank",
+      "https://finwiki.zksc.io/hiroshima-bank",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/san-in-godo-bank",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/yamaguchi-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3958,
+    "word_like_tokens": 588,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-21"
+  }
+}

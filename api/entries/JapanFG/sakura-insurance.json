@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sakura-insurance",
+  "source_path": "JapanFG/sakura-insurance.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sakura-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sakura-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sakura-insurance.md",
+  "domain": "JapanFG",
+  "title": "Sakura Insurance / さくら損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Sakura Insurance / さくら損害保険",
+    "aliases": [
+      "さくら損害保険",
+      "さくら損害保険株式会社",
+      "Sakura Insurance"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-23",
+    "last_updated": "2026-05-23",
+    "last_tended": "2026-05-23",
+    "review_by": "2026-11-23",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "device-insurance",
+      "specialty-insurer",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
+      "Sakura Insurance company page: https://www.sakura-ins.co.jp/company/",
+      "Sakura Insurance important information PDF: https://www.sakura-ins.co.jp/items/pdf/important_information_manual.pdf"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> JapanFG/sakura-insurance",
+  "headings": [
+    "Sakura Insurance / さくら損害保険",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "JapanFG/rescue-insurance",
+      "JapanFG/sakura-insurance",
+      "JapanFG/zenkankyo-reiwa-insurance",
+      "insurance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/JapanFG/rescue-insurance",
+      "https://finwiki.zksc.io/JapanFG/sakura-insurance",
+      "https://finwiki.zksc.io/JapanFG/zenkankyo-reiwa-insurance",
+      "https://finwiki.zksc.io/insurance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2287,
+    "word_like_tokens": 347,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-23"
+  }
+}

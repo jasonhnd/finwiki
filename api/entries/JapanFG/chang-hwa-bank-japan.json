@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/chang-hwa-bank-japan",
+  "source_path": "JapanFG/chang-hwa-bank-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/chang-hwa-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/chang-hwa-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/chang-hwa-bank-japan.md",
+  "domain": "JapanFG",
+  "title": "彰化商業銀行日本 (Chang Hwa Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "彰化商業銀行日本 (Chang Hwa Bank Japan)",
+    "aliases": [
+      "Chang Hwa Bank Japan",
+      "Chang Hwa Commercial Bank Tokyo Branch",
+      "彰化商業銀行東京支店",
+      "彰化銀行日本"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Taiwan",
+      "trade-finance",
+      "corporate-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.bankchb.com/frontend/overview.jsp",
+      "https://www.bankchb.com/chb_2a_resource/leap_do/gallery/1733129703979/%E6%84%9B%E5%9C%8B%E8%80%85%E6%B3%95%E6%A1%88%E8%81%B2%E6%98%8E%E6%9B%B82024.pdf"
+    ]
+  },
+  "summary": "Chang Hwa Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with First Commercial Bank Japan, Bank of Taiwan Japan, Mega ICBC Japan, and foreign-bank Japan retreat.",
+  "headings": [
+    "彰化商業銀行日本 (Chang Hwa Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/bank-of-taiwan-japan",
+      "JapanFG/first-commercial-bank-japan",
+      "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "JapanFG/mega-icbc-japan",
+      "JapanFG/taishin-bank-japan",
+      "JapanFG/taiwan-business-bank-japan",
+      "JapanFG/taiwan-cooperative-bank-japan",
+      "banking/foreign-bank-japan-retreat",
+      "finance/cross-border-m-a-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bank-of-taiwan-japan",
+      "https://finwiki.zksc.io/JapanFG/first-commercial-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/JapanFG/mega-icbc-japan",
+      "https://finwiki.zksc.io/JapanFG/taishin-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/taiwan-business-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/taiwan-cooperative-bank-japan",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3792,
+    "word_like_tokens": 619,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-22"
+  }
+}

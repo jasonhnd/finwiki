@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/sui-aptos-move-l1-ecosystem",
+  "source_path": "systems/sui-aptos-move-l1-ecosystem.md",
+  "url": "https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/sui-aptos-move-l1-ecosystem.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/sui-aptos-move-l1-ecosystem.md",
+  "domain": "systems",
+  "title": "Sui and Aptos · Move L1 ecosystem",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Sui and Aptos · Move L1 ecosystem",
+    "aliases": [
+      "sui-aptos-move-l1-ecosystem",
+      "Sui blockchain",
+      "Aptos blockchain",
+      "Move language",
+      "Diem Libra Move heritage"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "l1",
+      "move",
+      "sui",
+      "aptos",
+      "diem",
+      "libra",
+      "parallel-execution",
+      "object-centric",
+      "narwhal-bullshark",
+      "blockstm"
+    ],
+    "status": "active",
+    "sources": [
+      "https://sui.io/",
+      "https://aptosfoundation.org/",
+      "https://docs.sui.io/",
+      "https://aptos.dev/",
+      "https://github.com/move-language/move"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against DAG-BFT vs chain-BFT for the consensus framing, BFT validator economics for token / staking dynamics, and threshold BFT for the implementation-language context.",
+  "headings": [
+    "Sui and Aptos · Move L1 ecosystem",
+    "Wiki route",
+    "Key facts",
+    "Move language origin and design",
+    "Sui vs Aptos architectural divergence",
+    "Parallel execution — why Move L1s matter",
+    "Financial / agent-payment use cases",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "systems/INDEX",
+      "systems/bft-validator-economy-overview",
+      "systems/canton-overview",
+      "systems/cctp-v2-overview",
+      "systems/dag-bft-vs-chain-bft-architecture",
+      "systems/hyperledger-besu-overview",
+      "systems/l2-agent-economics-arbitrum-base-op-comparison",
+      "systems/layerzero-v2-omnichain-messaging",
+      "systems/solana-firedancer-validator-economics",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
+      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison",
+      "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging",
+      "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6571,
+    "word_like_tokens": 1002,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

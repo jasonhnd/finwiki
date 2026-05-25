@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturing/seiko-epson",
+  "source_path": "manufacturing/seiko-epson.md",
+  "url": "https://finwiki.zksc.io/manufacturing/seiko-epson",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/seiko-epson.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturing/seiko-epson.md",
+  "domain": "manufacturing",
+  "title": "Seiko Epson Corporation (セイコーエプソン)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Seiko Epson Corporation (セイコーエプソン)",
+    "aliases": [
+      "manufacturing/seiko-epson",
+      "seiko-epson",
+      "Seiko Epson",
+      "セイコーエプソン"
+    ],
+    "domain": "manufacturing",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "electronics",
+      "nagano"
+    ],
+    "status": "active",
+    "sources": [
+      "https://corporate.epson/en/about/info.html",
+      "https://corporate.epson/en/investors/publications/annual-report.html",
+      "https://corporate.epson/en/investors/publications/integrated-report.html"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.",
+  "headings": [
+    "Seiko Epson Corporation (セイコーエプソン)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "4. 监管与政策",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 4,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/hachijuni-bank",
+      "manufacturing/INDEX",
+      "manufacturing/toyota-motor"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/hachijuni-bank",
+      "https://finwiki.zksc.io/manufacturing/INDEX",
+      "https://finwiki.zksc.io/manufacturing/toyota-motor"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2623,
+    "word_like_tokens": 338,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

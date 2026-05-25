@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/regional-bank-api-digital-partnership-route",
+  "source_path": "banking/regional-bank-api-digital-partnership-route.md",
+  "url": "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/regional-bank-api-digital-partnership-route.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/regional-bank-api-digital-partnership-route.md",
+  "domain": "banking",
+  "title": "Regional bank API and digital partnership route in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Regional bank API and digital partnership route in Japan",
+    "aliases": [
+      "regional-bank-api-digital-partnership-route",
+      "Japan regional bank API route",
+      "地方銀行 API digital partnership"
+    ],
+    "domain": "banking",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "regional-bank",
+      "bank-api",
+      "digital-partnership",
+      "electronic-payment-agency",
+      "fintech"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf",
+      "https://www.zenginkyo.or.jp/abstract/council/openapi/",
+      "https://www.zenginkyo.or.jp/fileadmin/res/abstract/council/openapi/openapi_text_1.pdf",
+      "https://www.boy.co.jp/renkei/index.html",
+      "https://www.boy.co.jp/renkei/api.html",
+      "https://www.boj.or.jp/finsys/c_aft/workshop/data/rel180611b4.pdf",
+      "https://www.tsukubabank.co.jp/cms/article/d5ba785feeb1f01e897ce2217e049b059cca84bc/"
+    ]
+  },
+  "summary": "Regional-bank digital partnership in Japan is not just \"a bank app.\" It is split into electronic payment agency API contracts, shared API platforms, bank-owned apps, accounting / treasury integrations, BaaS-style bank partnerships, and account-direct payment rails.",
+  "headings": [
+    "Regional bank API and digital partnership route in Japan",
+    "Overview",
+    "Route Map",
+    "Regional Examples",
+    "Control Questions",
+    "JapanFG Relevance",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/chiba-bank",
+      "JapanFG/chugoku-bank",
+      "JapanFG/freee",
+      "JapanFG/fukuoka-fg",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/money-forward",
+      "JapanFG/tsukuba-bank",
+      "JapanFG/yokohama-bank",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/minna-bank-baas-model",
+      "banking/regional-bank-consolidation-pattern",
+      "payments/account-to-account-payment-japan",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-bank-api-incident-and-fraud-control",
+      "payments/japan-bank-api-payment-agency-route",
+      "payments/merchant-bank-pay-account-direct-acquiring"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/chiba-bank",
+      "https://finwiki.zksc.io/JapanFG/chugoku-bank",
+      "https://finwiki.zksc.io/JapanFG/freee",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/money-forward",
+      "https://finwiki.zksc.io/JapanFG/tsukuba-bank",
+      "https://finwiki.zksc.io/JapanFG/yokohama-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-bank-api-incident-and-fraud-control",
+      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route",
+      "https://finwiki.zksc.io/payments/merchant-bank-pay-account-direct-acquiring"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5968,
+    "word_like_tokens": 913,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-22"
+  }
+}

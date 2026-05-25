@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/travelex-japan",
+  "source_path": "JapanFG/travelex-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/travelex-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/travelex-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/travelex-japan.md",
+  "domain": "JapanFG",
+  "title": "トラベレックスジャパン (Travelex Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "トラベレックスジャパン (Travelex Japan)",
+    "aliases": [
+      "Travelex Japan",
+      "トラベレックスジャパン",
+      "トラベレックスジャパン株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "remittance",
+      "foreign-exchange",
+      "funds-transfer"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.travelex.co.jp/about-us",
+      "https://www.travelex-corporate.com/media-centre/2022/september/nium-and-travelex-launch-new-digital-remittance-offering-in-japan",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "トラベレックスジャパン (Travelex Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/sbi-remit",
+      "JapanFG/western-union-japan",
+      "JapanFG/wise-payments-japan",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sbi-remit",
+      "https://finwiki.zksc.io/JapanFG/western-union-japan",
+      "https://finwiki.zksc.io/JapanFG/wise-payments-japan",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2167,
+    "word_like_tokens": 330,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

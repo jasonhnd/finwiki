@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/japan-project-finance-stack-diagram",
+  "source_path": "policy-finance/japan-project-finance-stack-diagram.md",
+  "url": "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-project-finance-stack-diagram.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-project-finance-stack-diagram.md",
+  "domain": "policy-finance",
+  "title": "Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)",
+    "aliases": [
+      "policy-finance/japan-project-finance-stack-diagram",
+      "japan-project-finance-stack-diagram",
+      "Japan overseas project finance stack",
+      "JOGMEC JBIC NEXI megabank stack",
+      "日本プロジェクトファイナンス・スタック"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "project-finance",
+      "export-credit",
+      "lng",
+      "mining",
+      "infrastructure",
+      "japan",
+      "eca"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jbic.go.jp/en/",
+      "https://www.nexi.go.jp/en/",
+      "https://www.jogmec.go.jp/english/",
+      "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/",
+      "https://www.jbic.go.jp/en/information/press/press-2020/0703-013462.html",
+      "https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as the cross-institution map of how Japan finances overseas resource and infrastructure projects. Read it with JapanFG/jbic, policy-finance/nexi, and policy-finance/jogmec for each institution in isolation, with policy-finance/oecd-export-credit-arrangement",
+  "headings": [
+    "Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)",
+    "Wiki route",
+    "TL;DR",
+    "ASCII diagram of the stack",
+    "Each institution's role",
+    "JOGMEC — equity / exploration risk",
+    "JBIC — sovereign-aligned overseas investment loan, untied loan, export buyer credit",
+    "NEXI — political-risk / commercial-risk insurance",
+    "Megabank syndicate — commercial bank loans, agent-bank role",
+    "Sponsor SPV — project company, equity sponsors"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/jbic",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "finance/japan-acquisition-finance",
+      "policy-finance/INDEX",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/jogmec",
+      "policy-finance/nexi",
+      "policy-finance/oecd-export-credit-arrangement"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/jogmec",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 15496,
+    "word_like_tokens": 2466,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-05-24"
+  }
+}

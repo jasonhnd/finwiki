@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/switzerland-finma-crypto-valley-overview",
+  "source_path": "exchanges/switzerland-finma-crypto-valley-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/switzerland-finma-crypto-valley-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/switzerland-finma-crypto-valley-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/switzerland-finma-crypto-valley-overview.md",
+  "domain": "exchanges",
+  "title": "スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム",
+    "aliases": [
+      "Switzerland FINMA crypto",
+      "Crypto Valley Zug",
+      "スイス暗号資産制度"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "switzerland",
+      "finma",
+      "crypto-valley",
+      "benchmark"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.finma.ch/"
+    ]
+  },
+  "summary": "スイスは 2018 年に FINMA (Swiss Financial Market Supervisory Authority) が暗号資産トークン 3 分類ガイドラインを公表 (Payment / Utility / Asset)。既存銀行業法・証券業法・集団投資スキーム法を機能ベースで適用する独自アプローチを採用。新規立法ではなく既存金融法を解釈で対応した点が特徴。2021 年 8 月施行の DLT Act (分散型台帳技術法) により、SIX Digital Exchange (SDX) 等のトークン化証券取引所開設が可能化、世界初の包括的 DLT 立法として国際的注目を浴びた。",
+  "headings": [
+    "スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム",
+    "制度概要",
+    "4 ライセンス区分",
+    "主要事業者",
+    "Crypto Valley (Zug カントン)",
+    "国際比較",
+    "関連 wiki"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/eu-mica-casp-regime-overview",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-exchange-laser-digital-japan",
+      "exchanges/rwa-tokenization-cex-integration",
+      "exchanges/uk-fca-crypto-registration-overview",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
+      "https://finwiki.zksc.io/exchanges/uk-fca-crypto-registration-overview",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2483,
+    "word_like_tokens": 370,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-24"
+  }
+}

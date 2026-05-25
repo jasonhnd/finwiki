@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/fitch-moody-sp-japan-criteria",
+  "source_path": "structured-finance/fitch-moody-sp-japan-criteria.md",
+  "url": "https://finwiki.zksc.io/structured-finance/fitch-moody-sp-japan-criteria",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/fitch-moody-sp-japan-criteria.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/fitch-moody-sp-japan-criteria.md",
+  "domain": "structured-finance",
+  "title": "Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I",
+    "aliases": [
+      "Global rating agency Japan structured finance criteria",
+      "Fitch Japan structured finance",
+      "Moody's Japan ABS criteria",
+      "S&P Japan securitization criteria",
+      "Global vs domestic agency split rating Japan",
+      "Sovereign rating cap Japan ABS",
+      "structured-finance/fitch-moody-sp-japan-criteria"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "rating-agency",
+      "fitch",
+      "moodys",
+      "sp",
+      "jcr",
+      "ri",
+      "japan",
+      "criteria"
+    ],
+    "status": "active",
+    "sources": [
+      "JCR official methodology — https://www.jcr.co.jp/en/",
+      "R&I official methodology — https://www.r-i.co.jp/en/",
+      "JSDA structured-finance statistics — https://www.jsda.or.jp/en/",
+      "Megabank IR (MUFG / SMBC / Mizuho securitization disclosures)",
+      "Moody's / Fitch / S&P public methodology documents (Japan ABS / RMBS)"
+    ]
+  },
+  "summary": "Japanese securitisations are dual-rated: the domestic agencies JCR and R&I cover the yen-denominated investor base (life insurers, regional banks, Japan Post Bank), while Moody's, S&P, and Fitch are added when the deal targets foreign investors or USD-denominated tranches. The split-rating gap can b",
+  "headings": [
+    "Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I",
+    "TL;DR",
+    "Wiki route",
+    "1. The three global agencies — Japan structured-finance footprint",
+    "2. Sovereign-rating cap — the structural ceiling",
+    "3. Differences in modelling assumptions",
+    "3a. Default frequency / transition matrix",
+    "3b. Recovery assumption",
+    "3c. Cash-flow stress",
+    "4. Transition matrix differences — empirical observation"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "JapanFG/boj",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/japan-post-bank",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg",
+      "JapanFG/mufg-securities",
+      "JapanFG/norinchukin",
+      "JapanFG/smbc-nikko",
+      "JapanFG/smfg",
+      "derivatives/japan-cds-market-overview",
+      "finance/INDEX",
+      "real-estate-finance/INDEX",
+      "structured-finance/INDEX",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/boj",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-securities",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/derivatives/japan-cds-market-overview",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10677,
+    "word_like_tokens": 1814,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

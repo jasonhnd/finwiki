@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/iwate-bank",
+  "source_path": "JapanFG/iwate-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/iwate-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/iwate-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/iwate-bank.md",
+  "domain": "JapanFG",
+  "title": "株式会社岩手銀行 (The Bank of Iwate)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社岩手銀行 (The Bank of Iwate)",
+    "aliases": [
+      "iwate-bank",
+      "The Bank of Iwate",
+      "岩手銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.iwatebank.co.jp/company/information/aboutus.html",
+      "https://www.iwatebank.co.jp/company/management/plan.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社岩手銀行 (The Bank of Iwate)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "4. 监管与政策",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/77-bank",
+      "JapanFG/INDEX",
+      "JapanFG/akita-bank",
+      "JapanFG/fidea-hd",
+      "JapanFG/proclair-hd",
+      "banking/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/77-bank",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/akita-bank",
+      "https://finwiki.zksc.io/JapanFG/fidea-hd",
+      "https://finwiki.zksc.io/JapanFG/proclair-hd",
+      "https://finwiki.zksc.io/banking/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2328,
+    "word_like_tokens": 357,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

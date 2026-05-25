@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/vetoken-host-protocol-flywheel",
+  "source_path": "exchanges/vetoken-host-protocol-flywheel.md",
+  "url": "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/vetoken-host-protocol-flywheel.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/vetoken-host-protocol-flywheel.md",
+  "domain": "exchanges",
+  "title": "veToken × 主导方 DEX 自循环飞轮",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "veToken × 主导方 DEX 自循环飞轮 —— L2/L1 主导方的链上闭环",
+    "aliases": [
+      "veToken flywheel",
+      "cbBTC veAERO flywheel",
+      "L2 host protocol flywheel",
+      "ve33 host alignment"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-16",
+    "last_updated": "2026-05-16",
+    "last_tended": "2026-05-16",
+    "review_by": "2026-11-16",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "defi",
+      "dex",
+      "vetoken",
+      "l2",
+      "base",
+      "aerodrome",
+      "coinbase",
+      "flywheel"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "veToken × 主导方 DEX 自循环飞轮",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/ve33-governance-mechanism",
+      "fintech/japan-financial-regulation",
+      "fintech/portfolio-winner-structure-arm-analog",
+      "fintech/stablecoin-revenue-split-economics",
+      "fintech/wall-street-crypto-network-neutrality"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/ve33-governance-mechanism",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
+      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2520,
+    "word_like_tokens": 427,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

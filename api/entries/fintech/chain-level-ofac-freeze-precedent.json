@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/chain-level-ofac-freeze-precedent",
+  "source_path": "fintech/chain-level-ofac-freeze-precedent.md",
+  "url": "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/chain-level-ofac-freeze-precedent.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/chain-level-ofac-freeze-precedent.md",
+  "domain": "fintech",
+  "title": "链级 OFAC freeze = 美元链级霸权",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "链级 OFAC freeze = 美元链级霸权（Bybit Hack 30 分钟先例）",
+    "aliases": [
+      "chain-level OFAC freeze",
+      "dollar chain hegemony",
+      "Bybit hack USDC freeze"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-13",
+    "last_updated": "2026-05-13",
+    "last_tended": "2026-05-13",
+    "review_by": "2026-11-13",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "OFAC",
+      "sanction",
+      "freeze",
+      "stablecoin",
+      "USDC"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://ofac.treasury.gov/recent-actions",
+      "https://home.treasury.gov/policy-issues/financial-sanctions",
+      "https://www.circle.com/en/transparency",
+      "https://www.coindesk.com/policy/2022/08/08/us-sanctions-crypto-tool-tornado-cash/",
+      "https://www.bybit.com/en/news"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "链级 OFAC freeze = 美元链级霸权",
+    "Wiki route",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "fintech/INDEX",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/fatf-travel-rule-overview",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/tether-business-model-short-treasury-yield",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2620,
+    "word_like_tokens": 439,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-25"
+  }
+}

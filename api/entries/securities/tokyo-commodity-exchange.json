@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/tokyo-commodity-exchange",
+  "source_path": "securities/tokyo-commodity-exchange.md",
+  "url": "https://finwiki.zksc.io/securities/tokyo-commodity-exchange",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/tokyo-commodity-exchange.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/tokyo-commodity-exchange.md",
+  "domain": "securities",
+  "title": "東京商品取引所 (TOCOM)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京商品取引所 (TOCOM)",
+    "aliases": [
+      "Tokyo Commodity Exchange",
+      "TOCOM",
+      "東京商品取引所"
+    ],
+    "domain": "securities",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "commodities",
+      "exchange",
+      "derivatives",
+      "market-infrastructure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/corporate/about-jpx/profile/05.html",
+      "https://www.jpx.co.jp/english/derivatives/products/energy/"
+    ]
+  },
+  "summary": "This entry sits under securities index. Read it against 大阪取引所 (OSE) for peer / contrast context and financial instruments business operators japan index for the broader system / regulatory boundary.",
+  "headings": [
+    "東京商品取引所 (TOCOM)",
+    "Wiki route",
+    "TL;DR",
+    "System Map",
+    "Market Role",
+    "Strategic Reading",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/japan-exchange-group",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-securities-clearing-corp",
+      "securities/osaka-exchange",
+      "securities/tokyo-stock-exchange",
+      "trade/jetro-organization-structure"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/osaka-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange",
+      "https://finwiki.zksc.io/trade/jetro-organization-structure"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2275,
+    "word_like_tokens": 340,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-21"
+  }
+}

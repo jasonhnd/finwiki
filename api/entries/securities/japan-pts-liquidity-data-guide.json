@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/japan-pts-liquidity-data-guide",
+  "source_path": "securities/japan-pts-liquidity-data-guide.md",
+  "url": "https://finwiki.zksc.io/securities/japan-pts-liquidity-data-guide",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/japan-pts-liquidity-data-guide.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/japan-pts-liquidity-data-guide.md",
+  "domain": "securities",
+  "title": "Japan PTS liquidity data guide",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan PTS liquidity data guide",
+    "aliases": [
+      "japan-pts-liquidity-data-guide",
+      "Japan PTS statistics guide",
+      "PTS liquidity Japan",
+      "PTS流動性データ guide"
+    ],
+    "domain": "securities",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "PTS",
+      "liquidity",
+      "market-data",
+      "SOR",
+      "best-execution"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "https://www.jsda.or.jp/en/statistics/pts-for-equity/files/explanatory_ptsforequity.pdf",
+      "https://www.jpx.co.jp/english/markets/statistics-equities/index.html",
+      "https://www.japannext.co.jp/",
+      "https://www.japannext.co.jp/en/regulations",
+      "https://www.odx.co.jp/equity/en/market_info/daily_report/",
+      "https://www.odx.co.jp/equity/en/market_info/historical_data/"
+    ]
+  },
+  "summary": "PTS liquidity data is the evidence layer behind Japan best execution, SOR, and PTS. It helps answer whether alternative venues are material for a security, but it is not the same as a customer-specific best-execution result. A useful analysis must separate aggregate trading value, issue-level activi",
+  "headings": [
+    "Japan PTS liquidity data guide",
+    "Overview",
+    "Source Stack",
+    "Reading The JSDA PTS Statistics",
+    "Core Metrics",
+    "Analyst Workflow",
+    "PTS Data Interpretation",
+    "JapanFG Relevance",
+    "Caveats",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/jsda",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg-esmart-securities",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/paypay-securities",
+      "JapanFG/rakuten-securities",
+      "JapanFG/sbi-securities",
+      "JapanFG/smbc-nikko",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-best-execution-sor-pts",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/japannext-securities",
+      "securities/osaka-digital-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-esmart-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/paypay-securities",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/japannext-securities",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7273,
+    "word_like_tokens": 1153,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-22"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/cooperative-banking-japan",
+  "source_path": "banking/cooperative-banking-japan.md",
+  "url": "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/cooperative-banking-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/cooperative-banking-japan.md",
+  "domain": "banking",
+  "title": "Cooperative banking in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Cooperative banking in Japan",
+    "aliases": [
+      "banking/cooperative-banking-japan",
+      "cooperative-banking-japan",
+      "協同組織金融機関"
+    ],
+    "domain": "banking",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "cooperative-banking",
+      "shinkin",
+      "credit-union",
+      "ja-bank",
+      "jf-marine-bank",
+      "agricultural-finance",
+      "fisheries-finance",
+      "regional-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/common/law/guide/chusho/05.html",
+      "https://www.fsa.go.jp/common/law/guide/chusho/index.html",
+      "https://www.shinkin.org/shinkin/",
+      "https://www.shinkin.org/shinkin/seido/index.html",
+      "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx",
+      "https://www.jabank.org/about/sikumi/",
+      "https://www.jabank.org/about/sikumi/banksystem/",
+      "https://www.nochubank.or.jp/about/features.html",
+      "https://www.jfmbk.org/about/housin.html"
+    ]
+  },
+  "summary": "Japan's cooperative banking layer consists mainly of shinkin banks, credit cooperatives, labor banks, the JA Bank agricultural cooperative banking system, the JF Marine Bank fisheries cooperative banking system, and related central institutions. FSA's supervision guideline treats cooperative financi",
+  "headings": [
+    "Cooperative banking in Japan",
+    "TL;DR",
+    "Structure Map",
+    "Why It Matters",
+    "JapanFG Relevance",
+    "Boundary Cases",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/akita-bank",
+      "JapanFG/iwate-bank",
+      "JapanFG/joyo-bank",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/norinchukin",
+      "JapanFG/rokin-renraku",
+      "JapanFG/shinkin-central",
+      "JapanFG/zenshin-kumi",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/credit-cooperative-registry-japan",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "banking/post-megabank-positioning",
+      "banking/regional-bank-consolidation-pattern",
+      "banking/rokin-bank-registry-japan",
+      "banking/shinkin-bank-registry-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/akita-bank",
+      "https://finwiki.zksc.io/JapanFG/iwate-bank",
+      "https://finwiki.zksc.io/JapanFG/joyo-bank",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/rokin-renraku",
+      "https://finwiki.zksc.io/JapanFG/shinkin-central",
+      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5309,
+    "word_like_tokens": 766,
+    "inbound_wikilinks_count": 65,
+    "last_modified": "2026-05-21"
+  }
+}

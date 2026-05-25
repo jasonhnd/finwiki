@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "payments/visa-gift-card-japan",
+  "source_path": "payments/visa-gift-card-japan.md",
+  "url": "https://finwiki.zksc.io/payments/visa-gift-card-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payments/visa-gift-card-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payments/visa-gift-card-japan.md",
+  "domain": "payments",
+  "title": "Visa Gift Card Japan: Visa-branded open-loop prepaid",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Visa Gift Card Japan: Visa-branded open-loop prepaid",
+    "aliases": [
+      "visa-gift-card-japan",
+      "Visaギフトカード",
+      "Visa Gift Card Japan",
+      "Vプリカ",
+      "Visa prepaid Japan"
+    ],
+    "domain": "payments",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "payments",
+      "prepaid",
+      "gift-card",
+      "visa",
+      "brand-network",
+      "open-loop",
+      "digital-prepaid"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.visa.co.jp/pay-with-visa/find-a-card/prepaid-cards.html",
+      "https://vpc.lifecard.co.jp/",
+      "https://www.visa.co.jp/",
+      "https://www.lifecard.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/daisan.xlsx",
+      "https://www.fsa.go.jp/policy/prepaid/",
+      "https://www.j-credit.or.jp/",
+      "https://www.meti.go.jp/policy/mono_info_service/cashless/"
+    ]
+  },
+  "summary": "This entry sits under payments index as the Visa-branded prepaid issuer page that pairs with prepaid payment instrument issuers registry for the FSA registry view, with Japan card issuer / acquirer / processor split for the brand-network role context, and with Japan payment scheme economics matrix f",
+  "headings": [
+    "Visa Gift Card Japan: Visa-branded open-loop prepaid",
+    "Wiki route",
+    "TL;DR",
+    "Issuer and operational structure",
+    "Legal basis: 第三者型 prepaid (Visa brand network access)",
+    "Visa brand network advantage",
+    "Use cases",
+    "Distribution rails",
+    "Other Visa-branded prepaid in Japan",
+    "KPI snapshot"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/au-payment",
+      "JapanFG/kyash",
+      "JapanFG/life-card",
+      "JapanFG/life-card\\",
+      "JapanFG/paypay",
+      "JapanFG/visa-worldwide-japan",
+      "JapanFG/visa-worldwide-japan\\",
+      "payments/INDEX",
+      "payments/amazon-gift-card-japan",
+      "payments/apple-gift-card-japan",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/google-play-gift-card-japan",
+      "payments/japan-card-issuer-acquirer-processor-split",
+      "payments/japan-card-security-authentication-controls",
+      "payments/japan-interchange-and-merchant-fee-stack",
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "payments/quo-card-prepaid"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/kyash",
+      "https://finwiki.zksc.io/JapanFG/life-card",
+      "https://finwiki.zksc.io/JapanFG/life-card\\",
+      "https://finwiki.zksc.io/JapanFG/paypay",
+      "https://finwiki.zksc.io/JapanFG/visa-worldwide-japan",
+      "https://finwiki.zksc.io/JapanFG/visa-worldwide-japan\\",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/amazon-gift-card-japan",
+      "https://finwiki.zksc.io/payments/apple-gift-card-japan",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/google-play-gift-card-japan",
+      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+      "https://finwiki.zksc.io/payments/japan-card-security-authentication-controls",
+      "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/payments/quo-card-prepaid"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10655,
+    "word_like_tokens": 1750,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

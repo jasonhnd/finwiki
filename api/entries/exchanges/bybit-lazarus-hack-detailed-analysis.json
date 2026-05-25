@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/bybit-lazarus-hack-detailed-analysis",
+  "source_path": "exchanges/bybit-lazarus-hack-detailed-analysis.md",
+  "url": "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/bybit-lazarus-hack-detailed-analysis.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/bybit-lazarus-hack-detailed-analysis.md",
+  "domain": "exchanges",
+  "title": "Bybit Lazarus $14.6 億 hack 詳細分析 (2025-02) — 史上最大暗号資産流出",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Bybit Lazarus $14.6 億 hack 詳細分析 (2025-02) — 史上最大暗号資産流出",
+    "aliases": [
+      "Bybit hack 2025",
+      "Bybit Lazarus 14.6 billion",
+      "Bybit ETH cold wallet hack"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "bybit",
+      "lazarus",
+      "hack",
+      "incident",
+      "ofac"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.bybit.com/",
+      "https://www.chainalysis.com/",
+      "https://home.treasury.gov/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "Bybit Lazarus $14.6 億 hack 詳細分析 (2025-02) — 史上最大暗号資産流出",
+    "Wiki route",
+    "1. 事件概要",
+    "2. 技術原因 (公開情報)",
+    "3. 即時対応",
+    "4. OFAC chain-level freeze 先例",
+    "5. 戦略含意",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/coincheck-nem-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-crypto-forensics-vendor-layer",
+      "exchanges/jp-foreign-exchange-bybit",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/mtgox-bankruptcy-processing-timeline",
+      "exchanges/uae-vara-licensing-overview",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/forensic-identity-anchor-chain",
+      "security/module-path-confusion-supply-chain-attack"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
+      "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2886,
+    "word_like_tokens": 470,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-24"
+  }
+}

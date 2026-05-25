@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/oecd-export-credit-arrangement",
+  "source_path": "policy-finance/oecd-export-credit-arrangement.md",
+  "url": "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/oecd-export-credit-arrangement.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/oecd-export-credit-arrangement.md",
+  "domain": "policy-finance",
+  "title": "OECD Arrangement on Officially Supported Export Credits",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "OECD Arrangement on Officially Supported Export Credits",
+    "aliases": [
+      "policy-finance/oecd-export-credit-arrangement",
+      "oecd-export-credit-arrangement",
+      "OECD Arrangement",
+      "Arrangement on Officially Supported Export Credits",
+      "OECD Consensus",
+      "Country Risk Classification",
+      "CRC",
+      "Minimum Premium Rate",
+      "MPR",
+      "Climate Change Sector Understanding",
+      "Coal Sector Understanding"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "export-credit",
+      "oecd",
+      "trade-finance",
+      "eca",
+      "mpr",
+      "crc",
+      "sector-understanding",
+      "climate",
+      "basel-iii"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.oecd.org/en/topics/policy-issues/export-credits.html",
+      "https://www.oecd.org/en/topics/arrangement-and-sector-understandings.html",
+      "https://www.oecd.org/trade/topics/export-credits/arrangement-and-sector-understandings/",
+      "https://www.oecd.org/trade/topics/export-credits/documents/",
+      "https://www.berneunion.org/Articles/Details/757"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as the international rule-book that constrains Japan's official export credit and investment support stack. Read it against NEXI for the Japanese insurance institution constrained by Arrangement minimum premia / tenor caps; with NEXI export-credit insurance",
+  "headings": [
+    "OECD Arrangement on Officially Supported Export Credits",
+    "Wiki route",
+    "TL;DR",
+    "1. Rule framework",
+    "1.1 What the Arrangement disciplines (and does not)",
+    "2. Core disciplines",
+    "2.1 Maximum repayment tenor",
+    "2.2 Minimum Premium Rate (MPR) — keyed to Country Risk Classification (CRC)",
+    "2.3 Minimum interest rates — Commercial Interest Reference Rate (CIRR)",
+    "2.4 Good-governance disciplines"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/jbic",
+      "policy-finance/INDEX",
+      "policy-finance/japan-eximbank-history",
+      "policy-finance/japan-policy-finance-institution-mandate-matrix",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/japan-project-finance-stack-diagram",
+      "policy-finance/jbic-overseas-investment-underwriting-process",
+      "policy-finance/jica",
+      "policy-finance/jogmec",
+      "policy-finance/jogmec-equity-and-offtake-mechanics",
+      "policy-finance/nexi",
+      "policy-finance/nexi-export-credit-insurance-products",
+      "trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-institution-mandate-matrix",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+      "https://finwiki.zksc.io/policy-finance/jbic-overseas-investment-underwriting-process",
+      "https://finwiki.zksc.io/policy-finance/jica",
+      "https://finwiki.zksc.io/policy-finance/jogmec",
+      "https://finwiki.zksc.io/policy-finance/jogmec-equity-and-offtake-mechanics",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 25244,
+    "word_like_tokens": 3950,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-25"
+  }
+}

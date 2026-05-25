@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/deloitte-touche-tohmatsu",
+  "source_path": "JapanFG/deloitte-touche-tohmatsu.md",
+  "url": "https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/deloitte-touche-tohmatsu.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/deloitte-touche-tohmatsu.md",
+  "domain": "JapanFG",
+  "title": "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
+    "aliases": [
+      "Deloitte Touche Tohmatsu",
+      "有限責任監査法人トーマツ",
+      "トーマツ",
+      "Tohmatsu",
+      "DTT",
+      "Deloitte Japan audit",
+      "デロイト トーマツ"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "audit",
+      "big4",
+      "assurance",
+      "accounting",
+      "deloitte"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.deloitte.com/jp/ja/services/audit-assurance.html",
+      "https://www2.deloitte.com/jp/ja/legal/about-deloitte.html",
+      "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/digital-asset.html",
+      "https://jicpa.or.jp/",
+      "https://www.fsa.go.jp/cpaaob/",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本 and PwC あらた for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+  "headings": [
+    "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
+    "TL;DR",
+    "Wiki route",
+    "1. 法人概要",
+    "規模（公開ベース概算）^[inferred]",
+    "2. 沿革",
+    "3. 金融サービス監査・アドバイザリー実務",
+    "銀行 / 保険 / 証券 ^[extracted]",
+    "暗号資産 / デジタルアセット ^[extracted]",
+    "Travel Rule / AML コンサル ^[extracted]"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/ey-shinnihon",
+      "JapanFG/fsa-strategy-bureau",
+      "JapanFG/fsa-supervision-bureau",
+      "JapanFG/kpmg-azsa",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/nomura-hd",
+      "JapanFG/pwc-aarata",
+      "JapanFG/taiyo-grant-thornton",
+      "exchanges/japan-crypto-audit-firm-landscape",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-vasp-aml-travel-rule-implementation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ey-shinnihon",
+      "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/pwc-aarata",
+      "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5373,
+    "word_like_tokens": 744,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

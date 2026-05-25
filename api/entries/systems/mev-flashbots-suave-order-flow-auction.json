@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/mev-flashbots-suave-order-flow-auction",
+  "source_path": "systems/mev-flashbots-suave-order-flow-auction.md",
+  "url": "https://finwiki.zksc.io/systems/mev-flashbots-suave-order-flow-auction",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/mev-flashbots-suave-order-flow-auction.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/mev-flashbots-suave-order-flow-auction.md",
+  "domain": "systems",
+  "title": "MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions",
+    "aliases": [
+      "mev-flashbots-suave-order-flow-auction",
+      "MEV",
+      "Maximal Extractable Value",
+      "Flashbots",
+      "MEV-Boost",
+      "SUAVE",
+      "order flow auction"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "mev",
+      "flashbots",
+      "mev-boost",
+      "suave",
+      "pbs",
+      "order-flow-auction",
+      "agent-transactions",
+      "ethereum",
+      "l2"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.flashbots.net/",
+      "https://writings.flashbots.net/",
+      "https://github.com/flashbots",
+      "https://docs.flashbots.net/",
+      "https://ethresear.ch/"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against EigenLayer for the broader crypto-economic-coordination context, L2 agent economics for the rollup-level MEV picture, and agent-economy index for the agent-transaction-cost angle.",
+  "headings": [
+    "MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions",
+    "Wiki route",
+    "Key facts",
+    "MEV taxonomy",
+    "Pre-Merge → Post-Merge architecture",
+    "MEV-Boost numbers and dependencies",
+    "SUAVE — what it is trying to be",
+    "Order-Flow Auctions (OFAs) for users / agents",
+    "L2 / rollup MEV implications",
+    "Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/stablecoin-routing-agent-transactions",
+      "systems/INDEX",
+      "systems/bft-validator-economy-overview",
+      "systems/cctp-v2-overview",
+      "systems/eigenlayer-overview",
+      "systems/erc-4337-userop-bundler-flow",
+      "systems/l2-agent-economics-arbitrum-base-op-comparison",
+      "systems/rollup-market-share-2026-arbitrum-optimism-base",
+      "systems/solana-firedancer-validator-economics",
+      "systems/sui-aptos-move-l1-ecosystem"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/stablecoin-routing-agent-transactions",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/eigenlayer-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
+      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison",
+      "https://finwiki.zksc.io/systems/rollup-market-share-2026-arbitrum-optimism-base",
+      "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics",
+      "https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7412,
+    "word_like_tokens": 1129,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

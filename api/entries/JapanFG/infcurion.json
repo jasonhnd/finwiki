@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/infcurion",
+  "source_path": "JapanFG/infcurion.md",
+  "url": "https://finwiki.zksc.io/JapanFG/infcurion",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/infcurion.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/infcurion.md",
+  "domain": "JapanFG",
+  "title": "インフキュリオン (Infcurion)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "インフキュリオン (Infcurion)",
+    "aliases": [
+      "Infcurion",
+      "インフキュリオン",
+      "Infcurion Inc.",
+      "株式会社インフキュリオン"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "fintech",
+      "payments",
+      "wallet",
+      "white-label",
+      "card-issuing",
+      "embedded-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://infcurion.com/",
+      "https://infcurion.com/company/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as a white-label fintech vendor that sits one layer below the consumer-facing wallets. Read it together with the Japan BNPL landscape for the BNPL-adjacent payment context, the DG Financial Technology and FamiMa Digital One peers for white-label / merchant-sid",
+  "headings": [
+    "インフキュリオン (Infcurion)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "4. 监管与政策",
+    "Counterpoints",
+    "Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/atone",
+      "JapanFG/bnpl-landscape",
+      "JapanFG/dg-financial-technology",
+      "JapanFG/famima-digital-one",
+      "JapanFG/freee",
+      "JapanFG/kyash",
+      "JapanFG/merpay",
+      "JapanFG/money-forward",
+      "JapanFG/net-protections-hd",
+      "JapanFG/paidy",
+      "JapanFG/smartbank",
+      "payments/credit-purchase-card-operators-japan-index",
+      "payments/japan-bnpl-credit-purchase-boundary",
+      "payments/japan-payment-scheme-economics-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/atone",
+      "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
+      "https://finwiki.zksc.io/JapanFG/dg-financial-technology",
+      "https://finwiki.zksc.io/JapanFG/famima-digital-one",
+      "https://finwiki.zksc.io/JapanFG/freee",
+      "https://finwiki.zksc.io/JapanFG/kyash",
+      "https://finwiki.zksc.io/JapanFG/merpay",
+      "https://finwiki.zksc.io/JapanFG/money-forward",
+      "https://finwiki.zksc.io/JapanFG/net-protections-hd",
+      "https://finwiki.zksc.io/JapanFG/paidy",
+      "https://finwiki.zksc.io/JapanFG/smartbank",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3811,
+    "word_like_tokens": 505,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

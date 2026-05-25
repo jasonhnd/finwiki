@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "money-market/tanshi-company-business-model",
+  "source_path": "money-market/tanshi-company-business-model.md",
+  "url": "https://finwiki.zksc.io/money-market/tanshi-company-business-model",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/money-market/tanshi-company-business-model.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/money-market/tanshi-company-business-model.md",
+  "domain": "money-market",
+  "title": "Tanshi company business model",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Tanshi company business model",
+    "aliases": [
+      "money-market/tanshi-company-business-model",
+      "tanshi-company-business-model",
+      "Japanese tanshi business model",
+      "短資会社ビジネスモデル",
+      "money-market broker (Japan)"
+    ],
+    "domain": "money-market",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "money-market",
+      "tanshi",
+      "brokerage",
+      "call-market",
+      "repo",
+      "BoJ",
+      "FIEA"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/paym/market/",
+      "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b31.htm",
+      "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b42.htm",
+      "https://www.tokyotanshi.co.jp/",
+      "https://www.central-tanshi.com/",
+      "https://www.ueda-net.co.jp/yagi/",
+      "https://www.boj.or.jp/research/wps_rev/wps_2000/kwp0003a.htm"
+    ]
+  },
+  "summary": "This entry sits under money-market index. Read it against call market structure for the peer / contrast surface where tanshi brokerage actually happens, and against BoJ open market operations for the broader system / regulatory boundary where tanshi flows interact with central-bank policy implementa",
+  "headings": [
+    "Tanshi company business model",
+    "Wiki route",
+    "TL;DR",
+    "What Tanshi Do",
+    "The Three Firms and Their Differentiation",
+    "Relationship to BoJ Open Market Operations",
+    "Fee / Revenue Model",
+    "Historical Context",
+    "Regulatory Framing",
+    "Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/central-tanshi",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/local-bond-market",
+      "JapanFG/tokyo-tanshi",
+      "JapanFG/ueda-yagi-tanshi",
+      "money-market/INDEX",
+      "money-market/boj-open-market-operations",
+      "money-market/call-market-structure",
+      "money-market/japan-money-market",
+      "money-market/jgb-repo-market-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/central-tanshi",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/local-bond-market",
+      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
+      "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/call-market-structure",
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11333,
+    "word_like_tokens": 1899,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-24"
+  }
+}

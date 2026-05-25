@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/orix-life",
+  "source_path": "JapanFG/orix-life.md",
+  "url": "https://finwiki.zksc.io/JapanFG/orix-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/orix-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/orix-life.md",
+  "domain": "JapanFG",
+  "title": "オリックス生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "オリックス生命保険",
+    "aliases": [
+      "オリックス生命",
+      "ORIX Life",
+      "ORIX Life Insurance",
+      "ORIX Life Insurance Corporation",
+      "オリックス生命保険株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: オリックス生命保険 (2026-05-19 抽出)",
+      "オリックス株式会社 統合報告書 / IR (2024-2025)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "オリックス生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "親会社オリックスグループ内の位置付け",
+    "2. 重要历史",
+    "3. 主要商品",
+    "4. 戦略",
+    "親会社シナジー",
+    "チャネル戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/dai-ichi-life",
+      "aflac-japan",
+      "axa-japan",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "kampo-life",
+      "lifenet",
+      "meiji-yasuda",
+      "nippon-life",
+      "orix-corp",
+      "prudential-japan",
+      "sbi-hd",
+      "sony-fg",
+      "sumitomo-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
+      "https://finwiki.zksc.io/aflac-japan",
+      "https://finwiki.zksc.io/axa-japan",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/lifenet",
+      "https://finwiki.zksc.io/meiji-yasuda",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/orix-corp",
+      "https://finwiki.zksc.io/prudential-japan",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/sony-fg",
+      "https://finwiki.zksc.io/sumitomo-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3870,
+    "word_like_tokens": 487,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-21"
+  }
+}

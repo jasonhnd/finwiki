@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/bis-project-agora-overview",
+  "source_path": "fintech/bis-project-agora-overview.md",
+  "url": "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bis-project-agora-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/bis-project-agora-overview.md",
+  "domain": "fintech",
+  "title": "BIS Project Agorá 概览",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "BIS Project Agorá 概览 · 7 G10 央行 + 40 商行联合代币化实验",
+    "aliases": [
+      "bis-project-agora-overview",
+      "Project Agora",
+      "Agorá 概览"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "fintech",
+      "bis",
+      "cbdc",
+      "tokenization",
+      "cross-border",
+      "wholesale",
+      "g10"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.bis.org/press/p240403.htm",
+      "https://www.bis.org/innovation_hub.htm",
+      "https://www.iif.com/",
+      "https://www.newyorkfed.org/aboutthefed/nyic"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "BIS Project Agorá 概览",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mufg",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-vs-mbridge",
+      "fintech/bis-project-ensemble-overview",
+      "fintech/bis-project-guardian-overview",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/central-banking-function-unbundling",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/hkma-stablecoin-licensing-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/mica-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
+      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/mica-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2935,
+    "word_like_tokens": 493,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-05-25"
+  }
+}

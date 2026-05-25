@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/bitflyer-blockchain",
+  "source_path": "systems/bitflyer-blockchain.md",
+  "url": "https://finwiki.zksc.io/systems/bitflyer-blockchain",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bitflyer-blockchain.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bitflyer-blockchain.md",
+  "domain": "systems",
+  "title": "bitFlyer Blockchain",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "bitFlyer Blockchain",
+    "aliases": [
+      "bitFlyer Blockchain",
+      "bitflyer-blockchain",
+      "Miyabi",
+      "miyabi blockchain"
+    ],
+    "domain": "systems",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "blockchain",
+      "private-chain",
+      "bitflyer",
+      "miyabi"
+    ],
+    "status": "active",
+    "sources": [
+      "https://blockchain.bitflyer.com/",
+      "https://bitflyer.com/en-jp/miyabi",
+      "https://bitflyer.com/en-jp/miyabi-blockchain"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against Hyperledger Besu · EVM 兼容企业链(Quorum 进化) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "bitFlyer Blockchain",
+    "Wiki route",
+    "TL;DR",
+    "System profile",
+    "Strategic read",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/bitflyer",
+      "exchanges/jp-exchange-bitflyer",
+      "fintech/INDEX",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "systems/INDEX",
+      "systems/canton-overview",
+      "systems/formal-spec-implementation-codesign",
+      "systems/hyperledger-besu-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
+      "https://finwiki.zksc.io/systems/hyperledger-besu-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3052,
+    "word_like_tokens": 466,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-21"
+  }
+}

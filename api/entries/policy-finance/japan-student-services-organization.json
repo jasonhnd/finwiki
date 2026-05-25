@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/japan-student-services-organization",
+  "source_path": "policy-finance/japan-student-services-organization.md",
+  "url": "https://finwiki.zksc.io/policy-finance/japan-student-services-organization",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-student-services-organization.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-student-services-organization.md",
+  "domain": "policy-finance",
+  "title": "JASSO (Japan Student Services Organization)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JASSO (Japan Student Services Organization)",
+    "aliases": [
+      "japan-student-services-organization",
+      "JASSO",
+      "Japan Student Services Organization",
+      "日本学生支援機構",
+      "独立行政法人日本学生支援機構",
+      "JASSO scholarship",
+      "第一種奨学金",
+      "第二種奨学金",
+      "給付型奨学金"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "education-finance",
+      "scholarship",
+      "japan",
+      "mext",
+      "student-loan",
+      "household-finance",
+      "human-capital"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jasso.go.jp/about/organization/index.html",
+      "https://www.jasso.go.jp/about/disclosure/index.html",
+      "https://www.studyinjapan.go.jp/en/about/outline.html",
+      "https://www.mext.go.jp/a_menu/koutou/shougakukin/index.htm",
+      "https://www.jasso.go.jp/shogakukin/about/shurui/index.html"
+    ]
+  },
+  "summary": "This entry sits under policy-finance index as the education-finance / human-capital node of the Japanese state-finance system. Read it against 日本政策金融公庫 (JFC) for the household-education-loan adjacency that JFC's 国民生活事業 教育一般貸付 product overlaps with on the household side; with JFC 国民生活事業 for the opera",
+  "headings": [
+    "JASSO (Japan Student Services Organization)",
+    "Wiki route",
+    "TL;DR",
+    "1. Institutional structure",
+    "1.1 What JASSO does — and what it does not",
+    "2. Mandate by line of business",
+    "2.1 Scholarship program tier structure",
+    "2.2 International student support",
+    "2.3 Student life support",
+    "2.4 Statistical and research disclosure"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/jfc",
+      "JapanFG/jfc\\",
+      "banking/INDEX",
+      "policy-finance/INDEX",
+      "policy-finance/japan-housing-finance-agency",
+      "policy-finance/japan-policy-finance-institution-mandate-matrix",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/jfc-kokumin-life-finance-division",
+      "policy-finance/jica",
+      "policy-finance/okinawa-development-finance-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/jfc\\",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-institution-mandate-matrix",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/jfc-kokumin-life-finance-division",
+      "https://finwiki.zksc.io/policy-finance/jica",
+      "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 18079,
+    "word_like_tokens": 2755,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

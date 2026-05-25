@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/solana-firedancer-validator-economics",
+  "source_path": "systems/solana-firedancer-validator-economics.md",
+  "url": "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/solana-firedancer-validator-economics.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/solana-firedancer-validator-economics.md",
+  "domain": "systems",
+  "title": "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+    "aliases": [
+      "solana firedancer 2026",
+      "firedancer validator economics",
+      "jump crypto firedancer mainnet",
+      "frankendancer agave jito comparison",
+      "solana client diversity 2026",
+      "firedancer mev pipeline",
+      "solana tps client diversity",
+      "sol staking yield firedancer impact"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "solana",
+      "firedancer",
+      "jump-crypto",
+      "validator",
+      "mev",
+      "jito",
+      "agave",
+      "client-diversity",
+      "tps",
+      "sol-staking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://docs.firedancer.io/",
+      "https://github.com/firedancer-io/firedancer",
+      "https://docs.solana.com/running-validator",
+      "https://docs.jito.network/",
+      "https://www.jumpcrypto.com/firedancer/",
+      "https://l2beat.com/data-availability/summary",
+      "https://defillama.com/chain/Solana"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against BFT validator 经济学概览 as the validator economics anchor and BFT validator economy 四变量 for the yield / slashing / MEV / 集中度 framework that Firedancer disrupts. For consensus architecture context, see DAG-BFT vs Chain-BFT architecture —— Solana TowerB",
+  "headings": [
+    "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+    "TL;DR",
+    "Wiki route",
+    "Mechanism · Firedancer 架构与 Solana 客户端格局",
+    "三客户端格局(2026-Q2)",
+    "Firedancer 性能特点",
+    "Tile-based 并行架构",
+    "Market dynamics · MEV pipeline 重构与 Jito 经济",
+    "Jito 当前主导地位",
+    "Firedancer 引入的 MEV 重构"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/jp-cex-staking-lending-regulation",
+      "exchanges/jp-crypto-staking-as-a-service-operators",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "exchanges/solana-ecosystem-dex-comparison",
+      "systems/INDEX",
+      "systems/bft-validator-economy-four-variables",
+      "systems/bft-validator-economy-overview",
+      "systems/bft-validator-economy-tempo-vs-arc",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/dag-bft-vs-chain-bft-architecture",
+      "systems/pectra-eip-7251-institutional-staking",
+      "systems/pectra-upgrade-overview",
+      "systems/threshold-bft-consensus-rust-implementations",
+      "systems/vitalik-l1-l2-strategy-anchor",
+      "systems/zk-evm-rollup-maturity-comparison-matrix-2026"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/jp-cex-staking-lending-regulation",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-staking-as-a-service-operators",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+      "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking",
+      "https://finwiki.zksc.io/systems/pectra-upgrade-overview",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations",
+      "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor",
+      "https://finwiki.zksc.io/systems/zk-evm-rollup-maturity-comparison-matrix-2026"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 13601,
+    "word_like_tokens": 2441,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

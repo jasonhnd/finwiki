@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/global-perp-dex-competitive-deep-dive-matrix",
+  "source_path": "exchanges/global-perp-dex-competitive-deep-dive-matrix.md",
+  "url": "https://finwiki.zksc.io/exchanges/global-perp-dex-competitive-deep-dive-matrix",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-perp-dex-competitive-deep-dive-matrix.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-perp-dex-competitive-deep-dive-matrix.md",
+  "domain": "exchanges",
+  "title": "Global perp DEX competitive deep-dive matrix",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Global perp DEX competitive deep-dive matrix — dYdX v3/v4, Hyperliquid, Vertex, Drift, GMX v1/v2, Synthetix, Kwenta, Aark, Aevo, Apex",
+    "aliases": [
+      "exchanges/global-perp-dex-competitive-deep-dive-matrix",
+      "global-perp-dex-competitive-deep-dive-matrix",
+      "perp DEX deep-dive comparison",
+      "perpetual DEX competitive matrix",
+      "onchain perp exchange detailed comparison",
+      "global perp DEX 11-way matrix",
+      "グローバル Perp DEX 詳細比較マトリクス"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "matrix",
+      "dex",
+      "perp",
+      "derivatives",
+      "defi",
+      "clob",
+      "vamm",
+      "hybrid",
+      "mev"
+    ],
+    "status": "active",
+    "sources": [
+      "https://defillama.com/derivatives",
+      "https://defillama.com/chains",
+      "https://app.hyperliquid.xyz/",
+      "https://dydx.exchange/",
+      "https://gmx.io/",
+      "https://vertexprotocol.com/",
+      "https://drift.trade/",
+      "https://synthetix.io/",
+      "https://kwenta.io/",
+      "https://aark.digital/",
+      "https://www.aevo.xyz/",
+      "https://pro.apex.exchange/"
+    ]
+  },
+  "summary": "Perpetual-futures DEXs sit on three structurally distinct liquidity models — CLOB (central limit order book on-chain or hybrid), vAMM / pool-counterparty (single multi-asset LP pool serves all traders), and hybrid / oracle-pricing — and a reader who flattens them into \"all perp DEXs\" will misread fe",
+  "headings": [
+    "Global perp DEX competitive deep-dive matrix",
+    "TL;DR",
+    "Wiki route",
+    "Why this matrix matters",
+    "Per-DEX deep-dive",
+    "dYdX v3 (StarkEx L2, 2021-2023)",
+    "dYdX v4 (Cosmos appchain, 2023-10 launch)",
+    "Hyperliquid (Hyperliquid L1, 2023-)",
+    "Vertex Protocol (Arbitrum, 2023-)",
+    "Drift Protocol (Solana, 2021-)"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/amm-design-evolution",
+      "exchanges/cex-matching-engine-wallet-architecture",
+      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "exchanges/global-cex-prime-brokerage-layer",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/global-perp-dex-five-comparison",
+      "exchanges/japan-cex-parent-fg-adjacency-matrix",
+      "exchanges/jvcea-whitelist-token-listing",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "exchanges/native-dex-flip-incumbent-pattern",
+      "exchanges/solana-ecosystem-dex-comparison",
+      "systems/INDEX",
+      "systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/amm-design-evolution",
+      "https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture",
+      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+      "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/global-perp-dex-five-comparison",
+      "https://finwiki.zksc.io/exchanges/japan-cex-parent-fg-adjacency-matrix",
+      "https://finwiki.zksc.io/exchanges/jvcea-whitelist-token-listing",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://defillama.com/derivatives"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 28443,
+    "word_like_tokens": 4920,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/citigroup-japan",
+  "source_path": "JapanFG/citigroup-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/citigroup-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/citigroup-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/citigroup-japan.md",
+  "domain": "JapanFG",
+  "title": "シティグループ・ジャパン (Citigroup Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "シティグループ・ジャパン (Citigroup Japan)",
+    "aliases": [
+      "Citigroup Japan",
+      "シティグループ",
+      "Citi Japan",
+      "シティバンク銀行",
+      "シティバンク N.A. 東京支店",
+      "シティグループ証券",
+      "Citigroup Global Markets Japan",
+      "Citibank Japan",
+      "シティグループ・グローバル・マーケッツ・ジャパン"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-ib",
+      "banking"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: シティグループ (2026-05-19 参照)",
+      "Wikipedia: シティバンク銀行 (2026-05-19 参照)",
+      "Wikipedia: 日興コーディアル証券 (2026-05-19 参照)",
+      "Wikipedia: Citigroup (英語版、2026-05-19 参照)",
+      "Citigroup Inc. Annual Report 2024 (公開 IR)",
+      "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against HSBC ジャパン (HSBC Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "シティグループ・ジャパン (Citigroup Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "日本の主要法人（公開情報ベース）",
+    "2. 重要历史（年表抜粋）",
+    "3. 业务线 map",
+    "4. 戦略与競争",
+    "日本でのポジショニング",
+    "主要競合"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/hsbc-japan",
+      "banking/INDEX",
+      "goldman-sachs-japan",
+      "mizuho-fg",
+      "morgan-stanley-japan",
+      "mufg",
+      "smbc-nikko",
+      "smfg",
+      "sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/hsbc-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/goldman-sachs-japan",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/morgan-stanley-japan",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smbc-nikko",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6064,
+    "word_like_tokens": 847,
+    "inbound_wikilinks_count": 29,
+    "last_modified": "2026-05-21"
+  }
+}

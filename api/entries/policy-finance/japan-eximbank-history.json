@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "policy-finance/japan-eximbank-history",
+  "source_path": "policy-finance/japan-eximbank-history.md",
+  "url": "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/policy-finance/japan-eximbank-history.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/policy-finance/japan-eximbank-history.md",
+  "domain": "policy-finance",
+  "title": "Japan Export-Import Bank (historical predecessor of JBIC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan Export-Import Bank (historical predecessor of JBIC)",
+    "aliases": [
+      "Japan Export-Import Bank",
+      "Japan Eximbank",
+      "JEXIM",
+      "日本輸出入銀行",
+      "日本輸出銀行",
+      "policy-finance/japan-eximbank-history"
+    ],
+    "domain": "policy-finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "policy-finance",
+      "history",
+      "export-credit",
+      "jbic",
+      "japan",
+      "predecessor-institution"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jbic.go.jp/en/about/organization.html",
+      "https://www.jbic.go.jp/en/about/history.html",
+      "https://www.jica.go.jp/english/about/basic/oda/index.html"
+    ]
+  },
+  "summary": "The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's principal state export-credit and overseas-investment lending institution from 1950 to 1999. In 1999 it merged with the Overseas Economic Cooperation Fund (海外経済協力基金 / OECF) to form the original Japan Bank for International Cooperation (JBIC)",
+  "headings": [
+    "Japan Export-Import Bank (historical predecessor of JBIC)",
+    "TL;DR",
+    "1. Institutional boundary",
+    "2. Why this page exists separately",
+    "3. Function map (historical)",
+    "4. Historical trajectory",
+    "5. Institutional significance",
+    "6. Boundary cases",
+    "7. Open questions",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/dbj",
+      "JapanFG/jbic",
+      "JapanFG/jfc",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "policy-finance/INDEX",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/japan-project-finance-stack-diagram",
+      "policy-finance/jica",
+      "policy-finance/oecd-export-credit-arrangement"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dbj",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
+      "https://finwiki.zksc.io/policy-finance/jica",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6589,
+    "word_like_tokens": 1034,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

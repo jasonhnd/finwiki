@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/hokkaido-lease",
+  "source_path": "JapanFG/hokkaido-lease.md",
+  "url": "https://finwiki.zksc.io/JapanFG/hokkaido-lease",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/hokkaido-lease.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/hokkaido-lease.md",
+  "domain": "JapanFG",
+  "title": "北海道リース",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "北海道リース",
+    "aliases": [
+      "Hokkaido Lease",
+      "Hokkaido Lease Co., Ltd.",
+      "北海道リース株式会社",
+      "hokkaido-lease"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "finance",
+      "regional-lease",
+      "hokkaido",
+      "regional-bank-affiliated"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.hokkaidobank.co.jp/",
+      "https://www.hokuhoku-fg.co.jp/",
+      "https://www.leasing.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.",
+  "headings": [
+    "北海道リース",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fuyo-lease",
+      "JapanFG/hokkaido-bank",
+      "JapanFG/hokuyo-bank",
+      "JapanFG/ja-mitsui-leasing",
+      "JapanFG/mizuho-lease",
+      "JapanFG/tokyo-century",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
+      "https://finwiki.zksc.io/JapanFG/hokkaido-bank",
+      "https://finwiki.zksc.io/JapanFG/hokuyo-bank",
+      "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3020,
+    "word_like_tokens": 389,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

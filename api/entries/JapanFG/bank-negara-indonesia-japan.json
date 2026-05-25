@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/bank-negara-indonesia-japan",
+  "source_path": "JapanFG/bank-negara-indonesia-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/bank-negara-indonesia-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/bank-negara-indonesia-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/bank-negara-indonesia-japan.md",
+  "domain": "JapanFG",
+  "title": "バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)",
+    "aliases": [
+      "Bank Negara Indonesia Japan",
+      "BNI Japan",
+      "BNI Tokyo",
+      "バンクネガラインドネシア",
+      "PT Bank Negara Indonesia Tokyo Branch"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Indonesia",
+      "remittance",
+      "trade-finance",
+      "corporate-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf",
+      "https://www.bni.co.id/en-us/help-support/global-networks/bni-tokyo",
+      "https://www.ptbni.co.jp/bni/company/"
+    ]
+  },
+  "summary": "Bank Negara Indonesia Japan is the Indonesia-Japan corridor route in the foreign-bank branch registry. Read it with Bangkok Bank Japan, DBS Japan, UOB Japan, and payments domain for remittance context.",
+  "headings": [
+    "バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/bangkok-bank-japan",
+      "JapanFG/dbs-bank-japan",
+      "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "JapanFG/state-bank-of-india-japan",
+      "JapanFG/uob-bank-japan",
+      "finance/cross-border-m-a-japan",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/bangkok-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/dbs-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/JapanFG/state-bank-of-india-japan",
+      "https://finwiki.zksc.io/JapanFG/uob-bank-japan",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3580,
+    "word_like_tokens": 585,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-22"
+  }
+}

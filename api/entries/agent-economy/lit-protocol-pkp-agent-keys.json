@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/lit-protocol-pkp-agent-keys",
+  "source_path": "agent-economy/lit-protocol-pkp-agent-keys.md",
+  "url": "https://finwiki.zksc.io/agent-economy/lit-protocol-pkp-agent-keys",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/lit-protocol-pkp-agent-keys.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/lit-protocol-pkp-agent-keys.md",
+  "domain": "agent-economy",
+  "title": "Lit Protocol PKP · Programmable Key Pairs for AI agents",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Lit Protocol PKP · Programmable Key Pairs for AI agents",
+    "aliases": [
+      "lit-protocol-pkp-agent-keys",
+      "Lit Protocol",
+      "Programmable Key Pair",
+      "PKP",
+      "threshold cryptography agent signing"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "identity",
+      "signing",
+      "lit-protocol",
+      "pkp",
+      "mpc",
+      "threshold-bls",
+      "agent-wallet"
+    ],
+    "status": "active",
+    "sources": [
+      "https://litprotocol.com/",
+      "https://developer.litprotocol.com/",
+      "https://github.com/LIT-Protocol",
+      "https://spark.litprotocol.com/"
+    ]
+  },
+  "summary": "This entry sits under AI Agent payment protocols seven-protocol overview. Read it against Privy embedded wallet and Coinbase CDP for peer wallet stacks, ERC-7715 wallet permissions for the policy / scope layer, and threshold BFT for the underlying cryptography family.",
+  "headings": [
+    "Lit Protocol PKP · Programmable Key Pairs for AI agents",
+    "Wiki route",
+    "Key facts",
+    "Mechanism — how PKPs sign for agents",
+    "Where PKP fits in agent stacks",
+    "Comparison vs embedded wallet operators",
+    "Origin and evolution",
+    "Use cases for AI agents",
+    "Counterpoints",
+    "Open questions"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ap2-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/embedded-wallet-network-effects-moat",
+      "agent-economy/erc-4337-account-abstraction-primer-for-agents",
+      "agent-economy/erc-7702-eoa-delegation-primer-for-agents",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/privy-embedded-wallet-overview",
+      "systems/erc-4337-overview",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
+      "https://finwiki.zksc.io/agent-economy/erc-4337-account-abstraction-primer-for-agents",
+      "https://finwiki.zksc.io/agent-economy/erc-7702-eoa-delegation-primer-for-agents",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6533,
+    "word_like_tokens": 1086,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

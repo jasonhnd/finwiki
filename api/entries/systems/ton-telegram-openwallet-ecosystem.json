@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/ton-telegram-openwallet-ecosystem",
+  "source_path": "systems/ton-telegram-openwallet-ecosystem.md",
+  "url": "https://finwiki.zksc.io/systems/ton-telegram-openwallet-ecosystem",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/ton-telegram-openwallet-ecosystem.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/ton-telegram-openwallet-ecosystem.md",
+  "domain": "systems",
+  "title": "TON · Telegram Open Network ecosystem",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "TON · Telegram Open Network ecosystem",
+    "aliases": [
+      "ton-telegram-openwallet-ecosystem",
+      "TON blockchain",
+      "Telegram Open Network",
+      "USDT-TON",
+      "Telegram bot wallet"
+    ],
+    "domain": "systems",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "l1",
+      "ton",
+      "telegram",
+      "usdt",
+      "bot",
+      "wallet",
+      "agent-payments",
+      "open-network"
+    ],
+    "status": "active",
+    "sources": [
+      "https://ton.org/",
+      "https://docs.ton.org/",
+      "https://github.com/ton-blockchain",
+      "https://telegram.org/blog",
+      "https://tonkeeper.com/"
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against Sui and Aptos and Solana for peer L1 context, BFT validator economics for consensus framing, and agent-economy index for the bot / agent UX angle.",
+  "headings": [
+    "TON · Telegram Open Network ecosystem",
+    "Wiki route",
+    "Key facts",
+    "Telegram + TON architectural fit",
+    "TON architecture in brief",
+    "USDT-TON growth thesis",
+    "Agent-payment volume on TON",
+    "TON vs Solana vs Tron for stablecoin mass distribution",
+    "Counterpoints",
+    "Open questions"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/INDEX",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/privy-embedded-wallet-overview",
+      "agent-economy/solana-saga-seeker-mobile-stack-overview",
+      "agent-economy/x402-http-payment-overview",
+      "fintech/usd-stablecoin-interchange",
+      "systems/INDEX",
+      "systems/bft-validator-economy-overview",
+      "systems/cctp-v2-overview",
+      "systems/l2-agent-economics-arbitrum-base-op-comparison",
+      "systems/solana-firedancer-validator-economics",
+      "systems/sui-aptos-move-l1-ecosystem"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
+      "https://finwiki.zksc.io/systems/cctp-v2-overview",
+      "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison",
+      "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics",
+      "https://finwiki.zksc.io/systems/sui-aptos-move-l1-ecosystem"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6377,
+    "word_like_tokens": 1021,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

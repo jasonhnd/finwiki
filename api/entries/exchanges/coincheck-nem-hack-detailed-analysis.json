@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/coincheck-nem-hack-detailed-analysis",
+  "source_path": "exchanges/coincheck-nem-hack-detailed-analysis.md",
+  "url": "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/coincheck-nem-hack-detailed-analysis.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/coincheck-nem-hack-detailed-analysis.md",
+  "domain": "exchanges",
+  "title": "Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)",
+    "aliases": [
+      "Coincheck NEM hack 2018",
+      "コインチェック NEM 流出事件",
+      "Coincheck 580億 incident"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "coincheck",
+      "nem",
+      "hack",
+      "incident",
+      "regulation"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://corporate.coincheck.com/",
+      "https://www.fsa.go.jp/",
+      "https://ja.wikipedia.org/wiki/コインチェック"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)",
+    "Wiki route",
+    "1. 事件概要",
+    "2. 技術原因",
+    "3. 補償スキーム",
+    "4. 規制反射",
+    "5. 国際比較",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/ftx-japan-100pct-return-case-study",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-vasp-cold-storage-segregation-rules",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/jp-vasp-ma-consolidation-history",
+      "exchanges/jvcea-self-regulatory-overview",
+      "exchanges/mtgox-bankruptcy-processing-timeline",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/forensic-identity-anchor-chain"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2553,
+    "word_like_tokens": 396,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-05-25"
+  }
+}

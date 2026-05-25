@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/hook-enforced-compliance",
+  "source_path": "systems/hook-enforced-compliance.md",
+  "url": "https://finwiki.zksc.io/systems/hook-enforced-compliance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hook-enforced-compliance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hook-enforced-compliance.md",
+  "domain": "systems",
+  "title": "Hook-Enforced Compliance",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Hook-Enforced Compliance（Hook で強制される規則順守）",
+    "aliases": [],
+    "domain": "systems",
+    "created": "2026-04-21",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "possible",
+    "tags": [
+      "compliance",
+      "enforcement",
+      "hook",
+      "documentation-vs-execution",
+      "meta"
+    ],
+    "status": "candidate",
+    "sources": [
+      "Public agent-framework documentation on hook-based automation and instruction injection.",
+      "Public Codex / AGENTS-style repository instruction patterns.",
+      "Public Claude Code hook documentation and workflow examples."
+    ]
+  },
+  "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Hook-Enforced Compliance",
+    "Wiki route",
+    "5 層防御モデル（personal OS）",
+    "首次 verification pattern",
+    "昇級階段（違反頻度に応じた強制度上昇）",
+    "応用可能性",
+    "認知特性との関係",
+    "関連",
+    "出典",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/INDEX",
+      "systems/INDEX",
+      "systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2318,
+    "word_like_tokens": 372,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/erc-7702-eoa-delegation-primer-for-agents",
+  "source_path": "agent-economy/erc-7702-eoa-delegation-primer-for-agents.md",
+  "url": "https://finwiki.zksc.io/agent-economy/erc-7702-eoa-delegation-primer-for-agents",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/erc-7702-eoa-delegation-primer-for-agents.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/erc-7702-eoa-delegation-primer-for-agents.md",
+  "domain": "agent-economy",
+  "title": "ERC-7702 EOA Delegation Primer for AI Agents",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ERC-7702 EOA Delegation Primer for AI Agents",
+    "aliases": [
+      "erc-7702-for-agents",
+      "eoa-delegation-for-ai-agents",
+      "7702 agent primer",
+      "eoa session keys",
+      "set-code-tx for agents",
+      "7702 vs 4337 for agents",
+      "eoa agent authorization"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "erc-7702",
+      "eoa-delegation",
+      "ai-agent",
+      "session-key",
+      "pectra",
+      "set-code-tx",
+      "account-abstraction"
+    ],
+    "status": "active",
+    "sources": [
+      "https://eips.ethereum.org/EIPS/eip-7702",
+      "https://eips.ethereum.org/EIPS/eip-4337",
+      "https://ethresear.ch/t/eip-7702-set-eoa-account-code/19923",
+      "https://notes.ethereum.org/@vbuterin/eip_7702_optimizations"
+    ]
+  },
+  "summary": "ERC-7702 (live since Pectra, 2025-05) lets an existing externally-owned account temporarily — or persistently — execute as if it were a smart contract wallet, without changing its address. For AI agents this matters because the ~90% of Ethereum value that lives in EOAs (MetaMask, Rabby, hardware wal",
+  "headings": [
+    "ERC-7702 EOA Delegation Primer for AI Agents",
+    "TL;DR",
+    "Wiki route",
+    "Mechanism · SETCODETX and the delegation designator",
+    "Mechanism · session keys, agent-side",
+    "Mechanism · 7702 + 4337 composition",
+    "Mechanism · the delegation designator's signature lifecycle",
+    "Mechanism · temporary authorization, the 7702-specific pattern",
+    "Agent-specific scenarios",
+    "Regulatory framing · \"the EOA is still the user\""
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "agent-economy/INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/ai-agent-payment-protocols-seven-layers",
+      "agent-economy/ap2-overview",
+      "agent-economy/coinbase-cdp-developer-platform",
+      "agent-economy/embedded-wallet-network-effects-moat",
+      "agent-economy/erc-4337-account-abstraction-primer-for-agents",
+      "agent-economy/erc-7715-agent-payment-stack",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/privy-embedded-wallet-overview",
+      "agent-economy/x402-http-payment-overview",
+      "systems/INDEX",
+      "systems/erc-4337-overview",
+      "systems/erc-4337-userop-bundler-flow",
+      "systems/erc-7702-overview",
+      "systems/erc-7702-vs-erc-4337"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/agent-economy/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-seven-layers",
+      "https://finwiki.zksc.io/agent-economy/ap2-overview",
+      "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
+      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
+      "https://finwiki.zksc.io/agent-economy/erc-4337-account-abstraction-primer-for-agents",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
+      "https://finwiki.zksc.io/systems/erc-7702-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 18486,
+    "word_like_tokens": 3378,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

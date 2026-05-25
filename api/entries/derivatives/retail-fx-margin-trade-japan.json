@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/retail-fx-margin-trade-japan",
+  "source_path": "derivatives/retail-fx-margin-trade-japan.md",
+  "url": "https://finwiki.zksc.io/derivatives/retail-fx-margin-trade-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/retail-fx-margin-trade-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/retail-fx-margin-trade-japan.md",
+  "domain": "derivatives",
+  "title": "Retail FX margin trading in Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Retail FX margin trading in Japan",
+    "aliases": [
+      "retail-fx-margin-trade-japan",
+      "Japan retail FX",
+      "FX 証拠金取引",
+      "Mrs. Watanabe FX",
+      "Japan margin FX",
+      "JFSA retail FX rules",
+      "FFAJ retail FX",
+      "25x leverage cap Japan"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "fx",
+      "retail",
+      "regulation",
+      "FFAJ",
+      "JFSA"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/",
+      "https://www.ffaj.or.jp/",
+      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "https://www.fsa.go.jp/en/news/index.html"
+    ]
+  },
+  "summary": "Japan's retail FX margin trading market (FX 証拠金取引) is among the largest in the world by turnover. It is structured as a regulated retail brokerage product offered by licensed Type 1 Financial Instruments Business operators under FIEA, with strict conduct rules from the Financial Services Agency (JFS",
+  "headings": [
+    "Retail FX margin trading in Japan",
+    "TL;DR",
+    "Wiki route",
+    "Market size",
+    "Composition of customer activity",
+    "Leverage cap",
+    "Loss-cut mechanism",
+    "Top brokers",
+    "Competitive levers",
+    "Regulation"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/dmm-com-securities",
+      "JapanFG/gmo-click-securities",
+      "JapanFG/matsui-sec",
+      "JapanFG/saxo-bank-securities",
+      "JapanFG/sbi-fx-trade",
+      "derivatives/INDEX",
+      "derivatives/corporate-fx-hedge-policy-japan-listed",
+      "derivatives/cross-currency-basis-swap-japan",
+      "derivatives/fx-options-japan-corporate-treasury",
+      "derivatives/fx-stp-broker-aggregation",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/yen-basis-swap-market",
+      "money-market/INDEX",
+      "money-market/japan-money-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
+      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
+      "https://finwiki.zksc.io/JapanFG/matsui-sec",
+      "https://finwiki.zksc.io/JapanFG/saxo-bank-securities",
+      "https://finwiki.zksc.io/JapanFG/sbi-fx-trade",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/corporate-fx-hedge-policy-japan-listed",
+      "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
+      "https://finwiki.zksc.io/derivatives/fx-options-japan-corporate-treasury",
+      "https://finwiki.zksc.io/derivatives/fx-stp-broker-aggregation",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/japan-money-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16424,
+    "word_like_tokens": 2702,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-25"
+  }
+}

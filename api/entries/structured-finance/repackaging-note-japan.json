@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "structured-finance/repackaging-note-japan",
+  "source_path": "structured-finance/repackaging-note-japan.md",
+  "url": "https://finwiki.zksc.io/structured-finance/repackaging-note-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/repackaging-note-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/structured-finance/repackaging-note-japan.md",
+  "domain": "structured-finance",
+  "title": "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+    "aliases": [
+      "Japan repackaging note",
+      "リパッケージ債",
+      "Repack Japan",
+      "Currency-swap repackaging",
+      "Coupon-restructured repackaging",
+      "Retail repackaging note Japan",
+      "structured-finance/repackaging-note-japan"
+    ],
+    "domain": "structured-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "structured-finance",
+      "repackaging",
+      "repack",
+      "currency-swap",
+      "coupon-restructured",
+      "retail",
+      "megabank",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "JSDA bond market statistics — https://www.jsda.or.jp/en/",
+      "Megabank securities IR (MUFG MS, SMBC Nikko, Mizuho Securities)",
+      "Foreign investment bank Japan operations (public disclosures)",
+      "FSA structured-products disclosure framework"
+    ]
+  },
+  "summary": "A repackaging note (リパッケージ債, \"repack\") is a structured-credit product in which an SPV purchases an underlying debt asset (a bond, a loan, a basket of bonds), enters into derivative overlays (currency swap, interest-rate swap, sometimes credit-default swap), and reissues new notes to investors with a",
+  "headings": [
+    "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+    "TL;DR",
+    "Wiki route",
+    "1. The repack — basic mechanics",
+    "2. Institutional vs retail repacks",
+    "3. Use cases — what gets repackaged",
+    "4. Dealer franchise — megabank securities vs foreign IB",
+    "5. SPV / legal structure",
+    "6. Rating treatment",
+    "7. The post-2008 evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/boj",
+      "JapanFG/daiwa-securities",
+      "JapanFG/japan-exchange-group",
+      "JapanFG/japan-post-bank",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg",
+      "JapanFG/mufg-securities",
+      "JapanFG/nomura-securities",
+      "JapanFG/smbc-nikko",
+      "JapanFG/smfg",
+      "derivatives/japan-cds-market-overview",
+      "finance/INDEX",
+      "real-estate-finance/INDEX",
+      "structured-finance/INDEX",
+      "structured-finance/abcp-conduit-japan-megabank",
+      "structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "structured-finance/japan-abs-market-overview",
+      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/boj",
+      "https://finwiki.zksc.io/JapanFG/daiwa-securities",
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-securities",
+      "https://finwiki.zksc.io/JapanFG/nomura-securities",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/derivatives/japan-cds-market-overview",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/real-estate-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/abcp-conduit-japan-megabank",
+      "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
+      "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11451,
+    "word_like_tokens": 1771,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

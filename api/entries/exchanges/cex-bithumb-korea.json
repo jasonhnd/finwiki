@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cex-bithumb-korea",
+  "source_path": "exchanges/cex-bithumb-korea.md",
+  "url": "https://finwiki.zksc.io/exchanges/cex-bithumb-korea",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-bithumb-korea.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cex-bithumb-korea.md",
+  "domain": "exchanges",
+  "title": "Bithumb（빗썸）— 韓国 KRW spot CEX overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Bithumb（빗썸）— 韓国 KRW spot CEX",
+    "aliases": [
+      "Bithumb",
+      "빗썸",
+      "Bithumb Korea",
+      "Bithumb Holdings"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cex",
+      "korea",
+      "krw-spot",
+      "isms-casp"
+    ],
+    "status": "active",
+    "sources": [
+      "公開情報整理 (Bithumb Korea 公式 IR / 회사 소개 페이지)",
+      "公開情報整理 (FSC / FIU 가상자산사업자 등록 정보, 한국 금융정보분석원)",
+      "公開情報整理 (KISA ISMS-P 인증 발표)",
+      "公開情報整理 (NH 농협은행 실명확인 입출금 계정 계약 보도)",
+      "公開情報整理 (Bithumb IPO 2025-2026 KOSDAQ 상장 추진 보도)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit for the closest peer comparison, and global CEX top 10 comparison for the broader system / market boundary.",
+  "headings": [
+    "Bithumb（빗썸）— 韓国 KRW spot CEX overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 登録・牌照状況（韓国制度）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/cex-upbit-korea",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/korea-cex-five-pillars-comparison",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/cex-upbit-korea",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/korea-cex-five-pillars-comparison",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3449,
+    "word_like_tokens": 575,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-25"
+  }
+}

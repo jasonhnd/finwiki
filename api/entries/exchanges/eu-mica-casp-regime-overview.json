@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/eu-mica-casp-regime-overview",
+  "source_path": "exchanges/eu-mica-casp-regime-overview.md",
+  "url": "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/eu-mica-casp-regime-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/eu-mica-casp-regime-overview.md",
+  "domain": "exchanges",
+  "title": "EU MiCA CASP (Crypto-Asset Service Provider) regime",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "EU MiCA CASP (Crypto-Asset Service Provider) regime",
+    "aliases": [
+      "EU MiCA CASP licensing",
+      "Markets in Crypto-Assets Regulation",
+      "EU 暗号資産サービス事業者制度"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "eu",
+      "mica",
+      "regulation",
+      "benchmark"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.esma.europa.eu/policy-activities/crypto-assets"
+    ]
+  },
+  "summary": "MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は 2023-06 採択 → 2024-06 ART/EMT (Asset-Referenced Token / E-Money Token) Stablecoin 規制部分施行 → 2024-12-30 CASP 完全施行。EU 27 ヵ国を統一する世界初の包括的暗号資産規制枠組み。既存 NCAs (National Competent Authorities — 各国規制機関、独 BaFin / 仏 AMF / 蘭 AFM / 愛 Central Ba",
+  "headings": [
+    "EU MiCA CASP (Crypto-Asset Service Provider) regime",
+    "1. 制度概要",
+    "2. CASP ライセンス 10 区分 (MiCA Article 60)",
+    "3. 主要保有事業者 (2025-2026)",
+    "4. 主要規制要件",
+    "5. 国際比較",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/hk-sfc-vasp-licensing-overview",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/sg-mas-dpt-licensing-overview",
+      "exchanges/us-crypto-licensing-multi-layer-system",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/mica-cross-border-implications",
+      "fintech/mica-emt-art-subcategories-deep-dive",
+      "fintech/mica-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/sg-mas-dpt-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/mica-cross-border-implications",
+      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
+      "https://finwiki.zksc.io/fintech/mica-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2989,
+    "word_like_tokens": 488,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-24"
+  }
+}

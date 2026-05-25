@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/akatsuki-hq",
+  "source_path": "JapanFG/akatsuki-hq.md",
+  "url": "https://finwiki.zksc.io/JapanFG/akatsuki-hq",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/akatsuki-hq.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/akatsuki-hq.md",
+  "domain": "JapanFG",
+  "title": "あかつき本社 (Akatsuki Honsha)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "あかつき本社 (Akatsuki Honsha)",
+    "aliases": [
+      "あかつき本社",
+      "Akatsuki Honsha",
+      "株式会社あかつき本社",
+      "旧 高木証券",
+      "Takagi Securities"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "holding"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社あかつき本社 (2026-05-19 抽出)",
+      "Wikipedia: あかつき証券 (2026-05-19 抽出)",
+      "東証 STD 8737 開示情報 (公開分)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "あかつき本社 (Akatsuki Honsha)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社",
+    "重要年表 ^[extracted]",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "競争ポジション",
+    "アライアンス・パートナーズグループとの連携"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/daiwa-sg",
+      "JapanFG/matsui-sec",
+      "JapanFG/mizuho-securities",
+      "JapanFG/mufg-mums",
+      "JapanFG/nomura-hd",
+      "JapanFG/okasan-sg",
+      "JapanFG/rakuten-securities",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "nomura-hd",
+      "sbi-hd",
+      "securities/INDEX",
+      "smbc-nikko",
+      "smfg",
+      "tokai-tokyo-fh"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
+      "https://finwiki.zksc.io/JapanFG/matsui-sec",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/nomura-hd",
+      "https://finwiki.zksc.io/JapanFG/okasan-sg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/smbc-nikko",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/tokai-tokyo-fh"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3518,
+    "word_like_tokens": 468,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-21"
+  }
+}

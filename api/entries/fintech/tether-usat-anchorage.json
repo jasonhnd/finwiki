@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/tether-usat-anchorage",
+  "source_path": "fintech/tether-usat-anchorage.md",
+  "url": "https://finwiki.zksc.io/fintech/tether-usat-anchorage",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tether-usat-anchorage.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/tether-usat-anchorage.md",
+  "domain": "fintech",
+  "title": "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+    "aliases": [
+      "tether-usat-anchorage",
+      "USAT",
+      "Tether USA",
+      "Tether USAT stablecoin",
+      "Anchorage USAT"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "possible",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "tether",
+      "usat",
+      "anchorage",
+      "genius-501",
+      "us-compliance",
+      "usdt-bifurcation",
+      "federal-charter"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://tether.to/en/",
+      "https://tether.to/en/transparency",
+      "https://www.anchorage.com/",
+      "https://www.coindesk.com/policy/2024/tether-anchorage-usat-announcement",
+      "https://www.theblock.co/post/tether-usat-anchorage-genius-act",
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with Tether USDT 经济学 for the parent product whose bifurcation USAT represents, and with GENIUS Act §501 for the U.S. regulatory framework that forced Tether to design a separate U.S.-compliant entity.",
+  "headings": [
+    "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "fintech/circle-usdc-stablecoin",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/regulatory-reset-2025-usa-crypto-policy",
+      "fintech/stripe-usdb-bridge-stablecoin",
+      "fintech/tether-business-model-short-treasury-yield"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/regulatory-reset-2025-usa-crypto-policy",
+      "https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5490,
+    "word_like_tokens": 894,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-25"
+  }
+}

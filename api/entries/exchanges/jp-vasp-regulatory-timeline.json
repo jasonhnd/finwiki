@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-vasp-regulatory-timeline",
+  "source_path": "exchanges/jp-vasp-regulatory-timeline.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-regulatory-timeline.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-vasp-regulatory-timeline.md",
+  "domain": "exchanges",
+  "title": "国内暗号資産 VASP 規制タイムライン (2014-2026)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内暗号資産 VASP 規制タイムライン (2014-2026)",
+    "aliases": [
+      "JP crypto regulation timeline",
+      "改正資金決済法 進化",
+      "JVCEA / 金商法 / VASP 制度史"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "vasp",
+      "regulation",
+      "history",
+      "timeline",
+      "payment-services-act"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.fsa.go.jp/",
+      "https://jvcea.or.jp/",
+      "https://elaws.e-gov.go.jp/"
+    ]
+  },
+  "summary": "日本の暗号資産規制は、国内大型インシデント (Mt.Gox・Coincheck) と 国際協調圧力 (FATF Travel Rule・MiCA・GENIUS Act 等) の両方をトリガーに段階的に積層されてきた。世界で最も早く包括的な VASP 法体系を持つジュリスディクションのひとつで、現在は 資金決済法 + 金商法 + 自主規制 (JVCEA) の三層構造で運用されている。詳細な登録制度は exchanges/fsa-vasp-registration-system、自主規制詳細は exchanges/jvcea-self-regulatory-overview を参照。",
+  "headings": [
+    "国内暗号資産 VASP 規制タイムライン (2014-2026)",
+    "概要",
+    "主要 規制マイルストーン (年代順)",
+    "規制の三層構造 (2026 時点)"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/fsa-foreign-exchange-warning-system",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/jp-vasp-derivative-license-system",
+      "exchanges/jp-vasp-incident-history",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/fatf-travel-rule-overview",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1835,
+    "word_like_tokens": 286,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-25"
+  }
+}

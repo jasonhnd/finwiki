@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/jia-trust",
+  "source_path": "JapanFG/jia-trust.md",
+  "url": "https://finwiki.zksc.io/JapanFG/jia-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/jia-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/jia-trust.md",
+  "domain": "JapanFG",
+  "title": "JIA Trust / JIA信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JIA Trust / JIA信託",
+    "aliases": [
+      "JIA信託",
+      "JIA信託株式会社",
+      "Japan Investment Adviser Trust"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "aircraft-leasing",
+      "real-estate",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "JIA Trust official site: https://www.jiatrust.co.jp/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> JapanFG/trust-companies-japan-index -> JapanFG/jia-trust",
+  "headings": [
+    "JIA Trust / JIA信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/capital-trust",
+      "JapanFG/jia-trust",
+      "JapanFG/trust-companies-japan-index",
+      "finance/japan-acquisition-finance",
+      "securities/financial-instruments-business-operators-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/capital-trust",
+      "https://finwiki.zksc.io/JapanFG/jia-trust",
+      "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2159,
+    "word_like_tokens": 343,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-22"
+  }
+}

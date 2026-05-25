@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/sapporo-chuo-shinkumi",
+  "source_path": "JapanFG/sapporo-chuo-shinkumi.md",
+  "url": "https://finwiki.zksc.io/JapanFG/sapporo-chuo-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/sapporo-chuo-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/sapporo-chuo-shinkumi.md",
+  "domain": "JapanFG",
+  "title": "札幌中央信用組合 (Sapporo Chuo Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "札幌中央信用組合 (Sapporo Chuo Credit Cooperative)",
+    "aliases": [
+      "Sapporo-Chuo-Shinkumi",
+      "札幌中央信組",
+      "Sapporo Chuo Credit Co-operative"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "hokkaido",
+      "sapporo",
+      "regional-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a Hokkaido 地域型 (regional) shinkumi anchor, peer to いわき信用組合 (Tohoku) within the 143-cooperative population catalogued in Japan credit cooperative registry. Contrast with 札幌信用金庫 for the shinkin-vs-shinkumi distinction in the Sapporo market.",
+  "headings": [
+    "札幌中央信用組合 (Sapporo Chuo Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "2. 営業地区・組合員資格",
+    "営業地区 ^[inferred]",
+    "組合員資格 ^[extracted]",
+    "北海道信組ブロック (registry比較)",
+    "3. 系統内位置",
+    "全信組連内の位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/dic",
+      "JapanFG/hokkaido-bank",
+      "JapanFG/hokuhoku-fg",
+      "JapanFG/hokuyo-bank",
+      "JapanFG/iwaki-shinkumi",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/sapporo-shinkin",
+      "JapanFG/smbc",
+      "JapanFG/zenshin-kumi",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/dic",
+      "https://finwiki.zksc.io/JapanFG/hokkaido-bank",
+      "https://finwiki.zksc.io/JapanFG/hokuhoku-fg",
+      "https://finwiki.zksc.io/JapanFG/hokuyo-bank",
+      "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/sapporo-shinkin",
+      "https://finwiki.zksc.io/JapanFG/smbc",
+      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5300,
+    "word_like_tokens": 708,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/dora-eu-digital-operational-resilience-ctpp",
+  "source_path": "fintech/dora-eu-digital-operational-resilience-ctpp.md",
+  "url": "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-ctpp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/dora-eu-digital-operational-resilience-ctpp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/dora-eu-digital-operational-resilience-ctpp.md",
+  "domain": "fintech",
+  "title": "DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管",
+    "aliases": [
+      "dora-ctpp",
+      "DORA critical third-party provider",
+      "cloud crypto custody EU"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "law",
+      "regulation",
+      "eu",
+      "dora",
+      "ctpp",
+      "cloud",
+      "custody",
+      "mica"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2554",
+      "https://www.esma.europa.eu/policy-activities/digital-finance/digital-operational-resilience-act-dora",
+      "https://www.eba.europa.eu/regulation-and-policy/operational-risk",
+      "https://aws.amazon.com/financial-services/security-compliance/"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/eu-mica-casp-regime-overview",
+      "fintech/INDEX",
+      "fintech/dora-eu-digital-operational-resilience-overview",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mica-emt-art-subcategories-deep-dive",
+      "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/eu-mica-casp-regime-overview",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-overview",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
+      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2989,
+    "word_like_tokens": 499,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

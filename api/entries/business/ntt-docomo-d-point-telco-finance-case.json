@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/ntt-docomo-d-point-telco-finance-case",
+  "source_path": "business/ntt-docomo-d-point-telco-finance-case.md",
+  "url": "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/ntt-docomo-d-point-telco-finance-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/ntt-docomo-d-point-telco-finance-case.md",
+  "domain": "business",
+  "title": "NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up",
+    "aliases": [
+      "ntt-docomo-d-point-telco-finance-case",
+      "Docomo d-Point telco-finance template",
+      "Docomo SMBC tie-up case",
+      "telco-finance distribution channel"
+    ],
+    "domain": "business",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "docomo",
+      "ntt",
+      "d-point",
+      "d-card",
+      "d-barai",
+      "smbc",
+      "telco-finance",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.docomo.ne.jp/english/info/",
+      "https://www.nttdocomo.co.jp/corporate/ir/",
+      "https://group.ntt/jp/newsrelease/",
+      "https://www.smbcgroup.com/news/",
+      "https://dpoint.jp/"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against Rakuten Group mobile-finance bundling case for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), GMO Internet Group for an internet-to-finance conglomerate cont",
+  "headings": [
+    "NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up",
+    "Wiki route",
+    "TL;DR",
+    "1. Pre-Tie-Up Docomo Finance Stack",
+    "2. The 2024 SMBC Strategic Tie-Up",
+    "3. Telco-To-Finance Distribution Pattern",
+    "4. Comparison Matrix — Telco-Finance Models In Japan",
+    "5. Post-Tie-Up Strategic Implications",
+    "6. Comparison With Rakuten Direction",
+    "7. Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/mufg",
+      "JapanFG/paypay-card",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-bank",
+      "JapanFG/rakuten-fg",
+      "JapanFG/rakuten-securities",
+      "JapanFG/smfg",
+      "business/INDEX",
+      "business/gmo-internet-group",
+      "business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "business/rakuten-group-mobile-finance-bundling-case",
+      "business/sony-fg-partial-spinoff-case",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "fintech/ai-payment-two-tracks",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/paypay-card",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9110,
+    "word_like_tokens": 1472,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/tokyo-century-detail",
+  "source_path": "JapanFG/tokyo-century-detail.md",
+  "url": "https://finwiki.zksc.io/JapanFG/tokyo-century-detail",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/tokyo-century-detail.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/tokyo-century-detail.md",
+  "domain": "JapanFG",
+  "title": "東京センチュリー 事業詳細 (Tokyo Century Operating Profile)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京センチュリー 事業詳細 (Tokyo Century Operating Profile)",
+    "aliases": [
+      "Tokyo Century Operating Profile",
+      "東京センチュリー事業詳細",
+      "東京センチュリー operating",
+      "Tokyo Century Detail"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "mizuho",
+      "itochu",
+      "aviation",
+      "operating-profile",
+      "edinet"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.tokyocentury.co.jp/jp/about/",
+      "https://www.tokyocentury.co.jp/jp/ir/",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www.lease.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "東京センチュリー 事業詳細 (Tokyo Century Operating Profile)",
+    "Wiki route",
+    "TL;DR",
+    "1. 親グループ関係 - 2 軸株主構造",
+    "2. 事業セグメント詳細",
+    "2.1 国内法人リース・ファイナンス",
+    "2.2 国際ビジネス（米州・アジア・欧州）",
+    "2.3 航空機ファイナンス（戦略的差別化）",
+    "2.4 環境インフラ事業",
+    "2.5 自動車・スペシャルティ"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-lease",
+      "JapanFG/nec-capital-solutions",
+      "JapanFG/orix-corp",
+      "JapanFG/smfl",
+      "JapanFG/tokyo-century",
+      "banking/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-lease",
+      "https://finwiki.zksc.io/JapanFG/nec-capital-solutions",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/banking/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4345,
+    "word_like_tokens": 655,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

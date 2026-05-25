@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/ja-zenchu",
+  "source_path": "JapanFG/ja-zenchu.md",
+  "url": "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/ja-zenchu.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/ja-zenchu.md",
+  "domain": "JapanFG",
+  "title": "JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)",
+    "aliases": [
+      "JA-Zenchu",
+      "JA全中",
+      "全中",
+      "全国農業協同組合中央会",
+      "National Central Union of Agricultural Cooperatives",
+      "Zenchu",
+      "JA Zen-Chu"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-central",
+      "ja-group",
+      "industry-body",
+      "agricultural-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.zenchu-ja.or.jp/",
+      "https://org.ja-group.jp/factbook/",
+      "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
+      "https://www.jabank.org/about/sikumi/",
+      "農業協同組合法 (昭和 22 年法律第 132 号、2015 改正で全中の中央会機能再編)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the JA Group national-coordination layer behind 農林中央金庫 (Norinchukin) and the JA Bank system. Read it together with JA 全農 (全国農業協同組合連合会) for the commercial-federation counterpart, JA 共済連 for the cooperative insurance federation, and cooperative banking domain for",
+  "headings": [
+    "JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)",
+    "Wiki route",
+    "TL;DR",
+    "1. 組織構造",
+    "JA グループ 4 大全国連の役割分担 ^[extracted]",
+    "重要年表 ^[extracted]",
+    "2. 主要機能",
+    "4 大機能 ^[extracted]",
+    "JA バンク中央本部との関係",
+    "全国連結合体としての JA グループ"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/ja-kyosairen",
+      "JapanFG/ja-shinnoren",
+      "JapanFG/ja-zen-noh",
+      "JapanFG/jf-zengyoren",
+      "JapanFG/norinchukin",
+      "JapanFG/yokin-hoken-kiko",
+      "JapanFG/zenginkyo",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "ja-kyosairen",
+      "ja-shinnoren",
+      "ja-zen-noh",
+      "norinchukin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
+      "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
+      "https://finwiki.zksc.io/JapanFG/ja-zen-noh",
+      "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
+      "https://finwiki.zksc.io/JapanFG/norinchukin",
+      "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/JapanFG/zenginkyo",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/ja-kyosairen",
+      "https://finwiki.zksc.io/ja-shinnoren",
+      "https://finwiki.zksc.io/ja-zen-noh",
+      "https://finwiki.zksc.io/norinchukin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5635,
+    "word_like_tokens": 815,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-24"
+  }
+}

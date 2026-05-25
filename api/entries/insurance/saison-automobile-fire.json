@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "insurance/saison-automobile-fire",
+  "source_path": "insurance/saison-automobile-fire.md",
+  "url": "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/insurance/saison-automobile-fire.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/insurance/saison-automobile-fire.md",
+  "domain": "insurance",
+  "title": "Saison Automobile & Fire / SOMPO Direct",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Saison Automobile & Fire / SOMPO Direct",
+    "aliases": [
+      "saison-automobile-fire",
+      "Saison Automobile & Fire",
+      "セゾン自動車火災保険",
+      "SOMPO Direct",
+      "ＳＯＭＰＯダイレクト損害保険"
+    ],
+    "domain": "insurance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "insurance",
+      "non-life-insurance",
+      "direct-insurance",
+      "SOMPO",
+      "auto-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.sompo-direct.co.jp/company/history.html",
+      "https://www.sompo-direct.co.jp/company/profile.html",
+      "https://www.sompo-direct.co.jp/",
+      "https://www.sompo-direct.co.jp/company/disclosure/"
+    ]
+  },
+  "summary": "This entry sits under insurance index. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "headings": [
+    "Saison Automobile & Fire / SOMPO Direct",
+    "Wiki route",
+    "TL;DR",
+    "Company Identity",
+    "Strategic Meaning",
+    "Comparison Points",
+    "Open Questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/sompo",
+      "JapanFG/sony-fg",
+      "insurance/INDEX",
+      "insurance/life-insurance-channel-mix",
+      "insurance/natcat-reinsurance-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3107,
+    "word_like_tokens": 493,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-21"
+  }
+}

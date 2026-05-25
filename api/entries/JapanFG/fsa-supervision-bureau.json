@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/fsa-supervision-bureau",
+  "source_path": "JapanFG/fsa-supervision-bureau.md",
+  "url": "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/fsa-supervision-bureau.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/fsa-supervision-bureau.md",
+  "domain": "JapanFG",
+  "title": "監督局 (FSA Supervision Bureau)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "監督局 (FSA Supervision Bureau)",
+    "aliases": [
+      "JapanFG/fsa-supervision-bureau",
+      "fsa-supervision-bureau",
+      "FSA Supervision Bureau",
+      "Supervision Bureau",
+      "監督局",
+      "FSA SUB"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regulator",
+      "internal-bureau",
+      "FSA",
+      "supervision",
+      "banking",
+      "securities",
+      "insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/about/orgchart.html",
+      "https://www.fsa.go.jp/en/about/annual.html",
+      "https://www.fsa.go.jp/en/news/index.html",
+      "https://www.fsa.go.jp/common/about/sosiki/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against FSA 企画市場局 for the rule-making counterpart inside the FSA, FSA 総合政策局 for the strategy / cross-bureau layer, and BoJ 金融機構局 for the central-bank-side prudential anchor. For the licensing perimeter, anchor through legal / financial licenses and bankin",
+  "headings": [
+    "監督局 (FSA Supervision Bureau)",
+    "Wiki route",
+    "TL;DR",
+    "1. Function / scope",
+    "2. Counterparty / interaction",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 21,
+    "wikilinks": [
+      "JapanFG/77-bank",
+      "JapanFG/INDEX",
+      "JapanFG/aflac-japan",
+      "JapanFG/aioi-nissay-dowa-insurance",
+      "JapanFG/asset-management-one",
+      "JapanFG/boj-financial-system-dept",
+      "JapanFG/chiba-bank",
+      "JapanFG/cpaaob",
+      "JapanFG/fsa-inspection-bureau",
+      "JapanFG/fsa-planning-coordination-bureau",
+      "JapanFG/fsa-strategy-bureau",
+      "JapanFG/jsda",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/mufg-mums",
+      "JapanFG/smfg",
+      "banking/INDEX",
+      "banking/credit-cooperative-registry-japan",
+      "banking/shinkin-bank-registry-japan",
+      "exchanges/fsa-business-improvement-orders-history",
+      "exchanges/fsa-foreign-exchange-warning-system",
+      "exchanges/fsa-vasp-registration-system"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/77-bank",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aflac-japan",
+      "https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance",
+      "https://finwiki.zksc.io/JapanFG/asset-management-one",
+      "https://finwiki.zksc.io/JapanFG/boj-financial-system-dept",
+      "https://finwiki.zksc.io/JapanFG/chiba-bank",
+      "https://finwiki.zksc.io/JapanFG/cpaaob",
+      "https://finwiki.zksc.io/JapanFG/fsa-inspection-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-planning-coordination-bureau",
+      "https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/JapanFG/jsda",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg-mums",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/exchanges/fsa-business-improvement-orders-history",
+      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6251,
+    "word_like_tokens": 971,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-24"
+  }
+}

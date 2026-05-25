@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities/osaka-exchange",
+  "source_path": "securities/osaka-exchange.md",
+  "url": "https://finwiki.zksc.io/securities/osaka-exchange",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities/osaka-exchange.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities/osaka-exchange.md",
+  "domain": "securities",
+  "title": "大阪取引所 (OSE)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大阪取引所 (OSE)",
+    "aliases": [
+      "Osaka Exchange",
+      "OSE",
+      "大阪取引所",
+      "大証"
+    ],
+    "domain": "securities",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "securities",
+      "derivatives",
+      "exchange",
+      "market-infrastructure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/corporate/about-jpx/profile/02.html",
+      "https://www.jpx.co.jp/english/derivatives/"
+    ]
+  },
+  "summary": "This entry sits under securities index. Read it against 東京商品取引所 (TOCOM) for peer / contrast context and financial instruments business operators japan index for the broader system / regulatory boundary.",
+  "headings": [
+    "大阪取引所 (OSE)",
+    "Wiki route",
+    "TL;DR",
+    "System Map",
+    "Product / Market Map",
+    "Strategic Reading",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/japan-exchange-group",
+      "money-market/jgb-repo-market-japan",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/japan-securities-clearing-corp",
+      "securities/tokyo-commodity-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/tokyo-commodity-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2547,
+    "word_like_tokens": 378,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-05-21"
+  }
+}

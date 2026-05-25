@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/vitalik-l1-l2-strategy-anchor",
+  "source_path": "systems/vitalik-l1-l2-strategy-anchor.md",
+  "url": "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/vitalik-l1-l2-strategy-anchor.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/vitalik-l1-l2-strategy-anchor.md",
+  "domain": "systems",
+  "title": "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+    "aliases": [
+      "vitalik-l1-l2-strategy",
+      "ethereum-l1-l2-evolution",
+      "rollup-centric-to-dual-track"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "systems",
+      "ethereum",
+      "l2",
+      "rollup",
+      "pectra",
+      "fusaka",
+      "stablecoin",
+      "vitalik"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "business/larry-fink-blackrock-digital-asset-template",
+      "fintech/INDEX",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/onchain-finance-vs-crypto-bifurcation",
+      "fintech/usd-stablecoin-interchange",
+      "systems/INDEX",
+      "systems/dag-bft-vs-chain-bft-architecture",
+      "systems/eip-7708-native-asset-erc20-event-compat",
+      "systems/erc-7702-overview",
+      "systems/l1-progressive-decentralization-three-phase"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
+      "https://finwiki.zksc.io/systems/eip-7708-native-asset-erc20-event-compat",
+      "https://finwiki.zksc.io/systems/erc-7702-overview",
+      "https://finwiki.zksc.io/systems/l1-progressive-decentralization-three-phase"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2613,
+    "word_like_tokens": 474,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-24"
+  }
+}

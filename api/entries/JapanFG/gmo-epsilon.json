@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/gmo-epsilon",
+  "source_path": "JapanFG/gmo-epsilon.md",
+  "url": "https://finwiki.zksc.io/JapanFG/gmo-epsilon",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/gmo-epsilon.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/gmo-epsilon.md",
+  "domain": "JapanFG",
+  "title": "GMOイプシロン (GMO Epsilon)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMOイプシロン (GMO Epsilon)",
+    "aliases": [
+      "GMO Epsilon",
+      "GMOイプシロン",
+      "GMOイプシロン株式会社"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "psp",
+      "funds-transfer",
+      "merchant-services"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.epsilon.jp/company.html",
+      "https://www.epsilon.jp/service/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SBペイメントサービス (SB Payment Service) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "GMOイプシロン (GMO Epsilon)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/gmo-payment-gateway",
+      "JapanFG/sb-payment-service",
+      "business/gmo-internet-group",
+      "payments/INDEX",
+      "payments/card-acquiring-japan-stack",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
+      "https://finwiki.zksc.io/JapanFG/sb-payment-service",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2072,
+    "word_like_tokens": 316,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-05-21"
+  }
+}

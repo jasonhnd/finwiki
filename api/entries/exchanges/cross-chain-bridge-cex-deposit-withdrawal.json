@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+  "source_path": "exchanges/cross-chain-bridge-cex-deposit-withdrawal.md",
+  "url": "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cross-chain-bridge-cex-deposit-withdrawal.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/cross-chain-bridge-cex-deposit-withdrawal.md",
+  "domain": "exchanges",
+  "title": "クロスチェーン bridge と CEX 入出金経路 — Wormhole / LayerZero / Axelar / Hyperlane / CCIP 比較",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "クロスチェーン bridge と CEX 入出金経路 — Wormhole / LayerZero / Axelar / Hyperlane / CCIP 比較",
+    "aliases": [
+      "Cross-chain bridge CEX integration",
+      "取引所クロスチェーン入出金",
+      "Wormhole LayerZero Axelar Hyperlane CCIP comparison"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "likely",
+    "tags": [
+      "exchanges",
+      "cross-chain",
+      "bridge",
+      "cex",
+      "interoperability"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://wormhole.com/",
+      "https://layerzero.network/",
+      "https://www.axelar.network/",
+      "https://www.hyperlane.xyz/",
+      "https://chain.link/cross-chain"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
+  "headings": [
+    "クロスチェーン bridge と CEX 入出金経路 — Wormhole / LayerZero / Axelar / Hyperlane / CCIP 比較",
+    "Wiki route",
+    "概要",
+    "Top 5 bridge protocol 比較",
+    "CEX 入出金との接点",
+    "リスク + インシデント (2022 = \"bridge hack year\")",
+    "規制位置",
+    "Cross-links"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/global-dex-major-five-comparison",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/solana-ecosystem-dex-comparison",
+      "fintech/chain-level-ofac-freeze-precedent",
+      "fintech/cosmos-ibc-for-financial-institutions",
+      "systems/cross-chain-five-pole-comparison-matrix",
+      "systems/cross-chain-four-poles-ccip-institutional",
+      "systems/cross-chain-four-poles-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison",
+      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
+      "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
+      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
+      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3062,
+    "word_like_tokens": 491,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-24"
+  }
+}

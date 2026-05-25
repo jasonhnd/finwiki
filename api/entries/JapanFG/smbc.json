@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/smbc",
+  "source_path": "JapanFG/smbc.md",
+  "url": "https://finwiki.zksc.io/JapanFG/smbc",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/smbc.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/smbc.md",
+  "domain": "JapanFG",
+  "title": "株式会社三井住友銀行 (SMBC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社三井住友銀行 (SMBC)",
+    "aliases": [
+      "SMBC",
+      "Sumitomo Mitsui Banking Corporation",
+      "三井住友銀行",
+      "株式会社三井住友銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "megabank",
+      "smfg-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 三井住友銀行 (2026-05-25 抽出)",
+      "SMBC 公式サイト (https://www.smbc.co.jp/, 2026-05-25 参照)",
+      "SMFG 統合報告書 / 決算短信 (2024-25 公開分)",
+      "金融庁 銀行免許一覧 (2026-05-25 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
+  "headings": [
+    "株式会社三井住友銀行 (SMBC)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人構造",
+    "沿革・前身",
+    "重要年表",
+    "2. グループ内分業",
+    "3. 業務セグメント",
+    "主要拠点",
+    "4. 競争上の位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/boj",
+      "JapanFG/dic",
+      "JapanFG/fsa",
+      "JapanFG/japan-post-bank",
+      "JapanFG/jcb",
+      "JapanFG/mizuho-bank",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/mufg-bank",
+      "JapanFG/smbc-card",
+      "JapanFG/smbc-consumer-finance",
+      "JapanFG/smbc-nikko",
+      "JapanFG/smbc-trust-bank",
+      "JapanFG/smfg",
+      "banking/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj",
+      "https://finwiki.zksc.io/JapanFG/dic",
+      "https://finwiki.zksc.io/JapanFG/fsa",
+      "https://finwiki.zksc.io/JapanFG/japan-post-bank",
+      "https://finwiki.zksc.io/JapanFG/jcb",
+      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/JapanFG/smbc-card",
+      "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
+      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/JapanFG/smbc-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/banking/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4481,
+    "word_like_tokens": 685,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-25"
+  }
+}

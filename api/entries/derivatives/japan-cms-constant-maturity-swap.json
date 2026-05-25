@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "derivatives/japan-cms-constant-maturity-swap",
+  "source_path": "derivatives/japan-cms-constant-maturity-swap.md",
+  "url": "https://finwiki.zksc.io/derivatives/japan-cms-constant-maturity-swap",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-cms-constant-maturity-swap.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/derivatives/japan-cms-constant-maturity-swap.md",
+  "domain": "derivatives",
+  "title": "Japan CMS (constant maturity swap) market",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan CMS (constant maturity swap) market",
+    "aliases": [
+      "japan-cms-constant-maturity-swap",
+      "CMS JPY",
+      "constant maturity swap Japan",
+      "JPY CMS",
+      "CMS spread option",
+      "CMS-linked note",
+      "CMS cap floor",
+      "コンスタント・マチュリティ・スワップ"
+    ],
+    "domain": "derivatives",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "derivatives",
+      "CMS",
+      "constant-maturity-swap",
+      "JPY",
+      "structured-products",
+      "CMS-spread",
+      "convexity",
+      "vol-grid"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "https://www.bis.org/statistics/derstats.htm",
+      "https://www.jscc.co.jp/en/",
+      "https://www.fsa.go.jp/en/",
+      "https://www.isda.org/"
+    ]
+  },
+  "summary": "A constant maturity swap (CMS) is an OTC interest-rate derivative in which one leg pays a fixed reference (or a floating short-rate reference) and the other leg pays a periodically reset long-tenor swap rate — most commonly the 10Y or 5Y JPY swap rate at each reset date. The CMS leg's defining featu",
+  "headings": [
+    "Japan CMS (constant maturity swap) market",
+    "TL;DR",
+    "Wiki route",
+    "Instrument Mechanics",
+    "Why a Convexity Adjustment Is Needed",
+    "JPY Use Cases",
+    "Pricing Inputs",
+    "Dealer Franchise",
+    "Liquidity and Market Depth",
+    "Clearing"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/mufg-bank",
+      "banking/INDEX",
+      "derivatives/INDEX",
+      "derivatives/dealer-bank-derivatives-revenue-mix",
+      "derivatives/japan-inflation-swap",
+      "derivatives/japan-irs-market",
+      "derivatives/japan-swaption-market",
+      "derivatives/jgb-futures-curve",
+      "derivatives/ois-tona-curve",
+      "derivatives/structured-bond-japan-retail-issuance",
+      "derivatives/structured-product-eb-knockin-japan-retail",
+      "insurance/japan-life-insurance-alm-overview",
+      "money-market/INDEX",
+      "money-market/japan-money-market",
+      "securities/INDEX",
+      "securities/japan-asset-manager-landscape-matrix",
+      "securities/japan-securities-clearing-corp"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mufg-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/derivatives/INDEX",
+      "https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix",
+      "https://finwiki.zksc.io/derivatives/japan-inflation-swap",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/japan-swaption-market",
+      "https://finwiki.zksc.io/derivatives/jgb-futures-curve",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/derivatives/structured-bond-japan-retail-issuance",
+      "https://finwiki.zksc.io/derivatives/structured-product-eb-knockin-japan-retail",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10610,
+    "word_like_tokens": 1844,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

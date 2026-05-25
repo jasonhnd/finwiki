@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/three-circles-mra-2030-economic-scale",
+  "source_path": "fintech/three-circles-mra-2030-economic-scale.md",
+  "url": "https://finwiki.zksc.io/fintech/three-circles-mra-2030-economic-scale",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/three-circles-mra-2030-economic-scale.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/three-circles-mra-2030-economic-scale.md",
+  "domain": "fintech",
+  "title": "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+    "aliases": [
+      "three circles MRA economic scale",
+      "$130B 三圆 2030",
+      "white-vs-gray ring economics",
+      "合规圈 vs 灰圈"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "number",
+      "economic-pattern",
+      "mra",
+      "genius",
+      "mica",
+      "epi",
+      "white-gray-ring",
+      "2030-forecast"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
+      "https://www.fsa.go.jp/en/policy/sftl/index.html",
+      "https://www.bis.org/cpmi/publ/d215.htm",
+      "https://www.imf.org/en/Publications/WEO"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/jpyc",
+      "fintech/INDEX",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-epi-three-types-overview",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/mica-cross-border-implications",
+      "fintech/mica-overview",
+      "fintech/stablecoin-revenue-split-economics",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jpyc",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/mica-cross-border-implications",
+      "https://finwiki.zksc.io/fintech/mica-overview",
+      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2932,
+    "word_like_tokens": 532,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/e-euro-retail-rollout",
+  "source_path": "fintech/e-euro-retail-rollout.md",
+  "url": "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/e-euro-retail-rollout.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/e-euro-retail-rollout.md",
+  "domain": "fintech",
+  "title": "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+    "aliases": [
+      "e-euro-retail-rollout",
+      "digital euro retail rollout",
+      "ECB digital euro 2026 status",
+      "数字欧元 零售 推出",
+      "digital euro preparation phase",
+      "ECB CBDC pilot status"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "digital-euro",
+      "ecb",
+      "eu",
+      "retail-cbdc",
+      "e-krona",
+      "riksbank",
+      "anti-disintermediation"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html",
+      "https://commission.europa.eu/business-economy-euro/euro-area/digital-euro_en",
+      "https://www.riksbank.se/en-gb/payments--cash/e-krona/",
+      "https://www.bis.org/about/bisih/topics/cbdc.htm",
+      "https://www.consilium.europa.eu/en/policies/digital-euro/"
+    ]
+  },
+  "summary": "This entry sits under fintech index as the per-jurisdiction deep dive on the ECB digital euro for the 2026 Preparation-Phase snapshot. It pairs with CBDC adoption curve 2026 for the four-country comparative view, with CBDC 多层架构概览 for architecture context, and with CBDC 三大现役范式 for the three-paradigm",
+  "headings": [
+    "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+    "Wiki route",
+    "Programme architecture",
+    "Matrix A · Statute, regulator, phase status",
+    "Matrix B · Design choices — codified anti-disintermediation",
+    "Matrix C · Preparation-Phase work-streams",
+    "Matrix D · Adoption metrics (most recent public)",
+    "Matrix E · Holding limit and disintermediation defence (deep dive)",
+    "Matrix F · Distribution model",
+    "Comparison to Sweden e-krona pause"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bis-project-agora-overview",
+      "fintech/bis-project-agora-vs-mbridge",
+      "fintech/bis-project-ensemble-overview",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/central-banking-function-unbundling",
+      "fintech/ecny-supply-chain-expansion",
+      "fintech/erupee-india-pilot-status",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-dcjpy",
+      "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/mica-overview",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
+      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
+      "https://finwiki.zksc.io/fintech/ecny-supply-chain-expansion",
+      "https://finwiki.zksc.io/fintech/erupee-india-pilot-status",
+      "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/mica-overview",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 19028,
+    "word_like_tokens": 3154,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-05-25"
+  }
+}

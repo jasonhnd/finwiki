@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/spinoff-decision-tree-japan",
+  "source_path": "corporate-strategy/spinoff-decision-tree-japan.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/spinoff-decision-tree-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/spinoff-decision-tree-japan.md",
+  "domain": "corporate-strategy",
+  "title": "Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection",
+    "aliases": [
+      "spinoff-decision-tree-japan",
+      "japan-spinoff-option-decision-tree",
+      "spinoff vs partial spinoff japan",
+      "kabushiki bunpai vs partial spinoff vs ipo"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "decision-tree",
+      "spinoff",
+      "partial-spinoff",
+      "kaisha-bunkatsu",
+      "tax",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
+      "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/spinoff.html",
+      "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
+      "https://www.mof.go.jp/public_relations/finance/202402/202402e.html"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for transaction context. Read with partial spinoff tax deferral for the partial-spinoff regime detail, 会社分割 tax regime for the underlying split mechanics, 株式交付 regime for the acquisition-side parallel, and Sony FG partial s",
+  "headings": [
+    "Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection",
+    "Wiki route",
+    "TL;DR",
+    "1. The Decision Tree",
+    "2. Decision Matrix",
+    "3. When To Use Each Path — Strategic Decision Criteria",
+    "Use 株式譲渡 (cash sale) when:",
+    "Use 株式分配 (full spinoff) when:",
+    "Use パーシャルスピンオフ when:",
+    "Use IPO partial sell-down when:"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "business/rakuten-group-mobile-finance-bundling-case",
+      "business/softbank-vision-fund-arm-ipo-template",
+      "business/sony-fg-partial-spinoff-case",
+      "business/toshiba-tob-squeeze-out-2023-2024-case",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-m-a-deal-process-comparison-matrix",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/business/toshiba-tob-squeeze-out-2023-2024-case",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-m-a-deal-process-comparison-matrix",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11226,
+    "word_like_tokens": 1806,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

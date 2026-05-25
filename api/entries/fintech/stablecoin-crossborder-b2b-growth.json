@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/stablecoin-crossborder-b2b-growth",
+  "source_path": "fintech/stablecoin-crossborder-b2b-growth.md",
+  "url": "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-crossborder-b2b-growth.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stablecoin-crossborder-b2b-growth.md",
+  "domain": "fintech",
+  "title": "B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）",
+    "aliases": [],
+    "domain": "fintech",
+    "created": "2026-04-14",
+    "last_updated": "2026-05-03",
+    "last_tended": "2026-05-05",
+    "review_by": "2026-10-30",
+    "confidence": "certain",
+    "tags": [
+      "fintech"
+    ],
+    "status": "confirmed",
+    "sources": [
+      "https://www.fireblocks.com/state-of-stablecoins-2025/",
+      "https://www.circle.com/en/blog",
+      "https://www.coinbase.com/blog",
+      "https://www.visa.com/blogarchives/us/2024/09/05/stablecoins-cross-border/index.html",
+      "https://www.bis.org/cpmi/publ/d215.htm",
+      "https://www.jetro.go.jp/biz/areareports/"
+    ]
+  },
+  "summary": "主要企業の採用：Visa（年 $46 億決済処理）、Stripe（$4,000 億 SC 決済量）、PayPal（PYUSD 供給量 600% 増）。",
+  "headings": [
+    "B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/skill-market-monetization",
+      "exchanges/jp-crypto-bank-credit-facilities",
+      "fintech/ai-payment-two-tracks",
+      "fintech/cross-border-sc-via-swift-api",
+      "fintech/dual-currency-stablecoin-arbitrage-overview",
+      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/paypal-pyusd-stablecoin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
+      "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2088,
+    "word_like_tokens": 341,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-05-25"
+  }
+}

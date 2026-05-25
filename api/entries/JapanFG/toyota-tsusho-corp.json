@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/toyota-tsusho-corp",
+  "source_path": "JapanFG/toyota-tsusho-corp.md",
+  "url": "https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/toyota-tsusho-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/toyota-tsusho-corp.md",
+  "domain": "JapanFG",
+  "title": "豊田通商 (Toyota Tsusho Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "豊田通商 (Toyota Tsusho Corporation)",
+    "aliases": [
+      "Toyota Tsusho Corporation",
+      "Toyota Tsusho",
+      "豊田通商",
+      "豊田通商株式会社",
+      "TTC",
+      "8015",
+      "toyota-tsusho-corp",
+      "toyota-tsusho"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "sogo-shosha",
+      "parent-company",
+      "toyota-group",
+      "mobility",
+      "africa",
+      "ctc-africa",
+      "automotive-trading",
+      "captive-trading-house"
+    ],
+    "status": "active",
+    "sources": [
+      "豊田通商 (8015) 公式 IR — https://www.toyota-tsusho.com/ir/",
+      "豊田通商 統合報告書 — https://www.toyota-tsusho.com/ir/library/annual_report/",
+      "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 豊田通商)",
+      "JPX 銘柄情報 8015 — https://www2.jpx.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For the financial-serv",
+  "headings": [
+    "豊田通商 (Toyota Tsusho Corporation)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・関連会社 (JapanFG 文脈)",
+    "沿革ハイライト ^[extracted]",
+    "2. 业务线 map",
+    "3. Financial-services adjacency",
+    "4. 戦略与競争",
+    "Toyota グループ系商社の identity"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/aichi-fg",
+      "JapanFG/itochu-corp",
+      "JapanFG/marubeni-corp",
+      "JapanFG/mitsubishi-corp",
+      "JapanFG/mitsui-co",
+      "JapanFG/mufg",
+      "JapanFG/sojitz-corp",
+      "JapanFG/sumitomo-corp",
+      "JapanFG/tepco-hd",
+      "JapanFG/toyota-financial",
+      "JapanFG/toyota-tsusho-finance",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aichi-fg",
+      "https://finwiki.zksc.io/JapanFG/itochu-corp",
+      "https://finwiki.zksc.io/JapanFG/marubeni-corp",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
+      "https://finwiki.zksc.io/JapanFG/mitsui-co",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/sojitz-corp",
+      "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
+      "https://finwiki.zksc.io/JapanFG/tepco-hd",
+      "https://finwiki.zksc.io/JapanFG/toyota-financial",
+      "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7097,
+    "word_like_tokens": 1044,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

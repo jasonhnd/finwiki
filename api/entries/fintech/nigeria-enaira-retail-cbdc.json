@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/nigeria-enaira-retail-cbdc",
+  "source_path": "fintech/nigeria-enaira-retail-cbdc.md",
+  "url": "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/nigeria-enaira-retail-cbdc.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/nigeria-enaira-retail-cbdc.md",
+  "domain": "fintech",
+  "title": "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+    "aliases": [
+      "nigeria-enaira-retail-cbdc",
+      "eNaira",
+      "eNaira CBDC",
+      "CBN eNaira",
+      "Nigeria retail CBDC",
+      "Nigeria digital currency",
+      "eNaira adoption"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "cbdc",
+      "retail-cbdc",
+      "nigeria",
+      "enaira",
+      "cbn",
+      "africa",
+      "adoption-failure",
+      "cash-substitution",
+      "naira-redesign"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.cbn.gov.ng/",
+      "https://www.cbn.gov.ng/Out/2021/CCD/eNaira%20Design%20Paper.pdf",
+      "https://enaira.gov.ng/",
+      "https://www.imf.org/en/Publications/WP/Issues/2023/05/12/Nigerias-eNaira-One-Year-After-533487",
+      "https://www.bis.org/about/bisih/topics/cbdc.htm",
+      "https://www.bis.org/publ/work1116.htm"
+    ]
+  },
+  "summary": "This entry sits under fintech index as the per-jurisdiction case study on the eNaira, the second live retail CBDC issued by any major emerging-market central bank (after the Bahamian Sand Dollar) and globally the most-studied adoption-failure case among live CBDC programmes. Read it against Bahamas",
+  "headings": [
+    "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+    "Wiki route",
+    "Programme architecture",
+    "Matrix A · Statute, regulator, phase status",
+    "Matrix B · Design choices — tiered KYC, free distribution, low-friction-but-low-utility",
+    "Matrix C · Adoption metrics (most recent public)",
+    "Matrix D · The 2022-2023 Naira redesign collision",
+    "Matrix E · Distribution model and the unbanked",
+    "Matrix F · Comparison to peer retail CBDCs",
+    "Origin and evolution"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/bahamas-sand-dollar-cbdc",
+      "fintech/bahamas-sand-dollar-cbdc\\",
+      "fintech/bis-project-agora-overview",
+      "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "fintech/cbdc-multi-tier-architecture-overview",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "fintech/e-euro-retail-rollout",
+      "fintech/em-market-crypto-dollarization-pattern",
+      "fintech/gray-market-dollar-network-formalization",
+      "fintech/jamaica-jam-dex-cbdc",
+      "fintech/jamaica-jam-dex-cbdc\\",
+      "fintech/mbridge-bis-multi-cbdc-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc",
+      "https://finwiki.zksc.io/fintech/bahamas-sand-dollar-cbdc\\",
+      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs",
+      "https://finwiki.zksc.io/fintech/e-euro-retail-rollout",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
+      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+      "https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc",
+      "https://finwiki.zksc.io/fintech/jamaica-jam-dex-cbdc\\",
+      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 16465,
+    "word_like_tokens": 2764,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}

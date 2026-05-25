@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/kyoto-bank",
+  "source_path": "JapanFG/kyoto-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/kyoto-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kyoto-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/kyoto-bank.md",
+  "domain": "JapanFG",
+  "title": "京都銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "京都銀行",
+    "aliases": [
+      "Kyoto Bank",
+      "The Bank of Kyoto",
+      "株式会社京都銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "regional-bank",
+      "kansai",
+      "kyoto",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.kyotobank.co.jp/about/company/outline.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "京都銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/kansai-mirai-bank",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "ikeda-senshu-bank",
+      "kansai-mirai-bank",
+      "kyoto-fg",
+      "nanto-bank",
+      "shiga-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/kansai-mirai-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/ikeda-senshu-bank",
+      "https://finwiki.zksc.io/kansai-mirai-bank",
+      "https://finwiki.zksc.io/kyoto-fg",
+      "https://finwiki.zksc.io/nanto-bank",
+      "https://finwiki.zksc.io/shiga-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1793,
+    "word_like_tokens": 286,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

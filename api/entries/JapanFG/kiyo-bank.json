@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/kiyo-bank",
+  "source_path": "JapanFG/kiyo-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/kiyo-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/kiyo-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/kiyo-bank.md",
+  "domain": "JapanFG",
+  "title": "株式会社紀陽銀行 (The Kiyo Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社紀陽銀行 (The Kiyo Bank)",
+    "aliases": [
+      "Kiyo Bank",
+      "The Kiyo Bank",
+      "Ltd.",
+      "紀陽銀行",
+      "きようぎんこう",
+      "きよう"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "kansai"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 紀陽銀行 (2026-05-19 抽出)",
+      "Wikipedia: 紀陽ホールディングス (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社紀陽銀行 (The Kiyo Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "主要子会社・グループ会社 ^[inferred]",
+    "合併歴史・前身",
+    "重要年表（抜粋）",
+    "2. 业务线 map",
+    "3. 战略与竞争",
+    "県内地盤戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/ikeda-senshu-hd",
+      "banking/INDEX",
+      "banking/minna-bank-baas-model",
+      "ikeda-senshu-hd",
+      "kyoto-fg",
+      "mizuho-fg",
+      "mufg",
+      "nanto-bank",
+      "norinchukin",
+      "resona-hd",
+      "san-jusan-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/ikeda-senshu-hd",
+      "https://finwiki.zksc.io/kyoto-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nanto-bank",
+      "https://finwiki.zksc.io/norinchukin",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7053,
+    "word_like_tokens": 997,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-21"
+  }
+}

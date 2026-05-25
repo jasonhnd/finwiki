@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/77-bank",
+  "source_path": "JapanFG/77-bank.md",
+  "url": "https://finwiki.zksc.io/JapanFG/77-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/77-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/77-bank.md",
+  "domain": "JapanFG",
+  "title": "七十七銀行 (77 Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "七十七銀行 (77 Bank)",
+    "aliases": [
+      "77 Bank",
+      "The 77 Bank",
+      "株式会社七十七銀行",
+      "しちじゅうしち銀行",
+      "77銀行"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 七十七銀行 (2026-05-19 抽出)",
+      "七十七銀行 2025-03 期 有価証券報告書 / ディスクロージャー誌"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "七十七銀行 (77 Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 公司结构",
+    "業態の特徴",
+    "主要関連会社（推定の主な系列）^[ambiguous]",
+    "2. 重要历史",
+    "黎明期: 国立銀行条例から株式会社銀行へ",
+    "戦後〜バブル期",
+    "東日本大震災以降（最重要）"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/18-shinwa-bank",
+      "JapanFG/INDEX",
+      "JapanFG/fidea-hd",
+      "JapanFG/joyo-bank",
+      "JapanFG/kyoto-fg",
+      "JapanFG/shizuoka-fg",
+      "banking/INDEX",
+      "chiba-bank",
+      "jimoto-hd",
+      "mebuki-fg",
+      "mizuho-fg",
+      "mufg",
+      "proclair-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/18-shinwa-bank",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fidea-hd",
+      "https://finwiki.zksc.io/JapanFG/joyo-bank",
+      "https://finwiki.zksc.io/JapanFG/kyoto-fg",
+      "https://finwiki.zksc.io/JapanFG/shizuoka-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/chiba-bank",
+      "https://finwiki.zksc.io/jimoto-hd",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/proclair-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5250,
+    "word_like_tokens": 678,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-21"
+  }
+}

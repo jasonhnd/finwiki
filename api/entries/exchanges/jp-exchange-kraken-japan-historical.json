@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-kraken-japan-historical",
+  "source_path": "exchanges/jp-exchange-kraken-japan-historical.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-kraken-japan-historical",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-kraken-japan-historical.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-kraken-japan-historical.md",
+  "domain": "exchanges",
+  "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）",
+    "aliases": [
+      "Kraken Japan",
+      "Payward Asia",
+      "Payward Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2027-05-25",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp",
+      "dormant",
+      "foreign-exchange-exit",
+      "kraken"
+    ],
+    "status": "deprecated",
+    "sources": [
+      "公開情報整理 (Payward Inc. corporate announcements, 2018-2018)",
+      "公開情報整理 (FSA 関東財務局 暗号資産交換業者登録一覧 — Kraken Japan の登録抹消経緯)",
+      "公開情報整理 (CoinPost / 仮想通貨 Watch 報道, 2018年 Kraken 日本撤退)",
+      "公開情報整理 (Kraken Global Blog 2018-04 Kraken to suspend services to Japanese residents)",
+      "公開情報整理 (CoinPost 2020 Kraken 再参入報道、2023-01 撤退発表)"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against Coinbase 株式会社 — 日本暗号資産交換業者 for the closest parallel pattern (外資系 retail exit) and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
+  "headings": [
+    "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況（歴史）",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-cex-top10-comparison",
+      "exchanges/jp-exchange-binance-japan",
+      "exchanges/jp-exchange-bittrade",
+      "exchanges/jp-exchange-coinbase-japan",
+      "exchanges/jp-vasp-ma-consolidation-history",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-binance-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coinbase-japan",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4178,
+    "word_like_tokens": 673,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-05-25"
+  }
+}

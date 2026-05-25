@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/pectra-upgrade-overview",
+  "source_path": "systems/pectra-upgrade-overview.md",
+  "url": "https://finwiki.zksc.io/systems/pectra-upgrade-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/pectra-upgrade-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/pectra-upgrade-overview.md",
+  "domain": "systems",
+  "title": "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+    "aliases": [
+      "pectra-upgrade-overview",
+      "pectra",
+      "ethereum-pectra"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "ethereum",
+      "upgrade",
+      "pectra",
+      "eip-7702",
+      "eip-7251",
+      "eip-7691",
+      "eip-2537"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/erc-7715-overview",
+      "agent-economy/privy-embedded-wallet-overview",
+      "exchanges/liquid-staking-restaking-cex-exposure",
+      "fintech/INDEX",
+      "systems/INDEX",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview",
+      "systems/pectra-eip-7251-institutional-staking",
+      "systems/pectra-eip-7691-blob-l2-impact"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview",
+      "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking",
+      "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2477,
+    "word_like_tokens": 455,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-05-24"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "agent-economy/solana-saga-seeker-mobile-stack-overview",
+  "source_path": "agent-economy/solana-saga-seeker-mobile-stack-overview.md",
+  "url": "https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/solana-saga-seeker-mobile-stack-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/solana-saga-seeker-mobile-stack-overview.md",
+  "domain": "agent-economy",
+  "title": "Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)",
+    "aliases": [
+      "solana-saga-seeker-mobile-stack-overview",
+      "solana-saga",
+      "solana-seeker",
+      "solana-mobile-stack",
+      "SMS"
+    ],
+    "domain": "agent-economy",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "agent-economy",
+      "wallet",
+      "mobile",
+      "solana",
+      "saga",
+      "seeker",
+      "seed-vault",
+      "mwa"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "agent-economy/ai-agent-payment-protocols-overview",
+      "agent-economy/privy-embedded-wallet-overview",
+      "agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
+      "fintech/embedded-wallet-fintech-disintermediation-overview",
+      "fintech/genius-act-501-denylist-mandate",
+      "fintech/usd-stablecoin-interchange",
+      "payments/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview",
+      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
+      "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
+      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payments/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2769,
+    "word_like_tokens": 507,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

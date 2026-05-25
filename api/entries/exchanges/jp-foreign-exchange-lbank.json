@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-foreign-exchange-lbank",
+  "source_path": "exchanges/jp-foreign-exchange-lbank.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-lbank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-foreign-exchange-lbank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-foreign-exchange-lbank.md",
+  "domain": "exchanges",
+  "title": "LBank Exchange — 日本向け海外無登録暗号資産交換業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "LBank Exchange — 日本向け海外無登録暗号資産交換業者",
+    "aliases": [
+      "LBank",
+      "LBank Exchange",
+      "エルバンク",
+      "LBANK"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2027-05-19",
+    "confidence": "possible",
+    "tags": [
+      "fintech",
+      "jp-foreign-exchange",
+      "fsa-warned",
+      "unlicensed",
+      "lbank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
+      "https://www.fsa.go.jp/policy/virtual_currency02/LBank_keikokushiryo.pdf",
+      "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.xlsx",
+      "https://www.lbank.com/",
+      "https://nextmoney.jp/?p=66527",
+      "https://nextmoney.jp/?p=59575"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "LBank Exchange — 日本向け海外無登録暗号資産交換業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-foreign-exchange-warning-system",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/jp-foreign-exchange-bitcastle",
+      "exchanges/jp-foreign-exchange-bitget",
+      "exchanges/jp-foreign-exchange-bybit",
+      "exchanges/jp-foreign-exchange-kucoin",
+      "exchanges/jp-foreign-exchange-mexc",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitcastle",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitget",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bybit",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-kucoin",
+      "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-mexc",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 7,
+    "external_links": [
+      "https://nextmoney.jp/?p=59575",
+      "https://nextmoney.jp/?p=66527",
+      "https://nextmoney.jp/?p=78390",
+      "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.xlsx",
+      "https://www.fsa.go.jp/policy/virtual_currency02/LBank_keikokushiryo.pdf",
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
+      "https://www.lbank.com/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5008,
+    "word_like_tokens": 741,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-05-24"
+  }
+}

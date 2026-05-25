@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-exchange-osl-japan",
+  "source_path": "exchanges/jp-exchange-osl-japan.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-osl-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-exchange-osl-japan.md",
+  "domain": "exchanges",
+  "title": "OSL Japan株式会社 — 日本暗号資産交換業者 overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "OSL Japan株式会社 — 日本暗号資産交換業者",
+    "aliases": [
+      "OSL Japan",
+      "OSL Japan Limited",
+      "CoinBest",
+      "コインベスト"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2027-05-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "jp-crypto-exchange",
+      "vasp"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://www.osl.com/jp/",
+      "https://www.osl.com/jp/cms/company",
+      "https://www.osl.com/jp/otc",
+      "https://www.osl.com/jp/closed_prices",
+      "https://jvcea.or.jp/member/",
+      "https://www.osl.com/hk-en/",
+      "https://prtimes.jp/main/html/searchrlp/company_id/156064"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
+  "headings": [
+    "OSL Japan株式会社 — 日本暗号資産交換業者 overview",
+    "Wiki route",
+    "1. 法人・株主",
+    "2. 牌照・登録状況",
+    "3. 取扱通貨",
+    "4. 業務範囲",
+    "5. 市占・取引高",
+    "6. 沿革・重大事件",
+    "7. 戦略動向",
+    "8. 関連人物"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "exchanges/hk-sfc-vasp-licensing-overview",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "fintech/japan-bittrade-listing-process",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-trust-type-sc-architecture"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/exchanges/hk-sfc-vasp-licensing-overview",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+    ],
+    "external_links_count": 10,
+    "external_links": [
+      "https://jvcea.or.jp/member/",
+      "https://prtimes.jp/main/cgi/searchrlp.cgi?word=CoinBest+OSL+Japan",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.osl.com/hk-en/",
+      "https://www.osl.com/jp/",
+      "https://www.osl.com/jp/closed_prices",
+      "https://www.osl.com/jp/cms/company",
+      "https://www.osl.com/jp/news/%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E3%81%AE%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B--272",
+      "https://www.osl.com/jp/news/5%E5%91%A8%E5%B9%B4%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8OSL%E3%81%8C%E6%8F%8F%E3%81%8F%E6%B1%BA%E6%B8%88%E6%88%A6%E7%95%A5%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%81%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC--273",
+      "https://www.osl.com/jp/otc"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4908,
+    "word_like_tokens": 896,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-05-24"
+  }
+}

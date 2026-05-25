@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "banking/mercari-bank",
+  "source_path": "banking/mercari-bank.md",
+  "url": "https://finwiki.zksc.io/banking/mercari-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/banking/mercari-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/banking/mercari-bank.md",
+  "domain": "banking",
+  "title": "メルカリバンク (Mercari Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "メルカリバンク (Mercari Bank)",
+    "aliases": [
+      "mercari-bank",
+      "Mercari Bank",
+      "メルカリバンク",
+      "みんなの銀行 メルカリ支店"
+    ],
+    "domain": "banking",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "banking",
+      "baas",
+      "mercari",
+      "merpay",
+      "minna-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf",
+      "https://www.minna-no-ginko.com/branches/baas-mercari/?id=program",
+      "https://help.jp.mercari.com/guide/articles/2074/",
+      "https://static.jp.mercari.com/electronic_payment_agency_business"
+    ]
+  },
+  "summary": "This entry sits under banking index. Read it against メルカリバンク license stack for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.",
+  "headings": [
+    "メルカリバンク (Mercari Bank)",
+    "Wiki route",
+    "TL;DR",
+    "Product map",
+    "Strategic read",
+    "What it is not",
+    "Competitive meaning",
+    "Counterpoints",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/gmo-aozora-net",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/cooperative-banking-japan",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "banking/paypay-bank",
+      "banking/quick-deposit-four-methods",
+      "banking/rakuten-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/banking/rakuten-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2617,
+    "word_like_tokens": 342,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-21"
+  }
+}

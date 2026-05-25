@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "JapanFG/aig-japan",
+  "source_path": "JapanFG/aig-japan.md",
+  "url": "https://finwiki.zksc.io/JapanFG/aig-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/aig-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/aig-japan.md",
+  "domain": "JapanFG",
+  "title": "AIG ジャパン (AIG 損害保険)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "AIG ジャパン (AIG 損害保険)",
+    "aliases": [
+      "AIG Japan",
+      "AIG ジャパン・ホールディングス",
+      "AIG 損害保険",
+      "AIG Sonpo",
+      "AIU 保険",
+      "AIU 損害保険",
+      "富士火災海上保険"
+    ],
+    "domain": "JapanFG",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "foreign-japan-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: AIG損害保険 (2026-05-19 参照)",
+      "Wikipedia: AIU保険会社 (2026-05-19 参照)",
+      "Wikipedia: 富士火災海上保険 (2026-05-19 参照)",
+      "Wikipedia: American International Group (2026-05-19 参照)",
+      "AIG Inc. Annual Report 2024"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "AIG ジャパン (AIG 損害保険)",
+    "Wiki route",
+    "TL;DR",
+    "1. グループ構造",
+    "主要日本法人",
+    "重要历史（年表）",
+    "2. 業務ライン",
+    "3. 戦略と競争",
+    "ポジショニング",
+    "グローバルレバレッジ"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/axa-japan",
+      "JapanFG/msad",
+      "JapanFG/sompo",
+      "aflac-japan",
+      "axa-japan",
+      "banking/INDEX",
+      "kyoritsu-fire-marine",
+      "prudential-japan",
+      "tokio-marine"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/axa-japan",
+      "https://finwiki.zksc.io/JapanFG/msad",
+      "https://finwiki.zksc.io/JapanFG/sompo",
+      "https://finwiki.zksc.io/aflac-japan",
+      "https://finwiki.zksc.io/axa-japan",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/prudential-japan",
+      "https://finwiki.zksc.io/tokio-marine"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5839,
+    "word_like_tokens": 854,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-05-21"
+  }
+}

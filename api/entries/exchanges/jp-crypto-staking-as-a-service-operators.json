@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "exchanges/jp-crypto-staking-as-a-service-operators",
+  "source_path": "exchanges/jp-crypto-staking-as-a-service-operators.md",
+  "url": "https://finwiki.zksc.io/exchanges/jp-crypto-staking-as-a-service-operators",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-staking-as-a-service-operators.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/jp-crypto-staking-as-a-service-operators.md",
+  "domain": "exchanges",
+  "title": "国内向けステーキング・アズ・ア・サービス (StaaS) 事業者層",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "国内向けステーキング・アズ・ア・サービス (StaaS) 事業者層",
+    "aliases": [
+      "JP crypto staking as a service",
+      "国内ステーキング事業者",
+      "Staking as a service Japan",
+      "StaaS Japan"
+    ],
+    "domain": "exchanges",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "exchanges",
+      "staking",
+      "validators",
+      "institutional",
+      "yield",
+      "defi-adjacent"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.kiln.fi/",
+      "https://www.figment.io/",
+      "https://www.bitflyer.com/ja-jp/staking",
+      "https://coin.z.com/jp/",
+      "https://www.sbivc.co.jp/",
+      "https://jvcea.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under exchanges index. Read it against 国内機関カストディ三本柱 for peer / contrast context and JVCEA 自主規制 for the broader system / regulatory boundary.",
+  "headings": [
+    "国内向けステーキング・アズ・ア・サービス (StaaS) 事業者層",
+    "Wiki route",
+    "概要",
+    "国内 VASP のリテールステーキングサービス",
+    "海外 StaaS 事業者の対日 B2B 提供",
+    "国内機関の利用パターン",
+    "規制論点",
+    "Liquid Staking Token (LST) と国内取り扱い",
+    "監査 + 法務との連携",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "exchanges/INDEX",
+      "exchanges/fsa-vasp-registration-system",
+      "exchanges/japan-crypto-audit-firm-landscape",
+      "exchanges/japan-crypto-law-firm-landscape",
+      "exchanges/jp-crypto-asset-taxation-detailed",
+      "exchanges/jp-crypto-market-maker-otc-layer",
+      "exchanges/jp-custody-fireblocks-japan",
+      "exchanges/jp-custody-ginco",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-bitflyer",
+      "exchanges/jp-exchange-bittrade",
+      "exchanges/jp-exchange-coincheck",
+      "exchanges/jp-exchange-gmo-coin",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "exchanges/jp-institutional-custody-three-pillars",
+      "exchanges/jp-vasp-aml-travel-rule-implementation",
+      "exchanges/jvcea-self-regulatory-overview",
+      "fintech/japan-financial-regulation"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/INDEX",
+      "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-law-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-asset-taxation-detailed",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
+      "https://finwiki.zksc.io/exchanges/jp-custody-fireblocks-japan",
+      "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-bittrade",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-gmo-coin",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4028,
+    "word_like_tokens": 601,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-24"
+  }
+}

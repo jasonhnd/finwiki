@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "systems/canton-overview",
+  "source_path": "systems/canton-overview.md",
+  "url": "https://finwiki.zksc.io/systems/canton-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/canton-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/canton-overview.md",
+  "domain": "systems",
+  "title": "Canton Network 概览 · DAML 智能合约的隐私机构链",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Canton Network 概览 · DAML 智能合约的隐私机构链",
+    "aliases": [
+      "canton-overview",
+      "canton-network-overview",
+      "digital-asset-canton"
+    ],
+    "domain": "systems",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "certain",
+    "tags": [
+      "systems",
+      "dlt",
+      "privacy",
+      "canton",
+      "daml",
+      "institutional"
+    ],
+    "status": "candidate",
+    "sources": []
+  },
+  "summary": "This entry sits under systems index. Read it against Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "headings": [
+    "Canton Network 概览 · DAML 智能合约的隐私机构链",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "fintech/INDEX",
+      "fintech/apollo-acred-private-credit-tokenization",
+      "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/jpmorgan-jpmd-coin",
+      "systems/INDEX",
+      "systems/canton-daml-technical-spec",
+      "systems/canton-mmf-coalition",
+      "systems/cctp-v2-vs-canton"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
+      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/systems/INDEX",
+      "https://finwiki.zksc.io/systems/canton-daml-technical-spec",
+      "https://finwiki.zksc.io/systems/canton-mmf-coalition",
+      "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2536,
+    "word_like_tokens": 419,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-24"
+  }
+}

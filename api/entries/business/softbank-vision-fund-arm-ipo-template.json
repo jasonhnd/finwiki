@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/softbank-vision-fund-arm-ipo-template",
+  "source_path": "business/softbank-vision-fund-arm-ipo-template.md",
+  "url": "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/softbank-vision-fund-arm-ipo-template.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/softbank-vision-fund-arm-ipo-template.md",
+  "domain": "business",
+  "title": "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+    "aliases": [
+      "softbank-vision-fund-arm-ipo-template",
+      "SBG Arm IPO case",
+      "Vision Fund Arm monetization template",
+      "SoftBank Arm 2023 listing"
+    ],
+    "domain": "business",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "softbank",
+      "arm",
+      "ipo",
+      "vision-fund",
+      "monetization",
+      "valuation"
+    ],
+    "status": "active",
+    "sources": [
+      "https://group.softbank/en/ir",
+      "https://www.arm.com/company/investors",
+      "https://www.sec.gov/Archives/edgar/data/1973239/000119312523223914/d439321df1.htm",
+      "https://group.softbank/system/files/pdf/ir/financials/annual_reports/annual-report_fy2023_01_en.pdf",
+      "https://www.nasdaq.com/market-activity/stocks/arm"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case in the people-and-portfolio cluster. Read it against Brian Armstrong Coinbase exchange-as-public-company template for peer / contrast context on portfolio company going public, Kitao Yoshitaka SBI independent strategy for the co",
+  "headings": [
+    "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+    "Wiki route",
+    "TL;DR",
+    "1. Vision Fund Structure & Arm's Path Through It",
+    "2. Transaction Architecture (September 2023)",
+    "3. Why The IPO Mattered More As Marker Than Cash Raise",
+    "4. Post-IPO SBG Strategy",
+    "5. Comparison: Arm IPO vs Other Vision Fund Exits",
+    "6. Read-Across To Japan Conglomerate Carve-Outs",
+    "7. Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/sbi-hd",
+      "business/INDEX",
+      "business/brian-armstrong-coinbase-public-company-template",
+      "business/founder-pivot-outcome-template-matrix",
+      "business/gmo-internet-group",
+      "business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "business/sony-fg-partial-spinoff-case",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "finance/INDEX",
+      "finance/japan-leveraged-buyout-economics",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "finance/japan-tender-offer-process"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template",
+      "https://finwiki.zksc.io/business/founder-pivot-outcome-template-matrix",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9178,
+    "word_like_tokens": 1573,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-25"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "fintech/first-digital-fdusd-hk-stablecoin",
+  "source_path": "fintech/first-digital-fdusd-hk-stablecoin.md",
+  "url": "https://finwiki.zksc.io/fintech/first-digital-fdusd-hk-stablecoin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/first-digital-fdusd-hk-stablecoin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/first-digital-fdusd-hk-stablecoin.md",
+  "domain": "fintech",
+  "title": "First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD",
+    "aliases": [
+      "first-digital-fdusd-hk-stablecoin",
+      "FDUSD",
+      "First Digital USD",
+      "FDT"
+    ],
+    "domain": "fintech",
+    "created": "2026-05-18",
+    "last_updated": "2026-05-18",
+    "last_tended": "2026-05-18",
+    "review_by": "2026-11-18",
+    "confidence": "likely",
+    "tags": [
+      "fintech",
+      "stablecoin",
+      "fdusd",
+      "first-digital",
+      "hong-kong",
+      "hkma",
+      "binance",
+      "gray-to-white"
+    ],
+    "status": "candidate",
+    "sources": [
+      "https://firstdigitallabs.com/",
+      "https://firstdigitallabs.com/fdusd",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/",
+      "https://www.binance.com/en/support/announcement",
+      "https://coinmarketcap.com/currencies/first-digital-usd/"
+    ]
+  },
+  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "headings": [
+    "First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD",
+    "Wiki route",
+    "Key facts",
+    "Mechanism / How it works",
+    "Origin & evolution",
+    "Counterpoints",
+    "Open questions",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "exchanges/global-vasp-regulatory-comparison-matrix",
+      "fintech/INDEX",
+      "fintech/gray-market-dollar-network-formalization",
+      "fintech/hkma-stablecoin-licensing-overview",
+      "fintech/issuer-distributor-incentive-realignment-50-50-model",
+      "fintech/japan-financial-regulation",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jurisdiction-list-monetary-protectionism",
+      "fintech/paypal-pyusd-stablecoin",
+      "fintech/tether-business-model-short-treasury-yield",
+      "fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
+      "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
+      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
+      "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3339,
+    "word_like_tokens": 599,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-25"
+  }
+}
