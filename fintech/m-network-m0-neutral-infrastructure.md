@@ -8,7 +8,11 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin-infra, m-network, m0, neutral-infra, blackrock, goldman, long-tail]
-sources: []
+sources:
+  - https://m0.org/
+  - https://docs.m0.org/
+  - https://www.m0.foundation/
+  - https://github.com/m0-foundation
 status: candidate
 ---
 

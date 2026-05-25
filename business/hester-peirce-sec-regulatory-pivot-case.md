@@ -9,7 +9,7 @@ review_by: 2026-11-18
 confidence: likely
 tags: [business, people, sec, regulation, crypto-mom, hester-peirce, case-study, ideology]
 sources: []
-status: candidate
+status: confirmed
 ---
 
 # 监管转向关键官员案例 · 个人意识形态 + 制度授权(Hester Peirce)
@@ -17,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

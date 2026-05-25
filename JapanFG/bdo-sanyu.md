@@ -8,8 +8,8 @@ aliases:
   - BDO Japan audit
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-11-20
 confidence: likely
 tags:
@@ -49,14 +49,15 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
   - BDO 税理士法人
   - BDO アドバイザリー株式会社（FAS / コンサル）^[extracted]
 
-### 規模（公開ベース概算）^[inferred]
+### 規模（公開ソース確認可能事項のみ）
 
-| 指標 | 概算 |
-|---|---|
-| 公認会計士（社員 + 職員） | 300-500 名級 |
-| 上場会社監査クライアント数 | 100-200 社級 |
-| 主要対象 | 中堅 / 中小上場、IPO 準備会社、外資系日本子会社、Web3 スタートアップ、VASP |
-| 拠点 | 東京 / 大阪等 |
+公式法人情報（https://www.bdo.or.jp/firm/）および JICPA 監査法人検索で確認可能な客観的属性：
+
+- **CPAAOB 類型**：準大手監査法人（FSA 公認会計士・監査審査会の分類区分）^[extracted]
+- **主要対象セグメント**（公式 IR / 業界報道ベース）：中堅 / 中小上場、IPO 準備会社、外資系日本子会社、Web3 スタートアップ、VASP ^[extracted]
+- **拠点**：東京本部 + 大阪・名古屋・福岡等の地方拠点（具体的拠点数は公式法人情報で確認）^[extracted]
+
+公認会計士総数・上場クライアント数等の具体的数値は、JICPA 公表「監査法人の概況」または BDO 三優公式 transparency report（公開時）で都度確認すべき。第三者ソース確認なしの推計数値は本ページでは記載しない。
 
 ## 2. 沿革
 
@@ -130,7 +131,7 @@ Tier 2 内では太陽グラントソントンと棲み分け：
 
 ## Counterpoints
 
-- **「Big 4 / 太陽との競合下での規模劣位」**：300-500 名級は Big 4 の 1/15、太陽グラントソントンの半分程度。リソース・テクノロジー投資力で差が ^[ambiguous]
+- **「Big 4 / 太陽との競合下での規模劣位」**：準大手 4 法人（仰星 / 太陽グラントソントン / PwC 京都 / BDO 三優）はいずれも Big 4 の 1 桁下の規模水準と業界で位置付けられる。リソース・テクノロジー投資力での差が課題 ^[ambiguous]
 - **「Web3 / VASP クライアント集中の構造リスク」**：Web3 業界のクライアント破綻 / 規制変動リスク・暗号資産価格変動リスクが監査ポートフォリオに波及 ^[ambiguous]
 - **「BDO グローバル統合度」**：監査方法論・テクノロジー（BDO Advantage 等）の国内展開深度は ^[ambiguous]
 - **「中堅監査法人の品質管理コスト負担」**：CPAAOB 要求水準上昇下での経営負担 ^[inferred]

@@ -8,7 +8,11 @@ last_tended: 2026-05-18
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, stablecoin, sbi, jpyc, circle, japan, usdc, channel]
-sources: []
+sources:
+  - https://www.sbigroup.co.jp/news/
+  - https://jpyc.co.jp/
+  - https://www.circle.com/en/press
+  - https://www.sbivc.co.jp/
 status: candidate
 ---
 

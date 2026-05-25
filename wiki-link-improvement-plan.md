@@ -6,14 +6,14 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1281 |
+| Entries checked | 1302 |
 | Entries with any issue | 0 |
 | Body links below 3 | 0 |
 | Missing H1 | 0 |
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 92 |
+| Changed or new entries in current worktree | 64 |
 
 ## Wiki Linking Standard
 
@@ -31,126 +31,98 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/cpaaob.md` | `??` | 22 | ok |
-| `JapanFG/japan-post-bank.md` | `??` | 26 | ok |
-| `agent-economy/crossmint-agent-sdk.md` | `??` | 14 | ok |
-| `agent-economy/lit-protocol-pkp-agent-keys.md` | `??` | 10 | ok |
-| `agent-economy/nevermined-compute-payment-protocol.md` | `??` | 11 | ok |
-| `agent-economy/skyfire-closed-loop-agent-issuer.md` | `??` | 16 | ok |
-| `banking/daiwa-next-bank.md` | `??` | 47 | ok |
-| `banking/gmo-aozora-net-bank.md` | `??` | 49 | ok |
-| `banking/japan-stablecoin-bank-perimeter-2025.md` | `??` | 38 | ok |
-| `banking/sony-bank.md` | `??` | 33 | ok |
-| `banking/ui-bank.md` | `??` | 44 | ok |
-| `business/cz-binance-founder-handoff-case.md` | `??` | 14 | ok |
-| `business/jpx-public-company-as-market-infrastructure.md` | `??` | 12 | ok |
-| `business/ntt-docomo-d-point-telco-finance-case.md` | `??` | 19 | ok |
-| `business/rakuten-group-mobile-finance-bundling-case.md` | `??` | 26 | ok |
-| `business/softbank-vision-fund-arm-ipo-template.md` | `??` | 10 | ok |
-| `business/sony-fg-partial-spinoff-case.md` | `??` | 21 | ok |
-| `corporate-strategy/kabushiki-koufu-stock-distribution-regime.md` | `??` | 14 | ok |
-| `corporate-strategy/spinoff-decision-tree-japan.md` | `??` | 20 | ok |
-| `corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md` | `??` | 12 | ok |
-| `derivatives/japan-cms-constant-maturity-swap.md` | `??` | 11 | ok |
-| `derivatives/japan-inflation-swap.md` | `??` | 11 | ok |
-| `derivatives/japan-single-stock-options.md` | `??` | 18 | ok |
-| `derivatives/japan-swaption-market.md` | `??` | 16 | ok |
-| `derivatives/jgb-inflation-linked-bond-jgbi.md` | `??` | 12 | ok |
-| `derivatives/jgb-special-participants-primary-dealer.md` | `??` | 9 | ok |
-| `derivatives/nikkei-225-futures-options.md` | `??` | 18 | ok |
-| `derivatives/topix-futures.md` | `??` | 15 | ok |
-| `exchanges/cex-bithumb-korea.md` | `??` | 7 | ok |
-| `exchanges/cex-upbit-korea.md` | `??` | 10 | ok |
-| `exchanges/dex-jito-solana.md` | `??` | 5 | ok |
-| `exchanges/dex-orca-solana.md` | `??` | 7 | ok |
-| `exchanges/dex-pendle.md` | `??` | 6 | ok |
-| `exchanges/dex-raydium-solana.md` | `??` | 5 | ok |
-| `exchanges/jp-exchange-bitpoint-historical-deprecated.md` | `??` | 7 | ok |
-| `exchanges/jp-exchange-kraken-japan-historical.md` | `??` | 9 | ok |
-| `finance/carve-out-divestiture-japan.md` | `??` | 16 | ok |
-| `finance/japan-takeover-defense-poison-pill.md` | `??` | 12 | ok |
-| `finance/jftc-merger-control-process.md` | `??` | 15 | ok |
-| `fintech/bahamas-sand-dollar-cbdc.md` | `??` | 18 | ok |
-| `fintech/boe-digital-pound-consultation.md` | `??` | 13 | ok |
-| `fintech/circle-usdc-stablecoin.md` | `??` | 17 | ok |
-| `fintech/european-payments-initiative-wero.md` | `??` | 17 | ok |
-| `fintech/fnality-wholesale-settlement.md` | `??` | 22 | ok |
-| `fintech/jamaica-jam-dex-cbdc.md` | `??` | 14 | ok |
-| `fintech/jpm-onyx-wholesale-network.md` | `??` | 18 | ok |
-| `fintech/nigeria-enaira-retail-cbdc.md` | `??` | 18 | ok |
-| `fintech/partior-jpm-dbs-temasek-consortium.md` | `??` | 20 | ok |
-| `fintech/stripe-usdb-bridge-stablecoin.md` | `??` | 20 | ok |
-| `fintech/tether-usat-anchorage.md` | `??` | 12 | ok |
-| `fintech/tokenized-mmf-wisdomtree-hashnote.md` | `??` | 9 | ok |
-| `insurance/bancassurance-economics-japan.md` | `??` | 66 | ok |
-| `insurance/cooperative-insurance-system-japan.md` | `??` | 26 | ok |
-| `insurance/ja-kyosai-zenkyoren-overview.md` | `??` | 32 | ok |
-| `insurance/kampo-japan-post-insurance.md` | `??` | 33 | ok |
-| `insurance/medical-cancer-insurance-product-economics.md` | `??` | 44 | ok |
-| `money-market/boj-post-2024-floor-system-complementary-deposit-facility.md` | `??` | 24 | ok |
-| `money-market/japan-cp-commercial-paper-market.md` | `??` | 29 | ok |
-| `money-market/japan-mmf-money-market-mutual-fund.md` | `??` | 26 | ok |
-| `money-market/japan-ncd-negotiable-cd-market.md` | `??` | 26 | ok |
-| `money-market/japan-tbill-treasury-discount-bill.md` | `??` | 20 | ok |
-| `policy-finance/dbj-mandate-deep-dive.md` | `??` | 22 | ok |
-| `policy-finance/jfc-kokumin-life-finance-division.md` | `??` | 21 | ok |
-| `real-estate-finance/glp-j-reit-3281.md` | `??` | 14 | ok |
-| `real-estate-finance/japan-real-estate-j-reit-8952.md` | `??` | 25 | ok |
-| `real-estate-finance/nippon-building-fund-j-reit-8951.md` | `??` | 27 | ok |
-| `real-estate-finance/nippon-prologis-reit-3283.md` | `??` | 14 | ok |
-| `real-estate-finance/nomura-real-estate-master-fund-nmf.md` | `??` | 16 | ok |
-| `securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md` | `??` | 28 | ok |
-| `securities/nisa-2025-tax-reform-update.md` | `??` | 28 | ok |
-| `structured-finance/japan-covered-bond-mufg-smbc.md` | `??` | 24 | ok |
-| `structured-finance/japan-green-securitization.md` | `??` | 18 | ok |
-| `structured-finance/tmk-special-purpose-company-mechanics.md` | `??` | 20 | ok |
-| `systems/ibc-cosmos-cross-chain.md` | `??` | 19 | ok |
-| `systems/mev-flashbots-suave-order-flow-auction.md` | `??` | 10 | ok |
-| `systems/polkadot-xcm-parachain-messaging.md` | `??` | 14 | ok |
-| `systems/sui-aptos-move-l1-ecosystem.md` | `??` | 12 | ok |
-| `systems/ton-telegram-openwallet-ecosystem.md` | `??` | 12 | ok |
-| `INDEX.md` | `M` | 29 | ok |
-| `exchanges/btc-spot-etf-japan-impact.md` | `M` | 11 | ok |
-| `exchanges/cex-api-sdk-ecosystem-comparison.md` | `M` | 13 | ok |
-| `exchanges/coincheck-nem-hack-detailed-analysis.md` | `M` | 14 | ok |
-| `exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md` | `M` | 16 | ok |
+| `agent-economy/agent-payment-protocol-four-way-comparison-2026.md` | `??` | 34 | ok |
+| `banking/japan-net-bank-deposit-feature-matrix-2026.md` | `??` | 141 | ok |
+| `business/japan-listed-corp-strategic-restructuring-matrix.md` | `??` | 54 | ok |
+| `derivatives/japan-equity-derivatives-product-matrix.md` | `??` | 16 | ok |
+| `derivatives/japan-rates-derivative-product-matrix.md` | `??` | 20 | ok |
+| `exchanges/fsa-snapshot-delta-log.md` | `??` | 20 | ok |
+| `exchanges/global-dex-aggregator-comparison-matrix.md` | `??` | 26 | ok |
+| `fintech/global-cbdc-retail-pilot-matrix-africa-caribbean.md` | `??` | 21 | ok |
+| `fintech/tokenized-mmf-issuer-comparison-matrix.md` | `??` | 16 | ok |
+| `fintech/usd-stablecoin-issuer-eight-way-matrix.md` | `??` | 27 | ok |
+| `fintech/wholesale-settlement-network-matrix.md` | `??` | 18 | ok |
+| `insurance/japan-bancassurance-distribution-overlay-matrix.md` | `??` | 174 | ok |
+| `insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix.md` | `??` | 74 | ok |
+| `insurance/japan-medical-insurance-rider-product-matrix.md` | `??` | 92 | ok |
+| `money-market/japan-short-term-funding-instrument-matrix.md` | `??` | 44 | ok |
+| `payments/japan-code-payment-operator-2025-market-share-matrix.md` | `??` | 78 | ok |
+| `payments/visa-mastercard-amex-jcb-japan-operating-comparison.md` | `??` | 123 | ok |
+| `real-estate-finance/j-reit-top-20-detailed-matrix.md` | `??` | 56 | ok |
+| `securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md` | `??` | 45 | ok |
+| `structured-finance/japan-securitization-product-matrix.md` | `??` | 78 | ok |
+| `systems/cross-chain-bridge-eight-pole-comparison.md` | `??` | 36 | ok |
+| `JapanFG/01-bank.md` | `M` | 15 | ok |
+| `JapanFG/INDEX.md` | `M` | 1401 | ok |
+| `JapanFG/bdo-sanyu.md` | `M` | 15 | ok |
+| `JapanFG/hokkoku-fhd.md` | `M` | 18 | ok |
+| `JapanFG/missing-financial-institutions-backlog.md` | `M` | 309 | ok |
+| `JapanFG/nomura-trust-bank.md` | `M` | 24 | ok |
+| `JapanFG/shoko-chukin.md` | `M` | 6 | ok |
+| `banking/INDEX.md` | `M` | 174 | ok |
+| `business/christine-moy-talent-signal-jpm-apollo.md` | `M` | 5 | ok |
+| `business/hester-peirce-sec-regulatory-pivot-case.md` | `M` | 6 | ok |
+| `business/jamie-dimon-anti-crypto-pivot-case.md` | `M` | 6 | ok |
+| `business/kitao-yoshitaka-sbi-independent-strategy-case.md` | `M` | 6 | ok |
+| `business/larry-fink-blackrock-digital-asset-template.md` | `M` | 6 | ok |
+| `business/matt-huang-triple-role-coi-template.md` | `M` | 5 | ok |
+| `business/paolo-ardoino-tether-business-model-template.md` | `M` | 6 | ok |
+| `business/sandeep-nailwal-polygon-india-dpi-pattern.md` | `M` | 6 | ok |
+| `exchanges/INDEX.md` | `M` | 184 | ok |
 | `exchanges/fsa-foreign-exchange-warning-system.md` | `M` | 30 | ok |
-| `exchanges/global-cex-top10-comparison.md` | `M` | 12 | ok |
-| `exchanges/hk-sfc-vasp-licensing-overview.md` | `M` | 12 | ok |
-| `exchanges/jp-cex-points-economy-integration.md` | `M` | 12 | ok |
-| `exchanges/jp-listed-cex-related-companies-matrix.md` | `M` | 21 | ok |
-| `exchanges/jp-vasp-incident-history.md` | `M` | 12 | ok |
-| `exchanges/jp-vasp-regulatory-timeline.md` | `M` | 9 | ok |
-| `exchanges/jvcea-type2-associate-membership-system.md` | `M` | 10 | ok |
-| `exchanges/sg-mas-dpt-licensing-overview.md` | `M` | 11 | ok |
+| `exchanges/jp-exchange-bitbank.md` | `M` | 8 | ok |
+| `exchanges/jp-exchange-line-xenesis.md` | `M` | 8 | ok |
+| `fintech/INDEX.md` | `M` | 154 | ok |
+| `fintech/ai-payment-two-tracks.md` | `M` | 11 | ok |
+| `fintech/blackrock-buidl-tokenized-mmf-overview.md` | `M` | 9 | ok |
+| `fintech/eu-mica-implementation-status-2026.md` | `M` | 14 | ok |
+| `fintech/genius-act-501-denylist-mandate.md` | `M` | 9 | ok |
+| `fintech/hkma-stablecoin-licensing-overview.md` | `M` | 6 | ok |
+| `fintech/japan-bittrade-listing-process.md` | `M` | 7 | ok |
+| `fintech/japan-epi-three-types-overview.md` | `M` | 7 | ok |
+| `fintech/japan-financial-regulation.md` | `M` | 7 | ok |
+| `fintech/jp-stablecoin-progmat.md` | `M` | 7 | ok |
+| `fintech/jpmorgan-jpmd-coin.md` | `M` | 8 | ok |
+| `fintech/m-network-m0-neutral-infrastructure.md` | `M` | 6 | ok |
+| `fintech/mica-overview.md` | `M` | 8 | ok |
+| `fintech/multi-megabank-consortium-governance.md` | `M` | 7 | ok |
+| `fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md` | `M` | 6 | ok |
+| `fintech/paypal-pyusd-stablecoin.md` | `M` | 7 | ok |
+| `fintech/singapore-mas-payment-services-act-overview.md` | `M` | 6 | ok |
+| `fintech/stablecoin-channel-japan-sbi-jpyc-ring.md` | `M` | 7 | ok |
+| `fintech/usd-stablecoin-interchange.md` | `M` | 10 | ok |
+| `policy-finance/INDEX.md` | `M` | 47 | ok |
+| `security/INDEX.md` | `M` | 19 | ok |
+| `structured-finance/INDEX.md` | `M` | 35 | ok |
+| `systems/INDEX.md` | `M` | 76 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
 | `FinWiki` | 1 | 0 | 29.0 |
-| `JapanFG` | 580 | 0 | 17.5 |
-| `agent-economy` | 35 | 0 | 12.5 |
-| `banking` | 39 | 0 | 42.3 |
-| `business` | 18 | 0 | 14.6 |
+| `JapanFG` | 580 | 0 | 17.6 |
+| `agent-economy` | 36 | 0 | 13.1 |
+| `banking` | 40 | 0 | 44.8 |
+| `business` | 19 | 0 | 16.6 |
 | `corporate-strategy` | 6 | 0 | 13.7 |
-| `derivatives` | 29 | 0 | 22.1 |
-| `exchanges` | 137 | 0 | 12.6 |
+| `derivatives` | 31 | 0 | 21.9 |
+| `exchanges` | 139 | 0 | 12.8 |
 | `finance` | 23 | 0 | 22.8 |
-| `fintech` | 140 | 0 | 11.3 |
+| `fintech` | 144 | 0 | 11.6 |
 | `governance` | 4 | 0 | 8.8 |
-| `insurance` | 29 | 0 | 37.0 |
+| `insurance` | 32 | 0 | 44.2 |
 | `loyalty` | 5 | 0 | 19.8 |
 | `manufacturing` | 3 | 0 | 6.3 |
-| `money-market` | 11 | 0 | 19.6 |
-| `payments` | 29 | 0 | 37.0 |
+| `money-market` | 12 | 0 | 21.7 |
+| `payments` | 31 | 0 | 41.1 |
 | `policy-finance` | 35 | 0 | 23.6 |
-| `real-estate-finance` | 26 | 0 | 25.7 |
+| `real-estate-finance` | 27 | 0 | 26.8 |
 | `retail` | 5 | 0 | 22.0 |
-| `securities` | 31 | 0 | 30.4 |
+| `securities` | 32 | 0 | 30.8 |
 | `security` | 6 | 0 | 9.5 |
-| `structured-finance` | 24 | 0 | 21.0 |
-| `systems` | 61 | 0 | 10.7 |
+| `structured-finance` | 25 | 0 | 23.3 |
+| `systems` | 62 | 0 | 11.1 |
 | `trade` | 4 | 0 | 12.0 |
 
 ## Execution Notes

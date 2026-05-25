@@ -9,7 +9,7 @@ review_by: 2026-11-18
 confidence: likely
 tags: [business, people, sbi, japan, circle, ripple, independent-strategy, kitao-yoshitaka, case-study]
 sources: []
-status: candidate
+status: confirmed
 ---
 
 # 独立路线案例 · 拒绝产业联盟 + 押注跨境合规价值(北尾吉孝 / SBI)
@@ -17,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

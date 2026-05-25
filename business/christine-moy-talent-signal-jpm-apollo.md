@@ -9,7 +9,7 @@ review_by: 2026-11-18
 confidence: likely
 tags: [business, people, talent-flow, signal, prediction, rwa, tokenization]
 sources: []
-status: candidate
+status: confirmed
 ---
 
 # 关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo
@@ -17,7 +17,7 @@ status: candidate
 
 ## Wiki route
 
-This entry sits under [[business/gmo-internet-group|GMO Internet Group]]. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 

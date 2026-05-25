@@ -223,3 +223,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[finte
 - BaFin — MiCAR landing page https://www.bafin.de/EN/Aufsicht/MiCAR/MiCAR_node.html
 - ESMA Q&A on MiCA Title III/IV (v3, 2026-04, public release)
 - EBA supervisory college report on large EMT/ART (2026-Q1, public release)
+
+---
+
+**Last refresh** (2026-05-25): reconciled EURC numbers with [[fintech/mica-overview|MiCA 概览]] (both now reference €280M / ~20x USDC EU gap, replacing earlier "300x" figure); confirmed bidirectional wikilinks.

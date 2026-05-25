@@ -9,7 +9,11 @@ review_by: 2026-11-18
 confidence: likely
 tags: [fintech, governance, japan, progmat, bis, consortium, megabank, td]
 status: candidate
-sources: []
+sources:
+  - https://progmat.co.jp/
+  - https://www.mufg.jp/english/
+  - https://www.smfg.co.jp/english/
+  - https://www.mizuho-fg.com/index.html
 ---
 
 # 多巨行联合体治理

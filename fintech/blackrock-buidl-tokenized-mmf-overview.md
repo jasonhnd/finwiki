@@ -3,12 +3,16 @@ title: BlackRock BUIDL · 代币化 MMF 标杆 · "稳定币 yield 基础设施"
 aliases: [blackrock-buidl-tokenized-mmf-overview, BUIDL, BlackRock USD Institutional Digital Liquidity Fund]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, tokenization, mmf, blackrock, securitize, yield-infrastructure, rwa]
-sources: []
+sources:
+  - https://www.blackrock.com/institutions/en-us/products/335666/blackrock-usd-institutional-digital-liquidity-fund
+  - https://securitize.io/learn/blackrock-buidl
+  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002007560
+  - https://app.rwa.xyz/treasuries
 status: candidate
 ---
 
@@ -42,7 +46,7 @@ BUIDL 的 "yield 基础设施" 模型 = SC issuer 持有 BUIDL 作为储备 → 
 
 ## Counterpoints
 
-"BUIDL 一家独大"叙事是错的——Apollo ACRED 占住 private credit 赛道、Franklin BENJI 占 multi-chain naming、DTCC Project Ion 占基础设施、Goldman+BNY Canton 占银行内部 stack,2030 BUIDL 占代币化 MMF 市场预计 30-40%,**第二梯队合计 60-70%**。监管侧:OCC/FRB 2026+ 可能新增"单一代币化 MMF 不得超储备金 X%" cap,直接限制 BUIDL 的"yield 基础设施"地位。
+"BUIDL 一家独大"叙事是错的——[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 占住 private credit 赛道、Franklin BENJI 占 multi-chain naming、[[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX / Hashnote USYC]] 占非银行系 MMF 子赛道、DTCC Project Ion 占基础设施、Goldman+BNY Canton 占银行内部 stack,2030 BUIDL 占代币化 MMF 市场预计 30-40%,**第二梯队合计 60-70%**。监管侧:OCC/FRB 2026+ 可能新增"单一代币化 MMF 不得超储备金 X%" cap,直接限制 BUIDL 的"yield 基础设施"地位。
 
 ## Open questions
 
@@ -56,7 +60,13 @@ BSTBL (2a-7 注册公募的链上份额) 会否成为比 BUIDL 更大的产品?C
 - [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED · 私募信贷代币化]]
 - [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
 - [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构]]
+- [[fintech/tokenized-mmf-wisdomtree-hashnote|代币化 MMF 矩阵 · WisdomTree / Hashnote]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC · BUIDL 最大机构 LP 之一]]
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+---
+
+**Last refresh** (2026-05-25): refreshed dates; added tokenized-MMF matrix wikilink (WisdomTree/Hashnote) and Circle USDC reserve-LP wikilink.
 

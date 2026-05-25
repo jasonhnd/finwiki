@@ -11,7 +11,11 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, regulation, stablecoin, occ, charter, bridge, mtl, fedwire]
 status: candidate
-sources: []
+sources:
+  - https://www.occ.gov/topics/charters-and-licensing/index-charters-and-licensing.html
+  - https://www.occ.gov/news-issuances/news-releases/index-news-releases.html
+  - https://www.federalreserve.gov/paymentsystems/fedwire_about.htm
+  - https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html
 ---
 
 # OCC trust bank charter 作为联邦稳定币银行套利路径

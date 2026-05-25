@@ -3,12 +3,16 @@ title: 欧盟 MiCA · Markets in Crypto-Assets Regulation 概览
 aliases: [mica-overview, MiCA EU, EU stablecoin regulation]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-25
+last_tended: 2026-05-25
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, eu, stablecoin, mica]
-sources: []
+sources:
+  - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
+  - https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
+  - https://www.eba.europa.eu/regulation-and-policy/markets-crypto-assets-mica
+  - https://finance.ec.europa.eu/digital-finance/crypto-assets_en
 status: candidate
 ---
 
@@ -26,7 +30,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - MiCA 2023-06 通过 / 2024-12 全面生效 ^[extracted]
 - 第一批 MiCA EMT 持牌方约 10-15 家 ^[extracted]
-- EURC 2026 流通约 €200-500M(vs USDC $60B+,欧元市场极小)^[extracted]
+- EURC 2026-05 流通 €280M(vs USDC EU 流通 ~$8B,差距已从 300x 缩窄到 ~20x)^[extracted] · 详见 [[fintech/eu-mica-implementation-status-2026|EU MiCA 实施状态 2026-05]] 与 [[fintech/circle-usdc-stablecoin|Circle USDC / EURC issuer]]
 - 大型 ART > €5B 的 issuer 限制条款抑制 USDT 类美元 SC 在欧盟扩张 ^[extracted]
 - USDT 在欧盟份额 2024-12 ~28% → 2026-05 ~3% ^[extracted]
 - algorithmic stablecoins MiCA 明文禁止(UST 崩盘后果)^[extracted]
@@ -67,7 +71,13 @@ MiCA 2020-09 EU Commission Digital Finance Package 一部分提案。2023-06 通
 - [[fintech/mica-cross-border-implications|MiCA 跨境含义]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC / EURC issuer]]
+- [[fintech/eu-mica-implementation-status-2026|EU MiCA 实施状态 2026-05]]
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+---
+
+**Last refresh** (2026-05-25): synced EURC 2026-05 numbers (€280M) with `eu-mica-implementation-status-2026`; added Circle USDC and implementation-status wikilinks.
 
