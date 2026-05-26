@@ -48,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. 事業セグメント・マップ
 
-| 业务线 | 内容 | 日本での位置づけ |
+| 事業 | 内容 | 日本での位置づけ |
 |---|---|---|
 | ホールセール銀行 | 法人向け与信、トレード、外為 | 多国籍企業・金融機関向け |
 | マーケッツ | 株式、FX、債券、コモディティ、デリバティブ | 欧州系 structured products 強み |

@@ -141,7 +141,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Counterpoints
 
-- 「地場 No.1 但是規模制約」：県内シェア No.1 でも全国規模では大手 3 損保の 1% 未満。商品開発リソース・IT 投資に限界 ^[inferred]
+- 「地場 No.1 ただし規模制約」：県内シェア No.1 でも全国規模では大手 3 損保の 1% 未満。商品開発リソース・IT 投資に限界 ^[inferred]
 - 「[[sompo]] 依存リスク」：再保険・商品ライセンス・全国網を 1 社に依存 → 提携条件変更時のリスク ^[inferred]
 - 「観光集中リスク」：コロナ・台風・地政学リスクで観光客急減 → 旅行傷害・レンタカー保険のボラティリティ ^[inferred]
 - 「気候変動」：台風大型化で再保険コスト上昇 → 収益圧迫の構造課題 ^[inferred]

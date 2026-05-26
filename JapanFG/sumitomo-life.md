@@ -151,4 +151,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 Wikipedia + 公式沿革 校核 2026-05-19）。**公开信息のみ**で構成。非上場相互会社のため詳細財務（純利益・総資産）は有価証券報告書ベースで時点変動あり、最新値は住友生命ディスクロージャー誌（毎年公表）を要参照。
+> confidence: **likely**（v1.0 Wikipedia + 公式沿革 校核 2026-05-19）。**公開情報のみ**で構成。非上場相互会社のため詳細財務（純利益・総資産）は有価証券報告書ベースで時点変動あり、最新値は住友生命ディスクロージャー誌（毎年公表）を要参照。

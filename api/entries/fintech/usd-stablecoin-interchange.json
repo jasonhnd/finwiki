@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/usd-stablecoin-interchange.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/usd-stablecoin-interchange.md",
   "domain": "fintech",
-  "title": "USD 稳定币互换市场",
+  "title": "USD ステーブルコイン互換市場",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "USD 稳定币互换市场——$33 万亿轨道上的 0.01% 生意",
+    "title": "USD ステーブルコイン互換市場 — $33 兆規模レール上の 0.01% ビジネス",
     "aliases": [],
     "domain": "fintech",
     "created": "2026-04-16",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-10-30",
     "confidence": "certain",
     "tags": [
@@ -31,7 +31,7 @@
   },
   "summary": "This entry sits under fintech index. Read it against 日本金融規制 — トークン・暗号資産・決済に関する法体系 for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
   "headings": [
-    "USD 稳定币互换市场",
+    "USD ステーブルコイン互換市場",
     "Wiki route",
     "Related"
   ],
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2052,
-    "word_like_tokens": 334,
+    "nonspace_chars": 2246,
+    "word_like_tokens": 341,
     "inbound_wikilinks_count": 42,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

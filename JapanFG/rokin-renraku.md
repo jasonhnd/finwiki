@@ -49,7 +49,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. 事業セグメント・マップ
 
-| 业务线 | 内容 | 役割 |
+| 事業 | 内容 | 役割 |
 |---|---|---|
 | 資金需給調整 | 会員労金との預金・貸出取引 | 業態内中央銀行 |
 | 余裕資金運用 | 会員労金の余裕資金を市場運用 | 機関投資家機能 |

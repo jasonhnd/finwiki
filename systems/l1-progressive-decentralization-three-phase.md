@@ -25,6 +25,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS §501 Denylist]]
-- [[systems/threshold-bft-consensus-rust-implementations|BFT Rust 实现]]
+- [[systems/threshold-bft-consensus-rust-implementations|BFT Rust 実装]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币公链 Token 三态]]
 <!-- /wiki-links:managed -->
