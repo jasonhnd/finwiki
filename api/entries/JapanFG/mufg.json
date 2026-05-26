@@ -54,7 +54,7 @@
     "三菱 UFJ FG (MUFG)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "2026-03 期決算 (FY2026・連結, 2026-05-15 公表) ^[extracted]",
     "FY2027/3 業績予想 ^[extracted]",
     "2025-03 期決算（連結・前期比較用）^[extracted]",
@@ -92,8 +92,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14474,
-    "word_like_tokens": 2940,
+    "nonspace_chars": 14460,
+    "word_like_tokens": 2933,
     "inbound_wikilinks_count": 137,
     "last_modified": "2026-05-26"
   }
