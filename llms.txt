@@ -6,8 +6,13 @@
 
 - Human homepage: https://finwiki.zksc.io/
 - Global index: https://finwiki.zksc.io/INDEX
+- Task-oriented LLM entry guide (16 research tasks): https://finwiki.zksc.io/llms-tasks.txt
 - Machine JSON index: https://finwiki.zksc.io/ai-index.json
+- Per-entry JSON API (1 file per entry, frontmatter + summary + links + inbound count): https://finwiki.zksc.io/api/entries/index.json
 - Full LLM page manifest: https://finwiki.zksc.io/llms-full.txt
+- Reader-profile navigation guide: https://finwiki.zksc.io/HOW-TO-NAVIGATE
+- Topic cluster reference (14 thematic clusters): https://finwiki.zksc.io/topic-cluster-reference
+- Domain bridge navigation guide (14 reader journeys): https://finwiki.zksc.io/domain-bridge-navigation-guide
 - XML sitemap: https://finwiki.zksc.io/sitemap.xml
 
 ## Current Snapshot
@@ -22,10 +27,12 @@
 
 ## URL Rules for AI Readers
 
-- Obsidian wikilinks are vault-root paths. Resolve `[[fintech/mica-overview]]` as `https://finwiki.zksc.io/fintech/mica-overview`.
+- Obsidian wikilinks are vault-root paths. Resolve `[[fintech/mica-overview]]` as `https://finwiki.zksc.io/fintech/mica-overview` (no `.md` suffix — GitHub Pages strips it).
 - Resolve `[[domain/INDEX]]` as `https://finwiki.zksc.io/domain/INDEX`.
-- If a rendered page is not available, use the `github_url` field in `ai-index.json` as the source fallback.
-- Prefer `ai-index.json` for programmatic traversal and `llms-full.txt` for a compact text manifest.
+- Do NOT append `.md` to URLs — `https://finwiki.zksc.io/fintech/circle-usdc-stablecoin.md` returns 404. Use the extensionless URL or fetch raw markdown from `https://raw.githubusercontent.com/jasonhnd/finwiki/main/<domain>/<slug>.md`.
+- For a single entry's metadata in one request (frontmatter / summary / headings / wikilinks / inbound count), fetch `https://finwiki.zksc.io/api/entries/<domain>/<slug>.json`.
+- For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.
+- For research tasks ('how do I find entries about X?'), start at `llms-tasks.txt` — 16 common tasks each with a start file + bedrock follow-ups + matrix anchor.
 
 ## Domains
 
