@@ -111,7 +111,7 @@ OFAC has not issued specific Agora-related guidance as of 2026-05, but Treasury 
 - US-supervised participating banks must apply OFAC screening at the wallet/address level.
 - A central bank participating in Agora does not enjoy sovereign-immunity insulation for participating commercial banks' compliance obligations.
 
-The chilling effect: **some emerging-market central banks may decline to join Agora** because participation imposes US sanctions screening obligations on their commercial bank participants. This pushes them toward mBridge instead, which by virtue of having no US central bank doesn't impose US sanctions screening at the platform level. See [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list = 货币保护主义]] for the broader pattern.
+The chilling effect: **some emerging-market central banks may decline to join Agora** because participation imposes US sanctions screening obligations on their commercial bank participants. This pushes them toward mBridge instead, which by virtue of having no US central bank doesn't impose US sanctions screening at the platform level. See [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list = 通貨保護主義]] for the broader pattern.
 
 ## CBDC vs tokenized-deposit architecture trade-off
 
@@ -166,7 +166,7 @@ The cross-border net is that **all three poles will need some interop**, eventua
 - Does Russia formally apply to mBridge, and if so does the US trigger secondary sanctions on participating commercial banks?
 - Does BlackRock's BUIDL + Agora integration become the **template** for institutional tokenized-MMF cross-border distribution?
 - Does the GENIUS Act federal stablecoin framework (see [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]) push private USD stablecoins into the Agora architecture or keep them on a parallel commercial track?
-- Does the FX-onchain final-boss thesis (see [[fintech/fx-onchain-as-stablecoin-final-boss|FX 链上化作为 stablecoin final boss]]) play out within Agora or outside it?
+- Does the FX-onchain final-boss thesis (see [[fintech/fx-onchain-as-stablecoin-final-boss|FX オンチェーン化が stablecoin の final boss となる]]) play out within Agora or outside it?
 
 ## Related
 
@@ -185,7 +185,7 @@ The cross-border net is that **all three poles will need some interop**, eventua
 - [[fintech/mbridge-six-central-banks-roster|mBridge 六央行 roster]]
 - [[fintech/institutional-stablecoin-deposit-token-thesis|deposit token 论题]]
 - [[fintech/onchain-finance-vs-crypto-bifurcation|on-chain finance vs crypto 分叉]]
-- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list = 货币保护主义]]
+- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list = 通貨保護主義]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/formal-spec-implementation-codesign.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/formal-spec-implementation-codesign.md",
   "domain": "systems",
-  "title": "形式化规范 ↔ 实现 co-design",
+  "title": "形式化仕様 ↔ 実装 co-design",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "形式化规范 ↔ 实现 co-design —— Quint × Malachite 范式",
+    "title": "形式化仕様 ↔ 実装 co-design —— Quint × Malachite パラダイム",
     "aliases": [
       "formal-implementation co-design",
       "Quint Malachite codesign",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against Threshold BFT コンセンサス Rust 化トレンド（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "形式化规范 ↔ 实现 co-design",
+    "形式化仕様 ↔ 実装 co-design",
     "Wiki route",
     "Related"
   ],
@@ -62,9 +62,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 983,
+    "nonspace_chars": 992,
     "word_like_tokens": 153,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

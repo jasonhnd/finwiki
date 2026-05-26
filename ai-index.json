@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-26T19:32:11+09:00",
+  "generated_at": "2026-05-26T20:29:51+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10518175,
-    "word_like_tokens": 1661412
+    "nonspace_utf8_chars": 10519027,
+    "word_like_tokens": 1661453
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -7007,7 +7007,7 @@
         "https://finwiki.zksc.io/tokio-marine"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4283,
+      "nonspace_chars": 4284,
       "word_like_tokens": 517,
       "last_modified": "2026-05-26"
     },
@@ -25429,7 +25429,7 @@
         "https://finwiki.zksc.io/banking/rokin-bank-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2671,
+      "nonspace_chars": 2670,
       "word_like_tokens": 368,
       "last_modified": "2026-05-26"
     },
@@ -28762,7 +28762,7 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3380,
+      "nonspace_chars": 3379,
       "word_like_tokens": 433,
       "last_modified": "2026-05-26"
     },
@@ -54721,9 +54721,9 @@
         "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation"
       ],
       "markdown_links": [],
-      "nonspace_chars": 17033,
-      "word_like_tokens": 2727,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 17040,
+      "word_like_tokens": 2729,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "fintech/bis-project-agora-overview.md",
@@ -55340,12 +55340,12 @@
       "source_path": "fintech/carf-1099da-end-of-crypto-anonymity.md",
       "url": "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/carf-1099da-end-of-crypto-anonymity.md",
-      "title": "CARF + 1099-DA = 跨境加密匿名性彻底终结",
+      "title": "CARF + 1099-DA = クロスボーダー暗号資産匿名性の完全終焉",
       "domain": "fintech",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
       "headings": [
-        "CARF + 1099-DA = 跨境加密匿名性彻底终结",
+        "CARF + 1099-DA = クロスボーダー暗号資産匿名性の完全終焉",
         "Wiki route",
         "Related"
       ],
@@ -55372,9 +55372,9 @@
         "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2371,
-      "word_like_tokens": 399,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 2608,
+      "word_like_tokens": 405,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "fintech/cbbtc-institutional-btc-wrapper.md",
@@ -58183,12 +58183,12 @@
       "source_path": "fintech/japan-epi-four-camps-comparison.md",
       "url": "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-epi-four-camps-comparison.md",
-      "title": "日本 SC 四阵营对比 · §501(d) 视角下 SBI Circle = #1",
+      "title": "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
       "domain": "fintech",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
       "headings": [
-        "日本 SC 四阵营对比 · §501(d) 视角下 SBI Circle = #1",
+        "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
         "Wiki route",
         "Key facts",
         "Mechanism / How it works",
@@ -58225,9 +58225,9 @@
         "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2852,
-      "word_like_tokens": 527,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3046,
+      "word_like_tokens": 542,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "fintech/japan-epi-three-types-overview.md",
@@ -61604,12 +61604,12 @@
       "source_path": "fintech/usd-stablecoin-interchange.md",
       "url": "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/usd-stablecoin-interchange.md",
-      "title": "USD 稳定币互换市场",
+      "title": "USD ステーブルコイン互換市場",
       "domain": "fintech",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under fintech index. Read it against 日本金融規制 — トークン・暗号資産・決済に関する法体系 for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
       "headings": [
-        "USD 稳定币互换市场",
+        "USD ステーブルコイン互換市場",
         "Wiki route",
         "Related"
       ],
@@ -61642,9 +61642,9 @@
         "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2052,
-      "word_like_tokens": 334,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 2246,
+      "word_like_tokens": 341,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "fintech/usd-stablecoin-issuer-eight-way-matrix.md",
@@ -82184,12 +82184,12 @@
       "source_path": "systems/dag-bft-vs-chain-bft-architecture.md",
       "url": "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/dag-bft-vs-chain-bft-architecture.md",
-      "title": "DAG-BFT vs Chain-BFT 架构本质分歧",
+      "title": "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
       "domain": "systems",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and 智能合约 bytecode forensic — 三层 verify 技术 for the broader system boundary.",
+      "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and スマートコントラクト bytecode forensic — 3 層 verify 技術 for the broader system boundary.",
       "headings": [
-        "DAG-BFT vs Chain-BFT 架构本质分歧",
+        "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
         "Wiki route",
         "Related"
       ],
@@ -82214,9 +82214,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2618,
-      "word_like_tokens": 428,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 2830,
+      "word_like_tokens": 439,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "systems/data-availability-celestia-eigenda-blob-comparison.md",
@@ -82512,7 +82512,7 @@
       "markdown_links": [],
       "nonspace_chars": 948,
       "word_like_tokens": 157,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "systems/erc-4337-embedded-wallet-adoption.md",
@@ -82750,12 +82750,12 @@
       "source_path": "systems/formal-spec-implementation-codesign.md",
       "url": "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/formal-spec-implementation-codesign.md",
-      "title": "形式化规范 ↔ 实现 co-design",
+      "title": "形式化仕様 ↔ 実装 co-design",
       "domain": "systems",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under systems index. Read it against Threshold BFT コンセンサス Rust 化トレンド（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
       "headings": [
-        "形式化规范 ↔ 实现 co-design",
+        "形式化仕様 ↔ 実装 co-design",
         "Wiki route",
         "Related"
       ],
@@ -82776,9 +82776,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 983,
+      "nonspace_chars": 992,
       "word_like_tokens": 153,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "systems/hook-enforced-compliance.md",
@@ -83203,7 +83203,7 @@
       "markdown_links": [],
       "nonspace_chars": 967,
       "word_like_tokens": 140,
-      "last_modified": "2026-05-21"
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "systems/l2-agent-economics-arbitrum-base-op-comparison.md",

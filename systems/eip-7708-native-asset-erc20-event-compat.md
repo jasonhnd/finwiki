@@ -24,7 +24,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/threshold-bft-consensus-rust-implementations|BFT Rust 实现]]
+- [[systems/threshold-bft-consensus-rust-implementations|BFT Rust 実装]]
 - [[systems/multi-proof-aggregation-fault-prover|多证明聚合 fault prover]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币公链 Token 三态]]
 <!-- /wiki-links:managed -->

@@ -174,4 +174,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (公开情報ベース、Wikipedia + 公式ディスクロージャー + 金融庁 registry 由来)。会員信組数は 2026-02-20 金融庁 registry で 143、組合再編により年次変動あり。詳細財務指標は要 IR 直接確認。信金中金との対比規模は業界相対的概算。
+> confidence: **likely** (公開情報ベース、Wikipedia + 公式ディスクロージャー + 金融庁 registry 由来)。会員信組数は 2026-02-20 金融庁 registry で 143、組合再編により年次変動あり。詳細財務指標は要 IR 直接確認。信金中金との対比規模は業界相対的概算。

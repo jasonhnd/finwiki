@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-26T19:32:25+09:00",
+  "generated_at": "2026-05-26T20:30:08+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1404,
   "entries": [
@@ -6769,7 +6769,7 @@
     {
       "slug": "fintech/carf-1099da-end-of-crypto-anonymity",
       "domain": "fintech",
-      "title": "CARF + 1099-DA = 跨境加密匿名性彻底终结",
+      "title": "CARF + 1099-DA = クロスボーダー暗号資産匿名性の完全終焉",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/carf-1099da-end-of-crypto-anonymity.json",
       "html_url": "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity"
     },
@@ -7140,7 +7140,7 @@
     {
       "slug": "fintech/japan-epi-four-camps-comparison",
       "domain": "fintech",
-      "title": "日本 SC 四阵营对比 · §501(d) 视角下 SBI Circle = #1",
+      "title": "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-epi-four-camps-comparison.json",
       "html_url": "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison"
     },
@@ -7588,7 +7588,7 @@
     {
       "slug": "fintech/usd-stablecoin-interchange",
       "domain": "fintech",
-      "title": "USD 稳定币互换市场",
+      "title": "USD ステーブルコイン互換市場",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/usd-stablecoin-interchange.json",
       "html_url": "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
     },
@@ -9527,7 +9527,7 @@
     {
       "slug": "systems/dag-bft-vs-chain-bft-architecture",
       "domain": "systems",
-      "title": "DAG-BFT vs Chain-BFT 架构本质分歧",
+      "title": "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/dag-bft-vs-chain-bft-architecture.json",
       "html_url": "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture"
     },
@@ -9611,7 +9611,7 @@
     {
       "slug": "systems/formal-spec-implementation-codesign",
       "domain": "systems",
-      "title": "形式化规范 ↔ 实现 co-design",
+      "title": "形式化仕様 ↔ 実装 co-design",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/formal-spec-implementation-codesign.json",
       "html_url": "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign"
     },

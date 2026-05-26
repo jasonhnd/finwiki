@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/dag-bft-vs-chain-bft-architecture.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/dag-bft-vs-chain-bft-architecture.md",
   "domain": "systems",
-  "title": "DAG-BFT vs Chain-BFT 架构本质分歧",
+  "title": "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "DAG-BFT vs Chain-BFT 架构本质分歧（mempool 抽象之争）",
+    "title": "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐（mempool 抽象の争点）",
     "aliases": [
       "DAG BFT",
       "chain BFT",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-13",
-    "last_updated": "2026-05-13",
-    "last_tended": "2026-05-13",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-13",
     "confidence": "certain",
     "tags": [
@@ -33,9 +33,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and 智能合约 bytecode forensic — 三层 verify 技术 for the broader system boundary.",
+  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and スマートコントラクト bytecode forensic — 3 層 verify 技術 for the broader system boundary.",
   "headings": [
-    "DAG-BFT vs Chain-BFT 架构本质分歧",
+    "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
     "Wiki route",
     "Related"
   ],
@@ -65,9 +65,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2618,
-    "word_like_tokens": 428,
+    "nonspace_chars": 2830,
+    "word_like_tokens": 439,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }
