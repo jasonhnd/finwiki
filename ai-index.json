@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-26T10:56:38+09:00",
+  "generated_at": "2026-05-26T14:02:07+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10434087,
-    "word_like_tokens": 1659298
+    "nonspace_utf8_chars": 10443329,
+    "word_like_tokens": 1661130
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -20940,9 +20940,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8897,
-      "word_like_tokens": 1830,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 14474,
+      "word_like_tokens": 2940,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "JapanFG/munich-re-japan.md",
@@ -28568,9 +28568,9 @@
         "https://finwiki.zksc.io/ssnb"
       ],
       "markdown_links": [],
-      "nonspace_chars": 10958,
-      "word_like_tokens": 2158,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 14623,
+      "word_like_tokens": 2880,
+      "last_modified": "2026-05-26"
     },
     {
       "source_path": "JapanFG/smfl.md",

@@ -19,13 +19,16 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-18",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2026-11-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-26",
     "confidence": "certain",
     "tags": [
       "JapanFG",
-      "megabank"
+      "megabank",
+      "basel-iii",
+      "governance",
+      "regulatory-ledger"
     ],
     "status": "active",
     "sources": [
@@ -33,7 +36,17 @@
       "MUFG 第 20 期 (2025-03 期) 有価証券報告書 (2025-06-25)",
       "MUFG 第 21 期 (2026-03 期) 決算短信 (2026-05-15 公表): https://www.mufg.jp/dam/ir/fs/2025/pdf/summary2603_ja.pdf",
       "MUFG IR: https://www.mufg.jp/ir/ (2026-05-19 IR Day 資料)",
-      "Nikkei 銘柄ニュース 8306 (2026-05-19 取得)"
+      "Nikkei 銘柄ニュース 8306 (2026-05-19 取得)",
+      "MUFG 2026-03 期 決算説明資料: https://www.mufg.jp/dam/ir/presentation/2025/pdf/slides2603_ja.pdf",
+      "MUFG 2026-03 期 Databook (セグメント詳細): https://www.mufg.jp/dam/ir/presentation/2025/pdf/databook2603.pdf",
+      "MUFG 取締役・執行役一覧 (2026-04-01 時点): https://www.mufg.jp/profile/overview/management/index.html",
+      "NY DFS Consent Order 2013-06-20 (OFAC 制裁回避 USD 250M): https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1306201",
+      "NY DFS Consent Order 2014-11-18 (虚偽報告 USD 315M): https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1411181",
+      "UK PRA 2017-02-09 (GBP 26.78M): https://www.bankofengland.co.uk/news/2017/february/pra-imposes-fine-on-the-bank-of-tokyo-mitsubishi-ufj-limited-and-fine-on-mufg-securities-emea-plc",
+      "CFTC 2017-08-07 spoofing 自主申告: https://www.cftc.gov/PressRoom/PressReleases/7598-17",
+      "OCC Cease & Desist 2019-02-21: https://www.occ.gov/news-issuances/news-releases/2019/nr-occ-2019-20.html",
+      "FSA 業務改善命令 2024-06-24 (銀証ファイアウォール越境): https://www.fsa.go.jp/news/r5/shouken/20240624-2/20240624.html",
+      "SEC Settled Charges 2025-08-06 (MUFG Securities EMEA, SBSD): https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 三井住友 FG (SMFG / SMBC グループ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -79,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8897,
-    "word_like_tokens": 1830,
+    "nonspace_chars": 14474,
+    "word_like_tokens": 2940,
     "inbound_wikilinks_count": 137,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,11 +3,11 @@ title: 三菱 UFJ FG (MUFG)
 aliases: ["MUFG", "Mitsubishi UFJ FG", "三菱 UFJ フィナンシャル・グループ", "三菱 UFJ FG", "Mitsubishi UFJ Financial Group"]
 domain: JapanFG
 created: 2026-05-18
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
+review_by: 2026-11-26
 confidence: certain
-tags: [JapanFG, megabank]
+tags: [JapanFG, megabank, basel-iii, governance, regulatory-ledger]
 status: active
 sources:
   - "Wikipedia: 三菱UFJフィナンシャル・グループ (2026-05-18 抽出)"
@@ -15,6 +15,16 @@ sources:
   - "MUFG 第 21 期 (2026-03 期) 決算短信 (2026-05-15 公表): https://www.mufg.jp/dam/ir/fs/2025/pdf/summary2603_ja.pdf"
   - "MUFG IR: https://www.mufg.jp/ir/ (2026-05-19 IR Day 資料)"
   - "Nikkei 銘柄ニュース 8306 (2026-05-19 取得)"
+  - "MUFG 2026-03 期 決算説明資料: https://www.mufg.jp/dam/ir/presentation/2025/pdf/slides2603_ja.pdf"
+  - "MUFG 2026-03 期 Databook (セグメント詳細): https://www.mufg.jp/dam/ir/presentation/2025/pdf/databook2603.pdf"
+  - "MUFG 取締役・執行役一覧 (2026-04-01 時点): https://www.mufg.jp/profile/overview/management/index.html"
+  - "NY DFS Consent Order 2013-06-20 (OFAC 制裁回避 USD 250M): https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1306201"
+  - "NY DFS Consent Order 2014-11-18 (虚偽報告 USD 315M): https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1411181"
+  - "UK PRA 2017-02-09 (GBP 26.78M): https://www.bankofengland.co.uk/news/2017/february/pra-imposes-fine-on-the-bank-of-tokyo-mitsubishi-ufj-limited-and-fine-on-mufg-securities-emea-plc"
+  - "CFTC 2017-08-07 spoofing 自主申告: https://www.cftc.gov/PressRoom/PressReleases/7598-17"
+  - "OCC Cease & Desist 2019-02-21: https://www.occ.gov/news-issuances/news-releases/2019/nr-occ-2019-20.html"
+  - "FSA 業務改善命令 2024-06-24 (銀証ファイアウォール越境): https://www.fsa.go.jp/news/r5/shouken/20240624-2/20240624.html"
+  - "SEC Settled Charges 2025-08-06 (MUFG Securities EMEA, SBSD): https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf"
 ---
 
 # 三菱 UFJ FG (MUFG)
@@ -233,6 +243,104 @@ MUFG（持株会社・上場 8306）
 | 5 | 亀澤宏規 | 2020-04〜2026-03 | 東大理学 |
 | 6 | **半沢淳一** | **2026-04〜現職** | 東大経済 |
 
+## 5. 銀行 KPI（Basel III + 収益性指標, FY2026 実績）^[extracted]
+
+| 指標 | FY2026 (2026-03) | 中期目標 | 備考 |
+|---|---|---|---|
+| ROE (連結) | **11.3%** | 12% (FY2027) | YoY +2.1ppt |
+| CET1 ratio (基礎, バーゼル III 完全実施ベース) | **9.2%** | 9.5%〜10.5% (FY2027) | 規制上限 9.5% を視野 |
+| CET1 ratio (有価証券含み益込) | **10.8%** | — | FY2024: 10.3% → FY2025: 10.1% → FY2026: 10.8% |
+| 配当性向 (FY2026) | **40.1%** | 40% 程度 (中期方針) | FY2022 35.3% → FY2026 40.1% で段階的引上げ |
+| 株主還元総額 (FY2026) | **9,760 億円** | — | 配当 5,000 億 + 自社株買 4,000 億 + 追加 760 億 (2026-05-15 発表) |
+| EPS | **213.17 円** | — | YoY +33.2% |
+| 1 株配当 | **86 円** | — | YoY +34.4% (FY2022 32 → FY2026 86, CAGR 32%) |
+
+(出典: MUFG 2026-03 期 決算説明資料 slides2603_ja.pdf, p.7-10 / databook2603.pdf, 2026-05-15 公表)
+
+> NIM (純利鞘) / 不良債権比率 / 経費率 (cost-income) は本 entry での個別開示なし。連結 disclosurereferred to 三菱 UFJ 銀行 単体 Basel III Pillar 3 報告 (https://www.mufg.jp/ir/report/basel3/) を要参照。^[needs-verification]
+
+## 6. Business Model Anatomy（FY2026 セグメント構成, 連結）^[extracted]
+
+**業務粗利益** (Gross profits) 5,991.3 億 (YoY +24.6%) の内訳:
+
+| セグメント | FY2026 (¥億) | 顧客部門比 | YoY | 主な事業者 |
+|---|---|---|---|---|
+| R&D + CWM (国内 retail / 法人 / 富裕層) | 1,064.6 | 19% | +13.1% | MUFG Bank 国内・三菱 UFJ 信託 |
+| JCIB (日系大企業 IB) | 1,125.9 | 20% | +9.9% | MUFG Bank 法人・MUMSS |
+| GCIB (Global 大企業 IB) | 1,081.5 | 19% | +18.8% | MUFG Bank 海外・MUFG Securities |
+| GCB (Global Commercial Banking) | 904.2 | 16% | -6.7% | KS + BDI + その他海外現法 |
+| ├── KS (Krungsri / タイ) | 706.2 | — | -7.8% | Bank of Ayudhya PCL |
+| └── BDI (Bank Danamon / インドネシア) | 187.7 | — | +1.3% | PT Bank Danamon Indonesia, Tbk. |
+| AM / IS (資産運用・受託) | 866.9 | 15% | +19.2% | 三菱 UFJ AM・三菱 UFJ 信託 (受託) |
+| Global Markets (市場部門) | 306.9 | — | +190.4% | MUFG Bank Treasury / MUFG Securities S&T |
+| その他 (consolidation) | 19.3 | — | — | — |
+| **合計** | **5,991.3** | 100% | +24.6% | |
+
+**営業純益** (Net operating profits) 2,365.4 億 (YoY +51.1%) の内訳:
+
+| セグメント | FY2026 (¥億) | 顧客部門比 | YoY |
+|---|---|---|---|
+| R&D + CWM | 285.9 | 11% | +2.8% |
+| JCIB | 707.0 | 28% | +11.1% |
+| GCIB | 580.3 | 23% | +25.9% |
+| GCB | 387.6 | 15% | -11.5% |
+| ├── KS | 345.9 | — | -12.6% |
+| └── BDI | 83.8 | — | +2.5% |
+| AM / IS | 152.5 | 6% | +12.5% |
+| Global Markets | (35.5) | — | +94.6% (損失幅縮小) |
+| その他 | (120.3) | — | — |
+| **合計** | **2,365.4** | 100% | +51.1% |
+
+(出典: MUFG 2026-03 期 Databook p.39 [databook2603.pdf], 2026-05-15 公表)
+
+> **読み方**: JCIB + GCIB + GCB の 3 法人 IB セグメント合計が業務粗利益で 55%・営業純益で 66% を占め、**法人 IB 主導** の収益構造。Global Markets は FY2025 から FY2026 で大幅黒字化 (FY2025: -339.5 → FY2026: +306.9)、金利正常化の追い風。GCB (KS+BDI) はタイ・インドネシアの現地金利・為替で YoY マイナス。
+
+## 7. 現任董事会 + コーポレートガバナンス（2026-04-01 時点）^[extracted]
+
+| 項目 | 数 / 内容 |
+|---|---|
+| 取締役 合計 | **16 名** |
+| 社外取締役 | **9 名 (56.3%)** |
+| 社内取締役 | 7 名 (43.7%) |
+| 女性取締役 | **4 名 (25.0%)** |
+| 外国人取締役 | **2 名 (12.5%)** — Mari Elka Pangestu (インドネシア), David Sneider |
+| 機関設計 | 指名委員会等設置会社 (2015-06 移行) |
+
+### 社外取締役 (9 名, 2026-04-01)
+本田 桂子 / 桑原 聡子 / 野本 弘文 / Mari Elka Pangestu / 清水 博 / David Sneider / 鈴木 みゆき / 辻 幸一 / 上田 輝久
+
+### 社内取締役 (7 名, 2026-04-01)
+新家 良一 / 安田 敬之 / 亀澤 宏規 (前社長) / **半沢 淳一 (現社長, 6 代)** / 三毛 兼承 (4 代社長) / 小林 真 / 窪田 博
+
+(出典: MUFG 取締役・執行役一覧 2026-04-01 https://www.mufg.jp/profile/overview/management/index.html)
+
+## 8. 監管账本（公開規制処分一覧, 2010-2026）^[extracted]
+
+国内外の主要規制当局による公開処分・課徴金・consent order 等の一覧。MUFG Bank・三菱 UFJ 証券 HD・MUMSS 等子会社含む。
+
+| 日付 | 規制当局 | 対象 | 処分種別 | 金額 | 概要 |
+|---|---|---|---|---|---|
+| 2013-06-20 | NY DFS | 旧 Bank of Tokyo-Mitsubishi UFJ | Consent order | **USD 250M** | OFAC 制裁回避 (Iran/Sudan/Myanmar 向け USD 決済 2002-07) |
+| 2014-11-18 | NY DFS | 旧 Bank of Tokyo-Mitsubishi UFJ | Consent order | **USD 315M** | DFS への虚偽報告・PwC コンサルへの圧力 (制裁レポート緩和) |
+| 2017-02-09 | UK PRA | BTMU + MUFG Securities EMEA | Financial penalty | **GBP 26.78M** | NYDFS 調査の PRA への不開示 |
+| 2017-08-07 | CFTC | Bank of Tokyo-Mitsubishi UFJ | Settlement | USD 0.6M | 米国債・Eurodollar 先物の spoofing (自主申告) |
+| 2019-02-21 | OCC | MUFG Bank (NY / シカゴ / LA 支店) | Cease & desist | (無金銭) | BSA 違反・内部統制・SAR モニタリング不足 |
+| 2019-06-24 | NY DFS | MUFG Bank | Settlement | **USD 33M** | チャーター変更・examiner 論争 |
+| **2024-06-24** | **金融庁 (FSA)** | **三菱 UFJ 銀行 + MUMSS + MS MUFG 証券** | **業務改善命令** | (無金銭) | **非公開顧客情報の銀証ファイアウォール越境共有 (2019-23 で 100 件以上)** |
+| 2025-08-06 | SEC | MUFG Securities EMEA | Settled charges | **USD 9.8M** | SBSD 代替適合違反 (2021-24) |
+
+(出典: 各規制当局公式プレスリリース・2026-05-26 校核)
+
+- 2013-06-20 NY DFS: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1306201
+- 2014-11-18 NY DFS: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1411181
+- 2017-02-09 UK PRA: https://www.bankofengland.co.uk/news/2017/february/pra-imposes-fine-on-the-bank-of-tokyo-mitsubishi-ufj-limited-and-fine-on-mufg-securities-emea-plc
+- 2017-08-07 CFTC: https://www.cftc.gov/PressRoom/PressReleases/7598-17
+- 2019-02-21 OCC: https://www.occ.gov/news-issuances/news-releases/2019/nr-occ-2019-20.html
+- 2024-06-24 FSA: https://www.fsa.go.jp/news/r5/shouken/20240624-2/20240624.html
+- 2025-08-06 SEC: https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf
+
+> **観察**: 2010 年代の処分は主に **米国 OFAC / BSA / AML 系** (NY DFS / OCC) と **CFTC spoofing** に集中。2024-06 の金融庁業務改善命令は **国内ファイアウォール規制違反** で、海外 IB ファースト戦略のガバナンス課題が顕在化したケース。
+
 ## Counterpoints
 
 - 「海外集中＝個人デジタル弱」観: メガ 3 行で個人デジタル統合が最弱（vs [[smfg]] Olive・楽天・PayPay）。GO 戦略は法人寄り ^[inferred]
@@ -263,4 +371,4 @@ MUFG（持株会社・上場 8306）
 ---
 
 > [!info] 校核状态
-> confidence: **certain**（v2.1 MUFG 公式 IR + 決算短信 2026-05-15 + Nikkei 銘柄 8306 校核 2026-05-19）。FY2026 主要 KPI（純利益 2.43 兆 / 総資産 431.7 兆 / 経常利益 3.41 兆 / EPS 213.17 / 配当 86 円 / FY2027 目標 2.7 兆）は MUFG 公式 IR + Nikkei で複数経路確認。FY2026 経常収益のみ ^[ambiguous]（PDF バイナリ抽出失敗、要 IR Day 資料再校核）。個別子会社持分は時点変動あり、最新値は MUFG IR Quarterly を要参照。
+> confidence: **certain**（v3.0 2026-05-26 拡張: 銀行 KPI / Business Model Anatomy / 現任董事会 / 監管账本 の 4 節を一次資料校核で追加）。FY2026 主要 KPI（純利益 2.43 兆 / 総資産 431.7 兆 / 経常利益 3.41 兆 / EPS 213.17 / 配当 86 円 / FY2027 目標 2.7 兆）は MUFG 公式 IR + Nikkei で複数経路確認。CET1 9.2% / ROE 11.3% / セグメント業績は決算説明資料 + Databook (slides2603/databook2603) から抽出。董事会 16 名構成は 2026-04-01 公式役員一覧から。監管账本は NY DFS / OCC / CFTC / UK PRA / FSA / SEC の公式プレスリリース 8 件から一次抽出。NIM / 不良債権比率 / 経費率は本 entry での個別開示なし、Pillar 3 報告参照を推奨 ^[needs-verification]。FY2026 経常収益のみ ^[ambiguous]（PDF バイナリ抽出失敗）。個別子会社持分は時点変動あり、最新値は MUFG IR Quarterly を要参照。
