@@ -3,8 +3,8 @@ title: SOMPO ホールディングス (Sompo Holdings)
 aliases: ["SOMPO HD", "Sompo Holdings", "SOMPO ホールディングス", "損保ジャパン HD", "旧 NKSJ HD"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内 3 大損保の一角（[[JapanFG/tokio-marine|東京海上 HD]]・[[JapanFG/msad|MS&AD HD]]・SOMPO HD）。**2010-04 旧 [[JapanFG/sompo-japan-insurance|損保ジャパン]] + 日本興亜損保 経営統合**で NKSJ HD として発足、2014-09 ソンポ HD → 2016-10 SOMPO HD 改称。**「テーマパーク戦略」**で 損保 + 生保 + **介護（SOMPO ケア = 国内介護最大手）** + デジタル + 海外保険（**Sompo International**, 2017 約 6300 億円で旧 Endurance 買収）を 5 本柱。**2023-2024 ビッグモーター不正修理問題**で損保ジャパンが業務改善命令を受け、ガバナンス再建が現在の最大論点 ^[ambiguous]。東証 PRIME 8630。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：SOMPO ホールディングス株式会社 ^[extracted]
 **英名**：Sompo Holdings, Inc.
@@ -101,7 +101,7 @@ SOMPO HD（持株会社・上場 8630）
 
 > 出典: SOMPO HD 公式 IR（[https://www.sompo-hd.com/](https://www.sompo-hd.com/)）2025-05 決算発表 / 有価証券報告書ベース
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -113,7 +113,7 @@ SOMPO HD（持株会社・上場 8630）
 | 新興国損保 | Sompo Sigorta（トルコ）/ Sompo Brasil / アジア拠点 | 新興国小口分散 |
 | デジタル | SOMPO Digital Lab（東京・米シリコンバレー・テルアビブ拠点）| 「リアルデータプラットフォーム」構想 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### テーマパーク戦略
 
@@ -153,7 +153,7 @@ SOMPO HD（持株会社・上場 8630）
 - DRS Group（車両修理プラットフォーム）/ Zego（英 insurtech）等との 2026 戦略提携 → ガバナンス再建後の海外・デジタル攻勢へ転換 ^[extracted]
 - 3 大損保カルテル疑惑（企業向け保険料事前調整、独占禁止法違反）も別途公正取引委員会調査 → 業界全体で構造改革圧力継続 ^[extracted]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **持株会社規制**：保険業法（保険持株会社）
@@ -200,5 +200,5 @@ SOMPO HD（持株会社・上場 8630）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.1 IR 反映 2026-05-19）。**FY2024 (2025-03 期) 連結決算数値（経常収益 5.45 兆 / 純利益 4,229 億 / 総資産 15.03 兆 / 連結従業員 54,106 名 / SOMPO ケア 約 470 拠点）を SOMPO HD 公式 IR ベースで反映**。経営陣交代（白川 2024-01 / 桜田 2024-03）と内部統制「有効」評価も追記。Endurance 買収額・統合年月は Wikipedia 公開資料ベース。3 大損保カルテル疑惑処分は継続中事案 → 定期更新必要。

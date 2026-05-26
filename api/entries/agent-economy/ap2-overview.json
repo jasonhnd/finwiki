@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ap2-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ap2-overview.md",
   "domain": "agent-economy",
-  "title": "AP2 · Google Agent Payments Protocol 概览",
+  "title": "AP2 · Google Agent Payments Protocol 概観",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "AP2 · Google Agent Payments Protocol 概览",
+    "title": "AP2 · Google Agent Payments Protocol 概観",
     "aliases": [
       "ap2-overview",
       "agent-payments-protocol-overview",
@@ -17,8 +17,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -31,9 +31,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against AP2 采用版图 · Google 闭环 vs 协议四国杀 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦 for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
-    "AP2 · Google Agent Payments Protocol 概览",
+    "AP2 · Google Agent Payments Protocol 概観",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2535,
-    "word_like_tokens": 417,
+    "nonspace_chars": 2814,
+    "word_like_tokens": 419,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

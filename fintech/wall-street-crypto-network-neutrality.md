@@ -1,12 +1,12 @@
 ---
-title: Wall Street 加密网络中立投资策略（Visa 双线模式）
+title: Wall Street 暗号資産ネットワーク中立投資戦略（Visa デュアル戦略モデル）
 aliases: [network neutrality investment, Visa double dip, institutional crypto hedge]
 domain: fintech
 kind: framework
 topic: wall-street-crypto-network-neutrality
 created: 2026-05-13
-last_updated: 2026-05-13
-last_tended: 2026-05-13
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-13
 confidence: certain
 tags: [fintech, wall-street, investment, framework, Visa]
@@ -19,7 +19,7 @@ sources:
   - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K
 ---
 
-# Wall Street 加密网络中立投资策略
+# Wall Street 暗号資産ネットワーク中立投資戦略
 
 
 ## Wiki route
@@ -27,45 +27,45 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 当**数项相互竞争的基础设施**同时崛起（例如稳定币公链、AI agent 协议、L2 网络），机构投资人倾向于采取"**网络中立**"策略：同时投资、运营或接入多家竞争对手,不公开站队任何一方,押注**基础设施本身**而非某一具体赢家。**Visa 同时作为 Arc 投资人与 Tempo validator**是该模式的最强样本。
+> **複数の相互競合インフラ**が同時に台頭する場合（例：ステーブルコイン公開チェーン、AI agent プロトコル、L2 ネットワーク）、機関投資家は「**ネットワーク中立**」戦略を採る傾向がある：複数の競合社に同時投資・運営・接続し、いずれかへ公的なポジションを取らず、特定の勝者ではなく**インフラ自体**にベットする。**Visa が Arc 投資家と Tempo validator を同時に務める**のはこのパターンの最強サンプルである。
 
-**模式三要素**：
+**3 要素のパターン**：
 
-1. **同时下注 ≥ 2 家直接竞争者**（投资、运营或集成的任一形式）
-2. **不公开偏好任一方**（公关层面保持中立）
-3. **押注规模显著**（非观察性 venture check,而是 strategic 配置）
+1. **少なくとも 2 社の直接競合社へ同時にベット**（投資、運営、統合のいずれかの形式）
+2. **いずれかへの公的選好を示さない**（PR レベルで中立を保つ）
+3. **ベット規模が顕著**（観察的 venture check ではなく、strategic 配分）
 
-**Visa 案例分解**：
+**Visa 事例の分解**：
 
-- 在 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] 中:作为私募投资人参与（与 BlackRock / Apollo / ICE 同轮）
-- 在 [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] 中:作为外部 validator 节点运营方（与 Stripe / Zodia / OnePay 共同运营节点）
-- 在自营业务中:Visa Direct + B2B Connect + Tokenized Asset Platform
-- 结果:无论稳定币战争谁胜出,Visa 均可收取费率
+- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] へ：プライベート投資家として参加（BlackRock / Apollo / ICE と同ラウンド）
+- [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] へ：外部 validator ノード運営者として（Stripe / Zodia / OnePay と共同運営）
+- 自営事業：Visa Direct + B2B Connect + Tokenized Asset Platform
+- 結果：ステーブルコイン戦争の勝者が誰でも、Visa は手数料を徴収可能
 
-**适用条件**：
+**適用条件**：
 
-- 市场处于**未收敛阶段**（若赢家已现,中立配置即为浪费）
-- 自身已具备**强势主业**（不依赖 venture 收益）
-- **声誉资本**重要（不能被外界视为"加密原教旨"或"反加密"）
+- 市場が**未収斂段階**にある（勝者が既に現れていれば、中立配分は無駄）
+- 自社が**強力なメインビジネス**を保有（venture 収益に依存しない）
+- **評判資本**が重要（外部から「暗号原理主義者」「反暗号」と見なされてはならない）
 
-**其他典型案例**：
+**その他典型事例**：
 
-- BlackRock:[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]（自营）+ Circle Arc（投资）+ Bitcoin ETF（被动）
-- Standard Chartered:Tempo 网络上的 Zodia validator + Arc 投资人 + Zodia Custody（自营）
-- AWS Bedrock AgentCore Payments:默认 wallet = [[agent-economy/privy-aws-agentcore-default-wallet|Privy（Stripe 子公司）]] + Coinbase CDP 的**双默认结构**
+- BlackRock：[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]（自営）+ Circle Arc（投資）+ Bitcoin ETF（パッシブ）
+- Standard Chartered：Tempo ネットワーク上の Zodia validator + Arc 投資家 + Zodia Custody（自営）
+- AWS Bedrock AgentCore Payments：デフォルト wallet = [[agent-economy/privy-aws-agentcore-default-wallet|Privy（Stripe 子会社）]] + Coinbase CDP の**ダブルデフォルト構造**
 
-**反模式 / 缺席名单**（同样具有信息价值）：
+**反パターン / 不参加リスト**（同様に情報価値あり）：
 
-- Berkshire Hathaway / Charlie Munger 体系（出于哲学立场予以排斥）
-- Vanguard（被动 ETF,不参与 venture 投资）
-- 早期阶段的 Apple / Amazon（保守等待）
+- Berkshire Hathaway / Charlie Munger 体系（哲学的立場から排除）
+- Vanguard（パッシブ ETF、venture 投資には不参加）
+- 初期段階の Apple / Amazon（保守的に待機）
 
-**含义**：稳定币链战争与 AI agent 经济战争的**零和概率显著下降** —— 无论谁胜出,传统机构都能收取费率。这对"新进入者"形成更大压力:差异化只能在 token 经济学、监管 stance、地缘配置或技术哲学等维度上构建。
+**含意**：ステーブルコインチェーン戦争と AI agent 経済戦争の**ゼロサム確率が顕著に低下** —— 勝者が誰であろうと、伝統機関は手数料を徴収できる。これは「新規参入者」により大きな圧力を生む：差別化は token 経済学、規制スタンス、地政学的配分、技術哲学等の次元でのみ構築可能となる。
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|Token 策略三态博弈]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|机构稳定币存款 token 论点]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|Token 戦略 3 状態ゲーム]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン預金 token 論]]
 <!-- /wiki-links:managed -->

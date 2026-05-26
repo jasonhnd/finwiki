@@ -3,8 +3,8 @@ title: "三十三銀行 (San ju San Bank)"
 aliases: ["San ju San Bank", "San-ju-san Bank", "三十三銀行", "株式会社三十三銀行", "33 銀行"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, banking, regional-bank, chubu, mie, operating-company]
@@ -90,7 +90,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
 
 > 注: 最新精緻値は [[san-jusan-fg]] IR / 決算短信 / 有価証券報告書を参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -123,7 +123,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
 - **システム統合**: 旧三重銀基盤への一本化
 - **規模拡大**: 預金 4 兆円台確保で百五との規模差縮小
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) / 銀行法 第 4 条免許
 - **業界団体**: [[zenchugin-kyo|全国地方銀行協会]] 加盟
@@ -165,5 +165,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (operating-company anchor created 2026-05-24)。FG page = [[san-jusan-fg]] が strategy and group integration を扱い、本ページは bank-license entity boundary と県内競合構図を扱う。預金・貸出 KPI 精緻値は FG 決算短信 / 有価証券報告書要参照 ^[ambiguous]。

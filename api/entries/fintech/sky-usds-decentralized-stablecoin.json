@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/sky-usds-decentralized-stablecoin.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/sky-usds-decentralized-stablecoin.md",
   "domain": "fintech",
-  "title": "Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑",
+  "title": "Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑",
+    "title": "Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド",
     "aliases": [
       "sky-usds-decentralized-stablecoin",
       "USDS",
@@ -18,8 +18,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -43,7 +43,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑",
+    "Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3257,
-    "word_like_tokens": 588,
+    "nonspace_chars": 3705,
+    "word_like_tokens": 605,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

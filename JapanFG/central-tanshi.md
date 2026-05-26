@@ -3,8 +3,8 @@ title: セントラル短資株式会社 (Central Tanshi)
 aliases: ["Central Tanshi", "セントラル短資", "中央短資", "Central Tanshi Co., Ltd."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本 **3 大短資会社** の一角を成す短期金融市場仲介業者。2001-04 に旧 **山根短資 + セントラル短資 + 短資** の 3 社合併で発足した非上場会社で、コール市場・手形売買市場・CD/CP 売買・国債売買等の **インターバンク仲介** をコア業務とする。日銀オペ対手としても機能。子会社の **セントラル短資 FX** を通じて短資会社では珍しく **個人向け FX サービス** を展開している点が業界内で異色。競合は [[ueda-yagi-tanshi]]（上田八木短資）と東京短資で、3 社で寡占的 oligopoly を形成。2024 年日銀マイナス金利解除を契機に、長らく縮小傾向だった短資業界の復活期待が高まる。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：セントラル短資株式会社
 **英名**：Central Tanshi Co., Ltd.
@@ -49,7 +49,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **セントラル短資 FX 株式会社**：個人向け FX 取引（外国為替証拠金取引）サービス「セントラル短資 FX」運営。短資会社系列で個人 retail FX を提供する希少例。
 - **セントラル短資オンライン株式会社**：オンライン金融サービス基盤。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -64,7 +64,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 短資会社は **インターバンク市場の専門仲介業者** で、銀行間のコール資金（無担保翌日物等）の貸借、手形売買、CD/CP 売買等を仲介する。日本特有の業態で、コール市場の効率化と日銀金融調節の円滑化に貢献。日銀オペレーションの主要対手（カウンターパーティ）でもあり、政策金利の波及メカニズムにおいて重要な位置を占める。
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 業界構造（3 大短資 oligopoly）
 
@@ -99,14 +99,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - デジタル化対応・電子取引プラットフォーム
 - 3 社寡占内での競争優位確保
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業法**：短資業務は伝統的に銀行法・金融商品取引法等の枠組みで規制
 - **日銀との関係**：日銀オペレーション主要対手（金融調節の transmission channel 機能）
 - **個人 FX 子会社**：金融商品取引業者として金商法規制下
 
-### 重要历史
+### 沿革
 
 | 年 | 事象 |
 |---|---|

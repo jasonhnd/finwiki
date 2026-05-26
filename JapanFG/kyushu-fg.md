@@ -3,8 +3,8 @@ title: 九州 FG (Kyushu FG)
 aliases: ["Kyushu FG", "九州フィナンシャルグループ", "Kyushu Financial Group", "株式会社九州フィナンシャルグループ", "KFG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 九州南部地盤の単独地銀グループ（熊本 + 鹿児島 2 県中核）。2015-10-01 [[higo-bank|肥後銀行]] + [[kagoshima-bank|鹿児島銀行]] の経営統合で発足。**県またぎ「2 強連合」型統合（[[fukuoka-fg]] の広域地盤統合・[[mufg]] 等メガ広域連結と異なるモデル）**。**TSMC 熊本進出（2022〜菊陽町）に伴う半導体クラスター関連融資需要急増**が直近の最大トピック。九州内では [[fukuoka-fg]]・[[nishi-nippon-fhd]] と並ぶ拠点 FG だが、地盤を九州**南部**に絞った棲み分け構造。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社九州フィナンシャルグループ
 **英名**：Kyushu Financial Group, Inc.
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 関連: ヒゴカード / カゴシマカード 等 ─ 各銀行系クレカ
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 旧 **肥後銀行**：
   - 1879 第百三十五国立銀行 設立（熊本、国立銀行条例下）
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022〜 | **TSMC 熊本菊陽町進出**（JASM 工場）→ 関連サプライチェーン・地場企業融資需要急増 ★ |
 | 2024 | **新中期経営計画**（半導体クラスター対応・地域 DX 強化を含む）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -84,7 +84,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リース | 九州 FG リース | リース業務 |
 | クレカ | ヒゴカード / カゴシマカード | 各銀行系クレカ |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### TSMC 関連特需（2022〜2024 の最大トピック）★
 
@@ -109,7 +109,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **地銀再編における位置**：単独路線（[[fukuoka-fg]] と同様、SBI 第 4 メガ構想からは距離）。九州内の自立的連合志向 ^[inferred]
 - **デジタル戦略**：[[fukuoka-fg]]「みんなの銀行」のような全国 BaaS 展開は未公表。地域 DX 重視 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 九州財務局
 - **持株会社規制**：銀行法 第 52 条の 17
@@ -148,5 +148,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia ベース校核 2026-05-19）。沿革・子会社構造は公開情報で確定。決算数値は本版未収載（要 九州 FG 有価証券報告書直接確認）。TSMC 関連融資の具体規模・肥後銀行ポートフォリオ集中度は公開資料更新待ち。

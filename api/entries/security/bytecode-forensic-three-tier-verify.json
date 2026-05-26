@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/bytecode-forensic-three-tier-verify.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/bytecode-forensic-three-tier-verify.md",
   "domain": "security",
-  "title": "智能合约 bytecode forensic — 三层 verify 技术",
+  "title": "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "智能合约 bytecode forensic — 三层 verify 技术",
+    "title": "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
     "aliases": [],
     "domain": "security",
     "created": "2026-05-12",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-12",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-08",
     "confidence": "possible",
     "tags": [
@@ -31,12 +31,12 @@
   },
   "summary": "This entry sits under FinWiki index. Read it with fork-and-rebrand audit framework for peer context and systems index for the broader infrastructure boundary.",
   "headings": [
-    "智能合约 bytecode forensic — 三层 verify 技术",
+    "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
     "Wiki route",
-    "三层 technique",
+    "三層 technique",
     "Layer 1: Deployed vs Compiled diff",
-    "Layer 2: 4-byte PUSH4-EQ dispatcher 反推",
-    "Layer 3: 跨链 verified twin fingerprint",
+    "Layer 2: 4-byte PUSH4-EQ dispatcherの逆推",
+    "Layer 3: クロスチェーン verified twin fingerprint",
     "When to Use",
     "When NOT to Use",
     "Counterpoints",
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2551,
-    "word_like_tokens": 429,
+    "nonspace_chars": 2974,
+    "word_like_tokens": 435,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/embedded-wallet-network-effects-moat.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/embedded-wallet-network-effects-moat.md",
   "domain": "agent-economy",
-  "title": "嵌入式钱包网络效应 · 集成商而非钱包本身的护城河",
+  "title": "埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "嵌入式钱包网络效应 · 集成商而非钱包本身的护城河",
+    "title": "埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀",
     "aliases": [
       "embedded wallet network effects moat",
       "embedded wallet integrator moat",
@@ -17,8 +17,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -33,9 +33,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against Privy · Stripe 子公司的嵌入式自托管钱包(总览) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
-    "嵌入式钱包网络效应 · 集成商而非钱包本身的护城河",
+    "埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2936,
-    "word_like_tokens": 482,
+    "nonspace_chars": 3369,
+    "word_like_tokens": 489,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

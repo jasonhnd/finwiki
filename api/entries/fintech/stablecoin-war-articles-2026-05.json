@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-war-articles-2026-05.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stablecoin-war-articles-2026-05.md",
   "domain": "fintech",
-  "title": "稳定币战争系列 · 23 篇 publication-grade 长文(2026-05)",
+  "title": "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "稳定币战争系列 · 23 篇 publication-grade 长文(2026-05)",
+    "title": "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
     "aliases": [
       "stablecoin-war-articles-2026-05",
       "blockchain-research articles index",
-      "稳定币战争长文索引"
+      "ステーブルコイン戦争長文インデックス"
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -39,10 +39,10 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "稳定币战争系列 · 23 篇 publication-grade 长文(2026-05)",
+    "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
     "Wiki route",
     "Key facts",
-    "Mechanism / 系列结构",
+    "Mechanism / シリーズ構造",
     "Origin & evolution",
     "Counterpoints",
     "Open questions",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4759,
-    "word_like_tokens": 918,
+    "nonspace_chars": 5143,
+    "word_like_tokens": 919,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: "銀聯インターナショナル日本支社 (UnionPay International Ja
 aliases: ["UnionPay International Japan", "UPI Japan", "銀聯インターナショナル", "銀聯", "China UnionPay Japan"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, card-brand, payments, unionpay, china, inbound]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | Item | Notes |
 |---|---|
 | Legal name | UnionPay International Co., Ltd. 日本支社 (銀聯インターナショナル日本支社) |
-| Parent | China UnionPay (中国銀聯股份有限公司) の国際子会社 UnionPay International |
+| Parent | China UnionPay (中国銀聯) の国際子会社 UnionPay International |
 | Brand role | 4-party scheme operator + 加盟店ネットワーク開拓 (主軸) — 日本国内発行は限定 |
 | Group boundary | 中国本土の銀行間決済機構・人民銀行系インフラに直結する中国系ブランド |
 | Wiki role | 中国系国際ブランドの日本拠点エンティティ。インバウンド決済・国際ブランド 5 番手 (JCB / Visa / MC / Amex の次) の整理。 |

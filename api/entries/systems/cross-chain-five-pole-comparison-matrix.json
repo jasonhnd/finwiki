@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-five-pole-comparison-matrix.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-five-pole-comparison-matrix.md",
   "domain": "systems",
-  "title": "跨链五极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 九维度",
+  "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨链五极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 九维度",
+    "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
     "aliases": [
       "cross chain five pole comparison matrix",
       "cctp ccip layerzero hyperlane wormhole comparison",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -43,9 +43,9 @@
       "https://tokenterminal.com/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against systems/cross-chain-four-poles-overview as the parent overview and 跨链选型决策树 for matched protocol selection. Pair with each pole's standalone entry — systems/cctp-v2-overview · systems/chainlink-ccip-institutional-messaging · systems/layerzero-v2-om",
+  "summary": "This entry sits under systems index. Read it against systems/cross-chain-four-poles-overview as the parent overview and クロスチェーン選定意思決定ツリー for matched protocol selection. Pair with each pole's standalone entry — systems/cctp-v2-overview · systems/chainlink-ccip-institutional-messaging · systems/layerz",
   "headings": [
-    "跨链五极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 九维度",
+    "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7557,
-    "word_like_tokens": 1277,
+    "nonspace_chars": 8112,
+    "word_like_tokens": 1305,
     "inbound_wikilinks_count": 33,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/solana-firedancer-validator-economics.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/solana-firedancer-validator-economics.md",
   "domain": "systems",
-  "title": "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+  "title": "Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+    "title": "Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築",
     "aliases": [
       "solana firedancer 2026",
       "firedancer validator economics",
@@ -22,8 +22,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -50,18 +50,18 @@
       "https://defillama.com/chain/Solana"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against BFT validator 经济学概览 as the validator economics anchor and BFT validator economy 四变量 for the yield / slashing / MEV / 集中度 framework that Firedancer disrupts. For consensus architecture context, see DAG-BFT vs Chain-BFT architecture —— Solana TowerB",
+  "summary": "This entry sits under systems index. Read it against BFT validator 経済学概観 as the validator economics anchor and BFT validator economy 4 変数 for the yield / slashing / MEV / 集中度 framework that Firedancer disrupts. For consensus architecture context, see DAG-BFT vs Chain-BFT architecture —— Solana Tower",
   "headings": [
-    "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+    "Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築",
     "TL;DR",
     "Wiki route",
-    "Mechanism · Firedancer 架构与 Solana 客户端格局",
-    "三客户端格局(2026-Q2)",
-    "Firedancer 性能特点",
-    "Tile-based 并行架构",
-    "Market dynamics · MEV pipeline 重构与 Jito 经济",
-    "Jito 当前主导地位",
-    "Firedancer 引入的 MEV 重构"
+    "Mechanism · Firedancer アーキテクチャと Solana クライアント構造",
+    "3 クライアント構造(2026-Q2)",
+    "Firedancer 性能特徴",
+    "Tile-based 並列アーキテクチャ",
+    "Market dynamics · MEV pipeline 再構築と Jito 経済",
+    "Jito 現在の主導地位",
+    "Firedancer 導入による MEV 再構築"
   ],
   "body_links": {
     "wikilinks_count": 16,
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13601,
-    "word_like_tokens": 2441,
+    "nonspace_chars": 14881,
+    "word_like_tokens": 2475,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

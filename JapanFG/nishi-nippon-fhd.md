@@ -3,8 +3,8 @@ title: 西日本 FHD (Nishi-Nippon FHD)
 aliases: ["NNFHD", "Nishi-Nippon Financial Holdings", "西日本フィナンシャルホールディングス", "西日本 FHD", "西日本シティ銀行 持株会社"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 九州北部・福岡県を地盤とする上位地銀グループの持株会社。**2016-10-03 [[nishi-nippon-city-bank|西日本シティ銀行]] の単独株式移転で設立**、東証 PRIME 7189。**主要子会社は [[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]] + NCB リサーチ&コンサルティング 等**。九州地銀では [[fukuoka-fg]] と並ぶ「福岡 2 大地銀」と称され、福岡県内の中堅・中小企業向け法人融資と個人リテールが中核。アジア向け国際業務は福岡空港・博多港の地の利を生かす。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社西日本フィナンシャルホールディングス ^[extracted]
 **英名**：Nishi-Nippon Financial Holdings, Inc. ^[extracted]
@@ -50,7 +50,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 西日本シティビジネスサービス・西日本シティ信用保証 等
 ```
 
-### 合併歴史・前身 ^[extracted]
+### 合併経緯・前身 ^[extracted]
 
 - **1944**: 西日本相互銀行 創業（戦時統合）── 相互銀行スタートが現在の DNA
 - **1989-04**: 普通銀行転換 → **西日本銀行** 改称
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 | 2024 | 中期経営計画（2024〜）始動 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -83,7 +83,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リース・PE | NCB リース&キャピタル / NCB キャピタル | 地域中堅向けリース・事業承継 |
 | シンクタンク | NCB リサーチ&コンサルティング | 法人向けコンサル・地域経済調査 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 福岡 2 大地銀構造
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 地域社会連携・ESG（地方創生・脱炭素ファイナンス）
 - 自己資本充実・株主還元
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 福岡財務支局
 - **持株会社規制**：銀行法 第 52 条の 17
@@ -155,5 +155,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia 公開情報ベース 2026-05-19）。沿革・主要子会社構成・「福岡 2 大地銀」構造は確度高。詳細財務・最新セグメント実績は西日本 FHD 公式 IR Quarterly を要参照。

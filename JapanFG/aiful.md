@@ -3,8 +3,8 @@ title: アイフル株式会社 (Aiful)
 aliases: ["Aiful", "アイフル", "AIFUL", "アイフル株式会社", "Aiful Corporation"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, consumer-finance, independent]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 京都発祥の消費者金融大手。**1967-04 福田吉孝が個人事業「丸三」として京都で創業**、1978 に「アイフル」に改称。業態は個人向け無担保ローン主軸（カードローン）+ クレジットカード（ライフカード子会社）+ 事業者ローン。**アコム（[[mufg]] 内）・プロミス（[[smfg]] 内）と並ぶ「3 大消費者金融」のうち、メガバンク系列に属さない独立系唯一の大手** ★。2006-2010 のグレーゾーン金利・過払い金返還問題で経営危機 → 事業再生 ADR 経由で再建。東証 PRIME 8515 上場。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: アイフル株式会社（Aiful Corporation）
 **証券コード**: 東証 PRIME **8515**
@@ -62,7 +62,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **創業家・福田家中心の独立資本構造**が最大の特徴。アコム（[[mufg]] 持分法 39.6%）・プロミス（[[smfg]] 100% 完全子会社）と異なり、メガバンク系列に組み込まれていない大手消費者金融としては唯一。^[extracted]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -83,7 +83,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 旧「ライフ社」系統の信販・クレジットカード会社。**2017 にアイフル完全子会社化**で正式にグループ入り。アイフル本体（消費者金融）+ ライフカード（クレカ）の 2 軸でリテール金融の幅を確保。^[extracted]
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -112,7 +112,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **過払い金返還**: 業界全体で数兆円規模の返還、武富士は 2010-09 会社更生申立、アイフルは事業再生 ADR で再建
 - **2008-04 業務改善命令**: 取り立て手段の不適切さで全社業務停止処分 → 信用回復に長期間 ^[extracted]
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 独立系維持の戦略 ★
 
@@ -145,7 +145,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **「ワン！」CM** で長期にわたり認知度を維持（チワワを起用したテレビ CM が 2000 年代の象徴）^[extracted]
 - 「アイフル」ブランド = 消費者金融、「キャレント」「ライフカード」で別ブランド層を確保
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **登録**: 貸金業法に基づく登録貸金業者

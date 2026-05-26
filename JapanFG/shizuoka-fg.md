@@ -3,8 +3,8 @@ title: しずおか FG (Shizuoka FG)
 aliases: ["Shizuoka FG", "Shizuoka Financial Group", "しずおかフィナンシャルグループ", "株式会社しずおかフィナンシャルグループ", "静岡 FG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 静岡県地盤の単独地銀持株会社（地銀単体としては国内最大級の一角）。2022-10-03 静岡銀行が単独株式移転で持株会社化して発足。**静岡県内 No.1 地盤（県内シェア圧倒・製造業集積地）+ モンゴル等海外進出 + 県内同業 [[suruga-bank|スルガ銀行]]・[[shimizu-bank|清水銀行]] との並存**。単独地銀の持株会社化により資本効率改善と M&A 余地を確保する戦略。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社しずおかフィナンシャルグループ
 **英名**：Shizuoka Financial Group, Inc.
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2022-10-03** | **しずおか FG 設立**（静岡銀行が単独株式移転で持株会社化）|
 | 2024〜 | 中期経営計画（地銀単独 FG 化後の戦略フェーズ）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -83,7 +83,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | グループ金融 | 静銀リース / 信用保証 / キャピタル 等 | 持株会社化で並列再配置 |
 | デジタル | 静岡銀行アプリ・地域 Fintech 連携 | メガ・FFG みんなの銀行に対しては地域密着型 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 県内地盤戦略
 
@@ -112,7 +112,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **SBI 第 4 メガ構想とは距離**を取る独立路線（地盤の強さと製造業 main bank ポジションがある）
 - **メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては地域密着 + 製造業集積で対抗**
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 東海財務局
 - **持株会社規制**：銀行法 第 52 条の 17（銀行持株会社）
@@ -152,5 +152,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia ベース校核 2026-05-19）。沿革（1943 設立・2022-10-03 持株会社化）・上場区分（東証 PRIME 5831）は公開情報で確定。子会社構造の詳細（モンゴル MFG 銀行の出資比率・グループ金融子会社の正式社名等）、決算数値、中計目標は本版未収載 — 要 しずおか FG 公式 IR / 有価証券報告書直接確認。県内同業（スルガ / 清水）との競合動向と地銀再編の位置付けは継続観察項目。

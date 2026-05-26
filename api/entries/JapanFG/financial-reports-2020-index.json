@@ -11,15 +11,15 @@
   "frontmatter": {
     "title": "JapanFG financial reports 2020+ index",
     "aliases": [
-      "JapanFG 财报索引",
-      "金融公司五年财报索引",
+      "JapanFG 財報索引",
+      "金融会社五年財報索引",
       "2020+ financial reports",
       "Japan financial company report index"
     ],
     "domain": "JapanFG",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -35,7 +35,7 @@
       "Official company IR / disclosure / annual-report archive URLs listed per row"
     ]
   },
-  "summary": "本页把 JapanFG namespace 中金融公司 / 金融机构的 2020 年以来官方财报、统合报告书、ディスクロージャー誌、有価証券報告書、母公司年报入口 汇总到一张索引里。",
+  "summary": "本ページは JapanFG namespace 中の金融会社 / 金融機関の 2020 年以降の公式財務報告、統合報告書、ディスクロージャー誌、有価証券報告書、親会社年次報告書入口 を一つのインデックスにまとめている。",
   "headings": [
     "JapanFG financial reports 2020+ index",
     "TL;DR",
@@ -259,9 +259,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 36315,
-    "word_like_tokens": 5418,
+    "nonspace_chars": 36416,
+    "word_like_tokens": 5421,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-20"
+    "last_modified": "2026-05-26"
   }
 }

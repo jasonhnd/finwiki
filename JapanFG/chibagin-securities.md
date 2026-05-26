@@ -3,8 +3,8 @@ title: "ちばぎん証券 (Chibagin Securities)"
 aliases: ["Chibagin Securities", "ちばぎん証券", "千葉銀証券", "株式会社ちばぎん証券", "Chiba Bank Securities", "旧 中央証券"]
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, chiba-bank, securities, kanto, chiba, operating-company]
@@ -27,7 +27,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 株式会社ちばぎん証券は、[[chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系証券会社で、千葉県・首都圏東部を地盤とする個人富裕層・中堅企業 main bank 顧客向けの retail brokerage・公募私募債仲介・投信・ファンドラップ・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[jsda|日本証券業協会]] 正会員。**前身は旧 中央証券 (Chuo Securities)** で、千葉銀行が買収・グループ化した後にちばぎん証券へ改称した。千葉銀は持株会社化していない単独銀行 (no-holding model) のため、ちばぎん証券は親銀行直下にぶら下がる構造で、[[mebuki-fg]] / [[fukuoka-fg]] のような持株会社下の銀証兄弟会社 model とは法的位置が異なる。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -123,7 +123,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - 強み: [[chiba-bank]] 千葉県シェア No.1 + 預金 18-20 兆円顧客基盤 + 持株会社化していないため意思決定スピード / 銀証連携の depth
 - 弱み: 単独規模では大手証券に大幅劣後、デジタル投資余力限定的、千葉県集中 = 人口減少・首都圏東部の若年層流出リスク ^[inferred]
 
-## 5. 监管与会计
+## 5. 規制・会計
 
 ### 規制枠組み
 

@@ -3,8 +3,8 @@ title: 野村ホールディングス (Nomura HD)
 aliases: ["Nomura HD", "Nomura Holdings", "野村 HD", "野村ホールディングス", "Nomura"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本最大の独立系証券グループ（純営業収益ベース）。1925-12-25 大阪野村銀行証券部から独立した「野村証券」を起源とし、2001-10-01 持株会社化で発足。**国内リテール（営業店約 130）+ ホールセール（IB / Markets）+ 投資マネジメント（野村 AM、国内 No.2 クラス）+ Instinet（米電子取引）4 軸**。2008-10 リーマン・ブラザーズのアジア / 欧州 / 中東部門を約 2 億ドルで買収しグローバル化を加速、メガバンク系証券（[[mufg]] MUMSS、[[smfg]] SMBC 日興、[[mizuho-fg]] みずほ証券）と異なる「独立系」ポジションを維持。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：野村ホールディングス株式会社 ^[extracted]
 **英名**：Nomura Holdings, Inc.
@@ -125,7 +125,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2025-04-01** | **バンキング部門新設（4 部門 → 5 部門制へ）** ^[extracted] |
 | **2025-04-22** | **Macquarie 米欧資産運用事業を 18 億 USD で買収契約**（野村 AM のグローバル化加速） ^[extracted] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 > **2025-04-01 部門再編**: 従来の 4 部門（営業 / ホールセール / Investment Management / その他）に **バンキング部門** を新設、**5 部門制** に移行 ^[extracted]
 
@@ -143,7 +143,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > [[mufg]] の MUMSS / [[smfg]] の SMBC 日興 / [[mizuho-fg]] のみずほ証券 は **銀行系証券**。野村は唯一の **独立系大手** ^[inferred]
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### ホールセール再生
 
@@ -179,7 +179,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **ニューヨーク**: Nomura Securities International、米国機関投資家、Instinet 電子取引
 - **アジア**: シンガポール / 香港 / インド / インドネシア、リーマン承継網ベース
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA、証券業）+ 日本証券業協会（自主規制）
 - **海外規制**: 米 SEC / FINRA、英 FCA / PRA、香港 SFC、シンガポール MAS 等
@@ -235,5 +235,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.1 FY2025 通期決算 + 2025-04 部門再編 + Macquarie 買収 反映、2026-05-19）。決算数値は US GAAP ベース（純利益 3,407 億円 / ROE 10.0% / 総資産 56.8 兆円）、MUFG 等日本基準とは比較に留意。Macquarie 買収はクロージング前の契約段階、最終条件は変動余地あり。

@@ -3,8 +3,8 @@ title: ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank Tokyo Br
 aliases: ["Wells Fargo Japan", "Wells Fargo Bank N.A. Tokyo Branch", "ウェルズ・ファーゴ銀行 東京支店", "WFC Japan"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, us]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 米 4 大商業銀行の一角 **Wells Fargo & Company**（NYSE: WFC、G-SIB Bucket 1）の在日支店。**法人特化型**で、米国企業の日本進出サポートおよび邦銀・日系企業の米国業務支援が主軸。リテール（個人向け）は日本展開なし。トランザクション・バンキング、為替・トレード・ファイナンス、グローバルキャッシュマネジメントが 3 本柱。米国本体は 2016 年以降の偽口座事件で経営課題を抱えつつ、2024 年以降は連邦準備制度の資産上限解除を視野に再成長フェーズへ。在日プレゼンスはシティ [[citigroup-japan]] / JP モルガン [[jpmorgan-japan]] / バンク・オブ・アメリカと比し小規模、ホールセール特化型ニッチ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名（在日）**: ウェルズ・ファーゴ銀行 東京支店
 **英名**: Wells Fargo Bank, N.A., Tokyo Branch
@@ -63,7 +63,7 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
               └── ウェルズ・ファーゴ銀行 東京支店
 ```
 
-## 2. 业务线 map（東京支店）
+## 2. 事業セグメント・マップ（東京支店）
 
 | サービス | 内容 | 主要顧客 |
 |---|---|---|
@@ -76,7 +76,7 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 
 リテール展開がない点が、邦銀の都市銀行・シティバンク銀行（旧 SMBC 信託預け先）と決定的に違う。米国本体ではリテール巨大網を持つ一方、日本では完全に B2B（法人）特化型。
 
-## 3. 重要历史
+## 3. 沿革
 
 ### 親会社・米国 Wells Fargo 沿革 ^[extracted]
 
@@ -106,7 +106,7 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 
 > 詳細な在日年表は公式 IR 開示が限定的で再構成が難しい。本支店の沿革は親会社の合併歴史と紐づけて理解する必要がある。
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 親会社全体戦略
 
@@ -130,7 +130,7 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 - **米ドル決済コルレス**: [[mufg]] / [[smfg]] / [[mizuho-fg]] 等メガバンクの米ドルクリアリング・コルレスバックアップ
 - **米国市場アクセス**: 邦銀の米国進出時の現地サポート（vs MUFG Americas Holdings の逆方向業務）
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管（在日）**: 金融庁（FSA）外国銀行支店監督
 - **親会社（米国）**: OCC（通貨監督庁）+ FRB（連邦準備制度）二重監督
@@ -167,5 +167,5 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報のみで構築 2026-05-19）。親会社情報は Wikipedia + 米国 SEC 開示（10-K）ベースで信頼性高。在日支店の具体的な収益・従業員数等は外国銀行支店の開示範囲が限定的で、Open questions に整理。内部情報は一切引用していない。

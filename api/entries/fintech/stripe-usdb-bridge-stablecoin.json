@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stripe-usdb-bridge-stablecoin.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stripe-usdb-bridge-stablecoin.md",
   "domain": "fintech",
-  "title": "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+  "title": "Stripe USDB · Bridge 買収後の決済会社ステーブルコイン · Tempo L1 + Agent 決済キャリア",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+    "title": "Stripe USDB · Bridge 買収後の決済会社ステーブルコイン · Tempo L1 + Agent 決済キャリア",
     "aliases": [
       "stripe-usdb-bridge-stablecoin",
       "USDB",
@@ -19,8 +19,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -44,9 +44,9 @@
       "https://www.paradigm.xyz/2025/09/announcing-tempo"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with Circle USDC and PayPal PYUSD for the payment-company-branded stablecoin trio, and with Stripe 五层 Trojan Horse for the L3 position of USDB in Stripe's vertical stack.",
+  "summary": "This entry sits under fintech index. Read it with Circle USDC and PayPal PYUSD for the payment-company-branded stablecoin trio, and with Stripe 5 層 Trojan Horse for the L3 position of USDB in Stripe's vertical stack.",
   "headings": [
-    "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+    "Stripe USDB · Bridge 買収後の決済会社ステーブルコイン · Tempo L1 + Agent 決済キャリア",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5655,
-    "word_like_tokens": 994,
+    "nonspace_chars": 6284,
+    "word_like_tokens": 993,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md",
   "domain": "fintech",
-  "title": "嵌入式钱包 · Fintech 反吃 Web3 的 Trojan Horse(Stripe 五层)",
+  "title": "組込み型ウォレット · Fintech が Web3 を逆食いする Trojan Horse(Stripe 五層)",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "嵌入式钱包 · Fintech 反吃 Web3 的 Trojan Horse(Stripe 五层)",
+    "title": "組込み型ウォレット · Fintech が Web3 を逆食いする Trojan Horse(Stripe 五層)",
     "aliases": [
       "embedded wallet fintech disintermediation stripe trojan horse",
       "Stripe five layer collapse",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -42,7 +42,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "嵌入式钱包 · Fintech 反吃 Web3 的 Trojan Horse(Stripe 五层)",
+    "組込み型ウォレット · Fintech が Web3 を逆食いする Trojan Horse(Stripe 五層)",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3165,
-    "word_like_tokens": 562,
+    "nonspace_chars": 3488,
+    "word_like_tokens": 560,
     "inbound_wikilinks_count": 28,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

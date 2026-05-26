@@ -3,8 +3,8 @@ title: オリックス株式会社 (ORIX Corporation)
 aliases: ["ORIX", "オリックス", "オリックス株式会社", "ORIX Corporation", "旧オリエント・リース"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, leasing, conglomerate-finance]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本最大手の総合金融サービス・コングロマリット。1964-04-17 旧 オリエント・リース として三和銀行 + 日綿実業 + ニチメン 等 5 社共同出資で設立。**リース起点 → 10 セグメント（法人金融・自動車・不動産・事業投資・環境エネルギー・保険・銀行・AM・米州・アジア豪州）**へ多角化。連結持分会社的構造で銀行法上の銀行持株会社ではない（金融商品取引業者）。東証 PRIME 8591 / NYSE: IX 二重上場。会長 井上亮、シニア・チェアマン 宮内義彦（実質的中興の祖）。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：オリックス株式会社 ^[extracted]
 **英名**：ORIX Corporation
@@ -100,7 +100,7 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | **2023〜2024** | **米国不動産含み損問題顕在化、PE 評価減**（オフィス賃料下落・金利上昇直撃）^[extracted] |
 | 2024-06 | 井上亮 取締役会長 兼 グループ CEO 体制 |
 
-## 2. 业务线 map（10 セグメント）
+## 2. 事業セグメント・マップ（10 セグメント）
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -115,7 +115,7 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | 米州 | ORIX USA | 米国不動産・PE・融資 |
 | アジア・豪州 | ORIX Asia / Australia / India | 中国・インド・印度・豪州 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 多角化モデル
 
@@ -136,7 +136,7 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 - **対 [[mufg]] / [[smfg]] / [[mizuho-fg]]**: メガバンク傘下リース会社（[[JapanFG/mitsubishi-hc-capital|三菱 HC キャピタル]]・[[JapanFG/smfl|smfl]]・[[JapanFG/mizuho-lease|みずほリース]]）に対し、**独立系・コングロマリット型**で多角化幅が広い ^[inferred]
 - **対 [[JapanFG/fuyo-lease|芙蓉総合リース]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/ntt-tc-lease|NTT・TC リース]]**: リース単体ではなく **保険・銀行・不動産・米州 PE まで一気通貫** ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 各事業セクター個別規制
 - **持株会社規制**：ORIX 本体は銀行法上の銀行持株会社では**ない**（傘下のオリックス銀行は単体で銀行業免許）^[inferred]
@@ -186,5 +186,5 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公式 IR 校核 2026-05-19）。10 セグメント区分・年表・経営体制は Wikipedia + ORIX 公式沿革ベース。海外比率・米国不動産含み損の具体数値は ambiguous（時点変動・開示粒度に依存）。最新値は ORIX 統合報告書および四半期 IR を要参照。

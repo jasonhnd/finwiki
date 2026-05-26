@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -45,13 +45,13 @@
     "PayPay 金融グループ",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "コア事業者一覧",
     "主要 KPI（公開資料ベース、2025 年最新）",
     "資本関係（公開資料）",
     "合併歴史・前身",
     "重要年表",
-    "2. 业务线 map"
+    "2. 事業セグメント・マップ"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8965,
-    "word_like_tokens": 1633,
+    "nonspace_chars": 8970,
+    "word_like_tokens": 1632,
     "inbound_wikilinks_count": 31,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

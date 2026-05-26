@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperlane-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperlane-overview.md",
   "domain": "systems",
-  "title": "Hyperlane 概览 · Permissionless Cross-chain Interoperability",
+  "title": "Hyperlane 概観 · Permissionless Cross-chain Interoperability",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Hyperlane 概览 · Permissionless Cross-chain Interoperability",
+    "title": "Hyperlane 概観 · Permissionless Cross-chain Interoperability",
     "aliases": [
       "hyperlane-overview",
       "permissionless-bridge",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -34,7 +34,7 @@
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Hyperlane 概览 · Permissionless Cross-chain Interoperability",
+    "Hyperlane 概観 · Permissionless Cross-chain Interoperability",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2820,
-    "word_like_tokens": 432,
+    "nonspace_chars": 3252,
+    "word_like_tokens": 422,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

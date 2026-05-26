@@ -3,8 +3,8 @@ title: 千葉興業銀行 (Chiba Kogyo Bank)
 aliases: ["千葉興業銀行", "Chiba Kogyo Bank", "The Chiba Kogyo Bank, Ltd.", "ちば興銀", "千葉商工銀行", "Chibakogin"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 千葉県地盤の **第二地銀**（東証 PRIME 8337、略称「ちば興銀」）。1952-01-18 旧千葉商工信用組合として発足、信金転換 → 普通銀行転換 → 1973 現社名。**持株会社化していない単独銀行** で、千葉県内 No.2 ポジション（No.1 は [[chiba-bank]]）。1991 頃の経営悪化を契機に **旧第一勧銀・富士銀行系（現 [[mizuho-fg]]）** の戦略株主受け入れにより事実上のみずほ系第二地銀として再生。中小企業融資・地域密着営業に特化し、ホールセール領域では [[mizuho-fg]] とのリファラル/シナジーを活用。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社千葉興業銀行 ^[extracted]
 **英名**：The Chiba Kogyo Bank, Ltd.
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 | 2024 | 中期経営計画 策定 ^[ambiguous] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -100,7 +100,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | カード/保証 | グループ関連会社 ^[ambiguous] | 地銀標準ライン |
 | ホールセール紹介 | [[mizuho-fg]] 連携 ^[inferred] | みずほの大企業 IB 機能をリファラル活用 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 戦略ポジション
 
@@ -131,7 +131,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **デメリット**: 資本効率・グループ全体最適化が劣後する可能性、再編圧力下での独立性維持リスク ^[inferred]
 - **代替**: [[mizuho-fg]] 戦略株主との緩やかな提携で資本・ノウハウを補完
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業態**: 第二地方銀行（一般社団法人 第二地方銀行協会 加盟）

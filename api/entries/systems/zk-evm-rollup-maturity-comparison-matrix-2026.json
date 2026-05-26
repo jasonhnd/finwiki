@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
   "domain": "systems",
-  "title": "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+  "title": "ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の proving system / TVL / DA / decentralization",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+    "title": "ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の proving system / TVL / DA / decentralization",
     "aliases": [
       "zk-evm rollup maturity matrix 2026",
       "zk rollup comparison 2026",
@@ -19,8 +19,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -57,9 +57,9 @@
       "https://ethereum.org/en/developers/docs/scaling/zk-rollups/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 翻倍与 L2 经济连锁 for the L1 blob capacity context that drives rollup gas cost, and Pectra upgrade overview for the broader Ethereum upgrade landscape. Pair with Vitalik L1/L2 strategy anchor for the meta-strategy that frames \"L2",
+  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for the L1 blob capacity context that drives rollup gas cost, and Pectra upgrade overview for the broader Ethereum upgrade landscape. Pair with Vitalik L1/L2 strategy anchor for the meta-strategy that frames \"L2",
   "headings": [
-    "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+    "ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の proving system / TVL / DA / decentralization",
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17640,
-    "word_like_tokens": 3156,
+    "nonspace_chars": 18489,
+    "word_like_tokens": 3185,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

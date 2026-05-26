@@ -3,8 +3,8 @@ title: スルガ銀行
 aliases: ["Suruga Bank", "株式会社スルガ銀行", "Suruga Bank Ltd.", "スルガ銀"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, post-scandal]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 静岡県東部（沼津）地盤の中堅地銀。**1895 年根方銀行として創業、130 年の歴史**。1990 年代～2010 年代は「個人ローン特化型地銀の優等生」として高 ROE を誇ったが、**2018 年シェアハウス『かぼちゃの馬車』向け不正融資事件**で評価が一変。1 兆円超の個人投資家向け融資で書類改竄・審査不正が組織的に行われ、金融庁業務改善命令・経営陣総辞任に至った。2020 年以降は **[[JapanFG/au-fh|ノジマ]] との資本業務提携**を軸に信頼回復フェーズ。県内 No.1 の [[shizuoka-fg]] とは構造的に競合。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社スルガ銀行 ^[extracted]
 **英名**：Suruga Bank Ltd.
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2021-2022 | ノジマ店舗内「スルガ銀行店舗内銀行」展開拡大 |
 | 2023-2024 | 中期経営計画「信頼回復・地域共創」フェーズ |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -87,7 +87,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ノジマ提携店舗内銀行 | ノジマ店舗内 ATM・口座窓口 | 2020〜 提携の中核 |
 | 地域連携 | 静岡県東部・神奈川西部 自治体・産学連携 | 信頼回復フェーズの公共領域 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 信頼回復フェーズの戦略
 
@@ -102,13 +102,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **県外進出**: 神奈川県西部・東京西部にも店舗 → 大手地銀・メガバンク・[[concordia-fg]] と直接競合
 - **個人ローン残滓**: 不動産向け融資の縮小局面で、[[paypay-fg]] / [[au-fh]] / [[sony-fg]] 等ネット銀行に若年層流出
 
-### 合纵连横
+### 提携・買収戦略
 
 - **ノジマ資本業務提携**（2020-05）: ノジマ 18% 程度出資、店舗内銀行 + デジタル融合
 - **地域連携**: 静岡県・沼津市・神奈川県西部自治体との地方創生協定
 - **メガバンクとの関係**: 旧来から都市銀行との人材交流、事件後の人材受入れ強化
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 関東財務局
 - **2018-10-05 業務改善命令** ^[extracted]:
@@ -184,5 +184,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公開 IR / 金融庁発表ベース 2026-05-19）。シェアハウス事件関連は第三者委員会報告書・金融庁業務改善命令の公開ベース。財務数値は概数・参考値、詳細は最新有価証券報告書要参照。被害規模・訴訟結末は時点変動あり。

@@ -1,10 +1,10 @@
 ---
-title: HK FRTB 稳定币储备金要求 · HKMA Reserve Framework
+title: HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework
 aliases: [hk-frtb-reserve, HKMA stablecoin reserve, HK FRTB SA]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, hk, hkma, stablecoin, reserve, frtb]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# HK FRTB 稳定币储备金要求 · HKMA Reserve Framework
+# HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework
 
 
 ## Wiki route
@@ -25,57 +25,57 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> HKMA 2025-08 稳定币立法的储备金条款是亚洲第一个对标 Basel III FRTB(Fundamental Review of the Trading Book)标准的 SC reserve framework。核心要求:100% 1:1 法币储备 + Tier 1 资产(HKD/USD 短期国债 + HKMA 存款)+ 第三方托管 + 月度审计 + 资本金 HKD 100M+。与 GENIUS §501(≤ 93 天 T-bill)+ MiCA EMT(≥ 30% 银行存款)形成三圆架构第三个差异化坐标。
+> HKMA 2025-08 ステーブルコイン立法の準備金条項は、アジアで初めて Basel III FRTB(Fundamental Review of the Trading Book)基準に対応する SC reserve framework である。コア要件:100% 1:1 法定通貨準備金 + Tier 1 資産(HKD/USD 短期国債 + HKMA 預金)+ 第三者カストディ + 月次監査 + 資本金 HKD 100M+。GENIUS §501(≤ 93 日 T-bill)+ MiCA EMT(≥ 30% 銀行預金)と相まって三円アーキテクチャの第三の差別化座標を形成する。
 
 ## Key facts
 
-- HKMA SC 立法:2025-08 通过 Stablecoin Ordinance ^[extracted]
-- 资本门槛:HKD 100M+(远高于 MAS S$5M / MiCA EMT 资本最低 €350K)^[extracted]
-- 储备国债期限:≤ 1 年(介于 GENIUS 93 天 vs MiCA 无限制之间)^[extracted]
-- Tier 1 严格度:与 Basel III FRTB SA 对齐 · 是亚洲第一 ^[extracted]
-- 100% 1:1 法币储备(HKD-pegged 或 USD-pegged)^[extracted]
-- 第三方独立托管(持牌 TCSP/Trust)+ 月度审计 + 季度公开披露 ^[extracted]
+- HKMA SC 立法:2025-08 Stablecoin Ordinance 採択 ^[extracted]
+- 資本閾値:HKD 100M+(MAS S$5M / MiCA EMT 資本最低 €350K より遥かに高い)^[extracted]
+- 準備金国債期限:≤ 1 年(GENIUS 93 日 vs MiCA 制限なしの中間)^[extracted]
+- Tier 1 厳格度:Basel III FRTB SA と整合 · アジア初 ^[extracted]
+- 100% 1:1 法定通貨準備金(HKD-pegged または USD-pegged)^[extracted]
+- 第三者独立カストディ(ライセンス TCSP/Trust)+ 月次監査 + 四半期公開開示 ^[extracted]
 - Bankruptcy-remote segregation ^[extracted]
-- 与 e-CNY 划界:不接收中国大陆零售客户 · 政治平衡硬条款 ^[extracted]
+- e-CNY との境界画定:中国本土リテール顧客は受け入れない · 政治バランスのハード条項 ^[extracted]
 
 ## Mechanism / How it works
 
-**HKMA 稳定币储备金核心**:100% 1:1 法币储备(HKD / USD pegged)+ Tier 1 资产构成(HKD 现金 + HKMA 央行存款 + HKD/USD 短期国债 ≤ 1 年 + 受限比例商业票据)+ 第三方独立托管(持牌 TCSP/Trust)+ 月度审计 + 季度公开披露 + Bankruptcy-remote segregation + HKD 100M+ paid-up capital。
+**HKMA ステーブルコイン準備金のコア**:100% 1:1 法定通貨準備金(HKD / USD pegged)+ Tier 1 資産構成(HKD 現金 + HKMA 中銀預金 + HKD/USD 短期国債 ≤ 1 年 + 限定比率の商業手形)+ 第三者独立カストディ(ライセンス TCSP/Trust)+ 月次監査 + 四半期公開開示 + Bankruptcy-remote segregation + HKD 100M+ paid-up capital。
 
-**FRTB 对接**:HKMA 将 SC reserve 视为银行 trading book 类资产 → 套用 Basel III FRTB SA(Standardised Approach)。市场风险资本计算:interest rate risk + currency risk + credit spread risk。这是全球首个把 SC reserve 明确纳入 Basel 资本框架的监管设计。资本计量传导到银行端的隐含 USDC vs USDT 溢价逻辑见 [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 战略含义]]。
+**FRTB との接続**:HKMA は SC reserve を銀行 trading book 類資産とみなす → Basel III FRTB SA(Standardised Approach)を適用。市場リスク資本計算:interest rate risk + currency risk + credit spread risk。これは SC reserve を明確に Basel 資本フレームに組み込んだ世界初の規制設計である。資本計量が銀行端まで波及することによる暗黙の USDC vs USDT プレミアムロジックは [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 戦略的含意]] を参照。
 
-**三圆架构对比**:
-| 维度 | HKMA | GENIUS §501 | MiCA EMT |
+**三円アーキテクチャ比較**:
+| 次元 | HKMA | GENIUS §501 | MiCA EMT |
 |---|---|---|---|
-| 储备比例 | 100% 1:1 | 100% 1:1 | 100% 1:1 |
-| 国债期限 | ≤ 1 年 | ≤ 93 天 T-bill | 不限期限 |
-| 银行存款 | 不限上限 | ≤ 50% 上限 | ≥ 30% 下限 |
-| 央行存款 | HKMA 直接 | FRB master account(争议) | NCB(国家央行) |
-| 资本金 | HKD 100M | OCC charter 决定 | EMI 资本 + 比例 |
-| 资本框架 | Basel III FRTB | 银行法案 + PCAOB | CRR/CRD VI |
+| 準備金比率 | 100% 1:1 | 100% 1:1 | 100% 1:1 |
+| 国債期限 | ≤ 1 年 | ≤ 93 日 T-bill | 制限なし |
+| 銀行預金 | 上限なし | ≤ 50% 上限 | ≥ 30% 下限 |
+| 中銀預金 | HKMA 直接 | FRB master account(論争) | NCB(国別中銀) |
+| 資本金 | HKD 100M | OCC charter で決定 | EMI 資本 + 比率 |
+| 資本フレーム | Basel III FRTB | 銀行法案 + PCAOB | CRR/CRD VI |
 
 ## Origin & evolution
 
-HKMA 2022-12 启动 SC consultation,2023-12 第二轮 CP 确立 Sandbox(ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium),2025-08 通过 Stablecoin Ordinance。2026-04 HKMA Consultation Paper《Capital treatment for licensed stablecoins》直接引用 BCBS SCO60 作为母标准。2026-05-21 首批牌照决定:9 家申请,实际仅 2 张(HSBC + StanChart Anchorpoint),战略含义详见 [[fintech/hkma-stablecoin-licensing-implications|HKMA 牌照战略含义]]。亚洲 / 全球横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
+HKMA は 2022-12 に SC consultation を開始、2023-12 第二回 CP で Sandbox を確立(ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium)、2025-08 に Stablecoin Ordinance を採択。2026-04 HKMA Consultation Paper《Capital treatment for licensed stablecoins》が BCBS SCO60 を母基準として直接引用。2026-05-21 初回ライセンス決定:9 社申請のうち実際は 2 件のみ(HSBC + StanChart Anchorpoint)、戦略的含意の詳細は [[fintech/hkma-stablecoin-licensing-implications|HKMA ライセンス戦略的含意]] を参照。アジア / グローバル横軸比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
 
 ## Counterpoints
 
-- HKD 100M 门槛排除中小 issuer · 与新加坡 S$5M 形成竞争劣势
-- Tier 1 严格度高 · 利润率被压缩 · 与 GENIUS §501 ≤ 93 天对比短端利率差异有限
-- 与 e-CNY 划界条款政治敏感 · 北京 vs HK 国际化双重诉求矛盾
+- HKD 100M 閾値は中小 issuer を排除 · シンガポール S$5M と比べ競争劣勢を形成
+- Tier 1 厳格度が高い · 利益率が圧縮される · GENIUS §501 ≤ 93 日と比べて短期金利差は限定的
+- e-CNY 境界画定条項は政治的に敏感 · 北京と HK 国際化の二重要求の矛盾
 
 ## Open questions
 
-- 中国大陆背景大厂(JD-HKD / 蚂蚁国际 / BOCHK)获牌时点?
-- HK §501(d) 入榜第三波(2027-H2)是否会延迟?
-- e-CNY 离岸 CNH 窗口(2026-Q4)与 HK SC 牌照如何协同?
+- 中国本土系大手(JD-HKD / Ant International / BOCHK)のライセンス取得時期は?
+- HK §501(d) リスト入りの第三波(2027-H2)は遅延するか?
+- e-CNY オフショア CNH ウィンドウ(2026-Q4)と HK SC ライセンスはどう協調するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/hkma-stablecoin-licensing-overview|HKMA 稳定币牌照概览]]
-- [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB 概览]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコイン・ライセンス概観]]
+- [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB 概観]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 <!-- /wiki-links:managed -->
 

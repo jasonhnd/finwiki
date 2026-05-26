@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -39,12 +39,12 @@
     "ウェルスナビ株式会社 (WealthNavi)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "創業者背景 ^[extracted]",
     "主要事業数値（公開情報ベース）^[ambiguous]",
     "主要提携サービス（ホワイトラベル展開）^[extracted]",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "運用方針"
   ],
   "body_links": {
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5423,
-    "word_like_tokens": 825,
+    "nonspace_chars": 5428,
+    "word_like_tokens": 824,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

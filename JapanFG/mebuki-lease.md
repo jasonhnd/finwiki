@@ -3,8 +3,8 @@ title: "めぶきリース (Mebuki Lease)"
 aliases: ["Mebuki Lease", "めぶきリース", "株式会社めぶきリース", "旧 常陽リース", "旧 足利リース"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, leasing, regional-bank-leasing-subsidiary, kanto, ibaraki, tochigi, operating-company]
@@ -51,7 +51,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
   └── 常陽キャピタル / 足利キャピタル ── 地域投資・コンサル系
 ```
 
-## 3. 合併歷史・前身
+## 3. 合併経緯・前身
 
 ### 旧 常陽リース系譜
 
@@ -82,7 +82,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 > 注: 単体財務 KPI 精緻値は [[mebuki-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント map
 
 | セグメント | 特徴 |
 |---|---|
@@ -94,7 +94,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 農業機械リース | 茨城・栃木の農業地帯向けトラクター等 |
 | 再エネリース | 太陽光パネル・蓄電池等再エネ設備リース ^[inferred] |
 
-## 6. 戦略与競争
+## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -114,7 +114,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - 強み: [[joyo-bank]] / [[ashikaga-bank]] 顧客基盤 (茨城・栃木の中堅企業 main bank) + 地域密着の現場対応
 - 弱み: 単独規模では大手リースに大幅劣後、複雑な航空機 / 不動産リース等は対応困難 ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) (リース業単独としては銀行業免許不要、貸金業登録は対応領域に応じて)
 - **業界団体**: リース事業協会 加盟 ^[inferred]
@@ -155,5 +155,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24)。[[mebuki-fg]] page = holding-company strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[mebuki-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。

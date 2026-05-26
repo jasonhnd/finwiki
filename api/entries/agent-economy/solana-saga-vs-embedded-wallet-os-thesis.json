@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
   "domain": "agent-economy",
-  "title": "Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争",
+  "title": "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争",
+    "title": "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
     "aliases": [
       "solana-saga-vs-embedded-wallet-os-thesis",
       "sms-vs-privy",
@@ -18,8 +18,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
-    "Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争",
+    "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2880,
-    "word_like_tokens": 527,
+    "nonspace_chars": 3198,
+    "word_like_tokens": 521,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

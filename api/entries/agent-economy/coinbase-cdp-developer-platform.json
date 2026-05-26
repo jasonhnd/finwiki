@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/coinbase-cdp-developer-platform.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/coinbase-cdp-developer-platform.md",
   "domain": "agent-economy",
-  "title": "Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施",
+  "title": "Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施",
+    "title": "Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤",
     "aliases": [
       "coinbase-cdp-developer-platform",
       "Coinbase Developer Platform",
@@ -19,8 +19,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -36,9 +36,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against x402 · HTTP 402 复活的 AI agent 支付协议(总览) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
-    "Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施",
+    "Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2903,
-    "word_like_tokens": 508,
+    "nonspace_chars": 3246,
+    "word_like_tokens": 518,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

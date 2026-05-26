@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/apollo-acred-private-credit-tokenization.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/apollo-acred-private-credit-tokenization.md",
   "domain": "fintech",
-  "title": "Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置",
+  "title": "Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置",
+    "title": "Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション",
     "aliases": [
       "apollo-acred-private-credit-tokenization",
       "ACRED",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -41,7 +41,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置",
+    "Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3181,
-    "word_like_tokens": 518,
+    "nonspace_chars": 3527,
+    "word_like_tokens": 524,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

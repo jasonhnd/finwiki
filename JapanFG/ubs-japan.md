@@ -3,8 +3,8 @@ title: UBS ジャパン (UBS Japan)
 aliases: ["UBS Japan", "UBS 日本", "UBS 証券", "UBS Securities Japan", "UBS SuMi TRUST WM", "UBS SuMi TRUST ウェルス・マネジメント"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, wealth-management]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 スイス UBS Group AG（G-SIB Bucket 1、世界最大級プライベートバンク）の日本拠点群。**2023-06 スイス政府主導で旧クレディ・スイス緊急買収完了**、2024 年に旧 CS 日本拠点との統合が進行 ★。日本では UBS 証券（法人 IB）+ **UBS SuMi TRUST ウェルス・マネジメント（[[sumitomo-mitsui-trust]] との JV）** + UBS 銀行東京支店 + UBS アセット・マネジメント の 4 軸体制。PB（プライベートバンキング）は世界トップクラスで、日本では富裕層向け資産運用を SuMi TRUST JV で展開。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**：UBS Group AG（スイス・チューリッヒ本社、SIX: UBSG / NYSE: UBS）^[extracted]
 **G-SIB**：FSB 認定 Bucket 1（+1.0% CET1 追加資本要件）^[inferred]
@@ -60,7 +60,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2023-06-12**：**UBS による旧 クレディ・スイス 緊急買収完了**（取得対価 約 30 億スイス・フラン、CS 株 1 株: UBS 株 1/22.48）★ ^[extracted]
 - **2024**：旧 クレディ・スイス・ジャパン（旧 CS 証券・在日支店等）の UBS ジャパン拠点への統合完了 → コスト・リストラ進行
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | アセマネ | UBS アセット・マネジメント | 機関投資家・年金向け |
 | 旧 CS 統合事業 | 旧 CS 証券（統合済）| 2024 統合完了、コスト・リストラ進行中 |
 
-## 4. 戦略与竞争
+## 4. 戦略・競争
 
 ### グローバル戦略
 
@@ -84,13 +84,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **IB**：旧 CS との統合で日本 IB 規模拡大 → 邦銀系（[[smfg]] SMBC 日興・[[mufg]] MUMSS）/ 米系（Morgan Stanley・Goldman Sachs・JPMorgan）と競合
 - **コスト・リストラ**：旧 CS 日本拠点との重複（部門・人員・営業店）解消で 2024〜2026 にかけて段階的に縮小調整
 
-### 合纵连横
+### 提携・買収戦略
 
 - **クレディ・スイス緊急買収**（2023-06）★: スイス政府・SNB・FINMA 主導の救済スキーム。AT1 債 無価値化が市場で物議
 - **[[sumitomo-mitsui-trust]] PB JV**（2014〜）: 日本 PB 共同展開、相互補完
 - **旧 CS 日本拠点統合**（2024）: UBS 証券 + 旧 CS 証券、東京拠点・人員・業務統合
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **本国主管**: FINMA（スイス金融市場監督機構）+ SNB（スイス国立銀行）
 - **日本主管**: 金融庁（FSA）、関東財務局（外資系証券会社・銀行支店登録）
@@ -128,5 +128,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報 + Wikipedia 校核 2026-05-19）。UBS SuMi TRUST WM の持株比率（51% / 49%）は公開報道ベースの推定で、最新値は両社プレスを要参照。旧 CS 統合の進捗・人員規模は流動的で、四半期ごとに UBS IR をチェックすること。

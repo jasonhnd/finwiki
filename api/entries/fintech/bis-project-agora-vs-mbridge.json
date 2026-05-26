@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bis-project-agora-vs-mbridge.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/bis-project-agora-vs-mbridge.md",
   "domain": "fintech",
-  "title": "Agorá vs mBridge · 跨境清算双轨制战略对照",
+  "title": "Agorá vs mBridge · クロスボーダー決済デュアル・トラック制の戦略比較",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Agorá vs mBridge · 2026+ 跨境清算双轨制战略对照",
+    "title": "Agorá vs mBridge · 2026+ クロスボーダー決済デュアル・トラック制の戦略比較",
     "aliases": [
       "bis-project-agora-vs-mbridge",
       "Agora mBridge comparison",
-      "跨境清算双轨制"
+      "クロスボーダー決済デュアル・トラック制"
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -41,7 +41,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "Agorá vs mBridge · 跨境清算双轨制战略对照",
+    "Agorá vs mBridge · クロスボーダー決済デュアル・トラック制の戦略比較",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2934,
-    "word_like_tokens": 496,
+    "nonspace_chars": 3443,
+    "word_like_tokens": 522,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

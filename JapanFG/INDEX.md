@@ -1,10 +1,10 @@
 ---
-title: JapanFG — 日本金融集团 wiki namespace
+title: JapanFG — 日本金融グループ wiki namespace
 aliases: ["Japan FG", "日本 FG", "JFG-index", "日本金融集団"]
 domain: JapanFG
 created: 2026-05-18
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: certain
 tags: [JapanFG, index]
@@ -15,29 +15,29 @@ sources:
   - "金融庁・FSB 公開資料"
 ---
 
-# JapanFG — 日本金融集团 wiki namespace
+# JapanFG — 日本金融グループ wiki namespace
 
 ## Overview
 
-日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。**620 entity entries + INDEX / legal-license / registry / backlog control surfaces** 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity 页按 8 段固定结构（公司結構 / 业务线 / 战略 / 监管 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
+日本主要金融グループ（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）の entity ページ namespace。**620 entity entries + INDEX / legal-license / registry / backlog control surfaces** がカバーするのはメガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-company pages + second-regional-bank long-tail anchors + foreign-bank branch P0/P1 Asia anchors + foreign-bank branch P2 strategic exceptions / ICSD / India / Thailand / ANZ corridor anchors + foreign-bank branch P3 Australia / Taiwan / Indonesia / Philippines / Brazil corridor anchors + foreign-bank branch P4 Taiwan / Pakistan / UBAF closure anchors + trust-company priority A / B / C anchors + specialty trust-bank / CCI current-name anchors + 57-row foreign-bank branch registry + 38-row trust-company registry + JA Bank / JF Marine Bank system routes + 証券 / 資産運用 operators + securities / insurance / foreign-bank branch / foreign-bank agency / foreign-group adjacent-license control routes + payment/card/PSP operators + wallet / remittance operators + consumer-finance / auto-finance operators + stablecoin / EPI infrastructure anchors + life-insurance operating-company pages + non-life major / direct / specialty / reinsurance operating-company pages + pet / outdoor / telco-linked / travel / rental-housing / foreign-affiliated specialty insurers + insurance holding-company pages の全業態。P3 graph-repair で追加した 21 entries は、20 entries が P4 で source-verified active に昇格し、1 entry (`ssjbank`) は誤リンクとして deprecated alias-audit に整理済み。成熟 entity ページは 8 段固定構造（会社概要 / 事業セグメント / 戦略 / 規制 / Counterpoints / Open questions / Related / Sources）+ ASCII 持株ツリー + KPI 表。
 
-## 命名与位置 convention
+## 命名・位置 convention
 
-- 目录：wiki/JapanFG/
-- 文件名：短横线小写 slug（如 mufg.md / ndfg.md / paypay-fg.md / au-fh.md）
-- title：日中混合可读名 + 英缩号，如 "三菱 UFJ FG (MUFG)"
-- aliases：覆盖英缩 / 日文全称 / 中文别名
+- ディレクトリ：wiki/JapanFG/
+- ファイル名：短ハイフン小文字 slug（例：mufg.md / ndfg.md / paypay-fg.md / au-fh.md）
+- title：日英混在の可読名 + 英略号、例「三菱 UFJ FG (MUFG)」
+- aliases：英略 / 日文正式名 / 別名をカバー
 - domain：JapanFG
-- 默认 confidence：possible（training-data drafted）；经公开 IR 资料校核后升 likely
+- デフォルト confidence：possible（training-data drafted）；公開 IR 資料校核後に likely へ昇格
 
-## 模板（8 段固定）
+## テンプレート（8 段固定）
 
-1. **Overview** — 2-3 句话核心结论
-2. **1. 公司结构** — 持株 / 子会社 / 合併歴史 / 法人架構（ASCII 持株ツリー）
-3. **2. 业务线 map** — 零售 / 法人 / 市場 / 資管 / 海外 / デジタル（KPI 表）
-4. **3. 战略与竞争** — DX / 合纵連横 / 海外拡張 / 競合位置
-5. **4. 监管与政策** — 金融庁 / 日銀 / SROs / 上場規則 / コンプラ境界
-6. **Counterpoints** — 反方観点 / 隐含リスク
+1. **Overview** — 2-3 文の中核結論
+2. **1. 会社概要** — 持株 / 子会社 / 合併歴史 / 法人構造（ASCII 持株ツリー）
+3. **2. 事業セグメント・マップ** — リテール / 法人 / 市場 / 資管 / 海外 / デジタル（KPI 表）
+4. **3. 戦略・競争** — DX / 提携・買収 / 海外拡張 / 競合位置
+5. **4. 規制・政策** — 金融庁 / 日銀 / SROs / 上場規則 / コンプラ境界
+6. **Counterpoints** — 反対観点 / 内在リスク
 7. **Open questions** — 未回答の問い
 8. **Related / Sources** — 交差引用 + 公開ソース
 
@@ -62,11 +62,11 @@ sources:
 | ✅ likely | [[au-fh]] | au フィナンシャル HD | 通信系 FG | KDDI 系 · Lawson JV |
 | ✅ likely | [[paypay-fg]] | PayPay 金融グループ | 決済系 FG | SoftBank/LY 系 · LINE Pay 統合 |
 | ✅ likely | [[rakuten-fg]] | 楽天グループ金融 | EC 系 FG | 楽天 G 内金融セグメント |
-| ✅ likely | [[sbi-hd]] | SBI HD | 網絡金融 | 独立大手 + SMFG 提携 · SBI 新生 |
+| ✅ likely | [[sbi-hd]] | SBI HD | ネット金融 | 独立大手 + SMFG 提携 · SBI 新生 |
 
 ## P1 ネオバンク・証券・暗号資産（8 家）✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[ssnb]] | 住信 SBI ネット銀行 | ネット銀 + BaaS |
 | ✅ likely | [[monex-group]] | マネックスグループ | 証券 + 暗号資産 |
@@ -79,7 +79,7 @@ sources:
 
 ## P2 生損保・クレカ・政策金融（9 家）✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[dai-ichi-life]] | 第一生命 HD | 生保 (株式会社) |
 | ✅ likely | [[nippon-life]] | 日本生命 | 生保 (相互会社) |
@@ -93,7 +93,7 @@ sources:
 
 ## P3 大手系・信託・郵政・政策金融（10 家）✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[resona-hd]] | りそな HD | 第 4 のメガ級・信託兼業商業銀行 |
 | ✅ likely | [[sumitomo-mitsui-trust]] | 三井住友トラスト HD | 3 大信託（独立、SMFG とは別法人）|
@@ -138,7 +138,7 @@ sources:
 
 ## P6 Fintech・中堅証券・大手生保（10 家）✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[aeon-bank]] | イオン銀行 (AFS) | 流通系銀行 + アジア展開 |
 | ✅ likely | [[money-forward]] | マネーフォワード | 家計簿 + 法人会計 SaaS |
@@ -153,7 +153,7 @@ sources:
 
 ## P7 信販・カード・地銀・中堅生損保（10 家）✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[orico]] | オリコ | 信販 (自動車ローン No.1) |
 | ✅ likely | [[jaccs]] | ジャックス | 信販 ([[mufg]] 系) |
@@ -183,7 +183,7 @@ sources:
 
 ## P9 大手金融・リース + 主要地銀 (10 家) ✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[orix-corp]] | オリックス | 総合金融コングロマリット |
 | ✅ likely | [[tokyo-century]] | 東京センチュリー | 3 大リース ([[mizuho-fg]] + 伊藤忠) |
@@ -198,7 +198,7 @@ sources:
 
 ## P10 残り地銀・沖縄・中央機関 (10 家) ✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[ogaki-kyoritsu-bank]] | 大垣共立銀行 | 岐阜西濃 · 「楽しい銀行」 |
 | ✅ likely | [[hyakugo-bank]] | 百五銀行 | 三重北部 · 中京経済圏 |
@@ -213,7 +213,7 @@ sources:
 
 ## P11 外資生損保 + Fintech + 暗号資産 (10 家) ✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[aflac-japan]] | アフラック生命 | 第三分野 No.1 (米 Aflac) |
 | ✅ likely | [[metlife-japan]] | メットライフ生命 | 外貨建保険 (米 MetLife) |
@@ -228,7 +228,7 @@ sources:
 
 ## P12 Wikipedia 持株会社カテゴリ追加発見 (10 家) ✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[aichi-fg]] | あいち FG | 愛知銀 + 中京銀 (2022-10 統合) |
 | ✅ likely | [[aizawa-sg]] | アイザワ証券 G | 中堅証券 (アジア新興国投資) |
@@ -243,7 +243,7 @@ sources:
 
 ## P13 地域銀行・残存銀行追加 (10 家) ✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[77-bank]] | 七十七銀行 | 宮城・東北中核地銀 |
 | ✅ likely | [[chiba-kogyo-bank]] | 千葉興業銀行 | 千葉第 2 地銀 |
@@ -258,7 +258,7 @@ sources:
 
 ## P14 信託・短資・外資・消費者金融・政策金融追加 (10 家) ✅ 完了
 
-| Status | Slug | Name | 类型 |
+| Status | Slug | Name | 種別 |
 |---|---|---|---|
 | ✅ likely | [[acom]] | アコム | 消費者金融（[[mufg]] 系） |
 | ✅ likely | [[custody-bank]] | 日本カストディ銀行 | 資産管理銀行 |
@@ -959,7 +959,7 @@ sources:
 
 ---
 
-## Rollout 节奏 (履歴)
+## Rollout リズム (履歴)
 
 - **Phase 1 (pilot)** — 2026-05-18 — mufg + smfg ✅
 - **Phase 2 (P0 補齊)** — 2026-05-19 — mizuho-fg / ndfg / au-fh / paypay-fg / rakuten-fg / sbi-hd ✅
@@ -1116,7 +1116,7 @@ Wave 5 closes two coverage gaps simultaneously — (i) a non-life insurer regist
 - Registry QA / index-control snapshot: 1 compact coverage table in expansion backlog (no new entity count)
 - Cooperative-finance registry indexes: 3 banking-domain indexes (no JapanFG entity count change)
 - P3 graph-repair pages: 21 entries (20 promoted in P4, 1 deprecated erroneous alias, 0 planned stubs remain)
-- メガバンク + 通信系 + 決済系 + EC 系 + 網絡金融: 8 (P0)
+- メガバンク + 通信系 + 決済系 + EC 系 + ネット金融: 8 (P0)
 - ネオバンク + 証券 + 暗号資産: 8 (P1)
 - 生損保 + クレカ + 政策金融: 9 (P2)
 - 大手系 + 信託 + 郵政 + 政策金融: 10 (P3)

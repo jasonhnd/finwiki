@@ -3,8 +3,8 @@ title: ひろぎん HD (Hirogin Holdings)
 aliases: ["ひろぎん HD", "Hirogin Holdings", "株式会社ひろぎんホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **[[hiroshima-bank|広島銀行]]**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[JapanFG/chugin-okayama|chugin-fg]]（[[chugoku-bank|中国銀行]]・岡山）、[[san-in-godo-bank]]（山陰合同・松江）、[[yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ひろぎんホールディングス
 **英名**：Hirogin Holdings, Inc.
@@ -51,7 +51,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── ひろぎんビジネスサービス(100%)── BPO
 ```
 
-### 重要历史
+### 沿革
 
 | 年 | 事象 |
 |---|---|
@@ -66,7 +66,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2021〜 | ひろぎん証券・ひろぎん信用保証 等を順次子会社化・グループ再編 |
 | 2024 | 中期経営計画策定（2024〜2026 年度）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -81,7 +81,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | IT | ひろぎん IT ソリューションズ | グループ内システム |
 | 海外 | 広島銀行 海外駐在員事務所 | 上海・香港・シンガポール・バンコク・NY |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地盤戦略
 
@@ -113,7 +113,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 法人向け本業支援（事業承継・M&A・IT 化支援）強化
 - グループ横断のクロスセル深化
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 中国財務局
 - **持株会社規制**: 銀行法 第 52 条の 17（銀行持株会社）
@@ -149,5 +149,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia + 公式 IR 校核 2026-05-19）。具体的な数値（総資産・純利益・支店数等）は本エントリでは未記載、次回更新時に最新 IR から補完予定。中国地方競合構図の市場シェア定量比較は要追加。
+> [!info] 検証状況
+> confidence: **likely**（v1.0 Wikipedia + 公式 IR 検証 2026-05-19）。具体的な数値（総資産・純利益・支店数等）は本エントリでは未記載、次回更新時に最新 IR から補完予定。中国地方競合構図の市場シェア定量比較は要追加。

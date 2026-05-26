@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/m0-network-infrastructure-update-2026.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/m0-network-infrastructure-update-2026.md",
   "domain": "fintech",
-  "title": "M0 / M Network · 2026 基础设施更新 · M Bridge × Mexican Peso × USDM × 中性中间件成熟期",
+  "title": "M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "M0 / M Network · 2026 基础设施更新 · M Bridge × Mexican Peso × USDM × 中性中间件成熟期",
+    "title": "M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期",
     "aliases": [
       "m0-network-infrastructure-update-2026",
       "M0 2026 update",
@@ -22,8 +22,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -48,17 +48,17 @@
       "https://www.bain.com/about/media-center/press-releases/2025/bain-capital-crypto-m0/"
     ]
   },
-  "summary": "M0 (M^ZERO) 在 2026 上半年从 \"early-stage 中性基础设施\" 进入 \"partner-issuer 中间件\" 阶段, 同时押三条新增长线: (1) M Bridge = M0 在 Base / Arbitrum / OP / Unichain / Solana 之间的原生互通层, 让任何 partner issuer 的稳定币天然多链共存; (2) MXNB pilot = Bitso + Mercado Bitcoin 等拉美参与方在 M0 之上发行墨西哥比索锚定稳定币, 第一个非美元 partner SC; (3) USDM = M0 自家的 yield-bea",
+  "summary": "M0(M^ZERO) は 2026 上半期に「early-stage 中立インフラ」から「partner-issuer ミドルウェア」段階に入り、同時に 3 つの新成長軸に賭ける:(1)M Bridge = M0 が Base / Arbitrum / OP / Unichain / Solana 間に提供するネイティブ相互接続層で、任意の partner issuer ステーブルコインが自然にマルチチェーンで共存可能;(2)MXNB pilot = Bitso + Mercado Bitcoin 等の中南米参加者が M0 上でメキシコペソ・ペッグ・ステーブルコインを発行、初の非米ドル par",
   "headings": [
-    "M0 / M Network · 2026 基础设施更新 · M Bridge × Mexican Peso × USDM × 中性中间件成熟期",
+    "M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期",
     "TL;DR",
     "Wiki route",
     "Key facts (2026-05 snapshot)",
     "2026 event timeline",
-    "Mechanism / 三层中间件如何升级",
-    "$M token 经济学与治理",
-    "与其他 neutral-infra SC 对比",
-    "USDM yield path 拆解",
+    "Mechanism / 3 層ミドルウェアのアップグレード",
+    "$M トークン・エコノミクスとガバナンス",
+    "他の neutral-infra SC との比較",
+    "USDM yield path の分解",
     "Counterpoints"
   ],
   "body_links": {
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8834,
-    "word_like_tokens": 1578,
+    "nonspace_chars": 9662,
+    "word_like_tokens": 1572,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

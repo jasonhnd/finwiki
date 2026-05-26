@@ -1,10 +1,10 @@
 ---
-title: First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD
+title: First Digital FDUSD · HK ライセンス候補 · Binance 主要取引ペアで BUSD を代替
 aliases: [first-digital-fdusd-hk-stablecoin, FDUSD, First Digital USD, FDT]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, fdusd, first-digital, hong-kong, hkma, binance, gray-to-white]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD
+# First Digital FDUSD · HK ライセンス候補 · Binance 主要取引ペアで BUSD を代替
 
 
 ## Wiki route
@@ -25,42 +25,42 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> First Digital USD (FDUSD) 由香港 First Digital Trust 发行,2023-06 上线作为 BUSD (NY DFS 关停) 的 Binance 主交易对替代,2026-Q1 MCap **~$3B**。FDT 是 HKMA SC 牌照第一阶段 9 家申请人之一,2025-08 申请,但因 **Justin Sun 关联实体储备争议**(2024-12 The Block 调查 + 2025-Q1 短暂脱锚) 被 HKMA 要求剥离,牌照推迟至 2026-Q3。FDUSD 是亚太"灰圈 → 白圈"转型的最大体量样本,也是 HKMA 的 "牌照样板压力测试"。
+> First Digital USD (FDUSD) は香港 First Digital Trust が発行、2023-06 ローンチで BUSD (NY DFS 停止) の Binance 主要取引ペア代替として登場、2026-Q1 MCap **~$3B**。FDT は HKMA SC ライセンス第一フェーズ 9 社申請者の一つで、2025-08 申請したが **Justin Sun 関連実体による準備金論争** (2024-12 The Block 調査 + 2025-Q1 一時的デペッグ) により HKMA から Sun 切り離しを要求され、ライセンスは 2026-Q3 まで延期。FDUSD はアジア太平洋「グレー圏 → ホワイト圏」転換の最大体量サンプルであり、HKMA の「ライセンス雛形ストレステスト」でもある。
 
 ## Key facts
 
-- MCap **~$3B** (2026-Q1) · 上线 2023-06 · 链分布 Ethereum 40% + BNB Chain 55% + Solana 5% ^[extracted]
-- 储备 85% UST + 12% 现金 + 3% MMF · Prescient Assurance 月度 attestation ^[extracted]
-- Binance BTC/FDUSD 交易对 24h 量 ~$1.5B (2026-Q1) ^[extracted]
-- 月赎回量 ~$200M ^[extracted]
-- HKMA 牌照: 2025-08 申请 → 2026-02 二轮 → 2026-04 HKMA 要求剥离 Sun → **2026-Q3 预期** (原计划 Q2) ^[extracted]
-- 2024-12 The Block 调查揭储备托管于 Sun 控制实体争议 ^[extracted]
-- 2025-Q1 FDUSD 5 分钟内脱锚至 $0.985 · 触发市场对透明度担忧 ^[extracted]
+- MCap **~$3B** (2026-Q1) · ローンチ 2023-06 · チェーン分布 Ethereum 40% + BNB Chain 55% + Solana 5% ^[extracted]
+- 準備金 85% UST + 12% 現金 + 3% MMF · Prescient Assurance 月次 attestation ^[extracted]
+- Binance BTC/FDUSD 取引ペア 24h 量 ~$1.5B (2026-Q1) ^[extracted]
+- 月次償還量 ~$200M ^[extracted]
+- HKMA ライセンス: 2025-08 申請 → 2026-02 第二ラウンド → 2026-04 HKMA が Sun 切り離しを要求 → **2026-Q3 予定** (当初計画 Q2) ^[extracted]
+- 2024-12 The Block 調査で準備金が Sun 支配下実体にカストディされている論争が判明 ^[extracted]
+- 2025-Q1 FDUSD が 5 分以内に $0.985 までデペッグ · 透明性懸念を市場に喚起 ^[extracted]
 
 ## Mechanism / How it works
 
-FDUSD 的核心定位 = **唯一深度绑定 Binance 的稳定币**——2023-08 Binance 因 BUSD 退出市场后 (NY DFS 关停 Paxos BUSD),迅速把 FDUSD 推为主交易对锚。这给 FDUSD 带来快速增长(0 → $3B 不到 2 年),但也带来"过度依赖单一分销商"风险:Binance 在 FDUSD 上有 50%+ 流通量与 70%+ 交易量。**与 PYUSD/USDC 的分销激励模型不同**: FDUSD 不公开披露 FDT → Binance 的 yield 分账比例,但市场推测 Binance 在 FDUSD 上享有"做市商优惠 + 上币首选权"的非利息形式补贴,与 [[fintech/issuer-distributor-incentive-realignment-50-50-model|发行/分销 50-50 模型]] 描述的分账边界刚好相反。HKMA 牌照路径让 FDUSD 成为"灰圈 → 白圈"转型的首个大体量案例(对比 USDT 选择留灰圈)。
+FDUSD のコアポジショニング = **Binance に深く紐づく唯一のステーブルコイン** —— 2023-08 Binance が BUSD で市場から撤退した後 (NY DFS が Paxos BUSD を停止)、迅速に FDUSD を主要取引ペアアンカーに据えた。これは FDUSD に急成長 (0 → $3B 2 年未満) をもたらしたが、「単一ディストリビューター過度依存」リスクも生んだ:Binance は FDUSD 上で 50%+ の流通量と 70%+ の取引量を持つ。**PYUSD/USDC のディストリビューションインセンティブモデルとは異なり**:FDUSD は FDT → Binance の yield 分配比率を公開していないが、市場推測では Binance が FDUSD 上で「マーケットメイカー優遇 + 上場優先権」という非利息形式の補助を受けているとされ、[[fintech/issuer-distributor-incentive-realignment-50-50-model|発行/分配 50-50 モデル]] が描く分配境界とは丁度逆。HKMA ライセンス経路は FDUSD を「グレー圏 → ホワイト圏」転換の最初の大型ケースとした (USDT がグレー圏に留まる選択と対照)。
 
 ## Origin & evolution
 
-2023-06 FDUSD 上线 (作为 BUSD 替代候选). 2023-08 Binance 把 FDUSD 推为 BTC 主交易对锚. 2024-12 The Block 调查文章揭示 FDT × Sun 关联 (Sun 否认). 2025-Q1 FDUSD 5 分钟脱锚至 $0.985. 2025-08-01 香港《稳定币条例》生效 (详见 [[fintech/hkma-stablecoin-licensing-overview|HKMA 稳定币牌照]]),FDT 是首批申请人. 2025-09 中文媒体 PANews / Odaily 大量报道 FDT × Sun. 2026-02 HKMA 二轮反馈. **2026-04-21 The Standard 报道 HKMA 要求圆币科技剥离 Sun 关联实体**. 2026-Q3 预期获批 (推迟一季). HKMA 2026-05-21 首批 1-2 家牌照名单预期为渣打 HKDR + 京东 JD-HKD, **FDT 不在首批**.
+2023-06 FDUSD ローンチ (BUSD 代替候補として)。2023-08 Binance が FDUSD を BTC 主要取引ペアアンカーに据える。2024-12 The Block 調査記事で FDT × Sun 関連を露呈 (Sun は否定)。2025-Q1 FDUSD が 5 分で $0.985 までデペッグ。2025-08-01 香港《ステーブルコイン条例》施行 (詳細は [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコイン・ライセンス]])、FDT は初回申請者。2025-09 中文メディア PANews / Odaily で FDT × Sun が多数報道。2026-02 HKMA 第二ラウンド・フィードバック。**2026-04-21 The Standard が、HKMA が First Digital に Sun 関連実体の切り離しを要求と報道**。2026-Q3 取得予定 (一四半期延期)。HKMA 2026-05-21 初回 1-2 件ライセンスリストは Standard Chartered HKDR + 京東 JD-HKD の予想で、**FDT は初回には入らず**。
 
 ## Counterpoints
 
-FDUSD 储备审计不如 USDC/PYUSD 严格 (Prescient Assurance 不如 Deloitte / WithumSmith+Brown 知名). 如果 HKMA 在 2026-Q3 仍不发牌,FDUSD 可能进入"无牌照增长 + 监管压力"恶性循环. Binance 单一分销商风险: 一旦 Binance 在某司法辖区被处罚,FDUSD 流通量可能被迫迁回 USDT,触发与 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管矩阵]] 中 "single exchange dependency" 同类的传染. 与三圆 MRA 关系: HKMA 不在三圆 (GENIUS/MiCA/EPI) ,如果 HKMA 牌照不能进入互认框架,**FDUSD 实质上仍是亚太局部产品**,无法获得 USDC 那种全球互认地位。
+FDUSD の準備金監査は USDC/PYUSD ほど厳格でない (Prescient Assurance は Deloitte / WithumSmith+Brown ほど著名でない)。HKMA が 2026-Q3 にもライセンスを発行しなければ、FDUSD は「無ライセンスでの成長 + 規制圧力」の悪循環に入る可能性。Binance 単一ディストリビューター・リスク:Binance がいずれかの管轄区域で処分されれば、FDUSD 流通量は USDT へ強制移行される可能性があり、[[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制マトリクス]] における「single exchange dependency」と同種の伝染を招く。三円 MRA との関係:HKMA は三円 (GENIUS/MiCA/EPI) に入っておらず、HKMA ライセンスが相互承認フレームに入れなければ、**FDUSD は本質的にアジア太平洋の局所プロダクトに留まり**、USDC のようなグローバル相互承認の地位は得られない。
 
 ## Open questions
 
-HKMA 2026-Q3 是否真发牌给 FDT?Sun 关联实体剥离是否真实(还是文字游戏)?如果 HKMA 牌照拿到,FDUSD 能否触发 USDT 在亚太市场的份额收缩?HKMA 牌照如何与新加坡 MAS / 日本 EPI 互认?
+HKMA は 2026-Q3 に本当に FDT へライセンスを発行するか?Sun 関連実体の切り離しは実質的か (言葉の遊びか)?HKMA ライセンス取得後、FDUSD はアジア太平洋市場における USDT シェアの収縮を引き起こせるか?HKMA ライセンスはどのようにシンガポール MAS / 日本 EPI と相互承認されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
-- [[fintech/three-circles-stablecoin-mra-framework|稳定币三圆 MRA]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether 灰圈商业模型]]
-- [[fintech/jurisdiction-list-monetary-protectionism|司法辖区清单 · 货币保护主义]]
-- [[fintech/gray-market-dollar-network-formalization|灰市美元网络形式化]]
+- [[fintech/three-circles-stablecoin-mra-framework|ステーブルコイン三円 MRA]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether グレー圏ビジネスモデル]]
+- [[fintech/jurisdiction-list-monetary-protectionism|管轄区域リスト · 通貨保護主義]]
+- [[fintech/gray-market-dollar-network-formalization|グレー市場ドルネットワークの正式化]]
 <!-- /wiki-links:managed -->
 
 ## Sources

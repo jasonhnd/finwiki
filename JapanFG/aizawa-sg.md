@@ -3,8 +3,8 @@ title: アイザワ証券グループ (Aizawa Securities Group)
 aliases: ["Aizawa Securities Group", "Aizawa SG", "アイザワ証券グループ", "藍澤證券", "8708"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, independent]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 中堅独立証券持株会社（東証 STD **8708**）。1918-02 藍澤彌八が東京・日本橋兜町で 藍澤證券店 として創業 → 1948 株式会社化 → 1989 ジャスダック上場 → 2017-04 持株会社化。**「アジア新興国投資の専門証券」** として独自ポジション確立。日本の証券会社では最も広いアジア新興国カバレッジ（ベトナム・インドネシア・タイ・カンボジア・ミャンマー等）。リテール中心、法人 IB は限定的。競合は同じ独立中堅枠の [[okasan-sg]] / [[tokai-tokyo-fh]]、ネット系 [[matsui-sec]] / [[monex-group]]。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社アイザワ証券グループ ^[extracted]
 **英名**：Aizawa Securities Group Co., Ltd.
@@ -71,7 +71,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証 市場区分見直し → 東証 STANDARD 8708 |
 | 2020 年代 | コロナ後アジア新興国市場の流動性改善で取引仲介ビジネス拡大 ^[inferred] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -84,7 +84,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 法人 IB | 限定的 | 中堅独立証券として大型 IB 案件は手掛けず |
 | 資産運用・投資顧問 | グループ関連会社 | 規模限定 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 差別化軸：「アジア新興国投資の専門証券」
 
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | [[monex-group]]（マネックス G）| ネット専業、米国株 + 暗号資産で差別化 |
 | [[smbc-nikko]]（SMBC 日興）| 大手 5 大証券、メガバンク傘下 |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）・関東財務局
 - **業態**：第一種金融商品取引業（証券業）

@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/enterprise-procurement-deadline-anchor.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/enterprise-procurement-deadline-anchor.md",
   "domain": "fintech",
-  "title": "企业 IT 采购预算锁定",
+  "title": "企業 IT 調達予算ロックイン",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "企业 IT 采购预算锁定 —— 表面市场截止线的隐藏机制",
+    "title": "企業 IT 調達予算ロックイン —— 表層的な市場締切の背後にある隠れたメカニズム",
     "aliases": [
-      "企业采购周期",
+      "企業調達サイクル",
       "IT budget cycle",
       "procurement deadline anchor"
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -39,13 +39,13 @@
   },
   "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "企业 IT 采购预算锁定",
+    "企業 IT 調達予算ロックイン",
     "Wiki route",
-    "机制",
-    "稳定币 2026 案例",
-    "解释力",
-    "应用 / 转用",
-    "关联"
+    "メカニズム",
+    "ステーブルコイン 2026 ケース",
+    "説明力",
+    "応用 / 転用",
+    "関連"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2424,
-    "word_like_tokens": 440,
+    "nonspace_chars": 2741,
+    "word_like_tokens": 439,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

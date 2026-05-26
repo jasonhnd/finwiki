@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tether-usat-anchorage.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/tether-usat-anchorage.md",
   "domain": "fintech",
-  "title": "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+  "title": "Tether USAT · Anchorage 提携の米国コンプライアンスブランチ · USDT 国際/国内デュアルライン分離",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+    "title": "Tether USAT · Anchorage 提携の米国コンプライアンスブランチ · USDT 国際/国内デュアルライン分離",
     "aliases": [
       "tether-usat-anchorage",
       "USAT",
@@ -19,8 +19,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "possible",
     "tags": [
@@ -44,9 +44,9 @@
       "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with Tether USDT 经济学 for the parent product whose bifurcation USAT represents, and with GENIUS Act §501 for the U.S. regulatory framework that forced Tether to design a separate U.S.-compliant entity.",
+  "summary": "This entry sits under fintech index. Read it with Tether USDT 経済学 for the parent product whose bifurcation USAT represents, and with GENIUS Act §501 for the U.S. regulatory framework that forced Tether to design a separate U.S.-compliant entity.",
   "headings": [
-    "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+    "Tether USAT · Anchorage 提携の米国コンプライアンスブランチ · USDT 国際/国内デュアルライン分離",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5490,
-    "word_like_tokens": 894,
+    "nonspace_chars": 6138,
+    "word_like_tokens": 899,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

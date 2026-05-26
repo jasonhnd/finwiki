@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,12 +41,12 @@
     "セブン銀行 (Seven Bank)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "業態の特徴",
     "主要子会社・グループ ^[extracted]",
     "株主構造（連結）^[ambiguous]",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "収益モデル（B2B2C）"
   ],
   "body_links": {
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5539,
-    "word_like_tokens": 849,
+    "nonspace_chars": 5544,
+    "word_like_tokens": 848,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

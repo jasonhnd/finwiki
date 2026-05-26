@@ -8,8 +8,8 @@ aliases:
   - "ヤマトクレジットファイナンス"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, BNPL, atobarai, logistics, yamato, installment-sales]
@@ -49,7 +49,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **logistics-ancho
 
 [[JapanFG/bnpl-landscape|Japan BNPL landscape]] および [[JapanFG/paidy|Paidy]] / [[JapanFG/atone|atone]] / [[JapanFG/net-protections-hd|Net Protections HD]] のページから直接参照される **物流系 BNPL のアンカー**として、独立ページが必要。ヤマト HD 本体は物流コングロマリットであり、金融サブセグメント単独で取り出すのが整理上自然。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **割賦販売法**: 信用購入あっせん業として METI 登録。与信判断・苦情処理・指定信用情報機関接続が論点。
 - **配送業との内部統合**: 物流子会社と金融子会社の役割分担、データ授受の個人情報保護法上の整理。^[inferred]

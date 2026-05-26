@@ -3,8 +3,8 @@ title: 三井住友トラストグループ (SuMi TRUST)
 aliases: ["SuMi TRUST", "三井住友トラストグループ", "三井住友トラスト・ホールディングス", "Sumitomo Mitsui Trust Group", "Sumitomo Mitsui Trust Holdings", "三井住友信託 HD", "8309"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: certain
 tags: [JapanFG, trust-banking]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 メガバンクから独立した唯一の信託専業持株会社、**3 大信託の一角**（三菱 UFJ 信託 / 三井住友信託 / みずほ信託）。2002-02 中央三井トラスト HD 設立 → 2011-04 住友信託銀行と統合 → 三井住友トラスト・ホールディングス発足 → **2024-10-01 三井住友トラストグループに商号変更**。年金・不動産・証券代行・遺言信託に特化。FY2024 純利益 **2,576 億円**（前期比 3.3 倍、過去最高）、総資産 **78.2 兆円**、**信託財産残高 263.3 兆円（業界首位）**。**注意：[[smfg]] (三井住友 FG) とは別法人** — 「三井住友」名称が共通だが、SuMi TRUST は旧三井家 + 旧住友家系の **信託** ルーツ、SMFG は旧太陽神戸 + 旧住友銀行系の **銀行** ルーツで資本関係なし。SBI HD と [[ssnb]] (SBI 住信ネット銀行) を JV 運営。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：三井住友トラストグループ株式会社（2024-10-01〜）
 **旧称**：三井住友トラスト・ホールディングス株式会社（2011-04 〜 2024-09）
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2024-10-01** | **三井住友トラスト・ホールディングス → 三井住友トラストグループ に商号変更** ★ |
 | **2025-03** | **FY2024 通期決算：純利益 2,576 億円（前期比 3.3 倍、過去最高）、総資産 78.2 兆円** |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -104,7 +104,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ネット銀行（JV）| SBI 住信ネット銀行（50%）| BaaS / ネット専業、[[ssnb]] |
 | クレジットカード | 三井住友トラスト・カード | - |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 信託専業独立路線
 
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **法人**：年金資産受託（DB / DC）・不動産信託・証券代行で大企業顧客基盤
 - **機関投資家**：日興アセット + 三井住友トラスト AM で投信運用を 2 ブランド体制
 
-### 合纵连横
+### 提携・買収戦略
 
 - **SBI HD との JV** ([[ssnb]] / SBI 住信ネット銀行)：50% 出資、SBI HD と JV、BaaS / ネット銀行領域参入の主要チャネル
 - **パナソニックとの JV**（三井住友トラスト・パナソニックファイナンス）：リース・ファイナンス
@@ -128,7 +128,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 信託機能を軸に、年金・不動産・資産承継・サステナビリティ関連受託の拡大
 - BaaS 領域は SBI 住信ネット銀行経由で間接展開 ^[likely]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **持株会社規制**：銀行法 第 52 条の 17（信託銀行の持株会社にも準用）
@@ -169,5 +169,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **confirmed**（公式 IR + Wikipedia ベース、2026-05-19）。**2024-10-01 商号変更**（三井住友トラスト・ホールディングス → 三井住友トラストグループ）を反映。FY2024 通期決算（経常収益 2.92 兆円 / 純利益 2,576 億円 = 過去最高 / 総資産 78.2 兆円 / 信託財産 263.3 兆円 = 業界首位 / 従業員 23,125 名 / 筆頭株主マスタートラスト 15.41%）を確認。「三井住友」名称重複（vs [[smfg]]）は重要混同ポイントとして強調。

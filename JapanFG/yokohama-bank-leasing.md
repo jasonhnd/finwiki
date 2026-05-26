@@ -3,8 +3,8 @@ title: "横浜銀リース (Yokohama Bank Leasing)"
 aliases: ["Yokohama Bank Leasing", "横浜銀リース", "株式会社横浜銀リース", "Hamagin Lease"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, leasing, regional-bank-leasing-subsidiary, kanto, kanagawa, operating-company]
@@ -76,7 +76,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 > 注: 単体財務 KPI 精緻値は [[concordia-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -110,7 +110,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - 強み: [[yokohama-bank]] 預金 15 兆円超 (単体) の中堅企業 main bank ネットワーク + 首都圏 GDP 規模 + 神奈川県内 No.1 認知度
 - 弱み: 単独規模では大手リースに大幅劣後、航空機 / 不動産複雑リースは対応困難 ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) (リース業単独としては銀行業免許不要、貸金業登録は対応領域に応じて)
 - **業界団体**: リース事業協会 加盟 ^[inferred]
@@ -152,5 +152,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24)。[[concordia-fg]] page = holding-company strategy (2025-10 YFG 商号変更含む) を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[concordia-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。

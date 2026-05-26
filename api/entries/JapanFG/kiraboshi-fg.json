@@ -21,8 +21,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -43,13 +43,13 @@
     "東京きらぼし FG (Tokyo Kiraboshi FG)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・関連会社 ^[extracted]",
     "重要年表（前身含む統合史）^[extracted]",
     "統合背景：3 行合併の経緯",
     "名称由来",
-    "2. 业务线 map",
-    "3. 战略与竞争"
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5355,
-    "word_like_tokens": 777,
+    "nonspace_chars": 5363,
+    "word_like_tokens": 776,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

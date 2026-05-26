@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/sovereign-fund-crypto-allocation-pattern.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/sovereign-fund-crypto-allocation-pattern.md",
   "domain": "fintech",
-  "title": "主权基金加密基础设施配置模式",
+  "title": "ソブリンファンドの暗号インフラ配分パターン",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "主权基金加密基础设施配置模式",
+    "title": "ソブリンファンドの暗号インフラ配分パターン",
     "aliases": [
       "sovereign fund crypto allocation",
       "Mubadala Arc",
@@ -18,8 +18,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "likely",
     "tags": [
@@ -43,7 +43,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "主权基金加密基础设施配置模式",
+    "ソブリンファンドの暗号インフラ配分パターン",
     "Wiki route",
     "Related"
   ],
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2843,
-    "word_like_tokens": 466,
+    "nonspace_chars": 3220,
+    "word_like_tokens": 475,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

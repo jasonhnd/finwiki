@@ -3,8 +3,8 @@ title: 株式会社八十二銀行 (The Hachijuni Bank)
 aliases: ["Hachijuni Bank", "The Hachijuni Bank, Ltd.", "八十二銀行", "82 銀行", "はちじゅうにぎんこう"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 長野県地盤の旧単独銀行 page。1931-08-01 第十九銀行 + 第六十三銀行 合併で発足、社名は **19 + 63 = 82** に由来する。2023-06 長野銀行を完全子会社化し、2026 年の FSA bank-license list では current legal-name entity が [[hachijuni-nagano-bank|八十二長野銀行]] として掲載される。以後、本ページは旧八十二銀行の historical / predecessor analysis とし、current operating-company boundary は [[hachijuni-nagano-bank]] が持つ。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **旧正式名**：株式会社八十二銀行
 **英名**：The Hachijuni Bank, Ltd.
@@ -52,7 +52,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 子会社構成の詳細・出資比率は本版未確定（要 八十二銀行 公式 IR / 有価証券報告書直接確認）。^[inferred]
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 1877 **第六十三国立銀行**（明治期国立銀行条例下、第 63 号で設立）
 - 1878 **第十九国立銀行**（同、第 19 号で設立）
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024 | 中期経営計画策定（長野銀行統合後フェーズ） |
 | 2026 FSA snapshot | [[hachijuni-nagano-bank|株式会社八十二長野銀行]] が地方銀行一覧に掲載 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | グループ金融 | 八十二リース / 信用保証 / キャピタル 等 | 銀行本体周辺の補完機能 |
 | デジタル | 八十二銀行アプリ・地域 Fintech 連携 | 単独銀行のため、持株会社経由の異業種展開は制約あり ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 県内地盤戦略
 
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **県内 1 強体制完成**（長野銀行吸収後）→ 県内市場での競争圧力が低下する反面、独占禁止法・地域金融機関再編ガイドラインの観点で当局審査が論点となった経緯あり ^[inferred]
 - 北信越地域（長野・新潟・富山・石川・福井）の地銀連携は [[hokuhoku-fg|ほくほく FG]]・[[dai-shi-hokuetsu-fg|第四北越 FG]] 等を中心とした他軸が形成されており、八十二銀行は長野県集中路線
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 関東財務局
 - **銀行業規制**：銀行法（単独銀行のため銀行持株会社規制は対象外）
@@ -166,5 +166,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.1 public-source correction 2026-05-21）。沿革（1931-08-01 設立・19+63=82 由来・2023-06 長野銀行子会社化）は旧八十二銀行 page に保持し、2026 FSA bank-license snapshot の current legal-name boundary は [[hachijuni-nagano-bank|八十二長野銀行]] に分離した。

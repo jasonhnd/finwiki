@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,13 +41,13 @@
     "ちゅうぎん FG / 中国銀行 historical group page",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "2025-03 期決算（連結・ちゅうぎん FG）^[extracted]",
     "主要子会社・持分",
     "合併歴史・前身",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
-    "3. 战略与竞争"
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6562,
-    "word_like_tokens": 1077,
+    "nonspace_chars": 6567,
+    "word_like_tokens": 1076,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

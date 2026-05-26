@@ -1,10 +1,10 @@
 ---
-title: 印度反美元 DPI 联盟 — UPI / MOSIP / ARC 三轴叙事
-aliases: [india-anti-dollar-dpi, upi-mosip-arc-alliance, 印度反美元联盟, india-dpi-anti-usd]
+title: インド反ドル DPI 連合 — UPI / MOSIP / ARC 三軸ナラティブ
+aliases: [india-anti-dollar-dpi, upi-mosip-arc-alliance, インド反ドル連合, india-dpi-anti-usd]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, india, dpi, upi, mosip, arc, polygon, anti-dollar, digital-sovereignty]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 印度反美元 DPI 联盟 — UPI / MOSIP / ARC 三轴叙事
+# インド反ドル DPI 連合 — UPI / MOSIP / ARC 三軸ナラティブ
 
 
 ## Wiki route
@@ -25,86 +25,86 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 印度对美元稳定币的官方反对立场不是孤立姿态，而是一套**完整的反美元 DPI 联盟叙事**：**UPI 跨境化**（已扩至 8 国）+ **MOSIP 全球输出**（20 国部署）+ **ARC 卢比稳定币**（Polygon 链上、政府背景）= 在新兴市场提供完整的 USDT/USDC 替代方案。这是与美方 GENIUS Act §501 / 三圆 MRA 框架直接对冲的"数字非结盟"（Digital Non-Alignment）路线。
+> インドの米ドル・ステーブルコインへの公式反対立場は孤立した姿勢ではなく、**完全な反ドル DPI 連合ナラティブ**の一部である:**UPI クロスボーダー化**(既に 8 カ国へ拡大)+ **MOSIP グローバル輸出**(20 カ国展開)+ **ARC ルピー・ステーブルコイン**(Polygon オンチェーン、政府背景)= 新興市場における USDT/USDC の完全な代替方案を提供。これは米国 GENIUS Act §501 / 三円 MRA フレームと直接ヘッジする「デジタル非同盟」(Digital Non-Alignment)ルートである。
 
 ## Key facts
 
-- **UPI 跨境**: 印度-新加坡走廊年交易额 >$10 亿；UPI 接受国 8 个（UAE / 新加坡 / 不丹 / 尼泊尔 / 马尔代夫 / 毛里求斯 / 法国 / 斯里兰卡）
-- **UPI 国内体量**: 2026-03 单月 226.4 亿笔 · 29.53 万亿卢比（IMF 认证 = 全球实时支付 49%）
-- **MOSIP 输出**: 20 国部署（埃塞俄比亚 / 菲律宾 / 摩洛哥 / 塞拉利昂 / 多哥 / 斯里兰卡 …）· 活跃用户 1.21 亿
-- **ARC 稳定币**: Polygon × Anq 联合开发 · 2026-Q1 上线 · 仅企业账户铸造 · 与 RBI LRS 兼容
-- **政策态度**: 2023 印度 G20 主席国推动 IMF-FSB 综合纸，但拒绝单纯效仿 GENIUS Act
-- **Sandeep Nailwal**: Polygon CEO + ARC 操盘者，X 粉丝 250 万+，是该联盟的人格化代言
-- **Nithin Kamath（Zerodha）**: 2026-05-12 公开表态"美元背景稳定币对印度是糟糕主意"——印度顶级 fintech KOL 共振
-- **JioCoin**: Reliance Jio 4.5 亿订户 Polygon 链上忠诚 Token，通过"非交易性"分类规避 30% 资本利得税
+- **UPI クロスボーダー**: インド-シンガポール回廊年間取引額 >$10 億;UPI 受入国 8 カ国(UAE / シンガポール / ブータン / ネパール / モルディブ / モーリシャス / フランス / スリランカ)
+- **UPI 国内ボリューム**: 2026-03 単月 226.4 億件 · 29.53 兆ルピー(IMF 認定 = グローバル・リアルタイム決済の 49%)
+- **MOSIP 輸出**: 20 カ国展開(エチオピア / フィリピン / モロッコ / シエラレオネ / トーゴ / スリランカ …)· アクティブユーザー 1.21 億
+- **ARC ステーブルコイン**: Polygon × Anq 共同開発 · 2026-Q1 ローンチ · 企業アカウントのみ mint · RBI LRS と互換
+- **政策姿勢**: 2023 インド G20 議長国として IMF-FSB 統合論文を推進したが、GENIUS Act の単純な模倣は拒否
+- **Sandeep Nailwal**: Polygon CEO + ARC オペレーター、X フォロワー 250 万人超、本連合の人格的代弁者
+- **Nithin Kamath(Zerodha)**: 2026-05-12 公式表明「米ドル背景のステーブルコインはインドにとって悪いアイデア」 —— インドのトップ fintech KOL が共鳴
+- **JioCoin**: Reliance Jio 4.5 億ユーザーの Polygon オンチェーンロイヤルティ Token、「非取引性」分類で 30% キャピタルゲイン税を回避
 
 ## Mechanism / How it works
 
 ```
-        印度反美元 DPI 联盟（三轴）
+        インド反ドル DPI 連合(三軸)
         │
    ┌────┼──────┬────────────────┐
    ▼    ▼      ▼                ▼
-  UPI   MOSIP  ARC          政策框架
+  UPI   MOSIP  ARC          政策フレーム
   │     │      │            │
-  支付  身份   稳定币          反 GENIUS
+  決済  ID     ステーブル    反 GENIUS
   │     │      │            │
- 跨境 8 20 国  Polygon × Anq  RBI / FM 协调
-  国    输出   2026-Q1        DPI 优先
+ クロス 8  20 カ国 Polygon × Anq  RBI / 財務省協調
+  カ国   輸出   2026-Q1        DPI 優先
 ```
 
-**三轴互锁逻辑**：
+**三軸インターロック・ロジック**:
 
-1. **UPI（支付层）**: 跨境直连消除"需要美元中介"的场景。印度-UAE / 新加坡走廊已绕开 USD
-2. **MOSIP（身份层）**: 把 Aadhaar 技术开源到全球南方 20 国，与中国"数字丝绸之路"形成对照——抢占新兴市场身份基础设施
-3. **ARC（货币层）**: Polygon 链上 INR 稳定币，**仅企业账户铸造 + 白名单 swap + 与 LRS 兼容**——给 RBI 一个"替代 USDT/USDC"的合规答案，减弱财政部推动美元稳定币合法化的政治压力
+1. **UPI(決済層)**: クロスボーダー直結で「ドル仲介が必要」なシナリオを除去。インド-UAE / シンガポール回廊は既に USD を迂回
+2. **MOSIP(ID 層)**: Aadhaar 技術をグローバルサウス 20 カ国にオープンソース化、中国「デジタル・シルクロード」と対照を形成 —— 新興市場の ID 基盤インフラを掴む
+3. **ARC(通貨層)**: Polygon オンチェーン INR ステーブルコイン、**企業アカウントのみ mint + ホワイトリスト swap + LRS 互換** —— RBI に「USDT/USDC 代替」のコンプライアンス回答を提供、財務省が米ドル・ステーブルコイン合法化を推進する政治圧力を弱める
 
-**反美元逻辑链**：USDT/USDC 在印度成为"事实美元化"通道 → 削弱卢比购买力 → 影响货币主权 → 必须在国内（ARC）和跨境（UPI）双向堵截。具体国家许可型稳定币 + DPI 输出模式见 [[fintech/national-license-private-stablecoin-with-dpi-export|国家许可型私营稳定币 + DPI 输出]]。
+**反ドル・ロジックチェーン**:USDT/USDC がインドで「事実上のドル化」チャネルとなる → ルピー購買力を弱める → 通貨主権に影響 → 国内(ARC)とクロスボーダー(UPI)で双方向に堰き止めねばならない。具体的な国家許可型ステーブルコイン + DPI 輸出モデルは [[fintech/national-license-private-stablecoin-with-dpi-export|国家許可型民間ステーブルコイン + DPI 輸出]] を参照。
 
 ## Origin & evolution
 
 ```
-2010s         Aadhaar 推广 → 14.3 亿登记
-2016          UPI 上线（NPCI / RBI）
-2018          MOSIP 启动（IIITB 托管）
-2023-02       UPI × Singapore PayNow 跨境互联
-2023          印度 G20 主席国 · IMF-FSB 综合纸
-2024-02       UPI × UAE AANI 协议
-2025-01       Polygon × Jio 4.5 亿订户独家合作
-2025-06       Sandeep Nailwal 接任 Polygon Foundation CEO
-2025-07       UPI-PayNow 扩容 19 家印度银行
-2025-10       Coinbase 重返印度（USDC 主导）
-2026-01       Polygon Open Money Stack 发布
-2026-Q1       ARC 卢比稳定币上线（Polygon × Anq）
-2026-05-12    Nithin Kamath（Zerodha）反 USD 稳定币公开表态
+2010 年代   Aadhaar 推進 → 14.3 億登録
+2016       UPI ローンチ(NPCI / RBI)
+2018       MOSIP 開始(IIITB ホスト)
+2023-02    UPI × Singapore PayNow クロスボーダー連携
+2023       インド G20 議長国 · IMF-FSB 統合論文
+2024-02    UPI × UAE AANI 協定
+2025-01    Polygon × Jio 4.5 億ユーザーの独占協業
+2025-06    Sandeep Nailwal が Polygon Foundation CEO に就任
+2025-07    UPI-PayNow 拡大、インド銀行 19 行追加
+2025-10    Coinbase インド再上陸(USDC 主導)
+2026-01    Polygon Open Money Stack 発表
+2026-Q1    ARC ルピー・ステーブルコイン ローンチ(Polygon × Anq)
+2026-05-12 Nithin Kamath(Zerodha)反 USD ステーブルコイン公式表明
 ```
 
-**战略演化**: 早期（2010s-2023）是国内 DPI 建设；2023 印度 G20 主席国后开始**对外输出**；2025-2026 Polygon × ARC 把"链上层"补齐，从此 DPI 联盟从"国家支付基础设施"升级为"完整的反美元金融堆栈"。
+**戦略的進化**: 初期(2010 年代-2023)は国内 DPI 構築;2023 インド G20 議長国後に**対外輸出**を開始;2025-2026 Polygon × ARC が「オンチェーン層」を補完、ここから DPI 連合は「国家決済基盤インフラ」から「完全な反ドル金融スタック」へとアップグレード。
 
 ## Counterpoints
 
-- **UPI 跨境实际体量小**: $10 亿/年 vs USDT 月度 7000 亿——量级差距 70 倍以上，"反美元"短期更像政治姿态
-- **ARC 设计自缚**: 仅企业账户铸造 + 白名单 swap = 没有真正的 DeFi 可组合性，本质"许可型稳定币"，国际接受度低
-- **MOSIP 输出对手不止美元**: 中国"数字丝绸之路"同样竞争同一批新兴市场，印度未必占优
-- **印度国内 USDT 渗透依然深**: 30% / 1% TDS 阻碍只压制了境内合规通道，灰色市场 P2P 持续——参见 [[fintech/gray-market-dollar-network-formalization|灰色市场 USDT 韧性]]
-- **政策不一致**: 财政部（推动 GENIUS-like 框架）vs RBI（反美元稳定币）内部张力持续，ARC 是当前的妥协产物
-- **国际接受度**: ARC 在印度境外几乎无认知和流动性，"卢比国际化"实质距离仍远
+- **UPI クロスボーダー実体ボリュームは小さい**: $10 億/年 vs USDT 月次 7000 億 —— 量級差は 70 倍以上、「反ドル」は短期的には政治的姿勢に近い
+- **ARC 設計の自縛**: 企業アカウントのみ mint + ホワイトリスト swap = 真の DeFi コンポーザビリティなし、本質は「許可型ステーブルコイン」、国際的受容度は低い
+- **MOSIP 輸出の競合は米ドルだけではない**: 中国「デジタル・シルクロード」も同じ新興市場で競合、インドが優位とは限らない
+- **インド国内 USDT 浸透は依然深い**: 30% / 1% TDS による阻害は国内コンプライアンス・チャネルのみを抑え、グレー市場 P2P は持続 —— 参照 [[fintech/gray-market-dollar-network-formalization|グレー市場 USDT レジリエンス]]
+- **政策の非整合性**: 財務省(GENIUS-like フレーム推進)vs RBI(反ドル・ステーブルコイン)の内部緊張が継続、ARC は現時点の妥協産物
+- **国際的受容度**: ARC はインド国外でほぼ認知も流動性もなし、「ルピー国際化」の実質的距離は遠い
 
 ## Open questions
 
-- ARC 主网上线后 6 个月内 TVL / 交易量能否突破临界规模
-- UPI × UAE / 新加坡走廊能否在 2027 突破年 $50 亿
-- MOSIP 是否会在某关键非洲国家被美方支持的替代方案（如 ID4D）反超
-- 印度财政部 vs RBI 内部政策博弈如何收敛——是否最终允许 USDC 在印度合规化
-- Polygon × ARC 模式是否会被复制到其他金砖国家（巴西 / 南非）
-- Sandeep Nailwal 个人因素的脆弱性——若离开 Polygon CEO，联盟叙事的可持续性
+- ARC メインネット・ローンチ後 6 ヶ月以内に TVL / 取引量が臨界規模を突破できるか
+- UPI × UAE / シンガポール回廊が 2027 に年間 $50 億を突破できるか
+- MOSIP が重要なアフリカ某国で米国支援の代替方案(ID4D 等)に追い抜かれるか
+- インド財務省 vs RBI 内部政策ゲームがどう収束するか —— 最終的に USDC のインド・コンプライアンス化を認めるか
+- Polygon × ARC モデルが他の BRICS 諸国(ブラジル / 南アフリカ)に複製されるか
+- Sandeep Nailwal 個人要因の脆弱性 —— Polygon CEO を退任した場合、連合ナラティブの持続性は
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal · Polygon × 印度 DPI 模式]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆稳定币 MRA 框架]]
-- [[fintech/stablecoin-chain-sovereign-currency-divide|稳定币 × 链 × 主权货币三层分流]]
+- [[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal · Polygon × インド DPI モデル]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円ステーブルコイン MRA フレームワーク]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|ステーブルコイン × チェーン × 主権通貨三層分流]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 <!-- /wiki-links:managed -->
 

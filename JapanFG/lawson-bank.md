@@ -3,8 +3,8 @@ title: ローソン銀行 (Lawson Bank)
 aliases: ["Lawson Bank", "ローソン銀行", "株式会社ローソン銀行", "Lawson Bank, Inc."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, retail-bank, atm-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 コンビニ ATM 特化型の新興リテール銀行。**2017-11-15 設立 / 2018-10-15 開業** ^[extracted]。親会社 株式会社ローソンが 2024-09 に **三菱商事 + KDDI 50:50 共同保有 JV** 体制へ移行し上場廃止 → ローソン銀行も間接的に **三菱商事系列 + KDDI au 経済圏** 二重所属の様相に。先行する [[seven-bank]]（セブン銀行モデル）を追随する後発組で、ATM 設置数は**約 13,000 台** ^[ambiguous]（ローソン店舗中心）。コンビニ ATM 三強（[[seven-bank]] / Lawson Bank / E-net）の一角。 ^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ローソン銀行 ^[extracted]
 **英名**：Lawson Bank, Inc.
@@ -48,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2024-09** | 親会社 株式会社ローソン が **三菱商事 + KDDI 50:50 JV 体制**へ移行・**上場廃止** → ローソン銀行も間接的に KDDI 関与構造に ^[extracted] |
 | 2024〜2025 | ローソンアプリ + **au PAY** 連携強化フェーズ ^[inferred] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|
@@ -57,7 +57,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 決済連携 | au PAY 連携、Ponta 連携 ^[inferred] | 親会社変更後の au 経済圏統合可能性 |
 | 提携金融機関 | 邦銀大手・地銀・ネット銀行多数 | ATM 提携手数料モデル |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### コンビニ ATM 三強構造
 
@@ -88,7 +88,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外展開 | 米・ASEAN（タイ・フィリピン・インドネシア）等 | 国内中心 ^[inferred] |
 | 決済経済圏 | 7Pay 撤退後は nanaco | Ponta + au PAY ^[inferred] |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業態**：普通銀行（コンビニ ATM 特化）
@@ -129,5 +129,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公開 IR ベース、2026-05-19）。重要日付（2017-11 設立 / 2018-10 開業 / 2024-09 親会社 JV 化）は公開ソース確認済み。ATM 設置数 約 13,000 台、提携金融機関数、au PAY 連携深度などは公開資料による概数・推定が混在 — 一次 IR 資料での裏取り推奨。

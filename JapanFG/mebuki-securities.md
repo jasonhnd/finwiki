@@ -3,8 +3,8 @@ title: "めぶき証券 (Mebuki Securities)"
 aliases: ["Mebuki Securities", "めぶき証券", "株式会社めぶき証券", "旧 常陽証券"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, regional-bank-securities-subsidiary, kanto, ibaraki, operating-company]
@@ -52,7 +52,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
   └── 常陽キャピタル / 足利キャピタル ── 地域投資・コンサル系
 ```
 
-## 3. 合併歷史・前身
+## 3. 合併経緯・前身
 
 ### 旧 常陽証券系譜
 
@@ -79,7 +79,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 > 注: 単体財務 KPI 精緻値は [[mebuki-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント map
 
 | セグメント | 特徴 |
 |---|---|
@@ -91,7 +91,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | M&A 仲介 | 事業承継・地域 M&A advisory |
 | 銀証連携 | [[joyo-bank]] / [[ashikaga-bank]] からの紹介取引 |
 
-## 6. 戦略与競争
+## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -111,7 +111,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - 強み: [[joyo-bank]] / [[ashikaga-bank]] 顧客基盤 + 北関東中堅企業 main bank ネットワーク
 - 弱み: 単独規模では大手証券に大幅劣後、デジタル投資余力限定的 ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) / 関東財務局 (第一種金融商品取引業者登録)
 - **業界団体**: [[jsda|日本証券業協会]] 正会員
@@ -153,5 +153,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG securities-subsidiary anchor created 2026-05-24)。[[mebuki-fg]] page = holding-company strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[mebuki-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。

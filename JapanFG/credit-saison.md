@@ -3,8 +3,8 @@ title: クレディセゾン (Credit Saison)
 aliases: ["Credit Saison", "クレディセゾン", "セゾン", "Saison", "西武クレジット", "緑屋クレジット"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, credit-card, parco, consumer-finance]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内クレジットカード大手。1951 年 緑屋クレジット 設立 → 1980 西武クレジット → 1989 クレディセゾン 改称。**累計会員 4000 万人超** の業界トップ級発行枚数を背景に、**米 American Express 提携プレミアム**、**永久不滅ポイント** エコシステム、**セゾン投信** クロスセル、**インド消費者金融**（Kisetsu Saison Finance）海外展開の 4 軸で稼ぐノンバンク。旧西武セゾングループ解体後はみずほ FG 系列の独立カード会社として再定位 ([[mizuho-fg]] 系)。証券コード 東証 PRIME 8253。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社クレディセゾン
 **英名**：Credit Saison Co., Ltd.
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
         └── PARCO・西武・東武・大丸松坂屋等（提携カード）
 ```
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **PARCO カード / 西武・そごうカード / 東武カード**: 流通系提携
 - **MUJI カード / ローソン Ponta プラス**等: 流通・小売提携
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 永久不滅ポイント エコシステム
 
@@ -111,7 +111,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **流通系カードのリーディングプレイヤー** として、メガバンク系（JCB / NICOS / 三井住友）とも、テック系（楽天 / PayPay）とも異なるポジショニング
 - 西武・PARCO の商流レガシー + Amex プレミアム + 永久不滅ポイント の組み合わせは **独自**
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA） / 経済産業省（割賦販売法所管）
 - **業法**: 割賦販売法（クレジット業）・貸金業法（カードローン）・金融商品取引法（セゾン投信）
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - インド NBFC 規制（RBI 監督下）
 - **G-SIFI / TBTF 指定**: なし（ノンバンク・準大手）
 
-## 重要历史
+## 沿革
 
 | 年月 | 事象 |
 |---|---|

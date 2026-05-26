@@ -3,8 +3,8 @@ title: 大和証券グループ本社 (Daiwa Securities Group)
 aliases: ["Daiwa Securities Group", "大和証券グループ本社", "Daiwa SG", "8601", "大和証券", "Daiwa Securities"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
@@ -44,7 +44,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 参考: 1 年前 (2025-06 末) は 1,902 千口座 / 4 兆 3,365 億円 → 通年で口座数・残高ともに大幅伸長。給与振込 + 証券口座連携モデルの拡大基調を裏付け。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社大和証券グループ本社
 **英名**：Daiwa Securities Group Inc.
@@ -93,7 +93,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 注: 上記年表は公開資料（Wikipedia / IR / 公式沿革）に基づく。住友合弁解消以後の細目スキームや海外拠点群の連結範囲は時期ごとに変動するため、最新値は IR 開示資料を要参照。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -107,7 +107,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 再エネ / インフラ | 大和エナジー・インフラ | 太陽光・風力・インフラエクイティ投資 |
 | 海外（米欧亜）| 大和インターナショナル他 | 米国・欧州・アジア各拠点（中規模、野村比で限定）|
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「リテール深耕 + ホールセール拡大」戦略
 
@@ -137,7 +137,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 三菱 UFJ モルガン・スタンレー証券（[[mufg]]）| MS 戦略提携の IB | ホールセールで競合 |
 | [[sbi-hd]] / [[monex-group]] / 楽天証券 | ネット証券 | リテール対面 vs ネット |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業態**: 金融商品取引法上の第一種金融商品取引業者（証券業）+ 銀行業（大和ネクスト銀行）+ 投資運用業（大和 AM / DC AM）

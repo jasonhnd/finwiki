@@ -1,10 +1,10 @@
 ---
-title: PayPal PYUSD · 顶级支付公司首次品牌化的稳定币 · Solana 主战场
+title: PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場
 aliases: [paypal-pyusd-stablecoin, PYUSD, PayPal USD]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, stablecoin, paypal, paxos, solana, retail-payment, distribution]
@@ -16,7 +16,7 @@ sources:
 status: candidate
 ---
 
-# PayPal PYUSD · 顶级支付公司首次品牌化的稳定币 · Solana 主战场
+# PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場
 
 
 ## Wiki route
@@ -24,48 +24,48 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> PayPal PYUSD 2023-08-07 上线 (Ethereum),2024-05 跨到 Solana 并迅速将其升级为主战场,2026-05 MCap **$1B+**。Paxos Trust Company (NY DFS) 发行,PayPal/Venmo 分销,**Paxos → PayPal 利息分账 80-90%** (类 Circle × Coinbase 镜像)。PYUSD 是**首个由顶级支付公司直接品牌化**的稳定币,定位 P2P 零售汇款 + PayPal/Venmo 用户内部转账,占住 GENIUS Act §501 后"合规白圈"的零售层。
+> PayPal PYUSD は 2023-08-07 に稼働(Ethereum)、2024-05 に Solana へクロスして急速に主戦場へとアップグレード、2026-05 MCap **$1B+**。Paxos Trust Company(NY DFS)が発行、PayPal/Venmo が分配、**Paxos → PayPal の利息分配は 80-90%**(Circle × Coinbase の鏡像)。PYUSD は**大手決済企業による直接ブランド化初のステーブルコイン**で、P2P リテール送金 + PayPal/Venmo ユーザー間内部送金にポジショニング、GENIUS Act §501 後の「コンプラ・ホワイトサークル」リテール層を確保する。
 
 ## Key facts
 
-- MCap **$1B+** (2026-05) · 上线 2023-08-07 · 跨 Solana 2024-05 ^[extracted]
-- 主链: Solana (主战场 80%) + Ethereum (原始) + Arbitrum (2026-Q1 加) ^[extracted]
-- 发行人 Paxos Trust Company (NY DFS Trust) · 储备 100% UST + 现金 ^[extracted]
-- 月度审计 WithumSmith+Brown ^[extracted]
-- 分销激励 Paxos → PayPal **yield 分账 80-90%** (类 Circle × Coinbase $305M 公式) ^[inferred]
-- Solana DEX 流动性 $200M+ (Jupiter/Raydium) · Solana 月转账量 ~$5B (2026-Q1) ^[extracted]
-- PayPal/Venmo 全球活跃账户 ~4 亿 (其中 2 亿在新兴市场) ^[extracted]
+- MCap **$1B+**(2026-05)· 稼働 2023-08-07 · Solana クロス 2024-05 ^[extracted]
+- 主要チェーン:Solana(主戦場 80%)+ Ethereum(オリジナル)+ Arbitrum(2026-Q1 追加)^[extracted]
+- 発行者 Paxos Trust Company(NY DFS Trust)· 準備金 100% UST + 現金 ^[extracted]
+- 月次監査 WithumSmith+Brown ^[extracted]
+- 分配インセンティブ Paxos → PayPal **yield 分配 80-90%**(Circle × Coinbase $305M 公式に類似)^[inferred]
+- Solana DEX 流動性 $200M+(Jupiter/Raydium)· Solana 月次送金量 ~$5B(2026-Q1)^[extracted]
+- PayPal/Venmo グローバル・アクティブ・アカウント ~4 億(うち新興市場 2 億)^[extracted]
 
 ## Mechanism / How it works
 
-PYUSD 的核心差异化 = **不追求 DeFi 流动性(USDC 强项),专注 PayPal/Venmo 5 亿活跃账户的零售触达**——把"用 PayPal 账户的人"自然迁移到"用 PYUSD 链上转账"。分销激励模型镜像 Circle × Coinbase: Paxos 把储备 yield 的 80-90% 分给 PayPal 作为分销激励,**分销渠道捕获绝大部分经济价值,发行人只剩牌照壳和合规义务**。这与 [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]] 直接对应,同时呼应 [[fintech/issuer-distributor-incentive-realignment-50-50-model|发行/分销 50-50 重排范式]],是 2023-2026 稳定币行业 "分销 > 发行" 模式的典型样本。
+PYUSD のコア差別化要素 = **DeFi 流動性を追求しない(USDC の強み)、PayPal/Venmo の 5 億アクティブ・アカウントへのリテール到達に専念** —— 「PayPal アカウントを使う人」を「PYUSD オンチェーン送金を使う人」へ自然に移行させる。分配インセンティブ・モデルは Circle × Coinbase を鏡像とする:Paxos は準備金 yield の 80-90% を PayPal へ分配インセンティブとして付与、**分配チャネルが経済価値の大部分を捕捉し、発行者はライセンスの殻とコンプラ義務のみが残る**。これは [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]] と直接対応し、[[fintech/issuer-distributor-incentive-realignment-50-50-model|発行/分配 50-50 再配置パラダイム]] とも呼応する、2023-2026 ステーブルコイン業界における「分配 > 発行」モデルの典型サンプル。
 
 ## Origin & evolution
 
-2023-08-07 NY DFS 给 Paxos 发 PYUSD 信託许可 → Paxos 2 周后推出 PYUSD (Ethereum 单链). 2024-05 PYUSD 跨到 Solana = **战略关键转折** (Ethereum gas $5-50 不适合零售汇款 · Solana gas ≈ $0 + sub-second). 2024-05 至 2025-Q2 Solana PYUSD MCap 0 → $800M (占总 MCap 80%). 2025-Q3 PayPal 推出 **PayPal World** (全球 P2P 网络 · 集成 UPI / Mercado Pago / Tenpay 等) · PYUSD 是底层结算资产。2026-Q1 PYUSD 上 Arbitrum 补充 L2 流动性。**PYUSD 启动了"支付公司品牌化稳定币"潮流**: 2024 Stripe USDB, 2024 Ripple RLUSD, 2024 WLF USD1 等都是后续跟随者。
+2023-08-07 NY DFS が Paxos へ PYUSD 信託許可を付与 → Paxos が 2 週間後に PYUSD を稼働(Ethereum シングルチェーン)。2024-05 PYUSD が Solana へクロス = **戦略的に重要な転換点**(Ethereum gas $5-50 はリテール送金に不適切 · Solana gas ≈ $0 + sub-second)。2024-05 から 2025-Q2 にかけて Solana PYUSD MCap は 0 → $800M(総 MCap の 80%)。2025-Q3 PayPal が **PayPal World** を発表(グローバル P2P ネットワーク · UPI / Mercado Pago / Tenpay 等を統合) · PYUSD が下層決済資産となる。2026-Q1 PYUSD が Arbitrum 稼働で L2 流動性を補強。**PYUSD は「決済企業ブランド化ステーブルコイン」潮流を起動**:2024 Stripe USDB、2024 Ripple RLUSD、2024 WLF USD1 等は全て後続フォロワー。
 
 ## Counterpoints
 
-PYUSD MCap $1B 远小于 [[fintech/circle-usdc-stablecoin|USDC]] $60B / USDT $145B —— 在零售汇款场景的市场份额仍小。PayPal 作为发行品牌方但不是技术控制方 (Paxos 控制 mint/burn 与储备),**PayPal 不能像 Circle 那样把发行能力锁死**,Paxos 也曾发过 BUSD (被 NY DFS 关停),意味着分销激励比例可能在压力下被压缩。Solana 主战场策略让 PYUSD 与 Solana 生态命运绑定 (Solana 若再次出现 2022 类 outage,PYUSD 零售场景受重创),跨链补强需依赖 [[systems/cctp-v2-overview|CCTP v2]] 之类的原生流动性桥才能稀释单链依赖。
+PYUSD MCap $1B は [[fintech/circle-usdc-stablecoin|USDC]] $60B / USDT $145B にはるかに及ばない —— リテール送金シナリオの市場シェアは依然小さい。PayPal は発行ブランド側だが技術的支配者ではない(Paxos が mint/burn と準備金を支配)、**PayPal は Circle のように発行能力を抑えることができない**。Paxos は BUSD も発行していた(NY DFS が停止)ため、分配インセンティブ比率は圧力下で圧縮される可能性がある。Solana 主戦場戦略は PYUSD と Solana エコシステムの運命をバインドする(Solana が 2022 年型の outage を再び起こせば PYUSD リテール・シナリオは重大な打撃を受ける)、クロスチェーンの補強は [[systems/cctp-v2-overview|CCTP v2]] のようなネイティブ流動性ブリッジに依存して初めてシングルチェーン依存を希釈できる。
 
 ## Open questions
 
-PYUSD × Agora (规划中) 多币种新兴市场扩展会否成功超越 USDB / Stripe Tempo?PayPal 是否会从 Paxos 收回 mint/burn 控制权 (像 Stripe 收购 Bridge)?PYUSD 在 PayPal World 全球网络中的实际清算占比能否在 3 年内突破 5%?
+PYUSD × Agora(計画中)のマルチ通貨新興市場拡張は USDB / Stripe Tempo を超えられるか?PayPal は Paxos から mint/burn 支配権を取り戻すか(Stripe による Bridge 買収のように)?PYUSD は PayPal World グローバル・ネットワークにおける実清算占有率を 3 年以内に 5% 突破できるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
 - [[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]
 - [[fintech/world-liberty-usd1-political-stablecoin|WLF USD1]]
-- [[fintech/stablecoin-crossborder-b2b-growth|稳定币跨境 B2B 增长]]
+- [[fintech/stablecoin-crossborder-b2b-growth|ステーブルコイン・クロスボーダー B2B 成長]]
 - [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC · 白圈龙头对照]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC · ホワイトサークル首位対比]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
 ---
 
-**Last refresh** (2026-05-25): refreshed dates; added Circle USDC peer wikilink (white-circle SC comparison).
+**Last refresh** (2026-05-26): refreshed dates; added Circle USDC peer wikilink (white-circle SC comparison).
 

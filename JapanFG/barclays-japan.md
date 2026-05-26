@@ -3,8 +3,8 @@ title: バークレイズ日本 (Barclays Japan)
 aliases: ["Barclays Japan", "バークレイズ", "バークレイズ証券", "Barclays Securities Japan", "バークレイズ銀行東京支店", "Barclays Bank PLC Tokyo Branch"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 英国 **Barclays PLC**（G-SIB Bucket 2）の日本拠点。**1969 駐在員事務所開設 → 1972 東京支店 → 1986 英銀初の東証上場 → 1987 BZW 証券事務所 → 1990 東証会員 → 2006 バークレイズ・キャピタル証券化 → 2012 バークレイズ証券に商号変更**。リーマンショック後の世界再編で、**北米はバークレイズが買収、アジア太平洋（含む日本）は [[nomura-hd]] が買収**したため、**日本拠点は Lehman 統合の恩恵を直接受けず**、自力での IB / マーケッツ集中戦略を歩む。2016 グローバル再編でアジア株式キャッシュ事業撤退、現在は**日本・香港・シンガポール・インドの 4 拠点をコアアジア市場**として残す。約 500 名規模、本拠は六本木ヒルズ森タワー 31F。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**: Barclays PLC (英国上場、LSE: BARC, NYSE: BCS) — G-SIB Bucket 2
 **Country CEO (日本代表)**: 森原 恒輔 (Kosuke Morimoto) ^[extracted]
@@ -71,7 +71,7 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
         └── 六本木ヒルズ森タワー 31F に集中
 ```
 
-## 2. 重要历史・年表
+## 2. 沿革・重要年表
 
 | 年 | 事象 |
 |---|---|
@@ -97,7 +97,7 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 
 > **誤解しやすい点**: バークレイズの **Lehman 北米買収（2008-09）は日本に直接的な人員・業務拡大効果をもたらしていない**。アジア太平洋（含 日本）+ 欧州・中東は [[nomura-hd]] が買収した。日本拠点の M&A / IB 拡大は自力で行われた。
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -108,7 +108,7 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 | 資産運用 | （撤退）| BGI を BlackRock に売却（2009）、信託は住信に吸収（2008）|
 | リテール | **未展開** | 親会社英国本体は UK Barclaycard を持つが日本展開なし |
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 親会社の戦略文脈
 - 2016 Jes Staley CEO の **「Transatlantic + Consumer + Corporate + IB」**戦略 → 新興国 IB 撤退、アジアは 4 コア市場に絞り込み
@@ -126,7 +126,7 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 - 2016 **アサヒグループ HD 中東欧ビール買収（約 8900 億円）** 買い手側アドバイザー
 - 2013 **オリックスのロベコ・グループ買収（約 2400 億円）** 売り手側アドバイザー
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 関東財務局
 - **証券業ライセンス**: 関東財務局長(金商)第143号（バークレイズ証券）

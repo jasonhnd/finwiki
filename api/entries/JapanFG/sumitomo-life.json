@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -38,12 +38,12 @@
     "住友生命保険相互会社 (Sumitomo Life)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "業界位置",
     "主要子会社・関連 ^[extracted]",
-    "重要历史 ^[extracted]",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "沿革 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "「Vitality」健康増進型保険でリーディング差別化"
   ],
   "body_links": {
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4316,
-    "word_like_tokens": 632,
+    "nonspace_chars": 4319,
+    "word_like_tokens": 631,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

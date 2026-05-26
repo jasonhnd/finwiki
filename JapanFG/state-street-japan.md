@@ -3,8 +3,8 @@ title: ステート・ストリート (State Street Japan)
 aliases: ["State Street Japan", "ステート・ストリート", "State Street", "ステート・ストリート銀行", "State Street Bank", "ステート・ストリート信託銀行", "State Street Trust Bank", "ステート・ストリート・グローバル・アドバイザーズ", "State Street Global Advisors", "SSGA", "SPDR", "State Street Bank and Trust Company"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custodian]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 米 **State Street Corporation**（NYSE: **STT**、ボストン本社）の日本拠点群。親会社は **世界 2 位のカストディ銀行**（AUC/A **約 49〜53 兆ドル** / 2025〜2026Q1 期、世界首位 [[bny-mellon-japan]] に次ぐ）^[extracted] であり、日本では **ステート・ストリート信託銀行 + ステート・ストリート銀行 東京支店 + SSGA（資産運用 / SPDR ETF 運用元）+ Charles River Development（運用システム）** の 4 軸構成。**邦銀リテール非関与の純粋ホールセール外資**で、グローバルカストディ（米国 ADR・海外証券保管）と機関投資家サービスに集中。**[[master-trust-bank]] が国内信託に特化** するのに対し、**State Street は GPIF・大手年金の海外資産カストディというグローバル分業** を担う点が構造的特徴。[[bny-mellon-japan]] と並ぶ「外資カストディ 2 強」の一角。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **最終親会社**：State Street Corporation（米マサチューセッツ州法人、NYSE: **STT**、本店マサチューセッツ州ボストン）
 **親会社設立**：1792（The Union Bank として、米国 2 番目に古い継続営業の銀行の一つ）^[extracted]
@@ -69,7 +69,7 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 - **ステート・ストリート信託銀行 資本金 25 億 1000 万円、従業員 426 名（2024-04-30 現在）、R&I 格付 AA-** ^[extracted]
 - **代表者**：信託銀行社長 **寺田恵子**、東京支店長 **若林憲弘**、SSGA 社長 **越前谷通博** ^[extracted]
 
-## 2. 重要历史（年表抜粋）
+## 2. 沿革（年表抜粋）
 
 | 年 | 事象 |
 |---|---|
@@ -91,7 +91,7 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 > 注: 日本拠点固有の売上・受託資産規模は親会社連結合算に含まれ非開示。最新スキームは State Street 公式 IR / 金融庁開示を参照。^[inferred]
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 在日担い手 | 特徴 |
 |---|---|---|
@@ -102,7 +102,7 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 | **運用システム** | Charles River Development Japan | 運用会社向け OMS/PMS/EMS（買付・運用管理システム）SaaS — BNY Mellon にはない独自業態 |
 | 個人リテール | **なし** | — |
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 日本でのポジショニング
 
@@ -174,5 +174,5 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。公開情報（Wikipedia + State Street 公式 IR + SEC 開示 + FSB 公表）のみに基づく要約。**日本拠点固有の最新財務（東京支店資産・受託資産）は非開示または親会社連結合算のため、本稿では構造・歴史・戦略の概観に集中**。AUC/A 53.8 兆ドルは親会社グローバル合算ベースであり日本拠点単独ではない点に注意。最新は State Street 公式 IR / 金融庁開示を要参照。

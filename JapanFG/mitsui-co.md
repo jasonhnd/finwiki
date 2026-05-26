@@ -12,8 +12,8 @@ aliases:
   - "mitsui-bussan"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, mitsui-group, lng, iron-ore, infrastructure, mobility, healthcare, conglomerate]
@@ -35,7 +35,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 三井物産 (東証 PRIME **8031**) は **5 大総合商社の一角**、三井グループの中核会社。**資源・エネルギー (LNG、石油上流、鉄鉱石・銅・ニッケル)** 比率が 5 大商社の中で高く、**ブラジル Vale との鉄鉱石 ジョイント** (旧 IBVN 等) や **モザンビーク LNG**、**米国 Cameron LNG**、**インドネシア Tangguh LNG** など global resource holdings が利益のコア。一方で **モビリティ (トヨタ系・東南アジア自動車流通)**、**機械インフラ (発電プラント、海水淡水化)**、**ヘルスケア (アジア病院チェーン IHH Healthcare 持分)** など非資源領域でも 5 大トップクラスの分散投資を行う。JapanFG 文脈での重要性は (i) [[JapanFG/mitsui-bussan-financial-services|MBFS]] 100% 子会社、(ii) [[JapanFG/ja-mitsui-leasing|JA三井リース]] への約 33% 級持分 (JA 全農と 旧 三井リース ベース)、(iii) [[JapanFG/smfg|SMFG]] / [[JapanFG/sumitomo-corp|住友商事]] 系金融機関とのクロス取引、にある。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2020s | 純利益 1 兆円級に到達、株主還元加速 |
 | 2024 | Berkshire Hathaway 商社株買い増し報道で評価リレーティング |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的投資先 |
 |---|---|---|
@@ -104,7 +104,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 三井物産自身は banking license を持たないが、グループ系列を通じた **「商社 ↔ メガバンク ↔ 信託 ↔ 保険 ↔ リース」のフルライン金融エコシステム** にアンカーされている。
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 5 大商社内の identity
 
@@ -124,7 +124,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **海外資源**: BHP, Vale (partner 兼 competitor), Glencore
 - **海外モビリティ**: 各国自動車流通会社、米国 dealership groups
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 (IHH / Penske / JV multiple) ^[extracted]
 - **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業・金商法対象 ^[inferred]
@@ -168,5 +168,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。三井物産は public-surface で十分カバー。金融子会社 boundary は [[JapanFG/mitsui-bussan-financial-services]] / [[JapanFG/ja-mitsui-leasing]] / [[JapanFG/sumitomo-mitsui-auto-service]] と cross-validation 済み。連結純利益・セグメント別利益・持分法投資の最新数値は 有価証券報告書 / 統合報告書 で都度更新。

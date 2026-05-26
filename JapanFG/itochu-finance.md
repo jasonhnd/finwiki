@@ -10,8 +10,8 @@ aliases:
   - "itochu-finance-corp"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, itochu, group-treasury, factoring, cms]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 伊藤忠ファイナンス は **伊藤忠商事 (8001)** 系の **グループ内金融サービス会社**。伊藤忠商事グループの **CMS / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金 / 信用補完** を担う。リース系 (外向け asset finance) は [[JapanFG/tokyo-century|東京センチュリー]] (伊藤忠商事 + [[JapanFG/mizuho-fg|みずほ FG]] の 2 軸株主、上場 8439) が担うため、伊藤忠は「**外向けリース = 東京センチュリー / 内向け = 伊藤忠ファイナンス**」の二層構造。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -62,7 +62,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 伊藤忠は メガバンク に対しては みずほ FG との関係性が深く、東京センチュリー の 2 軸主要株主構造はその象徴。^[inferred] 一方で MUFG とも一定の取引関係を持ち、商社として「単一銀行系列」に閉じない柔軟な金融戦略をとる。伊藤忠ファイナンス はこの構造の **内向き機能** を担う。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 伊藤忠本体の繊維・機械・食料・住生活・情報・金属・エネルギー・化学品 取引に紐づく与信補助 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 伊藤忠商事の事業構造との関係
 
@@ -95,7 +95,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 豊田通商 | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | グループ内 captive |
 | 双日 | [[JapanFG/sojitz-finance|双日フィナンス]] | 専業なし |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (貸金業 / 為替業務関連)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -146,5 +146,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。伊藤忠ファイナンス は非上場子会社で外部開示が限定的。最新の業務範囲 / 子会社一覧は 伊藤忠 有価証券報告書 関係会社一覧 を要参照。**親 商社 ページ `itochu-corp.md` は未作成 → 将来的に backlog として追加予定**。

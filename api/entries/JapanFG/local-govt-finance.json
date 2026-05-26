@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,11 +40,11 @@
     "地方公共団体金融機構 (JFM)",
     "Wiki route",
     "TL;DR",
-    "1. 法人结构",
+    "1. 法人構造",
     "機関設計 ^[extracted]",
     "業務範囲 ^[extracted]",
     "融資残高 (概算) ^[ambiguous]",
-    "2. 重要历史",
+    "2. 沿革",
     "公営企業金融公庫時代 (1957-2008)",
     "地方公共団体金融機構時代 (2009-現在)"
   ],
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5386,
+    "nonspace_chars": 5388,
     "word_like_tokens": 646,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

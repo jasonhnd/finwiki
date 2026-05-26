@@ -3,8 +3,8 @@ title: 東海東京フィナンシャル・ホールディングス (Tokai Tokyo
 aliases: ["Tokai Tokyo FH", "Tokai Tokyo Financial Holdings", "東海東京 FH", "東海東京 FHD", "Tokai Tokyo"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, independent]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 中京 (名古屋) 本拠の**中堅独立系証券持株会社**。2009-04-01 東海東京証券を中心に持株会社化。最大の戦略的特徴は**地銀との合弁証券モデル**で、西日本シティ TT 証券・池田泉州 TT 証券・福井銀行 TT 証券・浜銀 TT 証券・とちぎん TT 証券・愛媛銀行系・四国アライアンス系など多数の地域銀行と JV を組み、地銀の証券機能を補完する「地域連携型ハイブリッド証券」モデルを確立。**競合**は同じ名古屋系の [[okasan-sg]] (岡三証券グループ)、および対面 5 大証券。東証 PRIME 8616。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社東海東京フィナンシャル・ホールディングス
 **英名**：Tokai Tokyo Financial Holdings, Inc.
@@ -57,7 +57,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
         └── 英国・米国 拠点
 ```
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 前身・沿革
 
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **中京経済圏** (名古屋・愛知・三重・岐阜) で**地場最大の独立証券**
 - 同じ名古屋系の競合 = [[okasan-sg]] (岡三証券グループ)。両社で「中京 2 強」
 
-## 3. 战略
+## 3. 戦略
 
 ### 地銀合弁モデル (最大の差別化)
 
@@ -108,7 +108,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **法人・ホールセール**: 中堅企業 IPO・PO 引受、地銀公金・地公体案件
 - **投信・PB**: 富裕層向け一任、相続・承継
 
-## 4. 競合与定位
+## 4. 競合・定位
 
 | 競合 | 関係 |
 |---|---|
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 定位:「**メガ系ではない、しかし地銀単独でもない、第 3 の証券インフラ**」
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁 (FSA)、日本証券業協会 (JSDA)
 - **市場**: 東証 PRIME / 名証プレミア
@@ -161,5 +161,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (Wikipedia + 公式 IR ベース)。地銀 JV の正確な出資比率・最新一覧、および直近決算数値は東海東京 FHD IR ページの最新四半期資料を要参照。地銀再編で JV パートナー入替が頻繁なため、JV 名称は時点で変動する。

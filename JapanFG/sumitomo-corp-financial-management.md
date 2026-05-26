@@ -8,8 +8,8 @@ aliases:
   - "sumitomo-corp-finance"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, sumitomo-corp, group-treasury, factoring, cms]
@@ -31,7 +31,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 住友商事フィナンシャルマネジメント は **住友商事 (8053)** 系の **グループ内金融サービス会社**。住友商事グループの **CMS / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金** を担う。リース系 (外向け asset finance) は [[JapanFG/smfg|SMFG]] との合弁である [[JapanFG/smfl|SMFL]] (三井住友ファイナンス&リース) が担うため、住友商事は「**外向けリース = SMFL / 内向け = 住友商事FM**」の二層構造。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -58,7 +58,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 注：商社系内部金融子会社の中で、**外向けリースが上場ではなく メガバンクとの JV** という形態は SMFL が唯一の例 (三菱HCキャピタル・東京センチュリーは上場、JA三井リースは農林中金 JV)。住友商事の金融戦略は「SMFG との strategic partnership に深く埋め込む」型で、伊藤忠 (みずほ FG + 自社の 2 軸構造) や 丸紅 (みずほ FG + 芙蓉 + みずほリース 戦略株主) とは異なる。^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -69,7 +69,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 住友商事本体の金属 / 輸送機・建機 / インフラ / メディア・デジタル / 生活・不動産 / 資源・化学品・エレクトロニクス 取引に紐づく与信補助 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 住友商事の事業構造と金融機能
 
@@ -93,7 +93,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 豊田通商 | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | グループ内 captive |
 | 双日 | [[JapanFG/sojitz-finance|双日フィナンス]] | 専業なし |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (貸金業 / 為替業務関連)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -147,5 +147,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。住友商事FM は非上場子会社で外部開示が限定的。最新の業務範囲 / 子会社一覧は 住友商事 有価証券報告書 関係会社一覧 を要参照。SMFG / SMFL との内部統合度が深いため、独立子会社としての存在感は他商社より相対的に薄い可能性あり。**親 商社 ページ `sumitomo-corp.md` は未作成 → 将来的に backlog として追加予定**。

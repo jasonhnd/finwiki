@@ -3,8 +3,8 @@ title: アフラック生命保険 (Aflac Japan)
 aliases: ["アフラック", "Aflac", "Aflac Life Insurance Japan", "アフラック生命保険", "American Family Life Assurance Company"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, foreign-japan-subsidiary, third-sector]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 米 Aflac Incorporated (NYSE: AFL、本社 米ジョージア州コロンバス) の日本子会社。1974-11 日本初のがん保険を発売、第三分野保険 (がん・医療) で国内 No.1 級の保有契約件数。**2018-04-02 旧日本支店から日本法人「アフラック生命保険株式会社」に転換**し子会社化、同年 **2018-07-12 第一生命 HD ([[dai-ichi-life]]) と戦略的業務・資本提携を締結 (第一生命が議決権ベース約 7%、長期保有目的で取得)**。営業職員 + 代理店 + 銀行窓販 + ネットの 4 チャネルで第三分野シェアを維持。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：アフラック生命保険株式会社 ^[extracted]
 **英名**：Aflac Life Insurance Japan Ltd.
@@ -67,7 +67,7 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
   └── 持株間接保有: 投資子会社・再保険子会社 (ケイマン等)
 ```
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 商品 / 特徴 |
 |---|---|
@@ -77,9 +77,9 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 | **生死合わせ・終身** | 「未来の自分が決める保険 WAYS」「アフラックの終身保険どなたでも」(無告知型) 等 |
 | **学資・貯蓄** | 「アフラックの夢みるこどもの学資保険」等、貯蓄性商品もラインアップ |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
-### 重要历史年表 ^[extracted]
+### 沿革年表 ^[extracted]
 
 | 年月 | 事象 |
 |---|---|
@@ -97,14 +97,14 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 | 2020〜2022 | コロナ禍下で医療保険・就業不能保険需要拡大 / 営業職員のリモート販売対応 |
 | 2024〜 | 中期経営戦略 (Aflac Japan 中計): デジタル直販強化・第一生命チャネル深掘り・高齢化対応商品 |
 
-### 数字化转型
+### デジタル戦略
 
 - **デジタル直販**: 「アフラック ダイレクト」 (ネット完結型) を強化、若年層・第二保険獲得
 - **代理店プラットフォーム**: 代理店向けタブレット提案・電子契約整備
 - **コンタクトセンター AI**: 問い合わせ AI 化、契約照会自動化
 - **米親会社デジタル投資**: Aflac Incorporated 全体で AI / クラウド予算拡大 (10-K 開示)
 
-### 合纵连横
+### 提携・買収戦略
 
 - **第一生命 HD ([[dai-ichi-life]]) 戦略的業務・資本提携 (2018-07-12)** ★ ^[extracted]
   - 第一生命 HD が米 Aflac Incorporated の議決権ベース約 7% に相当する株を 長期保有目的 で取得 (公表時、二段階で取得計画)
@@ -127,7 +127,7 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 - **「生きるための保険」**: がん保険のブランドスローガン (がんサバイバー目線のメッセージング)
 - **コーポレートカラー**: アフラックブルー (信頼) + アフラックダックホワイト
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁 (FSA) — 日本国内の保険業法に基づく登録・監督
 - **米親会社**: SEC / NAIC (米保険監督官協会) / ジョージア州保険局

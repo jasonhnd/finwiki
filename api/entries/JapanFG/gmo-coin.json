@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,11 +41,11 @@
     "GMO コイン (GMO Coin)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "グループ構造",
-    "2. 业务线 map",
-    "3. 重要历史",
-    "4. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 沿革",
+    "4. 戦略・競争",
     "GMO 金融エコシステム連携",
     "競合ポジション"
   ],
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4653,
-    "word_like_tokens": 774,
+    "nonspace_chars": 4656,
+    "word_like_tokens": 773,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

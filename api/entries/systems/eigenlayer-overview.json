@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/eigenlayer-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/eigenlayer-overview.md",
   "domain": "systems",
-  "title": "EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁",
+  "title": "EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁",
+    "title": "EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース",
     "aliases": [
       "eigenlayer-overview",
       "restaking-overview",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -32,9 +32,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁",
+    "EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2642,
-    "word_like_tokens": 427,
+    "nonspace_chars": 3031,
+    "word_like_tokens": 434,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

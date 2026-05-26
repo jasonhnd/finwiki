@@ -3,8 +3,8 @@ title: HSBC ジャパン (HSBC Japan)
 aliases: ["HSBC Japan", "香港上海銀行 東京支店", "HSBC Tokyo Branch", "HSBC 証券会社", "HSBC Securities Japan"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 英 HSBC Holdings plc（LSE / HKEX 上場、G-SIB Bucket 2）の日本拠点群。**1866 横浜支店開設で外資銀行最古級**、**2012-03 「HSBC プレミア」リテール撤退 → 法人専業へ大転換**が現在の事業形態を規定する転換点。香港上海銀行 東京支店（コマーシャル / ホールセール バンキング）+ HSBC 証券会社（IB）+ HSBC グローバルアセットマネジメント を 3 軸とし、アジア（香港）ハブ経由で邦銀グローバル展開・多国籍企業向けトランザクション バンキング・為替コモディティに特化。競合は [[citigroup-japan]] / スタンダード・チャータード / ドイチェ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**：HSBC Holdings plc（LSE / HKEX、ADR: NYSE） ^[extracted]
 **G-SIB**：Bucket 2（+1.5% CET1 追加資本要件）^[extracted]
@@ -66,7 +66,7 @@ HSBC Holdings plc（英、上場）
 | 2015 | アジア・パシフィック ピボット戦略（HSBC 全社）→ 日本拠点 役割再定義 |
 | 2024 | アジア戦略の一部として日本拠点維持・ホールセール強化 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要法人 | 顧客 | 特徴 |
 |---|---|---|---|
@@ -78,7 +78,7 @@ HSBC Holdings plc（英、上場）
 | リテール | **撤退済（2012-03）** | — | プレミア顧客は他行移管 |
 | 信託 | HSBC 信託（縮小） | — | 機能縮小・代替手段あり |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### アジア ハブ戦略
 
@@ -107,7 +107,7 @@ HSBC Holdings plc（英、上場）
 - **MUFG / SMFG / みずほ の補完関係**: 邦銀のアジア進出（特に香港・東南アジア）の現地受け皿として機能
 - **競合関係 弱**: リテール撤退でメガバンクとの正面競合回避
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **日本側 主管**: 金融庁（FSA）外国銀行支店監督
 - **本国規制**: 英 PRA（Prudential Regulation Authority）+ FCA
@@ -145,5 +145,5 @@ HSBC Holdings plc（英、上場）
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia + 公式公開情報ベース、2026-05-19）。HSBC 日本拠点は非上場・非開示情報が多く、収益規模・人員数は公式開示なし。重要事実（1866 横浜支店・2012-03 リテール撤退・G-SIB Bucket 2）は公開ソース校核済。内部情報は一切引用していない。
+> [!info] 検証状況
+> confidence: **likely**（v1.0 Wikipedia + 公式公開情報ベース、2026-05-19）。HSBC 日本拠点は非上場・非開示情報が多く、収益規模・人員数は公式開示なし。重要事実（1866 横浜支店・2012-03 リテール撤退・G-SIB Bucket 2）は公開ソース検証済。内部情報は一切引用していない。

@@ -3,8 +3,8 @@ title: マニュライフ生命保険 (Manulife Life Insurance Japan)
 aliases: ["マニュライフ生命", "Manulife Japan", "Manulife Life Insurance", "旧 第百生命", "旧 マニュライフ・センチュリー生命"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, foreign-japan-subsidiary]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 カナダ最大の生保 **Manulife Financial Corporation**（TSX/NYSE: MFC、トロント本社・1887 創業）の日本子会社。**1999-08 経営破綻した旧 第百生命**（1880 創業の共済生命を源流とする中堅日本生保）を 米 GE Capital（GE Edison Life）が救済買収 → 2001-04 **マニュライフ・センチュリー生命**として再出発 → 2003 **マニュライフ生命**へ改称、2009 マニュライフ・センチュリーと旧マニュライフ・センチュリーの統合体として現在に至る。中堅外資系生保ポジションで、**外貨建保険・変額保険**を主力に、営業職員 + 代理店 + 銀行窓販の 3 チャネルで展開。グローバル Manulife のアジア戦略の中核拠点の 1 つ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：マニュライフ生命保険株式会社 ^[extracted]
 **英名**：Manulife Life Insurance Company
@@ -62,7 +62,7 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
   └── Manulife Investment Management（資産運用、グローバル）
 ```
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 旧 第百生命 系譜（1880〜1999）^[extracted]
 
@@ -92,7 +92,7 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 
 > グローバル Manulife は **2004 米 John Hancock 買収**（約 110 億ドル）で北米最大手の 1 つに。日本市場での Manulife ブランド統一はこの北米統合と並行して進められた。^[extracted]
 
-## 3. 业务线 map
+## 3. 事業セグメント map
 
 | セグメント | 主要商品 | チャネル |
 |---|---|---|
@@ -110,7 +110,7 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 - **銀行窓販**: 外貨建一時払商品で大手・地方銀行と提携
 - **オンライン**: ダイレクト販売は限定的（中堅外資の典型構造）
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 主要戦略軸
 
@@ -134,7 +134,7 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 - 2024 中計: 変額保険・外貨建保険を成長ドライバーに、銀行窓販深耕とアドバイザー数拡大
 - 詳細数値目標は非上場のため公開限定的
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）・財務局
 - **業界団体**: 一般社団法人 生命保険協会 加盟
@@ -177,5 +177,5 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公開二次情報ベース、2026-05-19 編纂）。親会社 Manulife Financial の上場開示は信頼性高、日本子会社の財務詳細は非上場ゆえ限定的。重要年表（1880 共済生命 / 1932 第百生命 / 1999 破綻 / 2001 マニュライフ・センチュリー / 2003 マニュライフ生命 / 2009 統合）は複数公開ソースで一致。最新の販売実績・ソルベンシーは年次ディスクロージャー誌（公式 PDF）を要参照。

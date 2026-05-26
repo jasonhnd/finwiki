@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/l2-agent-economics-arbitrum-base-op-comparison.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/l2-agent-economics-arbitrum-base-op-comparison.md",
   "domain": "systems",
-  "title": "L2 Agent 经济学 · Arbitrum vs Base vs Optimism 对 AI agent workload 对比",
+  "title": "L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワークロード比較",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "L2 Agent 经济学 · Arbitrum vs Base vs Optimism 对 AI agent workload 对比",
+    "title": "L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワークロード比較",
     "aliases": [
       "l2-agent-economics",
       "arbitrum-base-op-agent-comparison",
@@ -21,8 +21,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -51,18 +51,18 @@
       "Coinbase, Stripe, Visa public docs on L2 stablecoin payments"
     ]
   },
-  "summary": "2026 AI agent workload 的 L2 选型已经收敛到 Base 作为默认,Arbitrum + Optimism 各自吃部分 niche(Arbitrum 偏 DeFi-heavy agent + 机构,Optimism 偏 OP Stack 生态 + 公共物品)。三个 L2 的 per-transaction cost 在 Pectra EIP-7691 blob 扩容 后均处于 $0.001-0.01 区间,但 Base 拥有 Coinbase CDP + USDC Native + Coinbase Smart Wallet + ERC-4337 paymaster 全",
+  "summary": "2026 年の AI agent ワークロードにおける L2 選定は Base がデフォルト に収束し、Arbitrum + Optimism がそれぞれ一部のニッチ(Arbitrum は DeFi-heavy agent + 機関向け、Optimism は OP Stack エコシステム + 公共財)を獲得している。3 つの L2 の per-transaction cost は Pectra EIP-7691 blob 拡張 後、いずれも $0.001-0.01 の範囲に入るが、Base は Coinbase CDP + USDC Native + Coinbase Smart Walle",
   "headings": [
-    "L2 Agent 经济学 · Arbitrum vs Base vs Optimism 对 AI agent workload 对比",
+    "L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワークロード比較",
     "TL;DR",
     "Wiki route",
-    "三 L2 基础参数对照(2026-Q1)",
-    "Per-transaction cost · agent workload 视角",
+    "3 L2 基礎パラメータ対照(2026-Q1)",
+    "Per-transaction cost · agent ワークロード視点",
     "Sequencer MEV implications for agents",
-    "Gas sponsorship / Paymaster 可用性",
+    "Gas sponsorship / Paymaster の可用性",
     "Base + Coinbase CDP Paymaster",
     "Arbitrum + Alchemy / Pimlico / Biconomy",
-    "Optimism + 同 Arbitrum 第三方"
+    "Optimism + Arbitrum 同様のサードパーティ"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -108,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13638,
-    "word_like_tokens": 2474,
+    "nonspace_chars": 14925,
+    "word_like_tokens": 2526,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

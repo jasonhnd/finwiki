@@ -3,8 +3,8 @@ title: 東京海上ホールディングス (Tokio Marine Holdings)
 aliases: ["Tokio Marine HD", "東京海上 HD", "東京海上ホールディングス", "Tokio Marine Holdings, Inc.", "8766"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内損保 **3 メガ筆頭**(東京海上 / [[JapanFG/msad|ms-ad]] / [[JapanFG/sompo|sompo-hd]] のうち時価総額 No.1)。1879 年創業の **日本初の損害保険会社** 東京海上保険会社を起源とし、2002-04 ミレアホールディングス設立 → 2008-07 東京海上 HD に改称。**国内損保(東京海上日動) + 国内生保(あんしん生命) + 海外(米 4 大プラットフォーム:Philadelphia / Delphi / HCC / Pure)** の 3 軸。**純利益ベース海外比率 50% 超**で損保業界 No.1 の海外プレゼンス。東証 PRIME 8766。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**:東京海上ホールディングス株式会社
 **英名**:Tokio Marine Holdings, Inc.
@@ -104,7 +104,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 出典:Wikipedia「東京海上ホールディングス」(2026-05-19 抽出)+ Tokio Marine HD 公式 IR。FY2024 = 2025 年 3 月期 連結ベース。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 再保険 | Tokio Millennium Re(2019 RenaissanceRe へ売却) | - |
 | アセット | 東京海上アセットマネジメント | 機関投資家 / 投信 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 海外 M&A 主導の成長戦略
 
@@ -148,7 +148,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **AI 査定**:自動車保険の事故査定 AI 活用
 - **データ事業**:保険データを活用した法人向けリスクアドバイザリー
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**:金融庁(FSA)
 - **保険業法**:第 271 条の 18 等(保険持株会社規制)
@@ -192,5 +192,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**(Wikipedia + 公式 IR 沿革ベース 2026-05-19)。買収金額は公表当時の円換算値で、為替・最終確定額により若干の幅あり。最新の連結業績・地域別純利益比率は **Tokio Marine HD 統合報告書 / 決算短信** を要参照。ビッグモーター関連処分・損保カルテル疑惑は調査継続中の動的論点。

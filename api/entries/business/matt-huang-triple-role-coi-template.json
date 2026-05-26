@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/matt-huang-triple-role-coi-template.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/matt-huang-triple-role-coi-template.md",
   "domain": "business",
-  "title": "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角",
+  "title": "三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEO 三角構造",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构",
+    "title": "三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由",
     "aliases": [
       "matt-huang-triple-role-coi",
       "triple-role-coi-template",
@@ -17,8 +17,8 @@
     ],
     "domain": "business",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -35,7 +35,7 @@
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against jamie dimon anti crypto pivot case for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角",
+    "三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEO 三角構造",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -67,9 +67,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2295,
-    "word_like_tokens": 388,
+    "nonspace_chars": 2674,
+    "word_like_tokens": 421,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

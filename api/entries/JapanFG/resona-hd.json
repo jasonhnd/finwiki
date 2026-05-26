@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,12 +40,12 @@
     "りそなホールディングス (Resona Holdings)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "公的資金注入・完済（再生史の核）^[extracted]",
     "主要子会社・持分",
     "合併歴史・前身",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "FY2024 連結決算（2025-03 期、IR 確認済）^[extracted]"
   ],
   "body_links": {
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5259,
-    "word_like_tokens": 829,
+    "nonspace_chars": 5264,
+    "word_like_tokens": 828,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

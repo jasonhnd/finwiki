@@ -3,8 +3,8 @@ title: じもとホールディングス (JIMOTO HD)
 aliases: ["じもと HD", "JIMOTO Holdings", "じもとホールディングス", "Jimoto Holdings, Inc.", "7161"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku, second-tier, public-funds]
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 山形 + 宮城を地盤とする北東北第二地銀 FG（**きらやか銀行** + **仙台銀行**）。2012-10-01 東日本大震災後の経営統合で発足。**2024-06-20 整理回収機構（RCC）が議決権 63.52% を取得し実質国有化**、**2024-09 公的資金 200 億円の返済期限を 13 年延期（2024-09 → 2037-09）金融庁承認**、2024-04 経営トップ全面刷新。SBI ホールディングス（SBI 地銀 HD）が 2020-11 に第三者割当 35 億円で筆頭株主入り → RCC 国有化で順位入替。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社じもとホールディングス ^[extracted]
 **英名**：Jimoto Holdings, Inc.
@@ -68,7 +68,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | **整理回収機構（RCC）** | **63.52%**（優先株 → 普通株転換で議決権取得）|
 | SBI 地銀ホールディングス | （2020-11 第三者割当 35 億円・筆頭株主だった、RCC 国有化で順位入替）^[ambiguous] |
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 沿革年表 ^[extracted]
 
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 **仙台銀行系（宮城）**
 - 1951-07-05 振興無尽 → 1952 振興相互銀行 → 1989 仙台銀行（普銀転換）
 
-## 3. 战略与競合
+## 3. 戦略・競合
 
 ### 経営戦略
 
@@ -126,7 +126,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | 隣接 第一地銀 | 岩手銀行・東邦銀行（福島）| 営業圏外周 |
 | SBI 4 大地銀枠 | 福島銀行・島根銀行・筑邦銀行 | SBI 提携の他地銀群 ^[ambiguous] |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **金融機能強化法**: 公的資金注入の根拠法（2009 / 2012 / 2014 / 2023 累計 380 億円超）^[extracted]
@@ -182,5 +182,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報のみ・Wikipedia + 金融庁公開資料 + 公開報道 2026-05-19 抽出）。前身行の創業年（殖産銀行 1895 説 / 山形殖産 1914 設立説）は資料により差異あり ^[ambiguous]。2012 / 2014 公的資金注入額は公開ベースで完全には確認できず ^[ambiguous]。RCC 議決権 63.52% は 2024-06-20 時点の公表数値。

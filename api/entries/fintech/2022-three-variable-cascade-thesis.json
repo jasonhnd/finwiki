@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/2022-three-variable-cascade-thesis.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/2022-three-variable-cascade-thesis.md",
   "domain": "fintech",
-  "title": "2022 年三变量级联",
+  "title": "2022 年 三変数カスケード",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "2022 三变量级联 —— 当前稳定币 / Fintech / 地缘多极化的共同因果",
+    "title": "2022 三変数カスケード — 現行 Stablecoin / Fintech / 地政学多極化の共通因果",
     "aliases": [
       "2022 cascade",
-      "利率 + 制裁 + AI 三变量",
-      "货币系统范式转换触发"
+      "金利 + 制裁 + AI 三変数",
+      "通貨システム・パラダイム転換のトリガー"
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -37,15 +37,15 @@
       "https://openai.com/blog/chatgpt"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it against 美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构（MRA 互认） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "summary": "This entry sits under fintech index. Read it against 米 / 欧 / 日「三大円」Stablecoin グローバル・コンプライアンス・アーキテクチャ（MRA 相互承認） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "2022 年三变量级联",
+    "2022 年 三変数カスケード",
     "Wiki route",
-    "三变量",
-    "因果链",
-    "为什么是 2022",
-    "应用 / 转用",
-    "关联"
+    "三変数",
+    "因果連鎖",
+    "なぜ 2022 年か",
+    "応用 / 転用",
+    "関連"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2316,
-    "word_like_tokens": 379,
+    "nonspace_chars": 2663,
+    "word_like_tokens": 396,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

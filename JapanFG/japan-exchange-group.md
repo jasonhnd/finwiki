@@ -3,8 +3,8 @@ title: "日本取引所グループ (JPX)"
 aliases: ["JPX", "Japan Exchange Group", "日本取引所グループ", "8697"]
 domain: JapanFG
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, exchange, market-infrastructure, listed-company]
@@ -28,7 +28,7 @@ Japan Exchange Group is the listed holding company for Japan's core exchange inf
 
 For FinWiki, JPX is not just a stock. It is the gatekeeper layer for listing, trading, derivatives, commodity futures, exchange data, self-regulation, clearing, and public-company disclosure infrastructure.
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Reading |
 |---|---|
@@ -50,7 +50,7 @@ Japan Exchange Group (JPX)
   └── Japan Securities Clearing Corporation (clearing)
 ```
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Layer | Entity | Function |
 |---|---|---|
@@ -61,14 +61,14 @@ Japan Exchange Group (JPX)
 | Regulation | Japan Exchange Regulation | Listing examination, listed-company compliance, market surveillance, participant inspection. |
 | Data / indices | JPX Market Innovation & Research | Indices, data services, analytics, digital and data products. |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 - **Exchange & beyond**: JPX's strategic problem is how to diversify beyond cash-equity transaction fees while keeping public-market trust.
 - **Data / index monetization**: JPX-R and JPX Market Innovation & Research make the group more than an execution venue; market data, indices, disclosure, and governance products are becoming separate rails.
 - **Derivatives modernization**: OSE and TOCOM make JPX the main comprehensive exchange group for financial and commodity derivatives in Japan.
 - **Digital securities adjacency**: JPX is not the only digital-securities venue. [[securities/osaka-digital-exchange|ODX]] and other PTS / security-token venues are the competitive edge cases to watch.
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 JPX sits inside the Financial Instruments and Exchange Act stack. Its key public-policy role is to operate market infrastructure while separating market operation, self-regulation, and clearing functions into distinct group entities.
 

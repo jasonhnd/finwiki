@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-four-poles-selection-decision.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-four-poles-selection-decision.md",
   "domain": "systems",
-  "title": "跨链选型决策树 · 按主角维度匹配协议",
+  "title": "クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨链选型决策树 · 按主角维度匹配协议",
+    "title": "クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング",
     "aliases": [
       "cross chain four poles selection decision",
       "bridge protocol selection by protagonist",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -36,7 +36,7 @@
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "跨链选型决策树 · 按主角维度匹配协议",
+    "クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2515,
-    "word_like_tokens": 412,
+    "nonspace_chars": 2821,
+    "word_like_tokens": 429,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: 岡三証券グループ (Okasan Securities Group)
 aliases: ["Okasan Securities Group", "Okasan SG", "岡三証券グループ", "岡三 SG", "8609"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, independent]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 中堅独立証券持株会社（東証 PRIME **8609**）。1923 年 加藤精一が名古屋で 岡三商店 として創業 → 1944 株式会社化 → 2009-04 持株会社化。**5 大証券（[[ndfg]] 野村 / 大和 / SMBC 日興 / みずほ証券 / MUMSS）に次ぐ独立中堅** ポジション。中京経済圏（名古屋・三重発祥）に強い対面リテール基盤 + ネット証券（岡三オンライン）のハイブリッド戦略。主要競合は同じ中京系 東海東京 FH、ネット系 [[monex-group]] / 松井証券。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社岡三証券グループ ^[extracted]
 **英名**：Okasan Securities Group Inc.
@@ -67,7 +67,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2010 年代 | 岡三オンライン証券 ブランド統合（後 岡三オンライン に改称） |
 | 2020〜2024 | 対面 × ネット ハイブリッド戦略推進、岡三 SBI Bank / 岡三カブースー 等のサービス連携 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -77,7 +77,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外 | 岡三国際 | 香港・シンガポール等 |
 | 地方系列 | 岡三にいがた証券 | 新潟拠点、地域密着 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 中堅独立ポジショニング
 
@@ -100,7 +100,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **SBI HD** グループ系証券（オンライン最大手）
 - メガ系（[[ndfg]] 野村 HD / MUMSS / SMBC 日興 / みずほ証券 / 大和証券 G）— 規模で劣後、独立性・地域密着で差別化 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業規制**：金融商品取引法（第一種金融商品取引業者）
@@ -137,5 +137,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報ベース校核 2026-05-19）。創業 1923 / 持株会社化 2009-04 / 子会社構成 は Wikipedia 経由で公開情報。財務数値・市場順位の具体数値は時点変動あり、最新値は 岡三 IR Quarterly を要参照。

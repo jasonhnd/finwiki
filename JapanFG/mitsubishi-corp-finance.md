@@ -8,8 +8,8 @@ aliases:
   - "mitsubishi-corp-finance"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, mitsubishi-corp, group-treasury, factoring, cms]
@@ -31,7 +31,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 三菱商事フィナンシャルサービス は **三菱商事 (8058)** 100% 子会社の **グループ内金融サービス会社**。三菱商事グループ会社向けの **キャッシュマネジメントサービス (CMS) / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金 / 信用補完** といった group-treasury / 内部金融機能を担う。三菱商事の対外的なリース・ファイナンス機能は別途 [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (出資比率 約 20% 級 + [[JapanFG/mufg|MUFG]] グループ + 旧 日立キャピタル合併体) が担うため、本社は「外向け = HC キャピタル / 内向け = MCFS」の二層構造となる。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -56,7 +56,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 この三層構造は商社系金融のテンプレートで、三井物産 ([[JapanFG/mitsui-bussan-financial-services|三井物産FS]])・住友商事 ([[JapanFG/sumitomo-corp-financial-management|住友商事FM]])・丸紅 ([[JapanFG/marubeni-financial-services|丸紅FS]]) でも類似の構造が存在する。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -67,7 +67,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **信用補完 / 保証** | グループ各社の取引先信用補完 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 商社系 group-treasury の典型像
 
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 豊田通商 | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | グループ内 captive |
 | 双日 | [[JapanFG/sojitz-finance|双日フィナンス]] | 専業なし (外部委託) |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (一部の貸金業 / 為替業務関連登録範囲)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -145,5 +145,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。MCFS は 三菱商事 100% 子会社で外部開示が限定的、最新の業績数値 / 子会社一覧 は 三菱商事 有価証券報告書 関係会社一覧 を要参照。商社系 group-treasury 機能の典型像としての位置付けは確実だが、業務範囲の細部 (どのレイヤーまで子会社が担い、どのレイヤーから本社 treasury が直接担うか) は時点変動する可能性あり。**親 商社 ページ `mitsubishi-corp.md` は未作成 → 将来的に backlog として追加予定**。

@@ -3,8 +3,8 @@ title: 大垣共立銀行 (OKB)
 aliases: ["OKB", "Ogaki Kyoritsu Bank", "大垣共立銀行", "株式会社大垣共立銀行", "The Ogaki Kyoritsu Bank"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 岐阜県大垣市に本店を置く東海地方の地方銀行。1896-03 創業、東証 PRIME 8361 上場、持株会社化していない**単独銀行体制**。岐阜県西濃地方を地盤に、愛知県北西部・三重県北部の**中京経済圏北辺**を主要営業圏とする。VI 略称「**OKB**」(1991 年導入)。「**楽しい銀行**」をコンセプトに、ドライブスルー店舗・ピンク基調の店内装飾・移動店舗車などユニーク施策で知られ、「**日本一の女性活躍銀行**」も掲げる。県内シェアでは [[juroku-fg]] と並ぶ二大銀行の一角。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社大垣共立銀行 ^[extracted]
 **英名**：The Ogaki Kyoritsu Bank, Ltd. ^[extracted]
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直しで PRIME 市場へ移行 |
 | 2024 | 中期経営計画策定・サステナビリティ重視 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主な対象 | 特徴 |
 |---|---|---|
@@ -91,7 +91,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リース・投信 | OKB リース・他 | - |
 | 公金 | 岐阜県・大垣市・西濃地方市町村 指定金融機関 | ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「楽しい銀行」ブランディング
 
@@ -132,7 +132,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 女性活躍・人的資本投資
 - 地域経済振興 (中京サプライチェーン・観光) ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁 (FSA) ・東海財務局
 - **指定金融機関**: 岐阜県・大垣市等 (西濃地方市町村中心) ^[inferred]
@@ -175,5 +175,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (v1.0 Wikipedia + 公式サイト公開情報ベース、2026-05-19 作成)。具体的な決算数値・店舗数・ATM 数等は時点変動するため、最新値は OKB 公式 IR・有価証券報告書を直接参照のこと。本ノートは Wikipedia 経由の構造的情報を中心とし、定量数値の時点保証はしない。

@@ -1,10 +1,10 @@
 ---
-title: Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链
+title: Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン
 aliases: [ripple-rlusd-stablecoin, RLUSD, Ripple USD]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, stablecoin, ripple, rlusd, xrpl, cross-border, compliance-first]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链
+# Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン
 
 
 ## Wiki route
@@ -25,42 +25,42 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> Ripple RLUSD 2024-12-17 在 XRPL + Ethereum **双链同步上线**,Standard Custody (Ripple 子公司,NY DFS 信託牌照) 发行,**银行级合规优先**定位。2026-05 MCap **$700M+**,目标 2027 突破 $3B。RLUSD 是 Ripple 从"跨境支付软件"向"端到端清算栈" (RLUSD + ODL + XRPL DEX + RippleNet) 完成的关键产品——在 GENIUS Act 框架下是"合规优先 / 增长次之"的典型代表。
+> Ripple RLUSD は 2024-12-17 に XRPL + Ethereum **2 チェーン同時ローンチ**、Standard Custody（Ripple 子会社、NY DFS 信託ライセンス）が発行、**銀行級コンプライアンス優先**の位置付け。2026-05 時点 MCap **$700M+**、2027 年に $3B 突破が目標。RLUSD は Ripple が「クロスボーダー決済ソフトウェア」から「エンドツーエンド清算スタック」（RLUSD + ODL + XRPL DEX + RippleNet）へと完成させる鍵となる製品 —— GENIUS Act フレームワーク下では「コンプライアンス優先 / 成長は二次」の典型例である。
 
 ## Key facts
 
-- MCap **$700M+** (2026-05) · 双链同步上线 2024-12-17 ^[extracted]
-- 发行人 Standard Custody (Ripple 子公司,2024-04 收购 NY DFS Trust 牌照,ex-Anchorage 团队) ^[extracted]
-- 储备 100% UST (1-3M) + 现金 · BDO USA 月度 attestation ^[extracted]
-- 主要交易场所 Bitstamp / Bitso / Independent Reserve / Uphold ^[extracted]
-- 与 XRPL 关系: native asset · DEX 原生支持 · IOU 模型 ^[extracted]
-- 与 ODL 关系: 2025-Q2 起部分 ODL 走廊由 RLUSD 替代 XRP 桥接 ^[extracted]
-- 2026-Q1 Ripple 申请 OCC National Bank Charter (进度未定) ^[extracted]
+- MCap **$700M+**（2026-05）· 2 チェーン同時ローンチ 2024-12-17 ^[extracted]
+- 発行体 Standard Custody（Ripple 子会社、2024-04 取得の NY DFS Trust ライセンス、元 Anchorage チーム）^[extracted]
+- 準備金 100% UST（1-3M）+ 現金 · BDO USA による月次 attestation ^[extracted]
+- 主要取引所 Bitstamp / Bitso / Independent Reserve / Uphold ^[extracted]
+- XRPL との関係：native asset · DEX ネイティブサポート · IOU モデル ^[extracted]
+- ODL との関係：2025-Q2 より一部 ODL 回廊で RLUSD が XRP ブリッジを代替 ^[extracted]
+- 2026-Q1 Ripple が OCC National Bank Charter を申請（進捗未定）^[extracted]
 
 ## Mechanism / How it works
 
-RLUSD 与 USDC/USDT 的核心差异化: **不追求 DeFi 流动性深度** (USDC 强项), **不追求灰区流通规模** (USDT 强项), 而是**专注机构跨境支付清算**——叠加 Ripple ODL (2018 启动) + XRPL 原生 DEX (2018) + RippleNet 银行网络 (200+ 家). 这把 Ripple 从软件层 → 流动性层 → 稳定币层 → 完整闭环演化路径完成:跨境银行用 RippleNet 消息层 → ODL 通道 RLUSD 替代 XRP 桥接 → XRPL 上 sub-3-second 结算 → 收款银行赎回为本币. 整个清算栈**比 USDC + SWIFT** 更紧凑(发行人 + 桥接资产 + DEX + 银行消息都是 Ripple 自家系),与 [[fintech/cross-border-sc-via-swift-api|稳定币 × SWIFT API 跨境]] 走的是同一战场的不同打法。
+RLUSD と USDC/USDT のコア差別化は、**DeFi 流動性深度を追求しない**（USDC の強み）、**グレーゾーン流通規模を追求しない**（USDT の強み）一方で、**機関向けクロスボーダー決済清算に専念**する点である —— Ripple ODL（2018 開始）+ XRPL ネイティブ DEX（2018）+ RippleNet 銀行ネットワーク（200+ 行）を重ね合わせる。これにより Ripple はソフトウェア層 → 流動性層 → ステーブルコイン層 → 完全クローズドループという進化経路を完成させる：クロスボーダー銀行が RippleNet メッセージング層を使用 → ODL チャネルで RLUSD が XRP ブリッジを代替 → XRPL 上で sub-3-second 決済 → 受取行が現地通貨に償還。清算スタック全体が**USDC + SWIFT** より緊密で（発行体 + ブリッジ資産 + DEX + 銀行メッセージングがすべて Ripple 自社系列）、[[fintech/cross-border-sc-via-swift-api|ステーブルコイン × SWIFT API クロスボーダー]] と同一の戦場における異なる打ち方となる。
 
 ## Origin & evolution
 
-2012-2018 软件层 (RippleNet · 200+ 家银行). 2018-起流动性层 (ODL · XRP 作桥接). 2020-2023 与 SEC 诉讼 (XRP 是否证券). 2023-07 法院判决 XRP 在公开交易所不是证券. 2024-04 收购 Standard Custody (NY DFS Trust 牌照). **2024-12-17 RLUSD 同步 XRPL + Ethereum 上线**. 2025-Q3 RLUSD 进入 Bitstamp (被 Robinhood 收购的交易所) 大幅扩大零售触达. 2026-Q1 Ripple 申请 OCC National Bank Charter (走的是 [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC 信託银行联邦套利]] 路径). 与 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe Tempo 协议对冲战法]] / Coinbase Arc 形成镜像三足: **Ripple = "跨境合规清算" / Stripe = "电商支付" / Coinbase = "DeFi 流动性"**。
+2012-2018 ソフトウェア層（RippleNet · 200+ 行）。2018 以降 流動性層（ODL · XRP をブリッジに）。2020-2023 SEC との訴訟（XRP は証券か）。2023-07 裁判所判決により XRP は公開取引所では証券に該当せず。2024-04 Standard Custody（NY DFS Trust ライセンス）を買収。**2024-12-17 RLUSD を XRPL + Ethereum で同時ローンチ**。2025-Q3 RLUSD が Bitstamp（Robinhood に買収された取引所）に参入、リテール接点が大幅拡大。2026-Q1 Ripple が OCC National Bank Charter を申請（[[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC 信託銀行連邦アービトラージ]] 経路を辿る）。[[fintech/protocol-hedge-strategy-stripe-pattern|Stripe Tempo プロトコル対冲戦法]] / Coinbase Arc とミラー的な三脚を形成：**Ripple = 「クロスボーダーコンプライアンス清算」/ Stripe = 「EC 決済」/ Coinbase = 「DeFi 流動性」**。
 
 ## Counterpoints
 
-RLUSD $700M 仍远小于 USDC / USDT,且 ODL 走廊数量增长在 2024-2025 停滞(主要因美国出口限制 + 部分新兴市场监管摩擦)。"合规优先"定位让 RLUSD 在 DeFi 集成深度上**永远落后 USDC**,机构跨境清算市场被 SWIFT API + 多 SC 套利模式分流 → RLUSD 难以独占。XRPL DEX 流动性相对薄,赎回链路依赖 Bitstamp 等中心化场所. Ripple OCC National Bank Charter 申请被拒会让 RLUSD 失去"美国合规升级"通道。
+RLUSD $700M は USDC / USDT より依然遥かに小さく、ODL 回廊数の成長も 2024-2025 で停滞している（主因は米国の輸出規制 + 一部新興市場の規制摩擦）。「コンプライアンス優先」の位置付けにより、RLUSD は DeFi 統合深度では**永続的に USDC に劣後する**。機関クロスボーダー清算市場は SWIFT API + マルチ SC アービトラージモデルにより分流され、RLUSD が独占することは困難。XRPL DEX の流動性は相対的に薄く、償還経路は Bitstamp 等の中央集権的場所に依存。Ripple の OCC National Bank Charter 申請が却下されれば、RLUSD は「米国コンプライアンス昇格」の経路を失う。
 
 ## Open questions
 
-Ripple OCC National Bank Charter 何时获批 / 被拒?ODL 走廊由 RLUSD 替代 XRP 桥接的比例 2027 能否突破 50%?RLUSD 在欧盟 MiCA 框架下能否拿到 EMT/ART 资格,实现三圆白圈完整覆盖?
+Ripple の OCC National Bank Charter はいつ承認 / 却下されるか？RLUSD が XRP ブリッジを代替する ODL 回廊の比率は 2027 年に 50% を超えられるか？RLUSD は EU MiCA フレームワーク下で EMT/ART 資格を取得し、三円白圈の完全カバーを実現できるか？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
-- [[fintech/cross-border-sc-via-swift-api|稳定币跨境 via SWIFT API]]
-- [[fintech/three-circles-stablecoin-mra-framework|稳定币三圆 MRA 框架]]
-- [[fintech/stablecoin-crossborder-b2b-growth|稳定币跨境 B2B 增长]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]]
+- [[fintech/cross-border-sc-via-swift-api|ステーブルコインクロスボーダー via SWIFT API]]
+- [[fintech/three-circles-stablecoin-mra-framework|ステーブルコイン三円 MRA フレームワーク]]
+- [[fintech/stablecoin-crossborder-b2b-growth|ステーブルコインクロスボーダー B2B 成長]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street 暗号資産ネットワーク中立]]
 <!-- /wiki-links:managed -->
 
 ## Sources

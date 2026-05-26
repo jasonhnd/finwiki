@@ -3,8 +3,8 @@ title: 今村証券 (Imamura Securities)
 aliases: ["Imamura Securities", "Imamura Securities Co., Ltd.", "今村証券", "今村証券株式会社", "7175"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier, regional]
@@ -39,7 +39,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 本社 | 石川県金沢市 |
 | 業態 | 地域中堅独立系証券 (北陸地方密着) |
 
-## 2. 公司結構
+## 2. 会社概要
 
 **正式名**：今村証券株式会社
 **英名**：Imamura Securities Co., Ltd.
@@ -63,7 +63,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (7175) ^[extracted] |
 | 2024〜 | 新 NISA 制度対応、地域顧客向け NISA 商品強化 ^[inferred] |
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 投資相談 | 対面コンサルティング | 「教育型営業」 ^[inferred] |
 | オンライン取引 | ネット支店併設 | 対面が主軸 |
 
-## 4. 战略与競争
+## 4. 戦略・競争
 
 ### 地域密着型独立証券としてのポジション
 
@@ -93,7 +93,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 2024〜 新 NISA 拡充で、地域富裕層・シニア層向け NISA 商品ラインナップを強化 ^[inferred]
 - 地域証券として地元の世代間資産承継 (相続・贈与関連の運用相談) ニーズに対応 ^[inferred]
 
-## 5. 监管と政策
+## 5. 規制・政策
 
 - **主管**：金融庁 (FSA)・**北陸財務局** (地方財務局登録)
 - **業態**：第一種金融商品取引業 (証券業)

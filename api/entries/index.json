@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-26T14:34:50+09:00",
+  "generated_at": "2026-05-26T19:32:25+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1404,
   "entries": [
@@ -28,7 +28,7 @@
     {
       "slug": "JapanFG/INDEX",
       "domain": "JapanFG",
-      "title": "JapanFG — 日本金融集团 wiki namespace",
+      "title": "JapanFG — 日本金融グループ wiki namespace",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/INDEX.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/INDEX"
     },
@@ -4424,7 +4424,7 @@
     {
       "slug": "agent-economy/2026-04-08_agent-payment-infrastructure-research",
       "domain": "agent-economy",
-      "title": "Agent 支付基础设施研究报告",
+      "title": "Agent 決済インフラ調査レポート",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/2026-04-08_agent-payment-infrastructure-research.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/2026-04-08_agent-payment-infrastructure-research"
     },
@@ -4438,7 +4438,7 @@
     {
       "slug": "agent-economy/agent-actorship-debate",
       "domain": "agent-economy",
-      "title": "Agent 主体性辩论：四个阵营",
+      "title": "Agent 主体性論争:4つの陣営",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/agent-actorship-debate.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/agent-actorship-debate"
     },
@@ -4473,7 +4473,7 @@
     {
       "slug": "agent-economy/agent-payment-protocol-four-way-comparison-2026",
       "domain": "agent-economy",
-      "title": "Agent Payment Protocol 四方比較矩陣 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
+      "title": "Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/agent-payment-protocol-four-way-comparison-2026.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/agent-payment-protocol-four-way-comparison-2026"
     },
@@ -4487,28 +4487,28 @@
     {
       "slug": "agent-economy/ai-agent-payment-protocols-commoditization",
       "domain": "agent-economy",
-      "title": "Agent 支付协议 commoditization 与价值上移",
+      "title": "Agent 決済プロトコル commoditization と価値の上方移動",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ai-agent-payment-protocols-commoditization.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-commoditization"
     },
     {
       "slug": "agent-economy/ai-agent-payment-protocols-overview",
       "domain": "agent-economy",
-      "title": "AI Agent 支付协议总图 · 七协议格局概览",
+      "title": "AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ai-agent-payment-protocols-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview"
     },
     {
       "slug": "agent-economy/ai-agent-payment-protocols-seven-layers",
       "domain": "agent-economy",
-      "title": "AI Agent 支付七协议分层表",
+      "title": "AI Agent 決済7プロトコル分層表",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ai-agent-payment-protocols-seven-layers.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-seven-layers"
     },
     {
       "slug": "agent-economy/ai-company-payment-landscape",
       "domain": "agent-economy",
-      "title": "AI 公司收款方式现状",
+      "title": "AI 企業の決済方式の現状",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ai-company-payment-landscape.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape"
     },
@@ -4522,35 +4522,35 @@
     {
       "slug": "agent-economy/ap2-adoption",
       "domain": "agent-economy",
-      "title": "AP2 采用版图 · Google 闭环 vs 协议四国杀",
+      "title": "AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ap2-adoption.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ap2-adoption"
     },
     {
       "slug": "agent-economy/ap2-overview",
       "domain": "agent-economy",
-      "title": "AP2 · Google Agent Payments Protocol 概览",
+      "title": "AP2 · Google Agent Payments Protocol 概観",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ap2-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ap2-overview"
     },
     {
       "slug": "agent-economy/ap2-technical-spec",
       "domain": "agent-economy",
-      "title": "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+      "title": "AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/ap2-technical-spec.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/ap2-technical-spec"
     },
     {
       "slug": "agent-economy/claude-code-extension-architecture",
       "domain": "agent-economy",
-      "title": "Claude Code 扩展组件架构",
+      "title": "Claude Code 拡張コンポーネントアーキテクチャ",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/claude-code-extension-architecture.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/claude-code-extension-architecture"
     },
     {
       "slug": "agent-economy/coinbase-cdp-developer-platform",
       "domain": "agent-economy",
-      "title": "Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施",
+      "title": "Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/coinbase-cdp-developer-platform.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform"
     },
@@ -4578,7 +4578,7 @@
     {
       "slug": "agent-economy/embedded-wallet-network-effects-moat",
       "domain": "agent-economy",
-      "title": "嵌入式钱包网络效应 · 集成商而非钱包本身的护城河",
+      "title": "埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/embedded-wallet-network-effects-moat.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat"
     },
@@ -4599,14 +4599,14 @@
     {
       "slug": "agent-economy/erc-7715-agent-payment-stack",
       "domain": "agent-economy",
-      "title": "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+      "title": "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/erc-7715-agent-payment-stack.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack"
     },
     {
       "slug": "agent-economy/erc-7715-overview",
       "domain": "agent-economy",
-      "title": "ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付",
+      "title": "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/erc-7715-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/erc-7715-overview"
     },
@@ -4634,21 +4634,21 @@
     {
       "slug": "agent-economy/privy-aws-agentcore-default-wallet",
       "domain": "agent-economy",
-      "title": "Privy x AWS Bedrock AgentCore · AI agent 经济默认钱包卡位",
+      "title": "Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/privy-aws-agentcore-default-wallet.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet"
     },
     {
       "slug": "agent-economy/privy-embedded-wallet-overview",
       "domain": "agent-economy",
-      "title": "Privy · Stripe 子公司的嵌入式自托管钱包(总览)",
+      "title": "Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/privy-embedded-wallet-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview"
     },
     {
       "slug": "agent-economy/skill-market-monetization",
       "domain": "agent-economy",
-      "title": "Skill 市场收费化",
+      "title": "Skill マーケット有料化",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/skill-market-monetization.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/skill-market-monetization"
     },
@@ -4662,14 +4662,14 @@
     {
       "slug": "agent-economy/solana-saga-seeker-mobile-stack-overview",
       "domain": "agent-economy",
-      "title": "Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)",
+      "title": "Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/solana-saga-seeker-mobile-stack-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview"
     },
     {
       "slug": "agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
       "domain": "agent-economy",
-      "title": "Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争",
+      "title": "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/solana-saga-vs-embedded-wallet-os-thesis.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis"
     },
@@ -4697,14 +4697,14 @@
     {
       "slug": "agent-economy/x402-cloudflare-aws-edge-integration",
       "domain": "agent-economy",
-      "title": "x402 x Cloudflare / AWS · 边缘层默认支付组件",
+      "title": "x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/x402-cloudflare-aws-edge-integration.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration"
     },
     {
       "slug": "agent-economy/x402-http-payment-overview",
       "domain": "agent-economy",
-      "title": "x402 · HTTP 402 复活的 AI agent 支付协议(总览)",
+      "title": "x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)",
       "api_url": "https://finwiki.zksc.io/api/entries/agent-economy/x402-http-payment-overview.json",
       "html_url": "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview"
     },
@@ -5005,7 +5005,7 @@
     {
       "slug": "business/christine-moy-talent-signal-jpm-apollo",
       "domain": "business",
-      "title": "关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo",
+      "title": "主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo",
       "api_url": "https://finwiki.zksc.io/api/entries/business/christine-moy-talent-signal-jpm-apollo.json",
       "html_url": "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo"
     },
@@ -5033,14 +5033,14 @@
     {
       "slug": "business/hester-peirce-sec-regulatory-pivot-case",
       "domain": "business",
-      "title": "监管转向关键官员案例 · 个人意识形态 + 制度授权(Hester Peirce)",
+      "title": "規制転換のキーパーソン事例 · 個人イデオロギー + 制度的授権(Hester Peirce)",
       "api_url": "https://finwiki.zksc.io/api/entries/business/hester-peirce-sec-regulatory-pivot-case.json",
       "html_url": "https://finwiki.zksc.io/business/hester-peirce-sec-regulatory-pivot-case"
     },
     {
       "slug": "business/jamie-dimon-anti-crypto-pivot-case",
       "domain": "business",
-      "title": "反加密 CEO 转向支持的被动适应案例 · Jamie Dimon / JPM",
+      "title": "反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM",
       "api_url": "https://finwiki.zksc.io/api/entries/business/jamie-dimon-anti-crypto-pivot-case.json",
       "html_url": "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case"
     },
@@ -5061,21 +5061,21 @@
     {
       "slug": "business/kitao-yoshitaka-sbi-independent-strategy-case",
       "domain": "business",
-      "title": "独立路线案例 · 拒绝产业联盟 + 押注跨境合规价值(北尾吉孝 / SBI)",
+      "title": "独立路線事例 · 産業連合への不参加 + クロスボーダー・コンプライアンス価値への賭け(北尾吉孝 / SBI)",
       "api_url": "https://finwiki.zksc.io/api/entries/business/kitao-yoshitaka-sbi-independent-strategy-case.json",
       "html_url": "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case"
     },
     {
       "slug": "business/larry-fink-blackrock-digital-asset-template",
       "domain": "business",
-      "title": "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力",
+      "title": "資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力",
       "api_url": "https://finwiki.zksc.io/api/entries/business/larry-fink-blackrock-digital-asset-template.json",
       "html_url": "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template"
     },
     {
       "slug": "business/matt-huang-triple-role-coi-template",
       "domain": "business",
-      "title": "三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角",
+      "title": "三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEO 三角構造",
       "api_url": "https://finwiki.zksc.io/api/entries/business/matt-huang-triple-role-coi-template.json",
       "html_url": "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template"
     },
@@ -5089,7 +5089,7 @@
     {
       "slug": "business/paolo-ardoino-tether-business-model-template",
       "domain": "business",
-      "title": "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+      "title": "40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino",
       "api_url": "https://finwiki.zksc.io/api/entries/business/paolo-ardoino-tether-business-model-template.json",
       "html_url": "https://finwiki.zksc.io/business/paolo-ardoino-tether-business-model-template"
     },
@@ -5103,7 +5103,7 @@
     {
       "slug": "business/sandeep-nailwal-polygon-india-dpi-pattern",
       "domain": "business",
-      "title": "国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应",
+      "title": "国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給",
       "api_url": "https://finwiki.zksc.io/api/entries/business/sandeep-nailwal-polygon-india-dpi-pattern.json",
       "html_url": "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern"
     },
@@ -5642,7 +5642,7 @@
     {
       "slug": "exchanges/global-dex-aggregator-comparison-matrix",
       "domain": "exchanges",
-      "title": "グローバル DEX Aggregator 比較マトリックス · 8 大 Aggregator 横断対照",
+      "title": "グローバル DEX Aggregator 比較マトリックス · 8大 Aggregator 横断対照",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/global-dex-aggregator-comparison-matrix.json",
       "html_url": "https://finwiki.zksc.io/exchanges/global-dex-aggregator-comparison-matrix"
     },
@@ -6349,7 +6349,7 @@
     {
       "slug": "exchanges/native-dex-flip-incumbent-pattern",
       "domain": "exchanges",
-      "title": "L2 原生 DEX 反超 incumbent 模式",
+      "title": "L2 原生 DEX による incumbent 逆転パターン",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/native-dex-flip-incumbent-pattern.json",
       "html_url": "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern"
     },
@@ -6419,7 +6419,7 @@
     {
       "slug": "exchanges/vetoken-host-protocol-flywheel",
       "domain": "exchanges",
-      "title": "veToken × 主导方 DEX 自循环飞轮",
+      "title": "veToken × ホスト・プロトコル DEX 自己循環フライホイール",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/vetoken-host-protocol-flywheel.json",
       "html_url": "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel"
     },
@@ -6468,7 +6468,7 @@
     {
       "slug": "finance/fire-math-reverse-derivation",
       "domain": "finance",
-      "title": "FIRE 数学反推框架",
+      "title": "FIRE 数学逆算フレームワーク",
       "api_url": "https://finwiki.zksc.io/api/entries/finance/fire-math-reverse-derivation.json",
       "html_url": "https://finwiki.zksc.io/finance/fire-math-reverse-derivation"
     },
@@ -6601,7 +6601,7 @@
     {
       "slug": "finance/multi-jurisdiction-identity-tax-leverage",
       "domain": "finance",
-      "title": "跨境身份组合的税务杠杆",
+      "title": "クロスボーダー身分組合せの税務レバレッジ",
       "api_url": "https://finwiki.zksc.io/api/entries/finance/multi-jurisdiction-identity-tax-leverage.json",
       "html_url": "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage"
     },
@@ -6615,7 +6615,7 @@
     {
       "slug": "fintech/2022-three-variable-cascade-thesis",
       "domain": "fintech",
-      "title": "2022 年三变量级联",
+      "title": "2022 年 三変数カスケード",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/2022-three-variable-cascade-thesis.json",
       "html_url": "https://finwiki.zksc.io/fintech/2022-three-variable-cascade-thesis"
     },
@@ -6629,28 +6629,28 @@
     {
       "slug": "fintech/ai-payment-two-tracks",
       "domain": "fintech",
-      "title": "AI 产业的两条支付轨道",
+      "title": "AI 産業の 2 つの決済軌道",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/ai-payment-two-tracks.json",
       "html_url": "https://finwiki.zksc.io/fintech/ai-payment-two-tracks"
     },
     {
       "slug": "fintech/aml-cft-fatf-grey-list-cross-border-implications",
       "domain": "fintech",
-      "title": "FATF 评级跨境合规含义 · §501(d) 入榜资格前置过滤层",
+      "title": "FATF 評価のクロスボーダー・コンプライアンス含意 · §501(d) 入リスト資格の前置フィルター層",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/aml-cft-fatf-grey-list-cross-border-implications.json",
       "html_url": "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-cross-border-implications"
     },
     {
       "slug": "fintech/aml-cft-fatf-grey-list-overview",
       "domain": "fintech",
-      "title": "FATF 灰名单 / 黑名单 · AML/CFT 国家评估机制概览",
+      "title": "FATF グレーリスト / ブラックリスト · AML/CFT 国別評価メカニズム概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/aml-cft-fatf-grey-list-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview"
     },
     {
       "slug": "fintech/apollo-acred-private-credit-tokenization",
       "domain": "fintech",
-      "title": "Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置",
+      "title": "Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/apollo-acred-private-credit-tokenization.json",
       "html_url": "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization"
     },
@@ -6671,14 +6671,14 @@
     {
       "slug": "fintech/basel-iii-frtb-crypto-exposure-implications",
       "domain": "fintech",
-      "title": "Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道",
+      "title": "Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/basel-iii-frtb-crypto-exposure-implications.json",
       "html_url": "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-implications"
     },
     {
       "slug": "fintech/basel-iii-frtb-crypto-exposure-overview",
       "domain": "fintech",
-      "title": "Basel III FRTB 加密敞口 · BCBS SCO60 1,250% 风险加权概览",
+      "title": "Basel III FRTB 暗号エクスポージャー · BCBS SCO60 1,250% リスクウェイト概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/basel-iii-frtb-crypto-exposure-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/basel-iii-frtb-crypto-exposure-overview"
     },
@@ -6692,56 +6692,56 @@
     {
       "slug": "fintech/bis-project-agora-overview",
       "domain": "fintech",
-      "title": "BIS Project Agorá 概览",
+      "title": "BIS Project Agorá 概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-project-agora-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/bis-project-agora-overview"
     },
     {
       "slug": "fintech/bis-project-agora-vs-mbridge",
       "domain": "fintech",
-      "title": "Agorá vs mBridge · 跨境清算双轨制战略对照",
+      "title": "Agorá vs mBridge · クロスボーダー決済デュアル・トラック制の戦略比較",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-project-agora-vs-mbridge.json",
       "html_url": "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge"
     },
     {
       "slug": "fintech/bis-project-ensemble-overview",
       "domain": "fintech",
-      "title": "HKMA Project Ensemble 概览",
+      "title": "HKMA Project Ensemble 概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-project-ensemble-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview"
     },
     {
       "slug": "fintech/bis-project-ensemble-vs-mbridge-dual-track",
       "domain": "fintech",
-      "title": "HKMA 双轨战略 · Ensemble × mBridge",
+      "title": "HKMA デュアル・トラック戦略 · Ensemble × mBridge",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-project-ensemble-vs-mbridge-dual-track.json",
       "html_url": "https://finwiki.zksc.io/fintech/bis-project-ensemble-vs-mbridge-dual-track"
     },
     {
       "slug": "fintech/bis-project-guardian-overview",
       "domain": "fintech",
-      "title": "MAS Project Guardian 概览",
+      "title": "MAS Project Guardian 概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-project-guardian-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/bis-project-guardian-overview"
     },
     {
       "slug": "fintech/bis-project-guardian-vs-agora-asia-three-poles",
       "domain": "fintech",
-      "title": "亚洲代币化基础设施三极",
+      "title": "アジア・トークン化インフラ三極",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-project-guardian-vs-agora-asia-three-poles.json",
       "html_url": "https://finwiki.zksc.io/fintech/bis-project-guardian-vs-agora-asia-three-poles"
     },
     {
       "slug": "fintech/blackrock-buidl-sc-issuer-adoption",
       "domain": "fintech",
-      "title": "BlackRock BUIDL · 稳定币与 DeFi 协议储备采用矩阵",
+      "title": "BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/blackrock-buidl-sc-issuer-adoption.json",
       "html_url": "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption"
     },
     {
       "slug": "fintech/blackrock-buidl-tokenized-mmf-overview",
       "domain": "fintech",
-      "title": "BlackRock BUIDL · 代币化 MMF 标杆 · \"稳定币 yield 基础设施\"",
+      "title": "BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/blackrock-buidl-tokenized-mmf-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview"
     },
@@ -6762,7 +6762,7 @@
     {
       "slug": "fintech/brazil-mexico-cbdc-stablecoin-push-2026",
       "domain": "fintech",
-      "title": "Brazil DREX × Mexico Banxico CoDi × 拉美 CBDC 与稳定币并行架构 2026",
+      "title": "Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/brazil-mexico-cbdc-stablecoin-push-2026.json",
       "html_url": "https://finwiki.zksc.io/fintech/brazil-mexico-cbdc-stablecoin-push-2026"
     },
@@ -6776,7 +6776,7 @@
     {
       "slug": "fintech/cbbtc-institutional-btc-wrapper",
       "domain": "fintech",
-      "title": "cbBTC · Coinbase 包装 BTC · 机构信任替代 WBTC 的窗口期产品",
+      "title": "cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィンドウ・プロダクト",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cbbtc-institutional-btc-wrapper.json",
       "html_url": "https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper"
     },
@@ -6790,63 +6790,63 @@
     {
       "slug": "fintech/cbdc-multi-tier-architecture-overview",
       "domain": "fintech",
-      "title": "CBDC 多层架构概览",
+      "title": "CBDC 多層アーキテクチャ概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cbdc-multi-tier-architecture-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview"
     },
     {
       "slug": "fintech/cbdc-multi-tier-architecture-three-paradigms",
       "domain": "fintech",
-      "title": "CBDC 三大现役范式",
+      "title": "CBDC 3 大現役パラダイム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cbdc-multi-tier-architecture-three-paradigms.json",
       "html_url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-three-paradigms"
     },
     {
       "slug": "fintech/cbdc-multi-tier-architecture-tradeoffs",
       "domain": "fintech",
-      "title": "CBDC 架构选择 4 核心权衡",
+      "title": "CBDC アーキテクチャ選択 4 大トレードオフ",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cbdc-multi-tier-architecture-tradeoffs.json",
       "html_url": "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-tradeoffs"
     },
     {
       "slug": "fintech/central-banking-function-unbundling",
       "domain": "fintech",
-      "title": "中央银行职能解体五层",
+      "title": "中央銀行機能のアンバンドリング 5 層",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/central-banking-function-unbundling.json",
       "html_url": "https://finwiki.zksc.io/fintech/central-banking-function-unbundling"
     },
     {
       "slug": "fintech/cftc-sec-crypto-jurisdiction",
       "domain": "fintech",
-      "title": "CFTC vs SEC 加密管辖权之争 · 商品证券二分",
+      "title": "CFTC vs SEC 暗号管轄権争い · コモディティ証券二分法",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cftc-sec-crypto-jurisdiction.json",
       "html_url": "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction"
     },
     {
       "slug": "fintech/chain-level-ofac-freeze-precedent",
       "domain": "fintech",
-      "title": "链级 OFAC freeze = 美元链级霸权",
+      "title": "チェーン・レベル OFAC freeze = 米ドルのチェーン・レベル覇権",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/chain-level-ofac-freeze-precedent.json",
       "html_url": "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent"
     },
     {
       "slug": "fintech/circle-usdc-stablecoin",
       "domain": "fintech",
-      "title": "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+      "title": "Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/circle-usdc-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin"
     },
     {
       "slug": "fintech/circular-reserve-asset-flywheel-overview",
       "domain": "fintech",
-      "title": "储备金互锁飞轮 · BUIDL ↔ USDC 系统性循环依赖",
+      "title": "準備金インターロック・フライホイール · BUIDL ↔ USDC システミックな循環依存",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/circular-reserve-asset-flywheel-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview"
     },
     {
       "slug": "fintech/circular-reserve-asset-flywheel-risk-cases",
       "domain": "fintech",
-      "title": "储备金互锁飞轮 · 三层系统性风险情景",
+      "title": "準備金インターロック・フライホイール · 三層システミックリスク・シナリオ",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/circular-reserve-asset-flywheel-risk-cases.json",
       "html_url": "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-risk-cases"
     },
@@ -6867,28 +6867,28 @@
     {
       "slug": "fintech/dora-eu-digital-operational-resilience-ctpp",
       "domain": "fintech",
-      "title": "DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管",
+      "title": "DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/dora-eu-digital-operational-resilience-ctpp.json",
       "html_url": "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-ctpp"
     },
     {
       "slug": "fintech/dora-eu-digital-operational-resilience-overview",
       "domain": "fintech",
-      "title": "DORA · EU Digital Operational Resilience Act 概览",
+      "title": "DORA · EU Digital Operational Resilience Act 概観",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/dora-eu-digital-operational-resilience-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/dora-eu-digital-operational-resilience-overview"
     },
     {
       "slug": "fintech/dual-currency-stablecoin-arbitrage-legal-hack",
       "domain": "fintech",
-      "title": "双币套利 · §501 法律 hack 与监管脆弱性",
+      "title": "二通貨アービトラージ · §501 リーガル hack と規制脆弱性",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/dual-currency-stablecoin-arbitrage-legal-hack.json",
       "html_url": "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-legal-hack"
     },
     {
       "slug": "fintech/dual-currency-stablecoin-arbitrage-overview",
       "domain": "fintech",
-      "title": "双币稳定币套利 · §501 时代唯一合法 FX 链上化路径",
+      "title": "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/dual-currency-stablecoin-arbitrage-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview"
     },
@@ -6909,28 +6909,28 @@
     {
       "slug": "fintech/em-market-crypto-dollarization-pattern",
       "domain": "fintech",
-      "title": "新兴市场加密美元化模式",
+      "title": "新興市場における暗号資産ドル化パターン",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/em-market-crypto-dollarization-pattern.json",
       "html_url": "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern"
     },
     {
       "slug": "fintech/embedded-wallet-fintech-disintermediation-overview",
       "domain": "fintech",
-      "title": "嵌入式钱包对 Fintech 去中介化 · 四强格局",
+      "title": "組込み型ウォレットによる Fintech の脱仲介化 · 四強構図",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/embedded-wallet-fintech-disintermediation-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview"
     },
     {
       "slug": "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "domain": "fintech",
-      "title": "嵌入式钱包 · Fintech 反吃 Web3 的 Trojan Horse(Stripe 五层)",
+      "title": "組込み型ウォレット · Fintech が Web3 を逆食いする Trojan Horse(Stripe 五層)",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.json",
       "html_url": "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse"
     },
     {
       "slug": "fintech/enterprise-procurement-deadline-anchor",
       "domain": "fintech",
-      "title": "企业 IT 采购预算锁定",
+      "title": "企業 IT 調達予算ロックイン",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/enterprise-procurement-deadline-anchor.json",
       "html_url": "https://finwiki.zksc.io/fintech/enterprise-procurement-deadline-anchor"
     },
@@ -6944,63 +6944,63 @@
     {
       "slug": "fintech/eu-mica-implementation-status-2026",
       "domain": "fintech",
-      "title": "EU MiCA 实施状态 2026-05 · EMT/ART 持牌图谱 × USDT 退出 × USDC 市场份额重塑",
+      "title": "EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/eu-mica-implementation-status-2026.json",
       "html_url": "https://finwiki.zksc.io/fintech/eu-mica-implementation-status-2026"
     },
     {
       "slug": "fintech/european-payments-initiative-wero",
       "domain": "fintech",
-      "title": "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+      "title": "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/european-payments-initiative-wero.json",
       "html_url": "https://finwiki.zksc.io/fintech/european-payments-initiative-wero"
     },
     {
       "slug": "fintech/fatf-travel-rule-cross-border-stack",
       "domain": "fintech",
-      "title": "FATF Travel Rule 跨境四层 stack · 各国门槛差异 + §501 协同",
+      "title": "FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/fatf-travel-rule-cross-border-stack.json",
       "html_url": "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack"
     },
     {
       "slug": "fintech/fatf-travel-rule-overview",
       "domain": "fintech",
-      "title": "FATF Travel Rule · R.16 VASP $1,000 KYC 信息传递",
+      "title": "FATF Travel Rule · R.16 VASP $1,000 KYC 情報伝達",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/fatf-travel-rule-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/fatf-travel-rule-overview"
     },
     {
       "slug": "fintech/first-digital-fdusd-hk-stablecoin",
       "domain": "fintech",
-      "title": "First Digital FDUSD · HK 牌照候选 · Binance 主交易对替代 BUSD",
+      "title": "First Digital FDUSD · HK ライセンス候補 · Binance 主要取引ペアで BUSD を代替",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/first-digital-fdusd-hk-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/first-digital-fdusd-hk-stablecoin"
     },
     {
       "slug": "fintech/fnality-wholesale-settlement",
       "domain": "fintech",
-      "title": "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+      "title": "Fnality International · 銀行連合のホールセール決済トークン · BoE ライセンス取得 GBP は既稼働",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/fnality-wholesale-settlement.json",
       "html_url": "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement"
     },
     {
       "slug": "fintech/four-motive-classes-asymmetric-competition",
       "domain": "fintech",
-      "title": "4 类动机不对称分析",
+      "title": "4 動機クラスの非対称分析",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/four-motive-classes-asymmetric-competition.json",
       "html_url": "https://finwiki.zksc.io/fintech/four-motive-classes-asymmetric-competition"
     },
     {
       "slug": "fintech/franklin-templeton-stablecoin-migration",
       "domain": "fintech",
-      "title": "Franklin Templeton FOBXX (BENJI) · 从 Stellar 单链到多链 RWA · \"代币化基金不是稳定币\" 的范式",
+      "title": "Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/franklin-templeton-stablecoin-migration.json",
       "html_url": "https://finwiki.zksc.io/fintech/franklin-templeton-stablecoin-migration"
     },
     {
       "slug": "fintech/frax-frxusd-defi-stablecoin",
       "domain": "fintech",
-      "title": "Frax frxUSD · DeFi 原生稳定币的\"半合规化\"路线",
+      "title": "Frax frxUSD · DeFi ネイティブ・ステーブルコインの「半コンプライアンス化」ルート",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/frax-frxusd-defi-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin"
     },
@@ -7021,7 +7021,7 @@
     {
       "slug": "fintech/genius-act-501-denylist-mandate",
       "domain": "fintech",
-      "title": "GENIUS Act §501 链级 Denylist 合法化",
+      "title": "GENIUS Act §501 チェーンレベル Denylist 合法化",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/genius-act-501-denylist-mandate.json",
       "html_url": "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate"
     },
@@ -7049,35 +7049,35 @@
     {
       "slug": "fintech/gray-market-dollar-network-formalization",
       "domain": "fintech",
-      "title": "灰色市场美元网络的正式化",
+      "title": "グレー市場ドルネットワークの正式化",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/gray-market-dollar-network-formalization.json",
       "html_url": "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization"
     },
     {
       "slug": "fintech/hk-frtb-stablecoin-reserve-overview",
       "domain": "fintech",
-      "title": "HK FRTB 稳定币储备金要求 · HKMA Reserve Framework",
+      "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/hk-frtb-stablecoin-reserve-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview"
     },
     {
       "slug": "fintech/hkma-stablecoin-licensing-implications",
       "domain": "fintech",
-      "title": "HKMA 牌照战略含义 · Tether HK 非对称赌注 + 中国大陆 SC 通道",
+      "title": "HKMA ライセンス戦略的含意 · Tether HK 非対称ベット + 中国本土 SC チャネル",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/hkma-stablecoin-licensing-implications.json",
       "html_url": "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-implications"
     },
     {
       "slug": "fintech/hkma-stablecoin-licensing-overview",
       "domain": "fintech",
-      "title": "HKMA 稳定币牌照 · 香港 Stablecoin Licensing Regime 概览",
+      "title": "HKMA ステーブルコイン・ライセンス · 香港 Stablecoin Licensing Regime 概観",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/hkma-stablecoin-licensing-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview"
     },
     {
       "slug": "fintech/india-anti-dollar-dpi-alliance",
       "domain": "fintech",
-      "title": "印度反美元 DPI 联盟 — UPI / MOSIP / ARC 三轴叙事",
+      "title": "インド反ドル DPI 連合 — UPI / MOSIP / ARC 三軸ナラティブ",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/india-anti-dollar-dpi-alliance.json",
       "html_url": "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance"
     },
@@ -7098,21 +7098,21 @@
     {
       "slug": "fintech/irs-1099-da",
       "domain": "fintech",
-      "title": "IRS 1099-DA · 美国加密税务报告强制",
+      "title": "IRS 1099-DA · 米国暗号資産税務報告の義務化",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/irs-1099-da.json",
       "html_url": "https://finwiki.zksc.io/fintech/irs-1099-da"
     },
     {
       "slug": "fintech/issuer-distributor-incentive-realignment-50-50-model",
       "domain": "fintech",
-      "title": "发行方 vs 分销方 50/50 模型 · Coinbase ↔ Circle 利息分成机制",
+      "title": "発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/issuer-distributor-incentive-realignment-50-50-model.json",
       "html_url": "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model"
     },
     {
       "slug": "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "domain": "fintech",
-      "title": "Circle Arc 战略 · 发行方收回 50% 分成的 §501 终局",
+      "title": "Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/issuer-distributor-incentive-realignment-arc-strategy.json",
       "html_url": "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy"
     },
@@ -7126,14 +7126,14 @@
     {
       "slug": "fintech/japan-bittrade-listing-process",
       "domain": "fintech",
-      "title": "日本 BitTrade 上币流程 — 持牌交易所 Listing 的 8 階段構造",
+      "title": "日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-bittrade-listing-process.json",
       "html_url": "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process"
     },
     {
       "slug": "fintech/japan-ecisb-license",
       "domain": "fintech",
-      "title": "日本 ECISB 牌照",
+      "title": "日本 ECISB ライセンス",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-ecisb-license.json",
       "html_url": "https://finwiki.zksc.io/fintech/japan-ecisb-license"
     },
@@ -7147,7 +7147,7 @@
     {
       "slug": "fintech/japan-epi-three-types-overview",
       "domain": "fintech",
-      "title": "日本 EPI 三型架构 · 信託 / 銀行 / 資金移動業者型概览",
+      "title": "日本 EPI 三型アーキテクチャ · 信託型 / 銀行型 / 資金移動業者型 概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-epi-three-types-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview"
     },
@@ -7210,21 +7210,21 @@
     {
       "slug": "fintech/jpm-onyx-wholesale-network",
       "domain": "fintech",
-      "title": "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+      "title": "JPMorgan Onyx / Kinexys · 銀行内部ホールセール・ネットワーク · Liink × JPM Coin × Onyx Digital Assets",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/jpm-onyx-wholesale-network.json",
       "html_url": "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network"
     },
     {
       "slug": "fintech/jpmorgan-jpmd-coin",
       "domain": "fintech",
-      "title": "JPMorgan JPMD · 代币化存款 · GENIUS §501 法律分类下的 TD 范式",
+      "title": "JPMorgan JPMD · トークン化預金 · GENIUS §501 法的分類下の TD パラダイム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/jpmorgan-jpmd-coin.json",
       "html_url": "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin"
     },
     {
       "slug": "fintech/jurisdiction-list-monetary-protectionism",
       "domain": "fintech",
-      "title": "司法管辖区清单作为货币保护主义工具",
+      "title": "司法管轄区リストとしての貨幣保護主義ツール",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/jurisdiction-list-monetary-protectionism.json",
       "html_url": "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism"
     },
@@ -7238,14 +7238,14 @@
     {
       "slug": "fintech/m-network-m0-neutral-infrastructure",
       "domain": "fintech",
-      "title": "M^0 / M Network · 中性稳定币基础设施 · \"瑞士银行模型\"",
+      "title": "M^0 / M Network · 中立ステーブルコイン・インフラ · 「スイス銀行モデル」",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/m-network-m0-neutral-infrastructure.json",
       "html_url": "https://finwiki.zksc.io/fintech/m-network-m0-neutral-infrastructure"
     },
     {
       "slug": "fintech/m0-network-infrastructure-update-2026",
       "domain": "fintech",
-      "title": "M0 / M Network · 2026 基础设施更新 · M Bridge × Mexican Peso × USDM × 中性中间件成熟期",
+      "title": "M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/m0-network-infrastructure-update-2026.json",
       "html_url": "https://finwiki.zksc.io/fintech/m0-network-infrastructure-update-2026"
     },
@@ -7259,49 +7259,49 @@
     {
       "slug": "fintech/mbridge-bis-multi-cbdc-overview",
       "domain": "fintech",
-      "title": "mBridge · BIS 多 CBDC 跨境结算桥(总览)",
+      "title": "mBridge · BIS マルチ CBDC クロスボーダー決済ブリッジ(概要)",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mbridge-bis-multi-cbdc-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview"
     },
     {
       "slug": "fintech/mbridge-bis-multi-cbdc-vs-agora",
       "domain": "fintech",
-      "title": "mBridge vs Agora · BIS 2025 同年切换的双轨对照",
+      "title": "mBridge vs Agora · BIS 2025 同年切替の二軌対比",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mbridge-bis-multi-cbdc-vs-agora.json",
       "html_url": "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-vs-agora"
     },
     {
       "slug": "fintech/mbridge-non-usd-settlement-ring-scale",
       "domain": "fintech",
-      "title": "mBridge 非美元清算环规模模式 · GDP 覆盖率作为 wholesale settlement 上限",
+      "title": "mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mbridge-non-usd-settlement-ring-scale.json",
       "html_url": "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale"
     },
     {
       "slug": "fintech/mbridge-six-central-banks-roster",
       "domain": "fintech",
-      "title": "mBridge 6 央行清单与角色(2026-Q2)",
+      "title": "mBridge 6 中央銀行リストと役割(2026-Q2)",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mbridge-six-central-banks-roster.json",
       "html_url": "https://finwiki.zksc.io/fintech/mbridge-six-central-banks-roster"
     },
     {
       "slug": "fintech/mica-cross-border-implications",
       "domain": "fintech",
-      "title": "MiCA 跨境含义 · USDC ↔ EURC 双向互认 + USA-EU MRA 2026-Q3",
+      "title": "MiCA クロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + USA-EU MRA 2026-Q3",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mica-cross-border-implications.json",
       "html_url": "https://finwiki.zksc.io/fintech/mica-cross-border-implications"
     },
     {
       "slug": "fintech/mica-emt-art-subcategories-deep-dive",
       "domain": "fintech",
-      "title": "MiCA EMT vs ART 子分类深度 · 监管负担塑形产品",
+      "title": "MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロダクト形状づけ",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mica-emt-art-subcategories-deep-dive.json",
       "html_url": "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive"
     },
     {
       "slug": "fintech/mica-overview",
       "domain": "fintech",
-      "title": "欧盟 MiCA · Markets in Crypto-Assets Regulation 概览",
+      "title": "EU MiCA · Markets in Crypto-Assets Regulation 概要",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/mica-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/mica-overview"
     },
@@ -7315,7 +7315,7 @@
     {
       "slug": "fintech/national-license-private-stablecoin-with-dpi-export",
       "domain": "fintech",
-      "title": "国家许可型私营稳定币 + DPI 全球输出战略",
+      "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/national-license-private-stablecoin-with-dpi-export.json",
       "html_url": "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export"
     },
@@ -7336,7 +7336,7 @@
     {
       "slug": "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "domain": "fintech",
-      "title": "OCC trust bank charter 作为联邦稳定币银行套利路径",
+      "title": "OCC trust bank charter を活用した連邦ステーブルコイン銀行アービトラージ・ルート",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.json",
       "html_url": "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage"
     },
@@ -7350,49 +7350,49 @@
     {
       "slug": "fintech/ondo-finance-rusdy-adoption",
       "domain": "fintech",
-      "title": "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家",
+      "title": "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/ondo-finance-rusdy-adoption.json",
       "html_url": "https://finwiki.zksc.io/fintech/ondo-finance-rusdy-adoption"
     },
     {
       "slug": "fintech/partior-jpm-dbs-temasek-consortium",
       "domain": "fintech",
-      "title": "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+      "title": "Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/partior-jpm-dbs-temasek-consortium.json",
       "html_url": "https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium"
     },
     {
       "slug": "fintech/paxos-paxg-post-binance-pivot",
       "domain": "fintech",
-      "title": "Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG",
+      "title": "Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/paxos-paxg-post-binance-pivot.json",
       "html_url": "https://finwiki.zksc.io/fintech/paxos-paxg-post-binance-pivot"
     },
     {
       "slug": "fintech/paypal-pyusd-stablecoin",
       "domain": "fintech",
-      "title": "PayPal PYUSD · 顶级支付公司首次品牌化的稳定币 · Solana 主战场",
+      "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/paypal-pyusd-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin"
     },
     {
       "slug": "fintech/portfolio-winner-structure-arm-analog",
       "domain": "fintech",
-      "title": "组合赢家结构（Portfolio Winner Structure）",
+      "title": "ポートフォリオ勝者構造(Portfolio Winner Structure)",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/portfolio-winner-structure-arm-analog.json",
       "html_url": "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog"
     },
     {
       "slug": "fintech/protocol-hedge-strategy-stripe-pattern",
       "domain": "fintech",
-      "title": "协议层多线 hedge 策略",
+      "title": "プロトコル層マルチライン hedge 戦略",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/protocol-hedge-strategy-stripe-pattern.json",
       "html_url": "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern"
     },
     {
       "slug": "fintech/protocol-renewal-trigger-as-event-anchor",
       "domain": "fintech",
-      "title": "协议续约触发器 —— 商业合作重构与事件锚定机制",
+      "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/protocol-renewal-trigger-as-event-anchor.json",
       "html_url": "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor"
     },
@@ -7406,7 +7406,7 @@
     {
       "slug": "fintech/regulatory-window-strategic-acquisition",
       "domain": "fintech",
-      "title": "监管立法窗口前的战略买家收购模式",
+      "title": "規制立法ウィンドウ直前の戦略バイヤー買収パターン",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/regulatory-window-strategic-acquisition.json",
       "html_url": "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition"
     },
@@ -7420,28 +7420,28 @@
     {
       "slug": "fintech/ripple-rlusd-stablecoin",
       "domain": "fintech",
-      "title": "Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链",
+      "title": "Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/ripple-rlusd-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin"
     },
     {
       "slug": "fintech/singapore-mas-payment-services-act-overview",
       "domain": "fintech",
-      "title": "Singapore MAS Payment Services Act + SCS 框架概览",
+      "title": "Singapore MAS Payment Services Act + SCS フレームワーク概観",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/singapore-mas-payment-services-act-overview.json",
       "html_url": "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview"
     },
     {
       "slug": "fintech/singapore-mas-payment-services-act-strategic-implications",
       "domain": "fintech",
-      "title": "MAS 战略含义 + 与 HK 对比 · Circle SG hub + DBS/StanChart 通道",
+      "title": "MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/singapore-mas-payment-services-act-strategic-implications.json",
       "html_url": "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications"
     },
     {
       "slug": "fintech/sky-usds-decentralized-stablecoin",
       "domain": "fintech",
-      "title": "Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑",
+      "title": "Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/sky-usds-decentralized-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin"
     },
@@ -7455,35 +7455,35 @@
     {
       "slug": "fintech/sovereign-capital-pool-aramco-anchor",
       "domain": "fintech",
-      "title": "主权资本池规模锚 · Aramco $7T 作为中东数字资产配置上限",
+      "title": "ソブリン資本プール規模アンカー · Aramco $7T を中東デジタル資産配分の上限として",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/sovereign-capital-pool-aramco-anchor.json",
       "html_url": "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor"
     },
     {
       "slug": "fintech/sovereign-fund-crypto-allocation-pattern",
       "domain": "fintech",
-      "title": "主权基金加密基础设施配置模式",
+      "title": "ソブリンファンドの暗号インフラ配分パターン",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/sovereign-fund-crypto-allocation-pattern.json",
       "html_url": "https://finwiki.zksc.io/fintech/sovereign-fund-crypto-allocation-pattern"
     },
     {
       "slug": "fintech/stablecoin-chain-sovereign-currency-divide",
       "domain": "fintech",
-      "title": "稳定币地缘货币对立框架",
+      "title": "ステーブルコイン地政学通貨対立フレームワーク",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-chain-sovereign-currency-divide.json",
       "html_url": "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide"
     },
     {
       "slug": "fintech/stablecoin-chain-token-strategy-trilemma",
       "domain": "fintech",
-      "title": "稳定币公链 token 策略三态博弈",
+      "title": "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-chain-token-strategy-trilemma.json",
       "html_url": "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma"
     },
     {
       "slug": "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
       "domain": "fintech",
-      "title": "SBI × JPYC × Circle 环形持股 — 日本稳定币分销通道",
+      "title": "SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-channel-japan-sbi-jpyc-ring.json",
       "html_url": "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring"
     },
@@ -7497,21 +7497,21 @@
     {
       "slug": "fintech/stablecoin-issuer-2025-2026-market-consolidation",
       "domain": "fintech",
-      "title": "Stablecoin Issuer 2025-2026 Market Consolidation · USDT/USDC 双寡头与 8 家挑战者梯队",
+      "title": "Stablecoin Issuer 2025-2026 Market Consolidation · USDT/USDC 双寡占と 8 社の挑戦者梯団",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-issuer-2025-2026-market-consolidation.json",
       "html_url": "https://finwiki.zksc.io/fintech/stablecoin-issuer-2025-2026-market-consolidation"
     },
     {
       "slug": "fintech/stablecoin-revenue-split-economics",
       "domain": "fintech",
-      "title": "稳定币利息分润经济学",
+      "title": "ステーブルコイン利息分配経済学",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-revenue-split-economics.json",
       "html_url": "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
     },
     {
       "slug": "fintech/stablecoin-war-articles-2026-05",
       "domain": "fintech",
-      "title": "稳定币战争系列 · 23 篇 publication-grade 长文(2026-05)",
+      "title": "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-war-articles-2026-05.json",
       "html_url": "https://finwiki.zksc.io/fintech/stablecoin-war-articles-2026-05"
     },
@@ -7525,7 +7525,7 @@
     {
       "slug": "fintech/stripe-usdb-bridge-stablecoin",
       "domain": "fintech",
-      "title": "Stripe USDB · Bridge 收购后的支付公司稳定币 · Tempo L1 + Agent 支付载体",
+      "title": "Stripe USDB · Bridge 買収後の決済会社ステーブルコイン · Tempo L1 + Agent 決済キャリア",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stripe-usdb-bridge-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/stripe-usdb-bridge-stablecoin"
     },
@@ -7539,28 +7539,28 @@
     {
       "slug": "fintech/tether-usat-anchorage",
       "domain": "fintech",
-      "title": "Tether USAT · Anchorage 合作的美国合规分支 · USDT 国际/国内双线分离",
+      "title": "Tether USAT · Anchorage 提携の米国コンプライアンスブランチ · USDT 国際/国内デュアルライン分離",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/tether-usat-anchorage.json",
       "html_url": "https://finwiki.zksc.io/fintech/tether-usat-anchorage"
     },
     {
       "slug": "fintech/three-circles-mra-2030-economic-scale",
       "domain": "fintech",
-      "title": "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+      "title": "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/three-circles-mra-2030-economic-scale.json",
       "html_url": "https://finwiki.zksc.io/fintech/three-circles-mra-2030-economic-scale"
     },
     {
       "slug": "fintech/three-circles-stablecoin-mra-framework",
       "domain": "fintech",
-      "title": "美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构",
+      "title": "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/three-circles-stablecoin-mra-framework.json",
       "html_url": "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
     },
     {
       "slug": "fintech/tokenized-deposit-cumulative-volume-scale",
       "domain": "fintech",
-      "title": "代币化存款累计交易规模模式 · Kinexys $1.5T 作为银行存款代币赛道锚",
+      "title": "トークン化預金累計取引規模パターン · Kinexys $1.5T を銀行預金トークンセクターのアンカーとして",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/tokenized-deposit-cumulative-volume-scale.json",
       "html_url": "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale"
     },
@@ -7574,7 +7574,7 @@
     {
       "slug": "fintech/tokenized-mmf-wisdomtree-hashnote",
       "domain": "fintech",
-      "title": "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+      "title": "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/tokenized-mmf-wisdomtree-hashnote.json",
       "html_url": "https://finwiki.zksc.io/fintech/tokenized-mmf-wisdomtree-hashnote"
     },
@@ -7602,7 +7602,7 @@
     {
       "slug": "fintech/wall-street-crypto-network-neutrality",
       "domain": "fintech",
-      "title": "Wall Street 加密网络中立投资策略",
+      "title": "Wall Street 暗号資産ネットワーク中立投資戦略",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/wall-street-crypto-network-neutrality.json",
       "html_url": "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
     },
@@ -7616,7 +7616,7 @@
     {
       "slug": "fintech/world-liberty-usd1-political-stablecoin",
       "domain": "fintech",
-      "title": "WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力",
+      "title": "WLF USD1 · 政治背景ステーブルコイン · 大統領家関連 vs §501 中立性の緊張関係",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/world-liberty-usd1-political-stablecoin.json",
       "html_url": "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin"
     },
@@ -9128,35 +9128,35 @@
     {
       "slug": "security/bytecode-forensic-three-tier-verify",
       "domain": "security",
-      "title": "智能合约 bytecode forensic — 三层 verify 技术",
+      "title": "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
       "api_url": "https://finwiki.zksc.io/api/entries/security/bytecode-forensic-three-tier-verify.json",
       "html_url": "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify"
     },
     {
       "slug": "security/forensic-identity-anchor-chain",
       "domain": "security",
-      "title": "团队真实身份 forensic anchor chain — 多源指纹拼合",
+      "title": "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
       "api_url": "https://finwiki.zksc.io/api/entries/security/forensic-identity-anchor-chain.json",
       "html_url": "https://finwiki.zksc.io/security/forensic-identity-anchor-chain"
     },
     {
       "slug": "security/fork-and-rebrand-5-layer-audit-framework",
       "domain": "security",
-      "title": "Fork and Rebrand 项目的五层审计框架",
+      "title": "Fork and Rebrand プロジェクトの五層監査フレームワーク",
       "api_url": "https://finwiki.zksc.io/api/entries/security/fork-and-rebrand-5-layer-audit-framework.json",
       "html_url": "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework"
     },
     {
       "slug": "security/module-path-confusion-supply-chain-attack",
       "domain": "security",
-      "title": "Module path confusion + LICENSE strip = supply chain attack 三连击",
+      "title": "Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃",
       "api_url": "https://finwiki.zksc.io/api/entries/security/module-path-confusion-supply-chain-attack.json",
       "html_url": "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
     },
     {
       "slug": "security/wayback-machine-as-forensic-tool",
       "domain": "security",
-      "title": "主动 de-published 内容救回 — Wayback Machine 作为 forensic 武器",
+      "title": "能動的に de-publishされた内容の救出 — Wayback Machineをフォレンジック武器として使う",
       "api_url": "https://finwiki.zksc.io/api/entries/security/wayback-machine-as-forensic-tool.json",
       "html_url": "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool"
     },
@@ -9380,28 +9380,28 @@
     {
       "slug": "systems/bft-validator-economy-four-variables",
       "domain": "systems",
-      "title": "BFT validator 经济四变量",
+      "title": "BFT validator 経済の4変数",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/bft-validator-economy-four-variables.json",
       "html_url": "https://finwiki.zksc.io/systems/bft-validator-economy-four-variables"
     },
     {
       "slug": "systems/bft-validator-economy-overview",
       "domain": "systems",
-      "title": "BFT validator 经济学概览",
+      "title": "BFT validator 経済学概観",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/bft-validator-economy-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/bft-validator-economy-overview"
     },
     {
       "slug": "systems/bft-validator-economy-tempo-vs-arc",
       "domain": "systems",
-      "title": "Tempo vs Arc · 机构链 validator 设计两条路径",
+      "title": "Tempo vs Arc · 機関チェーン validator 設計の2経路",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/bft-validator-economy-tempo-vs-arc.json",
       "html_url": "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc"
     },
     {
       "slug": "systems/bitcoin-scaling-2026-stacks-lightning-bitvm",
       "domain": "systems",
-      "title": "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 并行栈",
+      "title": "Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/bitcoin-scaling-2026-stacks-lightning-bitvm.json",
       "html_url": "https://finwiki.zksc.io/systems/bitcoin-scaling-2026-stacks-lightning-bitvm"
     },
@@ -9415,112 +9415,112 @@
     {
       "slug": "systems/canton-daml-technical-spec",
       "domain": "systems",
-      "title": "Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy",
+      "title": "Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/canton-daml-technical-spec.json",
       "html_url": "https://finwiki.zksc.io/systems/canton-daml-technical-spec"
     },
     {
       "slug": "systems/canton-mmf-coalition",
       "domain": "systems",
-      "title": "Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线",
+      "title": "Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/canton-mmf-coalition.json",
       "html_url": "https://finwiki.zksc.io/systems/canton-mmf-coalition"
     },
     {
       "slug": "systems/canton-overview",
       "domain": "systems",
-      "title": "Canton Network 概览 · DAML 智能合约的隐私机构链",
+      "title": "Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/canton-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/canton-overview"
     },
     {
       "slug": "systems/cctp-v2-overview",
       "domain": "systems",
-      "title": "CCTP V2 概览 · Circle USDC 跨链 burn-and-mint",
+      "title": "CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cctp-v2-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/cctp-v2-overview"
     },
     {
       "slug": "systems/cctp-v2-technical-spec",
       "domain": "systems",
-      "title": "CCTP V2 技术规范 · Fast Transfer · Hooks · Attestation Service",
+      "title": "CCTP V2 技術仕様 · Fast Transfer · Hooks · Attestation Service",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cctp-v2-technical-spec.json",
       "html_url": "https://finwiki.zksc.io/systems/cctp-v2-technical-spec"
     },
     {
       "slug": "systems/cctp-v2-vs-canton",
       "domain": "systems",
-      "title": "CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙",
+      "title": "CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cctp-v2-vs-canton.json",
       "html_url": "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
     },
     {
       "slug": "systems/chain-abstraction-pattern-overview",
       "domain": "systems",
-      "title": "链抽象模式概览",
+      "title": "チェーン抽象モデル概観",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/chain-abstraction-pattern-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview"
     },
     {
       "slug": "systems/chain-abstraction-pattern-three-solutions",
       "domain": "systems",
-      "title": "链抽象三大主流方案",
+      "title": "チェーン抽象の 3 大主流方式",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/chain-abstraction-pattern-three-solutions.json",
       "html_url": "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions"
     },
     {
       "slug": "systems/chain-abstraction-pattern-value-capture",
       "domain": "systems",
-      "title": "跨链桥 commoditization 与链抽象层价值上移",
+      "title": "クロスチェーンブリッジコモディティ化とチェーン抽象層への価値上方シフト",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/chain-abstraction-pattern-value-capture.json",
       "html_url": "https://finwiki.zksc.io/systems/chain-abstraction-pattern-value-capture"
     },
     {
       "slug": "systems/chainlink-ccip-institutional-messaging",
       "domain": "systems",
-      "title": "Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)",
+      "title": "Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/chainlink-ccip-institutional-messaging.json",
       "html_url": "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging"
     },
     {
       "slug": "systems/cross-chain-bridge-eight-pole-comparison",
       "domain": "systems",
-      "title": "跨链桥八极对照矩阵 · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
+      "title": "クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cross-chain-bridge-eight-pole-comparison.json",
       "html_url": "https://finwiki.zksc.io/systems/cross-chain-bridge-eight-pole-comparison"
     },
     {
       "slug": "systems/cross-chain-bridge-security-insurance-matrix-2026",
       "domain": "systems",
-      "title": "跨链桥安全与保险矩阵 2026 · 14 协议 trust model / hack history / coverage 全景",
+      "title": "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコル trust model / hack history / coverage 全景",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cross-chain-bridge-security-insurance-matrix-2026.json",
       "html_url": "https://finwiki.zksc.io/systems/cross-chain-bridge-security-insurance-matrix-2026"
     },
     {
       "slug": "systems/cross-chain-five-pole-comparison-matrix",
       "domain": "systems",
-      "title": "跨链五极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 九维度",
+      "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cross-chain-five-pole-comparison-matrix.json",
       "html_url": "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
     },
     {
       "slug": "systems/cross-chain-four-poles-ccip-institutional",
       "domain": "systems",
-      "title": "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+      "title": "CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cross-chain-four-poles-ccip-institutional.json",
       "html_url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional"
     },
     {
       "slug": "systems/cross-chain-four-poles-overview",
       "domain": "systems",
-      "title": "跨链四极架构 · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
+      "title": "クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cross-chain-four-poles-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
     },
     {
       "slug": "systems/cross-chain-four-poles-selection-decision",
       "domain": "systems",
-      "title": "跨链选型决策树 · 按主角维度匹配协议",
+      "title": "クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/cross-chain-four-poles-selection-decision.json",
       "html_url": "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision"
     },
@@ -9534,35 +9534,35 @@
     {
       "slug": "systems/data-availability-celestia-eigenda-blob-comparison",
       "domain": "systems",
-      "title": "DA layer 全景对照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
+      "title": "DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/data-availability-celestia-eigenda-blob-comparison.json",
       "html_url": "https://finwiki.zksc.io/systems/data-availability-celestia-eigenda-blob-comparison"
     },
     {
       "slug": "systems/eigenlayer-avs-mechanism",
       "domain": "systems",
-      "title": "EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁",
+      "title": "EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/eigenlayer-avs-mechanism.json",
       "html_url": "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism"
     },
     {
       "slug": "systems/eigenlayer-l1-bootstrapping",
       "domain": "systems",
-      "title": "EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径",
+      "title": "EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/eigenlayer-l1-bootstrapping.json",
       "html_url": "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping"
     },
     {
       "slug": "systems/eigenlayer-overview",
       "domain": "systems",
-      "title": "EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁",
+      "title": "EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/eigenlayer-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/eigenlayer-overview"
     },
     {
       "slug": "systems/eip-4844-blob-economics-impact-2026",
       "domain": "systems",
-      "title": "EIP-4844 blob 经济与 2026 市场影响 · Dencun 至 Pectra 至 Fusaka 全景",
+      "title": "EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/eip-4844-blob-economics-impact-2026.json",
       "html_url": "https://finwiki.zksc.io/systems/eip-4844-blob-economics-impact-2026"
     },
@@ -9576,35 +9576,35 @@
     {
       "slug": "systems/erc-4337-embedded-wallet-adoption",
       "domain": "systems",
-      "title": "ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe",
+      "title": "ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/erc-4337-embedded-wallet-adoption.json",
       "html_url": "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
     },
     {
       "slug": "systems/erc-4337-overview",
       "domain": "systems",
-      "title": "ERC-4337 概览 · Account Abstraction 的应用层实现",
+      "title": "ERC-4337 概観 · Account Abstraction のアプリケーション層実装",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/erc-4337-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/erc-4337-overview"
     },
     {
       "slug": "systems/erc-4337-userop-bundler-flow",
       "domain": "systems",
-      "title": "ERC-4337 UserOp/Bundler/EntryPoint 流程详解",
+      "title": "ERC-4337 UserOp/Bundler/EntryPoint フロー詳解",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/erc-4337-userop-bundler-flow.json",
       "html_url": "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow"
     },
     {
       "slug": "systems/erc-7702-overview",
       "domain": "systems",
-      "title": "ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级",
+      "title": "ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/erc-7702-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/erc-7702-overview"
     },
     {
       "slug": "systems/erc-7702-vs-erc-4337",
       "domain": "systems",
-      "title": "ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照",
+      "title": "ERC-7702 vs ERC-4337 · Ethereum AA デュアルトラック対照",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/erc-7702-vs-erc-4337.json",
       "html_url": "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
     },
@@ -9625,35 +9625,35 @@
     {
       "slug": "systems/hyperlane-ism-modular-security",
       "domain": "systems",
-      "title": "Hyperlane Interchain Security Modules(ISM)· 可插拔验证层",
+      "title": "Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/hyperlane-ism-modular-security.json",
       "html_url": "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security"
     },
     {
       "slug": "systems/hyperlane-overview",
       "domain": "systems",
-      "title": "Hyperlane 概览 · Permissionless Cross-chain Interoperability",
+      "title": "Hyperlane 概観 · Permissionless Cross-chain Interoperability",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/hyperlane-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/hyperlane-overview"
     },
     {
       "slug": "systems/hyperlane-vs-layerzero-ccip",
       "domain": "systems",
-      "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+      "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/hyperlane-vs-layerzero-ccip.json",
       "html_url": "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
     },
     {
       "slug": "systems/hyperledger-besu-overview",
       "domain": "systems",
-      "title": "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+      "title": "Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/hyperledger-besu-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/hyperledger-besu-overview"
     },
     {
       "slug": "systems/hyperledger-besu-vs-canton-migration",
       "domain": "systems",
-      "title": "Hyperledger Besu vs Canton · JPM 主战场迁移路径",
+      "title": "Hyperledger Besu vs Canton · JPM 主戦場移行経路",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/hyperledger-besu-vs-canton-migration.json",
       "html_url": "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration"
     },
@@ -9667,7 +9667,7 @@
     {
       "slug": "systems/institutional-dlt-adoption-comparison-2026",
       "domain": "systems",
-      "title": "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+      "title": "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/institutional-dlt-adoption-comparison-2026.json",
       "html_url": "https://finwiki.zksc.io/systems/institutional-dlt-adoption-comparison-2026"
     },
@@ -9681,14 +9681,14 @@
     {
       "slug": "systems/l2-agent-economics-arbitrum-base-op-comparison",
       "domain": "systems",
-      "title": "L2 Agent 经济学 · Arbitrum vs Base vs Optimism 对 AI agent workload 对比",
+      "title": "L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワークロード比較",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/l2-agent-economics-arbitrum-base-op-comparison.json",
       "html_url": "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison"
     },
     {
       "slug": "systems/layerzero-v2-omnichain-messaging",
       "domain": "systems",
-      "title": "LayerZero v2 · DVN 可配置的全链消息协议",
+      "title": "LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/layerzero-v2-omnichain-messaging.json",
       "html_url": "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging"
     },
@@ -9702,28 +9702,28 @@
     {
       "slug": "systems/multi-proof-aggregation-fault-prover",
       "domain": "systems",
-      "title": "多证明系统聚合 fault prover 架构",
+      "title": "多証明システム集約 fault prover アーキテクチャ",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/multi-proof-aggregation-fault-prover.json",
       "html_url": "https://finwiki.zksc.io/systems/multi-proof-aggregation-fault-prover"
     },
     {
       "slug": "systems/pectra-eip-7251-institutional-staking",
       "domain": "systems",
-      "title": "Pectra EIP-7251 · 机构 staking 经济友好化(2048 ETH 上限)",
+      "title": "Pectra EIP-7251 · 機関 staking 経済親和化(2048 ETH 上限)",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/pectra-eip-7251-institutional-staking.json",
       "html_url": "https://finwiki.zksc.io/systems/pectra-eip-7251-institutional-staking"
     },
     {
       "slug": "systems/pectra-eip-7691-blob-l2-impact",
       "domain": "systems",
-      "title": "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+      "title": "Pectra EIP-7691 · blob 倍増と L2 経済連鎖",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/pectra-eip-7691-blob-l2-impact.json",
       "html_url": "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact"
     },
     {
       "slug": "systems/pectra-upgrade-overview",
       "domain": "systems",
-      "title": "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+      "title": "Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/pectra-upgrade-overview.json",
       "html_url": "https://finwiki.zksc.io/systems/pectra-upgrade-overview"
     },
@@ -9737,35 +9737,35 @@
     {
       "slug": "systems/polygon-agglayer-architecture-rollout",
       "domain": "systems",
-      "title": "Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合",
+      "title": "Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/polygon-agglayer-architecture-rollout.json",
       "html_url": "https://finwiki.zksc.io/systems/polygon-agglayer-architecture-rollout"
     },
     {
       "slug": "systems/post-quantum-blockchain-day1-integration",
       "domain": "systems",
-      "title": "抗量子签名 day-1 集成的经济学",
+      "title": "耐量子署名 day-1 統合の経済学",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/post-quantum-blockchain-day1-integration.json",
       "html_url": "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration"
     },
     {
       "slug": "systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic",
       "domain": "systems",
-      "title": "Restaking 与 AVS 全景矩阵 · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM",
+      "title": "Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic.json",
       "html_url": "https://finwiki.zksc.io/systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic"
     },
     {
       "slug": "systems/rollup-market-share-2026-arbitrum-optimism-base",
       "domain": "systems",
-      "title": "Rollup market share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
+      "title": "Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/rollup-market-share-2026-arbitrum-optimism-base.json",
       "html_url": "https://finwiki.zksc.io/systems/rollup-market-share-2026-arbitrum-optimism-base"
     },
     {
       "slug": "systems/solana-firedancer-validator-economics",
       "domain": "systems",
-      "title": "Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构",
+      "title": "Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/solana-firedancer-validator-economics.json",
       "html_url": "https://finwiki.zksc.io/systems/solana-firedancer-validator-economics"
     },
@@ -9793,14 +9793,14 @@
     {
       "slug": "systems/vitalik-l1-l2-strategy-anchor",
       "domain": "systems",
-      "title": "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+      "title": "L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/vitalik-l1-l2-strategy-anchor.json",
       "html_url": "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor"
     },
     {
       "slug": "systems/zk-evm-rollup-maturity-comparison-matrix-2026",
       "domain": "systems",
-      "title": "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup proving system / TVL / DA / decentralization",
+      "title": "ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の proving system / TVL / DA / decentralization",
       "api_url": "https://finwiki.zksc.io/api/entries/systems/zk-evm-rollup-maturity-comparison-matrix-2026.json",
       "html_url": "https://finwiki.zksc.io/systems/zk-evm-rollup-maturity-comparison-matrix-2026"
     },

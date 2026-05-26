@@ -3,8 +3,8 @@ title: プルデンシャル・ジブラルタ・ファイナンシャル (Prude
 aliases: ["Prudential Japan", "プルデンシャル生命", "プルデンシャル・ホールディング・オブ・ジャパン", "ジブラルタ生命", "Gibraltar Life", "PGF生命", "プルデンシャル ジブラルタ ファイナンシャル生命", "Prudential of Japan"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, foreign-japan-subsidiary]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 米 **Prudential Financial, Inc.**（NYSE: PRU、米国大手生保）の日本法人群。中間持株会社 **プルデンシャル・ホールディング・オブ・ジャパン株式会社** の下に **プルデンシャル生命**（1987 開業、ライフプランナーチャネル代表）+ **ジブラルタ生命**（2001-03 旧 協栄生命破綻買収）+ **PGF 生命**（2008-08 旧 AIG エジソン/AIG スター生命買収）の 3 生保を運営する珍しい構造。3 ブランドを **販売チャネルで使い分け**: プルデンシャル = ライフプランナー（LP、高度資格営業職員）、ジブラルタ = 代理店 + 教職員、PGF = 銀行窓販。米プルデンシャル本体（米国）と **英 Prudential plc（英国系・現在は M&G plc 分離）は完全別法人**、混同注意。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**：Prudential Financial, Inc.（米、NYSE: PRU、1875 創業、ニュージャージー州ニューアーク本社）^[extracted]
 **日本中間持株会社**：プルデンシャル・ホールディング・オブ・ジャパン株式会社（PHJ）^[extracted]
@@ -76,7 +76,7 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 | 2020〜 | コロナ禍 → LP 対面営業デジタル化加速 |
 | 2024〜 | 日銀正常化局面で運用利回り改善ボーナス・予定利率引上げ |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -87,7 +87,7 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 | 教職員市場 | ジブラルタ生命 | 旧協栄生命時代からの教職員共済ネットワーク継承 |
 | 資産運用（生保資産）| Prudential Investment Management Japan / PGIM Japan | 親会社系 PGIM ブランド |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### ライフプランナー（LP）モデル
 
@@ -122,7 +122,7 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 - 米国本体のリテール生保・年金事業に並び、**日本生保事業は海外収益の中心** ^[inferred]
 - リスク要因: 日本円安・日本金利環境変動・日本人口動態（保険市場縮小）
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **関連法**: 保険業法（保険会社の認可・健全性規制）
@@ -134,7 +134,7 @@ Prudential Financial, Inc.（米、NYSE: PRU）
   - 銀行窓販規制（PGF 生命関連）の継続的見直し
   - 外貨建一時払商品の販売適合性問題（金融庁モニタリング強化）
 
-## 5. 历史关键判断
+## 5. 歴史的な重要判断
 
 ### なぜ 3 社並立構造を維持しているか
 
@@ -185,5 +185,5 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公開 IR 校核 2026-05-19）。3 社並立構造・買収譜系（2001 協栄 / 2008 AIG 系）は Wikipedia 経由で確認可能な公開情報。連結財務数値の個別開示は限定的で、米 PRU Form 10-K セグメント開示が主要ソース。3 社の事業規模・チャネル比率の詳細は IR 開示時点に依存、最新値は親会社 10-K を参照。

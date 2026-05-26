@@ -3,8 +3,8 @@ title: "iBank マーケティング (iBank Marketing)"
 aliases: ["iBank Marketing", "iBank マーケティング", "株式会社 iBank マーケティング", "Wallet+", "ウォレットプラス"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, fintech, wallet-app, regional-bank-fintech-subsidiary, kyushu, fukuoka, operating-company]
@@ -55,7 +55,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
   └── FFG リース・FFG カード・FFG ベンチャービジネスパートナーズ
 ```
 
-## 3. 合併歷史・前身
+## 3. 合併経緯・前身
 
 ### iBank マーケティング 設立
 
@@ -89,7 +89,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 
 > 注: アプリ DL 数・MAU・カード発行枚数等の最新精緻値は親 [[fukuoka-fg]] IR 資料 / Wallet+ 公式サイト要参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -100,7 +100,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 | 銀行連携 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] 口座連動 |
 | 若年層獲得 | 銀行アプリより UX 重視で 20-40 代の銀行 main bank 化を促進 |
 
-## 6. 戦略与競争
+## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -120,7 +120,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 - 強み: [[fukuoka-fg]] 銀行 3 行口座顧客基盤 + 九州地盤の地域連携深さ + 目的別貯金 myCoin の独自性
 - 弱み: 全国展開できる規模ではない (九州中心)、通信系ウォレットの決済シェアには大幅劣後 ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) (アプリ事業会社単独としては銀行業免許不要、連携先銀行 [[fukuoka-bank]] / プリペイド発行者経由)
 - **規制論点**:
@@ -161,5 +161,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG fintech-subsidiary anchor created 2026-05-24)。[[fukuoka-fg]] page = holding-company strategy / みんなの銀行を扱い、本ページは Wallet+ アプリ運営 fintech-subsidiary boundary を扱う。アプリ DL 数・カード発行枚数等 KPI 精緻値は親 [[fukuoka-fg]] IR / Wallet+ 公式要参照 ^[ambiguous]。

@@ -3,8 +3,8 @@ title: あいち FG (Aichi FG)
 aliases: ["あいち FG", "Aichi FG", "あいちフィナンシャルグループ", "Aichi Financial Group", "7389"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, chubu]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 愛知県地盤の地銀フィナンシャルグループ（東証 PRIME 7389）。**2022-10-03 愛知銀行 + 中京銀行 経営統合**で発足し、銀行子会社は [[aichi-bank|あいち銀行]] に統合済み。中京経済圏（名古屋・トヨタサプライチェーン）地盤の地銀再編モデル。県内競合は [[nagoya-bank]]（持株会社化なし、県内 No.2）、近隣は [[juroku-fg]]（岐阜）/[[san-jusan-fg]]（三重）/[[ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社あいちフィナンシャルグループ ^[extracted]
 **英名**：Aichi Financial Group, Inc.
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024 | 第 1 次中期経営計画 ^[inferred] |
 | **2025-01-01** | **愛知銀行 + 中京銀行 合併**、[[aichi-bank|あいち銀行]] に operating-company boundary を整理 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -83,7 +83,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人リテール | [[aichi-bank|あいち銀行]] | 住宅ローン・預金 |
 | トヨタ自動車サプライチェーン融資 | 両行 | 中京経済圏自動車関連サプライヤー融資 ^[inferred] |
 
-## 3. 戦略与竞争
+## 3. 戦略・競争
 
 ### 中京経済圏集中戦略
 
@@ -118,7 +118,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - [[san-jusan-fg]]（2018 三重銀 + 第三銀 統合 → 2021 三十三銀行合併）= あいち FG の先行モデル
 - [[juroku-fg]]（2021 十六銀行 持株会社化）
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 東海財務局（地域金融機関監督）
 - **持株会社規制**: 銀行法 第 52 条の 17

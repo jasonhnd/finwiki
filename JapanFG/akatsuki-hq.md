@@ -3,8 +3,8 @@ title: あかつき本社 (Akatsuki Honsha)
 aliases: ["あかつき本社", "Akatsuki Honsha", "株式会社あかつき本社", "旧 高木証券", "Takagi Securities"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, holding]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 中小独立系金融持株会社。**旧 高木証券**（1948 大阪創業）が経営難 → アライアンス・パートナーズ系資本入り → 持株会社化・改称。**あかつき証券（対面+ネット）+ 不動産 + PE のミニコングロマリット**。東証 STD 8737。一般大衆向けゲーム会社の「**アカツキ**（東証 PRIME 3932）とは完全別法人**」(混同注意)。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社あかつき本社 ^[extracted]
 **英名**：Akatsuki Honsha Co., Ltd.
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | (継続) | 子会社 **あかつき証券** に証券業務承継 |
 | 2024 | 中期経営計画策定 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -67,7 +67,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 不動産 | 不動産関連子会社 ^[inferred] | 不動産取引・賃貸 |
 | PE 投資 | 投資関連子会社 ^[inferred] | プライベートエクイティ |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 競争ポジション
 
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 中堅独立系証券としての差別化路線 ^[inferred]
 - 不動産・PE 等のノンコア事業比率調整 ^[ambiguous]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 関東財務局・近畿財務局
 - **持株会社規制**: 金融商品取引法・銀行法等の関連規定

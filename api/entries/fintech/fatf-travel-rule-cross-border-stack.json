@@ -6,18 +6,18 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/fatf-travel-rule-cross-border-stack.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/fatf-travel-rule-cross-border-stack.md",
   "domain": "fintech",
-  "title": "FATF Travel Rule 跨境四层 stack · 各国门槛差异 + §501 协同",
+  "title": "FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "FATF Travel Rule 跨境四层 stack · 各国门槛差异 + §501 协同",
+    "title": "FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携",
     "aliases": [
       "fatf-travel-rule-cross-border",
       "EU TFR Japan FinCEN Travel Rule comparison"
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -43,7 +43,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "FATF Travel Rule 跨境四层 stack · 各国门槛差异 + §501 协同",
+    "FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2868,
-    "word_like_tokens": 546,
+    "nonspace_chars": 3085,
+    "word_like_tokens": 554,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

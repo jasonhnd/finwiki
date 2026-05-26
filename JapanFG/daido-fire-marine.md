@@ -3,8 +3,8 @@ title: 大同火災海上保険
 aliases: ["大同火災", "Daido Fire and Marine", "Daido Fire", "DFM", "沖縄海上火災保険"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance, okinawa]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **沖縄県唯一の地場損害保険会社**。1951-04 米軍政下の沖縄で「沖縄海上火災保険」として設立、戦後沖縄で日本籍の損保会社として唯一の存在。1972 年沖縄本土復帰により日本国内損保扱いに、1985 年現社名「大同火災海上保険」へ改称。2000 年代以降、損保ジャパン（現 [[sompo]]）との業務提携を通じて全国網カバー。**沖縄県内損保シェア No.1**、観光保険（旅行傷害・レンタカー・民宿賠償）と台風・離島再保険スキームに特化。大手 3 損保（[[tokio-marine]] / [[msad]] / [[sompo]]）の沖縄拠点との競合下で地場優位を維持。非上場。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：大同火災海上保険株式会社 ^[extracted]
 **英名**：Daido Fire and Marine Insurance Co., Ltd.
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2024** | **中期経営計画策定**（観光保険 + 災害レジリエンス強化）^[inferred] |
 | 2025〜 | 観光客回復に伴うインバウンド向け保険強化 ^[inferred] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要商品 | 特徴 |
 |---|---|---|
@@ -88,7 +88,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 米軍基地周辺リスク | 騒音・事故・基地従業員関連 | 沖縄特有のニッチ ^[inferred] |
 | 再保険スキーム | 台風・地震 | 大手損保 + 海外再保険でリスク分散 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地場優位の源泉
 
@@ -128,7 +128,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 米軍人・軍属向け保険商品設計には地場知見が必要 ^[inferred]
 - 基地返還・跡地開発に伴う長期リスク評価
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業界団体**：日本損害保険協会（損保協会）加盟
@@ -173,4 +173,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 公开信息ベース 2026-05-19）。沿革・基本構造は Wikipedia + 公式 HP で確認済み。財務数値・株主構成詳細・[[sompo]] 提携条件は非上場のため公表範囲限定で `^[inferred]` マーキング多め。中計内容・最新シェア数値は要更新。
+> confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。沿革・基本構造は Wikipedia + 公式 HP で確認済み。財務数値・株主構成詳細・[[sompo]] 提携条件は非上場のため公表範囲限定で `^[inferred]` マーキング多め。中計内容・最新シェア数値は要更新。

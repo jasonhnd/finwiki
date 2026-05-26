@@ -3,8 +3,8 @@ title: ライフネット生命保険 (LifeNet Insurance)
 aliases: ["ライフネット生命", "LifeNet", "LifeNet Insurance", "ライフネット生命保険株式会社", "7157"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, internet]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **日本初の独立系インターネット専業生命保険会社**。2006-10 出口治明（元日本生命）と岩瀬大輔（元 BCG）が共同創業、2008-05-18 開業。営業職員チャネルを持たず、**全てネット完結**で「シンプル・透明・安い」を売りに 20-30 代若年層をターゲット。2012-03-15 東証マザーズ上場（戦後初のネット生保上場）。**KDDI [[au-fh]] が約 28% を保有する戦略的株主**で、au 経済圏と連携。主力は定期死亡保険・医療・がん・就業不能。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：ライフネット生命保険株式会社 ^[extracted]
 **英名**：LifeNet Insurance Company
@@ -54,13 +54,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 「異業界からの参入」「コンサル × ベテラン生保マン」のコンビは当時の生保業界では極めて異例で、創業時から国内外で広く取り上げられた ^[extracted]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | プロダクト | 特徴 | 主ターゲット |
 |---|---|---|
 | **定期死亡保険「かぞくへの保険」** | 主力商品、シンプル・短期掛け捨て型、保険料が業界最安級と訴求 | 20-30 代 子育て世代 ^[extracted] |
-| **医療保険「じぶんへの保険」** | 入院・手術給付、シンプル設計 | 若年層 |
-| **がん保険「ダブルエール」等** | がん診断・治療給付 | 30-50 代 |
+| **医療保険「じぶんへの保険」** | 入院・手術に付、シンプル設計 | 若年層 |
+| **がん保険「ダブルエール」等** | がん診断・治療に付 | 30-50 代 |
 | **就業不能保険「働く人への保険」** | 病気・けがで長期就労不能時の所得補償 | 共働き世代・自営業 ^[extracted] |
 | **学資保険ピース** | 教育資金準備（時期により提供有無） | 子育て世代 |
 
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **書類不要・対面不要**（電子申込）が原則
 - 営業職員 / 来店ショップは持たない → 固定費が小さい構造 ^[extracted]
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### コア戦略
 
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 4. **デジタル UX**: スマホ完結・申込時間の最短化
 5. **KDDI / au 経済圏連携** [[au-fh]]: au 顧客基盤への送客、au PAY ポイント等の動線連携 ^[extracted]
 
-### 重要历史
+### 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -110,7 +110,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 「**正直に わかりやすく、安く、便利に**」を創業時から掲げる ^[extracted]
 - 保険業界の不透明さ（手数料構造・乗合代理店の販売インセンティブ等）への対抗軸として打ち出した
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 生命保険業免許（保険業法）
 - **業界団体**: 生命保険協会（加盟）
@@ -152,5 +152,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公開 IR 校核 2026-05-19）。創業年・上場年・主要創業者・KDDI 出資（約 28% 級）等は Wikipedia / 東証公開情報経由。**具体的な持分比率・最新財務数値は時点変動あり**、最新は同社 IR / 有価証券報告書を要参照。本ページは公開情報のみで構成、内部資料・非公開情報は引用していない。

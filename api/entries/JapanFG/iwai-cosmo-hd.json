@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -38,12 +38,12 @@
     "岩井コスモホールディングス",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社",
-    "合併歴史・前身",
+    "合併経緯・前身",
     "重要年表（抜粋）^[extracted]",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "基本戦略"
   ],
   "body_links": {
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3915,
-    "word_like_tokens": 521,
+    "nonspace_chars": 3920,
+    "word_like_tokens": 520,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

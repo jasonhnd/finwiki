@@ -1,10 +1,10 @@
 ---
-title: Franklin Templeton FOBXX (BENJI) · 从 Stellar 单链到多链 RWA · "代币化基金不是稳定币" 的范式
+title: Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム
 aliases: [franklin-templeton-stablecoin-migration, FOBXX, BENJI, Franklin OnChain US Government Money Fund, franklin-templeton-tokenized-fund, ft-onchain-multichain, BENJI-multichain]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, franklin-templeton, fobxx, benji, tokenized-fund, mmf, stellar, ethereum, multichain, rwa, 2025-2026]
@@ -18,11 +18,11 @@ sources:
   - https://www.benji.io/
 ---
 
-# Franklin Templeton FOBXX (BENJI) · 从 Stellar 单链到多链 RWA · "代币化基金不是稳定币" 的范式
+# Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム
 
 ## TL;DR
 
-**Franklin OnChain US Government Money Fund** (ticker FOBXX, on-chain share class **BENJI**) 是**美国第一只 SEC-registered 1940 Act money market fund 把份额完全上链**的产品(2021-04 launch)。最初**只在 Stellar 单链运营** ~3 年,2024-2025 起完成**多链扩展**: Polygon (2023-04 加) + Arbitrum (2024-04) + Base (2024-09) + Avalanche (2024-10) + Aptos (2024-11) + Solana (2025-02) + Sui (2025-Q4) + 部分 EVM 私链。2026-05 BENJI AUM **~$650M+**,在 tokenized MMF 排名第二 (仅次于 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] $2.5B+)。**FOBXX 的核心战略价值**: 它是行业**最早证明 "tokenized fund ≠ stablecoin" 范式可工作**的产品——SEC-registered 证券、yield-bearing、daily NAV computed onchain、transfer agent on-chain、与 USDC/USDT 分属完全不同的合规类别。
+**Franklin OnChain US Government Money Fund** (ticker FOBXX、オンチェーンシェアクラス **BENJI**) は**米国初の SEC-registered 1940 Act money market fund がシェアを完全にオンチェーン化したプロダクト** (2021-04 ローンチ)。当初は**約 3 年間 Stellar 単一チェーンで運営**、2024-2025 から**マルチチェーン拡大**を完了:Polygon (2023-04 追加) + Arbitrum (2024-04) + Base (2024-09) + Avalanche (2024-10) + Aptos (2024-11) + Solana (2025-02) + Sui (2025-Q4) + 一部 EVM プライベートチェーン。2026-05 BENJI AUM **~$650M+**、tokenized MMF 第 2 位 (首位は [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] $2.5B+)。**FOBXX のコア戦略的価値**:業界で**最も早く「tokenized fund ≠ stablecoin」パラダイムが機能することを証明したプロダクト** —— SEC-registered 証券、yield-bearing、オンチェーンで daily NAV を計算、transfer agent をオンチェーン化、USDC/USDT とは全く異なるコンプライアンス分類に属する。
 
 ## Wiki route
 

@@ -3,8 +3,8 @@ title: 松井証券株式会社 (Matsui Securities)
 aliases: ["Matsui Securities", "松井証券", "Matsui Securities Co., Ltd.", "8628", "松井証券株式会社"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, online-broker]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **日本初のネット証券** (1998-05 オンライン株式取引開始、対面店舗全廃の先駆け) として知られる中堅オンライン証券 (東証 PRIME 8628)。1918 年に松井房吉が創業した老舗証券で、1995-04 に 4 代目 **松井道夫** が社長就任後、対面リテール証券からネット専業へ業態転換した日本ネット証券パイオニア。**信用取引 1 日定額制**や個人投資家向け投資情報アプリで差別化し、顧客口座数約 150 万、ネット証券上位 5 行に次ぐ中堅ポジション。現在は **SBI 証券**（[[sbi-hd]] 内）/ **楽天証券**（[[rakuten-fg]] 内）/ **マネックス証券**（[[monex-group]] 内）等が大手として先行し、松井証券は独立系オンライン証券として独自路線を維持。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：松井証券株式会社
 **英名**：Matsui Securities Co., Ltd.
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 注: 上記年表は公開資料（Wikipedia / 公式 IR / プレスリリース）に基づく。具体的な業績・口座数の最新値は IR 開示資料を要参照。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要サービス | 特徴 |
 |---|---|---|
@@ -71,7 +71,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 投資情報 | 松井証券アプリ・市況情報サービス | アクティブ投資家向け情報ツール |
 | iDeCo / NISA | 新 NISA 対応口座 | 2024 制度拡充に合わせた商品強化 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### ネット証券パイオニアとしてのポジション
 
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 現在の競争環境
 
-ネット証券業界は 2020 年代後半までに以下の上位プレイヤーで集約が進行：
+ネット証券業界は 2020 年代後半までに以下の上位プレイヤーで集約が実施：
 
 - **SBI 証券**（[[sbi-hd]] 内）: 口座数最大、手数料無料化先導
 - **楽天証券**（[[rakuten-fg]] 内）: 楽天経済圏連携で急成長
@@ -96,7 +96,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **長期顧客基盤**: 1918 創業の老舗ブランド + ネット証券パイオニアの信頼性
 - **独立系**: メガバンク / 通信会社 / 流通グループの傘下に入らず、独自路線を堅持
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 証券業協会（JSDA）
 - **上場区分**: 東証 PRIME（2022-04 市場区分見直し以降）
@@ -134,5 +134,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公開 IR 校核 2026-05-19）。創業年・上場年・社長就任年・1998 ネット取引開始等の主要マイルストーンは公開資料ベース。具体的な口座数・業績数値・米国株対応の詳細は公式 IR 開示の最新値を要参照。本エントリは公開情報のみ使用、内部目録・非公開資料は一切引用していない。

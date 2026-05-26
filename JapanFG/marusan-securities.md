@@ -3,8 +3,8 @@ title: 丸三証券 (Marusan Securities)
 aliases: ["Marusan Securities", "Marusan Securities Co., Ltd.", "丸三証券", "丸三証券株式会社", "8613"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier]
@@ -40,7 +40,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 本社 | 東京都千代田区麹町 |
 | 業態 | 独立系中堅証券 (持株会社化していない単一事業会社型) |
 
-## 2. 公司結構
+## 2. 会社構造
 
 **正式名**：丸三証券株式会社
 **創業**：1910 年 (明治期に東京で個人商店として創業) ^[extracted]
@@ -64,7 +64,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 ^[extracted] |
 | 2024〜 | 新 NISA 制度対応、富裕層・シニア層向けコンサルティング営業強化 ^[inferred] |
 
-## 3. 业务线 map
+## 3. 事業セグメント map
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | オンライン取引 | ネット支店併設 | 対面 + オンラインのハイブリッド |
 | 投資情報サービス | 対面コンサルティング | 「教育型営業」 ^[inferred] |
 
-## 4. 战略与競争
+## 4. 戦略・競争
 
 ### 老舗中堅独立証券としてのポジション
 
@@ -87,7 +87,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 富裕層・シニア層向けの「教育型営業」「対面相談」のニッチを維持
 - 大手対面証券との競合は規模差で不利、しかし中堅独立証券枠での独自ブランド維持
 
-## 5. 监管と政策
+## 5. 規制と政策
 
 - **主管**：金融庁 (FSA)・関東財務局
 - **業態**：第一種金融商品取引業 (証券業)

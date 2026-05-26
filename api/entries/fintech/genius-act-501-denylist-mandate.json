@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/genius-act-501-denylist-mandate.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/genius-act-501-denylist-mandate.md",
   "domain": "fintech",
-  "title": "GENIUS Act §501 链级 Denylist 合法化",
+  "title": "GENIUS Act §501 チェーンレベル Denylist 合法化",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "GENIUS Act §501 将链级 Denylist 合法化 —— 稳定币原生 L1 的合规反向解释",
+    "title": "GENIUS Act §501 によるチェーンレベル Denylist の合法化 —— ステーブルコイン・ネイティブ L1 のコンプライアンス的逆解釈",
     "aliases": [
       "GENIUS Act denylist",
       "stablecoin chain regulation",
-      "链级 Denylist 合法化"
+      "チェーンレベル Denylist 合法化"
     ],
     "domain": "fintech",
     "created": "2026-05-13",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-13",
     "confidence": "likely",
     "tags": [
@@ -39,7 +39,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "GENIUS Act §501 链级 Denylist 合法化",
+    "GENIUS Act §501 チェーンレベル Denylist 合法化",
     "Wiki route",
     "Related"
   ],
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2952,
-    "word_like_tokens": 465,
+    "nonspace_chars": 3372,
+    "word_like_tokens": 481,
     "inbound_wikilinks_count": 76,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

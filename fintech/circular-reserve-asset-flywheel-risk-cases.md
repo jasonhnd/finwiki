@@ -1,10 +1,10 @@
 ---
-title: 储备金互锁飞轮 · 三层系统性风险情景
+title: 準備金インターロック・フライホイール · 三層システミックリスク・シナリオ
 aliases: [circular reserve asset flywheel risk cases, BUIDL USDC concentration risk, reserve recursion risk]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, systemic-risk, stablecoin, reserve-concentration, genius-504, tokenized-mmf]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 储备金互锁飞轮 · 三层系统性风险情景
+# 準備金インターロック・フライホイール · 三層システミックリスク・シナリオ
 
 
 ## Wiki route
@@ -25,46 +25,46 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> BUIDL ↔ USDC 互锁飞轮的风险不在资产质量(国债是 risk-free),而在三层结构性问题:**赎回时的二级市场流动性 vs 储备金账面价值** · **监管尚未定义"代币化 MMF 集中度"框架** · **利息流的反身性持续推高集中度**。2023.03 SVB 事件中 USDC 因储备金 8.25% 集中在 SVB 短暂脱锚 · BUIDL 路径风险机制相同。
+> BUIDL ↔ USDC インターロック・フライホイールのリスクは資産品質(国債は risk-free)ではなく、三層の構造的問題にある:**償還時の二次市場流動性 vs 準備金簿価** · **規制が「トークン化 MMF 集中度」フレームを未定義** · **利息フローの反射性が集中度を継続的に押し上げる**。2023.03 SVB 事件では USDC が準備金 8.25% を SVB に集中していたため一時的にデペッグした · BUIDL パスのリスク機構は同一。
 
 ## Key facts
 
-- 2023.03 USDC 因储备金 8.25% 集中在 SVB 一家短暂脱锚 ^[extracted]
-- BUIDL 由 BlackRock 做市,但二级流动性仍小于央行回购窗口 ^[inferred]
-- GENIUS Act §504 要求逐月披露储备金构成,但未禁止"通过代币化国债持仓" ^[extracted]
-- SEC Rule 2a-7 禁止传统 MMF 互相持有超 5%,但不适用代币化 MMF ^[extracted]
-- 巴塞尔 III 单一对手方风险限制不覆盖 stablecoin 发行方 ^[inferred]
+- 2023.03 USDC は準備金 8.25% を SVB 一社に集中していたため一時的にデペッグ ^[extracted]
+- BUIDL は BlackRock がマーケットメイクするが、二次流動性は中央銀行レポ窓口より小さい ^[inferred]
+- GENIUS Act §504 は準備金構成の月次開示を要求するが「トークン化国債経由の保有」は禁止せず ^[extracted]
+- SEC Rule 2a-7 は伝統的 MMF の相互保有を 5% 超で禁止するが、トークン化 MMF には適用されない ^[extracted]
+- バーゼル III の単一対手方リスク制限は stablecoin 発行体をカバーしない ^[inferred]
 
 ## Mechanism / How it works
 
-**风险 1 · 流动性挤兑场景**:USDC 大规模赎回 → Circle 必须卖 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] → BUIDL 二级流动性受冲击 → BUIDL NAV 短暂偏离 → 其他持有者(交易所 / 机构)恐慌 → BUIDL AUM 下降 → 反过来加剧 Circle 储备金可信度问题。与 SVB 危机机制相同 —— 集中度问题不在资产质量 · 在赎回时二级流动性。
+**リスク 1 · 流動性取り付けシナリオ**:USDC 大規模償還 → Circle が [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] を売却せざるを得ない → BUIDL 二次流動性に衝撃 → BUIDL NAV が一時的に乖離 → 他の保有者(取引所 / 機関)がパニック → BUIDL AUM 減少 → 逆に Circle 準備金信認問題を悪化させる。SVB 危機と同一の機構 —— 集中度問題は資産品質ではなく、償還時の二次流動性にある。
 
-**风险 2 · 监管"reserve concentration"重新定义**:GENIUS §504 未禁止代币化 MMF 集中持仓 · OCC / FRB 2026 后可能新增:单一代币化 MMF 不得超储备金 X% / 提供方与发行方不得有股权关联 / 系统性互锁结构必须建立独立风控隔离。BUIDL ↔ USDC 是当前规模最大、最透明的互锁案例 · 极可能成为监管样本 —— 这与 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 稳定币储备资本框架]] 在跨境侧的反射动作相互呼应。
+**リスク 2 · 規制「reserve concentration」の再定義**:GENIUS §504 はトークン化 MMF への集中保有を禁止していない · OCC / FRB は 2026 年以降に新設する可能性:単一トークン化 MMF は準備金の X% 超を保有不可 / 提供者と発行者は資本関係を持ってはならない / システミックなインターロック構造は独立したリスク管理隔離を構築すること。BUIDL ↔ USDC は現時点で最大規模かつ最も透明なインターロック事例 · 規制サンプルとなる可能性が極めて高い —— これは [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB ステーブルコイン準備金資本フレームワーク]] のクロスボーダー側における反射動作と相互に呼応する。
 
-**风险 3 · 利息流反身性**:50% 自留利息持续再投 BUIDL · 占比单调上升 · 直到外力打断(参照 [[fintech/issuer-distributor-incentive-realignment-50-50-model|50/50 分账模型]] 的利息流方向)。
+**リスク 3 · 利息フローの反射性**:50% 自社保有利息が継続的に BUIDL に再投資 · 比率は単調に上昇 · 外力が介入するまで続く([[fintech/issuer-distributor-incentive-realignment-50-50-model|50/50 分配モデル]] の利息フロー方向を参照)。
 
 ## Origin & evolution
 
-2008 GSE 系统性风险(Fannie Mae / Freddie Mac 互锁导致救助)提供历史先例。SEC Rule 2a-7 在 2008 后强化 MMF 互持限制(< 5%)。代币化 MMF 时代的 stablecoin 储备金尚无对应监管框架 —— **BUIDL ↔ USDC 是创造该框架的第一个数据点**。
+2008 GSE システミックリスク(Fannie Mae / Freddie Mac のインターロックが救済を招いた)が歴史的先例を提供。SEC Rule 2a-7 は 2008 年以降 MMF 相互保有制限を強化(< 5%)。トークン化 MMF 時代の stablecoin 準備金にはまだ対応する規制フレームが存在しない —— **BUIDL ↔ USDC はそのフレームを創造する最初のデータポイント**。
 
 ## Counterpoints
 
-支持者主张:BUIDL 100% 持短期国债 · 资产质量 risk-free · "concentration risk"是 narrative 不是 economic risk。BlackRock 做市能力比 SVB 强 100× · 真实挤兑场景可以通过 BlackRock 自身做市消化。监管也可以反向 —— 鼓励代币化 MMF 替代直接持债(更透明)。
+支持者の主張:BUIDL は 100% 短期国債を保有 · 資産品質 risk-free · 「concentration risk」はナラティブであり economic risk ではない。BlackRock のマーケットメイク能力は SVB の 100 倍 · 真の取り付けシナリオは BlackRock 自身のマーケットメイクで吸収可能。規制は逆方向にも動き得る —— トークン化 MMF を直接の国債保有の代替として奨励(より透明)。
 
 ## Open questions
 
-如果 USDC 一次赎回 10%($4B)· BUIDL 二级流动性能否支撑 Circle 抛售?监管是否会先动 Circle ↔ BlackRock 股权关联(若存在)而非 cap 占比?Tether / PayPal / FDUSD 是否会主动避开 BUIDL 模式以差异化?Circle 自身有没有"BUIDL 占比硬上限"内部政策?
+USDC が一度に 10%($4B)償還された場合、BUIDL 二次流動性は Circle の売却を支えられるか?規制はまず Circle ↔ BlackRock の資本関係(存在すれば)に動くか、それとも比率上限に動くか?Tether / PayPal / FDUSD は差別化のため BUIDL モデルを能動的に避けるか?Circle 自身に「BUIDL 比率の内部上限」ポリシーは存在するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮 · 概览]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist 强制令]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币收益分成经济学]]
-- [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构 · ARM 类比]]
+- [[fintech/circular-reserve-asset-flywheel-overview|準備金インターロック・フライホイール · 概観]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist 強制令]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン収益分配エコノミクス]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 · ARM アナロジー]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- SEC Rule 2a-7 · 巴塞尔 III · GENIUS Act §504(2025.07)
-- 2023.03 USDC depeg 事件复盘
+- SEC Rule 2a-7 · バーゼル III · GENIUS Act §504(2025.07)
+- 2023.03 USDC デペッグ事件レビュー

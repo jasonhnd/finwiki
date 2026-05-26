@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/eip-4844-blob-economics-impact-2026.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/eip-4844-blob-economics-impact-2026.md",
   "domain": "systems",
-  "title": "EIP-4844 blob 经济与 2026 市场影响 · Dencun 至 Pectra 至 Fusaka 全景",
+  "title": "EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "EIP-4844 blob 经济与 2026 市场影响 · Dencun 至 Pectra 至 Fusaka 全景",
+    "title": "EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景",
     "aliases": [
       "eip-4844 blob 2026",
       "blob economics 2026",
@@ -23,8 +23,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "certain",
     "tags": [
@@ -54,18 +54,18 @@
       "https://ethresear.ch/c/sharding/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 翻倍与 L2 经济连锁 for the 2025-Q2 blob target doubling that directly extends EIP-4844, and Pectra upgrade overview for the broader Ethereum upgrade context. For the L1/L2 strategic framing that makes blob economics structurally im",
+  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for the 2025-Q2 blob target doubling that directly extends EIP-4844, and Pectra upgrade overview for the broader Ethereum upgrade context. For the L1/L2 strategic framing that makes blob economics structurally im",
   "headings": [
-    "EIP-4844 blob 经济与 2026 市场影响 · Dencun 至 Pectra 至 Fusaka 全景",
+    "EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景",
     "TL;DR",
     "Wiki route",
-    "Mechanism · blob 机制与 fee market",
-    "Blob 数据结构",
-    "Blob fee market (EIP-1559 风格 · 独立)",
-    "Blob 提交流程(sequencer 视角)",
-    "与 calldata 对比",
-    "Market dynamics · Dencun 至 2026",
-    "Dencun 上线初期(2024-03 - 2024-Q2)"
+    "Mechanism · blob メカニズムと fee market",
+    "Blob データ構造",
+    "Blob fee market (EIP-1559 スタイル · 独立)",
+    "Blob 提出フロー(sequencer 視点)",
+    "calldata との比較",
+    "Market dynamics · Dencun から 2026 まで",
+    "Dencun ローンチ初期(2024-03 - 2024-Q2)"
   ],
   "body_links": {
     "wikilinks_count": 15,
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16423,
-    "word_like_tokens": 3173,
+    "nonspace_chars": 17311,
+    "word_like_tokens": 3215,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

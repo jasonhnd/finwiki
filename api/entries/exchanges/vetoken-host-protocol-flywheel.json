@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/vetoken-host-protocol-flywheel.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/vetoken-host-protocol-flywheel.md",
   "domain": "exchanges",
-  "title": "veToken × 主导方 DEX 自循环飞轮",
+  "title": "veToken × ホスト・プロトコル DEX 自己循環フライホイール",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "veToken × 主导方 DEX 自循环飞轮 —— L2/L1 主导方的链上闭环",
+    "title": "veToken × ホスト・プロトコル DEX 自己循環フライホイール — L2/L1 ホスト側のオンチェーン閉ループ",
     "aliases": [
       "veToken flywheel",
       "cbBTC veAERO flywheel",
@@ -18,8 +18,8 @@
     ],
     "domain": "exchanges",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -38,7 +38,7 @@
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [
-    "veToken × 主导方 DEX 自循环飞轮",
+    "veToken × ホスト・プロトコル DEX 自己循環フライホイール",
     "Wiki route",
     "Related"
   ],
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2520,
-    "word_like_tokens": 427,
+    "nonspace_chars": 2916,
+    "word_like_tokens": 439,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

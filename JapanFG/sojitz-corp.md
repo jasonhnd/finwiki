@@ -10,8 +10,8 @@ aliases:
   - "sojitz"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, mid-tier-trading-house, resources, infrastructure, foods, retail, nichimen, nissho-iwai]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 双日 (東証 PRIME **2768**) は **7 大総合商社の一角**、5 大商社の次のレイヤーである **中堅商社の中で 7 大の上位**。**2004 年に ニチメン + 日商岩井 が経営統合して発足** した相対的に若い商社 (ただし両社の歴史は明治期から)。**金属・化学品・エネルギー・インフラ・食料・リテール・航空** で 5 大商社にない独自ニッチを取りつつ、規模は 5 大の 1/3〜1/4 程度。JapanFG 文脈での重要性は (i) [[JapanFG/sojitz-finance|双日フィナンス]] (内向け CMS)、(ii) 5 大商社のような大手 captive リース・asset finance 子会社は持たず、外部リース ([[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]] 等) との取引が中心、にある。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2010s〜 | 中期計画で利益体質強化、純利益 1,000 億円級到達 |
 | 2020s | 株主還元拡大、ESG / GX 戦略強化 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **航空産業**: 各国商社、Boeing / Airbus 代理店
 - **海外ディーラー網**: 各国地場流通会社
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 ^[extracted]
 - **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業対象 ^[inferred]
@@ -165,5 +165,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。双日は public-surface で十分カバー。連結純利益、ニチメン + 日商岩井 統合後 20 年の総括、5 大商社との競争上の差は最新 有価証券報告書 / 統合報告書 で都度更新。

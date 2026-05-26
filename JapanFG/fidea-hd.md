@@ -3,8 +3,8 @@ title: フィデア HD (Fidea Holdings)
 aliases: ["Fidea HD", "Fidea Holdings", "フィデアホールディングス", "株式会社フィデアホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 山形 + 秋田を地盤とする中堅地銀 FG。2009-10-01 **荘内銀行**（山形県地盤）+ **北都銀行**（秋田県地盤）の共同株式移転により発足し、東日本初の県境を越えた地銀統合事例として注目された。2026-05-21 現在の wiki boundary では、[[shonai-bank]] と [[hokuto-bank]] が operating banks、[[tohoku-bank]] は 2022-02 に経営統合基本合意が解除された別会社として扱う。北都銀行公式 profile は、北都銀行と荘内銀行が 2027-01 に合併し「フィデア銀行」として発足する予定を示している。社名 Fidea = ラテン語「信頼（fides）」+「理念（idea）」の造語。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社フィデアホールディングス ^[extracted]
 **英名**：Fidea Holdings, Inc.
@@ -78,7 +78,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-02 | 東北銀行との経営統合基本合意を解除 |
 | 2027-01（予定） | 荘内銀行 + 北都銀行が合併し「フィデア銀行」発足予定 |
 
-## 2. 业务线 map ^[extracted]
+## 2. 事業セグメント・マップ ^[extracted]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人 retail | 荘内銀・北都銀 | 住宅ローン、年金口座、地方富裕層資産運用 |
 | 証券 / リース / カード | グループ子会社 | 地銀 FG 標準ラインナップ |
 
-## 3. 战略与竞争 ^[extracted/inferred]
+## 3. 戦略・競争 ^[extracted/inferred]
 
 ### 北東北広域連合戦略
 
@@ -111,7 +111,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **県内単独地銀**（山形銀行・秋田銀行・岩手銀行）：直接競合、ただし統合により規模差拡大
 - **ネット銀行**（[[gmo-aozora-net]] 等）：個人 retail で digital chann。実効的脅威は限定的 ^[inferred]
 
-## 4. 监管与政策 ^[extracted/inferred]
+## 4. 規制・政策 ^[extracted/inferred]
 
 - **主管**: 金融庁（FSA）東北財務局
 - **地銀再編政策**: 2020〜独占禁止法特例法（地銀統合の独禁法適用除外）で県内シェア集中を一定条件で容認。Fidea case は東北銀行 inclusion ではなく、まず荘内 + 北都の一体化 watch として追う。

@@ -22,8 +22,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -43,10 +43,10 @@
     "モルガン・スタンレー・ジャパン (Morgan Stanley Japan)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要法人 (4 社体制)",
     "Morgan Stanley グローバル基本情報",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "競合ポジショニング",
     "3. 重要歴史",
     "戦前〜統合前 (1970s〜2007)"
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6077,
-    "word_like_tokens": 992,
+    "nonspace_chars": 6082,
+    "word_like_tokens": 991,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

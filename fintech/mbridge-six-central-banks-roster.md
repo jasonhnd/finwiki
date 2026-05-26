@@ -1,10 +1,10 @@
 ---
-title: mBridge 6 央行清单与角色(2026-Q2)
+title: mBridge 6 中央銀行リストと役割(2026-Q2)
 aliases: [mbridge-six-central-banks-roster, mbridge-central-banks, mbridge-5-cbdc-roster]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, cbdc, mbridge, central-banks, pboc, hkma, sama, drex]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# mBridge 6 央行清单与角色(2026-Q2)
+# mBridge 6 中央銀行リストと役割(2026-Q2)
 
 
 ## Wiki route
@@ -25,46 +25,46 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> mBridge 截至 2026-Q2 实际参与央行 5 + 准成员 1:PBoC(实质主导)/ HKMA(第二大节点 + Ensemble 互通)/ BoT / CBUAE / SAMA(2024-06 加入)/ BCB(2026-Q2 互操作测试)。BIS 2025-10 退出后这 6 家形成 "中国 + 中东 + 东南亚 + 拉美" 的非美元结算雏形。
+> mBridge は 2026-Q2 時点で実際の参加中央銀行 5 + 準メンバー 1:PBoC(実質主導)/ HKMA(第 2 大ノード + Ensemble 相互接続)/ BoT / CBUAE / SAMA(2024-06 加入)/ BCB(2026-Q2 相互運用テスト)。BIS 2025-10 撤退後、この 6 行が「中国 + 中東 + 東南アジア + 中南米」の非米ドル決済プロトタイプを形成。
 
 ## Key facts
 
-- PBoC + e-CNY 是 mBridge 实质主导者 · 贡献最大 CBDC 流量 ^[extracted]
-- HKMA 是第二大节点 · Project Ensemble 与 mBridge 互通 ^[extracted]
-- BoT 与 CBUAE 是 2021 创始 4 央行中的两个 ^[extracted]
-- SAMA 沙特央行 2024-06 加入 ^[extracted]
-- BCB 巴西央行 2026-Q2 起 DREX 互操作性测试 · 准成员 ^[extracted]
-- JPMorgan / Kinexys 是 JPM China PoC 参与者 · 非核心节点 ^[extracted]
-- 美元侧机构(Circle / Arc / Tempo / Base)零参与 ^[extracted]
+- PBoC + e-CNY が mBridge の実質的主導者 · 最大の CBDC フローを提供 ^[extracted]
+- HKMA は第 2 大ノード · Project Ensemble と mBridge を相互接続 ^[extracted]
+- BoT と CBUAE は 2021 年創設 4 中央銀行のうちの 2 行 ^[extracted]
+- SAMA サウジ中央銀行は 2024-06 加入 ^[extracted]
+- BCB ブラジル中央銀行は 2026-Q2 から DREX 相互運用性テスト · 準メンバー ^[extracted]
+- JPMorgan / Kinexys は JPM China PoC の参加者 · コアノードではない ^[extracted]
+- 米ドル側機関(Circle / Arc / Tempo / Base)はゼロ参加 ^[extracted]
 
 ## Mechanism / How it works
 
-mBridge 验证者 = 央行(100% 主权)· 商业银行 = sub-participants(通过央行接入)。这与 [[fintech/bis-project-agora-overview|BIS Agora]] 的 "央行 + 商业银行共同验证" 模式不同 —— mBridge 把私营完全排除在共识层之外。PBoC 实质主导意味着 e-CNY 是事实上的 "桥本位币" —— 跨境结算可以双边(如人民币-雷亚尔)但更常见的是经 e-CNY 中转。HKMA 的特殊地位:既是 mBridge 节点又主导 Project Ensemble(香港多代币化资产结算平台,详见 [[fintech/bis-project-ensemble-overview|BIS Project Ensemble 总览]]),两者打通让香港成为 "离岸人民币 CBDC + tokenized asset" 的双重枢纽。SAMA 加入意味着石油结算潜在转向 mBridge —— 这是 "石油美元" 体系最直接的挑战(详见 [[fintech/sovereign-capital-pool-aramco-anchor|Aramco 主权资金池锚]])。BCB DREX 互操作把南美最大经济体接入,完成首个非洲外大洲扩展。
+mBridge バリデーター = 中央銀行(100% 主権) · 商業銀行 = sub-participants(中央銀行経由で接続)。これは [[fintech/bis-project-agora-overview|BIS Agora]] の「中央銀行 + 商業銀行共同検証」モデルとは異なる —— mBridge は民間をコンセンサス層から完全に排除する。PBoC の実質主導は、e-CNY が事実上の「ブリッジ基軸通貨」であることを意味する —— クロスボーダー決済は二国間(人民元-レアル等)も可能だが、より一般的には e-CNY を経由する。HKMA の特殊な地位:mBridge ノードであり、かつ Project Ensemble(香港マルチ・トークン化資産決済プラットフォーム、詳細は [[fintech/bis-project-ensemble-overview|BIS Project Ensemble 概要]] を参照)を主導しており、両者の連携により香港は「オフショア人民元 CBDC + トークン化資産」の二重ハブとなる。SAMA 加入は石油決済の mBridge への潜在的転換を意味する —— これは「石油ドル」体系への最も直接的な挑戦(詳細は [[fintech/sovereign-capital-pool-aramco-anchor|Aramco 主権資金プール・アンカー]] を参照)。BCB DREX 相互運用は南米最大の経済体を接続し、初のアフリカ以外の大陸への拡大を完了。
 
 ## Origin & evolution
 
-2021 mBridge 启动:PBoC + HKMA + BoT + CBUAE 4 央行(BIS Innovation Hub Hong Kong 协调)。2022-2023 PoC 完成跨币种实验。2024-06 SAMA 加入 · 升至 5 央行 · 同时 mBridge 进入 MVP 阶段。2024-Q4 与 Aramco 石油结算 / 中-巴大豆 / 中-阿黄金交割接入测试。2025-10 BIS 退出运营 · 5 央行自主治理。2026-Q2 BCB DREX 完成互操作性测试(准成员状态)· 待治理决议后正式加入。下一波可能加入的央行:俄罗斯央行(SWIFT 制裁规避动机)/ 印度 RBI(已有 e-Rupee · 但地缘上对华谨慎)/ 南非 SARB(BRICS 成员)/ 伊朗央行(政治敏感)。
+2021 年 mBridge 始動:PBoC + HKMA + BoT + CBUAE の 4 中央銀行(BIS Innovation Hub Hong Kong が調整)。2022-2023 年 PoC でクロス通貨実験を完了。2024-06 SAMA 加入 · 5 中央銀行に拡大 · 同時に mBridge は MVP 段階入り。2024-Q4 Aramco 石油決済 / 中-ブラジル大豆 / 中-アラブ金引渡し接続テスト。2025-10 BIS 運営撤退 · 5 中央銀行が自主ガバナンス。2026-Q2 BCB DREX 相互運用性テスト完了(準メンバー状態) · ガバナンス決議待ちで正式加入予定。次に加入する可能性のある中央銀行:ロシア中央銀行(SWIFT 制裁回避動機) / インド RBI(e-Rupee 既存 · ただし地政学的に対中慎重) / 南アフリカ SARB(BRICS メンバー) / イラン中央銀行(政治的にセンシティブ)。
 
 ## Counterpoints
 
-- 5 央行中只有中国与沙特是 GDP top 20 · 其余 3 家 GDP 合计远小 · 实际经济权重不平衡
-- HKMA 的双重身份(英美法系下的中国特别行政区)未来可能受美方政治压力
-- BCB 互操作测试不等于正式成员 · DREX 本身正在推迟 · 准成员状态可能拖延数年
-- 印度 / 巴西参与 BRICS 政治表态多 · 但实际 CBDC 跨境集成进展慢
+- 5 中央銀行のうち GDP top 20 は中国とサウジのみ · 残り 3 行の GDP 合計ははるかに小さく、実際の経済比重は不均衡
+- HKMA の二重身分(英米法系下の中国特別行政区)は将来米側政治圧力を受ける可能性
+- BCB 相互運用テストは正式メンバーと同義ではない · DREX 自体が延期中 · 準メンバー状態は数年続く可能性
+- インド / ブラジルは BRICS 政治表明は多いが、実際の CBDC クロスボーダー統合進展は遅い
 
 ## Open questions
 
-- 2030 前 mBridge 央行成员数是否能达到 10+?
-- 俄罗斯加入会否让 mBridge 被西方完全 sanctions · 反向限制其国际化?
-- 印度 e-Rupee 是会接入 mBridge 还是建立独立 SAARC 跨境网络?
+- 2030 年までに mBridge 中央銀行メンバー数は 10+ に達するか?
+- ロシア加入で mBridge は西側により完全に sanctions を受け、逆に国際化を制限されるか?
+- インド e-Rupee は mBridge に接続するか、独立 SAARC クロスボーダー・ネットワークを構築するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge 总览]]
-- [[fintech/mbridge-bis-multi-cbdc-vs-agora|mBridge vs Agora 对照]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
-- [[fintech/jurisdiction-list-monetary-protectionism|司法管辖列表 = 货币保护主义]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge 概要]]
+- [[fintech/mbridge-bis-multi-cbdc-vs-agora|mBridge vs Agora 対比]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/jurisdiction-list-monetary-protectionism|司法管轄区リスト = 貨幣保護主義]]
 <!-- /wiki-links:managed -->
 
 ## Sources

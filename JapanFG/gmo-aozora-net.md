@@ -3,8 +3,8 @@ title: GMO あおぞらネット銀行
 aliases: ["GMO Aozora Net Bank", "GMO あおぞらネット銀行", "GMO Aozora", "あおぞら信託銀行（旧称）"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, net-bank, baas, fintech]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **法人特化 BaaS（Banking as a Service）軸**のネット銀行。旧 **あおぞら信託銀行**（2004-04 開業、[[aozora-bank]] 子会社）を母体に、2018-07 **GMO インターネットグループ**が過半数取得し改称。株主構成は GMO ~85% + あおぞら銀行 ~15%（^[ambiguous]、時点変動あり）。**個人重視の楽天銀行・PayPay 銀行・住信 SBI ネット銀行とは異なり、フリーランス・スタートアップ・fintech 連動の法人口座 + API 連携を主軸**に据える。代表サービスは「**あんしんワイド**」（法人向けビジネスローン）と「**銀行 API for Developers**」。freee・マネーフォワード・Square・Stripe 等の fintech との戦略提携でポジションを築いている。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社 GMO あおぞらネット銀行 ^[extracted]
 **英名**：GMO Aozora Net Bank, Ltd.
@@ -58,7 +58,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
   └── GMO あおぞらネット銀行（~15%）── レガシー連結残持分
 ```
 
-### 重要历史 ^[extracted]
+### 沿革 ^[extracted]
 
 | 年月 | 事象 |
 |---|---|
@@ -70,7 +70,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | 2022〜 | Stripe / Square / Wise 等の決済 fintech との連動拡大 |
 | 2024 | 上場準備報道 ^[ambiguous]（GMO IR では明示プレゼン無し、時点要確認） |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -82,7 +82,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | 暗号資産連携 | [[gmo-coin]]（兄弟会社）| GMO グループ内シナジー |
 | 決済連携 | GMO ペイメントゲートウェイ（兄弟会社・東証 PRIME 3769）| 決済処理・加盟店データ連携 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 法人 BaaS 軸の差別化
 
@@ -109,7 +109,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 - GMO ペイメントゲートウェイ（東証 PRIME 3769）と同様のグループ内独立上場パスは構造的に可能
 - 上場すれば GMO グループの「インターネット金融経済圏」全体の評価値が顕在化
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業態**：銀行法上の銀行（普通銀行）
@@ -152,5 +152,5 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公式 + 親 GMO IR ベース 2026-05-19）。**株主比率（GMO ~85% / あおぞら ~15%）は時点変動が大きい** — IR 確定値は GMO インターネットグループ有価証券報告書を要参照。上場準備報道は ^[ambiguous] の段階で確証無し。融資残高 / API パートナー数等の定量データは未収集（追補必要）。

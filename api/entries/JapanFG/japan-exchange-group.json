@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -41,10 +41,10 @@
     "日本取引所グループ (JPX)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
-    "2. 业务线 map",
-    "3. 战略与竞争",
-    "4. 监管与政策",
+    "1. 会社概要",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
+    "4. 規制・政策",
     "Counterpoints",
     "Open questions",
     "Related"
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4787,
-    "word_like_tokens": 698,
+    "nonspace_chars": 4792,
+    "word_like_tokens": 697,
     "inbound_wikilinks_count": 44,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

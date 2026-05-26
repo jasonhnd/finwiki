@@ -3,8 +3,8 @@ title: ファミマデジタルワン (FamiMa Digital One)
 aliases: ["ファミマデジタルワン", "FamiMa Digital One", "FamiPay", "ファミペイ", "FamiPay 運営会社"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, payment, retail, fintech]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 伊藤忠商事 → ファミリーマート 100% 子会社の**コンビニ系決済・ポイント・金融子会社**。2019-04-01 設立（前身: 株式会社ファミマトラベル）、2019-07-01 **FamiPay**（QR + バーコード決済）リリース。資金移動業者ライセンスベースで銀行ライセンスなし。コンビニアプリ完結型決済 + BNPL（FamiPay 翌月払い）+ 個人融資（FamiPay ローン）+ ファミペイカード（旧 ファミマ T カード）。**Tポイント連携を 2024-04 解消 → ファミペイポイント独立化**で「伊藤忠 G 内決済プラットフォーム」へ転換中。競合は au PAY ([[au-fh]]) / PayPay ([[paypay-fg]]) / 楽天ペイ ([[rakuten-fg]]) / d 払い ([[ndfg]])。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社ファミマデジタルワン
 **英名**: FamiMa Digital One Co., Ltd.
@@ -61,7 +61,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024〜 | 中計 — 伊藤忠商事 G 内決済プラットフォーム化方針 |
 | 2025〜 | FamiPay ステーブルコイン / ブロックチェーン領域は未参入（vs MUFG Progmat） |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | サービス | 種別 | 特徴 |
 |---|---|---|
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **収納代行** | 公共料金・通販代金収納 | コンビニ収納の延長線 |
 | **ギフトカード / プリペイド** | ハウスマネー | 法人ノベルティ・キャンペーン用途 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### コア戦略
 
@@ -111,7 +111,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 主戦場がファミマ店内に偏り、汎用コード決済としての店外展開は PayPay / 楽天ペイ / d 払いに対して弱い
 - ステーブルコイン / Progmat 系インフラへの参画は確認不能 ^[ambiguous]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **資金移動業者**: 資金決済法 第 37 条 登録

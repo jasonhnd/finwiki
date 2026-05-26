@@ -3,8 +3,8 @@ title: 北國 FHD (Hokkoku FHD)
 aliases: ["Hokkoku FHD", "Hokkoku Financial Holdings", "北國フィナンシャルホールディングス", "株式会社北國フィナンシャルホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-22
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, digital-leader, historical-bridge]
@@ -30,7 +30,7 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 
 石川県地盤の地方銀行持株会社（東証 PRIME 7381）。2021-10-01 北國銀行の単独株式移転で発足し、2025-10-01 に [[JapanFG/cci-group|株式会社CCIグループ]] へ商号変更した。資産規模は中堅地銀クラスだが、**地銀業界で別格の「デジタル先進地銀」**として知られる。2008 年に地銀で初めて Microsoft Azure を採用、2010 年に勘定系をオープン勘定系（Windows サーバ + .NET ベース）へ移行、2017 年に営業店窓口端末を Surface に刷新するなど、**業界の常識を 10 年以上先取りした IT 路線**を貫いてきた。2023 年には ICT コンサル子会社「デジタルバリュー」と BaaS プラットフォーム「Tonari」を立ち上げ、**「地銀発デジタルプラットフォーマー」へと業態転換**を進める。[[fukuoka-fg]]（みんなの銀行）と並ぶ地銀 DX リーダーの一角。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社北國フィナンシャルホールディングス
 **英名**：Hokkoku Financial Holdings, Inc.
@@ -64,7 +64,7 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 - **2024-01-01**：能登半島地震発生（震源地が石川県、被災地金融機能維持が経営課題に）
 - **2024**：新中期経営計画（地域 DX プラットフォーマー志向）
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -76,7 +76,7 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 | クレカ・決済 | 北國クレジット・北國 e ペイメント | 地域決済 |
 | Microsoft 提携 | 全社横断 | Azure / Surface / Microsoft 365 を全業務基盤に |
 
-## 4. 戦略与竞争
+## 4. 戦略・競争
 
 ### 「地銀発デジタルプラットフォーマー」志向
 
@@ -94,7 +94,7 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 
 震源地が石川県・能登地方であり、被災地金融機能の維持は経営課題かつ社会的責務。デジタル化が進んでいたことが BCP（事業継続）で機能したと評価されている一方、被災地復興融資・店舗網再編の負荷は中長期で財務に影響しうる。
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**：金融庁（FSA）、北陸財務局
 - **業態**：銀行持株会社（銀行法）、地方銀行協会加盟
@@ -136,5 +136,5 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。Microsoft Azure 採用年（2008）、勘定系オープン化年（2010）、Surface 導入年（2017）、デジタルバリュー設立 / Tonari 提供開始年（2023-04）は Wikipedia / 公開 IR ベース。能登半島地震被災影響の具体財務インパクトは 2025-03 期以降の有価証券報告書で要確認。

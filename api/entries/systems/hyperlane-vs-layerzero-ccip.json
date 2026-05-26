@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperlane-vs-layerzero-ccip.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperlane-vs-layerzero-ccip.md",
   "domain": "systems",
-  "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+  "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+    "title": "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照",
     "aliases": [
       "hyperlane-vs-layerzero",
       "hyperlane-vs-ccip",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -35,7 +35,7 @@
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照",
+    "Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2807,
-    "word_like_tokens": 463,
+    "nonspace_chars": 3224,
+    "word_like_tokens": 464,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: 信金中央金庫 (Shinkin Central Bank)
 aliases: ["信金中金", "信金中央金庫", "SCB", "Shinkin Central Bank", "全国信用金庫連合会", "全信連"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, cooperative-central, shinkin]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 全国信用金庫業界（金融庁 registry では 2025-11-06 時点 254 金庫）の **中央機関**。協同組織金融機関として設立、信用金庫から預け入れられた余資の運用と、信用金庫向け貸出を二大柱とする。総資産は **40〜50 兆円規模** ^[ambiguous] と推定される国内屈指の機関投資家。[[norinchukin]]（農林中央金庫＝農協系）と並ぶ「協同組織系中央銀行」の双璧で、海外債券・社債・株式・オルタナティブ投資を含む大規模運用ポートフォリオを持つ。非上場で会員（信用金庫 254 行）からの出資金で構成される。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：信金中央金庫 ^[extracted]
 **英名**：Shinkin Central Bank (SCB)
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2008〜2009 | リーマンショック関連で機関投資運用損失 ^[extracted] |
 | 2024 | 中期経営計画策定 ^[ambiguous] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -69,7 +69,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外業務 | ニューヨーク・ロンドン拠点 | 海外運用・情報収集 |
 | 系統機能 | 信用金庫業界の流動性調整・余資吸収 | [[norinchukin]] と同型モデル |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 中央機関としての二重役割
 
@@ -93,7 +93,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 信用金庫経営支援、研修、調査研究（信金中央金庫 地域・中小企業研究所など）。^[inferred]
 - 信用金庫業界全体のシステミックリスク調整。^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **根拠法**: 信用金庫法
@@ -137,5 +137,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。公開情報（Wikipedia + 公式サイト + ディスクロージャー誌 + 金融庁 registry）ベースで構成。総資産規模等の数値は ^[ambiguous] 表記とし、最新値はディスクロージャー誌一次資料を要参照。協同組織ゆえ有報ベース開示が無く、メガバンクと比較して情報粒度は限定的。

@@ -3,8 +3,8 @@ title: 岩井コスモホールディングス
 aliases: ["Iwai Cosmo HD", "岩井コスモ HD", "Iwai Cosmo Holdings", "8707"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, independent]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **大阪地盤の中堅独立系証券持株会社**（東証 PRIME 8707）。1918 年 岩井宇次郎 が大阪で創業した岩井証券をルーツとし、2010-04 に旧 岩井証券と旧 コスモ証券が経営統合して**岩井コスモ証券**を発足、同月 持株会社化により 岩井コスモ HD が成立した。対面リテール中心の中堅独立証券として、関西基盤に米国株・新興国株などの海外仲介、IPO 引受、コンサルティング型営業を展開する。競合は [[aizawa-sg]] / [[okasan-sg]] / [[tokai-tokyo-fh]] / [[matsui-sec]] 等の中堅独立証券グループ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：岩井コスモホールディングス株式会社 ^[extracted]
 **英名**：Iwai Cosmo Holdings, Inc.
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 岩井コスモ管理サービス ── バックオフィス・受託業務
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 #### 旧 岩井証券（大阪系譜・1918〜2010）
 
@@ -81,7 +81,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020s 前半 | 米国株・海外株仲介 取扱拡充（ネット系競合への対抗）|
 | 2024 | 中期経営計画（中計）策定 ^[extracted] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -92,7 +92,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リサーチ | 岩井コスモ・リサーチ | 投資情報・調査レポート |
 | バックオフィス・管理 | 岩井コスモ管理サービス | 受託業務・グループ管理機能 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 基本戦略
 
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 2024 年に中期経営計画を公表 ^[extracted]。詳細な数値目標は公式 IR 資料を要参照（本ノートは Wikipedia ベース）。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）— 金融商品取引法
 - **業界団体**: 日本証券業協会（JSDA）加盟
@@ -155,5 +155,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1 Wikipedia + 公式沿革ベース 2026-05-19 整理）。中計詳細・最新業績数値・支店数等は本ノートでは未踏査。最新値は岩井コスモ HD IR 開示資料を要参照。

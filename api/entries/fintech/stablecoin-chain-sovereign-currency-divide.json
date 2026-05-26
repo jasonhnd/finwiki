@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-chain-sovereign-currency-divide.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stablecoin-chain-sovereign-currency-divide.md",
   "domain": "fintech",
-  "title": "稳定币地缘货币对立框架",
+  "title": "ステーブルコイン地政学通貨対立フレームワーク",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "稳定币地缘货币对立框架（美 / 欧 / 日 / 中 / 灰 五极格局）",
+    "title": "ステーブルコイン地政学通貨対立フレームワーク（米 / 欧 / 日 / 中 / グレーの 5 極構図）",
     "aliases": [
       "stablecoin sovereign currency divide",
       "geo-political stablecoin",
-      "五极稳定币"
+      "5 極ステーブルコイン"
     ],
     "domain": "fintech",
     "created": "2026-05-13",
-    "last_updated": "2026-05-13",
-    "last_tended": "2026-05-13",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-13",
     "confidence": "likely",
     "tags": [
@@ -37,9 +37,9 @@
       "https://www.bis.org/cpmi/publ/d215.htm"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it against 美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构（MRA 互认） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "summary": "This entry sits under fintech index. Read it against 米 / 欧 / 日 「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "稳定币地缘货币对立框架",
+    "ステーブルコイン地政学通貨対立フレームワーク",
     "Wiki route",
     "Related"
   ],
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2946,
-    "word_like_tokens": 458,
+    "nonspace_chars": 3261,
+    "word_like_tokens": 467,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

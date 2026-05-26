@@ -3,8 +3,8 @@ title: 株式会社オリエントコーポレーション (Orico)
 aliases: ["Orico", "オリコ", "オリエントコーポレーション", "Orient Corporation", "Orient Corp.", "株式会社オリエントコーポレーション"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, credit-card, installment]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **[[mizuho-fg]] 系・伊藤忠商事系の国内大手信販**。1954-12-22 広島で「廣島総合信用」として設立、1962 にオリエントファイナンス、2001 に現社名へ改称。**自動車ローン (オートローン) 国内最大手**を背骨に、ショッピングクレジット・クレジットカード (Orico Card 各種)・カードローン・法人ファイナンス・不動産担保ローンを展開。2005-12 経営再建で [[mizuho-fg]] (旧興銀系) + 伊藤忠商事 + KDDI 等の優先株注入を受け、現在は **みずほ FG の持分法適用関連会社 + 伊藤忠商事**が主要株主の枠組み。東証 PRIME 8585。競合は [[jaccs]] / クレディセゾン / 三井住友カード ([[smfg]] 系) / 三菱 UFJ ニコス ([[mufg]] 系) / イオン系 [[aeon-bank]]。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社オリエントコーポレーション ^[extracted]
 **英名**：Orient Corporation ^[extracted]
@@ -88,7 +88,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020 年代 | デジタル化・キャッシュレス対応強化、Orico Card デジタル化 |
 | **2024** | **中期経営計画 公表** (公開情報ベース) ^[extracted] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 備考 |
 |---|---|---|
@@ -101,7 +101,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **不動産担保ローン** | 個人・小規模法人向け不動産担保融資 | バブル後縮小局面を経て継続 |
 | **海外事業** | アジア (インドネシア・タイ・ベトナム等) の自動車・二輪ファイナンス | 現地販社経由 |
 
-## 3. 戦略与競争
+## 3. 戦略・競争
 
 ### コア差別化
 
@@ -133,7 +133,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Orico Card THE POINT**: 高還元率プロパーカードでの個人客獲得
 - **テレビ CM・スポーツ協賛**: 一般消費者向けブランド露出は競合大手 (楽天 / 三井住友) 比で控えめ ^[inferred]
 
-## 4. 監管与政策
+## 4. 規制・政策
 
 - **主管**: 経済産業省 (割賦販売法所管) + 金融庁 (貸金業法・資金決済法等)
 - **主要根拠法**: 割賦販売法 (個品割賦・包括信用購入あっせん)、貸金業法 (カードローン・カードキャッシング)、資金決済法
@@ -182,5 +182,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (Wikipedia + Orico 公式公開情報ベース、2026-05-19 参照)。設立 (1954)・改称 (1962 / 2001)・上場 (1971)・経営再建枠組み (2005-12 みずほ + 伊藤忠 + KDDI 優先株)・自動車ローン国内 No.1 等の重要事実は公開情報で検証可能。主要株主の正確な持株比率・連結子会社の最新範囲・2024 中計の数値目標は有価証券報告書 / IR 公表資料を要参照。

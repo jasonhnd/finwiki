@@ -20,8 +20,8 @@
     ],
     "domain": "manufacturing",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -51,7 +51,7 @@
     "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)",
     "Wiki route",
     "TL;DR",
-    "1. 公司結構と金融部門の位置",
+    "1. 会社構造と金融部門の位置",
     "金融組成の位置 (プログラム別)",
     "2. 製品 / 事業ライン × 輸出金融組成パターン",
     "主要プログラム (2024-2026)",
@@ -103,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7234,
+    "nonspace_chars": 7237,
     "word_like_tokens": 1054,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/pectra-upgrade-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/pectra-upgrade-overview.md",
   "domain": "systems",
-  "title": "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+  "title": "Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+    "title": "Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧",
     "aliases": [
       "pectra-upgrade-overview",
       "pectra",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Ethereum Pectra 升级 · 四 EIP 双轨战略总览",
+    "Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2477,
-    "word_like_tokens": 455,
+    "nonspace_chars": 2798,
+    "word_like_tokens": 463,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

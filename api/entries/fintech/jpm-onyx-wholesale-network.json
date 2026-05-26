@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jpm-onyx-wholesale-network.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/jpm-onyx-wholesale-network.md",
   "domain": "fintech",
-  "title": "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+  "title": "JPMorgan Onyx / Kinexys · 銀行内部ホールセール・ネットワーク · Liink × JPM Coin × Onyx Digital Assets",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+    "title": "JPMorgan Onyx / Kinexys · 銀行内部ホールセール・ネットワーク · Liink × JPM Coin × Onyx Digital Assets",
     "aliases": [
       "jpm-onyx-wholesale-network",
       "JPM Onyx",
@@ -21,8 +21,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "certain",
     "tags": [
@@ -47,7 +47,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with JPMorgan JPMD for the retail-deposit-token sibling product, and with Fnality / Partior for the multi-bank consortium contrast that Onyx-Kinexys deliberately rejects.",
   "headings": [
-    "JPMorgan Onyx / Kinexys · 银行内部批发网络 · Liink × JPM Coin × Onyx Digital Assets",
+    "JPMorgan Onyx / Kinexys · 銀行内部ホールセール・ネットワーク · Liink × JPM Coin × Onyx Digital Assets",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5607,
-    "word_like_tokens": 956,
+    "nonspace_chars": 6028,
+    "word_like_tokens": 928,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

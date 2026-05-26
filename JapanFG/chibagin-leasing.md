@@ -3,8 +3,8 @@ title: "ちばぎんリース (Chibagin Leasing)"
 aliases: ["Chibagin Leasing", "ちばぎんリース", "千葉銀リース", "株式会社ちばぎんリース", "Chiba Bank Leasing"]
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, chiba-bank, leasing, kanto, chiba, operating-company]
@@ -26,7 +26,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 株式会社ちばぎんリースは、[[chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系リース会社で、千葉県・首都圏東部を地盤に**設備リース・ファイナンスリース・オペレーティングリース・自治体リース・医療リース・ファクタリング・オートリース**等を提供。地銀系リース上位の一角で、千葉銀の千葉県内シェア No.1 + 預金 18-20 兆円規模の中堅企業 main bank 顧客基盤を背景とする。**親 [[chiba-bank]] が持株会社化していない単独銀行 (no-holding model)** のため、ちばぎんリースは銀行本体直下にぶら下がる構造で、[[mebuki-lease]] (持株会社下) や [[yokohama-bank-leasing]] (銀行連結子会社) とは法的位置が異なる。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -130,7 +130,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - 強み: [[chiba-bank]] 千葉県シェア No.1 + 預金 18-20 兆円顧客基盤 + 京葉工業地帯製造業集積 + 成田空港 / 千葉港物流ハブ
 - 弱み: 単独規模では大手リースに大幅劣後、航空機 / 不動産 / 海外複雑リースは対応困難、千葉県集中 = 人口減少リスク ^[inferred]
 
-## 5. 监管与会计
+## 5. 規制・会計
 
 ### 規制枠組み
 

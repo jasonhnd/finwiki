@@ -1,12 +1,12 @@
 ---
-title: 日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照
+title: 日本 ECISB ライセンス —— 「資金に触れない取引ルーティング仲介」専用の軽量ライセンス
 aliases: []
 domain: fintech
 kind: knowledge
 topic: japan-ecisb-license
 created: 2026-04-18
-last_updated: 2026-05-03
-last_tended: 2026-05-05
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-10-30
 confidence: likely
 tags: [fintech, needs-verification]
@@ -17,10 +17,10 @@ sources:
   - https://www.fsa.go.jp/common/law/index.html
   - https://www.fsa.go.jp/en/news/
   - https://elaws.e-gov.go.jp/document?lawid=421AC0000000059
-note: 2026-06 全面施行日期为会话中推测，未经官方来源确认
+note: 2026-06 全面施行日付は会話中の推測であり、公式ソースで未確認
 ---
 
-# 日本 ECISB 牌照
+# 日本 ECISB ライセンス
 
 
 ## Wiki route
@@ -28,63 +28,63 @@ note: 2026-06 全面施行日期为会话中推测，未经官方来源确认
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> ⚠️ **待核实**：2026 年 6 月施行日期为会话讨论中的推测，尚未经金融庁/資金決済法改正公告的官方来源核验。使用前需先查証。
+> ⚠️ **未検証**:2026 年 6 月の施行日付は会話中の議論での推測であり、金融庁/資金決済法改正公告の公式ソースで未確認。利用前に確認要。
 
-2025 年 6 月通过、**2026 年 6 月全面施行（待核实）**的《资金結算法》修正案引入了"電子支払手段及び暗号資産仲介業"（ECISB）牌照。
+2025 年 6 月に成立、**2026 年 6 月に全面施行(未検証)**される「資金決済法」改正案により、「電子支払手段及び暗号資産仲介業」(ECISB)ライセンスが導入された。
 
-## 定位
+## 位置づけ
 
 
-## 红线
+## レッドライン
 
-**绝对禁止接收或托管用户资金。** 如果业务涉及用户资金的暂存（哪怕是轧差过程中的临时池），就越过红线，需要全牌照。
+**利用者資金の受入・カストディは絶対禁止。** 業務が利用者資金の一時的保管(ネッティング過程の暫定プール含む)に関与する場合はレッドラインを越えており、フルライセンスが必要となる。
 
-## 核心义务
+## コア義務
 
-- 信息安全管理
-- 委外监督
-- 用户保护
-- 不碰用户资金
+- 情報セキュリティ管理
+- 委託先監督
+- 利用者保護
+- 利用者資金に触れない
 
-## AML 义务
+## AML 義務
 
-ECISBO 不需要承担《犯罪収益移転防止法》（APTCP）下的直接 KYC/AML 义务。这些责任由"所属方"（Affiliated 的主牌照持有方，如 EPIESP 或银行）承担。日本 VASP 监管全景见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]]。
+ECISBO は「犯罪収益移転防止法」(APTCP)上の直接的 KYC/AML 義務を負わない。これらの責任は「所属方」(EPIESP や銀行等のメインライセンス保有者)が負う。日本 VASP 規制の全景は [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 規制タイムテーブル]] を参照。
 
-## 申请流程与时间线
+## 申請プロセスとタイムライン
 
-1. **事前商谈**（3-4 个月）：差距分析 + 業務モデル審査
-2. **正式面接**：文件審査
-3. **提出申請**
+1. **事前面談**(3-4 か月):ギャップ分析 + 業務モデル審査
+2. **正式面接**:文書審査
+3. **正式申請**
 
-### 時間線桥接
+### タイムライン・ブリッジ
 
-| 时间节点 | 行动 |
+| 時点 | アクション |
 |---------|------|
-| 2026 Q2 | 法案全面施行（6 月）。同时启动 ECISB 预研 |
-| 2026 Q2-Q3 | 事前商谈（3-4 个月） |
-| 2026 Q3-Q4 | 正式申请 |
-| 2027 Q1 | 目标取得 |
+| 2026 Q2 | 法案全面施行(6 月)。同時に ECISB 事前調査を開始 |
+| 2026 Q2-Q3 | 事前面談(3-4 か月) |
+| 2026 Q3-Q4 | 正式申請 |
+| 2027 Q1 | 取得目標 |
 
-截至 2026 年 4 月，尚无成功案例（法案 2026 年 6 月才全面生效）。首批拿到 = 先发合规优势。
+2026 年 4 月時点で成功事例なし(法案は 2026 年 6 月の全面施行を待つ)。最初の取得 = 先行コンプラ・アドバンテージ。
 
-## 与決済系应用的适配
+## 決済系アプリへの適合
 
-非托管決済系应用的三层适配：
+ノンカストディアル決済系アプリの 3 層適合:
 
-1. **Gateway**（收款接入）：只构造未签名交易指令，不碰资金 → ECISB 信息路由范畴
-2. **Clearing**（清算）：汇总账单、计算轧差净额、生成智能合约调用指令，由 self-custody 钱包签名结算 → ECISB 信息路由范畴
+1. **Gateway**(集金接続):未署名の取引指示のみを構築し、資金には触れない → ECISB 情報ルーティングの範疇
+2. **Clearing**(清算):請求書集計、ネット差引額の計算、スマートコントラクト呼出指示の生成、self-custody ウォレットの署名で決済 → ECISB 情報ルーティングの範疇
 
-self-custody 原则（不碰私钥、不托管资金）不仅是设计理念，是使用 ECISB 轻量牌照的先决条件。
+self-custody 原則(秘密鍵に触れず、資金をカストディしない)は設計理念であるだけでなく、ECISB 軽量ライセンスを使用するための前提条件である。
 
-## 所属方要求
+## 所属方要件
 
-ECISBO 需要一个持有 EPIESP 或 CAESP 牌照的主牌照方作为"所属方"。
+ECISBO は EPIESP または CAESP ライセンスを保有する主体を「所属方」として必要とする。
 
-**候选：持牌 CEX**（持有暗号資産交換業登録的持牌交易所均具备 CAESP 资质，满足所属方条件）— 详细登録制度见 [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]、自律規則は [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概览]]。日本牌照体系総合索引 [[JapanFG/legal-financial-licenses/INDEX|日本金融牌照索引]]。
+**候補:登録 CEX**(暗号資産交換業登録を保有する登録交易所は CAESP 資格を備え、所属方条件を満たす)— 詳細な登録制度は [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]] を、自律規則は [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]] を参照。日本ライセンス体系の総合インデックス [[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス・インデックス]]。
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/usd-stablecoin-interchange|USD 稳定币互换市场——$33 万亿轨道上的 0.01% 生意]]
+- [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互換市場 —— $33 兆軌道上の 0.01% ビジネス]]
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]
 <!-- /wiki-links:managed -->

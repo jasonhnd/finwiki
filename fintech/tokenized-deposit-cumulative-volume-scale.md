@@ -1,10 +1,10 @@
 ---
-title: 代币化存款累计交易规模模式 · Kinexys $1.5T 作为银行存款代币赛道锚
-aliases: [tokenized deposit cumulative volume scale, $1.5T Kinexys cumulative, JPMD volume anchor, 代币化存款规模模式]
+title: トークン化預金累計取引規模パターン · Kinexys $1.5T を銀行預金トークンセクターのアンカーとして
+aliases: [tokenized deposit cumulative volume scale, $1.5T Kinexys cumulative, JPMD volume anchor, トークン化預金規模パターン]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, number, economic-pattern, tokenized-deposit, kinexys, jpmd, jpmorgan, institutional-only]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 代币化存款累计交易规模模式 · Kinexys $1.5T 作为银行存款代币赛道锚
+# トークン化預金累計取引規模パターン · Kinexys $1.5T を銀行預金トークンセクターのアンカーとして
 
 
 ## Wiki route
@@ -25,54 +25,54 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 银行存款代币(deposit token)赛道与稳定币赛道是**两个互不重叠的市场**。Kinexys (JPMD) 累计交易额 $1.5T(2026-05) · 日均 $5B+ · **100% 机构客户** —— 这一规模不可与 USDC / USDT 的累计流量直接比较,因为客户层、监管层、清算层完全不同。$1.5T 是衡量"代币化存款赛道渗透率"的核心锚 —— 第二大数字美元基础设施,但服务对象是 80 家全球机构(包括 6 家央行),不是零售/DeFi 用户。
+> 銀行預金トークン（deposit token）セクターとステーブルコインセクターは**相互に重なり合わない 2 つの市場**である。Kinexys（JPMD）累計取引額 $1.5T（2026-05）· 日平均 $5B+ · **100% 機関顧客** —— この規模を USDC / USDT の累計フローと直接比較することはできない。なぜなら顧客層、規制層、清算層が完全に異なるからである。$1.5T は「トークン化預金セクター浸透率」を測る中核アンカー —— 2 番目のデジタル USD インフラだが、サービス対象は 80 のグローバル機関（6 中央銀行を含む）であり、リテール / DeFi ユーザーではない。
 
 ## Key facts
 
-- Kinexys 累计交易额 $1.5T(自 2019 启动),日均 $5B+,月均 $150B+ ^[extracted]
-- 客户 100% 机构 · ~80 家(含 Visa / Mastercard / Ant / 6 家央行) ^[extracted]
-- JPMD = JPM Deposit Token(EUR/USD/GBP) · 走 OCC US National Bank Charter,**不属于 §501 稳定币** ^[extracted]
-- 全球数字美元基础设施排名(累计): USDT $20T+(零售/灰区) > Kinexys $1.5T(机构) > USDC $1.2T(混合) ^[extracted]
-- 2026-04 JPMD 在 Coinbase Base 公链上线 = 银行存款代币 ↔ 稳定币赛道首次桥接 ^[extracted]
+- Kinexys 累計取引額 $1.5T（2019 開始以来）、日平均 $5B+、月平均 $150B+ ^[extracted]
+- 顧客 100% 機関 · ~80 社（Visa / Mastercard / Ant / 6 中央銀行を含む）^[extracted]
+- JPMD = JPM Deposit Token（EUR/USD/GBP）· OCC US National Bank Charter を辿る、**§501 ステーブルコインに該当しない** ^[extracted]
+- グローバルデジタル USD インフラランキング（累計）：USDT $20T+（リテール/グレーゾーン）> Kinexys $1.5T（機関）> USDC $1.2T（ミックス）^[extracted]
+- 2026-04 JPMD が Coinbase Base 公開チェーンに上線 = 銀行預金トークン ↔ ステーブルコインセクターの初のブリッジ ^[extracted]
 
 ## Mechanism / How it works
 
-存款代币 vs 稳定币 = 两个监管赛道、两个客户层:
+預金トークン vs ステーブルコイン = 2 つの規制セクター、2 つの顧客層：
 
 ```
-                  稳定币(§501)               银行存款代币
+                  ステーブルコイン(§501)        銀行預金トークン
                   ─────────────                ─────────────────────
-发行人            Circle / Stripe / Tether    JPMorgan / Citi / BNY
-储备              国债 / 现金                  银行存款(FDIC 保护)
-监管              GENIUS §501 / MiCA           OCC bank charter / Reg E
-客户              零售 + 机构 + DeFi           机构 only
-利息              不允许付持有人               允许(银行存款利息)
+発行体            Circle / Stripe / Tether    JPMorgan / Citi / BNY
+準備金            国債 / 現金                  銀行預金（FDIC 保護）
+規制              GENIUS §501 / MiCA           OCC bank charter / Reg E
+顧客              リテール + 機関 + DeFi       機関のみ
+利息              保有者への支払い不可         可（銀行預金利息）
 代表              USDC / USDT / USDB           JPMD (Kinexys) / Citi TS
 ```
 
-JPMorgan 用 deposit token 绕开 §501 的"100% 国债 + 不许付利息"约束:JPMD 持有人本质是 JPM 储户,享受银行存款利息 + FDIC 保护。Kinexys $1.5T 数字证明 institutional-only 赛道的真实规模,且未来 5 年仍是银行(JPM / Citi / BNY)联合主导而非加密原生公司。
+JPMorgan は deposit token を使用して §501 の「100% 国債 + 利息支払い不可」制約を回避：JPMD 保有者は本質的に JPM 預金者であり、銀行預金利息 + FDIC 保護を享受する。Kinexys $1.5T 数字は institutional-only セクターの実規模を証明し、今後 5 年も銀行（JPM / Citi / BNY）が連合で主導し、暗号ネイティブ企業ではない。
 
 ## Origin & evolution
 
-2019 JPM Coin 启动(Onyx Coin System 私链 / Quorum 分支) · 2024 重命名 Kinexys · 2025-12 客户数达 80 家 · 2026-04 [[fintech/jpmorgan-jpmd-coin|JPMD]] 上线 Coinbase Base 公链(首次公链桥接) · 与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 形成**代币化资产基础设施双核** —— BlackRock 走中立军火商(BUIDL 卖给所有 SC issuer),JPMorgan 走闭环银行(JPMD 服务 JPM 客户)。
+2019 JPM Coin 始動（Onyx Coin System プライベートチェーン / Quorum 派生）· 2024 Kinexys へ改名 · 2025-12 顧客数 80 社到達 · 2026-04 [[fintech/jpmorgan-jpmd-coin|JPMD]] が Coinbase Base 公開チェーンへ上線（公開チェーンへの初ブリッジ）· [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] と**トークン化資産インフラのデュアルコア**を形成 —— BlackRock は中立武器商人路線（BUIDL を全 SC issuer に販売）、JPMorgan はクローズドループ銀行路線（JPMD は JPM 顧客へサービス）。
 
 ## Counterpoints
 
-$1.5T 累计 / 日均 $5B 数字来自 JPMorgan 自报 · 第三方独立验证有限。Kinexys 私链(Quorum)对外可观察性低,日均 $5B 可能含相当比例"内部 netting"(JPM 内部账户调账)而非真正跨机构清算。与 [[fintech/tether-business-model-short-treasury-yield|USDT]] $20T+ 直接比较有误导性 —— 灰区流量与机构清算量级不可同等比较。Citi Token Services 等竞品快速扩张,Kinexys "第二"位置在 2027-2028 可能被超越,同样的多巨行竞合见 [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]]。
+$1.5T 累計 / 日平均 $5B 数字は JPMorgan 自社報告 · 第三者独立検証は限定的。Kinexys プライベートチェーン（Quorum）の対外的観察性は低く、日平均 $5B の相当割合が「内部 netting」（JPM 内部口座振替）で真のクロス機関清算ではない可能性。[[fintech/tether-business-model-short-treasury-yield|USDT]] $20T+ との直接比較は誤誘導 —— グレーゾーンフローと機関清算規模は同等比較できない。Citi Token Services 等の競合が急速拡張、Kinexys「2 位」位置は 2027-2028 に超えられる可能性。同様の複数メガバンク競争 / 協業は [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]] 参照。
 
 ## Open questions
 
-Kinexys $1.5T 中真正"跨机构清算"vs"JPM 内部 netting"的比例?JPMD 在 Base 公链上的链上可观察流量与私链流量的真实分布?Citi Token Services / BNY Mellon deposit token 累计规模(未公开)?$130B 三圆 MRA 与 deposit token 赛道的潜在桥接(JPMD 是否会接入三圆 MRA 互认)?
+Kinexys $1.5T のうち真の「クロス機関清算」vs「JPM 内部 netting」の比率は？JPMD の Base 公開チェーン上のオンチェーン観察可能フローとプライベートチェーンフローの真の分布は？Citi Token Services / BNY Mellon deposit token 累計規模（非公開）は？$130B 三円 MRA と deposit token セクターの潜在的ブリッジ（JPMD は三円 MRA 相互認証に接続するか）？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|机关投资家 SC = 预金トークン thesis]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币分润经济学]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密原生分离]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家 SC = 預金トークン thesis]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン分配経済学]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号ネイティブの分離]]
 - [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- JPMorgan Kinexys 2025 公开披露 · OCC bank charter 监管文件
+- JPMorgan Kinexys 2025 公的開示 · OCC bank charter 規制文書

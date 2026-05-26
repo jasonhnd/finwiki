@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/paypal-pyusd-stablecoin.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/paypal-pyusd-stablecoin.md",
   "domain": "fintech",
-  "title": "PayPal PYUSD · 顶级支付公司首次品牌化的稳定币 · Solana 主战场",
+  "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "PayPal PYUSD · 顶级支付公司首次品牌化的稳定币 · Solana 主战场",
+    "title": "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
     "aliases": [
       "paypal-pyusd-stablecoin",
       "PYUSD",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -40,7 +40,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "PayPal PYUSD · 顶级支付公司首次品牌化的稳定币 · Solana 主战场",
+    "PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3346,
-    "word_like_tokens": 570,
+    "nonspace_chars": 3743,
+    "word_like_tokens": 575,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

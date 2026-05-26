@@ -1,12 +1,12 @@
 ---
-title: 4 类动机不对称分析 —— 不是 7 阵营对称竞争
-aliases: [4 motive classes, asymmetric competition, 不对称博弈, 玩家动机分类]
+title: 4 動機クラスの非対称分析 —— 7 陣営の対称競争ではない
+aliases: [4 motive classes, asymmetric competition, 非対称ゲーミング, プレイヤー動機分類]
 domain: fintech
 kind: framework
 topic: four-motive-classes-asymmetric-competition
 created: 2026-05-16
-last_updated: 2026-05-16
-last_tended: 2026-05-16
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: certain
 tags: [fintech, game-theory, stablecoin, competition-analysis, motive-mapping]
@@ -19,7 +19,7 @@ sources:
   - https://www.imf.org/en/Topics/fintech
 ---
 
-# 4 类动机不对称分析
+# 4 動機クラスの非対称分析
 
 
 ## Wiki route
@@ -27,113 +27,113 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> 通用做法是把市场参与者分为"竞争阵营"（如某金融グループ deck 的 7 阵营、本调研 v1 的 5 极）。这隐含**对称竞争**假设。**实际上玩家有 4 种结构性动机**，对应**完全不同的退出博弈**。理解动机分类才能预测各玩家在压力下的行为。
+> 通用的な手法は市場参加者を「競争陣営」に分類すること(ある金融グループの deck の 7 陣営、本調査 v1 の 5 極など)。これは**対称競争**仮定を暗黙に含む。**実際にはプレイヤーには 4 種類の構造的動機**があり、**全く異なる撤退ゲーム**に対応する。動機分類を理解しなければ、各プレイヤーが圧力下でどう行動するか予測できない。
 
-## 4 类动机
+## 4 動機クラス
 
-### 类 1：被困赢家（Locked-in Winners）
+### クラス 1:詰まれた勝者(Locked-in Winners)
 
-**特征**：没有其它业务模式可退，必须赢或死。
+**特徴**:他のビジネスモデルに退避できず、勝つか死ぬか。
 
-**例子**：
-- Circle（USDC 是其唯一产品线）
-- [[fintech/tether-business-model-short-treasury-yield|Tether]]（USDT 是其唯一产品线）
-- Paxos（[[fintech/paypal-pyusd-stablecoin|PYUSD]] / USAT / 各 SC 发行）
-- Stripe（垂直整合赌注全在 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Bridge + Tempo + Privy]]）
-- Coinbase（Base + USDC 协议 + Prime 是其核心收入）
-- 稳定币 L1 / L2 链
+**例**:
+- Circle(USDC が唯一のプロダクトライン)
+- [[fintech/tether-business-model-short-treasury-yield|Tether]](USDT が唯一のプロダクトライン)
+- Paxos([[fintech/paypal-pyusd-stablecoin|PYUSD]] / USAT / 各 SC 発行)
+- Stripe(垂直統合の賭けは全て [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Bridge + Tempo + Privy]])
+- Coinbase(Base + USDC 契約 + Prime がコア収益)
+- ステーブルコイン L1 / L2 チェーン
 
-**压力下行为**：会**接受高风险** + 主动并购 + 监管套利。
+**圧力下行動**:**高リスクを受け入れる** + 能動的買収 + 規制アービトラージを行う。
 
-### 类 2：组合赢家（Portfolio Winners）
+### クラス 2:ポートフォリオ勝者(Portfolio Winners)
 
-**特征**：投资多家，赢任一家就赢，分散风险。
+**特徴**:多数に投資し、いずれかが勝てば勝ち、リスク分散。
 
-**例子**：
-- a16z crypto（Arc $75M lead + 投多家其他 SC / 链项目）
-- BlackRock（投 Arc + [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] on 8 chains + 投 Tempo）
-- Apollo（投 Arc + [[fintech/apollo-acred-private-credit-tokenization|ACRED]] on 6 chains）
-- SBI Holdings（投 Circle + 持 [[JapanFG/jpyc|JPYC]] + 持 SBI Circle Holdings 50% + 多家其他）
-- Mubadala（投 Arc + 中东 RWA 基金）
-- Visa（投 Arc + Tempo validator + 接受所有 SC + 不发自己 SC）
-- Mastercard（同 Visa 但晚）
+**例**:
+- a16z crypto(Arc $75M リード + 他多数の SC / チェーンプロジェクトに投資)
+- BlackRock(Arc 投資 + 8 チェーン上の [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] + Tempo 投資)
+- Apollo(Arc 投資 + 6 チェーン上の [[fintech/apollo-acred-private-credit-tokenization|ACRED]])
+- SBI Holdings(Circle 投資 + [[JapanFG/jpyc|JPYC]] 保有 + SBI Circle Holdings 50% 保有 + 他多数)
+- Mubadala(Arc + 中東 RWA ファンド投資)
+- Visa(Arc 投資 + Tempo validator + 全 SC 受入 + 自社 SC 非発行)
+- Mastercard(Visa 同様だが時期は遅い)
 
-**压力下行为**：会**保持多元化** + 不会单方面破局 + 接受 fragmentation persistent 结局。
+**圧力下行動**:**多元化を維持** + 一方的に打開しない + fragmentation persistent の結末を受け入れる。
 
-参见：[[portfolio-winner-structure-arm-analog|组合赢家结构 / ARM 类比]]
+参照:[[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
 
-### 类 3：基础设施赢家（Infrastructure Winners）
+### クラス 3:インフラ勝者(Infrastructure Winners)
 
-**特征**：churn 本身就是收入，卖给所有交战方。
+**特徴**:churn 自体が収益、全交戦側に販売。
 
-**例子**：
-- AWS / Azure / GCP（云基础设施）
-- Cloudflare（x402、AP2、AI 推理代理）
-- Anchorage（OCC charter 即服务，给 20 家 SC 发行白标）
-- Bridge（OCC charter 即服务）
-- Chainalysis / TRM Labs / Elliptic（链上合规即服务）
-- FIDO Alliance / Linux Foundation AAIF（协议标准化即治理）
-- AT&T / Verizon（电信 KYC 即服务，亚洲为强）
+**例**:
+- AWS / Azure / GCP(クラウドインフラ)
+- Cloudflare(x402、AP2、AI 推論エージェント)
+- Anchorage(OCC charter as a service、20 社の SC 発行体にホワイトラベル提供)
+- Bridge(OCC charter as a service)
+- Chainalysis / TRM Labs / Elliptic(オンチェーンコンプライアンス as a service)
+- FIDO Alliance / Linux Foundation AAIF(プロトコル標準化 as ガバナンス)
+- AT&T / Verizon(電信 KYC as a service、アジアで強い)
 
-**压力下行为**：**乐见 fragmentation 持续** —— 越多玩家越多收入。
+**圧力下行動**:**fragmentation 持続を喜ぶ** —— プレイヤーが多いほど収益が増える。
 
-### 类 4：主权协调者（Sovereign Coordinators）
+### クラス 4:主権コーディネーター(Sovereign Coordinators)
 
-**特征**：不参与商业竞争，按政治逻辑运作。
+**特徴**:商業競争に参加せず、政治論理で動く。
 
-**例子**：
-- BIS Project Agorá（7 中銀 + 40 商业行）
-- mBridge（中国主导 + UAE / 泰国 / HK）
-- Project Nexus（5 新兴国，2026 商用）
-- 各国央行（PBoC, ECB, BoJ, Fed, RBI, MAS, HKMA, VARA）
-- FATF（全球 AML/CFT 框架）
-- IMF / 世行（系统稳定）
+**例**:
+- BIS Project Agorá(7 中銀 + 40 商業銀行)
+- mBridge(中国主導 + UAE / タイ / HK)
+- Project Nexus(5 新興国、2026 商用)
+- 各国中銀(PBoC, ECB, BoJ, Fed, RBI, MAS, HKMA, VARA)
+- FATF(グローバル AML/CFT フレーム)
+- IMF / 世銀(システム安定)
 
-**压力下行为**：**按政治时间表移动**（缓慢但不可逆）+ 不接受商业逻辑套利。
+**圧力下行動**:**政治時間軸で移動**(緩慢だが不可逆)+ 商業論理のアービトラージを受け入れない。
 
-## 为什么这个分类比"7 阵营"更有用
+## なぜこの分類が「7 陣営」より有用なのか
 
-某金融グループ deck 的"7 阵营"分类：民间 vs 中銀コンソーシアム / 銀行单独 DLT / 中国国家垂直 / 新兴国 IPS / M&A / 大型科技 / 等等。
+ある金融グループの deck の「7 陣営」分類:民間 vs 中銀コンソーシアム / 銀行単独 DLT / 中国国家垂直 / 新興国 IPS / M&A / 大型テック / 等。
 
-**问题**：把 a16z（投资人）和 Coinbase（运营商）放同一维度，把 Visa（卡网络）和 PayPal（钱包）放同一维度。但**它们在压力下的行为完全不同**：
-- a16z 不会"卖掉" 持仓换取 Coinbase 帮助 → 是组合赢家
-- Coinbase 在 2026-08 Circle 协议压力下**必须**反制 → 是被困赢家
-- Visa 不会单边支持任何一方 → 是组合赢家
-- PayPal 在 PYUSD 上有 4× 增长率压力 → 是被困赢家
+**問題**:a16z(投資家)と Coinbase(運営者)を同次元に置き、Visa(カードネットワーク)と PayPal(ウォレット)を同次元に置く。**だが圧力下での行動は完全に異なる**:
+- a16z は持分を「売却」して Coinbase の支援と交換しない → ポートフォリオ勝者
+- Coinbase は 2026-08 の Circle 契約圧力下で**必ず**反撃する → 詰まれた勝者
+- Visa はいずれかを片務的に支持しない → ポートフォリオ勝者
+- PayPal は PYUSD 上で 4× 成長率の圧力下にある → 詰まれた勝者
 
-**4 类动机让你预测**：
-- 谁会**主动加剧**冲突？被困赢家
-- 谁会**主动调停**冲突？组合赢家 + 基础设施赢家
-- 谁会**忽略**冲突？主权协调者（除非政治需要介入）
+**4 動機クラスにより予測可能**:
+- 誰が**能動的に**衝突を激化させるか?詰まれた勝者
+- 誰が**能動的に**衝突を調停するか?ポートフォリオ勝者 + インフラ勝者
+- 誰が衝突を**無視**するか?主権コーディネーター(政治的に介入が必要な場合を除く)
 
-## 应用模板
+## 応用テンプレート
 
-**分析任一市场结构性事件**：
+**任意の市場構造的イベントを分析**:
 
-1. 列出所有主要玩家
-2. 按 4 类动机分类
-3. 识别每类的"压力下行为"
-4. 推断**压力放大** → 谁主动? 谁被动? 谁离场?
+1. 全主要プレイヤーをリスト化
+2. 4 動機クラスに分類
+3. 各クラスの「圧力下行動」を識別
+4. **圧力増幅 → 誰が能動的か? 誰が受動的か? 誰が退場するか?** を推論
 
-**典型应用 1：稳定币战争**
-- 被困赢家（5-7 家）：硬拼
-- 组合赢家（8-10 家）：分散投资
-- 基础设施赢家（5-7 家）：卖工具
-- 主权协调者（10+ 家）：监管+CBDC
+**典型応用 1:ステーブルコイン戦争**
+- 詰まれた勝者(5-7 社):正面衝突
+- ポートフォリオ勝者(8-10 社):分散投資
+- インフラ勝者(5-7 社):ツール販売
+- 主権コーディネーター(10+ 機関):規制 + CBDC
 
-**典型应用 2：2008 全球金融危机**
-- 被困赢家：Lehman、Bear Stearns（被迫破产/收购）
-- 组合赢家：Goldman、JPMorgan（多元收益结构幸存）
-- 基础设施赢家：BlackRock（接管不良资产）、ICE（接管 NYSE 结构性强化）
-- 主权协调者：Fed、TARP、IMF（系统性干预）
+**典型応用 2:2008 グローバル金融危機**
+- 詰まれた勝者:Lehman、Bear Stearns(強制破綻 / 買収)
+- ポートフォリオ勝者:Goldman、JPMorgan(多元収益構造で生存)
+- インフラ勝者:BlackRock(不良資産を引取)、ICE(NYSE 引取で構造強化)
+- 主権コーディネーター:Fed、TARP、IMF(システミック介入)
 
-**4 类动机分类法可推广至任何金融基础设施重组事件**。
+**4 動機クラス分類法は、あらゆる金融インフラ再編イベントに拡張可能**。
 
-## 关联
+## 関連
 
-- [[wall-street-crypto-network-neutrality|Wall Street 网络中立]]
-- [[portfolio-winner-structure-arm-analog|组合赢家结构]]
-- [[central-banking-function-unbundling|央行职能解体五层]]
+- [[wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
+- [[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
+- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
 
 ---
 

@@ -19,8 +19,8 @@
     ],
     "domain": "manufacturing",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -48,7 +48,7 @@
     "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
     "Wiki route",
     "TL;DR",
-    "1. 公司結構と製造業視点",
+    "1. 会社構造と製造業視点",
     "製造業視点のグループ構造",
     "Toyota Motor 本体との関係",
     "2. 製品 / 事業ライン × 製造業視点での意義",
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7706,
+    "nonspace_chars": 7709,
     "word_like_tokens": 1108,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

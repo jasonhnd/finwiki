@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,11 +41,11 @@
     "メットライフ生命保険 (MetLife Japan)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "親会社 MetLife, Inc.（米）参考スペック ^[extracted]",
     "2. 重要歴史（年表）",
     "旧アリコジャパン期の業界的位置 ^[inferred]",
-    "3. 戦略与竞争",
+    "3. 戦略・競争",
     "商品戦略",
     "チャネル戦略（3 チャネル並走モデル）"
   ],
@@ -92,6 +92,6 @@
     "nonspace_chars": 5724,
     "word_like_tokens": 769,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

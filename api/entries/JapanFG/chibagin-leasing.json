@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -45,7 +45,7 @@
     "ちばぎんリース (Chibagin Leasing)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "持株ツリー (千葉銀グループ簡略図)",
     "2. 業務ラインと収益構造",
     "主要業務ライン",
@@ -140,6 +140,6 @@
     "nonspace_chars": 8582,
     "word_like_tokens": 1118,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

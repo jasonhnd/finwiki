@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/circle-usdc-stablecoin.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/circle-usdc-stablecoin.md",
   "domain": "fintech",
-  "title": "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+  "title": "Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+    "title": "Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック",
     "aliases": [
       "circle-usdc-stablecoin",
       "USDC",
@@ -19,8 +19,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "certain",
     "tags": [
@@ -46,9 +46,9 @@
       "https://www.bnymellon.com/us/en/insights/all-insights/circle-reserve-fund.html"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with PayPal PYUSD and Tether USDT 经济学 for the white-circle / grey-circle contrast, and with GENIUS Act §501 for the regulatory frame in which USDC has become the de facto white-circle benchmark.",
+  "summary": "This entry sits under fintech index. Read it with PayPal PYUSD and Tether USDT エコノミクス for the white-circle / grey-circle contrast, and with GENIUS Act §501 for the regulatory frame in which USDC has become the de facto white-circle benchmark.",
   "headings": [
-    "Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁",
+    "Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6026,
-    "word_like_tokens": 1064,
+    "nonspace_chars": 6716,
+    "word_like_tokens": 1092,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

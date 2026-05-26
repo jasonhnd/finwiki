@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ap2-technical-spec.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ap2-technical-spec.md",
   "domain": "agent-economy",
-  "title": "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+  "title": "AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+    "title": "AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter",
     "aliases": [
       "ap2-technical-spec",
       "ap2-mandate-intent-settlement",
@@ -17,8 +17,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -31,9 +31,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against AP2 · Google Agent Payments Protocol 概览 for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against AP2 · Google Agent Payments Protocol 概観 for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
-    "AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter",
+    "AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2629,
-    "word_like_tokens": 456,
+    "nonspace_chars": 2961,
+    "word_like_tokens": 471,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

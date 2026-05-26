@@ -3,8 +3,8 @@ title: セブン銀行 (Seven Bank)
 aliases: ["Seven Bank", "セブン銀行", "株式会社セブン銀行", "Seven Bank, Ltd.", "旧 アイワイバンク銀行"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, retail-bank, atm-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **ATM 特化型銀行**。セブンイレブン店舗網に設置した約 **27,000 台** の ATM を基盤に、提携金融機関（約 600 行）からの **ATM 利用手数料** を主収益とする B2B2C モデル。2001-04-10 アイワイバンク銀行として設立、2001-05-21 開業、2005-10 セブン銀行に商号変更。親会社は [[retail/seven-and-i-hd|seven-and-i-hd]]（連結子会社、持株比率約 46%）。東証 PRIME 8410。自前の貸出・預金は限定的で、伝統的銀行業とは異なる「ATM プラットフォーマー」業態。訪日インバウンド需要（海外発行カード対応）と ASEAN 展開（フィリピン・インドネシア）が新成長軸。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社セブン銀行 ^[extracted]
 **英名**：Seven Bank, Ltd.
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2023〜 | **訪日インバウンド V 字回復** → 海外発行カード ATM 利用増 |
 | 2024〜 | **第 4 世代 ATM 機 順次展開**（顔認証・スマホ連携・カードレス対応）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -101,7 +101,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 国内 ATM 設置・運営の固定費（機器・回線・現金補充・保守）に対し、提携先からの安定手数料が積み上がる構造。**ATM 1 台あたりの月次利用回数** が KPI ^[inferred]
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### コアプラットフォーム戦略
 
@@ -134,7 +134,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **コンビニ系 ATM**: ローソン銀行（[[lawson-bank]]）、E-net（ファミリーマート系・親会社=[[smfg]] グループ）
 - **キャッシュレス決済**: PayPay 等の電子マネー普及で「現金引出需要」自体が長期的減少リスク ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業態**: 銀行法上の普通銀行（流通系ネット銀行カテゴリ）
@@ -176,5 +176,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公式沿革ベース 2026-05-19）。ATM 設置台数（約 27,000 台）・提携金融機関数（約 600 行）・親会社持株比率（約 46%）は公開情報ベースの概数。最新値は セブン銀行 IR・有報を要参照。具体的な業績数値（経常収益・純利益等）は本稿で取り上げず、別途公式 IR を参照のこと。

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/canton-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/canton-overview.md",
   "domain": "systems",
-  "title": "Canton Network 概览 · DAML 智能合约的隐私机构链",
+  "title": "Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Canton Network 概览 · DAML 智能合约的隐私机构链",
+    "title": "Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン",
     "aliases": [
       "canton-overview",
       "canton-network-overview",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -32,9 +32,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Canton Network 概览 · DAML 智能合约的隐私机构链",
+    "Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2536,
-    "word_like_tokens": 419,
+    "nonspace_chars": 2881,
+    "word_like_tokens": 418,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

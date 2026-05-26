@@ -21,8 +21,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -42,11 +42,11 @@
     "アコム株式会社 (Acom)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "業態カテゴリ・3 大消費者金融",
     "主要グループ会社",
     "MUFG との資本関係",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "自動契約機「むじんくん」",
     "Easy Buy PCL（タイ Easy Buy）★"
   ],
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6714,
-    "word_like_tokens": 1027,
+    "nonspace_chars": 6717,
+    "word_like_tokens": 1026,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

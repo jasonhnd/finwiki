@@ -3,8 +3,8 @@ title: りそなホールディングス (Resona Holdings)
 aliases: ["Resona HD", "りそな HD", "Resona Holdings", "りそなホールディングス", "Resona"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-megabank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 3 大メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に次ぐ「**第 4 のメガバンク**」位置付け。**信託機能を持つ商業銀行 G**として、信託銀行を分離せず銀行兼業で運営する**日本初の本格的「商銀＋信託」モデル**。2003-05 公的資金 **1 兆 9600 億円**注入（実質国有化）→ 2015-06 完済の再生史。地盤は**首都圏（埼玉）+ 関西**。2021-04 関西みらい FG 完全子会社化 → **2024-04 KMFG 吸収合併・関西みらい銀＋みなと銀の直接子会社化**で関西統合フェーズ完了。FY2024（2025-03 期）純利益 **2,133 億円** / 総資産 **77.4 兆円**。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社りそなホールディングス ^[extracted]
 **英名**：Resona Holdings, Inc.
@@ -88,7 +88,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024〜2026 | 中期経営計画進行中 |
 | 2025-05 | FY2024（2025-03 期）決算：純利益 2,133 億円 / 総資産 77.4 兆円 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 日本カストディ銀行（信託口）| 5.60% |
 | 第一生命保険 | 3.25% |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「日本初の本格的商業銀行 + 信託」モデル
 
@@ -153,7 +153,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - vs 地銀（[[ndfg]] 等）：信託機能保有で差別化、首都圏・関西の都市部地盤
 - vs ネット銀行（[[paypay-fg]] / 楽天銀）：店舗網＋信託＝対面アドバイスで差別化 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **G-SIB 認定**：なし（3 大メガと異なり国際金融安定理事会の G-SIB 指定外）^[inferred]
@@ -193,5 +193,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.1 Wikipedia 日本語版 + 公式 IR ベースで 2026-05-19 更新）。重要史実（公的資金 1.96 兆円・2003-05 注入・2015-06 完済・2021-04 関西みらい完全子会社化・2024-04 KMFG 吸収合併）は Wikipedia 経由で公開情報ベース。FY2024 決算（2025-03 期）連結数値 IR 確認済み。次回見直しは FY2025（2026-03 期）決算発表後。

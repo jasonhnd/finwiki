@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/protocol-renewal-trigger-as-event-anchor.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/protocol-renewal-trigger-as-event-anchor.md",
   "domain": "fintech",
-  "title": "协议续约触发器 —— 商业合作重构与事件锚定机制",
+  "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "协议续约触发器 —— 商业合作重构与事件锚定机制",
+    "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
     "aliases": [
       "protocol renewal trigger",
       "event anchor",
@@ -18,8 +18,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "certain",
     "tags": [
@@ -39,14 +39,14 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "协议续约触发器 —— 商业合作重构与事件锚定机制",
+    "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
     "Wiki route",
-    "核心机制",
-    "典型案例：2026-08 Coinbase-Circle 协议续约",
-    "商业应用与策略选择",
-    "1. 协议主导方（如拥有渠道的平台方）",
-    "2. 协议受制方（如依赖渠道的发行方）",
-    "3. 外部观察者与竞争者",
+    "コアメカニズム",
+    "典型事例：2026-08 Coinbase-Circle 協定更新",
+    "商業応用と戦略選択",
+    "1. プロトコル主導側（チャネルを有するプラットフォーム側）",
+    "2. プロトコル被制約側（チャネル依存型の発行体側）",
+    "3. 外部の観察者および競合",
     "Related"
   ],
   "body_links": {
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3169,
-    "word_like_tokens": 436,
+    "nonspace_chars": 3637,
+    "word_like_tokens": 443,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

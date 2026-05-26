@@ -1,10 +1,10 @@
 ---
-title: Singapore MAS Payment Services Act + SCS 框架概览
+title: Singapore MAS Payment Services Act + SCS フレームワーク概観
 aliases: [mas-ps-act-overview, MAS PS Act, Singapore stablecoin, DPT, SCS, DTSP]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, singapore, mas, stablecoin, dpt, scs]
@@ -16,7 +16,7 @@ sources:
 status: candidate
 ---
 
-# Singapore MAS Payment Services Act + SCS 框架概览
+# Singapore MAS Payment Services Act + SCS フレームワーク概観
 
 
 ## Wiki route
@@ -24,56 +24,56 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 新加坡 MAS Payment Services Act(2019)+ Stablecoin Framework(2023-08 SCS 类别)+ DTSP Regime(2024-04 修订)= 亚洲最完整加密支付立法栈。SCS(Single-Currency Stablecoin)类别要求 100% reserve + daily attestation + AAA-rated assets,比 HKMA 严更早。2026-03 新加坡与美财政部签 MRA = §501(d) 第一波亚洲入榜。
+> シンガポール MAS Payment Services Act（2019）+ Stablecoin Framework（2023-08 SCS カテゴリ）+ DTSP Regime（2024-04 改正）= アジア最も完成された暗号決済立法スタック。SCS（Single-Currency Stablecoin）カテゴリは 100% reserve + daily attestation + AAA-rated assets を要求し、HKMA より厳しく、なおかつ早い。2026-03 シンガポール - 米国財務省間で MRA 締結 = §501(d) 第一波のアジア入榜。
 
 ## Key facts
 
-- PS Act 2019:六类 payment service 法律基础 ^[extracted]
-- SCS Framework 2023-08:亚洲首个完整 SC 子框架(早于 HKMA 2 年)^[extracted]
-- DTSP Regime 2024-04:关闭 "Singapore-incorporated entity serves global customers" 灰色地带 ^[extracted]
-- DPT 主要持牌方(2026-05):DBS Vickers / Independent Reserve / HashKey / Coinbase Singapore / Crypto.com / Sygnum Singapore / Anchorage Digital Singapore / StraitsX(Xfers)^[extracted]
-- SCS 持牌方:StraitsX XSGD(2023-12)/ Paxos USDP(pending 离岸子公司)^[extracted]
-- 2026-03:Singapore-US MRA 签署 → §501(d) 第一波亚洲入榜 ^[extracted]
-- 资本 / 流通门槛:S$5M(远低于 HKMA HKD 100M)→ 中型 issuer 友好 ^[extracted]
-- 税务:capital gains 0%(individual)^[extracted]
+- PS Act 2019：6 種類の payment service の法的基礎 ^[extracted]
+- SCS Framework 2023-08：アジア初の完全な SC サブフレームワーク（HKMA より 2 年先行）^[extracted]
+- DTSP Regime 2024-04：「シンガポール法人がグローバル顧客にサービス提供」のグレーゾーンを閉鎖 ^[extracted]
+- DPT 主要ライセンス保有者（2026-05）：DBS Vickers / Independent Reserve / HashKey / Coinbase Singapore / Crypto.com / Sygnum Singapore / Anchorage Digital Singapore / StraitsX（Xfers）^[extracted]
+- SCS ライセンス保有者：StraitsX XSGD（2023-12）/ Paxos USDP（オフショア子会社申請中）^[extracted]
+- 2026-03：Singapore-US MRA 締結 → §501(d) 第一波アジア入榜 ^[extracted]
+- 資本 / 流通残高閾値：S$5M（HKMA HKD 100M より遥かに低い）→ 中堅 issuer に優しい ^[extracted]
+- 税務：capital gains 0%（individual）^[extracted]
 
 ## Mechanism / How it works
 
-**MAS 三层加密监管栈**:
-- **PS Act 2019**:六类 payment service(Account issuance · domestic/cross-border money transfer · Merchant acquisition · e-money issuance · Digital Payment Token (DPT) service)
-- **SCS Framework 2023-08**:稳定币子框架 · 必须挂钩 SGD 或 G10 单一法币 · 100% reserve · daily attestation · AAA-rated assets · ≥ S$5M 流通额需 MAS license · 标识 "MAS-regulated SCS" 商标
-- **DTSP Regime 2024-04**:关闭灰色地带 · 涵盖"Singapore-incorporated entity serving overseas" · 强制 KYC + AML + Travel Rule
+**MAS 3 層暗号規制スタック**：
+- **PS Act 2019**：6 種類の payment service（Account issuance · domestic/cross-border money transfer · Merchant acquisition · e-money issuance · Digital Payment Token (DPT) service）
+- **SCS Framework 2023-08**：ステーブルコインサブフレームワーク · SGD または G10 単一法定通貨にペッグ必須 · 100% reserve · daily attestation · AAA-rated assets · 流通額 ≥ S$5M で MAS license が必要 · 「MAS-regulated SCS」商標表示
+- **DTSP Regime 2024-04**：グレーゾーン閉鎖 · 「シンガポール法人が海外サービス提供」をカバー · KYC + AML + Travel Rule の強制
 
-**DPT vs SCS vs USDC 待遇差异**:
-- DPT service license:买卖 / OTC / 钱包托管 → Major Payment Institution / Standard Payment Institution
-- SCS license:发行 SGD-pegged 或 G10-pegged 稳定币 → 必须 MAS-regulated
-- USDC 在新加坡:通过 Circle Singapore(DPT-licensed)流通,但 USDC 本身的发行受 GENIUS §501 监管 · 非 MAS SCS
+**DPT vs SCS vs USDC の取扱差異**：
+- DPT service license：売買 / OTC / ウォレット管理 → Major Payment Institution / Standard Payment Institution
+- SCS license：SGD-pegged または G10-pegged ステーブルコインの発行 → MAS-regulated 必須
+- シンガポールでの USDC：Circle Singapore（DPT-licensed）経由で流通、ただし USDC 自体の発行は GENIUS §501 規制下にあり MAS SCS ではない
 
-DPT 牌照体系的详细机构层级见 [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT 牌照概览]]。
+DPT ライセンス体系の詳細な機関階層は [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT ライセンス概観]] 参照。
 
 ## Origin & evolution
 
-2019 PS Act 通过奠定六类 payment service 法律基础。2020-2022 DPT licensing 启动,Coinbase / Crypto.com / StraitsX 等陆续获牌。2023-08 SCS Framework 发布(亚洲首个完整 SC 子框架,早于 [[fintech/hkma-stablecoin-licensing-overview|HKMA]] 2 年)。2024-04 DTSP Regime 修订关闭"Singapore hub serving global"灰色地带,USDT 等不合规玩家退出 hub 战略。2026-03 Singapore-US MRA 签署 → §501(d) 第一波亚洲入榜。亚洲 / 全球 VASP 横向比较见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
+2019 PS Act 制定により 6 種類の payment service の法的基礎を確立。2020-2022 DPT licensing 始動、Coinbase / Crypto.com / StraitsX 等が順次ライセンス取得。2023-08 SCS Framework 公表（アジア初の完全な SC サブフレームワーク、[[fintech/hkma-stablecoin-licensing-overview|HKMA]] より 2 年先行）。2024-04 DTSP Regime 改正により「シンガポールハブで海外サービス提供」のグレーゾーンを閉鎖、USDT 等の非コンプライアンス勢力がハブ戦略から撤退。2026-03 Singapore-US MRA 締結 → §501(d) 第一波アジア入榜。アジア / グローバル VASP の横断比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリックス]] 参照。
 
 ## Counterpoints
 
-- DTSP 收紧后中小项目离开 · Singapore "hub" 模式从全球向亚洲收缩
-- S$5M 门槛对零售 issuer 友好但对机构竞争力有限
-- 与 HK 形成竞合 · 部分项目双地申请
+- DTSP 引き締め後に中小プロジェクトが離脱 · シンガポール「ハブ」モデルがグローバルからアジアへ縮小
+- S$5M 閾値はリテール issuer に優しいが、機関競争力は限定的
+- HK と競合関係を形成、一部プロジェクトは双方申請
 
 ## Open questions
 
-- §501(d) 第一波亚洲入榜后 Singapore 与 HK 的竞合走向?
-- DTSP Regime 是否会进一步扩展至 DeFi 前端?
-- Paxos USDP 离岸子公司申请进度?
+- §501(d) 第一波アジア入榜後、シンガポールと HK の競争 / 協業の行方は？
+- DTSP Regime は DeFi フロントエンドにまで拡張されるか？
+- Paxos USDP オフショア子会社申請の進捗は？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS 战略含义 + 与 HK 对比]]
-- [[fintech/hkma-stablecoin-licensing-overview|HKMA 稳定币牌照概览]]
+- [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS 戦略的含意 + HK との対比]]
+- [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコインライセンス概観]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
 - [[fintech/circle-usdc-stablecoin|Circle USDC issuer · DPT 流通主体]]
 <!-- /wiki-links:managed -->
 

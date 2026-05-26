@@ -3,8 +3,8 @@ title: 全国信用協同組合連合会 (全信組連)
 aliases: ["全信組連", "Zenshinkumiren", "National Federation of Credit Cooperatives", "全国信組連"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, cooperative-central, shinkumi]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本の **信用組合 (信組) 業界の中央機関**。1954-04 設立、金融庁 registry では 2026-02-20 時点 **143 信用組合** を会員母集団とする協同組織金融機関。信金中央金庫 [[shinkin-central]] と並ぶ「中央 2 連」の一翼だが、規模は約 1/10。会員信組向け資金運用・余資運用・決済代行・システム共同センター・ATM 連携が四本柱。**信用組合 = 中小企業組合員 + 地域組合員 向け融資特化、信用金庫より会員制が厳格**で、その中央銀行に当たる。地域金融セーフティネット機能を持つ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 全国信用協同組合連合会 ^[extracted]
 **英名**: National Federation of Credit Cooperatives (略称 Zenshinkumiren)
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - セブン銀行 / イオン銀行 / ゆうちょ等他業態 ATM との提携も
 - メガバンク / 地銀の自前 ATM 削減傾向の中、地域インフラとして残存
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年 | 事象 |
 |---|---|
@@ -173,5 +173,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (公开情報ベース、Wikipedia + 公式ディスクロージャー + 金融庁 registry 由来)。会員信組数は 2026-02-20 金融庁 registry で 143、組合再編により年次変動あり。詳細財務指標は要 IR 直接確認。信金中金との対比規模は業界相対的概算。

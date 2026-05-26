@@ -3,8 +3,8 @@ title: 東京短資 (Tokyo Tanshi)
 aliases: ["東京短資", "Tokyo Tanshi", "東京短資株式会社", "Tokyo Tanshi Co., Ltd."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本 3 大短資会社の一角（非上場、1908-09 創業、明治末期から続く老舗）。**コール市場仲介 + 手形売買 + 日銀オペ対手 + 法人向け FX** の 4 軸で短期金融市場のインターディーラー機能を担う。2016-01〜2024-03 マイナス金利政策下でコール市場機能停滞 → 業界全体が縮小局面、外為・FX 法人ブローカレッジでの収益源多様化を進めてきた。2024-03-19 日銀マイナス金利解除・2024-07-31 政策金利 0.25% 引上で短期金利市場が 8 年ぶりに正常化 → 短資業界復活期待が高まる。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：東京短資株式会社
 **英名**：Tokyo Tanshi Co., Ltd.
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 3 社とも非上場で、邦銀・地銀・信託・生損保等を株主とする業界共同インフラ的性格を持つ ^[inferred]。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 顧客 |
 |---|---|---|
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 短資業者は自己勘定での取引ポジションを大きく取らず、**仲介手数料（ブローカレッジ）が主収益**。マイナス金利下では金利スプレッドが消失しコール市場残高が激減したため、コール仲介手数料が枯渇 → 法人 FX 等の非コール業務での収益源多様化が業界共通課題となっていた。
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### マイナス金利期の苦境（2016-01〜2024-03）
 
@@ -85,7 +85,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **電子取引化リスク**: コール市場の電子仲介プラットフォーム化・EBS / Reuters Matching 系の進展で人手ブローカレッジ需要が減少傾向 ^[inferred]
 - **海外 IDB との競合**: TP ICAP・BGC 等のグローバルインターディーラー・ブローカーが日本支店経由で短期金融商品の一部を扱う
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）・日本銀行（オペ対手として）
 - **業界団体**: 短資協会（3 大短資 + 短資業務関連機関）
@@ -125,5 +125,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報のみ、2026-05-19 起稿）。非上場のため詳細業績・株主構成・現役人員は公開情報では限定的。創業年・3 大短資位置付け・日銀オペ対手・マイナス金利政策との連動性は公開資料で確認可能。内部目録・非公開情報は一切使用していない。

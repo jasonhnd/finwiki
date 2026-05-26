@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,12 +41,12 @@
     "ソニーフィナンシャルグループ (Sony FG)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・グループ構造（再上場後想定）",
     "主要株主（再上場後の想定構造）",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "B2C ブランド戦略"
   ],
   "body_links": {
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5278,
-    "word_like_tokens": 695,
+    "nonspace_chars": 5283,
+    "word_like_tokens": 694,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,11 +41,11 @@
     "UBS ジャパン (UBS Japan)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要事業セグメント（UBS Group 連結ベース、2024 年度）^[inferred]",
     "2. 合併歴史・前身",
-    "3. 业务线 map",
-    "4. 戦略与竞争",
+    "3. 事業セグメント・マップ",
+    "4. 戦略・競争",
     "グローバル戦略",
     "日本戦略"
   ],
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4389,
-    "word_like_tokens": 784,
+    "nonspace_chars": 4397,
+    "word_like_tokens": 783,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: アコム株式会社 (Acom)
 aliases: ["Acom", "アコム", "ACOM", "アコム株式会社", "Acom Co., Ltd.", "丸糸呉服店"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, consumer-finance]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 [[mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[mufg]] 系列）・プロミス（[[smfg]] 内 SMBCCF）・アイフル（[[aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。2006-2008 のグレーゾーン金利最高裁判決を契機に過払い金請求が殺到、**2008-10 MUFG TOB で持分法適用会社化（現 持分法 37.6% + 信託 2.0% = 39.6%）**。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: アコム株式会社（Acom Co., Ltd.）
 **証券コード**: 東証 STANDARD **8572**
@@ -65,7 +65,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **2008-10-22 MUFG TOB で約 40% 取得 → 持分法適用会社化**。以降、銀行カードローン保証事業（バンクイック）を通じて MUFG リテール戦略の中核に組み込まれている。2025-03-31 時点 持分法 37.6% + 信託 2.0% = **39.6%**（MUFG 第 20 期有価証券報告書ベース）^[extracted]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -87,7 +87,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 アコム保証（100% 子会社）が三菱 UFJ 銀行カードローン「バンクイック」の保証を受託。これによりアコムは個人ローン直営 + 銀行裏方の信用保証の 2 軸で収益を確保し、MUFG 側は銀行カードローンで上限金利 14.6% 程度の低金利商品を提供できる構造。地銀向けカードローン保証も多数受託。^[extracted]
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **過払い金返還**: 業界全体で数兆円規模、アコムも巨額引当で経営圧迫
 - **2008-10-22 MUFG TOB**: 三菱 UFJ 銀行（当時 三菱東京 UFJ 銀行）が約 40% 取得、持分法適用会社化で資本注入と銀行系列再編が実現 ^[extracted]
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### MUFG 系列としての位置付け ★
 
@@ -151,7 +151,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 「アコム」ブランド = 消費者金融、「ACマスターカード」「Umay+」（タイ）で別ブランド層
 - 緑色（コーポレートカラー）を中心とした視認性の高いブランディング
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **登録**: 貸金業法に基づく登録貸金業者

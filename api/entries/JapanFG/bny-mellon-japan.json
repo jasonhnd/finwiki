@@ -26,8 +26,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -50,12 +50,12 @@
     "BNY メロン日本 (BNY Mellon Japan)",
     "Wiki route",
     "Overview",
-    "1. 公司结构",
+    "1. 会社概要",
     "日本の主要法人（公開情報ベース）",
     "信託銀行 route の扱い",
-    "2. 重要历史（年表抜粋）",
-    "3. 业务线 map",
-    "4. 戦略与競争",
+    "2. 沿革（年表抜粋）",
+    "3. 事業セグメント・マップ",
+    "4. 戦略・競争",
     "日本でのポジショニング"
   ],
   "body_links": {
@@ -108,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7388,
-    "word_like_tokens": 975,
+    "nonspace_chars": 7391,
+    "word_like_tokens": 974,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-05-26"
   }
 }

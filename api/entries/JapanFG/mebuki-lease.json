@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -46,7 +46,7 @@
     "TL;DR",
     "1. License / group boundary",
     "2. 持株ツリー",
-    "3. 合併歷史・前身",
+    "3. 合併経緯・前身",
     "旧 常陽リース系譜",
     "旧 足利リース系譜",
     "めぶき FG 設立とグループ統合",
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4917,
+    "nonspace_chars": 4921,
     "word_like_tokens": 660,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

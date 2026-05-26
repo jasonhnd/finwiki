@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -42,13 +42,13 @@
     "住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "数値（FY2024 = 2025-03 期、連結ベース）",
     "資本関係の変遷",
     "重要年表",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "NEOBANK サービス（BaaS）一覧",
-    "3. 战略与竞争"
+    "3. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6962,
-    "word_like_tokens": 1277,
+    "nonspace_chars": 6970,
+    "word_like_tokens": 1276,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

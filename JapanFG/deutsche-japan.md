@@ -3,8 +3,8 @@ title: ドイチェ・ジャパン (Deutsche Japan)
 aliases: ["Deutsche Japan", "ドイツ銀行東京支店", "ドイチェ証券", "Deutsche Bank Tokyo", "Deutsche Securities Inc.", "DSI"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ドイツ銀行 (Deutsche Bank AG, フランクフルト本社、**G-SIB Bucket 2**) の日本拠点群の総称。**東京支店 (1972 開設) + ドイチェ証券 (法人 IB)** の 2 軸が中核。本国の経営難 (2016-2019) を経て 2019-07 グローバル投資銀行リストラ (世界 18,000 人削減) で日本オペレーションも縮小。現在は **IB + マーケッツ (債券・FX 強み) + アセマネ (DWS) + プライベートバンキング** に集中、リテール未展開。競合は [[citigroup-japan]] / [[hsbc-japan]] / UBS / バークレイズ。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**：Deutsche Bank AG（フランクフルト本社、独 DAX 上場 DBK / NYSE: DB）
 **G-SIB**：Bucket 2（FSB 認定、+1.5% CET1 追加資本要件）
@@ -48,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **機関設計**：本社直轄（東京支店は本店の在外拠点、ドイチェ証券は子会社）
 **主管**：金融庁 (FSA)、本国側は BaFin (独連邦金融監督庁) + ECB
 
-## 2. 重要歴史・年表
+## 2. 沿革・年表
 
 | 年月 | 事象 |
 |---|---|
@@ -65,7 +65,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020-2024 | 機関投資家向けサービス + アセマネ (DWS) + 富裕層 PB に経営資源集中 |
 | 2023-03 | クレディ・スイス危機余波、欧州銀全般に注目集まる中で相対的安定維持 |
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リテール | **未展開** | 個人向け預金・住宅ローン等は実施せず |
 | 信託 | **縮小・閉鎖** | 旧ドイチェ信託銀行は撤退 |
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 集中領域
 
@@ -105,7 +105,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 日本拠点もこの構造変革を反映し、グローバル株式トレーディング撤退・FICC と IB アドバイザリーに集中
 - 2023 以降、米銀大手 (JPM・GS・MS) との競合は依然厳しく、欧州内 ([[JapanFG/bnp-paribas-japan|bnp-japan]] / SocGen 等) との差別化も課題
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管 (日本)**: 金融庁 (FSA)
 - **本国主管**: BaFin (独連邦金融監督庁) + ECB (Single Supervisory Mechanism)

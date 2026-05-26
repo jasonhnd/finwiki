@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-four-poles-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-four-poles-overview.md",
   "domain": "systems",
-  "title": "跨链四极架构 · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
+  "title": "クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨链四极架构 · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2 第五极",
+    "title": "クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2 第 5 極",
     "aliases": [
       "cross chain four poles overview",
       "cross-chain interoperability poles",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against 跨链选型决策树 · 按主角维度匹配协议 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "跨链四极架构 · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
+    "クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3056,
-    "word_like_tokens": 494,
+    "nonspace_chars": 3395,
+    "word_like_tokens": 522,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: 芙蓉総合リース
 aliases: ["芙蓉リース", "Fuyo General Lease", "Fuyo Lease", "Fuyo General Lease Co., Ltd.", "FGL"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, leasing, fuyo-group]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 旧 富士銀行 系の準大手総合リース会社（東証 PRIME **8424**）。**3 大リース（[[orix-corp]] / 三菱 HC キャピタル / [[tokyo-century]]）に次ぐ準大手** で、**芙蓉グループ**（旧 富士銀行コミュニティ：[[mizuho-fg]] + 丸紅 + 日産 + キヤノン + 日清製粉 + 東京海上 [[tokio-marine]] 等）の金融中核機能を担う。1969-09-04 創業（旧称：芙蓉ファクター）。一般機器リース + 不動産 + 環境・再エネ + 医療・介護 + 航空機・船舶 + 海外（アジア中心）の 6 軸構成。同じ旧富士銀行系で「準三大リースに先行統合できた」[[tokyo-century]] とは兄弟関係 + 競合関係。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：芙蓉総合リース株式会社 ^[extracted]
 **英名**：Fuyo General Lease Co., Ltd. ^[extracted]
@@ -45,7 +45,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 準大手 | **芙蓉総合リース** / NEC キャピタルソリューション / リコーリース 等 | 旧 富士・NEC・リコー |
 | 中堅 | 日立キャピタル（→ 三菱 HC へ統合）/ 東銀リース 等 | - |
 
-芙蓉総合リースは **準大手筆頭格**。三大リースとの差は単体総資産規模だが、**収益性・ROE では三大に対し競争力を維持**。^[inferred]
+芙蓉総合リースは **準大手筆頭格**。三大リースとの差は単体総資産規模だが、**収益性・ROE では三大に対して競争力を維持**。^[inferred]
 
 ### 主要株主 / 資本関係
 
@@ -71,14 +71,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   ├── 不動産関連 SPC 群
   ├── 環境・再エネ プロジェクト SPC（メガソーラー・風力等）
   ├── 海外子会社（アジア中心）
-  │     ├── 中国（上海・大連等）
+  │     ├── 中国（上海・大連 等）
   │     ├── タイ
   │     ├── インドネシア
   │     └── ベトナム
   └── 医療・介護リース専業子会社
 ```
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要対象 | 特徴 |
 |---|---|---|
@@ -88,10 +88,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 環境・再エネ | メガソーラー・風力・バイオマス・水素 | 2010 年代以降の成長分野 |
 | 医療・介護リース | 医療機器・介護施設 | 高齢化対応の成長セグメント |
 | 航空機・船舶 | 航空機オペレーティングリース・船舶 | 大型グローバル案件 |
-| 海外 | アジア（中・タイ・インドネシア・ベトナム）| 段階的拡大 |
+| 海外 | アジア（中国・タイ・インドネシア・ベトナム）| 段階的拡大 |
 | BPO・サービス | リース付随サービス | - |
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -108,9 +108,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 旧称「芙蓉ファクター」の「芙蓉」は **富士の雅称**（富士山の別名）に由来し、旧 富士銀行コミュニティ = 芙蓉グループ の共通ブランド要素。^[inferred]
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
-### 芙蓉グループ取引
+### 芙蓉グループ内取引
 
 芙蓉総合リース最大の差別化要因は **芙蓉グループ**（旧 富士銀行コミュニティ）との安定取引基盤：^[inferred]
 
@@ -141,11 +141,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **環境・再エネ**：脱炭素文脈で メガソーラー・風力・バイオマス・水素 等 PJ ファイナンス拡大 ^[inferred]
 - **医療・介護**：高齢化対応 → 医療機器・介護施設リース ^[inferred]
-- **海外**：アジア（中・タイ・インドネシア・ベトナム）拠点拡張 ^[inferred]
+- **海外**：アジア（中国・タイ・インドネシア・ベトナム）拠点拡張 ^[inferred]
 - **航空機・船舶**：[[orix-corp]] / [[tokyo-century]] / 三菱 HC と比肩する グローバル オペレーティングリース 強化 ^[inferred]
 - **不動産アセットマネジメント**：従来のリース + 不動産 PJ ファイナンス融合 ^[inferred]
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**：金融庁（FSA）・経済産業省
 - **業界団体**：公益社団法人リース事業協会
@@ -188,5 +188,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報ベース 2026-05-19）。定量数値（総資産 / 純利益 / 株主比率）は時点変動が大きく、最新値は半期報告書 / 大量保有報告書を要参照。沿革は Wikipedia 抽出の主要事象のみで、子会社の細部・海外拠点詳細は IR 資料の最新版で要更新。

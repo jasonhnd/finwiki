@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-four-poles-ccip-institutional.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-four-poles-ccip-institutional.md",
   "domain": "systems",
-  "title": "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+  "title": "CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+    "title": "CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀",
     "aliases": [
       "cross chain four poles ccip institutional",
       "Chainlink CCIP institutional default",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河",
+    "CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2591,
-    "word_like_tokens": 419,
+    "nonspace_chars": 2893,
+    "word_like_tokens": 434,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

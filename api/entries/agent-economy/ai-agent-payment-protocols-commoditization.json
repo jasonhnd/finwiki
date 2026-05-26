@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ai-agent-payment-protocols-commoditization.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ai-agent-payment-protocols-commoditization.md",
   "domain": "agent-economy",
-  "title": "Agent 支付协议 commoditization 与价值上移",
+  "title": "Agent 決済プロトコル commoditization と価値の上方移動",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Agent 支付协议 commoditization 与价值上移 · Stripe 五层 + Privy 双默认",
+    "title": "Agent 決済プロトコル commoditization と価値の上方移動 · Stripe 5層 + Privy デュアルデフォルト",
     "aliases": [
       "agent-payment-commoditization",
       "agent payment value capture",
-      "Stripe 五层 Privy 双默认"
+      "Stripe 5層 Privy デュアルデフォルト"
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -33,9 +33,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
   "headings": [
-    "Agent 支付协议 commoditization 与价值上移",
+    "Agent 決済プロトコル commoditization と価値の上方移動",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2594,
-    "word_like_tokens": 420,
+    "nonspace_chars": 3002,
+    "word_like_tokens": 439,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

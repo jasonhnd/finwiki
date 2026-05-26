@@ -3,8 +3,8 @@ title: 東京センチュリー株式会社 (Tokyo Century Corporation)
 aliases: ["Tokyo Century", "東京センチュリー", "TC", "8439", "旧 東京リース", "旧 センチュリー・リーシング・システム", "旧 東京センチュリーリース"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, leasing]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本 3 大総合リース・ファイナンスの一角（[[orix-corp]] / [[mufg]] 系 三菱 HC キャピタル / 東京センチュリー）。**みずほ FG ([[mizuho-fg]]) + 伊藤忠商事の 2 軸主要株主**という珍しい資本構造。自動車・IT・産業機器リースから不動産・**航空機ファイナンス**・海外（米州・アジア）・環境/再エネ・コンセッション・レンタカー（旧 ニッポンレンタカーサービス）まで多角化。東証 PRIME **8439**。2019 年 米 Aviation Capital Group (ACG) 完全子会社化により**航空機リース世界 Top 10** 入り。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：東京センチュリー株式会社
 **英名**：Tokyo Century Corporation
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **芙蓉総合リース ([[fuyo-lease]])** ── みずほ系の別軸
 - **SMFL（三井住友ファイナンス&リース）** ── [[smfg]] 内、住友商事系合弁
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 2 つの前身
 
@@ -85,7 +85,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 2009 年の統合は、みずほ FG (旧 DKB 第一勧銀 + IBJ 興銀 + 富士銀行) 内に複数並立していた**系列リース会社の整理**という文脈で行われた。旧 第一勧銀系の センチュリー・リーシング・システム と 旧 第一銀行 / 長銀系の 東京リース が一体化することで、みずほグループ内のリース機能を集約した。2016 年の「リース」削除はオリックスが既に「総合金融」化していたのに倣う動き。
 
-## 3. 业务线 map（戦略）
+## 3. 事業セグメント・マップ（戦略）
 
 ### コア事業
 
@@ -116,7 +116,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 伊藤忠商事との関係は商社系リース（住友商事 ⇄ SMFL、三菱商事 ⇄ 三菱 HC キャピタル）と並列で読むのが正確。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁・経済産業省（リース業）
 - **会計**：IFRS 16（リース会計新基準）対応により国内外でリース計上方法が変化、貸し手側として影響軽微だが借り手企業の意思決定に影響
@@ -154,5 +154,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報ベース、2026-05-19）。沿革と主要株主構造は Wikipedia + 公式 IR で確認済。航空機リース「世界 Top 10」のランキング順位は時点変動するため厳密順位は最新業界調査を要参照。具体的な業績数値（連結売上・営業利益・セグメント別収益）は意図的に省略 — 最新値は 東京センチュリー IR の有価証券報告書を直接参照。

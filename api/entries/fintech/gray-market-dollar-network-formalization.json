@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/gray-market-dollar-network-formalization.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/gray-market-dollar-network-formalization.md",
   "domain": "fintech",
-  "title": "灰色市场美元网络的正式化",
+  "title": "グレー市場ドルネットワークの正式化",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "灰色市场美元网络的正式化 —— Tether HK 模板",
+    "title": "グレー市場ドルネットワークの正式化 —— Tether HK テンプレート",
     "aliases": [
-      "灰色美元正式化",
-      "Tether HK 模板",
+      "グレードル正式化",
+      "Tether HK テンプレート",
       "gray market formalization"
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "likely",
     "tags": [
@@ -39,16 +39,16 @@
   },
   "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "灰色市场美元网络的正式化",
+    "グレー市場ドルネットワークの正式化",
     "Wiki route",
-    "模式定义",
-    "Tether HK 案例",
-    "数字",
-    "4 层连锁",
-    "历史先例",
-    "应用 / 转用",
-    "风险 / 反例",
-    "关联"
+    "モデル定義",
+    "Tether HK 事例",
+    "数値",
+    "4 層連鎖",
+    "歴史的先例",
+    "応用 / 転用",
+    "リスク / 反例",
+    "関連"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3144,
-    "word_like_tokens": 530,
+    "nonspace_chars": 3638,
+    "word_like_tokens": 539,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

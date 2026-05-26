@@ -10,8 +10,8 @@ aliases:
   - "sumitomo"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, sumitomo-group, steel, transport, retail, infrastructure, media, conglomerate]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 住友商事 (東証 PRIME **8053**) は **5 大総合商社の一角**、住友グループの中核会社の一つ。**鋼管 (energy 用)・鋼材**、**輸送機・建機 (トラック等)**、**メディア・デジタル (J:COM ジュピターテレコム 持分、SCSK)**、**インフラ (発電、海水淡水化)**、**生活産業 (リテール)** が中核セグメント。JapanFG 文脈での重要性は (i) [[JapanFG/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け CMS)、(ii) **[[JapanFG/smfl|SMFL]] への 50% 持分** (SMFG と 50/50 JV、3 大リースの一角、旧 三井住友ファイナンス&リース)、(iii) **[[JapanFG/sumitomo-mitsui-auto-service|住友三井オートサービス]] への持分** (オートリース国内首位級、SMFG / 三井物産 と共同保有)、にある。住友グループ系列 ([[JapanFG/smfg|SMFG]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託]]) と密接。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2010s | J:COM 持分強化 (KDDI と共同)、SCSK 統合 (旧 住商情報 + 旧 CSK) |
 | 2020s | 純利益 3,000〜5,000 億円級、5 大商社中位を維持 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 「**SMFL = 住友商事の外向けリース・asset finance 腕** (SMFG と 50/50 JV)」「**住友三井オートサービス = オートリース** (3 社共同)」「住友商事フィナンシャルマネジメント = 内向け CMS」の三層構造。これは [[JapanFG/mitsubishi-corp|三菱商事]] (HCキャピタル 持分法 + MCFS) や [[JapanFG/mitsui-co|三井物産]] (JA三井リース + MBFS) と比較して、**メガバンク (SMFG) との 50/50 JV** という共同支配体制が住友商事の特徴。
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 5 大商社内の identity
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **メディア (J:COM 領域)**: NTT グループ、楽天モバイル、ネット動画 (Netflix、Amazon Prime)
 - **IT サービス (SCSK 領域)**: NRI、富士通、NEC、TIS、伊藤忠テクノソリューションズ
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 ^[extracted]
 - **規制**: 商社単体は banking license 無し、金融子会社 ([[JapanFG/smfl|SMFL]]) は貸金業・リース業、メディア (J:COM) は放送法・電気通信事業法対象 ^[inferred]
@@ -163,5 +163,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。住友商事は public-surface で十分カバー。SMFL 50/50 持分、住友三井オートサービス持分、J:COM / SCSK 連結状況は最新 有価証券報告書 / 統合報告書 で都度更新。マダガスカル ニッケル (Ambatovy) 等の資源案件の最新評価も継続確認。

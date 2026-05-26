@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,13 +41,13 @@
     "芙蓉総合リース",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "業容ポジショニング",
     "主要株主 / 資本関係",
     "主要子会社・関連会社",
-    "2. 业务线 map",
-    "3. 重要历史",
-    "4. 战略与竞争"
+    "2. 事業セグメント・マップ",
+    "3. 沿革",
+    "4. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4742,
+    "nonspace_chars": 4749,
     "word_like_tokens": 653,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

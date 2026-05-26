@@ -3,8 +3,8 @@ title: "FFG 証券 (FFG Securities)"
 aliases: ["FFG Securities", "FFG 証券", "株式会社FFG証券", "Fukuoka Financial Group Securities"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, regional-bank-securities-subsidiary, kyushu, fukuoka, operating-company]
@@ -81,7 +81,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 > 注: 単体財務 KPI 精緻値は [[fukuoka-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -93,7 +93,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | M&A 仲介 | 事業承継・地域 M&A advisory |
 | 銀証連携 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] からの紹介取引 |
 
-## 6. 戦略与競争
+## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -114,7 +114,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - 強み: [[fukuoka-fg]] 3 県 21.9 兆円預金顧客基盤 (FY2025) + 九州中堅企業 main bank ネットワーク
 - 弱み: 単独規模では大手証券に大幅劣後、デジタル投資余力限定的 (みんなの銀行とのデジタル連携で補完狙い) ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) / 福岡財務支局 (第一種金融商品取引業者登録)
 - **業界団体**: [[jsda|日本証券業協会]] 正会員

@@ -3,8 +3,8 @@ title: スタンダード・チャータード銀行 東京支店 (Standard Char
 aliases: ["Standard Chartered Tokyo", "SCB Tokyo", "SCB Japan", "スタンチャ", "スタンダードチャータード東京", "Standard Chartered Bank, Tokyo Branch"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, asia]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 英 Standard Chartered PLC（HQ ロンドン、LSE: STAN / HKSE: 2888 / FTSE 100 構成）の日本拠点。**業務は アジア・中東・アフリカ（AMEA）新興国に集中**する点で、グローバル・ユニバーサル銀行型の [[hsbc-japan]] や [[citigroup-japan]] とは戦略軸が一線を画す。日本では 1880 年代から長い歴史を持つが、リテール非展開・**法人専業**。邦銀の「自前で拠点を持ちにくい新興国」（南アジア / 東南アジア / 中東 / アフリカ）向けコルレス・トランザクション・バンキング・トレード・ファイナンス機能を担うニッチ・ポジション。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名（日本拠点）**：スタンダード・チャータード銀行 東京支店 ^[extracted]
 **英名**：Standard Chartered Bank, Tokyo Branch
@@ -48,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **スタンダード・チャータード銀行 東京支店**: 法人銀行業務の中核
 - **スタンダードチャータード証券株式会社**: 一部時期 在京で証券業務を展開していたが、近年は縮小・閉鎖の可能性 ^[ambiguous]
 
-## 2. 重要历史
+## 2. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -61,7 +61,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020s | ESG・トランジション・ファイナンス、デジタル・トランザクション・バンキング強化 |
 | **2024** | **親会社 PLC が AMEA 戦略を再強調**、Hong Kong / Singapore / Korea 等アジア・ハブが収益エンジンに ^[inferred] |
 
-## 3. 业务线 map（日本拠点）
+## 3. 事業セグメント・マップ（日本拠点）
 
 | セグメント | 内容 | 顧客層 |
 |---|---|---|
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **コルレス銀行業務** | 邦銀が直接拠点を持たないアフリカ・南アジア・中東経由送金の中継 | **邦銀（最重要セグメント）** |
 | リテール | **未展開**（日本では個人向け業務を行わない）| - |
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 親会社 PLC のユニーク・ポジション
 
@@ -92,7 +92,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 親会社 PLC は新興国向けトランジション・ファイナンスを重点領域に設定 ^[inferred]
 - 日本拠点でも邦銀・日本企業の AMEA 投資・ESG 取組支援の窓口機能 ^[inferred]
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）、日本銀行 ^[inferred]
 - **規制根拠**: 銀行法 第 47 条（外国銀行支店）^[inferred]
@@ -128,5 +128,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開 Wikipedia + 親会社公式 IR ベース 2026-05-19）。日本拠点固有の数値（従業員数・収益・支店所在等）は公開情報が限られるため、外国銀行支店ディスクロージャー誌（FSA 報告書）の最新版を別途確認推奨。SCB 証券子会社の現況は ^[ambiguous] 扱い。

@@ -9,8 +9,8 @@ aliases:
   - "toyota-tsusho-finance"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, toyota-tsusho, toyota-group, group-treasury, factoring, cms]
@@ -32,7 +32,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 豊田通商フィナンス は **豊田通商 (8015)** 系の **グループ内金融サービス会社**。豊田通商グループの **CMS / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金** を担う。豊田通商は **トヨタグループ系商社** で、トヨタ自動車のサプライチェーン (鋼材 / 自動車部品 / 製造設備 / 海外モビリティ) + 非自動車事業 (アフリカ・食品・化学品・エネルギー) の二軸で構成され、グループ金融機能はこの両軸を支える。なお、トヨタ車の販売金融 (dealer financing / オートローン) は [[JapanFG/toyota-financial|TFS]] / [[JapanFG/toyota-finance|トヨタファイナンス]] が担い、本ページの 豊田通商系 finance とは別系統である点に注意。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -61,7 +61,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 豊田通商の主取引銀行は伝統的に **東海銀行 → UFJ → [[JapanFG/mufg|MUFG]] 系** + [[JapanFG/smfg|SMFG]] 系 + [[JapanFG/mizuho-fg|みずほ FG]] 系の複数銀行関係。^[inferred] 商社系内部金融子会社としては、メガバンク 3 行と並列的に協業する形が中心。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **トレード・ファイナンス補助** | 鋼材・自動車部品・製造設備・化学品・エネルギー 取引に紐づく与信補助 |
 | **アフリカ向け金融補助** | 豊田通商の CFAO (アフリカ事業) サブグループ金融機能の補助 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 豊田通商の事業構造と金融機能
 
@@ -101,7 +101,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 豊田通商の特徴は、**外向けリース専業子会社を独立化せず**、トヨタグループ内の [[JapanFG/toyota-financial|TFS]] 系列と機能を補完しあう形をとる点。これは「トヨタ車関連の auto-finance / dealer financing は TFS、商社サプライチェーン金融は 豊田通商フィナンス」という棲み分け。^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (貸金業 / 為替業務関連)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -153,5 +153,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。豊田通商フィナンス は非上場子会社で外部開示が限定的。最新の業務範囲 / 子会社一覧は 豊田通商 有価証券報告書 関係会社一覧 を要参照。トヨタグループ内 [[JapanFG/toyota-financial|TFS]] 系列との機能境界は外部から見えにくく、混同を避けるための disambiguation ノートも兼ねる。**親 商社 ページ `toyota-tsusho-corp.md` は未作成 → 将来的に backlog として追加予定**。

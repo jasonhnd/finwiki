@@ -3,8 +3,8 @@ title: 百五銀行 (Hyakugo Bank)
 aliases: ["百五", "ひゃくご", "The Hyakugo Bank", "株式会社百五銀行", "105 Bank"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 三重県地盤の独立系地方銀行。**1878-12-12 第百五国立銀行**として津で創業、社名は旧国立銀行番号「105」由来（読み「ひゃくご」）。**持株会社化していない単独銀行**として東証 PRIME 上場 (8368)、三重県の指定金融機関を担う県内最大手行。県内預金量・貸出量で No.1 のポジションを維持し、[[san-jusan-fg]]（三十三銀行）との県内二強体制を形成。地盤は三重県北部・中部（津・四日市・松阪）で、四日市コンビナート関連融資 + 伊勢神宮観光金融 + 中京経済圏アクセスを 3 本柱とする。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社百五銀行 ^[extracted]
 **英名**：The Hyakugo Bank, Ltd.
@@ -61,7 +61,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022 | 東証 PRIME 市場移行（市場区分見直し）|
 | 2024 | 新中期経営計画 始動 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -149,5 +149,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia + 公式沿革 + 公開地銀協情報 校核 2026-05-19）。一部の県内シェア・指定金融機関ステータス・域外支店収益寄与は公開数値が限られるため ^[inferred] とした。最新業績数値（純利益・総資産・自己資本比率・地域別貸出比率）は IR 開示資料を要参照。
+> [!info] 検証状況
+> confidence: **likely**（v1.0 Wikipedia + 公式沿革 + 公開地銀協情報 検証 2026-05-19）。一部の県内シェア・指定金融機関ステータス・域外支店収益寄与は公開数値が限られるため ^[inferred] とした。最新業績数値（純利益・総資産・自己資本比率・地域別貸出比率）は IR 開示資料を要参照。

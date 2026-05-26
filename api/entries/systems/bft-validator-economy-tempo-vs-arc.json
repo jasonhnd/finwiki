@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-tempo-vs-arc.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-tempo-vs-arc.md",
   "domain": "systems",
-  "title": "Tempo vs Arc · 机构链 validator 设计两条路径",
+  "title": "Tempo vs Arc · 機関チェーン validator 設計の2経路",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Tempo vs Arc · 机构链 validator 设计两条路径",
+    "title": "Tempo vs Arc · 機関チェーン validator 設計の2経路",
     "aliases": [
       "bft-validator-economy-tempo-vs-arc",
       "tempo arc validator comparison",
-      "机构链 validator 设计"
+      "機関チェーン validator 設計"
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -33,9 +33,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Tempo vs Arc · 机构链 validator 设计两条路径",
+    "Tempo vs Arc · 機関チェーン validator 設計の2経路",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2453,
-    "word_like_tokens": 419,
+    "nonspace_chars": 2858,
+    "word_like_tokens": 425,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

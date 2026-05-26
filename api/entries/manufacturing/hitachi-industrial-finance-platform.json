@@ -20,8 +20,8 @@
     ],
     "domain": "manufacturing",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -47,7 +47,7 @@
     "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
     "Wiki route",
     "TL;DR",
-    "1. 公司結構と金融部門の位置",
+    "1. 会社構造と金融部門の位置",
     "金融部門の位置 (post-2021)",
     "2. 事業ライン × 金融組成パターン",
     "3. KPI (FY2024, 連結ベース)",
@@ -99,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6333,
+    "nonspace_chars": 6336,
     "word_like_tokens": 939,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

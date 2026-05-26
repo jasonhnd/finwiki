@@ -3,8 +3,8 @@ title: 第四北越 FG
 aliases: ["Dai-shi Hokuetsu FG", "Daishi Hokuetsu Financial Group", "第四北越フィナンシャルグループ", "株式会社第四北越フィナンシャルグループ", "第四北越 FG", "DHFG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 新潟県地盤の地銀フィナンシャルグループ（同県内シェア圧倒・人口 220 万県の一県一行型）。2018-10-01 第四銀行 + 北越銀行 の共同持株会社化で発足、2021-01-01 子銀行同士を合併し **第四北越銀行** 単一行体制へ移行。**県内地盤統合（フルバンキング + 中堅企業 main bank）+ 県外進出（首都圏営業店）2 軸**。前身の第四銀行は 1873 年設立で「日本初の国立銀行の一つ」(第四国立銀行) という由緒。観光（佐渡・スキー）・農業（米産地）・製造業（燕三条等）金融が地盤特性。地銀再編の中堅広域連合事例の一つ。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社第四北越フィナンシャルグループ
 **英名**：Dai-shi Hokuetsu Financial Group, Inc.
@@ -69,7 +69,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2021-01-01** | **第四銀行 + 北越銀行 → 第四北越銀行 合併**（単一行体制完成）|
 | 2024 | 中期経営計画（新中計）公表 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 県外展開 | 第四北越銀行 首都圏営業店 | 東京等への進出（取引先随伴 + 新規開拓）|
 | 個人 retail | 第四北越銀行 | 県内人口 220 万、預金 / 住宅ローン |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地盤統合戦略（県内一行型）
 
@@ -107,7 +107,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対して県内 main bank ポジションで対抗
 - [[ndfg]] 等の他広域 FG / 隣県（東北・北陸）地銀との将来連合可能性は未確定
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 関東財務局新潟財務事務所
 - **持株会社規制**：銀行法 第 52 条の 17

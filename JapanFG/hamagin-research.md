@@ -3,8 +3,8 @@ title: "はまぎん総合研究所 (Hamagin Research Institute)"
 aliases: ["Hamagin Research Institute", "Hamagin Research", "はまぎん総合研究所", "株式会社浜銀総合研究所", "HRI"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, think-tank, regional-bank-think-tank-subsidiary, kanto, kanagawa, operating-company]
@@ -48,7 +48,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
   └── [[higashi-nippon-bank|東日本銀行]] (100%) ── 都内中小特化・首都圏地銀
 ```
 
-## 3. 合併歷史・前身
+## 3. 合併経緯・前身
 
 ### はまぎん総研 設立
 
@@ -76,7 +76,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 
 > 注: 売上・従業員・受託件数等の最新精緻値は [[concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式サイト要参照 ^[ambiguous]
 
-## 5. 业务线 map
+## 5. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -89,7 +89,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 | 海外調査 | 中堅企業向けアジア・東南アジア進出支援調査 ^[inferred] |
 | 金融機関向け | 同業他行向け調査受託・経営支援 ^[inferred] |
 
-## 6. 戦略与競争
+## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -110,7 +110,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 - 強み: [[yokohama-bank]] 顧客基盤 + 神奈川県経済データ深さ + 首都圏 GDP 規模での意義 + 関東 No.1 級地銀系シンクタンク認知
 - 弱み: 単独規模では大手シンクタンクに大幅劣後、海外調査 / グローバル案件は対応困難 ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) ではなく、シンクタンク事業会社として一般会社法上の規制適用
 - **業界団体**: 日本シンクタンク協議会 加盟 ^[inferred]
@@ -151,5 +151,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG think-tank-subsidiary anchor created 2026-05-24)。[[concordia-fg]] page = holding-company strategy (2025-10 YFG 商号変更含む) を扱い、本ページは think-tank / research-subsidiary operating boundary を扱う。売上・受託件数等 KPI 精緻値は親 [[concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式要参照 ^[ambiguous]。

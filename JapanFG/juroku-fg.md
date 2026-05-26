@@ -3,8 +3,8 @@ title: 十六 FG (Juroku Financial Group)
 aliases: ["十六フィナンシャルグループ", "Juroku FG", "十六 FG", "Juroku Financial Group", "16FG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 岐阜県地盤の地銀 FG。**2021-10-01 十六銀行の単独株式移転で持株会社化**して発足。中核子銀行は **十六銀行 (1877-10 第十六国立銀行として設立)** で岐阜県内 No.1 シェアを長期維持。社名「十六」は明治期の国立銀行ナンバリング (第十六国立銀行) 由来で、現存メガ・地銀の中でも「番号銀行」名称を残す数少ない例。中京経済圏の**北辺**に位置し、県内二強の [[ogaki-kyoritsu-bank]] (大垣共立銀行) と岐阜県内シェアを分け合う構図。地銀単独 HD 化としては全国的に遅い時期 (2021) の発足。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社十六フィナンシャルグループ
 **英名**: Juroku Financial Group, Inc.
@@ -46,7 +46,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── その他グループ会社 (カード・コンサル・システム 等) ^[inferred]
 ```
 
-## 2. 合併歷史・前身
+## 2. 合併経緯・前身
 
 ### 旧 十六銀行系 (源流)
 
@@ -69,7 +69,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 岐阜銀行は十六銀行と別系統の地銀で、経営問題を経て**2012-09 大垣共立銀行に吸収合併**された経緯
   - 十六銀行はこの再編に直接関与せず、岐阜県内地銀構図は「十六 vs 大垣共立」の二強に集約
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -82,7 +82,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信用保証 | 十六信用保証経由の個人ローン保証拡大 |
 | リース | 十六リース経由の中小企業設備投資ファイナンス |
 
-## 4. 戦略与竞争
+## 4. 戦略・競争
 
 ### 地理ポジション
 
@@ -115,7 +115,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 岐阜県内では恵那・多治見等の半導体製造装置部品メーカーへの融資機会 ^[inferred]
 - 十六 FG にとっては中京半導体特需の**間接的恩恵**を取り込む戦略 ^[inferred]
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁 (FSA) + 東海財務局
 - **持株会社規制**: 銀行法 第 52 条の 17
@@ -159,5 +159,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (v1.0 Wikipedia 公開情報ベース, 2026-05-19)。沿革 (1877 第十六国立銀行 → 1898 十六銀行 → 2021 十六 FG) は Wikipedia 経由で確認、具体的財務数値・最新中計詳細は未掲載。最新の業績・店舗網・戦略は十六 FG 公式 IR 要参照。県内競合構図 (vs 大垣共立) と中京経済圏内のポジションは公開情報からの推論を含む。

@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chain-abstraction-pattern-three-solutions.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chain-abstraction-pattern-three-solutions.md",
   "domain": "systems",
-  "title": "链抽象三大主流方案",
+  "title": "チェーン抽象の 3 大主流方式",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "链抽象三大主流方案 · AggLayer / NEAR / EigenLayer",
+    "title": "チェーン抽象の 3 大主流方式 · AggLayer / NEAR / EigenLayer",
     "aliases": [
       "chain-abstraction-pattern-three-solutions",
       "AggLayer NEAR EigenLayer comparison",
-      "链抽象三方案"
+      "チェーン抽象 3 方式"
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "链抽象三大主流方案",
+    "チェーン抽象の 3 大主流方式",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2768,
-    "word_like_tokens": 443,
+    "nonspace_chars": 3214,
+    "word_like_tokens": 472,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

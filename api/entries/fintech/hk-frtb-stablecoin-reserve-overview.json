@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/hk-frtb-stablecoin-reserve-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/hk-frtb-stablecoin-reserve-overview.md",
   "domain": "fintech",
-  "title": "HK FRTB 稳定币储备金要求 · HKMA Reserve Framework",
+  "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "HK FRTB 稳定币储备金要求 · HKMA Reserve Framework",
+    "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
     "aliases": [
       "hk-frtb-reserve",
       "HKMA stablecoin reserve",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -42,7 +42,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "HK FRTB 稳定币储备金要求 · HKMA Reserve Framework",
+    "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3304,
-    "word_like_tokens": 597,
+    "nonspace_chars": 3547,
+    "word_like_tokens": 600,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

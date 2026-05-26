@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -44,11 +44,11 @@
     "Wiki route",
     "TL;DR",
     "1. 法人・ライセンス境界",
-    "2. 公司結構",
+    "2. 会社概要",
     "業態の特徴",
     "重要年表 (公開情報ベース)",
-    "3. 业务线 map",
-    "4. 战略与競争",
+    "3. 事業セグメント・マップ",
+    "4. 戦略・競争",
     "地域密着型独立証券としてのポジション"
   ],
   "body_links": {
@@ -99,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4003,
-    "word_like_tokens": 545,
+    "nonspace_chars": 4008,
+    "word_like_tokens": 544,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

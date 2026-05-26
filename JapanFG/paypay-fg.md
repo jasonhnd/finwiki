@@ -3,8 +3,8 @@ title: PayPay 金融グループ
 aliases: ["PayPay FG", "PayPay 金融グループ", "PayPay Financial Group", "SoftBank 系金融事業"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, payment-fg, telecom-fg]
@@ -32,7 +32,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 SoftBank 株式会社 + LY Corporation 系の決済中核金融グループ。**コード決済「[[JapanFG/paypay|PayPay]]」登録ユーザー 7000 万超**（2025-07 時点、国内人口の過半数）、QR コード決済シェア約 2/3 で圧倒的首位。銀行・証券・カード・保険のクロスセル「スーパーアプリ」モデル。明示的な持株会社「PayPay 金融グループ」名称は **2024 年頃から使用**（純粋な金融持株会社ではなく機能的グルーピング呼称）。Z Holdings → LY Corporation 統合（2023-10）と **LINE Pay 国内終了（2025-04-30）完遂**を経て、PayPay 経済圏として再編完了。**2025-Q1 から SoftBank の Finance セグメントへ PayPay 銀行が再編入**（売上 4045 億円、社内全セグメント最大成長）。[[JapanFG/rakuten-fg|楽天経済圏]] / [[JapanFG/au-fh|au 経済圏]] / d 経済圏 と並ぶ 4 大「通信・決済系経済圏」の一角。**PayPay 株式会社の IPO 観測**が SoftBank FY2025 通期決算（売上 7 兆円超で初）で本格化。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **通称**：PayPay 金融グループ（機能的呼称、純粋持株会社ではない）
 **コア事業者**：PayPay 株式会社（ホールディング機能を一部担う）
@@ -125,7 +125,7 @@ SoftBank Group Corp.（9984、東証 PRIME）
 | **2025-07-15** | **PayPay 登録ユーザー 7000 万人突破**（国内人口の過半数）|
 | **2025-11-05** | SoftBank FY2025 通期決算 売上 7.04 兆円（初の 7 兆円超）、Finance セグメント 4045 億円で社内最大成長、PayPay IPO 観測が本格化 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -138,7 +138,7 @@ SoftBank Group Corp.（9984、東証 PRIME）
 | 通信 | SoftBank 株式会社 / Y!mobile / LINEMO | 通信契約 + 決済セット割 |
 | Fintech 周辺 | PayPay フリマ・PayPay モール（旧）| EC との連携 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### スーパーアプリ戦略
 
@@ -175,7 +175,7 @@ SoftBank Group Corp.（9984、東証 PRIME）
 - 楽天ペイ / d 払い / au PAY が二番手以下
 - LINE Pay 統合完了（2025-04-30）で国内 QR 決済の競合構図がさらに単純化
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 経済産業省（決済事業者監督）
 - **PayPay 株式会社**: 資金移動業者第 1 種（高額送金対応、2022 認可）/ 前払式支払手段発行者
@@ -231,5 +231,5 @@ SoftBank Group Corp.（9984、東証 PRIME）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.1 公式 PR + SoftBank IR + Wikipedia ベース 2026-05-19 更新）。**2025 年 KPI を全面更新**: ユーザー 7000 万、銀行口座 900 万、預金 1.9 兆円、GMV 12.5 兆円、Finance セグメント 4045 億円。LINE Pay 統合は 2025-04-30 完遂、事業譲渡なしの残高移行のみ。「PayPay 金融グループ」は機能的呼称で、正式持株会社ではない点に留意。PayPay カード有効会員は 2023-03 時点（最新公開）で 1000 万超止まり、最新値は要確認。PayPay 証券は FY2020 が最新公開財務で黒字化状況不明。

@@ -7,8 +7,8 @@ aliases:
   - "株式会社インフキュリオン"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, fintech, payments, wallet, white-label, card-issuing, embedded-finance]
@@ -48,7 +48,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **white-label fin
 
 [[JapanFG/freee|freee]] / [[JapanFG/money-forward|Money Forward]] のような SaaS と異なり、Infcurion は **エンドユーザー向けプロダクトを持たない fintech 基盤事業者** という JapanFG 上の独自カテゴリ。BNPL / ウォレット / 決済 PSP の各エコシステム横断で言及される common dependency を独立化して扱う必要がある。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **直接ライセンス保有 vs 提携モデル**: Infcurion 自身は金融業ライセンスを最小化し、提携先の銀行・カード会社・資金移動業者ライセンスを利用する設計が中核。^[inferred]
 - **個人情報保護法**: B2B2C モデルゆえ、エンドユーザーデータの「データ主体は誰か」が契約上重要。

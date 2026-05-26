@@ -6,18 +6,18 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/bft-validator-economy-four-variables.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/bft-validator-economy-four-variables.md",
   "domain": "systems",
-  "title": "BFT validator 经济四变量",
+  "title": "BFT validator 経済の4変数",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "BFT validator 经济四变量 · yield / slashing / MEV / 集中度",
+    "title": "BFT validator 経済の4変数 · yield / slashing / MEV / 集中度",
     "aliases": [
       "bft-validator-economy-four-variables",
       "validator economy yield slashing MEV concentration"
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -32,9 +32,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against BFT validator 经济学概览 · 四变量与机构链退化 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against BFT validator 経済学概観 · 4変数と機関チェーンの退化 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "BFT validator 经济四变量",
+    "BFT validator 経済の4変数",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2449,
-    "word_like_tokens": 421,
+    "nonspace_chars": 2820,
+    "word_like_tokens": 429,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -17,8 +17,8 @@
     ],
     "domain": "business",
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -38,7 +38,7 @@
       "https://gmo-aozora.com/company/outline.html"
     ]
   },
-  "summary": "This entry sits under business INDEX. Read it against 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under business INDEX. Read it against 三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
     "GMO Internet Group",
     "Wiki route",
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5660,
+    "nonspace_chars": 5671,
     "word_like_tokens": 869,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

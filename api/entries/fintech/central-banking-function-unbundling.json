@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/central-banking-function-unbundling.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/central-banking-function-unbundling.md",
   "domain": "fintech",
-  "title": "中央银行职能解体五层",
+  "title": "中央銀行機能のアンバンドリング 5 層",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "中央银行职能解体五层 —— 货币基础设施重组的宏观结构",
+    "title": "中央銀行機能のアンバンドリング 5 層 — 通貨インフラ再編のマクロ構造",
     "aliases": [
-      "央行解体",
+      "中央銀行アンバンドリング",
       "5-layer unbundling",
       "central banking function unbundling"
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -37,16 +37,16 @@
       "https://www.bis.org/cpmi/index.htm"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it against 美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构（MRA 互认） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "summary": "This entry sits under fintech index. Read it against 米 / 欧 / 日「三大円」stablecoin グローバル・コンプライアンス・アーキテクチャ（MRA 相互承認） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "中央银行职能解体五层",
+    "中央銀行機能のアンバンドリング 5 層",
     "Wiki route",
-    "5 项职能定义",
-    "解体触发",
-    "跨层网络效应",
-    "主角层级覆盖",
-    "应用",
-    "关联"
+    "5 機能の定義",
+    "アンバンドリングのトリガー",
+    "レイヤー間ネットワーク効果",
+    "主要プレイヤーのレイヤー別カバレッジ",
+    "応用",
+    "関連"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2937,
-    "word_like_tokens": 497,
+    "nonspace_chars": 3324,
+    "word_like_tokens": 508,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }
