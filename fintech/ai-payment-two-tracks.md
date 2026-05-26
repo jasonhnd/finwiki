@@ -1,12 +1,12 @@
 ---
-title: AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式
+title: AI 産業の 2 つの決済軌道 — Stripe モデル vs Stablecoin モデル
 aliases: []
 domain: fintech
 kind: knowledge
 topic: ai-payment-two-tracks
 created: 2026-04-16
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-10-30
 confidence: likely
 tags: [fintech]
@@ -19,7 +19,7 @@ sources:
   - https://www.anthropic.com/news
 ---
 
-# AI 产业的两条支付轨道
+# AI 産業の 2 つの決済軌道
 
 
 ## Wiki route
@@ -27,19 +27,19 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> 当前 AI 产业的跨境收款存在两条不对等的轨道：
+> 現在の AI 産業のクロスボーダー集金には、非対称な 2 つの軌道が存在する:
 
-**Stripe 轨道**（已通）：美国 AI 公司（OpenAI、Anthropic、Google）通过 Stripe 接全球信用卡，用户无感，资金直接到美国公司账户。覆盖全球绝大多数有信用卡的用户（同样路径的扩展见 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan Horse]]）。
+**Stripe 軌道**（既開通）: 米国の AI 企業（OpenAI、Anthropic、Google）は Stripe 経由でグローバルなクレジットカードに接続し、ユーザー無感のまま資金が直接米国法人口座に入金される。クレジットカードを保有するユーザーをほぼ全世界でカバー（同一経路の拡張は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5 層トロイの木馬]] 参照）。
 
-**稳定币轨道**（未通）：非美国 AI 公司出海卖 token/算力/订阅时，Stripe 轨道存在主体限制（需要海外公司持有 Stripe 账户）、外汇管制、合规复杂性等问题。稳定币（[[fintech/usd-stablecoin-interchange|USDC/USDT]]）在成本和速度上更优，但用户采纳率低，缺乏面向 AI 行业的收款基础设施。日本侧的 SC 法制度环境见 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]。
+**Stablecoin 軌道**（未開通）: 非米国の AI 企業がトークン / 計算リソース / サブスクリプションを海外向けに販売する場合、Stripe 軌道は主体制限（Stripe アカウント保有のための海外法人が必要）、外為規制、コンプライアンスの複雑さなどの障壁を抱える。Stablecoin（[[fintech/usd-stablecoin-interchange|USDC/USDT]]）はコスト・速度ともに優位だが、ユーザー採用率は低く、AI 産業向けの集金インフラが欠落している。日本側の SC 法制度環境は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] を参照。
 
-两条轨道的共存不是过渡状态。即使在远期 A2A 经济中，Agent 间微支付（$0.001-$1.00 级别）也无法承受 Stripe 的 $0.30 最低手续费，必须走稳定币轨道——这一规模化趋势也呼应了 [[fintech/stablecoin-crossborder-b2b-growth|B2B 稳定币跨境決済]] 的爆发性增长。Agent-side 协议侧的主战场是 [[agent-economy/ai-agent-payment-protocols-overview|AI agent 支付协议七层]] 与 [[agent-economy/x402-http-payment-overview|x402 HTTP 支付]];agent-issuer 层的具体玩家见 [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire closed-loop agent issuer]] 与 [[agent-economy/nevermined-compute-payment-protocol|Nevermined 算力支付协议]]。
+両軌道の共存は過渡的な状態ではない。たとえ将来的な A2A 経済においても、Agent 間のマイクロペイメント（$0.001-$1.00 級）は Stripe の $0.30 最低手数料に耐えられず、必然的に Stablecoin 軌道を通る — このスケール化トレンドは [[fintech/stablecoin-crossborder-b2b-growth|B2B Stablecoin クロスボーダー決済]] の爆発的成長とも符合する。Agent 側プロトコルの主戦場は [[agent-economy/ai-agent-payment-protocols-overview|AI agent 決済プロトコル 7 層]] と [[agent-economy/x402-http-payment-overview|x402 HTTP 決済]];agent-issuer 層の具体プレイヤーは [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire closed-loop agent issuer]] と [[agent-economy/nevermined-compute-payment-protocol|Nevermined 計算リソース決済プロトコル]] 参照。
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]
-- [[fintech/stablecoin-crossborder-b2b-growth|B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）]]
+- [[fintech/stablecoin-crossborder-b2b-growth|B2B Stablecoin クロスボーダー決済の爆発的成長（733% YoY、$226B）]]
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]
 - [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire · closed-loop agent issuer]]
 - [[agent-economy/nevermined-compute-payment-protocol|Nevermined · compute payment protocol]]
@@ -47,4 +47,4 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ---
 
-**Last refresh** (2026-05-25): refreshed dates; added Wave 10 agent-economy peer wikilinks (Skyfire, Nevermined).
+**Last refresh** (2026-05-26): JP 化、日付更新、Wave 10 agent-economy のピア wikilink 追加（Skyfire、Nevermined）。

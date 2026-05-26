@@ -1,10 +1,10 @@
 ---
-title: Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照
+title: Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照
 aliases: [hyperlane-vs-layerzero, hyperlane-vs-ccip, bridge-comparison]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, hyperlane, layerzero, ccip, comparison]
@@ -12,7 +12,7 @@ sources: []
 status: candidate
 ---
 
-# Hyperlane vs LayerZero/CCIP · Permissionless vs Gated 路线对照
+# Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照
 
 
 ## Wiki route
@@ -21,59 +21,59 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Key facts
 
-- Hyperlane 完全 permissionless · 任何人可 fork + deploy ^[extracted]
-- LayerZero 半 gated · 团队评估新链 · DVN 由 app 可选 ^[extracted]
-- CCIP 重 gated · Chainlink DON 部署 + RMN 风控 ^[extracted]
-- Cosmos / Solana / app-chain 默认 Hyperlane(LayerZero 在非 EVM 链推进缓慢) ^[extracted]
-- Tempo / Arc 等新 L1 偏好 Hyperlane(自主部署不依赖第三方) ^[inferred]
+- Hyperlane は完全 permissionless · 誰でも fork + deploy 可能 ^[extracted]
+- LayerZero は半 gated · チームが新規チェーンを評価 · DVN はアプリ側で選択可 ^[extracted]
+- CCIP は強い gated · Chainlink DON が展開 + RMN リスク管理 ^[extracted]
+- Cosmos / Solana / app-chain は Hyperlane がデフォルト(LayerZero は非 EVM チェーンでの展開が遅い) ^[extracted]
+- Tempo / Arc 等の新興 L1 は Hyperlane を好む(自主展開で第三者依存を回避) ^[inferred]
 
 ## Mechanism / How it works
 
-**三大协议详细对照**:
+**三大プロトコルの詳細対照**:
 
-| 维度 | LayerZero | Chainlink CCIP | Hyperlane |
+| 観点 | LayerZero | Chainlink CCIP | Hyperlane |
 |---|---|---|---|
-| 部署模式 | Gated(团队评估) | Heavily gated(DON 部署) | Permissionless |
-| 验证方案 | DVN(app 可选) | OCR 委员会 + RMN | Modular ISM(app 自选) |
-| 非 EVM 支持 | 慢 · 主推 EVM | 几乎无 | 强 · Cosmos/Solana/Move 一等公民 |
-| 机构背书 | 强(Stargate 等 DeFi 巨头) | 最强(Chainlink) | 弱(开发者向) |
-| 安全责任 | 协议方部分背书 | Chainlink 全背书 | 完全 app 开发者负责 |
-| 适合场景 | 主流 EVM dApp | 机构高金额跨链 | 长尾 / app-chain / 非 EVM |
+| 展開モデル | Gated(チーム評価) | Heavily gated(DON 展開) | Permissionless |
+| 検証方式 | DVN(アプリ側選択可) | OCR 委員会 + RMN | Modular ISM(アプリ側自選) |
+| 非 EVM サポート | 遅い · EVM を主軸 | ほぼなし | 強い · Cosmos/Solana/Move が一等市民 |
+| 機関の裏付け | 強い(Stargate 等 DeFi 大手) | 最強(Chainlink) | 弱い(開発者向け) |
+| セキュリティ責任 | プロトコル側が部分的に裏付け | Chainlink が全面裏付け | 完全にアプリ開発者の責任 |
+| 適合シナリオ | 主流 EVM dApp | 機関の高額クロスチェーン | ロングテール / app-chain / 非 EVM |
 
-**Tempo / Arc 的选择逻辑**:作为新 L1 · 不能等 LayerZero 或 CCIP 团队批准时间表。Hyperlane permissionless 部署让 Tempo/Arc 上线即接入 EVM 流动性。但同时他们可能并行集成 LayerZero / CCIP 以触达更多 dApp · 三足鼎立。
+**Tempo / Arc の選択ロジック**:新興 L1 として · LayerZero や CCIP チームの承認タイムテーブルを待つことはできない。Hyperlane の permissionless 展開により Tempo/Arc は立ち上げと同時に EVM 流動性に接続できる。ただし同時に、より多くの dApp にリーチするため LayerZero / CCIP の並行統合も行う可能性があり · 三足鼎立の構図となる。
 
-**非 EVM 流动性的关键瓶颈**:Cosmos / Solana / Move 等非 EVM 链接入 EVM 生态(USDC / USDT 流动性主要在 EVM)· LayerZero / CCIP 推进缓慢——Hyperlane 成为事实标准(对比 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 机构对照]] 在金融机构场景的渗透)。这让 Hyperlane 在长尾市场有先发优势。
+**非 EVM 流動性の重要なボトルネック**:Cosmos / Solana / Move 等の非 EVM チェーンが EVM エコシステム(USDC / USDT の流動性は主に EVM 上)に接続する際 · LayerZero / CCIP の展開は遅く —— Hyperlane が事実上の標準となっている(金融機関シナリオでの浸透については [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 機関対照]] と対照)。これにより Hyperlane はロングテール市場で先行優位を持つ。
 
 ## Origin & evolution
 
-三大协议同期(2021-2022)启动 · 但走向截然不同:
-- LayerZero 2021-2022 大规模融资 + 激进市场推广 · 早期心智份额领先
-- CCIP 2022-2023 由 Chainlink 主推 · 借 Chainlink 既有机构关系
-- Hyperlane 2021-2022 启动 · 早期默默无闻 · 2023-2024 在 Cosmos / Solana 市场逆袭
+三大プロトコルは同時期(2021-2022)に立ち上がったが · その後の方向性は大きく異なる:
+- LayerZero は 2021-2022 に大規模調達 + 積極的なマーケティング · 初期マインドシェアでリード
+- CCIP は 2022-2023 に Chainlink が主推進 · Chainlink 既存の機関関係を利用
+- Hyperlane は 2021-2022 に立ち上げ · 初期は無名 · 2023-2024 に Cosmos / Solana 市場で逆襲
 
-2024-2026 间格局趋于稳定:LayerZero 主导 EVM 主流 dApp · CCIP 主导机构高金额 · Hyperlane 主导长尾 / 非 EVM / app-chain。
+2024-2026 年にかけて構図は安定:LayerZero は主流 EVM dApp を主導 · CCIP は機関の高額領域を主導 · Hyperlane はロングテール / 非 EVM / app-chain を主導。
 
 ## Counterpoints
 
-**Hyperlane 心智份额弱**:LayerZero 通过早期激进市场 + Stargate 等"标杆 dApp"建立心智锚定 · Hyperlane 在大型 dApp 选型时仍处于劣势。需要更多旗舰案例。
+**Hyperlane のマインドシェアの弱さ**:LayerZero は初期の積極的マーケティング + Stargate 等の「フラッグシップ dApp」によってマインドシェアのアンカーを確立しており · Hyperlane は大規模 dApp の選定において依然劣位にある。さらなるフラッグシップ案件が必要である。
 
-**LayerZero / CCIP 也在 catch up**:LayerZero 在 2024-2025 间加强 Cosmos / Solana 支持 · CCIP 推出更多链——长期看 permissionless 优势可能被稀释。Hyperlane 需要持续投入差异化(EigenLayerISM、ZK ISM 等)。
+**LayerZero / CCIP も追い上げ中**:LayerZero は 2024-2025 年に Cosmos / Solana サポートを強化 · CCIP もより多くのチェーンを展開 —— 長期的には permissionless の優位性が希薄化する可能性がある。Hyperlane は持続的に差別化投資を続ける必要がある(EigenLayerISM、ZK ISM 等)。
 
-**Tempo / Arc 选择不确定**:虽然 Hyperlane 看似最优 · 但 Tempo / Arc 作为企业级 L1 · 可能更看重 LayerZero / CCIP 的"协议方背书"减少自营 security 责任。最终可能选多桥并行。
+**Tempo / Arc の選択は不確実**:Hyperlane が一見最適に見えても · エンタープライズグレード L1 としての Tempo / Arc は LayerZero / CCIP の「プロトコル側裏付け」によるセキュリティ責任軽減を重視する可能性がある。最終的には複数 bridge を並行採用する可能性もある。
 
 ## Open questions
 
-- 三大协议 5 年市场份额预测?(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 的并表评估)
-- Hyperlane 是否会建立"机构信任锚"(类似 Chainlink RMN)?
-- ZK ISM(zero-knowledge 验证)何时主流化?
-- 跨协议 messaging(LayerZero <-> Hyperlane)是否会出现?(在 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 场景中三家如何分摊流量也是验证窗口)
+- 三大プロトコルの 5 年後の市場シェア予測は?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] の連結評価を参照)
+- Hyperlane は「機関信頼アンカー」(Chainlink RMN 類似)を構築するか?
+- ZK ISM(zero-knowledge 検証)はいつ主流化するか?
+- クロスプロトコル messaging(LayerZero <-> Hyperlane)は出現するか?([[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] シナリオで三社がどうトラフィックを分け合うかも検証窓口)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/hyperlane-overview|Hyperlane Overview]]
 - [[systems/hyperlane-ism-modular-security|Hyperlane ISM]]
-- [[systems/cctp-v2-overview|CCTP V2(USDC 专用 bridge 对照)]]
+- [[systems/cctp-v2-overview|CCTP V2(USDC 専用 bridge 対照)]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -7,8 +7,8 @@ aliases:
   - "セイコーエプソン"
 domain: "manufacturing"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: likely
 tags: [manufacturing, electronics, nagano]
@@ -30,7 +30,7 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with 
 
 セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[JapanFG/hachijuni-bank|八十二銀行]] の長野県製造業 main bank 文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための manufacturing anchor。
 
-## 1. 公司结构
+## 1. 会社構造
 
 | 項目 | 内容 |
 |---|---|
@@ -43,9 +43,9 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with 
 | 連結売上 | 1,362.9 billion yen（2025-03-31） |
 | グループ会社 | 89社（日本 21、海外 68） |
 
-## 2. 业务线 map
+## 2. 事業ライン map
 
-| 业务线 | 内容 | 地域金融との接点 |
+| 事業ライン | 内容 | 地域金融との接点 |
 |---|---|---|
 | Office & Home Printing | インクジェットプリンタ、消耗品 | 収益基盤・構造転換 |
 | Visual & Lifestyle | プロジェクター、ウォッチ等 | ブランド・精密技術 |
@@ -55,14 +55,14 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with 
 
 公式会社概要は Epson の事業を Precision Innovation、Industrial & Robotics、Office & Home Printing、Visual & Lifestyle の 4 領域で整理している。
 
-## 3. 战略与竞争
+## 3. 戦略と競合
 
 - **長野県電子産業 anchor**: 諏訪・松本周辺の精密機械・電子部品集積を代表する企業であり、[[JapanFG/hachijuni-bank|hachijuni-bank]] の地場製造業金融文脈と接続する。
 - **プリンティング依存の転換**: Office / Home Printing は大きな収益源だが、ペーパーレス化・消耗品モデル変化に直面する。
 - **ロボティクス・産業機器**: 人手不足・工場自動化を背景に、産業ロボットや精密機器の成長余地がある。
 - **環境戦略**: 省エネ・資源循環・脱炭素は、企業価値だけでなく設備更新・地域金融の融資テーマにもなる。
 
-## 4. 监管与政策
+## 4. 規制と政策
 
 - 上場会社として東証・金商法・会社法の開示対象。
 - 電子機器・化学物質・輸出管理・環境規制の影響を受ける。
@@ -94,5 +94,5 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with 
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**。公式会社概要・IR ページで基本属性、2025-03-31 KPI、事業分類を確認。
+> [!info] 校正ステータス
+> confidence: **likely**。公式会社概要・IRページで基本属性、2025-03-31 KPI、事業分類を確認。

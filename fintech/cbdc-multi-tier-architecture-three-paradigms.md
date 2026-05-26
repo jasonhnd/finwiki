@@ -1,10 +1,10 @@
 ---
-title: CBDC 三大现役范式 · e-CNY / DREX / 数字欧元
-aliases: [cbdc-multi-tier-architecture-three-paradigms, ecny drex digital-euro comparison, CBDC 现役范式对比]
+title: CBDC 3 大現役パラダイム · e-CNY / DREX / デジタル・ユーロ
+aliases: [cbdc-multi-tier-architecture-three-paradigms, ecny drex digital-euro comparison, CBDC 現役パラダイム比較]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, cbdc, e-cny, drex, digital-euro, paradigm, case-study]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# CBDC 三大现役范式
+# CBDC 3 大現役パラダイム
 
 
 ## Wiki route
@@ -25,61 +25,61 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 三个 CBDC 项目分别代表三种架构范式:中国 e-CNY = 双层架构典范(央行 → 6 商行 → 用户)、巴西 DREX = token-based 多层(BCB → 商行代币化存款 → 用户 · Hyperledger Besu)、欧元数字 = 混合架构(ECB → PSP → 用户 · €3000-4000 持有上限)。三者展示央行如何在保护金融中介 vs 引入可编程性间权衡。
+> 3 つの CBDC プロジェクトはそれぞれ 3 種類のアーキテクチャ・パラダイムを代表する: 中国 e-CNY = 二層アーキテクチャの典型（中央銀行 → 6 商業銀行 → ユーザー）、ブラジル DREX = token-based 多層（BCB → 商業銀行トークン化預金 → ユーザー · Hyperledger Besu）、デジタル・ユーロ = ハイブリッド・アーキテクチャ（ECB → PSP → ユーザー · €3000-4000 保有上限）。3 者は中央銀行が金融仲介保護とプログラマビリティ導入のあいだでどうトレードオフするかを示している。
 
 ## Key facts
 
-- e-CNY 2014 启动研究,2020.04 试点;2025 累计交易额 ¥7 万亿+ ^[extracted]
-- e-CNY 运营机构:工 / 农 / 中 / 建 / 交 + 6 商行 ^[extracted]
-- e-CNY 跨境通过 mBridge 与港 / 泰 / UAE 互联 ^[extracted]
-- DREX 技术栈:Hyperledger Besu(EVM 兼容)+ 智能合约可编程 ^[extracted]
-- DREX 2024-2025 试点,14 个机构联盟参与 ^[extracted]
-- 数字欧元 2025 已立法启动,持有上限 €3000-4000 ^[extracted]
-- 数字欧元离线交易类现金式隐私,在线类账户式 ^[extracted]
+- e-CNY 2014 研究開始、2020.04 試験運用;2025 累計取引額 ¥7 兆元超 ^[extracted]
+- e-CNY の運営機関: 工 / 農 / 中 / 建 / 交 + 6 商業銀行 ^[extracted]
+- e-CNY のクロスボーダーは mBridge で香港 / タイ / UAE と相互接続 ^[extracted]
+- DREX の技術スタック: Hyperledger Besu（EVM 互換） + スマートコントラクト・プログラマビリティ ^[extracted]
+- DREX 2024-2025 試験運用、14 機関連合が参加 ^[extracted]
+- デジタル・ユーロは 2025 年に立法スタート、保有上限 €3000-4000 ^[extracted]
+- デジタル・ユーロのオフライン取引はキャッシュ型プライバシー、オンラインはアカウント型 ^[extracted]
 
 ## Mechanism / How it works
 
-**中国 e-CNY · 双层架构典范**:
-- 央行(PBoC)→ 运营机构(6 商行)→ 用户钱包
-- 账户 + 价值代币混合,可控匿名(小额匿名,大额可追溯)
-- 完整保留商业银行中介,不动摇 4 大行体系
-- 跨境通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]],与港币 / 泰铢 / 迪拉姆互联
+**中国 e-CNY · 二層アーキテクチャの典型**:
+- 中央銀行（PBoC） → 運営機関（6 商業銀行） → ユーザー・ウォレット
+- アカウント + 価値トークン混合、コントロール可能な匿名性（小額は匿名、大額は追跡可能）
+- 商業銀行仲介を完全保持、4 大行体系を揺るがさない
+- クロスボーダーは [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 経由で香港ドル / タイバーツ / ディルハムと相互接続
 
-**巴西 DREX · token-based 多层**:
-- BCB(巴西央行)→ 商业银行(发代币化存款)→ 用户
-- Hyperledger Besu(EVM 兼容)+ 智能合约
-- DREX 不是直接零售 CBDC,而是 wholesale CBDC + 代币化存款双层
-- 关键判断:**通过代币化存款,让商业银行成为创新承接方**
+**ブラジル DREX · token-based 多層**:
+- BCB（ブラジル中央銀行） → 商業銀行（トークン化預金を発行） → ユーザー
+- Hyperledger Besu（EVM 互換） + スマートコントラクト
+- DREX は直接的なリテール CBDC ではなく、wholesale CBDC + トークン化預金の二層
+- 主要な判断: **トークン化預金を通じて商業銀行をイノベーションの担い手にする**
 
-**欧元数字 · 混合架构**:
-- ECB → 监管支付服务商(PSP)→ 用户
-- 技术尚未最终定型,2025 立法启动
-- 离线交易类现金式隐私,在线类账户式
-- 持有上限 €3000-4000 → 明确**保护商业银行存款基础**,设上限避免脱媒
+**デジタル・ユーロ · ハイブリッド・アーキテクチャ**:
+- ECB → 規制下のペイメントサービス提供者（PSP） → ユーザー
+- 技術は最終確定しておらず、2025 年に立法スタート
+- オフライン取引はキャッシュ型プライバシー、オンラインはアカウント型
+- 保有上限 €3000-4000 → **商業銀行預金基盤を明確に保護**、ディスインターメディエーションを回避
 
 ## Origin & evolution
 
-2014 中国 PBoC 启动 e-CNY → 全球最早 CBDC 研究项目。2020.04 e-CNY 首批 4 城试点,2022.04 扩至 23 城。2023 巴西 DREX(原 Real Digital)启动 → 选 Hyperledger Besu 是从"链原生 + EVM 生态"角度的关键决定。2023 ECB 完成数字欧元 Investigation Phase,2024 Preparation Phase,2025.06 立法启动 → 持有上限是设计协商的政治焦点。三个项目分别代表中国(国家主导)、新兴市场(银行赋能)、欧元区(谨慎保护中介)三种政治路径。日本侧 DC-JPY 见 [[fintech/jp-stablecoin-dcjpy|DC-JPY 概览]]。
+2014 中国 PBoC が e-CNY を開始 → 世界最古の CBDC 研究プロジェクト。2020.04 e-CNY 最初の 4 都市試験運用、2022.04 で 23 都市に拡大。2023 ブラジル DREX（旧 Real Digital）開始 → Hyperledger Besu の選択は「チェーン・ネイティブ + EVM エコシステム」の観点から重要な決定。2023 ECB がデジタル・ユーロの Investigation Phase を完了、2024 Preparation Phase、2025.06 立法スタート → 保有上限は設計協議における政治的焦点。3 つのプロジェクトはそれぞれ中国（国家主導）、新興市場（銀行エンパワーメント）、ユーロ圏（中介を慎重に保護）の 3 つの政治的経路を体現する。日本側 DC-JPY は [[fintech/jp-stablecoin-dcjpy|DC-JPY 概要]] 参照。
 
 ## Counterpoints
 
-- e-CNY 用户活跃度数据混乱,¥7 万亿累计 ≠ 大规模日活
-- DREX 试点 14 机构联盟规模有限,商业化时间表反复延期
-- 数字欧元持有上限 €3000-4000 是政治妥协产物,可能在使用中调整
-- 三项目的"成功标准"未明确公开 → 难以定量评估
+- e-CNY のユーザーアクティビティデータは混乱、¥7 兆元の累計 ≠ 大規模 DAU
+- DREX 試験運用は 14 機関連合に規模が限られ、商業化のタイムテーブルは繰り返し延期
+- デジタル・ユーロの保有上限 €3000-4000 は政治的妥協の産物で、実際の利用で調整される可能性
+- 3 プロジェクトの「成功基準」は公的に明示されておらず、定量評価は困難
 
 ## Open questions
 
-- e-CNY 是否会演化加入 token-based 多层元素(智能合约)?
-- DREX 商业化失败的话(若 2027 仍未规模化),token-based 多层范式是否会被放弃?
-- 数字欧元真正发币时间表(2027?2028?)?
+- e-CNY は token-based 多層要素（スマートコントラクト）を取り込む進化をするか?
+- DREX が商業化に失敗した場合（2027 になっても規模化しない場合）、token-based 多層パラダイムは放棄されるか?
+- デジタル・ユーロの真の発行タイムテーブル（2027? 2028?）は?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|架构选择 4 核心权衡]]
-- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 战略对照]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]]
+- [[fintech/cbdc-multi-tier-architecture-tradeoffs|アーキテクチャ選択 4 大トレードオフ]]
+- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 戦略比較]]
 <!-- /wiki-links:managed -->
 
 ## Sources

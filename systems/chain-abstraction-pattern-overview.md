@@ -1,10 +1,10 @@
 ---
-title: 链抽象模式概览 · 用户不感知底层链的下一层基础设施
-aliases: [chain-abstraction-pattern-overview, chain abstraction overview, 链抽象概览]
+title: チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ
+aliases: [chain-abstraction-pattern-overview, chain abstraction overview, チェーン抽象概観]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, chain-abstraction, embedded-wallet, ux, intent-based]
@@ -12,55 +12,55 @@ sources: []
 status: candidate
 ---
 
-# 链抽象模式概览
+# チェーン抽象モデル概観
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet 採用状況 · Privy/Coinbase/Alchemy/Safe]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 链抽象不消灭多链,而是让多链对用户透明 ^[extracted]
-- embedded wallet + 链抽象 = Web2 级 UX,是 2026+ retail 上链的关键 ^[inferred]
-- 三大主流方案:Polygon AggLayer / NEAR Chain Abstraction / EigenLayer restaking ^[extracted]
-- Base + Coinbase Smart Wallet = 当前最成熟的"端到端链抽象"实例 ^[extracted]
-- 监管尚未触及链抽象,但 MiCA / GENIUS 都默认"用户知道自己在哪条链" ^[extracted]
-- 跨链桥已成 commodity,价值捕获上移到链抽象层 ^[inferred]
+- チェーン抽象はマルチチェーンを消滅させず、マルチチェーンをユーザーに対して透明にする ^[extracted]
+- embedded wallet + チェーン抽象 = Web2 級 UX、2026+ にリテールがオンチェーン化する鍵 ^[inferred]
+- 3 大主流方式:Polygon AggLayer / NEAR Chain Abstraction / EigenLayer restaking ^[extracted]
+- Base + Coinbase Smart Wallet = 現時点で最も成熟した「エンドツーエンドのチェーン抽象」実装例 ^[extracted]
+- 規制はまだチェーン抽象に触れていないが、MiCA / GENIUS はデフォルトで「ユーザーは自分がどのチェーンにいるか知っている」と想定している ^[extracted]
+- クロスチェーンブリッジは既にコモディティ化し、価値捕捉はチェーン抽象層に上方シフト ^[inferred]
 
 ## Mechanism / How it works
 
-链抽象的核心机制是把"链选择"从用户决策迁移到协议层。**三阶段范式演化**:
-1. **钱包感知**(MetaMask 时代 · 2017-2022):用户管助记词 + 选链 + 切链
-2. **embedded wallet**(Privy / Dynamic 时代 · 2023-2024):用户用邮箱 / 社交登录,仍需选链
-3. **链抽象**(AggLayer / NEAR 时代 · 2024-2026+):用户根本不知道在哪条链,协议自动路由
+チェーン抽象の中核メカニズムは「チェーン選択」をユーザー意思決定からプロトコル層に移行することにある。**3 段階パラダイム進化**:
+1. **ウォレット認識**(MetaMask 時代 · 2017-2022):ユーザーがニーモニックを管理 + チェーン選択 + チェーン切替
+2. **embedded wallet**(Privy / Dynamic 時代 · 2023-2024):ユーザーがメール / ソーシャルログインを使用、それでもチェーン選択は必要
+3. **チェーン抽象**(AggLayer / NEAR 時代 · 2024-2026+):ユーザーは自分がどのチェーンにいるか全く知らず、プロトコルが自動ルーティング
 
-**Base + Coinbase Smart Wallet 案例**:用户用邮箱登录直接交易,根本不知道自己在 L2 上。这是 embedded wallet + 链抽象的端到端范例。**关键张力**:链抽象与"主权链"叙事矛盾 —— 机构链(Kinexys / Arc)希望用户绑定其链以保留控制权,但用户希望抽象掉链选择。
+**Base + Coinbase Smart Wallet の事例**:ユーザーはメールログインで直接取引、L2 上にいることすら知らない。これは embedded wallet + チェーン抽象のエンドツーエンドの典型例。**主要な緊張**:チェーン抽象は「主権チェーン」物語と矛盾する —— 機関チェーン(Kinexys / Arc)はユーザーを自身のチェーンに縛り付けて支配権を保持したいが、ユーザーはチェーン選択を抽象化したい。
 
 ## Origin & evolution
 
-2017-2022 多链时代用户深感切链痛苦(钱包切换 / gas 代币 / 桥风险)。2022-2023 跨链桥(Wormhole / LayerZero / Axelar)成熟但不解决 UX 问题。2023 [[agent-economy/privy-embedded-wallet-overview|Privy]] / Dynamic / Magic 等 embedded wallet 出现,解决私钥 UX,但链选择仍需用户(参见 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。2024.02 Polygon AggLayer v1 上线 → "共享流动性 + 状态"路径。2024.04 NEAR Chain Signatures + Intents → "意图驱动 + MPC 多链账户"路径。2024.04 EigenLayer mainnet → "共享安全 / restaking"路径(安全层抽象)。2025-2026 三方案并存,链抽象成为协议价值捕获新前沿。
+2017-2022 マルチチェーン時代、ユーザーはチェーン切替の苦痛を深く感じていた(ウォレット切替 / gas トークン / ブリッジリスク)。2022-2023 クロスチェーンブリッジ(Wormhole / LayerZero / Axelar)は成熟したが UX 問題は解決しなかった。2023 [[agent-economy/privy-embedded-wallet-overview|Privy]] / Dynamic / Magic 等の embedded wallet が登場、秘密鍵 UX を解決したが、チェーン選択は依然ユーザー任せ([[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] 参照)。2024.02 Polygon AggLayer v1 ローンチ → 「共有流動性 + 状態」経路。2024.04 NEAR Chain Signatures + Intents → 「意図駆動 + MPC マルチチェーンアカウント」経路。2024.04 EigenLayer メインネット → 「共有セキュリティ / restaking」経路(セキュリティ層抽象)。2025-2026 3 方式が共存、チェーン抽象がプロトコル価値捕捉の新フロンティアに。
 
 ## Counterpoints
 
-- "用户不感知链"假设安全 / 性能 / gas 都已抽象化 → 但底层链失败时(rollup 暂停 / L1 拥堵)抽象层无法承诺一致体验
-- 监管可能反对链抽象 —— 若用户不知道资产在哪条链,出问题时管辖归属难定
-- "主权链 vs 链抽象"二分可能过度简化 —— 机构链未必拒绝抽象,可能选择"白名单链抽象"
-- 三方案技术路径差异极大,可能长期分裂而非收敛
+- 「ユーザーがチェーンを意識しない」はセキュリティ / パフォーマンス / gas が全て抽象化されたことを前提とする → しかし基盤チェーンが失敗した時(rollup 停止 / L1 混雑)、抽象層は一貫体験をコミットできない
+- 規制はチェーン抽象に反対する可能性 —— ユーザーが資産がどのチェーンにあるか知らない場合、問題発生時の管轄帰属が判断困難
+- 「主権チェーン vs チェーン抽象」二分は過度な単純化の可能性 —— 機関チェーンは抽象を拒否するとは限らず、「ホワイトリストチェーン抽象」を選択する可能性がある
+- 3 方式の技術経路差異は極めて大きく、長期的に分裂したまま収斂しない可能性
 
 ## Open questions
 
-- AggLayer / NEAR / EigenLayer 哪个会成为事实标准?或者并存?
-- 监管(MiCA / GENIUS)何时会针对链抽象出明确规则?
-- 机构链(Tempo / Arc / Kinexys)会否选择拥抱链抽象?(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 在多链上的实际抽象层)
+- AggLayer / NEAR / EigenLayer のうちどれが事実上の標準となるか?それとも共存か?
+- 規制(MiCA / GENIUS)はチェーン抽象に対していつ明確なルールを出すか?
+- 機関チェーン(Tempo / Arc / Kinexys)はチェーン抽象を受け入れるか?([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] のマルチチェーン上の実際の抽象層と対照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/chain-abstraction-pattern-three-solutions|三大主流方案 · AggLayer / NEAR / EigenLayer]]
-- [[systems/chain-abstraction-pattern-value-capture|跨链桥 commoditization 与价值上移]]
-- [[systems/bft-validator-economy-overview|BFT validator 经济学]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密文化分离]]
+- [[systems/chain-abstraction-pattern-three-solutions|3 大主流方式 · AggLayer / NEAR / EigenLayer]]
+- [[systems/chain-abstraction-pattern-value-capture|クロスチェーンブリッジコモディティ化と価値上方シフト]]
+- [[systems/bft-validator-economy-overview|BFT validator 経済学]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化分離]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -1,10 +1,10 @@
 ---
-title: Hyperlane Interchain Security Modules(ISM)· 可插拔验证层
+title: Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー
 aliases: [hyperlane-ism, modular-ism, hyperlane-security]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, ism, hyperlane, security]
@@ -12,7 +12,7 @@ sources: []
 status: candidate
 ---
 
-# Hyperlane Interchain Security Modules(ISM)· 可插拔验证层
+# Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー
 
 
 ## Wiki route
@@ -21,53 +21,53 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Key facts
 
-- 5+ 标准 ISM 类型可选 ^[extracted]
-- MultisigISM 是默认 · 类似 LayerZero DVN ^[extracted]
-- OptimisticISM 引入 7 天挑战期 + watcher ^[extracted]
-- EigenLayerISM 把跨链安全继承自 Ethereum L1 restaking ^[extracted]
-- AggregationISM 允许多 ISM 组合(例 multisig + optimistic 双重) ^[extracted]
-- RoutingISM 按 message type 路由不同 ISM ^[extracted]
+- 5 種類以上の標準 ISM タイプから選択可能 ^[extracted]
+- MultisigISM がデフォルト · LayerZero DVN に類似 ^[extracted]
+- OptimisticISM は 7 日間のチャレンジ期間 + watcher を導入 ^[extracted]
+- EigenLayerISM はクロスチェーンセキュリティを Ethereum L1 restaking から継承 ^[extracted]
+- AggregationISM は複数 ISM の組み合わせを許容(例:multisig + optimistic の二重) ^[extracted]
+- RoutingISM は message type に応じて異なる ISM へルーティング ^[extracted]
 
 ## Mechanism / How it works
 
-**核心 ISM 类型**:
+**主要な ISM タイプ**:
 
-| ISM | 验证方案 | 适用场景 |
+| ISM | 検証方式 | 適用シナリオ |
 |---|---|---|
-| **MultisigISM** | N-of-M 签名 · 类似 LayerZero DVN | 默认选项 · 平衡安全性和速度 |
-| **OptimisticISM** | 7 天挑战期 + watcher | 高金额低频跨链 · 类似 OP 提款 |
-| **CCIPReadISM** | 与 Chainlink CCIP 协同 | 想要 Chainlink 背书又用 Hyperlane infra |
-| **AggregationISM** | 多 ISM 组合(multisig + optimistic 双重) | 极高安全要求(机构 / 大额) |
-| **RoutingISM** | 按 message type 路由不同 ISM | 复杂应用 · 不同消息类型不同安全级别 |
-| **EigenLayerISM** | Restaking-secured · ETH 担保 | 想要继承 Ethereum L1 经济安全 |
+| **MultisigISM** | N-of-M 署名 · LayerZero DVN に類似 | デフォルトオプション · セキュリティと速度のバランス |
+| **OptimisticISM** | 7 日間のチャレンジ期間 + watcher | 高額・低頻度のクロスチェーン · OP withdrawal に類似 |
+| **CCIPReadISM** | Chainlink CCIP と協調 | Chainlink の裏付けを得つつ Hyperlane インフラを使う場合 |
+| **AggregationISM** | 複数 ISM の組み合わせ(multisig + optimistic の二重) | 極めて高いセキュリティ要件(機関 / 大口) |
+| **RoutingISM** | message type に応じて異なる ISM へルーティング | 複雑なアプリ · メッセージ種別ごとに異なるセキュリティレベル |
+| **EigenLayerISM** | Restaking-secured · ETH 担保 | Ethereum L1 経済セキュリティを継承したい場合 |
 
-**ISM 选择的权衡**:
-- **速度 vs 安全**:multisig 快但单点风险 · optimistic 安全但 7 天延迟
-- **成本 vs 信任**:CCIPRead 借 Chainlink 信任但增加成本 · 自营 multisig 便宜但需要自己运营 validator
-- **简单 vs 灵活**:单 ISM 简单 · Aggregation 安全但 gas 高
+**ISM 選択のトレードオフ**:
+- **速度 vs セキュリティ**:multisig は速いが単一障害点リスクあり · optimistic はセキュアだが 7 日間の遅延あり
+- **コスト vs 信頼**:CCIPRead は Chainlink の信頼を借りるがコスト増 · 自社運営の multisig は安価だが validator を自分で運営する必要あり
+- **シンプル vs 柔軟**:単一 ISM はシンプル · Aggregation はセキュアだが gas 高
 
-**EigenLayerISM 的特殊意义**:把"加密经济安全 = ETH 担保"模型引入跨链验证。验证人质押的 ETH 通过 EigenLayer restake 给 Hyperlane 验证者——若验证错误 · slash 发生在 EigenLayer 层 · 损失最终由 Ethereum L1 stake 承担。这把 restaking 与 cross-chain security 直接挂钩 · 是模块化中间件 + restaking 概念的最早落地之一(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])。
+**EigenLayerISM の特別な意義**:「暗号経済セキュリティ = ETH 担保」モデルをクロスチェーン検証に導入する。validator がステークした ETH を EigenLayer 経由で Hyperlane 検証者に restake —— 検証エラーが発生した場合 · slash は EigenLayer 層で発生し · 損失は最終的に Ethereum L1 stake が負担する。これは restaking と cross-chain security を直接結びつけたものであり · モジュラーミドルウェア + restaking 概念が初期に実現した事例の一つである([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]] を参照)。
 
 ## Origin & evolution
 
-ISM 模块化是 Hyperlane 2022 改名时的核心设计——团队认识到"一刀切的跨链安全模型"不能满足所有应用。早期只有 MultisigISM,2023-2024 逐步增加 OptimisticISM / CCIPReadISM / AggregationISM。
+ISM のモジュラー化は Hyperlane 2022 年の改名時のコア設計である —— チームは「画一的なクロスチェーンセキュリティモデル」ではすべてのアプリの要求を満たせないと認識した。初期は MultisigISM のみだったが,2023-2024 年にかけて OptimisticISM / CCIPReadISM / AggregationISM が順次追加された。
 
-2024 年 EigenLayer 集成是 ISM 模块化的关键里程碑——证明 Hyperlane 可以兼容任何 verification primitive · 不限于自家 validator 集合。这与 LayerZero DVN 的封闭式 verifier 形成对照。
+2024 年の EigenLayer 統合は ISM モジュラー化の重要なマイルストーンであった —— Hyperlane が任意の verification primitive と互換性を持ち · 自社 validator セットに限らないことを示した。これは LayerZero DVN のクローズド型 verifier と対照的である。
 
 ## Counterpoints
 
-**ISM 选择负担**:大多数 dApp 开发者不是 security 专家 · 让他们在 5+ ISM 中选择本身就是设计风险。LayerZero 的"团队配置 DVN"模式对普通开发者更友好。
+**ISM 選択の負担**:ほとんどの dApp 開発者は security の専門家ではなく · 5 種類以上の ISM から選ばせること自体が設計リスクである。LayerZero の「チームが DVN を構成する」モデルは一般開発者にとってより親しみやすい。
 
-**Aggregation 复杂度**:多 ISM 组合理论上提升安全 · 但 gas 成本和延迟叠加 · 实际采用率不高。
+**Aggregation の複雑度**:複数 ISM の組み合わせは理論上はセキュリティを高めるが · gas コストと遅延が累積し · 実際の採用率は高くない。
 
-**EigenLayerISM 的依赖链**:把跨链安全继承自 ETH restaking · 意味着 Hyperlane 安全 ⊂ EigenLayer 安全 ⊂ Ethereum L1 安全——链条长 · 任何一环出问题都会传染(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 中加密原生侧的系统性风险传染路径)。
+**EigenLayerISM の依存チェーン**:クロスチェーンセキュリティを ETH restaking から継承するということは · Hyperlane セキュリティ ⊂ EigenLayer セキュリティ ⊂ Ethereum L1 セキュリティということを意味する —— チェーンが長く · どこか 1 か所で問題が発生すると伝播する([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] の暗号ネイティブ側におけるシステミックリスク伝播経路と対照)。
 
 ## Open questions
 
-- 实际部署中各 ISM 类型的采用比例?
-- EigenLayerISM 在 slashing 启用后的实际 slash 事件?
-- 跨 ISM 的 portability(从 multisig 升级到 EigenLayerISM)是否平滑?
-- ISM 设计的下一代演化方向(ZK ISM 何时落地)?(对比 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 中各方案信任假设的同向演化)
+- 実際の展開において各 ISM タイプの採用比率は?
+- EigenLayerISM の slashing 有効化後における実際の slash イベントは?
+- ISM 間のポータビリティ(multisig から EigenLayerISM へのアップグレード)はスムーズか?
+- ISM 設計の次世代進化方向(ZK ISM はいつ実現するか)?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] における各方式の信頼前提の同方向進化と対照)
 
 ## Related
 <!-- wiki-links:managed -->

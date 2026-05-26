@@ -1,10 +1,10 @@
 ---
-title: 跨链选型决策树 · 按主角维度匹配协议
+title: クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング
 aliases: [cross chain four poles selection decision, bridge protocol selection by protagonist, cross-chain decision tree]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, decision-framework, layerzero, ccip, hyperlane, cctp]
@@ -12,7 +12,7 @@ sources: []
 status: candidate
 ---
 
-# 跨链选型决策树 · 按主角维度匹配协议
+# クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング
 
 
 ## Wiki route
@@ -21,61 +21,61 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Key facts
 
-- Tempo 选 CCIP 逻辑 = Visa / SC / Stripe 客户需监管可解释 → 不能用 Wormhole 多签 ^[inferred]
-- Base 多极组合 = CCIP(Circle bridge) + LayerZero(long-tail) + CCTP V2(USDC fast path) ^[inferred]
-- Hyperlane 类比 = Cloudflare Workers vs AWS Lambda · 长尾对冲选项 ^[inferred]
-- CCTP V2 Hooks(2025.03)让目标链 atomic callback 成为可能 · 替代传统 bridge ^[extracted]
-- LayerZero DVN 配置不当 → 安全降级风险(用户责任) ^[inferred]
+- Tempo が CCIP を選ぶロジック = Visa / SC / Stripe 顧客が規制説明可能性を必要とする → Wormhole 多シグを使えない ^[inferred]
+- Base 多極組み合わせ = CCIP(Circle bridge) + LayerZero(long-tail) + CCTP V2(USDC fast path) ^[inferred]
+- Hyperlane の類比 = Cloudflare Workers vs AWS Lambda · long-tail ヘッジ選択肢 ^[inferred]
+- CCTP V2 Hooks(2025.03)で宛先チェーンアトミックコールバックが可能 · 伝統的ブリッジを置換 ^[extracted]
+- LayerZero DVN 設定不適切 → セキュリティ降格リスク(ユーザー責任) ^[inferred]
 
 ## Mechanism / How it works
 
-**选型决策树**:
+**選定意思決定ツリー**:
 
 ```
-你的主角是 ?
-├── 稳定币 L1(Tempo)
-│   → CCIP (institutional 必选) + LayerZero (general 兜底)
+あなたの主役は ?
+├── ステーブルコイン L1(Tempo)
+│   → CCIP (institutional 必須) + LayerZero (general バックアップ)
 │
 ├── EVM L2(Base)
 │   → CCIP (Circle bridge) + LayerZero (long-tail) + CCTP V2 (USDC fast)
 │
-├── Solana / Move 生态
-│   → Wormhole (TVL + 历史)
+├── Solana / Move エコシステム
+│   → Wormhole (TVL + 歴史)
 │
-├── 长尾 L2 / appchain
-│   → Hyperlane (permissionless · 不用等被列入)
+├── long-tail L2 / appchain
+│   → Hyperlane (permissionless · リスト入りを待たない)
 │
-└── 纯 USDC 调度
-    → CCTP V2 (1-2 min · 无桥风险 · burn-mint)
+└── 純 USDC 調達
+    → CCTP V2 (1-2 min · ブリッジリスクなし · burn-mint)
 ```
 
-**判断逻辑**:
-- 客户是否含 institutional(银行 / 卡组织 / 监管)→ CCIP 是必选层
-- 链是否在 LayerZero / CCIP 名单 → 否则 Hyperlane 是唯一可控选项
-- 是否纯 USDC → CCTP V2 比通用桥都快(1-2 min)且无锁仓风险
-- 是否需要"开发者一键接入" → Hyperlane permissionless · 客户端选 ISM
+**判断ロジック**:
+- 顧客に institutional(銀行 / カード組織 / 規制)を含むか → CCIP は必須層
+- チェーンが LayerZero / CCIP リストにあるか → なければ Hyperlane が唯一の制御可能選択肢
+- 純 USDC か → CCTP V2 は汎用ブリッジより速い(1-2 min)かつロックリスクなし
+- 「開発者が 1 クリック接続」を必要とするか → Hyperlane permissionless · クライアント側で ISM 選択
 
 ## Origin & evolution
 
-2022-2023 跨链选型 = "选 TVL 最大 = Wormhole"。2024 institutional 入场后 = CCIP 因 Chainlink oracle 品牌 + RMN 双层验证成为银行 / DTCC / SWIFT 实际选择。2025 收敛 = 多极并存 + 任务专精化 · 主角同时用 2-3 个桥(CCIP institutional · LayerZero general · CCTP V2 USDC)。完整对照矩阵见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]。
+2022-2023 クロスチェーン選定 = 「TVL 最大 = Wormhole を選ぶ」。2024 institutional 参入後 = CCIP が Chainlink oracle ブランド + RMN 二層検証により銀行 / DTCC / SWIFT の実選択に。2025 収斂 = 多極共存 + タスク専門特化 · 主役は同時に 2-3 ブリッジを使用(CCIP institutional · LayerZero general · CCTP V2 USDC)。完全な対照マトリクスは [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対比マトリクス]] を参照。
 
 ## Counterpoints
 
-主张"单一桥论":多极意味着安全模型多个 attack surface · 实际上选 1 个高质量桥(CCIP)更安全。LayerZero 反对者主张 DVN 灵活 = 用户责任 = 多数用户配置不当 = 实际安全 < Wormhole 19 Guardian 固定多签。某些 institutional 客户实际是被 Chainlink 销售拉过去 · 不是技术比较结果。
+「単一ブリッジ論」を主張:多極とはセキュリティモデルが複数の attack surface を意味する · 実際には 1 つの高品質ブリッジ(CCIP)を選ぶほうが安全。LayerZero 反対派は DVN 柔軟性 = ユーザー責任 = 大半のユーザーが不適切設定 = 実際のセキュリティ < Wormhole 19 Guardian 固定マルチシグと主張。一部 institutional 顧客は実際には Chainlink 販売に引き寄せられたものであり · 技術比較の結果ではない。
 
 ## Open questions
 
-Base 多极组合的实际比例(CCIP 多少 % · LayerZero 多少 % · CCTP V2 多少 %)?Tempo / Arc 是否会自建专用桥替代 CCIP?Hyperlane permissionless 安全模型在大规模 stake 后能否抗 51%?CCTP V2 Hooks 是否让"USDC 跨链 = 1 个协议"成为新默认?(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 与 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 的实际份额观察)
+Base 多極組み合わせの実際の比率(CCIP 何% · LayerZero 何% · CCTP V2 何%)は?Tempo / Arc は CCIP を専用ブリッジで置換するか?Hyperlane permissionless のセキュリティモデルは大規模 stake 後に 51% に耐えるか?CCTP V2 Hooks は「USDC クロスチェーン = 1 プロトコル」を新たな default にするか?([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] の実シェア観察と対照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/cross-chain-four-poles-overview|跨链四极 · 概览]]
-- [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional 默认机制]]
-- [[fintech/ai-payment-two-tracks|AI 支付双轨]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币公链 Token 策略三态]]
+- [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極 · 概観]]
+- [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional デフォルトメカニズム]]
+- [[fintech/ai-payment-two-tracks|AI 支払い 2 トラック]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン公開チェーン Token 戦略 3 態]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- DTCC Smart NAV 公告(2024.05)· SWIFT messaging on Chainlink 测试(2025)
+- DTCC Smart NAV 公告(2024.05)· SWIFT messaging on Chainlink テスト(2025)

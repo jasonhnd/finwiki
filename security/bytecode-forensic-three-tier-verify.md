@@ -3,15 +3,15 @@ type: wiki
 kind: technique
 slug: bytecode-forensic-three-tier-verify
 domain: security
-title: "智能合约 bytecode forensic — 三层 verify 技术"
+title: "スマートコントラクト bytecode フォレンジック — 三層 verify 技術"
 aliases: []
 status: candidate
 confidence: possible
 evidence_count: 2
 challenges: 0
 created: 2026-05-12
-last_updated: 2026-05-18
-last_tended: 2026-05-12
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-08
 related:
   - "[[fork-and-rebrand-5-layer-audit-framework]]"
@@ -24,57 +24,57 @@ sources:
   - "https://docs.etherscan.io/contract-verification/"
 ---
 
-# 智能合约 bytecode forensic — 三层 verify 技术
+# スマートコントラクト bytecode フォレンジック — 三層 verify 技術
 
 ## Wiki route
 
 This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-rebrand-5-layer-audit-framework|fork-and-rebrand audit framework]] for peer context and [[systems/INDEX|systems index]] for the broader infrastructure boundary.
 
 > [!info] TL;DR
-> 当项目方 verified contract 与 GitHub 源码不一致时,bytecode 是 ground truth. 三层 verify: (1) 链上 deployed bytecode vs GitHub source compile (2) 4-byte PUSH4-EQ dispatcher 反推 fn selector 命中未 verified 合约的接口 (3) 跨链 verified twin fingerprint 定位团队身份.
+> プロジェクト側のverified contractとGitHubソースが一致しない場合、bytecodeこそがground truthとなる。三層verify:(1) オンチェーンdeployed bytecodeとGitHub sourceのコンパイル結果を比較、(2) 4-byte PUSH4-EQ dispatcherを逆推してfn selectorを抽出し、unverifiedコントラクトのインターフェイスを照合、(3) クロスチェーンverified twin fingerprintでチーム身元を特定する。
 
-## 三层 technique
+## 三層 technique
 
 ### Layer 1: Deployed vs Compiled diff
 
-- eth_getCode(addr, "latest") 抓链上 runtime bytecode
-- 用 GitHub 源码 + 项目方声明的 solc version + optimizer settings 本地编译
-- diff 不为空 = 链上版本与 GitHub 不一致 = 信号
-- 注意 immutable / constructor args / metadata hash 的差分要剥离
+- eth_getCode(addr, "latest") でオンチェーンruntime bytecodeを取得
+- GitHubソース + プロジェクト側が明示したsolcバージョン + optimizer settingsでローカルコンパイル
+- diffが空でない = オンチェーン版とGitHub版が不一致 = シグナル
+- immutable / constructor args / metadata hashの差分は剥離して比較する点に注意
 
-### Layer 2: 4-byte PUSH4-EQ dispatcher 反推
+### Layer 2: 4-byte PUSH4-EQ dispatcherの逆推
 
-- EVM contract 进入 dispatcher 时用 PUSH4 selector EQ JUMPI 模式分发
-- 即使合约没 verify,opcode 序列里能抓出所有 selector (4-byte)
-- 用 4byte.directory / openchain.xyz 反查 fn signature
-- 命中 ERC-20 / pause / blacklist / migrate 等敏感接口 = 信号
+- EVM contractはdispatcher進入時にPUSH4 selector EQ JUMPIパターンで分岐
+- contractがverifyされていなくても、opcode列から全selectorを抽出可能(4-byte)
+- 4byte.directory / openchain.xyzでfn signatureを逆引き
+- ERC-20 / pause / blacklist / migrate等のセンシティブなインターフェイスにヒット = シグナル
 
-### Layer 3: 跨链 verified twin fingerprint
+### Layer 3: クロスチェーン verified twin fingerprint
 
-- 同一团队部署多链时,verified 一边 + 未 verified 另一边的情况常见
-- 拿 verified 那边的 runtime bytecode (剥离 metadata hash) 作为 fingerprint
-- 在未 verified 链用 bytecode 相似度匹配 (e.g. SimHash / k-gram)
-- 命中 = 同一团队 = 身份锚定 — 商用 [[exchanges/global-crypto-forensics-vendor-layer|链上 forensics vendor]] 把这层做成跨链 cluster 标签库
+- 同一チームが複数チェーンへデプロイした際、一方はverified、他方はunverifiedというケースは頻出
+- verified側のruntime bytecode(metadata hash剥離後)をfingerprintとして利用
+- unverifiedチェーン側ではbytecode類似度マッチング(SimHash / k-gram等)を実施
+- ヒット = 同一チーム = 身元アンカー — 商用 [[exchanges/global-crypto-forensics-vendor-layer|オンチェーン forensics vendor]] はこの層をクロスチェーンclusterラベルライブラリとして商品化している
 
 ## When to Use
 
-- 关键合约 (bridge / vault / governance) 故意不 verify
-- 项目方 GitHub 已删但合约还在跑
-- 跨链项目要识别"门面 vs 真团队"
-- 怀疑 backdoor / 紧急 pause / 黑名单接口 — 历史交易所事件如 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] 与 [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]] 都涉及 attacker 部署未 verified 中转合约
+- 中核となるコントラクト(bridge / vault / governance)が意図的にverifyされていないケース
+- プロジェクト側のGitHubは既に削除されたがコントラクトはまだ稼働しているケース
+- クロスチェーン・プロジェクトで「表向きの体制 vs 真の開発チーム」を識別したいケース
+- backdoor / 緊急pause / blacklistインターフェイスの存在を疑うケース — [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] や [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]] のような取引所事件では、攻撃者がunverifiedな中継コントラクトをデプロイした事例が存在
 
 ## When NOT to Use
 
-- 已完整 verified + 源码可信的合约 (直接读源码) — 此时 [[systems/formal-spec-implementation-codesign|formal-spec implementation co-design]] 类的规范优先方法更有效
-- proxy 合约 (用 EIP-1967 storage slot 找 implementation 再做)
-- 纯只读 view 合约 (风险低)
+- 既に完全にverifiedかつソースが信頼できるコントラクト(直接ソースを読めば足りる)— この場合は [[systems/formal-spec-implementation-codesign|formal-spec implementation co-design]] 等の仕様優先アプローチがより有効
+- proxyコントラクト(EIP-1967 storage slotからimplementationを特定したうえで実施)
+- 純粋にread-onlyのviewコントラクト(リスクが低い)
 
 ## Counterpoints
 
 > [!question] Open questions
-> - Layer 2 selector 命中后,如何 verify fn 实际行为而非仅 signature?
-> - bytecode 相似度多少算"同团队"? (业界没有 hard threshold)
+> - Layer 2でselectorヒット後、signatureだけでなくfnの実際の挙動をどうverifyするか
+> - bytecode類似度がどの程度であれば「同一チーム」と認定できるか(業界にhard thresholdは存在しない)
 
 ## Provenance
 
-- case study: 链上部分关键合约 verified + 部分 bridge / vault 闭源 · 用三层 verify 推出未 verified 合约接口 + 跨链 twin fingerprint 锁定团队
+- ケーススタディ:オンチェーンで一部の中核コントラクトはverifiedだが、bridge / vault系の一部はクローズドソース · 三層verifyでunverifiedコントラクトのインターフェイスを逆推し、クロスチェーンtwin fingerprintでチーム身元をロックした

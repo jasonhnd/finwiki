@@ -1,10 +1,10 @@
 ---
-title: Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道
+title: Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル
 aliases: [basel-iii-frtb-implications, BCBS USDC moat, BUIDL bank channel]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, basel, bank, stablecoin, usdc, buidl, capital]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# Basel III FRTB 战略含义 · USDC 隐性资本溢价 + BUIDL 银行通道
+# Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル
 
 
 ## Wiki route
@@ -25,49 +25,49 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> BCBS SCO60 的 Group 1b vs Group 2 资本差异决定**银行选择持有 USDC over USDT 的资本经济学**——USDC PPSI 银行托管成本 ~10% capital backing,USDT 疑问 Group 1b 资格则 ~100%。这是 USDC 估值溢价的 hidden moat,也是 BUIDL 突破 $1B AUM 的银行通道法律基础。BCBS 是三圆 MRA 的国际资本协调机制。
+> BCBS SCO60 の Group 1b vs Group 2 の資本差は、**銀行が USDT より USDC を保有する資本経済性** を決定する — USDC PPSI 後の銀行カストディコストは ~10% の capital backing で済むのに対し、USDT の Group 1b 資格は疑問視されており ~100% を要する。これが USDC のバリュエーション・プレミアムの hidden moat であり、BUIDL が $1B AUM を突破した銀行チャネルの法的根拠でもある。BCBS は三円 MRA における国際的な資本協調メカニズムである。
 
 ## Key facts
 
-- USDC PPSI 后预期 Group 1b 资格:高(合规设计完美对齐)^[likely]
-- USDT 预期 Group 1b 资格:低(reserve composition + transparency 不足)^[likely]
-- BUIDL 预期 Group 1a 资格:极高(直接 T-bills tokenization)^[likely]
-- cbBTC 预期 Group 2a 资格:BTC 1:1 packaging · 1,250% RW ^[inferred]
-- USDC 银行托管成本 ~10% capital backing vs USDT ~100% = 价差 ~10x ^[inferred]
-- BUIDL 2024-Q4 突破 $1B AUM · 2026-05 ~$3B AUM ^[extracted]
-- §501(d) 入榜 stablecoin 必须满足 Group 1b 标准(隐性条件)^[inferred]
+- USDC PPSI 後の Group 1b 資格見込み: 高（コンプライアンス設計が完全に整合） ^[likely]
+- USDT の Group 1b 資格見込み: 低（reserve composition + transparency が不十分） ^[likely]
+- BUIDL の Group 1a 資格見込み: 極めて高（短期国債を直接トークン化） ^[likely]
+- cbBTC の Group 2a 資格見込み: BTC 1:1 ラッパー · 1,250% RW ^[inferred]
+- USDC の銀行カストディコスト ~10% capital backing vs USDT ~100% = スプレッド ~10x ^[inferred]
+- BUIDL は 2024-Q4 に $1B AUM 突破 · 2026-05 時点 ~$3B AUM ^[extracted]
+- §501(d) 入リスト stablecoin は Group 1b 基準を満たす必要あり（暗黙条件） ^[inferred]
 
 ## Mechanism / How it works
 
-**USDC vs USDT 资本逻辑**:银行持有 $1B USDC(Group 1b)需 ~$100M capital backing,持有 $1B USDT(疑问 Group 1b)需 ~$1B capital backing,价差 = 银行选择 USDC over USDT 的资本经济学根本原因。这是 USDC 估值溢价的 hidden moat,也是 Circle / Bridge / Anchorage / Coinbase Custody 等"合规通道"的法律护城河。
+**USDC vs USDT の資本ロジック**: 銀行が $1B USDC（Group 1b）を保有するには ~$100M の capital backing が必要、$1B USDT（Group 1b 資格疑問）の保有には ~$1B の capital backing が必要、このスプレッドこそが **銀行が USDT ではなく USDC を選ぶ資本経済性の根本要因**。これが USDC バリュエーション・プレミアムの hidden moat であり、Circle / Bridge / Anchorage / Coinbase Custody など「コンプライアンス・チャネル」の法的モート（堀）である。
 
-**BUIDL 案例**:Group 1a(tokenized T-bills)= 银行可大规模持有 → 触发 BUIDL 突破 $1B AUM(2024-Q4)+ 2026-05 ~$3B AUM 增长。与 banking sector 形成"机构 SC alternative"通道,B2B 大口资金从 USDT/USDC 部分迁移到 BUIDL。机构 SC vs deposit token 的二元辨析见 [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC 与 deposit token 论题]]。
+**BUIDL ケース**: Group 1a（tokenized 短期国債）= 銀行が大規模に保有可能 → BUIDL の $1B AUM 突破（2024-Q4）+ 2026-05 ~$3B AUM 成長をトリガーした。銀行セクターとの間で「機関 SC オルタナティブ」チャネルが形成され、B2B 大口資金が USDT/USDC から BUIDL へ部分的に移行している。機関 SC vs deposit token の二項対立的分析は [[fintech/institutional-stablecoin-deposit-token-thesis|機関 SC と deposit token のテーゼ]] 参照。
 
-**cbBTC / WBTC**:1,250% RW 限制银行持有,主要使用场景 = DeFi 抵押品(链上),与传统银行 balance sheet 隔离。这解释了为何 cbBTC 主要在 Base 上 DeFi 使用而非银行托管。
+**cbBTC / WBTC**: 1,250% RW により銀行による保有が制限され、主たる利用シナリオは DeFi 担保（オンチェーン）となり、伝統的な銀行のバランスシートからは切り離されている。これが cbBTC が銀行カストディではなく Base 上の DeFi で主に使われる理由である。
 
 ## Origin & evolution
 
-2022-12 SCO60 发布后,各大银行 risk 部门 2023 启动 Group 资格预判 → 2024 BlackRock 与 BNY Mellon 合作 BUIDL,押注 Group 1a 资格成立。Circle 2024-Q4 起强化 PPSI 披露,目标 USDC 在 2025-Q3 BCBS implementation 后获 Group 1b。Tether 反应保守,2025 Q4 仍未达 Group 1b 标准。HK FRTB consultation(2026-04)直接 mapping SCO60(详见 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]]),是亚洲第一个对 SC issuer 国际资本框架的 implementation。
+2022-12 の SCO60 公表後、各メガバンクのリスク部門は 2023 年から Group 資格の事前判定を開始 → 2024 年に BlackRock と BNY Mellon が連携して BUIDL を立ち上げ、Group 1a 資格成立に賭けた。Circle は 2024-Q4 から PPSI 開示を強化し、USDC が 2025-Q3 の BCBS 実装後に Group 1b を取得することを目標とした。Tether の反応は保守的で、2025 Q4 時点で依然として Group 1b 基準に達していない。HK FRTB consultation（2026-04）は SCO60 を直接マッピング（詳細は [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概要]]）しており、アジアで初めて SC issuer 向けの国際資本フレームワークの実装事例となる。
 
 ## Counterpoints
 
-- 美国 final rule 软化可能稀释 USDC moat(BTC ETF 部分豁免 → 银行参与门槛降低)
-- BCBS implementation 各国差异 · 跨境监管套利仍存
-- Group 1b 标准随时可调整 · USDT 可能通过披露改善逆转
+- 米国 final rule のソフト化により USDC moat が希釈される可能性（BTC ETF の部分免除 → 銀行参入のハードル低下）
+- BCBS 実装の各国差異 · クロスボーダー規制裁定の余地が残存
+- Group 1b 基準はいつでも調整可能 · USDT が開示改善により逆転する可能性
 
 ## Open questions
 
-- BCBS 是否会针对 RWA token(BUIDL / OUSG)出台细化 Group 1a 子分类?
-- §501(d) 入榜 stablecoin 是否会明文要求 Group 1b 资格(目前隐性)?
-- BIS Project Agorá 央行 wCBDC 是否会自动 Group 1 = 100% bankable 设计?
+- BCBS は RWA token（BUIDL / OUSG）向けに Group 1a の細分化サブカテゴリーを策定するか?
+- §501(d) 入リスト stablecoin は Group 1b 資格を明文要求するようになるか（現状は暗黙）?
+- BIS Project Agorá の中央銀行 wCBDC は自動的に Group 1 = 100% bankable 設計となるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB 概览]]
-- [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC 与 deposit token]]
+- [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB 概要]]
+- [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概要]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|機関 SC と deposit token]]
 <!-- /wiki-links:managed -->
 
 ## Sources

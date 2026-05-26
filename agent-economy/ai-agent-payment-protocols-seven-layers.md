@@ -1,10 +1,10 @@
 ---
-title: AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文
-aliases: [ai-agent-payment-seven-layers, AP2 x402 MCP A2A SPT ACP TAP 分层]
+title: AI Agent 決済7プロトコル分層表 · 意図 / 伝送 / 文脈
+aliases: [ai-agent-payment-seven-layers, AP2 x402 MCP A2A SPT ACP TAP 分層]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, ai-agent, payments, protocol-stack, ap2, x402, mcp, a2a]
@@ -12,50 +12,50 @@ sources: []
 status: candidate
 ---
 
-# AI Agent 支付七协议分层表
+# AI Agent 決済7プロトコル分層表
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 7 协议 = 意图 3 + 传输 2 + 上下文 2 ^[extracted]
-- AP2(Google 主导)+ x402(Coinbase 主导)+ MCP(Anthropic 主导)+ A2A(Google 主导)= 行业速记"四协议" ^[extracted]
-- SPT(Skyfire)/ ACP(Catena Labs · Sequoia)/ TAP(xpay)是次级竞争者 ^[extracted]
-- AP2 用 VC(Verifiable Credentials)+ DPK(Decentralized Public Key)签名 mandate ^[extracted]
-- x402 是 HTTP 标准,non-chain-specific ^[extracted]
+- 7 プロトコル = 意図 3 + 伝送 2 + 文脈 2 ^[extracted]
+- AP2(Google 主導)+ x402(Coinbase 主導)+ MCP(Anthropic 主導)+ A2A(Google 主導)= 業界略称「4プロトコル」 ^[extracted]
+- SPT(Skyfire)/ ACP(Catena Labs · Sequoia)/ TAP(xpay)は二次的競合 ^[extracted]
+- AP2 は VC(Verifiable Credentials)+ DPK(Decentralized Public Key)で mandate に署名 ^[extracted]
+- x402 は HTTP 標準、non-chain-specific ^[extracted]
 
 ## Mechanism / How it works
 
-**意图层**响应"用户想做什么"。AP2 定义三层信任链 mandate:Intent(用户 ↦ agent · 我授权你买 X)→ Cart(agent ↦ 商家 · 我代表用户下单)→ Payment(商家 ↦ 支付网络 · 收款指令)。每一层都用 VC + DPK 签名,链式不可篡改。SPT / ACP 是类似设计的早期竞争者。
+**意図層**は「ユーザーが何をしたいか」に応答する。AP2 は3層の信頼チェーン mandate を定義する:Intent(ユーザー ↦ agent · X の購入を認可する)→ Cart(agent ↦ 商家 · ユーザーを代理して発注する)→ Payment(商家 ↦ 決済ネットワーク · 受取指示)。各層が VC + DPK で署名され、チェーンとして改竄不能となる。SPT / ACP は類似設計の初期競合である。
 
-**传输层**响应"钱怎么从 A 到 B"。x402 复活 HTTP 402 Payment Required 状态码:服务器在响应中嵌入"付 X USDC 到 Y 地址",agent 钱包自动签名转账,per-call 微支付成立。底层钱包通常基于 [[systems/erc-4337-overview|ERC-4337 智能账户]] 或 [[systems/erc-7702-overview|ERC-7702 临时升级]],跨链时依赖 [[systems/chain-abstraction-pattern-overview|chain abstraction 模式]] 隐藏底层链差。TAP 走类似 token-based auth 路径但生态薄。
+**伝送層**は「金銭をどう A から B に移すか」に応答する。x402 は HTTP 402 Payment Required ステータスコードを復活させる。サーバがレスポンスに「X USDC を Y アドレスに支払え」を埋め込み · agent ウォレットが自動的に署名 · 送金する。per-call のマイクロペイメントが成立する。下層ウォレットは通常 [[systems/erc-4337-overview|ERC-4337 スマートアカウント]] または [[systems/erc-7702-overview|ERC-7702 一時アップグレード]] ベースで、クロスチェーン時は [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] により下層チェーンの差異を隠蔽する。TAP は類似の token-based auth 経路だがエコシステムは薄い。
 
-**上下文层**响应"LLM 怎么知道有哪些工具 / 数据可用"。MCP 标准化 server-side tool definitions + resources,LLM client 自动发现并调用。A2A 处理 agent 间通信(一个 agent 委托另一个 agent),与 MCP 是 server-tool 对 agent-agent 的两个方向互补。
+**文脈層**は「LLM が利用可能なツール / データをどう知るか」に応答する。MCP はサーバ側 tool definitions + resources を標準化し · LLM client が自動的に発見して呼び出す。A2A は agent 間通信(ある agent が別の agent に委任する)を担い · MCP の server-tool に対して agent-agent という 2 つの方向で補完関係を成す。
 
 ## Origin & evolution
 
-2024.11 Anthropic 发 MCP · 6 个月内 OpenAI / Google 跟进 · 事实标准。2025.04 Google 发 A2A 补 agent 间通信。2025.05 Coinbase 发 x402,引爆"HTTP 原生支付"叙事(USDC 作为默认结算币 · 详见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。2025.09 Google 联 60+ 伙伴发 AP2,意图层定调。2026 年中 FIDO 接管 AP2 → AAIF,意图层走向中立标准。次级协议(SPT/ACP/TAP)在 2025 内涌现,但因 AP2 + FIDO 双重 commoditization 压力难以建立独立护城河 —— 与 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe 协议对冲策略]] 形成结构对照。
+2024.11 Anthropic が MCP をリリース · 6 ヶ月以内に OpenAI / Google が追随 · 事実上の標準となった。2025.04 Google が A2A をリリースし agent 間通信を補完。2025.05 Coinbase が x402 をリリースし「HTTP ネイティブ決済」の物語に火を点けた(USDC をデフォルト決済通貨とする詳細は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。2025.09 Google が 60+ パートナーと AP2 をリリース · 意図層のトーンを決定した。2026 年中盤 FIDO が AP2 を引き継ぎ → AAIF へ · 意図層は中立標準へ向かう。二次プロトコル(SPT/ACP/TAP)は 2025 年内に登場したが · AP2 + FIDO の二重 commoditization 圧力により独立した堀を築きにくくなった — [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe プロトコルヘッジ戦略]] と構造的対照を成す。
 
 ## Counterpoints
 
-- "7 协议格局"是 2026.05 快照;FIDO 整合后可能压缩到 4-5 协议
-- A2A 与 MCP 是否真要 2 个协议有争议 —— Anthropic 可能扩展 MCP 覆盖 agent-to-agent
-- "意图 / 传输 / 上下文"三层是分析视角,不是协议方自定义的层级 —— 业界文档中常混用
+- 「7 プロトコル構図」は 2026.05 のスナップショット;FIDO 統合後は 4-5 プロトコルに圧縮される可能性がある
+- A2A と MCP は本当に 2 つのプロトコルが必要かに議論がある — Anthropic が MCP を agent-to-agent までカバーするよう拡張する可能性
+- 「意図 / 伝送 / 文脈」の 3 層は分析視点であり、プロトコル側が自定義する階層ではない — 業界文書では混用されがち
 
 ## Open questions
 
-- AAIF 接管 AP2 后,SPT / ACP 是否被收购或淘汰?
-- 中国 / 欧盟 是否会推主权竞争性 agent 协议?
-- 传输层是否还会冒出第三个标准(例如 stablecoin native 而非 HTTP native)?
+- AAIF が AP2 を引き継いだ後、SPT / ACP は買収されるか淘汰されるか?
+- 中国 / EU は主権競争的な agent プロトコルを打ち出すか?
+- 伝送層には第 3 の標準が登場するか(例えば stablecoin native で HTTP native ではないもの)?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/ai-agent-payment-protocols-overview|七协议总览]]
-- [[agent-economy/ai-agent-payment-protocols-commoditization|协议 commoditization 与价值上移]]
+- [[agent-economy/ai-agent-payment-protocols-overview|7プロトコル総覧]]
+- [[agent-economy/ai-agent-payment-protocols-commoditization|プロトコル commoditization と価値の上方移動]]
 <!-- /wiki-links:managed -->
 
 ## Sources

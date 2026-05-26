@@ -1,10 +1,10 @@
 ---
-title: EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁
+title: EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁
 aliases: [eigenlayer-avs, avs-mechanism, operator-slashing-eigen]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, restaking, eigenlayer, avs, slashing, eigen-token]
@@ -12,60 +12,60 @@ sources: []
 status: candidate
 ---
 
-# EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁
+# EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- AVS 自定义 slashing 条件 · 例如 "DA 不可用 → slash 5%" ^[extracted]
-- Operator opt-in 时承诺接受 AVS 全部 slashing 条件 ^[extracted]
-- 多 AVS 累计 slash 上限 = 100% · 形成 rehypothecation 风险边界 ^[extracted]
-- EIGEN token 用于 inter-subjective dispute resolution(主观违规仲裁) ^[extracted]
-- Strategies 支持 LST(stETH/rETH/cbETH) · 不只 native ETH ^[extracted]
+- AVS は slashing 条件をカスタム定義 · 例えば「DA 不可用 → slash 5%」 ^[extracted]
+- Operator は opt-in 時に AVS 全 slashing 条件の受諾を約束 ^[extracted]
+- マルチ AVS 累計 slash 上限 = 100% · rehypothecation リスク境界を形成 ^[extracted]
+- EIGEN token は inter-subjective dispute resolution(主観違反の仲裁)に使用 ^[extracted]
+- Strategies は LST(stETH/rETH/cbETH)をサポート · native ETH のみではない ^[extracted]
 
 ## Mechanism / How it works
 
-**Operator-AVS 配对流程**:
-1. Operator 在 EigenLayer 注册 · 提供质押 ETH(自有或代他人)
-2. AVS 在 EigenLayer 注册 · 公开 slashing 条件 + 期望 Operator 集合规模
-3. Operator opt-in 特定 AVS · 链上记录 commitment
-4. AVS 运行(Operator 执行验证任务 · 例如签名 DA 数据可用性证明)
-5. 若 Operator 违反 AVS slashing 条件 · AVS 触发 slash · Operator 质押被扣
+**Operator-AVS マッチング フロー**:
+1. Operator が EigenLayer に登録 · ETH ステーキング(自分自身または他人代理)を提供
+2. AVS が EigenLayer に登録 · slashing 条件 + 期待 Operator 集合規模を公開
+3. Operator が特定 AVS に opt-in · オンチェーンに commitment を記録
+4. AVS 運用(Operator が検証タスクを実行 · 例えば DA データ可用性証明への署名)
+5. Operator が AVS slashing 条件に違反すれば · AVS が slash を発動 · Operator ステーキングが差し引かれる
 
-**Slashing 类型**:
-- **Objective slashing**:密码学可证伪(双签、超时、签错块) · AVS 合约自动执行
-- **Inter-subjective slashing**:主观违规(oracle 报价偏离市场超 X%) · 需 EIGEN 持有人投票
+**Slashing タイプ**:
+- **Objective slashing**:暗号学的に反証可能(二重署名、タイムアウト、誤ブロック署名)· AVS コントラクトが自動執行
+- **Inter-subjective slashing**:主観違反(oracle 報価が市場から X% 以上乖離など)· EIGEN holder の投票が必要
 
-**EigenPods 机制**:Operator 的 ETH 通过 EigenPod 合约接收 staking rewards,EigenLayer 通过 EigenPod 监听 Operator 在 Ethereum L1 的 validator 行为——这是把 L1 slashing 与 L2 AVS slashing 关联的关键桥梁。
+**EigenPods メカニズム**:Operator の ETH は EigenPod コントラクト経由で staking rewards を受け取り、EigenLayer は EigenPod を通じて Operator の Ethereum L1 validator 動作を監視する —— これが L1 slashing と L2 AVS slashing を関連付ける鍵となるブリッジ。
 
-**Strategies**:除 native ETH 外,EigenLayer 支持 LST restaking(stETH / rETH / cbETH 等)——大幅扩大可质押资本池,但也增加了对 LST 协议(Lido / Rocket Pool / Coinbase)安全的间接依赖(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])。
+**Strategies**:native ETH 以外にも、EigenLayer は LST restaking(stETH / rETH / cbETH 等)をサポート —— ステーキング可能な資本プールを大幅に拡大するが、同時に LST プロトコル(Lido / Rocket Pool / Coinbase)のセキュリティへの間接依存も増す([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)。
 
 ## Origin & evolution
 
-AVS 概念是 EigenLayer 2021 论文的核心抽象。2023-06 上线时只支持 native ETH restaking,无 slashing(承诺期)。2024-10 EIGEN token 上线引入 inter-subjective dispute resolution。2025 slashing 正式启用,EigenLayer 从"承诺机制"进入"实际经济安全市场"。
+AVS コンセプトは EigenLayer 2021 論文の中核抽象。2023-06 ローンチ時は native ETH restaking のみサポート、slashing なし(コミットメント期)。2024-10 EIGEN token ローンチで inter-subjective dispute resolution を導入。2025 に slashing が正式起動、EigenLayer は「コミットメントメカニズム」から「実際の経済セキュリティマーケット」に移行。
 
-40+ AVS 上线进度:EigenDA(数据可用性,模块化 L2 用)是最早 · Hyperlane(跨链消息验证 EigenLayerISM)2024 · AltLayer / Espresso / Lagrange 2024-2025 陆续。
+40+ AVS のローンチ進捗:EigenDA(データ可用性、modular L2 用)が最早 · Hyperlane(クロスチェーンメッセージ検証 EigenLayerISM)2024 · AltLayer / Espresso / Lagrange は 2024-2025 順次。
 
 ## Counterpoints
 
-**Slashing 设计的两难**:
-- 严格(高 slash %)→ Operator 不敢 opt-in,AVS 凑不到验证集合
-- 宽松(低 slash %)→ 攻击成本不足,AVS 安全形同虚设
+**Slashing 設計の二重困難**:
+- 厳格(高 slash %)→ Operator が opt-in を躊躇 · AVS が検証集合を集められない
+- 緩い(低 slash %)→ 攻撃コスト不足 · AVS セキュリティが形骸化
 
-实际 1 年内多数 AVS 选择保守 slash 比例(1-5%),这削弱了"加密经济安全"的实际威慑力。
+実際 1 年内に大半の AVS は保守的な slash 比率(1-5%)を選択し、これが「暗号経済セキュリティ」の実際の威嚇力を弱めた。
 
-EIGEN inter-subjective 仲裁的可操控性是关键风险——若一个 AVS 的争议 slash 涉及金额远大于 EIGEN 流通市值,资本操控投票几乎不可避免(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各家治理 token 的操控成本曲线)。
+EIGEN inter-subjective 仲裁の操縦可能性は重要リスク —— AVS の争議 slash 金額が EIGEN 流通時価総額を大きく上回る場合、資本による投票操縦はほぼ不可避([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各社ガバナンス token の操縦コスト曲線と対照)。
 
 ## Open questions
 
-- 实际 slash 事件中 objective vs inter-subjective 比例?
-- EIGEN token 流通市值与单次 slash 上限的安全边界?
-- Operator 在多 AVS 中的实际平均参与度?
-- LST restaking 在 Lido 等 LST 协议风险事件中的连锁影响?(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 中加密原生侧的传染路径)
+- 実際の slash 事象における objective vs inter-subjective の比率は?
+- EIGEN token 流通時価総額と単一 slash 上限のセキュリティ境界は?
+- Operator のマルチ AVS における実際の平均参加度は?
+- LST restaking における Lido 等の LST プロトコルリスク事象での連鎖影響は?([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] における暗号ネイティブ側の感染経路と対照)
 
 ## Related
 <!-- wiki-links:managed -->

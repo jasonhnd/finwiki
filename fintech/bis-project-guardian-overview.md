@@ -1,10 +1,10 @@
 ---
-title: MAS Project Guardian 概览 · 新加坡代币化资产实证联盟
+title: MAS Project Guardian 概要 · シンガポール・トークン化資産実証アライアンス
 aliases: [bis-project-guardian-overview, mas-project-guardian, Project Guardian]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, mas, singapore, tokenization, asset-tokenization, dbs, jpm, citi]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# MAS Project Guardian 概览
+# MAS Project Guardian 概要
 
 
 ## Wiki route
@@ -25,56 +25,56 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> Project Guardian 是新加坡金管局(MAS)2022.05 启动的代币化资产产业实证项目 —— 25+ 全球金融机构(DBS / Citi / JPM / Standard Chartered / HSBC / UBS / Franklin Templeton 等)在 MAS 受监管沙盒中试点代币化债券、基金、外汇与碳信用。是亚洲主导的代币化协调中心,与 Agorá / Ensemble 形成"亚洲三极"代币化基础设施分工。
+> Project Guardian はシンガポール金融管理局（MAS）が 2022.05 に立ち上げたトークン化資産産業実証プロジェクト — 25+ のグローバル金融機関（DBS / Citi / JPM / Standard Chartered / HSBC / UBS / Franklin Templeton など）が MAS 監督下のサンドボックスで、トークン化された債券、ファンド、外国為替、カーボン・クレジットを試験運用している。アジア主導のトークン化協調センターで、Agorá / Ensemble と共に「アジア三極」のトークン化インフラ分業を形成する。
 
 ## Key facts
 
-- 2022.05 启动,首批 DBS / JPM / Marketnode ^[extracted]
-- 2022.11 Pilot 1:JPM 代币化日元 / 新币外汇(基于 Aave Arc 许可池) ^[extracted]
-- 2024.03 扩展至 25+ 机构,新增基金 / 外汇 / 碳信用赛道 ^[extracted]
-- 2024.11 Guardian Wholesale Network 上线(机构间结算层) ^[extracted]
-- 5 大 Pilot 方向:固定收益 / 代币化基金 / 外汇 / 贸易融资 / 碳信用 ^[extracted]
-- MAS 同步参与 BIS Agorá ^[extracted]
-- DBS / JPM / Standard Chartered 是最深度参与方(覆盖 3+ pilot) ^[extracted]
-- 全部 pilot 在 MAS 受监管沙盒,无 retail 暴露 ^[extracted]
+- 2022.05 立ち上げ、第 1 陣は DBS / JPM / Marketnode ^[extracted]
+- 2022.11 Pilot 1: JPM が円 / シンガポールドルの外国為替をトークン化（Aave Arc の許可型プール上） ^[extracted]
+- 2024.03 25+ 機関に拡大、新たにファンド / 外国為替 / カーボン・クレジット領域を追加 ^[extracted]
+- 2024.11 Guardian Wholesale Network 稼働（機関間決済レイヤー） ^[extracted]
+- 5 大 Pilot 方向: 債券 / トークン化ファンド / 外国為替 / 貿易金融 / カーボン・クレジット ^[extracted]
+- MAS は BIS Agorá にも同時参加 ^[extracted]
+- DBS / JPM / Standard Chartered が最も深く関与（3+ pilot をカバー） ^[extracted]
+- 全 pilot が MAS 監督下のサンドボックス内、retail エクスポージャーなし ^[extracted]
 
 ## Mechanism / How it works
 
-Guardian 是"代币化资产实验室",MAS 单一监管者主导,无央行联盟协调成本。25+ 机构在受监管沙盒中**按资产类别分线试点**:
+Guardian は「トークン化資産のラボ」で、MAS という単一の規制当局が主導するため、中央銀行アライアンスの協調コストが発生しない。25+ 機関が監督下のサンドボックスで **資産クラスごとにライン分けして試行**:
 
-1. **固定收益**:UBS / Citi 代币化债券二级流通
-2. **代币化基金**:Franklin Templeton / Schroders / Fidelity International
-3. **外汇**:JPM / DBS / SBI 跨币种原子结算
-4. **贸易融资**:Standard Chartered / Ant International
-5. **碳信用**:与新加坡 Climate Impact X(CIX)联动
+1. **債券**: UBS / Citi のトークン化債券セカンダリー流通
+2. **トークン化ファンド**: Franklin Templeton / Schroders / Fidelity International
+3. **外国為替**: JPM / DBS / SBI のクロスカレンシー・アトミック決済
+4. **貿易金融**: Standard Chartered / Ant International
+5. **カーボン・クレジット**: シンガポール Climate Impact X (CIX) と連携
 
-**Guardian Wholesale Network**(2024.11 上线)是 MAS 主导的机构结算层,不依赖任何主权 CBDC,实质提供"代币化资产对代币化资产"的机构清算基础设施。**MAS 单一监管者 = 决策快速**:相比 [[fintech/bis-project-agora-overview|Agorá]] 7 央行协调成本,Guardian 一年一个 milestone 节奏。MAS 在零售 / 机构 SC 牌照面的安排见 [[fintech/singapore-mas-payment-services-act-overview|MAS PS Act 概览]] 与 [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT 牌照概览]]。
+**Guardian Wholesale Network**（2024.11 稼働）は MAS 主導の機関決済レイヤーで、ソブリン CBDC に依存せず、「トークン化資産対トークン化資産」の機関決済インフラを実質的に提供する。**MAS 単一規制当局 = 意思決定が速い**: [[fintech/bis-project-agora-overview|Agorá]] の 7 中央銀行協調コストと比較して、Guardian は年 1 milestone のペース。MAS のリテール / 機関 SC ライセンスの整備は [[fintech/singapore-mas-payment-services-act-overview|MAS PS Act 概要]] と [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT ライセンス概要]] 参照。
 
 ## Origin & evolution
 
-2020 MAS 公布 fintech 沙盒框架,2022 推 Project Orchid(零售 CBDC 研究)+ Project Ubin(批发 CBDC 早期实验)双线。2022.05 Project Guardian 启动,聚焦"代币化资产"差异化定位(与 mBridge / Ensemble 的"代币化货币"分工)。2022-2024 Pilot 数量从 3 个扩到 5 个赛道,机构数从 3 家扩到 25+。2024.11 Guardian Wholesale Network 上线 → 从"实验"升级为"事实结算层"。2025 与 BIS Agorá 互联实验(MAS 同时参与),Guardian 代币化资产标准可在 Agorá 货币基础设施上结算。
+2020 MAS がフィンテック・サンドボックス・フレームワークを公表、2022 に Project Orchid（リテール CBDC 研究） + Project Ubin（ホールセール CBDC 初期実験）の 2 ラインを推進。2022.05 Project Guardian を立ち上げ、「トークン化資産」に絞った差別化ポジショニング（mBridge / Ensemble の「トークン化マネー」との分業）。2022-2024 で Pilot 数は 3 から 5 領域に、機関数は 3 行から 25+ 行に拡大。2024.11 Guardian Wholesale Network 稼働 → 「実験」から「de facto 決済レイヤー」へとアップグレード。2025 BIS Agorá との相互接続実験（MAS は同時参加）、Guardian のトークン化資産標準が Agorá のマネー・インフラ上で決済可能となる。
 
 ## Counterpoints
 
-- "亚洲三极分工"叙事可能过度简化 —— 实际三家有竞争(MAS / HKMA 在国际化排名上长期争夺)
-- Guardian 没有主权货币层,长期结算锚仍依赖 USD / CNY / HKD 等其他基础设施
-- 25+ 机构数量大但深度参与方仅 5-7 家,长尾参与方实质活跃度未知
-- "无 retail 暴露"限制了规模化验证
+- 「アジア三極分業」物語は過度に単純化されている可能性 — 実際には 3 者間で競争関係がある（MAS / HKMA は国際化ランキングで長年争っている）
+- Guardian にはソブリン・マネー・レイヤーがなく、長期的な決済アンカーは依然として USD / CNY / HKD など他のインフラに依存
+- 25+ 機関は数こそ多いが深く関与しているのは 5-7 行のみ、ロングテール参加者の実質的アクティビティは不明
+- 「retail エクスポージャーなし」が規模化検証を制限
 
 ## Open questions
 
-- Guardian Wholesale Network 商用化时间表是什么?
-- 新加坡不在三圆 MRA(欧 MiCA / 美 GENIUS / 港 HKMA)内,会否推第四圆(MAS 主导的亚洲代币化标准)?
-- 与 BIS Agorá 的互操作能在 2026-2027 真正落地吗?
+- Guardian Wholesale Network の商用化タイムテーブルは?
+- シンガポールは三円 MRA（欧 MiCA / 米 GENIUS / 港 HKMA）に含まれていないが、第 4 の円（MAS 主導のアジア・トークン化標準）を推進するか?
+- BIS Agorá との相互運用は 2026-2027 に実際にローンチできるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/bis-project-guardian-vs-agora-asia-three-poles|Guardian vs Agorá 亚洲三极分工]]
+- [[fintech/bis-project-guardian-vs-agora-asia-three-poles|Guardian vs Agorá アジア三極分業]]
 - [[fintech/bis-project-agora-overview|BIS Project Agorá]]
 - [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -1,10 +1,10 @@
 ---
-title: DA layer 全景对照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
+title: DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
 aliases: [data availability comparison 2026, celestia eigenda blobs avail near da, modular da layer matrix, da layer competition post-dencun, ethereum blob vs celestia, eigenda restaking-secured da, avail polkadot da, near da bridged rollup, da cost per gb-day 2026]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [systems, matrix, data-availability, celestia, eigenda, ethereum-blob, avail, near-da, modular, rollup, eip-4844, dencun]
@@ -20,288 +20,288 @@ sources:
   - https://blobscan.com/
 ---
 
-# DA layer 全景对照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
+# DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
 
 ## TL;DR
 
-- 5 个主流 DA(data availability)layer 在 2026-Q2 的 **架构 · 安全模型 · cost per GB-day · throughput · finality · 已采用 rollup · 治理 · 监管敞口** 8 维度对照
-- **Ethereum blobs**(EIP-4844 · 参见 [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 经济与 2026 市场影响]])是当前 default for ETH-aligned rollup —— 安全性最高(Ethereum L1 直接背书)· cost 中等 · target=6/max=9 blob/block 后 Pectra(参见 [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691]])
-- **Celestia** 是 modular DA pioneer —— 独立 PoS 链 · Data Availability Sampling(DAS)+ Nakamoto-style block production · cost 最低 · 但安全 ≠ Ethereum 等级
-- **EigenDA** 是 EigenLayer restaking-secured DA(参见 [[systems/eigenlayer-overview|EigenLayer overview]])—— 共享 ETH staking 经济安全 · cost 略低于 blob · throughput 显著高
-- **Avail** 是 Polkadot 系 DA(原 Polygon Avail · 独立后 Avail Project)—— KZG + DAS · 准备 hybrid 模式(EigenLayer 接入)· 早期市场份额
-- **NEAR DA** 是 NEAR Protocol 的 DA 服务 —— 利用 NEAR 共识 + 极低 cost · 接入 Polygon CDK / Caldera 等 RaaS · 主要服务非 ETH-aligned rollup
-- **Cost per GB-day 2026-Q2 估算**:Ethereum blob ~$0.10-0.30(blob fee 波动)· Celestia ~$0.02-0.05 · EigenDA ~$0.06-0.15 · Avail ~$0.04-0.08 · NEAR DA ~$0.01-0.03
-- **采用 split**:Base/Arbitrum/Optimism/zkSync/Linea/Scroll/Polygon zkEVM = L1 blobs · Mantle/Movement/Cyber/Rivalz = EigenDA · Manta Pacific/Eclipse(部分)/Polygon CDK 部分 = Celestia · Polygon CDK 部分/Sophon = Avail · Caldera RaaS 部分 = NEAR DA
-- 路由:[[systems/INDEX|systems index]] · 与 [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] 对照
+- 5 つの主流 DA(data availability)layer の 2026-Q2 時点での **アーキテクチャ · セキュリティモデル · GB 日あたりコスト · throughput · finality · 採用 rollup · ガバナンス · 規制エクスポージャ** 8 次元対照
+- **Ethereum blobs**(EIP-4844 · [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 経済と 2026 市場影響]] 参照)は現在 ETH-aligned rollup の default —— セキュリティ最高(Ethereum L1 が直接背書)· コスト中等 · target=6/max=9 blob/block(Pectra 後)([[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691]] 参照)
+- **Celestia** は modular DA のパイオニア —— 独立 PoS チェーン · Data Availability Sampling(DAS)+ Nakamoto スタイルブロック生成 · コスト最低 · ただしセキュリティ ≠ Ethereum レベル
+- **EigenDA** は EigenLayer restaking-secured DA([[systems/eigenlayer-overview|EigenLayer overview]] 参照)—— ETH staking 経済セキュリティを共有 · コストは blob よりやや低い · throughput は顕著に高い
+- **Avail** は Polkadot 系 DA(元 Polygon Avail · 独立後 Avail Project)—— KZG + DAS · hybrid モード(EigenLayer 接続)準備中 · 早期市場シェア
+- **NEAR DA** は NEAR Protocol の DA サービス —— NEAR コンセンサス + 極低コストを利用 · Polygon CDK / Caldera 等の RaaS に接続 · 主に非 ETH-aligned rollup にサービス
+- **GB 日あたりコスト 2026-Q2 推定**:Ethereum blob ~$0.10-0.30(blob fee 変動)· Celestia ~$0.02-0.05 · EigenDA ~$0.06-0.15 · Avail ~$0.04-0.08 · NEAR DA ~$0.01-0.03
+- **採用 split**:Base/Arbitrum/Optimism/zkSync/Linea/Scroll/Polygon zkEVM = L1 blobs · Mantle/Movement/Cyber/Rivalz = EigenDA · Manta Pacific/Eclipse(一部)/Polygon CDK 一部 = Celestia · Polygon CDK 一部/Sophon = Avail · Caldera RaaS 一部 = NEAR DA
+- 経路:[[systems/INDEX|systems index]] · [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] と対照
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 经济与 2026 市场影响]] for the Ethereum-native DA path that competes with all alt-DA, [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 翻倍与 L2 经济连锁]] for the blob capacity expansion that affects all DA price competition, and [[systems/eigenlayer-overview|EigenLayer overview]] for the restaking economics underpinning EigenDA. For the rollup ecosystem that consumes these DA layers, see [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] and [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]]. For the meta-strategy of L1/L2 separation that motivates DA modularity, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For consensus models that DA layers use, see [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT architecture]] and [[systems/threshold-bft-consensus-rust-implementations|threshold BFT consensus Rust implementations]]. For cross-chain bridge security that interacts with DA choice, see [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]]. For restaking AVS landscape including EigenDA as the largest AVS, see [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]].
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 経済と 2026 市場影響]] for the Ethereum-native DA path that competes with all alt-DA, [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] for the blob capacity expansion that affects all DA price competition, and [[systems/eigenlayer-overview|EigenLayer overview]] for the restaking economics underpinning EigenDA. For the rollup ecosystem that consumes these DA layers, see [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] and [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]]. For the meta-strategy of L1/L2 separation that motivates DA modularity, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For consensus models that DA layers use, see [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT architecture]] and [[systems/threshold-bft-consensus-rust-implementations|threshold BFT consensus Rust implementations]]. For cross-chain bridge security that interacts with DA choice, see [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]]. For restaking AVS landscape including EigenDA as the largest AVS, see [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]].
 
 ## Why this matrix matters
 
-DA layer 在 2023-2024 还是 "rollup 自动用 Ethereum L1 calldata" 的默认情况。Dencun(2024-03)引入 EIP-4844 blob 后 · L1 blobs 成为 ETH-aligned rollup 的默认选项 · 但同时打开了 "alt-DA 是否仍有市场" 的讨论。2025-2026 形成五 DA 竞争格局:
+DA layer は 2023-2024 時点では「rollup は自動的に Ethereum L1 calldata を使う」がデフォルトであった。Dencun(2024-03)で EIP-4844 blob が導入された後 · L1 blobs は ETH-aligned rollup のデフォルト選択肢となったが · 同時に「alt-DA に依然市場はあるか」の議論が開かれた。2025-2026 に 5 つの DA 競争構図が形成された:
 
-**Modular thesis 的核心问题**:rollup 是否需要 Ethereum 等级 DA 安全?
-- **ETH 安全主义者**(Vitalik 公开立场 · 参见 [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]):rollup 的核心承诺是 "L1 DA 保证可重构状态" · 用 alt-DA = validium 而非 rollup · 不应该叫 rollup
-- **Modular 主义者**(Celestia / Avail / EigenDA 立场):rollup 安全 ≠ DA 必须 L1 · 不同 use case 可选不同安全等级 · "modular blockchain" 是新 paradigm
-- **Pragmatic 中间路线**(Mantle / Manta / Eclipse 等):大多数 dApp 不需要 L1 DA 等级 · 节省的 cost 可补贴用户
+**Modular thesis の中核問題**:rollup は Ethereum レベルの DA セキュリティを必要とするか?
+- **ETH セキュリティ主義者**(Vitalik 公開立場 · [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] 参照):rollup の中核 commitment は「L1 DA が状態再構築可能性を保証する」こと · alt-DA を使うのは validium であり rollup ではない · rollup と呼ぶべきでない
+- **Modular 主義者**(Celestia / Avail / EigenDA 立場):rollup セキュリティ ≠ DA は必ず L1 でなければならない · 異なるユースケースは異なるセキュリティレベルを選択可能 · 「modular blockchain」は新パラダイム
+- **Pragmatic な中間路線**(Mantle / Manta / Eclipse 等):大半の dApp は L1 DA レベルを必要としない · 節約したコストはユーザー補助に回せる
 
-对开发者(选 rollup stack):DA 选择决定 sequencer cost · 进而决定用户 gas cost · 进而决定 dApp 经济模型。对机构客户(tokenized fund / DvP):L1 DA 是 institutional grade · alt-DA 是 commercial grade(参见 [[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] 中机构对 L1 DA 的明确要求)。
+開発者(rollup stack を選ぶ)にとって:DA 選択は sequencer コストを決定し · ユーザー gas コストを決定し · dApp 経済モデルを決定する。institutional 顧客(tokenized fund / DvP)にとって:L1 DA は institutional grade · alt-DA は commercial grade([[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] における機関の L1 DA への明確な要求と対照)。
 
-本矩阵对照 5 个公开运营的 DA layer · 8 维度横向铺开 · 2026-Q2 数据快照。
+本マトリクスは公開運営中の 5 つの DA layer · 8 次元横断 · 2026-Q2 データスナップショットを対照する。
 
 ## Per-DA-layer sections
 
 ### Ethereum blobs (EIP-4844)
 
-**架构**:Ethereum L1 原生 · 每 block 4 个 blob(target=3 · max=6 Dencun · target=6 · max=9 Pectra 后)· 每 blob 128 KiB · 总 max ~1.1 MiB/block(post-Pectra)。Blob 数据保留 ~18 天 · 之后只 commitment(KZG)留链。Blob 价格独立于 calldata · 用 EIP-1559 风格 fee market。
+**アーキテクチャ**:Ethereum L1 ネイティブ · 1 block あたり 4 個の blob(target=3 · max=6 Dencun · target=6 · max=9 Pectra 後)· 各 blob 128 KiB · 合計 max ~1.1 MiB/block(post-Pectra)。Blob データは ~18 日保持 · その後 commitment(KZG)のみオンチェーンに残る。Blob 価格は calldata から独立 · EIP-1559 スタイル fee market を使用。
 
-**安全模型**:Ethereum L1 PoS validator(~100 万+)+ DAS(EIP-7594 PeerDAS 2026-Q4+ 引入)。Slashing 由 Ethereum L1 协议直接执行。当前安全等级 = Ethereum L1 本身(Nakamoto 系数 ~5 · 总 ETH staked ~$120B · 攻击 cost ~$40B+)。
+**セキュリティモデル**:Ethereum L1 PoS validator(~100 万+)+ DAS(EIP-7594 PeerDAS 2026-Q4+ で導入)。Slashing は Ethereum L1 プロトコルで直接執行。現セキュリティレベル = Ethereum L1 自身(中本聡係数 ~5 · 総 ETH staked ~$120B · 攻撃コスト ~$40B+)。
 
-**Cost per GB-day**(2026-Q2 估算):~$0.10-0.30(blob fee 波动 · 高峰期可达 $1+ · 低谷 $0.05)。比 calldata 便宜 ~100x。
+**GB 日あたりコスト**(2026-Q2 推定):~$0.10-0.30(blob fee 変動 · ピーク時 $1+ · 谷時 $0.05)。calldata より ~100x 安い。
 
-**Throughput**:Pectra 后 ~1.1 MiB/block(12s 出块)≈ ~6 GB/day。Fusaka PeerDAS 后理论可达 ~60 GB/day。
+**Throughput**:Pectra 後 ~1.1 MiB/block(12s ブロック)≈ ~6 GB/day。Fusaka PeerDAS 後理論的に ~60 GB/day 到達可能。
 
-**Finality**:Ethereum L1 finality(~12-15 分钟 · 2 epoch)。
+**Finality**:Ethereum L1 finality(~12-15 分 · 2 epoch)。
 
-**已采用 rollup**:Arbitrum · Optimism · Base · zkSync Era · Linea · Scroll · Taiko · Polygon zkEVM · Blast · Mode · Mantle(部分)· 等 95%+ 的 ETH-aligned rollup default。
+**採用 rollup**:Arbitrum · Optimism · Base · zkSync Era · Linea · Scroll · Taiko · Polygon zkEVM · Blast · Mode · Mantle(一部)· 等 95%+ の ETH-aligned rollup default。
 
-**治理**:Ethereum 协议治理(EIP process · ACD)· 链上 social consensus。Pectra 后下一波是 Fusaka PeerDAS(2026-Q4 估)。
+**ガバナンス**:Ethereum プロトコルガバナンス(EIP プロセス · ACD)· オンチェーン social consensus。Pectra の次は Fusaka PeerDAS(2026-Q4 予想)。
 
-**监管敞口**:Ethereum L1 本身已是 SEC 长期关注对象但被广泛认为 "sufficiently decentralized" · 不构成 security。Blob 数据本身只是字节存储 · 监管 surface 极小。
+**規制エクスポージャ**:Ethereum L1 自身は既に SEC が長期注目しているが「sufficiently decentralized」と広く認識されており · security に該当しない。Blob データ自身はバイト保存のみ · 規制 surface は極小。
 
 ### Celestia
 
-**架构**:独立 PoS L1 · Cosmos SDK + Tendermint BFT · 专注 DA(没有 EVM / 智能合约执行)。Data Availability Sampling(DAS)让 light client 用少量采样验证整 block availability · 不必下载全 block。2D Reed-Solomon erasure coding + KZG commitment。
+**アーキテクチャ**:独立 PoS L1 · Cosmos SDK + Tendermint BFT · DA に特化(EVM / スマートコントラクト実行なし)。Data Availability Sampling(DAS)により light client が少量サンプリングで block 全体の可用性を検証可能 · block 全体をダウンロードする必要がない。2D Reed-Solomon erasure coding + KZG commitment。
 
-**安全模型**:Celestia validator(~100 active validator · TIA token staking)· Tendermint BFT(2/3+ honest)· DAS 提供 "majority malicious validator 仍可被 light client 检测" 的较强保证。但 staking 经济规模 ~$1-2B 远低于 Ethereum L1。
+**セキュリティモデル**:Celestia validator(~100 active validator · TIA token staking)· Tendermint BFT(2/3+ honest)· DAS は「majority malicious validator でも light client で検出可能」というより強い保証を提供。ただし staking 経済規模 ~$1-2B は Ethereum L1 より大きく低い。
 
-**Cost per GB-day**(2026-Q2 估算):~$0.02-0.05(取决于 blob 拥堵)。最便宜 · 是 Ethereum blob 的 ~1/5。
+**GB 日あたりコスト**(2026-Q2 推定):~$0.02-0.05(blob 混雑度に依存)。最安 · Ethereum blob の ~1/5。
 
-**Throughput**:2 MB/block(2026 升级 · 出块 ~6s)≈ ~28 GB/day。计划 2027 升级到 8 MB/block ≈ 120 GB/day。
+**Throughput**:2 MB/block(2026 アップグレード · ブロック ~6s)≈ ~28 GB/day。2027 に 8 MB/block ≈ 120 GB/day へアップグレード計画。
 
-**Finality**:Tendermint 即时 finality(~6s · 单 block)。
+**Finality**:Tendermint 即時 finality(~6s · 単一ブロック)。
 
-**已采用 rollup**:Manta Pacific(主要 L2 客户)· Eclipse(部分模块)· Polygon CDK 部分配置 · Caldera RaaS 部分 · Astria sequencer · Movement Labs · Lyra · 等 ~30+ chain(2026)。
+**採用 rollup**:Manta Pacific(主要 L2 顧客)· Eclipse(一部モジュール)· Polygon CDK 一部設定 · Caldera RaaS 一部 · Astria sequencer · Movement Labs · Lyra · 等 ~30+ chain(2026)。
 
-**治理**:Celestia Foundation + TIA token DAO · 升级通过 onchain governance vote。
+**ガバナンス**:Celestia Foundation + TIA token DAO · アップグレードはオンチェーンガバナンス投票で。
 
-**监管敞口**:TIA token 在 2024 上线后 SEC 未明确表态 · Celestia Labs 主动 geo-fence 美国零售。EU MiCA 下 TIA 是否构成 utility token 仍待裁决。
+**規制エクスポージャ**:TIA token は 2024 ローンチ後 SEC が明確な表態なし · Celestia Labs は能動的に米国リテール geo-fence。EU MiCA 下 TIA が utility token に該当するかは未裁定。
 
 ### EigenDA
 
-**架构**:EigenLayer restaking secured(参见 [[systems/eigenlayer-overview|EigenLayer overview]] 和 [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]])· EigenDA operator 从 EigenLayer 借 ETH stake 作为 economic security · 提供高 throughput DA service。Dispatcher / Encoder / Validator 三角色 · KZG commitment · DAS.
+**アーキテクチャ**:EigenLayer restaking secured([[systems/eigenlayer-overview|EigenLayer overview]] と [[systems/eigenlayer-avs-mechanism|EigenLayer AVS mechanism]] 参照)· EigenDA operator は EigenLayer から ETH stake を借用して経済セキュリティに · 高 throughput DA service を提供。Dispatcher / Encoder / Validator の 3 役割 · KZG commitment · DAS。
 
-**安全模型**:借 EigenLayer ~$14B TVL 中的 ~$6B opt-in 到 EigenDA(参见 [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]])· slashing 由 EigenLayer 协议执行。安全 ≈ ETH staking 但隔了一层(restaking 同意)· Vitalik 提醒 "不应过度依赖 restaking 共识"(参见 [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]])。
+**セキュリティモデル**:EigenLayer ~$14B TVL のうち ~$6B が EigenDA に opt-in([[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]] 参照)· slashing は EigenLayer プロトコルで執行。セキュリティ ≈ ETH staking だが 1 層挟む(restaking 同意)· Vitalik は「restaking コンセンサスに過度依存すべきでない」と警告([[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] 参照)。
 
-**Cost per GB-day**(2026-Q2 估算):~$0.06-0.15。介于 blob 和 Celestia 之间 · 因要付 operator + restaker reward。
+**GB 日あたりコスト**(2026-Q2 推定):~$0.06-0.15。blob と Celestia の間 · operator + restaker reward を支払う必要があるため。
 
-**Throughput**:~15 MB/s sustained(~1.3 TB/day theoretical · 实际 ~100-500 GB/day 看负载)。最高 throughput 的 DA layer。
+**Throughput**:~15 MB/s sustained(~1.3 TB/day theoretical · 実際 ~100-500 GB/day 負荷次第)。最高 throughput の DA layer。
 
-**Finality**:取决于 EigenDA dispatcher confirmation(~10-30s)+ EigenLayer slashing window。
+**Finality**:EigenDA dispatcher confirmation(~10-30s)+ EigenLayer slashing window に依存。
 
-**已采用 rollup**:Mantle(主要)· Movement · Cyber · Rivalz · 多个 ZK Stack hyperchain · 多个 OP Stack rollup · Arbitrum Orbit 部分。EigenDA 是 modular rollup-as-a-service 的 default alt-DA。
+**採用 rollup**:Mantle(主要)· Movement · Cyber · Rivalz · 複数の ZK Stack hyperchain · 複数の OP Stack rollup · Arbitrum Orbit 一部。EigenDA は modular rollup-as-a-service の default alt-DA。
 
-**治理**:EigenLabs 团队 + EIGEN token holders + Security Council。
+**ガバナンス**:EigenLabs チーム + EIGEN token holders + Security Council。
 
-**监管敞口**:EIGEN token 在 2024 上线 · SEC 未明确表态 · EigenLayer 主动延迟 EIGEN airdrop 给美国用户。restaking economics 在监管视角下接近 securities(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])。
+**規制エクスポージャ**:EIGEN token は 2024 ローンチ · SEC 明確な表態なし · EigenLayer は能動的に米国ユーザーへの EIGEN airdrop を遅延。restaking economics は規制視点で securities に近い([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)。
 
 ### Avail
 
-**架构**:独立 DA chain(原 Polygon Avail · 2023 spin off 为独立项目)。Substrate 框架(Polkadot 系)· Babe+Grandpa 共识 · KZG + DAS · 类似 Celestia 设计但来自 Polkadot 学术血统。计划与 EigenLayer 集成("Avail + EigenLayer" hybrid 模式)进一步借 ETH stake 增强安全。
+**アーキテクチャ**:独立 DA chain(元 Polygon Avail · 2023 spin off して独立プロジェクト)。Substrate フレームワーク(Polkadot 系)· Babe+Grandpa コンセンサス · KZG + DAS · Celestia 設計に類似だが Polkadot の学術血統由来。EigenLayer 統合(「Avail + EigenLayer」hybrid モード)を計画 · ETH stake をさらに借用してセキュリティを強化。
 
-**安全模型**:Avail validator(~150 active)· Babe+Grandpa BFT · staking 经济规模 ~$200-500M(2026)。EigenLayer hybrid 模式上线后可借 ETH stake 增强 · 但 2026-Q2 主要靠自身 AVAIL token staking。
+**セキュリティモデル**:Avail validator(~150 active)· Babe+Grandpa BFT · staking 経済規模 ~$200-500M(2026)。EigenLayer hybrid モード稼働後に ETH stake を借用してセキュリティ強化可能 · ただし 2026-Q2 では主に自身の AVAIL token staking 頼み。
 
-**Cost per GB-day**(2026-Q2 估算):~$0.04-0.08。略高于 Celestia · 因 staking 经济规模小 + 需要补贴 validator。
+**GB 日あたりコスト**(2026-Q2 推定):~$0.04-0.08。Celestia よりやや高い · staking 経済規模が小さく + validator 補助が必要なため。
 
-**Throughput**:~2 MB/block(20s 出块)≈ ~8.6 GB/day。计划升级到 4 MB/block ≈ 17 GB/day。
+**Throughput**:~2 MB/block(20s ブロック)≈ ~8.6 GB/day。4 MB/block へのアップグレード計画 ≈ 17 GB/day。
 
 **Finality**:Grandpa finality(~30s-1min)。
 
-**已采用 rollup**:Polygon CDK 部分 chain · Sophon(zkSync ZK Stack 合作)· QuarkChain · Madara · LumioVM · 部分 RaaS 配置。客户量小于 Celestia / EigenDA。
+**採用 rollup**:Polygon CDK 一部 chain · Sophon(zkSync ZK Stack 提携)· QuarkChain · Madara · LumioVM · 一部 RaaS 設定。顧客数は Celestia / EigenDA より少ない。
 
-**治理**:Avail Foundation + AVAIL token DAO(2025 token 上线后)。
+**ガバナンス**:Avail Foundation + AVAIL token DAO(2025 token ローンチ後)。
 
-**监管敞口**:AVAIL token 较新(2025 上线)· 监管定位未明。Avail 团队主要在欧洲 · MiCA 合规优先。
+**規制エクスポージャ**:AVAIL token は比較的新しい(2025 ローンチ)· 規制ポジション未明。Avail チームは主に欧州 · MiCA コンプライアンス優先。
 
 ### NEAR DA
 
-**架构**:NEAR Protocol 的 DA 服务模块 · 利用 NEAR sharded 共识 + storage staking。不是独立 chain · 是 NEAR L1 上的 DA service · 通过 cross-chain bridge 让 EVM rollup 访问。
+**アーキテクチャ**:NEAR Protocol の DA サービスモジュール · NEAR sharded コンセンサス + storage staking を活用。独立 chain ではなく · NEAR L1 上の DA service · cross-chain bridge 経由で EVM rollup がアクセス可能。
 
-**安全模型**:NEAR validator(~250 active)· NEAR PoS 共识 · staking 经济规模 ~$1-2B(NEAR token market cap × stake ratio)。Bridge 安全是额外 surface(参见 [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]])。
+**セキュリティモデル**:NEAR validator(~250 active)· NEAR PoS コンセンサス · staking 経済規模 ~$1-2B(NEAR token 時価総額 × stake ratio)。Bridge セキュリティは追加 surface([[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]] 参照)。
 
-**Cost per GB-day**(2026-Q2 估算):~$0.01-0.03。最便宜 · 利用 NEAR 极低的 storage cost 经济。
+**GB 日あたりコスト**(2026-Q2 推定):~$0.01-0.03。最安 · NEAR の極低 storage cost 経済を利用。
 
-**Throughput**:取决于 NEAR sharding · 理论 ~100 MB/s sustained · 实际服务 ~10-50 GB/day for rollup 客户。
+**Throughput**:NEAR sharding に依存 · 理論 ~100 MB/s sustained · 実際 rollup 顧客向けサービス ~10-50 GB/day。
 
-**Finality**:NEAR finality(~2-3s · 显著快于 Ethereum)。
+**Finality**:NEAR finality(~2-3s · Ethereum より顕著に速い)。
 
-**已采用 rollup**:Caldera RaaS 部分 chain · 一些 OP Stack rollup 实验 deploy · Polygon CDK 部分 · 主要服务非 ETH-aligned rollup。客户量 < Celestia / EigenDA / Avail。
+**採用 rollup**:Caldera RaaS 一部 chain · 一部 OP Stack rollup 実験 deploy · Polygon CDK 一部 · 主に非 ETH-aligned rollup にサービス。顧客数 < Celestia / EigenDA / Avail。
 
-**治理**:NEAR Foundation + NEAR token DAO · NEAR DA 团队主导路线图。
+**ガバナンス**:NEAR Foundation + NEAR token DAO · NEAR DA チームがロードマップを主導。
 
-**监管敞口**:NEAR token 在 2024-2025 多个 jurisdiction 被审查 · 但未被 SEC 直接定性为 security。NEAR Protocol 整体监管敞口相对中等。
+**規制エクスポージャ**:NEAR token は 2024-2025 に複数 jurisdiction で審査を受けたが · SEC に security と直接認定されていない。NEAR Protocol 全体の規制エクスポージャは相対的に中程度。
 
 ## Big comparison matrix table
 
-**5 个 DA layer × 8 维度对照**(2026-Q2 状态):
+**5 DA layer × 8 次元対照**(2026-Q2 状態):
 
-| DA Layer | 架构 | 安全模型 | Cost/GB-day | Throughput | Finality | 已采用 rollup | 治理 | 监管敞口 |
+| DA Layer | アーキテクチャ | セキュリティモデル | Cost/GB-day | Throughput | Finality | 採用 rollup | ガバナンス | 規制エクスポージャ |
 |---|---|---|---|---|---|---|---|---|
-| **Ethereum blobs (EIP-4844)** | Ethereum L1 原生 · KZG · target=6/max=9 (post-Pectra) | Ethereum PoS ~100万 validator · DAS (PeerDAS 2026-Q4) · 攻击 cost $40B+ | $0.10-0.30 | ~6 GB/day (post-Pectra) · Fusaka 后 ~60 GB/day | ~12-15 min (2 epoch) | **95%+ ETH-aligned rollup**: Arbitrum · Optimism · Base · zkSync · Linea · Scroll · Taiko · Polygon zkEVM | Ethereum 协议治理 (EIP/ACD) | 极低 · Ethereum sufficiently decentralized 共识 |
-| **Celestia** | 独立 PoS · Cosmos SDK+Tendermint · DAS · 2D RS+KZG | ~100 validator · TIA staking ~$1-2B · DAS 强保证 | **$0.02-0.05** (最便宜 modular DA) | 2 MB/block 6s ≈ 28 GB/day · 2027 8 MB target | ~6s instant (Tendermint) | Manta Pacific · Eclipse 部分 · Polygon CDK 部分 · Astria · Movement · ~30+ chain | Celestia Foundation+TIA DAO | TIA SEC 未表态 · geo-fence US · MiCA 待裁决 |
-| **EigenDA** | EigenLayer AVS · Dispatcher/Encoder/Validator · KZG+DAS | EigenLayer ~$6B opt-in (restaking) · slashing 经 EigenLayer · 借 ETH stake | $0.06-0.15 | **~15 MB/s sustained** (~100-500 GB/day 实际) | ~10-30s dispatcher + slashing window | Mantle · Movement · Cyber · Rivalz · ZK Stack hyperchain · OP Stack 部分 · Arbitrum Orbit 部分 | EigenLabs+EIGEN+SC | EIGEN SEC 未表态 · restaking 接近 securities |
-| **Avail** | 独立 DA chain · Substrate (Polkadot 系)· Babe+Grandpa · KZG+DAS | ~150 validator · AVAIL staking ~$200-500M · 计划 EigenLayer hybrid | $0.04-0.08 | 2 MB/block 20s ≈ 8.6 GB/day · 升级 4 MB ≈ 17 GB | ~30s-1min (Grandpa) | Polygon CDK 部分 · Sophon · QuarkChain · Madara · LumioVM | Avail Foundation+AVAIL DAO | AVAIL 2025 新上线 · MiCA 合规优先 |
-| **NEAR DA** | NEAR L1 模块 · sharded 共识 · storage staking · 经 bridge 给 EVM | NEAR ~250 validator · staking ~$1-2B · bridge 安全是额外 surface | **$0.01-0.03** (最便宜) | 理论 100 MB/s · 实际 ~10-50 GB/day | ~2-3s (NEAR fast finality) | Caldera RaaS 部分 · OP Stack 实验 · Polygon CDK 部分 | NEAR Foundation+NEAR DAO | NEAR 多 jurisdiction 审查 · 中等监管敞口 |
+| **Ethereum blobs (EIP-4844)** | Ethereum L1 ネイティブ · KZG · target=6/max=9 (post-Pectra) | Ethereum PoS ~100万 validator · DAS (PeerDAS 2026-Q4) · 攻撃コスト $40B+ | $0.10-0.30 | ~6 GB/day (post-Pectra) · Fusaka 後 ~60 GB/day | ~12-15 min (2 epoch) | **95%+ ETH-aligned rollup**: Arbitrum · Optimism · Base · zkSync · Linea · Scroll · Taiko · Polygon zkEVM | Ethereum プロトコルガバナンス (EIP/ACD) | 極低 · Ethereum sufficiently decentralized 共識 |
+| **Celestia** | 独立 PoS · Cosmos SDK+Tendermint · DAS · 2D RS+KZG | ~100 validator · TIA staking ~$1-2B · DAS 強保証 | **$0.02-0.05** (最安 modular DA) | 2 MB/block 6s ≈ 28 GB/day · 2027 8 MB target | ~6s instant (Tendermint) | Manta Pacific · Eclipse 一部 · Polygon CDK 一部 · Astria · Movement · ~30+ chain | Celestia Foundation+TIA DAO | TIA SEC 未表態 · geo-fence US · MiCA 未裁定 |
+| **EigenDA** | EigenLayer AVS · Dispatcher/Encoder/Validator · KZG+DAS | EigenLayer ~$6B opt-in (restaking) · slashing 経由 EigenLayer · ETH stake 借用 | $0.06-0.15 | **~15 MB/s sustained** (~100-500 GB/day 実際) | ~10-30s dispatcher + slashing window | Mantle · Movement · Cyber · Rivalz · ZK Stack hyperchain · OP Stack 一部 · Arbitrum Orbit 一部 | EigenLabs+EIGEN+SC | EIGEN SEC 未表態 · restaking は securities に近い |
+| **Avail** | 独立 DA chain · Substrate (Polkadot 系)· Babe+Grandpa · KZG+DAS | ~150 validator · AVAIL staking ~$200-500M · EigenLayer hybrid 計画 | $0.04-0.08 | 2 MB/block 20s ≈ 8.6 GB/day · 4 MB アップグレード ≈ 17 GB | ~30s-1min (Grandpa) | Polygon CDK 一部 · Sophon · QuarkChain · Madara · LumioVM | Avail Foundation+AVAIL DAO | AVAIL 2025 新ローンチ · MiCA コンプライアンス優先 |
+| **NEAR DA** | NEAR L1 モジュール · sharded コンセンサス · storage staking · bridge 経由 EVM | NEAR ~250 validator · staking ~$1-2B · bridge セキュリティは追加 surface | **$0.01-0.03** (最安) | 理論 100 MB/s · 実際 ~10-50 GB/day | ~2-3s (NEAR fast finality) | Caldera RaaS 一部 · OP Stack 実験 · Polygon CDK 一部 | NEAR Foundation+NEAR DAO | NEAR 複数 jurisdiction 審査 · 中等規制エクスポージャ |
 
-**矩阵读法**:
-- **Cost 排序**:NEAR DA < Celestia < Avail < EigenDA < Ethereum blobs(blob 最贵但最安全 · NEAR 最便宜但客户量小)
-- **Throughput 排序**:EigenDA(最高) > NEAR(理论高 · 实际中) > Celestia ≈ Avail ≈ Ethereum blob(post-Pectra)
-- **安全等级排序**:Ethereum blobs(最高 · L1 原生) > EigenDA(借 ETH restake) > Celestia ≈ NEAR DA(独立 PoS · staking ~$1-2B) > Avail(staking 规模最小)
-- **Finality 速度排序**:NEAR DA(2-3s) > Celestia(6s) > EigenDA(10-30s + slashing) > Avail(30s-1min) > Ethereum blobs(12-15min)
-- **采用规模排序**:Ethereum blobs(95%+ ETH-aligned) > Celestia(~30+ chain · 主导 alt-DA) > EigenDA(~20 chain · 增长最快) > Avail / NEAR DA(各 <10 主要 chain)
+**マトリクスの読み方**:
+- **Cost 順位**:NEAR DA < Celestia < Avail < EigenDA < Ethereum blobs(blob 最高価だが最安全 · NEAR 最安だが顧客数小)
+- **Throughput 順位**:EigenDA(最高) > NEAR(理論高 · 実際中) > Celestia ≈ Avail ≈ Ethereum blob(post-Pectra)
+- **セキュリティレベル順位**:Ethereum blobs(最高 · L1 ネイティブ) > EigenDA(ETH restake 借用) > Celestia ≈ NEAR DA(独立 PoS · staking ~$1-2B) > Avail(staking 規模最小)
+- **Finality 速度順位**:NEAR DA(2-3s) > Celestia(6s) > EigenDA(10-30s + slashing) > Avail(30s-1min) > Ethereum blobs(12-15min)
+- **採用規模順位**:Ethereum blobs(95%+ ETH-aligned) > Celestia(~30+ chain · alt-DA 主導) > EigenDA(~20 chain · 成長最速) > Avail / NEAR DA(各 <10 主要 chain)
 
 ## Modular thesis post-Dencun
 
-### Dencun 之前 vs 之后
+### Dencun 前 vs 後
 
-**Dencun 之前(2024-03 前)**:
-- ETH-aligned rollup 用 L1 calldata · cost 高 · 是 rollup 主要 cost(~80%)
-- Alt-DA(Celestia 2023-10 主网 · EigenDA 2024-Q1 主网 · Avail 2024-Q2 · NEAR DA 2023)定位 "便宜 90%+" · 抢 cost-sensitive 客户
-- Modular thesis 论调:"rollup 应该自由选 DA · 不必绑定 Ethereum L1 DA"
+**Dencun 前(2024-03 前)**:
+- ETH-aligned rollup が L1 calldata 使用 · コスト高 · rollup の主コスト(~80%)
+- Alt-DA(Celestia 2023-10 メインネット · EigenDA 2024-Q1 メインネット · Avail 2024-Q2 · NEAR DA 2023)が「90%+ 安い」と位置付け · cost-sensitive 顧客を奪う
+- Modular thesis 論調:「rollup は自由に DA を選ぶべき · Ethereum L1 DA に縛られる必要はない」
 
-**Dencun 之后(2024-03 至今)**:
-- L1 blob 让 ETH-aligned rollup cost 下降 ~100x · 大量 rollup 选择留在 blob
-- Alt-DA 价格优势从 ~50x 缩小到 ~3-5x(blob $0.10-0.30 vs Celestia $0.02-0.05)
-- Modular thesis 论调转向:"小 cost 差距下 · 应该考虑安全等级 + 生态对齐 · 多数 ETH-aligned 选 blob · 非 ETH-aligned 选 alt-DA"
-- Pectra(2025-Q2)blob target 翻倍 · 进一步压缩 alt-DA 价格优势
-- Fusaka PeerDAS(2026-Q4 计划)再 10x blob 容量 · 可能让 alt-DA 在 ETH-aligned 市场份额进一步压缩
+**Dencun 後(2024-03 以降)**:
+- L1 blob で ETH-aligned rollup コストが ~100x 下落 · 大量の rollup が blob 残留を選択
+- Alt-DA 価格優位は ~50x から ~3-5x に縮小(blob $0.10-0.30 vs Celestia $0.02-0.05)
+- Modular thesis 論調が転換:「小コスト差ではセキュリティレベル + エコシステム整合を考慮すべき · 大半 ETH-aligned が blob を選択 · 非 ETH-aligned が alt-DA を選択」
+- Pectra(2025-Q2)で blob target 倍増 · alt-DA 価格優位をさらに圧縮
+- Fusaka PeerDAS(2026-Q4 計画)でさらに 10x blob 容量 · alt-DA が ETH-aligned 市場シェアでさらに圧縮される可能性
 
-### Alt-DA 的差异化战略
+### Alt-DA の差別化戦略
 
-面对 blob 的价格压力 · 各 alt-DA 走不同 differentiation:
+blob 価格圧力に直面し · 各 alt-DA は異なる differentiation を取る:
 
 **Celestia**:
-- 走 "modular sovereignty" 路线 · 强调 Cosmos / Move / 非 EVM 生态(Manta · Eclipse · Movement · Astria)
-- 不与 ETH-aligned 直接竞争 · 服务 "想自主选 settlement layer" 的 sovereign rollup
-- TIA token 经济激励 · 给 rollup 客户 token incentive
+- 「modular sovereignty」路線 · Cosmos / Move / 非 EVM エコシステム(Manta · Eclipse · Movement · Astria)を強調
+- ETH-aligned と直接競争しない · 「自身で settlement layer を選びたい」sovereign rollup にサービス
+- TIA token 経済インセンティブ · rollup 顧客に token incentive
 
 **EigenDA**:
-- 走 "ETH-aligned 但 throughput 极高" 路线 · 服务高 TPS rollup(Mantle · DeFi 重型 dApp)
-- 借 EigenLayer 的 $14B+ TVL 经济安全 · 接近 L1 DA 等级
-- 是 modular rollup-as-a-service(RaaS)的 default · Caldera · AltLayer · Conduit · 等都默认 EigenDA
+- 「ETH-aligned だが throughput 極高」路線 · 高 TPS rollup(Mantle · DeFi 重型 dApp)にサービス
+- EigenLayer $14B+ TVL の経済セキュリティを借用 · L1 DA レベルに近い
+- modular rollup-as-a-service(RaaS)の default · Caldera · AltLayer · Conduit · 等が全て default EigenDA
 
 **Avail**:
-- 走 "L1 DA 替代 + EigenLayer hybrid" 路线 · 想兼顾独立性 + 借 ETH stake
-- Polkadot 学术血统 · 在 Polygon CDK / Substrate 系生态有优势
-- 客户量目前最小 · 长期看 EigenLayer hybrid 是否能拉客户
+- 「L1 DA 代替 + EigenLayer hybrid」路線 · 独立性 + ETH stake 借用を両立
+- Polkadot 学術血統 · Polygon CDK / Substrate 系エコシステムで優位
+- 顧客数は現在最小 · 長期的に EigenLayer hybrid が顧客を引き付けるか
 
 **NEAR DA**:
-- 走 "极低 cost + NEAR fast finality" 路线 · 服务非 DeFi 高频 use case(gaming · 社交)
-- 客户主要是 RaaS · 不是头部 rollup
-- 长期价值取决于 NEAR Protocol 生态健康度
+- 「極低コスト + NEAR fast finality」路線 · 非 DeFi 高頻度ユースケース(ゲーミング · ソーシャル)にサービス
+- 顧客は主に RaaS · 大手 rollup ではない
+- 長期価値は NEAR Protocol エコシステムの健全度次第
 
-### 谁选哪个 DA · 决策维度
+### 誰がどの DA を選ぶか · 意思決定次元
 
-**ETH-aligned + institutional grade**(Coinbase Base · 机构 RWA · tokenized fund):
-- 必选 Ethereum blobs · 因为安全等级 = Ethereum L1 · 监管 surface 最小
-- 不能选 alt-DA · 因为机构 risk committee 不接受非 L1 DA
+**ETH-aligned + institutional grade**(Coinbase Base · 機関 RWA · tokenized fund):
+- Ethereum blobs 必須 · セキュリティレベル = Ethereum L1 · 規制 surface 最小
+- alt-DA は選べない · 機関 risk committee は非 L1 DA を受け入れないため
 
-**ETH-aligned + DeFi-native**(Arbitrum · Optimism · zkSync 等大型 ZK/OP rollup):
-- 主选 Ethereum blobs · 因为生态对齐 + 用户期待
-- 部分高 throughput 子链可选 EigenDA(Arbitrum Orbit · OP Stack 子 rollup)
+**ETH-aligned + DeFi-native**(Arbitrum · Optimism · zkSync 等の大型 ZK/OP rollup):
+- 主に Ethereum blobs · エコシステム整合 + ユーザー期待
+- 一部高 throughput 子チェーンは EigenDA を選択可能(Arbitrum Orbit · OP Stack 子 rollup)
 
-**Modular rollup-as-a-service**(Caldera · AltLayer · Conduit 客户):
-- 默认 EigenDA(ETH-aligned · 高 throughput)
-- 部分客户选 Celestia(便宜)或 Avail / NEAR DA(更便宜)
+**Modular rollup-as-a-service**(Caldera · AltLayer · Conduit 顧客):
+- default EigenDA(ETH-aligned · 高 throughput)
+- 一部顧客は Celestia(安い)または Avail / NEAR DA(より安い)
 
-**Non-ETH-aligned**(Cosmos · Move · Solana 生态扩展):
-- 主选 Celestia(Cosmos 血统对齐)· 或 NEAR DA(NEAR 生态)
-- 不选 Ethereum blobs · 因为生态不对齐 + 不必要的 L1 fee 暴露
+**Non-ETH-aligned**(Cosmos · Move · Solana エコシステム拡張):
+- 主に Celestia(Cosmos 血統整合)· または NEAR DA(NEAR エコシステム)
+- Ethereum blobs は選ばない · エコシステム非整合 + 不要な L1 fee エクスポージャ
 
-**Gaming / 社交 / 高频低值**(Web3 game · social dApp):
-- 主选 NEAR DA(最便宜) · 或 Celestia(便宜 + 中等安全)
-- 不选 Ethereum blobs · 因为 cost 仍高于 native gas budget
+**ゲーミング / ソーシャル / 高頻度低価値**(Web3 game · social dApp):
+- 主に NEAR DA(最安) · または Celestia(安 + 中等セキュリティ)
+- Ethereum blobs は選ばない · コストが依然ネイティブ gas budget を超える
 
 ## Boundary cases / future trajectory
 
-**PeerDAS 影响**(Fusaka 2026-Q4 计划):
-- Ethereum blob 容量 10x · 每天 ~60 GB DA
-- Alt-DA 价格优势从 3-5x 缩到 ~1.5-2x · 进一步压力
-- Celestia / Avail 已规划自己的容量升级回应(Celestia 2027 8 MB block)
+**PeerDAS の影響**(Fusaka 2026-Q4 計画):
+- Ethereum blob 容量 10x · 1 日あたり ~60 GB DA
+- Alt-DA 価格優位は 3-5x から ~1.5-2x へ縮小 · さらなる圧力
+- Celestia / Avail は自身の容量アップグレードで対応計画(Celestia 2027 8 MB block)
 
-**EigenDA 的 restaking 经济边界**:
-- EigenDA 收入 2026 估 ~$120M ARR(参见 [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS matrix]])
-- 收入 70-90% 给 operator + restaker · EigenLabs 抽 10-30%
-- 若 EigenLayer 总 TVL 因 restaking 监管收紧而下降 · EigenDA 安全 budget 同步下降
-- 反之若 restaking 监管 clarity + TVL 增长 · EigenDA 成为 alt-DA 中 dominant
+**EigenDA の restaking 経済境界**:
+- EigenDA 収入は 2026 推定 ~$120M ARR([[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS matrix]] 参照)
+- 収入の 70-90% を operator + restaker に分配 · EigenLabs は 10-30% 抽出
+- EigenLayer 総 TVL が restaking 規制強化で下落すれば · EigenDA セキュリティ予算も同期下落
+- 逆に restaking 規制 clarity + TVL 成長があれば · EigenDA は alt-DA で dominant に
 
-**Celestia 长期路径**:
-- 已是 modular thesis 旗帜 · 但 ETH-aligned 客户不增长(因为 blob 已便宜)
-- 长期靠 Cosmos / Move / sovereign rollup 生态 · 与 ETH 生态分叉
-- TIA token 经济需要持续 rollup 客户付 DA fee · 但 alt-DA 价格战让 fee 难提
+**Celestia 長期経路**:
+- 既に modular thesis の旗印 · ただし ETH-aligned 顧客は成長せず(blob が既に安いため)
+- 長期的に Cosmos / Move / sovereign rollup エコシステム頼み · ETH エコシステムと分岐
+- TIA token 経済は継続的に rollup 顧客が DA fee を支払うことを要するが · alt-DA 価格戦争で fee 引き上げ困難
 
-**Avail 是否能逆袭**:
-- Polkadot 系学术血统强 · 但客户量小
-- "EigenLayer hybrid" 是关键 · 若成功借 ETH stake 增强安全 · 可能从 Celestia 抢部分客户
-- Substrate / Polygon CDK 集成是另一条路径
+**Avail は逆襲できるか**:
+- Polkadot 系学術血統強い · ただし顧客数小
+- 「EigenLayer hybrid」が鍵 · 成功すれば ETH stake 借用でセキュリティ強化 · Celestia から一部顧客を奪える可能性
+- Substrate / Polygon CDK 統合は別の経路
 
-**NEAR DA 的 niche 化**:
-- 价格优势明显 · 但 NEAR Protocol 整体生态规模有限
-- 长期可能专注 gaming / 社交 / 高频低值 DA · 而非 DeFi 头部 rollup
-- 通过 cross-chain bridge 服务 EVM rollup 引入额外安全 surface
+**NEAR DA のニッチ化**:
+- 価格優位明確 · ただし NEAR Protocol 全体エコシステム規模が限定的
+- 長期的にゲーミング / ソーシャル / 高頻度低価値 DA に特化する可能性 · DeFi 頭部 rollup ではなく
+- cross-chain bridge 経由で EVM rollup にサービス提供することで追加セキュリティ surface を導入
 
-**机构客户 DA 选择**:
-- 2026 机构 RWA 案例(BlackRock BUIDL · Franklin Templeton FOBXX · 等)均 deploy 在 Ethereum L1 或 Polygon zkEVM L1-DA · 不接受 alt-DA
-- 长期机构是否会接受 EigenDA(借 ETH stake)是 EigenLabs 的 hopeful path · 但目前 institutional risk committee 仍倾向纯 L1 DA
+**機関顧客の DA 選択**:
+- 2026 機関 RWA 事例(BlackRock BUIDL · Franklin Templeton FOBXX · 等)はいずれも Ethereum L1 または Polygon zkEVM L1-DA にデプロイ · alt-DA は受け入れず
+- 長期的に機関が EigenDA(ETH stake 借用)を受け入れるかは EigenLabs の hopeful path · ただし現時点では institutional risk committee は依然純 L1 DA を好む
 
-**DA layer 与 ZK proving 的关联**:
-- ZK rollup 把 transaction batch 压缩成 small proof · proof 上 L1 · 大数据(state diff)上 DA
-- DA layer 容量越大 · ZK rollup 可处理 batch 越大 · 越经济
-- ZK rollup 在 DA 选择上更敏感 · 因为是 cost 大头(参见 [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup matrix 2026]])
+**DA layer と ZK proving の関連**:
+- ZK rollup は transaction batch を small proof に圧縮 · proof を L1 へ · 大データ(state diff)を DA へ
+- DA layer 容量が大きいほど · ZK rollup が処理可能な batch が大きく · より経済的
+- ZK rollup は DA 選択により敏感 · コストの大頭であるため([[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup matrix 2026]] 参照)
 
 **Multi-DA / DA aggregation**:
-- 一些 rollup 实验 "用 L1 blob + alt-DA 双层" 模式 · L1 blob 储核心 commitment + alt-DA 储完整 state diff
-- 提供 fallback 安全(若 alt-DA 失效 · 仍可从 L1 commitment 重建)
-- 是 modular thesis 的 hybrid 路径 · 但工程复杂 · 仅少数 deploy
+- 一部 rollup が「L1 blob + alt-DA 二層」モードを実験 · L1 blob に core commitment 保存 + alt-DA に完全 state diff 保存
+- fallback セキュリティを提供(alt-DA が失敗しても L1 commitment から再構築可能)
+- modular thesis の hybrid 経路 · ただしエンジニアリング複雑 · 少数のみ deploy
 
-**监管不对称**:
-- Ethereum L1 已是 sufficiently decentralized · 监管 surface 最小
-- Celestia / EigenDA / Avail / NEAR DA 的 token 都在监管灰色地带 · 长期不确定性
-- 机构客户为避免监管风险 · 偏 L1 DA · 这是 alt-DA 长期 ceiling
+**規制非対称性**:
+- Ethereum L1 は既に sufficiently decentralized · 規制 surface 最小
+- Celestia / EigenDA / Avail / NEAR DA の token は全て規制グレーゾーン · 長期不確実性
+- 機関顧客は規制リスク回避のため L1 DA を好む · これは alt-DA の長期 ceiling
 
-**形式化验证 / 工程质量**:
-- Ethereum blob 实现是 Geth / Nethermind / Besu / Erigon / Reth 等多客户端 + 长期 audit · 最成熟
-- EigenDA 是 EigenLayer 主 AVS · 经多轮 audit + slashing 启用前严审
-- Celestia / Avail / NEAR DA 都通过审计 · 但 production 经验 < Ethereum blob
+**形式検証 / エンジニアリング品質**:
+- Ethereum blob 実装は Geth / Nethermind / Besu / Erigon / Reth 等のマルチクライアント + 長期 audit · 最も成熟
+- EigenDA は EigenLayer 主 AVS · 複数回 audit + slashing 起動前に厳審
+- Celestia / Avail / NEAR DA はいずれも監査通過 · ただし production 経験 < Ethereum blob
 
 ## Counterpoints
 
-- **alt-DA 价格优势继续缩小**:Pectra 翻倍 + Fusaka PeerDAS 10x 后 · alt-DA 仅剩 1.5-2x 价格优势 · 对头部 rollup 不再有吸引力
-- **EigenDA "借 ETH stake" 是 cascade risk**:Vitalik 多次警告 restaking 不应过度扩展到 "应用层共识" · EigenDA 是大型应用 · 若出 incident 可能波及 EigenLayer 整体生态
-- **modular thesis 是否真创造长期价值**:除了 cost · alt-DA 是否提供其他 differentiated value?若仅 cost 战 · 长期 race-to-bottom · 利润率薄
-- **机构永远不会接受 alt-DA**:institutional risk committee 严格要求 L1 DA · 这是 alt-DA 长期 ceiling
-- **L1 DA 的"sufficiently decentralized"也在变化**:Ethereum 客户端集中度(Geth 50%+ · Prysm 30%+ · Lido 30%+ stake)未必长期可靠 · 但 alt-DA 集中度更高
-- **Celestia 的 "sovereignty" 论调可能在 ETH 生态扩张下边缘化**:大多数开发者最终选 ETH 生态 · sovereign rollup 是少数 use case
+- **alt-DA 価格優位は引き続き縮小**:Pectra 倍増 + Fusaka PeerDAS 10x 後 · alt-DA は 1.5-2x 価格優位のみ残る · 大手 rollup には魅力なし
+- **EigenDA の「ETH stake 借用」は cascade risk**:Vitalik は restaking を「アプリケーション層コンセンサス」に過度拡張すべきでないと複数回警告 · EigenDA は大型アプリケーション · incident があれば EigenLayer 全エコシステムに波及する可能性
+- **modular thesis は本当に長期価値を創造するか**:コスト以外に · alt-DA は他の differentiated value を提供するか?コスト戦のみなら · 長期 race-to-bottom · 利益率は薄い
+- **機関は永遠に alt-DA を受け入れない**:institutional risk committee は L1 DA を厳格に要求 · これは alt-DA の長期 ceiling
+- **L1 DA の「sufficiently decentralized」も変化**:Ethereum クライアント集中度(Geth 50%+ · Prysm 30%+ · Lido 30%+ stake)は長期的に信頼可能とは限らない · ただし alt-DA 集中度はさらに高い
+- **Celestia の「sovereignty」論調は ETH エコシステム拡大下で周縁化される可能性**:大半の開発者は最終的に ETH エコシステムを選ぶ · sovereign rollup は少数ユースケース
 
 ## Open questions
 
-- **Fusaka PeerDAS 时间表**:2026-Q4 / 2027-Q1 / 更晚?直接决定 alt-DA 价格优势消失时间表
-- **EigenDA 是否能跨过 monopoly Ethereum blob 的 ceiling**:在 ETH-aligned 市场拿到 30%+ 份额需要 institutional 接受 restaking 安全 · 这取决于 SEC / EU MiCA 对 restaking 定性
-- **Celestia / Avail / NEAR DA 是否会出现新的 differentiation**:除 cost 外 · 是否有 sovereign rollup / 隐私 DA / specialized DA 新 use case
-- **multi-DA hybrid 是否会主流化**:工程复杂度 vs 安全 + cost 优势是否成立
-- **机构 RWA 是否会驱动新 institutional-grade DA**:BlackRock / Franklin / Goldman 是否会要求 DA layer 满足特定监管 attestation
-- **AggLayer / Polygon CDK 的 DA strategy**:Polygon 同时支持 L1 blob + Celestia + Avail · 长期是否会偏一个?
-- **DA layer 与 sequencer decentralization 的交互**:Espresso / Astria 等 shared sequencer 服务多 rollup · 它们与 DA 选择如何耦合
-- **Light client / DAS 安全的实战验证**:DAS 理论安全 majority malicious · 但实战仍少 attack scenario · 是否会有 black swan event
+- **Fusaka PeerDAS のスケジュール**:2026-Q4 / 2027-Q1 / さらに遅い?alt-DA 価格優位消滅のスケジュールを直接決定
+- **EigenDA は Ethereum blob の monopoly ceiling を越えられるか**:ETH-aligned 市場で 30%+ シェアを取るには institutional が restaking セキュリティを受け入れる必要 · SEC / EU MiCA の restaking 定性次第
+- **Celestia / Avail / NEAR DA は新たな differentiation が登場するか**:コスト以外に · sovereign rollup / プライバシー DA / specialized DA の新ユースケースがあるか
+- **multi-DA hybrid は主流化するか**:エンジニアリング複雑度 vs セキュリティ + コスト優位が成立するか
+- **機関 RWA は新たな institutional-grade DA を駆動するか**:BlackRock / Franklin / Goldman は DA layer に特定の規制 attestation を要求するか
+- **AggLayer / Polygon CDK の DA strategy**:Polygon は L1 blob + Celestia + Avail を同時サポート · 長期的にどれに偏るか?
+- **DA layer と sequencer decentralization の交互作用**:Espresso / Astria 等の shared sequencer が複数 rollup にサービス · DA 選択とどう結合するか
+- **Light client / DAS セキュリティの実戦検証**:DAS は理論的に majority malicious 安全 · しかし実戦では attack scenario が少ない · ブラックスワン事象があるか
 
 ## Related
 
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|systems index]]
-- [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 经济与 2026 市场影响]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 翻倍与 L2 经济连锁]]
+- [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 経済と 2026 市場影響]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 倍増と L2 経済連鎖]]
 - [[systems/pectra-upgrade-overview|Pectra upgrade overview]]
 - [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]
 - [[systems/eigenlayer-overview|EigenLayer overview]]

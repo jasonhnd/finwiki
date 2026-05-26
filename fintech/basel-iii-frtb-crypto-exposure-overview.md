@@ -1,10 +1,10 @@
 ---
-title: Basel III FRTB 加密敞口 · BCBS SCO60 1,250% 风险加权概览
+title: Basel III FRTB 暗号エクスポージャー · BCBS SCO60 1,250% リスクウェイト概要
 aliases: [basel-iii-frtb-overview, BCBS SCO60, crypto risk weight, 1250 RW]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, basel, bcbs, frtb, bank, capital-requirement]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# Basel III FRTB 加密敞口 · BCBS SCO60 1,250% 风险加权概览
+# Basel III FRTB 暗号エクスポージャー · BCBS SCO60 1,250% リスクウェイト概要
 
 
 ## Wiki route
@@ -25,52 +25,52 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> BCBS(巴塞尔银行监管委员会)2022-12 发布《Prudential treatment of cryptoasset exposures》标准(SCO60),将加密资产分两组:**Group 1**(合规 tokenization 或满足条件的 stablecoin)适用既有风险加权 5-100% · **Group 2**(其他加密资产含 BTC/ETH)适用 **1,250% 风险加权 + 1% exposure cap**。2025-01-01 各国 implementation 目标日。
+> BCBS（バーゼル銀行監督委員会）は 2022-12 に「Prudential treatment of cryptoasset exposures」基準（SCO60）を公表し、暗号資産を 2 グループに分類: **Group 1**（コンプライアントなトークン化または条件を満たす stablecoin）は既存のリスクウェイト 5-100% を適用 · **Group 2**（BTC/ETH を含むその他の暗号資産）は **1,250% リスクウェイト + 1% エクスポージャー上限** を適用。2025-01-01 を各国の実装目標日とした。
 
 ## Key facts
 
-- BCBS SCO60 公布:2022-12-16 ^[extracted]
-- 全球 implementation 目标日:2025-01-01 ^[extracted]
-- Group 2 exposure cap:Tier 1 capital 1% ^[extracted]
-- 超 cap 处理:cap 上 1,250% × 2 = 等效 2,500% risk weight ^[extracted]
-- EU / HK / JP / SG / CH:2025-01 至 2025-04 全面实施 ^[extracted]
-- UK:2026-01-01 实施 ^[extracted]
-- USA:2025-07 延至 2026-07 · 银行游说推迟 ^[extracted]
-- $100 BTC exposure → Capital = $100(1:1 capital deduction) ^[inferred]
+- BCBS SCO60 公表: 2022-12-16 ^[extracted]
+- グローバル実装目標日: 2025-01-01 ^[extracted]
+- Group 2 のエクスポージャー上限: Tier 1 capital の 1% ^[extracted]
+- 上限超過時の処理: 上限以上は 1,250% × 2 = 実効 2,500% のリスクウェイト ^[extracted]
+- EU / HK / JP / SG / CH: 2025-01 ～ 2025-04 に全面実装 ^[extracted]
+- UK: 2026-01-01 に実装 ^[extracted]
+- USA: 2025-07 を 2026-07 に延期 · 銀行業界のロビーによる延期 ^[extracted]
+- $100 の BTC エクスポージャー → Capital = $100（1:1 の capital deduction） ^[inferred]
 
 ## Mechanism / How it works
 
-**BCBS SCO60 四组分类**:
-- **Group 1a (Tokenized TradFi)**:tokenized bonds/equities/commodities · 同 underlying RW(5-100%)· 例 BUIDL / OUSG / ONDO · 须 redemption + enforceability
-- **Group 1b (Qualifying SC)**:充分储备 + 实时赎回 · 通过 redemption risk + basis risk(≤10bp 99% time)· 候选 USDC PPSI / EURC / USDB · 不满足 DAI / FRAX / USDT
-- **Group 2a (Hedged)**:BTC/ETH 有 derivatives 对冲 · 1,250% RW + capital relief
-- **Group 2b (其他)**:1,250% RW = 100% capital backing · 1% exposure cap
+**BCBS SCO60 の 4 グループ分類**:
+- **Group 1a (Tokenized TradFi)**: tokenized bonds/equities/commodities · underlying と同じ RW（5-100%）· 例: BUIDL / OUSG / ONDO · 償還可能性 + 法的執行力が必須
+- **Group 1b (Qualifying SC)**: 完全準備 + リアルタイム償還 · redemption risk + basis risk（≤10bp で時間の 99%）の通過が条件 · 候補: USDC PPSI / EURC / USDB · 不適格: DAI / FRAX / USDT
+- **Group 2a (Hedged)**: BTC/ETH をデリバティブでヘッジ · 1,250% RW + 資本軽減
+- **Group 2b (その他)**: 1,250% RW = 100% capital backing · 1% エクスポージャー上限
 
-Basel III 公式:RWA = Exposure × Risk Weight × 12.5 · Capital = RWA × 8%。$100 BTC exposure → RWA = $100 × 1250% = $1,250 → Capital = $100,即 1:1 capital deduction。实际效果 = bank 必须用自有资本 1:1 对应 BTC 持仓 · ROE 折损 ~12.5x vs 普通信贷。USDC Group 1b 对比:reserve = T-bills + cash · 应用 T-bills risk weight 0-20% · Capital ~10% = 远便宜。HK 侧 reserve 框架直接对接 SCO60,详见 [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]]。
+Basel III の公式: RWA = Exposure × Risk Weight × 12.5 · Capital = RWA × 8%。$100 BTC エクスポージャー → RWA = $100 × 1250% = $1,250 → Capital = $100、すなわち 1:1 の capital deduction。実効効果 = 銀行は BTC ポジションに対し自己資本を 1:1 で対応させなければならず、通常の信用に対する ROE が ~12.5x 棄損する。USDC Group 1b との対比: reserve = 短期国債 + 現金 · 適用される短期国債リスクウェイトは 0-20% · Capital は ~10%、はるかに安価。HK 側の reserve フレームワークは SCO60 と直接接続されており、詳細は [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概要]] 参照。
 
 ## Origin & evolution
 
-BCBS 2019 启动加密资产 consultation,2021 第二轮 CP 引入 Group 1/2 分类雏形。2022-06 最终 CP,2022-12-16 SCO60 标准发布。各国 2024 上半年完成本国 BCBS implementation 草案,2025-01 全球落地目标。美国 Endgame 提案大型银行游说要求 BTC/ETH ETF 部分豁免,Trump 2.0 倾向 light-touch,2026-Q3 final rule 可能软化 1,250% 至 ~150-300%。资本传导对 USDC vs USDT 银行选择的隐性影响详见 [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 战略含义]]。
+BCBS は 2019 年に暗号資産 consultation を開始、2021 年の第 2 ラウンド CP で Group 1/2 分類の原型を導入。2022-06 に最終 CP、2022-12-16 に SCO60 基準を公表。各国は 2024 年上半期に国内 BCBS 実装案を完成させ、2025-01 を世界実装目標とした。米国 Endgame 提案ではメガバンクのロビーが BTC/ETH ETF の部分免除を要求しており、Trump 2.0 は light-touch 寄り、2026-Q3 の final rule では 1,250% が ~150-300% にソフト化される可能性。資本伝達経路が USDC vs USDT の銀行選択に与える暗黙的影響は [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 戦略的含意]] 参照。
 
 ## Counterpoints
 
-- 1,250% RW 被批评"远高于实际经济风险"(BTC 历史 30 天 VaR ≈ 50-100%,非 1,250%)
-- 美国银行游说成功推迟 → 国际监管套利空间持续
-- Group 1b 资格判定标准模糊化(basis risk ≤10bp 99% time)给监管裁量空间
+- 1,250% RW は「実際の経済リスクをはるかに上回る」と批判される（BTC の過去 30 日間 VaR ≈ 50-100%、1,250% ではない）
+- 米国の銀行業界ロビーが延期に成功 → 国際的な規制裁定余地が継続
+- Group 1b 資格判定基準のあいまい化（basis risk ≤10bp 99% of time）は規制当局の裁量余地となる
 
 ## Open questions
 
-- 美国 2026-Q3 final rule 是否会引入区分 ETF 持仓的"derived exposure"豁免?
-- USDT 能否凭借披露改善达到 Group 1b 资格?
-- BUIDL 类 RWA 是否会推动 Group 1a 标准 evolution(目前部分 token 难判定)?
+- 米国 2026-Q3 の final rule で、ETF 保有を区別する「derived exposure」免除が導入されるか?
+- USDT は開示改善により Group 1b 資格を達成できるか?
+- BUIDL 型の RWA が Group 1a 基準の進化を促すか（現状は一部 token の判定が困難）?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 战略含义]]
-- [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 储备金概览]]
+- [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 戦略的含意]]
+- [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概要]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 深度]]
+- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 深掘り]]
 <!-- /wiki-links:managed -->
 
 ## Sources

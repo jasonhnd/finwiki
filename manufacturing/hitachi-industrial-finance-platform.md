@@ -9,8 +9,8 @@ aliases:
   - "日立社会インフラ金融"
 domain: "manufacturing"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [manufacturing, hitachi, industrial-finance, vendor-finance, infrastructure-finance, social-innovation, japan]
@@ -33,7 +33,7 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it again
 
 日立製作所 (Hitachi, Ltd. / 6501) は **「Social Innovation Business」** を掲げる総合電機・社会インフラ企業で、エネルギー・鉄道・IT (Lumada) ・産業機器の大型案件を **自社バランスシート + vendor finance + プロジェクト金融組成** の組合せで売る。FinWiki manufacturing anchor として見るべきは「製造業本体が **金融子会社 (旧日立キャピタル) を 2021 に外部統合した後** どうやって顧客金融を維持しているか」。旧 [[JapanFG/hitachi-capital|日立キャピタル]] は 2021-04-01 に三菱UFJリースと統合し [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル (Mitsubishi HC Capital, 8593)]] となったため、Hitachi 単独の captive leasing は消滅し、現在は **(1) コーポレート財務によるプロジェクト金融の直接支援、(2) Mitsubishi HC Capital とのアライアンス継続、(3) 海外子会社レベルの個別 vendor finance** の三層構造になっている。
 
-## 1. 公司結構と金融部門の位置
+## 1. 会社構造と金融部門の位置
 
 | 項目 | 内容 |
 |---|---|
@@ -139,5 +139,5 @@ Hitachi Rail UK の **Class 800 / 802** や **Intercity Express Programme (IEP)*
 
 ---
 
-> [!info] 校核状态
+> [!info] 校正ステータス
 > confidence: **likely**。Hitachi IR / Integrated Report・三菱HCキャピタル IR・EDINET をベースに公開情報で構成。FY2024 のセグメント別売上は概数で記載。Hitachi Rail UK / Hitachi Energy の個別案件金融組成の詳細は公開情報からは追跡限度あり。

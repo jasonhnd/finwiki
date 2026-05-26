@@ -9,8 +9,8 @@ aliases:
   - "MHI defense finance"
 domain: "manufacturing"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [manufacturing, mitsubishi-heavy, mhi, export-finance, defense, aerospace, jbic, nexi, japan, project-finance]
@@ -34,7 +34,7 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it again
 
 三菱重工業 (MHI, 7011) は、防衛・航空・エネルギー・産業機械・物流機器を抱える日本最大級の重工業メーカー。**Toyota / Sony / Hitachi と異なり、本体直系の銀行・保険・カード captive を持たない** が、**大型案件 (防衛装備、商業航空、火力・原子力タービン、船舶、化学プラント、ロケット) の輸出には常に [[JapanFG/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険 + メガバンク シンジケート + ECA が組合せ** で必要になり、それらの組成・調整を MHI コーポレート財務とプロジェクト本部が一体で担う。manufacturing 視点では「メーカーが captive を持たず、**政策金融・商業銀行・ECA を組合せた輸出金融プラットフォーム** を実質的に運用する」モデル。直近では F-X (将来戦闘機) の **GIGO/GCAP プログラム** (日英伊共同開発、旧称「X-2 心神」の延長線)、**サファイア (Sapphire) 防衛装備イニシアチブ**、AP1000 系・三菱重工 PWR 海外案件、H-IIA / H3 ロケット商業化が論点。
 
-## 1. 公司結構と金融部門の位置
+## 1. 会社構造と金融部門の位置
 
 | 項目 | 内容 |
 |---|---|
@@ -159,5 +159,5 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 
 ---
 
-> [!info] 校核状态
+> [!info] 校正ステータス
 > confidence: **likely**。MHI IR / 決算短信 / EDINET / JBIC / NEXI 公式情報を基準に公開情報で構成。防衛・宇宙関連の数値は秘匿性が高く概数で記載。GCAP/GIGO・Sapphire の最終的なファイナンス組成は 2024-2026 時点で進行中、IR と政府発表で随時更新を要する。

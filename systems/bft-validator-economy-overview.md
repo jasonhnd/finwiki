@@ -1,10 +1,10 @@
 ---
-title: BFT validator 经济学概览 · 四变量与机构链退化
+title: BFT validator 経済学概観 · 4変数と機関チェーンの退化
 aliases: [bft-validator-economy-overview, BFT validator economics overview]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, validator, bft, staking, mev, slashing, decentralization]
@@ -12,54 +12,54 @@ sources: []
 status: candidate
 ---
 
-# BFT validator 经济学概览
+# BFT validator 経済学概観
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-four-variables|BFT validator 经济四变量 · yield / slashing / MEV / 集中度]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-four-variables|BFT validator 経済の4変数 · yield / slashing / MEV / 集中度]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 主流 PoS yield 区间 3-10% APY,过高致中心化,过低致安全预算不足 ^[extracted]
-- ETH validator 100 万+,但客户端集中度(Geth 60%+)与质押池(Lido 30%+)仍构成系统性风险 ^[extracted]
-- Solana validator 1300+,但实际产块由 top 25 主导 ^[extracted]
-- Tempo / Arc / Kinexys / Aave Arc 等机构级链普遍 5-50 个 KYC validator + 法律协议绑定 ^[extracted]
-- MEV 在机构链中几乎归零(订单流以机构 OTC 主导) ^[inferred]
+- 主流 PoS yield のレンジは 3-10% APY、高すぎれば中央集権化を招き、低すぎれば安全予算が不足する ^[extracted]
+- ETH の validator は 100 万+ だが、クライアント集中度(Geth 60%+)とステーキングプール(Lido 30%+)は依然システミックリスクを構成する ^[extracted]
+- Solana の validator は 1300+ だが、実際のブロック生成は上位 25 が主導 ^[extracted]
+- Tempo / Arc / Kinexys / Aave Arc など機関級チェーンは概ね 5-50 個の KYC validator + 法的合意による拘束を採用 ^[extracted]
+- MEV は機関チェーンではほぼゼロ化(注文フローは機関 OTC 中心) ^[inferred]
 
 ## Mechanism / How it works
 
-四变量构成 validator 经济决策矩阵:
-1. **staking yield** = 发行通胀 + 交易费分成 + MEV 分成 — 决定 validator 参与意愿
-2. **slashing risk** = 双签 slashing(惩重)+ 下线 slashing(惩轻) — 决定 validator 行为规范
-3. **MEV** = tx 排序权变现(套利 / 清算 / 抢跑) — 决定 validator 实际收益结构
-4. **集中度** = Nakamoto 系数(攻击网络所需最少 validator 数)+ 客户端 + 质押池 + 地理多维度
+4 変数が validator 経済の意思決定マトリクスを構成する:
+1. **staking yield** = 発行インフレ + 取引手数料分配 + MEV 分配 — validator の参加意欲を決める
+2. **slashing risk** = 二重署名 slashing(重罰)+ オフライン slashing(軽罰) — validator の行動規範を決める
+3. **MEV** = tx 順序権の現金化(アービトラージ / 清算 / フロントランニング) — validator の実際の収益構造を決める
+4. **集中度** = 中本聡係数(攻撃に必要な最小 validator 数)+ クライアント + ステーキングプール + 地理の多次元
 
-机构链(Tempo / Arc / Kinexys)四变量重新组合:yield 弱化(运营方付费)/ slashing 由法律协议替代 / MEV 归零 / 集中度公开承认。**validator 经济退化为运营经济**,与 retail 公链完全不同的设计哲学(对照 [[fintech/protocol-renewal-trigger-as-event-anchor|protocol renewal trigger as event anchor]] 中机构链的治理周期)。
+機関チェーン(Tempo / Arc / Kinexys)では 4 変数が再構成される:yield は弱体化(運営側が支払う)/ slashing は法的合意に置換 / MEV はゼロ化 / 集中度は公然と承認される。**validator 経済は運営経済に退化**し、リテール公開チェーンとは全く異なる設計哲学を取る([[fintech/protocol-renewal-trigger-as-event-anchor|protocol renewal trigger as event anchor]] における機関チェーンのガバナンスサイクルと対照)。
 
 ## Origin & evolution
 
-2015 Ethereum 上线 → PoW 时代不需要 validator 经济学。2020 ETH 2.0 / Cosmos / Polkadot 等 PoS 主流化 → 四变量框架成型。2022 MEV 显化(MEV-Boost 推出 + 年化 $500M-1B 规模)→ MEV 成为 validator 收益核心变量。2024-2025 Tempo / Arc / Mony 等机构链涌现 → "机构链不需要 retail 验证者经济"成为新共识 → 框架分裂为 retail 路径 vs 机构路径两套。
+2015 Ethereum ローンチ → PoW 時代は validator 経済学を必要としなかった。2020 ETH 2.0 / Cosmos / Polkadot などの PoS が主流化 → 4 変数フレームワークが成立。2022 MEV が顕在化(MEV-Boost ローンチ + 年間 $500M-1B 規模)→ MEV が validator 収益の中核変数に。2024-2025 Tempo / Arc / Mony などの機関チェーンが台頭 → 「機関チェーンはリテール validator 経済を必要としない」が新たな共識となり、フレームワークはリテール経路 vs 機関経路の 2 系統に分裂。
 
 ## Counterpoints
 
-- "机构链 validator 经济退化"假设监管允许 KYC 链长期存在 —— 反洗钱压力可能强制机构链扩展 validator 集合
-- "MEV 在机构链归零"是 2026 快照;若机构链引入 retail 流量(零售产品上链),MEV 会重新涌现
-- "渐进式去中心化"(Arc 三阶段)可能是合规外衣,真去中心化在治理捕获下永远不达
+- 「機関チェーンの validator 経済退化」は規制が KYC チェーンの長期存続を許容することを前提としている —— マネーロンダリング対策の圧力により機関チェーンが validator 集合の拡大を強制される可能性がある
+- 「MEV が機関チェーンでゼロ化」は 2026 時点のスナップショット;機関チェーンがリテールフロー(小売商品のオンチェーン化)を導入すれば、MEV は再び発現する
+- 「漸進的非中央集権化」(Arc 三段階)は法令対応の体裁である可能性があり、真の非中央集権化はガバナンス捕捉の下で永遠に達成されないかもしれない
 
 ## Open questions
 
-- 机构链的 KYC validator 集合扩展到什么规模才算"足够分散"?(20?50?100?)
-- 监管(OFAC / EU MiCA)会否将 KYC validator 列为受监管金融基础设施?
-- 链抽象层兴起后,validator 经济是否会进一步抽象化(如 EigenLayer restaking)?(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])
-- 全球 DEX 主流五家在 validator 集中度上的表现?(参见 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]])
+- 機関チェーンの KYC validator 集合は、どの規模まで拡大すれば「十分に分散」と言えるか?(20?50?100?)
+- 規制(OFAC / EU MiCA)は KYC validator を被規制金融インフラとして指定するか?
+- チェーン抽象層の台頭後、validator 経済はさらに抽象化(EigenLayer restaking など)するか?([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)
+- グローバル DEX 主流 5 社における validator 集中度のパフォーマンスは?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] 参照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/bft-validator-economy-four-variables|四变量详解]]
-- [[systems/bft-validator-economy-tempo-vs-arc|Tempo vs Arc 设计对比]]
-- [[systems/chain-abstraction-pattern-overview|链抽象模式]]
+- [[systems/bft-validator-economy-four-variables|4変数詳解]]
+- [[systems/bft-validator-economy-tempo-vs-arc|Tempo vs Arc 設計比較]]
+- [[systems/chain-abstraction-pattern-overview|チェーン抽象モデル]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -1,5 +1,5 @@
 ---
-title: Brazil DREX × Mexico Banxico CoDi × 拉美 CBDC 与稳定币并行架构 2026
+title: Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026
 aliases:
   - brazil-mexico-cbdc-stablecoin-push-2026
   - DREX 2026
@@ -12,8 +12,8 @@ aliases:
   - LatAm CBDC parallel
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, stablecoin, cbdc, brazil, mexico, latam, drex, banxico, 2026-event]
@@ -28,158 +28,158 @@ sources:
   - https://www.reuters.com/business/finance/brazil-drex-second-phase-2026
 ---
 
-# Brazil DREX × Mexico Banxico CoDi × 拉美 CBDC 与稳定币并行架构 2026
+# Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026
 
 ## TL;DR
 
-巴西和墨西哥 2026 年同时进入 "CBDC + 私人稳定币 + 美元 SC 灰色化" 三轨并行阶段。**巴西 DREX** 在 2025-12 第二轮试点扩大到 16 家机构、覆盖批发 + 零售 dual-layer (与 [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]] 一致); **Mercado Bitcoin** 在 Polygon / Ethereum 发行**BRL-anchored 稳定币**作为 DREX 的市场版补充, 与 DREX 形成"公私双轨"。**墨西哥 Banxico** 不发零售 CBDC 但深化 **CoDi 即时支付**, 并默许 **Bitso × Mercado Bitcoin × M0 联合发行 MXNB** (墨西哥比索稳定币, 见 [[fintech/m0-network-infrastructure-update-2026|M0 2026 基础设施更新]]) 作为替代 USDC/USDT 灰色美元化的"防御性本币 SC"。这一格局把拉美变成 [[fintech/em-market-crypto-dollarization-pattern|EM 美元化模式]] 之外的**第二条路径**: 不是放弃本币, 而是用本币 SC + CBDC 并行抑制美元 SC 渗透。
+ブラジルとメキシコは 2026 年に同時期に「CBDC + 民間 stablecoin + 米ドル SC グレー化」の三軌道並行段階に入る。**ブラジル DREX** は 2025-12 に第 2 ラウンド試験運用を 16 機関に拡大し、ホールセール + リテールの dual-layer をカバーする（[[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]] と一致);**Mercado Bitcoin** は Polygon / Ethereum 上で **BRL アンカー stablecoin** を発行し DREX の市場版を補完、DREX とは「公私デュアル・トラック」を形成。**メキシコ Banxico** はリテール CBDC を発行しないが **CoDi 即時決済** を深化させ、**Bitso × Mercado Bitcoin × M0 連合発行の MXNB**（メキシコペソ stablecoin、[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）を黙認することで、USDC/USDT グレードル化に対する「防御的本国通貨 SC」の代替を提示する。この構図はラテンアメリカを [[fintech/em-market-crypto-dollarization-pattern|EM ドル化パターン]] の外の **第二の経路** として位置付ける: 本国通貨を放棄するのではなく、本国通貨 SC + CBDC を並行させて米ドル SC の浸透を抑制する。
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em-market-crypto-dollarization-pattern|EM 市场加密美元化模式]] for the dollar pressure backdrop and [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC 概览]] for the cross-CBDC payments context. 与 [[fintech/india-anti-dollar-dpi-alliance|India 反美元 DPI 联盟]] 是拉美 vs 印度两条本币防御路线的横向对比。
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em-market-crypto-dollarization-pattern|EM 市場暗号ドル化パターン]] for the dollar pressure backdrop and [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS マルチ CBDC 概要]] for the cross-CBDC payments context. [[fintech/india-anti-dollar-dpi-alliance|India 反ドル DPI アライアンス]] とはラテンアメリカ vs インドという 2 つの本国通貨防御ルートの横断比較。
 
-## Key facts (2026-05 snapshot)
+## Key facts (2026-05 スナップショット)
 
-- **DREX 第二轮试点** 2025-12 启动, 参与机构 16 家 (含 Itaú / Bradesco / Santander Brasil / Banco do Brasil / Caixa / BTG Pactual / Mercado Bitcoin / Visa Brasil 等) ^[bcb-press]
-- **DREX TVL (pilot 阶段)** ~R$3.5B (~$700M) 流动中模拟金融资产 ^[bcb-press]
-- **Mercado Bitcoin BRL stablecoin (MBR$)** 流通约 R$280M (~$56M, 2026-05); 部署链 Polygon + Ethereum + Avalanche ^[issuer-press]
-- **Banxico CoDi 月交易量** ~7,200 万笔 (2026-03), 同比 +120% (受 SPEI 限额下沉驱动) ^[banxico]
-- **MXNB stablecoin (M0 + Bitso)** 流通约 MXN 450M (~$25M); 第一阶段限于 Bitso 内部 + DeFi 测试 ^[bitso-press]
-- **USDC/USDT 在巴西** 月链上流入约 $4.5B (2026-Q1), 主要通过 Bitso BR / Mercado Bitcoin / Foxbit ^[chainalysis-report]
-- **USDC/USDT 在墨西哥** 月链上流入约 $2.8B (2026-Q1), Bitso 占交易所端 60%+ 份额 ^[chainalysis-report]
-- **巴西 CVM (证监会) 2026-04 公告** 把 BRL-anchored SC 纳入 e-money / payment instrument 监管框架, 排除证券属性 ^[cvm-press]
-- **墨西哥 CNBV / Banxico 2026-Q1 联合声明** 暗示对本币 SC 持"观察 + 不阻止"立场, 与对美元 SC 的"明确不背书"形成对比 ^[banxico-press]
+- **DREX 第 2 ラウンド試験運用** 2025-12 開始、参加機関 16 社（Itaú / Bradesco / Santander Brasil / Banco do Brasil / Caixa / BTG Pactual / Mercado Bitcoin / Visa Brasil 等を含む） ^[bcb-press]
+- **DREX TVL (pilot 段階)** ~R$3.5B (~$700M) のシミュレーション金融資産が流通 ^[bcb-press]
+- **Mercado Bitcoin BRL stablecoin (MBR$)** 流通量約 R$280M (~$56M, 2026-05);デプロイチェーンは Polygon + Ethereum + Avalanche ^[issuer-press]
+- **Banxico CoDi 月次取引量** ~7,200 万件 (2026-03)、前年比 +120%（SPEI 制限引き下げが牽引） ^[banxico]
+- **MXNB stablecoin (M0 + Bitso)** 流通量約 MXN 450M (~$25M);第 1 フェーズは Bitso 内部 + DeFi テストに限定 ^[bitso-press]
+- **ブラジルにおける USDC/USDT** 月次オンチェーン流入額約 $4.5B (2026-Q1)、主に Bitso BR / Mercado Bitcoin / Foxbit 経由 ^[chainalysis-report]
+- **メキシコにおける USDC/USDT** 月次オンチェーン流入額約 $2.8B (2026-Q1)、Bitso が取引所サイドの 60%+ シェアを占有 ^[chainalysis-report]
+- **ブラジル CVM（証券委員会）2026-04 公告** で BRL アンカー SC を e-money / payment instrument 規制枠組みに組み込み、証券属性を排除 ^[cvm-press]
+- **メキシコ CNBV / Banxico 2026-Q1 共同声明** で本国通貨 SC に対する「観察 + 不阻止」の立場を示唆、米ドル SC に対する「明確に推奨しない」立場と対照的 ^[banxico-press]
 
-## DREX (巴西) 详解
+## DREX (ブラジル) 詳細
 
-**项目全称**: Digital Real (DREX) — Brazil 央行 (Banco Central do Brasil, BCB) 主导, 2020 启动研究, 2023 第一轮试点, 2025-12 第二轮试点扩大。
+**プロジェクト正式名称**: Digital Real (DREX) — ブラジル中央銀行 (Banco Central do Brasil, BCB) 主導、2020 年に研究開始、2023 年に第 1 ラウンド試験運用、2025-12 に第 2 ラウンド試験運用を拡大。
 
-**架构**: dual-tier — 批发 CBDC (interbank DLT 层, Hyperledger Besu private chain) + tokenized 商业银行存款 (CBDC-backed deposit token) 给零售。这与 [[fintech/cbdc-multi-tier-architecture-three-paradigms|多层 CBDC 架构三范式]] 中"间接发行 + 商业银行 token 化存款"范式一致。
+**アーキテクチャ**: dual-tier — ホールセール CBDC（銀行間 DLT 層、Hyperledger Besu private chain） + トークン化商業銀行預金（CBDC バックド・デポジット・トークン）でリテールに対応。これは [[fintech/cbdc-multi-tier-architecture-three-paradigms|多層 CBDC アーキテクチャ三パラダイム]] における「間接発行 + 商業銀行トークン化預金」パラダイムと一致する。
 
-**第二轮试点 (2025-12 启动) 关键变化**:
+**第 2 ラウンド試験運用 (2025-12 開始) の主な変化**:
 
-1. **资产范围扩展**: 第一轮只测试主权债 + 房地产代币化; 第二轮加入企业债 / 应收账款 / 农产品仓单 / 二级市场结算 / FX 兑换
-2. **机构数量**: 从 2023 的 9 家扩到 16 家
-3. **加密原生玩家入场**: Mercado Bitcoin 是首家加密交易所获 DREX 试点资格, 标志"私链 CBDC + 公链 SC" 互通的尝试
-4. **跨境对接**: BCB 正与 BIS Innovation Hub 探讨与 mBridge 模式的兼容路径 (见 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge 多 CBDC 概览]]), 但巴西**不是** mBridge 六家成员
+1. **資産範囲の拡大**: 第 1 ラウンドは国債 + 不動産トークン化のみテスト;第 2 ラウンドでは企業債 / 売掛債権 / 農産物倉荷証券 / セカンダリ市場決済 / FX 交換を追加
+2. **機関数**: 2023 年の 9 社から 16 社に拡大
+3. **暗号ネイティブ・プレイヤーの参入**: Mercado Bitcoin が初の DREX 試験運用資格を取得した暗号取引所となり、「プライベートチェーン CBDC + パブリックチェーン SC」の相互運用試行のマイルストーンに
+4. **クロスボーダー接続**: BCB は BIS Innovation Hub と mBridge モデルとの互換性経路について検討中（[[fintech/mbridge-bis-multi-cbdc-overview|mBridge マルチ CBDC 概要]] 参照）だが、ブラジルは mBridge 6 か国メンバー **ではない**
 
-**DREX 与 Pix 关系**: Pix (BCB 即时支付系统, 2020 上线) 已是巴西国民级支付通道, 月交易量 60 亿+。DREX 不取代 Pix, 而是给 Pix 之上加一层可编程性 + atomic settlement 给金融机构。**Pix 国民级 + DREX 机构级 + Mercado Bitcoin BRL SC 加密原生级** = 巴西支付层三轨架构。
+**DREX と Pix の関係**: Pix（BCB 即時決済システム、2020 ローンチ）はすでにブラジル国民レベルの決済チャネルとなっており、月次取引量 60 億件超。DREX は Pix を置き換えるのではなく、Pix の上にプログラマビリティ + アトミック決済の層を金融機関向けに付加する。**Pix 国民レベル + DREX 機関レベル + Mercado Bitcoin BRL SC 暗号ネイティブ・レベル** = ブラジル決済層の三軌道アーキテクチャ。
 
-## Mercado Bitcoin BRL 稳定币
+## Mercado Bitcoin BRL stablecoin
 
-**发行体**: Mercado Bitcoin (巴西最大本土加密交易所, 2013 成立, 2021 软银集团领投估值 $2.1B)
+**発行体**: Mercado Bitcoin（ブラジル最大の本土暗号取引所、2013 設立、2021 年にソフトバンク・グループがリードで $2.1B のバリュエーション）
 
-**机制**: BRL-anchored 1:1, 储备为巴西短期国债 (LFT) + 央行存款 + 商业银行存款。储备月度披露由 KPMG Brazil 审计。
+**メカニズム**: BRL 1:1 アンカー、準備はブラジル短期国債（LFT） + 中央銀行預金 + 商業銀行預金。準備の月次開示は KPMG Brazil が監査。
 
-**定位**: 不是要替代 DREX, 而是**填 DREX 上线前 (预计 2027-2028 全面上线) 的市场空白**, 同时为 DREX 时代提供"私人 BRL token 与 CBDC 互通"的桥头堡。
+**位置付け**: DREX を置き換えるのではなく、**DREX の全面ローンチ前（2027-2028 予定）の市場空白を埋める** とともに、DREX 時代に「民間 BRL トークンと CBDC の相互運用」のための橋頭堡を提供する。
 
-**链选择**: Polygon 为主 (受 [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 多层架构]] 中 Polygon 与多个 LatAm 央行的合作背景驱动) + Ethereum (跨境流动性) + Avalanche (DeFi 兼容)。
+**チェーン選定**: Polygon を主軸（[[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 多層アーキテクチャ]] における Polygon と複数のラテンアメリカ中央銀行との協業背景に駆動される） + Ethereum（クロスボーダー流動性） + Avalanche（DeFi 互換）。
 
-**用途**: (1) 加密交易所内 BRL pair 替代法币入金延迟; (2) 跨境支付 (向阿根廷 / 乌拉圭 / 巴拉圭 出口商结算 BRL); (3) DeFi 协议 BRL 抵押 / 流动性 mining; (4) Mercado Pago / 其他 fintech 嵌入 BRL token wallet。
+**用途**: (1) 暗号取引所内の BRL ペアによる法定通貨入金遅延の代替;(2) クロスボーダー決済（アルゼンチン / ウルグアイ / パラグアイ向け輸出業者への BRL 決済）;(3) DeFi プロトコルでの BRL 担保 / 流動性マイニング;(4) Mercado Pago その他 fintech に組み込む BRL トークン・ウォレット。
 
-## Banxico CoDi × MXNB pilot (墨西哥)
+## Banxico CoDi × MXNB pilot (メキシコ)
 
-**Banxico (墨西哥央行) 立场**: 不发零售 CBDC、不发批发 CBDC, 但**深化 CoDi**(即时支付二维码协议, 2019 上线) 和 SPEI (银行间即时转账, 2004 上线)。Banxico 行长 Victoria Rodríguez 多次公开表态: "数字比索的本质问题不是技术, 是现有支付系统效率"。这与中国 e-CNY / 巴西 DREX 的强 CBDC 路线**反向**。
+**Banxico（メキシコ中央銀行）の立場**: リテール CBDC もホールセール CBDC も発行しないが、**CoDi**（即時決済 QR コード・プロトコル、2019 ローンチ） + SPEI（銀行間即時送金、2004 ローンチ）を深化させる。Banxico 総裁 Victoria Rodríguez は繰り返し公的に表明: 「デジタルペソの本質的問題は技術ではなく、既存決済システムの効率性である」。これは中国 e-CNY / ブラジル DREX の強い CBDC 路線とは **逆方向**。
 
-**CoDi 2026 状态**:
+**CoDi 2026 状況**:
 
-- 月交易量 ~7,200 万笔 (2026-03), 同比 +120%
-- 关键驱动: SPEI 限额从 MXN 8,000 上限下沉到 0, 让小额 CoDi 与 SPEI 形成连续覆盖
-- 商户接入数 ~3.5M (2026-05)
-- 与 Pix 巴西比仍小 2 个数量级 (Pix 月 60 亿笔), 但增长率高
+- 月次取引量 ~7,200 万件 (2026-03)、前年比 +120%
+- 主要ドライバー: SPEI の上限が MXN 8,000 から 0 に引き下げられ、小額 CoDi と SPEI が連続的にカバー
+- 加盟店接続数 ~3.5M (2026-05)
+- Pix（ブラジル、月 60 億件）との比較ではまだ 2 桁小さいが、成長率は高い
 
 **MXNB (M0 + Bitso pilot)**:
 
-- 发行体: Bitso 撮合, Mercado Bitcoin (巴西方) 作副 issuer, 底层基础设施 M0 (见 [[fintech/m0-network-infrastructure-update-2026|M0 2026 基础设施更新]])
-- 链: Base / Ethereum / Polygon
-- 储备: 墨西哥短债 (CETES) + 商业银行 MXN 存款
-- 流通 MXN 450M (~$25M, 2026-05), 仍是 pilot 阶段
-- 战略意图: 在 Banxico 不发 CBDC 的窗口期, 用 **私人本币 SC + M0 中性基础设施** 构建对抗 USDC/USDT 灰色化的本币防御层
+- 発行体: Bitso がアレンジ、Mercado Bitcoin（ブラジル側）が副 issuer、ベースインフラは M0（[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）
+- チェーン: Base / Ethereum / Polygon
+- 準備: メキシコ短期国債（CETES） + 商業銀行 MXN 預金
+- 流通 MXN 450M (~$25M, 2026-05)、依然 pilot 段階
+- 戦略的意図: Banxico が CBDC を発行しない時期に **民間本国通貨 SC + M0 中立インフラ** を活用し、USDC/USDT のグレー化に対抗する本国通貨防御層を構築
 
-**Bitso 角色**: Bitso 是墨西哥最大加密交易所 + Latam 跨境支付通道 (与 Stellar 长期合作做美墨 remittance)。2024 估值 $2.2B。Bitso 同时:
+**Bitso の役割**: Bitso はメキシコ最大の暗号取引所 + Latam クロスボーダー決済チャネル（Stellar と長期協業して米墨間 remittance を提供）。2024 バリュエーション $2.2B。Bitso は同時に:
 
-1. 是 USDC / USDT 最大墨西哥分销商 (无法抑制美元 SC 渗透)
-2. 是 MXNB 共同发行方 (主动提供本币替代选项)
-3. 是 Banxico CoDi 商户接入网关之一
+1. USDC / USDT のメキシコ最大ディストリビューター（米ドル SC 浸透を抑制できず）
+2. MXNB の共同発行体（本国通貨代替オプションを能動的に提供）
+3. Banxico CoDi の加盟店接続ゲートウェイの 1 つ
 
-这种 "三角站位" 让 Bitso 成为墨西哥支付层最关键的市场节点。
+この「三角ポジショニング」が Bitso をメキシコ決済層で最も重要な市場ノードにしている。
 
-## 双轨 (CBDC + 本币 SC) vs 单轨 (灰色美元化)
+## デュアル・トラック（CBDC + 本国通貨 SC） vs シングル・トラック（グレードル化）
 
-| 维度 | 巴西 (DREX + BRL SC) | 墨西哥 (CoDi + MXNB) | 阿根廷 (无 CBDC + 灰色 USDT) | 委内瑞拉 (Petro 失败 + USDT) |
+| 次元 | ブラジル (DREX + BRL SC) | メキシコ (CoDi + MXNB) | アルゼンチン (CBDC なし + グレー USDT) | ベネズエラ (Petro 失敗 + USDT) |
 |---|---|---|---|---|
-| CBDC 路线 | DREX 主动推进 | 无 (Banxico 拒绝) | 无 (政治不稳) | Petro 失败 |
-| 本币 SC | Mercado Bitcoin BRL ~$56M | MXNB ~$25M | 几乎无 | 几乎无 |
-| 美元 SC 月流入 | ~$4.5B | ~$2.8B | ~$2.5B (相对 GDP 比例最高) | ~$1.2B |
-| 即时支付通道 | Pix 60 亿/月 | CoDi 7,200 万/月 | 弱 | 极弱 |
-| 监管立场 | 主动 (BCB + CVM 明文框架) | 默许 + 观察 | 矛盾 (中央银行严控, 财政部宽松) | 名义严控, 实际放任 |
-| 防美元 SC 效果 | 中 (Pix + DREX 提供本币替代) | 弱 (CoDi 规模小) | 失败 | 失败 |
+| CBDC 路線 | DREX 積極推進 | なし（Banxico 拒否） | なし（政治不安定） | Petro 失敗 |
+| 本国通貨 SC | Mercado Bitcoin BRL ~$56M | MXNB ~$25M | ほぼなし | ほぼなし |
+| 米ドル SC 月次流入 | ~$4.5B | ~$2.8B | ~$2.5B（対 GDP 比最大） | ~$1.2B |
+| 即時決済チャネル | Pix 60 億/月 | CoDi 7,200 万/月 | 弱い | 極弱 |
+| 規制の立場 | 積極（BCB + CVM の明文枠組み） | 黙認 + 観察 | 矛盾（中央銀行は厳格、財務省は緩い） | 名目上厳格、実質放任 |
+| 反米ドル SC 効果 | 中（Pix + DREX で本国通貨代替を提供） | 弱（CoDi 規模が小さい） | 失敗 | 失敗 |
 
-**核心洞察**: 巴西用 **Pix + DREX + BRL SC** 三层把本币的便利性、可编程性、加密互通性都做到位, 这是当前 EM 国家最完整的"防美元化技术栈"。墨西哥次之 (CoDi + MXNB 还在 scale-up)。阿根廷 / 委内瑞拉则是"放弃本币 → USDT 化"的反例, 与 [[fintech/jurisdiction-list-monetary-protectionism|监管管辖列表 · 货币保护主义]] 中"主权货币崩塌国家"清单一致。
+**中核的洞察**: ブラジルは **Pix + DREX + BRL SC** の三層で本国通貨の利便性、プログラマビリティ、暗号相互運用性をすべて整備しており、これは現在の EM 国家で最も完成度の高い「反ドル化テックスタック」である。メキシコがそれに次ぐ（CoDi + MXNB はまだスケールアップ中）。アルゼンチン / ベネズエラは「本国通貨放棄 → USDT 化」の反例で、[[fintech/jurisdiction-list-monetary-protectionism|規制管轄リスト · 通貨保護主義]] における「ソブリン通貨崩壊国」リストと一致する。
 
-## 与 mBridge / Project Agora 的距离
+## mBridge / Project Agora との距離
 
-巴西、墨西哥**都不是 mBridge 六家成员** (见 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge 概览]])。BIS 2025-09 工作论文 (BIS WP No. 1156) 暗示, 拉美的多 CBDC 桥接更可能走 **IADB (Inter-American Development Bank) 主导的区域试点**, 而非加入 mBridge。
+ブラジル、メキシコは **共に mBridge 6 か国メンバーではない**（[[fintech/mbridge-bis-multi-cbdc-overview|mBridge 概要]] 参照）。BIS 2025-09 ワーキング・ペーパー (BIS WP No. 1156) はラテンアメリカのマルチ CBDC 橋渡しが mBridge への参加ではなく **IADB（Inter-American Development Bank）主導の地域試験運用** に向かう可能性が高いと示唆する。
 
-DREX 与 mBridge 技术兼容性 (都是 Hyperledger Besu permissioned chain) 让"将来对接"有可能, 但政治上巴西 + 墨西哥与中国主导的 mBridge 联盟保持距离。这与 [[fintech/jurisdiction-list-monetary-protectionism|监管管辖]] 中拉美的"不结盟 + 实用主义"立场一致。
+DREX と mBridge の技術互換性（両者とも Hyperledger Besu permissioned chain）から「将来の接続」は可能だが、政治的にはブラジル + メキシコは中国主導の mBridge 連合との距離を保っている。これは [[fintech/jurisdiction-list-monetary-protectionism|規制管轄]] におけるラテンアメリカの「非同盟 + プラグマティズム」の立場と一致する。
 
-## 与 M0 MXNB pilot 的纵深耦合
+## M0 MXNB pilot との縦深な結合
 
-MXNB pilot 是 M0 (见 [[fintech/m0-network-infrastructure-update-2026|M0 2026 基础设施更新]]) 第一个**非美元 partner SC**, 也是拉美第一个**完全跑在中性 SC 基础设施上的本币 SC**。这与 Mercado Bitcoin BRL (自有基础设施) 形成对比:
+MXNB pilot は M0（[[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]] 参照）にとって最初の **非ドル partner SC** であり、ラテンアメリカで初の **完全に中立 SC インフラ上で稼働する本国通貨 SC** でもある。これは Mercado Bitcoin BRL（自社インフラ）との対比をなす:
 
-| 维度 | MXNB (M0 基础设施) | Mercado Bitcoin BRL (自建) |
+| 次元 | MXNB (M0 インフラ) | Mercado Bitcoin BRL (自社構築) |
 |---|---|---|
-| 合规模板 | M0 标准化 + Bitso 本地接入 | Mercado Bitcoin 自家合规栈 |
-| 智能合约 | M0 共用 (OpenZeppelin + Trail of Bits + Certora 审计) | 自研 + 自审计 |
-| 储备接入 | M0 后端 (CETES + 商业银行存款) | 自家托管 (LFT + 央行存款 + 商业银行存款) |
-| 跨链 | M Bridge canonical | LayerZero + 通用桥 |
-| 治理 | $M DAO + Bitso/Mercado Bitcoin 实际控制 | Mercado Bitcoin 100% 控制 |
-| 监管负担 | 共享 M0 模板降低单方负担 | 单方承担墨西哥/巴西监管负担 |
+| コンプライアンス・テンプレート | M0 標準化 + Bitso ローカル接続 | Mercado Bitcoin 自社コンプライアンス・スタック |
+| スマートコントラクト | M0 共用（OpenZeppelin + Trail of Bits + Certora 監査） | 自社開発 + 自社監査 |
+| 準備接続 | M0 バックエンド（CETES + 商業銀行預金） | 自社カストディ（LFT + 中央銀行預金 + 商業銀行預金） |
+| クロスチェーン | M Bridge canonical | LayerZero + 汎用ブリッジ |
+| ガバナンス | $M DAO + Bitso/Mercado Bitcoin の実質コントロール | Mercado Bitcoin 100% コントロール |
+| 規制負担 | M0 テンプレート共有で単一の負担を軽減 | メキシコ/ブラジル規制負担を単独で担う |
 
-**含义**: 拉美 2027-2028 可能出现"自建 vs 共享基础设施"的分化 —— 大型本土玩家走自建 (Mercado Bitcoin BRL 模式), 中小玩家走共享 (M0 MXNB 模式)。这是 LatAm 版本的 [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币-链-代币策略三难]]。
+**含意**: ラテンアメリカでは 2027-2028 に「自社構築 vs インフラ共有」の分化が現れる可能性 — 大型ローカル・プレイヤーは自社構築（Mercado Bitcoin BRL モデル）、中小プレイヤーは共有（M0 MXNB モデル）。これは Latam 版の [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain-token 戦略トリレンマ]]。
 
-## 监管协同与冲突
+## 規制協調と対立
 
-- **巴西 CVM 2026-04 公告**: 明确 BRL-anchored SC = e-money (NOT 证券), 排除 Howey Test 适用, 给私人本币 SC 明确合规路径
-- **巴西 BCB Resolução 2026-006 (草案)**: 提议把"BRL 锚定 SC 流通量"纳入支付系统监管 dashboard, 类似欧盟 MiCA 大型 EMT 限制条款 (见 [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART]])
-- **墨西哥 CNBV 2026-Q1 声明**: "对私人本币 SC 持观察 + 不阻止立场, 对外币 SC 不背书"
-- **拉美区域 IADB 2026-Q2 报告**: 建议成员国采用"统一本币 SC 监管框架" + "信息共享 KYC/AML 机制"
-- **与 [[fintech/fatf-travel-rule-overview|FATF Travel Rule]] 兼容性**: 巴西 + 墨西哥都是 FATF / GAFILAT 成员, BRL/MXN SC 流转跨境时需符合 Travel Rule
+- **ブラジル CVM 2026-04 公告**: BRL アンカー SC = e-money（NOT 証券）を明示、Howey Test 適用を排除、民間本国通貨 SC に明確なコンプライアンス経路を提供
+- **ブラジル BCB Resolução 2026-006（草案）**: 「BRL アンカー SC 流通量」を決済システム監督ダッシュボードに組み込むことを提案、EU MiCA の大型 EMT 制限条項と類似（[[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART]] 参照）
+- **メキシコ CNBV 2026-Q1 声明**: 「民間本国通貨 SC に対しては観察 + 不阻止の立場、外貨 SC に対しては推奨しない」
+- **ラテンアメリカ地域 IADB 2026-Q2 報告**: 加盟国に「統一本国通貨 SC 規制枠組み」 + 「KYC/AML 情報共有メカニズム」採用を提言
+- **[[fintech/fatf-travel-rule-overview|FATF Travel Rule]] との互換性**: ブラジル + メキシコは共に FATF / GAFILAT メンバーであり、BRL/MXN SC のクロスボーダー流通は Travel Rule に準拠する必要
 
 ## Counterpoints
 
-- **MXNB $25M / BRL SC $56M 规模仍是"信号性"远非"防御性"**: 美元 SC 月流入墨西哥 $2.8B, 巴西 $4.5B, 本币 SC 渗透率 < 1%
-- **DREX 距离全面上线 (预计 2027-2028) 还有 1.5-2.5 年, 期间 USDC/USDT 已巩固巴西加密用户心智**
-- **墨西哥 Banxico 不发 CBDC** 让"CBDC + 本币 SC 双轨"在墨西哥实际是"只有本币 SC + 弱 CoDi", 防御力弱于巴西
-- **拉美用户的实际偏好仍倾向 USDC/USDT**: 心智成本 (品牌认知) + 跨境兼容性 + DeFi 流动性深度三方面本币 SC 难匹敌
-- **Mercado Bitcoin BRL SC 的合规模板可能在 BCB Resolução 2026-006 落地后被迫调整** (例如要求储备 100% 在央行直接监管账户), 拉高发行成本
-- **拉美政治周期波动**: 巴西 (Lula 任期到 2026 底, 后续政府对加密政策可能转向)、墨西哥 (Sheinbaum 任期到 2030 但 Banxico 行长 6 年任期可能换人) 都让 5 年期监管稳定性存疑
-- **mBridge 路径风险**: 如果拉美未来通过 IADB 区域试点引入 mBridge 兼容, 可能被卷入 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge 多 CBDC]] 与美国财政部潜在的政治摩擦
+- **MXNB $25M / BRL SC $56M の規模は依然「シグナル的」であり「防御的」とは程遠い**: 米ドル SC のメキシコ月次流入額 $2.8B、ブラジル $4.5B に対し、本国通貨 SC の浸透率は < 1%
+- **DREX の全面ローンチ（2027-2028 予定）までまだ 1.5-2.5 年あり、その間に USDC/USDT がブラジル暗号ユーザーのマインドシェアを固める**
+- **メキシコ Banxico が CBDC を発行しない** ため、「CBDC + 本国通貨 SC デュアル・トラック」はメキシコでは実質「本国通貨 SC のみ + 弱い CoDi」となり、防御力はブラジルより弱い
+- **ラテンアメリカ・ユーザーの実際の選好は依然として USDC/USDT 寄り**: マインドコスト（ブランド認知） + クロスボーダー互換性 + DeFi 流動性の深さの 3 面で本国通貨 SC は太刀打ちしにくい
+- **Mercado Bitcoin BRL SC のコンプライアンス・テンプレートは BCB Resolução 2026-006 が施行された場合、調整を強いられる可能性**（例: 準備の 100% を中央銀行直管理口座に置く要求）、発行コスト上昇に
+- **ラテンアメリカの政治サイクル変動**: ブラジル（Lula 任期は 2026 年末まで、後継政府の暗号政策はピボットする可能性）、メキシコ（Sheinbaum 任期は 2030 年までだが Banxico 総裁の 6 年任期は交代の可能性）はいずれも 5 年期間の規制安定性に疑問符をつける
+- **mBridge 経路リスク**: ラテンアメリカが将来 IADB 地域試験運用で mBridge 互換を導入した場合、[[fintech/mbridge-bis-multi-cbdc-overview|mBridge マルチ CBDC]] と米国財務省との潜在的な政治摩擦に巻き込まれる可能性
 
 ## Open questions
 
-- DREX 全面上线后是否会要求 BRL SC (Mercado Bitcoin) 强制对接 DREX 网络, 失去独立性?
-- MXNB 能否在 2026 底突破 $200M, 成为拉美第二个有规模的本币 SC?
-- 阿根廷 / 哥伦比亚 / 智利 / 秘鲁 是否会跟随巴西的"DREX + 私人本币 SC"双轨架构?
-- 巴西 BCB Resolução 2026-006 落地后, USDC/USDT 在巴西的合规路径会变化吗?
-- M0 在 LatAm 是否会继续承接更多本币 SC (COP / ARS / CLP), 形成"中性 SC 基础设施 × LatAm 本币层"网格?
-- Bitso 在 USDC / MXNB / CoDi 三个身份之间如何平衡商业利益与本币防御责任?
-- 拉美的本币 SC 是否会在 2027-2028 引发 [[fintech/gray-market-dollar-network-formalization|灰色市场美元网络正式化]] 路径的反向 —— 即"灰色美元 → 合规本币"迁移?
-- 巴西 + 墨西哥的本币 SC 会否在跨境贸易场景 (Mercosur / 美墨/北美自贸) 之间形成"区域内本币 SC 互换"网络, 类似 [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge 非美元结算环规模]]?
+- DREX の全面ローンチ後、BRL SC（Mercado Bitcoin）に DREX ネットワークへの強制接続を要求し、独立性を失わせるか?
+- MXNB は 2026 年末までに $200M を突破し、ラテンアメリカで 2 つ目の規模ある本国通貨 SC となれるか?
+- アルゼンチン / コロンビア / チリ / ペルー はブラジルの「DREX + 民間本国通貨 SC」デュアル・トラックを追随するか?
+- ブラジル BCB Resolução 2026-006 が施行された後、ブラジルにおける USDC/USDT のコンプライアンス経路は変化するか?
+- M0 は Latam でさらに多くの本国通貨 SC（COP / ARS / CLP）を受け入れ、「中立 SC インフラ × Latam 本国通貨層」のグリッドを形成するか?
+- Bitso は USDC / MXNB / CoDi の 3 つのアイデンティティの間で商業利益と本国通貨防御責任をどうバランスするか?
+- ラテンアメリカの本国通貨 SC は 2027-2028 に [[fintech/gray-market-dollar-network-formalization|グレーマーケット・ドル・ネットワークの正式化]] の逆方向の経路 — すなわち「グレー米ドル → コンプライアント本国通貨」の移行を引き起こすか?
+- ブラジル + メキシコの本国通貨 SC は、クロスボーダー貿易シナリオ（Mercosur / 米墨/北米自由貿易）で「域内本国通貨 SC スワップ」ネットワークを形成するか、[[fintech/mbridge-non-usd-settlement-ring-scale|mBridge 非ドル決済リング規模]] と類似するか?
 
 ## Related
 
 - [[fintech/INDEX|FinWiki Fintech Index]]
-- [[fintech/em-market-crypto-dollarization-pattern|EM 市场加密美元化模式]]
-- [[fintech/india-anti-dollar-dpi-alliance|India 反美元 DPI 联盟]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 多层架构三范式]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC 概览]]
-- [[fintech/jurisdiction-list-monetary-protectionism|管辖列表 · 货币保护主义]]
-- [[fintech/gray-market-dollar-network-formalization|灰色市场美元网络正式化]]
-- [[fintech/m0-network-infrastructure-update-2026|M0 2026 基础设施更新]]
-- [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge 非美元结算环规模]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币-链-代币策略三难]]
+- [[fintech/em-market-crypto-dollarization-pattern|EM 市場暗号ドル化パターン]]
+- [[fintech/india-anti-dollar-dpi-alliance|India 反ドル DPI アライアンス]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]]
+- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 多層アーキテクチャ三パラダイム]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS マルチ CBDC 概要]]
+- [[fintech/jurisdiction-list-monetary-protectionism|管轄リスト · 通貨保護主義]]
+- [[fintech/gray-market-dollar-network-formalization|グレーマーケット・ドル・ネットワークの正式化]]
+- [[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]]
+- [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge 非ドル決済リング規模]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain-token 戦略トリレンマ]]
 - [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART]]
 - [[fintech/fatf-travel-rule-overview|FATF Travel Rule]]
 

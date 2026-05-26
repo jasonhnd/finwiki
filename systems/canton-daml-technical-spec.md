@@ -1,10 +1,10 @@
 ---
-title: Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy
+title: Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy
 aliases: [canton-daml, daml-spec, canton-technical-spec, daml-vs-solidity]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, dlt, daml, smart-contracts, privacy, canton]
@@ -12,51 +12,51 @@ sources: []
 status: candidate
 ---
 
-# Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy
+# Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概览 · DAML 智能合约的隐私机构链]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- DAML 是 functional + obligation-based 合约语言 · 不是命令式 ^[extracted]
-- Sub-transaction privacy 默认开启 · 每个参与方只看到与自己相关的部分 ^[extracted]
-- 原生支持 multi-party atomic transactions ^[extracted]
-- Regulator Node 是协议级一等公民 · 不是事后审计 ^[extracted]
-- 跨 application 调用是原子的 · 不需要桥或 wrapped token ^[extracted]
+- DAML は functional + obligation-based な契約言語 · 命令型ではない ^[extracted]
+- Sub-transaction privacy はデフォルトで有効 · 各参加者は自身に関係する部分のみを参照する ^[extracted]
+- multi-party atomic transactions をネイティブにサポート ^[extracted]
+- Regulator Node はプロトコル級のファーストクラス市民 · 事後監査ではない ^[extracted]
+- アプリケーション横断呼び出しはアトミック · ブリッジや wrapped token は不要 ^[extracted]
 
 ## Mechanism / How it works
 
-DAML vs Solidity 维度对比:
+DAML vs Solidity の次元比較:
 
-| 维度 | Solidity(EVM) | DAML(Canton) |
+| 次元 | Solidity(EVM) | DAML(Canton) |
 |---|---|---|
-| 编程范式 | 命令式 + state mutation | Functional + 多方权利义务建模 |
-| 隐私 | 全公开(链上一切可见) | Sub-transaction privacy(默认隔离) |
-| 多方原子 | 需要复杂合约组合 | 原生支持 multi-party atomic transactions |
-| 监管节点 | 无概念 | Regulator Node 模型——监管者作为参与方 |
-| 适用场景 | DeFi + 通用 dApp | 金融合约 + 机构清算 |
+| プログラミングパラダイム | 命令型 + state mutation | Functional + 多者の権利義務モデリング |
+| プライバシー | 全公開(オンチェーン全可視) | Sub-transaction privacy(デフォルトで隔離) |
+| 多者アトミック | 複雑な契約組み合わせが必要 | multi-party atomic transactions をネイティブサポート |
+| 監督ノード | 概念なし | Regulator Node モデル——監督者を参加者として組み込み |
+| 適用シナリオ | DeFi + 汎用 dApp | 金融契約 + 機関間清算 |
 
-DAML 的"权利义务建模"具体例:一份债券合约会明确写出"issuer 有义务 X · holder 有权利 Y · custodian 有审计义务 Z"——这与传统金融法律合约的语义直接对应(对照 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 在 DAML 上承载的产品结构)。Solidity 则需要程序员自己编码这些角色关系,容易出错。
+DAML の「権利義務モデリング」の具体例:債券契約には「issuer は義務 X を負う · holder は権利 Y を持つ · custodian は監査義務 Z を負う」と明示的に記述される——これは伝統的金融の法的契約セマンティクスに直接対応する([[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] が DAML 上で表現する商品構造と対照)。Solidity ではこれらの役割関係をプログラマ自身がコーディングする必要があり、誤りが起きやすい。
 
-Sub-transaction privacy 的实现:每笔 transaction 被分解为 sub-events,每个 sub-event 只对涉及的参与方加密广播,Global Synchronizer 只负责排序(不解密内容)。
+Sub-transaction privacy の実装:各 transaction は sub-events に分解され、各 sub-event は関係する参加者のみに暗号化ブロードキャストされる。Global Synchronizer は順序付けのみを担当(内容は復号しない)。
 
 ## Origin & evolution
 
-DAML 起源于 Digital Asset 2014-2017 年的早期 POC,2017 年开源(GitHub),2019 年成为 Canton Network 的标准合约语言。2020-2024 年间持续迭代,DAML 3.x 增加了更细粒度的隐私 primitive 和 cross-application choreography 支持。
+DAML は Digital Asset の 2014-2017 年の初期 POC に起源を持ち、2017 年に OSS 化(GitHub)、2019 年に Canton Network の標準契約言語となった。2020-2024 年に継続的にイテレーション、DAML 3.x ではより細粒度のプライバシープリミティブとアプリケーション横断 choreography のサポートが追加された。
 
 ## Counterpoints
 
-DAML 的学习曲线陡峭——大多数区块链开发者熟悉 Solidity/Move/Rust,转 DAML 等同于学一门新语言。这是 Canton 难以从公链生态吸引开发者的根本原因。另外 DAML 闭源期(2014-2017)和早期专利策略让部分开源社区警惕,虽然现已 Apache 2.0,但生态心智份额仍远低于 EVM。
+DAML の学習曲線は急峻 —— 大半のブロックチェーン開発者は Solidity/Move/Rust に習熟しており、DAML への転換は新言語の学習に等しい。これは Canton が公開チェーンエコシステムから開発者を引き付けにくい根本的理由。さらに DAML のクローズドソース期(2014-2017)と初期の特許戦略により OSS コミュニティの一部は警戒しており、現在は Apache 2.0 ではあるものの、エコシステム内での認知シェアは依然 EVM を大きく下回る。
 
 ## Open questions
 
-- DAML 4.x 的 roadmap 是否会增加 EVM 兼容层?
-- Sub-transaction privacy 在面对 Global Synchronizer 妥协时的实际保护强度?
-- DAML 形式化验证工具链(类似 Move Prover、Certora)的发展?
-- 在 [[fintech/bis-project-agora-overview|BIS Agora]] 等跨 CBDC 试点中 DAML 是否会作为合约层标准?
+- DAML 4.x のロードマップに EVM 互換層は追加されるか?
+- Sub-transaction privacy は Global Synchronizer 妥協時の実際の保護強度は?
+- DAML 形式検証ツールチェーン(Move Prover、Certora 類似)の発展は?
+- [[fintech/bis-project-agora-overview|BIS Agora]] 等のクロス CBDC パイロットで、DAML は契約層の標準となるか?
 
 ## Related
 <!-- wiki-links:managed -->

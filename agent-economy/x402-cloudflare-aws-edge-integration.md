@@ -1,10 +1,10 @@
 ---
-title: x402 x Cloudflare / AWS · 边缘层默认支付组件
+title: x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント
 aliases: [x402-cloudflare-aws-edge-integration, x402-cloudflare-workers, x402-aws-api-gateway]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, x402, cloudflare, aws, edge, facilitator, http-402]
@@ -12,51 +12,51 @@ sources: []
 status: candidate
 ---
 
-# x402 x Cloudflare / AWS · 边缘层默认支付组件
+# x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 复活的 AI agent 支付协议(总览)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 2026-Q1 Cloudflare Workers 原生集成 x402 ^[extracted]
-- 2026-Q2 AWS API Gateway 集成 x402 · Bedrock agent 可调付费 API ^[extracted]
-- Cloudflare 处理全球 20%+ HTTP 流量 ^[extracted]
-- 开发者 5 行配置即可商业化 API · Cloudflare 抽 1-2% facilitator fee ^[extracted]
-- Facilitator 模式 < 100ms 验证延迟(信用代付 · 异步链上结算) ^[extracted]
-- Cloudflare + AWS 背书让 x402 不只是 crypto-only 玩具 ^[extracted]
-- 与 OpenAI / Anthropic agent SDK 兼容(未公开正式集成) ^[extracted]
+- 2026-Q1 Cloudflare Workers が x402 をネイティブ統合 ^[extracted]
+- 2026-Q2 AWS API Gateway が x402 を統合 · Bedrock agent が有料 API を呼び出し可能に ^[extracted]
+- Cloudflare はグローバル HTTP トラフィックの 20%+ を処理 ^[extracted]
+- 開発者は 5 行の設定で API を商業化可能 · Cloudflare は 1-2% の facilitator fee を徴収 ^[extracted]
+- Facilitator モデルは < 100ms の検証レイテンシ(信用代払 · 非同期オンチェーン決済) ^[extracted]
+- Cloudflare + AWS の裏付けにより x402 は crypto-only の玩具ではなくなった ^[extracted]
+- OpenAI / Anthropic agent SDK と互換(正式統合は未公表) ^[extracted]
 
 ## Mechanism / How it works
 
-边缘层(edge layer)是 HTTP 流量必经路径,Cloudflare Workers / AWS API Gateway 是其中最大两家。把 x402 集成在边缘层意味着:**开发者无需写 payment 逻辑**,只需声明 endpoint 价格(如 "此 API $0.001 USDC")· 边缘层自动:(1) 拦截无支付的请求 → 返回 HTTP 402;(2) 验证带 X-Payment header 的请求(异步链上 settlement);(3) 路由放行 → 后端处理。Facilitator 模式让边缘层信用代付:在链上 [[fintech/usd-stablecoin-interchange|USDC settlement]] 完成前,facilitator 已经把请求 release · 把单次延迟压到 < 100ms。Cloudflare 抽 1-2% 是 facilitator fee · 与传统 Stripe 2.9% + $0.30 相比对低价 API 调用极具优势(对照 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]] 的费率护城河)。AWS API Gateway + Bedrock 路径让 agent 在 AWS 内调付费 API 闭环。
+エッジ層(edge layer)は HTTP トラフィックが必ず通過する経路であり、Cloudflare Workers / AWS API Gateway はその中で最大の 2 社である。x402 をエッジ層に統合することは、**開発者が payment ロジックを書く必要がない**ことを意味する。エンドポイント価格(例:「この API は $0.001 USDC」)を宣言するだけで · エッジ層が自動的に:(1) 決済のないリクエストを傍受 → HTTP 402 を返却;(2) X-Payment ヘッダ付きのリクエストを検証(非同期オンチェーン settlement);(3) ルーティング許可 → バックエンドが処理する。Facilitator モデルによりエッジ層は信用代払を実行:オンチェーン [[fintech/usd-stablecoin-interchange|USDC settlement]] 完了前に facilitator が既にリクエストをリリースし · 単発レイテンシを < 100ms に圧縮する。Cloudflare の 1-2% は facilitator fee で · 従来の Stripe の 2.9% + $0.30 と比べて低価格 API 呼び出しでは極めて優位である(料率の堀については [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] と対照)。AWS API Gateway + Bedrock 経路により、agent が AWS 内で有料 API を呼び出す閉ループが形成される。
 
 ## Origin & evolution
 
-2025-05 Coinbase 发布 x402 spec。2025 H2 Cloudflare 工程师在 Workers 上做 experimental 集成 · 验证 facilitator 模式延迟可压到 100ms。2025-Q4 Cloudflare 决定 2026-Q1 生产化。2026-Q1 Cloudflare Workers x402 集成正式发布 —— 这是 x402 第一个 enterprise-grade 集成。2026-Q2 AWS API Gateway 跟进,Bedrock AgentCore 与 x402 形成闭环(AgentCore 默认 wallet Privy/CDP + API Gateway x402 收单)。同期 Vercel AI SDK 也支持 x402 客户端调用。OpenAI / Anthropic 尚未公开正式集成 · 但 SDK 兼容 x402 客户端调用(只要 agent 能签 wallet · 底层依赖 [[systems/erc-4337-overview|ERC-4337]] 或 [[systems/erc-7702-overview|ERC-7702]])。
+2025-05 Coinbase が x402 spec を発表。2025 H2 Cloudflare のエンジニアが Workers 上で experimental 統合を実施し · facilitator モデルのレイテンシを 100ms まで圧縮できることを検証。2025-Q4 Cloudflare が 2026-Q1 本番化を決定。2026-Q1 Cloudflare Workers x402 統合が正式リリース — これが x402 初の enterprise-grade 統合となった。2026-Q2 AWS API Gateway が追随し、Bedrock AgentCore と x402 で閉ループを形成(AgentCore のデフォルトウォレットは Privy/CDP + API Gateway の x402 で課金)。同期して Vercel AI SDK も x402 クライアント呼び出しをサポート。OpenAI / Anthropic はまだ正式統合を公表していないが · SDK は x402 クライアント呼び出しと互換(agent がウォレットに署名できれば良いだけで · 下層は [[systems/erc-4337-overview|ERC-4337]] または [[systems/erc-7702-overview|ERC-7702]] に依存する)。
 
 ## Counterpoints
 
-- Cloudflare + AWS 两家寡头化 x402 facilitator 市场 · 与 "开放协议" 叙事矛盾
-- "20%+ HTTP 流量" 不等于 "20%+ API 流量" · API 在 Cloudflare 占比未必相同
-- 1-2% facilitator fee 在大额 API 调用下仍可能让开发者绕过 facilitator 自建 settlement
-- AWS Bedrock x402 集成与 AWS 选 Privy/CDP 默认 wallet 同源 · Circle / Anchorage 仍被排除
+- Cloudflare + AWS の 2 社による x402 facilitator 市場の寡占化は · 「オープンプロトコル」という物語と矛盾する
+- 「20%+ HTTP トラフィック」は「20%+ API トラフィック」とは等価ではない · API における Cloudflare のシェアは同じとは限らない
+- 1-2% facilitator fee は大型 API 呼び出しでは開発者が facilitator を迂回して自前で settlement を構築する動機にもなり得る
+- AWS Bedrock x402 統合と AWS によるデフォルトウォレット Privy/CDP 選択は同根であり · Circle / Anchorage は依然として除外される
 
 ## Open questions
 
-- 2027 Google Cloud / Azure 是否会跟进集成 x402 · 形成 4 大云厂商共同标准?
-- Cloudflare facilitator fee 是否会因竞争降到 < 0.5%?
-- 中国 Aliyun / 腾讯云是否会出对抗性 micropayment 协议(类似 UPI 对 Visa)?
+- 2027 に Google Cloud / Azure が x402 統合に追随し · 4 大クラウドベンダー共通標準を形成するか?
+- Cloudflare facilitator fee は競争により < 0.5% まで下がるか?
+- 中国の Aliyun / Tencent Cloud は対抗的なマイクロペイメントプロトコル(Visa に対する UPI のような)を打ち出すか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/x402-http-payment-overview|x402 总览]]
+- [[agent-economy/x402-http-payment-overview|x402 総覧]]
 - [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore]]
-- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|On-chain finance vs crypto 分叉]]
+- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|On-chain finance vs crypto 分岐]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -1,10 +1,10 @@
 ---
-title: Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)
+title: Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)
 aliases: [solana-saga-seeker-mobile-stack-overview, solana-saga, solana-seeker, solana-mobile-stack, SMS]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, wallet, mobile, solana, saga, seeker, seed-vault, mwa]
@@ -12,50 +12,50 @@ sources: []
 status: candidate
 ---
 
-# Solana Saga / Seeker · 移动原生钱包栈(SMS 总览)
+# Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|Solana SMS vs Embedded Wallet · OS 层 vs App 层路径之争]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Saga 2023 上市 · 售价 $1000 · 首代实验性硬件 ^[extracted]
-- Seeker 2025 量产 · $450 售价 · 15 万台预订 ^[extracted]
-- Seed Vault:Android 系统级 keystore · 基于 TEE · 私钥不出芯片 ^[extracted]
-- Mobile Wallet Adapter(MWA):开放协议 · 任何 Android wallet app 可实现 ^[extracted]
-- Solana dApp Store:绕开 Google Play 30% in-app purchase 抽成 ^[extracted]
-- Seeker 内置 SKR token 经济 · 与 Helius RPC 深度集成 ^[extracted]
-- MWA 已被 Solana 生态全部主流 wallet 采用(Phantom / Solflare / Backpack) ^[extracted]
+- Saga は 2023 にローンチ · $1000 · 第一世代の実験的ハードウェア ^[extracted]
+- Seeker は 2025 に量産 · $450 · 15 万台予約 ^[extracted]
+- Seed Vault:Android システムレベル keystore · TEE ベース · 秘密鍵はチップから出ない ^[extracted]
+- Mobile Wallet Adapter(MWA):オープンプロトコル · 任意の Android ウォレット app が実装可能 ^[extracted]
+- Solana dApp Store:Google Play の in-app purchase 30% 手数料を回避 ^[extracted]
+- Seeker は SKR token 経済を内蔵 · Helius RPC と深く統合 ^[extracted]
+- MWA は Solana エコシステムの主流ウォレットすべてに採用済み(Phantom / Solflare / Backpack) ^[extracted]
 
 ## Mechanism / How it works
 
-主流 embedded wallet(Privy / Coinbase CDP)解决 dapp 内部 wallet UX,但所有 web/PWA wallet 仍受制于 iOS Safari 沙箱 + Google Play / App Store 30% 抽成 + 浏览器 push 受限。Solana 判断 wallet 必须下沉到 OS 层(与 [[fintech/embedded-wallet-fintech-disintermediation-overview|嵌入式钱包对 fintech 的去中介化]] 形成 OS 层 vs App 层路径分歧)。**Seed Vault** 在 Android 系统服务级别提供基于 TEE 的 keystore · 私钥不出 SoC · 任何 dapp 通过 system intent 请求签名 · UI 由 OS 控制防钓鱼 —— 等同把硬件钱包做进手机。**MWA** 是开放协议 · dapp 用 deep link / QR / Bluetooth 与 wallet 通信 · 无需在浏览器内注入 JS。**dApp Store** 预装在 Saga/Seeker · 开发者直接收 SOL/USDC 无 platform fee(USDC settlement 见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。Seeker 进一步以 $450 平民化定价 + Helius RPC 集成 + SKR token 经济提升原生体验。
+主流の embedded wallet(Privy / Coinbase CDP)は dapp 内部のウォレット UX を解決するが、すべての web/PWA ウォレットは依然として iOS Safari サンドボックス + Google Play / App Store 30% 手数料 + ブラウザ push の制限に縛られている。Solana はウォレットを OS 層に降ろさなければならないと判断した([[fintech/embedded-wallet-fintech-disintermediation-overview|埋込ウォレットによる fintech 中抜き]] と OS 層 vs App 層の経路分岐を形成)。**Seed Vault** は Android のシステムサービスレベルで TEE ベースの keystore を提供 · 秘密鍵は SoC から出ない · 任意の dapp が system intent 経由で署名をリクエスト · UI は OS が制御してフィッシングを防ぐ — ハードウェアウォレットをスマホに組み込むのと同じである。**MWA** はオープンプロトコルで · dapp は deep link / QR / Bluetooth でウォレットと通信し · ブラウザ内に JS を注入する必要はない。**dApp Store** は Saga/Seeker にプリインストールされ · 開発者は SOL/USDC を直接受け取れて platform fee がない(USDC settlement は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。Seeker はさらに $450 という大衆価格 + Helius RPC 統合 + SKR token 経済でネイティブ体験を強化している。
 
 ## Origin & evolution
 
-2022 Solana 宣布 Saga 计划 · 同年 Anatoly Yakovenko 公开 SMS 概念。2023-Q1 Saga 上市 · 早期评价两极(crypto-native 好评 + mainstream 嫌贵)。2024 Saga 销量约 2 万台 · 但 SMS 协议被 Phantom / Backpack / Solflare 全面集成。2024-Q4 宣布 Seeker · $450 + 15 万台预订(从 Saga 的 1/10 销量到 5 倍预订量是关键证明)。2025-Q2 Seeker 量产。2025-2026 Solana Labs 游说 Samsung / Xiaomi 集成 Seed Vault · 推进 SMS 标准化。Stripe + Bridge + Solana Pay 在 merchant 端深度集成 · Saga/Seeker 在 consumer 端形成闭环。
+2022 Solana が Saga 計画を発表 · 同年に Anatoly Yakovenko が SMS コンセプトを公表。2023-Q1 Saga ローンチ · 初期評価は二極化(crypto-native は好評 + mainstream は高すぎると不満)。2024 Saga の販売は約 2 万台にとどまったが · SMS プロトコルは Phantom / Backpack / Solflare に全面採用された。2024-Q4 Seeker 発表 · $450 + 15 万台予約(Saga の 1/10 の販売数から 5 倍の予約数への転換が重要な証明)。2025-Q2 Seeker 量産。2025-2026 Solana Labs が Samsung / Xiaomi に Seed Vault 統合を働きかけ · SMS 標準化を推進。Stripe + Bridge + Solana Pay がマーチャント側で深く統合され · Saga/Seeker がコンシューマ側で閉ループを形成した。
 
 ## Counterpoints
 
-- 15 万台 vs Apple 200M iPhone/年 · 实际规模仍极小
-- Seed Vault 标准化游说能否成功不确定 · 三星 / 小米可能仍倾向自有 Wallet
-- "OS 级 wallet" 在监管视角下可能被分类为系统组件 · 触发新的合规挑战(参见 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] 对非托管 wallet 的边界划定)
-- 与 Stripe Tap to Pay 不是直接竞争 · 反而互补(Saga 消费端 + Stripe 商户端)
+- 15 万台 vs Apple 200M iPhone/年 · 実際の規模は依然として極小
+- Seed Vault の標準化ロビイングが成功するかは不確実 · Samsung / Xiaomi は自社 Wallet を選好する可能性も残る
+- 「OS レベル wallet」は規制の視点ではシステムコンポーネントに分類され · 新たなコンプラ課題を引き起こす可能性([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] のノンカストディウォレット境界画定を参照)
+- Stripe Tap to Pay とは直接競合せず · むしろ補完関係(Saga 消費者側 + Stripe マーチャント側)
 
 ## Open questions
 
-- 三星 / 小米 / 谷歌是否会 2027 前集成 Seed Vault 类原生 keystore?
-- iOS 是否会因 antitrust 压力开放类似 dApp Store?
-- Seeker 第二代是否会下探到 $200 价位 · 真正进入 mainstream?
+- Samsung / Xiaomi / Google は 2027 までに Seed Vault 系ネイティブ keystore を統合するか?
+- iOS は antitrust の圧力で同様の dApp Store を開放するか?
+- Seeker 第 2 世代は $200 まで価格を下げて · 真の mainstream に到達するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|SMS vs Embedded Wallet · OS 层 vs App 层]]
+- [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|SMS vs Embedded Wallet · OS 層 vs App 層]]
 - [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet 对 CEX 的去中介化]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet による CEX 中抜き]]
 <!-- /wiki-links:managed -->
 
 ## Sources

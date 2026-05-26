@@ -1,10 +1,10 @@
 ---
-title: 机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon
+title: 機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon
 aliases: [institutional-dlt-adoption-2026, dlt-platform-comparison-institutional, canton-fabric-corda-comparison, institutional-blockchain-adoption-2026, dlt-financial-institutions-matrix, bank-dlt-selection-2026]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [systems, dlt, institutional, canton, hyperledger, corda, avalanche, polygon, rwa, adoption]
@@ -22,196 +22,196 @@ sources:
   - DTCC, BIS, IMF research reports
 ---
 
-# 机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon
+# 機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon
 
 ## TL;DR
 
-2026 机构 DLT 选型已从 "试点阶段" 进入 **"Canton + 公链 Ethereum 双中心 + Corda 长尾 + Fabric 衰退"** 的成熟分化格局:Canton(Digital Asset / R3 合并后)拿下 G-SIB tokenization 主战场(JPM Kinexys + Goldman DAP + DTCC + BNY),公链 Ethereum L1 通过 BlackRock BUIDL + Franklin BENJI + Ondo 等 RWA 占据 "可公开交易代币化基金" 这一极,Corda 在英国 / 新加坡 / 部分 EM 央行 + 中央托管行(CSD)有黏性长尾,Hyperledger Fabric(IBM 推动)在贸易金融 / 供应链场景之外明显衰退,Avalanche Subnets 拿下部分 RWA + 资产管理(Apollo / KKR / Hamilton Lane)长尾,Polygon Enterprise 已基本退出。机构选型不是单 chain 决策,大多 G-SIB 同时运营 2-3 个平台。
+2026 年の機関 DLT 選定は「パイロットフェーズ」から **「Canton + パブリックチェーン Ethereum の二大中心 + Corda がロングテール + Fabric の衰退」** という成熟した分化構造に入った:Canton(Digital Asset / R3 合併後)は G-SIB トークン化の主戦場を獲得(JPM Kinexys + Goldman DAP + DTCC + BNY)、パブリックチェーン Ethereum L1 は BlackRock BUIDL + Franklin BENJI + Ondo 等の RWA を通じて「公開取引可能なトークン化ファンド」の一極を占め、Corda は英国 / シンガポール / 一部 EM 中央銀行 + 中央証券保管機関(CSD)で粘着性のあるロングテールを保持、Hyperledger Fabric(IBM 推進)は貿易金融 / サプライチェーン以外の領域で明確に衰退している。Avalanche Subnets は RWA + 資産運用(Apollo / KKR / Hamilton Lane)のロングテールを一部獲得、Polygon Enterprise はほぼ撤退済み。機関の選定は単一チェーン決定ではなく、多くの G-SIB が同時に 2-3 のプラットフォームを運用している。
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton 总览]] 与 [[systems/hyperledger-besu-overview|Hyperledger Besu 总览]] 理解两条核心机构链的技术对位,并对照 [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 迁移路径]] 看具体 G-SIB 的实际迁移决策。公链一极请对照 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]。
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton 総覧]] と [[systems/hyperledger-besu-overview|Hyperledger Besu 総覧]] を読み、2 つのコアな機関チェーンの技術的対位を理解し、[[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 移行経路]] と対照して具体的な G-SIB の実際の移行決定を確認する。パブリックチェーンの一極については [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] を参照。
 
-## 六大机构 DLT 平台对位
+## 6 つの機関 DLT プラットフォームの対位
 
-### 1. Canton(Digital Asset + R3 合并阵营)
+### 1. Canton(Digital Asset + R3 合併陣営)
 
-- **技术**:DAML(functional + obligation-based language)+ application-level privacy + Global Synchronizer
-- **2025 重大事件**:Digital Asset Holdings 与 R3 在 2025 完成战略合并(具体形式为 R3 把 Corda Enterprise 业务整合进 Digital Asset,Canton 成为合并实体的核心 DLT 产品)
-- **典型客户**:JPM Kinexys(2026-2027 H1 迁移完成)+ Goldman DAP + DTCC Project Ion + BNY Mellon + Cumberland + Microsoft + Paxos + DZ Bank
-- **典型用例**:tokenized MMF 跨参与方原子结算 + collateral mobility + 24/7 repo + tokenized deposit
-- **TVL 自报**:2026-Q1 $6T+ tokenized assets / 600+ 机构(Canton 联盟自我披露,缺第三方审计)
-- **生态地位**:G-SIB tokenization 第一选择,详细技术见 [[systems/canton-daml-technical-spec|Canton DAML 技术规范]]
+- **技術**:DAML(functional + obligation-based language)+ application-level privacy + Global Synchronizer
+- **2025 重要事象**:Digital Asset Holdings と R3 は 2025 年に戦略的合併を完了(具体的形態としては R3 が Corda Enterprise 事業を Digital Asset に統合し、Canton が合併エンティティの中核 DLT 製品となる)
+- **典型的顧客**:JPM Kinexys(2026-2027 H1 移行完了)+ Goldman DAP + DTCC Project Ion + BNY Mellon + Cumberland + Microsoft + Paxos + DZ Bank
+- **典型的ユースケース**:tokenized MMF のクロス参加者アトミック決済 + collateral mobility + 24/7 repo + tokenized deposit
+- **TVL 自己申告**:2026-Q1 で $6T+ のトークン化資産 / 600+ 機関(Canton コンソーシアムの自己開示、第三者監査を欠く)
+- **エコシステム上の地位**:G-SIB トークン化の第一選択肢、詳細な技術は [[systems/canton-daml-technical-spec|Canton DAML 技術仕様]] を参照
 
-### 2. Public Ethereum L1(BlackRock + Franklin + Ondo 主导)
+### 2. Public Ethereum L1(BlackRock + Franklin + Ondo 主導)
 
-- **典型客户**:[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]](2024-03 上线,~$2-3B AUM 2026-Q1)+ Franklin Templeton BENJI(~$700M)+ Ondo USDY + WisdomTree 等
-- **典型用例**:tokenized money market fund(MMF)+ tokenized Treasury,可在公链上向 KYC 后的 institutional buyer 自由转移
-- **理由**:可被全球任意 KYC'd 机构钱包持有 + 无需机构客户接入私有联盟链 + 与 stablecoin(USDC / PYUSD)原生互操作
-- **技术依赖**:[[fintech/blackrock-buidl-tokenized-mmf-overview|Securitize]] 等 transfer agent 平台 + Wormhole / [[systems/cctp-v2-overview|CCTP V2]] 等跨链 + ERC-3643 (T-REX) 受监管 token 标准
-- **L2 部署**:BUIDL 2024-Q4 起扩展到 Aptos / Avalanche / Arbitrum / Optimism / Polygon PoS 等多链,~70% AUM 仍在 Ethereum L1
-- **限制**:G-SIB 自有市场清结算仍倾向于 Canton 等私链,公链 RWA 主要服务 "可公开发行 + 二级流动" 场景
+- **典型的顧客**:[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]](2024-03 ローンチ、~$2-3B AUM 2026-Q1)+ Franklin Templeton BENJI(~$700M)+ Ondo USDY + WisdomTree 等
+- **典型的ユースケース**:tokenized money market fund(MMF)+ tokenized Treasury、パブリックチェーン上で KYC 済の institutional buyer に自由に譲渡可能
+- **理由**:全世界の任意の KYC 済機関ウォレットで保有可能 + 機関顧客がプライベートコンソーシアムチェーンに接続する必要なし + stablecoin(USDC / PYUSD)とのネイティブ相互運用
+- **技術的依存**:[[fintech/blackrock-buidl-tokenized-mmf-overview|Securitize]] 等の transfer agent プラットフォーム + Wormhole / [[systems/cctp-v2-overview|CCTP V2]] 等のクロスチェーン + ERC-3643 (T-REX) 規制対応 token 標準
+- **L2 展開**:BUIDL は 2024-Q4 から Aptos / Avalanche / Arbitrum / Optimism / Polygon PoS 等のマルチチェーンに拡張、AUM の ~70% は依然として Ethereum L1
+- **制約**:G-SIB 自社市場の清算・決済は依然として Canton 等のプライベートチェーン志向、パブリックチェーン RWA は主に「公開発行可能 + 二次流通」シナリオに供される
 
-### 3. Corda(R3,2025 整合后)
+### 3. Corda(R3、2025 統合後)
 
-- **技术**:JVM-based + UTXO 风格 + notary cluster + application-layer privacy(类似 Canton 但不同实现)
-- **整合后定位**:R3 2025 与 Digital Asset 合并后,Corda 主要承接 **central securities depository(CSD)+ 部分央行 wholesale CBDC 试点 + 英国 / 新加坡 / 中东 长尾客户**,新客户拓展实质转向 Canton
-- **典型客户**:SIX Digital Exchange(SDX,瑞士)+ HQLAᵡ(欧洲机构 collateral 平台)+ ASX(澳大利亚交易所,CHESS 替代取消后续)+ 部分央行 wholesale CBDC 试点(BoE / MAS / 部分中东央行)
-- **TVL 与活跃度**:历史上 Corda 网络上累计处理超 $20T 名义资产(2024 R3 披露,主要是 trade finance + CSD 清结算 notional),但活跃 mainnet TVL 远小于此
-- **未来**:Corda 4.x 仍持续维护,但 Canton 取代 Corda 成为 R3 战略主推
+- **技術**:JVM-based + UTXO スタイル + notary cluster + application-layer privacy(Canton に類似だが実装は異なる)
+- **統合後の位置づけ**:R3 が 2025 年に Digital Asset と合併後、Corda は主に **central securities depository(CSD)+ 一部中央銀行 wholesale CBDC パイロット + 英国 / シンガポール / 中東のロングテール顧客** を引き継ぐ。新規顧客開拓は実質的に Canton に転換
+- **典型的顧客**:SIX Digital Exchange(SDX、スイス)+ HQLAᵡ(欧州機関 collateral プラットフォーム)+ ASX(オーストラリア取引所、CHESS 代替中止後)+ 一部中央銀行 wholesale CBDC パイロット(BoE / MAS / 一部中東中央銀行)
+- **TVL とアクティビティ**:歴史的に Corda ネットワーク上で累計 $20T 超の名目資産を処理(2024 R3 開示、主に trade finance + CSD 清算決済 notional)、しかしアクティブなメインネット TVL ははるかに小さい
+- **将来**:Corda 4.x は維持され続けるが、Canton が Corda に代わって R3 の戦略主軸となる
 
 ### 4. Hyperledger Fabric(IBM-led)
 
-- **典型客户**:IBM Food Trust + TradeLens(2022 关闭)+ we.trade(2022 解散)+ Marco Polo Network(2022 破产)+ Walmart 供应链
-- **现状**:2022-2023 多个 IBM 主导的贸易金融 / 供应链联盟相继关闭或重组,Fabric 在金融机构主战场实质性衰退
-- **存活场景**:供应链溯源(食品 / 制药 / 汽车零件)+ 部分央行内部账本(中国数字人民币部分组件历史曾使用 Fabric 衍生品)+ 部分 enterprise consortium
-- **技术问题**:permissioned 但 endorsement policy 复杂、性能瓶颈、IBM 销售模式与现代 SaaS / DLT-as-service 错位
-- **Hyperledger 项目重心**:Linux Foundation 2025 把 Hyperledger 整合进 "Decentralized Trust" 基金会,Besu 成为 EVM 兼容机构链的事实标准,Fabric 战略地位下降
+- **典型的顧客**:IBM Food Trust + TradeLens(2022 閉鎖)+ we.trade(2022 解散)+ Marco Polo Network(2022 破綻)+ Walmart サプライチェーン
+- **現状**:2022-2023 年に IBM 主導の貿易金融 / サプライチェーンコンソーシアムが相次いで閉鎖または再編、Fabric は金融機関の主戦場で実質的に衰退
+- **生存シナリオ**:サプライチェーン追跡(食品 / 製薬 / 自動車部品)+ 一部中央銀行内部台帳(中国デジタル人民元の一部コンポーネントは歴史的に Fabric 派生品を使用)+ 一部エンタープライズコンソーシアム
+- **技術的問題**:permissioned だが endorsement policy が複雑、性能ボトルネック、IBM の販売モデルが現代の SaaS / DLT-as-service とミスマッチ
+- **Hyperledger プロジェクトの重心**:Linux Foundation は 2025 年に Hyperledger を「Decentralized Trust」財団に統合、Besu が EVM 互換機関チェーンの事実上の標準となり、Fabric の戦略的地位は低下
 
-### 5. Hyperledger Besu(EVM 兼容机构链)
+### 5. Hyperledger Besu(EVM 互換機関チェーン)
 
-- **典型客户**:JPM Kinexys Chain(2027 H1 前迁 Canton 部分功能,但 Besu fork 内部保留)+ Citi CTS + HSBC Tokenized Deposit Service + BNP Securities Services + 多个 [[fintech/bis-project-agora-overview|BIS Project Agora]] 节点
-- **优势**:EVM 兼容、Solidity 工具链复用、Linux Foundation 治理透明、permissioned validator set 简单
-- **限制**:application-level privacy 弱于 Canton + 多方原子结算需要 hack-y 合约组合
-- **详细分析**:见 [[systems/hyperledger-besu-overview|Hyperledger Besu 总览]] 与 [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 迁移路径]]
+- **典型的顧客**:JPM Kinexys Chain(2027 H1 までに Canton に一部機能移行、Besu フォークは内部保持)+ Citi CTS + HSBC Tokenized Deposit Service + BNP Securities Services + 複数の [[fintech/bis-project-agora-overview|BIS Project Agora]] ノード
+- **優位性**:EVM 互換、Solidity ツールチェーン再利用、Linux Foundation 治理の透明性、permissioned validator セットがシンプル
+- **制約**:application-level privacy が Canton より弱い + マルチパーティアトミック決済には hack-y なコントラクト組み合わせが必要
+- **詳細分析**:[[systems/hyperledger-besu-overview|Hyperledger Besu 総覧]] と [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 移行経路]] を参照
 
-### 6. Avalanche Subnets(机构 RWA 长尾)
+### 6. Avalanche Subnets(機関 RWA ロングテール)
 
-- **典型客户**:Apollo Diversified Credit Securitize Fund(ACRED 部分版本)+ KKR(2022 试点)+ Hamilton Lane(Securitize 多链)+ Wisdomtree + Onyx 部分项目 + Republic
-- **机制**:Subnet 让单个机构 / 资产管理人可以自建独立 EVM-compatible chain,共享 Avalanche validator 安全
-- **2026 现状**:Subnet 已改名 "L1"(2024 末 Avalanche 9000 升级),进一步降低部署门槛
-- **优势**:EVM 兼容 + 可定制 validator set + 与公链 Avalanche C-Chain liquidity 连通
-- **TVL 自报**:Avalanche RWA TVL 2026-Q1 ~$200-400M(rwa.xyz 口径),远小于 Ethereum L1 RWA
+- **典型的顧客**:Apollo Diversified Credit Securitize Fund(ACRED 一部バージョン)+ KKR(2022 パイロット)+ Hamilton Lane(Securitize マルチチェーン)+ Wisdomtree + Onyx 一部プロジェクト + Republic
+- **メカニズム**:Subnet により単一の機関 / 資産運用者が独立した EVM 互換チェーンを構築可能、Avalanche validator のセキュリティを共有
+- **2026 現状**:Subnet は「L1」(2024 末の Avalanche 9000 アップグレード)に改名、展開ハードルがさらに低下
+- **優位性**:EVM 互換 + カスタマイズ可能な validator セット + パブリックチェーン Avalanche C-Chain の流動性と接続
+- **TVL 自己申告**:Avalanche RWA TVL 2026-Q1 ~$200-400M(rwa.xyz 口径)、Ethereum L1 RWA より遥かに小さい
 
-### 7. Polygon Enterprise(已基本退出)
+### 7. Polygon Enterprise(基本的に撤退済み)
 
-- 2022-2023 提出的 Polygon Supernets / Polygon Enterprise 方向 2024 后基本停止推广
-- Polygon 战略重心转向 [[systems/polygon-agglayer-architecture-rollout|AggLayer + CDK]] 公链 stack
-- 没有进入 G-SIB tokenization 主战场,机构客户份额可忽略
+- 2022-2023 年に提示された Polygon Supernets / Polygon Enterprise の方向性は 2024 年以降基本的に推進停止
+- Polygon の戦略重心は [[systems/polygon-agglayer-architecture-rollout|AggLayer + CDK]] パブリックチェーン stack に転換
+- G-SIB トークン化の主戦場には進出せず、機関顧客シェアは無視できる程度
 
-## 机构 DLT 选型决策矩阵
+## 機関 DLT 選定マトリクス
 
-| 客户类型 | 优先选 | 次选 | 理由 |
+| 顧客タイプ | 第一選択 | 次の選択 | 理由 |
 |---|---|---|---|
-| G-SIB 投行 + 资产管理 + 托管 | Canton | Besu / Corda | multi-party atomic settlement + application-level privacy |
-| 资产管理公司发行可公开 token MMF / Treasury | Public Ethereum L1 | Avalanche / Aptos / Stellar | 公链 KYC'd 二级流动性 + stablecoin 互操作 |
-| 央行 wholesale CBDC 试点 | Corda / Besu / Canton(并行试点) | — | 试点阶段多平台并行 |
-| 大型托管行内部账本 | Besu / Canton | — | EVM 兼容 vs DAML 多方原子 |
-| 私募信贷 / 私募股权资产管理 | Avalanche subnet / Securitize 多链部署 | Public Ethereum L1 | tokenization-as-service + 多链分发 |
-| 贸易金融 / 供应链 | Fabric / 其他 enterprise | — | 历史惯性 + 非金融机构客户 |
-| 跨 G-SIB CBDC 试点(BIS Agora 类) | Besu / Hedera / Canton(多平台并行) | — | 试点阶段多链并行,无统一答案 |
+| G-SIB 投資銀行 + 資産運用 + カストディ | Canton | Besu / Corda | multi-party atomic settlement + application-level privacy |
+| 資産運用会社による公開可能な token MMF / Treasury 発行 | Public Ethereum L1 | Avalanche / Aptos / Stellar | パブリックチェーンの KYC 済二次流動性 + stablecoin 相互運用 |
+| 中央銀行 wholesale CBDC パイロット | Corda / Besu / Canton(並行パイロット) | — | パイロット段階では複数プラットフォーム並行 |
+| 大手カストディ銀行の内部台帳 | Besu / Canton | — | EVM 互換 vs DAML マルチパーティアトミック |
+| プライベートクレジット / プライベートエクイティ資産運用 | Avalanche subnet / Securitize マルチチェーン展開 | Public Ethereum L1 | tokenization-as-service + マルチチェーン配信 |
+| 貿易金融 / サプライチェーン | Fabric / その他エンタープライズ | — | 歴史的慣性 + 非金融機関顧客 |
+| クロス G-SIB CBDC パイロット(BIS Agora 類) | Besu / Hedera / Canton(複数プラットフォーム並行) | — | パイロット段階では複数チェーン並行、統一回答なし |
 
-## 多 G-SIB 实际部署示例
+## 複数 G-SIB の実際の展開例
 
-- **JPM**:Kinexys Chain(Besu fork)+ Canton(2026-2027 主战场迁移) → 2 平台并行
-- **Goldman Sachs**:Canton(DAP 是 Canton 上的核心 application)+ 公链 Ethereum(GS Treasury 票据 tokenization 部分) → 2 平台
-- **Citi**:Canton + Hedera(Citi Token Services) → 2 平台
-- **HSBC**:Besu(Tokenized Deposit Service)+ 评估 Canton → 1-2 平台
-- **BNY Mellon**:Canton(创始成员)+ Public Ethereum L1(BUIDL custody) → 2 平台
-- **DTCC**:Canton(Project Ion)+ Corda(部分历史项目) → 2 平台
-- **BlackRock**:Public Ethereum L1(BUIDL 70% AUM)+ 多 L2(Aptos / Avalanche / Arbitrum / Polygon)
-- **Franklin Templeton**:Stellar(BENJI 原生)+ Aptos + Polygon + 多 L2 → 多链分布
+- **JPM**:Kinexys Chain(Besu フォーク)+ Canton(2026-2027 主戦場移行) → 2 プラットフォーム並行
+- **Goldman Sachs**:Canton(DAP は Canton 上のコアアプリケーション)+ パブリックチェーン Ethereum(GS Treasury 票券トークン化部分) → 2 プラットフォーム
+- **Citi**:Canton + Hedera(Citi Token Services) → 2 プラットフォーム
+- **HSBC**:Besu(Tokenized Deposit Service)+ Canton 評価中 → 1-2 プラットフォーム
+- **BNY Mellon**:Canton(創設メンバー)+ Public Ethereum L1(BUIDL カストディ) → 2 プラットフォーム
+- **DTCC**:Canton(Project Ion)+ Corda(一部歴史プロジェクト) → 2 プラットフォーム
+- **BlackRock**:Public Ethereum L1(BUIDL 70% AUM)+ 複数 L2(Aptos / Avalanche / Arbitrum / Polygon)
+- **Franklin Templeton**:Stellar(BENJI ネイティブ)+ Aptos + Polygon + 複数 L2 → マルチチェーン分布
 
-机构客户 **不会单押一条链**,2026 的实践是 "Canton 做 G-SIB 内部 + 公链 Ethereum 做对外 MMF / Treasury + Corda / Besu 在特定地理或用例长尾",对照 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 在机构层的延伸。
+機関顧客は **単一チェーンに賭けない**、2026 年の実践は「Canton で G-SIB 内部 + パブリックチェーン Ethereum で対外 MMF / Treasury + Corda / Besu は特定地域またはユースケースのロングテール」となっており、[[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] の機関層への延伸と対照される。
 
-## RWA on chain · TVL 视角
+## RWA on chain · TVL 視点
 
-按 rwa.xyz / DefiLlama 公开口径 2026-Q1 的 tokenized RWA(不含 stablecoin)on-chain TVL 大致分布:
+rwa.xyz / DefiLlama の公開口径による 2026-Q1 のトークン化 RWA(stablecoin を除く)on-chain TVL のおおよその分布:
 
-- Ethereum L1: ~70%+(BUIDL + Ondo + Franklin BENJI 跨链部分 + Securitize 系)
-- Stellar: ~5-10%(Franklin BENJI 原生 + WisdomTree 部分)
-- Avalanche: ~3-5%(KKR / Apollo / Hamilton Lane Securitize 部分)
+- Ethereum L1: ~70%+(BUIDL + Ondo + Franklin BENJI クロスチェーン部分 + Securitize 系)
+- Stellar: ~5-10%(Franklin BENJI ネイティブ + WisdomTree 一部)
+- Avalanche: ~3-5%(KKR / Apollo / Hamilton Lane Securitize 一部)
 - Aptos / Arbitrum / Polygon PoS / Optimism / Base: 各 1-3%
-- Canton(私链,数据未进 rwa.xyz 公开口径): 自报 $6T+,但口径与公链 TVL 不可直接比较
+- Canton(プライベートチェーン、データは rwa.xyz の公開口径に未収載): 自己申告 $6T+、ただし口径はパブリックチェーン TVL と直接比較できない
 
-关键差异:**公链 RWA 跟踪可被第三方独立审计**(rwa.xyz / DefiLlama 等),**私链 RWA 跟踪依赖联盟自我披露**,两者不能简单相加。
+重要な差異:**パブリックチェーン RWA の追跡は第三者による独立監査可能**(rwa.xyz / DefiLlama 等)、**プライベートチェーン RWA の追跡はコンソーシアムの自己開示に依存**、両者を単純に合算できない。
 
-## Use case 维度 · 谁选什么平台
+## Use case 軸 · 誰が何のプラットフォームを選ぶか
 
-| Use case | 平台选择 | 原因 |
+| Use case | プラットフォーム選択 | 理由 |
 |---|---|---|
-| 大行内部 24/7 repo + collateral mobility | Canton(JPM / GS / DTCC) | 多方原子 + application privacy + DAML 表达 |
-| Tokenized MMF / Treasury 对外发行(可二级流转) | Public Ethereum L1 | KYC'd 机构钱包 + stablecoin 互操作 + 第三方审计 |
-| Tokenized 私募信贷 / 私募股权 | Avalanche subnet / Polygon PoS / Public ETH 多链 | tokenization-as-service + Securitize 路径 |
-| 央行 wholesale CBDC 试点 | Corda / Besu / Canton 并行 | 多平台并行试点 |
-| Trade finance / 供应链溯源 | Fabric / 自建 enterprise | 历史惯性 + 非金融客户 |
-| Tokenized deposit(单银行内部) | Besu(HSBC TDS / Citi CTS)/ Canton | EVM 兼容 vs DAML 原子化 |
-| Cross-G-SIB CBDC pilot([[fintech/bis-project-agora-overview\|BIS Project Agora]]) | Besu / Hedera / Canton 多平台 | 试点阶段无统一答案 |
-| Tokenized stock 二级交易 | Public Ethereum L1 / Solana / 部分 L2 | 与 stablecoin 流动性最近 |
-| Stablecoin payment(零售) | Public L2(Base / Tron / Polygon PoS) | 低 gas + 用户钱包密度 |
-| Custody bank tokenized record-keeping | Canton(BNY)/ Corda(SDX / HQLAᵡ) | application-layer privacy |
+| 大手銀行内部 24/7 repo + collateral mobility | Canton(JPM / GS / DTCC) | マルチパーティアトミック + application privacy + DAML 表現力 |
+| Tokenized MMF / Treasury の対外発行(二次流通可能) | Public Ethereum L1 | KYC 済機関ウォレット + stablecoin 相互運用 + 第三者監査 |
+| Tokenized プライベートクレジット / プライベートエクイティ | Avalanche subnet / Polygon PoS / Public ETH マルチチェーン | tokenization-as-service + Securitize 経路 |
+| 中央銀行 wholesale CBDC パイロット | Corda / Besu / Canton 並行 | 複数プラットフォーム並行パイロット |
+| Trade finance / サプライチェーン追跡 | Fabric / 自社エンタープライズ | 歴史的慣性 + 非金融顧客 |
+| Tokenized deposit(単一銀行内部) | Besu(HSBC TDS / Citi CTS)/ Canton | EVM 互換 vs DAML アトミック化 |
+| Cross-G-SIB CBDC pilot([[fintech/bis-project-agora-overview\|BIS Project Agora]]) | Besu / Hedera / Canton マルチプラットフォーム | パイロット段階に統一回答なし |
+| Tokenized 株式の二次取引 | Public Ethereum L1 / Solana / 一部 L2 | stablecoin 流動性に最も近い |
+| Stablecoin payment(リテール) | Public L2(Base / Tron / Polygon PoS) | 低 gas + ユーザーウォレット密度 |
+| カストディ銀行のトークン化記録管理 | Canton(BNY)/ Corda(SDX / HQLAᵡ) | application-layer privacy |
 
-## R3 / Digital Asset 整合时间轴(公开披露口径)
+## R3 / Digital Asset 統合タイムライン(公開開示口径)
 
-- **2014-2017**:R3 联盟成立,Corda 诞生,40+ 银行试点
-- **2017-2020**:Digital Asset 与 R3 平行发展,Corda 在欧洲银行 + 部分 CSD 部署,Canton 在 ASX CHESS replacement(后取消)
-- **2020-2023**:Canton Network 概念逐步成熟,Digital Asset 获 Microsoft / DTCC / GS / 多 G-SIB 投资,Corda 持续维护但新客户拓展放缓
-- **2024**:DTCC Project Ion 选 Canton,Goldman DAP 迁 Canton,JPM 启动 Canton 评估,Canton 联盟扩张
-- **2025**:R3 与 Digital Asset 完成战略整合(具体形式公开披露较少,但 Corda 与 Canton 团队 / 治理 / 客户拓展实质合并)
-- **2026**:Canton 成为整合后的旗舰产品,Corda 维护现有客户但战略地位降级
+- **2014-2017**:R3 コンソーシアム設立、Corda 誕生、40+ 銀行がパイロット
+- **2017-2020**:Digital Asset と R3 は並行発展、Corda は欧州銀行 + 一部 CSD で展開、Canton は ASX CHESS replacement(後に中止)
+- **2020-2023**:Canton Network 概念が徐々に成熟、Digital Asset が Microsoft / DTCC / GS / 複数 G-SIB から投資獲得、Corda は維持されるが新規顧客開拓は減速
+- **2024**:DTCC Project Ion が Canton を選定、Goldman DAP が Canton に移行、JPM が Canton 評価を開始、Canton コンソーシアム拡大
+- **2025**:R3 と Digital Asset が戦略的統合を完了(具体的形態の公開開示は限定的だが、Corda と Canton のチーム / 治理 / 顧客開拓は実質的に合併)
+- **2026**:Canton は統合後の旗艦製品となり、Corda は既存顧客を維持するが戦略的地位は低下
 
-注:具体整合时间与形式以双方官方披露为准,本节是综合公开信号的合理推断,confidence: likely。
+注:具体的な統合時期と形態は双方の公式開示に従う。本節は公開シグナルを総合した合理的推測であり、confidence: likely。
 
-## 监管 + 合规角度对照
+## 規制 + コンプライアンス角度の対照
 
-- **Canton**:application-level privacy + Regulator Node 模型让监管者可以作为参与方加入,与 MiCA(欧盟)/ MAS(新加坡)等监管框架兼容性高
-- **Public Ethereum L1**:依赖 ERC-3643(T-REX)或 Securitize 等 transfer agent 提供 "permissioned token in permissionless chain" 模式,合规由 token issuer + transfer agent 承担
-- **Corda**:notary cluster + UTXO + 仅参与方可见的 transaction history,英国 / 新加坡 / 中东监管接受度高
-- **Fabric**:permissioned + endorsement policy,在中国监管沙盒 + 部分中央银行内部账本中历史使用
-- **Besu**:IBFT 共识 + Constellation off-chain payload,与 Canton 比 privacy 较弱但 EVM 兼容降低监管学习成本
-- **Avalanche subnet**:可配置 KYC validator set + 与 Avalanche C-Chain 流动性互通,Apollo / KKR / Hamilton Lane 等资产管理选 Avalanche 的核心理由之一
+- **Canton**:application-level privacy + Regulator Node モデルにより規制当局が参加者として加わることが可能、MiCA(EU)/ MAS(シンガポール)等の規制フレームワークとの互換性が高い
+- **Public Ethereum L1**:ERC-3643(T-REX)または Securitize 等の transfer agent による「permissioned token in permissionless chain」モデルに依存、コンプライアンスは token issuer + transfer agent が負担
+- **Corda**:notary cluster + UTXO + 参加者のみが閲覧可能な transaction history、英国 / シンガポール / 中東での規制受容度が高い
+- **Fabric**:permissioned + endorsement policy、中国の規制サンドボックス + 一部中央銀行内部台帳で歴史的に使用
+- **Besu**:IBFT コンセンサス + Constellation off-chain payload、Canton と比べてプライバシーが弱いが EVM 互換性が規制学習コストを下げる
+- **Avalanche subnet**:KYC validator セットの設定可能 + Avalanche C-Chain 流動性との相互運用、Apollo / KKR / Hamilton Lane 等の資産運用者が Avalanche を選ぶ核心理由の一つ
 
-## Tokenized stablecoin × DLT platform 矩阵
+## Tokenized stablecoin × DLT platform マトリクス
 
-| 平台 | tokenized USD(stablecoin / deposit) |
+| プラットフォーム | tokenized USD(stablecoin / deposit) |
 |---|---|
-| Canton | JPMD(JPM tokenized deposit)+ 部分 GS / DTCC stablecoin pilot |
+| Canton | JPMD(JPM tokenized deposit)+ 一部 GS / DTCC stablecoin パイロット |
 | Public Ethereum L1 | USDC / USDT / PYUSD / RLUSD / Ondo USDY |
 | Stellar | USDC(Circle native)+ WisdomTree WTSY |
 | Avalanche | USDC / Tether on Avalanche C-Chain |
-| Besu(Kinexys Chain) | JPMD(2026 在向 Canton 迁移) |
-| Corda | 部分央行 wholesale CBDC pilot + HQLAᵡ collateral |
-| Solana / Base | USDC native(retail payment 主要选择) |
+| Besu(Kinexys Chain) | JPMD(2026 年に Canton へ移行中) |
+| Corda | 一部中央銀行 wholesale CBDC pilot + HQLAᵡ collateral |
+| Solana / Base | USDC native(retail payment の主要選択肢) |
 
 ## Counterpoints
 
-- **"Canton 拿下 G-SIB" 是 Digital Asset 营销叙事**:实际多家 G-SIB 仍在 Besu / Corda / Canton 之间多平台并行,Canton 的胜出主要在 "战略迁移 momentum" 而非已实现 TVL
-- **公链 RWA $20B 数字虚高**:大量 BUIDL / BENJI 的 AUM 实际由 BlackRock / Franklin 自身或合作做市商持有用于 yield strategy,真实第三方机构持有比例 < 50%
-- **Corda 整合后定位模糊**:R3 与 Digital Asset 合并后 Corda 客户可能加速向 Canton 迁移,长尾客户实际维护成本上升
-- **Fabric 衰退但供应链场景仍有黏性**:不能用 "金融机构衰退" 直接判 Fabric 死亡,IBM 在非金融 enterprise 场景仍有客户
-- **Avalanche L1 / Subnet 重命名 ≠ 机构采纳加速**:多数 "Avalanche L1" mainnet 活跃度低,叙事 > 实质
-- **私链 vs 公链不是二元对立**:同一机构同时在两边部署,选择因 use case 而异
+- **「Canton が G-SIB を獲得」は Digital Asset のマーケティングナラティブ**:実際には複数の G-SIB が依然として Besu / Corda / Canton 間でマルチプラットフォーム並行運用、Canton の勝利は主に「戦略的移行モメンタム」であり、実現済み TVL ではない
+- **パブリックチェーン RWA の $20B 数字は水増し**:大量の BUIDL / BENJI の AUM は実際に BlackRock / Franklin 自身または提携マーケットメーカーが yield strategy のために保有しており、真の第三者機関保有比率は < 50%
+- **Corda 統合後の位置づけが曖昧**:R3 と Digital Asset の合併後、Corda の顧客は Canton への移行が加速する可能性、ロングテール顧客の実際のメンテナンスコストが上昇
+- **Fabric は衰退するもサプライチェーン領域では粘着性あり**:「金融機関の衰退」をもって直ちに Fabric の死を判定することはできない、IBM は非金融エンタープライズ領域で依然として顧客を持つ
+- **Avalanche L1 / Subnet のリブランディング ≠ 機関採用加速**:ほとんどの「Avalanche L1」メインネットのアクティビティは低く、ナラティブ > 実質
+- **プライベートチェーン vs パブリックチェーンは二項対立ではない**:同一機関が両側で同時に展開、選択はユースケースによって異なる
 
 ## Open questions
 
-- Canton 与 Corda 整合后 R3 长尾客户的实际去向(留 Corda 还是迁 Canton 还是迁公链)?
-- BlackRock BUIDL 是否会与 Canton 联盟深度合作(对照 [[systems/canton-mmf-coalition|Canton MMF 联盟]])?
-- 2027 完成 JPM Canton 迁移后 Citi / HSBC / BNP 是否会跟进?
-- 公链 Ethereum L1 vs Canton 在 "tokenized collateral mobility" 场景的竞争结局?
-- Avalanche Subnet / Polygon Enterprise 是否会被 Canton 联盟彻底挤出机构主战场?
-- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等私募信贷代币化是否会从 Avalanche subnet 迁 Canton?
-- 央行 wholesale CBDC 试点(对照 [[fintech/bis-project-agora-overview|BIS Project Agora]])长期会收敛到 Canton / Besu / Corda 哪一条?
-- 跨平台 atomic settlement(Canton ↔ 公链 Ethereum)能否通过 [[systems/cctp-v2-overview|CCTP V2]] / [[systems/cross-chain-five-pole-comparison-matrix|跨链五极]] 实现可生产?
+- Canton と Corda の統合後、R3 のロングテール顧客の実際の行き先(Corda 残留か Canton 移行か、はたまたパブリックチェーン移行か)?
+- BlackRock BUIDL は Canton コンソーシアムと深く提携するか?([[systems/canton-mmf-coalition|Canton MMF コンソーシアム]] と対照)
+- 2027 年 JPM Canton 移行完了後、Citi / HSBC / BNP は追随するか?
+- パブリックチェーン Ethereum L1 vs Canton の「tokenized collateral mobility」シナリオにおける競争の結末は?
+- Avalanche Subnet / Polygon Enterprise は Canton コンソーシアムによって機関主戦場から完全に排除されるか?
+- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等のプライベートクレジットトークン化は Avalanche subnet から Canton に移行するか?
+- 中央銀行 wholesale CBDC パイロット([[fintech/bis-project-agora-overview|BIS Project Agora]] と対照)は長期的に Canton / Besu / Corda のいずれに収束するか?
+- クロスプラットフォームアトミック決済(Canton ↔ パブリックチェーン Ethereum)は [[systems/cctp-v2-overview|CCTP V2]] / [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極]] によって本番運用可能となるか?
 
 ## Related
 
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
-- [[systems/canton-overview|Canton 总览]]
-- [[systems/canton-daml-technical-spec|Canton DAML 技术规范]]
-- [[systems/canton-mmf-coalition|Canton MMF 联盟]]
-- [[systems/hyperledger-besu-overview|Hyperledger Besu 总览]]
-- [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 迁移路径]]
-- [[systems/cctp-v2-overview|CCTP V2 总览]]
-- [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL 总览]]
+- [[systems/canton-overview|Canton 総覧]]
+- [[systems/canton-daml-technical-spec|Canton DAML 技術仕様]]
+- [[systems/canton-mmf-coalition|Canton MMF コンソーシアム]]
+- [[systems/hyperledger-besu-overview|Hyperledger Besu 総覧]]
+- [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 移行経路]]
+- [[systems/cctp-v2-overview|CCTP V2 総覧]]
+- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]]
+- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL 総覧]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
 - Canton Network official site & documentation
-- R3 Corda official site & 2025 整合公告
+- R3 Corda official site & 2025 統合発表
 - Hyperledger Foundation site — Fabric, Besu projects
 - BlackRock BUIDL fund prospectus
 - Franklin Templeton BENJI fund documentation

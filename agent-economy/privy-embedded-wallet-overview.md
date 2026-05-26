@@ -1,10 +1,10 @@
 ---
-title: Privy · Stripe 子公司的嵌入式自托管钱包(总览)
+title: Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)
 aliases: [privy-embedded-wallet-overview, privy, stripe-privy, henri-stern]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [agent-economy, wallet, embedded-wallet, mpc, privy, stripe, self-custodial]
@@ -12,51 +12,51 @@ sources: []
 status: candidate
 ---
 
-# Privy · Stripe 子公司的嵌入式自托管钱包(总览)
+# Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/embedded-wallet-network-effects-moat|嵌入式钱包网络效应 · 集成商而非钱包本身的护城河]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/embedded-wallet-network-effects-moat|埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 2021 在纽约成立 · 创始人 Henri Stern + Asta Li ^[extracted]
-- 2025-06 被 Stripe 收购($300-500M 推测) ^[extracted]
-- 收购时 75M 账户 · 2026-Q1 达 110M+ 钱包 ^[extracted]
-- 1,000+ developer team 集成 ^[extracted]
-- Self-custodial 模式:MPC + TEE 切片 · 私钥不在 Privy 单点 ^[extracted]
-- 用户 onboarding ~10 秒 vs MetaMask 5-10 分钟 ^[extracted]
-- 收购前核心客户:OpenSea / Hyperliquid / Farcaster / Friend.tech / Toku / Zora ^[extracted]
-- 2026 Sessions 发 Multichain balances API ^[extracted]
+- 2021 ニューヨーク設立 · 創業者 Henri Stern + Asta Li ^[extracted]
+- 2025-06 Stripe に買収される($300-500M と推定) ^[extracted]
+- 買収時 75M アカウント · 2026-Q1 には 110M+ ウォレットに到達 ^[extracted]
+- 1,000+ developer team が統合 ^[extracted]
+- Self-custodial モデル:MPC + TEE シャーディング · 秘密鍵は Privy 単一ポイントに存在しない ^[extracted]
+- ユーザー onboarding ~10 秒 vs MetaMask 5-10 分 ^[extracted]
+- 買収前のコア顧客:OpenSea / Hyperliquid / Farcaster / Friend.tech / Toku / Zora ^[extracted]
+- 2026 Sessions で Multichain balances API を発表 ^[extracted]
 
 ## Mechanism / How it works
 
-用户用 email/Google 登录后,Privy SDK(30 行代码)在前端执行 MPC 分片密钥生成:**一片在用户设备**(基于 Passkey / WebAuthn / Secure Enclave)+ **一片在 Privy TEE**(Trusted Execution Environment · AWS Nitro Enclaves 或同类)。签名时两片协作产生有效签名,但 Privy 单独无法签名,用户也无法独立签名 —— 实现 "self-custodial 又免管理" 的折衷(同模式见 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 嵌入式钱包采用]])。Multichain balances API 让一个 API 调用即可拉取用户在 Ethereum / Solana / Tempo / Polygon 等多链的余额,避免开发者各自实现多链聚合(底层依赖 [[systems/chain-abstraction-pattern-overview|chain abstraction 模式]])。整个体验完全 Web2:用户不见 seed phrase / 不装 MetaMask / 不切换网络 —— 这是 Privy 占据 110M 钱包规模的核心。
+ユーザーが email/Google でログインすると、Privy SDK(30 行のコード)がフロントエンドで MPC シャーディング鍵生成を実行する。**1 シャードはユーザーのデバイス**(Passkey / WebAuthn / Secure Enclave ベース)+ **1 シャードは Privy の TEE**(Trusted Execution Environment · AWS Nitro Enclaves あるいは同等)に保管される。署名時には 2 シャードが協調して有効な署名を生成するが、Privy だけでは署名できず、ユーザーも単独では署名できない — 「self-custodial でありながら管理不要」という折衷を実現する(同モデルは [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。Multichain balances API では 1 回の API 呼び出しで Ethereum / Solana / Tempo / Polygon 等のマルチチェーン残高を取得でき · 開発者がマルチチェーン集約を個別実装する必要をなくしている(下層は [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] に依存)。体験全体は完全に Web2:ユーザーは seed phrase を見ず · MetaMask をインストールせず · ネットワーク切替も不要 — これが Privy が 110M ウォレット規模を占有する核心である。
 
 ## Origin & evolution
 
-2021 纽约 · 创始人 Stern + Li(此前在 Protocol Labs)。2022-2024 与 OpenSea / Hyperliquid / Farcaster 等 dapp 深度集成 · 累积到 75M 账户。2024-Q4 Stripe 启动 stablecoin + Tempo + Bridge 收购的连环战略,需要 wallet 层(战略全图见 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]])。2025-06 Stripe 完成 Privy 收购 · 推测 $300-500M(Bridge 是 $1.1B 对照,Privy 估值较低因为还在快速增长期)。2025 H2 Privy 仍以独立品牌运营 · 但开始服务 Stripe Connect / Tempo / Bridge 的内部需求。2026-05-07 AWS Bedrock AgentCore Payments 把 Privy 与 Coinbase CDP 并列为默认 wallet provider —— 是 Privy 在 AI agent 经济基础设施的卡位(对比 [[exchanges/global-institutional-custody-five-pillars|全球机构托管五支柱]] 的传统路径)。
+2021 ニューヨーク · 創業者 Stern + Li(以前は Protocol Labs)。2022-2024 OpenSea / Hyperliquid / Farcaster 等の dapp と深く統合し · 75M アカウントを蓄積。2024-Q4 Stripe が stablecoin + Tempo + Bridge 買収の連鎖戦略を始動し · ウォレット層が必要になった(戦略全体図は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] 参照)。2025-06 Stripe が Privy 買収を完了 · $300-500M と推定(Bridge は $1.1B との対比で · Privy は急成長期だったため評価額は低めだった)。2025 H2 Privy は独立ブランドで運営を続けつつ · Stripe Connect / Tempo / Bridge の内部需要に応え始めた。2026-05-07 AWS Bedrock AgentCore Payments が Privy と Coinbase CDP をデフォルト wallet provider に並列で組み込み — Privy の AI agent 経済インフラにおけるポジショニングが確立された([[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ5本柱]] の従来経路と対比)。
 
 ## Counterpoints
 
-- "Self-custodial" 在 MPC + TEE 模型下被部分专家批评 "实质 custodial":Privy TEE 故障 → 用户资产风险
-- 与 Coinbase CDP 在 AWS AgentCore 上是 "并列" · 实际未来可能被 CDP 蚕食(Coinbase 有更强机构信任)
-- Stripe 收购后能否保持开放生态 · 还是会逐步排他化 dApp 集成(与 OpenSea 等竞争对手)
-- 110M 钱包数字含义模糊 · 多少是活跃 wallet?
+- 「Self-custodial」は MPC + TEE モデルでは一部専門家から「実質的に custodial」と批判されている:Privy TEE が故障すれば → ユーザー資産にリスクが波及する
+- AWS AgentCore 上で Coinbase CDP と「並列」だが · 将来的に CDP に侵食される可能性がある(Coinbase は機関信頼が強い)
+- Stripe 買収後にオープンエコシステムを維持できるか · それとも dApp 統合を徐々に排他化するか(OpenSea 等の競合との関係)
+- 110M ウォレットという数字の意味は曖昧 · うちアクティブ wallet はどれほどか?
 
 ## Open questions
 
-- Privy 是否会成为 Stripe Connect 5M 商户的默认钱包(自动 provisioning)?
-- AWS AgentCore 默认列表中 Privy / Coinbase CDP 的市场份额拆分如何?
-- MPC + TEE 模型是否会受 EU/US 的 self-custody 监管新规挑战?
+- Privy は Stripe Connect の 5M マーチャントのデフォルト wallet になるか(自動 provisioning)?
+- AWS AgentCore のデフォルトリストにおける Privy / Coinbase CDP の市場シェア配分は?
+- MPC + TEE モデルは EU/US の self-custody 規制新ルールに挑戦されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore 默认钱包]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet 对 CEX 的去中介化]]
-- [[agent-economy/x402-http-payment-overview|x402 HTTP 支付协议]]
+- [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore デフォルトウォレット]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet による CEX 中抜き]]
+- [[agent-economy/x402-http-payment-overview|x402 HTTP 決済プロトコル]]
 <!-- /wiki-links:managed -->
 
 ## Sources

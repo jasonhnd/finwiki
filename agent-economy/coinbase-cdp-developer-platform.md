@@ -1,10 +1,10 @@
 ---
-title: Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施
+title: Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤
 aliases: [coinbase-cdp-developer-platform, Coinbase Developer Platform, CDP, embedded wallet, AgentKit]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [agent-economy, coinbase, cdp, embedded-wallet, agentcore, agentkit, base, usdc]
@@ -12,46 +12,46 @@ sources: []
 status: candidate
 ---
 
-# Coinbase CDP · 开发者平台 · AI agent on-chain 钱包基础设施
+# Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 复活的 AI agent 支付协议(总览)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 注册开发者 ~**150K** · 集成 dApp ~**8K** · 月活 embedded 钱包 ~**5M** (2026-Q1) ^[extracted]
-- 默认链 Base · 支持 8 链 (Ethereum, Base, Solana, Polygon, Arbitrum, Optimism, Avalanche, BNB) ^[extracted]
-- 模块矩阵: CDP Wallets / Onramp / Staking / Paymaster (ERC-4337) / Smart Wallets / **AgentKit** (2025-04) ^[extracted]
-- 2025-12 AWS Bedrock AgentCore 集成 CDP + Privy 为默认钱包 provider ^[extracted]
-- 与 USDC + Base 默认绑定 · gas-free transfer · onramp 直通 ^[extracted]
-- Privy 由 Stripe 2025-Q3 收购 → CDP 主要竞品也是 AgentCore 双 provider 之一 ^[extracted]
+- 登録開発者 ~**150K** · 統合 dApp ~**8K** · 月次アクティブ embedded ウォレット ~**5M**(2026-Q1) ^[extracted]
+- デフォルトチェーンは Base · 8 チェーン対応(Ethereum, Base, Solana, Polygon, Arbitrum, Optimism, Avalanche, BNB) ^[extracted]
+- モジュール構成:CDP Wallets / Onramp / Staking / Paymaster(ERC-4337)/ Smart Wallets / **AgentKit**(2025-04) ^[extracted]
+- 2025-12 AWS Bedrock AgentCore が CDP + Privy をデフォルトウォレット provider として統合 ^[extracted]
+- USDC + Base にデフォルトでバインド · gas-free transfer · onramp 直結 ^[extracted]
+- Privy は Stripe が 2025-Q3 に買収 → CDP の主要競合も AgentCore のデュアル provider のひとつ ^[extracted]
 
 ## Mechanism / How it works
 
-CDP 把"集成 Web3"从"几个月开发 + 自托管基础设施"压缩到"几分钟 API 集成":开发者拿到一行 SDK 即可在自家产品中嵌入 onchain 钱包([[fintech/embedded-wallet-fintech-disintermediation-overview|MPC 嵌入式钱包模式]] + email/social 登录 + [[systems/erc-4337-overview|ERC-4337]] 智能合约钱包 + 法币 onramp + [[fintech/usd-stablecoin-interchange|USDC]] gas-free transfer 一体化)。AgentKit (2025-04 推出) 把这套能力专门暴露给 AI agent 框架(LangChain/AutoGen 等),让 AI agent 可以**自主创建钱包 → 接收/发送 USDC → 调用 DeFi 合约**。AgentCore 集成后,AWS 上的 Bedrock agent 默认通过 CDP 或 Privy 拿到钱包能力——**AI agent on-chain 支付的 50%+ 流量预计经过 CDP/Privy**。
+CDP は「Web3 統合」を「数ヶ月の開発 + 自己構築インフラ」から「数分の API 統合」へと圧縮する。開発者は SDK の 1 行で自社プロダクトに onchain ウォレットを組み込める([[fintech/embedded-wallet-fintech-disintermediation-overview|MPC 埋込ウォレットモデル]] + email/social ログイン + [[systems/erc-4337-overview|ERC-4337]] スマートコントラクトウォレット + 法定通貨 onramp + [[fintech/usd-stablecoin-interchange|USDC]] gas-free transfer を一体化)。AgentKit(2025-04 リリース)はこれらの能力を AI agent フレームワーク(LangChain/AutoGen 等)向けに専用公開し、AI agent が **自律的にウォレットを作成 → USDC を送受信 → DeFi コントラクトを呼び出す** ことを可能にする。AgentCore 統合後、AWS 上の Bedrock agent はデフォルトで CDP または Privy 経由でウォレット機能を取得する — **AI agent on-chain 決済の 50%+ のトラフィックが CDP/Privy を経由すると見込まれる**。
 
 ## Origin & evolution
 
-CDP 前身 = Coinbase Cloud (B2B 基础设施) + Coinbase Wallet API,2023-Q4 重新打包为 CDP。2024-Q3 Smart Wallets 上线 (Coinbase 自研 ERC-4337,与 Base Paymaster 深度集成)。2025-04 **AgentKit** 上线专门服务 AI agent。2025-Q3 Stripe 收购 Privy,确立 CDP 与 Privy 为 embedded wallet 双寡头。**2025-12 AWS Bedrock AgentCore 正式集成 CDP + Privy** 是 CDP 战略最大里程碑——把 AI agent on-chain 经济的入口下沉到 AWS 默认层。2026-Q1 CDP × Base × USDC × Onramp 闭环完成,**实现"零滑点零 gas" 用户体验**。
+CDP の前身は Coinbase Cloud(B2B インフラ) + Coinbase Wallet API で · 2023-Q4 に CDP として再パッケージされた。2024-Q3 Smart Wallets ローンチ(Coinbase 自社開発の ERC-4337、Base Paymaster と深く統合)。2025-04 **AgentKit** をリリースし AI agent 向け専用サービスを提供。2025-Q3 Stripe が Privy を買収し · CDP と Privy が embedded wallet の二強として確立。**2025-12 AWS Bedrock AgentCore が CDP + Privy を正式統合** が CDP 戦略最大のマイルストーン — AI agent on-chain 経済の入口を AWS のデフォルト層に降ろした。2026-Q1 CDP × Base × USDC × Onramp の閉ループが完成し · **「ゼロスリッページ・ゼロガス」のユーザー体験を実現**した。
 
 ## Counterpoints
 
-CDP 默认绑定 Base / USDC = Coinbase 控制色彩强 · 与 Privy 的 "多链中立 + 多稳定币" 设计哲学相反,**真正中立的 AI agent 开发者可能更倾向 Privy**。Base 中心化倾向 (Coinbase 单一 sequencer + cbBTC + Aerodrome 大股东) 让 CDP 在受监管 enterprise 客户中存在合规审视风险。Magic / Web3Auth / Reown (前 WalletConnect) 仍占 embedded wallet 长尾市场。AWS AgentCore 默认双 provider 意味着 CDP 必须**持续与 Privy 价格 + DX 竞争**,无法躺收。
+CDP は Base / USDC にデフォルトでバインドされており = Coinbase の支配色が強い · Privy の「マルチチェーン中立 + マルチステーブルコイン」設計哲学とは正反対。**真に中立な AI agent 開発者は Privy を好む可能性が高い**。Base の中央集権性向(Coinbase の単一 sequencer + cbBTC + Aerodrome の大株主)は · 規制対象エンタープライズ顧客における CDP のコンプライアンス審査リスクとなる。Magic / Web3Auth / Reown(旧 WalletConnect)は依然として embedded wallet のロングテール市場を占める。AWS AgentCore のデフォルトデュアル provider は · CDP が **継続的に Privy と価格 + DX で競争** する必要があることを意味し · 寝かせ収益にはならない。
 
 ## Open questions
 
-CDP 与 Base 的耦合在 2027 Base 完全 decentralize sequencer 后会否解开?AgentKit 在 [[systems/erc-7702-overview|ERC-7702]] (EIP-7702 + [[systems/erc-7702-vs-erc-4337|7702/4337 hybrid]]) 普及后,如何处理 EOA → Smart Account 迁移?CDP 是否会单独 IPO 或被剥离为独立子公司?
+CDP と Base の結合は 2027 に Base が sequencer を完全 decentralize した後に解けるか?AgentKit は [[systems/erc-7702-overview|ERC-7702]](EIP-7702 + [[systems/erc-7702-vs-erc-4337|7702/4337 hybrid]])普及後、EOA → Smart Account 移行をどう扱うか?CDP は単独で IPO するか、独立子会社として分離されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总览]]
-- [[agent-economy/ai-agent-payment-protocols-seven-layers|AI Agent 支付协议七层]]
-- [[agent-economy/ap2-overview|AP2 Protocol 总览]]
-- [[fintech/cbbtc-institutional-btc-wrapper|cbBTC 包装 BTC]]
-- [[exchanges/vetoken-host-protocol-flywheel|veToken 主导方飞轮]]
+- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル総覧]]
+- [[agent-economy/ai-agent-payment-protocols-seven-layers|AI Agent 決済プロトコル7層]]
+- [[agent-economy/ap2-overview|AP2 Protocol 総覧]]
+- [[fintech/cbbtc-institutional-btc-wrapper|cbBTC ラップ BTC]]
+- [[exchanges/vetoken-host-protocol-flywheel|veToken ホストプロトコルのフライホイール]]
 <!-- /wiki-links:managed -->
 
 ## Sources

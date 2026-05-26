@@ -1,10 +1,10 @@
 ---
-title: CBDC 多层架构概览 · 双层 / 直接 / token-based 三范式
-aliases: [cbdc-multi-tier-architecture-overview, CBDC tiered architecture overview, 多层 CBDC 概览]
+title: CBDC 多層アーキテクチャ概要 · 二層 / 直接 / token-based の三パラダイム
+aliases: [cbdc-multi-tier-architecture-overview, CBDC tiered architecture overview, 多層 CBDC 概要]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, cbdc, e-cny, drex, digital-euro, monetary-architecture]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# CBDC 多层架构概览
+# CBDC 多層アーキテクチャ概要
 
 
 ## Wiki route
@@ -25,55 +25,55 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> CBDC(央行数字货币)按发行架构分三范式:**双层架构**(央行 → 商行 → 用户 · 如中国 e-CNY)、**直接 CBDC**(央行直接对用户 · 仅理论)、**token-based 多层架构**(央行 + 商行代币化存款分层 · 如巴西 DREX / 欧元数字)。架构选择反映央行对金融中介存续 / 货币主权 / 隐私 / 跨境互操作的根本判断。
+> CBDC（中央銀行デジタル通貨）は発行アーキテクチャにより 3 つのパラダイムに分類される: **二層アーキテクチャ**（中央銀行 → 商業銀行 → ユーザー · 中国 e-CNY など）、**直接 CBDC**（中央銀行が直接ユーザーへ · 理論上のみ）、**token-based 多層アーキテクチャ**（中央銀行 + 商業銀行トークン化預金の分層 · ブラジル DREX / デジタル・ユーロなど）。アーキテクチャ選択は中央銀行による金融仲介の存続 / 通貨主権 / プライバシー / クロスボーダー相互運用性に対する根本的判断を反映する。
 
 ## Key facts
 
-- 2025 末全球 130+ 央行研究 CBDC,30+ 进入 Pilot 阶段 ^[extracted]
-- 仅 4 国正式发行零售 CBDC(中 / 巴 / 尼 / 牙买加) ^[extracted]
-- 所有 G10 央行均选择**双层或多层架构**,无一选择直接 CBDC ^[extracted]
-- 巴西 DREX 是 token-based 多层范式的最完整商业实验 ^[extracted]
-- 中国 e-CNY 是双层架构规模最大实证案例(2025 累计 ¥7 万亿+) ^[extracted]
-- 欧元数字持有上限 €3000-4000(避免银行存款流失) ^[extracted]
+- 2025 年末時点で世界 130+ の中央銀行が CBDC を研究、30+ が Pilot 段階に入る ^[extracted]
+- リテール CBDC を正式に発行したのは 4 か国のみ（中国 / ブラジル / ナイジェリア / ジャマイカ） ^[extracted]
+- すべての G10 中央銀行が **二層または多層アーキテクチャ** を選択、直接 CBDC を採用したものはない ^[extracted]
+- ブラジル DREX は token-based 多層パラダイムにおける最も完成度の高い商業的実験 ^[extracted]
+- 中国 e-CNY は二層アーキテクチャの最大規模実証ケース（2025 年累計 ¥7 兆元超） ^[extracted]
+- デジタル・ユーロの保有上限 €3000-4000（銀行預金流出を回避） ^[extracted]
 
 ## Mechanism / How it works
 
-三种架构核心差异在**账户层级**:
+3 種類のアーキテクチャの中核的差異は **アカウントの階層** にある:
 
-| 维度 | 双层 | 直接 | token-based 多层 |
+| 次元 | 二層 | 直接 | token-based 多層 |
 |---|---|---|---|
-| 央行账户数 | 少(对商行) | 多(全民) | 中(对商行 + 代币池) |
-| 商业银行作用 | 完整(KYC + 分发) | 边缘化或消失 | 演化为代币化存款发行方 |
-| 隐私 | 商行可见,央行受限 | 央行全可见 | 通过加密层可调 |
-| 技术 | 账户为主 | 账户或代币 | 代币 + 智能合约 |
-| 跨境 | 弱 | 极弱 | 强(与 wholesale CBDC 互操作) |
+| 中央銀行口座数 | 少（商業銀行向け） | 多（国民全員） | 中（商業銀行 + トークンプール向け） |
+| 商業銀行の役割 | 完結（KYC + 配布） | 周縁化または消失 | トークン化預金発行体へと進化 |
+| プライバシー | 商業銀行は見える、中央銀行は制限 | 中央銀行は完全に可視 | 暗号レイヤーで調整可能 |
+| 技術 | アカウント中心 | アカウントまたはトークン | トークン + スマートコントラクト |
+| クロスボーダー | 弱い | 極めて弱い | 強い（ホールセール CBDC との相互運用） |
 
-**架构选择的政治含义**:直接 CBDC 让商业银行边缘化 → 金融中介崩塌 → 央行承担信贷分配 → 政治上不可接受。**所有主要央行都选择保护银行存款基础**(双层或多层)。token-based 多层是新兴中间路径,通过让商业银行发行代币化存款,既保留中介又引入可编程性 —— 与 [[fintech/institutional-stablecoin-deposit-token-thesis|机构 SC 与 deposit token 论题]] 的逻辑同构。
+**アーキテクチャ選択の政治的含意**: 直接 CBDC は商業銀行を周縁化する → 金融仲介の崩壊 → 中央銀行が信用配分を担う → 政治的に受け入れ不可能。**主要な中央銀行はすべて銀行預金基盤の保護を選択する**（二層または多層）。token-based 多層は新興の中間路線であり、商業銀行にトークン化預金を発行させることで仲介を保持しつつプログラマビリティを導入する — [[fintech/institutional-stablecoin-deposit-token-thesis|機関 SC と deposit token のテーゼ]] のロジックと同型構造。
 
 ## Origin & evolution
 
-2014 中国 PBoC 启动 e-CNY 研究(全球最早大规模 CBDC 项目)。2017-2019 BIS / IMF 等多边组织提出 "央行数字货币" 概念框架。2020 ECB 发数字欧元报告,确立"双层 / 直接"二分法。2022.04 中国 e-CNY 试点扩至 23 城,双层架构规模化验证。2023-2024 巴西 DREX(基于 Hyperledger Besu)+ 欧元数字立法启动 → token-based 多层范式成熟。2025-2026 G10 央行通过 [[fintech/bis-project-agora-overview|Agorá]] 协调 wholesale CBDC,零售 CBDC 各国独立推进 → "架构选择决定主权空间"成为央行间共识。日本侧 DC-JPY 试点见 [[fintech/jp-stablecoin-dcjpy|DC-JPY 概览]]。
+2014 中国 PBoC が e-CNY 研究を開始（グローバル最古の大規模 CBDC プロジェクト）。2017-2019 BIS / IMF などの多国間組織が「中央銀行デジタル通貨」概念枠組みを提唱。2020 ECB がデジタル・ユーロ報告書を発表し、「二層 / 直接」二分法を確立。2022.04 中国 e-CNY 試験運用が 23 都市に拡大、二層アーキテクチャが大規模に検証された。2023-2024 ブラジル DREX（Hyperledger Besu ベース） + デジタル・ユーロ立法スタート → token-based 多層パラダイムが成熟。2025-2026 G10 中央銀行は [[fintech/bis-project-agora-overview|Agorá]] を通じて wholesale CBDC を協調、リテール CBDC は各国独自に推進 → 「アーキテクチャ選択が主権空間を決定する」が中央銀行間のコンセンサスに。日本側 DC-JPY 試験運用は [[fintech/jp-stablecoin-dcjpy|DC-JPY 概要]] 参照。
 
 ## Counterpoints
 
-- "所有 G10 都选双层 / 多层"是 2026 快照 —— 数字欧元等仍可能转向更接近直接 CBDC 的模型
-- 中国 e-CNY 用户活跃度数据混乱(¥7 万亿是累计交易额,实际活跃 wallet 数远低于宣传)
-- 巴西 DREX 试点局限,商业化时间表反复延期
-- 直接 CBDC 在小国(如尼日利亚 eNaira)实际已尝试,失败率高但不代表理论上完全不可行
+- 「すべての G10 が二層 / 多層を選択」は 2026 年スナップショット — デジタル・ユーロなどは依然として直接 CBDC モデルに近づける可能性
+- 中国 e-CNY のユーザーアクティビティデータは混乱（¥7 兆元は累計取引額、実際のアクティブウォレット数は宣伝よりはるかに低い）
+- ブラジル DREX 試験運用は限定的、商業化のタイムテーブルは繰り返し延期
+- 直接 CBDC は小国（ナイジェリア eNaira など）で実際に試行されており、失敗率は高いが理論上完全に不可能とは限らない
 
 ## Open questions
 
-- 美国会否最终选择 wholesale CBDC + 私营稳定币组合(实质替代零售 CBDC)?
-- token-based 多层架构在监管复杂度上的实际成本如何?
-- 中国 e-CNY 双层架构是否会演化加入 token-based 多层元素?
+- 米国は最終的に wholesale CBDC + 民間 stablecoin の組み合わせ（実質的にリテール CBDC の代替）を選ぶか?
+- token-based 多層アーキテクチャの規制複雑性における実際のコストは?
+- 中国 e-CNY の二層アーキテクチャは token-based 多層要素を取り込む方向に進化するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|三大现役范式 · e-CNY / DREX / 数字欧元]]
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|架构选择 4 核心权衡]]
+- [[fintech/cbdc-multi-tier-architecture-three-paradigms|3 大現役パラダイム · e-CNY / DREX / デジタル・ユーロ]]
+- [[fintech/cbdc-multi-tier-architecture-tradeoffs|アーキテクチャ選択 4 大トレードオフ]]
 - [[fintech/bis-project-agora-overview|BIS Project Agorá]]
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能アンバンドリング 5 層]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -1,10 +1,10 @@
 ---
-title: 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构
+title: 三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由
 aliases: [matt-huang-triple-role-coi, triple-role-coi-template, vc-gp-board-ceo-coi]
 domain: business
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, coi, vc, governance, hedge, case-study]
@@ -12,7 +12,7 @@ sources: []
 status: confirmed
 ---
 
-# 三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角
+# 三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEO 三角構造
 
 
 ## Wiki route
@@ -21,40 +21,40 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 ## Key facts
 
-- VC 联合创始人 = 长期投资视角 + 不追短期 token speculation ^[extracted]
-- 大客户 Board = 内部 access + 监管合规优先 + SEC 风险规避 ^[extracted]
-- 被投公司 CEO = 亲手做产品 + 资源直接调用前两栏 ^[extracted]
-- 三栏共享时,任何一栏失败可由另外两栏承接,组合赢家与被困赢家的 hybrid ^[inferred]
-- Matt Huang 模板:Paradigm($13B AUM)+ Stripe Board(2024)+ Tempo CEO(2025) ^[extracted]
-- 被投公司"不发币"等长期承诺,只有这种身份结构才能给出可信度 ^[inferred]
+- VC共同創業者 = 長期投資視座 + 短期token speculationを追わない ^[extracted]
+- 大口顧客のBoard = 内部access + コンプライアンス優先 + SECリスク回避 ^[extracted]
+- 被投資先のCEO = プロダクトを直接手掛け + 前2身分のリソースを直接動員可能 ^[extracted]
+- 3身分を1人が共有するとき、いずれか1身分の失敗を他の2身分が受け止められる、組み合わせ勝者と被困勝者のハイブリッド構造 ^[inferred]
+- Matt Huangのテンプレート:Paradigm($13B AUM)+ Stripe Board(2024)+ Tempo CEO(2025) ^[extracted]
+- 被投資先の「token発行を行わない」等の長期コミットメントは、この身分構造でしか信頼性を獲得できない ^[inferred]
 
 ## Mechanism / How it works
 
-三身份不是 conflict of interest 的累加,而是相互"反向解锁"。**VC 身份**让 CEO 在被投公司无需短期估值套现 → 可承诺"5-10 年不发币"(参考 [[business/larry-fink-blackrock-digital-asset-template|Larry Fink 三角影响力]] 模板);**大客户 Board 身份**让被投公司可以提前对接合规通道 + 推动产品集成(如 Tempo + Stripe Connect)→ 监管对手无法用"独立小公司"理由施压;**CEO 身份**让前两栏的资源不被中间层稀释(对比 [[business/christine-moy-talent-signal-jpm-apollo|人才流向信号]] 的解读)。任意单一身份持有人都做不到:纯 VC 不进产品、纯 Director 不主导链路、纯 CEO 没有大客户内线。三栏组合 = 单人形成战略锁。
+3身分は利益相反の積み増しではなく、相互に「逆方向に解錠する」関係にある。**VC身分**により被投資先のCEOは短期的な評価額換金を必要としない → 「5-10年token発行を行わない」という公約が可能になる(参考:[[business/larry-fink-blackrock-digital-asset-template|Larry Fink 三角影響力]] テンプレート)。**大口顧客Board身分**により被投資先はコンプライアンス経路への先行接続 + プロダクト統合の推進(例:Tempo + Stripe Connect)が可能 → 規制対抗側が「独立した小企業」を理由に圧力をかけられない。**CEO身分**は前2身分のリソースを中間層で希釈させない(対比対象:[[business/christine-moy-talent-signal-jpm-apollo|人材流動シグナル]] の読み方)。いずれか単一身分の保有者にはどれも実現不能:純VCはプロダクトに入らない、純Directorはリンクを主導しない、純CEOには大口顧客の内部回線がない。3身分の組み合わせ = 1人で戦略的ロックを形成。
 
-诊断模板:当某 crypto 项目 CEO 同时是 top-tier crypto VC 的 partner 和某传统金融大客户的 director,**不要把这视为 COI risk,而要视为该公司不发币 / 慢上市 / 不抢估值的真正解释**。
+診断テンプレート:あるcryptoプロジェクトのCEOが同時にtop-tier crypto VCのpartnerでありかつ伝統金融大口顧客のdirectorでもある場合、**それをCOIリスクと見做すのではなく、そのプロジェクトがtoken発行を行わない / 上場を急がない / 評価額の張り合いをしない、その本当の説明として読むべき**。
 
 ## Origin & evolution
 
-模板源头是 Andreessen Horowitz / Sequoia 早期做"GP + Board" 双身份(投后管理需要),但只有 crypto 时代才出现"三栏单人"。原因:crypto 项目"是否发 token"是估值与监管最大变量,而 token-skipping 承诺只有具备前两栏 hedge 的人才有可信度。2024-2025 出现 3 个雏形:Matt Huang(Paradigm+Stripe+Tempo)/ Brian Armstrong(雏形,缺独立 VC)/ Fred Ehrsam(Paradigm + 退出 Coinbase Board)。Matt Huang 是唯一完整版。
+テンプレートの起源はAndreessen Horowitz / Sequoia初期の「GP + Board」二身分構造(投資後の運営支援の必要性)。しかし「3身分を1人で持つ」形はcrypto時代になって初めて出現。理由:cryptoプロジェクトにとって「tokenを発行するか否か」は評価額と規制の最大変数であり、token-skipping公約は前2身分のヘッジを持つ人物にしか信頼性が伴わないため。2024-2025年に3つの雛形が出現:Matt Huang(Paradigm+Stripe+Tempo)/ Brian Armstrong(雛形だが独立VCを欠く)/ Fred Ehrsam(Paradigm + Coinbase Board退任)。Matt Huangは唯一の完成形。
 
 ## Counterpoints
 
-- 监管层(特别是 SEC / CFPB / OCC)未来可能强制 COI 披露,削弱三身份模板效力
-- 三栏共享人选稀缺(crypto VC GP + 传统大客户 Board + 主动出来做 CEO 极难同时具备)→ 模板**复制成本极高**而非"普遍可用"
-- 三栏中任一栏 reputation 受损时,会反向连累另两栏,失败成本也是三倍
+- 規制側(特にSEC / CFPB / OCC)が将来COI開示を強制する可能性 → 3身分テンプレートの実効力を削ぐ
+- 3身分を共有できる人材は希少(crypto VC GP + 伝統大口顧客Board + 自らCEOに立つ意思)→ テンプレートの**複製コストは極めて高い**(「広く利用可能」ではない)
+- 3身分のいずれか1身分のreputationが毀損した場合、他の2身分にも逆連鎖し失敗コストも3倍
 
 ## Open questions
 
-- 后 Matt Huang 时代,谁会成为下一个 "三栏单人" 范本?(候选:Sam Altman + OpenAI + Worldcoin?)
-- 监管会强制 disclosure 还是会默许?三栏模板的法律边界尚未测试
-- 三栏全部退出时(预计 3-5 年后)token 发行将如何重新定价?
+- ポストMatt Huang期、誰が次の「3身分1人」モデルとなるか(候補:Sam Altman + OpenAI + Worldcoin?)
+- 規制は開示強制に進むか黙認に留まるか — 3身分テンプレートの法的境界は未だ未試験
+- 3身分が全て退場した時点(3-5年後を予想)でtoken発行はどう再価格化されるか
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[business/christine-moy-talent-signal-jpm-apollo|JPM → Apollo 人才流向信号]]
-- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink 三角影响力]]
+- [[business/christine-moy-talent-signal-jpm-apollo|JPM → Apollo 人材流動シグナル]]
+- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink 三角影響力]]
 <!-- /wiki-links:managed -->
 
 ## Sources

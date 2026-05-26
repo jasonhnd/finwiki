@@ -1,10 +1,10 @@
 ---
-title: 跨链五极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 九维度
+title: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元
 aliases: [cross chain five pole comparison matrix, cctp ccip layerzero hyperlane wormhole comparison, bridge protocol nine dimensions matrix]
 domain: systems
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [systems, cross-chain, bridge, cctp, ccip, layerzero, hyperlane, wormhole, comparison-matrix]
@@ -19,78 +19,78 @@ sources:
   - https://tokenterminal.com/
 ---
 
-# 跨链五极对照矩阵 · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole 九维度
+# クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview]] as the parent overview and [[systems/cross-chain-four-poles-selection-decision|跨链选型决策树]] for matched protocol selection. Pair with each pole's standalone entry — [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] — and read it against [[fintech/usd-stablecoin-interchange]] for the stablecoin transfer context that drives ≥60% of cross-chain volume. Wormhole has no standalone entry yet (TBD).
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview]] as the parent overview and [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] for matched protocol selection. Pair with each pole's standalone entry — [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] — and read it against [[fintech/usd-stablecoin-interchange]] for the stablecoin transfer context that drives ≥60% of cross-chain volume. Wormhole has no standalone entry yet (TBD).
 
 ## Key facts
 
-- CCTP V2 Fast Transfer 8-20 秒 finality(V1 是 10-20 分钟)· 仅 USDC · 12+ chains 含 Arc / Sonic ^[extracted]
-- CCIP Active Risk Management(RMN)双层验证 · 2024-2025 SWIFT / DTCC / J.P. Morgan Kinexys pilot 落地 · ~25 chains ^[extracted]
-- LayerZero v2 引入 Lightweight Message Library + DVN modular · 100+ chains · 累计 messages 5B+ · 7B+ USD TVL 流通 ^[extracted]
-- Hyperlane permissionless ISM(Interchain Security Module)· 2024.07 Eclipse mainnet · 任何 EVM/SVM/Move/Cosmos chain 可自助部署 ^[extracted]
-- Wormhole 19-of-19 Guardian 委员会 + 2024 ZK Verifier + Native Token Transfers(NTT)+ CCTP integration · Solana 生态 dominant · 30+ chains ^[extracted]
+- CCTP V2 Fast Transfer 8-20 秒 finality(V1 は 10-20 分)· USDC のみ · 12+ chains で Arc / Sonic を含む ^[extracted]
+- CCIP Active Risk Management(RMN)二層検証 · 2024-2025 SWIFT / DTCC / J.P. Morgan Kinexys パイロット稼働 · ~25 chains ^[extracted]
+- LayerZero v2 が Lightweight Message Library + DVN modular を導入 · 100+ chains · 累計 messages 5B+ · 7B+ USD TVL 流通 ^[extracted]
+- Hyperlane permissionless ISM(Interchain Security Module)· 2024.07 Eclipse mainnet · 任意の EVM/SVM/Move/Cosmos chain がセルフデプロイ可能 ^[extracted]
+- Wormhole 19-of-19 Guardian 委員会 + 2024 ZK Verifier + Native Token Transfers(NTT)+ CCTP integration · Solana エコシステムで dominant · 30+ chains ^[extracted]
 
 ## Mechanism / How it works
 
-**九维度对照矩阵**(2026-Q2 状态):
+**9 次元対照マトリクス**(2026-Q2 状態):
 
-| 维度 | CCTP V2 | CCIP | LayerZero v2 | Hyperlane | Wormhole |
+| 次元 | CCTP V2 | CCIP | LayerZero v2 | Hyperlane | Wormhole |
 |---|---|---|---|---|---|
-| **Messaging 模型** | Burn-mint(USDC only)· Circle 链下 attestation 签名 | Oracle DON + Risk Management Network · Lock-mint or 通用 messaging | DVN M-of-N(app 配置)· Lightweight ULN · 通用 messaging | Permissionless · ISM 客户选(multisig/POS/optimistic/ZK)· Lock-mint or messaging | Guardian 19-of-19 多签 + ZK Verifier · Lock-mint + Burn-mint(NTT) |
-| **Security 模型** | Circle 中心化 attester · 监管合规背书 | RMN 独立委员会(2-of-N veto) + Chainlink OCR · 双层冗余 | DVN 集合(默认 LayerZero Labs + Google Cloud + Polyhedra ZK)· 客户可换 | Modular · 默认 multisig · 可选 Eigen restaking / ZK / optimistic | Guardian set 19 节点(Jump / Everstake / Forbole 等)· ZK Verifier 补盖 |
-| **Settlement 保证** | Fast Transfer 8-20 秒 · Standard 10-20 分钟 · 不可逆 | 通常 7-20 分钟(含 risk window)· 高金额可设 delay | 取决于 DVN 配置 · 最低单 DVN 几秒 · 高安全多 DVN 分钟级 | ISM 决定 · multisig 1-2 块 · optimistic 30 分钟挑战窗 | ~15 分钟 finality(等 source chain finality)+ Guardian 签名 |
-| **链覆盖(2026)** | 12+ chains(EVM L1/L2 主流 + Arc + Sonic + Aptos)· 全 EVM 中心 | ~25 chains(EVM L1/L2 + 部分 non-EVM 如 Solana 试点) | 100+ chains(EVM 全面 + Aptos / Sui / Solana / TON / Tron) | 任意 chain 可 self-deploy · 主推 Eclipse / Celestia / Cosmos / SVM 长尾 | 30+ chains(Solana 强 + EVM 全面 + Sui / Aptos / Near / Algorand) |
-| **机构采纳** | Circle 原生 USDC · Coinbase · Stripe Tempo · MoneyGram · 监管友好 | SWIFT messaging pilot · DTCC Smart NAV · J.P. Morgan Kinexys · ANZ A$DC · BNY · 强 TradFi | Stargate / Pendle / LiFi / Trader Joe · 部分 fintech(PayPal PYUSD bridging) | Eclipse / Celestia / Renzo / Karak · DeFi-native 长尾 · 机构采纳弱 | Jito / MakerDAO / Lido · Solana 头部应用 · Uniswap cross-chain governance |
-| **Gas/费用** | 用户付 source chain gas + Circle Fast Transfer fee(~$0.10-1)· USDC 计价 | 用户付 LINK 或 native token · 双费(execution + risk verification)· 高金额机构等级 | 用户付 source gas + DVN fee + destination execution(任意 token 计费 via Pay Master) | 用户付 source gas + Hyperlane gas oracle 估算 destination · 任意 token · 自营 relayer 可省 | 用户付 source gas + Wormhole fee + destination gas drop(NTT)· VAA 中继可由第三方代付 |
-| **Governance / 升级** | Circle Inc.(centralized · 受 OFAC + §501 约束) | Chainlink Foundation + DAO 提案 + RMN 独立委员会(Smartcon 治理) | LayerZero Labs(团队治理 · ZRO token 未来分权) | Hyperlane DAO + HYPER token(2024 上线)· permissionless 改动需 ISM-level 客户同意 | Wormhole DAO + W token(2024)· Guardian set 改动需 ≥2/3 投票 · Foundation 协调 |
-| **历史事件 / 审计** | Circle 单点信任未被攻破 · 审计 OpenZeppelin / Halborn / ChainSecurity · 2025 SOC2 | 无重大 incident · Chainlink 多次审计 · RMN 独立审计 · CertiK / Trail of Bits | 2024.01 短暂 DVN 配置 bug(无资金损失)· 多次审计 Zellic / Trail of Bits · DVN diversity 防御深度 | 2024 Eclipse mainnet 上线后无重大 incident · audits Trail of Bits / Zellic / OpenZeppelin · permissionless 风险随 ISM 选择 | **2022.02 Solana 桥被盗 $325M**(Jump Crypto 全额垫付)· 2024 ZK Verifier 上线后安全升级 · Guardian incentive alignment 持续争议 |
-| **最佳用例** | 纯 USDC 跨链调度 · institutional 合规 stablecoin transfer | Bank-grade tokenized asset settlement · DvP / PvP · 高金额低频次 | General-purpose dApp omnichain · Stargate-style aggregator · 长尾 token bridging | App-chain / rollup self-sovereign 部署 · 非 EVM 一等公民 · permissionless ISM tradeoff | Solana 中心 cross-chain · NFT bridge · DAO governance messaging · NTT 替代 wrapped token |
+| **Messaging モデル** | Burn-mint(USDC のみ)· Circle オフチェーン attestation 署名 | Oracle DON + Risk Management Network · Lock-mint または汎用 messaging | DVN M-of-N(アプリ設定)· Lightweight ULN · 汎用 messaging | Permissionless · ISM 顧客選択(multisig/POS/optimistic/ZK)· Lock-mint または messaging | Guardian 19-of-19 マルチシグ + ZK Verifier · Lock-mint + Burn-mint(NTT) |
+| **Security モデル** | Circle 中央集権 attester · 規制コンプライアンス背書 | RMN 独立委員会(2-of-N veto) + Chainlink OCR · 二層冗長 | DVN 集合(default LayerZero Labs + Google Cloud + Polyhedra ZK)· 顧客変更可能 | Modular · default multisig · オプション Eigen restaking / ZK / optimistic | Guardian set 19 ノード(Jump / Everstake / Forbole 等)· ZK Verifier 補完 |
+| **Settlement 保証** | Fast Transfer 8-20 秒 · Standard 10-20 分 · 不可逆 | 通常 7-20 分(risk window 含む)· 高額は delay 設定可能 | DVN 設定依存 · 最低単 DVN 数秒 · 高セキュリティマルチ DVN 分単位 | ISM 決定 · multisig 1-2 ブロック · optimistic 30 分 challenge window | ~15 分 finality(source chain finality 待ち)+ Guardian 署名 |
+| **チェーンカバレッジ(2026)** | 12+ chains(EVM L1/L2 主流 + Arc + Sonic + Aptos)· 全 EVM 中心 | ~25 chains(EVM L1/L2 + 一部 non-EVM 例えば Solana 試験中) | 100+ chains(EVM 全面 + Aptos / Sui / Solana / TON / Tron) | 任意 chain がセルフデプロイ可能 · 主推 Eclipse / Celestia / Cosmos / SVM long-tail | 30+ chains(Solana 強 + EVM 全面 + Sui / Aptos / Near / Algorand) |
+| **機関採用** | Circle ネイティブ USDC · Coinbase · Stripe Tempo · MoneyGram · 規制フレンドリー | SWIFT messaging パイロット · DTCC Smart NAV · J.P. Morgan Kinexys · ANZ A$DC · BNY · 強 TradFi | Stargate / Pendle / LiFi / Trader Joe · 一部 fintech(PayPal PYUSD bridging) | Eclipse / Celestia / Renzo / Karak · DeFi-native long-tail · 機関採用弱 | Jito / MakerDAO / Lido · Solana 大手アプリ · Uniswap cross-chain governance |
+| **Gas/費用** | ユーザーが source chain gas + Circle Fast Transfer fee を支払う(~$0.10-1)· USDC 計価 | ユーザーが LINK または native token を支払う · ダブル fee(execution + risk verification)· 高額機関グレード | ユーザーが source gas + DVN fee + destination execution を支払う(任意 token 計費 via Pay Master) | ユーザーが source gas + Hyperlane gas oracle 推定 destination を支払う · 任意 token · 自営 relayer で節約可能 | ユーザーが source gas + Wormhole fee + destination gas drop(NTT)· VAA リレーは第三者代行可能 |
+| **Governance / アップグレード** | Circle Inc.(centralized · OFAC + §501 拘束) | Chainlink Foundation + DAO 提案 + RMN 独立委員会(Smartcon ガバナンス) | LayerZero Labs(チームガバナンス · ZRO token は将来分権) | Hyperlane DAO + HYPER token(2024 ローンチ)· permissionless 改修は ISM-level 顧客同意必要 | Wormhole DAO + W token(2024)· Guardian set 変更は ≥2/3 投票必要 · Foundation 調整 |
+| **過去事件 / 監査** | Circle 単点信頼は未だ破られず · 監査 OpenZeppelin / Halborn / ChainSecurity · 2025 SOC2 | 重大 incident なし · Chainlink 複数回監査 · RMN 独立監査 · CertiK / Trail of Bits | 2024.01 一時的 DVN 設定バグ(資金損失なし)· 複数回監査 Zellic / Trail of Bits · DVN diversity 防御深度 | 2024 Eclipse メインネット稼働後重大 incident なし · audits Trail of Bits / Zellic / OpenZeppelin · permissionless リスクは ISM 選択次第 | **2022.02 Solana ブリッジで $325M 盗難**(Jump Crypto 全額補填)· 2024 ZK Verifier 稼働後セキュリティアップグレード · Guardian incentive alignment は継続的議論 |
+| **最適ユースケース** | 純 USDC クロスチェーン調達 · institutional 規制対応ステーブルコイン transfer | Bank-grade トークン化資産 settlement · DvP / PvP · 高額低頻度 | General-purpose dApp omnichain · Stargate スタイル aggregator · long-tail token bridging | App-chain / rollup self-sovereign デプロイ · 非 EVM ファーストクラス · permissionless ISM tradeoff | Solana 中心 cross-chain · NFT bridge · DAO governance messaging · NTT が wrapped token を置換 |
 
-**矩阵读法**:横向看一个协议的全维度画像 · 纵向看同一维度五极差异。CCTP V2 是窄而深(只做 USDC 但极致优化)· CCIP 是 institutional-grade(贵但合规)· LayerZero v2 是宽而灵(覆盖最广但 DVN 配置即责任)· Hyperlane 是 self-service permissionless · Wormhole 是 Solana 中心 + Guardian 模型遗产。
+**マトリクスの読み方**:横方向で 1 プロトコルの全次元プロファイル · 縦方向で同一次元の 5 極差異を見る。CCTP V2 は狭く深い(USDC のみだが極限まで最適化)· CCIP は institutional-grade(高価だがコンプライアンス)· LayerZero v2 は広く柔軟(カバレッジ最大だが DVN 設定即責任)· Hyperlane はセルフサービス permissionless · Wormhole は Solana 中心 + Guardian モデル遺産。
 
-**典型组合**(实际 dApp 多桥并行):
+**典型的な組み合わせ**(実際の dApp は複数ブリッジを並用):
 - **Stripe Tempo / Arc**:CCIP(institutional default)+ CCTP V2(USDC fast)+ LayerZero(long-tail dApp)
-- **Coinbase Base**:CCTP V2(原生 USDC)+ LayerZero(Stargate)+ CCIP(部分机构客户)
-- **Eclipse / Celestia**:Hyperlane(self-deploy)+ Wormhole(Solana 流动性)
-- **Solana 头部 DeFi**:Wormhole(默认)+ CCTP V2(USDC) + LayerZero(EVM 接入)
+- **Coinbase Base**:CCTP V2(ネイティブ USDC)+ LayerZero(Stargate)+ CCIP(一部機関顧客)
+- **Eclipse / Celestia**:Hyperlane(セルフデプロイ)+ Wormhole(Solana 流動性)
+- **Solana 大手 DeFi**:Wormhole(default)+ CCTP V2(USDC) + LayerZero(EVM 接続)
 
 ## Origin & evolution
 
-2021-2022 跨链格局是 Wormhole / Multichain / Synapse 多家无序竞争 · 安全模型差异不显。2022 一连串 bridge hack(Ronin $625M · Wormhole $325M · BSC $570M · Nomad $190M)推动安全成为核心选型维度。2023 Chainlink CCIP 上线 · 借 oracle 品牌切 institutional layer。2024 LayerZero v2 重构 messaging library 引入 modular DVN · Hyperlane 主网启动 permissionless 模式 · Wormhole 增加 ZK Verifier 修复 Guardian-only 模型的弱点。
+2021-2022 クロスチェーン構図は Wormhole / Multichain / Synapse など複数の無秩序競争 · セキュリティモデル差は不明瞭。2022 一連のブリッジ hack(Ronin $625M · Wormhole $325M · BSC $570M · Nomad $190M)がセキュリティを中核選定次元に押し上げた。2023 Chainlink CCIP ローンチ · oracle ブランドで institutional layer を切り取り。2024 LayerZero v2 が messaging library を再構築し modular DVN を導入 · Hyperlane メインネット起動で permissionless モードへ · Wormhole が ZK Verifier 追加で Guardian-only モデルの弱点を修正。
 
-2025 CCTP V2 Fast Transfer + Hooks 让 USDC 调度成为 atomic primitive(8-20 秒)· 让通用桥在 USDC 场景失去价值。2026-Q1 五极格局固化为任务专精化矩阵 · 主流 dApp 同时集成 3-4 个桥按场景路由。Wormhole 的 NTT(Native Token Transfers)+ CCTP integration 是其重塑相关性的关键动作 · 让 Wormhole 不只是 "Solana 桥"。
+2025 CCTP V2 Fast Transfer + Hooks により USDC 調達がアトミック primitive(8-20 秒)となり · USDC シナリオでの汎用ブリッジの価値を奪った。2026-Q1 5 極構図はタスク専門特化マトリクスに固定 · 主流 dApp は同時に 3-4 ブリッジを統合しシナリオでルーティング。Wormhole の NTT(Native Token Transfers)+ CCTP integration は relevance 再構築の重要な施策 · Wormhole を「Solana ブリッジだけ」ではなくする。
 
 ## Counterpoints
 
-**"五极论"本身可疑**:实际上 CCTP V2 只做 USDC · 不是 general messaging · 与其他四极不在同一层。严格说应该是"四极(general)+ 一极(USDC-only)"。把它并列是因为在 stablecoin transfer 场景 CCTP V2 直接吞掉了通用桥的 60%+ volume。
+**「5 極論」自体が疑わしい**:実際 CCTP V2 は USDC しか担わず · 汎用 messaging ではない · 他の 4 極とは同じ層にない。厳密には「4 極(general)+ 1 極(USDC-only)」とすべき。並列に並べたのは、ステーブルコイン transfer シナリオで CCTP V2 が汎用ブリッジ volume の 60%+ を直接呑み込んだから。
 
-**CCIP institutional 标签是 oracle 品牌延伸**:Chainlink 的销售优势让 CCIP 拿到 SWIFT / DTCC / Kinexys pilot · 但技术上 RMN 仍是 Chainlink 控制的委员会 · 真去中心化程度未必比 Wormhole 19 Guardian 强。LayerZero DVN 客户端可配理论上更去中心化但实际多数 app 默认配置 = 委托 LayerZero Labs。
+**CCIP institutional ラベルは oracle ブランドの延長**:Chainlink の販売優位により CCIP は SWIFT / DTCC / Kinexys パイロットを獲得 · ただし技術的に RMN は依然 Chainlink 管理下の委員会で · 真の非中央集権化度は Wormhole 19 Guardian より強いとは限らない。LayerZero DVN クライアント設定は理論的により非中央集権だが · 実際には大半のアプリが default 設定 = LayerZero Labs に委任。
 
-**Hyperlane permissionless 是双刃剑**:任意人可部署带来低门槛但也意味着 app 开发者承担 100% security 责任 · 错配 ISM 直接亏损。CCIP / Wormhole / CCTP 的 "中心化" 反而是 institutional 看重的 backstop。
+**Hyperlane permissionless は諸刃の剣**:誰でもデプロイ可能で参入障壁が低いが · アプリ開発者が 100% セキュリティ責任を負う · ISM 誤設定で直接損失。CCIP / Wormhole / CCTP の「中央集権化」は逆に institutional が重視する backstop。
 
-**Wormhole 2022 hack 阴影**:虽然 Jump Crypto 全额垫付 $325M 且 ZK Verifier 后安全模型升级 · 但 institutional 客户仍倾向回避。Wormhole TVL 大部分来自 Solana 生态集中 · 难以在 EVM 高质量 dApp 中胜出 CCIP / LayerZero。
+**Wormhole 2022 hack の陰**:Jump Crypto が $325M を全額補填し ZK Verifier 後のセキュリティモデルアップグレードがあったが · institutional 顧客は依然回避する傾向。Wormhole TVL の大半は Solana エコシステム集中由来 · EVM 高品質 dApp で CCIP / LayerZero に勝つのは困難。
 
-跨链长期可能被 zk-rollup 原生互操作(Eclipse / Espresso shared sequencer · Polygon AggLayer · Optimism Superchain)取代 · 五极都面临结构性威胁。
+クロスチェーンは長期的に zk-rollup ネイティブ相互運用(Eclipse / Espresso shared sequencer · Polygon AggLayer · Optimism Superchain)に置換される可能性 · 5 極全てが構造的脅威に直面。
 
 ## Open questions
 
-CCTP V2 Hooks 推广速度是否让 LayerZero / Wormhole 在所有 USDC 场景失去价值 · 还是 general messaging 仍有不可替代位?CCIP institutional pilot 能否从 5-10 个客户扩到 50+ 而保持 risk grade?LayerZero v2 ZRO token 上线后治理是否真正分权?Hyperlane HYPER token + DAO 能否吸引 Eclipse / Celestia 外的旗舰 app?Wormhole 在 Solana 之外(EVM / Sui / Aptos)能否破圈到 institutional 客户?2027-2028 zk shared sequencer 成熟后五极中哪几极会被替代或合并?
+CCTP V2 Hooks の普及速度は LayerZero / Wormhole に全 USDC シナリオで価値を失わせるか · 汎用 messaging に代替不可能なポジションは残るか?CCIP institutional パイロットは 5-10 顧客から 50+ に拡大し risk grade を維持できるか?LayerZero v2 ZRO token ローンチ後にガバナンスは真に分権するか?Hyperlane HYPER token + DAO は Eclipse / Celestia 以外のフラッグシップアプリを引き付けられるか?Wormhole は Solana 以外(EVM / Sui / Aptos)で institutional 顧客に breakthrough できるか?2027-2028 zk shared sequencer 成熟後に 5 極のうちどれが置換または統合されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/cross-chain-four-poles-overview|跨链四极架构 · 概览]]
-- [[systems/cross-chain-four-poles-selection-decision|跨链选型决策树]]
+- [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極アーキテクチャ · 概観]]
+- [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]]
 - [[systems/cctp-v2-overview|CCTP V2 Overview]]
 - [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP Institutional Messaging]]
 - [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 Omnichain Messaging]]
 - [[systems/hyperlane-overview|Hyperlane Overview]]
-- [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero/CCIP 路线对照]]
-- [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton 公私链对峙]]
+- [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero/CCIP 路線対照]]
+- [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton 公開/プライベートチェーン対峙]]
 - [[fintech/usd-stablecoin-interchange|USD Stablecoin Interchange]]
 <!-- /wiki-links:managed -->
 

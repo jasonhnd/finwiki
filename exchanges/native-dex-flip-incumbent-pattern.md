@@ -1,12 +1,12 @@
 ---
-title: L2 原生 DEX 反超 incumbent 模式
+title: L2 原生 DEX による incumbent 逆転パターン
 aliases: [Aerodrome flip Uniswap, native DEX flip, L2 incumbent flip pattern, ve33 host alignment flip]
 domain: exchanges
 kind: knowledge
 topic: native-dex-flip-incumbent-pattern
 created: 2026-05-16
-last_updated: 2026-05-16
-last_tended: 2026-05-16
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: likely
 tags: [fintech, defi, dex, l2, aerodrome, uniswap, base, ve33]
@@ -14,7 +14,7 @@ status: candidate
 sources: []
 ---
 
-# L2 原生 DEX 反超 incumbent 模式
+# L2 原生 DEX による incumbent 逆転パターン
 
 
 ## Wiki route
@@ -22,61 +22,61 @@ sources: []
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
 > [!info] TL;DR
-> EVM 多链历史中，原生 DEX 在 L2 主场反超 incumbent（通常 Uniswap）极罕见。**Aerodrome 在 Base 上反超至 63% DEX 量份额**，是首个有完整复盘的案例。其机制 = ve(3,3) + L2 主导方利益绑定 + 关键 wrapped 资产配对池 + 跨链合并复制。
+> EVMマルチチェーン史上、原生DEXがL2の本拠地でincumbent(通常はUniswap)を逆転した事例は極めて稀。**AerodromeがBase上でDEX出来高シェア63%まで逆転**した事例は、完全な振り返り分析が可能な最初のケース。メカニズムは ve(3,3) + L2 ホスト側の利益アラインメント + 中核 wrapped 資産ペアプール + クロスチェーン統合による複製 の組み合わせ。
 
-**核心机制**：
+**中核メカニズム**:
 
-1. **ve(3,3) emission 引导**：Aerodrome 用 Velodrome (v2) 架构，veAERO 投票决定 emission 流向（基础机制见 [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]）
-2. **L2 主导方持仓**：Coinbase Ventures 持显著 veAERO，可定向引导 emission
-3. **关键资产护城河**：cbBTC / cbETH 等只在 Base 原生的 wrapped 资产强化"必须在 Aerodrome 交易"的诉求
-4. **稳定币基础对**：USDC 主导池子集中在 Aerodrome（与 Coinbase USDC 关系协同）
-5. **跨链合并复制**：Aero + Velo 合并 94.5:5.5，扩展至 Ethereum L1 + Circle Arc，复制模式而非局限单链
+1. **ve(3,3) emission 誘導**:AerodromeはVelodrome (v2)アーキテクチャを採用、veAERO投票でemission流向を決定(基礎メカニズムは [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]] 参照)
+2. **L2 ホスト側の保有**:Coinbase Venturesが顕著な veAERO を保有し、emissionを指向的に誘導可能
+3. **中核資産のお濠**:cbBTC / cbETH 等のBase原生 wrapped 資産が「Aerodromeで取引する必然性」を強化
+4. **ステーブルコイン基軸ペア**:USDC主導プールがAerodromeに集中(CoinbaseとUSDC関係のシナジー)
+5. **クロスチェーン統合による複製**:Aero + Veloが94.5:5.5で統合し、Ethereum L1 + Circle Arcへ拡張、単一チェーンに限定されずパターン複製を実施
 
-**反超 KPI（Aerodrome × Base）**：
+**逆転 KPI(Aerodrome × Base)**:
 
-- 2024-Q4：Aerodrome 量份额 ~35% on Base
-- 2025-Q2：50% on Base
-- 2025-Q4：63% on Base，**首次稳定超过 Uniswap**
-- 2026-Q1：合并 Aero 宣布，扩展 Ethereum + Arc
+- 2024-Q4:Aerodrome出来高シェア ~35% on Base
+- 2025-Q2:50% on Base
+- 2025-Q4:63% on Base、**初めてUniswapを安定的に上回る**
+- 2026-Q1:統合Aeroを発表しEthereum + Arcへ拡張
 
-**反超条件清单（必要 + 充分）**：
+**逆転条件チェックリスト(必要 + 十分)**:
 
-| # | 条件 | Aerodrome | Uniswap 反例（其他链）|
+| # | 条件 | Aerodrome | Uniswap反例(他チェーン) |
 |---|---|---|---|
-| 1 | ve emission 引导治理 | 有 veAERO | 无（UNI 无 emission）|
-| 2 | L2 主导方持仓 | Coinbase Ventures | 无主导方支持 |
-| 3 | 关键 wrapped 资产 | cbBTC / cbETH | 无原生独占资产 |
-| 4 | 主导方利益对齐 | Coinbase USDC + Base + Aero 三角 | Uniswap 跨链中立 |
-| 5 | Bribe market 效率 | Aero 高 bribe ROI | Uniswap v3 无 bribe 机制 |
+| 1 | ve emission 誘導治理 | veAERO あり | 無し(UNIにemission無し) |
+| 2 | L2 ホスト側の保有 | Coinbase Ventures | ホスト側支持無し |
+| 3 | 中核 wrapped 資産 | cbBTC / cbETH | 原生独占資産無し |
+| 4 | ホスト側の利益アラインメント | Coinbase USDC + Base + Aeroの三角構造 | Uniswapはクロスチェーン中立 |
+| 5 | Bribe market 効率 | Aeroは高bribe ROI | Uniswap v3にbribe機構無し |
 
-**通用性 / 可推广至**：
+**汎用性 / 横展開可能領域**:
 
-- Solana：Orca / Raydium 已部分实现（vs Uniswap 跨链）
-- Polygon：QuickSwap 历史尝试但失败（缺主导方持仓）
-- 未来 Arc：Curve fork + Circle Ventures 持仓 + USDC 主场，**复制可能性高**
-- 未来 Tempo：可能孵化 Stripe + Paradigm 联合背书 DEX
-- 任何 L1/L2 主导方愿意持 ve 头寸的链 + ve(3,3) 类 DEX 组合（参见 [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]] と [[exchanges/amm-design-evolution|AMM design evolution]] 的设计基线）
+- Solana:Orca / Raydiumが既に部分的に実現(Uniswapクロスチェーン版に対し)
+- Polygon:QuickSwapが歴史的に試みたが失敗(ホスト側保有を欠く)
+- 今後のArc:Curve fork + Circle Ventures保有 + USDCの本拠地で、**複製可能性は高い**
+- 今後のTempo:Stripe + Paradigm共同支援のDEXがインキュベートされる可能性
+- L1/L2のホスト側がve持分を保有する意思を持つチェーン + ve(3,3)型DEXの任意の組み合わせ(参照:[[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]] と [[exchanges/amm-design-evolution|AMM design evolution]] の設計ベースライン)
 
-**反例 / 边界**：
+**反例 / 境界**:
 
-- L2 主导方不持仓时，反超不会发生（Optimism 早期）
-- DEX 不用 ve 模型时（Uniswap v3 集中流动性），无 emission 引导
-- incumbent 推出原生 L2 链上版本时（Uniswap v4 + UniChain），可能逆转
+- L2ホスト側が保有しないケースでは逆転は発生しない(Optimism初期)
+- DEXがveモデルを採用しないケース(Uniswap v3集中流動性)ではemission誘導が不可能
+- incumbentが原生L2チェーン版を発表したケース(Uniswap v4 + UniChain)では逆転される可能性
 
-**估值 / 决策含义**：
+**評価額 / 意思決定上の含意**:
 
-- veAERO 估值应包含"主导方持仓承诺"溢价
-- 主导方（Coinbase）估值应包含"DEX 飞轮"现金流分项（见 [[exchanges/vetoken-host-protocol-flywheel|veToken 飞轮]]）
-- 投资判断：在 L2 主导方公开持 ve 头寸前 6 个月入场原生 DEX = 高 alpha
-- 监管风险：反超事件可能触发 SEC 关注"未注册证券分销"
+- veAERO評価額には「ホスト側保有コミットメント」プレミアムを含めるべき
+- ホスト側(Coinbase)評価額には「DEXフライホイール」キャッシュフロー項を含めるべき(参照:[[exchanges/vetoken-host-protocol-flywheel|veToken フライホイール]])
+- 投資判断:L2ホスト側がve持分を公的に保有する6ヶ月前に原生DEXへ参入 = 高alpha
+- 規制リスク:逆転イベントがSECの「未登録証券販売」関心を惹起する可能性
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[exchanges/vetoken-host-protocol-flywheel|veToken × 主导方飞轮]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密原生]]
+- [[exchanges/vetoken-host-protocol-flywheel|veToken × ホスト側フライホイール]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン金利分配]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号資産ネイティブ]]
 - [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]
 - [[exchanges/amm-design-evolution|AMM design evolution]]
 - [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]

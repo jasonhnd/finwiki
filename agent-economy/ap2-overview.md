@@ -1,10 +1,10 @@
 ---
-title: AP2 · Google Agent Payments Protocol 概览
+title: AP2 · Google Agent Payments Protocol 概観
 aliases: [ap2-overview, agent-payments-protocol-overview, google-ap2-overview]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, payment, google, ap2]
@@ -12,48 +12,48 @@ sources: []
 status: candidate
 ---
 
-# AP2 · Google Agent Payments Protocol 概览
+# AP2 · Google Agent Payments Protocol 概観
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/ap2-adoption|AP2 采用版图 · Google 闭环 vs 协议四国杀]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/ap2-adoption|AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- AP2 v1.0 在 2026-Q1 发布 ^[extracted]
-- 与 MPP(Microsoft)、ACP(Anthropic)、x402(Cloudflare/Coinbase/AWS)、A2A(Linux Foundation)组成 **agent 经济"支付协议四国杀"** ^[extracted]
-- 核心问题:**当 AI agent 代表用户付钱时,merchant 如何确认 agent 真有授权?** ^[extracted]
-- 结算层中立:可走 Google Pay、card networks、USDC(via Coinbase)、银行 instant rails ^[extracted]
-- 全程基于 W3C Verifiable Credentials 标准 ^[extracted]
+- AP2 v1.0 は 2026-Q1 にリリース ^[extracted]
+- MPP(Microsoft)、ACP(Anthropic)、x402(Cloudflare/Coinbase/AWS)、A2A(Linux Foundation)と共に **agent 経済「決済プロトコル四国大戦」** を構成 ^[extracted]
+- 核心の問い:**AI agent がユーザーを代理して支払う際、merchant は agent が真に認可を得ていることをどう確認するか?** ^[extracted]
+- 決済層は中立:Google Pay / card networks / USDC(via Coinbase)/ 銀行 instant rails のいずれも可 ^[extracted]
+- 全工程が W3C Verifiable Credentials 標準ベース ^[extracted]
 
 ## Mechanism / How it works
 
-AP2 把传统 user-merchant 二元支付扩展为 user-agent-merchant 三元结构,引入四个核心组件:
+AP2 は従来の user-merchant 二項決済を user-agent-merchant の三項構造に拡張し、4 つの核となるコンポーネントを導入する:
 
-1. **Authorization Mandate** — 用户签发的 verifiable credential,定义 agent 可花费的 scope(金额、merchant 类别、时间窗口)
-2. **Payment Intent** — agent 向 merchant 提交的支付意图,引用 mandate
-3. **Settlement Channel** — 可走 Google Pay、card networks、stablecoin(USDC via Coinbase · 详见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])、银行 instant rails
-4. **Audit Trail** — 全程 verifiable,基于 W3C VC 标准
+1. **Authorization Mandate** — ユーザーが発行する verifiable credential で、agent が支出可能な scope(金額、merchant カテゴリ、時間ウィンドウ)を定義する
+2. **Payment Intent** — agent が merchant に提出する支払意図で、mandate を参照する
+3. **Settlement Channel** — Google Pay、card networks、ステーブルコイン(USDC via Coinbase · [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)、銀行 instant rails のいずれを通すこともできる
+4. **Audit Trail** — 全工程が verifiable で、W3C VC 標準ベース
 
-三个核心张力:授权边界(用户给 agent 多大支出权限?是否每笔需重新确认?)、身份可信(merchant 如何知道这个 agent 真代表用户?)、争议解决(agent 误操作了,谁负责?)。
+3 つの核心的緊張:認可境界(ユーザーは agent にどれほどの支出権限を与えるか?毎回再確認が必要か?)、身元の信頼性(merchant はこの agent が真にユーザーを代理していることをどう知るか?)、紛争解決(agent が誤操作したら、誰が責任を負うか?)。
 
 ## Origin & evolution
 
-2025-09 Google 首次发布 AP2 草案,2026-Q1 进入 v1.0 稳定版。背景是 AI agent 经济兴起后,传统支付假设 user-merchant 二元结构,无法处理"agent 代付"场景。Google 作为同时拥有 Google Pay(全球第二大 mobile wallet · 6 亿用户)和 Gemini agent(数亿触点)的玩家,自然成为这一空白的占领者(对照 [[fintech/embedded-wallet-fintech-disintermediation-overview|嵌入式钱包对 fintech 的去中介化]])。
+2025-09 Google が AP2 ドラフトを初公開し、2026-Q1 に v1.0 安定版に到達した。背景は、AI agent 経済の台頭後、従来の決済が user-merchant 二項構造を前提としており「agent 代払」シナリオを扱えなかったことにある。Google Pay(世界第 2 位の mobile wallet · 6 億ユーザー)と Gemini agent(数億接点)の両方を保有する Google は、この空白の自然な占領者となった([[fintech/embedded-wallet-fintech-disintermediation-overview|埋込ウォレットによる fintech 中抜き]] と対照)。
 
-时间线上,与 MPP / ACP / x402 / A2A 几乎同步问世——agent 支付标准化是 2025-2026 行业共识压力下的并发产物。
+時系列で見ると、MPP / ACP / x402 / A2A とほぼ同時期に登場 — agent 決済の標準化は 2025-2026 の業界コンセンサス圧力下での並行産物である。
 
 ## Counterpoints
 
-AP2 强绑定 Google 生态(Gemini + Google Pay)虽然形成闭环优势,但也意味着 **OpenAI / Anthropic / Stripe 等竞争方不会直接采用**——他们各自有 MPP / ACP 路线。多协议并存可能让 merchant 集成成本上升,反而推迟 agent 经济落地。机构尚未表态——JPM / Goldman / BNY 仍在 [[fintech/institutional-stablecoin-deposit-token-thesis|institutional tokenization / deposit token]],agent payment 是 retail + SMB 战场。
+AP2 が Google エコシステム(Gemini + Google Pay)と強く結合していることは閉ループの優位を形成する一方、**OpenAI / Anthropic / Stripe 等の競合は直接採用しない** ことを意味する — 彼らはそれぞれ MPP / ACP の路線を持つ。マルチプロトコルの並存は merchant 統合コストを押し上げ、かえって agent 経済の着地を遅らせる可能性がある。機関はまだ態度を表明していない — JPM / Goldman / BNY は依然として [[fintech/institutional-stablecoin-deposit-token-thesis|institutional tokenization / deposit token]] に集中しており、agent payment は retail + SMB の戦場である。
 
 ## Open questions
 
-- AP2 v1.0 稳定版的 merchant 采用速度?
-- Visa Trusted Agent Protocol 与 AP2 的兼容协商何时落地?
-- 与 stablecoin 阵营(Circle/Coinbase USDC settlement adapter)的实际流量分布?
-- agent 误操作的法律责任归属是否会催生新的保险/担保模型?
+- AP2 v1.0 安定版の merchant 採用スピードは?
+- Visa Trusted Agent Protocol と AP2 の互換性協議はいつ着地するか?
+- ステーブルコイン陣営(Circle/Coinbase USDC settlement adapter)との実際のトラフィック分布は?
+- agent 誤操作の法的責任の帰属が新たな保険/保証モデルを生むか?
 
 ## Related
 <!-- wiki-links:managed -->

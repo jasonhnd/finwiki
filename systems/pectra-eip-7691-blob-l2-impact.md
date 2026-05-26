@@ -1,10 +1,10 @@
 ---
-title: Pectra EIP-7691 · blob 翻倍与 L2 经济连锁
+title: Pectra EIP-7691 · blob 倍増と L2 経済連鎖
 aliases: [pectra-eip-7691-blob-l2-impact, eip-7691, blob-target-six, l2-gas-50-percent-cut]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, ethereum, l2, eip-7691, blob, base, arbitrum, optimism, eip-4844]
@@ -12,51 +12,51 @@ sources: []
 status: candidate
 ---
 
-# Pectra EIP-7691 · blob 翻倍与 L2 经济连锁
+# Pectra EIP-7691 · blob 倍増と L2 経済連鎖
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-upgrade-overview|Ethereum Pectra 升级 · 四 EIP 双轨战略总览]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-upgrade-overview|Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Dencun 后 blob target=3 / max=6 ^[extracted]
-- Pectra 后 target=6 / max=9(翻倍) ^[extracted]
-- L2 calldata 成本下降约 -50% ^[extracted]
-- Base / Arbitrum / Optimism 用户 gas 同步下降 ^[extracted]
-- Stripe Base 上 USDC settlement / Coinbase Smart Wallet 体验改善 ^[extracted]
-- L2 与 L1 经济竞争加剧 · 资本两端流动 ^[extracted]
-- 与 EIP-7251 形成 "L1 厚化 + L2 扩容" 双轨 ^[inferred]
+- Dencun 後 blob target=3 / max=6 ^[extracted]
+- Pectra 後 target=6 / max=9(倍増) ^[extracted]
+- L2 calldata コストが約 -50% 低下 ^[extracted]
+- Base / Arbitrum / Optimism のユーザー gas が同時に低下 ^[extracted]
+- Stripe Base 上の USDC settlement / Coinbase Smart Wallet 体験が改善 ^[extracted]
+- L2 と L1 の経済競争が激化 · 資本が両端を流動 ^[extracted]
+- EIP-7251 と共に「L1 厚化 + L2 拡張」のデュアルトラックを形成 ^[inferred]
 
 ## Mechanism / How it works
 
-Dencun(2024-03)引入 EIP-4844 blob —— 专为 rollup data availability 设计的临时存储槽,价格独立于普通 calldata,大幅降低 L2 提交成本。但 Dencun 初始 target=3 blob/block(每 12 秒)很快被 Base + Arbitrum + Optimism 等高 throughput L2 占满。**Pectra EIP-7691 把 target / max 双倍化** —— target=6 / max=9 意味着 L2 在没有 blob fee spike 的情况下可承载 2 倍数据量,直接结果是 L2 calldata cost -50%。Base 上的 Stripe USDC settlement 与 Coinbase Smart Wallet sub-cent 体验进一步改善。Sequencer 收入因 gas 单价下降但用户活跃度上升,净效应取决于弹性。同时与 EIP-7251 共同构成 "L1 厚化(2048 ETH staking)+ L2 扩容(blob 翻倍)" 双轨。
+Dencun(2024-03)で導入された EIP-4844 blob —— rollup の data availability 専用に設計された一時的ストレージスロットで、価格は通常の calldata と独立しており、L2 のサブミットコストを大幅に削減した。だが Dencun の初期 target=3 blob/block(12 秒ごと)は Base + Arbitrum + Optimism 等の高スループット L2 によってすぐ満杯となった。**Pectra EIP-7691 は target / max を倍増させる** —— target=6 / max=9 となり、L2 は blob fee spike なしで 2 倍のデータ量を担えるようになり、直接的な結果として L2 calldata cost が -50%。Base 上の Stripe USDC settlement と Coinbase Smart Wallet の sub-cent 体験がさらに改善。Sequencer 収入は gas 単価低下によって減るが、ユーザーアクティビティ上昇による相殺があり、純効果は弾力性次第。同時に EIP-7251 と共に「L1 厚化(2048 ETH staking)+ L2 拡張(blob 倍増)」のデュアルトラックを構成する。
 
 ## Origin & evolution
 
-2024-03 Dencun 上线 · EIP-4844 blob 是 rollup-centric roadmap 的第一步。2024-Q2 起 Base / Arbitrum / Optimism 等 L2 在 blob fee market 上挤压 · 经常达到 max=6 → blob fee spike → L2 用户感受 gas 上升。EthMagicians 讨论加速到 EIP-7691 target 翻倍。2024-Q3-Q4 ACD 敲定 Pectra bundle 含 7691。2025-Q2 主网激活后数周内 Base / Arbitrum / Optimism 用户实际 gas 下降 30-50%。Stripe 在 Base 上的 USDC settlement 经济性继续改善(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 在 L2 上的流量分布)· Coinbase Smart Wallet 实现 "几乎零 gas" 体验。下一步 Fusaka(2026-Q4 计划)PeerDAS 进一步把 blob 解耦 P2P 广播 · 理论上可再翻数倍。
+2024-03 Dencun がローンチ · EIP-4844 blob は rollup-centric roadmap の第一歩。2024-Q2 から Base / Arbitrum / Optimism 等の L2 が blob fee market で圧迫 · 頻繁に max=6 に達し → blob fee spike → L2 ユーザーの感じる gas が上昇。EthMagicians で EIP-7691 の target 倍増を加速する議論。2024-Q3-Q4 ACD で Pectra bundle に 7691 を含めることが確定。2025-Q2 メインネット有効化後、数週間内に Base / Arbitrum / Optimism のユーザー実 gas が 30-50% 低下。Stripe の Base 上 USDC settlement の経済性が継続的に改善([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] の L2 上の流量分布と対照)・ Coinbase Smart Wallet が「ほぼ gas ゼロ」体験を実現。次のステップ Fusaka(2026-Q4 計画)では PeerDAS により blob を P2P ブロードキャストからさらに decouple し、理論上はさらに数倍に拡張可能。
 
 ## Counterpoints
 
-- 7691 的 -50% gas 优势可能很快被 L2 用户增长吃完 · 长期价格仍向 blob fee 调节
-- L2 经济压低 sequencer 收入 · 但 sequencer 集中度反而上升(中心化压力)
-- Vitalik "L2 承载 99% 用户" 战略可能反向蚕食 L1 安全预算(staking yield 下降)(对照 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]] 中 staking 收益与 ETH 价格的反馈环)
-- blob 容量翻倍对非 rollup 应用(如 DA 备份)的影响未充分讨论
+- 7691 の -50% gas 優位は L2 ユーザー成長によって速やかに消費される可能性、長期的には価格は依然として blob fee に向けて調整
+- L2 経済は sequencer 収入を圧迫する、しかし sequencer 集中度はかえって上昇(中央集権圧力)
+- Vitalik「L2 が 99% のユーザーを担う」戦略は L1 セキュリティ予算を逆方向に蝕む可能性(staking yield 低下)([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]] における staking 収益と ETH 価格のフィードバックループと対照)
+- blob 容量倍増の非 rollup アプリ(DA バックアップ等)への影響は十分議論されていない
 
 ## Open questions
 
-- 2027 Fusaka PeerDAS 是否会让 blob 容量再 10×?
-- L2 之间是否会因为 blob 共享而产生 "blob fee 战争"(谁抢得多)?
-- Stripe / Coinbase 在 Base 上的 stablecoin settlement 是否会因 L1 staking yield 上升而搬回 L1?
-- DEX 在 L2 上的流量是否因 blob 翻倍进一步集中?(参见 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]])
+- 2027 Fusaka PeerDAS で blob 容量がさらに 10× になるか?
+- L2 間で blob 共有から「blob fee 戦争」(誰がより多く取るか)が発生するか?
+- Stripe / Coinbase は Base 上の stablecoin settlement を L1 staking yield 上昇に伴って L1 に戻すか?
+- DEX の L2 上トラフィックは blob 倍増によってさらに集中するか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] を参照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/pectra-upgrade-overview|Pectra 升级总览]]
-- [[systems/pectra-eip-7251-institutional-staking|EIP-7251 机构 staking]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|On-chain finance vs crypto 分叉]]
+- [[systems/pectra-upgrade-overview|Pectra アップグレード総覧]]
+- [[systems/pectra-eip-7251-institutional-staking|EIP-7251 機関 staking]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|On-chain finance vs crypto 分岐]]
 <!-- /wiki-links:managed -->
 
 ## Sources

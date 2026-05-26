@@ -1,12 +1,12 @@
 ---
-title: CEX × 日本銀行 無担保授信実績図譜（Fintech 行业情报）
+title: CEX × 日本銀行 無担保授信実績図譜(Fintech業界インテリジェンス)
 aliases: []
 domain: exchanges
 kind: knowledge
 topic: jp-crypto-bank-credit-facilities
 created: 2026-04-17
-last_updated: 2026-05-03
-last_tended: 2026-05-05
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-10-30
 confidence: certain
 tags: [fintech]
@@ -22,91 +22,91 @@ sources: []
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード株式会社 — 日本暗号資産交換業者]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> 日本国内暗号資産交换业者从商业银行获得**无担保·无保证**授信的公开先例图谱。这份情报对 CEX 系项目 / SC 発行体 / Tokenized Gold 等的融资规划都有直接参考价值。
+> 日本国内の暗号資産交換業者が商業銀行から **無担保 · 無保証** で授信を獲得した公開先例の図譜。本インテリジェンスは、CEX系プロジェクト / ステーブルコイン発行体 / Tokenized Gold等の資金調達計画にとって直接の参考価値がある。
 
-## 已知先例
+## 既知の先例
 
-### bitbank × きらぼし銀行（2026-03 公表）⭐
-- **金额**：5 亿日元
-- **形态**：**無担保 · 無保証 · コミットメントライン**
-- **期间**：1 年
-- **公表**：2026-03
-- **共通特征**：同业（暗号資産交換業）· 第一種金融商品取引業 · 関東財務局長登録
+### bitbank × きらぼし銀行(2026-03公表)⭐
+- **金額**:5億円
+- **形態**:**無担保 · 無保証 · コミットメントライン**
+- **期間**:1年
+- **公表**:2026-03
+- **共通特徴**:同業(暗号資産交換業) · 第一種金融商品取引業 · 関東財務局長登録
 
-### GMO（コイン）× きらぼし銀行 + あおぞら銀行（2022-2023）
-- **金额**：10 亿日元规模（multi-bank 合计）
-- **形态**：multi-bank 融资构造
-- **特征**：multi-bank 分散可以达到更大规模
+### GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)
+- **金額**:10億円規模(マルチバンク合計)
+- **形態**:マルチバンク融資構造
+- **特徴**:マルチバンク分散により、より大きな規模に到達可能
 
-### GMO 早期 × 単一地銀（年代待查）
-- **金额**：数千万规模起步
-- **形态**：先建实绩、逐步扩大
-- **特征**：floor 档位的标杆模式
+### GMO 初期 × 単一地銀(年代要確認)
+- **金額**:数千万円規模から開始
+- **形態**:実績を先に積み上げ、段階的に拡大
+- **特徴**:フロア帯のベンチマーク・モデル
 
-## 行业共通要素
+## 業界共通要素
 
-几乎所有公开案例都要求：
-1. **登录番号齐备**：関東財務局長 第XXXXX号
-2. **顧客資産分别管理**：信託銀行での分别管理が AML 监管下必须
-3. **自资本比率健全**：银行方会查年次决算
-4. **AML/CFT 内部管控**：暗号資産業者の認可要件
-5. **事業継続性の根拠**：至少 2-3 年的稳定营业实绩
+公開ケースのほぼ全てが以下を要求する:
+1. **登録番号一式の完備**:関東財務局長 第XXXXX号
+2. **顧客資産の分別管理**:信託銀行での分別管理がAML監督下で必須
+3. **自己資本比率の健全性**:銀行側は年次決算を確認する
+4. **AML/CFT 内部統制**:暗号資産業者の認可要件
+5. **事業継続性の根拠**:少なくとも2-3年の安定的な営業実績
 
-## 银行方偏好（パターン）
+## 銀行側の選好(パターン)
 
 ### きらぼし銀行
-- **对 Fintech 友好度高**：已连续对多家 CEX 放贷
-- **風险 appetite**：暗号資産業者への与信枠をすでに取っている
-- **地域优势**：東京中心のネットワーク → 沟通成本低
+- **Fintechへの友好度が高い**:複数CEXに対し継続的に融資実績あり
+- **リスクappetite**:暗号資産業者向けの与信枠を既に確保
+- **地理的優位**:東京中心のネットワーク → 折衝コストが低い
 
 ### あおぞら銀行
-- **特点**：Fintech / 金融新业态偏开放
-- **与 GMO 有长期关系**
-- **适用于 multi-bank 并用时的 Wave 2**
+- **特徴**:Fintech / 金融新業態に対しオープン
+- **GMOとの長期関係あり**
+- **マルチバンク併用時のWave 2に適合**
 
 ### 都市銀 / 信託
-- **审批严格 · 时间长**
-- **仅作保底**：当地銀无法闭合时启用
-- **对暗号資産業の与信ハードルは高い**
+- **審査が厳格 · 時間がかかる**
+- **保険として位置付け**:地銀で完結しないケースで起用
+- **暗号資産業向け与信ハードルは高い**
 
-## 审批所需 Banker's Package 共通构造
+## 審査に必要な Banker's Package の共通構造
 
-围绕一句话："**信用力・事業継続性を前提に** 枠設定された"
+中核は一文に集約される:「**信用力・事業継続性を前提として** 枠が設定された」。
 
 | 要件 | 内容 |
 |------|------|
-| 事业概要 | 業態説明 · 収益構造 · 市場地位 |
-| 财务三表 | 過去 3 期の P/L, B/S, C/F |
-| 信用力 | 自资本比率 / LTV / 分别管理状況 |
-| 事业继续性 | 登録番号 · AML · 内部管控 · 规制对応 |
-| 资金使途 | 運転資金 / 業務拡大 / 新規事業 · 明確化 |
-| 返济原资根据 | 通常 EBITDA · キャッシュフロー |
-| 类案引用 | **bitbank × きらぼし（2026-03）· GMO × multi-bank** |
+| 事業概要 | 業態説明 · 収益構造 · 市場ポジション |
+| 財務三表 | 過去3期のP/L、B/S、C/F |
+| 信用力 | 自己資本比率 / LTV / 分別管理状況 |
+| 事業継続性 | 登録番号 · AML · 内部統制 · 規制対応 |
+| 資金使途 | 運転資金 / 事業拡大 / 新規事業 · 明確化 |
+| 返済原資の根拠 | 通常はEBITDA · キャッシュフロー |
+| 類例引用 | **bitbank × きらぼし(2026-03)· GMO × マルチバンク** |
 
-## 副业版图的适用性
+## 副業ポートフォリオへの適用性
 
-| 项目 | 直接适用 | 间接参考 |
+| 項目 | 直接適用 | 間接参考 |
 |------|---------|---------|
-| CEX 信用授信 | ✅ 最直接对照（bitbank 100% 复制路径） | — |
-| SC 発行体 | — | 資金移動業牌照下的授信路径，需另查先例 |
-| Tokenized Gold | — | ST 型 token 发行通常不走银行授信路径 |
-| 業務推進系 | — | 业务推进、非融资 |
+| CEX 信用授信 | ✅ 最も直接的な対照(bitbank経路を100%複製可能) | — |
+| ステーブルコイン発行体 | — | 資金移動業ライセンス下の授信経路、別途先例調査必要 |
+| Tokenized Gold | — | ST型トークン発行は通常、銀行授信経路を辿らない |
+| 業務推進系 | — | 業務推進であり融資ではない |
 
-## 2026-04 时点的关键 gap
+## 2026-04 時点の主要ギャップ
 
-- **まだ情報不足**：
-  - モントビー / bitFlyer 等其他大型 CEX 的银行融资実績
-  - 都市銀（みずほ / 三井住友 / 三菱 UFJ）对 CEX 的态度最新状況
-  - 与信枠の占用状況（bitbank 吃了多少きらぼし的 appetite？）
-- **需要通过 informal sounding 获取**：
-  - 各行の与信 appetite 残量
-  - 最新の審查基準変更
+- **未だ情報不足の領域**:
+  - モントビー / bitFlyer 等の他大手CEXの銀行融資実績
+  - 都市銀(みずほ / 三井住友 / 三菱UFJ)のCEXに対する最新スタンス
+  - 与信枠の占用状況(bitbankがきらぼしのappetiteをどの程度消費したか)
+- **インフォーマル sounding で取得すべき情報**:
+  - 各行の与信appetite残量
+  - 最新の審査基準変更
 
-参考: [[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2B 稳定币跨境決済の爆発的成長]]（同じ CEX セクターのマクロ需要側）
+参考:[[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]](同じCEXセクターのマクロ需要側)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-crossborder-b2b-growth|B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）]]
-- [[fintech/usd-stablecoin-interchange|USD 稳定币互换市场——$33 万亿轨道上的 0.01% 生意]]
+- [[fintech/stablecoin-crossborder-b2b-growth|B2B Stablecoin クロスボーダー決済の爆発的成長(733% YoY、$226B)]]
+- [[fintech/usd-stablecoin-interchange|USDステーブルコインのインターチェンジ市場 — $33兆のレール上の0.01%ビジネス]]
 <!-- /wiki-links:managed -->

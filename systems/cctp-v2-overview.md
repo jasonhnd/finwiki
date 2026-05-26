@@ -1,10 +1,10 @@
 ---
-title: CCTP V2 概览 · Circle USDC 跨链 burn-and-mint
+title: CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint
 aliases: [cctp-v2-overview, circle-cctp-v2, usdc-burn-and-mint]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, bridge, stablecoin, usdc, circle, cctp, arc]
@@ -12,67 +12,67 @@ sources: []
 status: candidate
 ---
 
-# CCTP V2 概览 · Circle USDC 跨链 burn-and-mint
+# CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-technical-spec|CCTP V2 技术规范 · Fast Transfer · Hooks · Attestation Service]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-technical-spec|CCTP V2 技術仕様 · Fast Transfer · Hooks · Attestation Service]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 2024-11 上线 V2(V1 始于 2023-01) ^[extracted]
-- V2 增加 Fast Transfer(< 1 秒延迟 vs V1 的 ~13 秒) ^[extracted]
-- V2 增加 Hooks(可编程 callback,目标链合约自动调用) ^[extracted]
-- 支持 18+ 链:Ethereum + Solana + Base + Arbitrum + Avalanche + Optimism + Noble + Polygon + Arc 等 ^[extracted]
-- 预计 2026 内完全替换 V1(80% 概率) ^[extracted]
+- 2024-11 V2 ローンチ(V1 は 2023-01 開始) ^[extracted]
+- V2 で Fast Transfer を追加(< 1 秒レイテンシ vs V1 の ~13 秒) ^[extracted]
+- V2 で Hooks を追加(プログラマブルコールバック、宛先チェーン契約を自動呼び出し) ^[extracted]
+- 18+ チェーンをサポート:Ethereum + Solana + Base + Arbitrum + Avalanche + Optimism + Noble + Polygon + Arc 等 ^[extracted]
+- 2026 内に V1 を完全置換予定(確率 80%) ^[extracted]
 
 ## Mechanism / How it works
 
-CCTP 把 USDC 变成 "一个 USDC、多条链"——所有公链上流通的 USDC 都是 Circle 直接 mint 的 native asset,没有 wrapped 版本(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 的多桥拓扑)。三步流程:
+CCTP は USDC を「1 つの USDC、複数チェーン」に変える —— 全公開チェーンに流通する USDC は全て Circle が直接 mint する native asset であり、wrapped 版は存在しない([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] のマルチブリッジトポロジと対照)。3 ステップ フロー:
 
 ```
-源链 (USDC burn)
+ソースチェーン (USDC burn)
     ↓
 Circle Attestation Service
-  (off-chain signer 验证 + 签名)
+  (off-chain signer 検証 + 署名)
     ↓
-目标链 (USDC mint to receiver)
+宛先チェーン (USDC mint to receiver)
 ```
 
-V2 vs V1 关键差异:
+V2 vs V1 主要差異:
 
-1. **Fast Transfer**(亚秒级):V1 等源链 finality(~13 秒);V2 用 Circle 风险担保把延迟压到 < 1 秒
-2. **Hooks**:跨链到达后自动触发目标链合约调用,支持 1-tx 跨链 swap / 1-tx 跨链贷款
-3. **更多链支持**:V2 上线后 1 年内扩展到 18+ 链
+1. **Fast Transfer**(亜秒級):V1 はソースチェーン finality を待つ(~13 秒);V2 は Circle のリスク担保によりレイテンシを < 1 秒に圧縮
+2. **Hooks**:クロスチェーン到着後に宛先チェーン契約呼び出しを自動トリガー、1-tx でのクロスチェーンスワップ / クロスチェーンローンをサポート
+3. **より多くのチェーンサポート**:V2 ローンチ後 1 年以内に 18+ チェーンに拡大
 
-**集中化代价**:Circle Attestation Service 是单点信任——Circle 可拒绝签名(已发生过 Tornado Cash 相关地址)。这是 GENIUS §501 Denylist 在 protocol-level 的执行通道(对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥 deposit/withdrawal 路径]] 上同样的 Circle 节点)。
+**中央集権化のコスト**:Circle Attestation Service は単一障害信頼 —— Circle は署名を拒否可能(Tornado Cash 関連アドレスで実例あり)。これは GENIUS §501 Denylist がプロトコル層で執行される通路([[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ deposit/withdrawal 経路]] 上の同じ Circle ノードと対照)。
 
 ## Origin & evolution
 
-V1 2023-01 上线,初期支持 Ethereum + Avalanche,逐步扩展到 Solana 等。2024-11 V2 升级带来 Fast Transfer 和 Hooks。Circle 在 V2 之后明显加速对接新链——Arc 链(Circle 自家)2026 上线时即原生集成 V2,USDC 即 Arc 链 gas。
+V1 は 2023-01 ローンチ、初期は Ethereum + Avalanche をサポートし、徐々に Solana 等へ拡大。2024-11 V2 アップグレードで Fast Transfer と Hooks をもたらした。Circle は V2 以降明らかに新チェーン接続を加速 —— Arc チェーン(Circle 自家)は 2026 ローンチ時に V2 をネイティブ統合、USDC が Arc チェーンの gas に。
 
-去 wrapped 化历史背景:V1 之前各链 USDC 是通过 lock-and-mint bridge(LayerZero / Wormhole / Stargate)产生的衍生品,有桥被黑风险(Wormhole $325M、Ronin $625M、Nomad $190M 历史教训)。CCTP V1 是 Circle 收回 USDC 跨链主权的关键动作。
+de-wrapped 化の歴史的背景:V1 以前、各チェーンの USDC は lock-and-mint bridge(LayerZero / Wormhole / Stargate)を通じて生成される派生品で、ブリッジハッキングリスクがあった(Wormhole $325M、Ronin $625M、Nomad $190M の歴史的教訓)。CCTP V1 は Circle が USDC のクロスチェーン主権を取り戻す重要な動きだった。
 
 ## Counterpoints
 
-Circle 的中心化角色是双刃剑:**优势**是单点 mint 可执行 §501 denylist,合规叙事强;**劣势**是 Circle 一旦被攻击或被法律强制签名,USDC 跨链信任崩塌。V2 Fast Transfer 让 Circle 用自有 treasury($4.34B 来自 IPO 后)担保 < 1 秒 finality 内的对手风险——这是商业模式而非密码学保证。
+Circle の中央集権的役割は諸刃の剣:**利点**は単一 mint で §501 denylist を執行可能、コンプライアンス物語が強い;**欠点**は Circle が一度攻撃を受けるか法的に署名を強制されれば、USDC クロスチェーンの信頼が崩壊する。V2 Fast Transfer は Circle が自前 treasury($4.34B、IPO 後)で < 1 秒 finality 内のカウンターパーティリスクを担保するもの —— これは商業モデルであり暗号学的保証ではない。
 
-另外 V2 Hooks 让跨链自动触发目标链合约,虽然提升 UX,但也扩大攻击面——hook 合约本身的安全成为新的风险点。
+さらに V2 Hooks はクロスチェーンが宛先チェーン契約を自動トリガーする UX を向上させる一方、攻撃面も拡大する —— hook コントラクト自体のセキュリティが新たなリスクポイントとなる。
 
 ## Open questions
 
-- V1 退役的确切时间表?(预计 2026 但具体季度未公布)
-- Fast Transfer 的对手风险定价模型?Circle 如何对冲?
-- Hooks 在 DeFi 集成的实际安全审计实践?
-- 与 LayerZero/Wormhole 等通用桥的长期共存还是替代?(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]])
+- V1 退役の正確な時期は?(2026 予想だが具体的な四半期は未公表)
+- Fast Transfer のカウンターパーティリスクのプライシングモデルは?Circle はどうヘッジするか?
+- DeFi 統合における Hooks の実際のセキュリティ監査実践は?
+- LayerZero/Wormhole 等の汎用ブリッジとの長期共存か、それとも置換か?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] 参照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/cctp-v2-technical-spec|CCTP V2 Technical Spec]]
 - [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton]]
-- [[systems/canton-overview|Canton(私链对照)]]
+- [[systems/canton-overview|Canton(プライベートチェーン対照)]]
 <!-- /wiki-links:managed -->
 
 ## Sources

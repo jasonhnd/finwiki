@@ -1,10 +1,10 @@
 ---
-title: Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构
+title: Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築
 aliases: [solana firedancer 2026, firedancer validator economics, jump crypto firedancer mainnet, frankendancer agave jito comparison, solana client diversity 2026, firedancer mev pipeline, solana tps client diversity, sol staking yield firedancer impact]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [systems, solana, firedancer, jump-crypto, validator, mev, jito, agave, client-diversity, tps, sol-staking]
@@ -19,206 +19,206 @@ sources:
   - https://defillama.com/chain/Solana
 ---
 
-# Solana Firedancer · Jump Crypto 第二客户端 2026 主网 · validator 经济与 MEV 重构
+# Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築
 
 ## TL;DR
 
-- **Firedancer** 是 Jump Crypto 从零用 C/C++ 写的 Solana 第二独立验证客户端 · 与 Anza(原 Solana Labs)的 **Agave**(Rust)和 **Jito-Solana**(Agave fork + MEV)形成三客户端格局
-- 2024-09 **Frankendancer**(混合体:Firedancer 网络栈 + Agave runtime)上线 mainnet · 占 mainnet stake ~6%(2026-Q2)· **Full Firedancer**(完全自研 runtime · 含 Tile-based 并行执行)2026-Q4 计划主网 beta
-- 性能基准:Frankendancer 单节点 ~50k-100k TPS 实测(网络栈优化主因)· Full Firedancer testnet 实测 ~1M+ TPS(理论上限 · 实际受 stake-weighted QoS + 共识带宽限制)
-- **客户端多样性 = 系统性 risk 缓解**:Solana 2022-2023 曾因 Agave 单一客户端 bug 多次 outage(7-9 次主网 halts)· Firedancer 引入意味着任一客户端 catastrophic bug 不再 halt 整链(参见 [[systems/bft-validator-economy-overview|BFT validator 经济学概览]])
-- **MEV pipeline 重构**:Jito-Solana 当前主导 MEV(~95% block 通过 Jito relayer)· Firedancer 引入独立 MEV 接口设计 · 长期 Jito 不再是单一通道 · MEV tip 经济可能分流(Jito tip 年化 $300-500M 估算 2026)
-- **集中度 risk**:三客户端但 Anza+Jito 都是 Rust + 同根 lineage(Jito 是 Agave fork)· Firedancer 才是真正"独立 codebase" · 客户端多样性 Nakamoto 系数从 1 → 2 是渐进过程(参见 [[systems/bft-validator-economy-four-variables|BFT validator economy four variables]])
-- **SOL staking yield 影响**:Firedancer 提升网络效率 → 单 validator 可承载更多 stake → operator 数量保持但 stake-weighted 集中度可能轻微下降 · base SOL staking yield 维持 ~6-8% APY · Jito tip 附加 ~1-2%
-- 路由:[[systems/INDEX|systems index]] · 与 [[systems/bft-validator-economy-overview|BFT validator economics overview]] / [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT]] 对照
+- **Firedancer** は Jump Crypto がゼロから C/C++ で書く Solana 第二の独立検証クライアント · Anza(旧 Solana Labs)の **Agave**(Rust)と **Jito-Solana**(Agave fork + MEV)とで 3 クライアント構造を形成
+- 2024-09 **Frankendancer**(ハイブリッド:Firedancer ネットワークスタック + Agave runtime)がメインネット稼働 · メインネット stake の ~6%(2026-Q2)を占有 · **Full Firedancer**(完全自社開発の runtime · Tile-based 並列実行を含む)は 2026-Q4 にメインネット beta 予定
+- 性能ベンチマーク:Frankendancer 単ノード ~50k-100k TPS 実測(ネットワークスタック最適化が主因)· Full Firedancer testnet で ~1M+ TPS 実測(理論上限 · 実際は stake-weighted QoS + コンセンサス帯域に制約)
+- **クライアント多様性 = システミックリスク緩和**:Solana は 2022-2023 年に Agave 単一クライアントのバグで複数回 outage を発生(7-9 回のメインネット halt)· Firedancer の導入は、任意のクライアントの catastrophic bug でも全チェーン halt しないことを意味する([[systems/bft-validator-economy-overview|BFT validator 経済学概観]] を参照)
+- **MEV pipeline 再構築**:Jito-Solana が現在 MEV を主導(~95% block が Jito relayer 経由)· Firedancer の導入により独立した MEV インターフェース設計が実現 · 長期に Jito は単一通路ではなくなり · MEV tip 経済は分散する可能性(Jito tip 年化 $300-500M 推定 2026)
+- **集中リスク**:3 クライアントだが Anza+Jito いずれも Rust + 同根 lineage(Jito は Agave fork)· Firedancer こそ真の「独立 codebase」· クライアント多様性 Nakamoto 係数 1 → 2 は漸進的プロセス([[systems/bft-validator-economy-four-variables|BFT validator economy four variables]] を参照)
+- **SOL staking yield 影響**:Firedancer がネットワーク効率を向上 → 単一 validator がより多くの stake を担える → operator 数は維持されるが stake-weighted 集中度が穏やかに低下する可能性 · base SOL staking yield は ~6-8% APY を維持 · Jito tip 追加 ~1-2%
+- ルーティング:[[systems/INDEX|systems index]] · [[systems/bft-validator-economy-overview|BFT validator economics overview]] / [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT]] と対照
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-overview|BFT validator 经济学概览]] as the validator economics anchor and [[systems/bft-validator-economy-four-variables|BFT validator economy 四变量]] for the yield / slashing / MEV / 集中度 framework that Firedancer disrupts. For consensus architecture context, see [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT architecture]] —— Solana TowerBFT + PoH 是 chain-BFT 变种 · Firedancer 不改共识只改 runtime / 网络栈。For the L1 vs L2 strategic landscape that Solana ecosystem competes with, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For Ethereum 对照点(client diversity 早已是文化共识),see [[systems/pectra-upgrade-overview|Pectra upgrade overview]]. For SOL staking ecosystem 与 CEX 的耦合,see [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]] and [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]. Cross-link to [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] when reasoning about Solana 与 EVM 生态的桥接选型。
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-overview|BFT validator 経済学概観]] as the validator economics anchor and [[systems/bft-validator-economy-four-variables|BFT validator economy 4 変数]] for the yield / slashing / MEV / 集中度 framework that Firedancer disrupts. For consensus architecture context, see [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT architecture]] —— Solana TowerBFT + PoH は chain-BFT 変種 · Firedancer はコンセンサスを変えず runtime / ネットワークスタックのみを変える。For the L1 vs L2 strategic landscape that Solana ecosystem competes with, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For Ethereum 対照点(クライアント多様性はすでに文化的コンセンサス),see [[systems/pectra-upgrade-overview|Pectra upgrade overview]]. For SOL staking ecosystem と CEX のカップリング,see [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]] and [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]. Cross-link to [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] when reasoning about Solana と EVM エコシステムのブリッジ選定。
 
-## Mechanism · Firedancer 架构与 Solana 客户端格局
+## Mechanism · Firedancer アーキテクチャと Solana クライアント構造
 
-### 三客户端格局(2026-Q2)
+### 3 クライアント構造(2026-Q2)
 
-| 客户端 | 团队 | 语言 | mainnet stake share | 角色 |
+| クライアント | チーム | 言語 | メインネット stake share | 役割 |
 |---|---|---|---|---|
-| **Agave**(原 Solana Labs)| Anza(Solana Labs spin-off) | Rust | ~62% | 默认 reference 实现 · 路线图主导 |
-| **Jito-Solana**(Agave fork)| Jito Labs | Rust(fork) | ~32% | Agave + MEV relayer / block engine · 实质上是 fee market 主通道 |
-| **Frankendancer**(Firedancer 阶段 1)| Jump Crypto | C/C++ 网络栈 + Rust runtime(借 Agave) | ~6% | Firedancer 网络栈早期 production deploy · 完整 Firedancer 的过渡形态 |
-| **Full Firedancer**(2026-Q4 计划)| Jump Crypto | C/C++ 全栈 + 自研 Tile-based 并行 runtime | 0%(testnet 阶段) | 完整独立客户端 · 目标 1M+ TPS · 真正的 client diversity |
+| **Agave**(旧 Solana Labs)| Anza(Solana Labs スピンオフ) | Rust | ~62% | デフォルト reference 実装 · ロードマップ主導 |
+| **Jito-Solana**(Agave fork)| Jito Labs | Rust(fork) | ~32% | Agave + MEV relayer / block engine · 実質的に fee market 主通路 |
+| **Frankendancer**(Firedancer 段階 1)| Jump Crypto | C/C++ ネットワークスタック + Rust runtime(Agave 借用) | ~6% | Firedancer ネットワークスタック初期 production deploy · 完全 Firedancer への過渡形態 |
+| **Full Firedancer**(2026-Q4 計画)| Jump Crypto | C/C++ 全スタック + 自社 Tile-based 並列 runtime | 0%(testnet 段階) | 完全独立クライアント · 目標 1M+ TPS · 真の client diversity |
 
-注:Jito 是 Agave 的 fork · codebase ~95% 相同 · 客户端多样性意义上 Jito ≈ Agave。所以 mainnet 上"真正独立 codebase"只有 Frankendancer 6% · 完整 Firedancer 上线后才能形成 Nakamoto 系数 ≥ 2 的客户端多样性(参见 [[systems/bft-validator-economy-four-variables|BFT validator economy 四变量]] 的"集中度"维度)。
+注:Jito は Agave のフォーク · codebase の ~95% は同一 · クライアント多様性的には Jito ≈ Agave。よってメインネット上で「真に独立した codebase」は Frankendancer の 6% のみ · 完全な Firedancer がローンチして初めて Nakamoto 係数 ≥ 2 のクライアント多様性を形成できる([[systems/bft-validator-economy-four-variables|BFT validator economy 4 変数]] の「集中度」軸を参照)。
 
-### Firedancer 性能特点
+### Firedancer 性能特徴
 
-**网络栈(Frankendancer 已 production)**:
-- **Kernel bypass**:用 XDP / DPDK 直接 user-space 处理 UDP packet · 绕开 Linux kernel TCP/IP stack
-- **NIC offload**:利用现代网卡 hardware queue / RSS · 多核 fan-out
-- **Tile-based 并发**:CPU core 专责单一 stage(verify · pack · bank · shred)· 无 lock 跨 thread
-- 单节点实测 sustained ~50k-100k TPS · 是 Agave reference 实现的 ~5-10x
+**ネットワークスタック(Frankendancer は production 済)**:
+- **Kernel bypass**:XDP / DPDK で user-space 直接 UDP packet 処理 · Linux kernel TCP/IP stack を回避
+- **NIC offload**:現代 NIC の hardware queue / RSS を利用 · マルチコア fan-out
+- **Tile-based 並行**:CPU core が単一 stage に専属(verify · pack · bank · shred)· スレッド間 lock なし
+- 単ノード実測 sustained ~50k-100k TPS · Agave reference 実装の ~5-10x
 
 **Runtime(Full Firedancer 2026-Q4)**:
-- **Parallel transaction execution**:基于 SVM(Solana Virtual Machine)account-locked 并发模型 · 自研 scheduler 提高并行度
-- **Vote separation**:专门 tile 处理 vote message · 与 user tx 分离 · 减少 contention
-- **Pipelined consensus**:与 PoH(Proof of History)tick 协调 · 减少 leader 切换开销
-- testnet 实测峰值 ~1M+ TPS(仅 spam transfer · 真实 DeFi workload 实测 ~200-500k TPS)
+- **Parallel transaction execution**:SVM(Solana Virtual Machine)の account-locked 並行モデル · 自社 scheduler で並列度を向上
+- **Vote separation**:専属 tile で vote message を処理 · user tx と分離 · contention を削減
+- **Pipelined consensus**:PoH(Proof of History)tick と協調 · leader 切り替えオーバーヘッドを削減
+- testnet 実測ピーク ~1M+ TPS(spam transfer のみ · 実 DeFi workload は実測 ~200-500k TPS)
 
-**对比**:Ethereum L1 ~15 TPS · Polygon zkEVM ~2k TPS · zkSync Era ~50k TPS(参见 [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM Rollup 成熟度对照矩阵 2026]])· Solana Agave 实测 sustained ~1-3k TPS(2026-Q2)。Firedancer 是单链 TPS 数量级的跃升。
+**比較**:Ethereum L1 ~15 TPS · Polygon zkEVM ~2k TPS · zkSync Era ~50k TPS([[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM Rollup 成熟度対照マトリクス 2026]] を参照)· Solana Agave 実測 sustained ~1-3k TPS(2026-Q2)。Firedancer は単一チェーン TPS の数量級ジャンプ。
 
-### Tile-based 并行架构
+### Tile-based 並列アーキテクチャ
 
-Firedancer 的 "tile" = 一个 OS thread pinned 到一个 CPU core · 专责一个 pipeline stage:
-- **net tile**:收 UDP packet · 解析
-- **verify tile**:Ed25519 签名验证(可多 tile 并行 · 用 AVX-512 SIMD)
-- **dedup tile**:去重(防 replay)
-- **pack tile**:把 tx 打包成 block(scheduling)
-- **bank tile**:执行 tx(account state 更新)
-- **shred tile**:分片 + 广播(Turbine 协议)
+Firedancer の「tile」= 1 つの CPU core にピン留めされた OS スレッド · 1 つの pipeline stage に専属:
+- **net tile**:UDP packet 受信 · パース
+- **verify tile**:Ed25519 署名検証(複数 tile で並列可 · AVX-512 SIMD 利用)
+- **dedup tile**:重複除去(replay 防止)
+- **pack tile**:tx を block にパッケージ(scheduling)
+- **bank tile**:tx 実行(account state 更新)
+- **shred tile**:分割 + ブロードキャスト(Turbine プロトコル)
 
-这是典型的 dataflow 架构 · 与 Agave 的 actor 模型 + tokio runtime 完全不同。Firedancer 的极致性能 + 极低 jitter 主要来自这个设计。
+これは典型的な dataflow アーキテクチャ · Agave の actor モデル + tokio runtime とは完全に異なる。Firedancer の究極の性能 + 極低 jitter は主にこの設計に由来。
 
-## Market dynamics · MEV pipeline 重构与 Jito 经济
+## Market dynamics · MEV pipeline 再構築と Jito 経済
 
-### Jito 当前主导地位
+### Jito 現在の主導地位
 
-Jito 在 Solana 上提供两层服务:
-1. **Jito-Solana 客户端**:Agave fork · 添加 block engine + relayer · 让 validator 接收 MEV bundle
-2. **Jito Block Engine**:类似 Flashbots 的 PBS(proposer-builder separation)· searcher 提交 MEV bundle · validator 拿到 tip
+Jito は Solana 上で 2 つのレイヤーのサービスを提供:
+1. **Jito-Solana クライアント**:Agave fork · block engine + relayer を追加 · validator が MEV bundle を受信可能
+2. **Jito Block Engine**:Flashbots に類似の PBS(proposer-builder separation)· searcher が MEV bundle を提出 · validator が tip を受領
 
-2026-Q2 数据:
-- Jito-Solana 占 mainnet stake ~32% · 但通过其他客户端连接 Jito Block Engine 的 validator 加总占 ~80-95% stake
-- Jito tip 年化 ~$300-500M(2026 估算 · 取决于 meme coin / DEX 活跃度)· 是 SOL staker 在 base inflation yield 之上的额外 ~1-2% APY 来源
-- Jito 上线 JTO token 2024-Q1 · DAO 治理 + tip 分配规则
+2026-Q2 データ:
+- Jito-Solana はメインネット stake の ~32% を占有 · ただし他クライアントから Jito Block Engine に接続している validator も合算すれば ~80-95% stake
+- Jito tip 年化 ~$300-500M(2026 推定 · meme coin / DEX アクティビティ次第)· SOL staker が base inflation yield に加えて得る追加 ~1-2% APY の源
+- Jito は JTO token を 2024-Q1 にローンチ · DAO 治理 + tip 配分ルール
 
-### Firedancer 引入的 MEV 重构
+### Firedancer 導入による MEV 再構築
 
-Firedancer 设计原则:**MEV pipeline 模块化 · 不绑定单一 relayer**
-- Firedancer 提供 plugin 接口 · validator 可选择:不接 MEV / 接 Jito Block Engine / 接其他 future relayer / 自建
-- 长期目标:打破 Jito Block Engine 单一通道 · 让 PBS 市场多元化(类似 Ethereum 上 Flashbots / bloXroute / Manifold 等多 builder 竞争)
-- Jump Crypto 自己有 prop trading desk · 但公开承诺 Firedancer 不偏袒 Jump 的 MEV pipeline · 仅提供中立接口
+Firedancer 設計原則:**MEV pipeline モジュラー · 単一 relayer に縛られない**
+- Firedancer は plugin インターフェースを提供 · validator は選択可:MEV 接続しない / Jito Block Engine に接続 / 他 future relayer に接続 / 自社構築
+- 長期目標:Jito Block Engine の単一通路を打破 · PBS 市場を多元化(Ethereum 上で Flashbots / bloXroute / Manifold 等の複数 builder 競合に類似)
+- Jump Crypto 自身は prop trading desk を持つ · ただし Firedancer は Jump の MEV pipeline を偏重しないと公開コミット · 中立インターフェースのみ提供
 
-**对 Jito 经济的影响**:
-- 短期(2026-Q4 - 2027):Firedancer 主网后 Jito 仍是默认 · 因为 builder/searcher 生态需要时间迁移
-- 中期(2027-2028):若多 builder 进入 · Jito 市场份额可能从 80%+ 降到 50-60% · Jito tip 总量保持(MEV 总规模不变)但分流
-- 长期:Solana MEV 市场结构可能向 Ethereum PBS 看齐 —— 多 builder 竞争 · 但单 searcher 仍可能集中
+**Jito 経済への影響**:
+- 短期(2026-Q4 - 2027):Firedancer メインネット後も Jito はデフォルトのまま · builder/searcher エコシステムの移行に時間が必要
+- 中期(2027-2028):複数 builder 参入時 · Jito 市場シェアが 80%+ から 50-60% に低下する可能性 · Jito tip 総額は維持(MEV 総規模不変)だが分散
+- 長期:Solana MEV 市場構造が Ethereum PBS に追随する可能性 —— 複数 builder 競合 · ただし単一 searcher は依然集中する可能性
 
-### Stake-weighted QoS · validator 经济侧重新分配
+### Stake-weighted QoS · validator 経済側の再配分
 
-Solana 2024 引入 **Stake-Weighted QoS**(SWQoS):validator 优先处理来自高 stake validator 的 packet · 防 spam DDoS。但这制造了 "small validator 难以接收 tx" 的二次集中度问题。
+Solana は 2024 年に **Stake-Weighted QoS**(SWQoS)を導入:validator は高 stake validator からの packet を優先処理 · spam DDoS を防止。だがこれは「small validator が tx を受信しにくい」という二次集中問題を作り出した。
 
-Firedancer 不改 SWQoS 协议 · 但通过提升每节点处理能力 · 间接缓解:即使小 validator 也能处理大量 packet · 不必依赖 SWQoS 优先级。这是 Firedancer 间接改善长尾 validator 经济的路径(参见 [[systems/bft-validator-economy-overview|BFT validator 经济学概览]])。
+Firedancer は SWQoS プロトコルを変えないが · 各ノードの処理能力を向上させることで間接的に緩和:小規模 validator でも大量の packet を処理でき · SWQoS 優先度に依存する必要なし。これが Firedancer がロングテール validator 経済を間接改善する経路([[systems/bft-validator-economy-overview|BFT validator 経済学概観]] を参照)。
 
 ### Validator centralization risk
 
-**Pro-decentralization 论据**(Firedancer 减少集中)*:
-- 客户端多样性从 1 → 2 真正实现
-- 单节点性能提升 · 小 operator 可用同等硬件参与
-- 多 MEV relayer 选择 · validator 不必绑定 Jito
+**Pro-decentralization 論拠**(Firedancer が集中を減らす):
+- クライアント多様性 1 → 2 を真に実現
+- 単ノード性能向上 · 小 operator も同等ハードウェアで参加可能
+- 複数 MEV relayer 選択肢 · validator は Jito に縛られない
 
-**反向论据**(Firedancer 可能增加集中)*:
-- Firedancer 需要专门硬件优化(NIC / CPU 选型 / kernel bypass tuning)· 运维门槛上升
-- Jump Crypto 是大机构 · Firedancer 是它的工具 · 长期 Jump 可能间接影响 Solana 治理
-- C/C++ codebase 比 Rust 更易出 memory safety bug · 一旦 Firedancer 有 catastrophic bug · 多客户端反而失去意义
+**反対論拠**(Firedancer が集中を増やす可能性):
+- Firedancer は専門ハードウェア最適化(NIC / CPU 選定 / kernel bypass tuning)が必要 · 運用ハードルが上昇
+- Jump Crypto は大機関 · Firedancer はそのツール · 長期に Jump が間接的に Solana 治理に影響する可能性
+- C/C++ codebase は Rust より memory safety bug を出しやすい · Firedancer に catastrophic bug があれば · マルチクライアントの意義を失う
 
-实证数据:Solana validator 总数 2026-Q2 ~1500+(active)· top 25 validator 仍产 ~33% block · 客户端多样性提升不直接改善 stake 集中度。Nakamoto 系数(攻击网络所需最少 validator)~20-25 · 与 2024 持平。
+実証データ:Solana validator 総数 2026-Q2 ~1500+(active)· top 25 validator が依然として ~33% block を生産 · クライアント多様性向上が stake 集中度を直接改善するわけではない。Nakamoto 係数(ネットワーク攻撃に必要な最小 validator 数)~20-25 · 2024 年と同水準。
 
 ## Comparison · Firedancer / Agave / Jito-Solana
 
-### 三客户端对照表
+### 3 クライアント対照表
 
-| 维度 | Agave(Anza) | Jito-Solana | Frankendancer(2026 production) | Full Firedancer(2026 Q4 计划) |
+| 観点 | Agave(Anza) | Jito-Solana | Frankendancer(2026 production) | Full Firedancer(2026 Q4 計画) |
 |---|---|---|---|---|
-| **语言** | Rust | Rust(Agave fork) | C/C++ 网络栈 + Rust runtime | C/C++ 全栈 |
-| **codebase 独立性** | reference 实现 | ~95% 与 Agave 相同 · 不算独立 | 网络栈独立 · runtime 借 Agave | 完全独立 |
-| **mainnet stake**(2026-Q2) | ~62% | ~32% | ~6% | 0% (testnet) |
-| **TPS sustained 实测** | ~1-3k(reference) | ~1-3k(同 Agave) | ~50-100k(网络栈优化) | ~200-500k(testnet · DeFi workload) |
-| **MEV 接入** | 无内置 · 通过 Jito relayer | 内置 Jito relayer | 借 Agave · 通过 Jito | 中立 plugin · 多 relayer 支持 |
-| **运维门槛** | 中(标准 Solana validator) | 中(同 Agave) | 较高(需 NIC / kernel bypass 调优) | 高(专门硬件 + Firedancer 调优) |
-| **catastrophic bug 风险** | Rust memory safety + 长期 production-tested | 同 Agave + Jito 自有 MEV bug surface | C/C++ 网络栈早期 · runtime 借 Agave | C/C++ 全栈 · 早期 production · memory safety 风险 |
-| **客户端多样性贡献** | 1.0(reference) | ~0.1(fork) | ~0.3(网络栈独立) | ~1.0(真正独立 codebase) |
-| **MEV 收入归属** | 不直接 · 通过 Jito relayer 转发 | 直接 · Jito DAO 分配 | 同 Agave 现状 | 中立 · validator 自选 relayer |
+| **言語** | Rust | Rust(Agave fork) | C/C++ ネットワークスタック + Rust runtime | C/C++ 全スタック |
+| **codebase 独立性** | reference 実装 | Agave と ~95% 同一 · 独立とはみなさない | ネットワークスタック独立 · runtime は Agave 借用 | 完全独立 |
+| **メインネット stake**(2026-Q2) | ~62% | ~32% | ~6% | 0% (testnet) |
+| **TPS sustained 実測** | ~1-3k(reference) | ~1-3k(Agave 同等) | ~50-100k(ネットワークスタック最適化) | ~200-500k(testnet · DeFi workload) |
+| **MEV 接続** | 内蔵なし · Jito relayer 経由 | Jito relayer 内蔵 | Agave 借用 · Jito 経由 | 中立 plugin · 複数 relayer サポート |
+| **運用ハードル** | 中(標準 Solana validator) | 中(Agave 同等) | 高め(NIC / kernel bypass 調整要) | 高(専門ハードウェア + Firedancer 調整) |
+| **catastrophic bug リスク** | Rust memory safety + 長期 production-tested | Agave 同等 + Jito 独自 MEV bug surface | C/C++ ネットワークスタック初期 · runtime は Agave 借用 | C/C++ 全スタック · 初期 production · memory safety リスク |
+| **クライアント多様性貢献** | 1.0(reference) | ~0.1(fork) | ~0.3(ネットワークスタック独立) | ~1.0(真に独立した codebase) |
+| **MEV 収入帰属** | 直接ではない · Jito relayer 経由で転送 | 直接 · Jito DAO が配分 | Agave 現状と同等 | 中立 · validator が relayer を自選 |
 
-### 与其他主流 L1 客户端多样性对比
+### その他主流 L1 クライアント多様性との比較
 
-| 链 | 客户端数量(真正独立 codebase) | 最大单一客户端 stake share | Nakamoto client 多样性 |
+| チェーン | クライアント数(真に独立 codebase) | 最大単一クライアント stake share | Nakamoto クライアント多様性 |
 |---|---|---|---|
-| **Ethereum CL** | 4(Lighthouse · Prysm · Teku · Nimbus · Lodestar)| Prysm ~30% | 4-5(行业最佳) |
-| **Ethereum EL** | 3+(Geth · Nethermind · Besu · Erigon · Reth) | Geth ~50% | 3-4(Geth 集中度仍偏高)|
-| **Solana**(2026-Q2) | 2(Agave/Jito 同根 · Frankendancer 独立网络栈)| Agave+Jito ~94% | 1.x(实际接近 1) |
-| **Solana**(2026-Q4 后 Full Firedancer)| 2 真独立(Agave/Jito family vs Firedancer family)| 取决于 Firedancer 采用率 | 2(目标) |
-| **Sui** | 1(Mysten Labs Rust 单客户端) | 100% | 1 |
-| **Aptos** | 1(Aptos Labs Rust 单客户端) | 100% | 1 |
+| **Ethereum CL** | 4(Lighthouse · Prysm · Teku · Nimbus · Lodestar)| Prysm ~30% | 4-5(業界最良) |
+| **Ethereum EL** | 3+(Geth · Nethermind · Besu · Erigon · Reth) | Geth ~50% | 3-4(Geth 集中度は依然高め)|
+| **Solana**(2026-Q2) | 2(Agave/Jito 同根 · Frankendancer ネットワークスタック独立)| Agave+Jito ~94% | 1.x(実際は 1 に近い) |
+| **Solana**(2026-Q4 後 Full Firedancer)| 2 真独立(Agave/Jito family vs Firedancer family)| Firedancer 採用率次第 | 2(目標) |
+| **Sui** | 1(Mysten Labs Rust 単クライアント) | 100% | 1 |
+| **Aptos** | 1(Aptos Labs Rust 単クライアント) | 100% | 1 |
 
-Solana 在 Ethereum 和"Move 系单客户端 L1"之间。Firedancer 主网完成是 Solana 接近 Ethereum 多客户端文化的关键一步。
+Solana は Ethereum と「Move 系単クライアント L1」の中間。Firedancer メインネット完成は Solana が Ethereum のマルチクライアント文化に接近する重要な一歩。
 
-## Ecosystem impact · SOL 经济与 DeFi 生态
+## Ecosystem impact · SOL 経済と DeFi エコシステム
 
-### SOL staking yield 影响
+### SOL staking yield 影響
 
-**Base inflation yield**(2026-Q2):~5-6% APY · 由 Solana 通胀曲线(每年衰减 15% · 长期 target 1.5%)决定 · 不受客户端影响。
+**Base inflation yield**(2026-Q2):~5-6% APY · Solana インフレ曲線(年間 15% 減衰 · 長期 target 1.5%)で決定 · クライアント影響を受けない。
 
-**Jito tip yield(MEV 分润)**:~1-2% APY 附加 · 来自 MEV bundle tip · 当前 Jito 主导。Firedancer 引入后 Jito 份额可能分流 · 但 SOL staker 总 MEV yield 不变(MEV 池大小不变)· 只是分配路径多元化。
+**Jito tip yield(MEV 分配)**:~1-2% APY 追加 · MEV bundle tip 由来 · 現在 Jito 主導。Firedancer 導入後 Jito シェアは分散する可能性 · ただし SOL staker 総 MEV yield は不変(MEV プールサイズ不変)· 配分経路の多元化のみ。
 
-**总 SOL staking yield**(2026-Q2):~6-8% APY for self-staked · LST(Marinade mSOL · Jito JitoSOL · Lido stSOL 已弃用)~6-7% APY(收取 ~10% fee)。
+**総 SOL staking yield**(2026-Q2):~6-8% APY for self-staked · LST(Marinade mSOL · Jito JitoSOL · Lido stSOL は廃止済み)~6-7% APY(~10% fee を徴収)。
 
-**Firedancer 间接影响**:
-- 提升网络效率 → 每 validator 可承载更多 stake → 同等 inflation 下 yield 不变 · 但 operator economy 更可持续
-- 降低 missed block 概率 → 减少 vote credit 损失 → marginal yield 提升 < 0.5%
-- 客户端多样性提升 → 系统 incident 概率降低 → reduce tail risk · 不影响 expected yield
+**Firedancer 間接影響**:
+- ネットワーク効率向上 → 各 validator がより多くの stake を担える → 同等 inflation 下で yield 不変 · ただし operator economy がより持続可能
+- missed block 確率低下 → vote credit 損失減少 → marginal yield 上昇 < 0.5%
+- クライアント多様性向上 → システムインシデント確率低下 → tail risk 削減 · 期待 yield に影響なし
 
-### Jito tip 经济具体数字
+### Jito tip 経済の具体的数字
 
-2026-Q2 估算:
-- 平均 daily MEV tip volume: ~3000-5000 SOL · 取决于 meme coin / DEX 活跃度
+2026-Q2 推定:
+- 平均 daily MEV tip volume: ~3000-5000 SOL · meme coin / DEX アクティビティ次第
 - 年化 MEV tip total: ~1.2-1.8M SOL ≈ $300-500M(@ $250 SOL)
-- Jito DAO 抽取 ~5% 作为 protocol fee · 95% 分给 validator + staker
-- top validator(高 stake) 因 leader rotation 概率高 · MEV tip 集中度反映 stake 集中度
+- Jito DAO は ~5% を protocol fee として徴収 · 95% を validator + staker に配分
+- top validator(高 stake)は leader rotation 確率が高い · MEV tip 集中度は stake 集中度を反映
 
-**Firedancer 引入后预测**:
-- 短期(2026-Q4 - 2027 mid):Jito 仍占 80%+ relayer 流量 · tip 经济基本不变
-- 中期(2027 H2 - 2028):多 relayer 竞争 · Jito 份额可能降到 50-60% · 其他 relayer 分流 · 但 validator 总收入 unchanged
-- 长期(2028+):若出现 first-rate competitor relayer · MEV 市场可能像 Ethereum 一样有 Flashbots/bloXroute/Manifold 多 builder · 但 Jito 仍是市场龙头
+**Firedancer 導入後の予測**:
+- 短期(2026-Q4 - 2027 mid):Jito が依然として relayer トラフィックの 80%+ を占有 · tip 経済は基本不変
+- 中期(2027 H2 - 2028):複数 relayer 競合 · Jito シェアは 50-60% に低下する可能性 · 他 relayer が分散 · ただし validator 総収入は unchanged
+- 長期(2028+):first-rate competitor relayer が出現すれば · MEV 市場は Ethereum と同様に Flashbots/bloXroute/Manifold の複数 builder 構造になる可能性 · ただし Jito は依然として市場リーダー
 
-### Solana DEX / DeFi 生态受益
+### Solana DEX / DeFi エコシステムの受益
 
-参见 [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]:
-- **Raydium / Orca / Meteora / Jupiter aggregator**:Firedancer 高 TPS + 低 latency 意味着 sub-100ms tx 确认更稳定 · 大幅改善 swap UX
-- **Phoenix · Drift · Zeta**(orderbook DEX):对 latency 极敏感 · Firedancer 在 latency tail 上的优化(P99 < 500ms)直接提升 maker/taker fill rate
-- **Jupiter v6+** aggregator:更高 TPS 意味着同时跑更多 RFQ + onchain leg · 减少 sandwich attack 风险
-- **Meme coin trading**:Solana meme coin volume 2026 主导 onchain trading · Firedancer 提供更稳定的 high-throughput 处理 · 减少 outage 风险
+[[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]] を参照:
+- **Raydium / Orca / Meteora / Jupiter aggregator**:Firedancer の高 TPS + 低 latency が sub-100ms tx confirmation の安定性を意味し · swap UX を大幅改善
+- **Phoenix · Drift · Zeta**(orderbook DEX):latency に極めて敏感 · Firedancer の latency tail 最適化(P99 < 500ms)が直接 maker/taker fill rate を向上
+- **Jupiter v6+** aggregator:より高い TPS により同時により多くの RFQ + onchain leg を走らせ · sandwich attack リスクを削減
+- **Meme coin trading**:Solana meme coin volume が 2026 年に onchain trading を主導 · Firedancer がより安定した high-throughput 処理を提供 · outage リスク削減
 
-### 监管视角
+### 規制視点
 
-- **CFTC**:SOL 在 2024-2025 SEC vs Coinbase / Kraken 案中被列为"未注册证券"指控之一 · 但 2025 末 SEC 撤回部分 SOL 相关 enforcement · 监管立场转向 commodity / 等待 Congress 立法
-- **Jito JTO token**:DAO 治理 token · 监管定性未明 · Jito 已 geo-fence 部分美国零售 access
-- **Firedancer 不发 token**:Jump Crypto 是 for-profit · 但 Firedancer 是 Apache 2.0 open source · 无 token issuance · 监管 surface 比 Jito 小
-- **Validator-as-a-service**:Solana validator 多通过 Marinade / Jito staking pool 接入 · 这与 [[exchanges/jp-cex-staking-lending-regulation|JP CEX staking lending 監管]] 中讨论的 staking-as-a-service 监管对象类似(参见 [[exchanges/jp-crypto-staking-as-a-service-operators|JP crypto staking-as-a-service operators]])
+- **CFTC**:SOL は 2024-2025 SEC vs Coinbase / Kraken 案で「未登録証券」告発の 1 つとされた · ただし 2025 年末に SEC が一部 SOL 関連 enforcement を撤回 · 規制スタンスが commodity / Congress 立法待ちに転換
+- **Jito JTO token**:DAO 治理 token · 規制定義未明 · Jito はすでに一部米国リテール access を geo-fence
+- **Firedancer は token 発行せず**:Jump Crypto は for-profit · ただし Firedancer は Apache 2.0 オープンソース · token issuance なし · 規制サーフェスは Jito より小さい
+- **Validator-as-a-service**:Solana validator は Marinade / Jito staking pool 経由で接続する場合が多い · これは [[exchanges/jp-cex-staking-lending-regulation|JP CEX staking lending 規制]] で議論される staking-as-a-service 規制対象と類似([[exchanges/jp-crypto-staking-as-a-service-operators|JP crypto staking-as-a-service operators]] を参照)
 
 ## Counterpoints
 
-- **C/C++ memory safety 风险**:Firedancer 用 C/C++ 而非 Rust · 即使 Jump Crypto 团队投入大量 fuzz testing + formal verification(部分模块)· 长期 memory bug surface 高于纯 Rust 客户端 · 一旦出 catastrophic bug 可能反而 halt 整链(因 Firedancer stake 已大到不可忽略)
-- **"客户端多样性 = 安全"是否过度宣传**:Ethereum 实证显示多客户端反而引入"客户端间共识 bug"(2024 Holesky 测试网事件)· 多客户端不等于零 outage · 只是不同 failure mode
-- **Jito 经济模式可能不易撼动**:Jito 已建立 searcher / builder 生态网络效应(三年时间)· Firedancer 中立接口能否真打破 Jito 垄断 · 取决于其他 relayer 是否能提供同等深度的 MEV 流
-- **Solana 共识层未变 · TPS 上限仍受 PoH/TowerBFT 约束**:Firedancer 优化 runtime + 网络栈 · 但 Solana 共识本身(PoH + TowerBFT + Turbine + leader rotation)未变 · 理论 TPS 上限仍受 leader schedule + 网络带宽限制 · Firedancer 1M+ TPS 是 lab 数据 · mainnet 不会到这量级
-- **Jump Crypto 治理影响力**:Jump 是 Solana 生态最大投资人之一 · Firedancer 让 Jump 有强大技术杠杆 · 长期对 Solana 治理影响可能超过 Anza
-- **Stake-weighted QoS 不解**:Firedancer 提升节点处理力 · 但 SWQoS 本身仍偏向高 stake validator · 小 operator 接收 tx 的相对劣势未根本解决
+- **C/C++ memory safety リスク**:Firedancer は Rust ではなく C/C++ を使用 · Jump Crypto チームが大量の fuzz testing + 一部モジュールの formal verification に投資したとしても · 長期 memory bug surface は純 Rust クライアントより高い · catastrophic bug が出ればかえって全チェーンを halt する可能性(Firedancer stake がすでに無視できないほど大きいため)
+- **「クライアント多様性 = 安全」は過度な宣伝か**:Ethereum の実証はマルチクライアントがかえって「クライアント間コンセンサスバグ」を導入することを示す(2024 Holesky テストネットイベント)· マルチクライアント = ゼロ outage ではなく · failure mode が異なるだけ
+- **Jito 経済モデルは容易に揺るがない**:Jito はすでに searcher / builder エコシステムのネットワーク効果(3 年間)を確立 · Firedancer の中立インターフェースが真に Jito 独占を打破できるかは · 他 relayer が同等の MEV フローの深度を提供できるかに依存
+- **Solana コンセンサス層は変わらず · TPS 上限は依然として PoH/TowerBFT 制約を受ける**:Firedancer は runtime + ネットワークスタックを最適化 · ただし Solana コンセンサス本体(PoH + TowerBFT + Turbine + leader rotation)は変わらず · 理論 TPS 上限は依然として leader schedule + ネットワーク帯域に制約 · Firedancer 1M+ TPS は lab データ · メインネットではこの数量級には達しない
+- **Jump Crypto 治理影響力**:Jump は Solana エコシステム最大投資家の 1 つ · Firedancer は Jump に強力な技術レバレッジを与える · 長期に Solana 治理への影響が Anza を超える可能性
+- **Stake-weighted QoS の未解決**:Firedancer がノード処理力を向上 · ただし SWQoS 本体は依然として高 stake validator 寄り · 小 operator が tx を受信する相対劣位は根本解決していない
 
 ## Open questions
 
-- **Full Firedancer 2026-Q4 主网时间表**:Frankendancer 主网已两年 · 但 Full Firedancer 涉及完整 runtime rewrite · 2026-Q4 是否实际可达?延迟到 2027 会让客户端多样性叙事被推迟
-- **Firedancer 长期 stake share**:Jump 公开目标 50%+ · 但 validator 是否愿意迁移到 C/C++ 客户端(运维风险)· 是商业问题不只是技术问题
-- **Jito 是否会主动适配 Firedancer**:Jito-Firedancer fork(类似 Jito-Solana 是 Agave fork)是否会出现?这将颠覆当前的客户端 family 划分
-- **多 MEV relayer 是否真能出现**:Ethereum 上 PBS 多 builder 是 5+ 年才形成 · Solana 上是否能在 2-3 年内成熟?Firedancer 接口是 enabler · 但 demand 是否够
-- **Solana 未来共识升级**:Firedancer 优化当前共识 · 但 Anza / Jump / 学术圈是否会推动 Solana 共识本身的升级(类似 [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT]] 中讨论的 DAG-BFT 转向)?这会让 Firedancer 工作量再增加
-- **客户端多样性 Nakamoto 系数 2 是否够**:Ethereum 有 4-5 客户端但 Prysm 仍占 30%+ · Solana 即使 Firedancer 占 30% · 总客户端多样性是否真比 Ethereum 强
-- **机构 staking 通过 Firedancer 的路径**:BlackRock / Fidelity / Coinbase Custody 是否会因 Firedancer 出现而进入 SOL staking?Solana 缺类似 [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251]] 的机构 staking 路径设计 · 但 Firedancer 性能提升可能间接吸引机构
+- **Full Firedancer 2026-Q4 メインネットタイムテーブル**:Frankendancer メインネット稼働すでに 2 年 · ただし Full Firedancer は完全 runtime rewrite を伴う · 2026-Q4 は実際に達成可能か?2027 への遅延はクライアント多様性ナラティブを後ろ倒しにする
+- **Firedancer 長期 stake share**:Jump 公開目標 50%+ · ただし validator が C/C++ クライアント(運用リスク)に移行する意思があるかは · 技術問題のみならず商業問題
+- **Jito は Firedancer に積極対応するか**:Jito-Firedancer fork(Jito-Solana が Agave fork なのと類似)が出現するか?これは現在のクライアント family 区分を覆す
+- **複数 MEV relayer が真に出現するか**:Ethereum 上 PBS 複数 builder は 5+ 年で形成 · Solana 上で 2-3 年内に成熟可能か?Firedancer インターフェースは enabler · ただし demand が十分か
+- **Solana 将来コンセンサスアップグレード**:Firedancer は現コンセンサスを最適化 · ただし Anza / Jump / 学術界が Solana コンセンサス本体のアップグレード(例えば [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT]] で議論される DAG-BFT 転換)を推進するか?これは Firedancer 作業量をさらに増やす
+- **クライアント多様性 Nakamoto 係数 2 で十分か**:Ethereum は 4-5 クライアントだが Prysm は依然 30%+ 占有 · Solana が Firedancer 30% でも · 総クライアント多様性は本当に Ethereum より強いか
+- **機関 staking が Firedancer 経由で接続する経路**:BlackRock / Fidelity / Coinbase Custody は Firedancer 出現により SOL staking に参入するか?Solana には [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251]] 類の機関 staking 経路設計がない · ただし Firedancer 性能向上が間接的に機関を惹きつける可能性
 
 ## Related
 
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|systems index]]
-- [[systems/bft-validator-economy-overview|BFT validator 经济学概览]]
-- [[systems/bft-validator-economy-four-variables|BFT validator economy 四变量]]
+- [[systems/bft-validator-economy-overview|BFT validator 経済学概観]]
+- [[systems/bft-validator-economy-four-variables|BFT validator economy 4 変数]]
 - [[systems/bft-validator-economy-tempo-vs-arc|BFT validator economy · Tempo vs Arc]]
 - [[systems/dag-bft-vs-chain-bft-architecture|DAG-BFT vs Chain-BFT architecture]]
 - [[systems/threshold-bft-consensus-rust-implementations|threshold BFT consensus Rust implementations]]
@@ -227,7 +227,7 @@ Solana 在 Ethereum 和"Move 系单客户端 L1"之间。Firedancer 主网完成
 - [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]]
 - [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]
 - [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]
-- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]]
+- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]]
 - [[exchanges/jp-crypto-staking-as-a-service-operators|JP crypto staking-as-a-service operators]]
 
 ## Sources
