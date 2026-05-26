@@ -1,0 +1,73 @@
+{%- comment -%}
+FinWiki: AI-discoverable frontmatter for entries rendered as HTML by Jekyll.
+
+Why: GitHub Pages strips YAML frontmatter when rendering markdown to HTML.
+LLM agents that fetch the canonical https://finwiki.zksc.io/<domain>/<slug>
+URL lose tags / sources / aliases / type / confidence.
+
+This include re-exposes those fields three ways:
+  1. JSON-LD (schema.org Article + additionalProperty + isPartOf Dataset)
+  2. <meta name="finwiki:*"> tags for naive regex / grep parsing
+  3. <link rel="alternate" type="application/json"> pointing to the per-entry
+     API mirror with the complete frontmatter + summary + outbound links.
+{%- endcomment -%}
+
+{%- if page.tags or page.domain or page.aliases or page.sources -%}
+<!-- FinWiki: AI-readable frontmatter -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | default: site.title | jsonify }},
+  "url": "https://finwiki.zksc.io{{ page.url }}",
+  {% if page.created -%}"dateCreated": {{ page.created | jsonify }},{%- endif %}
+  {% if page.last_updated -%}"dateModified": {{ page.last_updated | jsonify }},{%- endif %}
+  {% if page.tags -%}"keywords": {{ page.tags | jsonify }},{%- endif %}
+  {% if page.aliases -%}"alternateName": {{ page.aliases | jsonify }},{%- endif %}
+  {% if page.sources -%}"citation": {{ page.sources | jsonify }},{%- endif %}
+  "isPartOf": {
+    "@type": "Dataset",
+    "name": "FinWiki",
+    "url": "https://finwiki.zksc.io/",
+    "description": "Multi-domain financial knowledge wiki (banking, fintech, exchanges, derivatives, policy-finance, securities, insurance, payments, real-estate, structured-finance, agent-economy, systems)."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "FinWiki",
+    "url": "https://finwiki.zksc.io/"
+  },
+  "additionalProperty": [
+    {%- assign extra_keys = "domain,type,confidence,status,review_by,last_tended" | split: "," -%}
+    {%- assign first = true -%}
+    {%- for k in extra_keys -%}
+      {%- assign v = page[k] -%}
+      {%- if v %}{%- unless first %},{% endunless %}
+    {"@type":"PropertyValue","name":{{ k | jsonify }},"value":{{ v | jsonify }}}
+        {%- assign first = false -%}
+      {%- endif -%}
+    {%- endfor %}
+  ]
+}
+</script>
+
+{% if page.domain %}<meta name="finwiki:domain" content="{{ page.domain | escape }}">{% endif %}
+{% if page.type %}<meta name="finwiki:type" content="{{ page.type | escape }}">{% endif %}
+{% if page.confidence %}<meta name="finwiki:confidence" content="{{ page.confidence | escape }}">{% endif %}
+{% if page.status %}<meta name="finwiki:status" content="{{ page.status | escape }}">{% endif %}
+{% if page.created %}<meta name="finwiki:created" content="{{ page.created | escape }}">{% endif %}
+{% if page.last_updated %}<meta name="finwiki:last_updated" content="{{ page.last_updated | escape }}">{% endif %}
+{% if page.last_tended %}<meta name="finwiki:last_tended" content="{{ page.last_tended | escape }}">{% endif %}
+{% if page.review_by %}<meta name="finwiki:review_by" content="{{ page.review_by | escape }}">{% endif %}
+{% if page.tags %}<meta name="finwiki:tags" content="{{ page.tags | join: ',' | escape }}">{% endif %}
+{% if page.aliases %}<meta name="finwiki:aliases" content="{{ page.aliases | join: ',' | escape }}">{% endif %}
+{% if page.sources %}<meta name="finwiki:sources" content="{{ page.sources | join: ' | ' | escape }}">{% endif %}
+
+{%- if page.path and page.path contains '.md' -%}
+{%- assign json_rel = page.path | replace: '.md', '.json' -%}
+{%- if page.domain -%}
+<link rel="alternate" type="application/json" href="https://finwiki.zksc.io/api/entries/{{ json_rel }}" title="FinWiki entry JSON (frontmatter + summary + outbound links + inbound count)">
+{%- endif %}
+<link rel="alternate" type="text/markdown" href="https://raw.githubusercontent.com/jasonhnd/finwiki/main/{{ page.path }}" title="FinWiki raw markdown (with YAML frontmatter)">
+{%- endif -%}
+<!-- /FinWiki -->
+{%- endif -%}
