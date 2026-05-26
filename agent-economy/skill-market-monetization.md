@@ -1,11 +1,11 @@
 ---
-title: Skill 市场收费化
+title: Skill マーケット有料化
 aliases: []
 domain: agent-economy
 kind: knowledge
 created: 2026-04-13
-last_updated: 2026-05-18
-last_tended: 2026-05-05
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
@@ -16,27 +16,27 @@ sources:
   - "https://www.x402.org/"
 ---
 
-# Skill 市场收费化
+# Skill マーケット有料化
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/2026-04-08_agent-payment-infrastructure-research|Agent 支付基础设施研究报告]]. Read it with [[agent-economy/agent-actorship-debate|Agent 主体性辩论：四个阵营]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
+This entry sits under [[agent-economy/2026-04-08_agent-payment-infrastructure-research|Agent 決済インフラ調査レポート]]. Read it with [[agent-economy/agent-actorship-debate|Agent 主体性論争:4つの陣営]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
 
 > [!info] TL;DR
-> LLM 与 [[agent-economy/claude-code-extension-architecture|Skill]] 构成 AI 产业的两层分工：LLM 是寡头垄断的基础设施（训练成本数十亿美元），Skill 是任何人可参与的应用层（一人数小时可完成开发）。这一分层与 iOS/App Store 的 OS/App 关系同构。
+> LLM と [[agent-economy/claude-code-extension-architecture|Skill]] は AI 産業における2層分業を構成する。LLM は寡占的なインフラ(訓練コスト数十億ドル)、Skill は誰でも参入可能なアプリケーション層(一人数時間で開発完了)。この階層構造は iOS/App Store の OS/App 関係と同型である。
 
-Skill 当前几乎全部免费，但三重力量推动收费化不可逆：运营成本随调用量上升不可持续；免费市场无法激励质量竞争；平台需要从生态交易中获取收入（Stripe 已通过 [[agent-economy/2026-04-08_agent-payment-infrastructure-research|ACP/MPP]] 提供收费基础设施）。
+Skill は現状ほぼすべて無料だが、3つの力が有料化を不可逆に押し進めている。運用コストは呼び出し量の増加で持続不可能となり · 無料マーケットは品質競争を促せず · プラットフォームはエコシステム取引から収益を確保する必要がある(Stripe は既に [[agent-economy/2026-04-08_agent-payment-infrastructure-research|ACP/MPP]] 経由で課金インフラを提供している)。
 
-Skill 收费化是 A2A 经济交易量的原生催化剂。每一次 Agent 调用付费 Skill 即产生一笔微交易（结算优先走 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]]，钱包基于 [[systems/erc-4337-overview|ERC-4337]] 或 [[systems/erc-7702-overview|ERC-7702]]）。单个任务平均调用 5-20 个 Skill，活跃 Agent 达十万级时日均交易笔数可达千万级——此规模使清算、定价、信用等基础设施从可选变为必需。
+Skill の有料化は A2A 経済における取引量のネイティブな触媒である。Agent が有料 Skill を一度呼び出すごとにマイクロトランザクションが発生する(決済は優先的に [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] を経由し、ウォレットは [[systems/erc-4337-overview|ERC-4337]] または [[systems/erc-7702-overview|ERC-7702]] ベース)。1タスクあたり平均 5-20 個の Skill を呼び出し、アクティブな Agent が 10 万規模に達すると日次トランザクション件数は 1000 万規模になる — この規模になると清算 · 価格決定 · 信用といったインフラはオプションから必須となる。
 
-预计 12-18 个月内 Skill 收费将从个别案例演变为平台标准功能。
+12-18 ヶ月以内に Skill 課金は個別事例からプラットフォーム標準機能へと進化すると見込まれる。
 
 Source note: public AI-agent commerce and payment-protocol disclosures; pricing conclusions remain framework-level synthesis.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/claude-code-extension-architecture|Claude Code 扩展组件架构——Agent 生态的基础设施分层]]
-- [[agent-economy/ai-company-payment-landscape|AI 公司收款方式现状（2026 年 4 月）]]
+- [[agent-economy/claude-code-extension-architecture|Claude Code 拡張コンポーネントアーキテクチャ — Agent エコシステムのインフラ階層]]
+- [[agent-economy/ai-company-payment-landscape|AI 企業の決済方式の現状(2026 年 4 月)]]
 <!-- /wiki-links:managed -->

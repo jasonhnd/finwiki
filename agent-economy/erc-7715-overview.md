@@ -1,10 +1,10 @@
 ---
-title: ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付
+title: ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済
 aliases: [erc-7715-overview, wallet-permissions, grant-permissions]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, wallet, permissions, ai-agent, erc-7715]
@@ -12,24 +12,24 @@ sources: []
 status: candidate
 ---
 
-# ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付
+# ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 2024 提出 · 2025 主流钱包实装 ^[extracted]
-- 核心 RPC:`wallet_grantPermissions` ^[extracted]
-- Permission 类型可扩展:native-token-recurring-allowance / erc20-token-transfer / contract-call / nft-transfer ^[extracted]
-- Signer 可以是 EOA / passkey / AI agent 服务密钥 ^[extracted]
-- 类比 OAuth 2.0:不是"把密码给应用" · 而是"给应用有限 scope 的 access token" ^[extracted]
+- 2024 提案 · 2025 主要ウォレットで実装 ^[extracted]
+- コア RPC:`wallet_grantPermissions` ^[extracted]
+- Permission 種別は拡張可能:native-token-recurring-allowance / erc20-token-transfer / contract-call / nft-transfer ^[extracted]
+- Signer は EOA / passkey / AI agent サービス鍵を選択可能 ^[extracted]
+- OAuth 2.0 との類比:「パスワードをアプリに渡す」のではなく「限定 scope の access token をアプリに渡す」 ^[extracted]
 
 ## Mechanism / How it works
 
-**核心 RPC**:`wallet_grantPermissions`
+**コア RPC**:`wallet_grantPermissions`
 
 ```json
 {
@@ -49,45 +49,45 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 }
 ```
 
-**Permission 类型(可扩展)**:
-- `native-token-recurring-allowance` — 周期性 ETH/SOL 限额
-- `erc20-token-transfer` — 限定 token + 限额 + 收款方
-- `contract-call` — 限定合约 + selector
+**Permission 種別(拡張可能)**:
+- `native-token-recurring-allowance` — 周期的な ETH/SOL 限度額
+- `erc20-token-transfer` — 限定 token + 限度額 + 送付先
+- `contract-call` — 限定コントラクト + selector
 - `nft-transfer` — 限定 collection + tokenId range
-- 任意 dapp 可定义自定义 permission type
+- 任意の dapp がカスタム permission 種別を定義可能
 
-**与 4337 / 7702 的协同**:
-- **[[systems/erc-4337-overview|ERC-4337(SCW)]]**:permission 存为 SCW 内的 module 配置 · UserOp 执行时由 [[systems/erc-4337-userop-bundler-flow|EntryPoint / bundler 流程]] 验证
-- **[[systems/erc-7702-overview|ERC-7702(EOA)]]**:permission 通过 EOA 临时绑定的合约逻辑校验 · EOA 用户也能享有(差异详见 [[systems/erc-7702-vs-erc-4337|7702 vs 4337 对比]])
-- **无 AA 的 EOA**:无法使用 · 这是 7715 把"AA 必要性"推到主流的关键力量
+**4337 / 7702 との協調**:
+- **[[systems/erc-4337-overview|ERC-4337(SCW)]]**:permission は SCW 内の module 設定として保存 · UserOp 実行時に [[systems/erc-4337-userop-bundler-flow|EntryPoint / bundler フロー]] が検証する
+- **[[systems/erc-7702-overview|ERC-7702(EOA)]]**:permission は EOA が一時的にバインドしたコントラクトロジックで検証 · EOA ユーザーも利用可能(差分は [[systems/erc-7702-vs-erc-4337|7702 vs 4337 比較]] 参照)
+- **AA なしの EOA**:利用不可 · これが 7715 が「AA の必要性」を主流に押し上げる主たる力である
 
-**Signer 灵活性**:Signer 可以是另一个 EOA、passkey、AI agent 的服务密钥——任何具有签名能力的实体。这让 **AI agent 拥有"有限授权的子账户"** 成为协议级支持。
+**Signer の柔軟性**:Signer は別の EOA、passkey、AI agent のサービス鍵 — 署名能力を持つ任意のエンティティを選べる。これにより **AI agent が「限定的に認可された子アカウント」を持つ** ことがプロトコルレベルでサポートされる。
 
 ## Origin & evolution
 
-7715 草案起源于 2024 年 MetaMask Snaps 团队与 Coinbase Smart Wallet 团队的协调讨论——双方都在各自实现 session key 但格式不互通。借鉴 OAuth 2.0 scope 模型 · 定义统一权限申请协议。
+7715 ドラフトの起源は 2024 年の MetaMask Snaps チームと Coinbase Smart Wallet チームの調整議論にある — 双方とも独自に session key を実装していたが、フォーマットが相互運用できなかった。OAuth 2.0 scope モデルを参考に · 統一的な権限申請プロトコルとして定義された。
 
-2025 年陆续在 MetaMask、Coinbase Smart Wallet、Safe 实装。同期与 ERC-4337 / 7702 形成"AA + Permissions"完整栈,与 AP2 / x402 一起被视为 AI agent 经济关键基础设施。
+2025 年に MetaMask、Coinbase Smart Wallet、Safe で順次実装。同時期に ERC-4337 / 7702 と組み合わさり「AA + Permissions」の完全スタックを形成し、AP2 / x402 と並んで AI agent 経済の重要インフラと見なされている。
 
 ## Counterpoints
 
-**Permission 类型枚举尚未完全标准化**——各钱包实现略有差异 · 跨钱包 portability 仍是挑战。撤销机制需要链上交易 · 有 gas 成本(7702 EOA 用户尤其敏感)。
+**Permission 種別の列挙がまだ完全に標準化されていない** — 各ウォレット実装に微差があり · クロスウォレット portability は依然課題。撤回機構はオンチェーン取引が必要で · gas コストがかかる(7702 EOA ユーザーは特に敏感)。
 
-**AI agent 在 scope 内的错误决策**:即使 scope 限制金额和收款方 · agent 仍可能因 prompt injection 在合法 scope 内做出错误支付。scope 设计需谨慎 · 例如"每天 $10 给 vercel.com API"比"每天 $10 给任意 merchant"安全得多(防钓鱼与合约校验对照 [[security/bytecode-forensic-three-tier-verify|字节码取证三层验证]])。
+**Scope 内での AI agent の誤決定**:scope で金額と送付先が制限されていても · agent は prompt injection により合法 scope 内で誤った支払いをし得る。scope 設計には慎重さが必要であり · 例えば「毎日 $10 を vercel.com API へ」は「毎日 $10 を任意の merchant へ」よりはるかに安全である(フィッシング対策とコントラクト検証は [[security/bytecode-forensic-three-tier-verify|バイトコードフォレンジック三層検証]] と対照)。
 
 ## Open questions
 
-- 跨钱包 permission portability 标准化时间表?
-- 撤销 gas 成本的优化路径(例如基于 SCW module 的 off-chain 撤销)?
-- AI agent 错误决策的责任和保险模型?
-- 与 AP2 mandate 的语义层映射?
+- クロスウォレット permission portability の標準化タイムラインは?
+- 撤回時の gas コスト最適化経路(例えば SCW module ベースの off-chain 撤回)は?
+- AI agent 誤決定の責任モデルと保険モデルは?
+- AP2 mandate とのセマンティクス層のマッピングは?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 + agent payment stack]]
-- [[systems/erc-4337-overview|ERC-4337(AA 基础)]]
-- [[systems/erc-7702-overview|ERC-7702(EOA 升级)]]
+- [[systems/erc-4337-overview|ERC-4337(AA 基礎)]]
+- [[systems/erc-7702-overview|ERC-7702(EOA アップグレード)]]
 - [[agent-economy/ap2-overview|AP2(agent payment)]]
 <!-- /wiki-links:managed -->
 

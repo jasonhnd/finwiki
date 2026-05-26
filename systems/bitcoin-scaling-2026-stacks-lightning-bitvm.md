@@ -1,10 +1,10 @@
 ---
-title: Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 并行栈
+title: Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック
 aliases: [bitcoin-scaling-2026, btc-l2-stack, stacks-lightning-bitvm-babylon, bitcoin-scaling-stack, btc-layer2-2026, sbtc-bitvm-babylon, bitcoin-scaling-post-2024]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [systems, bitcoin, scaling, layer2, stacks, lightning, bitvm, babylon, sbtc]
@@ -20,173 +20,173 @@ sources:
   - Galaxy Research "State of Bitcoin Layers 2026"
 ---
 
-# Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 并行栈
+# Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック
 
 ## TL;DR
 
-Bitcoin 2026 的 scaling 不是 "找一个 L2",而是 **四条并行栈分别吃不同需求**:Lightning 吃 micropayment + 跨境汇款,Stacks 吃 BTC-native DeFi + sBTC 1:1 锚定,BitVM 吃 trust-minimized general computation(包括 EVM 风格 L2),Babylon 吃 Bitcoin staking 作为 PoS 链共享安全。Ordinals/Inscriptions 与 Runes 等 metaprotocol 不在传统 "scaling" 范畴但显著推高 L1 fee 基线。CTV(BIP-119)+ CSFS(BIP-348)等 covenant soft fork 2024-2025 重新进入活跃讨论但仍未激活,drivechain(BIP-300/301)进入冷宫。post-2024 Bitcoin L2 TVL 从 ~$1B 增至 2026-Q1 ~$8-10B 区间,主要来自 sBTC(Stacks Nakamoto)+ Babylon + 几条 BitVM-based EVM rollup。
+Bitcoin 2026 の scaling は「L2 を 1 つ選ぶ」ものではなく、**4 つの並列スタックがそれぞれ異なる需要を取り込む**:Lightning はマイクロペイメント + 国際送金、Stacks は BTC ネイティブ DeFi + sBTC 1:1 アンカー、BitVM は trust-minimized な汎用計算(EVM 風 L2 を含む)、Babylon は Bitcoin staking による PoS チェーンへの安全共有を担う。Ordinals/Inscriptions や Runes 等のメタプロトコルは従来の「scaling」範疇には属さないが、L1 fee の基準線を顕著に押し上げている。CTV(BIP-119)+ CSFS(BIP-348)等の covenant ソフトフォークは 2024-2025 に活発な議論が再開したが未だ非アクティブ、drivechain(BIP-300/301)は冷遇期に入った。post-2024 の Bitcoin L2 TVL は ~$1B から 2026-Q1 の ~$8-10B 域に増加、主に sBTC(Stacks Nakamoto)+ Babylon + 数本の BitVM-based EVM rollup から来ている。
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|cross-chain 五极对比矩阵]] for Bitcoin 与 Ethereum L2 / Canton / 跨链桥的对照,并对照 [[systems/eigenlayer-overview|EigenLayer 总览]] 理解 Babylon 作为 "Bitcoin 版 restaking" 的对位关系。背景上参考 [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 战略锚]] 看 Bitcoin 与 Ethereum 在 L1 vs L2 上的根本路线分歧。
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|cross-chain 5 極対照マトリクス]] for Bitcoin と Ethereum L2 / Canton / クロスチェーンブリッジの対照を、また [[systems/eigenlayer-overview|EigenLayer 総覧]] と対照して Babylon が「Bitcoin 版 restaking」としての対位関係にあることを理解。背景として [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 戦略アンカー]] を参照し、Bitcoin と Ethereum の L1 vs L2 における根本的な路線分岐を見る。
 
-## Bitcoin scaling 四栈对照
+## Bitcoin scaling 4 スタック対照
 
-Bitcoin 与 Ethereum 最大的差异是 **没有图灵完备 L1**:Bitcoin Script 限制了 covenant、recursive proof、generalized rollup 等 L2 关键原语,导致 2024-2026 的 scaling 必须分四条并行栈进化。
+Bitcoin と Ethereum の最大の差異は **チューリング完全な L1 がないこと**:Bitcoin Script は covenant、recursive proof、generalized rollup 等の L2 重要プリミティブを制限しており、2024-2026 の scaling は 4 つの並列スタックに分けて進化せざるを得ない。
 
 ### Stack 1: Lightning Network
 
-- **定位**:high-frequency micropayment + cross-border remittance
-- **架构**:payment channel + HTLC + onion routing(Tor 风格)
-- **容量**:2026-Q1 网络容量 ~5,500 BTC(~$550M @ $100k/BTC),自 2021-Q4 峰值 ~5,400 BTC 后基本横盘
-- **节点拓扑**:~17k 公开节点 + ~50k+ 私有节点(LSP, Strike, Cash App 等 custodial routing)
-- **LSP 层**:Lightning Service Provider(Voltage, LNbits, Strike, Galoy, OpenNode)成为 retail wallet 的标准接入方式,实质把 Lightning 变成 "客户托管 / 提供商运营" 模式
-- **2024-2026 进展**:Taproot Assets(Lightning Labs)把 USDT/USDC 跨 Lightning 转账商业化,2026 跨境汇款(尼日利亚 / 阿根廷 / 萨尔瓦多)出现真实 GMV
+- **位置付け**:高頻度マイクロペイメント + 国際送金
+- **アーキテクチャ**:payment channel + HTLC + onion routing(Tor 風)
+- **キャパシティ**:2026-Q1 ネットワーク容量 ~5,500 BTC(~$550M @ $100k/BTC)、2021-Q4 ピーク ~5,400 BTC 以降ほぼ横ばい
+- **ノードトポロジ**:~17k 公開ノード + ~50k+ プライベートノード(LSP、Strike、Cash App 等 custodial routing)
+- **LSP 層**:Lightning Service Provider(Voltage、LNbits、Strike、Galoy、OpenNode)がリテールウォレットの標準接続方式となり、実質的に Lightning を「顧客カストディ / プロバイダ運営」モデルに変えた
+- **2024-2026 進捗**:Taproot Assets(Lightning Labs)が USDT/USDC の Lightning 横断送金を商業化、2026 国際送金(ナイジェリア / アルゼンチン / エルサルバドル)で実際の GMV が登場
 
 ### Stack 2: Stacks(sBTC + Nakamoto Release)
 
-- **定位**:BTC-native DeFi + smart contract + NFT
-- **共识**:PoX(Proof of Transfer)+ Nakamoto Release(2024-10)引入 Bitcoin finality
-- **sBTC**:1:1 BTC-pegged,2024-12 mainnet 上线,由 ~15 个 Signer 共同 multi-party 持有真实 BTC,Stacks 链上发行 sBTC token
-- **TVL**:Stacks 2026-Q1 ~$300M TVL(sBTC + ALEX + Arkadiko),sBTC 流通 ~3,000 BTC
-- **Subnets**:Stacks Subnets 类似 Polygon Supernets,允许 app-chain 独立部署
-- **Clarity 语言**:non-Turing-complete decidable smart contract language,避免 EVM 风格 reentrancy attack 但限制部分组合性
+- **位置付け**:BTC ネイティブ DeFi + スマートコントラクト + NFT
+- **コンセンサス**:PoX(Proof of Transfer)+ Nakamoto Release(2024-10)で Bitcoin finality を導入
+- **sBTC**:1:1 BTC-pegged、2024-12 メインネットローンチ、~15 個の Signer が threshold-schnorr で実際の BTC を共同保有し、Stacks チェーン上で sBTC token を発行
+- **TVL**:Stacks 2026-Q1 ~$300M TVL(sBTC + ALEX + Arkadiko)、sBTC 流通 ~3,000 BTC
+- **Subnets**:Stacks Subnets は Polygon Supernets に類似、app-chain の独立デプロイを許容
+- **Clarity 言語**:non-Turing-complete な決定可能スマートコントラクト言語、EVM 風 reentrancy attack を回避するが一部の組み合わせ可能性を制限
 
 ### Stack 3: BitVM / BitVM2
 
-- **定位**:Bitcoin-aware general computation,无需 soft fork 即可在 Bitcoin L1 验证任意计算
-- **机制**:用 Bitcoin Script + multi-round challenge-response 模拟 fraud proof,1-of-N honesty assumption
-- **BitVM2(2024)**:从 prover-verifier 简化为 permissionless challenger,门槛大幅下降
-- **生态**:Citrea(EVM-based zk-rollup, BitVM bridge)、BOB(Build on Bitcoin, hybrid Ethereum L2)、Bitlayer、Merlin、Bsquared、GOAT Network
-- **TVL**:2026-Q1 BitVM-related L2 总 TVL ~$2-3B(L2Beat 自报口径,需谨慎),Citrea + BOB 占大头
-- **挑战**:challenge period 长(7-14 天)+ liveness assumption + Bitcoin L1 fee 上涨时 fraud proof 成本激增
+- **位置付け**:Bitcoin 対応の汎用計算、ソフトフォーク不要で Bitcoin L1 上で任意計算を検証
+- **メカニズム**:Bitcoin Script + 多段 challenge-response で fraud proof を模倣、1-of-N の honesty assumption
+- **BitVM2(2024)**:prover-verifier から permissionless challenger へ簡素化、ハードルが大幅に低下
+- **エコシステム**:Citrea(EVM-based zk-rollup、BitVM bridge)、BOB(Build on Bitcoin、hybrid Ethereum L2)、Bitlayer、Merlin、Bsquared、GOAT Network
+- **TVL**:2026-Q1 BitVM-related L2 の総 TVL ~$2-3B(L2Beat 自己申告ベース、注意要)、Citrea + BOB が大半
+- **課題**:challenge period が長い(7-14 日)+ liveness assumption + Bitcoin L1 fee 上昇時に fraud proof コストが急増
 
 ### Stack 4: Babylon(Bitcoin Staking)
 
-- **定位**:让 Bitcoin holder 不离开 L1 即可为 PoS 链提供经济安全(类似 [[systems/eigenlayer-overview|EigenLayer]] 但底层资产是 BTC)
-- **机制**:用 Bitcoin timestamping 给 BTC stake 制造可验证的 slashing 机制,无需 wrap / bridge BTC
-- **Phase-1(2024-08)** :仅 staking + 时间戳,无 yield
-- **Phase-2(2025)**:接入 Babylon Genesis L1 + 第三方 PoS 链(Cosmos 系 + 部分 L1)
-- **规模**:2026-Q1 staked ~50,000-60,000 BTC(~$5-6B),是 Bitcoin 上最大单一 TVL 类别
-- **AVS / BSN 类比**:Babylon Secured Network(BSN)对应 EigenLayer 的 AVS,Cosmos appchain / Babylon Genesis / 部分 EVM L1 是早期消费者
+- **位置付け**:Bitcoin holder が L1 を離れずに PoS チェーンに経済的安全を提供する([[systems/eigenlayer-overview|EigenLayer]] に類似するが原資が BTC)
+- **メカニズム**:Bitcoin timestamping を利用して BTC stake に検証可能な slashing メカニズムを作り、BTC の wrap / bridge は不要
+- **Phase-1(2024-08)** :staking + タイムスタンプのみ、yield なし
+- **Phase-2(2025)**:Babylon Genesis L1 + サードパーティ PoS チェーン(Cosmos 系 + 一部 L1)に接続
+- **規模**:2026-Q1 staked ~50,000-60,000 BTC(~$5-6B)、Bitcoin 上で最大の単一 TVL カテゴリ
+- **AVS / BSN 類比**:Babylon Secured Network(BSN)は EigenLayer の AVS に相当、Cosmos appchain / Babylon Genesis / 一部 EVM L1 が初期コンシューマー
 
-## Soft fork 状态:CTV / CSFS / drivechain
+## ソフトフォークの状況:CTV / CSFS / drivechain
 
-Bitcoin 的 scaling 路线长期被 soft fork 议题卡住,2024-2026 关键提案:
+Bitcoin の scaling 路線は長らくソフトフォーク議題で滞っており、2024-2026 の重要提案は:
 
-- **CTV(BIP-119, OP_CHECKTEMPLATEVERIFY)**:Jeremy Rubin 2019 提出,允许 covenant(预先承诺的输出脚本),启用 vault / payment pool / 更高效 Lightning channel。2024 重新激活讨论但社区分歧明显
-- **CSFS(BIP-348, OP_CHECKSIGFROMSTACK)**:从 stack 检查签名,与 CTV 配合可实现 BitVM2 的更高效证明压缩
-- **APO / SIGHASH_ANYPREVOUT(BIP-118)**:Eltoo 路线,简化 Lightning 协议,讨论中
-- **drivechain(BIP-300/301)** :Paul Sztorc 长期推动的 BIP-300 sidechain miner-secured bridge,2024-2026 基本被 Bitcoin Core 主流开发者拒绝,理由是 miner-bridge 改变 Bitcoin 经济激励
-- **OP_CAT(BIP-347)** :2024-2025 一度热门,可启用 covenant 模拟,但同样未激活
-- **soft fork timeline**:Bitcoin Core 没有 ETH 风格 EIP roadmap,激活完全依赖社区共识 + miner signaling + UASF 风险,2026 内任一关键 soft fork 激活概率仍 < 30%
+- **CTV(BIP-119, OP_CHECKTEMPLATEVERIFY)**:Jeremy Rubin が 2019 に提案、covenant(事前にコミットされた出力スクリプト)を可能にし、vault / payment pool / より効率的な Lightning channel を実現。2024 に議論が再開したがコミュニティ内の意見対立が明白
+- **CSFS(BIP-348, OP_CHECKSIGFROMSTACK)**:スタックから署名を検証、CTV と組み合わせて BitVM2 のより効率的な証明圧縮を実現可能
+- **APO / SIGHASH_ANYPREVOUT(BIP-118)**:Eltoo 路線、Lightning プロトコルを簡素化、議論中
+- **drivechain(BIP-300/301)** :Paul Sztorc が長年推進する BIP-300 サイドチェーン miner-secured bridge、2024-2026 に Bitcoin Core 主流開発者から基本的に拒否、理由は miner-bridge が Bitcoin の経済インセンティブを変えるため
+- **OP_CAT(BIP-347)** :2024-2025 に一時話題に、covenant 模擬を可能にするが同様に未アクティブ
+- **ソフトフォーク timeline**:Bitcoin Core には ETH 風の EIP roadmap がなく、アクティベートは完全にコミュニティ合意 + miner signaling + UASF リスクに依存、2026 内にいずれかの重要ソフトフォークがアクティベートされる確率は依然 < 30%
 
-soft fork 激活停滞直接导致 **BitVM 路线成为 "无需 fork 的 covenant 替代"**,这是 2024-2026 BitVM 生态爆发的根本动力。
+ソフトフォークアクティベートの停滞が直接 **BitVM 路線を「fork 不要な covenant 代替」とした** — これが 2024-2026 BitVM エコシステム爆発の根本的な原動力。
 
 ## Post-2024 Bitcoin L2 TVL 分布
 
-2026-Q1 各栈 TVL 大致分布(数字来自 L2Beat + DefiLlama + 项目自我披露,需谨慎):
+2026-Q1 各スタック TVL のおおよその分布(数字は L2Beat + DefiLlama + プロジェクト自己開示、注意要):
 
-- Babylon staking: ~$5-6B(单一最大类别)
-- BitVM-based L2(Citrea / BOB / Bitlayer / Merlin / Bsquared / GOAT): 合计 ~$2-3B
+- Babylon staking: ~$5-6B(単一最大カテゴリ)
+- BitVM-based L2(Citrea / BOB / Bitlayer / Merlin / Bsquared / GOAT): 合計 ~$2-3B
 - Stacks(sBTC + ALEX + Arkadiko): ~$300M
-- Lightning Network 总容量: ~$550M(~5,500 BTC)
-- Ordinals / Runes / BRC-20 流通市值: 单独类别,~$2-4B 浮动剧烈,不属于 scaling
+- Lightning Network 総容量: ~$550M(~5,500 BTC)
+- Ordinals / Runes / BRC-20 流通時価総額: 単独カテゴリ、~$2-4B 変動激しい、scaling には属さない
 
-总和 ~$8-10B 量级,vs Bitcoin 流通市值 ~$2T,渗透率仅 ~0.4-0.5%,远低于 Ethereum L2 ~10-15% 渗透率([[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 扩容]] 后 Ethereum L2 仍占主导)。
+合計 ~$8-10B 規模、vs Bitcoin 流通時価総額 ~$2T、浸透率はわずか ~0.4-0.5%、Ethereum L2 の ~10-15% 浸透率([[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]] 後も Ethereum L2 が主導)より大きく低い。
 
-## Bitcoin scaling vs Ethereum L2 路线对照
+## Bitcoin scaling vs Ethereum L2 路線対照
 
-| 维度 | Bitcoin scaling | Ethereum L2 |
+| 次元 | Bitcoin scaling | Ethereum L2 |
 |---|---|---|
-| L1 编程性 | Bitcoin Script 受限 | EVM 图灵完备 |
-| 主流 L2 类型 | 4 类并行(Lightning/Stacks/BitVM/Babylon) | 收敛于 rollup(optimistic + zk) |
-| 安全锚 | PoW + L1 finality | PoS + EigenDA / blob |
-| Bridge 信任 | 大多 trust-assumption-heavy(sBTC = 15 multisig, BitVM = 1-of-N) | rollup canonical bridge 趋向 trustless |
-| Soft fork 路径 | 极慢,社区共识门槛高 | EIP roadmap 半年级 |
-| 跨链工具 | 几乎不复用 EVM 工具链 | [[systems/cctp-v2-overview|CCTP V2]] / [[systems/chain-abstraction-pattern-overview|chain abstraction]] 等 |
+| L1 プログラマビリティ | Bitcoin Script で制限 | EVM チューリング完全 |
+| 主流 L2 タイプ | 4 カテゴリ並列(Lightning/Stacks/BitVM/Babylon) | rollup に収斂(optimistic + zk) |
+| セキュリティアンカー | PoW + L1 finality | PoS + EigenDA / blob |
+| Bridge 信頼 | 大半は trust-assumption-heavy(sBTC = 15 multisig、BitVM = 1-of-N) | rollup canonical bridge は trustless 化 |
+| ソフトフォーク経路 | 極めて遅い、コミュニティ合意の閾値が高い | EIP roadmap 半年単位 |
+| クロスチェーンツール | EVM ツールチェーンをほぼ再利用しない | [[systems/cctp-v2-overview|CCTP V2]] / [[systems/chain-abstraction-pattern-overview|chain abstraction]] 等 |
 
-详细对位见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]。
+詳細な対比は [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] を参照。
 
-## Stack 1 深入 · Lightning 经济模型与 LSP 化
+## Stack 1 深掘り · Lightning 経済モデルと LSP 化
 
-Lightning 2026 的真实状态是 "**custodial-by-default + self-custody-as-exception**":
+Lightning 2026 の実態は「**デフォルト custodial + self-custody は例外**」:
 
-- **LSP 模型主导**:Phoenix(ACINQ)、Breez(Greenlight)、Cash App / Strike(custodial)、Galoy(Bitcoin Beach)、Voltage(企业 LSP)负责为 retail 用户开 / 关 channel + inbound liquidity 管理 + routing,用户感知不到 channel 概念
-- **inbound liquidity 拍卖**:Lightning Pool / Magma / Amboss 等 marketplace 让 routing node 拍卖 inbound channel,小型路由节点不再有商业模式
-- **跨境汇款实际用例**:Strike-El Salvador / Bitnob-Nigeria / Tropykus-LATAM 等 LSP 把 USD ↔ Lightning ↔ NGN/ARS/MXN 路径商业化,2026 月 GMV $200M-500M 量级(行业披露口径,需谨慎)
-- **Taproot Assets**:Lightning Labs 让 stablecoin(USDT / USDC mock)可在 Lightning channel 内部转移,实质把 Lightning 变成 multi-asset payment 网络,2025-2026 mainnet 部分稳定币集成上线
-- **Lightning vs Base USDC 竞争**:同样是 "stablecoin payment rail",Base + USDC + [[systems/erc-4337-overview|ERC-4337]] 的开发者体验远好于 Lightning,Lightning 的优势收缩到 "BTC-native + 极致 final settlement"
-- **Liquid Network 平行栈**:Blockstream 的 federated sidechain Liquid 上的 L-BTC + USDT-Liquid 也是 Bitcoin 生态 payment 选项,机构托管使用,但用户感知度低
+- **LSP モデルが主導**:Phoenix(ACINQ)、Breez(Greenlight)、Cash App / Strike(custodial)、Galoy(Bitcoin Beach)、Voltage(エンタープライズ LSP)がリテールユーザー向けに channel の開閉 + inbound liquidity 管理 + routing を担い、ユーザーは channel という概念を意識しない
+- **inbound liquidity オークション**:Lightning Pool / Magma / Amboss 等のマーケットプレイスで routing node が inbound channel をオークション、小規模ルーティングノードはビジネスモデルを失った
+- **国際送金の実ユースケース**:Strike-El Salvador / Bitnob-Nigeria / Tropykus-LATAM 等の LSP が USD ↔ Lightning ↔ NGN/ARS/MXN 経路を商業化、2026 月次 GMV $200M-500M 規模(業界開示ベース、注意要)
+- **Taproot Assets**:Lightning Labs がステーブルコイン(USDT / USDC モック)を Lightning channel 内で送金可能とし、実質的に Lightning をマルチアセット決済ネットワークに変えた、2025-2026 メインネットで一部ステーブルコイン統合が稼働
+- **Lightning vs Base USDC 競争**:同じ「ステーブルコイン決済 rail」でも、Base + USDC + [[systems/erc-4337-overview|ERC-4337]] の開発者体験は Lightning より遥かに優れており、Lightning の優位性は「BTC ネイティブ + 究極の final settlement」に縮小
+- **Liquid Network 並列スタック**:Blockstream の federated sidechain Liquid 上の L-BTC + USDT-Liquid も Bitcoin エコシステムの決済オプション、機関カストディ向けに使用されるがユーザー認知度は低い
 
-## Stack 2 深入 · Stacks Nakamoto + sBTC
+## Stack 2 深掘り · Stacks Nakamoto + sBTC
 
-Stacks 是 Bitcoin scaling 中 **唯一带完整 smart contract 平台 + BTC 1:1 锚定 token + 公链治理** 的栈:
+Stacks は Bitcoin scaling において **完全なスマートコントラクトプラットフォーム + BTC 1:1 アンカー token + 公開チェーンガバナンスを備えた唯一のスタック**:
 
-- **Nakamoto Release(2024-10)** :从 "PoX 独立 block" 切换到 "Bitcoin finality",Stacks block 被 anchored 进 Bitcoin block 后即获 Bitcoin 级别 finality
-- **sBTC 机制**:用户把 BTC 发到 sBTC peg-in 地址 → ~15 个 Signer(从 ~150 Stackers 中选举)用 threshold-schnorr 共同持有 BTC → Stacks 链上 mint 等量 sBTC,Burn 时反向走 multisig 释放
-- **Signer 经济模型**:Signer 用 STX 抵押(stack)以获选 Signer 权,失误 / 恶意行为 STX 被 slashed
-- **Clarity 语言特点**:non-Turing-complete(无 unbounded loop), decidable(可静态验证),trade-off 是不能写复杂 DeFi(部分 yield 协议需绕道)
-- **生态**:ALEX(DEX + Bitcoin pool)、Arkadiko(stablecoin USDA)、Bitflow、Velar、StackingDAO,2026 DeFi 体量小但增长稳
-- **Subnets**:类似 Polygon Supernets / [[systems/polygon-agglayer-architecture-rollout|AggLayer CDK]] 的 Stacks 版,允许 app-chain 独立 finality,2024-2026 mainnet 上线
-- **2026 Stacks 战略**:从 "BTC 上的 smart contract" 演化为 "Bitcoin DeFi hub",目标与 [[systems/eigenlayer-overview|EigenLayer]] 在 ETH 生态的位置类似但范围 BTC
+- **Nakamoto Release(2024-10)** :「PoX 独立ブロック」から「Bitcoin finality」へ切り替え、Stacks ブロックは Bitcoin ブロックに anchored された時点で Bitcoin レベルの finality を獲得
+- **sBTC メカニズム**:ユーザーが BTC を sBTC peg-in アドレスに送信 → ~15 個の Signer(~150 Stackers から選出)が threshold-schnorr で BTC を共同保有 → Stacks チェーン上で同量の sBTC を mint、Burn 時は逆方向で multisig を経て解放
+- **Signer 経済モデル**:Signer は STX を担保(stack)に出して Signer 権を得る、不手際 / 悪意ある行為では STX が slashed される
+- **Clarity 言語の特徴**:non-Turing-complete(unbounded loop なし)、decidable(静的検証可能)、トレードオフは複雑な DeFi が書けないこと(一部 yield プロトコルは迂回が必要)
+- **エコシステム**:ALEX(DEX + Bitcoin pool)、Arkadiko(stablecoin USDA)、Bitflow、Velar、StackingDAO、2026 DeFi の規模は小さいが安定成長
+- **Subnets**:Polygon Supernets / [[systems/polygon-agglayer-architecture-rollout|AggLayer CDK]] に類似する Stacks 版、app-chain の独立 finality を許容、2024-2026 メインネット稼働
+- **2026 Stacks 戦略**:「BTC 上のスマートコントラクト」から「Bitcoin DeFi hub」へ進化、目標は [[systems/eigenlayer-overview|EigenLayer]] が ETH エコシステムで占める位置に類似するが対象範囲は BTC
 
-## Stack 3 深入 · BitVM 系 EVM L2 名单
+## Stack 3 深掘り · BitVM 系 EVM L2 リスト
 
-2024-2026 BitVM 路线快速分化为多个 EVM-compatible Bitcoin L2:
+2024-2026 BitVM 路線は急速に複数の EVM-compatible Bitcoin L2 に分化:
 
-- **Citrea**:Chainway 团队主导,EVM-based zk-rollup,2024-Q1 testnet,2024-Q4 mainnet beta,BitVM bridge 用于 trust-minimized BTC peg
-- **BOB(Build on Bitcoin)** :hybrid L2,同时 settle 到 Bitcoin + Ethereum,默认 OP Stack + BitVM bridge
-- **Bitlayer**:类 OP Stack + BitVM bridge,2024-Q2 mainnet,新加坡 / 中国生态较活跃
-- **Merlin Chain**:OKX 系生态,2024-Q1 mainnet,主打 BRC-20 + Ordinals 生态
-- **Bsquared(B² Network)** :ZK-based rollup,2024 mainnet
-- **GOAT Network**:2024-2025 BitVM2 早期实现,主打 "sequencer-decentralized BitVM2"
-- **Citrea vs BOB vs Bitlayer 流量对比**:2026-Q1 daily active address 顺序大致 BOB > Bitlayer ≈ Merlin > Citrea > Bsquared > GOAT,但波动剧烈
-- **共同弱点**:BitVM bridge 实际工程复杂度极高,2026 主流部署多数仍是 **multisig federation + BitVM-style verification proof-of-concept**,纯 trust-minimized BitVM bridge mainnet 数量个位数
-- **与 Ethereum L2 对照**:BitVM-EVM 路线本质是 "**用 Bitcoin 当 settlement,EVM 当执行**" — 这与 [[systems/eigenlayer-overview|EigenLayer]] 让 ETH 提供 economic security 的逻辑相似,但 Bitcoin 提供的是 PoW finality 而非 stake-slashing
+- **Citrea**:Chainway チームが主導、EVM-based zk-rollup、2024-Q1 testnet、2024-Q4 メインネット beta、BitVM bridge を trust-minimized BTC peg に使用
+- **BOB(Build on Bitcoin)** :hybrid L2、Bitcoin + Ethereum 両方に settle、デフォルト OP Stack + BitVM bridge
+- **Bitlayer**:OP Stack ライク + BitVM bridge、2024-Q2 メインネット、シンガポール / 中国エコシステムが活発
+- **Merlin Chain**:OKX 系エコシステム、2024-Q1 メインネット、BRC-20 + Ordinals エコシステムを主軸
+- **Bsquared(B² Network)** :ZK-based rollup、2024 メインネット
+- **GOAT Network**:2024-2025 BitVM2 初期実装、「sequencer-decentralized BitVM2」を主軸
+- **Citrea vs BOB vs Bitlayer のトラフィック比較**:2026-Q1 daily active address 順位は概ね BOB > Bitlayer ≈ Merlin > Citrea > Bsquared > GOAT、変動は激しい
+- **共通の弱点**:BitVM bridge は実装エンジニアリング複雑度が極めて高く、2026 主流デプロイの大半は依然 **multisig federation + BitVM-style verification proof-of-concept**、純粋な trust-minimized BitVM bridge メインネット数は一桁
+- **Ethereum L2 との対照**:BitVM-EVM 路線は本質的に「**Bitcoin を settlement、EVM を execution として使う**」 — これは [[systems/eigenlayer-overview|EigenLayer]] が ETH に economic security を提供させるロジックに類似するが、Bitcoin が提供するのは PoW finality であり stake-slashing ではない
 
-## Stack 4 深入 · Babylon staking 机制
+## Stack 4 深掘り · Babylon staking メカニズム
 
-Babylon 是 **"Bitcoin 版 EigenLayer"** 但不依赖 wrap / bridge:
+Babylon は **「Bitcoin 版 EigenLayer」** だが wrap / bridge に依存しない:
 
-- **核心技术**:利用 Bitcoin timestamping + 特殊 UTXO 脚本(CHECKLOCKTIMEVERIFY + multisig)制造 "Bitcoin slashable stake"
-- **Phase-1(2024-08 mainnet)** :用户把 BTC lock 进 Babylon-managed UTXO,获得 "staking position" 但无 yield(只为后续 PoS 链共享安全做准备)
-- **Phase-2(2025)** :Babylon Genesis L1(自己的 PoS Cosmos chain)+ 第三方 Babylon Secured Network(BSN)接入,BTC stake 开始产生 yield(BSN token + Babylon network rewards)
-- **slashing 机制**:如果 PoS 链验证者(同时是 BTC staker)双签或恶意行为,Bitcoin UTXO 通过预签 transaction 被强制销毁
-- **规模**:2026-Q1 staked ~50,000-60,000 BTC(~$5-6B),BSN 接入 ~20-30 个 PoS chain(主要 Cosmos 系 + 部分 EVM L1)
-- **与 EigenLayer 对照**:EigenLayer 在 ETH 提供 ~$15-20B restaked TVL,Babylon 在 BTC 提供 ~$5-6B,两者并列成为 "新一代 cryptoeconomic security marketplace" 的双极
-- **BTC ETF 持有方参与**:理论上 BlackRock / Fidelity 等 ETF 持有 ~$50-80B BTC 可部分接入 Babylon 获取 staking yield,但 2026 内未见正式公告,合规路径(staking 是否构成证券化 ETF 持仓变更)未明
+- **核心技術**:Bitcoin timestamping + 特殊 UTXO スクリプト(CHECKLOCKTIMEVERIFY + multisig)を利用して「Bitcoin slashable stake」を作る
+- **Phase-1(2024-08 メインネット)** :ユーザーが BTC を Babylon-managed UTXO に lock、「staking position」を獲得するが yield なし(後続の PoS チェーン安全共有の準備のみ)
+- **Phase-2(2025)** :Babylon Genesis L1(自身の PoS Cosmos chain)+ サードパーティ Babylon Secured Network(BSN)接続、BTC stake が yield を生み始める(BSN token + Babylon ネットワーク報酬)
+- **slashing メカニズム**:PoS チェーンの validator(同時に BTC staker)が二重署名や悪意ある行為を行えば、Bitcoin UTXO は事前署名 transaction によって強制的に破棄される
+- **規模**:2026-Q1 staked ~50,000-60,000 BTC(~$5-6B)、BSN に接続 ~20-30 個の PoS chain(主に Cosmos 系 + 一部 EVM L1)
+- **EigenLayer との対照**:EigenLayer は ETH 上で ~$15-20B restaked TVL を提供、Babylon は BTC 上で ~$5-6B を提供、両者は並列して「新世代 cryptoeconomic security marketplace」の双極となった
+- **BTC ETF 保有者の参加**:理論的には BlackRock / Fidelity 等の ETF が保有する ~$50-80B BTC の一部を Babylon に接続して staking yield を獲得可能だが、2026 内に正式発表はなく、コンプライアンス経路(staking が証券化 ETF 保有変更に該当するか)は不明
 
 ## Counterpoints
 
-- **TVL 口径不一**:L2Beat 与 DefiLlama 对 BitVM-based L2 的 "BTC TVL" 计法不同,部分项目把 wrapped BTC 与原生 BTC 混算,真实 trust-minimized TVL 可能远低于自报数字
-- **Lightning 容量瓶颈**:5 年内容量基本横盘,LSP 模型实质让 Lightning 变成 "类银行托管网络",denies 原初的 self-custodial 愿景
-- **Stacks Signer 集中度**:sBTC 的 15 Signer 集合理论上仍是 multisig 信任假设,与 "BTC-native" 标榜的去信任化有距离
-- **BitVM challenge period 不实用**:7-14 天 challenge window 对 retail user 几乎不可接受,需 liquidity provider 提前垫付(类似 Optimism 早期),费率因此居高
-- **Babylon 经济安全循环依赖 BTC 价格**:slashing 价值与 BTC 现货价正相关,熊市 PoS 链共享安全实际价值大幅缩水
-- **Ordinals / Runes 反向论**:Inscription / Runes 推高 Bitcoin L1 fee 后,Lightning 等需要 channel open/close 的 L2 反而被边缘化
+- **TVL の計算基準が不統一**:L2Beat と DefiLlama は BitVM-based L2 の「BTC TVL」の計算法が異なり、一部プロジェクトは wrapped BTC とネイティブ BTC を混算、真の trust-minimized TVL は自己申告数字を大きく下回る可能性
+- **Lightning 容量のボトルネック**:5 年間ほぼ横ばい、LSP モデルにより実質的に Lightning は「銀行型カストディネットワーク」に変質、初期の self-custodial ビジョンを denies
+- **Stacks Signer の集中度**:sBTC の 15 Signer 集合は理論上依然として multisig 信頼前提であり、「BTC ネイティブ」を標榜する trustless 化からは距離がある
+- **BitVM challenge period が実用的でない**:7-14 日の challenge window はリテールユーザーには事実上受け入れ難く、liquidity provider が事前に肩代わりする必要がある(Optimism 初期に類似)、手数料がそのため高止まり
+- **Babylon の経済安全は BTC 価格に循環依存**:slashing 価値は BTC スポット価格と正相関、ベアマーケットでは PoS チェーンへの安全共有の実際価値が大幅に縮小
+- **Ordinals / Runes 逆風論**:Inscription / Runes が Bitcoin L1 fee を押し上げた結果、channel open/close を必要とする Lightning 等の L2 が逆に周縁化される
 
 ## Open questions
 
-- CTV / CSFS / OP_CAT 至少一项能否在 2027 前激活?如果不能,BitVM 路线是否成为长期主流?
-- sBTC Signer 集合能否从 15 扩到 100+ 并引入 [[systems/eigenlayer-overview|EigenLayer]] 风格 economic security?
-- Babylon Genesis L1 vs Babylon as pure infrastructure 的战略选择会如何展开?
-- BlackRock / Fidelity 等 BTC ETF 持有方是否会把 BTC 部署到 Babylon 获取 staking yield?对照 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 在 Ethereum 上的部署经验
-- BitVM-based EVM L2 与 Ethereum L2 在 AI agent payment 场景的竞争结局?对照 [[agent-economy/x402-cloudflare-aws-edge-integration|x402 边缘集成]] 的 settlement 选型
-- Lightning Network 在 [[agent-economy/INDEX|agent economy]] 中作为 micropayment rail 是否会复活,还是被 ERC-4337 / x402 完全替代?
+- CTV / CSFS / OP_CAT のうち少なくとも 1 つは 2027 前にアクティベートできるか?もし不可なら、BitVM 路線は長期主流となるか?
+- sBTC Signer 集合は 15 から 100+ に拡大し、[[systems/eigenlayer-overview|EigenLayer]] 風の economic security を導入できるか?
+- Babylon Genesis L1 vs Babylon を pure infrastructure として位置付ける戦略選択はどう展開されるか?
+- BlackRock / Fidelity 等の BTC ETF 保有者は BTC を Babylon にデプロイして staking yield を獲得するか?[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] の Ethereum 上でのデプロイ経験と対照
+- BitVM-based EVM L2 と Ethereum L2 の AI agent payment シナリオでの競争結果は?[[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]] の settlement 選定と対照
+- Lightning Network は [[agent-economy/INDEX|agent economy]] でマイクロペイメント rail として復活するか、それとも ERC-4337 / x402 に完全に置換されるか?
 
 ## Related
 
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
-- [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]
-- [[systems/eigenlayer-overview|EigenLayer 总览]]
-- [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 战略锚]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 扩容]]
-- [[systems/cctp-v2-overview|CCTP V2 总览]]
-- [[systems/chain-abstraction-pattern-overview|chain abstraction 模式总览]]
-- [[agent-economy/x402-cloudflare-aws-edge-integration|x402 边缘集成]]
+- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]]
+- [[systems/eigenlayer-overview|EigenLayer 総覧]]
+- [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 戦略アンカー]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]]
+- [[systems/cctp-v2-overview|CCTP V2 総覧]]
+- [[systems/chain-abstraction-pattern-overview|chain abstraction モデル総覧]]
+- [[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]]
 <!-- /wiki-links:managed -->
 
 ## Sources

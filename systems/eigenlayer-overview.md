@@ -1,10 +1,10 @@
 ---
-title: EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁
+title: EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース
 aliases: [eigenlayer-overview, restaking-overview, eigen-protocol]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, staking, restaking, eigenlayer, ethereum, security]
@@ -12,53 +12,53 @@ sources: []
 status: candidate
 ---
 
-# EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁
+# EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-avs-mechanism|EigenLayer AVS 机制 · Operator · Slashing · EIGEN 仲裁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-avs-mechanism|EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 2023-06 主网上线 ^[extracted]
-- TVL 150 亿+ USD(2025 中) ^[extracted]
-- 40+ AVS 已上线(EigenDA / Hyperlane / AltLayer / Espresso / Lagrange 等) ^[extracted]
-- EIGEN token 2024-10 上线 · 用于 inter-subjective dispute resolution ^[extracted]
-- Slashing 机制 2025 启用——AVS 可定义自定义 slashing 条件 ^[extracted]
+- 2023-06 メインネットローンチ ^[extracted]
+- TVL 150 億+ USD(2025 中) ^[extracted]
+- 40+ AVS が稼働(EigenDA / Hyperlane / AltLayer / Espresso / Lagrange 等) ^[extracted]
+- EIGEN token 2024-10 ローンチ · inter-subjective dispute resolution に使用 ^[extracted]
+- Slashing メカニズム 2025 起動 —— AVS が slashing 条件をカスタム定義可能 ^[extracted]
 
 ## Mechanism / How it works
 
-传统加密经济安全是 **bootstrapping 问题**:新 L1 需要原生 token 质押才能启动 BFT,但启动初期 token 市值低 → 攻击成本低 → 没人敢用。跨链桥 / Oracle / DA 层等"中间件"也需要独立 validator 集合,各自募集质押资本,极度低效。
+伝統的な暗号経済セキュリティは **bootstrapping 問題** :新 L1 はネイティブ token のステーキングで BFT を起動する必要があるが、起動初期には token 時価総額が低い → 攻撃コストが低い → 誰も使う勇気を持たない。クロスチェーンブリッジ / Oracle / DA 層等の「ミドルウェア」も独立 validator 集合を必要とし、それぞれにステーキング資本を集めねばならず、極めて非効率。
 
-EigenLayer 解法:**把 ETH 这个最深的 staking 池"出租"给任何需要 BFT-style 验证的服务**。质押人额外赚收益,新服务获得即时安全,Ethereum L1 不受损(双重 slashing 保证)(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])。
+EigenLayer の解決策:**ETH という最も深い staking プールを、BFT スタイル検証を必要とするあらゆるサービスに「貸し出す」**。ステーキング者は追加収益を得、新サービスは即時セキュリティを得、Ethereum L1 はダメージを受けない(二重 slashing 保証)([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)。
 
-类比:把 SWIFT 已有的 KYC 银行网络"租"给新支付公司,而不是每家都自建。
+類比:SWIFT が既に持つ KYC 銀行ネットワークを新規決済会社に「貸す」もので、各社が個別に構築するわけではない。
 
-**核心组件**:
-- **Operators**:节点运营商,质押 ETH(或代他人质押),选择性 opt-in 各 AVS
-- **AVS**:需要外部验证的服务,定义自己的 slashing 条件
-- **EigenPods**:接收 ETH staking rewards 的合约,允许 native restaking
-- **Strategies**:支持 LST(stETH、rETH、cbETH 等)的 restaking
+**中核コンポーネント**:
+- **Operators**:ノード運営者、ETH をステーキング(自身または他人代理)し、選択的に各 AVS に opt-in
+- **AVS**:外部検証を必要とするサービス、自身の slashing 条件を定義
+- **EigenPods**:ETH staking rewards を受け取るコントラクト、native restaking を許可
+- **Strategies**:LST(stETH、rETH、cbETH 等)の restaking をサポート
 
 ## Origin & evolution
 
-EigenLayer 由 Sreeram Kannan 团队(原 UW 教授)2021 年提出 restaking 论文,2023-06 主网启动。早期定位是"模块化区块链时代的安全层",目标客户是 Celestia 竞品(EigenDA)、跨链桥(Hyperlane)、shared sequencer(Espresso)。
+EigenLayer は Sreeram Kannan チーム(元 UW 教授)が 2021 年に restaking 論文を提案し、2023-06 にメインネットを起動。初期ポジショニングは「モジュラーブロックチェーン時代のセキュリティ層」で、ターゲット顧客は Celestia 競合(EigenDA)、クロスチェーンブリッジ(Hyperlane)、shared sequencer(Espresso)。
 
-2024-10 EIGEN token 上线,引入 inter-subjective dispute resolution 概念——当 AVS 出现"主观"违规(如 oracle 报价偏离市场,无法密码学证伪),EIGEN 持有人投票决定是否 slash。2025 启用 slashing 后,EigenLayer 从"承诺机制"进入"实际经济安全市场"(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 中加密原生侧的演化)。
+2024-10 EIGEN token をローンチし、inter-subjective dispute resolution コンセプトを導入 —— AVS で「主観」違反(oracle 報価が市場から乖離するなど、暗号学的に反証不可能)があった場合、EIGEN holder の投票で slash するか決定する。2025 に slashing を起動した後、EigenLayer は「コミットメントメカニズム」から「実際の経済セキュリティマーケット」に移行([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] における暗号ネイティブ側の進化と対照)。
 
 ## Counterpoints
 
-**Rehypothecation 风险**——一笔 ETH 同时保 N 个 AVS,如果多个 AVS 同时被攻击,系统性 slash 可能引发"crypto-economic bank run"。Vitalik 多次警告(2024)EigenLayer 不应过度扩展到 "应用层共识"——这是 Ethereum 社区的核心张力点。
+**Rehypothecation リスク** —— 一筆の ETH が同時に N 個の AVS を担保し、複数の AVS が同時に攻撃を受ければ、システム的な slash が「暗号経済 bank run」を引き起こす可能性。Vitalik は複数回警告(2024)EigenLayer は「アプリケーション層コンセンサス」に過度拡張すべきでない —— これは Ethereum コミュニティの中核緊張点。
 
-另外 EIGEN 的 inter-subjective dispute 模型本质是"代币持有人投票"——在金额足够大时可能被资本操控,这与"加密经济安全"的初衷有内在矛盾。
+さらに EIGEN の inter-subjective dispute モデルは本質的に「トークン保有者投票」であり —— 金額が十分大きければ資本に操縦される可能性があり、これは「暗号経済セキュリティ」の本来の意図と内在的に矛盾する。
 
 ## Open questions
 
-- Slashing 启用后 1 年内实际 slash 事件数量和金额?
-- Rehypothecation 系数(平均一笔 ETH 同时保几个 AVS)?
-- Vitalik 警告是否会演化为 Ethereum 社区限制 EigenLayer 扩张的具体行动?
-- Tempo / Arc 等新 L1 是否真会采用 EigenLayer 启动期安全?(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各 DEX 对底层链安全的选择)
+- Slashing 起動後 1 年内の実際の slash 事象数と金額は?
+- Rehypothecation 係数(平均 1 筆 ETH が同時に何個の AVS を担保するか)は?
+- Vitalik 警告は Ethereum コミュニティが EigenLayer 拡張を制限する具体的行動に進化するか?
+- Tempo / Arc 等の新 L1 は本当に EigenLayer 起動期セキュリティを採用するか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各 DEX の基盤チェーンセキュリティ選択と対照)
 
 ## Related
 <!-- wiki-links:managed -->

@@ -3,8 +3,8 @@ title: Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot
 aliases: [agent-protocol-mainnet-adoption-2026, agent payment mainnet status 2026, x402 ap2 erc7715 production status, agent stack production readiness]
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [agent-economy, 2026-event, mainnet, adoption, x402, ap2, erc-7715, erc-4337, erc-7702, production-readiness]
@@ -28,7 +28,7 @@ As of May 2026, the agent-payment protocol stack has bifurcated sharply between 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it against [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]] for the broader seven-protocol landscape, and against [[agent-economy/ap2-adoption|AP2 adoption状况]] / [[agent-economy/x402-cloudflare-aws-edge-integration|x402 x Cloudflare / AWS 边缘集成]] for the per-protocol deep dives. For wallet-layer dependencies see [[systems/erc-4337-overview|ERC-4337 总览]] and [[systems/erc-7702-overview|ERC-7702 总览]].
+This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it against [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]] for the broader seven-protocol landscape, and against [[agent-economy/ap2-adoption|AP2 アダプション状況]] / [[agent-economy/x402-cloudflare-aws-edge-integration|x402 x Cloudflare / AWS エッジ統合]] for the per-protocol deep dives. For wallet-layer dependencies see [[systems/erc-4337-overview|ERC-4337 総覧]] and [[systems/erc-7702-overview|ERC-7702 総覧]].
 
 ## Protocol-by-protocol mainnet status
 
@@ -44,7 +44,7 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it again
 | OpenAI Agents SDK x402 helper | Community-maintained | 2026-Q1 |
 | Google Gemini Agent x402 | Not present (Google routes through AP2) | — |
 
-**Mainnet evidence**: Cloudflare publicly documents Workers configuration syntax for declaring per-endpoint USDC pricing; AWS publishes a tutorial wiring API Gateway + Bedrock AgentCore through a x402 facilitator. Both terminate on **Base mainnet USDC** as the default settlement asset, with Solana and other chain support via facilitator routing. See [[agent-economy/x402-http-payment-overview|x402 HTTP 协议总览]] for the spec mechanics and [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge layer integration]] for the facilitator economics.
+**Mainnet evidence**: Cloudflare publicly documents Workers configuration syntax for declaring per-endpoint USDC pricing; AWS publishes a tutorial wiring API Gateway + Bedrock AgentCore through a x402 facilitator. Both terminate on **Base mainnet USDC** as the default settlement asset, with Solana and other chain support via facilitator routing. See [[agent-economy/x402-http-payment-overview|x402 HTTP プロトコル総覧]] for the spec mechanics and [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge layer integration]] for the facilitator economics.
 
 **Production volume**: First-party Cloudflare disclosure puts x402-facilitated requests in the "single-digit billions/month" range across the first two production quarters, dominated by AI agent + scraping use cases. This is not a press release; it is an inference from Cloudflare's developer day talks and AWS re:Invent breakouts.
 
@@ -61,9 +61,9 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it again
 | Reference wallet integration count | ~8 wallets with `wallet_grantPermissions` + AP2 mandate UX | 2026-Q2 |
 | Agent SDK first-party integration | Google Gemini Agent (yes), OpenAI Agents SDK (partial), Anthropic Claude Code (no) | 2026-Q2 |
 
-**Production reality**: The 60+ partner count counts consortium membership, not shipped production flows. Public press identifies four AP2 production pilots as of May 2026 — none disclose volume. The thesis from [[agent-economy/ap2-overview|AP2 overview]] of a "VC-mandate-signed Cart that survives chargeback" requires merchant ledger integration that most retailers have not yet completed. [[agent-economy/ap2-adoption|AP2 adoption状况]] tracks the moving partner list.
+**Production reality**: The 60+ partner count counts consortium membership, not shipped production flows. Public press identifies four AP2 production pilots as of May 2026 — none disclose volume. The thesis from [[agent-economy/ap2-overview|AP2 overview]] of a "VC-mandate-signed Cart that survives chargeback" requires merchant ledger integration that most retailers have not yet completed. [[agent-economy/ap2-adoption|AP2 アダプション状況]] tracks the moving partner list.
 
-**Why FIDO Alliance handover matters**: Google originally owned the AP2 spec, which created vendor-capture concerns for non-Google ecosystems. The 2026-Q2 handover to FIDO Alliance and rename to **AAIF (Agentic AI Identity Federation)** is meant to be the WebAuthn-style commoditization moment (compare [[agent-economy/ai-agent-payment-protocols-commoditization|协议 commoditization 与价值上移]]). Apple and Microsoft joined post-handover; if FIDO succeeds in ratifying the spec on its 18-24 month track, AAIF becomes the OAuth-equivalent of agent identity.
+**Why FIDO Alliance handover matters**: Google originally owned the AP2 spec, which created vendor-capture concerns for non-Google ecosystems. The 2026-Q2 handover to FIDO Alliance and rename to **AAIF (Agentic AI Identity Federation)** is meant to be the WebAuthn-style commoditization moment (compare [[agent-economy/ai-agent-payment-protocols-commoditization|プロトコル commoditization と価値の上方移動]]). Apple and Microsoft joined post-handover; if FIDO succeeds in ratifying the spec on its 18-24 month track, AAIF becomes the OAuth-equivalent of agent identity.
 
 **Body link**: This entry's status depends on whether AAIF moves from "60+ named partners" to "100M+ live merchant SKUs accepting AP2 mandates" by end-2027.
 
@@ -78,7 +78,7 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it again
 | Rabby / Phantom / Trust Wallet impl | Not shipped | — |
 | Cross-wallet permission portability | Not standardized; each wallet diverges on permission types | — |
 
-**Mainnet evidence**: A user with MetaMask + Base ETH can today execute `wallet_grantPermissions` to grant an AI agent a `native-token-recurring-allowance` and an `erc20-token-transfer` permission for USDC on Base, with all three (Base, Optimism, Arbitrum) settling on Ethereum mainnet. The spec is **live on mainnet through specific wallets**, but the "any wallet, any chain" portability promise of [[agent-economy/erc-7715-overview|ERC-7715 总览]] is not yet delivered.
+**Mainnet evidence**: A user with MetaMask + Base ETH can today execute `wallet_grantPermissions` to grant an AI agent a `native-token-recurring-allowance` and an `erc20-token-transfer` permission for USDC on Base, with all three (Base, Optimism, Arbitrum) settling on Ethereum mainnet. The spec is **live on mainnet through specific wallets**, but the "any wallet, any chain" portability promise of [[agent-economy/erc-7715-overview|ERC-7715 総覧]] is not yet delivered.
 
 **The fragmentation gap**: MetaMask supports `native-token-recurring-allowance` + `erc20-token-transfer` + a MetaMask-proprietary "delegation" type. Coinbase Smart Wallet supports `native-token-recurring-allowance` + `erc20-token-transfer` + a session-key type. Safe supports custom module-defined permissions. An agent built against one wallet's permission schema does not portably grant against another. The 2026-Q3 roadmap target is a permission-type registry, but no formal proposal is on track.
 
@@ -90,7 +90,7 @@ ERC-4337 (Account Abstraction via EntryPoint) has been live on Ethereum mainnet 
 - Bundler infrastructure (Pimlico, Stackup, Alchemy, Biconomy) handles hundreds of millions of UserOps per month.
 - Paymasters enable gasless transactions, sponsored by app developers or AI agent platforms.
 
-For agent payments specifically, ERC-4337 provides the underlying **smart contract wallet** that holds the agent's permissioned scope. See [[systems/erc-4337-overview|ERC-4337 总览]] and the deeper UserOp / bundler flow for production architecture. Coinbase Smart Wallet, Safe, ZeroDev, Biconomy, and most "passkey + AA" mobile wallets in 2026 are ERC-4337 SCWs.
+For agent payments specifically, ERC-4337 provides the underlying **smart contract wallet** that holds the agent's permissioned scope. See [[systems/erc-4337-overview|ERC-4337 総覧]] and the deeper UserOp / bundler flow for production architecture. Coinbase Smart Wallet, Safe, ZeroDev, Biconomy, and most "passkey + AA" mobile wallets in 2026 are ERC-4337 SCWs.
 
 **Production volume context**: Stackup's public dashboards show > 100M UserOps processed cumulatively across major bundler networks by mid-2026.
 
@@ -105,7 +105,7 @@ ERC-7702 (EOA delegation to smart contract code via transaction-scoped authoriza
 | Coinbase Wallet EOA + 7702 | Live | 2025-Q4 |
 | Wallet-side 7702 ergonomics (one-click delegation) | Partial; many wallets still require power-user flow | 2026-Q2 |
 
-**Why it matters for agents**: ERC-7702 means the ~150M existing EOA users can grant an agent a one-transaction-scoped delegation **without switching wallets**. Combined with ERC-7715's `wallet_grantPermissions`, an existing MetaMask user can today (2026-Q2) delegate a Claude / Gemini / GPT agent a `erc20-token-transfer` USDC scope without abandoning their seed phrase. See [[systems/erc-7702-overview|ERC-7702 总览]] for the delegation mechanics.
+**Why it matters for agents**: ERC-7702 means the ~150M existing EOA users can grant an agent a one-transaction-scoped delegation **without switching wallets**. Combined with ERC-7715's `wallet_grantPermissions`, an existing MetaMask user can today (2026-Q2) delegate a Claude / Gemini / GPT agent a `erc20-token-transfer` USDC scope without abandoning their seed phrase. See [[systems/erc-7702-overview|ERC-7702 総覧]] for the delegation mechanics.
 
 ## Agent SDK integration matrix
 
@@ -158,7 +158,7 @@ The 2026-mid bottom line: any team claiming "agent payment infrastructure" witho
 ## Counterpoints
 
 - **"Mainnet ≠ adoption"**: ERC-4337 has been live for 4 years and only a single-digit % of Ethereum txns route through bundlers. Mainnet shipping doesn't guarantee dominant pattern emergence.
-- **The Cloudflare / AWS facilitator dominance is a centralization risk**: x402's "open HTTP protocol" framing collides with the reality that two cloud providers will likely process > 80% of facilitator volume by 2027 (compare [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]]).
+- **The Cloudflare / AWS facilitator dominance is a centralization risk**: x402's "open HTTP protocol" framing collides with the reality that two cloud providers will likely process > 80% of facilitator volume by 2027 (compare [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]]).
 - **AP2's slow production roll-out doesn't make it irrelevant**: WebAuthn took 3+ years to ship in mainstream production after FIDO ratification. AAIF on the same trajectory could dominate post-2028.
 - **Anthropic's protocol-neutrality could become a moat**: by not first-party integrating any payment stack, Claude Code remains compatible with whatever wins the [[agent-economy/ai-agent-payment-protocols-commoditization|commoditization wave]] — at the cost of pushing UX burden to users.
 - **OpenAI's hedge could prove correct**: if AP2 and x402 converge (e.g. AP2 mandate signed at the x402 facilitator layer), the SDK that supports both pre-convergence wins post-convergence.
@@ -227,11 +227,11 @@ Public press has not yet documented any of these in 2025-2026 production. The ab
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[agent-economy/INDEX|agent-economy index]]
-- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图]]
+- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図]]
 - [[agent-economy/ap2-adoption|AP2 adoption]]
 - [[agent-economy/x402-cloudflare-aws-edge-integration|x402 x Cloudflare / AWS]]
-- [[agent-economy/erc-7715-overview|ERC-7715 总览]]
-- [[agent-economy/claude-code-extension-architecture|Claude Code 架构]]
+- [[agent-economy/erc-7715-overview|ERC-7715 総覧]]
+- [[agent-economy/claude-code-extension-architecture|Claude Code アーキテクチャ]]
 - [[systems/erc-4337-overview|ERC-4337]]
 - [[systems/erc-7702-overview|ERC-7702]]
 <!-- /wiki-links:managed -->

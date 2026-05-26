@@ -1,10 +1,10 @@
 ---
-title: CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河
+title: CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀
 aliases: [cross chain four poles ccip institutional, Chainlink CCIP institutional default, CCIP DTCC SWIFT Kinexys]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, ccip, chainlink, institutional, dtcc, swift, tradfi-defi]
@@ -12,48 +12,48 @@ sources: []
 status: candidate
 ---
 
-# CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河
+# CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Chainlink 是 DeFi oracle 默认(TVS $14B+) · 品牌延伸至跨链 ^[extracted]
-- CCIP 客户:DTCC / SWIFT(11000+ 银行)/ J.P. Morgan Kinexys ^[extracted]
-- RMN(Risk Management Network) = transaction layer + risk layer 独立验证 ^[extracted]
-- 2024.05 DTCC Smart NAV pilot 完成 · 2025-2026 production rollout ^[extracted]
-- 2025 SWIFT 测试 L1 messaging on Chainlink · 11000+ 银行潜在通道 ^[extracted]
+- Chainlink は DeFi oracle のデフォルト(TVS $14B+) · ブランドはクロスチェーンに拡張 ^[extracted]
+- CCIP 顧客:DTCC / SWIFT(11000+ 銀行)/ J.P. Morgan Kinexys ^[extracted]
+- RMN(Risk Management Network) = transaction layer + risk layer の独立検証 ^[extracted]
+- 2024.05 DTCC Smart NAV パイロット完了 · 2025-2026 production rollout ^[extracted]
+- 2025 SWIFT が L1 messaging on Chainlink をテスト · 11000+ 銀行の潜在チャネル ^[extracted]
 
 ## Mechanism / How it works
 
-**RMN 双层验证**:CCIP 把消息处理分两个独立网络 · transaction network 处理基本消息 · risk management network 独立验证可疑交易(异常金额 / 异常路径 / 黑名单)。两层都通过才放行 → 给 institutional 客户提供"风控可解释"。
+**RMN 二層検証**:CCIP はメッセージ処理を 2 つの独立ネットワークに分ける · transaction network が基本メッセージを処理 · risk management network が疑わしい取引(異常金額 / 異常経路 / ブラックリスト)を独立検証。両層を通過して初めて release → institutional 顧客に「リスク管理が説明可能」な体験を提供。
 
-**TradFi → DeFi 数据桥意义**:SWIFT 是 50 年银行间消息标准 · DTCC 是美国证券清算中心。这两家选 Chainlink 不是"测试 web3",是把 TradFi 数据流量正式接入链上 · 让 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / Smart NAV / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等 RWA 产品可以在 chain 之间流动而保持监管合规。详见 [[fintech/ai-payment-two-tracks|AI 支付两条轨道]] + 跨链 + RWA 三个故事线交汇。
+**TradFi → DeFi データブリッジの意義**:SWIFT は 50 年の銀行間メッセージ標準 · DTCC は米国証券清算センター。この 2 社が Chainlink を選んだのは「web3 のテスト」ではなく、TradFi データフローを正式にオンチェーンに接続し、[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / Smart NAV / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等の RWA 製品がチェーン間で流動し、かつ規制対応を維持できるようにすること。詳細は [[fintech/ai-payment-two-tracks|AI 支払い 2 トラック]] + クロスチェーン + RWA の 3 ストーリーが交差する箇所を参照。
 
-**Tempo 选 CCIP 逻辑**:Tempo 客户 = Visa / Standard Chartered / Stripe = 受监管金融机构 · 不能用 Wormhole 19 多签 (Guardian Council 不是 fiduciary)。CCIP 是当前 唯一 institutional grade 跨链层。
+**Tempo が CCIP を選ぶロジック**:Tempo の顧客 = Visa / Standard Chartered / Stripe = 被規制金融機関 · Wormhole 19 多シグ(Guardian Council は fiduciary ではない)を使えない。CCIP は現時点で唯一の institutional grade クロスチェーン層。
 
 ## Origin & evolution
 
-2017 Chainlink 创立做 oracle · 2020 DeFi 夏季后成默认 oracle 标准。2022 CCIP 首次公布。2023-2024 切 institutional 路径 · 借 Chainlink 品牌切入 DTCC / SWIFT 试点。2024.05 DTCC Smart NAV 完成 · 2025 SWIFT messaging 测试 · 标志 TradFi 实际采用。
+2017 Chainlink が oracle として創立 · 2020 DeFi 夏以降にデフォルト oracle 標準に。2022 CCIP を初公開。2023-2024 institutional 経路に切り替え · Chainlink ブランドで DTCC / SWIFT パイロットに切り込み。2024.05 DTCC Smart NAV 完了 · 2025 SWIFT messaging テスト · TradFi の実採用のマイルストーン。
 
 ## Counterpoints
 
-LayerZero / Wormhole 主张 CCIP 的 "institutional" 是营销 · RMN 仍是 Chainlink 节点 oracle 集合 · 中心化程度并不优于 19 Guardian。某些 institutional 客户实际是 Chainlink 销售关系拉过去 · 不是技术比较结果。SWIFT 测试也不等于 production —— SWIFT 历史上测试多个区块链项目最后都未规模化。
+LayerZero / Wormhole は CCIP の「institutional」はマーケティングであり · RMN は依然 Chainlink ノード oracle 集合 · 中央集権化度合いは 19 Guardian より優れているとは限らないと主張。一部 institutional 顧客は実際には Chainlink の販売関係で引き寄せられたものであり · 技術的比較の結果ではない。SWIFT のテストも production と等しくない —— SWIFT は歴史的に複数のブロックチェーンプロジェクトをテストしたが最終的にスケールしなかった。
 
 ## Open questions
 
-CCIP 是否能扩到 50+ chains 而保持 risk grade?DTCC Smart NAV 2026 production volume 多大?[[fintech/jpmorgan-jpmd-coin|J.P. Morgan Kinexys / JPMD]] 是否会切换至自有 bridge(基于 Onyx)?SWIFT 11000+ 银行实际有多少接入 Chainlink messaging?CCIP 是否会被 Tempo / Arc 自建桥架空(后者已有 institutional 客户)?
+CCIP は 50+ chains に拡大し risk grade を維持できるか?DTCC Smart NAV 2026 production volume はどれほどか?[[fintech/jpmorgan-jpmd-coin|J.P. Morgan Kinexys / JPMD]] は自前ブリッジ(Onyx ベース)に切り替えるか?SWIFT 11000+ 銀行の実際の Chainlink messaging 接続数は?CCIP は Tempo / Arc 自前ブリッジ(後者は既に institutional 顧客を持つ)に空洞化されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/cross-chain-four-poles-overview|跨链四极 · 概览]]
-- [[systems/cross-chain-four-poles-selection-decision|跨链选型决策树]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密文化分离]]
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
+- [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極 · 概観]]
+- [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化分離]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能 5 層解体]]
 <!-- /wiki-links:managed -->
 
 ## Sources

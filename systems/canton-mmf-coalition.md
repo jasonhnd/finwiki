@@ -1,10 +1,10 @@
 ---
-title: Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线
+title: Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線
 aliases: [canton-mmf-coalition, gs-dap, bny-liquiditydirect, dtcc-project-ion]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, dlt, canton, mmf, tokenization, jpm, goldman, bny, dtcc]
@@ -12,52 +12,52 @@ sources: []
 status: candidate
 ---
 
-# Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线
+# Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概览 · DAML 智能合约的隐私机构链]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- JPM:JPMD(cash leg)+ MONY/JLTXX MMF 部署在 Canton ^[extracted]
-- GS:GS DAP 平台 + 5 家 MMF 入驻(BlackRock / BNY Dreyfus / Federated / Fidelity / GSAM) ^[extracted]
-- BNY:LiquidityDirect(custody + 客户接口)+ Dreyfus MMF ^[extracted]
-- DTCC:Project Ion(Treasury tokenization on Canton)2026-10 全平台 launch ^[extracted]
-- BlackRock / Fidelity / Federated 只是被动入驻 GS DAP 的资产管理人 ^[extracted]
+- JPM:JPMD(cash leg)+ MONY/JLTXX MMF を Canton にデプロイ ^[extracted]
+- GS:GS DAP プラットフォーム + 5 つの MMF が入居(BlackRock / BNY Dreyfus / Federated / Fidelity / GSAM) ^[extracted]
+- BNY:LiquidityDirect(custody + 顧客インタフェース)+ Dreyfus MMF ^[extracted]
+- DTCC:Project Ion(Treasury tokenization on Canton)は 2026-10 にプラットフォーム全体ローンチ ^[extracted]
+- BlackRock / Fidelity / Federated は GS DAP に受動的に入居する資産運用会社にすぎない ^[extracted]
 
 ## Mechanism / How it works
 
-机构 tokenization "两条路线"对峙:
+機関 tokenization の「2 経路」対峙:
 
-| 路线 | 公链路线(BlackRock BUIDL) | 私链路线(Canton 联盟) |
+| 経路 | 公開チェーン経路(BlackRock BUIDL) | プライベートチェーン経路(Canton 連合) |
 |---|---|---|
-| 平台 | Ethereum + 7+ 公链 | Canton Network |
-| 入口 | Securitize(中立 platform) | BNY LiquidityDirect(银行渠道) |
-| 隐私 | 公开 + Securitize KYC | Sub-transaction privacy |
-| 价值归属 | 资产管理人 + 公链生态 | 银行(GS/BNY/JPM/DTCC) |
-| 客户类型 | DeFi + 加密原生 + 机构混合 | 纯机构 + 传统 collateral mgmt |
+| プラットフォーム | Ethereum + 7+ 公開チェーン | Canton Network |
+| 入口 | Securitize(中立プラットフォーム) | BNY LiquidityDirect(銀行チャネル) |
+| プライバシー | 公開 + Securitize KYC | Sub-transaction privacy |
+| 価値の帰属 | 資産運用会社 + 公開チェーンエコシステム | 銀行(GS/BNY/JPM/DTCC) |
+| 顧客タイプ | DeFi + 暗号ネイティブ + 機関の混合 | 純機関 + 伝統的 collateral mgmt |
 
-**关键洞察**:Canton 联盟的设计让"机构 MMF 全生命周期"的每个环节都由联盟成员控制——cash([[fintech/jpmorgan-jpmd-coin|JPM JPMD]])+ 资产(GS DAP)+ custody(BNY)+ underlying Treasury(DTCC)。[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 作为 MMF 发行人,在 Canton 上只是 GS DAP 上的一个 MMF 选项,**价值归属和客户关系都不在 BlackRock 手里**。这与公链路线下 BlackRock 直接面客户、与 Securitize 分润形成鲜明对比(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]])。
+**鍵となる洞察**:Canton 連合の設計により、「機関 MMF の全ライフサイクル」の各段階が連合メンバーに支配される —— cash([[fintech/jpmorgan-jpmd-coin|JPM JPMD]])+ 資産(GS DAP)+ custody(BNY)+ underlying Treasury(DTCC)。[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] は MMF 発行体として、Canton 上では GS DAP 上の MMF 選択肢の 1 つに過ぎず、**価値帰属も顧客関係も BlackRock の手中にない**。これは公開チェーン経路で BlackRock が顧客と直接接し、Securitize と利益分配する構図と鮮明に対比([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] と対照)。
 
 ## Origin & evolution
 
-2024-2025 间机构 tokenization 进入"路线选择"窗口期。BlackRock 通过 BUIDL(2024-03 launch)抢占公链路线先发,2025 中 BUIDL TVL 突破 $1B。Canton 联盟反应:GS DAP 2024-2025 间陆续上线 MMF 入驻 → BNY LiquidityDirect 2025 开放给银行客户 → JPM Kinexys 2026-01 宣布 JPMD 主战场迁 Canton → DTCC Project Ion 2026-10 全平台 launch。
+2024-2025 年は機関 tokenization の「路線選択」の窓口期に入った。BlackRock は BUIDL(2024-03 ローンチ)で公開チェーン経路の先発を確保し、2025 年中ごろに BUIDL TVL は $1B を突破。Canton 連合の反応:GS DAP は 2024-2025 年にかけて順次 MMF が入居 → BNY LiquidityDirect は 2025 年に銀行顧客向けに開放 → JPM Kinexys は 2026-01 に JPMD の主戦場を Canton へ移行すると発表 → DTCC Project Ion は 2026-10 にプラットフォーム全体ローンチ。
 
-时间线上,这是一个**应对性策略**——Canton 联盟在 BlackRock 占据公链高地后,反向构建闭环 stack 把价值锁回银行体系。
+時系列的にこれは **対応策**である —— Canton 連合は BlackRock が公開チェーンの高地を占拠した後、逆方向に閉ループスタックを構築し、価値を銀行体系内に再ロックする戦略を取った。
 
 ## Counterpoints
 
-Canton 联盟的弱点:**缺少零售/DeFi 入口**。机构客户的 collateral management 体量大但用户基数小;BlackRock BUIDL 通过 Securitize 至少触达加密原生用户和未来潜在的 DeFi 集成场景。长期看,谁占据下一代金融的"用户心智"是关键。另外 Canton 联盟内部利益分配未公开,JPM/GS/BNY/DTCC 间的协调成本可能高于联盟描述的"无缝"。
+Canton 連合の弱点:**リテール/DeFi 入口の欠如**。機関顧客の collateral management は規模は大きいがユーザーベースは小さい;BlackRock BUIDL は Securitize を経由して、少なくとも暗号ネイティブユーザーと将来潜在的な DeFi 統合シナリオに到達できる。長期的には、次世代金融の「ユーザーマインドシェア」を誰が押さえるかが鍵となる。さらに Canton 連合内部の利益配分は非公開で、JPM/GS/BNY/DTCC 間の調整コストは連合が謳う「シームレス」より高い可能性。
 
 ## Open questions
 
-- DTCC Project Ion 2026-10 launch 后的实际 Treasury tokenization 体量?
-- BlackRock 是否会做出反击——例如在 Securitize 上线"BlackRock 自营 custody"?
-- Canton 联盟会不会扩张到 EU 银行(Deutsche Bank / BNP)?
-- 长期 5-10 年视角下,机构 MMF 中私链 vs 公链路线的市场份额?
-- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED 私募信贷代币化]] 等 RWA 是否陆续选 Canton 联盟而非公链?
+- DTCC Project Ion の 2026-10 ローンチ後、実際の Treasury tokenization 規模は?
+- BlackRock は反撃するか —— 例えば Securitize 上で「BlackRock 自営 custody」をローンチするなど?
+- Canton 連合は EU の銀行(Deutsche Bank / BNP)まで拡大するか?
+- 長期 5-10 年視野で、機関 MMF におけるプライベートチェーン vs 公開チェーン経路の市場シェアは?
+- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED プライベートクレジット tokenization]] 等の RWA は順次 Canton 連合を選び、公開チェーンを避けるのか?
 
 ## Related
 <!-- wiki-links:managed -->

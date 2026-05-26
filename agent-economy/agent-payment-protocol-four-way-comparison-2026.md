@@ -1,5 +1,5 @@
 ---
-title: Agent Payment Protocol 四方比較矩陣 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP
+title: Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP
 aliases:
   - agent-payment-protocol-four-way-comparison-2026
   - agent payment protocol four-way comparison 2026
@@ -8,8 +8,8 @@ aliases:
   - agent payment six-axis matrix
 domain: agent-economy
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [agent-economy, matrix, payment, ap2, x402, skyfire, nevermined, erc-7715, lit-protocol, pkp, comparison]
@@ -32,19 +32,19 @@ sources:
   - https://fidoalliance.org/
 ---
 
-# Agent Payment Protocol 四方比較矩陣 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP
+# Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP
 
 ## TL;DR
 
-- 2026 年中,agent 经济的支付协议格局已经从"七协议混战" ([[agent-economy/ai-agent-payment-protocols-overview|seven-protocol overview]]) 收敛为四条主鳄主线 — **AP2**(Google + FIDO/AAIF 联盟)、**x402**(Coinbase + Cloudflare + AWS edge)、**Skyfire**(闭环 card-network issuer + Visa Trusted Agent)、**Nevermined**(compute / inference marketplace)
-- 四个协议沿 **transport / settlement asset / authorization / mainnet adoption / merchant target / regulatory model** 六维度差异化,没有 winner-takes-all 命题 — 它们解决不同 layer 的问题(transport vs identity vs issuance vs metering)
-- **辅助层**:**ERC-7715** 提供 wallet-side `wallet_grantPermissions` scope 语义,**Lit Protocol PKP** 提供 threshold-cryptography 的 key custody,两者是横向 plug-in 而不是独立 rail
-- 2026 mainnet 真实产销画像:**x402 single-digit billion req/月**(Cloudflare + AWS facilitator GA)· **AP2 ~4 production pilots**(60+ consortium 但 sparse production)· **Skyfire Series A 后 ~$X00M annualized**(visa + card-network closed loop)· **Nevermined niche compute marketplace**
-- 路由:[[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]](production readiness)· [[agent-economy/ai-agent-payment-protocols-commoditization|协议 commoditization 与价值上移]](long-term thesis)· 本矩阵专注 four-way feature comparison
+- 2026 年中盤、agent 経済の決済プロトコル構図は「7プロトコル混戦」([[agent-economy/ai-agent-payment-protocols-overview|seven-protocol overview]])から 4 つの主軸 — **AP2**(Google + FIDO/AAIF 連盟)・**x402**(Coinbase + Cloudflare + AWS edge)・**Skyfire**(クローズドループ card-network issuer + Visa Trusted Agent)・**Nevermined**(compute / inference marketplace)に収束した
+- 4 プロトコルは **transport / settlement asset / authorization / mainnet adoption / merchant target / regulatory model** の 6 軸で差別化されており、winner-takes-all の命題はない — 各々が異なるレイヤの課題を解決する(transport vs identity vs issuance vs metering)
+- **補助層**:**ERC-7715** が wallet 側の `wallet_grantPermissions` scope セマンティクスを提供し、**Lit Protocol PKP** が threshold-cryptography による key custody を提供する。両者は独立した rail ではなく横断的な plug-in である
+- 2026 mainnet の実需画像:**x402 月間 single-digit billion req**(Cloudflare + AWS facilitator GA)・**AP2 ~4 production pilots**(60+ consortium だが production は sparse)・**Skyfire Series A 後 ~$X00M annualized**(visa + card-network closed loop)・**Nevermined niche compute marketplace**
+- ルート:[[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]](production readiness)・[[agent-economy/ai-agent-payment-protocols-commoditization|プロトコル commoditization と価値の上方移動]](long-term thesis)・本マトリクスは four-way feature comparison に専念
 
 ## Wiki route
 
-This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it against [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]] for the broader seven-protocol landscape, [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]] for production-readiness deltas, and [[agent-economy/ai-agent-payment-protocols-commoditization|commoditization thesis]] for the value-capture trajectory. For protocol-specific deep dives see [[agent-economy/x402-http-payment-overview|x402 overview]] · [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]] · [[agent-economy/ap2-overview|AP2 overview]] · [[agent-economy/ap2-adoption|AP2 adoption]] · [[agent-economy/ap2-technical-spec|AP2 technical spec]] · [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire closed-loop issuer]] · [[agent-economy/nevermined-compute-payment-protocol|Nevermined compute payment protocol]] · [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]] · [[agent-economy/erc-7715-overview|ERC-7715 overview]] · [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]]. For wallet substrate see [[systems/erc-4337-overview|ERC-4337 overview]] · [[systems/erc-7702-overview|ERC-7702 overview]] · [[agent-economy/erc-4337-account-abstraction-primer-for-agents|ERC-4337 primer for agents]]. For regulatory framing see [[agent-economy/visa-mastercard-agentic-commerce-pilots|Visa / Mastercard agentic pilots]] and [[agent-economy/agent-legal-tax-liability-framework|agent legal-tax liability framework]].
+This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it against [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]] for the broader seven-protocol landscape, [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]] for production-readiness deltas, and [[agent-economy/ai-agent-payment-protocols-commoditization|commoditization thesis]] for the value-capture trajectory. For protocol-specific deep dives see [[agent-economy/x402-http-payment-overview|x402 overview]] · [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]] · [[agent-economy/ap2-overview|AP2 overview]] · [[agent-economy/ap2-adoption|AP2 adoption]] · [[agent-economy/ap2-technical-spec|AP2 technical spec]] · [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire closed-loop issuer]] · [[agent-economy/nevermined-compute-payment-protocol|Nevermined compute payment protocol]] · [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]] · [[agent-economy/erc-7715-overview|ERC-7715 overview]] · [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]]. For wallet substrate see [[systems/erc-4337-overview|ERC-4337 overview]] · [[systems/erc-7702-overview|ERC-7702 overview]] · [[agent-economy/erc-4337-account-abstraction-primer-for-agents|ERC-4337 primer for agents]]. For regulatory framing see [[agent-economy/visa-mastercard-agentic-commerce-pilots|Visa / Mastercard agentic pilots]] and [[agent-economy/agent-legal-tax-liability-framework|agent legal-tax liability framework]].
 
 ## Why this matrix matters
 
@@ -137,7 +137,7 @@ The bifurcation matters because 2026-Q4 will see the FIDO Alliance handover of A
 
 **Six-axis comparison across four primary protocols + two supplementary layers** (2026-Q2 status):
 
-| 维度 | **AP2 (Google → AAIF)** | **x402 (Coinbase / CF / AWS)** | **Skyfire (Visa closed-loop)** | **Nevermined (compute mp)** | **ERC-7715 (supp.)** | **Lit PKP (supp.)** |
+| 観点 | **AP2 (Google → AAIF)** | **x402 (Coinbase / CF / AWS)** | **Skyfire (Visa closed-loop)** | **Nevermined (compute mp)** | **ERC-7715 (supp.)** | **Lit PKP (supp.)** |
 |---|---|---|---|---|---|---|
 | **Transport** | HTTPS + W3C Verifiable Credential mandate chain | HTTP 402 + `X-Payment` headers | Card-rail REST API (Visa) | Smart-contract escrow + token-gated endpoint | Wallet RPC `wallet_grantPermissions` | Lit-network threshold sign + Lit Actions JS |
 | **Settlement asset** | Asset-agnostic (Google Pay / card / USDC / bank rails) | **USDC stablecoin** on Base / Solana / EVM L2 | **Fiat virtual card** (USD primarily; USDC topup possible) | **Stablecoin compute credit** (USDC / Nevermined credit) | n/a (gates other rails) | n/a (signs any chain) |
@@ -146,83 +146,83 @@ The bifurcation matters because 2026-Q4 will see the FIDO Alliance handover of A
 | **Target merchant** | Web2 enterprise SaaS · card-network retailers · financial institutions | AI compute / API providers · DeFi-native · per-call HTTP services | **Any Visa-accepting merchant** (merchant unaware of agent identity) | AI compute providers · model inference · GPU rental · dataset access | (any) — wallet scope layer | (any) — key custody layer |
 | **Regulatory model** | **Open-loop interop** — pluggable settlement, AAIF as standard | **Open-loop crypto** — facilitator unregulated in most jdx · MiCA on issuer · GENIUS Act pending | **Closed-loop card issuance** — bank-sponsored BIN · KYC / AML / PCI all in scope | **Crypto-native marketplace** — smart-contract platform · DAO dispute | (none — wallet feature) | (none — key custody) |
 
-**矩阵读法**:
-- 横向看一个协议在 6 维的画像 · 纵向看四协议在同一维度的差异化
-- AP2 vs x402 在 settlement asset 上最分歧 — AP2 多 rail · x402 单 rail(USDC)· 这决定了它们在 merchant adoption 曲线上不同(AP2 慢但宽 · x402 快但窄)
-- Skyfire 是唯一 closed-loop · 完全不依赖 merchant 任何 crypto / agent 集成 · 因此可以 "today, any merchant" · 但 KYC + bank sponsorship 成本高
-- Nevermined 是 vertical(compute marketplace)· 不是通用 rail · 这个市场容量较小但单笔金额高
-- ERC-7715 + Lit PKP 不是 rail · 是给上面四 rail 提供 wallet substrate · 真实部署里几乎所有 production stack 都会用其中一个
+**マトリクスの読み方**:
+- 横にひとつのプロトコルの 6 軸プロフィールを見る · 縦に同じ軸での 4 プロトコルの差別化を見る
+- AP2 vs x402 は settlement asset で最も分岐する — AP2 は multi rail · x402 は single rail(USDC) · これが merchant adoption 曲線の違いを決定する(AP2 は遅いが広い · x402 は速いが狭い)
+- Skyfire は唯一の closed-loop · merchant に crypto / agent 統合を一切要求しない · ゆえに「今すぐ、任意のマーチャント」が可能 · ただし KYC + bank sponsorship のコストは高い
+- Nevermined は vertical(compute marketplace) · 汎用 rail ではない · 市場容量は小さいが単発金額は高い
+- ERC-7715 + Lit PKP は rail ではなく · 上記 4 rail に wallet substrate を提供する · 実装上ほぼすべての production stack がいずれかを使う
 
 ## Composition patterns observed in production
 
 **Pattern A — "AI-native API marketplace"**:
 - ERC-7715 (scope) + ERC-7702 / 4337 wallet + x402 transport + USDC on Base
-- ~70% of agent-payment-shipped startups in 2026 (per [[agent-economy/agent-protocol-mainnet-adoption-2026|mainnet adoption snapshot]])
-- 主要 hit: Vercel AI SDK + Cloudflare Workers + AWS Bedrock AgentCore stacks
+- 2026 年に agent-payment を出荷したスタートアップの ~70%([[agent-economy/agent-protocol-mainnet-adoption-2026|mainnet adoption snapshot]] 参照)
+- 主な実装:Vercel AI SDK + Cloudflare Workers + AWS Bedrock AgentCore stacks
 
 **Pattern B — "Enterprise commerce agent"**:
 - AP2 mandate VC + ERC-7715 (scope) + card or USDC settlement
-- ~20%, enterprise pilots (Mastercard / Salesforce / Amex)
-- 优势: merchant 已有 PCI / KYC 流程 · agent 仅需出示 VC
+- ~20%、エンタープライズ pilot(Mastercard / Salesforce / Amex)
+- 強み:マーチャント側に既に PCI / KYC フローがある · agent は VC を提示するだけでよい
 
 **Pattern C — "Skyfire-issued agent card"**:
 - Skyfire identity + virtual card + bank-sponsored BIN
-- Smaller % by transaction count but **highest dollar volume per transaction**
-- 主要 hit: 任意 Visa merchant · agent 无需对方集成
+- トランザクション件数では小さい割合だが **取引あたりの金額が最も高い**
+- 主な実装:任意の Visa merchant · agent は相手側の統合を必要としない
 
 **Pattern D — "Compute marketplace"**:
 - Nevermined escrow + access token + (optional x402 inner settlement)
-- Niche but growing — AI compute providers monetizing fine-tuned models
-- 重叠场景: agent 调用 fine-tuned model 走 Nevermined · 然后 model 自己调用上游 API 走 x402
+- ニッチだが成長中 — AI compute プロバイダがファインチューンモデルをマネタイズ
+- 重なるシナリオ:agent が fine-tuned model を呼び出すのは Nevermined · その model が上流 API を呼び出すのは x402
 
 **Pattern E — "Autonomous agent with policy-bound key"**:
 - Lit PKP (custody + runtime policy) + ERC-7715 (scope) + x402 (transport)
-- 适用于长时间运行的自主 agent · 用户不在场也无法被 phish 取走 key
-- 当 Privy / Magic / Coinbase CDP 的中心化 custody 不可接受时(adversarial / cross-jurisdictional / open-source agent)
+- 長時間自律稼働する agent に適する · ユーザーが不在でも phish で key を奪われない
+- Privy / Magic / Coinbase CDP の中央集権 custody が受け入れられない場合(adversarial / cross-jurisdictional / open-source agent)
 
 ## Boundary cases / future trajectory
 
 **AP2 vs x402 convergence path**:
-- 短期(2026-2027): AP2 的 mandate VC 可以作为 x402 `X-Payment` header 的 inner attestation — 这样 merchant 同时获得 "agent 有授权"(AP2) + "USDC 已结算"(x402)双重保证。OpenAI 的 SDK hedge 押注的就是这条收敛路径(参见 [[agent-economy/agent-protocol-mainnet-adoption-2026|mainnet adoption]])
-- 长期(2028+): AAIF 标准化后 · x402 facilitator 可能内嵌 AAIF 验证 — AP2 vs x402 不再是 "选哪个" · 而是 "都用"
+- 短期(2026-2027):AP2 の mandate VC は x402 `X-Payment` ヘッダの inner attestation として機能し得る — これによりマーチャントは「agent に授権がある」(AP2) + 「USDC が決済済み」(x402)の二重保証を同時に得る。OpenAI の SDK ヘッジが賭けているのはこの収斂路である([[agent-economy/agent-protocol-mainnet-adoption-2026|mainnet adoption]] 参照)
+- 長期(2028+):AAIF 標準化後、x402 facilitator が AAIF 検証を内蔵し得る — AP2 vs x402 はもはや「どちらを選ぶ」ではなく「両方使う」になる
 
-**Skyfire 闭环 vs 开环的张力**:
-- 闭环优势:今天就能用 · 全球 60M+ Visa merchant 都接受 · KYC / AML 框架成熟
-- 闭环劣势:Skyfire 是单点 issuer · 每笔交易 Visa interchange ~1.5-2.5% · 长期 vs x402 的近零 fee 不对称
-- 真实策略:Skyfire 自己也在评估把 USDC 作为 backing asset · 未来可能 "Skyfire issuance + USDC settlement"(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])
+**Skyfire クローズドループ vs オープンループの緊張**:
+- クローズドループの強み:今日から使える · グローバル 60M+ Visa マーチャントが受け入れる · KYC / AML フレームワークが成熟
+- クローズドループの弱み:Skyfire は単一 issuer · 取引ごとに Visa interchange ~1.5-2.5% · 長期的に x402 のニアゼロ fee と比べて非対称
+- 実際の戦略:Skyfire 自身も USDC を backing asset として評価中 · 将来は「Skyfire issuance + USDC settlement」もあり得る([[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)
 
-**Nevermined 与 x402 的吃 / 被吃关系**:
-- x402 把 transport 层标准化后 · Nevermined 的 "per-call HTTP 付费" 用例直接被 x402 覆盖
-- 但 Nevermined 的 "escrow + dispute + 大宗 compute job" 用例(单笔 $1+ · 需要 SLA 保证)x402 无法替代 · 因为 x402 默认 fire-and-forget 无 dispute 机制
-- 长期分工:**x402 处理 < $0.10 fast settlement** · **Nevermined 处理 $0.10+ 大宗 + SLA**
+**Nevermined と x402 の食う/食われる関係**:
+- x402 が transport 層を標準化した後 · Nevermined の「per-call HTTP 課金」ユースケースは x402 に直接置き換えられる
+- しかし Nevermined の「escrow + dispute + 大口 compute job」ユースケース(単発 $1+ · SLA 保証が必要)は x402 では代替不可 · x402 はデフォルト fire-and-forget で dispute 機構がないため
+- 長期的分業:**x402 は < $0.10 の fast settlement** · **Nevermined は $0.10+ の大口 + SLA**
 
-**ERC-7715 portability gap 的解决路径**:
-- 2026-Q3 提案中的 permission-type registry 是关键 · 如果不能统一 schema · agent 将被迫 fragment 成 "MetaMask-agents vs Coinbase-agents vs Safe-agents"
-- Lit PKP 提供另一条路:把 permission policy 写成 Lit Action JavaScript · wallet-agnostic · 但代价是 throughput(Lit network MPC sign 比本地 sign 慢 100-500ms)
+**ERC-7715 portability gap の解消パス**:
+- 2026-Q3 提案中の permission-type registry が鍵 · スキーマを統一できなければ · agent は「MetaMask-agents vs Coinbase-agents vs Safe-agents」に断片化を強いられる
+- Lit PKP は別ルートを提供する:permission policy を Lit Action JavaScript として記述する · wallet-agnostic · ただし throughput が代償(Lit network MPC sign はローカル sign より 100-500ms 遅い)
 
-**FIDO Alliance / AAIF 的合规化**:
-- AAIF 如果走完 18-24 个月 ratification track(类似 WebAuthn 历史)· 可能 2027-Q4 标准化
-- 之前的窗口期是 "Google + 60 partners 寡头联盟" vs "x402 + Cloudflare/AWS edge dominance" 的市场拉锯
-- 真正风险:AAIF stall(像 WebAuthn 2014-2016 那样)· 让 x402 + ERC-7715 完成事实标准化 · 形成 lock-in
+**FIDO Alliance / AAIF のコンプライアンス化**:
+- AAIF が 18-24 ヶ月の ratification track(WebAuthn の歴史に類似)を完走すれば · 2027-Q4 標準化の可能性
+- それまでのウィンドウは「Google + 60 partners 寡頭連盟」vs「x402 + Cloudflare/AWS edge dominance」の市場拮抗
+- 真のリスク:AAIF が stall する(WebAuthn 2014-2016 のように) · その間に x402 + ERC-7715 が事実上の標準化を完成させ · ロックインを形成する
 
-**Lit PKP 与 institutional adoption**:
-- 机构(银行 / 资产管理)倾向 HSM / SOC2 custody · Lit PKP 的 "code-defined policy" 在 SOC2 audit 中较难解释
-- 但合规要求(MiCA 第三方托管)推动 multi-party custody · Lit PKP 的 threshold + transparent code 模型反而获得复审优势 — 2027-2028 可能反转
+**Lit PKP と institutional adoption**:
+- 機関(銀行 / 資産運用)は HSM / SOC2 custody を選好 · Lit PKP の「code-defined policy」は SOC2 audit で説明しにくい
+- ただし規制要件(MiCA の第三者託管)が multi-party custody を後押し · Lit PKP の threshold + transparent code モデルはむしろ復審で優位を得る — 2027-2028 で逆転の可能性
 
-**Visa Trusted Agent Protocol 与 Skyfire**:
-- Visa 2025-2026 推出 Trusted Agent Protocol(VTAP)— 给 agent 一个 cryptographic identity attestation · merchant 在 authorization 时校验
-- Skyfire 是 VTAP 早期 issuer · 与 Visa 深度绑定
-- 但 VTAP 本身是开放标准 · 意味着 Stripe Issuing / Marqeta / Adyen Issuing 等竞品也能成为 issuer · Skyfire 的先发优势可能 18-24 个月内被稀释
+**Visa Trusted Agent Protocol と Skyfire**:
+- Visa が 2025-2026 に Trusted Agent Protocol(VTAP)を発表 — agent に cryptographic identity attestation を付与し · merchant が authorization 時に検証
+- Skyfire は VTAP の早期 issuer · Visa と深く結合
+- ただし VTAP 自体はオープンスタンダード · つまり Stripe Issuing / Marqeta / Adyen Issuing 等の競合も issuer になり得る · Skyfire の先行優位は 18-24 ヶ月以内に希薄化する可能性
 
 **Regulatory wildcard — 2026-Q3 GENIUS Act**:
-- 美国 GENIUS Act 稳定币最终规则预期 2026-Q3 落地 · 会明确 "stablecoin facilitator"(如 Coinbase 在 x402 中的角色)是否被视为 money transmitter
-- 如果 facilitator 被划入 money transmitter · x402 在美国市场 cost structure 将剧变 — facilitator 需要 50 州 MTL 牌照
-- AP2 因为 settlement rail-agnostic 受冲击较小 · Skyfire 因为已经走 bank-sponsored BIN 受冲击最小
+- 米国 GENIUS Act の stablecoin 最終ルールは 2026-Q3 着地予定 · 「stablecoin facilitator」(x402 における Coinbase の役割等)が money transmitter とみなされるかを明確化する
+- facilitator が money transmitter に分類されれば · x402 の米国市場 cost structure は激変 — facilitator は 50 州 MTL ライセンスが必要になる
+- AP2 は settlement rail-agnostic ゆえ影響が比較的小さい · Skyfire は既に bank-sponsored BIN 経由ゆえ影響が最小
 
-**MCP layer 的关系**:
-- Anthropic MCP 是 tool-invocation 层 · 不是 payment 层 · 但 MCP 可以 wrap 任何 payment protocol 作为 tool
-- 实际 production:**MCP tool wraps x402 client** 是最常见的 Claude Code / agent SDK 集成模式
-- 这意味着 Anthropic 不需要选择 first-party 集成 AP2 vs x402 — MCP 作为 abstraction layer 兼容所有四协议
+**MCP layer との関係**:
+- Anthropic MCP は tool-invocation 層であり · payment 層ではない · ただし MCP は任意の payment protocol を tool としてラップ可能
+- 実プロダクション:**MCP tool が x402 client をラップ** が Claude Code / agent SDK 統合で最も一般的なパターン
+- これは Anthropic が AP2 vs x402 のいずれかを first-party 統合する必要がないことを意味する — MCP が abstraction layer として 4 プロトコルすべてに互換
 
 ## Related
 <!-- wiki-links:managed -->

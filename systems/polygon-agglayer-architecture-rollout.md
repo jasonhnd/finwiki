@@ -1,10 +1,10 @@
 ---
-title: Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合
+title: Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約
 aliases: [polygon-agglayer-architecture, agglayer-rollout, polygon-cdk-agglayer, polygon-pol-business-model, agglayer-partner-chains, polygon-pos-to-agglayer, polygon-zk-aggregation]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [systems, polygon, agglayer, zk, l2, polygon-cdk, pol, matic, layer2]
@@ -20,161 +20,161 @@ sources:
   - The Block & Messari research on Polygon
 ---
 
-# Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合
+# Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約
 
 ## TL;DR
 
-Polygon 2024-2026 的战略转型是从 **"Polygon PoS sidechain"** 变成 **"AggLayer + CDK 多链协议层"**:Polygon CDK 让任何团队 stack 出自己的 ZK rollup,AggLayer 提供跨 CDK chain 的统一桥 + pessimistic proof + ZK 证明聚合,目标是吃掉 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极]] 中 "intra-stack interop" 那一极。MATIC → POL 迁移(2024-09 mainnet)把代币模型从 "Polygon PoS gas + staking" 改成 "AggLayer 全栈 gas + restaking",Polygon PoS 本身从战略中心降级为众多 AggLayer 链之一。早期 CDK 合作链包括 Astar zkEVM、Manta Pacific(后撤回)、Immutable zkEVM、X1(OKX)、Palm、IDEX 等,但 2025-2026 流失明显,AggLayer v0.2 - v0.3 实际接入数远低于 2024 初的预期。
+Polygon 2024-2026 年の戦略的転換は **「Polygon PoS sidechain」** から **「AggLayer + CDK マルチチェーンプロトコル層」** への変革である:Polygon CDK により任意のチームが独自の ZK rollup を構築可能、AggLayer は CDK チェーン間に統一ブリッジ + pessimistic proof + ZK 証明集約を提供し、[[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極]] における「intra-stack interop」の極を取り込むことを目指す。MATIC → POL 移行(2024-09 メインネット)はトークンモデルを「Polygon PoS gas + staking」から「AggLayer 全スタック gas + restaking」に変更し、Polygon PoS 自体は戦略中心から多数の AggLayer チェーンの 1 つに格下げされた。初期の CDK 提携チェーンには Astar zkEVM、Manta Pacific(後に撤回)、Immutable zkEVM、X1(OKX)、Palm、IDEX 等が含まれるが、2025-2026 年に流出が顕著、AggLayer v0.2 - v0.3 の実際の接続数は 2024 年初の予測を大きく下回る。
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] for AggLayer 在 LayerZero / Hyperlane / CCIP / Cosmos IBC 中的定位,并对照 [[systems/chain-abstraction-pattern-overview|chain abstraction 模式总览]] 与 [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 扩容]] 理解 Polygon ZK rollup 在 Ethereum L2 经济学中的位置。
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] で AggLayer の LayerZero / Hyperlane / CCIP / Cosmos IBC における位置づけを確認し、[[systems/chain-abstraction-pattern-overview|chain abstraction パターン総覧]] と [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]] と対照して Polygon ZK rollup の Ethereum L2 経済学における位置を理解する。
 
-## Polygon 历史阶段 · PoS → zkEVM → AggLayer
+## Polygon 歴史段階 · PoS → zkEVM → AggLayer
 
-- **Phase 1(2017-2020):Matic Network**:Plasma + PoS sidechain,EVM 兼容,主打低 gas,2020-05 主网上线
-- **Phase 2(2021-2023):Polygon PoS 黄金期**:DEX(QuickSwap, Uniswap V3)+ NFT(OpenSea + Aavegotchi)+ 游戏(Sandbox)推动 TVL 一度超 $5B
-- **Phase 3(2023-2024):多产品扩张**:Polygon zkEVM(2023-03 mainnet)+ Polygon Miden(STARK-based VM)+ Polygon Avail(DA layer, 后独立)+ Polygon CDK(2023-08)
-- **Phase 4(2024-2026):AggLayer 转型**:2024-02 AggLayer v0.1 启动,2024-09 MATIC → POL 迁移,2024-Q4 AggLayer v0.2 引入 pessimistic proof,2025-2026 持续 v0.3+ 迭代,Polygon PoS 战略地位下降
+- **Phase 1(2017-2020):Matic Network**:Plasma + PoS sidechain、EVM 互換、低 gas を主軸、2020-05 メインネットローンチ
+- **Phase 2(2021-2023):Polygon PoS 黄金期**:DEX(QuickSwap, Uniswap V3)+ NFT(OpenSea + Aavegotchi)+ ゲーム(Sandbox)が TVL を一時 $5B 超に押し上げる
+- **Phase 3(2023-2024):マルチプロダクト拡張**:Polygon zkEVM(2023-03 メインネット)+ Polygon Miden(STARK-based VM)+ Polygon Avail(DA layer、後に独立)+ Polygon CDK(2023-08)
+- **Phase 4(2024-2026):AggLayer 転換**:2024-02 AggLayer v0.1 立ち上げ、2024-09 MATIC → POL 移行、2024-Q4 AggLayer v0.2 が pessimistic proof を導入、2025-2026 v0.3+ を継続的にイテレーション、Polygon PoS の戦略的地位は低下
 
-## AggLayer 架构
+## AggLayer アーキテクチャ
 
-AggLayer 不是一条链,而是一个 **跨多条 ZK rollup 的 settlement + 桥协议**:
+AggLayer は 1 つのチェーンではなく、**複数の ZK rollup にまたがる settlement + ブリッジプロトコル** である:
 
-- **Unified Bridge**:所有 AggLayer-connected chain 共用一个 canonical bridge contract(部署在 Ethereum L1),用户从 chain A 到 chain B 资产转移走 unified bridge,无需独立 wrapped token
-- **Pessimistic Proof(v0.2, 2024-Q4)**:防止某条 AggLayer chain 提取超出其存款的资产(bridge insolvency 防护),即使该 chain 的 ZK proof 系统出 bug
-- **ZK Proof Aggregation**:多条 AggLayer chain 的 state transition proof 聚合成单个 L1 verification,显著降低单 chain 的 L1 verification cost
-- **State Sharing(roadmap)**:跨 chain 异步消息 + 最终态共享(类似 Cosmos IBC + Ethereum L2 跨 rollup 通信),roadmap 中
-- **POL 作为 gas + staking**:POL 在 AggLayer 内可被 restaked 给多条 chain,类似 [[systems/eigenlayer-overview|EigenLayer]] 但范围限定 Polygon stack
+- **Unified Bridge**:すべての AggLayer 接続チェーンが 1 つの canonical bridge contract(Ethereum L1 に展開)を共有、ユーザーが chain A から chain B へ資産を移転する際は unified bridge を通り、独立した wrapped token を必要としない
+- **Pessimistic Proof(v0.2, 2024-Q4)**:特定の AggLayer チェーンがその預金を超える資産を引き出すことを防止(bridge insolvency 防護)、当該チェーンの ZK proof システムにバグがあっても効果的
+- **ZK Proof Aggregation**:複数の AggLayer チェーンの state transition proof を 1 つの L1 verification に集約、単一チェーンの L1 verification cost を大幅に削減
+- **State Sharing(roadmap)**:クロスチェーン非同期メッセージ + 最終状態共有(Cosmos IBC + Ethereum L2 クロス rollup 通信に類似)、roadmap 中
+- **POL を gas + staking として**:POL は AggLayer 内で複数のチェーンに restake 可能、[[systems/eigenlayer-overview|EigenLayer]] に類似だが範囲は Polygon stack に限定
 
-与传统 Ethereum L2 的差异:每条 Optimism rollup 或 Arbitrum chain 都有 **独立 canonical bridge**,跨 rollup 资产转移依赖第三方桥([[systems/layerzero-v2-omnichain-messaging|LayerZero V2]] / [[systems/hyperlane-overview|Hyperlane]] / [[systems/chainlink-ccip-institutional-messaging|CCIP]])。AggLayer 试图把这个 "跨 rollup 信任假设 + bridge fragmentation" 在 stack 内部解决。
+従来の Ethereum L2 との差異:各 Optimism rollup や Arbitrum chain は **独立した canonical bridge** を持ち、クロス rollup 資産移転はサードパーティブリッジ([[systems/layerzero-v2-omnichain-messaging|LayerZero V2]] / [[systems/hyperlane-overview|Hyperlane]] / [[systems/chainlink-ccip-institutional-messaging|CCIP]])に依存する。AggLayer はこの「クロス rollup の信頼前提 + bridge fragmentation」を stack 内部で解決しようとする。
 
 ## Polygon CDK(Chain Development Kit)
 
-CDK 是 **OP Stack / Arbitrum Orbit / zkSync ZK Stack 的 Polygon 版本**:
+CDK は **OP Stack / Arbitrum Orbit / zkSync ZK Stack の Polygon 版** である:
 
-- **基础组件**:Polygon zkEVM prover(基于 Plonk + KZG)+ sequencer + RPC + bridge contract template
-- **可选 DA**:Ethereum blob(默认,贵)/ Polygon Avail / EigenDA / Celestia
-- **CDK Erigon vs CDK OP Stack**:2024 之后 Polygon Labs 同时维护两条 CDK 路线 —— Erigon-based(原 zkEVM 路线)+ OP Stack-based(开放给已选 OP Stack 团队),反映 Polygon 在 "保护自家 prover 心血" 与 "拥抱 OP 大生态" 之间的撕裂
-- **AggLayer 接入是自选项**:CDK 链可不接入 AggLayer,反之亦然(但接入 AggLayer 是 Polygon Labs 推动的核心路径)
+- **基本コンポーネント**:Polygon zkEVM prover(Plonk + KZG ベース)+ sequencer + RPC + bridge contract template
+- **オプショナル DA**:Ethereum blob(デフォルト、高価)/ Polygon Avail / EigenDA / Celestia
+- **CDK Erigon vs CDK OP Stack**:2024 以降 Polygon Labs は 2 つの CDK 路線を同時にメンテナンス —— Erigon-based(オリジナル zkEVM 路線)+ OP Stack-based(すでに OP Stack を選定したチームに開放)、Polygon が「自社 prover への投資の保護」と「OP の大エコシステムへの参加」の間で揺れていることを反映
+- **AggLayer 接続はオプション**:CDK チェーンは AggLayer に接続しないことを選べ、逆もまた然り(ただし AggLayer 接続は Polygon Labs が推進するコア経路)
 
-## Partner chains · 名单与流失
+## Partner chains · リストと流出
 
-2024 初 Polygon 宣布的 CDK / AggLayer 合作链:
+2024 年初に Polygon が発表した CDK / AggLayer 提携チェーン:
 
-- **Astar zkEVM**(日本生态,Astar Network 主导,2024-03 上线)— 2024-Q4 因 user adoption 不足实质性 wind down
-- **Manta Pacific**(2024 早期评估 CDK,后改用 OP Stack + Celestia,与 Polygon 实际未深度整合)
-- **Immutable zkEVM**(游戏 L2,2023-11 上线)— 2025 维持运营但流量低于预期
-- **X1 / OKX Chain**(OKX 交易所 L2,2024-Q1 testnet)— 2025 改名 X Layer 持续运营
-- **Palm Network**(NFT-focused, ConsenSys 起源)— 已迁 CDK
-- **IDEX**(DEX 自建 L2)
-- **Gnosis Pay rail(部分组件)** :探索性接入
-- **Wirex** / **OKX** 等钱包 / 交易所 L2 项目
+- **Astar zkEVM**(日本エコシステム、Astar Network 主導、2024-03 ローンチ) — 2024-Q4 にユーザー採用不足で実質的に wind down
+- **Manta Pacific**(2024 年初に CDK を評価、後に OP Stack + Celestia を採用、Polygon と実質的な深い統合に至らず)
+- **Immutable zkEVM**(ゲーム L2、2023-11 ローンチ) — 2025 年も運営継続だがトラフィックは予想を下回る
+- **X1 / OKX Chain**(OKX 取引所 L2、2024-Q1 testnet) — 2025 年に X Layer に改名して運営継続
+- **Palm Network**(NFT-focused、ConsenSys 起源) — CDK に移行済み
+- **IDEX**(DEX 自社 L2)
+- **Gnosis Pay rail(一部コンポーネント)**:探索的接続
+- **Wirex** / **OKX** 等のウォレット / 取引所 L2 プロジェクト
 
-**流失原因**:OP Stack 网络效应(Base / OP Mainnet / Worldcoin / Zora)+ Arbitrum Orbit 生态(Xai / Sanko 等游戏链)+ Manta 等 Celestia DA 阵营,导致 CDK 在 "RaaS / app-chain" 市场份额 2025-2026 持续被压缩。
+**流出原因**:OP Stack のネットワーク効果(Base / OP Mainnet / Worldcoin / Zora)+ Arbitrum Orbit エコシステム(Xai / Sanko 等のゲームチェーン)+ Manta 等の Celestia DA 陣営により、CDK は「RaaS / app-chain」市場シェアが 2025-2026 年に圧縮され続けている。
 
-## MATIC → POL 迁移与商业模式
+## MATIC → POL 移行とビジネスモデル
 
-2024-09 POL token 正式 mainnet,1:1 替代 MATIC:
+2024-09 POL トークンが正式にメインネットローンチ、1:1 で MATIC を代替:
 
-- **POL 作用扩展**:从 "Polygon PoS gas + staking" → "AggLayer 多链 gas + restaking + governance"
-- **Polygon PoS 命运**:仍运营,但战略地位降为 "AggLayer 中一条普通链",2024-2026 TVL 从峰值 $5B+ 下滑到 ~$700M-1B 区间(DefiLlama 口径)
-- **Polygon zkEVM Mainnet Beta**:2023 上线后 TVL 一直在 $100M 以下,2025 实质性进入 maintenance mode,Polygon Labs 战略重心转向 CDK + AggLayer
-- **POL 单 token 经济模型**:取代 MATIC 的 "fixed supply" 改为 **每年 1% emission**(2% 给 validators / 1% 给 community treasury 等切分,具体比例迭代),长期通胀模型与 Cosmos ATOM、ETH 等接近
+- **POL の役割拡張**:「Polygon PoS gas + staking」から「AggLayer マルチチェーン gas + restaking + governance」へ
+- **Polygon PoS の運命**:依然として運営継続だが、戦略的地位は「AggLayer 内の通常のチェーン 1 つ」に降格、2024-2026 年に TVL がピークの $5B+ から ~$700M-1B のレンジに低下(DefiLlama 口径)
+- **Polygon zkEVM Mainnet Beta**:2023 年ローンチ以降 TVL は $100M 以下で推移、2025 年に実質的にメンテナンスモードに入る、Polygon Labs の戦略重心は CDK + AggLayer に転換
+- **POL 単一トークン経済モデル**:MATIC の「fixed supply」を **年間 1% emission** に変更(2% を validators / 1% を community treasury 等に分配、具体的比率はイテレーション)、長期インフレモデルは Cosmos ATOM、ETH 等と近接
 
-商业模式从 "卖 Polygon PoS gas" 变成 "卖 CDK stack + AggLayer 协议层 fee + POL value capture from staking"。
+ビジネスモデルは「Polygon PoS gas 販売」から「CDK stack + AggLayer プロトコル層 fee + POL value capture from staking 販売」に変化。
 
-## AggLayer vs 跨链协议对照
+## AggLayer vs クロスチェーンプロトコル対照
 
-| 维度 | AggLayer | [[systems/layerzero-v2-omnichain-messaging\|LayerZero V2]] | [[systems/hyperlane-overview\|Hyperlane]] | [[systems/chainlink-ccip-institutional-messaging\|CCIP]] |
+| 観点 | AggLayer | [[systems/layerzero-v2-omnichain-messaging\|LayerZero V2]] | [[systems/hyperlane-overview\|Hyperlane]] | [[systems/chainlink-ccip-institutional-messaging\|CCIP]] |
 |---|---|---|---|---|
-| 范围 | Polygon stack 内 | 多 ecosystem(EVM + Solana + Aptos 等) | 多 ecosystem | 多 ecosystem |
-| 信任模型 | Unified bridge + pessimistic proof | DVN(Decentralized Verifier Networks) | ISM(Interchain Security Modules) | Chainlink DON |
-| 资产模型 | Unified bridge(canonical) | OFT(token 在多链原生发行) | warp route | 标准化跨链 token |
-| ZK 聚合 | 是 | 否 | 否 | 否 |
-| 受众 | 选择 Polygon stack 的 rollup | 任意 L2 / L1 | 任意 L2 / L1,模块化 | 机构 + 受监管金融 |
+| 範囲 | Polygon stack 内 | 複数エコシステム(EVM + Solana + Aptos 等) | 複数エコシステム | 複数エコシステム |
+| 信頼モデル | Unified bridge + pessimistic proof | DVN(Decentralized Verifier Networks) | ISM(Interchain Security Modules) | Chainlink DON |
+| 資産モデル | Unified bridge(canonical) | OFT(マルチチェーンでネイティブ発行) | warp route | 標準化されたクロスチェーン token |
+| ZK 集約 | あり | なし | なし | なし |
+| 対象 | Polygon stack を選んだ rollup | 任意の L2 / L1 | 任意の L2 / L1、モジュラー | 機関 + 規制対象金融 |
 
-AggLayer 的差异化是 **"stack 内 trust-minimized + ZK 聚合"**,但代价是只能服务 Polygon CDK chain。详细对位见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]。
+AggLayer の差別化は **「stack 内 trust-minimized + ZK 集約」** にあるが、その代償は Polygon CDK chain にしかサービスできないこと。詳細な対比は [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] を参照。
 
-## Polygon 在 RWA / 机构场景
+## Polygon の RWA / 機関シナリオでの位置
 
-- **Polygon PoS RWA**:2024-2026 上 Polygon PoS 部署的 RWA 包括 Hamilton Lane / Securitize / Backed Finance / Ondo 等,但份额持续被 Ethereum L1(包括 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 起步)+ Stellar + Avalanche 分掉
-- **Polygon ID**:基于 Iden3 的 ZK identity,2024-2026 在受监管 DeFi 与 KYC 场景有限部署
-- **Polygon Enterprise / Supernets 概念**:2022-2023 提出的企业链方向 2024 后基本停止推广,与 Avalanche subnet / Cosmos appchain 的企业销售战略对照,Polygon 在企业方向显著掉队
-- **vs 机构 DLT**:对照 [[systems/canton-overview|Canton]] 与 [[systems/hyperledger-besu-overview|Hyperledger Besu]],Polygon 没有进入 G-SIB tokenization 主战场
+- **Polygon PoS RWA**:2024-2026 年に Polygon PoS に展開された RWA には Hamilton Lane / Securitize / Backed Finance / Ondo 等が含まれるが、シェアは Ethereum L1([[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] を起点とする)+ Stellar + Avalanche に取られ続けている
+- **Polygon ID**:Iden3 ベースの ZK identity、2024-2026 年に規制対象 DeFi と KYC シナリオで限定的に展開
+- **Polygon Enterprise / Supernets コンセプト**:2022-2023 年に提示された企業チェーン方向は 2024 年以降基本的に推進停止、Avalanche subnet / Cosmos appchain の企業販売戦略との対照で、Polygon は企業方向で明確に後れを取る
+- **vs 機関 DLT**:[[systems/canton-overview|Canton]] と [[systems/hyperledger-besu-overview|Hyperledger Besu]] と対照して、Polygon は G-SIB トークン化の主戦場には進出せず
 
-## AggLayer v0.x 迭代细节
+## AggLayer v0.x イテレーション詳細
 
-AggLayer 不是一次发布,而是 **持续迭代的 stack**,2024-2026 主要版本节奏:
+AggLayer は 1 回のリリースではなく、**継続的にイテレーションされる stack**、2024-2026 主要バージョンのリズム:
 
-- **v0.1(2024-02)** :Unified Bridge 基础设施 + 第一批 Polygon zkEVM + Astar zkEVM 接入,实质是 "共享 L1 bridge contract"
-- **v0.2(2024-Q4)** :Pessimistic Proof 引入 — 即使某条 AggLayer chain 的 ZK proof 系统出 bug,该 chain 不能从 Unified Bridge 提取超出其 deposit 的资产,这是 AggLayer 对 "stack 内 risk isolation" 的核心承诺
-- **v0.3(2025)** :部分跨 chain 消息原语 + zkEVM prover 性能改进,实际接入链数较 v0.1 公告时下降
-- **v1.0(roadmap)** :跨 chain atomic execution + ZK proof aggregation deployed in production
-- **State Sharing**:跨 chain 共享 storage slot 的能力,roadmap 中,与 Optimism Superchain 共享 sequencer + Arbitrum BoLD 的路线竞争
-- **POL restaking 接入**:2025-2026 试图把 POL 作为 AggLayer 内 "decentralized verifier" 的 staking 资产,类似 [[systems/eigenlayer-overview|EigenLayer]] 在 ETH 生态的位置,但 mainnet 实际接入慢
+- **v0.1(2024-02)**:Unified Bridge 基本インフラ + 第一陣 Polygon zkEVM + Astar zkEVM 接続、実質は「共有 L1 bridge contract」
+- **v0.2(2024-Q4)**:Pessimistic Proof 導入 — 特定の AggLayer チェーンの ZK proof システムにバグがあっても、当該チェーンは Unified Bridge から deposit を超える資産を引き出せない、これは AggLayer の「stack 内 risk isolation」に対する核心的コミットメント
+- **v0.3(2025)**:一部クロスチェーンメッセージプリミティブ + zkEVM prover 性能改善、実際の接続チェーン数は v0.1 発表時より低下
+- **v1.0(roadmap)**:クロスチェーンアトミック実行 + ZK proof aggregation の本番デプロイ
+- **State Sharing**:クロスチェーンでストレージスロットを共有する能力、roadmap 中、Optimism Superchain の共有 sequencer + Arbitrum BoLD の路線と競争
+- **POL restaking 接続**:2025-2026 年に POL を AggLayer 内「decentralized verifier」のステーキング資産にしようとする試み、[[systems/eigenlayer-overview|EigenLayer]] が ETH エコシステムで占める位置に類似だが、メインネット実接続は遅い
 
-## Polygon zkEVM prover 路线 · Plonk + KZG + Hardfork 节奏
+## Polygon zkEVM prover 路線 · Plonk + KZG + Hardfork リズム
 
-- **Plonky2 / Plonky3**:Polygon Labs 自研 STARK + Plonk 混合 prover,2023-2024 迭代,目标 prover time < 1 分钟 / block
-- **Pessimistic Proof 用 Plonk + KZG**:依赖 Ethereum L1 KZG precompile(EIP-4844),减少 verification cost
-- **Hardfork 节奏**:Polygon zkEVM 每 3-6 个月一次 hardfork(Dragonfruit / Etrog / Elderberry / Feijoa 等命名风格),与 Ethereum L1 fork 节奏不同步
-- **vs zkSync / Scroll / Linea**:zkSync Era 用 Boojum(自研 STARK),Scroll 用 自研 zkEVM + Halo2,Linea 用 ConsenSys lattice-based prover,Polygon 在 prover 性能与 Type-1 兼容度上没有绝对优势
+- **Plonky2 / Plonky3**:Polygon Labs 自社開発の STARK + Plonk ハイブリッド prover、2023-2024 年にイテレーション、目標は prover time < 1 分 / block
+- **Pessimistic Proof は Plonk + KZG を使用**:Ethereum L1 KZG プリコンパイル(EIP-4844)に依存し、verification cost を削減
+- **Hardfork リズム**:Polygon zkEVM は 3-6 か月ごとに hardfork(Dragonfruit / Etrog / Elderberry / Feijoa 等の命名スタイル)、Ethereum L1 fork のリズムとは非同期
+- **vs zkSync / Scroll / Linea**:zkSync Era は Boojum(自社開発 STARK)、Scroll は自社開発 zkEVM + Halo2、Linea は ConsenSys lattice-based prover、Polygon は prover 性能と Type-1 互換度で絶対的優位を持たない
 
-## 与其他 RaaS / 多链协议的竞争
+## その他の RaaS / マルチチェーンプロトコルとの競合
 
-| 维度 | Polygon CDK / AggLayer | OP Stack / Superchain | Arbitrum Orbit | zkSync ZK Stack | Eclipse / Solana 系 |
+| 観点 | Polygon CDK / AggLayer | OP Stack / Superchain | Arbitrum Orbit | zkSync ZK Stack | Eclipse / Solana 系 |
 |---|---|---|---|---|---|
-| 主要 prover / 共识 | ZK(Plonk) + Pessimistic | Optimistic + Fault Proof | Optimistic + BoLD | ZK(Boojum) | SVM + Celestia |
-| 已知部署 chain 数 | 5-10 active | 50+ (Base / OP / World / Zora / Mode 等) | 20+ (Xai / Sanko / DeGen 等) | 5-10 | 1-3 |
-| 旗舰 chain | (无) | Base | Arbitrum One | zkSync Era | Eclipse Mainnet |
-| Unified Bridge | 是(AggLayer Unified Bridge) | 否(每条 OP chain 独立) | 否(每条 Orbit chain 独立) | Hyperchain shared bridge(roadmap) | 单链为主 |
-| 共享 sequencer | (无) | 计划(2026+) | (无) | (无) | (无) |
-| RaaS 头部供应商 | Polygon Labs / Caldera | Conduit / Caldera / Alchemy | Conduit / Caldera / Alchemy | Matter Labs | (生态内自部署) |
+| 主要 prover / コンセンサス | ZK(Plonk) + Pessimistic | Optimistic + Fault Proof | Optimistic + BoLD | ZK(Boojum) | SVM + Celestia |
+| 既知の展開チェーン数 | 5-10 active | 50+ (Base / OP / World / Zora / Mode 等) | 20+ (Xai / Sanko / DeGen 等) | 5-10 | 1-3 |
+| 旗艦 chain | (なし) | Base | Arbitrum One | zkSync Era | Eclipse Mainnet |
+| Unified Bridge | あり(AggLayer Unified Bridge) | なし(各 OP chain 独立) | なし(各 Orbit chain 独立) | Hyperchain shared bridge(roadmap) | 単一チェーン中心 |
+| 共有 sequencer | (なし) | 計画(2026+) | (なし) | (なし) | (なし) |
+| RaaS トップサプライヤー | Polygon Labs / Caldera | Conduit / Caldera / Alchemy | Conduit / Caldera / Alchemy | Matter Labs | (エコシステム内自社展開) |
 
-Polygon CDK 的 AggLayer 是 **唯一把 "stack 内 unified bridge" 作为核心差异化** 的方案,但 OP Stack 网络效应过强是其最大对手。
+Polygon CDK の AggLayer は **「stack 内 unified bridge」をコア差別化に位置づける唯一の方式**、ただし OP Stack のネットワーク効果が強すぎることが最大の対抗。
 
-## 用例 · 谁实际跑在 Polygon CDK / AggLayer 上
+## ユースケース · 誰が実際に Polygon CDK / AggLayer 上で稼働しているか
 
-- **Astar zkEVM**(2024-03):日本生态 dApp 接入,2024-Q4 实质性 wind down
-- **X Layer**(原 X1, OKX):2024-Q1 testnet → mainnet,持续运营,但活跃度低于 OKX 主链
-- **Immutable zkEVM**:Immutable Games 自有 L2,2023-11 mainnet,游戏 GMV 持续低于 OP Stack 系游戏链
-- **Palm Network**:NFT 与 Web3 IP 平台,迁 CDK 后流量稳但小
-- **Wirex Pay**:Wirex 加密卡 / wallet 后端
-- **Aavegotchi(Gotchichain)** :游戏专用 chain
-- **OKBC / Gnosis Pay 部分组件**:实际接入度有限
-- **总数**:2026-Q1 AggLayer-connected mainnet chain 大致 5-10 条 active,远低于 OP Stack 的 50+ 条 active
+- **Astar zkEVM**(2024-03):日本エコシステム dApp 接続、2024-Q4 に実質的に wind down
+- **X Layer**(旧 X1, OKX):2024-Q1 testnet → メインネット、運営継続だがアクティビティは OKX 主チェーンより低い
+- **Immutable zkEVM**:Immutable Games 自社 L2、2023-11 メインネット、ゲーム GMV は OP Stack 系ゲームチェーンより低い
+- **Palm Network**:NFT と Web3 IP プラットフォーム、CDK 移行後トラフィックは安定だが小さい
+- **Wirex Pay**:Wirex 暗号カード / ウォレットバックエンド
+- **Aavegotchi(Gotchichain)**:ゲーム専用 chain
+- **OKBC / Gnosis Pay 一部コンポーネント**:実際の接続度は限定的
+- **総数**:2026-Q1 AggLayer 接続メインネットチェーンはおよそ 5-10 active、OP Stack の 50+ active を大きく下回る
 
 ## Counterpoints
 
-- **Partner chain 流失**:2025-2026 CDK 流失链数高于新增,与 OP Stack 反向扩张形成鲜明对比
-- **AggLayer 实际接入度**:v0.2 / v0.3 实际 mainnet-active 的 AggLayer chain 数量(可在 L2Beat 公开追踪)远低于 Polygon Labs 路线图早期预期
-- **Polygon zkEVM 实际 traction 不足**:作为 Polygon prover 技术展示,zkEVM Beta 至 2026 累计 TVL < $100M,与同期 zkSync Era / Scroll / Linea 等相比明显落后
-- **POL 通胀模型**:1% / 年 emission 在 L2 token 整体过供应背景下,价格表现持续承压
-- **Polygon PoS validator 集中度**:历史上 ~100 个 validator,top 10 持有 staked POL > 50%,与 "PoS 链" 的去中心化叙事有距离
-- **战略叙事更替过快**:Polygon Labs 4 年内从 "Plasma" → "PoS sidechain" → "Polygon 2.0" → "AggLayer" → "AggLayer + CDK",对生态合作方与 token holder 的信号噪比较低
+- **Partner chain 流出**:2025-2026 年の CDK 流出チェーン数は新規より多く、OP Stack の逆方向拡張と鮮明な対比を形成
+- **AggLayer 実接続度**:v0.2 / v0.3 の実際のメインネットアクティブ AggLayer chain 数(L2Beat で公開追跡可能)は Polygon Labs ロードマップ初期予想を大きく下回る
+- **Polygon zkEVM の実 traction 不足**:Polygon prover 技術ショーケースとして、zkEVM Beta は 2026 年までの累計 TVL < $100M、同期間の zkSync Era / Scroll / Linea 等と比べ明確に劣後
+- **POL インフレモデル**:L2 token 全体の過剰供給を背景とした 1% / 年の emission、価格パフォーマンスは継続的に圧迫
+- **Polygon PoS validator 集中度**:歴史的に ~100 個の validator、上位 10 が staked POL の > 50% を保有、「PoS チェーン」の分散化ナラティブと隔たりあり
+- **戦略ナラティブの更新が速すぎる**:Polygon Labs は 4 年内に「Plasma」→「PoS sidechain」→「Polygon 2.0」→「AggLayer」→「AggLayer + CDK」と変遷、エコシステム提携先と token holder への信号対雑音比は低い
 
 ## Open questions
 
-- AggLayer v0.3 → v1.0 是否会引入 cross-chain message passing(对照 [[systems/chain-abstraction-pattern-three-solutions|chain abstraction 三种方案]])?
-- Polygon PoS 是否会在 2027 前 sunset 或彻底降为 AggLayer 内一条普通 ZK rollup?
-- POL restaking 模型与 [[systems/eigenlayer-overview|EigenLayer]] 模型谁会成为机构链共享安全的主流选择?
-- Polygon 在 [[agent-economy/INDEX|agent economy]] 场景能否找到差异化位置?对照 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 钱包采用]] 与 [[agent-economy/x402-cloudflare-aws-edge-integration|x402 边缘集成]]
-- Polygon 与 Solana / Base / Arbitrum 在 stablecoin payment(Visa / Stripe 等)市场份额会如何分化?
-- AggLayer 是否会成为 RWA 跨 L2 流动的事实标准,还是被 CCIP / LayerZero 在机构客户场景压制?
+- AggLayer v0.3 → v1.0 でクロスチェーンメッセージパッシングが導入されるか?([[systems/chain-abstraction-pattern-three-solutions|chain abstraction 3 つのソリューション]] と対照)
+- Polygon PoS は 2027 年までに sunset するか、それとも AggLayer 内の通常 ZK rollup に完全に降格するか?
+- POL restaking モデルと [[systems/eigenlayer-overview|EigenLayer]] モデルは、機関チェーンの共有セキュリティの主流選択肢としてどちらが勝つか?
+- Polygon は [[agent-economy/INDEX|agent economy]] シナリオで差別化された位置を見つけられるか?[[systems/erc-4337-embedded-wallet-adoption|ERC-4337 ウォレット採用]] と [[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]] と対照
+- Polygon は Solana / Base / Arbitrum との stablecoin payment(Visa / Stripe 等)市場シェアでどう分化するか?
+- AggLayer は RWA がクロス L2 で流動する事実上の標準になるか、それとも機関顧客シナリオで CCIP / LayerZero に圧迫されるか?
 
 ## Related
 
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
-- [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]
-- [[systems/chain-abstraction-pattern-overview|chain abstraction 模式总览]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 扩容]]
-- [[systems/eigenlayer-overview|EigenLayer 总览]]
-- [[systems/layerzero-v2-omnichain-messaging|LayerZero V2 全链消息]]
-- [[systems/hyperlane-overview|Hyperlane 总览]]
-- [[systems/chainlink-ccip-institutional-messaging|CCIP 机构消息]]
+- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]]
+- [[systems/chain-abstraction-pattern-overview|chain abstraction パターン総覧]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]]
+- [[systems/eigenlayer-overview|EigenLayer 総覧]]
+- [[systems/layerzero-v2-omnichain-messaging|LayerZero V2 オムニチェーンメッセージ]]
+- [[systems/hyperlane-overview|Hyperlane 総覧]]
+- [[systems/chainlink-ccip-institutional-messaging|CCIP 機関メッセージ]]
 <!-- /wiki-links:managed -->
 
 ## Sources

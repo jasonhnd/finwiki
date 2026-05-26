@@ -1,10 +1,10 @@
 ---
-title: ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe
+title: ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe
 aliases: [erc-4337-adoption, aa-embedded-wallet, privy-coinbase-cdp-alchemy]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, embedded-wallet, privy, coinbase, alchemy]
@@ -12,56 +12,56 @@ sources: []
 status: candidate
 ---
 
-# ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe
+# ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概览 · Account Abstraction 的应用层实现]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概観 · Account Abstraction のアプリケーション層実装]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Privy:全栈 4337 + Pimlico 合作 · 6000+ 应用 · 被 Stripe 收购 ^[extracted]
-- Coinbase CDP Wallets:Base 原生 + smart wallet · 数百万用户 ^[extracted]
-- Alchemy Account Kit:Modular Account 标准 · DeFi + GameFi 主流 ^[extracted]
-- ZeroDev / Pimlico:Bundler + Paymaster 基础设施 B2B 层 ^[extracted]
-- Safe{Core}:4337 适配 + Modular Safe · 机构 multi-sig 主流 ^[extracted]
-- JPM Kinexys 不参与——Canton/DAML 路线 · 不用 EVM AA ^[extracted]
+- Privy:フルスタック 4337 + Pimlico 提携 · 6000+ アプリ · Stripe が買収 ^[extracted]
+- Coinbase CDP Wallets:Base ネイティブ + smart wallet · 数百万ユーザー ^[extracted]
+- Alchemy Account Kit:Modular Account 標準 · DeFi + GameFi 主流 ^[extracted]
+- ZeroDev / Pimlico:Bundler + Paymaster インフラの B2B 層 ^[extracted]
+- Safe{Core}:4337 対応 + Modular Safe · 機関向け multi-sig 主流 ^[extracted]
+- JPM Kinexys は不参加 —— Canton/DAML 路線 · EVM AA は採用せず ^[extracted]
 
 ## Mechanism / How it works
 
-embedded wallet 玩家分层:
+embedded wallet プレイヤーの階層構造:
 
-| 玩家 | 4337 实现 | 客户规模 | 商业模式 |
+| プレイヤー | 4337 実装 | 顧客規模 | ビジネスモデル |
 |---|---|---|---|
-| **Privy** | 全栈 4337 + Pimlico 合作 | 6000+ 应用 | SaaS 订阅 + 用量 |
-| **Coinbase CDP Wallets** | Base 原生 + smart wallet | 数百万用户 | 嵌入 Coinbase 商业生态 |
-| **Alchemy Account Kit** | Modular Account 标准 | DeFi + GameFi 主流 | infra 用量 |
-| **ZeroDev / Pimlico** | Bundler + Paymaster 基础设施 | B2B infra | 基础设施 fee |
-| **Safe{Core}** | 4337 适配 + Modular Safe | 机构 multi-sig | 开源 + 集成支持 |
+| **Privy** | フルスタック 4337 + Pimlico 提携 | 6000+ アプリ | SaaS サブスクリプション + 従量課金 |
+| **Coinbase CDP Wallets** | Base ネイティブ + smart wallet | 数百万ユーザー | Coinbase 商業エコシステムへの組込 |
+| **Alchemy Account Kit** | Modular Account 標準 | DeFi + GameFi 主流 | インフラ従量課金 |
+| **ZeroDev / Pimlico** | Bundler + Paymaster インフラ | B2B インフラ | インフラ手数料 |
+| **Safe{Core}** | 4337 対応 + Modular Safe | 機関向け multi-sig | オープンソース + 統合サポート |
 
-**Stripe via Privy 战略路径**:Stripe 2024 收购 [[agent-economy/privy-embedded-wallet-overview|Privy]] 后 · 把 4337 wallet 能力打包进 Stripe Connect——merchant 客户可直接给终端用户发 self-custodial USDC wallet · 无需用户懂区块链。这是 Stripe 进入 stablecoin payment 的关键楔子(对照 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。
+**Stripe via Privy 戦略の流れ**:Stripe は 2024 年に [[agent-economy/privy-embedded-wallet-overview|Privy]] を買収し · 4337 wallet 機能を Stripe Connect に組み込んだ —— 加盟店は自社のエンドユーザーに対し、ユーザーがブロックチェーンを理解していなくても self-custodial USDC wallet を直接発行できる。これは Stripe が stablecoin payment 領域に参入するための重要なくさびとなる([[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] と対照)。
 
-**Coinbase 的矛盾点**:Coinbase 既运营托管(CEX 主业)· 又主推 self-custodial(CDP / Base / Smart Wallet)——4337 是它"左手砍右手"的工具。商业逻辑:即使部分用户流失到 self-custodial · Coinbase 通过 Base 收 gas + 流量 fee 仍可获益(且不流失到竞品 CEX)。
+**Coinbase の矛盾点**:Coinbase はカストディ事業(CEX 本業)を運営しつつ · self-custodial(CDP / Base / Smart Wallet)も推進している —— 4337 はまさに「左手で右手を切る」ツールである。商業ロジックとしては、一部ユーザーが self-custodial に流れたとしても、Coinbase は Base の gas + トラフィック手数料で収益を得ることができ(かつ競合 CEX に流れることもなく)、利益を確保できる。
 
 ## Origin & evolution
 
-2023-03 4337 主网激活后 6-12 个月内 · Privy / Coinbase CDP / Alchemy 都已上线集成产品。2024-2025 间 embedded wallet 进入"Web2 fintech 接入"阶段——Stripe / Robinhood / PayPal / Revolut 都在不同程度上探索。2024 年 Stripe 收购 Privy 是标志性事件 · 表明 Web2 支付巨头认可 4337 是下一代 wallet UX 基础。
+2023-03 の 4337 メインネット稼働後 6-12 か月以内に · Privy / Coinbase CDP / Alchemy はいずれも統合プロダクトをリリースした。2024-2025 年にかけて embedded wallet は「Web2 fintech 接続」フェーズに突入 —— Stripe / Robinhood / PayPal / Revolut が程度の差はあるものの探索を進めている。2024 年の Stripe による Privy 買収は象徴的な出来事であり · Web2 決済大手が 4337 を次世代 wallet UX の基盤として認知したことを示している。
 
-2026 年随 v0.7 升级 · embedded wallet 落地速度进一步加快——客户体验进一步逼近 Web2 水平。再叠加 [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]],wallet 既要服务真人又要服务 AI agent,4337 成为通用底层。
+2026 年の v0.7 アップグレードに伴い · embedded wallet の実装スピードはさらに加速 —— 顧客体験は Web2 水準にいっそう接近している。さらに [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]] と組み合わさり,wallet は人間と AI agent の両方にサービスを提供する必要があり,4337 は汎用基盤層となっている。
 
 ## Counterpoints
 
-**Safe{Core} 与 Privy/Coinbase 的分工**:Safe 主打机构 multi-sig(已是 web3 机构标配)· Privy/Coinbase 主打 retail embedded——两者表面不竞争 · 但 Safe Modular 也在向 retail 渗透。长期可能合流。
+**Safe{Core} と Privy/Coinbase の棲み分け**:Safe は機関向け multi-sig を主軸とし(すでに web3 機関の標準装備)・ Privy/Coinbase はリテール embedded を主軸 —— 両者は表面上は競合しないが · Safe Modular もリテール領域への浸透を進めている。長期的には合流する可能性がある。
 
-**ERC-7702 的反向冲击**:7702 让"现有 EOA 一键升级 SCW"成为可能 · 降低 Privy/Coinbase CDP 的 UX 差异化壁垒。短期(2026-2027)对 4337 阵营商业模式构成挑战。
+**ERC-7702 からの逆風**:7702 によって「既存の EOA をワンクリックで SCW にアップグレード」できるようになり · Privy/Coinbase CDP の UX 差別化障壁を引き下げる。短期(2026-2027)では 4337 陣営のビジネスモデルにとって挑戦となる。
 
 ## Open questions
 
-- Stripe + Privy 整合后的 merchant 接入速度?
-- Coinbase CDP vs Privy 在 Base 上的市场份额?
-- 7702 上线对 4337 embedded wallet 的实际侵蚀程度?
-- 非 EVM(Solana / Move)的类 embedded wallet 标准如何与 4337 互通?
+- Stripe + Privy 統合後の加盟店オンボーディング速度は?
+- Coinbase CDP vs Privy の Base 上での市場シェアは?
+- 7702 ローンチが 4337 embedded wallet を実際にどの程度浸食するか?
+- 非 EVM(Solana / Move)における embedded wallet 類似標準はどのように 4337 と相互運用するか?
 
 ## Related
 <!-- wiki-links:managed -->

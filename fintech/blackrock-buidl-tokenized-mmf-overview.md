@@ -1,10 +1,10 @@
 ---
-title: BlackRock BUIDL · 代币化 MMF 标杆 · "稳定币 yield 基础设施"
+title: BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」
 aliases: [blackrock-buidl-tokenized-mmf-overview, BUIDL, BlackRock USD Institutional Digital Liquidity Fund]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, tokenization, mmf, blackrock, securitize, yield-infrastructure, rwa]
@@ -16,7 +16,7 @@ sources:
 status: candidate
 ---
 
-# BlackRock BUIDL · 代币化 MMF 标杆 · "稳定币 yield 基础设施"
+# BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」
 
 
 ## Wiki route
@@ -24,49 +24,49 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> BlackRock USD Institutional Digital Liquidity Fund (BUIDL) 由 Securitize 发行,2024-03 以太坊上线,2026-05 跨 **8 条链**、AUM **$2.58B**、获 Moody's **Aaa-mf** 顶级评级。BUIDL 不是普通"链上理财产品",而是被升级为**稳定币储备的 yield 基础设施**——卖给 USDB / Frax / Ondo OUSG / Ethena USDtb / Spark sUSDS 等几乎所有大型 SC/DeFi 协议,与 JPMorgan Kinexys MONY/JLTXX 共同构成代币化 MMF **双核**。
+> BlackRock USD Institutional Digital Liquidity Fund (BUIDL) は Securitize が発行、2024-03 にイーサリアム上でローンチ、2026-05 時点で **8 チェーン** にまたがり、AUM **$2.58B**、Moody's の **Aaa-mf** 最高格付を取得。BUIDL は単なる「onchain 理財商品」ではなく、**stablecoin 準備の yield インフラ** へとアップグレードされた — USDB / Frax / Ondo OUSG / Ethena USDtb / Spark sUSDS などほぼすべての大型 SC/DeFi プロトコルに販売され、JPMorgan Kinexys MONY/JLTXX と並んでトークン化 MMF の **デュアル・コア** を構成する。
 
 ## Key facts
 
-- AUM **$2.58B** (2026-05) · 跨 **8 chains** (Ethereum, Solana, BNB, Avalanche, Aptos, Arbitrum, Optimism, Polygon) ^[extracted]
-- 评级 **Moody's Aaa-mf** (2026-05-13 与 Fidelity FYHXX 同日授评) ^[extracted]
-- 监管路径 Reg D 506(c) 私募 / BVI · 最小投资 $5M · 管理费 ~20bps ^[extracted]
-- 投组 75% UST (1-3M) + 15% 隔夜回购 + 10% 现金 · WAM <60 天 · 标准 2a-7 ^[extracted]
-- 转让代理 Securitize (BlackRock 投资 $100M + 董事会席位) ^[extracted]
-- 2026-05-08 SEC 申请 **BSTBL** + **BRSRV** (专为 SC 储备设计 2a-7 注册公募) ^[extracted]
-- 2026-05-14 与 Goldman/DTCC/Janus 共建 **$1B 即时赎回设施** (T+0 瓶颈突破) ^[extracted]
+- AUM **$2.58B** (2026-05) · **8 chains** にまたがる (Ethereum, Solana, BNB, Avalanche, Aptos, Arbitrum, Optimism, Polygon) ^[extracted]
+- 格付 **Moody's Aaa-mf** (2026-05-13 Fidelity FYHXX と同日に付与) ^[extracted]
+- 規制経路 Reg D 506(c) 私募 / BVI · 最小投資 $5M · 運用報酬 ~20bps ^[extracted]
+- ポートフォリオ 75% UST (1-3M) + 15% オーバーナイト・レポ + 10% 現金 · WAM <60 日 · 2a-7 基準 ^[extracted]
+- 移転代理人 Securitize（BlackRock が $100M 出資 + 取締役会席） ^[extracted]
+- 2026-05-08 SEC に **BSTBL** + **BRSRV**（SC 準備専用に設計された 2a-7 登録公募）申請 ^[extracted]
+- 2026-05-14 Goldman/DTCC/Janus と共同で **$1B 即時償還ファシリティ** を構築（T+0 ボトルネック突破） ^[extracted]
 
 ## Mechanism / How it works
 
-BUIDL 的 "yield 基础设施" 模型 = SC issuer 持有 BUIDL 作为储备 → BUIDL 4.3% APY 流入 issuer 净利息收入 → issuer 反过来扩大 SC 流通 → 流通扩大反过来再买 BUIDL。**关键创新**:BUIDL 同时被 CME / Binance / Deribit / Crypto.com 接受为衍生品 IM collateral,[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 用 BUIDL 提供赎回流动性——BUIDL 的真实经济规模 ≠ AUM,而是被反复 **杠杆化使用**。这与 [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮]] 直接耦合(详见姊妹条目)。
+BUIDL の「yield インフラ」モデル = SC issuer が BUIDL を準備として保有 → BUIDL の 4.3% APY が issuer の純利息収入に流入 → issuer がそれを元手に SC 流通を拡大 → 流通拡大により再度 BUIDL 購入。**主要なイノベーション**: BUIDL は同時に CME / Binance / Deribit / Crypto.com からデリバティブの IM 担保として受け入れられ、[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] は BUIDL を償還流動性として活用 — BUIDL の実質的な経済規模 ≠ AUM、繰り返し **梃子化されて利用されている**。これは [[fintech/circular-reserve-asset-flywheel-overview|準備資産インターロック・フライホイール]] と直接結合する（詳細は姉妹エントリ参照）。
 
 ## Origin & evolution
 
-2024-03 BUIDL 上线 (Ethereum 单链) · 2024-2025 跨 8 链 + AUM 4-5× 增长 · 2025-04 Circle 公开承认是 BUIDL 早期最大机构 LP 之一 · 2025-12 累计分红 $100M+ · 2026-05-13 Moody's Aaa-mf · 2026-05-14 $1B 即时赎回设施 · 2026-05-08 新发 BSTBL/BRSRV 把 [[fintech/genius-act-501-denylist-mandate|GENIUS §501]] 后的"SC 储备"赛道做成产品化。BlackRock 数字资产 AUM 截至 2026-Q1 **$60.67B**(5 月已破 $70B),BUIDL 是这个组合中**最具杠杆性的中心节点**,与 [[exchanges/rwa-tokenization-cex-integration|CEX RWA 集成]] 共享同一类机构客户。
+2024-03 BUIDL ローンチ（イーサリアム単一チェーン） · 2024-2025 で 8 チェーンに展開 + AUM 4-5× 成長 · 2025-04 Circle が公式に BUIDL の初期最大級機関 LP の 1 つであることを認める · 2025-12 累計分配 $100M+ · 2026-05-13 Moody's Aaa-mf · 2026-05-14 $1B 即時償還ファシリティ · 2026-05-08 新発 BSTBL/BRSRV により [[fintech/genius-act-501-denylist-mandate|GENIUS §501]] 後の「SC 準備」領域を商品化。BlackRock のデジタル資産 AUM は 2026-Q1 時点で **$60.67B**（5 月に $70B 突破）、BUIDL はこのポートフォリオで **最も梃子化された中心ノード** であり、[[exchanges/rwa-tokenization-cex-integration|CEX RWA 統合]] と同じカテゴリーの機関顧客を共有する。
 
 ## Counterpoints
 
-"BUIDL 一家独大"叙事是错的——[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 占住 private credit 赛道、Franklin BENJI 占 multi-chain naming、[[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX / Hashnote USYC]] 占非银行系 MMF 子赛道、DTCC Project Ion 占基础设施、Goldman+BNY Canton 占银行内部 stack,2030 BUIDL 占代币化 MMF 市场预计 30-40%,**第二梯队合计 60-70%**。监管侧:OCC/FRB 2026+ 可能新增"单一代币化 MMF 不得超储备金 X%" cap,直接限制 BUIDL 的"yield 基础设施"地位。
+「BUIDL の一強」物語は誤り — [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] が private credit 領域を占有、Franklin BENJI が multi-chain naming を占有、[[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX / Hashnote USYC]] が非銀行系 MMF サブ領域を占有、DTCC Project Ion がインフラを占有、Goldman+BNY Canton が銀行内部スタックを占有 — 2030 年に BUIDL がトークン化 MMF マーケットで占める比率は 30-40% の見通しで、**第二梯団の合計が 60-70%**。規制側: OCC/FRB は 2026+ に「単一トークン化 MMF は準備金の X% を超えてはならない」と上限を新設する可能性があり、BUIDL の「yield インフラ」地位を直接的に制約する。
 
 ## Open questions
 
-BSTBL (2a-7 注册公募的链上份额) 会否成为比 BUIDL 更大的产品?Circle ↔ BlackRock 是否已存在非公开股权关联?BUIDL 跨链如何在 Solana / 非 EVM 链处理 Reg D 合规边界?
+BSTBL（2a-7 登録公募の onchain share クラス）は BUIDL より大きなプロダクトになるか? Circle ↔ BlackRock の間に非公開の資本関係はすでに存在するか? BUIDL のクロスチェーン展開は Solana / 非 EVM チェーン上で Reg D コンプライアンス境界をどう扱うか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮 · BUIDL ↔ USDC]]
-- [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD · 代币化存款]]
-- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED · 私募信贷代币化]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
-- [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构]]
-- [[fintech/tokenized-mmf-wisdomtree-hashnote|代币化 MMF 矩阵 · WisdomTree / Hashnote]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC · BUIDL 最大机构 LP 之一]]
+- [[fintech/circular-reserve-asset-flywheel-overview|準備資産インターロック・フライホイール · BUIDL ↔ USDC]]
+- [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD · トークン化預金]]
+- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED · プライベートクレジット・トークン化]]
+- [[fintech/stablecoin-revenue-split-economics|stablecoin 金利分配エコノミクス]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ・ウィナー構造]]
+- [[fintech/tokenized-mmf-wisdomtree-hashnote|トークン化 MMF マトリックス · WisdomTree / Hashnote]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC · BUIDL 初期最大級機関 LP の 1 つ]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
 ---
 
-**Last refresh** (2026-05-25): refreshed dates; added tokenized-MMF matrix wikilink (WisdomTree/Hashnote) and Circle USDC reserve-LP wikilink.
+**Last refresh** (2026-05-26): JP 化、日付更新。トークン化 MMF マトリックス wikilink（WisdomTree/Hashnote）および Circle USDC リザーブ LP wikilink を追加。
 

@@ -1,10 +1,10 @@
 ---
-title: 亚洲代币化基础设施三极 · Guardian × Ensemble × Agorá-via-BoJ
-aliases: [bis-project-guardian-vs-agora-asia-three-poles, asia tokenization three poles, 亚洲三极分工]
+title: アジア・トークン化インフラ三極 · Guardian × Ensemble × Agorá-via-BoJ
+aliases: [bis-project-guardian-vs-agora-asia-three-poles, asia tokenization three poles, アジア三極分業]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, mas, hkma, boj, guardian, ensemble, agora, asia, tokenization]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 亚洲代币化基础设施三极
+# アジア・トークン化インフラ三極
 
 
 ## Wiki route
@@ -25,60 +25,60 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 亚洲代币化基础设施按职能分三极:MAS Guardian(代币化资产 · 全球机构联合实验)、HKMA Ensemble(代币化存款 · 香港本地沙盒 + mBridge 接驳)、BoJ-via-Agorá(主权货币端 · 日本对接 G10 协调)。三极**互补不重叠**,反映亚洲金融中心在代币化时代的差异化定位。
+> アジアのトークン化インフラは機能別に三極に分かれる: MAS Guardian（トークン化資産 · グローバル機関共同実験）、HKMA Ensemble（トークン化預金 · 香港ローカル・サンドボックス + mBridge 接続）、BoJ-via-Agorá（ソブリン・マネー側 · 日本が G10 協調にアクセス）。三極は **互補的で重ならず**、トークン化時代におけるアジア金融センターの差別化された位置付けを反映している。
 
 ## Key facts
 
-- MAS Guardian = 代币化资产(债 / 基 / FX / 碳信用) ^[extracted]
-- HKMA Ensemble = 代币化存款(港元 + mBridge 跨境) ^[extracted]
-- BoJ 通过 BIS Agorá 参与主权货币代币化(JPY wholesale CBDC) ^[extracted]
-- 三家覆盖资产端 / 货币端 / 主权端,分工清晰 ^[inferred]
-- MAS 监管哲学:单一监管者主导,决策快 ^[extracted]
-- HKMA 监管哲学:沙盒 + 跨境双轨 ^[extracted]
-- BoJ 监管哲学:多边协调,从属 G10 共识 ^[extracted]
+- MAS Guardian = トークン化資産（債券 / ファンド / FX / カーボン・クレジット） ^[extracted]
+- HKMA Ensemble = トークン化預金（香港ドル + mBridge クロスボーダー） ^[extracted]
+- BoJ は BIS Agorá 経由でソブリン・マネー・トークン化（JPY wholesale CBDC）に参加 ^[extracted]
+- 3 者は資産側 / 通貨側 / ソブリン側をカバーし、分業が明確 ^[inferred]
+- MAS の規制哲学: 単一規制当局主導、意思決定が速い ^[extracted]
+- HKMA の規制哲学: サンドボックス + クロスボーダーのデュアル・トラック ^[extracted]
+- BoJ の規制哲学: 多国間協調、G10 コンセンサスに従属 ^[extracted]
 
 ## Mechanism / How it works
 
-**三极分工逻辑**:
+**三極の分業ロジック**:
 
-| 极 | 职能 | 关键特征 |
+| 極 | 機能 | 主要特徴 |
 |---|---|---|
-| MAS Guardian | 资产端 | 全球机构联合,快速实验 |
-| HKMA Ensemble | 货币端 | 香港本地代币化存款 + mBridge 接驳 |
-| BoJ-via-Agorá | 主权端 | 日本对接 G10 多边协调 |
+| MAS Guardian | 資産側 | グローバル機関共同、迅速な実験 |
+| HKMA Ensemble | 通貨側 | 香港ローカル・トークン化預金 + mBridge 接続 |
+| BoJ-via-Agorá | ソブリン側 | 日本が G10 多国間協調に接続 |
 
-**互补关系**:
-- Guardian 实验出的代币化资产标准 → 可在 Ensemble 代币化存款上结算 → 跨境时通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 或 Agorá wholesale CBDC 出口
-- 三层穿透:代币化资产(Guardian) → 代币化存款(Ensemble) → wholesale CBDC(Agorá)
-- **三家都参与 Agorá**(MAS / HKMA / BoJ 都在 7 G10 央行外或内有连接)→ 亚洲三极在 G10 共识下整合,日本侧实施基础见 [[fintech/japan-epi-three-types-overview|日本 EPI 三型架构概览]]
+**互補関係**:
+- Guardian で実験されたトークン化資産標準 → Ensemble のトークン化預金上で決済可能 → クロスボーダー時には [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] または Agorá wholesale CBDC で出口
+- 三層パススルー: トークン化資産（Guardian） → トークン化預金（Ensemble） → wholesale CBDC（Agorá）
+- **3 者すべてが Agorá に参加**（MAS / HKMA / BoJ はそれぞれ 7 G10 中央銀行の内外で何らかのコネクションを持つ） → アジア三極が G10 コンセンサス下で統合され、日本側の実装基盤は [[fintech/japan-epi-three-types-overview|日本 EPI 三型アーキテクチャ概要]] 参照
 
-**核心差异**:Guardian 是产业实验室(机构多但无主权货币层),Ensemble 是主权沙盒(港元 + 跨境 CBDC),Agorá 是 G10 主权协调(日本接入)。三家都不构成单独完整基础设施,但合起来 = 亚洲代币化全栈。
+**中核的差異**: Guardian は産業ラボ（機関は多いがソブリン・マネー・レイヤーなし）、Ensemble はソブリン・サンドボックス（香港ドル + クロスボーダー CBDC）、Agorá は G10 ソブリン協調（日本が接続）。3 者単独では完全なインフラを構成しないが、合わせると = アジア・トークン化フルスタック。
 
 ## Origin & evolution
 
-2017-2020 MAS / HKMA / BoJ 各自启动早期代币化 / CBDC 项目(MAS Ubin / HKMA-PBoC CBDC / BoJ Digital Yen 研究)。2021 mBridge 启动 → HKMA 抢先占跨境位。2022.05 MAS Guardian 启动 → MAS 占资产端。2024.03 HKMA Ensemble 启动 → 补本地代币化存款短板。2024.04 BIS Agorá 启动,BoJ 参与 → BoJ 通过 G10 入口接入主权端。2025+ 三极开始互联实验(MAS 同时参与 Agorá,HKMA Ensemble 可能 2026 接 Agorá)→ 亚洲三极在 G10 共识下整合。
+2017-2020 MAS / HKMA / BoJ はそれぞれ初期トークン化 / CBDC プロジェクトを立ち上げ（MAS Ubin / HKMA-PBoC CBDC / BoJ Digital Yen 研究）。2021 mBridge 立ち上げ → HKMA がクロスボーダー位置を先取り。2022.05 MAS Guardian 立ち上げ → MAS が資産側を占有。2024.03 HKMA Ensemble 立ち上げ → ローカル・トークン化預金の弱点を補完。2024.04 BIS Agorá 立ち上げ、BoJ が参加 → BoJ は G10 経由でソブリン側に接続。2025+ 三極が相互接続実験を開始（MAS は Agorá にも参加、HKMA Ensemble は 2026 年以降に Agorá と接続する可能性） → アジア三極が G10 コンセンサス下で統合。
 
 ## Counterpoints
 
-- "三极互补"理想化,实际三家有竞争(MAS / HKMA 国际化排名长期争夺,BoJ 一向保守跟随)
-- 中国大陆缺席 → "亚洲三极"实质是"亚洲西方阵营三极",不代表整个亚洲
-- 印度 / 韩国未来若推自有代币化基础设施,可能打破三极格局
-- BoJ 在 Agorá 中是参与者非主导者,严格说"BoJ-via-Agorá"不算独立一极
+- 「三極互補」は理想化されており、実際には 3 者間に競争がある（MAS / HKMA の国際化ランキングを巡る長年の争い、BoJ は一貫して保守的にフォロー）
+- 中国本土の不在 → 「アジア三極」は実質的に「アジア西側陣営三極」であり、アジア全体を代表しない
+- インド / 韓国が将来独自のトークン化インフラを推進した場合、三極構造を崩す可能性
+- BoJ は Agorá において主導者ではなく参加者であり、厳密には「BoJ-via-Agorá」を独立した一極とみなすのは難しい
 
 ## Open questions
 
-- 三极何时实现互操作技术联通?
-- 中国大陆是否会通过 mBridge 或独立方案形成"第四极"?
-- 印度 RBI 是否会效仿 MAS 推自己的 Guardian 类项目?
+- 三極はいつ相互運用性の技術的接続を実現するか?
+- 中国本土は mBridge または独自方式を通じて「第 4 の極」を形成するか?
+- インド RBI は MAS に倣って独自の Guardian 型プロジェクトを推進するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/bis-project-guardian-overview|MAS Project Guardian 概览]]
+- [[fintech/bis-project-guardian-overview|MAS Project Guardian 概要]]
 - [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
 - [[fintech/bis-project-agora-overview|BIS Project Agorá]]
-- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 战略对照]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构]]
+- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 戦略比較]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -1,10 +1,10 @@
 ---
-title: ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级
+title: ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード
 aliases: [erc-7702-overview, eoa-to-scw-overview, set-code-tx]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, erc-7702, ethereum, pectra, vitalik]
@@ -12,75 +12,75 @@ sources: []
 status: candidate
 ---
 
-# ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级
+# ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-vs-erc-4337|ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-vs-erc-4337|ERC-7702 vs ERC-4337 · Ethereum AA デュアルトラック対照]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Pectra 2025-05 主网激活(含 7702 + 7251 validator + 2935 blockhash 等) ^[extracted]
-- Vitalik 2024-05 抛弃 EIP-3074 后亲自起草 7702 ^[extracted]
-- 新增 SET_CODE_TX(EIP type 0x04) ^[extracted]
-- 90% ETH 持有者仍在用 EOA(MetaMask / Rabby / Trust Wallet)· 是 7702 的服务目标 ^[extracted]
-- 2026-Q1-Q2:MetaMask / Rabby / Coinbase Wallet 默认支持 ^[extracted]
+- Pectra 2025-05 メインネット有効化(7702 + 7251 validator + 2935 blockhash 等を含む) ^[extracted]
+- Vitalik は 2024-05 に EIP-3074 を破棄した後、自ら 7702 を起草 ^[extracted]
+- SET_CODE_TX(EIP type 0x04)を新設 ^[extracted]
+- ETH 保有者の 90% は依然として EOA を使用(MetaMask / Rabby / Trust Wallet)· これが 7702 のターゲット ^[extracted]
+- 2026-Q1-Q2:MetaMask / Rabby / Coinbase Wallet がデフォルトでサポート ^[extracted]
 
 ## Mechanism / How it works
 
-**核心问题**:ERC-4337 要求用户迁移到新地址(SCW 地址 ≠ EOA 地址)。对已有 on-chain history、ENS、NFT、DeFi positions 的 EOA 用户 · 迁移成本不可接受。
+**コア課題**:ERC-4337 はユーザーに新しいアドレス(SCW アドレス ≠ EOA アドレス)への移行を要求する。オンチェーン履歴、ENS、NFT、DeFi ポジションをすでに持つ EOA ユーザーにとって、移行コストは受け入れ難い。
 
-**Vitalik 推 7702 的核心理由**:
-- 90% 的 ETH 持有者仍在用 EOA
-- 4337 在 2023-2025 两年内 SCW 渗透率 < 5%——证明"新建 SCW"路径太慢
-- 需要一个 **直接升级 EOA 的路径** · 让全部 EOA 一夜之间获得 SCW 能力
+**Vitalik が 7702 を推進する核心的理由**:
+- ETH 保有者の 90% は依然として EOA を使用
+- 4337 は 2023-2025 の 2 年間で SCW 浸透率 < 5% —— 「新規 SCW 作成」経路では浸透が遅すぎることを証明
+- **EOA を直接アップグレードする経路** が必要 · 全 EOA に一夜にして SCW 機能を獲得させる
 
-**机制**:
-- 新增 `SET_CODE_TX`(EIP type 0x04)
-- 用户(EOA)签名授权一份 contract code 在该 tx 期间附加到自己地址
-- 该 tx 执行完成后 · code 可保留(persistent delegation)或移除
-- 持久化模式下 · EOA 行为完全等同 SCW · 但地址不变
+**メカニズム**:
+- `SET_CODE_TX`(EIP type 0x04)を新設
+- ユーザー(EOA)が署名により、当該 tx の期間中に自分のアドレスに付与する contract code を授権
+- その tx 完了後 · code は保持(persistent delegation)または削除可能
+- 永続化モードでは · EOA の挙動は完全に SCW と等価になるが · アドレスは変わらない
 
-**典型应用流程**:
-1. EOA 用户签名一份 `delegationDesignator`(指向一份 SCW 实现合约 · 如 Safe / Kernel)
-2. 用户(或 Bundler 代付 gas)发起 `SET_CODE_TX`
-3. EOA 地址此后按 SCW 逻辑执行——可 batch、可 sponsor、可 session key
-4. 用户随时可签名移除 delegation · 回到纯 EOA 状态
+**典型的なアプリケーションフロー**:
+1. EOA ユーザーが `delegationDesignator`(SCW 実装契約 · 例えば Safe / Kernel への参照)に署名
+2. ユーザー(または Bundler による gas 代行支払い)が `SET_CODE_TX` を発行
+3. EOA アドレスは以降 SCW ロジックで実行 —— batch、sponsor、session key 等が可能
+4. ユーザーはいつでも署名により delegation を削除し · 純粋な EOA 状態に戻れる
 
 ## Origin & evolution
 
-2017-2024 间 Ethereum AA 路径多次尝试:EIP-86(2017 失败)→ EIP-2938(2020 失败)→ EIP-3074(2022 接近落地但有签名 replay 问题)→ ERC-4337(2023-03 应用层落地)→ EIP-7702(2024-05 Vitalik 起草)。
+2017-2024 年の間 · Ethereum AA への取り組みは何度も試行された:EIP-86(2017 失敗)→ EIP-2938(2020 失敗)→ EIP-3074(2022 ほぼ実現しかけたが署名 replay 問題あり)→ ERC-4337(2023-03 アプリケーション層で実現)→ EIP-7702(2024-05 Vitalik 起草)。
 
-**与 ERC-3074 的关键差异**:
-- 3074 用 `AUTH/AUTHCALL` opcode · 需要 invoker contract 中介 · UX 复杂 + 签名 replay 风险高
-- 7702 直接在 tx 层 set code · **更接近原生 SCW 体验** · 且与 4337 共享 EntryPoint 基础设施
+**ERC-3074 との重要な差異**:
+- 3074 は `AUTH/AUTHCALL` opcode を使用 · invoker contract の仲介が必要 · UX が複雑 + 署名 replay リスクが高い
+- 7702 は tx 層で直接 set code · **より原生的な SCW 体験に近い** · かつ 4337 と EntryPoint インフラを共有
 
-**时间线**:
-- 2024-05:Vitalik 抛弃 3074 · 起草 7702
-- 2025-05:Pectra 主网激活(7702 + 7251 + 2935 等)
-- 2026-Q1-Q2:MetaMask / Rabby / Coinbase Wallet 默认支持
-- 2026-H2:Fusaka 升级进一步优化 7702 经济模型
+**タイムライン**:
+- 2024-05:Vitalik が 3074 を破棄 · 7702 を起草
+- 2025-05:Pectra メインネット有効化(7702 + 7251 + 2935 等)
+- 2026-Q1-Q2:MetaMask / Rabby / Coinbase Wallet がデフォルトでサポート
+- 2026-H2:Fusaka アップグレードで 7702 経済モデルをさらに最適化
 
 ## Counterpoints
 
-**Delegation 安全风险**:用户签名授权 EOA 临时绑定合约 · 若 delegation 目标合约有 bug 或恶意 · EOA 资产可能被全部转走。这与"用户保管私钥即拥有资产"的 EOA 原始信任模型形成张力。需要钱包 UI 充分提示 delegation 目标的可信度。
+**Delegation セキュリティリスク**:ユーザーが署名により EOA に契約を一時バインドすると、delegation 対象の契約にバグや悪意があった場合、EOA の資産がすべて移動させられる可能性がある。これは「ユーザーが秘密鍵を管理していれば資産も所有」という EOA 本来の信頼モデルと緊張関係にある。wallet UI が delegation 対象の信頼性を十分に提示することが求められる。
 
-**对 4337 阵营商业冲击**:7702 让"无 SCW 也能享受 batch/sponsorship"成为可能 · 短期内 [[agent-economy/privy-embedded-wallet-overview|Privy]]/Coinbase CDP 等 4337 SCW 钱包的 UX 差异化壁垒下降。但长期看 7702 是 Ethereum 全民升级到 AA 的关键路径 · 对整个生态正面(参见 [[agent-economy/erc-7715-overview|ERC-7715]] 在 EOA 升级后的 agent permission 模型)。
+**4337 陣営のビジネスへの衝撃**:7702 によって「SCW がなくても batch/sponsorship が享受できる」ようになり · 短期的には [[agent-economy/privy-embedded-wallet-overview|Privy]]/Coinbase CDP 等の 4337 SCW ウォレットの UX 差別化障壁が下がる。だが長期的には 7702 は Ethereum 全体を AA にアップグレードする重要経路であり · エコシステム全体にとってはプラス([[agent-economy/erc-7715-overview|ERC-7715]] が EOA アップグレード後の agent permission モデルに与える影響を参照)。
 
 ## Open questions
 
-- 7702 persistent delegation 的取消机制是否会产生 dust attack?
-- 钱包 UI 如何向普通用户解释 delegation 风险?
-- 2026-H2 Fusaka 升级具体会做哪些优化?
-- 7702 在 L2(Optimism / Arbitrum / Base)的等效支持时间表?(对照 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应]] 在多链场景的复用)
+- 7702 persistent delegation の取り消しメカニズムは dust attack を発生させる可能性があるか?
+- ウォレット UI は一般ユーザーに delegation リスクをどう説明すべきか?
+- 2026-H2 Fusaka アップグレードでは具体的にどのような最適化が行われるか?
+- 7702 の L2(Optimism / Arbitrum / Base)同等サポートのタイムラインは?(マルチチェーンシナリオにおける [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果]] の再利用と対照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/erc-7702-vs-erc-4337|ERC-7702 vs ERC-4337]]
 - [[systems/erc-4337-overview|ERC-4337 Overview]]
-- [[agent-economy/erc-7715-overview|ERC-7715(7702 EOA 也可接入)]]
+- [[agent-economy/erc-7715-overview|ERC-7715(7702 EOA も接続可能)]]
 <!-- /wiki-links:managed -->
 
 ## Sources

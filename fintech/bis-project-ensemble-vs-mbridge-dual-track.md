@@ -1,10 +1,10 @@
 ---
-title: HKMA 双轨战略 · Ensemble 境内 + mBridge 跨境
-aliases: [bis-project-ensemble-vs-mbridge-dual-track, hkma dual track ensemble mbridge, 香港双轨战略]
+title: HKMA デュアル・トラック戦略 · Ensemble 域内 + mBridge クロスボーダー
+aliases: [bis-project-ensemble-vs-mbridge-dual-track, hkma dual track ensemble mbridge, 香港デュアル・トラック戦略]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, hkma, hong-kong, ensemble, mbridge, dual-track, rmb-internationalization]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# HKMA 双轨战略 · Ensemble × mBridge
+# HKMA デュアル・トラック戦略 · Ensemble × mBridge
 
 
 ## Wiki route
@@ -25,56 +25,56 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> HKMA 用 Ensemble(境内代币化港元存款)+ mBridge(跨境多 CBDC 走廊)双轨,构建"人民币国际化 + 代币化基础设施"的双引擎枢纽。这是亚洲唯一同时拥有两套基础设施的金融中心,也是香港在三圆 MRA(欧 MiCA / 美 GENIUS / 港 HKMA)谈判中的差异化资本。
+> HKMA は Ensemble（域内トークン化香港ドル預金） + mBridge（クロスボーダー・マルチ CBDC コリドー）のデュアル・トラックにより、「人民元国際化 + トークン化インフラ」のデュアル・エンジン・ハブを構築している。これはアジアで唯一、2 セットのインフラを同時に有する金融センターであり、三円 MRA（欧 MiCA / 米 GENIUS / 港 HKMA）の交渉における香港の差別化資本でもある。
 
 ## Key facts
 
-- Ensemble 启动 2024.03,沙盒中 ^[extracted]
-- mBridge 启动 2021,2024.10 BIS 退出后由 PBoC + HKMA 接管,已商用化 ^[extracted]
-- Ensemble 范围 = 香港境内代币化港元存款 ^[extracted]
-- mBridge 货币 = CNY / HKD / THB / AED ^[extracted]
-- 香港是三圆 MRA 中唯一带"实际跑通的代币化基础设施"上桌的监管者 ^[inferred]
-- e-HKD(零售)+ Ensemble(机构)+ mBridge(跨境)三线并进 ^[extracted]
+- Ensemble は 2024.03 立ち上げ、サンドボックス段階 ^[extracted]
+- mBridge は 2021 立ち上げ、2024.10 BIS 撤退後に PBoC + HKMA が引き継ぎ、商用化済 ^[extracted]
+- Ensemble の範囲 = 香港域内のトークン化香港ドル預金 ^[extracted]
+- mBridge の通貨 = CNY / HKD / THB / AED ^[extracted]
+- 香港は三円 MRA において「実稼働するトークン化インフラ」を持参する唯一の規制当局 ^[inferred]
+- e-HKD（リテール） + Ensemble（機関） + mBridge（クロスボーダー）の 3 ライン並進 ^[extracted]
 
 ## Mechanism / How it works
 
-| 维度 | Ensemble | mBridge |
+| 次元 | Ensemble | mBridge |
 |---|---|---|
-| 启动 | 2024.03 | 2021 启动,2024.10 BIS 退出 |
-| 范围 | 香港境内 | 跨境(中 / 泰 / UAE) |
-| 主体 | 代币化港元存款 | 多 CBDC |
-| 状态 | 沙盒中 | 已商用化 |
-| 参与方 | 香港本地大行 + Anchorpoint | 央行间项目 |
-| BIS 角色 | 无 | 已退出 |
+| 立ち上げ | 2024.03 | 2021 立ち上げ、2024.10 BIS 撤退 |
+| 範囲 | 香港域内 | クロスボーダー（中国 / タイ / UAE） |
+| 主体 | トークン化香港ドル預金 | マルチ CBDC |
+| ステータス | サンドボックス中 | 商用化済 |
+| 参加者 | 香港ローカル大手銀行 + Anchorpoint | 中央銀行間プロジェクト |
+| BIS の役割 | なし | 既に撤退 |
 
-**双轨协同**:Ensemble 训练本地金融机构掌握代币化存款 know-how(技术 + 合规),mBridge 让港元成为跨境 CBDC 走廊的"必经货币"(地缘 + 流量)。两者结合 → 香港金融机构同时在境内(代币化存款)+ 跨境(多 CBDC)两端都有不可替代位置。
+**デュアル・トラックの相乗効果**: Ensemble はローカル金融機関にトークン化預金 know-how（技術 + コンプライアンス）を習得させ、mBridge は香港ドルをクロスボーダー CBDC コリドーの「必須通貨」（地政学 + フロー）にする。両者の組み合わせ → 香港の金融機関は域内（トークン化預金） + クロスボーダー（マルチ CBDC）の両端で代替不可能なポジションを獲得する。
 
-**三圆 MRA 中的差异化资本**:三圆 MRA(欧 [[fintech/mica-overview|MiCA]] / 美 [[fintech/genius-act-501-denylist-mandate|GENIUS]] / 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]])谈判中,欧美主要谈"法律互认",HKMA 是唯一带着"实际跑通的代币化基础设施"上桌的监管者。技术资本 = 谈判筹码。
+**三円 MRA における差別化資本**: 三円 MRA（欧 [[fintech/mica-overview|MiCA]] / 米 [[fintech/genius-act-501-denylist-mandate|GENIUS]] / 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]]）の交渉において、欧米は主に「法的相互承認」を議論するが、HKMA は「実稼働するトークン化インフラ」を持参する唯一の規制当局。技術資本 = 交渉のレバレッジ。
 
 ## Origin & evolution
 
-2017-2020 HKMA 与新加坡 MAS 在亚洲金融科技中心地位竞争激烈。2021 HKMA 通过 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 锁定跨境 CBDC 走廊地位(MAS 没有对应项目)。2024.03 Ensemble 启动 → HKMA 补境内沙盒短板([[fintech/bis-project-guardian-overview|MAS Guardian]] 早 2 年启动)。2024.10 BIS 退出 mBridge 后,HKMA + PBoC 接管,mBridge 政治含义剧增(去美元化跨境清算)。2025-2026 HKMA Stablecoin Ordinance 发牌 → 双轨战略与三圆 MRA 谈判同步推进。Anchorpoint(2024.08)入 Ensemble 标志双轨向"金融科技 + 银行"混合开放。
+2017-2020 HKMA とシンガポール MAS はアジア・フィンテック・センター地位を激しく競争していた。2021 HKMA は [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] によりクロスボーダー CBDC コリドー地位を確保（MAS には対応プロジェクトなし）。2024.03 Ensemble 立ち上げ → HKMA は域内サンドボックスの弱点を補完（[[fintech/bis-project-guardian-overview|MAS Guardian]] は 2 年早く立ち上げ）。2024.10 BIS が mBridge から撤退後、HKMA + PBoC が引き継ぎ、mBridge の政治的含意が急増（脱ドル化クロスボーダー決済）。2025-2026 HKMA Stablecoin Ordinance のライセンス発行 → デュアル・トラック戦略と三円 MRA 交渉が同期推進。Anchorpoint（2024.08）の Ensemble 入りは、デュアル・トラックが「フィンテック + 銀行」混合への開放を示すマイルストーン。
 
 ## Counterpoints
 
-- 双轨战略前提是 mBridge 持续商用化 —— 若地缘压力导致 mBridge 实质冻结,香港跨境优势消失
-- 三线并进(e-HKD + Ensemble + mBridge)资源分散,任一线失败都损害整体叙事
-- HKMA Stablecoin Ordinance 持牌进度慢于市场预期,可能错失 stablecoin 大规模上轨窗口
-- 双轨叙事可能高估香港在 G10 国家的实际认可度 —— 美国监管可能拒绝接入
+- デュアル・トラック戦略の前提は mBridge の継続的商用化 — 地政学的圧力で mBridge が実質凍結された場合、香港のクロスボーダー優位は消失する
+- 3 ライン並進（e-HKD + Ensemble + mBridge）はリソースが分散しており、いずれかの失敗が全体物語を毀損する
+- HKMA Stablecoin Ordinance のライセンス進度が市場期待より遅く、stablecoin 大規模本格化の窓を逃す可能性
+- デュアル・トラック物語は G10 諸国における香港の実際の認知度を過大評価している可能性 — 米国規制が接続を拒否する可能性
 
 ## Open questions
 
-- BIS 退出后 mBridge 是否仍能维持技术中立性?
-- HKMA 是否会与 BIS Agorá 直接互联?
-- 中国大陆是否会取代香港作为代币化存款 know-how 输出地?
+- BIS 撤退後、mBridge は依然として技術的中立性を維持できるか?
+- HKMA は BIS Agorá と直接相互接続するか?
+- 中国本土が香港を代替してトークン化預金 know-how の輸出地となるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble 概览]]
-- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 战略对照]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
-- [[fintech/jurisdiction-list-monetary-protectionism|管辖区列表 · 货币保护主义]]
+- [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble 概要]]
+- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 戦略比較]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/jurisdiction-list-monetary-protectionism|法域リスト · 通貨保護主義]]
 <!-- /wiki-links:managed -->
 
 ## Sources

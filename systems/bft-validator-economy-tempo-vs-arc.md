@@ -1,10 +1,10 @@
 ---
-title: Tempo vs Arc · 机构链 validator 设计两条路径
-aliases: [bft-validator-economy-tempo-vs-arc, tempo arc validator comparison, 机构链 validator 设计]
+title: Tempo vs Arc · 機関チェーン validator 設計の2経路
+aliases: [bft-validator-economy-tempo-vs-arc, tempo arc validator comparison, 機関チェーン validator 設計]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, validator, tempo, arc, institutional-chain, poa, progressive-decentralization]
@@ -12,63 +12,63 @@ sources: []
 status: candidate
 ---
 
-# Tempo vs Arc · 机构链 validator 设计两条路径
+# Tempo vs Arc · 機関チェーン validator 設計の2経路
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-l1-bootstrapping|EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-l1-bootstrapping|EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Tempo 外部 validator 数 = 4(精选机构) ^[extracted]
-- Tempo BFT 容错 = ⌊(4-1)/3⌋ = 1(可容忍 1 个作恶或下线) ^[extracted]
-- Tempo Nakamoto 系数极低,监管单点风险显著 ^[extracted]
-- Arc 阶段 1 = PoA(团队 + 创始机构白名单) ^[extracted]
-- Arc 阶段 2 = 许可 PoS(20-50 KYC validator) ^[extracted]
-- Arc 阶段 3 = 治理 PoS(理论目标,可能永不达) ^[extracted]
-- 三阶段模板被 Kinexys / Mony 引用 ^[extracted]
+- Tempo 外部 validator 数 = 4(厳選機関) ^[extracted]
+- Tempo BFT 耐障害性 = ⌊(4-1)/3⌋ = 1(悪意あるノードまたは停止 1 個まで許容) ^[extracted]
+- Tempo の中本聡係数は極めて低く、規制上の単一障害点リスクが顕著 ^[extracted]
+- Arc フェーズ 1 = PoA(チーム + 創設機関ホワイトリスト) ^[extracted]
+- Arc フェーズ 2 = 許可付き PoS(20-50 KYC validator) ^[extracted]
+- Arc フェーズ 3 = ガバナンス PoS(理論的目標、達成されない可能性あり) ^[extracted]
+- 三段階テンプレートは Kinexys / Mony が引用 ^[extracted]
 
 ## Mechanism / How it works
 
-**Tempo · 4 外部 validator 模型**:Tempo 团队内部 validator + 4 家精选外部机构(大型托管 / 顶级 staking 服务商 / 主权基金资管 / 战略合作)。每个 validator 都有 KYC + 法律协议绑定 → 可追责。无通胀奖励,yield 由协议费分成。无 MEV(机构 OTC 主导订单流)。设计哲学:**少数高资质 > 数量分散**,牺牲去中心化换性能与责任。
+**Tempo · 4 外部 validator モデル**:Tempo チーム内部 validator + 4 つの厳選外部機関(大手カストディアン / 大手 staking サービスプロバイダ / ソブリンファンド運用 / 戦略的提携)。各 validator は KYC + 法的合意で拘束される → 責任追及可能。インフレ報酬なし、yield はプロトコル手数料分配。MEV なし(機関 OTC が注文フローを主導)。設計哲学:**少数の高資格 > 数による分散**、非中央集権性を犠牲にしてパフォーマンスと責任を確保する。
 
-**Arc · 三阶段演化**:阶段 1 PoA 中心化但快速迭代;阶段 2 KYC validator 集合扩展至 20-50 家,引入 staking 经济但准入受控;阶段 3 通过治理决定 validator 集合扩展,长期目标完全去中心化。设计哲学:**承认机构链初期必须中心化,通过明确路线图换生态信任**。
+**Arc · 三段階の進化**:フェーズ 1 PoA は中央集権だが高速反復;フェーズ 2 で KYC validator 集合を 20-50 社に拡大し、ステーキング経済を導入するが参入は制御;フェーズ 3 ではガバナンスにより validator 集合の拡大を決定し、長期目標は完全な非中央集権化。設計哲学:**機関チェーン初期は中央集権が必須であることを認め、明確なロードマップでエコシステムの信頼を獲得する**。
 
-对比维度:
+比較次元:
 
-| 维度 | Tempo | Arc |
+| 次元 | Tempo | Arc |
 |---|---|---|
-| validator 数 | 4 精选 | 演化中(PoA → 20-50 → ?) |
-| 去中心化路径 | 不追求 | 三阶段渐进 |
-| 集中度 | 公开承认 | 路线图掩盖 |
-| BFT 容错 | 1/4(脆弱) | 阶段相关 |
-| 核心权衡 | 性能 + 可信度 | 合规启动 + 渐进开放 |
+| validator 数 | 4 厳選 | 進化中(PoA → 20-50 → ?) |
+| 非中央集権経路 | 追求しない | 三段階漸進 |
+| 集中度 | 公然と承認 | ロードマップで隠蔽 |
+| BFT 耐障害性 | 1/4(脆弱) | フェーズ依存 |
+| 中核トレードオフ | パフォーマンス + 信頼性 | コンプライアンス起動 + 漸進的開放 |
 
 ## Origin & evolution
 
-2024 Aave Arc / JPM Onyx 早期许可池 → "机构链初期必须许可"成为共识。2025.04 Tempo 公开 4 外部 validator 设计 → 极简模型显化。2025 Circle 公开 Arc 三阶段路线图 → 渐进式去中心化模板成型。2025-2026 [[fintech/jpmorgan-jpmd-coin|Kinexys / JPMD]] / Mony / 多家代币化存款项目引用 Arc 三阶段模板。两条路径共存的根本原因:Tempo 服务 retail 商户(对性能极敏感),Arc 服务机构客户(对合规叙事极敏感)。
+2024 Aave Arc / JPM Onyx の初期許可プール → 「機関チェーン初期は許可制が必須」が共識化。2025.04 Tempo が 4 外部 validator 設計を公表 → ミニマムモデルが顕在化。2025 Circle が Arc 三段階ロードマップを公表 → 漸進的非中央集権化テンプレートが成立。2025-2026 [[fintech/jpmorgan-jpmd-coin|Kinexys / JPMD]] / Mony / 多数のトークン化預金プロジェクトが Arc 三段階テンプレートを引用。2 経路が共存する根本的理由:Tempo はリテール加盟店(パフォーマンスに極めて敏感)に、Arc は機関顧客(コンプライアンス物語に極めて敏感)にサービスを提供する。
 
 ## Counterpoints
 
-- Tempo 4 validator 触及 BFT 容错边界 —— 任一国家压制 1 个 validator 即破坏 liveness
-- Arc 三阶段路线图历史上未有完整跑通的案例(EOS 21 BP 模型停滞)→ "渐进"可能永远不达
-- 两条路径都假设监管允许 KYC 链长期存在,但反垄断 / 反金融基础设施集中诉求可能强制扩展 validator
-- Tempo 4 validator 模型 vs Arc 50 validator 模型在抗审查上差异未必显著(50 个都 KYC = 都可被监管点名)
+- Tempo の 4 validator は BFT 耐障害性の限界に触れている —— いずれかの国家が 1 validator を抑圧すれば liveness が破壊される
+- Arc の三段階ロードマップは歴史的に完走した事例がない(EOS 21 BP モデルは停滞)→ 「漸進」は永遠に達成されない可能性
+- いずれの経路も規制が KYC チェーンの長期存続を許容することを前提とするが、独占禁止 / 金融インフラ集中防止の要求により validator 拡大が強制される可能性がある
+- Tempo 4 validator モデル vs Arc 50 validator モデルは検閲耐性において差が顕著ではない可能性(50 全員 KYC = 全員が規制で名指し可能)
 
 ## Open questions
 
-- Tempo 4 个 validator 真能 long-term 稳定服务全球商户吗?(地缘分散性)
-- Arc 阶段 3 治理 PoS 在 5 年内能落地吗?
-- 是否会出第三条路径(如 EigenLayer restaking + 机构链),让机构链借用 ETH validator 集合?(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])
-- DEX 在机构链上是否有空间运营?(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各家对许可链的态度)
+- Tempo の 4 validator は本当に長期にわたって全世界の加盟店に安定的にサービス提供できるか?(地理的分散性)
+- Arc フェーズ 3 のガバナンス PoS は 5 年以内に実現可能か?
+- 第 3 の経路(EigenLayer restaking + 機関チェーンなど)が登場し、機関チェーンが ETH validator 集合を借用するシナリオはあるか?([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)
+- DEX は機関チェーン上で運営する余地があるか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各社の許可チェーンへの態度と対照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/bft-validator-economy-overview|总览]]
-- [[systems/bft-validator-economy-four-variables|四变量详解]]
-- [[systems/chain-abstraction-pattern-overview|链抽象模式]]
+- [[systems/bft-validator-economy-overview|総覧]]
+- [[systems/bft-validator-economy-four-variables|4変数詳解]]
+- [[systems/chain-abstraction-pattern-overview|チェーン抽象モデル]]
 <!-- /wiki-links:managed -->
 
 ## Sources

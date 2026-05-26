@@ -1,10 +1,10 @@
 ---
-title: 资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力(Larry Fink / BlackRock)
+title: 資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力(Larry Fink / BlackRock)
 aliases: [larry-fink-blackrock-digital-asset, blackrock-three-vector-template, etf-rwa-political-triangle]
 domain: business
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, blackrock, etf, rwa, tokenization, template, larry-fink]
@@ -12,50 +12,50 @@ sources: []
 status: confirmed
 ---
 
-# 资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力
+# 資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力
 
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/christine-moy-talent-signal-jpm-apollo|关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/christine-moy-talent-signal-jpm-apollo|主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo 事例]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 三角 = 加密 ETF + 代币化 RWA + 政治影响力(Annual Letter / 监管协调) ^[inferred]
-- ETF 栏 = 让 trillion 级机构资金合法进入 BTC / ETH(IBIT $80B / IETH $15B,2026-Q1) ^[extracted]
-- RWA 栏 = 代币化货币市场基金作为"机构现金管理 + 稳定币储备资产"(BUIDL ~$60B,2026-Q1) ^[extracted]
-- 政治栏 = CEO Annual Letter + 与 SEC / Trump 政府关系 → 立法形成期发声(GENIUS Act) ^[extracted]
-- BUIDL → USDC 储备链路 = Circle 合规护城河之一 ^[extracted]
-- 三栏互锁:监管打 ETF 不影响 RWA;打 RWA 不影响 ETF;政治栏稳定预期 ^[inferred]
+- 三角形 = 暗号資産ETF + トークン化RWA + 政治的影響力(Annual Letter / 規制協調) ^[inferred]
+- ETFの柱 = 兆ドル級機関マネーがBTC / ETHに合法的に流入できる経路を提供(IBIT $80B / IETH $15B、2026-Q1) ^[extracted]
+- RWAの柱 = トークン化MMFを「機関のキャッシュマネジメント + ステーブルコイン準備資産」として位置付ける(BUIDL ~$60B、2026-Q1) ^[extracted]
+- 政治の柱 = CEO Annual Letter + SEC / Trump政権との関係 → 立法形成期での発信(GENIUS Act) ^[extracted]
+- BUIDL → USDC準備リンク = Circleのコンプライアンス上のお濠の一つ ^[extracted]
+- 三本の柱は相互ロック:規制がETFを攻めてもRWAは無傷、RWAを攻めてもETFは無傷、政治の柱が期待値を安定化 ^[inferred]
 
 ## Mechanism / How it works
 
-三角的核心是**"任一栏受冲击,另两栏维持业务连续性"**。**ETF 栏**已通过 SEC 批准 → 监管层面不可逆,机构资金通道稳定;**RWA 栏**用代币化货币市场基金([[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等)作为客户的链上现金 + 同时作为稳定币 issuer(USDC / Circle)的储备资产,形成上下游绑定;**政治栏**用 CEO Annual Letter 等公开发声参与立法形成期定调(对比 [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce 监管转向]] 与 [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon 被动转向]] 案例)+ 利用 AUM $11.5T 体量天然影响监管协调。
+三角形の本質は**「どれか一本の柱が打撃を受けても、残り二本が事業継続性を維持する」**点にある。**ETFの柱**はすでにSECの承認済 → 規制面で不可逆、機関マネーの導管が安定化。**RWAの柱**はトークン化MMF([[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等)を顧客のオンチェーン・キャッシュとして使うと同時に、ステーブルコイン発行体(USDC / Circle)の準備資産にも使い、上下流の関係を縛り上げる。**政治の柱**ではCEO Annual Letterなど公開発信を通じて立法形成期にトーンを定める(対比対象として [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirceによる規制転換]] と [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimonの受動的転換]] の事例を参照)。さらにAUM $11.5Tという規模が規制協調に天然の発言力を与えている。
 
-诊断模板:当传统资管进入加密时,**三栏齐头并进 = 合规模板成立**(BlackRock / Franklin Templeton / Fidelity 都在走这条路);只有 ETF 无 RWA = 短期渔利;只有 RWA 无 ETF = 缺机构信任 anchor;无政治影响力 = 监管被动接受方。Larry Fink 个人因 BlackRock 管 200+ 资产类别,加密只占 ~$100B → **言论可信度极高**(无单一项目存亡风险)。
+診断テンプレート:伝統的な資産運用会社が暗号資産分野に参入する際、**三本の柱を同時に積み上げる = コンプライアンス・テンプレート成立**(BlackRock / Franklin Templeton / Fidelityがいずれもこの路線をたどっている)。ETFのみでRWA無し = 短期収益狙い。RWAのみでETF無し = 機関の信頼アンカーを欠く。政治的影響力なし = 規制の受け身に回るだけ。Larry Fink本人については、BlackRockが200を超える資産クラスを運用し暗号資産は ~$100Bを占めるに過ぎないため、**発言の信頼性が極めて高い**(特定プロジェクトの存亡リスクを抱えていない)。
 
 ## Origin & evolution
 
-源头是 2022-08 BlackRock × Coinbase 战略合作(Aladdin 整合 + BTC custody)— 第一栏布局。2024-01-11 IBIT 等 11 家 BTC spot ETF 同日批准 — ETF 栏成立。2024-03-20 BUIDL 通过 Securitize 在 Ethereum 上线 — RWA 栏成立。2024-05 IETH 批准 — ETF 栏扩张。2025-Q1 Larry Fink Annual Letter "Tokenization is the next generation for markets" — 政治栏正式发声。2026-Q1 三栏齐到顶:IBIT $80B + BUIDL $60B + GENIUS Act 通过 — 模板验证完成。复制者:Franklin Templeton(BENJI)/ WisdomTree(WTI 系列)/ Ondo(USDY)。
+起点は2022-08のBlackRock × Coinbase戦略提携(Aladdin統合 + BTCカストディ)で、第一の柱を仕込んだ局面。2024-01-11にIBIT等11社のBTC現物ETFが同日に承認され、ETFの柱が成立。2024-03-20にBUIDLがSecuritize経由でEthereum上にローンチされ、RWAの柱が成立。2024-05にIETHが承認されETFの柱が拡張。2025-Q1のLarry Fink Annual Letter「Tokenization is the next generation for markets」で政治の柱が正式に発信開始。2026-Q1には三本の柱が同時にピークに達した:IBIT $80B + BUIDL $60B + GENIUS Act通過によりテンプレートの検証が完了。フォロワー:Franklin Templeton(BENJI)/ WisdomTree(WTI系列)/ Ondo(USDY)。
 
 ## Counterpoints
 
-- 三角模板要求 trillion 级 AUM 与多年监管关系积累 → 中小资管无法复制
-- 若 BlackRock 自申请稳定币 issuer,三角变四角 → 直接威胁 Circle / Tether,生态联盟可能反目
-- 政治栏依赖个人 reputation(Larry Fink)+ 政府关系 → 政权更替时栏位价值波动
+- 三角形テンプレートは兆ドル級AUMと長年にわたる規制関係の蓄積を前提とする → 中堅以下の運用会社には複製不能
+- 仮にBlackRockが自社でステーブルコイン発行体を申請すれば三角形は四角形となり、Circle / Tetherを直接脅かしてエコシステム連合が反目する可能性
+- 政治の柱は個人のreputation(Larry Fink)+ 政権との関係に依存 → 政権交代時に柱の価値が変動
 
 ## Open questions
 
-- BlackRock 是否申请自有稳定币?若申请 = 行业地震指标
-- 三角模板能否横向迁移到 alt-L1 stablecoin(Solana / Aptos / Sui)?目前 BUIDL 已多链但流量仍集中 Ethereum
-- 后 Larry Fink 时代(若 5 年内交班)三角模板是否能由继任者维持?
+- BlackRockは自社ステーブルコインを申請するか?申請すれば業界に地殻変動を起こす指標となる
+- 三角形テンプレートはalt-L1ステーブルコイン(Solana / Aptos / Sui)に横展開可能か?BUIDLはマルチチェーン化済だが流量は依然Ethereumに集中
+- ポスト・Larry Fink期(仮に5年以内に交代が起きた場合)、後継者が三角形テンプレートを維持できるか
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[business/matt-huang-triple-role-coi-template|Matt Huang 三身份 COI 模板]]
-- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether 商业模式]]
-- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon 反加密转向]]
+- [[business/matt-huang-triple-role-coi-template|Matt Huang 三身分COIテンプレート]]
+- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether ビジネスモデル]]
+- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon 反暗号資産から転換した事例]]
 <!-- /wiki-links:managed -->
 
 ## Sources

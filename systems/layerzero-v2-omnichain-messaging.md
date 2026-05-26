@@ -1,10 +1,10 @@
 ---
-title: LayerZero v2 · DVN 可配置的全链消息协议
+title: LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル
 aliases: [layerzero-v2-omnichain-messaging, layerzero, layerzero-dvn, stargate]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, cross-chain, layerzero, dvn, omnichain, stargate]
@@ -12,7 +12,7 @@ sources: []
 status: candidate
 ---
 
-# LayerZero v2 · DVN 可配置的全链消息协议
+# LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル
 
 
 ## Wiki route
@@ -21,41 +21,41 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Key facts
 
-- 100+ 链覆盖(EVM + Aptos + Solana + Tron + Cosmos 等),数量最广 ^[extracted]
-- DVN 模型:应用自选验证者集合 + N-of-M 阈值 · 安全栈可换 ^[extracted]
-- Stargate 月均 USDT/USDC 跨链流量 $10B+ ^[extracted]
-- 集成名单包括 Tapioca / Radiant / Cake DeFi 等 DeFi 长尾 ^[extracted]
-- 治理由 LayerZero Labs 私有 · 不去中心化(与 Chainlink 对照) ^[extracted]
-- 不参与机构联盟链场景 ^[inferred]
+- 100+ チェーンをカバー(EVM + Aptos + Solana + Tron + Cosmos 等)、最広範 ^[extracted]
+- DVN モデル:アプリが検証者セットを自選 + N-of-M しきい値 · セキュリティスタックを差し替え可能 ^[extracted]
+- Stargate の月平均 USDT/USDC クロスチェーン流量 $10B+ ^[extracted]
+- 統合先には Tapioca / Radiant / Cake DeFi 等の DeFi ロングテールを含む ^[extracted]
+- 治理は LayerZero Labs によるプライベート · 分散化されていない(Chainlink との対照) ^[extracted]
+- 機関コンソーシアムチェーンシナリオには参加しない ^[inferred]
 
 ## Mechanism / How it works
 
-每条链上部署一个 immutable **Endpoint contract** 处理 send / receive。源链消息发出后由应用预先指定的 **DVN 组合** 验证 —— 比如 "Polyhedra(zk) + Google Cloud(主流签名) + Animoca(权益签名)三选二" 形成 N-of-M 多签 quorum。**Executor** 在目标链 deliver 并支付目标链 gas。应用层可自由组合 DVN,因此 LayerZero 既能服务低风险场景(单 DVN 即可),又能服务高价值场景(zk + 多重签名 + 经济激励 quorum)。Stargate 在协议之上加 liquidity pool + token model · 形成 USDC/USDT 跨链 retail 主导地位(对照 [[fintech/usd-stablecoin-interchange|USD 稳定币跨链互换]] 的多桥流量分布)。
+各チェーン上に immutable な **Endpoint contract** をデプロイし、send / receive を処理する。source chain から発行されたメッセージは、アプリケーションが事前指定した **DVN の組み合わせ** によって検証される —— 例えば「Polyhedra(zk) + Google Cloud(主流署名) + Animoca(権益署名)から 3 つ中 2 つ」を選ぶことで N-of-M マルチシグの quorum を形成する。**Executor** が目標チェーンで deliver を行い、目標チェーンの gas を支払う。アプリ層は DVN を自由に組み合わせられるため、LayerZero は低リスクシナリオ(単一 DVN で十分)も、高価値シナリオ(zk + マルチ署名 + 経済インセンティブ quorum)も両方サポートできる。Stargate はプロトコルの上に liquidity pool + token model を加え、USDC/USDT クロスチェーンの retail 主導地位を形成している([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] におけるマルチブリッジトラフィック分布と対照)。
 
 ## Origin & evolution
 
-2021 LayerZero v1 上线 · 早期被批评 "默认 oracle + relayer 双签可串通"。2024 v2 推出 DVN 模型 · 把安全决策权交给应用 · 同时引入 Lightweight Verifier Chain。2025-2026 链覆盖突破 100 · 与 Polyhedra / Google Cloud 等 DVN provider 形成生态。Stargate 在 v2 时代仍是 USDT/USDC retail 跨链 dominant pool · 月均 $10B+。LayerZero Labs 仍是私有公司治理 → 与 Chainlink 去中心化网络形成路径分化:LayerZero 抢规模 + 灵活性 · Chainlink 抢机构信任 + 统一保险。
+2021 年に LayerZero v1 がローンチ · 初期は「デフォルトの oracle + relayer 二重署名が結託しうる」と批判された。2024 年に v2 が DVN モデルを発表 · セキュリティ判断をアプリに委ね · 同時に Lightweight Verifier Chain を導入。2025-2026 年にチェーンカバー数が 100 を突破 · Polyhedra / Google Cloud 等の DVN provider とエコシステムを形成。Stargate は v2 時代も依然として USDT/USDC retail クロスチェーンの dominant pool · 月平均 $10B+。LayerZero Labs は依然としてプライベート企業の治理 → Chainlink の分散化ネットワークとは路線分化:LayerZero は規模 + 柔軟性で勝負 · Chainlink は機関信頼 + 統一保険で勝負。
 
 ## Counterpoints
 
-- DVN 可配置 = 安全责任转嫁给应用 · 长尾应用容易选错配置导致漏洞
-- "100+ 链" 中长尾链流量极低 · 实际有效市场可能 < 20 条
-- LayerZero Labs 私有治理是机构客户(银行 / DTCC)拒绝的关键原因
-- Wormhole 在 Solana 生态仍有竞争 · 不是单极结构(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]])
-- CEX 跨链路径上仍偏向 Circle/Wormhole · LayerZero retail dominance 局限于 DEX(对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥 deposit/withdrawal]])
+- DVN 構成可能 = セキュリティ責任がアプリに転嫁される · ロングテールアプリは構成選択を誤って脆弱性を作りやすい
+- 「100+ チェーン」のうちロングテールチェーンの流量は極めて低く · 実効市場は 20 チェーン未満の可能性
+- LayerZero Labs のプライベート治理は機関顧客(銀行 / DTCC)が拒否する核心理由
+- Wormhole が Solana エコシステムでは依然として競合 · 単極構造ではない([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] を参照)
+- CEX クロスチェーン経路では依然として Circle/Wormhole 寄り · LayerZero の retail dominance は DEX に限定される([[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ deposit/withdrawal]] と対照)
 
 ## Open questions
 
-- DVN 可配置模型在 5 年内是否会被 Chainlink 统一保险模型 outperform(机构市场)?
-- Stargate 的 retail dominance 能否抵御 Circle CCTP V2(USDC 专用)的逐步蚕食?
-- LayerZero 是否会去中心化治理以拓展机构市场?
+- DVN 構成可能モデルは 5 年内に Chainlink 統一保険モデルに outperform されるか(機関市場)?
+- Stargate の retail dominance は Circle CCTP V2(USDC 専用)の徐々の浸食に耐えられるか?
+- LayerZero は機関市場拡大のため治理を分散化するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP · 机构对照]]
-- [[systems/cross-chain-four-poles-overview|跨链 4 极框架(CCTP/CCIP/LayerZero/Wormhole)]]
-- [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 机构对照]]
+- [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP · 機関対照]]
+- [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極フレーム(CCTP/CCIP/LayerZero/Wormhole)]]
+- [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 機関対照]]
 <!-- /wiki-links:managed -->
 
 ## Sources

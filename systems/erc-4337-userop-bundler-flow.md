@@ -1,10 +1,10 @@
 ---
-title: ERC-4337 UserOp/Bundler/EntryPoint 流程详解
+title: ERC-4337 UserOp/Bundler/EntryPoint フロー詳解
 aliases: [erc-4337-flow, userop-bundler-flow, entrypoint-execution]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, userop, bundler, paymaster]
@@ -12,70 +12,70 @@ sources: []
 status: candidate
 ---
 
-# ERC-4337 UserOp/Bundler/EntryPoint 流程详解
+# ERC-4337 UserOp/Bundler/EntryPoint フロー詳解
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概览 · Account Abstraction 的应用层实现]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概観 · Account Abstraction のアプリケーション層実装]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- UserOp 不是 transaction · 是被 Bundler 打包的 sub-unit ^[extracted]
-- Bundler 类似 block builder · 但工作在 UserOp mempool ^[extracted]
-- EntryPoint 是单例合约 · 所有 UserOp 必经入口 ^[extracted]
-- Paymaster 是可选合约 · 代付 gas 或接受 ERC-20 付 gas ^[extracted]
-- Aggregator 是可选 · 批量验证多签(BLS / 其他) ^[extracted]
+- UserOp はトランザクションではなく · Bundler によってパッケージされる sub-unit である ^[extracted]
+- Bundler は block builder に類似 · ただし UserOp mempool で動作する ^[extracted]
+- EntryPoint はシングルトン契約 · すべての UserOp が必ず通過する入口 ^[extracted]
+- Paymaster はオプションの契約 · gas を代行支払いするか ERC-20 での gas 支払いを受け付ける ^[extracted]
+- Aggregator はオプション · 複数署名をバッチ検証(BLS / その他) ^[extracted]
 
 ## Mechanism / How it works
 
-**端到端流程(典型 USDC 代付 gas 场景)**:
+**エンドツーエンドフロー(典型的な USDC gas 代行支払いシナリオ)**:
 
-1. **用户构造 UserOp**:用户(或 dApp)生成 UserOperation 对象:
-   - `sender`(SCW 地址)
+1. **ユーザーが UserOp を構築**:ユーザー(または dApp)が UserOperation オブジェクトを生成:
+   - `sender`(SCW アドレス)
    - `nonce`
-   - `callData`(具体调用 · 例如 USDC.transfer)
+   - `callData`(具体的な呼び出し · 例:USDC.transfer)
    - `callGasLimit` / `verificationGasLimit` / `preVerificationGas`
    - `maxFeePerGas` / `maxPriorityFeePerGas`
-   - `paymasterAndData`(若用 Paymaster 代付)
-   - `signature`(SCW owner 签名)
+   - `paymasterAndData`(Paymaster を使う場合)
+   - `signature`(SCW オーナーの署名)
 
-2. **UserOp 提交到 alt-mempool**:用户通过 Bundler RPC(`eth_sendUserOperation`)提交
+2. **UserOp を alt-mempool に送信**:ユーザーは Bundler RPC(`eth_sendUserOperation`)経由で送信
 
-3. **Bundler 模拟 + 打包**:Bundler 在本地 fork 状态执行 UserOp · 确认 gas 估算正确 · 然后将 N 个 UserOp 打包成单笔标准 transaction 调用 EntryPoint.handleOps()
+3. **Bundler がシミュレーション + パッケージング**:Bundler はローカルで状態を fork して UserOp を実行 · gas 見積もりが正しいことを確認 · その後 N 個の UserOp を標準トランザクション 1 件にパッケージして EntryPoint.handleOps() を呼び出す
 
-4. **EntryPoint 执行**:
-   - 调用 SCW factory 部署(若 SCW 尚未存在)
-   - 调用 SCW.validateUserOp() 验证签名 + nonce
-   - 调用 Paymaster.validatePaymasterUserOp() 验证 Paymaster 同意代付
-   - 执行 callData(主业务逻辑)
-   - 结算 gas:从 Paymaster 扣 / 给 Bundler
+4. **EntryPoint が実行**:
+   - SCW factory をコールして SCW をデプロイ(SCW がまだ存在しない場合)
+   - SCW.validateUserOp() をコールして署名 + nonce を検証
+   - Paymaster.validatePaymasterUserOp() をコールして Paymaster の代行支払い同意を検証
+   - callData(主たる業務ロジック)を実行
+   - gas を精算:Paymaster から徴収 / Bundler に支払い
 
-5. **链上结果**:用户看到 SCW 执行结果 · 不需要持有 ETH
+5. **オンチェーンの結果**:ユーザーは SCW の実行結果を確認できる · ETH を保有する必要はない
 
-**核心创新点**:UserOp 不是 transaction 让 Bundler 可以做"批处理优化"——把 10 个 UserOp 打包成 1 笔 transaction · 摊薄链上 base cost。
+**コアイノベーションのポイント**:UserOp がトランザクションでないことにより、Bundler は「バッチ処理最適化」を行える —— 10 件の UserOp を 1 件のトランザクションにパッケージし · オンチェーンの base cost を分散させる。
 
 ## Origin & evolution
 
-UserOp 结构在 4337 草案期间(2021-2022)经过多次迭代——早期版本有更多字段(如 `wallet`、`initCode` 分离)· 后来简化为当前形态。v0.6(2023-03 上线版本)→ v0.7(2026)主要简化:
-- 把 `initCode` 合并到 `sender` 创建逻辑
-- 把 Paymaster 字段从 calldata 拆出来明确化
-- 降低 gas 开销 20-30%
+UserOp 構造は 4337 ドラフト期間中(2021-2022)に複数回イテレーションされ —— 初期バージョンにはより多くのフィールド(`wallet`、`initCode` 分離など)があったが · 後に現在の形に簡素化された。v0.6(2023-03 公開バージョン)→ v0.7(2026)での主な簡素化:
+- `initCode` を `sender` 生成ロジックに統合
+- Paymaster フィールドを calldata から切り出して明示化
+- gas オーバーヘッドを 20-30% 削減
 
-Bundler 经济模型在 v0.7 后引入 priority fee 拍卖机制 · 缓解早期"Bundler 难以盈利"问题。
+Bundler の経済モデルは v0.7 以降で priority fee オークションメカニズムを導入し · 初期の「Bundler が収益化困難」という問題を緩和している。
 
 ## Counterpoints
 
-**复杂度集中在开发者**:end-user 体验简洁(无 seed phrase、用 USDC 付 gas)· 但开发者需要选 Bundler、配 Paymaster、管 EntryPoint 版本——这是为什么 [[agent-economy/privy-embedded-wallet-overview|Privy]] / Coinbase CDP / Alchemy 把"AA-as-a-Service"做成商业模式(参见 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet 网络效应护城河]])。
+**複雑度が開発者に集中**:end-user の体験はシンプル(seed phrase 不要、USDC で gas 支払い)だが · 開発者は Bundler の選定、Paymaster の構成、EntryPoint のバージョン管理が必要 —— これが [[agent-economy/privy-embedded-wallet-overview|Privy]] / Coinbase CDP / Alchemy が「AA-as-a-Service」をビジネスモデルとした理由である([[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] を参照)。
 
-**Bundler 审查风险**:Bundler 理论上可拒绝特定 UserOp(类似 builder MEV 审查)。当前 Bundler 数量少(主流 3-5 家)· 中心化风险显著。社区有讨论 stake-based Bundler · 但未广泛落地。
+**Bundler 検閲リスク**:Bundler は理論上、特定の UserOp を拒否できる(builder MEV 検閲に類似)。現在 Bundler の数は少なく(主要 3-5 社)・ 中央集権リスクは顕著である。コミュニティでは stake-based Bundler の議論があるが · 広く普及するには至っていない。
 
 ## Open questions
 
-- v0.7 后 Bundler 数量和地理分布?
-- Aggregator(BLS 批签名)的实际采用率?
-- EntryPoint 升级路径(单例合约升级的安全模型)?
-- 与 7702 EOA 升级共享 EntryPoint 的具体语义?(对照 [[agent-economy/erc-7715-overview|ERC-7715]] 在 AA stack 上构建的 agent permission 模型)
+- v0.7 以降の Bundler の数と地理的分布は?
+- Aggregator(BLS バッチ署名)の実際の採用率は?
+- EntryPoint のアップグレード経路(シングルトン契約のアップグレードに関するセキュリティモデル)は?
+- 7702 EOA アップグレードと EntryPoint を共有する場合の具体的なセマンティクスは?([[agent-economy/erc-7715-overview|ERC-7715]] が AA stack 上に構築する agent permission モデルとの対照)
 
 ## Related
 <!-- wiki-links:managed -->

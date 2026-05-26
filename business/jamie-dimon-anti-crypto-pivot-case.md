@@ -1,10 +1,10 @@
 ---
-title: 反加密 CEO 转向支持的被动适应案例 · Jamie Dimon / JPM Kinexys / JPMD on Base
+title: 反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM Kinexys / JPMD on Base
 aliases: [jamie-dimon-anti-crypto-pivot, ceo-defensive-pivot-case, reluctant-bank-pivot-template]
 domain: business
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, jamie-dimon, jpm, kinexys, jpmd, base, pivot, case-study]
@@ -12,51 +12,51 @@ sources: []
 status: confirmed
 ---
 
-# 反加密 CEO 转向支持的被动适应案例 · Jamie Dimon / JPM
+# 反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM
 
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/matt-huang-triple-role-coi-template|三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 长期反加密的 CEO 转向 = 监管 + 客户 + 竞争三压共振的 lagging indicator ^[inferred]
-- Dimon 2017-09 "BTC 是欺诈,会解雇任何买 BTC 的交易员" ^[extracted]
-- 2022 "加密就是宠物石头" + 国会作证反对加密 ^[extracted]
-- 2024-Q2 软化:承认稳定币 + 代币化"有真实用例" ^[extracted]
-- 2024-11 Onyx → Kinexys 改名 + 战略升级 ^[extracted]
-- 2025-Q4 JPMD on Base 上线 = 首个主要银行公链发行的代币化存款 ^[extracted]
+- 長年反暗号資産だったCEOの転換 = 規制 + 顧客 + 競合という三重圧力共振のlagging indicator ^[inferred]
+- Dimonは2017-09に「BTCは詐欺、BTCを買ったトレーダーは即解雇する」と発言 ^[extracted]
+- 2022年「暗号資産はペットロックと同じ」+ 議会公聴会で暗号資産に反対の立場 ^[extracted]
+- 2024-Q2に軟化:ステーブルコイン + トークン化に「実需ユースケースがある」と承認 ^[extracted]
+- 2024-11にOnyxをKinexysへ改称 + 戦略アップグレード ^[extracted]
+- 2025-Q4にJPMD on Baseがローンチ = 主要銀行が初めてパブリックチェーン上に発行したトークン化預金 ^[extracted]
 
 ## Mechanism / How it works
 
-被动转向三压共振机制:**1) 监管压力**([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist 强制]] 2025-07 通过 → 银行体系若不跟上,代币化存款市场被 USDC / USDT 抢占);**2) 客户压力**(机构客户主动要求链上结算 + 持有 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等代币化资产);**3) 竞争压力**([[business/larry-fink-blackrock-digital-asset-template|BlackRock Fink]] 2022 战略合作 Coinbase → 资管巨头先动,银行不动会被边缘化)。三压齐到 = CEO 个人立场必须转 → JPMD on Base 上线 = JPM 主动让步进加密原生生态。
+受動的転換の三重圧力共振メカニズム:**1) 規制圧力**([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist 強制]] が2025-07に成立 → 銀行が追随しなければトークン化預金市場はUSDC / USDTに取られる)。**2) 顧客圧力**(機関顧客が自発的にオンチェーン決済 + [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等トークン化資産の保有を要求)。**3) 競合圧力**([[business/larry-fink-blackrock-digital-asset-template|BlackRock Fink]] が2022年にCoinbaseと戦略提携 → 資産運用大手が先行し銀行が動かなければ周縁化される)。三重圧力が揃った時点でCEOの個人立場の転換は不可避となり、JPMD on Baseのローンチ = JPMが能動的に譲歩して暗号資産ネイティブ・エコシステムに進入したと解される。
 
-诊断模板:识别"下一个被动转向"= 找出长期反加密但已开始软化(承认稳定币 / 代币化的具体用例)的 Tier-1 银行 CEO → 监控其内部代币化产品时间表 → 6-12 个月内会有公链产品上线公告。Dimon 案例:2024-Q2 软化 → 2024-11 改名 → 2025-Q4 公链产品 → 18 个月完整转向。决策稳定性弱于 Fink(主动信仰者),因 Dimon 是被动适应 → 后 Dimon 时代加密路径可能再次漂移。
+診断テンプレート:「次の受動的転換」を識別するには、長期反暗号資産だが既に軟化(ステーブルコイン / トークン化の具体的ユースケースを承認)しているTier-1銀行のCEOを特定し、内部のトークン化プロダクトのタイムラインを監視 → 6-12ヶ月以内にパブリックチェーン製品のローンチ告知が出る。Dimonの事例:2024-Q2軟化 → 2024-11改称 → 2025-Q4パブリックチェーン製品 → 18ヶ月で完全転換。意思決定の安定性はFink(能動的信奉者)より弱く、Dimonは受動的適応である以上、ポストDimon期にJPMの暗号資産路線が再びドリフトする可能性がある。
 
 ## Origin & evolution
 
-源头 2017 BTC 第一次牛市,Dimon 公开反对 → 但 JPM Coin 内部已立项(企业内部清算)。2019-02 JPM Coin 发布 — 与 Dimon 公开立场矛盾。2020-10 Onyx 部门成立,2024-11 改名 Kinexys + 战略升级。同期 BlackRock × Coinbase(2022-08)/ BUIDL 上线(2024-03)/ IBIT 批准(2024-01)→ Fink 已抢先。2024-Q4 Dimon 正式转向支持。2025-Q4 JPMD on Base 上线 — 转向落地。2026-Q1 JPMD 流通 ~$1B / 机构客户 100+。后续:监控 Dimon 退休信号(2025+ 多次暗示 5 年内退休)→ 后 Dimon 时代 JPM 加密路径或变。
+起点は2017年のBTC初の大相場でDimonが公的に反対 → ただしJPM Coinは社内でプロジェクト化済(企業内クリアリング目的)。2019-02にJPM Coinをリリース — Dimonの公的立場と矛盾。2020-10にOnyx部門設立、2024-11にKinexysへ改称 + 戦略アップグレード。同時期にBlackRock × Coinbase(2022-08)/ BUIDLローンチ(2024-03)/ IBIT承認(2024-01)→ Finkが先行。2024-Q4にDimonが正式に支持側へ転換。2025-Q4にJPMD on Baseローンチ — 転換が着地。2026-Q1にJPMD流通 ~$1B / 機関顧客 100+。後段:Dimonの引退シグナル(2025年以降、5年以内の引退を複数回示唆)を監視 → ポストDimon期にJPMの暗号資産路線が変わる可能性。
 
 ## Counterpoints
 
-- 转向是被动适应 ≠ 主动战略 → 路线稳定性弱(可能因客户需求变化而再次缩减)
-- JPMD 在公链上线 ≠ JPM 完全拥抱加密原生生态(仍保留银行护城河逻辑)
-- Dimon 个人立场可能仍偏保守 → JPM 加密投入受其个人态度上限制约
+- 転換は受動的適応であり能動的戦略ではない → 路線の安定性が弱い(顧客需要の変化で再縮小もありうる)
+- JPMDのパブリックチェーン上でのローンチ ≠ JPMが暗号資産ネイティブ・エコシステムを全面的に受容した(依然として銀行のお濠ロジックは残る)
+- Dimon個人の立場は依然保守寄りの可能性 → JPMの暗号資産投入は彼の個人姿勢が上限を画する
 
 ## Open questions
 
-- 监控 JPMD on Base 增速:> $10B = 银行公链代币化主流化
-- JPM 是否申请 OCC GENIUS 牌照成为合规稳定币 issuer = 行业地震指标
-- 后 Dimon 时代(若 5 年内交班)JPM 加密路径是否更激进或更保守?
+- JPMD on Baseの伸びを監視:> $10B = 銀行のパブリックチェーン・トークン化が主流化
+- JPMはOCC GENIUSライセンスを申請してコンプライアンス・ステーブルコイン発行体となるか = 業界の地殻変動指標
+- ポストDimon期(仮に5年以内の交代)にJPMの暗号資産路線はより急進化するか、それとも保守化するか
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock 数字资产]]
-- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC 监管转向]]
-- [[business/christine-moy-talent-signal-jpm-apollo|JPM → Apollo 人才流向]]
-- [[business/kitao-yoshitaka-sbi-independent-strategy-case|北尾吉孝 SBI 独立路线]]
+- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock デジタル資産]]
+- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC 規制転換]]
+- [[business/christine-moy-talent-signal-jpm-apollo|JPM → Apollo 人材流動]]
+- [[business/kitao-yoshitaka-sbi-independent-strategy-case|北尾吉孝 SBI 独立路線]]
 <!-- /wiki-links:managed -->
 
 ## Sources

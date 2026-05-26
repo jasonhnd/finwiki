@@ -3,15 +3,15 @@ type: wiki
 kind: technique
 slug: forensic-identity-anchor-chain
 domain: security
-title: "团队真实身份 forensic anchor chain — 多源指纹拼合"
+title: "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成"
 aliases: []
 status: candidate
 confidence: possible
 evidence_count: 2
 challenges: 0
 created: 2026-05-12
-last_updated: 2026-05-18
-last_tended: 2026-05-12
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-08
 related:
   - "[[bytecode-forensic-three-tier-verify]]"
@@ -24,53 +24,53 @@ sources:
   - "https://web.archive.org/"
 ---
 
-# 团队真实身份 forensic anchor chain — 多源指纹拼合
+# チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成
 
 ## Wiki route
 
 This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/bytecode-forensic-three-tier-verify|bytecode forensic]] for peer context and [[systems/INDEX|systems index]] for the broader infrastructure boundary.
 
 > [!info] TL;DR
-> 当门面团队 (LinkedIn 公司页 / 官网 about / PR 宣传) 与真实写代码的人不一致,用 6 个独立指纹源拼合 -> 单点身份链 -> 锁定"门面 vs 真团队"分离结构. 与 [[exchanges/global-crypto-forensics-vendor-layer|商用链上 forensics vendor]] 的 cluster 标签结合可形成完整 attribution.
+> 表向きの体制(LinkedIn企業ページ / 公式サイトabout / PRリリース)と実際にコードを書いている人物が一致しない場合、6つの独立した指紋源を合成 → 単一論点の身元チェーンを構築 → 「表向きvs実チーム」の分離構造をロックする。[[exchanges/global-crypto-forensics-vendor-layer|商用オンチェーンforensics vendor]] のclusterラベルと組み合わせれば、完全なattributionを形成可能。
 
-## 6 个独立指纹源
+## 6つの独立指紋源
 
-1. **TLS 证书 SAN** — 域名 cert 里的 Subject Alternative Names · 同一 ops 一般共用一证或一签发机构
-2. **GitHub 账号注册时间集中度** — 多账号在 < 1h 内连续注册 = sock-puppet 信号
-3. **Email 域偏好** — ProtonMail / iCloud / 自定义域 vs Gmail · 团队整体偏好往往一致
-4. **LinkedIn 公司页人名语种** — 西非 / 东南亚 / 印度 / 中文 / 日文 名字混搭
-5. **GitHub commit author name 语种** — 真实 commit 的 name field (vs LinkedIn 门面名)
-6. **CLI / config path 暴露** — home-directory config paths, SSH known-host leftovers, document metadata, and PDF author fields
+1. **TLS証明書のSAN** — ドメイン証明書内のSubject Alternative Names · 同一ops拠点なら同じ証明書または発行機関を共用する傾向
+2. **GitHubアカウント登録時刻の集中度** — 複数アカウントが1時間以内に連続登録 = sock-puppetシグナル
+3. **Email ドメイン選好** — ProtonMail / iCloud / 自前ドメイン vs Gmail · チーム全体としての選好は揃いやすい
+4. **LinkedIn企業ページの氏名言語** — 西アフリカ / 東南アジア / インド / 中国系 / 日本系の氏名が混在
+5. **GitHub commit author nameの言語** — 実際のcommitのnameフィールド(LinkedIn上の表向きの氏名と対比)
+6. **CLI / configパスからの露出** — ホームディレクトリのconfigパス、SSH known-hostsの残骸、ドキュメントmetadata、PDFのauthorフィールド
 
-## 拼合 logic
+## 合成 logic
 
-- **门面 vs 真团队判定**: source 4 (LinkedIn 名字) 不等于 source 5 (commit author name) + source 3 (email 偏好) -> 二元分离
-- **Sock-puppet 判定**: source 2 (注册时间集中度) + source 5 (邮箱重叠跨"独立"账号) -> 同一人多马甲 — 大型交易所事件如 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] 的归因正是依赖此类多账号 cluster 重叠分析
-- **个体身份锚定**: source 1 (TLS) 交集 source 6 (CLI path) -> 单点 dev 身份 — 此层结果可对接 [[fintech/chain-level-ofac-freeze-precedent|链上 OFAC freeze precedent]] 的制裁名单匹配流程
+- **表向き vs 実チーム判定**:source 4(LinkedIn氏名)≠ source 5(commit author name)+ source 3(emailドメイン選好)→ 二元分離
+- **Sock-puppet判定**:source 2(登録時刻の集中度)+ source 5(「独立」アカウント間でemailが重複)→ 同一人物の複数アカウント — [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] のような大型取引所事件の帰属推定はまさにこの種の複数アカウントcluster重複分析に依存
+- **個体身元アンカー**:source 1(TLS)∩ source 6(CLIパス)→ 単一論点のdev身元 — この層の結果は [[fintech/chain-level-ofac-freeze-precedent|オンチェーン OFAC freeze precedent]] の制裁名簿マッチング処理と直結できる
 
 ## Anti-pattern
 
-不要单点定身份 (e.g. 仅 LinkedIn 一条就下结论) · 必须 ≥3 个独立 source 交叉印证.
+単一論点で身元を断定しない(例:LinkedIn1件のみで結論)· 必ず3つ以上の独立source で交差照合すること。
 
 ## When to Use
 
-- 项目 claim "国际化团队" 但代码风格 / 注释语言不一致
-- 多个"独立公司 / 外包" 的 commit 出现同邮箱
-- LinkedIn 人名与 Whitepaper author / commit author 完全不同语种
+- プロジェクトが「グローバル・チーム」と謳いながら、コードスタイル / コメント言語が一貫しないケース
+- 複数の「独立企業 / アウトソース」のcommitに同一emailが出現するケース
+- LinkedIn氏名とWhitepaper author / commit authorの氏名が完全に異なる言語のケース
 
 ## When NOT to Use
 
-- 项目方公开透明 (有 GPG 签名 / 公开身份)
-- 个人开源项目 (无需 vs 门面 对照)
-- 仅做 code quality DD 不做团队真实性
+- プロジェクト側が公開かつ透明(GPG署名 / 公的身元あり)
+- 個人のオープンソース・プロジェクト(表向きとの対照が不要)
+- code quality DDのみを行いチームの真正性を検証しないケース
 
 ## Counterpoints
 
 > [!question] Open questions
-> - 如何区分"国际化外包" (合法) vs "sock-puppet 门面"?
-> - email 域偏好 source 是否对"老 dev (Gmail) + 新 dev (Proton)" 混合团队有误判风险?
+> - 「グローバル・アウトソース」(合法)と「sock-puppetの表向き」をどう区別するか
+> - emailドメイン選好sourceは、「ベテランdev(Gmail)+ 新人dev(Proton)」混合チームに対する誤判定リスクをどう扱うか
 
 ## Provenance
 
-- case study (vaporware audit): 多个 GitHub 账号短时间内集中注册 + LinkedIn 公司页人名语种 vs commit author name 语种不一致 + Whitepaper PDF metadata author + CLI path 残留 + 自定义域 email · 多个 anchor 交叉印证锁定门面/真团队分离
-- 同类技术应用于事后归因: 参见 [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack 归因分析]] 与 [[exchanges/jp-vasp-incident-history|JP VASP incident history]] 中的攻击者追踪线索
+- ケーススタディ(vaporware audit):複数のGitHubアカウントが短時間に集中登録 + LinkedIn企業ページの氏名言語 vs commit author nameの言語が不一致 + Whitepaper PDFのmetadata author + CLIパス残骸 + 自前ドメインemail · 複数アンカーの交差照合により表向き / 実チームの分離をロックした
+- 同種技術は事後の帰属推定にも応用される:[[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack 帰属分析]] や [[exchanges/jp-vasp-incident-history|JP VASP incident history]] における攻撃者追跡の手がかりを参照

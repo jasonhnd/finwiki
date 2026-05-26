@@ -1,10 +1,10 @@
 ---
-title: BIS Project Agorá 概览 · 7 G10 央行 + 40 商行联合代币化实验
-aliases: [bis-project-agora-overview, Project Agora, Agorá 概览]
+title: BIS Project Agorá 概要 · 7 G10 中央銀行 + 40 商業銀行による共同トークン化実験
+aliases: [bis-project-agora-overview, Project Agora, Agorá 概要]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, bis, cbdc, tokenization, cross-border, wholesale, g10]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# BIS Project Agorá 概览
+# BIS Project Agorá 概要
 
 
 ## Wiki route
@@ -25,49 +25,49 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> Agorá(古希腊语"广场")是 BIS Innovation Hub 2024.04 启动的旗舰项目 —— 7 家 G10 央行(美 FRBNY / 英 BoE / 法 BdF / 日 BoJ / 韩 BoK / 墨 Banxico / 瑞 SNB)+ 40+ 商业银行在统一可编程平台上同时实验 wholesale CBDC + 代币化商业银行存款,定位为多边主义代币化基础设施的事实标准候选。
+> Agorá（古代ギリシャ語で「広場」の意）は BIS Innovation Hub が 2024.04 に立ち上げた旗艦プロジェクト — 7 つの G10 中央銀行（米 FRBNY / 英 BoE / 仏 BdF / 日 BoJ / 韓 BoK / メキシコ Banxico / スイス SNB） + 40+ の商業銀行が、統一されたプログラマブル・プラットフォーム上で wholesale CBDC + トークン化された商業銀行預金を同時に実験するもので、多国間トークン化インフラの de facto 標準候補と位置付けられる。
 
 ## Key facts
 
-- 7 G10 央行:FRBNY / BoE / BdF / BoJ / BoK / Banxico / SNB ^[extracted]
-- 40+ 商业银行参与方:JPM / Citi / HSBC / [[JapanFG/mufg|MUFG]] / SWIFT / Mastercard / Visa 等 ^[extracted]
-- 2024.04 启动,2024.09 公布私营机构名单 ^[extracted]
-- 2025 Phase 1 = 概念验证(跨境 wholesale 结算) ^[extracted]
-- 2025-2026 Phase 2 = 实盘原型(尚未上线) ^[extracted]
-- BIS Innovation Hub 由 Cecilia Skingsley 领导,Agorá 由 Hyun Song Shin 团队设计 ^[extracted]
-- 测试重点:PvP(payment-vs-payment)、DvP(delivery-vs-payment)、跨币种原子结算 ^[extracted]
+- 7 G10 中央銀行: FRBNY / BoE / BdF / BoJ / BoK / Banxico / SNB ^[extracted]
+- 40+ の商業銀行参加者: JPM / Citi / HSBC / [[JapanFG/mufg|MUFG]] / SWIFT / Mastercard / Visa など ^[extracted]
+- 2024.04 立ち上げ、2024.09 に民間機関リストを公表 ^[extracted]
+- 2025 Phase 1 = 概念実証（クロスボーダー wholesale 決済） ^[extracted]
+- 2025-2026 Phase 2 = ライブ・プロトタイプ（まだ稼働開始していない） ^[extracted]
+- BIS Innovation Hub は Cecilia Skingsley が統括、Agorá は Hyun Song Shin チームが設計 ^[extracted]
+- テスト焦点: PvP（payment-vs-payment）、DvP（delivery-vs-payment）、クロスカレンシー・アトミック決済 ^[extracted]
 
 ## Mechanism / How it works
 
-Agorá 架构非单一区块链,BIS 提供"协调层规范"。**双层结构同时实验**:央行发 wholesale CBDC(M0 央行钱),商业银行发代币化存款(M1 商行钱),两者在同一可编程平台上互操作。核心测试场景:跨境 wholesale 结算的 PvP(两个支付腿原子互换) / DvP(支付腿 vs 资产腿原子互换) / 跨币种结算(USD ↔ EUR 直接换,无需通过 SWIFT correspondent banking 中介)。
+Agorá のアーキテクチャは単一のブロックチェーンではなく、BIS が「協調レイヤー仕様」を提供する。**二層構造を並行実験**: 中央銀行は wholesale CBDC（M0 中央銀行マネー）を発行、商業銀行はトークン化預金（M1 商業銀行マネー）を発行、両者が同一プログラマブル・プラットフォーム上で相互運用される。中核テストシナリオ: クロスボーダー wholesale 決済における PvP（2 つの決済レッグのアトミック交換）/ DvP（決済レッグ vs 資産レッグのアトミック交換）/ クロスカレンシー決済（USD ↔ EUR の直接交換、SWIFT correspondent banking 仲介を経由しない）。
 
-**非真"全球 CBDC"**:7 央行各自发 wholesale CBDC,Agorá 提供的是"互操作层规范",不强制单一技术栈或单一货币。商业银行在 Agorá 平台上发代币化存款,实质是把现行 correspondent banking 重写成可编程版。
+**真の「グローバル CBDC」ではない**: 7 中央銀行はそれぞれ wholesale CBDC を発行し、Agorá が提供するのは「相互運用レイヤー仕様」であり、単一の技術スタックや単一通貨を強制するものではない。商業銀行が Agorá プラットフォーム上でトークン化預金を発行することは、実質的には現行の correspondent banking をプログラマブル版に書き直すことを意味する。
 
 ## Origin & evolution
 
-2021 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]](BIS + 中 / 港 / 泰 / UAE)启动 → 2024.10 BIS 退出 mBridge(技术移交 PBoC + HKMA)。BIS 退出 mBridge 几乎同步启动 Agorá(2024.04),业界普遍解读为"BIS 在政治上必须有西方主导版本"。2024.09 公布 40+ 商业银行名单,深度参与度远超 mBridge。2025 进入 Phase 1 概念验证。三圆 MRA(欧 [[fintech/mica-overview|MiCA]] + 美 [[fintech/genius-act-501-denylist-mandate|GENIUS]] + 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]] · 预期 2026-2027 落地)如果成立,Agorá wholesale CBDC 可成为跨境稳定币赎回的最终结算锚 —— 稳定币 → 商业银行代币化存款 → wholesale CBDC 三层穿透。
+2021 年に [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]]（BIS + 中 / 香港 / タイ / UAE）が立ち上がる → 2024.10 BIS が mBridge から撤退（技術は PBoC + HKMA に移管）。BIS の mBridge 撤退とほぼ同時に Agorá を立ち上げ（2024.04）、業界では「BIS は政治的に西側主導版を持たざるを得なかった」と広く解釈された。2024.09 に 40+ の商業銀行リストを公表、参加の深さは mBridge をはるかに上回る。2025 年に Phase 1 概念実証に入る。三円 MRA（欧 [[fintech/mica-overview|MiCA]] + 米 [[fintech/genius-act-501-denylist-mandate|GENIUS]] + 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]] · 2026-2027 ローンチ予定）が成立すれば、Agorá wholesale CBDC はクロスボーダー stablecoin 償還の最終的な決済アンカーとなり得る — stablecoin → 商業銀行トークン化預金 → wholesale CBDC の三層パススルー。
 
 ## Counterpoints
 
-- Phase 2 实盘原型 2026.05 仍未上线 —— "旗舰"叙事可能 over-promise
-- 7 G10 央行协调成本极高,实际推进速度可能远慢于 mBridge 单一管辖区
-- FRBNY 参与是政治信号但实际美元监管(OCC / Fed Board)尚未深度承诺
-- "Agorá vs mBridge"二元对立可能过于简化 —— 两个项目实际可能融合或互联
+- Phase 2 ライブ・プロトタイプは 2026.05 時点でまだ稼働していない — 「旗艦」ストーリーが over-promise になる可能性
+- 7 G10 中央銀行の協調コストは極めて高く、実際の進捗は単一管轄である mBridge よりはるかに遅い可能性
+- FRBNY の参加は政治的シグナルだが、実際の米ドル規制（OCC / Fed Board）は依然として深いコミットを表明していない
+- 「Agorá vs mBridge」の二項対立は過度に単純化されている可能性 — 両プロジェクトは実際には融合または相互接続する可能性も
 
 ## Open questions
 
-- Phase 2 何时上线?延期是技术问题还是政治问题?
-- Agorá 平台技术栈最终会用现有 DLT(Corda / Quorum / Besu)还是 BIS 自研?
-- 中国 PBoC / 印度 RBI 在 Agorá 项下是否有任何观察者地位?
+- Phase 2 はいつ稼働するか? 延期は技術的問題か政治的問題か?
+- Agorá プラットフォームの技術スタックは最終的に既存 DLT（Corda / Quorum / Besu）になるのか、BIS 独自開発になるのか?
+- 中国 PBoC / インド RBI は Agorá に何らかのオブザーバー地位を持つか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 战略对照]]
+- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge 戦略比較]]
 - [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
 - [[fintech/bis-project-guardian-overview|MAS Project Guardian]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构]]
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能アンバンドリング 5 層]]
 <!-- /wiki-links:managed -->
 
 ## Sources

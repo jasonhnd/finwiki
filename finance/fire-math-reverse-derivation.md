@@ -1,12 +1,12 @@
 ---
-title: FIRE 数学反推框架
+title: FIRE 数学逆算フレームワーク
 aliases: []
 domain: finance
 kind: knowledge
 topic: fire-math-reverse-derivation
 created: 2026-04-20
-last_updated: 2026-05-03
-last_tended: 2026-05-05
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-10-30
 confidence: certain
 tags: [fire, personal-finance, retirement, safe-withdrawal-rate]
@@ -19,90 +19,90 @@ sources:
   - "Public FIRE community materials on withdrawal-rate arithmetic."
 ---
 
-# FIRE 数学反推框架
+# FIRE 数学逆算フレームワーク
 
 
 ## Wiki route
 
 This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/japan-ib-league-table|Japan IB league table]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
-## 核心命题
+## 中核命題
 
-**目标本金 = 退休后年支出 ÷ 安全提取率（SWR）**
+**目標元本 = 退職後の年間支出 ÷ 安全引き出し率(SWR)**
 
-这一反推关系是 FIRE（Financial Independence, Retire Early）社区的基石公式，源自 1998 年 Trinity Study。
+この逆算関係はFIRE(Financial Independence, Retire Early)コミュニティの基礎公式であり、1998年のTrinity Studyに由来する。
 
-### 标准参数
+### 標準パラメータ
 
-| 参数 | 标准值 | 说明 |
+| パラメータ | 標準値 | 説明 |
 |------|--------|------|
-| SWR（Safe Withdrawal Rate）| 4% | Trinity Study 原始结论（30 年退休期、股债 60/40、通胀调整）|
-| 所需本金倍数 | 25× 年支出 | 4% 的倒数（`1 / 0.04 = 25`）|
-| 激进版 SWR | 3-3.3% | 早退休（40+ 年）或更保守的假设（对应 30× - 33× 倍数）|
-| 保守版 SWR | 5% | 半退休（持续产生现金流）或市场乐观时（对应 20× 倍数）|
+| SWR(Safe Withdrawal Rate) | 4% | Trinity Studyの原始結論(30年退職期間、株債60/40、インフレ調整) |
+| 必要元本倍数 | 25× 年間支出 | 4%の逆数(`1 / 0.04 = 25`) |
+| アグレッシブ版SWR | 3-3.3% | 早期退職(40年以上)またはより保守的な仮定(30× - 33× 倍数に対応) |
+| 保守版SWR | 5% | セミリタイア(継続的にキャッシュフローを生む)または市場楽観時(20× 倍数に対応) |
 
-## 四步反推流程
+## 4ステップの逆算フロー
 
-1. **决定终局月支出**（未来通胀后的消费水平）
-2. **× 12 → 年支出**
-3. **÷ SWR → 目标本金**
-4. **从当前净资产 + 月投规模 + 时间窗 + 期望年化 → 反推是否可达**
+1. **終局の月次支出を決定**(将来インフレ後の消費水準)
+2. **× 12 → 年間支出**
+3. **÷ SWR → 目標元本**
+4. **現在の純資産 + 月次投入額 + 時間窓 + 期待年率から、到達可否を逆算**
 
-### 数学校验公式
+### 数学検証式
 
-`本金增长 ≈ 现有本金 × (1 + r)^n + 月投 × 12 × [((1+r)^n - 1) / r]`
+`元本成長 ≈ 現在元本 × (1 + r)^n + 月次投入 × 12 × [((1+r)^n - 1) / r]`
 
-其中 r = 年化收益率，n = 年数。
+ここで r = 年率収益率、n = 年数。
 
-## 缺口分析
+## ギャップ分析
 
-反推结果通常揭示**三种缺口**：
+逆算結果は通常**3種類のギャップ**を明らかにする:
 
-| 缺口类型 | 症状 | 应对 |
+| ギャップ種別 | 症状 | 対応 |
 |---------|------|------|
-| 时间不够 | 退休年龄不改 · 路径本金不足 | 延后 FIRE 年 · 加大月投 · 引入其他现金流 |
-| 月投不够 | 收入-支出空间小 | 开源（副业 / 加薪）· 节流 · 降低终局消费 |
-| 假设过乐观 | 10%+ 年化 · 25+ 年窗口 | 降到 7-8% · 扩大安全垫 · 留出"黑天鹅缓冲" |
+| 時間不足 | 退職年齢を変更せず · 経路上の元本が不足 | FIREを後ろ倒し · 月次投入を増やす · 他のキャッシュフローを導入 |
+| 月次投入不足 | 収入 - 支出のスペースが小さい | 開源(副業 / 昇給)· 節流 · 終局消費を引き下げ |
+| 仮定が楽観過ぎる | 年率10%+ · 25年以上の窓 | 7-8%へ引き下げ · 安全マージンを拡大 · 「ブラックスワン緩衝」を確保 |
 
-## 与"单纯存钱"模式的关键区别
+## 「単純な貯金」モデルとの本質的違い
 
-- 存钱模式：起点（当前收支）出发，不知终点
-- FIRE 反推：终点（目标本金）出发，反推当下该做什么
+- 貯金モデル:起点(現在の収支)から出発し、終点が不明
+- FIRE逆算:終点(目標元本)から出発し、現在何をすべきか逆算
 
-→ **心理锚点不同 → 决策优先级不同**
+→ **心理的なアンカーが異なる → 意思決定の優先順位が異なる**
 
-反推视角会让"当下加大月投 10 万"的痛感被"少 10 万导致 11 年后缺 ¥X 亿"的具体数字稀释。
+逆算視点では「今、月次投入を10万円増やす」痛みが、「10万円少ないと11年後に¥X億の不足」という具体的な数字に薄められる。
 
-## 安全垫意识
+## 安全マージン意識
 
-严肃的 FIRE 反推不止算到"刚好到达 ¥X 亿"，而是**预留安全垫**：
+シリアスなFIRE逆算は「ちょうど¥X億に到達」までの計算で止めず、**安全マージンを残す**:
 
-- 轻量：目标 × 1.05（5% 缓冲）
-- 标准：目标 × 1.2（20% 缓冲）
-- 保守：目标 × 1.5（50% 缓冲）
+- 軽量:目標 × 1.05(5%バッファ)
+- 標準:目標 × 1.2(20%バッファ)
+- 保守:目標 × 1.5(50%バッファ)
 
-安全垫对冲三重不确定：**年化假设不达 / 通胀超预期 / 非预期支出（医疗 / 家庭）**。
+安全マージンは3重の不確実性をヘッジする:**年率仮定の未達 / インフレが想定超 / 想定外の支出(医療 / 家族)**。
 
-## 适用边界
+## 適用境界
 
-- 适合有稳定长期投资习惯 + 可预期未来收入的个人
-- 不适合短期现金流紧张 / 收入波动极大（freelance / 创业期）的状态
-- 对于"退休后仍有业务收入"的半退休（semi-FIRE）模式，月支出中的"必须由本金覆盖"部分才适用 4% rule；其余可用业务现金流覆盖
+- 安定した長期投資習慣 + 予測可能な将来収入を持つ個人に適する
+- 短期キャッシュフローが逼迫 / 収入変動が極めて大きい状態(freelance / 起業期)には不適
+- 「退職後も事業収入がある」セミFIRE(semi-FIRE)モデルでは、月次支出のうち「必ず元本でカバーすべき」部分のみに4% ruleを適用 · 残余は事業キャッシュフローでカバー可能
 
-## 与其他金融规划框架的关系
+## 他の金融計画フレームワークとの関係
 
-- **目标本金**：FIRE 的答案问题 "How much"（与 [[finance/multi-jurisdiction-identity-tax-leverage|跨境身份组合的税务杠杆]] 联动可降低有效目标本金）
-- **时间价值**：资金时间价值是反推的工具
-- **SWR**：Trinity Study 的实证基础（在 [[finance/INDEX|finance index]] 主轴和 [[securities/INDEX|securities index]] 的资产配置框架中复用）
+- **目標元本**:FIREが答える "How much" の問い([[finance/multi-jurisdiction-identity-tax-leverage|クロスボーダー身分組合せの税務レバレッジ]] と連動させると、実効目標元本を引き下げることが可能)
+- **時間価値**:資金の時間価値は逆算のツール
+- **SWR**:Trinity Studyの実証基盤([[finance/INDEX|finance index]] の主軸と [[securities/INDEX|securities index]] の資産配分フレームワークで再利用)
 
 ## 参考
 
-- Trinity Study（Cooley, Hubbard, Walz 1998）
+- Trinity Study(Cooley, Hubbard, Walz 1998)
 - [Wiki: Trinity study]
-- FIRE 社区方法论（Mr. Money Mustache 等）
+- FIREコミュニティの方法論(Mr. Money Mustache 等)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[finance/multi-jurisdiction-identity-tax-leverage|跨境身份组合的税务杠杆]]
+- [[finance/multi-jurisdiction-identity-tax-leverage|クロスボーダー身分組合せの税務レバレッジ]]
 <!-- /wiki-links:managed -->

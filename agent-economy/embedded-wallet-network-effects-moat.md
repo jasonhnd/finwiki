@@ -1,10 +1,10 @@
 ---
-title: 嵌入式钱包网络效应 · 集成商而非钱包本身的护城河
+title: 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀
 aliases: [embedded wallet network effects moat, embedded wallet integrator moat, Privy AgentCore default]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, embedded-wallet, privy, agentcore, network-effects, mpc, moat]
@@ -12,76 +12,76 @@ sources: []
 status: candidate
 ---
 
-# 嵌入式钱包网络效应 · 集成商而非钱包本身的护城河
+# 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe 子公司的嵌入式自托管钱包(总览)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Privy 集成商 1000+ dApps:Hyperliquid · Friend.tech · Pump.fun · Story · ZkSync 等 ^[extracted]
-- Coinbase CDP 用户基础 = Coinbase 90M+ 注册账户 + Base 生态 ^[extracted]
-- Privy 2024.10 完成 $40M B 轮(Ribbit / Sequoia / Paradigm) ^[extracted]
-- AWS AgentCore Payments 2025.07 GA · Privy 是 default · 用户可换 Magic / Web3Auth ^[extracted]
-- 嵌入式 wallet GENIUS §501 友好(不持有客户余额 → 非 VASP) ^[inferred]
+- Privy インテグレーター 1000+ dApps:Hyperliquid · Friend.tech · Pump.fun · Story · ZkSync 等 ^[extracted]
+- Coinbase CDP のユーザー基盤 = Coinbase 90M+ 登録アカウント + Base エコシステム ^[extracted]
+- Privy は 2024.10 に $40M シリーズ B 完了(Ribbit / Sequoia / Paradigm) ^[extracted]
+- AWS AgentCore Payments は 2025.07 GA · Privy がデフォルト · ユーザーは Magic / Web3Auth に切替可能 ^[extracted]
+- 埋込型 wallet は GENIUS §501 フレンドリー(顧客残高を保有しない → 非 VASP) ^[inferred]
 
 ## Mechanism / How it works
 
-**网络效应在集成层 · 三层飞轮**:
+**ネットワーク効果はインテグレーション層に存在 · 3層フライホイール**:
 
 ```
-集成商数量 ↑
+インテグレーター数 ↑
   ↓
-跨 dApp 用户体验一致性 ↑
+クロス dApp ユーザー体験の一貫性 ↑
   ↓
-新集成商默认选项 ↑
+新規インテグレーターのデフォルト選択肢 ↑
   ↓
-集成商数量 ↑(回环)
+インテグレーター数 ↑(ループ)
   ↑
-AgentCore / AWS / 主流 SaaS 巨头确认 (2025.07+)
+AgentCore / AWS / 主要 SaaS ベンダーが追認(2025.07+)
   ↑
-监管(GENIUS §501)友好(嵌入式 wallet 不持有 USDC 余额 → 非 VASP)
+規制(GENIUS §501)フレンドリー(埋込ウォレットは USDC 残高を保有しない → 非 VASP)
 ```
 
-集成商越多 → 用户跨 dApp 时 wallet "follow me" → 新集成商越倾向选同一家 wallet → 飞轮启动。
+インテグレーターが増えるほど → ユーザーがクロス dApp で wallet を「follow me」できる → 新インテグレーターは同じ wallet を選ぶ傾向が強まる → フライホイールが始動する。
 
-**与传统支付的类比**:
+**従来の決済との類比**:
 
-| 类比 | 嵌入式钱包对应 |
+| 類比 | 埋込ウォレットの対応物 |
 |---|---|
-| Stripe payments | 后端化 · 集成商不需理解卡组织 |
-| Plaid bank linking | 用户授权 · 后端聚合 |
+| Stripe payments | バックエンド化 · インテグレーターはカード組織を理解する必要がない |
+| Plaid bank linking | ユーザー認可 · バックエンド集約 |
 | OAuth 2.0 | wallet = OAuth provider · dApp = OAuth consumer |
-| Twilio SMS | 抽象掉底层基础设施复杂度 |
+| Twilio SMS | 下層インフラの複雑さを抽象化 |
 
-**Privy = "Stripe of Web3 wallets"** 是 2024.Q4 起 a16z / Sequoia 投资逻辑核心 · 2025-2026 被 AWS AgentCore 验证。
+**Privy = "Stripe of Web3 wallets"** が 2024.Q4 以降 a16z / Sequoia の投資ロジックの核 · 2025-2026 に AWS AgentCore によって検証された。
 
-**§501 监管友好的关键设计**:用户的 USDC / USDB 余额**直接在用户的链上 wallet** (Privy / CDP-derived address) · Privy / CDP 本身**不持有用户余额**(MPC + TEE 隔离) · 仅提供 key management / signing 服务 → 不是 money transmitter · 不是 custodian(参见 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] · 与 [[exchanges/cex-matching-engine-wallet-architecture|CEX 托管模型]] 形成鲜明对照)。
+**§501 規制フレンドリーの鍵となる設計**:ユーザーの USDC / USDB 残高は **直接ユーザーのオンチェーン wallet**(Privy / CDP-derived address)に存在 · Privy / CDP 自体は **ユーザー残高を保有しない**(MPC + TEE 隔離) · 提供するのは key management / signing サービスのみ → money transmitter ではなく · custodian でもない([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] 参照 · [[exchanges/cex-matching-engine-wallet-architecture|CEX カストディモデル]] と鮮やかな対照)。
 
 ## Origin & evolution
 
-2018-2022 = MetaMask 主导 · 用户主动安装。2023-2024 = Privy / Magic / CDP 切 b2b SaaS · 1000+ dApps 默认集成(技术底座普及见 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 嵌入式钱包采用]])。2025.07 = AWS AgentCore 把 Privy 选为 default · 嵌入式 wallet 从 crypto 工具升级为通用支付基础设施。2025-2026 Tempo / Base / Arc 生态预计集体采用嵌入式 wallet 而非自建 · 形成"全行业默认"格局。
+2018-2022 = MetaMask 主導 · ユーザーが主体的にインストール。2023-2024 = Privy / Magic / CDP が b2b SaaS に切り込み · 1000+ dApps がデフォルト統合(技術基盤の普及は [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。2025.07 = AWS AgentCore が Privy をデフォルトに選定 · 埋込ウォレットは crypto ツールから汎用決済インフラへとアップグレードした。2025-2026 Tempo / Base / Arc エコシステムが集団で埋込ウォレットを採用する見込み(自社構築ではなく) · 「業界全体のデフォルト」構図が形成される。
 
 ## Counterpoints
 
-主张"集成商也会换 vendor":Privy 被 Stripe 收购后中立性下降 · 非 Stripe 商家可能转向 CDP / Magic · 飞轮可能裂解为多家分庭抗礼。AWS default 不等于实际市占 —— "可换"条款让 AWS 客户实际选择仍开放。MetaMask 在 crypto-native 长尾仍有不可替代地位 · 嵌入式 wallet 主要切主流 SaaS 而非真正威胁 MetaMask。
+「インテグレーターも vendor を変える」という反論:Privy が Stripe に買収された後、中立性は低下 · 非 Stripe マーチャントは CDP / Magic に転じる可能性があり · フライホイールは複数社が拮抗する構図に分裂する可能性がある。AWS default は実シェアと等価ではない — 「変更可能」条項により AWS 顧客の実選択は依然オープン。MetaMask は crypto-native のロングテールで代替不可能な地位を維持 · 埋込ウォレットは主に主流 SaaS を切り取るもので、MetaMask への真の脅威ではない。
 
 ## Open questions
 
-集成商飞轮何时达临界点(Privy + CDP 合计 > 50% dApp)?Tempo / Arc 生态会否选自建 wallet 而非 Privy / CDP?AgentCore 实际客户选 default 比例多大?SAB 121 / OCC 是否会重定义嵌入式 wallet 为 custodian?Apple Pay / Google Pay 是否会自做嵌入式 crypto wallet 挑战 Privy?
+インテグレーターのフライホイールがクリティカルマス(Privy + CDP 合計 > 50% dApp)に到達するのはいつか?Tempo / Arc エコシステムは Privy / CDP ではなく自社構築 wallet を選ぶか?AgentCore の実顧客のデフォルト選択比率はどれほどか?SAB 121 / OCC は埋込ウォレットを custodian と再定義するか?Apple Pay / Google Pay は自前の埋込 crypto wallet を構築して Privy に挑戦するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|嵌入式钱包去中介化 · 概览]]
-- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]]
-- [[fintech/ai-payment-two-tracks|AI 支付双轨]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|埋込ウォレット中抜き · 総覧]]
+- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]]
+- [[fintech/ai-payment-two-tracks|AI 決済の二軌道]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密文化分离]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- AWS Bedrock AgentCore Payments GA 公告(2025.07)· Privy $40M B 轮(2024.10)
+- AWS Bedrock AgentCore Payments GA アナウンス(2025.07) · Privy $40M シリーズ B(2024.10)

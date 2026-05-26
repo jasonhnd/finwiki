@@ -8,8 +8,8 @@ aliases:
   - "トヨタ FS 製造業視点"
 domain: "manufacturing"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [manufacturing, toyota, captive-finance, auto-finance, abs, residual-value, mobility, japan, global]
@@ -32,7 +32,7 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]] and complement
 
 トヨタファイナンシャルサービス (TFS) は **世界最大級の自動車 captive finance**。トヨタ自動車 100% 子会社として、米州 (Toyota Motor Credit Corporation = TMCC)・欧州 (Toyota Kreditbank GmbH)・国内 ([[JapanFG/toyota-finance|トヨタファイナンス]])・新興国の 30+ ヵ国で **自動車ローン・リース・保険・カード・モビリティ金融** をワンストップで展開する。FinWiki manufacturing アンカーとしては、**(1) Toyota Motor (7203) が金融を本体外に持つ意味、(2) 残価リスク (RV) を OEM 本体ではなく captive 側に集約する設計、(3) 世界市場でのオート ABS 発行体としての規模 ([[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] と接続)、(4) BEV / コネクテッド・モビリティ時代の captive のリポジショニング** の 4 つを軸に読む。Ford Motor Credit, Ally Financial, GM Financial と並び世界の auto captive finance トップティアの一角。
 
-## 1. 公司結構と製造業視点
+## 1. 会社構造と製造業視点
 
 | 項目 | 内容 |
 |---|---|
@@ -158,5 +158,5 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 
 ---
 
-> [!info] 校核状态
+> [!info] 校正ステータス
 > confidence: **likely**。Toyota Motor IR / Annual Report / TFS 公式 / TMCC SEC filing / EDINET を基準に公開情報で構成。TFS 単独連結数値は親会社「金融事業セグメント」開示と各国法人開示の組合せが必要なため概数で記載。米国 TMCC のシェア・国内残クレ比率は業界推計値を引用。

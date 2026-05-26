@@ -1,10 +1,10 @@
 ---
-title: CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙
+title: CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙
 aliases: [cctp-vs-canton, public-vs-private-stablecoin-rails, circle-vs-jpm]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, bridge, dlt, stablecoin, cctp, canton, comparison]
@@ -12,56 +12,56 @@ sources: []
 status: candidate
 ---
 
-# CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙
+# CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-overview|CCTP V2 概览 · Circle USDC 跨链 burn-and-mint]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-overview|CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- JPM Kinexys 2026-01 明确不集成 CCTP V2(`kinexys/technology.md §4.2`) ^[extracted]
-- CCTP V2 是公链联盟(Circle + Arc + 18 链)清算基础设施 ^[extracted]
-- Canton 是私链联盟(GS + BNY + JPM + DTCC)清算基础设施 ^[extracted]
-- Arc 链是 CCTP V2 原生家园,USDC 即 Arc gas ^[extracted]
-- §501 入榜本质上是 CCTP attestation 白名单 ^[inferred]
+- JPM Kinexys は 2026-01 に CCTP V2 を統合しないと明言(`kinexys/technology.md §4.2`) ^[extracted]
+- CCTP V2 は公開チェーン連合(Circle + Arc + 18 チェーン)の清算インフラ ^[extracted]
+- Canton はプライベートチェーン連合(GS + BNY + JPM + DTCC)の清算インフラ ^[extracted]
+- Arc チェーンは CCTP V2 のネイティブホーム、USDC は Arc の gas ^[extracted]
+- §501 入榜は本質的に CCTP attestation ホワイトリスト ^[inferred]
 
 ## Mechanism / How it works
 
-两条路线的根本差异:
+2 経路の根本的差異:
 
-| 维度 | CCTP V2(公链路线) | Canton(私链路线) |
+| 次元 | CCTP V2(公開チェーン路線) | Canton(プライベートチェーン路線) |
 |---|---|---|
-| 流动性主权 | Circle 单点 mint/burn | 银行联盟内部记账 |
-| 跨链方式 | burn-and-mint(无 wrapped) | DAML 跨 application 原子调用 |
-| 隐私 | 公链全公开 + denylist 过滤 | Sub-transaction privacy 默认 |
-| 价值归属 | Circle + 公链生态 | 银行联盟(GS/BNY/JPM/DTCC) |
-| 监管模型 | Circle 自我合规 + §501 denylist | Regulator Node 内嵌 |
-| 用户类型 | 加密原生 + 部分机构 | 纯机构客户 |
+| 流動性主権 | Circle 単独 mint/burn | 銀行連合内部での記帳 |
+| クロスチェーン方式 | burn-and-mint(wrapped なし) | DAML のアプリケーション間アトミック呼び出し |
+| プライバシー | 公開チェーン全公開 + denylist フィルタ | Sub-transaction privacy デフォルト |
+| 価値の帰属 | Circle + 公開チェーンエコシステム | 銀行連合(GS/BNY/JPM/DTCC) |
+| 監督モデル | Circle 自己コンプライアンス + §501 denylist | Regulator Node を内蔵 |
+| ユーザータイプ | 暗号ネイティブ + 一部機関 | 純機関顧客 |
 
-**JPM Kinexys 选择**:[[fintech/jpmorgan-jpmd-coin|JPMD]] 不集成 CCTP V2 而是迁回 Canton——理由(1) Coinbase Custody 客户在 Base 上 holdings 可被 chain analysis 反推;(2) Canton 原生支持 multi-party atomic settlement;(3) DAML 比 Solidity 更适合金融合约;(4) JPM 是 Canton 创始成员的战略一致性。
+**JPM Kinexys の選択**:[[fintech/jpmorgan-jpmd-coin|JPMD]] は CCTP V2 を統合せず Canton に回帰 —— 理由は(1) Coinbase Custody 顧客の Base 上の holdings はチェーン解析で逆推定可能;(2) Canton は multi-party atomic settlement をネイティブサポート;(3) DAML は Solidity より金融契約に適する;(4) JPM が Canton 創設メンバーである戦略的整合性。
 
-**Circle Arc 选择**:Arc 链直接押 CCTP V2 + USDC 即 gas + §501 合规叙事,**绕开 Coinbase Base 分润($200M/年)**——这是 Circle 去-Coinbase 化的核心动作。
+**Circle Arc の選択**:Arc チェーンは直接 CCTP V2 + USDC を gas として + §501 コンプライアンス物語に賭け、**Coinbase Base への利益配分($200M/年)を回避** —— これは Circle の脱 Coinbase 化の中核施策。
 
 ## Origin & evolution
 
-2024-2025 间机构 tokenization 进入路线选择窗口期。Circle 路径(CCTP V1 → V2 → Arc)和 JPM 路径(JPMD on Base → JPMD on Canton)同步演进但走向相反。2026-01 JPM 公开宣布主战场迁 Canton,标志公私链分裂正式定型。
+2024-2025 年は機関 tokenization の路線選択の窓口期に入った。Circle 経路(CCTP V1 → V2 → Arc)と JPM 経路(JPMD on Base → JPMD on Canton)は並行進化したが方向は逆。2026-01 JPM が主戦場を Canton に移すと公表し、公開/プライベートチェーン分裂が正式に定型化した。
 
-预期未来 5 年:**公链路线**(CCTP V2 + Arc + Base + [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]])主导加密原生 + DeFi + 跨境零售;**私链路线**(Canton + JPMD + GS DAP + BNY LiquidityDirect)主导机构 collateral management + 大额清算。两条路线在 §501 入榜地条款约束下,**形成"美元合规圈"内部的并行体系**(参见 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]])。
+予想される今後 5 年:**公開チェーン路線**(CCTP V2 + Arc + Base + [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]])が暗号ネイティブ + DeFi + 越境リテールを主導;**プライベートチェーン路線**(Canton + JPMD + GS DAP + BNY LiquidityDirect)が機関 collateral management + 大口清算を主導。2 経路は §501 入榜地条項の制約下で、**「米ドルコンプライアンス圏」内部の並列体系を形成**する([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 参照)。
 
 ## Counterpoints
 
-公链路线劣势:Circle 单点信任 + 集中化风险 + 监管易受国家强制(OFAC Tornado Cash 案例)。私链路线劣势:联盟治理成本高 + 缺少零售/DeFi 入口 + 创新速度慢(DAML 生态小)。
+公開チェーン路線の弱点:Circle 単独信頼 + 中央集権化リスク + 規制が国家の強制に晒されやすい(OFAC Tornado Cash の事例)。プライベートチェーン路線の弱点:連合ガバナンスコストが高い + リテール/DeFi 入口の欠如 + イノベーション速度が遅い(DAML エコシステムが小さい)。
 
-中长期可能出现"混合路线"——例如 BlackRock BUIDL 在公链发行同时通过 Canton 提供机构 wrapper · 或 JPMD 在 Canton 主战场同时保留 Base 上的零售接入。当前(2026-Q1)路线对立可能在 2027-2028 间松动。
+中長期的には「ハイブリッド路線」が登場する可能性 —— 例えば BlackRock BUIDL が公開チェーンで発行しつつ Canton を経由して機関 wrapper を提供する · あるいは JPMD が Canton 主戦場の傍ら Base 上のリテール接続を保持する など。現時点(2026-Q1)の路線対立は 2027-2028 年の間に軟化する可能性。
 
 ## Open questions
 
-- Canton 联盟是否会推出与 CCTP V2 对接的"私链版桥"?
-- §501 入榜地条款是否会强制公私链互操作?
-- 5-10 年视角下两条路线的市场份额分配?
-- Stripe Tempo 的路线选择(目前未明)如何影响平衡?
+- Canton 連合は CCTP V2 と接続する「プライベートチェーン版ブリッジ」をローンチするか?
+- §501 入榜地条項は公開/プライベートチェーンの相互運用を強制するか?
+- 5-10 年視野での 2 経路の市場シェア配分は?
+- Stripe Tempo の路線選択(現時点で未確定)はバランスにどう影響するか?
 
 ## Related
 <!-- wiki-links:managed -->

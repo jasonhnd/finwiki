@@ -1,10 +1,10 @@
 ---
-title: Hyperlane 概览 · Permissionless Cross-chain Interoperability
+title: Hyperlane 概観 · Permissionless Cross-chain Interoperability
 aliases: [hyperlane-overview, permissionless-bridge, modular-interop]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, interop, hyperlane, modular]
@@ -12,7 +12,7 @@ sources: []
 status: candidate
 ---
 
-# Hyperlane 概览 · Permissionless Cross-chain Interoperability
+# Hyperlane 概観 · Permissionless Cross-chain Interoperability
 
 
 ## Wiki route
@@ -21,50 +21,50 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Key facts
 
-- Permissionless 部署 · 任何人可 fork + deploy ^[extracted]
-- 50+ 链已接入 ^[extracted]
-- 核心创新:Modular ISM(开发者自选验证方案) ^[extracted]
-- 与 LayerZero / CCIP 形成"gated rollout vs permissionless"路线分歧 ^[extracted]
-- 首批支持 EigenLayer restaking ISM ^[extracted]
+- Permissionless 展開 · 誰でも fork + deploy 可能 ^[extracted]
+- 50+ チェーンが接続済み ^[extracted]
+- コアイノベーション:Modular ISM(開発者が検証方式を自選) ^[extracted]
+- LayerZero / CCIP との間で「gated rollout vs permissionless」のルート分岐を形成 ^[extracted]
+- EigenLayer restaking ISM を最初にサポートしたグループの一つ ^[extracted]
 
 ## Mechanism / How it works
 
-跨链消息(arbitrary message passing,AMP)是 2024-2026 链间互操作的主流抽象。三大玩家定位差异:
+クロスチェーンメッセージ(arbitrary message passing、AMP)は 2024-2026 年のチェーン間相互運用における主流の抽象化である。三大プレイヤーの位置づけの差異:
 
-| 协议 | 部署模式 | 验证方案 |
+| プロトコル | 展開モデル | 検証方式 |
 |---|---|---|
-| **LayerZero** | Gated(团队评估新链) | DVN(Decentralized Verifier Network)· app 可选 |
-| **Chainlink CCIP** | Heavily gated(Chainlink DON 部署) | OCR 委员会 + RMN 风控 |
-| **Hyperlane** | **Permissionless**(任何人 fork + deploy) | **Modular ISM** · 完全开放 |
+| **LayerZero** | Gated(チームが新規チェーンを評価) | DVN(Decentralized Verifier Network)· アプリ側で選択可 |
+| **Chainlink CCIP** | Heavily gated(Chainlink DON が展開) | OCR 委員会 + RMN リスク管理 |
+| **Hyperlane** | **Permissionless**(誰でも fork + deploy) | **Modular ISM** · 完全オープン |
 
-**Hyperlane 的赌注**:长尾链(尤其 app-chain)无法等待 LayerZero/CCIP 团队批准 · 需要 self-serve 接入方案。这与 Cosmos SDK / Solana SVM / OP Superchain / Arbitrum Orbit 等"链可以一键启动"的趋势对齐——bridge 也必须 permissionless 化。
+**Hyperlane の賭け**:ロングテールチェーン(特に app-chain)は LayerZero/CCIP チームの承認を待つことができず · セルフサーブの接続ソリューションが必要となる。これは Cosmos SDK / Solana SVM / OP Superchain / Arbitrum Orbit 等の「チェーンをワンクリックで立ち上げる」トレンドと整合しており —— bridge も permissionless 化が必要となる。
 
-**核心组件**:
-- **Mailbox**:每条链部署的统一收发合约 · 标准化跨链消息格式
-- **Interchain Security Modules(ISM)**:可插拔验证层 · 开发者自选
-- **Relayer**:permissionless · 任何人可跑(包括 app 自营 relayer)
-- **Validators**:监听 source chain · 签名 message · 提交到 destination
+**主要コンポーネント**:
+- **Mailbox**:各チェーンに展開される統一の送受信契約 · クロスチェーンメッセージ形式を標準化
+- **Interchain Security Modules(ISM)**:プラガブルな検証レイヤー · 開発者が自選
+- **Relayer**:permissionless · 誰でも運用可能(アプリ自社運営の relayer を含む)
+- **Validators**:source chain を監視 · message に署名 · destination に提出
 
-**Warp Routes**:Hyperlane 的 token bridge 抽象 · 支持 Native/Collateral/Synthetic 三种 wrap 模式 · 开发者一键部署 ERC-20 跨链。
+**Warp Routes**:Hyperlane の token bridge 抽象化 · Native/Collateral/Synthetic の 3 種類の wrap モードをサポート · 開発者がワンクリックで ERC-20 のクロスチェーン展開が可能。
 
 ## Origin & evolution
 
-Hyperlane 由 Asa Oines、Jon Kol 等(原 Celo 团队成员)2021 创立 · 早期名为 Abacus · 2022 改名 Hyperlane。核心赌注是"长尾链需要 permissionless bridge",这与 LayerZero / CCIP 的中心化部署模式形成路线分歧。
+Hyperlane は Asa Oines、Jon Kol ら(元 Celo チームメンバー)によって 2021 年に設立され · 当初は Abacus という名前で · 2022 年に Hyperlane に改名した。コアとなる賭けは「ロングテールチェーンには permissionless bridge が必要」であり、これは LayerZero / CCIP の中央集権的展開モデルとのルート分岐を形成する。
 
-2023-2025 间陆续被 Celestia / dYdX v4 / Injective / Sei / Berachain 等长尾 / app-chain 采用 · 成为非 EVM(Cosmos / Solana / Move)接入 EVM 生态的事实标准(参见 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 机构对照]])。2024 加入 EigenLayer restaking 集成后 · 加密经济安全继承自 Ethereum L1。
+2023-2025 年にかけて Celestia / dYdX v4 / Injective / Sei / Berachain 等のロングテール / app-chain で順次採用され · 非 EVM(Cosmos / Solana / Move)が EVM エコシステムに接続するための事実上の標準となった([[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 機関対照]] を参照)。2024 年に EigenLayer restaking 統合を追加した後 · 暗号経済セキュリティは Ethereum L1 から継承された。
 
 ## Counterpoints
 
-**Permissionless 的代价**:**ISM 选择责任全在 app 开发者**。如果 app 选了弱 multisig · 被 hack 不能怪 Hyperlane 协议。这与 LayerZero/CCIP 的"协议方背书"模式形成 trade-off——更开放但更需要 app 团队懂 security。
+**Permissionless の代償**:**ISM 選択の責任はすべてアプリ開発者にある**。アプリが弱い multisig を選んでハックされたとしても、Hyperlane プロトコルのせいにはできない。これは LayerZero/CCIP の「プロトコル側が裏付ける」モデルとのトレードオフを形成する —— よりオープンだが、アプリチームのセキュリティ理解度が問われる。
 
-**心智份额**:LayerZero 通过早期激进市场推广 · 心智份额仍领先 Hyperlane。机构/大型 dApp 在选择跨链协议时 · LayerZero 的"团队背书"反而是优势 · Hyperlane 主要服务"愿意自负 security 责任"的项目方(对照 [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX 跨链桥]] 上 LayerZero 与 Wormhole 的份额)。
+**マインドシェア**:LayerZero は初期の積極的なマーケティングにより · マインドシェアでは依然として Hyperlane をリードしている。機関 / 大規模 dApp がクロスチェーンプロトコルを選定する際 · LayerZero の「チームの裏付け」はかえって優位性となり · Hyperlane は主に「セキュリティ責任を自負することを厭わない」プロジェクトにサービスを提供している([[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] における LayerZero と Wormhole のシェアを参照)。
 
 ## Open questions
 
-- 50+ 链中实际有活跃流量的占比?
-- EigenLayerISM 在 2025-2026 间的实际采用率?
-- 与 LayerZero / CCIP 的长期市场份额分配?(参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]])
-- Hyperlane token 经济模型对长期可持续性的影响?
+- 50+ チェーンのうち、実際にアクティブなトラフィックを持つ割合は?
+- EigenLayerISM の 2025-2026 における実際の採用率は?
+- LayerZero / CCIP との長期的な市場シェア配分は?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] を参照)
+- Hyperlane token 経済モデルが長期的な持続可能性に与える影響は?
 
 ## Related
 <!-- wiki-links:managed -->

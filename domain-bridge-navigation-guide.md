@@ -1,5 +1,5 @@
 ---
-title: Domain Bridge Navigation Guide · FinWiki 跨领域阅读路径指南
+title: Domain Bridge Navigation Guide · FinWiki クロスドメイン読書経路ガイド
 aliases:
   - domain-bridge-navigation-guide
   - domain-bridge-guide
@@ -7,8 +7,8 @@ aliases:
   - cross-domain-reading-paths
 domain: control-bridge
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2027-05-25
 confidence: likely
 tags: [meta, navigation, reader-guide, cross-domain, journeys]
@@ -19,7 +19,7 @@ sources:
   - Example entries cited inline (stablecoin / banking / payments / JapanFG / insurance / securities clusters)
 ---
 
-# Domain Bridge Navigation Guide · FinWiki 跨领域阅读路径指南
+# Domain Bridge Navigation Guide · FinWiki クロスドメイン読書経路ガイド
 
 ## Wiki route
 
@@ -38,7 +38,7 @@ The journeys are not exhaustive. They are starting templates for the most common
 
 1. Start: [[fintech/circle-usdc-stablecoin|Circle USDC]] (fintech issuer anchor).
 2. Macro frame: [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] for the US regulatory bound that defines what a "compliant stablecoin" is.
-3. Comparative peers: [[fintech/tether-business-model-short-treasury-yield|Tether USDT 经济学]] and [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] for white-circle / grey-circle / payments-app contrast.
+3. Comparative peers: [[fintech/tether-business-model-short-treasury-yield|Tether USDT 経済学]] and [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] for white-circle / grey-circle / payments-app contrast.
 4. Japan-side perimeter: [[banking/japan-stablecoin-bank-perimeter-2025|Japan stablecoin bank perimeter 2025]] (banking domain).
 5. Payments stack consumption: [[payments/INDEX|payments index]] for clearing, acquiring, BNPL, prepaid integration.
 6. Routing surface: [[fintech/INDEX|fintech index]] for peer issuers and adjacent stablecoin entries.

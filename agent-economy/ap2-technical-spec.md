@@ -1,10 +1,10 @@
 ---
-title: AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter
+title: AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter
 aliases: [ap2-technical-spec, ap2-mandate-intent-settlement, google-ap2-spec]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, payment, ap2, technical-spec]
@@ -12,56 +12,56 @@ sources: []
 status: candidate
 ---
 
-# AP2 技术规范 · Mandate · Payment Intent · Settlement Adapter
+# AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/ap2-overview|AP2 · Google Agent Payments Protocol 概览]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/ap2-overview|AP2 · Google Agent Payments Protocol 概観]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Authorization Mandate 是 W3C Verifiable Credential 格式 ^[extracted]
-- Mandate scope 包含:金额、merchant 类别、时间窗口(典型 24h)、可选地址限定 ^[extracted]
-- Wallet Adapter 抽象层:同一 mandate 可路由到 Google Pay(卡)或 USDC(via Coinbase Onchain Kit) ^[extracted]
-- Risk Score 由 Google fraud detection AI 计算,merchant 自定阈值 ^[extracted]
-- Audit trail 写回用户 Google 账号,可被 user/merchant/regulator 多方验证 ^[extracted]
+- Authorization Mandate は W3C Verifiable Credential フォーマット ^[extracted]
+- Mandate scope に含まれる項目:金額、merchant カテゴリ、時間ウィンドウ(典型 24h)、オプションでアドレス制限 ^[extracted]
+- Wallet Adapter 抽象層:同一 mandate を Google Pay(カード)または USDC(via Coinbase Onchain Kit)へルーティング可能 ^[extracted]
+- Risk Score は Google fraud detection AI が算出し、merchant が閾値をカスタマイズする ^[extracted]
+- Audit trail はユーザーの Google アカウントに書き戻され、user/merchant/regulator の複数主体が検証可能 ^[extracted]
 
 ## Mechanism / How it works
 
-典型流程(5 步):
+典型的なフロー(5 ステップ):
 
-1. 用户对 Gemini 说"帮我订下周日航班,预算 $800"
-2. Gemini 生成 Authorization Mandate(scope:航空公司类别 / limit:$800 / expire:24h)
-3. Gemini 调用航司 API,提交 Payment Intent(引用 mandate)
-4. 航司验证 mandate + 通过 AP2 settlement adapter(Google Pay 或 USDC)
-5. Audit trail 写回用户 Google 账号
+1. ユーザーが Gemini に「来週日曜のフライトを予約して、予算 $800」と伝える
+2. Gemini が Authorization Mandate を発行(scope:航空会社カテゴリ / limit:$800 / expire:24h)
+3. Gemini が航空会社 API を呼び出し、Payment Intent を提出(mandate を参照)
+4. 航空会社が mandate を検証 + AP2 settlement adapter(Google Pay または USDC)経由で決済
+5. Audit trail がユーザーの Google アカウントに書き戻される
 
-Wallet Adapter 是 AP2 的关键抽象——mandate 和 intent 都不绑定具体结算 rail,merchant 只需对接一份 AP2 API,即可同时接收卡支付和稳定币支付(参见 [[fintech/usd-stablecoin-interchange|USD 稳定币互换层]])。这与 x402 协议(明确 USDC-first)形成路线差异:**AP2 是"rail-neutral"** · x402 是"USDC-native"。跨链 USDC settlement 需经 [[systems/cctp-v2-overview|CCTP V2]] 与 [[systems/chain-abstraction-pattern-overview|chain abstraction]] 协同。
+Wallet Adapter は AP2 の鍵となる抽象 — mandate と intent はいずれも具体的な settlement rail にバインドされず、merchant は AP2 API 1 本に対応するだけでカード決済とステーブルコイン決済を同時に受け取れる([[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。これは x402 プロトコル(明示的に USDC-first)とは路線が異なる:**AP2 は「rail-neutral」** · x402 は「USDC-native」。クロスチェーン USDC settlement は [[systems/cctp-v2-overview|CCTP V2]] と [[systems/chain-abstraction-pattern-overview|chain abstraction]] の協調が必要となる。
 
 ## Origin & evolution
 
-W3C Verifiable Credentials 标准本身已被 W3C 自 2019 起持续推进,Google 是核心贡献者。AP2 的 spec 设计把 VC 模型直接借用为 mandate 容器,而不是发明全新的授权对象——这降低了与既有 identity/DID 生态(如 Microsoft Entra Verified ID、Decentralized Identity Foundation)的集成成本。
+W3C Verifiable Credentials 標準自体は W3C により 2019 から継続的に推進されており、Google は中核貢献者である。AP2 の spec 設計は VC モデルを直接 mandate コンテナとして借用し、新規の認可オブジェクトを発明していない — これにより既存の identity/DID エコシステム(Microsoft Entra Verified ID、Decentralized Identity Foundation 等)との統合コストを下げている。
 
-2025-09 草案 → 2026-Q1 v1.0,期间主要调整在 settlement adapter 接口和 risk score schema。
+2025-09 ドラフト → 2026-Q1 v1.0、この間の主な調整は settlement adapter インタフェースと risk score スキーマに集中した。
 
 ## Counterpoints
 
-Risk Score 由 Google 单方 AI 计算,这意味着 **Google 隐含成为 AP2 网络的 fraud arbiter**——merchant 信不信 Google 的判断?对非 Google 系 merchant(尤其欧盟)可能形成 vendor lock-in 顾虑。另外 W3C VC 本身的撤销机制依赖 status registry,在高 throughput agent 支付场景下,registry 性能是潜在瓶颈(底层钱包通常基于 [[systems/erc-4337-overview|ERC-4337]] · UserOp 验证流程可参考 [[systems/erc-4337-userop-bundler-flow|ERC-4337 bundler flow]])。
+Risk Score を Google 単独の AI が算出することは、**Google が暗黙的に AP2 ネットワークの fraud arbiter となる** ことを意味する — merchant は Google の判断を信頼するか?非 Google 系 merchant(特に EU)には vendor lock-in の懸念を生じさせ得る。さらに W3C VC 自体の撤回機構は status registry に依存しており、高 throughput な agent 決済シナリオでは registry の性能が潜在的ボトルネックになる(下層ウォレットは通常 [[systems/erc-4337-overview|ERC-4337]] ベース · UserOp 検証フローは [[systems/erc-4337-userop-bundler-flow|ERC-4337 bundler flow]] 参照)。
 
 ## Open questions
 
-- mandate 撤销(用户事后取消)的实时性如何?Google 是否需要建中央 revocation registry?
-- 多 agent 协同支付(MCP 跨 agent 调用链)的 mandate 嵌套语义?
-- USDC settlement adapter 与 CCTP V2 的具体路由策略?
-- merchant 侧 SDK 在 v1.0 后是否会开源?
+- mandate 撤回(ユーザーの事後キャンセル)のリアルタイム性は?Google は中央集権的な revocation registry を構築する必要があるか?
+- マルチ agent 協調決済(MCP のクロス agent 呼び出しチェーン)における mandate ネスト構造のセマンティクスは?
+- USDC settlement adapter と CCTP V2 の具体的ルーティング戦略は?
+- merchant 側 SDK は v1.0 後にオープンソース化されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[agent-economy/ap2-overview|AP2 Overview]]
 - [[agent-economy/ap2-adoption|AP2 Adoption]]
-- [[systems/cctp-v2-overview|CCTP V2(USDC settlement 路由)]]
+- [[systems/cctp-v2-overview|CCTP V2(USDC settlement ルーティング)]]
 <!-- /wiki-links:managed -->
 
 ## Sources

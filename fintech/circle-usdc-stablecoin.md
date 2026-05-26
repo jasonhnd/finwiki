@@ -1,10 +1,10 @@
 ---
-title: Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁
+title: Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック
 aliases: [circle-usdc-stablecoin, USDC, Circle Internet Financial, USDC stablecoin, EURC]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: certain
 tags: [fintech, stablecoin, circle, usdc, eurc, nyse, cctp, buidl, genius-501, compliance-first]
@@ -19,58 +19,58 @@ sources:
   - https://www.bnymellon.com/us/en/insights/all-insights/circle-reserve-fund.html
 ---
 
-# Circle USDC · 合规白圈基准品 · NYSE 上市发行人 · CCTP / BUIDL 互锁
+# Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] and [[fintech/tether-business-model-short-treasury-yield|Tether USDT 经济学]] for the white-circle / grey-circle contrast, and with [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] for the regulatory frame in which USDC has become the de facto white-circle benchmark.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] and [[fintech/tether-business-model-short-treasury-yield|Tether USDT エコノミクス]] for the white-circle / grey-circle contrast, and with [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] for the regulatory frame in which USDC has become the de facto white-circle benchmark.
 
 > [!info] TL;DR
-> Circle Internet Financial 是 USDC 与 EURC 的唯一发行人,2026-Q2 USDC 流通量 **$65B+** (全市场第二大,USDT 之下),EURC ~ €350M。Circle 2025-06 完成 **NYSE IPO** (ticker CRCL),发行价 $31,IPO 首日上涨 ~170%,2026-05 市值约 $30-40B 区间波动。储备 100% 短期美债 + 现金,主体为 **Circle Reserve Fund (CRCL)**,由 BlackRock 子顾问 + BNY Mellon 托管。USDC 是 GENIUS Act §501 合规白圈的"基准实现":CCTP V2 跨 18+ 链原生 burn-and-mint、BUIDL 互锁吸收 yield、Coinbase 分润 50-50。EURC 是欧元侧 MiCA EMT 牌照下唯一具有规模的非银行欧元稳定币。
+> Circle Internet Financial は USDC と EURC の唯一の発行体。2026-Q2 時点で USDC 流通量は **$65B+**（全市場第 2 位、USDT に次ぐ）、EURC は ~€350M。Circle は 2025-06 に **NYSE IPO** 完了（ticker CRCL）、IPO 価格 $31、初日 ~170% 上昇、2026-05 時価総額は $30-40B 帯で推移。準備は 100% 短期米国債 + 現金で、主体は **Circle Reserve Fund (CRCL)**、BlackRock 子会社のアドバイザリー + BNY Mellon カストディ。USDC は GENIUS Act §501 コンプライアント・ホワイトサークルの「ベンチマーク実装」: CCTP V2 が 18+ チェーンでネイティブ burn-and-mint、BUIDL とのインターロックで yield を吸収、Coinbase との分配 50-50。EURC はユーロ側で MiCA EMT ライセンスを保有する唯一の規模ある非銀行系ユーロ stablecoin。
 
 ## Key facts
 
-- USDC 流通 **$65B+** (2026-Q2 单月平均) · 全球第二大稳定币,占公链美元稳定币流通 ~30% ^[extracted]
-- EURC 流通 ~ **€350M** (2026-Q2) · MiCA EMT 持牌,主链 Ethereum / Solana / Stellar / Avalanche / Base ^[extracted]
-- 发行实体: Circle Internet Financial Inc. (Boston) · 2013 创立 (Jeremy Allaire / Sean Neville) ^[extracted]
-- **NYSE IPO 2025-06** · ticker **CRCL** · IPO 募资 ~$1.1B · 估值 IPO 后约 $24B → 2026-05 市值 $30-40B 区间 ^[extracted]
-- 储备 100% 短期美债 + 现金 · 主体 **Circle Reserve Fund** (USDXX) BlackRock 管理 · BNY Mellon 托管 ^[extracted]
-- 储备月度透明度报告 + Deloitte attestation · 公开 CUSIP-by-CUSIP 持仓 ^[extracted]
-- **CCTP V2** 支持 18+ 链原生 burn-and-mint (Ethereum / Solana / Base / Arbitrum / Avalanche / Optimism / Polygon / Noble / Arc 等) ^[extracted]
-- Coinbase 分润协议: USDC 储备 yield **50-50 分账** (Coinbase 2025 USDC 收入贡献 ~$1B) ^[extracted]
-- 监管: 美国 MTL 全州持牌 + NY DFS BitLicense + EU MiCA EMT + Singapore MPI + Japan SBI VC Trade 上线 ^[extracted]
+- USDC 流通量 **$65B+**（2026-Q2 月平均） · 世界第 2 位の stablecoin、パブリックチェーン上の米ドル stablecoin 流通量の ~30% を占有 ^[extracted]
+- EURC 流通量 ~ **€350M**（2026-Q2） · MiCA EMT 取得、主要チェーンは Ethereum / Solana / Stellar / Avalanche / Base ^[extracted]
+- 発行エンティティ: Circle Internet Financial Inc.（Boston） · 2013 設立（Jeremy Allaire / Sean Neville） ^[extracted]
+- **NYSE IPO 2025-06** · ticker **CRCL** · IPO 調達 ~$1.1B · IPO 後のバリュエーション ~$24B → 2026-05 時価総額 $30-40B 帯 ^[extracted]
+- 準備 100% 短期米国債 + 現金 · 主体 **Circle Reserve Fund**（USDXX）BlackRock 運用 · BNY Mellon カストディ ^[extracted]
+- 準備の月次透明性レポート + Deloitte attestation · CUSIP 単位で保有内容を公開 ^[extracted]
+- **CCTP V2** が 18+ チェーンでネイティブ burn-and-mint をサポート（Ethereum / Solana / Base / Arbitrum / Avalanche / Optimism / Polygon / Noble / Arc など） ^[extracted]
+- Coinbase との分配契約: USDC 準備 yield を **50-50 で按分**（Coinbase 2025 USDC 収入貢献 ~$1B） ^[extracted]
+- 規制: 米国 MTL 全州ライセンス + NY DFS BitLicense + EU MiCA EMT + Singapore MPI + Japan SBI VC Trade で取扱開始 ^[extracted]
 
 ## Mechanism / How it works
 
-USDC 的核心模型 = **"白圈合规基准品"**: 100% 短期美债储备 + 月度审计 + Reserve Fund 隔离 + 月度公开 CUSIP-level 报告。这与 [[fintech/tether-business-model-short-treasury-yield|Tether USDT (40 人 / 灰圈)]] 形成对照——Circle 是公开实体、上市公司、所有储备公开;Tether 是私人公司、储备只做季度 attestation、不可强制赎回散户。USDC 经济模型与 [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]] 直接对应:发行人 (Circle) 只赚 ~50% 储备 yield,**另一半给 Coinbase 作为分销激励**,这是 [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 重排范式]] 的样本案例,与 PayPal × Paxos PYUSD (Paxos 让出 80-90%) 形成强度差异。
+USDC の中核モデル = **「ホワイトサークル・コンプライアンス・ベンチマーク」**: 100% 短期米国債準備 + 月次監査 + Reserve Fund の隔離 + 月次の CUSIP-level 公開レポート。これは [[fintech/tether-business-model-short-treasury-yield|Tether USDT（40 人 / グレーサークル）]] との対照を成す — Circle は公開エンティティ、上場企業、すべての準備が公開;Tether は私企業、準備は四半期 attestation のみ、リテールに対する強制償還不可。USDC のエコノミック・モデルは [[fintech/stablecoin-revenue-split-economics|stablecoin 金利分配エコノミクス]] と直接対応する: 発行体（Circle）が稼ぐのは準備 yield の ~50% のみ、**残り半分はディストリビューション・インセンティブとして Coinbase へ**、これは [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 再配置パラダイム]] のサンプル・ケースであり、PayPal × Paxos PYUSD（Paxos は 80-90% を譲渡）とは強度の差を形成する。
 
-跨链架构上 USDC 通过 [[systems/cctp-v2-overview|CCTP V2]] 实现"一个 USDC、多条链":所有公链上的 USDC 都是 Circle 直接 mint 的 native asset,没有 wrapped 版本,跨链时源链 burn + Circle Attestation Service 签名 + 目标链 mint,V2 fast transfer 延迟 <1 秒。**储备-应用互锁**: Circle 是 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 公开承认的早期最大机构 LP 之一,USDC 储备的一部分通过 BUIDL 持有获得 MMF yield,形成"USDC ↔ BUIDL ↔ UST" [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮]] 的关键节点。
+クロスチェーン・アーキテクチャ上、USDC は [[systems/cctp-v2-overview|CCTP V2]] により「1 つの USDC、複数チェーン」を実現: 全パブリックチェーン上の USDC はすべて Circle が直接 mint するネイティブ資産で、ラップ版は存在せず、クロスチェーン時はソースチェーンで burn + Circle Attestation Service が署名 + 目的チェーンで mint、V2 fast transfer のレイテンシは <1 秒。**準備 - 用途のインターロック**: Circle は [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] が公的に認める初期最大級の機関 LP の 1 つで、USDC 準備の一部を BUIDL 経由で保有し MMF yield を取得、「USDC ↔ BUIDL ↔ UST」[[fintech/circular-reserve-asset-flywheel-overview|準備資産インターロック・フライホイール]] の鍵となるノードを形成する。
 
 ## Origin & evolution
 
-2013 Circle 创立 (做 BTC 钱包/汇款). 2015-2018 转型 → 2018-10 USDC 与 Coinbase 通过 **Centre Consortium** 共同发行 (Centre 是合资治理实体). **2020-2023 USDC 第一波规模化**: 2021-09 流通量首破 $30B; 2022 Terra/LUNA 崩溃后 USDC 短暂吸纳 USDT 抛压. **2023-03 SVB 危机**: Circle 在硅谷银行有 $3.3B 储备暴露,USDC 短暂脱锚至 $0.87,3 天内恢复,**事件后 Circle 大幅收缩银行端,把储备完全集中至 Circle Reserve Fund + BNY Mellon 托管**. 2023-08 Circle 收购 Centre 全部股权 → USDC 治理独立,Coinbase 转为 Circle 战略股东 + 分润合作伙伴. **2024 EU MiCA EMT 获批 → EURC 成为 MiCA 框架下首批欧元 EMT**. **2025-06 NYSE IPO**: Circle 直接 IPO 而非 SPAC (2022 SPAC 路径流产),首日 ~$31 → 收盘 ~$84,是 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 分流]] 中"合规优先"路线获得资本市场背书的关键事件. 2025-09 [[fintech/genius-act-501-denylist-mandate|GENIUS Act 实施]] → USDC 直接符合 §501 资格,无需结构调整. 2026-Q1 [[systems/cctp-v2-overview|CCTP V2]] 扩展到 Arc / Solana fast finality + Hooks (跨链 + 自动合约调用). 2026-Q2 USDC 流通量 $65B+,与 USDT $145B 差距从 5× 缩窄到 2.3×。
+2013 Circle 設立（BTC ウォレット / 送金を提供）。2015-2018 ピボット → 2018-10 USDC を Coinbase と共に **Centre Consortium** 経由で共同発行（Centre は JV ガバナンス・エンティティ）。**2020-2023 USDC 第 1 波スケール化**: 2021-09 流通量が初めて $30B 突破;2022 Terra/LUNA 崩壊後、USDC が短期的に USDT 売り圧を吸収。**2023-03 SVB 危機**: Circle のシリコンバレー銀行への準備エクスポージャー $3.3B、USDC が一時的に $0.87 にデペッグ、3 日で回復、**事件後 Circle は銀行エンドを大幅縮小し、準備を完全に Circle Reserve Fund + BNY Mellon カストディに集中**。2023-08 Circle が Centre 全株式を取得 → USDC ガバナンスが独立、Coinbase は Circle の戦略株主 + 分配パートナーへ転換。**2024 EU MiCA EMT 取得 → EURC が MiCA 枠組下で最初のユーロ EMT に**。**2025-06 NYSE IPO**: Circle は SPAC ではなく直接 IPO（2022 SPAC 経路は流産）、初日 ~$31 → 終値 ~$84、これは [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 分流]] における「コンプライアンス優先」路線が資本市場の支持を得たマイルストーン・イベント。2025-09 [[fintech/genius-act-501-denylist-mandate|GENIUS Act 施行]] → USDC は §501 資格に直接適合、構造調整不要。2026-Q1 [[systems/cctp-v2-overview|CCTP V2]] が Arc / Solana fast finality + Hooks（クロスチェーン + 自動コントラクト呼び出し）に拡張。2026-Q2 USDC 流通量 $65B+、USDT $145B との差は 5× から 2.3× に縮小。
 
 ## Counterpoints
 
-USDC 在 GENIUS Act 框架下是"合规白圈"基准但**仍非全球流通量第一**——USDT $145B 仍是 USDC 2.3 倍,且 USDT 在新兴市场零售场景 (LATAM / Sub-Saharan Africa / 东南亚) 渗透深得多 ([[fintech/em-market-crypto-dollarization-pattern|EM 市场加密美元化模式]])。Circle 的 50-50 分润让 Coinbase 拿走绝大部分经济价值,Circle 2024 年 Net income margin ~5% — 上市后股价的高估值 (P/E 60+) 依赖**未来储备规模 3-5×** 的预期,若 [[fintech/stablecoin-issuer-2025-2026-market-consolidation|2025-2026 市场整合]] 让头部之外新发行人 (USDB / RLUSD / USAT / JPMD) 切走部分份额,EPS 难以撑住估值。CCTP 是中心化基础设施 — Circle Attestation Service 单点风险 + Circle 可拒绝签名 ([[systems/chain-abstraction-pattern-value-capture|chain-abstraction 价值捕获]] 的 Circle 节点),GENIUS §501 Denylist 在 CCTP-level 的执行通道使 USDC 的"中立性"是有条件的。EURC 流通 €350M 与 €/$ 7.5% 比远低于市场份额 — MiCA 下欧元 EMT 没有出现 USDT/USDC 那样的赢家全得格局,EURC 长期可能被欧元区银行联合发行体压制。
+USDC は GENIUS Act フレームワーク下で「コンプライアント・ホワイトサークル」のベンチマークだが、**依然として世界流通量第 1 位ではない** — USDT $145B は USDC の 2.3 倍、かつ USDT は新興市場のリテール領域（LATAM / Sub-Saharan Africa / 東南アジア）でははるかに深く浸透している（[[fintech/em-market-crypto-dollarization-pattern|EM 市場 暗号ドル化パターン]]）。Circle の 50-50 分配により Coinbase が経済価値の大半を持ち去り、Circle 2024 年の Net income margin は ~5% — 上場後の高バリュエーション（P/E 60+）は **将来の準備規模 3-5×** 増加への期待に依存しており、[[fintech/stablecoin-issuer-2025-2026-market-consolidation|2025-2026 市場統合]] でトップ以外の新興発行体（USDB / RLUSD / USAT / JPMD）が一定のシェアを奪うと、EPS がバリュエーションを支えきれない。CCTP は中央集権インフラ — Circle Attestation Service は単一障害点 + Circle は署名拒否可能（[[systems/chain-abstraction-pattern-value-capture|chain-abstraction 価値捕捉]] における Circle ノード）、GENIUS §501 Denylist の CCTP-level 実行チャネルにより USDC の「中立性」は条件付きである。EURC 流通量 €350M は €/$ 7.5% 比よりはるかに低い市場シェア — MiCA 下のユーロ EMT に USDT/USDC のような winner-takes-all 構造は出現しておらず、EURC は長期的にユーロ圏銀行連合発行体に押さえ込まれる可能性。
 
 ## Open questions
 
-CRCL 股价能否在 2027 之前突破 $50B 市值,反映 USDC 流通量从 $65B → $150B 的乐观情景?Coinbase × Circle 50-50 协议在 2028 续约时是否会被压缩 (Coinbase 此时已自营 cbBTC + Base + Smart Wallet)?USDC 在 [[fintech/three-circles-mra-2030-economic-scale|三圆 MRA 2030]] 框架下能否同时获得美国 §501 + EU MiCA EMT + Japan ECISB 三圆白圈完整资格 (目前 Japan 经 SBI VC Trade 已上线但 ECISB 直接发行未启)?
+CRCL 株価は 2027 年までに時価総額 $50B を突破し、USDC 流通量 $65B → $150B の楽観シナリオを反映できるか? Coinbase × Circle 50-50 契約は 2028 年の更新時に圧縮されるか（Coinbase はこの時点で cbBTC + Base + Smart Wallet を自社運用済み）? USDC は [[fintech/three-circles-mra-2030-economic-scale|三円 MRA 2030]] フレームワーク下で米国 §501 + EU MiCA EMT + 日本 ECISB の三円ホワイトサークル完全資格を同時取得できるか（現状は日本では SBI VC Trade 経由で取扱開始済だが ECISB 直接発行は未スタート）?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/INDEX|fintech index]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether 灰圈]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether グレーサークル]]
 - [[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 重排范式]]
+- [[fintech/stablecoin-revenue-split-economics|stablecoin 金利分配エコノミクス]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 再配置パラダイム]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 - [[systems/cctp-v2-overview|CCTP V2]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
 - [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART]]
 <!-- /wiki-links:managed -->
 

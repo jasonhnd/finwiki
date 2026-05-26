@@ -1,10 +1,10 @@
 ---
-title: Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置
+title: Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション
 aliases: [apollo-acred-private-credit-tokenization, ACRED, Apollo Diversified Credit Securitize Fund]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, tokenization, private-credit, apollo, securitize, rwa, mmf]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# Apollo ACRED · 私募信贷代币化 · 第二梯队 MMF 的独立战略位置
+# Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション
 
 
 ## Wiki route
@@ -25,38 +25,38 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> Apollo Diversified Credit Securitize Fund (ACRED) 2025-01-30 上线,部署 **7 条链**(含 Circle Arc + Sei),Wormhole 跨链。Christine Moy(ex-JPMorgan Onyx)操盘,Apollo $700B+ alternative asset 平台背书。ACRED 是第二梯队 tokenized fund 中**最具独立生存能力**的玩家——占住 private credit 代币化标杆位置,**不与 BUIDL 在同一资产赛道**,因此难以被挤压。
+> Apollo Diversified Credit Securitize Fund (ACRED) は 2025-01-30 にローンチ、**7 チェーン**（Circle Arc + Sei を含む）にデプロイ、Wormhole でクロスチェーン接続。Christine Moy（ex-JPMorgan Onyx）が運用を主導し、Apollo $700B+ オルタナティブ・アセット・プラットフォームがバック。ACRED は第二梯団 tokenized fund の中で **最も独立した生存能力を持つ** プレイヤーであり、private credit トークン化のベンチマークポジションを占めている。**BUIDL と同じ資産トラックでは戦わない** ため、押し潰されにくい。
 
 ## Key facts
 
-- AUM $100M+ (2025 中) · launch 2025-01-30 · 部署 7 chains ^[extracted]
-- Tokenization partner Securitize(同时为 BUIDL 工作),早期投资者 Coinbase Asset Management + Kraken + Etherealize ^[extracted]
-- sACRED (2025-06 RedStone + Securitize) = 首个 private credit fund 在 DeFi 协议中获取 onchain yield ^[extracted]
-- Christine Moy 2022-04 从 JPMorgan Onyx 加入 Apollo 任 "Partner, Digital Assets" · 操盘 ACRED 设计 ^[extracted]
-- 后端部分流动性由 BUIDL 提供(2025 起) ^[inferred]
+- AUM $100M+（2025 年中）· launch 2025-01-30 · 7 chains にデプロイ ^[extracted]
+- Tokenization partner は Securitize（BUIDL でも作業中）、初期投資家は Coinbase Asset Management + Kraken + Etherealize ^[extracted]
+- sACRED（2025-06 RedStone + Securitize）= 初の private credit fund が DeFi プロトコルでオンチェーン yield を取得 ^[extracted]
+- Christine Moy は 2022-04 に JPMorgan Onyx から Apollo に参画し「Partner, Digital Assets」就任 · ACRED の設計を主導 ^[extracted]
+- バックエンドの流動性の一部は BUIDL が提供（2025 年以降） ^[inferred]
 
 ## Mechanism / How it works
 
-ACRED 严格而言**不是 MMF**——它 tokenize 的是 Apollo Diversified Credit Fund,覆盖 corporate direct lending + asset-backed lending + performing/distressed credit + structured credit。但常被归入 tokenization 同组讨论:(1) 客户重合 (买 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 的机构也评估 ACRED);(2) 平台同源 (Securitize);(3) 渠道重叠 (Coinbase Asset Management / Kraken 同时分销)。**资产类别差异化是它的护城河**——BlackRock BUIDL 占政府 MMF 赛道,Apollo ACRED 占私募信贷赛道,**两个赛道几乎不重叠**,与 [[exchanges/rwa-tokenization-cex-integration|CEX RWA tokenization 集成]] 共享同一类机构客户。
+ACRED は厳密には **MMF ではない** — トークン化対象は Apollo Diversified Credit Fund で、corporate direct lending + asset-backed lending + performing/distressed credit + structured credit をカバーする。しかし tokenization 同類グループとして議論されることが多い: (1) 顧客が重複（[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] を購入する機関は ACRED も評価する）; (2) プラットフォーム同源（Securitize）; (3) チャネル重複（Coinbase Asset Management / Kraken が同時に販売）。**資産クラスの差別化がモート**である — BlackRock BUIDL は政府 MMF トラックを占有、Apollo ACRED は private credit トラックを占有、**2 つのトラックはほぼ重ならない**。[[exchanges/rwa-tokenization-cex-integration|CEX RWA tokenization 統合]] と同じカテゴリーの機関顧客を共有する。
 
 ## Origin & evolution
 
-2022-04 Christine Moy 离开 JPMorgan Onyx 加入 Apollo (Partner, Digital Assets, Data & AI Strategy)。在 JPM Onyx 期间她主导 JPM Coin、Onyx Digital Assets repo、与 BlackRock/Goldman 多家 tokenization PoC。加入 Apollo 后主导 ACRED 设计——ACRED 的多链部署 + Wormhole 跨链 + 与 DeFi 协议集成接口都带有强烈的 **JPM Onyx "基础设施中立 · 资产为王" 烙印**。2025-01-30 ACRED 主网。2025-06 sACRED 上线,首个 private credit fund 进入 DeFi yield。2026-05-11 Apollo 跻身 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Circle Arc]] $222M 私募投资人名单(同轮 BlackRock / ICE / SBI / a16z crypto / Standard Chartered)。
+2022-04 Christine Moy は JPMorgan Onyx から Apollo に参画（Partner, Digital Assets, Data & AI Strategy）。JPM Onyx 在籍中、彼女は JPM Coin、Onyx Digital Assets repo、BlackRock/Goldman などの tokenization PoC を主導した。Apollo 加入後は ACRED の設計を主導 — ACRED のマルチチェーン展開 + Wormhole クロスチェーン + DeFi プロトコル統合インターフェースには、**JPM Onyx 由来の「インフラ中立 · 資産優位」の刻印** が色濃く残る。2025-01-30 ACRED メインネット稼働。2025-06 sACRED ローンチで、初の private credit fund が DeFi yield に進出。2026-05-11 Apollo は [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Circle Arc]] $222M プライベート出資者リストに名を連ねた（同ラウンドに BlackRock / ICE / SBI / a16z crypto / Standard Chartered）。
 
 ## Counterpoints
 
-ACRED $100M+ AUM 仍远小于 BUIDL $2.58B,且 private credit 流动性本质较 MMF 差(底层资产无 daily 二级市场),T+0 赎回难度更高。Apollo 双押(Arc + Kinexys 双轨集成)在监管不确定性下也可能稀释执行力。**最大反向风险**:若 SEC / Treasury 把 sACRED 类 onchain private credit 衍生品认定为"未注册证券分销",ACRED DeFi yield 路径会被切断。
+ACRED の $100M+ AUM は BUIDL $2.58B に対して依然小規模であり、private credit の流動性は本質的に MMF より劣る（原資産にデイリーのセカンダリ市場がない）ため、T+0 償還の難易度は高い。Apollo の二刀流（Arc + Kinexys のデュアル統合）も規制の不確実性下では執行力を希釈する可能性がある。**最大の逆風リスク**: SEC / Treasury が sACRED 型 onchain private credit デリバティブを「未登録証券の販売」と認定した場合、ACRED の DeFi yield 経路は遮断される。
 
 ## Open questions
 
-Apollo 是否会推出 ACRED 之外的第二条 tokenization 产品线(infrastructure / real estate)?Christine Moy 个人作为 Apollo + Arc 双向桥梁能维持多久?BUIDL 会否反向进入 private credit 赛道直接竞争?
+Apollo は ACRED 以外の第 2 のトークン化プロダクトライン（infrastructure / real estate）を展開するか? Christine Moy は個人として Apollo + Arc の双方向の橋渡し役をどこまで維持できるか? BUIDL は逆方向に private credit トラックに進出して直接競争するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL 代币化 MMF 标杆]]
-- [[fintech/central-banking-function-unbundling|央行职能解体]]
-- [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构 · Arm 类比]]
+- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL トークン化 MMF のベンチマーク]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能のアンバンドリング]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ・ウィナー構造 · Arm 類比]]
 - [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]]
 <!-- /wiki-links:managed -->
 

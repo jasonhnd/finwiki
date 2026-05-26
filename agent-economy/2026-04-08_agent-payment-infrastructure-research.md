@@ -1,11 +1,11 @@
 ---
-title: Agent 支付基础设施研究报告
+title: Agent 決済インフラ調査レポート
 aliases: []
 domain: agent-economy
 kind: knowledge
 created: 2026-04-08
-last_updated: 2026-05-18
-last_tended: 2026-05-05
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-10-30
 confidence: possible
 tags: [needs-review]
@@ -17,59 +17,59 @@ sources:
   - "https://eips.ethereum.org/EIPS/eip-8004"
 ---
 
-# Agent 支付基础设施研究报告
+# Agent 決済インフラ調査レポート
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[agent-economy/skill-market-monetization|Skill 市场收费化]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/skill-market-monetization|Skill マーケット有料化]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
 > Public-source protocol snapshot | 2026-04-08
 
-## 一、协议标准格局
+## 一、プロトコル標準の構図
 
-当前 Agent 支付领域已形成**四大协议并立**的格局：
+現在の Agent 決済領域は既に **4 大プロトコル並立** の構図を形成している:
 
-1. **ACP (Agentic Commerce Protocol)** — Stripe 与 OpenAI 联合开发，Apache 2.0 开源。核心创新是 Shared Payment Token (SPT)，让 ChatGPT 等应用在不暴露用户支付凭证的情况下发起交易。已在 ChatGPT 中上线 Instant Checkout，支持 Etsy 卖家及百万 Shopify 商户。当前处于 Beta 阶段。([来源](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce))
+1. **ACP (Agentic Commerce Protocol)** — Stripe と OpenAI が共同開発、Apache 2.0 オープンソース。中核イノベーションは Shared Payment Token (SPT) で、ChatGPT 等のアプリがユーザーの決済資格情報を露出せずに取引を開始できる。既に ChatGPT で Instant Checkout がローンチされ、Etsy 出店者と数百万の Shopify マーチャントをサポート。現在は Beta 段階。([出典](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce))
 
-2. **x402 协议** — Coinbase 主导，2026年4月与 Linux Foundation 成立 x402 Foundation。复活 HTTP 402 状态码作为原生支付层，AI Agent 通过 USDC 稳定币直接在 HTTP 请求中完成支付。已在 Base 和 Solana 上线，Cloudflare Agent SDK 已集成。但实际日交易量仅约 $28,000，大部分为测试交易。([来源](https://www.x402.org/))
+2. **x402 プロトコル** — Coinbase 主導、2026 年 4 月に Linux Foundation 内で x402 Foundation を設立。HTTP 402 ステータスコードをネイティブ決済層として復活させ、AI Agent が USDC ステーブルコインで HTTP リクエスト内で直接決済する。Base と Solana でローンチ済み、Cloudflare Agent SDK が統合済み。ただし実際の日次取引量は約 $28,000 にとどまり、大半がテスト取引である。([出典](https://www.x402.org/))
 
-3. **AP2 (Agent Payments Protocol)** — Google 发起，60+ 合作方包括 Adyen、American Express、Mastercard、PayPal、Coinbase 等。设计为支付方式无关（支持信用卡、银行转账、加密货币）。已推出 A2A x402 Extension 支持链上加密支付。([来源](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol))
+3. **AP2 (Agent Payments Protocol)** — Google が発起、60+ の提携先には Adyen、American Express、Mastercard、PayPal、Coinbase 等が含まれる。決済手段非依存に設計(クレジットカード、銀行送金、暗号通貨をサポート)。既に A2A x402 Extension をリリースしオンチェーン暗号決済をサポート。([出典](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol))
 
-4. **MPP (Machine Payments Protocol)** — Stripe 与 Tempo 联合开发，2026年3月上线，已在 50+ 服务中实现（含 OpenAI、Anthropic、Google Gemini）。采用预付 Tab 模式：Agent 预存资金到托管合约，开启会话后通过 Voucher 逐笔扣款，适合高频微交易。([来源](https://getblock.io/blog/what-is-a-machine-payments-protocol-mpp/))
+4. **MPP (Machine Payments Protocol)** — Stripe と Tempo が共同開発、2026 年 3 月にローンチ、既に 50+ のサービスで実装(OpenAI、Anthropic、Google Gemini を含む)。プリペイド Tab モデルを採用:Agent が資金をエスクローコントラクトに事前デポジットし、セッション開始後 Voucher 経由で逐次控除する。高頻度マイクロトランザクションに適する。([出典](https://getblock.io/blog/what-is-a-machine-payments-protocol-mpp/))
 
-## 二、关键玩家
+## 二、主要プレイヤー
 
-| 玩家 | 产品 | 状态 | 特点 |
+| プレイヤー | プロダクト | 状況 | 特徴 |
 |------|------|------|------|
-| **Coinbase** | Agentic Wallets + x402 | 已上线(2026.2) | 50M+ 交易量，Base L2 优先，支持 USDC/ETH/BTC |
-| **Crossmint** | Embedded Agent Wallets | 已上线 | 双密钥模型(TEE)，同时支持稳定币和虚拟 Visa/MC 卡，覆盖 10 亿+ 商品 |
-| **Skyfire** | KYAPay | 已上线 | 支持法币和 USDC 充值，构建 Agent 信誉层 |
-| **Nevermined** | Agent 支付基础设施 | 已上线 | 内置计量、计费、卡代理，集成 x402 |
-| **Human.tech** | Agentic WaaP | 2026 发布 | Wallet as a Protocol，密码学强制人类监督 |
-| **Circle** | Gateway + CCTP + x402 | 已上线 | USDC 跨 30 条链，CCTP 连接 19 条链，$1260 亿总处理量 |
+| **Coinbase** | Agentic Wallets + x402 | ローンチ済(2026.2) | 50M+ の取引量、Base L2 優先、USDC/ETH/BTC をサポート |
+| **Crossmint** | Embedded Agent Wallets | ローンチ済 | デュアル鍵モデル(TEE)、ステーブルコインとバーチャル Visa/MC カードの両方をサポート、10 億+ の商品をカバー |
+| **Skyfire** | KYAPay | ローンチ済 | 法定通貨と USDC チャージをサポート、Agent 信用層を構築 |
+| **Nevermined** | Agent 決済インフラ | ローンチ済 | メータリング、課金、カードエージェントを内蔵、x402 と統合 |
+| **Human.tech** | Agentic WaaP | 2026 リリース | Wallet as a Protocol、暗号学で人間の監督を強制 |
+| **Circle** | Gateway + CCTP + x402 | ローンチ済 | USDC は 30 チェーンをカバー、CCTP は 19 チェーンを接続、$1260 億の総処理量 |
 
-## 三、身份与信任层
+## 三、ID と信頼レイヤー
 
-- **ERC-8004**：以太坊 AI Agent 身份标准，含身份注册、信誉注册、验证注册三大模块。BNB Chain 已部署主网。([来源](https://eips.ethereum.org/EIPS/eip-8004))
-- **KYA (Know Your Agent)**：类似 KYC 的 Agent 验证框架。Mastercard 2026年3月在澳洲完成首笔 Agent 支付，采用 Verifiable Intent 生成防篡改审计链。Sumsub 等验证平台已跟进。EU AI Act 高风险条款将于2026年8月生效，实质要求 KYA 能力。([来源](https://sumsub.com/blog/know-your-agent/))
-- **ERC-4337 + EIP-7702**：账户抽象为 Agent 钱包提供底层能力——Session Key、委托支出、Guardian 机制。已部署 4000 万+ 智能账户。
+- **ERC-8004**:Ethereum AI Agent ID 標準。ID 登録 · 信用登録 · 検証登録の 3 大モジュールを含む。BNB Chain は既にメインネットにデプロイ済み。([出典](https://eips.ethereum.org/EIPS/eip-8004))
+- **KYA (Know Your Agent)**:KYC に類比される Agent 検証フレームワーク。Mastercard は 2026 年 3 月にオーストラリアで初の Agent 決済を完了し、Verifiable Intent で改竄防止監査チェーンを生成。Sumsub 等の検証プラットフォームも追随。EU AI Act の高リスク条項が 2026 年 8 月に発効し、実質的に KYA 能力を要求する。([出典](https://sumsub.com/blog/know-your-agent/))
+- **ERC-4337 + EIP-7702**:アカウント抽象化が Agent ウォレットに基盤機能を提供 — Session Key、委任支出、Guardian メカニズム。既に 4000 万+ のスマートアカウントがデプロイ済み。
 
-## 四、市场数据
+## 四、市場データ
 
-- 2025 年 AI Agent 完成 **1.4 亿笔支付**，均值仅 $0.31/笔 ([来源](https://nevermined.ai/blog/ai-agent-payment-statistics))
-- 稳定币 2025 年交易量达 [[fintech/usd-stablecoin-interchange|**$33 万亿**]]，98.6% Agent 支付以 USDC 结算
-- AI Agent 市场预计 2025 年 $78.4 亿 → 2030 年 $526.2 亿 (CAGR 46.3%)
-- a16z 预测：定价将从"按席位"转向"按结果"，加密微支付将成为 [[agent-economy/skill-market-monetization|Agent 间实时结算工具]] ([来源](https://a16z.com/newsletter/big-ideas-2026-part-2/))
+- 2025 年に AI Agent が **1.4 億件の決済** を完了、平均値はわずか $0.31/件 ([出典](https://nevermined.ai/blog/ai-agent-payment-statistics))
+- ステーブルコインの 2025 年取引量は [[fintech/usd-stablecoin-interchange|**$33 兆**]] に到達、Agent 決済の 98.6% が USDC で決済された
+- AI Agent 市場は 2025 年 $78.4 億 → 2030 年 $526.2 億(CAGR 46.3%)と予測される
+- a16z の予測:価格設定は「席数ベース」から「成果ベース」へ転換し、暗号マイクロペイメントが [[agent-economy/skill-market-monetization|Agent 間リアルタイム決済ツール]] となる ([出典](https://a16z.com/newsletter/big-ideas-2026-part-2/))
 
-## 五、对 Agent 支付项目的启示
+## 五、Agent 決済プロジェクトへの示唆
 
-1. **时机窗口存在但在收窄**：四大协议已确立，Crossmint/Skyfire 等已抢占先机，但日活跃交易量极低（x402 仅 $28K/天），说明市场仍在早期。
-2. **差异化方向**：现有方案多聚焦 crypto-native 场景。[[fintech/ai-payment-two-tracks|法币-稳定币桥接]]、合规 KYA 集成、中国/亚洲市场支付方式（支付宝/微信→稳定币）仍是空白。
-3. **协议兼容而非重造**：应支持 x402/ACP/AP2/MPP 而非另起炉灶，在其上构建增值层。
-4. **微交易经济性**：Agent 支付均值 $0.31，要求极低手续费。Base/Solana 的 sub-cent 费用已可满足，关键在于结算效率和批量处理。
-5. **身份+支付捆绑**：ERC-8004 + KYA 正在成为合规底线，支付方案若内置身份层将具备监管优势。
+1. **タイミングウィンドウは存在するが縮小中**:4 大プロトコルは既に確立され、Crossmint/Skyfire 等が先手を取っているが、日次アクティブ取引量は極めて低い(x402 はわずか $28K/日)ことが市場がまだ初期段階にあることを示している。
+2. **差別化の方向**:既存の解決策の多くは crypto-native シナリオに集中している。[[fintech/ai-payment-two-tracks|法定通貨 - ステーブルコインのブリッジ]]、コンプラ KYA 統合、中国/アジア市場の決済手段(Alipay/WeChat → ステーブルコイン)は依然として空白である。
+3. **プロトコル互換であり再発明ではない**:x402/ACP/AP2/MPP をサポートし、自前で打ち立てるのではなく、その上に付加価値層を構築すべきである。
+4. **マイクロトランザクションの経済性**:Agent 決済の平均値は $0.31 で、極めて低い手数料を要求する。Base/Solana の sub-cent fee は既に要件を満たすが、鍵は決済効率とバッチ処理にある。
+5. **ID + 決済の抱き合わせ**:ERC-8004 + KYA がコンプラのボトムラインとなりつつあり、決済ソリューションが ID 層を内蔵すれば規制上の優位を持つ。
 
 ---
 
@@ -94,8 +94,8 @@ Sources:
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/agent-actorship-debate|Agent 主体性辩论：四个阵营]]
-- [[agent-economy/claude-code-extension-architecture|Claude Code 扩展组件架构——Agent 生态的基础设施分层]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]
-- [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式]]
+- [[agent-economy/agent-actorship-debate|Agent 主体性論争:4つの陣営]]
+- [[agent-economy/claude-code-extension-architecture|Claude Code 拡張コンポーネントアーキテクチャ — Agent エコシステムのインフラ階層]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造(JPYC・USDC・Project Pax)]]
+- [[fintech/ai-payment-two-tracks|AI 産業の二つの決済軌道:Stripe モデル vs ステーブルコインモデル]]
 <!-- /wiki-links:managed -->

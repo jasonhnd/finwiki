@@ -1,10 +1,10 @@
 ---
-title: Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)
+title: Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)
 aliases: [chainlink-ccip-institutional-messaging, ccip, chainlink-ccip, ccip-rmn]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, cross-chain, chainlink, ccip, swift, dtcc, institutional]
@@ -12,51 +12,51 @@ sources: []
 status: candidate
 ---
 
-# Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)
+# Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 验证机制 OCR2(预言机共识)+ RMN(独立第二网络交叉验证 · 可暂停可疑跨链) ^[extracted]
-- 链覆盖 20+(主流 EVM + Solana 2026 加入)· 少而深 ^[extracted]
-- 2024-09 SWIFT + 7 大银行(BNY / Lloyds / Citi / BNP / SIX / DTCC / Clearstream)完成 tokenized asset pilot ^[extracted]
-- 2026-Q1 扩展 pilot 到 ISO 20022 messaging on-chain ^[extracted]
-- 2026-Q3 计划:CCIP 作为 SWIFT on-chain messaging extension · 11,000+ SWIFT 节点可调用 ^[extracted]
-- 集成方包括 ANZ / Fidelity / BBVA 等机构 tokenization 跨链 ^[extracted]
-- Token Pool 模式:burn-and-mint 或 lock-and-release 机构友好 ^[extracted]
+- 検証メカニズム OCR2(oracle コンセンサス)+ RMN(独立した二次ネットワークによるクロス検証 · 疑わしいクロスチェーンを停止可能) ^[extracted]
+- チェーンカバレッジ 20+(主流 EVM + Solana が 2026 加入)· 少なく深く ^[extracted]
+- 2024-09 SWIFT + 7 大銀行(BNY / Lloyds / Citi / BNP / SIX / DTCC / Clearstream)がトークン化資産パイロットを完了 ^[extracted]
+- 2026-Q1 ISO 20022 messaging on-chain にパイロットを拡張 ^[extracted]
+- 2026-Q3 計画:CCIP を SWIFT on-chain messaging extension として · 11,000+ SWIFT ノードが呼び出し可能に ^[extracted]
+- 統合先には ANZ / Fidelity / BBVA 等の機関 tokenization クロスチェーンが含まれる ^[extracted]
+- Token Pool モデル:burn-and-mint または lock-and-release で機関フレンドリー ^[extracted]
 
 ## Mechanism / How it works
 
-CCIP Router 是统一接口:应用调一次即可发往任意支持链。底层验证由两个独立网络协同 —— **OCR2** 是 Chainlink 预言机网络做主共识(类似 Layer 0 共识),**RMN** 是完全独立的二级网络做交叉验证,任何异常状态(reorg / 桥被攻击 / 假签名)RMN 可立即暂停目标链 release。Token Pool 是统一抽象:USDC 走 burn-and-mint(对接 Circle CCTP),其他 ERC-20 走 lock-and-release。机构客户(银行 / DTCC)看重的是 Chainlink 统一保险 + 双层验证 + 去中心化预言机网络 —— 与 LayerZero 应用自负风险形成对比。
+CCIP Router は統一インタフェース:アプリケーションは 1 回呼び出すだけで任意のサポートチェーンに送信可能。基盤検証は 2 つの独立ネットワークが協調する —— **OCR2** は Chainlink oracle ネットワークが主コンセンサスを担う(Layer 0 コンセンサスに類似)、**RMN** は完全に独立した二次ネットワークがクロス検証を担い、異常状態(reorg / ブリッジ攻撃 / 偽署名)があれば RMN は宛先チェーンの release を即座に停止できる。Token Pool は統一抽象:USDC は burn-and-mint(Circle CCTP と接続)、その他 ERC-20 は lock-and-release を経由する。機関顧客(銀行 / DTCC)が重視するのは Chainlink の統一保険 + 二層検証 + 非中央集権 oracle ネットワーク —— LayerZero のアプリケーション自己責任とは対照的。
 
 ## Origin & evolution
 
-2022 Chainlink 宣布 CCIP 概念。2023-Q4 主网上线 · 早期客户 Synthetix / Aave。2024-09 SWIFT + 7 大银行完成 tokenized asset pilot · 是 CCIP 进入机构主流的里程碑。2025 ANZ / Fidelity / BBVA 等加入。2026-Q1 SWIFT 扩展 pilot 到 ISO 20022 on-chain messaging · 11,000+ SWIFT 节点的接入路径打开。2026-Q3 计划 CCIP 成为 SWIFT on-chain extension —— 这意味着 Chainlink 实际成为 SWIFT 的 blockchain 子层。同时与 Canton Network 协商集成 · 让 Canton MMF 可与公链 stablecoin 原子结算(参见 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 等 tokenized MMF 在 Canton 上的实际部署)· 这是公链 / 私链跨链的关键路径。
+2022 Chainlink が CCIP コンセプトを発表。2023-Q4 メインネット稼働 · 初期顧客 Synthetix / Aave。2024-09 SWIFT + 7 大銀行がトークン化資産パイロットを完了 · CCIP が機関主流に入るマイルストーン。2025 ANZ / Fidelity / BBVA 等が加入。2026-Q1 SWIFT が ISO 20022 on-chain messaging にパイロットを拡張 · 11,000+ SWIFT ノードの接続経路が開く。2026-Q3 計画 CCIP を SWIFT on-chain extension とする —— つまり Chainlink が実質的に SWIFT のブロックチェーンサブレイヤとなる。同時に Canton Network との統合を交渉 · Canton MMF が公開チェーンステーブルコインとアトミック決済できるようにする([[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 等のトークン化 MMF が Canton 上で実際にデプロイされている状況を参照)· これは公開/プライベートチェーン間クロスチェーンの重要経路。
 
 ## Counterpoints
 
-- RMN 至今未公开过实际暂停案例 · 其有效性未被市场压力测试
-- "SWIFT 11,000 节点" 的接入大多是远期承诺 · 实际 2026 落地节点数可能远低于宣传
-- 与 CCTP V2 在 USDC 跨链场景重叠 · Chainlink 必须在通用消息 + 多资产场景找差异化
-- Canton 集成进展缓慢 · 机构联盟的政治协调成本高
+- RMN は今までに実際の停止事例を公開しておらず · その有効性は市場のストレステストを受けていない
+- 「SWIFT 11,000 ノード」の接続の大半は遠期約束 · 実際 2026 に稼働するノード数は宣伝より遥かに少ない可能性
+- CCTP V2 と USDC クロスチェーンシナリオで重複 · Chainlink は汎用メッセージング + 多資産シナリオで差別化を見出さねばならない
+- Canton 統合の進捗は遅く · 機関連合の政治的調整コストは高い
 
 ## Open questions
 
-- CCIP 是否会被 SWIFT 收购或深度绑定成为 messaging 标准?
-- RMN 第一次被压力测试时是否真能阻止跨链攻击?
-- Chainlink 是否会与 Circle / Visa 形成更紧的机构联盟以抗衡 LayerZero 规模?(对比 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]] 的机构维度评分)
-- BIS Agora 等多 CBDC pilot 是否会优先采用 CCIP messaging?(参见 [[fintech/bis-project-agora-overview|BIS Agora overview]])
+- CCIP は SWIFT に買収または深く結びつき messaging 標準になるか?
+- RMN が初めてストレステストを受けた時、本当にクロスチェーン攻撃を阻止できるか?
+- Chainlink は LayerZero の規模に対抗するため Circle / Visa とより緊密な機関連合を形成するか?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] の機関次元評価と対比)
+- BIS Agora 等のマルチ CBDC パイロットは CCIP messaging を優先採用するか?([[fintech/bis-project-agora-overview|BIS Agora overview]] 参照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 · DeFi 对照]]
-- [[systems/cross-chain-four-poles-overview|跨链 4 极框架(CCTP/CCIP/LayerZero/Wormhole)]]
-- [[fintech/cross-border-sc-via-swift-api|SWIFT API 跨境稳定币桥]]
+- [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 · DeFi 対照]]
+- [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極フレーム(CCTP/CCIP/LayerZero/Wormhole)]]
+- [[fintech/cross-border-sc-via-swift-api|SWIFT API 越境ステーブルコインブリッジ]]
 <!-- /wiki-links:managed -->
 
 ## Sources

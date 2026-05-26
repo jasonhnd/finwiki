@@ -1,10 +1,10 @@
 ---
-title: Canton Network 概览 · DAML 智能合约的隐私机构链
+title: Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン
 aliases: [canton-overview, canton-network-overview, digital-asset-canton]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, dlt, privacy, canton, daml, institutional]
@@ -12,55 +12,55 @@ sources: []
 status: candidate
 ---
 
-# Canton Network 概览 · DAML 智能合约的隐私机构链
+# Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-daml-technical-spec|Canton DAML 技术规范 · 函数式金融合约 + Sub-transaction Privacy]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-daml-technical-spec|Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 创始成员 23+ 家:Digital Asset + Goldman Sachs + JPMorgan + DTCC + BNY Mellon + Cumberland + Microsoft + Paxos + DZ Bank 等 ^[extracted]
-- Global Synchronizer 2025 上线 · 全 Canton 统一协调层 ^[extracted]
-- $6T+ tokenized assets · 600+ 机构(2026-Q1 自我披露) ^[extracted]
-- Sub-transaction privacy 是 application 级数据隔离 · 不是 zero-knowledge proofs ^[extracted]
-- DAML 合约可跨应用调用——GS DAP 的 MMF 份额可与 Kinexys JPMD 原子结算 ^[extracted]
+- 創設メンバー 23+ 社:Digital Asset + Goldman Sachs + JPMorgan + DTCC + BNY Mellon + Cumberland + Microsoft + Paxos + DZ Bank 等 ^[extracted]
+- Global Synchronizer は 2025 稼働 · Canton 全体を統合する調整層 ^[extracted]
+- $6T+ tokenized assets · 600+ 機関(2026-Q1 自己開示) ^[extracted]
+- Sub-transaction privacy はアプリケーション級のデータ隔離 · zero-knowledge proofs ではない ^[extracted]
+- DAML 契約はアプリケーションを跨いで呼び出し可能 —— GS DAP の MMF 持分が Kinexys JPMD とアトミック決済可能 ^[extracted]
 
 ## Mechanism / How it works
 
-Canton 不是公链、不是单一银行私链,而是 **机构内部清算的 DLT 联盟**:
+Canton は公開チェーンでも単一銀行のプライベートチェーンでもなく、**機関内部清算のための DLT 連合**である:
 
-- **数据模型**:application-level data confidentiality——每个参与方只能看到与自己相关的交易,其他参与方对该交易的存在都不感知
-- **Global Synchronizer**:全 Canton 统一协调层,由 Digital Asset 联合运营,负责跨 application 的 transaction ordering
-- **Regulator Node 模型**:监管者作为参与方加入,可观察被授权范围内的交易
-- **跨应用互操作**:DAML 合约可跨 application 原子调用(GS DAP MMF 份额 ↔ Kinexys JPMD cash leg 原子结算)
+- **データモデル**:application-level data confidentiality —— 各参加者は自分に関係する取引のみを見ることができ、他の参加者は当該取引の存在自体を認知できない
+- **Global Synchronizer**:Canton 全体の統合調整層、Digital Asset が共同運営し、アプリケーション横断の transaction ordering を担う
+- **Regulator Node モデル**:監督者を参加者として組み込み、認可された範囲内の取引を観察可能
+- **アプリケーション間相互運用**:DAML 契約はアプリケーションを跨いでアトミック呼び出しが可能(GS DAP MMF 持分 ↔ Kinexys JPMD cash leg のアトミック決済)
 
-与公链根本差异:Canton 默认隔离 · 公链默认公开。这种设计直接对应机构客户的"商业机密 + 监管可见性"双需求。
+公開チェーンとの根本的差異:Canton はデフォルト隔離 · 公開チェーンはデフォルト公開。この設計は機関顧客の「商業機密 + 監督可視性」の双方要求に直接対応する。
 
 ## Origin & evolution
 
-Digital Asset 公司 2014 年由 Sunil Hirani(ICAP)和 Yuval Rooz 创立,初期专注金融机构的 DLT POC。2017-2019 间为澳交所(ASX)开发 CHESS replacement(后取消),期间 DAML 成型。2019-2023 间 Canton Network 概念逐步成熟,2024-2025 商业化加速,2026-Q1 进入"机构 tokenization 私链路线"代表平台地位。
+Digital Asset 社は 2014 年に Sunil Hirani(ICAP)と Yuval Rooz により創立、初期は金融機関の DLT POC に専念。2017-2019 年はオーストラリア証券取引所(ASX)向けに CHESS replacement を開発(後にキャンセル)、その期間中に DAML が成熟。2019-2023 年に Canton Network のコンセプトが徐々に成熟、2024-2025 年に商業化が加速、2026-Q1 で「機関 tokenization プライベートチェーン経路」代表プラットフォームの地位に至る。
 
-JPM Kinexys 的迁移路径是 Canton 商业化的关键里程碑:2025-11 至 2026-01 [[fintech/jpmorgan-jpmd-coin|JPMD]] 在 Base 上 ~$200M 流通 → 2026-01 宣布迁 Canton → 2026-Q2 已迁 $500M+,在迁 $1.5B+,计划 2026-Q4 完成。Base 残余 $50-100M 仅 Coinbase Custody 客户。
+JPM Kinexys の移行経路は Canton 商業化の重要なマイルストーン:2025-11 から 2026-01 の間 [[fintech/jpmorgan-jpmd-coin|JPMD]] は Base 上で ~$200M 流通 → 2026-01 に Canton 移行を発表 → 2026-Q2 までに $500M+ 移行済、$1.5B+ が移行中、2026-Q4 に完了予定。Base 残余 $50-100M は Coinbase Custody 顧客のみ。
 
 ## Counterpoints
 
-Canton 的"隐私 + 监管节点"模型本质是 **应用层信任假设的延伸**——不是密码学保证。这意味着 Digital Asset 公司或 Global Synchronizer 一旦被攻破或被法律强制披露,理论上可以暴露全部交易历史。这是与 zero-knowledge proof 路线(如 Aztec、Aleo)的根本差异。另一方面 Canton 作为联盟链,治理是 Digital Asset + 创始成员主导,新成员加入受限,这与公链的"无许可"形成对立。
+Canton の「プライバシー + 監督ノード」モデルは本質的に **アプリケーション層信頼前提の延長**である —— 暗号学的保証ではない。これは Digital Asset 社または Global Synchronizer が一度侵害されるか法的に開示を強制されれば、理論的に全取引履歴が暴露され得ることを意味する。これは zero-knowledge proof 路線(Aztec、Aleo 等)との根本的差異である。一方で Canton は連合チェーンとして、ガバナンスは Digital Asset + 創設メンバー主導であり、新規メンバーの加入は制限されており、これは公開チェーンの「permissionless」とは対立する。
 
 ## Open questions
 
-- $6T tokenized assets 数字的可验证性?(自我披露,缺少第三方审计)
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 是否会从 Canton 入驻 GS DAP 升级到深度合作?
-- Canton vs Hyperledger Besu vs R3 Corda 在欧盟、亚洲市场的竞争结局?
-- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED 等私募信贷代币化]] 是否会陆续迁入 Canton 联盟?
+- $6T tokenized assets という数字の検証可能性?(自己開示で第三者監査なし)
+- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] は Canton 入居から GS DAP との深い提携にアップグレードするか?
+- Canton vs Hyperledger Besu vs R3 Corda の EU、アジア市場における競争結果は?
+- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED 等のプライベートクレジット tokenization]] は順次 Canton 連合に移行するか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/canton-daml-technical-spec|Canton DAML Technical Spec]]
-- [[systems/canton-mmf-coalition|Canton MMF 联盟]]
-- [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton(公私链对照)]]
+- [[systems/canton-mmf-coalition|Canton MMF 連合]]
+- [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton(公開/プライベートチェーン対照)]]
 <!-- /wiki-links:managed -->
 
 ## Sources

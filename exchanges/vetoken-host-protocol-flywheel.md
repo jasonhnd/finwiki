@@ -1,12 +1,12 @@
 ---
-title: veToken × 主导方 DEX 自循环飞轮 —— L2/L1 主导方的链上闭环
+title: veToken × ホスト・プロトコル DEX 自己循環フライホイール — L2/L1 ホスト側のオンチェーン閉ループ
 aliases: [veToken flywheel, cbBTC veAERO flywheel, L2 host protocol flywheel, ve33 host alignment]
 domain: exchanges
 kind: knowledge
 topic: vetoken-host-protocol-flywheel
 created: 2026-05-16
-last_updated: 2026-05-16
-last_tended: 2026-05-16
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: certain
 tags: [fintech, defi, dex, vetoken, l2, base, aerodrome, coinbase, flywheel]
@@ -14,7 +14,7 @@ status: candidate
 sources: []
 ---
 
-# veToken × 主导方 DEX 自循环飞轮
+# veToken × ホスト・プロトコル DEX 自己循環フライホイール
 
 
 ## Wiki route
@@ -22,58 +22,58 @@ sources: []
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
 > [!info] TL;DR
-> L1/L2 主导方通过持有原生 DEX 的 ve 治理代币，引导 emission 流向自家关键资产池（如 wrapped BTC），既获得排他性流动性，又在该资产托管费上完成 **链上闭环回流主业**。Coinbase × Aerodrome × cbBTC 案例年化 **$130–250M**，是 EVM 多链历史中首个被定量验证的"主导方-DEX"自循环结构。
+> L1/L2のホスト側が原生DEXのve治理トークンを保有することで、emissionを自社の中核資産プール(wrapped BTC等)へ誘導 → 排他的流動性を獲得すると同時に、当該資産のカストディ手数料で**オンチェーン閉ループで本業へ還流**させる構造。Coinbase × Aerodrome × cbBTC 事例の年率は **$130-250M**で、EVMマルチチェーン史上初の定量検証された「ホスト側-DEX」自己循環構造。
 
-**核心机制**：
+**中核メカニズム**:
 
-1. L1/L2 主导方（运营公司或其投资部门）持有原生 DEX 的 ve 治理代币
-2. 用治理票引导 emission → 自家关键资产配对池（cbBTC/USDC、cbBTC/ETH 等）
-3. 排他性深度流动性吸引机构使用主导方的 wrapped 资产，扩大托管 AUM
-4. 托管费 / 储备金收益 / 借贷 spread **回流主业财报**（同样的反超动力学见 [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX 反超 incumbent]] 和 [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]）
-5. 主业现金流再投入 ve 头寸或 emission 引导，飞轮自加速
+1. L1/L2のホスト側(運営会社または投資部門)が原生DEXのve治理トークンを保有
+2. 治理票を用いてemissionを誘導 → 自社中核資産のペアプール(cbBTC/USDC、cbBTC/ETH 等)へ
+3. 排他的な深い流動性が機関にホスト側のwrapped資産利用を促し、カストディAUMが拡大
+4. カストディ手数料 / 準備金収益 / 貸出スプレッドが**本業の財務諸表へ還流**(同様の逆転動力学は [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX による incumbent 逆転]] と [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]] を参照)
+5. 本業のキャッシュフローが再度ve持分またはemission誘導に再投入され、フライホイールが自己加速
 
-**典型量级（cbBTC × veAERO × Coinbase）**：
+**典型的な規模感(cbBTC × veAERO × Coinbase)**:
 
-- cbBTC 在 Base TVL **$839M**，流通 **89,000 BTC**，市值 $6.1B
-- Aerodrome 在 Base DEX 量份额 **63%**，反超 Uniswap
-- 自循环年化估算 **$130–250M**（托管费 + 储备收益 + spread）
-- Aerodrome + Velodrome 2026 合并为 Aero（94.5% : 5.5%），扩张至 Ethereum L1 + Circle Arc，**飞轮跨链复制**
+- cbBTCのBase TVL **$839M**、流通 **89,000 BTC**、時価総額 $6.1B
+- AerodromeのBase上のDEX出来高シェア **63%**でUniswapを逆転
+- 自己循環の年率推定 **$130-250M**(カストディ手数料 + 準備金収益 + スプレッド)
+- Aerodrome + Velodromeは2026年にAeroへ統合(94.5%:5.5%)、Ethereum L1 + Circle Arcへ拡張し**フライホイールがクロスチェーン複製**
 
-**触发条件**：
+**発動条件**:
 
-- 主导方有 wrapped / native 资产（cbBTC、cbETH、sUSDe、stETH 等）
-- 链上 DEX 采用 ve(3,3) 类 emission 引导治理
-- 主导方持有 ve 头寸足够引导关键池子（一般 >10%）
-- 主导方 / DEX / 资产之间无监管禁止的关联交易约束
+- ホスト側がwrapped / native資産(cbBTC、cbETH、sUSDe、stETH等)を発行
+- オンチェーンDEXがve(3,3)型emission誘導治理を採用
+- ホスト側のve持分が中核プールを誘導するに十分な水準(一般に >10%)
+- ホスト側 / DEX / 資産間で規制上禁止される関連当事者取引制約が無い
 
-**通用性 / 可推广至**：
+**汎用性 / 横展開可能領域**:
 
-- Lido × Curve × ETH 主导方（历史早期范式）
-- Coinbase × Aerodrome × cbBTC / cbETH（本案）
-- 未来 Arc × Curve fork × USDC 配对池
-- 任何 L2 推出 wrapped BTC / native stablecoin 同时孵化 ve-DEX 的组合
+- Lido × Curve × ETH ホスト側(歴史的に最古のパラダイム)
+- Coinbase × Aerodrome × cbBTC / cbETH(本ケース)
+- 今後のArc × Curve fork × USDCペアプール
+- L2がwrapped BTC / native stablecoinを発表し、同時にve-DEXをインキュベートする任意の組み合わせ
 
-**反例 / 边界**：
+**反例 / 境界**:
 
-- 主导方不发原生 wrapped 资产时（如 Optimism 早期）飞轮缺失资产腿
-- DEX 不用 ve emission（如 Uniswap v2/v3）则无法引导
-- 资产池被 incumbent（Uniswap）锁定时，emission 引导效果递减
-- 主导方上市公司 / 合规体（如 Coinbase 是 SEC reporting issuer）需披露关联交易，财报会暴露飞轮利润
+- ホスト側がnative wrapped資産を発行しないケース(Optimism初期等)はフライホイールに資産足が欠ける
+- DEXがve emissionを採用しないケース(Uniswap v2/v3等)は誘導不可能
+- 資産プールがincumbent(Uniswap)にロックインされているケースではemission誘導効果が逓減
+- ホスト側が上場会社 / コンプライアンス・エンティティ(Coinbase等はSEC reporting issuer)の場合、関連当事者取引開示が必須で、フライホイール利益が財務諸表で露呈する
 
-**估值 / 决策含义**：
+**評価額 / 意思決定上の含意**:
 
-- 主导方估值应增加 "DEX-flywheel 现金流" 分项，单独折现
-- 反过来：DEX 的 veToken 估值受主导方"长期持仓"承诺影响，集中度风险显著
-- 飞轮可被 incumbent 反制（Uniswap 在 Base 失守即是直接案例）
-- 监管层（SEC / OCC）若界定为"未注册证券分销"，飞轮可被切断
+- ホスト側の評価額には「DEXフライホイール・キャッシュフロー」項を別建てで追加し、個別ディスカウントすべき
+- 逆方向:DEXのveToken評価額はホスト側の「長期保有」コミットメントの影響を受け、集中度リスクが顕著
+- フライホイールはincumbentによる反撃を受ける可能性あり(UniswapがBaseで防衛失敗した事例が直接の例)
+- 規制側(SEC / OCC)が「未登録証券販売」と認定した場合、フライホイールは切断され得る
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]]
-- [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX 反超 incumbent]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン金利分配の経済学]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street 暗号ネットワークの中立性]]
+- [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX による incumbent 逆転]]
 - [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]
 - [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]
 - [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure arm analog]]

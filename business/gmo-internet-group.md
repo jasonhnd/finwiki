@@ -6,8 +6,8 @@ aliases:
   - "GMOインターネットグループ"
 domain: "business"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [business, parent-company, payments, internet-infrastructure, finance, crypto]
@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]]. Read it against [[business/matt-huang-triple-role-coi-template|三重身份 COI 模板 · VC GP + 大客户 Board + 被投公司 CEO 三角不可复制结构]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[business/INDEX|business INDEX]]. Read it against [[business/matt-huang-triple-role-coi-template|三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

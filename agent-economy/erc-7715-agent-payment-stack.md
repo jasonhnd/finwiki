@@ -1,10 +1,10 @@
 ---
-title: ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同
+title: ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調
 aliases: [erc-7715-stack, agent-payment-stack, x402-ap2-7715-4337]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, agent-payment, erc-7715, x402, ap2]
@@ -12,69 +12,69 @@ sources: []
 status: candidate
 ---
 
-# ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同
+# ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調
 
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议总图 · 七协议格局概览]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- agent payment stack 四层结构 ^[inferred]
-- x402 处理 HTTP 层支付握手(Cloudflare/Coinbase/AWS 推动) ^[extracted]
-- AP2 / MPP / ACP 处理 agent 间协商 metadata ^[extracted]
-- ERC-7715 处理 wallet 给 agent 的授权 ^[extracted]
-- ERC-4337 / 7702 提供可编程 wallet 底层 ^[extracted]
-- 主流玩家:MetaMask Snaps / Coinbase Smart Wallet / Safe / Privy / Pimlico / ZeroDev ^[extracted]
+- agent payment stack の4層構造 ^[inferred]
+- x402 は HTTP 層の決済ハンドシェイクを担う(Cloudflare/Coinbase/AWS が推進) ^[extracted]
+- AP2 / MPP / ACP は agent 間の交渉メタデータを担う ^[extracted]
+- ERC-7715 は wallet から agent への認可を担う ^[extracted]
+- ERC-4337 / 7702 はプログラマブル wallet の基盤を提供する ^[extracted]
+- 主要プレイヤー:MetaMask Snaps / Coinbase Smart Wallet / Safe / Privy / Pimlico / ZeroDev ^[extracted]
 
 ## Mechanism / How it works
 
-**四层 stack 架构**:
+**4層 stack アーキテクチャ**:
 
-| 层 | 协议 | 作用 |
+| 層 | プロトコル | 役割 |
 |---|---|---|
-| **HTTP** | x402 | API 返回 402 + 支付指令 · client 完成支付后重试 |
-| **Agent 协商** | AP2 / MPP / ACP / A2A | mandate / intent metadata 标准 |
-| **Wallet 授权** | ERC-7715 | scoped permission 给 agent · 一次授权多次使用 |
-| **Wallet 底层** | ERC-4337 / 7702 | 可编程钱包(详见 [[systems/erc-4337-overview|ERC-4337]] 与 [[systems/erc-7702-overview|ERC-7702]]) · 支持 module / delegation |
+| **HTTP** | x402 | API が 402 + 決済指示を返却 · client が決済完了後リトライ |
+| **Agent 交渉** | AP2 / MPP / ACP / A2A | mandate / intent メタデータ標準 |
+| **Wallet 認可** | ERC-7715 | agent に scoped permission を付与 · 一度の認可で複数回利用 |
+| **Wallet 基盤** | ERC-4337 / 7702 | プログラマブル wallet([[systems/erc-4337-overview|ERC-4337]] と [[systems/erc-7702-overview|ERC-7702]] 参照) · module / delegation をサポート |
 
-**典型 agent 自动支付流程**:
-1. 用户授权 agent "每天可以花 $5 给 vercel.com API"(7715 scoped permission)
-2. agent 调用 Vercel API · Vercel 返回 HTTP 402 + USDC 支付指令(x402)
-3. agent 自动从 wallet 取出 $0.50 USDC 支付(在 7715 scope 内 · 无需用户签名)
-4. Vercel 验证支付 + 返回 API 响应
-5. 用户在 wallet UI 看到当日累计 $X.XX 给 Vercel · 可随时撤销 permission
+**典型的な agent 自動決済フロー**:
+1. ユーザーが agent に「毎日 $5 まで vercel.com API に支払ってよい」と認可(7715 scoped permission)
+2. agent が Vercel API を呼び出す · Vercel が HTTP 402 + USDC 決済指示を返却(x402)
+3. agent が wallet から $0.50 USDC を自動で取り出し決済(7715 scope 内 · ユーザー署名不要)
+4. Vercel が決済を検証し · API レスポンスを返却
+5. ユーザーは wallet UI で当日累計 $X.XX が Vercel に支払われたことを確認 · permission はいつでも撤回可能
 
-**Stripe Privy 整合潜力**:Stripe 通过 Privy(收购的)已经接入 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 嵌入式钱包]]。如果 Stripe + Privy + 7715 + AP2 整合 · **任何 SaaS 都可以接收 agent 的自动支付** · 无需信用卡号、无需 OAuth、无需订阅管理——这把 SaaS 计费层从 Stripe Billing(基于卡)迁移到链上 permission(基于地址 + scope)。详见 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 五层 Trojan horse]]。
+**Stripe Privy 統合のポテンシャル**:Stripe は Privy(買収済み)を通じて既に [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット]] に接続している。Stripe + Privy + 7715 + AP2 が統合されれば · **任意の SaaS が agent からの自動決済を受け取れる** · クレジットカード番号も OAuth も購読管理も不要 — SaaS の課金層を Stripe Billing(カード基盤)からオンチェーン permission(アドレス + scope 基盤)へ移行させる。詳細は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]] を参照。
 
-**主角分工**:
-- **MetaMask Snaps**:2025 实装 7715 · EOA + 7702 双模式
-- **Coinbase Smart Wallet**:原生支持 · 与 Coinbase Agent SDK 集成
-- **Safe{Core}**:Module 形式实装 · 机构 multi-sig + 子权限
-- **Privy**:集成 7715 + AP2 · Stripe agent 支付场景
-- **Pimlico / ZeroDev**:提供 7715 ↔ 4337 bundler 中间件
-- **Tempo / Arc**:潜在采用者——agent 经济是核心叙事
-- **JPM Kinexys**:不参与——permissioned 网络 · 权限模型走自有标准
+**主要プレイヤーの分業**:
+- **MetaMask Snaps**:2025 に 7715 実装 · EOA + 7702 デュアルモード
+- **Coinbase Smart Wallet**:ネイティブサポート · Coinbase Agent SDK と統合
+- **Safe{Core}**:Module 形式で実装 · 機関 multi-sig + サブ権限
+- **Privy**:7715 + AP2 を統合 · Stripe agent 決済シナリオ
+- **Pimlico / ZeroDev**:7715 ↔ 4337 bundler ミドルウェアを提供
+- **Tempo / Arc**:潜在的採用者 — agent 経済が中核の物語
+- **JPM Kinexys**:不参加 — permissioned ネットワーク · 権限モデルは独自標準
 
 ## Origin & evolution
 
-agent payment stack 概念在 2024-2025 间逐步成型——早期各协议(x402 / AP2 / 7715)分别由不同团队推动 · 2025 后期开始有意识地协同。Coinbase Smart Wallet 2025 演示"原生 agent 支付"是关键演示事件 · 表明四层 stack 可以端到端跑通。
+agent payment stack の概念は 2024-2025 にかけて徐々に成立した — 初期は各プロトコル(x402 / AP2 / 7715)を別チームが推進していたが、2025 後半から意識的な協調が始まった。Coinbase Smart Wallet が 2025 に披露した「ネイティブ agent 決済」デモは決定的な実証イベントであり、4層 stack のエンドツーエンドでの稼働を示した。
 
-Stripe 收购 Privy(2024)是 Web2 支付巨头第一次明确押注链上 permission 模型。预期 2026-2027 间会看到第一批 production agent SaaS 集成案例。
+Stripe による Privy 買収(2024)は、Web2 決済巨頭がオンチェーン permission モデルに明示的に賭けた初の事例である。2026-2027 にかけて最初の production 級 agent SaaS 統合事例が登場すると見込まれる。
 
 ## Counterpoints
 
-**协议碎片化风险**:x402 / AP2 / MPP / ACP / A2A 五种 agent 协商协议并存 · 加上 7715 / 4337 / 7702 wallet 层 · merchant 集成成本爆炸。如果不形成事实标准 · agent payment 可能停留在 demo 阶段。
+**プロトコル断片化リスク**:x402 / AP2 / MPP / ACP / A2A の5種類の agent 交渉プロトコルが並存し · さらに 7715 / 4337 / 7702 の wallet 層が加わり · マーチャントの統合コストが爆発する。事実上の標準が形成されなければ · agent payment はデモ段階に留まる可能性がある。
 
-**Stripe Billing 替代假设**:虽然技术上 7715 + AP2 可替代 Stripe Billing · 但 Stripe Billing 的非技术价值(信用卡争议解决 / chargeback / 反欺诈 / 财务 SaaS 整合)在链上 permission 模型下尚未完全复现。短期不会大规模迁移。
+**Stripe Billing 代替仮説**:技術的には 7715 + AP2 が Stripe Billing を代替し得るが · Stripe Billing の非技術的価値(クレカ紛争解決 / chargeback / 不正対策 / 財務 SaaS 統合)はオンチェーン permission モデルでまだ完全に再現されていない。短期的に大規模な移行は起きない。
 
 ## Open questions
 
-- 五种 agent 协商协议(x402/AP2/MPP/ACP/A2A)的事实标准何时出现?
-- Stripe + Privy + 7715 的具体产品形态?
-- 链上 permission 是否能提供 chargeback 等同保障?
-- 跨链 7715 permission(agent 在多链上花钱)的标准化?
+- 5種類の agent 交渉プロトコル(x402/AP2/MPP/ACP/A2A)の事実上の標準はいつ登場するか?
+- Stripe + Privy + 7715 の具体的なプロダクト形態は?
+- オンチェーン permission は chargeback と同等の保証を提供できるか?
+- クロスチェーン 7715 permission(agent が複数チェーン上で支出する)の標準化は?
 
 ## Related
 <!-- wiki-links:managed -->

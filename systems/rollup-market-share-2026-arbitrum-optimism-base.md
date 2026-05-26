@@ -1,10 +1,10 @@
 ---
-title: Rollup market share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea
+title: Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea
 aliases: [rollup market share 2026, arbitrum optimism base 2026, l2 tvl ranking 2026, base-led l2 growth, optimism superchain expansion, arbitrum stagnation, zksync linea scroll mid-tier, rollup ecosystem depth 2026, l2 governance maturity comparison]
 domain: systems
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [systems, matrix, rollup, l2, arbitrum, optimism, base, zksync, polygon-zkevm, scroll, linea, market-share, tvl, ecosystem, governance]
@@ -24,493 +24,493 @@ sources:
   - https://docs.base.org/
 ---
 
-# Rollup market share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea
+# Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea
 
 ## TL;DR
 
-- 7 个主流 Ethereum L2 rollup 在 2026-Q2 的 **TVL · 日活跃地址 · 日交易量 · sequencer revenue · gas cost · DEX 深度 · 借贷规模 · RWA · 治理成熟度 · 生态多样性 · DA 选型** 11 维度对照
-- **TVL 排名 2026-Q2 估算**:**Base ~$18B**(领跑 · 增长最快)· **Arbitrum ~$13B**(stagnant)· **Optimism ~$5B** · **zkSync Era ~$2.0B** · **Linea ~$1.2B** · **Polygon zkEVM ~$800M** · **Scroll ~$700M**
-- **Daily active addresses 排名**:Base ~3-5M · Arbitrum ~1-2M · Optimism ~600k-1M · zkSync ~400-700k · Linea ~300-500k · Polygon zkEVM ~150-300k · Scroll ~100-200k
-- **Base-led growth**:Coinbase 母公司流量 + Stripe / Shopify / Apple Pay 入口 + meme coin / consumer dApp dominant · 是 2024-2026 唯一 TVL 翻倍 + 用户翻倍的 L2
-- **Arbitrum stagnation**:技术领先(Nitro · Stylus · Orbit)但增长放缓 · DeFi-heavy 用户结构 · 缺消费者入口
-- **Optimism Superchain expansion**:OP Stack 框架让 ~30+ chain(Base · Mode · Worldcoin · Lyra · Polynomial · Zora · 等)加入 · 总 Superchain TVL 实际超 Arbitrum
-- **OP-rollup 主导 TVL · ZK-rollup 主导技术叙事**:OP rollup(Arbitrum · Optimism · Base)占 L2 总 TVL ~85%+ · ZK rollup(zkSync · Linea · Scroll · Polygon zkEVM · Taiko)占 ~15% 但被认为是长期方向
-- 路由:[[systems/INDEX|systems index]] · 与 [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] 和 [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 经济 2026]] 配对
+- 7 つの主流 Ethereum L2 rollup について 2026-Q2 時点での **TVL · 日次アクティブアドレス · 日次取引量 · sequencer revenue · gas cost · DEX 深度 · 借貸規模 · RWA · 治理成熟度 · エコシステム多様性 · DA 選定** の 11 軸で対照
+- **TVL 順位 2026-Q2 推定**:**Base ~$18B**(リード · 成長最速)· **Arbitrum ~$13B**(stagnant)· **Optimism ~$5B** · **zkSync Era ~$2.0B** · **Linea ~$1.2B** · **Polygon zkEVM ~$800M** · **Scroll ~$700M**
+- **日次アクティブアドレス順位**:Base ~3-5M · Arbitrum ~1-2M · Optimism ~600k-1M · zkSync ~400-700k · Linea ~300-500k · Polygon zkEVM ~150-300k · Scroll ~100-200k
+- **Base-led growth**:Coinbase 親会社のトラフィック + Stripe / Shopify / Apple Pay の入口 + meme coin / consumer dApp で dominant · 2024-2026 で唯一 TVL 倍増 + ユーザー倍増した L2
+- **Arbitrum stagnation**:技術リード(Nitro · Stylus · Orbit)だが成長減速 · DeFi-heavy なユーザー構造 · 消費者入口を欠く
+- **Optimism Superchain expansion**:OP Stack フレームにより ~30+ chain(Base · Mode · Worldcoin · Lyra · Polynomial · Zora 等)が加入 · Superchain 総 TVL は実際に Arbitrum を超える
+- **OP-rollup が TVL 主導 · ZK-rollup が技術ナラティブ主導**:OP rollup(Arbitrum · Optimism · Base)が L2 総 TVL の ~85%+ を占有 · ZK rollup(zkSync · Linea · Scroll · Polygon zkEVM · Taiko)は ~15% だが長期方向性とされる
+- ルーティング:[[systems/INDEX|systems index]] · [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] と [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 経済 2026]] とペアリング
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] for the technical maturity dimension that this entry's market share table summarizes economically, and [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 经济与 2026 市场影响]] for the underlying DA cost structure that determines rollup unit economics. Pair with [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 翻倍与 L2 经济连锁]] for the 2025-Q2 catalyst that reshaped sequencer margins. For the meta-strategy framing that makes Base / Arbitrum / Optimism the "ETH-aligned L2 oligopoly", see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For DA layer choice that differentiates rollups, see [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景对照]]. For cross-chain messaging between these rollups, see [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] and [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]]. For restaking-secured infrastructure that powers some rollup AVS (sequencer / DA), see [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]] and [[systems/eigenlayer-overview|EigenLayer overview]]. For the Solana ecosystem that competes for the same consumer / meme coin / DEX flow, see [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]].
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]] for the technical maturity dimension that this entry's market share table summarizes economically, and [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 経済と 2026 市場影響]] for the underlying DA cost structure that determines rollup unit economics. Pair with [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] for the 2025-Q2 catalyst that reshaped sequencer margins. For the meta-strategy framing that makes Base / Arbitrum / Optimism the "ETH-aligned L2 oligopoly", see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For DA layer choice that differentiates rollups, see [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]. For cross-chain messaging between these rollups, see [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] and [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]]. For restaking-secured infrastructure that powers some rollup AVS (sequencer / DA), see [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]] and [[systems/eigenlayer-overview|EigenLayer overview]]. For the Solana ecosystem that competes for the same consumer / meme coin / DEX flow, see [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]].
 
 ## Why this matrix matters
 
-L2 rollup 在 2023-2024 还是 "技术路线之争 + TVL 排行榜竞赛"。2024-2026 演化为成熟产业格局:**Base 一家独大消费者市场 · Arbitrum 占 DeFi-native · Optimism Superchain 走联邦化扩张 · ZK rollup 在 mid-tier 分割**。
+L2 rollup は 2023-2024 年において依然として「技術路線の争い + TVL ランキング競争」だった。2024-2026 年に成熟産業構造へ進化:**Base が消費者市場を独占 · Arbitrum が DeFi-native を占有 · Optimism Superchain が連邦化拡張 · ZK rollup が mid-tier を分割**。
 
-**为什么对照 7 个 L2 而不是更多**:
-- Base · Arbitrum · Optimism · zkSync Era · Linea · Polygon zkEVM · Scroll = 2026-Q2 TVL > $500M 的所有 L2
-- 排除:Blast(TVL > $500M 但 governance 不成熟 + 主要是 meme / yield farming)· Mantle(EigenDA 而非 L1 DA · 独立分析)· Taiko(TVL < $500M · 技术 reference 但市场份额小 · 见 [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK matrix]])· Manta Pacific / Eclipse(alt-DA · 独立 vertical)
+**なぜ 7 つの L2 を対照し、それ以上にしないか**:
+- Base · Arbitrum · Optimism · zkSync Era · Linea · Polygon zkEVM · Scroll = 2026-Q2 TVL > $500M のすべての L2
+- 除外:Blast(TVL > $500M だが治理が未成熟 + 主に meme / yield farming)· Mantle(EigenDA ベースで L1 DA ではない · 独立分析)· Taiko(TVL < $500M · 技術 reference だが市場シェア小 · [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK matrix]] を参照)· Manta Pacific / Eclipse(alt-DA · 独立 vertical)
 
-**机构客户(参见 [[systems/chainlink-ccip-institutional-messaging|CCIP institutional]])选 L2 时的决策维度**:
-- Stage 1 / Stage 2 decentralization(L2Beat 评级)
-- Governance maturity(谁能在 challenge window 内升级智能合约)
-- DA layer 选型(L1 blob vs alt-DA)
-- 生态多样性(DEX · 借贷 · RWA · stablecoin 流通)
-- Sequencer revenue 可持续性
+**機関顧客([[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] を参照)が L2 を選定する際の判断軸**:
+- Stage 1 / Stage 2 decentralization(L2Beat 評価)
+- 治理成熟度(challenge window 内でスマートコントラクトをアップグレードできるのは誰か)
+- DA layer 選定(L1 blob vs alt-DA)
+- エコシステム多様性(DEX · 借貸 · RWA · stablecoin 流通)
+- Sequencer revenue の持続可能性
 
-**DeFi 用户选 L2 时的决策维度**:
+**DeFi ユーザーが L2 を選定する際の判断軸**:
 - DEX 深度(slippage · liquidity)
-- 借贷利率 + risk(Aave · Compound · Morpho)
-- 桥接 cost + finality(参见 [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge matrix]])
-- Meme coin / consumer dApp 活跃度
+- 借貸利率 + リスク(Aave · Compound · Morpho)
+- ブリッジ cost + finality([[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge matrix]] を参照)
+- Meme coin / consumer dApp アクティビティ
 
-**Consumer dApp 选 L2 时的决策维度**:
-- Account Abstraction(参见 [[systems/erc-4337-overview|ERC-4337 overview]] 和 [[systems/erc-7702-overview|ERC-7702 overview]])
-- Gas sponsorship 工具
-- Onramp(法币入口 · stablecoin liquidity)
-- 用户基数(meme coin · 社交 · 游戏)
+**Consumer dApp が L2 を選定する際の判断軸**:
+- Account Abstraction([[systems/erc-4337-overview|ERC-4337 overview]] と [[systems/erc-7702-overview|ERC-7702 overview]] を参照)
+- Gas sponsorship ツール
+- Onramp(法定通貨入口 · stablecoin liquidity)
+- ユーザーベース(meme coin · ソーシャル · ゲーム)
 
-本矩阵对照 7 个公开运营的主流 L2 · 11 维度横向铺开 · 2026-Q2 数据快照。
+本マトリクスは 7 つの公開稼働中の主流 L2 を対照 · 11 軸を横断展開 · 2026-Q2 データスナップショット。
 
 ## Per-rollup sections
 
 ### Base (Coinbase)
 
-**TVL May 2026**:~$18B(L2 第一 · 是 2024-Q2 Base 上线 18 个月后达到 · 增速行业最快)。
+**TVL May 2026**:~$18B(L2 首位 · 2024-Q2 Base ローンチから 18 か月で達成 · 業界最速の成長)。
 
-**Daily active addresses**:~3-5M(L2 第一 · 远超 Arbitrum / Optimism)。
+**日次アクティブアドレス**:~3-5M(L2 首位 · Arbitrum / Optimism を大幅に上回る)。
 
-**Daily transaction volume**:~10-15M tx/day。
+**日次取引量**:~10-15M tx/day。
 
-**Sequencer revenue**:~$30-100M ARR(2026 估算 · 取决于 meme coin 周期)。
+**Sequencer revenue**:~$30-100M ARR(2026 推定 · meme coin サイクル次第)。
 
-**用户 gas cost**:Pectra 后 ~$0.0005-0.005 / simple transfer · sub-cent 体验稳定。
+**ユーザー gas cost**:Pectra 後 ~$0.0005-0.005 / simple transfer · sub-cent 体験が安定。
 
-**DEX 深度**:Aerodrome(主导 · ~$3-5B TVL · 是 Velodrome v2 fork 给 Base)· Uniswap v3 · Curve · BaseSwap · 等。Stablecoin pair 深度行业最深。
+**DEX 深度**:Aerodrome(主導 · ~$3-5B TVL · Velodrome v2 を Base にフォーク)· Uniswap v3 · Curve · BaseSwap 等。Stablecoin pair 深度は業界最深。
 
-**借贷规模**:Aave v3 on Base ~$2-4B · Morpho ~$500M-1B · Compound ~$300M-500M。
+**借貸規模**:Aave v3 on Base ~$2-4B · Morpho ~$500M-1B · Compound ~$300M-500M。
 
-**RWA**:Centrifuge · Maple · Stripe USDC settlement · PayPal PYUSD 流通。Coinbase USDC primary 入口让 Base 成为 RWA + stablecoin 流通最深的 L2。
+**RWA**:Centrifuge · Maple · Stripe USDC settlement · PayPal PYUSD 流通。Coinbase USDC primary 入口により Base は RWA + stablecoin 流通が最も深い L2 となる。
 
-**治理成熟度**:**Stage 1 decentralization**(L2Beat)· Coinbase 主导 sequencer · 计划 2026-2027 引入 decentralized sequencer。Upgrade:Security Council 7-of-13 + 7-day timelock。
+**治理成熟度**:**Stage 1 decentralization**(L2Beat)· Coinbase が sequencer 主導 · 2026-2027 に decentralized sequencer 導入計画。Upgrade:Security Council 7-of-13 + 7-day timelock。
 
-**生态多样性**:Consumer-heavy(DEX · meme coin · 社交 · 游戏)· Aerodrome / Friend.tech / Farcaster / Zora / Coinbase Smart Wallet · 等。DeFi 与消费应用平衡。
+**エコシステム多様性**:Consumer-heavy(DEX · meme coin · ソーシャル · ゲーム)· Aerodrome / Friend.tech / Farcaster / Zora / Coinbase Smart Wallet 等。DeFi と消費アプリのバランス。
 
-**DA layer**:Ethereum L1 blobs(EIP-4844)· 不计划 alt-DA。
+**DA layer**:Ethereum L1 blobs(EIP-4844)· alt-DA は計画なし。
 
-**关键优势**:
-- Coinbase 母公司流量入口(US 头部 CEX · 1.5亿+ 注册用户)
-- Stripe / Shopify / Apple Pay 集成(USDC settlement)
-- Coinbase Smart Wallet(原生 AA · 无需 ETH gas · 参见 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]])
-- 极低 gas + Aerodrome 深度让 meme coin / 消费 dApp 爆发
-- Base-only 项目(Friend.tech · Farcaster · Zora)给 Base 独特生态
+**主要優位**:
+- Coinbase 親会社トラフィック入口(US トップ CEX · 1.5 億+ 登録ユーザー)
+- Stripe / Shopify / Apple Pay 統合(USDC settlement)
+- Coinbase Smart Wallet(ネイティブ AA · ETH gas 不要 · [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]] を参照)
+- 極めて低い gas + Aerodrome 深度により meme coin / 消費 dApp が爆発
+- Base 専用プロジェクト(Friend.tech · Farcaster · Zora)が Base に独自エコシステムを提供
 
 ### Arbitrum (Offchain Labs)
 
-**TVL May 2026**:~$13B(L2 第二 · 2024-2025 stagnant · 2026 mild 回升因 Stylus 程序员吸引)。
+**TVL May 2026**:~$13B(L2 第二 · 2024-2025 stagnant · 2026 は Stylus 開発者吸引で穏やかに回復)。
 
-**Daily active addresses**:~1-2M(显著低于 Base · 但用户单 tx 价值更高)。
+**日次アクティブアドレス**:~1-2M(Base より顕著に低い · ただしユーザー単 tx あたりの価値はより高い)。
 
-**Daily transaction volume**:~4-6M tx/day。
+**日次取引量**:~4-6M tx/day。
 
 **Sequencer revenue**:~$30-70M ARR。
 
-**用户 gas cost**:Pectra 后 ~$0.001-0.01 / simple transfer。
+**ユーザー gas cost**:Pectra 後 ~$0.001-0.01 / simple transfer。
 
-**DEX 深度**:GMX(主导 perp · ~$1-2B TVL)· Uniswap v3 · Camelot · SushiSwap · TraderJoe · 等。Perp DEX 集中度高。
+**DEX 深度**:GMX(主導 perp · ~$1-2B TVL)· Uniswap v3 · Camelot · SushiSwap · TraderJoe 等。Perp DEX 集中度が高い。
 
-**借贷规模**:Aave v3 on Arbitrum ~$2-3B · Radiant ~$500M(2025 hack 后恢复)· Compound ~$300M。
+**借貸規模**:Aave v3 on Arbitrum ~$2-3B · Radiant ~$500M(2025 hack 後回復)· Compound ~$300M。
 
-**RWA**:相对少 · Arbitrum 不是 RWA 主选 L2。
+**RWA**:相対的に少ない · Arbitrum は RWA 主選 L2 ではない。
 
-**治理成熟度**:**Stage 1 decentralization**(L2Beat) · DAO 治理 + ARB token · Security Council 9-of-12 · BoLD(Bounded Liquidity Delay)证明系统 2025 上线让 Arbitrum 是首个 permissionless validator 的 OP rollup。
+**治理成熟度**:**Stage 1 decentralization**(L2Beat) · DAO 治理 + ARB token · Security Council 9-of-12 · BoLD(Bounded Liquidity Delay)証明システムが 2025 にローンチされ Arbitrum は OP rollup 中初の permissionless validator となる。
 
-**生态多样性**:DeFi-heavy(perp · spot · 借贷 · yield farming) · GMX / Camelot / Pendle / Vela · 等。消费应用较少。
+**エコシステム多様性**:DeFi-heavy(perp · spot · 借貸 · yield farming) · GMX / Camelot / Pendle / Vela 等。消費アプリは少ない。
 
-**DA layer**:Ethereum L1 blobs(主链)· Arbitrum Orbit 子链可选 AnyTrust(委员会 DA)或 EigenDA。
+**DA layer**:Ethereum L1 blobs(主チェーン)· Arbitrum Orbit 子チェーンは AnyTrust(委員会 DA)または EigenDA を選択可。
 
-**关键优势**:
-- 技术领先(Stylus · Rust/C++ 智能合约支持 · 是 EVM 之外的能力扩展)
-- BoLD permissionless validator 是 OP rollup 中最 advanced 的 decentralization
-- Arbitrum Orbit 框架让 ~20+ L3 / appchain 部署
-- DeFi-native 用户 base 稳定 · TVL 不易流失
+**主要優位**:
+- 技術リード(Stylus · Rust/C++ スマートコントラクトサポート · EVM 以外の能力拡張)
+- BoLD permissionless validator は OP rollup 中最も advanced な decentralization
+- Arbitrum Orbit フレームで ~20+ L3 / appchain を展開
+- DeFi-native ユーザーベースが安定 · TVL が流出しにくい
 
-**关键劣势**:
-- 缺消费者入口(无 Coinbase / Stripe 等价物)
-- DeFi-native 用户增长 saturate
-- TVL 在 2024-2025 stagnant · 2026 仅 mild 回升
+**主要劣位**:
+- 消費者入口を欠く(Coinbase / Stripe の同等物なし)
+- DeFi-native ユーザー成長が飽和
+- TVL が 2024-2025 stagnant · 2026 は穏やかな回復のみ
 
 ### Optimism (OP Labs)
 
-**TVL May 2026**:~$5B(L2 第三 · OP Labs 直接运营 · 但 OP Stack 子 chain TVL 大幅超过主链)。
+**TVL May 2026**:~$5B(L2 第三 · OP Labs が直接運営 · ただし OP Stack 子チェーン TVL が主チェーンを大きく超える)。
 
-**Daily active addresses**:~600k-1M(主链)+ Superchain 子链总和 ~5-8M(超 Base 主链单算)。
+**日次アクティブアドレス**:~600k-1M(主チェーン)+ Superchain 子チェーン総和 ~5-8M(Base 主チェーン単独より上)。
 
-**Daily transaction volume**:主链 ~2-3M tx/day · Superchain 总 ~15-25M tx/day。
+**日次取引量**:主チェーン ~2-3M tx/day · Superchain 総 ~15-25M tx/day。
 
-**Sequencer revenue**:主链 ~$10-25M ARR · OP Labs 通过 Superchain 收 sequencer revenue 分润 · 总 ~$30-60M ARR。
+**Sequencer revenue**:主チェーン ~$10-25M ARR · OP Labs は Superchain 経由で sequencer revenue 分配を受領 · 総 ~$30-60M ARR。
 
-**用户 gas cost**:Pectra 后 ~$0.001-0.01 / simple transfer。
+**ユーザー gas cost**:Pectra 後 ~$0.001-0.01 / simple transfer。
 
-**DEX 深度**:Velodrome(主导)· Uniswap v3 · Curve · 等。OP DEX 深度低于 Arbitrum 但高于 ZK rollup 主流。
+**DEX 深度**:Velodrome(主導)· Uniswap v3 · Curve 等。OP DEX 深度は Arbitrum より低いが ZK rollup 主流より高い。
 
-**借贷规模**:Aave v3 on Optimism ~$1-2B · Sonne · Granary · 等。
+**借貸規模**:Aave v3 on Optimism ~$1-2B · Sonne · Granary 等。
 
-**RWA**:Maker / Sky 在 OP 上有部分 deploy · 但不是 RWA 主选。
+**RWA**:Maker / Sky が OP 上に一部 deploy · ただし RWA 主選ではない。
 
-**治理成熟度**:**Stage 1 decentralization** · OP token DAO + Citizen House(双 house 治理) · Security Council + 7-day timelock。Superchain governance 在 OP Labs + 各 chain 团队之间分权。
+**治理成熟度**:**Stage 1 decentralization** · OP token DAO + Citizen House(双 house 治理) · Security Council + 7-day timelock。Superchain governance は OP Labs + 各チェーンチーム間で分権。
 
-**生态多样性**:DeFi + 部分消费(Worldcoin on OP Stack · Zora · Mode · Lyra · 等)· 是消费 dApp 第二大 L2 平台(Base 之外)。
+**エコシステム多様性**:DeFi + 一部消費(Worldcoin on OP Stack · Zora · Mode · Lyra 等)· 消費 dApp 第二の L2 プラットフォーム(Base 以外)。
 
-**DA layer**:Ethereum L1 blobs(主链 + 大部分 Superchain)· Mode 部分用 EigenDA · 某些 Superchain 测试 Celestia。
+**DA layer**:Ethereum L1 blobs(主チェーン + 大部分の Superchain)· Mode 一部は EigenDA · 一部 Superchain が Celestia をテスト。
 
-**关键优势**:
-- **OP Superchain 联邦化扩张**:Base · Worldcoin · Mode · Lyra · Polynomial · Zora · Soneium · Unichain · 等 ~30+ chain 加入 · 共享 sequencer + governance
-- OP Stack 是 modular rollup-as-a-service 主流框架之一
-- Superchain 总 TVL 实际超 Arbitrum(若把 Base 算 Superchain · ~$25B+)
-- Retroactive Public Goods Funding(RPGF)是 ecosystem incentive 创新
+**主要優位**:
+- **OP Superchain 連邦化拡張**:Base · Worldcoin · Mode · Lyra · Polynomial · Zora · Soneium · Unichain 等 ~30+ chain が加入 · sequencer + 治理を共有
+- OP Stack は modular rollup-as-a-service の主流フレームの 1 つ
+- Superchain 総 TVL が実際に Arbitrum を超える(Base を Superchain に算入すれば ~$25B+)
+- Retroactive Public Goods Funding(RPGF)は ecosystem incentive イノベーション
 
-**关键劣势**:
-- 主链本身 TVL stagnant · 增长全部在 Superchain 子链
-- Base 是 Superchain 最大子链 · 但 Coinbase 影响力让 Base 实际上是独立 brand · 不算 OP 直接受益
+**主要劣位**:
+- 主チェーン本体 TVL が stagnant · 成長はすべて Superchain 子チェーン
+- Base は Superchain 最大子チェーン · ただし Coinbase の影響力により Base は実質独立ブランド · OP 直接受益とはみなされない
 
 ### zkSync Era (Matter Labs)
 
-**TVL May 2026**:~$2.0B(ZK rollup 第一 · 含 ZK Stack hyperchain TVL ~$500M)。
+**TVL May 2026**:~$2.0B(ZK rollup 首位 · ZK Stack hyperchain TVL ~$500M を含む)。
 
-**Daily active addresses**:~400-700k。
+**日次アクティブアドレス**:~400-700k。
 
-**Daily transaction volume**:~2-3M tx/day。
+**日次取引量**:~2-3M tx/day。
 
 **Sequencer revenue**:~$15-30M ARR。
 
-**用户 gas cost**:Pectra 后 ~$0.001-0.005(Account Abstraction native · 用户可付 stablecoin / ZK token 而非 ETH)。
+**ユーザー gas cost**:Pectra 後 ~$0.001-0.005(Account Abstraction native · ユーザーは stablecoin / ZK token で支払い可能 · ETH 不要)。
 
-**DEX 深度**:SyncSwap(主导)· Maverick · Mute · 等。深度低于 Base / Arbitrum / Optimism。
+**DEX 深度**:SyncSwap(主導)· Maverick · Mute 等。深度は Base / Arbitrum / Optimism より低い。
 
-**借贷规模**:Aave v3 on zkSync ~$300-500M · Reactor · 等。
+**借貸規模**:Aave v3 on zkSync ~$300-500M · Reactor 等。
 
-**RWA**:相对少 · ZK rollup 普遍 RWA 不主流(institutional 偏 L1 + Polygon zkEVM)。
+**RWA**:相対的に少ない · ZK rollup は概して RWA 主流ではない(institutional は L1 + Polygon zkEVM 寄り)。
 
-**治理成熟度**:**Stage 1 decentralization**(L2Beat) · ZK token DAO + Matter Labs Foundation · Security Council 9-of-15 · 21-day timelock(从 1-day 升级 2024 后)。
+**治理成熟度**:**Stage 1 decentralization**(L2Beat) · ZK token DAO + Matter Labs Foundation · Security Council 9-of-15 · 21-day timelock(2024 後 1-day から延長)。
 
-**生态多样性**:DeFi-heavy + AA-native dApp(Argent · Braavos AA wallet 集成) · ZK Stack hyperchain(GRVT perpetual · Treasure gaming · Cronos zkEVM)。
+**エコシステム多様性**:DeFi-heavy + AA-native dApp(Argent · Braavos AA wallet 統合) · ZK Stack hyperchain(GRVT perpetual · Treasure gaming · Cronos zkEVM)。
 
-**DA layer**:Ethereum L1 blobs(主链)· ZK Stack hyperchain 可选 EigenDA / Celestia(参见 [[systems/data-availability-celestia-eigenda-blob-comparison|DA 对照]])。
+**DA layer**:Ethereum L1 blobs(主チェーン)· ZK Stack hyperchain は EigenDA / Celestia を選択可([[systems/data-availability-celestia-eigenda-blob-comparison|DA 対照]] を参照)。
 
-**关键优势**:
-- ZK rollup 中 TVL 最大
-- Account Abstraction native(无需 ERC-4337 包装 · 用户体验更顺畅)
-- ZK Stack 框架是 ZK rollup 的 modular RaaS 主流之一
-- Boojum prover 性能在 ZK rollup 中领先
+**主要優位**:
+- ZK rollup 中で TVL 最大
+- Account Abstraction native(ERC-4337 包装不要 · ユーザー体験がよりスムーズ)
+- ZK Stack フレームは ZK rollup の modular RaaS 主流の 1 つ
+- Boojum prover 性能が ZK rollup 中でリード
 
-**关键劣势**:
-- Type 4 EVM compatibility(不同 bytecode · 需要 dev tooling 适配)
-- 没有 Coinbase / Stripe 等消费者入口
-- 用户增长比 Linea(借 MetaMask 流量)慢
+**主要劣位**:
+- Type 4 EVM compatibility(異なる bytecode · dev tooling 対応が必要)
+- Coinbase / Stripe 等の消費者入口を欠く
+- ユーザー成長は Linea(MetaMask トラフィック借用)より遅い
 
 ### Linea (Consensys)
 
-**TVL May 2026**:~$1.2B(ZK rollup 第二 · 借 MetaMask 流量优势)。
+**TVL May 2026**:~$1.2B(ZK rollup 第二 · MetaMask トラフィック優位)。
 
-**Daily active addresses**:~300-500k。
+**日次アクティブアドレス**:~300-500k。
 
-**Daily transaction volume**:~1-2M tx/day。
+**日次取引量**:~1-2M tx/day。
 
 **Sequencer revenue**:~$10-25M ARR。
 
-**用户 gas cost**:Pectra 后 ~$0.002-0.01 / simple transfer。
+**ユーザー gas cost**:Pectra 後 ~$0.002-0.01 / simple transfer。
 
-**DEX 深度**:Lynex(主导)· iZUMi · Mendi · 等。中等深度。
+**DEX 深度**:Lynex(主導)· iZUMi · Mendi 等。中等深度。
 
-**借贷规模**:Aave v3 on Linea ~$200-400M · Mendi · ZeroLend · 等。
+**借貸規模**:Aave v3 on Linea ~$200-400M · Mendi · ZeroLend 等。
 
-**RWA**:MetaMask Institutional 是 Consensys 产品 · 部分 institutional pilot 在 Linea。
+**RWA**:MetaMask Institutional は Consensys 製品 · 一部 institutional pilot が Linea 上にある。
 
-**治理成熟度**:**Stage 1 decentralization** · Consensys 主导 · Security Council 7-of-13 · 7-day timelock · 计划 2026-2027 引入 LINEA token DAO。
+**治理成熟度**:**Stage 1 decentralization** · Consensys 主導 · Security Council 7-of-13 · 7-day timelock · 2026-2027 LINEA token DAO 導入計画。
 
-**生态多样性**:DeFi + Consensys 集成(MetaMask · Infura · Truffle 工具链原生支持)· dApp 多 MetaMask 集成案例。
+**エコシステム多様性**:DeFi + Consensys 統合(MetaMask · Infura · Truffle ツールチェーンネイティブサポート)· dApp に MetaMask 統合事例が多い。
 
-**DA layer**:Ethereum L1 blobs only(Consensys 立场 "all on-chain")。
+**DA layer**:Ethereum L1 blobs only(Consensys のスタンス「all on-chain」)。
 
-**关键优势**:
-- MetaMask 集成(MetaMask 是 EVM 钱包市场份额第一 · ~30M+ MAU · 默认推荐 Linea)
-- Consensys 工具链生态深度(Infura · Truffle · Hardhat 等)
+**主要優位**:
+- MetaMask 統合(MetaMask は EVM ウォレット市場シェア首位 · ~30M+ MAU · デフォルトで Linea を推奨)
+- Consensys ツールチェーンエコシステムの深さ(Infura · Truffle · Hardhat 等)
 - Institutional pilot 入口(MetaMask Institutional)
 
-**关键劣势**:
-- TVL 主要靠 MetaMask 流量 · 不是有机增长
-- 缺消费者 dApp 入口
-- ZK rollup 但 Type 2(EVM-equivalent)而非 Type 1 · 长期 prove cost 不优
+**主要劣位**:
+- TVL は主に MetaMask トラフィックに依存 · 有機的成長ではない
+- 消費者 dApp 入口を欠く
+- ZK rollup だが Type 2(EVM-equivalent)で Type 1 ではない · 長期 prove cost が優位ではない
 
 ### Polygon zkEVM / AggLayer (Polygon Labs)
 
-**TVL May 2026**:~$800M(包含 AggLayer 联邦)。
+**TVL May 2026**:~$800M(AggLayer 連邦を含む)。
 
-**Daily active addresses**:~150-300k(主链)+ AggLayer 子 chain 总和 ~500k-1M。
+**日次アクティブアドレス**:~150-300k(主チェーン)+ AggLayer 子チェーン総和 ~500k-1M。
 
-**Daily transaction volume**:~500k-1M tx/day。
+**日次取引量**:~500k-1M tx/day。
 
 **Sequencer revenue**:~$5-15M ARR。
 
-**用户 gas cost**:Pectra 后 ~$0.001-0.005 / simple transfer。
+**ユーザー gas cost**:Pectra 後 ~$0.001-0.005 / simple transfer。
 
-**DEX 深度**:QuickSwap(主导)· Uniswap v3 · Balancer · 等。中等深度。
+**DEX 深度**:QuickSwap(主導)· Uniswap v3 · Balancer 等。中等深度。
 
-**借贷规模**:Aave v3 on Polygon zkEVM ~$100-300M · 其他 lending 协议较小。
+**借貸規模**:Aave v3 on Polygon zkEVM ~$100-300M · その他 lending プロトコルは小さい。
 
-**RWA**:**Franklin Templeton FOBXX pilot**(2024)· 多 enterprise pilot · 是 ZK rollup 中 RWA 最深的(institutional pilot 偏 Polygon)。
+**RWA**:**Franklin Templeton FOBXX pilot**(2024)· 複数 enterprise pilot · ZK rollup 中で RWA が最も深い(institutional pilot は Polygon 寄り)。
 
 **治理成熟度**:**Stage 1 decentralization** · Polygon Foundation + POL token DAO · Security Council 7-of-13 · 7-day timelock。
 
-**生态多样性**:DeFi + enterprise dApp + identity(Polygon ID)· 多元化。AggLayer 联邦 Polygon zkEVM + 其他 zkEVM chain + Astar zkEVM。
+**エコシステム多様性**:DeFi + enterprise dApp + identity(Polygon ID)· 多元化。AggLayer 連邦 Polygon zkEVM + 他 zkEVM chain + Astar zkEVM。
 
-**DA layer**:Ethereum L1 blobs default + 提供 validium 模式(DAC 7-of-9 多签) · enterprise / 私密链可选。
+**DA layer**:Ethereum L1 blobs default + validium モード(DAC 7-of-9 マルチシグ)を提供 · enterprise / プライベートチェーンが選択可。
 
-**关键优势**:
-- Polygon PoS chain(EVM L1 sidechain · 不在本 matrix · 但 Polygon 整体品牌强)迁移到 Polygon zkEVM 是部分流量来源
-- AggLayer 联邦让多 zkEVM chain 共享 settlement · 是 ZK rollup 中 modular RaaS 框架
-- Enterprise pilot 入口领先(Franklin Templeton · 多家银行 pilot)
-- Polygon ID(decentralized identity)+ zkEVM 是 institutional KYC/AML 友好组合
+**主要優位**:
+- Polygon PoS chain(EVM L1 sidechain · 本マトリクスに含まれず · ただし Polygon ブランド全体は強い)から Polygon zkEVM への移行が一部トラフィック源
+- AggLayer 連邦により複数 zkEVM chain が settlement を共有 · ZK rollup 中の modular RaaS フレーム
+- Enterprise pilot 入口でリード(Franklin Templeton · 複数銀行 pilot)
+- Polygon ID(decentralized identity)+ zkEVM は institutional KYC/AML フレンドリーな組み合わせ
 
-**关键劣势**:
-- TVL 增长慢于 zkSync / Linea
-- Polygon PoS chain 流量迁移到 zkEVM 不顺畅(用户感受 Polygon zkEVM 是新链)
-- Type 2.5 EVM compatibility · 不是 Type 1
+**主要劣位**:
+- TVL 成長は zkSync / Linea より遅い
+- Polygon PoS chain のトラフィック移行が zkEVM にスムーズでない(ユーザーは Polygon zkEVM を新規チェーンと感じる)
+- Type 2.5 EVM compatibility · Type 1 ではない
 
 ### Scroll (Scroll Foundation)
 
-**TVL May 2026**:~$700M(ZK rollup 中 EVM-equivalent 路线最纯)。
+**TVL May 2026**:~$700M(ZK rollup 中 EVM-equivalent 路線が最も純粋)。
 
-**Daily active addresses**:~100-200k。
+**日次アクティブアドレス**:~100-200k。
 
-**Daily transaction volume**:~500k-1M tx/day。
+**日次取引量**:~500k-1M tx/day。
 
 **Sequencer revenue**:~$5-15M ARR。
 
-**用户 gas cost**:Pectra 后 ~$0.005-0.02 / simple transfer。
+**ユーザー gas cost**:Pectra 後 ~$0.005-0.02 / simple transfer。
 
-**DEX 深度**:Aave · Uniswap · Pendle · GMX 主流都 deploy · 但 Scroll 上 native DEX 较少。
+**DEX 深度**:Aave · Uniswap · Pendle · GMX 主流すべて deploy · ただし Scroll 上 native DEX は少ない。
 
-**借贷规模**:Aave v3 on Scroll ~$200-400M。
+**借貸規模**:Aave v3 on Scroll ~$200-400M。
 
-**RWA**:相对少 · 但 Scroll 的 "EVM-equivalent + L1 DA 纯度" 让一些 institutional pilot 偏 Scroll。
+**RWA**:相対的に少ない · ただし Scroll の「EVM-equivalent + L1 DA 純度」により一部 institutional pilot が Scroll 寄り。
 
-**治理成熟度**:**Stage 1 decentralization** · Scroll Foundation + 学术血统(PSE 长期合作) · Security Council 7-of-13 · 7-day timelock · 计划 2026-2027 引入 SCR token DAO。
+**治理成熟度**:**Stage 1 decentralization** · Scroll Foundation + 学術血統(PSE と長期協業) · Security Council 7-of-13 · 7-day timelock · 2026-2027 SCR token DAO 導入計画。
 
-**生态多样性**:DeFi-heavy(Aave / Uniswap / Pendle / GMX 主流 fork)· 缺独特 native dApp。Scroll Canvas 是 onboarding 工具。
+**エコシステム多様性**:DeFi-heavy(Aave / Uniswap / Pendle / GMX 主流 fork)· 独自 native dApp を欠く。Scroll Canvas は onboarding ツール。
 
-**DA layer**:Ethereum L1 blobs only(明确不 validium 立场)。
+**DA layer**:Ethereum L1 blobs only(validium しない明確なスタンス)。
 
-**关键优势**:
-- Type 2 EVM-equivalent(99% bytecode-level 兼容 · 主流 dApp 零修改 deploy)
-- 学术血统强(与 PSE / Ethereum Foundation 长期合作)
-- L1 DA 纯度立场(institutional friendly)
+**主要優位**:
+- Type 2 EVM-equivalent(99% bytecode-level 互換 · 主流 dApp はゼロ修正で deploy)
+- 学術血統が強い(PSE / Ethereum Foundation と長期協業)
+- L1 DA 純度のスタンス(institutional friendly)
 
-**关键劣势**:
-- TVL 增长慢 · 缺独特 catalyst
-- 没有 Coinbase / MetaMask / Consensys 类大流量入口
-- 用户感受与其他 ZK rollup 类似 · 缺差异化 brand
+**主要劣位**:
+- TVL 成長が遅い · 独自 catalyst を欠く
+- Coinbase / MetaMask / Consensys 類の大量トラフィック入口がない
+- ユーザー感覚は他 ZK rollup と類似 · 差別化ブランドを欠く
 
 ## Big comparison matrix table
 
-**7 个主流 L2 rollup × 11 维度对照**(2026-Q2 状态):
+**7 つの主流 L2 rollup × 11 軸対照**(2026-Q2 状態):
 
-| Rollup | TVL May 2026 | Daily Active | Daily Tx | Sequencer Revenue | User Gas | DEX 深度 | 借贷规模 | RWA | 治理成熟度 | 生态特色 | DA Layer |
+| Rollup | TVL May 2026 | Daily Active | Daily Tx | Sequencer Revenue | User Gas | DEX 深度 | 借貸規模 | RWA | 治理成熟度 | エコシステム特色 | DA Layer |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **Base (Coinbase)** | **~$18B (L2 第一)** | **3-5M (第一)** | 10-15M | $30-100M ARR | $0.0005-0.005 | Aerodrome $3-5B · Uniswap · Curve | Aave $2-4B · Morpho $500M-1B | Stripe USDC · PayPal PYUSD · Centrifuge | Stage 1 · SC 7/13 · 7d timelock | Consumer-heavy · meme/social/game · Coinbase Smart Wallet | L1 blobs only |
-| **Arbitrum** | ~$13B (第二) | 1-2M | 4-6M | $30-70M ARR | $0.001-0.01 | GMX $1-2B perp · Uniswap · Camelot | Aave $2-3B · Radiant $500M | 相对少 | Stage 1 · DAO+ARB · SC 9/12 · BoLD permissionless | **Stylus (Rust/C++)** · DeFi-heavy · Orbit L3 框架 | L1 blobs + Orbit 可选 AnyTrust/EigenDA |
-| **Optimism + Superchain** | ~$5B 主链 · Superchain 总 ~$25B+ | 600k-1M 主链 · Superchain 5-8M | 主 2-3M · Superchain 15-25M | $30-60M ARR (含分润) | $0.001-0.01 | Velodrome 主导 · Uniswap | Aave $1-2B · Sonne | Maker 部分 | Stage 1 · OP DAO + Citizen House · SC + 7d timelock | **OP Superchain 联邦 ~30+ chain** · Worldcoin/Zora/Mode/Soneium | L1 blobs (主) · Mode EigenDA · 部分测 Celestia |
-| **zkSync Era** | ~$2.0B (ZK 第一) | 400-700k | 2-3M | $15-30M ARR | $0.001-0.005 · **AA native** | SyncSwap · Maverick | Aave $300-500M | 少 | Stage 1 · ZK DAO · SC 9/15 · 21d timelock | DeFi + **AA native** · ZK Stack hyperchain(GRVT/Treasure/Cronos) | L1 blobs · hyperchain 可选 EigenDA/Celestia |
-| **Linea (Consensys)** | ~$1.2B | 300-500k | 1-2M | $10-25M ARR | $0.002-0.01 | Lynex · Mendi 中等 | Aave $200-400M | MetaMask Institutional pilot | Stage 1 · Consensys 主导 · SC 7/13 · 7d timelock | **MetaMask 集成** · Infura/Truffle 工具链 | L1 blobs only (all on-chain 立场) |
-| **Polygon zkEVM/AggLayer** | ~$800M (含 AggLayer) | 150-300k 主 · AggLayer 总 500k-1M | 500k-1M | $5-15M ARR | $0.001-0.005 | QuickSwap · Uniswap · Balancer | Aave $100-300M | **Franklin Templeton FOBXX pilot** · 多 enterprise pilot | Stage 1 · POL DAO · SC 7/13 · 7d timelock | DeFi + enterprise + **Polygon ID** · AggLayer 联邦 | L1 blobs + Validium 模式(DAC 7/9) |
-| **Scroll** | ~$700M | 100-200k | 500k-1M | $5-15M ARR | $0.005-0.02 | Aave/Uniswap/Pendle/GMX 主流 | Aave $200-400M | 少 · 但 L1 DA 纯度吸引部分 institutional | Stage 1 · Scroll Foundation · SC 7/13 · 7d timelock | DeFi-heavy · **Type 2 EVM-equivalent** · 学术血统 (PSE) | L1 blobs only (明确不 validium) |
+| **Base (Coinbase)** | **~$18B (L2 首位)** | **3-5M (首位)** | 10-15M | $30-100M ARR | $0.0005-0.005 | Aerodrome $3-5B · Uniswap · Curve | Aave $2-4B · Morpho $500M-1B | Stripe USDC · PayPal PYUSD · Centrifuge | Stage 1 · SC 7/13 · 7d timelock | Consumer-heavy · meme/social/game · Coinbase Smart Wallet | L1 blobs only |
+| **Arbitrum** | ~$13B (第二) | 1-2M | 4-6M | $30-70M ARR | $0.001-0.01 | GMX $1-2B perp · Uniswap · Camelot | Aave $2-3B · Radiant $500M | 相対的に少ない | Stage 1 · DAO+ARB · SC 9/12 · BoLD permissionless | **Stylus (Rust/C++)** · DeFi-heavy · Orbit L3 フレーム | L1 blobs + Orbit が AnyTrust/EigenDA を選択可 |
+| **Optimism + Superchain** | ~$5B 主チェーン · Superchain 総 ~$25B+ | 600k-1M 主チェーン · Superchain 5-8M | 主 2-3M · Superchain 15-25M | $30-60M ARR (分配含む) | $0.001-0.01 | Velodrome 主導 · Uniswap | Aave $1-2B · Sonne | Maker 一部 | Stage 1 · OP DAO + Citizen House · SC + 7d timelock | **OP Superchain 連邦 ~30+ chain** · Worldcoin/Zora/Mode/Soneium | L1 blobs (主) · Mode EigenDA · 一部 Celestia テスト |
+| **zkSync Era** | ~$2.0B (ZK 首位) | 400-700k | 2-3M | $15-30M ARR | $0.001-0.005 · **AA native** | SyncSwap · Maverick | Aave $300-500M | 少ない | Stage 1 · ZK DAO · SC 9/15 · 21d timelock | DeFi + **AA native** · ZK Stack hyperchain(GRVT/Treasure/Cronos) | L1 blobs · hyperchain は EigenDA/Celestia を選択可 |
+| **Linea (Consensys)** | ~$1.2B | 300-500k | 1-2M | $10-25M ARR | $0.002-0.01 | Lynex · Mendi 中等 | Aave $200-400M | MetaMask Institutional pilot | Stage 1 · Consensys 主導 · SC 7/13 · 7d timelock | **MetaMask 統合** · Infura/Truffle ツールチェーン | L1 blobs only (all on-chain スタンス) |
+| **Polygon zkEVM/AggLayer** | ~$800M (AggLayer 含む) | 150-300k 主 · AggLayer 総 500k-1M | 500k-1M | $5-15M ARR | $0.001-0.005 | QuickSwap · Uniswap · Balancer | Aave $100-300M | **Franklin Templeton FOBXX pilot** · 複数 enterprise pilot | Stage 1 · POL DAO · SC 7/13 · 7d timelock | DeFi + enterprise + **Polygon ID** · AggLayer 連邦 | L1 blobs + Validium モード(DAC 7/9) |
+| **Scroll** | ~$700M | 100-200k | 500k-1M | $5-15M ARR | $0.005-0.02 | Aave/Uniswap/Pendle/GMX 主流 | Aave $200-400M | 少ない · ただし L1 DA 純度が一部 institutional を惹きつける | Stage 1 · Scroll Foundation · SC 7/13 · 7d timelock | DeFi-heavy · **Type 2 EVM-equivalent** · 学術血統 (PSE) | L1 blobs only (validium しない明示) |
 
-**矩阵读法**:
-- **TVL 排序**:Base > Arbitrum > Optimism (主链) > zkSync > Linea > Polygon zkEVM > Scroll · 但若把 Superchain 整体算 Optimism · 则 OP Superchain > Base > Arbitrum
-- **Daily active addresses 排序**:Base 第一 + 显著领先 · Arbitrum / Optimism 中等 · ZK rollup 都较小
-- **Sequencer revenue 排序**:Base ≈ Arbitrum ≈ Optimism(三巨头各 $30-70M ARR)· ZK rollup 各 $5-30M ARR
-- **生态深度**:Base = consumer + DeFi · Arbitrum = DeFi 专精 · Optimism = Superchain 联邦 · zkSync = AA native · Linea = MetaMask 流量 · Polygon zkEVM = enterprise pilot · Scroll = EVM 纯度
-- **治理成熟度趋同**:7 个都是 Stage 1 · Security Council + 7-21 day timelock · DAO 治理或团队主导 · 实质上没有 L2 达到 Stage 2 full decentralization
+**マトリクスの読み方**:
+- **TVL 順位**:Base > Arbitrum > Optimism (主チェーン) > zkSync > Linea > Polygon zkEVM > Scroll · ただし Superchain 全体を Optimism に算入すれば OP Superchain > Base > Arbitrum
+- **日次アクティブアドレス順位**:Base 首位 + 顕著にリード · Arbitrum / Optimism 中等 · ZK rollup はいずれも小さい
+- **Sequencer revenue 順位**:Base ≈ Arbitrum ≈ Optimism(3 巨頭がそれぞれ $30-70M ARR)· ZK rollup はそれぞれ $5-30M ARR
+- **エコシステム深度**:Base = consumer + DeFi · Arbitrum = DeFi 専門 · Optimism = Superchain 連邦 · zkSync = AA native · Linea = MetaMask トラフィック · Polygon zkEVM = enterprise pilot · Scroll = EVM 純度
+- **治理成熟度の収束**:7 つとも Stage 1 · Security Council + 7-21 day timelock · DAO 治理かチーム主導 · 実質的に Stage 2 full decentralization に達した L2 はない
 
-## Base-led growth · Coinbase 效应
+## Base-led growth · Coinbase 効果
 
-### 为什么 Base 增长最快
+### なぜ Base が最速成長か
 
-**Coinbase 母公司效应**:
-- Coinbase 是美国 US 头部 CEX · 注册用户 ~1.5亿(2026)· 月活 ~500-700万
-- Coinbase 主动把 USDC primary 入口 + 法币 onramp 推到 Base
-- Coinbase Smart Wallet(原生 AA · 参见 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]])默认 deploy 在 Base · 无需 ETH gas · 用户体验接近 Web2
+**Coinbase 親会社効果**:
+- Coinbase は米国 US トップ CEX · 登録ユーザー ~1.5 億(2026)· 月活 ~500-700 万
+- Coinbase は積極的に USDC primary 入口 + 法定通貨 onramp を Base に推進
+- Coinbase Smart Wallet(ネイティブ AA · [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]] を参照)はデフォルトで Base に deploy · ETH gas 不要 · ユーザー体験は Web2 に近い
 
-**Stripe / Shopify / Apple Pay 集成**:
-- Stripe 2024-2025 推出 "USDC on Base" 商家 settlement · 大幅降低 cross-border payment cost
-- Shopify 商家 pay-with-USDC 默认在 Base
-- Apple Pay 通过 Coinbase Wallet 与 Base 集成
+**Stripe / Shopify / Apple Pay 統合**:
+- Stripe は 2024-2025 年に「USDC on Base」加盟店 settlement を発表 · cross-border payment コストを大幅削減
+- Shopify 加盟店の pay-with-USDC のデフォルトは Base
+- Apple Pay は Coinbase Wallet 経由で Base と統合
 
-**Meme coin 浪潮**:
-- 2024-Q3 起 Base 上 meme coin volume 爆发(BRETT · TOSHI · DEGEN · 等)
-- 单日 Base DEX volume 多次破 $1B · 远超其他 L2
-- Aerodrome(Base 主 DEX)成为 L2 第一 DEX by TVL · ~$3-5B
+**Meme coin 潮流**:
+- 2024-Q3 から Base 上の meme coin volume が爆発(BRETT · TOSHI · DEGEN 等)
+- 日次 Base DEX volume が複数回 $1B を超え · 他 L2 を大きく上回る
+- Aerodrome(Base 主 DEX)が L2 第一 DEX by TVL となる · ~$3-5B
 
-**Consumer / 社交 dApp**:
-- Farcaster(去中心化社交)主要 deploy on Base · Frames(Farcaster 内嵌 mini-app)生态爆发
-- Friend.tech · Zora · Mocaverse · 等 consumer dApp 集中 Base
+**Consumer / ソーシャル dApp**:
+- Farcaster(分散型ソーシャル)は主に Base に deploy · Frames(Farcaster 内蔵 mini-app)エコシステムが爆発
+- Friend.tech · Zora · Mocaverse 等の consumer dApp が Base に集中
 
-### Base 的 "soft moat"
+### Base の「soft moat」
 
-- **Sequencer 中心化但被信任**:Coinbase 是 USA 上市公司(NASDAQ: COIN)· 监管合规 · 用户信任度高
-- **L1 DA 立场**:Base 始终用 L1 blobs · 不计划 alt-DA · 与 institutional 期望对齐
-- **OP Stack 集成**:Base 是 OP Superchain 一员 · 享受 OP 生态溢出但保持独立 brand
+- **Sequencer 中央集権だが信頼される**:Coinbase は USA 上場企業(NASDAQ: COIN)· 規制コンプライアンス · ユーザー信頼度が高い
+- **L1 DA スタンス**:Base は常に L1 blobs を使用 · alt-DA は計画なし · institutional の期待と整合
+- **OP Stack 統合**:Base は OP Superchain の一員 · OP エコシステムの溢出を享受しつつ独立ブランドを維持
 
-### Base 的潜在 risk
+### Base の潜在リスク
 
-- **Sequencer 中心化是 single point of failure**:Coinbase 若被监管 demand 审查特定 transaction · 影响 Base censorship resistance
-- **过度依赖 meme coin 周期**:meme coin 是 volatile · 一旦冷却 · Base 用户活跃度可能下降
-- **OP Superchain 内部竞争**:Worldcoin / Mode / Soneium 等 OP Stack chain 是 Base 竞争对手 · 不只协作
+- **Sequencer 中央集権が単一障害点**:Coinbase が規制要求で特定 transaction を検閲する場合 · Base の検閲耐性に影響
+- **Meme coin サイクルへの過度依存**:meme coin は volatile · 冷却すれば Base ユーザーアクティビティが低下する可能性
+- **OP Superchain 内部競争**:Worldcoin / Mode / Soneium 等の OP Stack chain は Base の競合 · 協力のみではない
 
-## Arbitrum stagnation · 技术领先但增长放缓
+## Arbitrum stagnation · 技術リードだが成長減速
 
-### 为什么 Arbitrum 增长放缓
+### なぜ Arbitrum 成長が減速したか
 
-- **DeFi-native 用户结构**:Arbitrum 主要用户是 DeFi power user(perp trader · yield farmer · 多 protocol 互动) · 这一群体规模 saturate
-- **缺消费者入口**:无类似 Coinbase / Stripe / MetaMask 大流量入口 · 新用户获取依赖原生 dApp
-- **GMX 单一 protocol 集中**:Arbitrum DeFi 大部分 volume 集中 GMX · 2024-2025 perp DEX 竞争(Hyperliquid 在独立 L1 上 + dYdX v4 在 Cosmos)分流 Arbitrum 流量
+- **DeFi-native ユーザー構造**:Arbitrum の主要ユーザーは DeFi power user(perp trader · yield farmer · 複数 protocol インタラクション) · この層の規模が飽和
+- **消費者入口を欠く**:Coinbase / Stripe / MetaMask 類の大量トラフィック入口なし · 新規ユーザー獲得は native dApp に依存
+- **GMX 単一プロトコル集中**:Arbitrum DeFi の大部分の volume が GMX に集中 · 2024-2025 perp DEX 競合(独立 L1 上の Hyperliquid + Cosmos 上の dYdX v4)が Arbitrum トラフィックを分散
 
-### Arbitrum 的技术优势(未充分变现)
+### Arbitrum の技術優位(十分に変現していない)
 
-- **Stylus**(2024 上线):允许 Rust / C++ 智能合约 deploy · 是 EVM L2 中唯一支持的 · 但实际 dApp 采用慢
-- **BoLD permissionless validator**(2025 上线):是 OP rollup 中最 advanced 的 decentralization · 但用户无感
-- **Arbitrum Orbit**:框架让 ~20+ L3 / appchain deploy · 但 Orbit chain TVL 总和 < OP Superchain
-- **Arbitrum Nova**:AnyTrust DA 子链 · 服务高频低值 use case · 但市场份额小
+- **Stylus**(2024 ローンチ):Rust / C++ スマートコントラクト deploy 可能 · EVM L2 で唯一サポート · ただし実際の dApp 採用は遅い
+- **BoLD permissionless validator**(2025 ローンチ):OP rollup 中最も advanced な decentralization · ただしユーザーは無感
+- **Arbitrum Orbit**:フレームで ~20+ L3 / appchain を deploy · ただし Orbit chain TVL 総和 < OP Superchain
+- **Arbitrum Nova**:AnyTrust DA 子チェーン · 高頻度低価値 use case にサービス · ただし市場シェア小
 
-### Arbitrum 2026 回升信号
+### Arbitrum 2026 回復シグナル
 
-- 2026-Q1 Stylus 上 Rust DeFi protocol 上线(Cygnus · Hydrogen · 等)· dApp 多样化
-- BoLD permissionless validator 让 ARB stake economic 启动 · token holder 收益预期改善
-- Arbitrum Orbit 部分 L3 出圈(XAI gaming · Lumia · ApeChain)
+- 2026-Q1 Stylus 上 Rust DeFi プロトコルがローンチ(Cygnus · Hydrogen 等)· dApp 多元化
+- BoLD permissionless validator により ARB stake economic が起動 · token holder 収益期待が改善
+- Arbitrum Orbit の一部 L3 が圏外進出(XAI gaming · Lumia · ApeChain)
 
-## OP Superchain expansion · 联邦化战略
+## OP Superchain expansion · 連邦化戦略
 
-### Superchain 框架
+### Superchain フレーム
 
-参见 OP Stack documentation:
-- **共享 sequencer**(计划 · 2026-2027 引入)
-- **共享 governance**(Citizen House 部分参与)
-- **共享 settlement**(L1 上互信桥)
-- **共享 RPGF**(Retroactive Public Goods Funding · OP 治理 token 分配)
+OP Stack documentation 参照:
+- **共有 sequencer**(計画 · 2026-2027 導入)
+- **共有 governance**(Citizen House 一部参加)
+- **共有 settlement**(L1 上の相互信頼ブリッジ)
+- **共有 RPGF**(Retroactive Public Goods Funding · OP 治理 token 配布)
 
-每个 Superchain 子 chain 仍独立运营 + 独立 brand · 但共享底层 stack。
+各 Superchain 子チェーンは独立運営 + 独立ブランドのまま · ただし基盤 stack を共有。
 
-### Superchain 成员(2026-Q2 选)
+### Superchain メンバー(2026-Q2 一部)
 
 - **Base (Coinbase)** · TVL $18B
-- **Optimism 主链** · TVL $5B
-- **Worldcoin** · 用户多但 TVL 不高
-- **Mode** · DeFi specialty · 部分用 EigenDA
+- **Optimism 主チェーン** · TVL $5B
+- **Worldcoin** · ユーザー多いが TVL は低い
+- **Mode** · DeFi specialty · 一部 EigenDA 使用
 - **Lyra** · options DEX · TVL ~$200-400M
-- **Polynomial** · perp · 较小
-- **Zora** · NFT / creator economy · 用户多 TVL 低
-- **Soneium**(Sony 推动 · 2025 上线)· 入门级
-- **Unichain**(Uniswap 推动 · 2025 上线)· Uniswap 专属
-- **Mantle** · L2 with EigenDA (technically not Superchain · 但 OP Stack 早期 fork)
-- 其他 ~20+ chain
+- **Polynomial** · perp · 比較的小さい
+- **Zora** · NFT / creator economy · ユーザー多いが TVL 低い
+- **Soneium**(Sony 推進 · 2025 ローンチ)· 入門級
+- **Unichain**(Uniswap 推進 · 2025 ローンチ)· Uniswap 専用
+- **Mantle** · EigenDA L2 (technically not Superchain · ただし OP Stack 初期 fork)
+- その他 ~20+ chain
 
-### Superchain 总 TVL
+### Superchain 総 TVL
 
-若把 Base + Optimism + 其他 Superchain TVL 加总 · ~$25B+ · **实际超越 Arbitrum 单链**。但 Coinbase 不强调 Base 是 Superchain 成员(Base 有独立 brand)· 所以业界对照时 Optimism 仍单算。
+Base + Optimism + その他 Superchain TVL を合算すれば ~$25B+ · **Arbitrum 単チェーンを実際に超える**。だが Coinbase は Base が Superchain メンバーであることを強調しない(Base は独立ブランド)· そのため業界の対照では Optimism は依然として単独算入。
 
-### Superchain 治理张力
+### Superchain 治理の緊張
 
-- **OP Labs vs Base team**:Coinbase 影响力让 Base 实质独立 · OP Labs 收 sequencer revenue 分润 (~10%)但治理影响有限
-- **Worldcoin / Mode / 等子链**:多有自己 token + DAO · OP token 治理影响减弱
-- **共享 sequencer 实际进展**:OP Labs 持续推动 · 但各子链是否愿意放弃 sequencer revenue 是政治问题
+- **OP Labs vs Base team**:Coinbase の影響力により Base は実質独立 · OP Labs は sequencer revenue 分配(~10%)を得るが治理影響は限定
+- **Worldcoin / Mode / その他子チェーン**:多くが自前 token + DAO を持ち · OP token 治理影響は弱まる
+- **共有 sequencer の実際進捗**:OP Labs が継続推進 · ただし各子チェーンが sequencer revenue を放棄するかは政治問題
 
-## Ecosystem impact · Web3 终端用户分布
+## エコシステム影響 · Web3 エンドユーザー分布
 
-### 用户 / dApp / 资本分布
+### ユーザー / dApp / 資本分布
 
-**Web3 Total active addresses(L2 + L1 + Solana 等 · 2026-Q2 估算)**:
-- 全 EVM L2 daily active ~10-15M(Base 占 ~30-40%)
-- Ethereum L1 daily active ~500k-1M(集中机构 + 大额)
-- Solana daily active ~5-10M(meme coin 主导)
-- Polygon PoS sidechain ~2-3M(下降中 · 流量迁移到 zkEVM)
-- 其他 ~5M
+**Web3 Total active addresses(L2 + L1 + Solana 等 · 2026-Q2 推定)**:
+- 全 EVM L2 daily active ~10-15M(Base が ~30-40% 占有)
+- Ethereum L1 daily active ~500k-1M(機関 + 大口集中)
+- Solana daily active ~5-10M(meme coin 主導)
+- Polygon PoS sidechain ~2-3M(減少中 · トラフィックが zkEVM に移行)
+- その他 ~5M
 
-**资本分布(TVL · 2026-Q2 估算)**:
-- Ethereum L1 ~$120B(机构 + 大额 + 老钱)
-- L2 总 ~$45B(Base $18B + Arbitrum $13B + Optimism $5B + 其他 $9B)
+**資本分布(TVL · 2026-Q2 推定)**:
+- Ethereum L1 ~$120B(機関 + 大口 + 老錢)
+- L2 総 ~$45B(Base $18B + Arbitrum $13B + Optimism $5B + その他 $9B)
 - Solana ~$15B
-- 其他 L1 ~$30B(Tron + BSC + Avalanche + etc)
+- 他 L1 ~$30B(Tron + BSC + Avalanche + etc)
 
-**DEX volume 分布(2026 daily avg)**:
-- L2 DEX total ~$3-5B / day(Base 主导 ~40%)
-- Solana DEX total ~$3-6B / day(meme coin 主导)
-- Ethereum L1 DEX ~$1-2B / day(机构 swap)
-- 其他 ~$1B / day
+**DEX volume 分布(2026 日次平均)**:
+- L2 DEX total ~$3-5B / day(Base 主導 ~40%)
+- Solana DEX total ~$3-6B / day(meme coin 主導)
+- Ethereum L1 DEX ~$1-2B / day(機関 swap)
+- その他 ~$1B / day
 
-### 与 Solana 生态竞争
+### Solana エコシステムとの競合
 
-参见 [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]:
-- Solana 在 meme coin / consumer trading 上与 Base 直接竞争
-- 但 Solana TPS 优势(post-Firedancer · 参见 [[systems/solana-firedancer-validator-economics|Solana Firedancer]])让 Solana 在 high-frequency trading 仍有领先
-- Base 优势在 L2 安全 + Coinbase 入口 + USDC 流通
-- 长期 Web3 终端用户可能在 Base 和 Solana 之间分流 · 而非任一 dominant
+[[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]] を参照:
+- Solana は meme coin / consumer trading で Base と直接競合
+- ただし Solana の TPS 優位(post-Firedancer · [[systems/solana-firedancer-validator-economics|Solana Firedancer]] を参照)により Solana は高頻度取引で依然リード
+- Base の優位は L2 セキュリティ + Coinbase 入口 + USDC 流通
+- 長期に Web3 エンドユーザーは Base と Solana 間で分流する可能性 · いずれかが dominant となるのではなく
 
-### 跨 L2 流动性碎片化
+### クロス L2 流動性フラグメンテーション
 
-- 各 L2 之间桥接 cost + finality 是问题(参见 [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] 和 [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]])
-- 共享 sequencer(Espresso · Astria)和 cross-rollup intent(CoW · Bungee)是缓解方案 · 但 2026 仍早期
-- Stablecoin liquidity(USDC · USDT)分散在多 L2 · 是用户 friction 主因
+- 各 L2 間のブリッジ cost + finality が問題([[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] と [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]] を参照)
+- 共有 sequencer(Espresso · Astria)と cross-rollup intent(CoW · Bungee)は緩和策 · ただし 2026 はまだ早期
+- Stablecoin liquidity(USDC · USDT)が複数 L2 に分散 · ユーザー摩擦の主因
 
 ## Boundary cases / future trajectory
 
-**Base 是否会被监管约束 sequencer**:Coinbase 受 SEC / CFTC 监管 · 若 SEC 强制 Base sequencer 审查 OFAC 制裁地址 · 影响 Base 在 ETH-aligned L2 生态中的 status。当前 Coinbase 公开承诺不审查 · 但长期 risk 存在。
+**Base は規制による sequencer 制約を受けるか**:Coinbase は SEC / CFTC の規制対象 · SEC が Base sequencer に OFAC 制裁アドレスの検閲を強制すれば、Base の ETH-aligned L2 エコシステムにおける status に影響。現在 Coinbase は公開で検閲しないと約束 · ただし長期リスクは存在。
 
-**Arbitrum BoLD permissionless validator 是否能驱动 ARB token 价值**:BoLD 让任何人 deposit ARB 成为 validator · 验证 challenge · 但用户感受不明显。token 价值是否反映需要时间验证。
+**Arbitrum BoLD permissionless validator は ARB token 価値を駆動できるか**:BoLD により誰でも ARB を deposit して validator になり challenge を検証可能 · ただしユーザー感覚は不明瞭。token 価値の反映には検証時間が必要。
 
-**OP Superchain 是否会出现 fragmentation**:当 Superchain 成员 > 30 · 治理协调难度上升 · 部分子 chain 可能 fork OP Stack 独立。Worldcoin / Mantle / Mode 已多次表达独立 governance 意图。
+**OP Superchain は fragmentation が出現するか**:Superchain メンバーが > 30 となれば · 治理調整の難度が上昇 · 一部子チェーンが OP Stack を fork して独立する可能性。Worldcoin / Mantle / Mode は独立 governance の意向を複数回表明済み。
 
-**ZK rollup 是否会从 mid-tier 突破到 top-tier**:zkSync / Linea / Scroll / Polygon zkEVM 长期 TVL 增长慢 · 是否会有 catalyst(monster dApp · 机构 RWA · Fusaka PeerDAS 带来的成本进一步下降)让 ZK 突破到 top-tier?
+**ZK rollup は mid-tier から top-tier に突破できるか**:zkSync / Linea / Scroll / Polygon zkEVM の長期 TVL 成長は遅い · catalyst(monster dApp · 機関 RWA · Fusaka PeerDAS によるさらなるコスト低下)で ZK が top-tier に突破できるか?
 
-**Account Abstraction 主流化时间表**:Coinbase Smart Wallet / Argent / Braavos / MetaMask Smart Account 都在推 · 2026 用户 ~20-30% 可能用 AA · 2027-2028 可能主流(参见 [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]])· 这会让 L2 用户体验大幅改善。
+**Account Abstraction 主流化タイムテーブル**:Coinbase Smart Wallet / Argent / Braavos / MetaMask Smart Account がいずれも推進 · 2026 ユーザー ~20-30% が AA を使用する可能性 · 2027-2028 主流化の可能性([[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]] を参照)· これにより L2 ユーザー体験が大幅改善。
 
-**Stage 2 decentralization 时间表**:目前所有 L2 都 Stage 1 · L2Beat criteria for Stage 2 是 permissionless validator + 30-day social fallback + 完整 dispute resolution · 没有 L2 公开承诺 2026 内达到 Stage 2 · 可能 2027-2028+。
+**Stage 2 decentralization タイムテーブル**:現在すべての L2 が Stage 1 · L2Beat の Stage 2 criteria は permissionless validator + 30-day social fallback + 完全な dispute resolution · 2026 内に Stage 2 に達することを公開コミットした L2 はない · 2027-2028+ の可能性。
 
-**RWA 流量 split**:Polygon zkEVM 是 ZK rollup 中 RWA pilot 最深 · 但实际 RWA TVL 大部分仍在 Ethereum L1。L2 RWA 是否会随 institutional risk committee 接受度提升而上升?
+**RWA トラフィック split**:Polygon zkEVM は ZK rollup 中で RWA pilot が最深 · ただし実際の RWA TVL の大部分は依然として Ethereum L1。L2 RWA は institutional risk committee の受容度上昇に伴い上昇するか?
 
-**Sequencer revenue 长期演化**:Pectra 后 sequencer margin 稳定 · 但若用户数增长继续 · L2 总 sequencer revenue 可能 2027 达 $500M+ · 这会让 L2 估值更可量化(类似 SaaS ARR multiple)。
+**Sequencer revenue 長期進化**:Pectra 後 sequencer margin が安定 · ただしユーザー数が成長を続ければ · L2 総 sequencer revenue は 2027 年に $500M+ に達する可能性 · これにより L2 評価がより定量可能となる(SaaS ARR multiple に類似)。
 
-**Cross-L2 intent / shared sequencer**:Espresso · Astria 等共享 sequencer 2026-2027 上线 · 若主流 L2 采用 · 流动性碎片化问题缓解 · 用户体验大幅改善。
+**Cross-L2 intent / shared sequencer**:Espresso · Astria 等の共有 sequencer が 2026-2027 ローンチ · 主流 L2 が採用すれば · 流動性フラグメンテーション問題が緩和 · ユーザー体験が大幅改善。
 
 ## Counterpoints
 
-- **TVL 数字不等于真实经济活动**:大部分 L2 TVL 是 bridge wrapped asset(WETH · USDC · stETH) · 真实 native value creation 可能不高
-- **Base "consumer dApp" 部分是 meme coin · 不可持续**:meme coin 是 cyclical · Base 用户活跃度可能波动
-- **OP Superchain 总 TVL 包含 Base 是重复计算**:Coinbase 实质独立 brand · 把 Base TVL 算 OP Superchain 有 inflation 嫌疑
-- **ZK rollup "技术叙事" 可能不变现**:ZK rollup 长期被认为是方向 · 但 2024-2026 OP rollup TVL 持续主导 · ZK rollup 用户增长慢
-- **Stage 1 decentralization 不等于实际 decentralized**:Security Council + 7-day timelock 仍让团队有事实控制权 · 用户资金的真去中心化需要 Stage 2+ · 远未实现
-- **L2 内部竞争是 zero-sum?**:有观点认为 L2 总 TVL pool 不变 · L2 之间互相蚕食。但实证显示 L2 总 TVL 持续增长(2022 ~$5B → 2026 ~$45B)· 是 ETH L1 流量迁移 + 新用户进入 · 不是 zero-sum
-- **DA cost 不再是 differentiator**:Pectra/Fusaka 后所有 L2 DA cost 都低 · 真正差异化是用户入口 + dApp 生态 + 治理 maturity
+- **TVL 数字 ≠ 実経済活動**:大部分の L2 TVL は bridge wrapped asset(WETH · USDC · stETH) · 実 native value creation は高くない可能性
+- **Base「consumer dApp」の一部は meme coin · 持続不可**:meme coin は cyclical · Base ユーザーアクティビティは変動する可能性
+- **OP Superchain 総 TVL に Base を含むのは重複算入**:Coinbase が実質独立ブランド · Base TVL を OP Superchain 算入は inflation の疑い
+- **ZK rollup「技術ナラティブ」が変現しない可能性**:ZK rollup は長期に方向性とされる · ただし 2024-2026 OP rollup TVL が主導継続 · ZK rollup ユーザー成長は遅い
+- **Stage 1 decentralization ≠ 実際に decentralized**:Security Council + 7-day timelock はチームに事実上の制御権を残す · ユーザー資金の真の分散化には Stage 2+ が必要 · 実現にはほど遠い
+- **L2 内部競争は zero-sum か?**:L2 総 TVL pool が不変で · L2 間が相互に蝕み合うという見解あり。だが実証では L2 総 TVL が継続成長(2022 ~$5B → 2026 ~$45B)· ETH L1 トラフィック移行 + 新規ユーザー参入であり · zero-sum ではない
+- **DA cost はもはや differentiator ではない**:Pectra/Fusaka 後すべての L2 DA cost が低い · 真の差別化はユーザー入口 + dApp エコシステム + 治理成熟度
 
 ## Open questions
 
-- **Base 是否会上市 token**:Coinbase 是上市公司 · Base token 上市可能触发 SEC 审查 · 但 token 上线可能进一步刺激 ecosystem
-- **Arbitrum 是否能找到 Base 类似的消费者入口**:Stylus / BoLD 是技术优势 · 但用户增长需要消费者 catalyst
-- **OP Superchain 是否会出现 dominant 单链超越 Base**:Worldcoin / Soneium / Unichain 是否能成为下一个 Base
-- **ZK rollup 何时市场份额突破 30%**:目前 ZK rollup 占 L2 TVL ~15% · 何时能到 30%+ · 是 prove cost 还是用户 awareness 问题
-- **Polygon zkEVM 的 enterprise pilot 何时转化为 production TVL**:Franklin Templeton 等 pilot 是 demo 还是 commercial deploy
-- **Cross-rollup intent / shared sequencer 何时主流**:Espresso / Astria 2026-2027 进展是否能改善用户体验
-- **Stage 2 decentralization 何时达到**:L2 团队是否真心愿意放弃 sequencer + governance 控制权
-- **L3 / Orbit / Hyperchain 是否会蚕食 L2 流量**:或互补?
+- **Base は token 上場するか**:Coinbase は上場企業 · Base token 上場は SEC 審査をトリガーする可能性 · ただし token ローンチはエコシステムをさらに刺激する可能性
+- **Arbitrum は Base 類似の消費者入口を見つけられるか**:Stylus / BoLD は技術優位 · ただしユーザー成長には消費者 catalyst が必要
+- **OP Superchain で Base を超える dominant 単チェーンが出現するか**:Worldcoin / Soneium / Unichain は次の Base になれるか
+- **ZK rollup が市場シェア 30% を突破するのはいつ**:現在 ZK rollup は L2 TVL の ~15% · いつ 30%+ になれるか · prove cost かユーザー認知問題か
+- **Polygon zkEVM の enterprise pilot はいつ production TVL に転換するか**:Franklin Templeton 等 pilot は demo か commercial deploy か
+- **Cross-rollup intent / shared sequencer はいつ主流化するか**:Espresso / Astria 2026-2027 進捗がユーザー体験を改善するか
+- **Stage 2 decentralization はいつ達成するか**:L2 チームが sequencer + governance 制御権を真に放棄する意思はあるか
+- **L3 / Orbit / Hyperchain は L2 トラフィックを蝕むか**:それとも補完か?
 
 ## Related
 
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|systems index]]
 - [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]
-- [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 经济与 2026 市场影响]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 翻倍与 L2 经济连锁]]
+- [[systems/eip-4844-blob-economics-impact-2026|EIP-4844 blob 経済と 2026 市場影響]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 倍増と L2 経済連鎖]]
 - [[systems/pectra-upgrade-overview|Pectra upgrade overview]]
 - [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]
-- [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景对照 2026]]
+- [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照 2026]]
 - [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]]
 - [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]]
 - [[systems/eigenlayer-overview|EigenLayer overview]]
@@ -520,7 +520,7 @@ L2 rollup 在 2023-2024 还是 "技术路线之争 + TVL 排行榜竞赛"。2024
 - [[systems/erc-7702-overview|ERC-7702 overview]]
 - [[systems/solana-firedancer-validator-economics|Solana Firedancer validator economics]]
 - [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]
-- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]]
+- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャー]]
 
 ## Sources
 

@@ -1,10 +1,10 @@
 ---
-title: BFT validator 经济四变量 · yield / slashing / MEV / 集中度
+title: BFT validator 経済の4変数 · yield / slashing / MEV / 集中度
 aliases: [bft-validator-economy-four-variables, validator economy yield slashing MEV concentration]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, validator, bft, staking-yield, slashing, mev, nakamoto-coefficient]
@@ -12,54 +12,54 @@ sources: []
 status: candidate
 ---
 
-# BFT validator 经济四变量
+# BFT validator 経済の4変数
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-overview|BFT validator 经济学概览 · 四变量与机构链退化]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-overview|BFT validator 経済学概観 · 4変数と機関チェーンの退化]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 主流 PoS yield 区间 3-10% APY ^[extracted]
-- ETH 双签罚 1 ETH + 比例 slashing;下线轻罚 ^[extracted]
-- Cosmos 双签罚 5%,下线罚 0.01% ^[extracted]
-- ETH MEV 年化 $500M-1B 规模 ^[extracted]
-- ETH 客户端集中度 Geth 60%+,质押池 Lido 30%+,地理 美 / 德 60%+ ^[extracted]
-- Nakamoto 系数 = 攻击网络所需最少 validator 数(越高越分散) ^[extracted]
+- 主流 PoS yield のレンジは 3-10% APY ^[extracted]
+- ETH の二重署名罰は 1 ETH + 比例 slashing、オフライン罰は軽微 ^[extracted]
+- Cosmos の二重署名罰は 5%、オフライン罰は 0.01% ^[extracted]
+- ETH の MEV は年間 $500M-1B 規模 ^[extracted]
+- ETH クライアント集中度は Geth 60%+、ステーキングプール Lido 30%+、地理は米/独で 60%+ ^[extracted]
+- 中本聡係数 = ネットワーク攻撃に必要な最小 validator 数(高いほど分散) ^[extracted]
 
 ## Mechanism / How it works
 
-**1. Staking yield**:由发行通胀 + tx fee 分成 + MEV 分成构成。yield 过高(10%+)会吸引理性资本收购 → 中心化;过低(<3%)安全预算不足 → 攻击成本下降。"健康区间"3-7% 是经验值。
+**1. Staking yield**:発行インフレ + tx fee 分配 + MEV 分配で構成される。yield が高すぎる(10%+)と合理的資本が買収に動き中央集権化を招き、低すぎる(<3%)と安全予算が不足し攻撃コストが下がる。「健全レンジ」3-7% は経験値である。
 
-**2. Slashing risk**:双签 slashing 惩重(防恶意分叉),下线 slashing 惩轻(防 liveness 失效)。设计权衡:重罚提高安全,但抑制 validator 参与(尤其家庭独立 validator 因不敢承担风险退出)。
+**2. Slashing risk**:二重署名 slashing は重罰(悪意あるフォーク防止)、オフライン slashing は軽罰(liveness 喪失防止)。設計上のトレードオフ:重罰は安全性を高めるが validator 参加を抑制する(特に家庭独立 validator はリスクを取れず撤退)。
 
-**3. MEV**:tx 排序权可变现为套利 / 清算 / 抢跑收益。MEV 集中化(大 validator 直连 builder)→ validator 集中度加剧。缓解工具:MEV-Boost / PBS(proposer-builder separation)/ encrypted mempool。机构链订单流以 OTC 为主,MEV 自然归零。
+**3. MEV**:tx 順序権はアービトラージ/清算/フロントランニングの収益として現金化できる。MEV の集中化(大規模 validator が builder と直接接続)→ validator 集中度を加速。緩和手段:MEV-Boost / PBS(proposer-builder separation)/ encrypted mempool。機関チェーンでは注文フローが OTC 中心のため、MEV は自然にゼロ化する。
 
-**4. 集中度**:多维度评估 —— Nakamoto 系数(经济层)+ 客户端(软件层)+ 质押池(经济层)+ 地理(监管层)。任一维度过度集中都构成系统性风险:Geth 60%+ 即软件层 bug 可使 60% validator 同时下线;Lido 30%+ 即治理捕获即可影响 30% 投票权;美国 60%+ 即 OFAC 制裁即可冻结主网。
+**4. 集中度**:多次元で評価する —— 中本聡係数(経済層)+ クライアント(ソフトウェア層)+ ステーキングプール(経済層)+ 地理(規制層)。いずれかの次元で過度に集中するとシステミックリスクとなる:Geth 60%+ ならソフトウェア層のバグで 60% の validator が同時オフラインになり得る;Lido 30%+ ならガバナンス捕捉だけで 30% の投票権に影響できる;米国 60%+ なら OFAC 制裁でメインネットを凍結できる。
 
 ## Origin & evolution
 
-2015-2018 PoW 时代不存在 validator 经济。2018-2020 Cosmos / Tezos 早期 PoS 形成 yield + slashing 雏形。2020.12 ETH 2.0 Beacon Chain 上线 → 双签 + 下线 slashing 进入主网。2021.04 Flashbots 推 MEV-Boost → MEV 显化为可量化收益变量。2022-2024 Lido / 客户端 / 地理三类集中度成为研究焦点(Vitalik 多次发文)。2025-2026 机构链以"少量 KYC validator"姿态出现,四变量框架在机构链 vs retail 链发生路径分叉(参见 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]])。
+2015-2018 の PoW 時代には validator 経済は存在しなかった。2018-2020 Cosmos / Tezos などの初期 PoS で yield + slashing の原型が形成された。2020.12 ETH 2.0 Beacon Chain がローンチ → 二重署名 + オフライン slashing がメインネットに導入。2021.04 Flashbots が MEV-Boost を公開 → MEV が定量化可能な収益変数として顕在化。2022-2024 Lido / クライアント / 地理という 3 種類の集中度が研究の焦点に(Vitalik が複数回発信)。2025-2026 機関チェーンが「少数の KYC validator」という姿で登場し、4 変数フレームワークは機関チェーン vs リテールチェーンで経路分岐が発生([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 参照)。
 
 ## Counterpoints
 
-- "yield 健康区间"是经验值,不同链生态可承受不同水平
-- Slashing 在 family validator 时代显示出过严副作用,2024 后多链下调 slashing 严厉度
-- "集中度多维度"未含治理集中度(DAO 投票占有率),分析不完整
-- MEV 完全消除可能不是最优 —— 部分 MEV 是市场效率信号(套利平衡价格)
+- 「yield 健全レンジ」は経験値であり、チェーン生態系ごとに許容水準は異なる
+- Slashing は family validator 時代に過度に厳格な副作用を見せ、2024 以降は多くのチェーンで slashing の厳格度を引き下げた
+- 「集中度の多次元」にはガバナンス集中度(DAO 投票占有率)が含まれず、分析として不完全
+- MEV の完全排除が最適とは限らない —— 一部の MEV は市場効率のシグナル(アービトラージによる価格均衡)である
 
 ## Open questions
 
-- ETH 等大链是否应通过协议层硬性限制单 validator 占比?
-- restaking(EigenLayer)是否会重塑四变量框架(新增"安全租赁收益"维度)?(参见 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]])
-- ZK / proof market 时代,validator 经济与 prover 经济如何耦合?(对照 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]] 中各 DEX 在 prover 市场的角色)
+- ETH などの大規模チェーンは、プロトコル層で単一 validator 比率を硬性制限すべきか?
+- restaking(EigenLayer)は 4 変数フレームワークを再構築するか(「安全レンタル収益」次元を追加するか)?([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)
+- ZK / proof market の時代において、validator 経済と prover 経済はどう結合するか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各 DEX の prover マーケットでの役割と対照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/bft-validator-economy-overview|总览]]
-- [[systems/bft-validator-economy-tempo-vs-arc|Tempo vs Arc 设计对比]]
+- [[systems/bft-validator-economy-overview|総覧]]
+- [[systems/bft-validator-economy-tempo-vs-arc|Tempo vs Arc 設計比較]]
 <!-- /wiki-links:managed -->
 
 ## Sources

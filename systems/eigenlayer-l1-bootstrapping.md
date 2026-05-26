@@ -1,10 +1,10 @@
 ---
-title: EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径
+title: EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路
 aliases: [eigenlayer-l1-bootstrapping, restaking-l1-startup, eigenlayer-tempo-arc]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: possible
 tags: [systems, restaking, eigenlayer, l1, tempo, arc, bootstrapping]
@@ -12,66 +12,66 @@ sources: []
 status: candidate
 ---
 
-# EigenLayer 对新 L1 启动期安全的赋能 · Tempo/Arc 潜在路径
+# EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路
 
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概览 · Restaking 与 Ethereum 加密经济安全租赁]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Tempo / Arc 都是企业级 L1 · 不能容忍启动期 token 攻击窗口 ^[inferred]
-- Arc 已公开探讨 restaking-secured permissioned BFT 模型 ^[extracted]
-- 三种启动选项:自建 validator · EigenLayer AVS · 混合 ^[inferred]
-- EigenLayer 扩展到 L1 启动伞是协议史最大扩张方向 ^[inferred]
-- 对 Ethereum L1 的反身效应:ETH 成为"加密经济安全的基础资产" ^[inferred]
+- Tempo / Arc はいずれもエンタープライズ級 L1 · 起動期の token 攻撃ウィンドウを許容できない ^[inferred]
+- Arc は既に restaking-secured permissioned BFT モデルを公然と検討 ^[extracted]
+- 3 つの起動オプション:自前 validator · EigenLayer AVS · ハイブリッド ^[inferred]
+- EigenLayer の L1 起動アンブレラへの拡張はプロトコル史上最大の拡張方向 ^[inferred]
+- Ethereum L1 への反身効果:ETH が「暗号経済セキュリティの基礎資産」に ^[inferred]
 
 ## Mechanism / How it works
 
-新 L1 启动期面临 bootstrapping 问题:原生 token 市值低 → 攻击成本低 → 用户不敢用 → 流量低 → token 不增值 → 死循环。
+新 L1 の起動期には bootstrapping 問題に直面する:ネイティブ token 時価総額が低い → 攻撃コストが低い → ユーザーが使うのを恐れる → トラフィックが低い → token 価値が上がらない → 死のループ。
 
-**三种解法**:
+**3 つの解決策**:
 
-| 选项 | 含义 | 适用场景 |
+| オプション | 意味 | 適用シナリオ |
 |---|---|---|
-| **A. 自建 validator 集合** | 经典 L1 路径 · 发币 + 激励 + 长期 bootstrapping | 加密原生项目 · 有时间窗口 |
-| **B. EigenLayer AVS 启动** | 启动期租用 ETH 安全 · 逐步过渡到自有 token | 企业级 L1 · 必须 day-1 安全 |
-| **C. 混合(BFT + restaking 加固)** | 自有 validator + restaking 经济补强 · 降低 51% 攻击成本 | 既有发币需求又要快速启动 |
+| **A. 自前 validator 集合** | 古典的 L1 経路 · token 発行 + インセンティブ + 長期 bootstrapping | 暗号ネイティブプロジェクト · 時間ウィンドウあり |
+| **B. EigenLayer AVS で起動** | 起動期に ETH セキュリティをリース · 徐々に自前 token に移行 | エンタープライズ級 L1 · day-1 セキュリティ必須 |
+| **C. ハイブリッド(BFT + restaking 強化)** | 自前 validator + restaking 経済補強 · 51% 攻撃コストを下げる | token 発行需要があり迅速起動も必要 |
 
-**Tempo / Arc 选项 B/C 几乎必然**:
-- Tempo(Stripe)需要面对 Stripe 客户(merchant 大企业)· 不能允许启动期被攻击
-- Arc(Circle)是 USDC 主战场 · 安全风险=Circle 公司风险
-- 两者都不能用"承诺未来 token 涨价"换启动期安全 · 必须借用 ETH 已成熟的经济安全
+**Tempo / Arc はオプション B/C ほぼ確実**:
+- Tempo(Stripe)は Stripe 顧客(merchant 大手企業)に対峙する必要があり · 起動期攻撃を許容できない
+- Arc(Circle)は USDC 主戦場 · セキュリティリスク = Circle 会社リスク
+- 両者とも「将来の token 値上がりを約束」して起動期セキュリティと交換できない · 既に成熟した ETH の経済セキュリティを借用せねばならない
 
 ## Origin & evolution
 
-EigenLayer 早期定位是模块化中间件(DA / Oracle / 跨链桥)的安全层 · L1 启动伞是 2024-2025 间的扩张方向。Hyperlane 是首批采用 EigenLayerISM(restaking-secured 跨链消息验证)的案例 · 验证了"用 ETH 担保非 Ethereum 服务"的可行性。
+EigenLayer の初期ポジショニングはモジュラーミドルウェア(DA / Oracle / クロスチェーンブリッジ)のセキュリティ層 · L1 起動アンブレラは 2024-2025 年の拡張方向。Hyperlane は EigenLayerISM(restaking-secured クロスチェーンメッセージ検証)を採用した最初期事例 · 「ETH で非 Ethereum サービスを担保する」可能性を検証した。
 
-若 Tempo / Arc 采用 EigenLayer 路径成功,将形成示范效应——其他企业级 L1(JPM Kinexys 公链化路径若启动 · 或其他 stablecoin 链)可能跟进。
+Tempo / Arc が EigenLayer 経路を採用して成功すれば、デモンストレーション効果が生まれる —— 他のエンタープライズ級 L1(JPM Kinexys の公開チェーン化経路が起動するか · その他のステーブルコインチェーン)が追随する可能性がある。
 
-**对 Ethereum L1 的反身效应**:restaking 让 ETH 不只是"L1 gas + staking yield" · 还成为 **加密经济安全的基础资产**——类似美元成为"全球抵押品"。这是 ETH 长期价值的最大叙事支柱(可能比 ultrasound money 更重要)(对照 [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX 敞口]] 在 CEX 端的演化)。
+**Ethereum L1 への反身効果**:restaking により ETH は「L1 gas + staking yield」だけでなく、**暗号経済セキュリティの基礎資産**にもなる —— 米ドルが「グローバル担保資産」になったのと類似。これは ETH の長期価値の最大の物語的柱(ultrasound money よりも重要かもしれない)([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] における CEX 側の進化と対照)。
 
 ## Counterpoints
 
-**Vitalik 警告的核心**:EigenLayer 不应过度扩展到"应用层共识"——若 Tempo / Arc 等 L1 大规模采用 restaking,Ethereum L1 的共识与外部服务的共识深度耦合,系统性风险传染概率上升。
+**Vitalik の警告の中核**:EigenLayer は「アプリケーション層コンセンサス」に過度拡張すべきでない —— Tempo / Arc 等の L1 が大規模に restaking を採用すれば、Ethereum L1 のコンセンサスと外部サービスのコンセンサスが深く結合し、システミックリスクの感染確率が上昇する。
 
-**实际采用障碍**:Circle 自己 IPO 后 $4.34B treasury,有自建 validator 经济能力;Stripe 同样资金雄厚。是否真愿意把 L1 安全外包给 EigenLayer(每年支付 restaking yield)而不是自己直接担保,这是商业决策而非技术决策(对照 [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 中机构链的自治倾向)。
+**実際の採用障壁**:Circle 自身は IPO 後に $4.34B treasury を持ち、自前で validator 経済を構築する能力がある;Stripe も同様に資金が豊富。L1 セキュリティを EigenLayer に外注(毎年 restaking yield を支払う)するか、自身で直接担保するかは、技術判断ではなくビジネス判断([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] における機関チェーンの自治傾向と対照)。
 
 ## Open questions
 
-- Arc / Tempo 是否真会采用 EigenLayer · 时间表?
-- "restaking-secured permissioned BFT" 的具体技术 spec 何时公布?
-- 若 EigenLayer L1 启动伞业务起飞,EIGEN token 估值的天花板?
-- Ethereum 社区会否对"L1 restaking 化"形成共识压力?
-- 全球主流 DEX 是否会采用 restaking-secured 链作为底层?(参见 [[exchanges/global-dex-major-five-comparison|global DEX 主流五家对照]])
+- Arc / Tempo は本当に EigenLayer を採用するか · スケジュールは?
+- 「restaking-secured permissioned BFT」の具体的技術 spec はいつ公開されるか?
+- EigenLayer の L1 起動アンブレラビジネスが軌道に乗れば、EIGEN token 評価の天井は?
+- Ethereum コミュニティは「L1 restaking 化」に共識圧力を形成するか?
+- グローバル主流 DEX は restaking-secured チェーンを基盤として採用するか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] 参照)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/eigenlayer-overview|EigenLayer Overview]]
 - [[systems/eigenlayer-avs-mechanism|AVS Mechanism]]
-- [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT Rust(L1 共识对照)]]
+- [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT Rust(L1 コンセンサス対照)]]
 <!-- /wiki-links:managed -->
 
 ## Sources

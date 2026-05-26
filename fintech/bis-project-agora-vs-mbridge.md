@@ -1,10 +1,10 @@
 ---
-title: Agorá vs mBridge · 2026+ 跨境清算双轨制战略对照
-aliases: [bis-project-agora-vs-mbridge, Agora mBridge comparison, 跨境清算双轨制]
+title: Agorá vs mBridge · 2026+ クロスボーダー決済デュアル・トラック制の戦略比較
+aliases: [bis-project-agora-vs-mbridge, Agora mBridge comparison, クロスボーダー決済デュアル・トラック制]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, bis, mbridge, agora, cbdc, geopolitics, cross-border-settlement]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# Agorá vs mBridge · 跨境清算双轨制战略对照
+# Agorá vs mBridge · クロスボーダー決済デュアル・トラック制の戦略比較
 
 
 ## Wiki route
@@ -25,53 +25,53 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> mBridge(2021- · BIS + 中港泰 UAE · BIS 2024.10 退出)与 Agorá(2024.04- · BIS + 7 G10 央行)是 2026+ 跨境清算双轨制的事实分野。两者最大政治差异是 FRBNY 深度参与 Agorá 但完全不参与 mBridge,代表"美元锚定 + G10 共识"vs"金砖 + 中东 + 香港"两个地缘轴。
+> mBridge（2021- · BIS + 中国・香港・タイ・UAE · BIS は 2024.10 撤退）と Agorá（2024.04- · BIS + 7 G10 中央銀行）は、2026+ におけるクロスボーダー決済デュアル・トラック制の de facto な分水嶺となっている。両者の最大の政治的差異は、FRBNY が Agorá には深く関与する一方で mBridge には全く関与していない点で、「米ドル・アンカー + G10 コンセンサス」 vs 「BRICS + 中東 + 香港」という 2 つの地政学的軸を体現する。
 
 ## Key facts
 
-- mBridge 2021 启动,2024.10 BIS 退出(技术移交 PBoC + HKMA) ^[extracted]
-- Agorá 2024.04 启动,2024.09 公布参与方 ^[extracted]
-- mBridge 货币:CNY / HKD / THB / AED ^[extracted]
-- Agorá 货币:USD / GBP / EUR / JPY / KRW / MXN / CHF ^[extracted]
-- 美国 FRBNY 参与 Agorá 但不参与 mBridge ^[extracted]
-- mBridge 商业银行参与度有限(央行主导) ^[extracted]
-- Agorá 商业银行深度参与(40+ 家) ^[extracted]
+- mBridge は 2021 に立ち上げ、2024.10 BIS 撤退（技術は PBoC + HKMA に移管） ^[extracted]
+- Agorá は 2024.04 に立ち上げ、2024.09 に参加者を公表 ^[extracted]
+- mBridge 通貨: CNY / HKD / THB / AED ^[extracted]
+- Agorá 通貨: USD / GBP / EUR / JPY / KRW / MXN / CHF ^[extracted]
+- 米国 FRBNY は Agorá に参加するが mBridge には参加しない ^[extracted]
+- mBridge は商業銀行の参加度が限定的（中央銀行主導） ^[extracted]
+- Agorá は商業銀行が深く関与（40+ 行） ^[extracted]
 
 ## Mechanism / How it works
 
-两个项目实际是平行的跨境清算基础设施,但代表两种政治共识:
+両プロジェクトは実際には平行するクロスボーダー決済インフラだが、2 つの異なる政治的コンセンサスを体現する:
 
-**mBridge 模式**:央行间项目主导,BIS 早期协调后退出(2024.10),由 PBoC + HKMA 接管。技术栈基于早期 BIS Innovation Hub Hong Kong Centre 设计。商业银行作为终端用户被动接入。**核心地缘特征**:中国 + 香港 + 中东(UAE)+ 泰国轴,绕过美元 correspondent banking 的明确路径。
+**mBridge モデル**: 中央銀行間プロジェクトが主導、BIS は初期協調後に撤退（2024.10）し、PBoC + HKMA が引き継ぎ。技術スタックは初期 BIS Innovation Hub Hong Kong Centre 設計に基づく。商業銀行はエンドユーザーとして受動的に接続する。**地政学的中核特徴**: 中国 + 香港 + 中東（UAE） + タイの軸を組み、米ドル correspondent banking をバイパスする明確な経路。
 
-**Agorá 模式**:BIS 现役旗舰项目,7 G10 央行 + 40+ 全球大行深度共建。商业银行深度参与设计(JPM / Citi / HSBC / SWIFT / Mastercard / Visa)。**核心地缘特征**:美元为中心 + 西方 G10 共识 + 韩国 / 墨西哥两个亚太 / 美洲连接点。
+**Agorá モデル**: BIS の現役旗艦プロジェクト、7 G10 中央銀行 + 40+ のグローバル大手銀行が深く共同構築。商業銀行が深く設計に関与（JPM / Citi / HSBC / SWIFT / Mastercard / Visa）。**地政学的中核特徴**: 米ドルを中心に + 西側 G10 コンセンサス + 韓国 / メキシコの 2 つのアジア / 米州接続点。
 
-**双轨制含义**:2026+ 跨境支付不再是"SWIFT 唯一"或"Visa / Mastercard 唯一",而是 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]](东方)+ Agorá(西方)+ [[fintech/cross-border-sc-via-swift-api|SWIFT API]](传统)+ stablecoin(私营 · 详见 [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]])四轨并行。商业银行需要同时接入多轨,稳定币发行方需要在多轨架构下定位结算锚。
+**デュアル・トラック制の含意**: 2026+ のクロスボーダー決済はもはや「SWIFT 一本」や「Visa / Mastercard 一本」ではなく、[[fintech/mbridge-bis-multi-cbdc-overview|mBridge]]（東側） + Agorá（西側） + [[fintech/cross-border-sc-via-swift-api|SWIFT API]]（伝統） + stablecoin（民間 · 詳細は [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]）の 4 トラック並行となる。商業銀行は複数トラックに同時接続する必要があり、stablecoin 発行体はマルチトラック・アーキテクチャ下で決済アンカーとしての位置付けを定める必要がある。
 
 ## Origin & evolution
 
-2017-2020 BIS Innovation Hub 在新加坡、香港、瑞士、伦敦四地设中心 → 多 CBDC 跨境结算成为研究重点。2021 mBridge 启动(BIS Hong Kong Centre 主导)。2022 俄罗斯储备冻结事件 → 美元中性假设动摇 → 金砖 + 中东对去美元化跨境清算需求剧增。2024.10 BIS 在地缘政治压力下退出 mBridge,几乎同步(2024.04)启动 Agorá → BIS 实质把"东方版本"交给 PBoC 接管,自己运营"西方版本"。2025-2026 双轨格局明确化。
+2017-2020 BIS Innovation Hub がシンガポール、香港、スイス、ロンドンの 4 か所にセンターを設置 → マルチ CBDC のクロスボーダー決済が研究の重点となる。2021 mBridge 立ち上げ（BIS Hong Kong Centre 主導）。2022 ロシア準備凍結事件 → 米ドルの中立性仮定が揺らぐ → BRICS + 中東で脱ドル化クロスボーダー決済のニーズが急増。2024.10 BIS は地政学的圧力下で mBridge から撤退し、ほぼ同時に（2024.04）Agorá を立ち上げ → BIS は実質的に「東側版」を PBoC に移管し、自身は「西側版」を運営する。2025-2026 でデュアル・トラック構造が明確化。
 
 ## Counterpoints
 
-- "双轨"叙事可能过度政治化 —— 实际商业银行可能同时接入两轨,无明确阵营选择
-- mBridge 在 BIS 退出后是否能维持技术中立性存疑(PBoC 接管后是否仍开放 G10 国家接入?)
-- FRBNY 参与 Agorá 不等于美国官方承诺 —— 仍受 OCC / Fed Board 政策不确定性影响
-- 第三轨(IMF 主导的可能 CBDC 协议)或第四轨(地缘中立的 SWIFT 现代化)可能改变格局
+- 「デュアル・トラック」物語は過度に政治化されている可能性 — 実際には商業銀行が双方に同時接続し、明確な陣営選択がない可能性
+- mBridge は BIS 撤退後も技術的中立性を維持できるかは疑問（PBoC 引き継ぎ後も依然として G10 国家のアクセスを開放しているか?）
+- FRBNY の Agorá 参加は米国公式のコミットメントを意味せず、OCC / Fed Board の政策不確実性の影響を依然受ける
+- 第 3 のトラック（IMF 主導の可能性ある CBDC プロトコル）または第 4 のトラック（地政学的に中立な SWIFT 近代化）が構図を変える可能性
 
 ## Open questions
 
-- mBridge 何时商用化?会扩展到其他金砖国家(俄 / 巴 / 印 / 南非)吗?
-- Agorá Phase 2 落地后会否吸纳 mBridge 路径(技术互联)?
-- 中国是否会绕开 mBridge 推自己的 CBDC 互操作框架(类似 CIPS 替代 SWIFT)?
+- mBridge はいつ商用化するか? 他の BRICS 諸国（ロシア / ブラジル / インド / 南アフリカ）に拡張するか?
+- Agorá Phase 2 がローンチした後、mBridge の経路を取り込むか（技術的相互接続）?
+- 中国は mBridge を迂回して独自の CBDC 相互運用フレームワーク（SWIFT を代替する CIPS 類似）を打ち出すか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/bis-project-agora-overview|BIS Project Agorá 概览]]
+- [[fintech/bis-project-agora-overview|BIS Project Agorá 概要]]
 - [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
 - [[fintech/bis-project-guardian-overview|MAS Project Guardian]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构]]
-- [[fintech/jurisdiction-list-monetary-protectionism|管辖区列表 · 货币保护主义]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]]
+- [[fintech/jurisdiction-list-monetary-protectionism|法域リスト · 通貨保護主義]]
 <!-- /wiki-links:managed -->
 
 ## Sources

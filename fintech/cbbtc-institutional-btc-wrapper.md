@@ -1,10 +1,10 @@
 ---
-title: cbBTC · Coinbase 包装 BTC · 机构信任替代 WBTC 的窗口期产品
+title: cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィンドウ・プロダクト
 aliases: [cbbtc-institutional-btc-wrapper, cbBTC, Coinbase Wrapped BTC]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, wrapped-asset, bitcoin, coinbase, base, defi, custody]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# cbBTC · Coinbase 包装 BTC · 机构信任替代 WBTC 的窗口期产品
+# cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィンドウ・プロダクト
 
 
 ## Wiki route
@@ -25,40 +25,40 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> cbBTC 是 Coinbase 托管的 ERC-20 wrapped BTC (2024-09-12 上线),1:1 BTC 储备 · 2026-03 流通 ~**89,000 cbBTC** / 市值 **$6.1B** / Base 上 TVL **$839M**。在 2024 年 BitGo WBTC 治理风波后,cbBTC 抓住"机构 BTC-DeFi 头寸迁移"窗口期成为替代,并构成 Coinbase **veToken host protocol flywheel** 中的 host 资产层——把 BTC 从 CEX 托管资产升级为"链上自循环现金流引擎"。
+> cbBTC は Coinbase がカストディする ERC-20 ラップド BTC（2024-09-12 ローンチ）、1:1 BTC 準備 · 2026-03 時点で流通量 ~**89,000 cbBTC** / 時価総額 **$6.1B** / Base 上 TVL **$839M**。2024 年の BitGo WBTC ガバナンス騒動後、cbBTC は「機関 BTC-DeFi ポジション移行」ウィンドウを捉え代替地位を確立、Coinbase の **veToken host protocol flywheel** における host 資産レイヤーを構成し、BTC を CEX カストディ資産から「オンチェーン自己循環キャッシュフロー・エンジン」へとアップグレードした。
 
 ## Key facts
 
-- 流通量 **~89,000 cbBTC** · 市值 **$6.1B** · Base TVL **$839M** (2026-03) ^[extracted]
-- 1:1 BTC 储备 · Coinbase 托管 · 链上 attestation ^[extracted]
-- 上线日 2024-09-12 · ERC-20 多链 (主要 Base + Ethereum) ^[extracted]
-- 流动性核心场所 Aerodrome / Curve trading pairs ^[extracted]
-- 同一基础设施同时托管 BlackRock IBIT (Coinbase 也是 IBIT 主要托管方) ^[extracted]
-- WBTC (BitGo) 2024 把储备多签转给 Justin Sun 关联实体 → 机构信任迁移 → cbBTC 受益 ^[extracted]
+- 流通量 **~89,000 cbBTC** · 時価総額 **$6.1B** · Base TVL **$839M** (2026-03) ^[extracted]
+- 1:1 BTC 準備 · Coinbase カストディ · オンチェーン attestation ^[extracted]
+- ローンチ日 2024-09-12 · ERC-20 マルチチェーン（主に Base + Ethereum） ^[extracted]
+- 流動性中核会場 Aerodrome / Curve トレーディングペア ^[extracted]
+- 同一インフラが同時に BlackRock IBIT をカストディ（Coinbase は IBIT の主要カストディアン） ^[extracted]
+- WBTC（BitGo）2024 年に準備マルチシグを Justin Sun 関連エンティティに移管 → 機関信頼の移行 → cbBTC が受益 ^[extracted]
 
 ## Mechanism / How it works
 
-cbBTC 在 Coinbase 4 层闭环中扮演 host 资产:**Coinbase CEX → mint cbBTC (host 资产) → 进入 Base (host 平台) → Aerodrome swap (host DEX) → veAERO bribe (host token)**。Coinbase 既保留 CEX 托管 BTC 的 custody fee + spread,又让这部分 BTC 在 DeFi 中产生第二层流动性收益。整个闭环年化估算 **$130-250M** (详见 [[exchanges/vetoken-host-protocol-flywheel|veToken host protocol flywheel]])。这是 Coinbase 应对 Circle Arc 主网吸纳机构 USDC 后 Base 估值减损 $20-25B 的**链上自给自足防御**。
+cbBTC は Coinbase の 4 層クローズドループにおいて host 資産として機能する: **Coinbase CEX → cbBTC を mint（host 資産） → Base に進出（host プラットフォーム） → Aerodrome swap（host DEX） → veAERO bribe（host token）**。Coinbase は CEX カストディ BTC の custody fee + spread を保持しつつ、その BTC 部分が DeFi で 2 層目の流動性収益を生む構造を実現。クローズドループ全体の年換算は **$130-250M** と推定（詳細は [[exchanges/vetoken-host-protocol-flywheel|veToken host protocol flywheel]]）。これは Circle Arc メインネットが機関 USDC を吸収して Base のバリュエーションが $20-25B 毀損するリスクに対する **オンチェーン自給自足型防御** である。
 
 ## Origin & evolution
 
-2024-09-12 cbBTC 上线 (Coinbase 内部 BTC 业务部门 + Base 团队联合发布)。2024-Q4 BitGo 治理风波 (WBTC 储备多签转 Sun 关联实体) 引发机构信任危机,Coinbase 主动以"美国上市公司 + OCC 监管 + 透明储备" 三件套接收迁移。2025-Q1 cbBTC 在 Aerodrome 流动性深度反超 WBTC。2025-Q3 Aerodrome+Velodrome 合并 (94.5% : 5.5%) 进入 Ethereum L1 + Circle Arc,cbBTC 跨链复制路径启动。2026-03 流通量达 89,000 BTC = WBTC 历史峰值的 ~60%。**机构迁移窗口期约 18-24 个月**,一旦头寸固化迁移成本极高,与 [[fintech/regulatory-window-strategic-acquisition|监管窗口 × 战略收购]] 中"窗口期对手不可逆迁移"逻辑同构。
+2024-09-12 cbBTC ローンチ（Coinbase 内部 BTC 事業部 + Base チームが連名で公表）。2024-Q4 BitGo ガバナンス騒動（WBTC 準備マルチシグを Sun 関連エンティティに移管）が機関信頼危機を引き起こし、Coinbase は「米国上場企業 + OCC 規制下 + 透明な準備」の 3 点セットを掲げて能動的に移行を受け入れた。2025-Q1 cbBTC は Aerodrome 流動性の深さで WBTC を逆転。2025-Q3 Aerodrome+Velodrome が合併（94.5% : 5.5%）し Ethereum L1 + Circle Arc に進出、cbBTC のクロスチェーン複製経路を開始。2026-03 流通量は 89,000 BTC = WBTC 過去ピークの ~60% に到達。**機関移行ウィンドウは約 18-24 か月**、いったんポジションが固定化すると移行コストが極めて高くなる現象は、[[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ × 戦略的買収]] における「ウィンドウ期間の対戦相手不可逆移行」ロジックと同型構造。
 
 ## Counterpoints
 
-cbBTC 单点失败 + 利益冲突:Coinbase 同时是托管方 + 链方 + Aerodrome 大股东 + cbBTC mint/burn 控制人 + 链上 attestation 提供方。SEC 在 Coinbase v SEC 诉讼中已暗示这类多重角色的复杂性,这与 [[fintech/issuer-distributor-incentive-realignment-arc-strategy|发行/分销 ARC 战略]] 中 Circle 把 issuer / chain / distributor 内化为同一实体的"全栈反向整合"路径形成镜像。Threshold tBTC 在散户路径仍有替代作用,Wrapped 资产领域不是 winner-takes-all。**反例**:若 OCC 禁止 Coinbase 同时托管 IBIT + cbBTC + USDC 储备,Coinbase 必须拆分业务,cbBTC 飞轮直接受损。
+cbBTC の単一障害点 + 利益相反: Coinbase は同時にカストディアン + チェーン提供者 + Aerodrome 大株主 + cbBTC mint/burn コントロール + オンチェーン attestation 提供者である。SEC は Coinbase v SEC 訴訟でこの種の複数役割の複雑性をすでに示唆しており、これは [[fintech/issuer-distributor-incentive-realignment-arc-strategy|発行/分配 ARC 戦略]] において Circle が issuer / chain / distributor を同一エンティティに内部化する「フルスタック逆統合」経路と鏡像をなす。Threshold tBTC はリテール経路で依然代替的役割を持ち、ラップド資産領域は winner-takes-all ではない。**反例**: OCC が Coinbase に IBIT + cbBTC + USDC 準備の同時カストディを禁止した場合、Coinbase は事業を分離せざるを得ず、cbBTC フライホイールは直接打撃を受ける。
 
 ## Open questions
 
-cbBTC 跨链到 Solana / 非 EVM 链时如何处理 1:1 储备审计?Coinbase 2026 IPO 估值模型是否会单独披露 cbBTC 闭环现金流?机构 BTC-DeFi 头寸固化窗口结束后,cbBTC 增长曲线会否进入瓶颈?
+cbBTC が Solana / 非 EVM チェーンにクロスチェーンする際、1:1 準備監査をどう処理するか? Coinbase 2026 IPO のバリュエーション・モデルは cbBTC クローズドループのキャッシュフローを個別に開示するか? 機関 BTC-DeFi ポジションの固定化ウィンドウ終了後、cbBTC の成長曲線はボトルネックに入るか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[exchanges/vetoken-host-protocol-flywheel|veToken × 主导方 DEX 自循环飞轮]]
-- [[exchanges/native-dex-flip-incumbent-pattern|L2 原生 DEX 反超 incumbent]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]]
-- [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP 开发者平台]]
+- [[exchanges/vetoken-host-protocol-flywheel|veToken × 主導者 DEX 自己循環フライホイール]]
+- [[exchanges/native-dex-flip-incumbent-pattern|L2 ネイティブ DEX が incumbent を逆転]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street 暗号ネットワーク中立性]]
+- [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP 開発者プラットフォーム]]
 <!-- /wiki-links:managed -->
 
 ## Sources
