@@ -31,6 +31,7 @@
 - Resolve `[[domain/INDEX]]` as `https://finwiki.zksc.io/domain/INDEX`.
 - Do NOT append `.md` to URLs — `https://finwiki.zksc.io/fintech/circle-usdc-stablecoin.md` returns 404. Use the extensionless URL or fetch raw markdown from `https://raw.githubusercontent.com/jasonhnd/finwiki/main/<domain>/<slug>.md`.
 - For a single entry's metadata in one request (frontmatter / summary / headings / wikilinks / inbound count), fetch `https://finwiki.zksc.io/api/entries/<domain>/<slug>.json`.
+- If you already have the rendered HTML in context, frontmatter is also embedded in the page `<head>` as: (a) schema.org Article JSON-LD with `keywords` / `alternateName` / `citation` / `additionalProperty`, (b) `<meta name="finwiki:*">` tags (`domain`, `tags`, `aliases`, `sources`, `confidence`, `status`, `last_updated`, `review_by`), (c) `<link rel="alternate" type="application/json">` to the per-entry API and `<link rel="alternate" type="text/markdown">` to the raw source.
 - For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.
 - For research tasks ('how do I find entries about X?'), start at `llms-tasks.txt` — 16 common tasks each with a start file + bedrock follow-ups + matrix anchor.
 
