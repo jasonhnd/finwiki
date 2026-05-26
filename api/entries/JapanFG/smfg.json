@@ -49,7 +49,7 @@
     "三井住友 FG (SMFG / SMBC グループ)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "2026-03 期決算（連結, 2026-05-13 公表）^[extracted from 決算短信]",
     "主要株主（2025-03-31）^[extracted]",
     "主要子会社・持分 + 戦略提携先",
@@ -97,8 +97,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14623,
-    "word_like_tokens": 2880,
+    "nonspace_chars": 14611,
+    "word_like_tokens": 2874,
     "inbound_wikilinks_count": 104,
     "last_modified": "2026-05-26"
   }

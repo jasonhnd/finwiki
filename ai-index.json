@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-26T14:02:07+09:00",
+  "generated_at": "2026-05-26T14:34:36+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10443329,
-    "word_like_tokens": 1661130
+    "nonspace_utf8_chars": 10443303,
+    "word_like_tokens": 1661117
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -20907,7 +20907,7 @@
         "三菱 UFJ FG (MUFG)",
         "Wiki route",
         "TL;DR",
-        "1. 公司结构",
+        "1. 会社概要",
         "2026-03 期決算 (FY2026・連結, 2026-05-15 公表) ^[extracted]",
         "FY2027/3 業績予想 ^[extracted]",
         "2025-03 期決算（連結・前期比較用）^[extracted]",
@@ -20940,8 +20940,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14474,
-      "word_like_tokens": 2940,
+      "nonspace_chars": 14460,
+      "word_like_tokens": 2933,
       "last_modified": "2026-05-26"
     },
     {
@@ -28525,7 +28525,7 @@
         "三井住友 FG (SMFG / SMBC グループ)",
         "Wiki route",
         "TL;DR",
-        "1. 公司结构",
+        "1. 会社概要",
         "2026-03 期決算（連結, 2026-05-13 公表）^[extracted from 決算短信]",
         "主要株主（2025-03-31）^[extracted]",
         "主要子会社・持分 + 戦略提携先",
@@ -28568,8 +28568,8 @@
         "https://finwiki.zksc.io/ssnb"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14623,
-      "word_like_tokens": 2880,
+      "nonspace_chars": 14611,
+      "word_like_tokens": 2874,
       "last_modified": "2026-05-26"
     },
     {
