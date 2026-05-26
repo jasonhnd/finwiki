@@ -3,8 +3,8 @@ title: 百十四銀行 (Hyakujushi Bank)
 aliases: ["百十四", "ひゃくじゅうし", "The Hyakujushi Bank", "株式会社百十四銀行", "114 Bank"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, shikoku]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 香川県地盤の独立系地方銀行。**1878-12-23 第百十四国立銀行**として高松で創業、社名は旧国立銀行番号「114」由来。**持株会社化していない単独銀行**として東証 PRIME 上場 (8386)、香川県の指定金融機関を担う県内最大手行。県内では [[tomony-hd]] 傘下の [[kagawa-bank|香川銀行]] と二強体制、四国広域では [[iyogin-hd]] / [[iyo-bank|伊予銀行]] (愛媛)・[[awa-bank|阿波銀行]] (徳島)・[[shikoku-bank|四国銀行]] (高知) と競合する四国 4 大地銀の一角。2015 年 **TSUBASA アライアンス**準会員参加で千葉銀行系の広域ゆるやかな連携網に参画。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社百十四銀行 ^[extracted]
 **英名**：The Hyakujushi Bank, Ltd.
@@ -60,7 +60,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020〜2024 | コロナ禍対応支援融資・中小企業伴走支援強化 |
 | 2024〜 | 新中期経営計画（2024〜）始動 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -147,5 +147,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia + 公式沿革 + TSUBASA 公開情報 校核 2026-05-19）。一部の県内シェア・指定金融機関ステータス・域外支店収益寄与は公開数値が限られるため ^[inferred] とした。最新業績数値（純利益・総資産・自己資本比率）は IR 開示資料を要参照。
+> [!info] 検証状況
+> confidence: **likely**（v1.0 Wikipedia + 公式沿革 + TSUBASA 公開情報 検証 2026-05-19）。一部の県内シェア・指定金融機関ステータス・域外支店収益寄与は公開数値が限られるため ^[inferred] とした。最新業績数値（純利益・総資産・自己資本比率）は IR 開示資料を要参照。

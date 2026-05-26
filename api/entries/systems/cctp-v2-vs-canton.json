@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cctp-v2-vs-canton.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cctp-v2-vs-canton.md",
   "domain": "systems",
-  "title": "CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙",
+  "title": "CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙",
+    "title": "CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙",
     "aliases": [
       "cctp-vs-canton",
       "public-vs-private-stablecoin-rails",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -33,9 +33,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against CCTP V2 概览 · Circle USDC 跨链 burn-and-mint for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "CCTP V2 vs Canton · 公链路线 vs 私链路线根本对峙",
+    "CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2498,
-    "word_like_tokens": 436,
+    "nonspace_chars": 2856,
+    "word_like_tokens": 448,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

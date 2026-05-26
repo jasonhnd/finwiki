@@ -3,8 +3,8 @@ title: 日本郵政 (Japan Post Holdings)
 aliases: ["Japan Post", "Japan Post Holdings", "日本郵政", "日本郵政株式会社", "JP HD", "JPHD"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, post, government-related]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 旧 日本郵政公社 を改組した「郵便 + 金融 [銀行 + 保険]」3 本柱の上場持株会社。**国内最大級の金融グループ**（連結ベースでグループ運用資産規模 250 兆円超の領域）。2015-11-04 に持株会社 / [[yucho]] / [[kampo-life]] **3 社同時 IPO** ★。筆頭株主は財務大臣（郵政民営化法により**当面 1/3 超**保有義務）。2019-2020 [[kampo-life]] 不適切販売事件で経営陣交代・業務改善命令を受け、信頼回復と運用利回り改善が中期テーマ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：日本郵政株式会社 ^[extracted]
 **英名**：Japan Post Holdings Co., Ltd.
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024-03 期前後 | **楽天 G 株 ほぼ全量売却**（2021 出資はキャピタル損益化）^[inferred] |
 | 2024 | 中期経営計画 アップデート（金融 2 社連携 + 不動産 + DX）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -92,7 +92,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | グループ CVC | 日本郵政キャピタル | スタートアップ・物流テック出資 |
 | シニア・地域 | 日本郵便「みまもりサービス」等 | 郵便局網を介護・自治体連携プラットフォーム化 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### グループ統合シナジー
 
@@ -100,7 +100,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **金融 2 社の運用利回り改善**: 国内国債中心ポートフォリオから、海外社債・オルタナティブ（PE / インフラ / 不動産）への分散にシフト。とくに [[yucho]] は本邦最大級の機関投資家化を志向 ^[inferred]
 - **物流 × EC**: 日本郵便のラストワンマイル網と EC プラットフォームの連携。旧 楽天 G 提携はこの文脈で位置付けられていた ^[extracted]
 
-### 合纵连横
+### 提携・買収戦略
 
 - **楽天グループ提携・解消**（2021-03 → 2024 ほぼ売却）: 出資 1,500 億円規模だったが、楽天モバイル赤字 + 物流 JV 進捗鈍化で実質撤収。提携自体はモバイル / 物流分野で残る ^[ambiguous]
 - **金融 2 社株式の段階処分**: 民営化法上、日本郵政は [[yucho]] / [[kampo-life]] 株を段階的に処分する目標。一方で郵便局網と金融販売の不可分性から、完全分離には政治的抵抗がある ^[extracted]
@@ -115,7 +115,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 郵便ポストの赤・「〒」マーク・郵便局網は日本最強級の B2C リーチ。「公共性 × 信頼」を中核ブランド資産とする ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：総務省（郵政行政・ユニバーサルサービス）+ 金融庁（[[yucho]] 銀行業 / [[kampo-life]] 保険業）
 - **根拠法**：郵政民営化法 / 日本郵政株式会社法 / 日本郵便株式会社法 / ゆうちょ銀行株式会社・かんぽ生命保険株式会社の各根拠法
@@ -169,5 +169,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公開法令ベース 2026-05-19）。総資産・運用残高・株主比率の精緻な時点値は 日本郵政グループ 統合報告書 / 有価証券報告書での再確認が必要。とくに政府保有比率と金融 2 社株の処分進捗は政令改正で動くため、review_by までに 2026-09 期決算と中期経営計画アップデートで再校核すること。

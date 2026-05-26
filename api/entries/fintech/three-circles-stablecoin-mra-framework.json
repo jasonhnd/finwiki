@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/three-circles-stablecoin-mra-framework.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/three-circles-stablecoin-mra-framework.md",
   "domain": "fintech",
-  "title": "美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构",
+  "title": "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构（MRA 互认）",
+    "title": "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証）",
     "aliases": [
       "three circles MRA",
       "US-EU-Japan stablecoin agreement",
-      "三圆合规架构"
+      "三円コンプライアンスアーキテクチャ"
     ],
     "domain": "fintech",
     "created": "2026-05-13",
-    "last_updated": "2026-05-13",
-    "last_tended": "2026-05-13",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-13",
     "confidence": "certain",
     "tags": [
@@ -40,7 +40,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "美 / 欧 / 日 \"三个大圆\" 稳定币全球合规架构",
+    "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ",
     "Wiki route",
     "Related"
   ],
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2610,
-    "word_like_tokens": 425,
+    "nonspace_chars": 2888,
+    "word_like_tokens": 443,
     "inbound_wikilinks_count": 59,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

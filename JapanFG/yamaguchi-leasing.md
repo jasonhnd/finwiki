@@ -3,8 +3,8 @@ title: "山口リース (Yamaguchi Leasing)"
 aliases: ["Yamaguchi Leasing", "山口リース", "株式会社山口リース", "YMFG リース", "YM Lease", "ワイエムリース"]
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, yamaguchi-fg, leasing, chugoku, kyushu, yamaguchi, hiroshima, operating-company]
@@ -26,7 +26,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 株式会社山口リース (ワイエムリース) は、[[yamaguchi-fg|山口 FG (YMFG, 東証 PRIME 8418)]] グループの地銀系リース会社で、山口銀行・[[momiji-bank|もみじ銀行]] (広島県) ・[[kitakyushu-bank|北九州銀行]] (福岡県北九州) の 3 行体制を背景に、**中国地方西部 + 広島 + 北九州 (関門海峡経済圏) の広域地盤**で設備リース・ファイナンスリース・オペレーティングリース・自治体リース・医療リース・オートリース等を提供。地銀系リースとしては「3 行 3 ブランド」を背景とした県境を越える広域 model が特徴。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -133,7 +133,7 @@ YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の *
 - 強み: 3 行 3 ブランド (山口 + 広島 + 北九州) の広域地盤 + 山陽 / 北九州工業地帯製造業集積 + [[concordia-fg|横浜 FG]] との域外提携
 - 弱み: 単独規模では大手リースに大幅劣後、3 行間のブランド調整負荷、中国地方西部 = 人口減少先行地域 ^[inferred]
 
-## 5. 监管与会计
+## 5. 規制・会計
 
 ### 規制枠組み
 
@@ -199,5 +199,5 @@ YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の *
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[yamaguchi-fg]] page = 3 行 3 ブランド holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[yamaguchi-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・合併経緯の正確な年月は ambiguous ^[ambiguous]。

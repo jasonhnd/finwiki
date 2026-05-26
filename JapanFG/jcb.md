@@ -3,8 +3,8 @@ title: 株式会社ジェーシービー (JCB)
 aliases: ["JCB", "ジェーシービー", "Japan Credit Bureau", "JCB Co., Ltd.", "株式会社ジェーシービー"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, credit-card]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **日本唯一の国際カードブランド**。1961-01 旧三和銀行 + 日本信販 等の出資で「日本クレジットビューロー (Japan Credit Bureau)」として発足、後に略称「JCB」が社名・ブランド名として定着。国際 5 大カードブランド (**Visa / Mastercard / American Express / Discover / JCB**) の一角を構成し、**アジア (日本・中国・韓国・台湾・東南アジア) で強み**。非上場 — 主要株主は [[mufg]] 系・[[smfg]] 系の銀行連合。米国は Discover、中国は銀聯 (UnionPay) との相互利用提携で世界 200 超の国・地域でカバー。国内は [[smfg]] 系三井住友カード (Visa) / 楽天カード等と競合。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ジェーシービー
 **英名**：JCB Co., Ltd.
@@ -82,7 +82,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2020〜** | **JCB コンタクトレス (タッチ決済) 拡大** (NFC 非接触決済) |
 | 2020 年代 | デジタル決済 (QR コード / モバイル決済) 対応・「Apple Pay / Google Pay / Garmin Pay」等対応 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 備考 |
 |---|---|---|
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **アクセプタンス (相互利用)** | Discover (米) / 銀聯 (中国) / Amex (旧) との相互利用 | 海外加盟店カバレッジ補完 |
 | **デジタル・タッチ決済** | JCB コンタクトレス / Apple Pay / Google Pay / モバイル決済 | 2020〜拡大 |
 
-## 3. 戦略与競争
+## 3. 戦略・競争
 
 ### 国際ブランド差別化
 
@@ -123,7 +123,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **eコマース・3Dセキュア 2.0** 対応
 - **日銀デジタル円試行への協力** (推定 / Wikipedia 公開情報ベース)
 
-## 4. 監管与政策
+## 4. 規制・政策
 
 - **主管**: 経済産業省 (割賦販売法所管) + 金融庁 (資金決済法・改正割賦販売法等)
 - **主要根拠法**: 割賦販売法 (クレジットカード会社規制)、資金決済法 (前払式支払手段等)
@@ -171,5 +171,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (Wikipedia + JCB 公式公開情報ベース、2026-05-19 参照)。非上場のため業績・正確な持株比率等の数値は限定的。重要な歴史 (1961 設立 / 1981 国際化 / 1989 Amex 提携 / 2006 銀聯提携 / 2020 タッチ決済) は公開情報で十分検証可能。国内シェア・国際展開規模等の最新値は JCB 公式発表 / 経産省「キャッシュレス決済比率」公表資料を要参照。

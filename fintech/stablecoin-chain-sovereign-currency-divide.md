@@ -1,12 +1,12 @@
 ---
-title: 稳定币地缘货币对立框架（美 / 欧 / 日 / 中 / 灰 五极格局）
-aliases: [stablecoin sovereign currency divide, geo-political stablecoin, 五极稳定币]
+title: ステーブルコイン地政学通貨対立フレームワーク（米 / 欧 / 日 / 中 / グレーの 5 極構図）
+aliases: [stablecoin sovereign currency divide, geo-political stablecoin, 5 極ステーブルコイン]
 domain: fintech
 kind: framework
 topic: stablecoin-chain-sovereign-currency-divide
 created: 2026-05-13
-last_updated: 2026-05-13
-last_tended: 2026-05-13
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-13
 confidence: likely
 tags: [fintech, stablecoin, geopolitics, sovereign-currency, framework]
@@ -19,58 +19,58 @@ sources:
   - https://www.bis.org/cpmi/publ/d215.htm
 ---
 
-# 稳定币地缘货币对立框架
+# ステーブルコイン地政学通貨対立フレームワーク
 
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|美 / 欧 / 日 "三个大圆" 稳定币全球合规架构（MRA 互认）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|米 / 欧 / 日 「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> 2026-2030 年的稳定币战争将演化为**五极地缘货币对立**,而非单一的"USDC vs USDT"零和竞争:①美国合规阵营（USDC / USD1 / PYUSD on Arc / Tempo / Base）②欧盟阵营（EURC + EUR-stable on MiCA-compliant chains）③日本阵营（JPYC / XJPY on Progmat / Arc-Japan-channel）④中国 / 香港阵营（e-CNY 链外 + HKD-stable）⑤灰色市场（USDT on Tron + Lightning + 新兴地下通道）。
+> 2026-2030 年のステーブルコイン戦争は、単純な「USDC vs USDT」のゼロサム競争ではなく、**5 極の地政学的通貨対立**へ進化する：①米国コンプライアンス陣営（USDC / USD1 / PYUSD on Arc / Tempo / Base）②EU 陣営（EURC + EUR-stable on MiCA-compliant chains）③日本陣営（JPYC / XJPY on Progmat / Arc-Japan-channel）④中国 / 香港陣営（e-CNY オフチェーン + HKD-stable）⑤グレー市場（USDT on Tron + Lightning + 新興地下チャネル）。
 
-**五极格局**：
+**5 極構図**：
 
-| 极 | 主导货币 | 主导链 | 主导监管 | 关键玩家 |
+| 極 | 主導通貨 | 主導チェーン | 主導規制 | キープレイヤー |
 |---|---|---|---|---|
-| 🇺🇸 美国合规 | USDC / USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum | [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] | Circle / Stripe / Coinbase / PayPal |
-| 🇪🇺 欧盟 | EURC / EUR-stable | MiCA-compliant chains | [[fintech/mica-overview|MiCA]] ART / EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
+| 🇺🇸 米国コンプライアンス | USDC / USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum | [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] | Circle / Stripe / Coinbase / PayPal |
+| 🇪🇺 EU | EURC / EUR-stable | MiCA-compliant chains | [[fintech/mica-overview|MiCA]] ART / EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
 | 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[JapanFG/mufg|三菱 UFJ]] / SBI / [[JapanFG/jpyc|JPYC]]（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
-| 🇨🇳🇭🇰 中港 | e-CNY（链外）+ HKD-stable | 香港 sandbox + 圆币科技 First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]] + PBoC | 蚂蚁国际 / 京东 / 渣打香港 |
-| 🌍 灰色 | USDT | Tron + Lightning + 新通道 | 各国规避 | Tether（Lugano）/ Tron / 灰色支付商 |
+| 🇨🇳🇭🇰 中港 | e-CNY（オフチェーン）+ HKD-stable | 香港 sandbox + 円幣科技 First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]] + PBoC | アント国際 / 京東 / スタンチャート香港 |
+| 🌍 グレー | USDT | Tron + Lightning + 新チャネル | 各国規制回避 | Tether（Lugano）/ Tron / グレー決済業者 |
 
-**演化驱动因素**：
+**進化のドライバー**：
 
-- **美国 GENIUS Act** 实施 → 强制非合规稳定币退出美国市场
-- **欧盟 MiCA** → 强制非合规稳定币退出欧盟市场（USDT 已被部分交易所下架）
-- **日本 EPI 三型** → 持牌发行人格局确立
-- **香港稳定币立法** → 离岸通道结构化
-- **Tether** 主动选择不进入合规市场 → 巩固其在灰色市场的霸权地位
+- **米国 GENIUS Act** 施行 → 非コンプライアンスステーブルコインの米国市場からの強制撤退
+- **EU MiCA** → 非コンプライアンスステーブルコインの EU 市場からの強制撤退（USDT は一部取引所で既に上場廃止）
+- **日本 EPI 三型** → ライセンス保有発行体構造の確立
+- **香港ステーブルコイン立法** → オフショアチャネルの構造化
+- **Tether** が能動的にコンプライアンス市場へ進出しない選択 → グレー市場における覇権を固守
 
-**关键含义**：
+**キー含意**：
 
-1. **零和概率显著下降**:每极都有自己的"主场",跨极竞争成本高昂
-2. **跨极桥接成为新基建**:例如 [[stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 环形持股]]提供 JPY ↔ USDC 通道
-3. **Visa 等大型机构的网络中立策略**（参见 [[wall-street-crypto-network-neutrality]]）使其跨极皆可收费
-4. **监管套利空间持续收窄**:每极皆有严格立法,跨极合规要求叠加
+1. **ゼロサム確率が顕著に低下**：各極が自身の「主戦場」を有し、極間競争のコストは高い
+2. **極間ブリッジングが新インフラに**：たとえば [[stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]] が JPY ↔ USDC チャネルを提供
+3. **Visa 等大型機関のネットワーク中立戦略**（[[wall-street-crypto-network-neutrality]] 参照）により極を跨いで手数料徴収が可能
+4. **規制アービトラージの余地が継続的に縮小**：各極が厳格な立法を保有し、極を跨ぐコンプライアンス要求が累積
 
-**不确定因素**：
+**不確実要因**：
 
-- 中国大陆是否最终允许境外稳定币（HK 试点作为先导）
-- 印度 / 巴西 / 非洲市场最终归属哪一极（目前介于美国阵营与灰色市场之间）
-- AI agent 经济的支付协议是否突破地缘分割（[[protocol-hedge-strategy-stripe-pattern|多协议 hedge]] 具备跨极潜力）
+- 中国本土が最終的に海外ステーブルコインを許可するか（HK パイロットを先行案件として）
+- インド / ブラジル / アフリカ市場が最終的にどの極に帰属するか（現状は米国陣営とグレー市場の間）
+- AI agent 経済の決済プロトコルが地政学分断を突破するか（[[protocol-hedge-strategy-stripe-pattern|マルチプロトコル hedge]] には極を跨ぐポテンシャル）
 
-**战略观察**：
+**戦略的観察**：
 
-- 投资视角:单押任一极都存在地缘风险,多极配置（USDC + JPYC + EURC）更具稳健性
-- 市场结构视角:日本极在美国极通道上的关键节点（USDC 直连 / Arc 通道）将成为重要战略点
+- 投資視点：いずれかの極へのシングルベットは地政学リスクを抱える、マルチ極配分（USDC + JPYC + EURC）の方が頑健
+- 市場構造視点：日本極における米国極チャネル上の重要ノード（USDC 直結 / Arc チャネル）は重要な戦略拠点となる
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度的三层构造]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 链级 Denylist]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street 网络中立投资]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether 商业模式]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 チェーン級 Denylist]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street ネットワーク中立投資]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether ビジネスモデル]]
 <!-- /wiki-links:managed -->

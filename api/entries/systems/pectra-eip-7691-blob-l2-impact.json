@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/pectra-eip-7691-blob-l2-impact.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/pectra-eip-7691-blob-l2-impact.md",
   "domain": "systems",
-  "title": "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+  "title": "Pectra EIP-7691 · blob 倍増と L2 経済連鎖",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+    "title": "Pectra EIP-7691 · blob 倍増と L2 経済連鎖",
     "aliases": [
       "pectra-eip-7691-blob-l2-impact",
       "eip-7691",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -36,9 +36,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against Ethereum Pectra 升级 · 四 EIP 双轨战略总览 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Pectra EIP-7691 · blob 翻倍与 L2 经济连锁",
+    "Pectra EIP-7691 · blob 倍増と L2 経済連鎖",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2672,
-    "word_like_tokens": 507,
+    "nonspace_chars": 2976,
+    "word_like_tokens": 520,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -46,12 +46,12 @@
     "日本生命保険相互会社 (Nippon Life)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "形態の特徴：相互会社",
     "主要子会社・関連",
     "重要年表（抜粋）",
-    "2. 业务线 map",
-    "3. 业绩 snapshot（FY2024 / 2025-03 期）",
+    "2. 事業セグメント・マップ",
+    "3. 業績 snapshot（FY2024 / 2025-03 期）",
     "グループ連結ベース"
   ],
   "body_links": {
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7982,
-    "word_like_tokens": 1299,
+    "nonspace_chars": 7987,
+    "word_like_tokens": 1298,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

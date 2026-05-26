@@ -9,8 +9,8 @@ aliases:
   - "ソシエテ・ジェネラル証券"
 domain: "JapanFG"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, foreign-bank, foreign-ib, france]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ソシエテ・ジェネラル日本は、仏大手銀行 Societe Generale グループの在日拠点群。銀行東京支店と証券法人を通じて、ホールセール銀行、マーケッツ、デリバティブ、証券・投資銀行業務を行う。[[JapanFG/deutsche-japan|deutsche-japan]]、[[JapanFG/bnp-paribas-japan|bnp-paribas-japan]]、[[JapanFG/barclays-japan|barclays-japan]] と並ぶ欧州系在日 IB / markets 参加者。
 
-## 1. 公司结构
+## 1. 会社概要
 
 | 項目 | 内容 |
 |---|---|
@@ -46,7 +46,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 金融庁の登録金融機関一覧では、ソシエテ・ジェネラル銀行東京支店は関東財務局長（登金）第90号の登録金融機関として確認できる。外国銀行代理銀行一覧では、ソシエテ・ジェネラル銀行東京支店に関する認可も確認できる。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | 业务线 | 内容 | 日本での位置づけ |
 |---|---|---|
@@ -56,14 +56,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 投資銀行 | 資本市場、M&A、クロスボーダー案件 | 邦銀・欧米 IB との競合 |
 | 外国銀行代理 | グループ銀行業務の日本代理 | 規制上の明確な枠組み |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 - **欧州系 markets house**: SocGen はグローバルにデリバティブ・structured products で存在感があり、日本では機関投資家・金融機関向けが中心。
 - **欧州勢との比較**: [[JapanFG/deutsche-japan|Deutsche]] は FICC・欧州銀行、[[JapanFG/bnp-paribas-japan|BNP Paribas]] は仏最大級総合金融、SocGen は markets / derivatives 色が強い。
 - **米系 IB との差**: [[JapanFG/jpmorgan-japan|JPMorgan]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley]] より日本での大型 M&A プレゼンスは相対的に小さいが、商品設計と欧州顧客接点に強みがある。
 - **規制接点**: 登録金融機関・外国銀行代理・証券会社という複数ライセンスを組み合わせるため、銀行法・金商法・デリバティブ規制の横断理解が必要。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - ソシエテ・ジェネラル銀行東京支店は外国銀行支店として銀行法監督対象。
 - 登録金融機関業務は金商法に基づく登録金融機関規制の対象。
@@ -97,5 +97,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。公式日本ページと金融庁登録資料で実在・ライセンス境界を確認。財務 KPI は非公開性が高く、次回は本国 annual report と在日法定公告で補う。

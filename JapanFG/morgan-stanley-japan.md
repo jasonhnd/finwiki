@@ -3,8 +3,8 @@ title: モルガン・スタンレー・ジャパン (Morgan Stanley Japan)
 aliases: ["Morgan Stanley Japan", "MS Japan", "モルガン・スタンレー・ジャパンホールディングス", "MSJH", "MUMSS", "MSMS", "三菱 UFJ モルガン・スタンレー証券", "モルガン・スタンレー MUFG 証券"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 米 Morgan Stanley (NYSE: MS) の日本拠点。**MUFG [[mufg]] との戦略提携 (2008-09)** により、邦銀最深いグローバル IB タイアップを構築。2010-05 日本証券事業を統合し **2 社体制**(三菱 UFJ モルガン・スタンレー証券 = MUMSS / モルガン・スタンレー MUFG 証券 = MSMS) で運営。MUMSS は対面リテール + ECM/DCM、MSMS はホールセール (M&A・機関投資家)。5 大証券の一角を占め、グローバル投資銀行業務で野村 [[nomura-hd]] と並ぶ存在感。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**: Morgan Stanley (NYSE: MS) — 米ニューヨーク本社、グローバル投資銀行・WM・IM
 **日本統括**: モルガン・スタンレー・ジャパンホールディングス株式会社 (Morgan Stanley Japan Holdings Co., Ltd.)
@@ -54,7 +54,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 業態 | Investment Banking / Wealth Management / Investment Management |
 | 従業員 | 約 8 万人 (グローバル, 2024 期末) |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -66,7 +66,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **エクイティリサーチ** | MSMS + MS Research | グローバル統合カバレッジ |
 | **プライムブローカレッジ** | MSMS | ヘッジファンド向け |
 | **キャピタル業務** | モルガン・スタンレー・キャピタル | バランスシート利用 |
-| **WM (Wealth Management)** | MUMSS リテール | 個人富裕層、海外プロダクト供給 |
+| **WM (Wealth Management)** | MUMSS リテール | 個人富裕層、海外プロダクト供に |
 
 ### 競合ポジショニング
 
@@ -91,7 +91,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2008-09-15** リーマン・ブラザーズ破綻 → Morgan Stanley 株急落、流動性不安
 - **2008-09-22** **MUFG が Morgan Stanley 普通株 21% を約 90 億ドル (約 9000 億円超) で取得** ★
   - 当初は議決権付優先株予定 → 取引完了直前に普通株 + 優先株のハイブリッドに変更
-  - 米財務省 TARP との並行協議、リーマン後の象徴的ディール
+  - 米財務省 TARP との並行協定、リーマン後の象徴的ディール
   - MUFG にとり邦銀最大の対外投資
 - **2009-06** 優先株 → 普通株転換完了
 - **2010-05-01** **MUFG × Morgan Stanley 日本証券事業統合** ★
@@ -134,14 +134,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### ホールセール戦略 (MSMS)
 
 - **クロスボーダー M&A**: 日本企業の海外買収・海外企業の日本買収両面
-- **機関投資家トレーディング**: グローバル流動性供給
+- **機関投資家トレーディング**: グローバル流動性供に
 - **エクイティリサーチ**: グローバル統合カバレッジで機関投資家信頼
 
 ### リテール戦略 (MUMSS)
 
 - **個人富裕層集中**: 対面営業 + プロダクト多様性
 - **MUFG 銀行紹介ルート**: 銀行顧客 → 証券への誘導
-- **海外プロダクト**: MS のグローバルファンド供給
+- **海外プロダクト**: MS のグローバルファンド供に
 
 ### 海外連携
 
@@ -159,7 +159,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | SMBC 日興証券 ([[smfg]]) | 邦銀系傘下、リテール強 |
 | みずほ証券 ([[mizuho-fg]]) | 邦銀系傘下、IB シフト中 |
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁 (FSA) / 証券取引等監視委員会 (SESC)
 - **第一種金融商品取引業**: MUMSS / MSMS 両社が登録
@@ -202,5 +202,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (v1.0 Wikipedia + 公式 IR 校核 2026-05-19)。MUFG 60%/MS 40% (MUMSS) と MUFG 49%/MS 51% (MSMS) の出資比率、2008-09 資本提携 (~9000 億円超で MS 普通株 21% 取得)、2010-05 日本証券事業統合は公開情報で確認。リテール / ホールセール業績数値は時点変動あり、最新は各社開示要参照。

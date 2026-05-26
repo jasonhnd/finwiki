@@ -3,8 +3,8 @@ title: 山陰合同銀行 (San-in Godo Bank)
 aliases: ["ごうぎん", "Gogin", "San-in Godo Bank", "The San-in Godo Bank, Ltd.", "山陰合同銀行"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, sanin, shimane, tottori]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **山陰地方（島根県 + 鳥取県）唯一の上場地銀大手**。1941-07-01 戦時統合（松江銀行 + 米子銀行 等 7 行）で発足。略称「**ごうぎん**」。本店所在地は島根県松江市。持株会社化せず**単独銀行**で東証 PRIME 上場（証券コード 8381）。山陰両県でシェア 4 〜 5 割超、域外は広島・岡山・兵庫・大阪に営業店展開。観光（出雲大社・鳥取砂丘）+ 農漁業 + 製造業（島根原発関連含む）の地域経済を 1 行で抱える構造で、競合は鳥取銀行・[[shimane-bank|島根銀行]]（地元中堅）と、域外で [[chugin-okayama]] / [[hirogin-hd]] / [[yamaguchi-fg]]。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社山陰合同銀行 ^[extracted]
 **英名**：The San-in Godo Bank, Ltd.
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 |
 | 2024 | 中期経営計画策定（地域 + デジタル + サステナビリティ 3 軸）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 資産運用 | 投資信託・保険販売 | 2009 BlackRock 提携で商品ラインアップ強化 |
 | デジタル | ごうぎんアプリ・ATM 連携 | 地銀共同インフラ採用 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地理戦略
 
@@ -110,14 +110,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | [[yamaguchi-fg]] | 山口・北九州・福岡 | 隣接 FG・3 行統合体制（もみじ銀+山口銀+北九州銀）と対照的に単独路線 |
 | JA バンク・ゆうちょ | 全国 | リテール競合（特に高齢者層）|
 
-### 数字化转型
+### デジタル戦略
 
 - **ごうぎんアプリ**: モバイルバンキング、QR 決済対応 ^[inferred]
 - **地銀共同インフラ**: 多くの地銀と同様、勘定系・ATM・国際送金で共同利用 ^[inferred]
 - **BaaS / API**: 大手地銀ほど積極的ではないが、地域フィンテックとの限定提携 ^[inferred]
 - **DX 投資余力**: 単独銀行ゆえ、FG 化した [[yamaguchi-fg]] や [[hirogin-hd]] と比べて IT 投資規模では劣後 ^[inferred]
 
-### 合纵连横
+### 提携・買収戦略
 
 - **BlackRock 資産運用提携**（2009）★: 米最大手と提携し投信ラインアップ強化、地銀としては早期の海外大手アライアンス事例 ^[extracted]
 - **持株会社化見送り**: 1990 年代以降の地銀再編波（[[chugin-okayama]] / [[hirogin-hd]] / [[yamaguchi-fg]] 等が FG 化するなか）で**単独路線**を維持 ^[inferred]
@@ -129,7 +129,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **コーポレートカラー**: 緑系（山陰の自然・松江城をモチーフ）^[inferred]
 - **CSR / 地域貢献**: 出雲大社・松江城・水郷祭等の地域イベントスポンサー、奨学金、文化財保護
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 中国財務局（広島）+ 日本銀行 松江支店
 - **預金保険機構**: 加盟
@@ -169,5 +169,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公式沿革ベース、2026-05-19 抽出）。最新の定量財務（総資産・純利益・自己資本比率等）は本稿に未掲載 — 直近の有価証券報告書（東証 PRIME 8381 / 3 月期決算）で要確認。子会社構造・国際拠点は inferred 部分を含み、最新値は公式 IR 開示を要参照。

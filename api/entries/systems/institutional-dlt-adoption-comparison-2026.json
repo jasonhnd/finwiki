@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/institutional-dlt-adoption-comparison-2026.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/institutional-dlt-adoption-comparison-2026.md",
   "domain": "systems",
-  "title": "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+  "title": "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+    "title": "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon",
     "aliases": [
       "institutional-dlt-adoption-2026",
       "dlt-platform-comparison-institutional",
@@ -20,8 +20,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -50,18 +50,18 @@
       "DTCC, BIS, IMF research reports"
     ]
   },
-  "summary": "2026 机构 DLT 选型已从 \"试点阶段\" 进入 \"Canton + 公链 Ethereum 双中心 + Corda 长尾 + Fabric 衰退\" 的成熟分化格局:Canton(Digital Asset / R3 合并后)拿下 G-SIB tokenization 主战场(JPM Kinexys + Goldman DAP + DTCC + BNY),公链 Ethereum L1 通过 BlackRock BUIDL + Franklin BENJI + Ondo 等 RWA 占据 \"可公开交易代币化基金\" 这一极,Corda 在英国 / 新加坡 / 部分 EM 央行 + 中央托管行(",
+  "summary": "2026 年の機関 DLT 選定は「パイロットフェーズ」から 「Canton + パブリックチェーン Ethereum の二大中心 + Corda がロングテール + Fabric の衰退」 という成熟した分化構造に入った:Canton(Digital Asset / R3 合併後)は G-SIB トークン化の主戦場を獲得(JPM Kinexys + Goldman DAP + DTCC + BNY)、パブリックチェーン Ethereum L1 は BlackRock BUIDL + Franklin BENJI + Ondo 等の RWA を通じて「公開取引可能なトークン化ファンド」の一極を",
   "headings": [
-    "机构 DLT 平台采用对比 2026 · Canton vs Fabric vs Corda vs 公链 vs Avalanche vs Polygon",
+    "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon",
     "TL;DR",
     "Wiki route",
-    "六大机构 DLT 平台对位",
-    "1. Canton(Digital Asset + R3 合并阵营)",
-    "2. Public Ethereum L1(BlackRock + Franklin + Ondo 主导)",
-    "3. Corda(R3,2025 整合后)",
+    "6 つの機関 DLT プラットフォームの対位",
+    "1. Canton(Digital Asset + R3 合併陣営)",
+    "2. Public Ethereum L1(BlackRock + Franklin + Ondo 主導)",
+    "3. Corda(R3、2025 統合後)",
     "4. Hyperledger Fabric(IBM-led)",
-    "5. Hyperledger Besu(EVM 兼容机构链)",
-    "6. Avalanche Subnets(机构 RWA 长尾)"
+    "5. Hyperledger Besu(EVM 互換機関チェーン)",
+    "6. Avalanche Subnets(機関 RWA ロングテール)"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10961,
-    "word_like_tokens": 1843,
+    "nonspace_chars": 12342,
+    "word_like_tokens": 1813,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

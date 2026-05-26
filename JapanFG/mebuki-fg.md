@@ -3,8 +3,8 @@ title: めぶき FG (Mebuki FG)
 aliases: ["Mebuki FG", "Mebuki Financial Group", "めぶきフィナンシャルグループ", "株式会社めぶきフィナンシャルグループ"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 北関東 2 県（茨城 + 栃木）を地盤とする地銀 FG 大手（預金規模で地銀 FG 第 2-3 位クラス）。2016-10-01 **常陽銀行**（茨城地盤）+ **足利ホールディングス**（栃木地盤・足利銀行を傘下）の共同株式移転で発足。**「メガリージョナルバンクグループ」志向 + 首都圏進出 + デジタル / 地方創生**の 3 軸。足利銀行の **2003 年破綻 → 一時国有化 → 2008 年民間譲渡**という劇的歴史を経て統合に至った点が他地銀 FG と異なる。隣接首都圏では [[concordia-fg]]（横浜銀行 + 東日本銀行）/ [[JapanFG/chiba-bank|chiba-bank-fg]] と競合・連携模索。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社めぶきフィナンシャルグループ ^[extracted]
 **英名**：Mebuki Financial Group, Inc.
@@ -49,7 +49,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 常陽キャピタル / 足利キャピタル 等 ── 地域投資・コンサル系
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 旧 **常陽銀行**：1935-07-30 **常磐銀行 + 五十銀行** 合併設立。茨城県水戸市本店。県内シェア圧倒の第一地銀
 - 旧 **足利銀行**：1895（明治 28）創業、栃木県宇都宮市本店。栃木県シェア圧倒の第一地銀。戦後の高度成長期に北関東有力地銀として拡大
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 | 2024〜 | 中期経営計画（メガリージョナル志向 / 首都圏進出 / DX 推進）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | クレカ | めぶきカード | 地銀発クレカ |
 | 投資・コンサル | 常陽キャピタル / 足利キャピタル | 地域企業ファンド・事業承継 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「メガリージョナルバンクグループ」志向
 
@@ -113,7 +113,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **SBI 第 4 メガ構想**（[[sbi-hd]] 主導）に距離、独自広域路線
 - 北関東広域 FG として、群馬銀行 / 武蔵野銀行 / 栃木銀行 等周辺地銀との連携 / 統合余地は中長期の論点 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 関東財務局
 - **持株会社規制**：銀行法 第 52 条の 17
@@ -153,5 +153,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia ベース校核 2026-05-19）。沿革・子会社構造・足利銀行国有化処理は公開情報で確定。決算数値・最新主要株主は本版未収載（要 めぶき FG 有価証券報告書直接確認）。中期経営計画の定量目標は公開資料更新待ち。

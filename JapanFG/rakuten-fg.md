@@ -3,8 +3,8 @@ title: 楽天グループ金融事業 (Rakuten FG)
 aliases: ["Rakuten FG", "楽天 FinTech", "Rakuten FinTech", "楽天金融", "Rakuten Group Financial"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, ec-fg, fintech]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 楽天グループ株式会社 (Rakuten Group, Inc., 東証 PRIME 4755) のフィナンシャルテック・セグメント。**EC 軸の独自モデル**: 楽天市場 + 楽天ポイント を core に、銀行 / 証券 / カード / 保険 / 決済 を「楽天経済圏」として束ねるクロスセル戦略。メガバンク系 ([[mufg]] / [[smfg]] / [[mizuho-fg]]) や通信系 FG ([[ndfg]] / au-FH / [[paypay-fg]]) と異なり、**コマース起点 → 金融** という独自の事業組み立て。2023-04 楽天銀行 IPO、2024 楽天証券へみずほ証券 49% 出資受入。**2024 期 FinTech セグメント Non-GAAP 営業利益 1,534 億円 (+37.9%)、グループ IFRS 営業利益 黒字転換 (530 億円)**。楽天モバイル赤字 (Non-GAAP 営業損失 2,163 億円) は依然 FinTech 利益を上回るが、改善傾向。創業者・三木谷浩史 (1965-) 会長兼社長は 1997 創業以来の代表者。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：楽天グループ株式会社（持株会社・コングロマリット）
 **英名**：Rakuten Group, Inc.
@@ -110,7 +110,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2025-02-14** | **2024年12月期通期決算: FinTech 利益 1,534 億円 (+37.9%)、グループ IFRS 営業利益 黒字転換** |
 | 2025-05-12 | 楽天銀行 2025-03 期決算: 経常利益 715 億円 (+48%) |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -124,7 +124,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 運用 | 楽天投信投資顧問 | ファンド組成（楽天証券販売チャネル） |
 | ポイント | 楽天ポイント | 経済圏 OS・SPU で全事業を束ねる |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「楽天経済圏」モデル
 
@@ -155,7 +155,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 楽天証券 IPO は事実上撤回
 - みずほ側にとっては リテール・ネット顧客基盤獲得、楽天側にとっては グループ資金調達 + メガバンク系証券との連携深化
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業態別規制**:
@@ -207,5 +207,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **high**（v1.1 公式 IR 数値反映 2026-05-19）。2024年12月期通期決算ハイライト (2025-02-14)、楽天銀行 2025-03 期決算短信 (2025-05-12)、楽天銀行 預金 12 兆円突破リリース (2025-01-07) で主要数値を確認。FinTech セグメント 売上 8,204 億 / 利益 1,534 億、楽天銀行 口座 1,683 万 / 預金 12 兆 (単体)、楽天カード 3,301 万枚は公式公表ベース。

@@ -1,10 +1,10 @@
 ---
-title: FATF Travel Rule · R.16 VASP $1,000 KYC 信息传递概览
+title: FATF Travel Rule · R.16 VASP $1,000 KYC 情報伝達 概観
 aliases: [fatf-travel-rule-overview, FATF R.16, VASP travel rule]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, law, regulation, fatf, travel-rule, vasp, kyc, aml]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# FATF Travel Rule · R.16 VASP $1,000 KYC 信息传递
+# FATF Travel Rule · R.16 VASP $1,000 KYC 情報伝達
 
 
 ## Wiki route
@@ -25,56 +25,56 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> FATF Recommendation 16 是全球 VASP 行业 AML/CFT 统一信息传递标准 —— VASP 转账 ≥ USD/EUR 1,000 必须共享 sender + receiver KYC。把 1996 BSA Travel Rule 移植到加密。Notabene / TRISA / Sygna / TRP 等 BTS 层成为强制合规基础设施 —— 没有 Travel Rule 协议接入就没有 VASP 业务资格。
+> FATF Recommendation 16 はグローバル VASP 業界の AML/CFT 統一情報伝達基準 —— VASP 送金が USD/EUR 1,000 以上の場合、sender + receiver の KYC 情報共有が必須。1996 BSA Travel Rule を暗号資産に移植したもの。Notabene / TRISA / Sygna / TRP 等の BTS 層は強制コンプライアンス基盤となり —— Travel Rule プロトコルへの接続がなければ VASP 業務資格を得られない。
 
 ## Key facts
 
-- FATF 1989 G7 成立 · 40 成员国 + 9 区域组织 ^[extracted]
-- R.15 + R.16 加密扩展 2019-06 G20 Osaka summit ^[extracted]
-- R.16 阈值:USD/EUR 1,000 全球 floor ^[extracted]
-- 1996 BSA Travel Rule(31 CFR §1010.410(f))原本只覆盖 ≥ $3,000 wire ^[extracted]
-- 2019-05 FinCEN FIN-2019-G001 明确 BSA Travel Rule 适用于 CVC ^[extracted]
-- 2024 美国 FATF MER "Largely Compliant" ^[extracted]
-- 2026-Q3 FinCEN 拟把美国阈值从 $3,000 降到 $1,000(与 FATF 对齐)^[extracted]
-- Notabene + TRP 双协议覆盖 2026 年全球约 80% VASP 流量 ^[inferred]
+- FATF 1989 G7 設立 · 40 加盟国 + 9 地域組織 ^[extracted]
+- R.15 + R.16 暗号拡張は 2019-06 G20 Osaka summit ^[extracted]
+- R.16 閾値:USD/EUR 1,000 グローバル floor ^[extracted]
+- 1996 BSA Travel Rule (31 CFR §1010.410(f)) はもともと ≥ $3,000 wire のみカバー ^[extracted]
+- 2019-05 FinCEN FIN-2019-G001 が BSA Travel Rule の CVC 適用を明確化 ^[extracted]
+- 2024 米国 FATF MER は "Largely Compliant" ^[extracted]
+- 2026-Q3 FinCEN は米国閾値を $3,000 から $1,000 に引下案 (FATF と整合) ^[extracted]
+- Notabene + TRP の二プロトコルが 2026 年グローバル VASP 流量の約 80% をカバー ^[inferred]
 
 ## Mechanism / How it works
 
-R.16 要求 VASP 转账 ≥ USD/EUR 1,000 必须共享:**Originator** name + account number / wallet address,**Beneficiary** name + account number / wallet address。VASP-to-VASP 信息共享强制。最大技术挑战:CVC 转账经常发到 wallet address 而非 institution → 缺乏 "receiving financial institution" 概念,催生 BTS(Business-To-Service)协议层。
+R.16 は VASP 送金 ≥ USD/EUR 1,000 で以下の共有を要求:**Originator** name + account number / wallet address、**Beneficiary** name + account number / wallet address。VASP-to-VASP の情報共有を強制。最大の技術的課題:CVC 送金はしばしば wallet address に送られ institution には送られない → 「receiving financial institution」概念の欠如により BTS (Business-To-Service) プロトコル層が誕生。
 
-**主流 BTS 协议**:
-- **Notabene**(美国 2020 · 市占率最高):Bitstamp / Luno / OKX
-- **TRISA**(开源 · 去中心化 TLS):Binance 部分
-- **Sygna Bridge**(CoolBitX · 亚太首选):韩国 / 台湾 VASP
-- **TRP**(TRP Group · OpenAPI):Coinbase / Kraken / Gemini
-- **Shyft**(Token 激励 · 链上发现):早期玩家
-- **OpenVASP**(欧洲 · EVM-based):早期欧洲
+**主要 BTS プロトコル**:
+- **Notabene** (米国 2020 · 最大シェア):Bitstamp / Luno / OKX
+- **TRISA** (オープンソース · 分散型 TLS):Binance 一部
+- **Sygna Bridge** (CoolBitX · アジア太平洋優先):韓国 / 台湾 VASP
+- **TRP** (TRP Group · OpenAPI):Coinbase / Kraken / Gemini
+- **Shyft** (Token インセンティブ · オンチェーン discovery):初期プレイヤー
+- **OpenVASP** (欧州 · EVM-based):初期欧州
 
-互通问题:协议互不兼容 → 必须接入多个或选大网络。Notabene + TRP 双协议覆盖 2026 年全球约 80% VASP 流量。日本 VASP 自律侧的 Travel Rule 落地见 [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律规则概览]],日本 VASP 时间线见 [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 监管时间表]]。
+相互運用問題:プロトコル相互非互換 → 複数接続または大ネットワーク選択が必須。Notabene + TRP の二プロトコルが 2026 年グローバル VASP 流量の約 80% をカバー。日本 VASP 自主規制側における Travel Rule の落とし込みは [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制概観]]、日本 VASP タイムラインは [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 規制タイムライン]] を参照。
 
 ## Origin & evolution
 
-1996 FinCEN + Fed 联合发布 BSA Travel Rule(31 CFR §1010.410(f)),原本只覆盖 ≥ $3,000 wire。2019-05 FinCEN FIN-2019-G001 明确 BSA Travel Rule 适用于 CVC。2019-06 G20 Osaka summit FATF 发布 R.15 + R.16 加密扩展 → 全球 floor 确立。2024-12-30 EU TFR 2023/1113 把欧盟门槛设为 EUR 0(最严)。2026-Q3 FinCEN 拟把美国阈值从 $3,000 降到 $1,000(与 FATF 对齐)。跨境四层 stack 详见 [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule 跨境 stack]]。
+1996 FinCEN + Fed が BSA Travel Rule (31 CFR §1010.410(f)) を共同発表、もともと ≥ $3,000 wire のみカバー。2019-05 FinCEN FIN-2019-G001 が BSA Travel Rule の CVC 適用を明確化。2019-06 G20 Osaka summit で FATF が R.15 + R.16 暗号拡張を発表 → グローバル floor 確立。2024-12-30 EU TFR 2023/1113 が EU 閾値を EUR 0 に設定 (最厳格)。2026-Q3 FinCEN は米国閾値を $3,000 から $1,000 に引下案 (FATF と整合)。クロスボーダー四層 stack 詳細は [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule クロスボーダー stack]] を参照。
 
 ## Counterpoints
 
-- 协议互通问题 · 中小 VASP 接入多协议成本高 · 寡头化
-- DeFi 是否 VASP 仍有解释空间(R.15 灰区)
-- self-hosted wallet 监管标准未定 · 部分国家强制 KYC 收发方
+- プロトコル相互運用問題 · 中小 VASP の複数プロトコル接続コストが高く · 寡占化
+- DeFi が VASP かは依然解釈の余地あり (R.15 グレーゾーン)
+- self-hosted wallet 監督基準は未定 · 一部国家では送受信双方の KYC を強制
 
 ## Open questions
 
-- FATF 2026 是否会出台 DeFi 专属 R 条款?
-- self-hosted wallet 是否会被纳入 R.16 强制 KYC?
-- Notabene/TRP 等 BTS 是否会触发垄断监管?
+- FATF 2026 は DeFi 専用の R 条項を出すか?
+- self-hosted wallet は R.16 の強制 KYC に含まれるか?
+- Notabene/TRP 等の BTS は独占監督を招くか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule 跨境四层 stack]]
-- [[fintech/aml-cft-fatf-grey-list-overview|FATF 灰名单概览]]
+- [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule クロスボーダー四層 stack]]
+- [[fintech/aml-cft-fatf-grey-list-overview|FATF グレーリスト概観]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 深度]]
+- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]]
 <!-- /wiki-links:managed -->
 
 ## Sources

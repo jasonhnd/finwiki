@@ -3,8 +3,8 @@ title: BNP パリバ日本 (BNP Paribas Japan)
 aliases: ["BNP Paribas Japan", "BNPパリバ日本", "BNPパリバ", "BNP Paribas Tokyo Branch", "BNP パリバ証券", "Cardif Japan", "カーディフ生命"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 仏 **BNP パリバ SA**（G-SIB Bucket 2 / 2025 FSB リスト、Mitsubishi UFJ FG と同列）の日本拠点群。**1867 年 横浜開設**（旧 Comptoir National d'Escompte de Paris = CEP）に遡る最古参の在日欧州銀行のひとつ。現在は **約 700 名規模**、銀行（東京支店）+ 証券（BNP パリバ証券）+ 資産運用（BNP パリバ AM ジャパン）+ 生損保（カーディフ生命・カーディフ損保）の 4 軸で、CIB（コーポレート・機関投資家銀行業務）+ IPS（投資・保護サービス）の 2 ドメインを担当。欧州系では [[hsbc-japan]] / [[deutsche-japan]] と並ぶ主要外資 IB プレゼンス。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **親会社**：BNP Paribas SA（本社 パリ、Euronext Paris: BNP、G-SIB Bucket 2 / +1.5% CET1 追加バッファ）
 **日本での業態**：外資系銀行（東京支店）+ 投資銀行 + アセマネ + 生損保
@@ -89,7 +89,7 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 | 日本拠点人員 | 約 700 名 |
 | ビジネス分野 | CIB（コーポレート・機関投資家銀行）+ IPS（投資・保護サービス）+ CPBS（リテール・専門金融、日本では未展開） |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -102,7 +102,7 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 | 生命保険（団信） | カーディフ生命 | **日本初のがん団信を開発**、邦銀・信金など**約 60 社の窓販パートナー**、約 115 名（2025-03）|
 | 損害保険 | カーディフ損保 | カード プロテクション / 銀行窓販主体 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 在日ポジショニング
 
@@ -110,12 +110,12 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 - **CIB 集中型**: リテール バンキング撤退（[[citigroup-japan]] と同様、邦銀の壁が厚い）、法人 / 機関投資家集中
 - **団信ニッチ**: カーディフ生命のがん団信 + 銀行窓販モデルは独自地位 ── 邦銀との「敵ではない協業」モデル
 
-### 数字化転型
+### デジタル戦略
 
 - 公式公表ベースでは在日特化のフィンテック子会社は未確認（親 BNP は Hello bank! 等欧州デジタル展開）^[ambiguous]
 - DCM / シンジケート ローン デジタル化（Loan Connector 等）は本社プラットフォーム利用
 
-### 合纵连横
+### 提携・買収戦略
 
 - **邦銀との協業**: シンジケート ローン / クロスボーダー M&A での共同主幹事
 - **カーディフ × 邦銀 窓販**: 約 60 社の地銀 / 信金 / 信組と団信窓販パートナーシップ
@@ -133,7 +133,7 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 - 在日リテール バンキングなし
 - B2C は **カーディフ生命の団信ブランド**のみ（邦銀窓口での間接接点）
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA） ── 銀行 / 第一種金融商品取引業 / 投資運用業 / 生損保各業態でそれぞれ免許
 - **東京支店規制**: 銀行法 第 47 条（外国銀行支店の認可）
@@ -191,4 +191,4 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（公式 HP + Wikipedia + FSB 2025 G-SIB リスト + Cardif Japan 公式情報の組合せで 2026-05-19 校核）。在日従業員数（約 700 名）/ Cardif 窓販パートナー数（約 60 社）は公式公表値。経営陣・在日収益構成は時点変動あり、最新情報は公式リリースを要参照。**公开情报 only — 内部目录未参照**。
+> confidence: **likely**（公式 HP + Wikipedia + FSB 2025 G-SIB リスト + Cardif Japan 公式情報の組合せで 2026-05-19 校核）。在日従業員数（約 700 名）/ Cardif 窓販パートナー数（約 60 社）は公式公表値。経営陣・在日収益構成は時点変動あり、最新情報は公式リリースを要参照。**公開情報のみ — 内部資料未参照**。

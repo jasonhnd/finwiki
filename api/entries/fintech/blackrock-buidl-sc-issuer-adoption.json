@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/blackrock-buidl-sc-issuer-adoption.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/blackrock-buidl-sc-issuer-adoption.md",
   "domain": "fintech",
-  "title": "BlackRock BUIDL · 稳定币与 DeFi 协议储备采用矩阵",
+  "title": "BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "BlackRock BUIDL · 稳定币与 DeFi 协议储备采用矩阵",
+    "title": "BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス",
     "aliases": [
       "blackrock-buidl-sc-issuer-adoption",
       "BUIDL SC adoption",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -41,7 +41,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "BlackRock BUIDL · 稳定币与 DeFi 协议储备采用矩阵",
+    "BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3162,
-    "word_like_tokens": 540,
+    "nonspace_chars": 3638,
+    "word_like_tokens": 554,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

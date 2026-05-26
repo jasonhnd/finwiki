@@ -1,10 +1,10 @@
 ---
-title: SBI × JPYC × Circle 环形持股 — 日本稳定币分销通道
-aliases: [sbi-jpyc-circle-ring, SBI Circle Holdings, jpy-usdc-channel, 日本稳定币环形通道]
+title: SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル
+aliases: [sbi-jpyc-circle-ring, SBI Circle Holdings, jpy-usdc-channel, 日本ステーブルコイン環状チャネル]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [fintech, stablecoin, sbi, jpyc, circle, japan, usdc, channel]
@@ -16,7 +16,7 @@ sources:
 status: candidate
 ---
 
-# SBI × JPYC × Circle 环形持股 — 日本稳定币分销通道
+# SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル
 
 
 ## Wiki route
@@ -24,17 +24,17 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> SBI × Circle × JPYC 形成的**环形持股结构**是 2025-2026 日本稳定币最重要的分销通道——SBI Circle Holdings（2025-08 折半出资 50/50）持有 USDC 国内独占发行渠道，Circle 持 JPYC 3.51%，JPYC 作为 Circle Partner SC，三方互锁形成 **§501(d) 入榜后的跨境合规霸主架构**。日本 4 阵营评级中此通道 v2 评级 **#1 ★★★★★**，远高于 Progmat 信託型联盟（无跨境通道）。
+> SBI × Circle × JPYC が形成する**環状持株構造**は 2025-2026 年の日本ステーブルコインにおける最重要な配信チャネル —— SBI Circle Holdings（2025-08 折半出資 50/50）が USDC の国内独占発行チャネルを保有、Circle が JPYC を 3.51% 保有、JPYC が Circle Partner SC として、三者が相互ロックして **§501(d) 入榜後のクロスボーダーコンプライアンス覇者アーキテクチャ**を形成。日本 4 陣営評価では当該チャネルは v2 評価 **#1 ★★★★★**で、Progmat 信託型コンソーシアム（クロスボーダーチャネルなし）を大きく上回る。
 
 ## Key facts
 
-- **2025-08**: SBI Holdings + Circle Internet Financial 折半出资设立 **SBI Circle Holdings**（50/50 JV）
-- **环形持股**: Circle 持 [[JapanFG/jpyc|JPYC]] 约 3.51%；JPYC ∈ Circle Partner SC；SBI 通过 SBI Circle Holdings 间接关联 JPYC
-- **国内通道**: [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = 国内第 1 号 EPI 業者（2025-03-04 認可）· USDC 国内取扱開始（2025-03-26）
-- **资本投资**: SBI HD + SBI 新生 共计 $50M 投资 Circle IPO（2025-06-05 NYSE 上場）
-- **拒绝 Progmat**: 北尾吉孝 2026-02 X 投稿"画一的・競争制限的・護送船団的"——明确不加入 Progmat 信託型联盟
-- **JPYSC 補完**: SBI 新生信託銀行 × Startale "JPYSC" 信託型 SC（2026-Q2 上线）填补"日元侧"
-- **アプラス 接入**: 2026 春 リアル店舗 USDC 決済 実証実験
+- **2025-08**：SBI Holdings + Circle Internet Financial が折半出資で **SBI Circle Holdings** 設立（50/50 JV）
+- **環状持株**：Circle が [[JapanFG/jpyc|JPYC]] を約 3.51% 保有；JPYC ∈ Circle Partner SC；SBI は SBI Circle Holdings 経由で JPYC と間接関連
+- **国内チャネル**：[[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = 国内第 1 号 EPI 業者（2025-03-04 認可）· USDC 国内取扱開始（2025-03-26）
+- **資本投資**：SBI HD + SBI 新生 合計 $50M を Circle IPO に投資（2025-06-05 NYSE 上場）
+- **Progmat 不参加**：北尾吉孝 2026-02 X 投稿「画一的・競争制限的・護送船団的」—— Progmat 信託型コンソーシアムに加入しないと明言
+- **JPYSC による補完**：SBI 新生信託銀行 × Startale 「JPYSC」信託型 SC（2026-Q2 上線）が「日本円側」を補完
+- **アプラス 接続**：2026 春 リアル店舗 USDC 決済の実証実験
 
 ## Mechanism / How it works
 
@@ -45,21 +45,21 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
               ├─────────────> JPYC Inc.（資金移動業 EPI）
               │                  │ Circle Partner SC
               ▼                  │
-  SBI Circle Holdings ◀──────────┤ 環形相互参照
+  SBI Circle Holdings ◀──────────┤ 環状相互参照
               │  50%             │
         SBI Holdings ────────────┘
               │
               ├── SBI VC トレード（EPI #1）→ USDC 国内
               ├── アプラス → リアル店舗 決済
               ├── SBI 新生信託 × Startale → JPYSC（2026-Q2）
-              └── Arc グローバル決済網日本独立通道
+              └── Arc グローバル決済網日本独立チャネル
 ```
 
-**通道功能**：
-1. **USDC 入口**: SBI VC トレード 国内独占 EPI 渠道
-2. **JPY 侧**: JPYC（资金移動業）+ JPYSC（信託型）双重日元稳定币选项
-3. **跨境合规**: §501(d) 入榜后 USDC ↔ JPYC 双向合规通道
-4. **零售触点**: アプラス 信用卡 + 实店場景
+**チャネル機能**：
+1. **USDC 入口**：SBI VC トレード の国内独占 EPI チャネル
+2. **JPY 側**：JPYC（資金移動業）+ JPYSC（信託型）の二重の日本円ステーブルコインオプション
+3. **クロスボーダーコンプライアンス**：§501(d) 入榜後の USDC ↔ JPYC 双方向コンプライアンスチャネル
+4. **リテール接点**：アプラス クレジットカード + リアル店舗シーン
 
 ## Origin & evolution
 
@@ -68,37 +68,37 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2025-03-04  SBI VC トレード = 国内第 1 号 EPI 業者
 2025-03-25  SBI HD + Circle 合弁会社設立契約
 2025-03-26  SBI VC トレード = USDC 国内取扱開始
-2025-06-05  Circle NYSE 上場 · SBI 合计 $50M 投资
+2025-06-05  Circle NYSE 上場 · SBI 合計 $50M 投資
 2025-08     SBI Circle Holdings 設立（50/50）
 2025-12-16  SBI HD + Startale「JPYSC」信託型 SC 発表
 2026-02     北尾吉孝 X：「Progmat ジョイン拒絶」
 ```
 
-**v1 → v2 评级跃迁**: §501(d) 出台前，SBI 阵营被视为"独立路线 / #3"。出台后 USDC ↔ JPY 跨境合规通道价值激升，SBI Circle Holdings 升至 **#1 ★★★★★**——[[JapanFG/progmat|Progmat]]（三大行信託型）反降至 #3，原因是"无跨境合规通道"，详见 [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]]。
+**v1 → v2 評価ジャンプ**：§501(d) 公布前、SBI 陣営は「独立路線 / #3」と見られていた。公布後、USDC ↔ JPY クロスボーダーコンプライアンスチャネルの価値が急騰し、SBI Circle Holdings は **#1 ★★★★★** に昇格 —— [[JapanFG/progmat|Progmat]]（3 メガバンク信託型）は #3 に降格、理由は「クロスボーダーコンプライアンスチャネルなし」、詳細は [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]] 参照。
 
 ## Counterpoints
 
-- **集中风险**: USDC 国内独占等于把日本稳定币命脉绑在单一美方发行体上——若 Circle 出现合规事件（如 §501(d) 滑落），日本侧将断流
-- **JPYSC 替代论**: SBI 自家 JPYSC（信託型）2026-Q2 上线，可能减弱对 USDC 路径的依赖（北尾"双押"实质）
-- **Progmat 反击**: 三大行 Project Pax 跨境项目（2026 H2）尚未完成。如成功，"无跨境通道"的弱点会被部分弥补
-- **環形持股稳定性**: 3.51% Circle→JPYC 持股极薄，关键时刻是否触发完整 disclosure 待观察
-- **零售普及不足**: USDC 在日本 retail 渗透度远低于稳定币本土 narrative（JPYC 实际流通仍小）
+- **集中リスク**：USDC の国内独占は日本ステーブルコインのライフラインを単一の米国側発行体に縛ることに等しい —— Circle にコンプライアンスインシデント（§501(d) からの転落等）が発生すれば、日本側は断流する
+- **JPYSC 代替論**：SBI 自社の JPYSC（信託型）が 2026-Q2 上線、USDC 経路への依存度を低下させる可能性（北尾「両賭け」の実質）
+- **Progmat の反撃**：3 メガバンクの Project Pax クロスボーダープロジェクト（2026 H2）はまだ完成していない。成功すれば「クロスボーダーチャネルなし」の弱点は部分的に補われる
+- **環状持株の安定性**：3.51% の Circle→JPYC 持株は極めて薄く、重要時に完全 disclosure をトリガーするかは観察待ち
+- **リテール浸透不足**：日本における USDC のリテール浸透度はステーブルコイン現地ナラティブよりも遥かに低い（JPYC 実流通も依然小さい）
 
 ## Open questions
 
-- アプラス × USDC 实证若失败，对環形通道的实际杀伤
-- JPYC 是否走独立 IPO 路径（vs 留在 SBI/Circle 環形）
-- Project Pax 2026 H2 落地后，三大行能否撬动一部分环形外用例
-- §501(d) 后若 GENIUS Act 进入 rulemaking 阶段对 USDC 通道再分配的影响
-- JPYSC 信託型与 Progmat XJPY 的市场定位重叠度
+- アプラス × USDC 実証が失敗した場合、環状チャネルへの実質的ダメージは
+- JPYC が独立 IPO 経路を選ぶか（vs SBI/Circle 環状内に残るか）
+- Project Pax 2026 H2 着地後、3 メガバンクが環状外のユースケースを一部奪取できるか
+- §501(d) 後に GENIUS Act が rulemaking 段階に入った際、USDC チャネル再配分への影響
+- JPYSC 信託型と Progmat XJPY の市場位置付けの重複度
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]
-- [[fintech/stablecoin-chain-sovereign-currency-divide|稳定币 × 链 × 主权货币三层分流]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 稳定币框架]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|ステーブルコイン × チェーン × ソブリン通貨 3 層分流]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA ステーブルコインフレームワーク]]
 - [[fintech/japan-financial-regulation|日本金融規制]]
 <!-- /wiki-links:managed -->
 

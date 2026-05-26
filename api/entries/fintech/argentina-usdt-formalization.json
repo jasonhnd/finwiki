@@ -20,8 +20,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -52,7 +52,7 @@
       "Uruguay BCU and Paraguay BCP crypto regulatory statements"
     ]
   },
-  "summary": "Argentina's two-year arc under Milei (Dec 2023 inauguration → 2025) has converted what was the world's most acute case of shadow dollarization via USDT (40-50% of household liquid USD assets pre-2024, see EM 加密美元化模式) into a formally regulated and tax-reformed crypto economy. The Comisión Nacional de",
+  "summary": "Argentina's two-year arc under Milei (Dec 2023 inauguration → 2025) has converted what was the world's most acute case of shadow dollarization via USDT (40-50% of household liquid USD assets pre-2024, see EM 暗号ドル化パターン) into a formally regulated and tax-reformed crypto economy. The Comisión Nacional",
   "headings": [
     "Argentina USDT Formalization · Post-Milei Reforms 2024-2026",
     "TL;DR",
@@ -97,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14532,
-    "word_like_tokens": 2347,
+    "nonspace_chars": 14605,
+    "word_like_tokens": 2348,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -39,13 +39,13 @@
     "SOMPO ホールディングス (Sompo Holdings)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・持分",
     "合併歴史・前身",
     "重要年表（抜粋）^[extracted]",
     "1.5 最新財務 (FY2024 = 2025-03 期, 連結) ^[extracted]",
     "主要株主構成 ^[extracted]",
-    "2. 业务线 map"
+    "2. 事業セグメント・マップ"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -79,9 +79,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6472,
-    "word_like_tokens": 1003,
+    "nonspace_chars": 6477,
+    "word_like_tokens": 1002,
     "inbound_wikilinks_count": 35,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

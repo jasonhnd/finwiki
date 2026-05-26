@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/multi-proof-aggregation-fault-prover.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/multi-proof-aggregation-fault-prover.md",
   "domain": "systems",
-  "title": "多证明系统聚合 fault prover 架构",
+  "title": "多証明システム集約 fault prover アーキテクチャ",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "多证明系统聚合 fault prover 架构",
+    "title": "多証明システム集約 fault prover アーキテクチャ",
     "aliases": [
       "multi-proof aggregation",
       "base fault prover three-track",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -36,9 +36,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 翻倍与 L2 经济连锁 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "多证明系统聚合 fault prover 架构",
+    "多証明システム集約 fault prover アーキテクチャ",
     "Wiki route",
     "Related"
   ],
@@ -66,9 +66,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 927,
+    "nonspace_chars": 940,
     "word_like_tokens": 148,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

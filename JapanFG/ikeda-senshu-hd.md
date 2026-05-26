@@ -3,8 +3,8 @@ title: 池田泉州ホールディングス
 aliases: ["Ikeda Senshu HD", "Ikeda Senshu Holdings", "池田泉州 HD", "池田泉州フィナンシャルホールディングス", "池田泉州銀行 HD"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 大阪府を地盤とする **関西中堅地銀 FG**。証券コード **東証 PRIME 8714**。2009-10-01 **池田銀行 + 泉州銀行** の経営統合により発足し、翌 2010-05-01 に両子銀行が合併して **池田泉州銀行** が成立。大阪府 **北摂・池田エリア（旧池田銀）** + **泉州エリア = 大阪府南部（旧泉州銀）** + **兵庫県南東部** を 3 つの主軸地盤とし、京阪神メガ経済圏の中堅・中小企業金融に特化。関西では [[resona-hd]]（関西みらい銀）・京都 FG・滋賀銀行・南都銀行 等と直接競合。メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては中堅・中小レイヤーで棲み分け。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社池田泉州ホールディングス ^[extracted]
 **英名**：Ikeda Senshu Holdings, Inc.
@@ -65,7 +65,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 関連シンクタンク・調査機能（地域経済分析）
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 旧 **池田無尽 → 池田銀行**（北摂地盤）
   - **1949** 池田無尽 設立（無尽会社・大阪府池田市）
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024〜 | 中期経営計画（地域密着 + デジタル + 法人 BS ソリューション）^[ambiguous] |
 | 2024-03 期〜 | 日銀マイナス金利解除・政策金利正常化 → 国内貸出金利マージン改善（地銀メリット大）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -107,7 +107,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信託 | 提携（自前免許なし）| メガ信託・[[sumitomo-mitsui-trust]] 等への取次 ^[inferred] |
 | 証券 | 提携（自前なし）| 投信窓販・メガ系証券との連携 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 戦略軸
 
@@ -142,7 +142,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **池田泉州銀行 = 「池田泉州」**: 大阪府民・特に北摂・泉州地区での認知度は高、ただし関西広域では [[resona-hd]]（関西みらい）・京都銀の方が認知度上位 ^[inferred]
 - **池田泉州 HD**: 持株会社ブランドは個人客には浸透限定的、銀行ブランド一本化 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **持株会社規制**: 銀行法 第 52 条の 17（銀行持株会社）^[extracted]
@@ -187,5 +187,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公式 IR 概況ベース 2026-05-19）。預金・総資産・純利益の精緻値は池田泉州 HD IR Quarterly / 有価証券報告書 を要参照。1942 泉州銀行設立 / 1949 池田無尽設立 / 1951 池田相互銀行 / 1989 池田銀行 / 2009-10 HD 発足 / 2010-05 池田泉州銀行 合併 は Wikipedia 経由で公開情報により確認。関西地銀再編シナリオ・中計詳細は公開報道ベースの推定を含む。

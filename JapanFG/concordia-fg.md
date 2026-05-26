@@ -3,8 +3,8 @@ title: 横浜フィナンシャルグループ（旧 コンコルディア・フ
 aliases: ["横浜フィナンシャルグループ", "横浜 FG", "Yokohama Financial Group", "YFG", "Concordia FG", "Concordia Financial Group", "コンコルディア FG", "コンコルディア・フィナンシャルグループ", "CFG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: certain
 tags: [JapanFG, regional-bank]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内地銀 FG **最大級**、預金 **19.7 兆円**・総資産 **24.8 兆円**（2025-03 末、地銀 FG 単独首位級）^[extracted]。2016-04-01 **横浜銀行 + 東日本銀行** が共同株式移転で経営統合、旧称「コンコルディア・フィナンシャルグループ」(ラテン語「調和」) として発足。**2025-10-01 商号変更 →「株式会社横浜フィナンシャルグループ」**（中核行ブランドを社名に冠し、国内外認知度向上が目的）^[extracted]。神奈川県（県内シェア圧倒的）+ 首都圏 中堅・中小企業のリテール集合体。証券コード **東証 PRIME 7186**。FY2024 (2025-03 期) 純利益 **828 億円**（前年比 +23.7%）、FY2025 (2026-03 期) 通期見通し **1,065 億円**（+28.6%）と日銀利上げ追い風で連続二桁増益。横浜銀行は **TSUBASA アライアンス非加盟**、千葉銀行と「千葉・横浜パートナーシップ」（2019〜、24-28 年度二期目 250 億円効果目標）。最大の競合は [[fukuoka-fg]] / 千葉銀行・[[resona-hd]]。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社横浜フィナンシャルグループ（2025-10-01〜、旧「株式会社コンコルディア・フィナンシャルグループ」）^[extracted]
 **英名**：Yokohama Financial Group, Inc.（旧 Concordia Financial Group, Ltd.）
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2025-10-01** | **「コンコルディア FG」→「横浜フィナンシャルグループ」商号変更**（中核行ブランドを冠し国内外認知度向上） |
 | 2025-11-13 | FY2025 Q2 中間決算短信開示、通期見通し純利益 1,065 億円（+28.6%）に修正 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -131,7 +131,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | シンクタンク | はまぎん総合研究所 | 神奈川経済データ・地域分析 |
 | デジタル | グループ横断 | 地銀標準 + 独自アプリ・「はまぎんアプリ」等 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 戦略軸
 
@@ -174,7 +174,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **横浜 FG（旧 CFG）**: 持株会社ブランドは個人客には浸透限定的だったが、2025-10 商号変更で「横浜」ブランドを前面化 ^[extracted]
 - **株主優待**（2025-03 基準〜変更）: 定期預金金利上乗せ → 神奈川・東京の特産品カタログギフトに切替、地域への送客強化 ^[extracted]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **持株会社規制**: 銀行法 第 52 条の 17（銀行持株会社）^[extracted]

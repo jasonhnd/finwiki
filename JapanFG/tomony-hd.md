@@ -3,8 +3,8 @@ title: トモニホールディングス (Tomony HD)
 aliases: ["トモニ HD", "Tomony Holdings", "株式会社トモニホールディングス", "Tomony Holdings, Inc."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 四国 (徳島・香川) + 大阪 (大正銀行系) のクロス地盤で広域展開する地銀 FG。**徳島銀行 + 香川銀行 経営統合**で 2010-04-01 発足、2017 大正銀行 (旧 ホクト商事系・大阪) を救済子会社化、2020-01 徳島 + 大正 を合併し **[[tokushima-taisho-bank|徳島大正銀行]]**を誕生させた。現在の主要子会社は [[tokushima-taisho-bank|徳島大正銀行]] + [[kagawa-bank|香川銀行]] の 2 行体制。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社トモニホールディングス ^[extracted]
 **英名**：Tomony Holdings, Inc.
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 | 2024〜 | 中期経営計画（2024 策定）^[inferred]|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -81,7 +81,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人預金 | 各子会社銀行 | 地元密着・高齢者比率高 ^[inferred]|
 | グループ機能 | トモニインフォメーションシステムズ等 | システム共通化・コスト削減 ^[inferred]|
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### クロス地盤戦略
 
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 四国八十八ヶ所巡礼観光金融 + 瀬戸内造船・四国製紙の製造業金融
 - 農業金融 (みかん・うどん粉・かんしょ等の地場農産物)
 
-### 合纵连横
+### 提携・買収戦略
 
 - **徳島 + 香川 経営統合**（2010-04-01）: 隣接四国 2 県地銀の対等合併型 HD 化（同様事例: 山口 FG・西日本 FH 等）
 - **大正銀行救済子会社化**（2017）: 大阪地盤獲得の戦略 M&A、経営難の大正銀行を吸収
@@ -111,7 +111,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 香川県内: [[kagawa-bank|香川銀行]] vs [[hyakujushi-bank|百十四銀行]] の 2 行体制
 - 大阪府内: [[tokushima-taisho-bank|徳島大正銀行]] (旧 大正銀行店舗) vs メガ + [[smfg]] 系 + 関西 mirai FG 等
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 四国財務局
 - **持株会社規制**：銀行法 第 52 条の 17
@@ -150,5 +150,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公式沿革ベース 2026-05-19）。重要事象（2010-04 HD 発足 / 2017 大正銀子会社化 / 2020-01 徳島大正銀行合併）は公知事実。財務数値・最新中計の詳細は省略（公開 IR 要参照）。

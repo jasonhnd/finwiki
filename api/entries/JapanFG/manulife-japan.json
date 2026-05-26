@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,13 +40,13 @@
     "マニュライフ生命保険 (Manulife Life Insurance Japan)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "親会社 Manulife Financial Corporation 概要 ^[extracted]",
     "グループ構造",
-    "2. 重要历史",
+    "2. 沿革",
     "旧 第百生命 系譜（1880〜1999）^[extracted]",
     "GE 救済〜マニュライフ移管 系譜（1999〜2009）^[extracted]",
-    "3. 业务线 map"
+    "3. 事業セグメント map"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5584,
+    "nonspace_chars": 5586,
     "word_like_tokens": 724,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

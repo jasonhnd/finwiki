@@ -6,20 +6,20 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/three-circles-mra-2030-economic-scale.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/three-circles-mra-2030-economic-scale.md",
   "domain": "fintech",
-  "title": "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+  "title": "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+    "title": "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
     "aliases": [
       "three circles MRA economic scale",
-      "$130B 三圆 2030",
+      "$130B 三円 2030",
       "white-vs-gray ring economics",
-      "合规圈 vs 灰圈"
+      "コンプライアンスサークル vs グレーサークル"
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -44,7 +44,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式",
+    "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2932,
-    "word_like_tokens": 532,
+    "nonspace_chars": 3411,
+    "word_like_tokens": 547,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

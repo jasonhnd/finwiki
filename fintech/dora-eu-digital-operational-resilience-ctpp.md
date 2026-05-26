@@ -1,10 +1,10 @@
 ---
-title: DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管
+title: DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む
 aliases: [dora-ctpp, DORA critical third-party provider, cloud crypto custody EU]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, eu, dora, ctpp, cloud, custody, mica]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# DORA CTPP 第三方风险 · 把 AWS/Anchorage 间接纳入金融监管
+# DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む
 
 
 ## Wiki route
@@ -25,52 +25,52 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> DORA Art. 28-44 的 Critical Third-Party Provider (CTPP) 机制是欧盟把 cloud / Anchorage / Coinbase Custody 等 SC 关键基础设施"间接纳入监管"的法律工具。任何欧盟 SC issuer / CASP / 托管商必须双合规(MiCA + DORA)。2026-Q2 第一批 CTPP 名单预计包括 AWS / Azure / GCP / Anchorage / Coinbase Custody / Chainalysis / TRM Labs / Fireblocks / Circle Europe。
+> DORA Art. 28-44 の Critical Third-Party Provider (CTPP) メカニズムは、EU が cloud / Anchorage / Coinbase Custody 等の SC 重要インフラを「間接的に監督下に取り込む」法的ツールである。あらゆる EU SC issuer / CASP / カストディアンは二重コンプライアンス(MiCA + DORA)が必須。2026-Q2 の第一回 CTPP リストには AWS / Azure / GCP / Anchorage / Coinbase Custody / Chainalysis / TRM Labs / Fireblocks / Circle Europe が含まれる見込み。
 
 ## Key facts
 
-- ESAs 评估 CTPP 标准:系统重要性 + 依赖度 + 可替代性 + 已识别风险 ^[extracted]
-- CTPP oversight fee:€500K(中等)至 €5M(大型云)^[extracted]
-- 必须设立欧盟法律实体或 EU representative ^[extracted]
-- ESAs 可强制 financial entity 终止合同 ^[extracted]
-- 现场检查 + 远程审查权 ^[extracted]
-- 2026-Q2 预计 AWS / Azure / GCP 自动入选 ^[likely]
-- Anchorage / Coinbase Custody / Fireblocks / Chainalysis / TRM Labs 进入预测名单 ^[likely]
-- Circle Europe 双重身份:EMT issuer + 潜在 CTPP ^[likely]
+- ESAs による CTPP 評価基準:システム重要性 + 依存度 + 代替可能性 + 既識別リスク ^[extracted]
+- CTPP oversight fee:€500K(中規模)~ €5M(大規模クラウド) ^[extracted]
+- EU 法人または EU representative の設立が必須 ^[extracted]
+- ESAs は financial entity に契約終了を強制可能 ^[extracted]
+- オンサイト検査 + 遠隔監査権 ^[extracted]
+- 2026-Q2 に AWS / Azure / GCP は自動的に選定される見込み ^[likely]
+- Anchorage / Coinbase Custody / Fireblocks / Chainalysis / TRM Labs が予想リストに ^[likely]
+- Circle Europe は二重身分:EMT issuer + 潜在 CTPP ^[likely]
 
 ## Mechanism / How it works
 
-**ESAs 评估流程(DORA Art. 31)**:
-- 系统重要性 + 金融机构依赖度 + 可替代性 + 已识别风险量化
-- CTPP 列入后:直接由 EBA / ESMA / EIOPA Lead Overseer 监管
-- 必须设立欧盟法律实体或 EU representative
-- 年度 oversight fee €0.5M-€5M
-- 现场检查 + 远程审查权
-- ESAs 可强制 financial entity 终止合同
+**ESAs 評価プロセス(DORA Art. 31)**:
+- システム重要性 + 金融機関依存度 + 代替可能性 + 既識別リスクの定量化
+- CTPP リスト入り後:EBA / ESMA / EIOPA Lead Overseer による直接監督
+- EU 法人または EU representative の設立が必須
+- 年次 oversight fee €0.5M-€5M
+- オンサイト検査 + 遠隔監査権
+- ESAs は financial entity に契約終了を強制可能
 
-**实际影响链**:Circle Europe([[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT]])必须同时 DORA 合规 → 其 AWS 供应商自动成 CTPP → AWS 必须设欧盟法律实体应 ESAs 监管 → BUIDL on Solana 触达欧盟客户 → BlackRock Europe + Solana validator 都受影响。
+**実際のインパクトチェーン**:Circle Europe([[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT]])は同時に DORA 準拠する必要あり → その AWS サプライヤーが自動的に CTPP 化 → AWS は EU 法人を設立し ESAs 監督に応じる必要あり → BUIDL on Solana が EU 顧客にリーチ → BlackRock Europe + Solana validator も影響を受ける。
 
 ## Origin & evolution
 
-CTPP 概念源自 2018-2021 欧洲银行业 cloud 集中度担忧(AWS 占欧盟金融云 40%+)。EBA 2017《Recommendations on outsourcing to cloud service providers》是早期尝试。DORA 2022 通过把 CTPP 从软指引升级为硬监管。2024-07 ESAs Level 2 RTS 明确量化标准。**首次"非金融科技公司被金融监管"**:AWS / Azure / GCP 自动 CTPP → ESAs 直接监管 = 欧盟 sovereignty cloud 要求加剧(Gaia-X / EuroStack),触发 onshore data center 建设潮。配合 [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概览]] 构成欧盟加密"业务 + 韧性"双轨监管。
+CTPP コンセプトは 2018-2021 の欧州銀行業におけるクラウド集中度懸念(AWS が EU 金融クラウドの 40%+ を占有)に源流を持つ。EBA 2017《Recommendations on outsourcing to cloud service providers》が初期の試み。DORA 2022 通過により CTPP はソフトガイダンスからハード規制に格上げ。2024-07 ESAs Level 2 RTS で定量基準を明確化。**初の「非金融テック企業が金融規制対象に」**:AWS / Azure / GCP が自動 CTPP 化 → ESAs が直接監督 = EU sovereignty cloud 要求の強化(Gaia-X / EuroStack)を招き、オンショア・データセンター建設ブームを誘発する。[[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概観]] と相まって EU 暗号資産における「業務 + レジリエンス」二軌監督を構成。
 
 ## Counterpoints
 
-- AWS 等全球架构与欧盟 sovereignty 要求结构性冲突 · ESAs 执法实际能力存疑
-- 中小 wallet provider 被挤出欧盟 → 寡头化加剧(双刃剑)
-- 与 US OCC Heightened Standards 重复合规成本高
+- AWS 等のグローバルアーキテクチャと EU sovereignty 要求は構造的に衝突 · ESAs の実際の執行能力には疑義
+- 中小 wallet provider が EU から締め出される → 寡占化が加速(諸刃の剣)
+- US OCC Heightened Standards との重複コンプライアンスコストが高い
 
 ## Open questions
 
-- 2026-Q2 第一批 CTPP 名单具体范围?
-- ESAs 与 AWS / Azure 谈判 EU representative 的法律实体形态?
-- CTPP 监管是否会扩展至 L1/L2 公链 validator / sequencer?
+- 2026-Q2 第一回 CTPP リストの具体的範囲は?
+- ESAs と AWS / Azure の EU representative 法人形態交渉は?
+- CTPP 監督が L1/L2 公開チェーンの validator / sequencer まで拡張されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/dora-eu-digital-operational-resilience-overview|DORA 概览]]
-- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 深度]]
+- [[fintech/dora-eu-digital-operational-resilience-overview|DORA 概観]]
+- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]]
 - [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 <!-- /wiki-links:managed -->

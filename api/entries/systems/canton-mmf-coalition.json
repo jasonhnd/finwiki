@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/canton-mmf-coalition.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/canton-mmf-coalition.md",
   "domain": "systems",
-  "title": "Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线",
+  "title": "Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线",
+    "title": "Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線",
     "aliases": [
       "canton-mmf-coalition",
       "gs-dap",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -36,9 +36,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against Canton Network 概览 · DAML 智能合约的隐私机构链 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Canton MMF 联盟 · JPM + GS + BNY + DTCC 反 BlackRock 公链路线",
+    "Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2690,
-    "word_like_tokens": 448,
+    "nonspace_chars": 3016,
+    "word_like_tokens": 461,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

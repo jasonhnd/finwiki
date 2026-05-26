@@ -3,8 +3,8 @@ title: あおぞら銀行 (Aozora Bank)
 aliases: ["Aozora Bank", "あおぞら銀行", "株式会社あおぞら銀行", "Aozora", "旧 日本債券信用銀行", "日債銀", "Nippon Credit Bank", "NCB"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-rehab]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 旧 **日本債券信用銀行（日債銀, NCB）** 系譜の中堅独立銀行。**1998-12 経営破綻 → 特別公的管理（一時国有化）** を経験した邦銀再生史の代表例。2000-09 ソフトバンク + オリックス + 東京海上連合に売却 → 2001-01「あおぞら銀行」改称 → 2003 米 PE **サーベラス（Cerberus Capital Management）** 主要株主化 → 2006-11 東証一部再上場 → サーベラス段階的売却完了。直近最大論点は **2023-2024 期 米国 CRE（商業用不動産）融資巨額損失** → 2024-05 通期赤字発表 → 業績下方修正・経営戦略再構築フェーズ。メガ系列にも地銀系列にも属さない「中堅独立銀行」モデル ^[extracted]。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社あおぞら銀行 ^[extracted]
 **英名**：Aozora Bank, Ltd.
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **BANK ザ・あおぞらネット支店**：個人向けネット支店ブランド（高金利定期預金等で差別化）^[extracted]
 - 普通銀行転換後、個人向けリテール拡大の中心チャネル
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人 | BANK ザ・あおぞらネット支店 | ネット中心、高金利定期で差別化 |
 | 運用・投信 | あおぞら投信 / あおぞらキャピタル | - |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「中堅独立銀行」モデル
 
@@ -127,7 +127,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 旧 サーベラス出口後の安定株主構成は機関投資家分散型 ^[inferred]
 - [[sbi-hd]] の SBI 新生銀行モデル（PE 出口後の戦略パートナー化）との対比軸
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業態**：普通銀行（2006-04 長期信用銀行から転換）^[inferred]

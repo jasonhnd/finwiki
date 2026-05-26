@@ -10,8 +10,8 @@ aliases:
   - "三菱商事株式会社"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, mitsubishi-group, energy, metals, automotive, retail, finance, conglomerate]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 三菱商事 (東証 PRIME **8058**) は **日本最大の総合商社 (sōgō shōsha)**、三菱グループの中核会社の一つ。エネルギー (LNG 上流)、金属資源 (豪州 BHP JV 鉄鉱石・原料炭)、自動車 (いすゞ・三菱自動車・海外ディーラー網)、機械、化学、生活産業 (食品・コンビニ [[JapanFG/mitsubishi-corp|MC]] 100% 子会社化した **ローソン** [[JapanFG/mitsubishi-corp|MC]] + KDDI 50/50 体制、2024)、電力ソリューション、複合都市開発まで横断する **多角コングロマリット**。JapanFG 文脈での重要性は (i) [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] を 100% 持つ内部金融機能と (ii) [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (旧 三菱UFJリース + 旧 日立キャピタル合併体) への約 20% 級株式持分、加えて (iii) [[JapanFG/mufg|MUFG]] との三菱グループ系列内クロス持合いを通じた **金融エコシステム上の中心性** にある。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2024 | KDDI と ローソン 50/50 体制、TOB により ローソン 上場廃止 |
 | 2024 | 旗艦自社株買い 1 兆円規模を発表 — 株主還元強化局面 ^[inferred] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・JV |
 |---|---|---|
@@ -104,7 +104,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 「外向けリース = 三菱HCキャピタル」「内向け CMS = MCFS」の **二層構造** が三菱商事の財務オペレーションの定型。
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 5 大商社ポジショニング
 
@@ -130,7 +130,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - 海外資源メジャー: BHP, Glencore, Rio Tinto, Vale (case-by-case では partner・competitor 双方)
 - リテール (ローソン領域): セブン&アイ HD (セブンイレブン)、ファミマ (伊藤忠系)
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: **IFRS** 採用 (5 大商社は概ね IFRS)、equity-method investments (持分法) の比重が大きい — [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] / 三菱自動車 / 多くの JV 投資は持分法 ^[extracted]
 - **規制**: 商社単体は banking license を持たず、銀行法規制対象外。ただし金融子会社 (リース・ファイナンス) は貸金業 / リース業 / 金商法を遵守 ^[inferred]
@@ -173,5 +173,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。三菱商事は public-surface (IR + 統合報告書 + EDINET 有価証券報告書) で十分にカバーされている大企業。金融子会社の boundary は [[JapanFG/mitsubishi-corp-finance]] / [[JapanFG/mitsubishi-hc-capital]] の各エントリと cross-validation 済み。具体的な persistent 数値 (連結純利益、セグメント別利益、HCキャピタル持分比率) は最新 有価証券報告書 / 統合報告書 で都度更新。

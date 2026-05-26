@@ -3,8 +3,8 @@ title: 上田八木短資株式会社 (Ueda Yagi Tanshi)
 aliases: ["上田八木短資", "Ueda Yagi Tanshi", "Ueda Yagi Short-Term Loan", "UYT"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, money-market, tanshi]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本 3 大短資会社の一角を担う独立系短資会社。**2001-04 上田短資 + 八木短資 合併**で発足。短期金融市場（コール市場・手形売買・CD/CP）の仲介と日銀オペレーション対手を中核業務とする。短資業界は 2009 リーマン後の超低金利環境で長期低迷したが、**2024-03 マイナス金利解除**により業界マージン改善期待が立ち上がっている。非上場・独立系で、メガバンク・地銀との取引集中型ビジネスモデル。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：上田八木短資株式会社
 **英名**：Ueda Yagi Tanshi Co., Ltd.
@@ -46,7 +46,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 短資会社（たんしがいしゃ / Tanshi）は **日本独自の短期金融市場専業金融機関** で、銀行間・金融機関間の短期資金過不足を仲介する。海外には直接の対応業態はなく、米国の Federal Funds broker や英国の discount house に近い性格を持つが、日本では**日本銀行の市場オペレーション対手（カウンターパーティ）として独自の位置付け**を持つ。^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | 事業 | 内容 | 顧客 |
 |---|---|---|
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2009-2024**: リーマン後超低金利 → ゼロ金利・マイナス金利環境で薄利化、業界縮小^[extracted]
 - **2024-03〜**: マイナス金利解除 → 業界マージン改善期待
 
-## 4. 战略与競争
+## 4. 戦略・競争
 
 ### 中期戦略（2024 中計）
 
@@ -101,7 +101,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **日銀 QT（量的引締め）**: 国債市場流動性回復で短資業務拡大余地
 - **ステーブルコイン・トークン化**: 短期金融市場のデジタル化波及可能性^[inferred]
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 日本銀行（オペレーション対手としての監督）
 - **業法**: 短資会社は銀行法外の独自業態（短資業者として位置付け）
@@ -139,5 +139,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報のみ・Wikipedia + 日銀公開資料ベース 2026-05-19）。非上場のため詳細財務は不明。重要年代（1909 上田短資創業 / 1928 八木商店設立 / 2001-04 合併）は公開歴史。業界トレンド（2024-03 マイナス金利解除影響）は政策事象として確認可能。

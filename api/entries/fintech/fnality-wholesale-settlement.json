@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/fnality-wholesale-settlement.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/fnality-wholesale-settlement.md",
   "domain": "fintech",
-  "title": "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+  "title": "Fnality International · 銀行連合のホールセール決済トークン · BoE ライセンス取得 GBP は既稼働",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+    "title": "Fnality International · 銀行連合のホールセール決済トークン · BoE ライセンス取得 GBP は既稼働",
     "aliases": [
       "fnality-wholesale-settlement",
       "Fnality",
@@ -20,8 +20,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -43,9 +43,9 @@
       "https://www.swift.com/news-events/news/swift-fnality-collaboration"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with Partior and JPM Onyx / Kinexys for the wholesale-settlement consortium triangle, and with 多大银行联邦治理 for the governance pattern that gives Fnality its multi-bank shape (vs. JPM single-issuer model).",
+  "summary": "This entry sits under fintech index. Read it with Partior and JPM Onyx / Kinexys for the wholesale-settlement consortium triangle, and with 多大銀行連邦ガバナンス for the governance pattern that gives Fnality its multi-bank shape (vs. JPM single-issuer model).",
   "headings": [
-    "Fnality International · 银行联合的批发结算代币 · BoE 持牌 GBP 已上线",
+    "Fnality International · 銀行連合のホールセール決済トークン · BoE ライセンス取得 GBP は既稼働",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5604,
-    "word_like_tokens": 929,
+    "nonspace_chars": 6090,
+    "word_like_tokens": 935,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

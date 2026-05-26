@@ -3,8 +3,8 @@ title: 国際協力銀行 (JBIC)
 aliases: ["JBIC", "Japan Bank for International Cooperation", "株式会社国際協力銀行", "国際協力銀行"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, policy-finance, government, international]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本の海外向け **政策金融機関**（財務大臣 100% 株主、特殊会社）。**輸出金融 + 海外投資金融 + アンタイドローン + 出資** の 4 業務で、日本企業のグローバル展開・資源エネルギー確保・GX を支援。2012-04-01 [[jfc]]（日本政策金融公庫）から再独立して特殊会社化。前身は 1950 設立の日本輸出銀行（→ 日本輸出入銀行）と 1961 設立の海外経済協力基金（OECF）。1999-10 両者統合で旧 JBIC 発足、2008-10 JFC に一旦統合 → 2012-04 再独立。民間メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）との **協調融資が中心スキーム**、[[policy-finance/jica|jica]] とは「JBIC = 輸出/投資、JICA = ODA」で分業。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社国際協力銀行 ^[extracted]
 **英名**：Japan Bank for International Cooperation (JBIC)
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > JBIC 統合・再独立の背景: 2008 年 JFC 統合は「政府系金融機関統合・スリム化」(小泉構造改革の延長線) 路線の産物。2012 年の再独立は、リーマンショック後の **海外資源確保・インフラ輸出強化** の戦略要請で「特殊会社」として独立性確保。^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | 業務 | 内容 | 主な対象 |
 |---|---|---|
@@ -89,7 +89,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **特別業務勘定**（2016〜）: ハイリスク案件・GX 案件向けリスクマネー供給枠
 - **円借款との分業**: ODA 円借款は [[policy-finance/jica|jica]] が担当（2008-10 移管）→ JBIC は商業性のある海外投融資に専念
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 3 戦略軸
 
@@ -97,7 +97,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 2. **資源・エネルギー確保**: LNG / 石油 / レアメタル / 蓄電池素材
 3. **GX（グリーン・トランスフォーメーション）**: 再エネ / 水素 / アンモニア / CCS / EV サプライチェーン ^[extracted]
 
-### 合纵连横
+### 提携・買収戦略
 
 - **メガバンク協調融資**: [[mufg]] / [[smfg]] / [[mizuho-fg]] と恒常的協調（プラント輸出案件等）
 - **JICA との分業**: ODA = JICA、商業性海外投融資 = JBIC（2008-10 円借款部門移管以降）
@@ -116,7 +116,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **friend-shoring 支援**: 同盟国・友好国への日本企業移転を金融面で支援
 - **中国向け案件は事実上凍結**へ（公式声明はないが、新規案件は限定的）^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 財務省（株主・主管大臣）
 - **法的根拠**: 株式会社国際協力銀行法（平成 23 年法律第 39 号）^[extracted]
@@ -172,5 +172,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。沿革・業務スキーム・主管関係は公式法令・Wikipedia 一致。経済安全保障シフトに関する記述（中国案件凍結 等）は公式声明ベースではなく観測・推論を含む（^[inferred] / ^[ambiguous] 明示）。具体的融資残高・案件リストは JBIC 業務概況書（毎年発行）を要参照。

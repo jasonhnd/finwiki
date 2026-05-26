@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "possible",
     "tags": [
@@ -46,11 +46,11 @@
     "住友三井オートサービス (Sumitomo Mitsui Auto Service / SMAS)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "「SMFL = 汎用 / SMAS = オート」の二本柱構造",
     "設立経緯 (2007 年合併)",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "オートリース市場の競合構造",
     "EV / カーボンニュートラル"
   ],
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6384,
-    "word_like_tokens": 851,
+    "nonspace_chars": 6389,
+    "word_like_tokens": 850,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

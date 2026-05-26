@@ -8,8 +8,8 @@ aliases:
   - "労働金庫連合会"
 domain: "JapanFG"
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, cooperative-banking, central-institution]
@@ -32,7 +32,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 労働金庫連合会は、全国 13 の労働金庫を会員とする「ろうきん」業態の中央金融機関。1955年設立、労働金庫法を根拠法とし、会員労金の資金需給調整、余裕資金運用、内国為替・財形貯蓄等の集中処理、業態統一オンラインシステム運用を担う。[[JapanFG/zenshin-kumi|全信組連]]・[[JapanFG/shinkin-central|信金中央金庫]] と並ぶ協同組織金融の中央機関。
 
-## 1. 公司结构
+## 1. 会社概要
 
 | 項目 | 内容 |
 |---|---|
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 公式プロフィールでは、2025-03-31 時点で資金量 6兆2,093億円、貸出金残高 9,925億円、自己資本比率 15.83% とされる。出資金は 1,600億円、常勤役職員数は 417人。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | 业务线 | 内容 | 役割 |
 |---|---|---|
@@ -59,14 +59,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 公式説明では、労金連は会員労金の余裕資金の 58% を預金として吸収し、労金連が吸収する預金・譲渡性預金の 80% は会員労金からのものとされる。
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 - **協同組織金融の中央機関**: 労金連は営利銀行ではなく、勤労者向け福祉金融を担う労働金庫の中央機関。
 - **信金・信組との比較**: [[JapanFG/shinkin-central|shinkin-central]] は信用金庫、[[JapanFG/zenshin-kumi|zenshin-kumi]] は信用組合、労金連は労働金庫を支える。
 - **システム共同化**: 地域金融機関のコスト上昇局面では、共同システム・事務集中が競争力の源泉になる。
 - **政策性と市場運用の両立**: 勤労者福祉金融を支えながら、余裕資金を金融市場で運用するため、ALM と社会的使命の両面を持つ。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - 労働金庫法を根拠とする協同組織金融機関。
 - 銀行法準用を含む開示・リスク管理・監督ルールの対象。
@@ -99,5 +99,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。公式プロフィールで名称・根拠法・設立・会員数・主要 KPI を確認。元 stub 名 `rokin-renraku` は非公式だが、既存リンク維持のため alias として残した。

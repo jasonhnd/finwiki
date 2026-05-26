@@ -3,8 +3,8 @@ title: 住友生命保険相互会社 (Sumitomo Life)
 aliases: ["住友生命", "Sumitomo Life", "Sumitomo Life Insurance Company", "スミセイ"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本大手 4 生保の一角を占める **相互会社形態の生命保険会社**（社員 = 契約者）。1907-05-15 創業（旧 日之出生命、住友家系）、本拠地は大阪市中央区。**「住友生命 Vitality」健康増進型保険**で他大手 4 生保に対する差別化を打ち出し、米 **Symetra Financial**（2016-02 完全子会社化、約 5000 億円）と シンガポール **Singlife**（2017〜2024 段階的買収完了）の 2 大海外プラットフォームを保有。日本生命・第一生命に次ぎ、明治安田生命（[[meiji-yasuda]]）と 4 位を争う。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：住友生命保険相互会社 ^[extracted]
 **英名**：Sumitomo Life Insurance Company
@@ -60,7 +60,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
         ── 南ア Discovery 社からライセンス取得・日本展開
 ```
 
-### 重要历史 ^[extracted]
+### 沿革 ^[extracted]
 
 | 年月 | 事象 |
 |---|---|
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024 | Singlife **完全子会社化完了**（東南アジア基盤確立）|
 | 2024 | 中期経営計画 発表（Vitality 拡大・海外 2 軸強化路線）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -85,7 +85,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 資産運用 | 住友生命アセットマネジメント | グループ運用 |
 | 情報システム | スミセイ情報システム | SCSK と提携 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「Vitality」健康増進型保険でリーディング差別化
 
@@ -111,7 +111,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 東京本社と並列運営（首都圏営業強化）
 - 住友グループ各社（住友商事・住友化学・三井住友 FG 等）との横連携 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA、保険業法）
 - **形態規制**: 相互会社（保険業法 第 18 条以下）→ 社員総代会・剰余金分配ルール
@@ -150,5 +150,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公式沿革 校核 2026-05-19）。**公开信息のみ**で構成。非上場相互会社のため詳細財務（純利益・総資産）は有価証券報告書ベースで時点変動あり、最新値は住友生命ディスクロージャー誌（毎年公表）を要参照。

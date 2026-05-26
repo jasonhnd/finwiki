@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,13 +40,13 @@
     "東海東京 FH (Tokai Tokyo Financial Holdings)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・合弁",
-    "2. 重要历史",
+    "2. 沿革",
     "前身・沿革",
     "地銀連合・海外展開期",
     "業界での位置",
-    "3. 战略"
+    "3. 戦略"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3949,
+    "nonspace_chars": 3947,
     "word_like_tokens": 621,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

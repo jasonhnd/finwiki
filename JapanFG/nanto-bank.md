@@ -3,8 +3,8 @@ title: 株式会社南都銀行 (The Nanto Bank)
 aliases: ["Nanto Bank", "The Nanto Bank, Ltd.", "南都銀行", "なんとぎんこう", "なんと"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 奈良県地盤の単独銀行（**持株会社化していない地銀**の一つ）。1934-06-01 六十八銀行 + 八木合同銀行 + 御所銀行 + 吉野銀行 + 大和実業銀行 + 第三十国立銀行系などの戦時統合で発足。略称「**なんと**」。**奈良県内シェア圧倒（県内 No.1）+ 大阪府東部・京都府南部への関西 3 県境界エリア展開 + 観光業（奈良公園・東大寺・薬師寺・春日大社・法隆寺）融資 + 不動産融資**が収益コア。関西経済圏の競合は [[resona-hd]] / [[kyoto-fg]] / [[ikeda-senshu-hd]]、隣接県境では紀陽銀行（和歌山）/ 滋賀銀行 / [[tomony-hd]](旧大正銀行)と競合。^[ambiguous]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社南都銀行
 **英名**：The Nanto Bank, Ltd.
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 子会社構成の詳細・出資比率は本版未確定（要 南都銀行 公式 IR / 有価証券報告書直接確認）。^[inferred]
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 1878 **第六十八国立銀行 設立**（奈良、明治期国立銀行条例下、第 68 号で設立）— 南都銀行の最古の源流
 - 戦前期、奈良県内で六十八銀行・八木合同銀行・御所銀行・吉野銀行・大和実業銀行 等の複数地銀が並立
@@ -71,7 +71,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8367（旧東証一部から移行）|
 | 2024 | **中期経営計画** 策定 ^[inferred]、関西経済圏拡張フェーズへ |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -85,7 +85,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外 | 海外駐在員事務所（アジア中心、想定）| 県内中堅企業の海外進出支援、現地法人は限定的 ^[inferred] |
 | デジタル | 南都銀行アプリ・地域 Fintech 連携 | 単独銀行のため、持株会社経由の異業種展開は制約あり ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 県内地盤戦略
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 関西 3 県境界という地理特殊性により、単独で関西経済圏全体をカバーすることが構造的に困難 → **関西地銀連携 / 再編における立ち位置**が中長期論点 ^[inferred]
 - 観光業 + 不動産融資という収益コアは関西の中でも独自性が高く、再編時の交渉力に寄与する可能性
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 近畿財務局
 - **銀行業規制**：銀行法（単独銀行のため銀行持株会社規制は対象外）
@@ -163,5 +163,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia ベース校核 2026-05-19）。沿革（1934-06-01 設立・6 行統合・第六十八国立銀行源流）と上場区分（東証 PRIME 8367）・単独銀行体制・本店所在地（奈良市橋本町 16）は公開情報で確定。子会社構造の詳細（南都リース・南都信用保証・南都キャピタル等の出資比率）、決算数値、2024 中期経営計画の具体目標値、海外駐在員事務所の正確な所在、観光業 / 不動産融資ポートフォリオの規模は本版未収載 — 要 南都銀行 公式 IR / 有価証券報告書直接確認。「持株会社化していない」点（^[ambiguous]）は他の単独地銀（八十二銀・静岡銀の旧体制等）と並列の整理。関西地銀再編の中での中長期方針判断と、関西 3 県境界エリア（奈良 + 大阪府東部 + 京都府南部）戦略の継続観察項目。

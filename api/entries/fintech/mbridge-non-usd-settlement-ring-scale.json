@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/mbridge-non-usd-settlement-ring-scale.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/mbridge-non-usd-settlement-ring-scale.md",
   "domain": "fintech",
-  "title": "mBridge 非美元清算环规模模式 · GDP 覆盖率作为 wholesale settlement 上限",
+  "title": "mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "mBridge 非美元清算环规模模式 · GDP 覆盖率作为 wholesale settlement 上限",
+    "title": "mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率",
     "aliases": [
       "mbridge non-usd settlement ring scale",
       "$35T mBridge coverage",
@@ -18,8 +18,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -43,7 +43,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "mBridge 非美元清算环规模模式 · GDP 覆盖率作为 wholesale settlement 上限",
+    "mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3079,
-    "word_like_tokens": 546,
+    "nonspace_chars": 3436,
+    "word_like_tokens": 558,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

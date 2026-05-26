@@ -23,8 +23,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -52,12 +52,12 @@
     "三井物産 (Mitsui & Co., Ltd.)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・関連会社 (JapanFG 文脈)",
     "沿革ハイライト ^[extracted]",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "3. Financial-services adjacency",
-    "4. 戦略与競争",
+    "4. 戦略・競争",
     "5 大商社内の identity"
   ],
   "body_links": {
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7118,
-    "word_like_tokens": 1091,
+    "nonspace_chars": 7123,
+    "word_like_tokens": 1090,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

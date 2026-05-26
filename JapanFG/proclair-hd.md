@@ -3,8 +3,8 @@ title: プロクレアホールディングス (ProCrea HD)
 aliases: ["ProCrea HD", "プロクレア HD", "ProCrea Holdings", "Aomori-Michinoku FG", "7384"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 青森県地盤の地銀 2 行（**青森銀行 + みちのく銀行**）が 2022-04-01 経営統合して発足した持株会社（東証 PRIME **7384**）。**独占禁止法特例法（地域基盤企業特例法）初適用案件**として国の「お墨付き」で県内 2 行統合を実現した、**人口減少地域における地銀生残モデルケース**。2025-01-01 を期して両子銀行は合併し「**青森みちのく銀行**」となる予定 ^[forecast]。社名「ProCrea」は「Progress（前進）」と「Creation（創造）」の合成、北東北（青森・岩手・秋田）広域戦略を掲げる。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社プロクレアホールディングス
 **英名**：ProCrea Holdings, Inc.
@@ -83,7 +83,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04-01 | プロクレア HD 子会社化 |
 | 2025-01-01 | 青森銀行と合併 → 青森みちのく銀行 ^[forecast] |
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -95,7 +95,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 観光金融 | 両行 | ねぶた祭・弘前さくら・新青森駅・奥入瀬・十和田湖 |
 | 連携・参加先 | TSUBASA アライアンス（青森銀） | 地銀広域提携 ^[inferred] |
 
-## 4. 战略与競争
+## 4. 戦略・競争
 
 ### 統合シナジー
 
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **地元企業の縮小**: 廃業・後継者不在 → 事業承継支援が主要業務化
 - 統合の本質は「成長戦略」より「**収益基盤の整理統合による持続可能性確保**」
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）東北財務局
 - **持株会社規制**: 銀行法 第 52 条の 17
@@ -159,5 +159,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia 等公開情報ベース、2026-05-19 校核）。設立日・統合経緯・前身（1879 第五十九国立銀行 / 1921 青森商業銀行 → 1976 みちのく銀行）は公開記録に依拠。2025-01-01 合併予定は ^[forecast] タグ付け（実施前のため）。財務数値は本稿では未掲載（一次資料は両子銀行・HD ディスクロージャー誌で要確認）。

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chainlink-ccip-institutional-messaging.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chainlink-ccip-institutional-messaging.md",
   "domain": "systems",
-  "title": "Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)",
+  "title": "Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)",
+    "title": "Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)",
     "aliases": [
       "chainlink-ccip-institutional-messaging",
       "ccip",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against CCIP institutional 默认 · TradFi → DeFi 数据桥的护城河 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "Chainlink CCIP · 机构级跨链消息(SWIFT/DTCC 主轨)",
+    "Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2581,
-    "word_like_tokens": 433,
+    "nonspace_chars": 2954,
+    "word_like_tokens": 429,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

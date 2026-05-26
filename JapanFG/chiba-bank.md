@@ -3,8 +3,8 @@ title: 千葉銀行 (Chiba Bank)
 aliases: ["千葉銀行", "Chiba Bank", "The Chiba Bank, Ltd.", "ちばぎん", "Chibagin"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, no-holding]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 千葉県地盤の地銀単独最大手級（預金 **18-20 兆円規模** ^[ambiguous] / 千葉県シェア No.1）。1943-03 千葉合同銀行として戦時統合で発足、同月千葉銀行に改称。1949 東証上場。**持株会社化していない単独銀行** で経営の柔軟性を確保しつつ、地銀 FG（[[concordia-fg]]・[[fukuoka-fg]]・[[hokuhoku-fg]] 等）に並ぶ規模で重要。**2015 TSUBASA アライアンス主導設立** ★ により 11 行協業（システム共同化・海外サポート）でホールディング化を回避しつつスケールメリット獲得。2023-12 シンガポール支店開設で海外戦略本格化。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社千葉銀行 ^[extracted]
 **英名**：The Chiba Bank, Ltd.
@@ -78,7 +78,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2023-12** | **シンガポール支店 開設** — アジア海外戦略本格化 ^[extracted] |
 | 2024 | 中期経営計画 策定 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -91,7 +91,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | シンクタンク | ちばぎん総合研究所 | 千葉県経済リサーチ |
 | 海外 | シンガポール支店（2023-12〜）| アジア法人サポート、TSUBASA 海外連携 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### TSUBASA アライアンス主導戦略 ★
 
@@ -145,7 +145,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 武蔵野銀行 | 埼玉地盤・**TSUBASA 加盟行**（同盟兼隣県競合）|
 | 常陽銀行（[[mebuki-fg]] 傘下）| 茨城地盤・首都圏東部競合 |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業態**: 地方銀行（一般社団法人 全国地方銀行協会 加盟）^[inferred]

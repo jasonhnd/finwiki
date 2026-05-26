@@ -3,8 +3,8 @@ title: 極東証券 (Kyokuto Securities)
 aliases: ["Kyokuto Securities", "Kyokuto Securities Co., Ltd.", "極東証券", "極東証券株式会社", "8706"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier]
@@ -40,7 +40,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 本社 | 東京都中央区日本橋茅場町 |
 | 業態 | 独立系中堅証券 (外債仲介に強み) |
 
-## 2. 公司結構
+## 2. 会社構造
 
 **正式名**：極東証券株式会社
 **英名**：Kyokuto Securities Co., Ltd.
@@ -65,7 +65,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (8706) ^[extracted] |
 | 2024〜 | 新 NISA 制度対応、米国債等の外債商品ラインナップ強化 ^[inferred] |
 
-## 3. 业务线 map
+## 3. 事業セグメント map
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 法人取引 | 中小法人向け運用 | 限定的 |
 | オンライン取引 | 一部対応 | 対面が主軸 |
 
-## 4. 战略与競争
+## 4. 戦略・競争
 
 ### 外債特化型ニッチ
 
@@ -93,7 +93,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 2024〜 新 NISA 拡充で、債券・外債商品の NISA 対象拡大期待 ^[inferred]
 - 米国債等の外債商品を NISA 対応口座で扱うことで、シニア層 + 中長期保有層への訴求強化 ^[inferred]
 
-## 5. 监管と政策
+## 5. 規制と政策
 
 - **主管**：金融庁 (FSA)・関東財務局
 - **業態**：第一種金融商品取引業 (証券業)

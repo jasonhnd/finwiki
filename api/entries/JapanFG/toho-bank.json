@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,10 +40,10 @@
     "東邦銀行 (Toho Bank)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "業態の特徴",
     "主要関連会社(推定)^[ambiguous]",
-    "2. 重要历史",
+    "2. 沿革",
     "戦時統合期: 一県一行政策下の発足",
     "戦後〜バブル期",
     "東日本大震災 + 原発事故(最重要)★"
@@ -86,9 +86,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5487,
+    "nonspace_chars": 5485,
     "word_like_tokens": 674,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

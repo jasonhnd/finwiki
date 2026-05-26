@@ -1,10 +1,10 @@
 ---
-title: Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑
+title: Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド
 aliases: [sky-usds-decentralized-stablecoin, USDS, Sky, MakerDAO rebrand]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, sky, makerdao, usds, decentralized-sc, genius-501, endgame]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# Sky USDS · §501 时代最大去中心化稳定币尝试 · MakerDAO 重塑
+# Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド
 
 
 ## Wiki route
@@ -25,43 +25,43 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> Sky (2024-09 由 MakerDAO 重塑) 发行 USDS, 从 DAI ($4B 衰减) 向 USDS 迁移 (2026-Q1 USDS **$8.5B** · 合计 $12.5B). 是 GENIUS §501 时代**唯一仍坚持去中心化路线的大体量 SC**——通过 sUSDS (质押版 5-8% APY) + Spark Protocol (DeFi 子协议 $3.2B TVL) + Endgame Subdao 分裂三招应对 §501 合规压力。**变相合规**: sUSDS 通过 RWA vault 间接持有 ~$300M BlackRock BUIDL,削弱去中心化纯度但提高真实美元锚定能力。
+> Sky（2024-09 に MakerDAO からリブランド）は USDS を発行し、DAI（$4B 減衰中）から USDS への移行を進める（2026-Q1 で USDS **$8.5B** · 合計 $12.5B）。GENIUS §501 時代において**唯一、分散型路線を貫く大規模 SC**である —— sUSDS（ステーキング版 5-8% APY）+ Spark Protocol（DeFi サブプロトコル $3.2B TVL）+ Endgame Subdao 分裂の三策で §501 のコンプライアンス圧力に対応する。**変則的コンプライアンス**：sUSDS が RWA vault を通じて間接的に BlackRock BUIDL を ~$300M 保有し、分散性の純度を弱める一方で、実 USD アンカリング能力を引き上げている。
 
 ## Key facts
 
-- USDS MCap **$8.5B** + DAI legacy **$4B** = Sky 合计 **$12.5B** (2026-Q1) ^[extracted]
-- sUSDS APY 5-8% (SSR · 跟随 fed funds rate) ^[extracted]
-- Spark Protocol TVL **$3.2B** · Sky 年收入 ~$60M ^[extracted]
-- RWA 抵押 ~$1.5B (其中 BUIDL ~$300M 间接) ^[extracted]
-- SKY 代币 MCap ~**$1.8B** · MKR 1:24000 转换 ^[extracted]
-- 2024-09 MakerDAO → Sky 重塑 (Endgame 升级第 1 阶段) ^[extracted]
-- 2026-Q1 Sky × Solana 集成完成 (跨非 EVM 用户扩展) ^[extracted]
-- 主要 Subdao: Spark / Bloom / Sparkrock / Janus ^[extracted]
+- USDS MCap **$8.5B** + DAI legacy **$4B** = Sky 合計 **$12.5B**（2026-Q1）^[extracted]
+- sUSDS APY 5-8%（SSR · fed funds rate に追随）^[extracted]
+- Spark Protocol TVL **$3.2B** · Sky 年収 ~$60M ^[extracted]
+- RWA 担保 ~$1.5B（うち BUIDL ~$300M を間接保有）^[extracted]
+- SKY トークン MCap ~**$1.8B** · MKR は 1:24000 で転換 ^[extracted]
+- 2024-09 MakerDAO → Sky リブランド（Endgame アップグレード第 1 フェーズ）^[extracted]
+- 2026-Q1 Sky × Solana 統合完了（非 EVM ユーザーへの拡張）^[extracted]
+- 主要 Subdao：Spark / Bloom / Sparkrock / Janus ^[extracted]
 
 ## Mechanism / How it works
 
-Endgame 三招应对 §501: (1) **sUSDS 质押** = 用户存 USDS → sUSDS → 自动 5-8% yield (类 Coinbase × USDC 但合规路径不同,以 SSR 形式给 SC 持有人); (2) **Subdao 分裂** = Spark/Bloom 等子协议独立 token + 独立治理 → 分散监管风险; (3) **RWA vault 间接持有 BUIDL** = 通过去中心化 vault 接入 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 合规储备,变相获得机构级抵押。**与 §501 的张力**: GENIUS Act §501 要求 SC issuer 注册 + 100% 储备 + 不付利息。Sky Endgame 押注"完全去中心化 SC 不属于 §501 SC issuer 监管范围" → 若 SEC/Treasury 2027-2028 认定 USDS 仍属"受监管 SC", Sky 必须强制合规或退出美国市场,具体边界推演见 [[fintech/regulatory-window-strategic-acquisition|监管窗口 × 并购套利]]。
+Endgame の §501 対応三策：(1)**sUSDS ステーキング** = ユーザーが USDS を預ける → sUSDS → 自動 5-8% yield（Coinbase × USDC に類似だがコンプライアンス経路は異なり、SSR の形で SC 保有者に提供）；(2)**Subdao 分裂** = Spark/Bloom 等のサブプロトコルが独立トークン + 独立ガバナンスを保有 → 規制リスクを分散；(3)**RWA vault による BUIDL の間接保有** = 分散型 vault を通じて [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] のコンプライアンス準備金にアクセスし、変則的に機関級担保を獲得。**§501 との緊張関係**：GENIUS Act §501 は SC issuer に登録 + 100% reserve + 利息禁止を要求。Sky Endgame は「完全分散型 SC は §501 SC issuer 規制範囲外」と賭ける → もし SEC/Treasury が 2027-2028 に USDS を依然「規制対象 SC」と認定すれば、Sky はコンプライアンス強化または米国市場撤退を強いられる。境界条件の詳細は [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ × M&A アービトラージ]] 参照。
 
 ## Origin & evolution
 
-2017-12 MakerDAO DAI 上线 (DeFi 时代最重要的去中心化美元 · 2021 峰值 $10B). 2023 GENIUS Act 进入立法讨论后,DAI 法律地位变得模糊. **2024-09 Endgame 升级第 1 阶段** = MakerDAO → Sky 重塑 · DAI → USDS 双轨迁移. 2024-09 创始人 Rune Christensen 公开声明 "GENIUS Act 不适用于完全去中心化的 SC", 拒绝走 Circle / Paxos 的合规路径. 2025 sUSDS 上线 + Spark Protocol 成 DeFi 借贷前 5. 2026-Q1 Solana 集成 + RWA vault 间接持 BUIDL ~$300M. **5 年衰减期**: Sky 内部时间表是 5 年内让 DAI 自然衰减到 < $500M,完成 USDS 单轨化。
+2017-12 MakerDAO DAI ローンチ（DeFi 時代最重要の分散型 USD · 2021 ピーク $10B）。2023 年に GENIUS Act が立法討議入り後、DAI の法的地位が曖昧化。**2024-09 Endgame アップグレード第 1 フェーズ** = MakerDAO → Sky リブランド · DAI → USDS デュアル移行。2024-09 創業者 Rune Christensen が「GENIUS Act は完全分散型 SC には適用されない」と公式声明、Circle / Paxos のコンプライアンス経路を拒否。2025 sUSDS ローンチ + Spark Protocol が DeFi レンディング上位 5 に。2026-Q1 Solana 統合 + RWA vault による BUIDL 間接保有 ~$300M。**5 年減衰期**：Sky 内部のタイムテーブルは 5 年以内に DAI を自然減衰で < $500M とし、USDS シングルトラック化を完了させる。
 
 ## Counterpoints
 
-"间接持 BUIDL" 削弱了 Sky 的去中心化叙事——本质上 Sky 用户的 USDS 储备最终在 BlackRock 合规账户中. Vitalik Buterin 公开倡导 DAI/USDS 类去中心化 SC, 也承认这种 RWA 化趋势的两难. SKY token 治理活跃地址仅 ~2500, 远低于 Sky 主张的"真正去中心化"门槛. **DeFi 历史集成层 lock-in**: 数百个协议、数千合约硬编码 DAI 地址,Sky 选择"双轨 + 缓慢自然衰减"是路径依赖的理性选择,但也意味着 5 年内 Sky 必须同时维护两个 SC 合约系统. **与 [[fintech/tether-business-model-short-treasury-yield|Tether 灰圈]] 不同**: Sky 通过技术去中心化主张"无 issuer 可监管",Tether 通过 jurisdictional 选择 (萨尔瓦多/BVI) → 两条路径都是 §501 灰区生存策略,但 Sky 更脆弱。
+「BUIDL の間接保有」は Sky の分散性ナラティブを弱める —— 本質的に Sky ユーザーの USDS 準備金は最終的に BlackRock のコンプライアンス口座にある。Vitalik Buterin は DAI/USDS 型の分散型 SC を公的に推奨するが、この RWA 化トレンドのジレンマも認めている。SKY トークンのガバナンスアクティブアドレスは ~2500 のみで、Sky が主張する「真の分散性」基準には程遠い。**DeFi の歴史的統合層 lock-in**：数百のプロトコル、数千の契約に DAI アドレスがハードコードされており、Sky が「デュアルトラック + ゆっくりとした自然減衰」を選択するのは経路依存に基づく合理的選択である。ただし 5 年以内に 2 つの SC コントラクトシステムを並行運用する必要も意味する。**[[fintech/tether-business-model-short-treasury-yield|Tether グレーゾーン]] とは異なる**：Sky は技術的分散性により「規制可能な issuer は存在しない」と主張し、Tether は司法管轄選択（エルサルバドル/BVI）で対応する → 両経路とも §501 グレーゾーンの生存戦略だが、Sky の方が脆弱性が高い。
 
 ## Open questions
 
-SEC/Treasury 2027-2028 会否专门立法定义 "去中心化 SC" 监管边界?Sky × Solana 跨链后,跨链桥引入新的中心化攻击面是否动摇去中心化主张?5 年衰减期内 DAI 是否会被市场恐慌挤兑触发提前 unwind?
+SEC/Treasury は 2027-2028 に「分散型 SC」の規制境界を専門立法で定義するか？Sky × Solana のクロスチェーン後、クロスチェーンブリッジがもたらす新たな中央集権化攻撃面は分散性主張を揺るがすか？5 年減衰期内に DAI が市場パニックによる取り付け騒ぎで前倒し unwind を強いられるか？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 采用矩阵]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 採用マトリックス]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/three-circles-stablecoin-mra-framework|稳定币三圆 MRA]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密文化分离]]
+- [[fintech/three-circles-stablecoin-mra-framework|ステーブルコイン三円 MRA]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
 <!-- /wiki-links:managed -->
 
 ## Sources

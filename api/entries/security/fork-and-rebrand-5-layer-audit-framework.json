@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/fork-and-rebrand-5-layer-audit-framework.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/fork-and-rebrand-5-layer-audit-framework.md",
   "domain": "security",
-  "title": "Fork and Rebrand 项目的五层审计框架",
+  "title": "Fork and Rebrand プロジェクトの五層監査フレームワーク",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Fork and Rebrand 项目的五层审计框架",
+    "title": "Fork and Rebrand プロジェクトの五層監査フレームワーク",
     "aliases": [
       "fork and rebrand audit",
       "5-layer audit framework",
@@ -18,8 +18,8 @@
     ],
     "domain": "security",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "certain",
     "tags": [
@@ -32,18 +32,18 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under 智能合约 bytecode forensic — 三层 verify 技术. Read it against systems index for peer / contrast context and FinWiki index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under スマートコントラクト bytecode フォレンジック — 三層 verify 技術. Read it against systems index for peer / contrast context and FinWiki index for the broader system / regulatory boundary.",
   "headings": [
-    "Fork and Rebrand 项目的五层审计框架",
+    "Fork and Rebrand プロジェクトの五層監査フレームワーク",
     "Wiki route",
-    "核心机制",
-    "Layer 1: 代码库上游比对 (Upstream Source Diff)",
-    "Layer 2: 历史漏洞与修补遗传 (Inherited Vulnerability Scan)",
-    "Layer 3: 编译指纹与字节码比对 (Compilation Fingerprint & Diff)",
-    "Layer 4: 团队与部署溯源 (Team & Deployer Provenance)",
-    "Layer 5: 合规与许可证审计 (License & Copyleft Verification)",
-    "适用场景",
-    "相关限制与边界"
+    "中核メカニズム",
+    "Layer 1: コードベース上流比較 (Upstream Source Diff)",
+    "Layer 2: 既知脆弱性 & 修正の遺伝 (Inherited Vulnerability Scan)",
+    "Layer 3: コンパイル指紋 & バイトコード比較 (Compilation Fingerprint & Diff)",
+    "Layer 4: チーム & デプロイヤー起源 (Team & Deployer Provenance)",
+    "Layer 5: コンプライアンス & ライセンス監査 (License & Copyleft Verification)",
+    "適用シーン",
+    "関連の制約と境界"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3552,
-    "word_like_tokens": 510,
+    "nonspace_chars": 4165,
+    "word_like_tokens": 530,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/rollup-market-share-2026-arbitrum-optimism-base.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/rollup-market-share-2026-arbitrum-optimism-base.md",
   "domain": "systems",
-  "title": "Rollup market share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
+  "title": "Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Rollup market share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
+    "title": "Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
     "aliases": [
       "rollup market share 2026",
       "arbitrum optimism base 2026",
@@ -23,8 +23,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -60,9 +60,9 @@
       "https://docs.base.org/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against ZK-EVM rollup maturity matrix 2026 for the technical maturity dimension that this entry's market share table summarizes economically, and EIP-4844 blob 经济与 2026 市场影响 for the underlying DA cost structure that determines rollup unit economics. Pair",
+  "summary": "This entry sits under systems index. Read it against ZK-EVM rollup maturity matrix 2026 for the technical maturity dimension that this entry's market share table summarizes economically, and EIP-4844 blob 経済と 2026 市場影響 for the underlying DA cost structure that determines rollup unit economics. Pair",
   "headings": [
-    "Rollup market share 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
+    "Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea",
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 23204,
-    "word_like_tokens": 4209,
+    "nonspace_chars": 24345,
+    "word_like_tokens": 4166,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

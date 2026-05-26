@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-bridge-eight-pole-comparison.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-bridge-eight-pole-comparison.md",
   "domain": "systems",
-  "title": "跨链桥八极对照矩阵 · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
+  "title": "クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨链桥八极对照矩阵 · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
+    "title": "クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
     "aliases": [
       "cross-chain-bridge-eight-pole-comparison",
       "cross-chain bridge eight-pole comparison",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -57,7 +57,7 @@
   },
   "summary": "This entry sits under systems index. Read it against bridge security + insurance matrix for the security forensics view, cross-chain five-pole comparison matrix for the general 9-axis comparison, cross-chain four poles overview for the architecture taxonomy, and selection decision tree for which tru",
   "headings": [
-    "跨链桥八极对照矩阵 · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
+    "クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM",
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
@@ -128,9 +128,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 24037,
-    "word_like_tokens": 3986,
+    "nonspace_chars": 25095,
+    "word_like_tokens": 4022,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -1,10 +1,10 @@
 ---
-title: 储备金互锁飞轮 · BUIDL ↔ USDC 系统性循环依赖
+title: 準備金インターロック・フライホイール · BUIDL ↔ USDC システミックな循環依存
 aliases: [circular reserve asset flywheel overview, BUIDL USDC flywheel, reserve recursion]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, systemic-risk, stablecoin, tokenized-mmf, buidl, usdc]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 储备金互锁飞轮 · BUIDL ↔ USDC 系统性循环依赖
+# 準備金インターロック・フライホイール · BUIDL ↔ USDC システミックな循環依存
 
 
 ## Wiki route
@@ -25,51 +25,51 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> BlackRock BUIDL(代币化国债 MMF)已成为 Circle USDC 储备金的核心组成部分。Circle 持有 BUIDL 产生的利息再次流入 BUIDL → 推高 BUIDL AUM → 让 Circle 储备金更"BUIDL 化"。这是一个**利息→储备→AUM→利息**的自反馈系统性互锁飞轮 · 2026 后或成为 stablecoin 监管定义"reserve concentration risk"的样本案例。
+> BlackRock BUIDL(トークン化国債 MMF)は Circle USDC 準備金の中核構成要素となった。Circle が保有する BUIDL から発生する利息が再び BUIDL に流入 → BUIDL AUM を押し上げる → Circle 準備金をさらに「BUIDL 化」させる。これは**利息→準備金→AUM→利息**の自己フィードバック型システミック・インターロック・フライホイールであり、2026 年以降は stablecoin 規制が「reserve concentration risk」を定義する際のサンプル事例となる可能性が高い。
 
 ## Key facts
 
-- BUIDL 2024.03 上线 · 2025 内 AUM 增长 4-5×(估算 $2.5-3B) ^[extracted]
-- Circle 是 BUIDL 早期最大机构 LP 之一(Circle 2025.04 公开承认) ^[extracted]
-- USDC 流通量 $40-45B · BUIDL 占储备 2-4%(估算) ^[inferred]
-- Circle 2024 年利息收入 $1.7-1.8B · ~$905M 分给 Coinbase ^[extracted]
-- 同类飞轮在 JP Morgan Onyx / Mony 内部以"机构内部对账"形式存在 · 未对外披露 ^[inferred]
+- BUIDL 2024.03 ローンチ · 2025 年中に AUM が 4-5× 成長(推定 $2.5-3B) ^[extracted]
+- Circle は BUIDL 初期最大の機関 LP の一つ(Circle 2025.04 に公式表明) ^[extracted]
+- USDC 流通量 $40-45B · BUIDL が準備金の 2-4% を占める(推定) ^[inferred]
+- Circle 2024 年利息収入 $1.7-1.8B · うち ~$905M を Coinbase に分配 ^[extracted]
+- 同種のフライホイールは JP Morgan Onyx / Mony 内部にも「機関内部消込」の形で存在 · 外部未開示 ^[inferred]
 
 ## Mechanism / How it works
 
-互锁结构 = 自反馈循环:
+インターロック構造 = 自己フィードバック・ループ:
 
 ```
-[Circle USDC 储备金 $40B+] ──持有──> [BlackRock BUIDL]
+[Circle USDC 準備金 $40B+] ──保有──> [BlackRock BUIDL]
         │                                          │
-        │ 利息(4.5% APY)                          │ AUM 增长
+        │ 利息(4.5% APY)                          │ AUM 成長
         ↓                                          ↑
-[Circle 净利息收入] ──分 Coinbase 50% + 再投 BUIDL──┘
+[Circle 純利息収入] ──Coinbase に 50% 分配 + BUIDL に再投資──┘
 ```
 
-Circle 每存 $1 在 BUIDL → BlackRock 收 0.5% 管理费 → 净 4% 利息回给 Circle → 50% 分 Coinbase + 50% 自留 → 自留部分继续买 BUIDL。如果"自留→再投"比例 > 0 · BUIDL 占储备的比例会**单调上升**,直到外力打断(监管 cap / Circle 主动多元化 / 竞品 MMF 抢份额)。同样的反身性循环也出现在 [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL × SC issuer 矩阵]] 的其他 issuer 关系(USDB / USDtb / sfrxUSD / OUSG)。
+Circle が BUIDL に $1 預けるごとに → BlackRock が 0.5% の運用手数料を取得 → 純 4% の利息が Circle に戻る → 50% を Coinbase に分配 + 50% を自社保有 → 自社保有分が再び BUIDL を買う。「自社保有→再投資」比率 > 0 である限り、BUIDL が準備金に占める比率は**単調に上昇し**、外力(規制 cap / Circle 自発的な分散化 / 競合 MMF のシェア奪取)が介入するまで続く。同じ反射性ループは [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL × SC issuer マトリクス]] における他の issuer 関係(USDB / USDtb / sfrxUSD / OUSG)にも現れる。
 
 ## Origin & evolution
 
-2024.03 BUIDL 上线 · Circle 早期建仓但规模有限。2024-2025 AUM 4-5× 增长期 Circle 持仓快速放大 · 2025.04 Circle 公开承认。2025.07 [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] §504 要求逐月披露储备金构成但未禁止"通过代币化国债持仓" → 飞轮在监管灰区内继续运转。
+2024.03 BUIDL ローンチ · Circle 初期からポジション構築するも規模は限定的。2024-2025 AUM 4-5× 成長期に Circle 保有が急拡大 · 2025.04 Circle 公式表明。2025.07 [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] §504 は準備金構成の月次開示を義務付けたが「トークン化国債経由の保有」は禁止せず → フライホイールは規制グレーゾーン内で稼働を継続。
 
 ## Counterpoints
 
-飞轮存在 ≠ 必然失控 —— 关键看 Circle 自留再投比例与监管 cap 时间窗。BUIDL 由 BlackRock 做市 · 二级流动性比一般代币化 MMF 强;若 Circle 主动多元化(USDP / Franklin BENJI / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等),飞轮速度会自然减缓。也有人主张代币化 MMF 储备金本质上比直接持债更透明 → "concentration risk"叙事被高估。
+フライホイールの存在 ≠ 必ず暴走 —— 鍵は Circle の自社保有再投資比率と規制 cap のタイムウィンドウ。BUIDL は BlackRock がマーケットメイクしており、二次流動性は一般的なトークン化 MMF より強い;Circle が自発的に分散化(USDP / Franklin BENJI / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 等)すればフライホイール速度は自然に減速する。トークン化 MMF 準備金は本質的に直接の国債保有より透明であるとの主張もあり → 「concentration risk」ナラティブは過大評価されているとの見方もある。
 
 ## Open questions
 
-Circle 自留→再投 BUIDL 的具体比例多少?监管(OCC/FRB)2026 后会否新增"单一代币化 MMF 不得超储备金 X%"?Circle ↔ BlackRock 是否已存在非公开股权关联(放大反身性)?路径 B(Circle 主动多元化储备)的可能性与时间表?
+Circle の BUIDL への自社保有→再投資の具体的な比率は?規制(OCC/FRB)は 2026 年以降「単一のトークン化 MMF は準備金の X% を超えてはならない」を新設するか?Circle ↔ BlackRock 間に非公開の資本関係(反射性を増幅する)が既に存在するか?パス B(Circle が能動的に準備金を分散)の可能性と時間軸は?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/circular-reserve-asset-flywheel-risk-cases|储备金互锁 · 三层风险情景]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Coinbase ↔ Circle 50/50 模型]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|链上金融 vs 加密文化分离]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币收益分成经济学]]
+- [[fintech/circular-reserve-asset-flywheel-risk-cases|準備金インターロック · 三層リスクシナリオ]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Coinbase ↔ Circle 50/50 モデル]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン収益分配エコノミクス]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Circle 2024 年报 + 招股书 · BUIDL 2024.03 上线公告
+- Circle 2024 年次報告 + 目論見書 · BUIDL 2024.03 ローンチ告知

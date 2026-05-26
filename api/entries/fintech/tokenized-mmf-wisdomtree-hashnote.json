@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tokenized-mmf-wisdomtree-hashnote.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/tokenized-mmf-wisdomtree-hashnote.md",
   "domain": "fintech",
-  "title": "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+  "title": "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+    "title": "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
     "aliases": [
       "tokenized-mmf-wisdomtree-hashnote",
       "WTGXX",
@@ -20,8 +20,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -47,9 +47,9 @@
       "https://www.coindesk.com/business/2024/circle-hashnote-acquisition-usyc"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL (leader 第一梯队) and Franklin BENJI / Apollo ACRED for the full tokenized-MMF and tokenized-RWA matrix, and with 储备金互锁飞轮 for the systemic role tokenized MMF plays as stablecoin yield infrastructure.",
+  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL（leader 第一梯団）and Franklin BENJI / Apollo ACRED for the full tokenized-MMF and tokenized-RWA matrix, and with 準備金相互ロックフライホイール for the systemic role tokenized MMF plays as stablecoin yield infrastructure.",
   "headings": [
-    "Tokenized MMF 扩展 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外的第二梯队矩阵",
+    "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6268,
-    "word_like_tokens": 1069,
+    "nonspace_chars": 6708,
+    "word_like_tokens": 1075,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

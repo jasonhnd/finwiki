@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bis-project-ensemble-vs-mbridge-dual-track.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/bis-project-ensemble-vs-mbridge-dual-track.md",
   "domain": "fintech",
-  "title": "HKMA 双轨战略 · Ensemble × mBridge",
+  "title": "HKMA デュアル・トラック戦略 · Ensemble × mBridge",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "HKMA 双轨战略 · Ensemble 境内 + mBridge 跨境",
+    "title": "HKMA デュアル・トラック戦略 · Ensemble 域内 + mBridge クロスボーダー",
     "aliases": [
       "bis-project-ensemble-vs-mbridge-dual-track",
       "hkma dual track ensemble mbridge",
-      "香港双轨战略"
+      "香港デュアル・トラック戦略"
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -41,7 +41,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "HKMA 双轨战略 · Ensemble × mBridge",
+    "HKMA デュアル・トラック戦略 · Ensemble × mBridge",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2963,
-    "word_like_tokens": 483,
+    "nonspace_chars": 3399,
+    "word_like_tokens": 492,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

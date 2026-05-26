@@ -1,10 +1,10 @@
 ---
-title: MiCA 跨境含义 · USDC ↔ EURC 双向互认 + USA-EU MRA 2026-Q3
+title: MiCA クロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + USA-EU MRA 2026-Q3
 aliases: [mica-cross-border, MiCA USA MRA, USDC EURC bilateral]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, law, regulation, eu, mica, mra, usdc, eurc]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# MiCA 跨境含义 · USDC ↔ EURC 双向互认 + USA-EU MRA 2026-Q3
+# MiCA クロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + USA-EU MRA 2026-Q3
 
 
 ## Wiki route
@@ -25,53 +25,53 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> MiCA + GENIUS Act §501 协同形成 U.S.-EU MRA 基础(预计 2026-Q3 签署)。USDC EU + EURC 双品牌互认是技术原型。Circle Europe 是 MiCA EMT 第一批持牌发行方,Société Générale STBL 是欧洲银行系 SC 代表。§501(d) 第一波清单预期欧盟入榜。MiCA 是三圆 MRA 的欧盟支柱。
+> MiCA + GENIUS Act §501 の協調により U.S.-EU MRA の基盤が形成される(2026-Q3 締結予定)。USDC EU + EURC のダブルブランド相互認証が技術プロトタイプ。Circle Europe は MiCA EMT 初回ライセンス発行者の一つ、Société Générale STBL は欧州銀行系 SC の代表。§501(d) 第 1 波リストに EU 入り予定。MiCA は三円 MRA の EU 柱。
 
 ## Key facts
 
-- USA-EU MRA 预计 2026-Q3 签署 ^[likely]
-- USDC ↔ EURC 双向互认是技术原型 ^[likely]
-- Circle Europe = MiCA EMT 第一批持牌发行方 ^[extracted]
-- Société Générale STBL = 欧洲银行系 SC 代表 ^[extracted]
-- USDC 2025-09 起被列为 Significant EMT · 欧盟唯一 ^[extracted]
-- §501(d) 第一波预期欧盟入榜 ^[likely]
-- 受益玩家:Circle / Société Générale / BBVA / Santander / Kraken / Bitstamp / Coinbase EU ^[extracted]
-- 受压玩家:Tether / DAI / LUSD / FRAX / algorithmic stablecoins ^[extracted]
+- USA-EU MRA 2026-Q3 締結予定 ^[likely]
+- USDC ↔ EURC 双方向相互認証が技術プロトタイプ ^[likely]
+- Circle Europe = MiCA EMT 初回ライセンス発行者 ^[extracted]
+- Société Générale STBL = 欧州銀行系 SC の代表 ^[extracted]
+- USDC 2025-09 以降 Significant EMT に指定 · EU で唯一 ^[extracted]
+- §501(d) 第 1 波で EU 入り予定 ^[likely]
+- 受益プレイヤー:Circle / Société Générale / BBVA / Santander / Kraken / Bitstamp / Coinbase EU ^[extracted]
+- 圧力プレイヤー:Tether / DAI / LUSD / FRAX / algorithmic stablecoins ^[extracted]
 
 ## Mechanism / How it works
 
-**三圆 MRA 欧盟支柱**:USA-EU MRA(预计 2026-Q3)= USDC ↔ EURC 双向互认。Circle Europe 是 MiCA EMT 第一批持牌发行方(USDC EU + EURC),同时满足 GENIUS PPSI + MiCA EMT + Significant Token 三重合规 → 跨大西洋"day-1 双圆合规"独家。这是 USDC 估值溢价于 USDT 的核心结构性原因之一。
+**三円 MRA の EU 柱**:USA-EU MRA(2026-Q3 予定)= USDC ↔ EURC 双方向相互認証。Circle Europe は MiCA EMT 初回ライセンス発行者(USDC EU + EURC)で、GENIUS PPSI + MiCA EMT + Significant Token の三重コンプラを同時に満たす → 大西洋横断「day-1 ダブル円コンプラ」独占。これが USDC が USDT より評価プレミアムを持つ核心的な構造的理由の 1 つ。
 
-**ESMA Q&A 3.4 锚点**:明确"等待 MRA"——这是政策时间表锚点。任何 MiCA 第一波 §501(d) 入榜 = 三圆 MRA 欧盟支柱落地。MiCA 与 DORA(2025-01-17 生效)形成"业务 + 韧性"双轨监管,DORA CTPP 机制把 AWS / Anchorage / Coinbase Custody 等 SC 关键基础设施"间接纳入监管"。CASP 配套要求详见 [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概览]],与 GENIUS / HKMA / MAS / JFSA 横向对照见 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
+**ESMA Q&A 3.4 アンカー**:明確に「MRA 待ち」 —— これが政策タイムテーブルのアンカー。任意の MiCA 第 1 波 §501(d) リスト入り = 三円 MRA EU 柱の実装。MiCA と DORA(2025-01-17 施行)が「事業 + レジリエンス」二軌規制を構成、DORA CTPP メカニズムは AWS / Anchorage / Coinbase Custody 等 SC 重要インフラを「間接的に規制対象に含める」。CASP 関連要件詳細は [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP 制度概要]] を、GENIUS / HKMA / MAS / JFSA との横断比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
 
-**受压玩家路径**:
-- Tether / USDT:MiCA 不接受 + Article 17 大型 SC 限制 → USDT 在欧盟份额 2024-12 ~28% → 2026-05 ~3% · 转向 HK 申请 + 灰色市场
-- DAI / LUSD / FRAX:MiCA 不承认无发行方的 SC · ESMA Q&A 2.7 明确不能 offer to public · 欧盟用户仅 secondary market
-- Sky DAO 解散 MakerDAO Foundation 后注册新加坡 + 开曼,明确避开欧盟管辖
-- Algorithmic stablecoins:MiCA 明文禁止(UST 崩盘后果)
+**圧力プレイヤーの経路**:
+- Tether / USDT:MiCA 非受容 + Article 17 大型 SC 制限 → USDT の EU シェア 2024-12 ~28% → 2026-05 ~3% · HK 申請 + グレー市場へ転換
+- DAI / LUSD / FRAX:MiCA は発行者不在の SC を承認せず · ESMA Q&A 2.7 で offer to public 不可と明確化 · EU ユーザーは secondary market のみ
+- Sky DAO は MakerDAO Foundation 解散後シンガポール + ケイマンに登記、EU 管轄を明示的に回避
+- Algorithmic stablecoins:MiCA で明文禁止(UST 崩壊の結果)
 
 ## Origin & evolution
 
-2024-12 MiCA 全面生效 → 2024-12-30 EU TFR 2023/1113 生效 + USDT 在欧盟主流交易所下架 → 2025-01-17 [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] 全部条款生效 → 2025-08 Membrane Finance 收购 Tether 谈判破裂 = 欧盟入路彻底关闭 → 2025-09 USDC 列为 Significant EMT。2026-Q3 USA-EU MRA 签署预期 = 三圆 MRA 第一支柱落地。
+2024-12 MiCA 全面施行 → 2024-12-30 EU TFR 2023/1113 施行 + USDT が EU 主要交易所で上場廃止 → 2025-01-17 [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] 全条文施行 → 2025-08 Membrane Finance による Tether 買収交渉決裂 = EU 参入路完全閉鎖 → 2025-09 USDC が Significant EMT に指定。2026-Q3 USA-EU MRA 締結予定 = 三円 MRA 第 1 柱の実装。
 
 ## Counterpoints
 
-- 2026-Q3 MRA 时间表依赖政治变量 · 可推迟
-- EURC 流通规模小(€200-500M)· 双向互认实际经济价值偏单向(USDC → EU)
-- DAI / FRAX 等绕开 MiCA 路径(secondary market only)对欧盟 DeFi 形成隐性歧视
+- 2026-Q3 MRA タイムテーブルは政治変数に依存 · 延期の可能性
+- EURC 流通規模が小さい(€200-500M) · 双方向相互認証の実経済価値は片側(USDC → EU)に偏る
+- DAI / FRAX 等の MiCA 回避ルート(secondary market only)は EU DeFi に潜在的差別をもたらす
 
 ## Open questions
 
-- USA-EU MRA 签署后 Tether 是否会通过欧盟子公司 / Membrane 重启申请?
-- §501(d) 第一波具体入榜国家名单(欧盟整体 vs 国家级)?
-- Sky DAO 新加坡 + 开曼注册是否会在 MRA 框架下被认定?
+- USA-EU MRA 締結後、Tether は EU 子会社 / Membrane 経由で申請再開するか?
+- §501(d) 第 1 波の具体的なリスト入り国名(EU 全体 vs 国別)?
+- Sky DAO のシンガポール + ケイマン登記は MRA フレームワーク下で認定されるか?
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/mica-overview|MiCA 概览]]
-- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 深度]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 框架]]
+- [[fintech/mica-overview|MiCA 概要]]
+- [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 深掘り]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 <!-- /wiki-links:managed -->
 

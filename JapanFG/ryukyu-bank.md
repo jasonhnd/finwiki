@@ -3,8 +3,8 @@ title: 株式会社琉球銀行
 aliases: ["琉球銀行", "りゅうぎん", "Bank of The Ryukyus", "The Bank of The Ryukyus, Ltd.", "Ryukyu Bank"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 沖縄県内 No.2 地銀（[[okinawa-fg]] 傘下の沖縄銀行に次ぐ規模）。**1948-05-01 米国軍政府主導で設立、当初は琉球列島の中央銀行 + 商業銀行 機能を兼任**という極めて珍しい出自を持つ。1972-05 沖縄本土復帰で普通銀行化、同年東証上場（現 PRIME 8399）。略称「**りゅうぎん**」。沖縄県全域 + 本土主要都市 + 海外駐在事務所体制。観光業・米軍基地経済・離島金融という沖縄特有の事業環境に密着。他のメガバンク・地銀と異なり、**持株会社化していない単独銀行** という構造を維持。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社琉球銀行
 **英名**：The Bank of The Ryukyus, Limited
@@ -61,7 +61,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 シンクタンク子会社「**りゅうぎん総合研究所**」は沖縄県内の経済統計・観光統計の主要発信機関の一つ。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | カード・決済 | りゅうぎん JCB / DC、地域 QR 決済「OKIPay」等参画 |
 | シンクタンク | りゅうぎん総合研究所（県内経済予測の主要発信源）|
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 中期経営計画（直近）
 
@@ -112,7 +112,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メガバンクとの関係**: メガ 3 行（[[mufg]]・[[smfg]]・[[mizuho-fg]]）とは協調・与信補完関係
 - **デジタル**: 地銀共同センター系勘定系（NTT データの地銀共同センター利用、※詳細は IR 要確認）
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **地域監督**: 福岡財務支局 沖縄財務事務所
@@ -160,5 +160,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。公開項目・公式 IR・沖縄県金融業界一般情報のみに基づく。設立経緯（米軍政府布令・中央銀行機能）は史実として確立済。直近業績数値・子会社持分比率の正確値は最新有価証券報告書を要参照。

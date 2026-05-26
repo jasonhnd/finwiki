@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,13 +40,13 @@
     "いよぎん HD (Iyogin Holdings)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社 (公開情報)",
-    "2. 重要历史",
-    "3. 业务线 map",
-    "4. 战略与竞争",
+    "2. 沿革",
+    "3. 事業セグメント・マップ",
+    "4. 戦略・競争",
     "地域基盤",
-    "数字化转型"
+    "デジタル戦略"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3349,
-    "word_like_tokens": 467,
+    "nonspace_chars": 3353,
+    "word_like_tokens": 466,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

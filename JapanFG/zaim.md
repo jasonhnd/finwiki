@@ -7,8 +7,8 @@ aliases:
   - "Zaim Inc."
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, fintech, pfm, household-finance, kddi]
@@ -48,7 +48,7 @@ Zaim は 2011 年公開の国内最古参クラスの **家計簿アプリ**。[
 
 PFM カテゴリは [[JapanFG/money-forward|Money Forward]] ME 一強と見られがちだが、Zaim は **独立創業 → KDDI 完全子会社化** という稀有なエグジット経路を辿り、通信キャリア経済圏内 fintech 残量の典型例として独立ページが必要。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **電子決済等代行業**: 銀行法改正（2017）以降、銀行 API 連携の法的根拠としての登録が前提。^[inferred]
 - **個人情報保護法**: 家計データ・レシートデータ・口座連携データの取扱いと、KDDI 親会社へのデータ共有範囲が論点。^[inferred]

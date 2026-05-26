@@ -6,20 +6,20 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/four-motive-classes-asymmetric-competition.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/four-motive-classes-asymmetric-competition.md",
   "domain": "fintech",
-  "title": "4 类动机不对称分析",
+  "title": "4 動機クラスの非対称分析",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "4 类动机不对称分析 —— 不是 7 阵营对称竞争",
+    "title": "4 動機クラスの非対称分析 —— 7 陣営の対称競争ではない",
     "aliases": [
       "4 motive classes",
       "asymmetric competition",
-      "不对称博弈",
-      "玩家动机分类"
+      "非対称ゲーミング",
+      "プレイヤー動機分類"
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -40,16 +40,16 @@
   },
   "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "4 类动机不对称分析",
+    "4 動機クラスの非対称分析",
     "Wiki route",
-    "4 类动机",
-    "类 1：被困赢家（Locked-in Winners）",
-    "类 2：组合赢家（Portfolio Winners）",
-    "类 3：基础设施赢家（Infrastructure Winners）",
-    "类 4：主权协调者（Sovereign Coordinators）",
-    "为什么这个分类比\"7 阵营\"更有用",
-    "应用模板",
-    "关联"
+    "4 動機クラス",
+    "クラス 1:詰まれた勝者(Locked-in Winners)",
+    "クラス 2:ポートフォリオ勝者(Portfolio Winners)",
+    "クラス 3:インフラ勝者(Infrastructure Winners)",
+    "クラス 4:主権コーディネーター(Sovereign Coordinators)",
+    "なぜこの分類が「7 陣営」より有用なのか",
+    "応用テンプレート",
+    "関連"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3417,
-    "word_like_tokens": 593,
+    "nonspace_chars": 3851,
+    "word_like_tokens": 599,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

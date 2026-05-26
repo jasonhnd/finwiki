@@ -1,12 +1,12 @@
 ---
-title: 美 / 欧 / 日 "三个大圆" 稳定币全球合规架构（MRA 互认）
-aliases: [three circles MRA, US-EU-Japan stablecoin agreement, 三圆合规架构]
+title: 米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証）
+aliases: [three circles MRA, US-EU-Japan stablecoin agreement, 三円コンプライアンスアーキテクチャ]
 domain: fintech
 kind: framework
 topic: three-circles-stablecoin-mra-framework
 created: 2026-05-13
-last_updated: 2026-05-13
-last_tended: 2026-05-13
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-13
 confidence: certain
 tags: [fintech, stablecoin, MRA, regulation, geopolitics, framework]
@@ -19,7 +19,7 @@ sources:
   - https://home.treasury.gov/news/press-releases
 ---
 
-# 美 / 欧 / 日 "三个大圆" 稳定币全球合规架构
+# 米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ
 
 
 ## Wiki route
@@ -27,48 +27,48 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 通过 **MRA（Mutual Recognition Agreement）** 机制,美国 GENIUS Act、欧盟 MiCA 与日本 EPI 三大独立稳定币立法体系将形成**相互承认的合规圈**,覆盖约 $130B+ 的 stablecoin 流通量。**U.S.-Japan MRA 已于 2026-02 签署,U.S.-EU MRA 预计于 2026-Q3 签署**。USDC 在三国均已持牌;Tether **完全位于圈外**,被边缘化至新兴市场。
+> **MRA（Mutual Recognition Agreement）** メカニズムを通じて、米国 GENIUS Act、EU MiCA、日本 EPI の 3 つの独立したステーブルコイン立法体系は**相互承認のコンプライアンスサークル**を形成し、約 $130B+ のステーブルコイン流通量をカバーする。**U.S.-Japan MRA は 2026-02 に署名済み、U.S.-EU MRA は 2026-Q3 に署名予定**。USDC は 3 か国でライセンスを保有。Tether は**完全にサークル外**に位置し、新興市場へ周縁化されている。
 
-**三个大圆**：
+**3 つの大円**：
 
-| 圈 | 法案 | 主要稳定币 | 持牌发行人示例 |
+| サークル | 法案 | 主要ステーブルコイン | ライセンス保有発行体例 |
 |---|---|---|---|
-| 🇺🇸 美国 | [[fintech/genius-act-501-denylist-mandate|GENIUS Act]]（2025 通过）| USDC / PYUSD / USD1 / RLUSD | Circle / Paxos / WLF / Ripple |
-| 🇪🇺 欧盟 | [[fintech/mica-overview|MiCA]]（2024-12-30 全面生效）| EURC / EUR-stable | Circle Ireland / Société Générale Forge |
+| 🇺🇸 米国 | [[fintech/genius-act-501-denylist-mandate|GENIUS Act]]（2025 可決）| USDC / PYUSD / USD1 / RLUSD | Circle / Paxos / WLF / Ripple |
+| 🇪🇺 EU | [[fintech/mica-overview|MiCA]]（2024-12-30 全面施行）| EURC / EUR-stable | Circle Ireland / Société Générale Forge |
 | 🇯🇵 日本 | [[fintech/japan-epi-three-types-overview|改正資金決済法]]（2023-06 → EPI 三型）| JPYC / USDC（SBI Circle）/ XJPY / DCJPY | [[JapanFG/jpyc|JPYC]] / SBI Circle Holdings / [[JapanFG/mufg|三菱 UFJ 信託]] / [[JapanFG/progmat|Progmat]] |
 
-**MRA 互认机制**：
+**MRA 相互認証メカニズム**：
 
-- 三国监管机构相互承认对方的持牌发行人
-- 持牌稳定币可在三国之间实现 passporting（例如 USDC 在美国持牌 → 自动可在欧盟与日本流通）
-- 储备、KYC 与反洗钱标准实现协调（兼容而非统一）
+- 3 か国の規制機関が相互に相手のライセンス保有発行体を承認
+- ライセンス保有ステーブルコインが 3 か国間で passporting を実現（例：USDC が米国でライセンス保有 → 自動的に EU および日本で流通可能）
+- 準備金、KYC、AML 基準の協調（統一ではなく互換性）
 
-**时间表**：
+**タイムライン**：
 
-- **U.S.-Japan MRA**:**2026-02 已签**（USDC × JPYC 双向）
-- **U.S.-EU MRA**:**2026-Q3 预计签署**
-- **U.S.-UK / U.S.-Singapore 双边**:2027 年预期
-- **G20 全球协调**:2027-2028 年 BIS 框架
+- **U.S.-Japan MRA**：**2026-02 署名済み**（USDC × JPYC 双方向）
+- **U.S.-EU MRA**：**2026-Q3 署名予定**
+- **U.S.-UK / U.S.-Singapore 二国間**：2027 年予定
+- **G20 グローバル協調**：2027-2028 年 BIS フレームワーク
 
-**地缘含义**：
+**地政学的含意**：
 
-1. **美元链级霸权进一步强化**:USDC 通过三圆覆盖发达世界,远超 Tether 的市场份额（Tether 仅存在于新兴市场与灰色地带）。
-2. **次级阵营被迫选边**:英国、瑞士、新加坡、香港等地需要选择加入"美元阵营"或"其他阵营"。
-3. **金砖阵营反击**:在 [[stablecoin-chain-sovereign-currency-divide|五极地缘对立]] 中,"灰色"与"非美元"圈的资本流向将发生变化。
-4. **印度 / 中国挑战**:[[india-anti-dollar-dpi-alliance|印度 UPI / MOSIP DPI 联盟]] 提供了替代叙事。
+1. **USD のチェーン級覇権がさらに強化**：USDC は三円を通じて先進国世界をカバー、Tether の市場シェアを遥かに上回る（Tether は新興市場とグレーゾーンのみに存在）。
+2. **次級陣営が選択を迫られる**：英国、スイス、シンガポール、香港等は「USD 陣営」または「その他陣営」への参加選択が必要。
+3. **BRICS 陣営の反撃**：[[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]] において、「グレー」および「非 USD」サークルの資本フロー方向が変化する。
+4. **インド / 中国の挑戦**：[[india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] が代替ナラティブを提供する。
 
-**市场结构含义**：
+**市場構造への含意**：
 
-- 跨境支付与稳定币业务必须在三圆任一辖区取得持牌资格
-- 日本市场是 USDC 进入亚洲的关键 launchpad
-- 日本本土集团内会社的合规对接将变得更加明确
+- クロスボーダー決済およびステーブルコインビジネスは三円いずれかの管轄でライセンス取得が必須
+- 日本市場は USDC がアジアへ参入する重要な launchpad
+- 日本国内のグループ会社向けコンプライアンス対応がより明確になる
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 链级 Denylist 合法化]]
-- [[fintech/stablecoin-chain-sovereign-currency-divide|稳定币地缘货币五极对立]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度的三层构造]]
-- [[fintech/carf-1099da-end-of-crypto-anonymity|CARF + 1099-DA 终结匿名]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 チェーン級 Denylist の合法化]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|ステーブルコイン地政学通貨 5 極対立]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]
+- [[fintech/carf-1099da-end-of-crypto-anonymity|CARF + 1099-DA 匿名性の終焉]]
 <!-- /wiki-links:managed -->

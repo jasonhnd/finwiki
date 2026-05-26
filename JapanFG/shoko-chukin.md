@@ -3,8 +3,8 @@ title: 商工中金 (Shoko Chukin Bank)
 aliases: ["商工中金", "Shoko Chukin", "商工組合中央金庫", "株式会社商工組合中央金庫", "Shoko Chukin Bank, Ltd."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, smb-bank, post-policy-finance, privatized-2023]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 旧 政策金融機関の **民間商業銀行化版**。1936 (昭和 11 年) 商工組合中央金庫法に基づく特殊会社として設立、2008-10 株式会社化、**2023-10 政府保有株式売却完了 → 完全民営化**。中小企業組合・組合員向け融資 + 一般中小企業融資に特化。2016-2017 **危機対応融資不正事件** (約 4,800 件規模) で金融庁から 2 度の業務改善命令を受け、経営陣総入れ替え・ガバナンス改革を経て民営化完了に至る。メガバンク・地銀・信金との中小企業マーケットでの三つ巴競合下、規模で劣る中で「組合員密着 + 事業承継/M&A」差別化を模索する民営化後フェーズ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社商工組合中央金庫 ^[extracted]
 **英名**：The Shoko Chukin Bank, Ltd. ^[extracted]
@@ -63,7 +63,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2023-10** | **政府保有株式売却完了 → 完全民営化** ^[extracted] |
 | 2024-04 | 民営化後の新中期経営計画 — 一般融資比率拡大・事業承継/M&A 強化 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 位置付け |
 |---|---|---|
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **預金・決済** | 組合員預金 + 一般法人決済 | 補完業務 |
 | **シンジケートローン** | 中堅企業向け協調融資 | 地銀・メガと連携 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 民営化後の事業モデル転換
 
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信金中央金庫・信用金庫 | 中小企業組合・零細企業融資 |
 | 日本政策金融公庫 | 危機対応融資・政策金融領域 |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁 (FSA) — 一般銀行として銀行法に基づく監督
 - **特殊性**: 旧商工組合中央金庫法廃止後も、危機対応融資の指定金融機関として **株式会社商工組合中央金庫法** が継続適用 ^[extracted]
@@ -147,5 +147,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (Wikipedia + 公式沿革 + 金融庁公表資料ベース、2026-05-19 抽出)。重要事実 (1936 設立 / 2008 株式会社化 / 2016-2017 不正事件 / 2023-10 民営化完了) は公開情報で交差確認済。民営化後の主要株主構成詳細・新中期経営計画数値目標は公開情報では限定的、IR 開示を要追跡。

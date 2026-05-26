@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -37,13 +37,13 @@
     "三十三 FG (San ju San Financial Group)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・関連会社",
     "2. 合併歷史・前身",
     "旧 第三銀行系",
     "旧 三重銀行系",
     "統合",
-    "3. 业务线 map"
+    "3. 事業セグメント・マップ"
   ],
   "body_links": {
     "wikilinks_count": 6,
@@ -67,9 +67,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3040,
-    "word_like_tokens": 470,
+    "nonspace_chars": 3045,
+    "word_like_tokens": 469,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

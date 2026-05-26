@@ -3,8 +3,8 @@ title: ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 aliases: ["Goldman Sachs Japan", "GS Japan", "ゴールドマン・サックス", "ゴールドマン・サックス証券", "Goldman Sachs Japan Co., Ltd.", "GSJCL"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 米 Goldman Sachs Group (NYSE: GS) の日本拠点。1974 年東京支店開設、現在は六本木ヒルズ森タワー本社。中核法人は **ゴールドマン・サックス証券株式会社** で、外資系投資銀行として日本企業の **M&A・ECM・DCM アドバイザリーで外資 No.1 級**。法人取引中心、リテール業務は限定。主要競合は [[morgan-stanley-japan]] / JP モルガン証券 / シティグループ証券。邦銀メガバンク IB（[[mufg]] MUMSS / [[smfg]] SMBC 日興 / [[mizuho-fg]] みずほ証券）とは IB リーグテーブルで毎期競合。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名（中核証券）**：ゴールドマン・サックス証券株式会社 ^[extracted]
 **英名**：Goldman Sachs Japan Co., Ltd.
@@ -65,11 +65,11 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 | **1974** | **東京支店 開設** |
 | 1980s | 日本企業の海外資金調達アドバイザリーで頭角 |
 | **1986** | **東京証券取引所 一部正会員（取引所会員）加入** |
-| 1990s | 不動産関連投資（バルクセール・債權回収）で日本市場存在感拡大 |
+| 1990s | 不動産関連投資（バルクセール・債権回収）で日本市場存在感拡大 |
 | 1999-05 | 親会社 Goldman Sachs Group, Inc. NYSE 上場（IPO）|
 | **2002** | **銀行ライセンス取得（ゴールドマン・サックス銀行東京支店）** |
-| 2003-04 | 三井住友フィナンシャルグループ（[[smfg]]）に約 1500 億円の優先株出資（後 償還）|
-| 2007-2008 | サブプライム関連で日本でも住宅債權ビジネス調整 |
+| 2003-04 | 三井住友フィナンシャルグループ（[[smfg]]）に約 1500 億円の優先株出資（後に償還）|
+| 2007-2008 | サブプライム関連で日本でも住宅債権ビジネス調整 |
 | 2008-09 | リーマン・ショック後、米親会社が銀行持株会社化・FRB 監督下移行 |
 | 2008-2009 | リーマン・ショック後の業界再編期にも日本での存在感維持 |
 | 2010s 前半 | 日本企業の海外 M&A・クロスボーダー案件アドバイザリーで毎期 IB リーグテーブル上位 |
@@ -81,7 +81,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **東京本社**：六本木ヒルズ森タワー（六本木 6-10-1）^[extracted]
 - 入居開始は六本木ヒルズ竣工後（2003-04〜）。以前は永田町・霞が関方面の高層ビルに本社を構えていた経緯あり ^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要業務 | 特徴 |
 |---|---|---|
@@ -101,7 +101,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **政府・公的セクター**：JBIC / JOGMEC 等のクロスボーダー案件アドバイザリー（時折）^[inferred]
 - リテール向け店舗は **なし** ^[extracted]
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 競合構図
 
@@ -140,11 +140,11 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ### 邦銀との関係
 
-- 2003-04 [[smfg]]（三井住友 FG）に約 1500 億円優先株出資（資本提携、後 償還）── 邦銀との資本関係歴 ^[extracted]
+- 2003-04 [[smfg]]（三井住友 FG）に約 1500 億円優先株出資（資本提携、後に償還）── 邦銀との資本関係歴 ^[extracted]
 - 邦銀との恒常的な業務提携（業務統合・JV）は **なし**（モルガン・スタンレーが [[mufg]] と統合戦略を採ったのと対照的）^[extracted]
 - 日本企業 M&A 案件で邦銀系証券（[[smfg]] / [[mizuho-fg]] / 野村）と頻繁に共同主幹事 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管（証券）**：金融庁（FSA）/ 関東財務局
 - **主管（銀行）**：金融庁・日本銀行（東京支店ベース、銀行法 第 47 条 外国銀行支店）^[inferred]
@@ -156,7 +156,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
   - 2024〜 日本企業のクロスボーダー M&A 復調 → IB 案件機会
   - 2024〜2026 円安・日銀政策金利正常化 → DCM 市場環境変化
 
-## 5. 历代日本トップ（参考）^[ambiguous]
+## 5. 歴代日本トップ（参考）^[ambiguous]
 
 - 日本拠点社長 / Country Head ポジションは時期により Goldman Sachs Japan Co., Ltd. 社長 / Co-CEO 等の名称変遷あり
 - 著名歴任者：持田昌典（旧 Goldman Sachs Japan Co. Ltd. 会長 / 社長として長期在任）、近年は森田康次郎 / 持田昌典 / 望月愼一郎 等の名前が業界誌で報じられる
@@ -191,5 +191,5 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報ベース、Wikipedia + 親会社 IR 公表資料 + 金融庁登録ベース）。Country Head 人事 / 個別 IB 案件 / 邦銀との資本関係詳細は時期により変動。具体的数値（売上・人員・案件件数）は親会社グローバル数値は Form 10-K に開示されるが、日本セグメント単体数値は非公開のため^[ambiguous] の記述あり。

@@ -3,8 +3,8 @@ title: 株式会社山形銀行
 aliases: ["山形銀行", "やまぎん", "Yamagata Bank", "The Yamagata Bank, Ltd.", "8344"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 山形県を地盤とする**東北地区の単独地銀**。1896 (明治 29) 年「両羽銀行」として創業、1965 年現商号に変更。**東証 PRIME 8344**(1949 年上場)、第二地銀ではない**第一地方銀行**で、山形県内預金シェア No.1 の県内最大金融機関。第二地銀の[[jimoto-hd]]傘下・きらやか銀行とは県内競合関係。隣県では[[fidea-hd]]傘下・荘内銀行 (鶴岡市) ・北都銀行 (秋田) とエリアが重なる。**持株会社化せず単独地銀のまま**経営する東北地区の独立系。観光 (蔵王・山寺・銀山温泉) ・農業 (さくらんぼ生産日本一・米沢牛・つや姫) ・製造業 (精密機械・電子部品) の地域経済を支える。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社山形銀行 ^[extracted]
 **英名**: The Yamagata Bank, Ltd.
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 (2018 以降の中期経営計画名・最新の業務提携は公式 IR を要参照)
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 国際 | 海外コルレス契約 (中国・東南アジア他) | 県内輸出企業の貿易金融支援 (^[likely]) |
 | デジタル | やまぎんアプリ・インターネットバンキング | 地銀共同サービス利用 (^[likely]) |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 競合構図 (山形県・東北地区)
 
@@ -129,7 +129,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - スマホアプリ・QR コード決済対応
 - 単独地銀のため、システム投資は地銀共同化に依存する傾向 (^[inferred])
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁 (FSA) ・東北財務局
 - **規制**: 銀行法 (第一地方銀行・全国地方銀行協会加盟)
@@ -173,5 +173,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (v1.0 公開情報ベース、2026-05-19 作成)。**公開情報のみ・内部目録不参照**。重要数値 (FY2024 預金/貸出/純利益・正確な店舗数・従業員数) は山形銀行 公式 IR (有価証券報告書・決算短信) を要参照。^[likely] / ^[inferred] / ^[ambiguous] タグは未確認推定の領域。^[extracted] は Wikipedia・公式サイト由来の確定情報。

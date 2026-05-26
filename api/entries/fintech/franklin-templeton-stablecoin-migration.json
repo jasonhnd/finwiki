@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/franklin-templeton-stablecoin-migration.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/franklin-templeton-stablecoin-migration.md",
   "domain": "fintech",
-  "title": "Franklin Templeton FOBXX (BENJI) · 从 Stellar 单链到多链 RWA · \"代币化基金不是稳定币\" 的范式",
+  "title": "Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Franklin Templeton FOBXX (BENJI) · 从 Stellar 单链到多链 RWA · \"代币化基金不是稳定币\" 的范式",
+    "title": "Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム",
     "aliases": [
       "franklin-templeton-stablecoin-migration",
       "FOBXX",
@@ -21,8 +21,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -50,7 +50,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL for the dominant tokenized-MMF peer that BENJI now competes with, with Apollo ACRED for the second-tier RWA segmentation, and with stablecoin issuer 2025-2026 consolidation for why tokenized funds and stablecoins are increasingly reco",
   "headings": [
-    "Franklin Templeton FOBXX (BENJI) · 从 Stellar 单链到多链 RWA · \"代币化基金不是稳定币\" 的范式",
+    "Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム",
     "TL;DR",
     "Wiki route",
     "Product fundamentals",
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18398,
-    "word_like_tokens": 3023,
+    "nonspace_chars": 18480,
+    "word_like_tokens": 3020,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: オリックス生命保険
 aliases: ["オリックス生命", "ORIX Life", "ORIX Life Insurance", "ORIX Life Insurance Corporation", "オリックス生命保険株式会社"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 中堅生命保険会社、オリックス [[orix-corp]] 100% 子会社（非上場）。1991-04 米 Mutual of Omaha との合弁「オリックス・オマハ生命」として設立、2002 米側撤退で 100% 子会社化・現社名へ。代理店 + 銀行窓販 + **ネット直販**の 3 チャネル並用が特徴で、医療保険「**CURE（キュア）**」シリーズが国内ネット販売の主力商品。死亡保険・がん保険を含む第三分野中心のラインアップで、オリックスグループ個人向け金融商品のコアを担う。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：オリックス生命保険株式会社
 **英名**：ORIX Life Insurance Corporation
@@ -50,7 +50,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 オリックス本体のセグメント開示上は「保険」セグメントに区分され、グループ収益の一定割合を安定的に貢献する事業として位置付けられている（具体構成比は親会社 IR 参照）。
 
-## 2. 重要历史
+## 2. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 第三分野特化 | アフラック [[aflac-japan]] | 医療「CURE」での価格・シンプルさ訴求 |
 | 外資 | プルデンシャル [[prudential-japan]] / AXA [[axa-japan]] | ネット完結による低コスト |
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）— 生命保険業法
 - **業界団体**: 生命保険協会（一般社団法人）
@@ -137,5 +137,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報ベース、親会社 [[orix-corp]] IR + Wikipedia 校核）。具体数値（保険料収入・契約件数・チャネル別構成比など）は親会社オリックスの統合報告書および保険業界統計の最新版を要参照。非上場のため単独有価証券報告書は存在せず、開示は親会社連結ベースが主。

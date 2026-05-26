@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,12 +41,12 @@
     "かんぽ生命保険 (Japan Post Insurance)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要 KPI（概観）^[ambiguous]",
     "グループ構造",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "旧簡易保険ブランドと郵便局網"
   ],
   "body_links": {
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5158,
-    "word_like_tokens": 682,
+    "nonspace_chars": 5163,
+    "word_like_tokens": 681,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

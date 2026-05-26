@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/data-availability-celestia-eigenda-blob-comparison.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/data-availability-celestia-eigenda-blob-comparison.md",
   "domain": "systems",
-  "title": "DA layer 全景对照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
+  "title": "DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "DA layer 全景对照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
+    "title": "DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
     "aliases": [
       "data availability comparison 2026",
       "celestia eigenda blobs avail near da",
@@ -23,8 +23,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -53,9 +53,9 @@
       "https://blobscan.com/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against EIP-4844 blob 经济与 2026 市场影响 for the Ethereum-native DA path that competes with all alt-DA, Pectra EIP-7691 · blob 翻倍与 L2 经济连锁 for the blob capacity expansion that affects all DA price competition, and EigenLayer overview for the restaking economic",
+  "summary": "This entry sits under systems index. Read it against EIP-4844 blob 経済と 2026 市場影響 for the Ethereum-native DA path that competes with all alt-DA, Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for the blob capacity expansion that affects all DA price competition, and EigenLayer overview for the restaking economic",
   "headings": [
-    "DA layer 全景对照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
+    "DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA",
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17763,
-    "word_like_tokens": 3310,
+    "nonspace_chars": 18950,
+    "word_like_tokens": 3264,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

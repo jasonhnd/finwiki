@@ -17,8 +17,8 @@
     ],
     "domain": "corporate-strategy",
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "likely",
     "tags": [
@@ -41,11 +41,11 @@
     "パーシャルスピンオフ税制 — partial spin-off tax deferral",
     "Wiki route",
     "TL;DR",
-    "1. 制度结构",
+    "1. 制度構造",
     "2. 典型 transaction flow",
     "3. Sony FG case",
     "4. Strategic reading",
-    "5. 监管与政策",
+    "5. 規制と政策",
     "Counterpoints",
     "Open questions"
   ],
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3949,
+    "nonspace_chars": 3952,
     "word_like_tokens": 535,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

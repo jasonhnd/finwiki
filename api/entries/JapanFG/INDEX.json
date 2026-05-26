@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/JapanFG/INDEX.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/JapanFG/INDEX.md",
   "domain": "JapanFG",
-  "title": "JapanFG — 日本金融集团 wiki namespace",
+  "title": "JapanFG — 日本金融グループ wiki namespace",
   "entry_type": "domain_index",
   "frontmatter": {
-    "title": "JapanFG — 日本金融集团 wiki namespace",
+    "title": "JapanFG — 日本金融グループ wiki namespace",
     "aliases": [
       "Japan FG",
       "日本 FG",
@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-18",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -33,12 +33,12 @@
       "金融庁・FSB 公開資料"
     ]
   },
-  "summary": "日本主要金融集团（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）的 entity 页 namespace。620 entity entries + INDEX / legal-license / registry / backlog control surfaces 覆盖メガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank operating-c",
+  "summary": "日本主要金融グループ（フィナンシャルグループ・ホールディングス・銀行・証券・保険・信販・暗号資産・外資系日本子会社）の entity ページ namespace。620 entity entries + INDEX / legal-license / registry / backlog control surfaces がカバーするのはメガバンク + 通信系 + 決済系 + 地銀 + ネオバンク + 政策金融 + 信託 + 証券 + 生損保 + 信販 + Fintech + 外資系 + 市場インフラ + 銀行 operating-company pages + regional-bank o",
   "headings": [
-    "JapanFG — 日本金融集团 wiki namespace",
+    "JapanFG — 日本金融グループ wiki namespace",
     "Overview",
-    "命名与位置 convention",
-    "模板（8 段固定）",
+    "命名・位置 convention",
+    "テンプレート（8 段固定）",
     "Cross-cutting overview",
     "P0 メガバンク + 主要 FG（8 家）✅ 完了",
     "P1 ネオバンク・証券・暗号資産（8 家）✅ 完了",
@@ -216,9 +216,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 96103,
+    "nonspace_chars": 96155,
     "word_like_tokens": 14288,
     "inbound_wikilinks_count": 690,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

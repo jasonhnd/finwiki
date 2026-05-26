@@ -1,10 +1,10 @@
 ---
-title: 三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式
-aliases: [three circles MRA economic scale, $130B 三圆 2030, white-vs-gray ring economics, 合规圈 vs 灰圈]
+title: 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル
+aliases: [three circles MRA economic scale, $130B 三円 2030, white-vs-gray ring economics, コンプライアンスサークル vs グレーサークル]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, number, economic-pattern, mra, genius, mica, epi, white-gray-ring, 2030-forecast]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 三圆 MRA 经济量化 · $130B 合规圈 vs $384B 灰圈共存模式
+# 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル
 
 
 ## Wiki route
@@ -25,58 +25,58 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 三圆合规圈(GENIUS + MiCA + EPI)2030 规模预测 **$130B**,仅占合规稳定币市场 35-40%;同期 USDT 灰区(7 国年流量 $384B)是合规圈的 **~3 倍**。这是一种"白圈与灰圈长期共存"的经济量化模式 —— 合规创造价值,但灰区不会消失。三圆并非"取代 USDT",而是从结构上把零售/灰区与机构/合规切分为两个不互通的市场。
+> 三円コンプライアンスサークル（GENIUS + MiCA + EPI）の 2030 規模予測は **$130B**、コンプライアンスステーブルコイン市場の 35-40% にとどまる。同期間の USDT グレーゾーン（7 か国年間フロー $384B）はコンプライアンスサークルの **~3 倍**。これは「ホワイトサークルとグレーサークルが長期共存する」経済量化モデル —— コンプライアンスは価値を生むが、グレーゾーンが消えるわけではない。三円は「USDT を代替する」のではなく、構造的にリテール / グレーゾーンと機関 / コンプライアンスを相互非疎通の 2 つの市場へ切り分ける。
 
 ## Key facts
 
-- 三圆 2030 预测 = 美圆 $80B(USDC/USDB/PYUSD/RLUSD)+ 欧圆 $15B(EURC/EURCV/EURB)+ 日圆 $35B(JPYC/Progmat/银行币) ^[extracted]
-- USDT 灰区 7 国月流量 $32B × 12 = $384B / 年(俄/伊朗/委内瑞拉/尼日利亚/土耳其/阿根廷/越南) ^[extracted]
-- 合规白圈占合规稳定币市场 35-40% · 灰圈是白圈 ~3 倍规模 ^[inferred]
-- 三圆 MRA 仍未正式签署(2026-05 互认草案讨论中) · 预计 2027-2028 落地 ^[extracted]
-- 2030 规模严重依赖 fed funds rate(高利率 → 储备 yield → 发行人竞争意愿) ^[inferred]
+- 三円 2030 予測 = 米円 $80B（USDC/USDB/PYUSD/RLUSD）+ 欧円 $15B（EURC/EURCV/EURB）+ 日円 $35B（JPYC/Progmat/銀行コイン）^[extracted]
+- USDT グレーゾーン 7 か国月次フロー $32B × 12 = $384B / 年（ロシア/イラン/ベネズエラ/ナイジェリア/トルコ/アルゼンチン/ベトナム）^[extracted]
+- コンプライアンスホワイトサークルがコンプライアンスステーブルコイン市場の 35-40% を占有 · グレーサークルはホワイトサークルの ~3 倍規模 ^[inferred]
+- 三円 MRA は依然正式署名なし（2026-05 時点で相互認証草案討議中）· 2027-2028 着地予定 ^[extracted]
+- 2030 規模は fed funds rate に重大依存（高金利 → 準備金 yield → 発行体競争意欲）^[inferred]
 
 ## Mechanism / How it works
 
-合规圈与灰圈的市场切分机制:
+コンプライアンスサークルとグレーサークルの市場切り分けメカニズム：
 
 ```
-白圈($130B / 2030):       灰圈($384B+ / 年):
-├── 机构托管(BUIDL/银行)   ├── 制裁规避(俄/伊朗)
-├── CME 保证金              ├── 零售汇款(尼日利亚/菲律宾)
-├── 银行 RTGS 互联          ├── 灰色商人结算
-├── §501 链级 denylist 强制 ├── USDT on Tron P2P
-└── 强 KYC / AML            └── 无 KYC 链上转账
+ホワイトサークル($130B / 2030):    グレーサークル($384B+ / 年):
+├── 機関カストディ(BUIDL/銀行)     ├── 制裁回避(ロシア/イラン)
+├── CME 証拠金                     ├── リテール送金(ナイジェリア/フィリピン)
+├── 銀行 RTGS 相互接続             ├── グレー商人決済
+├── §501 チェーン級 denylist 強制  ├── USDT on Tron P2P
+└── 強い KYC / AML                 └── KYC なしのオンチェーン送金
 
-切分逻辑: 监管要求 + 用户场景 + 渠道粘性形成 hard wall
-         · 三圆扩张不会"吃掉"灰圈 —— 是两个市场
+切り分けロジック：規制要件 + ユーザーシーン + チャネル粘着性が hard wall を形成
+                  · 三円拡張はグレーサークルを「食う」ことはない —— 2 つの市場
 ```
 
-**单边互认 → 双边互认 → 三边 MRA** 的演化路径:
-- 2026-02 U.S.-Japan MRA 已签(USDC × [[JapanFG/jpyc|JPYC]] 双向)
-- 2026-Q3 U.S.-EU MRA 预计签署 — 详见 [[fintech/mica-cross-border-implications|MiCA 跨境含义]]
-- 2027-2028 三圆 MRA 全签 → 持牌 issuer 自动 passporting
+**単方向相互認証 → 双方向相互認証 → 三辺 MRA** の進化経路：
+- 2026-02 U.S.-Japan MRA 署名済み（USDC × [[JapanFG/jpyc|JPYC]] 双方向）
+- 2026-Q3 U.S.-EU MRA 署名予定 — 詳細は [[fintech/mica-cross-border-implications|MiCA クロスボーダー含意]] 参照
+- 2027-2028 三円 MRA 全面署名 → ライセンス保有 issuer の自動 passporting
 
 ## Origin & evolution
 
-[[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 2025 通过 + [[fintech/mica-overview|MiCA]] 2024-12-30 全面生效 + 日本改正資金決済法 2023-06 升级为 [[fintech/japan-epi-three-types-overview|EPI 三型]] = 三圆基础齐备。$130B 2030 数字是在"互认协议 2028 签署 + EPI 信託型 2027 升级到允许利息分账"两个前提下的估算。若任一前提延迟,2030 规模可能降至 $80-100B。
+[[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 2025 可決 + [[fintech/mica-overview|MiCA]] 2024-12-30 全面施行 + 日本改正資金決済法 2023-06 が [[fintech/japan-epi-three-types-overview|EPI 三型]] にアップグレード = 三円基礎が整備された。$130B 2030 数字は「相互認証協定 2028 署名 + EPI 信託型 2027 で利息分配許可へアップグレード」の 2 つの前提下での試算である。いずれかの前提が遅延すれば、2030 規模は $80-100B まで低下する可能性。
 
 ## Counterpoints
 
-$130B 是 likely 估算 · 实际取决于 issuer 是否真正接入 MRA(USDC 大概率会 · USDT 大概率不会)。$384B 灰圈数字是 Chainalysis 链上流量,部分是 round-tripping,实际"净流量"可能仅 30-50%。"白圈不会吃灰圈"的预设也可能错 —— 若 USDC 在新兴市场推出免 KYC 钱包(如 Yellow Card 模式扩张),可能侵蚀部分 USDT 份额。三圆 MRA 草案仍未签署 · 实际落地有 1-2 年延期风险。
+$130B は likely な試算 · 実際は issuer が MRA に本当に接続するか次第（USDC は高確率で接続、USDT は高確率で接続しない）。$384B グレーサークル数字は Chainalysis のオンチェーンフローで、一部は round-tripping、実際の「ネットフロー」は 30-50% のみの可能性。「ホワイトサークルがグレーサークルを食わない」という前提も誤りの可能性 —— USDC が新興市場で KYC なしウォレットを投入（Yellow Card モデル拡張等）すれば、USDT シェアの一部を侵食する可能性。三円 MRA 草案は依然未署名 · 実着地に 1-2 年の遅延リスクあり。
 
 ## Open questions
 
-EPI 信託型 2027 是否真能升级到允许"利息分账"?USDT 在 2030 是否会主动申请三圆合规(HK 牌照是信号)?三圆 MRA 与 BlackRock BUIDL "中立军火商"角色的相互加成(BUIDL 同时为美/欧/日 SC 提供储备)?中东数字资产基金 $200-500B 是否会作为"第四圆"参与白圈?
+EPI 信託型 2027 で本当に「利息分配」許可へアップグレードできるか？USDT は 2030 までに能動的に三円コンプライアンスを申請するか（HK ライセンスはシグナル）？三円 MRA と BlackRock BUIDL「中立武器商人」役割の相乗効果（BUIDL が同時に米 / 欧 / 日 SC へ準備金を提供）？中東デジタル資産ファンド $200-500B が「第四円」としてホワイトサークルに参加するか？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 架构]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 链级 Denylist]]
-- [[fintech/em-market-crypto-dollarization-pattern|新兴市场加密美元化]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币分润经济学]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 チェーン級 Denylist]]
+- [[fintech/em-market-crypto-dollarization-pattern|新興市場暗号 USD 化]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン分配経済学]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Chainalysis Geography of Cryptocurrency Report · BIS / FSB 三圆协调讨论文件
+- Chainalysis Geography of Cryptocurrency Report · BIS / FSB 三円協調討議文書

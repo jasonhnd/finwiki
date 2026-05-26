@@ -3,8 +3,8 @@ title: イオン銀行 / イオンフィナンシャルサービス (Aeon Bank /
 aliases: ["Aeon Bank", "AFS", "イオン銀行", "株式会社イオン銀行", "イオンフィナンシャルサービス", "Aeon Financial Service", "8570"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, retail-bank, distribution, credit-card, asia-consumer-finance]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **流通系銀行の代表格**。総合スーパー [[retail/aeon-group]] イオン株式会社が頂点に立ち、中間持株会社 **イオンフィナンシャルサービス（AFS、東証 PRIME 8570）** が **イオン銀行 100%** と **アジア消費者金融 7 ヶ国網** を束ねる構造。**店舗 = イオンモール内ブランチ + 駅前 ATM 約 6,500 台級**、**プロダクト = イオンカード（国内発行枚数上位）+ WAON 電子マネー + イオン住宅ローン**、**海外 = タイ・マレーシア・香港等のアジア消費者金融子会社群**。[[seven-bank]] / [[lawson-bank]] と並ぶ流通 3 兄弟だが、ATM 単機能の 7 銀 / L 銀と異なり「総合銀行 + クレカ + アジア」の **3 階建てモデル**。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社イオン銀行（Aeon Bank, Ltd.）^[extracted]
 **設立**：2006-10-03 ^[extracted]
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **AEON Thana Sinsap (Thailand)**：タイ SET 上場、東南アジア最大の AFS 海外子会社 ^[extracted]
 - **AEON Credit Service (Asia) / (M)**：香港・マレーシアそれぞれ現地上場 ^[extracted]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -84,7 +84,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外消費者金融（マレーシア）| AEON Credit Service (M) Bhd（Bursa 上場）| イスラム金融対応 ^[inferred] |
 | 海外（その他アジア）| カンボジア / インドネシア / ベトナム / ミャンマー | 段階展開、商業銀行ライセンス取得（カンボジア）^[inferred] |
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2015〜2020 | カンボジア・インドネシア・ベトナム・ミャンマー 段階展開 ^[inferred] |
 | 2024 | 中期経営計画 発表（時期は AFS IR 参照）^[ambiguous] |
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 流通系銀行モデル（差別化軸）
 
@@ -129,7 +129,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - イオンカード会員向けの **ときめきポイント**、WAON ポイント連携
 - イオンモール来店動線が広告・販売チャネル
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**：金融庁（FSA）— イオン銀行は普通銀行ライセンス ^[extracted]
 - **海外規制**：BoT（タイ）、BNM（マレーシア）、HKMA（香港）、NBC（カンボジア）、OJK（インドネシア）等、現地上場ゆえ各国当局直接規制 ^[inferred]

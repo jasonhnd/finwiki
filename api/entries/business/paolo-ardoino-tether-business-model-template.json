@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/paolo-ardoino-tether-business-model-template.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/paolo-ardoino-tether-business-model-template.md",
   "domain": "business",
-  "title": "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+  "title": "40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+    "title": "40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino",
     "aliases": [
       "paolo-ardoino-tether-business-model",
       "lean-team-treasury-yield-template",
@@ -17,8 +17,8 @@
     ],
     "domain": "business",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -36,7 +36,7 @@
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against larry fink blackrock digital asset template for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino",
+    "40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2514,
-    "word_like_tokens": 429,
+    "nonspace_chars": 2928,
+    "word_like_tokens": 434,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

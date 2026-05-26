@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/polygon-agglayer-architecture-rollout.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/polygon-agglayer-architecture-rollout.md",
   "domain": "systems",
-  "title": "Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合",
+  "title": "Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合",
+    "title": "Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約",
     "aliases": [
       "polygon-agglayer-architecture",
       "agglayer-rollout",
@@ -21,8 +21,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -48,18 +48,18 @@
       "The Block & Messari research on Polygon"
     ]
   },
-  "summary": "Polygon 2024-2026 的战略转型是从 \"Polygon PoS sidechain\" 变成 \"AggLayer + CDK 多链协议层\":Polygon CDK 让任何团队 stack 出自己的 ZK rollup,AggLayer 提供跨 CDK chain 的统一桥 + pessimistic proof + ZK 证明聚合,目标是吃掉 跨链五极 中 \"intra-stack interop\" 那一极。MATIC → POL 迁移(2024-09 mainnet)把代币模型从 \"Polygon PoS gas + staking\" 改成 \"AggLayer 全栈 gas +",
+  "summary": "Polygon 2024-2026 年の戦略的転換は 「Polygon PoS sidechain」 から 「AggLayer + CDK マルチチェーンプロトコル層」 への変革である:Polygon CDK により任意のチームが独自の ZK rollup を構築可能、AggLayer は CDK チェーン間に統一ブリッジ + pessimistic proof + ZK 証明集約を提供し、クロスチェーン五極 における「intra-stack interop」の極を取り込むことを目指す。MATIC → POL 移行(2024-09 メインネット)はトークンモデルを「Polygon PoS ga",
   "headings": [
-    "Polygon AggLayer 架构与 2024-2026 rollout · CDK + 统一桥 + ZK 聚合",
+    "Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約",
     "TL;DR",
     "Wiki route",
-    "Polygon 历史阶段 · PoS → zkEVM → AggLayer",
-    "AggLayer 架构",
+    "Polygon 歴史段階 · PoS → zkEVM → AggLayer",
+    "AggLayer アーキテクチャ",
     "Polygon CDK(Chain Development Kit)",
-    "Partner chains · 名单与流失",
-    "MATIC → POL 迁移与商业模式",
-    "AggLayer vs 跨链协议对照",
-    "Polygon 在 RWA / 机构场景"
+    "Partner chains · リストと流出",
+    "MATIC → POL 移行とビジネスモデル",
+    "AggLayer vs クロスチェーンプロトコル対照",
+    "Polygon の RWA / 機関シナリオでの位置"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -109,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10006,
-    "word_like_tokens": 1774,
+    "nonspace_chars": 10931,
+    "word_like_tokens": 1734,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

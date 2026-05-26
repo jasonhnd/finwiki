@@ -3,8 +3,8 @@ title: ビットトレード (BitTrade)
 aliases: ["BitTrade", "ビットトレード", "株式会社ビットトレード", "Huobi Japan", "フォビジャパン"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, crypto]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本国内の暗号資産交換業者中堅枠。**旧 Huobi Japan が 2022-08 に「BitTrade」へ再改称**し、グローバル Huobi 本体（Justin Sun 関連）からの分離印象を打ち出した。**関東財務局長 第 00007 号**登録、JVCEA 第一種会員。取扱通貨数は国内最多級（2024 時点で 30+ 通貨）でロングテール戦略を取る。bitFlyer / Coincheck / GMO コイン / SBI VC Trade の次の中堅ポジション。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ビットトレード（BitTrade Co., Ltd.）^[extracted]
 **旧称**：株式会社フォビジャパン（Huobi Japan Co., Ltd.）→ 2022-08 BitTrade に再改称 ^[extracted]
@@ -49,7 +49,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 経営権変動：2022 年前後の Huobi グローバル側のオーナー変動（Justin Sun 系と報じられる）と、日本法人の「BitTrade」再改称が時期的に重なる。日本法人の現株主構成・実質支配の明示的開示は公開情報では限定的 ^[ambiguous]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 法人向け | OTC / 法人口座等 | 中堅枠としての差別化領域 |
 | デリバティブ | 国内では限定的 | デリバティブは bitFlyer / GMO 等が主軸 |
 
-## 3. 戦略与竞争
+## 3. 戦略・競争
 
 ### ポジショニング
 
@@ -82,7 +82,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **取扱通貨数の維持**：ロングテール戦略は審査・上場フローの体力勝負
 - **JVCEA / 金融庁監督下での compliance 強化**：トラベルルール / AML / 顧客資産分別管理
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 / 関東財務局（登録：第 00007 号）^[extracted]
 - **根拠法**：改正資金決済法（暗号資産交換業）

@@ -1,10 +1,10 @@
 ---
-title: WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力
+title: WLF USD1 · 政治背景ステーブルコイン · 大統領家関連 vs §501 中立性の緊張関係
 aliases: [world-liberty-usd1-political-stablecoin, USD1, WLF, World Liberty Financial]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, stablecoin, wlf, usd1, trump, political, conflict-of-interest, genius-act]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# WLF USD1 · 政治背景稳定币 · 总统家族关联 vs §501 中立性张力
+# WLF USD1 · 政治背景ステーブルコイン · 大統領家関連 vs §501 中立性の緊張関係
 
 
 ## Wiki route
@@ -25,42 +25,42 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> World Liberty Financial (WLF) USD1 稳定币 2024-09 启动 / 2025-Q1 实际部署,Trump 家族关联(Donald Jr / Eric / Barron 顾问 · 创始人 Steve Witkoff 中东特使候选 · ex-Dough Finance 团队)。2025-03 与 **Bridge** (Stripe 收购的稳定币发行平台) 签分销协议。MCap 2026-05 ~**$200M**(主要 WLF 自买驱动)。USD1 是**政治背景稳定币的标志性案例**——披着合规外衣的政治寻租,对 GENIUS Act "§501 中立性"投下长期阴影。
+> World Liberty Financial（WLF）USD1 ステーブルコインは 2024-09 始動 / 2025-Q1 実際にデプロイ、Trump 家関連（Donald Jr / Eric / Barron が顧問 · 創業者 Steve Witkoff は中東特使候補 · 元 Dough Finance チーム）。2025-03 に **Bridge**（Stripe が買収したステーブルコイン発行プラットフォーム）と配信契約を締結。MCap は 2026-05 時点で ~**$200M**（主に WLF の自社購入が牽引）。USD1 は**政治背景ステーブルコインの象徴的事例** —— コンプライアンスの装いを着た政治レントシーキングで、GENIUS Act「§501 中立性」に長期の影を投げかける。
 
 ## Key facts
 
-- MCap ~**$200M** (2026-05) · 启动 2024-09 / 部署 2025-Q1 ^[extracted]
-- 发行人 BitGo Trust Company (SD State Trust) ^[extracted]
-- 链 Ethereum + BSC + Solana (2026-Q1 加) · 储备 100% UST + 现金 ^[extracted]
-- 月度证明 BitGo 内部 attestation (披露有限) ^[extracted]
-- 分销 **Bridge** (Stripe 2024 收购) · 2025-03 签约 ^[extracted]
-- 创始团队 Steve Witkoff (房地产 · 中东特使候选) + Zach Folkman + Chase Herro (ex-Dough Finance) ^[extracted]
-- Trump 家族关联: Donald Jr + Eric 顾问 · Barron 列为 "DeFi Visionary" ^[extracted]
-- WLF token (单独 ERC-20) 销售给散户筹集启动资金 + USD1 储备 yield 给 WLF token 持有人 ^[extracted]
+- MCap ~**$200M**（2026-05）· 始動 2024-09 / デプロイ 2025-Q1 ^[extracted]
+- 発行体 BitGo Trust Company（SD State Trust）^[extracted]
+- チェーン Ethereum + BSC + Solana（2026-Q1 追加）· 準備金 100% UST + 現金 ^[extracted]
+- 月次 attestation BitGo 内部 attestation（開示限定的）^[extracted]
+- 配信 **Bridge**（Stripe が 2024 買収）· 2025-03 契約締結 ^[extracted]
+- 創業チーム Steve Witkoff（不動産 · 中東特使候補）+ Zach Folkman + Chase Herro（元 Dough Finance）^[extracted]
+- Trump 家関連：Donald Jr + Eric が顧問 · Barron は「DeFi Visionary」として記載 ^[extracted]
+- WLF token（独立 ERC-20）をリテールへ販売し起動資金を調達 + USD1 準備金 yield を WLF token 保有者へ ^[extracted]
 
 ## Mechanism / How it works
 
-USD1 经济学 = WLF token 经济学的**辅助燃料**: WLF 通过销售自家 token 给散户筹集资金 → 资金部分入 USD1 储备 (100% UST) → 储备 yield 不归 USD1 持有人(信託规则) 也不像 [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] 那样靠分销激励,而是**回流到 WLF token holder**(政治支持者经济回报). 这绕过了 GENIUS Act "§501 SC 不得付息"约束 (yield 给的是另一个代币持有人不是 SC 持有人). 2024-11 Trump 当选后, 2025-01 EO 14178 "Strengthening American Leadership in Digital Financial Technology" 签署 → WLF 散户 token 销售大涨 → 2025-03 与 Bridge 签分销协议 → 2025-Q2 SEC 暂停多起加密公司调查. **政治权力 × 监管放松 × 自家稳定币** 的三重共振。
+USD1 経済学 = WLF token 経済学の**補助燃料**：WLF が自社 token をリテールへ販売して資金調達 → 資金の一部が USD1 準備金（100% UST）へ流入 → 準備金 yield は USD1 保有者には帰属せず（信託ルール）、[[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]] のような配信インセンティブにも回らず、**WLF token holder（政治支持者の経済的リターン）へ還流する**。これにより GENIUS Act「§501 SC は利息支払い不可」制約を回避（yield は SC 保有者ではなく別のトークン保有者へ）。2024-11 Trump 当選後、2025-01 に EO 14178「Strengthening American Leadership in Digital Financial Technology」署名 → WLF のリテール token 販売が急騰 → 2025-03 に Bridge と配信契約締結 → 2025-Q2 SEC が複数の暗号企業調査を停止。**政治権力 × 規制緩和 × 自社ステーブルコイン**の三重共鳴。
 
 ## Origin & evolution
 
-2024-09 WLF 启动 (Steve Witkoff + ex-Dough Finance 团队 + Trump 家族顾问). 2024-10-11 与 Trump 竞选活动公开关联 (MoneyReimagined). 2024-11 Trump 当选. 2025-01 EO 14178 签署 + WLF 散户 token 销售大涨. 2025-03 USD1 与 Bridge 签分销协议. 2025-Q2 USD1 MCap $0 → $150M. 2026-Q1 Bridge 把 USD1 列为"标准分销稳定币之一" (与 USDB 并列). Senate Banking / House Financial Services 在 2025 持续质询. Better Markets / Public Citizen 等公益组织持续监督。
+2024-09 WLF 始動（Steve Witkoff + 元 Dough Finance チーム + Trump 家顧問）。2024-10-11 Trump 選挙キャンペーンと公的関連付け（MoneyReimagined）。2024-11 Trump 当選。2025-01 EO 14178 署名 + WLF リテール token 販売急騰。2025-03 USD1 が Bridge と配信契約締結。2025-Q2 USD1 MCap $0 → $150M。2026-Q1 Bridge が USD1 を「標準配信ステーブルコインの 1 つ」として並列（USDB と並列）。Senate Banking / House Financial Services が 2025 年継続的に質疑。Better Markets / Public Citizen 等の公益団体が継続的に監視。
 
 ## Counterpoints
 
-USD1 真实使用率极低 - 主要靠 WLF 自买 + 政治支持者忠诚购买驱动 MCap 增长,不是商业场景使用. Bridge 把 USD1 与 USDB 并列是"全光谱接纳"策略 (Bridge/Stripe 不愿被政治化),不代表 Bridge 主动推广,与 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse]] 的渠道占位逻辑一致. 2027 Trump 任期结束后,如果新一届政府强化 SC 监管,USD1 可能成为第一批被强制合规审查或冻结的产品,直接触发 [[fintech/chain-level-ofac-freeze-precedent|链上 OFAC 冻结判例]] 路径. 欧盟与日本监管机构因此对"美元稳定币互认"采取更谨慎态度——USD1 反向损害了三圆 MRA 进程.
+USD1 の実使用率は極めて低い —— 主に WLF の自社購入 + 政治支持者の忠誠購入が MCap 成長を牽引、商業シーンでの使用ではない。Bridge が USD1 を USDB と並列にするのは「全スペクトル受容」戦略（Bridge/Stripe が政治化を望まない）、Bridge が能動的に推進していることを意味しない。[[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse]] のチャネル占位ロジックと整合する。2027 Trump 任期終了後、新政権が SC 規制を強化すれば、USD1 は最初に強制コンプライアンス審査または凍結される製品となる可能性があり、[[fintech/chain-level-ofac-freeze-precedent|オンチェーン OFAC 凍結判例]] 経路を直接トリガーする。EU および日本の規制機関はこれを受けて「米国ステーブルコイン相互認証」により慎重な姿勢を取る —— USD1 は逆に三円 MRA プロセスを損なった。
 
 ## Open questions
 
-WLF / USD1 是否会被 SEC 在政府交接窗口认定为 "未注册证券"?Trump 家族实际 USD1 + WLF token 持仓多大?Bridge 在 USD1 上的真实交易量与 USDB 比例?GENIUS Act §501 "中立性" 信誉受 USD1 损害多大,会否影响 EU MiCA 与 GENIUS 的互认进度?
+WLF / USD1 は政府交代ウィンドウで SEC により「未登録証券」と認定されるか？Trump 家の実際の USD1 + WLF token 保有量はどれほどか？Bridge 上での USD1 の実取引量と USDB の比率は？GENIUS Act §501「中立性」の信用は USD1 によりどれほど損なわれ、EU MiCA と GENIUS の相互認証進捗に影響するか？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
 - [[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]
-- [[fintech/three-circles-stablecoin-mra-framework|稳定币三圆 MRA]]
-- [[fintech/regulatory-window-strategic-acquisition|监管窗口期战略收购]]
+- [[fintech/three-circles-stablecoin-mra-framework|ステーブルコイン三円 MRA]]
+- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ期戦略買収]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 <!-- /wiki-links:managed -->
 

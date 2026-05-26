@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-chain-token-strategy-trilemma.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/stablecoin-chain-token-strategy-trilemma.md",
   "domain": "fintech",
-  "title": "稳定币公链 token 策略三态博弈",
+  "title": "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "稳定币公链 token 策略三态博弈（发币 / 不发 / 已发）",
+    "title": "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム（発行 / 不発行 / 発行済み）",
     "aliases": [
       "token trilemma",
       "stablecoin chain token strategy",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-13",
-    "last_updated": "2026-05-13",
-    "last_tended": "2026-05-13",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-13",
     "confidence": "likely",
     "tags": [
@@ -39,7 +39,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "稳定币公链 token 策略三态博弈",
+    "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム",
     "Wiki route",
     "Related"
   ],
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2036,
-    "word_like_tokens": 325,
+    "nonspace_chars": 2351,
+    "word_like_tokens": 335,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

@@ -3,8 +3,8 @@ title: bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 aliases: ["bitFlyer", "ビットフライヤー", "bitFlyer Holdings", "株式会社ビットフライヤーホールディングス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, crypto]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内最大手暗号資産取引所の一つ。**2014-01-09 加納裕三 創業**、改正資金決済法施行直後の **2017-09 関東財務局長 第 00003 号** 取得（第一陣 11 社のうちの一角）。ビットコイン現物取引高で **国内トップ級**（年により [[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] と首位争い）。2019 持株会社化（bitFlyer Holdings 設立）、**米国 / EU（ルクセンブルク）** に子会社展開。グループ独自プライベートチェーン「miyabi」を [[systems/bitflyer-blockchain|bitFlyer Blockchain]] が運営。2024-2025 IPO 検討報道と並行して **創業者復帰・経営権争い** が表面化。JVCEA Type 1 業者。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ビットフライヤーホールディングス（持株）/ 株式会社ビットフライヤー（取引所運営）
 **英名**：bitFlyer Holdings, Inc. / bitFlyer, Inc.
@@ -80,7 +80,7 @@ bitFlyer Holdings, Inc.（持株、未上場）
 | **2024** | **IPO 検討報道**（東証グロース 上場想定、複数メディア）|
 | **2024〜2025** | **創業者・現経営陣の経営権争い 報道**（加納裕三 復帰観測 / 株主総会対立）|
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -95,7 +95,7 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 BTC / ETH / ETC / LTC / BCH / MONA / LSK / XRP / BAT / XLM / XEM / XTZ / DOT / LINK / MKR / MATIC / SHIB / DOGE 等 ^[inferred]
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### コア戦略
 - **「日本発グローバル取引所」**: 国内最古参の一角 + 米国 / EU 子会社による多拠点展開
@@ -124,7 +124,7 @@ BTC / ETH / ETC / LTC / BCH / MONA / LSK / XRP / BAT / XLM / XEM / XTZ / DOT / L
 - BFT 系コンセンサス・高 TPS を謳う独自プライベートチェーン
 - 金融機関 / 自治体 / NFT 向け B2B 案件（広告露出は限定的）
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **国内主管**: 金融庁 / 関東財務局
 - **暗号資産交換業登録**: 関東財務局長 第 00003 号（第一陣・2017-09）

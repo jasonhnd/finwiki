@@ -1,12 +1,12 @@
 ---
-title: 稳定币公链 token 策略三态博弈（发币 / 不发 / 已发）
+title: ステーブルコイン公開チェーン token 戦略 3 状態ゲーム（発行 / 不発行 / 発行済み）
 aliases: [token trilemma, stablecoin chain token strategy, L1 token game theory]
 domain: fintech
 kind: framework
 topic: stablecoin-chain-token-strategy-trilemma
 created: 2026-05-13
-last_updated: 2026-05-13
-last_tended: 2026-05-13
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-13
 confidence: likely
 tags: [fintech, blockchain, token, game-theory, framework]
@@ -19,7 +19,7 @@ sources:
   - https://solana.com/news
 ---
 
-# 稳定币公链 token 策略三态博弈
+# ステーブルコイン公開チェーン token 戦略 3 状態ゲーム
 
 
 ## Wiki route
@@ -27,36 +27,36 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 稳定币与支付公链在 "是否发行 native token" 的决策上呈现三种策略均衡：**摇摆中（Base 模式）** / **明确不发（Tempo 模式）** / **已发（Arc 模式）**。每一态绑定不同的资本群体、监管 trade-off 与时间窗口约束，且**一旦选定 3-5 年内难以反转**。
+> ステーブルコインおよび決済公開チェーンの「native token を発行するか」の意思決定は、3 つの戦略均衡として現れる：**揺らぎ中（Base モデル）** / **明確な不発行（Tempo モデル）** / **発行済み（Arc モデル）**。それぞれの状態は異なる資本クラスター、規制 trade-off、時間ウィンドウ制約と紐づき、**一度選択すると 3-5 年は反転困難**である。
 
-**三态决策矩阵**：
+**3 状態意思決定マトリックス**：
 
-| 维度 | 摇摆中 | 明确不发 | 已发 |
+| 次元 | 揺らぎ中 | 明確な不発行 | 発行済み |
 |---|---|---|---|
-| 典型案例 | Base | [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] | [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] |
-| 绑定资本 | 散户（airdrop 预期）+ 投资人（视发币动作而定）| 商户 + 传统机构 | Wall Street 机构 |
-| 监管阻力 | 中等（取决于母公司身份）| 最低 | 最高（取决于 token 定性）|
-| 短期套现窗口 | 中（押注未来发币）| 0（押注 10 年市场捕获）| 高（私募轮 + listing 杠杆）|
-| 不可逆性 | 一旦发币即不可撤回 | 一旦承诺不发即难以再发 | 一旦发币即无法回收 |
+| 典型事例 | Base | [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] | [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] |
+| 結びつく資本 | リテール（airdrop 期待）+ 投資家（発行動作次第）| マーチャント + 伝統機関 | Wall Street 機関 |
+| 規制抵抗 | 中程度（親会社のステータス次第）| 最低 | 最高（token の定性次第）|
+| 短期キャッシュアウトウィンドウ | 中（将来の発行への賭け）| 0（10 年市場捕捉への賭け）| 高（プライベートラウンド + listing レバレッジ）|
+| 不可逆性 | 一度発行すれば撤回不可 | 一度不発行を約束すれば再発行困難 | 一度発行すれば回収不可 |
 
-**关键洞察**：
+**主要な洞察**：
 
-1. **三态均为稳定均衡**，不存在"显然更优"的策略 —— 选择取决于母公司身份（上市公司 vs 私有 vs 监管原生）、资本市场的叙事需求与监管窗口的开闭。
-2. **时间不可逆**：Coinbase 的上市公司身份在 Base 早期阶段限制了发币能力，但 2025-09 SEC 撤诉、Hester Peirce 上任之后,该窗口已经打开。
-3. **博弈论含义**：当 N 家竞争者中的 1 家突然改变策略（例如 Base 由摇摆转向发币），其余各态被迫重新计算（Tempo 是否仍可维持不发？Arc 是否需要加速 vesting？）。
+1. **3 状態すべてが安定均衡**であり、「明らかに優れた」戦略は存在しない —— 選択は親会社のステータス（上場企業 vs 私有 vs 規制ネイティブ）、資本市場のナラティブニーズ、規制ウィンドウの開閉に依存する。
+2. **時間的不可逆性**：Coinbase の上場企業ステータスは Base の初期段階で発行能力を制約したが、2025-09 SEC 訴訟取り下げ、Hester Peirce 就任後、当該ウィンドウは開いた。
+3. **ゲーム理論的含意**：N 社の競合のうち 1 社が突如戦略を変更した場合（例：Base が揺らぎから発行へ転換）、残りの状態は再計算を強いられる（Tempo は不発行を維持できるか？Arc は vesting を加速すべきか？）。
 
-**触发条件**：
+**トリガー条件**：
 
-- 母公司财务压力（净亏需要 token 叙事支撑估值）→ 摇摆 → 发币
-- 监管窗口开启（SEC 撤诉 / 政府换届）→ 摇摆 → 发币
-- 关键人物多重身份切割 → 不发 → 摇摆（例如 Matt Huang 三重身份未来若被切割,Tempo 可能重估其立场）
+- 親会社の財務圧力（純損失が token ナラティブによる評価額支持を必要とする）→ 揺らぎ → 発行
+- 規制ウィンドウが開く（SEC 訴訟取り下げ / 政権交代）→ 揺らぎ → 発行
+- キーパーソンの多重ステータスの切り分け → 不発行 → 揺らぎ（例：Matt Huang の 3 重ステータスが将来切り分けられれば、Tempo はその立場を再評価する可能性がある）
 
-**反例 / 例外**：Ethereum L2（Arbitrum / Optimism / zkSync 等）大多已经发币,但其与稳定币、支付公链的"内化收入"动机不同。本框架仅适用于**稳定币原生 / 支付定位**的公链。更广的跨链比较见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对比矩阵]]。
+**反例 / 例外**：Ethereum L2（Arbitrum / Optimism / zkSync 等）の多くは既に発行済みだが、ステーブルコイン・決済公開チェーンとの「内部化収入」動機は異なる。本フレームワークは**ステーブルコインネイティブ / 決済位置付け**の公開チェーンにのみ適用される。より広範なクロスチェーン比較は [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極比較マトリックス]] 参照。
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]]
 - [[fintech/usd-stablecoin-interchange|USD Stablecoin Interchange]]
 <!-- /wiki-links:managed -->

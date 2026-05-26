@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
   "domain": "fintech",
-  "title": "国家许可型私营稳定币 + DPI 全球输出战略",
+  "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "国家许可型私营稳定币 + DPI 全球输出战略",
+    "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
     "aliases": [
       "india ARC polygon",
       "national license private stablecoin",
@@ -18,8 +18,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-16",
-    "last_updated": "2026-05-16",
-    "last_tended": "2026-05-16",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-16",
     "confidence": "likely",
     "tags": [
@@ -43,7 +43,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "国家许可型私营稳定币 + DPI 全球输出战略",
+    "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
     "Wiki route",
     "Related"
   ],
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2776,
-    "word_like_tokens": 478,
+    "nonspace_chars": 3095,
+    "word_like_tokens": 483,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

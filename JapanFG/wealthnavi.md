@@ -3,8 +3,8 @@ title: ウェルスナビ株式会社 (WealthNavi)
 aliases: ["WealthNavi", "ウェルスナビ", "WealthNavi Inc.", "ウェルスナビ株式会社"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, robo-advisor, fintech]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内ロボアドバイザリー型資産運用サービス最大手。**預かり資産約 1 兆円 ^[ambiguous]**、運用者数約 40 万人規模 ^[ambiguous]。2015-04-28 柴山和久（元 マッキンゼー、財務省出身）創業、2016-07 サービス開始。2020-12-22 東証マザーズ上場（証券コード **7342**、現 グロース）。**2024-12-12 三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表 ★** ── 国内ロボアドのパイオニアがメガバンク AI 金融エコシステムに統合される転換点。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：ウェルスナビ株式会社 ^[extracted]
 **英名**：WealthNavi Inc.
@@ -89,7 +89,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2024-12-12** | **三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表** ★ |
 | 2025 ^[forecast] | MUFG 完全子会社化完了予定、上場廃止見込み |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | サービス | 特徴 |
 |---|---|---|
@@ -107,7 +107,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **自動リバランス**（半年に 1 回 + 乖離発動時）
 - **DeTAX**: 含み損銘柄を意図的に売却し税最適化（米 Wealthfront の Tax-Loss Harvesting に相当）^[inferred]
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 競争ポジション
 
@@ -140,7 +140,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **顧客獲得コスト（CAC）**: ホワイトラベル提携で抑制、自社直販はデジタル広告中心
 - **チャーン**: 長期投資前提で低水準だが、相場下落局面で解約増 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業登録**: 第一種金融商品取引業者・投資運用業者
@@ -181,5 +181,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報ベース、Wikipedia + 公式 IR + 適時開示 2026-05-19）。預かり資産・運用者数は時点変動あり、最新値は WealthNavi IR Quarterly を要参照。MUFG 子会社化（2024-12-12 発表）後の事業統合詳細は 2025〜2026 の追補が必要。

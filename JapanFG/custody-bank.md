@@ -3,8 +3,8 @@ title: 日本カストディ銀行 (CBJ)
 aliases: ["CBJ", "日本カストディ銀行", "株式会社日本カストディ銀行", "Custody Bank of Japan", "日本カストディ銀行 (信託口)"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, trust-banking, custody]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本最大級の信託カストディ専業銀行（運用受託資産 約 600〜700 兆円規模 ^[ambiguous]）。**2020-07-27 日本トラスティ・サービス信託銀行 (JTSB) + 資産管理サービス信託銀行 (TCSB) 合併発足**。[[sumitomo-mitsui-trust]] 46.5% + [[mizuho-fg]] 信託 27.0% + [[dai-ichi-life]] 8.0% 等の合弁。**上場企業の主要株主欄に「日本カストディ銀行 (信託口)」として常連登場 ★**。日本マスタートラスト信託 [[master-trust-bank]]（MUFG [[mufg]] + [[nippon-life]] 系）と並ぶ国内 2 強の信託口株主（証券保管 2 強体制）。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社日本カストディ銀行 ^[extracted]
 **英名**：Custody Bank of Japan, Ltd. (CBJ)
@@ -75,7 +75,7 @@ TCSB 系（旧 みずほ系）
   └── 朝日生命・富国生命 等
 ```
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -85,7 +85,7 @@ TCSB 系（旧 みずほ系）
 | 特定金銭信託 (特金) | 機関投資家・事業法人の運用ビークル | 受託・運営 |
 | 資産管理サービス | 機関投資家向け Master Custody | 投資指図受託・運用報告 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 専業ポジション
 
@@ -111,7 +111,7 @@ TCSB 系（旧 みずほ系）
 - 統合に伴うシステム刷新は数年継続案件（具体時期は IR 非公開）^[ambiguous]
 - 親会社別の重複していた**カストディシステム / 投信計算システム**を CBJ で一元化
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **法的位置付け**：銀行法 + 信託業法（信託兼営）

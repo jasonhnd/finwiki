@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "possible",
     "tags": [
@@ -45,10 +45,10 @@
     "住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "住友グループ + SMFG 金融機能の配置",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "住友商事の事業構造と金融機能",
     "SMFG との連携の特殊性",
     "競合 / Peer"
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5862,
-    "word_like_tokens": 790,
+    "nonspace_chars": 5867,
+    "word_like_tokens": 789,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

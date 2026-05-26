@@ -1,12 +1,12 @@
 ---
-title: 国家许可型私营稳定币 + DPI 全球输出战略
+title: 国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略
 aliases: [india ARC polygon, national license private stablecoin, DPI dollar alternative, UPI MOSIP stablecoin]
 domain: fintech
 kind: knowledge
 topic: national-license-private-stablecoin-with-dpi-export
 created: 2026-05-16
-last_updated: 2026-05-16
-last_tended: 2026-05-16
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-16
 confidence: likely
 tags: [fintech, stablecoin, india, polygon, upi, mosip, dpi, geopolitics]
@@ -19,7 +19,7 @@ sources:
   - https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125
 ---
 
-# 国家许可型私营稳定币 + DPI 全球输出战略
+# 国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略
 
 
 ## Wiki route
@@ -27,73 +27,74 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 印度 ARC token × Polygon 2026 Q1 上线 = **全球首个国家许可型私营稳定币 + 数字公共基础设施（DPI）全球输出**模式：政府许可单一私营发行方 + 与 UPI / MOSIP / Aadhaar 集成 + 通过 G20 / 双边协议向新兴市场输出全套 stack → **反美元 DPI 联盟**叙事。是新兴市场对抗 USDC / USDT 主导格局的第一个有可执行路径的战略。
+> インド ARC token × Polygon が 2026 Q1 に稼働 = **世界初の国家ライセンス型民間ステーブルコイン + デジタル公共インフラ(DPI)グローバル輸出**モデル:政府が単一民間発行者を許可 + UPI / MOSIP / Aadhaar と統合 + G20 / 二国間協定経由で新興市場にフルスタック輸出 → **反米ドル DPI 連盟**ナラティブ。これは新興市場が USDC / USDT 主導構造に対抗する初の実行可能ルートを持つ戦略。
 
-**架构三件套**：
+**3 種の構成要素**:
 
-1. **国家许可单一发行方**：政府授权 1 家私营公司（印度 ARC token 由特定财团运营）
-2. **DPI 集成**：稳定币 day-1 接入 UPI（支付）+ MOSIP（身份）+ Aadhaar（KYC）
-3. **全球输出 stack**：通过 G20 双边协议向非洲 / 拉美输出整套（印度已与 30+ 国签订 DPI 合作 MOU）
+1. **国家ライセンス・シングル発行者**:政府が 1 民間企業を許可(インド ARC token は特定コンソーシアムが運営)
+2. **DPI 統合**:ステーブルコインが day-1 から UPI(決済)+ MOSIP(身分)+ Aadhaar(KYC)に接続
+3. **グローバル輸出 stack**:G20 二国間協定経由でアフリカ / 中南米にフルスタック輸出(インドは既に 30+ 国と DPI 協力 MOU を締結)
 
-**核心区别（vs USDC / USDT）**：
+**核心的差異(vs USDC / USDT)**:
 
-| 维度 | USDC / USDT | 国家许可型 + DPI |
+| 軸 | USDC / USDT | 国家ライセンス型 + DPI |
 |---|---|---|
-| 锚定货币 | USD | 本国法币 + 区域结算货币 |
-| 发行方 | 私营（受美监管）| 私营但受本国政府许可 |
-| KYC | 各 platform 各自做 | 国家身份系统直连 |
-| 跨境清算 | 通过 USD 离岸 | 通过 DPI 双边协议 |
-| 制裁敏感性 | 高（OFAC 可冻结）| 低（本国主权）|
-| 全球输出 | 无国家战略 | 国家战略层 |
+| ペッグ通貨 | USD | 自国法定通貨 + 地域決済通貨 |
+| 発行者 | 民間(米国規制下) | 民間だが自国政府の許可下 |
+| KYC | 各 platform で個別 | 国家身分システムに直接接続 |
+| クロスボーダー清算 | USD オフショア経由 | DPI 二国間協定経由 |
+| 制裁感応度 | 高(OFAC が凍結可能) | 低(自国主権) |
+| グローバル輸出 | 国家戦略なし | 国家戦略層 |
 
-**印度三步走（已部分披露）**：
+**インド 3 ステップ(一部公開済み)**:
 
 ```
-Step 1 (2026 Q1): ARC token × Polygon 主网启动
-  - 政府许可的财团发行
-  - 与 UPI / Aadhaar 集成
-Step 2 (2026 H2): G20 框架下与新兴市场签 DPI bilateral
-  - 输出 stack 给非洲（尼日利亚、肯尼亚）
-  - 输出 stack 给拉美（巴西 DREX 互操作）
-Step 3 (2027+): 反美元 DPI 联盟联合声明
-  - 与中国 mBridge / 巴西 DREX 互操作
-  - 形成约 35% 全球 GDP 非美元结算环
+Step 1 (2026 Q1): ARC token × Polygon メインネット稼働
+  - 政府許可のコンソーシアムが発行
+  - UPI / Aadhaar と統合
+Step 2 (2026 H2): G20 フレームワーク下で新興市場と DPI bilateral 締結
+  - アフリカ(ナイジェリア、ケニア)へ stack 輸出
+  - 中南米(ブラジル DREX 相互運用)へ stack 輸出
+Step 3 (2027+): 反米ドル DPI 連盟共同声明
+  - 中国 mBridge / ブラジル DREX と相互運用
+  - 約 35% グローバル GDP 非米ドル決済リングを形成
 ```
 
-**通用性 / 可推广至**：
+**汎用性 / 適用可能**:
 
-- 巴西 DREX（已部分实施 CBDC + 私营稳定币双轨）
-- 尼日利亚 eNaira → 私营稳定币转型（eNaira 失败后被动选择）
-- 沙特 / 阿联酋（区域 AED / SAR 稳定币 + Aramco 推动）
-- 中国（PBoC G20 信号 → 离岸 CNH 稳定币 Q4 2026 试点）
-- 任何"政府强、私营弱、需要本国法币上链 + 国家战略输出"的新兴市场
+- ブラジル DREX(既に部分実施:CBDC + 民間ステーブルコイン二軌)
+- ナイジェリア eNaira → 民間ステーブルコイン転換(eNaira 失敗後の受動的選択)
+- サウジ / UAE(地域 AED / SAR ステーブルコイン + Aramco 推進)
+- 中国(PBoC G20 シグナル → オフショア CNH ステーブルコイン Q4 2026 試行)
+- 「政府強、民間弱、自国法定通貨のオンチェーン化 + 国家戦略輸出が必要」な新興市場全般
 
-**反例 / 边界**：
+**反例 / 境界**:
 
-- 政府 / 私营信任度低的国家（阿根廷、土耳其）→ 民众仍偏好 USDT
-- 美国制裁压力下，DPI 全球输出可能被反制（DPI 标准被 IMF / 世行重新定义）
-- 私营发行方与政府关系不稳定时，模式崩塌（埃及、巴基斯坦风险）
-- 技术依赖外部 L1（Polygon / Solana），主权独立性打折
+- 政府/民間信頼度の低い国(アルゼンチン、トルコ) → 国民は依然 USDT を選好
+- 米国制裁圧力下、DPI グローバル輸出が反撃される可能性(DPI 標準が IMF / 世銀により再定義)
+- 民間発行者と政府の関係不安定時はモデル崩壊(エジプト、パキスタンのリスク)
+- 外部 L1(Polygon / Solana)への技術依存、主権独立性が割引
+- 
 
-**估值 / 决策含义**：
+**バリュエーション / 意思決定含意**:
 
-- 投资判断：早期参与国家许可型发行方 = 政策红利锁定 5–10 年
-- 战略买家信号：Polygon 类公链选择与印度合作 = 长期与国家战略绑定
-- 地缘风险：国家许可型稳定币 + DPI 输出 = 中美在新兴市场争夺的新战场
-- 监管沟通：印度 ARC token 是否被 [[fintech/aml-cft-fatf-grey-list-overview|IMF / FATF]] 接受 = 模式可推广性的关键 KPI
+- 投資判断:国家ライセンス型発行者への早期参加 = 5–10 年の政策レントをロック
+- 戦略バイヤー・シグナル:Polygon のような公開チェーンがインドと提携 = 国家戦略との長期バインド
+- 地政学リスク:国家ライセンス型ステーブルコイン + DPI 輸出 = 中米が新興市場を奪い合う新戦場
+- 規制対話:インド ARC token が [[fintech/aml-cft-fatf-grey-list-overview|IMF / FATF]] に受容されるか = モデル普及可能性のキー KPI
 
-**与中国 mBridge 的区别**：
+**中国 mBridge との差異**:
 
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] = CBDC（央行直接发行）多边互操作环
-- 印度 ARC = 国家许可的私营稳定币（民营效率 + 国家背书）
-- 两者目标重叠（非美元结算），路径不同 → 未来可能融合或竞争
-- DPI 联盟全貌见 [[fintech/india-anti-dollar-dpi-alliance|印度 UPI / MOSIP DPI 联盟]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] = CBDC(中央銀行直接発行)多国間相互運用リング
+- インド ARC = 国家許可の民間ステーブルコイン(民営効率 + 国家裏付け)
+- 両者は目標が重なる(非米ドル決済)が、ルートが異なる → 将来融合または競合
+- DPI 連盟全体像は [[fintech/india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連盟]] を参照
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-chain-sovereign-currency-divide|稳定币五极地缘对立]]
-- [[fintech/em-market-crypto-dollarization-pattern|新兴市场加密美元化]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 架构]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|ステーブルコイン 5 極地政学対立]]
+- [[fintech/em-market-crypto-dollarization-pattern|新興市場暗号ドル化]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
 <!-- /wiki-links:managed -->

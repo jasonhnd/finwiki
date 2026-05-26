@@ -3,8 +3,8 @@ title: 北洋銀行
 aliases: ["Hokuyo Bank", "株式会社北洋銀行", "北洋", "Hokuyou Bank", "札幌北洋HD", "Sapporo Hokuyo Holdings"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, hokkaido, second-tier]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 北海道最大の地域金融機関（総資産 **13 兆 4467 億円** / 預金 11 兆 1039 億円 / 店舗 171 / FY2024 = 2025-03 期実績、連結）。1917 設立の **北海道無尽** を起源とし、1951 相互銀行転換で **北洋相互銀行**、1989 普通銀行転換で **北洋銀行** へ。第二地方銀行協会加盟。**1998-11 旧北海道拓殖銀行の道内営業承継**で道内シェア No.1 へ躍進した経緯が決定的。本店: 札幌市中央区大通西 3-7（北洋大通センター）。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社北洋銀行 / 英名: North Pacific Bank, Ltd.
 **設立**: 大正 6 年（1917 年）8 月 20 日（北海道無尽株式会社として）
@@ -53,7 +53,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **北洋ビジネスサービス** — 事務代行
 - 旧: 札幌北洋 HD（2012-10-01 解散）
 
-### 合併・前身史
+### 合併・前身経緯
 
 - **1917-08-20**: 北海道無尽 設立（札幌、無尽業）
 - **1951**: 相互銀行法施行 → **北洋相互銀行** 商号変更
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2012-10-01** | **札幌北洋 HD 解散**（北洋銀行に逆吸収）・上場廃止 |
 | 2025-03 期 | 総資産 13.4 兆円 / 預金 11.1 兆円 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 証券 | 北洋証券（100%）| リテール証券 |
 | リース | 札幌北洋リース | グループ補完 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 競合環境
 
@@ -109,7 +109,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 北海道に根差した「**道民の銀行**」ポジショニング
 - 本店「北洋大通センター」は札幌大通公園 沿いランドマーク
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 財務省 北海道財務局
 - **業界団体**: 第二地方銀行協会
@@ -150,5 +150,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公式沿革・北海道財務局公表ベース、2026-05-19 抽出）。FY2024 = 2025-03 期数値は Wikipedia 経由で公式 IR 由来。プロンプト記載「2017-05 持株会社解散」は **2012-10-01** に補正済（公開ソース根拠）。「1998-09 拓銀承継」も契約調印 **1998-11-13**・営業承継 **1998-11-16** に補正済。

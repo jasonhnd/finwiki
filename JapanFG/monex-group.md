@@ -3,8 +3,8 @@ title: マネックスグループ (Monex Group)
 aliases: ["Monex Group", "マネックスグループ", "Monex Group, Inc.", "8698", "マネックス"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, crypto]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本のオンライン証券大手 + 暗号資産（Coincheck）+ 米国オンラインブローカー（TradeStation）を束ねる**個人投資家向けグローバル金融プラットフォーム**持株会社（東証 PRIME 8698）。1999-05-19 創業（旧マネックス証券、ソニー + 松本大 共同出資）、創業者の**松本大**（元 Goldman Sachs パートナー、現会長兼 CEO）が今も舵を取る。**国内（マネックス証券）/ 米国（TradeStation）/ 暗号資産（Coincheck）の 3 軸構造**が特徴で、メガバンク系の総合金融とは対極の「個人投資家プラットフォーム特化」モデル。2024 年に NTT ドコモが出資・連結子会社化を公表し、マネックス証券は [[ndfg]]（ドコモ系金融グループ）の証券コア事業として位置付けられる方向（2026 年公開予定）。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：マネックスグループ株式会社
 **英名**：Monex Group, Inc.
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 注: 上記年表は公開資料（Wikipedia / IR / プレスリリース）に基づく。具体的な持分比率や統合スキーム条件は時期ごとに変動するため、最新値は IR 開示資料を要参照。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -82,7 +82,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ベンチャー投資 | マネックスベンチャーズ | フィンテック / 暗号資産関連 CVC |
 | 通信系金融提携 | NTT ドコモ系金融（[[ndfg]] 関連、公開予定）| 2024 年公表ベース、d 経済圏との統合 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 3 軸構造（マネックスグループの公式コンセプト）
 
@@ -116,7 +116,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - Charles Schwab / Fidelity / Robinhood / Interactive Brokers / E*TRADE（Morgan Stanley 傘下）等と競合。
 - マネックスグループの米国収益エンジンとして連結業績への寄与が大きい。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **国内主管**: 金融庁（FSA）/ 関東財務局
 - **証券業**: 金融商品取引法 第一種金融商品取引業（マネックス証券）
@@ -157,5 +157,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公開 IR + プレスリリース校核 2026-05-19）。NDFG 関連の統合スキームは 2026 年公開予定の部分が多く、最新値は公式発表を要参照。本ページは公開情報のみに基づき、未公表の経営判断や戦略意図の推測は避けている。

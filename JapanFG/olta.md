@@ -8,8 +8,8 @@ aliases:
   - "OLTA クラウドファクタリング"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, fintech, factoring, b2b-bnpl, sme-finance, working-capital]
@@ -49,7 +49,7 @@ OLTA は **オンライン完結型クラウドファクタリング** をリー
 
 [[JapanFG/bnpl-landscape|Japan BNPL landscape]] は B2C 後払いを主軸に整理されているが、BtoB の運転資金ファクタリングは **同じ "支払いを遅らせる / 入金を前倒す" 経済学** を共有しており、JapanFG 上で独立して扱う価値がある。銀行融資 / 信販 / BNPL / ファクタリングの **代替・補完関係** を読むためのアンカー。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **ファクタリングの法的位置付け**: 債権譲渡として民法に基づくのが原則。「給与ファクタリング」や「実質貸付」と判定された事例で金融庁・最高裁が貸金業法該当を認定した経緯あり。^[inferred]
 - **金融庁の注意喚起**: 悪質ファクタリング業者への注意喚起が継続的に発出されており、合法ファクターは透明な手数料・契約設計が必要。^[inferred]

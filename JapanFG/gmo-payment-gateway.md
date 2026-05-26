@@ -3,8 +3,8 @@ title: GMO ペイメントゲートウェイ
 aliases: ["GMO-PG", "GMO Payment Gateway", "GMO ペイメントゲートウェイ", "3769"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, payment, fintech]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内最大級の決済代行 (PSP, Payment Service Provider)。EC 加盟店向けに Visa/Master/JCB/Amex 等のカード決済 + コンビニ決済 + 銀行振込 + 電子マネーをワンストップ提供。1995-03-25 「株式会社カードコマース」として設立、2000 改称、2005 東証マザーズ、2008 東証一部上場 (現 PRIME 3769)。GMO インターネットグループ連結子会社。三井住友カード ([[smfg]] 系) との戦略提携・アジア (ベトナム NextPay / 台湾 ECPay 等) 展開が中計の柱。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**:GMO ペイメントゲートウェイ株式会社 ^[extracted]
 **英名**:GMO Payment Gateway, Inc.
@@ -36,7 +36,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **親会社**:[[business/gmo-internet-group|gmo-internet-group]] (連結子会社) ^[extracted]
 **業態**:決済代行 (PSP, Payment Service Provider)
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要サービス | 特徴 |
 |---|---|---|
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | アジア展開 | NextPay (ベトナム) / ECPay (台湾) / タイ | 出資・JV ベース |
 | 周辺事業 | 金融サービス・送金・トランザクションレンディング | 加盟店データ活用融資 |
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -61,7 +61,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022 | 東証市場区分見直し → 東証 PRIME ^[inferred] |
 | 2024〜 | 中期経営計画 (詳細は IR 参照) ^[ambiguous] |
 
-## 4. 戦略与竞争
+## 4. 戦略・競争
 
 ### 国内戦略
 
@@ -85,7 +85,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | Stripe / Adyen | グローバル開発者ファースト | クロスボーダー EC |
 | Square (Block) | POS + オンライン統合 | SMB 物販 |
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**:金融庁・経済産業省 (割賦販売法・資金決済法)
 - **業態**:決済代行業 (登録制ではないが、加盟店契約・PCI DSS 準拠が実質的参入障壁)
@@ -128,5 +128,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (公開情報ベース・2026-05-19 作成)。加盟店数・売上規模・アジア展開詳細は時点変動あり、最新は GMO-PG IR 四半期資料を要参照。設立年・上場履歴・親会社関係は公開情報で確定。

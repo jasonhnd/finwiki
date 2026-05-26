@@ -8,8 +8,8 @@ aliases:
   - "sumitomo-mitsui-auto-service"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, leasing, auto-leasing, fleet-management, smfg, sumitomo-corp, trading-company-finance, jv]
@@ -31,7 +31,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 住友三井オートサービス (SMAS) は **[[JapanFG/smfg|SMFG]] + 住友商事 (8053)** の合弁による日本最大級の **オートリース / フリート管理** 会社。法人向け車両リース + 整備管理 + 燃料管理 + テレマティクス + EV 化対応 等のフリート・トータルマネジメントを提供。日本のオートリース市場では **オリックス自動車 ([[JapanFG/orix-corp|オリックス]] 系) / 三井住友トラスト・パナソニックファイナンス系 / トヨタレンタリース ([[JapanFG/toyota-financial|TFS]] 系) / SMAS** の上位グループに位置する。^[inferred] 住友商事 + SMFG の合弁としては、汎用リースの [[JapanFG/smfl|SMFL]] と並ぶ「**オート版 SMFL**」の位置付け。
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -64,7 +64,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 2007 年に両社が合併して **住友三井オートサービス** が発足。[[JapanFG/smfg|SMFG]] + 住友商事 のオート JV として再編された。^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -77,7 +77,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外オートリース** | アジア (東南アジア中心) 拠点 ^[inferred] |
 | **中古車流通** | リースアップ車両の中古車市場流通 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### オートリース市場の競合構造
 
@@ -108,7 +108,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 住友商事系金融機能の中で、SMAS は **特定アセットクラス特化型 JV (= オート)** の代表例。同じパターンが [[JapanFG/smfl|SMFL]] (汎用リース)・[[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (内向け CMS) と並列して 住友商事 + SMFG 系金融機能の **「JV / 子会社の機能分業 ecosystem」** を構成。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (一部)・国土交通省 (自動車整備・道路運送車両法関連)
 - **業界団体**：公益社団法人リース事業協会 (JLA)・日本自動車リース協会連合会 (JALA)
@@ -167,5 +167,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。SMAS の最新の保有車両台数 / 売上 / 営業利益 / 出資比率は 住友商事 + SMFG 有価証券報告書 関係会社一覧 を要参照。「SMFG + 住友商事 のオート版 JV」「SMFL の sister 会社」「日本最大級オートリースの一角」の位置付けは確実だが、業界順位 / 市場シェアは時点変動。**親 商社 ページ `sumitomo-corp.md` は未作成 → 将来的に backlog として追加予定**。

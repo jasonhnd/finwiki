@@ -3,8 +3,8 @@ title: ゆうちょ銀行 (Japan Post Bank)
 aliases: ["ゆうちょ銀行", "Japan Post Bank", "JP Bank", "株式会社ゆうちょ銀行", "JPB"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-bank]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本最大級の預貯金規模（**約 190-200 兆円**規模 ^[ambiguous]、国内銀行で最大級）を持つ商業銀行。郵政民営化（2007-10-01）と同日に開業し、全国 **約 24,000 局**の郵便局網（日本郵便への業務委託）をリテール基盤とする。融資業務は限定的で、運用資産の大部分は**国債を中心とした有価証券運用**に依存してきたが、近年は**海外債券・オルタナティブ・私募ファンドへの多様化**を中計の柱に据える。親会社は日本郵政（政府保有比率は段階的売却中、約 60% 級 ^[ambiguous]）。2015-11-04 に日本郵政・かんぽ生命と **3 社同時 IPO**。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ゆうちょ銀行 ^[extracted]
 **英名**：Japan Post Bank Co., Ltd.
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME へ |
 | 2024〜 | 中期経営計画（運用多様化・デジタル化加速）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -91,16 +91,16 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 低金利環境長期化で利回り低下 → 海外債券・オルタナティブ・私募ファンド・株式へのシフトを継続
 - 邦銀メガバンクや生損保とは異なり、**運用機関的性格**が強い
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
-### 数字化转型
+### デジタル戦略
 
 - **ゆうちょ通帳アプリ**: 通帳デジタル化・残高照会・取引履歴・送金 ^[extracted]
 - **mijika**: 若年層・新規口座開拓向けアプリブランド ^[ambiguous]
 - **キャッシュレス連携**: 各種電子マネー・コード決済との連携拡大 ^[inferred]
 - 郵便局窓口依存からの脱却・店頭以外チャネルの強化が中計テーマ
 
-### 合纵连横
+### 提携・買収戦略
 
 - **メガバンク系列との運用アドバイザリー**（2016〜）: 三井住友・三菱 UFJ・みずほ系列との M&A アドバイザリー・運用商品提供で多様化加速 ^[ambiguous]
 - **日本郵便との業務委託**: 全国 約 24,000 局の店頭業務・現金取扱を日本郵便に委託（民営化スキームの根幹）
@@ -113,7 +113,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **全国 24,000 局網**: 都市部の銀行店舗網を上回る圧倒的なリテール拠点数
 - 地方・高齢者顧客への深い浸透（メガバンク非カバーエリアを含む）
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）／総務省（郵政行政・日本郵便分）
 - **銀行法**: 商業銀行ライセンス保有（普通銀行）
@@ -160,5 +160,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開資料ベースで作成 2026-05-19）。具体的な預貯金残高・総資産・政府保有比率は時点・改訂で変動するため、最新値は日本郵政グループ IR と金融庁開示を要参照。`^[ambiguous]` 印は数値レンジ／制度的境界の曖昧さを示す。

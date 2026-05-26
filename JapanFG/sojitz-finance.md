@@ -8,8 +8,8 @@ aliases:
   - "sojitz-finance"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, sojitz, group-treasury, factoring, cms, mid-tier-trading-house]
@@ -31,7 +31,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 双日フィナンス は **双日 (2768)** 系の **グループ内金融サービス会社**。双日は 2004 年に **ニチメン + 日商岩井** の合併で発足した 7 大商社の一角 (5 大商社の次のレイヤー)。グループ規模は 5 大商社 (三菱商事 / 三井物産 / 住友商事 / 伊藤忠 / 丸紅) より小さいが、CMS / グループファイナンス / 一括ファクタリング / 為替・金利ヘッジ仲介 等の **内向け金融機能** はやはり子会社化されている。リース系 (外向け asset finance) の専業大手子会社は持たず、外部リース会社との取引が中心。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -62,7 +62,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **内向け / グループ金融** | **双日フィナンス (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 | **海外金融子会社** | Sojitz (USA) / (Europe) / (Asia) の各 Finance 機能 ^[inferred] | 海外現地通貨資金調達 / treasury |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 自動車 / 航空産業 / インフラ・ヘルスケア / 金属・資源・リサイクル / 化学品 / 食料・アグリビジネス / 生活産業 / リテール 取引に紐づく与信補助 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 双日の事業構造と金融機能
 
@@ -98,7 +98,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 中堅商社 (双日 / 兼松) は 5 大商社のような外向け大手リース子会社を持たず、内向け金融機能の規模も限定的。**「商社の金融機能 = 商社の事業規模 × 連結グループ複雑度」** に比例する典型例。^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (貸金業 / 為替業務関連)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -148,5 +148,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。双日フィナンス は非上場子会社で外部開示が限定的、業務範囲 / 取扱規模は推測ベース。最新情報は 双日 有価証券報告書 関係会社一覧 を要参照。「中堅商社の内部金融子会社」の典型像としての位置付け。**親 商社 ページ `sojitz-corp.md` は未作成 → 将来的に backlog として追加予定**。

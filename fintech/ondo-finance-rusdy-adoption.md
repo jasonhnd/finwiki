@@ -1,10 +1,10 @@
 ---
-title: Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家
+title: Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー
 aliases: [ondo-finance-rusdy-adoption, Ondo Finance, OUSG, USDY, rUSDY, Ondo Chain, ondo-rwa-stack, ondo-buidl-partnership]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, ondo, rwa, tokenization, ousg, usdy, rusdy, ondo-chain, buidl-partnership, 2025-2026]
@@ -18,11 +18,11 @@ sources:
   - https://docs.ondo.finance/
 ---
 
-# Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家
+# Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー
 
 ## TL;DR
 
-Ondo Finance 2021 创立,2023 起从单一 tokenized Treasury 产品 (OUSG) 扩展为 **RWA 全栈** = OUSG (合格投资人代币化国债) + USDY (零售可持有 yieldcoin) + rUSDY (rebasing 合规变体) + Ondo Chain (RWA-optimized L1, 2025 公布)。**OUSG 与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 形成深度共生** — Ondo 把 OUSG 后端储备的相当部分换成 BUIDL,作为 BUIDL 在 DeFi 协议层的最大零售分销端。2026-05 Ondo 系列产品 TVL **~$1.5B+**,客户群以**亚洲 (新加坡 / 香港 / 韩国 / 日本) + 拉美 (阿根廷 / 巴西 / 墨西哥) 合格投资人**为主。Ondo 是 **第一家把"代币化 MMF + 零售 yieldcoin + 合规 L1"三件套全部交付的独立 RWA 玩家**。
+Ondo Finance は 2021 年創設、2023 年から単一の tokenized Treasury プロダクト(OUSG)を **RWA フルスタック**に拡張 = OUSG(適格投資家向けトークン化国債)+ USDY(リテール保有可能 yieldcoin)+ rUSDY(rebasing コンプラ・バリアント)+ Ondo Chain(RWA-optimized L1、2025 公表)。**OUSG と [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] は深い共生関係** — Ondo は OUSG 後端準備金の相当部分を BUIDL に置換、BUIDL の DeFi プロトコル層における最大のリテール分配端として機能する。2026-05 時点で Ondo シリーズ製品の TVL は **~$1.5B+**、顧客は**アジア(シンガポール / 香港 / 韓国 / 日本)+ 中南米(アルゼンチン / ブラジル / メキシコ)の適格投資家**中心。Ondo は **「トークン化 MMF + リテール yieldcoin + コンプラ L1」の三点セットを全て実装した初の独立 RWA プレイヤー**である。
 
 ## Wiki route
 
@@ -35,8 +35,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/bl
 | OUSG | Tokenized share of Ondo Short-Term Government Treasuries fund | US qualified purchaser (Reg D) + selected non-US institutions | BlackRock BUIDL + short UST | ~4.8% (SOFR-tracking) | Ethereum, Solana, Polygon, Mantle, Sui, Aptos, XRPL |
 | USDY | Tokenized note backed by short UST + bank deposits | Non-US individuals / institutions (not US persons) | Short UST + cash | ~4.7% rebased | Ethereum, Solana, Mantle, Sui, Aptos, Cosmos, Noble, Arbitrum |
 | rUSDY | Rebase variant of USDY | Same as USDY; allows yield as supply rebase rather than price-rebase | Same as USDY | ~4.7% via rebase | Ethereum, Solana, Mantle, Sui, Aptos |
-| Ondo Chain (公布 2025) | RWA-optimized L1 | All Ondo products + 第三方 RWA issuers | N/A (chain) | N/A | Standalone L1 with bridges |
-| Flux Finance (DeFi 协议) | Lending market for OUSG | KYC-passed wallets | OUSG / USDC | Variable | Ethereum |
+| Ondo Chain (公表 2025) | RWA-optimized L1 | All Ondo products + 第三者 RWA issuers | N/A (chain) | N/A | Standalone L1 with bridges |
+| Flux Finance (DeFi プロトコル) | Lending market for OUSG | KYC-passed wallets | OUSG / USDC | Variable | Ethereum |
 
 Source: Ondo Finance docs, 2026-05 snapshot.
 

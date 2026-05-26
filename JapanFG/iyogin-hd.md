@@ -3,8 +3,8 @@ title: いよぎん HD (Iyogin Holdings)
 aliases: ["いよぎんホールディングス", "Iyogin HD", "Iyogin Holdings", "伊予銀行 HD", "5830"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, shikoku]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 愛媛県を地盤とする四国最大級地銀グループ。2022-10-03 伊予銀行の単独株式移転で持株会社化、東証 PRIME 5830 で上場。中核子会社の**[[iyo-bank|伊予銀行]]**は 1878 年「第二十九国立銀行」(松山) として設立された四国で最古級の銀行で、愛媛県内シェア No.1。今治造船を中心とした**海運・造船クラスター向け融資**が特色。四国 4 県では [[tomony-hd]] (徳島・香川) / [[hyakujushi-bank|百十四銀]] (香川) / [[shikoku-bank|四国銀]] (高知) と競合する。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**:株式会社いよぎんホールディングス
 **英名**:Iyogin Holdings, Inc.
@@ -48,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── いよぎんキャピタル
 ```
 
-## 2. 重要历史
+## 2. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-10-03 | **いよぎん HD 設立** (単独株式移転、伊予銀行を完全子会社化) |
 | 2024〜 | 中期経営計画始動 |
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -71,7 +71,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ベンチャー | いよぎんキャピタル | 地域ベンチャー投資 |
 | デジタル | いよぎんネット・いよぎんアプリ | 個人向けデジタルバンキング |
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 地域基盤
 
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **海事クラスター**:今治市は世界有数の造船・海運集積地。今治造船グループ等への融資は伊予銀行の特徴的ポートフォリオ。
 - **四国広域展開**:愛媛県外でも香川・徳島・高知・大阪・東京・大阪・広島等に支店を展開。
 
-### 数字化转型
+### デジタル戦略
 
 - 「**いよぎんカード**」「**いよぎんネット**」「いよぎんアプリ」等のリテールデジタル化
 - 法人向け API バンキング・地域 DX 支援
@@ -96,7 +96,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 四国地銀再編は他県で進行 ([[tomony-hd]] = トモニホールディングスは香川・徳島の連合) するが、伊予銀は単独 HD 化で独立路線を選択。
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**:金融庁 (FSA) ・四国財務局
 - **持株会社規制**:銀行法 第 52 条の 17
@@ -132,5 +132,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (公開 Wikipedia + 公式 IR ベース、2026-05-19 整理)。具体的な財務数値 (総資産・純利益・店舗数等) は最新有価証券報告書・統合報告書を要参照。本ノートは構造・戦略・歴史のフレームワークに焦点、定量数値は意図的に省略。

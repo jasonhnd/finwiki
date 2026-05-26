@@ -3,8 +3,8 @@ title: 株式会社ペイディ (Paidy)
 aliases: ["Paidy", "ペイディ", "Paidy Inc.", "株式会社ペイディ", "あと払い Paidy"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, bnpl]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本初の本格的 **BNPL (Buy Now Pay Later)** プロバイダー。2008-10 旧 **株式会社エクスチェンジコーポレーション** として設立、2018-09 社名を Paidy に変更。創業者 **Russell Cummer**（米国出身）。**2021-09-07 PayPal Holdings が約 27 億ドル（約 3000 億円）で買収発表**、2022 完了 → PayPal 日本子会社化。メールアドレス + 電話番号のみで決済可、後日コンビニ・銀行振込・口座振替で支払う「あと払い」モデル。加盟店約 100 万店（Amazon Japan / SHEIN / Apple Store / メルカリ等）。米 Affirm / Klarna / Afterpay の日本版ポジション。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ペイディ ^[extracted]
 **英名**：Paidy Inc.
@@ -64,7 +64,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 買収背景: PayPal は日本市場で消費者プレゼンスが弱く、Paidy の **電話番号認証ベースの即時与信モデル** と **アコウント不要 BNPL UX** を取り込むことで日本 EC 攻略を狙った。買収額 27 億ドルは当時の日本 fintech 史上最大級。^[extracted]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -74,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | EC 加盟店 | Amazon Japan / SHEIN / Apple Store / メルカリ / 楽天 等 約 100 万店 | EC 一強型、実店舗は Apple Pay 経由で拡大中 ^[inferred] |
 | グループ連携 | PayPal 国内・国外決済との統合 | PayPal アカウント保有者向けの BNPL クロスセル ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 与信モデル
 
@@ -112,7 +112,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - PayPal の国際 EC 決済 × Paidy の日本 BNPL UX を組み合わせ、越境 EC で「日本人ユーザーがドルでも円後払い」可能化 ^[inferred]
 - PayPal Japan は法人決済中心 → Paidy が消費者側の入口 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 経済産業省（割賦販売法・少額包括信用購入あっせん業者として登録）+ 金融庁（資金決済法関連）
 - **割賦販売法 改正対応**（2020-06 公布、2021-04 施行）: 「少額包括信用購入あっせん業者」区分新設 → Paidy 含む BNPL 各社が登録対象。AI 与信モデルが正式に認定 ^[extracted]
@@ -150,5 +150,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報のみで構成 2026-05-19）。買収額 27 億ドル / 設立 2008-10 / 改称 2018-09 等の重要数値は Wikipedia + PayPal 公式プレスリリース経由。役員体制・最新加盟店数は時点変動あり、PayPal 親会社の年次報告書（10-K）と Paidy 公式が一次ソース。

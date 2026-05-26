@@ -3,8 +3,8 @@ title: 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネ
 aliases: ["SBI Sumishin Net Bank", "住信 SBI", "SSNB", "住信 SBI ネット銀行", "NEOBANK", "ドコモ SMTB ネット銀行"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, net-bank, baas, ndfg-affiliate]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **2025-09-25 東証スタンダード上場廃止 → 2025-10-01 NTT ドコモ連結子会社化 → 2025-10-02 SBI HD 資本関係完全解消 → 2026-08-03 「ドコモ SMTB ネット銀行」改称予定**という劇的な親会社入替を経た元ネット銀行。三井住友信託 + SBI HD 50:50 JV として 2007-09-24 開業し、2023-03-29 PRIME 上場した後、わずか 2 年半で SBI HD 持分を NTT ドコモが買収。**FY2024（2025-03 期）連結純利益 281 億円・経常収益 1,465 億円・預金残高 9 兆 8,216 億円・口座数 825 万件**で、ネット銀行業界 [[banking/rakuten-bank|rakuten-bank]] に次ぐ規模。**住宅ローン取扱高ネット銀行 No.1 級** + **日本最大級の BaaS（NEOBANK）プロバイダー** の 2 軸が中核。「docomo NEOBANK / d スマートバンク」のバックエンドだった同行が、提携先 [[ndfg]] そのものに吸収された珍しい事例。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社住信 SBI ネット銀行 → **株式会社ドコモ SMTB ネット銀行**（2026-08-03 改称予定）
 **英名**：SBI Sumishin Net Bank, Ltd.
@@ -92,7 +92,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2026-07-01 (予定) | [[ndfg]]（NTT ドコモ・フィナンシャルグループ）設立、住信 SBI 含む金融 4 社統括 |
 | 2026-08-03 (予定) | **「ドコモ SMTB ネット銀行」へ改称**、NTT ドコモ 55.37% / 三井住友信託 44.63% |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -124,7 +124,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > NEOBANK は事業者（航空 / 通信 / 小売 / 不動産 / 生保）が自社ブランドで銀行機能（普通預金・振込・カードローン等）を顧客に提供できる API。住信 SBI が銀行免許 + バックエンドを提供、表面は事業者のアプリ / ブランドで完結する設計。
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 親会社入替の戦略含意（2025）
 
@@ -139,7 +139,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **新親 NTT ドコモ経済圏**: 上場廃止後は d ポイント・ドコモ回線顧客 9,000 万との連携深化が想定される
 - **三井住友信託系列バックボーン**: 信託・年金・不動産信託機能へのアクセスが他ネット銀行にはない強み
 
-### 合纵连横（2025-10 以降）
+### 提携・買収戦略（2025-10 以降）
 
 - **NTT ドコモ（新筆頭株主）**: 2025-10-01〜 連結子会社、[[ndfg]] 傘下の中核金融機能。docomo NEOBANK が「BaaS 提携」から「自前銀行サービス」へ昇格
 - **三井住友信託銀行（共同親会社）**: 設立時からの JV パートナー、信託・年金インフラ提供は継続
@@ -157,7 +157,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ソニー銀行 | ソニー G | 外貨預金 | スケール小 |
 | 新生銀行系（aozora / SBI 新生）| SBI G | 法人融資 | retail デジタル後追い |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **免許**: 普通銀行免許（銀行法）
@@ -204,7 +204,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v2.0 親会社入替反映 2026-05-19）。
 > **FY2024（2025-03 期）連結**: 経常収益 1,465 億円・純利益 281 億円・預金残高 9.8 兆円・口座数 825 万件・貸出金 8.7 兆円 は Wikipedia 経由の決算開示ベース、原典の決算短信 PDF 直接参照は未実施。
 > **資本構成変遷**: 2025-09-25 上場廃止・2025-10-01 NTT ドコモ連結子会社化（65.81%）・2025-10-02 SBI HD 完全解消・2026-08-03 改称予定（NTT ドコモ 55.37% / 三井住友信託 44.63%）は Wikipedia 記述に依拠、TOB 結果報告書原典の確認は未実施。

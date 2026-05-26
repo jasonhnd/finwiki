@@ -3,8 +3,8 @@ title: かんぽ生命保険 (Japan Post Insurance)
 aliases: ["Japan Post Insurance", "かんぽ生命", "かんぽ", "Kampo Life", "株式会社かんぽ生命保険", "7181"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, post]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **旧簡易保険（1916 開始）の民営化承継子会社**。日本郵政グループ傘下、東証 PRIME 7181（2015-11-04 親子 3 社同時上場）。総資産は約 60-70 兆円規模 ^[ambiguous]、全国郵便局網（約 2 万局）をリテール基盤とする国内大手生保。**2019-06〜2020 不適切販売事件**（旧契約と新契約の二重課金、高齢者向け不適切販売など約 18 万件超）で 2019-12 業務改善命令、2020-01 経営陣総辞任、2020-04 業務停止命令（営業自粛 3 ヶ月）を受けた歴史的事件のレガシーが残る。中期経営計画下で信頼回復と再成長を目指す。民営化進展に伴う日本郵政の段階的売却で政府保有比率が漸減中。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社かんぽ生命保険 ^[extracted]
 **英名**：Japan Post Insurance Co., Ltd.
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 | 2024 | **中期経営計画（信頼回復後の再成長フェーズ）** 展開中 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要商品・チャネル | 特徴 |
 |---|---|---|
@@ -91,7 +91,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 資産運用 | 国債中心の保守的運用（旧簡保由来）| 国内最大級の機関投資家の一角 ^[inferred] |
 | 海外戦略 | 限定的 | 国内集中型（[[dai-ichi-life]] / [[nippon-life]] 等と対照的）^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 旧簡易保険ブランドと郵便局網
 
@@ -124,7 +124,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - ペーパーレス・オンライン手続・チャットボット導入等
 - 全国郵便局網との連携で**デジタル + リアル両軸**を志向
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（保険業法）+ 総務省（郵政民営化法・日本郵政グループ監督）の**二重監督**が特徴 ^[inferred]
 - **持株会社規制**: 日本郵政が金融持株会社規制対象（銀行・保険双方）
@@ -169,5 +169,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開 Wikipedia + 公式 IR + 行政処分公表ベース 2026-05-19）。総資産規模は ^[ambiguous]（年度・基準により 60-70 兆円幅）。重要事件（2019-2020 不適切販売事件・業務停止命令）は金融庁公表資料ベースで確認可。海外展開・営業職員チャネル詳細は ^[inferred] 多め、最新数値は IR を要参照。

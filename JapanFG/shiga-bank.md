@@ -3,8 +3,8 @@ title: 株式会社滋賀銀行 (The Shiga Bank)
 aliases: ["Shiga Bank", "The Shiga Bank, Ltd.", "滋賀銀行", "しがぎんこう", "しがぎん"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 滋賀県地盤の単独銀行（**持株会社化していない地銀**の一つ）。1933-10-01 八十三銀行 + 近江銀行 統合により発足、ルーツは **1879 第六十四国立銀行（彦根）**。略称「**しがぎん**」。**滋賀県内シェア No.1 + 京都府北部 / 大阪府北摂 / 名古屋圏 への関西・東海境界エリア展開 + 琵琶湖周辺の環境ファイナンス + ESG / サステナビリティ先進性**が収益コア。**国連責任銀行原則（UN PRB）採択地銀の先駆け**（2019、地銀初）として ESG リーダー枠を確立。[[chiba-bank]] 主導の **TSUBASA アライアンス 加盟行**でシステム共同化・海外サポートに参画。競合は [[kyoto-fg]] / [[resona-hd]] / [[ikeda-senshu-hd]] / [[nanto-bank]]。^[ambiguous]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社滋賀銀行
 **英名**：The Shiga Bank, Ltd.
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8366（旧東証一部から移行）|
 | 2024 | **中期経営計画** 策定 ^[inferred]、ESG / サステナビリティ重視継続 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | デジタル | しがぎんアプリ・TSUBASA システム共同化 | 単独銀行のため、TSUBASA 経由のスケールメリット獲得 |
 | ESG | 滋賀銀行 UN PRB | **地銀初の UN PRB 採択**（2019）、ESG 開示・気候関連財務情報（TCFD）対応の先駆け |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### ESG リーダー戦略 ★
 
@@ -158,7 +158,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 関西・東海境界という地理特殊性により、単独で関西経済圏全体をカバーすることが構造的に困難 → **関西地銀連携 / 再編における立ち位置**が中長期論点 ^[inferred]
 - ESG リーダー枠は、再編時の交渉力に寄与する可能性
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 近畿財務局
 - **銀行業規制**：銀行法（単独銀行のため銀行持株会社規制は対象外）
@@ -209,5 +209,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報ベース校核 2026-05-19）。沿革（1933-10-01 設立・八十三 + 近江 統合・第六十四国立銀行 1879 彦根 源流）と上場区分（東証 PRIME 8366）・単独銀行体制・本店所在地（大津市浜町 1-38）・TSUBASA アライアンス加盟（2015）・国連 PRB 採択（2019、地銀初）は公開情報で確定。子会社構造の詳細（しがぎんリース・しがぎん信用保証・しがぎん JCB・しがぎん経済文化センター 等の出資比率）、FY2024 決算数値、2024 中期経営計画の具体目標値、海外駐在員事務所の正確な所在、ESG ファイナンス / 琵琶湖環境保全融資の実績規模は本版未収載 — 要 滋賀銀行 公式 IR / 有価証券報告書直接確認。「持株会社化していない」点（^[ambiguous]）は他の単独地銀（[[chiba-bank|千葉銀]]・[[nanto-bank|南都銀]]・[[hachijuni-bank|八十二銀]]等）と並列の整理。関西・東海境界（滋賀 + 京都府北部 + 大阪府北摂 + 名古屋圏）戦略と、TSUBASA + UN PRB の二本柱で単独維持を補強する独自モデルが戦略上の核心。

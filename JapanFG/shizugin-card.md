@@ -3,8 +3,8 @@ title: "しずぎんカード (Shizugin Card / Shizuoka Bank Card)"
 aliases: ["Shizugin Card", "しずぎんカード", "株式会社しずぎんカード", "Shizuoka Bank Card", "静銀カード", "Shizugin Saison Card", "しずぎん JCB", "しずぎん DC"]
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, shizuoka-fg, shizuoka-bank, credit-card, payments, chubu, shizuoka, operating-company]
@@ -27,7 +27,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 
 株式会社しずぎんカード (Shizugin Card / Shizuoka Bank Card) は、[[shizuoka-fg|しずおか FG (東証 PRIME 5831)]] グループのクレジットカード子会社で、中核子会社 [[shizuoka-bank|静岡銀行]] (静岡県シェア No.1 / 製造業集積地 main bank) の個人 / 法人顧客基盤を背景に、**静岡県地盤の銀行発クレジットカード** (JCB / VISA / Master ブランド) ・ローン・キャッシング・収納代行・電子マネー・QR 決済関連サービスを提供。地銀系クレカ会社の典型 model で、銀行口座連動・地域加盟店ネットワーク・地域経済圏内決済の機能を担う。[[shizuoka-fg]] 2022-10-03 持株会社化後にグループ並列子会社の一角として再配置された。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -135,7 +135,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 - 強み: [[shizuoka-bank|静岡銀行]] 静岡県シェア No.1 + 預金顧客基盤 + 製造業従業員給与振込口座連動 + 地域加盟店ネットワーク + 製造業集積地 (スズキ / ヤマハ等) のオーナー / 役員富裕層
 - 弱み: 単独規模では大手カードイシュアー ([[smbc-card]] / [[credit-saison]] / [[rakuten-card]]) に大幅劣後、QR 決済 / コード決済の急速普及で銀行系カードの存在感低下、デジタル投資余力限定的 ^[inferred]
 
-## 5. 监管与会计
+## 5. 規制・会計
 
 ### 規制枠組み
 
@@ -207,5 +207,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG credit-card-subsidiary anchor created 2026-05-25)。[[shizuoka-fg]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは credit-card-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[shizuoka-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・ブランドライセンス取得経緯・カード発行枚数・取扱高の正確な数値は ambiguous ^[ambiguous]。

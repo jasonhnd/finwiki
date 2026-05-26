@@ -6,7 +6,7 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-dex-aggregator-comparison-matrix.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/exchanges/global-dex-aggregator-comparison-matrix.md",
   "domain": "exchanges",
-  "title": "グローバル DEX Aggregator 比較マトリックス · 8 大 Aggregator 横断対照",
+  "title": "グローバル DEX Aggregator 比較マトリックス · 8大 Aggregator 横断対照",
   "entry_type": "wiki_entry",
   "frontmatter": {
     "title": "グローバル DEX Aggregator 比較マトリックス · 1inch / 0x / CowSwap / Jupiter / OpenOcean / ParaSwap / KyberSwap / OKX DEX",
@@ -19,8 +19,8 @@
     ],
     "domain": "exchanges",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -57,7 +57,7 @@
   },
   "summary": "This entry sits under exchanges index. Read it against global DEX 主要 5 社比較 for the underlying DEX pool layer, Solana ecosystem DEX comparison for the Solana SVM aggregator/DEX stack, global perp DEX 5 comparison for the perp-only segment, and native DEX flip incumbent pattern for chain-specific DEX",
   "headings": [
-    "グローバル DEX Aggregator 比較マトリックス · 8 大 Aggregator 横断対照",
+    "グローバル DEX Aggregator 比較マトリックス · 8大 Aggregator 横断対照",
     "TL;DR",
     "Wiki route",
     "なぜこのマトリックスが必要か",
@@ -124,9 +124,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 20751,
-    "word_like_tokens": 3522,
+    "nonspace_chars": 20800,
+    "word_like_tokens": 3506,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

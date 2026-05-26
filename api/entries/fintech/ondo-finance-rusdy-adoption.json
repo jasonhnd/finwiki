@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/ondo-finance-rusdy-adoption.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/ondo-finance-rusdy-adoption.md",
   "domain": "fintech",
-  "title": "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家",
+  "title": "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家",
+    "title": "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー",
     "aliases": [
       "ondo-finance-rusdy-adoption",
       "Ondo Finance",
@@ -22,8 +22,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -48,9 +48,9 @@
       "https://docs.ondo.finance/"
     ]
   },
-  "summary": "Ondo Finance 2021 创立,2023 起从单一 tokenized Treasury 产品 (OUSG) 扩展为 RWA 全栈 = OUSG (合格投资人代币化国债) + USDY (零售可持有 yieldcoin) + rUSDY (rebasing 合规变体) + Ondo Chain (RWA-optimized L1, 2025 公布)。OUSG 与 BlackRock BUIDL 形成深度共生 — Ondo 把 OUSG 后端储备的相当部分换成 BUIDL,作为 BUIDL 在 DeFi 协议层的最大零售分销端。2026-05 Ondo 系列产品 TVL ~$1.5B+",
+  "summary": "Ondo Finance は 2021 年創設、2023 年から単一の tokenized Treasury プロダクト(OUSG)を RWA フルスタックに拡張 = OUSG(適格投資家向けトークン化国債)+ USDY(リテール保有可能 yieldcoin)+ rUSDY(rebasing コンプラ・バリアント)+ Ondo Chain(RWA-optimized L1、2025 公表)。OUSG と BlackRock BUIDL は深い共生関係 — Ondo は OUSG 後端準備金の相当部分を BUIDL に置換、BUIDL の DeFi プロトコル層における最大のリテール分配端として",
   "headings": [
-    "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 机构化 RWA 全栈玩家",
+    "Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー",
     "TL;DR",
     "Wiki route",
     "Product stack — what each token actually is",
@@ -111,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16280,
-    "word_like_tokens": 2728,
+    "nonspace_chars": 16375,
+    "word_like_tokens": 2732,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

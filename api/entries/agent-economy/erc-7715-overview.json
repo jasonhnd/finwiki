@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/erc-7715-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/erc-7715-overview.md",
   "domain": "agent-economy",
-  "title": "ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付",
+  "title": "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付",
+    "title": "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済",
     "aliases": [
       "erc-7715-overview",
       "wallet-permissions",
@@ -17,8 +17,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -32,9 +32,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
   "headings": [
-    "ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付",
+    "ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2921,
-    "word_like_tokens": 476,
+    "nonspace_chars": 3203,
+    "word_like_tokens": 477,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

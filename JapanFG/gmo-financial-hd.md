@@ -3,8 +3,8 @@ title: GMO フィナンシャルホールディングス (GMO FHD)
 aliases: ["GMO FHD", "GMO Financial Holdings", "GMO フィナンシャルホールディングス", "GMO ファイナンシャル", "7177"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, gmo]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **GMO インターネットグループ**の **金融セグメント中間持株会社**（東証 STD 7177）。**GMO クリック証券**（ネット証券・FX）を中核に、**GMO 外貨**（FX 専業）・**GMO クリック総研**・海外証券拠点（タイ・香港・英国等）を傘下に置く。**ネット完結・低手数料・FX/CFD 業界トップシェア**が GMO 金融経済圏の収益エンジン。**親会社 GMO インターネットグループの連結子会社**で、兄弟会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]（決済代行・東証 PRIME 3769）/ [[gmo-coin]]（暗号資産）/ [[gmo-aozora-net|GMO あおぞらネット銀行]]（法人 BaaS）と並ぶ「**インターネット金融経済圏**」の証券・FX レイヤー担当。競合は [[sbi-hd|SBI 証券]] / [[rakuten-fg|楽天証券]] / [[monex-group|マネックス]] / [[matsui-sec|松井証券]]。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：GMO フィナンシャルホールディングス株式会社 ^[extracted]
 **英名**：GMO Financial Holdings, Inc.
@@ -53,7 +53,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 > **GMO 金融経済圏 4 レイヤー**：①証券・FX（GMO FHD）/ ②決済（GMO ペイメントゲートウェイ）/ ③銀行（GMO あおぞらネット銀行）/ ④暗号資産（GMO コイン）。^[extracted]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -67,7 +67,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 **特徴**：店舗を持たないネット完結モデル、システム自前開発、低コスト運営、**FX/CFD の取引高で国内トップシェア**を継続的に維持。^[extracted]
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -86,7 +86,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | 2022-04 | **東証市場区分見直し → 東証 STD**（旧 JASDAQ・東証マザーズ系の流れ）^[extracted] |
 | 2024 | **中期経営計画**（証券・FX 中核 + 暗号資産 / Web3 強化）^[ambiguous] |
 
-## 4. 戦略与竞争
+## 4. 戦略・競争
 
 ### GMO 金融経済圏の中核
 
@@ -119,7 +119,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 - 米国子会社 **GMO トラスト**（GYEN / ZUSD 等ステーブルコイン発行歴）も保有 ^[extracted]
 - 中計で「暗号資産・Web3 強化」を明文化 ^[ambiguous]、競合 [[sbi-hd|SBI VC Trade]] / [[bitflyer]] / [[monex-group|Coincheck]] と棲み分け
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**：金融庁（FSA）/ 関東財務局
 - **業態**：金融持株会社（金融商品取引法・銀行法持株会社規制に類する位置付け、^[inferred]）
@@ -169,5 +169,5 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報のみ、Wikipedia + 公式 IR + 親 GMO 有価証券報告書ベース 2026-05-19 作成）。FX 取引高シェア・口座数・売上・営業利益等の定量データは時点変動あり、最新は GMO FHD IR 四半期資料を要参照。市場区分（東証 STD）・子会社構造・親子関係は公開情報で確定。海外証券拠点の詳細・GMO トラスト（米国・ステーブルコイン）の事業状況は別途確認要。

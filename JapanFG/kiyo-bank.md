@@ -3,8 +3,8 @@ title: 株式会社紀陽銀行 (The Kiyo Bank)
 aliases: ["Kiyo Bank", "The Kiyo Bank, Ltd.", "紀陽銀行", "きようぎんこう", "きよう"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 和歌山県地盤の単独銀行（**持株会社化を経て再び単独銀行体制に戻った** 珍しい再編歴を持つ地銀）。1895（明治 28）創業、現法人は 1985-05-01 紀陽銀行 + 和歌山銀行 等の系譜を引く県内コアバンク。略称「**きよう**」。証券コード **東証 PRIME 8370**（旧 池田銀行 8370 を経て 紀陽銀行が継承）。**持株会社経緯：2006-02-20 紀陽ホールディングス 設立 → 2006-10-01 和歌山銀行 経営統合 → 2013-10-01 持株会社解散・銀行に統合（単独銀行体制復帰）**。**和歌山県内シェア圧倒（県内 No.1）+ 大阪府南部（泉州エリア）への展開 + 観光業（高野山・熊野古道・南紀白浜）融資 + 第一次産業（みかん・梅・林業）融資** が収益コア。関西経済圏では [[ikeda-senshu-hd]] / [[nanto-bank]] / [[kyoto-fg]] / [[resona-hd]] と競合。^[ambiguous]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社紀陽銀行 ^[extracted]
 **英名**：The Kiyo Bank, Ltd.
@@ -49,7 +49,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 子会社構成の詳細・出資比率は本版未確定（要 紀陽銀行 公式 IR / 有価証券報告書直接確認）。^[inferred]
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - **1895（明治 28）創業**：明治期の地方銀行として和歌山に発足、和歌山県内地銀の最古の源流の一つ
 - 戦前〜戦後：和歌山県内で複数地銀が並立 → 戦時統制経済下の地銀統合の流れ
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8370（旧東証一部から移行）|
 | 2024〜 | 中期経営計画 策定 ^[inferred] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外 | 海外駐在員事務所（アジア中心、想定）| 県内中堅企業の海外進出支援 ^[inferred] |
 | デジタル | 紀陽銀行アプリ・地域 Fintech 連携 | 単独銀行のため、持株会社経由の異業種展開は構造的制約あり ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 県内地盤戦略
 
@@ -127,7 +127,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 紀伊半島という地理特殊性（人口減 + 観光業依存 + 第一次産業比率高）により、**観光業 + 第一次産業ポートフォリオ** は関西の中でも独自性が高く、再編時の交渉力に寄与する可能性
 - 大阪府南部展開は [[ikeda-senshu-hd|池田泉州 HD]] と直接競合、関西地銀連携 / 再編における立ち位置が中長期論点 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 近畿財務局
 - **銀行業規制**：銀行法（2013-10-01 以降は単独銀行のため銀行持株会社規制は対象外）
@@ -175,5 +175,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia ベース校核 2026-05-19）。創業（1895）・現法人設立（1985-05-01）・上場区分（東証 PRIME 8370）・本店所在地（和歌山市本町 1 丁目 35 番地）・**持株会社経緯（2006-02-20 紀陽 HD 設立 → 2006-10-01 和歌山銀行統合 → 2013-10-01 解散・銀行に統合）** は公開情報で確定。子会社構造の詳細（紀陽リース・キャピタル等の出資比率）、FY2024 決算数値、2024 中期経営計画の具体目標値、海外駐在員事務所の正確な所在、観光業 / 第一次産業ポートフォリオの規模は本版未収載 — 要 紀陽銀行 公式 IR / 有価証券報告書直接確認。「2013 持株会社解散の真因」（^[ambiguous]）は地銀 FG 化トレンドに逆行する珍しい事例として継続観察項目。関西地銀再編・大阪府南部展開・南海トラフ地震想定域 BCP は中長期論点。

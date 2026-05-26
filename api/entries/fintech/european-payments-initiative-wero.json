@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/european-payments-initiative-wero.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/european-payments-initiative-wero.md",
   "domain": "fintech",
-  "title": "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+  "title": "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+    "title": "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗",
     "aliases": [
       "european-payments-initiative-wero",
       "EPI",
@@ -19,8 +19,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -46,7 +46,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with digital euro retail rollout for the ECB-issued retail money parallel track, and with Fnality for the wholesale-side European bank-consortium pattern (Wero is the retail mirror).",
   "headings": [
-    "European Payments Initiative · Wero · 欧洲银行联营零售支付钱包 · 对抗 PayPal / Apple Pay",
+    "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5327,
-    "word_like_tokens": 932,
+    "nonspace_chars": 5746,
+    "word_like_tokens": 929,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

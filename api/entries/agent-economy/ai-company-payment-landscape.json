@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ai-company-payment-landscape.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ai-company-payment-landscape.md",
   "domain": "agent-economy",
-  "title": "AI 公司收款方式现状",
+  "title": "AI 企業の決済方式の現状",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "AI 公司收款方式现状（2026 年 4 月）",
+    "title": "AI 企業の決済方式の現状(2026 年 4 月)",
     "aliases": [],
     "domain": "agent-economy",
     "created": "2026-04-16",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-05",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-10-30",
     "confidence": "likely",
     "tags": [
@@ -28,9 +28,9 @@
       "Public billing / payment documentation for major AI and cloud API providers."
     ]
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it with ERC-7715 概览 · Wallet Permissions 与 AI Agent 自动支付 for adjacent context and AP2 · Google Agent Payments Protocol 概览 for the broader system boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it with ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済 for adjacent context and AP2 · Google Agent Payments Protocol 概観 for the broader system boundary.",
   "headings": [
-    "AI 公司收款方式现状",
+    "AI 企業の決済方式の現状",
     "Wiki route",
     "Related"
   ],
@@ -66,9 +66,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1845,
-    "word_like_tokens": 294,
+    "nonspace_chars": 2037,
+    "word_like_tokens": 303,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

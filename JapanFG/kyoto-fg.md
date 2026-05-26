@@ -3,8 +3,8 @@ title: 京都フィナンシャルグループ
 aliases: ["Kyoto Financial Group", "Kyoto FG", "京都 FG", "京都フィナンシャル・グループ", "京都銀行 HD"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 京都府を地盤とする **関西の名門地銀 FG**。証券コード **東証 PRIME 5844**。**2023-10-02** に京都銀行の **単独株式移転** による持株会社化で発足（地銀の中では持株会社化が遅かった例）。**京都銀行は京都府内シェア No.1** を維持し、京都府本社の任天堂・京セラ・村田製作所・日本電産（現ニデック）等の **世界的優良企業** との取引・**政策保有株式** で著名。関西では [[resona-hd]]（関西みらい銀）・[[ikeda-senshu-hd]]・滋賀銀行・南都銀行・紀陽銀行 等と直接競合。メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては京都地盤と上場企業株式持合いの **資金力** で独自の存在感。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社京都フィナンシャルグループ ^[extracted]
 **英名**：Kyoto Financial Group, Inc.
@@ -66,7 +66,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 関連シンクタンク・調査機能（京都経済研究所 等）^[inferred]
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 旧 **京都銀行**（京都府地盤）
   - **1941-10-01** 京都銀行 設立（戦時統制下の地銀統合。**京都中央信用組合 + 西陣銀行 + 京北銀行 + 京都銀行（旧）** 等の統合に由来）^[extracted]
@@ -92,7 +92,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024-03 期〜 | 日銀マイナス金利解除・政策金利正常化 → 国内貸出金利マージン改善（地銀メリット大）|
 | 2025 | 大阪・関西万博 follow-tail で関西経済圏取引拡大期待 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信託 | 提携（自前免許なし）| メガ信託・[[sumitomo-mitsui-trust]] 等への取次 ^[inferred] |
 | 国際 | 京都銀行（中国・タイ等駐在事務所）| 京都企業の海外進出支援（特にアジア）^[inferred] |
 
-## 3. 戦略与競争
+## 3. 戦略・競争
 
 ### 戦略軸
 
@@ -152,7 +152,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **京都 FG**: 持株会社ブランドは個人客には浸透限定的、銀行ブランド一本化 ^[inferred]
 - **「京都の銀行」** という ブランド資産: 観光・伝統産業・世界企業との繋がりが地銀ブランドを差別化 ^[extracted]
 
-## 4. 監管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **持株会社規制**: 銀行法 第 52 条の 17（銀行持株会社）^[extracted]
@@ -199,5 +199,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公式 IR 概況ベース 2026-05-19）。預金・総資産・純利益・政策保有株式時価の精緻値は京都 FG IR Quarterly / 有価証券報告書 を要参照。1941 京都銀行設立 / 1971 東証一部上場 / 2023-10-02 京都 FG 発足 は Wikipedia 経由で公開情報により確認。京都本社世界企業（任天堂・京セラ・村田・ニデック）との株式持合い関係は公開有報・コーポレートガバナンス報告書ベース。関西地銀再編シナリオ・中計詳細は公開報道ベースの推定を含む。**非公開情報は引用していない**。

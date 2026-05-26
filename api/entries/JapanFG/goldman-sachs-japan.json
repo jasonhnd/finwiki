@@ -21,8 +21,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -42,12 +42,12 @@
     "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要日本法人グループ ^[extracted]",
     "親会社 Goldman Sachs Group 概要（参考、NYSE: GS） ^[extracted]",
     "重要年表 ^[extracted]",
     "本社・主要拠点",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "顧客セグメント"
   ],
   "body_links": {
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6292,
-    "word_like_tokens": 897,
+    "nonspace_chars": 6299,
+    "word_like_tokens": 894,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

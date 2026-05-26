@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/paxos-paxg-post-binance-pivot.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/paxos-paxg-post-binance-pivot.md",
   "domain": "fintech",
-  "title": "Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG",
+  "title": "Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG",
+    "title": "Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG",
     "aliases": [
       "paxos-paxg-post-binance-pivot",
       "Paxos pivot",
@@ -22,8 +22,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -53,7 +53,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with PayPal PYUSD for the lead branded product, with stablecoin five-pole regulatory matrix for the multi-jurisdiction licensing context, and with stablecoin issuer 2025-2026 consolidation for the broader market structure that this pivot reshaped.",
   "headings": [
-    "Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG",
+    "Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG",
     "TL;DR",
     "Wiki route",
     "What broke in 2023 — the BUSD stop-mint",
@@ -122,9 +122,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19451,
-    "word_like_tokens": 3339,
+    "nonspace_chars": 19538,
+    "word_like_tokens": 3338,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

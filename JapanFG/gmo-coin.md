@@ -3,8 +3,8 @@ title: GMO コイン (GMO Coin)
 aliases: ["GMO Coin", "株式会社 GMO コイン", "GMO Coin, Inc.", "GMOコイン"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, crypto, gmo]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **GMO インターネットグループ** 傘下の暗号資産取引所。**関東財務局長 第 00006 号**（業界最初期登録の 1 つ）、JVCEA 第一種会員。**販売所 + 取引所 + レバレッジ取引** 3 軸 + **20 種以上の取扱通貨** で国内大手。親会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]] / GMO クリック証券 / [[gmo-aozora-net|GMO あおぞらネット銀行]] と並ぶ GMO 金融エコシステムの **暗号資産担当**。競合は [[bitflyer]] / Coincheck（[[monex-group]] 内）/ SBI VC Trade（[[sbi-hd]] 内）/ DMM Bitcoin / bitbank / [[bittrade]]。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社 GMO コイン
 **英名**：GMO Coin, Inc.
@@ -51,7 +51,7 @@ GMO インターネットグループ（9449 / 東証 PRIME）
   └── [[gmo-aozora-net|GMO あおぞらネット銀行]] ── あおぞら銀行と JV
 ```
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -66,7 +66,7 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 **海外展開**：限定的。GMO 金融グループ全体としては海外 FX 拠点（タイ・香港・英国）はあるが、GMO コイン本体は **国内ライセンスベース**。
 
-## 3. 重要历史
+## 3. 沿革
 
 | 年月 | 事象 |
 |---|---|
@@ -83,7 +83,7 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 | 2023〜2024 | NFT / Web3 領域への参入検討（GMO グループ全体としての方向性）|
 | 2024 | 親会社 GMO FHD 中期経営計画で「暗号資産・Web3 強化」明文化 |
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### GMO 金融エコシステム連携
 
@@ -111,7 +111,7 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 - **GMO Web3**（GMO インターネットグループの Web3 子会社）と機能分担
 - **NFT マーケット** 等 Web3 領域への参入は競合（Coincheck NFT 等）より慎重
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**：金融庁（FSA）/ 関東財務局
 - **登録**：暗号資産交換業者（資金決済法 第 63 条の 2）/ 関東財務局長 第 00006 号
@@ -153,5 +153,5 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（公開情報のみ、Wikipedia + 金融庁登録 + JVCEA 公開資料ベース、2026-05-19 校核）。取扱通貨数・組織構造詳細は変動するため、最新値は GMO コイン公式サイト・GMO FHD IR を要参照。米国子会社 GMO トラスト（GYEN / ZUSD）の事業継続性は別途確認要。
+> [!info] 検証状況
+> confidence: **likely**（公開情報のみ、Wikipedia + 金融庁登録 + JVCEA 公開資料ベース、2026-05-19 検証）。取扱通貨数・組織構造詳細は変動するため、最新値は GMO コイン公式サイト・GMO FHD IR を要参照。米国子会社 GMO トラスト（GYEN / ZUSD）の事業継続性は別途確認要。

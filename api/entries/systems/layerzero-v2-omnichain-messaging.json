@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/layerzero-v2-omnichain-messaging.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/layerzero-v2-omnichain-messaging.md",
   "domain": "systems",
-  "title": "LayerZero v2 · DVN 可配置的全链消息协议",
+  "title": "LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "LayerZero v2 · DVN 可配置的全链消息协议",
+    "title": "LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル",
     "aliases": [
       "layerzero-v2-omnichain-messaging",
       "layerzero",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -35,7 +35,7 @@
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "LayerZero v2 · DVN 可配置的全链消息协议",
+    "LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2359,
-    "word_like_tokens": 380,
+    "nonspace_chars": 2783,
+    "word_like_tokens": 399,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

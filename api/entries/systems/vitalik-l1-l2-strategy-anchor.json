@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/vitalik-l1-l2-strategy-anchor.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/vitalik-l1-l2-strategy-anchor.md",
   "domain": "systems",
-  "title": "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+  "title": "L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+    "title": "L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防",
     "aliases": [
       "vitalik-l1-l2-strategy",
       "ethereum-l1-l2-evolution",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against ERC-7702 概览 · EOA 临时获得 SCW 能力的 Pectra 升级 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "L1/L2 双轨战略演化 anchor · Ethereum 路线图与独立 L1 经济激励博弈",
+    "L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2613,
-    "word_like_tokens": 474,
+    "nonspace_chars": 2886,
+    "word_like_tokens": 480,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

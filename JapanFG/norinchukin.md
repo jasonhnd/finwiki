@@ -3,8 +3,8 @@ title: 農林中央金庫 (Norinchukin Bank)
 aliases: ["農林中金", "農中", "Norinchukin", "The Norinchukin Bank", "Nochu"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, cooperative-bank]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **世界最大級の協同組合系金融機関**。1923 産業組合中央金庫として設立、1943「農林中央金庫」改称、1986/2001 農林中央金庫法改正で現代的銀行業務へ。**株式会社ではない特殊法人**で、出資者は JA（農協）・JF（漁協）・森林組合等の系統団体。[[banking/ja-bank-system-japan|JA Bank system]] と [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] の national central institution layer を担い、系統信用事業の頂点 + **国内屈指の機関投資家**という二重性格を持つ。総資産約 80-100 兆円規模 ^[ambiguous]。**2008 リーマン・ショックで米サブプライム関連約 1.5 兆円損失**、**2024-06 米国債等の含み損対策で出資 JA から 1.2 兆円規模の資本増強**を発表 ^[extracted] — 2 度の大規模機関投資損失がガバナンス論点として浮上。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：農林中央金庫 ^[extracted]
 **英名**：The Norinchukin Bank
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2024-06** | **米国債等含み損対策で約 1.2 兆円規模の資本増強・ポートフォリオ再構築を発表** ^[extracted] |
 | 2024-2025 | 中計でリスク資産再構築・米債売却損計上 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | アセットマネジメント | 系統共同出資 AM | 系統運用商品・公募投信 |
 | クレジットカード等 | （過去）三菱 UFJ ニコス保有歴 | 2017-10 MUFG に売却 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 二重性格：系統中央銀行 + 国内屈指の機関投資家
 
@@ -131,7 +131,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **生保（[[nippon-life]] / [[dai-ichi-life]]）との比較**：機関投資家としては類似ポジション、運用残高で同じ序列
 - **政策金融機関（[[jfc]] / [[dbj]]）との比較**：農林水産業向け融資で部分的に競合 / 補完
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ **農林水産省**（系統金融部分）— 二重監督が特徴 ^[extracted]
 - **根拠法**：農林中央金庫法（昭和 61 年法律第 93 号）
@@ -185,5 +185,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia + 公開法令 + 公式 IR ベース 2026-05-19）。総資産 80-100 兆円幅・2008 損失額 1.5 兆円・2024 資本増強 1.2 兆円は公開報道ベースで時点・確定値に幅あり ^[ambiguous]。正確な最新値は農林中央金庫ディスクロージャー誌 / 中期経営計画資料を要参照。

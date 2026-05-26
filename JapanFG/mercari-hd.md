@@ -3,8 +3,8 @@ title: メルカリ HD（株式会社メルカリ）
 aliases: ["メルカリ", "Mercari", "Mercari Inc.", "メルペイ", "メルコイン", "Merpay", "Mercoin", "メルカード", "4385"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, ec-fintech, crypto]
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本最大級 **C2C フリマアプリ + 決済 + 暗号資産** 垂直統合エコシステム。2013-02-01 山田進太郎 創業、2018-06-19 東証マザーズ IPO（2022 PRIME 移行、東証 PRIME **4385**）。**メルカリ（フリマ）+ メルペイ（決済・後払い）+ メルコイン（ビットコイン）+ メルカード（JCB 提携）** の 4 軸。国内 MAU **2,304 万**（FY2025.6 4Q）、Marketplace GMV **1.12 兆円**（FY2025.6 通期）、メルカード発行 **300 万枚超**、メルコイン口座 **200 万超**。FY2025.6 通期で売上収益 **1,926 億円**（YoY +3%）、当期利益 **261 億円**（YoY +94%、3 期連続最高益）、**米国事業が初の通期黒字化**達成（US GMV 728 百万米ドル ≒ 1,091 億円）。銀行ライセンスは未保有（資金移動業者）。メガバンク系 [[mufg]] / [[smfg]] とは異なり「マーケットプレース起点」金融プラットフォーム化が特徴。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社メルカリ（英: Mercari, Inc.）
 **証券コード**：東証 PRIME **4385**（2018-06-19 マザーズ上場 → 2022-04 PRIME 移行）
@@ -78,7 +78,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024-06 期 | 国内 Marketplace GMV 1 兆円超達成 |
 | **2025-06 期** | **売上収益 1,926 億円・当期利益 261 億円**（YoY +94%、3 期連続最高益）、**米国事業 初の通期黒字化** |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -98,7 +98,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メルカード**: JCB ブランドだが審査・与信はメルペイ独自基準
 - **Fintech 債権残高**: 約 2,000 億円規模（FY2025.6 4Q 説明資料時点）── 後払い + メルカードの与信積み上げ
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 垂直統合戦略
 
@@ -129,7 +129,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | クレカ | JCB 系・三井住友 [[smfg]]・楽天カード |
 | スポットワーク | タイミー、シェアフル、LINE スキマニ |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**:
   - メルカリ本体: 経済産業省（特定商取引法）
@@ -143,7 +143,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 ステーブルコイン制度 → 将来メルコイン拡張可能性 ^[inferred]
   - 個人情報保護法・古物営業法 → メルカリ本体の出品管理
 
-## 经営数値（公開資料・FY2025.6 通期）
+## 経営数値（公開資料・FY2025.6 通期）
 
 | 項目 | 数値 | 時点 / 出典 |
 |---|---|---|
@@ -203,5 +203,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.1 FY2025.6 通期決算 2025-08-05 開示反映、2026-05-19 編集）。GMV / MAU / 売上収益 / 当期利益は通期短信ベースで確度高。メルカード発行枚数・メルコイン口座数はプレス発表（2024-03 時点 300 万枚 / 200 万口座）で、FY2025.6 通期短信での最新更新は公開資料未確認のため ^[ambiguous]。銀行ライセンス取得シナリオ・米国事業黒字定着・メルコイン拡張計画は公開情報未確定。

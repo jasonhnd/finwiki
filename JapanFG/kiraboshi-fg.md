@@ -3,8 +3,8 @@ title: 東京きらぼし FG (Tokyo Kiraboshi FG)
 aliases: ["Tokyo Kiraboshi FG", "東京きらぼし FG", "東京きらぼしフィナンシャルグループ", "Kiraboshi FG", "きらぼし FG", "旧 東京 TY フィナンシャルグループ", "TY FG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tokyo-region]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **東京都内特化** の珍しい「東京専業地銀」グループ。2014-10-01 **東京都民銀行 + 八千代銀行** の経営統合で「東京 TY フィナンシャルグループ」発足 → 2016-04 **新銀行東京** を統合（旧石原都政の負の遺産処理）→ 2018-05-01 **3 行合併で「きらぼし銀行」誕生 + FG も「東京きらぼし FG」に改称**。地盤は東京都内（神奈川・千葉一部）に絞り込んだ希少な地銀モデル。中小企業金融 + 都心立地の富裕層 + 「きらぼしデジタル銀行」「UI 銀行」等のデジタル戦略 + BaaS / iBank 提携 で「東京エリアの中小・スタートアップ・富裕層」ニッチを取りに行く戦略 ^[extracted]。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社東京きらぼしフィナンシャルグループ ^[extracted]
 **英名**：Tokyo Kiraboshi Financial Group, Inc.
@@ -83,7 +83,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **「きらぼし」（綺羅星）**: 多くの輝く星の意 — 東京都内に多数の中小企業が「きらぼし」のように輝くイメージ ^[inferred]
 - **「TY」（旧名）**: 東京（**T**okyo）+ 八千代（**Y**achiyo）の頭文字、合併時の暫定名
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|
@@ -96,7 +96,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 不動産 | 都内不動産融資、賃貸不動産 | 旧 八千代銀行系強み |
 | 証券 | きらぼし証券・ライフデザイン証券 | リテール証券 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 「東京特化地銀」モデル
 
@@ -118,13 +118,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 旧 新銀行東京の不良債権・不採算融資は統合時に処理 → きらぼし銀行発足（2018-05）時点で大半クリーンアップ済 ^[inferred]
 - 東京都との関係性は統合後も継続（旧 都民銀行・新銀行東京の都出資レガシー）^[inferred]
 
-### 合纵连横
+### 提携・買収戦略
 
 - **iBank マーケティング提携**（[[fukuoka-fg]] 系）^[inferred]：地銀デジタルの共通プラットフォーム活用
 - **BaaS 試行**：法人パートナー向けに API / 口座機能提供 ^[inferred]
 - **スタートアップ連携**：きらぼしキャピタル経由 CVC + 東京の VC ネットワーク
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 関東財務局
 - **業態**：地方銀行持株会社（地方銀行協会加盟、第二地銀協ではない）^[inferred]
@@ -168,5 +168,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 Wikipedia 公開情報ベース、2026-05-19）。重要日付（2014-10 TY FG 発足、2016-04 新銀行東京統合、2018-05 きらぼし銀行 3 行合併 + FG 改称、2022-01 UI 銀行開始）は Wikipedia 経由で公開ソース確認。具体的な財務指標・持株比率・UI 銀行ユーザー数は要 IR 一次資料確認。

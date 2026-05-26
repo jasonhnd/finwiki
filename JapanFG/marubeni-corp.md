@@ -10,8 +10,8 @@ aliases:
   - "marubeni"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, power, ipp, grain, food, infrastructure, agribusiness, mizuho-group]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 丸紅 (東証 PRIME **8002**) は **5 大総合商社の一角**、**電力 IPP (独立系発電事業) 世界トップ級** + **穀物トレード 世界 5 大級 (Gavilon を旧買収・2022 米国農業部門 を Viterra に売却 / Helena 主力体制)** + **食品 (鶏肉 等、米国農業)** で知られる「**電力・食料商社**」。みずほグループ系列 (旧 富士銀行 → みずほ銀行) との歴史的近接性が強く、JapanFG 文脈での重要性は (i) [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (内向け CMS)、(ii) **2024 年 [[JapanFG/mizuho-lease|みずほリース]] への戦略的株主入り** (持分約 20% 級、東証 PRIME **8425**、旧 興銀リース、3 大リースの一角級)、(iii) [[JapanFG/mizuho-fg|みずほ FG]] とのグループ系列クロス取引、にある。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2022 | Gavilon の穀物トレード部門を Viterra (Glencore 系) に売却、Helena の農業流通事業を core 化 |
 | 2024 | **[[JapanFG/mizuho-lease|みずほリース]] 戦略的株主入り (約 20% 級)** — リース・asset finance プラットフォーム強化 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
@@ -103,7 +103,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 「**みずほリース戦略的株主入り (2024)** = 丸紅にとってリース・asset finance プラットフォーム取得の代替手段」「丸紅フィナンス = 内向け CMS」「みずほ FG = メインバンク的関係」の三層構造。
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 5 大商社内の identity
 
@@ -124,7 +124,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **電力 IPP**: NextEra Energy (米国)、Iberdrola (西)、Engie (仏)、各国 IPP 商社
 - **穀物 / 農業**: ADM, Bunge, Cargill, Louis Dreyfus (ABCD), Viterra (旧 Gavilon 穀物部門の現所有者)
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: IFRS 採用、IPP / equity-method investments の比重大 ^[extracted]
 - **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業・金商法対象 ^[inferred]
@@ -168,5 +168,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。丸紅は public-surface で十分カバー。2024 みずほリース 戦略的持分入りの正確な持分比率、Helena 売上規模、IPP 発電容量 (GW) は最新 有価証券報告書 / 統合報告書 で都度更新。

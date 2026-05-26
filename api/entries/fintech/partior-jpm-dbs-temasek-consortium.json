@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/partior-jpm-dbs-temasek-consortium.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/partior-jpm-dbs-temasek-consortium.md",
   "domain": "fintech",
-  "title": "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+  "title": "Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+    "title": "Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済",
     "aliases": [
       "partior-jpm-dbs-temasek-consortium",
       "Partior",
@@ -19,8 +19,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -44,9 +44,9 @@
       "https://www.standardchartered.com/news/partior"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with Fnality (英美侧多银行 wholesale) and JPM Onyx (单银行 TD) for the wholesale-settlement consortium triangle, and with MAS 战略含义 for Partior 的新加坡锚定结构。",
+  "summary": "This entry sits under fintech index. Read it with Fnality(英米側マルチバンク wholesale)と JPM Onyx(シングルバンク TD)で wholesale-settlement コンソーシアムの三角形を、そして MAS 戦略含意 と合わせて Partior のシンガポール錨地構造を読む。",
   "headings": [
-    "Partior · JPM / DBS / StanChart / Temasek 联营 · 新加坡锚定的跨境批发结算",
+    "Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5313,
-    "word_like_tokens": 874,
+    "nonspace_chars": 5829,
+    "word_like_tokens": 885,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

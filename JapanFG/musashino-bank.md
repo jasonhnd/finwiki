@@ -3,8 +3,8 @@ title: 武蔵野銀行 (The Musashino Bank)
 aliases: ["武蔵野銀行", "Musashino Bank", "The Musashino Bank", "むさしの", "Musashinoginko"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 埼玉県地盤の単独・第一地銀（東証 PRIME **8336**、本店さいたま市大宮区）。1952-03-06 戦後の埼玉県中小企業金融補完目的で **戦後新設地銀** として設立、1973 東証上場。略称「**むさしの**」。県内競合は **埼玉りそな銀行**（[[resona-hd]] 子会社、シェア No.1）。**TSUBASA アライアンス**（[[chiba-bank]] 主導の地銀広域連合）参加で IT・海外・市場運用を共同化。持株会社化していない単独銀行体制が継続中。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社武蔵野銀行 ^[extracted]
 **英名**：The Musashino Bank, Ltd.
@@ -68,7 +68,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > **構造特徴**: メガバンク・大手地銀のような **持株会社化していない**。単独銀行体制を継続。関連子会社は県内営業支援目的の小規模軽量構成。^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -78,7 +78,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外 | TSUBASA 経由でアジア進出支援（提携網利用）| 単独海外拠点は限定的 ^[inferred] |
 | デジタル | TSUBASA 共同基幹システム / アプリ共同開発 | 千葉銀主導の共同インフラ活用 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地盤特性 — 埼玉県という商圏
 
@@ -126,7 +126,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ^[ambiguous]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 関東財務局
 - **加盟**: 全国地方銀行協会（地銀協）/ 預金保険機構
@@ -167,5 +167,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。設立年・上場年・TSUBASA 参加・県内競合構造は Wikipedia + 公式 IR で校核。県内シェア・店舗網詳細・直近決算数値は最新の決算短信・有価証券報告書を要参照。

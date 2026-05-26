@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-ecisb-license.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/japan-ecisb-license.md",
   "domain": "fintech",
-  "title": "日本 ECISB 牌照",
+  "title": "日本 ECISB ライセンス",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "日本 ECISB 牌照——专为\"不碰资金的交易路由中介\"设计的轻量牌照",
+    "title": "日本 ECISB ライセンス —— 「資金に触れない取引ルーティング仲介」専用の軽量ライセンス",
     "aliases": [],
     "domain": "fintech",
     "created": "2026-04-18",
-    "last_updated": "2026-05-03",
-    "last_tended": "2026-05-05",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-10-30",
     "confidence": "likely",
     "tags": [
@@ -32,16 +32,16 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "日本 ECISB 牌照",
+    "日本 ECISB ライセンス",
     "Wiki route",
-    "定位",
-    "红线",
-    "核心义务",
-    "AML 义务",
-    "申请流程与时间线",
-    "時間線桥接",
-    "与決済系应用的适配",
-    "所属方要求"
+    "位置づけ",
+    "レッドライン",
+    "コア義務",
+    "AML 義務",
+    "申請プロセスとタイムライン",
+    "タイムライン・ブリッジ",
+    "決済系アプリへの適合",
+    "所属方要件"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2186,
-    "word_like_tokens": 363,
+    "nonspace_chars": 2419,
+    "word_like_tokens": 361,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

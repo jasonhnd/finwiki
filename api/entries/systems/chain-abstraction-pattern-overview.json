@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chain-abstraction-pattern-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chain-abstraction-pattern-overview.md",
   "domain": "systems",
-  "title": "链抽象模式概览",
+  "title": "チェーン抽象モデル概観",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "链抽象模式概览 · 用户不感知底层链的下一层基础设施",
+    "title": "チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ",
     "aliases": [
       "chain-abstraction-pattern-overview",
       "chain abstraction overview",
-      "链抽象概览"
+      "チェーン抽象概観"
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -31,9 +31,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against ERC-4337 embedded wallet 採用状況 · Privy/Coinbase/Alchemy/Safe for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "链抽象模式概览",
+    "チェーン抽象モデル概観",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2475,
+    "nonspace_chars": 2992,
     "word_like_tokens": 366,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

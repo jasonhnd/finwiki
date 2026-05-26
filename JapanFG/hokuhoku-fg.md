@@ -3,8 +3,8 @@ title: ほくほく FG (Hokuhoku FG)
 aliases: ["Hokuhoku FG", "Hokuhoku Financial Group", "ほくほくフィナンシャルグループ", "株式会社ほくほくフィナンシャルグループ", "8377"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 北陸 3 県（富山・石川・福井）+ 北海道の **2 拠点広域地銀 FG**。2003-09-26 北陸銀行が単独株式移転で持株会社化（旧「ほくぎん FG」）、2004-09-01 北海道銀行と経営統合して **ほくほく FG** 発足。**地理ロングテール戦略**（北陸 + 北海道の遠距離 2 地盤）が最大の特徴で、邦銀史上初の「離れた地域の地銀どうしの広域連合」モデル。北陸銀行は富山県地盤の旧第十二国立銀行（1877 創立）系、北海道銀行は札幌地盤の戦後設立（1951）行。北海道では **[[ndfg]]（北洋銀行）** との競合構造、北陸では富山県内 main bank ポジション。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社ほくほくフィナンシャルグループ
 **英名**：Hokuhoku Financial Group, Inc.
@@ -50,7 +50,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 各種リース・カード・コンサル子会社（北陸カード / 道銀カード 等）
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 旧 **北陸銀行**：1877 第十二国立銀行 設立（富山）→ 1943 北陸銀行 改称（戦時統合）
 - 旧 **北海道銀行**：1951 設立（北海道地盤の戦後新設地銀。明治期の旧北海道銀行=植民地銀行とは別法人）
@@ -71,7 +71,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2004 以降 | システム統合・営業店ネットワーク再編 |
 | 2024 | 中期経営計画 策定（地銀再編・デジタル投資方針）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -81,7 +81,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 証券・カード・リース | ほくほく TT 証券 / 北陸カード / 道銀カード 等 | グループ周辺金融 |
 | 観光・農業金融 | 両行 | 北陸新幹線開業（2015）+ 北海道観光 / 農業 / 水産 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地理ロングテール戦略
 
@@ -108,7 +108,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 北海道：観光（インバウンド）+ 農業 + 水産業 + 物流（千歳・苫小牧）
 - 両地盤とも一次産業 / 観光ウェイトが高く、地域経済との連動が深い
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）+ 北陸財務局 / 北海道財務局
 - **持株会社規制**：銀行法 第 52 条の 17
@@ -146,5 +146,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 Wikipedia ベース校核 2026-05-19）。沿革・2 本社体制・子会社構造は公開情報で確定。決算数値は本版未収載（要 ほくほく FG 有価証券報告書直接確認）。2024 中計の具体数値・能登半島地震の地盤影響は公開資料更新待ち。
+> [!info] 検証状況
+> confidence: **likely**（v1.0 Wikipedia ベース検証 2026-05-19）。沿革・2 本社体制・子会社構造は公開情報で確定。決算数値は本版未収載（要 ほくほく FG 有価証券報告書直接確認）。2024 中計の具体数値・能登半島地震の地盤影響は公開資料更新待ち。

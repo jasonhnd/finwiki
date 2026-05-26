@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/erc-4337-embedded-wallet-adoption.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/erc-4337-embedded-wallet-adoption.md",
   "domain": "systems",
-  "title": "ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe",
+  "title": "ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe",
+    "title": "ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe",
     "aliases": [
       "erc-4337-adoption",
       "aa-embedded-wallet",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against ERC-4337 概览 · Account Abstraction 的应用层实现 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against ERC-4337 概観 · Account Abstraction のアプリケーション層実装 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "ERC-4337 embedded wallet 采用版图 · Privy/Coinbase/Alchemy/Safe",
+    "ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2939,
-    "word_like_tokens": 509,
+    "nonspace_chars": 3309,
+    "word_like_tokens": 507,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

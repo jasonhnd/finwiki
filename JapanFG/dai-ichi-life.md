@@ -3,8 +3,8 @@ title: 第一ライフグループ / 旧 第一生命 HD
 aliases: ["Dai-ichi Life", "Daiichi Life Group", "Dai-ichi Life Group", "株式会社第一ライフグループ", "第一ライフグループ", "第一生命ホールディングス", "第一生命 HD", "Dai-ichi Life Holdings", "8750"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 国内大手 4 生保の一角（第一生命 / [[nippon-life]] / 住友生命 / 明治安田生命）。**1902-09 創業、日本初の相互会社形態保険会社**。2010-04 株式会社化・上場（当時史上最大の相互→株式会社化）、2016-10 持株会社化で**第一生命 HD 発足**。2026-04-01 に商号を **株式会社第一ライフグループ（Daiichi Life Group, Inc.）** へ変更。東証 PRIME 8750。**国内（営業職員 + 銀行窓販 + 乗合代理店 3 軸）+ 海外（米 Protective / 豪 TAL / アジア）+ 資産運用（みずほ JV アセマネ One）** 戦略。**FY2024（2025-03 期）純利益 4,296 億円（+34%）、海外事業利益が初の 1,000 億円超（1,146 億円）**で米 Protective 利益 3.4 倍。健康増進型「健康第一」など DX 推進。中計「Re-connect 2026」（2024〜）展開中。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社第一ライフグループ（2026-04-01 商号変更）
 **旧商号**：第一生命ホールディングス株式会社
@@ -107,7 +107,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024 | **中期経営計画「Re-connect 2026」**（2024〜2026 年度）公表 |
 | **2025-05** | **FY2024 決算**：純利益 4,296 億円（+34%）、海外事業初の 1,000 億円超、追加自社株買い 1,000 億円 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | シンクタンク | 第一生命経済研究所 | マクロ・市場分析 |
 | DX / 健康増進 | 「健康第一」アプリ・健康増進型保険 | インシュアテック |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 国内 3 軸チャネル戦略
 
@@ -154,7 +154,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **株式会社化のメリット**: 機動的資本調達・M&A（Protective 買収など）、ガバナンス透明性、株主還元（FY2024 137 円配当 +24 円・1,000 億円自社株買い）
 - **株式会社化のデメリット**: 短期株価圧力 vs 長期保険契約者利益のバランス
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）、保険業法
 - **健全性規制**: ソルベンシーマージン比率（SMR）、**2025〜 経済価値ベースのソルベンシー規制（J-ICS / ESR）導入**で運用方針影響

@@ -3,8 +3,8 @@ title: 株式会社マネーフォワード (Money Forward)
 aliases: ["Money Forward", "マネーフォワード", "MF", "3994"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, saas]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本最大の PFM (Personal Financial Management) + 中小企業向け会計 SaaS のリーディング企業。**個人家計簿アプリ「マネーフォワード ME」(1500 万人超ユーザー) と法人向け「マネーフォワード クラウド」の両軸**。創業者・**辻庸介** (元マネックスグループ) が 2012-05-18 設立、2017-09-29 東証マザーズ上場 → 2022 東証グロース → 東証 PRIME (3994)。**1500 行以上の金融機関 API 連携** が技術的堀。2025-04-15 MUFG との JV「Biz Forward」(ファクタリング) 持分を単独取得し独立性強化。中計の黒字化計画延期で株価軟調も、SaaS ARR 拡大基調。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社マネーフォワード ^[extracted]
 **英名**：Money Forward, Inc.
@@ -58,7 +58,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   ├── 個人向け事業 (BtoC)
   │     └── マネーフォワード ME ── 1500 万 UB 超、PFM #1
   ├── 法人向け事業 (BtoB)
-  │     ├── マネーフォワード クラウド ── 会計・給与・経費・請求書
+  │     ├── マネーフォワード クラウド ── 会計・に与・経費・請求書
   │     │     └── 中小企業 SaaS 主戦場、freee / 弥生 / TKC と競合
   │     ├── マネーフォワード ビジネスカンパニー ── 法人統合ブランド
   │     ├── マネーフォワード PFP ── 大企業向け資金繰り SaaS
@@ -84,18 +84,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2025-04-15** | **MUFG が Biz Forward 持分をマネフォに売却 → JV 解消・単独化** ★ |
 | 2025〜 | 法人 SaaS + BPaaS 戦略加速、AI 機能拡充 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要サービス | ターゲット | 競合 |
 |---|---|---|---|
 | 個人 PFM | マネーフォワード ME | 個人ユーザー (1500 万人超) | Zaim / OsidOri / 各銀行アプリ |
-| 法人 SaaS | マネーフォワード クラウド (会計・給与・経費・請求書) | 中小企業 | freee / 弥生 / TKC / 勘定奉行 |
+| 法人 SaaS | マネーフォワード クラウド (会計・に与・経費・請求書) | 中小企業 | freee / 弥生 / TKC / 勘定奉行 |
 | 大企業 | マネーフォワード PFP | 大企業 CFO 部門 (資金繰り SaaS) | Oracle / SAP / 国内大手 ERP |
 | 法人統合 | マネーフォワード ビジネスカンパニー | 中堅〜大企業 | freee / 各 ERP |
 | ファクタリング | マネーフォワード Biz Forward | 中小企業 (請求書買取) | OLTA / Yup / 各銀行系 |
 | 金融機関 BPaaS | API 連携基盤 (1500 行以上) | 金融機関 | TIS / NTT データ / Plaid |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 個人 PFM × 法人 SaaS 両軸戦略
 
@@ -115,7 +115,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **既存 ERP との競合・補完**: Oracle/SAP の代替ではなく前段の資金管理レイヤー
 - **収益拡大の次の柱**: 中小 SaaS の客単価上限を超える方向性
 
-### 合纵连横
+### 提携・買収戦略
 
 - **マネックスとの関係**: 創業者・辻庸介氏は元マネックス、創業期から関係維持
 - **SBI HD 業務提携** (2018): 金融機関 API 連携基盤強化、SBI 経済圏との連動
@@ -131,7 +131,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | TKC | 会計事務所 BtoB に特化 | TKC は税理士 OS 寄り vs マネフォは事業会社直販 |
 | 各銀行アプリ | 銀行は自前 PFM 強化中 | 銀行アプリは自社口座限定 vs マネフォは横断連携 |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁 (FSA) ── 電子決済等代行業者として登録
 - **電子決済等代行業**: 銀行法改正 (2017) に基づく登録業者、API 連携の法的根拠
@@ -172,5 +172,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (v1.0 Wikipedia + 公開 IR 校核 2026-05-19)。ユーザー数 (1500 万) / 連携行数 (1500 行) / MUFG JV 解消日 (2025-04-15) は公開情報ベース。財務数値・最新セグメント別売上は四半期 IR で要更新。創業者・辻庸介の経歴は公開取材記事に基づく。

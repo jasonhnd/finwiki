@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/erc-4337-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/erc-4337-overview.md",
   "domain": "systems",
-  "title": "ERC-4337 概览 · Account Abstraction 的应用层实现",
+  "title": "ERC-4337 概観 · Account Abstraction のアプリケーション層実装",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ERC-4337 概览 · Account Abstraction 的应用层实现",
+    "title": "ERC-4337 概観 · Account Abstraction のアプリケーション層実装",
     "aliases": [
       "erc-4337-overview",
       "account-abstraction-overview",
@@ -17,8 +17,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -32,9 +32,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against ERC-7702 vs ERC-4337 · Ethereum AA 双轨对照 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against ERC-7702 vs ERC-4337 · Ethereum AA デュアルトラック対照 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "ERC-4337 概览 · Account Abstraction 的应用层实现",
+    "ERC-4337 概観 · Account Abstraction のアプリケーション層実装",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2543,
-    "word_like_tokens": 442,
+    "nonspace_chars": 2969,
+    "word_like_tokens": 435,
     "inbound_wikilinks_count": 30,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

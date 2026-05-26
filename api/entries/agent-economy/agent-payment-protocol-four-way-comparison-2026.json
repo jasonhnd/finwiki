@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/agent-payment-protocol-four-way-comparison-2026.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/agent-payment-protocol-four-way-comparison-2026.md",
   "domain": "agent-economy",
-  "title": "Agent Payment Protocol 四方比較矩陣 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
+  "title": "Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Agent Payment Protocol 四方比較矩陣 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
+    "title": "Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
     "aliases": [
       "agent-payment-protocol-four-way-comparison-2026",
       "agent payment protocol four-way comparison 2026",
@@ -19,8 +19,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -55,9 +55,9 @@
       "https://fidoalliance.org/"
     ]
   },
-  "summary": "This entry sits under agent-economy index. Read it against AI Agent 支付协议总图 · 七协议格局概览 for the broader seven-protocol landscape, agent protocol mainnet adoption 2026 for production-readiness deltas, and commoditization thesis for the value-capture trajectory. For protocol-specific deep dives see x402",
+  "summary": "This entry sits under agent-economy index. Read it against AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰 for the broader seven-protocol landscape, agent protocol mainnet adoption 2026 for production-readiness deltas, and commoditization thesis for the value-capture trajectory. For protocol-specific deep dives see",
   "headings": [
-    "Agent Payment Protocol 四方比較矩陣 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
+    "Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP",
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
@@ -130,9 +130,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 22021,
-    "word_like_tokens": 3594,
+    "nonspace_chars": 22412,
+    "word_like_tokens": 3602,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

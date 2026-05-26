@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -49,7 +49,7 @@
     "FFG 設立とグループ統合",
     "FFG 証券 設立・展開",
     "4. KPI table (concept) ^[ambiguous]",
-    "5. 业务线 map"
+    "5. 事業セグメント・マップ"
   ],
   "body_links": {
     "wikilinks_count": 25,
@@ -111,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5165,
-    "word_like_tokens": 751,
+    "nonspace_chars": 5170,
+    "word_like_tokens": 750,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

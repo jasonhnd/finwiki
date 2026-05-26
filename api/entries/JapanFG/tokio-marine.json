@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,13 +40,13 @@
     "東京海上ホールディングス (Tokio Marine Holdings)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "主要子会社・グループ会社",
     "合併歴史・前身",
     "重要年表(抜粋)",
     "連結業績(FY2024 = 2025-03 期、確認済)",
-    "2. 业务线 map",
-    "3. 战略与竞争"
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5701,
-    "word_like_tokens": 913,
+    "nonspace_chars": 5706,
+    "word_like_tokens": 912,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -44,13 +44,13 @@
     "おきなわ FG (Okinawa FG)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "2025-03 期決算（連結）",
     "主要株主（2022-03-31 時点・公開）",
     "主要子会社・持分",
     "沖縄銀行 前身・合併歴",
     "重要年表",
-    "2. 业务线 map"
+    "2. 事業セグメント・マップ"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6963,
-    "word_like_tokens": 1208,
+    "nonspace_chars": 6968,
+    "word_like_tokens": 1207,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

@@ -1,10 +1,10 @@
 ---
-title: Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG
+title: Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG
 aliases: [paxos-paxg-post-binance-pivot, Paxos pivot, Paxos Trust Company, USDG, USDL, PAXG, Paxos multi-issuance, paxos-after-busd]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, paxos, busd, pyusd, usdg, usdl, paxg, gold-token, singapore, uae, 2025-2026]
@@ -20,11 +20,11 @@ sources:
   - https://defillama.com/stablecoins
 ---
 
-# Paxos · BUSD 关停后的多产品 + 多牌照 pivot · PYUSD / USDG / USDL / PAXG
+# Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG
 
 ## TL;DR
 
-**Paxos Trust Company** 在 2023-02 NY DFS 停止 BUSD 后,从"Binance 单一发行人"快速 pivot 为**多产品 + 多牌照的发行平台**: (1) PYUSD (PayPal 品牌 / NY DFS 发行) 2023-08; (2) USDL (Lift Dollar / yield-bearing / ADGM 阿布扎比发行) 2024-12; (3) USDG (Global Dollar / 多发行人联盟) 2024-11; (4) PAXG (黄金代币 · 2019-) 是 Paxos 现存最久的产品。**Paxos 的真实差异化是它持有 4 个司法辖区的发行牌照** = NY DFS Trust + Singapore MAS Major Payment Institution + Abu Dhabi ADGM FSRA + UAE 央行 → 让 Paxos 可以为**不同地理 + 不同合规属性的稳定币**提供发行能力。2026-05 Paxos 主导发行 / 合作发行的 USD 系列稳定币合计 **~$2B+** (PYUSD $1B+ + USDG $250M + USDL $80M + PAXG ~$700M),pivot 成功。
+**Paxos Trust Company** は 2023-02 に NY DFS が BUSD を停止した後、「Binance シングル発行者」から **マルチプロダクト + マルチライセンスの発行プラットフォーム**へ迅速に pivot:(1)PYUSD(PayPal ブランド / NY DFS 発行)2023-08;(2)USDL(Lift Dollar / yield-bearing / ADGM アブダビ発行)2024-12;(3)USDG(Global Dollar / マルチ発行者連盟)2024-11;(4)PAXG(金トークン · 2019-)は Paxos の最古参プロダクト。**Paxos の真の差別化要素は 4 つの司法管轄区の発行ライセンスを保有していること** = NY DFS Trust + Singapore MAS Major Payment Institution + Abu Dhabi ADGM FSRA + UAE 中央銀行 → Paxos が**異なる地理 + 異なるコンプラ属性のステーブルコイン**に発行能力を提供可能。2026-05 Paxos が主導発行 / 共同発行する USD 系列ステーブルコインの合計は **~$2B+**(PYUSD $1B+ + USDG $250M + USDL $80M + PAXG ~$700M)、pivot は成功。
 
 ## Wiki route
 

@@ -3,8 +3,8 @@ title: 七十七銀行 (77 Bank)
 aliases: ["77 Bank", "The 77 Bank", "株式会社七十七銀行", "しちじゅうしち銀行", "77銀行"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **東北地方最大の地方銀行**、宮城県仙台市本店、東証 PRIME 8341。1878-12-09 第七十七国立銀行として仙台で設立、1898 株式会社七十七銀行に改称。**単独銀行体制（持株会社化せず）**を維持し、宮城県内シェア圧倒・東北 6 県＋首都圏に展開。略称「しちしち」「77」。**2011-03-11 東日本大震災で仙台本店周辺が壊滅的被害**を受けたが、復興金融の中核として機能。総資産概ね 10 兆円台、貸出金 6〜7 兆円規模 ^[ambiguous]。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社七十七銀行 ^[extracted]
 **英名**: The 77 Bank, Ltd. ^[extracted]
@@ -55,7 +55,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 注: 系列子会社の正確な現時点ラインナップは公式ディスクロージャー誌（年次）を要参照。^[ambiguous]
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 黎明期: 国立銀行条例から株式会社銀行へ
 
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2022-04** | **東証 PRIME 上場**（市場区分見直し）^[extracted] |
 | 2024〜 | 新中期経営計画スタート ^[ambiguous]（具体年限は要確認）|
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地理的地盤
 
@@ -121,7 +121,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メリット**: 意思決定スピード、地域への密着度、文化的一体感、フランチャイズ強度
 - **デメリット**: 規模の経済が効きにくい（特に IT 投資・コンプラ対応）、人口減少局面でのスケール限界 ^[inferred]
 
-## 4. 财务概要
+## 4. 財務概要
 
 ### 規模感（公開情報ベース）^[ambiguous]
 
@@ -141,7 +141,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **役務収益**: 投資信託・保険・為替手数料
 - **その他**: 有価証券運用益（国債・地方債・社債等）
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁・東北財務局
 - **預金保険**: 預金保険機構加盟

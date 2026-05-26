@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/sandeep-nailwal-polygon-india-dpi-pattern.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/sandeep-nailwal-polygon-india-dpi-pattern.md",
   "domain": "business",
-  "title": "国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应",
+  "title": "国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应(Sandeep / Polygon / India)",
+    "title": "国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給(Sandeep / Polygon / India)",
     "aliases": [
       "sandeep-nailwal-polygon-india-dpi",
       "state-bundling-winner-pattern",
@@ -17,8 +17,8 @@
     ],
     "domain": "business",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -35,9 +35,9 @@
     "status": "confirmed",
     "sources": []
   },
-  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 40 人体制 + 短期美债套利商业模式模板 · Tether / Paolo Ardoino for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "国家级抱团赢家模式 · 反美元 DPI 联盟与新兴市场链路供应",
+    "国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2573,
-    "word_like_tokens": 432,
+    "nonspace_chars": 2911,
+    "word_like_tokens": 434,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

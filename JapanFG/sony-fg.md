@@ -3,8 +3,8 @@ title: ソニーフィナンシャルグループ (Sony FG)
 aliases: ["Sony Financial Group", "ソニーフィナンシャル G", "SFG", "旧 ソニーフィナンシャルホールディングス", "SFH", "Sony Financial Holdings"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, mfg-financial, sony]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ソニーブランド × 個人金融に特化した総合金融持株会社。生命保険（ソニー生命、ライフプランナー営業）+ 損害保険（ソニー損保、ネット自動車保険）+ ネット銀行（ソニー銀行、外貨・住宅ローン強）の 3 本柱。2007 上場（旧称 SFH）→ **2020-09 親会社ソニーグループによる TOB で完全子会社化・上場廃止** → 2024-05 「金融事業分離・再上場」発表 → **2025-10-01 パーシャルスピンオフでソニーフィナンシャルグループとして東証 PRIME 再上場予定**。^[forecast] メガバンク系と異なり、製造業由来コングロマリットの金融部門が独立再上場するレアケース。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：ソニーフィナンシャルグループ株式会社 ^[extracted]
 **英名**：Sony Financial Group, Inc.（旧称 Sony Financial Holdings, Inc. = SFH）
@@ -73,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024-10 | 再上場準備本格化、上場審査開始 ^[inferred] |
 | **2025-10-01**（予定）| **ソニーフィナンシャルグループとして東証 PRIME 再上場**（証券コード 8729 復活想定）^[forecast] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -82,7 +82,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ネット銀行 | ソニー銀行 | **外貨預金・住宅ローン** 強い・MoneyKit ブランド |
 | CVC・フィンテック | ソニーフィナンシャルベンチャーズ | グループ内ベンチャー投資 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### B2C ブランド戦略
 
@@ -102,7 +102,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Sony FG 側**：独立経営権の確立・独自資本調達手段の確保・人材登用の柔軟化・M&A 通貨としての自社株活用 ^[inferred]
 - パーシャルスピンオフ方式：親会社株主への現物配当による課税繰延 → 既存ソニーグループ株主は Sony FG 株を自動取得（売却・継続保有を選択可）^[forecast]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
   - 生保：保険業法（ソニー生命）
@@ -145,5 +145,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公式発表ベース、2026-05-19 校核）。重要数値（再上場日 2025-10-01、TOB 完全子会社化 2020-09-29、各社設立年）は公式発表ベース。再上場後の親会社持株比率・主要株主構造は 2025-10 IPO 直前まで変動可能性あり。再上場後は有価証券報告書ベースの数値更新を要する。

@@ -10,8 +10,8 @@ aliases:
   - "marubeni-financial-services"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, marubeni, fuyo-group, group-treasury, factoring, cms]
@@ -33,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 丸紅フィナンス は **丸紅 (8002)** 系の **グループ内金融サービス会社**。丸紅グループの **CMS / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金** を担う。リース系 (外向け asset finance) は、2024 年に 丸紅 が戦略株主として参画した [[JapanFG/mizuho-lease|みずほリース]] と、芙蓉グループ系の [[JapanFG/fuyo-lease|芙蓉総合リース]] が中心。丸紅は「**外向けリース = みずほリース + 芙蓉総合リース / 内向け = 丸紅フィナンス**」の構造。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -64,7 +64,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 2024-05 に 丸紅 が [[JapanFG/mizuho-lease|みずほリース]] に対する戦略株主としての出資を拡大することが発表された。これは みずほ FG (旧 IBJ + 旧 富士 + 旧 第一勧銀 の 3 遺伝子) と 丸紅 (芙蓉グループ) という旧 富士銀行系の **資本紐帯の再構築** の文脈で理解できる。^[inferred] みずほリース が 「みずほ系 + 丸紅 (商社系) の hybrid platform」へ進化することで、丸紅本体のリース機能委託先としての位置付けがより明確になる。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 丸紅本体の電力・プラント・食料・農薬・化学品 取引に紐づく与信補助 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 丸紅の事業構造と金融機能
 
@@ -95,7 +95,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 豊田通商 | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | グループ内 captive |
 | 双日 | [[JapanFG/sojitz-finance|双日フィナンス]] | 専業なし |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (貸金業 / 為替業務関連)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -147,5 +147,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。丸紅フィナンス は非上場子会社で外部開示が限定的。最新の業務範囲 / 子会社一覧は 丸紅 有価証券報告書 関係会社一覧 を要参照。**親 商社 ページ `marubeni-corp.md` は未作成 → 将来的に backlog として追加予定**。

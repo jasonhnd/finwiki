@@ -3,8 +3,8 @@ title: "中京銀行 (Chukyo Bank, historical)"
 aliases: ["Chukyo Bank", "中京銀行", "株式会社中京銀行", "8530"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, chubu, aichi, historical, predecessor]
@@ -112,7 +112,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 - 県内地銀過剰問題 ([[nagoya-bank]] 独立継続) の再編残存圧力
 - 中京経済圏 トヨタ依存リスク (EV シフト・脱内燃機関) ^[inferred]
 
-## 7. 监管与政策
+## 7. 規制・政策
 
 - **License status**: deregistered 2025-01-01 (merger into [[aichi-bank]])
 - **業界団体 (歴史的)**: 第二地方銀行協会 加盟 (合併で資格喪失、現 [[aichi-bank]] は第二地銀協会継続加盟)

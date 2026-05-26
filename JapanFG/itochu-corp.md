@@ -12,8 +12,8 @@ aliases:
   - "itochu"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, textile, food, retail, familymart, ict, non-resource, conglomerate]
@@ -35,7 +35,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 伊藤忠商事 (東証 PRIME **8001**) は **5 大総合商社の一角**、非資源 (繊維・食品・ICT・生活産業) 比率が 5 大商社の中で最も高い「**生活産業商社**」。**ファミリーマート (FamilyMart) 完全子会社化 (2020 年 TOB → 100% 化)** によるコンビニリテール統合、**CITIC (中国中信集団) との戦略提携 (2015 年〜)**、**Dole Food (米国 青果世界最大級)** など特色ある投資戦略で知られる。JapanFG 文脈での重要性は (i) [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (内向け CMS)、(ii) **[[JapanFG/tokyo-century|東京センチュリー]] への約 25% 級戦略的持分** (3 大リースの一角、旧 東京リース、みずほ系 + 伊藤忠 2 軸株主構造)、(iii) **ファミマ経由のリテール金融プラットフォーム** (ファミペイ・ファミマ ATM 等) にある。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -78,7 +78,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2023〜 | 純利益で 5 大首位 (時期により) 到達 |
 | 2024 | Berkshire Hathaway 商社株買い増し継続 |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 **「東京センチュリー = 伊藤忠の外向けリース・ファイナンス腕」「ファミマ = 伊藤忠のリテール金融プラットフォーム」「伊藤忠ファイナンス = 内向け CMS」** の三層構造が伊藤忠グループの財務オペレーションの定型。
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### 5 大商社内の identity
 
@@ -126,7 +126,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **コンビニ (ファミマ領域)**: セブン&アイ HD (セブンイレブン)、[[JapanFG/mitsubishi-corp|三菱商事]] / KDDI (ローソン)
 - **繊維商社**: [[JapanFG/marubeni-corp|丸紅]] (繊維も強い)、その他繊維専業商社
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: IFRS 採用、ファミマ統合後は連結子会社化、equity-method investments の比重大 ^[extracted]
 - **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業・金商法対象。ファミペイ は資金移動業・前払式支払手段発行業 (金商法外) ^[inferred]
@@ -170,5 +170,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。伊藤忠商事は public-surface で十分カバー。ファミマ完全子会社化 (2020) 後の連結数値、東京センチュリー 約 25% 級持分の継続確認、純利益順位は最新 有価証券報告書 / 統合報告書で都度更新。

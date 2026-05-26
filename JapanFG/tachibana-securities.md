@@ -3,8 +3,8 @@ title: 立花証券 (Tachibana Securities)
 aliases: ["Tachibana Securities", "Tachibana Securities Co., Ltd.", "立花証券", "立花証券株式会社"]
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier]
@@ -40,7 +40,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 本社 | 東京都中央区 |
 | 業態 | 独立系中堅証券 (非上場・単一事業会社型) |
 
-## 2. 公司結構
+## 2. 会社概要
 
 **正式名**：立花証券株式会社
 **創業**：1948 年 (戦後復興期に東京で創業) ^[extracted]
@@ -62,7 +62,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2010 年代 | アクティブトレーダー・デイトレーダー向けニッチ確立 ^[inferred] |
 | 2024〜 | 新 NISA 制度対応、信用取引ユーザー基盤での NISA 連携 ^[inferred] |
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 債券 | 個人向け国債等 | 限定的 |
 | オンライン取引 | ストックハウスを中心としたネット取引 | 信用特化型 |
 
-## 4. 战略与競争
+## 4. 戦略・競争
 
 ### 信用取引特化型ニッチ
 
@@ -84,7 +84,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 非上場のため資本市場圧力を受けず、独自経営判断を維持
 - 同じ中堅独立証券枠の [[JapanFG/iwai-cosmo-hd|岩井コスモ HD]] (大阪基盤) とは地域・顧客層が異なる
 
-## 5. 监管と政策
+## 5. 規制・政策
 
 - **主管**：金融庁 (FSA)・関東財務局
 - **業態**：第一種金融商品取引業 (証券業)

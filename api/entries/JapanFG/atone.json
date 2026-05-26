@@ -18,8 +18,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -45,7 +45,7 @@
     "1. 法人・ライセンス境界",
     "2. Business role",
     "3. Why this standalone page matters",
-    "4. 监管与政策",
+    "4. 規制・政策",
     "Counterpoints",
     "Open questions",
     "Related"
@@ -85,6 +85,6 @@
     "nonspace_chars": 3452,
     "word_like_tokens": 482,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

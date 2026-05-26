@@ -1,10 +1,10 @@
 ---
-title: 主权资本池规模锚 · Aramco $7T 作为中东数字资产配置上限
-aliases: [sovereign capital pool aramco anchor, $7T Aramco sovereign capital, Aramco AUM ceiling, 中东数字资产基金母体]
+title: ソブリン資本プール規模アンカー · Aramco $7T を中東デジタル資産配分の上限として
+aliases: [sovereign capital pool aramco anchor, $7T Aramco sovereign capital, Aramco AUM ceiling, 中東デジタル資産ファンドの母体]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [fintech, number, economic-pattern, sovereign-capital, middle-east, aramco, blackrock, allocation-ceiling]
@@ -17,7 +17,7 @@ sources:
 status: candidate
 ---
 
-# 主权资本池规模锚 · Aramco $7T 作为中东数字资产配置上限
+# ソブリン資本プール規模アンカー · Aramco $7T を中東デジタル資産配分の上限として
 
 
 ## Wiki route
@@ -25,53 +25,53 @@ status: candidate
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 资源型主权资本(石油国家)的数字资产配置上限不是流通市值,而是**全口径主权资本池**(NPV 折现的储量 + 国家股权 + 主权基金 AUM)。Aramco $7T 全口径估值是中东数字资产基金的"天花板锚":即便配置比例仅 0.5-7%,单一国家可调动 $35-490B,**单一动作即可超过整个三圆 MRA 白圈 2030 预测($130B)**。这是一种"主权口径 vs 市场口径"的规模评估模式。
+> 資源型ソブリン資本（石油国家）のデジタル資産配分上限は流通時価総額ではなく、**全口径ソブリン資本プール**（NPV で割引した埋蔵量 + 国家持分 + ソブリンファンド AUM）である。Aramco の $7T 全口径評価額は中東デジタル資産ファンドの「天井アンカー」となる：配分比率がわずか 0.5-7% でも、単一国家で $35-490B を動員可能であり、**単一の動作だけで三円 MRA 白圈 2030 予測総額（$130B）を上回る**。これは「ソブリン口径 vs 市場口径」という規模評価モデルである。
 
 ## Key facts
 
-- Aramco 上市流通市值 ~$1.6T(2026-05),全口径主权 NPV 估值 ~$7T(含 2P 储量 2660 亿桶 × $20/桶 折现) ^[extracted]
-- 沙特主权资本三层: PIF $900B + Aramco 股权 $1.6T + 储量 NPV $4T ≈ $3-4T 可调动 ^[inferred]
-- Aramco × BlackRock 中东数字资产基金 5 年目标 AUM $200-500B(2025-Q4 公布) ^[extracted]
-- 配置 0.5-7% 即对应 $35-490B,单一动作量级超过三圆 MRA 白圈 2030 全部规模 ^[inferred]
-- PIF + Mubadala + ADIA 三家中东主权基金合计 AUM ≥ $2.5T ^[extracted]
+- Aramco 上場流通時価総額 ~$1.6T（2026-05）、全口径ソブリン NPV 評価額 ~$7T（2P 埋蔵量 2660 億バレル × $20/バレル を割引含む）^[extracted]
+- サウジアラビアのソブリン資本 3 層：PIF $900B + Aramco 持分 $1.6T + 埋蔵量 NPV $4T ≈ $3-4T を動員可能 ^[inferred]
+- Aramco × BlackRock 中東デジタル資産ファンドの 5 年目標 AUM $200-500B（2025-Q4 公表）^[extracted]
+- 配分 0.5-7% で $35-490B に相当、単一動作の規模が三円 MRA 白圈 2030 の総規模を上回る ^[inferred]
+- PIF + Mubadala + ADIA 中東 3 大ソブリンファンドの合計 AUM ≥ $2.5T ^[extracted]
 
 ## Mechanism / How it works
 
-数字资产基金的"天花板"由母体资本池决定:
+デジタル資産ファンドの「天井」は母体資本プールにより決定される：
 
 ```
-传统市场口径:    流通市值 × 配置比例 = 可投规模
-                  (受二级市场流动性限制)
+伝統市場口径：    流通時価総額 × 配分比率 = 投資可能規模
+                  （セカンダリーマーケット流動性に制約）
 
-主权口径:        全口径资本池(储量 NPV + 国家股权 + 主权基金 AUM)
-                  × 战略配置比例(0.5-7%)
-                  = 真实可调动规模
-                  (与油价周期解耦 · 5-10 年战略部署)
+ソブリン口径：    全口径資本プール（埋蔵量 NPV + 国家持分 + ソブリンファンド AUM）
+                  × 戦略配分比率（0.5-7%）
+                  = 実動員可能規模
+                  （原油価格サイクルとデカップル · 5-10 年戦略展開）
 ```
 
-Aramco 的特殊性在于**国家直接控制 + 油气长期现金流可证券化**: BlackRock 作 GP,Aramco 作 LP / 战略协同方,资金可绕过传统主权基金(PIF)的政治审批,直接进入"能源主权 → 数字主权"的转化通道,并通过 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等 BlackRock 自家代币化产品获得即时合规储备。
+Aramco の特殊性は**国家直接統制 + 石油ガスの長期キャッシュフローの証券化が可能**な点にある：BlackRock を GP、Aramco を LP / 戦略協業パートナーとし、資金は伝統的ソブリンファンド（PIF）の政治承認を迂回して直接「エネルギー主権 → デジタル主権」転化チャネルへ流入し、[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 等の BlackRock 自社トークン化商品を通じて即時のコンプライアンス準備金を獲得できる。
 
 ## Origin & evolution
 
-中东主权基金 2014-2020 仅通过 ETF / 间接持仓接触加密。2024-09 沙特 PIF 战略宣布将 1-3% AUM 投向数字资产基础设施。2025-Q4 Aramco × BlackRock 中东数字资产基金正式宣布,2026-Q1 已启动 PoC。Vision 2030 是底层驱动 · 与油价波动解耦,目标是把石油峰值预期下的现金流提前转化为数字基础设施股权,与 [[fintech/sovereign-fund-crypto-allocation-pattern|主权基金加密配置模式]] 描述的"5-10 年战略部署"周期一致。SAMA 同时是 [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 创始 5 央行之一,Aramco 石油结算转 mBridge 是该天花板的执行通道。
+中東ソブリンファンドは 2014-2020 年において ETF / 間接保有を通じてのみ暗号資産に接触していた。2024-09 サウジアラビア PIF が戦略的に AUM の 1-3% をデジタル資産インフラに振り向けると公表。2025-Q4 Aramco × BlackRock 中東デジタル資産ファンドが正式公表、2026-Q1 に PoC 開始済み。Vision 2030 が底層のドライバー · 原油価格変動とデカップル、目標は石油ピーク予期下のキャッシュフローを前倒しでデジタルインフラ持分に転化することで、[[fintech/sovereign-fund-crypto-allocation-pattern|ソブリンファンド暗号配分パターン]] が示す「5-10 年戦略展開」サイクルと整合する。SAMA は同時に [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] 創設 5 中銀の 1 つでもあり、Aramco の石油決済の mBridge への移行が当該天井の実行チャネルとなる。
 
 ## Counterpoints
 
-$7T 是 NPV 上限估算,不是已实现资本 · 实际 5 年可动用部分受预算约束。沙特 PIF 内部对加密风险偏好分裂(PIF 与 Mubadala 立场不一致)。$200-500B 是基金目标,实际到位规模取决于 BlackRock 2026-2028 募集情况与中东地缘政治。ESG 框架下部分挪威 / 北欧主权基金不参与,中东三角不代表全部主权资本。
+$7T は NPV 上限推定であり、実現済み資本ではない · 実際 5 年間で動員可能な部分は予算制約を受ける。サウジ PIF 内部での暗号リスク選好は分裂している（PIF と Mubadala の立場は不一致）。$200-500B はファンドの目標であり、実際の到達規模は BlackRock の 2026-2028 募集状況および中東地政学に依存する。ESG フレームワーク下では一部のノルウェー / 北欧ソブリンファンドは参加せず、中東トライアングルがソブリン資本のすべてを代表するわけではない。
 
 ## Open questions
 
-Aramco $7T 估值的"储量 NPV"折现率假设(油价 $80 vs $100)对天花板的敏感性?Aramco × BlackRock 基金 5 年实际部署速度?中东三角(沙特 + UAE + Qatar)与挪威 GPFG($1.7T)、新加坡 GIC + Temasek 之间的配置策略差异?$200-500B 落地对 BUIDL / Arc / Tempo 估值的传导链?
+Aramco $7T 評価額における「埋蔵量 NPV」割引率仮定（原油 $80 vs $100）の天井感応度は？Aramco × BlackRock ファンドの 5 年実展開速度は？中東トライアングル（サウジ + UAE + Qatar）と、ノルウェー GPFG（$1.7T）、シンガポール GIC + Temasek 間の配分戦略の差異は？$200-500B 着地が BUIDL / Arc / Tempo 評価額への伝導チェーンは？
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/sovereign-fund-crypto-allocation-pattern|主权基金加密配置模式]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA 架构]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street 加密网络中立]]
-- [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构]]
+- [[fintech/sovereign-fund-crypto-allocation-pattern|ソブリンファンド暗号配分パターン]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street 暗号資産ネットワーク中立]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Aramco × BlackRock 2025-Q4 公告 · PIF 2024-09 战略宣布
+- Aramco × BlackRock 2025-Q4 公表 · PIF 2024-09 戦略公表

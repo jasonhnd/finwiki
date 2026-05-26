@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/hyperledger-besu-overview.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/hyperledger-besu-overview.md",
   "domain": "systems",
-  "title": "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+  "title": "Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+    "title": "Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)",
     "aliases": [
       "hyperledger-besu-overview",
       "besu",
@@ -18,8 +18,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and 智能合约 bytecode forensic — 三层 verify 技术 for the broader system boundary.",
+  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and スマートコントラクト bytecode forensic — 三層 verify 技術 for the broader system boundary.",
   "headings": [
-    "Hyperledger Besu · EVM 兼容企业链(Quorum 进化)",
+    "Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2555,
-    "word_like_tokens": 459,
+    "nonspace_chars": 3061,
+    "word_like_tokens": 470,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

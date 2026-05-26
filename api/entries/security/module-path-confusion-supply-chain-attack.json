@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/module-path-confusion-supply-chain-attack.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/module-path-confusion-supply-chain-attack.md",
   "domain": "security",
-  "title": "Module path confusion + LICENSE strip = supply chain attack 三连击",
+  "title": "Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Module path confusion + LICENSE strip = supply chain attack 三连击",
+    "title": "Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃",
     "aliases": [],
     "domain": "security",
     "created": "2026-05-12",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-12",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-08",
     "confidence": "possible",
     "tags": [
@@ -31,13 +31,13 @@
   },
   "summary": "This entry sits under FinWiki index. Read it with fork-and-rebrand audit framework for peer context and systems index for the broader dependency boundary.",
   "headings": [
-    "Module path confusion + LICENSE strip = supply chain attack 三连击",
+    "Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃",
     "Wiki route",
-    "三连击拆解",
+    "三連撃の分解",
     "1. Module path confusion",
     "2. Replace hijack",
     "3. LICENSE strip",
-    "识别 checklist",
+    "識別 checklist",
     "When to Use",
     "When NOT to Use",
     "Counterpoints"
@@ -68,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2385,
-    "word_like_tokens": 408,
+    "nonspace_chars": 2708,
+    "word_like_tokens": 404,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

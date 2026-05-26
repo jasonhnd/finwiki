@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -46,11 +46,11 @@
     "TL;DR",
     "1. License / group boundary",
     "2. 持株ツリー",
-    "3. 合併歷史・前身",
+    "3. 合併経緯・前身",
     "はまぎん総研 設立",
     "CFG → YFG 商号変更 (2025-10-01)",
     "4. KPI table (concept) ^[ambiguous]",
-    "5. 业务线 map"
+    "5. 事業セグメント・マップ"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5124,
-    "word_like_tokens": 682,
+    "nonspace_chars": 5129,
+    "word_like_tokens": 681,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

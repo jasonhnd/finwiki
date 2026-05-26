@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,11 +40,11 @@
     "アイフル株式会社 (Aiful)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "業態カテゴリ",
     "主要グループ会社",
     "創業家・独立性",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "与信・テクノロジー",
     "ライフカード（2017 完全子会社化）"
   ],
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5672,
-    "word_like_tokens": 747,
+    "nonspace_chars": 5675,
+    "word_like_tokens": 746,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

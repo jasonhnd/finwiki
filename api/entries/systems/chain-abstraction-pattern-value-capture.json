@@ -6,19 +6,19 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/chain-abstraction-pattern-value-capture.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/chain-abstraction-pattern-value-capture.md",
   "domain": "systems",
-  "title": "跨链桥 commoditization 与链抽象层价值上移",
+  "title": "クロスチェーンブリッジコモディティ化とチェーン抽象層への価値上方シフト",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨链桥 commoditization 与链抽象层价值上移",
+    "title": "クロスチェーンブリッジコモディティ化とチェーン抽象層への価値上方シフト",
     "aliases": [
       "chain-abstraction-pattern-value-capture",
       "cross-chain bridge commoditization",
-      "跨链桥 commoditization"
+      "クロスチェーンブリッジコモディティ化"
     ],
     "domain": "systems",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -31,9 +31,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under systems index. Read it against 链抽象模式概览 · 用户不感知底层链的下一层基础设施 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under systems index. Read it against チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "跨链桥 commoditization 与链抽象层价值上移",
+    "クロスチェーンブリッジコモディティ化とチェーン抽象層への価値上方シフト",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2483,
-    "word_like_tokens": 387,
+    "nonspace_chars": 2905,
+    "word_like_tokens": 374,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

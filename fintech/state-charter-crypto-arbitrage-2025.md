@@ -3,8 +3,8 @@ title: State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race
 aliases: [state-charter-crypto-arbitrage-2025, wyoming-spdi-vs-occ, custodia-kraken-financial-charter, nevada-digital-asset-bank, nydfs-bitlicense-exit, texas-crypto-regulator-wins, occ-vs-state-turf-war]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, 2026-event, state-charter, wyoming, nevada, new-york, texas, occ, regulatory-arbitrage, spdi, bitlicense]
@@ -28,7 +28,7 @@ US crypto firms in 2025-2026 face a **four-way regulatory arbitrage**: the feder
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter 套利路径]] for the federal-arm-comparison, [[fintech/national-license-private-stablecoin-with-dpi-export|国家许可型 SC + DPI]] for the cross-jurisdictional pattern, [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 加密管辖]] for the parallel agency turf war, and [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] for the federal stablecoin statute backdrop. The licensing matrix view sits in [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing 多层体系]].
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter アービトラージ経路]] for the federal-arm-comparison, [[fintech/national-license-private-stablecoin-with-dpi-export|国家ライセンス型 SC + DPI]] for the cross-jurisdictional pattern, [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 暗号資産管轄]] for the parallel agency turf war, and [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] for the federal stablecoin statute backdrop. The licensing matrix view sits in [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing 多層体系]].
 
 ## The four arbitrage paths — comparison
 
@@ -40,7 +40,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 | **NYDFS BitLicense + Limited Purpose Trust** | NYDFS | NY only | No | Yes (Paxos, Gemini, Coinbase Custody) | Yes | 24-36+ mo | Paxos, Gemini Trust, Coinbase Custody, Circle (originally) |
 | **TX money services / DOB guidance** | TX Department of Banking | TX + reciprocity states | No | Issuer-routed (not chartered) | Yes (state trust) | 6-12 mo | Multiple — TX is the "non-NY non-CA pragmatic" state |
 
-The federal arm is documented in [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter 套利路径]]; this entry's job is to map the state side.
+The federal arm is documented in [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter アービトラージ経路]]; this entry's job is to map the state side.
 
 ## Wyoming SPDI — the speed leader
 
@@ -103,7 +103,7 @@ NYDFS pioneered **state-level crypto licensing** with the BitLicense (2015). For
 
 NYDFS's response has been to attempt regulatory modernization (proposed "Greenlist" updates, custody framework refinement) but the structural pressure is real: **a New York-only license is worse than a federal OCC charter for any firm with national ambitions, and worse than a Wyoming SPDI for any firm focused on speed and lower fixed cost.**
 
-The 2025-2026 inference: NYDFS's BitLicense will retain a base of NY-resident-centric custodians (Paxos National Trust, Gemini Trust) but will not be the growth venue. Compare the parallel international pattern in [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list 货币保护主义]] — NY is becoming a "high-stickiness incumbent state for crypto" rather than the inevitable national gateway it was in 2015-2020.
+The 2025-2026 inference: NYDFS's BitLicense will retain a base of NY-resident-centric custodians (Paxos National Trust, Gemini Trust) but will not be the growth venue. Compare the parallel international pattern in [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list 通貨保護主義]] — NY is becoming a "high-stickiness incumbent state for crypto" rather than the inevitable national gateway it was in 2015-2020.
 
 ## Texas — the pragmatic regulator wins
 
@@ -166,7 +166,7 @@ The dominant strategy by firm type:
 - Does Florida, Idaho, or another state launch a **third-generation digital asset bank charter** (post-Wyoming, post-Nevada) that solves the Fed master account access problem via political pressure?
 - Does Anchorage Digital's existing **OCC national trust bank** charter become the reference template, or does Bridge's **OCC trust bank conditional** path remain distinct?
 - Does NYDFS modernize the BitLicense framework enough to retain growth (proposed Greenlist 2.0 changes pending) or accept its incumbent-only role?
-- Does the CFTC vs SEC jurisdictional resolution (covered in [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 加密管辖]]) push more issuers toward OCC-route preferred chartering?
+- Does the CFTC vs SEC jurisdictional resolution (covered in [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 暗号資産管轄]]) push more issuers toward OCC-route preferred chartering?
 
 ## State by state — relative regulatory posture map (2026)
 
@@ -250,13 +250,13 @@ Square Financial Services (Block) remains the only crypto-adjacent ILC charter a
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/INDEX|fintech index]]
-- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter 套利路径]]
-- [[fintech/national-license-private-stablecoin-with-dpi-export|国家许可型 SC + DPI]]
-- [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 加密管辖]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust bank charter アービトラージ経路]]
+- [[fintech/national-license-private-stablecoin-with-dpi-export|国家ライセンス型 SC + DPI]]
+- [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 暗号資産管轄]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing 多层体系]]
-- [[fintech/regulatory-window-strategic-acquisition|监管窗口前战略收购]]
-- [[fintech/jurisdiction-list-monetary-protectionism|司法管辖列表 = 货币保护主义]]
+- [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing 多層体系]]
+- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略買収]]
+- [[fintech/jurisdiction-list-monetary-protectionism|司法管轄リスト = 通貨保護主義]]
 <!-- /wiki-links:managed -->
 
 ## Sources

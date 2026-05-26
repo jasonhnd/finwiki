@@ -3,8 +3,8 @@ title: 東邦銀行 (Toho Bank)
 aliases: ["Toho Bank", "The Toho Bank", "株式会社東邦銀行", "とうほう銀行", "東邦", "TOHO"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **福島県唯一の第一地方銀行・福島県内シェア No.1**、本店福島市、東証 PRIME 8346。1941-11-21 戦時統合で福島県内 5 行を統合して設立、1949 東証上場。**単独銀行体制**を維持し、2015 [[chiba-bank]] 主導の **TSUBASA アライアンスに参加**してシステム共同化と広域連携を進める。**2011-03-11 東日本大震災 + 福島第一原発事故の二重被災**を経験し、復興融資と原発事故関連帰還困難区域取引の中核を担う ★。略称「とうほう」。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社東邦銀行 ^[extracted]
 **英名**: The Toho Bank, Ltd. ^[extracted]
@@ -59,7 +59,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 注: 正確な系列子会社ラインナップは公式ディスクロージャー誌(年次)を要参照。^[ambiguous]
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 戦時統合期: 一県一行政策下の発足
 
@@ -92,7 +92,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2022-04** | **東証 PRIME 上場**(市場区分見直し)^[extracted] |
 | 2024〜 | 日銀政策金利正常化への対応、ポスト復興フェーズの人口減対策 ^[inferred] |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 地理的地盤
 
@@ -128,7 +128,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **東京電力からの原子力損害賠償**: 個人・法人賠償金の入金窓口役 ^[inferred]
 - **廃炉関連企業取引**: 廃炉作業関連の地元法人取引 ^[inferred]
 
-## 4. 财务概要
+## 4. 財務概要
 
 ### 規模感(公開情報ベース)^[ambiguous]
 
@@ -148,7 +148,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **役務収益**: 投資信託・保険・為替手数料
 - **その他**: 有価証券運用益(国債・地方債・社債等)、原発事故関連の特殊資金フロー
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁・東北財務局
 - **預金保険**: 預金保険機構加盟
@@ -202,5 +202,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**(v1.0 公開情報ベース 2026-05-19)。沿革(1941 戦時統合・1949 上場・TSUBASA 2015 参加)・震災原発事故対応の定性情報は Wikipedia 経由で公的に確認可能だが、最新財務数値・子会社ラインナップ・FY2024 決算数値・原発事故関連引当金は ^[ambiguous] 標注。次回 review(2026-11-15)時に公式有価証券報告書で校核要。**公開情報のみで構成、内部目録は一切引用していない。**

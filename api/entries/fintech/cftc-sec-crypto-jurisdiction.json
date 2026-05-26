@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cftc-sec-crypto-jurisdiction.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/cftc-sec-crypto-jurisdiction.md",
   "domain": "fintech",
-  "title": "CFTC vs SEC 加密管辖权之争 · 商品证券二分",
+  "title": "CFTC vs SEC 暗号管轄権争い · コモディティ証券二分法",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "CFTC vs SEC 加密管辖权之争 · FIT21/CLARITY Act 商品证券二分",
+    "title": "CFTC vs SEC 暗号管轄権争い · FIT21/CLARITY Act によるコモディティ証券二分法",
     "aliases": [
       "cftc-sec-jurisdiction",
       "CFTC vs SEC",
@@ -19,8 +19,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -44,7 +44,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "CFTC vs SEC 加密管辖权之争 · 商品证券二分",
+    "CFTC vs SEC 暗号管轄権争い · コモディティ証券二分法",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3269,
-    "word_like_tokens": 585,
+    "nonspace_chars": 3526,
+    "word_like_tokens": 601,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

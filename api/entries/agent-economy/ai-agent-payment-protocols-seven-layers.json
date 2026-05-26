@@ -6,18 +6,18 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/ai-agent-payment-protocols-seven-layers.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/ai-agent-payment-protocols-seven-layers.md",
   "domain": "agent-economy",
-  "title": "AI Agent 支付七协议分层表",
+  "title": "AI Agent 決済7プロトコル分層表",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "AI Agent 支付七协议分层表 · 意图 / 传输 / 上下文",
+    "title": "AI Agent 決済7プロトコル分層表 · 意図 / 伝送 / 文脈",
     "aliases": [
       "ai-agent-payment-seven-layers",
-      "AP2 x402 MCP A2A SPT ACP TAP 分层"
+      "AP2 x402 MCP A2A SPT ACP TAP 分層"
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -33,9 +33,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
   "headings": [
-    "AI Agent 支付七协议分层表",
+    "AI Agent 決済7プロトコル分層表",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2395,
-    "word_like_tokens": 436,
+    "nonspace_chars": 2758,
+    "word_like_tokens": 463,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

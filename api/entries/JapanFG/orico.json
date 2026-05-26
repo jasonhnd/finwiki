@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,13 +40,13 @@
     "株式会社オリエントコーポレーション (Orico)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "社名・略称の由来",
     "主要株主 (公開情報ベース) ^[extracted]",
     "主要子会社・関連法人 ^[inferred]",
     "重要年表 ^[extracted]",
-    "2. 业务线 map",
-    "3. 戦略与競争"
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6301,
-    "word_like_tokens": 806,
+    "nonspace_chars": 6306,
+    "word_like_tokens": 805,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

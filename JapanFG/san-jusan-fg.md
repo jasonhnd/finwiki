@@ -3,8 +3,8 @@ title: 三十三 FG (San ju San Financial Group)
 aliases: ["三十三フィナンシャルグループ", "San ju San FG", "三十三 FG", "San ju San Financial Group"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 三重県地盤の地銀 FG。**2018-04-02 三重銀行 + 第三銀行 経営統合**で発足、**2021-05-01 両行合併 → 三十三銀行**誕生。社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。中京経済圏の関西寄り境界に位置し、県内 No.1 [[hyakugo-bank]] (百五銀行) と競合。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社三十三フィナンシャルグループ
 **英名**: San ju San Financial Group, Inc.
@@ -64,7 +64,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2021-05-01**: 三重銀 + 第三銀 → **三十三銀行** 合併 (子銀行統合完了)
 - **2024**: 中期経営計画策定
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 工業 | 四日市コンビナート (石油化学) 関連 |
 | 水産 | 伊勢湾・熊野灘の漁業・水産加工 |
 
-## 4. 戦略与竞争
+## 4. 戦略・競争
 
 ### 地理ポジション
 
@@ -101,7 +101,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **システム統合**: 勘定系・営業店システム共通化
 - **コスト構造改善**: 統合シナジー追求 ^[inferred]
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁 (FSA) + 東海財務局
 - **持株会社規制**: 銀行法 第 52 条の 17
@@ -140,5 +140,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (v1.0 Wikipedia 公開情報ベース, 2026-05-19)。沿革・組織構造は Wikipedia 経由で確認、具体的財務数値は未掲載。最新の中計・決算は三十三 FG 公式 IR 要参照。

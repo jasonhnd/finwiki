@@ -11,8 +11,8 @@ aliases:
   - "toyota-tsusho"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, toyota-group, mobility, africa, ctc-africa, automotive-trading, captive-trading-house]
@@ -34,7 +34,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 豊田通商 (東証 PRIME **8015**) は **トヨタ自動車系の総合商社**、**Toyota Motor 持分約 22% 級主要株主** + **豊田自動織機 持分** という出資関係でトヨタグループ系列に組み込まれた **第 6 商社 / トヨタ系商社**。**自動車関連トレード (Toyota 海外ディーラー網、部品調達・物流)** + **アフリカ戦略 (CFAO 完全子会社化 2016 → アフリカ大陸最大級の流通網) で 5 大商社にない独自ポジション** + **モビリティ・新エネ (リチウム、レアアース)** が中核。JapanFG 文脈での重要性は (i) [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS)、(ii) [[JapanFG/toyota-financial|トヨタファイナンシャルサービス]] family (Toyota Motor 100% 子会社系、オートローン / リースプラットフォーム — 豊田通商とは別系列だが Toyota group ecosystem の中で隣接) との連携。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -75,7 +75,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2020s〜 | リチウム・レアアース・EV 電池サプライチェーン (Toyota EV 戦略連動) 強化 |
 | 2023 | Eurus Energy (再エネ大手) を [[JapanFG/tepco-hd|TEPCO HD]] と JV 化、洋上風力含む |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
@@ -101,7 +101,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 「**TFS = Toyota 車両販売 captive finance** (Toyota Motor 直系)」「**豊田通商 = ディーラー網・商社機能** (Toyota group 系商社)」「豊田通商フィナンス = 内向け CMS」の役割分担。商社系金融としては 5 大商社 (HCキャピタル / 東京センチュリー / SMFL / みずほリース / JA三井リース) のような **外向け総合リース捕捉** を持たないのが特徴 ^[inferred]
 
-## 4. 戦略与競争
+## 4. 戦略・競争
 
 ### Toyota グループ系商社の identity
 
@@ -121,7 +121,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **アフリカ**: 各国財閥商社、各国地場流通会社、5 大商社の散発的アフリカ進出
 - **自動車流通**: 各国 dealership groups、Toyota 自身の direct sales 拡大の可能性
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 (CFAO 連結子会社化後は連結) ^[extracted]
 - **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業対象 ^[inferred]
@@ -164,5 +164,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。豊田通商は public-surface で十分カバー。Toyota Motor 持分比率、CFAO 連結状況、Eurus Energy 再エネ容量 は最新 有価証券報告書 / 統合報告書 で都度更新。Toyota グループ ecosystem 内の TFS との役割境界も継続観察。

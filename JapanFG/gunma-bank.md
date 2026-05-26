@@ -3,8 +3,8 @@ title: 群馬銀行 (The Gunma Bank)
 aliases: ["群馬銀行", "Gunma Bank", "The Gunma Bank, Ltd.", "ぐんぎん", "群銀"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, no-holding]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 群馬県地盤の地銀（東証 PRIME 8334）。**1932-09 群馬大同銀行として設立**（大同銀+群馬商工銀+黒岩銀 統合）→ **1955 群馬銀行 改称**。**持株会社化していない単独銀行体制**を維持する首都圏 PRIME 上場地銀の代表格。**SUBARU 太田工場・上信越自動車道経済圏**を背景に自動車関連サプライチェーン融資が重要顧客基盤。2015 TSUBASA アライアンス参加でシステム共同化・海外サポート連携。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社群馬銀行 ^[extracted]
 **英名**：The Gunma Bank, Ltd.
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8334 継続 |
 | 2024 | 中期経営計画（具体期間・名称は公表 IR を要参照）^[likely] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -90,7 +90,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **隣接県進出**: 埼玉県（熊谷・本庄・深谷・川越）/ 栃木県 / 東京都北部 / 神奈川 / 千葉 / 大阪 / 名古屋
 - **特徴**: **上信越自動車道経済圏**（関越道 + 上信越道）沿線の物流・製造業 → 自動車・部品・電機 サプライチェーン融資
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 産業基盤特性
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **武蔵野銀行** | 埼玉県地盤、群馬銀行の埼玉北部進出と競合 |
 | **メガ 3 行** | 大口法人・上場企業向けでは [[mufg]] / [[smfg]] / [[mizuho-fg]] と競合 |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）・関東財務局
 - **業界**: 全国地方銀行協会（地銀協）加盟・第二地銀協会 非加盟（第 1 地銀）
@@ -159,5 +159,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v2.0 Wikipedia + 公開 IR 参照 2026-05-19）。設立年月（1932-09）・改称年（1955）・上場（東証 PRIME 8334）・TSUBASA 参加（2015）は公開情報ベース。中期経営計画 具体数値・子会社持分・最新決算は公式 IR を要参照。SUBARU サプライチェーン融資集中度は構造的特性として推定（公的開示なし）。

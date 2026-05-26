@@ -3,8 +3,8 @@ title: "いよぎんリース (Iyogin Leasing)"
 aliases: ["Iyogin Leasing", "いよぎんリース", "株式会社いよぎんリース", "Iyo Bank Leasing", "伊予銀リース"]
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, iyogin-hd, iyo-bank, leasing, shikoku, ehime, operating-company]
@@ -26,7 +26,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 株式会社いよぎんリースは、[[iyogin-hd|いよぎん HD (東証 PRIME 5830)]] グループの地銀系リース会社で、中核子会社 [[iyo-bank|伊予銀行]] (1878 第二十九国立銀行設立、愛媛県シェア No.1) の中堅企業 main bank 顧客基盤を背景に、**愛媛県 + 四国全域 + 大阪・東京・広島等本州拠点**で設備リース・ファイナンスリース・オペレーティングリース・自治体リース・医療リース・**海事クラスター (今治造船 + 海運) 設備リース**・農業機械リース・オートリース等を提供。四国 4 県の地銀系リースとしては最大級で、[[iyogin-hd]] 2022-10-03 持株会社化後にグループ並列子会社の一角として再配置された。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -133,7 +133,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - 強み: [[iyo-bank|伊予銀行]] 愛媛県シェア No.1 + 四国広域営業 + **海事クラスター差別化** (今治造船連携) + 製紙業・農業など愛媛特有産業
 - 弱み: 単独規模では大手リースに大幅劣後、航空機 / 大型不動産 / 海外複雑リースは対応困難、四国 = 人口減少先行地域 ^[inferred]
 
-## 5. 监管与会计
+## 5. 規制・会計
 
 ### 規制枠組み
 
@@ -201,5 +201,5 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[iyogin-hd]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[iyogin-hd]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・合併経緯・海事クラスター取扱高比率の正確な数値は ambiguous ^[ambiguous]。

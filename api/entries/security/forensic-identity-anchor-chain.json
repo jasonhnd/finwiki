@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/forensic-identity-anchor-chain.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/forensic-identity-anchor-chain.md",
   "domain": "security",
-  "title": "团队真实身份 forensic anchor chain — 多源指纹拼合",
+  "title": "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "团队真实身份 forensic anchor chain — 多源指纹拼合",
+    "title": "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
     "aliases": [],
     "domain": "security",
     "created": "2026-05-12",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-12",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-08",
     "confidence": "possible",
     "tags": [
@@ -31,10 +31,10 @@
   },
   "summary": "This entry sits under FinWiki index. Read it with bytecode forensic for peer context and systems index for the broader infrastructure boundary.",
   "headings": [
-    "团队真实身份 forensic anchor chain — 多源指纹拼合",
+    "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
     "Wiki route",
-    "6 个独立指纹源",
-    "拼合 logic",
+    "6つの独立指紋源",
+    "合成 logic",
     "Anti-pattern",
     "When to Use",
     "When NOT to Use",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2524,
-    "word_like_tokens": 433,
+    "nonspace_chars": 2815,
+    "word_like_tokens": 409,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

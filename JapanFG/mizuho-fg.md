@@ -3,8 +3,8 @@ title: みずほ FG (Mizuho FG)
 aliases: ["Mizuho FG", "Mizuho Financial Group", "みずほフィナンシャルグループ", "みずほ FG", "MHFG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: certain
 tags: [JapanFG, megabank]
@@ -27,7 +27,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 日本第 3 大金融集団・3 大メガバンクの一角（総資産 **283.3 兆円**、純利益 **8854 億円**（過去最高）/ 2025-03 期実績）^[extracted]。2003-01-08 に**第一勧業銀行 + 富士銀行 + 日本興業銀行 3 行統合**を起源とする持株会社。3 行合併由来の構造的複雑性と**2002 / 2011 / 2021 連発の大規模システム障害**が長らくブランド毀損要因。**「One MIZUHO」**戦略でグループ一体運営へ。**楽天証券との資本業務提携**（2022-11-〜）・**PayPay 銀行への戦略出資**・**サイバーエージェントとの合弁（CA Mobile / その他）**で B2C デジタル弱点をパートナー連携で補完。G-SIB Bucket 1。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**: 株式会社みずほフィナンシャルグループ ^[extracted]
 **英名**: Mizuho Financial Group, Inc.
@@ -85,7 +85,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── サイバーエージェント関連合弁（CA Mobile 他）
 ```
 
-### 合併歴史・前身
+### 合併経緯・前身
 
 - 旧 **第一勧業銀行 (DKB)**: 1971 第一銀行 + 日本勧業銀行 合併。旧第一銀行は 1873 渋沢栄一創設の日本最古の銀行
 - 旧 **富士銀行**: 1948〜（旧 安田銀行 / 安田財閥系）戦後 GHQ 財閥解体で改名
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2002-04** | **第 1 次大規模システム障害**（合併初日。ATM 停止・口座振替遅延・二重引落） |
 | 2003-01-08 | みずほ FG 発足（純粋持株会社化、東証 1 部上場） |
 | 2006-11-08 | NYSE 上場（MFG） |
-| **2011-03** | **第 2 次大規模システム障害**（東日本大震災義援金処理過多 → 口座振替遅延、給与振込ストップ） |
+| **2011-03** | **第 2 次大規模システム障害**（東日本大震災義援金処理過多 → 口座振替遅延、に与振込ストップ） |
 | 2013-07-01 | みずほ銀行 + みずほコーポレート銀行 → 新みずほ銀行 再統合 |
 | 2014-06 | 指名委員会等設置会社 移行 |
 | 2016-07-01 | みずほ証券 + 新光証券（傘下証券）完全統合 |
@@ -123,7 +123,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2025-03 | 純利益 8854 億円 達成（過去最高更新） |
 | **2025-09** | **米 Bain Capital と共同で日本企業向け PE / 投資ファンド組成発表**（規模数千億円規模） ^[extracted] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -138,9 +138,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信販・カード | オリコ（持分法 約 49%）+ みずほ楽天カード | UC カード（三菱 UFJ ニコス系）から距離 |
 | リース | みずほリース（持分法 23.5%、丸紅 23%）| 東証 PRIME 8425 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
-### 数字化转型
+### デジタル戦略
 
 - **「One MIZUHO」戦略**: 3 行カルチャー統合・グループ一体運営の長期テーマ ^[extracted]
 - **e-Mizuho**: 個人向けデジタルバンキング ^[extracted]
@@ -148,7 +148,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **AI / ChatGPT 業務活用**: 2023-04 全社員向け ChatGPT 利用環境整備（メガバンク初級）^[ambiguous]
 - **Progmat Coin 参画**: MUFG 主導のステーブルコイン基盤に加盟 ^[inferred]
 
-### 合纵连横
+### 提携・買収戦略
 
 - **楽天証券 資本業務提携**（2022-10〜）★: みずほ証券が楽天証券株 約 49% 取得（後段階増資で約 50% 弱）、約 800 億円規模。**メガ初の外部ネット証券深掘り出資**。リテール顧客チャネルと商品プラットフォーム共通化 ^[extracted]
 - **米 Greenhill 買収**（2023-09 完了、約 770 億円 / 5.5 億ドル）: グローバル M&A アドバイザリー独立系を傘下化、邦銀初の独立系投資銀行買収 ^[extracted]
@@ -171,7 +171,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **大型スポーツ命名権 / スタジアム命名権**: [[mufg]] のような目立つ B2C ブランディングは限定的 ^[inferred]
 - **楽天証券連携**: 楽天経済圏との接続が事実上の B2C 戦略 ^[inferred]
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **G-SIB Bucket 1**: FSB 認定（+1.0% CET1 追加資本要件）^[inferred]
@@ -225,5 +225,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **extracted**（v1.1 Wikipedia infobox + 公式 IR 校核 2026-05-19）。2025-03 期決算（純利益 8854 億・総資産 283.3 兆）と主要株主比率は確報値に置換済（旧 "約 295 兆 / 17.5% / 6.2%" は概数誤差で訂正）。FY2025（2026-03 期）決算は 2026-05-15 公表だが本稿未取込。Greenhill 買収金額（770 億円 / 5.5 億ドル）と楽天証券資本提携額（約 800 億円）は当時の為替・取引構造で変動あり。PayPay 銀出資詳細のみ ^[ambiguous] 残置。

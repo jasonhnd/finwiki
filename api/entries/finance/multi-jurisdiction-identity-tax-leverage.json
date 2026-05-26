@@ -6,15 +6,15 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/finance/multi-jurisdiction-identity-tax-leverage.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/finance/multi-jurisdiction-identity-tax-leverage.md",
   "domain": "finance",
-  "title": "跨境身份组合的税务杠杆",
+  "title": "クロスボーダー身分組合せの税務レバレッジ",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨境身份组合的税务杠杆",
+    "title": "クロスボーダー身分組合せの税務レバレッジ",
     "aliases": [],
     "domain": "finance",
     "created": "2026-04-20",
-    "last_updated": "2026-05-03",
-    "last_tended": "2026-05-05",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-10-30",
     "confidence": "possible",
     "tags": [
@@ -33,16 +33,16 @@
   },
   "summary": "This entry sits under finance index. Read it with securities index for adjacent context and money-market index for the broader system boundary.",
   "headings": [
-    "跨境身份组合的税务杠杆",
+    "クロスボーダー身分組合せの税務レバレッジ",
     "Wiki route",
-    "核心命题",
-    "三层收益维度",
-    "1. 资本利得税（Capital Gains Tax）",
-    "2. 继承税 / 遗产税（Inheritance / Estate Tax）",
-    "3. 营业 / 个人所得税（Income Tax）",
-    "期权行权的三个关键时机",
-    "A. 积累期结束（本金触发阈值）",
-    "B. 退休年龄前（提取策略启动）"
+    "中核命題",
+    "3層の収益軸",
+    "1. 資本利得税(Capital Gains Tax)",
+    "2. 相続税 / 遺産税(Inheritance / Estate Tax)",
+    "3. 事業 / 個人所得税(Income Tax)",
+    "オプション権利行使の3つのクリティカルなタイミング",
+    "A. 積上げ期の終了(元本が閾値に到達)",
+    "B. 退職年齢前(引き出し戦略の開始)"
   ],
   "body_links": {
     "wikilinks_count": 5,
@@ -64,9 +64,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2831,
-    "word_like_tokens": 473,
+    "nonspace_chars": 3243,
+    "word_like_tokens": 482,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

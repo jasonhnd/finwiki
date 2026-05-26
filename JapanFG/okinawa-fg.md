@@ -3,8 +3,8 @@ title: おきなわ FG (Okinawa FG)
 aliases: ["Okinawa FG", "おきなわフィナンシャルグループ", "Okinawa Financial Group", "株式会社おきなわフィナンシャルグループ", "OFG", "OkiFG"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa]
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 沖縄県地盤の単独地銀 FG（連結総資産 **2 兆 8552 億円**、純利益 **79 億円** / 2025-03 期、純利益 **+27% 増**）。2021-10-01 [[okinawa-bank|沖縄銀行]] の単独株式移転で持株会社化、東証 PRIME 7350。県内 No.1 地銀 **[[okinawa-bank|沖縄銀行]]（1956 設立、県指定金融機関を [[ryukyu-bank]] と隔年受託）+ おきぎん証券・おきぎんリース・おきぎん JCB** 等の県内完結グループ構造。**観光業 V 字回復（那覇空港第 2 滑走路・JUNGLIA テーマパーク 2025〜開業）+ 法人融資強化 + 有価証券利回り改善 + 投信販売・事業承継手数料増**が直近の追い風。県内 3 行（[[okinawa-bank|沖縄銀行]]・[[ryukyu-bank]]・[[okinawa-kaiho-bank|沖縄海邦銀行]]）寡占構造で、**沖縄銀行が県内預貸金シェア約 30% で首位**を維持。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社おきなわフィナンシャルグループ
 **英名**：Okinawa Financial Group, Inc.
@@ -128,7 +128,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2025-05-09** | **2025-03 期 純利益 +27%、中計目標 上方修正発表**（連結経常収益 710 億・純利益 110 億・ROE 約 6.20% に上方修正）|
 | 2025-07 | おきぎんサクセスパートナーズ 設立（事業承継・M&A）|
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -142,7 +142,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | サービサー | 美ら島債権回収 | グループ債権処理 |
 | シンクタンク | おきぎん経済研究所 | 県内経済統計・観光統計の有力データソース |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 第 2 次中期経営計画『成長の共創〜おきなわの成長をともに創る〜』（2024-04〜2027-03）
 
@@ -183,7 +183,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 代表取締役会長 | 玉城 義昭 |
 | 代表取締役社長 | 山城 正保（沖縄銀行 頭取兼任）|
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）・日本銀行那覇支店
 - **持株会社規制**: 銀行法 第 52 条の 17（銀行持株会社）
@@ -231,5 +231,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（Wikipedia + 公式沿革 + 日経 IR 報道 + 公式 IR ページ 2026-05-19 校核）。FY2025 純利益・経常収益・貸出金は公表値ベース。預金残高・自己資本比率・店舗数は時点差で揺れあり（最新値は 2026-03 期 決算短信 2026-05 公表待ち）。主要株主は 2022-03 末ベース、最新比率は最新有報を要参照。

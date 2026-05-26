@@ -3,8 +3,8 @@ title: 株式会社沖縄海邦銀行
 aliases: ["沖縄海邦銀行", "海邦銀行", "かいぎん", "海銀", "Okinawa Kaiho Bank", "The Okinawa Kaiho Bank, Ltd."]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa, second-tier]
@@ -30,7 +30,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 沖縄県地盤の第二地方銀行（東証 STD **8554**、略称「**かいぎん**」/「海銀」）。**1949 國場相互銀行 として設立**（米軍政下・本土復帰前の B 円通貨時代）→ 1972-05 沖縄本土復帰で日本の銀行免許に転換 → **1989-04 普通銀行転換**（第二地方銀行協会加盟）。沖縄県内 No.3 金融機関で、上位 2 行（県内 No.1=沖縄銀行 [[okinawa-fg]] 傘下、No.2=琉球銀行 [[ryukyu-bank]]）の二強体制に対し、**中小企業融資 + 個人融資 + 観光業 + 米軍基地経済 + 離島網羅** の地域密着型ニッチ戦略で第三勢力を確保。預貸金シェアは県内約 10% 級。本店は那覇市久茂地（沖銀・琉銀と同一エリア・徒歩圏内）。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社沖縄海邦銀行
 **英名**：The Okinawa Kaiho Bank, Limited
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 子会社規模・名称は最新ディスクロージャー誌を要参照。沖縄県内 No.3 規模ゆえ、沖銀・琉銀のような体系的グループ展開ではなく、本体銀行業務中心の構造。
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -89,7 +89,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **カード・決済** | JCB / DC 提携カード、地域 QR 決済への参画 |
 | **シンジケート参加** | 県内大型案件で沖銀・琉銀主幹事のシンジケートに参加するセカンドティア役 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 第二地銀ゆえの戦略テーマ
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **県内 3 行 → 2 行統合論**: [[okinawa-fg]] の Counterpoints 欄でも触れられている通り、海邦銀行の経営体力次第で県内再編論が浮上しうる ^[ambiguous]
 - 現状は均衡維持。本土第二地銀の統合事例（[[fidea-hd]]・北日本 FG 等）と異なり、**沖縄では 3 行寡占が長期安定**
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **地域監督**: 福岡財務支局 沖縄財務事務所
@@ -172,5 +172,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**。公開項目・公式 IR・沖縄県金融業界一般情報のみに基づく。設立年（1949 國場相互銀行）・本土復帰時の転換（1972-05）・普通銀行転換（1989-04）・東証コード（8554 STD）は確立済。直近業績数値・子会社持分比率・最新預貸金シェアの正確値は最新ディスクロージャー誌を要参照。商号変遷の中間時期（「沖縄相互銀行」期間）は要追加確認。

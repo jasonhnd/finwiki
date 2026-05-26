@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-bridge-security-insurance-matrix-2026.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/systems/cross-chain-bridge-security-insurance-matrix-2026.md",
   "domain": "systems",
-  "title": "跨链桥安全与保险矩阵 2026 · 14 协议 trust model / hack history / coverage 全景",
+  "title": "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコル trust model / hack history / coverage 全景",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨链桥安全与保险矩阵 2026 · 14 协议 trust model / hack history / coverage 全景",
+    "title": "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコル trust model / hack history / coverage 全景",
     "aliases": [
       "cross-chain bridge security insurance matrix 2026",
       "bridge security comparison 2026",
@@ -19,8 +19,8 @@
     ],
     "domain": "systems",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -66,9 +66,9 @@
       "https://l2beat.com/bridges/summary"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against 跨链五极对照矩阵 for the general 9-axis bridge comparison, and use 跨链四极架构概览 for the underlying architecture taxonomy. For protocol-specific deep dives see CCTP V2 overview · CCTP V2 technical spec · Hyperlane overview · Hyperlane ISM modular security · La",
+  "summary": "This entry sits under systems index. Read it against クロスチェーン 5 極対照マトリクス for the general 9-axis bridge comparison, and use クロスチェーン 4 極アーキテクチャ概観 for the underlying architecture taxonomy. For protocol-specific deep dives see CCTP V2 overview · CCTP V2 technical spec · Hyperlane overview · Hyperlane ISM",
   "headings": [
-    "跨链桥安全与保险矩阵 2026 · 14 协议 trust model / hack history / coverage 全景",
+    "クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコル trust model / hack history / coverage 全景",
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
@@ -131,9 +131,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 20295,
-    "word_like_tokens": 3314,
+    "nonspace_chars": 21416,
+    "word_like_tokens": 3400,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

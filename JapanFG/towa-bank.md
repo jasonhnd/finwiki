@@ -3,8 +3,8 @@ title: 東和銀行 (The Towa Bank)
 aliases: ["東和銀行", "Towa Bank", "The Towa Bank, Ltd.", "とうわ", "とうわ銀行", "8558"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -26,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 群馬県前橋市に本店を置く**第二地方銀行**（東証 PRIME 8558）。**1917-11-01 群馬無尽株式会社**として創業、相互銀行転換（1951）を経て **1989 普通銀行転換に合わせて東和銀行 改称**。**持株会社化していない単独銀行体制**で、群馬県内では第 1 地銀 [[gunma-bank]] に次ぐ県内 No.2 ポジション。中小企業特化型営業基盤と **SUBARU 太田工場サプライチェーン金融**が法人ビジネスの中核。**2003 旧第一勧業銀行（現 [[mizuho-fg]]）系との戦略提携**で広域連携体制を構築。略称「とうわ」。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社東和銀行 ^[extracted]
 **英名**：The Towa Bank, Ltd.
@@ -58,7 +58,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > 具体的子会社名・出資比率の最新値は公式 IR / 有価証券報告書を要参照。
 
-## 2. 重要历史
+## 2. 沿革
 
 ### 沿革年表 ^[extracted]
 
@@ -86,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 無尽 → 相互銀行 → 普通銀行（第二地銀）と日本の中小企業金融機関の典型的業態進化を辿った銀行 ^[extracted]。
 
-## 3. 业务线 map
+## 3. 事業セグメント・マップ
 
 | セグメント | 特徴 |
 |---|---|
@@ -103,7 +103,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **隣接県進出**: 埼玉県北部（熊谷・本庄 等）/ 栃木県 / 東京北部 一部
 - **特徴**: **群馬県中小企業特化** + **SUBARU 太田工場経済圏**
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 産業基盤特性
 
@@ -135,7 +135,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **店舗網**: 県内中小企業地区への店舗密着配置 ^[likely]
 - **メイン銀行ポジション**: 県内中小企業 主取引銀行の割合は [[gunma-bank]] と並ぶ二大主力 ^[inferred]
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）・関東財務局
 - **業界**: **第二地方銀行協会（第二地銀協）加盟**（全国地方銀行協会 = 第 1 地銀協 非加盟）^[extracted]
@@ -179,5 +179,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v2.0 Wikipedia + 公開 IR 参照 2026-05-19）。創業（1917-11-01 群馬無尽）・改称沿革（1942 群馬殖産無尽 → 1951 群馬相互 → 1989 東和銀行）・上場（東証 PRIME 8558）・本店所在（前橋市）・第二地銀協加盟・[[mizuho-fg]] 系（旧第一勧銀）提携（2003）は公開情報ベース。中期経営計画 具体数値・子会社一覧・最新決算・株主構成は公式 IR を要参照。SUBARU 中小サプライヤー融資集中度は構造的特性として推定（公的開示なし）。

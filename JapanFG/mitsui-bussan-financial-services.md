@@ -8,8 +8,8 @@ aliases:
   - "mitsui-bussan-financial-services"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: possible
 tags: [JapanFG, finance, trading-company-finance, mitsui-bussan, group-treasury, factoring, cms]
@@ -31,7 +31,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 三井物産フィナンシャルサービス は **三井物産 (8031)** 100% 子会社の **グループ内金融サービス会社**。三井物産グループの **CMS (キャッシュマネジメント) / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金** といった group-treasury 機能を担う。リース系 (外向け asset finance) は別途 [[JapanFG/ja-mitsui-leasing|JA三井リース]] (三井物産 + 農林中金系 JV) が担うため、本社は「外向けリース = JA三井リース / 内向け = 三井物産FS」の二層構造。^[inferred]
 
-## 1. 公司结构
+## 1. 会社概要
 
 | Item | Notes |
 |---|---|
@@ -58,7 +58,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 注：三井物産は旧 三井財閥本流の伝統的に銀行・信託・生損保への直接出資が薄く、グループ金融は SMBC / SMTB / 三井住友海上 ([[JapanFG/mitsui-sumitomo-insurance|MSI]]) との合従連衡で構築する形が中心。住友商事との合弁である [[JapanFG/smfl|SMFL]] (SMFG + 住友商事) とは違い、三井物産自体は SMFG 系リース子会社の出資には参画していない。^[inferred]
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 内容 |
 |---|---|
@@ -69,7 +69,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **コモディティ取引付随金融** | 三井物産本体の鉄鉱石・原油・LNG・銅 等の商品取引に紐づく与信・ヘッジ仲介 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 三井物産の事業構造と金融機能
 
@@ -91,7 +91,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 豊田通商 | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | グループ内 captive |
 | 双日 | [[JapanFG/sojitz-finance|双日フィナンス]] | 専業なし |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁 (貸金業 / 為替業務関連)
 - **業界団体**：(商社系内部金融としてリース事業協会への加盟は限定的) ^[inferred]
@@ -142,5 +142,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **tentative** (公開情報ベース 2026-05-24)。三井物産FS は非上場 100% 子会社で外部開示が限定的。最新の業務範囲 / 子会社一覧は 三井物産 有価証券報告書 関係会社一覧 を要参照。商社系 group-treasury の典型像としての位置付けは確実。**親 商社 ページ `mitsui-co.md` / `mitsui-bussan-corp.md` は未作成 → 将来的に backlog として追加予定**。

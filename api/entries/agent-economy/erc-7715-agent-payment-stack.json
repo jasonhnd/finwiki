@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/agent-economy/erc-7715-agent-payment-stack.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/agent-economy/erc-7715-agent-payment-stack.md",
   "domain": "agent-economy",
-  "title": "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+  "title": "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+    "title": "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調",
     "aliases": [
       "erc-7715-stack",
       "agent-payment-stack",
@@ -17,8 +17,8 @@
     ],
     "domain": "agent-economy",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -32,9 +32,9 @@
     "status": "candidate",
     "sources": []
   },
-  "summary": "This entry sits under AI Agent 支付协议总图 · 七协议格局概览. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
   "headings": [
-    "ERC-7715 与 agent payment stack · x402 + AP2 + 4337/7702 协同",
+    "ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3111,
-    "word_like_tokens": 546,
+    "nonspace_chars": 3455,
+    "word_like_tokens": 558,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

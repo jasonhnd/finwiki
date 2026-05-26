@@ -1,10 +1,10 @@
 ---
 title: "JapanFG financial reports 2020+ index"
-aliases: ["JapanFG 财报索引", "金融公司五年财报索引", "2020+ financial reports", "Japan financial company report index"]
+aliases: ["JapanFG 財報索引", "金融会社五年財報索引", "2020+ financial reports", "Japan financial company report index"]
 domain: JapanFG
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, financial-reports, IR, disclosure, annual-report]
@@ -18,25 +18,25 @@ sources:
 
 ## TL;DR
 
-本页把 [[JapanFG/INDEX|JapanFG namespace]] 中金融公司 / 金融机构的 **2020 年以来官方财报、统合报告书、ディスクロージャー誌、有価証券報告書、母公司年报入口** 汇总到一张索引里。
+本ページは [[JapanFG/INDEX|JapanFG namespace]] 中の金融会社 / 金融機関の **2020 年以降の公式財務報告、統合報告書、ディスクロージャー誌、有価証券報告書、親会社年次報告書入口** を一つのインデックスにまとめている。
 
-口径是 **archive-first**：优先记录能覆盖 2020 以来全部报告的官方 archive / backnumber 页面；只有在官方页面没有完整 archive 时，才记录直接 PDF 样例、母公司年报、监管披露或“公开年报缺口”。
+方針は **archive-first**：2020 年以降の全レポートをカバーできる公式 archive / backnumber ページを優先記録；公式ページに完全な archive がない場合のみ、直接 PDF サンプル、親会社年次報告書、規制開示、または「公開年次報告書ギャップ」を記録する。
 
 ## Scope
 
-- 覆盖：JapanFG 下的银行、FG、政策金融、信托、证券、保险、信販、租赁、支付、fintech、暗号資産、短資会社、外资在日法人 / 支店。
-- 排除：非公司横向页 [[JapanFG/bnpl-landscape|bnpl-landscape]]、[[JapanFG/boj-monetary-policy|boj-monetary-policy]]、[[JapanFG/installment-sales-act-2020-amendment|installment-sales-act-2020-amendment]]、[[JapanFG/japan-policy-finance-map|japan-policy-finance-map]]、[[JapanFG/jsda|jsda]]、[[JapanFG/local-bond-market|local-bond-market]]，以及 deprecated 误链接 [[JapanFG/ssjbank|ssjbank]]。
-- 日期基准：2026-05-20 JST。若 2026-03 期 annual / integrated report 尚未公开，不强行补。
-- “2020+” 指 2020 年以来可追踪的年度报告链路；若公司在 2020 后才成立，表中明确列出前身公司 / 母公司边界。
+- 対象：JapanFG 下の銀行、FG、政策金融、信託、証券、保険、信販、リース、決済、fintech、暗号資産、短資会社、外資在日法人 / 支店。
+- 除外：会社横断ページ [[JapanFG/bnpl-landscape|bnpl-landscape]]、[[JapanFG/boj-monetary-policy|boj-monetary-policy]]、[[JapanFG/installment-sales-act-2020-amendment|installment-sales-act-2020-amendment]]、[[JapanFG/japan-policy-finance-map|japan-policy-finance-map]]、[[JapanFG/jsda|jsda]]、[[JapanFG/local-bond-market|local-bond-market]]、および deprecated 誤リンク [[JapanFG/ssjbank|ssjbank]]。
+- 日付基準：2026-05-20 JST。2026-03 期 annual / integrated report が未公開の場合は無理に補完しない。
+- 「2020+」は 2020 年以降追跡可能な年次報告書リンクを指す；2020 年以降に設立された会社の場合、表中で前身会社 / 親会社境界を明記する。
 
 ## Status legend
 
 | Status | Meaning |
 |---|---|
-| complete | 官方 archive / backnumber 已能覆盖 2020-2025，或成立较晚但前身边界清楚 |
-| boundary | 不是单一上市主体，需要母公司、前身公司、子公司或日本实体边界说明 |
-| partial | 官方入口存在，但仍需逐年展开 PDF 或存在 2020 缺口 |
-| gap | 未找到公开 annual report / disclosure archive，只能挂公司、评级、监管或母公司入口 |
+| complete | 公式 archive / backnumber が 2020-2025 をカバー、または設立が遅いが前身境界が明確 |
+| boundary | 単一上場主体ではなく、親会社、前身会社、子会社、または日本実体境界の説明が必要 |
+| partial | 公式入口は存在するが、年ごとの PDF 展開が必要、または 2020 ギャップあり |
+| gap | 公開 annual report / disclosure archive が見つからず、会社、格付、規制、または親会社入口のみ掲載可能 |
 
 ## Source matrix
 
@@ -142,7 +142,7 @@ sources:
 | complete | [[JapanFG/nishi-nippon-fhd|nishi-nippon-fhd]] | [NNFH disclosure](https://www.nnfh.co.jp/shareholder/ir/disclosure.html) | integrated / disclosure | 2020-2025 | official archive |
 | complete | [[JapanFG/nomura-hd|nomura-hd]] | [Nomura annual reports](https://www.nomuraholdings.com/investor/library/ar/index.html) | annual / integrated | 2020-2025 | official archive |
 | complete | [[JapanFG/norinchukin|norinchukin]] | [Norinchukin annual reports](https://www.nochubank.or.jp/en/ir/annual_report/) | annual / integrated | 2020-2025 | official archive |
-| boundary | [[JapanFG/ntt-tc-lease|ntt-tc-lease]] | [NX・TC company / settlement notices](https://www.nxtclf.co.jp/aboutus/) | decision notices | 2021-2025 | 2021 company-split boundary;旧 NTT・TC |
+| boundary | [[JapanFG/ntt-tc-lease|ntt-tc-lease]] | [NX・TC company / settlement notices](https://www.nxtclf.co.jp/aboutus/) | decision notices | 2021-2025 | 2021 company-split boundary; 旧 NTT・TC |
 | partial | [[JapanFG/ogaki-kyoritsu-bank|ogaki-kyoritsu-bank]] | [OKB investor top](https://www.okb.co.jp/investor/) | integrated / disclosure | 2024-2025 surfaced | older years need direct annual page expansion |
 | complete | [[JapanFG/okasan-sg|okasan-sg]] | [Okasan securities reports](https://www.okasan.jp/ir/finance/securities_report.html) | securities reports | 2020-2025 | official archive |
 | boundary | [[JapanFG/okinawa-fg|okinawa-fg]] | [Okinawa FG investor](https://www.okinawafg.co.jp/shareholder_investor/) | disclosure / integrated / business report | disclosure 2021-2025; integrated 2022-2025 | 2020 use predecessor Okinawa Bank |
@@ -281,6 +281,8 @@ For these, the reliable five-year source is normally the parent annual report pl
 3. Save downloaded PDFs outside the wiki first, e.g. `~/Downloads/JapanFG-financial-reports-2020-plus/`, grouped by slug.
 4. Only after hash / filename normalization, link the PDF manifest back into this page or each company page.
 5. Do not download every parent foreign-bank report into JapanFG unless the Japan page needs it; many are global 300-500 page annual reports.
+
+
 
 ## Related
 

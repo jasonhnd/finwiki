@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/ripple-rlusd-stablecoin.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/fintech/ripple-rlusd-stablecoin.md",
   "domain": "fintech",
-  "title": "Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链",
+  "title": "Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链",
+    "title": "Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン",
     "aliases": [
       "ripple-rlusd-stablecoin",
       "RLUSD",
@@ -17,8 +17,8 @@
     ],
     "domain": "fintech",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -41,7 +41,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "Ripple RLUSD · 银行级合规优先稳定币 · XRPL + Ethereum 双链",
+    "Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3118,
-    "word_like_tokens": 549,
+    "nonspace_chars": 3554,
+    "word_like_tokens": 556,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

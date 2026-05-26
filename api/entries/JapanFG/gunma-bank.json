@@ -20,8 +20,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,13 +41,13 @@
     "群馬銀行 (The Gunma Bank, Ltd.)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "持株会社化していない論点",
     "主要子会社・関連事業 ^[likely]",
     "重要年表（抜粋）^[extracted]",
-    "2. 业务线 map",
+    "2. 事業セグメント・マップ",
     "営業エリア地理",
-    "3. 战略与竞争"
+    "3. 戦略・競争"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4282,
-    "word_like_tokens": 592,
+    "nonspace_chars": 4287,
+    "word_like_tokens": 591,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

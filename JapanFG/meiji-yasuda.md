@@ -3,8 +3,8 @@ title: 明治安田生命保険相互会社
 aliases: ["明治安田生命", "Meiji Yasuda Life", "Meiji Yasuda", "明治安田", "MY 生命"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
@@ -23,9 +23,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-日本初の近代生命保険会社 **明治生命**（1881 創業）と **安田生命**（1880 共済五百名社 → 1894 安田生命）が 2004-01-01 に合併して発足した、大手 4 生保の一角。**相互会社形態**（非上場、社員 = 契約者）を維持し、契約者重視配当を経営の柱に据える。営業職員「MY リンクコーディネーター」チャネル × 法人（中堅企業向け団体保険）× 米国 StanCorp Financial Group（2016 完全子会社化、約 5000 億円）の 3 軸構成。Jリーグタイトルパートナー・読売巨人軍スポンサーで B2C ブランド露出は強い。中計「MY ミューチュアル Way Ⅱ」進行中。
+日本初の近代生命保険会社 **明治生命**（1881 創業）と **安田生命**（1880 共済五百名社 → 1894 安田生命）が 2004-01-01 に合併して発足した、大手 4 生保の一角。**相互会社形態**（非上場、社員 = 契約者）を維持し、契約者重視配当を経営の柱に据える。営業職員「MY リンクコーディネーター」チャネル × 法人（中堅企業向け団体保険）× 米国 StanCorp Financial Group（2016 完全子会社化、約 5000 億円）の 3 軸構成。Jリーグタイトルパートナー・読売巨人軍スポンサーで B2C ブランド露出は強い。中計「MY ミューチュアル Way Ⅱ」実施中。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：明治安田生命保険相互会社
 **英名**：Meiji Yasuda Life Insurance Company
@@ -42,7 +42,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 上場できないため資本市場からの株式調達は不可、内部留保と劣後債が中心
 - 同形態の同業: [[nippon-life]]・住友生命・富国生命・朝日生命
 
-## 2. 合并历史与年表
+## 2. 合併経緯与年表
 
 ### 前身 2 系統
 
@@ -72,19 +72,19 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **明治安田システムテクノロジー** ── 情報システム子会社
 - **明治安田ライフプラニングセンター** ── シンクタンク
 
-## 3. 业务线 map
+## 3. 事業セグメント map
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
 | 個人保険（営業職員） | MY リンクコーディネーター | 主力チャネル、対面型 |
 | 法人保険 | 中堅企業向け団体保険 | 法人ストロング、退職金共済等 |
-| 団体年金 | 企業年金（確定給付 / 確定拠出）| 大手の一角 |
+| 団体年金 | 企業年金（確定に付 / 確定拠出）| 大手の一角 |
 | 海外（米国）| StanCorp Financial Group | 団体保険プラットフォーム、米北西部 |
 | 資産運用 | 明治安田アセットマネジメント | 国内債券・株式・オルタナ |
 | 不動産 | 明治安田米国不動産 等 | 大手町・丸の内オフィスビル保有 |
 | ヘルスケア | 健康増進型保険「ベストスタイル」等 | 健康年齢 / みんなの健活プロジェクト |
 
-## 4. 战略与竞争
+## 4. 戦略・競争
 
 ### 経営方針（中計「MY ミューチュアル Way Ⅱ」）
 
@@ -112,7 +112,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - アジア展開は同業（[[nippon-life]]・[[dai-ichi-life]]）と比較すると控えめ
 - 米国 1 軸の集中リスクと裏返しの専門特化
 
-## 5. 监管与政策
+## 5. 規制・政策
 
 - **主管**: 金融庁（FSA）保険監督
 - **法人格根拠**: 保険業法 第 18 条以下（相互会社規定）
@@ -156,5 +156,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（v1.0 公開情報のみ・2026-05-19）。本記事は公開情報（Wikipedia / 公式サイト / 金融庁公表資料）のみに基づく。具体的な財務数値（総資産・保険料等収入・基礎利益等）は最新ディスクロージャー誌を要参照。StanCorp 買収額・年表は公開報道ベース。

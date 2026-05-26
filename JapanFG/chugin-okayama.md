@@ -3,8 +3,8 @@ title: ちゅうぎん FG / 中国銀行 historical group page
 aliases: ["ちゅうぎんフィナンシャルグループ", "Chugin FG", "Chugin Financial Group", "株式会社ちゅうぎんフィナンシャルグループ", "ちゅうぎんグループ"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 岡山県岡山市丸の内に本店を置く中国地方東部地盤の地銀グループ page。現在の bank-license operating-company boundary は [[chugoku-bank|中国銀行]] に分離し、本ページは ちゅうぎん FG / historical strategy / Bank of China confusion-control の route として残す。1930-12-21 第一合同銀行 + 山陽銀行 合併で発足、源流は 1878 設立の **第八十六国立銀行**（高梁）まで遡る。**2022-10-03 株式移転で持株会社「ちゅうぎんフィナンシャルグループ」を新設、銀行単独上場（旧 8382）から FG 上場（東証 PRIME 5832）に移行**。2025-03 期 連結純利益 **274 億円**（前年比 +28.2%、過去最高水準）。**TSUBASA アライアンス（千葉銀ハブ・10 行）**創設メンバーで、地銀広域連携の中核行の 1 つ。^[extracted]
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名（持株会社）**：株式会社ちゅうぎんフィナンシャルグループ ^[extracted]
 **正式名（銀行）**：株式会社中国銀行 ^[extracted]
@@ -93,7 +93,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2023-04 | **中期経営計画「未来共創プラン ステージ III」開始**（2023-04〜2027-03、4 年計画）|
 | 2024〜 | 純利益 KPI 当初 300 億円目標 → 400 億円以上に上方修正 ^[extracted] |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 事務・システム | CBS / 中銀事務センター | 事務集約・システム関連 |
 | 広域連携 | TSUBASA アライアンス | 10 地銀広域連携・FinTech / 共同事務 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 営業エリア
 
@@ -144,7 +144,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 「**晴れの国 岡山**」（岡山県の観光キャッチコピー）と連動した地域密着ブランド — ネット支店名にも採用
 - 持株会社化に伴い「ちゅうぎん」を FG 名に正式採用（ひらがな・親しみやすさ重視）
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）/ 中国財務局
 - **地銀規制**: 銀行法

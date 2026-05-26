@@ -9,8 +9,8 @@ aliases:
   - "7383"
 domain: JapanFG
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, BNPL, fintech, payments, installment-sales, atobarai, listed]
@@ -55,7 +55,7 @@ Net Protections Holdings (東証 PRIME **7383**) is Japan's earliest-mover BNPL 
 
 Net Protections は日本 BNPL の **取引高 / 加盟店数で最大級** の独立 operator にもかかわらず、コーポレートが [[JapanFG/paidy|Paidy]] や [[JapanFG/aplus|アプラス]] のように親グループ既存ページに吸収されないため、JapanFG 名前空間で **独立 BNPL ホールディング** として別ページ化する価値が高い。
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **割賦販売法**: 信用購入あっせん業者として METI 監督下にあり、与信モデル・苦情処理・指定信用情報機関接続が継続論点。^[inferred]
 - **個人情報保護法**: 与信判断のための個人データ（属性 / 取引履歴）取扱いと第三者提供範囲が論点。

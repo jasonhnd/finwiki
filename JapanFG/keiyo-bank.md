@@ -3,8 +3,8 @@ title: 株式会社京葉銀行
 aliases: ["京葉銀行", "けいよう銀行", "Keiyo Bank", "Keiyo Ginko"]
 domain: JapanFG
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 千葉県 No.2 地方銀行（千葉県内シェア 2 位、No.1 は [[chiba-bank]]）。1943 千葉合同無尽 → 1951 千葉相互銀行 → **1989-04 普銀転換・同年 9 月東証 2 部上場**で誕生した「最後発の普銀」のひとつ。略称「けいよう」、東証 PRIME 8544。**中小企業 + 個人ローン特化・京葉地区（千葉市・市原・木更津・船橋・松戸）集中**、TSUBASA 未参加で独立路線を維持。第二地銀協加盟、第二地銀の中では総資産・預金とも上位グループ。
 
-## 1. 公司结构
+## 1. 会社概要
 
 **正式名**：株式会社京葉銀行
 **英名**：The Keiyo Bank, Ltd.
@@ -60,7 +60,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2013-07 | 東証 1 部 指定替え |
 | 2022-04 | 東証市場区分見直し → **東証 PRIME** |
 
-## 2. 业务线 map
+## 2. 事業セグメント・マップ
 
 | 部門 | 主力商品 | 位置付け |
 |---|---|---|
@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 国際 | 為替・貿易金融 | 規模は限定的、コルレス経由が中心 |
 | 系列・関連 | けいぎん総合リース、けいぎんカードサービス、けいぎんビジネスサービス 等 | 地域密着型のグループ会社 |
 
-## 3. 战略与竞争
+## 3. 戦略・競争
 
 ### 千葉県内市場構造
 
@@ -109,7 +109,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | メガバンク 個人 | [[smfg]]・[[mufg]]・[[mizuho-fg]] の千葉県内支店 |
 | ネット銀・流通系 | 楽天銀・住信 SBI ネット銀・[[paypay-fg]]・PayPay 銀行 — 個人ローン領域で侵食 |
 
-## 4. 监管与政策
+## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
 - **業界団体**：第二地方銀行協会
@@ -148,5 +148,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ---
 
-> [!info] 校核状态
+> [!info] 検証状況
 > confidence: **likely**（公開情報ベース、構造把握目的）。沿革・上場区分・第二地銀協加盟・千葉県内ポジションは公式ソースで確認可能。**FY2024 連結数値は概数表記** — 純利益・自己資本比率等の確定値は公式有価証券報告書（金融庁 EDINET）・京葉銀行公式ディスクロージャー誌を要参照。次回 review 時に最新決算で数値更新予定。

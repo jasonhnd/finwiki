@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/larry-fink-blackrock-digital-asset-template.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/larry-fink-blackrock-digital-asset-template.md",
   "domain": "business",
-  "title": "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力",
+  "title": "資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力(Larry Fink / BlackRock)",
+    "title": "資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力(Larry Fink / BlackRock)",
     "aliases": [
       "larry-fink-blackrock-digital-asset",
       "blackrock-three-vector-template",
@@ -17,8 +17,8 @@
     ],
     "domain": "business",
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -34,9 +34,9 @@
     "status": "confirmed",
     "sources": []
   },
-  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 关键人才跨机构流向作为产业预测信号 · JPM Onyx → Apollo 案例 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo 事例 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "资管巨头加密合规三角模板 · ETF + RWA tokenization + 政治影响力",
+    "資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2660,
-    "word_like_tokens": 443,
+    "nonspace_chars": 3115,
+    "word_like_tokens": 445,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-26"
   }
 }

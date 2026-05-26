@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -39,13 +39,13 @@
     "明治安田生命保険相互会社",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "相互会社形態のポイント",
-    "2. 合并历史与年表",
+    "2. 合併経緯与年表",
     "前身 2 系統",
     "重要年表",
     "主要子会社・関連",
-    "3. 业务线 map"
+    "3. 事業セグメント map"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4053,
+    "nonspace_chars": 4057,
     "word_like_tokens": 588,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }

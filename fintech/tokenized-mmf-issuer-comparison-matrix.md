@@ -8,8 +8,8 @@ aliases:
   - RWA MMF issuer comparison
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-26
+last_tended: 2026-05-26
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, tokenization, mmf, matrix, comparison, buidl, benji, acred, wtgxx, usyc, ustb, ousg, rwa, securitize]
@@ -31,7 +31,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the eight-way side-by-side comparison matrix for tokenized money-market and yield-bearing RWA fund issuers. It complements the per-issuer deep dives at [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]], [[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI / FOBXX]], [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]], [[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX + Hashnote USYC]], and [[fintech/ondo-finance-rusdy-adoption|Ondo OUSG / USDY / rUSDY]]. For the systemic role tokenized MMF plays as stablecoin yield infrastructure see [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮]] and [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer adoption]]. For the regulatory boundary see [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] and [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]].
+This entry sits under [[fintech/INDEX|fintech index]] as the eight-way side-by-side comparison matrix for tokenized money-market and yield-bearing RWA fund issuers. It complements the per-issuer deep dives at [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]], [[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI / FOBXX]], [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]], [[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX + Hashnote USYC]], and [[fintech/ondo-finance-rusdy-adoption|Ondo OUSG / USDY / rUSDY]]. For the systemic role tokenized MMF plays as stablecoin yield infrastructure see [[fintech/circular-reserve-asset-flywheel-overview|準備金相互ロックフライホイール]] and [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer adoption]]. For the regulatory boundary see [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] and [[fintech/three-circles-stablecoin-mra-framework|三円 MRA framework]].
 
 > [!info] TL;DR
 > Eight tokenized fund products anchor the 2026-Q2 dataset: **BUIDL** (BlackRock + Securitize, ~$2.58B AUM, Reg D, eight chains, Aaa-mf), **BENJI / FOBXX** (Franklin Templeton, ~$650M, 1940 Act 2a-7, eight chains), **ACRED** (Apollo, ~$100M+, Reg D, private credit not MMF, seven chains), **WTGXX** (WisdomTree, ~$200M, 2a-7 retail, in-house Prime wallet), **USYC** (Hashnote → Circle 2024-12, ~$1B peak, Reg D, now USDC.YS yield engine), **USTB** (Superstate, ~$150M, Reg D), **OUSG** (Ondo, ~$650M, Reg D, **BUIDL-backed**, seven chains), and **PYUSD-MMF candidate** track (Paxos shelf, not yet live). Total tokenized-fund market crossed **$8B+ AUM** in 2026-Q2 vs ~$1B in 2024-Q1 — an 8× growth in 24 months, but still <0.1% of the ~$7T US MMF market. Read across the matrix: **regulatory wrapper (Reg D vs 1940 Act 2a-7) bifurcates the market**, **transfer agent and custodian concentration in Securitize + BNY Mellon is striking**, and **on-chain composability via Securitize / Ondo / Pendle / Morpho is the binding competitive moat** for second-tier products competing with BUIDL's "yield infrastructure" position.
@@ -209,11 +209,11 @@ These nine variables together explain why **BUIDL has captured 32% market share 
 - [[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX + Hashnote USYC]]
 - [[fintech/ondo-finance-rusdy-adoption|Ondo OUSG / USDY / rUSDY]]
 - [[fintech/circle-usdc-stablecoin|Circle USDC]]
-- [[fintech/circular-reserve-asset-flywheel-overview|储备金互锁飞轮]]
+- [[fintech/circular-reserve-asset-flywheel-overview|準備金相互ロックフライホイール]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/stablecoin-revenue-split-economics|稳定币利息分润经济学]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]]
 - [[fintech/sky-usds-decentralized-stablecoin|Sky USDS / sUSDS]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA framework]]
 - [[fintech/m-network-m0-neutral-infrastructure|M^0 / M Network neutral infrastructure]]
 - [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto bifurcation]]
 <!-- /wiki-links:managed -->

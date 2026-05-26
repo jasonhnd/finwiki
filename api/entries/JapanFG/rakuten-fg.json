@@ -19,8 +19,8 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,12 +41,12 @@
     "楽天グループ金融事業 (Rakuten FG)",
     "Wiki route",
     "TL;DR",
-    "1. 公司结构",
+    "1. 会社概要",
     "グループ規模（直近公開ベース・連結）",
     "主要子会社・関連（金融セグメント中心）",
     "重要年表（金融セグメント中心・公開情報ベース）",
-    "2. 业务线 map",
-    "3. 战略与竞争",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
     "「楽天経済圏」モデル"
   ],
   "body_links": {
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6762,
-    "word_like_tokens": 1234,
+    "nonspace_chars": 6767,
+    "word_like_tokens": 1233,
     "inbound_wikilinks_count": 40,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-26"
   }
 }
