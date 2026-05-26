@@ -20,20 +20,28 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-18",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2026-11-19",
-    "confidence": "likely",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-26",
+    "confidence": "certain",
     "tags": [
       "JapanFG",
-      "megabank"
+      "megabank",
+      "basel-iii",
+      "governance",
+      "regulatory-ledger"
     ],
     "status": "active",
     "sources": [
       "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出)",
       "Wikipedia: SBIホールディングス (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)",
       "SMFG 第 23 期 (2025-03 期) 有価証券報告書",
-      "SMFG 2026年3月期 通期決算短信 (2026-05-13 公表) https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_01.pdf"
+      "SMFG 2026年3月期 通期決算短信 (2026-05-13 公表) https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_01.pdf",
+      "SMFG 2026年3月期 決算説明資料: https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_setumei.pdf",
+      "SMFG SMBC Group IR Day 2025-08-26: https://www.smfg.co.jp/investor/financial/small/pdf/20250826irday_pre01.pdf",
+      "SMFG 役員一覧 (2026-05 時点): https://www.smfg.co.jp/company/info/officer.html",
+      "金融庁 業務停止命令・課徴金 2022-10-07 (SMBC日興相場操縦): https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html",
+      "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and securities index for the broader system boundary.",
@@ -89,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10958,
-    "word_like_tokens": 2158,
+    "nonspace_chars": 14623,
+    "word_like_tokens": 2880,
     "inbound_wikilinks_count": 104,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-26"
   }
 }

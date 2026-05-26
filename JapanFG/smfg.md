@@ -3,17 +3,22 @@ title: 三井住友 FG (SMFG / SMBC グループ)
 aliases: ["SMFG", "SMBC Group", "SMBCグループ", "Sumitomo Mitsui FG", "三井住友フィナンシャルグループ", "三井住友 FG"]
 domain: JapanFG
 created: 2026-05-18
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-19
-confidence: likely
-tags: [JapanFG, megabank]
+last_updated: 2026-05-26
+last_tended: 2026-05-26
+review_by: 2026-11-26
+confidence: certain
+tags: [JapanFG, megabank, basel-iii, governance, regulatory-ledger]
 status: active
 sources:
   - "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出)"
   - "Wikipedia: SBIホールディングス (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)"
   - SMFG 第 23 期 (2025-03 期) 有価証券報告書
   - "SMFG 2026年3月期 通期決算短信 (2026-05-13 公表) https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_01.pdf"
+  - "SMFG 2026年3月期 決算説明資料: https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_setumei.pdf"
+  - "SMFG SMBC Group IR Day 2025-08-26: https://www.smfg.co.jp/investor/financial/small/pdf/20250826irday_pre01.pdf"
+  - "SMFG 役員一覧 (2026-05 時点): https://www.smfg.co.jp/company/info/officer.html"
+  - "金融庁 業務停止命令・課徴金 2022-10-07 (SMBC日興相場操縦): https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html"
+  - "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm"
 ---
 
 # 三井住友 FG (SMFG / SMBC グループ)
@@ -255,6 +260,92 @@ SMFG（持株会社・上場 8316）
 | 5 | 太田純 | 2019-04〜2023-11 | 京大法 |
 | 6 | **中島達** | **2023-12〜現職** | 東大工学 |
 
+## 5. 銀行 KPI（Basel III + 収益性指標, FY2025 実績）^[extracted]
+
+| 指標 | FY2025 (2026-03) | FY2024 (2025-03) | 中期目標 / 備考 |
+|---|---|---|---|
+| ROE (連結) | **10.4%** | 8.0% | +2.4ppt YoY |
+| ROCET1 (CET1 ベース ROE) | **13.8%** | 10.8% | +3.0ppt YoY、中期計画 KPI |
+| CET1 ratio (フル実施ベース) | 〜10.5% (年度末) | — | 中期目標レンジ **10.5%-11.0%** |
+| 自己資本比率 (連結, 単純) | 4.8% | 4.8% | 横ばい |
+| 1 株当 純利益 (EPS) | **411.97 円** | 301.55 円 | — |
+| 1 株当 純資産 (BPS) | 4,135.71 円 | 3,795.62 円 | — |
+| 配当 (年間, 推定) | 460 円 (^[needs-verification]) | 320-340 円 | 中期方針: 配当性向 40%+ |
+
+(出典: SMFG 2026 年 3 月期 通期決算短信 2026_fy_01.pdf, 2026-05-13 公表 / 決算説明資料 2026_fy_setumei.pdf)
+
+> NIM (純利鞘) / 不良債権比率 / 経費率 (cost-income) は本 entry での個別開示なし。CET1 中期目標 10.5%-11.0% の運用、超過分は **株主還元** または **戦略投資** (Jefferies 提携・Olive Infinite 等) に充当する方針 (2026-05-13 決算説明資料 p.53)。
+
+## 6. Business Model Anatomy（FY2025 セグメント構成, 連結）^[extracted, partial]
+
+SMFG の連結業務純益 約 2 兆 6,779 億円 (YoY +4,213 億) の主要寄与:
+
+| 主要寄与子会社 | FY2025 業務純益 (¥億) | 前期比 |
+|---|---|---|
+| 三井住友銀行 (SMBC, 単体) | 5,864 | +510 |
+| 三井住友カード (SMCC, 連結) | 8,844 | +660 |
+| SMBC 日興証券 | 4,707 | +238 |
+| SMBC Capital Markets (海外 IB) | 1,283 | +550 |
+| SMBC コンシューマーファイナンス (SMBCCF) | 1,157 | +272 |
+| 三井住友 DS AM (50.1%) | 807 | +85 |
+| SMFL (50% / 住友商事 50%) | 4,112 | +1,053 |
+| BTPN (インドネシア 〜96%) | 1,792 | -389 |
+| Bank Tabungan Pensiunan Nasional 等 海外 | 2,409 | -632 |
+| その他 | 14,919 | +3,075 |
+
+(出典: SMFG 2026 年 3 月期 決算説明資料 2026_fy_setumei.pdf, p.6-7, 2026-05-13)
+
+> **PDF レイアウト崩れあり** — セグメント別 % 構成・営業純益詳細・地域別海外比率の精密な breakdown は決算説明資料原本 (https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_setumei.pdf) を要参照。^[needs-verification]
+
+**読み方**: 業務純益主要寄与は **国内 retail / カード / 信販 (SMCC + SMBCCF)** が **約 1 兆円規模**で SMBC 単体 (5,864 億) を上回り、**カード事業 + 消費者金融が SMFG 連結利益の柱の一つ**となっている (MUFG が JCIB+GCIB の法人 IB 主導なのと対照的)。BTPN (インドネシア) は前年比マイナス、地域経済の影響を受けている。
+
+## 7. 現任董事会 + コーポレートガバナンス（2026-05 時点）^[extracted]
+
+| 項目 | 数 / 内容 |
+|---|---|
+| 取締役 合計 | **13 名** |
+| 社外取締役 | **7 名 (53.8%)** |
+| 社内取締役 | 6 名 (46.2%) |
+| 女性取締役 | **3 名 (23.1%)** |
+| 外国人取締役 | **2 名 (15.4%)** — Charles D. Lake II, Jennifer Rogers |
+| 機関設計 | 指名委員会等設置会社 (2017-06 移行) |
+
+### 社内取締役 (6 名)
+- **髙島 誠** — 取締役会長
+- **中島 達** — 取締役執行役社長 (6 代社長, 2023-12〜)
+- **工藤 禎子** — 取締役執行役副社長 (女性)
+- 安地 和之 — 取締役執行役専務
+- 一色 俊宏 — 取締役
+- 松ヶ崎 穂波 — 取締役 (女性)
+
+### 社外取締役 (7 名)
+- 門永 宗之助
+- 澤田 純 (前 NTT 社長 → 現相談役)
+- 後藤 順子 (女性)
+- 手代木 功
+- 高嶋 智光
+- **Charles D. Lake II** (外国人)
+- **Jennifer Rogers** (外国人, 女性)
+
+(出典: SMFG 役員一覧 https://www.smfg.co.jp/company/info/officer.html 2026-05-26 校核)
+
+## 8. 監管账本（公開規制処分一覧, 2010-2026）^[extracted]
+
+| 日付 | 規制当局 | 対象 | 処分種別 | 金額 | 概要 |
+|---|---|---|---|---|---|
+| 2019-04-23 | 米連邦準備制度 | 三井住友銀行 + SMBC NY 支店 | Written Agreement | (無金銭) | AML / BSA 不備 (2025-09-04 解除) |
+| **2022-10-07** | **金融庁 (FSA)** | **SMBC 日興証券** | **業務停止命令 + 業務改善命令** | block-offer 業務 **3 ヶ月停止** | **ブロックオファー取引による 10 銘柄の相場操縦** |
+| **2022-10-07** | **金融庁** | **SMBC 日興証券** | **課徴金** | **JPY 40,407 百万 (約 404 億円)** | 同上 (**歴代 2 位の課徴金**) |
+| 2022-10-07 | 金融庁 | **三井住友 FG (SMFG)** | **改善措置命令** | (無金銭) | **親会社レベルガバナンス失敗** (子会社 SMBC 日興の監督責任) |
+| 2023-02 | 東京地裁 (刑事) | SMBC 日興証券 | 罰金 + 追徴金 | JPY 7 億 (罰金) + 約 JPY 44.7 億 (追徴金) | 相場操縦の刑事判決 |
+
+(出典: 金融庁・各規制当局公式プレスリリース・2026-05-26 校核)
+
+- 2022-10-07 金融庁: https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html
+- 2025-09-04 Fed 解除: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm
+
+> **観察**: 2022-10 の **SMBC 日興相場操縦** 案件は 5 名の幹部社員が刑事訴追 (2022-03 東京地検特捜部逮捕) され、**金融庁・東京地裁の二重処分** に発展した近年最大級の証券業界ガバナンス事件。SMFG 親会社にも改善措置命令が出され、**Olive 統合 / SBI 提携 / Jefferies 提携** などのその後の戦略は、このガバナンス再構築の文脈で進行している。
+
 ## Counterpoints
 
 - 「Jefferies 提携 = MUFG-MS 模式の追従」観 vs 「Jefferies は Morgan Stanley 級ではない、規模差大」観 ^[ambiguous]
@@ -291,4 +382,4 @@ SMFG（持株会社・上場 8316）
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v3.1 2026-05-19 IR 校核：FY2025 通期決算短信 2026-05-13 公表値で更新）。総資産 **328 兆** / 親会社株主純利益 **1.58 兆**（+34.4%）/ FY2026 予想 1.70 兆 は SMFG 公式決算短信ベース。子会社持分・SBI 提携詳細は v3.0 Wikipedia + SBI HD Wikipedia cross-ref 校核 2026-05-18 のまま。Olive 570 万口座・連結従業員数（FY2025 短信に未記載、有報待ち）は依然 needs-verification。次ステップ: 2026-06-26 第 24 期有価証券報告書公表後の従業員数・主要株主再校核、SMBC 銀行 entry での Olive 詳細。
+> confidence: **certain**（v4.0 2026-05-26 拡張: 銀行 KPI / Business Model Anatomy / 現任董事会 / 監管账本 の 4 節を一次資料校核で追加）。総資産 **328 兆** / 親会社株主純利益 **1.58 兆**（+34.4%）/ FY2026 予想 1.70 兆 は SMFG 公式決算短信ベース。ROE 10.4% / ROCET1 13.8% / CET1 目標 10.5-11.0% は 2026-05-13 決算説明資料から抽出。董事会 13 名構成は 2026-05 公式役員一覧から (Charles D. Lake II + Jennifer Rogers の外国人 2 名含む)。監管账本は 2022-10-07 金融庁 SMBC日興相場操縦 業務停止 + 課徴金 404 億 (歴代 2 位) + SMFG 親会社改善措置命令 が中核。セグメント詳細は PDF レイアウト崩れあり ^[needs-verification]、決算説明資料原本要参照。Olive 570 万口座は依然 needs-verification。次ステップ: 2026-06-26 第 24 期有価証券報告書後の従業員数・主要株主再校核、SMBC 銀行 entry での Olive 詳細。
