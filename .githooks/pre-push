@@ -1,0 +1,55 @@
+#!/bin/sh
+# FinWiki pre-push gate — blocks a push when the public release surface is not
+# in a publishable state, per AGENTS.md. It runs the read-only release check:
+#
+#     python tools/release.py --check --strict
+#
+# which fails when (exit 2) body/route/peer/system links are broken, or
+# (exit 1) README.md / index.html counts have drifted from the live corpus.
+#
+# Install (no git config change needed):
+#     cp .githooks/pre-push .git/hooks/pre-push      # then it is active
+# Re-install after a fresh clone the same way, or opt into versioned hooks:
+#     git config core.hooksPath .githooks
+#
+# Bypass a single push (use sparingly):
+#     git push --no-verify
+
+# git streams "<local ref> <local oid> <remote ref> <remote oid>" on stdin for
+# pre-push; we don't gate per-ref, so drain it so the pipe never blocks.
+cat > /dev/null
+
+# Japanese drift output would crash a cp932 console; force UTF-8.
+export PYTHONIOENCODING=utf-8
+
+if command -v python >/dev/null 2>&1; then
+  PY=python
+elif command -v python3 >/dev/null 2>&1; then
+  PY=python3
+else
+  echo "pre-push: python not found; skipping FinWiki release check." >&2
+  exit 0
+fi
+
+ROOT=$(git rev-parse --show-toplevel) || exit 0
+cd "$ROOT" || exit 0
+
+echo "pre-push: FinWiki release check (link audit + count drift)..."
+"$PY" tools/release.py --check --strict
+status=$?
+
+if [ "$status" -ne 0 ]; then
+  {
+    echo ""
+    echo "pre-push BLOCKED (release check exit $status):"
+    echo "  exit 2 = broken body/route/peer/system links — fix them"
+    echo "  exit 1 = README.md / index.html counts are stale"
+    echo ""
+    echo "  Fix:    python tools/release.py --write   (then commit the synced files)"
+    echo "  Bypass: git push --no-verify   (not recommended)"
+  } >&2
+  exit 1
+fi
+
+echo "pre-push: OK — links resolve and counts are in sync."
+exit 0
