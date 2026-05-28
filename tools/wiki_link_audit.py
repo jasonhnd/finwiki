@@ -718,7 +718,7 @@ def insert_scaffold(entry: Entry, entries: dict[str, Entry]) -> bool:
     while insert_at < len(text) and text[insert_at : insert_at + 1] == "\n":
         insert_at += 1
     new_text = text[:insert_at] + "\n" + scaffold_text(entry, entries) + text[insert_at:]
-    entry.path.write_text(new_text, encoding="utf-8")
+    entry.path.write_text(new_text, encoding="utf-8", newline="\n")
     return True
 
 
@@ -729,7 +729,7 @@ def upsert_scaffold(entry: Entry, entries: dict[str, Entry]) -> bool:
     if existing:
         new_text = text[: existing.start()] + new_section + text[existing.end() :]
         if new_text != text:
-            entry.path.write_text(new_text, encoding="utf-8")
+            entry.path.write_text(new_text, encoding="utf-8", newline="\n")
             return True
         return False
     return insert_scaffold(entry, entries)
@@ -850,7 +850,7 @@ def write_markdown_report(rows: list[dict[str, object]], report_path: Path, min_
     lines.append("3. Re-run `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` before push.")
     lines.append("")
 
-    report_path.write_text("\n".join(lines), encoding="utf-8")
+    report_path.write_text("\n".join(lines), encoding="utf-8", newline="\n")
 
 
 def main() -> int:
@@ -876,7 +876,7 @@ def main() -> int:
     if args.report:
         write_markdown_report(rows, args.report, args.min_body_links)
     if args.json:
-        args.json.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+        args.json.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8", newline="\n")
     failures = [row for row in rows if row["issues"]]
     print(f"entries_checked={len(rows)}")
     print(f"entries_with_issues={len(failures)}")
