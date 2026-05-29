@@ -17,7 +17,6 @@ sources:
 
 # ニッセイアセットマネジメント (Nissay AM)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
@@ -39,11 +38,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Business role
 
-- **生保責任準備金運用** (親会社向け、約 75 兆円超規模): 国内最大の保険準備金プール ^[inferred]
 - **公募投資信託運用** (個人投資家向け): 「ニッセイ・インデックスシリーズ」「ニッセイ外国株式インデックスファンド」等の低コスト投信で個人向け市場拡大
 - **年金運用** (DB / DC / iDeCo): 機関投資家・企業年金向け運用一任
 - **投資一任・投資助言** (機関投資家向け)
-- **ESG / サステナビリティ運用**: 親会社 [[JapanFG/nippon-life|日本生命]] のスチュワードシップ責任との連携 ^[inferred]
 
 ## 3. 出資・統治構造
 
@@ -55,7 +52,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── 関連事業会社 (信託・代理店・運用関連)
 ```
 
-- [[JapanFG/nippon-life|日本生命]] 100% 子会社、相互会社親会社のため **資本市場圧力を受けない長期運用** が可能 ^[inferred]
 - メガバンク系運用会社のような JV 構造ではなく、生保単独 100% モデル
 
 ## 4. Why standalone page matters
@@ -66,7 +62,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 2. **低コスト・インデックス投信競争**：「ニッセイ外国株式インデックスファンド」等は信託報酬の業界最安値水準で、[[JapanFG/sbi-asset-management|SBI AM]] / [[JapanFG/mufg-asset-management|MUAM]] (eMAXIS Slim) 等と直接競合
 3. **NISA 拡充 + 個人投資家の低コスト志向** の主要受益プレイヤー ([[securities/nisa-2024-flow|nisa-2024-flow]] 文脈)
 4. **生保責任準備金運用 (75 兆円超)** が国内債券市場・株式市場・オルタナティブ運用に与える影響
-5. **相互会社親会社の独立性**: 上場親会社系 AM とは異なるガバナンス特性 (短期的株主圧力不在) ^[inferred]
 
 ## 5. 競合・peer
 

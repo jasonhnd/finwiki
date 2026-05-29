@@ -45,8 +45,6 @@ This sits under [[payments/INDEX|payments index]] as the JCB-side cross-issuer r
 
 The JCB ecosystem is read incorrectly in three common ways. First, readers conflate "JCB the brand" with "JCB Co., Ltd. the issuer" — they are not the same, since JCB acts as both brand-network and as one (large) issuer among many. Second, readers assume all JCB-branded cards in Japan are 3-party — they are not, since most partner-issued JCB cards run on a 4-party economic shape with interchange between the partner-issuer and JCB-the-acquirer. Third, readers under-weight the **retail-FG issuers** ([[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/credit-saison|Credit Saison]], [[JapanFG/epos-card|EPOS Card]]) which together issue more JCB-branded cards than the bank-FG issuers combined and shape merchant-side fee politics under [[payments/japan-interchange-and-merchant-fee-stack|interchange disclosure pressure]]. This matrix forces all three readings to the surface.
 
-## Per-issuer sections
-
 ### JCB Co., Ltd. (株式会社ジェーシービー)
 
 JCB Co., Ltd. is the brand owner, network operator, **and** Japan's largest direct-issuer of JCB-branded "proper" cards (JCB Original Series — JCB CARD W, JCB ゴールド, JCB プラチナ, JCB ザ・クラス). It is also a major acquirer for JCB-branded merchants in Japan. The 3-party operating shape applies to JCB-issued + JCB-acquired transactions; everything else routes through 4-party interchange. JCB is non-listed, with bank-FG shareholders ([[JapanFG/mufg|MUFG]] side and [[JapanFG/smfg|SMFG]] side per the [[JapanFG/jcb|JCB entry]]) reflecting its 1961 multi-bank founding. As the only Japanese international card brand among the global five (Visa, Mastercard, Amex, Discover, JCB), JCB's strategic position is structurally tied to Japan-outbound traveler acceptance and Japan-inbound merchant brand-presence.
@@ -233,27 +231,6 @@ The flip side of any issuer-side matrix is what merchants experience when they a
 | What chargeback / dispute mechanism applies? | JCB Dispute rules apply to all JCB-branded cards; for partner-issued JCB the dispute routes through the partner-issuer, not JCB Co. directly. |
 | Which JCB cards drive higher per-tx average value? | Premium-segment cards ([[JapanFG/jcb\|JCB]] proper plus shinpan-rooted high-tier cards, [[JapanFG/diners-club-japan\|Diners]] contrast brand) drive higher per-tx; retail-FG mass cards drive lower per-tx higher-frequency. |
 | Which JCB-tied loyalty programs influence cardholder choice at my POS? | Oki Doki Point (JCB), Rakuten Point ([[JapanFG/rakuten-card\|Rakuten Card]]), WAON POINT ([[JapanFG/aeon-financial-service\|AEON]]), V Point ([[JapanFG/smbc-card\|SMBC Card]]), JRE POINT (JR-View), mileage (ANA / JAL co-brand). The cross-redemption picture sits in [[loyalty/japan-points-landscape\|Japan points landscape]]. |
-
-## Open questions
-
-- Will JCB shift its strategic balance further toward direct issuance (proper cards) for cardholder-relationship retention, or further toward brand licensing for scale-via-partners?
-- Does the 2024-2025 EMV 3-DS mandate and J-CSC guideline 6.0 / 6.1 disclosure pressure (see [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]]) compress small JCB partner-issuers' margin to the point of consolidation?
-- Will [[JapanFG/mufg-nicos|MUFG NICOS]] and [[JapanFG/jaccs|JACCS]] (both MUFG-side card-credit operators) be folded into a unified MUFG consumer-credit subsidiary, and if so what happens to their JCB partner-issuance contracts?
-- How sustainable is Rakuten Card's role as the largest 4-party-shape JCB issuer if the Rakuten Point flywheel weakens?
-- Does [[JapanFG/diners-club-japan|Diners Club Japan]] under Sumitomo Mitsui Trust seek closer operational alignment with JCB, or maintain pure brand-competition positioning?
-- Will JCB extend its 3-party / 4-party hybrid model overseas (some markets, some partners) or maintain a more uniform partner-issuance footprint internationally via [[JapanFG/jcb-international|JCB International]]?
-- Does the merchant-fee disclosure pressure (JFTC 2022 report + METI / JFTC 2023-06-01 JCB allocation-rate release) extend from card class to issuer-specific JCB-brand allocation, breaking out per-issuer interchange?
-
-## Counterpoints
-
-These counterpoints are framed to push back against common reductive readings of the JCB ecosystem.
-
-- **"JCB is just a Japanese card brand."** Reductive. JCB is simultaneously a brand-network operator, a direct issuer, an acquirer, and a partner-licensor across a wide population of Japanese card-issuing operators. Reading JCB as just "a brand" loses the issuer-side economics that drive most of its Japan-side revenue.
-- **"JCB-branded cards from [[JapanFG/rakuten-card|Rakuten Card]] are JCB cards."** Strictly, the brand mark is JCB; the issuer is Rakuten; the cardholder relationship is owned by Rakuten; the credit-screening / billing / point-program are Rakuten's; the brand fee and any acquirer interchange go to JCB / acquirer respectively. Calling it a "JCB card" without naming the issuer obscures who actually controls the cardholder relationship.
-- **"All JCB issuers operate the same way."** False. The matrix shows at least four economically distinct issuer categories — bank-FG, retail-FG, shinpan-FG, and 3-party-style — each with different funding cost, point-program funding model, merchant-acquisition channel, and securitization route.
-- **"JCB will be replaced by code payments."** Code payment share grew rapidly but card-class share of cashless **value** (82.7% in 2025 per METI) still dominates code (10.2%). The JCB-issuing operator population continues to grow card counts in absolute terms even as code-payment transactions grow faster.
-- **"3-party brands have higher margin than 4-party brands."** True per transaction at the brand level (no interchange leak), but JCB partner-issuance generates more scale than JCB proper, so brand-revenue mix from 4-party may exceed 3-party in absolute terms even if per-transaction margin is lower.
-- **"Shinpan-side JCB issuers ([[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]]) are dying because card use is shifting to BNPL."** Shinpan-card cross-sell remains a meaningful unit-economics advantage for those operators (auto-loan + shopping-credit + card customer LTV), and BNPL is a sub-set of the 個別信用購入あっせん regime that shinpan already operates under (see [[payments/japan-bnpl-pay-later-operator-registry-matrix|BNPL operator registry matrix]]). Shinpan are not displaced by BNPL; they are major operators in the BNPL regulatory line.
 
 ## Related
 

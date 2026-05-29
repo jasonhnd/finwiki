@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-29T13:38:14+09:00",
+  "generated_at": "2026-05-29T14:55:34+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1404,
   "entries": [
@@ -5040,7 +5040,7 @@
     {
       "slug": "business/jamie-dimon-anti-crypto-pivot-case",
       "domain": "business",
-      "title": "反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM",
+      "title": "Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base",
       "api_url": "https://finwiki.zksc.io/api/entries/business/jamie-dimon-anti-crypto-pivot-case.json",
       "html_url": "https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case"
     },

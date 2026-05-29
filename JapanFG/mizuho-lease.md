@@ -21,7 +21,6 @@ sources:
 
 # Mizuho Leasing
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -76,13 +75,6 @@ Mizuho Leasing is useful because it shows how a megabank group can use a listed 
 - Strategic-shareholder relationships can create both business flow and governance / minority-shareholder questions.
 - Aircraft, real estate, and energy assets require asset-specific risk analysis rather than only borrower credit analysis.
 - If interest rates rise, lease pricing, funding cost, and asset values can move in different directions.
-
-## Open Questions
-
-- How much incremental value does Marubeni bring after the 2024 capital relationship change?
-- Which segments drive ROA: ordinary equipment leasing, real estate, aircraft, overseas, or vendor finance?
-- How should Mizuho Leasing be compared with Mizuho Bank's direct corporate lending?
-- Is the market valuing it as a finance company, an asset owner, or a Mizuho / Marubeni strategic vehicle?
 
 ## Related
 

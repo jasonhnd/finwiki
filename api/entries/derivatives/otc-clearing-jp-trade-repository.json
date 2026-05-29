@@ -61,9 +61,9 @@
     "JSCC mandatory clearing scope",
     "JSCC clearing member structure",
     "Default-management waterfall",
-    "Trade-repository reporting under FIEA",
     "The reporting obligation",
-    "Why TR reporting matters"
+    "Why TR reporting matters",
+    "EMIR equivalence (EU)"
   ],
   "body_links": {
     "wikilinks_count": 27,
@@ -129,9 +129,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17836,
-    "word_like_tokens": 2743,
+    "nonspace_chars": 14799,
+    "word_like_tokens": 2243,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

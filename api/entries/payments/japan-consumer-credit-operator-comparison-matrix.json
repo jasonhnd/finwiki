@@ -64,11 +64,11 @@
     "Wiki route",
     "Nine operator categories",
     "Comparison matrix — full",
-    "Category-by-category notes",
     "1. Card issuer (クレジットカード会社 / 包括信用購入あっせん業者)",
     "2. Consumer finance / shoko-loan (消費者金融 / 貸金業者)",
     "3. Installment credit / shinpan (信販会社 / 個別信用購入あっせん業者)",
-    "4. BNPL pure-play (BNPL / 後払い)"
+    "4. BNPL pure-play (BNPL / 後払い)",
+    "5. Auto finance / auto-captive (自動車ローン / オートクレジット)"
   ],
   "body_links": {
     "wikilinks_count": 41,
@@ -162,9 +162,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 29026,
-    "word_like_tokens": 4818,
+    "nonspace_chars": 26563,
+    "word_like_tokens": 4396,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

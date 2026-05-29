@@ -29,10 +29,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[JapanFG/mitsui-co|三井物産]] and [[JapanFG/itochu-corp|伊藤忠商事]] for the closest 5 大商社 peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (内向け group treasury) and [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (外向けリース、partial-owned listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties 商社 to メガバンク / リース.
 
-## TL;DR
-
-三菱商事 (東証 PRIME **8058**) は **日本最大の総合商社 (sōgō shōsha)**、三菱グループの中核会社の一つ。エネルギー (LNG 上流)、金属資源 (豪州 BHP JV 鉄鉱石・原料炭)、自動車 (いすゞ・三菱自動車・海外ディーラー網)、機械、化学、生活産業 (食品・コンビニ [[JapanFG/mitsubishi-corp|MC]] 100% 子会社化した **ローソン** [[JapanFG/mitsubishi-corp|MC]] + KDDI 50/50 体制、2024)、電力ソリューション、複合都市開発まで横断する **多角コングロマリット**。JapanFG 文脈での重要性は (i) [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] を 100% 持つ内部金融機能と (ii) [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (旧 三菱UFJリース + 旧 日立キャピタル合併体) への約 20% 級株式持分、加えて (iii) [[JapanFG/mufg|MUFG]] との三菱グループ系列内クロス持合いを通じた **金融エコシステム上の中心性** にある。^[inferred]
-
 ## 1. 会社概要
 
 | Item | Notes |
@@ -46,8 +42,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 連結従業員 | 約 8 万人超 (グループ連結) ^[extracted] |
 | 会計基準 | IFRS ^[extracted] |
 | 主要セグメント | 天然ガス、総合素材、石油・化学ソリューション、金属資源、産業インフラ、自動車・モビリティ、食品産業、コンシューマー産業 (含 ローソン)、電力ソリューション、複合都市開発 ^[extracted] |
-| FY 連結収益規模 (約) | 連結収益数 兆円規模、純利益 1 兆円級 (近年は資源市況連動で大きく振れる) ^[inferred] |
-| 格付 | A 格上位 (S&P / Moody's / R&I) ^[inferred] |
 
 ### 主要子会社・関連会社 (JapanFG 文脈)
 
@@ -72,7 +66,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2000s〜 | 資源高サイクルで純利益 1 兆円級到達 |
 | 2017 | ローソン子会社化 (株式 50%+) |
 | 2024 | KDDI と ローソン 50/50 体制、TOB により ローソン 上場廃止 |
-| 2024 | 旗艦自社株買い 1 兆円規模を発表 — 株主還元強化局面 ^[inferred] |
 
 ## 2. 事業セグメント・マップ
 
@@ -98,13 +91,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 三菱HCキャピタル | [[JapanFG/mitsubishi-hc-capital]] | 約 20% 級 (持分法) | **外向け** 総合リース・ファイナンス、東証 PRIME **8593** |
 
 加えて、**三菱グループの cross-shareholding** を通じた financial-services ecosystem 連結:
-- [[JapanFG/mufg|MUFG]] / [[JapanFG/bank-of-tokyo-mitsubishi-ufj|三菱UFJ銀行]] (三菱グループ メガバンク、cross-holdings via 三菱重工・三菱地所 等の輪に三菱商事も含まれる) ^[inferred]
-- [[JapanFG/tokio-marine-hd|東京海上HD]] (旧 三菱グループ 火災海上保険、cross-holdings) ^[inferred]
-- [[JapanFG/mitsubishi-ufj-trust|三菱UFJ信託銀行]] — 信託業務連携 ^[inferred]
 
 「外向けリース = 三菱HCキャピタル」「内向け CMS = MCFS」の **二層構造** が三菱商事の財務オペレーションの定型。
-
-## 4. 戦略・競争
 
 ### 5 大商社ポジショニング
 
@@ -115,8 +103,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | [[JapanFG/itochu-corp|伊藤忠商事 (8001)]] | 繊維 / 食品 (ファミマ) / ICT | 非資源 = 生活産業 + ICT |
 | [[JapanFG/sumitomo-corp|住友商事 (8053)]] | 鋼管 / 不動産 / 米国メディア (J:COM 等) | 多角寄り、近年純利益で 5 大の中下位 |
 | [[JapanFG/marubeni-corp|丸紅 (8002)]] | 電力 IPP / 食品 (穀物) / 鋼管 | 電力・穀物商社の側面 |
-
-三菱商事の strategic identity は **「資源 + 非資源 (ローソン・自動車・電力ソリューション) のバランス型」**。純利益では伊藤忠 / 三井物産 と Top 3 を争う構図 (年度の資源市況で順位変動)。^[inferred]
 
 ### コア戦略 — 経営計画 ^[inferred]
 
@@ -133,18 +119,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 ## 5. 規制・政策
 
 - **会計**: **IFRS** 採用 (5 大商社は概ね IFRS)、equity-method investments (持分法) の比重が大きい — [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] / 三菱自動車 / 多くの JV 投資は持分法 ^[extracted]
-- **規制**: 商社単体は banking license を持たず、銀行法規制対象外。ただし金融子会社 (リース・ファイナンス) は貸金業 / リース業 / 金商法を遵守 ^[inferred]
-- **会社法**: 東証 PRIME 上場会社としてコーポレートガバナンス・コード適用、社外取締役過半数構成 ^[inferred]
-- **資源規制**: 海外資源案件は relevant 国の鉱業法・石油ガス法・環境規制・地元雇用規制に従う ^[inferred]
-- **エネルギー政策**: LNG 上流 / IPP / 再エネ事業は GX 政策・カーボンプライシング・EU CBAM 等の影響を受ける ^[inferred]
 
 ## 6. Counterpoints
 
-- **「持分法投資の質」**: 三菱商事の連結純利益のかなりの部分が **持分法投資利益** で構成される → 連結 cash flow と net income の乖離が指摘される論点 ^[inferred]
-- **「資源市況依存」**: 純利益の振れ幅が大きく、コモディティ価格 (原油・LNG・鉄鉱石・原料炭・銅) のサイクルに連動 ^[inferred]
 - **「ローソン非公開化の効果」**: KDDI 50/50 体制 + TOB 後の statement-of-strategy が、コンビニ事業のリテール金融・ヘルスケア連携にどれだけ寄与するか未確定 ^[ambiguous]
-- **「三菱HCキャピタルとの関係」**: 約 20% 級保有 = 持分法、しかし HCキャピタルの最大株主は [[JapanFG/mufg|MUFG]] (約 23% 級) で、商社主導の戦略推進力は限定的 ^[inferred]
-- **「Berkshire 効果の持続性」**: 商社株のリレーティングは Berkshire 買い増しによる側面が大きく、外人投資家評価の継続性に依存 ^[inferred]
 
 ## 7. Open questions
 

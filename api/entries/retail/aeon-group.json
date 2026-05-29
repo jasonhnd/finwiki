@@ -48,7 +48,6 @@
     "Financial-Services Stack",
     "Competitive Position",
     "Strategic Reading",
-    "Open Questions",
     "Related",
     "Sources"
   ],
@@ -86,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4805,
-    "word_like_tokens": 761,
-    "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-20"
+    "nonspace_chars": 4423,
+    "word_like_tokens": 690,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-05-29"
   }
 }

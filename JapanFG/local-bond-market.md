@@ -22,7 +22,6 @@ sources:
 
 # Japan local government bond market
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/japan-policy-finance-map|Japan policy-finance map]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -78,14 +77,6 @@ Joint local government bonds matter because they solve a scale problem. Smaller 
 - Local allocation tax and fiscal soundness systems can support repayment expectations, but they do not make every issuer identical.
 - Rising interest rates affect refinancing cost and investor demand.
 - Regional population decline can weaken the long-term revenue base of some issuers.
-
-## Open Questions
-
-- Which prefectures / designated cities have the most active public offering local-bond programs?
-- How does the joint local government bond yield curve compare with JGBs and government-guaranteed bonds?
-- Which regional banks hold the largest local-government exposure?
-- How do fiscal-soundness indicators flow into bond pricing?
-- Can green / transition local bonds become a larger thematic issuance lane?
 
 ## Related
 

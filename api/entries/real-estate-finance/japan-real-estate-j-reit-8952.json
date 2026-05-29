@@ -56,7 +56,7 @@
     "4. Top-tenant exposure",
     "5. JRE vs NBF — the MEC vs Mitsui rivalry proxy",
     "6. Why Marunouchi exposure matters",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -114,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10873,
-    "word_like_tokens": 1746,
+    "nonspace_chars": 9059,
+    "word_like_tokens": 1449,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -217,14 +217,6 @@ Caveat: 投資信託協会 publishes industry totals, not detailed AM-level rank
 4. For the household-flow story, route through [[securities/nisa-2024-flow|NISA 2024 flow]] and [[securities/japan-online-brokerage-competition|online brokerage competition]].
 5. For the institutional / underwriting-side story, route through [[securities/japan-underwriting-market-structure|underwriting market structure]] and [[securities/japan-market-infrastructure-map|market infrastructure map]].
 
-## Open questions
-
-- How much of the post-2024 NISA flow has structurally shifted from active 公募投信 to index 公募投信, and is the active fee pool durably smaller?
-- Will Lane 1 see further megabank-AM consolidation, or has it stabilized at five poles?
-- Will foreign-affiliated AMs deepen direct Japan retail, or remain dominantly 機関投資家 / sub-advisory?
-- How will tokenized securities (e.g. tokenized MMFs as in [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]) interact with Japan's 公募投信 and 投資一任 distribution channels under FIEA?
-- Does the insurance-affiliated AM lane consolidate further as life-insurance groups rationalize asset operations?
-
 ## Related
 
 - [[securities/INDEX]]

@@ -61,16 +61,16 @@
     "Southeast Asia Stablecoin Regulatory Landscape 2026",
     "Wiki route",
     "Why a regional map matters",
-    "Tier 1 · Licensed issuance regimes (Singapore, Hong Kong)",
     "Singapore MAS · PSA + SCS + DTSP",
     "Hong Kong HKMA · Stablecoin Ordinance (Cap. 656)",
     "MAS vs HKMA · short comparison",
-    "Tier 2 · Pilot / sandbox regimes (Thailand, Malaysia, Philippines)",
     "Thailand · SEC + BoT stablecoin sandbox",
-    "Malaysia · BNM Discussion Paper 2026 + SC Malaysia digital asset framework"
+    "Malaysia · BNM Discussion Paper 2026 + SC Malaysia digital asset framework",
+    "Philippines · BSP Project Agila + e-money + virtual currency",
+    "Vietnam · SBV crypto ban + de-facto USDT economy"
   ],
   "body_links": {
-    "wikilinks_count": 37,
+    "wikilinks_count": 35,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/crypto-custody-provider-landscape-matrix",
@@ -99,8 +99,6 @@
       "fintech/india-anti-dollar-dpi-alliance",
       "fintech/indonesia-ovo-stablecoin-route",
       "fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/mbridge-bis-multi-cbdc-overview",
       "fintech/national-license-private-stablecoin-with-dpi-export",
@@ -138,8 +136,6 @@
       "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
       "https://finwiki.zksc.io/fintech/indonesia-ovo-stablecoin-route",
       "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
       "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
       "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export",
@@ -153,9 +149,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 24318,
-    "word_like_tokens": 4045,
+    "nonspace_chars": 21524,
+    "word_like_tokens": 3551,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

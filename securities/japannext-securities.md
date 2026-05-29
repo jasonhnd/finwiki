@@ -16,7 +16,6 @@ sources:
 
 # ジャパンネクスト証券 (Japannext)
 
-
 ## Wiki route
 
 This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
@@ -55,12 +54,6 @@ Japannext matters because it tests whether Japanese equity execution is a single
 - spread / tick-size differences;
 - nighttime liquidity;
 - ownership and strategic alignment with [[JapanFG/sbi-hd|SBI HD]] / Cboe-related market structure (peer venues are [[securities/osaka-digital-exchange|ODX]] and the parent [[securities/tokyo-stock-exchange|TSE]]).
-
-## Counterpoints
-
-- PTS market share remains much smaller than TSE's main market.
-- PTS trading is accessed through participating securities firms; it is not a direct retail exchange relationship.
-- Liquidity can be concentrated in select names and sessions.
 
 ## Related
 

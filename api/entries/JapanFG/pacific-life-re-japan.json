@@ -46,8 +46,6 @@
     "1. License / group boundary",
     "2. Operating model",
     "3. Why this page matters",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
@@ -85,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5851,
-    "word_like_tokens": 943,
+    "nonspace_chars": 4919,
+    "word_like_tokens": 775,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

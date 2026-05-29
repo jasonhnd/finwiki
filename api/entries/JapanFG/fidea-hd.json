@@ -47,11 +47,11 @@
     "合併歴史・前身 ^[extracted]",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ ^[extracted]",
-    "3. 戦略・競争 ^[extracted/inferred]",
-    "北東北広域連合戦略"
+    "北東北広域連合戦略",
+    "産業金融特化"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "JapanFG/77-bank",
       "JapanFG/INDEX",
@@ -63,7 +63,6 @@
       "banking/INDEX",
       "concordia-fg",
       "dai-shi-hokuetsu-fg",
-      "gmo-aozora-net",
       "hokuhoku-fg",
       "hokuto-bank",
       "mebuki-fg",
@@ -85,7 +84,6 @@
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
-      "https://finwiki.zksc.io/gmo-aozora-net",
       "https://finwiki.zksc.io/hokuhoku-fg",
       "https://finwiki.zksc.io/hokuto-bank",
       "https://finwiki.zksc.io/mebuki-fg",
@@ -100,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5279,
-    "word_like_tokens": 776,
+    "nonspace_chars": 4344,
+    "word_like_tokens": 650,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

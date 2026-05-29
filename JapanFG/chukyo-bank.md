@@ -53,8 +53,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
   └── [[aichi-bank|あいち銀行]] (single bank operating subsidiary)
 ```
 
-## 3. 合併歷史・前身
-
 ### 戦前・戦時源流
 
 - **1944**: 名古屋無尽 設立 (旧 中京銀行の最古源流の一つ)
@@ -97,8 +95,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 | トヨタサプライチェーン | 中京経済圏 (二次・三次 supplier) への融資参画 |
 | 不動産 | 名古屋圏不動産関連融資 |
 
-## 6. 統合効果と現状 (post-2025)
-
 ### [[aichi-fg]] による統合シナジー
 
 - 重複店舗統廃合 (名古屋市内・愛知県内 隣接店舗)
@@ -108,9 +104,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 
 ### 残存課題
 
-- 旧中京銀行の相銀色 (柔軟・小口) と旧愛知銀行の地銀色 (中堅・コーポレート) の文化融合 ^[inferred]
 - 県内地銀過剰問題 ([[nagoya-bank]] 独立継続) の再編残存圧力
-- 中京経済圏 トヨタ依存リスク (EV シフト・脱内燃機関) ^[inferred]
 
 ## 7. 規制・政策
 
@@ -120,20 +114,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 - **直近政策論点 (合併直前)**:
   - 県内地銀過剰問題で再編圧力
   - 2023〜 日銀利上げで利ざや改善期待は [[aichi-bank]] 合併後に集約
-
-## Counterpoints
-
-- 「歴史的ページの意義」論: 解散済み法人にページを残す価値 vs current entity [[aichi-bank]] への集約 → disambiguation / 履歴保存目的で有用 ^[inferred]
-- 「相銀系統合 = 文化摩擦」論: 旧第三・第十七相互無尽源流 vs 旧愛知銀行の中堅地銀文化 → 統合シナジー実現の難易度 ^[ambiguous]
-- 「2025-01 合併タイミング」: 日銀利上げ局面前後の合併で財務メリット最大化されたかは中期評価要 ^[inferred]
-- 「県内 3 行 → 2 行 → 1 行」シナリオ: [[nagoya-bank]] との将来統合可能性 vs [[nagoya-bank]] 独立堅持の姿勢 ^[inferred]
-
-## Open questions
-
-- 旧中京銀行ブランドは [[aichi-bank|あいち銀行]] 内で何年程度認知残存するか
-- 旧中京銀行 main bank だった中小零細顧客の継続率は
-- 県内 [[nagoya-bank]] との将来統合シナリオは具体化するか
-- [[aichi-fg]] が次の M&A 対象 (隣県地銀) を選定する場合の優先順位
 
 ## Related
 

@@ -16,7 +16,6 @@ sources:
 
 # 日本証券クリアリング機構 (JSCC)
 
-
 ## Wiki route
 
 This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
@@ -57,11 +56,6 @@ JSCC is where market volume becomes counterparty risk. It matters most during:
 - JGB collateral pressure (linked to [[money-market/jgb-repo-market-japan|JGB repo market]]);
 - clearing participant defaults;
 - product migration between exchange, PTS, OTC, and tokenized markets ([[securities/osaka-digital-exchange|ODX]] / [[JapanFG/progmat|Progmat]] context).
-
-## Counterpoints
-
-- JSCC is infrastructure, not a broker or exchange venue.
-- Public data needs careful interpretation; margin and clearing indicators are risk-management signals, not simple market-direction signals.
 
 ## Related
 

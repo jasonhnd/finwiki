@@ -82,8 +82,6 @@ A typical Japanese overseas resource or infrastructure project does not sit on o
 
 The diagram is stylised. Real deals shuffle the order — e.g., JBIC may take a direct equity stake via its special operations account, NEXI may wrap a portion of a commercial loan rather than an export contract, and multilaterals (ADB, World Bank, AIIB) or peer ECAs (K-EXIM, US EXIM, EDC, KfW IPEX) often sit alongside the Japanese stack.
 
-## Each institution's role
-
 ### JOGMEC — equity / exploration risk
 
 [[policy-finance/jogmec|JOGMEC]] is the resource-security node. On the project finance stack it carries the risk that other lenders refuse to underwrite: pre-FID exploration, geological and reserve risk, and equity participation in upstream oil, gas, and critical-mineral assets. Instruments include equity capital injection into resource-development subsidiaries of Japanese trading houses and utilities, asset acquisition support, and liability guarantees for exploration borrowings. JOGMEC's presence in the cap table is often the signal that lets [[JapanFG/jbic|JBIC]] and the megabank syndicate move forward — once reserves are proved up and the project is bankable, the senior debt layer can be sized.
@@ -130,14 +128,6 @@ Only publicly announced involvement is named here; tranche sizes and structures 
 
 For specific tranche sizes, confirm against JBIC and NEXI press releases for the exact facility name and date.
 
-## Counterpoints
-
-- **ECA finance squeeze**: The [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] sets minimum premia, repayment-term caps, and (via sector understandings) restricts coal-fired power finance materially after the 2021 Coal Sector Understanding update. Climate guidance has tightened what JBIC and NEXI can support on the fossil side. The stack still works for gas and transition projects but with sharper political scrutiny.
-- **Commercial-bank risk-return vs ECA**: Megabanks earn fee and margin on the commercial tranche but accept that NEXI cover and JBIC tranches absorb most pricing upside on the riskiest country exposures. ECA-backed tenor is long; pure private syndicates would not match it.
-- **Equity sponsors carry the residual**: Unlike a corporate bond or an [[finance/japan-acquisition-finance|acquisition-finance]] structure where the parent is on the hook, project-finance recourse is limited. Sponsors absorb completion risk, cost-overrun risk, and tail political risk that even NEXI cover does not fully insure.
-- **Public exposure concentration**: Stacking JOGMEC equity + JBIC loans + NEXI insurance + (in some cases) JICA ODA-aligned components creates concentrated Japanese state exposure to a single project / country combination. If one of these projects fails, multiple state balance sheets take losses simultaneously.
-- **Competition from non-Arrangement state finance**: Chinese policy-bank finance (China Development Bank, China EXIM) does not sit inside the OECD Arrangement, allowing terms the Japanese stack cannot match. This is a structural disadvantage in some emerging-market infrastructure tenders.
-
 ## How this differs from pure commercial syndicated loans
 
 A pure commercial syndicated loan — for a domestic Japanese acquisition or a corporate refinancing — does not need JOGMEC, JBIC, or NEXI. The megabanks lend on their own book against the corporate balance sheet, often with covenants tied to leverage and interest coverage, and tenors of 5–10 years. See [[finance/japan-acquisition-finance|Japan acquisition finance]] for that structure.
@@ -158,14 +148,6 @@ The project-finance stack is different in five ways:
 - **SPV / sponsor**: A limited-recourse vehicle is required so that project failure does not impair the trading-house or utility parent rated balance sheet, which is what allows the parent to participate in multiple parallel projects.
 
 Each layer absorbs a risk that the layers below it cannot price. Remove any one layer and the deal does not get built — or it gets built only by a competitor's policy-finance stack.
-
-## Open questions
-
-- How tightly will OECD climate-related sector understandings constrain JBIC / NEXI gas and LNG support over the next mandate cycle.
-- Whether JBIC's special operations account is being expanded to substitute for shrinking pure ECA-eligible volumes.
-- Whether Japanese trading-house equity capacity (the SPV layer) is keeping pace with policy demand for critical minerals.
-- How much of the commercial tranche megabanks can refinance into transition-bond or sustainability-linked markets post-COD.
-- The degree to which non-OECD state finance is shifting market share away from this stack in Southeast Asia and Africa.
 
 ## Related
 

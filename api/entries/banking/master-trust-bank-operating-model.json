@@ -53,13 +53,13 @@
     "1. 機関位置",
     "Shareholder structure (public disclosure)",
     "Why a custody-only trust bank exists",
-    "2. 主要業務",
     "Business-line map",
     "Operating-function breakdown",
-    "The 「信託口」 nominee surface"
+    "The 「信託口」 nominee surface",
+    "Three competitive layers"
   ],
   "body_links": {
-    "wikilinks_count": 29,
+    "wikilinks_count": 28,
     "wikilinks": [
       "JapanFG/bny-mellon-japan",
       "JapanFG/custody-bank",
@@ -72,7 +72,6 @@
       "JapanFG/nippon-life",
       "JapanFG/nochu-trust-bank",
       "JapanFG/nomura-asset-management",
-      "JapanFG/progmat",
       "JapanFG/sbi-asset-management",
       "JapanFG/state-street-japan",
       "JapanFG/sumitomo-mitsui-trust",
@@ -103,7 +102,6 @@
       "https://finwiki.zksc.io/JapanFG/nippon-life",
       "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
       "https://finwiki.zksc.io/JapanFG/nomura-asset-management",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/JapanFG/sbi-asset-management",
       "https://finwiki.zksc.io/JapanFG/state-street-japan",
       "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
@@ -126,9 +124,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21521,
-    "word_like_tokens": 3372,
+    "nonspace_chars": 16898,
+    "word_like_tokens": 2529,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

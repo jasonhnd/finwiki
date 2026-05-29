@@ -49,13 +49,13 @@
     "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
     "Wiki route",
     "Key facts (public sources only)",
-    "Operating template — the four-part Armstrong / Coinbase pattern",
     "Part 1 · Public-company structure from day one of listing",
     "Part 2 · Regulatory engagement as strategy, not defence",
     "Part 3 · Product scope as a regulatory perimeter problem",
     "Part 4 · Listed-exchange financial structure",
     "Listed-exchange operating mechanics",
-    "Founder-CEO conviction layer"
+    "Founder-CEO conviction layer",
+    "Strategic reading"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17681,
-    "word_like_tokens": 2820,
+    "nonspace_chars": 16132,
+    "word_like_tokens": 2557,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

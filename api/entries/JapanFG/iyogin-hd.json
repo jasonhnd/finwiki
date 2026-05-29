@@ -44,9 +44,9 @@
     "主要子会社 (公開情報)",
     "2. 沿革",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
     "地域基盤",
-    "デジタル戦略"
+    "デジタル戦略",
+    "競争マップ (四国 4 県)"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3353,
-    "word_like_tokens": 466,
+    "nonspace_chars": 2906,
+    "word_like_tokens": 418,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

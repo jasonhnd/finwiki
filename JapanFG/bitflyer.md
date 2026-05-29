@@ -18,7 +18,6 @@ sources:
 
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -91,12 +90,6 @@ bitFlyer Holdings, Inc.（持株、未上場）
 | デリバティブ | bitFlyer Lightning | 国内 BTC 先物 / FX（Lightning FX）|
 | ステーキング・周辺 | （限定的）| ETH 等の派生商品は他社比で慎重展開 |
 
-### 主要取扱通貨（国内、年により変動）
-
-BTC / ETH / ETC / LTC / BCH / MONA / LSK / XRP / BAT / XLM / XEM / XTZ / DOT / LINK / MKR / MATIC / SHIB / DOGE 等 ^[inferred]
-
-## 4. 戦略・競争
-
 ### コア戦略
 - **「日本発グローバル取引所」**: 国内最古参の一角 + 米国 / EU 子会社による多拠点展開
 - **BTC スポット集中**: アルトコイン百花繚乱型（[[exchanges/jp-exchange-coincheck|coincheck]] 等）と異なり、BTC 取引高 / 流動性で No.1 ポジションを志向
@@ -136,24 +129,6 @@ BTC / ETH / ETC / LTC / BCH / MONA / LSK / XRP / BAT / XLM / XEM / XTZ / DOT / L
 ### 業界ポジション
 - **JVCEA Type 1**（第一種）= 暗号資産交換業（現物 / デリバティブ）
 - 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[gmo-coin]] と並ぶ主要 4 社）
-
-## Counterpoints
-
-- **「国内 No.1」評価のブレ**: BTC 現物取引高では首位争いだが、利用者数 / アルトコイン取扱で [[exchanges/jp-exchange-coincheck|coincheck]] が優位な指標もある。「トップ」の定義依存 ^[ambiguous]
-- **IPO タイムライン不透明**: 2024 報道以後の具体的進捗は限定的、創業者復帰報道で再延期観測も ^[ambiguous]
-- **創業者経営権争いリスク**: 2024-2025 報道は株主構成 / ガバナンスが安定しないシグナル、IPO 審査への影響不明 ^[inferred]
-- **B2B miyabi の事業化度**: bitFlyer Blockchain は独立事業として黒字化・大型案件公表が限定的、戦略事業 vs ピボット未完 の評価分岐 ^[inferred]
-- **海外子会社の収益貢献**: USA / EUROPE の連結貢献規模は非公開、グローバル戦略の実体不明 ^[ambiguous]
-- **2018 業務改善命令の構造的影響**: 監督当局との緊張関係履歴は IPO 審査・銀行系列提携に長期的影響残存可能性 ^[inferred]
-
-## Open questions
-
-- 2024〜 IPO 検討の具体的進捗は？ 引受証券・想定時価総額・上場市場
-- 創業者 加納裕三 の復帰可能性と現経営陣との関係調整は？
-- bitFlyer USA / EUROPE の連結業績比率は？ グローバル戦略の実態
-- miyabi（[[systems/bitflyer-blockchain|bitFlyer Blockchain]]）の B2B 採用実績は？ Progmat / [[mufg]] 主導ステーブルコインとの競合 / 補完関係
-- JVCEA 内部での bitFlyer の役割（理事 / 規制策定主導度）は？
-- [[ndfg]] [[sbi-hd]] [[gmo-coin]] 等 既存 FG 傘下取引所 vs 独立系（bitFlyer / bitbank）のシェア構造変化
 
 ## Related
 

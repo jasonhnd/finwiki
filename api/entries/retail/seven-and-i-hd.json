@@ -48,8 +48,8 @@
     "Competitive Position",
     "Regulatory / Legal Reading",
     "Strategic Reading",
-    "Open Questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5332,
-    "word_like_tokens": 850,
-    "inbound_wikilinks_count": 26,
-    "last_modified": "2026-05-20"
+    "nonspace_chars": 4880,
+    "word_like_tokens": 769,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-05-29"
   }
 }

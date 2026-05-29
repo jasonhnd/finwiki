@@ -55,11 +55,11 @@
     "Wiki route",
     "1. What a covered bond is — short refresher",
     "2. European statutory vs Japanese contractual structure",
-    "3. The Japanese megabank programs — MUFG and SMBC",
     "MUFG Bank covered bond program",
     "SMBC covered bond program",
     "4. Cover pool composition — residential mortgages",
-    "5. Pricing vs senior unsecured"
+    "5. Pricing vs senior unsecured",
+    "6. Covered bond vs RMBS — funding-instrument choice"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12217,
-    "word_like_tokens": 1913,
+    "nonspace_chars": 11406,
+    "word_like_tokens": 1782,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

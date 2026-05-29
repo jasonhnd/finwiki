@@ -20,7 +20,6 @@ status: candidate
 
 # クロスチェーンブリッジコモディティ化とチェーン抽象層への価値上方シフト
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chain-abstraction-pattern-overview|チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -29,9 +28,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 - 2020-2023 クロスチェーンブリッジ利益レンジ 0.1-0.5% 手数料 ^[extracted]
 - 2024+ ブリッジ技術成熟・利益圧縮、コモディティ化 ^[extracted]
-- チェーン抽象層の価値捕捉 = UX + 流動性ルーティング + solver マーケット ^[inferred]
-- LayerZero / Wormhole が「チェーン抽象インフラプロバイダ」へ転換 ^[inferred]
-- 価値捕捉の上方シフトの類比:伝送プロトコル(TCP/IP)→ アプリケーション層(Google / Meta) ^[inferred]
 
 ## Mechanism / How it works
 
@@ -51,19 +47,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 2017-2019 Atomic Swap / WBTC 等の初期クロスチェーン方式、標準化プロトコルなし。2020-2021 Wormhole / Multichain / Axelar 等の汎用クロスチェーンブリッジが台頭 → 高 fee + 高 TVL の時代。2022 Wormhole が攻撃を受け $325M の損失 → クロスチェーンブリッジリスクが顕在化。2023 LayerZero / Hyperlane / Across 等の次世代クロスチェーンアーキテクチャが台頭 → 技術経路は多様化したが fee は圧縮。2024+ クロスチェーンブリッジ利益が圧縮、価値はチェーン抽象層に上方シフト。AggLayer / NEAR Intents / Across が「チェーン抽象 + solver マーケット」へ転換。2025-2026 クロスチェーンブリッジサービス事業者が次々に転換 —— LayerZero は今や「ブリッジ」ではなく「omnichain messaging infrastructure」と自称することを好む([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] の最新スライス参照)。
 
-## Counterpoints
-
-- 「ブリッジコモディティ化」は技術が引き続きオープン化することを前提とする —— 規制が逆にブリッジ集中化(KYC bridge)を促せば、利益は反発する可能性
-- チェーン抽象層が本当に価値を捕捉できるかは十分検証されていない —— ユーザーは「見えないサービス」にプレミアムを払いたがらない可能性
-- solver マーケットは race-to-bottom、手数料が継続的に圧縮される可能性
-- Web2 アプリケーション層(Google / Meta)の類比には大規模ディストリビューションが必要、チェーン抽象層がそれを再現できるかは不確定
-
-## Open questions
-
-- ブリッジ会社は転換期にチェーン抽象層会社(AggLayer / NEAR)に買収されるか?
-- solver マーケットのマネーロンダリング対策コンプライアンスを規制はどう扱うか?
-- 機関チェーン(Tempo / Arc)は自前のチェーン抽象 + solver ネットワーク(垂直統合)を構築するか?([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] における Circle 自営 Arc チェーンの選択と対照)
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -80,4 +63,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - Across Protocol スマートコントラクト（intent ベース次世代ブリッジ）— https://github.com/across-protocol/contracts
 - NEAR Intents 公式ドキュメント（意図 solver マーケット）— https://docs.near.org/chain-abstraction/what-is
 - CoW Protocol スマートコントラクト（solver 入札マーケットの初期事例）— https://github.com/cowprotocol/contracts
-

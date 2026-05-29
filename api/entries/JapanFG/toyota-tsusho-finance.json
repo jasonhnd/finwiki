@@ -46,17 +46,17 @@
   "headings": [
     "豊田通商フィナンス (Toyota Tsusho Finance)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "トヨタグループ金融機能の三系統",
-    "豊田通商系銀行関係",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "豊田通商の事業構造と金融機能",
-    "競合 / Peer"
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 19,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/boj-monetary-policy",
@@ -67,10 +67,8 @@
       "JapanFG/mitsubishi-corp-finance",
       "JapanFG/mitsubishi-hc-capital",
       "JapanFG/mitsui-bussan-financial-services",
-      "JapanFG/mizuho-fg",
       "JapanFG/mizuho-lease",
       "JapanFG/mufg",
-      "JapanFG/smfg",
       "JapanFG/smfl",
       "JapanFG/sojitz-finance",
       "JapanFG/sumitomo-corp-financial-management",
@@ -90,10 +88,8 @@
       "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance",
       "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mizuho-lease",
       "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/JapanFG/smfl",
       "https://finwiki.zksc.io/JapanFG/sojitz-finance",
       "https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management",
@@ -107,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5970,
-    "word_like_tokens": 761,
+    "nonspace_chars": 4047,
+    "word_like_tokens": 530,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

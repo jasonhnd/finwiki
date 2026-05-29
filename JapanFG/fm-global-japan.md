@@ -22,7 +22,6 @@ sources:
 
 # FM Global Japan / FMグローバル・ジャパン
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/lloyd-japan|Lloyd's Japan]] and [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] for foreign-commercial-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
@@ -61,19 +60,6 @@ This positions FM Global Japan as a niche but high-profile player alongside the 
 - Demonstrates the engineering-led loss-prevention model not present in conventional Japan non-life carriers.
 - Useful for understanding the industrial property segment, particularly for semiconductor, automotive, and energy facilities where catastrophe exposure (earthquake, typhoon, flood) is significant — see also [[insurance/natcat-reinsurance-japan|natcat reinsurance Japan]].
 - Sets up reference for comparing mutual vs. stock-company insurance structures in the Japan market.
-
-## Counterpoints
-
-- FM Global's market share by premium is small versus the domestic [[insurance/japan-nonlife-big-three|non-life big three]], but its share of large industrial property capacity is meaningful. ^[inferred]
-- Mutual structure means no public equity disclosure; financial metrics rely on Factory Mutual's group reports and Japan branch FSA filings rather than stock-market reporting. ^[inferred]
-- Engineering-led pricing model can lead to client churn when softer-market competitors (e.g., [[JapanFG/lloyd-japan|Lloyd's Japan]] syndicates) offer lower rates without loss-prevention conditions. ^[inferred]
-
-## Open questions
-
-- What is FM Global Japan's premium volume relative to total foreign non-life premium in Japan?
-- How does FM Global Japan's loss ratio compare with domestic non-life carriers for large industrial risks, given the loss-prevention investment?
-- What is the breakdown of FM Global Japan clients by sector (semiconductor / automotive / energy / pharmaceutical / data center)?
-- How does FM Global manage Japan's earthquake exposure within its global accumulation framework?
 
 ## Related
 

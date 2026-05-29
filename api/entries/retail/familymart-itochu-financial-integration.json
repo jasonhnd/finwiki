@@ -60,7 +60,7 @@
     "Itochu Money — the broader consumer-finance initiative",
     "Yamada Cycle — the home-electronics retail-finance cross-leverage",
     "Comparison vs Lawson-Mitsubishi 2024 and Seven & i 7-Bank",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 27,
@@ -126,9 +126,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16414,
-    "word_like_tokens": 2601,
+    "nonspace_chars": 13788,
+    "word_like_tokens": 2165,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

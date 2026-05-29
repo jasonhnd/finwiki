@@ -21,7 +21,6 @@ sources:
 
 # クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview]] as the parent overview and [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] for matched protocol selection. Pair with each pole's standalone entry — [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] — and read it against [[fintech/usd-stablecoin-interchange]] for the stablecoin transfer context that drives ≥60% of cross-chain volume. Wormhole has no standalone entry yet (TBD).
@@ -63,22 +62,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 2021-2022 クロスチェーン構図は Wormhole / Multichain / Synapse など複数の無秩序競争 · セキュリティモデル差は不明瞭。2022 一連のブリッジ hack(Ronin $625M · Wormhole $325M · BSC $570M · Nomad $190M)がセキュリティを中核選定次元に押し上げた。2023 Chainlink CCIP ローンチ · oracle ブランドで institutional layer を切り取り。2024 LayerZero v2 が messaging library を再構築し modular DVN を導入 · Hyperlane メインネット起動で permissionless モードへ · Wormhole が ZK Verifier 追加で Guardian-only モデルの弱点を修正。
 
 2025 CCTP V2 Fast Transfer + Hooks により USDC 調達がアトミック primitive(8-20 秒)となり · USDC シナリオでの汎用ブリッジの価値を奪った。2026-Q1 5 極構図はタスク専門特化マトリクスに固定 · 主流 dApp は同時に 3-4 ブリッジを統合しシナリオでルーティング。Wormhole の NTT(Native Token Transfers)+ CCTP integration は relevance 再構築の重要な施策 · Wormhole を「Solana ブリッジだけ」ではなくする。
-
-## Counterpoints
-
-**「5 極論」自体が疑わしい**:実際 CCTP V2 は USDC しか担わず · 汎用 messaging ではない · 他の 4 極とは同じ層にない。厳密には「4 極(general)+ 1 極(USDC-only)」とすべき。並列に並べたのは、ステーブルコイン transfer シナリオで CCTP V2 が汎用ブリッジ volume の 60%+ を直接呑み込んだから。
-
-**CCIP institutional ラベルは oracle ブランドの延長**:Chainlink の販売優位により CCIP は SWIFT / DTCC / Kinexys パイロットを獲得 · ただし技術的に RMN は依然 Chainlink 管理下の委員会で · 真の非中央集権化度は Wormhole 19 Guardian より強いとは限らない。LayerZero DVN クライアント設定は理論的により非中央集権だが · 実際には大半のアプリが default 設定 = LayerZero Labs に委任。
-
-**Hyperlane permissionless は諸刃の剣**:誰でもデプロイ可能で参入障壁が低いが · アプリ開発者が 100% セキュリティ責任を負う · ISM 誤設定で直接損失。CCIP / Wormhole / CCTP の「中央集権化」は逆に institutional が重視する backstop。
-
-**Wormhole 2022 hack の陰**:Jump Crypto が $325M を全額補填し ZK Verifier 後のセキュリティモデルアップグレードがあったが · institutional 顧客は依然回避する傾向。Wormhole TVL の大半は Solana エコシステム集中由来 · EVM 高品質 dApp で CCIP / LayerZero に勝つのは困難。
-
-クロスチェーンは長期的に zk-rollup ネイティブ相互運用(Eclipse / Espresso shared sequencer · Polygon AggLayer · Optimism Superchain)に置換される可能性 · 5 極全てが構造的脅威に直面。
-
-## Open questions
-
-CCTP V2 Hooks の普及速度は LayerZero / Wormhole に全 USDC シナリオで価値を失わせるか · 汎用 messaging に代替不可能なポジションは残るか?CCIP institutional パイロットは 5-10 顧客から 50+ に拡大し risk grade を維持できるか?LayerZero v2 ZRO token ローンチ後にガバナンスは真に分権するか?Hyperlane HYPER token + DAO は Eclipse / Celestia 以外のフラッグシップアプリを引き付けられるか?Wormhole は Solana 以外(EVM / Sui / Aptos)で institutional 顧客に breakthrough できるか?2027-2028 zk shared sequencer 成熟後に 5 極のうちどれが置換または統合されるか?
 
 ## Related
 <!-- wiki-links:managed -->

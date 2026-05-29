@@ -125,18 +125,6 @@ The JHF / private spread gap is a key economic input into bank-originator securi
 
 See [[structured-finance/credit-rating-methodology-jcr-r-and-i]] for rating-agency methodology details.
 
-## Counterpoints
-
-- **"Spread gap will close"**: structural factors (government support, monthly supply, deeper investor base) likely keep the gap durable.
-- **"Private RMBS is just JHF MBS at a wider spread"**: no — different underlying loans, different prepayment patterns, different credit-enhancement mechanics.
-- **"Tight JHF spread means no value"**: lifers and ALM-driven buyers value the spread for relative-to-JGB pickup with sovereign-linked credit; not all investors are spread-maximizers.
-
-## Open questions
-
-- How BoJ policy normalization reshapes the spread relationship.
-- Whether private RMBS issuance volume grows enough to develop deeper secondary liquidity (which would tighten its spread).
-- The role of foreign investors as JGB-curve buyers — would they cross over to JHF MBS at scale?
-
 ## Related
 
 - [[structured-finance/INDEX]]

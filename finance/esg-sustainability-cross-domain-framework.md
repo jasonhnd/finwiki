@@ -71,8 +71,6 @@ Academic literature (e.g. Berg-Koelbel-Rigobon 2022) documents low correlation (
 
 For Japan analysts, this disagreement means single-rating screening is fragile; multi-provider triangulation is standard institutional practice.
 
-## Japan-Specific Disclosure Standards
-
 ### TCFD (Climate-Related Financial Disclosures)
 
 TCFD-aligned disclosure has been required for TSE-Prime listed companies since the 2021 governance-code revision. The four TCFD pillars (Governance / Strategy / Risk Management / Metrics & Targets) are the disclosure structure.
@@ -111,8 +109,6 @@ The [[securities/tokyo-stock-exchange|TSE]] Corporate Governance Code (most rece
 | Cost of capital and price-to-book | Per [[finance/cost-of-capital-japan-2026-reference|TSE engagement programme]] |
 
 The governance code's interaction with ESG creates a structural pressure-channel: listed companies that lag in disclosure / governance face engagement, foreign-investor selling pressure, and potential index-exclusion risk.
-
-## Labelled Debt Taxonomy
 
 ### Green Bond
 
@@ -186,26 +182,6 @@ For deals with material ESG findings, sponsors increasingly require representati
 | Long-duration capex flexibility | Real-options optionality; see [[finance/real-options-valuation-japan-applications|real options valuation]] |
 
 The empirical picture: a 5-10bp cost-of-debt advantage for ESG-aligned issuance is consistent with public-market data; cost-of-equity impact is much more contested and likely smaller.
-
-## Counterpoints
-
-- ESG rating provider disagreement is high; single-rating reliance is fragile
-- "Greenium" magnitude is small and variable across cycles
-- ISSB / SSBJ adoption is in transition phase; comparability is partial
-- TCFD scenario-analysis quality varies widely; many disclosures are formulaic
-- Real-options on transition-pathway optionality is hard to defend in fairness-opinion settings
-- Greenwashing risk requires source-document discipline; press releases ≠ structured disclosure
-- Japan governance-code engagement on ESG can conflict with maximisation of short-term shareholder return
-- Transition-finance taxonomy is by design less restrictive than green-bond taxonomy; this is a feature, not a flaw, but invites scrutiny
-
-## Open questions
-
-- How quickly does SSBJ-aligned reporting become a binding compliance requirement vs continued comply-or-explain?
-- Does the climate-transition government bond programme materially anchor Japan transition-finance pricing?
-- How will TSE-Prime engagement on cost of capital interact with ESG-driven discount-rate analysis?
-- Will GRESB-aligned ESG performance compress J-REIT cap rates for top-scored portfolios?
-- How does ESG due diligence change deal value distribution in cross-border M&A inbound to Japan?
-- Do labelled-debt categories (green, SLB, transition) converge or diverge in spread over time?
 
 ## Related
 

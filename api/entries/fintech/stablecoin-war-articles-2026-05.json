@@ -44,16 +44,13 @@
     "Key facts",
     "Mechanism / シリーズ構造",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "central-banking-function-unbundling",
       "fintech/2022-three-variable-cascade-thesis",
       "fintech/INDEX",
       "fintech/central-banking-function-unbundling",
@@ -64,12 +61,10 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/portfolio-winner-structure-arm-analog",
-      "fintech/three-circles-stablecoin-mra-framework",
-      "portfolio-winner-structure-arm-analog"
+      "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/2022-three-variable-cascade-thesis",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
@@ -80,16 +75,15 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
       "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/portfolio-winner-structure-arm-analog"
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5143,
-    "word_like_tokens": 919,
+    "nonspace_chars": 4519,
+    "word_like_tokens": 821,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

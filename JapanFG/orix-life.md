@@ -16,7 +16,6 @@ sources:
 
 # オリックス生命保険
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -78,8 +77,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **代理店**（保険ショップ・乗合代理店）
 - **銀行窓販**（オリックス銀行併用＋他行）
 
-## 4. 戦略
-
 ### 親会社シナジー
 
 - オリックスグループの **個人向け金融商品コア** として位置付けられる。
@@ -108,19 +105,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - ネット販売・比較サイトの広告ルール強化
   - IFRS17 / 経済価値ベースのソルベンシー規制（2025〜段階導入）→ 第三分野中心ポートフォリオへの影響は親会社 IR 開示参照
   - 少子高齢化と医療制度改革に伴う第三分野市場の構造変化
-
-## Counterpoints
-
-- 「ネット直販＝ライフネット型と同じ」誤認: 実態は代理店・銀行窓販併用のハイブリッドで、純ネット専業の [[lifenet]] とはコスト構造・チャネル経済性が異なる ^[inferred]
-- 「親会社 [[orix-corp]] 内の比重」: 連結業績寄与は安定的だが、グループ事業ポートフォリオ全体ではリース・PE 等と並ぶ一セグメントに留まる ^[ambiguous]
-- 「CURE 一本足リスク」: 主力商品ブランドへの依存度と、新商品開発スピードのバランス ^[inferred]
-
-## Open questions
-
-- 第三分野（医療・がん）市場での価格競争激化への対応戦略は？
-- 経済価値ベースのソルベンシー規制（2025〜）下での資本効率・配当方針は？
-- ネット直販 vs 代理店 vs 銀行窓販のチャネル別収益構造・成長配分は？
-- オリックスグループ内での個人金融クロスセル深度は？（銀行・カードローン・生保の連携）
 
 ## Related
 

@@ -137,18 +137,6 @@ Compare with [[structured-finance/japan-rmbs-issuance-structure]] and [[structur
 - It is what makes long-tenor fixed-rate mortgages feasible in Japan; without JHF securitization support, private banks could not hold large fixed-rate mortgage books matched to long-duration funding.
 - It is a core ALM asset for Japanese lifers and a JGB-substitute for many institutional accounts.
 
-## Counterpoints
-
-- **"JHF MBS is a sovereign bond"**: not formally — JHF is an incorporated administrative agency, not the sovereign. But market pricing treats senior class as effectively sovereign-linked.
-- **"JHF MBS is risk-free"**: senior class is very low risk; but prepayment risk affects duration and reinvestment risk for buy-and-hold investors.
-- **"Monthly issuance means no scarcity"**: monthly cadence supports liquidity but specific tenors / coupons may trade rich based on demand.
-
-## Open questions
-
-- How long-term BoJ policy normalization affects Flat 35 demand and refinance behavior.
-- Whether the JHF MBS engine ever consolidates with broader sovereign-debt issuance for capital-market efficiency.
-- The interaction between JHF MBS supply and the [[policy-finance/japan-policy-finance-system]] funding mix.
-
 ## Related
 
 - [[structured-finance/INDEX]]

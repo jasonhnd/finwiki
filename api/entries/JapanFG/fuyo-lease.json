@@ -47,7 +47,7 @@
     "主要子会社・関連会社",
     "2. 事業セグメント・マップ",
     "3. 沿革",
-    "4. 戦略・競争"
+    "芙蓉グループ内取引"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4749,
-    "word_like_tokens": 653,
+    "nonspace_chars": 3344,
+    "word_like_tokens": 498,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

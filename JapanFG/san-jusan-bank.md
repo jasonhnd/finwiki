@@ -56,8 +56,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
               └── 三十三コンピュータサービス
 ```
 
-## 3. 合併歷史・前身
-
 ### 旧 第三銀行系譜
 
 - **1895**: 第百十二国立銀行 設立 (旧 第三銀行の源流)
@@ -100,9 +98,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
 | 観光関連 | 伊勢神宮参拝客 + 関連旅館・小売 |
 | 工業 | 四日市コンビナート (石油化学・電子部品) 関連 |
 | 水産 | 伊勢湾・熊野灘の漁業・水産加工 |
-| 農業 | 松阪牛・伊勢茶等のブランド農業融資 ^[inferred] |
-
-## 6. 戦略与競争
 
 ### 地理ポジション
 
@@ -133,20 +128,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
   - 2024〜 地銀再編期待 (県内 No.1 [[hyakugo-bank|百五]] との将来統合シナリオは公式否定)
   - 中小企業向け事業性評価融資推進
   - 三重県地方創生 + 観光復興融資
-
-## Counterpoints
-
-- 「県内 No.2」観 vs 実際の二行統合後シナジー: 統合 3 年経過するも、預金・貸出シェアでは依然 [[hyakugo-bank|百五銀行]] に大差 ^[inferred]
-- 「ダブル名称ブランド」論争: 「三十三」名称が顧客認知度向上に寄与しているか、旧両行ファンの分散は ^[ambiguous]
-- 「中京 vs 関西」境界地銀の戦略選択: どちらかに寄せる戦略か、両にらみ維持か ^[inferred]
-- 「人口減少リスク」: 三重県人口は 2020 年代継続的に減少局面、貸出需要長期縮小懸念 ^[inferred]
-
-## Open questions
-
-- 三十三銀行 + [[hyakugo-bank|百五銀行]] の将来統合可能性は? (県内 1+2 統合シナリオ)
-- 名古屋圏 ([[aichi-bank|あいち銀行]] / [[juroku-bank|十六銀行]]) への越境進出戦略の実効性
-- DX 投資のスケール: [[san-jusan-fg]] 単独で勝ち抜けるか、TSUBASA 等広域アライアンス参加検討は
-- 観光・水産・工業の三本柱産業の構造変化への対応
 
 ## Related
 

@@ -19,7 +19,6 @@ status: candidate
 
 # Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -31,9 +30,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - Arc 2025.09 公表 · 2026.Q1-Q2 テストネット · 2026.Q4 メインネット予定 ^[extracted]
 - Circle 利息の Coinbase 50% 分配 = $905M/年(2024)が回収目標の潜在規模 ^[extracted]
-- Arc 上 $5B USDC = Circle 増収 $112.5M/年(純) ^[inferred]
 - Arc は Circle 既存の CCTP と互換 = Circle が自ら分配チャネルをコントロール ^[extracted]
-- Tempo / Codex / Plasma が既に「USDC 最適化 L1」の技術課題を解決済み = Arc は技術的差別化ではない ^[inferred]
 
 ## Mechanism / How it works
 
@@ -63,14 +60,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2018-2024 = Coinbase + Circle 連合が安定 · 50/50 維持。2024.Q4 = Stripe / Visa / SC が参入 · 複数のステーブルコイン L1 プロジェクトが浮上([[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] / Codex / Plasma) · Circle の outside option 集合を変化させる。2025.07 = GENIUS Act §501 でコンプラ標準化 · Circle はもはや Coinbase の「コンプラ裏付け」を必要としない。2025.09 = Arc 公表 = Circle は「垂直統合」のレバーを使い Coinbase に再交渉を迫る。2026 Arc メインネット稼働 = 交渉が実戦段階に入り、[[systems/cctp-v2-overview|CCTP v2]] とのブリッジで Base 単一チェーンのロックインを希釈する必要がある。
 
 **歴史的類比**:Visa / Mastercard と発行銀行間の interchange 再交渉 · Apple ↔ Google 検索デフォルト契約(2024 反トラスト) · Microsoft ↔ IBM OS 契約(1990 年代)。**コア法則**:総価値の 50% を分配側が占める協定は、規制 / 技術変革のウィンドウで必ず再交渉される。
-
-## Counterpoints
-
-「Arc は失敗する」と主張する立場:Circle は L1 運営経験がない · validator の招集が難しい · 既存の Coinbase / Base ユーザー基盤と切断される · 5 年以内に Arc 上の USDC は $1-2B にしか達せず、50/50 をリセットするには不十分。規制(SEC / OCC)が垂直統合に介入する可能性(Circle が同時に発行体 + L1 運営者 = 利益相反)。Coinbase は逆に BASE トークンの起動を加速させる可能性 = 経路 C で Circle に反撃。一方 [[fintech/cbbtc-institutional-btc-wrapper|cbBTC 閉ループ]] は既に Base 自循環キャッシュフローのプロトタイプを提供している。
-
-## Open questions
-
-Arc メインネット稼働後 12 か月の Arc 上 USDC ボリュームは?Coinbase は逆に BASE トークンを発行するのか(意思決定窓 ≤ 18 か月)?Circle ↔ Coinbase は公開仲裁を開始するのか?規制(OCC / SEC)は「発行体兼自社 L1」の二重身分に介入するのか?Tempo / Codex は機に乗じて USDC distribution シェアを奪うのか?
 
 ## Related
 <!-- wiki-links:managed -->

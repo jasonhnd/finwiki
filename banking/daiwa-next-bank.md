@@ -50,8 +50,6 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 ### Why a securities group built a bank
 
-The 2011 founding of Daiwa Next Bank reflected three structural drivers: ^[inferred]
-
 1. **MRF (money reserve fund) ←→ bank-deposit substitution.** Pre-2000s, brokerage account-cash sat in MRF investment-trust products. The post-2000 reform allowed brokerages to direct customer cash into affiliated bank deposits (sweep). Owning the bank captures the deposit spread that previously flowed to external MMF / MRF managers.
 2. **Cross-sell with brokerage products.** Customers who already trust Daiwa Securities for investment will move household deposit balances to a Daiwa-branded bank, enabling integrated asset-formation cross-sell.
 3. **Defence against ecosystem-bank disruption.** [[banking/rakuten-bank|Rakuten Bank]] linked to [[JapanFG/rakuten-securities|Rakuten Securities]] and [[JapanFG/ssnb|SSNB]] linked to [[JapanFG/sbi-securities|SBI Securities]] established the bank-broker integrated model as standard. Without its own bank, Daiwa would have been exposed to its customers' brokerage cash leaking to those ecosystems.
@@ -68,8 +66,6 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
   └── Other group subsidiaries (PB, IB, IT, etc.)
 ```
 
-## 2. Product franchise
-
 ### Brokerage-linked deposit core (MRF / sweep mechanics)
 
 The defining product axis is the integration with Daiwa Securities cash management:
@@ -80,8 +76,6 @@ The defining product axis is the integration with Daiwa Securities cash manageme
 | Trade-settlement cash flow | Proceeds from securities sales credit through the linked Daiwa Next Bank account |
 | MRF substitution | The historical role of MRFs is partially absorbed by sweep-deposit mechanics in the bank-broker integrated model |
 | Multi-currency support | Foreign-currency deposit products that complement 外貨建て投信 / 外貨建て債券 sales at Daiwa Securities |
-
-The customer experience is that of a brokerage with bank-grade cash management embedded, rather than a standalone net bank that happens to be operated by a securities group. ^[inferred]
 
 ### Yen and foreign-currency deposit
 
@@ -98,7 +92,6 @@ The bank's positioning is explicitly **asset-formation support** rather than pay
 
 - No major credit-card franchise of its own — payment-frequency play is not a strategic axis.
 - Limited consumer-lending product set — focused on the affluent / mass-affluent customer segment that Daiwa Securities serves.
-- Mortgage origination has been a smaller line; the Orix Bank acquisition is expected to materially expand this dimension. ^[inferred]
 
 ### Channel architecture: securities-bank hybrid
 
@@ -110,17 +103,11 @@ Unlike pure online net banks, Daiwa Next Bank can touch customers through three 
 | Daiwa Securities branch counter | Cross-introduction at brokerage face-to-face touchpoints |
 | Daiwa Securities relationship officer | Wealth-management-style introduction for mass-affluent customers |
 
-This three-channel architecture is structurally distinct from the pure online channel of [[banking/sony-bank|Sony Bank]] / [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]], and is the same as the brokerage-anchored channel model at [[JapanFG/ssnb|SSNB]] (via SBI face-to-face channels) and [[banking/au-jibun-bank|au Jibun Bank]] (via KDDI shops). ^[inferred]
-
-## 3. The Orix Bank acquisition (2026-04-27 announcement)
-
 ### What was announced
 
 On **2026-04-27**, Daiwa Securities Group / Daiwa Next Bank disclosed an agreement to make [[JapanFG/orix-bank|Orix Bank, Ltd.]] a wholly-owned subsidiary, with closing subject to regulatory approvals. ^[extracted]
 
 ### Why the deal matters
-
-Orix Bank historically held a meaningful mortgage book, real-estate-investment-loan franchise, deposit base, and trust-banking adjacencies. For Daiwa Securities Group, the acquisition would: ^[inferred]
 
 1. **Add mortgage origination capacity** that Daiwa Next Bank had not built on its own.
 2. **Diversify the bank-side asset mix** beyond brokerage-linked deposits and securities investment, into real-estate-backed credit.
@@ -128,8 +115,6 @@ Orix Bank historically held a meaningful mortgage book, real-estate-investment-l
 4. **Materially increase the deposit base** of the consolidated bank holdings.
 
 ### Operating-integration questions
-
-The architectural choice for the post-close integration has implications for the group's bank-side strategy: ^[inferred]
 
 - **Single merged bank** under one license (Daiwa Next Bank + Orix Bank operationally integrated).
 - **Sister-bank structure** with two licenses (Orix Bank retained as a separate operating subsidiary of Daiwa Securities Group, with mortgage and real-estate-loan specialisation).
@@ -144,13 +129,10 @@ Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required
 | Metric | Pattern |
 |---|---|
 | Deposit balance | Several trillion yen class (pre-Orix Bank consolidation) ^[ambiguous]; significantly higher after the deal closes |
-| Account count | Largely a subset of Daiwa Securities account holders ^[inferred] |
 | Foreign-currency deposit share | Higher than pure-yen net banks, reflecting brokerage-linked FX product complementarity |
 | Loan book | Historically modest; expanded materially upon Orix Bank consolidation |
 | ROE | Modest on standalone basis; capital efficiency benefits from securities-group cross-sell economies |
 | Capital | Well above 銀行法 minimums |
-
-## 5. Strategic positioning and competitive shape
 
 ### Securities-bank hybrid cohort
 
@@ -160,8 +142,6 @@ Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required
 | Sumitomo Mitsui Trust + SBI (former 住信SBI) | [[JapanFG/ssnb|SSNB / NEOBANK]] | [[JapanFG/sbi-securities|SBI Securities]] | Pure online + BaaS partner architecture |
 | KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[JapanFG/au-kabucom-securities|au Kabucom Securities]] | Telecom-anchored ecosystem bank-broker linkage |
 | Rakuten | [[banking/rakuten-bank|Rakuten Bank]] | [[JapanFG/rakuten-securities|Rakuten Securities]] | Commerce-anchored ecosystem bank-broker linkage |
-
-The Daiwa pole is **purely securities-anchored** without commerce or telecom ecosystem flywheel — closest in structural logic to SSNB's SBI-side architecture, but with Daiwa's traditional securities-house customer base. ^[inferred]
 
 ### Where Daiwa Next does not compete
 
@@ -179,25 +159,6 @@ The Daiwa pole is **purely securities-anchored** without commerce or telecom eco
 | Foreign-currency deposit | FSA + BoJ statistics + AML | Cross-border AML applied |
 | Deposit insurance | 預金保険機構 | JPY deposit coverage applies |
 | Pending Orix Bank acquisition | 銀行法第52条+ 独占禁止法 review | Subject to FSA approval and antitrust clearance |
-
-## Counterpoints
-
-- "Daiwa Next is just a bank wrapper around a brokerage." Partly fair — the customer base overlaps heavily with Daiwa Securities. But sweep-deposit and FX-product mechanics are distinct banking-side functions, and the Orix Bank consolidation expands the bank-side franchise into genuinely new territory. ^[inferred]
-- "Securities-bank hybrid models are inherently smaller than ecosystem banks." Smaller on account count, yes; but per-account asset is materially higher in the affluent / mass-affluent customer base typical of securities-house customers. ^[inferred]
-- "Orix Bank acquisition is over-priced or strategically unclear." Open question — the announcement context, valuation, and integration architecture remain in the early-disclosure phase as of 2026-04-27. ^[ambiguous]
-- "MRF is dying because of sweep deposits." Partially true — sweep mechanics have eroded MRF balances at securities firms with affiliated banks, but MRFs persist for firms without bank affiliates and for specific use cases. ^[inferred]
-- "Sweep deposits are a flight risk if interest-rate spreads narrow." Possible — in a falling-rate environment the deposit-vs-MRF spread can compress, prompting balance reallocation, but the integrated UX provides stickiness beyond pure rate competition. ^[inferred]
-
-## Open questions
-
-- What is the exact size and integration architecture for Orix Bank after close — single merged bank, sister-bank structure, or franchise split?
-- How does the consolidated bank's deposit base, loan book, and ROE compare to standalone Daiwa Next and standalone Orix Bank pre-deal?
-- What is the deal valuation and how does it compare to recent bank-acquisition multiples in Japan?
-- How does the trust-bank dimension (via Orix Bank trust products and [[JapanFG/daiwa-living-trust|Daiwa Living Trust]]) play out — combined trust franchise, or specialised division?
-- What share of Daiwa Securities account-holders use Daiwa Next as primary bank vs payment bank vs deposit-park bank?
-- How will the sweep-deposit / MRF mechanics evolve as the BoJ rate-normalization cycle progresses through 2024–2026?
-- Does the consolidated bank pursue any meaningful BaaS / partner-bank distribution, or stay purely Daiwa-group internal?
-- How does the consolidated bank's mortgage-origination capacity compare to [[JapanFG/ssnb|SSNB]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[banking/sony-bank|Sony Bank]]?
 
 ## Related
 

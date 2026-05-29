@@ -92,21 +92,6 @@ For AI-agent workloads — many concurrent micro-transactions across many wallet
 
 Both chains have integrated [[systems/cctp-v2-overview|CCTP V2]] for canonical USDC mobility, sit in the Wormhole / [[systems/layerzero-v2-omnichain-messaging|LayerZero]] mesh for general messaging, and offer **sponsored-gas** + **Web2-friendly login** that maps cleanly to AI-agent UX.
 
-## Counterpoints
-
-- **EVM gravitational pull** — most DeFi liquidity, tooling, and developer mindshare lives in EVM; Move adoption requires either parallel-execution dominance or a killer app
-- **Mysten Labs / Aptos Labs concentration risk** — both ecosystems have heavy founding-team-foundation centralization
-- **Move learning curve** — Solidity-trained devs have to retool; Move's resource model is conceptually different
-- **TPS benchmarks vs production reality** — peak TPS demos don't always translate to real workload throughput
-- **Token unlock pressure** — both SUI and APT have meaningful insider unlock schedules that overhang spot price
-
-## Open questions
-
-- Does either chain win a **definitive killer app** category (e.g., agent-payment default, gaming, RWA settlement)?
-- Will the **Move language** evolution converge between Sui Move and Aptos Move, or diverge further?
-- Do institutions adopt Sui / Aptos for tokenization vs sticking with [[systems/canton-overview|Canton]] / [[systems/hyperledger-besu-overview|Besu]]?
-- How do parallel-execution L1s compete with parallel-execution efforts on Ethereum (e.g., Reth + parallel EVM research)?
-
 ## Related
 
 - [[systems/INDEX]]

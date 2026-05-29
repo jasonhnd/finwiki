@@ -51,12 +51,12 @@
     "Wiki route",
     "TL;DR",
     "1. 機関 / 部門位置",
-    "2. 主要事業 / 商品メニュー",
     "2.1 Product taxonomy",
     "2.2 ODA 円借款 vs Special Operations — the dividing line",
     "2.3 Sector categories that show up most often",
     "3. 審査 / underwriting プロセス",
-    "3.1 Phase 1 — Policy / pipeline screening"
+    "3.1 Phase 1 — Policy / pipeline screening",
+    "3.2 Phase 2 — Initial credit and country-risk screening"
   ],
   "body_links": {
     "wikilinks_count": 15,
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 24454,
-    "word_like_tokens": 3766,
+    "nonspace_chars": 22375,
+    "word_like_tokens": 3428,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

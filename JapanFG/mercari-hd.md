@@ -19,7 +19,6 @@ sources:
 
 # メルカリ HD（株式会社メルカリ）
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -98,8 +97,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メルカード**: JCB ブランドだが審査・与信はメルペイ独自基準
 - **Fintech 債権残高**: 約 2,000 億円規模（FY2025.6 4Q 説明資料時点）── 後払い + メルカードの与信積み上げ
 
-## 3. 戦略・競争
-
 ### 垂直統合戦略
 
 - **マーケットプレース + 決済 + 与信 + 暗号資産**: 単一アプリで完結する金融プラットフォーム化
@@ -140,7 +137,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **直近政策論点**:
   - 2023〜 暗号資産ステーキング規制整備 → メルコインへの影響注視
   - 2024〜 BNPL（後払い）規制議論 → メルペイスマート払いへの影響
-  - 2024〜 ステーブルコイン制度 → 将来メルコイン拡張可能性 ^[inferred]
   - 個人情報保護法・古物営業法 → メルカリ本体の出品管理
 
 ## 経営数値（公開資料・FY2025.6 通期）
@@ -162,25 +158,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | メルカリハロ登録者 | 800 万人 / パートナー 12 万拠点 | 4Q 説明資料 |
 
 > MAU 四半期推移（FY2025.6）: Q1 2,251 万 → Q2 2,279 万 → Q3 2,291 万 → Q4 2,304 万。FY2024 前半の伸び鈍化局面を脱し、Q3 以降は緩やかな増加トレンドに復帰。
-
-## Counterpoints
-
-- 「フリマ起点の金融」観: メガ系（[[mufg]] / [[smfg]] / [[mizuho-fg]]）と異なり「実店舗 / 法人顧客なし」の制約 → 与信は売上履歴依存、不況時の信用劣化リスク ^[inferred]
-- 「米国事業の戦略意義」: FY2025.6 で初の通期黒字化を達成したが、規模は GMV 728M USD 止まり → 撤退論は後退、ただし黒字定着・拡大シナリオは未確定 ^[ambiguous]
-- 「メルコインの収益性」: 暗号資産取引手数料は bitFlyer / Coincheck より高めとされる声 → 利用者拡大 vs 価格競争力の両論 ^[ambiguous]
-- 「銀行未取得の戦略」: [[paypay-fg]]（PayPay 銀行）/ 楽天銀行 / [[au-fh]]（auじぶん銀行）は銀行ライセンス保有 → メルカリ単独取得シナリオ vs BaaS 連携で十分という判断 ^[ambiguous]
-- 「メルカリハロ参入」: 登録者 800 万・拠点 12 万まで急拡大したが、タイミー / シェアフル等先行プレイヤーとの単位経済競争はこれから ^[inferred]
-- 「Marketplace GMV 成長率」: JP +4% は MAU 横ばい局面で客単価依存、Fintech クロスセル無しでは天井近接の懸念 ^[inferred]
-
-## Open questions
-
-- **銀行ライセンス**: 自社取得 vs BaaS 連携（住信 SBI ネット銀行 等）の選択は？
-- **メルコイン拡張**: ビットコイン以外の取扱通貨（ETH / XRP 等）展開時期は？ ステーキング / レンディング参入の可能性
-- **米国事業の次フェーズ**: 黒字定着後の再投資 vs 利益確保維持 のどちらに収束するか
-- **メルカード普及**: 300 万枚突破後の中期目標と取扱高開示
-- **メルカリハロの単位経済**: 登録者 800 万を収益にどう変換するか、タイミーとの比較
-- **AI・LLM 活用**: 出品支援 / 価格推奨 / カスタマーサポートでの LLM 統合進捗
-- **次世代決済**: Progmat Coin（[[mufg]] 主導）等のステーブルコインへのメルペイ対応可能性 ^[inferred]
 
 ## Related
 

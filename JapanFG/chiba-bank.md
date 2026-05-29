@@ -16,7 +16,6 @@ sources:
 
 # 千葉銀行 (Chiba Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gunma-bank|群馬銀行 (The Gunma Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -43,8 +42,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 業態順位 | 地方銀行単独 TOP 5 級 |
 | 上場市場 | 東証 PRIME（旧東証 1 部）|
 
-> 預金規模は地銀単独で No.1 級。**持株会社化していない地銀** の中では最大規模。[[concordia-fg]]（横浜銀＋東日本銀の持株会社）と比較すると、千葉銀単独で同水準の預金規模を保持する点が特徴。^[inferred]
-
 ### 主要子会社・関連会社（公開）
 
 ```
@@ -56,8 +53,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   ├── ちばぎん総合研究所 ── シンクタンク
   └── シンガポール支店（2023-12 開設）── アジア海外拠点
 ```
-
-> 持株会社化していないため、関連会社は銀行直下にぶら下がる構造。^[inferred]
 
 ### 前身・統合歴史
 
@@ -91,8 +86,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | シンクタンク | ちばぎん総合研究所 | 千葉県経済リサーチ |
 | 海外 | シンガポール支店（2023-12〜）| アジア法人サポート、TSUBASA 海外連携 |
 
-## 3. 戦略・競争
-
 ### TSUBASA アライアンス主導戦略 ★
 
 **2015 設立**、千葉銀行が主導した 11 行アライアンス（**地銀ホールディング化を回避しつつスケールメリットを獲得** する代替モデル）：
@@ -115,12 +108,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **システム共同化**: 勘定系・周辺システムの共同化でコスト削減
 - **海外サポート**: 加盟行の現地拠点を相互利用（シンガポール等）
 - **商品共同開発**: 投信・保険等の共同商品
-- **持株会社化回避**: 経営の独立性を保ちつつグループ規模のメリット ^[inferred]
 
 ### ホールディング非実施戦略
 
-- **メリット**: 経営の柔軟性・意思決定の速さ・コスト低減（持株会社オーバーヘッド回避）^[inferred]
-- **デメリット**: 資本効率・グループ全体最適化が地銀 FG（[[concordia-fg]]・[[fukuoka-fg]] 等）に劣る可能性 ^[inferred]
 - 一方で **TSUBASA で代替的にスケールメリット獲得**
 
 ### 営業地盤
@@ -148,27 +138,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
-- **業態**: 地方銀行（一般社団法人 全国地方銀行協会 加盟）^[inferred]
 - **海外規制**: シンガポール MAS（2023-12 支店開設以降）
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 地銀の金利マージン改善ボーナス
   - 2024〜 地銀再編圧力（金融庁の地銀統合促進政策）vs 千葉銀の単独路線
   - TSUBASA システム共同化深化
-
-## Counterpoints
-
-- 「持株会社化未実施 = 資本効率劣後」観: 地銀 FG（[[concordia-fg]]・[[fukuoka-fg]] 等）と比較して資本効率・グループガバナンスで劣後する可能性 ^[inferred]
-- 「TSUBASA で代替可能」観: 持株会社化せずとも TSUBASA で実質的なグループ機能を持つ → 千葉銀モデルの妥当性 ^[ambiguous]
-- 「単独路線の限界」: 地銀再編圧力（金融庁政策・人口減）下で単独維持は中長期的に困難という見方 ^[inferred]
-- 「シンガポール支店 ROI」: 2023-12 開設のアジア海外戦略は地銀単独としては野心的、ROI 検証は数年後 ^[ambiguous]
-
-## Open questions
-
-- TSUBASA アライアンスの将来形は？ 持株会社化 / 経営統合シナリオの可能性
-- 千葉銀の中期経営計画（2024〜）の数値目標と進捗
-- シンガポール支店の業績・アジア事業の規模感
-- 千葉県内シェア No.1 維持戦略 vs 京葉銀・千葉興業・他県地銀の攻め
-- TSUBASA 加盟行間の濃淡（システム vs 資本提携）
 
 ## Related
 

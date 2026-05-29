@@ -41,20 +41,19 @@
     "TL;DR",
     "1. 会社概要",
     "前身・合併歴史",
-    "業態・短資会社とは",
     "2. 事業セグメント・マップ",
     "ビジネスモデル",
-    "3. 短資業界構造",
-    "3 大短資会社"
+    "3 大短資会社",
+    "業界縮小サイクル",
+    "中期戦略（2024 中計）"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/central-tanshi",
       "banking/INDEX",
       "central-tanshi",
-      "fintech/jp-stablecoin-progmat",
       "mizuho-fg",
       "money-market/boj-open-market-operations",
       "money-market/japan-money-market",
@@ -67,7 +66,6 @@
       "https://finwiki.zksc.io/JapanFG/central-tanshi",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/central-tanshi",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/japan-money-market",
@@ -79,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3802,
-    "word_like_tokens": 481,
+    "nonspace_chars": 2953,
+    "word_like_tokens": 391,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

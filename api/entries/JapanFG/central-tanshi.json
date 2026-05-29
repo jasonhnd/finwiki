@@ -45,8 +45,8 @@
     "主要子会社",
     "2. 事業セグメント・マップ",
     "短資会社の役割",
-    "3. 戦略・競争",
-    "業界構造（3 大短資 oligopoly）"
+    "業界構造（3 大短資 oligopoly）",
+    "マイナス金利時代の苦境"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3823,
-    "word_like_tokens": 515,
+    "nonspace_chars": 3401,
+    "word_like_tokens": 469,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

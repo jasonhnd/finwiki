@@ -22,7 +22,6 @@ sources:
 
 # AIA Life Japan / AIA生命保険
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/metlife-japan|MetLife Japan]] and [[JapanFG/manulife-japan|Manulife Life Insurance Japan]] for foreign-life-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance market system / regulatory boundary.
@@ -63,19 +62,6 @@ AIA's group solvency framework, as a Hong Kong-regulated insurer with global sub
 - Clarifies that AIA, despite being one of the largest Asia-Pacific life insurers, is not among the largest foreign life carriers in Japan — unlike its dominant share in other Asia markets.
 - Useful for comparing AIA's pan-Asia agency model with Japan's mix of agency, bancassurance, and direct channels.
 - Sets up reference for Hong Kong-headquartered insurance groups operating in Japan.
-
-## Counterpoints
-
-- AIA's Japan presence is modest compared with its share in other Asia-Pacific markets; specific Japan entity disclosure is limited in AIA's group reporting. ^[ambiguous]
-- AIA's brand recognition in Japan is materially lower than in Hong Kong, China, Singapore, or Thailand. ^[inferred]
-- Capital allocation within AIA Group has historically prioritized emerging Asia growth markets over mature markets like Japan. ^[inferred]
-
-## Open questions
-
-- What is the exact legal entity name and FSA registration status for AIA's current Japan presence?
-- What product lines does AIA Japan currently offer (protection / health / annuity / corporate)?
-- Has AIA's Japan presence grown, plateaued, or contracted in the recent strategic period?
-- Are there partnership or distribution arrangements with Japan financial institutions for AIA Japan?
 
 ## Related
 

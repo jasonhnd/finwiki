@@ -50,12 +50,11 @@
     "Crossmint vs Privy vs Dynamic vs Magic",
     "Where Crossmint sits in the agent stack",
     "Origin and evolution",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -68,8 +67,7 @@
       "agent-economy/privy-aws-agentcore-default-wallet",
       "agent-economy/privy-embedded-wallet-overview",
       "agent-economy/skyfire-closed-loop-agent-issuer",
-      "systems/erc-4337-userop-bundler-flow",
-      "systems/ton-telegram-openwallet-ecosystem"
+      "systems/erc-4337-userop-bundler-flow"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -83,16 +81,15 @@
       "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
       "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
       "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
-      "https://finwiki.zksc.io/systems/ton-telegram-openwallet-ecosystem"
+      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6337,
-    "word_like_tokens": 997,
+    "nonspace_chars": 5241,
+    "word_like_tokens": 819,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

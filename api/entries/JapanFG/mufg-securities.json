@@ -45,10 +45,10 @@
     "1. 法人構造",
     "傘下構造",
     "重要年表",
-    "2. JV 構造の特徴",
     "なぜ 2 社に分けたか",
     "Morgan Stanley との戦略的関係",
-    "3. 海外現法の機能"
+    "3. 海外現法の機能",
+    "米国でのプレゼンス"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4943,
-    "word_like_tokens": 769,
+    "nonspace_chars": 4873,
+    "word_like_tokens": 755,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

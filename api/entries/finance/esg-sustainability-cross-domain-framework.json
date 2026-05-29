@@ -60,10 +60,10 @@
     "The Four Pillars",
     "Ratings: Provider Comparison",
     "Rating Provider Disagreement",
-    "Japan-Specific Disclosure Standards",
     "TCFD (Climate-Related Financial Disclosures)",
     "SSBJ (Sustainability Standards Board of Japan) and ISSB",
-    "Other Frameworks"
+    "Other Frameworks",
+    "TSE-Prime Governance Code Interaction"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -115,9 +115,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13751,
-    "word_like_tokens": 2048,
+    "nonspace_chars": 12516,
+    "word_like_tokens": 1848,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

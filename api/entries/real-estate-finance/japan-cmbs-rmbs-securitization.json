@@ -52,22 +52,19 @@
     "Japan CMBS and RMBS securitization market",
     "TL;DR",
     "Wiki route",
-    "1. Market structure",
     "Two strands at very different scales",
     "Historical arc",
-    "2. RMBS — residential mortgage-backed securities",
     "JHF Monthly Pass-Through MBS",
     "Private RMBS",
-    "Rating-agency criteria for RMBS"
+    "Rating-agency criteria for RMBS",
+    "Single-borrower CMBS post-2010",
+    "Conduit CMBS — dormant"
   ],
   "body_links": {
-    "wikilinks_count": 35,
+    "wikilinks_count": 31,
     "wikilinks": [
       "JapanFG/custody-bank",
-      "JapanFG/daiwa-securities",
-      "JapanFG/japan-housing-loan",
       "JapanFG/japan-post-bank",
-      "JapanFG/japan-post-insurance",
       "JapanFG/jcr",
       "JapanFG/master-trust-bank",
       "JapanFG/mitsubishi-ufj-trust-bank",
@@ -75,7 +72,6 @@
       "JapanFG/mizuho-trust-bank",
       "JapanFG/moodys-japan",
       "JapanFG/mufg-morgan-stanley-securities",
-      "JapanFG/nomura-securities",
       "JapanFG/rating-and-investment",
       "JapanFG/smbc-nikko-securities",
       "JapanFG/sp-global-ratings-japan",
@@ -101,10 +97,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/custody-bank",
-      "https://finwiki.zksc.io/JapanFG/daiwa-securities",
-      "https://finwiki.zksc.io/JapanFG/japan-housing-loan",
       "https://finwiki.zksc.io/JapanFG/japan-post-bank",
-      "https://finwiki.zksc.io/JapanFG/japan-post-insurance",
       "https://finwiki.zksc.io/JapanFG/jcr",
       "https://finwiki.zksc.io/JapanFG/master-trust-bank",
       "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
@@ -112,7 +105,6 @@
       "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
       "https://finwiki.zksc.io/JapanFG/moodys-japan",
       "https://finwiki.zksc.io/JapanFG/mufg-morgan-stanley-securities",
-      "https://finwiki.zksc.io/JapanFG/nomura-securities",
       "https://finwiki.zksc.io/JapanFG/rating-and-investment",
       "https://finwiki.zksc.io/JapanFG/smbc-nikko-securities",
       "https://finwiki.zksc.io/JapanFG/sp-global-ratings-japan",
@@ -140,9 +132,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19716,
-    "word_like_tokens": 3162,
+    "nonspace_chars": 14454,
+    "word_like_tokens": 2283,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

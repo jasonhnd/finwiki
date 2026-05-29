@@ -94,22 +94,6 @@ For JapanFG, policy finance matters because public institutions often sit behind
 - **ODFC vs mainland institutions**: ODFC is not merely "JFC Okinawa branch." Official sources frame it as centralized Okinawa policy finance; Cabinet Office notes it handles functions equivalent to multiple mainland institutions.
 - **Special corporation vs incorporated administrative agency**: JFC / JBIC / DBJ / ODFC and JICA / JOGMEC / NEXI do not all have identical legal forms. Treat "policy finance" as a functional map, then verify the exact statute and corporate form case by case.
 
-## Counterpoints
-
-- **Crowding-out risk**: policy finance can complement private finance, but lower-cost public money may compete with private lenders if the boundary is poorly managed.
-- **Mandate creep**: economic security, GX, crisis response, and regional policy can expand mandates beyond the original lane, especially for JBIC, DBJ, JOGMEC, and JFC.
-- **Fiscal-risk opacity**: direct loans, guarantees, insurance, equity, and ODA concessionality create different public-risk profiles; comparing only headline outstanding balances is misleading.
-- **Climate and resource tension**: resource-security mandates can support decarbonization supply chains, but they may also preserve fossil-fuel finance where energy security remains a government priority.
-- **Institutional overlap**: the same project can touch JICA, JBIC, NEXI, JOGMEC, DBJ, and private banks. Routing depends on purpose, sponsor, geography, risk type, and whether the support is ODA, commercial policy finance, insurance, or resource security.
-
-## Open Questions
-
-- How far will economic-security policy reorient JBIC, NEXI, JOGMEC, and DBJ toward semiconductors, batteries, critical minerals, and friend-shoring?
-- How should Japan measure public risk across loans, insurance, guarantees, equity, and ODA concessional finance in one comparable framework?
-- Will DBJ's privatization path remain nominal while crisis-response and Special Investment Operations keep expanding?
-- How will JFC and regional banks divide credit responsibility as pandemic-era emergency loans mature?
-- Does ODFC remain a permanent Okinawa exception, or does the next policy-finance reform reopen institutional consolidation?
-
 ## Related
 
 - [[policy-finance/INDEX]]

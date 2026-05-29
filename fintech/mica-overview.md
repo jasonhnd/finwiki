@@ -18,7 +18,6 @@ status: candidate
 
 # EU MiCA · Markets in Crypto-Assets Regulation 概要
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -52,18 +51,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 MiCA は 2020-09 EU Commission Digital Finance Package の一部提案。2023-06 通過(Regulation (EU) 2023/1114)。2024-06 SC 部分(ART / EMT)施行。2024-12 全面施行。圧力プレイヤー:Tether / USDT(MiCA 非受容 + Article 17 大型 SC 制限 → EU 流通量制限) · DAI / LUSD / FRAX(issuer 不在 SC 制限) · algorithmic stablecoins(UST 崩壊の結果 · 明文禁止)。受益プレイヤー:Circle(USDC EU + EURC ダブルブランド) · Société Générale(STBL EUR ペッグ) · BBVA / Santander(EUR SC 発行予定) · MiCA コンプラ取引所(Kraken / Bitstamp / Coinbase EU)。MiCA は [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] と「事業 + レジリエンス」二軌規制フレームワークを形成。
 
-## Counterpoints
-
-- ART は実質失敗 · 規制負担が過大 · 市場が足で投票
-- EURC 流通規模と USDC の差は ~300x · EUR SC 市場は依然小さい
-- USDT は EU 主要市場撤退後、HK 申請 + グレー市場へ転換
-
-## Open questions
-
-- USA-EU MRA(2026-Q3)締結時期?
-- EUR SC 市場は 2027-2028 に MiCA コンプラ優位を示すか?
-- Tether は HK 申請後に EU への迂回参入(via HK MRA)を行うか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -80,4 +67,3 @@ MiCA は 2020-09 EU Commission Digital Finance Package の一部提案。2023-06
 ---
 
 **Last refresh** (2026-05-26): synced EURC 2026-05 numbers (€280M) with `eu-mica-implementation-status-2026`; added Circle USDC and implementation-status wikilinks.
-

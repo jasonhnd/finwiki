@@ -30,10 +30,6 @@ sources:
 
 # BDO 三優監査法人 (BDO Sanyu)
 
-## TL;DR
-
-**BDO 三優監査法人**（英名：BDO Sanyu LLC）は **準大手（中堅）監査法人** の代表格で、グローバル **BDO International** の日本メンバーファーム。**中堅・中小上場会社、IPO 準備会社、Web3 スタートアップ、外資系日本子会社、FSA 登録 VASP の財務諸表監査** を中核とする ^[extracted]。前身は **三優監査法人** で、**BDO ブランド統合は 2010s 後半** ^[inferred]。**[[JapanFG/taiyo-grant-thornton|太陽グラントソントン]]** と並んで Big 4 以外の選択肢として中堅 FG / FinTech 上場準備会社を支える ^[inferred]。
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[JapanFG/taiyo-grant-thornton|太陽グラントソントン]] for peer 中堅 audit context, and [[JapanFG/ey-shinnihon|EY 新日本]]・[[JapanFG/deloitte-touche-tohmatsu|トーマツ]] for Big 4 比較; [[JapanFG/legal-financial-licenses/INDEX|金融ライセンス INDEX]] for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は [[JapanFG/fsa-supervision-bureau|金融庁 監督局]] と [[JapanFG/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
@@ -63,13 +59,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 
 | 年月 | 事象 |
 |---|---|
-| 1990s | 三優監査法人 設立期 ^[inferred] |
-| 2000s | BDO International との提携交渉 ^[inferred] |
 | 2010s 中盤 | **BDO International メンバーファーム化** ^[extracted] |
 | 2010s 後半 | **「BDO 三優」ブランド統合** ^[extracted] |
 | 2020s | Web3 / VASP / IPO 準備会社向け監査参入 ^[extracted] |
-
-## 3. 金融サービス監査・アドバイザリー実務
 
 ### IPO 準備支援 ^[extracted]
 
@@ -90,7 +82,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 
 ### 中堅金融 / FinTech
 
-- 中堅 FinTech 上場企業の一部監査 ^[inferred]
 - 中小金融機関（地域信金・第二地銀の一部）周辺関与可能性 ^[ambiguous]
 
 ## 4. 主要 listed FG クライアント関係（公開ベース）
@@ -99,7 +90,6 @@ EDINET の有価証券報告書 監査人開示で確認可能な範囲で、BDO
 
 - **中堅 FinTech / VASP 上場企業** — 複数事例 ^[ambiguous]
 - **中堅 / 中小上場の FG 関連子会社** — 一部事例 ^[ambiguous]
-- **外資系日本子会社** — BDO グループ国際クライアント関係に基づく ^[inferred]
 
 注：個別監査人は時点で変動。EDINET 一次資料を都度確認すべき ^[ambiguous]。
 
@@ -113,7 +103,6 @@ EDINET の有価証券報告書 監査人開示で確認可能な範囲で、BDO
 ### 処分歴 ^[ambiguous]
 
 - 大規模行政処分は限定的（公開ベース）
-- CPAAOB 検査結果報告書で中堅監査法人共通の品質管理改善余地が言及されることがある ^[inferred]
 
 ## 6. 競合関係
 
@@ -127,22 +116,6 @@ EDINET の有価証券報告書 監査人開示で確認可能な範囲で、BDO
 Tier 2 内では太陽グラントソントンと棲み分け：
 
 - 太陽：IPO 案件・VASP に幅広く
-- BDO 三優：Web3 / スタートアップ寄り、外資系日本子会社 ^[inferred]
-
-## Counterpoints
-
-- **「Big 4 / 太陽との競合下での規模劣位」**：準大手 4 法人（仰星 / 太陽グラントソントン / PwC 京都 / BDO 三優）はいずれも Big 4 の 1 桁下の規模水準と業界で位置付けられる。リソース・テクノロジー投資力での差が課題 ^[ambiguous]
-- **「Web3 / VASP クライアント集中の構造リスク」**：Web3 業界のクライアント破綻 / 規制変動リスク・暗号資産価格変動リスクが監査ポートフォリオに波及 ^[ambiguous]
-- **「BDO グローバル統合度」**：監査方法論・テクノロジー（BDO Advantage 等）の国内展開深度は ^[ambiguous]
-- **「中堅監査法人の品質管理コスト負担」**：CPAAOB 要求水準上昇下での経営負担 ^[inferred]
-
-## Open questions
-
-- BDO 三優の最新の listed FG / VASP 監査クライアント具体的リスト
-- BDO International グローバルとの統合深度（人材交流・監査方法論）
-- CPAAOB 検査結果での評価
-- 大手 FG が BDO 三優に乗り換える可能性
-- AI 監査ツール導入の中堅監査法人での実装度
 
 ## Related
 

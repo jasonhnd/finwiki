@@ -53,11 +53,11 @@
     "Wiki route",
     "Corporate identity",
     "Marunouchi concentration",
-    "Funding stack",
     "1. Corporate bonds (Mitsubishi Estate straight bonds)",
     "2. Syndicated bank loans",
     "3. Sponsor J-REIT — Japan Real Estate Investment Corporation (JRE, 8952)",
-    "4. Equity finance — opportunistic"
+    "4. Equity finance — opportunistic",
+    "5. Overseas expansion — UK / US / Asia"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -109,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19455,
-    "word_like_tokens": 3075,
+    "nonspace_chars": 17631,
+    "word_like_tokens": 2780,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

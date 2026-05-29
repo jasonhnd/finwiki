@@ -47,15 +47,15 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "2. 営業地区・組合員資格",
     "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "福岡県信組ブロック (registry比較)",
     "九州・福岡財務支局信組ブロック ^[extracted FSA registry]",
-    "3. 系統内位置"
+    "全信組連内の位置付け",
+    "福岡県金融機関ヒエラルキー ^[inferred]"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 16,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/dic",
@@ -64,8 +64,6 @@
       "JapanFG/fukuoka-shinkin",
       "JapanFG/iwaki-shinkumi",
       "JapanFG/kitakyushu-bank",
-      "JapanFG/kyushu-fg",
-      "JapanFG/miyazaki-bank",
       "JapanFG/mizuho-fg",
       "JapanFG/mufg",
       "JapanFG/nishi-nippon-fhd",
@@ -84,8 +82,6 @@
       "https://finwiki.zksc.io/JapanFG/fukuoka-shinkin",
       "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
       "https://finwiki.zksc.io/JapanFG/kitakyushu-bank",
-      "https://finwiki.zksc.io/JapanFG/kyushu-fg",
-      "https://finwiki.zksc.io/JapanFG/miyazaki-bank",
       "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/nishi-nippon-fhd",
@@ -100,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5566,
-    "word_like_tokens": 760,
+    "nonspace_chars": 4744,
+    "word_like_tokens": 662,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

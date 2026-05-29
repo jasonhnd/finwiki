@@ -42,8 +42,6 @@ This entry sits under [[derivatives/INDEX|derivatives index]] as the retail-stru
 
 Cross-reference [[finance/INDEX|finance index]] for the broader capital-markets context, [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]] for the institutional equity-linked counterpart, [[banking/INDEX|banking index]] for the megabank distribution context, [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] for the institutional foreign-currency / structured-asset use, and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] for the dealer-side hedging plumbing.
 
-## Product taxonomy
-
 ### Core structured-bond categories
 
 | Product | Japanese term | Payoff core |
@@ -72,8 +70,6 @@ EB knock-in (especially autocallable on single Japanese stock or worst-of basket
 | Maturity | Typically 3-5 years; autocall feature shortens expected life |
 | Currency | Issued in JPY for retail Japan; some USD or EUR issued for currency-overlay variants |
 | Callable feature | Bermudan callable in some structures |
-
-## Issuer and arranger structure
 
 ### Issuer set
 
@@ -113,8 +109,6 @@ The issuer typically hedges the embedded derivative back-to-back with a dealer:
 
 For Japan single-name EB, dealer hedging in the underlying stock can become a meaningful flow when many notes share the same reference name (e.g., concentrated SoftBank EB issuance creates significant SoftBank stock hedge flow).
 
-## Currency-linked deposits
-
 ### Mechanics
 
 | Feature | Description |
@@ -135,8 +129,6 @@ If the non-yen currency depreciates significantly vs JPY relative to the strike,
 
 Currency-linked deposits historically distributed through megabank retail counters, regional banks, and post-office channels. The simplicity of the wrapper ("deposit" framing) often obscured the embedded short-option risk for retail investors.
 
-## Reverse convertible bonds
-
 ### Mechanics
 
 | Feature | Description |
@@ -147,8 +139,6 @@ Currency-linked deposits historically distributed through megabank retail counte
 | Reference | Single stock or worst-of basket |
 
 Mechanically similar to EB, but framed more bond-like with the put exercise typically at maturity rather than during the term via knock-in barrier.
-
-## FSA suitability crackdown 2022-2023
 
 ### Background
 
@@ -217,24 +207,6 @@ Beyond retail, an institutional structured-bond market continues for:
 - asset manager portfolios for specific overlay or yield-enhancement objectives.
 
 Institutional structured bonds are subject to different suitability standards (qualified institutional investor framework under FIEA) and continue with limited regulatory friction.
-
-## Counterpoints
-
-- Structured-bond economics are not always inferior on a risk-adjusted basis; problems arose principally from suitability mismatch, not product inferiority per se.
-- Arranger / distributor fees vary widely; the most opaque structures had the most adverse retail outcomes, not all structured bonds.
-- The 2023 contraction may be temporary if distribution standards evolve; structured products can serve specific investor needs when correctly matched.
-- Institutional structured products continue with limited regulatory friction; the crackdown was retail-suitability focused, not product-design focused.
-- Some retail demand may have shifted to less-regulated alternatives (FX margin trading, leveraged ETFs, crypto) with arguably worse outcomes.
-- Regional bank exposure to structured-bond distribution had operational concentration risk; many depended on megabank securities partners for product supply.
-
-## Open questions
-
-- Will retail structured-bond sales rebound as JSDA / FSA disclosure templates mature?
-- Will online brokerages (Rakuten Securities, SBI Securities, Monex) develop simplified structured-product offerings with better disclosure?
-- How will FSA scrutiny extend to FX margin, leveraged ETFs, and other complex retail products?
-- Will the megabank-affiliated securities firms ([[JapanFG/smbc-nikko|SMBC Nikko]], Mizuho Securities, MUMSS) restructure their retail wealth-management product mix away from structured products?
-- How will institutional structured-bond demand evolve under rising-rate / normalized BOJ policy?
-- Will the [[derivatives/structured-product-eb-knockin-japan-retail|EB knock-in product]] specifically return to mass distribution under tighter suitability rules?
 
 ## Related
 

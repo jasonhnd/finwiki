@@ -18,18 +18,13 @@ status: candidate
 
 # クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- Tempo が CCIP を選ぶロジック = Visa / SC / Stripe 顧客が規制説明可能性を必要とする → Wormhole 多シグを使えない ^[inferred]
-- Base 多極組み合わせ = CCIP(Circle bridge) + LayerZero(long-tail) + CCTP V2(USDC fast path) ^[inferred]
-- Hyperlane の類比 = Cloudflare Workers vs AWS Lambda · long-tail ヘッジ選択肢 ^[inferred]
 - CCTP V2 Hooks(2025.03)で宛先チェーンアトミックコールバックが可能 · 伝統的ブリッジを置換 ^[extracted]
-- LayerZero DVN 設定不適切 → セキュリティ降格リスク(ユーザー責任) ^[inferred]
 
 ## Mechanism / How it works
 
@@ -62,14 +57,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Origin & evolution
 
 2022-2023 クロスチェーン選定 = 「TVL 最大 = Wormhole を選ぶ」。2024 institutional 参入後 = CCIP が Chainlink oracle ブランド + RMN 二層検証により銀行 / DTCC / SWIFT の実選択に。2025 収斂 = 多極共存 + タスク専門特化 · 主役は同時に 2-3 ブリッジを使用(CCIP institutional · LayerZero general · CCTP V2 USDC)。完全な対照マトリクスは [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対比マトリクス]] を参照。
-
-## Counterpoints
-
-「単一ブリッジ論」を主張:多極とはセキュリティモデルが複数の attack surface を意味する · 実際には 1 つの高品質ブリッジ(CCIP)を選ぶほうが安全。LayerZero 反対派は DVN 柔軟性 = ユーザー責任 = 大半のユーザーが不適切設定 = 実際のセキュリティ < Wormhole 19 Guardian 固定マルチシグと主張。一部 institutional 顧客は実際には Chainlink 販売に引き寄せられたものであり · 技術比較の結果ではない。
-
-## Open questions
-
-Base 多極組み合わせの実際の比率(CCIP 何% · LayerZero 何% · CCTP V2 何%)は?Tempo / Arc は CCIP を専用ブリッジで置換するか?Hyperlane permissionless のセキュリティモデルは大規模 stake 後に 51% に耐えるか?CCTP V2 Hooks は「USDC クロスチェーン = 1 プロトコル」を新たな default にするか?([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] の実シェア観察と対照)
 
 ## Related
 <!-- wiki-links:managed -->

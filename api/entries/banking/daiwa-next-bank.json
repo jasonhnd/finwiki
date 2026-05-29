@@ -50,10 +50,10 @@
     "1. Identity and group position",
     "Why a securities group built a bank",
     "Group structure (post-Orix Bank acquisition completion)",
-    "2. Product franchise",
     "Brokerage-linked deposit core (MRF / sweep mechanics)",
     "Yen and foreign-currency deposit",
-    "Asset-formation support"
+    "Asset-formation support",
+    "Channel architecture: securities-bank hybrid"
   ],
   "body_links": {
     "wikilinks_count": 22,
@@ -109,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14064,
-    "word_like_tokens": 2247,
+    "nonspace_chars": 10625,
+    "word_like_tokens": 1661,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

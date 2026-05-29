@@ -53,13 +53,13 @@
     "Pension trust mandate allocation Japan",
     "Wiki route",
     "TL;DR",
-    "1. 機関位置",
     "Pension-system three layers",
     "Mandate-allocation role separation",
-    "2. 主要業務",
     "GPIF mandate allocation",
-    "GPIF asset-administration concentration",
-    "Corporate DB plan mandate-allocation pattern"
+    "Corporate DB plan mandate-allocation pattern",
+    "DC plan mandate-allocation pattern",
+    "Why role separation matters",
+    "Cross-pension-layer competition map"
   ],
   "body_links": {
     "wikilinks_count": 28,
@@ -127,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18930,
-    "word_like_tokens": 2975,
+    "nonspace_chars": 14060,
+    "word_like_tokens": 2084,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

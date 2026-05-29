@@ -48,11 +48,11 @@
     "業態の特徴",
     "重要年表 (公開情報ベース)",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
-    "地域密着型独立証券としてのポジション"
+    "地域密着型独立証券としてのポジション",
+    "競合関係"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 18,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aizawa-sg",
@@ -71,8 +71,7 @@
       "JapanFG/sbi-securities",
       "JapanFG/smbc-nikko",
       "JapanFG/tokai-tokyo-fh",
-      "securities/financial-instruments-business-operators-japan-index",
-      "securities/nisa-2024-flow"
+      "securities/financial-instruments-business-operators-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -92,16 +91,15 @@
       "https://finwiki.zksc.io/JapanFG/sbi-securities",
       "https://finwiki.zksc.io/JapanFG/smbc-nikko",
       "https://finwiki.zksc.io/JapanFG/tokai-tokyo-fh",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4008,
-    "word_like_tokens": 544,
+    "nonspace_chars": 3215,
+    "word_like_tokens": 449,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

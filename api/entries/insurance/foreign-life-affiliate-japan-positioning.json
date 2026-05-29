@@ -44,13 +44,13 @@
     "Foreign life-insurance affiliates in Japan positioning",
     "Wiki route",
     "TL;DR",
-    "Product / channel positioning",
     "AFLAC Japan — cancer insurance dominance",
     "MetLife Japan — multi-channel mass-affluent and foreign-currency",
     "Manulife Japan — multi-channel with Asian-parent strategic context",
     "Prudential Japan / Gibraltar Life — Lifeplanner channel benchmark",
     "AXA, Zurich, Allianz, AIA — European and pan-Asian challenger positions",
-    "Capital structure and parent-group repatriation"
+    "Capital structure and parent-group repatriation",
+    "FSA approach to foreign IAIG perimeter"
   ],
   "body_links": {
     "wikilinks_count": 25,
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 20850,
-    "word_like_tokens": 3210,
+    "nonspace_chars": 18723,
+    "word_like_tokens": 2852,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -45,9 +45,9 @@
     "グループ構造",
     "2. 事業セグメント・マップ",
     "3. 沿革",
-    "4. 戦略・競争",
     "GMO 金融エコシステム連携",
-    "競合ポジション"
+    "競合ポジション",
+    "Web3 / DeFi 拡張"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4656,
-    "word_like_tokens": 773,
+    "nonspace_chars": 4068,
+    "word_like_tokens": 681,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

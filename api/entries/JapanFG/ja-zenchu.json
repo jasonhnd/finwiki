@@ -49,10 +49,10 @@
     "1. 組織構造",
     "JA グループ 4 大全国連の役割分担 ^[extracted]",
     "重要年表 ^[extracted]",
-    "2. 主要機能",
     "4 大機能 ^[extracted]",
     "JA バンク中央本部との関係",
-    "全国連結合体としての JA グループ"
+    "全国連結合体としての JA グループ",
+    "食料安全保障論議"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -92,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5635,
-    "word_like_tokens": 815,
+    "nonspace_chars": 4926,
+    "word_like_tokens": 727,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

@@ -22,7 +22,6 @@ sources:
 
 # Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/swiss-re-japan|Swiss Re Japan]] and [[JapanFG/hannover-re-japan|Hannover Re Japan]] for life-reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
@@ -61,19 +60,6 @@ In the Japan life reinsurance market, Pacific Life Re Japan supports ceding insu
 - Distinguishes life-only reinsurers from multi-line global reinsurers like [[JapanFG/swiss-re-japan|Swiss Re Japan]] and [[JapanFG/hannover-re-japan|Hannover Re Japan]] when mapping Japan's reinsurance ecosystem.
 - Useful for understanding the life reinsurance layer behind Japan's life insurers, which is otherwise often hidden from public discussion.
 - Sets up reference for US mutual-parented insurance groups operating in Japan via reinsurance rather than direct retail.
-
-## Counterpoints
-
-- Pacific Life Re's premium share in Japan reinsurance is modest vs. the largest global reinsurers; market is concentrated. ^[inferred]
-- Pacific Life Re is a subsidiary of a mutual parent (Pacific Life), so public financial disclosure is less granular than for listed reinsurers like [[JapanFG/swiss-re-japan|Swiss Re Japan]] (SIX: SREN) or [[JapanFG/hannover-re-japan|Hannover Re Japan]] (FWB: HNR1). ^[inferred]
-- Branch-level Japan financials are typically not separately publicly disclosed; group-level reporting is the primary public source. ^[inferred]
-
-## Open questions
-
-- What is the exact legal entity name and FSA registration status for Pacific Life Re's current Japan presence?
-- What product lines (mortality / medical / longevity / annuity) does Pacific Life Re Japan focus on?
-- Who are Pacific Life Re Japan's key cedent partners among the [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] and mid-tier life insurers?
-- How does Pacific Life Re Japan coordinate with PL Re's Hong Kong and Singapore offices for pan-Asia treaty work?
 
 ## Related
 

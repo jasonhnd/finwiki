@@ -29,7 +29,6 @@ sources:
 
 # 三菱 UFJ FG (MUFG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfg|三井住友 FG (SMFG / SMBC グループ)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -187,8 +186,6 @@ MUFG（持株会社・上場 8306）
 | リース | 三菱 HC キャピタル（東証 PRIME 8593）| 旧三菱 UFJ リース + 日立キャピタル合併 |
 | シンクタンク | 三菱 UFJ リサーチ&コンサルティング（47%）| - |
 
-## 3. 戦略・競争
-
 ### デジタル戦略
 
 - **GO（グローバル・オープン）戦略**: API 開放・パートナー連携
@@ -224,7 +221,6 @@ MUFG（持株会社・上場 8306）
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
-- **G-SIB Bucket 1**: FSB 認定（+1.0% CET1 追加資本要件）^[inferred]
 - **持株会社規制**：銀行法 第 52 条の 17
 - **海外規制**: BoT（タイ）、OJK（インドネシア）、米連邦準備制度（FRB / OCC）、ECB / BoE 等
 - **直近政策論点**:
@@ -340,22 +336,6 @@ MUFG（持株会社・上場 8306）
 - 2025-08-06 SEC: https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf
 
 > **観察**: 2010 年代の処分は主に **米国 OFAC / BSA / AML 系** (NY DFS / OCC) と **CFTC spoofing** に集中。2024-06 の金融庁業務改善命令は **国内ファイアウォール規制違反** で、海外 IB ファースト戦略のガバナンス課題が顕在化したケース。
-
-## Counterpoints
-
-- 「海外集中＝個人デジタル弱」観: メガ 3 行で個人デジタル統合が最弱（vs [[smfg]] Olive・楽天・PayPay）。GO 戦略は法人寄り ^[inferred]
-- 「Krungsri 集中リスク」: タイ向け資産集中 → タイ景気 / バーツ / 政治リスク連動 ^[inferred]
-- 「Union Bank 売却の戦略意義」: 米 retail 撤退 vs 「IB に集中」両論。U.S. Bancorp 株 4.39% で関係維持 ^[ambiguous]
-- 「Global Open Network Japan 撤退」: Akamai 提携ブロックチェーン決済は 3 年弱で廃業 → ブロックチェーン挫折歴 ^[extracted]
-- 「MUFG スタジアム 命名権」: B2C ブランド露出強化 vs スポーツ事業 ROI 疑問 ^[ambiguous]
-
-## Open questions
-
-- Progmat の他 FG（[[smfg]] / [[mizuho-fg]] / 通信系 FG）採用範囲は？ 単独主導 vs 共同インフラ化?
-- アコム持分法（39.6%）→ 完全子会社化シナリオは？
-- 6 代半沢社長（2026-04 就任）の戦略方向性は？ Google AI 提携の戦略的位置付け
-- 「MUFG スタジアム」命名権（2026-01〜2030-01）の B2C ブランド効果は？
-- 三菱 UFJ eスマート証券（旧カブドットコム）の戦略統合は？ MUMSS との重複/分業整理
 
 ## Related
 

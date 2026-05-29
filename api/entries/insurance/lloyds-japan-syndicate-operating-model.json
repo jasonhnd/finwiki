@@ -45,7 +45,7 @@
       "https://www.sonpo.or.jp/about/gaiyo/"
     ]
   },
-  "summary": "Lloyd's of London is not a single insurer — it is a society of underwriting members organised into ~50-100 active syndicates that collectively form the world's oldest insurance and reinsurance marketplace. Its Japan platform, Lloyd's Japan Inc. / ロイズ・ジャパン株式会社 (licensed by the FSA in 2000), is the lo",
+  "summary": "The key point: Lloyd's capacity in Japan is supplied by London-based syndicates whose capital comes from corporate members and historically from Names. The Japan branch is the regulatory and operational interface, not the risk-bearing balance sheet.",
   "headings": [
     "Lloyd's Japan syndicate operating model",
     "TL;DR",
@@ -55,8 +55,8 @@
     "3. Distribution and placement flow",
     "4. Syndicate-level capacity coverage",
     "5. Lines where Lloyd's leads in Japan",
-    "5.1 Energy",
-    "5.2 Aviation"
+    "6. Reinsurance vs direct underwriting boundary",
+    "7. Comparison: Lloyd's Japan vs conventional foreign insurer"
   ],
   "body_links": {
     "wikilinks_count": 21,
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14892,
-    "word_like_tokens": 2420,
+    "nonspace_chars": 6935,
+    "word_like_tokens": 1128,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -54,8 +54,6 @@ In **February 2024**, **KDDI** and **Mitsubishi Corporation** jointly tendered f
 
 The headline pricing is documented on the KDDI corporate newsroom: https://www.kddi.com/corporate/newsrelease/. The structural decision to use a **50/50 JV** rather than a controlling-acquirer structure is explicit: it requires both KDDI and Mitsubishi Corp to agree on major strategic moves and prevents either side from converting Lawson into a single-ecosystem captive.
 
-## Strategic rationale — bidirectional
-
 ### KDDI side
 
 | Asset gained | Strategic logic |
@@ -130,25 +128,6 @@ The competitive overlap with **[[loyalty/d-point-au-kddi-docomo-telco-point-cons
 | Strategic frame | "CVS × Telco × Trading House" | "CVS × ATM Bank × Global CVS" | "CVS × Trading House × FamiPay wallet" |
 
 The three CVS chains have **converged on trading-house-anchored or trading-house-plus-telco-anchored ownership**, but their **finance-stack architecture is distinct**: Seven & i is ATM-bank-led, FamilyMart-Itochu is FamiPay-wallet-led, Lawson-KDDI-Mitsubishi is telco-loyalty-led. The [[retail/japan-retail-financial-distribution-wedge-matrix|retail financial-distribution wedge matrix]] captures this in cross-tab form.
-
-## Counterpoints
-
-- **50/50 JV governance friction**: equal-stake JVs historically struggle when strategic priorities diverge. If KDDI wants Lawson-as-au-PAY-flagship and Mitsubishi wants Lawson-as-supply-chain-asset, decision paralysis is a real risk.
-- **PayPay acceptance continues**: even with KDDI ownership, Lawson cannot economically drop PayPay (~70M users) acceptance. The "au PAY exclusive" scenario is unrealistic; au PAY gets bonus-campaign privileges but not exclusivity.
-- **dポイント legacy at Lawson**: NTT docomo's dポイント retains scan-and-earn acceptance at Lawson as of mid-2026 based on public information. A full migration to Ponta-only would be customer-disruptive and is politically delicate.
-- **Take-private execution risk**: post-delisting reformatting (POS upgrades, store-format changes, supply-chain modernization) is capital-intensive and unproven at the KDDI / Mitsubishi joint-management level.
-- **Activist learning from 7&i**: if the 2024-2026 7&i activist reorganization ultimately produces shareholder-value gains comparable to Lawson's take-private route, comparison frameworks may revise which approach is "correct" — but the empirical answer will not be settled until 2027-2028.
-- **Lawson Bank under-investment risk**: a 50/50 JV may under-invest in [[JapanFG/lawson-bank|Lawson Bank]] because the bank's economics are minor relative to KDDI's au じぶん銀行 ambitions; medium-term Lawson Bank fate is open.
-
-## Open questions
-
-- Does **[[JapanFG/lawson-bank|Lawson Bank]] merge with or transfer to [[JapanFG/au-fh|au Financial Holdings]] / au じぶん銀行**, or stay an independent small ATM bank under the JV?
-- Does **dポイント** lose Lawson-scan acceptance over the medium term (2026-2028), and what is the negotiated transition pattern with NTT docomo?
-- How does the **2024 reform** affect **co-issued Lawson-Ponta payment cards** — is there a new "Lawson + au PAY Card" hybrid, or does the existing au PAY Card simply gain Lawson-channel distribution privilege?
-- Does the 50/50 JV survive **decade-scale strategic divergence**, or does one side eventually buy out the other (typical JV end-state)?
-- How is **POS data sharing** structured between KDDI (consumer-data side) and Mitsubishi Corp (supply-chain side) — does either side gain a data-monopoly position on Lawson POS data?
-- Does this deal force **[[retail/familymart-itochu-financial-integration|FamilyMart]] to upgrade its FamiPay-anchored loyalty strategy** to keep pace with Ponta + au PAY at Lawson?
-- Will this deal accelerate **further telco-retail tie-ups** (e.g., SoftBank approach toward FamilyMart, or NTT docomo approach toward a non-CVS retail chain)?
 
 ## Related
 

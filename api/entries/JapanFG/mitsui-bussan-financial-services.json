@@ -44,14 +44,14 @@
   "headings": [
     "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "三井物産の金融機能配置",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "三井物産の事業構造と金融機能",
     "競合 / Peer",
-    "4. 規制・政策"
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5427,
-    "word_like_tokens": 721,
+    "nonspace_chars": 3816,
+    "word_like_tokens": 519,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

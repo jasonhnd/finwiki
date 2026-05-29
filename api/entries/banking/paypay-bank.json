@@ -41,8 +41,6 @@
     "TL;DR",
     "Structure",
     "Strategic read",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
@@ -70,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2027,
-    "word_like_tokens": 301,
+    "nonspace_chars": 1667,
+    "word_like_tokens": 263,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

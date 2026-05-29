@@ -111,13 +111,6 @@ Suica's strategic logic at JR East:
 5. **Open mutual-use vs closed-loop** — Suica's choice to participate in the 10 IC mutual-use scheme (rather than closed JR-only) was structurally enabling for the whole transit-IC ecosystem; the trade-off is inter-issuer settlement complexity managed via Cyberne.
 6. **Centralization (JRE PoiNT, Mobile Suica integration with JRE WALLET)** — recent JR East strategic direction is consolidation under JRE platform brand.
 
-## Counterpoints
-
-- "Suica is only useful on JR." Retail acceptance is wide — convenience stores, vending machines, taxis, ekinaka shops, drugstores, fast food, and any FeliCa-accepting POS nationwide.
-- "Code payment will replace Suica." Tap-speed and offline-resilience at high-throughput rail gates is structurally code-payment-incompatible; Suica's transit moat is durable.
-- "Apple Pay made Suica free." Apple Pay Suica is the same JR East-issued prepaid instrument with the same fee economics — the rail is Apple's, the issuer relationship is JR East's.
-- "Mobile Suica needs Japanese SIM." This was true pre-2016; Apple Pay enablement removed the restriction and overseas-issued iPhones can use Mobile Suica in Japan.
-
 ## Related
 
 - [[payments/INDEX]]

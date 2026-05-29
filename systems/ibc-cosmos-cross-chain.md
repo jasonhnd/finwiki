@@ -102,20 +102,6 @@ IBC specification began in 2018 within the Cosmos / Tendermint community; mainne
 
 Cosmos as an ecosystem has interesting financial relevance: chains like Noble (USDC issuer for Cosmos), dYdX (formerly Ethereum, now Cosmos appchain), and Celestia all sit in the IBC mesh. Read alongside [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer comparison]] for the Celestia angle.
 
-## Counterpoints
-
-- **Operational complexity** — every new chain pair needs a light-client deployment + relayer; not as plug-and-play as LayerZero
-- **Light-client gas cost on Ethereum** — Tendermint signature verification in Solidity is expensive; Eureka uses tricks but remains heavier than LayerZero / CCIP for high-frequency flows
-- **Relayer economics** — IBC relayers are unpaid by default; production deployments depend on volunteer / subsidized relayers (analogous to [[systems/erc-4337-userop-bundler-flow|ERC-4337 bundler economics]])
-- **Cosmos consensus assumption** — IBC inherits Tendermint BFT trust; chains with weak validator sets propagate that risk to connected counterparties
-
-## Open questions
-
-- Does IBC v2 / Eureka achieve material adoption on Ethereum or stay primarily a Cosmos-Ethereum bridge?
-- Will the Cosmos Hub or another chain emerge as a dominant **liquidity hub** (analogous to Ethereum L1 in EVM)?
-- How do IBC and [[systems/polkadot-xcm-parachain-messaging|Polkadot XCM]] compare in production for shared-security cross-chain flows?
-- Will institutional adoption favor IBC's light-client trust model over [[systems/chainlink-ccip-institutional-messaging|CCIP's DON]] model for cross-chain settlement?
-
 ## Related
 
 - [[systems/INDEX]]

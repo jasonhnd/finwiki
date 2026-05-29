@@ -20,7 +20,6 @@ status: candidate
 
 # AI Agent 決済7プロトコル分層表
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
@@ -45,18 +44,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 2024.11 Anthropic が MCP をリリース · 6 ヶ月以内に OpenAI / Google が追随 · 事実上の標準となった。2025.04 Google が A2A をリリースし agent 間通信を補完。2025.05 Coinbase が x402 をリリースし「HTTP ネイティブ決済」の物語に火を点けた(USDC をデフォルト決済通貨とする詳細は [[fintech/usd-stablecoin-interchange|USD ステーブルコイン相互交換層]] 参照)。2025.09 Google が 60+ パートナーと AP2 をリリース · 意図層のトーンを決定した。2026 年中盤 FIDO が AP2 を引き継ぎ → AAIF へ · 意図層は中立標準へ向かう。二次プロトコル(SPT/ACP/TAP)は 2025 年内に登場したが · AP2 + FIDO の二重 commoditization 圧力により独立した堀を築きにくくなった — [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe プロトコルヘッジ戦略]] と構造的対照を成す。
 
-## Counterpoints
-
-- 「7 プロトコル構図」は 2026.05 のスナップショット;FIDO 統合後は 4-5 プロトコルに圧縮される可能性がある
-- A2A と MCP は本当に 2 つのプロトコルが必要かに議論がある — Anthropic が MCP を agent-to-agent までカバーするよう拡張する可能性
-- 「意図 / 伝送 / 文脈」の 3 層は分析視点であり、プロトコル側が自定義する階層ではない — 業界文書では混用されがち
-
-## Open questions
-
-- AAIF が AP2 を引き継いだ後、SPT / ACP は買収されるか淘汰されるか?
-- 中国 / EU は主権競争的な agent プロトコルを打ち出すか?
-- 伝送層には第 3 の標準が登場するか(例えば stablecoin native で HTTP native ではないもの)?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -72,4 +59,3 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 - Agent2Agent (A2A) Protocol（文脈層 · agent-agent 通信）— https://github.com/a2aproject/A2A
 - Agent Commerce Kit（Catena Labs · ACP 系の意図 / 決済設計）— https://www.agentcommercekit.com/overview/concepts
 - Skyfire Developer Docs（SPT 系 · Identity and Payments for AI）— https://docs.skyfire.xyz/
-

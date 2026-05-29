@@ -45,20 +45,17 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "agent-economy/ai-agent-payment-protocols-overview",
       "agent-economy/privy-embedded-wallet-overview",
       "agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
       "fintech/embedded-wallet-fintech-disintermediation-overview",
-      "fintech/genius-act-501-denylist-mandate",
       "fintech/usd-stablecoin-interchange",
       "payments/INDEX"
     ],
@@ -68,7 +65,6 @@
       "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
       "https://finwiki.zksc.io/agent-economy/solana-saga-vs-embedded-wallet-os-thesis",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/payments/INDEX"
     ],
@@ -76,8 +72,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3191,
-    "word_like_tokens": 514,
+    "nonspace_chars": 2712,
+    "word_like_tokens": 441,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

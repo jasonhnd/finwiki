@@ -32,9 +32,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 |---|---|
 | Legal name | 株式会社横浜銀リース |
 | English name | Yokohama Bank Leasing Co., Ltd. (Hamagin Lease) |
-| License route | リース業 (貸金業登録は対応領域に応じて取得、銀行業免許ではない) ^[inferred] |
 | Group boundary | [[yokohama-bank]] 連結子会社 → [[concordia-fg|横浜 FG (YFG)]] グループ |
-| Headquarters | 神奈川県横浜市 ([[yokohama-bank|横浜銀行]] 本店周辺) ^[inferred] |
 | Wiki role | Regional-bank FG leasing-subsidiary anchor (神奈川・首都圏地盤) |
 
 ## 2. 持株ツリー
@@ -47,8 +45,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
   │     └── はまぎんファイナンス (カード・信用保証)
   └── [[higashi-nippon-bank|東日本銀行]] (100%) ── 都内中小特化・首都圏地銀
 ```
-
-## 3. 合併歷史・前身
 
 ### 横浜銀リース 設立
 
@@ -71,7 +67,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 銀リース連携 | [[yokohama-bank]] / [[higashi-nippon-bank]] 顧客紹介 + 共同提案 |
 | 主要顧客層 | 神奈川県内中堅企業 + 首都圏中小企業 + 自治体 |
 | 親会社 | [[yokohama-bank]] 連結子会社 ([[concordia-fg]] グループ) |
-| 業績開示 | [[concordia-fg]] 連結ベース ^[inferred] |
 | 地銀系リース ranking | 上位の一角 (北海道リース / 千葉興業リース等と並ぶ) |
 
 > 注: 単体財務 KPI 精緻値は [[concordia-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
@@ -86,10 +81,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 自治体リース | 神奈川県・市町村向け公用車・設備リース |
 | 医療リース | 病院・診療所向け医療機器リース (神奈川県内大学病院含む) |
 | 工業設備リース | 京浜工業地帯・湾岸エリアの製造設備リース |
-| 再エネリース | 太陽光パネル・蓄電池等再エネ設備リース ^[inferred] |
-| 不動産リース | 商業用不動産・自治体施設リース ^[inferred] |
-
-## 6. 戦略与競争
 
 ### FG 内ポジション
 
@@ -108,31 +99,15 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ### 強みと弱み
 
 - 強み: [[yokohama-bank]] 預金 15 兆円超 (単体) の中堅企業 main bank ネットワーク + 首都圏 GDP 規模 + 神奈川県内 No.1 認知度
-- 弱み: 単独規模では大手リースに大幅劣後、航空機 / 不動産複雑リースは対応困難 ^[inferred]
 
 ## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) (リース業単独としては銀行業免許不要、貸金業登録は対応領域に応じて)
-- **業界団体**: リース事業協会 加盟 ^[inferred]
 - **規制論点**:
   - リース会計基準変更 (IFRS16 / 日本基準) 対応支援
   - 中小企業向けリース税制活用 (中小企業投資促進税制)
   - 環境リース (再エネ設備リース) の脱炭素税制対応
   - 反社チェック・マネロン対策 ([[concordia-fg]] グループ共同実施、2018-08 東日本銀行 業務改善命令後の内部統制強化と整合)
-
-## Counterpoints
-
-- 「地銀系リース = 中途半端」論: 大手リースに規模で劣後 vs 銀リース連携の優位性 ^[ambiguous]
-- 「単独存続困難」論: リース業界寡占化進展、地銀系リース統合・売却シナリオ ^[inferred]
-- 「FG 内利益相反」: 銀行融資 vs リース提案の使い分け基準 ^[inferred]
-- 「神奈川集中 = 人口減少リスク」: 神奈川は他県より緩やかだが、長期人口減少局面で設備投資需要縮小懸念 ^[inferred]
-
-## Open questions
-
-- リース契約残高・新規取扱高の最新規模は ([[concordia-fg]] セグメント情報で開示限定)
-- 大手リース ([[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]]) との将来統合・業務提携シナリオ
-- 再エネリース・EV リース等の新領域参入計画
-- 千葉・横浜パートナーシップ (千葉銀との二者提携) リース領域連携可能性
 
 ## Related
 

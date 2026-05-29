@@ -130,13 +130,6 @@ Visa Gift Card Japan (principally Vプリカ) strategic role:
 4. **Cross-border purchase capability** — overseas-merchant Visa acceptance.
 5. **Limited-balance subscription safety** — prepaid balance bounds auto-renewal risk on subscription sign-ups.
 
-## Counterpoints
-
-- "Vプリカ is just a credit card with prepayment." It is prepaid — no credit risk to issuer, no consumer credit underwriting, no installment / revolving option; structurally different from credit card.
-- "Closed-loop gift cards are equivalent." They are not — closed-loop gift cards restrict spending to one platform; brand-network prepaid spends across the entire Visa network.
-- "Why not just use a credit card?" Cardless cohorts and consumer-privacy / subscription-safety use cases are real; not all users want or qualify for credit cards.
-- "Visa Gift Card and Kyash card are the same." Both are Visa-branded prepaid in Japan, but Vプリカ is single-load gift-orient and Kyash is recharge-and-spend wallet-orient — different product categories.
-
 ## Related
 
 - [[payments/INDEX]]

@@ -23,7 +23,6 @@ sources:
 
 # みんなの銀行 BaaS model
 
-
 ## Wiki route
 
 This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/mercari-bank-license-stack|メルカリバンク license stack]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
@@ -63,19 +62,6 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 [[banking/mercari-bank|メルカリバンク]] は、みんなの銀行口座をメルカリアプリからメルペイと API 連携して使うサービスとして開始された。売上金を即時かつ手数料無料でみんなの銀行普通預金口座に送れることが中核 UX で、みんなの銀行のパートナー支店「メルカリ支店」を使う。
 
 ここでの要点は、メルペイが銀行になったわけではないこと。メルペイは電子決済等代行業者として、みんなの銀行との API 接続を通じて口座情報の表示や資金移動指図を扱う。
-
-## Counterpoints
-
-- BaaS 口座数は primary bank relationship と同義ではない。口座開設後の残高、給与受取、決済頻度を別に見る必要がある。
-- パートナー支店はブランド効果が強い一方、パートナーのサービス利用頻度に依存する。
-- API 提供は技術力だけでなく、金融庁 / 財務局登録、事故時責任分界、AML / 不正送金対応が実装制約になる。
-- 「金融ライセンス不要でも利用可能」という表現は機能範囲次第。資金移動指図や口座情報表示まで踏み込む場合は、電子決済等代行業などの確認が必要になる。
-
-## Open questions
-
-- BaaS 経由口座は、どの程度預金残高と日常決済に転換しているか。
-- パートナー支店を複数持てる仕様変更後、支店間のカニバリゼーションは起きるか。
-- [[JapanFG/fukuoka-fg|ふくおかFG]] は BaaS を単独銀行事業として黒字化できるか、それともグループ全体のデジタル実験投資と見るべきか。
 
 ## Related
 

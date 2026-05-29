@@ -19,7 +19,6 @@ status: candidate
 
 # CBDC 3 大現役パラダイム
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -61,19 +60,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2014 中国 PBoC が e-CNY を開始 → 世界最古の CBDC 研究プロジェクト。2020.04 e-CNY 最初の 4 都市試験運用、2022.04 で 23 都市に拡大。2023 ブラジル DREX（旧 Real Digital）開始 → Hyperledger Besu の選択は「チェーン・ネイティブ + EVM エコシステム」の観点から重要な決定。2023 ECB がデジタル・ユーロの Investigation Phase を完了、2024 Preparation Phase、2025.06 立法スタート → 保有上限は設計協議における政治的焦点。3 つのプロジェクトはそれぞれ中国（国家主導）、新興市場（銀行エンパワーメント）、ユーロ圏（中介を慎重に保護）の 3 つの政治的経路を体現する。日本側 DC-JPY は [[fintech/jp-stablecoin-dcjpy|DC-JPY 概要]] 参照。
 
-## Counterpoints
-
-- e-CNY のユーザーアクティビティデータは混乱、¥7 兆元の累計 ≠ 大規模 DAU
-- DREX 試験運用は 14 機関連合に規模が限られ、商業化のタイムテーブルは繰り返し延期
-- デジタル・ユーロの保有上限 €3000-4000 は政治的妥協の産物で、実際の利用で調整される可能性
-- 3 プロジェクトの「成功基準」は公的に明示されておらず、定量評価は困難
-
-## Open questions
-
-- e-CNY は token-based 多層要素（スマートコントラクト）を取り込む進化をするか?
-- DREX が商業化に失敗した場合（2027 になっても規模化しない場合）、token-based 多層パラダイムは放棄されるか?
-- デジタル・ユーロの真の発行タイムテーブル（2027? 2028?）は?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -83,4 +69,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

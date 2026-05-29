@@ -21,10 +21,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jcb|JCB]] for peer / contrast context (両者とも 3-party 系・プレミアム志向) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
-## TL;DR
-
-ダイナースクラブは **世界初のクレジットカード** として 1950 年に米国で誕生したブランド。日本では現在 **三井住友トラストクラブ株式会社 (Sumitomo Mitsui Trust Club Co., Ltd.)** が国内発行・運営を担う ([[JapanFG/sumitomo-mitsui-trust|三井住友トラスト]] グループ系列)。グローバルブランド権利は米 Discover Financial Services (Discover との一体経営) が保有するが、日本国内ライセンスは三井住友トラストクラブが独占的に保持。**完全な富裕層・法人プレミアム特化** で、年会費・与信限度ともに高水準、グルメ・トラベル特典に強み。カード会員数は他国際ブランドより圧倒的に少ないが、**1 枚あたり客単価が最大級** ^[inferred] のニッチ高単価モデル。
-
 ## 1. License / group boundary
 
 | Item | Notes |
@@ -44,8 +40,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **トラベル・空港ラウンジ**: 国内外空港ラウンジ無料利用、コンシェルジュサービス、海外旅行保険等プレミアム特典。
 - **法人カード・コーポレートカード**: 大企業 T&E 管理向け Diners Club コーポレートカード。
 - **JCB との相互利用**: JCB 加盟店で Diners カードが使える / Diners 加盟店で JCB カードが使える相互利用契約 (運用形態は変遷あり、要確認 ^[ambiguous])。
-
-会員数規模は Visa / Mastercard / JCB / Amex に比し圧倒的に少ないが、客単価・年間決済額で 1 枚あたりの収益性は最大級水準 ^[inferred]。
 
 ## 3. Strategy & competitive position vs JCB / domestic schemes
 

@@ -48,8 +48,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa
 | ホームマーケット | 神奈川県全域 + 関東圏在日コミュニティ |
 | 信組類型 | **業域 + 民族系信用組合** (在日韓国・朝鮮人系) |
 
-## 2. 営業地区・組合員資格
-
 ### 営業地区 ^[inferred]
 
 - **本店所在地**: 横浜市中区尾上町 (関内・伊勢佐木町エリア)
@@ -79,8 +77,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa
 
 > 注: **横浜幸銀** (在日韓国・朝鮮人系) と **横浜華銀** (華僑系) が同一住所地区 (中区) に並存、神奈川県の代表的民族系信組 2 行体制。
 
-## 3. 系統内位置・幸銀系ネットワーク
-
 ### 全信組連内の位置付け
 
 - **[[JapanFG/zenshin-kumi|全信組連]]** の関東ブロック会員行
@@ -100,9 +96,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa
 ### 2000 年代信組危機の影響 ^[inferred]
 
 - 1990 年代末〜2000 年代初頭の **在日系信組連鎖破綻問題** (関西商銀危機 + 朝銀信組破綻問題) を経て、関東神奈川エリアの民族系信組は受け皿信組への事業譲渡 + 統合再編を経験
-- 現在の横浜幸銀信用組合は、再編後の存続体制 ^[inferred] — 詳細母体行構造は要追加検証
-
-## 4. 業務 map
 
 ### 主要業務 ^[extracted]
 
@@ -132,8 +125,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa
 | 総資産 | 数千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
 | 預金残高 | 数千億円規模 | ^[ambiguous] |
 | 貸出金 | 数千億円規模 | ^[ambiguous] |
-| 自己資本比率 | 信組基準 (4% 以上) を維持 | ^[inferred] |
-| 店舗数 | 十数店舗 | ^[inferred] |
 | 組合員数 | 万人台規模 | ^[ambiguous] |
 
 > 注: 最新数値は横浜幸銀ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
@@ -147,23 +138,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa
   - **AML/CFT 強化** (跨境送金監視) — 民族系信組固有の規制対応コスト
   - **組合員世代交代** (在日 2 世・3 世以降の信組離れリスク)
   - **韓国系銀行 (新韓銀行東京支店等)** との競合
-  - **信組業界全体での再編・統合圧力** ^[inferred]
-
-## Counterpoints
-
-- **民族系信組の存在意義論争**: 在日コミュニティの世代交代 + 一般日系金融機関のサービス充実で **民族系信組固有需要が縮小**するリスク vs **コミュニティ密着** の独自価値 ^[ambiguous]
-- **スケール劣位**: [[JapanFG/yokohama-bank|横浜銀行 ([[JapanFG/concordia-fg|コンコルディアFG]])]] や [[JapanFG/yokohama-shinkin|横浜信用金庫]] 等の県下大手金融機関との直接競合で、規模デメリット ^[inferred]
-- **跨境送金規制強化**: 民族系信組固有の韓国向け送金需要が AML/CFT 規制対応コストを増大、小規模信組には負担大 ^[inferred]
-- **2000 年代信組危機の長期影響**: 不良債権処理を経た再編体制ゆえ **慎重な経営姿勢** が成長機会の制約 ^[inferred]
-
-## Open questions
-
-- **最新総資産・預金・貸出規模** (組合員向け事業報告書を要参照)
-- **2000 年代信組危機後**の具体的統合経緯と現行体制の母体行は?
-- **横浜華銀** (隣接住所の華僑系信組) との関係性 (協力 / 競合 / 重複)
-- **韓国系銀行 (新韓・KEB ハナ・ウリ等)** との競合・協力関係
-- **AML/CFT 強化**に伴う送金業務への影響度
-- **幸銀系信組全国ネットワーク**の現存規模 (再編後の系統 mapping)
 
 ## Related
 

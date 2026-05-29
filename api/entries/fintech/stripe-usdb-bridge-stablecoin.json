@@ -51,13 +51,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
       "agent-economy/ap2-overview",
@@ -75,9 +73,7 @@
       "fintech/paypal-pyusd-stablecoin",
       "fintech/protocol-hedge-strategy-stripe-pattern",
       "fintech/ripple-rlusd-stablecoin",
-      "systems/bft-validator-economy-overview",
-      "systems/canton-overview",
-      "systems/cross-chain-five-pole-comparison-matrix"
+      "systems/bft-validator-economy-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -96,17 +92,15 @@
       "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
       "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
       "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
-      "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+      "https://finwiki.zksc.io/systems/bft-validator-economy-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6284,
-    "word_like_tokens": 993,
+    "nonspace_chars": 5377,
+    "word_like_tokens": 842,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

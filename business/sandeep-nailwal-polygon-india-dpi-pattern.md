@@ -18,14 +18,12 @@ status: confirmed
 
 # 国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給
 
-
 ## Wiki route
 
 This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/paolo-ardoino-tether-business-model-template|40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 国家連合 = プロジェクト側が規制 / 大企業 / 主権ナラティブの3本の柱で当該国と深く結びついている状態 ^[inferred]
 - Polygonはインド初のブロックチェーン・ユニコーン(2021)+ デカコーン($10B+ 評価額) ^[extracted]
 - 2026-Q1にARC ルピー・ステーブルコインがローンチ:Polygon × Anq共同開発、Polygon PoSに展開 ^[extracted]
 - Reliance Jio 4.5億ユーザー + JioSphereブラウザ = Web3アプリのゲートウェイ ^[extracted]
@@ -42,18 +40,6 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 起点は2017年のPolygon(旧Matic Network)のインドでの創業、2021年にユニコーン + デカコーン。しかし2023-2025年のzkEVM路線の失敗 + Solana / Baseに市場を奪われる → Polygonのグローバル評価額に圧力。2025-06にSandeepがFoundation CEOに就任し「ゼロから一」戦略の再起動を発表:zkEVMを放棄、AggLayerにオールイン、PoSをGigaGasへアップグレード。同時に**インド連合**を始動:2025-01にReliance Jio独占提携を公表、2026-01にPolygon Open Money Stackを発表、2026-Q1にARCルピー・ステーブルコインをローンチ。Sandeep個人のXフォロワーは250万人超でインドWeb3最大のKOL、プロジェクト変革を国家ナラティブに紐付けた。フォロー候補:CELO + アフリカ、VeChain + ベトナム?
 
-## Counterpoints
-
-- 「国家連合」の代償 = 当該国外の市場での吸引力がさらに低下する(インド連合 = 米国 / EU顧客の開拓困難)
-- 単一国家のナラティブはその国の政治安定 + 大企業関係に強く依存 → Reliance / RBIの政策変化で瞬時に反転しうる
-- 反ドルナラティブはG20内部でも分裂を抱える(インドは反ドル vs 日本 / 韓国はドルフレンドリー)→ 連合の規模に限界
-
-## Open questions
-
-- ARCメインネットは長期的にINR国際化の担体となれるか(Polygonが「グローバル苦戦」地位を脱せるかの分水嶺)
-- インド政府はARC以外のステーブルコイン許可を拡張するか(単一ステーブルコイン政策のリスクは高い)
-- 同類モデルはブラジル(BRLステーブルコイン)、インドネシア(IDRステーブルコイン)、トルコで複製可能か
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -68,4 +54,3 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - Polygon (formerly Matic), founded by Sandeep Nailwal et al. (2017), India's only crypto decacorn (Outlook Business) — https://www.outlookbusiness.com/start-up/news/is-polygon-once-feted-as-indias-only-crypto-decacorn-receding-into-oblivion
 - India's debt-backed ARC rupee stablecoin (Polygon + Anq) eyes Q1 2026 debut (CoinDesk, 2025-11-20) — https://www.coindesk.com/markets/2025/11/20/india-s-debt-backed-arc-token-eyes-tentative-january-2026-debut-sources-say
 - What is JioCoin? Reliance Jio's Polygon Labs blockchain reward token on JioSphere (Business Today, 2025-01-20) — https://www.businesstoday.in/technology/news/story/what-is-jiocoin-could-this-blockchain-based-token-be-reliance-jios-entry-into-the-crypto-world-461350-2025-01-20
-

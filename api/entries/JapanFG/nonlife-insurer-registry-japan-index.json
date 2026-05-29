@@ -49,14 +49,14 @@
     "Wiki route",
     "Boundary",
     "Registry snapshot",
-    "Cluster map",
     "A. 大手3社 — domestic holding-company groups (元受)",
     "B. Direct (digital / telco / EC) non-life insurers",
     "C. Specialty / niche / regional non-life insurers",
-    "D. Foreign-affiliated direct non-life insurers (外国損害保険会社等)"
+    "D. Foreign-affiliated direct non-life insurers (外国損害保険会社等)",
+    "E. Lloyd's Japan (marketplace platform)"
   ],
   "body_links": {
-    "wikilinks_count": 75,
+    "wikilinks_count": 74,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -100,7 +100,6 @@
       "JapanFG/rakuten-fg",
       "JapanFG/rakuten-general-insurance",
       "JapanFG/rakuten-insurance-hd",
-      "JapanFG/rescue-insurance",
       "JapanFG/rga-japan",
       "JapanFG/sakura-insurance",
       "JapanFG/sbi-hd",
@@ -177,7 +176,6 @@
       "https://finwiki.zksc.io/JapanFG/rakuten-fg",
       "https://finwiki.zksc.io/JapanFG/rakuten-general-insurance",
       "https://finwiki.zksc.io/JapanFG/rakuten-insurance-hd",
-      "https://finwiki.zksc.io/JapanFG/rescue-insurance",
       "https://finwiki.zksc.io/JapanFG/rga-japan",
       "https://finwiki.zksc.io/JapanFG/sakura-insurance",
       "https://finwiki.zksc.io/JapanFG/sbi-hd",
@@ -215,9 +213,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15836,
-    "word_like_tokens": 2418,
+    "nonspace_chars": 14013,
+    "word_like_tokens": 2131,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

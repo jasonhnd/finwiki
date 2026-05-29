@@ -22,7 +22,6 @@ sources:
 
 # Japan BaaS landscape
 
-
 ## Wiki route
 
 This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/minna-bank-baas-model|みんなの銀行 BaaS model]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
@@ -61,19 +60,6 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 | Funds transfer / prepaid instruments | Wallet balances and payment flows can sit outside the deposit bank |
 | AML / fraud monitoring | Embedded UX does not remove bank-grade monitoring duties |
 | Responsibility boundary | User-facing brand and regulated service provider may differ |
-
-## Counterpoints
-
-- BaaS can inflate account counts without creating durable primary-bank relationships.
-- Partner branches may be strong for marketing but weak for standalone banking economics.
-- API integration raises operational-risk and incident-response complexity.
-- A bank can provide BaaS and still fail to monetize if balances remain low or partner users are promotional-only.
-
-## Open questions
-
-- Which model has better economics in Japan: partner branch, API-only, or NEOBANK style white-label?
-- Can BaaS accounts convert into salary deposits and long-term balances?
-- Will future stablecoin / tokenized deposit regulation make bank BaaS more valuable or less differentiated?
 
 ## Related
 

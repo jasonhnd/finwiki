@@ -17,7 +17,6 @@ sources:
 
 # HSBC ジャパン (HSBC Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -78,8 +77,6 @@ HSBC Holdings plc（英、上場）
 | リテール | **撤退済（2012-03）** | — | プレミア顧客は他行移管 |
 | 信託 | HSBC 信託（縮小） | — | 機能縮小・代替手段あり |
 
-## 3. 戦略・競争
-
 ### アジア ハブ戦略
 
 - **香港・シンガポール 経由日本ビジネス**: HSBC グループ全体の 「Pivot to Asia」 戦略の中で日本は重要顧客拠点だが、プロダクト ハブは香港 / シンガポール
@@ -116,21 +113,6 @@ HSBC Holdings plc（英、上場）
   - 外国銀行支店 → 「日本における全資産」基準で監督
   - 第一種金融商品取引業（HSBC 証券会社）→ 通常の証券会社規制
   - マネロン対策（AML）→ グローバル ポリシー + 日本 FIU 連携
-
-## Counterpoints
-
-- **「リテール撤退は失敗ではない」**: 日本リテール市場の構造（メガ 3 行 + 地銀 + ゆうちょの規模優位、ネット銀行台頭）に対し外資の参入余地は限定的。むしろ早期撤退で資本効率改善 ^[inferred]
-- **「アジア ハブ戦略の日本軽視リスク」**: プロダクト機能の香港 / シンガポール集中で日本拠点は「セールス オフィス」化リスク ^[inferred]
-- **「HSBC グループ全体の地政学リスク」**: 親会社が英 / 香港 / 中国 三角構造に晒される → 米中対立・香港情勢の影響が日本拠点にも波及しうる ^[inferred]
-- **「邦銀のアジア自立化」**: MUFG（[[mufg]] Krungsri / Bank Danamon）・SMFG（[[smfg]] VPBank）・みずほ（[[mizuho-fg]] 東南アジア）が直接アジア展開を進める中、HSBC の仲介役割は徐々に低下 ^[inferred]
-
-## Open questions
-
-- HSBC 日本拠点 の収益規模・従業員数（非公開）は？ HSBC グループ全体に占める日本比重
-- HSBC グループの 2024 アジア戦略再編（香港マネジメント分離検討等）の日本拠点への影響は？
-- 在日外国人駐在員向け プレミア（金融サービス）の再参入可能性は？ → 現状は撤退維持
-- HSBC 信託銀行（日本）の現状機能・将来計画は？
-- 邦銀との競合 → 補完 シフトの加速はあるか？
 
 ## Related
 

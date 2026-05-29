@@ -46,18 +46,15 @@
     "2. Business role",
     "3. Why this standalone page matters",
     "4. 規制・政策",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/bnpl-landscape",
-      "JapanFG/credit-saison",
       "JapanFG/famima-digital-one",
-      "JapanFG/jaccs",
       "JapanFG/merpay",
       "JapanFG/net-protections-hd",
       "JapanFG/paidy",
@@ -68,9 +65,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
-      "https://finwiki.zksc.io/JapanFG/credit-saison",
       "https://finwiki.zksc.io/JapanFG/famima-digital-one",
-      "https://finwiki.zksc.io/JapanFG/jaccs",
       "https://finwiki.zksc.io/JapanFG/merpay",
       "https://finwiki.zksc.io/JapanFG/net-protections-hd",
       "https://finwiki.zksc.io/JapanFG/paidy",
@@ -82,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3452,
-    "word_like_tokens": 482,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 2592,
+    "word_like_tokens": 373,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-05-29"
   }
 }

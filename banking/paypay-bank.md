@@ -20,7 +20,6 @@ sources:
 
 # PayPay 銀行 (PayPay Bank)
 
-
 ## Wiki route
 
 This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
@@ -42,18 +41,6 @@ PayPay 銀行は 2000 年設立・開業の国内ネット銀行で、現在は 
 PayPay 銀行の役割は、単独ネット銀行というより PayPay 決済圏の預金・振込・ローン・給与受取受け皿。[[banking/rakuten-bank|楽天銀行]] が楽天経済圏、[[banking/au-jibun-bank|auじぶん銀行]] が KDDI / au 金融圏に接続するのと同じく、PayPay 銀行は QR 決済の高頻度接点から銀行利用へ降りる導線を持つ。
 
 2025 年の株式再編は、銀行を PayPay ブランドの直下に寄せる意味が大きい。従来のネット銀行・旧ジャパンネット銀行の legacy に、PayPay アプリの顧客接点を重ねる構造になった。
-
-## Counterpoints
-
-- PayPay の決済頻度は強いが、銀行預金の粘着性や給与受取口座化は別指標で見る必要がある。
-- SMBC が大株主として残るため、完全な独立 fintech bank ではなく、銀行インフラ・規制対応では伝統金融との接続が残る。
-- PayPay app 内で銀行口座がどれだけ主導線化しているかは、公開情報だけではまだ不足。
-
-## Open questions
-
-- PayPay 銀行口座のうち、PayPay app 起点で開設・利用されている割合はどれくらいか。
-- PayPay カード・PayPay 証券との cross-sell が預金残高や貸出収益にどれだけ効いているか。
-- [[JapanFG/paypay-fg|PayPay 金融グループ]] 内で銀行が決済・証券・カードを束ねる OS になるのか、補助的な口座機能に留まるのか。
 
 ## Related
 

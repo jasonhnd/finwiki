@@ -41,20 +41,16 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "exchanges/liquid-staking-restaking-cex-exposure",
       "fintech/INDEX",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
       "systems/INDEX",
-      "systems/cross-chain-five-pole-comparison-matrix",
       "systems/cross-chain-four-poles-overview",
       "systems/eigenlayer-avs-mechanism",
       "systems/hyperlane-overview",
@@ -64,9 +60,7 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
       "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
       "https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism",
       "https://finwiki.zksc.io/systems/hyperlane-overview",
@@ -76,8 +70,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3445,
-    "word_like_tokens": 457,
+    "nonspace_chars": 2721,
+    "word_like_tokens": 370,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

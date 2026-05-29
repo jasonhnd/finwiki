@@ -61,8 +61,8 @@
     "Timeline of major Japan-presence inflections (2000-2026)",
     "Segment-level current state (2024-2026)",
     "Retreat / inflection trigger taxonomy",
-    "Per-row entries (selected high-signal cases)",
-    "Citigroup → narrowest US retreat case (Citigroup Japan)"
+    "Citigroup → narrowest US retreat case (Citigroup Japan)",
+    "HSBC → retail exit template (HSBC Japan)"
   ],
   "body_links": {
     "wikilinks_count": 71,
@@ -216,9 +216,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 28867,
-    "word_like_tokens": 4792,
+    "nonspace_chars": 27918,
+    "word_like_tokens": 4635,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

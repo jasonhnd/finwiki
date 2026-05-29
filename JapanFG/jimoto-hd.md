@@ -19,7 +19,6 @@ sources:
 
 # じもとホールディングス (JIMOTO HD)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
@@ -68,8 +67,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | **整理回収機構（RCC）** | **63.52%**（優先株 → 普通株転換で議決権取得）|
 | SBI 地銀ホールディングス | （2020-11 第三者割当 35 億円・筆頭株主だった、RCC 国有化で順位入替）^[ambiguous] |
 
-## 2. 沿革
-
 ### 沿革年表 ^[extracted]
 
 | 年月 | 事象 |
@@ -105,8 +102,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 **仙台銀行系（宮城）**
 - 1951-07-05 振興無尽 → 1952 振興相互銀行 → 1989 仙台銀行（普銀転換）
-
-## 3. 戦略・競合
 
 ### 経営戦略
 
@@ -149,21 +144,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | 代表取締役社長 | 坂爪 敏雄 | 2024-04 経営刷新 |
 
 > 2024-04 経営トップ全面刷新は、234 億円赤字下方修正と公的資金返済不能表明の引責人事。
-
-## Counterpoints
-
-- 「震災復興統合という設立趣旨」vs「2009 公的資金が震災前注入で、震災後の追加で連鎖債務化」: 統合の本来意図と現実の負債構造のズレ ^[inferred]
-- 「SBI 4 大地銀 = 救済」vs「SBI 提携でも RCC 国有化を回避できなかった」: SBI 救済モデルの限界事例 ^[ambiguous]
-- 「13 年延期 = 救済」vs「13 年延期 = 事実上の徳政令、税金で第二地銀を延命させる是非」: 公的資金延期の政策論争 ^[ambiguous]
-- 「2 県広域 FG の競争力」vs「フィデア HD（山形 + 秋田）との重複地盤」: 北東北第二地銀の再々編余地 ^[inferred]
-
-## Open questions
-
-- 2037-09 までに 200 億円返済原資を確保できるか？ 仙台銀行の利益積上げペース（年 9 億円 yoy）で足りるか？ ^[extracted]
-- RCC 主導での再編シナリオ（フィデア HD [[fidea-hd]] との統合、SBI 4 大地銀内合併 等）の可能性は？
-- SBI 地銀 HD（2020-11 出資 35 億円）の議決権希薄化後の戦略的位置付けは？
-- きらやか銀行と仙台銀行の **合併**（じもと HD 内一行化）シナリオは中計に含まれるか？ ^[ambiguous]
-- 2023-09 注入の 180 億円（コロナ特例）の返済期限と原資は？
 
 ## Related
 

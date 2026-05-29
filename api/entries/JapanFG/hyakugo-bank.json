@@ -43,9 +43,9 @@
     "主要子会社・関連会社",
     "沿革（抜粋）^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略と競争",
     "地盤・競争構造",
-    "産業特性"
+    "産業特性",
+    "単独経営の戦略"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4270,
-    "word_like_tokens": 535,
+    "nonspace_chars": 3130,
+    "word_like_tokens": 422,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

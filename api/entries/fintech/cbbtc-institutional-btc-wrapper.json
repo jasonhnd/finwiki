@@ -46,20 +46,17 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "agent-economy/coinbase-cdp-developer-platform",
       "exchanges/native-dex-flip-incumbent-pattern",
       "exchanges/vetoken-host-protocol-flywheel",
       "fintech/INDEX",
-      "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/regulatory-window-strategic-acquisition",
@@ -71,7 +68,6 @@
       "https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern",
       "https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
@@ -81,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3472,
-    "word_like_tokens": 540,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 2830,
+    "word_like_tokens": 453,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-05-29"
   }
 }

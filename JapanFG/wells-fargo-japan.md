@@ -17,7 +17,6 @@ sources:
 
 # ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank, N.A., Tokyo Branch)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -76,8 +75,6 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 
 リテール展開がない点が、邦銀の都市銀行・シティバンク銀行（旧 SMBC 信託預け先）と決定的に違う。米国本体ではリテール巨大網を持つ一方、日本では完全に B2B（法人）特化型。
 
-## 3. 沿革
-
 ### 親会社・米国 Wells Fargo 沿革 ^[extracted]
 
 | 年 | 事象 |
@@ -105,8 +102,6 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 - **2024 年以降**: アジア戦略の一環として在日法人サービスを拡充傾向
 
 > 詳細な在日年表は公式 IR 開示が限定的で再構成が難しい。本支店の沿革は親会社の合併歴史と紐づけて理解する必要がある。
-
-## 4. 戦略・競争
 
 ### 親会社全体戦略
 
@@ -137,21 +132,6 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 - **G-SIB Bucket 1**: FSB 認定（+1.0% CET1 追加資本要件）
 - **資産上限規制**: 2018-02 FRB により親会社全体に発動、2025 年解除観測 ^[extracted]
 - **偽口座事件影響**: 2016〜 罰金累計数十億ドル、CFPB / DOJ / SEC 同意審判複数件
-
-## Counterpoints
-
-- 「米国国内偏重 vs グローバル展開」: 米 4 大の中で最も米国内集中。日本含むアジアでは存在感が JPMorgan / Citi に大きく劣る ^[inferred]
-- 「偽口座事件の長期影響」: 2016 年事件のレピュテーション傷は完全回復に至らず、邦銀コンプライアンス部門の調達先選定で慎重姿勢が継続 ^[ambiguous]
-- 「資産上限解除 = 即拡大か」: FRB 上限解除が 2025〜26 年に実現しても、実際の海外業務拡大ペースは慎重な可能性 ^[ambiguous]
-- 「日本リテール参入の可能性」: 米国メガバンクの日本リテール撤退史（シティバンク銀行 → SMBC 信託売却）を見れば、Wells Fargo の日本リテール参入はほぼ想定不能 ^[inferred]
-
-## Open questions
-
-- 在日従業員規模・収益規模の公表データは存在するか？（外国銀行支店の決算開示範囲）
-- 親会社の資産上限解除が在日支店業務にどの程度波及するか？
-- 邦銀（特に [[mufg]] MUFG Americas Holdings）の米国業務と Wells Fargo の在日業務はどの程度競合 vs 協業関係にあるか？
-- Charlie Scharf CEO 体制下のアジア戦略は具体的にどう推進されるか？
-- 2024 年以降のアジア戦略の具体的な日本向け施策は？
 
 ## Related
 

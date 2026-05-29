@@ -49,8 +49,6 @@
     "Finance assets in the channel",
     "Comparison with Seven & i and AEON",
     "Why this is a third model, not a copy",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
@@ -90,9 +88,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 7679,
-    "word_like_tokens": 1351,
+    "nonspace_chars": 6269,
+    "word_like_tokens": 1086,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

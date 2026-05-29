@@ -46,17 +46,17 @@
   "headings": [
     "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "三菱グループ内の AM 機能配置",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "商社系不動産 AM の競合構造",
     "Peer / 競合",
-    "group-treasury 機能との分業"
+    "group-treasury 機能との分業",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 20,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/asset-management-one",
@@ -72,7 +72,6 @@
       "JapanFG/mizuho-fg",
       "JapanFG/mufg",
       "JapanFG/mufg-asset-management",
-      "JapanFG/nomura-asset-management",
       "JapanFG/sojitz-finance",
       "JapanFG/sumitomo-corp-financial-management",
       "JapanFG/toyota-tsusho-finance",
@@ -95,7 +94,6 @@
       "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/mufg-asset-management",
-      "https://finwiki.zksc.io/JapanFG/nomura-asset-management",
       "https://finwiki.zksc.io/JapanFG/sojitz-finance",
       "https://finwiki.zksc.io/JapanFG/sumitomo-corp-financial-management",
       "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
@@ -107,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5986,
-    "word_like_tokens": 896,
+    "nonspace_chars": 4111,
+    "word_like_tokens": 607,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

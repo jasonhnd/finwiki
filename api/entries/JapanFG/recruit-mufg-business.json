@@ -47,13 +47,11 @@
     "1. 法人・ライセンス境界",
     "2. Business Role",
     "3. Why This Standalone Page Matters",
-    "Counterpoints",
-    "Open Questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/au-payment",
@@ -62,7 +60,6 @@
       "JapanFG/mufg",
       "JapanFG/mufg-bank",
       "JapanFG/paypay",
-      "payments/credit-purchase-card-operators-japan-index",
       "payments/funds-transfer-service-providers-japan-index",
       "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-code-payment-competitive-map",
@@ -76,7 +73,6 @@
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/mufg-bank",
       "https://finwiki.zksc.io/JapanFG/paypay",
-      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
       "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
@@ -86,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3658,
-    "word_like_tokens": 604,
+    "nonspace_chars": 2967,
+    "word_like_tokens": 485,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-05-29"
   }
 }

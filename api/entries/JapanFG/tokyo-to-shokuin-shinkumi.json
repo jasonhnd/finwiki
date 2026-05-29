@@ -46,23 +46,22 @@
   "headings": [
     "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)",
     "Wiki route",
-    "TL;DR",
     "1. 法人概要",
-    "2. 営業地区・組合員資格",
     "組合員資格 ^[extracted]",
     "組合員から除外される範囲 ^[inferred]",
     "営業拠点 ^[inferred]",
-    "3. 系統内位置",
-    "全信組連内の位置付け"
+    "全信組連内の位置付け",
+    "全国自治体職員信組ネットワーク ^[inferred]",
+    "主要業務 ^[extracted]",
+    "ALM・資金フロー ^[inferred]"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/dic",
       "JapanFG/iwaki-shinkumi",
       "JapanFG/keishicho-shinkumi",
-      "JapanFG/sony-bank",
       "JapanFG/tokyo-shobo-shinkumi",
       "JapanFG/zenshin-kumi",
       "banking/cooperative-banking-japan",
@@ -73,7 +72,6 @@
       "https://finwiki.zksc.io/JapanFG/dic",
       "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
       "https://finwiki.zksc.io/JapanFG/keishicho-shinkumi",
-      "https://finwiki.zksc.io/JapanFG/sony-bank",
       "https://finwiki.zksc.io/JapanFG/tokyo-shobo-shinkumi",
       "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -83,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5487,
-    "word_like_tokens": 684,
+    "nonspace_chars": 4235,
+    "word_like_tokens": 544,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

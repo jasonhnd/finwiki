@@ -49,7 +49,7 @@
     "合併・前身経緯",
     "重要年表（抜粋）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争"
+    "競合環境"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4083,
-    "word_like_tokens": 688,
+    "nonspace_chars": 3575,
+    "word_like_tokens": 630,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

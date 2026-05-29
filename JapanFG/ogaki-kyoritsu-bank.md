@@ -16,7 +16,6 @@ sources:
 
 # 大垣共立銀行 (OKB)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -34,7 +33,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **株式会社化**：1929 ^[extracted]
 **東証上場**：1949 ^[extracted]
 **本店**：岐阜県大垣市郭町 3-98 ^[extracted]
-**機関設計**：監査役会設置会社 ^[inferred]
 **統一金融機関コード**：0152 ^[extracted]
 
 ### 主要数値 (概数) ^[ambiguous]
@@ -45,8 +43,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 預金量 | 5 兆円台規模 (地銀中位) |
 | 店舗数 | 約 150 店舗 (岐阜県・愛知県・三重県中心) |
 | ATM 数 | 全国地銀でも上位水準 (コンビニ・ドライブスルー含む) |
-
-> 注: 具体的な決算数値は OKB 公式 IR・有価証券報告書を直接参照のこと。本ノートは時点保証しない。^[inferred]
 
 ### グループ構造
 
@@ -89,9 +85,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ATM ネットワーク | コンビニ・ドライブスルー | 全国地銀でも上位水準 ^[ambiguous] |
 | クレカ | OKB カード (JCB 提携) | - |
 | リース・投信 | OKB リース・他 | - |
-| 公金 | 岐阜県・大垣市・西濃地方市町村 指定金融機関 | ^[inferred] |
-
-## 3. 戦略・競争
 
 ### 「楽しい銀行」ブランディング
 
@@ -122,7 +115,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 観光融資
 
-- 養老の滝・関ヶ原古戦場・大垣城下町・郡上八幡など岐阜観光地への融資 ^[inferred]
 - 中京圏からの観光客流入 + インバウンド復活で観光関連融資ニーズ
 
 ### 中期経営計画 (2024〜)
@@ -130,12 +122,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - サステナビリティ・ESG 強化
 - DX・店舗デジタル化
 - 女性活躍・人的資本投資
-- 地域経済振興 (中京サプライチェーン・観光) ^[inferred]
 
 ## 4. 規制・政策
 
 - **主管**: 金融庁 (FSA) ・東海財務局
-- **指定金融機関**: 岐阜県・大垣市等 (西濃地方市町村中心) ^[inferred]
 - **加盟協会**: 全国地方銀行協会 (地銀協)
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 地銀の金利マージン改善期待
@@ -145,24 +135,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 頭取・経営
 
 - **土屋嶢 (つちや たかし)**: 長期にわたり経営トップを務め、「OKB」VI 導入 (1991)・「楽しい銀行」コンセプトを推進した中興の祖的存在 ^[extracted]
-- 創業家・地元有力者との関係維持 ^[inferred]
-
-## Counterpoints
-
-- 「楽しい銀行 ≠ 収益力」観: B2C ブランド露出は強いが、地銀中位の規模で持株会社化していない単独銀行体制が長期的に競争力を保てるかは要観察 ^[ambiguous]
-- 「西濃集中リスク」: 岐阜県西濃地方への営業集中 → 中京自動車部品サプライチェーンの構造転換リスク (EV シフト) ^[inferred]
-- 「[[juroku-fg]] との力学」: 岐阜県内で十六 FG (FG 化済・PRIME) と並ぶ二大銀行だが、預金量・総資産では十六に劣勢との見方もある ^[ambiguous]
-- 「持株会社化見送り」: 地銀再編の流れの中で OKB が単独銀行を貫く戦略意義 — 地域密着 / 経営自由度 vs スケールメリット欠如 ^[ambiguous]
-- 「ドライブスルー支店」: 注目度高い vs キャッシュレス化で取扱量は減少傾向 ^[inferred]
-
-## Open questions
-
-- OKB の持株会社化シナリオは? 単独銀行維持 vs [[juroku-fg]] や他地銀との経営統合の可能性?
-- 中京自動車産業 EV シフトに伴う西濃製造業融資ポートフォリオの構造変化は?
-- 「日本一の女性活躍銀行」KPI の達成度と外部評価は?
-- 観光融資 (養老・関ヶ原・大垣) のインバウンド回復インパクトは?
-- OKB レンガ通り等地域コミュニティ投資の中長期 ROI は?
-- 移動店舗車・ドライブスルー支店の今後の拡張 / 縮小方向は?
 
 ## Related
 

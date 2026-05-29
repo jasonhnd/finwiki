@@ -49,12 +49,12 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "2. 業務ライン",
     "2.1 主力ファンド 2 本柱",
     "2.2 投資哲学",
     "2.3 NISA / iDeCo 対応",
     "3. 親会社関係（Credit Saison 連結内）",
-    "子会社化の経緯（2017）"
+    "子会社化の経緯（2017）",
+    "4. KPI（公開情報ベース、参考値） ^[ambiguous]"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6041,
-    "word_like_tokens": 825,
+    "nonspace_chars": 5276,
+    "word_like_tokens": 727,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

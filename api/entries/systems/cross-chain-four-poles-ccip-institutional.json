@@ -43,13 +43,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -57,7 +55,6 @@
       "fintech/apollo-acred-private-credit-tokenization",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/central-banking-function-unbundling",
-      "fintech/jpmorgan-jpmd-coin",
       "fintech/onchain-finance-vs-crypto-bifurcation",
       "systems/INDEX",
       "systems/chainlink-ccip-institutional-messaging",
@@ -71,7 +68,6 @@
       "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
@@ -82,8 +78,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2967,
-    "word_like_tokens": 447,
+    "nonspace_chars": 2439,
+    "word_like_tokens": 372,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

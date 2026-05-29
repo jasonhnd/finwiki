@@ -49,14 +49,14 @@
   "headings": [
     "丸紅 (Marubeni Corporation)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "主要子会社・関連会社 (JapanFG 文脈)",
     "沿革ハイライト ^[extracted]",
     "2. 事業セグメント・マップ",
     "3. Financial-services adjacency",
-    "4. 戦略・競争",
-    "5 大商社内の identity"
+    "5 大商社内の identity",
+    "コア戦略 ^[inferred]",
+    "競合"
   ],
   "body_links": {
     "wikilinks_count": 15,
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6976,
-    "word_like_tokens": 1079,
+    "nonspace_chars": 5480,
+    "word_like_tokens": 849,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

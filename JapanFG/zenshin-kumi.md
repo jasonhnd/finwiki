@@ -17,7 +17,6 @@ sources:
 
 # 全国信用協同組合連合会 (全信組連)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -55,8 +54,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - **業域信組** (特定業界従事者、例: 医師信組、警視庁職員信組)
   - **職域信組** (特定企業/団体所属者)
 - **小規模信組** が多数 (1 信組あたり預金規模 数百億〜数千億円、地銀第二地銀より小)
-
-## 2. 主要事業
 
 ### 4 本柱
 
@@ -99,14 +96,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 全信組連は **業界セーフティネット拠出** (信用組合業界貢献) で間接関与
 - 朝銀系信組破綻 → 公的資金注入で物議 (2000 年代の政治問題化)
 
-## 4. 戦略と競争
-
 ### コア戦略
 
 - **「信用組合の中央銀行」機能維持**: 信組業界 143 組合の余資運用 + 流動性供給
 - **信組業界共通インフラ提供**: システム共同センター + ATM ネットワーク
 - **地域金融セーフティネット**: 信組単独では困難な与信・運用業務を中央集約
-- **規模は信金中央金庫より小**: 業界全体預金規模で 信金 ~145 兆円 vs 信組 ~20 兆円弱 → 中央機関の財務規模も比例的に小^[inferred]
 
 ### 信金中央金庫との対比
 
@@ -115,7 +109,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 業態 | 信用金庫 (信用金庫法) | 信用組合 (協金法 + 中小協同法) |
 | 会員数 | 254 信金（2025-11 FSA registry） | **143 信組**（2026-02 FSA registry） |
 | 預金規模 (業界全体) | 約 145 兆円 | 約 20 兆円弱 |
-| 中央機関規模 | 総資産 約 40 兆円 | 約 4 兆円規模 (約 1/10) ^[inferred] |
 | 会員制厳格度 | 中 (地域住民利用可) | **高 (原則組合員のみ)** |
 | 上場有無 | 非上場 | 非上場 |
 | 政府・系統サポート | 業界拠出 + 自助 | 業界拠出 + 自助 |
@@ -138,23 +131,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **総代会** (会員信組代表者) が最高意思決定機関
 - **理事長** = 会員信組代表 / 金融庁・財務省 OB 等が就任
-- **OB ネットワーク**: 旧大蔵・金融庁・日銀 OB が要職に在任傾向 (協同組織中央機関一般傾向) ^[inferred]
 - 役員人事は政府関与傾向 (中央 2 連 + 農林中金は同様パターン)
-
-## Counterpoints
-
-- 「中央 2 連の存在意義論」: 信組業界縮小 + IT 共同化進展で中央機関の重みは相対的に低下しているとの観も ^[inferred]
-- 「信金中央金庫 vs 全信組連の統合論」: 業界規模が小さい全信組連の信金中金との将来的統合論は時折出るが、信用金庫法 vs 協金法の法体系違いから現実性低い ^[ambiguous]
-- 「朝銀系破綻処理の政治問題」: 2000 年代の公的資金注入歴 → 業界全体の信頼性議論再燃の素地 ^[extracted]
-- 「業界規模縮小不可避」: 中小・零細特化 + 人口減 + 地域経済縮小 → 中長期で信組数 100 割れシナリオも ^[inferred]
-
-## Open questions
-
-- 信用組合数の中長期見通し (FSA registry 143 → 2030 年代の予測値)?
-- 信金中央金庫との将来的協業 / 統合可能性は?
-- 信用組合システム共同センターのクラウド化進度と他業態 (信金 / 地銀) との相互運用可能性?
-- 朝銀系信組の現状と業界内位置付け?
-- フィンテック / ネット銀行に対する信組業界の差別化戦略は?
 
 ## Related
 

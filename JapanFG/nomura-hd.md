@@ -16,7 +16,6 @@ sources:
 
 # 野村ホールディングス (Nomura HD)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/daiwa-sg|大和証券グループ本社 (Daiwa Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -49,9 +48,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 従業員（連結）| **27,242 名** | - |
 | 1 株配当 | **57 円**（記念配 10 円含）| - |
 | 資本金 | 5944 億 9300 万円 | - |
-
-> 注: 野村 HD は **米国会計基準（US GAAP）** で連結開示。MUFG 等の日本基準とは比較に留意 ^[inferred]
-> FY2024 比: 純営業収益 1.56 兆 → 1.89 兆、純利益 1,659 億 → 3,407 億で 2 倍化。新 NISA 追風 + ホールセール黒字定着 + 市場環境好転の合算 ^[inferred]
 
 ### 主要株主（2025-03-31）^[extracted]
 
@@ -141,10 +137,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | マーチャント・バンキング | 野村キャピタル・パートナーズ等 | PE 投資・自己投資 |
 | リサーチ | 野村総合研究所（NRI、上場 4307、持分法 24% 程度）| シンクタンク + IT、独立上場 |
 
-> [[mufg]] の MUMSS / [[smfg]] の SMBC 日興 / [[mizuho-fg]] のみずほ証券 は **銀行系証券**。野村は唯一の **独立系大手** ^[inferred]
-
-## 3. 戦略・競争
-
 ### ホールセール再生
 
 - **「One Nomura」戦略**（2013-04〜）: 部門縦割りを廃し、グローバル統合運営。リーマン買収後の文化摩擦への対処
@@ -157,7 +149,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **営業店 約 130**: 邦証最大級。メガ系証券（MUMSS 等）と顧客資産で競合
 - **新 NISA（2024-01〜）**: 個人マネー流入の追風、運用残高拡大
 - **オンライン × 対面 ハイブリッド**: 野村ネット&コール、対面営業店併用
-- **富裕層・退職世代**: 対面チャネル強み、若年層は [[sbi-hd]] 楽天証券に劣後 ^[inferred]
 
 ### Investment Management
 
@@ -169,8 +160,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### バンキング部門（2025-04 新設）
 
 - **2025-04-01 5 部門制移行**: 従来 4 部門に **バンキング部門** を新設、Group 横断の銀行業務（信託 / 法人融資 / 富裕層向け資金供与）を集約 ^[extracted]
-- 銀行系証券（MUMSS / SMBC 日興 / みずほ証券）との競合上、**「証券 × 銀行」両輪化** を独立系として独自確立する戦略 ^[inferred]
-- 野村信託銀行 + 関連子会社が中核。MUFG / SMFG 銀行のような商銀機能ではなく、**プライベート・バンキング寄り** ^[inferred]
 
 ### グローバル 3 拠点モデル
 
@@ -183,7 +172,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **主管**: 金融庁（FSA、証券業）+ 日本証券業協会（自主規制）
 - **海外規制**: 米 SEC / FINRA、英 FCA / PRA、香港 SFC、シンガポール MAS 等
-- **G-SIB 指定**: なし（メガバンクと異なり持株会社レベルでは未指定）^[inferred]
 - **直近政策論点**:
   - 2024〜 新 NISA 拡大（投資枠倍増）→ 個人マネー流入
   - 2025〜 ステーブルコイン / トークン化証券規制
@@ -198,25 +186,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 3 | 永井浩二 | 2012-08〜2017-04 | One Nomura 戦略、米欧 Equity 縮小 |
 | 4 | 永井浩二（CEO 退任後 Chair）| - | - |
 | 5 | 永井浩二 → **奥田健太郎** | 2020-04〜現職 | Archegos 損失対応、リテール再強化 |
-
-## Counterpoints
-
-- **独立系の宿命**: 銀行系証券（MUMSS / SMBC 日興 / みずほ証券）は法人顧客プールを持つ。野村は純粋に証券業として競合 ^[inferred]
-- **欧米 IB 撤退論**: 2016 米欧 Equity 縮小・2021 Archegos 損失を踏まえ、「リーマン買収は失敗」評価も。一方で債券 / FX / Macro / アジアでは黒字定着 ^[ambiguous]
-- **若年層デジタル弱**: [[sbi-hd]] / 楽天証券 / マネックスの台頭、リテールの主戦場が変質。野村の対面 + ネット&コール ハイブリッドは中間世代向け ^[inferred]
-- **1997 不祥事 / 2012 インサイダー / 2021 Archegos**: 約 10 年周期の大型ガバナンス事案、構造的体質論の指摘 ^[ambiguous]
-- **NRI 持分** ^[ambiguous]: 持株比率は変動（資本提携継続中、独立上場グループ）
-
-## Open questions
-
-- 米欧ホールセールの **構造黒字化** は持続可能か（Archegos 後のリスク削減と収益のバランス）
-- 中期経営計画 ROE 8〜10% 目標 → **FY2025 で 10.0% 到達**、次期中計の上方修正は？ ^[ambiguous]
-- 新 NISA 追風の **持続性**（流入は 2025〜2026 ピーク、その後は？）
-- 野村 AM の **ETF 競合**（[[mufg]] AM、[[mizuho-fg]] AM、米資産運用大手との価格競争）
-- **Macquarie 買収（18 億 USD）の統合シナジー** — のれん償却負担 vs 運用残高拡大、文化統合（豪系 AM × 日系 AM）^[ambiguous]
-- **新設バンキング部門の戦略明確化** — プライベート・バンキング深化か、法人融資拡大か、収益貢献の時間軸は？ ^[ambiguous]
-- ステーブルコイン / トークン化証券での野村ポジション（[[mufg]] Progmat、SBI Ripple との関係）
-- 奥田 CEO の任期延長 / 次世代経営者選定
 
 ## Related
 

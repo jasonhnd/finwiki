@@ -45,10 +45,10 @@
     "1. 法的根拠・設立",
     "出資構造",
     "重要年表",
-    "2. 4 大機能",
     "1) 通貨発行",
     "2) 金融政策（→ 詳細）",
-    "3) 銀行の銀行（→ 金融機構局）"
+    "3) 銀行の銀行（→ 金融機構局）",
+    "4) 政府の銀行"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4510,
-    "word_like_tokens": 776,
+    "nonspace_chars": 4394,
+    "word_like_tokens": 759,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

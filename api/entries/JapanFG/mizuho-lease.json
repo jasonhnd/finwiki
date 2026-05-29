@@ -46,8 +46,8 @@
     "Strategic Reading",
     "Competitive Context",
     "Risk Notes",
-    "Open Questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3999,
-    "word_like_tokens": 604,
-    "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 3653,
+    "word_like_tokens": 544,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-05-29"
   }
 }

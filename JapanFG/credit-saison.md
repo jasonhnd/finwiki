@@ -16,7 +16,6 @@ sources:
 
 # クレディセゾン (Credit Saison)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -79,8 +78,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **PARCO カード / 西武・そごうカード / 東武カード**: 流通系提携
 - **MUJI カード / ローソン Ponta プラス**等: 流通・小売提携
 
-## 3. 戦略・競争
-
 ### 永久不滅ポイント エコシステム
 
 **業界に先駆けて「失効しないポイント」を打ち出した独自プログラム**。長期保有モチベーション → カード利用継続 → 顧客 LTV 向上のループ。ポイントは投資信託購入や運用にも転用可能で、**ポイント × セゾン投信** クロスセルで資産運用導線を構築。
@@ -137,23 +134,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2019 | **Kisetsu Saison Finance (India) 設立** ── インド NBFC 進出 |
 | 2024〜 | 海外（インド）事業拡大・中期経営計画推進 |
 | 2024 | 新 NISA 制度開始 → セゾン投信 資産集積加速 |
-
-## Counterpoints
-
-- 「累計 4000 万会員」観: 累計発行枚数ベース vs アクティブ会員数の乖離は業界共通課題、稼働率指標で評価すべき ^[inferred]
-- 「Amex プレミアム」の希少性: 楽天・三井住友・JCB の上位カード台頭でプレミアム差別化は相対化 ^[ambiguous]
-- 「永久不滅」の経済性: 長期未使用ポイントの負債計上・引当金問題はノンバンク共通 ^[inferred]
-- 「インド戦略」: 現地 NBFC 規制変動・為替・信用コスト変動リスク、スケール vs 損益均衡の見極めが論点 ^[inferred]
-- 「みずほ系列度」: 主要株主・メインバンク関係 vs 経営独立性の境界は曖昧、ガバナンス連動の濃淡は時期で変動 ^[ambiguous]
-
-## Open questions
-
-- インド事業の損益均衡時点と次の主戦場（ベトナム / インドネシア / フィリピン）?
-- セゾン投信 の AUM 中期目標（新 NISA 追い風で 1 兆円超か）?
-- UC カード 統合後の **ブランド分離 vs 統合** 戦略の最終形?
-- みずほ FG ([[mizuho-fg]]) との **資本関係深化 / 統合シナリオ** はあるか?
-- 楽天 / PayPay の **テック系カード台頭** への対抗策（デジタル投資の規模感）?
-- 流通系カード（PARCO / 西武・そごう / 東武）の **商業施設リテール再編** への影響?
 
 ## Related
 

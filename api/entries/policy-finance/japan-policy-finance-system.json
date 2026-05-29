@@ -46,8 +46,6 @@
     "TL;DR",
     "System map",
     "Strategic read",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
@@ -87,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5361,
-    "word_like_tokens": 775,
-    "inbound_wikilinks_count": 35,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 4599,
+    "word_like_tokens": 651,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-05-29"
   }
 }

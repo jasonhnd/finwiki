@@ -64,12 +64,6 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/bytecode-
 - 個人のオープンソース・プロジェクト(表向きとの対照が不要)
 - code quality DDのみを行いチームの真正性を検証しないケース
 
-## Counterpoints
-
-> [!question] Open questions
-> - 「グローバル・アウトソース」(合法)と「sock-puppetの表向き」をどう区別するか
-> - emailドメイン選好sourceは、「ベテランdev(Gmail)+ 新人dev(Proton)」混合チームに対する誤判定リスクをどう扱うか
-
 ## Provenance
 
 - ケーススタディ(vaporware audit):複数のGitHubアカウントが短時間に集中登録 + LinkedIn企業ページの氏名言語 vs commit author nameの言語が不一致 + Whitepaper PDFのmetadata author + CLIパス残骸 + 自前ドメインemail · 複数アンカーの交差照合により表向き / 実チームの分離をロックした

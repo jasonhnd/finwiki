@@ -51,17 +51,13 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "agent-economy/ap2-overview",
-      "agent-economy/x402-http-payment-overview",
       "fintech/INDEX",
       "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
       "fintech/cbdc-multi-tier-architecture-overview",
@@ -76,8 +72,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ap2-overview",
-      "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
       "https://finwiki.zksc.io/fintech/cbdc-multi-tier-architecture-overview",
@@ -94,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5746,
-    "word_like_tokens": 929,
+    "nonspace_chars": 4823,
+    "word_like_tokens": 781,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -1,0 +1,49 @@
+---
+title: "[opinion] 01銀行 (01Bank)"
+source_entry: JapanFG/01-bank.md
+type: opinion-quarantine
+moved: 2026-05-29
+note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoints / Open questions）。事実ではないため公開面・監査・計数から除外。将来の分析板块用に保留。
+---
+
+# 主観内容の隔離 — 01銀行 (01Bank)
+
+> 出典エントリー: `JapanFG/01-bank.md`
+
+## 推論 (from TL;DR)
+
+01銀行は FSA の銀行免許リスト上「０１銀行株式会社」として掲載される新興 digital-bank operating company。**[[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] 傘下の SME 特化型デジタル銀行**として 2024-02 に開業し、公式会社概要では「データでビジネスを応援する」を掲げ、決算書だけでなく事業活動データ（クラウド会計・SaaS 利用実績等）を融資判断に活用する SME finance / data banking model を志向する ^[extracted]。FFG の「みんなの銀行」(リテール向けフルクラウドネオバンク) と並ぶ第二弾デジタルバンク子会社で、ターゲットを **法人 / SME / freelance** に絞った棲み分け戦略 ^[inferred]。
+
+## 推論 (from 1. 法人・ライセンス境界)
+
+| Parent | [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社 ^[inferred] |
+
+## 推論 (from 2. KPI 表（v1.0 公開ベース概算）^[inferred])
+
+| 預金残高 | 未開示 / 小規模 | 開業初年度、預金獲得は限定的 ^[inferred] |
+| 貸出残高 | 未開示 | データ与信モデルの実装段階 ^[inferred] |
+| 経常利益 | 開業期赤字を想定 | デジタル銀行の典型的立ち上がりパターン ^[inferred] |
+| ROE | n/a | 黒字化前 ^[inferred] |
+| 口座数 | 未開示 | 法人専業のため少数精鋭型 ^[inferred] |
+
+## 推論 (from 3. 重要年表)
+
+| 2023年中 | FFG が新たな SME 特化デジタル銀行構想を公表 ^[inferred] |
+| 2025-2026 | サービス拡充期・口座数蓄積段階 ^[inferred] |
+
+## 推論 (from 5. 業務モデル — データドリブン SME finance)
+
+- 想定データソース：クラウド会計（freee / マネーフォワード等）、EC プラットフォーム、決済 PSP、SaaS 利用実績、銀行口座 API 連携 ^[inferred]
+
+## 推論 (from 6. ピア比較 — 地銀デジタル子会社の系譜)
+
+| **01銀行** | **[[JapanFG/fukuoka-fg|FFG]]** | **2024-02** | **SME / 法人** | **データ与信特化** ^[inferred] |
+
+## 推論 (from 7. 監督・規制)
+
+- **API 連携 / オープンバンキング**：銀行法改正後のオープン API 枠組み下で稼働 ^[inferred]
+
+## 推論 (from 8. Counterpoints)
+
+- **開業初期の収益性は構造的赤字** ^[inferred]：デジタル銀行の典型として、口座数・貸出残高の蓄積に数年単位を要する。みんなの銀行も開業 4 年経過後も黒字化未達ベース報道
+- **FFG リソース配分の二重投資負荷** ^[inferred]：みんなの銀行 + 01銀行の同時運営は人材・IT 投資・規制コンプライアンスで二重負荷。グループ全体収益への寄与時期は未確定

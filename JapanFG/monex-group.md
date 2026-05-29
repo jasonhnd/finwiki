@@ -17,7 +17,6 @@ sources:
 
 # マネックスグループ (Monex Group)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -82,8 +81,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ベンチャー投資 | マネックスベンチャーズ | フィンテック / 暗号資産関連 CVC |
 | 通信系金融提携 | NTT ドコモ系金融（[[ndfg]] 関連、公開予定）| 2024 年公表ベース、d 経済圏との統合 |
 
-## 3. 戦略・競争
-
 ### 3 軸構造（マネックスグループの公式コンセプト）
 
 公開資料で繰り返し打ち出される戦略は**「グローバル個人投資家プラットフォーム」**。具体的には:
@@ -127,22 +124,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2025〜 NISA 拡充・新 NISA 経由の若年層流入 → リテール証券の競争激化
   - 2024〜 暗号資産税制（分離課税論議）/ ステーブルコイン制度
   - 2024〜 通信×金融提携の連結子会社化スキームに対する開示・公正性論点
-
-## Counterpoints
-
-- 「3 軸戦略の整合性」観: 国内ネット証券 / 米国アクティブトレーダー / 暗号資産は地理・顧客層・規制体系がいずれも異なり、グループシナジーが本当に出るかは継続論点 ^[inferred]
-- 「ネット証券リテール内のポジション」: SBI / 楽天 が手数料無料化・ポイント連携で先行する中、マネックス証券の差別化軸（米国株・投資情報）が中長期的に維持できるかは見方が分かれる ^[ambiguous]
-- 「Coincheck 統合の継続的負担」: 暗号資産取引所のセキュリティ / コンプラ運営コスト vs 収益貢献のバランス。市況依存度が高い ^[inferred]
-- 「NTT ドコモ提携の自律性」: 連結子会社化後にマネックスグループの独立した戦略判断がどこまで維持されるかは公開情報からは確定できない ^[ambiguous]
-- 「TradeStation の競争環境」: 米国オンラインブローカーは Robinhood の手数料無料モデル普及後、利益率圧迫が継続的論点 ^[inferred]
-
-## Open questions
-
-- NTT ドコモ連結子会社化後のグループ再編スキームの最終形は？ マネックス証券のドコモ系移管と Coincheck / TradeStation の位置付け
-- [[ndfg]] における証券コア事業としての具体的統合プラン（公開予定 2026 年）の詳細は？
-- Coincheck の長期的戦略: マネックス傘下で独立運営継続か、ドコモ系金融への統合か？
-- TradeStation の米国上場計画（過去に SPAC ルート検討の報道あり）の現状は？
-- d 経済圏統合後の競合構図: vs [[sbi-hd]]（SBI 新生銀行 / SBI 証券）・vs 楽天証券（楽天経済圏）・vs PayPay 証券（[[paypay-fg]] 系）
 
 ## Related
 

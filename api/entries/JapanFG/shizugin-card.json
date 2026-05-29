@@ -53,14 +53,14 @@
     "TL;DR",
     "1. 会社概要",
     "持株ツリー (しずおか FG グループ簡略図)",
-    "2. 業務ラインと収益構造",
     "主要業務ライン",
     "収益構造の特徴 ^[inferred]",
-    "3. 親会社・グループ内ポジション",
-    "グループ内クロスリンク"
+    "グループ内クロスリンク",
+    "地銀系クレジットカード peer 比較",
+    "大手カードイシュアーとの競合"
   ],
   "body_links": {
-    "wikilinks_count": 45,
+    "wikilinks_count": 43,
     "wikilinks": [
       "JapanFG/INDEX",
       "acom",
@@ -83,10 +83,8 @@
       "finance/INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
       "fukuoka-fg",
-      "hokkaido-bank",
       "iyogin-hd",
       "iyogin-leasing",
-      "j-credit",
       "life-card",
       "mastercard-japan",
       "mebuki-fg",
@@ -130,10 +128,8 @@
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
       "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/hokkaido-bank",
       "https://finwiki.zksc.io/iyogin-hd",
       "https://finwiki.zksc.io/iyogin-leasing",
-      "https://finwiki.zksc.io/j-credit",
       "https://finwiki.zksc.io/life-card",
       "https://finwiki.zksc.io/mastercard-japan",
       "https://finwiki.zksc.io/mebuki-fg",
@@ -159,9 +155,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9918,
-    "word_like_tokens": 1328,
+    "nonspace_chars": 6375,
+    "word_like_tokens": 842,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -48,12 +48,11 @@
     "Compute-marketplace fit",
     "Integration with x402",
     "Where Nevermined sits",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -64,7 +63,6 @@
       "agent-economy/skill-market-monetization",
       "agent-economy/skyfire-closed-loop-agent-issuer",
       "agent-economy/x402-http-payment-overview",
-      "finance/multi-jurisdiction-identity-tax-leverage",
       "fintech/usd-stablecoin-interchange",
       "payments/INDEX",
       "systems/l2-agent-economics-arbitrum-base-op-comparison"
@@ -79,7 +77,6 @@
       "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
       "https://finwiki.zksc.io/agent-economy/skyfire-closed-loop-agent-issuer",
       "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
       "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/systems/l2-agent-economics-arbitrum-base-op-comparison"
@@ -88,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5715,
-    "word_like_tokens": 862,
+    "nonspace_chars": 4707,
+    "word_like_tokens": 708,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

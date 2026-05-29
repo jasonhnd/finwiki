@@ -43,32 +43,26 @@
     "1. 会社概要",
     "主要子会社（統合直後の構造）",
     "統合の経緯（重要）",
-    "2. 前身・歴史",
     "青森銀行 系譜",
     "みちのく銀行 系譜",
-    "3. 事業セグメント・マップ"
+    "3. 事業セグメント・マップ",
+    "統合シナジー"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/77-bank",
       "JapanFG/INDEX",
       "JapanFG/fidea-hd",
       "banking/INDEX",
-      "concordia-fg",
-      "fukuoka-fg",
       "mizuho-fg",
       "mufg",
       "ndfg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/77-bank",
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/fidea-hd",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
@@ -78,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4236,
-    "word_like_tokens": 581,
+    "nonspace_chars": 3752,
+    "word_like_tokens": 525,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

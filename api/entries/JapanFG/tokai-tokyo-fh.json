@@ -42,11 +42,11 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社・合弁",
-    "2. 沿革",
     "前身・沿革",
     "地銀連合・海外展開期",
     "業界での位置",
-    "3. 戦略"
+    "地銀合弁モデル (最大の差別化)",
+    "4 軸戦略"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3947,
-    "word_like_tokens": 621,
+    "nonspace_chars": 3511,
+    "word_like_tokens": 554,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

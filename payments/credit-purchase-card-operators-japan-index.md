@@ -68,12 +68,6 @@ For FinWiki, the most important use of the METI lists is not "who appears in the
 - PSPs may be technically central even when the final merchant-contracting authority belongs to another registered acquirer.
 - Some operators sit in multiple lists, so one company page explains the boundary instead of duplicating pages per license.
 
-## Open Questions
-
-- Which regional bank card subsidiaries deserve standalone pages versus remaining covered by bank / card registry routes?
-- Which auto-finance and manufacturer finance companies is split from parent manufacturers or global finance holding pages?
-- How BNPL and account-to-account payment products be cross-routed when they sit between installment credit, prepaid, and funds transfer?
-
 ## Related
 
 - [[payments/INDEX]]

@@ -58,7 +58,7 @@
     "Institutional Flow Profile",
     "Sub-Index Futures: Core 30, 100, Banks",
     "Clearing and Margin",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10889,
-    "word_like_tokens": 1768,
+    "nonspace_chars": 9517,
+    "word_like_tokens": 1533,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -39,8 +39,6 @@ This entry sits under [[derivatives/INDEX|derivatives index]] as the spread-mech
 
 Cross-reference [[finance/INDEX|finance index]] and [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]] for the issuer-side credit context, [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]] for the equity-credit linkage, [[banking/INDEX|banking index]] for the megabank dealer / counterparty role, [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] for the insurer credit-hedging use case, and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] for the dealer-to-fund plumbing.
 
-## Spread decomposition
-
 ### Building blocks
 
 A Japan single-name corporate CDS spread *S(corp)* over horizon T can be conceptually decomposed:
@@ -223,8 +221,6 @@ For Japan IG corporates, the basis is typically narrow but can widen during stre
 
 SoftBank Group CDS is the most-traded Japan non-financial single-name CDS by a wide margin, reflecting its leverage profile, M&A history, and equity-volatility linkage.
 
-## Use cases
-
 ### Life insurer and pension fund
 
 | Use case | Detail |
@@ -275,23 +271,6 @@ Capital-structure arbitrage is a recurring strategy in Japan given the active co
 | Bespoke credit products for retail / institutional | Single-name or basket CDS exposure embedded in note format |
 
 CLN issuance and hedging is a recurring driver of single-name CDS protection-buying demand, contributing to occasional supply-demand imbalances on individual names. This intersects with the [[derivatives/structured-bond-japan-retail-issuance|structured bond Japan retail issuance]] market.
-
-## Counterpoints
-
-- The decomposition framework (sovereign + sector + idiosyncratic + basis) is conceptual; market practice fits curves directly from quotes.
-- Risk-neutral default probability is not historical default probability; the gap embeds liquidity, risk premium, and recovery uncertainty.
-- 40 percent recovery convention is a quoting standard, not an actual recovery prediction; auction-determined recovery has historically been lower for severely impaired credits.
-- Restructuring credit event coverage is jurisdiction-sensitive; Mod-Mod-R is convention for Japan but bilateral contracts can vary.
-- Single-name Japan CDS liquidity below Tier 1 names is thin; quoted spreads may not be executable in size.
-- Out-of-court workout norms in Japan reduce the frequency of formal credit events, making CDS payoff modeling more dependent on bankruptcy filings than restructuring.
-
-## Open questions
-
-- Will the Governmental Intervention credit event mechanic be tested in a Japan financial-institution context under the FSA / Deposit Insurance Corporation resolution framework?
-- How will Japan auction recoveries compare to global benchmarks if a major IG name defaults?
-- Will the 2014 ISDA Definitions be updated to reflect sustainability-linked debt and contingent-coupon mechanics in Japan corporate issuance?
-- How will the rise of private credit affect Japan CDS reference-obligation pools? See [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]] for adjacent equity-linked debt.
-- Will Japan life insurer credit-hedging via CDS scale up under refined ESR hedge-accounting treatment? See [[insurance/japan-life-insurance-alm-overview|life insurance ALM]].
 
 ## Related
 

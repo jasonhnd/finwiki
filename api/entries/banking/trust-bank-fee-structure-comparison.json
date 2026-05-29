@@ -52,12 +52,12 @@
     "Wiki route",
     "TL;DR",
     "1. 機関位置",
-    "2. 主要業務 — fee-line breakdown",
     "Custody fee mechanics",
     "Pension trust admin fees",
     "Securities investment trust admin fees",
     "Real-estate trust fees (full-service trust banks only)",
-    "3. 競合構造 — fee comparison matrix"
+    "Cross-bank fee-economy matrix (10 entities)",
+    "Pricing-power summary"
   ],
   "body_links": {
     "wikilinks_count": 27,
@@ -123,9 +123,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18939,
-    "word_like_tokens": 3150,
+    "nonspace_chars": 13618,
+    "word_like_tokens": 2174,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

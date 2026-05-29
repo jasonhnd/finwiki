@@ -67,9 +67,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2023-07 | YCC 弾力化（上限 1.0% 目途）|
 | **2024-03-19** | **マイナス金利・YCC 撤廃 → 短期金利 0-0.1%**（17 年ぶり利上げ）|
 | **2024-07-31** | **政策金利 0.25% への利上げ**（追加利上げ）|
-| **2025〜** | 利上げサイクル継続観測、長期国債買入縮小（QT 開始）^[inferred] |
-
-## 2. 4 大機能
 
 ### 1) 通貨発行
 
@@ -117,8 +114,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
    └── 政策委員会室 / 監査役会 / 各支店（32 支店）
 ```
 
-## 4. 直近政策論点（2024-2025）
-
 ### マイナス金利・YCC 撤廃（2024-03）
 
 - 17 年ぶりの実質利上げ
@@ -140,7 +135,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### デジタル円（CBDC）
 
 - 2023-04 パイロット実験開始
-- 2025〜 実証実験段階継続、発行判断は政府・国会判断 ^[inferred]
 
 ## Related
 

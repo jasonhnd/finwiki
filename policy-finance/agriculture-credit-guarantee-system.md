@@ -149,21 +149,6 @@ The two systems are **parallel public-credit guarantee infrastructures** with di
 - **Not 林業 (forestry)** — forestry credit support is also a JAFFIC business but routed separately under MAFF forestry policy.
 - **Not JFC's agriculture lending** — JFC's [[JapanFG/jfc|agriculture-forestry-fisheries arm]] lends directly to farmers; this page is about guarantee insurance for farmer borrowing, which may overlap when guaranteed loans are originated by JFC.
 
-## Counterpoints
-
-- **Cooperative-system insularity**: critics argue the agriculture credit guarantee system, layered on the JA / 信連 / Norinchukin stack, reinforces the cooperative system's near-monopoly on agricultural finance and limits market competition. Counterargument: agriculture borrowers face structural risks (weather, disease, market volatility) that justify sector-specific public-credit infrastructure.
-- **Guarantee-fee subsidy distortion**: subsidized guarantee fees could be argued to over-extend agricultural credit and prop up uneconomic farms. Counterargument: food security and rural-economy policy justify the subsidy lane.
-- **Demographic farmer decline**: with the aging Japanese farmer population and farm-succession crisis, the guarantee system increasingly supports a shrinking borrower base, raising questions about long-run scale economics.
-- **Overlap with JFC ag-arm**: JFC's agriculture-forestry-fisheries direct-lending arm and the guarantee system can both finance the same farm investment — the boundary and combined-use mechanics are not always clean to outside observers.
-
-## Open questions
-
-- What is the consolidated guarantee outstanding across all 47 prefectural 農業信用基金協会, and how has it trended over the past decade?
-- How does the guarantee system perform during livestock-disease shocks (avian flu, classical swine fever)?
-- What is the default / subrogation rate for 担い手 large-scale farm loans vs small individual-farmer loans?
-- How will the 食料安全保障 (food security) policy shift affect the guarantee system's product mix?
-- How does the 6次産業化 guarantee performance compare to traditional farm-modernization guarantees?
-
 ## Related
 
 - [[policy-finance/INDEX]]

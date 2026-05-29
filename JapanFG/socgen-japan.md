@@ -24,7 +24,6 @@ sources:
 
 # ソシエテ・ジェネラル日本 (Societe Generale Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -69,18 +68,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 登録金融機関業務は金商法に基づく登録金融機関規制の対象。
 - 証券法人は第一種金融商品取引業等の金商法規制対象。
 - 加入協会として全国銀行協会、日本証券業協会、金融先物取引業協会等が公式ページで確認できる。
-
-## Counterpoints
-
-- 日本リテール業務は展開せず、顧客接点はホールセール・機関投資家に限定される。
-- 欧州銀行の資本規制・本国戦略変更の影響を受けやすい。
-- Structured products は収益性が高い一方、顧客適合性・市場変動時の説明責任が重くなる。
-
-## Open questions
-
-- 日本拠点の収益貢献、従業員数、商品別収益構成はどこまで公開されているか。
-- SocGen のグローバル戦略における東京の位置づけは、香港・シンガポールと比べてどう変化しているか。
-- 日本の機関投資家向けデリバティブ需要は金利正常化で拡大するか。
 
 ## Related
 

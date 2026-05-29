@@ -33,7 +33,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 | Legal name | 株式会社 iBank マーケティング |
 | English name | iBank Marketing Co., Ltd. |
 | Service brand | Wallet+ (ウォレットプラス) |
-| License route | アプリ運営事業会社 (銀行業免許ではなく、銀行代理業 / プリペイド発行者として [[fukuoka-bank]] 等と連携) ^[inferred] |
 | Group boundary | [[fukuoka-fg]] 100% subsidiary |
 | Headquarters | 福岡県福岡市中央区 ([[fukuoka-bank|福岡銀行]] 本店ビル周辺) |
 | Wiki role | Regional-bank FG fintech / wallet-app subsidiary anchor |
@@ -55,8 +54,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
   └── FFG リース・FFG カード・FFG ベンチャービジネスパートナーズ
 ```
 
-## 3. 合併経緯・前身
-
 ### iBank マーケティング 設立
 
 - **2016**: [[fukuoka-fg|FFG]] が iBank マーケティング 設立 (地銀発フィンテック子会社の先駆例)
@@ -73,8 +70,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 ### グループ拡大
 
 - **2018-2020**: [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]] 連携追加 → 九州 3 県カバー
-- **2021〜**: みんなの銀行 (FFG デジタルバンク) との将来連携検討 ^[inferred]
-- **2024〜**: 地域 BaaS / API 連携の拡張余地 (FFG グループ内 / 他地銀との連携) ^[inferred]
 
 ## 4. KPI table (concept) ^[ambiguous]
 
@@ -85,7 +80,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 | 主要連携銀行 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] |
 | 業務領域 | 家計管理、目的別貯金、プリペイドカード、地域クーポン |
 | 親会社 | [[fukuoka-fg]] 100% 出資 |
-| 業績開示 | [[fukuoka-fg]] 連結ベース ^[inferred] |
 
 > 注: アプリ DL 数・MAU・カード発行枚数等の最新精緻値は親 [[fukuoka-fg]] IR 資料 / Wallet+ 公式サイト要参照 ^[ambiguous]
 
@@ -99,8 +93,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 | 地域連携 | 福岡市内・九州各地店舗 / 観光地連携クーポン |
 | 銀行連携 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] 口座連動 |
 | 若年層獲得 | 銀行アプリより UX 重視で 20-40 代の銀行 main bank 化を促進 |
-
-## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -118,7 +110,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 ### 強みと弱み
 
 - 強み: [[fukuoka-fg]] 銀行 3 行口座顧客基盤 + 九州地盤の地域連携深さ + 目的別貯金 myCoin の独自性
-- 弱み: 全国展開できる規模ではない (九州中心)、通信系ウォレットの決済シェアには大幅劣後 ^[inferred]
 
 ## 7. 規制・政策
 
@@ -128,20 +119,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
   - 銀行 API 連携は銀行法上の電子決済等代行業 (連携先銀行が登録)
   - 個人情報保護法 + マイナンバー法 (家計データ取扱い)
   - 反社チェック・マネロン対策 (連携先銀行と共同実施)
-
-## Counterpoints
-
-- 「地銀発フィンテック = スケール限界」論: 通信系・EC 系ウォレットに対して規模で大幅劣後 vs 地域密着 / 銀行連携の優位性 ^[ambiguous]
-- 「みんなの銀行との competition」: 同じ [[fukuoka-fg]] 内でデジタル銀行とウォレットアプリが顧客を奪い合うリスク ^[inferred]
-- 「目的別貯金 = USP の持続性」: myCoin 機能を他社アプリが模倣する可能性 ^[inferred]
-- 「全国展開 vs 九州集中」: 全国展開コスト負担 vs 九州集中 ROI の戦略選択 ^[inferred]
-
-## Open questions
-
-- アプリ DL 数・MAU・カード発行枚数の最新値
-- みんなの銀行・FFG 銀行アプリとの将来統合 / 機能分担の方針
-- 他地銀 ([[mebuki-fg]] / [[hokkoku-fhd]] 系) との BaaS / API 連携拡張余地
-- 全国展開・パートナーシップ拡大の経済性
 
 ## Related
 

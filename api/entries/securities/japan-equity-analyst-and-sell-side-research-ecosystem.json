@@ -58,12 +58,12 @@
     "Wiki route",
     "TL;DR",
     "Why this ecosystem matters",
-    "House-by-house overview (domestic five-pole)",
     "Nomura",
     "SMBC Nikko",
     "Daiwa",
     "Mizuho Securities",
-    "MUMSS / Mitsubishi UFJ Morgan Stanley"
+    "MUMSS / Mitsubishi UFJ Morgan Stanley",
+    "Global IB tier in Japan"
   ],
   "body_links": {
     "wikilinks_count": 25,
@@ -125,9 +125,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17379,
-    "word_like_tokens": 2585,
+    "nonspace_chars": 15945,
+    "word_like_tokens": 2352,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

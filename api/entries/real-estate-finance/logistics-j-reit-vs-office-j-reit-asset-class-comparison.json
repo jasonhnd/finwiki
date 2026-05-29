@@ -55,13 +55,13 @@
     "Logistics J-REIT vs office J-REIT asset class comparison",
     "TL;DR",
     "Wiki route",
-    "Asset class universe",
     "Logistics J-REITs (selected major)",
     "Office J-REITs (selected major)",
     "Asset-class economics — head-to-head",
     "E-commerce demand tailwind for logistics",
     "Foreign sponsor share — the structural difference",
-    "Tenant diversification — single-tenant vs multi-tenant"
+    "Tenant diversification — single-tenant vs multi-tenant",
+    "Cap-rate dynamics"
   ],
   "body_links": {
     "wikilinks_count": 24,
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21708,
-    "word_like_tokens": 3409,
+    "nonspace_chars": 19371,
+    "word_like_tokens": 3029,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

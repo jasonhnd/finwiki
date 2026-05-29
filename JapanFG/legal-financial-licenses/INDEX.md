@@ -153,18 +153,6 @@ sources:
 
 # <Topic>
 
-## Overview
-
-## Regime Map
-
-## Who Needs It
-
-## JapanFG Relevance
-
-## Boundary Cases
-
-## Open Questions
-
 ## Related
 
 ## Sources

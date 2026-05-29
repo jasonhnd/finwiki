@@ -46,20 +46,16 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
       "fintech/INDEX",
       "fintech/ai-payment-two-tracks",
       "fintech/stablecoin-chain-token-strategy-trilemma",
-      "fintech/usd-stablecoin-interchange",
       "systems/INDEX",
       "systems/cross-chain-five-pole-comparison-matrix",
       "systems/cross-chain-four-poles-ccip-institutional",
@@ -67,11 +63,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
       "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
       "https://finwiki.zksc.io/systems/cross-chain-four-poles-ccip-institutional",
@@ -81,8 +75,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3198,
-    "word_like_tokens": 486,
+    "nonspace_chars": 2353,
+    "word_like_tokens": 363,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

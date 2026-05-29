@@ -17,7 +17,6 @@ sources:
 
 # アイザワ証券グループ (Aizawa Securities Group)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -33,10 +32,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**：東証 STANDARD **8708** ^[extracted]
 **創業**：1918-02（藍澤彌八 創業、藍澤證券店 / 東京・日本橋兜町）^[extracted]
 **株式会社化**：1948（株式会社藍澤證券）^[extracted]
-**上場**：1989 ジャスダック上場 → 2013 東証 2 部 → 2022-04 東証 STANDARD（市場区分見直し）^[inferred]
 **持株会社化**：**2017-04-03** 中間持株会社化（株式会社アイザワ証券グループ 設立）^[extracted]
 **本社**：東京都中央区日本橋兜町 ^[extracted]
-**機関設計**：監査等委員会設置会社（一般的中堅証券持株会社の機関設計）^[inferred]
 
 ### 主要子会社
 
@@ -47,15 +44,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   │     └── アジア現地法人ネットワーク（下記）
   ├── PT. Aizawa Securities Indonesia（インドネシア現地法人）
   ├── Aizawa Securities Vietnam Co., Ltd.（ベトナム現地法人）
-  ├── Aizawa Asia Limited（香港、アジア統括）^[inferred]
   └── 関連事業会社（資産運用 / 投資顧問 等、規模は限定的）
 ```
-
-### 主要株主・統治
-
-- 創業家「藍澤家」の影響力（同族色は持株会社化以降は分散傾向）^[inferred]
-- 信託銀行・カストディ系の機関投資家保有が中心 ^[inferred]
-- 浮動株比率は中堅独立証券としては高い水準 ^[inferred]
 
 ### 重要年表 ^[extracted]
 
@@ -65,11 +55,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 1948 | 株式会社藍澤證券 設立（株式会社化）|
 | 1989 | ジャスダック上場（店頭登録）|
 | 2000 年代〜 | アジア新興国（ベトナム・インドネシア中心）への投資仲介を本格展開 |
-| 2009 年頃 | 「アジア新興国投資の専門証券」ブランディング確立 ^[inferred] |
-| 2013 | 東証 2 部 上場（市場再編に合わせて移行）^[inferred] |
 | **2017-04-03** | **株式会社アイザワ証券グループ 設立（中間持株会社化）** |
 | 2022-04 | 東証 市場区分見直し → 東証 STANDARD 8708 |
-| 2020 年代 | コロナ後アジア新興国市場の流動性改善で取引仲介ビジネス拡大 ^[inferred] |
 
 ## 2. 事業セグメント・マップ
 
@@ -84,15 +71,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 法人 IB | 限定的 | 中堅独立証券として大型 IB 案件は手掛けず |
 | 資産運用・投資顧問 | グループ関連会社 | 規模限定 |
 
-## 3. 戦略・競争
-
 ### 差別化軸：「アジア新興国投資の専門証券」
 
 - 日本の証券会社では **アジア新興国カバレッジが最も広い**（フロンティア市場含む）^[extracted]
 - ベトナム・インドネシア・タイ・カンボジア・ミャンマー の現地ネットワーク
 - 個人投資家がアクセスしにくいフロンティア市場銘柄を、対面サービス込みで仲介
 - 大手証券（[[ndfg]] / 大和 / SMBC 日興）が扱わない地域への集中で隙間市場を確保
-- 講演会・セミナー・現地視察ツアー等の「教育型営業」が特徴 ^[inferred]
 
 ### 国内ポジション
 
@@ -103,7 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 海外戦略
 
 - **アジア新興国 5 ヶ国を重点市場**：ベトナム・インドネシア・タイ・カンボジア・ミャンマー
-- 現地法人 + 提携ブローカーのハイブリッド体制 ^[inferred]
 - 米国は補完市場として位置付け（大手対面・ネット系と競合するためコモディティ化）
 
 ### 競合関係
@@ -128,24 +111,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - タイ：SEC Thailand
   - カンボジア・ミャンマー：現地証券規制当局
 - **直近政策論点**：
-  - 2024〜 NISA 拡充：アジア新興国投信は対象拡大期待 ^[inferred]
   - 2025〜 顧客本位の業務運営（FD 原則）：教育型営業の継続性
-  - フロンティア市場の流動性・為替リスク開示の厳格化 ^[inferred]
-
-## Counterpoints
-
-- 「アジア新興国差別化の持続性」：ネット証券（[[sbi-hd]] / [[monex-group]]）が外国株拡充するとフロンティア銘柄でも価格優位性侵食 ^[ambiguous]
-- 「フロンティア市場リスク」：ベトナム・インドネシア偏重で現地通貨・政治リスクが集中。コロナ期のような流動性ショック耐性は限定的 ^[inferred]
-- 「規模の劣後」：単独 IB 案件・大型 ECM/DCM は手掛けず、収益源はリテール仲介手数料中心 → 株式市場低迷期のボラティリティが大 ^[inferred]
-- 「持株会社化（2017）の戦略意義」：グループ統治改善 vs 規模の小ささから複雑化のデメリット ^[ambiguous]
-
-## Open questions
-
-- アジア新興国カバレッジを「銘柄数 / 取引量 / セミナー数」で定量化した競合比較は？
-- 大手ネット証券（[[sbi-hd]] / [[monex-group]]）のアジア株拡充に対する価格・サービス対抗策は？
-- 創業家（藍澤家）の経営関与度合いは現在どの程度か？
-- ベトナム・インドネシア の現地法人収益貢献度（連結比）は？
-- 中堅独立証券間の業界再編（[[okasan-sg]] / [[tokai-tokyo-fh]] 等との連携・統合）シナリオは？
 
 ## Related
 

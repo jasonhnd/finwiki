@@ -53,11 +53,11 @@
     "Wiki route",
     "Why Real Options vs DCF NPV",
     "The Six Common Real-Option Types",
-    "Application 1: Project-Finance Optionality",
     "Option to Expand / Abandon / Delay",
     "Real-Options Framing vs DCF NPV",
-    "Application 2: M&A Staged-Deal Optionality",
-    "TOB → Squeeze-Out Optionality"
+    "TOB → Squeeze-Out Optionality",
+    "Earn-Out / Contingent Consideration",
+    "Pharma Pipeline Valuation"
   ],
   "body_links": {
     "wikilinks_count": 22,
@@ -113,9 +113,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13973,
-    "word_like_tokens": 2188,
+    "nonspace_chars": 12421,
+    "word_like_tokens": 1942,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -17,7 +17,6 @@ sources:
 
 # 国際協力銀行 (JBIC)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -68,9 +67,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020〜 | **GX（グリーン投資）・脱炭素関連の海外投資強化** |
 | 2022〜 | 経済安全保障案件 / 半導体・希少金属 supply chain 強化 |
 | 2023〜 | LNG・水素・アンモニア等 トランジション・ファイナンス拡大 |
-| 2024 | 米中対立下の friend-shoring 案件増加 ^[inferred] |
-
-> JBIC 統合・再独立の背景: 2008 年 JFC 統合は「政府系金融機関統合・スリム化」(小泉構造改革の延長線) 路線の産物。2012 年の再独立は、リーマンショック後の **海外資源確保・インフラ輸出強化** の戦略要請で「特殊会社」として独立性確保。^[inferred]
 
 ## 2. 事業セグメント・マップ
 
@@ -88,8 +84,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **協調融資（cofinancing）が中心**: メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）+ 地銀 + 海外金融機関 と JBIC の組み合わせが典型
 - **特別業務勘定**（2016〜）: ハイリスク案件・GX 案件向けリスクマネー供給枠
 - **円借款との分業**: ODA 円借款は [[policy-finance/jica|jica]] が担当（2008-10 移管）→ JBIC は商業性のある海外投融資に専念
-
-## 3. 戦略・競争
 
 ### 3 戦略軸
 
@@ -114,7 +108,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **米中対立下での経済安全保障**: 半導体 / 重要鉱物 / 蓄電池 / バイオ 等のサプライチェーン強靭化案件
 - **friend-shoring 支援**: 同盟国・友好国への日本企業移転を金融面で支援
-- **中国向け案件は事実上凍結**へ（公式声明はないが、新規案件は限定的）^[inferred]
 
 ## 4. 規制・政策
 
@@ -123,7 +116,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **業務範囲**: 同法で輸出金融 / 輸入金融 / 海外投資金融 / アンタイドローン / 出資 / 保証 等が列挙
 - **環境社会配慮ガイドライン**（JBIC ガイドライン）: OECD コモンアプローチ・赤道原則に準拠した環境社会影響評価枠組み
 - **OECD 輸出信用アレンジメント**: 公的輸出信用の国際ルール（金利下限・償還期間上限）に準拠
-- **直近政策論点** ^[inferred]:
   - 2022〜 経済安全保障推進法との連動
   - 2023〜 GX 推進法 / GX 経済移行債 との連動（トランジションファイナンス）
   - 2024〜 米国 IRA / 欧州 CBAM への対応・対米欧投資案件支援
@@ -139,23 +131,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
                   │
               JOGMEC（資源開発・出資）
 ```
-
-## Counterpoints
-
-- 「**民業圧迫 vs 民業補完**」: 政策金融の存在意義論争。メガバンク側からは「収益性ある案件は民業補完原則違反」批判 ^[ambiguous]
-- 「**海外投融資の収益性 vs 政策性**」: 特殊会社化以降、ある程度の財務健全性が要求される一方、政策的に必要な高リスク案件も担う二律背反 ^[inferred]
-- 「**環境社会配慮ガイドライン**」: 反 NGO 圧力 / 化石燃料案件への融資批判（特に石炭火力・LNG）。2021 海外石炭火力新規融資停止表明後も LNG・水素混焼案件への批判は継続 ^[ambiguous]
-- 「**JICA との分業の不明瞭さ**」: 2003 ODA 移管・2008 統合・2012 再独立を経て分業ライン整理されたが、グレーゾーン案件（中所得国向けアンタイドローン等）で重複懸念 ^[ambiguous]
-- 「**経済安全保障シフトの不可逆性**」: 米中対立下での friend-shoring 支援は地政学変化次第で方針転換リスク ^[inferred]
-
-## Open questions
-
-- 2026-04 以降の社長・経営陣体制と GX / 経済安全保障の優先順位は？
-- 特別業務勘定（2016〜）の累積収益・損失実績は？ 高リスク案件のポートフォリオ状況
-- 中国関連案件の凍結範囲・具体的判断基準は？（公式声明なし）
-- JICA 海外投融資（2012 再開）との重複整理は実務上機能しているか？
-- GX 経済移行債（GX 移行債）との連動スキームの全体像
-- 米 EXIM 復活・韓 K-EXIM 拡大競争下での日本の競争力ポジション
 
 ## Related
 

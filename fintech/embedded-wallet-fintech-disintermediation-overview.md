@@ -19,7 +19,6 @@ status: candidate
 
 # 組込み型ウォレットによる Fintech の脱仲介化 · 四強構図
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -59,14 +58,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Origin & evolution
 
 2018-2022 = MetaMask 主導 · ユーザーが能動的にインストール · seed phrase 自己管理 · crypto-native 境界が明確。2023-2024 = Privy / CDP / Magic が b2b SaaS に切り替え · 顧客が dApp から fintech へ拡大。2025.06 = Stripe が同時に Privy + Bridge を買収 · fintech が正式に crypto エントリーポイントに組み込まれる象徴。2025.07 = AWS Bedrock AgentCore Payments が Privy をデフォルトに選定(詳細は [[agent-economy/privy-aws-agentcore-default-wallet|Privy × AgentCore]])· 組込み型ウォレットが crypto ツールから汎用決済インフラへ格上げ。
-
-## Counterpoints
-
-「ユーザーは最終的に MetaMask で seed 自己管理が必要」との主張:組込み型ウォレットの TSS / MPC は依然として trust-third-party モデル · session key で 1 回認可した後、ユーザーは細粒度の可視性を失う · 長期的セキュリティは cold wallet より弱い。Privy が Stripe に買収された後 · 非 Stripe 加盟店は CDP / Magic / Web3Auth に中立性を求めて移行する可能性。fintech の「Web3 逆食い」も fintech 既存スタックに collapse する可能性(Visa/SC が stablecoin settle を許さなければ)。
-
-## Open questions
-
-四強構図は最終的に Privy + CDP の二強寡占に収束するか?Magic / Web3Auth は買収されるか?Stripe 五層 collapse の真の進捗速度は(Privy 月間アクティブ加盟店数 = leading indicator)?規制(SAB 121 / OCC)は組込み型ウォレットを custodian として再定義するか?
 
 ## Related
 <!-- wiki-links:managed -->

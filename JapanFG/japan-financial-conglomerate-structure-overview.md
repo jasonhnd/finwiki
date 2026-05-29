@@ -44,8 +44,6 @@ This entry is the cross-cutting anchor that explains the holding-company structu
 
 This entry sits under [[JapanFG/INDEX|JapanFG namespace index]] as a cross-cutting overview. Pair it with [[banking/japan-banking-license-tier-comparison-matrix]] for the license-tier overlay, [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal-license INDEX]] for the license-stack catalog, [[finance/japan-listed-financial-groups-investable-universe]] for the listed FG investable universe, and [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] for the regional bank consolidation family tree.
 
-## The Six FG Clusters
-
 ### 1. Mega-bank FG (G-SIB tier)
 
 | Entity | Holding | Bank | Securities | Trust | Other | G-SIB bucket |
@@ -135,22 +133,6 @@ The FSA supervises financial conglomerates through:
 4. **Communications-FG ascent** — The 2010s saw telecom and EC firms (KDDI, SoftBank, Rakuten, Sony) build financial-license stacks around their core franchises, creating a parallel non-bank-led FG cluster.
 5. **Trust-bank separation** — Trust banking has historically operated under a separate trust-bank license, with SuMi Trust as the largest pure-trust group. See [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]].
 6. **Public-finance separation** — Postal, cooperative-central, and policy-finance institutions operate under specific statute and are not commercial conglomerates in the FIEA / Banking-Act sense. See [[policy-finance/japan-policy-finance-system]].
-
-## Counterpoints
-
-- "All FGs are similar" — They are not. Megabank universal-banking economics, communications-FG embedded-wallet economics, and regional-bank loan-deposit economics are structurally different. Comparing on a single balance-sheet metric is misleading.
-- "FHC means consolidation everywhere" — Many FGs still hold subsidiaries with separate-license boundaries (bank / trust / securities / insurance / payment) for regulatory or legacy reasons.
-- "Communications FG = fintech" — Some communications FGs hold a full bank / securities / insurance / card stack; the "fintech" framing understates the actual license inventory.
-- "Trust banks are just smaller commercial banks" — They operate under a different license type with specific trust / custody / pension-trust franchise that commercial banks cannot replicate without acquiring a trust subsidiary.
-- "Public-finance institutions are part of the FG landscape" — They sit outside the commercial-FG taxonomy and answer to separate statute and policy mandate.
-
-## Open Questions
-
-- How will the NTT Docomo FG (set for 2026-07) reshape the communications-FG cluster?
-- Will Rakuten FG's securities-arm sale to Mizuho FG portend further capital-light restructuring across communications FGs?
-- How will further regional-bank consolidation proceed under FSA encouragement (super-regional or trans-prefecture merger)?
-- How will the FSA conglomerate-supervision framework evolve to handle increasingly cross-license payment + crypto + bank operators?
-- How will trust banks' custody franchise evolve relative to global custodians (BNY, State Street, JPMorgan) operating Japan branches?
 
 ## Related
 

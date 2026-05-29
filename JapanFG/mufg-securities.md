@@ -72,9 +72,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2019 | MUFG Securities Americas（米）拡充 |
 | 2022-12 | [[JapanFG/mufg-mums|MUMSS]] 業務改善命令（情報漏洩問題）|
 | 2023〜 | サステナビリティファイナンス / GX ファイナンス強化 |
-| 2024-2025 | 米国 IB ビジネスでの Morgan Stanley 連携深化 ^[inferred] |
-
-## 2. JV 構造の特徴
 
 ### なぜ 2 社に分けたか
 
@@ -117,8 +114,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **欧州市場業務** | MUFG Securities EMEA |
 | **アジア市場業務** | MUFG Securities (Asia) |
 | **サステナブルファイナンス** | グループ横断 |
-
-## 5. 競争・課題
 
 ### vs 国内ライバル
 

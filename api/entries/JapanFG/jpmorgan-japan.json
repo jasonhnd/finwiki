@@ -43,11 +43,11 @@
     "TL;DR",
     "1. 親会社・グローバル構造",
     "日本主要法人体制（4 軸）^[extracted]",
-    "2. 重要历史",
     "戦前・戦後再進出",
     "2000 年合弁構想（実現せず）",
     "2008-2009 金融危機後の米国最大化",
-    "2014 年以降：国際 M&A アドバイザリー"
+    "2014 年以降：国際 M&A アドバイザリー",
+    "2020-2024：機関投資家サービス・FX・固定収益で日本シェア拡大"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5022,
-    "word_like_tokens": 792,
+    "nonspace_chars": 4266,
+    "word_like_tokens": 684,
     "inbound_wikilinks_count": 33,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

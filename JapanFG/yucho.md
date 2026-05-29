@@ -16,7 +16,6 @@ sources:
 
 # ゆうちょ銀行 (Japan Post Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/resona-hd|りそなホールディングス (Resona Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -44,8 +43,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 通常貯金口座数 | 約 1.2 億口座 |
 | 営業ネットワーク | 全国郵便局 **約 24,000 局**（日本郵便への業務委託）|
 | 直営店舗 | 約 230 店程度 ^[ambiguous] |
-
-> 注：預貯金は「貯金」と呼称（銀行法上は預金、郵便貯金法の名残）。国内銀行で最大級の預貯金規模 ^[inferred]。
 
 ### 親会社・グループ構造
 
@@ -78,7 +75,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|---|
 | 個人預金（貯金）| 通常貯金・定額貯金・定期貯金 | **国内最大級の預貯金残高**、全国郵便局網がチャネル |
 | 為替・送金 | 振替・送金・公共料金収納 | 郵便振替の歴史的ベース |
-| 投資信託 販売 | 銀行窓販 | グループ会社・外部運用会社商品 ^[inferred] |
 | ローン | 限定的（住宅ローン等は他行紹介中心）| 商業銀行ライセンスを持つが**融資はほぼ国債等運用に集中** |
 | 有価証券運用 | 国債・外債・オルタナティブ・私募ファンド | 預貯金の運用先として中核セグメント |
 | カード | JP BANK カード（提携カード）| 三井住友カード等との提携発行 ^[ambiguous] |
@@ -91,13 +87,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 低金利環境長期化で利回り低下 → 海外債券・オルタナティブ・私募ファンド・株式へのシフトを継続
 - 邦銀メガバンクや生損保とは異なり、**運用機関的性格**が強い
 
-## 3. 戦略・競争
-
 ### デジタル戦略
 
 - **ゆうちょ通帳アプリ**: 通帳デジタル化・残高照会・取引履歴・送金 ^[extracted]
 - **mijika**: 若年層・新規口座開拓向けアプリブランド ^[ambiguous]
-- **キャッシュレス連携**: 各種電子マネー・コード決済との連携拡大 ^[inferred]
 - 郵便局窓口依存からの脱却・店頭以外チャネルの強化が中計テーマ
 
 ### 提携・買収戦略
@@ -120,7 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **郵政民営化法**: 政府の日本郵政株式保有義務・段階的売却スケジュール
 - **民間補完原則**: 民営化法の理念として、民間金融機関を圧迫しない業務範囲の制約 ^[ambiguous]
 - **預金保険機構**: 加盟（民営化後）^[ambiguous]
-- **G-SIB 指定**: 非 G-SIB ^[inferred]（メガ 3 行は G-SIB Bucket 1）
 
 ### 直近政策論点
 
@@ -128,24 +120,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 民間補完原則の境界（融資・サービス拡大の限界）
 - 2024〜 日銀政策金利正常化 → **国債保有銘柄の評価損益・運用利回り改善**両面
 - かんぽ販売問題後のガバナンス強化（グループ全体）
-
-## Counterpoints
-
-- **「民間補完原則」の境界曖昧さ** ^[ambiguous]: 商業銀行ライセンスを持ちながら融資業務がほぼ無い／運用機関的性格 → 民間銀行との競合範囲が制度的に不明確
-- **預金保険機構との関係** ^[ambiguous]: 民営化後の加盟整理は完了しているが、政府関与残存と保険スキームの相互作用は文献により説明差
-- **運用利回りの低さ**（国債中心）→ **中計で運用転換中** ^[ambiguous]: 海外債券・オルタナへの多様化は進むが、運用人材・リスク管理体制の整備度合いは要観察
-- **店舗網のコスト構造**: 24,000 局網は強みかコストか両論（日本郵便への委託費はグループ内取引だが、グループ全体の店舗減価圧力）^[inferred]
-- **政府保有比率の段階的売却**: 完全民営化のスケジュールは過去複数回改訂、政治情勢に左右される ^[ambiguous]
-
-## Open questions
-
-- 直近の預貯金残高・総資産の正確な数値（IR 開示の最新値）は？
-- 海外債券・オルタナティブ運用比率の現在水準と中計目標は？
-- 政府保有比率の **現在の正確な水準**（約 60% 級 ^[ambiguous]）と完全売却スケジュール
-- 「mijika」アプリ実績・若年層獲得 KPI
-- メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）との運用アドバイザリー関係の戦略的位置付け
-- 民間補完原則のもとで融資業務拡大は制度上どこまで可能か
-- かんぽ問題後のグループガバナンス改革のゆうちょ銀行への影響
 
 ## Related
 

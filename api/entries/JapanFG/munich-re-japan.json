@@ -45,13 +45,12 @@
     "TL;DR",
     "1. License / group boundary",
     "2. Business lines in Japan",
-    "3. Strategy & competitive position",
     "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/japan-earthquake-reinsurance",
@@ -61,7 +60,6 @@
       "insurance/natcat-reinsurance-japan",
       "japan-earthquake-reinsurance",
       "mitsui-sumitomo-insurance",
-      "rga-japan",
       "sompo-japan-insurance",
       "swiss-re-japan",
       "toa-reinsurance",
@@ -76,7 +74,6 @@
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
       "https://finwiki.zksc.io/japan-earthquake-reinsurance",
       "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/rga-japan",
       "https://finwiki.zksc.io/sompo-japan-insurance",
       "https://finwiki.zksc.io/swiss-re-japan",
       "https://finwiki.zksc.io/toa-reinsurance",
@@ -86,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3435,
-    "word_like_tokens": 468,
+    "nonspace_chars": 2985,
+    "word_like_tokens": 417,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

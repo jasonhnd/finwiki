@@ -64,7 +64,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2019-12 | 行政処分 → 経営陣引責退任 |
 | 2021 | 楽天との資本業務提携（[[JapanFG/japan-post-bank|ゆうちょ銀行]] が楽天グループ株主に）|
 | 2023-2024 | 配当方針継続・自己株式取得・株主還元強化 |
-| 2024-2025 | [[JapanFG/japan-post-bank|ゆうちょ銀行]] / [[JapanFG/kampo-life|かんぽ生命]] 保有比率引下げ継続、戦略再構築 ^[inferred] |
 | 2025〜 | デジタル郵便・物流効率化・楽天連携深化 |
 
 ## 2. 事業セグメント
@@ -75,8 +74,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **銀行** | [[JapanFG/japan-post-bank|ゆうちょ銀行 7182]] | **総資産規模で日本最大級の銀行**（200 兆円超）、預金・運用業 |
 | **生命保険** | [[JapanFG/kampo-life|かんぽ生命 7181]] | 国内最大級の生保会社の一つ、簡易生命保険・養老保険等 |
 | **不動産・その他** | 日本郵政不動産 等 | 旧郵便局舎活用・大手町プレイス等の不動産事業 |
-
-## 3. 政府保有・上場ガバナンス
 
 ### 法律上の保有義務
 
@@ -90,7 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2015-11 IPO 時 | 80.49% |
 | 2017-09 2 次売出後 | 約 57% |
 | 2021-10 3 次売出後 | 約 60.6% → ※買戻・売出が交錯 |
-| 直近（2025〜） | 約 33-50% 帯域内推移 ^[inferred] |
 
 ### トリプル IPO（2015-11-04）
 
@@ -98,8 +94,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 売出総額 約 1.4 兆円規模（3 社合計）
 - 「親子上場」のガバナンス論議の試金石となり、後の[[corporate-strategy/parent-subsidiary-listing|親子上場ガバナンス]]議論の出発点
 - 復興財源確保法に基づき、売却収入の一部は東日本大震災復興財源に充当
-
-## 4. 主要論点
 
 ### かんぽ不適切販売問題（2019）
 

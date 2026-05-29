@@ -55,13 +55,13 @@
     "Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築",
     "TL;DR",
     "Wiki route",
-    "Mechanism · Firedancer アーキテクチャと Solana クライアント構造",
     "3 クライアント構造(2026-Q2)",
     "Firedancer 性能特徴",
     "Tile-based 並列アーキテクチャ",
-    "Market dynamics · MEV pipeline 再構築と Jito 経済",
     "Jito 現在の主導地位",
-    "Firedancer 導入による MEV 再構築"
+    "Firedancer 導入による MEV 再構築",
+    "Stake-weighted QoS · validator 経済側の再配分",
+    "Validator centralization risk"
   ],
   "body_links": {
     "wikilinks_count": 16,
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14881,
-    "word_like_tokens": 2475,
+    "nonspace_chars": 12717,
+    "word_like_tokens": 2147,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

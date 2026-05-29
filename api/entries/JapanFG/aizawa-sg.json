@@ -42,11 +42,11 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社",
-    "主要株主・統治",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "差別化軸：「アジア新興国投資の専門証券」"
+    "差別化軸：「アジア新興国投資の専門証券」",
+    "国内ポジション",
+    "海外戦略"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4666,
-    "word_like_tokens": 613,
+    "nonspace_chars": 3564,
+    "word_like_tokens": 490,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

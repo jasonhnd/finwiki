@@ -34,7 +34,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 | English name | Yokohama Bank Research Institute, Ltd. / Hamagin Research Institute |
 | Business model | シンクタンク / 経済調査 / 経営コンサルティング / 人材育成研修 (銀行業免許なし) |
 | Group boundary | [[yokohama-bank]] 連結子会社 → [[concordia-fg|横浜 FG (YFG)]] グループ |
-| Headquarters | 神奈川県横浜市 ([[yokohama-bank|横浜銀行]] 本店周辺) ^[inferred] |
 | Wiki role | Regional-bank FG think-tank subsidiary anchor (神奈川・首都圏地盤) |
 
 ## 2. 持株ツリー
@@ -47,8 +46,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
   │     └── はまぎんファイナンス (カード・信用保証)
   └── [[higashi-nippon-bank|東日本銀行]] (100%) ── 都内中小特化・首都圏地銀
 ```
-
-## 3. 合併経緯・前身
 
 ### はまぎん総研 設立
 
@@ -71,7 +68,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 | 銀行連携 | [[yokohama-bank]] / [[higashi-nippon-bank]] 顧客向け advisory 提供 |
 | 主要受託主体 | 神奈川県、横浜市、川崎市、相模原市、その他県内市町村、中堅企業 |
 | 親会社 | [[yokohama-bank]] 連結子会社 ([[concordia-fg]] グループ) |
-| 業績開示 | [[concordia-fg]] 連結ベース ^[inferred] |
 | 地銀系シンクタンク ranking | 関東 No.1 級 ^[ambiguous] |
 
 > 注: 売上・従業員・受託件数等の最新精緻値は [[concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式サイト要参照 ^[ambiguous]
@@ -86,10 +82,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 | 人材育成 | 銀行員研修、企業内研修、後継者育成プログラム |
 | 政策提言 | 神奈川県・市町村向け政策提言・公的計画策定支援 |
 | 産業振興 | 観光振興・地域ブランド・スマートシティ等 |
-| 海外調査 | 中堅企業向けアジア・東南アジア進出支援調査 ^[inferred] |
-| 金融機関向け | 同業他行向け調査受託・経営支援 ^[inferred] |
-
-## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -102,37 +94,20 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 
 - **大手シンクタンク**: 野村総研 (NRI) / 三菱総研 / 三井住友 DS リサーチ / みずほリサーチ&テクノロジーズ / 日本総研 (JRI) - 全国・大規模・複雑案件で優位
 - **地銀系シンクタンク**: 千葉総合研究所 / 静岡経済研究所 / 名古屋総研 等 - 同型 model
-- **学術機関**: 神奈川大学・横浜国大経済研究所等 - 一部委託研究で競合 ^[inferred]
 - **国家系**: 内閣府・経産省地方経済局・帝国データバンク・東京商工リサーチ - 公的データソースで補完 / 競合
 
 ### 強みと弱み
 
 - 強み: [[yokohama-bank]] 顧客基盤 + 神奈川県経済データ深さ + 首都圏 GDP 規模での意義 + 関東 No.1 級地銀系シンクタンク認知
-- 弱み: 単独規模では大手シンクタンクに大幅劣後、海外調査 / グローバル案件は対応困難 ^[inferred]
 
 ## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) ではなく、シンクタンク事業会社として一般会社法上の規制適用
-- **業界団体**: 日本シンクタンク協議会 加盟 ^[inferred]
 - **規制論点**:
   - 個人情報保護法 + マイナンバー法 (調査データ取扱い)
   - 公的調査受託時の入札・契約適正化
   - 銀行守秘義務 + コンサル独立性のバランス ([[yokohama-bank]] グループ内利益相反)
   - DX 推進 + AI 活用調査での倫理・透明性
-
-## Counterpoints
-
-- 「地銀系シンクタンク = 中途半端」論: 大手シンクタンクにも学術機関にも勝てない中間ポジション vs 銀行 + 地域連携の優位性 ^[ambiguous]
-- 「公的受託依存」: 神奈川県・市町村受託案件への過度依存リスク (公的予算縮小局面で売上影響) ^[inferred]
-- 「FG 内利益相反」: 銀行融資判断 vs コンサル独立性の使い分け基準 ^[inferred]
-- 「DX / AI 時代の調査機能再定義」: 従来型レポート受託 vs データ駆動型 advisory への transition ^[inferred]
-
-## Open questions
-
-- 売上・従業員数・受託件数の最新規模は ([[concordia-fg]] セグメント情報で開示限定)
-- 大手シンクタンク (NRI / 三菱総研) との将来統合・業務提携シナリオ
-- AI 活用 + データ駆動型 advisory への transition 投資計画
-- 千葉・横浜パートナーシップ (千葉銀との二者提携) での research 領域連携可能性
 
 ## Related
 

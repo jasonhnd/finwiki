@@ -65,7 +65,7 @@
     "Optimism + Arbitrum 同様のサードパーティ"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -74,7 +74,6 @@
       "agent-economy/erc-7715-overview",
       "agent-economy/privy-aws-agentcore-default-wallet",
       "agent-economy/x402-cloudflare-aws-edge-integration",
-      "fintech/blackrock-buidl-tokenized-mmf-overview",
       "systems/INDEX",
       "systems/cctp-v2-overview",
       "systems/chain-abstraction-pattern-overview",
@@ -93,7 +92,6 @@
       "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
       "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
       "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/cctp-v2-overview",
       "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
@@ -108,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14925,
-    "word_like_tokens": 2526,
+    "nonspace_chars": 13656,
+    "word_like_tokens": 2334,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

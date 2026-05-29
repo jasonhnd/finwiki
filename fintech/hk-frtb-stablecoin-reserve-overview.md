@@ -19,7 +19,6 @@ status: candidate
 
 # HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -58,18 +57,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 HKMA は 2022-12 に SC consultation を開始、2023-12 第二回 CP で Sandbox を確立(ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium)、2025-08 に Stablecoin Ordinance を採択。2026-04 HKMA Consultation Paper《Capital treatment for licensed stablecoins》が BCBS SCO60 を母基準として直接引用。2026-05-21 初回ライセンス決定:9 社申請のうち実際は 2 件のみ(HSBC + StanChart Anchorpoint)、戦略的含意の詳細は [[fintech/hkma-stablecoin-licensing-implications|HKMA ライセンス戦略的含意]] を参照。アジア / グローバル横軸比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
 
-## Counterpoints
-
-- HKD 100M 閾値は中小 issuer を排除 · シンガポール S$5M と比べ競争劣勢を形成
-- Tier 1 厳格度が高い · 利益率が圧縮される · GENIUS §501 ≤ 93 日と比べて短期金利差は限定的
-- e-CNY 境界画定条項は政治的に敏感 · 北京と HK 国際化の二重要求の矛盾
-
-## Open questions
-
-- 中国本土系大手(JD-HKD / Ant International / BOCHK)のライセンス取得時期は?
-- HK §501(d) リスト入りの第三波(2027-H2)は遅延するか?
-- e-CNY オフショア CNH ウィンドウ(2026-Q4)と HK SC ライセンスはどう協調するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -80,4 +67,3 @@ HKMA は 2022-12 に SC consultation を開始、2023-12 第二回 CP で Sandbo
 <!-- /wiki-links:managed -->
 
 ## Sources
-

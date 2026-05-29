@@ -40,23 +40,21 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社・関連会社",
-    "2. 合併経緯・前身",
     "旧 十六銀行系 (源流)",
     "持株会社化",
     "周辺関係",
-    "3. 事業セグメント・マップ"
+    "3. 事業セグメント・マップ",
+    "地理ポジション"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aichi-fg",
       "JapanFG/fukuoka-fg",
       "banking/INDEX",
       "hokuhoku-fg",
-      "ikeda-senshu-hd",
       "mufg",
-      "nishi-nippon-fhd",
       "ogaki-kyoritsu-bank",
       "san-jusan-fg",
       "shizuoka-fg"
@@ -67,9 +65,7 @@
       "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/hokuhoku-fg",
-      "https://finwiki.zksc.io/ikeda-senshu-hd",
       "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nishi-nippon-fhd",
       "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
       "https://finwiki.zksc.io/san-jusan-fg",
       "https://finwiki.zksc.io/shizuoka-fg"
@@ -78,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4427,
-    "word_like_tokens": 565,
+    "nonspace_chars": 3398,
+    "word_like_tokens": 454,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -45,14 +45,14 @@
   "headings": [
     "公認会計士・監査審査会 (CPAAOB)",
     "Wiki route",
-    "TL;DR",
     "1. 法的位置づけ",
-    "2. 主要機能",
     "2.1 公認会計士試験 (CPA Examination)",
     "2.2 監査法人・公認会計士検査 (Audit Firm Inspection)",
     "2.3 監査品質管理レビュー (Quality Control Review)",
     "2.4 国際連携",
-    "3. 検査結果の処分との連動"
+    "3. 検査結果の処分との連動",
+    "4. JICPA との役割分担",
+    "5. ガバナンス上の位置"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5121,
-    "word_like_tokens": 689,
+    "nonspace_chars": 3581,
+    "word_like_tokens": 510,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

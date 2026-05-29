@@ -46,8 +46,8 @@
     "主要子会社・持分",
     "重要年表（抜粋）^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "グループ統合シナジー"
+    "グループ統合シナジー",
+    "提携・買収戦略"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5487,
-    "word_like_tokens": 829,
+    "nonspace_chars": 4497,
+    "word_like_tokens": 709,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

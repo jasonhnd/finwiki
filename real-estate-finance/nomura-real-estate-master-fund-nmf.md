@@ -74,7 +74,6 @@ The 2015 merger was a precedent for later within-sponsor J-REIT consolidation (e
 
 ## 3. Portfolio composition
 
-| Asset class | NMF approximate weight ^[inferred] |
 |---|---|
 | Office | Largest sleeve — meaningful office portfolio inherited from former Nomura Real Estate Office Fund |
 | Residential | Material weight — inherited from former Residential Fund; demographically-anchored income |
@@ -117,22 +116,6 @@ The diversified-vs-pure-play choice is fundamental to investor selection: invest
 | Index weight | Among the largest constituents of TSE REIT Index, contributing to overall J-REIT index dynamics |
 | Bond-market issuance | Benchmark issuer in the J-REIT investment-corporation-bond segment |
 | Diversified template | Reference model for other multi-asset-class J-REITs (Orix JREIT, JMF, etc.) |
-
-## Counterpoints
-
-- **"Diversified J-REIT lacks crisp asset-class exposure"** — true for investors who want pure-play themes. NMF is not for the investor wanting only logistics or only Marunouchi.
-- **"Internal allocation across asset classes within NMF lacks transparency"** — partial. IR discloses sector mix and acquisition criteria, but cross-asset-class allocation decisions are made within the asset-management company.
-- **"Mergers create governance complexity"** — the 2015 three-way merger required complex unit-conversion and asset-management-company integration; post-merger governance has been stable.
-- **"Pure-play J-REITs outperform diversified during single-sector booms"** — true historically. Logistics-J-REIT outperformance through the 2018-2022 logistics-cap-rate compression cycle illustrates this — NMF participated only via its logistics sleeve.
-- **"Diversification benefit is overstated"** — counterpoint that Japan real-estate cycles are increasingly correlated across asset classes, reducing the within-portfolio diversification benefit.
-
-## Open questions
-
-- Whether NMF will add further asset classes (data center, healthcare, hospitality) or maintain current mix.
-- Pace of Nomura Real Estate Holdings asset-recycling into NMF and the parent's broader real-estate strategy.
-- Whether further within-sponsor J-REIT consolidations across the broader J-REIT market replicate the NMF model.
-- Sector-allocation flexibility — whether NMF rotates between office, residential, retail, and logistics with cap-rate cycles.
-- BoJ rate normalization effect on NMF's investment-corporation-bond curve and refinancing cost.
 
 ## Related
 

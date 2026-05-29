@@ -19,14 +19,12 @@ status: confirmed
 
 # 規制転換のキーパーソン事例 · 個人イデオロギー + 制度的授権(Hester Peirce)
 
-
 ## Wiki route
 
 This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/matt-huang-triple-role-coi-template|三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 長期にわたり異論を持ち続ける「少数派Commissioner」= 規制転換の潜在的な種 ^[inferred]
 - Peirceは2018年のWinklevoss BTC ETF反対意見で「Crypto Mom」の異名を得た ^[extracted]
 - 2020-02にToken Safe Harbor Proposal 2.0を提案(暗号資産スタートアップに3年の猶予期間を付与) ^[extracted]
 - 2025-01-21にSEC Crypto Task Forceの議長に就任(Trump + Paul Atkins SEC委員長の授権) ^[extracted]
@@ -43,18 +41,6 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 起点は2018-01のPeirce SEC Commissioner就任(Trump第一期任命)。2018-07のWinklevoss ETF反対意見で「Crypto Mom」の異名が確立し、以降6年間にわたって暗号資産フレンドリーな少数派立場を維持。2020-02のToken Safe Harbor Proposal 2.0 → 業界がその政策フレームを把握。2024-Q4のTrump当選 + Atkins SEC委員長指名 → 3点引き金の条件が揃う。2025-01-21にCrypto Task Force発足、Peirce議長就任 → 規制転換が始動。2025-02にSECがCoinbase / Robinhood / Uniswap / Consensysを取下げ(2-3週間以内に集中爆発)→ 転換が着地。後段:Peirceは一貫して「議会立法による解決」(SECの行政裁量ではなく)を主張 → GENIUS Act / CLARITY Actが彼女の政治的帰結となる。
 
-## Counterpoints
-
-- 「イデオロギー駆動」は個人立場の安定性を仮定するが、5年以上の在任後に立場がドリフトする可能性(現時点では未観測)
-- Peirce個人が経済利害を持たないことはSEC全体の利益相反不在を意味しない(他のCommissionerには産業との結びつきが残る)
-- 規制転換は再度の政権交代時に逆転される可能性 → 転換の安定性は「立法着地」より弱い
-
-## Open questions
-
-- 2025-06のPeirce任期満了後、再任または上位職への異動はあるか — 業界が規制の確実性を測る重要シグナル
-- 「少数派 → 主流派」テンプレートはCFTC / OCC / Fedで候補者が存在するか(候補:Caroline Pham CFTCあたり?)
-- 転換後に次回の政権交代が起きた場合、Peirceが残したno-action letter群と訴訟取下げのprecedentは反転に耐えられるか
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -70,4 +56,3 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - SEC announces formation of Crypto Task Force led by Commissioner Peirce (SEC press release 2025-30, 2025-01-21) — https://www.sec.gov/newsroom/press-releases/2025-30
 - SEC Forms New Crypto Task Force Spearheaded by 'Crypto Mom' Hester Peirce (CoinDesk, 2025-01-21) — https://www.coindesk.com/policy/2025/01/21/sec-forms-new-crypto-task-force-spearheaded-by-hester-peirce
 - Coinbase Case Dropped by U.S. SEC as Agency Reverses Crypto Stance (CoinDesk, 2025-02-27) — https://www.coindesk.com/policy/2025/02/27/coinbase-case-dropped-by-u-s-sec-as-agency-reverses-crypto-stance
-

@@ -85,8 +85,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 | 2020〜 | コロナ禍での勤労者向け緊急融資・特例対応 |
 | 2024〜 | 系統 DX + ESG 投資・社会的金融強化 |
 
-## 2. 業務 map
-
 ### 主要業務 ^[extracted]
 
 | 業務 | 内容 | 業界対応 |
@@ -118,17 +116,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 | **総資産 / 資金量** | **約 9〜10 兆円規模** | 13 ろうきん最大 ^[ambiguous] |
 | **預金残高** | **約 9 兆円規模** | ^[ambiguous] |
 | **貸出金** | **約 3〜4 兆円規模** | 住宅ローン中心 ^[ambiguous] |
-| **自己資本比率** | 10% 超 | ろうきん基準 (4%) 大幅上回り ^[inferred] |
-| **店舗数** | 約 150 店 | 1 都 7 県広域 ^[inferred] |
-| **会員数** | 個人会員 + 団体会員 = 数百万人 | ^[inferred] |
 
 > 注: 詳細 KPI は中央ろうきん公式 IR・年次報告書を要参照 (https://chuo.rokin.com/about/profile/)
 
-## 3. 系統内位置・戦略
-
 ### 13 ろうきん内の代表性
 
-- **13 行最大行**: 関東 1 都 7 県の人口・勤労者世帯密度を反映、預金 + 貸出 + 店舗数すべて 13 行トップ ^[inferred]
 - [[JapanFG/rokin-renraku|労金連]] の **最大会員**、業界の方向性を実質的に主導
 - **系統 IT・JASTEM 類似の R・ONE システム**運用にコミット (Rokinren 共同インフラ) ^[extracted]
 
@@ -152,7 +144,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 
 - **ろうきんアプリ**: 残高照会・振込・住宅ローン残高管理 ^[extracted]
 - **R・ONE 共同システム**: Rokinren 経由の 13 ろうきん共同インフラ ^[extracted]
-- **オンラインローン**: 教育ローン・マイカーローンのオンライン申込み拡充 ^[inferred]
 
 ## 4. KPI / 健全性
 
@@ -162,7 +153,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 | 預金 | 約 9 兆円 | - |
 | 貸出金 | 約 3〜4 兆円 | 住宅ローン中心 |
 | 自己資本比率 | 10% 超 | 信金大手 + 地銀並み水準 |
-| 不良債権比率 | 1% 未満 | 勤労者向け融資の安定性 ^[inferred] |
 | 店舗数 | 約 150 店 | 1 都 7 県広域 |
 
 > 注: 中央ろうきん公式 IR を要参照、上記 ^[ambiguous] は概数
@@ -177,23 +167,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
   - **金利正常化期**での住宅ローン金利戦略
   - **少子高齢化** での若年勤労者向け新商品開発
   - **ESG 投資・社会的金融**強化 (NPO 団体融資等)
-
-## Counterpoints
-
-- **「勤労者専業」モデルの中長期持続性**: 終身雇用縮小 + 派遣・フリーランス増で、伝統的「勤労者」概念が縮小 → ろうきんの **顧客基盤縮小リスク** ^[inferred]
-- **13 行体制の更なる統合論**: 経営効率化観点で 13 → 数行への更なる統合論 vs 地域密着維持論 ^[ambiguous]
-- **メガバンク + ネット銀行との競合**: 住宅ローンで楽天銀行・ソニー銀行・SBI 等ネット銀行の **低金利攻勢**、中央ろうきんの優位性侵食 ^[inferred]
-- **団体取引依存**: 労働組合員数縮小 + 生協加入率低下で **団体取引基盤縮小** ^[inferred]
-- **金利正常化と債券評価損**: Rokinren 経由の系統運用で **農林中金 2024 米債損失** 類似リスクの可能性 ^[inferred]
-
-## Open questions
-
-- **最新の総資産・預金・貸出規模** (2024 / 2025 年度) は?
-- **8 ろうきん (2001 統合) 後**の経営統合効果 (コスト削減・収益貢献) は?
-- **住宅ローン金利戦略**の金利正常化期での見直しは?
-- **若年勤労者 (Z 世代)** への取り込み施策は?
-- **R・ONE システム** の高度化進捗と AI 活用は?
-- **団体会員 (労組・生協・NPO)** 数の中長期推移は?
 
 ## Related
 

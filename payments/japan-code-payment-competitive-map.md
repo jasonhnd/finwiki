@@ -57,20 +57,6 @@ This page routes code-payment analysis under [[payments/INDEX|payments]] and lin
 | Does the app depend on point economics? | Use [[loyalty/japan-points-landscape]]. |
 | Is a bank account becoming the funding rail? | Use [[banking/baas-japan-landscape]] and [[banking/INDEX]]. |
 
-## Counterpoints
-
-- Code-payment headline growth can obscure that credit cards still dominate Japanese cashless value.
-- MAU or app downloads do not prove profitable payment economics; points and merchant subsidies can inflate usage.
-- Merchant acceptance is often controlled by PSPs and gateways, so consumer-brand share and merchant-infrastructure share can diverge.
-- Bank-account linked payment can be cheaper but may lack the reward and credit features that consumers already understand.
-
-## Open Questions
-
-- Which code-payment operators can reduce point subsidies without losing frequency?
-- How much value migrates from card-funded code payment to direct bank-account or balance-funded payment?
-- Do QR gateways such as [[JapanFG/netstars|Netstars]] gain bargaining power as wallets multiply, or do dominant wallets force direct connections?
-- How stablecoin / EPI pilots be reflected once real merchant payment volume exists?
-
 ## Related
 
 - [[payments/INDEX]]

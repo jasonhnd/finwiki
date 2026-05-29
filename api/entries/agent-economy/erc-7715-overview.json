@@ -41,20 +41,17 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "agent-economy/ai-agent-payment-protocols-overview",
       "agent-economy/ap2-overview",
       "agent-economy/erc-7715-agent-payment-stack",
       "payments/INDEX",
-      "security/bytecode-forensic-three-tier-verify",
       "systems/INDEX",
       "systems/erc-4337-overview",
       "systems/erc-4337-userop-bundler-flow",
@@ -67,7 +64,6 @@
       "https://finwiki.zksc.io/agent-economy/ap2-overview",
       "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
       "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/erc-4337-overview",
       "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow",
@@ -78,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3311,
-    "word_like_tokens": 494,
-    "inbound_wikilinks_count": 27,
+    "nonspace_chars": 2760,
+    "word_like_tokens": 418,
+    "inbound_wikilinks_count": 24,
     "last_modified": "2026-05-29"
   }
 }

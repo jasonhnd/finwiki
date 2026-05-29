@@ -17,7 +17,6 @@ sources:
 
 # FINX JCrypto株式会社 — 日本暗号資産交換業者
 
-
 ## Wiki route
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
@@ -54,11 +53,6 @@ The public company-facing surface is narrower than many retail exchanges. The of
 - **Real-estate adjacency**: Public materials position the company near real-estate value creation and crypto-asset settlement.
 - **Long-tail VASP**: It is a registered operator, but not one of the major consumer-facing exchange brands such as [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]], or [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]. Real-estate × token adjacency belongs in the [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX 統合]] discussion.
 - **Registry completeness**: The main reason to include this page is to avoid gaps against the FSA registered-operator list.
-
-## Counterpoints
-
-- Public disclosure is limited compared with listed or large-group VASPs.
-- Current transaction volume, account count, and operating scale are not clearly disclosed on the same level as major exchanges.
 
 ## Related
 

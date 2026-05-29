@@ -17,7 +17,6 @@ sources:
 
 # マニュライフ生命保険 (Manulife Life Insurance Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -45,7 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 上場 | TSX / NYSE / HKEX / PSE |
 | 米国ブランド | **John Hancock**（2004 買収）|
 | 展開地域 | カナダ・米国（John Hancock）・アジア（日本・香港・シンガポール・中国・ベトナム・フィリピン・インドネシア・マレーシア・タイ・カンボジア・ミャンマー）・ヨーロッパ |
-| グローバル従業員 | 約 3.8 万名規模 ^[inferred] |
 
 ### グループ構造
 
@@ -61,8 +59,6 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
   │     └── 東南アジア各拠点
   └── Manulife Investment Management（資産運用、グローバル）
 ```
-
-## 2. 沿革
 
 ### 旧 第百生命 系譜（1880〜1999）^[extracted]
 
@@ -110,8 +106,6 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 - **銀行窓販**: 外貨建一時払商品で大手・地方銀行と提携
 - **オンライン**: ダイレクト販売は限定的（中堅外資の典型構造）
 
-## 4. 戦略・競争
-
 ### 主要戦略軸
 
 - **外貨建保険ニッチ**: 円建低金利環境で **米ドル建・豪ドル建 終身保険** を中核商品化。銀行窓販で高い販売シェア
@@ -127,7 +121,6 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 | [[aflac-japan]] | がん保険・医療保険圧倒シェア | 商品領域が異なる（マニュライフは終身・年金） |
 | [[prudential-japan]] | ライフプランナー高品質コンサル | チャネル戦略類似、規模で劣後 |
 | [[axa-japan]] | 仏系・ユニットリンク強い | 変額・外貨建で直接競合 |
-| 日本生命・第一生命 | 国内最大手・営業職員圧倒数 | 銀行窓販・外貨建での差別化が生命線 ^[inferred] |
 
 ### 中計（直近）^[inferred]
 
@@ -139,27 +132,11 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 - **主管**: 金融庁（FSA）・財務局
 - **業界団体**: 一般社団法人 生命保険協会 加盟
 - **規制フレーム**: 保険業法
-- **ソルベンシー・マージン比率**: 金融庁基準で公表（中堅外資は概ね健全水準を維持）^[inferred]
 - **海外規制連動**: 親会社 Manulife Financial はカナダ OSFI（金融機関監督庁）監督下、米 John Hancock 経由で米州規制も適用
 - **直近政策論点**:
   - 2024〜 外貨建保険の販売適合性ルール強化（金融庁が手数料開示・乗換販売規制を継続強化）→ 銀行窓販依存の中堅外資には逆風要素
   - 2025〜 IFRS 17（保険契約会計）グローバル適用 → 親会社 Manulife は既に適用済、日本子会社レベルでも開示変化
   - 円安持続局面での外貨建保険販売の **為替リスク説明責任**
-
-## Counterpoints
-
-- 「**旧 第百生命破綻トラウマ**」: 中堅外資への信頼回復には時間を要した。GE → Manulife へのオーナー交代も顧客には複雑（ブランド継続性で苦戦）^[extracted]
-- 「**外貨建保険依存リスク**」: 円安局面の販売追い風 vs 円高反転時の解約・苦情リスク・金融庁規制強化で逆風 ^[ambiguous]
-- 「**中堅規模の壁**」: 日本生命・第一生命など国内大手と、メットライフ・アフラックなどガリバー外資の挟撃を受ける中堅ポジション ^[inferred]
-- 「**変額シフトの効果**」: NISA 拡大期に資産形成商品で巻き返せるか、運用成績・手数料水準で投信・iDeCo に勝てるかは未確定 ^[ambiguous]
-
-## Open questions
-
-- マニュライフ生命のソルベンシー・マージン比率・基礎利益の直近水準は？（非上場で開示限定）
-- 親会社 Manulife Financial の日本拠点へのリソース配分優先度は？ アジア統括（香港）下でのポジション
-- 外貨建一時払保険の販売適合性規制強化（金融庁）への対応は？
-- 変額保険シフトで NISA / iDeCo 直接競合に対する差別化軸は？
-- 中堅外資生保の業界再編シナリオ（[[axa-japan]] [[prudential-japan]] 等との連携・統合可能性）は？
 
 ## Related
 

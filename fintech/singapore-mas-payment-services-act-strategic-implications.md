@@ -19,7 +19,6 @@ status: candidate
 
 # MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -55,18 +54,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2019 PS Act → 2023 SCS Framework → 2024-04 DTSP Regime → 2026-03 USA-SG MRA。Circle が 2023 年シンガポールを APAC HQ に選んだのは重要な予見であり、2026-03 MRA で検証された。DBS が 2024 年 USDC をオンチェーン保管したことはアジア banking sector が公式にコンプライアンス SC チャネルへ参加する画期となった。DeFi 経路：Sky DAO が 2025-11 解散後にシンガポール + ケイマンで登記 = MAS が DAO ガバナンス実体に相対的に友好的、ただし DAI/USDS は依然 SCS ライセンスを申請しない（MiCA Q&A 2.7 と整合）。
 
-## Counterpoints
-
-- シンガポール vs HK の競争は非ゼロサム · ハイエンドプロジェクトは双方申請
-- DTSP 引き締め後、一部ハブプロジェクトが離脱 · 短期エコシステム圧力
-- MAS の高基準 + 低閾値（S$5M）の二重定位は依然検証待ち
-
-## Open questions
-
-- USDP / Paxos オフショア子会社のシンガポール進捗は？
-- Sky DAO のシンガポール登記は MAS の DAO 実体に対する細則整備を誘発するか？
-- §501(d) 第二波（2027-H1）でシンガポールは優位を維持できるか？
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -77,4 +64,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

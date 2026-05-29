@@ -64,12 +64,11 @@
     "Permitted-reserve-asset comparison · GENIUS vs MiCA vs Japan EPI"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "business/larry-fink-blackrock-digital-asset-template",
       "exchanges/us-crypto-licensing-multi-layer-system",
       "fintech/INDEX",
-      "fintech/apollo-acred-private-credit-tokenization",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/cftc-sec-crypto-jurisdiction",
       "fintech/circular-reserve-asset-flywheel-overview",
@@ -91,7 +90,6 @@
       "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
       "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction",
       "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
@@ -113,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 22149,
-    "word_like_tokens": 3523,
+    "nonspace_chars": 19344,
+    "word_like_tokens": 3047,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

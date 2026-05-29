@@ -19,7 +19,6 @@ status: candidate
 
 # DORA · EU Digital Operational Resilience Act 概観
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -51,18 +50,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 DORA は 2020-09 の EU Commission Digital Finance Package の一部として提案され、[[fintech/mica-overview|MiCA]] と同時期に推進された。2022-12 採択、2025-01 全面施行。ESAs(EBA + ESMA + EIOPA)が 2024-07 に 9 セットの Level 2 RTS/ITS を公表し、9 つのサブ領域を落とし込んだ。**米国対応**:FFIEC IT Handbook · NYDFS Part 500 · OCC Heightened Standards · MRA の次元で USA-EU MRA には DORA-equivalent 条項を含める必要があり、詳細は [[fintech/mica-cross-border-implications|MiCA クロスボーダー含意]] を参照。
 
-## Counterpoints
-
-- 22,000 金融機関とカバー範囲が広い · 中小機関のコンプライアンスコストが高い · 寡占化が加速
-- 4 時間初報の閾値は「過激」と批判され、誤報の増加につながる
-- 5 年の TLPT サイクルは急速に変化するサイバー脅威に対して長すぎる
-
-## Open questions
-
-- DORA と米国 NYDFS Part 500 / OCC Heightened Standards は相互承認可能か?
-- ESAs によるクラウド監督の実際の執行能力(AWS/Azure のグローバルアーキテクチャ)は?
-- TLPT のクロスボーダーテストは EU データ主権との衝突を招くか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -73,4 +60,3 @@ DORA は 2020-09 の EU Commission Digital Finance Package の一部として提
 <!-- /wiki-links:managed -->
 
 ## Sources
-

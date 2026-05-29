@@ -57,15 +57,15 @@
     "Wiki route",
     "DREX in one paragraph",
     "Origin and naming",
-    "Platform architecture",
     "Two-tier issuance model",
     "Technology stack",
     "Pilot 1 (2024)",
     "Pilot 2 (2025-2026)",
-    "Pix integration · the structural anchor"
+    "Pix integration · the structural anchor",
+    "Programmable-money use cases targeted"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 21,
     "wikilinks": [
       "exchanges/global-vasp-regulatory-comparison-matrix",
       "fintech/INDEX",
@@ -86,7 +86,6 @@
       "fintech/jp-trust-type-sc-architecture",
       "fintech/latin-america-cbdc-stablecoin-dollarization",
       "fintech/mbridge-bis-multi-cbdc-overview",
-      "fintech/mbridge-non-usd-settlement-ring-scale",
       "fintech/southeast-asia-stablecoin-regulatory-landscape",
       "fintech/stablecoin-crossborder-b2b-growth"
     ],
@@ -110,7 +109,6 @@
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/fintech/latin-america-cbdc-stablecoin-dollarization",
       "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
-      "https://finwiki.zksc.io/fintech/mbridge-non-usd-settlement-ring-scale",
       "https://finwiki.zksc.io/fintech/southeast-asia-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth"
     ],
@@ -118,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14736,
-    "word_like_tokens": 2335,
+    "nonspace_chars": 12716,
+    "word_like_tokens": 1987,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

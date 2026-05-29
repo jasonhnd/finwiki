@@ -18,7 +18,6 @@ sources:
 
 # 大和証券グループ本社 (Daiwa Securities Group)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -107,8 +106,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 再エネ / インフラ | 大和エナジー・インフラ | 太陽光・風力・インフラエクイティ投資 |
 | 海外（米欧亜）| 大和インターナショナル他 | 米国・欧州・アジア各拠点（中規模、野村比で限定）|
 
-## 3. 戦略・競争
-
 ### 「リテール深耕 + ホールセール拡大」戦略
 
 中期経営計画の継続テーマ。リテールでは富裕層向け対面営業の深掘り（資産運用立国政策・NISA 拡大の追い風を活用）、ホールセールでは住友合弁解消後の独立 IB として ECM / DCM / M&A 案件の拡大を志向。
@@ -148,21 +145,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 資産運用立国政策 → AM 業務（大和 AM）の成長機会
   - 2024〜 日銀政策金利正常化 → 大和ネクスト銀行の預貸マージン改善余地
   - 2025〜 ステーブルコイン制度・トークン化資産 → 中堅証券としての対応戦略
-
-## Counterpoints
-
-- 「住友合弁解消は戦略的撤退 or 受動的解消」: 1999 年合弁の 2009 年解消はメガバンク系証券としての地位を失った側面もあるが、独立系として再定位した結果、メガバンク系証券（[[smfg]] / [[mufg]] / [[mizuho-fg]] 系）と差別化できた、という両論。^[ambiguous]
-- 「海外規模の劣後」: 野村が海外 IB に深く張る一方、大和は中規模に留まる → 海外収益の分散効果は限定的だが、リスクテイクは抑制的 ^[inferred]
-- 「銀証一体モデルの実効性」: 大和ネクスト銀行 + 大和証券の連携は理論上の強みだが、メガバンク系（三井住友 + SMBC 日興、三菱 UFJ + 三菱 UFJ MS）の銀証連携と比べて規模・接続深度で見劣りする可能性 ^[ambiguous]
-- 「リテール対面の持続性」: NISA 拡大は追い風だが、若年層は [[sbi-hd]] / 楽天証券 / [[monex-group]] へ流出 → 富裕層特化の対面リテールが何年維持できるか ^[inferred]
-
-## Open questions
-
-- 大和ネクスト銀行の口座 2,288 千 / 預金 5 兆 637 億円 (2026-03 末) に対し、グループ内の証券口座とのクロスセル率は？
-- 中期経営計画（2024-2026）の進捗と次期計画の方向性
-- 海外（米欧亜）拠点群の連結範囲・収益貢献度
-- 暗号資産・トークン化資産領域への戦略的アプローチ（参入 / 様子見 / 提携）
-- 野村 HD・SMBC 日興・みずほ証券・三菱 UFJ MS との競合構図における中期的差別化軸
 
 ## Related
 

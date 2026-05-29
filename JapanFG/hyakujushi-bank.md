@@ -17,7 +17,6 @@ sources:
 
 # 百十四銀行 (Hyakujushi Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -45,8 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 百十四信用保証
 - 114 イノベーションファンド系（地域 VC）
 
-※ 銀行本体 + 周辺サービス子会社で県内金融エコシステムを構成。証券子会社は持たず、証券業務は提携証券会社経由 ^[inferred]
-
 ### 沿革（抜粋）^[extracted]
 
 | 年月 | 事象 |
@@ -72,18 +69,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 域外展開 | 大阪・神戸・岡山・東京支店 | 香川出身者・四国系企業対応 |
 | TSUBASA 連携 | 千葉銀行系の決済・システム共通化 | コスト削減・FinTech 共同調達 |
 
-## 3. 戦略と競争
-
 ### 地盤・競争構造
 
-- **香川県地盤**: 高松本店、瀬戸内海沿岸（坂出・丸亀・観音寺）に支店密集。香川県内預金シェアは首位、貸出シェアも上位 ^[inferred]
 - **県内競合**: [[tomony-hd]] 傘下の **[[kagawa-bank|香川銀行]]**との二強体制。香川銀行は徳島系トモニ HD 傘下の第二地銀で、住宅ローン・個人金融で激しい競合 ^[extracted]
 - **四国広域競合**: 四国 4 大地銀の一角
   - [[iyogin-hd]] / [[iyo-bank|伊予銀行]] (愛媛地盤、四国最大手)
   - [[tomony-hd]] ([[tokushima-taisho-bank|徳島大正銀行]] + [[kagawa-bank|香川銀行]]、四国 + 大阪)
   - [[shikoku-bank|四国銀行]] (高知地盤)
   - 百十四銀行 (香川地盤)
-- **県外進出**: 大阪・神戸・岡山・東京に支店。関西経済圏（特に大阪）への香川系企業・出身者向けが主、岡山は瀬戸大橋経由の経済圏接続による隣接県進出 ^[inferred]
 
 ### 産業特性
 
@@ -96,42 +89,22 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### TSUBASA アライアンス参加
 
 - 2015 年準会員として参加 ^[extracted]
-- 千葉銀行 (主導行)・第四北越銀行・中国銀行・伊予銀行・東邦銀行・北洋銀行・武蔵野銀行・滋賀銀行・琉球銀行などが加盟 ^[inferred]
-- **目的**: システム共同化（勘定系・FinTech）、海外ネットワーク共有、人材交流、共同商品開発によるスケールメリット獲得 ^[inferred]
-- ホールディングス化や経営統合を伴わない**ゆるやかな広域連携**が特徴で、各行の独立性を維持しながらコスト削減を図る ^[inferred]
 
 ### 単独経営の戦略
 
 - 県内独立系として持株会社化や他行との経営統合に踏み切っていない ^[extracted]
 - 一方で四国の他地銀は [[iyogin-hd]] (2022 持株会社化)・[[tomony-hd]] (2010 統合) と再編進行 ^[extracted]
-- 百十四銀行は単独銀行のまま、TSUBASA 等の**ゆるやかな連携で再編コストを回避**する戦略 ^[inferred]
 - 持続性については、地銀再編圧力（金融庁・日銀）下で将来的な選択肢として持株会社化・統合の可能性は残る ^[ambiguous]
 
 ## 4. 監督と政策
 
 - **主管**: 金融庁（FSA）・財務局
-- **公金指定**: 香川県・高松市 指定金融機関 ^[inferred]
 - **地銀分類**: 第一地方銀行（全国地方銀行協会加盟）
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 国内預貸金利マージン改善
   - 2020 年代後半 地銀再編圧力（合併特例法・公的資金活用枠）
   - 2025〜 中小企業伴走支援・事業承継・M&A 仲介ニーズ拡大
   - 2025〜 地域脱炭素・観光業デジタル化対応
-
-## Counterpoints
-
-- 「単独銀行のままで持続可能か」: 四国他行が再編進行する中、人口減少県の単独地銀として規模の経済を確保できるかは構造的懸念 ^[ambiguous]
-- 「TSUBASA 参加で十分か」: ゆるやかな連携が再編代替になるか、最終的に経営統合が必要かは将来の論点 ^[ambiguous]
-- 「[[kagawa-bank|香川銀行]]との関係」: 同一県内で第一・第二地銀が並立する構造は全国でも珍しくないが、人口減少下での非効率は将来課題 ^[inferred]
-- 「観光業集中リスク」: 観光・うどん・直島アートに依存する経済構造は、コロナ・天災・観光トレンド変化に弱い ^[inferred]
-
-## Open questions
-
-- 中期経営計画 (2024〜) のデジタル化・域外展開の数値目標は？
-- TSUBASA アライアンスでの具体的なシステム共同化進捗（勘定系基盤統合の有無）は？
-- [[kagawa-bank|香川銀行]]・[[tomony-hd]] との将来的な再編可能性は？（県内 1 行化シナリオ）
-- 四国 4 行（百十四・[[iyogin-hd]] / [[iyo-bank|伊予]]・[[awa-bank|阿波]]・[[shikoku-bank|四国銀行]]）の将来的な再編構想は？
-- 域外（大阪・岡山）支店の収益貢献度は？
 
 ## Related
 

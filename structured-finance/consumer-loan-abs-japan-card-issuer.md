@@ -128,18 +128,6 @@ ABS provides:
 - Tenor matching against receivable life
 - Rating arbitrage (AAA senior despite lower issuer corporate rating)
 
-## Counterpoints
-
-- **"Card ABS is risk-free senior"**: senior tranches benefit from heavy structuring but are still sensitive to severe-tail consumer-credit downturns and overpayment-claim style regulatory shocks.
-- **"Consumer-finance ABS is the same as US credit-card ABS"**: structurally similar but Japan-specific cycle drivers (money-lending law, demographics, lower household leverage) make the pool behavior different.
-- **"All issuers use trust structure"**: not all — TK-GK SPV is common too; see [[structured-finance/spv-tk-gk-vehicle-japan-tax]].
-
-## Open questions
-
-- How BNPL ([[JapanFG/bnpl-landscape]]) growth affects card-receivable ABS pool composition.
-- Whether digital-only / fintech card issuers ever issue ABS at scale (currently limited).
-- Long-term effect of demographic decline on card-receivable pool growth.
-
 ## Related
 
 - [[structured-finance/INDEX]]

@@ -17,7 +17,6 @@ sources:
 
 # 松井証券株式会社 (Matsui Securities)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sbi-securities|SBI証券 (SBI Securities)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -71,8 +70,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 投資情報 | 松井証券アプリ・市況情報サービス | アクティブ投資家向け情報ツール |
 | iDeCo / NISA | 新 NISA 対応口座 | 2024 制度拡充に合わせた商品強化 |
 
-## 3. 戦略・競争
-
 ### ネット証券パイオニアとしてのポジション
 
 松井証券は **1998-05 に日本初のオンライン株式取引サービスを開始**した日本ネット証券の元祖。1995-04 に社長就任した松井道夫が、それまでの対面リテール証券モデルから店舗を全廃しネット専業へと業態転換した経営判断は、日本証券業界の構造変革を先導した。この「対面店舗全廃」の革新は、当時としては極めて大胆な決断で、後の SBI 証券 / 楽天証券 / マネックス証券 等のネット証券業界全体の出現を促した起点と位置付けられる。
@@ -106,20 +103,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 **手数料無料化トレンド**: SBI / 楽天が国内株式手数料無料化、ネット証券業界の収益モデル再構築
   - 2025〜 **米国株・グローバル投資需要**: 円安継続・海外株式需要拡大への対応
   - 2025〜 **暗号資産・新金融商品**: ネット証券各社の対応分岐（松井は証券業特化を維持）
-
-## Counterpoints
-
-- 「ネット証券パイオニアの先発優位は薄れた」観: 1998 の先行優位は確かだが、現在は SBI / 楽天が圧倒的口座数と手数料優位で先行し、松井のパイオニア性は競争力に直結しなくなっている ^[inferred]
-- 「独立系の限界」: グループ経済圏（楽天ポイント / d ポイント / SBI 銀行連携）を持たない松井は、若年層獲得や口座開設インセンティブで構造的に劣後 ^[inferred]
-- 「手数料無料化対応」: 業界の手数料無料化トレンドの中、信用取引 1 日定額制等の独自モデルの持続可能性は要観察 ^[ambiguous]
-- 「米国株対応の後発感」: 2024〜 強化中だが、マネックス（TradeStation 連携）/ SBI / 楽天に対して米国株取扱の品揃え・コストでキャッチアップ段階 ^[inferred]
-
-## Open questions
-
-- 独立系を維持し続けるか、それともメガバンク / 通信系 / 流通系の傘下に入る統合シナリオは？（2024 マネックス → ドコモ統合のように、独立系ネット証券の集約圧力は強まる傾向）
-- 信用取引 1 日定額制モデルは手数料無料化トレンドの中で持続可能か？
-- 松井道夫（会長）からの世代交代戦略（和里田聰 社長体制）の方向性は？
-- 米国株 / 投資信託 / NISA 強化の中で、松井のコア顧客層（信用取引アクティブ層）と新規 NISA 層の両立戦略は？
 
 ## Related
 

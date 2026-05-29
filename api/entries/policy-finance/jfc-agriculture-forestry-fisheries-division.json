@@ -51,12 +51,12 @@
     "Wiki route",
     "TL;DR",
     "1. 部門位置 within JFC",
-    "2. 主要事業 / 商品メニュー",
     "2.1 Product menu table",
     "2.2 経営体育成 (management-body development) framing",
     "2.3 Forestry — the long-tenor anomaly",
     "2.4 Fisheries — coastal vs offshore split",
-    "2.5 Food industry — the downstream tail"
+    "2.5 Food industry — the downstream tail",
+    "3. 審査 / underwriting プロセス"
   ],
   "body_links": {
     "wikilinks_count": 15,
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 23108,
-    "word_like_tokens": 3639,
+    "nonspace_chars": 21046,
+    "word_like_tokens": 3291,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

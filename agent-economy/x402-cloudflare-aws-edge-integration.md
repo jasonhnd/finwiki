@@ -15,7 +15,6 @@ status: candidate
 
 # x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
@@ -38,19 +37,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 2025-05 Coinbase が x402 spec を発表。2025 H2 Cloudflare のエンジニアが Workers 上で experimental 統合を実施し · facilitator モデルのレイテンシを 100ms まで圧縮できることを検証。2025-Q4 Cloudflare が 2026-Q1 本番化を決定。2026-Q1 Cloudflare Workers x402 統合が正式リリース — これが x402 初の enterprise-grade 統合となった。2026-Q2 AWS API Gateway が追随し、Bedrock AgentCore と x402 で閉ループを形成(AgentCore のデフォルトウォレットは Privy/CDP + API Gateway の x402 で課金)。同期して Vercel AI SDK も x402 クライアント呼び出しをサポート。OpenAI / Anthropic はまだ正式統合を公表していないが · SDK は x402 クライアント呼び出しと互換(agent がウォレットに署名できれば良いだけで · 下層は [[systems/erc-4337-overview|ERC-4337]] または [[systems/erc-7702-overview|ERC-7702]] に依存する)。
 
-## Counterpoints
-
-- Cloudflare + AWS の 2 社による x402 facilitator 市場の寡占化は · 「オープンプロトコル」という物語と矛盾する
-- 「20%+ HTTP トラフィック」は「20%+ API トラフィック」とは等価ではない · API における Cloudflare のシェアは同じとは限らない
-- 1-2% facilitator fee は大型 API 呼び出しでは開発者が facilitator を迂回して自前で settlement を構築する動機にもなり得る
-- AWS Bedrock x402 統合と AWS によるデフォルトウォレット Privy/CDP 選択は同根であり · Circle / Anchorage は依然として除外される
-
-## Open questions
-
-- 2027 に Google Cloud / Azure が x402 統合に追随し · 4 大クラウドベンダー共通標準を形成するか?
-- Cloudflare facilitator fee は競争により < 0.5% まで下がるか?
-- 中国の Aliyun / Tencent Cloud は対抗的なマイクロペイメントプロトコル(Visa に対する UPI のような)を打ち出すか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -63,4 +49,3 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 ## Sources
 
 - x402 protocol (Coinbase) — https://github.com/coinbase/x402
-

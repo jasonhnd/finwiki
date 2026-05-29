@@ -66,27 +66,24 @@
     "Wiki route",
     "Default-tier vs secondary-tier split",
     "The five drivers of consolidation",
-    "Provider-by-provider 2026 snapshot",
     "Privy (Stripe)",
     "Coinbase CDP",
     "Magic",
-    "thirdweb"
+    "thirdweb",
+    "Particle Network"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
-      "agent-economy/ai-company-payment-landscape",
       "agent-economy/ap2-overview",
       "agent-economy/coinbase-cdp-developer-platform",
       "agent-economy/embedded-wallet-network-effects-moat",
       "agent-economy/erc-7715-overview",
       "agent-economy/privy-aws-agentcore-default-wallet",
       "agent-economy/privy-embedded-wallet-overview",
-      "agent-economy/skill-market-monetization",
       "agent-economy/x402-http-payment-overview",
-      "exchanges/jp-cex-deposit-token-stablecoin-integration",
       "fintech/INDEX",
       "fintech/embedded-wallet-fintech-disintermediation-overview",
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
@@ -95,16 +92,13 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/agent-economy/INDEX",
-      "https://finwiki.zksc.io/agent-economy/ai-company-payment-landscape",
       "https://finwiki.zksc.io/agent-economy/ap2-overview",
       "https://finwiki.zksc.io/agent-economy/coinbase-cdp-developer-platform",
       "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
       "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
       "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
       "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/agent-economy/skill-market-monetization",
       "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
@@ -114,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17382,
-    "word_like_tokens": 2811,
+    "nonspace_chars": 15198,
+    "word_like_tokens": 2438,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

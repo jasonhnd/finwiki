@@ -21,7 +21,6 @@ sources:
 
 # bitFlyer Blockchain
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/hyperledger-besu-overview|Hyperledger Besu · EVM 兼容企业链(Quorum 进化)]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -42,18 +41,6 @@ bitFlyer Blockchain is the enterprise blockchain arm around bitFlyer's proprieta
 Miyabi sits on the opposite side of the design spectrum from public permissionless chains. It optimizes for finality, controllability, and enterprise integration rather than open validator economics. This makes it closer to [[systems/canton-overview|Canton]], [[systems/hyperledger-besu-overview|Besu]], and institutional DLT than to CEX market structure.
 
 For [[JapanFG/bitflyer|bitFlyer]], the strategic value is optionality: exchange business on one side, and enterprise chain / consulting infrastructure on the other. The open question is whether Miyabi has enough active adoption to be a durable product line rather than a technical showcase.
-
-## Counterpoints
-
-- Official performance claims are vendor claims; real-world adoption and production workload data need separate verification.
-- Enterprise private-chain demand competes with Canton, Besu, Quorum-style stacks, cloud-managed ledger services, and sometimes ordinary databases.
-- The strategic relationship between Miyabi and Japan's stablecoin / tokenized deposit infrastructure is not yet explicit from public sources.
-
-## Open questions
-
-- Which production customers or regulated use cases still run on Miyabi.
-- Whether Miyabi is positioned as consulting IP, a productized platform, or a reference implementation.
-- Whether Miyabi has a credible role in Japan tokenized money infrastructure, or remains separate from [[fintech/japan-stablecoin-regulatory-landscape|stablecoin regulation]].
 
 ## Related
 

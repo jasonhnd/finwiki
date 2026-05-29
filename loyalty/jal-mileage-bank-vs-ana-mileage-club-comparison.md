@@ -55,8 +55,6 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-pr
 
 The **JGC / SFC perpetual-status mechanism** is a Japanese FFP-specific feature: once a member meets the FOP / PP threshold in a single calendar year, they can apply for a JAL Global Club or Super Flyers Club credit card (the "lifetime ticket" pattern), and as long as they continue to hold that card and pay the annual fee, they retain a service tier (Sapphire / Gold equivalent) regardless of subsequent-year flight activity. This creates a structurally large "former-flyer" status-holder base that does not exist in the same scale at non-Japanese FFPs.
 
-## Mileage accrual — flight vs non-flight
-
 ### Flight accrual
 
 | Cabin / fare | JMB accrual rate | AMC accrual rate |
@@ -158,25 +156,6 @@ The **oneworld vs Star Alliance** allocation determines the cross-airline accrua
 | BAEC (BA) | BA | oneworld | Global | None Japan | BA partner cards |
 
 The structural strength of JMB and AMC vs non-Japanese FFPs is the **Japanese common-point bilateral-exchange network** that doesn't exist in foreign markets at the same scale. Pontaポイント and Rakuten Points materially expand the non-flight earning footprint for Japanese-resident members.
-
-## Counterpoints
-
-- **Award-seat availability constraints**: both JAL and ANA control award-seat inventory tightly, and reports of difficulty securing premium-cabin award seats on peak routes are persistent. The "mile-as-currency" thesis is only as good as the redemption inventory the carrier offers.
-- **Mileage devaluation risk**: airlines periodically increase the mile cost of award tickets (a "loyalty haircut"), reducing the per-mile economic value. JAL and ANA have historically been more disciplined than US carriers but devaluation is a structural risk.
-- **Status-tier inflation**: as JGC / SFC card-holder bases grow, lounge crowding and upgrade-priority dilution become visible. The premium-status experience has degraded in some peak-period reports.
-- **Common-point alliance shifting**: Tポイント → V Point merger in 2024 disrupted the legacy AMC ↔ Tポイント flow. Similar realignments could affect JMB ↔ Pontaポイント if the [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson take-private]] reshapes Ponta's strategic priorities.
-- **COVID-era mileage validity extensions**: both programs extended mileage validity during 2020-2022, creating a "delayed redemption wall" that has affected post-COVID financial reporting on contract-liability releases.
-- **Cross-program comparison difficulty**: mile value is not a fixed-rate currency (unlike common-point's 1¥/point reference rate), and per-mile value varies materially by redemption choice. Comparison shopping between JMB and AMC requires per-itinerary analysis rather than headline-rate benchmarking.
-
-## Open questions
-
-- Does **JAL Mileage Bank deepen Pontaポイント integration** under the post-2024 Lawson + Mitsubishi structure, including possibly higher conversion ratios or campaign-period bonus offers?
-- Does **ANA Mileage Club** develop a stronger common-point anchor partner (potentially Rakuten Points, dポイント, or a new tie-up with PayPay Points) to match JAL ↔ Ponta?
-- How does the **2025 dポイントクラブ reform** (see [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]) affect dポイント ↔ JMB and dポイント ↔ AMC conversion economics?
-- Will Japan-side **carbon-neutral travel** policies introduce miles for sustainable-fuel surcharge or carbon-offset products?
-- Does **JAL Pay / ANA Pay** evolve into a meaningful wallet competitor in the [[payments/japan-code-payment-operator-2025-market-share-matrix|code-payment market share]], or stay a marginal mile-conversion exit route?
-- How will the **IFRS 15 contract-liability balance** evolve as the post-COVID mileage-issuance flow grows from co-branded card spend rather than ticket purchases?
-- Does either airline introduce a **dynamic award-seat pricing** model (typical of UA / DL / AA in the US), and how does it affect the perceived value of mileage accumulation?
 
 ## Related
 

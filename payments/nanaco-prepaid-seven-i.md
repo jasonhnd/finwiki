@@ -102,13 +102,6 @@ nanaco's strategic role inside Seven & i:
 
 The 2019 7pay incident (the short-lived 7pay code-payment product that was withdrawn after security failure) reinforced Seven & i's positioning of nanaco as the durable group-cashless anchor rather than re-attempting a Seven-branded code payment.
 
-## Counterpoints
-
-- "nanaco is only useful at 7-Eleven." Outside-group acceptance (Tower Records historically, drugstores, fast food, Denny's Japan, Akachan Honpo, etc.) is wider than 7-Eleven-only — though group stores dominate transaction count.
-- "Code payment replaces nanaco." Tap-speed at convenience-store throughput is the structural moat; nanaco usage at 7-Eleven has remained material even as code-payment penetration grew.
-- "nanacoポイント and nanaco balance are the same." Loyalty point and prepaid balance are legally distinct — point is loyalty currency, balance is PSA-registered prepaid-instrument; conversion is one-way (point → balance).
-- "7pay's failure killed Seven cashless." 7pay was a code-payment product; nanaco operates on entirely different rails (FeliCa prepaid) and was not affected.
-
 ## Related
 
 - [[payments/INDEX]]

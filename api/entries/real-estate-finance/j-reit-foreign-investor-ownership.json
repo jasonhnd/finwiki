@@ -48,13 +48,13 @@
     "J-REIT foreign investor ownership",
     "TL;DR",
     "Wiki route",
-    "1. Foreign-ownership share",
     "Headline scale",
     "How the share is observed",
-    "2. Foreign-investor segments",
     "Segment 1 — Global REIT specialist funds",
     "Segment 2 — Sovereign wealth and large pension",
-    "Segment 3 — Hedge funds and trading-style investors"
+    "Segment 3 — Hedge funds and trading-style investors",
+    "Why the hedging cost dominates",
+    "Cross-currency basis swap"
   ],
   "body_links": {
     "wikilinks_count": 24,
@@ -114,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16209,
-    "word_like_tokens": 2839,
+    "nonspace_chars": 12704,
+    "word_like_tokens": 2204,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

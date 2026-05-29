@@ -54,14 +54,6 @@ USAT のコアモデル = **「Tether が米国連邦銀行を通じてコンプ
 
 2014 Tether 創業（Bitfinex 関連法人）→ 長期にわたりオフショアステーブルコインとして運営。2017-2023 多回の規制摩擦（NY AG 調査 / 準備金充足性論争）→ ただし流通量は依然 $1B → $90B+。**2023-09 Tether が本社を正式にエルサルバドルへ移転**（Bukele 政権が monetary openness 規制環境を提供）。2024-Q1 Cantor Fitzgerald（Howard Lutnick）が Tether 準備金の主要運用者 + UST ブローカーであることを公式確認。**2024-Q4 Tether と Anchorage Digital が共同で USAT を発表** = 米国コンプライアンスブランチ戦略。2025-01 Howard Lutnick がトランプ政権商務長官に就任 → Tether の米国政治関係が歴史的ピークへ。2025-09 [[fintech/genius-act-501-denylist-mandate|GENIUS Act 施行]] → USAT 設計は §501 資格要件に適合する必要。2026 USAT mainnet ローンチ時期は依然未確定（Tether 公式は複数回延期）。[[fintech/jpmorgan-jpmd-coin|JPMD]] / [[fintech/stripe-usdb-bridge-stablecoin|USDB]] と米国コンプライアンスホワイトサークル市場で「四角構図」を形成：**USDC（老舗）+ JPMD（銀行 TD）+ USDB（決済会社）+ USAT（Anchorage コンプライアンス借入）**、すべて GENIUS §501 後の米国コンプライアンスホワイトサークル市場シェアを争奪している。
 
-## Counterpoints
-
-USAT は依然「公表 + 経路設計」段階で、**mainnet ローンチ時期は繰り返し延期**（Tether 公式口径は複数回 "soon" と述べる）、実製品規模は 2026-Q2 でほぼゼロに近い。Anchorage を issuer of record とすることで USAT の実質的支配権が一部譲渡され、**Tether の歴史的「高度集中型意思決定 / 不透明」スタイルとは一致しない** → ガバナンス摩擦により USAT 設計が二転三転する可能性。USAT 準備金ポートフォリオは Cantor Fitzgerald が運用 → Howard Lutnick の入閣後の利益相反審査が USAT コンプライアンスローンチの遅延要因となる可能性。USDT 国際版と USAT の「デュアルライン分離」はユーザー体験が複雑（ユーザーがまず KYC 判断でどちらのラインに乗るかを決める必要）、USDC「単一ブランド」の米国ライセンス CEX 体験との差は大きい。**Circle USDC が既に先行して米国コンプライアンスホワイトサークルのベンチマーク商品の地位を占有 + Coinbase 強力配信**、USAT が順調にローンチしてもベンチマーク / 挑戦者構図に直面する。
-
-## Open questions
-
-USAT mainnet は 2026 年内に本当にローンチするか（Tether 公式口径は複数回延期）？USAT は米国ライセンス CEX における USDT 国際版のすべての流通を代替するのか、それとも「USDT は依然一部 CEX 上場可能だが USAT がコンプライアンス推奨版」という二元構図となるか？Tether の歴史的法的リスク（NY AG settlement / CFTC fine）は USAT が §501 資格を申請する際の実質的障害となるか？Anchorage は USAT プロジェクトが巨大化することで Tether からの戦略出資を受けるか？
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]

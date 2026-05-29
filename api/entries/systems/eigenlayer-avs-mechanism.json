@@ -41,19 +41,15 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "exchanges/global-dex-major-five-comparison",
       "exchanges/liquid-staking-restaking-cex-exposure",
       "fintech/INDEX",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
       "systems/INDEX",
       "systems/eigenlayer-l1-bootstrapping",
       "systems/eigenlayer-overview",
@@ -61,10 +57,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
       "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping",
       "https://finwiki.zksc.io/systems/eigenlayer-overview",
@@ -74,8 +68,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3198,
-    "word_like_tokens": 493,
+    "nonspace_chars": 2571,
+    "word_like_tokens": 398,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

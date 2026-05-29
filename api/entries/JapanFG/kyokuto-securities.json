@@ -47,11 +47,11 @@
     "業態の特徴",
     "重要年表 (公開情報ベース)",
     "3. 事業セグメント map",
-    "4. 戦略・競争",
-    "外債特化型ニッチ"
+    "外債特化型ニッチ",
+    "中堅独立証券枠でのポジション"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aizawa-sg",
@@ -65,8 +65,7 @@
       "JapanFG/smbc-nikko",
       "JapanFG/tachibana-securities",
       "JapanFG/tokai-tokyo-fh",
-      "securities/financial-instruments-business-operators-japan-index",
-      "securities/nisa-2024-flow"
+      "securities/financial-instruments-business-operators-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -81,16 +80,15 @@
       "https://finwiki.zksc.io/JapanFG/smbc-nikko",
       "https://finwiki.zksc.io/JapanFG/tachibana-securities",
       "https://finwiki.zksc.io/JapanFG/tokai-tokyo-fh",
-      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3982,
-    "word_like_tokens": 512,
+    "nonspace_chars": 3162,
+    "word_like_tokens": 422,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

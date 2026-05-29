@@ -22,7 +22,6 @@ sources:
 
 # Starr Insurance Japan / スター・インシュアランス・ジャパン
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/aig-japan|AIG Japan]] and [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] for foreign-specialty-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
@@ -61,19 +60,6 @@ This positions Starr Japan as a specialty alternative to [[JapanFG/aig-japan|AIG
 - Clarifies the Starr / AIG historical relationship and the post-2005 independence under Greenberg.
 - Useful for understanding the Tokyo specialty insurance market, where multiple foreign carriers compete for marine, aviation, and accident & health business.
 - Sets up reference for privately-held foreign insurance groups operating in Japan, where public disclosure differs from listed groups.
-
-## Counterpoints
-
-- Starr Companies is largely privately held, so financial disclosure is materially less than for listed peers like [[JapanFG/aig-japan|AIG Japan]] (NYSE) or [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] (NYSE). ^[inferred]
-- Starr's Japan premium share is modest vs. the domestic [[insurance/japan-nonlife-big-three|non-life big three]] and is concentrated in specialty rather than broad commercial. ^[inferred]
-- Brand recognition in Japan is materially lower than peer foreign specialty carriers. ^[inferred]
-
-## Open questions
-
-- What is the exact legal entity name and FSA registration status for Starr's current Japan presence?
-- What product lines does Starr Japan currently focus on (marine / aviation / A&H / specialty P&C)?
-- What is the broker distribution mix for Starr Japan, and what are the principal client segments?
-- How does Starr Japan coordinate with Starr's Asia regional offices (Hong Kong, Singapore)?
 
 ## Related
 

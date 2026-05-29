@@ -116,13 +116,6 @@ QUO Card's strategic positioning:
 4. **Breakage economics** — long unredeemed-balance pattern is a structural P&L tailwind.
 5. **Acceptance moat** — broad cross-merchant footprint (ex-7-Eleven) supports the gift-currency positioning.
 
-## Counterpoints
-
-- "QUO Card is obsolete in the code-payment era." Corporate gift distribution and 株主優待 use cases are not competitive with code-payment wallets — they serve a structurally different need (gift-currency vs personal-wallet).
-- "QUO Card Pay duplicates PayPay." It does not — QUO Card Pay is a single-use gift with no topup / recharge functionality; PayPay is a recharge-and-spend wallet.
-- "QUO Card is accepted everywhere." No — 7-Eleven is a notable exclusion, and many code-payment-only merchants don't accept QUO Card.
-- "Gift-card breakage will be regulated away." Breakage is constrained by PSA 供託 obligations, not eliminated — issuers retain breakage P&L within regulatory limits.
-
 ## Related
 
 - [[payments/INDEX]]

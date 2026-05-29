@@ -46,8 +46,8 @@
     "3. Sony FG case",
     "4. Strategic reading",
     "5. 規制と政策",
-    "Counterpoints",
-    "Open questions"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3952,
-    "word_like_tokens": 535,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3664,
+    "word_like_tokens": 515,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-05-29"
   }
 }

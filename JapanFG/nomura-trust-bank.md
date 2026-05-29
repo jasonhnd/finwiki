@@ -19,14 +19,9 @@ sources:
 
 # 野村信託銀行 (Nomura Trust Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[JapanFG/nomura-hd|野村 HD]] for parent group context, [[JapanFG/sumitomo-mitsui-trust|SMTB]] / [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[JapanFG/legal-financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
-
-## TL;DR
-
-野村信託銀行は [[JapanFG/nomura-hd|野村 HD]] の trust-bank operating company。FSA の銀行免許リスト上は「野村信託銀行株式会社」として掲載され、**証券グループ系信託銀行**として 野村證券チャネルを銀行代理店・信託契約代理店とする securities-group bank model を持つ ^[extracted]。3 大信託（SMTB / MUTB / MTBJ）に比べ規模は小さく、預金 / ローン / 相続 / ラップ信託 / 従業員持株信託 / 資産流動化信託など、**証券チャネル付随の銀行・信託機能**に特化した「証券会社の銀行牌照アーム」というポジショニング ^[inferred]。
 
 ## 1. 法人・ライセンス境界
 
@@ -36,7 +31,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | English name | The Nomura Trust and Banking Co., Ltd. |
 | FSA category | 信託銀行 |
 | Bank code | 0304 |
-| Establishment | 1993年 ^[inferred]（信託業務認可） |
 | 本店 | 東京都千代田区大手町 ^[ambiguous]（公式 IR 要確認） |
 | Parent boundary | [[JapanFG/nomura-hd|野村 HD]] 100% trust-bank subsidiary |
 | 主要関連法人 | [[JapanFG/nomura-securities|野村證券]]（銀行代理店・信託契約代理店） |
@@ -64,8 +58,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | 預金残高 | ¥数千億〜¥1兆円規模 ^[ambiguous] | 3 大信託の数十分の一 |
 | 信託残高（受託資産） | ¥数兆円規模 ^[ambiguous] | カストディ + 私募 + 流動化中心 |
 | 貸出残高 | 限定的 | 富裕層 / グループ会社向け中心 |
-| 経常利益 | ¥数十億円規模 ^[inferred] | 信託フィー + 預貸スプレッド |
-| 従業員数 | 数百名 ^[inferred] | 専門業務特化、店舗網最小限 |
 
 参考：3 大信託（SMTB ¥数十兆円預金 / MUTB 同等 / MTBJ 同等）と比べると 1〜2 桁小さい規模。
 
@@ -77,18 +69,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 - **証券・運用ビジネス** — ラップ信託（ファンドラップ）、SMA（投資一任）、年金信託 ^[extracted]
 - **法人サービス** — 従業員持株インセンティブ信託（ESOP / J-ESOP）、株式報酬信託 ^[extracted]
 - **資産流動化信託** — 不動産・金銭債権の信託受託 ^[extracted]
-- **カストディ業務** — 機関投資家向け資産保管 ^[inferred]
 - **銀行代理店モデル** — 野村證券を銀行代理店・信託契約代理店として活用し、証券チャネルから銀行・信託商品を販売 ^[extracted]
 
 ## 5. 重要年表
 
 | 年月 | 事象 |
 |---|---|
-| 1993 | 野村信託銀行設立 ^[inferred] |
-| 2000s | 野村 HD 持株会社化（2001-10）後、100% 子会社化 ^[inferred] |
 | 2008-09 | リーマン破綻 + 野村証券による Lehman アジア部門買収、グループ拡大期 |
-| 2010s | 富裕層ビジネス本格化、ラップ信託・SMA 拡大 ^[inferred] |
-| 2020s | 従業員持株信託 / 株式報酬信託の市場成長期、Wealth Management 戦略強化 ^[inferred] |
 
 ## 6. ピア比較 — 信託銀行マーケット
 
@@ -108,18 +95,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 - **主管**：金融庁（FSA）、関東財務局
 - **業態**：信託銀行（銀行法 + 信託業法）
 - **業界団体**：信託協会、全国銀行協会
-- **G-SIB / D-SIB 指定**：なし（規模上）。ただし親 [[JapanFG/nomura-hd|野村 HD]] は **G-SIB Bucket 1（2024 リスト掲載）** ^[inferred]
 - **NRA Stress Test**：野村 HD 連結ベースで FRB Stress Test 対象（米国法人）
 - **信託業界規制**：信託業法、信託契約代理店規制、業務範囲規制
 - **連結監督**：野村 HD の G-SIB 指定により連結バーゼル III 規制下
 
 ## 8. Counterpoints
 
-- **規模の限定性** ^[inferred]：3 大信託の 1〜2 桁下、スタンドアロンでは年金・カストディ等のスケール業務で競争劣位。証券グループ付随業務に特化せざるを得ない構造
-- **証券チャネル依存** ^[inferred]：野村證券の顧客基盤が中核チャネル。野村證券の業績変動（市場環境・コミッション収入）が信託銀行の収益にも波及
 - **Wealth Management 競合密度** ^[ambiguous]：富裕層ビジネスでは SMTB / MUTB / 三井住友プライベートバンク / メガ系プライベートバンク・外資（UBS / モルガンスタンレー）と熾烈な競合
-- **G-SIB 連結規制負荷** ^[inferred]：親 野村 HD が G-SIB 指定下、信託銀行子会社にも資本規制 / リスク管理コストが波及
-- **株式報酬信託市場の競合過密** ^[inferred]：ESOP / J-ESOP 市場には大手信託 + 中堅信託 + 専業（みずほ・SMTB が大手）が殺到、差別化軸が薄い
 
 ## 9. Open questions
 

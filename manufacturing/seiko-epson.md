@@ -21,7 +21,6 @@ sources:
 
 # Seiko Epson Corporation (セイコーエプソン)
 
-
 ## Wiki route
 
 This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with [[manufacturing/toyota-motor|Toyota Motor Corporation (トヨタ自動車)]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
@@ -67,18 +66,6 @@ This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it with 
 - 上場会社として東証・金商法・会社法の開示対象。
 - 電子機器・化学物質・輸出管理・環境規制の影響を受ける。
 - グローバル製造業として為替、通商、サプライチェーン、人権・調達規制にさらされる。
-
-## Counterpoints
-
-- プリンタ消耗品モデルは長期的に縮小圧力を受けやすい。
-- ロボティクス・産業機器は景気循環と設備投資サイクルに左右される。
-- 長野県内の主力製造業として、地域雇用・サプライヤー・地銀融資への波及が大きい。
-
-## Open questions
-
-- プリンティングから産業・精密領域への収益移行はどの程度進んでいるか。
-- 八十二銀行・地元金融機関との取引関係はどこまで公開情報で確認できるか。
-- Epson の脱炭素投資は地域サプライヤーにどの程度波及するか。
 
 ## Related
 

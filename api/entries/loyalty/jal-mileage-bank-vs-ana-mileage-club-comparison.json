@@ -59,12 +59,12 @@
     "Wiki route",
     "TL;DR",
     "Program scale and identity layer",
-    "Mileage accrual — flight vs non-flight",
     "Flight accrual",
     "Non-flight accrual",
     "Mileage redemption — seat inventory dominant",
     "Status-tier dynamics — FOP / PP and JGC / SFC",
-    "Deferred-revenue accounting — IFRS 15 contract liability"
+    "Deferred-revenue accounting — IFRS 15 contract liability",
+    "Partner-network depth — beyond alliance"
   ],
   "body_links": {
     "wikilinks_count": 18,
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18238,
-    "word_like_tokens": 3026,
+    "nonspace_chars": 15777,
+    "word_like_tokens": 2605,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

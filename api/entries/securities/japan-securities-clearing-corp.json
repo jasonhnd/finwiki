@@ -42,7 +42,6 @@
     "System Map",
     "Clearing Map",
     "Strategic Reading",
-    "Counterpoints",
     "Related",
     "Sources"
   ],
@@ -80,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2881,
-    "word_like_tokens": 410,
+    "nonspace_chars": 2694,
+    "word_like_tokens": 382,
     "inbound_wikilinks_count": 62,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

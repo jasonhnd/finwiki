@@ -47,8 +47,8 @@
     "Business Map",
     "Competitive Context",
     "Regulatory / Risk Notes",
-    "Open Questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4074,
-    "word_like_tokens": 645,
+    "nonspace_chars": 3759,
+    "word_like_tokens": 585,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

@@ -49,12 +49,12 @@
     "TL;DR",
     "Wiki route",
     "Key facts",
-    "1. 主要 13 軸 マトリクス",
     "A. 法源・規制当局・施行時期",
     "B. ライセンス区分・階層",
     "C. 活動カバレッジ (spot / derivatives / custody / staking / lending / NFT marketplace)",
     "D. 資本要件・分別管理",
-    "E. Fit-and-proper / 出資金来源"
+    "E. Fit-and-proper / 出資金来源",
+    "F. AML / Travel Rule 実装"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -106,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12940,
-    "word_like_tokens": 2208,
-    "inbound_wikilinks_count": 65,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 11925,
+    "word_like_tokens": 2045,
+    "inbound_wikilinks_count": 64,
+    "last_modified": "2026-05-29"
   }
 }

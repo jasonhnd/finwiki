@@ -42,13 +42,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "agent-economy/ap2-technical-spec",
@@ -57,7 +55,6 @@
       "systems/INDEX",
       "systems/cctp-v2-overview",
       "systems/cctp-v2-vs-canton",
-      "systems/cross-chain-five-pole-comparison-matrix",
       "systems/erc-4337-overview"
     ],
     "resolved_wikilinks": [
@@ -68,15 +65,14 @@
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/cctp-v2-overview",
       "https://finwiki.zksc.io/systems/cctp-v2-vs-canton",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
       "https://finwiki.zksc.io/systems/erc-4337-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3164,
-    "word_like_tokens": 480,
+    "nonspace_chars": 2504,
+    "word_like_tokens": 387,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

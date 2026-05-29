@@ -39,11 +39,11 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社・関連会社",
-    "2. 合併歷史・前身",
     "旧 第三銀行系",
     "旧 三重銀行系",
     "統合",
-    "3. 事業セグメント・マップ"
+    "3. 事業セグメント・マップ",
+    "地理ポジション"
   ],
   "body_links": {
     "wikilinks_count": 6,
@@ -67,9 +67,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3045,
-    "word_like_tokens": 469,
+    "nonspace_chars": 2669,
+    "word_like_tokens": 422,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

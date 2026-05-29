@@ -17,7 +17,6 @@ sources:
 
 # 東和銀行 (The Towa Bank, Ltd.)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -44,7 +43,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 県内集中・単一地盤で持株会社化の事業多角化メリット小
 - 関連会社（リース・保証等）は銀行直下子会社で管理可能
 - 旧第一勧業銀行系（現 [[mizuho-fg]]）との戦略提携で広域補完
-- 県内競合 [[gunma-bank]] と同様の判断（県内 2 行 PRIME 上場の特殊性）^[inferred]
 
 ### 関連事業・子会社 ^[likely]
 
@@ -57,8 +55,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ```
 
 > 具体的子会社名・出資比率の最新値は公式 IR / 有価証券報告書を要参照。
-
-## 2. 沿革
 
 ### 沿革年表 ^[extracted]
 
@@ -103,11 +99,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **隣接県進出**: 埼玉県北部（熊谷・本庄 等）/ 栃木県 / 東京北部 一部
 - **特徴**: **群馬県中小企業特化** + **SUBARU 太田工場経済圏**
 
-## 4. 戦略・競争
-
 ### 産業基盤特性
 
-- **SUBARU（富士重工業）太田工場**: 群馬県太田市 主力組立工場 → 部品サプライヤー数百社が県内集積。**[[gunma-bank]] と並んでサプライチェーン融資の中核顧客群**。中小サプライヤー層では東和銀行が強い ^[inferred]
 - **群馬県中小企業集積**: 製造業（自動車部品・電機・食品加工）・建設・小売 → 中小企業特化の第二地銀ポジション
 - **観光**: 草津・伊香保 等温泉地、富岡製糸場（世界遺産）→ 観光業ローン
 
@@ -131,9 +124,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 中小企業金融の差別化
 
-- **無尽 → 相互 → 第二地銀の系譜**: 中小企業密着の DNA（群馬銀行が大同・群馬商工銀 統合系の大企業寄りベース vs 東和銀行が無尽系の中小企業ベース）^[inferred]
 - **店舗網**: 県内中小企業地区への店舗密着配置 ^[likely]
-- **メイン銀行ポジション**: 県内中小企業 主取引銀行の割合は [[gunma-bank]] と並ぶ二大主力 ^[inferred]
 
 ## 5. 規制・政策
 
@@ -146,23 +137,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 地銀再編圧力（金融庁・公的資金活用 / 持株会社化推奨）vs 単独銀行維持判断
   - SUBARU・自動車産業 EV 転換 → 部品サプライチェーン構造変化リスク（中小サプライヤー融資先依存）
   - 中小企業ゾンビ化問題（コロナ禍ゼロゼロ融資の出口）→ 第二地銀の与信ストレス
-
-## Counterpoints
-
-- 「単独銀行体制 vs 持株会社化トレンド」: [[mebuki-fg]] / [[tomony-hd]] / [[jimoto-hd]] 等の第二地銀広域持株化に対し、東和銀行は単独維持 → **規模拡大遅延リスク** vs **意思決定速度・コスト軽量** 両論 ^[ambiguous]
-- 「SUBARU 中小サプライヤー依存リスク」: 太田工場系の中小部品サプライヤーへの融資集中 → EV 転換・自動車業界再編で **特定産業 + 中小規模集中の二重リスク** ^[inferred]
-- 「みずほ系提携の戦略意義」: 2003 旧第一勧銀提携は **広域補完** vs 「メガ傘下入りせず独立性維持」両論。提携深化 vs 経営統合可能性は未開示 ^[ambiguous]
-- 「[[gunma-bank]] との県内 2 行併存」: 県内 PRIME 上場 2 行併存は全国でも珍しい → **将来統合シナリオ** vs **競争維持** どちらが県内経済に望ましいか議論 ^[ambiguous]
-- 「第二地銀協加盟」: 第 1 地銀 [[gunma-bank]] とは協会別所属 → 業界ロビイング・規制対応の温度差 ^[inferred]
-
-## Open questions
-
-- 中期経営計画（2024〜）の具体的 KPI / 数値目標は？ → 公式 IR の中計資料要参照
-- [[gunma-bank]] との経営統合可能性は？ 県内 2 行 PRIME 上場の合理性
-- [[mizuho-fg]] 系列入り深化シナリオは？ 2003 提携の現在地点
-- SUBARU EV 戦略転換に伴うサプライチェーン融資ポートフォリオ調整は？
-- 連結総資産・純利益・株主構成の最新値（公式 IR 要参照）
-- 第二地銀協加盟内での広域連携イニシアチブ参加状況は？
 
 ## Related
 

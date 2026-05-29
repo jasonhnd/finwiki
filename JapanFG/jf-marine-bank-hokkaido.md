@@ -43,7 +43,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 | 英名 | Hokkaido Shingyoren / Hokkaido Prefectural Credit Federation of Fishery Cooperatives |
 | 法的形態 | **水協法に基づく道域信用事業連合会** |
 | 系統 | [[JapanFG/norinchukin|農林中央金庫]] 直系 ([[banking/jf-marine-bank-system-japan|JF Marine Bank system]]) |
-| 組合員 | 北海道内 JF (沿岸 + 沖合漁業協同組合、数十組合規模) ^[inferred] |
 | 監督官庁 | 金融庁・北海道財務局 + 農林水産省・水産庁 + 北海道庁 |
 | ホームマーケット | 北海道全域 (沿岸全 14 振興局 + 沖合) |
 | Wiki role | **First JF Marine Bank prefectural-federation operating-company anchor** (10 信漁連最大の代表事例) |
@@ -52,13 +51,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 
 | 指標 | 北海道 | 全国比 |
 |---|---|---|
-| 漁業生産額 | 約 3,500〜4,000 億円 | **国内約 25%** ^[inferred] |
-| 漁獲量 | 約 80〜100 万トン | **国内約 20〜25%** ^[inferred] |
-| 漁業就業者数 | 約 2 万人 | **国内約 15%** ^[inferred] |
 | 主要漁種 | サケ・ホタテ・コンブ・スケトウダラ・カニ・ウニ | 北方系の独占 |
 | 主要漁港 | 釧路・函館・稚内・室蘭・小樽 | 漁港数全国上位 |
-
-> 注: 数値 ^[inferred] は概数、農林水産省漁業センサス + 水産庁公開資料を要参照
 
 ### 10 信漁連の構成 ^[extracted / inferred]
 
@@ -74,8 +68,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 | 九州北部信漁連 | 福岡・佐賀・長崎 | 中 |
 | 九州南部信漁連 | 熊本・鹿児島 | 中 |
 | 沖縄信漁連 | 沖縄 | 小 |
-
-> 注: 個別信漁連の正確な区分・管轄 ^[inferred] は要追加検証 ([[JapanFG/jf-shingyoren|jf-shingyoren]] エントリ参照)
 
 ### JF Marine Bank system 内の北海道信漁連の位置付け ^[extracted]
 
@@ -103,8 +95,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 | 2015〜 | **JF Marine Bank Basic Policy** 一体運営強化 ^[extracted] |
 | 2020 年代 | 中国向け水産物輸出停止 (2023〜) への対応 |
 | **2025-04-01** | **10 信漁連体制内で北海道信漁連は最大規模で継続稼働** ^[extracted] |
-
-## 2. 業務 map
 
 ### 4 大機能 (信漁連共通) ^[extracted]
 
@@ -142,32 +132,23 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 - **道信漁連総資産**: 数千億〜1 兆円超規模 (10 信漁連最大)
 - **道信漁連預金**: 数千億円規模
 - **道信漁連職員数**: 100〜200 人規模
-- **道内 JF 数**: 数十組合 (1990 年代ピーク 200 → 統合進行) ^[inferred]
 - **道内漁業者組合員**: 数万人
 
 > 注: 信漁連別 KPI は信漁連 IR + 農林中金公開資料を要参照、上記 ^[ambiguous] は概数
 
-## 3. 系統内位置・戦略
-
 ### 10 信漁連内での北海道信漁連の代表性
 
-- **10 信漁連の中で規模最大** (国内漁業 1/4 を占める北海道経済を反映) ^[inferred]
 - **道域 = 1 信漁連** = 47 都道府県別ではなく **道全域 1 機関**で完結 (北海道の地理的独立性)
-- 隣接県統合の必要なし → **地方信漁連統合トレンドの逆ケース** ^[inferred]
 
 ### 北海道漁業の固有特性と信漁連戦略
 
 - **北方系水産物の独占**: サケ・ホタテ・コンブ・スケトウダラ等は北海道がほぼ全国生産
 - **大規模沖合漁業 + 沿岸 + 養殖**の **多様な業態混在**
-- **季節集中**: サケ漁 (秋)、ホタテ漁 (冬〜春) 等の **季節資金需要**が著しい → 信漁連の **流動性供給機能**が重要 ^[inferred]
-- **輸出依存**: 中国・米国・東南アジア向け輸出が水産物販売の柱 → **国際相場 + 為替リスク**対応の融資商品 ^[inferred]
 
 ### 中国向け輸出停止 (2023〜) の影響 ^[extracted]
 
 - **2023-08 福島第一原発処理水放出を理由とする中国の日本水産物全面禁輸**
 - 北海道のホタテ・サケ・コンブ等の **中国向け輸出が大幅縮小**
-- 道信漁連経由の **代替市場開拓融資** + 緊急運転資金供給が拡大 ^[inferred]
-- **米国・東南アジア・EU 向け輸出転換**支援 ^[inferred]
 
 ### 競合・対照組織 ^[inferred]
 
@@ -179,21 +160,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 | エリア | 北海道全域 | 北海道 + 道外 | 北海道 |
 | 規模 | 1 兆円規模 (推定) | 6 兆円規模 | - |
 
-### システム共同化
-
-- **JF Marine Bank ATM ネットワーク** — 道内 JF + 道信漁連 + [[JapanFG/norinchukin|農林中金]] 共通利用 ^[inferred]
-- 基幹系・勘定系の共同センター運営 (10 信漁連 + 農林中金共同) ^[inferred]
-
 ## 4. KPI (推定)
 
 | 指標 | 値 | 出典 |
 |---|---|---|
 | 道信漁連総資産 | 数千億〜1 兆円超規模 | ^[ambiguous] 道信漁連 IR 要参照 |
 | 道信漁連預金 | 数千億円規模 | ^[ambiguous] |
-| 道信漁連貸出金 | 数百億〜1,000 億円規模 | ^[inferred] |
-| 道内 JF 数 | 数十組合 | ^[inferred] (要追加検証) |
-| 道内漁業就業者組合員 | 約 2 万人 | ^[inferred] |
-| 自己資本比率 | 信漁連基準を維持 | ^[inferred] |
 
 > 注: 10 信漁連全体での詳細 KPI は [[JapanFG/norinchukin|農林中金]] 公開資料 + 各信漁連 IR 要参照
 
@@ -201,7 +173,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 
 - **主管**: 金融庁・北海道財務局 (信用事業健全性) + 農林水産省・水産庁 (協同組合監督) + 北海道庁
 - **法的根拠**: 水産業協同組合法 (信用事業連合会条項)
-- **預金保険**: 農水産業協同組合貯金保険機構経由 (一般金融機関とは別建て) ^[inferred]
 - **直近政策論点**:
   - **中国向け禁輸 (2023〜) 対策** + 代替市場開拓融資
   - **2018 漁業法改正** の運用と漁業権配分の影響
@@ -209,26 +180,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
   - **2024〜農林中金米債損失** の信漁連配当への影響
   - **食料安全保障計画 (2026〜)** での北方系水産物の役割
   - **漁業者高齢化** + 新規就業者支援
-
-## Counterpoints
-
-- **「単独信漁連 vs 統合」**: 道域 1 信漁連体制は規模合理的 vs 統合圧力なし ^[ambiguous]
-- **季節依存リスク**: サケ・ホタテ・コンブの **季節集中**で年内資金繰り変動大、ALM 課題 ^[inferred]
-- **中国市況依存リスク**: 2023〜の中国向け禁輸 → **市場集中リスク** が顕在化 ^[extracted]
-- **漁業生産縮小トレンド**: 1980 年代ピーク → 縮小傾向継続 → 信漁連基盤縮小の **負の螺旋** ^[inferred]
-- **農林中金 2024 米債損失波及**: 中央の損失 → 信漁連への配当縮小 → 道内 JF への配当縮小 → 漁業者への還元縮小 ^[inferred]
-- **新規就業者不足**: 漁業者高齢化 + 後継者不足で **組合員世代交代の懸念** ^[inferred]
-- **2018 漁業法改正**: 漁業権配分の自由化 → 漁協以外の参入余地拡大 → 信漁連の **構造的縮小圧力** ^[extracted]
-
-## Open questions
-
-- **北海道信漁連の最新総資産・預金規模** (2024 / 2025 年度) は?
-- **道内 JF 数の正確なリスト** と組合員数推移は?
-- **中国向け禁輸 (2023〜)** に伴う代替市場開拓融資の実績は?
-- **10 信漁連内での北海道信漁連のシェア** (預金・貸出) は?
-- **2018 漁業法改正後** の道信漁連経営への影響評価は?
-- **食料安全保障計画 (2026〜)** で北方系水産物・道信漁連に求められる新機能は?
-- **農林中金 2024 米債含み損** に対する道信漁連への配当縮小の具体的影響は?
 
 ## Related
 

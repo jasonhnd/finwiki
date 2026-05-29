@@ -43,15 +43,15 @@
   "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [
     "太陽有限責任監査法人 (Grant Thornton Taiyo)",
-    "TL;DR",
     "Wiki route",
     "1. 法人概要",
     "規模（公開ベース概算）^[inferred]",
     "2. 沿革",
-    "3. 金融サービス監査・アドバイザリー実務",
     "IPO 準備支援（最大強み）^[extracted]",
     "VASP / 暗号資産 ^[extracted]",
-    "中堅金融機関"
+    "中堅金融機関",
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4534,
-    "word_like_tokens": 633,
+    "nonspace_chars": 3397,
+    "word_like_tokens": 490,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

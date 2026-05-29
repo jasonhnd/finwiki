@@ -57,12 +57,12 @@
     "Wiki route",
     "TL;DR",
     "1. 部門位置 within JFC",
-    "2. 主要事業 / 商品メニュー",
     "2.1 Loan-product table",
     "2.2 創業融資 — the 新創業融資制度 anchor",
     "2.3 マル経融資 (Marukei Loan) — the 商工会議所 / 商工会 channel",
     "2.4 教育貸付 — the 国の教育ローン anchor",
-    "2.5 セーフティネット and 災害貸付 — the safety lane"
+    "2.5 セーフティネット and 災害貸付 — the safety lane",
+    "Scale of COVID lending"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 22108,
-    "word_like_tokens": 3546,
+    "nonspace_chars": 17008,
+    "word_like_tokens": 2666,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

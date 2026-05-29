@@ -20,7 +20,6 @@ sources:
 
 # 株式会社十八親和銀行 (Eighteenth Shinwa Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-bank|福岡銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -64,18 +63,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 銀行法上の銀行であり、金融庁・財務局監督下。
 - 親会社 FFG は銀行持株会社として監督対象。
 - 同一県内統合は競争政策・地域金融行政の観点で重要な先例。
-
-## Counterpoints
-
-- 県内 2 行統合はコストシナジーが見込める一方、顧客選択肢の低下・店舗統廃合への地域反発が起きやすい。
-- 長崎県は人口減・離島コスト・観光依存が強く、通常の店舗効率改善だけでは限界がある。
-- FFG グループの中で長崎県向け投資が福岡中心戦略に劣後しないかは観察点。
-
-## Open questions
-
-- 十八銀行・親和銀行統合後の店舗削減・システム統合効果はどの程度か。
-- 長崎県内の貸出・預金シェアは合併後どの水準か。
-- みんなの銀行や FFG デジタル基盤を長崎県法人・個人にどう展開しているか。
 
 ## Related
 

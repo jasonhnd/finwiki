@@ -16,7 +16,6 @@ status: candidate
 
 # CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cctp-v2-overview|CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -27,7 +26,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - CCTP V2 は公開チェーン連合(Circle + Arc + 18 チェーン)の清算インフラ ^[extracted]
 - Canton はプライベートチェーン連合(GS + BNY + JPM + DTCC)の清算インフラ ^[extracted]
 - Arc チェーンは CCTP V2 のネイティブホーム、USDC は Arc の gas ^[extracted]
-- §501 入榜は本質的に CCTP attestation ホワイトリスト ^[inferred]
 
 ## Mechanism / How it works
 
@@ -52,19 +50,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 予想される今後 5 年:**公開チェーン路線**(CCTP V2 + Arc + Base + [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]])が暗号ネイティブ + DeFi + 越境リテールを主導;**プライベートチェーン路線**(Canton + JPMD + GS DAP + BNY LiquidityDirect)が機関 collateral management + 大口清算を主導。2 経路は §501 入榜地条項の制約下で、**「米ドルコンプライアンス圏」内部の並列体系を形成**する([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 参照)。
 
-## Counterpoints
-
-公開チェーン路線の弱点:Circle 単独信頼 + 中央集権化リスク + 規制が国家の強制に晒されやすい(OFAC Tornado Cash の事例)。プライベートチェーン路線の弱点:連合ガバナンスコストが高い + リテール/DeFi 入口の欠如 + イノベーション速度が遅い(DAML エコシステムが小さい)。
-
-中長期的には「ハイブリッド路線」が登場する可能性 —— 例えば BlackRock BUIDL が公開チェーンで発行しつつ Canton を経由して機関 wrapper を提供する · あるいは JPMD が Canton 主戦場の傍ら Base 上のリテール接続を保持する など。現時点(2026-Q1)の路線対立は 2027-2028 年の間に軟化する可能性。
-
-## Open questions
-
-- Canton 連合は CCTP V2 と接続する「プライベートチェーン版ブリッジ」をローンチするか?
-- §501 入榜地条項は公開/プライベートチェーンの相互運用を強制するか?
-- 5-10 年視野での 2 経路の市場シェア配分は?
-- Stripe Tempo の路線選択(現時点で未確定)はバランスにどう影響するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -77,4 +62,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 - Circle CCTP V2 — https://developers.circle.com/stablecoins/docs/cctp-getting-started
 - Canton Network (Digital Asset) — https://www.canton.network/
-

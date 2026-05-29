@@ -46,7 +46,7 @@
     "主要子会社・持分",
     "重要年表（抜粋）^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争"
+    "「第 4 のメガバンク構想」（2020〜）"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8934,
-    "word_like_tokens": 1682,
+    "nonspace_chars": 7377,
+    "word_like_tokens": 1397,
     "inbound_wikilinks_count": 44,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

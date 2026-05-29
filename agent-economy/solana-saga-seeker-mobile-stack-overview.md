@@ -15,7 +15,6 @@ status: candidate
 
 # Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/solana-saga-vs-embedded-wallet-os-thesis|Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
@@ -37,19 +36,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 ## Origin & evolution
 
 2022 Solana が Saga 計画を発表 · 同年に Anatoly Yakovenko が SMS コンセプトを公表。2023-Q1 Saga ローンチ · 初期評価は二極化(crypto-native は好評 + mainstream は高すぎると不満)。2024 Saga の販売は約 2 万台にとどまったが · SMS プロトコルは Phantom / Backpack / Solflare に全面採用された。2024-Q4 Seeker 発表 · $450 + 15 万台予約(Saga の 1/10 の販売数から 5 倍の予約数への転換が重要な証明)。2025-Q2 Seeker 量産。2025-2026 Solana Labs が Samsung / Xiaomi に Seed Vault 統合を働きかけ · SMS 標準化を推進。Stripe + Bridge + Solana Pay がマーチャント側で深く統合され · Saga/Seeker がコンシューマ側で閉ループを形成した。
-
-## Counterpoints
-
-- 15 万台 vs Apple 200M iPhone/年 · 実際の規模は依然として極小
-- Seed Vault の標準化ロビイングが成功するかは不確実 · Samsung / Xiaomi は自社 Wallet を選好する可能性も残る
-- 「OS レベル wallet」は規制の視点ではシステムコンポーネントに分類され · 新たなコンプラ課題を引き起こす可能性([[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] のノンカストディウォレット境界画定を参照)
-- Stripe Tap to Pay とは直接競合せず · むしろ補完関係(Saga 消費者側 + Stripe マーチャント側)
-
-## Open questions
-
-- Samsung / Xiaomi / Google は 2027 までに Seed Vault 系ネイティブ keystore を統合するか?
-- iOS は antitrust の圧力で同様の dApp Store を開放するか?
-- Seeker 第 2 世代は $200 まで価格を下げて · 真の mainstream に到達するか?
 
 ## Related
 <!-- wiki-links:managed -->

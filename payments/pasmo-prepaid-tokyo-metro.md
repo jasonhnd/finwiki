@@ -111,13 +111,6 @@ PASMO's strategic logic at the consortium level:
 4. **Inbound tourist** — Mobile PASMO via Apple Pay enables overseas-iPhone users in Tokyo to choose either PASMO or Suica wallet; convergence has favored Suica for tourist defaulting but PASMO retains significant share among non-JR-rail-using tourists.
 5. **Operator-specific co-brand cards** — TOKYU CARD, OPクレジット, Keio Pasport Card, etc. anchor per-operator commuter and loyalty integration without centralizing under one credit-card issuer.
 
-## Counterpoints
-
-- "PASMO is only Tokyo Metro." PASMO covers ~20 rail operators (Tokyo Metro, Toei Subway, plus all major private rails) and the metropolitan bus network — not Tokyo Metro alone.
-- "Suica covers PASMO networks anyway, so PASMO is redundant." Suica is a JR East product; while it works on PASMO-network gates via mutual-use, the **commuter pass (定期券)** must be issued by the operator that owns the rail line, and that constraint is what keeps PASMO sticky for private-rail commuters.
-- "Mobile PASMO came too late." 2020 vs 2016 Mobile Suica is real, but the consortium structure made coordinated mobile launch slower; the catch-up has restored competitive parity.
-- "PASMO is not a real cashless platform." PASMO's third-party-prepaid registration and cross-merchant retail acceptance make it a full PSA-registered prepaid issuer, not a single-operator commuter card.
-
 ## Related
 
 - [[payments/INDEX]]

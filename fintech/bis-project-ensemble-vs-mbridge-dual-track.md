@@ -19,7 +19,6 @@ status: candidate
 
 # HKMA デュアル・トラック戦略 · Ensemble × mBridge
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -33,7 +32,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - mBridge は 2021 立ち上げ、2024.10 BIS 撤退後に PBoC + HKMA が引き継ぎ、商用化済 ^[extracted]
 - Ensemble の範囲 = 香港域内のトークン化香港ドル預金 ^[extracted]
 - mBridge の通貨 = CNY / HKD / THB / AED ^[extracted]
-- 香港は三円 MRA において「実稼働するトークン化インフラ」を持参する唯一の規制当局 ^[inferred]
 - e-HKD（リテール） + Ensemble（機関） + mBridge（クロスボーダー）の 3 ライン並進 ^[extracted]
 
 ## Mechanism / How it works
@@ -55,19 +53,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2017-2020 HKMA とシンガポール MAS はアジア・フィンテック・センター地位を激しく競争していた。2021 HKMA は [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] によりクロスボーダー CBDC コリドー地位を確保（MAS には対応プロジェクトなし）。2024.03 Ensemble 立ち上げ → HKMA は域内サンドボックスの弱点を補完（[[fintech/bis-project-guardian-overview|MAS Guardian]] は 2 年早く立ち上げ）。2024.10 BIS が mBridge から撤退後、HKMA + PBoC が引き継ぎ、mBridge の政治的含意が急増（脱ドル化クロスボーダー決済）。2025-2026 HKMA Stablecoin Ordinance のライセンス発行 → デュアル・トラック戦略と三円 MRA 交渉が同期推進。Anchorpoint（2024.08）の Ensemble 入りは、デュアル・トラックが「フィンテック + 銀行」混合への開放を示すマイルストーン。
 
-## Counterpoints
-
-- デュアル・トラック戦略の前提は mBridge の継続的商用化 — 地政学的圧力で mBridge が実質凍結された場合、香港のクロスボーダー優位は消失する
-- 3 ライン並進（e-HKD + Ensemble + mBridge）はリソースが分散しており、いずれかの失敗が全体物語を毀損する
-- HKMA Stablecoin Ordinance のライセンス進度が市場期待より遅く、stablecoin 大規模本格化の窓を逃す可能性
-- デュアル・トラック物語は G10 諸国における香港の実際の認知度を過大評価している可能性 — 米国規制が接続を拒否する可能性
-
-## Open questions
-
-- BIS 撤退後、mBridge は依然として技術的中立性を維持できるか?
-- HKMA は BIS Agorá と直接相互接続するか?
-- 中国本土が香港を代替してトークン化預金 know-how の輸出地となるか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -78,4 +63,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

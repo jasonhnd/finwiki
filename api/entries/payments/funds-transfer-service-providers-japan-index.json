@@ -46,7 +46,6 @@
     "Boundary",
     "Existing Material Wiki Routes",
     "Promotion Rules",
-    "Open Questions",
     "Related",
     "Sources"
   ],
@@ -132,9 +131,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6359,
-    "word_like_tokens": 946,
+    "nonspace_chars": 6026,
+    "word_like_tokens": 887,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-05-29"
   }
 }

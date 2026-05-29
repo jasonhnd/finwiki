@@ -29,10 +29,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** — 5 大商社の次のレイヤーである **7 大商社の中堅商社** に位置付けられる。Read it against [[JapanFG/marubeni-corp|丸紅]] (5 大商社の中下位、双日との近接ポジション) and [[JapanFG/toyota-tsusho-corp|豊田通商]] (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[JapanFG/sojitz-finance|双日フィナンス]] (内向け CMS、5 大の MCFS / MBFS / 伊藤忠ファイナンス / 丸紅フィナンス / 住友商事FM と同じ group-treasury モデル)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
-## TL;DR
-
-双日 (東証 PRIME **2768**) は **7 大総合商社の一角**、5 大商社の次のレイヤーである **中堅商社の中で 7 大の上位**。**2004 年に ニチメン + 日商岩井 が経営統合して発足** した相対的に若い商社 (ただし両社の歴史は明治期から)。**金属・化学品・エネルギー・インフラ・食料・リテール・航空** で 5 大商社にない独自ニッチを取りつつ、規模は 5 大の 1/3〜1/4 程度。JapanFG 文脈での重要性は (i) [[JapanFG/sojitz-finance|双日フィナンス]] (内向け CMS)、(ii) 5 大商社のような大手 captive リース・asset finance 子会社は持たず、外部リース ([[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]] 等) との取引が中心、にある。^[inferred]
-
 ## 1. 会社概要
 
 | Item | Notes |
@@ -43,11 +39,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | Listing | 東京証券取引所 PRIME 市場、Nagoya 上場含む ^[extracted] |
 | 設立 | 2004 年 4 月 (ニチメン + 日商岩井 経営統合により 双日 ホールディングス 設立、後に事業会社統合) ^[extracted] |
 | 本社 | 東京都千代田区内幸町 ^[extracted] |
-| 連結従業員 | 約 2 万人 (連結) ^[inferred] |
 | 会計基準 | IFRS ^[extracted] |
 | 主要セグメント | 自動車、航空産業・交通プロジェクト、インフラ・ヘルスケア、金属・資源・リサイクル、化学品、生活産業・アグリビジネス、リテール・コンシューマーサービス ^[extracted] |
-| FY 連結収益規模 (約) | 連結純利益 800〜1,200 億円級、5 大商社の 1/3〜1/4 規模 ^[inferred] |
-| 格付 | BBB 〜 A- (S&P / Moody's / R&I)、5 大商社より一段下 ^[inferred] |
 
 ### 主要子会社・関連会社 (JapanFG 文脈)
 
@@ -93,16 +86,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 **5 大商社との比較 — 双日には外向け captive リース・asset finance 大手子会社が不在**:
 - 5 大: [[JapanFG/mitsubishi-corp|三菱]] → [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] (約 20% 持分法)、[[JapanFG/mitsui-co|三井]] → [[JapanFG/ja-mitsui-leasing|JA三井リース]] (約 33%)、[[JapanFG/itochu-corp|伊藤忠]] → [[JapanFG/tokyo-century|東京センチュリー]] (約 25%)、[[JapanFG/sumitomo-corp|住友]] → [[JapanFG/smfl|SMFL]] (50% JV with SMFG)、[[JapanFG/marubeni-corp|丸紅]] → [[JapanFG/mizuho-lease|みずほリース]] (約 20%、2024〜)
-- 双日: **外向け captive リース不在**、外部リース ([[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]]) との取引で資金繰り・資産入替を行う「資産持たない商社」モデル ^[inferred]
-
-これは双日の規模 (5 大の 1/3〜1/4) では大手リース子会社を持つ資本効率がペイしないため、敢えて持たない戦略とも解釈できる ^[inferred]
 
 加えて、**双日のメインバンク**:
 - 旧 ニチメン 系 → [[JapanFG/mizuho-fg|みずほ FG]] (旧 富士銀・興銀系)
 - 旧 日商岩井 系 → [[JapanFG/mufg|MUFG]] (旧 三和銀行系・旧 東京三菱) + [[JapanFG/smfg|SMFG]]
-- 統合後 双日 = みずほ寄り、MUFG / SMFG とも取引 ^[inferred]
-
-## 4. 戦略与競争
 
 ### 7 大商社内の identity
 
@@ -125,18 +112,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 ## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 ^[extracted]
-- **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業対象 ^[inferred]
-- **会社法**: 東証 PRIME 上場、コーポレートガバナンス・コード適用、社外取締役過半数 ^[inferred]
-- **航空規制**: 旅客機ディーラー業務は各国航空法・輸出規制 (EAR / ITAR) 対象 ^[inferred]
-- **資源規制**: 石炭縮小圧力 (GX 政策)、各国鉱業法 ^[inferred]
 
 ## 6. Counterpoints
 
-- **「規模の壁」**: 5 大商社の 1/3〜1/4 規模、規模効果で 5 大商社にキャッチアップする道筋が見えにくい ^[inferred]
-- **「外向け captive リース不在」**: 5 大商社のような asset finance プラットフォーム (リース子会社) を持たないため、資産入替・資金繰りで外部リース依存 ^[inferred]
 - **「ニチメン + 日商岩井 統合の長期効果」**: 2004 統合から 20 年経過、収益体質改善は実現したが 5 大商社のような大型 M&A・global 展開には至らず ^[ambiguous]
-- **「格付の壁」**: 5 大商社が A 格上位なのに対し、双日は BBB 〜 A-、調達コスト・global 案件参入で格付差が機能する ^[inferred]
-- **「Berkshire 効果の限定性」**: Berkshire は 5 大商社 にのみ買い、双日は対象外 → 中堅商社のリレーティング機会限定 ^[inferred]
 
 ## 7. Open questions
 

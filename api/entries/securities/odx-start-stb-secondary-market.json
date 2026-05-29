@@ -114,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15200,
-    "word_like_tokens": 2414,
+    "nonspace_chars": 13821,
+    "word_like_tokens": 2174,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

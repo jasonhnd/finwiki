@@ -16,7 +16,6 @@ sources:
 
 # 株式会社京葉銀行
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -46,8 +45,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 店舗網 | 千葉県内中心 + 東京一部 = 100 店舗超 |
 | 従業員 | 約 2,000 名規模 |
 
-> 詳細な FY2024 連結数値（純利益・自己資本比率・OHR）は公式有価証券報告書・ディスクロージャー誌を参照。本ノートは構造把握が目的のため概数で記載。^[inferred]
-
 ### 沿革（抜粋）
 
 | 年月 | 事象 |
@@ -69,8 +66,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 預金・資産形成 | 円定期・投信・個人年金 | 千葉県内個人預金の安定基盤 |
 | 国際 | 為替・貿易金融 | 規模は限定的、コルレス経由が中心 |
 | 系列・関連 | けいぎん総合リース、けいぎんカードサービス、けいぎんビジネスサービス 等 | 地域密着型のグループ会社 |
-
-## 3. 戦略・競争
 
 ### 千葉県内市場構造
 
@@ -119,21 +114,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2025〜 千葉県内人口動態（千葉市・船橋市は流入超、内房・外房は流出）→ 店舗再編圧力
   - **千葉県内 3 行併存** の将来：千葉銀・千葉興業（旧みずほ系）との再編憶測は過去複数回浮上したが具体的進展は未確認 ^[ambiguous]
   - 個人ローン領域での **ネット銀行・流通系銀行（[[paypay-fg]]・楽天銀・住信 SBI）からの侵食** → リテール DX 課題
-
-## Counterpoints
-
-- 「独立路線の持続性」: TSUBASA 未参加・独自路線は経営自由度を保つが、システム投資の規模デメリットを抱える。デジタル化負担増で広域連携必要性は中長期で上昇傾向 ^[inferred]
-- 「京葉地区集中リスク」: 京葉工業地帯（石油化学・鉄鋼）の構造転換リスク、千葉県内人口の二極化（千葉市圏 vs 内外房）→ 地域分散の薄さがダウンサイド ^[inferred]
-- 「第二地銀の中での位置」: 預金・総資産では第二地銀協内で上位グループ。第二地銀協自体が縮小傾向（合併・第一地銀転換）にあり、業界団体としての影響力低下が背景 ^[inferred]
-- 「千葉銀との関係」: 競合一辺倒ではなく、第二地銀協と全銀協の役割分担、ATM 提携など個別領域では協調も存在 ^[ambiguous]
-
-## Open questions
-
-- FY2024 連結純利益・自己資本比率・OHR の実数値（公式有報・ディスクロージャー誌で要確認）
-- TSUBASA アライアンス参加可能性（過去に打診・拒否のいずれかが報じられているか未確認）
-- [[chiba-kogyo-bank]] との再編シナリオの現実味（千葉県内 3 行 → 2 行への業界圧力）
-- リテール DX（スマホアプリ・カードローン非対面化）の進捗 — ネット銀・流通系銀との競争で要件化
-- 千葉県内人口動態変化（千葉市・船橋増 vs 内外房減）への店舗網最適化
 
 ## Related
 

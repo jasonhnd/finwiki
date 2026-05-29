@@ -41,8 +41,6 @@ sources:
 7. **Open questions** — 未回答の問い
 8. **Related / Sources** — 交差引用 + 公開ソース
 
-証拠標注: `^[extracted]`（公開事実）/ `^[inferred]`（推論）/ `^[ambiguous]`（両論あり）/ `^[forecast]`（予測）。
-
 ---
 
 ## Cross-cutting overview
@@ -1228,16 +1226,3 @@ Wave 5 closes two coverage gaps simultaneously — (i) a non-life insurer regist
 - [[finance/japan-mbo-and-squeeze-out-process]] / [[finance/japan-large-shareholding-disclosure]] — public-company control and disclosure routes
 - [[JapanFG/nonlife-insurer-registry-japan-index]] — FSA non-life insurer registry route (Wave 5)
 - [[JapanFG/chibagin-securities]] / [[JapanFG/chibagin-leasing]] / [[JapanFG/yamaguchi-leasing]] / [[JapanFG/iyogin-leasing]] / [[JapanFG/shizugin-card]] — regional FG securities / leasing / card subsidiary anchors (Wave 5)
-
-## Open questions
-
-- 個別銀行 (持株会社化していない地銀: 千葉銀 / 群馬銀 / 八十二銀 / スルガ銀 / 七十七銀 等) も namespace に含めるべきか?
-- 信用金庫 / 信用組合 / 労金 / JA / JF の long-tail 個別 pages は、registry index / system page 以上に戦略的理由がある場合だけ追加する。
-- Fintech 独立創業系の追加 (NP 後払い / Liquid Group / Kyash / みんかぶ 等) はどうするか?
-- Foreign-bank branch P0 / P1 Korea-Taiwan-China / P2 strategic exceptions / P3 corridor anchors / P4 registry-only closure と 57-row registry index は完了し、57 / 57 rows が standalone / umbrella route を持つ。Trust-company priority A / B / C も standalone 化済みで、38 / 38 rows が standalone / existing group route を持つ。FIEA 1,945-row registry index, securities license stack, foreign-bank branch / agency / adjacent-license routes, prepaid 803-row registry index, funds-transfer 83-row registry index, METI credit / card registry index, Trust-company 38-row registry index, JA Bank system / JF Marine Bank system, and policy-finance public-credit adjacency も system route に分離済み。今後の standalone は strategic exception のみにする。
-- 大手証券: 三菱 UFJ モルガン・スタンレー証券 [[mufg]] 内 vs 独立 entry にする?
-
----
-
-> [!info] Source-of-truth
-> 本 INDEX は wiki/JapanFG/ namespace 唯一権威 entry tracker。新規 / 完成 entity 時に本表更新。命名 / 模板変更は本ファイルへの反映必須。**451 entity entries plus INDEX / legal-license / registry / backlog control surfaces** が現状 (2026-05-23)。JA Bank system and JF Marine Bank system are routed through [[banking/ja-bank-system-japan]] / [[banking/jf-marine-bank-system-japan]] rather than counted as JapanFG entities. Insurance license / solvency, BaaS, custody, MBO, and large-shareholding pages are control-route pages rather than JapanFG entity entries. P3 graph-repair placeholders have been resolved; future work focuses on KPI precision, report/PDF precision, non-life registry / foreign reinsurer mapping, and source URL drift QA.

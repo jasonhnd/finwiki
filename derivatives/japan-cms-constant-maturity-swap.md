@@ -137,22 +137,6 @@ The JPY CMS market is materially smaller than the EUR CMS market (where curve-st
 
 JPY CMS is predominantly bilateral. JSCC has not extended clearing scope to CMS as broadly as it has to vanilla IRS; non-cleared CMS trades are subject to UMR Phase IM requirements for in-scope counterparties and standard CSA collateralization.
 
-## Counterpoints
-
-- "CMS is just a complicated IRS" — No. The convexity adjustment is mathematically and economically distinct; vol-surface sensitivity is real.
-- "JPY CMS products are dead in a flat curve" — Episodic. CMS-spread products in particular regain interest when curve-shape views become trade-worthy.
-- "CMS pricing is too complex for accurate dealer pricing" — Closed-form approximations and multi-factor model approaches are well-established; dealer pricing differences exist but are bounded by IDB and dealer-to-dealer benchmarking.
-- "Retail CMS notes are inappropriate complex products" — Regulatory framework (FIEA + JSDA self-regulation) governs distribution; CMS products are typically sold to qualified institutional investors and HNW retail with disclosure documentation; pure-retail mass distribution is limited.
-- "CMS-spread correlation is observable in the market" — Partially. It can be back-solved from option prices and historical data, but correlation regimes shift; mispricing is a real dealer risk.
-
-## Open Questions
-
-- How does the post-2024 BoJ-normalization curve shape (steepening from low base) affect JPY CMS product appetite?
-- Will JPY CMS-spread structured-note volumes grow if the curve presents persistent steepness opportunities?
-- What is the right correlation framework for pricing JPY CMS-spread in a regime-changing rate environment?
-- Will JSCC extend clearing scope to CMS in the medium term?
-- How does the dealer franchise economics in JPY CMS compare with vanilla IRS, and is the structured-product margin sustainable?
-
 ## Related
 
 - [[derivatives/INDEX]]

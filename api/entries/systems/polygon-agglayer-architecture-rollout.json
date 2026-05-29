@@ -62,21 +62,17 @@
     "Polygon の RWA / 機関シナリオでの位置"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
-      "agent-economy/INDEX",
-      "agent-economy/x402-cloudflare-aws-edge-integration",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "systems/INDEX",
       "systems/canton-overview",
       "systems/chain-abstraction-pattern-overview",
-      "systems/chain-abstraction-pattern-three-solutions",
       "systems/chainlink-ccip-institutional-messaging",
       "systems/chainlink-ccip-institutional-messaging\\",
       "systems/cross-chain-five-pole-comparison-matrix",
       "systems/eigenlayer-overview",
-      "systems/erc-4337-embedded-wallet-adoption",
       "systems/hyperlane-overview",
       "systems/hyperlane-overview\\",
       "systems/hyperledger-besu-overview",
@@ -86,18 +82,14 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/INDEX",
-      "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-overview",
       "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions",
       "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
       "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging\\",
       "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
       "https://finwiki.zksc.io/systems/eigenlayer-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption",
       "https://finwiki.zksc.io/systems/hyperlane-overview",
       "https://finwiki.zksc.io/systems/hyperlane-overview\\",
       "https://finwiki.zksc.io/systems/hyperledger-besu-overview",
@@ -109,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10931,
-    "word_like_tokens": 1734,
+    "nonspace_chars": 9683,
+    "word_like_tokens": 1546,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

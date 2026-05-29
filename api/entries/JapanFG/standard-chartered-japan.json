@@ -47,8 +47,8 @@
     "主要法人（日本関連）",
     "2. 沿革",
     "3. 事業セグメント・マップ（日本拠点）",
-    "4. 戦略・競争",
-    "親会社 PLC のユニーク・ポジション"
+    "親会社 PLC のユニーク・ポジション",
+    "日本での競争・棲み分け"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4561,
-    "word_like_tokens": 584,
+    "nonspace_chars": 3555,
+    "word_like_tokens": 465,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -48,27 +48,25 @@
   "headings": [
     "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)",
     "Wiki route",
-    "TL;DR",
     "1. 法人概要",
-    "2. 営業地区・組合員資格",
     "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "愛知県信組ブロック (registry比較)",
-    "3. 系統内位置・商銀系ネットワーク",
-    "全信組連内の位置付け"
+    "全信組連内の位置付け",
+    "商銀系信用組合ネットワーク ^[inferred]",
+    "商銀系信組の歴史的背景 ^[extracted]",
+    "主要業務 ^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aichi-bank",
       "JapanFG/aichi-fg",
       "JapanFG/dic",
-      "JapanFG/mizuho-fg",
       "JapanFG/mufg",
       "JapanFG/nagoya-bank",
       "JapanFG/osaka-shogin-shinkumi",
-      "JapanFG/smbc",
       "JapanFG/yokohama-kogin-shinkumi",
       "JapanFG/zenshin-kumi",
       "banking/cooperative-banking-japan",
@@ -79,11 +77,9 @@
       "https://finwiki.zksc.io/JapanFG/aichi-bank",
       "https://finwiki.zksc.io/JapanFG/aichi-fg",
       "https://finwiki.zksc.io/JapanFG/dic",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/nagoya-bank",
       "https://finwiki.zksc.io/JapanFG/osaka-shogin-shinkumi",
-      "https://finwiki.zksc.io/JapanFG/smbc",
       "https://finwiki.zksc.io/JapanFG/yokohama-kogin-shinkumi",
       "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -93,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5732,
-    "word_like_tokens": 743,
+    "nonspace_chars": 4516,
+    "word_like_tokens": 595,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

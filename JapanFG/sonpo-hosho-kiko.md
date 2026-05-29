@@ -52,7 +52,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2002-06 | 保険業法改正 → 政府補助金特例措置の延長・拡充 |
 | 2010-04 | 自然災害多発局面での負担金体系見直し |
 | 2011-03 | 東日本大震災 → 地震保険再保険スキームと相互補完論議 |
-| 2020〜 | コロナ・気候関連リスク・サイバー保険拡大に応じた負担金・保護水準論議 ^[inferred] |
 | 2024〜 | 中堅損保の経営統合議論と機構財政の安定性 |
 
 ## 2. 業務スキーム
@@ -115,7 +114,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 米 **NAIC** ガイドライン下の **State Guaranty Fund** 制度に近いが、日本は単一全国機構（米は州ごと）
 - 英 **FSCS（Financial Services Compensation Scheme）** が銀行・保険を一本化しているのに対し、日本は預保・生保機構・損保機構が分立
-- **直近論点** ^[inferred]:
   - 気候関連リスク（自然災害頻発・激甚化）下の負担金体系見直し
   - サイバー保険・ペット保険等の新種保険拡大に応じた補償スキーム整備
   - 損保会社経営統合進展による会員数減少と財政基盤論議

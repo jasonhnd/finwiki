@@ -48,18 +48,6 @@ For FinWiki, Netstars is the specialist route for QR gateway aggregation, not a 
 
 [[payments/japan-code-payment-competitive-map|Japan code-payment competition]] is not only a fight among consumer apps. Merchant acceptance is mediated by gateways and PSPs such as Netstars, [[JapanFG/gmo-payment-gateway|GMO-PG]], [[JapanFG/sb-payment-service|SB Payment Service]], and [[JapanFG/dg-financial-technology|DGFT]]. Netstars deserves a standalone page because QR aggregation changes distribution power at the store edge.
 
-## Counterpoints
-
-- A gateway can be deeply embedded in merchant operations without owning the consumer wallet relationship.
-- Public sources show registrations and product positioning, but do not disclose detailed take rates, merchant churn, reserves, or brand-by-brand settlement economics.
-- Code-payment gateway differentiation can compress if large wallets push direct merchant contracts or if card PSPs absorb QR acceptance.
-
-## Open Questions
-
-- How much StarPay volume is domestic QR, inbound QR, card, online, or stablecoin-adjacent payment?
-- How does Netstars allocate merchant settlement, fraud, and chargeback responsibility relative to payment brands and acquirers?
-- Which StarPay-X / stablecoin initiatives is routed to [[fintech/japan-stablecoin-regulatory-landscape|stablecoin regulation]] versus the PSP page?
-
 ## Related
 
 - [[payments/INDEX]]

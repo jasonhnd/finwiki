@@ -120,8 +120,6 @@ The 2024-2025 tax framework now treats crypto with clearer rules:
 
 The inflation-adjusted capital-gains calculation is critical for Argentine taxpayers: a USDT held against ARS doesn't trigger massive nominal "gains" merely because ARS depreciated. This reform aligns Argentine crypto tax treatment with sane principles.
 
-## Regional spillover — Uruguay, Paraguay, Chile
-
 ### Uruguay
 
 BCU (Banco Central del Uruguay) has historically been cautious. The 2023-2024 Uruguayan crypto framework prioritized bank stability over crypto growth. Uruguay does **not** have a USDT-saturated household economy — the peso (UYU) is comparatively stable and Uruguayans have traditional bank dollarization options. However:
@@ -154,28 +152,6 @@ The Argentine 2024-2026 update tests:
 3. **Does the savings function persist?** → Yes. Even with stabilizing ARS, USDT remains attractive as a savings vehicle for Argentines who lived through hyperinflation. Behavioral persistence is strong.
 4. **Does the regional corridor function persist?** → Partially. Argentina-Uruguay tourism-flow USDT is smaller. Argentina-Paraguay mining/savings flow grows.
 5. **Does Argentina become a template for other EMs?** → Watching. Turkey, Egypt, Nigeria all have similar shadow-dollarization patterns; their political economies are less convergent with Milei's, but the technical PSAV-style framework is portable.
-
-## Counterpoints
-
-- **The Milei reform durability is politically uncertain** — a future opposition government could re-impose capital controls and reverse PSAV. The 2024-2025 reforms are statutory but not constitutional; a sufficient political shift could unwind significant portions.
-- **USDT demand persistence ≠ healthy** — even if USDT remains dominant, this represents continued Argentine household USD-savings preference, which from a national-currency-credibility standpoint is a structural failure.
-- **Tax-amnesty-driven declared volume is one-time** — the 2024-2025 amnesty cannot repeat; future formal-sector growth depends on organic on-ramping.
-- **PSAV is AML-focused, not consumer-protection-focused** — Argentine retail crypto users still bear high counterparty risk for non-Big-5 platforms.
-- **Tether USDT concentration risk** — formalizing Argentine crypto on USDT structurally makes Argentina's "USD savings layer" dependent on Tether's reserve quality (see [[fintech/tether-business-model-short-treasury-yield|Tether ビジネスモデル]]). Any Tether crisis would impact Argentine households disproportionately.
-- **The IMF Article IV view** — IMF has tepidly endorsed the Milei reforms but flagged crypto-dollarization as a monetary-policy transmission impediment. If BCRA tries to use rate policy to manage inflation, USDT-saved households are less responsive.
-- **USDC and other compliant stablecoins underweight** — USDC requires KYC-banking onramp which Argentine retail users have less of; this is the reason USDT continues to dominate even post-formalization.
-
-## Open questions
-
-- Does the next political cycle (2027 Argentine election) re-impose capital controls?
-- Does USDC formal-onramp infrastructure in Argentina grow enough to compete with USDT?
-- Does Tether comply with PSAV-equivalent registration as a foreign issuer serving Argentina?
-- Does Argentina's formalized framework become the template for Turkey's lira-USDT crisis or Egypt's pound-USDT pattern?
-- Does Uruguay enact a crypto law in 2026-2027 that creates a more competitive Southern Cone framework?
-- Does Paraguay's mining-friendly position attract Argentine miners relocating?
-- Does BCRA add a wholesale CBDC eARS in the medium term, and how does it interact with the dollar-stablecoin layer (compare [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]])?
-- Does Argentina join any BIS multilateral initiative (Agora is unlikely given peso non-G7 status; mBridge possible but politically fraught under Milei)?
-- Does the formal-sector share trajectory continue (70%+) toward 90%+ by 2028?
 
 ## Related
 

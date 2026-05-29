@@ -21,10 +21,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jcb|JCB]] for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
-## TL;DR
-
-アメリカン・エキスプレス・インターナショナル日本支店は、米 American Express Company (NYSE:AXP) の **日本支店 (branch)** として直接 issuer + 加盟店契約 + ブランドの 3 機能を内製する **典型的 3-party scheme operator**。Visa / Mastercard が他社にブランド供与する 4-party モデルなのに対し、Amex は「自社カード」を「自社加盟店」で使う構造が原則。日本では富裕層・法人向けプレミアム商品 (プラチナ・ゴールド・センチュリオン等) で強いブランドポジションを保持し、加盟店手数料も他ブランドより高めに設定される傾向 ^[inferred]。1989 年に [[JapanFG/jcb|JCB]] と業務提携し国際決済を補完してきた歴史がある一方、近年は **国内提携カード発行** ([[JapanFG/mufg-nicos|三菱UFJニコス]]・セゾン等との提携) で 4-party 的な要素も混在。
-
 ## 1. License / group boundary
 
 | Item | Notes |

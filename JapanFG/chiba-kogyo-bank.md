@@ -16,7 +16,6 @@ sources:
 
 # 千葉興業銀行 (Chiba Kogyo Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -53,8 +52,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | みずほ銀行 / [[mizuho-fg]] 関連 | 約 20-30% ^[ambiguous] |
 | 信託口・一般株主 | 残余 |
 
-> [[mizuho-fg]]（旧 第一勧銀 + 富士銀行系）の戦略株主としての保有比率は公開資料で時期により変動 — 1991 経営悪化局面で系列入りした経緯から、戦略的安定株主として長期保有 ^[inferred]。
-
 ### 主要子会社・関連会社（公開）
 
 ```
@@ -64,8 +61,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── その他関連子会社 ── カード/保証等 ^[ambiguous]
 ```
 
-> 持株会社化していないため、関連会社は銀行直下にぶら下がる構造 ^[inferred]。グループ規模は [[chiba-bank]] と比較して小さい。
-
 ### 前身・統合歴史
 
 - **1952-01-18** 千葉商工信用組合 設立
@@ -73,7 +68,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **1969** 普通銀行転換 → 千葉商工銀行
 - **1973** 千葉興業銀行 改称（現社名）
 - **1991 頃** 経営悪化局面 → 公的資金注入論議 / 旧第一勧銀・富士銀行系（現 [[mizuho-fg]]）の戦略株主受け入れ ^[ambiguous]
-- **2000 年代** [[mizuho-fg]] 発足（2000-09 みずほ HD、2003-01 みずほ FG）に伴いみずほ系第二地銀として位置づけ確立 ^[inferred]
 - **2024** 中期経営計画 策定 ^[ambiguous]
 
 ### 重要年表（抜粋）^[extracted]
@@ -98,16 +92,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人預金・住宅ローン | 千葉興業銀行（本体）| 千葉県内 No.2、ローカル支店網 |
 | リース | ちば興銀リース | 法人向け |
 | カード/保証 | グループ関連会社 ^[ambiguous] | 地銀標準ライン |
-| ホールセール紹介 | [[mizuho-fg]] 連携 ^[inferred] | みずほの大企業 IB 機能をリファラル活用 |
-
-## 3. 戦略・競争
 
 ### 戦略ポジション
 
 - **千葉県地盤・県内 No.2**: No.1 [[chiba-bank]] とはシェア差が大きいが、第二地銀として中小企業層に密着
-- **中小企業特化**: 大企業 main bank は [[chiba-bank]] や [[mizuho-fg]] / [[mufg]] / [[smfg]] が優位 → ちば興銀は中小・地場企業層に特化 ^[inferred]
-- **[[mizuho-fg]] とのシナジー**: 戦略株主との連携で、大企業向け IB / 海外 / 投資銀行業務をみずほ側にリファラル、対価として安定的な取引基盤を確保 ^[inferred]
-- **持株会社化未実施**: 経営の柔軟性・コスト低減を優先、第二地銀規模では HD 化のメリットが薄い ^[inferred]
 
 ### デジタル戦略
 
@@ -127,8 +115,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### ホールディング非実施戦略
 
-- **メリット**: 経営の柔軟性、HD オーバーヘッドコスト回避、第二地銀規模で HD 化のスケールメリット限定的 ^[inferred]
-- **デメリット**: 資本効率・グループ全体最適化が劣後する可能性、再編圧力下での独立性維持リスク ^[inferred]
 - **代替**: [[mizuho-fg]] 戦略株主との緩やかな提携で資本・ノウハウを補完
 
 ## 4. 規制・政策
@@ -139,23 +125,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 地銀の金利マージン改善ボーナス（第二地銀も恩恵）
   - 2024〜 地銀再編圧力（金融庁の統合促進政策）— 千葉興業の単独路線継続可否
   - 千葉県内人口動態（高齢化・都市部移動）の経営影響
-
-## Counterpoints
-
-- 「みずほ系列入りの実質的意味」観: 戦略株主 20-30% は安定株主だが、経営統合や子会社化には至っていない — 中長期での吸収シナリオは ambiguous ^[ambiguous]
-- 「千葉県内 No.2 の限界」: [[chiba-bank]] とのシェア差が大きく、追随戦略の現実性に疑問 — 中小企業ニッチ特化が現実解 ^[inferred]
-- 「単独維持の中長期可能性」: 第二地銀の中で人口減・地銀再編圧力下、単独維持は中長期的に困難という見方 ^[inferred]
-- 「持株会社化未実施」: 第二地銀規模では HD コストが見合わない → 単独維持が合理的、但し再編時の機動性は劣後 ^[ambiguous]
-- 「みずほとの距離感」: 戦略株主だが完全子会社化されず半世紀以上経過 → 中途半端な位置づけと見るか、独立性確保と見るか両論 ^[ambiguous]
-
-## Open questions
-
-- [[mizuho-fg]] による持株比率の正確な値と推移
-- 預金・総資産・純利益の具体数値（最新決算短信）
-- 2024 中期経営計画の数値目標・KPI
-- 千葉県内第二地銀（京葉銀行・千葉興業）の再編シナリオ可能性
-- [[mizuho-fg]] による完全子会社化・経営統合の可能性（半世紀の戦略株主関係を考えると顕在化要因が必要）
-- TSUBASA アライアンス（[[chiba-bank]] 主導）への参加可能性（現状非参加）^[inferred]
 
 ## Related
 

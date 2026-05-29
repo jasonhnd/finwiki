@@ -57,7 +57,7 @@
     "SUAVE — what it is trying to be",
     "Order-Flow Auctions (OFAs) for users / agents",
     "L2 / rollup MEV implications",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7412,
-    "word_like_tokens": 1129,
+    "nonspace_chars": 6363,
+    "word_like_tokens": 973,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

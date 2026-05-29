@@ -44,12 +44,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (c
 ## Key facts
 
 - **8 極構造の収斂**: 2017 (日本 FSA 登録制) → 2020 (シンガポール PSA) → 2021 (韓国特金法) → 2023 (香港 VATP / UK FCA promotion 強化) → 2024 (EU MiCA CASP 完全施行) → 2024-2025 (UAE VARA 完全運用) と 8 年で世界主要 8 極が VASP 法体系を整備完了 ^[extracted]
-- **二極の構造的対比**: 統合型 (EU passporting 1 ライセンス・日本 FSA 単一登録・韓国 FIU 単一) vs フラグメント型 (米国連邦 + 50 州 + NY BitLicense) ^[inferred]
 - **コールド保管比率の世界最厳は香港 (98%)**、次に日本 JVCEA 自主規制 (95%) ^[extracted]
-- **MiCA passporting** の存在で、EU は 27 ヵ国に 1 ライセンスでアクセス可能。これに対し米国は全米展開で最大 ~50 州 MTL + BitLicense + FinCEN MSB の組み合わせが必要で構造的非対称 ^[inferred]
-- **ステーブルコイン規制の分離**: 8 極全てで VASP 規制とステーブルコイン規制は別 framework として併存 (詳細は [[fintech/global-stablecoin-regulatory-five-pole-matrix]]) ^[inferred]
-
-## 1. 主要 13 軸 マトリクス
 
 ### A. 法源・規制当局・施行時期
 
@@ -193,8 +188,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (c
 - **UAE**: DIFC は VARA 管轄外 (DFSA 単独)、ADGM は FSRA 独立 (UAE 内で 3 系統併存)
 - **英国**: MLR 登録は AML 義務のみ、市場行為規制は FSMA に依存 (二段階構造)
 
-## 2. 系統別の構造的特徴
-
 ### 統合型 (single-passport regime)
 
 - **EU MiCA**: 1 ライセンス → 27 ヵ国 passporting (世界最広域)
@@ -219,21 +212,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (c
 - **UAE VARA** の低法人税 + フルスタックライセンス + リテール解禁が「グローバル信認の floor」を提供 → Bybit / OKX / Crypto.com の本社移転トレンド
 - **APAC 三都市分業**: シンガポール (機関志向) / 香港 (リテール解禁・大型銘柄限定) / 日本 (リテール許容・ホワイトリスト厳格) の役割分担が固定化
 - **米国 GENIUS Act 2025** + **OCC Trust 経路**で米国は世界最大のステーブルコイン発行 hub に再上昇 (Circle / Paxos / OCC 経由 USD bank)
-
-## Counterpoints
-
-- 統合型 (EU) は passporting で広域カバーするが、NCA 間の運用差異が実態として temporary fragmentation を生む (Luxembourg vs France の審査スピード差)
-- フラグメント型 (米国) は規制コストが高いが、州競争で innovation hub が育つ (Wyoming SPDI / NY BitLicense ・ OCC Trust の選択肢)
-- 自主規制 (JVCEA・日本) と公的規制の二層は監督効率高いが、業界協会の deliberation スピードが遅延要因にもなる
-- UAE VARA の柔軟さは新興市場には有利だが、長期的に AML/CFT 信頼の蓄積が不足する懸念 (FATF レビュー対応の依存)
-
-## Open questions
-
-- MiCA passporting の実運用で、各 NCA の supervisory convergence がどこまで進むか (ESMA Q&A の蓄積速度)
-- 米国 CLARITY Act / FIT21 が成立した場合、SEC/CFTC 管轄が明文化されることで州 MTL の存在意義が再定義されるか
-- 韓国 2 段階目 (ステーブルコイン規制 + 法人投資解禁) が 2026 中に立法されるか、米国 GENIUS Act との整合度
-- UAE と他極の equivalence / MoU 締結が今後どこまで進むか (現状は限定的、JFSA-VARA MoU 2024 段階)
-- 英国の FSMA 拡張で UK が EU MiCA との互換性をどこまで確保し、passporting 復活議論につながるか
 
 ## Related
 

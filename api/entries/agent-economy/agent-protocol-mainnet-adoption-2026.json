@@ -51,16 +51,16 @@
     "Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot",
     "TL;DR",
     "Wiki route",
-    "Protocol-by-protocol mainnet status",
     "x402 — Cloudflare + AWS edge live (PRODUCTION)",
     "AP2 — Google + 60+ partners (CONSORTIUM-LIVE, sparse production)",
     "ERC-7715 — testnet-mature, mainnet-partial (TESTNET → MAINNET ROLLING)",
     "ERC-4337 — mature mainnet (PRODUCTION, T+4 years)",
     "ERC-7702 — Pectra-shipped to mainnet (PRODUCTION, T+1 year)",
-    "Agent SDK integration matrix"
+    "Agent SDK integration matrix",
+    "Production deployment patterns"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -73,7 +73,6 @@
       "agent-economy/erc-7715-overview",
       "agent-economy/x402-cloudflare-aws-edge-integration",
       "agent-economy/x402-http-payment-overview",
-      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "systems/erc-4337-overview",
       "systems/erc-7702-overview"
     ],
@@ -89,7 +88,6 @@
       "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
       "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
       "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "https://finwiki.zksc.io/systems/erc-4337-overview",
       "https://finwiki.zksc.io/systems/erc-7702-overview"
     ],
@@ -97,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18965,
-    "word_like_tokens": 3192,
+    "nonspace_chars": 17082,
+    "word_like_tokens": 2861,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

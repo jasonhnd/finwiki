@@ -44,28 +44,22 @@
     "主要子会社",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "競争ポジション",
-    "アライアンス・パートナーズグループとの連携"
+    "アライアンス・パートナーズグループとの連携",
+    "中計（2024）"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/daiwa-sg",
       "JapanFG/matsui-sec",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg-mums",
       "JapanFG/nomura-hd",
       "JapanFG/okasan-sg",
-      "JapanFG/rakuten-securities",
       "mizuho-fg",
-      "monex-group",
       "mufg",
       "nomura-hd",
-      "sbi-hd",
       "securities/INDEX",
-      "smbc-nikko",
       "smfg",
       "tokai-tokyo-fh"
     ],
@@ -73,18 +67,12 @@
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/daiwa-sg",
       "https://finwiki.zksc.io/JapanFG/matsui-sec",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg-mums",
       "https://finwiki.zksc.io/JapanFG/nomura-hd",
       "https://finwiki.zksc.io/JapanFG/okasan-sg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
       "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/monex-group",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nomura-hd",
-      "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smbc-nikko",
       "https://finwiki.zksc.io/smfg",
       "https://finwiki.zksc.io/tokai-tokyo-fh"
     ],
@@ -92,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3523,
-    "word_like_tokens": 467,
+    "nonspace_chars": 2173,
+    "word_like_tokens": 315,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

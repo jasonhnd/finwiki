@@ -52,12 +52,11 @@
     "2. Business role",
     "3. Why this standalone page matters",
     "4. 規制・政策",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aplus",
@@ -68,7 +67,6 @@
       "JapanFG/merpay",
       "JapanFG/orico",
       "JapanFG/paidy",
-      "ndfg",
       "payments/credit-purchase-card-operators-japan-index",
       "payments/japan-bnpl-credit-purchase-boundary",
       "payments/japan-payment-scheme-economics-matrix"
@@ -83,7 +81,6 @@
       "https://finwiki.zksc.io/JapanFG/merpay",
       "https://finwiki.zksc.io/JapanFG/orico",
       "https://finwiki.zksc.io/JapanFG/paidy",
-      "https://finwiki.zksc.io/ndfg",
       "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
       "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
       "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
@@ -92,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4457,
-    "word_like_tokens": 650,
+    "nonspace_chars": 3506,
+    "word_like_tokens": 524,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

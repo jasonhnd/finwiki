@@ -58,9 +58,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2003 | 保険業法改正 → **予定利率引下げ制度** 導入（破綻前更生スキーム） |
 | **2008-10** | **[[JapanFG/yamato-life|大和生命]] 破綻**（リーマンショックの煽り） → プルデンシャル系承継 |
 | 2020〜 | コロナ・低金利長期化に伴う生保財政論議継続 |
-| 2024〜 | 高予定利率（バブル期 5-6% 予定利率）負債のラン・オフ最終段階 ^[inferred] |
-
-## 2. 補償の仕組み
 
 ### 補償水準（基本ルール）
 
@@ -76,8 +73,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 「保険金額の 90%」ではなく**責任準備金の 90%**
 - バブル期高予定利率（5-6%）契約は、破綻後**予定利率を新基準（1.5% 等）に引下げる** → 実質的な将来受取額は大幅減
 - 例: 千代田生命破綻時、高予定利率契約者の実質元本減額幅が問題化
-
-## 3. 過去の救済事例
 
 ### 1997-2001 ラッシュ期
 
@@ -115,7 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 米 **NOLHGA**（National Organization of Life and Health Insurance Guaranty Associations）の連邦調整下州別保証機関と類似機能
 - 英 **FSCS** は預金・保険一本化に対し、日本は **三機構分立**（DIC / 生保 / 損保）
-- **直近論点** ^[inferred]:
   - 高予定利率契約のラン・オフ最終段階（バブル期 1985-1990 契約満期到来）
   - 外貨建て保険普及に伴う為替リスク補償スキームの位置付け
   - 健康増進型・ヘルスケア型保険拡大下の補償設計

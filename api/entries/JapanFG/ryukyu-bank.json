@@ -45,9 +45,9 @@
     "設立の特殊性",
     "主要子会社・関連会社（概要）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "中期経営計画（直近）",
-    "競合構造（沖縄県内）"
+    "競合構造（沖縄県内）",
+    "沖縄経済との連動"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4127,
-    "word_like_tokens": 525,
+    "nonspace_chars": 3472,
+    "word_like_tokens": 462,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -17,7 +17,6 @@ sources:
 
 # 群馬銀行 (The Gunma Bank, Ltd.)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/chiba-bank|千葉銀行 (Chiba Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -43,8 +42,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 地域専業・単一県地盤で持株会社化の事業多角化メリット小
 - 子会社（リース・カード・コンサル）は銀行直下子会社で十分管理可能
 - 統合・経営統合相手不在（県内で唯一の PRIME 地銀）
-
-を踏まえた経営判断と推測される ^[inferred]。なお県内競合の [[towa-bank]] も単独銀行体制で同様 ^[extracted]。
 
 ### 主要子会社・関連事業 ^[likely]
 
@@ -90,8 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **隣接県進出**: 埼玉県（熊谷・本庄・深谷・川越）/ 栃木県 / 東京都北部 / 神奈川 / 千葉 / 大阪 / 名古屋
 - **特徴**: **上信越自動車道経済圏**（関越道 + 上信越道）沿線の物流・製造業 → 自動車・部品・電機 サプライチェーン融資
 
-## 3. 戦略・競争
-
 ### 産業基盤特性
 
 - **SUBARU（富士重工業）太田工場**: 群馬県太田市 主力組立工場 → 部品サプライヤー数百社が県内集積 → 群馬銀行 法人融資の中核顧客群
@@ -129,21 +124,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 国内預貸利ザヤ改善 → 地銀収益ボーナス
   - 地銀再編圧力（金融庁・公的資金 / 持株会社化推奨）vs 単独銀行維持判断
   - 自動車産業 EV 転換 → 部品サプライチェーン構造変化リスク（SUBARU 系融資先依存度）
-
-## Counterpoints
-
-- 「単独銀行体制 vs 持株会社化トレンド」: [[mebuki-fg]] / [[concordia-fg]] 等が広域持株化に進む中、群馬銀行の単独体制は **規模拡大遅延リスク** vs **意思決定速度・コスト軽量** 両論 ^[ambiguous]
-- 「SUBARU 依存リスク」: 太田工場系サプライチェーン融資集中 → EV 転換・自動車業界再編で **特定産業集中リスク** ^[inferred]
-- 「TSUBASA アライアンス効果」: システム共同化コスト削減効果は明らかだが、**経営統合に至らない連携の限界**（意思決定統合不可・ガバナンス制約）^[ambiguous]
-- 「首都圏進出の戦略性」: 埼玉北部・東京北部進出は **採算 vs 県外進出コスト** で意見分かれる ^[ambiguous]
-
-## Open questions
-
-- 中期経営計画（2024〜）の具体的 KPI / 数値目標は？ → 公式 IR の中計資料要参照
-- 持株会社化シナリオの可能性は？ 県内 [[towa-bank]] との経営統合 / [[mebuki-fg]] 系列入り等
-- TSUBASA アライアンス内での群馬銀行の **得意分野貢献** は？（千葉銀 / 第四北越 / 中国銀 等が主導行）
-- SUBARU EV 戦略転換に伴うサプライチェーン融資ポートフォリオ調整は?
-- ぐんぎん証券の銀証連携収益貢献度（地銀証券子会社モデルの成否）
 
 ## Related
 

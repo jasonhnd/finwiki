@@ -166,21 +166,6 @@ The economic incentive for a partner to join a coalition is **incremental traffi
 - **The point-liability accounting question matters more at telco scale** — both d Point and au PAY ポイント carry tens of billions of yen in accrued loyalty liability with material breakage assumptions. The IFRS-15 / J-GAAP treatment is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
 - **Retail acquisition (Lawson, ENEOS, Matsumoto Kiyoshi) is no longer commodity** — KDDI's [[retail/lawson-kddi-retail-finance|Lawson]] move changes the cost basis of multi-point partnerships. Watch for similar equity moves by NTT docomo on retail anchors.
 
-## Counterpoints
-
-- The "telco anchor is structurally stronger than finance anchor" framing assumes mobile-line churn stays low; the rise of MVNOs (povo, ahamo, irumo, LINEMO) has materially reduced switching cost, eroding part of the telco moat.
-- The point-economy narrative overweights data-graph value; the regulator-side conversation around telco-finance data sharing (personal information protection commission rulings) is a real constraint, not a notional one.
-- KDDI's Lawson acquisition and NTT's NDFG consolidation are still in execution; declaring strategic wins from press releases is premature until the integrated financial groups produce consolidated financial reports.
-- Both d Point and au PAY ポイント rely on coalition partners who could defect if KDDI or NTT pushes the integration agenda too aggressively (e.g., Recruit's relationship with KDDI is not exclusive in all categories).
-
-## Open questions
-
-- Will [[JapanFG/ndfg|NDFG]] consolidation produce a single integrated telco-financial holding ahead of au FH's existing structure, or will the structures converge from opposite directions?
-- How does the [[loyalty/v-point-smbc-ccc-case|V Point]] finance-anchor model compete with the telco-anchor models when both reach the same end-state product set?
-- Will Lawson's KDDI ownership force d Point to lose retail surface at Lawson over time, and how does NTT replace that retail footprint?
-- How do the [[retail/aeon-group|Aeon (WAON)]] and [[retail/seven-and-i-hd|Seven & i (nanaco)]] retail-anchored point programmes interact with telco-anchored programmes, given they share retail surface but compete for daily-use frequency?
-- What is the regulatory ceiling on telco-finance data sharing for cross-sell, and how does it differ between docomo / au / SoftBank-LY?
-
 ## Related
 
 - [[loyalty/INDEX|loyalty INDEX]]

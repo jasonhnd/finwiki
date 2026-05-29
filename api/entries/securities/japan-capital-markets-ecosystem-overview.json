@@ -52,13 +52,13 @@
     "Japan capital markets ecosystem overview",
     "TL;DR",
     "Wiki route",
-    "The Five Capital-Markets Layers",
     "1. Issuance (Primary Market)",
     "2. Trading (Secondary Market)",
     "3. Clearing",
     "4. Settlement and Depository",
     "5. Regulation and Self-Regulation",
-    "Market Participants"
+    "Market Participants",
+    "Cross-Border Linkages"
   ],
   "body_links": {
     "wikilinks_count": 66,
@@ -202,9 +202,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14437,
-    "word_like_tokens": 1988,
+    "nonspace_chars": 13271,
+    "word_like_tokens": 1794,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

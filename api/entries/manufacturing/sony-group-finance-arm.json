@@ -51,7 +51,7 @@
     "3. KPI (FY2024 連結 + SFG セグメント)",
     "4. 戦略 (金融分離と再上場)",
     "5. 規制・政策",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5783,
-    "word_like_tokens": 833,
+    "nonspace_chars": 5271,
+    "word_like_tokens": 774,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

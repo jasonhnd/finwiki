@@ -44,17 +44,16 @@
   "headings": [
     "住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "住友グループ + SMFG 金融機能の配置",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "住友商事の事業構造と金融機能",
-    "SMFG との連携の特殊性",
-    "競合 / Peer"
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 20,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/boj-monetary-policy",
@@ -66,14 +65,12 @@
       "JapanFG/mitsui-bussan-financial-services",
       "JapanFG/mitsui-sumitomo-insurance",
       "JapanFG/mizuho-lease",
-      "JapanFG/smbc-card",
       "JapanFG/smfg",
       "JapanFG/smfl",
       "JapanFG/smtb",
       "JapanFG/sojitz-finance",
       "JapanFG/sumitomo-life",
       "JapanFG/sumitomo-mitsui-banking-corp",
-      "JapanFG/sumitomo-mitsui-trust",
       "JapanFG/tokyo-century",
       "JapanFG/toyota-tsusho-finance",
       "banking/INDEX",
@@ -90,14 +87,12 @@
       "https://finwiki.zksc.io/JapanFG/mitsui-bussan-financial-services",
       "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
       "https://finwiki.zksc.io/JapanFG/mizuho-lease",
-      "https://finwiki.zksc.io/JapanFG/smbc-card",
       "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/JapanFG/smfl",
       "https://finwiki.zksc.io/JapanFG/smtb",
       "https://finwiki.zksc.io/JapanFG/sojitz-finance",
       "https://finwiki.zksc.io/JapanFG/sumitomo-life",
       "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/JapanFG/tokyo-century",
       "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -107,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5867,
-    "word_like_tokens": 789,
+    "nonspace_chars": 3692,
+    "word_like_tokens": 492,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

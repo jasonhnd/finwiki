@@ -79,14 +79,6 @@ AEON matters to JapanFG because it shows that financial services can be embedded
 
 This is structurally different from megabank finance, which starts from the balance sheet, and from code-payment finance, which starts from the app.
 
-## Open Questions
-
-- Can AEON Pay / iAEON unify WAON, AEON Card, coupons, and banking without adding app complexity?
-- How much of AFS earnings comes from Japan card / bank versus Asian consumer finance?
-- Does cashless growth weaken AEON's ATM economics or strengthen card / app economics?
-- Can AEON turn WAON POINT into a broader retail-media asset?
-- How much regulatory value sits in AFS's bank-agency, prepaid, and card-number-handling registrations?
-
 ## Related
 
 - [[retail/INDEX|retail INDEX]]

@@ -52,12 +52,12 @@
     "Wiki route",
     "TL;DR",
     "Hedge policy framework",
-    "FX hedge ratio mechanics",
     "Exposure types",
     "Typical hedge ratio fields",
     "Instrument selection",
-    "Interest-rate hedge policy",
-    "Exposure types"
+    "Exposure types",
+    "Typical hedge instruments",
+    "TONA transition"
   ],
   "body_links": {
     "wikilinks_count": 25,
@@ -119,9 +119,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14830,
-    "word_like_tokens": 2211,
+    "nonspace_chars": 13757,
+    "word_like_tokens": 2046,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

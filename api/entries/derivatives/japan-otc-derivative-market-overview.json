@@ -56,9 +56,8 @@
     "Market Participants",
     "Regulatory Framework",
     "Public Data Sources",
-    "Counterpoints",
-    "Open Questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 35,
@@ -140,9 +139,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10236,
-    "word_like_tokens": 1548,
+    "nonspace_chars": 8906,
+    "word_like_tokens": 1320,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -42,10 +42,10 @@
     "1. 会社概要",
     "業態の特徴",
     "主要関連会社（推定の主な系列）^[ambiguous]",
-    "2. 沿革",
     "黎明期: 国立銀行条例から株式会社銀行へ",
     "戦後〜バブル期",
-    "東日本大震災以降（最重要）"
+    "東日本大震災以降（最重要）",
+    "地理的地盤"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5248,
-    "word_like_tokens": 678,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 4272,
+    "word_like_tokens": 572,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-05-29"
   }
 }

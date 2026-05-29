@@ -46,8 +46,6 @@ This page sits under [[finance/INDEX|finance domain]] as a cross-domain valuatio
 
 The Real Estate Appraisal Standards in Japan ([[real-estate-finance/japan-real-estate-appraisal-methodology|不動産鑑定評価基準]]) institutionalize the same three-approach structure (income / comparison / cost) for property valuation — the cross-domain parallel is direct.
 
-## DCF Approach
-
 ### Mechanics
 
 | Step | Detail |
@@ -85,8 +83,6 @@ The Real Estate Appraisal Standards in Japan ([[real-estate-finance/japan-real-e
 | Pension liability | Underfunded retirement benefit obligation is debt-like for EV-to-equity bridge |
 | Minority interest | Listed-subsidiary parent-co valuation requires explicit minority deduction |
 | Controlling-shareholder discount | Holding-company structure can warrant discount; see [[finance/japan-listed-financial-groups-investable-universe|listed FG investable universe]] |
-
-## Multiples Approach
 
 ### Common Multiples by Asset Type
 
@@ -129,8 +125,6 @@ The Real Estate Appraisal Standards in Japan ([[real-estate-finance/japan-real-e
 | Parent-listed-subsidiary structure | Specific minority and consolidation adjustments needed; route [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] |
 | Governance-code era P/B | TSE's "below-1.0x P/B" engagement targets reframe P/B as a governance metric, not just valuation — see [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] |
 | Trading-house special items | Resource gains, equity-method earnings — exclude for peer comparison |
-
-## NAV Approach
 
 ### Mechanics
 
@@ -192,23 +186,6 @@ For J-REITs and real-estate funds, "asset value" is typically appraised value of
 ## Reconciliation Practice
 
 In Japan M&A and fairness-opinion practice ([[finance/japan-mbo-and-squeeze-out-process|MBO / squeeze-out]], [[finance/japan-tender-offer-process|TOB]]), the standard reconciliation is to produce a valuation range from each method (DCF, market multiples, transaction multiples, market price, sometimes NAV) and reconcile into a fairness range. The METI Fair M&A Guideline expects this multi-method discipline. Single-method valuation is rarely treated as fairness-opinion-grade in conflict-heavy deals.
-
-## Counterpoints
-
-- "DCF is precise" is false: small input changes (50bp WACC, 100bp terminal growth) move output 20-40%
-- "Multiples are objective" is false: peer-set selection is itself a judgment
-- "NAV is the floor" is false: liquidation NAV can sit well below appraised NAV in distressed sales
-- Cross-method reconciliation is theatre when the underlying inputs are correlated (e.g. peer set, WACC, terminal multiple all draw from the same market state)
-- Japan governance-code era has reframed P/B from valuation metric to engagement metric — risk of conflating cost-of-capital pressure with intrinsic-value reading
-- Real-options frame can rescue DCF for high-uncertainty businesses but is harder to defend in fairness-opinion settings
-
-## Open questions
-
-- How will TSE-Prime governance-code engagement on cost of capital and price-to-book shift Japan corporate valuation norms?
-- Does post-NIRP normalisation of [[finance/cost-of-capital-japan-2026-reference|risk-free reference]] reset Japan listed-company DCF anchors?
-- How do appraisal-lag dynamics in J-REIT price-to-NAV compress / widen at inflection points?
-- Will Japan adopt more explicit real-options frameworks in pharma / tech valuation as global practice does?
-- How are AI and platform businesses valued cross-method when traditional accounting captures little of the asset base?
 
 ## Related
 

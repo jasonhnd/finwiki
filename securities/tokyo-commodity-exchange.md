@@ -16,7 +16,6 @@ sources:
 
 # 東京商品取引所 (TOCOM)
 
-
 ## Wiki route
 
 This entry sits under [[securities/INDEX|securities index]]. Read it against [[securities/osaka-exchange|大阪取引所 (OSE)]] for peer / contrast context and [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for the broader system / regulatory boundary.
@@ -48,11 +47,6 @@ For FinWiki, TOCOM is the commodity-derivatives branch of the JPX complex and sh
 ## Strategic Reading
 
 TOCOM matters when the question is not about equity finance but about energy-price risk, commodity hedging, and Japan's comprehensive exchange model. It also helps explain why JPX is broader than a stock exchange holding company.
-
-## Counterpoints
-
-- TOCOM is smaller and more specialized than TSE or OSE.
-- Its role should not be confused with Osaka Dojima Exchange or OTC commodity hedging markets.
 
 ## Related
 

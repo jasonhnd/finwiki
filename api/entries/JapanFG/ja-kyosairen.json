@@ -52,9 +52,9 @@
     "共済事業 vs 保険業法 (区別) ^[extracted]",
     "JA グループ 4 大全国連の役割分担",
     "重要年表 ^[extracted]",
-    "2. 業務内容",
     "主力共済商品 ^[extracted]",
-    "共済 vs 保険のチャネル"
+    "共済 vs 保険のチャネル",
+    "損保補完の親会社機能"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6192,
-    "word_like_tokens": 912,
+    "nonspace_chars": 5232,
+    "word_like_tokens": 787,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

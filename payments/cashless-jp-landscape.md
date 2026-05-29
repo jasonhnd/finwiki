@@ -23,7 +23,6 @@ sources:
 
 # Japan cashless payment landscape
 
-
 ## Wiki route
 
 This entry sits under [[payments/INDEX|payments index]]. Read it against [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] for peer / contrast context and [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] for the broader system / regulatory boundary.
@@ -99,15 +98,6 @@ Retail finance in Japan is converging around **payment frequency as the distribu
 - [[JapanFG/aeon-bank|Aeon Bank]] uses retail stores, WAON, and AEON Card to make banking part of shopping flow.
 - [[JapanFG/seven-bank|Seven Bank]] is redefining ATMs from cash machines into broader authentication / settlement infrastructure.
 - [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] is a merchant-side tollgate: less consumer visible, but deeply embedded in EC settlement.
-
-## Open Questions
-
-- How much of the 2025 ratio jump reflects a calculation-method change versus real behavioral acceleration?
-- Which code-payment players can monetize without excessive campaign subsidies?
-- Will bank-account payment / account-to-account rails finally reduce card-network economics, or remain niche?
-- How will stablecoin / EPI products enter mainstream merchant payment without confusing consumers and merchants?
-- Which point programs can become financial distribution systems rather than only discount tools?
-- How should a new JapanFG domain model separate payment license, card economics, loyalty, and banking partner risk?
 
 ## Related
 

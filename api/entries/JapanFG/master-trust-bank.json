@@ -45,8 +45,8 @@
     "機能ポジション",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "業界構造 — カストディ 2 強体制"
+    "業界構造 — カストディ 2 強体制",
+    "「信託口」名義の意味"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5232,
-    "word_like_tokens": 732,
+    "nonspace_chars": 4288,
+    "word_like_tokens": 593,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

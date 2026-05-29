@@ -66,7 +66,7 @@
     "CBDC vs tokenized-deposit architecture trade-off"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -78,9 +78,6 @@
       "fintech/bis-project-guardian-vs-agora-asia-three-poles",
       "fintech/blackrock-buidl-sc-issuer-adoption",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
-      "fintech/fx-onchain-as-stablecoin-final-boss",
-      "fintech/genius-act-501-denylist-mandate",
-      "fintech/india-anti-dollar-dpi-alliance",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/mbridge-bis-multi-cbdc-overview",
@@ -100,9 +97,6 @@
       "https://finwiki.zksc.io/fintech/bis-project-guardian-vs-agora-asia-three-poles",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/fx-onchain-as-stablecoin-final-boss",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
       "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
       "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
@@ -115,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17040,
-    "word_like_tokens": 2729,
+    "nonspace_chars": 14986,
+    "word_like_tokens": 2373,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

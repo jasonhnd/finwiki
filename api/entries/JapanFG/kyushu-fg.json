@@ -44,8 +44,8 @@
     "合併経緯・前身",
     "重要年表",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "TSMC 関連特需（2022〜2024 の最大トピック）★"
+    "TSMC 関連特需（2022〜2024 の最大トピック）★",
+    "地盤戦略"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4528,
-    "word_like_tokens": 694,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3667,
+    "word_like_tokens": 570,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-05-29"
   }
 }

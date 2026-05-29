@@ -20,7 +20,6 @@ sources:
 
 # SMFL / Sumitomo Mitsui Finance and Leasing
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mizuho-lease|Mizuho Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -77,13 +76,6 @@ That makes SMFL less comparable to pure consumer finance and more comparable to 
 - Transportation assets create residual-value, geopolitical, insurance, and sanction risk.
 - Real-estate / energy leasing can become project-finance-like and needs counterparty / asset / cash-flow analysis.
 - Overseas leasing requires local-law and tax analysis, not only Japanese group-level analysis.
-
-## Open Questions
-
-- How much of SMFL's growth is from ordinary equipment leases versus real estate, energy, and transportation assets?
-- How should residual-value risk be compared across SMFL, ORIX, Mitsubishi HC Capital, and Mizuho Lease?
-- Where does SMFL use FIEA-regulated investment products versus ordinary lease balance sheet?
-- How much of SMFL's risk is ultimately correlated with SMFG corporate credit cycles?
 
 ## Related
 

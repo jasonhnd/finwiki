@@ -20,7 +20,6 @@ sources:
 
 # フィデア HD (Fidea Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -35,7 +34,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **英名**：Fidea Holdings, Inc.
 **証券コード**：東証 PRIME 8713 ^[extracted]
 **設立**：2009-10-01（荘内銀行 + 北都銀行 共同株式移転による持株会社設立）^[extracted]
-**本社**：宮城県仙台市（事業統括）/ 山形県鶴岡市・秋田県秋田市（実質 2 本店）^[inferred]
 **社名由来**：ラテン語 fides（信頼）+ idea（理念）の合成 ^[extracted]
 
 ### 主要子会社・持分 ^[extracted]
@@ -60,8 +58,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **フィデア HD 発足**（2009-10-01）：山形・秋田両県の人口減少と地銀収益低下を背景に、**東日本初の県境越え地銀統合**として共同株式移転で発足
 - **東北銀行との基本合意解除**（2022-02）：2021 年に経営統合協議が公表されたが、2022-02 に基本合意を解除。以後、東北銀行は Fidea operating bank ではない。
 - **フィデア銀行 planned merger**（2027-01 予定）：北都銀行公式 profile では、北都銀行と荘内銀行が 2027-01 に合併し「フィデア銀行」として発足する予定が示されている。
-
-> 統合背景：北東北は人口減少率が全国上位、米作・果樹・水産業の伝統産業依存度高 → 低金利環境下で県単位地銀の収益基盤が脆弱化。**県境を越えた広域連合 + 経費削減 + DX 投資集約**を狙う典型的人口減少地域モデル ^[inferred]。同モデルは [[hokuhoku-fg]]（富山・北海道）、後発の [[JapanFG/proclair-hd|proCRD-hd]]（青森 + みちのく）と類似。
 
 ### 重要年表 ^[extracted]
 
@@ -90,8 +86,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人 retail | 荘内銀・北都銀 | 住宅ローン、年金口座、地方富裕層資産運用 |
 | 証券 / リース / カード | グループ子会社 | 地銀 FG 標準ラインナップ |
 
-## 3. 戦略・競争 ^[extracted/inferred]
-
 ### 北東北広域連合戦略
 
 - **山形 + 秋田の 2 県広域化**を継続し、2027-01 planned merger で荘内銀行と北都銀行を「フィデア銀行」へ一体化する方針。
@@ -109,7 +103,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メガバンク**（[[mufg]]・[[smfg]]・[[mizuho-fg]]）：県内法人 main bank 取り合いは限定的、むしろ補完関係
 - **ゆうちょ**（[[yucho]]）：個人預金で競合
 - **県内単独地銀**（山形銀行・秋田銀行・岩手銀行）：直接競合、ただし統合により規模差拡大
-- **ネット銀行**（[[gmo-aozora-net]] 等）：個人 retail で digital chann。実効的脅威は限定的 ^[inferred]
 
 ## 4. 規制・政策 ^[extracted/inferred]
 
@@ -120,21 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 地銀預貸金利マージン改善
   - 人口減少地域での店舗網最適化と DX 投資
   - 地方創生・再生可能エネルギー金融
-
-## Counterpoints
-
-- 「県境越え統合の実効性」: 2009 発足から長く両行ブランド（荘内 / 北都）を維持してきたため、2027-01 planned merger が実際にどこまで収益・営業効率を改善するかは継続 watch。
-- 「東北銀行統合の取り扱い」: 東北銀行との基本合意は 2022-02 に解除済み。古い資料だけを見ると planned group member と誤読しやすい。
-- 「人口減少加速」: 山形・秋田はいずれも人口減少圧力が強く、荘内 + 北都の統合で規模を確保しても **預金母体縮小** は不可避 ^[inferred]
-- 「広域 vs 深掘り」二者択一: 広域化（フィデア型）vs 県内深掘り（[[JapanFG/77-bank|七十七銀行]] 型）どちらが正解か未確定 ^[ambiguous]
-
-## Open questions
-
-- 2027-01 planned 「フィデア銀行」の統合シナジー定量目標は？
-- 荘内銀行 + 北都銀行 merger 後の branch / system / brand integration はどの程度進むか？
-- 隣接 [[JapanFG/proclair-hd|proCRD-hd]] や [[JapanFG/77-bank|七十七銀行]] との更なる広域連合可能性は？
-- 米作・果樹融資の気候変動リスク（温暖化で適地北上）への対応戦略は？
-- 再生可能エネルギー融資（東北沿岸風力）の収益貢献度は？
 
 ## Related
 

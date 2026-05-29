@@ -22,7 +22,6 @@ sources:
 
 # Principal Japan / プリンシパル・ジャパン
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/manulife-japan|Manulife Life Insurance Japan]] and [[JapanFG/nn-life-japan|NN Life Japan]] for foreign-financial-group peer context, and [[insurance/INDEX|insurance index]] for the broader Japan retirement / insurance system / regulatory boundary.
@@ -70,19 +69,6 @@ Principal's solvency / capital framework follows US National Association of Insu
 - Clarifies that Principal's Japan presence is structurally different from retail-focused foreign life insurers — primarily on the asset-management and pension side rather than mass life insurance distribution.
 - Useful for understanding the broader foreign financial group landscape in Japan where US-headquartered groups range from retail life (Prudential, MetLife) to institutional asset management (Principal).
 - Sets up reference for US-headquartered retirement-focused financial groups in the Japan market.
-
-## Counterpoints
-
-- Principal's Japan presence is materially smaller than its US home-market scale; group financials are dominated by US retirement and asset-management segments. ^[inferred]
-- Public disclosure at Japan-entity level is limited; Principal Global Investors Japan does not feature prominently in group financial reporting. ^[inferred]
-- Whether Principal has any insurance-licensed entity in Japan vs. only investment management licenses should be verified against the latest FSA registry. ^[ambiguous]
-
-## Open questions
-
-- What is the exact license stack (asset management / advisory / insurance / pension) of Principal-affiliated entities in Japan?
-- What is the AUM size of Principal Global Investors Japan, and what is its client mix (corporate pension / sovereign / GPIF mandates / financial institutions)?
-- How does Principal Japan coordinate with broader Principal International Asia footprint?
-- Has Principal Japan participated in any DC pension provider arrangements via Japan partners?
 
 ## Related
 

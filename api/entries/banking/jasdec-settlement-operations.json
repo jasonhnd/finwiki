@@ -51,10 +51,10 @@
     "1. 機関位置",
     "What JASDEC is not",
     "Participant types",
-    "2. 主要業務",
     "Book-entry systems",
     "DVP and ancillary services",
-    "Function-type breakdown"
+    "Function-type breakdown",
+    "3. 競合構造"
   ],
   "body_links": {
     "wikilinks_count": 29,
@@ -124,9 +124,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16564,
-    "word_like_tokens": 2551,
+    "nonspace_chars": 13533,
+    "word_like_tokens": 2007,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

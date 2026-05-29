@@ -52,20 +52,6 @@ The system is modular. A single overseas infrastructure or resource project may 
 
 Domestically, JFC and ODFC handle areas where ordinary private credit is insufficient or policy objectives are explicit. JHF supports housing-finance market plumbing. Credit guarantee systems turn bank / shinkin / cooperative lending into public-credit channels by shifting or reinsuring defined portions of borrower credit risk. JASSO is a separate social-policy finance lane for human capital, not a corporate-finance institution.
 
-## Counterpoints
-
-- Policy finance can correct market failures, but it can also preserve weak business models if credit discipline is soft.
-- Public finance institutions differ sharply by mandate; comparing JICA, JBIC, NEXI, JOGMEC, and JFC on one balance-sheet metric is misleading.
-- The public-private boundary is project-specific; many deals depend on co-financing with commercial banks.
-- Guarantee systems can preserve credit access, but weak risk-sharing may also soften bank discipline if program design is too generous.
-
-## Open questions
-
-- Which policy-finance lanes are being reoriented toward economic security.
-- How climate transition changes JBIC / NEXI / JOGMEC mandates.
-- Whether domestic policy finance shifts from crisis support to productivity / succession / startup finance.
-- How credit guarantee systems adjust after pandemic-era and disaster-era extraordinary support.
-
 ## Related
 
 - [[JapanFG/jfc]]

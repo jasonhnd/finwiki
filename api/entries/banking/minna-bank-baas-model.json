@@ -45,9 +45,8 @@
     "Strategic read",
     "License boundary",
     "Mercari case",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -77,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3336,
-    "word_like_tokens": 453,
+    "nonspace_chars": 2918,
+    "word_like_tokens": 414,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

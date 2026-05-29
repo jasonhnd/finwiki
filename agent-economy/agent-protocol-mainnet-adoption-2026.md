@@ -30,8 +30,6 @@ As of May 2026, the agent-payment protocol stack has bifurcated sharply between 
 
 This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it against [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]] for the broader seven-protocol landscape, and against [[agent-economy/ap2-adoption|AP2 アダプション状況]] / [[agent-economy/x402-cloudflare-aws-edge-integration|x402 x Cloudflare / AWS エッジ統合]] for the per-protocol deep dives. For wallet-layer dependencies see [[systems/erc-4337-overview|ERC-4337 総覧]] and [[systems/erc-7702-overview|ERC-7702 総覧]].
 
-## Protocol-by-protocol mainnet status
-
 ### x402 — Cloudflare + AWS edge live (PRODUCTION)
 
 | Surface | Status | Date |
@@ -154,24 +152,6 @@ The compose pattern is described in [[agent-economy/erc-7715-agent-payment-stack
 | Specification-only | "Agent identity federation" beyond AAIF | Pre-ratification, no shipping product |
 
 The 2026-mid bottom line: any team claiming "agent payment infrastructure" without naming **at least x402 OR ERC-4337/7702 OR an enterprise rail (Mastercard / Visa Intelligent Commerce)** is on the vaporware side of the divide.
-
-## Counterpoints
-
-- **"Mainnet ≠ adoption"**: ERC-4337 has been live for 4 years and only a single-digit % of Ethereum txns route through bundlers. Mainnet shipping doesn't guarantee dominant pattern emergence.
-- **The Cloudflare / AWS facilitator dominance is a centralization risk**: x402's "open HTTP protocol" framing collides with the reality that two cloud providers will likely process > 80% of facilitator volume by 2027 (compare [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]]).
-- **AP2's slow production roll-out doesn't make it irrelevant**: WebAuthn took 3+ years to ship in mainstream production after FIDO ratification. AAIF on the same trajectory could dominate post-2028.
-- **Anthropic's protocol-neutrality could become a moat**: by not first-party integrating any payment stack, Claude Code remains compatible with whatever wins the [[agent-economy/ai-agent-payment-protocols-commoditization|commoditization wave]] — at the cost of pushing UX burden to users.
-- **OpenAI's hedge could prove correct**: if AP2 and x402 converge (e.g. AP2 mandate signed at the x402 facilitator layer), the SDK that supports both pre-convergence wins post-convergence.
-
-## Open questions
-
-- Will Google Cloud / Azure ship native x402 in 2027, joining Cloudflare + AWS and creating a true 4-cloud standard?
-- When (if ever) will Anthropic ship first-party AP2 or x402 integration in Claude Code?
-- Will FIDO Alliance ratify AAIF (former AP2) on its standard 18-24 month track, or will it stall like WebAuthn did 2014-2016?
-- Will ERC-7715 cross-wallet portability standardize before agents fragment along wallet lines (MetaMask-agents vs Coinbase-agents vs Safe-agents)?
-- Will Anthropic's MCP-everywhere strategy mean MCP becomes the de-facto wrapper layer for AP2 / x402 / 7715, eliminating the need for first-party SDK integration?
-- Will the EU AI Act and US OCC introduce agent-payment-specific consent / supervision requirements that change which wallet/agent stacks remain compliant?
-- Will the 2026-Q3 GENIUS Act final rules treat x402 facilitators differently from traditional payment processors?
 
 ## Production timeline (2025-2026 condensed)
 

@@ -18,7 +18,6 @@ status: candidate
 
 # Tempo vs Arc · 機関チェーン validator 設計の2経路
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-l1-bootstrapping|EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -53,20 +52,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 2024 Aave Arc / JPM Onyx の初期許可プール → 「機関チェーン初期は許可制が必須」が共識化。2025.04 Tempo が 4 外部 validator 設計を公表 → ミニマムモデルが顕在化。2025 Circle が Arc 三段階ロードマップを公表 → 漸進的非中央集権化テンプレートが成立。2025-2026 [[fintech/jpmorgan-jpmd-coin|Kinexys / JPMD]] / Mony / 多数のトークン化預金プロジェクトが Arc 三段階テンプレートを引用。2 経路が共存する根本的理由:Tempo はリテール加盟店(パフォーマンスに極めて敏感)に、Arc は機関顧客(コンプライアンス物語に極めて敏感)にサービスを提供する。
 
-## Counterpoints
-
-- Tempo の 4 validator は BFT 耐障害性の限界に触れている —— いずれかの国家が 1 validator を抑圧すれば liveness が破壊される
-- Arc の三段階ロードマップは歴史的に完走した事例がない(EOS 21 BP モデルは停滞)→ 「漸進」は永遠に達成されない可能性
-- いずれの経路も規制が KYC チェーンの長期存続を許容することを前提とするが、独占禁止 / 金融インフラ集中防止の要求により validator 拡大が強制される可能性がある
-- Tempo 4 validator モデル vs Arc 50 validator モデルは検閲耐性において差が顕著ではない可能性(50 全員 KYC = 全員が規制で名指し可能)
-
-## Open questions
-
-- Tempo の 4 validator は本当に長期にわたって全世界の加盟店に安定的にサービス提供できるか?(地理的分散性)
-- Arc フェーズ 3 のガバナンス PoS は 5 年以内に実現可能か?
-- 第 3 の経路(EigenLayer restaking + 機関チェーンなど)が登場し、機関チェーンが ETH validator 集合を借用するシナリオはあるか?([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)
-- DEX は機関チェーン上で運営する余地があるか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各社の許可チェーンへの態度と対照)
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -81,4 +66,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - Arc 公式サイト（Circle 機関級 L1）— https://www.arc.io/
 - Circle「Introducing Arc」公式発表（漸進的非中央集権化 / Malachite）— https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance
 - Canton Network（Kinexys 系の許可型機関チェーン）— https://www.canton.network/
-

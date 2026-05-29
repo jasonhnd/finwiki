@@ -18,7 +18,6 @@ sources:
 
 # みずほ FG (Mizuho FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -95,8 +94,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2003-01-08** みずほ FG 発足（HD 上位の純粋持株会社化）^[extracted]
 - **2013-07-01** みずほ銀行 + みずほコーポレート銀行 → 新「みずほ銀行」**再統合**（機能別分割 11 年で見直し）^[extracted]
 
-> 統合背景: バブル崩壊後の不良債権問題と国際業務再構築のため、第一勧銀（リテール強）+ 富士銀行（法人主流）+ 興銀（長期信用 / IB）の補完性合併。一方で 3 行カルチャー融和の難しさが**システム障害**と**ガバナンス分裂**として何度も顕在化。^[inferred]
-
 ### 重要年表（抜粋）^[extracted]
 
 | 年月 | 事象 |
@@ -138,15 +135,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信販・カード | オリコ（持分法 約 49%）+ みずほ楽天カード | UC カード（三菱 UFJ ニコス系）から距離 |
 | リース | みずほリース（持分法 23.5%、丸紅 23%）| 東証 PRIME 8425 |
 
-## 3. 戦略・競争
-
 ### デジタル戦略
 
 - **「One MIZUHO」戦略**: 3 行カルチャー統合・グループ一体運営の長期テーマ ^[extracted]
 - **e-Mizuho**: 個人向けデジタルバンキング ^[extracted]
 - **MINORI**（みずほ次期勘定系システム）: 2019 年完全稼働、4500 億円超投資の超大型システム刷新。だが 2021 年連発障害の震源地ともなった ^[extracted]
 - **AI / ChatGPT 業務活用**: 2023-04 全社員向け ChatGPT 利用環境整備（メガバンク初級）^[ambiguous]
-- **Progmat Coin 参画**: MUFG 主導のステーブルコイン基盤に加盟 ^[inferred]
 
 ### 提携・買収戦略
 
@@ -163,18 +157,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **米州**: NY 本拠の Mizuho Americas（旧みずほコーポレート銀行 NY 支店）+ Greenhill（独立系 M&A）
 - **アジア**: 中国（みずほ銀行中国）/ タイ / インドネシア / シンガポール 等
 - **欧州**: ロンドン IBD（旧興銀ロンドン由来）
-- **vs [[mufg]] / [[smfg]]**: アジアの commercial bank 大型買収（Krungsri / Bank Danamon / SBI Sumishin Net 等）は持たず、自前拠点 + IBD 強化路線 ^[inferred]
 
 ### B2C ブランディング
 
 - **コーポレートカラー**: みずほブルー（信頼 / 知性）+ 稲穂モチーフのロゴ ^[extracted]
-- **大型スポーツ命名権 / スタジアム命名権**: [[mufg]] のような目立つ B2C ブランディングは限定的 ^[inferred]
-- **楽天証券連携**: 楽天経済圏との接続が事実上の B2C 戦略 ^[inferred]
 
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
-- **G-SIB Bucket 1**: FSB 認定（+1.0% CET1 追加資本要件）^[inferred]
 - **持株会社規制**: 銀行法 第 52 条の 17
 - **海外規制**: 米連邦準備制度（FRB / OCC）、ECB / BoE、中国 CBIRC、タイ BoT 等
 - **業務改善命令**: **2002 / 2011 / 2021 と 3 度の大規模システム障害で業務改善命令を複数回受領**。2021-11 命令は史上 2 度目の銀行業務改善命令（過去含む）^[extracted]
@@ -192,23 +182,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 3 | 佐藤康博 | 2011-06〜2018-04 | 旧興銀系 / 東大経済 |
 | 4 | 坂井辰史 | 2018-04〜2022-01 | 旧興銀系 / 東大法（2021 システム障害で引責辞任） |
 | 5 | **木原正裕** | **2022-02〜現職** | 旧興銀系 / 東大経済 |
-
-## Counterpoints
-
-- 「3 行統合疲労」観: 旧 DKB / 富士 / 興銀 のカルチャー統合が 20 年超でも未完。**システム障害連発（2002 / 2011 / 2021）はその構造的帰結**との指摘 ^[inferred]
-- 「自前リテール弱・パートナー依存」観: [[smfg]] の Olive / SBI / [[mufg]] の自前 eスマート証券に対し、楽天証券・PayPay 銀との連携が中核 → 楽天・SoftBank 経済圏の戦略変更リスクに連動 ^[inferred]
-- 「Greenhill 買収の ROI」: 5.5 億ドル投資の回収可能性は M&A サイクル依存 ^[ambiguous]
-- 「MINORI システム再投資」: 4500 億円投資後も 2021 年に連発障害 → 大型 IT 投資の効果検証論争 ^[extracted]
-- 「アジア commercial bank 不在」: [[mufg]] Krungsri / Bank Danamon、[[smfg]] BTPN 等のような大型アジア銀行子会社を持たず、海外 retail エクスポージャー限定 ^[inferred]
-
-## Open questions
-
-- 楽天証券 49% 出資の最終形態は？ 完全子会社化シナリオ vs 楽天経済圏の独立性維持
-- 中期経営計画 2024-2026 の ROE 8% 達成可能性は？ メガ 3 行の中で最も野心的目標
-- Greenhill 買収の戦略統合進捗は？ グローバル IB プレゼンス向上の証憑
-- 3 度目のシステム障害（2021）以降のシステムリスク管理体制再構築の実効性
-- 木原社長（旧興銀系）体制の長期戦略軸 — 旧 3 行バランス vs 興銀色強化?
-- 「みずほ楽天カード」発行枚数・流通シェアの実績は？
 
 ## Related
 

@@ -43,14 +43,14 @@
   "headings": [
     "野村信託銀行 (Nomura Trust Bank)",
     "Wiki route",
-    "TL;DR",
     "1. 法人・ライセンス境界",
     "2. 親会社 野村 HD 構造",
     "3. KPI 表（v1.0 公開ベース概算）^[inferred]",
     "4. 主要業務 — 証券グループ付随の信託機能",
     "5. 重要年表",
     "6. ピア比較 — 信託銀行マーケット",
-    "7. 監督・規制"
+    "7. 監督・規制",
+    "8. Counterpoints"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -100,9 +100,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5676,
-    "word_like_tokens": 832,
+    "nonspace_chars": 4633,
+    "word_like_tokens": 683,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

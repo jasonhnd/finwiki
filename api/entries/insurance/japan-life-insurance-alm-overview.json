@@ -45,13 +45,13 @@
     "Japan life insurance ALM overview",
     "Wiki route",
     "TL;DR",
-    "Liability profile",
     "Duration",
     "Crediting rate and guarantee structure",
-    "Asset side",
     "Yen government bonds (JGB)",
     "Foreign bonds, hedged",
-    "Foreign bonds, unhedged"
+    "Foreign bonds, unhedged",
+    "Cross-currency basis (CCS basis)",
+    "Credit-asset substitution post-2013 NIRP"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -103,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17558,
-    "word_like_tokens": 2807,
+    "nonspace_chars": 15636,
+    "word_like_tokens": 2480,
     "inbound_wikilinks_count": 35,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

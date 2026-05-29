@@ -45,8 +45,8 @@
     "業態カテゴリ",
     "2. 沿革・年表",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
-    "総合パッケージ戦略"
+    "総合パッケージ戦略",
+    "グローバル分散"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4874,
-    "word_like_tokens": 654,
+    "nonspace_chars": 4373,
+    "word_like_tokens": 593,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

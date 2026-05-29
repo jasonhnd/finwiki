@@ -56,7 +56,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2013〜 | ストラクチャードファイナンス格付の透明性強化 |
 | 2017〜 | **R&I グリーンボンドアセスメント** 等 ESG 評価業務本格化 |
 | 2020〜 | コロナ局面で社債発行急増 → 格付件数増加 |
-| 2024〜 | トランジションファイナンス・サステナビリティリンクボンド SPO が主力化 ^[inferred] |
 
 ## 2. 業務 map
 
@@ -75,8 +74,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **長期格付**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB 以下 → D
 - **短期格付**: a-1+ / a-1 / a-2 / a-3 / b / c / d
 - 保険財務力評価は別スケール（AAA → ... → D）
-
-## 3. 競争・差別化
 
 ### vs JCR
 
@@ -114,7 +111,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - みずほ系である以上、**みずほ FG グループ会社の格付における独立性確保** が継続的な監督ポイント
 - R&I はファイアーウォール（人事・情報・収益・与信判断の分離）を内規で規定
-- 実務上はみずほ系発行体に対しても他格付機関と乖離した楽観評価は避けられている ^[inferred]
 
 ## Related
 

@@ -44,10 +44,6 @@ RGA Reinsurance Company（米 Reinsurance Group of America, Inc. の子会社、
 - **Financial Solutions** — 資本効率改善のための structured reinsurance、ファイナンシャル再保険
 - **Underwriting & Product Development** — 生保商品開発・引受査定の技術支援（再保険ノウハウ提供）
 
-## 3. Strategy & competitive position
-
-RGA は **「生保再保険専業」** という珍しいポジショニングで、Munich Re / Swiss Re / Hannover Re のような P&C 兼業大手とは異なり、生保・医療・長寿に資源を集中する戦略 ^[inferred]。日本市場では [[JapanFG/swiss-re-japan]] Life 部門・[[JapanFG/hannover-re-japan]] L&H 部門・[[JapanFG/scor-japan]] L&H と直接競合し、日本の生保会社（[[nippon-life]] / [[dai-ichi-life]] / [[meiji-yasuda-life]] / [[sumitomo-life]] / [[JapanFG/aflac-japan]] / 等）にとっての主要再保険パネル参加者。**Underwriting expertise の提供** が単なる引受能力以上の付加価値で、新商品設計・引受査定基準・予定死亡率モデル等での技術コンサル機能が日系中堅・中小生保にとって重要 ^[inferred]。Longevity reinsurance は年金リスク・長寿リスク管理ソリューションとして、日本の超高齢社会で潜在需要が大きい領域 ^[inferred]。
-
 ## 4. Why this page matters
 
 - 日本の生保再保険市場の主要プレーヤーアンカー — P&C 再保険一辺倒だった JapanFG 再保険マップに「生保専業」軸を追加

@@ -30,10 +30,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** with a distinctive **トヨタグループ系商社 (Toyota group captive trading house)** character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な **第 6 商社 / トヨタ系商社** の位置付け。Read it against [[JapanFG/mitsubishi-corp|三菱商事]] and [[JapanFG/sojitz-corp|双日]] (中堅商社) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS) and the **[[JapanFG/toyota-financial|トヨタファイナンシャルサービス (TFS)]] family** (Toyota Motor 100% 子会社系の **オートローン / リース / 保険プラットフォーム** — 豊田通商と直接資本関係はないが、Toyota group ecosystem の中で隣接)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
-## TL;DR
-
-豊田通商 (東証 PRIME **8015**) は **トヨタ自動車系の総合商社**、**Toyota Motor 持分約 22% 級主要株主** + **豊田自動織機 持分** という出資関係でトヨタグループ系列に組み込まれた **第 6 商社 / トヨタ系商社**。**自動車関連トレード (Toyota 海外ディーラー網、部品調達・物流)** + **アフリカ戦略 (CFAO 完全子会社化 2016 → アフリカ大陸最大級の流通網) で 5 大商社にない独自ポジション** + **モビリティ・新エネ (リチウム、レアアース)** が中核。JapanFG 文脈での重要性は (i) [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS)、(ii) [[JapanFG/toyota-financial|トヨタファイナンシャルサービス]] family (Toyota Motor 100% 子会社系、オートローン / リースプラットフォーム — 豊田通商とは別系列だが Toyota group ecosystem の中で隣接) との連携。^[inferred]
-
 ## 1. 会社概要
 
 | Item | Notes |
@@ -45,11 +41,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 設立 | 1948 年 (豊田産業 として設立、1956 年に豊田通商に改称) ^[extracted] |
 | 本社 | 名古屋市中村区 (名古屋本社)、東京本社 ^[extracted] |
 | 主要株主 | Toyota Motor (約 22% 級)、豊田自動織機、トヨタグループ各社 ^[extracted] |
-| 連結従業員 | 約 6〜7 万人 (CFAO アフリカ含む) ^[inferred] |
 | 会計基準 | IFRS ^[extracted] |
 | 主要セグメント | 金属、グローバル部品・ロジスティクス、自動車、機械・エネルギー・プラントプロジェクト、化学品・エレクトロニクス、食料・生活産業、アフリカ ^[extracted] |
-| FY 連結収益規模 (約) | 連結純利益 3,000〜4,000 億円級、5 大商社の下位 〜 中堅商社上位 ^[inferred] |
-| 格付 | A 格 (S&P / Moody's / R&I) ^[inferred] |
 
 ### 主要子会社・関連会社 (JapanFG 文脈)
 
@@ -95,13 +88,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | **トヨタファイナンシャルサービス (TFS) family** | **[[JapanFG/toyota-financial]]** | **Toyota Motor 100% 子会社 (豊田通商とは別系列)** | **オートローン / リース / 保険、Toyota 車両販売連動の世界最大級 captive finance** |
 
 加えて、**トヨタグループの financial-services エコシステム**:
-- **[[JapanFG/toyota-financial|TFS / トヨタファイナンス / トヨタファイナンシャルサービス]]** — Toyota Motor 100% 子会社、世界 30 ヶ国以上で auto loan / lease / insurance を展開する captive finance。豊田通商と直接資本関係はないが、Toyota group ecosystem の中で **「車両販売 = TFS」「ディーラー網 = 豊田通商 (海外)」** の役割分担で隣接 ^[inferred]
-- **三菱 UFJ 銀行 / [[JapanFG/mufg|MUFG]]** — Toyota Motor のメインバンク的位置、豊田通商も三菱グループ系列との取引が多い (旧 名古屋拠点 + 三菱グループ) ^[inferred]
-- **[[JapanFG/aichi-fg|あいち FG]] / 名古屋銀行 等の中京経済圏地銀** — トヨタサプライチェーン融資 ^[inferred]
-
-「**TFS = Toyota 車両販売 captive finance** (Toyota Motor 直系)」「**豊田通商 = ディーラー網・商社機能** (Toyota group 系商社)」「豊田通商フィナンス = 内向け CMS」の役割分担。商社系金融としては 5 大商社 (HCキャピタル / 東京センチュリー / SMFL / みずほリース / JA三井リース) のような **外向け総合リース捕捉** を持たないのが特徴 ^[inferred]
-
-## 4. 戦略・競争
 
 ### Toyota グループ系商社の identity
 
@@ -124,18 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 ## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 (CFAO 連結子会社化後は連結) ^[extracted]
-- **規制**: 商社単体は banking license 無し、金融子会社のみ貸金業・リース業対象 ^[inferred]
-- **会社法**: 東証 PRIME 上場、コーポレートガバナンス・コード適用、社外取締役過半数 ^[inferred]
-- **アフリカ規制**: CFAO 経由で各国の通関・関税・通貨・送金規制、医薬品規制 (CFAO Healthcare) ^[inferred]
-- **Toyota グループ依存リスク**: Toyota Motor の決算・生産動向に連動するリスク ^[inferred]
-
-## 6. Counterpoints
-
-- **「Toyota 依存リスク」**: 連結売上のかなりの部分が Toyota 車両関連、Toyota グループ全体の景気・EV シフト・北米関税政策に連動 ^[inferred]
-- **「アフリカ事業の volatility」**: CFAO 経由のアフリカ事業は為替・政情不安定・通貨切下げ等のリスク volatility 高い ^[inferred]
-- **「5 大商社級ではない規模」**: 純利益で 5 大の下位〜中堅商社上位、Top 5 入りには時間がかかる ^[inferred]
-- **「外向けリース・asset finance プラットフォーム不在」**: 5 大商社のように東京センチュリー / HCキャピタル / SMFL 級の外向け大手リース子会社を持たない構造 ^[inferred]
-- **「TFS との役割境界」**: Toyota グループ ecosystem 内での TFS (車両 captive finance) と 豊田通商 (商社) の境界が曖昧になるリスク ^[inferred]
 
 ## 7. Open questions
 

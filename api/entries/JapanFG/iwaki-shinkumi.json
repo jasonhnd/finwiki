@@ -46,18 +46,17 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "2. 営業地区・組合員資格",
     "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "福島県内信組ブロック (registry比較)",
-    "3. 系統内位置",
-    "全信組連内の位置付け"
+    "全信組連内の位置付け",
+    "東日本大震災・原発事故対応 (2011-) ^[inferred]",
+    "地域型信組の事業特性"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/abukuma-shinkin",
       "JapanFG/dbj",
       "JapanFG/dic",
       "JapanFG/osaka-shogin-shinkumi",
@@ -71,7 +70,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/abukuma-shinkin",
       "https://finwiki.zksc.io/JapanFG/dbj",
       "https://finwiki.zksc.io/JapanFG/dic",
       "https://finwiki.zksc.io/JapanFG/osaka-shogin-shinkumi",
@@ -87,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4707,
-    "word_like_tokens": 619,
+    "nonspace_chars": 4112,
+    "word_like_tokens": 555,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

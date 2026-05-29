@@ -51,11 +51,11 @@
     "Comparison vs embedded wallet operators",
     "Origin and evolution",
     "Use cases for AI agents",
-    "Counterpoints",
-    "Open questions"
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -67,7 +67,6 @@
       "agent-economy/erc-7702-eoa-delegation-primer-for-agents",
       "agent-economy/erc-7715-overview",
       "agent-economy/privy-embedded-wallet-overview",
-      "systems/erc-4337-overview",
       "systems/threshold-bft-consensus-rust-implementations"
     ],
     "resolved_wikilinks": [
@@ -81,16 +80,15 @@
       "https://finwiki.zksc.io/agent-economy/erc-7702-eoa-delegation-primer-for-agents",
       "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
       "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
       "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6533,
-    "word_like_tokens": 1086,
+    "nonspace_chars": 5627,
+    "word_like_tokens": 921,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

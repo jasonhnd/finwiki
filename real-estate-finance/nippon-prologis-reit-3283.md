@@ -92,7 +92,6 @@ This formal sponsor-support-agreement template has been replicated (in modified 
 | Geographic focus | Greater Tokyo (Funabashi, Inzai, Soka, Sagamihara), Greater Osaka, Aichi/Nagoya |
 | Tenant base | 3PL providers, e-commerce platforms (Amazon Japan presence is significant), retailers, manufacturers |
 | Sponsor pipeline source | Prologis Japan development pipeline |
-| Average occupancy | Typically high-90% area for stabilized AAA-grade portfolio ^[inferred] |
 
 ## 5. Capital and leverage
 
@@ -118,8 +117,6 @@ This formal sponsor-support-agreement template has been replicated (in modified 
 | Foreign-investor profile | High; benchmark name | High; benchmark name |
 | Distinctive feature | Prologis global scale and AAA-grade specification focus | GLP global scale and Singapore-anchored LP base |
 
-Both names compete for the AAA-grade modern-logistics tenant base. Investor selection between NPR and GLP J-REIT often comes down to (i) preference for US-sponsor vs Singapore-sponsor exposure, (ii) specific property-location footprint, (iii) AM-company strategic priorities. ^[inferred]
-
 ## 7. Why foreign sponsors anchor the modern-logistics segment
 
 The modern-logistics J-REIT segment in Japan is unusual in being **dominated by foreign sponsors** — Prologis (US) and GLP (Singapore) anchor the segment, while domestic developer-sponsors (Mitsui Fudosan, Mitsubishi Estate, Nomura Real Estate) play smaller roles in modern logistics relative to office and residential. Structural reasons:
@@ -131,22 +128,6 @@ The modern-logistics J-REIT segment in Japan is unusual in being **dominated by 
 | Capital efficiency | Foreign sponsors' global LP capital provided faster capital-deployment tempo than domestic balance-sheet financing alone |
 | Tenant relationship | International logistics tenants (Amazon, global 3PLs) prefer counterparties they know globally |
 | Reasonable counter | Domestic developers have responded with logistics-focused J-REIT entries (e.g. logistics sleeves within diversified J-REITs) |
-
-## Counterpoints
-
-- **"Foreign-sponsor concentration is a single-point-of-failure risk"** — partial. NPR is structurally bankruptcy-remote from Prologis; sponsor distress would affect pipeline but not existing portfolio cash flows.
-- **"AAA-grade specification is over-engineering"** — counterpoint: AAA-grade specifications drive tenant stickiness and rent premium that justify the development cost.
-- **"Logistics cap-rate has compressed too much"** — debated; logistics tenant demand growth has supported compression; BoJ normalization may reverse some compression.
-- **"NPR and GLP J-REIT will eventually merge"** — extremely unlikely; both are anchored to separate foreign-sponsor platforms with different global strategies.
-- **"Asset rotation creates churn that distracts management"** — counterpoint: rotation is the mechanism by which portfolio remains spec-current and tenant-attractive.
-
-## Open questions
-
-- Prologis global strategy evolution and implications for sustained Japan pipeline.
-- Whether NPR will diversify into adjacent asset classes (cold-chain, data center) or maintain pure AAA-grade modern logistics.
-- Foreign-investor flow sensitivity to JPY-USD hedging cost.
-- Long-run e-commerce penetration ceiling in Japan.
-- Competition from emerging domestic-sponsor logistics J-REIT entries and logistics sleeves of diversified J-REIT.
 
 ## Related
 

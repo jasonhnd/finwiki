@@ -19,7 +19,6 @@ status: candidate
 
 # IRS 1099-DA · 米国暗号資産税務報告の義務化
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -61,18 +60,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2014 IRS Notice 2014-21 で暗号資産を property と定義 → キャピタルゲイン報告を強制化。2021 Infrastructure Investment and Jobs Act で 1099-DA の法的根拠を創設。2023 IRS final rule + 2024 amendments で broker 定義を精緻化。2025-01 に 1099-DA が発効。2024-2026 にかけて DeFi の定義は複数回改定され、現時点では完全分散型プロトコルは一部免除。OECD CARF との協調(2026-2027 に各国が段階的に実装、詳細は [[fintech/carf-1099da-end-of-crypto-anonymity|CARF + 1099-DA 暗号匿名性の終焉]] を参照)= グローバル暗号税務の透明化。米国 VASP 規制の全体像は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
 
-## Counterpoints
-
-- 「完全分散型」基準は曖昧 · DeFi フロントエンド企業は依然として broker 責任を負う
-- non-custodial ウォレットの定義は IRS 2026 H2 の最終裁定が未定
-- CARF との協調執行の実効力に疑問 · OECD 加盟各国のペースに大きな差がある
-
-## Open questions
-
-- IRS 2026 H2 における non-custodial ウォレット(MetaMask)の最終裁定は?
-- Uniswap Labs / Aave DAO 等の DeFi フロントエンドの broker 責任の境界線は?
-- インドの 30% 課税 + 1% TDS + 1099-DA + CARF を経て、インド経由の節税ルートは完全に閉鎖されるのか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -83,4 +70,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

@@ -33,10 +33,6 @@ sources:
 
 # 有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)
 
-## TL;DR
-
-**有限責任監査法人トーマツ**（英名：Deloitte Touche Tohmatsu LLC）は **Big 4 系列** の一角で、グローバル **Deloitte Touche Tohmatsu Limited（DTTL）** の日本メンバーファーム。**デロイト トーマツ グループ**（コンサル・税理士・FAS・リスクアドバイザリー）の中核法人として、**M&A アドバイザリー連携と暗号資産 / デジタルアセット監査の先行性** が他 Big 4 比の特徴 ^[extracted]。1968 創業の等松・青木監査法人と Touche Ross 系の合流系譜を持ち、**2008-07 公認会計士法改正** で有限責任化。直近の論点は **CPAAOB 検査体制下の品質管理改革** と **デロイト グローバル分割議論（M&A コンサル + 監査ファイアウォール）** との連動 ^[inferred]。
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[JapanFG/ey-shinnihon|EY 新日本]] and [[JapanFG/pwc-aarata|PwC あらた]] for peer Big 4 audit context, and [[JapanFG/legal-financial-licenses/INDEX|金融ライセンス INDEX]] for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は [[JapanFG/fsa-supervision-bureau|金融庁 監督局]] と [[JapanFG/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
@@ -73,9 +69,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 | **2008-07** | **公認会計士法改正により有限責任監査法人化** ^[extracted] |
 | 2014 | デロイト トーマツ コンサルティングへのリブランディング（旧 アビーム コンサルティングからの分離経緯はやや異なる）^[ambiguous] |
 | 2020 頃〜 | **デジタルアセット監査 / Travel Rule コンサル先行参入** ^[extracted] |
-| 2023〜2024 | グローバル Deloitte の M&A 助言 + 監査ファイアウォール強化議論 ^[inferred] |
-
-## 3. 金融サービス監査・アドバイザリー実務
 
 ### 銀行 / 保険 / 証券 ^[extracted]
 
@@ -99,7 +92,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 ### M&A / FAS（監査と分離）^[extracted]
 
 - デロイト トーマツ ファイナンシャルアドバイザリー（DTFA）が **M&A 案件アドバイザリー**
-- 監査クライアントへの M&A 助言には SOX 同等のファイアウォールが運用 ^[inferred]
 
 ## 4. 主要 listed FG クライアント関係（公開ベース）
 
@@ -121,7 +113,6 @@ EDINET の **有価証券報告書 監査人の状況** で確認可能な範囲
 ### 過去の処分歴 ^[extracted]
 
 - 2010 年代の個別行政処分は **新日本（東芝）** や **PwC 系（中央青山）** に集中し、トーマツは大規模課徴金処分は限定的（公開ベース）^[ambiguous]
-- グローバル Deloitte 単位では海外（南アフリカ Steinhoff 事件等）で論点はあるが、日本法人への波及は限定的 ^[inferred]
 
 ## 6. 競合関係
 
@@ -133,21 +124,6 @@ EDINET の **有価証券報告書 監査人の状況** で確認可能な範囲
 | KPMG | [[JapanFG/kpmg-azsa|あずさ]] | 金融機関内部統制 |
 
 Tier 2：[[JapanFG/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三優監査法人 ^[extracted]。
-
-## Counterpoints
-
-- **「監査とコンサルの両建てモデル」**：DTTL グローバルの監査 / コンサル分離議論は継続中。日本法人は別法人化されているが、ブランド共有によるパーセプション論点 ^[ambiguous]
-- **「暗号資産監査の利益相反」**：JICPA 実務指針策定関与と顧客監査の両立はチャイニーズウォール運用に依存 ^[ambiguous]
-- **「Big 4 寡占リスク」**：上場会社監査市場における Big 4 集中は競争政策論点 ^[inferred]
-- **「監査報酬水準」**：欧米比で低水準の国内監査報酬と品質確保のトレードオフ ^[inferred]
-
-## Open questions
-
-- トーマツの最新の listed FG / VASP 監査クライアント具体的リスト
-- 直近 CPAAOB 検査での個別指摘内容
-- デロイト グローバル分割案進展（2025〜）の日本影響
-- AI 監査ツール（Deloitte Omnia 等）の国内展開度
-- サステナビリティ保証市場でのシェア争い
 
 ## Related
 

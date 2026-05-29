@@ -70,8 +70,6 @@ Points work because they compress four systems into one user behavior:
 3. **Financial distribution**: points create a reason to hold the group card, bank account, securities account, or app.
 4. **Data graph**: purchase, location, payment, and campaign response data become sellable marketing infrastructure.
 
-## Ecosystem Notes
-
 ### Rakuten
 
 Rakuten Point is the clearest full-ecosystem loop: shopping earns points, card spend earns points, points can subsidize future shopping or mobile bills, and financial products reinforce the same account graph. This is why [[JapanFG/rakuten-fg|Rakuten FG]] should be read as a distribution system, not just a finance segment.
@@ -97,14 +95,6 @@ WAON and nanaco are retail-operating systems first. They bind daily grocery / co
 | Which telco finance group has the best cross-sell base? | [[JapanFG/ndfg|NDFG]] if d Point + d払い + d Card are integrated cleanly. |
 | Which PSPs benefit indirectly? | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] and other PSPs because merchants need multi-payment acceptance and campaign routing. |
 | Which legal page should be checked? | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] when a point becomes cash-like or transferable. |
-
-## Open Questions
-
-- Which point programs have durable economics after campaign intensity declines?
-- Will V Point become a bank-led national point system or remain a coalition program with uneven partner depth?
-- Can d Point become the anchor of NDFG's finance distribution without confusing users across d払い, d Card, and bank partners?
-- How should purchased points, refunded points, expired points, and transferred points be modeled in legal and accounting analysis?
-- Which programs have enough first-party data to become retail media platforms rather than simple reward ledgers?
 
 ## Related
 

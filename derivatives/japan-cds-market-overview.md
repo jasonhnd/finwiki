@@ -39,8 +39,6 @@ This entry sits under [[derivatives/INDEX|derivatives index]] as the routing sur
 
 On the issuer side, the corporate-credit anchor pages are [[finance/INDEX|finance index]], [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]], and [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]]. On the user side, [[banking/INDEX|banking index]] and [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] frame the megabank / insurer demand for credit-hedging tools. [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] frames the dealer-to-hedge-fund plumbing that supports single-name CDS liquidity.
 
-## Market structure
-
 ### Product taxonomy
 
 | Product | Description | Typical user |
@@ -118,8 +116,6 @@ Japan CDS clearing is bifurcated:
 
 The CFTC clearing mandate and equivalent regimes in Japan (FIEA), EU (EMIR), UK (UK EMIR) drive most dealer-to-dealer trades into central clearing. Buy-side clients clear via dealer clients (client-clearing arrangement) rather than direct membership.
 
-## Pricing reference and curve construction
-
 ### CDS spread quoting
 
 | Convention | Detail |
@@ -148,8 +144,6 @@ Most investment-grade Japan corporate CDS curves are upward-sloping (1Y < 3Y < 5
 | T+5 to T+30 | Liquidity migration completes; off-the-run series widens vs on-the-run |
 
 Roll basis (the spread difference between consecutive series) reflects credit-quality changes in constituents and supply-demand at the roll. Arbitrage funds and dealer trading desks position around the roll.
-
-## Counterparts and market plumbing
 
 ### Counterparty types
 
@@ -188,23 +182,6 @@ The 2014 ISDA Credit Derivatives Definitions replaced the 2003 Definitions and s
 | 2020-Q1 | COVID credit spread blowout; CDS basis dislocation across investment-grade Japan |
 | 2022-2023 | BOJ yield-curve-control adjustments triggered episodic CDS spread moves on financials |
 | 2024-2025 | Continued thin single-name volumes; selective interest in Japan financial CDS during global bank-stress episodes |
-
-## Counterpoints
-
-- Japan CDS volumes are small versus US dollar and euro corporate CDS; many institutional analyses treat the JGB curve plus issuer credit spread as a proxy rather than trading CDS directly.
-- Single-name CDS liquidity below Tier 1 names can be illusory; quoted spreads do not always translate into executable size.
-- Domestic megabank treasuries are not active CDS dealer market-makers; the dealer set is dominated by global-bank Tokyo branches and Nomura.
-- JSCC CDS clearing exists but most cross-border flow remains at ICE Clear Credit, leaving JSCC volumes modest relative to its full-curve build-out.
-- Structured-product hedging flows (CLN issuance for retail Japan investors) inject one-sided protection-buying demand that can distort single-name spreads.
-- Regulatory and accounting treatment of CDS under JGAAP and FSA / IFRS 9 hedging rules constrains insurer and bank uptake versus what pure credit-economics would suggest.
-
-## Open questions
-
-- Will JSCC CDS clearing scale to meaningful global share, or remain a domestic-flow venue?
-- How will the post-LIBOR / TONA-anchored funding environment affect CDS-bond basis trades? See [[derivatives/japan-irs-market|Japan IRS market]] and [[derivatives/yen-basis-swap-market|yen basis swap]] for the cross-curve context.
-- Will Japanese life insurer ALM frameworks under ESR open more capacity for credit-spread hedging via CDS? See [[insurance/japan-life-insurance-alm-overview|Japan life ALM]].
-- Will iTraxx Japan composition rebalance as cross-shareholding unwinding shifts effective leverage profiles? See [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]].
-- How will dealer balance-sheet capacity constraints affect Japan single-name CDS liquidity through credit cycles?
 
 ## Related
 

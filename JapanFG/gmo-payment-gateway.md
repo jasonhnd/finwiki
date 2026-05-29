@@ -17,7 +17,6 @@ sources:
 
 # GMO ペイメントゲートウェイ
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/famima-digital-one|ファミマデジタルワン (FamiMa Digital One)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
@@ -55,25 +54,19 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2000 | GMO ペイメントゲートウェイ 改称 ^[extracted] |
 | 2005 | 東証マザーズ 上場 ^[extracted] |
 | 2008 | 東証一部 上場 ^[extracted] |
-| 2010 年代 | EC ブームで急成長・加盟店急増 ^[inferred] |
 | 2015〜 | 三井住友カード 戦略提携深化 ^[ambiguous] |
 | 2010 年代後半〜 | アジア展開加速 (ベトナム・台湾・タイ) ^[ambiguous] |
-| 2022 | 東証市場区分見直し → 東証 PRIME ^[inferred] |
 | 2024〜 | 中期経営計画 (詳細は IR 参照) ^[ambiguous] |
-
-## 4. 戦略・競争
 
 ### 国内戦略
 
 - **EC 加盟店ベース**:30 万店超 ^[ambiguous] の加盟店ネットワークが堀
 - **三井住友カード 戦略提携**:[[smfg]] 系のカード会社との関係深化、SMBC GMO PAYMENT (SMBC との合弁) も展開 ^[ambiguous]
-- **トランザクションレンディング**:加盟店の決済データを活用した融資 (BaaS 的展開) ^[inferred]
 - **Pay.JP**:Stripe 対抗の開発者向け簡易決済 SDK
 
 ### 海外戦略
 
 - **アジア集中**:ベトナム NextPay / 台湾 ECPay / タイ等への出資・JV
-- ASEAN の EC 拡大に乗る形 ^[inferred]
 
 ### 競合マップ
 
@@ -90,16 +83,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **主管**:金融庁・経済産業省 (割賦販売法・資金決済法)
 - **業態**:決済代行業 (登録制ではないが、加盟店契約・PCI DSS 準拠が実質的参入障壁)
 - **規制論点**:
-  - 2025〜 ステーブルコイン制度の導入で決済インフラ再編 ^[inferred]
-  - 加盟店保護 (倒産時の預り金扱い・改正割販法対応) ^[inferred]
-  - PCI DSS v4.0 移行 ^[inferred]
 
 ## 6. Counterpoints
 
 - **「親会社 GMO インターネットグループ依存」**:連結子会社・グループブランド経由の信用補完 vs 独立性 ^[ambiguous]
-- **「QR 決済波への対応」**:SB ペイメント (PayPay)・楽天ペイに対しカード決済軸の優位は維持可能か ^[inferred]
-- **「アジア展開 ROI」**:NextPay / ECPay 等の出資効果は短期収益化困難 ^[inferred]
-- **「Stripe / Adyen のクロスボーダー攻勢」**:グローバル SaaS 系 PSP の日本市場浸透リスク ^[inferred]
 - **「SMBC GMO PAYMENT」二重展開**:本体 GMO-PG と合弁先 SMBC GMO PAYMENT との顧客カニバリ整理 ^[ambiguous]
 
 ## 7. Open questions

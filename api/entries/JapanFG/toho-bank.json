@@ -43,10 +43,10 @@
     "1. 会社概要",
     "業態の特徴",
     "主要関連会社(推定)^[ambiguous]",
-    "2. 沿革",
     "戦時統合期: 一県一行政策下の発足",
     "戦後〜バブル期",
-    "東日本大震災 + 原発事故(最重要)★"
+    "東日本大震災 + 原発事故(最重要)★",
+    "地理的地盤"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -80,15 +80,13 @@
       "https://finwiki.zksc.io/sbi-regional-bank-hd",
       "https://finwiki.zksc.io/smfg"
     ],
-    "external_links_count": 1,
-    "external_links": [
-      "福島県を含む東北南部・関東北部地域を視野"
-    ]
+    "external_links_count": 0,
+    "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5485,
-    "word_like_tokens": 674,
+    "nonspace_chars": 4037,
+    "word_like_tokens": 533,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

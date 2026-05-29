@@ -50,13 +50,13 @@
     "Japan financial conglomerate structure overview",
     "TL;DR",
     "Wiki route",
-    "The Six FG Clusters",
     "1. Mega-bank FG (G-SIB tier)",
     "2. Trust-dominant FG (independent trust line)",
     "3. Postal and policy-finance institutions",
     "4. Communications and payment FG (telecom / EC-origin conglomerates)",
     "5. Independent securities / asset-management FG",
-    "6. Regional bank FG"
+    "6. Regional bank FG",
+    "FSA Conglomerate Supervision"
   ],
   "body_links": {
     "wikilinks_count": 63,
@@ -194,9 +194,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13139,
-    "word_like_tokens": 2021,
+    "nonspace_chars": 11708,
+    "word_like_tokens": 1796,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

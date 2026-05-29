@@ -51,10 +51,10 @@
     "1. License / 組織構造",
     "都市信連としての特徴 ^[extracted]",
     "重要年表 ^[extracted / inferred]",
-    "2. 業務 map",
     "4 大機能 (信連共通) ^[extracted]",
     "東京都信連の固有業務 ^[inferred]",
-    "ALM・資金フロー ^[inferred]"
+    "ALM・資金フロー ^[inferred]",
+    "規模感 (推定) ^[ambiguous]"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6820,
-    "word_like_tokens": 1019,
+    "nonspace_chars": 5414,
+    "word_like_tokens": 830,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

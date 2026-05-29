@@ -65,8 +65,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
   └── その他事業（ISID = ITOCHU Techno-Solutions と関連、メディア・コンテンツ）
 ```
 
-## 2. 業務ライン
-
 ### 2.1 電通ベンチャーズ（Dentsu Ventures）
 
 | Item | 内容 |
@@ -98,8 +96,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 - Dentsu International（旧 Aegis Group 統合後の海外統括）の **国際資金管理**
 - 為替リスク管理・国際送金・グループ内ファイナンス
 - 海外子会社の M&A 資金供給
-
-## 3. 戦略
 
 ### 3.1 CVC モデル（電通ベンチャーズ）
 
@@ -164,23 +160,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 | ライセンス | 電通ベンチャーズ等は **VC ファンドの GP** として **金融商品取引業者（適格機関投資家等特例業務）** 登録 ^[likely] |
 | 親会社情報開示 | 東証 PRIME（4324）の有価証券報告書・四半期報告書 |
 | 業界団体 | 日本広告業協会（広告業界）+ 日本 VC 協会（CVC 業界）|
-
-## Counterpoints
-
-- 「金融子会社」観: 電通グループは銀行・保険・カード等の **典型的金融プロダクトを持たない**、金融機能は CVC + M&A + 請求管理に限定 ^[inferred]
-- 「電通ベンチャーズ」: 単独 CVC として国内 Top-20 規模だが、メガバンク CVC や [[JapanFG/sbi-hd|SBI HD]] 系 vs スケール劣後 ^[inferred]
-- 「広告主請求管理」: 兆円規模の取扱だが、独立金融サービスではなく **広告代理店本業の付帯機能** で、外部顧客向け請求代行サービスとして展開しているわけではない ^[likely]
-- 「海外 M&A」: 2012 Aegis Group 買収以降の海外拡張は大規模だが、後年の **のれん減損・収益性低下** リスクの議論も継続 ^[ambiguous]
-- 「ファイナンス独立法人」観: 子会社としての法人・登録ステータスは時期により変動、最新の連結範囲は親会社有価証券報告書を要参照 ^[ambiguous]
-
-## Open questions
-
-- 電通ベンチャーズの累計投資件数・回収（Exit）実績?
-- 電通キャピタルの正確な法人形態（子会社化されているか持株会社内部門か）?
-- 広告主向け請求管理機能の **外部金融サービス化** 余地?
-- メーカー captive-finance（[[JapanFG/toyota-finance|トヨタファイナンス]] 等）と異なり、消費者金融プロダクトを持たない理由?
-- 海外子会社（Dentsu International）の **国際資金管理 / グループ内ファイナンス** の規模感?
-- 競合広告大手（博報堂 DY HD・WPP Japan・サイバーエージェント）との CVC / M&A 戦略の比較?
 
 ## Related
 

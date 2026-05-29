@@ -53,12 +53,12 @@
     "TL;DR",
     "Wiki route",
     "Why corporate equity-vol hedging matters",
-    "Use case 1 — cross-shareholding portfolio variance hedge",
     "The exposure",
     "The hedging problem",
     "The instrument set",
     "Regulatory boundary",
-    "Use case 2 — employee stock option (ESO) volatility"
+    "The exposure",
+    "The hedging problem"
   ],
   "body_links": {
     "wikilinks_count": 31,
@@ -132,9 +132,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21294,
-    "word_like_tokens": 3330,
+    "nonspace_chars": 18464,
+    "word_like_tokens": 2871,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

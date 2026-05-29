@@ -44,9 +44,9 @@
     "機関設計 ^[extracted]",
     "業務範囲 ^[extracted]",
     "融資残高 (概算) ^[ambiguous]",
-    "2. 沿革",
     "公営企業金融公庫時代 (1957-2008)",
-    "地方公共団体金融機構時代 (2009-現在)"
+    "地方公共団体金融機構時代 (2009-現在)",
+    "3. 事業セグメント map"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5388,
-    "word_like_tokens": 646,
+    "nonspace_chars": 4549,
+    "word_like_tokens": 561,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

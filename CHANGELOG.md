@@ -31,6 +31,35 @@
 
 ## 2026-05-29
 
+### 主観内容の隔離（Phase 1）· 客観事実 wiki への再構成 / Subjective-content quarantine (Phase 1) — recompose into a facts-only wiki / 主观内容隔离（Phase 1）· 重构为客观事实 wiki
+
+#### 日本語記録
+
+- **背景 / 方針**: 「FinWiki は客観事実の記録であり、主観意見を持たない(主観は将来別板块へ)。客観事実は依拠・リンク・evidence を伴う」という方針に基づき、本文から主観的内容を分離する大規模再構成を開始。
+- **隔離の仕組み**: `.opinions/` ミラーディレクトリを新設(git 追跡だが公開 wiki 面・監査・計数からは除外)。各エントリーの主観内容を `.opinions/<同じパス>` に出典バックリンク付きで移動し、本文には evidence を伴う客観事実のみを残す。ツール 2 点を更新: `wiki_link_audit.py`(IGNORED_DIRS に `.opinions` 追加)、`generate_ai_discovery.py`(`iter_markdown_files` で `.opinions` 除外)。新ツール `tools/extract_opinions.py`(決定論的抽出 + dry-run/apply)。
+- **Phase 1 範囲(決定論的 3 種を自動抽出)**: (1) `^[inferred]` 標注の推論行 **1,928 行**、(2) `## Counterpoints`(反論)節、(3) `## Open questions`(未解決)節 — 合計 **1,218 節**。**678 エントリー**が対象、対応する `.opinions/` ファイル 678 + 手動 pilot(jamie-dimon)1 = 679。
+- **手動 pilot(jamie-dimon)**: 判定基準の校正のため 1 件を全工程で先行実施(Mechanism の解釈・診断テンプレート・編集的タイトルも分離)。承認後に Phase 1 を全件展開。
+- **未実施(Phase 2、要判断)**: 解釈的な `## Mechanism / How it works` 節、編集的タイトル、整篇 thesis/template 型エントリーは、域・内容ごとの判断が要るため別の review 済みパスで処理予定。
+- **検証**: `wiki_link_audit.py` 1411 entries / **0 issues**(抽出で peer link を失った `systems/hyperledger-besu-overview.md` 1 件を Wiki route に peer 追加で修復)、LF 統一、`.opinions` は公開計数・監査・discovery から除外を確認。
+
+#### English record
+
+- **Context / policy**: Under the policy "FinWiki is a record of objective facts and holds no subjective opinion (opinions may get a separate section later); objective facts must carry a basis, links, and evidence," began a large recomposition to separate subjective content out of entry bodies.
+- **Quarantine mechanism**: Added a `.opinions/` mirror directory (git-tracked but excluded from the public wiki surface, audit, and counts). Each entry's subjective content is moved to `.opinions/<same path>` with a source backlink, leaving only evidence-backed objective facts in the body. Updated two tools: `wiki_link_audit.py` (added `.opinions` to IGNORED_DIRS) and `generate_ai_discovery.py` (skip `.opinions` in `iter_markdown_files`). Added `tools/extract_opinions.py` (deterministic extraction, dry-run/apply).
+- **Phase 1 scope (auto-extract the 3 deterministic kinds)**: (1) `^[inferred]`-tagged inference lines — **1,928**; (2) `## Counterpoints` sections; (3) `## Open questions` sections — **1,218** sections total. **678 entries** affected; 678 `.opinions/` files + 1 manual pilot (jamie-dimon) = 679.
+- **Manual pilot (jamie-dimon)**: One entry done end-to-end first (also moving the interpretive Mechanism, the diagnostic template, and the editorial title) to calibrate the objective/subjective boundary; Phase 1 rolled out after approval.
+- **Not yet done (Phase 2, judgment-laden)**: interpretive `## Mechanism / How it works` sections, editorial titles, and whole thesis/template entries need per-domain judgment and will be handled in a separate reviewed pass.
+- **Validation**: `wiki_link_audit.py` 1411 entries / **0 issues** (one entry, `systems/hyperledger-besu-overview.md`, lost its peer link during extraction → fixed by adding a peer link to its Wiki route), LF endings, `.opinions` confirmed excluded from public counts/audit/discovery.
+
+#### 中文记录
+
+- **背景 / 方针**: 依据"FinWiki 是客观事实的记录、不含主观意见(主观以后另开板块);客观事实必须有依据、链接、evidence"的方针，开始把主观内容从正文分离的大规模重构。
+- **隔离机制**: 新建 `.opinions/` 镜像目录(git 追踪，但排除出公开 wiki 面 / 审计 / 计数)。每条 entry 的主观内容连同出处回链移到 `.opinions/<相同路径>`，正文只留有 evidence 的客观事实。更新两个工具: `wiki_link_audit.py`(IGNORED_DIRS 加 `.opinions`)、`generate_ai_discovery.py`(`iter_markdown_files` 跳过 `.opinions`)。新增 `tools/extract_opinions.py`(确定性抽取，dry-run/apply)。
+- **Phase 1 范围(自动抽取确定性三类)**: ①`^[inferred]` 标注的推论行 **1,928 行**;②`## Counterpoints`(反论)节;③`## Open questions`(未解决)节 —— 共 **1,218 节**。**678 条 entry** 受影响;678 个 `.opinions/` 文件 + 手动 pilot(jamie-dimon)1 = 679。
+- **手动 pilot(jamie-dimon)**: 为校准客观/主观边界，先全流程做 1 条(并移出解释性 Mechanism、诊断模板、编辑性标题);认可后再全量展开 Phase 1。
+- **未做(Phase 2，需判断)**: 解释性的 `## Mechanism / How it works` 节、编辑性标题、整篇 thesis/template 型 entry，需按域/内容判断，留待单独 review 过的一轮处理。
+- **验证**: `wiki_link_audit.py` 1411 entries / **0 issues**(抽取中失去 peer link 的 `systems/hyperledger-besu-overview.md` 1 条，已在 Wiki route 补 peer link 修复)，LF 统一，`.opinions` 已确认排除出公开计数/审计/discovery。
+
 ### 本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误
 
 #### 日本語記録

@@ -17,7 +17,6 @@ sources:
 
 # メットライフ生命保険 (MetLife Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -50,38 +49,27 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 主要進出国 | 米国・日本・韓国・メキシコ・チリ等 ~40 ヶ国 |
 | グループ総資産 | 約 $700B 規模（連結、業界最大級）|
 
-> 親会社 MetLife, Inc. のアジア事業の中で **日本市場は最大のリージョン**（売上・利益ともに）。^[inferred]
-
 ## 2. 重要歴史（年表）
 
 | 年月 | 事象 |
 |---|---|
 | 1973-01 | **アリコジャパン** 開業（米 American Life Insurance Company / ALICO の日本支店として）^[extracted] |
-| 1980s〜90s | ガン保険・医療保険等の「**第三分野**」で先行参入、国内大手生保（[[nippon-life]]・[[dai-ichi-life]] 等）の手薄領域を開拓 ^[inferred] |
 | 2001 | 米 **AIG が ALICO を完全子会社化** → アリコジャパンも AIG 傘下に ^[extracted] |
 | 2008-09 | リーマン・ショック後、AIG 経営危機（米政府救済、AIG 主要子会社売却方針）^[extracted] |
 | **2010-03-08** | **米 MetLife が AIG から ALICO 買収合意発表**（約 **155 億ドル**、米保険業界最大級 M&A）^[extracted] |
 | **2010-11-01** | **MetLife / ALICO 買収 完了** ^[extracted] |
 | 2011-04 | アリコジャパン → **メットライフアリコ生命保険** に商号変更 ^[extracted] |
 | **2012-04** | **メットライフアリコ → メットライフ生命保険** 改称（「アリコ」名消滅）^[extracted] |
-| 2014〜 | 外貨建保険（米ドル建終身・定期）拡販フェーズ、銀行窓販シェア拡大 ^[inferred] |
-| 2019 | 金融庁 外貨建保険販売の苦情急増 → 業界全体で適合性原則強化 → 同社も募集体制見直し ^[inferred] |
-| 2020〜 | コロナ禍 + 米ドル金利上昇 → 米ドル建保険の予定利率優位性 → 外貨建市場でのプレゼンス維持 ^[inferred] |
-| 2024 | 中期経営計画（詳細は対外非開示）^[inferred] |
 
 ### 旧アリコジャパン期の業界的位置 ^[inferred]
 
 - 1970s〜80s「**外資系生保第 1 世代**」: アリコ / [[axa-japan]]（旧日本団体生命）/ [[aflac-japan]]（旧 アメリカンファミリー生命）の 3 社が日本で外資ブランドを確立した先駆け。
 - 「営業職員モデル + 第三分野（医療・ガン・介護）」を国内大手より早期に展開し、平成期の「医療保険ブーム」を牽引。
 
-## 3. 戦略・競争
-
 ### 商品戦略
 
 - **外貨建保険（米ドル建）が主力**：米ドル建終身保険・米ドル建定期保険・米ドル建年金保険等で国内シェア上位 ^[extracted]
 - **円建保険**：終身・定期・医療・ガン保険等のラインナップ ^[extracted]
-- **団体保険**：法人向け団体定期・退職金準備プラン ^[inferred]
-- **第三分野**（医療・ガン・介護・就業不能）：旧アリコ期からの強みを継承 ^[inferred]
 
 ### チャネル戦略（3 チャネル並走モデル）
 
@@ -89,15 +77,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|
 | フィナンシャル・アドバイザー（FA）| 専属営業職員、富裕層・経営者向けコンサル型営業 |
 | 代理店 | 乗合代理店（ほけんの窓口等）/ 専属代理店 |
-| 銀行窓販 | メガバンク・地銀・信託銀行と広範に提携、外貨建保険の主力販売チャネル ^[inferred] |
-
-> 日系大手（[[nippon-life]] / [[dai-ichi-life]] / [[JapanFG/meiji-yasuda|meiji-yasuda-life]] / [[sumitomo-life]]）が「営業職員チャネル中心」、ネット系（ライフネット等）が「ダイレクト」、外資系は「**マルチチャネル**」モデルを志向。MetLife はその代表格。^[inferred]
-
-### グローバル MetLife リソース活用
-
-- 米親会社の運用力（**MetLife Investment Management**、世界有数の機関投資家）を活用した外貨建商品の運用 ^[inferred]
-- グローバル MetLife のアジア地域戦略との連動（韓国・中国 等市場との運用・商品設計の相互参照）^[inferred]
-- 米親会社の財務基盤（A 格付け前後の高格付け）が日本での信頼性訴求の支柱 ^[inferred]
 
 ### 主要競合
 
@@ -118,26 +97,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **資本規制**: ソルベンシー・マージン比率（SMR）、2025-04〜 経済価値ベースのソルベンシー規制（**ICS / J-ICS**）本格適用 ^[extracted]
 - **米親会社規制**: 米連邦準備制度（FRB）/ ニューヨーク州保険局（NYDFS）等
 - **近年論点**:
-  - **外貨建保険の販売苦情問題**（2019〜）: 金融庁が適合性原則強化、業界横断の販売体制見直し → 同社も影響大 ^[inferred]
-  - **2025〜 J-ICS 規制**: 経済価値ベース資本規制 → 外貨建商品の資本コスト変動 ^[inferred]
-  - **超長期金利上昇局面**: 円建商品の予定利率改定・新商品余地拡大 ^[inferred]
-
-## Counterpoints
-
-- 「**外貨建保険 シェア集中リスク**」: 米ドル建依存 → 為替（ドル円）変動と米国金利サイクルが収益に直結 ^[inferred]
-- 「**販売手数料 / 苦情問題**」: 2019〜 金融庁が外貨建保険の銀行窓販で苦情急増を問題視、業界全体で募集体制・適合性原則の見直しが実施 ^[inferred]
-- 「**外資系の本国優先 vs 日本市場特殊性**」: 米親会社の世界戦略と日本市場の規制・顧客特性のズレ。経営方針の本国主導 vs 日本独自最適のバランス ^[inferred]
-- 「**ALICO 旧顧客の継承**」: 1973 開業以来のアリコ時代顧客のロイヤリティ vs 2 度の改称（アリコ → メットライフアリコ → メットライフ）でのブランド認知再構築 ^[inferred]
-- 「**第三分野での AFLAC との競合激化**」: [[aflac-japan]] がガン保険・医療保険で国内シェア圧倒、メットライフは外貨建で差別化 ^[inferred]
-
-## Open questions
-
-- 米親会社 MetLife, Inc. のアジア事業ポートフォリオ（日本・韓国・中国）の中での日本子会社の戦略的位置付けは？
-- 2025-04〜 J-ICS 規制本格適用下での外貨建商品ポートフォリオの再構築は？
-- 銀行窓販チャネルの将来性（適合性原則強化下での収益貢献）は？
-- 第三分野での [[aflac-japan]] への対抗策（医療・ガン保険）は？
-- MetLife Investment Management 経由のグローバル運用が日本顧客の予定利率にどう還元されるか？
-- 日本子会社の上場・分離売却シナリオ（米親会社が地域子会社の現地上場や戦略的売却を行う前例あり）は？^[ambiguous]
 
 ## Related
 

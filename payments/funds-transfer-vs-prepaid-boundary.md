@@ -24,7 +24,6 @@ sources:
 
 # Funds transfer vs prepaid boundary in Japan
 
-
 ## Wiki route
 
 This entry sits under [[payments/INDEX|payments index]]. Read it with [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -85,20 +84,6 @@ For the registered third-party prepaid issuer population, use [[payments/prepaid
 - **Business economics**: prepaid value, remittance balances, reward points, and merchant settlement all create different liability and float profiles.
 - **License strategy**: a company may avoid P2P transfer to remain in a prepaid-like structure, or obtain funds-transfer registration to enable wallet network effects.
 - **JapanFG routing**: bank groups, payment groups, retailers, and stablecoin projects should be compared by legal balance layer, not by app UI.
-
-## Counterpoints
-
-- Public-facing apps often hide the legal decomposition from users; terms and registration lists must be checked.
-- A balance can be funded, spent, transferred, refunded, or rewarded through different sub-ledgers.
-- Loyalty points can sometimes resemble value transfer but still require separate accounting and legal analysis.
-- Stablecoin / EPI products add another layer and should not be forced into the prepaid / funds-transfer binary.
-
-## Open Questions
-
-- Which major code-payment providers use separate sub-balances for transfer, prepaid, points, and card-linked payment?
-- When does point exchange or balance transfer become close enough to remittance to require a different regulatory route?
-- How will EPI and stablecoin products coexist with legacy prepaid and funds-transfer wallet balances?
-- Which user-fund safeguarding disclosures are easiest for consumers to understand?
 
 ## Related
 

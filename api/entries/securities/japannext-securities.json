@@ -43,7 +43,6 @@
     "System Map",
     "Venue Map",
     "Strategic Reading",
-    "Counterpoints",
     "Related",
     "Sources"
   ],
@@ -77,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2738,
-    "word_like_tokens": 400,
+    "nonspace_chars": 2520,
+    "word_like_tokens": 363,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

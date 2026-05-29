@@ -60,8 +60,6 @@ The institutional form is distinctive within the policy-finance constellation: J
 
 The boundary with JBIC and NEXI is structural and rarely contested in practice: JOGMEC absorbs upstream risk that lenders and insurers will not price; JBIC and NEXI sit downstream once the project is sufficiently de-risked to be bankable.
 
-## 2. 主要事業 / 商品メニュー
-
 ### 2.1 Product / instrument table
 
 | Lane | Instrument | Typical use | Counterpart | Sector focus |
@@ -227,25 +225,6 @@ Offtake is the operational mechanism that makes upstream equity a resource-secur
 | Geographic focus | Australia + Indonesia + Latin America + Africa + Canada | Similar geography | Global, including Belt-and-Road jurisdictions | Australia + selected international | US + allied jurisdictions | Global |
 
 The comparison highlights two contrasts: (1) within the developed-economy state-investor world (Japan, Korea, Australia, US), JOGMEC's minority-equity-behind-sponsor model is broadly representative; (2) Chinese SOEs operate with a different vertically integrated model that allows majority or sole sponsorship of strategic resource projects, generating structurally different competitive dynamics in tender processes.
-
-## Counterpoints
-
-- **Public exposure concentration.** Stacked JOGMEC equity + [[JapanFG/jbic|JBIC]] direct loans + [[policy-finance/nexi|NEXI]] insurance + Japanese sponsor equity on a single frontier-country project concentrates Japanese state and corporate exposure to a high degree. Single-project failure cascades widely.
-- **Exploration-loss recognition.** Failed exploration is by design a JOGMEC loss-absorption event; making this acceptable politically requires sustained mandate clarity through Diet appropriation cycles.
-- **Critical-minerals competition.** Japan is one of several developed economies (US, EU, UK, Korea, Australia) seeking critical-minerals supply security; competition for the same upstream assets has intensified. Chinese state finance (CDB, SAFE, Chinaco-state-owned mining firms) is often unconstrained relative to JOGMEC's appropriation-funded model.
-- **Domestic resource R&D yield.** Methane-hydrate R&D and similar long-running frontier programs have absorbed significant appropriation without yielding commercial-scale outcomes; political support reflects energy-security framing rather than economic-return logic.
-- **Stockpiling vs market intervention boundary.** Strategic rare-metal stockpile release in market-disruption events raises questions about market distortion and the discipline of release decisions.
-- **CCS / hydrogen / ammonia mandate creep.** The 2023 mandate widening into CCS, hydrogen, and ammonia means JOGMEC is now structurally involved in industries that overlap with other policy-finance institutions; perimeter clarity is incomplete.
-
-## Open questions
-
-- The aggregate exposure and loss-absorption performance of post-2022 critical-minerals equity vintages.
-- How the 2024 fund expansion translates into sustained deal flow versus episodic transactions.
-- The medium-term resolution of CCS, hydrogen, and ammonia projects — whether JOGMEC equity becomes a recurring feature of these emerging sectors.
-- Whether AZEC-frame Southeast Asian transition projects generate material JOGMEC equity participation.
-- The forward shape of JOGMEC's relationship with private mining majors as critical-minerals competition intensifies — whether Japan can maintain preferred-partner positioning.
-- How rapidly the rebrand to "Japan Organization for Metals and Energy Security" translates into operational reorganisation versus formal branding only.
-- The friend-shoring sustainability question — how JOGMEC equity exposures behave should geopolitical alignments shift.
 
 ## Related
 

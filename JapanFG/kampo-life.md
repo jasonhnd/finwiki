@@ -17,7 +17,6 @@ sources:
 
 # かんぽ生命保険 (Japan Post Insurance)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -88,15 +87,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 販売チャネル（本体）| 自社直営店 | 限定的 |
 | 販売チャネル（提携）| 日本郵便 = 約 2 万郵便局（販売代理店契約） | **最大の差別化要因**・全国網羅 |
 | 顧客層 | 高齢者・地方居住者・中小規模個人 | 旧簡保時代からの長期契約者を多く保有 |
-| 資産運用 | 国債中心の保守的運用（旧簡保由来）| 国内最大級の機関投資家の一角 ^[inferred] |
-| 海外戦略 | 限定的 | 国内集中型（[[dai-ichi-life]] / [[nippon-life]] 等と対照的）^[inferred] |
-
-## 3. 戦略・競争
 
 ### 旧簡易保険ブランドと郵便局網
 
 - **1916 創業の簡易保険ブランド**は地方・高齢者層への浸透が極めて深く、民営化後も**全国約 2 万郵便局網**をリテール基盤として活用 → 他社生保にはない物理的アクセス優位
-- 営業職員チャネルは旧簡保 OB 中心 → コスト構造に旧国営由来の負担が残存 ^[inferred]
 - 銀行窓販・ネット販売は他社（[[dai-ichi-life]] フロンティア生命等）と比べ後発
 
 ### 商品多様化と民営化後制約
@@ -116,7 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 政府保有比率の低下
 
 - 日本郵政（親会社）が**段階的にかんぽ生命株式を売却**することが民営化スキームに組み込まれる
-- 完全民営化シナリオ vs ユニバーサルサービス義務維持（郵便局網経由販売の継続性）のバランスが論点 ^[inferred]
 
 ### デジタル化・顧客中心戦略
 
@@ -126,7 +119,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 4. 規制・政策
 
-- **主管**: 金融庁（保険業法）+ 総務省（郵政民営化法・日本郵政グループ監督）の**二重監督**が特徴 ^[inferred]
 - **持株会社規制**: 日本郵政が金融持株会社規制対象（銀行・保険双方）
 - **民営化法**: 日本郵政株式・かんぽ生命株式の段階的処分義務
 - **業務改善命令履歴**: 2019-12 / 2020-04（**3 ヶ月業務停止**）— 国内大手生保で異例の重い行政処分 ^[extracted]
@@ -135,24 +127,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 完全民営化（政府保有解消）のタイムライン
   - 旧契約者保護（簡保時代からの長期契約の取扱）
   - 営業ノルマ管理・高齢者販売規制（事件後規制強化）
-
-## Counterpoints
-
-- **2019-2020 不適切販売事件のレガシー影響**: 信頼回復には年単位の時間を要し、新規顧客獲得・営業ノルマ運営に長期的制約 ^[extracted]
-- **簡保ブランドの民営化後競争力**: 旧国営由来の安心感は地方・高齢者層に強いが、若年層・都市部・富裕層では他社（[[dai-ichi-life]] / [[nippon-life]] 等）に対し商品力で見劣り ^[ambiguous]
-- **営業職員（旧簡保 OB）のチャネルコスト**: 旧国営由来の人員構成・コスト構造は他生保より硬直的 ^[inferred]
-- **二重監督（金融庁 + 総務省）のガバナンス効率**: 監督が複数省庁にまたがる構造が、事件発覚時の対応の遅延要因になったとの議論 ^[ambiguous]
-- **海外展開の弱さ**: [[dai-ichi-life]]（Protective / TAL）や [[nippon-life]]（MassMutual / 大樹生命）と比べ海外プレゼンスが極めて限定的 → 国内市場縮小局面でのリスク集中 ^[inferred]
-- **親会社（日本郵政）売却スキーム**: 政府保有比率低下に伴う「民営化進展」と「ユニバーサルサービス義務」のバランス論点 ^[ambiguous]
-
-## Open questions
-
-- 不適切販売事件後の中期経営計画の達成度は？ 信頼回復 KPI（解約率・新規契約・顧客満足度）の動向
-- 日本郵政の段階的売却の最終形は？ 完全民営化シナリオの時間軸
-- 旧簡保契約者（高齢層）の自然減に対する新規顧客獲得戦略は？
-- 海外展開（M&A or 提携）は中期的に拡大するか、国内集中を継続するか？
-- 商品多様化の許容範囲（金融庁・総務省の認可スタンス）は？
-- 日本郵便との販売代理店契約の経済条件・将来見直し可能性？
 
 ## Related
 

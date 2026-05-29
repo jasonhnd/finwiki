@@ -48,18 +48,14 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/chain-level-ofac-freeze-precedent",
-      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
@@ -71,8 +67,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
@@ -85,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3639,
-    "word_like_tokens": 578,
+    "nonspace_chars": 2973,
+    "word_like_tokens": 484,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

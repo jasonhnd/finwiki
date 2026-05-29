@@ -18,7 +18,6 @@ status: candidate
 
 # クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -48,14 +47,6 @@ CCIP 二層検証(transaction + risk)は institutional 受容の鍵 · LayerZero
 ## Origin & evolution
 
 2021-2022 クロスチェーン = Wormhole / Multichain / Synapse 複数競合。2022 一連のブリッジ hack($600M Ronin / $325M Wormhole / $570M BSC)でセキュリティモデルが中核に。2023-2024 収斂 = LayerZero general grade · Chainlink CCIP は oracle ブランドで institutional に切り込み · Wormhole ZK アップグレードで Solana 陣地を保持。2025 Hyperlane permissionless で long-tail に切り込み · CCTP V2 で USDC 調達が「atomic cross-chain primitive」に([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] 参照)。
-
-## Counterpoints
-
-CCIP critics は Chainlink RMN は依然中央集権 oracle 集合 · institutional ラベルはマーケティング寄り;Wormhole 19 Guardian は LayerZero DVN クライアント設定可能より「真の非中央集権化」に近い;Hyperlane permissionless は特定 ISM 設定でセキュリティモデルが実際 CCIP より弱いと主張。クロスチェーンは長期的に zk-rollup ネイティブ相互運用(Eclipse / Espresso shared sequencer)に置換される可能性。
-
-## Open questions
-
-CCIP institutional 経路は 50+ chains に拡大し risk grade を維持できるか?LayerZero は CCIP に high-grade シェアを侵食され long-tail に後退するか?Wormhole は Solana 以外で breakthrough できるか?CCTP V2 Hooks は USDC シナリオで LayerZero / Wormhole に価値を失わせるか?クロスチェーン仲介モデルは 2030 後に zk shared sequencer に転覆されるか?
 
 ## Related
 <!-- wiki-links:managed -->

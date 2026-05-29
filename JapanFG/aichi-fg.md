@@ -18,7 +18,6 @@ sources:
 
 # あいち FG (Aichi FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hachijuni-nagano-bank|八十二長野銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -34,7 +33,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**：東証 PRIME 7389（2022-10-03 上場）^[extracted]
 **設立**：2022-10-03（共同株式移転による経営統合）^[extracted]
 **本社**：愛知県名古屋市中区 ^[extracted]
-**機関設計**：監査等委員会設置会社 ^[inferred]
 
 ### 主要子会社・グループ構成
 
@@ -43,8 +41,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   └── [[aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 operating bank
         └── 県内支店ネットワーク・中堅中小企業融資
 ```
-
-### 合併歴史・前身
 
 #### 愛知銀行 系譜
 
@@ -59,7 +55,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 #### 経営統合プロセス
 
-- 県内地銀過剰（愛知銀行・中京銀行 + 名古屋銀行）と人口減少・低金利継続を背景に、両行が経営統合協議に入る ^[inferred]
 - **2022-10-03 あいち FG 設立**（共同株式移転、両行 100% 子会社化、新 FG が東証 PRIME 上場）^[extracted]
 - **2025-01-01 愛知銀行 + 中京銀行 合併**、current operating bank は [[aichi-bank|あいち銀行]]。
 
@@ -71,7 +66,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 1943 | 愛知銀行 戦時統合により設立 |
 | 1953 | 中京銀行 設立（第三相互無尽 + 第十七相互無尽）|
 | **2022-10-03** | **あいち FG 設立**（愛知銀行 + 中京銀行 共同株式移転）/ 東証 PRIME 上場 |
-| 2024 | 第 1 次中期経営計画 ^[inferred] |
 | **2025-01-01** | **愛知銀行 + 中京銀行 合併**、[[aichi-bank|あいち銀行]] に operating-company boundary を整理 |
 
 ## 2. 事業セグメント・マップ
@@ -81,14 +75,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 中堅中小企業融資 | [[aichi-bank|あいち銀行]] | 愛知県内製造業・サプライヤー金融 |
 | 中小零細企業融資 | [[aichi-bank|あいち銀行]] | 旧中京銀行側の名古屋市内・小規模事業者層を含む |
 | 個人リテール | [[aichi-bank|あいち銀行]] | 住宅ローン・預金 |
-| トヨタ自動車サプライチェーン融資 | 両行 | 中京経済圏自動車関連サプライヤー融資 ^[inferred] |
-
-## 3. 戦略・競争
 
 ### 中京経済圏集中戦略
 
 - **愛知県地盤**: 名古屋経済圏 = 日本第 3 の経済圏（東京・大阪に次ぐ）、人口集積と製造業 GDP 高密度
-- **トヨタサプライチェーン融資**: 中京経済圏の自動車関連サプライヤー（1 次・2 次・3 次）への融資が戦略コア領域 ^[inferred]
 - **県内地銀再編モデル**: 同一県内 2 行統合 → 重複店舗削減・コスト構造改善・規模効果による融資能力強化
 
 ### 合併シナジー（2022-10 統合 → 2025-01 銀行合併）
@@ -96,7 +86,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 重複店舗・本部機能統合 → コスト削減
 - システム統合 → IT 投資効率化
 - 人員配置最適化 → 営業力強化
-- 規模拡大による地域シェア向上（県内 第二地銀統合で県内 No.2 ポジション狙い）^[inferred]
 
 ### 競合構図
 
@@ -124,25 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **持株会社規制**: 銀行法 第 52 条の 17
 - **市場区分**: 東証 PRIME（流通株式時価総額 100 億円基準）
 - **直近政策論点**:
-  - 2024〜 日銀政策金利正常化 → 国内預貸マージン改善ボーナス（地銀メリット大）^[inferred]
-  - 地銀再編加速政策（金融庁・日銀の再編支援スキーム）^[inferred]
-  - 中京経済圏（トヨタ依存）の景気循環リスク管理 ^[inferred]
-
-## Counterpoints
-
-- 「合併シナジー実現性」: 統合 → 合併で 2〜3 年経過後にシステム統合・店舗統合の進捗評価が必要。地銀統合の多くで「合併はしたがシナジー実現に時間がかかる」事例あり ^[ambiguous]
-- 「トヨタ依存リスク」: 中京経済圏 = トヨタサプライチェーン集中 → トヨタ景気循環 / EV シフト / 北米関税政策の連動リスク ^[inferred]
-- 「県内 No.1 ポジション未達」: 名古屋銀行（独立路線）が県内 No.2 に位置、あいち FG 統合後も県内シェア No.1 確定とは限らない ^[ambiguous]
-- 「地銀再編の次の一手」: 同一県内統合 → 県境越え統合（中部 5 県広域 FG 化）の可能性 ^[inferred]
-
-## Open questions
-
-- 2025-01-01 銀行合併の正式実行状況・合併比率は？
-- 合併後新銀行（愛知銀行）のシステム統合スケジュール・コスト負担は？
-- 中京経済圏地銀再編の次フェーズ: 名古屋銀行との将来統合可能性は？ ^[inferred]
-- トヨタサプライチェーン融資の構造的依存度（融資ポートフォリオ占有率）は？
-- [[juroku-fg]] / [[san-jusan-fg]] / [[ogaki-kyoritsu-bank]] との中部広域 FG 化シナリオは？
-- EV シフトによる自動車サプライヤー業界再編 → 地銀融資ポートフォリオへの影響は？
 
 ## Related
 

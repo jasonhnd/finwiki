@@ -53,12 +53,6 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/forensic-
 - そもそも一度も公開されていない文書(de-publishではなくnever-publish)
 - 単なるCDNの一時障害(status code + retryで除外可能)
 
-## Counterpoints
-
-> [!question] Open questions
-> - プロジェクト側がWaybackに撤回申請を出せるか?(yes — ただし法的請求が必要で、一般的なプロジェクト側はあまり実行しない)
-> - Waybackにもスナップショットが無い場合の代替手段は?(Google cache / Bing cache / 個人バックアップ — いずれも時効あり)
-
 ## Provenance
 
 - ケーススタディ(vaporware audit):ホワイトペーパーPDFリンクが403 · Waybackで原文を救出 · 唯一の証拠源としてプロジェクト側の「撤回済 / 否認」claimとのトーン乖離を対比

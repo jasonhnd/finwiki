@@ -36,8 +36,6 @@ This entry is the option-side counterpart to [[derivatives/corporate-fx-hedge-po
 
 This entry sits in the [[derivatives/INDEX|derivatives index]] as the FX-option product page for Japan corporate treasury users. Pair it with [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] for the policy framing, [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap]] for the long-dated linear hedging cousin, and [[finance/japan-corporate-fx-and-rate-hedge-policy|Japan corporate FX and rate hedge policy]] for the broader treasury context.
 
-## Product menu
-
 ### Vanilla call / put
 
 The base building block. A USD call / JPY put gives the buyer the right (not obligation) to buy USD at a strike on or before expiry. An importer of USD-denominated commodities buys USD calls when forecast USD payables are expected and the company wants protection against yen weakening without locking forward rate.
@@ -204,13 +202,6 @@ USD/JPY option pricing is meaningfully affected by intraday session:
 
 A treasury that runs a global program can shift execution to favorable windows; smaller corporates typically execute during Tokyo hours and accept the time-of-day cost.
 
-## Counterpoints
-
-- **Premium drag**: vanilla options carry a meaningful upfront premium relative to the linear forward, which can be 1-3% of notional for ATM 1Y USD/JPY at typical volatility. CFOs often resist the P&L drag.
-- **Structured-product reputational risk**: knock-out forwards and TRFs have damaged corporate balance sheets in past stress periods. Audit committees scrutinize structured-product books carefully.
-- **Hedge-accounting fragility**: many structured options fail IFRS 9 effectiveness tests because of barriers, leverage, or path-dependence. The corporate ends up with MTM-through-P&L exposure that was not the original intent.
-- **Dealer-incentive misalignment**: dealers earn more from structured products than from vanilla forwards, which creates a recurring tension where small corporates may be over-sold complexity they cannot risk-manage. Suitability framework matters.
-
 ## Regulatory backdrop
 
 FX option distribution to Japan corporates falls under FIEA Type 1 Financial Instruments Business activities, with suitability rules:
@@ -222,13 +213,6 @@ FX option distribution to Japan corporates falls under FIEA Type 1 Financial Ins
 - Bank-specific internal suitability frameworks layered on top of FSA principles.
 
 For sophisticated corporate customers (typically "qualified institutional investor" or "professional investor" status), some disclosure requirements are reduced because the customer is deemed capable of independent risk assessment. Most large Japan listed companies meet this status, allowing more flexible dealer interaction; smaller / mid-cap corporates may not, which triggers fuller documentation.
-
-## Open questions
-
-- How has FSA suitability enforcement evolved for TRF and similar accumulator structures since the early-2010s tightening?
-- Does the post-YCC interest-rate environment (see [[derivatives/ois-tona-curve|OIS-TONA curve]]) change the relative attractiveness of FX options vs vanilla forwards by increasing forward-point cost?
-- Are foreign banks regaining structured-product share in Japan corporate FX after a decade of megabank dominance?
-- How do the FX option books at [[JapanFG/mufg-bank|MUFG Bank]] / [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]] / [[JapanFG/mizuho-bank|Mizuho Bank]] interact with their corporate-loan books in terms of relationship-pricing dynamics?
 
 ## Related
 

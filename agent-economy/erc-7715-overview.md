@@ -15,7 +15,6 @@ status: candidate
 
 # ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
@@ -69,19 +68,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 7715 ドラフトの起源は 2024 年の MetaMask Snaps チームと Coinbase Smart Wallet チームの調整議論にある — 双方とも独自に session key を実装していたが、フォーマットが相互運用できなかった。OAuth 2.0 scope モデルを参考に · 統一的な権限申請プロトコルとして定義された。
 
 2025 年に MetaMask、Coinbase Smart Wallet、Safe で順次実装。同時期に ERC-4337 / 7702 と組み合わさり「AA + Permissions」の完全スタックを形成し、AP2 / x402 と並んで AI agent 経済の重要インフラと見なされている。
-
-## Counterpoints
-
-**Permission 種別の列挙がまだ完全に標準化されていない** — 各ウォレット実装に微差があり · クロスウォレット portability は依然課題。撤回機構はオンチェーン取引が必要で · gas コストがかかる(7702 EOA ユーザーは特に敏感)。
-
-**Scope 内での AI agent の誤決定**:scope で金額と送付先が制限されていても · agent は prompt injection により合法 scope 内で誤った支払いをし得る。scope 設計には慎重さが必要であり · 例えば「毎日 $10 を vercel.com API へ」は「毎日 $10 を任意の merchant へ」よりはるかに安全である(フィッシング対策とコントラクト検証は [[security/bytecode-forensic-three-tier-verify|バイトコードフォレンジック三層検証]] と対照)。
-
-## Open questions
-
-- クロスウォレット permission portability の標準化タイムラインは?
-- 撤回時の gas コスト最適化経路(例えば SCW module ベースの off-chain 撤回)は?
-- AI agent 誤決定の責任モデルと保険モデルは?
-- AP2 mandate とのセマンティクス層のマッピングは?
 
 ## Related
 <!-- wiki-links:managed -->

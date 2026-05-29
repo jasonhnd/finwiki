@@ -46,9 +46,8 @@
     "2. 事業セグメント・マップ",
     "3. 戦略・競争",
     "4. 規制・政策",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -78,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3212,
-    "word_like_tokens": 489,
+    "nonspace_chars": 2710,
+    "word_like_tokens": 405,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

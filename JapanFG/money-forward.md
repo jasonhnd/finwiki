@@ -16,7 +16,6 @@ sources:
 
 # 株式会社マネーフォワード (Money Forward)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/freee|freee 株式会社 (freee K.K.)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
@@ -95,8 +94,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ファクタリング | マネーフォワード Biz Forward | 中小企業 (請求書買取) | OLTA / Yup / 各銀行系 |
 | 金融機関 BPaaS | API 連携基盤 (1500 行以上) | 金融機関 | TIS / NTT データ / Plaid |
 
-## 3. 戦略・競争
-
 ### 個人 PFM × 法人 SaaS 両軸戦略
 
 - **マネーフォワード ME**: 1500 万人超ユーザーは PFM 国内最大、家計簿 + 資産可視化 + 金融機関一括連携
@@ -105,7 +102,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 金融機関 API 連携 (技術的堀)
 
-- **1500 行以上接続**: 銀行・証券・カード・ポイント・暗号資産まで網羅 ^[inferred]
 - **API ハブ的ポジション**: 金融機関側にとって PFM 接続デファクト
 - **競合参入障壁**: 連携実装の累積コストが新規参入を阻む
 
@@ -136,28 +132,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **主管**: 金融庁 (FSA) ── 電子決済等代行業者として登録
 - **電子決済等代行業**: 銀行法改正 (2017) に基づく登録業者、API 連携の法的根拠
 - **個人情報保護**: 個人金融データ大量保有 → 個情委 (PPC) 監督
-- **適合性原則**: PFM サービスは投資助言ではないため金商法直接対象外、ただし周辺サービス拡張時に論点化 ^[inferred]
 - **直近政策論点**:
   - 2024〜 銀行 API 開放義務化進展 → マネフォ追い風
   - 2025〜 電子帳簿保存法・インボイス制度対応 → 法人 SaaS 需要追い風
   - 2026〜 ステーブルコイン制度 → PFM 連携の論点化可能性
-
-## Counterpoints
-
-- 「黒字化計画延期で株価軟調」: 2024 中計で黒字化目標を後ろ倒し → 投資家失望、株価軟調局面 ── ただし SaaS ARR は拡大基調維持 ^[ambiguous]
-- 「MUFG JV 解消の含意」: 2025-04 Biz Forward 単独化は (a) 独立性確保のポジティブ解釈と (b) 大手金融機関とのシナジー喪失のネガティブ解釈両論 ^[ambiguous]
-- 「freee との同質化リスク」: 中小 SaaS では機能差が縮小、価格競争・営業競争に陥るリスク ^[inferred]
-- 「個人 PFM の収益化限界」: 1500 万ユーザーの収益化 (有料転換率) は依然課題、無料ユーザー比率高 ^[inferred]
-- 「銀行自前 PFM 化リスク」: 各銀行が自前アプリで PFM 機能強化中 → 横断連携の付加価値が長期的に薄まる可能性 ^[inferred]
-
-## Open questions
-
-- 中計黒字化の新目標時期は? (2024 延期後の具体的マイルストーン)
-- MUFG Biz Forward 単独化後のファクタリング事業戦略は? (3 メガバンク以外との提携可能性)
-- マネーフォワード PFP の大企業 BPaaS は売上柱に成長するか?
-- 個人 ME の有料転換率改善策と AI 機能 (家計助言エージェント) の収益化
-- [[smfg]] / [[mizuho-fg]] / [[ndfg]] / [[sbi-hd]] 等との新規提携余地
-- 海外展開 (アジア PFM 市場) の本格化はあるか?
 
 ## Related
 

@@ -36,8 +36,6 @@ Since the March 19, 2024 framework change, the BoJ has returned to a short-term 
 
 For JapanFG mapping, this page is the bridge between central-bank policy, [[money-market/japan-money-market]], [[money-market/boj-open-market-operations]], and the tanshi companies: [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]].
 
-## Policy Framework
-
 ### Legal mandate
 
 The Bank of Japan Act frames the BoJ as Japan's central bank. Article 1 states its purposes as issuing banknotes, carrying out currency and monetary control, and supporting smooth settlement among banks and other financial institutions. Article 2 states that currency and monetary control is conducted to achieve price stability and contribute to sound national economic development.
@@ -119,21 +117,6 @@ The tanshi link is a market-function link, not a claim that tanshi firms control
 - **Market operations vs fiscal financing**: JGB purchases are a market-operation tool, but Article 33 and related legal boundaries must be distinguished from fiscal policy or direct government financing debates.
 - **BoJ account access vs public deposits**: BoJ current accounts are for selected institutions, government, central banks, and international organizations. The BoJ does not take deposits from individuals or ordinary firms.
 - **Tanshi as infrastructure vs regulated bank**: tanshi companies sit in the money-market intermediation layer; do not treat them as deposit-taking banks unless a specific licensed entity and legal basis are verified.
-
-## Counterpoints
-
-- **Rate normalization may not fully revive the call market**: if reserve balances remain large, banks may still have limited need to borrow from each other even when policy rates are positive.
-- **Open market operations are no longer only easing tools**: after the 2024 framework change, JGB purchases, pooled-collateral operations, and rate guidance can coexist with a higher policy-rate path.
-- **"BoJ policy = bank earnings upside" is too simple**: higher short rates can help deposit franchises, but funding costs, bond valuation losses, credit demand, and regulatory liquidity constraints can offset that.
-- **Tanshi-company upside is plausible but not proven**: policy-rate normalization improves the backdrop, but company-level revenue recovery needs transaction-volume or financial-statement evidence that is not fully public for non-listed tanshi firms.
-
-## Open Questions
-
-- How much of the 2024-2026 policy-rate normalization has translated into actual call-market volume recovery?
-- Which tanshi companies are current eligible counterparties for each specific BoJ operation, and how does the list differ by operation type?
-- How large is the structural drag from abundant BoJ current-account balances on unsecured overnight call-market turnover?
-- How should JapanFG pages treat future BoJ balance-sheet reduction: as a separate QT page, or as part of this monetary-policy page?
-- Which bank-earnings pages need a direct link to this page once the money-market domain is expanded?
 
 ## Related
 

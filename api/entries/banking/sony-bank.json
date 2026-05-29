@@ -46,14 +46,14 @@
   "headings": [
     "Sony Bank operating profile (ソニー銀行)",
     "Wiki route",
-    "TL;DR",
     "1. Identity and ownership",
     "Where Sony Bank sits inside the parent",
-    "2. Product franchise — what differentiates Sony Bank",
     "Multi-currency deposit + FX core",
-    "Mortgage origination",
     "Investment-product distribution",
-    "Card and payment adjacencies"
+    "Card and payment adjacencies",
+    "Where Sony Bank competes",
+    "Customer segmentation",
+    "4. KPI shape and franchise scale"
   ],
   "body_links": {
     "wikilinks_count": 18,
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11145,
-    "word_like_tokens": 1837,
+    "nonspace_chars": 7335,
+    "word_like_tokens": 1167,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

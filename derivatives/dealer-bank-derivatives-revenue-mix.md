@@ -63,8 +63,6 @@ The dealer-bank derivatives franchise is one of the **highest-margin, most regul
 
 For Japan-listed financial groups, the disclosed revenue mix is a **key public-source input** for [[finance/japan-listed-financial-groups-investable-universe|investable-universe analysis]] — the rates-and-FX share of the global-markets segment is a sensitive operating-leverage variable to BOJ policy normalization, JPY moves, and global vol regime.
 
-## Tier 1 — Megabank universal-bank franchise
-
 ### MUFG, SMBC, Mizuho
 
 The three Japan megabanks run the largest dealer derivatives books in Japan, anchored in the **banking-entity yen rates and FX franchise** with the securities-arm subsidiary handling equity-derivatives and securities-facing institutional clients.
@@ -95,8 +93,6 @@ The megabank derivative-revenue concentration in rates and FX reflects:
 - **Trust-bank-affiliated capability** — for products requiring trust-wrapped exposure (employee-trust shares, structured-investor vehicles), the trust-bank subsidiary handles the legal wrapper while the banking / securities entity provides the derivative;
 - **JGB primary-dealer status** — the megabank-affiliated securities arms ([[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/morgan-stanley-japan|MUMSS]]) are JGB primary dealers, creating a structural rates-derivative anchor.
 
-## Tier 2 — Independent Japan IB franchise
-
 ### Nomura HD, Daiwa SG
 
 [[JapanFG/nomura-hd|Nomura]] and [[JapanFG/daiwa-sg|Daiwa Securities Group]] are the **two large independent Japan-headquartered investment banks** — securities-firm-rooted franchises that operate full dealer-bank derivative capability without a megabank parent.
@@ -120,8 +116,6 @@ The structural reason: independent-IB franchises were **historically built aroun
 - Retail-distribution structured products via brokerage subsidiary channels.
 
 The megabank-affiliated securities arms ([[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]]) have built comparable but somewhat narrower equity-derivative capability — economically constrained by the megabank-group capital-allocation framework.
-
-## Tier 3 — Foreign IB franchise
 
 ### Goldman Sachs Japan, Morgan Stanley Japan / MUMSS, JPMorgan Japan, Citi Japan, BofA Japan
 
@@ -186,27 +180,6 @@ Some derivative product classes drive **cross-product franchise integration**:
 - **Credit-CDS + bond-cash + structured-credit** — drives integrated credit-product coverage at the dealer-bank credit desks.
 
 These integrations are the structural reason **derivative-desk revenue is rarely cleanly separable** from cash, repo, and structured-product revenue in dealer-bank disclosure. The "rates-derivative revenue" line at a megabank reflects rates-derivative dealing **plus** JGB cash, JGB repo, and rate-structured-product revenue — separating them precisely from public-source disclosure is approximate.
-
-## Counterpoints
-
-- **Firm-by-firm disclosure is incomplete.** Megabank IR materials disclose group-level and segment-level revenue but not always at the derivative-desk-class level. Inferring rates vs FX vs equity vs credit shares requires combining IR commentary, BIS-aggregate statistics, JSCC clearing data, and global-league-table data.
-- **"Foreign IB share of Japan derivative revenue" is not a clean public statistic.** Global IBs disclose group-level revenue with regional segments (Asia ex-Japan, Japan within Asia), not always at the Japan-derivative-desk level. Japan-share estimates are necessarily indicative.
-- **Volcker-equivalent framing is comparative, not legal.** Japan does not have a "Volcker Rule" — the structural constraint on banking-entity prop-trading comes from a combination of mechanisms rather than a single named statute. Do not describe Japan as "having the Volcker Rule".
-- **Megabank securities-arm equity derivatives are smaller than independent-IB equity derivatives.** Despite group-scale, the equity-derivative franchise at [[JapanFG/smbc-nikko|SMBC Nikko]] and [[JapanFG/mizuho-securities|Mizuho Securities]] is narrower than [[JapanFG/nomura-hd|Nomura's]] — partly historical, partly capital-allocation choice. The "megabank = derivative dominance" framing is over-simplified.
-- **JPY rates-derivative revenue is sensitive to BOJ policy regime.** When BOJ ran QQE and YCC, dealer rates revenue was structurally suppressed by low rates volatility. Post-YCC and as BOJ normalizes, rates revenue has recovery potential. Forward revenue outlooks depend heavily on the BOJ policy path — not a constant base.
-- **Foreign IB Japan revenue is sensitive to global hedge-fund Japan-sleeve activity.** A material share of foreign IB Japan derivative revenue is tied to global hedge-fund client flow rather than Japan-resident clients. Shifts in global hedge-fund allocation to Japan strategies affect foreign-IB Japan revenue.
-- **Cross-border revenue allocation is not always Japan-booked.** A US hedge fund trading yen IRS with GS Japan may have the trade booked at GS London or GS NY (not Tokyo) under the firm's global booking framework. "Japan derivative revenue" depends on the booking-entity definition.
-- **Public BOJ / BIS statistics are aggregated, not firm-level.** BOJ and BIS publish Japan-counterparty OTC derivative aggregate notional and gross market value but not firm-by-firm. Firm-level inference requires multiple sources combined.
-- **Structured-product revenue is not always classified as "derivative" in IR disclosure.** Structured bonds, structured notes, principal-protected products, and capital-markets-engineered structures may sit in "fixed-income" or "structured products" lines rather than "derivative" lines, despite their derivative content.
-
-## Open questions
-
-- Firm-by-firm derivative-revenue breakdown by asset class (rates / FX / equity / credit) at megabanks — IR disclosure gives partial visibility; full reconciliation requires combining IR with BIS / BOJ / JSCC data.
-- Foreign-IB share of Japan derivative revenue by product class — public estimates are indicative; precise market-share data is not always published.
-- Cross-shareholding-unwinding-driven equity-derivative flow size at each major Japan dealer — public estimates require dealer-disclosed structured-product activity + corporate-disclosed hedging.
-- The proportional share of "Japan rates derivative revenue" that is genuinely Japan-booked vs cross-border booked under global IB intra-firm allocation.
-- The interaction between BOJ policy normalization and dealer rates-derivative revenue — recovery dynamics depend on which volatility regime emerges post-policy-normalization.
-- Quantitative estimation of "market-making revenue" vs "directional / speculative revenue" within dealer trading books at major Japan financial groups — internal classification is proprietary; public-source inference is necessarily indicative.
 
 ## Related
 

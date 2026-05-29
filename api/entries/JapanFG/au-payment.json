@@ -72,7 +72,7 @@
   "metrics": {
     "nonspace_chars": 2038,
     "word_like_tokens": 339,
-    "inbound_wikilinks_count": 32,
+    "inbound_wikilinks_count": 31,
     "last_modified": "2026-05-21"
   }
 }

@@ -61,7 +61,7 @@
     "6. Alternative risk transfer (ART) — the wider toolkit"
   ],
   "body_links": {
-    "wikilinks_count": 26,
+    "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
       "JapanFG/aioi-nissay-dowa-insurance",
@@ -83,12 +83,7 @@
       "insurance/japan-nonlife-big-three",
       "insurance/lloyds-japan-syndicate-operating-model",
       "insurance/marine-insurance-and-pi-cover-market",
-      "insurance/natcat-reinsurance-japan",
-      "mitsubishi-corporation",
-      "mitsui-co",
-      "mitsui-osk-lines",
-      "nippon-yusen",
-      "toyota-fs"
+      "insurance/natcat-reinsurance-japan"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -111,20 +106,15 @@
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/lloyds-japan-syndicate-operating-model",
       "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/mitsubishi-corporation",
-      "https://finwiki.zksc.io/mitsui-co",
-      "https://finwiki.zksc.io/mitsui-osk-lines",
-      "https://finwiki.zksc.io/nippon-yusen",
-      "https://finwiki.zksc.io/toyota-fs"
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18638,
-    "word_like_tokens": 2879,
+    "nonspace_chars": 7470,
+    "word_like_tokens": 1149,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -54,18 +54,17 @@
     "Wiki route",
     "TL;DR",
     "1. The three-layer perimeter",
-    "2. Why each issuer route is distinct on the bank side",
     "Deposit token — within the standard bank deposit regime",
     "Bank-issued EPI (預金型) — bridging deposit and broader circulation",
     "Trust-type EPI (信託型) — the institutional-platform lane",
     "3. Issuer / distributor anchor map (2025–2026)",
-    "4. MUFG / Progmat as the institutional anchor"
+    "Why platform-provider ≠ issuer",
+    "What regional banks can and cannot do"
   ],
   "body_links": {
-    "wikilinks_count": 32,
+    "wikilinks_count": 29,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/japan-exchange-group",
       "JapanFG/jpyc",
       "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
       "JapanFG/legal-financial-licenses/payment-license-stack",
@@ -85,8 +84,6 @@
       "banking/post-megabank-positioning",
       "exchanges/jp-exchange-jpyc",
       "exchanges/jp-exchange-sbi-vc-trade",
-      "fintech/bis-project-agora-overview",
-      "fintech/bis-project-ensemble-overview",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/japan-epi-four-camps-comparison",
       "fintech/japan-epi-three-types-overview",
@@ -99,7 +96,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
       "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
       "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
@@ -119,8 +115,6 @@
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
-      "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
       "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
       "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
@@ -135,9 +129,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16724,
-    "word_like_tokens": 2674,
+    "nonspace_chars": 12838,
+    "word_like_tokens": 2041,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

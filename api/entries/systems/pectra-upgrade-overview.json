@@ -45,18 +45,14 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "agent-economy/erc-7715-overview",
       "agent-economy/privy-embedded-wallet-overview",
-      "exchanges/liquid-staking-restaking-cex-exposure",
       "fintech/INDEX",
       "systems/INDEX",
       "systems/erc-4337-overview",
@@ -66,9 +62,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
       "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
-      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/erc-4337-overview",
@@ -80,8 +74,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3063,
-    "word_like_tokens": 511,
+    "nonspace_chars": 2446,
+    "word_like_tokens": 419,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

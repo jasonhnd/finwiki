@@ -23,7 +23,6 @@ status: candidate
 
 # ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 概観 · Account Abstraction のアプリケーション層実装]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -58,19 +57,6 @@ embedded wallet プレイヤーの階層構造:
 2023-03 の 4337 メインネット稼働後 6-12 か月以内に · Privy / Coinbase CDP / Alchemy はいずれも統合プロダクトをリリースした。2024-2025 年にかけて embedded wallet は「Web2 fintech 接続」フェーズに突入 —— Stripe / Robinhood / PayPal / Revolut が程度の差はあるものの探索を進めている。2024 年の Stripe による Privy 買収は象徴的な出来事であり · Web2 決済大手が 4337 を次世代 wallet UX の基盤として認知したことを示している。
 
 2026 年の v0.7 アップグレードに伴い · embedded wallet の実装スピードはさらに加速 —— 顧客体験は Web2 水準にいっそう接近している。さらに [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]] と組み合わさり,wallet は人間と AI agent の両方にサービスを提供する必要があり,4337 は汎用基盤層となっている。
-
-## Counterpoints
-
-**Safe{Core} と Privy/Coinbase の棲み分け**:Safe は機関向け multi-sig を主軸とし(すでに web3 機関の標準装備)・ Privy/Coinbase はリテール embedded を主軸 —— 両者は表面上は競合しないが · Safe Modular もリテール領域への浸透を進めている。長期的には合流する可能性がある。
-
-**ERC-7702 からの逆風**:7702 によって「既存の EOA をワンクリックで SCW にアップグレード」できるようになり · Privy/Coinbase CDP の UX 差別化障壁を引き下げる。短期(2026-2027)では 4337 陣営のビジネスモデルにとって挑戦となる。
-
-## Open questions
-
-- Stripe + Privy 統合後の加盟店オンボーディング速度は?
-- Coinbase CDP vs Privy の Base 上での市場シェアは?
-- 7702 ローンチが 4337 embedded wallet を実際にどの程度浸食するか?
-- 非 EVM(Solana / Move)における embedded wallet 類似標準はどのように 4337 と相互運用するか?
 
 ## Related
 <!-- wiki-links:managed -->

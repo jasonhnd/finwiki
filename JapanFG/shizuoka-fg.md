@@ -16,7 +16,6 @@ sources:
 
 # しずおか FG (Shizuoka FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -46,8 +45,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   ├── 海外現地法人・関連会社（モンゴル MFG 銀行 等）── 旧ハイ・モンゴル銀行系の出資
   └── システム・コンサル子会社（しずぎん経営コンサルティング 等)
 ```
-
-> 子会社構造の詳細は本版未確定（要 しずおか FG 公式 IR / 有価証券報告書直接確認）。^[inferred]
 
 ### 合併歴史・前身
 
@@ -79,11 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 地盤コア | 静岡銀行 | 静岡県地盤 No.1、製造業 main bank |
 | 県内リテール | 静岡銀行・グループ証券 | 静岡県人口 360 万、富裕層 / 個人預金厚い |
 | 県外法人 | 静岡銀行東京・大阪・名古屋拠点 | 本社静岡企業の県外取引フォロー + 関東圏中堅企業 |
-| 海外 | モンゴル MFG 銀行 等・海外駐在員事務所 | アジア中心、地銀としては積極的な海外プレゼンス ^[inferred] |
 | グループ金融 | 静銀リース / 信用保証 / キャピタル 等 | 持株会社化で並列再配置 |
-| デジタル | 静岡銀行アプリ・地域 Fintech 連携 | メガ・FFG みんなの銀行に対しては地域密着型 ^[inferred] |
-
-## 3. 戦略・競争
 
 ### 県内地盤戦略
 
@@ -95,7 +88,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 海外戦略
 
-- **モンゴル MFG 銀行**（旧 ハイ・モンゴル銀行）── 地銀としては珍しい海外現地法人。アジア新興国向け中堅企業フォローの一環 ^[inferred]
 - **海外駐在員事務所** ニューヨーク / ロサンゼルス / 上海 / シンガポール / バンコク 等（静岡銀行時代からの伝統的なグローバル拠点網）
 - 県内製造業の海外進出支援（自動車サプライチェーン・OEM 取引）が本来の動機
 
@@ -121,23 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 地銀マージン改善（メガより恩恵が相対的に大）
   - 2025〜 地銀再編加速（人口減 + デジタル投資負担）→ しずおか FG は独立維持か、近隣地銀との連合か判断局面
   - 単独 FG 化後の M&A・新業態進出ペース
-
-## Counterpoints
-
-- 「単独 FG 化の実効性」：持株会社化のメリット（資本効率 / M&A 余地）が実際にどの程度発揮されるかは中計実績待ち。形式的な持株会社化に留まるリスク ^[inferred]
-- 「県内地盤強み vs 人口減リスク」：静岡県は全国平均並みの人口減トレンド、若年層の首都圏流出。製造業集積（特に自動車）の EV シフト対応も中長期構造課題 ^[inferred]
-- 「スルガ銀行との県内競合」：県東部（沼津・三島・伊豆）での競合は継続、スルガ再建後の動向次第で再編論議に発展する可能性 ^[ambiguous]
-- 「モンゴル海外戦略の経済合理性」：地銀として珍しいモンゴル進出は伝統的な経緯（過去の駐在拠点）に依存、現在の事業性は不透明 ^[ambiguous]
-- 「地銀再編における独立路線」：SBI 第 4 メガ構想と距離、独自連合（中部圏 / 関東圏地銀との緩い連携）路線を選択するか単独維持か判断未確定 ^[inferred]
-
-## Open questions
-
-- しずおか FG 設立後の中計（2024〜）の進捗実績は？ 資本効率 / ROE 改善度
-- 持株会社化後の新規 M&A・新業態進出事例は？ 銀行本体では取得不可だった案件
-- 県内同業（[[suruga-bank|スルガ]] / [[shimizu-bank|清水銀行]] / [[shizuoka-chuo-bank|静岡中央銀行]] 等）との再編可能性は？
-- モンゴル MFG 銀行 等の海外子会社の収益貢献度は？
-- デジタル戦略（[[fukuoka-fg|FFG]] みんなの銀行のような独自デジタルバンク構想等）の有無
-- 静岡県製造業の EV シフト・脱炭素転換に対する main bank としての対応戦略
 
 ## Related
 

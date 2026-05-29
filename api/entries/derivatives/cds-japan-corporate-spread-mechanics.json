@@ -54,13 +54,13 @@
     "Japan corporate CDS spread mechanics",
     "TL;DR",
     "Wiki route",
-    "Spread decomposition",
     "Building blocks",
     "Risk-neutral default probability",
     "Recovery rate assumption",
     "Credit events under 2014 ISDA Definitions",
     "Bankruptcy",
-    "Failure to pay"
+    "Failure to pay",
+    "Restructuring (and variants)"
   ],
   "body_links": {
     "wikilinks_count": 21,
@@ -114,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16877,
-    "word_like_tokens": 2648,
+    "nonspace_chars": 15387,
+    "word_like_tokens": 2409,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

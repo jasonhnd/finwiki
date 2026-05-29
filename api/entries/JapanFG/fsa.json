@@ -47,7 +47,7 @@
     "2. 組織体制（現行）",
     "主要審議会・会議体",
     "3. 監督対象",
-    "4. 主要規制テーマ（2020 年代）"
+    "コーポレートガバナンス・コード（2014〜）"
   ],
   "body_links": {
     "wikilinks_count": 31,
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4509,
-    "word_like_tokens": 670,
+    "nonspace_chars": 4446,
+    "word_like_tokens": 659,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

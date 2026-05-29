@@ -47,8 +47,8 @@
     "主要株主・資本構造 ^[extracted]",
     "主要子会社・グループ",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "沿革年表 ^[extracted]"
+    "沿革年表 ^[extracted]",
+    "デジタル戦略"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6849,
-    "word_like_tokens": 920,
+    "nonspace_chars": 6119,
+    "word_like_tokens": 838,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

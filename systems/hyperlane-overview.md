@@ -15,7 +15,6 @@ status: candidate
 
 # Hyperlane 概観 · Permissionless Cross-chain Interoperability
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview|cross chain four poles overview]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -53,19 +52,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 Hyperlane は Asa Oines、Jon Kol ら(元 Celo チームメンバー)によって 2021 年に設立され · 当初は Abacus という名前で · 2022 年に Hyperlane に改名した。コアとなる賭けは「ロングテールチェーンには permissionless bridge が必要」であり、これは LayerZero / CCIP の中央集権的展開モデルとのルート分岐を形成する。
 
 2023-2025 年にかけて Celestia / dYdX v4 / Injective / Sei / Berachain 等のロングテール / app-chain で順次採用され · 非 EVM(Cosmos / Solana / Move)が EVM エコシステムに接続するための事実上の標準となった([[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC 機関対照]] を参照)。2024 年に EigenLayer restaking 統合を追加した後 · 暗号経済セキュリティは Ethereum L1 から継承された。
-
-## Counterpoints
-
-**Permissionless の代償**:**ISM 選択の責任はすべてアプリ開発者にある**。アプリが弱い multisig を選んでハックされたとしても、Hyperlane プロトコルのせいにはできない。これは LayerZero/CCIP の「プロトコル側が裏付ける」モデルとのトレードオフを形成する —— よりオープンだが、アプリチームのセキュリティ理解度が問われる。
-
-**マインドシェア**:LayerZero は初期の積極的なマーケティングにより · マインドシェアでは依然として Hyperlane をリードしている。機関 / 大規模 dApp がクロスチェーンプロトコルを選定する際 · LayerZero の「チームの裏付け」はかえって優位性となり · Hyperlane は主に「セキュリティ責任を自負することを厭わない」プロジェクトにサービスを提供している([[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] における LayerZero と Wormhole のシェアを参照)。
-
-## Open questions
-
-- 50+ チェーンのうち、実際にアクティブなトラフィックを持つ割合は?
-- EigenLayerISM の 2025-2026 における実際の採用率は?
-- LayerZero / CCIP との長期的な市場シェア配分は?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] を参照)
-- Hyperlane token 経済モデルが長期的な持続可能性に与える影響は?
 
 ## Related
 <!-- wiki-links:managed -->

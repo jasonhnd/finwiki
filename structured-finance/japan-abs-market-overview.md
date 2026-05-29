@@ -100,18 +100,6 @@ Japan's asset-backed securities market is split into three rough layers: the ver
 - The post-2008 reset left Japan with one of the most conservative structuring conventions in developed markets — see [[structured-finance/japan-cmbs-issuance-structure]] for the CMBS-specific story.
 - Investor base is dominated by life insurers ([[JapanFG/daido-life]], [[JapanFG/asahi-life]], etc.), regional banks, and asset managers seeking JGB-plus yield.
 
-## Counterpoints
-
-- **"Japan ABS is large"**: in absolute yen, yes — but most of it is the government-supported JHF MBS layer. Private structured paper is small relative to US or Europe.
-- **"Structured deals are commoditized"**: structures here are bespoke; conduit pooling is much less common than in pre-2008 US CMBS.
-- **"Rating-agency criteria are the same as S&P / Moody's"**: see [[structured-finance/credit-rating-methodology-jcr-r-and-i]] — JCR and R&I have Japan-specific methodology calibrated to Japanese property and consumer-credit cycles.
-
-## Open questions
-
-- Where does NPL (non-performing loan) ABS sit in the routing? Currently a backlog item.
-- CLO collateralized by Japanese loans — limited domestic issuance, mostly invested in by Japanese institutions as foreign-currency exposure.
-- Whether the private-RMBS market scales further as megabanks pursue capital-relief securitization under finalized Basel III.
-
 ## Related
 
 - [[structured-finance/INDEX]]

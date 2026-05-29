@@ -42,7 +42,6 @@
     "System Map",
     "Market Role",
     "Strategic Reading",
-    "Counterpoints",
     "Related",
     "Sources"
   ],
@@ -70,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2275,
-    "word_like_tokens": 340,
+    "nonspace_chars": 2135,
+    "word_like_tokens": 314,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

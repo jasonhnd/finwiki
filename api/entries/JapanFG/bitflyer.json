@@ -44,8 +44,8 @@
     "主要株主・資金調達（公開情報）",
     "2. 沿革・重要年表",
     "3. 事業セグメント・マップ",
-    "主要取扱通貨（国内、年により変動）",
-    "4. 戦略・競争"
+    "コア戦略",
+    "競合関係"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6102,
-    "word_like_tokens": 909,
+    "nonspace_chars": 5161,
+    "word_like_tokens": 781,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -18,7 +18,6 @@ status: candidate
 
 # Singapore MAS Payment Services Act + SCS フレームワーク概観
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -55,18 +54,6 @@ DPT ライセンス体系の詳細な機関階層は [[exchanges/sg-mas-dpt-lice
 
 2019 PS Act 制定により 6 種類の payment service の法的基礎を確立。2020-2022 DPT licensing 始動、Coinbase / Crypto.com / StraitsX 等が順次ライセンス取得。2023-08 SCS Framework 公表（アジア初の完全な SC サブフレームワーク、[[fintech/hkma-stablecoin-licensing-overview|HKMA]] より 2 年先行）。2024-04 DTSP Regime 改正により「シンガポールハブで海外サービス提供」のグレーゾーンを閉鎖、USDT 等の非コンプライアンス勢力がハブ戦略から撤退。2026-03 Singapore-US MRA 締結 → §501(d) 第一波アジア入榜。アジア / グローバル VASP の横断比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリックス]] 参照。
 
-## Counterpoints
-
-- DTSP 引き締め後に中小プロジェクトが離脱 · シンガポール「ハブ」モデルがグローバルからアジアへ縮小
-- S$5M 閾値はリテール issuer に優しいが、機関競争力は限定的
-- HK と競合関係を形成、一部プロジェクトは双方申請
-
-## Open questions
-
-- §501(d) 第一波アジア入榜後、シンガポールと HK の競争 / 協業の行方は？
-- DTSP Regime は DeFi フロントエンドにまで拡張されるか？
-- Paxos USDP オフショア子会社申請の進捗は？
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -82,4 +69,3 @@ DPT ライセンス体系の詳細な機関階層は [[exchanges/sg-mas-dpt-lice
 ---
 
 **Last refresh** (2026-05-25): refreshed `last_tended` only; added Circle USDC cross-link as DPT-licensed flow context.
-

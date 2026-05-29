@@ -37,8 +37,6 @@ This entry is the cross-cutting ecosystem anchor that ties the [[securities/INDE
 
 This entry sits under [[securities/INDEX|securities index]] as the ecosystem anchor. Pair it with [[securities/japan-market-infrastructure-map]] for the venue / clearing / settlement plumbing detail and [[finance/japan-listed-financial-groups-investable-universe]] for the listed FG investable universe. The household-investment side is in [[securities/nisa-2024-flow]]. The corporate-finance side is in [[finance/INDEX|finance index]].
 
-## The Five Capital-Markets Layers
-
 ### 1. Issuance (Primary Market)
 
 The primary market is where issuers raise new capital from investors.
@@ -166,22 +164,6 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 | FSA disclosure | Supervisory commentary, market-conduct examinations. |
 | EDINET | Financial-statement disclosure for listed companies. |
 | TDnet | Timely disclosure for listed companies. |
-
-## Counterpoints
-
-- "TSE is the only equity venue" — PTS venues (Cboe Japan / Japannext / ODX) capture a non-trivial share of equity trading and are growing.
-- "Primary and secondary are separate" — They are linked. Secondary-market valuations drive primary-market issuance windows; primary-market issuance reshapes secondary-market float and liquidity.
-- "Foreign investors are price-takers" — Foreign accounts are often the marginal price-setter for Japanese equity given high foreign ownership of TSE Prime float.
-- "Clearing eliminates risk" — Central clearing transforms bilateral counterparty risk into CCP risk; the CCP default-fund waterfall is the residual risk surface.
-- "Security tokens are marginal" — Security-token secondary markets are nascent but growing; ODX-START and Progmat are the early infrastructure.
-
-## Open Questions
-
-- How will the share of PTS trading evolve relative to TSE primary listing?
-- How will the security-token secondary market (ODX-START) develop over the next 3–5 years?
-- How will further BoJ normalization reshape JGB primary-dealer dynamics and secondary-market liquidity?
-- How will cross-border equivalence (EMIR / CFTC) evolve under post-2026 regulatory updates?
-- How will Japan's capital-markets ecosystem interact with global stablecoin / tokenized-MMF / tokenized-bond pilots?
 
 ## Related
 

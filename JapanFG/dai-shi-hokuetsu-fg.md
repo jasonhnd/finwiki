@@ -18,7 +18,6 @@ sources:
 
 # 第四北越 FG
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -79,8 +78,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 県外展開 | 第四北越銀行 首都圏営業店 | 東京等への進出（取引先随伴 + 新規開拓）|
 | 個人 retail | 第四北越銀行 | 県内人口 220 万、預金 / 住宅ローン |
 
-## 3. 戦略・競争
-
 ### 地盤統合戦略（県内一行型）
 
 - **新潟県内 一県一行に近い地盤**：県内競合が ほぼ存在しない地銀構造（第二地銀格の北越を統合済）
@@ -116,24 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 地銀マージン改善（メガより恩恵大）
   - 2025〜 地銀再編加速（人口減 + デジタル投資負担）
   - 新潟県の人口減少（県人口 220 万 → 長期減少トレンド）→ 預貸ボリューム圧迫
-
-## Counterpoints
-
-- 「一県一行型の安定性 vs 人口減少リスク」：新潟県人口 220 万の長期減少トレンドが直撃。県外展開で相殺できるか ^[inferred]
-- 「合併シナジー実現度」：2021-01 銀行合併から数年経過、店舗統合・人員削減・システム統合効果の定量検証段階 ^[ambiguous]
-- 「県外進出の戦略意義」：首都圏営業店はメガ競合エリア、規模拡大よりも県内顧客随伴ロジック中心と推察 ^[inferred]
-- 「デジタル戦略の存在感」：[[fukuoka-fg]] みんなの銀行 / [[ndfg]] 等と比べ独自デジタル基盤の発信は限定的 ^[inferred]
-- 「県内中堅企業へのメガ攻勢」：[[mufg]] / [[smfg]] / [[mizuho-fg]] 法人攻勢への main bank 防衛戦の継続性 ^[ambiguous]
-
-## Open questions
-
-- 2021-01 銀行合併シナジーの定量実績は？（人員 / 店舗 / システム統合効果）
-- 県外（首都圏）営業店の収益貢献度と戦略的位置付け
-- デジタル戦略（地銀発デジタル基盤 / BaaS / フィンテック）の方向性は？
-- 隣県（東北・北陸）地銀との将来連合 / SBI 系広域構想との距離感
-- 2024 中計の数値目標（ROE / OHR / 自己資本比率）と進捗
-- 新潟県人口減少トレンド下での預貸ボリューム維持戦略
-- 観光（佐渡世界遺産候補等）・米産地ブランド・燕三条製造業向け地場ファイナンスの拡大余地
 
 ## Related
 

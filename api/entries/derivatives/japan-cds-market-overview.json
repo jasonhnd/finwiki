@@ -53,13 +53,13 @@
     "Japan CDS market overview",
     "TL;DR",
     "Wiki route",
-    "Market structure",
     "Product taxonomy",
     "iTraxx Japan composition",
     "Single-name CDS coverage",
     "Dealer set",
     "Notional outstanding",
-    "Clearing infrastructure"
+    "Clearing infrastructure",
+    "CDS spread quoting"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15182,
-    "word_like_tokens": 2420,
+    "nonspace_chars": 13540,
+    "word_like_tokens": 2142,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -19,7 +19,6 @@ status: candidate
 
 # Agorá vs mBridge · クロスボーダー決済デュアル・トラック制の戦略比較
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -51,19 +50,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2017-2020 BIS Innovation Hub がシンガポール、香港、スイス、ロンドンの 4 か所にセンターを設置 → マルチ CBDC のクロスボーダー決済が研究の重点となる。2021 mBridge 立ち上げ（BIS Hong Kong Centre 主導）。2022 ロシア準備凍結事件 → 米ドルの中立性仮定が揺らぐ → BRICS + 中東で脱ドル化クロスボーダー決済のニーズが急増。2024.10 BIS は地政学的圧力下で mBridge から撤退し、ほぼ同時に（2024.04）Agorá を立ち上げ → BIS は実質的に「東側版」を PBoC に移管し、自身は「西側版」を運営する。2025-2026 でデュアル・トラック構造が明確化。
 
-## Counterpoints
-
-- 「デュアル・トラック」物語は過度に政治化されている可能性 — 実際には商業銀行が双方に同時接続し、明確な陣営選択がない可能性
-- mBridge は BIS 撤退後も技術的中立性を維持できるかは疑問（PBoC 引き継ぎ後も依然として G10 国家のアクセスを開放しているか?）
-- FRBNY の Agorá 参加は米国公式のコミットメントを意味せず、OCC / Fed Board の政策不確実性の影響を依然受ける
-- 第 3 のトラック（IMF 主導の可能性ある CBDC プロトコル）または第 4 のトラック（地政学的に中立な SWIFT 近代化）が構図を変える可能性
-
-## Open questions
-
-- mBridge はいつ商用化するか? 他の BRICS 諸国（ロシア / ブラジル / インド / 南アフリカ）に拡張するか?
-- Agorá Phase 2 がローンチした後、mBridge の経路を取り込むか（技術的相互接続）?
-- 中国は mBridge を迂回して独自の CBDC 相互運用フレームワーク（SWIFT を代替する CIPS 類似）を打ち出すか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -75,4 +61,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

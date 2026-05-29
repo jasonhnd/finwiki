@@ -124,18 +124,6 @@ Floorplan ABS is a smaller volume layer in Japan than retail-loan ABS, but is a 
 - But practically, the captive finance subsidiary's solvency depends on parent OEM continuation; in extreme scenarios, OEM distress can disrupt servicing.
 - Rating agencies analyze captive-finance ABS partly through the OEM lens — backup-servicer arrangements and parent-credit linkage are factors.
 
-## Counterpoints
-
-- **"Auto-loan ABS is risk-free"**: granular pools and low Japan default rates make senior tranches very safe, but tail-risk scenarios (severe recession + used-car-market collapse) can still impair junior tranches.
-- **"Lease ABS is the same as loan ABS"**: lease ABS carries residual-value risk that loan ABS doesn't.
-- **"Captive ABS is just OEM credit in disguise"**: legally bankruptcy-remote; but parent OEM relationship matters for servicing continuity and rating-agency analysis.
-
-## Open questions
-
-- How EV transition affects residual-value modeling for lease ABS (EV batteries depreciate differently from ICE drivetrains).
-- Whether Japan auto-loan ABS expands materially as OEMs face funding-mix optimization pressure.
-- Cross-border ABS issuance volume vs domestic — Toyota Financial Services international shelf is a meaningful chunk.
-
 ## Related
 
 - [[structured-finance/INDEX]]

@@ -19,7 +19,6 @@ status: candidate
 
 # Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -32,10 +31,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - USDC PPSI 後の Group 1b 資格見込み: 高（コンプライアンス設計が完全に整合） ^[likely]
 - USDT の Group 1b 資格見込み: 低（reserve composition + transparency が不十分） ^[likely]
 - BUIDL の Group 1a 資格見込み: 極めて高（短期国債を直接トークン化） ^[likely]
-- cbBTC の Group 2a 資格見込み: BTC 1:1 ラッパー · 1,250% RW ^[inferred]
-- USDC の銀行カストディコスト ~10% capital backing vs USDT ~100% = スプレッド ~10x ^[inferred]
 - BUIDL は 2024-Q4 に $1B AUM 突破 · 2026-05 時点 ~$3B AUM ^[extracted]
-- §501(d) 入リスト stablecoin は Group 1b 基準を満たす必要あり（暗黙条件） ^[inferred]
 
 ## Mechanism / How it works
 
@@ -49,18 +45,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2022-12 の SCO60 公表後、各メガバンクのリスク部門は 2023 年から Group 資格の事前判定を開始 → 2024 年に BlackRock と BNY Mellon が連携して BUIDL を立ち上げ、Group 1a 資格成立に賭けた。Circle は 2024-Q4 から PPSI 開示を強化し、USDC が 2025-Q3 の BCBS 実装後に Group 1b を取得することを目標とした。Tether の反応は保守的で、2025 Q4 時点で依然として Group 1b 基準に達していない。HK FRTB consultation（2026-04）は SCO60 を直接マッピング（詳細は [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB 準備金概要]]）しており、アジアで初めて SC issuer 向けの国際資本フレームワークの実装事例となる。
 
-## Counterpoints
-
-- 米国 final rule のソフト化により USDC moat が希釈される可能性（BTC ETF の部分免除 → 銀行参入のハードル低下）
-- BCBS 実装の各国差異 · クロスボーダー規制裁定の余地が残存
-- Group 1b 基準はいつでも調整可能 · USDT が開示改善により逆転する可能性
-
-## Open questions
-
-- BCBS は RWA token（BUIDL / OUSG）向けに Group 1a の細分化サブカテゴリーを策定するか?
-- §501(d) 入リスト stablecoin は Group 1b 資格を明文要求するようになるか（現状は暗黙）?
-- BIS Project Agorá の中央銀行 wCBDC は自動的に Group 1 = 100% bankable 設計となるか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -71,4 +55,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

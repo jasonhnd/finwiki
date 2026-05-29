@@ -19,7 +19,6 @@ status: candidate
 
 # 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -31,9 +30,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - 三円 2030 予測 = 米円 $80B（USDC/USDB/PYUSD/RLUSD）+ 欧円 $15B（EURC/EURCV/EURB）+ 日円 $35B（JPYC/Progmat/銀行コイン）^[extracted]
 - USDT グレーゾーン 7 か国月次フロー $32B × 12 = $384B / 年（ロシア/イラン/ベネズエラ/ナイジェリア/トルコ/アルゼンチン/ベトナム）^[extracted]
-- コンプライアンスホワイトサークルがコンプライアンスステーブルコイン市場の 35-40% を占有 · グレーサークルはホワイトサークルの ~3 倍規模 ^[inferred]
 - 三円 MRA は依然正式署名なし（2026-05 時点で相互認証草案討議中）· 2027-2028 着地予定 ^[extracted]
-- 2030 規模は fed funds rate に重大依存（高金利 → 準備金 yield → 発行体競争意欲）^[inferred]
 
 ## Mechanism / How it works
 
@@ -59,14 +56,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Origin & evolution
 
 [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 2025 可決 + [[fintech/mica-overview|MiCA]] 2024-12-30 全面施行 + 日本改正資金決済法 2023-06 が [[fintech/japan-epi-three-types-overview|EPI 三型]] にアップグレード = 三円基礎が整備された。$130B 2030 数字は「相互認証協定 2028 署名 + EPI 信託型 2027 で利息分配許可へアップグレード」の 2 つの前提下での試算である。いずれかの前提が遅延すれば、2030 規模は $80-100B まで低下する可能性。
-
-## Counterpoints
-
-$130B は likely な試算 · 実際は issuer が MRA に本当に接続するか次第（USDC は高確率で接続、USDT は高確率で接続しない）。$384B グレーサークル数字は Chainalysis のオンチェーンフローで、一部は round-tripping、実際の「ネットフロー」は 30-50% のみの可能性。「ホワイトサークルがグレーサークルを食わない」という前提も誤りの可能性 —— USDC が新興市場で KYC なしウォレットを投入（Yellow Card モデル拡張等）すれば、USDT シェアの一部を侵食する可能性。三円 MRA 草案は依然未署名 · 実着地に 1-2 年の遅延リスクあり。
-
-## Open questions
-
-EPI 信託型 2027 で本当に「利息分配」許可へアップグレードできるか？USDT は 2030 までに能動的に三円コンプライアンスを申請するか（HK ライセンスはシグナル）？三円 MRA と BlackRock BUIDL「中立武器商人」役割の相乗効果（BUIDL が同時に米 / 欧 / 日 SC へ準備金を提供）？中東デジタル資産ファンド $200-500B が「第四円」としてホワイトサークルに参加するか？
 
 ## Related
 <!-- wiki-links:managed -->

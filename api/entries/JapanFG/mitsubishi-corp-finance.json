@@ -44,14 +44,14 @@
   "headings": [
     "三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "三菱グループ金融機能の三層構造",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "商社系 group-treasury の典型像",
     "競合 / Peer",
-    "4. 規制・政策"
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -103,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5793,
-    "word_like_tokens": 749,
+    "nonspace_chars": 4333,
+    "word_like_tokens": 571,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -70,8 +70,6 @@ L2 rollup は 2023-2024 年において依然として「技術路線の争い +
 
 本マトリクスは 7 つの公開稼働中の主流 L2 を対照 · 11 軸を横断展開 · 2026-Q2 データスナップショット。
 
-## Per-rollup sections
-
 ### Base (Coinbase)
 
 **TVL May 2026**:~$18B(L2 首位 · 2024-Q2 Base ローンチから 18 か月で達成 · 業界最速の成長)。
@@ -331,8 +329,6 @@ L2 rollup は 2023-2024 年において依然として「技術路線の争い +
 - **エコシステム深度**:Base = consumer + DeFi · Arbitrum = DeFi 専門 · Optimism = Superchain 連邦 · zkSync = AA native · Linea = MetaMask トラフィック · Polygon zkEVM = enterprise pilot · Scroll = EVM 純度
 - **治理成熟度の収束**:7 つとも Stage 1 · Security Council + 7-21 day timelock · DAO 治理かチーム主導 · 実質的に Stage 2 full decentralization に達した L2 はない
 
-## Base-led growth · Coinbase 効果
-
 ### なぜ Base が最速成長か
 
 **Coinbase 親会社効果**:
@@ -366,8 +362,6 @@ L2 rollup は 2023-2024 年において依然として「技術路線の争い +
 - **Meme coin サイクルへの過度依存**:meme coin は volatile · 冷却すれば Base ユーザーアクティビティが低下する可能性
 - **OP Superchain 内部競争**:Worldcoin / Mode / Soneium 等の OP Stack chain は Base の競合 · 協力のみではない
 
-## Arbitrum stagnation · 技術リードだが成長減速
-
 ### なぜ Arbitrum 成長が減速したか
 
 - **DeFi-native ユーザー構造**:Arbitrum の主要ユーザーは DeFi power user(perp trader · yield farmer · 複数 protocol インタラクション) · この層の規模が飽和
@@ -386,8 +380,6 @@ L2 rollup は 2023-2024 年において依然として「技術路線の争い +
 - 2026-Q1 Stylus 上 Rust DeFi プロトコルがローンチ(Cygnus · Hydrogen 等)· dApp 多元化
 - BoLD permissionless validator により ARB stake economic が起動 · token holder 収益期待が改善
 - Arbitrum Orbit の一部 L3 が圏外進出(XAI gaming · Lumia · ApeChain)
-
-## OP Superchain expansion · 連邦化戦略
 
 ### Superchain フレーム
 
@@ -422,8 +414,6 @@ Base + Optimism + その他 Superchain TVL を合算すれば ~$25B+ · **Arbitr
 - **OP Labs vs Base team**:Coinbase の影響力により Base は実質独立 · OP Labs は sequencer revenue 分配(~10%)を得るが治理影響は限定
 - **Worldcoin / Mode / その他子チェーン**:多くが自前 token + DAO を持ち · OP token 治理影響は弱まる
 - **共有 sequencer の実際進捗**:OP Labs が継続推進 · ただし各子チェーンが sequencer revenue を放棄するかは政治問題
-
-## エコシステム影響 · Web3 エンドユーザー分布
 
 ### ユーザー / dApp / 資本分布
 
@@ -479,27 +469,6 @@ Base + Optimism + その他 Superchain TVL を合算すれば ~$25B+ · **Arbitr
 **Sequencer revenue 長期進化**:Pectra 後 sequencer margin が安定 · ただしユーザー数が成長を続ければ · L2 総 sequencer revenue は 2027 年に $500M+ に達する可能性 · これにより L2 評価がより定量可能となる(SaaS ARR multiple に類似)。
 
 **Cross-L2 intent / shared sequencer**:Espresso · Astria 等の共有 sequencer が 2026-2027 ローンチ · 主流 L2 が採用すれば · 流動性フラグメンテーション問題が緩和 · ユーザー体験が大幅改善。
-
-## Counterpoints
-
-- **TVL 数字 ≠ 実経済活動**:大部分の L2 TVL は bridge wrapped asset(WETH · USDC · stETH) · 実 native value creation は高くない可能性
-- **Base「consumer dApp」の一部は meme coin · 持続不可**:meme coin は cyclical · Base ユーザーアクティビティは変動する可能性
-- **OP Superchain 総 TVL に Base を含むのは重複算入**:Coinbase が実質独立ブランド · Base TVL を OP Superchain 算入は inflation の疑い
-- **ZK rollup「技術ナラティブ」が変現しない可能性**:ZK rollup は長期に方向性とされる · ただし 2024-2026 OP rollup TVL が主導継続 · ZK rollup ユーザー成長は遅い
-- **Stage 1 decentralization ≠ 実際に decentralized**:Security Council + 7-day timelock はチームに事実上の制御権を残す · ユーザー資金の真の分散化には Stage 2+ が必要 · 実現にはほど遠い
-- **L2 内部競争は zero-sum か?**:L2 総 TVL pool が不変で · L2 間が相互に蝕み合うという見解あり。だが実証では L2 総 TVL が継続成長(2022 ~$5B → 2026 ~$45B)· ETH L1 トラフィック移行 + 新規ユーザー参入であり · zero-sum ではない
-- **DA cost はもはや differentiator ではない**:Pectra/Fusaka 後すべての L2 DA cost が低い · 真の差別化はユーザー入口 + dApp エコシステム + 治理成熟度
-
-## Open questions
-
-- **Base は token 上場するか**:Coinbase は上場企業 · Base token 上場は SEC 審査をトリガーする可能性 · ただし token ローンチはエコシステムをさらに刺激する可能性
-- **Arbitrum は Base 類似の消費者入口を見つけられるか**:Stylus / BoLD は技術優位 · ただしユーザー成長には消費者 catalyst が必要
-- **OP Superchain で Base を超える dominant 単チェーンが出現するか**:Worldcoin / Soneium / Unichain は次の Base になれるか
-- **ZK rollup が市場シェア 30% を突破するのはいつ**:現在 ZK rollup は L2 TVL の ~15% · いつ 30%+ になれるか · prove cost かユーザー認知問題か
-- **Polygon zkEVM の enterprise pilot はいつ production TVL に転換するか**:Franklin Templeton 等 pilot は demo か commercial deploy か
-- **Cross-rollup intent / shared sequencer はいつ主流化するか**:Espresso / Astria 2026-2027 進捗がユーザー体験を改善するか
-- **Stage 2 decentralization はいつ達成するか**:L2 チームが sequencer + governance 制御権を真に放棄する意思はあるか
-- **L3 / Orbit / Hyperchain は L2 トラフィックを蝕むか**:それとも補完か?
 
 ## Related
 

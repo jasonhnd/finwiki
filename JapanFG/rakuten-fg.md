@@ -18,7 +18,6 @@ sources:
 
 # 楽天グループ金融事業 (Rakuten FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-payment-gateway|GMO ペイメントゲートウェイ]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
@@ -124,8 +123,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 運用 | 楽天投信投資顧問 | ファンド組成（楽天証券販売チャネル） |
 | ポイント | 楽天ポイント | 経済圏 OS・SPU で全事業を束ねる |
 
-## 3. 戦略・競争
-
 ### 「楽天経済圏」モデル
 
 - **楽天ポイント = OS**: EC 購買・通信・カード・銀行・証券・保険・トラベル すべてでポイント付与/利用
@@ -170,22 +167,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 楽天モバイル 周波数割当 / 設備投資 → 総務省管轄、ただし金融セグメントへの間接影響
   - 2024〜 新 NISA 制度 → 楽天証券口座増勢
   - ステーブルコイン / 暗号資産規制改定 → 楽天ウォレット への波及
-
-## Counterpoints
-
-- **「経済圏依存」リスク**: 楽天ポイント SPU 改定が打ち手の中心。ポイント原資 = グループの実費なので、SPU 縮小は会員離反、SPU 維持は利益圧迫 ^[inferred]
-- **「モバイル赤字補填」構造**: FinTech が稼いだ利益を Mobile に回す内部資金循環 → 金融子会社少数株主や上場子会社（楽天銀行）の利益相反論点 ^[ambiguous]
-- **「楽天証券 IPO 撤回」の戦略意義**: みずほ 49% 受入は資金調達には成功したが、独立上場による評価顕在化機会は失った ^[ambiguous]
-- **「楽天銀行 IPO 後の親子上場」論点**: 親会社 楽天グループ と 上場子会社 楽天銀行 のコーポレートガバナンス（東証 親子上場ガイドライン適合性）^[inferred]
-- **「経済圏の外への波及力」**: 楽天 ID 1 億超でも、外部加盟店ネットワークは PayPay 経済圏や au 経済圏との競合下にある ^[inferred]
-
-## Open questions
-
-- 楽天証券 49% 出資の **次の段階**: みずほが過半数化に動くシナリオは？ それとも 49% で安定？
-- 楽天銀行（5838）の住宅ローン参入 → メガバンク系個人ローン市場へのインパクト
-- 楽天モバイル黒字化目標時期 と 金融セグメントの独立性確保策
-- 楽天ウォレット の戦略的位置付け（[[sbi-hd]] や マネックスクリプトバンク 等との比較）
-- 楽天ポイント を 銀行口座 / 証券口座 のリアルマネー化する境界線（資金決済法・金融商品取引法の重なり）
 
 ## Related
 

@@ -46,8 +46,8 @@
     "合併歴史・前身",
     "重要年表",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "地盤統合戦略（県内一行型）"
+    "地盤統合戦略（県内一行型）",
+    "県外進出戦略"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4181,
-    "word_like_tokens": 621,
+    "nonspace_chars": 3561,
+    "word_like_tokens": 552,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

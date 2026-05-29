@@ -43,11 +43,11 @@
     "TL;DR",
     "1. 会社概要",
     "主要子会社・グループ構成",
-    "合併歴史・前身",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "中京経済圏集中戦略"
+    "中京経済圏集中戦略",
+    "合併シナジー（2022-10 統合 → 2025-01 銀行合併）",
+    "競合構図"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4470,
-    "word_like_tokens": 682,
+    "nonspace_chars": 3467,
+    "word_like_tokens": 557,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

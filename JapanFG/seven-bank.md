@@ -17,7 +17,6 @@ sources:
 
 # セブン銀行 (Seven Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/lawson-bank|ローソン銀行 (Lawson Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -38,10 +37,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **本社**：東京都千代田区丸の内 1-6-1 丸の内センタービル ^[extracted]
 **親会社**：株式会社セブン&アイ・ホールディングス（連結子会社、持株比率 **約 46%**）^[ambiguous]
 
-### 業態の特徴
-
-伝統的な商業銀行（預金集め → 貸出 → 利鞘）とは異なり、**ATM 設置・運営・提携金融機関への利用提供** を主業務とする。自前の銀行口座も提供するが、収益構造の中心は提携先金融機関からの **ATM 利用手数料収入**（提携先顧客が ATM 使用 → 提携先が手数料を支払う）。^[inferred]
-
 ### 主要子会社・グループ ^[extracted]
 
 ```
@@ -59,8 +54,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - セブン&アイ・ホールディングス（親会社）: **約 46%**
 - 機関投資家（信託・カストディ各社）
 - 個人株主
-
-> 親会社セブン&アイは流通業（コンビニ・スーパー・百貨店）のリテール巨大プラットフォーム。セブン銀行は同グループのリテール導線（コンビニ来店客）を ATM 利用 → 提携銀行手数料 に変換するインフラ企業。^[inferred]
 
 ### 重要年表 ^[extracted]
 
@@ -97,11 +90,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 1. **顧客**（提携銀行の利用者）が セブンイレブン店内ATM で出金・残高照会
 2. **セブン銀行** が提携先銀行に「ATM 利用通知」+ 手数料請求
 3. **提携先銀行** が一定の手数料を支払い（顧客負担分 + 自行負担分）
-4. **手数料収入** がセブン銀行に蓄積 ^[inferred]
-
-> 国内 ATM 設置・運営の固定費（機器・回線・現金補充・保守）に対し、提携先からの安定手数料が積み上がる構造。**ATM 1 台あたりの月次利用回数** が KPI ^[inferred]
-
-## 3. 戦略・競争
 
 ### コアプラットフォーム戦略
 
@@ -120,7 +108,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **フィリピン**（2018-04〜）: Seven Bank ATM Philippines、現地セブンイレブン網と連携
 - **インドネシア**（2019-08〜）: PT. ABADI TAMBAH MULIA INTERNASIONAL（ATMi）
 - **米国**: FCTI, Inc. ── 米州 ATM ネットワーク
-- 戦略: 日本の ATM 運営ノウハウを ASEAN 新興国に展開、現地コンビニ網と組み合わせ ^[inferred]
 
 ### クロスボーダー決済
 
@@ -130,37 +117,16 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 競合関係
 
 - **イオン銀行**: 流通系銀行のもう一つの代表（イオングループの店舗網 + ATM 戦略）
-- **メガバンク系 ATM**（[[mufg]] / [[smfg]] / [[mizuho-fg]]）: 自前 ATM 縮小傾向 → セブン銀行への依存度上昇 ^[inferred]
 - **コンビニ系 ATM**: ローソン銀行（[[lawson-bank]]）、E-net（ファミリーマート系・親会社=[[smfg]] グループ）
-- **キャッシュレス決済**: PayPay 等の電子マネー普及で「現金引出需要」自体が長期的減少リスク ^[inferred]
 
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）
 - **業態**: 銀行法上の普通銀行（流通系ネット銀行カテゴリ）
-- **海外規制**: フィリピン中央銀行（BSP）、インドネシア OJK、米連邦・州規制 ^[inferred]
 - **直近政策論点**:
   - 2024〜 **キャッシュレス決済推進** vs **ATM 利用維持** → 現金需要長期低下リスク
   - 2024〜 **インバウンド復活** で国際 ATM 需要回復
   - 2025〜 **第 4 世代 ATM 機展開**（顔認証等の新機能 → コンプライアンス・プライバシー規制対応）
-  - 2025〜 **マネーロンダリング対策（AML/CFT）強化** ── 海外発行カード対応・海外送金事業で規制水準上昇 ^[inferred]
-
-## Counterpoints
-
-- 「キャッシュレス進行で長期構造低下」観: PayPay / 楽天ペイ / クレカ普及で現金引出需要は長期減少 → ATM 利用回数低下リスク ^[inferred]
-- 「ATM 1 強モデルの脆弱性」: 収益の中心が ATM 手数料単一に偏り、メガバンク系の ATM 縮小・コンビニ系競合・キャッシュレス進行の三方圧力 ^[inferred]
-- 「親会社依存」: セブン&アイ HD のコンビニ網に依存 → セブンイレブン店舗戦略の変動（出店削減・閉店）が直撃 ^[inferred]
-- 「ASEAN 展開の収益寄与は限定的」: フィリピン・インドネシア事業は規模・収益寄与とも国内 ATM に比べて小さい ^[ambiguous]
-- 「インバウンド頼み」: 国際 ATM 収益は訪日客数・為替・地政学に連動 → コロナ的ショックに弱い ^[inferred]
-
-## Open questions
-
-- ATM 1 台あたり月次利用回数のトレンドは？ キャッシュレス浸透との相関は？
-- 第 4 世代 ATM 機の顔認証・カードレス機能の利用率と収益貢献は？
-- ASEAN（フィリピン・インドネシア）事業の損益分岐到達時期は？
-- 親会社セブン&アイ HD の戦略変動（コンビニ網縮小・米セブン売却議論等）が セブン銀行に与える影響は？
-- ローソン銀行（[[lawson-bank]]）・イオン銀行との競合・棲み分けの行方は？
-- ステーブルコイン・CBDC（デジタル円）導入時の ATM 役割再定義は？
 
 ## Related
 

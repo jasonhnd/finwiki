@@ -17,7 +17,6 @@ sources:
 
 # ビットトレード (BitTrade)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -59,11 +58,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 法人向け | OTC / 法人口座等 | 中堅枠としての差別化領域 |
 | デリバティブ | 国内では限定的 | デリバティブは bitFlyer / GMO 等が主軸 |
 
-## 3. 戦略・競争
-
 ### ポジショニング
 
-- 国内暗号資産取引所の **中堅枠**：bitFlyer / Coincheck / GMO コイン / SBI VC Trade の次のティア ^[inferred]
 - **取扱通貨ロングテール戦略**：大手が扱わないアルトを含めた 30+ 通貨で「銘柄数」で差別化 ^[extracted]
 - グローバル系（Huobi 起源）レガシーから「**日本独立系**」イメージへの再ブランディング（2022-08）^[extracted]
 
@@ -95,21 +91,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **直近政策論点**：
   - 2024〜 ステーブルコイン制度（資金決済法改正）下での取扱対応
   - 海外無登録業者警告との関係（**BitTrade は登録業者**であり警告対象側ではない）^[extracted]
-
-## Counterpoints
-
-- 「Huobi 系列からの独立性」：BitTrade への再改称（2022-08）でブランド分離は明確だが、Huobi グローバル本体（Justin Sun 関連）との実質的な資本・人的独立性が監督上どこまで明確かは公開情報で完全には追えない ^[ambiguous]
-- 「国内シェア」：取扱通貨数では国内最多級だが、**取引高シェアでは中位**（bitFlyer / Coincheck より小）^[inferred]
-- 「ロングテール戦略の持続性」：マイナー銘柄の上場・運営コスト vs 出来高の薄さ。大手の通貨拡充に追随されるとエッジ消滅リスク ^[inferred]
-- 「再ブランディングの効果」：海外系起源の業者という認識が国内ユーザーに残るかどうかは ^[ambiguous]
-
-## Open questions
-
-- BitTrade 日本法人の **現在の実質支配株主**と Huobi グローバル / PtokaPay / Justin Sun 系との資本関係の最新整理は？
-- 取扱通貨数 30+ のうち、**実取引高の集中度**（上位 5 銘柄シェア）は？
-- JVCEA 内での **新規上場審査スピード**（BitTrade vs bitFlyer 等）の差は？
-- ステーブルコイン制度下で [[mufg]] **Progmat Coin** 等を BitTrade が扱う可能性は？
-- 中堅枠の **M&A 再編シナリオ**（メガバンク系 FG や海外大手による国内中堅買収）における立ち位置は？
 
 ## Related
 

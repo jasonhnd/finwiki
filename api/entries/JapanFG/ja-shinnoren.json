@@ -51,12 +51,12 @@
     "JA Bank system の三段構造 ^[extracted]",
     "信連数の推移 ^[extracted]",
     "重要年表 ^[extracted]",
-    "2. 機能・業務",
     "4 大機能 ^[extracted]",
-    "JA Bank system 内の資金フロー ^[inferred]"
+    "JA Bank system 内の資金フロー ^[inferred]",
+    "信連の規模感 ^[ambiguous]"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/ja-kyosairen",
@@ -66,7 +66,6 @@
       "JapanFG/norinchukin",
       "JapanFG/rokin-renraku",
       "JapanFG/shinkin-central",
-      "JapanFG/yokin-hoken-kiko",
       "JapanFG/zenshin-kumi",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
@@ -81,7 +80,6 @@
       "https://finwiki.zksc.io/JapanFG/norinchukin",
       "https://finwiki.zksc.io/JapanFG/rokin-renraku",
       "https://finwiki.zksc.io/JapanFG/shinkin-central",
-      "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
       "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
@@ -91,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5877,
-    "word_like_tokens": 889,
+    "nonspace_chars": 4758,
+    "word_like_tokens": 735,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

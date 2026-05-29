@@ -33,13 +33,11 @@
   "headings": [
     "スマートコントラクト bytecode フォレンジック — 三層 verify 技術",
     "Wiki route",
-    "三層 technique",
     "Layer 1: Deployed vs Compiled diff",
     "Layer 2: 4-byte PUSH4-EQ dispatcherの逆推",
     "Layer 3: クロスチェーン verified twin fingerprint",
     "When to Use",
     "When NOT to Use",
-    "Counterpoints",
     "Provenance"
   ],
   "body_links": {
@@ -72,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2974,
-    "word_like_tokens": 435,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 2805,
+    "word_like_tokens": 410,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-05-29"
   }
 }

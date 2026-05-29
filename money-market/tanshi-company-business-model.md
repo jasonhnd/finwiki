@@ -26,7 +26,6 @@ sources:
 
 # Tanshi company business model
 
-
 ## Wiki route
 
 This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/call-market-structure|call market structure]] for the peer / contrast surface where tanshi brokerage actually happens, and against [[money-market/boj-open-market-operations|BoJ open market operations]] for the broader system / regulatory boundary where tanshi flows interact with central-bank policy implementation. The peer-entity routes are [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]].
@@ -100,22 +99,6 @@ Tanshi companies are private-sector financial firms regulated under Japan's fina
 - They do not take retail deposits and are not banks under the Banking Act. They are not deposit insurance institutions.
 
 The route page for FinWiki's license taxonomy is [[JapanFG/legal-financial-licenses/INDEX]]; the policy-framework route is [[JapanFG/boj-monetary-policy]].
-
-## Counterpoints
-
-- **Secularly thinner call market**: through the QQE / NIRP / YCC years the uncollateralized overnight call market shrank materially. The Cabinet-level "policy rate" mattered, but actual brokered call volume often did not. Tanshi commission pools compressed accordingly.
-- **Bank-treasury disintermediation**: large bank treasuries can and do trade short-term funding bilaterally or via direct platforms, especially for size and for repeat counterparties. This is structural competition for brokered call flow.
-- **Repo and securities lending competition**: dealer-to-dealer and tri-party / clearing-house workflows in the JGB repo market mean tanshi are one channel among several, not the only intermediary layer. The [[money-market/jgb-repo-market-japan|JGB repo market]] page is the right place to read the broader plumbing.
-- **Adjacent businesses are different risk profiles**: FX margin (Central Tanshi group) and bullion (Ueda Yagi group) are not the same fee / risk shape as core money-market brokerage and should not be folded into a single "tanshi P&L" narrative.
-- **Public-source granularity is limited**: BoJ pages explain the function and list counterparties at a category level; firm-by-firm market share, fee tables, and product P&L splits are generally not publicly itemized.
-
-## Open Questions
-
-- How elastic are tanshi commission pools to the post-2024 short-rate normalization path — and is the rebound durable, or is it a one-cycle bounce?
-- Which of the three firms is best positioned for a steady-state positive-rate regime, given different adjacent-business mixes (pure money-market vs FX margin vs bullion)?
-- What is the right way for FinWiki to disclose each firm's BoJ-operation counterparty status without overstating what the public lists actually say?
-- How should FinWiki separate "tanshi brokerage" from "interdealer broker" terminology when global IDB platforms also operate in Japanese money markets?
-- Which JapanFG company pages should carry a "tanshi-touchpoint" subsection (bank treasuries, securities-firm repo desks, trust banks) versus only referencing the money-market route pages?
 
 ## Related
 

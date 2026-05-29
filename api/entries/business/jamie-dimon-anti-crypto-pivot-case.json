@@ -6,10 +6,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/jamie-dimon-anti-crypto-pivot-case.md",
   "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/jamie-dimon-anti-crypto-pivot-case.md",
   "domain": "business",
-  "title": "反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM",
+  "title": "Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM Kinexys / JPMD on Base",
+    "title": "Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base",
     "aliases": [
       "jamie-dimon-anti-crypto-pivot",
       "ceo-defensive-pivot-case",
@@ -17,8 +17,8 @@
     ],
     "domain": "business",
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-05-29",
+    "last_tended": "2026-05-29",
     "review_by": "2026-11-18",
     "confidence": "likely",
     "tags": [
@@ -29,7 +29,6 @@
       "kinexys",
       "jpmd",
       "base",
-      "pivot",
       "case-study"
     ],
     "status": "confirmed",
@@ -42,20 +41,17 @@
       "https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report"
     ]
   },
-  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 三身分COIテンプレート for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
-    "反暗号資産CEOが支持側へ転換する受動的適応事例 · Jamie Dimon / JPM",
+    "Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base",
     "Wiki route",
     "Key facts",
-    "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "business/INDEX",
@@ -64,9 +60,7 @@
       "business/kitao-yoshitaka-sbi-independent-strategy-case",
       "business/larry-fink-blackrock-digital-asset-template",
       "business/matt-huang-triple-role-coi-template",
-      "fintech/INDEX",
-      "fintech/blackrock-buidl-tokenized-mmf-overview",
-      "fintech/genius-act-501-denylist-mandate"
+      "fintech/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -76,16 +70,14 @@
       "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
       "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
       "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template",
-      "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate"
+      "https://finwiki.zksc.io/fintech/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4596,
-    "word_like_tokens": 727,
+    "nonspace_chars": 3323,
+    "word_like_tokens": 564,
     "inbound_wikilinks_count": 14,
     "last_modified": "2026-05-29"
   }

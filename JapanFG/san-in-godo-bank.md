@@ -16,7 +16,6 @@ sources:
 
 # 山陰合同銀行 (San-in Godo Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tottori-bank|鳥取銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -33,7 +32,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **設立**：1941-07-01（戦時下の地銀統合により発足）^[extracted]
 **本店**：島根県松江市魚町 10 番地
 **ブランド略称**：ごうぎん（Gogin）
-**機関設計**：監査役会設置会社 ^[inferred]
 **持株会社化**：未実施（単独銀行体制を維持）^[extracted]
 
 ### 主要グループ会社（一般構造）^[inferred]
@@ -47,8 +45,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   ├── ごうぎんコンサルティング ── 経営コンサル・事業承継支援
   └── 山陰合同信用保証 ── 住宅ローン保証等
 ```
-
-> 持株会社を設けない単独銀行体制は、[[chugin-okayama]]（持株会社化）や [[yamaguchi-fg]]（3 行統合 FG 化）と対照的。M&A 余地は残されているが、現時点では単独路線。^[inferred]
 
 ### 合併歴史・前身
 
@@ -90,8 +86,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 資産運用 | 投資信託・保険販売 | 2009 BlackRock 提携で商品ラインアップ強化 |
 | デジタル | ごうぎんアプリ・ATM 連携 | 地銀共同インフラ採用 |
 
-## 3. 戦略・競争
-
 ### 地理戦略
 
 - **山陰地方寡占**: 島根・鳥取両県でシェア 40 〜 50% 超のメインバンク地位
@@ -110,23 +104,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | [[yamaguchi-fg]] | 山口・北九州・福岡 | 隣接 FG・3 行統合体制（もみじ銀+山口銀+北九州銀）と対照的に単独路線 |
 | JA バンク・ゆうちょ | 全国 | リテール競合（特に高齢者層）|
 
-### デジタル戦略
-
-- **ごうぎんアプリ**: モバイルバンキング、QR 決済対応 ^[inferred]
-- **地銀共同インフラ**: 多くの地銀と同様、勘定系・ATM・国際送金で共同利用 ^[inferred]
-- **BaaS / API**: 大手地銀ほど積極的ではないが、地域フィンテックとの限定提携 ^[inferred]
-- **DX 投資余力**: 単独銀行ゆえ、FG 化した [[yamaguchi-fg]] や [[hirogin-hd]] と比べて IT 投資規模では劣後 ^[inferred]
-
 ### 提携・買収戦略
 
 - **BlackRock 資産運用提携**（2009）★: 米最大手と提携し投信ラインアップ強化、地銀としては早期の海外大手アライアンス事例 ^[extracted]
-- **持株会社化見送り**: 1990 年代以降の地銀再編波（[[chugin-okayama]] / [[hirogin-hd]] / [[yamaguchi-fg]] 等が FG 化するなか）で**単独路線**を維持 ^[inferred]
 - **地元自治体・JA・JF 協力体制**: 島根県・鳥取県 + 両県内市町村 + 農協 + 漁協と地域金融エコシステムを形成
 
 ### B2C ブランディング
 
 - **「ごうぎん」愛称**: 山陰両県では銀行名 = ごうぎんが定着、地域密着型
-- **コーポレートカラー**: 緑系（山陰の自然・松江城をモチーフ）^[inferred]
 - **CSR / 地域貢献**: 出雲大社・松江城・水郷祭等の地域イベントスポンサー、奨学金、文化財保護
 
 ## 4. 規制・政策
@@ -134,27 +119,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **主管**: 金融庁（FSA）+ 中国財務局（広島）+ 日本銀行 松江支店
 - **預金保険機構**: 加盟
 - **全国銀行協会**: 正会員
-- **規制対応**: 銀行法 + 金融商品取引法 + マネロン対策（FATF 第 4 次審査対応）^[inferred]
 - **直近政策論点**:
   - 2024 〜 日銀政策金利正常化 → 地銀の国内預貸金利マージン改善ボーナス
   - 2024 〜 地方創生 2.0（政府方針）→ 地銀の地域中核機能強化要請
   - 人口減少地域での店舗網維持コスト（島根・鳥取は人口減少率全国上位）
   - 2025 〜 地銀再編圧力（金融庁スタンス）vs 単独路線維持
-
-## Counterpoints
-
-- 「単独路線は持続可能か」: 山陰両県は人口減少率全国上位、地銀再編波のなかで単独維持できるかは中期的疑問。FG 化した周辺地銀（[[yamaguchi-fg]] 3 行統合、[[hirogin-hd]] 持株化）との IT 投資規模差は拡大傾向 ^[inferred]
-- 「観光・原発集中リスク」: 出雲大社・鳥取砂丘等の観光と島根原発関連需要への依存度が高く、観光低迷・原発再稼働政治判断・地震リスクで地域経済が振れやすい ^[inferred]
-- 「ごうぎん寡占の功罪」: 山陰両県でメインバンク地位を独占する一方、競争原理が働きにくく、中小企業向け金利・サービスの選択肢が限定 ^[ambiguous]
-- 「BlackRock 提携の実効性」: 2009 年提携以降の具体的成果は限定的、ブランド露出と商品調達ルート確保が中心 ^[ambiguous]
-
-## Open questions
-
-- 単独路線をいつまで維持するか？周辺 FG（[[yamaguchi-fg]] / [[hirogin-hd]] / [[chugin-okayama]]）との将来的統合シナリオは？
-- 島根原発 2 号機再稼働（時期未定）後の関連企業向け融資ポートフォリオ変動は？
-- 域外展開（広島・岡山・大阪）の収益貢献度と、域外で [[hirogin-hd]] 等とどう棲み分けるか？
-- BlackRock 提携の更新・拡大状況は？他海外アライアンス（運用・デジタル）の追加は？
-- 鳥取銀行・[[shimane-bank|島根銀行]] との将来統合シナリオは？（規模差から救済的吸収もあり得る）
 
 ## Related
 

@@ -44,10 +44,8 @@
     "1. 法人・ライセンス境界",
     "2. Business role",
     "3. Why this standalone page matters",
-    "4. 規制・政策",
-    "Counterpoints",
-    "Open questions",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3517,
-    "word_like_tokens": 511,
+    "nonspace_chars": 2490,
+    "word_like_tokens": 387,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

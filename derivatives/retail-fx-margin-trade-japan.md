@@ -187,14 +187,6 @@ The retail FX broker spread is the principal revenue source. Stylized economics:
 
 Industry profit pools are concentrated at the top brokers (GMO Click, SBI, DMM) which combine large volume with proprietary cost-efficient infrastructure.
 
-## Counterpoints
-
-- **Concentration risk in the broker market**: top 5 brokers concentrate the bulk of turnover; structural shock to any one would dislocate flow.
-- **Carry-trade tail risk**: ZAR/JPY, MXN/JPY, and TRY/JPY carry trades expose retail customers to currency-crisis tail events with leveraged loss.
-- **Stop-cascade events**: during yen-shock moves (e.g., January 2019 flash crash, certain BoJ intervention windows), automated loss-cuts trigger cascading liquidations that amplify the move.
-- **Foreign-broker access ambiguity**: Japanese residents legally cannot trade through non-licensed offshore brokers under FIEA, but enforcement is imperfect; offshore-broker losses are not protected by 信託保全 or JFSA dispute mechanisms.
-- **Spread-vs-rebate competition**: brokers compete heavily on advertised spreads but mainline profitability comes from STP markup, A-book / B-book mix, and overnight financing spreads. See [[derivatives/fx-stp-broker-aggregation|FX STP and broker liquidity aggregation]] for the back-end view.
-
 ## Comparison with overseas retail FX regimes
 
 Japan's regulatory model differs in meaningful ways from other major retail FX jurisdictions:
@@ -220,13 +212,6 @@ A few additional structural features shape Japan retail FX participation:
 - **Educational disclaimers**: brokers must provide pre-account-opening risk-disclosure documents (契約締結前交付書面) covering leverage risk, loss-cut mechanism, and market-risk scenarios.
 
 These features make regulated Japan retail FX more administratively friendly than offshore equivalents and contribute to the population of active participants.
-
-## Open questions
-
-- Will JFSA further reduce the 25x individual leverage cap, and what would the turnover impact be?
-- How is post-YCC yen-rate normalization (see [[money-market/japan-money-market|Japan money market]]) affecting retail carry-trade demand vs intra-day scalping?
-- What is the realistic separation between A-book (STP) and B-book (broker-warehoused) flow at major Japanese retail FX brokers?
-- How is crypto-FX (USDC/JPY, USDT/JPY) and prediction-market-style FX product evolving under JFSA's broader retail-derivatives perimeter?
 
 ## Related
 

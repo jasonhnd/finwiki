@@ -53,8 +53,6 @@ Sell-side equity research is the analytical layer that sits between issuer discl
 4. **Underwriting league-table economics interact.** Strong research coverage on a sector supports underwriting mandates in that sector (this is the conflict surface FSA / JSDA conduct supervision exists to manage).
 5. **Stewardship / engagement workflows depend on research access.** Asset managers' engagement teams use sell-side coverage as one input into proxy voting and dialogue priorities.
 
-## House-by-house overview (domestic five-pole)
-
 ### Nomura
 
 - **Entity**: [[JapanFG/nomura-hd|Nomura Holdings]] / Nomura Securities Co., Ltd.; research is published under Nomura Securities (NS) and Nomura International for cross-border content.
@@ -180,22 +178,6 @@ The dominant conflict patterns:
 5. **Group bank / underwriting affiliate conflict.** For five-pole domestic houses with bank-group affiliation, the corporate-banking client and the equity-research-coverage subject may overlap.
 
 FSA customer-best-interest principles, JSDA self-regulatory rules, and each house's documented research policy together form the management framework. Public oversight occasionally surfaces in FSA / JSDA inspection or disciplinary outcomes.
-
-## Counterpoints
-
-- "Japan has no MiFID-equivalent" is true at the hard-rule level but understates the FSA customer-best-interest framework and JSDA self-regulatory pressure that effectively shape conduct.
-- Headline analyst headcounts do not capture quality, sector depth, or cross-border distribution effectiveness; survey-vote rankings are a better signal than raw headcount.
-- The five-pole domestic structure is stable rather than dynamic; new entrants into Japan equity research are uncommon outside the existing global IB tier.
-- Independent research's economic constraint is structural, not preference-driven; without forced unbundling, the segment remains comparatively small.
-- Coverage of TSE Standard / Growth Market small / mid caps remains structurally thin; the policy debate on coverage-incentive subsidies (e.g. issuer-sponsored research) interacts with conflict and disclosure rules.
-
-## Open questions
-
-- Will Japan adopt MiFID-style hard unbundling, or retain principles-based conduct with optional separation?
-- Does AlphaSense / vendor-based aggregation continue to compress demand for analyst-by-analyst relationships, or do top-ranked analysts retain pricing power through corporate access?
-- Will independent research grow if Japanese AMs face cross-border MiFID exposure that forces a research-budget discipline?
-- How will AI-assisted research production affect headcount and the value of human analyst differentiation in Japan equity coverage?
-- Does issuer-sponsored research expand to compensate for thin small / mid cap coverage, and how is the disclosure / conflict frame designed?
 
 ## Related
 

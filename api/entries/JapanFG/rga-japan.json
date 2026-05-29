@@ -47,29 +47,25 @@
     "TL;DR",
     "1. License / group boundary",
     "2. Business lines in Japan",
-    "3. Strategy & competitive position",
     "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 14,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aflac-japan",
       "JapanFG/gen-re-japan",
       "JapanFG/hannover-re-japan",
-      "JapanFG/scor-japan",
       "JapanFG/swiss-re-japan",
       "JapanFG/toa-reinsurance",
       "dai-ichi-life",
       "gen-re-japan",
       "hannover-re-japan",
       "insurance/INDEX",
-      "meiji-yasuda-life",
       "nippon-life",
       "scor-japan",
-      "sumitomo-life",
       "swiss-re-japan",
       "toa-reinsurance"
     ],
@@ -78,17 +74,14 @@
       "https://finwiki.zksc.io/JapanFG/aflac-japan",
       "https://finwiki.zksc.io/JapanFG/gen-re-japan",
       "https://finwiki.zksc.io/JapanFG/hannover-re-japan",
-      "https://finwiki.zksc.io/JapanFG/scor-japan",
       "https://finwiki.zksc.io/JapanFG/swiss-re-japan",
       "https://finwiki.zksc.io/JapanFG/toa-reinsurance",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/gen-re-japan",
       "https://finwiki.zksc.io/hannover-re-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/meiji-yasuda-life",
       "https://finwiki.zksc.io/nippon-life",
       "https://finwiki.zksc.io/scor-japan",
-      "https://finwiki.zksc.io/sumitomo-life",
       "https://finwiki.zksc.io/swiss-re-japan",
       "https://finwiki.zksc.io/toa-reinsurance"
     ],
@@ -96,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3265,
-    "word_like_tokens": 444,
+    "nonspace_chars": 2715,
+    "word_like_tokens": 377,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

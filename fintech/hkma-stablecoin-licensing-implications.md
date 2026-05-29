@@ -19,7 +19,6 @@ status: candidate
 
 # HKMA ライセンス戦略的含意 · Tether HK 非対称ベット + 中国本土 SC チャネル
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -31,10 +30,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - Tether HK 取得確率 50-60% · 拒否 35-45% · 条件付 5-15% ^[likely]
 - Tether 母会社バリュエーション取得後 $15-25B(+50% ~ +150%)^[likely]
-- HK は中国本土で唯一取得可能なルート ^[inferred]
 - PBoC 2026-Q4 オフショア CNH ウィンドウと HK SC が協調 ^[likely]
 - §501(d) 第三波(2027-H2)リスト入り条件:e-CNY と境界画定 + SDN 顧客非受入 ^[extracted]
-- HK は国際金融センターを目指す vs 北京は e-CNY のクロスボーダーを目指す、政治的バランス ^[inferred]
 - 9 社申請のうち実際は 2 件のみ発行(HSBC + Anchorpoint)· 他は遅延 ^[extracted]
 
 ## Mechanism / How it works
@@ -54,18 +51,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2025-08 HKMA Stablecoin Ordinance 採択 → 2026-05-21 初回決定 → 実際は 2 件のみ(HSBC + Anchorpoint)→ 中国本土系大手 + Tether は遅延、詳細背景は [[fintech/hkma-stablecoin-licensing-overview|HKMA ライセンス概観]] を参照。この遅延は重要なシグナルを発する:HKMA は「政治的敏感性」フィルターを厳格に執行し、2026-Q4 の PBoC オフショア CNH ウィンドウ前には中国本土系大手の承認を行わない。Tether の決定は 2026-Q4 以降に持ち越される可能性があり、PBoC ウィンドウと相まって「アジア・コンプライアンス・ドル vs オフショア CNH」の二軌観察ポイントを形成。
 
-## Counterpoints
-
-- Tether HK 申請の取得確率は政治的外部環境に高度依存 · 下方修正の可能性
-- HKMA と PBoC の協調度合は不透明 · 時間軸の推定に大きな不確定性
-- §501(d) 第三波リスト入りは 2028 まで延期の可能性 · 政治変数に依存
-
-## Open questions
-
-- Tether 取得は「グレー→コンプライアンス」テンプレートを他プレイヤー(Justin Sun / Binance HK)が複製するきっかけとなるか?
-- 京東 JD-HKD / Ant International のライセンス取得後、CNH-pegged SC を発行するか?
-- PBoC 2026-Q4 オフショア CNH ウィンドウの具体的形態(主権 SC vs 銀行 SC vs e-CNY デジタルウォレット)は?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -76,4 +61,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

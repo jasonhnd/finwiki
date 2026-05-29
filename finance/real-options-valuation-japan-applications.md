@@ -61,8 +61,6 @@ The mathematical analogue: real-option value scales with uncertainty (variance o
 
 Most real Japan M&A and project-finance situations involve compound options (multiple option types embedded together).
 
-## Application 1: Project-Finance Optionality
-
 ### Option to Expand / Abandon / Delay
 
 In [[structured-finance/project-finance-spv-japan-renewable|project finance SPV Japan renewable]] and [[structured-finance/infrastructure-finance-spv-japan|infrastructure finance SPV Japan]] deals:
@@ -84,8 +82,6 @@ A renewable project with negative DCF NPV under base case but with option-to-def
 - Off-take demand uncertainty (corporate PPA growth)
 
 The [[finance/japan-corporate-fx-and-rate-hedge-policy|corporate hedge policy]] decision is itself an option (hedge ratio, timing, instrument choice).
-
-## Application 2: M&A Staged-Deal Optionality
 
 ### TOB → Squeeze-Out Optionality
 
@@ -111,8 +107,6 @@ Cross-border M&A inbound to Japan ([[finance/cross-border-m-a-japan|cross-border
 | Valuation | Lattice or simulation methodology to value the conditional payment |
 
 A simple DCF treatment of earn-out at expected value mis-prices the optionality embedded in the cap / floor / contingency structure.
-
-## Application 3: R&D-Stage Pharma / Tech Optionality
 
 ### Pharma Pipeline Valuation
 
@@ -188,24 +182,6 @@ For most Japan corporate / M&A applications, scenario-conditioned DCF with expli
 | TSE governance code | Cost-of-capital engagement programme encourages explicit cost-of-capital analysis; real options can sharpen this |
 | Risk-free anchor | [[finance/cost-of-capital-japan-2026-reference|10Y JGB]] is the standard risk-free input |
 | Volatility input | Sector / asset-class implied or historical volatility; often the most contested input |
-
-## Counterpoints
-
-- Real-options inputs (volatility, exercise cost, time to expiration) are often poorly observable, allowing implementer bias
-- Static DCF discipline (forecast, terminal value, discount rate) is hard enough; layering real options adds analyst-degrees-of-freedom that can mask weak base case
-- Real-options pricing assumes underlying asset is tradeable (or near-tradeable); for non-traded real assets the no-arbitrage foundation is shaky
-- Many "real options" in M&A are options the counterparty also holds; mutual-option dynamics complicate naive single-side analysis
-- Fairness-opinion practice in Japan is conservative; real-options frameworks are hard to defend in litigation / minority-shareholder challenge
-- Real-options uplift can disappear once correctly priced (volatility implies cost as well as value)
-- Behavioural / managerial discipline: real-options theory assumes optimal exercise, which real-world principals often do not deliver
-
-## Open questions
-
-- Will Japan transition-finance growth drive more formal real-options framings into board-deck practice?
-- Does the climate-transition government bond programme (see [[finance/esg-sustainability-cross-domain-framework|ESG framework]]) shift sovereign-anchored optionality math?
-- How do M&A fairness-opinion practitioners increasingly incorporate (or refuse) real-options analysis as supplementary methodology?
-- Does post-NIRP rate-volatility resurgence widen the practical use of real options in capital-budgeting analysis?
-- Will pharma / tech valuation in Japan formalise lattice-based pipeline valuation as it has in some global biotech practice?
 
 ## Related
 

@@ -52,33 +52,20 @@ Trust-bank fee economics in Japan are dominated by three drivers: AUC-bps pricin
 | [[JapanFG/jpmorgan-japan|JP Morgan Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$30tn AuC ^[ambiguous] | Subsidiary of JPMorgan Chase (NYSE) | Parent-level aggregate only |
 | [[JapanFG/citigroup-japan|Citi Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$20tn AuC ^[ambiguous] | Subsidiary of Citigroup (NYSE) | Parent-level aggregate only |
 
-## 2. 主要業務 — fee-line breakdown
-
 ### Custody fee mechanics
 
 | Fee component | Pricing logic | Typical magnitude (industry inference, not entity-specific) |
 |---|---|---|
-| AUC bps (asset-class-weighted) | Per basis-point of held assets, weighted by asset class (equity higher than JGB, foreign higher than domestic) | Domestic equity: ~0.2-1 bp/year for institutional scale; foreign equity: 1-5 bps; JGB: ~0.05-0.5 bp; foreign bonds: 1-5 bps ^[inferred] |
-| Per-transaction settlement fee | Per book-entry transfer ticket | A few hundred to a few thousand yen per ticket, scaled by volume tier ^[inferred] |
-| Cash-management spread | Spread on short-dated funding placements of settlement-account residuals | Small; dependent on JGB yield curve and short-rate environment ^[inferred] |
-| Corporate-actions admin | Per CA event, often bundled into custody fee | Bundled for institutional clients; itemized for some clients ^[inferred] |
-| Voting administration | Often bundled into custody fee; ICJ electronic-voting forwarding | Bundled ^[inferred] |
-| Securities-lending agent fee | Revenue-share on lending income with beneficial owner | Typically 10-30% of lending revenue retained by agent lender ^[inferred] |
 
 ### Pension trust admin fees
 
 | Component | Pricing logic | Magnitude inference |
 |---|---|---|
-| Trust contract administration fee | AUC bps × pension AUM | Very low for GPIF-scale (sub-1 bp); higher (a few bps) for small corporate DB ^[inferred] |
-| Member balance reporting fee (DC) | Per-member, per-year | Hundreds to low thousands of yen per member, per year ^[inferred] |
-| Benefit-payment processing | Per payment ticket | Bundled; possibly per-event itemization for some plans ^[inferred] |
-| Asset-owner reporting | Often bundled | Bundled ^[inferred] |
 
 ### Securities investment trust admin fees
 
 | Component | Pricing logic | Source for public observation |
 |---|---|---|
-| 受託会社報酬 (signed in 信託約款) | AUC bps of fund NAV | Stated in each fund's 目論見書 + 信託約款 — often 0.01-0.05% / year ^[inferred] |
 | Fund accounting / NAV calc | Bundled into 受託会社報酬 | Stated only as bundled rate |
 | Distribution processing | Bundled | Not separately disclosed |
 
@@ -88,13 +75,8 @@ Across the 投信 industry the 受託会社報酬 is typically a small fraction 
 
 | Component | Pricing logic | Magnitude |
 |---|---|---|
-| 不動産信託設定報酬 | Often a percentage of property value at trust setup | Substantial — full-service trust banks earn premium margins here ^[inferred] |
-| 不動産信託継続報酬 | Annual fee for ongoing trust admin | AUC-bps of property under trust ^[inferred] |
-| J-REIT 受託会社報酬 | Per J-REIT fund | Similar to 投信 受託会社 fees but at REIT-specific economics ^[inferred] |
 
 This line is absent at MTBJ and CBJ — the custody-only specialists do not run real-estate trust.
-
-## 3. 競合構造 — fee comparison matrix
 
 ### Cross-bank fee-economy matrix (10 entities)
 
@@ -122,8 +104,6 @@ This line is absent at MTBJ and CBJ — the custody-only specialists do not run 
 | Securities lending (large institutional) | BNY / State Street / JPM (and MTBJ / CBJ on JP equity domestic flows) | Mixed; agent-lender scale wins |
 | US-listed JP-securities (ADR) | BNY / Citi / JPM | ADR depository fees |
 
-## 4. 手数料・収益構造
-
 ### Implied fee revenue (very rough industry inference)
 
 Granular line-item fee revenue per entity is not publicly disclosed. The order-of-magnitude inference (industry-level only, not entity-specific guarantee) is:
@@ -141,13 +121,10 @@ For MTBJ and CBJ at ~¥600-700tn AUC each, gross custody-related revenue is in t
 | Trend | Effect on trust-bank P&L |
 |---|---|
 | Passive-fund AUM growth | Volume up, per-bp down → modest net revenue growth, margin compression |
-| GPIF tender repricing | Recurring pressure on per-bp fees on largest mandates ^[inferred] |
 | Foreign-investor JP allocation growth | Foreign sub-custody revenue at MTBJ / CBJ tied to global-custodian fee schedules |
 | NISA expansion (2024 onward) | Volume growth in 投信 受託会社 fees |
 | DC pension reform (2025 onward) | DC member-balance reporting volume growth |
 | Real-estate market cyclicality | Volatile for full-service trust banks; absent for custody-only |
-| T+1 settlement migration (~2027) | Short-term IT-cost upside; long-term operating-cost down ^[inferred] |
-| Tokenization / ST | Open question — fees unclear; could be premium-priced or rapidly commoditized ^[inferred] |
 
 ### Why granular per-bank fee tables are impossible to publish externally
 
@@ -166,16 +143,8 @@ For a structured public-data study, the 投信 受託会社報酬 across major f
 
 | Asset manager family | 受託会社 (most common) | Typical 受託会社報酬 (annualized) |
 |---|---|---|
-| MUFG Asset Management funds | MTBJ (often) | 0.01-0.05% NAV ^[inferred] |
-| Nomura Asset Management funds | MTBJ (often) or CBJ | 0.01-0.05% NAV ^[inferred] |
-| Daiwa Asset Management funds | CBJ (often) | 0.01-0.05% NAV ^[inferred] |
-| SMBC Nikko / SMTB AM funds | CBJ (often) | 0.01-0.05% NAV ^[inferred] |
-| Mizuho-side AM funds | CBJ (often) | 0.01-0.05% NAV ^[inferred] |
-| SBI Asset Management funds | Mixed (MTBJ / CBJ) | 0.01-0.05% NAV ^[inferred] |
 
 A precise study would scrape 信託約款 of leading funds for the documented per-fund 受託会社報酬 — the data is public per fund but laborious to aggregate.
-
-## 5. 規制・会計
 
 ### Regulatory fee constraints
 
@@ -207,8 +176,6 @@ A precise study would scrape 信託約款 of leading funds for the documented pe
 | 投信 受託会社 fees per fund vs per-bank aggregate | Per-fund disclosure can be aggregated manually but is not officially aggregated |
 | Real-estate fees revenue lumpy | Full-service trust banks have lumpy deal-driven real-estate fees |
 
-## 6. JASDEC / clearing infrastructure connection
-
 ### Fee cost-side from infrastructure participation
 
 | Infrastructure | Fee paid by trust bank (input cost) |
@@ -220,32 +187,6 @@ A precise study would scrape 信託約款 of leading funds for the documented pe
 | 全銀ネット | Per-transaction cost |
 | ICSD (via global custodians) | Pass-through global-custody fee |
 | Voting platform (ICJ etc.) | Platform fee |
-
-These infrastructure costs sit on the trust bank's operating expense line and form a fraction of one basis point of AUC for high-volume participants — small relative to custody-fee revenue but a meaningful operating cost. ^[inferred] The cost structure means trust-bank custody margins compress with passive-fund growth (volume up, per-bp fee down) but the infrastructure cost per ¥AUC stays roughly flat, producing operating leverage when AUC grows faster than expense base. ^[inferred]
-
-### Why MTBJ / CBJ pricing power is structurally tied to JASDEC
-
-Because JASDEC is the sole domestic CSD for dematerialized equity / corp bonds / CP / 投信, the trust-bank participants that ride JASDEC are not in competition with non-JASDEC alternatives for that asset class. Domestic custody for these assets must run through a JASDEC participant, and only a 信託銀行 with a 銀行法 + 信託業法 license can hold the trust-account nominee name in the way pension and 投信 contracts require. The two-strong utility (MTBJ + CBJ) on the institutional side and the megabank trust arms on the full-service side carry residual pricing power because the alternative for asset managers is to internalize the infrastructure cost themselves — which is uneconomic at any single-firm scale. ^[inferred]
-
-## Counterpoints
-
-- "Trust-bank fees are public" — false; only 投信 受託会社報酬 is per-fund-public. Pension and custody mandates are not publicly priced.
-- "MTBJ + CBJ duopoly = high fees" — opposite; their utility scale produces the lowest per-bp custody / 投信 受託 fees in Japan. The duopoly check is on margin, not on price level. ^[inferred]
-- "Global custodians charge less than JP trust banks" — depends on segment; cross-border is global-custodian territory and priced accordingly, but pure JP custody at GPIF scale is cheaper at MTBJ / CBJ.
-- "Real-estate trust = small line" — false; for full-service trust banks (MUFG Trust, SMTB, Mizuho Trust), real-estate trust + J-REIT is a meaningful and lumpy revenue line.
-- "Custody fees are declining everywhere" — partial; per-bp rates are compressing under passive growth, but absolute revenue can grow with AUC. ^[inferred]
-- "AUC = revenue" — wrong; the per-bp fee mix-by-asset-class matters more than headline AUC. A ¥100tn JGB-heavy AUC produces far less revenue than a ¥100tn foreign-equity-heavy AUC.
-- "BNY / State Street will price-undercut JP trust banks for domestic custody" — structural impediments (信託銀行 license + JASDEC participant requirement + 信託口 nominee logic) make this unlikely. Cross-border premium for globals is structurally protected.
-
-## Open questions
-
-- What is the actual per-bp custody fee schedule at MTBJ vs CBJ for GPIF-scale mandates? Both remain silent.
-- How fast is the per-bp fee compression on 投信 受託会社報酬 across the major fund families? A manual aggregation of 信託約款 over multiple years would answer.
-- What is the JP-revenue split for global-custodian Japan units (BNY / State Street / JPM / Citi)? Parent-level disclosure is too aggregated.
-- How will T+1 migration (~2027) affect per-ticket settlement-fee structures at JASDEC and downstream trust banks?
-- How does real-estate trust fee economics at MUFG Trust / SMTB / Mizuho Trust compare across the property-market cycle?
-- Will tokenized-security custody fee structure be premium-priced (like cross-border premium today) or rapidly commoditized?
-- How does the SMBC Trust PB / 富裕層 fee model compare to UHNW custody at BNY / State Street?
 
 ## Related
 

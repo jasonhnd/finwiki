@@ -47,13 +47,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -66,7 +64,6 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jpm-onyx-wholesale-network",
       "fintech/multi-megabank-consortium-governance",
-      "fintech/tether-business-model-short-treasury-yield",
       "fintech/tokenized-deposit-cumulative-volume-scale",
       "systems/canton-overview"
     ],
@@ -82,7 +79,6 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
       "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
       "https://finwiki.zksc.io/systems/canton-overview"
     ],
@@ -90,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4023,
-    "word_like_tokens": 661,
-    "inbound_wikilinks_count": 30,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3411,
+    "word_like_tokens": 564,
+    "inbound_wikilinks_count": 28,
+    "last_modified": "2026-05-29"
   }
 }

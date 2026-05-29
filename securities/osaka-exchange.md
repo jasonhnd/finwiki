@@ -16,7 +16,6 @@ sources:
 
 # 大阪取引所 (OSE)
 
-
 ## Wiki route
 
 This entry sits under [[securities/INDEX|securities index]]. Read it against [[securities/tokyo-commodity-exchange|東京商品取引所 (TOCOM)]] for peer / contrast context and [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for the broader system / regulatory boundary.
@@ -54,11 +53,6 @@ OSE is where JPX's derivatives ambitions concentrate. It matters for:
 - overseas investor access to Japan risk;
 - margin / collateral cycles through JSCC;
 - product competition against OTC derivatives and offshore listed products.
-
-## Counterpoints
-
-- OSE is part of JPX, so it does not compete with TSE in the same way PTS venues compete with cash-equity execution.
-- Commodity markets are split by legal and product design, with [[securities/tokyo-commodity-exchange|TOCOM]] retaining energy futures.
 
 ## Related
 

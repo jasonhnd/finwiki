@@ -48,21 +48,20 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "2. 営業地区・組合員資格",
     "組合員資格 ^[extracted]",
     "営業拠点 ^[inferred]",
     "東京都内 emergency/civil-servant 職域信組三巨頭 (registry比較)",
-    "3. 系統内位置",
-    "全信組連内の位置付け"
+    "全信組連内の位置付け",
+    "全国消防系職域信組ネットワーク ^[inferred]",
+    "主要業務 ^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/dic",
       "JapanFG/iwaki-shinkumi",
       "JapanFG/keishicho-shinkumi",
-      "JapanFG/police-kyosai",
       "JapanFG/tokyo-to-shokuin-shinkumi",
       "JapanFG/zenshin-kumi",
       "banking/cooperative-banking-japan",
@@ -73,7 +72,6 @@
       "https://finwiki.zksc.io/JapanFG/dic",
       "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
       "https://finwiki.zksc.io/JapanFG/keishicho-shinkumi",
-      "https://finwiki.zksc.io/JapanFG/police-kyosai",
       "https://finwiki.zksc.io/JapanFG/tokyo-to-shokuin-shinkumi",
       "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -83,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5709,
-    "word_like_tokens": 726,
+    "nonspace_chars": 4573,
+    "word_like_tokens": 603,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -16,7 +16,6 @@ sources:
 
 # 岩井コスモホールディングス
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -46,8 +45,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   ├── 岩井コスモ・リサーチ ── 投資情報・調査子会社
   └── 岩井コスモ管理サービス ── バックオフィス・受託業務
 ```
-
-### 合併経緯・前身
 
 #### 旧 岩井証券（大阪系譜・1918〜2010）
 
@@ -92,8 +89,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リサーチ | 岩井コスモ・リサーチ | 投資情報・調査レポート |
 | バックオフィス・管理 | 岩井コスモ管理サービス | 受託業務・グループ管理機能 |
 
-## 3. 戦略・競争
-
 ### 基本戦略
 
 - **関西地盤 × 対面リテール**: 大阪本拠地、関西の個人富裕層・中小企業オーナー向け対面営業がコア
@@ -126,21 +121,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 新 NISA 制度施行 → リテール証券各社の口座開拓競争激化
   - 2025〜 中堅独立証券のデジタル化・コスト構造再構築課題
   - 2026〜 金融商品取引業者の顧客本位（Fiduciary Duty）強化方向
-
-## Counterpoints
-
-- 「関西地盤の集中リスク」: 大阪・関西経済の景気変動・人口動態に業績連動 ^[inferred]
-- 「対面チャネル偏重」: ネット系（SBI・楽天）に対する取引手数料競争で構造的劣勢 ^[inferred]
-- 「中堅独立証券再編論」: メガ系・ネット系の二極化が進む中、中堅独立クラスタの長期持続性に疑問。アイザワ・岡三・東海東京・岩井コスモ等の M&A シナリオも論じられる ^[ambiguous]
-- 「海外株仲介の差別化余地」: 米国株はネット系が圧倒的シェア → 対面 + 中堅独立が差別化を保つには情報提供・提案力の質次第 ^[ambiguous]
-
-## Open questions
-
-- 2024 中計の数値目標・進捗（収益構成・KPI）は？ 公式 IR を要確認
-- ネット系・メガ系との競争下で、対面リテール基盤の持続可能性と将来 M&A シナリオは？
-- 関西地盤を超える地域展開（首都圏・中部）の戦略はあるか？
-- 岩井コスモ・リサーチの対外的（機関投資家向け）プレゼンスは？
-- 創業 100 年超の歴史を持つ独立系として、次世代承継・株主構成の安定性は？
 
 ## Related
 

@@ -161,22 +161,6 @@ The Special Participants system is critical to:
 4. **Dealer franchise economics**: Special Participant status is a meaningful franchise asset for securities firms; non-Special Participants face structural disadvantages in JGB market making.
 5. **Foreign-firm integration**: Open membership to foreign-firm Japan subsidiaries integrates global investment banks into the JGB market and supports cross-border JGB investor activity.
 
-## Counterpoints
-
-- "All major Japanese bond dealers are Special Participants" — Largely true at the bond-dealing tier, but membership is reviewed and firms have moved on and off the list over time.
-- "Foreign firms get equal treatment" — Yes, in principle and largely in practice. Foreign-firm subsidiaries operating as FIEA-licensed Japanese securities entities have full Special Participant access.
-- "The system distorts auction prices" — The Non-Price I and II mechanism is transparent and pre-disclosed; auction price discovery happens in the competitive segment.
-- "Special Participants always make money on auctions" — No. Inventory carry, repo financing, and price moves between bid and distribution can create losses; the franchise is a real but non-trivial business.
-- "BoJ purchases displace Special Participant function" — BoJ buys in the secondary market (not at primary auctions); Special Participants remain the primary-auction counterparty. BoJ's large secondary purchases do affect dealer inventory dynamics but do not remove the primary-dealer role.
-
-## Open Questions
-
-- How does the post-2024 BoJ JGB-purchase reduction change Special Participant inventory dynamics and auction bidding behavior?
-- Will MoF consider moving toward uniform-price auctions (US-style) for some JGB tenors to standardize bid pricing?
-- How does foreign-firm Special Participant participation evolve as Japan rates normalize and global investor interest in JGBs shifts?
-- Should JGBi auctions adopt a separate inflation-linked Special Participant tier (similar to UK IL-GEMM)?
-- How does the Special Participant franchise economics compare across firms — are the smaller domestic Special Participants under pressure to retain status?
-
 ## Related
 
 - [[derivatives/INDEX]]

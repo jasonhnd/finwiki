@@ -42,10 +42,10 @@
     "1. 会社概要",
     "沿革（公開情報ベース）^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "ポジショニング",
     "競合マップ",
-    "戦略テーマ"
+    "戦略テーマ",
+    "4. 規制・政策"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3939,
-    "word_like_tokens": 560,
+    "nonspace_chars": 3238,
+    "word_like_tokens": 473,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

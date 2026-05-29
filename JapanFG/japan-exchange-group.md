@@ -17,7 +17,6 @@ sources:
 
 # 日本取引所グループ (JPX)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/japan-securities-finance|日本証券金融 (JSF)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -79,18 +78,6 @@ Use JPX pages when analyzing:
 - exchange-market trading hours, auctions, and market data;
 - clearing and collateral links through JSCC;
 - competition between exchange markets and PTS venues.
-
-## Counterpoints
-
-- JPX remains heavily tied to Japanese cash-equity trading activity and domestic listing quality.
-- PTS competition is still structurally smaller than TSE, but best-execution revisions and retail SOR flows make it strategically relevant.
-- Crypto, tokenized securities, and security-token secondary markets may develop outside the classic exchange company perimeter.
-
-## Open questions
-
-- How much of JPX's next revenue mix will come from data, indices, and digital infrastructure rather than transaction fees?
-- Does ODX's security-token market become complementary infrastructure or a real competitive venue?
-- Will JPX's governance campaign around capital efficiency change issuer behavior durably?
 
 ## Related
 

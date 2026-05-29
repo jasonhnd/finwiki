@@ -47,14 +47,13 @@
   "headings": [
     "丸紅フィナンス (Marubeni Finance Corporation)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
-    "丸紅と芙蓉グループ",
     "丸紅系金融機能の配置",
-    "2024 年 丸紅 + みずほリース 資本関係拡大",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "丸紅の事業構造と金融機能"
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -104,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5434,
-    "word_like_tokens": 745,
+    "nonspace_chars": 3588,
+    "word_like_tokens": 495,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

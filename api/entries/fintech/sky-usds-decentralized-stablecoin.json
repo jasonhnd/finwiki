@@ -48,13 +48,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -66,7 +64,6 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/regulatory-window-strategic-acquisition",
-      "fintech/tether-business-model-short-treasury-yield",
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
@@ -80,16 +77,15 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3705,
-    "word_like_tokens": 605,
-    "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3000,
+    "word_like_tokens": 506,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-05-29"
   }
 }

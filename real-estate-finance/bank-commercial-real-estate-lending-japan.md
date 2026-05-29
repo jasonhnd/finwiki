@@ -169,24 +169,6 @@ BoJ NIRP exit and the post-YCC normalisation path raised:
 
 Underwriting standards in 2025 - 2026 vintage CRE loans incorporate higher reference-rate assumptions, more conservative refinancing-risk modelling, and revised DSCR floors. Read with [[money-market/japan-money-market]] for the funding-cost-reference detail and [[insurance/japan-life-insurance-alm-overview]] for the parallel ALM repricing logic in life-insurer competitor balance sheets.
 
-## Counterpoints
-
-- CRE concentration alone does not signal distress; underwriting quality (LTV, DSCR, asset-quality) matters more than headline share. Read each bank's risk disclosure, not just aggregate exposure.
-- "Tokyo CRE" is not homogeneous; prime CBD office is structurally different from sub-prime suburban office. Asset-class mix matters more than gross exposure.
-- Trust-bank CRE exposure is partially routed through trust accounts on behalf of beneficiaries (pensions, life insurers) rather than the trust bank's own balance sheet; nominee-name appearance does not equal proprietary credit risk per [[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]].
-- Foreign GP capital deployment via [[real-estate-finance/real-estate-private-credit-japan]] competes with bank lending at the mezz / preferred-equity layer but also enables larger total-capital-stack deals.
-- Apartment-loan portfolios carry distinct retail-credit dynamics and should not be conflated with institutional CRE.
-- BoJ FSR aggregate exposure data lags individual bank IR by 1 - 2 quarters; near-real-time reading requires the IR-side surface.
-
-## Open questions
-
-- Will the post-NIRP rate path force a material refi gap on 2018 - 2021 vintage bullet-structured CRE loans?
-- How do regional banks reduce CRE concentration without further compressing core lending profitability?
-- Will trust banks scale their real-estate-trust and asset-administration share faster than they scale balance-sheet lending?
-- How does foreign-private-credit competition reshape mezz / preferred-equity pricing and senior-tranche capacity?
-- Will inbound-tourism hospitality recovery sustain prime hotel cap-rate compression or does post-pandemic supply growth reverse it?
-- How does logistics-asset cap-rate floor interact with foreign-buyer underwriting discipline as rates normalise?
-
 ## Related
 
 - [[real-estate-finance/INDEX]]

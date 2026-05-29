@@ -62,7 +62,6 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Property size | Mostly large multi-tenant office buildings — large floor plates, multiple tenants per asset |
 | Acquisition pipeline source | Predominantly from Mitsui Fudosan sponsor pipeline (asset-recycling — sponsor sells stabilized properties into NBF and redeploys capital into next development cycle) |
 | Property age | Mix of older-stabilized core buildings and newer redevelopment-completion assets contributed by sponsor |
-| Average occupancy | Typically high-90% area for a stabilized Tokyo CBD office portfolio ^[inferred] |
 
 ## 3. Capital and leverage
 
@@ -81,8 +80,6 @@ NBF's portfolio of large multi-tenant office towers structurally limits single-t
 
 | Tenant-concentration metric | NBF pattern |
 |---|---|
-| Single largest tenant share | Typically mid-single-digit percent of total rent ^[inferred] |
-| Top-10 tenant share | Often 20-30% range of total rent ^[inferred] |
 | Sponsor (Mitsui Fudosan) as tenant | Minimal — Mitsui Fudosan is sponsor and developer, not a major tenant in NBF's portfolio |
 | Tenant industry mix | Diversified across financial services, professional services, IT/telecom, manufacturing, government |
 | Tenant lease structure | Standard Japanese fixed-term lease (普通借家契約 / 定期借家契約) with periodic rent reset mechanisms |
@@ -113,14 +110,6 @@ The NBF-JRE pairing is the **listed proxy** for the broader Mitsui Fudosan vs Mi
 - **"NBF DPU yield is too low to be attractive"** — depends on benchmark. Yield is premium relative to JGB (the [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] frame applies); but on a hedged-USD basis the yield can be unattractive — see [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]].
 - **"Conservative LTV is overly cautious"** — counterargument is that the AA-zone rating and tight bond-pricing economics make the lower LTV worthwhile on a through-cycle basis.
 - **"NBF will not grow further given mature Mitsui Fudosan pipeline"** — Mitsui Fudosan continues large-scale CBD redevelopment, so the sponsor-pipeline supply continues to exist; growth tempo varies with redevelopment cycle.
-
-## Open questions
-
-- Pace of Mitsui Fudosan's next-cycle CBD redevelopment completions and the asset-recycling timing into NBF.
-- Whether NBF will diversify beyond pure office (e.g. add logistics or mixed-use) or maintain office-only focus.
-- BoJ rate normalization effect on NBF's investment-corporation-bond curve and refinancing cost.
-- Foreign-investor flow sensitivity to JPY-USD hedging cost (see [[real-estate-finance/j-reit-foreign-investor-ownership|foreign investor ownership]]).
-- Whether NBF and JRE will eventually merge or remain the structural Mitsui-Mitsubishi rivalry proxy.
 
 ## Related
 

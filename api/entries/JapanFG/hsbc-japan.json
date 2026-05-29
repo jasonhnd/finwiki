@@ -44,9 +44,9 @@
     "主要法人",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "アジア ハブ戦略",
-    "リテール撤退の戦略インパクト"
+    "リテール撤退の戦略インパクト",
+    "競合関係"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4450,
-    "word_like_tokens": 667,
+    "nonspace_chars": 3845,
+    "word_like_tokens": 592,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

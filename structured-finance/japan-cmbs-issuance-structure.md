@@ -112,18 +112,6 @@ CMBS risk depends primarily on the underlying property's cash flow. Office, reta
 
 J-REIT debt overlap: J-REITs ([[JapanFG/INDEX]] for sponsor lineage) often borrow secured by their portfolio properties, but those loans are not securitized as CMBS — they are direct bank loans or J-REIT-issued unsecured bonds.
 
-## Counterpoints
-
-- **"Japan CMBS is dead"**: it was, post-2008; the 2020s revival is real but modest. Conduit deals remain absent.
-- **"CMBS is just secured real-estate loan"**: structurally, yes — but the tranching, special-servicer mechanism, and cash-flow waterfall add complexity vs straight mortgage.
-- **"Rating methodology is the same as US CMBS"**: see [[structured-finance/credit-rating-methodology-jcr-r-and-i]] — JCR and R&I have Japan-specific criteria reflecting the 2008-2010 default experience.
-
-## Open questions
-
-- Whether conduit CMBS ever returns in Japan or if single-borrower / SASB becomes the permanent norm.
-- How long-term J-REIT competition affects CMBS supply (sponsors choosing IPO over CMBS).
-- BoJ policy normalization effect on commercial real-estate cap rates and CMBS spreads.
-
 ## Related
 
 - [[structured-finance/INDEX]]
