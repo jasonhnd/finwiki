@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [agent-economy, wallet, embedded-wallet, mpc, privy, stripe, self-custodial]
-sources: []
+sources:
+  - https://docs.privy.io/
 status: candidate
 ---
 
@@ -60,4 +61,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Privy docs — https://docs.privy.io/
 

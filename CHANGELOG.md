@@ -31,6 +31,35 @@
 
 ## 2026-05-29
 
+### 技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全
+
+#### 日本語記録
+
+- **背景**: 公開 entry 73 件が frontmatter `sources: []`（空）で、AI が引用する `api/entries/*.json` の `frontmatter.sources` が空のままだった。「AI が正確に引用できる knowledge graph」という価値の核心に関わる品質債。
+- **範囲**: 協議子集（systems + agent-economy）の 57 件のうち **39 件**を補完。EIP/ERC は eips.ethereum.org の canonical URL、具名プロトコルは公式 docs（canton.network / developers.circle.com の CCTP / docs.eigenlayer.xyz / docs.hyperlane.xyz / docs.layerzero.network / docs.chain.link/ccip / besu.hyperledger.org / docs.solanamobile.com / docs.privy.io / docs.cdp.coinbase.com / github の x402・AP2）。
+- **方法**: entry の本文 `## Sources` が既に名指す source を正規化 + 全 URL を WebFetch / gh / wiki 内既存引用で検証した closed source-map のみ使用。捏造ゼロ。frontmatter は block list、本文 `## Sources` に `- ラベル — URL` を追記（既存 source 行は保持）。
+- **意図的に未補完(18 件)**: BFT validator economy 論考、chain-abstraction 価値捕捉論考、agent-protocol 総覧/commoditization 論考等は wiki 自身の分析であり単一外部 source を持たない。source を付ければ捏造になるため空のまま残す（systems/INDEX.md は routing page のため対象外）。
+- **検証**: `wiki_link_audit.py` 1411 entries / **0 issues**、追加 URL は全て検証済み map 内（越界 0）、LF 統一、JSON valid。
+- **残タスク**: business 人物案例(~8)・exchanges/trade/banking/security の空 source は別 tier として未着手。合成論考 18 件は希望あれば構成要素 spec を「further reading」として付与可能。
+
+#### English record
+
+- **Context**: 73 public entries had empty frontmatter `sources: []`, leaving `frontmatter.sources` empty in the AI-facing `api/entries/*.json`. This is quality debt against the core "AI-citable knowledge graph" value.
+- **Scope**: Backfilled **39 of 57** entries in the protocol subset (systems + agent-economy). EIP/ERC pages use eips.ethereum.org canonical URLs; named protocols use official docs (canton.network, Circle CCTP, EigenLayer, Hyperlane, LayerZero, Chainlink CCIP, Hyperledger Besu, Solana Mobile, Privy, Coinbase CDP, x402/AP2 on GitHub).
+- **Method**: Formalized the source each entry's body `## Sources` already named, using only a closed source-map whose every URL was verified via WebFetch / gh / existing in-wiki citations. Zero fabrication. Frontmatter as a block list; body gets `- label — URL` appended (existing source lines preserved).
+- **Intentionally left empty (18)**: BFT validator-economy theses, chain-abstraction value-capture theses, agent-protocol overview/commoditization theses, etc. are the wiki's own analysis with no single external source — citing one would be fabrication; left empty (systems/INDEX.md excluded as a routing page).
+- **Validation**: `wiki_link_audit.py` 1411 entries / **0 issues**, all added URLs within the verified map (no out-of-map URLs), LF endings, JSON valid.
+- **Follow-up**: business person-cases (~8) and exchanges/trade/banking/security empties are separate tiers, not yet done. The 18 synthesis entries could get constituent specs as "further reading" if desired.
+
+#### 中文记录
+
+- **背景**: 73 条公开 entry 的 frontmatter 为 `sources: []`（空），导致 AI 读取的 `api/entries/*.json` 里 `frontmatter.sources` 也是空——直接关系"可被 AI 准确引用的知识图谱"这一核心价值的质量债。
+- **范围**: 协议子集（systems + agent-economy）57 条中补全 **39 条**。EIP/ERC 用 eips.ethereum.org 的 canonical URL；具名协议用官方 docs（canton.network、Circle CCTP、EigenLayer、Hyperlane、LayerZero、Chainlink CCIP、Hyperledger Besu、Solana Mobile、Privy、Coinbase CDP、GitHub 上的 x402/AP2）。
+- **方法**: 把每条正文 `## Sources` 已点名的源正规化，只用一份每个 URL 都经 WebFetch / gh / 站内既有引用核实过的封闭 source-map。零编造。frontmatter 用 block list，正文 `## Sources` 追加 `- 标签 — URL`（保留原有 source 行）。
+- **有意留空(18 条)**: BFT 验证者经济学论点、chain-abstraction 价值捕获论点、agent-protocol 综述/commoditization 论点等是 wiki 自身的分析，没有单一外部源——强行配源即编造，故留空（systems/INDEX.md 作为路由页不在范围）。
+- **验证**: `wiki_link_audit.py` 1411 entries / **0 issues**，新增 URL 全部在核实过的 map 内（无越界），LF 统一，JSON valid。
+- **后续**: business 人物案例(~8) 及 exchanges/trade/banking/security 的空源属另外的 tier，尚未开始。18 条合成论点如需可补"构成要素 spec"作为延伸阅读。
+
 ### 公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）
 
 #### 日本語記録

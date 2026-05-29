@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, blockchain, evm, private-chain, hyperledger, besu, quorum]
-sources: []
+sources:
+  - https://besu.hyperledger.org/
 status: candidate
 ---
 
@@ -61,4 +62,6 @@ Besu は **完全 EVM 互換の permissioned チェーン** である:Solidity �
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Hyperledger Besu docs — https://besu.hyperledger.org/
 

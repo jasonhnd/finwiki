@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, interop, hyperlane, modular]
-sources: []
+sources:
+  - https://docs.hyperlane.xyz/
 status: candidate
 ---
 
@@ -77,3 +78,4 @@ Hyperlane は Asa Oines、Jon Kol ら(元 Celo チームメンバー)によっ�
 ## Sources
 
 - Hyperlane docs(docs.hyperlane.xyz)
+- Hyperlane docs — https://docs.hyperlane.xyz/

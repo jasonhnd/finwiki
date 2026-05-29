@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, bridge, stablecoin, usdc, circle, cctp, arc]
-sources: []
+sources:
+  - https://developers.circle.com/stablecoins/docs/cctp-getting-started
 status: candidate
 ---
 
@@ -76,4 +77,6 @@ Circle の中央集権的役割は諸刃の剣:**利点**は単一 mint で §50
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Circle CCTP V2 — https://developers.circle.com/stablecoins/docs/cctp-getting-started
 

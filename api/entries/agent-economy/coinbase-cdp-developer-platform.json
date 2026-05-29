@@ -34,7 +34,9 @@
       "usdc"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.cdp.coinbase.com/"
+    ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
@@ -84,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3246,
-    "word_like_tokens": 518,
+    "nonspace_chars": 3341,
+    "word_like_tokens": 533,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

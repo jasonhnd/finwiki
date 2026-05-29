@@ -11,7 +11,8 @@ review_by: 2026-11-16
 confidence: certain
 tags: [systems, eip, ethereum, erc20, indexer, arc, usdc, evm-compat]
 status: candidate
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7708
 ---
 
 # EIP-7708 native asset → ERC-20 event 索引兼容
@@ -28,3 +29,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - [[systems/multi-proof-aggregation-fault-prover|多证明聚合 fault prover]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币公链 Token 三态]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- EIP-7708 — https://eips.ethereum.org/EIPS/eip-7708

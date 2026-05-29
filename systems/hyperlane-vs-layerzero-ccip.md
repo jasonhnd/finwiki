@@ -8,7 +8,10 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, hyperlane, layerzero, ccip, comparison]
-sources: []
+sources:
+  - https://docs.hyperlane.xyz/
+  - https://docs.layerzero.network/v2
+  - https://docs.chain.link/ccip
 status: candidate
 ---
 
@@ -79,3 +82,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Sources
 
 - LayerZero docs · Chainlink CCIP docs · Hyperlane docs
+- Hyperlane docs — https://docs.hyperlane.xyz/
+- LayerZero V2 docs — https://docs.layerzero.network/v2
+- Chainlink CCIP docs — https://docs.chain.link/ccip

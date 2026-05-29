@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [agent-economy, coinbase, cdp, embedded-wallet, agentcore, agentkit, base, usdc]
-sources: []
+sources:
+  - https://docs.cdp.coinbase.com/
 status: candidate
 ---
 
@@ -55,4 +56,6 @@ CDP と Base の結合は 2027 に Base が sequencer を完全 decentralize し
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Coinbase Developer Platform (CDP) docs — https://docs.cdp.coinbase.com/
 

@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, dlt, canton, mmf, tokenization, jpm, goldman, bny, dtcc]
-sources: []
+sources:
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -70,3 +71,4 @@ Canton 連合の弱点:**リテール/DeFi 入口の欠如**。機関顧客の c
 ## Sources
 
 - DTCC Project Ion announcements
+- Canton Network (Digital Asset) — https://www.canton.network/

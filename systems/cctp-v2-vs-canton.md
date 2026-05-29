@@ -8,7 +8,9 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, bridge, dlt, stablecoin, cctp, canton, comparison]
-sources: []
+sources:
+  - https://developers.circle.com/stablecoins/docs/cctp-getting-started
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -72,4 +74,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Circle CCTP V2 — https://developers.circle.com/stablecoins/docs/cctp-getting-started
+- Canton Network (Digital Asset) — https://www.canton.network/
 

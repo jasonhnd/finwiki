@@ -31,7 +31,9 @@
       "http-402"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://github.com/coinbase/x402"
+    ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
@@ -75,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3194,
-    "word_like_tokens": 504,
+    "nonspace_chars": 3281,
+    "word_like_tokens": 517,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

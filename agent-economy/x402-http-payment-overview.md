@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, payment, x402, coinbase, usdc, base, http-402, micropayment]
-sources: []
+sources:
+  - https://github.com/coinbase/x402
 status: candidate
 ---
 
@@ -62,4 +63,4 @@ RFC 7231 は HTTP 402 Payment Required を定義しつつも "reserved for futur
 
 ## Sources
 
-- x402 spec on github.com/coinbase/x402
+- x402 protocol (Coinbase) — https://github.com/coinbase/x402

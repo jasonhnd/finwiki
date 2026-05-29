@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, restaking, eigenlayer, avs, slashing, eigen-token]
-sources: []
+sources:
+  - https://docs.eigenlayer.xyz/
 status: candidate
 ---
 
@@ -79,3 +80,4 @@ EIGEN inter-subjective 仲裁の操縦可能性は重要リスク —— AVS の
 
 - EigenLayer docs · Slashing spec(2025)
 - Vitalik Buterin · "Don't overload Ethereum's consensus"(2024)
+- EigenLayer docs — https://docs.eigenlayer.xyz/

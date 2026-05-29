@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, ethereum, staking, eip-7251, lido, coinbase-cloud, institutional]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7251
 status: candidate
 ---
 
@@ -63,3 +64,4 @@ Ethereum コンセンサスプロトコルは元々、単一 validator あたり
 
 - Ethereum Foundation Pectra spec
 - EthMagicians EIP-7251 discussion
+- EIP-7251 — https://eips.ethereum.org/EIPS/eip-7251

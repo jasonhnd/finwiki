@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, cross-chain, bridge, layerzero, ccip, wormhole, hyperlane, cctp]
-sources: []
+sources:
+  - https://docs.layerzero.network/v2
+  - https://docs.chain.link/ccip
+  - https://docs.hyperlane.xyz/
+  - https://developers.circle.com/stablecoins/docs/cctp-getting-started
 status: candidate
 ---
 
@@ -65,3 +69,7 @@ CCIP institutional 経路は 50+ chains に拡大し risk grade を維持でき�
 ## Sources
 
 - LayerZero / Chainlink / Wormhole / Hyperlane / Circle 公式ドキュメント + 顧客開示(DTCC / SWIFT / Kinexys)
+- LayerZero V2 docs — https://docs.layerzero.network/v2
+- Chainlink CCIP docs — https://docs.chain.link/ccip
+- Hyperlane docs — https://docs.hyperlane.xyz/
+- Circle CCTP V2 — https://developers.circle.com/stablecoins/docs/cctp-getting-started

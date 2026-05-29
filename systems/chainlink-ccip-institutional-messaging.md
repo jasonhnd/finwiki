@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, cross-chain, chainlink, ccip, swift, dtcc, institutional]
-sources: []
+sources:
+  - https://docs.chain.link/ccip
 status: candidate
 ---
 
@@ -60,4 +61,6 @@ CCIP Router は統一インタフェース:アプリケーションは 1 回呼�
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Chainlink CCIP docs — https://docs.chain.link/ccip
 

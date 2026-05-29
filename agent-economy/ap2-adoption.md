@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, payment, ap2, adoption, mpp, acp, x402]
-sources: []
+sources:
+  - https://github.com/google-agentic-commerce/AP2
 status: candidate
 ---
 
@@ -71,3 +72,4 @@ Stripe の様子見姿勢が鍵となる変数 — Stripe が Privy(買収済み
 ## Sources
 
 - Visa Trusted Agent Protocol announcements(2025-2026)
+- Google AP2 (Agent Payments Protocol) — https://github.com/google-agentic-commerce/AP2

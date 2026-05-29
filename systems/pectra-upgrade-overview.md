@@ -8,7 +8,10 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, ethereum, upgrade, pectra, eip-7702, eip-7251, eip-7691, eip-2537]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7251
+  - https://eips.ethereum.org/EIPS/eip-7691
+  - https://eips.ethereum.org/EIPS/eip-7702
 status: candidate
 ---
 
@@ -61,3 +64,6 @@ The Merge(2022-09)→ Shapella(2023-04 withdraw 解除)→ Dencun(2024-03 EIP-48
 ## Sources
 
 - Ethereum Foundation Pectra spec
+- EIP-7251 — https://eips.ethereum.org/EIPS/eip-7251
+- EIP-7691 — https://eips.ethereum.org/EIPS/eip-7691
+- EIP-7702 — https://eips.ethereum.org/EIPS/eip-7702

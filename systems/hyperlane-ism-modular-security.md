@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, ism, hyperlane, security]
-sources: []
+sources:
+  - https://docs.hyperlane.xyz/
 status: candidate
 ---
 
@@ -80,3 +81,4 @@ ISM のモジュラー化は Hyperlane 2022 年の改名時のコア設計であ
 ## Sources
 
 - Hyperlane ISM docs(docs.hyperlane.xyz/docs/protocol/ISM)
+- Hyperlane docs — https://docs.hyperlane.xyz/

@@ -31,7 +31,9 @@
       "vitalik"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://eips.ethereum.org/EIPS/eip-7702"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against ERC-7702 vs ERC-4337 · Ethereum AA デュアルトラック対照 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -71,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3219,
-    "word_like_tokens": 532,
+    "nonspace_chars": 3290,
+    "word_like_tokens": 546,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

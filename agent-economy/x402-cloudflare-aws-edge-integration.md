@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, x402, cloudflare, aws, edge, facilitator, http-402]
-sources: []
+sources:
+  - https://github.com/coinbase/x402
 status: candidate
 ---
 
@@ -60,4 +61,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- x402 protocol (Coinbase) — https://github.com/coinbase/x402
 

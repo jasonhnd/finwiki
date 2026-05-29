@@ -32,7 +32,12 @@
       "cctp"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.layerzero.network/v2",
+      "https://docs.chain.link/ccip",
+      "https://docs.hyperlane.xyz/",
+      "https://developers.circle.com/stablecoins/docs/cctp-getting-started"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -76,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2821,
-    "word_like_tokens": 429,
+    "nonspace_chars": 3198,
+    "word_like_tokens": 486,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 39 |
 
 ## Wiki Linking Standard
 
@@ -31,6 +31,45 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `agent-economy/ap2-adoption.md` | `M` | 6 | ok |
+| `agent-economy/ap2-overview.md` | `M` | 6 | ok |
+| `agent-economy/ap2-technical-spec.md` | `M` | 8 | ok |
+| `agent-economy/coinbase-cdp-developer-platform.md` | `M` | 8 | ok |
+| `agent-economy/embedded-wallet-network-effects-moat.md` | `M` | 6 | ok |
+| `agent-economy/erc-7715-agent-payment-stack.md` | `M` | 7 | ok |
+| `agent-economy/erc-7715-overview.md` | `M` | 8 | ok |
+| `agent-economy/privy-aws-agentcore-default-wallet.md` | `M` | 6 | ok |
+| `agent-economy/privy-embedded-wallet-overview.md` | `M` | 7 | ok |
+| `agent-economy/solana-saga-seeker-mobile-stack-overview.md` | `M` | 6 | ok |
+| `agent-economy/x402-cloudflare-aws-edge-integration.md` | `M` | 7 | ok |
+| `agent-economy/x402-http-payment-overview.md` | `M` | 8 | ok |
+| `systems/canton-daml-technical-spec.md` | `M` | 6 | ok |
+| `systems/canton-mmf-coalition.md` | `M` | 7 | ok |
+| `systems/canton-overview.md` | `M` | 6 | ok |
+| `systems/cctp-v2-overview.md` | `M` | 6 | ok |
+| `systems/cctp-v2-technical-spec.md` | `M` | 6 | ok |
+| `systems/cctp-v2-vs-canton.md` | `M` | 6 | ok |
+| `systems/chainlink-ccip-institutional-messaging.md` | `M` | 6 | ok |
+| `systems/cross-chain-four-poles-ccip-institutional.md` | `M` | 7 | ok |
+| `systems/cross-chain-four-poles-overview.md` | `M` | 6 | ok |
+| `systems/cross-chain-four-poles-selection-decision.md` | `M` | 6 | ok |
+| `systems/eigenlayer-avs-mechanism.md` | `M` | 6 | ok |
+| `systems/eigenlayer-l1-bootstrapping.md` | `M` | 6 | ok |
+| `systems/eigenlayer-overview.md` | `M` | 6 | ok |
+| `systems/eip-7708-native-asset-erc20-event-compat.md` | `M` | 3 | ok |
+| `systems/erc-4337-overview.md` | `M` | 6 | ok |
+| `systems/erc-4337-userop-bundler-flow.md` | `M` | 6 | ok |
+| `systems/erc-7702-overview.md` | `M` | 6 | ok |
+| `systems/erc-7702-vs-erc-4337.md` | `M` | 6 | ok |
+| `systems/hyperlane-ism-modular-security.md` | `M` | 6 | ok |
+| `systems/hyperlane-overview.md` | `M` | 6 | ok |
+| `systems/hyperlane-vs-layerzero-ccip.md` | `M` | 6 | ok |
+| `systems/hyperledger-besu-overview.md` | `M` | 6 | ok |
+| `systems/hyperledger-besu-vs-canton-migration.md` | `M` | 6 | ok |
+| `systems/layerzero-v2-omnichain-messaging.md` | `M` | 6 | ok |
+| `systems/pectra-eip-7251-institutional-staking.md` | `M` | 6 | ok |
+| `systems/pectra-eip-7691-blob-l2-impact.md` | `M` | 6 | ok |
+| `systems/pectra-upgrade-overview.md` | `M` | 6 | ok |
 
 ## Domain Snapshot
 

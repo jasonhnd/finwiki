@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T09:51:31+09:00",
+  "generated_at": "2026-05-29T12:34:34+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10518515,
-    "word_like_tokens": 1661408
+    "nonspace_utf8_chars": 10528791,
+    "word_like_tokens": 1663115
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-05-29",
+        "技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全",
         "公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）",
         "2026-05-25",
-        "Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写",
-        "Wave 13 — 長尾完整性 + 方法論 + Schema 債務閉合 (54 新 + 79 sources 補全 + 1000 万字突破) / Wave 13 — long-tail completeness + methodology + schema-debt closure (54 new + 79 source backfills + 10M-char threshold crossed) / Wave 13 — 长尾完整性 + 方法论 + Schema 债务闭合 (54 新 + 79 sources 补全 + 突破 1000 万字)"
+        "Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 402306,
-      "word_like_tokens": 70662,
+      "nonspace_chars": 405777,
+      "word_like_tokens": 71256,
       "last_modified": "2026-05-29"
     },
     {
@@ -35457,9 +35457,9 @@
         "https://finwiki.zksc.io/systems/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2925,
-      "word_like_tokens": 446,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3050,
+      "word_like_tokens": 465,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/ap2-overview.md",
@@ -35503,9 +35503,9 @@
         "https://finwiki.zksc.io/payments/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2814,
-      "word_like_tokens": 419,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2939,
+      "word_like_tokens": 438,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/ap2-technical-spec.md",
@@ -35551,9 +35551,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2961,
-      "word_like_tokens": 471,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3086,
+      "word_like_tokens": 490,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/claude-code-extension-architecture.md",
@@ -35650,9 +35650,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3246,
-      "word_like_tokens": 518,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3341,
+      "word_like_tokens": 533,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/crossmint-agent-sdk.md",
@@ -35873,9 +35873,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3369,
-      "word_like_tokens": 489,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3520,
+      "word_like_tokens": 514,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/erc-4337-account-abstraction-primer-for-agents.md",
@@ -36051,9 +36051,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3455,
-      "word_like_tokens": 558,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3573,
+      "word_like_tokens": 578,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/erc-7715-overview.md",
@@ -36101,9 +36101,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3203,
-      "word_like_tokens": 477,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3311,
+      "word_like_tokens": 494,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/lit-protocol-pkp-agent-keys.md",
@@ -36320,9 +36320,9 @@
         "https://finwiki.zksc.io/payments/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3226,
-      "word_like_tokens": 502,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3280,
+      "word_like_tokens": 512,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/privy-embedded-wallet-overview.md",
@@ -36370,9 +36370,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3194,
-      "word_like_tokens": 477,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3248,
+      "word_like_tokens": 487,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/skill-market-monetization.md",
@@ -36503,9 +36503,9 @@
         "https://finwiki.zksc.io/payments/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3114,
-      "word_like_tokens": 503,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3191,
+      "word_like_tokens": 514,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md",
@@ -36800,9 +36800,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3194,
-      "word_like_tokens": 504,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3281,
+      "word_like_tokens": 517,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/x402-http-payment-overview.md",
@@ -36852,9 +36852,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3268,
-      "word_like_tokens": 517,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3320,
+      "word_like_tokens": 523,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "banking/INDEX.md",
@@ -81404,9 +81404,9 @@
         "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2607,
-      "word_like_tokens": 364,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2689,
+      "word_like_tokens": 376,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/canton-mmf-coalition.md",
@@ -81452,9 +81452,9 @@
         "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3016,
-      "word_like_tokens": 461,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3098,
+      "word_like_tokens": 473,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/canton-overview.md",
@@ -81498,9 +81498,9 @@
         "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2881,
-      "word_like_tokens": 418,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2963,
+      "word_like_tokens": 430,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/cctp-v2-overview.md",
@@ -81544,9 +81544,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2838,
-      "word_like_tokens": 453,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2985,
+      "word_like_tokens": 474,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/cctp-v2-technical-spec.md",
@@ -81590,9 +81590,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3017,
-      "word_like_tokens": 459,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3164,
+      "word_like_tokens": 480,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/cctp-v2-vs-canton.md",
@@ -81636,9 +81636,9 @@
         "https://finwiki.zksc.io/systems/cctp-v2-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2856,
-      "word_like_tokens": 448,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3087,
+      "word_like_tokens": 481,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/chain-abstraction-pattern-overview.md",
@@ -81828,9 +81828,9 @@
         "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2954,
-      "word_like_tokens": 429,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3028,
+      "word_like_tokens": 442,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/cross-chain-bridge-eight-pole-comparison.md",
@@ -82080,9 +82080,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2893,
-      "word_like_tokens": 434,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2967,
+      "word_like_tokens": 447,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/cross-chain-four-poles-overview.md",
@@ -82128,9 +82128,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3395,
-      "word_like_tokens": 522,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3772,
+      "word_like_tokens": 579,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/cross-chain-four-poles-selection-decision.md",
@@ -82176,9 +82176,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2821,
-      "word_like_tokens": 429,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3198,
+      "word_like_tokens": 486,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/dag-bft-vs-chain-bft-architecture.md",
@@ -82323,9 +82323,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3127,
-      "word_like_tokens": 483,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3198,
+      "word_like_tokens": 493,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/eigenlayer-l1-bootstrapping.md",
@@ -82369,9 +82369,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3129,
-      "word_like_tokens": 440,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3200,
+      "word_like_tokens": 450,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/eigenlayer-overview.md",
@@ -82415,9 +82415,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3031,
-      "word_like_tokens": 434,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3102,
+      "word_like_tokens": 444,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/eip-4844-blob-economics-impact-2026.md",
@@ -82489,7 +82489,8 @@
       "headings": [
         "EIP-7708 native asset → ERC-20 event 索引兼容",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -82510,9 +82511,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 948,
-      "word_like_tokens": 157,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 1044,
+      "word_like_tokens": 174,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/erc-4337-embedded-wallet-adoption.md",
@@ -82606,9 +82607,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2969,
-      "word_like_tokens": 435,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3060,
+      "word_like_tokens": 450,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/erc-4337-userop-bundler-flow.md",
@@ -82652,9 +82653,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3143,
-      "word_like_tokens": 460,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3250,
+      "word_like_tokens": 478,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/erc-7702-overview.md",
@@ -82696,9 +82697,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3219,
-      "word_like_tokens": 532,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3290,
+      "word_like_tokens": 546,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/erc-7702-vs-erc-4337.md",
@@ -82742,9 +82743,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2988,
-      "word_like_tokens": 464,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3200,
+      "word_like_tokens": 502,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/formal-spec-implementation-codesign.md",
@@ -82865,9 +82866,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3377,
-      "word_like_tokens": 447,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3445,
+      "word_like_tokens": 457,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/hyperlane-overview.md",
@@ -82913,9 +82914,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3252,
-      "word_like_tokens": 422,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3320,
+      "word_like_tokens": 432,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/hyperlane-vs-layerzero-ccip.md",
@@ -82961,9 +82962,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3224,
-      "word_like_tokens": 464,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3452,
+      "word_like_tokens": 500,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/hyperledger-besu-overview.md",
@@ -83009,9 +83010,9 @@
         "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3061,
-      "word_like_tokens": 470,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3139,
+      "word_like_tokens": 481,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/hyperledger-besu-vs-canton-migration.md",
@@ -83055,9 +83056,9 @@
         "https://finwiki.zksc.io/systems/hyperledger-besu-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2689,
-      "word_like_tokens": 378,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2851,
+      "word_like_tokens": 401,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/ibc-cosmos-cross-chain.md",
@@ -83310,9 +83311,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2783,
-      "word_like_tokens": 399,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2865,
+      "word_like_tokens": 412,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/mev-flashbots-suave-order-flow-auction.md",
@@ -83443,9 +83444,9 @@
         "https://finwiki.zksc.io/systems/pectra-upgrade-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3013,
-      "word_like_tokens": 450,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3100,
+      "word_like_tokens": 466,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/pectra-eip-7691-blob-l2-impact.md",
@@ -83489,9 +83490,9 @@
         "https://finwiki.zksc.io/systems/pectra-upgrade-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2976,
-      "word_like_tokens": 520,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3063,
+      "word_like_tokens": 536,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/pectra-upgrade-overview.md",
@@ -83537,9 +83538,9 @@
         "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2798,
-      "word_like_tokens": 463,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3063,
+      "word_like_tokens": 511,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/polkadot-xcm-parachain-messaging.md",
@@ -84550,8 +84551,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 1970,
-      "word_like_tokens": 374,
+      "nonspace_chars": 4016,
+      "word_like_tokens": 737,
       "last_modified": "2026-05-29"
     }
   ]

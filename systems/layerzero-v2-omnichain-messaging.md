@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, cross-chain, layerzero, dvn, omnichain, stargate]
-sources: []
+sources:
+  - https://docs.layerzero.network/v2
 status: candidate
 ---
 
@@ -59,4 +60,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- LayerZero V2 docs — https://docs.layerzero.network/v2
 

@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, erc-7702, ethereum, pectra, vitalik]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7702
 status: candidate
 ---
 
@@ -85,4 +86,4 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Sources
 
-- EIP-7702 spec(eips.ethereum.org)
+- EIP-7702「Set Code for EOAs」 — https://eips.ethereum.org/EIPS/eip-7702

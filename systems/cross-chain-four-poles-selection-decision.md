@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, bridge, decision-framework, layerzero, ccip, hyperlane, cctp]
-sources: []
+sources:
+  - https://docs.layerzero.network/v2
+  - https://docs.chain.link/ccip
+  - https://docs.hyperlane.xyz/
+  - https://developers.circle.com/stablecoins/docs/cctp-getting-started
 status: candidate
 ---
 
@@ -79,3 +83,7 @@ Base 多極組み合わせの実際の比率(CCIP 何% · LayerZero 何% · CCTP
 ## Sources
 
 - DTCC Smart NAV 公告(2024.05)· SWIFT messaging on Chainlink テスト(2025)
+- LayerZero V2 docs — https://docs.layerzero.network/v2
+- Chainlink CCIP docs — https://docs.chain.link/ccip
+- Hyperlane docs — https://docs.hyperlane.xyz/
+- Circle CCTP V2 — https://developers.circle.com/stablecoins/docs/cctp-getting-started

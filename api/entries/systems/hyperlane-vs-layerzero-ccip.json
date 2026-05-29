@@ -31,7 +31,11 @@
       "comparison"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.hyperlane.xyz/",
+      "https://docs.layerzero.network/v2",
+      "https://docs.chain.link/ccip"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -75,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3224,
-    "word_like_tokens": 464,
+    "nonspace_chars": 3452,
+    "word_like_tokens": 500,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

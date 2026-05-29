@@ -30,7 +30,9 @@
       "security"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.hyperlane.xyz/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -74,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3377,
-    "word_like_tokens": 447,
+    "nonspace_chars": 3445,
+    "word_like_tokens": 457,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }
