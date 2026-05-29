@@ -13,6 +13,8 @@ sources:
   - "Wikipedia: ビットトレード / Huobi Japan (2026-05-19 抽出)"
   - 金融庁 暗号資産交換業者登録一覧 (関東財務局長 第 00007 号)
   - JVCEA (日本暗号資産取引業協会) 会員名簿
+  - "https://www.bittrade.co.jp/ja-jp/profile/"
+  - "https://www.sinohope.com/en/company"
 ---
 
 # ビットトレード (BitTrade)
@@ -32,7 +34,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **業態**：暗号資産交換業 ^[extracted]
 **登録**：関東財務局長 第 00007 号 ^[extracted]
 **業界団体**：JVCEA（日本暗号資産取引業協会）第一種会員 ^[extracted]
-**親会社（経緯）**：旧 BitTrade（独立系）→ 2018 Huobi グループ買収 → 2022 PtokaPay 系（Justin Sun 関連と報じられる）→ 「BitTrade」として再ブランディング ^[ambiguous]
+**主要株主（公式会社概要ベース）**：SINOHOPE SG PTE. LTD. / Sinohope Technology Holdings Limited（HKEX: 01611、旧 Huobi Technology / 新火科技）/ 東海東京フィナンシャル・ホールディングス / 株式会社 FPG。経緯：旧 BitTrade（独立系）→ 2018 Huobi グループ買収 → Huobi 系を継承する Sinohope（香港上場）傘下へ → 「BitTrade」として再ブランディング
 
 ### 沿革（公開情報ベース）^[extracted]
 
@@ -46,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2023〜 | 「BitTrade」ブランドで取扱通貨ロングテール戦略を継続 |
 | 2024 | 取扱通貨数 30+（国内最多級）|
 
-> 経営権変動：2022 年前後の Huobi グローバル側のオーナー変動（Justin Sun 系と報じられる）と、日本法人の「BitTrade」再改称が時期的に重なる。日本法人の現株主構成・実質支配の明示的開示は公開情報では限定的 ^[ambiguous]
+> 経営権変動：2022 年前後の Huobi グローバル側のオーナー変動と、日本法人の「BitTrade」再改称が時期的に重なる。現在の主要株主は公式会社概要で開示されており、香港上場の Sinohope Technology Holdings（HKEX: 01611、旧 Huobi Technology）系および東海東京 FH・FPG が名を連ねる。
 
 ## 2. 事業セグメント・マップ
 
@@ -102,8 +104,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: ビットトレード / Huobi Japan**（2026-05-19 抽出）
 - **金融庁** 暗号資産交換業者登録一覧（関東財務局長 第 00007 号）
 - **JVCEA**（日本暗号資産取引業協会）会員名簿・公表資料
+- **BitTrade 公式 会社概要**（主要株主 SINOHOPE SG PTE. LTD. / Sinohope Technology Holdings / 東海東京 FH / FPG、登録番号、設立 2016-09、資本金 1 億円）：https://www.bittrade.co.jp/ja-jp/profile/
+- **Sinohope Technology Holdings**（HKEX: 01611、旧 Huobi Technology / 新火科技、BitTrade 親会社）：https://www.sinohope.com/en/company
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（公開情報ベース）。再改称（2022-08 Huobi Japan → BitTrade）・登録番号（第 00007 号）・JVCEA 加盟は公開情報で確認可能。**親会社の実質支配構造（PtokaPay / Justin Sun 系との関係）は公開情報では完全には追えず ^[ambiguous]**。取扱通貨数（30+）と「国内最多級」表現は 2024 時点の業界比較ベース。
+> confidence: **likely**（公開情報ベース）。再改称（2022-08 Huobi Japan → BitTrade）・登録番号（第 00007 号）・JVCEA 加盟は公開情報で確認可能。主要株主（Sinohope Technology Holdings〔旧 Huobi Technology〕系・東海東京 FH・FPG）は公式会社概要で開示。取扱通貨数（30+）と「国内最多級」表現は 2024 時点の業界比較ベース。

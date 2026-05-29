@@ -35,7 +35,8 @@
       "https://www.mebuki-sec.co.jp/",
       "https://www.mebuki-fg.co.jp/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
-      "https://www.jsda.or.jp/"
+      "https://www.jsda.or.jp/",
+      "めぶき証券 会社概要 — 設立 2007-11-30 / 資本金 30 億円 / 従業員 約 90 名 / 本社 水戸市南町 (https://www.mebuki-sec.co.jp/company/gaiyo.html)"
     ]
   },
   "summary": "This entry sits under the JapanFG index as the FG-subsidiary securities operating-company anchor for めぶき FG. Read it against 常陽銀行 and 足利銀行 (parent bank subsidiaries) and the regional-bank consolidation pattern for system / regulatory boundary. Adjacent peer is FFG 証券 under fukuoka-fg for the FG-affi",
@@ -47,7 +48,7 @@
     "2. 持株ツリー",
     "旧 常陽証券系譜",
     "めぶき FG 設立とグループ統合",
-    "4. KPI table (concept) ^[ambiguous]",
+    "4. KPI table (concept)",
     "5. 事業セグメント map",
     "FG 内ポジション"
   ],
@@ -105,8 +106,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4100,
-    "word_like_tokens": 606,
+    "nonspace_chars": 4507,
+    "word_like_tokens": 705,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

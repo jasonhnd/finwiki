@@ -36,7 +36,8 @@
     "sources": [
       "https://www.mebuki-lease.co.jp/",
       "https://www.mebuki-fg.co.jp/",
-      "https://www.chiginkyo.or.jp/"
+      "https://www.chiginkyo.or.jp/",
+      "めぶきリース 会社概要 — 設立 1974-09 / 資本金 1 億円 / 本社 水戸市南町 常陽海上ビル / 2017-04-03 旧 常陽リースから商号変更 (https://www.mebuki-lease.co.jp/gaiyo/index.html)"
     ]
   },
   "summary": "This entry sits under the JapanFG index as the FG-subsidiary leasing operating-company anchor for めぶき FG. Read it against parent operating banks 常陽銀行 / 足利銀行 and sibling subsidiary めぶき証券. Peer comparison: 北海道リース (北洋・北海道銀行系) and major lessor 三菱 HC キャピタル / みずほリース. For broader system route see regional-",
@@ -49,7 +50,7 @@
     "旧 常陽リース系譜",
     "旧 足利リース系譜",
     "めぶき FG 設立とグループ統合",
-    "4. KPI table (concept) ^[ambiguous]",
+    "4. KPI table (concept)",
     "5. 事業セグメント map"
   ],
   "body_links": {
@@ -102,8 +103,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4167,
-    "word_like_tokens": 572,
+    "nonspace_chars": 4648,
+    "word_like_tokens": 672,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

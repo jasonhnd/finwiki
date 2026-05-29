@@ -31,7 +31,9 @@
     "sources": [
       "Wikipedia: ビットトレード / Huobi Japan (2026-05-19 抽出)",
       "金融庁 暗号資産交換業者登録一覧 (関東財務局長 第 00007 号)",
-      "JVCEA (日本暗号資産取引業協会) 会員名簿"
+      "JVCEA (日本暗号資産取引業協会) 会員名簿",
+      "https://www.bittrade.co.jp/ja-jp/profile/",
+      "https://www.sinohope.com/en/company"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -79,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3238,
-    "word_like_tokens": 473,
+    "nonspace_chars": 3739,
+    "word_like_tokens": 563,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

@@ -21,6 +21,7 @@ sources:
   - "https://www.ja-kyosai.or.jp/about/"
   - "https://org.ja-group.jp/factbook/"
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
+  - "https://www.ja-kyosai.or.jp/files/2024/202407-3.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
   - "https://www.kyoeikasai.co.jp/about/know/pdf/ja.pdf"
 ---
@@ -98,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperat
 
 - **販売チャネル**: 全国 JA 497 組合 + 都道府県連 + 全共連直営
 - 組合員世帯への **対面・訪問販売** が中心 — 生保業界の「セールスレディ」型に類似
-- **取扱高は生命共済保有契約高で約 200 兆円超** ^[ambiguous] — 生保業界ビッグ 4 と並ぶ規模感
+- **保有契約高 (生命総合・建物更生共済 合計) は 216 兆 9,652 億円** (令和 5 年度末) — 生保業界ビッグ 4 と並ぶ規模感
 
 ### 損保補完の親会社機能
 
@@ -109,7 +110,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperat
 
 ### 国内最大級の保険事業者ポジション
 
-- **総資産規模**: 60 兆円超 ^[ambiguous] — [[JapanFG/nippon-life|日本生命]] (90 兆円超) と並ぶ規模感
+- **総資産規模**: 58 兆 4,751 億円 (令和 5 年度末、前年度比 101.4%) — [[JapanFG/nippon-life|日本生命]] (90 兆円超) と並ぶ規模感
 - ただし共済は **農協法上の組合員ベース**ゆえ、保険業法ベースの規模ランキングには通常入らない (規制レポートが異なる)
 
 ### 商品競争
@@ -159,9 +160,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperat
 - **JA 共済連 会社概要**: https://www.ja-kyosai.or.jp/about/
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - **共栄火災海上保険 JA グループ説明 PDF**: https://www.kyoeikasai.co.jp/about/know/pdf/ja.pdf
+- **JA 共済連 令和 5 年度 決算概要** (保有契約高 216 兆 9,652 億円 / 総資産 58 兆 4,751 億円): https://www.ja-kyosai.or.jp/files/2024/202407-3.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (JA 共済連公式 + JA グループ Factbook + 共栄火災 IR) ベース。保有契約高 200 兆円規模・総資産 60 兆円超 ^[ambiguous] は概数、最新は JA 共済連年次報告書を要参照。共栄火災出資 74.20% は 2023-03-31 時点公開情報。
+> confidence: **likely**。公開情報 (JA 共済連公式 + JA グループ Factbook + 共栄火災 IR) ベース。保有契約高 216 兆 9,652 億円・総資産 58 兆 4,751 億円は令和 5 年度 (2024-03-31 末) JA 共済連決算概要による確定値。共栄火災出資 74.20% は 2023-03-31 時点公開情報。

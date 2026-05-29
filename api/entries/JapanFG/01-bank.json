@@ -37,7 +37,9 @@
       "https://01bank.co.jp/aboutus/index.html",
       "https://01bank.co.jp/news/pdf/2025/0724.pdf",
       "Fukuoka FG IR 公開資料",
-      "Wikipedia: ふくおかフィナンシャルグループ (公開情報)"
+      "Wikipedia: ふくおかフィナンシャルグループ (公開情報)",
+      "Wikipedia: 01銀行 (本店=大阪府吹田市・親会社=池田泉州HD, 2026-05-29 確認) https://ja.wikipedia.org/wiki/01銀行",
+      "PR TIMES: ０１銀行株式会社の開業、および事業方針について (本店=大阪府吹田市豊津町9番1号) https://prtimes.jp/main/html/rd/p/000000001.000166817.html"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) for peer / contrast context, ふくおか FG (FFG) for parent group context, and banking index for the broader system / regulatory boundary.",
@@ -50,8 +52,8 @@
     "5. 業務モデル — データドリブン SME finance",
     "6. ピア比較 — 地銀デジタル子会社の系譜",
     "7. 監督・規制",
-    "8. Counterpoints",
-    "9. Open questions"
+    "9. Open questions",
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -77,8 +79,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3257,
-    "word_like_tokens": 488,
+    "nonspace_chars": 3848,
+    "word_like_tokens": 621,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

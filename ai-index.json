@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T20:49:51+09:00",
+  "generated_at": "2026-05-29T22:04:14+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9785934,
-    "word_like_tokens": 1552420
+    "nonspace_utf8_chars": 9790687,
+    "word_like_tokens": 1553492
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 420060,
-      "word_like_tokens": 73823,
+      "nonspace_chars": 420216,
+      "word_like_tokens": 73857,
       "last_modified": "2026-05-29"
     },
     {
@@ -830,8 +830,8 @@
         "5. 業務モデル — データドリブン SME finance",
         "6. ピア比較 — 地銀デジタル子会社の系譜",
         "7. 監督・規制",
-        "8. Counterpoints",
-        "9. Open questions"
+        "9. Open questions",
+        "Related"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -852,8 +852,8 @@
         "https://finwiki.zksc.io/banking/minna-bank-baas-model"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3257,
-      "word_like_tokens": 488,
+      "nonspace_chars": 3848,
+      "word_like_tokens": 621,
       "last_modified": "2026-05-29"
     },
     {
@@ -4587,8 +4587,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3238,
-      "word_like_tokens": 473,
+      "nonspace_chars": 3739,
+      "word_like_tokens": 563,
       "last_modified": "2026-05-29"
     },
     {
@@ -5709,8 +5709,8 @@
         "https://finwiki.zksc.io/yamaguchi-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5505,
-      "word_like_tokens": 751,
+      "nonspace_chars": 5849,
+      "word_like_tokens": 806,
       "last_modified": "2026-05-29"
     },
     {
@@ -6569,8 +6569,8 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3818,
-      "word_like_tokens": 574,
+      "nonspace_chars": 4339,
+      "word_like_tokens": 664,
       "last_modified": "2026-05-29"
     },
     {
@@ -7505,8 +7505,8 @@
         "https://finwiki.zksc.io/ubs-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4486,
-      "word_like_tokens": 669,
+      "nonspace_chars": 4241,
+      "word_like_tokens": 643,
       "last_modified": "2026-05-29"
     },
     {
@@ -7713,7 +7713,7 @@
         "2.3 サブセグメント",
         "3. 親会社関係（SoftBank Group の金融構造内）",
         "SBPS vs PayPay 金融グループ の棲み分け",
-        "4. KPI（公開情報ベース、参考値） ^[ambiguous]"
+        "4. KPI（公開情報ベース、参考値）"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -7748,8 +7748,8 @@
         "https://finwiki.zksc.io/payments/suica-prepaid-jr-east"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5560,
-      "word_like_tokens": 841,
+      "nonspace_chars": 5812,
+      "word_like_tokens": 882,
       "last_modified": "2026-05-29"
     },
     {
@@ -8005,6 +8005,7 @@
         "JapanFG/fsa-supervision-bureau",
         "JapanFG/kpmg-azsa",
         "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/mizuho-fg",
         "JapanFG/mufg",
         "JapanFG/pwc-aarata",
         "JapanFG/taiyo-grant-thornton",
@@ -8017,14 +8018,15 @@
         "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
         "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
         "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/pwc-aarata",
         "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
         "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4071,
-      "word_like_tokens": 591,
+      "nonspace_chars": 4347,
+      "word_like_tokens": 654,
       "last_modified": "2026-05-29"
     },
     {
@@ -8092,7 +8094,7 @@
         "2. 持株ツリー",
         "FFG 設立とグループ統合",
         "FFG 証券 設立・展開",
-        "4. KPI table (concept) ^[ambiguous]",
+        "4. KPI table (concept)",
         "5. 事業セグメント・マップ",
         "FG 内ポジション"
       ],
@@ -8151,8 +8153,8 @@
         "https://finwiki.zksc.io/smbc-nikko"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4526,
-      "word_like_tokens": 677,
+      "nonspace_chars": 4958,
+      "word_like_tokens": 778,
       "last_modified": "2026-05-29"
     },
     {
@@ -12983,8 +12985,8 @@
         "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5232,
-      "word_like_tokens": 787,
+      "nonspace_chars": 5418,
+      "word_like_tokens": 852,
       "last_modified": "2026-05-29"
     },
     {
@@ -14969,8 +14971,8 @@
         "https://finwiki.zksc.io/shizuoka-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3398,
-      "word_like_tokens": 454,
+      "nonspace_chars": 3760,
+      "word_like_tokens": 536,
       "last_modified": "2026-05-29"
     },
     {
@@ -15156,7 +15158,7 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "主要 KPI（概観）^[ambiguous]",
+        "主要 KPI（概観）",
         "グループ構造",
         "重要年表 ^[extracted]",
         "2. 事業セグメント・マップ",
@@ -15190,8 +15192,8 @@
         "https://finwiki.zksc.io/tokio-marine"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3923,
-      "word_like_tokens": 538,
+      "nonspace_chars": 4143,
+      "word_like_tokens": 605,
       "last_modified": "2026-05-29"
     },
     {
@@ -15894,8 +15896,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5036,
-      "word_like_tokens": 762,
+      "nonspace_chars": 4931,
+      "word_like_tokens": 751,
       "last_modified": "2026-05-29"
     },
     {
@@ -18161,7 +18163,7 @@
         "旧 常陽リース系譜",
         "旧 足利リース系譜",
         "めぶき FG 設立とグループ統合",
-        "4. KPI table (concept) ^[ambiguous]",
+        "4. KPI table (concept)",
         "5. 事業セグメント map"
       ],
       "wikilinks": [
@@ -18209,8 +18211,8 @@
         "https://finwiki.zksc.io/tsukuba-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4167,
-      "word_like_tokens": 572,
+      "nonspace_chars": 4648,
+      "word_like_tokens": 672,
       "last_modified": "2026-05-29"
     },
     {
@@ -18229,7 +18231,7 @@
         "2. 持株ツリー",
         "旧 常陽証券系譜",
         "めぶき FG 設立とグループ統合",
-        "4. KPI table (concept) ^[ambiguous]",
+        "4. KPI table (concept)",
         "5. 事業セグメント map",
         "FG 内ポジション"
       ],
@@ -18282,8 +18284,8 @@
         "https://finwiki.zksc.io/smbc-nikko"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4100,
-      "word_like_tokens": 606,
+      "nonspace_chars": 4507,
+      "word_like_tokens": 705,
       "last_modified": "2026-05-29"
     },
     {
@@ -38894,8 +38896,8 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14060,
-      "word_like_tokens": 2084,
+      "nonspace_chars": 14512,
+      "word_like_tokens": 2185,
       "last_modified": "2026-05-29"
     },
     {
@@ -83712,8 +83714,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2628,
-      "word_like_tokens": 493,
+      "nonspace_chars": 2550,
+      "word_like_tokens": 481,
       "last_modified": "2026-05-29"
     }
   ]

@@ -14,6 +14,7 @@ sources:
   - "https://www.mebuki-fg.co.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.jsda.or.jp/"
+  - "めぶき証券 会社概要 — 設立 2007-11-30 / 資本金 30 億円 / 従業員 約 90 名 / 本社 水戸市南町 (https://www.mebuki-sec.co.jp/company/gaiyo.html)"
 ---
 
 # めぶき証券 (Mebuki Securities)
@@ -62,17 +63,21 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 - **2016-10-01**: [[mebuki-fg|めぶき FG]] 設立 ([[joyo-bank|常陽銀行]] + [[ashikaga-bank|足利銀行]] 共同株式移転)
 
-## 4. KPI table (concept) ^[ambiguous]
+## 4. KPI table (concept)
 
 | 項目 | 概況 |
 |---|---|
+| 設立 | 2007-11-30（旧 常陽証券。2017-04 「めぶき証券」へ商号変更、2017-10 [[mebuki-fg]] 直下子会社）|
+| 資本金 | 30 億円 |
+| 従業員数 | 約 90 名 |
+| 本社 | 茨城県水戸市南町 3-4-12 |
 | 主要営業エリア | 茨城県・栃木県・首都圏 ([[mebuki-fg]] 連携地盤) |
 | 業務領域 | 公募 / 私募株引受、債券仲介、投信、ファンドラップ、IPO 取次、M&A 仲介 |
 | 銀証連携 | [[joyo-bank]] / [[ashikaga-bank]] 顧客紹介・共同店舗 |
 | 主要顧客層 | 北関東中堅企業 + 富裕層個人 + 県内事業承継 |
 | 親会社 | [[mebuki-fg]] 100% 出資 |
 
-> 注: 単体財務 KPI 精緻値は [[mebuki-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
+> 注: めぶき証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[mebuki-fg]] 有価証券報告書セグメント情報を参照
 
 ## 5. 事業セグメント map
 
@@ -124,6 +129,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ## Sources
 
 - **めぶき証券 公式サイト** (https://www.mebuki-sec.co.jp/)
+- **めぶき証券 会社概要**（設立 2007-11-30、資本金 30 億円、従業員 約 90 名、本社 茨城県水戸市南町 3-4-12。旧 常陽証券 → 2017-04 商号変更 → 2017-10 めぶき FG 直下子会社）<https://www.mebuki-sec.co.jp/company/gaiyo.html>
 - **めぶき FG 公式 IR** (https://www.mebuki-fg.co.jp/)
 - **FSA 金融商品取引業者一覧** (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, 第一種金融商品取引業者)
 - **日本証券業協会** (https://www.jsda.or.jp/, 協会員名簿)
@@ -132,4 +138,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-24)。[[mebuki-fg]] page = holding-company strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[mebuki-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。
+> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-24)。[[mebuki-fg]] page = holding-company strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。会社概要 (設立 2007-11-30 / 資本金 30 億円 / 従業員 約 90 名) は公式サイトで確認済み。非上場完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[mebuki-fg]] 有価証券報告書セグメント情報要参照。

@@ -14,6 +14,7 @@ sources:
   - "https://www.fukuoka-fg.com/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.jsda.or.jp/"
+  - "FFG 証券 会社概要 — 設立 1944-07-07 / 資本金 30 億円 / 従業員 約 280 名 / 本社 福岡市中央区天神 (https://www.ffg-sec.co.jp/company/corporate/)"
 ---
 
 # FFG 証券 (FFG Securities)
@@ -64,17 +65,21 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 - FFG グループ証券として、九州 3 県地盤 + 親 [[fukuoka-fg]] のデジタル戦略との連動を志向
 
-## 4. KPI table (concept) ^[ambiguous]
+## 4. KPI table (concept)
 
 | 項目 | 概況 |
 |---|---|
+| 設立 | 1944-07-07（旧 前田証券。2012-04 福岡銀行完全子会社化で福岡証券へ商号変更、2018-05 「FFG 証券」へ商号変更）|
+| 資本金 | 30 億円 |
+| 従業員数 | 約 280 名 |
+| 本社 | 福岡県福岡市中央区天神 2-14-2 福岡銀行本店内 |
 | 主要営業エリア | 福岡県・熊本県・長崎県 ([[fukuoka-fg]] 3 県) + 福岡市・全国 |
 | 業務領域 | 公募 / 私募株引受、債券仲介、投信、ファンドラップ、IPO 取次、M&A 仲介 |
 | 銀証連携 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] 顧客紹介 |
 | 主要顧客層 | 九州中堅企業 + 富裕層個人 + 県内事業承継 |
 | 親会社 | [[fukuoka-fg]] 100% 出資 |
 
-> 注: 単体財務 KPI 精緻値は [[fukuoka-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
+> 注: FFG 証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[fukuoka-fg]] 有価証券報告書セグメント情報を参照
 
 ## 5. 事業セグメント・マップ
 
@@ -127,6 +132,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ## Sources
 
 - **FFG 証券 公式サイト** (https://www.ffg-sec.com/)
+- **FFG 証券 会社概要**（設立 1944-07-07、資本金 30 億円、従業員 約 280 名、本社 福岡県福岡市中央区天神 2-14-2 福岡銀行本店内。旧 前田証券 → 2012-04 福岡証券 → 2018-05「FFG 証券」へ商号変更）<https://www.ffg-sec.co.jp/company/corporate/>
 - **ふくおか FG 公式 IR** (https://www.fukuoka-fg.com/)
 - **FSA 金融商品取引業者一覧** (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, 第一種金融商品取引業者)
 - **日本証券業協会** (https://www.jsda.or.jp/, 協会員名簿)
@@ -135,4 +141,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ---
 
 > [!info] 校核状态
-> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-24)。[[fukuoka-fg]] page = holding-company strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[fukuoka-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。
+> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-24)。[[fukuoka-fg]] page = holding-company strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。会社概要 (設立 1944-07-07 / 資本金 30 億円 / 従業員 約 280 名) は公式サイトで確認済み。非上場完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[fukuoka-fg]] 有価証券報告書セグメント情報要参照。
