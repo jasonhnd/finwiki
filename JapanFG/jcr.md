@@ -14,6 +14,7 @@ sources:
   - "JCR 公式サイト (https://www.jcr.co.jp/, 2026-05-25 参照)"
   - "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)"
   - "金融商品取引法 第 66 条の 27 以下（信用格付業者登録制度）"
+  - "日本銀行ワーキングペーパー No.07-E-11 『Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies』 (2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf)"
 ---
 # 日本格付研究所 (JCR)
 
@@ -78,8 +79,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 国内 vs 国際の格付ギャップ問題
 
-- 日本企業に対する **JCR 格付は S&P / Moody's より 1〜2 ノッチ高い** ことが多い ^[ambiguous]
-- 背景: 日本企業のメインバンク制度・グループ救済慣行を加味した相対評価方法
+- 日本企業に対する **JCR / R&I の格付は S&P / Moody's より高い** 傾向が実証研究で確認されている（典型的には 1〜2 ノッチ高く、案件によっては 4 ノッチ以上の格差も報告される） — 日銀ワーキングペーパー「Credit Rating Gaps in Japan」(2007) ほか査読論文
+- 背景: 日本企業のメインバンク制度・グループ救済慣行を加味した相対評価方法（実証研究は「上方バイアス」ではなく信用リスク評価方法の体系的差異と説明）
 - 国際投資家からは「日本格付は楽観的バイアス」批判が継続的にある一方、国内市場の実態を反映しているとの反論も
 - **多くの日本企業は 2 社以上から格付取得**（国内・国際併用が定石）
 
@@ -111,8 +112,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **金融庁 信用格付業者一覧**（https://www.fsa.go.jp/menkyo/menkyoj/kakuduke.pdf, 2026-05-25 参照）
 - **金融商品取引法**（昭和 23 年法律第 25 号、第 66 条の 27 以下）
 - IOSCO Code of Conduct Fundamentals for Credit Rating Agencies（2015 改訂版）
+- **日本銀行ワーキングペーパー No.07-E-11『Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies』**（2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf） — JCR / R&I が S&P / Moody's より高い格付を付す傾向の実証根拠
 
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立年・登録制度・業務領域・格付スケールは公式公開資料一致。国内 vs 国際の格付ギャップに関する記述は業界観測ベースで `^[ambiguous]` 明示。最新の格付件数・売上構成は JCR 公表資料・有価証券届出書を要参照。
+> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立年・登録制度・業務領域・格付スケールは公式公開資料一致。国内 vs 国際の格付ギャップは日銀ワーキングペーパー (2007) + 査読論文で実証的に裏付け済（出典追記）。最新の格付件数・売上構成は JCR 公表資料・有価証券届出書を要参照。

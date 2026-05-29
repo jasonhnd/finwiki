@@ -43,9 +43,14 @@
       "https://www.custody.jp/",
       "https://www.custody.jp/recruit/aboutus/about.html",
       "https://www.custody.jp/recruit/aboutus/business.html",
+      "https://www.custody.jp/data/disclosure/index.html",
       "https://www.bnymellon.com/japan/",
       "https://www.bny.com/corporate/jp/ja/asset-servicing-japan-disclosure.html",
+      "https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf",
       "https://www.statestreet.com/jp/",
+      "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+      "https://www.sec.gov/Archives/edgar/data/0000019617/000001961724000558/a3q24_earningsxpresentat.htm",
+      "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q42024/4Q24-earnings-press-release.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.jasdec.com/en/system/",
@@ -124,8 +129,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11161,
-    "word_like_tokens": 1793,
+    "nonspace_chars": 12756,
+    "word_like_tokens": 2052,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-05-29"
   }

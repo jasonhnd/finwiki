@@ -14,6 +14,8 @@ sources:
   - "https://www.aichibank.co.jp/company/information/profile/"
   - "https://www.aichi-fg.co.jp/"
   - "https://www.dainichiginkyo.or.jp/"
+  - "https://www.aichi-fg.co.jp/ir/files/pdf/202403_chukyo_s03.pdf"
+  - "https://ja.wikipedia.org/wiki/中京銀行"
 ---
 
 # 中京銀行 (Chukyo Bank, historical)
@@ -76,15 +78,18 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 - **2022-10-03**: [[aichi-fg|あいち FG]] 設立、両行 100% 子会社化
 - **2025-01-01**: 愛知銀行 + 中京銀行 合併 → 商号 [[aichi-bank|あいち銀行]]、中京銀行は解散・消滅
 
-## 4. KPI table (historical, 2024-03 期最終決算ベース) ^[ambiguous]
+## 4. KPI table (historical, 2024-03 期最終決算ベース)
+
+出典: あいち FG 有価証券報告書「中京銀行 単体情報」(2024-03-31 / 2023 年度)。
 
 | 項目 | 概況 |
 |---|---|
-| 預金残高 (単体, 2024-03 末) | 約 1.5 兆円規模 |
-| 貸出金残高 (単体, 2024-03 末) | 約 1.2 兆円規模 |
-| 従業員 (単体, 2024-03 末) | 約 900 名 |
-| 営業店舗数 (合併直前) | 約 80 店舗 (主に愛知県内) |
-| 旧上場コード | 東証 PRIME 8530 (2022-10 上場廃止) |
+| 預金残高 (単体, 2024-03 末) | 1 兆 9,642 億円 (1,964,221 百万円) |
+| 貸出金残高 (単体, 2024-03 末) | 1 兆 5,617 億円 (1,561,741 百万円) |
+| 総資産 (単体, 2024-03 末) | 2 兆 2,086 億円 (2,208,592 百万円) |
+| 従業員 (単体, 2023 年度) | 800 名 (外、平均臨時従業員 362 名) |
+| 営業店舗数 (合併直前) | 約 86 店規模 (2021-03 末 87 店ベース、主に愛知県内; 出張所除く) |
+| 旧上場コード | 東証 PRIME 8530 (2022-09-29 上場廃止) |
 
 ## 5. 業務線 (合併前)
 
@@ -128,9 +133,10 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 - **あいち銀行 公式会社情報** (https://www.aichibank.co.jp/company/information/profile/)
 - **あいち FG 公式 IR** (https://www.aichi-fg.co.jp/)
 - **第二地方銀行協会** (https://www.dainichiginkyo.or.jp/)
-- **Wikipedia: 中京銀行 / 愛知銀行 / あいちフィナンシャルグループ** (2026-05-24 抽出)
+- **あいち FG 有価証券報告書「中京銀行 単体情報（事業の状況等 / 個別財務諸表 / 営業の状況）」** (2024-03 期 / 2023 年度: 預金残高 1,964,221 百万円・貸出金残高 1,561,741 百万円・総資産 2,208,592 百万円・従業員 800 名、https://www.aichi-fg.co.jp/ir/files/pdf/202403_chukyo_s03.pdf)
+- **Wikipedia: 中京銀行 / 愛知銀行 / あいちフィナンシャルグループ** (2026-05-24 抽出; 2021-03 末 87 店・2022-10 経営統合時 両行計 155 拠点・2022-09-29 上場廃止)
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely** (historical predecessor anchor created 2026-05-24)。現行 operating boundary は [[aichi-bank|あいち銀行]] に移管済み (2025-01-01)、本ページは合併前の独立第二地銀としての歴史・KPI・合併プロセスを扱う disambiguation 用 anchor。最終財務 KPI 精緻値は旧中京銀行 2024-03 期決算短信 / [[aichi-fg]] 統合報告書要参照 ^[ambiguous]。
+> confidence: **likely** (historical predecessor anchor created 2026-05-24)。現行 operating boundary は [[aichi-bank|あいち銀行]] に移管済み (2025-01-01)、本ページは合併前の独立第二地銀としての歴史・KPI・合併プロセスを扱う disambiguation 用 anchor。最終財務 KPI は [[aichi-fg]] 有価証券報告書「中京銀行 単体情報」(2024-03-31) で確認済み (預金 1 兆 9,642 億円 / 貸出金 1 兆 5,617 億円 / 従業員 800 名)。

@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T22:04:14+09:00
+Generated: 2026-05-29T23:22:04+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -968,7 +968,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）, Wiki route, TL;DR, 1. 会社概要, 2025-03 期決算（FY2024 通期 連結実績）^[extracted], 2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted], 主要子会社・組織, 合併歴史・前身
+- Headings: 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）, Wiki route, TL;DR, 1. 会社概要, 2025-03 期決算（FY2024 通期 連結実績）^[extracted], 2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted], 主要株主（大株主 上位 10、2026-03-31 基準）^[extracted], 主要子会社・組織
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/rakuten-fg, https://finwiki.zksc.io/resona-hd, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg, https://finwiki.zksc.io/sumitomo-mitsui-trust
 
 ### 公認会計士・監査審査会 (CPAAOB)

@@ -34,7 +34,9 @@
     "sources": [
       "Wikipedia: Standard Chartered（英語版、2026-05-19 抽出）",
       "Wikipedia: スタンダード・チャータード銀行（日本語版、2026-05-19 抽出）",
-      "Standard Chartered PLC Annual Report 2024（公式 IR、ロンドン本社）"
+      "Standard Chartered PLC Annual Report 2024（公式 IR、ロンドン本社）",
+      "https://www.sc.com/jp/",
+      "https://www.sc.com/jp/standard-chartered-securities-japan-ltd/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against BNY メロン日本 (BNY Mellon Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -80,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3555,
-    "word_like_tokens": 465,
+    "nonspace_chars": 4025,
+    "word_like_tokens": 539,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

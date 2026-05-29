@@ -38,7 +38,8 @@
       "横浜 FG 2026-03 期 Q2 中間決算短信 (2025-11-13)",
       "日本経済新聞・ニッキン ONLINE・カナロコ（2025-01〜2025-10 商号変更報道）",
       "TSUBASA アライアンス公式 (tsubasa-al.co.jp, 2025-03 末 10 行体制確認)",
-      "Wikipedia: 横浜フィナンシャルグループ / 横浜銀行 / 東日本銀行 (2026-05-19 抽出)"
+      "Wikipedia: 横浜フィナンシャルグループ / 横浜銀行 / 東日本銀行 (2026-05-19 抽出)",
+      "横浜 FG 公式 IR「株式の状況」大株主 (2026-03-31 基準): https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -49,10 +50,10 @@
     "1. 会社概要",
     "2025-03 期決算（FY2024 通期 連結実績）^[extracted]",
     "2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted]",
+    "主要株主（大株主 上位 10、2026-03-31 基準）^[extracted]",
     "主要子会社・組織",
     "合併歴史・前身",
-    "重要年表（抜粋）^[extracted]",
-    "2. 事業セグメント・マップ"
+    "重要年表（抜粋）^[extracted]"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -88,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6795,
-    "word_like_tokens": 1107,
+    "nonspace_chars": 7597,
+    "word_like_tokens": 1283,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

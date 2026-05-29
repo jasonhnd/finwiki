@@ -34,7 +34,8 @@
       "Wikipedia: 日本格付研究所 (2026-05-25 抽出)",
       "JCR 公式サイト (https://www.jcr.co.jp/, 2026-05-25 参照)",
       "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)",
-      "金融商品取引法 第 66 条の 27 以下（信用格付業者登録制度）"
+      "金融商品取引法 第 66 条の 27 以下（信用格付業者登録制度）",
+      "日本銀行ワーキングペーパー No.07-E-11 『Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies』 (2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 格付投資情報センター (R&I) for peer / contrast context and 金融庁 for the broader regulatory boundary (信用格付業者登録).",
@@ -74,8 +75,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3634,
-    "word_like_tokens": 562,
+    "nonspace_chars": 4146,
+    "word_like_tokens": 654,
     "inbound_wikilinks_count": 11,
     "last_modified": "2026-05-29"
   }

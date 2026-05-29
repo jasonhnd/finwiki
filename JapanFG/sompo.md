@@ -13,6 +13,8 @@ sources:
   - "Wikipedia: SOMPO ホールディングス (公開情報, 2026-05-19 抽出)"
   - "Wikipedia: 損害保険ジャパン / SOMPO ケア / Sompo International (公開情報)"
   - "金融庁 業務改善命令 (ビッグモーター関連, 2024) 公開発表"
+  - "日本経済新聞「SOMPO、米データ大手パランティアに540億円出資」 (2020-06): https://www.nikkei.com/article/DGXMZO60525400Y0A610C2EE9000/"
+  - "新日本保険新聞「SOMPOホールディングス、Palantirと『安心・安全・健康のリアルデータプラットフォーム』を立ち上げ」 (2020-06-22): https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/"
 ---
 
 # SOMPO ホールディングス (Sompo Holdings)
@@ -23,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-国内 3 大損保の一角（[[JapanFG/tokio-marine|東京海上 HD]]・[[JapanFG/msad|MS&AD HD]]・SOMPO HD）。**2010-04 旧 [[JapanFG/sompo-japan-insurance|損保ジャパン]] + 日本興亜損保 経営統合**で NKSJ HD として発足、2014-09 ソンポ HD → 2016-10 SOMPO HD 改称。**「テーマパーク戦略」**で 損保 + 生保 + **介護（SOMPO ケア = 国内介護最大手）** + デジタル + 海外保険（**Sompo International**, 2017 約 6300 億円で旧 Endurance 買収）を 5 本柱。**2023-2024 ビッグモーター不正修理問題**で損保ジャパンが業務改善命令を受け、ガバナンス再建が現在の最大論点 ^[ambiguous]。東証 PRIME 8630。^[extracted]
+国内 3 大損保の一角（[[JapanFG/tokio-marine|東京海上 HD]]・[[JapanFG/msad|MS&AD HD]]・SOMPO HD）。**2010-04 旧 [[JapanFG/sompo-japan-insurance|損保ジャパン]] + 日本興亜損保 経営統合**で NKSJ HD として発足、2014-09 ソンポ HD → 2016-10 SOMPO HD 改称。**「テーマパーク戦略」**で 損保 + 生保 + **介護（SOMPO ケア = 国内介護最大手）** + デジタル + 海外保険（**Sompo International**, 2017 約 6300 億円で旧 Endurance 買収）を 5 本柱。**2023-2024 ビッグモーター不正修理問題**で損保ジャパンが金融庁から業務改善命令（2024）を受けた。東証 PRIME 8630。^[extracted]
 
 ## 1. 会社概要
 
@@ -133,7 +135,7 @@ SOMPO HD（持株会社・上場 8630）
 ### デジタル
 
 - **SOMPO Digital Lab**（東京・シリコンバレー・テルアビブ）
-- **Palantir 戦略提携**（公開情報レベルで報じられた範囲）：データ分析基盤 ^[ambiguous]
+- **Palantir 戦略提携**（2020）：SOMPO HD が Palantir Technologies に約 5 億米ドル（約 540 億円）出資。SOMPO HD・Palantir・Palantir Japan の 3 者で Palantir Foundry を基盤とする「安心・安全・健康のリアルデータプラットフォーム (RDP)」を立ち上げ、介護・健康分野を起点にグループ内外データを統合分析
 - 介護データ + 損保データの統合プラットフォーム構想
 
 ### ビッグモーター事件以降のガバナンス改善 (FY2024 進捗) ^[extracted]
@@ -175,6 +177,8 @@ SOMPO HD（持株会社・上場 8630）
 - **Wikipedia: 損害保険ジャパン / SOMPO ケア / Sompo International**（公開情報）
 - **金融庁 業務改善命令**（損保ジャパン宛て, ビッグモーター関連, 2024 公開発表）
 - **公正取引委員会**（3 大損保カルテル疑惑調査関連, 公開発表）
+- **日本経済新聞**「SOMPO、米データ大手パランティアに 540 億円出資」（https://www.nikkei.com/article/DGXMZO60525400Y0A610C2EE9000/, 2020-06）— Palantir 約 5 億米ドル出資の確認
+- **新日本保険新聞**「SOMPO ホールディングス、Palantir と『安心・安全・健康のリアルデータプラットフォーム』を立ち上げ」（https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/, 2020-06-22）— RDP / Palantir Foundry / 3 者提携の確認
 
 ---
 

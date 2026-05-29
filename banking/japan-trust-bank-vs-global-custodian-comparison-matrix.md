@@ -22,9 +22,14 @@ sources:
   - "https://www.custody.jp/"
   - "https://www.custody.jp/recruit/aboutus/about.html"
   - "https://www.custody.jp/recruit/aboutus/business.html"
+  - "https://www.custody.jp/data/disclosure/index.html"
   - "https://www.bnymellon.com/japan/"
   - "https://www.bny.com/corporate/jp/ja/asset-servicing-japan-disclosure.html"
+  - "https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf"
   - "https://www.statestreet.com/jp/"
+  - "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx"
+  - "https://www.sec.gov/Archives/edgar/data/0000019617/000001961724000558/a3q24_earningsxpresentat.htm"
+  - "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q42024/4Q24-earnings-press-release.pdf"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.jasdec.com/en/system/"
@@ -65,7 +70,7 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 | Legal entity type | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 | 信託銀行 (専業) | 信託銀行 (専業) | 信託銀行 | 信託銀行 |
 | License route | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 (custody-only) | 銀行法 + 信託業法 兼営 (custody-only) | 銀行法 + 信託業法 兼営 | 銀行法 + 信託業法 兼営 |
 | Statutory custodian role | 受託 / カストディ / 名義代行 / DVP 決済 | 受託 / カストディ / 名義代行 / DVP 決済 | 受託 / カストディ / 名義代行 / DVP 決済 | リテール信託中心 / カストディ限定 | グループ内信託 + 投信信託受託 | 農林系信託受託 | カストディ + 年金信託 + 投信受託 専業 | カストディ + 年金信託 + 投信受託 専業 | グループ内 + 不動産信託中心 | 証券金融グループ内信託 |
-| AUC / AuA class | ¥100tn+ | ¥10–100tn | ¥100tn+ | <¥10tn | <¥10tn | <¥10tn | ¥700tn+ ^[ambiguous] | ¥600tn+ ^[ambiguous] | <¥10tn | <¥10tn |
+| AUC / AuA class | ¥100tn+ | ¥10–100tn | ¥100tn+ | <¥10tn | <¥10tn | <¥10tn | ¥823tn (受託資産, 2025) | ¥696tn (受託財産合計, 2025-03) | <¥10tn | <¥10tn |
 | Major client types | 公的年金 / 投信 / 機関投資家 / 事業法人 | 投信 / 機関投資家 / 公的年金 | 公的年金 / 投信 / 機関投資家 / 事業法人 | 個人富裕層 / 信託代理 | グループ証券・投信 / 機関投資家 | 農林系金融機関・JA バンク | GPIF / 大手投信 / グローバルカストディ sub-route | 大手投信 / 公的年金 / 機関投資家 | グループ内 / 不動産投資家 | 証券金融子会社 + 機関投資家 |
 | Cross-border custody | あり (海外サブカストディ網) | あり | あり | 限定的 | 限定的 | なし | 海外資産は外資カストディに再委託 | 海外資産は外資カストディに再委託 | なし | なし |
 | DVP-X1/X2/X3 settlement | フル参加 | フル参加 | フル参加 | 部分参加 | 部分参加 | 部分参加 | フル参加 (大量) | フル参加 (大量) | 部分参加 | 部分参加 |
@@ -82,7 +87,7 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 | Legal entity type | 信託銀行 (BNY メロン信託) + 外国銀行支店 (東京支店) + AM 子会社 | 信託銀行 (ステート・ストリート信託) + 外国銀行支店 | 信託銀行 + 外国銀行支店 (JPMorgan Chase Bank N.A. Tokyo) + 証券子会社 | 外国銀行支店 (Citibank N.A. Tokyo) + 証券子会社 (Citigroup Global Markets Japan) |
 | License route | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 信託業法 (信託銀行) | 銀行法 (支店) + 金商法 (証券) |
 | Statutory custodian role | グローバルカストディ / 海外資産保管 / ADR 代理人 / sub-custodian | グローバルカストディ / 公的年金 sub-custodian / 投信 sub-custodian | グローバルカストディ + 機関投資家サービス + ADR 代理人 | グローバルカストディ + ADR 代理人 + 証券業務 |
-| AUC / AuA class (Japan 専有部分) | 非開示 (親会社グローバル AUC/A 約 $50tn ^[extracted]) | 非開示 (親会社グローバル AUC/A 約 $40tn ^[ambiguous]) | 非開示 (親会社グローバル AUC 約 $30tn ^[ambiguous]) | 非開示 (親会社 AUC 約 $20tn ^[ambiguous]) |
+| AUC / AuA class (Japan 専有部分) | 非開示 (親会社グローバル AUC/A 約 $52tn, 2024-12 ^[extracted]) | 非開示 (親会社グローバル AUC/A 約 $46.6tn, 2024-12) | 非開示 (親会社 Securities Services AUC 約 $35.8tn, 2024Q3) | 非開示 (親会社 Securities Services AUC/A 約 $26tn, 2024) |
 | Major client types | GPIF / 公的年金 / 大手投信 / 邦銀海外運用 / 外国年金 / SWF | GPIF / 公的年金 / SSGA 系投信 / 外国年金 / SWF | 米国機関投資家 / 邦銀グローバル分業 / 米国上場日本企業 ADR | 外国年金 / SWF / 邦銀海外運用 / ADR / 米国機関投資家 |
 | Cross-border custody | コア機能 (世界最大) | コア機能 (Custodian + 投信 admin) | コア機能 + 米証券業務一体 | コア機能 + 多通貨決済網 |
 | DVP-X1/X2/X3 settlement | 直接 (信託銀行経由) | 直接 (信託銀行経由) | 直接 (信託銀行経由) | 限定 (証券業務側) |
@@ -137,7 +142,7 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 2. For specialist banks, check whether they are **proper trust bank under 銀行法 + 信託業法** or pure 信託会社 — only the bank route can participate directly in DVP / JGB book-entry.
 3. For global custodians, identify whether the Japan operation has its **own 信託銀行 license** (BNY / State Street / JPM) or operates only via 外国銀行支店 + 証券子会社 route (Citi pattern).
 4. Treat ICSD gateway access (Euroclear / Clearstream) as **the dividing line** between truly global custodians and domestic specialists — domestic specialists usually re-route foreign assets through global custodians.
-5. Source-date all AUC / AuA / 受託資産 figures because they move with market prices and new mandates; the ¥700tn / ¥600tn anchors for Master Trust / CBJ are public-domain summary points but not real-time numbers.
+5. Source-date all AUC / AuA / 受託資産 figures because they move with market prices and new mandates; the Master Trust ¥823tn (2025) and CBJ ¥696tn (2025-03) anchors are official-disclosure summary points but not real-time numbers.
 6. Cross-link client side via [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] to understand mandate flows.
 
 ## Related
@@ -170,10 +175,12 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 ## Sources
 
 - Japan Trust Companies Association: trust-bank explanation, member list, trust assets statistics.
-- Master Trust Bank of Japan: official company / business overview.
-- Custody Bank of Japan: official company / business explanation (incl. 2020-07-27 JTSB + TCSB merger).
-- BNY Mellon Japan: official Japan page and asset-servicing disclosure.
-- State Street Japan: official Japan page.
+- Master Trust Bank of Japan: official company / business overview (受託資産 ¥823tn anchor, https://www.mastertrust.co.jp/about/overview.html).
+- Custody Bank of Japan: official company / business explanation (incl. 2020-07-27 JTSB + TCSB merger); disclosure report 受託財産合計 ¥696tn / 信託財産 ¥476tn as of 2025-03-31 (https://www.custody.jp/data/disclosure/index.html).
+- BNY Mellon Japan: official Japan page and asset-servicing disclosure; group AUC/A $52.1tn as of 2024-12-31 (Q4 2024 earnings release, https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf).
+- State Street Japan: official Japan page; group AUC/A $46.6tn as of 2024-12-31 (Q4/FY2024 results press release, https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx).
+- JP Morgan: Securities Services AUC $35.8tn as of 2024Q3 (JPMorgan Chase 3Q24 earnings presentation, SEC Form 8-K, https://www.sec.gov/Archives/edgar/data/0000019617/000001961724000558/a3q24_earningsxpresentat.htm).
+- Citi: Securities Services AUC/A approx $26tn for 2024 (Citigroup Q4/FY2024 results press release, https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q42024/4Q24-earnings-press-release.pdf).
 - FSA: trust-business financial institution list (信託銀行 section), bank license list, supervisory guideline section.
 - JASDEC: securities book-entry and depository system materials.
 - JSCC: clearing and DVP cash-equity materials.
