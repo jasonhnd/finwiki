@@ -29,7 +29,13 @@
       "intent-based"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.polygon.technology/agglayer/",
+      "https://docs.near.org/chain-abstraction/what-is",
+      "https://docs.eigenlayer.xyz/",
+      "https://docs.cdp.coinbase.com/",
+      "https://docs.layerzero.network/v2"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against ERC-4337 embedded wallet 採用状況 · Privy/Coinbase/Alchemy/Safe for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -75,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2992,
-    "word_like_tokens": 366,
+    "nonspace_chars": 3584,
+    "word_like_tokens": 448,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

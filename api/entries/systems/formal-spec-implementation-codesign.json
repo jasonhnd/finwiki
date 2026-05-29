@@ -32,13 +32,17 @@
       "bft"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://github.com/informalsystems/quint",
+      "https://github.com/informalsystems/malachite"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against Threshold BFT コンセンサス Rust 化トレンド（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
     "形式化仕様 ↔ 実装 co-design",
     "Wiki route",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 6,
@@ -62,9 +66,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 992,
-    "word_like_tokens": 153,
+    "nonspace_chars": 1285,
+    "word_like_tokens": 194,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

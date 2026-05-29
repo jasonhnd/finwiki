@@ -11,7 +11,13 @@ review_by: 2026-11-13
 confidence: certain
 tags: [systems, blockchain, BFT, consensus, mempool, architecture]
 status: candidate
-sources: []
+sources:
+  - https://arxiv.org/abs/1803.05069
+  - https://arxiv.org/abs/2105.11827
+  - https://arxiv.org/abs/2201.05677
+  - https://arxiv.org/abs/2310.14821
+  - https://github.com/informalsystems/malachite
+  - https://tempo.xyz/
 ---
 
 # DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐
@@ -78,3 +84,12 @@ This entry sits under [[systems/INDEX|systems index]]. Read it with [[fintech/IN
 - [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT コンセンサス Rust 化]]
 - [[systems/post-quantum-blockchain-day1-integration|耐量子署名 day-1 統合]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- HotStuff: BFT Consensus in the Lens of Blockchain（Yin et al. 2019）— https://arxiv.org/abs/1803.05069
+- Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus（Danezis et al. 2022）— https://arxiv.org/abs/2105.11827
+- Bullshark: DAG BFT Protocols Made Practical（Spiegelman et al. 2022）— https://arxiv.org/abs/2201.05677
+- Mysticeti: Reaching the Limits of Latency with Uncertified DAGs（Babel et al. 2024）— https://arxiv.org/abs/2310.14821
+- Malachite — Flexible BFT consensus engine in Rust（Arc 採用の Chain-BFT 実装）— https://github.com/informalsystems/malachite
+- Tempo 公式サイト（Chain-BFT 決済 L1 / Threshold Simplex）— https://tempo.xyz/

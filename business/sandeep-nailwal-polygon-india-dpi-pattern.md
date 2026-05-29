@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, polygon, india, dpi, stablecoin, anti-dollar, sandeep-nailwal, pattern]
-sources: []
+sources:
+  - https://www.coindesk.com/tech/2025/06/11/polygons-sandeep-nailwal-takes-over-as-foundation-ceo-amid-strategic-shakeup
+  - https://www.outlookbusiness.com/start-up/news/is-polygon-once-feted-as-indias-only-crypto-decacorn-receding-into-oblivion
+  - https://www.coindesk.com/markets/2025/11/20/india-s-debt-backed-arc-token-eyes-tentative-january-2026-debut-sources-say
+  - https://www.businesstoday.in/technology/news/story/what-is-jiocoin-could-this-blockchain-based-token-be-reliance-jios-entry-into-the-crypto-world-461350-2025-01-20
 status: confirmed
 ---
 
@@ -59,4 +63,9 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Polygon's Sandeep Nailwal Takes Over as Foundation CEO Amid Strategic Shakeup (CoinDesk, 2025-06-11) — https://www.coindesk.com/tech/2025/06/11/polygons-sandeep-nailwal-takes-over-as-foundation-ceo-amid-strategic-shakeup
+- Polygon (formerly Matic), founded by Sandeep Nailwal et al. (2017), India's only crypto decacorn (Outlook Business) — https://www.outlookbusiness.com/start-up/news/is-polygon-once-feted-as-indias-only-crypto-decacorn-receding-into-oblivion
+- India's debt-backed ARC rupee stablecoin (Polygon + Anq) eyes Q1 2026 debut (CoinDesk, 2025-11-20) — https://www.coindesk.com/markets/2025/11/20/india-s-debt-backed-arc-token-eyes-tentative-january-2026-debut-sources-say
+- What is JioCoin? Reliance Jio's Polygon Labs blockchain reward token on JioSphere (Business Today, 2025-01-20) — https://www.businesstoday.in/technology/news/story/what-is-jiocoin-could-this-blockchain-based-token-be-reliance-jios-entry-into-the-crypto-world-461350-2025-01-20
 

@@ -31,13 +31,18 @@
       "arc"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance",
+      "https://www.arc.io/",
+      "https://vitalik.eth.limo/general/2024/05/17/decentralization.html"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
     "L1 渐进式去中心化三阶段路径",
     "Wiki route",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 6,
@@ -61,9 +66,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 967,
-    "word_like_tokens": 140,
+    "nonspace_chars": 1523,
+    "word_like_tokens": 226,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -11,7 +11,10 @@ review_by: 2026-11-16
 confidence: likely
 tags: [fintech, defi, dex, l2, aerodrome, uniswap, base, ve33]
 status: candidate
-sources: []
+sources:
+  - https://github.com/aerodrome-finance/contracts/blob/main/SPECIFICATION.md
+  - https://www.coinbase.com/blog/coinbase-wrapped-btc-cbbtc-is-now-live
+  - https://github.com/Uniswap/v3-core
 ---
 
 # L2 原生 DEX による incumbent 逆転パターン
@@ -70,6 +73,12 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - 投資判断:L2ホスト側がve持分を公的に保有する6ヶ月前に原生DEXへ参入 = 高alpha
 - 規制リスク:逆転イベントがSECの「未登録証券販売」関心を惹起する可能性
 
+
+## Sources
+
+- Aerodrome Finance コントラクト仕様（Velodrome/Solidly 由来の ve(3,3) DEX・veAERO 投票による emission 誘導という逆転メカニズムの一次資料） — https://github.com/aerodrome-finance/contracts/blob/main/SPECIFICATION.md
+- Coinbase 公式ブログ「Coinbase Wrapped BTC (cbBTC) is now live」（Base ネイティブ wrapped 資産 cbBTC と Aerodrome 統合） — https://www.coinbase.com/blog/coinbase-wrapped-btc-cbbtc-is-now-live
+- Uniswap v3-core リポジトリ（incumbent 反例: emission/bribe 機構を持たない集中流動性 DEX） — https://github.com/Uniswap/v3-core
 
 ## Related
 <!-- wiki-links:managed -->

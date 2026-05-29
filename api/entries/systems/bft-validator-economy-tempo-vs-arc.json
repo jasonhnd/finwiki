@@ -31,7 +31,12 @@
       "progressive-decentralization"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://tempo.xyz/",
+      "https://www.arc.io/",
+      "https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance",
+      "https://www.canton.network/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -75,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2858,
-    "word_like_tokens": 425,
+    "nonspace_chars": 3342,
+    "word_like_tokens": 504,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

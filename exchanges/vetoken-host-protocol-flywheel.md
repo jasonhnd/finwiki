@@ -11,7 +11,9 @@ review_by: 2026-11-16
 confidence: certain
 tags: [fintech, defi, dex, vetoken, l2, base, aerodrome, coinbase, flywheel]
 status: candidate
-sources: []
+sources:
+  - https://github.com/aerodrome-finance/contracts/blob/main/SPECIFICATION.md
+  - https://www.coinbase.com/blog/coinbase-wrapped-btc-cbbtc-is-now-live
 ---
 
 # veToken × ホスト・プロトコル DEX 自己循環フライホイール
@@ -67,6 +69,11 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - フライホイールはincumbentによる反撃を受ける可能性あり(UniswapがBaseで防衛失敗した事例が直接の例)
 - 規制側(SEC / OCC)が「未登録証券販売」と認定した場合、フライホイールは切断され得る
 
+
+## Sources
+
+- Aerodrome Finance コントラクト仕様（veAERO ロック・週次 emission 誘導治理という ve(3,3) 中核メカニズムの一次資料） — https://github.com/aerodrome-finance/contracts/blob/main/SPECIFICATION.md
+- Coinbase 公式ブログ「Coinbase Wrapped BTC (cbBTC) is now live」（cbBTC が Coinbase の Base ネイティブ wrapped BTC で、Aerodrome を含む DApp に対応） — https://www.coinbase.com/blog/coinbase-wrapped-btc-cbbtc-is-now-live
 
 ## Related
 <!-- wiki-links:managed -->

@@ -32,7 +32,12 @@
       "larry-fink"
     ],
     "status": "confirmed",
-    "sources": []
+    "sources": [
+      "https://techcrunch.com/2022/08/04/blackrock-crypto-bitcoin-coinbase-larry-fink-partnership/",
+      "https://fortune.com/crypto/2024/01/18/blackrock-spot-bitcoin-etf-1-billion-assets-under-managment-aum/",
+      "https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network",
+      "https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter"
+    ]
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against 主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo 事例 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -74,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3115,
-    "word_like_tokens": 445,
+    "nonspace_chars": 4211,
+    "word_like_tokens": 617,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

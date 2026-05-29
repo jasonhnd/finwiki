@@ -11,7 +11,10 @@ review_by: 2026-11-16
 confidence: certain
 tags: [systems, blockchain, l1, decentralization, governance, consensus, arc]
 status: candidate
-sources: []
+sources:
+  - https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance
+  - https://www.arc.io/
+  - https://vitalik.eth.limo/general/2024/05/17/decentralization.html
 ---
 
 # L1 渐进式去中心化三阶段路径
@@ -28,3 +31,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - [[systems/threshold-bft-consensus-rust-implementations|BFT Rust 実装]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币公链 Token 三态]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- Circle「Introducing Arc」公式発表（漸進的非中央集権化の機関 L1 事例）— https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance
+- Arc 公式サイト（Circle 機関級 L1）— https://www.arc.io/
+- Vitalik Buterin「improving the Ethereum network's permissionlessness and decentralization」（非中央集権化の指標）— https://vitalik.eth.limo/general/2024/05/17/decentralization.html

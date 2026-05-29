@@ -8,7 +8,12 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, jamie-dimon, jpm, kinexys, jpmd, base, pivot, case-study]
-sources: []
+sources:
+  - https://www.coindesk.com/markets/2017/09/12/jamie-dimon-bitcoin-is-a-fraud
+  - https://www.coindesk.com/business/2024/01/17/jamie-dimon-bashes-bitcoin-again-a-pet-rock
+  - https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html
+  - https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys
+  - https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report
 status: confirmed
 ---
 
@@ -60,4 +65,10 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Jamie Dimon: Bitcoin Is a 'Fraud' (CoinDesk, 2017-09-12) — https://www.coindesk.com/markets/2017/09/12/jamie-dimon-bitcoin-is-a-fraud
+- Jamie Dimon Bashes Bitcoin Again: 'A Pet Rock' (Davos, CoinDesk, 2024-01-17) — https://www.coindesk.com/business/2024/01/17/jamie-dimon-bashes-bitcoin-again-a-pet-rock
+- JPMorgan rolling out first US bank-backed cryptocurrency, JPM Coin (CNBC, 2019-02-13) — https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html
+- Introducing Kinexys (Onyx rebrand, J.P. Morgan official) — https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys
+- JPMorgan Rolls Out JPM Coin (JPMD) Leveraging Coinbase's Base (CoinDesk, 2025-11-12) — https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report
 

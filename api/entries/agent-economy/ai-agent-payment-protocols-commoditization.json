@@ -31,7 +31,13 @@
       "value-capture"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://tempo.xyz/",
+      "https://docs.cdp.coinbase.com/",
+      "https://github.com/coinbase/x402",
+      "https://github.com/google-agentic-commerce/AP2"
+    ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against payments index for peer / contrast context and systems index for the broader system / regulatory boundary.",
   "headings": [
@@ -75,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3002,
-    "word_like_tokens": 439,
+    "nonspace_chars": 3611,
+    "word_like_tokens": 533,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

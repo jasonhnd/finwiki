@@ -8,7 +8,14 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, validator, bft, staking, mev, slashing, decentralization]
-sources: []
+sources:
+  - https://ethereum.org/en/staking/
+  - https://github.com/flashbots/mev-boost
+  - https://vitalik.eth.limo/general/2024/05/17/decentralization.html
+  - https://docs.eigenlayer.xyz/
+  - https://tempo.xyz/
+  - https://www.arc.io/
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -63,4 +70,12 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Ethereum.org Staking（PoS yield / validator / slashing）— https://ethereum.org/en/staking/
+- Flashbots mev-boost（MEV / builder マーケット）— https://github.com/flashbots/mev-boost
+- Vitalik Buterin「improving the Ethereum network's permissionlessness and decentralization」（集中度 / Lido）— https://vitalik.eth.limo/general/2024/05/17/decentralization.html
+- EigenLayer 公式ドキュメント（restaking）— https://docs.eigenlayer.xyz/
+- Tempo 公式サイト（機関級チェーンの validator 設計）— https://tempo.xyz/
+- Arc 公式サイト（Circle 機関級 L1）— https://www.arc.io/
+- Canton Network（許可型機関チェーン）— https://www.canton.network/
 

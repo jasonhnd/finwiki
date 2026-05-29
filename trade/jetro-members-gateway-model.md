@@ -11,7 +11,9 @@ review_by: 2026-10-30
 confidence: certain
 tags: [trade]
 status: confirmed
-sources: []
+sources:
+  - https://www.jetro.go.jp/members/
+  - https://www.jetro.go.jp/jetro/profile/
 ---
 
 # JETRO Members 有料会員制は B2B 提案の入口ゲート
@@ -36,6 +38,11 @@ This entry sits under [[trade/jetro-organization-structure|JETRO は会員組織
 
 参考: https://www.jetro.go.jp/members/
 来源: 公開情報整理 (JETRO 公式メンバーズ案内 https://www.jetro.go.jp/members/, 経産省通商政策局公表資料, JETRO J-StarX プログラム公表)
+
+## Sources
+
+- ジェトロ・メンバーズ公式案内（有料会員制度・年会費・会員限定サービス） — https://www.jetro.go.jp/members/
+- JETRO 組織概要（JETRO が独立行政法人であることの確認） — https://www.jetro.go.jp/jetro/profile/
 
 ## Related
 <!-- wiki-links:managed -->

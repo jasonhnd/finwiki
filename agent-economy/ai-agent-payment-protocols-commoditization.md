@@ -8,7 +8,12 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, ai-agent, payments, commoditization, stripe, privy, value-capture]
-sources: []
+sources:
+  - https://privy.io/blog/announcing-our-acquisition-by-stripe
+  - https://tempo.xyz/
+  - https://docs.cdp.coinbase.com/
+  - https://github.com/coinbase/x402
+  - https://github.com/google-agentic-commerce/AP2
 status: candidate
 ---
 
@@ -68,4 +73,10 @@ Stripe 5層フルスタックのロジック:
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Privy「Privy and Stripe: Bringing crypto to everyone」（Stripe による wallet 層買収）— https://privy.io/blog/announcing-our-acquisition-by-stripe
+- Tempo 公式サイト（Stripe + Paradigm の決済 L1 · チェーン層）— https://tempo.xyz/
+- Coinbase Developer Platform（対照路線 Base + CDP + USDC + Commerce）— https://docs.cdp.coinbase.com/
+- Coinbase x402（プロトコル層の公共財 commoditization）— https://github.com/coinbase/x402
+- Google AP2（プロトコル覇権の対照 · Stripe は不参加）— https://github.com/google-agentic-commerce/AP2
 

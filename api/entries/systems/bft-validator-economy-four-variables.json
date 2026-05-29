@@ -30,7 +30,12 @@
       "nakamoto-coefficient"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://ethereum.org/en/staking/",
+      "https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/README.md",
+      "https://github.com/flashbots/mev-boost",
+      "https://vitalik.eth.limo/general/2024/05/17/decentralization.html"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against BFT validator 経済学概観 · 4変数と機関チェーンの退化 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -70,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2820,
-    "word_like_tokens": 429,
+    "nonspace_chars": 3449,
+    "word_like_tokens": 526,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

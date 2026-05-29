@@ -11,7 +11,10 @@ review_by: 2026-11-16
 confidence: certain
 tags: [systems, rollup, fault-proof, zk, tee, optimistic, base, l2, rust]
 status: candidate
-sources: []
+sources:
+  - https://docs.optimism.io/op-stack/fault-proofs/explainer
+  - https://specs.optimism.io/fault-proof/index.html
+  - https://github.com/ethereum-optimism/optimism
 ---
 
 # 多証明システム集約 fault prover アーキテクチャ
@@ -28,3 +31,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - [[systems/post-quantum-blockchain-day1-integration|耐量子 day-1]]
 - [[systems/formal-spec-implementation-codesign|形式仕様 co-design]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- Optimism「Fault proofs explainer」（modular multi-proof system の基盤）— https://docs.optimism.io/op-stack/fault-proofs/explainer
+- OP Stack Fault Proof 仕様（Program / VM / Interactive Dispute Game）— https://specs.optimism.io/fault-proof/index.html
+- ethereum-optimism/optimism モノレポ（op-challenger / fault-proof 実装）— https://github.com/ethereum-optimism/optimism

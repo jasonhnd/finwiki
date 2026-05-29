@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, sbi, japan, circle, ripple, independent-strategy, kitao-yoshitaka, case-study]
-sources: []
+sources:
+  - https://www.circle.com/pressroom/circle-strengthens-commitment-to-japan-with-new-investment-and-expanded-usdc-access
+  - https://corp.sbishinseibank.co.jp/en/news/news/20250609a.html
+  - https://www.coindesk.com/markets/2025/03/25/circle-launches-usdc-in-japan-with-sbi-partnership
+  - https://ripple.com/insights/sbi-holdings-views-on-blockchain-and-xrp-an-interview-with-yoshitaka-kitao/
 status: confirmed
 ---
 
@@ -58,4 +62,9 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Circle strengthens commitment to Japan: SBI joint venture and expanded USDC access (Yoshitaka Kitao quoted) (Circle official) — https://www.circle.com/pressroom/circle-strengthens-commitment-to-japan-with-new-investment-and-expanded-usdc-access
+- Notice regarding investment in Circle — $50M total ($25M each by SBI Holdings & SBI Shinsei Bank); JV Circle SBI Japan KK (SBI Shinsei Bank official) — https://corp.sbishinseibank.co.jp/en/news/news/20250609a.html
+- Circle to Launch USDC in Japan With SBI Partnership (CoinDesk, 2025-03-25) — https://www.coindesk.com/markets/2025/03/25/circle-launches-usdc-in-japan-with-sbi-partnership
+- SBI Holdings' views on blockchain and XRP — interview with Yoshitaka Kitao (Ripple official) — https://ripple.com/insights/sbi-holdings-views-on-blockchain-and-xrp-an-interview-with-yoshitaka-kitao/
 

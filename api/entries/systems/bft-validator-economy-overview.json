@@ -30,7 +30,15 @@
       "decentralization"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://ethereum.org/en/staking/",
+      "https://github.com/flashbots/mev-boost",
+      "https://vitalik.eth.limo/general/2024/05/17/decentralization.html",
+      "https://docs.eigenlayer.xyz/",
+      "https://tempo.xyz/",
+      "https://www.arc.io/",
+      "https://www.canton.network/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against BFT validator 経済の4変数 · yield / slashing / MEV / 集中度 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -72,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2696,
-    "word_like_tokens": 398,
+    "nonspace_chars": 3450,
+    "word_like_tokens": 511,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

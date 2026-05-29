@@ -11,7 +11,9 @@ review_by: 2026-10-30
 confidence: certain
 tags: [banking, fintech, crypto-exchange, oauth, payment-ux, integration]
 status: confirmed
-sources: []
+sources:
+  - https://www.fsa.go.jp/common/shinsei/dendai/01.pdf
+  - https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf
 evidence_count: 2
 type: wiki
 ---
@@ -90,6 +92,11 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 - [[banking/mercari-bank-license-stack|mercari-bank-license-stack]] — 電代業を含むライセンス階段の具体例
 
 来源: 公開情報整理 (各 BaaS 提供銀行公式サイト・FSA 電代業登録一覧・全国銀行協会発表資料)
+
+## Sources
+
+- 金融庁「電子決済等代行業者の登録申請時の留意事項等」（2017年銀行法改正による登録制の導入・銀行法第2条第21項第1号 為替指図/更新系 と 第2号 口座情報取得/参照系 の区別） — https://www.fsa.go.jp/common/shinsei/dendai/01.pdf
+- 金融庁「電子決済等代行業制度の概要」パンフレット（制度趣旨・オープンイノベーション） — https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf
 
 ## Related
 <!-- wiki-links:managed -->

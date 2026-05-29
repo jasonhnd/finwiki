@@ -32,7 +32,12 @@
       "intent"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.polygon.technology/agglayer/",
+      "https://docs.near.org/chain-abstraction/what-is",
+      "https://github.com/near/mpc",
+      "https://docs.eigenlayer.xyz/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -76,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3214,
-    "word_like_tokens": 472,
+    "nonspace_chars": 3657,
+    "word_like_tokens": 538,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

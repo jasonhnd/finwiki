@@ -8,7 +8,12 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, chain-abstraction, embedded-wallet, ux, intent-based]
-sources: []
+sources:
+  - https://docs.polygon.technology/agglayer/
+  - https://docs.near.org/chain-abstraction/what-is
+  - https://docs.eigenlayer.xyz/
+  - https://docs.cdp.coinbase.com/
+  - https://docs.layerzero.network/v2
 status: candidate
 ---
 
@@ -64,4 +69,10 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Polygon AggLayer 公式ドキュメント（共有流動性 + 統一ブリッジ）— https://docs.polygon.technology/agglayer/
+- NEAR Chain Abstraction 公式ドキュメント（Chain Signatures + Intents）— https://docs.near.org/chain-abstraction/what-is
+- EigenLayer 公式ドキュメント（restaking / 共有セキュリティ）— https://docs.eigenlayer.xyz/
+- Coinbase Developer Platform（Base + Smart Wallet のエンドツーエンド事例）— https://docs.cdp.coinbase.com/
+- LayerZero v2 公式ドキュメント（omnichain messaging）— https://docs.layerzero.network/v2
 

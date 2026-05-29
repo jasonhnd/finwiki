@@ -8,7 +8,12 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, tether, stablecoin, treasury, business-model, paolo-ardoino, template]
-sources: []
+sources:
+  - https://tether.io/news/tether-delivers-10b-profits-in-2025-6-3b-in-excess-reserves-and-record-141-billion-exposure-in-u-s-treasury-holdings/
+  - https://protos.com/tether-timeline-the-history-of-crypto-stablecoin-usdt/
+  - https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal
+  - https://fortune.com/2021/10/15/tether-crypto-stablecoin-fined-reserves/
+  - https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/
 status: confirmed
 ---
 
@@ -59,4 +64,10 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Tether 2025 attestation: $10B+ profit, record ~$135B-$141B U.S. Treasury exposure (Tether official) — https://tether.io/news/tether-delivers-10b-profits-in-2025-6-3b-in-excess-reserves-and-record-141-billion-exposure-in-u-s-treasury-holdings/
+- Tether timeline: 2014 Realcoin founding and Bitfinex ties (Protos) — https://protos.com/tether-timeline-the-history-of-crypto-stablecoin-usdt/
+- AG James ends Bitfinex's illegal activities — $18.5M settlement (NY Attorney General, 2021-02-23) — https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal
+- Tether fined $41 million by CFTC over reserve claims (Fortune, 2021-10-15) — https://fortune.com/2021/10/15/tether-crypto-stablecoin-fined-reserves/
+- Tether announces USA₮, federally regulated stablecoin issued by Anchorage Digital Bank (Tether official) — https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/
 

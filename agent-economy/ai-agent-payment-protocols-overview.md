@@ -8,7 +8,13 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, ai-agent, payments, protocol, ap2, x402, mcp]
-sources: []
+sources:
+  - https://github.com/google-agentic-commerce/AP2
+  - https://github.com/coinbase/x402
+  - https://github.com/modelcontextprotocol/modelcontextprotocol
+  - https://github.com/a2aproject/A2A
+  - https://www.agentcommercekit.com/overview/concepts
+  - https://www.bis.org/about/bisih/topics/fmis/agora.htm
 status: candidate
 ---
 
@@ -57,4 +63,11 @@ This entry sits under [[agent-economy/INDEX|agent-economy INDEX]]. Read it again
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Google AP2（Agent Payments Protocol · 意図層 mandate）— https://github.com/google-agentic-commerce/AP2
+- Coinbase x402（HTTP 402 ネイティブ決済 · 伝送層）— https://github.com/coinbase/x402
+- Model Context Protocol（Anthropic · LLM ↔ tools · 文脈層）— https://github.com/modelcontextprotocol/modelcontextprotocol
+- Agent2Agent (A2A) Protocol（agent 間通信）— https://github.com/a2aproject/A2A
+- Agent Commerce Kit（Catena Labs · ACK-ID / ACK-Pay）— https://www.agentcommercekit.com/overview/concepts
+- BIS Project Agorá（プロトコル層への公式裏書き）— https://www.bis.org/about/bisih/topics/fmis/agora.htm
 

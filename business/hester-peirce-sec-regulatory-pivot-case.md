@@ -8,7 +8,12 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, sec, regulation, crypto-mom, hester-peirce, case-study, ideology]
-sources: []
+sources:
+  - https://www.sec.gov/newsroom/speeches-statements/peirce-dissent-34-83723
+  - https://www.sec.gov/newsroom/speeches-statements/peirce-statement-token-safe-harbor-proposal-20
+  - https://www.sec.gov/newsroom/press-releases/2025-30
+  - https://www.coindesk.com/policy/2025/01/21/sec-forms-new-crypto-task-force-spearheaded-by-hester-peirce
+  - https://www.coindesk.com/policy/2025/02/27/coinbase-case-dropped-by-u-s-sec-as-agency-reverses-crypto-stance
 status: confirmed
 ---
 
@@ -59,4 +64,10 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Dissent of Commissioner Hester M. Peirce on Winklevoss Bitcoin Trust (Release 34-83723, SEC, 2018-07-26) — https://www.sec.gov/newsroom/speeches-statements/peirce-dissent-34-83723
+- Token Safe Harbor Proposal 2.0 — three-year grace period (Commissioner Peirce, SEC) — https://www.sec.gov/newsroom/speeches-statements/peirce-statement-token-safe-harbor-proposal-20
+- SEC announces formation of Crypto Task Force led by Commissioner Peirce (SEC press release 2025-30, 2025-01-21) — https://www.sec.gov/newsroom/press-releases/2025-30
+- SEC Forms New Crypto Task Force Spearheaded by 'Crypto Mom' Hester Peirce (CoinDesk, 2025-01-21) — https://www.coindesk.com/policy/2025/01/21/sec-forms-new-crypto-task-force-spearheaded-by-hester-peirce
+- Coinbase Case Dropped by U.S. SEC as Agency Reverses Crypto Stance (CoinDesk, 2025-02-27) — https://www.coindesk.com/policy/2025/02/27/coinbase-case-dropped-by-u-s-sec-as-agency-reverses-crypto-stance
 
