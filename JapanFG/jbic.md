@@ -95,7 +95,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 民間金融機関との関係
 
 - 「**民業補完**」原則: 民間金融機関のみではリスクテイク困難な案件を補完（途上国 sovereign リスク / 長期プロジェクトファイナンス / 政治リスクのある案件 等）
-- ただし「政策金融による民業圧迫」批判の論点が常に存在 ^[ambiguous]
 
 ### 経済安全保障シフト（2022〜）
 

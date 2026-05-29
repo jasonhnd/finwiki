@@ -38,7 +38,9 @@
       "https://www.zengyoren.or.jp/about/",
       "https://www.jfmbk.org/",
       "https://www.jfmbk.org/about/housin.html",
-      "水産業協同組合法 (昭和 23 年法律第 242 号)"
+      "水産業協同組合法 (昭和 23 年法律第 242 号)",
+      "みなと新聞「全漁連22年度売上高6%増/イワシ輸出が好調」(https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/134074, 2026-05-29 参照: 2022年度 売上高 934億2000万円)",
+      "JFグループの概要 (https://www.zengyoren.or.jp/about/summary-jfgroup/, 2026-05-29 参照: 系統販売・購買取扱高)"
     ]
   },
   "summary": "This entry sits under JapanFG index as the JF Group national representative federation, parallel to JA 全中 in the agricultural cooperative system. Read with 農林中央金庫 for the central financial institution, JF Marine Bank system for the credit system boundary, and cooperative banking domain for the broad",
@@ -86,8 +88,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5028,
-    "word_like_tokens": 758,
+    "nonspace_chars": 5544,
+    "word_like_tokens": 868,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

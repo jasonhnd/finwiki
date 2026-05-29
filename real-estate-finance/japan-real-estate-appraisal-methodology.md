@@ -23,6 +23,7 @@ sources:
   - "https://www.mlit.go.jp/totikensangyo/totikensangyo_tk2_000001.html"
   - "https://www.jpx.co.jp/english/markets/products/reit/index.html"
   - "https://www.fsa.go.jp/en/"
+  - "https://www.reinet.or.jp/pdf/REIS/publication_data50th.pdf"
 ---
 
 # Japan real-estate appraisal methodology
@@ -113,7 +114,7 @@ The JREI (日本不動産研究所) cap-rate survey is the de facto benchmark fo
 | Methodology | Survey of institutional investors and asset managers for expected cap rate by property type and location |
 | Public surface | Headline summary; full data is paid product |
 
-The JREI survey produces benchmark cap rates that J-REIT appraisers and CMBS appraisers reference when calibrating direct-cap inputs. Recent public-source data shows Tokyo grade-A office cap rates have compressed to around 3.0-3.5% (semi-annual survey), Tokyo logistics cap rates around 3.5-4.5%, and other property types and locations at varying premiums. ^[ambiguous] Cap rates have moved through cycles in line with the Japan interest-rate environment.
+The JREI survey produces benchmark cap rates that J-REIT appraisers and CMBS appraisers reference when calibrating direct-cap inputs. Per the JREI 第50回 不動産投資家調査 (April 2024), the Marunouchi / Otemachi grade-A office expected cap rate was 3.2% (flat for three consecutive surveys), and the Tokyo (Tama) multi-tenant inland logistics cap rate was 4.1% — consistent with Tokyo grade-A office cap rates in the ~3.0-3.5% band and Tokyo logistics in the ~3.5-4.5% band, with other property types and locations at varying premiums. Cap rates have moved through cycles in line with the Japan interest-rate environment.
 
 ### Cap rate vs Japan rate environment
 
@@ -249,7 +250,7 @@ The appraiser is engaged by the asset manager but is required to be independent 
 ## Sources
 
 - ARES (Association for Real Estate Securitization): Japan real-estate securitization market summary statistics.
-- JREI (Japan Real Estate Institute): cap-rate survey and appraisal-methodology surface.
+- JREI (Japan Real Estate Institute): cap-rate survey and appraisal-methodology surface. 第50回 不動産投資家調査 (2024-04) — https://www.reinet.or.jp/pdf/REIS/publication_data50th.pdf — Marunouchi/Otemachi grade-A office 3.2%, Tokyo (Tama) multi-tenant inland logistics 4.1%.
 - MLIT: 不動産鑑定評価基準 (Real Estate Appraisal Standards); 公示地価 land-price benchmark.
 - JPX: J-REIT periodic-reporting and disclosure framework.
 - FSA: investment-product regulation and J-REIT disclosure framework.

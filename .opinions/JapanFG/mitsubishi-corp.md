@@ -54,3 +54,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **EX (Energy Transformation)** + **DX** + **MC Shared Value** を三本柱とする中期経営計画
 - 三菱商事自身は OPEX 重視 (CAPEX は事業会社・JV に切り出し)、近年は **株主還元加速** (累進配当 + 大規模自社株買い) で PBR 1.0x 超を維持
 - **Berkshire Hathaway** が 2020 年以降、5 大商社株を継続買い増し (報道ベース、約 9% 級まで上昇)、商社株のリレーティング材料となった
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+### Counterpoint — ローソン非公開化の効果 ^[inferred]
+
+- **「ローソン非公開化の効果」**: KDDI 50/50 体制 + TOB 後の statement-of-strategy が、コンビニ事業のリテール金融・ヘルスケア連携にどれだけ寄与するか未確定。将来予測・評価のため本文から分離。

@@ -34,7 +34,8 @@
       "Wikipedia: SBIインシュアランスグループ (2026-05-19 抽出)",
       "Wikipedia: SBI損害保険 (2026-05-19 抽出)",
       "Wikipedia: SBI生命保険 (2026-05-19 抽出)",
-      "SBI HD 公式・保険事業 IR (2026-05-19 抽出)"
+      "SBI HD 公式・保険事業 IR (2026-05-19 抽出)",
+      "SBI インシュアランスグループ IR 株式情報 (https://www.sbiig.co.jp/ir/stock/information.html, 2026-05-29 参照: 東証グロース 7326 上場継続確認)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against SBI証券 (SBI Securities) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -82,8 +83,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3692,
-    "word_like_tokens": 591,
+    "nonspace_chars": 4140,
+    "word_like_tokens": 675,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

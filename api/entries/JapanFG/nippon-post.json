@@ -33,7 +33,10 @@
     "sources": [
       "Wikipedia: 日本郵政 (2026-05-19 抽出)",
       "Wikipedia: ゆうちょ銀行 / かんぽ生命保険 (2026-05-19 抽出)",
-      "郵政民営化法 / 日本郵政株式会社法 公開条文"
+      "郵政民営化法 / 日本郵政株式会社法 公開条文",
+      "楽天グループ 公式プレスリリース「日本郵政グループと楽天グループ、資本・業務提携に合意」(2021-03-12) — https://corp.rakuten.co.jp/news/press/2021/0312_02.html",
+      "Bloomberg「日本郵政が楽天に1500億円出資、資本業務提携－物流以外も連携へ」(2021-03-12) — https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01",
+      "日本経済新聞「日本郵政、楽天G株で850億円の特損計上 23年4〜6月」 — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against かんぽ生命保険 (Japan Post Insurance) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -81,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4237,
-    "word_like_tokens": 659,
+    "nonspace_chars": 4982,
+    "word_like_tokens": 790,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

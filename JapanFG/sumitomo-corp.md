@@ -105,8 +105,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## 6. Counterpoints
 
-- **「マダガスカル ニッケル (Ambatovy) の収益化」**: 過去に巨額減損計上、長期収益化への疑問 ^[ambiguous]
-
 ## 7. Open questions
 
 - **マダガスカル ニッケル (Ambatovy)** の長期収益化、EV 電池需要との接続

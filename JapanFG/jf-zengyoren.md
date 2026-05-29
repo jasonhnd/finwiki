@@ -22,6 +22,8 @@ sources:
   - "https://www.jfmbk.org/"
   - "https://www.jfmbk.org/about/housin.html"
   - "水産業協同組合法 (昭和 23 年法律第 242 号)"
+  - "みなと新聞「全漁連22年度売上高6%増/イワシ輸出が好調」(https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/134074, 2026-05-29 参照: 2022年度 売上高 934億2000万円)"
+  - "JFグループの概要 (https://www.zengyoren.or.jp/about/summary-jfgroup/, 2026-05-29 参照: 系統販売・購買取扱高)"
 ---
 # JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)
 
@@ -159,8 +161,10 @@ JF (漁業協同組合) グループ
 - 水産業協同組合法 (昭和 23 年法律第 242 号)
 - 漁業法 (2018 改正)
 - 規制改革会議 漁協改革議事録
+- **みなと新聞「全漁連 22 年度売上高 6% 増 / イワシ輸出が好調」**（https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/134074, 2026-05-29 参照）── JF 全漁連 (連合会単体) 2022 年度 売上高 934 億 2,000 万円
+- **JF グループの概要**（https://www.zengyoren.or.jp/about/summary-jfgroup/, 2026-05-29 参照）── 系統 (JF・県域 JF) 販売取扱高・購買取扱高の規模感
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (JF 全漁連公式 + JF Marine Bank 公式 + 水協法 + 漁業法改正資料) ベース。会員 JF 数 71 組合 + 信漁連 10 連合は 2025-04-01 時点 (農林中金公開資料による) ^[extracted]。事業取扱高数千億円規模 ^[ambiguous] は概数、最新は年次報告書を要参照。
+> confidence: **likely**。公開情報 (JF 全漁連公式 + JF Marine Bank 公式 + 水協法 + 漁業法改正資料) ベース。会員 JF 数 71 組合 + 信漁連 10 連合は 2025-04-01 時点 (農林中金公開資料による) ^[extracted]。JF 全漁連 (連合会単体) の 2022 年度 売上高は **約 934 億円**（前年度比 +6%、みなと新聞 2023 報道）で **数百億円規模**。最新は年次報告書を要参照。
