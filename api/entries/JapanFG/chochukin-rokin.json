@@ -38,8 +38,9 @@
     "sources": [
       "https://chuo.rokin.com/",
       "https://chuo.rokin.com/about/",
-      "https://chuo.rokin.com/about/profile/",
+      "https://chuo.rokin.com/aboutus/profile/",
       "https://www.rokinren.com/",
+      "https://www.rokinren.com/keieishihyo-suii.html",
       "https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx",
       "労働金庫法 (昭和 28 年法律第 227 号)"
     ]
@@ -54,7 +55,7 @@
     "重要年表 ^[extracted]",
     "主要業務 ^[extracted]",
     "ALM・資金フロー ^[extracted]",
-    "規模感 (推定 / 2024〜2025) ^[extracted]",
+    "規模感 (2025-03 末) ^[extracted]",
     "13 ろうきん内の代表性"
   ],
   "body_links": {
@@ -93,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5318,
-    "word_like_tokens": 814,
+    "nonspace_chars": 5737,
+    "word_like_tokens": 911,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

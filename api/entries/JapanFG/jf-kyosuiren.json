@@ -36,7 +36,10 @@
     ],
     "status": "active",
     "sources": [
-      "https://www.jf-kyosui.or.jp/",
+      "https://www.kyosuiren.or.jp/",
+      "https://www.kyosuiren.or.jp/about/kyosuiren/",
+      "https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf",
+      "https://www.jf-kyosai.jp/about/",
       "https://www.zengyoren.or.jp/",
       "https://www.jfmbk.org/",
       "https://www.nochubank.or.jp/about/features.html",
@@ -94,8 +97,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4904,
-    "word_like_tokens": 794,
+    "nonspace_chars": 5839,
+    "word_like_tokens": 1030,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

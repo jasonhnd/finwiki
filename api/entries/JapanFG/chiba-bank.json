@@ -32,7 +32,8 @@
     "status": "active",
     "sources": [
       "Wikipedia: 株式会社千葉銀行 (2026-05-19 抽出)",
-      "千葉銀行 公式 IR / 沿革 (2025 開示資料)"
+      "千葉銀行 公式 IR / 沿革 (2025 開示資料)",
+      "千葉銀行 2025年3月期 決算短信〔日本基準〕（連結）(2025-05-08): https://ssl4.eir-parts.net/doc/8331/tdnet/2603982/00.pdf"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 群馬銀行 (The Gunma Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -41,7 +42,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要数値（公開）^[extracted]",
+    "主要数値（2025-03 期・連結）^[extracted]",
     "主要子会社・関連会社（公開）",
     "前身・統合歴史",
     "重要年表（抜粋）^[extracted]",
@@ -80,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3414,
-    "word_like_tokens": 510,
+    "nonspace_chars": 4068,
+    "word_like_tokens": 662,
     "inbound_wikilinks_count": 14,
     "last_modified": "2026-05-29"
   }

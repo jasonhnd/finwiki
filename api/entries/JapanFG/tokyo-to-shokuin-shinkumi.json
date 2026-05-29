@@ -36,6 +36,9 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.toshokushin.co.jp/",
+      "https://ja.wikipedia.org/wiki/東京都職員信用組合",
+      "https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf",
       "https://www.shinyokumiai.or.jp/",
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
@@ -50,7 +53,7 @@
     "組合員資格 ^[extracted]",
     "全信組連内の位置付け",
     "主要業務 ^[extracted]",
-    "5. KPI (推定) ^[ambiguous]",
+    "5. KPI",
     "6. 監督・規制",
     "Related",
     "Sources"
@@ -81,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3315,
-    "word_like_tokens": 437,
+    "nonspace_chars": 4072,
+    "word_like_tokens": 626,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

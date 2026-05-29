@@ -37,7 +37,9 @@
       "https://www.grantthornton.jp/about/firm/",
       "https://jicpa.or.jp/",
       "https://www.fsa.go.jp/cpaaob/",
-      "https://disclosure2.edinet-fsa.go.jp/"
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www.fsa.go.jp/news/r5/sonota/20231226-3/20231226.html",
+      "https://www.fsa.go.jp/news/r5/shouken/20240228.html"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
@@ -48,10 +50,10 @@
     "2. 沿革",
     "IPO 準備支援（最大強み）^[extracted]",
     "VASP / 暗号資産 ^[extracted]",
-    "中堅金融機関",
     "4. 主要 listed FG クライアント関係（公開ベース）",
     "5. 規制・監督",
-    "処分歴 ^[ambiguous]"
+    "処分歴",
+    "6. 競合関係"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -83,8 +85,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3243,
-    "word_like_tokens": 458,
+    "nonspace_chars": 3815,
+    "word_like_tokens": 580,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

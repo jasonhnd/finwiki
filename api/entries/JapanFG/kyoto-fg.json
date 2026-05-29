@@ -32,7 +32,8 @@
     "sources": [
       "Wikipedia: 京都フィナンシャルグループ (2026-05-19 抽出)",
       "Wikipedia: 京都銀行 (2026-05-19 抽出)",
-      "京都 FG 公式 IR・有価証券報告書（2025-03 期）"
+      "京都 FG 公式 IR・有価証券報告書（2025-03 期）",
+      "日本経済新聞（適時開示）京都フィナンシャルグループ「第1次中期経営計画」の前倒し達成に伴う新たな戦略目標について (2024-11-14): https://www.nikkei.com/nkd/disclosure/tdnr/20241113522267/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -41,7 +42,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "2025-03 期決算（連結ベース概況）^[ambiguous]",
+    "2025-03 期決算（連結・有価証券報告書ベース）^[extracted]",
     "主要子会社・組織",
     "合併経緯・前身",
     "重要年表（抜粋）^[extracted]",
@@ -90,8 +91,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5824,
-    "word_like_tokens": 784,
+    "nonspace_chars": 6479,
+    "word_like_tokens": 968,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

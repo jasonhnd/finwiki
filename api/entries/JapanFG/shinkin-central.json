@@ -33,6 +33,8 @@
     "sources": [
       "Wikipedia: 信金中央金庫 (2026-05-19 抽出)",
       "信金中央金庫 公式サイト (https://www.shinkin-central-bank.jp/)",
+      "信金中央金庫 決算・財務情報 (https://www.shinkin-central-bank.jp/investor/report/)",
+      "信金中央金庫 中期経営計画 (https://www.shinkin-central-bank.jp/investor/plan/)",
       "信金中央金庫 ディスクロージャー誌 (2024 年度)",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
     ]
@@ -43,7 +45,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要数値（推定・概況）^[ambiguous]",
+    "主要数値（2025-03 末 / 公式ディスクロージャー）^[extracted]",
     "重要年表（抜粋）^[extracted]",
     "2. 事業セグメント・マップ",
     "中央機関としての二重役割",
@@ -78,8 +80,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2825,
-    "word_like_tokens": 393,
+    "nonspace_chars": 3558,
+    "word_like_tokens": 579,
     "inbound_wikilinks_count": 29,
     "last_modified": "2026-05-29"
   }

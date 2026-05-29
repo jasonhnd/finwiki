@@ -36,6 +36,9 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.keishintokyo.co.jp/",
+      "https://www.keishintokyo.co.jp/pdf/Keishin_Disclo2025web.pdf",
+      "https://ja.wikipedia.org/wiki/警視庁職員信用組合",
       "https://www.shinyokumiai.or.jp/",
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
@@ -52,7 +55,7 @@
     "東京都内職域信組ブロック (registry比較)",
     "全信組連内の位置付け",
     "主要業務 ^[extracted]",
-    "5. KPI (推定) ^[ambiguous]",
+    "5. KPI",
     "6. 監督・規制"
   ],
   "body_links": {
@@ -81,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3994,
-    "word_like_tokens": 521,
+    "nonspace_chars": 4717,
+    "word_like_tokens": 705,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

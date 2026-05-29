@@ -34,7 +34,10 @@
       "Wikipedia: 池田泉州銀行 (2026-05-19 抽出)",
       "Wikipedia: 池田銀行 (2026-05-19 抽出)",
       "Wikipedia: 泉州銀行 (2026-05-19 抽出)",
-      "池田泉州 HD 公式 IR・有価証券報告書（2025-03 期）"
+      "池田泉州 HD 公式 IR・有価証券報告書（2025-03 期）",
+      "https://edinetdb.jp/company/E23250 (2025-03 期 連結計数, 2026-05-29 確認)",
+      "https://www.sihd-bk.jp/aboutus/outline/ (池田泉州銀行 会社概要: 預金・店舗・従業員)",
+      "https://www.senshuikeda-hd.co.jp/ir/e-koukoku/management_plan/index.html (第 5 次中期経営計画 Plus)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 京都フィナンシャルグループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -43,7 +46,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "2025-03 期決算（連結ベース概況）^[ambiguous]",
+    "2025-03 期決算（連結ベース）",
     "主要子会社・組織",
     "合併経緯・前身",
     "重要年表（抜粋）^[extracted]",
@@ -90,8 +93,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4798,
-    "word_like_tokens": 732,
+    "nonspace_chars": 5562,
+    "word_like_tokens": 928,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }
