@@ -13,6 +13,7 @@ sources:
   - "Wikipedia: ウェルスナビ (2026-05-19 抽出)"
   - WealthNavi 公式コーポレートサイト 沿革ページ
   - 2024-12-12 MUFG / WealthNavi 共同公開買付発表リリース (公開資料)
+  - "三菱 UFJ FG / 三菱 UFJ 銀行「ウェルスナビ株式会社に対する公開買付けの結果及び子会社（孫会社）の異動に関するお知らせ」(2025-01-21) https://www.mufg.jp/dam/pressrelease/2025/pdf/news-20250121-001_ja.pdf"
   - "ウェルスナビ公式 ニュースリリース 預かり資産2兆円突破 (2026-05-12, https://corp.wealthnavi.com/)"
   - "PR TIMES: WealthNavi 預かり資産1兆円突破 (2024-01-11, https://prtimes.jp/main/html/rd/p/000000319.000014586.html)"
   - "時事通信 Financial: ウェルスナビ第3四半期決算 運用者数41.6万人 (2024-09末, https://financial.jiji.com/long_investment/article.html?number=728)"
@@ -87,7 +88,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2024-01-11** | **預かり資産 1 兆円突破（国内ロボアド初）** — 2016-07 リリースから約 7 年 5 か月 |
 | 2024 | 新 NISA 制度開始対応（つみたて投資枠・成長投資枠両対応）|
 | **2024-12-12** | **三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表** ★ |
-| 2025 ^[forecast] | MUFG 完全子会社化完了予定、上場廃止見込み |
+| **2025-01-20** | **三菱 UFJ 銀行 TOB 成立**（買付価格 1,950 円、総額約 997 億円）→ 2025-03 スクイーズアウト・東証グロース 上場廃止 |
 
 ## 2. 事業セグメント・マップ
 
@@ -149,7 +150,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: ウェルスナビ**（https://ja.wikipedia.org/wiki/ウェルスナビ, 2026-05-19 抽出）
 - WealthNavi 公式コーポレートサイト 沿革・会社概要ページ
 - 2024-12-12 三菱 UFJ 銀行 / WealthNavi 共同 TOB 発表リリース（公開資料）
-- 東証グロース 7342 適時開示資料
+- **三菱 UFJ FG / 三菱 UFJ 銀行「ウェルスナビ株式会社に対する公開買付けの結果及び子会社（孫会社）の異動に関するお知らせ」**（2025-01-21、TOB 成立・買付価格 1,950 円・総額約 997 億円・完全子会社化を確認）https://www.mufg.jp/dam/pressrelease/2025/pdf/news-20250121-001_ja.pdf
+- 東証グロース 7342 適時開示資料（2025-03 上場廃止）
 - **ウェルスナビ公式 ニュースリリース**：預かり資産 2 兆円突破（2026-05-12 公表、https://corp.wealthnavi.com/）
 - **PR TIMES**：WealthNavi 預かり資産 1 兆円突破（2024-01-11 時点、https://prtimes.jp/main/html/rd/p/000000319.000014586.html）
 - **時事通信 Financial**：ウェルスナビ第 3 四半期決算 運用者数 41.6 万人（2024-09 末、前年同期比 +9%、https://financial.jiji.com/long_investment/article.html?number=728）

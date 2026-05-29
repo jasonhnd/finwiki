@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 17 |
+| Changed or new entries in current worktree | 5 |
 
 ## Wiki Linking Standard
 
@@ -31,23 +31,11 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/INDEX.md` | `M` | 1399 | ok |
-| `JapanFG/acom.md` | `M` | 21 | ok |
-| `JapanFG/akatsuki-hq.md` | `M` | 3 | ok |
-| `JapanFG/american-express-international-japan.md` | `M` | 9 | ok |
-| `JapanFG/aozora-bank.md` | `M` | 8 | ok |
-| `JapanFG/atone.md` | `M` | 12 | ok |
-| `JapanFG/bnp-paribas-japan.md` | `M` | 6 | ok |
-| `JapanFG/cpaaob.md` | `M` | 19 | ok |
-| `JapanFG/diners-club-japan.md` | `M` | 6 | ok |
-| `JapanFG/famima-digital-one.md` | `M` | 11 | ok |
-| `JapanFG/gunma-bank.md` | `M` | 11 | ok |
-| `JapanFG/hyakugo-bank.md` | `M` | 7 | ok |
-| `JapanFG/hyakujushi-bank.md` | `M` | 19 | ok |
-| `JapanFG/imamura-securities.md` | `M` | 21 | ok |
-| `JapanFG/itochu-corp.md` | `M` | 24 | ok |
-| `JapanFG/ja-shinnoren.md` | `M` | 17 | ok |
-| `JapanFG/ja-zenchu.md` | `M` | 28 | ok |
+| `JapanFG/jr-east-financial.md` | `M` | 25 | ok |
+| `JapanFG/ndfg.md` | `M` | 9 | ok |
+| `JapanFG/proclair-hd.md` | `M` | 7 | ok |
+| `JapanFG/sony-fg.md` | `M` | 8 | ok |
+| `JapanFG/wealthnavi.md` | `M` | 13 | ok |
 
 ## Domain Snapshot
 
