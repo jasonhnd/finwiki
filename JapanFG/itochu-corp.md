@@ -24,7 +24,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 伊藤忠商事)"
   - "JPX 銘柄情報 8001 — https://www2.jpx.co.jp/"
 ---
-
 # 伊藤忠商事 (ITOCHU Corporation)
 
 ## Wiki route
@@ -101,12 +100,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 - **非資源 5 大商社**: 伊藤忠は資源比率が 5 大の中で最も低く、**繊維・食品・ICT・コンビニ** で稼ぐ「**生活産業商社**」
 - **CITIC 連携**: 中国市場アクセスを戦略軸、CITIC + チャロン・ポカパン (タイ財閥) との 3 社連携で東アジア・ASEAN を覆う
-
-### コア戦略 ^[inferred]
-
-- **「無印で稼ぐ・現場で稼ぐ・末端で稼ぐ」**: 旧 岡藤社長 (現 会長) の経営哲学、「上場メーカー / 上流資源」ではなく「現場・末端」で稼ぐ商社モデル
-- **ファミマ統合**: コンビニ事業を中核に、リテール金融・物流・サプライチェーン統合
-- **株主還元**: 累進配当 + 自社株買い、PBR 1.0x 超を意識
 
 ### 競合
 

@@ -16,7 +16,6 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.jsda.or.jp/"
 ---
-
 # ちばぎん証券 (Chibagin Securities)
 
 ## Wiki route
@@ -68,13 +67,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | IPO 取次 | 千葉県 IPO 案件取次 (主幹事は大手証券) |
 | M&A 仲介 / 事業承継 | 千葉県内オーナー企業の事業承継・M&A advisory |
 | 銀証連携 | [[chiba-bank]] 法人 / 個人顧客紹介 + 共同店舗 (信託 / 証券窓販) |
-
-### 収益構造の特徴 ^[inferred]
-
-- 主要収益源は **委託手数料 + 投信代行手数料 + 引受手数料 + ラップ口座フィー**
-- 千葉銀預金 18-20 兆円規模の顧客基盤への投信 cross-sell が成長 driver
-- 銀証ファイアウォール規制緩和 (2022-) で銀証連携範囲拡大の追い風
-- 単独規模では大手 IB / [[nomura-hd|野村]] / [[daiwa-sg|大和]] / [[sbi-securities|SBI 証券]] には及ばないが、千葉県地盤密着で差別化
 
 ### グループ内クロスリンク
 

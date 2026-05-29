@@ -22,7 +22,6 @@ sources:
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
 ---
-
 # JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)
 
 ## Wiki route
@@ -76,27 +75,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 | **自主運用** | 一部は東信連自身で機関投資 (国債・地方債等) |
 | **域内 JA 支援** | 経営指導・流動性供給・JASTEM システム連携 |
 
-### 東京都信連の固有業務 ^[inferred]
-
-| 業務 | 内容 |
-|---|---|
-| **生産緑地相続税対策** | 1992 年生産緑地法 → 2022 年 30 年後の指定解除問題対応 |
-| **都市農業継続支援** | 練馬・足立・葛飾等の都市農業継続のための金融サービス |
-| **観光農業融資** | 青梅・奥多摩・八王子の観光農業・体験農業向け融資 |
-| **JA-SS 連携** | 都内 JA-SS (JA セルフ サービス) ガソリンスタンド経営支援 |
-| **都市部 SME 融資** | 都内 JA 組合員の事業性融資 (農業 + 関連事業) |
-
-### ALM・資金フロー ^[inferred]
-
-```
-組合員 (都内農家 + 兼業農家 + 地域住民)
-  → 預金 → 都内 8 JA
-              → 余資預け入れ → JA バンク東京信連
-                                   → 余資預け入れ → [[JapanFG/norinchukin|農林中央金庫]]
-                                                       → 機関投資 (国債/外債等)
-                                                       → 系統還元 → 東信連 → JA → 組合員
-```
-
 ### 規模感 (推定) ^[ambiguous]
 
 - **東信連総資産**: 数兆円規模 (都市信連としては中規模)
@@ -119,17 +97,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 
 - **1992 年生産緑地法**: 30 年指定で都内農地を保全 → 2022 年指定解除タイミング
 - **生産緑地法改正 (2018)**: 特定生産緑地 + 都市農業振興基本法で農地継続支援
-
-### 他県信連との比較 ^[inferred]
-
-| 県信連 | 規模 | 特徴 |
-|---|---|---|
-| 北海道信連 | 大 | 大規模畜産 + 米作 |
-| 愛知県信連 | 大 | JA あいち管轄 + 都市農業混在 |
-| 福岡県信連 | 大 | 九州主要 |
-| **東京都信連 (本ページ)** | **中** | **都市農業 + 直結方式議論** |
-| 静岡県信連 | 中 | 茶・みかん中心 |
-| 沖縄 (直結移行済) | - | 信連解散 |
 
 ### システム共同化
 
@@ -182,4 +149,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。本エントリは FinWiki 初の **JA-Bank prefectural credit-federation (信連) operating-company anchor**、東京都信連を都市信連 + 直結方式議論文脈の代表事例として選定 ^[extracted]。都内 JA 8 組合の正確な内訳 ^[inferred] と東信連の詳細 KPI ^[ambiguous] は東京都中央会 + 各 JA + 信連別 IR を要追加検証。直結方式移行論議の東京都での具体的進捗 ^[inferred] も要追加調査。

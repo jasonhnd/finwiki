@@ -77,3 +77,12 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 千葉銀 2023-12 シンガポール支店開設に連動した海外リース業務展開の有無 ^[inferred]
 - [[chibagin-securities]] / ちばぎんカード / ちばぎんキャピタル との cross-sell KPI 目標
 - TSUBASA アライアンス参加行系リース ([[iyogin-leasing]] / 群馬リース 等) との broader アライアンス計画
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+### 収益構造の特徴 ^[inferred]
+
+- 主要収益源は **リース料収入 - 減価償却費 - リース債権取得コスト + ファクタリング手数料 + オートリース月額収入**
+- 千葉県地盤の中堅製造業 / 物流 / 医療 / 自治体 main bank ネットワークがリース受託の入口
+- 大手リース ([[mitsubishi-hc-capital]] / [[smfl|SMFL]] / [[mizuho-lease]] / [[fuyo-lease]] / [[tokyo-century]] / [[ricoh-leasing]]) との競合では地銀連携で差別化
+- 業績は親 [[chiba-bank]] 連結セグメント情報経由で部分開示 ^[ambiguous]

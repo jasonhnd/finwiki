@@ -27,7 +27,6 @@ sources:
   - https://www.fsa.go.jp/cpaaob/
   - https://disclosure2.edinet-fsa.go.jp/
 ---
-
 # 太陽有限責任監査法人 (Grant Thornton Taiyo)
 
 ## Wiki route
@@ -45,15 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
   - 太陽グラントソントン税理士法人
   - 太陽グラントソントン アドバイザーズ株式会社（FAS）
   - 太陽グラントソントン リスクアドバイザリー株式会社 ^[extracted]
-
-### 規模（公開ベース概算）^[inferred]
-
-| 指標 | 概算 |
-|---|---|
-| 公認会計士（社員 + 職員） | 500-800 名級（Big 4 の 1/10 規模）|
-| 上場会社監査クライアント数 | 200-300 社級 |
-| 主要対象 | 中堅 / 中小上場、IPO 準備会社、外資系日本子会社、VASP |
-| 拠点 | 東京 / 大阪 / 名古屋等 |
 
 ## 2. 沿革
 

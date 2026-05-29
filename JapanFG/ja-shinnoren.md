@@ -23,7 +23,6 @@ sources:
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
 ---
-
 # JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives)
 
 ## Wiki route
@@ -85,34 +84,10 @@ JA Bank system (3 層構造)
 | **自主運用** | 一部は信連自身で機関投資 (国債・地方債等) |
 | **域内 JA 支援** | 経営指導・流動性供給・システム共同化 |
 
-### JA Bank system 内の資金フロー ^[inferred]
-
-```
-組合員 (農家・地域住民)
-  → 預金 → 全国 497 JA
-              → 余資預け入れ → 31 信連
-                                   → 余資預け入れ → 農林中央金庫
-                                                       → 機関投資 (国債/外債/オルタナ)
-                                                       → 系統還元 (配当)
-                                                       → 信連 → JA → 組合員へ
-```
-
 ### 信連の規模感 ^[ambiguous]
 
 - 大規模信連 (北海道・愛知・福岡等) は **総資産数兆円** クラス
 - 小規模信連 (山陰・四国一部等) は **数千億〜1 兆円** クラス
-
-### 都道府県別の主要信連 (例) ^[inferred]
-
-| 都道府県信連 | 規模感 | 備考 |
-|---|---|---|
-| 北海道信連 | 大規模 | JA 北海道大集約 |
-| 愛知県信連 | 大規模 | JA あいち管轄 |
-| 福岡県信連 | 大規模 | 九州主要 |
-| 静岡県信連 | 中規模 | - |
-| (沖縄等) | 直結方式へ移行 | 信連を介さず |
-
-> 注: 個別信連の規模は agriregistry / 金融庁資料 + 各信連 IR 要確認 ^[ambiguous]
 
 ### JA Bank system 内の位置付け
 
@@ -169,4 +144,3 @@ JA Bank system (3 層構造)
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (JA Bank system 公式 + 農林中金公式 + JA グループ Factbook) ベース。信連数 31 (2025-04-01 時点) は [[JapanFG/norinchukin|農林中金]] 公開資料による ^[extracted]。個別信連の規模 ^[ambiguous] は信連別 IR を要参照。「JA → 農林中金 直結方式」移行県は ^[inferred] (個別事例は要追加検証)。

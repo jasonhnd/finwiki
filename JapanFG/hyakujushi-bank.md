@@ -14,7 +14,6 @@ sources:
   - "百十四銀行 公式コーポレートサイト 沿革・会社概要"
   - "TSUBASA アライアンス 加盟行公開情報 (2026-05-19 抽出)"
 ---
-
 # 百十四銀行 (Hyakujushi Bank)
 
 ## Wiki route
@@ -121,4 +120,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 Wikipedia + 公式沿革 + TSUBASA 公開情報 検証 2026-05-19）。一部の県内シェア・指定金融機関ステータス・域外支店収益寄与は公開数値が限られるため ^[inferred] とした。最新業績数値（純利益・総資産・自己資本比率）は IR 開示資料を要参照。

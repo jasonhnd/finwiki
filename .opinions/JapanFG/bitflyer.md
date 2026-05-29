@@ -31,3 +31,7 @@ BTC / ETH / ETC / LTC / BCH / MONA / LSK / XRP / BAT / XLM / XEM / XTZ / DOT / L
 - miyabi（[[systems/bitflyer-blockchain|bitFlyer Blockchain]]）の B2B 採用実績は？ Progmat / [[mufg]] 主導ステーブルコインとの競合 / 補完関係
 - JVCEA 内部での bitFlyer の役割（理事 / 規制策定主導度）は？
 - [[ndfg]] [[sbi-hd]] [[gmo-coin]] 等 既存 FG 傘下取引所 vs 独立系（bitFlyer / bitbank）のシェア構造変化
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+> confidence: **likely**（公開情報ベース 2026-05-19）。登録番号 / 創業年 / 業務改善命令 / JVCEA Type 1 等の制度的事実は公的出典で確定。持株構成 / 連結業績 / IPO タイムライン / 創業者復帰の詳細は **未上場ゆえ未公開**、報道ベースで `^[inferred]` `^[ambiguous]` を付した。最新動向は IPO 公表・有価証券届出書で更新要。

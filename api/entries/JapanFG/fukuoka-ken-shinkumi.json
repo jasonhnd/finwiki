@@ -47,29 +47,24 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "福岡県信組ブロック (registry比較)",
     "九州・福岡財務支局信組ブロック ^[extracted FSA registry]",
     "全信組連内の位置付け",
-    "福岡県金融機関ヒエラルキー ^[inferred]"
+    "主要業務 ^[extracted]",
+    "5. KPI (推定) ^[ambiguous]"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/dic",
-      "JapanFG/fukuoka-chuo-bank",
       "JapanFG/fukuoka-fg",
       "JapanFG/fukuoka-shinkin",
       "JapanFG/iwaki-shinkumi",
-      "JapanFG/kitakyushu-bank",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
       "JapanFG/nishi-nippon-fhd",
       "JapanFG/nnfh",
       "JapanFG/sapporo-chuo-shinkumi",
-      "JapanFG/smbc",
       "JapanFG/zenshin-kumi",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan"
@@ -77,17 +72,12 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/dic",
-      "https://finwiki.zksc.io/JapanFG/fukuoka-chuo-bank",
       "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
       "https://finwiki.zksc.io/JapanFG/fukuoka-shinkin",
       "https://finwiki.zksc.io/JapanFG/iwaki-shinkumi",
-      "https://finwiki.zksc.io/JapanFG/kitakyushu-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/nishi-nippon-fhd",
       "https://finwiki.zksc.io/JapanFG/nnfh",
       "https://finwiki.zksc.io/JapanFG/sapporo-chuo-shinkumi",
-      "https://finwiki.zksc.io/JapanFG/smbc",
       "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
@@ -96,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4744,
-    "word_like_tokens": 662,
+    "nonspace_chars": 4122,
+    "word_like_tokens": 571,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

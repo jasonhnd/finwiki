@@ -44,8 +44,8 @@
     "親会社・グループ構造",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "運用ポートフォリオの特徴 ^[inferred]",
-    "デジタル戦略"
+    "デジタル戦略",
+    "提携・買収戦略"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -75,8 +75,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3565,
-    "word_like_tokens": 471,
+    "nonspace_chars": 3428,
+    "word_like_tokens": 459,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

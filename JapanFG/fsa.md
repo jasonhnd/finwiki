@@ -15,7 +15,6 @@ sources:
   - "金融庁設置法 (平成 10 年法律第 130 号)"
   - "内閣府設置法 (平成 11 年法律第 89 号)"
 ---
-
 # 金融庁 (FSA)
 
 ## Wiki route
@@ -151,4 +150,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立（2000-07）・組織体制（総合政策局 / 企画市場局 / 監督局 / SESC）・主要制度年表（資金決済法 2017 / CG コード 2014 / サステナ開示 2022）は公式公開資料一致。検査局統合（2018-07）・直近の AI 規制論議は規制状況に応じて表現を `^[inferred]` 明示。

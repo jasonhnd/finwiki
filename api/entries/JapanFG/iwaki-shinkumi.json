@@ -46,18 +46,17 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "福島県内信組ブロック (registry比較)",
     "全信組連内の位置付け",
-    "東日本大震災・原発事故対応 (2011-) ^[inferred]",
-    "地域型信組の事業特性"
+    "地域型信組の事業特性",
+    "4. KPI (推定) ^[ambiguous]",
+    "5. 監督・規制"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/dbj",
       "JapanFG/dic",
       "JapanFG/osaka-shogin-shinkumi",
       "JapanFG/sapporo-chuo-shinkumi",
@@ -70,7 +69,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dbj",
       "https://finwiki.zksc.io/JapanFG/dic",
       "https://finwiki.zksc.io/JapanFG/osaka-shogin-shinkumi",
       "https://finwiki.zksc.io/JapanFG/sapporo-chuo-shinkumi",
@@ -85,8 +83,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4112,
-    "word_like_tokens": 555,
+    "nonspace_chars": 3771,
+    "word_like_tokens": 511,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

@@ -30,7 +30,6 @@ sources:
   - https://www.mas.gov.sg/regulation/consultations
   - https://www.iosco.org/library/pubdocs/
 ---
-
 # AI-driven trading regulation · Japan FSA / SESC plus global FCA / SEC / ESMA comparison 2026
 
 ## TL;DR
@@ -171,14 +170,6 @@ The regulatory frame here is the **constraint envelope** on what AI-driven tradi
 - **Custody / authorization** — [[agent-economy/agent-custody-and-authorization-framework-2026|agent custody and authorization framework]] for the spend caps and revocation that limit trading exposure
 - **Payment** — [[agent-economy/agent-payment-protocol-four-way-comparison-2026|agent payment protocol four-way comparison]] for settlement
 - **Liability default** — [[agent-economy/agent-legal-tax-liability-framework|agent legal and tax liability framework]] for principal-agent doctrine
-
-## Counterpoints / open questions
-
-- **"AI-driven manipulation is just algo-driven manipulation, regulators have handled this for a decade"** — partly true; the structural distinction is that AI systems can generate **novel manipulation patterns** that weren't part of the algorithm's explicit design. The 2025-2026 SESC + ESMA position is that this is still the operator's responsibility.
-- **The deployer-accountability default could break under foundation-model concentration**: if 80% of AI-driven trading flows through 2-3 frontier-model providers, a single model defect could produce coordinated market stress without any single deployer being negligent. The FSB has flagged this; no regulator has yet acted.
-- **Cross-jurisdictional arbitrage**: AI trading firms may relocate to lighter-touch jurisdictions. The 2025-2026 indication: this hasn't materialized at scale because reputational + compliance risks of unregulated jurisdictions outweigh the regulatory savings.
-- **Will Japan's FIEA Article 38-2 be amended specifically for AI?** Indications from FSA 2024-2025 public comments: no specific amendment planned; the existing definition (computer-program systems determining order parameters) is considered to cover AI / LLM cases.
-- **Will the SEC predictive-data-analytics rule revive?** Uncertain; depends on administration priorities. Existing Reg BI and fiduciary rules retain the underlying customer-protection requirement regardless.
 
 ## Sources
 

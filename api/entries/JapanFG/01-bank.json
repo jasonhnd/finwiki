@@ -45,13 +45,13 @@
     "01銀行 (01Bank)",
     "Wiki route",
     "1. 法人・ライセンス境界",
-    "2. KPI 表（v1.0 公開ベース概算）^[inferred]",
     "3. 重要年表",
     "4. 親会社 FFG との関係",
     "5. 業務モデル — データドリブン SME finance",
     "6. ピア比較 — 地銀デジタル子会社の系譜",
     "7. 監督・規制",
-    "8. Counterpoints"
+    "8. Counterpoints",
+    "9. Open questions"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -77,8 +77,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3676,
-    "word_like_tokens": 559,
+    "nonspace_chars": 3257,
+    "word_like_tokens": 488,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

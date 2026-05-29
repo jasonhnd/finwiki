@@ -14,7 +14,6 @@ sources:
   - "Wikipedia: クレディ・スイス (2023-06 緊急買収関連、2026-05-19 抽出)"
   - "UBS Group AG Annual Report 2024 (公開・2025-03 公表)"
 ---
-
 # UBS ジャパン (UBS Japan)
 
 ## Wiki route
@@ -36,16 +35,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | UBS 銀行東京支店（UBS AG Tokyo Branch）| 在日支店銀行 | UBS 100% |
 | UBS アセット・マネジメント株式会社 | 投信・運用 | UBS 100% |
 | 旧 クレディ・スイス証券株式会社 | 旧 CS 日本 IB | 2024 統合完了 |
-
-### 主要事業セグメント（UBS Group 連結ベース、2024 年度）^[inferred]
-
-| セグメント | 内容 |
-|---|---|
-| Global Wealth Management（GWM）| 世界最大級 PB、運用資産（IIA）約 3.8 兆ドル超 |
-| Personal & Corporate Banking | スイス国内リテール・法人 |
-| Asset Management | UBS AM、運用資産 約 1.7 兆ドル |
-| Investment Bank | グローバル IB（DCM/ECM/M&A/マーケッツ）|
-| Non-core and Legacy | 旧 CS 関連の段階的縮小ポジション |
 
 ## 2. 合併歴史・前身
 

@@ -13,7 +13,6 @@ sources:
   - "Wikipedia: 株式会社山形銀行 (2026-05-19 抽出)"
   - 山形銀行 公式サイト・IR (2025 年公表ベース)
 ---
-
 # 株式会社山形銀行
 
 ## Wiki route
@@ -153,4 +152,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (v1.0 公開情報ベース、2026-05-19 作成)。**公開情報のみ・内部目録不参照**。重要数値 (FY2024 預金/貸出/純利益・正確な店舗数・従業員数) は山形銀行 公式 IR (有価証券報告書・決算短信) を要参照。^[likely] / ^[inferred] / ^[ambiguous] タグは未確認推定の領域。^[extracted] は Wikipedia・公式サイト由来の確定情報。

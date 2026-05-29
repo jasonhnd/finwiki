@@ -15,7 +15,6 @@ sources:
   - "MUFG 統合報告書・有価証券報告書 (2024-25 公開分)"
   - "Morgan Stanley 10-K Filings (joint venture sections, 2024-25)"
 ---
-
 # MUFG 証券ホールディングス
 
 ## Wiki route
@@ -149,4 +148,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。MUSHD 設立（2010-04）・JV 構造（[[JapanFG/mufg-mums|MUMSS]] 60/40 + MSMS 51/49）・2008-09 Morgan Stanley 90 億ドル出資・海外 3 拠点（米欧アジア）は公式公開資料一致。Morgan Stanley 株式保有比率（20% 超）は時期により変動するため概数表記。直近 IB 連携の深化観測は `^[inferred]` 明示。

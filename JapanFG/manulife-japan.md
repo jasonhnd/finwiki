@@ -14,7 +14,6 @@ sources:
   - "Wikipedia: Manulife Financial (2026-05-19 抽出)"
   - "Wikipedia: 第百生命保険 (2026-05-19 抽出)"
 ---
-
 # マニュライフ生命保険 (Manulife Life Insurance Japan)
 
 ## Wiki route
@@ -121,11 +120,6 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 | [[aflac-japan]] | がん保険・医療保険圧倒シェア | 商品領域が異なる（マニュライフは終身・年金） |
 | [[prudential-japan]] | ライフプランナー高品質コンサル | チャネル戦略類似、規模で劣後 |
 | [[axa-japan]] | 仏系・ユニットリンク強い | 変額・外貨建で直接競合 |
-
-### 中計（直近）^[inferred]
-
-- 2024 中計: 変額保険・外貨建保険を成長ドライバーに、銀行窓販深耕とアドバイザー数拡大
-- 詳細数値目標は非上場のため公開限定的
 
 ## 5. 規制・政策
 

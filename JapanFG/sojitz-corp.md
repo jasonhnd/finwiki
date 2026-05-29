@@ -22,7 +22,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 双日)"
   - "JPX 銘柄情報 2768 — https://www2.jpx.co.jp/"
 ---
-
 # 双日 (Sojitz Corporation)
 
 ## Wiki route
@@ -96,12 +95,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **5 大の次のレイヤー**: 純利益で 5 大商社の 1/3〜1/4 規模、しかし 7 大商社の中では上位 (双日 > [[JapanFG/kanematsu-leasing|兼松]] > [[JapanFG/sojitz-corp|岩谷産業]] 等の中堅商社順位は時期により変動)
 - **2004 統合後の利益体質改善**: ニチメン + 日商岩井 統合 → 重複事業整理 → 純利益 1,000 億円級到達
 - **ニッチ戦略**: 5 大商社が薄い領域 (航空産業、海外ディーラー網、農業) で独自ニッチ
-
-### コア戦略 ^[inferred]
-
-- **中期計画**: 純利益 1,000 億円超え定着、ROE 10% 超を意識
-- **GX / DX**: 5 大商社と同じく、再エネ・水素・電池サプライチェーン 投資
-- **株主還元**: 累進配当 + 自社株買い
 
 ### 競合
 

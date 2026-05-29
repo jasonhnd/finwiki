@@ -43,3 +43,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **「三井グループ cross-shareholding」**: ガバナンス改革で政策保有株縮小圧力、商社サイドも例外ではない ^[inferred]
 - **「JA三井リースの戦略性」**: JA 全農との 50/50 JV 性格上、三井物産単独の戦略推進力は限定的 ^[inferred]
 - **「Berkshire 効果」**: [[JapanFG/mitsubishi-corp|三菱商事]] と同様、Berkshire 買い増しによるリレーティング効果に外部要因依存 ^[inferred]
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+### コア戦略 ^[inferred]
+
+- **GX (Green Transformation)**: 既存資源ポートフォリオ (石炭縮小、銅・ニッケル・水素・洋上風力拡大)
+- **ヘルスケア**: IHH を core platform に、アジア医療事業拡大
+- **モビリティ**: Penske Automotive (米国 自動車流通最大手の一角) を core asset 化

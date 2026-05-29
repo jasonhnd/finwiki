@@ -15,7 +15,6 @@ sources:
   - "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)"
   - "金融商品取引法 第 66 条の 27 以下（信用格付業者登録制度）"
 ---
-
 # 日本格付研究所 (JCR)
 
 ## Wiki route
@@ -97,12 +96,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **登録要件**: 業務管理体制・利益相反防止・格付プロセス文書化・苦情処理体制等
 - **ECAI 認定**: バーゼル銀行監督委員会基準に基づく外部信用評価機関認定（金融庁告示） → 銀行のリスクアセット計算で利用可
 - **国際協調**: IOSCO 信用格付機関行動規範への準拠
-
-### 直近政策論点 ^[inferred]
-
-- ESG 評価の信頼性・比較可能性（IOSCO / EU CRR 等の議論）
-- AI 活用による格付プロセス効率化と透明性のバランス
-- サステナビリティ開示基準（[[finance/issb|ISSB]] / [[finance/ssbj|SSBJ]]）連動の格付方法論
 
 ## Related
 

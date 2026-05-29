@@ -15,7 +15,6 @@ sources:
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.chiginkyo.or.jp/"
 ---
-
 # 山口リース (Yamaguchi Leasing)
 
 ## Wiki route
@@ -68,13 +67,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 医療リース | 病院・診療所向け医療機器リース |
 | 工業設備リース | 山陽工業地帯 (周南コンビナート・宇部 / 徳山 化学・防府自動車) 製造設備リース |
 | 農業機械リース | 山口県・広島県農業地帯向け |
-
-### 収益構造の特徴 ^[inferred]
-
-- 主要収益源は **リース料収入 - 減価償却費 - リース債権取得コスト**
-- 3 行体制 (山口銀 / [[momiji-bank]] / [[kitakyushu-bank]]) の中堅企業 main bank ネットワークが受託入口
-- 山陽工業地帯・北九州工業地帯の製造業集積でリース需要厚い
-- 業績は親 [[yamaguchi-fg]] 連結セグメント情報経由で部分開示 ^[ambiguous]
 
 ### グループ内クロスリンク
 

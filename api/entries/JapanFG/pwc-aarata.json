@@ -49,12 +49,12 @@
     "TL;DR",
     "Wiki route",
     "1. 法人概要",
-    "規模（公開ベース概算）^[inferred]",
     "2. 沿革",
     "FinTech / 暗号資産 ^[extracted]",
     "銀行 / 保険 / 証券",
     "サステナビリティ保証",
-    "4. 主要 listed FG クライアント関係（公開ベース）"
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -86,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4388,
-    "word_like_tokens": 660,
+    "nonspace_chars": 4247,
+    "word_like_tokens": 633,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

@@ -43,3 +43,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **「SMFL 50/50 JV の戦略的自由度」**: SMFG との共同支配のため、住友商事単独の戦略推進力に制約 ^[inferred]
 - **「5 大商社中位ポジション」**: 純利益で 5 大の中位、上位 ([[JapanFG/mitsubishi-corp|三菱]] / [[JapanFG/mitsui-co|三井]] / [[JapanFG/itochu-corp|伊藤忠]]) との差 ^[inferred]
 - **「Berkshire 効果」**: 5 大商社共通のリレーティング、外部依存 ^[inferred]
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+### コア戦略 ^[inferred]
+
+- **DX × GX**: J:COM / SCSK のデジタル知見を core asset 化、再エネ・IPP ポートフォリオ強化
+- **株主還元**: 累進配当 + 自社株買い、PBR 1.0x 超を意識
+- **不正再発防止**: 1996 銅地金不正取引事件 (浜中事件) 以降、internal control / risk management 強化を継続テーマ化

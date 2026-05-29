@@ -54,10 +54,10 @@
     "1. 会社概要",
     "持株ツリー (しずおか FG グループ簡略図)",
     "主要業務ライン",
-    "収益構造の特徴 ^[inferred]",
     "グループ内クロスリンク",
     "地銀系クレジットカード peer 比較",
-    "大手カードイシュアーとの競合"
+    "大手カードイシュアーとの競合",
+    "強み・弱み"
   ],
   "body_links": {
     "wikilinks_count": 43,
@@ -155,8 +155,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6375,
-    "word_like_tokens": 842,
+    "nonspace_chars": 6187,
+    "word_like_tokens": 820,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

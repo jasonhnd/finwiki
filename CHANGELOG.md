@@ -31,6 +31,17 @@
 
 ## 2026-05-29
 
+### 主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留
+
+#### 日本語記録 / English / 中文
+
+- **背景**: Phase 1 の厳格マッチが取りこぼした残留を一掃。新ツール `tools/extract_opinions_residual.py`(層級感知 + 既存 `.opinions/` への追記)。
+- **範囲(80 エントリー)**: (1) 見出しに `^[inferred]` が付いた**推定セクション**(KPI 概算 / 推定戦略 / 推定収益構造 等)を見出し subtree ごと移動 = 106 subtree(非標準見出し `## Counterpoints / open questions` 5 件を含む);(2) `> confidence: … ^[inferred]` の footer 注 24 行を移動。
+- **結果**: wiki エントリー本文から `^[inferred]` と Counterpoints/Open questions は **全消去**(残る言及は README/CHANGELOG の解説と `.templates/` のみ)。`wiki_link_audit.py` 1411 / **0 issues**、LF 統一。
+- **新たに判明・未処理**: `^[ambiguous]`(不確実な事実マーカー)が **146 ファイル / 1,047 箇所**。主観意見とは別カテゴリのため、扱いは別途決定。
+- **EN**: Residual sweep via new `extract_opinions_residual.py` — moved 106 `^[inferred]`-tagged estimate subtrees (incl. 5 non-standard `## Counterpoints / open questions` headings) + 24 stray confidence-note lines across 80 entries. Wiki bodies are now fully clear of `^[inferred]` and Counterpoints/Open-questions. Newly surfaced: `^[ambiguous]` (uncertain-fact marker) in 146 files / 1,047 spots — a separate category, handling TBD.
+- **中文**: 用新脚本 `extract_opinions_residual.py` 清扫残留 —— 移走 106 个 `^[inferred]` 估算节子树(含 5 个非标准 `## Counterpoints / open questions` 标题)+ 24 行零散 confidence 注脚,涉 80 条。wiki 正文已彻底清除 `^[inferred]` 与 Counterpoints/Open questions。新发现:`^[ambiguous]`(不确定事实标记)146 文件 / 1,047 处,属另一类别,待定。
+
 ### 主観内容の隔離（Phase 1）· 客観事実 wiki への再構成 / Subjective-content quarantine (Phase 1) — recompose into a facts-only wiki / 主观内容隔离（Phase 1）· 重构为客观事实 wiki
 
 #### 日本語記録

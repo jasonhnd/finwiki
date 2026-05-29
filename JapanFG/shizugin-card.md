@@ -16,7 +16,6 @@ sources:
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.j-credit.or.jp/"
 ---
-
 # しずぎんカード (Shizugin Card / Shizuoka Bank Card)
 
 ## Wiki route
@@ -65,12 +64,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 | ショッピングクレジット | 加盟店経由のショッピングクレジット (分割払・リボ払) |
 | カードローン | 個人向け無担保カードローン (銀行カードローン代理含む) |
 | キャッシング | クレカ付帯キャッシング |
-
-### 収益構造の特徴 ^[inferred]
-
-- 主要収益源は **加盟店手数料 (interchange) + 年会費 + キャッシング金利 + リボ手数料 + ショッピングクレジット手数料**
-- [[shizuoka-bank|静岡銀行]] 個人 / 法人顧客 (預金口座連動) からのカード発行が成長 driver
-- 業績は親 [[shizuoka-fg]] 連結セグメント情報経由で部分開示 ^[ambiguous]
 
 ### グループ内クロスリンク
 

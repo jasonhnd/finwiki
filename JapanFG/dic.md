@@ -15,7 +15,6 @@ sources:
   - "預金保険法 (昭和 46 年法律第 34 号)"
   - "金融庁 預金保険制度関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
 ---
-
 # 預金保険機構 (DIC)
 
 ## Wiki route
@@ -133,4 +132,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立・法的根拠・出資構造・保護限度額・ペイオフ初発動事例（2010 日本振興銀行）・りそな救済規模（1.96 兆円）は公式公開資料一致。直近の暗号資産業者連動スキームは制度議論段階で `^[inferred]` 明示。最新事業概況は預金保険機構年報を要参照。

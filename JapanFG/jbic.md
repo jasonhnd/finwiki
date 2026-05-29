@@ -14,7 +14,6 @@ sources:
   - "JBIC 公式サイト 沿革・業務概要 (2026-05-19 参照)"
   - "株式会社国際協力銀行法 (平成 23 年法律第 39 号)"
 ---
-
 # 国際協力銀行 (JBIC)
 
 ## Wiki route
@@ -34,12 +33,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **株主**：**財務大臣 100%** ^[extracted]
 **本社**：東京都千代田区大手町 1-4-1 ^[extracted]
 **業態**：特殊会社（株式会社形態の政策金融機関、非上場）
-
-### 主要機関 ^[inferred]
-
-- 取締役会・監査役会設置会社
-- 主務大臣: 財務大臣（株主＝政府）
-- 主任格付: 国債と同等格付（ソブリン格付準拠）
 
 ### 沿革・前身
 
@@ -148,4 +141,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。沿革・業務スキーム・主管関係は公式法令・Wikipedia 一致。経済安全保障シフトに関する記述（中国案件凍結 等）は公式声明ベースではなく観測・推論を含む（^[inferred] / ^[ambiguous] 明示）。具体的融資残高・案件リストは JBIC 業務概況書（毎年発行）を要参照。

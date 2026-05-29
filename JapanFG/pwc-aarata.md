@@ -30,7 +30,6 @@ sources:
   - https://www.fsa.go.jp/cpaaob/
   - https://disclosure2.edinet-fsa.go.jp/
 ---
-
 # PwC Japan 有限責任監査法人 (旧 PwC あらた)
 
 ## TL;DR
@@ -52,15 +51,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
   - PwC コンサルティング合同会社
   - PwC アドバイザリー合同会社（FAS / M&A）
   - PwC 税理士法人 ^[extracted]
-
-### 規模（公開ベース概算）^[inferred]
-
-| 指標 | 概算 |
-|---|---|
-| 公認会計士（社員 + 職員） | 3,000-4,000 名級 |
-| 上場会社監査クライアント数 | 400-500 社級（Big 4 内最小）|
-| 大手金融機関監査 | 一部地銀 / 中堅証券 / Web3 関連 |
-| 拠点 | 全国主要都市 |
 
 ## 2. 沿革
 

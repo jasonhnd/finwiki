@@ -13,7 +13,6 @@ sources:
   - "Wikipedia: 大同火災海上保険 (2026-05-19 抽出)"
   - 大同火災海上保険 公式 HP (会社案内、2025 年度版)
 ---
-
 # 大同火災海上保険
 
 ## Wiki route
@@ -33,12 +32,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **本社**：沖縄県那覇市 ^[extracted]
 **上場**：**非上場**（沖縄県内財界による持株構成）^[extracted]
 **業態**：損害保険業（金融庁認可、損保協会加盟）
-
-### 株主構成（概要）^[inferred]
-
-- 沖縄県内財界（地場有力企業・経済団体）
-- 損保ジャパン（[[sompo]] グループ）との業務提携関係
-- 一般株主・取引先持合
 
 ### 主要業務・支店網
 
@@ -142,4 +135,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。沿革・基本構造は Wikipedia + 公式 HP で確認済み。財務数値・株主構成詳細・[[sompo]] 提携条件は非上場のため公表範囲限定で `^[inferred]` マーキング多め。中計内容・最新シェア数値は要更新。

@@ -43,10 +43,10 @@
     "1. 会社概要",
     "社名・略称の由来",
     "主要株主 (公開情報ベース) ^[extracted]",
-    "主要子会社・関連法人 ^[inferred]",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "コア差別化"
+    "コア差別化",
+    "国内競合構図"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -86,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5262,
-    "word_like_tokens": 690,
+    "nonspace_chars": 4914,
+    "word_like_tokens": 654,
     "inbound_wikilinks_count": 27,
     "last_modified": "2026-05-29"
   }

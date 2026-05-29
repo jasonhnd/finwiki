@@ -15,7 +15,6 @@ sources:
   - "日本郵政株式会社法 (平成 17 年法律第 98 号)"
   - "東京証券取引所 上場会社情報 6178 (2026-05-25 参照)"
 ---
-
 # 日本郵政株式会社
 
 ## Wiki route
@@ -132,4 +131,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立・上場（2015-11-04 トリプル IPO）・グループ構造・[[JapanFG/kampo-life|かんぽ生命]] 不適切販売事件（2019）は公式公開資料一致。政府保有比率は売出・買戻で変動するため直近値は概数表記。完全民営化の最終形は政策ロードマップが流動的で `^[inferred]` 明示。

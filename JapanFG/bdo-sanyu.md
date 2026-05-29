@@ -27,7 +27,6 @@ sources:
   - https://www.fsa.go.jp/cpaaob/
   - https://disclosure2.edinet-fsa.go.jp/
 ---
-
 # BDO 三優監査法人 (BDO Sanyu)
 
 ## Wiki route
@@ -74,11 +73,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 - [[exchanges/japan-crypto-audit-firm-landscape|国内クリプト監査ランドスケープ]] で言及される通り、Tier 2 の代表
 - JICPA 業種別委員会実務指針第 61 号 準拠 ^[extracted]
 - **分別管理監査**（資金決済法）対応
-
-### 外資系日本子会社 ^[inferred]
-
-- 海外本社が BDO 系の場合の日本子会社監査
-- グローバルネットワークによる Cross-border 監査連携
 
 ### 中堅金融 / FinTech
 

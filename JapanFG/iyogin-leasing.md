@@ -15,7 +15,6 @@ sources:
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.chiginkyo.or.jp/"
 ---
-
 # いよぎんリース (Iyogin Leasing)
 
 ## Wiki route
@@ -62,13 +61,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | オペレーティングリース | 中古設備 / 再リース可能設備の短期リース |
 | ベンダーリース | メーカー・販売店との提携リース (販売支援) |
 | 自治体リース | 愛媛県・松山市・四国 4 県市町村向け公用車・設備リース |
-
-### 収益構造の特徴 ^[inferred]
-
-- 主要収益源は **リース料収入 - 減価償却費 - リース債権取得コスト**
-- [[iyo-bank|伊予銀行]] 中堅企業 main bank ネットワーク + 海事クラスター・製紙業など愛媛県特有産業集積がリース受託入口
-- **海事クラスター連携**は他地銀系リースとの差別化要因 ([[iyo-bank]] の今治造船融資特性を活かす)
-- 業績は親 [[iyogin-hd]] 連結セグメント情報経由で部分開示 ^[ambiguous]
 
 ### グループ内クロスリンク
 

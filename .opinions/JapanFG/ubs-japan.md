@@ -26,3 +26,15 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 6. Counterpoints)
 
 - 「SuMi TRUST JV の限界」: 日本 PB は野村・大和・三菱 UFJ MUMSS 等にもシェア、JV だけでスケールするには限界 ^[inferred]
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+### 主要事業セグメント（UBS Group 連結ベース、2024 年度）^[inferred]
+
+| セグメント | 内容 |
+|---|---|
+| Global Wealth Management（GWM）| 世界最大級 PB、運用資産（IIA）約 3.8 兆ドル超 |
+| Personal & Corporate Banking | スイス国内リテール・法人 |
+| Asset Management | UBS AM、運用資産 約 1.7 兆ドル |
+| Investment Bank | グローバル IB（DCM/ECM/M&A/マーケッツ）|
+| Non-core and Legacy | 旧 CS 関連の段階的縮小ポジション |

@@ -49,10 +49,10 @@
     "1. 会社概要",
     "持株ツリー (いよぎん HD グループ簡略図)",
     "主要業務ライン",
-    "収益構造の特徴 ^[inferred]",
     "グループ内クロスリンク",
     "地銀系リース peer 比較",
-    "大手リース・専業リースとの競合"
+    "大手リース・専業リースとの競合",
+    "強み・弱み"
   ],
   "body_links": {
     "wikilinks_count": 35,
@@ -134,8 +134,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5914,
-    "word_like_tokens": 804,
+    "nonspace_chars": 5690,
+    "word_like_tokens": 780,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

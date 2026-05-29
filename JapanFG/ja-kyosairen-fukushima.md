@@ -22,7 +22,6 @@ sources:
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
 ---
-
 # JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)
 
 ## Wiki route
@@ -114,23 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - **建物更生共済 (建更)** = 火災 + 地震 + 自然災害 + 死亡保障一体 → 民間損保にない独自商品
 - 福島県本部の 2011 震災対応 = **建更の社会的意義**を実証
 
-### 47 県本部間の比較 ^[inferred]
-
-| 県本部 | 特徴 |
-|---|---|
-| 北海道本部 | 国内最大農業エリア、大規模畜産対応 |
-| **福島県本部 (本ページ)** | **2011 震災 + 原発事故対応の知見集約** |
-| 新潟県本部 | 米作中心、自然災害 (豪雪) 対応 |
-| 愛知県本部 | 大規模 JA (JA あいち) との協働 |
-| 沖縄県本部 | 台風被害対応の知見 |
-| 熊本県本部 | 2016 熊本地震対応の経験 |
-
-### デジタル戦略 ^[inferred]
-
-- **JA 共済アプリ** の県内推進 (組合員契約照会・請求)
-- **AI 査定** の県内展開 (自動車事故・建物被害の自動査定)
-- **マイナンバー連携** + 確定申告 (生命保険料控除) 対応
-
 ## 4. KPI (推定)
 
 | 指標 | 値 | 出典 |
@@ -180,4 +162,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。本エントリは FinWiki 初の **JA 共済連 prefectural 県本部 anchor**、47 県本部から福島県を災害復興文脈の代表事例として選定 ^[extracted]。県本部 = 全共連の組織内事業拠点ゆえ独立財務指標が限定的 ^[extracted]。県内 8 JA の正確なリスト ^[ambiguous] と 2011 震災給付の正確な実績数値 ^[inferred] は全共連年次報告書 + JA ふくしま中央会公開資料を要追加検証。

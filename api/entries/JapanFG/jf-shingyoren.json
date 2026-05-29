@@ -52,8 +52,8 @@
     "JA 信連との対比 ^[extracted]",
     "重要年表 ^[extracted]",
     "4 大機能 ^[extracted]",
-    "JF Marine Bank system 内の資金フロー ^[inferred]",
-    "規模感 (推定) ^[ambiguous]"
+    "規模感 (推定) ^[ambiguous]",
+    "JF Marine Bank system 内の位置付け"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -89,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4941,
-    "word_like_tokens": 772,
+    "nonspace_chars": 4485,
+    "word_like_tokens": 703,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-05-29"
   }

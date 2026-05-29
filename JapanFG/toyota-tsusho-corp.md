@@ -23,7 +23,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 豊田通商)"
   - "JPX 銘柄情報 8015 — https://www2.jpx.co.jp/"
 ---
-
 # 豊田通商 (Toyota Tsusho Corporation)
 
 ## Wiki route
@@ -94,12 +93,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 - **Toyota Motor 約 22% 級主要株主**: 5 大商社にはない出資関係、Toyota group ecosystem の core member
 - **アフリカ戦略**: **CFAO 完全子会社化 (2016)** で 5 大商社にない独自ポジション、**アフリカ大陸最大級の流通網** (自動車・医薬品・食品・消費財)
 - **モビリティ・新エネ**: Toyota EV 戦略との連動 (リチウム・レアアース・電池サプライチェーン)、Eurus Energy 経由の再エネ IPP
-
-### コア戦略 ^[inferred]
-
-- **EV / モビリティ革命との接続**: Toyota EV 戦略と連動した電池サプライチェーン (リチウム、ニッケル、コバルト) の上流投資
-- **アフリカ深化**: CFAO 経由のアフリカ大陸での Toyota 流通強化 + 医薬品・食品多角化
-- **株主還元**: 累進配当 + 自社株買い (5 大商社と同じ流れ)
 
 ### 競合
 

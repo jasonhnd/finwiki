@@ -14,7 +14,6 @@ sources:
   - "Wikipedia: MetLife (2026-05-19 抽出)"
   - "MetLife, Inc. Form 10-K (2024 FY, SEC EDGAR)"
 ---
-
 # メットライフ生命保険 (MetLife Japan)
 
 ## Wiki route
@@ -60,11 +59,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2010-11-01** | **MetLife / ALICO 買収 完了** ^[extracted] |
 | 2011-04 | アリコジャパン → **メットライフアリコ生命保険** に商号変更 ^[extracted] |
 | **2012-04** | **メットライフアリコ → メットライフ生命保険** 改称（「アリコ」名消滅）^[extracted] |
-
-### 旧アリコジャパン期の業界的位置 ^[inferred]
-
-- 1970s〜80s「**外資系生保第 1 世代**」: アリコ / [[axa-japan]]（旧日本団体生命）/ [[aflac-japan]]（旧 アメリカンファミリー生命）の 3 社が日本で外資ブランドを確立した先駆け。
-- 「営業職員モデル + 第三分野（医療・ガン・介護）」を国内大手より早期に展開し、平成期の「医療保険ブーム」を牽引。
 
 ### 商品戦略
 

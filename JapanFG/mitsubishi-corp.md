@@ -22,7 +22,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三菱商事)"
   - "JPX 銘柄情報 8058 — https://www2.jpx.co.jp/"
 ---
-
 # 三菱商事 (Mitsubishi Corporation)
 
 ## Wiki route
@@ -103,12 +102,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | [[JapanFG/itochu-corp|伊藤忠商事 (8001)]] | 繊維 / 食品 (ファミマ) / ICT | 非資源 = 生活産業 + ICT |
 | [[JapanFG/sumitomo-corp|住友商事 (8053)]] | 鋼管 / 不動産 / 米国メディア (J:COM 等) | 多角寄り、近年純利益で 5 大の中下位 |
 | [[JapanFG/marubeni-corp|丸紅 (8002)]] | 電力 IPP / 食品 (穀物) / 鋼管 | 電力・穀物商社の側面 |
-
-### コア戦略 — 経営計画 ^[inferred]
-
-- **EX (Energy Transformation)** + **DX** + **MC Shared Value** を三本柱とする中期経営計画
-- 三菱商事自身は OPEX 重視 (CAPEX は事業会社・JV に切り出し)、近年は **株主還元加速** (累進配当 + 大規模自社株買い) で PBR 1.0x 超を維持
-- **Berkshire Hathaway** が 2020 年以降、5 大商社株を継続買い増し (報道ベース、約 9% 級まで上昇)、商社株のリレーティング材料となった
 
 ### 競合
 

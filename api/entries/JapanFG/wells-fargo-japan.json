@@ -44,8 +44,8 @@
     "主要事業ライン（親会社）^[extracted]",
     "2. 事業セグメント・マップ（東京支店）",
     "親会社・米国 Wells Fargo 沿革 ^[extracted]",
-    "日本拠点の歴史（公開情報の範囲）^[inferred]",
-    "親会社全体戦略"
+    "親会社全体戦略",
+    "日本における戦略ポジショニング"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -73,8 +73,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4810,
-    "word_like_tokens": 689,
+    "nonspace_chars": 4468,
+    "word_like_tokens": 647,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }
