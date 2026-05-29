@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-30T00:37:39+09:00
+Generated: 2026-05-30T00:49:56+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -5358,7 +5358,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against ソニー生命保険 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: ソニーフィナンシャルグループ (Sony FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ構造（再上場後想定）, 主要株主（再上場後の想定構造）, 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: ソニーフィナンシャルグループ (Sony FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ構造（再上場後想定）, 主要株主（パーシャルスピンオフ後の構造、開示スキームベース）, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank, https://finwiki.zksc.io/JapanFG/sony-life, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/insurance/saison-automobile-fire, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/paypay-fg
 
 ### ソニー損害保険

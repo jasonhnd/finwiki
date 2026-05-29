@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-30T00:37:39+09:00",
+  "generated_at": "2026-05-30T00:49:56+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9803450,
-    "word_like_tokens": 1555975
+    "nonspace_utf8_chars": 9805947,
+    "word_like_tokens": 1556396
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -14780,9 +14780,9 @@
         "https://finwiki.zksc.io/payments/suica-prepaid-jr-east"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6329,
-      "word_like_tokens": 1077,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6273,
+      "word_like_tokens": 1066,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/jsda.md",
@@ -21335,9 +21335,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5580,
-      "word_like_tokens": 943,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6726,
+      "word_like_tokens": 1150,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/nec-capital-solutions.md",
@@ -24224,9 +24224,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3836,
-      "word_like_tokens": 550,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4497,
+      "word_like_tokens": 656,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/progmat.md",
@@ -29067,7 +29067,7 @@
         "TL;DR",
         "1. 会社概要",
         "主要子会社・グループ構造（再上場後想定）",
-        "主要株主（再上場後の想定構造）",
+        "主要株主（パーシャルスピンオフ後の構造、開示スキームベース）",
         "重要年表 ^[extracted]",
         "2. 事業セグメント・マップ",
         "B2C ブランド戦略",
@@ -29106,9 +29106,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4047,
-      "word_like_tokens": 563,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4879,
+      "word_like_tokens": 694,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/sony-insurance.md",
@@ -32814,9 +32814,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4775,
-      "word_like_tokens": 767,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5157,
+      "word_like_tokens": 841,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/wells-fargo-japan.md",
@@ -83714,8 +83714,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2608,
-      "word_like_tokens": 494,
+      "nonspace_chars": 2140,
+      "word_like_tokens": 408,
       "last_modified": "2026-05-30"
     }
   ]

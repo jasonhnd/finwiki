@@ -55,3 +55,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - SBI / マネックス / ソニー銀行 等の既存ホワイトラベル提携の継続可否が論点（MUFG 完全子会社化後の帰結は未確定の推測）^[ambiguous]
 - 特に [[sbi-hd]] 提携（WealthNavi for SBI 証券）は競合 SBI ラップ と並列、MUFG 子会社化後の整理が不透明（将来の経営判断に関する推測、検証可能な一次情報なし）^[ambiguous]
+
+<!-- forecast 整理 (2026-05-30) -->
