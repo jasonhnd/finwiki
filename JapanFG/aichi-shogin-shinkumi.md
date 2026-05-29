@@ -19,6 +19,8 @@ sources:
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
+  - "https://www.a-sg.jp/shogin/discloser/"
+  - "https://ja.wikipedia.org/wiki/信用組合愛知商銀"
   - "中小企業等協同組合法"
 ---
 # 信用組合愛知商銀 (Aichi Shogin Credit Cooperative)
@@ -33,6 +35,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 |---|---|
 | 正式名 | 信用組合愛知商銀 (registry 表記) |
 | 通称 | 愛知商銀 / 愛知商銀信組 |
+| 設立 | 1954-12-27 (金剛信用組合として設立、1958 年に現商号へ改称) |
 | 法人番号 | **1180005003442** ^[extracted FSA registry] |
 | FSA registry No. | **82** (東海財務局) |
 | 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
@@ -96,16 +99,19 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | **コミュニティ金融** | 教育・冠婚葬祭等の組合員向け生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI (推定) ^[ambiguous]
+## 5. KPI
 
-| 指標 | 値 | 出典 |
+| 指標 | 値 (2025-03-31 現在) | 出典 |
 |---|---|---|
-| 総資産 | 数千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
-| 預金残高 | 数千億円規模 | ^[ambiguous] |
-| 貸出金 | 数千億円規模 | ^[ambiguous] |
-| 組合員数 | 万人台規模 | ^[ambiguous] |
+| 総資産 | 約 1,569.3 億円 | Wikipedia (ディスクロージャー誌準拠) |
+| 預金残高 | 約 1,187.3 億円 | 同上 |
+| 貸出金残高 | 約 91.5 億円 | 同上 |
+| 出資金 | 約 3.7 億円 | 同上 |
+| 純資産 | 約 58.2 億円 | 同上 |
+| 従業員数 | 105 人 | 同上 |
+| 店舗数 | 8 店 | 同上 |
 
-> 注: 最新数値は愛知商銀ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
+> 注: 組合員数は当組合ディスクロージャー誌を要参照。貸出金/預金比率が低い (約 8%) のは余資を系統 (全信組連) 預け金中心で運用する民族系信組の構造を反映。最新数値は [愛知商銀ディスクロージャー](https://www.a-sg.jp/shogin/discloser/) 参照。
 
 ## 6. 監督・規制
 
@@ -134,6 +140,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 ## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 1180005003442, registry No. 82)
+- **信用組合愛知商銀 ディスクロージャー**: https://www.a-sg.jp/shogin/discloser/
+- **Wikipedia「信用組合愛知商銀」** (財務諸数値 2025-03-31 現在、沿革): https://ja.wikipedia.org/wiki/信用組合愛知商銀
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -144,4 +152,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新は愛知商銀ディスクロージャー誌を要参照。商銀系民族信組の中京代表として Wave 13 拡張で追加。2002〜2003 信組危機後の具体合併経緯 ^[ambiguous] は預金保険機構公開資料を要追加参照。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・純資産・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2025-03-31 現在) で出典付与済み (組合員数のみ要参照)。沿革 (1954-12-27 金剛信用組合として設立、1958 年に現商号へ改称、愛知・三重で営業) も Wikipedia で出典付与済み。商銀系民族信組の中京代表として Wave 13 拡張で追加。

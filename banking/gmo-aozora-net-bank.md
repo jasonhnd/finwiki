@@ -16,13 +16,14 @@ tags: [banking, net-bank, sme-bank, corporate-bank, api-banking, embedded-financ
 status: active
 sources:
   - "https://gmo-aozora.com/"
-  - "https://gmo-aozora.com/company/outline.html"
+  - "https://gmo-aozora.com/company/outline.html (株主構成: 出資 あおぞら50%/GMO IG25%/GMO FH25%, 議決権 あおぞら85.12%/GMO 7.43%+7.43%)"
   - "https://gmo-aozora.com/news/"
   - "https://gmo-aozora.com/anshin-wide/"
   - "https://gmo-aozora.com/api/"
   - "https://www.gmo.jp/"
   - "https://www.aozorabank.co.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "Wikipedia: GMOあおぞらネット銀行 (株主構成・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)"
 ---
 
 # GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)
@@ -33,7 +34,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 ## TL;DR
 
-GMO あおぞらネット銀行 (GMO Aozora Net Bank, Ltd.) is the **corporate / SME / fintech-API bank** anchor of Japan's net-bank universe — distinct from the consumer-ecosystem orientation of [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]] / [[banking/au-jibun-bank|au Jibun Bank]] and from the BaaS partner-channel architecture of [[JapanFG/ssnb|SSNB / NEOBANK]]. The bank is a joint venture: [[JapanFG/gmo-financial-hd|GMO Internet Group]] holds the majority stake (~85%) and [[JapanFG/aozora-bank|あおぞら銀行]] retains a minority position (~15%), with shareholding ratios subject to change ^[ambiguous]. The bank was rebranded in **2018-07** from its original あおぞら信託銀行 (founded 2004-04) form after GMO took majority control. Its flagship products are **あんしんワイド** (an unsecured SME / freelancer business-loan product with AI-driven underwriting using GMO Payment Gateway transaction data) and **「銀行 API for Developers」** (a comprehensive public-API stack covering balance lookup, transfer, account-opening, and accounting-SaaS integration). Strategic partners include [[fintech/japan-stablecoin-regulatory-landscape|fintech-adjacent operators]], freee, マネーフォワード, Square, Stripe, and Wise. The bank aims for the gap between traditional megabank corporate banking and consumer-led net banking — embedded finance for the SaaS / SME / freelance economy.
+GMO あおぞらネット銀行 (GMO Aozora Net Bank, Ltd.) is the **corporate / SME / fintech-API bank** anchor of Japan's net-bank universe — distinct from the consumer-ecosystem orientation of [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]] / [[banking/au-jibun-bank|au Jibun Bank]] and from the BaaS partner-channel architecture of [[JapanFG/ssnb|SSNB / NEOBANK]]. The bank is a joint venture: per the official company outline, [[JapanFG/aozora-bank|あおぞら銀行]] holds 50% of equity (and 85.12% of voting rights), while the GMO side ([[JapanFG/gmo-financial-hd|GMO Internet Group]] 25% + GMO Financial Holdings 25%) holds 50% of equity but only 7.43% + 7.43% of voting rights — i.e. Aozora retains voting control while GMO drives operations. The bank was rebranded in **2018** from its original あおぞら信託銀行 (founded 2004-04) form after GMO took operational control (Aozora retains 50% equity / 85.12% voting). Its flagship products are **あんしんワイド** (an unsecured SME / freelancer business-loan product with AI-driven underwriting using GMO Payment Gateway transaction data) and **「銀行 API for Developers」** (a comprehensive public-API stack covering balance lookup, transfer, account-opening, and accounting-SaaS integration). Strategic partners include [[fintech/japan-stablecoin-regulatory-landscape|fintech-adjacent operators]], freee, マネーフォワード, Square, Stripe, and Wise. The bank aims for the gap between traditional megabank corporate banking and consumer-led net banking — embedded finance for the SaaS / SME / freelance economy.
 
 ## 1. Identity and ownership
 
@@ -42,9 +43,9 @@ GMO あおぞらネット銀行 (GMO Aozora Net Bank, Ltd.) is the **corporate /
 | Legal name | 株式会社GMO あおぞらネット銀行 |
 | English name | GMO Aozora Net Bank, Ltd. |
 | Established | 2004-04 (originally あおぞら信託銀行) |
-| Rebrand | 2018-07 (GMO majority acquisition, name change, full retail/corporate-bank operations launched) |
+| Rebrand | 2018 (renamed from あおぞら信託銀行; full retail/corporate-bank operations launched. Note: GMO did NOT take a majority — Aozora retains 50% equity / 85.12% voting) |
 | Bank-license category | 普通銀行 (ordinary bank under 銀行法), classed under FSA "その他の銀行" |
-| Ownership (approximate, time-varying) | [[JapanFG/gmo-financial-hd|GMO Internet Group, 9449]] ~85% / [[JapanFG/aozora-bank|あおぞら銀行 (Aozora Bank, 8304)]] ~15% ^[ambiguous] |
+| Ownership (per official company outline) | Equity: [[JapanFG/aozora-bank|あおぞら銀行 (Aozora Bank, 8304)]] 50.00% / [[JapanFG/gmo-financial-hd|GMO Internet Group]] 25.00% / GMO Financial Holdings 25.00%. Voting rights: あおぞら銀行 85.12% / GMO Internet Group 7.43% / GMO Financial Holdings 7.43% |
 | HQ | Tokyo (Shibuya) |
 | Channel architecture | App + web + API; no physical branches |
 | Primary regulator | 金融庁 (FSA) |
@@ -53,25 +54,26 @@ GMO あおぞらネット銀行 (GMO Aozora Net Bank, Ltd.) is the **corporate /
 
 ```
 2004-04        : あおぞら信託銀行 opens as a wholly-owned trust-bank subsidiary of [[JapanFG/aozora-bank|あおぞら銀行]] (legacy 日本債券信用銀行 lineage)
-2016-05        : GMO Internet takes a 15% initial stake; planning the conversion into a net bank
-2018-07        : GMO Internet exceeds majority; bank rebrands to GMO あおぞらネット銀行 and starts retail + corporate banking
+2016-06        : GMO Internet takes an initial stake (~14.9% voting) via third-party allotment; Aozora ceases to be sole owner. 2016-07 GMO transfers half to GMO Click Holdings (now GMO Financial Holdings)
+2018           : bank rebrands from あおぞら信託銀行 to GMO あおぞらネット銀行 and starts retail + corporate banking. Aozora retains 50% equity / 85.12% voting; GMO side runs operations
 2019 onward    : Corporate-API and SME-loan products scaled with freee / マネーフォワード / Square / Stripe partnerships
 2020 onward    : あんしんワイド SME business-loan launched, leveraging GMO Payment Gateway transaction data for AI underwriting
-2024 onward    : IPO speculation in press; no formal commitment public ^[ambiguous]
 ```
+
+> Note: press IPO speculation (no formal company commitment) has been moved to `.opinions/banking/gmo-aozora-net-bank.md` (no verifiable primary source).
 
 ### Group-context positioning
 
 ```
 GMO Internet Group, Inc. (TSE Prime 9449, founder/CEO Masatoshi Kumagai)
-  ├── GMO あおぞらネット銀行 (~85% — this entry) — corporate / SME / API bank
+  ├── GMO あおぞらネット銀行 (GMO side: 50% equity / 14.86% voting via GMO IG + GMO FH — this entry) — corporate / SME / API bank
   ├── [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769) — payment-processing infra
   ├── [[JapanFG/gmo-click-securities|GMO Click Securities]] — net broker / FX
   ├── [[JapanFG/gmo-coin|GMO Coin]] — crypto-asset exchange
   └── Other infra / hosting / ad subsidiaries
 
 [[JapanFG/aozora-bank|Aozora Bank (TSE Prime 8304, former 日本債券信用銀行)]]
-  └── GMO あおぞらネット銀行 (~15%) — minority legacy stake
+  └── GMO あおぞらネット銀行 (50% equity / 85.12% voting rights) — controlling-vote shareholder
 ```
 
 ### Corporate / SME / freelancer account franchise
@@ -143,7 +145,7 @@ The bank's public-API stack is one of the deeper in Japan among small / mid net 
 
 ## 4. KPI shape
 
-Granular point-in-time figures (account count, deposit balance, loan-book size, あんしんワイド outstanding, partner count) appear in GMO Aozora and parent GMO Internet Group IR disclosures. ^[ambiguous] The franchise pattern through the GMO-era operating cycle (2018-07–present) shows:
+Granular point-in-time figures (account count, deposit balance, loan-book size, あんしんワイド outstanding, partner count) appear in GMO Aozora and parent GMO Internet Group IR disclosures; this page tracks the franchise pattern rather than reproducing every point-in-time number. The franchise pattern through the GMO-era operating cycle (2018–present) shows:
 
 | Metric | Pattern |
 |---|---|
@@ -151,7 +153,6 @@ Granular point-in-time figures (account count, deposit balance, loan-book size, 
 | Deposit balance | Operating-balance-driven (not deposit-promotion-driven); lower deposit-share-of-funding than consumer net banks |
 | Loan book | あんしんワイド + general corporate loans; growing |
 | Partner / API integration count | Multi-partner expansion; freee / マネーフォワード / Square / Stripe / Wise as anchors |
-| IPO speculation | Periodic press reporting; no formal company-level commitment ^[ambiguous] |
 
 ## 5. Regulatory and policy boundary
 
@@ -188,7 +189,8 @@ Granular point-in-time figures (account count, deposit balance, loan-book size, 
 ## Sources
 
 - GMO Aozora Net Bank corporate site (https://gmo-aozora.com/).
-- GMO Aozora Net Bank company outline (https://gmo-aozora.com/company/outline.html).
+- GMO Aozora Net Bank company outline — shareholding: equity Aozora 50% / GMO IG 25% / GMO FH 25%; voting Aozora 85.12% / GMO IG 7.43% / GMO FH 7.43% (https://gmo-aozora.com/company/outline.html).
+- Wikipedia: GMOあおぞらネット銀行 — shareholding history and current structure (2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行).
 - GMO Aozora Bank API for Developers (https://gmo-aozora.com/api/).
 - あんしんワイド product page (https://gmo-aozora.com/anshin-wide/).
 - GMO Internet Group corporate site (https://www.gmo.jp/).

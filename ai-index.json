@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T18:53:58+09:00",
+  "generated_at": "2026-05-29T19:11:06+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9751152,
-    "word_like_tokens": 1545010
+    "nonspace_utf8_chars": 9760210,
+    "word_like_tokens": 1546934
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,7 +467,7 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 419545,
+      "nonspace_chars": 419550,
       "word_like_tokens": 73693,
       "last_modified": "2026-05-29"
     },
@@ -2465,7 +2465,7 @@
         "全国医療系信組ネットワーク ^[extracted FSA registry 抜粋]",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI (推定) ^[ambiguous]"
+        "5. KPI"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -2493,9 +2493,11 @@
         "https://finwiki.zksc.io/banking/cooperative-banking-japan",
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
-      "markdown_links": [],
-      "nonspace_chars": 4535,
-      "word_like_tokens": 620,
+      "markdown_links": [
+        "https://www.iryoushin.com/"
+      ],
+      "nonspace_chars": 5197,
+      "word_like_tokens": 728,
       "last_modified": "2026-05-29"
     },
     {
@@ -2515,7 +2517,7 @@
         "全信組連内の位置付け",
         "商銀系信組の歴史的背景 ^[extracted]",
         "主要業務 ^[extracted]",
-        "5. KPI (推定) ^[ambiguous]",
+        "5. KPI",
         "6. 監督・規制"
       ],
       "wikilinks": [
@@ -2544,9 +2546,11 @@
         "https://finwiki.zksc.io/banking/cooperative-banking-japan",
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
-      "markdown_links": [],
-      "nonspace_chars": 4005,
-      "word_like_tokens": 534,
+      "markdown_links": [
+        "https://www.a-sg.jp/shogin/discloser/"
+      ],
+      "nonspace_chars": 4397,
+      "word_like_tokens": 628,
       "last_modified": "2026-05-29"
     },
     {
@@ -4479,8 +4483,8 @@
         "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3575,
-      "word_like_tokens": 535,
+      "nonspace_chars": 4580,
+      "word_like_tokens": 715,
       "last_modified": "2026-05-29"
     },
     {
@@ -9551,7 +9555,7 @@
         "九州・福岡財務支局信組ブロック ^[extracted FSA registry]",
         "全信組連内の位置付け",
         "主要業務 ^[extracted]",
-        "5. KPI (推定) ^[ambiguous]"
+        "5. KPI"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -9579,9 +9583,11 @@
         "https://finwiki.zksc.io/banking/cooperative-banking-japan",
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
-      "markdown_links": [],
-      "nonspace_chars": 4122,
-      "word_like_tokens": 571,
+      "markdown_links": [
+        "https://kenshin-f.jp/disclosure/"
+      ],
+      "nonspace_chars": 4479,
+      "word_like_tokens": 642,
       "last_modified": "2026-05-29"
     },
     {
@@ -10606,7 +10612,7 @@
         "全信組連内の位置付け",
         "朝銀系信用組合の歴史的経緯 ^[extracted/inferred]",
         "主要業務 ^[extracted]",
-        "5. KPI (推定) ^[ambiguous]",
+        "5. KPI",
         "6. 監督・規制"
       ],
       "wikilinks": [
@@ -10631,9 +10637,11 @@
         "https://finwiki.zksc.io/banking/cooperative-banking-japan",
         "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan"
       ],
-      "markdown_links": [],
-      "nonspace_chars": 3933,
-      "word_like_tokens": 512,
+      "markdown_links": [
+        "https://www.hanashinkumi.com/info/disclosure.php"
+      ],
+      "nonspace_chars": 4363,
+      "word_like_tokens": 606,
       "last_modified": "2026-05-29"
     },
     {
@@ -12820,9 +12828,9 @@
         "都市信連としての特徴 ^[extracted]",
         "重要年表 ^[extracted / inferred]",
         "4 大機能 (信連共通) ^[extracted]",
-        "規模感 (推定) ^[ambiguous]",
+        "規模感 (2024-12-24 現在、当会公表値)",
         "31 信連内での東信連の位置",
-        "直結方式 (JA → 農林中金 直結) 議論"
+        "都市農業対応の固有戦略"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -12853,8 +12861,8 @@
         "https://finwiki.zksc.io/banking/ja-bank-system-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4599,
-      "word_like_tokens": 710,
+      "nonspace_chars": 5095,
+      "word_like_tokens": 851,
       "last_modified": "2026-05-29"
     },
     {
@@ -16612,8 +16620,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2749,
-      "word_like_tokens": 467,
+      "nonspace_chars": 3154,
+      "word_like_tokens": 549,
       "last_modified": "2026-05-29"
     },
     {
@@ -17632,7 +17640,7 @@
         "1. 法人構造",
         "機関設計 ^[extracted]",
         "業務範囲 ^[extracted]",
-        "融資残高 (概算) ^[ambiguous]",
+        "貸付金残高",
         "公営企業金融公庫時代 (1957-2008)",
         "地方公共団体金融機構時代 (2009-現在)",
         "3. 事業セグメント map"
@@ -17660,8 +17668,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4549,
-      "word_like_tokens": 561,
+      "nonspace_chars": 4863,
+      "word_like_tokens": 686,
       "last_modified": "2026-05-29"
     },
     {
@@ -32771,7 +32779,7 @@
         "TL;DR",
         "1. 会社概要",
         "創業者背景 ^[extracted]",
-        "主要事業数値（公開情報ベース）^[ambiguous]",
+        "主要事業数値（公開情報ベース）",
         "主要提携サービス（ホワイトラベル展開）^[extracted]",
         "重要年表 ^[extracted]",
         "2. 事業セグメント・マップ",
@@ -32804,8 +32812,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4161,
-      "word_like_tokens": 642,
+      "nonspace_chars": 4775,
+      "word_like_tokens": 767,
       "last_modified": "2026-05-29"
     },
     {
@@ -37301,8 +37309,8 @@
         "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route"
       ],
       "markdown_links": [],
-      "nonspace_chars": 10566,
-      "word_like_tokens": 1618,
+      "nonspace_chars": 11469,
+      "word_like_tokens": 1814,
       "last_modified": "2026-05-29"
     },
     {
@@ -37577,9 +37585,9 @@
         "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 32565,
-      "word_like_tokens": 5026,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 33250,
+      "word_like_tokens": 5162,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "banking/japan-foreign-bank-retreat-refocus-timeline-matrix.md",
@@ -39293,8 +39301,8 @@
         "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7335,
-      "word_like_tokens": 1167,
+      "nonspace_chars": 8214,
+      "word_like_tokens": 1341,
       "last_modified": "2026-05-29"
     },
     {
@@ -39439,8 +39447,8 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13618,
-      "word_like_tokens": 2174,
+      "nonspace_chars": 14868,
+      "word_like_tokens": 2372,
       "last_modified": "2026-05-29"
     },
     {
@@ -67848,8 +67856,8 @@
         "https://finwiki.zksc.io/payments/visa-mastercard-amex-jcb-japan-operating-comparison"
       ],
       "markdown_links": [],
-      "nonspace_chars": 25762,
-      "word_like_tokens": 4212,
+      "nonspace_chars": 26361,
+      "word_like_tokens": 4393,
       "last_modified": "2026-05-29"
     },
     {
@@ -69358,8 +69366,8 @@
         "https://finwiki.zksc.io/payments/jcb-three-party-operating-model"
       ],
       "markdown_links": [],
-      "nonspace_chars": 28419,
-      "word_like_tokens": 4480,
+      "nonspace_chars": 28341,
+      "word_like_tokens": 4482,
       "last_modified": "2026-05-29"
     },
     {
@@ -83704,8 +83712,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2566,
-      "word_like_tokens": 487,
+      "nonspace_chars": 2706,
+      "word_like_tokens": 504,
       "last_modified": "2026-05-29"
     }
   ]

@@ -13,6 +13,9 @@ sources:
   - "Wikipedia: ウェルスナビ (2026-05-19 抽出)"
   - WealthNavi 公式コーポレートサイト 沿革ページ
   - 2024-12-12 MUFG / WealthNavi 共同公開買付発表リリース (公開資料)
+  - "ウェルスナビ公式 ニュースリリース 預かり資産2兆円突破 (2026-05-12, https://corp.wealthnavi.com/)"
+  - "PR TIMES: WealthNavi 預かり資産1兆円突破 (2024-01-11, https://prtimes.jp/main/html/rd/p/000000319.000014586.html)"
+  - "時事通信 Financial: ウェルスナビ第3四半期決算 運用者数41.6万人 (2024-09末, https://financial.jiji.com/long_investment/article.html?number=728)"
 ---
 
 # ウェルスナビ株式会社 (WealthNavi)
@@ -23,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-国内ロボアドバイザリー型資産運用サービス最大手。**預かり資産約 1 兆円 ^[ambiguous]**、運用者数約 40 万人規模 ^[ambiguous]。2015-04-28 柴山和久（元 マッキンゼー、財務省出身）創業、2016-07 サービス開始。2020-12-22 東証マザーズ上場（証券コード **7342**、現 グロース）。**2024-12-12 三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表 ★** ── 国内ロボアドのパイオニアがメガバンク AI 金融エコシステムに統合される転換点。^[extracted]
+国内ロボアドバイザリー型資産運用サービス最大手。**預かり資産 2 兆円突破（2026-05-12 公表）**、運用者数約 41.6 万人（2024-09 末）。2015-04-28 柴山和久（元 マッキンゼー、財務省出身）創業、2016-07 サービス開始。2020-12-22 東証マザーズ上場（証券コード **7342**、現 グロース）。**2024-12-12 三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表 ★** ── 国内ロボアドのパイオニアがメガバンク AI 金融エコシステムに統合される転換点。^[extracted]
 
 ## 1. 会社概要
 
@@ -45,12 +48,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | キャリア | 財務省（旧 大蔵省）→ Mckinsey & Company（マッキンゼー）→ 創業 |
 | 創業動機 | 「働く世代の豊かさを支える」を掲げ、米国型ロボアド（Betterment / Wealthfront）を日本に導入 |
 
-### 主要事業数値（公開情報ベース）^[ambiguous]
+### 主要事業数値（公開情報ベース）
 
-| 項目 | 概数 |
+| 項目 | 数値 |
 |---|---|
-| 預かり資産 | 約 1 兆円（国内ロボアド No.1）|
-| 運用者数 | 約 40 万人規模 |
+| 預かり資産 | 2 兆円突破（2026-05-12 公表、国内ロボアド No.1）|
+| 運用者数 | 約 41.6 万人（2024-09 末、前年同期比 +9%）|
 | 主要運用先 | 米国上場 ETF 7 銘柄（VTI / VEA / VWO / AGG / GLD / IYR / TIP 系）中心 |
 | 手数料 | 預かり資産の年率 1.1%（税込、3000 万円超部分は 0.55%）|
 
@@ -81,7 +84,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2020-12-22** | **東証マザーズ上場（証券コード 7342）** ── 国内ロボアド初の IPO |
 | 2021 | 預かり資産 5000 億円突破 |
 | 2022-04 | 東証市場区分見直しで グロース市場 へ移行 |
-| 2023 | 預かり資産 1 兆円達成（国内ロボアド初）^[ambiguous] |
+| **2024-01-11** | **預かり資産 1 兆円突破（国内ロボアド初）** — 2016-07 リリースから約 7 年 5 か月 |
 | 2024 | 新 NISA 制度開始対応（つみたて投資枠・成長投資枠両対応）|
 | **2024-12-12** | **三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表** ★ |
 | 2025 ^[forecast] | MUFG 完全子会社化完了予定、上場廃止見込み |
@@ -105,9 +108,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 競争ポジション
 
-| プレイヤー | 親会社 | 預かり資産規模 ^[ambiguous] | 特徴 |
+| プレイヤー | 親会社 | 預かり資産規模（概算・時点差あり）| 特徴 |
 |---|---|---|---|
-| **WealthNavi** | → MUFG 子会社化（2024-12 発表）| 約 1 兆円 | 国内ロボアド No.1 |
+| **WealthNavi** | → MUFG 子会社化（2024-12 発表）| 2 兆円突破（2026-05）| 国内ロボアド No.1 |
 | THEO | お金のデザイン | 数千億円規模 | docomo 提携（THEO+ docomo）|
 | SBI ラップ | [[sbi-hd]] 内 | 拡大中 | グループ顧客取り込み |
 | 楽天証券ラップ | [[rakuten-fg]] 内 | - | グループ統合運用 |
@@ -118,10 +121,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### MUFG 子会社化（2024-12-12 発表）★
 
 - **公開買付者**: 三菱 UFJ 銀行（MUFG Bank、[[mufg]] 100% 子会社）
-- **戦略的意義**:
-- **競争影響**:
-  - SBI / マネックス / ソニー銀行 等の既存ホワイトラベル提携の継続可否が論点 ^[ambiguous]
-  - 特に [[sbi-hd]] 提携（WealthNavi for SBI 証券）は競合 SBI ラップ と並列、MUFG 子会社化後の整理が不透明 ^[ambiguous]
+
+> 注：MUFG 完全子会社化後のホワイトラベル提携（SBI / マネックス / ソニー銀行 等）の継続可否・戦略的意義に関する推測は `.opinions/JapanFG/wealthnavi.md` に隔離（検証可能な一次情報なし）。
 
 ### ビジネスモデル特性
 
@@ -149,6 +150,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - WealthNavi 公式コーポレートサイト 沿革・会社概要ページ
 - 2024-12-12 三菱 UFJ 銀行 / WealthNavi 共同 TOB 発表リリース（公開資料）
 - 東証グロース 7342 適時開示資料
+- **ウェルスナビ公式 ニュースリリース**：預かり資産 2 兆円突破（2026-05-12 公表、https://corp.wealthnavi.com/）
+- **PR TIMES**：WealthNavi 預かり資産 1 兆円突破（2024-01-11 時点、https://prtimes.jp/main/html/rd/p/000000319.000014586.html）
+- **時事通信 Financial**：ウェルスナビ第 3 四半期決算 運用者数 41.6 万人（2024-09 末、前年同期比 +9%、https://financial.jiji.com/long_investment/article.html?number=728）
 
 ---
 

@@ -78,3 +78,13 @@ Because JASDEC is the sole domestic CSD for dematerialized equity / corp bonds /
 - How does real-estate trust fee economics at MUFG Trust / SMTB / Mizuho Trust compare across the property-market cycle?
 - Will tokenized-security custody fee structure be premium-priced (like cross-border premium today) or rapidly commoditized?
 - How does the SMBC Trust PB / 富裕層 fee model compare to UHNW custody at BNY / State Street?
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## TL;DR の推論的ヘッジ (本文から分離)
+
+- "The public-visible reading is largely inferential and ambiguous — actual mandate-level pricing is opaque to outside readers." — 主観的な「inferential / ambiguous」評価。事実値ではなく、本文の料率推論全体に対するメタ評価のため隔離。本文側はマンデート別価格が非開示である旨の客観的記述のみ残置。
+
+## Implied fee revenue の entity 別推論 (本文から分離)
+
+- "For MTBJ and CBJ at ~¥600-700tn AUC each, gross custody-related revenue is in the rough range of low hundreds of billions of yen per year per entity. Public-disclosed shareholder-consolidated numbers are consistent with this order of magnitude but cannot be cleanly attributed to a single fee line." — 仮定 bps × AUC から導いた MTBJ / CBJ の粗収益推計。開示された単一手数料ラインに帰属できないため隔離。本文側の "If X bps → Y revenue" の仮定算術表は保持（明示的に仮定値であるため）。なお本文の AUC は MTBJ ~¥770兆 (2025-03末) / CBJ ~¥696兆 (2025-03末) に更新済み。

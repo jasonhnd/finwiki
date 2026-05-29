@@ -37,12 +37,17 @@
       "https://www.shintaku-kyokai.or.jp/trust/trustbanks/",
       "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf",
       "https://www.mastertrust.co.jp/",
+      "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf",
       "https://www.custody.jp/",
+      "https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf",
       "https://www.mufg.jp/dam/ir/financial/index.html",
       "https://www.smtrust-holdings.co.jp/ir/",
       "https://www.mizuho-fg.co.jp/investors/index.html",
       "https://www.bnymellon.com/us/en/investor-relations/financial-reports.html",
       "https://investors.statestreet.com/",
+      "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+      "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32024/2024pr-qtr3rslt.pdf",
+      "https://www.jpmorgan.com/securities-services",
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
     ]
   },
@@ -123,8 +128,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13618,
-    "word_like_tokens": 2174,
+    "nonspace_chars": 14868,
+    "word_like_tokens": 2372,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

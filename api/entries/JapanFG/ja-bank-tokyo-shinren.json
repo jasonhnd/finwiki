@@ -38,6 +38,8 @@
     "sources": [
       "https://www.jabank.org/about/sikumi/banksystem/",
       "https://www.ja-tokyo.or.jp/",
+      "http://shinren.jatokyo.or.jp/organization.html",
+      "https://ja.wikipedia.org/wiki/東京都信用農業協同組合連合会",
       "https://www.nochubank.or.jp/about/features.html",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -52,9 +54,9 @@
     "都市信連としての特徴 ^[extracted]",
     "重要年表 ^[extracted / inferred]",
     "4 大機能 (信連共通) ^[extracted]",
-    "規模感 (推定) ^[ambiguous]",
+    "規模感 (2024-12-24 現在、当会公表値)",
     "31 信連内での東信連の位置",
-    "直結方式 (JA → 農林中金 直結) 議論"
+    "都市農業対応の固有戦略"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -90,8 +92,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4599,
-    "word_like_tokens": 710,
+    "nonspace_chars": 5095,
+    "word_like_tokens": 851,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }
