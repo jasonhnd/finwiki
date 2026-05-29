@@ -108,8 +108,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## 6. Counterpoints
 
-- **「ニチメン + 日商岩井 統合の長期効果」**: 2004 統合から 20 年経過、収益体質改善は実現したが 5 大商社のような大型 M&A・global 展開には至らず ^[ambiguous]
-
 ## 7. Open questions
 
 - **5 大商社級** への成長 (純利益 2,000 億円超え) は可能か

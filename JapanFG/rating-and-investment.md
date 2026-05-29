@@ -87,7 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### vs グローバル 3 大（S&P / Moody's / Fitch）
 
-- **日本企業格付は国際 3 大よりも 1〜2 ノッチ高い** 傾向（[[JapanFG/jcr|JCR]] 同様）^[ambiguous]
 - 国内市場では R&I + JCR の 2 社格付が標準、国際発行体は加えて S&P or Moody's を取得するのが定石
 - ECAI（外部信用評価機関）認定済 → バーゼル基準下で銀行リスクアセット算定に利用可
 

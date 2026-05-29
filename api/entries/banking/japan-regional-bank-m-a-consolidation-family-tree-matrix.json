@@ -45,7 +45,8 @@
       "https://www.fsa.go.jp/news/r6/ginkou/20250612/20250612.html",
       "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
       "https://www.chiginkyo.or.jp/",
-      "FG IR disclosures for each holding company referenced"
+      "FG IR disclosures for each holding company referenced",
+      "https://ja.wikipedia.org/wiki/SBI地銀ホールディングス"
     ]
   },
   "summary": "Post-1990 regional-bank consolidation in Japan has produced a layered map of bank holding companies, each combining one or more first-regional (\"地銀\") and/or second-regional (\"第二地銀\") predecessors, and in some cases a credit-cooperative / 新銀行 predecessor. This matrix collects the surviving FG name, ye",
@@ -231,9 +232,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 30571,
-    "word_like_tokens": 5374,
+    "nonspace_chars": 30996,
+    "word_like_tokens": 5466,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

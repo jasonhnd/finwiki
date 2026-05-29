@@ -110,9 +110,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メガバンク**: [[mufg]]・[[smfg]]・[[mizuho-fg]] 県内拠点とは大型法人案件で住み分け
 - **第二地銀協会 加盟**: 全国第二地銀ネットワーク（[[fidea-hd]]・[[jimoto-hd]] 等）との情報共有・相互 ATM 提携
 
-### 再編シナリオ（投機的）
+### 再編シナリオ
 
-- **県内 3 行 → 2 行統合論**: [[okinawa-fg]] の Counterpoints 欄でも触れられている通り、海邦銀行の経営体力次第で県内再編論が浮上しうる ^[ambiguous]
 - 現状は均衡維持。本土第二地銀の統合事例（[[fidea-hd]]・北日本 FG 等）と異なり、**沖縄では 3 行寡占が長期安定**
 
 ## 4. 規制・政策

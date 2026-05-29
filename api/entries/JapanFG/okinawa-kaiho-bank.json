@@ -87,8 +87,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4692,
-    "word_like_tokens": 642,
+    "nonspace_chars": 4595,
+    "word_like_tokens": 629,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

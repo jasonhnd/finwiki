@@ -122,7 +122,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 6. Counterpoints
 
 - 「2005-2006 不払い事件」: 業界全体の信頼を毀損した歴史、再発防止コミットメント継続
-- 「B2C ブランド露出 ROI」: Jリーグ・巨人スポンサーは認知に効くが、新契約獲得への直接寄与は計測困難 ^[ambiguous]
 
 ## 7. Open questions
 

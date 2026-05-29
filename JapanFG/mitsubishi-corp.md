@@ -115,8 +115,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## 6. Counterpoints
 
-- **「ローソン非公開化の効果」**: KDDI 50/50 体制 + TOB 後の statement-of-strategy が、コンビニ事業のリテール金融・ヘルスケア連携にどれだけ寄与するか未確定 ^[ambiguous]
-
 ## 7. Open questions
 
 - 2024〜 の **ローソン 非公開化後の戦略** — KDDI との「リアル × デジタル」シナジー、コンビニ ATM (旧 ローソン銀行) の今後の位置付けは？

@@ -51,3 +51,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **DX × GX**: J:COM / SCSK のデジタル知見を core asset 化、再エネ・IPP ポートフォリオ強化
 - **株主還元**: 累進配当 + 自社株買い、PBR 1.0x 超を意識
 - **不正再発防止**: 1996 銅地金不正取引事件 (浜中事件) 以降、internal control / risk management 強化を継続テーマ化
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+### Counterpoint — マダガスカル ニッケル (Ambatovy) ^[inferred]
+
+- **「マダガスカル ニッケル (Ambatovy) の収益化」**: 過去に巨額減損計上、長期収益化への疑問。検証可能な単一出典のない評価的論点のため本文から分離。

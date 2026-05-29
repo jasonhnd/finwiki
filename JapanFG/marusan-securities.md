@@ -84,7 +84,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **規制**：金融商品取引法・日本証券業協会 ([[JapanFG/jsda|JSDA]]) 自主規制
 - **直近政策論点**：
   - 2025〜 顧客本位の業務運営 (FD 原則) 強化：対面コンサル型営業の正当化要素
-  - 中堅独立証券業界の再編論議 (規模の劣後問題) ^[ambiguous]
 
 ## Related
 

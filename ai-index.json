@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T23:22:04+09:00",
+  "generated_at": "2026-05-30T00:02:48+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9798208,
-    "word_like_tokens": 1554908
+    "nonspace_utf8_chars": 9800799,
+    "word_like_tokens": 1555481
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,9 +467,9 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 420380,
-      "word_like_tokens": 73900,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 420604,
+      "word_like_tokens": 73953,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -13870,8 +13870,8 @@
         "https://finwiki.zksc.io/corporate-strategy/parent-subsidiary-listing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4027,
-      "word_like_tokens": 607,
+      "nonspace_chars": 3984,
+      "word_like_tokens": 605,
       "last_modified": "2026-05-29"
     },
     {
@@ -13969,8 +13969,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4036,
-      "word_like_tokens": 615,
+      "nonspace_chars": 3997,
+      "word_like_tokens": 611,
       "last_modified": "2026-05-29"
     },
     {
@@ -14321,8 +14321,8 @@
         "https://finwiki.zksc.io/norinchukin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5028,
-      "word_like_tokens": 758,
+      "nonspace_chars": 5544,
+      "word_like_tokens": 868,
       "last_modified": "2026-05-29"
     },
     {
@@ -15506,8 +15506,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3337,
-      "word_like_tokens": 490,
+      "nonspace_chars": 3267,
+      "word_like_tokens": 482,
       "last_modified": "2026-05-29"
     },
     {
@@ -15600,8 +15600,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4040,
-      "word_like_tokens": 621,
+      "nonspace_chars": 3993,
+      "word_like_tokens": 614,
       "last_modified": "2026-05-29"
     },
     {
@@ -16361,8 +16361,8 @@
         "https://finwiki.zksc.io/tokio-marine"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3859,
-      "word_like_tokens": 592,
+      "nonspace_chars": 3951,
+      "word_like_tokens": 610,
       "last_modified": "2026-05-29"
     },
     {
@@ -17813,8 +17813,8 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5214,
-      "word_like_tokens": 811,
+      "nonspace_chars": 5132,
+      "word_like_tokens": 799,
       "last_modified": "2026-05-29"
     },
     {
@@ -17944,8 +17944,8 @@
         "https://finwiki.zksc.io/securities/japan-online-brokerage-competition"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3323,
-      "word_like_tokens": 451,
+      "nonspace_chars": 3288,
+      "word_like_tokens": 448,
       "last_modified": "2026-05-29"
     },
     {
@@ -18494,8 +18494,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3842,
-      "word_like_tokens": 555,
+      "nonspace_chars": 3778,
+      "word_like_tokens": 548,
       "last_modified": "2026-05-29"
     },
     {
@@ -19457,8 +19457,8 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5739,
-      "word_like_tokens": 908,
+      "nonspace_chars": 5634,
+      "word_like_tokens": 895,
       "last_modified": "2026-05-29"
     },
     {
@@ -20902,8 +20902,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2898,
-      "word_like_tokens": 396,
+      "nonspace_chars": 2761,
+      "word_like_tokens": 386,
       "last_modified": "2026-05-29"
     },
     {
@@ -21752,8 +21752,8 @@
         "https://finwiki.zksc.io/yucho"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4237,
-      "word_like_tokens": 659,
+      "nonspace_chars": 4982,
+      "word_like_tokens": 790,
       "last_modified": "2026-05-29"
     },
     {
@@ -23034,8 +23034,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4692,
-      "word_like_tokens": 642,
+      "nonspace_chars": 4595,
+      "word_like_tokens": 629,
       "last_modified": "2026-05-29"
     },
     {
@@ -23347,8 +23347,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4645,
-      "word_like_tokens": 740,
+      "nonspace_chars": 4592,
+      "word_like_tokens": 733,
       "last_modified": "2026-05-29"
     },
     {
@@ -24787,9 +24787,9 @@
         "https://finwiki.zksc.io/JapanFG/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3404,
-      "word_like_tokens": 553,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3340,
+      "word_like_tokens": 541,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/rbc-japan.md",
@@ -26167,8 +26167,8 @@
         "https://finwiki.zksc.io/zurich-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3692,
-      "word_like_tokens": 591,
+      "nonspace_chars": 4140,
+      "word_like_tokens": 675,
       "last_modified": "2026-05-29"
     },
     {
@@ -28151,8 +28151,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5384,
-      "word_like_tokens": 810,
+      "nonspace_chars": 5883,
+      "word_like_tokens": 896,
       "last_modified": "2026-05-29"
     },
     {
@@ -28621,8 +28621,8 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4942,
-      "word_like_tokens": 777,
+      "nonspace_chars": 4853,
+      "word_like_tokens": 761,
       "last_modified": "2026-05-29"
     },
     {
@@ -29733,8 +29733,8 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5501,
-      "word_like_tokens": 836,
+      "nonspace_chars": 5438,
+      "word_like_tokens": 829,
       "last_modified": "2026-05-29"
     },
     {
@@ -38186,9 +38186,9 @@
         "https://finwiki.zksc.io/JapanFG/sbi-regional-bank-hd\\"
       ],
       "markdown_links": [],
-      "nonspace_chars": 30571,
-      "word_like_tokens": 5374,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 30996,
+      "word_like_tokens": 5466,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "banking/japan-stablecoin-bank-perimeter-2025.md",
@@ -72819,8 +72819,8 @@
         "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13557,
-      "word_like_tokens": 2167,
+      "nonspace_chars": 13904,
+      "word_like_tokens": 2240,
       "last_modified": "2026-05-29"
     },
     {
@@ -83714,9 +83714,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2579,
-      "word_like_tokens": 490,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2862,
+      "word_like_tokens": 537,
+      "last_modified": "2026-05-30"
     }
   ]
 }

@@ -110,8 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## 6. Counterpoints
 
-- **「Gavilon 売却の評価」**: 2013 高値買収 → 2022 売却の収益性評価、商社の global commodity trading 撤退論 ^[ambiguous]
-
 ## 7. Open questions
 
 - **電力 IPP** ポートフォリオの再エネシフト進度、洋上風力・水素・アンモニア の収益化

@@ -105,7 +105,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - [[JapanFG/japan-post-bank|ゆうちょ銀行]] を含む日本郵政グループが楽天グループ（4755）に出資
 - 物流・モバイル・金融分野での連携
-- 楽天モバイル赤字構造に対する間接的リスクエクスポージャー論議 ^[ambiguous]
 
 ### 金融 2 社民営化の進捗
 

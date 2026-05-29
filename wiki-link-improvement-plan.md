@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 15 |
+| Changed or new entries in current worktree | 21 |
 
 ## Wiki Linking Standard
 
@@ -31,21 +31,27 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/chukyo-bank.md` | `M` | 26 | ok |
-| `JapanFG/concordia-fg.md` | `M` | 12 | ok |
-| `JapanFG/goldman-sachs-japan.md` | `M` | 16 | ok |
-| `JapanFG/hokkoku-fhd.md` | `M` | 18 | ok |
-| `JapanFG/ja-zen-noh.md` | `M` | 10 | ok |
-| `JapanFG/jcr.md` | `M` | 11 | ok |
-| `JapanFG/mufg.md` | `M` | 4 | ok |
-| `JapanFG/orient-trust-japan.md` | `M` | 31 | ok |
-| `JapanFG/san-jusan-fg.md` | `M` | 8 | ok |
-| `JapanFG/smbc.md` | `M` | 32 | ok |
-| `JapanFG/sompo.md` | `M` | 6 | ok |
-| `JapanFG/standard-chartered-japan.md` | `M` | 9 | ok |
-| `banking/daiwa-next-bank.md` | `M` | 38 | ok |
-| `banking/japan-stablecoin-bank-perimeter-2025.md` | `M` | 29 | ok |
-| `banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md` | `M` | 34 | ok |
+| `JapanFG/japan-post-holdings.md` | `M` | 33 | ok |
+| `JapanFG/jbic.md` | `M` | 15 | ok |
+| `JapanFG/jf-zengyoren.md` | `M` | 23 | ok |
+| `JapanFG/keiyo-bank.md` | `M` | 17 | ok |
+| `JapanFG/kiraboshi-fg.md` | `M` | 3 | ok |
+| `JapanFG/kyoritsu-fire-marine.md` | `M` | 10 | ok |
+| `JapanFG/marubeni-corp.md` | `M` | 24 | ok |
+| `JapanFG/marusan-securities.md` | `M` | 24 | ok |
+| `JapanFG/meiji-yasuda.md` | `M` | 16 | ok |
+| `JapanFG/mitsubishi-corp.md` | `M` | 24 | ok |
+| `JapanFG/musashino-bank.md` | `M` | 11 | ok |
+| `JapanFG/nippon-post.md` | `M` | 27 | ok |
+| `JapanFG/okinawa-kaiho-bank.md` | `M` | 18 | ok |
+| `JapanFG/orix-corp.md` | `M` | 3 | ok |
+| `JapanFG/rating-and-investment.md` | `M` | 11 | ok |
+| `JapanFG/sbi-insurance-group.md` | `M` | 14 | ok |
+| `JapanFG/smbc-nikko.md` | `M` | 40 | ok |
+| `JapanFG/sojitz-corp.md` | `M` | 30 | ok |
+| `JapanFG/sumitomo-corp.md` | `M` | 35 | ok |
+| `banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md` | `M` | 334 | ok |
+| `real-estate-finance/japan-real-estate-appraisal-methodology.md` | `M` | 24 | ok |
 
 ## Domain Snapshot
 

@@ -116,7 +116,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **直近政策論点**：
   - 2024〜 日銀政策金利正常化 → 国内金利マージン改善（地銀全般のボーナス）
   - 2025〜 中小企業の事業承継 / M&A 支援 — 政府の地銀役割期待
-  - 地銀再編圧力（数十年単位）— 「東京特化」で独立貫徹 vs 将来的系列入り ^[ambiguous]
 
 ## Related
 

@@ -13,6 +13,9 @@ sources:
   - "Wikipedia: 日本郵政 (2026-05-19 抽出)"
   - "Wikipedia: ゆうちょ銀行 / かんぽ生命保険 (2026-05-19 抽出)"
   - "郵政民営化法 / 日本郵政株式会社法 公開条文"
+  - "楽天グループ 公式プレスリリース「日本郵政グループと楽天グループ、資本・業務提携に合意」(2021-03-12) — https://corp.rakuten.co.jp/news/press/2021/0312_02.html"
+  - "Bloomberg「日本郵政が楽天に1500億円出資、資本業務提携－物流以外も連携へ」(2021-03-12) — https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01"
+  - "日本経済新聞「日本郵政、楽天G株で850億円の特損計上 23年4〜6月」 — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/"
 ---
 # 日本郵政 (Japan Post Holdings)
 
@@ -94,7 +97,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 提携・買収戦略
 
-- **楽天グループ提携・解消**（2021-03 → 2024 ほぼ売却）: 出資 1,500 億円規模だったが、楽天モバイル赤字 + 物流 JV 進捗鈍化で実質撤収。提携自体はモバイル / 物流分野で残る ^[ambiguous]
+- **楽天グループ資本業務提携**（2021-03-12）: 日本郵政が楽天グループ（4755）の第三者割当増資を引き受け、約 1,500 億円を出資（出資比率 8.32%、第 4 位株主）。物流・モバイル・金融・EC 分野で連携。その後、楽天モバイル事業の不振による楽天 G 株価下落を受け、日本郵政は 2023 年 4〜6 月期に約 800〜850 億円の特別損失（減損）を計上
 - **金融 2 社株式の段階処分**: 民営化法上、日本郵政は [[yucho]] / [[kampo-life]] 株を段階的に処分する目標。一方で郵便局網と金融販売の不可分性から、完全分離には政治的抵抗がある ^[extracted]
 - **政府保有株の追加売出**: 復興財源・国債償還財源として政府保有株売出が累次実施されてきた
 
@@ -126,6 +129,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: ゆうちょ銀行 / かんぽ生命保険**（2026-05-19 抽出、補強用）
 - 郵政民営化法 / 日本郵政株式会社法（e-Gov 法令検索 公開条文）
 - 日本郵政グループ 中期経営計画（公式 IR 公開資料）
+- 楽天グループ 公式プレスリリース「日本郵政グループと楽天グループ、資本・業務提携に合意」（2021-03-12）— https://corp.rakuten.co.jp/news/press/2021/0312_02.html
+- Bloomberg「日本郵政が楽天に1500億円出資、資本業務提携－物流以外も連携へ」（2021-03-12）— https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01
+- 日本経済新聞「日本郵政、楽天G株で850億円の特損計上 23年4〜6月」— https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/
 
 ---
 

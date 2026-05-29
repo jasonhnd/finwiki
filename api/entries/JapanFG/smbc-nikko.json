@@ -35,7 +35,9 @@
       "Wikipedia: 日興コーディアル証券 (公開情報、2026-05-19 抽出)",
       "SMBC 日興証券 公式コーポレートサイト / 沿革ページ (公開情報)",
       "三井住友フィナンシャルグループ IR 公開資料 (連結子会社情報)",
-      "金融庁 業務改善命令 / 業務停止命令 公表資料 (2022-10)"
+      "金融庁 業務改善命令 / 業務停止命令 公表資料 (2022-10)",
+      "https://diamond.jp/articles/-/305405",
+      "https://jbpress.ismedia.jp/articles/-/76962"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -87,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5384,
-    "word_like_tokens": 810,
+    "nonspace_chars": 5883,
+    "word_like_tokens": 896,
     "inbound_wikilinks_count": 60,
     "last_modified": "2026-05-29"
   }
