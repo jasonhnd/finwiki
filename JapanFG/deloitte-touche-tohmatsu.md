@@ -30,7 +30,6 @@ sources:
   - https://www.fsa.go.jp/cpaaob/
   - https://disclosure2.edinet-fsa.go.jp/
 ---
-
 # 有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)
 
 ## Wiki route
@@ -49,15 +48,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
   - デロイト トーマツ ファイナンシャルアドバイザリー合同会社（FAS / M&A）
   - デロイト トーマツ 税理士法人（税務）
   - デロイト トーマツ リスクアドバイザリー合同会社（リスク / サイバー）^[extracted]
-
-### 規模（公開ベース概算）^[inferred]
-
-| 指標 | 概算 |
-|---|---|
-| 公認会計士（社員 + 職員） | 5,000 名超 |
-| 上場会社監査クライアント数 | 700-800 社級 |
-| 大手金融機関監査 | 大手証券・大手生損保・大手 VASP を含む複数案件 |
-| 拠点 | 全国主要都市 |
 
 ## 2. 沿革
 

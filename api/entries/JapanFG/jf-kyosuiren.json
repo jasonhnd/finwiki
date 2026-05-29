@@ -53,11 +53,11 @@
     "JF グループ 3 大全国連合会 ^[extracted]",
     "JA 共済連との対比 ^[extracted / inferred]",
     "重要年表 ^[extracted / inferred]",
-    "主要共済商品 ^[inferred]",
-    "漁船共済 = JF 共水連の固有強み ^[inferred]"
+    "JA 共済連との規模対比",
+    "漁業者組合員特性"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 14,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/ja-kyosairen",
@@ -68,11 +68,7 @@
       "JapanFG/jf-shingyoren",
       "JapanFG/jf-zengyoren",
       "JapanFG/kyoritsu-fire-marine",
-      "JapanFG/msad",
       "JapanFG/norinchukin",
-      "JapanFG/sompo",
-      "JapanFG/tokio-marine",
-      "JapanFG/zenrosai",
       "banking/cooperative-banking-japan",
       "banking/jf-marine-bank-system-japan",
       "insurance/INDEX",
@@ -88,11 +84,7 @@
       "https://finwiki.zksc.io/JapanFG/jf-shingyoren",
       "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
       "https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine",
-      "https://finwiki.zksc.io/JapanFG/msad",
       "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/sompo",
-      "https://finwiki.zksc.io/JapanFG/tokio-marine",
-      "https://finwiki.zksc.io/JapanFG/zenrosai",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -102,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6446,
-    "word_like_tokens": 1014,
+    "nonspace_chars": 4904,
+    "word_like_tokens": 794,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

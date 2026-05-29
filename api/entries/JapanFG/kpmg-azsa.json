@@ -46,13 +46,13 @@
     "有限責任 あずさ監査法人 (KPMG AZSA)",
     "Wiki route",
     "1. 法人概要",
-    "規模（公開ベース概算）^[inferred]",
     "2. 沿革",
     "金融機関監査（最大強み）^[extracted]",
     "暗号資産・デジタルアセット ^[extracted]",
     "地方銀行 / 地方公共団体",
     "サステナビリティ保証",
-    "4. 主要 listed FG クライアント関係（公開ベース）"
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -88,8 +88,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3789,
-    "word_like_tokens": 543,
+    "nonspace_chars": 3661,
+    "word_like_tokens": 523,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

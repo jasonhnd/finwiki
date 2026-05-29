@@ -97,3 +97,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 静銀ティーエム証券・しずぎんリース との cross-sell KPI 目標
 - [[shizuoka-fg]] 「みんなの銀行」相当のデジタルバンク戦略連動 (FFG model 模倣) 余地 ^[inferred]
 - 静岡県内同業 ([[suruga-bank]] / [[shimizu-bank]]) との県内決済アライアンス可能性
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+### 収益構造の特徴 ^[inferred]
+
+- 主要収益源は **加盟店手数料 (interchange) + 年会費 + キャッシング金利 + リボ手数料 + ショッピングクレジット手数料**
+- [[shizuoka-bank|静岡銀行]] 個人 / 法人顧客 (預金口座連動) からのカード発行が成長 driver
+- 業績は親 [[shizuoka-fg]] 連結セグメント情報経由で部分開示 ^[ambiguous]

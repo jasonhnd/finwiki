@@ -48,12 +48,12 @@
     "Wiki route",
     "1. 法人概要",
     "組合員資格 ^[extracted]",
-    "組合員から除外される範囲 ^[inferred]",
-    "営業拠点 ^[inferred]",
     "全信組連内の位置付け",
-    "全国自治体職員信組ネットワーク ^[inferred]",
     "主要業務 ^[extracted]",
-    "ALM・資金フロー ^[inferred]"
+    "5. KPI (推定) ^[ambiguous]",
+    "6. 監督・規制",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -81,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4235,
-    "word_like_tokens": 544,
+    "nonspace_chars": 3315,
+    "word_like_tokens": 437,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

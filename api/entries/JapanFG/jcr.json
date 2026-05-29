@@ -51,7 +51,7 @@
     "競争上の特徴"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/fsa",
@@ -59,9 +59,7 @@
       "JapanFG/mizuho-fg",
       "JapanFG/mufg",
       "JapanFG/rating-and-investment",
-      "JapanFG/smfg",
-      "finance/issb",
-      "finance/ssbj"
+      "JapanFG/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
@@ -70,16 +68,14 @@
       "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/rating-and-investment",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/finance/issb",
-      "https://finwiki.zksc.io/finance/ssbj"
+      "https://finwiki.zksc.io/JapanFG/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3779,
-    "word_like_tokens": 580,
+    "nonspace_chars": 3634,
+    "word_like_tokens": 562,
     "inbound_wikilinks_count": 11,
     "last_modified": "2026-05-29"
   }

@@ -23,7 +23,6 @@ sources:
   - "https://www.jabank.org/about/sikumi/"
   - "農業協同組合法 (昭和 22 年法律第 132 号、2015 改正で全中の中央会機能再編)"
 ---
-
 # JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)
 
 ## Wiki route
@@ -149,4 +148,3 @@ JA グループ (全国 497 JA + 4 大全国連)
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (JA 全中公式 + JA グループ Factbook + 農協法改正履歴) ベース。2015 改革・2019 一般社団法人化は公開報道で確認済 ^[extracted]。政治団体性・農林族議員関係等の定性評価は ^[inferred]。最新組織図・財務は JA グループ Factbook 各年度版を参照。

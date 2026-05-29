@@ -23,7 +23,6 @@ sources:
   - "https://www.jfmbk.org/about/housin.html"
   - "水産業協同組合法 (昭和 23 年法律第 242 号)"
 ---
-
 # JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)
 
 ## Wiki route
@@ -82,12 +81,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group national
 | **系統水産加工** | 加工流通の系統取引 |
 | **教育・情報提供** | JF 役員研修・水産情報誌等 |
 
-### 子会社・関連企業 ^[inferred]
-
-- **全漁連商事** (購買事業の機能集約)
-- **全漁連海外事業** (水産物輸出)
-- **全国漁業共済組合連合会 (漁災連)** — 漁業共済事業 (別組織だが系統内)
-
 ### JF Marine Bank system との関係 ^[extracted]
 
 - **JF 全漁連 = 代表 + 経済事業**
@@ -121,16 +114,6 @@ JF (漁業協同組合) グループ
 
 - **TAC (漁獲可能量) 制度** の運用協力
 - **資源回復計画**・漁業 IT 化への対応
-
-### JA 全農との比較 ^[inferred]
-
-| 軸 | JA 全農 | JF 全漁連 |
-|---|---|---|
-| 事業規模 (取扱高) | 4〜5 兆円規模 | 数千億円規模 (1/10〜数 %) |
-| 会員組合数 | 497 JA | **71 JF** |
-| 中央機関構造 | 全中 + 全農 (分業) | 全漁連 (兼務) |
-| 政治影響力 | 強 (自民党農林族) | 中 (水産族議員) |
-| 海外子会社 | CGB 等大規模 | 小規模 |
 
 ### 強み・弱み
 

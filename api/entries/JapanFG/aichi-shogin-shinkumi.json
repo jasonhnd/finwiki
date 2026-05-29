@@ -49,13 +49,13 @@
     "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)",
     "Wiki route",
     "1. 法人概要",
-    "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "愛知県信組ブロック (registry比較)",
     "全信組連内の位置付け",
-    "商銀系信用組合ネットワーク ^[inferred]",
     "商銀系信組の歴史的背景 ^[extracted]",
-    "主要業務 ^[extracted]"
+    "主要業務 ^[extracted]",
+    "5. KPI (推定) ^[ambiguous]",
+    "6. 監督・規制"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -89,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4516,
-    "word_like_tokens": 595,
+    "nonspace_chars": 4005,
+    "word_like_tokens": 534,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

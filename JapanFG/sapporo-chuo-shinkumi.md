@@ -19,7 +19,6 @@ sources:
   - "https://www.dic.go.jp/"
   - "中小企業等協同組合法"
 ---
-
 # 札幌中央信用組合 (Sapporo Chuo Credit Cooperative)
 
 ## Wiki route
@@ -45,11 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 | 預金保険 | [[JapanFG/dic|預金保険機構]] 対象 |
 | ホームマーケット | 札幌市 + 道央圏 |
 | 信組類型 | **地域型信用組合** (地区組合員資格) |
-
-### 営業地区 ^[inferred]
-
-- **本店**: 札幌市中央区南2条西 (大通公園・狸小路アーケード・すすきの隣接エリア、商業中心地)
-- **支店網**: 札幌市内中心 (中央区・北区・西区・東区・南区・豊平区・厚別区・手稲区・清田区・白石区) + 道央近郊
 
 ### 組合員資格 ^[extracted]
 
@@ -80,16 +74,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 - 北海道 7 信組の中核札幌都市圏代表
 - 系統 ATM 連携・余資運用は全信組連経由
 
-### 北海道金融機関ヒエラルキー ^[inferred]
-
-| ティア | 機関 | 位置 |
-|---|---|---|
-| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]] | 全国行の道内拠点 |
-| 地銀第一行 | [[JapanFG/hokuyo-bank|北洋銀行]] | 道内最大・第二地銀 |
-| 地銀第二行 | [[JapanFG/hokkaido-bank|北海道銀行]] ([[JapanFG/hokuhoku-fg|ほくほくFG]]) | 道内第一地銀 |
-| 信金 | [[JapanFG/sapporo-shinkin|札幌信用金庫]]・北海道信用金庫等 | 道内信金ブロック |
-| **信組** | **札幌中央信組** ★本ページ + 北央信組 + ウリ信組 + 道内 4 信組 | **本層** |
-
 ### 主要業務 ^[extracted]
 
 | 業務 | 内容 |
@@ -99,16 +83,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 | **住宅ローン** | 組合員向け住宅取得資金 |
 | **教育・冠婚葬祭** | 組合員家庭の生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
-
-### ALM・資金フロー ^[inferred]
-
-```
-組合員 (札幌都心 SME + 住民)
-  → 預金 → 札幌中央信用組合
-              → 札幌都心 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
-                                  → 機関投資 + 系統還元
-```
 
 ## 5. KPI (推定) ^[ambiguous]
 

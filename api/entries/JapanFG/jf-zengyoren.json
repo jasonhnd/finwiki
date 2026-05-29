@@ -50,9 +50,9 @@
     "JF グループ全国組織の役割分担 ^[extracted]",
     "重要年表 ^[extracted]",
     "主要事業 ^[extracted]",
-    "子会社・関連企業 ^[inferred]",
     "JF Marine Bank system との関係 ^[extracted]",
-    "全国組織図"
+    "全国組織図",
+    "漁業改革と漁協存在意義"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -86,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5305,
-    "word_like_tokens": 805,
+    "nonspace_chars": 5028,
+    "word_like_tokens": 758,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

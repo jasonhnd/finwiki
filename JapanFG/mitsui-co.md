@@ -24,7 +24,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三井物産)"
   - "JPX 銘柄情報 8031 — https://www2.jpx.co.jp/"
 ---
-
 # 三井物産 (Mitsui & Co., Ltd.)
 
 ## Wiki route
@@ -99,12 +98,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 - **非資源拡大**: 2010s 以降、**ヘルスケア (IHH)、モビリティ (Penske Automotive)、インフラ (海水淡水化)** など非資源領域で global の M&A を積極化
 - **株主還元**: 累進配当 + 大規模自社株買い、PBR 1.0x 超を意識
-
-### コア戦略 ^[inferred]
-
-- **GX (Green Transformation)**: 既存資源ポートフォリオ (石炭縮小、銅・ニッケル・水素・洋上風力拡大)
-- **ヘルスケア**: IHH を core platform に、アジア医療事業拡大
-- **モビリティ**: Penske Automotive (米国 自動車流通最大手の一角) を core asset 化
 
 ### 競合
 

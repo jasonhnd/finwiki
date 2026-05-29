@@ -15,7 +15,6 @@ sources:
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.chiginkyo.or.jp/"
 ---
-
 # ちばぎんリース (Chibagin Leasing)
 
 ## Wiki route
@@ -66,13 +65,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 工業設備リース | 京葉工業地帯 (市原・千葉・木更津) の製造設備リース |
 | 農業機械リース | 房総半島農業地帯向けトラクター等 |
 | ファクタリング | 売掛債権買取 (中堅企業向け運転資金) |
-
-### 収益構造の特徴 ^[inferred]
-
-- 主要収益源は **リース料収入 - 減価償却費 - リース債権取得コスト + ファクタリング手数料 + オートリース月額収入**
-- 千葉県地盤の中堅製造業 / 物流 / 医療 / 自治体 main bank ネットワークがリース受託の入口
-- 大手リース ([[mitsubishi-hc-capital]] / [[smfl|SMFL]] / [[mizuho-lease]] / [[fuyo-lease]] / [[tokyo-century]] / [[ricoh-leasing]]) との競合では地銀連携で差別化
-- 業績は親 [[chiba-bank]] 連結セグメント情報経由で部分開示 ^[ambiguous]
 
 ### グループ内クロスリンク
 

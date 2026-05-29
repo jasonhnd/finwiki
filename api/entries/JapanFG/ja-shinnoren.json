@@ -52,8 +52,8 @@
     "信連数の推移 ^[extracted]",
     "重要年表 ^[extracted]",
     "4 大機能 ^[extracted]",
-    "JA Bank system 内の資金フロー ^[inferred]",
-    "信連の規模感 ^[ambiguous]"
+    "信連の規模感 ^[ambiguous]",
+    "JA Bank system 内の位置付け"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -89,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4758,
-    "word_like_tokens": 735,
+    "nonspace_chars": 4230,
+    "word_like_tokens": 645,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-05-29"
   }

@@ -41,12 +41,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要子会社・グループ会社 ^[inferred]",
     "合併経緯・前身",
     "重要年表（抜粋）",
     "2. 事業セグメント・マップ",
     "県内地盤戦略",
-    "関西経済圏での競合構造"
+    "関西経済圏での競合構造",
+    "持株会社解散の戦略意義"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -84,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5187,
-    "word_like_tokens": 777,
+    "nonspace_chars": 5036,
+    "word_like_tokens": 762,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

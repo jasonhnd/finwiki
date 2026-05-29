@@ -52,9 +52,9 @@
     "都市信連としての特徴 ^[extracted]",
     "重要年表 ^[extracted / inferred]",
     "4 大機能 (信連共通) ^[extracted]",
-    "東京都信連の固有業務 ^[inferred]",
-    "ALM・資金フロー ^[inferred]",
-    "規模感 (推定) ^[ambiguous]"
+    "規模感 (推定) ^[ambiguous]",
+    "31 信連内での東信連の位置",
+    "直結方式 (JA → 農林中金 直結) 議論"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -90,8 +90,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5414,
-    "word_like_tokens": 830,
+    "nonspace_chars": 4599,
+    "word_like_tokens": 710,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

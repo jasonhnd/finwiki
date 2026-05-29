@@ -50,12 +50,12 @@
     "Wiki route",
     "TL;DR",
     "1. 法人概要",
-    "営業地区 ^[inferred]",
     "組合員資格 ^[extracted]",
     "関東神奈川信組ブロック (registry比較)",
     "全信組連内の位置付け",
-    "幸銀系信用組合ネットワーク ^[inferred]",
-    "2000 年代信組危機の影響 ^[inferred]"
+    "主要業務 ^[extracted]",
+    "5. KPI (推定) ^[ambiguous]",
+    "6. 監督・規制"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -87,8 +87,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4678,
-    "word_like_tokens": 615,
+    "nonspace_chars": 4033,
+    "word_like_tokens": 537,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

@@ -22,7 +22,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 住友商事)"
   - "JPX 銘柄情報 8053 — https://www2.jpx.co.jp/"
 ---
-
 # 住友商事 (Sumitomo Corporation)
 
 ## Wiki route
@@ -93,12 +92,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 - **多角寄り商社**: [[JapanFG/mitsubishi-corp|三菱]] / [[JapanFG/mitsui-co|三井]] のような資源寄り、[[JapanFG/itochu-corp|伊藤忠]] のような非資源寄り、どちらでもない多角型ポジショニング
 - **メディア・IT 商社**: J:COM (ケーブル TV) + SCSK (IT サービス) で 5 大商社の中で唯一のメディア・IT 比重大
-
-### コア戦略 ^[inferred]
-
-- **DX × GX**: J:COM / SCSK のデジタル知見を core asset 化、再エネ・IPP ポートフォリオ強化
-- **株主還元**: 累進配当 + 自社株買い、PBR 1.0x 超を意識
-- **不正再発防止**: 1996 銅地金不正取引事件 (浜中事件) 以降、internal control / risk management 強化を継続テーマ化
 
 ### 競合
 

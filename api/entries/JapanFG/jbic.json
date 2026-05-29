@@ -41,12 +41,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要機関 ^[inferred]",
     "沿革・前身",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
     "業務スキーム",
-    "3 戦略軸"
+    "3 戦略軸",
+    "提携・買収戦略"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -82,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4293,
-    "word_like_tokens": 648,
+    "nonspace_chars": 4036,
+    "word_like_tokens": 615,
     "inbound_wikilinks_count": 41,
     "last_modified": "2026-05-29"
   }

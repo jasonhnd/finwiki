@@ -24,7 +24,6 @@ sources:
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
 ---
-
 # JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)
 
 ## Wiki route
@@ -80,15 +79,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 | **畜産** | 牛・豚・鶏の集出荷 + 食肉加工 (全農チキンフーズ等) |
 | **海外** | 米国子会社 (CGB 等) でカーゴ・船積み事業 |
 
-### 加工・物流子会社・関連企業 ^[inferred]
-
-- **全農グレイン** (米国穀物子会社)
-- **全農チキンフーズ** (鶏肉加工)
-- **全農パールライス** (米加工)
-- **JA 全農協同会社・全農物流** (物流)
-- **A コープ各社** (店舗運営)
-- 全国の **JA 直営 SS / ホームセンター系列**
-
 ### 金融補完関係
 
 - **モノのフロー** = JA 全農、**カネのフロー** = [[JapanFG/norinchukin|農林中央金庫]] + [[JapanFG/ja-shinnoren|信連]] + JA Bank
@@ -111,19 +101,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 - **大手商社**: 三井物産・住友商事・伊藤忠商事の生産資材 + 食品流通事業との競合
 - **大手食品メーカー**: 米穀流通で大手米卸 (パールライス系・神明等) と競合
 - **流通大手**: 直営 A コープは地方スーパー・コンビニ (セブン・イオン) と競合
-
-### 強み・弱み ^[inferred]
-
-**強み**
-- 全国 JA 497 組合からの **集約集荷力** = 物量規模で日本最大級
-- **農産物のフルラインアップ** (米・園芸・畜産)
-- JA Bank 基盤との **預金 + 決済の相乗効果**
-- 政府との **食料安全保障** フレームでの密接関係
-
-**弱み**
-- 「中抜き」批判 → 生産者直販ルート拡大で **流通マージン縮小圧力**
-- 大規模化が進む農業法人は JA 全農を **使わない** ケースが増加
-- 海外調達でのコスト競争 (大手商社との比較で割高との指摘も)
 
 ## 4. 監督・規制
 

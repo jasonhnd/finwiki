@@ -57,8 +57,8 @@
     "2. 事業セグメント・マップ",
     "3. Financial-services adjacency",
     "5 大商社内の identity",
-    "コア戦略 ^[inferred]",
-    "競合"
+    "競合",
+    "5. 規制・政策"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -96,8 +96,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5333,
-    "word_like_tokens": 820,
+    "nonspace_chars": 5167,
+    "word_like_tokens": 797,
     "inbound_wikilinks_count": 12,
     "last_modified": "2026-05-29"
   }

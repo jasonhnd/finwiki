@@ -19,7 +19,6 @@ sources:
   - "https://www.dic.go.jp/"
   - "中小企業等協同組合法"
 ---
-
 # 福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)
 
 ## Wiki route
@@ -45,11 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 | 預金保険 | [[JapanFG/dic|預金保険機構]] 対象 |
 | ホームマーケット | 福岡県全域 |
 | 信組類型 | **県域型地域信用組合** (地区組合員資格・県全域) |
-
-### 営業地区 ^[inferred]
-
-- **本店**: 福岡市中央区赤坂 (天神隣接ビジネスエリア)
-- **県域型ゆえ広域営業**: 福岡県全 60 市町村相当のエリアを定款上カバー
 
 ### 組合員資格 ^[extracted]
 
@@ -89,17 +83,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 - 福岡財務支局 10 信組のうち福岡県 3 信組の中核地域型代表
 - 系統 ATM 連携・余資運用は全信組連経由
 
-### 福岡県金融機関ヒエラルキー ^[inferred]
-
-| ティア | 機関 | 位置 |
-|---|---|---|
-| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]] | 福岡支店 |
-| 地銀第一行 | [[JapanFG/fukuoka-fg|福岡銀行 (ふくおかFG)]] | 九州最大地銀 |
-| 地銀 (旧第二) | [[JapanFG/nnfh|西日本シティ銀行 (NNFH)]] | 第二地銀統合FG |
-| 地銀 | [[JapanFG/kitakyushu-bank|北九州銀行 (山口FG)]]・[[JapanFG/fukuoka-chuo-bank|福岡中央銀行]] | 県内地銀 |
-| 信金 | [[JapanFG/fukuoka-shinkin|福岡信用金庫]]・福岡ひびき信金等 | 福岡県信金ブロック |
-| **信組** | **福岡県信組** ★本ページ + 福岡県医師信組 + 福岡県庁信組 | **本層** |
-
 ### 主要業務 ^[extracted]
 
 | 業務 | 内容 |
@@ -109,16 +92,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 | **住宅ローン** | 組合員向け住宅取得資金 |
 | **教育・冠婚葬祭** | 組合員家庭の生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
-
-### ALM・資金フロー ^[inferred]
-
-```
-組合員 (福岡県内 SME + 住民)
-  → 預金 → 福岡県信用組合
-              → 県内 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
-                                  → 機関投資 + 系統還元
-```
 
 ## 5. KPI (推定) ^[ambiguous]
 

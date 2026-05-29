@@ -15,7 +15,6 @@ sources:
   - 関東財務局 暗号資産交換業者登録一覧
   - JVCEA 会員名簿
 ---
-
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
 ## Wiki route
@@ -148,4 +147,3 @@ bitFlyer Holdings, Inc.（持株、未上場）
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（公開情報ベース 2026-05-19）。登録番号 / 創業年 / 業務改善命令 / JVCEA Type 1 等の制度的事実は公的出典で確定。持株構成 / 連結業績 / IPO タイムライン / 創業者復帰の詳細は **未上場ゆえ未公開**、報道ベースで `^[inferred]` `^[ambiguous]` を付した。最新動向は IPO 公表・有価証券届出書で更新要。

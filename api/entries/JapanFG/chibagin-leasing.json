@@ -48,10 +48,10 @@
     "1. 会社概要",
     "持株ツリー (千葉銀グループ簡略図)",
     "主要業務ライン",
-    "収益構造の特徴 ^[inferred]",
     "グループ内クロスリンク",
     "地銀系リース peer 比較",
-    "大手リース・専業リースとの競合"
+    "大手リース・専業リースとの競合",
+    "強み・弱み"
   ],
   "body_links": {
     "wikilinks_count": 34,
@@ -131,8 +131,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6042,
-    "word_like_tokens": 793,
+    "nonspace_chars": 5744,
+    "word_like_tokens": 758,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

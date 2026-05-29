@@ -47,13 +47,13 @@
     "EY 新日本有限責任監査法人 (EY ShinNihon)",
     "Wiki route",
     "1. 法人概要",
-    "規模（公開ベース概算）^[inferred]",
     "2. 沿革・系譜",
     "3. 金融サービス本部（Financial Services Office, FSO）",
     "主要セクター ^[extracted]",
     "サービスライン",
     "4. 主要 listed FG クライアント関係（公開ベース）",
-    "5. 規制・監督"
+    "5. 規制・監督",
+    "CPAAOB 検査・処分歴 ^[extracted]"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -85,8 +85,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4205,
-    "word_like_tokens": 610,
+    "nonspace_chars": 4071,
+    "word_like_tokens": 591,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

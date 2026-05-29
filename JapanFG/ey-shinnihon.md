@@ -29,7 +29,6 @@ sources:
   - https://www.fsa.go.jp/cpaaob/
   - https://disclosure2.edinet-fsa.go.jp/
 ---
-
 # EY 新日本有限責任監査法人 (EY ShinNihon)
 
 ## Wiki route
@@ -44,15 +43,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 - **代表者**：理事長（任期制）^[extracted]
 - **加盟ネットワーク**：**EY（Ernst & Young）グローバル**（ロンドン本部）^[extracted]
 - **提携法人**：EY 税理士法人、EY ストラテジー・アンド・コンサルティング、EY 新日本 サステナビリティ等 ^[extracted]
-
-### 規模（公開ベース概算）^[inferred]
-
-| 指標 | 概算 |
-|---|---|
-| 公認会計士（社員 + 職員） | 5,500 名超 |
-| 上場会社監査クライアント数 | 800 社級（国内首位級）|
-| 大手金融機関監査 | メガ系・大手生損保・大手証券を含む複数案件 |
-| 拠点 | 全国主要都市 |
 
 ## 2. 沿革・系譜
 

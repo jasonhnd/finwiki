@@ -49,11 +49,11 @@
     "TL;DR",
     "1. 法人概要",
     "組合員資格 ^[extracted]",
-    "営業拠点 ^[inferred]",
     "東京都内職域信組ブロック (registry比較)",
     "全信組連内の位置付け",
-    "全国警察職員信組ネットワーク ^[inferred]",
-    "主要業務 ^[extracted]"
+    "主要業務 ^[extracted]",
+    "5. KPI (推定) ^[ambiguous]",
+    "6. 監督・規制"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -81,8 +81,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4713,
-    "word_like_tokens": 613,
+    "nonspace_chars": 3994,
+    "word_like_tokens": 521,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

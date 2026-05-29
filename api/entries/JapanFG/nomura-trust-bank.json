@@ -45,12 +45,12 @@
     "Wiki route",
     "1. 法人・ライセンス境界",
     "2. 親会社 野村 HD 構造",
-    "3. KPI 表（v1.0 公開ベース概算）^[inferred]",
     "4. 主要業務 — 証券グループ付随の信託機能",
     "5. 重要年表",
     "6. ピア比較 — 信託銀行マーケット",
     "7. 監督・規制",
-    "8. Counterpoints"
+    "8. Counterpoints",
+    "9. Open questions"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -100,8 +100,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4633,
-    "word_like_tokens": 683,
+    "nonspace_chars": 4353,
+    "word_like_tokens": 634,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

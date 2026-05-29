@@ -55,8 +55,8 @@
     "2. 事業セグメント・マップ",
     "3. Financial-services adjacency",
     "Toyota グループ系商社の identity",
-    "コア戦略 ^[inferred]",
-    "競合"
+    "競合",
+    "5. 規制・政策"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -96,8 +96,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5225,
-    "word_like_tokens": 777,
+    "nonspace_chars": 5063,
+    "word_like_tokens": 755,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

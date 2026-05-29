@@ -15,7 +15,6 @@ sources:
   - "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)"
   - "金融商品取引法 第 66 条の 27 以下"
 ---
-
 # 格付投資情報センター (R&I)
 
 ## Wiki route
@@ -131,4 +130,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。沿革（1998 統合）・みずほ系関係・投信評価併営・登録制度は公式公開資料一致。みずほ系利益相反管理の実態評価は `^[inferred]`、日本企業格付の楽観バイアス論は `^[ambiguous]` 明示。最新の格付件数・売上構成は R&I 公表資料を要参照。

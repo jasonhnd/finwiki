@@ -15,7 +15,6 @@ sources:
   - "保険業法 第 259 条以下"
   - "金融庁 保険契約者保護機構関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
 ---
-
 # 損害保険契約者保護機構
 
 ## Wiki route
@@ -136,4 +135,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立年・法的根拠・補償水準・過去破綻事例（[[JapanFG/dai-ichi-mutual|第一火災]] / [[JapanFG/taisei-kasai|大成火災]]）は公式公開資料一致。会員数は時期により変動するため「約 24 社」概数表記。気候・サイバー関連の直近論点は政策議論段階で `^[inferred]` 明示。

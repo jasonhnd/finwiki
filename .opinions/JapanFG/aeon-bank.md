@@ -62,3 +62,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - [[retail/aeon-group]] ── 親会社イオン株式会社（流通本体）^[inferred]
 - [[payments/cashless-jp-landscape]] ── キャッシュレス決済 5 強構造 ^[inferred]
+
+<!-- Phase 1.5 追加抽出 (2026-05-29) -->
+
+> confidence: **likely**。基本構造（AFS = 持株 → イオン銀行 100% / アジア消費者金融子会社群）・主要年表（2006 設立 / 2007 開業 / 2013 持株会社化）は Wikipedia 経由公開情報で確認可能。**数値（ATM 台数、クレカ発行枚数、連結収益構成比、AFS 親会社持株比率）は ^[ambiguous] / ^[inferred] 多用** — 最新の AFS 有価証券報告書 / 中期経営計画で要校核。海外子会社の正式社名・上場ステータスは現地証取で再確認推奨。

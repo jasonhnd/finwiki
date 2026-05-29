@@ -22,7 +22,6 @@ sources:
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 丸紅)"
   - "JPX 銘柄情報 8002 — https://www2.jpx.co.jp/"
 ---
-
 # 丸紅 (Marubeni Corporation)
 
 ## Wiki route
@@ -98,13 +97,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 - **穀物・農業商社**: 2013 Gavilon 買収で穀物トレード世界 Top 5 入り、その後 Viterra (Glencore) に穀物部門を売却、Helena 中心の農業流通モデルに転換
 - **みずほグループ近接**: 旧 富士銀行系列の歴史、5 大商社の中で唯一のみずほ系商社 (他は三菱 → MUFG、三井 / 住友 → SMFG、伊藤忠 → みずほ / 三菱の中間、豊田通商 → 三菱、双日 → みずほ寄り)
-
-### コア戦略 ^[inferred]
-
-- **GX (Green Transformation)**: 既存 IPP ポートフォリオの再エネシフト、洋上風力 / 水素 / アンモニア 等
-- **食料・農業の構造改革**: 穀物トレード (Gavilon) → Helena 中心の農業流通へのシフト、コモディティ・volatile 取引からの脱却
-- **株主還元**: 累進配当 + 自社株買い、PBR 1.0x 超を意識
-- **2024 みずほリース戦略的持分入り**: リース・asset finance プラットフォーム強化、商社系第 4 リース勢力 (みずほリース) を実質的支配下に近づける
 
 ### 競合
 

@@ -14,7 +14,6 @@ sources:
   - "百五銀行 公式コーポレートサイト 沿革・会社概要 (2026-05-19 抽出)"
   - "全国地方銀行協会 加盟行公開情報"
 ---
-
 # 百五銀行 (Hyakugo Bank)
 
 ## Wiki route
@@ -122,4 +121,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 Wikipedia + 公式沿革 + 公開地銀協情報 検証 2026-05-19）。一部の県内シェア・指定金融機関ステータス・域外支店収益寄与は公開数値が限られるため ^[inferred] とした。最新業績数値（純利益・総資産・自己資本比率・地域別貸出比率）は IR 開示資料を要参照。

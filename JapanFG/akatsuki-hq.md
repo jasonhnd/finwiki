@@ -14,7 +14,6 @@ sources:
   - "Wikipedia: あかつき証券 (2026-05-19 抽出)"
   - "東証 STD 8737 開示情報 (公開分)"
 ---
-
 # あかつき本社 (Akatsuki Honsha)
 
 ## Wiki route
@@ -94,4 +93,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（Wikipedia + 公開開示ベース、2026-05-19）。中小独立系金融持株会社のため、大手 FG 比で公開情報量は限定的。子会社構成・PE/不動産セグメント詳細は `^[inferred]` を付与。ゲーム会社「アカツキ」（東証 PRIME 3932）との混同に注意。

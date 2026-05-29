@@ -49,9 +49,9 @@
     "2. 沿革",
     "IPO 準備支援 ^[extracted]",
     "VASP / 暗号資産 ^[extracted]",
-    "外資系日本子会社 ^[inferred]",
     "中堅金融 / FinTech",
-    "4. 主要 listed FG クライアント関係（公開ベース）"
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -85,8 +85,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3649,
-    "word_like_tokens": 544,
+    "nonspace_chars": 3575,
+    "word_like_tokens": 535,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

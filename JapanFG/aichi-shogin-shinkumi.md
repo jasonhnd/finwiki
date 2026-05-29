@@ -21,7 +21,6 @@ sources:
   - "https://www.dic.go.jp/"
   - "中小企業等協同組合法"
 ---
-
 # 信用組合愛知商銀 (Aichi Shogin Credit Cooperative)
 
 ## Wiki route
@@ -43,11 +42,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | 預金保険 | [[JapanFG/dic|預金保険機構]] 対象 |
 | ホームマーケット | 愛知県 (名古屋圏 + 周辺) + 中京三県 |
 | 信組類型 | **業域 + 民族系信用組合** (在日韓国・朝鮮人系・商銀系) |
-
-### 営業地区 ^[inferred]
-
-- **本店**: 名古屋市中村区亀島 (名古屋駅・新幹線駅西側エリア、在日コミュニティ集中地区の一つ)
-- **支店網**: 名古屋市内中心 + 愛知県内主要市 (豊橋・岡崎・一宮・春日井等) の在日商工人事業所集中地区
 
 ### 組合員資格 ^[extracted]
 
@@ -80,18 +74,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 - 東海 15 信組のうち愛知 8 信組の一翼
 - 系統 ATM 連携・余資運用は全信組連経由
 
-### 商銀系信用組合ネットワーク ^[inferred]
-
-**商銀**系信組は在日韓国・朝鮮人事業者向け相互扶助金融を起源とし、全国主要都市に展開:
-
-| 地区 | 商銀系信組 |
-|---|---|
-| **関東** | 東京商銀信用組合 (登記名は別途確認要) |
-| **中京** | **信用組合愛知商銀** ★本ページ |
-| **関西** | [[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]] |
-| **中国** | 信用組合広島商銀 (FSA registry No. 120) |
-| **四国** | 宿毛商銀信用組合 (FSA registry No. 125) |
-
 ### 商銀系信組の歴史的背景 ^[extracted]
 
 | 年代 | 事象 |
@@ -113,16 +95,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | **国際送金** | 韓国向け跨境送金 (民族系信組固有需要) |
 | **コミュニティ金融** | 教育・冠婚葬祭等の組合員向け生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
-
-### ALM・資金フロー ^[inferred]
-
-```
-組合員 (在日商工人世帯 + 関連事業者)
-  → 預金 → 信用組合愛知商銀
-              → 名古屋・愛知 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
-                                  → 機関投資 + 系統還元
-```
 
 ## 5. KPI (推定) ^[ambiguous]
 

@@ -48,13 +48,13 @@
     "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
     "Wiki route",
     "1. 法人概要",
-    "規模（公開ベース概算）^[inferred]",
     "2. 沿革",
     "銀行 / 保険 / 証券 ^[extracted]",
     "暗号資産 / デジタルアセット ^[extracted]",
     "Travel Rule / AML コンサル ^[extracted]",
     "M&A / FAS（監査と分離）^[extracted]",
-    "4. 主要 listed FG クライアント関係（公開ベース）"
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -90,8 +90,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4371,
-    "word_like_tokens": 615,
+    "nonspace_chars": 4237,
+    "word_like_tokens": 594,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

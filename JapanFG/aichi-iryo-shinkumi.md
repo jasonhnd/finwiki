@@ -19,7 +19,6 @@ sources:
   - "https://www.dic.go.jp/"
   - "中小企業等協同組合法"
 ---
-
 # 愛知県医療信用組合 (Aichi Medical Credit Cooperative)
 
 ## Wiki route
@@ -98,13 +97,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 - **医療業域信組グループ** (全国 21 行) の代表行の一つ
 - 系統 ATM 連携・余資運用は全信組連経由
 
-### 医療業域信組の特徴 ^[inferred]
-
-- **信用リスクが低い**: 医師・医療従事者は **高所得・安定収入**で延滞率が低い
-- **開業資金需要**: 医師・歯科医師の独立開業時の **大規模融資需要**が事業の柱
-- **医療機器ローン**: 高額医療機器 (CT・MRI 等) のリース・ローン需要
-- **医師会・医療団体**との密接な連携
-
 ### 主要業務 ^[extracted]
 
 | 業務 | 内容 |
@@ -118,16 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 | **定期・流動性預金** | 組合員世帯向け預金 |
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 | **医療法人運転資金** | 医療法人向け短期資金 |
-
-### ALM・資金フロー ^[inferred]
-
-```
-組合員 (愛知県医療従事者 + 医療機関)
-  → 預金 → 愛知県医療信用組合
-              → 開業資金・医療機器・住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
-                                  → 機関投資 + 系統還元
-```
 
 ## 5. KPI (推定) ^[ambiguous]
 

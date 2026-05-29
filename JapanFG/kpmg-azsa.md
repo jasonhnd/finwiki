@@ -28,7 +28,6 @@ sources:
   - https://www.fsa.go.jp/cpaaob/
   - https://disclosure2.edinet-fsa.go.jp/
 ---
-
 # 有限責任 あずさ監査法人 (KPMG AZSA)
 
 ## Wiki route
@@ -47,15 +46,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
   - KPMG FAS 株式会社（M&A / 事業再生）
   - KPMG 税理士法人
   - KPMG あずさ サステナビリティ株式会社 ^[extracted]
-
-### 規模（公開ベース概算）^[inferred]
-
-| 指標 | 概算 |
-|---|---|
-| 公認会計士（社員 + 職員） | 5,000 名級 |
-| 上場会社監査クライアント数 | 700 社級 |
-| 大手金融機関監査 | メガ系列 / 大手生損保 / 大手証券を含む複数案件 |
-| 拠点 | 全国主要都市 |
 
 ## 2. 沿革
 

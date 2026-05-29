@@ -14,7 +14,6 @@ sources:
   - "かんぽ生命 公式 IR / 沿革ページ (公開情報)"
   - "金融庁 業務改善命令・業務停止命令 公表資料 (2019-12 / 2020-01)"
 ---
-
 # かんぽ生命保険 (Japan Post Insurance)
 
 ## Wiki route
@@ -144,4 +143,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 公開 Wikipedia + 公式 IR + 行政処分公表ベース 2026-05-19）。総資産規模は ^[ambiguous]（年度・基準により 60-70 兆円幅）。重要事件（2019-2020 不適切販売事件・業務停止命令）は金融庁公表資料ベースで確認可。海外展開・営業職員チャネル詳細は ^[inferred] 多め、最新数値は IR を要参照。

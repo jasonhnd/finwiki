@@ -21,7 +21,6 @@ sources:
   - "https://www.dic.go.jp/"
   - "中小企業等協同組合法"
 ---
-
 # 大阪商銀信用組合 (Osaka Shogin Credit Cooperative)
 
 ## Wiki route
@@ -78,16 +77,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 | **国際送金** | 韓国・在日コミュニティ向け跨境送金 (民族系信組の固有需要) |
 | **コミュニティ生活金融** | 教育ローン・冠婚葬祭費等の組合員向け生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
-
-### ALM・資金フロー ^[inferred]
-
-```
-組合員 (在日商工人世帯 + 関連事業者)
-  → 預金 → 大阪商銀信用組合
-              → 域内 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
-                                  → 機関投資 + 系統還元
-```
 
 ### 規模感 (推定) ^[ambiguous]
 

@@ -14,7 +14,6 @@ sources:
   - "日本銀行 公式サイト (https://www.boj.or.jp/, 2026-05-25 参照)"
   - "日本銀行法 (平成 9 年法律第 89 号)"
 ---
-
 # 日本銀行 (BoJ)
 
 ## Wiki route
@@ -155,4 +154,3 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 校核状態
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。設立（1882）・新日銀法（1997 / 1998-04 施行）・QQE 開始（2013-04）・YCC（2016-09）・マイナス金利撤廃（2024-03-19）・追加利上げ（2024-07-31）は公式公開資料一致。QT ペース・2025 以降の利上げ展望・CBDC 発行タイミングは流動的で `^[inferred]` 明示。

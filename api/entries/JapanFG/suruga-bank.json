@@ -41,12 +41,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "2025-03 期決算（連結・参考値）^[inferred]",
     "主要株主（直近 公開ベース）^[extracted]",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
     "信頼回復フェーズの戦略",
-    "競合関係"
+    "競合関係",
+    "提携・買収戦略"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -92,8 +92,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4269,
-    "word_like_tokens": 612,
+    "nonspace_chars": 4065,
+    "word_like_tokens": 566,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }
