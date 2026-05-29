@@ -39,9 +39,12 @@
     "sources": [
       "https://www.zenrosai.coop/",
       "https://www.zenrosai.coop/about/",
+      "https://www.zenrosai.coop/zenrosai/topics/2025/32152.html",
+      "https://www.zenrosai.coop/about/number.html",
       "https://www.kyosai-cc.or.jp/",
       "消費生活協同組合法 (昭和 23 年法律第 200 号)",
-      "https://www.fsa.go.jp/menkyo/hoken.pdf"
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.ja-kyosai.or.jp/files/2024/202407-2.pdf"
     ]
   },
   "summary": "This entry sits under JapanFG index as a workers' / consumer-cooperative-based mutual-aid (共済) federation outside the JA / JF / shinkin / shinkumi axis. Read with JA 共済連 for the agricultural cooperative kyosai peer, 共栄火災海上保険 for cooperative-system non-life adjacency, insurance domain for the kyosai-",
@@ -54,7 +57,7 @@
     "重要年表 ^[extracted]",
     "主力共済商品 ^[extracted]",
     "販売チャネル",
-    "規模感 (推定) ^[ambiguous]",
+    "規模感 (2024 年度決算 / 2025-05-31 期末)",
     "「こくみん共済 coop」ブランド戦略"
   ],
   "body_links": {
@@ -101,8 +104,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4393,
-    "word_like_tokens": 615,
+    "nonspace_chars": 5038,
+    "word_like_tokens": 769,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

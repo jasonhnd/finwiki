@@ -35,6 +35,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.nomura-trust.co.jp/company/corp.html",
       "https://www.nomura-trust.co.jp/company/business.html",
+      "https://www.nomura-trust.co.jp/ir/pdf/2503.pdf",
       "Nomura Holdings 有価証券報告書 / Form 20-F",
       "Wikipedia: 野村信託銀行 (公開情報)"
     ]
@@ -100,8 +101,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4353,
-    "word_like_tokens": 634,
+    "nonspace_chars": 4571,
+    "word_like_tokens": 708,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

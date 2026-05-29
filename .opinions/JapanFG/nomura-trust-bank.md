@@ -58,3 +58,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 | 貸出残高 | 限定的 | 富裕層 / グループ会社向け中心 |
 
 参考：3 大信託（SMTB ¥数十兆円預金 / MUTB 同等 / MTBJ 同等）と比べると 1〜2 桁小さい規模。
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## Counterpoints (from 8. Counterpoints)
+
+- **Wealth Management 競合密度** ^[ambiguous]：富裕層ビジネスでは SMTB / MUTB / 三井住友プライベートバンク / メガ系プライベートバンク・外資（UBS / モルガンスタンレー）と熾烈な競合。定性的な競合密度評価であり検証可能な計数ソースなしのため本文から隔離。

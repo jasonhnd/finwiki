@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T20:33:02+09:00
+Generated: 2026-05-29T20:49:51+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -4068,7 +4068,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 大垣共立銀行 (OKB), Wiki route, TL;DR, 1. 会社概要, 主要数値 (概数) ^[ambiguous], グループ構造, 重要年表 (抜粋) ^[extracted], 2. 事業セグメント・マップ
+- Headings: 大垣共立銀行 (OKB), Wiki route, TL;DR, 1. 会社概要, 主要数値 (2025年3月末・連結), グループ構造, 重要年表 (抜粋) ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/juroku-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/san-jusan-fg, https://finwiki.zksc.io/smfg
 
 ### 大分銀行
@@ -6228,7 +6228,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under the JapanFG index as the FG-subsidiary leasing operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 東日本銀行. Peer comparison: めぶきリース (北関東地銀系) and major lessor 三菱 HC キャピタル / みずほリース / 東京センチュリー. For broader syste
-- Headings: 横浜銀リース (Yokohama Bank Leasing), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 横浜銀リース 設立, CFG → YFG 商号変更 (2025-10-01), 4. KPI table (concept) ^[ambiguous]
+- Headings: 横浜銀リース (Yokohama Bank Leasing), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 横浜銀リース 設立, CFG → YFG 商号変更 (2025-10-01), 4. KPI table (qualitative — no standalone subsidiary financials disclosed)
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/fuyo-lease, https://finwiki.zksc.io/higashi-nippon-bank, https://finwiki.zksc.io/hokkaido-lease, https://finwiki.zksc.io/ja-mitsui-leasing, https://finwiki.zksc.io/mebuki-lease, https://finwiki.zksc.io/mitsubishi-hc-capital, https://finwiki.zksc.io/mizuho-lease, https://finwiki.zksc.io/nec-leasing
 
 ### 横浜銀行
