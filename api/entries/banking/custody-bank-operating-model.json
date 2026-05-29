@@ -44,7 +44,8 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.jasdec.com/en/system/",
-      "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html"
+      "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
+      "https://ja.wikipedia.org/wiki/日本カストディ銀行"
     ]
   },
   "summary": "This entry sits under banking index. Read it with the entity anchor 日本カストディ銀行 (CBJ), the operating peer Master Trust Bank operating model and entity MTBJ, the landscape summary Japan master trust and custody bank landscape, the cross-camp matrix Japan trust bank vs global custodian comparison matrix",
@@ -53,7 +54,7 @@
     "Wiki route",
     "TL;DR",
     "1. 機関位置",
-    "Shareholder structure (public disclosure)",
+    "Shareholder structure (public disclosure, as of 2020-07-27)",
     "Why two specialist custodians, not one",
     "Lineage diagram",
     "Business-line map",
@@ -61,7 +62,7 @@
     "The 「信託口」 nominee surface — CBJ specific"
   ],
   "body_links": {
-    "wikilinks_count": 24,
+    "wikilinks_count": 25,
     "wikilinks": [
       "JapanFG/bny-mellon-japan",
       "JapanFG/citigroup-japan",
@@ -70,6 +71,7 @@
       "JapanFG/jpmorgan-japan",
       "JapanFG/master-trust-bank",
       "JapanFG/mitsubishi-ufj-trust-bank",
+      "JapanFG/mizuho-fg",
       "JapanFG/mizuho-trust-bank",
       "JapanFG/state-street-japan",
       "JapanFG/sumitomo-mitsui-trust",
@@ -96,6 +98,7 @@
       "https://finwiki.zksc.io/JapanFG/jpmorgan-japan",
       "https://finwiki.zksc.io/JapanFG/master-trust-bank",
       "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
       "https://finwiki.zksc.io/JapanFG/state-street-japan",
       "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
@@ -118,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16942,
-    "word_like_tokens": 2575,
+    "nonspace_chars": 17689,
+    "word_like_tokens": 2741,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }

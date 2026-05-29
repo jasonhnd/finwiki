@@ -36,6 +36,14 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+# Windows consoles default to cp932/cp1252, which cannot encode the em-dash and
+# 万 characters this tool prints; force UTF-8 so drift/count output never crashes
+# regardless of how the script is invoked (the pre-push hook sets the same via env).
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 TOOLS_DIR = Path(__file__).resolve().parent
 ROOT = TOOLS_DIR.parent
 sys.path.insert(0, str(TOOLS_DIR))

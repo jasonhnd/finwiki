@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-30T00:49:56+09:00
+Generated: 2026-05-30T01:23:13+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -57,9 +57,9 @@ Public pages listed: 1448
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/JapanFG/01-bank.md
 - Domain: JapanFG
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) for peer / contrast context, ふくおか FG (FFG) for parent group context, and banking index for the broader system / regulatory boundary.
-- Headings: 01銀行 (01Bank), Wiki route, 1. 法人・ライセンス境界, 3. 重要年表, 4. 親会社 FFG との関係, 5. 業務モデル — データドリブン SME finance, 6. ピア比較 — 地銀デジタル子会社の系譜, 7. 監督・規制
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/JapanFG/hokkoku-fhd, https://finwiki.zksc.io/JapanFG/ui-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/minna-bank-baas-model
+- Summary: This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) and みんなの銀行 for peer / contrast context (the two preceding 地銀デジタル銀行), 池田泉州ホールディングス for parent group context, and banking index for the broader system / regulatory boundary.
+- Headings: 01銀行 (01Bank), Wiki route, 1. 法人・ライセンス境界, 3. 重要年表, 4. 親会社 池田泉州 HD との関係, 5. 業務モデル — データドリブン SME finance, 6. ピア比較 — 地銀デジタル子会社の系譜, 7. 監督・規制
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/JapanFG/hokkoku-fhd, https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd, https://finwiki.zksc.io/JapanFG/ui-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/minna-bank-baas-model
 
 ### 株式会社十八親和銀行 (Eighteenth Shinwa Bank)
 - URL: https://finwiki.zksc.io/JapanFG/18-shinwa-bank
@@ -1028,7 +1028,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 日本カストディ銀行 (CBJ), Wiki route, TL;DR, 1. 会社概要, 主要株主（公開資料）^[extracted], 重要性 ★, 合併歴史・前身, 2. 事業セグメント・マップ
+- Headings: 日本カストディ銀行 (CBJ), Wiki route, TL;DR, 1. 会社概要, 主要株主（公開資料、2020-07-27 現在）^[extracted], 重要性 ★, 合併歴史・前身, 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/master-trust-bank, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/nippon-life, https://finwiki.zksc.io/sumitomo-mitsui-trust
 
 ### 第一フロンティア生命保険
@@ -3218,7 +3218,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under the JapanFG index as the FG-subsidiary leasing operating-company anchor for めぶき FG. Read it against parent operating banks 常陽銀行 / 足利銀行 and sibling subsidiary めぶき証券. Peer comparison: 北海道リース (北洋・北海道銀行系) and major lessor 三菱 HC キャピタル / みずほリース. For broader system route see regional-
-- Headings: めぶきリース (Mebuki Lease), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 旧 常陽リース系譜, 旧 足利リース系譜, めぶき FG 設立とグループ統合
+- Headings: めぶきリース (Mebuki Lease), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 旧 常陽リース系譜（母体）, 足利銀行系リース機能との関係 — 要再確認, めぶき FG 設立とグループ統合
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/ashikaga-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fuyo-lease, https://finwiki.zksc.io/hokkaido-lease, https://finwiki.zksc.io/ja-mitsui-leasing, https://finwiki.zksc.io/joyo-bank, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mebuki-securities, https://finwiki.zksc.io/mitsubishi-hc-capital, https://finwiki.zksc.io/mizuho-lease
 
 ### めぶき証券 (Mebuki Securities)
@@ -4828,7 +4828,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: SBI 地銀ホールディングス, Wiki route, TL;DR, 1. 会社概要, 主要構成要素, 2020-12 設立時の戦略意図, 2. 主要事業, パートナー地銀網（主要、時系列に出資した順）^[extracted]
+- Headings: SBI 地銀ホールディングス, Wiki route, TL;DR, 1. 会社概要, 主要構成要素, 2020 統合プラットフォーム化の戦略意図, 2. 主要事業, パートナー地銀網（主要、時系列に出資した順）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/chiba-bank, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/sbi-shinsei-bank
 
 ### SBIレミット
@@ -6858,8 +6858,8 @@ Public pages listed: 1448
 - Domain: banking
 - Type: wiki_entry
 - Summary: This entry sits under banking index. Read it with the entity anchor 日本カストディ銀行 (CBJ), the operating peer Master Trust Bank operating model and entity MTBJ, the landscape summary Japan master trust and custody bank landscape, the cross-camp matrix Japan trust bank vs global custodian comparison matrix
-- Headings: Custody Bank of Japan operating model, Wiki route, TL;DR, 1. 機関位置, Shareholder structure (public disclosure), Why two specialist custodians, not one, Lineage diagram, Business-line map
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/state-street-japan, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix
+- Headings: Custody Bank of Japan operating model, Wiki route, TL;DR, 1. 機関位置, Shareholder structure (public disclosure, as of 2020-07-27), Why two specialist custodians, not one, Lineage diagram, Business-line map
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/citigroup-japan, https://finwiki.zksc.io/JapanFG/custody-bank, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/master-trust-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-trust-bank, https://finwiki.zksc.io/JapanFG/state-street-japan, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/banking/INDEX
 
 ### Daiwa Next Bank operating profile (大和ネクスト銀行)
 - URL: https://finwiki.zksc.io/banking/daiwa-next-bank

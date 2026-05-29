@@ -32,7 +32,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 
 ## TL;DR
 
-**JA 共済連福島県本部 = [[JapanFG/ja-kyosairen|JA 共済連]] の福島県エリア事業拠点**。2000 年の県本部統合 (47 都道府県共済連 → 1 全共連 + 47 県本部) で県組織が法人格を失い、全国本部の県本部組織に移行 (共済事業の県別実施を担う)。**2011 東日本大震災 + 福島第一原発事故では、JA 共済連福島県本部は建物更生共済 (建更) の大規模給付実績** = 県内農協組合員世帯への災害給付の実務実施を担い、災害復興期の協同組合共済の役割を体現した代表事例。福島県の **農協 (JA ふくしま中央会傘下 8 JA 等)** と協働で、組合員向け生命共済・年金共済・建物更生共済・自動車共済の販売 + 査定 + 給付実務を執行する。^[extracted]
+**JA 共済連福島県本部 = [[JapanFG/ja-kyosairen|JA 共済連]] の福島県エリア事業拠点**。2000 年の県本部統合 (47 都道府県共済連 → 1 全共連 + 47 県本部) で県組織が法人格を失い、全国本部の県本部組織に移行 (共済事業の県別実施を担う)。**2011 東日本大震災 + 福島第一原発事故では、JA 共済連福島県本部は建物更生共済 (建更) の大規模給付実績** = 県内農協組合員世帯への災害給付の実務実施を担い、災害復興期の協同組合共済の役割を体現した代表事例。福島県の **県内 5 JA (JA ふくしま未来 / JA 福島さくら / JA 夢みなみ / JA 東西しらかわ / JA 会津よつば)** と協働で、組合員向け生命共済・年金共済・建物更生共済・自動車共済の販売 + 査定 + 給付実務を執行する。^[extracted]
 
 ## 1. License / 組織構造
 
@@ -43,7 +43,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 | 法的形態 | **全共連 ([[JapanFG/ja-kyosairen|JA 共済連]]) の県本部** (2000 年県本部統合後) |
 | 設立 | 1951 (旧 福島県共済農業協同組合連合会) → 2000 全国本部に統合 |
 | 所在地 | 福島県福島市 (JA ビル内) |
-| 関係組合 | 福島県内 8 JA (JA ふくしま未来 / JA 夢みなみ / JA 福島さくら 等) + 地域組合員 |
+| 関係組合 | 福島県内 5 JA (JA ふくしま未来 / JA 福島さくら / JA 夢みなみ / JA 東西しらかわ / JA 会津よつば) + 地域組合員 |
 | 監督官庁 | 農林水産省 (主) + 金融庁 (協力監督) |
 | Wiki role | **JA 共済連の prefectural 県本部 anchor** (47 県本部の代表事例として福島を選定) |
 
@@ -79,7 +79,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 
 | 業務 | 内容 |
 |---|---|
-| **共済販売支援** | 県内 8 JA の共済推進員教育・販売目標管理 |
+| **共済販売支援** | 県内 5 JA の共済推進員教育・販売目標管理 |
 | **査定実務** | 県内自動車事故・火災・自然災害の現地査定 |
 | **給付支払い** | 組合員世帯への共済金支払い実務 |
 | **建物更生共済 (建更) 推進** | 火災 + 自然災害 + 死亡保障一体型主力商品の販売 |
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 
 ### 福島県の農業・JA 構造 ^[extracted]
 
-- **福島県内 JA**: JA ふくしま未来 (県北・県中) / JA 夢みなみ / JA 福島さくら / JA 東西しらかわ ほか 8 JA
+- **福島県内 JA**: JA ふくしま未来 (県北・県中) / JA 福島さくら / JA 夢みなみ / JA 東西しらかわ / JA 会津よつば の 5 JA
 - **米・野菜・果物 (もも・梨)**・畜産の主要産地
 - **原発事故後の風評被害対策** + 食品流通安全プログラムでの JA 関与継続
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 
 | 指標 | 値 | 出典 |
 |---|---|---|
-| 県内 JA 数 | 8 JA | ^[extracted] |
+| 県内 JA 数 | 5 JA | JA 共済連福島 公式サイト ^[extracted] |
 
 > 注: JA 共済連は全国本部一体運営ゆえ、県本部単独の保有契約高・組合員世帯数は非開示 (県別計数の一次資料なし、2026-05-29 確認)。県別概数の推定は `.opinions/JapanFG/ja-kyosairen-fukushima.md` に隔離。全国 (全共連) ベースの保有契約高等は全共連年次報告書 + JA グループ Factbook 2026 を参照。
 
@@ -155,7 +155,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - **JA 共済連 会社概要**: https://www.ja-kyosai.or.jp/about/
 - **JA 共済連 全国本部・県本部組織図**: https://www.ja-kyosai.or.jp/about/zenken/
 - **JA 共済連 ディスクロージャー (全国本部一体)**: https://www.ja-kyosai.or.jp/about/disclosure/ — 開示は全国本部ベース、県別計数は非掲載
-- **JA 共済連 福島県本部 公式**: https://www.jakyosai-fukushima.jp/ — 「ディスクロージャー」リンクは全国開示に転送 (県別計数の独自開示なし、2026-05-29 確認)
+- **JA 共済連 福島県本部 公式**: https://www.jakyosai-fukushima.jp/ — 「県内 5 JA（JA ふくしま未来、JA 福島さくら、JA 夢みなみ、JA 東西しらかわ、JA 会津よつば）と連携・協調しながら、JA の共済事業を総合的にバックアップ」(2026-05-30 確認。旧版の「8 JA」を 5 JA に訂正)。「ディスクロージャー」リンクは全国開示に転送 (県別計数の独自開示なし)
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)
 - 2011 東日本大震災 + 福島第一原発事故関連の JA 共済連給付実績資料
@@ -163,4 +163,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。県本部 = 全共連の組織内事業拠点であり法人格を持たず、県別の保有契約高・組合員世帯数を開示する一次資料は存在しない (福島県本部公式サイトのディスクロージャーも全国開示へ転送、2026-05-29 確認)。従前の県別概数 (生命系 数兆円 / 損害系 数千億円 / 組合員世帯 数十万人) は出典を欠くため `.opinions/JapanFG/ja-kyosairen-fukushima.md` に隔離。本文に残す事実 (県内 8 JA, 2000 県本部統合, 2011 震災・建更給付の文脈) は構造的事実。
+> confidence: **likely**。県本部 = 全共連の組織内事業拠点であり法人格を持たず、県別の保有契約高・組合員世帯数を開示する一次資料は存在しない (福島県本部公式サイトのディスクロージャーも全国開示へ転送、2026-05-29 確認)。従前の県別概数 (生命系 数兆円 / 損害系 数千億円 / 組合員世帯 数十万人) は出典を欠くため `.opinions/JapanFG/ja-kyosairen-fukushima.md` に隔離。**訂正点 (2026-05-30): 旧版の「県内 8 JA」は誤り。JA 共済連福島 公式サイトは「県内 5 JA（JA ふくしま未来 / JA 福島さくら / JA 夢みなみ / JA 東西しらかわ / JA 会津よつば）」と明記。** 本文に残す事実 (県内 5 JA, 2000 県本部統合, 2011 震災・建更給付の文脈) は構造的事実。

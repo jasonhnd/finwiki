@@ -29,7 +29,7 @@
       "digital-bank",
       "sme-finance",
       "operating-company",
-      "ffg-subsidiary"
+      "senshu-ikeda-subsidiary"
     ],
     "status": "active",
     "sources": [
@@ -38,17 +38,19 @@
       "https://01bank.co.jp/news/pdf/2025/0724.pdf",
       "Fukuoka FG IR 公開資料",
       "Wikipedia: ふくおかフィナンシャルグループ (公開情報)",
-      "Wikipedia: 01銀行 (本店=大阪府吹田市・親会社=池田泉州HD, 2026-05-29 確認) https://ja.wikipedia.org/wiki/01銀行",
-      "PR TIMES: ０１銀行株式会社の開業、および事業方針について (本店=大阪府吹田市豊津町9番1号) https://prtimes.jp/main/html/rd/p/000000001.000166817.html"
+      "Wikipedia: 01銀行 (本店=大阪府吹田市・親会社=池田泉州HD・免許2025-02-28・開業2025-07-28, 2026-05-30 確認) https://ja.wikipedia.org/wiki/01銀行",
+      "PR TIMES: ０１銀行株式会社の開業、および事業方針について (免許2025-02-28・開業2025-07-28・池田泉州HD100%) https://prtimes.jp/main/html/rd/p/000000001.000166817.html",
+      "日本経済新聞: 池田泉州HD、デジタルバンクを月内に開業 地方銀行で3例目 https://www.nikkei.com/article/DGXZQOUF2270A0S5A720C2000000/",
+      "ニッキンONLINE: 金融庁、池田泉州HDの「01Bank」に免許交付 https://www.nikkinonline.com/article/254475"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) for peer / contrast context, ふくおか FG (FFG) for parent group context, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) and みんなの銀行 for peer / contrast context (the two preceding 地銀デジタル銀行), 池田泉州ホールディングス for parent group context, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "01銀行 (01Bank)",
     "Wiki route",
     "1. 法人・ライセンス境界",
     "3. 重要年表",
-    "4. 親会社 FFG との関係",
+    "4. 親会社 池田泉州 HD との関係",
     "5. 業務モデル — データドリブン SME finance",
     "6. ピア比較 — 地銀デジタル子会社の系譜",
     "7. 監督・規制",
@@ -56,11 +58,12 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 8,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/fukuoka-fg",
       "JapanFG/hokkoku-fhd",
+      "JapanFG/ikeda-senshu-hd",
       "JapanFG/ui-bank",
       "banking/INDEX",
       "banking/baas-japan-landscape",
@@ -70,6 +73,7 @@
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
       "https://finwiki.zksc.io/JapanFG/hokkoku-fhd",
+      "https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd",
       "https://finwiki.zksc.io/JapanFG/ui-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
@@ -79,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3848,
-    "word_like_tokens": 621,
+    "nonspace_chars": 5281,
+    "word_like_tokens": 880,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }
