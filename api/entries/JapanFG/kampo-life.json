@@ -33,7 +33,8 @@
     "sources": [
       "Wikipedia: かんぽ生命保険 (公開情報 2026-05-19 抽出)",
       "かんぽ生命 公式 IR / 沿革ページ (公開情報)",
-      "金融庁 業務改善命令・業務停止命令 公表資料 (2019-12 / 2020-01)"
+      "金融庁 業務改善命令・業務停止命令 公表資料 (2019-12 / 2020-01)",
+      "かんぽ生命 2025年3月期 決算短信〔日本基準〕(連結) — 総資産 59兆5,556億円 (https://pdf.irpocket.com/C7181/vAfC/ITEh/s65S.pdf)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
@@ -42,7 +43,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要 KPI（概観）^[ambiguous]",
+    "主要 KPI（概観）",
     "グループ構造",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
@@ -81,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3923,
-    "word_like_tokens": 538,
+    "nonspace_chars": 4143,
+    "word_like_tokens": 605,
     "inbound_wikilinks_count": 17,
     "last_modified": "2026-05-29"
   }

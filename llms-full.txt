@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T20:49:51+09:00
+Generated: 2026-05-29T22:04:14+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -1339,7 +1339,7 @@ Public pages listed: 1448
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it alongside 有限責任監査法人トーマツ (Deloitte) and あずさ監査法人 (KPMG) for peer Big 4 audit context, and 金融ライセンス INDEX for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は 金融庁 監督局 と 金融庁 総合政策局 の所管文脈を併読。
 - Headings: EY 新日本有限責任監査法人 (EY ShinNihon), Wiki route, 1. 法人概要, 2. 沿革・系譜, 3. 金融サービス本部（Financial Services Office, FSO）, 主要セクター ^[extracted], サービスライン, 4. 主要 listed FG クライアント関係（公開ベース）
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
 
 ### ファミマデジタルワン (FamiMa Digital One)
 - URL: https://finwiki.zksc.io/JapanFG/famima-digital-one
@@ -1358,7 +1358,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under the JapanFG index as the FG-subsidiary securities operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 and sibling subsidiaries 十八親和銀行 / 熊本銀行. For peer FG-securities comparison see めぶき証券 under mebuki-fg and the broader regional-bank consolidati
-- Headings: FFG 証券 (FFG Securities), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, FFG 設立とグループ統合, FFG 証券 設立・展開, 4. KPI table (concept) ^[ambiguous]
+- Headings: FFG 証券 (FFG Securities), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, FFG 設立とグループ統合, FFG 証券 設立・展開, 4. KPI table (concept)
 - First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/aizawa-sg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/daiwa-sg, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/ibank-marketing, https://finwiki.zksc.io/iwai-cosmo-hd, https://finwiki.zksc.io/jsda
 
 ### フィデア HD (Fidea Holdings)
@@ -2678,7 +2678,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.
-- Headings: かんぽ生命保険 (Japan Post Insurance), Wiki route, TL;DR, 1. 会社概要, 主要 KPI（概観）^[ambiguous], グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: かんぽ生命保険 (Japan Post Insurance), Wiki route, TL;DR, 1. 会社概要, 主要 KPI（概観）, グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-ichi-life, https://finwiki.zksc.io/dai-ichi-life, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/msad, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/nippon-life, https://finwiki.zksc.io/smfg, https://finwiki.zksc.io/sompo, https://finwiki.zksc.io/tokio-marine
 
 ### 神奈川銀行
@@ -3228,7 +3228,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under the JapanFG index as the FG-subsidiary securities operating-company anchor for めぶき FG. Read it against 常陽銀行 and 足利銀行 (parent bank subsidiaries) and the regional-bank consolidation pattern for system / regulatory boundary. Adjacent peer is FFG 証券 under fukuoka-fg for the FG-affi
-- Headings: めぶき証券 (Mebuki Securities), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 旧 常陽証券系譜, めぶき FG 設立とグループ統合, 4. KPI table (concept) ^[ambiguous]
+- Headings: めぶき証券 (Mebuki Securities), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 旧 常陽証券系譜, めぶき FG 設立とグループ統合, 4. KPI table (concept)
 - First resolved wikilinks: https://finwiki.zksc.io/77-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/aizawa-sg, https://finwiki.zksc.io/ashikaga-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chiba-bank, https://finwiki.zksc.io/daiwa-sg, https://finwiki.zksc.io/ffg-securities, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/iwai-cosmo-hd, https://finwiki.zksc.io/joyo-bank
 
 ### メディケア生命保険

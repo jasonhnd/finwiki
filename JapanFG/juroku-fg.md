@@ -12,6 +12,8 @@ status: active
 sources:
   - "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)"
   - "Wikipedia: 十六銀行 (2026-05-19 抽出)"
+  - "金融庁: 銀行の合併について (十六銀行・岐阜銀行) https://www.fsa.go.jp/news/24/ginkou/20120910-1.html"
+  - "Wikipedia: 岐阜銀行 https://ja.wikipedia.org/wiki/岐阜銀行 (2026-05-29 確認)"
 ---
 
 # 十六 FG (Juroku Financial Group)
@@ -59,9 +61,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 周辺関係
 
-- 旧 **岐阜銀行** (別法人、後の経営破綻歴あり) との県内競合関係 ^[ambiguous]
-  - 岐阜銀行は十六銀行と別系統の地銀で、経営問題を経て**2012-09 大垣共立銀行に吸収合併**された経緯
-  - 十六銀行はこの再編に直接関与せず、岐阜県内地銀構図は「十六 vs 大垣共立」の二強に集約
+- 旧 **岐阜銀行** (別法人、経営難の歴史あり) との関係 — **十六銀行が救済・吸収した相手**
+  - 岐阜銀行は 1990 年代の経営難で旧東海銀行の親密行となった後、2009-02 に十六銀行へ資本支援を要請。十六銀行が優先株 25 億円を引き受け
+  - **2010-12-22**：十六銀行が（三菱東京 UFJ 銀行の協力を得て）岐阜銀行株式を全取得し**完全子会社化**
+  - **2012-09-18**：十六銀行が岐阜銀行を**吸収合併**（金融庁が銀行法第 30 条に基づき認可）、岐阜銀行は消滅。岐阜県内地銀構図は「十六 vs 大垣共立」の二強に集約
 
 ## 3. 事業セグメント・マップ
 
@@ -105,11 +108,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 中京経済圏内の地銀広域連携の方向性
   - DX 投資・勘定系刷新の地銀共同利用
 
-## 6. Counterpoints
-
-- 「**大垣共立との二強体制の閉塞**」: 県内二強は安定的だが、デジタル投資負担増・人口減少下で長期的な合従の可能性は残る ^[ambiguous]
-- 「**TSMC 特需の波及度**」: 熊本進出の直接効果は限定的、岐阜県内製造業への波及は二次・三次サプライヤー経由で間接的 ^[ambiguous]
-
 ## 7. Open questions
 
 - 大垣共立銀行との県内シェアバランスは中長期的にどう推移するか?
@@ -131,6 +129,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **Wikipedia: 十六フィナンシャルグループ** (https://ja.wikipedia.org/wiki/十六フィナンシャルグループ, 2026-05-19 抽出)
 - **Wikipedia: 十六銀行** (https://ja.wikipedia.org/wiki/十六銀行, 2026-05-19 抽出)
+- **金融庁: 銀行の合併について**（十六銀行・岐阜銀行の合併認可、2012-09-10）https://www.fsa.go.jp/news/24/ginkou/20120910-1.html — 岐阜銀行は 2012-09-18 に**十六銀行へ**吸収合併（大垣共立銀行ではない）
+- **Wikipedia: 岐阜銀行** https://ja.wikipedia.org/wiki/岐阜銀行 （2026-05-29 確認）— 2009 資本支援要請 → 2010-12-22 十六銀行の完全子会社化 → 2012-09-18 十六銀行へ吸収合併
 
 ---
 

@@ -13,6 +13,7 @@ sources:
   - "https://www.mebuki-lease.co.jp/"
   - "https://www.mebuki-fg.co.jp/"
   - "https://www.chiginkyo.or.jp/"
+  - "めぶきリース 会社概要 — 設立 1974-09 / 資本金 1 億円 / 本社 水戸市南町 常陽海上ビル / 2017-04-03 旧 常陽リースから商号変更 (https://www.mebuki-lease.co.jp/gaiyo/index.html)"
 ---
 
 # めぶきリース (Mebuki Lease)
@@ -64,17 +65,21 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - **2016-10-01**: [[mebuki-fg|めぶき FG]] 設立 ([[joyo-bank]] + [[ashikaga-bank]] 共同株式移転)
 - 銀行子会社 2 行の顧客基盤統合 + リース機能のスケールメリット追求
 
-## 4. KPI table (concept) ^[ambiguous]
+## 4. KPI table (concept)
 
 | 項目 | 概況 |
 |---|---|
+| 設立 | 1974-09（旧 常陽リース。2017-04-03 [[mebuki-fg]] が全株式取得し「めぶきリース」へ商号変更、同時に足利信用保証のリース事業を承継）|
+| 資本金 | 1 億円 |
+| 従業員数 | 約 80 名 |
+| 本社 | 茨城県水戸市南町 3-4-12 常陽海上ビル |
 | 主要営業エリア | 茨城県・栃木県・首都圏 ([[mebuki-fg]] 連携地盤) |
 | 業務領域 | 設備リース、ファイナンスリース、オペレーティングリース、ベンダーリース |
 | 銀リース連携 | [[joyo-bank]] / [[ashikaga-bank]] 顧客紹介 + 共同提案 |
 | 主要顧客層 | 北関東中堅企業 + 製造業・農業機械・医療機関・自治体 |
 | 親会社 | [[mebuki-fg]] 100% 出資 |
 
-> 注: 単体財務 KPI 精緻値は [[mebuki-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
+> 注: めぶきリースは非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[mebuki-fg]] 有価証券報告書セグメント情報を参照
 
 ## 5. 事業セグメント map
 
@@ -124,6 +129,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ## Sources
 
 - **めぶきリース 公式サイト** (https://www.mebuki-lease.co.jp/)
+- **めぶきリース 会社概要**（設立 1974-09、資本金 1 億円、本社 茨城県水戸市南町 3-4-12 常陽海上ビル、めぶき FG 100%。旧 常陽リース → 2017-04-03 全株式取得・商号変更、同時に足利信用保証のリース事業を承継）<https://www.mebuki-lease.co.jp/gaiyo/index.html>
 - **めぶき FG 公式 IR** (https://www.mebuki-fg.co.jp/)
 - **全国地方銀行協会** (https://www.chiginkyo.or.jp/, 連携企業情報)
 - **Wikipedia: めぶきリース / めぶきフィナンシャルグループ** (2026-05-24 抽出)
@@ -131,4 +137,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24)。[[mebuki-fg]] page = holding-company strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[mebuki-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24)。[[mebuki-fg]] page = holding-company strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。会社概要 (設立 1974-09 / 資本金 1 億円 / 従業員 約 80 名 / 2017-04-03 旧 常陽リースから商号変更) は公式サイトで確認済み。非上場完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[mebuki-fg]] 有価証券報告書セグメント情報要参照。

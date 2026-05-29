@@ -39,7 +39,9 @@
       "https://www.shinnihon.or.jp/services/financial-services/",
       "https://jicpa.or.jp/",
       "https://www.fsa.go.jp/cpaaob/",
-      "https://disclosure2.edinet-fsa.go.jp/"
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://ja.wikipedia.org/wiki/4大監査法人",
+      "https://ja.wikipedia.org/wiki/EY新日本有限責任監査法人"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it alongside 有限責任監査法人トーマツ (Deloitte) and あずさ監査法人 (KPMG) for peer Big 4 audit context, and 金融ライセンス INDEX for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は 金融庁 監督局 と 金融庁 総合政策局 の所管文脈を併読。",
@@ -56,7 +58,7 @@
     "CPAAOB 検査・処分歴 ^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/deloitte-touche-tohmatsu",
@@ -64,6 +66,7 @@
       "JapanFG/fsa-supervision-bureau",
       "JapanFG/kpmg-azsa",
       "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/mizuho-fg",
       "JapanFG/mufg",
       "JapanFG/pwc-aarata",
       "JapanFG/taiyo-grant-thornton",
@@ -76,6 +79,7 @@
       "https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau",
       "https://finwiki.zksc.io/JapanFG/kpmg-azsa",
       "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/pwc-aarata",
       "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton",
@@ -85,8 +89,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4071,
-    "word_like_tokens": 591,
+    "nonspace_chars": 4347,
+    "word_like_tokens": 654,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

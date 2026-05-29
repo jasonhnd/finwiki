@@ -15,6 +15,7 @@ sources:
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.jsda.or.jp/"
+  - "ちばぎん証券 公式 沿革 — 商号変更 2011-01 / 千葉銀完全子会社化 2011-10 (https://www.chibagin-sec.co.jp/corporate/history/index.html)"
 ---
 # ちばぎん証券 (Chibagin Securities)
 
@@ -24,7 +25,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 ## TL;DR
 
-株式会社ちばぎん証券は、[[chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系証券会社で、千葉県・首都圏東部を地盤とする個人富裕層・中堅企業 main bank 顧客向けの retail brokerage・公募私募債仲介・投信・ファンドラップ・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[jsda|日本証券業協会]] 正会員。**前身は旧 中央証券 (Chuo Securities)** で、千葉銀行が買収・グループ化した後にちばぎん証券へ改称した。千葉銀は持株会社化していない単独銀行 (no-holding model) のため、ちばぎん証券は親銀行直下にぶら下がる構造で、[[mebuki-fg]] / [[fukuoka-fg]] のような持株会社下の銀証兄弟会社 model とは法的位置が異なる。^[extracted]
+株式会社ちばぎん証券は、[[chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系証券会社で、千葉県・首都圏東部を地盤とする個人富裕層・中堅企業 main bank 顧客向けの retail brokerage・公募私募債仲介・投信・ファンドラップ・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[jsda|日本証券業協会]] 正会員。**前身は旧 中央証券 (Chuo Securities)** で、旧 山一證券系であったが山一破綻後に千葉銀行が筆頭株主としてグループ化し、**2011-01 に「ちばぎん証券」へ商号変更**、**2011-10 に株式交換で千葉銀行の完全子会社**となった。千葉銀は持株会社化していない単独銀行 (no-holding model) のため、ちばぎん証券は親銀行直下にぶら下がる構造で、[[mebuki-fg]] / [[fukuoka-fg]] のような持株会社下の銀証兄弟会社 model とは法的位置が異なる。^[extracted]
 
 ## 1. 会社概要
 
@@ -109,11 +110,11 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - **顧客本位の業務運営原則 (FD principle)**: 投信販売 / ファンドラップ販売の利益相反開示・コスト透明化
 - **高齢者投資勧誘ルール強化**: 千葉県は高齢化進行、富裕層シニア向け勧誘の説明義務厳格化
 - **投信販売手数料の透明化・低水準化圧力**: ノーロード投信普及・手数料収益縮小圧力
-- **EDINET / 有価証券報告書**: ちばぎん証券単体は非上場で開示限定的、[[chiba-bank]] 連結 / 有価証券報告書セグメント情報で間接開示 ^[ambiguous]
+- **EDINET / 有価証券報告書**: ちばぎん証券単体は非上場で単独開示は限定的。[[chiba-bank]] 連結 / 有価証券報告書セグメント情報で間接開示される (EDINET 上は千葉銀行連結ベース)
 
 ### 会計上の取扱い
 
-- **単体財務 KPI**: 親 [[chiba-bank]] 有価証券報告書注記 / セグメント情報で部分開示 ^[ambiguous]
+- **単体財務 KPI**: ちばぎん証券単体の精緻値は単独開示されず、親 [[chiba-bank]] 有価証券報告書注記 / セグメント情報で部分開示されるにとどまる
 
 ## Related
 
@@ -128,6 +129,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ## Sources
 
 - **ちばぎん証券 公式サイト** (https://www.chibagin-sec.co.jp/)
+- **ちばぎん証券 公式 沿革**（商号変更 2011-01「ちばぎん証券」/ 株式交換による千葉銀行完全子会社化 2011-10、前身 中央証券は旧 山一證券系）<https://www.chibagin-sec.co.jp/corporate/history/index.html>
 - **千葉銀行 公式 IR** (https://www.chibabank.co.jp/)
 - **EDINET 有価証券報告書 (千葉銀行連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
 - **FSA 金融商品取引業者一覧** (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, 第一種金融商品取引業者)
@@ -137,4 +139,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ---
 
 > [!info] 校核状态
-> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-25)。[[chiba-bank]] page = 単独銀行 (no-holding model) holding strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[chiba-bank]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。旧 中央証券からちばぎん証券への改称時期 / 千葉銀買収時期の正確な年月は ambiguous ^[ambiguous]。
+> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-25)。[[chiba-bank]] page = 単独銀行 (no-holding model) holding strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。ちばぎん証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[chiba-bank]] 有価証券報告書セグメント情報での間接開示に依存する。商号変更 (2011-01) / 千葉銀完全子会社化 (2011-10) は公式沿革で確認済み。

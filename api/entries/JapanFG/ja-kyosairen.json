@@ -39,6 +39,7 @@
       "https://www.ja-kyosai.or.jp/about/",
       "https://org.ja-group.jp/factbook/",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
+      "https://www.ja-kyosai.or.jp/files/2024/202407-3.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)",
       "https://www.kyoeikasai.co.jp/about/know/pdf/ja.pdf"
     ]
@@ -104,8 +105,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5232,
-    "word_like_tokens": 787,
+    "nonspace_chars": 5418,
+    "word_like_tokens": 852,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-05-29"
   }

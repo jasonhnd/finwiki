@@ -25,6 +25,8 @@ sources:
   - "https://www.toushikikin.or.jp/"
   - "https://www.kigyounenkin.or.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
+  - "https://www.shintaku-kyokai.or.jp/archives/013/202305/NR20230530-1.pdf"
+  - "https://www.ideco-koushiki.jp/library/pdf/statistics_202403.pdf"
 ---
 
 # Pension trust mandate allocation Japan
@@ -42,8 +44,8 @@ Japanese pension-trust mandates split into three layers: GPIF (~¥250tn assets, 
 | Layer | Description | Statute | Approximate scale |
 |---|---|---|---|
 | **GPIF** (年金積立金管理運用独立行政法人) | Public pension reserve fund | 厚生年金保険法 + 国民年金法 + 独立行政法人法 | ~¥250tn AUM |
-| **Corporate DB** (確定給付企業年金) | Corporate-sponsored defined-benefit pension trust | 確定給付企業年金法 (2001) | Multi-tens of trillions yen aggregate ^[ambiguous] |
-| **Corporate DC + iDeCo** (確定拠出年金) | Corporate-sponsored / individual DC | 確定拠出年金法 (2001) | Multi-tens of trillions yen aggregate; growing fast post-NISA / DC reforms ^[ambiguous] |
+| **Corporate DB** (確定給付企業年金) | Corporate-sponsored defined-benefit pension trust | 確定給付企業年金法 (2001) | ~¥66.0tn entrusted assets (確定給付企業年金, 令和5年3月末; DB+厚生年金基金 combined ~¥80.5tn) |
+| **Corporate DC + iDeCo** (確定拠出年金) | Corporate-sponsored / individual DC | 確定拠出年金法 (2001) | ~¥29tn aggregate (企業型DC ¥22.8tn + iDeCo ¥6.2tn, 2024-03末); growing fast post-NISA / DC reforms |
 
 ### Mandate-allocation role separation
 
@@ -265,3 +267,5 @@ Pension plan
 - 企業年金連合会 (Pension Fund Association): corporate-pension data.
 - 投資信託協会: investment-trust statistics.
 - FSA: trust-business financial institution list.
+- 信託協会・生命保険協会・JA共済連「企業年金（確定給付型）の受託概況（令和5年3月末現在）」(DB 資産残高 66兆238億円 / DB+厚生年金基金 合計 80兆5,006億円): https://www.shintaku-kyokai.or.jp/archives/013/202305/NR20230530-1.pdf
+- 運営管理機関連絡協議会「確定拠出年金統計資料（2024年3月末）」(企業型DC 22兆7,880億円 / iDeCo 6兆1,883億円): https://www.ideco-koushiki.jp/library/pdf/statistics_202403.pdf

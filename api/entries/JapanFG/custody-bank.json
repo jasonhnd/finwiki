@@ -32,7 +32,9 @@
     "sources": [
       "Wikipedia: 株式会社日本カストディ銀行 (2026-05-19 抽出)",
       "Wikipedia: 日本トラスティ・サービス信託銀行 (2026-05-19 抽出)",
-      "Wikipedia: 資産管理サービス信託銀行 (2026-05-19 抽出)"
+      "Wikipedia: 資産管理サービス信託銀行 (2026-05-19 抽出)",
+      "三井住友信託銀行: スケールメリットの追求 (CBJ 信託財産 476兆円・総預かり 696兆円, 2025-03 末) https://www.smtb.jp/business/instrument/management/scale",
+      "日本カストディ銀行 ディスクロージャー誌 2025 https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -76,8 +78,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3818,
-    "word_like_tokens": 574,
+    "nonspace_chars": 4339,
+    "word_like_tokens": 664,
     "inbound_wikilinks_count": 21,
     "last_modified": "2026-05-29"
   }

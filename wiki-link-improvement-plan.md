@@ -31,21 +31,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/mercari-hd.md` | `M` | 7 | ok |
-| `JapanFG/mitsubishi-corp-asset-management.md` | `M` | 21 | ok |
-| `JapanFG/nomura-trust-bank.md` | `M` | 22 | ok |
-| `JapanFG/ogaki-kyoritsu-bank.md` | `M` | 9 | ok |
-| `JapanFG/orico.md` | `M` | 19 | ok |
-| `JapanFG/proclair-hd.md` | `M` | 7 | ok |
-| `JapanFG/pwc-aarata.md` | `M` | 12 | ok |
-| `JapanFG/saison-asset-management.md` | `M` | 32 | ok |
-| `JapanFG/saison-automobile-fire-insurance.md` | `M` | 30 | ok |
-| `JapanFG/san-jusan-bank.md` | `M` | 23 | ok |
-| `JapanFG/ubs-japan.md` | `M` | 15 | ok |
-| `JapanFG/yokohama-bank-leasing.md` | `M` | 43 | ok |
-| `JapanFG/zenrosai.md` | `M` | 15 | ok |
-| `banking/master-trust-bank-operating-model.md` | `M` | 34 | ok |
-| `real-estate-finance/japan-cmbs-rmbs-securitization.md` | `M` | 46 | ok |
+| `JapanFG/01-bank.md` | `M` | 12 | ok |
+| `JapanFG/bittrade.md` | `M` | 5 | ok |
+| `JapanFG/chibagin-securities.md` | `M` | 47 | ok |
+| `JapanFG/custody-bank.md` | `M` | 26 | ok |
+| `JapanFG/deutsche-japan.md` | `M` | 25 | ok |
+| `JapanFG/dock-financial.md` | `M` | 23 | ok |
+| `JapanFG/ey-shinnihon.md` | `M` | 13 | ok |
+| `JapanFG/ffg-securities.md` | `M` | 50 | ok |
+| `JapanFG/ja-kyosairen.md` | `M` | 22 | ok |
+| `JapanFG/juroku-fg.md` | `M` | 11 | ok |
+| `JapanFG/kampo-life.md` | `M` | 4 | ok |
+| `JapanFG/kiyo-bank.md` | `M` | 12 | ok |
+| `JapanFG/mebuki-lease.md` | `M` | 49 | ok |
+| `JapanFG/mebuki-securities.md` | `M` | 45 | ok |
+| `banking/pension-trust-mandate-allocation-japan.md` | `M` | 19 | ok |
 
 ## Domain Snapshot
 

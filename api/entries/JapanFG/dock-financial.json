@@ -42,6 +42,7 @@
       "https://www.softbank.jp/corp/group/sb/",
       "https://www.fsa.go.jp/menkyo/menkyoj/fund_transfer.html",
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "gBizINFO: SBペイメントサービス株式会社 (法人番号 4010401058731, 従業員数 348名) https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4010401058731",
       "Wikipedia: SBペイメントサービス (公開情報, 2026-05-25 抽出)"
     ]
   },
@@ -56,7 +57,7 @@
     "2.3 サブセグメント",
     "3. 親会社関係（SoftBank Group の金融構造内）",
     "SBPS vs PayPay 金融グループ の棲み分け",
-    "4. KPI（公開情報ベース、参考値） ^[ambiguous]"
+    "4. KPI（公開情報ベース、参考値）"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -96,8 +97,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5560,
-    "word_like_tokens": 841,
+    "nonspace_chars": 5812,
+    "word_like_tokens": 882,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

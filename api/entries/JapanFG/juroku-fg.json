@@ -30,7 +30,9 @@
     "status": "active",
     "sources": [
       "Wikipedia: 十六フィナンシャルグループ (2026-05-19 抽出)",
-      "Wikipedia: 十六銀行 (2026-05-19 抽出)"
+      "Wikipedia: 十六銀行 (2026-05-19 抽出)",
+      "金融庁: 銀行の合併について (十六銀行・岐阜銀行) https://www.fsa.go.jp/news/24/ginkou/20120910-1.html",
+      "Wikipedia: 岐阜銀行 https://ja.wikipedia.org/wiki/岐阜銀行 (2026-05-29 確認)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -74,8 +76,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3398,
-    "word_like_tokens": 454,
+    "nonspace_chars": 3760,
+    "word_like_tokens": 536,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }
