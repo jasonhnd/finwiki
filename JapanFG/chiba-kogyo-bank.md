@@ -12,6 +12,11 @@ status: active
 sources:
   - "Wikipedia: 千葉興業銀行 (2026-05-19 抽出)"
   - 千葉興業銀行 公式 IR / 沿革 (2025 開示資料)
+  - "千葉興業銀行 2025年3月期 決算短信: https://www.chibakogyo-bank.co.jp/news/topics/assets/2989.pdf"
+  - "千葉興業銀行 ミニ・ディスクロージャー誌 2025年3月期: https://www.chibakogyo-bank.co.jp/ir/library/mini-disclosure/pdf/2025_3.pdf"
+  - "千葉銀行 開示 (筆頭株主化 2025-03-28): https://www.chibabank.co.jp/news/news20250328_03_001"
+  - "千葉銀行・千葉興業銀行 経営統合 最終合意 (2026-03-25): https://www.chibabank.co.jp/news/news20260325_02"
+  - "関東財務局 経営統合 基本合意: https://lfb.mof.go.jp/kantou/kinyuu/pagekt_cnt_20250919001.html"
 ---
 
 # 千葉興業銀行 (Chiba Kogyo Bank)
@@ -30,35 +35,44 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **英名**：The Chiba Kogyo Bank, Ltd.
 **証券コード**：東証 PRIME 8337 ^[extracted]
 **設立**：1952-01-18（千葉商工信用組合として）^[extracted]
-**本店**：千葉県千葉市美浜区 ^[ambiguous]
+**本店**：千葉県千葉市美浜区幸町二丁目1番2号 ^[extracted]
 **業態**：第二地方銀行（持株会社化していない単独銀行）
 **略称**：「ちば興銀」
 
-### 主要数値（公開）^[ambiguous]
+### 主要数値（公開）^[extracted]
 
 | 項目 | 規模 |
 |---|---|
 | 業態 | 第二地銀（一般社団法人 第二地方銀行協会 加盟）|
-| 預金規模 | 第二地銀中堅級 ^[ambiguous] |
+| 総資産（連結）| 3兆2,468億円（2025-03 末）^[extracted] |
+| 預金残高（単体）| 2兆8,795億円（2025-03 末）^[extracted] |
+| 貸出金残高（連結）| 2兆4,158億円（2025-03 末）^[extracted] |
+| 従業員（連結）| 1,313 名（2025-03 末）^[extracted] |
 | 千葉県内ポジション | No.2（No.1 は [[chiba-bank]]、預金シェアは大きく劣後）|
 | 上場市場 | 東証 PRIME（旧東証 1 部）|
 
-> 預金・総資産の具体数値は本稿時点で確証なし — 最新は同行決算短信を要参照 ^[ambiguous]。第二地銀の中堅クラスで、千葉県内 [[chiba-bank]] とはシェア差が大きい構造。
+> 第二地銀の中堅クラスで、千葉県内 [[chiba-bank]] とはシェア差が大きい構造。計数は 2025年3月期 決算短信・ミニディスクロージャー誌ベース。
 
-### 主要株主（公開ベース）^[ambiguous]
+### 主要株主（公開ベース）^[extracted]
 
-| 株主 | 比率 |
+| 株主 | 比率（2025-03-28 / 03-31 時点）|
 |---|---|
-| みずほ銀行 / [[mizuho-fg]] 関連 | 約 20-30% ^[ambiguous] |
-| 信託口・一般株主 | 残余 |
+| [[chiba-bank]]（千葉銀行・筆頭株主）| 19.00%（11,812,000 株）^[extracted] |
+| 日本マスタートラスト信託銀行（信託口）| 15.27% ^[extracted] |
+| みずほ銀行 / [[mizuho-fg]] 関連 | 15.25% ^[extracted] |
+| 日本カストディ銀行（信託口）| 5.75% ^[extracted] |
+
+> 注: 2025-03-28 に [[chiba-bank]] が投資ファンド保有分を取得し筆頭株主化。旧来の「みずほ系戦略株主が筆頭」という構図は現状と異なり、みずほは 2023 に持分法適用を解消済み。
 
 ### 主要子会社・関連会社（公開）
 
 ```
-千葉興業銀行（単独銀行・上場 8337）
-  ├── ちば興銀リース ── 法人リース
-  ├── ちば興銀コンピュータソフト ── システム子会社 ^[ambiguous]
-  └── その他関連子会社 ── カード/保証等 ^[ambiguous]
+千葉興業銀行（単独銀行・上場 8337）^[extracted]
+  ├── 千葉総合リース ── 法人リース
+  ├── ちば興銀コンピュータソフト ── システム子会社
+  ├── ちば興銀カードサービス ── カード
+  ├── ちば興銀ビジネスサービス ── 事務受託
+  └── 株式会社ちばくる ── 関連会社
 ```
 
 ### 前身・統合歴史
@@ -67,8 +81,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **1953** 千葉商工信用金庫 改称（信用金庫転換）
 - **1969** 普通銀行転換 → 千葉商工銀行
 - **1973** 千葉興業銀行 改称（現社名）
-- **1991 頃** 経営悪化局面 → 公的資金注入論議 / 旧第一勧銀・富士銀行系（現 [[mizuho-fg]]）の戦略株主受け入れ ^[ambiguous]
-- **2024** 中期経営計画 策定 ^[ambiguous]
+- **2000** バブル後の経営悪化局面 → 富士銀行（現 [[mizuho-fg]]）が 2000-09 に 1,000 億円を出資、富士銀行・安田生命・安田火災による第三者割当増資、公的資金 約 600 億円注入。以後みずほ系の戦略株主体制へ ^[extracted]
 
 ### 重要年表（抜粋）^[extracted]
 
@@ -78,11 +91,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 1953 | 千葉商工信用金庫 改称 |
 | 1969 | 普通銀行転換 → 千葉商工銀行 |
 | **1973** | **千葉興業銀行 改称**（現社名）|
-| **1991 頃** | **経営悪化 → 旧第一勧銀・富士銀行系（現 [[mizuho-fg]]）系列入り** ^[ambiguous] |
+| **2000** | **経営悪化 → 富士銀行（現 [[mizuho-fg]]）の出資・公的資金注入で再建、みずほ系戦略株主体制へ** ^[extracted] |
 | 2000-09 | みずほ HD 発足（戦略株主の親会社化）|
 | 2003-01 | [[mizuho-fg]] 発足 |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
-| 2024 | 中期経営計画 策定 ^[ambiguous] |
+| 2025-03-28 | [[chiba-bank]] が投資ファンド保有株を取得し筆頭株主化（19.00%）^[extracted] |
+| 2025-09-29 | [[chiba-bank]] と経営統合の基本合意 ^[extracted] |
+| 2026-03-25 | 経営統合 最終合意（共同株式移転で持株会社「ちばフィナンシャルグループ」設立、2027-04-01 予定）^[extracted] |
 
 ## 2. 事業セグメント・マップ
 
@@ -91,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 法人融資 | 千葉興業銀行（本体）| 千葉県内中小企業 main bank、地域密着 |
 | 個人預金・住宅ローン | 千葉興業銀行（本体）| 千葉県内 No.2、ローカル支店網 |
 | リース | ちば興銀リース | 法人向け |
-| カード/保証 | グループ関連会社 ^[ambiguous] | 地銀標準ライン |
+| カード/保証 | ちば興銀カードサービス 等 ^[extracted] | 地銀標準ライン |
 
 ### 戦略ポジション
 
@@ -99,14 +114,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### デジタル戦略
 
-- 単独銀行としてのデジタル投資は限界あり ^[ambiguous]
 - 詳細は最新 IR / 中期経営計画を要参照
 
 ### 競合関係
 
 | 競合 | 関係 |
 |---|---|
-| [[chiba-bank]] | 千葉県内 No.1（同県内で圧倒的シェア、預金規模 18-20 兆円規模 ^[ambiguous]）|
+| [[chiba-bank]] | 千葉県内 No.1（同県内で圧倒的シェア、預金 16兆2,687億円・総資産 21兆6,312億円 / 2025-03 末）^[extracted] |
 | 京葉銀行 | 千葉県の第二地銀（同県内競合・東葛地盤）|
 | [[musashino-bank]] | 埼玉地盤の第二地銀（[[chiba-bank]] 主導 TSUBASA 加盟、隣県競合）|
 | [[concordia-fg]] | 神奈川地盤の首都圏地銀 FG（広域競合）|
@@ -133,11 +147,17 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- **Wikipedia: 株式会社千葉興業銀行**（https://ja.wikipedia.org/wiki/千葉興業銀行, 2026-05-19 抽出）
-- 千葉興業銀行 公式沿革・IR 開示資料（2025）
+- **Wikipedia: 千葉興業銀行**（https://ja.wikipedia.org/wiki/千葉興業銀行, 2026-05-19 抽出。本店・子会社・2000 年再建経緯・機関設計を確認）
+- 千葉興業銀行 2025年3月期 決算短信 — https://www.chibakogyo-bank.co.jp/news/topics/assets/2989.pdf
+- 千葉興業銀行 こうゆう2025 ミニ・ディスクロージャー誌（2025年3月期）— https://www.chibakogyo-bank.co.jp/ir/library/mini-disclosure/pdf/2025_3.pdf
+- 千葉銀行 開示「投資ファンド保有株取得・筆頭株主化」（2025-03-28）— https://www.chibabank.co.jp/news/news20250328_03_001
+- 千葉銀行・千葉興業銀行 経営統合 基本合意（2025-09-29）— https://www.chibakogyo-bank.co.jp/news/topics/assets/3025.pdf
+- 千葉銀行・千葉興業銀行 経営統合 最終合意（2026-03-25）— https://www.chibabank.co.jp/news/news20260325_02
+- 関東財務局「千葉銀行と千葉興業銀行の経営統合に関する基本合意について」— https://lfb.mof.go.jp/kantou/kinyuu/pagekt_cnt_20250919001.html
+- 千葉銀行 2025年3月期 決算（競合規模の参照）— https://www.chibabank.co.jp/news/news20250508_01_001
 - 第二地方銀行協会 公開情報
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-19）。預金規模・[[mizuho-fg]] 持株比率は ^[ambiguous] — 最新は千葉興業銀行 IR / 決算短信 / 大量保有報告書を要参照。**第二地銀・千葉県 No.2・[[mizuho-fg]] 戦略株主下の単独銀行** という位置づけが戦略理解の核心。1991 経営悪化を契機とするみずほ系列入りの正確な経緯は ^[ambiguous]、公式沿革と当時報道の照合が必要。
+> confidence: **likely**（v1.0 公開情報ベース 2026-05-19、2026-05-29 計数校核）。総資産・預金・貸出金・従業員・本店所在地・子会社・大株主比率を 2025年3月期 決算短信／ミニディスクロージャー誌／公式適時開示で確定。**重要更新**: 旧稿の「みずほ系戦略株主下の単独銀行」という位置づけは現状と異なる — [[chiba-bank]] が 2025-03-28 に筆頭株主化（19.00%、みずほは 15.25%）し、2025-09-29 基本合意・2026-03-25 最終合意により 2027-04 に [[chiba-bank]] と共同持株会社「ちばフィナンシャルグループ」を設立予定。経営悪化・みずほ系列入りの契機は 2000 の富士銀行出資・公的資金注入（旧稿「1991 頃」は不正確のため修正）。

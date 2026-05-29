@@ -33,7 +33,12 @@
     "status": "active",
     "sources": [
       "Wikipedia: 千葉興業銀行 (2026-05-19 抽出)",
-      "千葉興業銀行 公式 IR / 沿革 (2025 開示資料)"
+      "千葉興業銀行 公式 IR / 沿革 (2025 開示資料)",
+      "千葉興業銀行 2025年3月期 決算短信: https://www.chibakogyo-bank.co.jp/news/topics/assets/2989.pdf",
+      "千葉興業銀行 ミニ・ディスクロージャー誌 2025年3月期: https://www.chibakogyo-bank.co.jp/ir/library/mini-disclosure/pdf/2025_3.pdf",
+      "千葉銀行 開示 (筆頭株主化 2025-03-28): https://www.chibabank.co.jp/news/news20250328_03_001",
+      "千葉銀行・千葉興業銀行 経営統合 最終合意 (2026-03-25): https://www.chibabank.co.jp/news/news20260325_02",
+      "関東財務局 経営統合 基本合意: https://lfb.mof.go.jp/kantou/kinyuu/pagekt_cnt_20250919001.html"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -42,8 +47,8 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要数値（公開）^[ambiguous]",
-    "主要株主（公開ベース）^[ambiguous]",
+    "主要数値（公開）^[extracted]",
+    "主要株主（公開ベース）^[extracted]",
     "主要子会社・関連会社（公開）",
     "前身・統合歴史",
     "重要年表（抜粋）^[extracted]",
@@ -79,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3407,
-    "word_like_tokens": 498,
+    "nonspace_chars": 5194,
+    "word_like_tokens": 846,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

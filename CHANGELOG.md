@@ -31,6 +31,17 @@
 
 ## 2026-05-29
 
+### ^[ambiguous] 解消 Wave 1（pilot · 上場地銀 3 行）/ Resolve ^[ambiguous] Wave 1 (pilot — 3 listed regional banks) / 解决 ^[ambiguous] Wave 1（试点 · 3 家上市地银）
+
+#### 日本語記録 / English / 中文
+
+- **方針**: `^[ambiguous]`(不確実な事実マーカー、146 file / 1,047 箇所)を「逐条核実 — 出典が取れれば残して補源、取れなければ隔離」で解消する大規模パスを開始。観点・推測は出典不能 → `.opinions/` 隔離;不確実な数値・関係は公式 IR / 決算短信 / 公的記録で検証 → 精確値に更新 or 公式開示リンクで裏付け。**捏造禁止、不明は隔離**。
+- **Wave 1(pilot, 3 行)**: `JapanFG/77-bank.md`(七十七銀行 8341)、`toho-bank.md`(東邦銀行 8346)、`chiba-kogyo-bank.md`(千葉興業銀行 8337)。各行の総資産 / 預金 / 貸出金 / 従業員 / 関連会社 / 機関設計を公式 IR + Wikipedia で検証し補源。溯源過程で**事実誤りも訂正**: 77 行は TSUBASA 非加盟(千葉銀主導ネットワーク)、海外拠点は上海+シンガポールのみ、機関設計を監査等委員会へ修正;千葉興銀の筆頭株主は**みずほ→千葉銀行(2025-03)**、危機/救済は**1991→2000**、千葉銀行との経営統合(2027-04「ちばフィナンシャルグループ」、上場廃止予定)を反映。出典不能の観点(企業カラー等)は `.opinions/` へ。
+- **検証**: 親側で `wiki_link_audit.py` 0 issues、3 行とも `^[ambiguous]` 0、追加 URL は全て公式/公的(77bank/tohobank/chibakogyo-bank/chibabank/MOF/TSUBASA/Wikipedia)、77 行の総資産 10兆4,227億等を独立に WebFetch 再確認。LF 統一。
+- **残**: `^[ambiguous]` は **143 file 残**(主に JapanFG)。1 wave あたりの所要が大きいため、複数 wave で継続。
+- **EN**: Started the `^[ambiguous]` (uncertain-fact marker; 146 files / 1,047 spots) resolution: source-or-quarantine. Wave 1 = 3 listed regional banks; verified financials/affiliates/board structure against official IR + Wikipedia, corrected several factual errors found while sourcing (77 Bank not a TSUBASA member; Chiba Kogyo's top holder Mizuho→Chiba Bank, crisis 1991→2000, now merging into Chiba FG 2027-04). 143 files remain — continuing in waves.
+- **中文**: 启动 `^[ambiguous]`(146 文件/1,047 处)的逐条解决:能溯源就留+补源、不能就隔离。Wave 1 = 3 家上市地银,用官方 IR+Wikipedia 核实财务/关联/机关设计,并更正溯源中发现的事实错误(77 行非 TSUBASA 成员;千葉興銀筆頭股主 みずほ→千葉银行、危机 1991→2000、正合并入千葉 FG 2027-04)。还剩 143 文件,分波继续。
+
 ### 主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留
 
 #### 日本語記録 / English / 中文

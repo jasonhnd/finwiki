@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T17:20:07+09:00",
+  "generated_at": "2026-05-29T17:49:21+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9738407,
-    "word_like_tokens": 1542333
+    "nonspace_utf8_chars": 9739839,
+    "word_like_tokens": 1542659
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-05-29",
+        "^[ambiguous] 解消 Wave 1（pilot · 上場地銀 3 行）/ Resolve ^[ambiguous] Wave 1 (pilot — 3 listed regional banks) / 解决 ^[ambiguous] Wave 1（试点 · 3 家上市地银）",
         "主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留",
         "主観内容の隔離（Phase 1）· 客観事実 wiki への再構成 / Subjective-content quarantine (Phase 1) — recompose into a facts-only wiki / 主观内容隔离（Phase 1）· 重构为客观事实 wiki",
-        "本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误",
-        "技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全"
+        "本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 417666,
-      "word_like_tokens": 73345,
+      "nonspace_chars": 419184,
+      "word_like_tokens": 73616,
       "last_modified": "2026-05-29"
     },
     {
@@ -914,7 +914,7 @@
         "TL;DR",
         "1. 会社概要",
         "業態の特徴",
-        "主要関連会社（推定の主な系列）^[ambiguous]",
+        "主要関連会社（主な系列）^[extracted]",
         "黎明期: 国立銀行条例から株式会社銀行へ",
         "戦後〜バブル期",
         "東日本大震災以降（最重要）",
@@ -953,8 +953,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3983,
-      "word_like_tokens": 545,
+      "nonspace_chars": 4554,
+      "word_like_tokens": 678,
       "last_modified": "2026-05-29"
     },
     {
@@ -5497,8 +5497,8 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "主要数値（公開）^[ambiguous]",
-        "主要株主（公開ベース）^[ambiguous]",
+        "主要数値（公開）^[extracted]",
+        "主要株主（公開ベース）^[extracted]",
         "主要子会社・関連会社（公開）",
         "前身・統合歴史",
         "重要年表（抜粋）^[extracted]",
@@ -5529,8 +5529,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3407,
-      "word_like_tokens": 498,
+      "nonspace_chars": 5194,
+      "word_like_tokens": 846,
       "last_modified": "2026-05-29"
     },
     {
@@ -30803,7 +30803,7 @@
         "TL;DR",
         "1. 会社概要",
         "業態の特徴",
-        "主要関連会社(推定)^[ambiguous]",
+        "主要関連会社 ^[extracted]",
         "戦時統合期: 一県一行政策下の発足",
         "戦後〜バブル期",
         "東日本大震災 + 原発事故(最重要)★",
@@ -30840,8 +30840,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3729,
-      "word_like_tokens": 506,
+      "nonspace_chars": 4462,
+      "word_like_tokens": 666,
       "last_modified": "2026-05-29"
     },
     {
@@ -83696,8 +83696,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 5253,
-      "word_like_tokens": 982,
+      "nonspace_chars": 2076,
+      "word_like_tokens": 396,
       "last_modified": "2026-05-29"
     }
   ]

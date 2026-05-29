@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T17:20:07+09:00
+Generated: 2026-05-29T17:49:21+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -28,7 +28,7 @@ Public pages listed: 1448
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-29, 主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留, 主観内容の隔離（Phase 1）· 客観事実 wiki への再構成 / Subjective-content quarantine (Phase 1) — recompose into a facts-only wiki / 主观内容隔离（Phase 1）· 重构为客观事实 wiki
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-29, ^[ambiguous] 解消 Wave 1（pilot · 上場地銀 3 行）/ Resolve ^[ambiguous] Wave 1 (pilot — 3 listed regional banks) / 解决 ^[ambiguous] Wave 1（试点 · 3 家上市地银）, 主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -78,7 +78,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 七十七銀行 (77 Bank), Wiki route, TL;DR, 1. 会社概要, 業態の特徴, 主要関連会社（推定の主な系列）^[ambiguous], 黎明期: 国立銀行条例から株式会社銀行へ, 戦後〜バブル期
+- Headings: 七十七銀行 (77 Bank), Wiki route, TL;DR, 1. 会社概要, 業態の特徴, 主要関連会社（主な系列）^[extracted], 黎明期: 国立銀行条例から株式会社銀行へ, 戦後〜バブル期
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fidea-hd, https://finwiki.zksc.io/JapanFG/joyo-bank, https://finwiki.zksc.io/JapanFG/kyoto-fg, https://finwiki.zksc.io/JapanFG/shizuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/chiba-bank, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg
 
 ### JapanFG — 日本金融グループ wiki namespace
@@ -828,7 +828,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 千葉興業銀行 (Chiba Kogyo Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開）^[ambiguous], 主要株主（公開ベース）^[ambiguous], 主要子会社・関連会社（公開）, 前身・統合歴史
+- Headings: 千葉興業銀行 (Chiba Kogyo Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開）^[extracted], 主要株主（公開ベース）^[extracted], 主要子会社・関連会社（公開）, 前身・統合歴史
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jimoto-hd, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/chiba-bank, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/musashino-bank, https://finwiki.zksc.io/smfg
 
 ### ちばぎんリース (Chibagin Leasing)
@@ -5708,7 +5708,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 東邦銀行 (Toho Bank), Wiki route, TL;DR, 1. 会社概要, 業態の特徴, 主要関連会社(推定)^[ambiguous], 戦時統合期: 一県一行政策下の発足, 戦後〜バブル期
+- Headings: 東邦銀行 (Toho Bank), Wiki route, TL;DR, 1. 会社概要, 業態の特徴, 主要関連会社 ^[extracted], 戦時統合期: 一県一行政策下の発足, 戦後〜バブル期
 - First resolved wikilinks: https://finwiki.zksc.io/77-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fidea-hd, https://finwiki.zksc.io/JapanFG/shizuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/chiba-bank, https://finwiki.zksc.io/jimoto-hd, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/proclair-hd, https://finwiki.zksc.io/sbi-regional-bank-hd
 
 ### 東北銀行
