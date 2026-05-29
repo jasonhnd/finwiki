@@ -17,6 +17,8 @@ sources:
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
+  - "https://www.iwaki-shinkumi.shinkumi.net/about-profile.html"
+  - "https://www.iwaki-shinkumi.com/about-disk.html"
   - "中小企業等協同組合法"
 ---
 # いわき信用組合 (Iwaki Credit Cooperative)
@@ -78,16 +80,19 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 - **観光業** (いわき湯本温泉等) — 風評被害克服フェーズの観光関連融資
 - **住宅ローン** — 復興公営住宅・自主再建住宅資金
 
-## 4. KPI (推定) ^[ambiguous]
+## 4. KPI (確定値)
 
 | 指標 | 値 | 出典 |
 |---|---|---|
-| 総資産 | 数千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
-| 預金残高 | 数千億円規模 | ^[ambiguous] |
-| 貸出金 | 千億円台規模 | ^[ambiguous] |
-| 組合員数 | 数万人規模 | ^[ambiguous] |
+| 預金残高 | 2,041 億 6,148 万円 (2024-03-31) | いわき信組公式 組合概要 |
+| 貸出残高 | 1,215 億 862 万円 (2024-03-31) | いわき信組公式 組合概要 |
+| 出資金 | 158 億 6,494 万円 (2024-03-31) | いわき信組公式 組合概要 |
+| 自己資本 | 229 億 761 万円 (2024-03-31) | いわき信組公式 組合概要 |
+| 組合員数 | 41,810 名 (2024-03-31) | いわき信組公式 組合概要 |
+| 店舗数 | 15 店 (2024-03-31) | いわき信組公式 組合概要 |
+| 常勤役職員数 | 185 名 (2024-03-31) | いわき信組公式 組合概要 |
 
-> 注: 信用組合は非上場・非公開部分が多く、最新数値はいわき信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
+> 注: 上記は **いわき信用組合公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。最新の半期/通期数値は [いわき信組ディスクロージャー誌](https://www.iwaki-shinkumi.com/about-disk.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
 
 ## 5. 監督・規制
 
@@ -113,6 +118,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 
 ## Sources
 
+- **いわき信用組合 公式「組合概要」(2024-03-31 現在)**: https://www.iwaki-shinkumi.shinkumi.net/about-profile.html — 預金 2,041 億円・貸出 1,215 億円・出資金 158 億円・組合員 41,810 名・店舗 15・役職員 185 名・自己資本 229 億円
+- **いわき信用組合 公式 ディスクロージャー誌一覧**: https://www.iwaki-shinkumi.com/about-disk.html
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 5380005005753, registry No. 20)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
@@ -123,4 +130,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新はいわき信組ディスクロージャー誌 + 全信組連発行物を要参照。Tohoku 地域型信組の代表アンカーとして 143-shinkumi 連鎖の Wave 13 拡張で追加。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。預金・貸出・出資金・組合員数等 KPI は **いわき信組公式組合概要 (2024-03-31)** で確定 (従前の概数推定を実数に置換)。最新はいわき信組ディスクロージャー誌 + 全信組連発行物を参照。Tohoku 地域型信組の代表アンカーとして 143-shinkumi 連鎖の Wave 13 拡張で追加。

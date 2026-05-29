@@ -37,6 +37,7 @@
       "https://www.shinyokumiai.or.jp/",
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
+      "https://www.sa-chushin.shinkumi.jp/04outline/profile/index.html",
       "中小企業等協同組合法"
     ]
   },
@@ -50,7 +51,7 @@
     "北海道信組ブロック (registry比較)",
     "全信組連内の位置付け",
     "主要業務 ^[extracted]",
-    "5. KPI (推定) ^[ambiguous]",
+    "5. KPI (公式組合概要)",
     "6. 監督・規制"
   ],
   "body_links": {
@@ -83,8 +84,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3844,
-    "word_like_tokens": 531,
+    "nonspace_chars": 4312,
+    "word_like_tokens": 635,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

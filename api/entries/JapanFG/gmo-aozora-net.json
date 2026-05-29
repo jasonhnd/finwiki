@@ -32,7 +32,9 @@
     "sources": [
       "Wikipedia: GMOあおぞらネット銀行 (2026-05-19 抽出)",
       "GMO あおぞらネット銀行 公式サイト (2026-05-19 参照)",
-      "GMO インターネットグループ IR (2026-05-19 参照)"
+      "GMO インターネットグループ IR (2026-05-19 参照)",
+      "GMO あおぞらネット銀行 会社概要 (https://gmo-aozora.com/company/outline.html)",
+      "GMO インターネットグループ: GMOあおぞらネット銀行 種類株式取得に関するお知らせ 2023-06-19 (https://group.gmo/news/article/8450/)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -41,7 +43,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要株主（^[ambiguous]、時点変動あり）",
+    "主要株主（2026-02-20 時点・公式会社概要）",
     "グループ内ポジション",
     "沿革 ^[extracted]",
     "2. 事業セグメント・マップ",
@@ -80,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4393,
-    "word_like_tokens": 690,
+    "nonspace_chars": 5213,
+    "word_like_tokens": 844,
     "inbound_wikilinks_count": 15,
     "last_modified": "2026-05-29"
   }

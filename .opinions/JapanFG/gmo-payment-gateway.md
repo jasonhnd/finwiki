@@ -34,3 +34,12 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **「QR 決済波への対応」**:SB ペイメント (PayPay)・楽天ペイに対しカード決済軸の優位は維持可能か ^[inferred]
 - **「アジア展開 ROI」**:NextPay / ECPay 等の出資効果は短期収益化困難 ^[inferred]
 - **「Stripe / Adyen のクロスボーダー攻勢」**:グローバル SaaS 系 PSP の日本市場浸透リスク ^[inferred]
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## Counterpoints（本文 6 から移設）
+
+主観的な反論点。事実ではなく評価のため隔離。^[ambiguous]
+
+- **「親会社 GMO インターネットグループ依存」**:連結子会社・グループブランド経由の信用補完 vs 独立性 ^[ambiguous]
+- **「SMBC GMO PAYMENT」二重展開**:本体 GMO-PG と合弁先 SMBC GMO PAYMENT との顧客カニバリ整理 ^[ambiguous]

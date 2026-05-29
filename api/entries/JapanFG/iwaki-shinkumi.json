@@ -37,6 +37,8 @@
       "https://www.shinyokumiai.or.jp/",
       "https://www.zenshinkumiren.jp/",
       "https://www.dic.go.jp/",
+      "https://www.iwaki-shinkumi.shinkumi.net/about-profile.html",
+      "https://www.iwaki-shinkumi.com/about-disk.html",
       "中小企業等協同組合法"
     ]
   },
@@ -50,7 +52,7 @@
     "福島県内信組ブロック (registry比較)",
     "全信組連内の位置付け",
     "地域型信組の事業特性",
-    "4. KPI (推定) ^[ambiguous]",
+    "4. KPI (確定値)",
     "5. 監督・規制"
   ],
   "body_links": {
@@ -79,12 +81,14 @@
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
       "https://finwiki.zksc.io/regulators-japan/financial-laws-stack"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.iwaki-shinkumi.com/about-disk.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3771,
-    "word_like_tokens": 511,
+    "nonspace_chars": 4380,
+    "word_like_tokens": 652,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

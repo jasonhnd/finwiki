@@ -36,7 +36,9 @@
     "sources": [
       "Wikipedia: 株式会社イオン銀行 (2026-05-19 抽出)",
       "Wikipedia: イオンフィナンシャルサービス (2026-05-19 抽出)",
-      "イオンフィナンシャルサービス 公式 IR / 有価証券報告書 (公表分)"
+      "イオンフィナンシャルサービス 公式 IR / 有価証券報告書 (公表分)",
+      "イオン銀行 ディスクロージャー誌 2025 (https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf)",
+      "Wikipedia: イオン・アリアンツ生命保険 (https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -92,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4918,
-    "word_like_tokens": 735,
+    "nonspace_chars": 5251,
+    "word_like_tokens": 797,
     "inbound_wikilinks_count": 21,
     "last_modified": "2026-05-29"
   }

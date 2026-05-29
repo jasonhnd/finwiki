@@ -32,6 +32,9 @@
     "sources": [
       "NTT ドコモ プレスリリース「金融事業を統括する中間持株会社の設立について」(公開発表ベース)",
       "マネックスグループ・住信 SBI ネット銀行 各社 IR 適時開示",
+      "NTT ドコモ「マネックスグループ・マネックス証券との資本業務提携契約を締結」(2023-10-04) https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html",
+      "NTT ドコモ「住信 SBI ネット銀行株式会社の普通株式に対する公開買付けの開始、及び資本業務提携契約の締結に関するお知らせ」(2025-05-29) https://www.docomo.ne.jp/info/news_release/2025/05/29_01.html",
+      "NTT ドコモ「住信 SBI ネット銀行の商号の『ドコモ SMTB ネット銀行』への変更、資本再編および各社間における協業施策の開始について」(2025-12-19) https://www.docomo.ne.jp/info/news_release/2025/12/19_00.html",
       "日経新聞 / Bloomberg / Reuters 公開報道 (2024〜2026)",
       "Wikipedia: NTT ドコモ"
     ]
@@ -79,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4137,
-    "word_like_tokens": 654,
+    "nonspace_chars": 5580,
+    "word_like_tokens": 943,
     "inbound_wikilinks_count": 20,
     "last_modified": "2026-05-29"
   }

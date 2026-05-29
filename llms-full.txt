@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T17:49:21+09:00
+Generated: 2026-05-29T18:53:58+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -1638,7 +1638,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: GMO あおぞらネット銀行, Wiki route, TL;DR, 1. 会社概要, 主要株主（^[ambiguous]、時点変動あり）, グループ内ポジション, 沿革 ^[extracted], 2. 事業セグメント・マップ
+- Headings: GMO あおぞらネット銀行, Wiki route, TL;DR, 1. 会社概要, 主要株主（2026-02-20 時点・公式会社概要）, グループ内ポジション, 沿革 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/aozora-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/mercari-bank, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/gmo-coin
 
 ### GMOクリック証券
@@ -4218,8 +4218,8 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index as the first standalone shinkumi (credit cooperative) operating-company anchor in FinWiki, closing the long-flagged 143-shinkumi audit gap. Read it against 大阪信用金庫 for the shinkin-vs-shinkumi distinction in the same Osaka market, 全信組連 / Zenshinkumiren for the coope
-- Headings: 大阪商銀信用組合 (Osaka Shogin Credit Cooperative), Wiki route, TL;DR, 1. License / 組合構造, 信用金庫 vs 信用組合 vs 商銀系 ^[extracted], 商銀系信用組合の歴史的経緯 ^[extracted], 主要業務 ^[extracted], 規模感 (推定) ^[ambiguous]
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dic, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/jf-shingyoren, https://finwiki.zksc.io/JapanFG/kyoto-chuo-shinkin, https://finwiki.zksc.io/JapanFG/osaka-shinkin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan
+- Headings: 大阪商銀信用組合 (Osaka Shogin Credit Cooperative), Wiki route, TL;DR, 1. License / 組合構造, 信用金庫 vs 信用組合 vs 商銀系 ^[extracted], 商銀系信用組合の歴史的経緯 ^[extracted], 主要業務 ^[extracted], 沿革・現況 (要確認 — 独立法人としては消滅)
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dic, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/jf-shingyoren, https://finwiki.zksc.io/JapanFG/kyoto-chuo-shinkin, https://finwiki.zksc.io/JapanFG/osaka-shinkin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/yokohama-kogin-shinkumi, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan
 
 ### Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
 - URL: https://finwiki.zksc.io/JapanFG/pacific-life-re-japan
@@ -6268,7 +6268,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against りそなホールディングス (Resona Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: ゆうちょ銀行 (Japan Post Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開ベース・直近実績）^[ambiguous], 親会社・グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: ゆうちょ銀行 (Japan Post Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開ベース・2025-03-31 実績）, 親会社・グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg
 
 ### Zaim (ザイム)
