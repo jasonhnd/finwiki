@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T09:42:23+09:00",
+  "generated_at": "2026-05-29T09:51:31+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10516325,
-    "word_like_tokens": 1660986
+    "nonspace_utf8_chars": 10518515,
+    "word_like_tokens": 1661408
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -229,11 +229,11 @@
         "日本語",
         "English",
         "中文",
+        "2026-05-29",
+        "公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）",
         "2026-05-25",
         "Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写",
-        "Wave 13 — 長尾完整性 + 方法論 + Schema 債務閉合 (54 新 + 79 sources 補全 + 1000 万字突破) / Wave 13 — long-tail completeness + methodology + schema-debt closure (54 new + 79 source backfills + 10M-char threshold crossed) / Wave 13 — 长尾完整性 + 方法论 + Schema 债务闭合 (54 新 + 79 sources 补全 + 突破 1000 万字)",
-        "Wave 12 — ドメイン深度提升 (45 新エントリー + 11 stub promotion) / Wave 12 — domain depth promotion (45 new entries + 11 stub promotions) / Wave 12 — 域深度提升 (45 新条目 + 11 stub 升级)",
-        "Wave 11 — 20 比較マトリクス + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 new comparison matrices + 22 bedrock refresh + 33 structural cleanup edits / Wave 11 — 20 对比矩阵 + 22 bedrock 刷新 + 33 结构清理"
+        "Wave 13 — 長尾完整性 + 方法論 + Schema 債務閉合 (54 新 + 79 sources 補全 + 1000 万字突破) / Wave 13 — long-tail completeness + methodology + schema-debt closure (54 new + 79 source backfills + 10M-char threshold crossed) / Wave 13 — 长尾完整性 + 方法论 + Schema 债务闭合 (54 新 + 79 sources 补全 + 突破 1000 万字)"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,9 +467,9 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 400116,
-      "word_like_tokens": 70240,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 402306,
+      "word_like_tokens": 70662,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -34499,7 +34499,7 @@
       ],
       "nonspace_chars": 23016,
       "word_like_tokens": 3473,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "SCHEMA.md",
