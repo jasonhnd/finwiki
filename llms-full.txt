@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T13:16:02+09:00
+Generated: 2026-05-29T13:38:12+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -27,8 +27,8 @@ Public pages listed: 1448
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Summary: 1. 公開面違反 (HIGH): 13 個の exchanges/ ファイルが 来源: projects/cgv/jp-crypto-exchange-research/ という内部ステージング・ディレクトリ参照を含んでいた。 2. 断リンク (HIGH): JapanFG/cpaaob が fsa-supervision-bureau / fsa-inspection-bureau / fsa-strategy-bureau / fsa-planning-coordination-bureau の 4 ファイルで 7 回参照されているが、JapanFG/cpaaob.md は存在せず、ai-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-29, 技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全, 技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全
+- Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-29, 本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误, 技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -8368,7 +8368,7 @@ Public pages listed: 1448
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against SBI VCトレード株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: CEX × 日本銀行 無担保授信実績図譜, Wiki route, 既知の先例, bitbank × きらぼし銀行(2026-03公表)⭐, GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023), GMO 初期 × 単一地銀(年代要確認), 業界共通要素, 銀行側の選好(パターン)
+- Headings: CEX × 日本銀行 無担保授信実績図譜, Wiki route, 既知の先例, bitbank × きらぼし銀行(2026-03公表)⭐, GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)※公開ソース未確認, GMO 初期 × 単一地銀(公開ソース未確認), 業界共通要素, 銀行側の選好(パターン)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange
 
 ### Japan crypto exchange overview — FSA / JVCEA regulated VASP market

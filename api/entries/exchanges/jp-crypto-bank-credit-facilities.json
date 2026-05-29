@@ -31,8 +31,8 @@
     "Wiki route",
     "既知の先例",
     "bitbank × きらぼし銀行(2026-03公表)⭐",
-    "GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)",
-    "GMO 初期 × 単一地銀(年代要確認)",
+    "GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)※公開ソース未確認",
+    "GMO 初期 × 単一地銀(公開ソース未確認)",
     "業界共通要素",
     "銀行側の選好(パターン)",
     "きらぼし銀行",
@@ -64,8 +64,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2900,
-    "word_like_tokens": 403,
+    "nonspace_chars": 2940,
+    "word_like_tokens": 407,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

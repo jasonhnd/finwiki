@@ -29,7 +29,7 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - 大口顧客のBoard = 内部access + コンプライアンス優先 + SECリスク回避 ^[extracted]
 - 被投資先のCEO = プロダクトを直接手掛け + 前2身分のリソースを直接動員可能 ^[extracted]
 - 3身分を1人が共有するとき、いずれか1身分の失敗を他の2身分が受け止められる、組み合わせ勝者と被困勝者のハイブリッド構造 ^[inferred]
-- Matt Huangのテンプレート:Paradigm($13B AUM)+ Stripe Board(2024)+ Tempo CEO(2025) ^[extracted]
+- Matt Huangのテンプレート:Paradigm($13B AUM)+ Stripe Board(2021-11)+ Tempo CEO(2025) ^[extracted]
 - 被投資先の「token発行を行わない」等の長期コミットメントは、この身分構造でしか信頼性を獲得できない ^[inferred]
 
 ## Mechanism / How it works

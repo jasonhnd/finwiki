@@ -29,7 +29,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 - 7 プロトコル = 意図 3 + 伝送 2 + 文脈 2 ^[extracted]
 - AP2(Google 主導)+ x402(Coinbase 主導)+ MCP(Anthropic 主導)+ A2A(Google 主導)= 業界略称「4プロトコル」 ^[extracted]
-- SPT(Skyfire)/ ACP(Catena Labs · Sequoia)/ TAP(xpay)は二次的競合 ^[extracted]
+- SPT(Skyfire)/ ACK(Catena Labs · a16z)/ TAP(xpay)は二次的競合 ^[extracted]
 - AP2 は VC(Verifiable Credentials)+ DPK(Decentralized Public Key)で mandate に署名 ^[extracted]
 - x402 は HTTP 標準、non-chain-specific ^[extracted]
 

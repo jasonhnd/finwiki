@@ -1,5 +1,5 @@
 ---
-title: 耐量子署名 day-1 統合の経済学(FIPS 205 SLH-DSA on Arc)
+title: 耐量子署名 day-1 統合の経済学(FIPS 205 SLH-DSA · Circle Arc の day-1 PQ)
 aliases: [post-quantum blockchain, SLH-DSA-SHA2-128s, FIPS 205, Arc PQ signature]
 domain: systems
 kind: knowledge

@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 33 |
+| Changed or new entries in current worktree | 6 |
 
 ## Wiki Linking Standard
 
@@ -31,39 +31,12 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `agent-economy/ai-agent-payment-protocols-commoditization.md` | `M` | 7 | ok |
-| `agent-economy/ai-agent-payment-protocols-overview.md` | `M` | 7 | ok |
 | `agent-economy/ai-agent-payment-protocols-seven-layers.md` | `M` | 8 | ok |
-| `agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md` | `M` | 6 | ok |
-| `banking/quick-deposit-four-methods.md` | `M` | 6 | ok |
 | `business/christine-moy-talent-signal-jpm-apollo.md` | `M` | 5 | ok |
-| `business/hester-peirce-sec-regulatory-pivot-case.md` | `M` | 6 | ok |
 | `business/jamie-dimon-anti-crypto-pivot-case.md` | `M` | 6 | ok |
-| `business/kitao-yoshitaka-sbi-independent-strategy-case.md` | `M` | 6 | ok |
-| `business/larry-fink-blackrock-digital-asset-template.md` | `M` | 6 | ok |
 | `business/matt-huang-triple-role-coi-template.md` | `M` | 5 | ok |
-| `business/paolo-ardoino-tether-business-model-template.md` | `M` | 6 | ok |
-| `business/sandeep-nailwal-polygon-india-dpi-pattern.md` | `M` | 6 | ok |
 | `exchanges/jp-crypto-bank-credit-facilities.md` | `M` | 6 | ok |
-| `exchanges/native-dex-flip-incumbent-pattern.md` | `M` | 7 | ok |
-| `exchanges/vetoken-host-protocol-flywheel.md` | `M` | 5 | ok |
-| `security/fork-and-rebrand-5-layer-audit-framework.md` | `M` | 11 | ok |
-| `systems/bft-validator-economy-four-variables.md` | `M` | 6 | ok |
-| `systems/bft-validator-economy-overview.md` | `M` | 6 | ok |
-| `systems/bft-validator-economy-tempo-vs-arc.md` | `M` | 6 | ok |
-| `systems/chain-abstraction-pattern-overview.md` | `M` | 6 | ok |
-| `systems/chain-abstraction-pattern-three-solutions.md` | `M` | 6 | ok |
-| `systems/chain-abstraction-pattern-value-capture.md` | `M` | 6 | ok |
-| `systems/dag-bft-vs-chain-bft-architecture.md` | `M` | 6 | ok |
-| `systems/erc-4337-embedded-wallet-adoption.md` | `M` | 6 | ok |
-| `systems/formal-spec-implementation-codesign.md` | `M` | 3 | ok |
-| `systems/l1-progressive-decentralization-three-phase.md` | `M` | 3 | ok |
-| `systems/multi-proof-aggregation-fault-prover.md` | `M` | 3 | ok |
 | `systems/post-quantum-blockchain-day1-integration.md` | `M` | 3 | ok |
-| `systems/threshold-bft-consensus-rust-implementations.md` | `M` | 3 | ok |
-| `systems/vitalik-l1-l2-strategy-anchor.md` | `M` | 6 | ok |
-| `trade/jetro-members-gateway-model.md` | `M` | 8 | ok |
-| `trade/jetro-organization-structure.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 
