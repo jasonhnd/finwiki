@@ -108,14 +108,6 @@ This matters because it makes "outstanding point liability" non-additive across 
 - Code-payment operators with heavy campaign spend look loss-making partly because promotional grants hit P&L immediately, while the loyalty-liability layer underneath is comparatively small.
 - Cross-program exchange creates a non-additive system. Aggregate "Japan point economy" numbers should not be read as a sum of operator-reported balances.
 
-## Open questions
-
-- How quickly will remaining JGAAP-only operators fully migrate "ポイント引当金" disclosures into "契約負債" presentation under ASBJ Statement No.29?
-- Will Payments Japan disclosure norms harden into something closer to a regulatory disclosure standard, especially for code-payment issuers with the largest promotional spend?
-- Where exactly do "stablecoin-adjacent" or "JPY token" loyalty experiments fall — loyalty liability, prepaid instrument, or electronic-payment instrument under Payment Services Act 3rd-class amendments?
-- How should cross-program exchange flows be modelled when one side is a bank-led common point ([[loyalty/v-point-smbc-ccc-case|V Point case]]) and the other side is an airline mileage programme regulated by a different consumer-protection regime?
-- Are breakage assumptions becoming structurally lower as digital wallets reduce friction to redeem before expiry?
-
 ## Related
 
 - [[loyalty/INDEX|loyalty index]]

@@ -124,13 +124,6 @@ Rakuten Edy's strategic role:
 4. **Code-payment supplement, not substitute** — 楽天ペイ code payment serves a different use case; Edy remains the FeliCa tap rail for Rakuten ecosystem.
 5. **Diminished but durable** — Edy's market share has eroded relative to WAON / nanaco / Suica peers, but the FeliCa tap rail and Rakuten ecosystem integration sustain meaningful transaction volume.
 
-## Counterpoints
-
-- "Edy is dead." It is structurally smaller than WAON / nanaco / Suica in transaction volume but remains a registered prepaid issuer with material outstanding balance and active customer base.
-- "Code payment killed Edy." 楽天ペイ has captured marginal new-user share but Edy retains a distinct FeliCa-tap use case at certain merchants.
-- "Edy is just Rakuten Pay." 楽天ペイ is code-payment / wallet under different operator structure; Edy is FeliCa prepaid under 楽天Edy株式会社 — different rails, different legal classifications.
-- "Edy acceptance is limited." Acceptance footprint is platform-neutral and broad — wider in cross-merchant scope than WAON / nanaco (which are AEON / Seven-anchored) but with weaker single-merchant network effect.
-
 ## Related
 
 - [[payments/INDEX]]

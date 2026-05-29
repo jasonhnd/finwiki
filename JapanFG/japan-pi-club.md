@@ -40,17 +40,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **船主賠償責任（P&I cover）** — 人身傷害（乗組員・旅客・第三者）、油濁損害、貨物損害責任、難破物除去、衝突責任の超過部分等
 - **FD&D（Freight, Demurrage and Defence）** — 用船契約・運送契約に関する法的費用・防御
-- **特約引受** — 戦争危険、ストライキ・暴動、サイバー、特殊船種特有リスク（LNG・ケミカル等）^[inferred]
 - **クレーム対応サービス** — 世界主要港の correspondents network を通じた事故対応・補償交渉
-
-## 3. Strategy & competitive position
-
-P&I 保険は **「相互保険組合」** という独自の形態で、株主利益を持たず組合員（船主）共同で巨大賠償リスクをプールする仕組み。日本船社にとっては、**外資 P&I クラブ（英 UK Club, Britannia, Standard Club, North 等）の代替** として、**日本語対応・国内クレーム対応・日本海事文化への理解** を競争優位とする ^[inferred]。International Group の pooling 機構を通じて、IG 内 13 クラブで一定額（数千万ドル超）以上のクレームを共有し、その上を IG 共同の reinsurance program（地球規模の reinsurance market から手配）で吸収するため、単一クラブでは引き受け不可能な巨大事故（油濁・大型衝突）リスクも引受可能。元受損保 [[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]] が手掛ける船舶保険（hull insurance）とは商品・カバー範囲が異なり、両者は相互補完関係。
 
 ## 4. Why this page matters
 
 - 日本で唯一の P&I クラブ — 株式会社型保険業（FSA 保険業法）とは別ルートの「相互保険組合法」アンカー
-- 海運業界（[[nippon-yusen]] / [[mitsui-osk-lines]] / 川崎汽船等 ^[inferred]）と保険業界（[[insurance/INDEX]]）の交点
 - グローバル IG P&I Clubs プーリング機構の日本接点アンカー — 国際海事保険の system link
 - [[JapanFG/nippon-kaiji-kyokai]]（船級協会）と並ぶ「海事インフラ」隣接領域
 

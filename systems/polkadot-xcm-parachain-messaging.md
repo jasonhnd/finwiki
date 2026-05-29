@@ -104,21 +104,6 @@ Compare with [[systems/canton-overview|Canton]] and [[systems/hyperledger-besu-o
 - Targets long-term competitiveness vs Ethereum + L2 stack and Cosmos / IBC mesh
 - 2025-2026 status: early implementation, no production deployment yet
 
-## Counterpoints
-
-- **Parachain slot economics** — slot auctions historically locked tens of millions in DOT; capital-inefficient vs Cosmos SDK + IBC where any team can spin up a chain
-- **Limited DeFi liquidity** vs Ethereum / Solana / Cosmos — network effects on stablecoin / DEX liquidity favor incumbents
-- **XCM complexity** — multi-location addressing and reserve-transfer semantics have a steep learning curve vs IBC's simpler ICS-20
-- **JAM uncertainty** — long-term roadmap pivot raises questions about parachain investment returns and protocol direction
-- **Shared-security boundary** — relay chain validator set is the trust root; if compromised, all parachains affected (vs IBC where compromise stays per-chain)
-
-## Open questions
-
-- Will JAM deliver in time to keep Polkadot relevant against Ethereum L2 + Cosmos mesh growth?
-- Does Asset Hub achieve material stablecoin volume vs USDC on [[systems/l2-agent-economics-arbitrum-base-op-comparison|Base / Arbitrum]] or [[systems/cctp-v2-overview|CCTP-distributed USDC]]?
-- Will institutional tokenization actually settle on Polkadot parachains, or default to [[systems/canton-overview|Canton]] / [[systems/hyperledger-besu-overview|Besu]] private chains?
-- How does XCM v4 evolve vs [[systems/ibc-cosmos-cross-chain|IBC v2 / Eureka]] in cross-ecosystem messaging?
-
 ## Related
 
 - [[systems/INDEX]]

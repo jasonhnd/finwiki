@@ -22,7 +22,6 @@ sources:
 
 # GMO Internet Group
 
-
 ## Wiki route
 
 This entry sits under [[business/INDEX|business INDEX]]. Read it against [[business/matt-huang-triple-role-coi-template|三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -86,14 +85,6 @@ This is why [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] can be more stra
 | [[JapanFG/paypay-fg|PayPay FG]] | Consumer app and QR payment dominance; GMO is more merchant-infrastructure oriented. |
 | [[JapanFG/sbi-hd|SBI HD]] | Broader finance-first conglomerate; GMO is internet-infrastructure-first with finance extensions. |
 | Megabanks | Balance-sheet and corporate-client strength; GMO competes where digital merchant workflows matter. |
-
-## Open Questions
-
-- How durable is GMO-PG's domestic PSP moat against Stripe / Adyen / bank-owned PSPs?
-- Can GMO Aozora Net Bank become a default BaaS bank for startups and platforms, or remain niche?
-- How much regulatory and reputational risk comes from running payments, FX/securities, and crypto under the same parent brand?
-- What is the long-term relationship between GMO-PG and SMBC-linked payment channels?
-- Can GMO turn internet infrastructure customers into payment / banking / finance customers without overextending the brand?
 
 ## Related
 

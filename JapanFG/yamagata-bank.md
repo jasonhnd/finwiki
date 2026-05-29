@@ -16,7 +16,6 @@ sources:
 
 # 株式会社山形銀行
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -99,8 +98,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 国際 | 海外コルレス契約 (中国・東南アジア他) | 県内輸出企業の貿易金融支援 (^[likely]) |
 | デジタル | やまぎんアプリ・インターネットバンキング | 地銀共同サービス利用 (^[likely]) |
 
-## 3. 戦略・競争
-
 ### 競合構図 (山形県・東北地区)
 
 | 競合 | 関係性 | エリア |
@@ -127,7 +124,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 地銀共同センター利用 (^[likely]、東北地銀の標準)
 - スマホアプリ・QR コード決済対応
-- 単独地銀のため、システム投資は地銀共同化に依存する傾向 (^[inferred])
 
 ## 4. 規制・政策
 
@@ -139,23 +135,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2025〜 人口減少 (山形県は人口減少率上位) → 県内マーケット縮小圧力
   - 地銀再編圧力 (金融庁・公正取引委員会の独占禁止法特例) → 単独路線継続 vs 統合の選択
   - 観光 DX・農業 DX 支援要請
-
-## Counterpoints
-
-- 「単独地銀の持続可能性」: 山形県は人口減少率が全国上位 (2025 時点で年 1% 超減少地域) のため、県内マーケット縮小は構造的。隣県の[[fidea-hd]]・[[jimoto-hd]]のような統合に踏み切らない理由は、独立志向の社風と県内 No.1 地位 (^[inferred])
-- 「観光・農業集中リスク」: 蔵王・山寺・銀山温泉とさくらんぼ・米沢牛への依存度高。気候変動 (暖冬・霜害) ・観光トレンド変化のセクター集中リスク (^[inferred])
-- 「[[jimoto-hd]]との県内競合」: きらやか銀行 (山形市本店) と本店所在地が同じで、個人/中小法人ともに直接競合。県内シェアは山形銀が大きいが、両行の経営余裕は人口減少下で減少傾向 (^[likely])
-- 「単独 vs HD 化」: [[fidea-hd]] (荘内+北都) ・[[jimoto-hd]] (きらやか+仙台) と異なり HD 化せず → コスト効率では劣後の可能性 (^[ambiguous])
-
-## Open questions
-
-- FY2024 (2025-03 期) の具体的な預金/貸出/純利益数値は? (公式 IR 要確認)
-- 中期経営計画 (現在の経営計画名・期間) の内容と進捗は?
-- [[fidea-hd]]・[[jimoto-hd]]からの統合打診はあったか? あった場合の対応は?
-- 地銀共同センター利用状況とシステム戦略は? (^[likely] FUJITSU 系? NTT データ系?)
-- 観光業 (蔵王・銀山) のインバウンド回復メリット定量化は?
-- 県外拠点 (仙台・東京・大阪) の貢献度・戦略的位置付けは?
-- 地域 VC ファンド (やまぎん地域づくり投資) の運用実績は?
 
 ## Related
 

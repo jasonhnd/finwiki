@@ -45,10 +45,10 @@
     "1. 会社概要",
     "持株会社化していない論点",
     "関連事業・子会社 ^[likely]",
-    "2. 沿革",
     "沿革年表 ^[extracted]",
     "業態変遷の系譜",
-    "3. 事業セグメント・マップ"
+    "3. 事業セグメント・マップ",
+    "営業エリア地理"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5103,
-    "word_like_tokens": 709,
+    "nonspace_chars": 4056,
+    "word_like_tokens": 576,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

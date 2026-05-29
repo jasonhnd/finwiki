@@ -157,18 +157,6 @@ Choice depends on:
 | JHF MBS | "MBS Trust" — trust beneficial interest variant ([[structured-finance/jhf-mbs-mechanics]]) |
 | Real-estate single-asset | TMK |
 
-## Counterpoints
-
-- **"TMK is always better because it's regulated"**: TMK adds regulatory filing burden; TK-GK is faster and adequate for most private deals.
-- **"TK-GK is risky because TK isn't a legal entity"**: TK is a contractual silent partnership; the GK is the legal entity. The structure is well-established and routinely tested.
-- **"SPC and TMK are the same"**: TMK is one specific form of asset-securitization-law SPC; "SPC" used generically includes other corporate forms.
-
-## Open questions
-
-- How tax-reform changes (corporate tax, distribution-deduction rules) affect vehicle choice over time.
-- Whether digital-asset securitization develops new vehicle structures distinct from these traditional forms.
-- The role of Yu-shi-mu Genyo (有志無源) or other niche vehicles for specific asset classes.
-
 ## Related
 
 - [[structured-finance/INDEX]]

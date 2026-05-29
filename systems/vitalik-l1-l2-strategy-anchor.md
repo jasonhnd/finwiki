@@ -19,7 +19,6 @@ status: candidate
 
 # L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-7702-overview|ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -43,19 +42,6 @@ L1/L2 デュアルトラック戦略の「反相手」効果:**L2 コストが s
 
 源流は 2017-2018 Plasma / state channel 等の「L2 初期方案」が壁にぶつかった後、Vitalik が 2020 年に rollup-centric を再提示したこと。2022 The Merge(PoS)がエネルギー + セキュリティモデルを解決、2024 Dencun が L2 コストを解決、2025 Pectra が UX(account abstraction)を解決、2026 Fusaka がさらにコストを圧縮。5 年の進化全体に内包されるロジック:**Ethereum は独立 L1 とスループットで直接競合せず、L2 エコシステムを「独立 L1 キラー」とする**。Vitalik 個人は CEO / 経営責任を持たず、純粋に研究 / 治理の身分 → 立場の信頼性は Allaire / Paolo / Brian 等の CEO 系発言人より高い。
 
-## Counterpoints
-
-- 「L2 優先」は ZK proof / data availability の長期拡張可能性を前提とする — PeerDAS / DA layer が根本的な技術的閉塞を発生させれば、独立 L1 は再び利益を得る
-- Vitalik 個人の影響力 ≠ Ethereum Foundation の全決定 — ポスト Vitalik 時代に路線が漂流する可能性
-- 独立 L1 は L1/L2 経済競合を回避して **規制の堀** で勝負することが可能(Arc はこの路線の極致版)、Vitalik 路線はこれに直接影響を与えない([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] を参照)
-
-## Open questions
-
-- Fusaka タイムテーブル(2026 / 2027 / それ以降)が独立 L1 経済モデルの攻防リズムを直接決定
-- ZK rollup コストカーブの下落速度が「Validium / appchain」を新たな中間層にするか?
-- ポスト Vitalik(5-10 年後に研究主導を退いた場合)も Ethereum は「L2 優先」路線を維持できるか?
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 等の RWA は L1 vs L2 での展開選好は?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -72,4 +58,3 @@ L1/L2 デュアルトラック戦略の「反相手」効果:**L2 コストが s
 - EIP-4844: Shard Blob Transactions（Dencun · L2 コスト ~100x 低下）— https://eips.ethereum.org/EIPS/eip-4844
 - EIP-7702: Set Code for EOAs（Pectra · ETH gas 不要の stablecoin 転送）— https://eips.ethereum.org/EIPS/eip-7702
 - Ethereum.org ロードマップ（rollup-centric / PeerDAS / account abstraction）— https://ethereum.org/en/roadmap/
-

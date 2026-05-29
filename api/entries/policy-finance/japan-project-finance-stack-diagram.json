@@ -49,12 +49,12 @@
     "Wiki route",
     "TL;DR",
     "ASCII diagram of the stack",
-    "Each institution's role",
     "JOGMEC — equity / exploration risk",
     "JBIC — sovereign-aligned overseas investment loan, untied loan, export buyer credit",
     "NEXI — political-risk / commercial-risk insurance",
     "Megabank syndicate — commercial bank loans, agent-bank role",
-    "Sponsor SPV — project company, equity sponsors"
+    "Sponsor SPV — project company, equity sponsors",
+    "Typical deal flow timeline"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15496,
-    "word_like_tokens": 2466,
+    "nonspace_chars": 13490,
+    "word_like_tokens": 2128,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

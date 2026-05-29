@@ -49,8 +49,8 @@
     "重要年表",
     "親会社の規模感（連結ベース、参考）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "在日ポジショニング"
+    "在日ポジショニング",
+    "デジタル戦略"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6767,
-    "word_like_tokens": 1114,
+    "nonspace_chars": 5855,
+    "word_like_tokens": 990,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

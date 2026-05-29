@@ -17,7 +17,6 @@ sources:
 
 # 上田八木短資株式会社 (Ueda Yagi Tanshi)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/central-tanshi|セントラル短資株式会社 (Central Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -42,10 +41,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2001-04** 上田短資 + 八木短資 → **上田八木短資 合併発足**^[extracted]
 - 業界再編の象徴: 短資業界は 2000 年代を通じて 3 大体制への集約が進行
 
-### 業態・短資会社とは
-
-短資会社（たんしがいしゃ / Tanshi）は **日本独自の短期金融市場専業金融機関** で、銀行間・金融機関間の短期資金過不足を仲介する。海外には直接の対応業態はなく、米国の Federal Funds broker や英国の discount house に近い性格を持つが、日本では**日本銀行の市場オペレーション対手（カウンターパーティ）として独自の位置付け**を持つ。^[inferred]
-
 ## 2. 事業セグメント・マップ
 
 | 事業 | 内容 | 顧客 |
@@ -64,8 +59,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **メガバンク・地銀集中**: 顧客基盤は日本の銀行セクター中心
 - **ノンバンク向け**: 大手証券・信託・保険・農林系金融機関にも提供
 
-## 3. 短資業界構造
-
 ### 3 大短資会社
 
 | 短資会社 | 沿革 | 特徴 |
@@ -80,14 +73,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **2009-2024**: リーマン後超低金利 → ゼロ金利・マイナス金利環境で薄利化、業界縮小^[extracted]
 - **2024-03〜**: マイナス金利解除 → 業界マージン改善期待
 
-## 4. 戦略・競争
-
 ### 中期戦略（2024 中計）
 
 - **日銀政策金利正常化を活機に**: 2024-03 マイナス金利解除後の短期金融市場活性化への対応
 - **短期金融市場の流動性提供**: コア事業強化
 - **メガバンク・地銀との取引集中**: コア顧客深耕
-- **デジタル化**: 取引プラットフォーム高度化（業界共通課題）^[inferred]
 
 ### 競合関係
 
@@ -99,7 +89,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **2024-03 マイナス金利解除**: 業界復活期待の最大要因
 - **日銀 QT（量的引締め）**: 国債市場流動性回復で短資業務拡大余地
-- **ステーブルコイン・トークン化**: 短期金融市場のデジタル化波及可能性^[inferred]
 
 ## 5. 規制・政策
 
@@ -110,21 +99,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024-03〜 日銀政策金利正常化（マイナス金利解除）
   - 2024-2026 日銀 QT（保有国債縮減）
   - 2025-2026 短期金融市場のデジタル化・分散台帳活用議論
-
-## Counterpoints
-
-- 「業界復活期待」: マイナス金利解除でマージン改善期待があるが、政策金利水準次第。0.25-0.5% 程度では旧来水準には届かない可能性^[ambiguous]
-- 「3 大体制の持続可能性」: 業界縮小サイクルで更なる再編（3 大 → 2 大）リスク^[inferred]
-- 「短資業務のデジタル代替リスク」: 銀行間直取・電子取引プラットフォーム拡大で短資仲介業務の構造的縮小リスク^[inferred]
-- 「日銀対手としての制度的優位」: 日銀オペレーション対手の地位が業界保護要因だが、対手範囲拡大（メガバンク直接対手化）で薄まる可能性^[ambiguous]
-
-## Open questions
-
-- 上田八木短資の最新財務（売上・利益・自己資本）規模は？ 非上場のため公開情報限定
-- 2024-03 マイナス金利解除後の業績インパクトは具体的にどう出ているか？
-- 3 大短資会社（[[central-tanshi]] / 上田八木短資 / [[tokyo-tanshi]]）の市場シェア配分は？
-- 短期金融市場のデジタル化・トークン化（[[fintech/jp-stablecoin-progmat|Progmat]] 等）に対する短資業界の戦略は？
-- 株主構成（独立系か銀行系列か）の詳細は？
 
 ## Related
 

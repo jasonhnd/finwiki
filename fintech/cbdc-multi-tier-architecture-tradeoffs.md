@@ -19,7 +19,6 @@ status: candidate
 
 # CBDC アーキテクチャ選択 4 大トレードオフ
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -51,19 +50,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2017-2020 BIS / IMF の初期 CBDC 枠組みはほぼ「直接 vs 二層」の二分法のみを議論、イノベーション次元は浮上せず。2020-2022 Hyperledger / Corda などエンタープライズ DLT が PoC 段階でプログラマビリティを検証 → 「token-based 多層」が第 3 の選択肢として浮上。2022-2024 各中央銀行は自身の政治 / 規制選好に基づいてトレードオフ: 中国は安定優先（e-CNY 二層）、ブラジルはイノベーション優先（DREX token-based）、ユーロ圏は仲介保護とプログラマビリティのあいだで妥協（デジタル・ユーロのハイブリッド + 保有上限）。2026+ 三円 MRA（欧 [[fintech/mica-overview|MiCA]] + 米 [[fintech/genius-act-501-denylist-mandate|GENIUS]] + 港 [[fintech/hkma-stablecoin-licensing-overview|HKMA]]） + ホールセール CBDC コリドー（[[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] + [[fintech/bis-project-agora-overview|Agorá]]）がアーキテクチャ選択余地をさらに制約する。
 
-## Counterpoints
-
-- 「金融仲介の存続」は商業銀行に代替不可能な信用配分能力があると仮定するが、中央銀行直接 QE 時代にはこの仮定は部分的に揺らいでいる
-- 「中央銀行ダイレクト」は小国（ナイジェリア eNaira）で実際に試行され失敗したが、完全に不可能とは言えない
-- プライバシーのトレードオフはしばしば「中央銀行が見える vs 見えない」に単純化され、多 stakeholder（税務 / 規制 / 司法）の異なる要請を見落とす
-- 「イノベーション余地」は実際に展開されるスマートコントラクト・エコシステムに依存、DREX の実際のプログラマビリティ利用率は期待値に達せず
-
-## Open questions
-
-- 中央集権的 AML（直接 CBDC）はテロ資金供与圧力下で一部国に再受け入れされるか?
-- token-based 多層アーキテクチャ下で、トークン化預金発行体（商業銀行）はクロスボーダー対立時に主権要請にどう応答するか?
-- スマートコントラクト CBDC（DREX 等）のプログラム化金融政策（自動 QE / マイナス金利）は登場するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -74,4 +60,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

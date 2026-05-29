@@ -61,7 +61,7 @@
     "Recruit ecosystem — じゃらん, Hot Pepper, GEO",
     "Comparison with d-Point, PayPay Points, and V-Point",
     "JAL mileage exchange — airline alliance",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 22,
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14292,
-    "word_like_tokens": 2360,
+    "nonspace_chars": 12321,
+    "word_like_tokens": 2023,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

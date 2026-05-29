@@ -19,7 +19,6 @@ status: candidate
 
 # 準備金インターロック・フライホイール · 三層システミックリスク・シナリオ
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -30,10 +29,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Key facts
 
 - 2023.03 USDC は準備金 8.25% を SVB 一社に集中していたため一時的にデペッグ ^[extracted]
-- BUIDL は BlackRock がマーケットメイクするが、二次流動性は中央銀行レポ窓口より小さい ^[inferred]
 - GENIUS Act §504 は準備金構成の月次開示を要求するが「トークン化国債経由の保有」は禁止せず ^[extracted]
 - SEC Rule 2a-7 は伝統的 MMF の相互保有を 5% 超で禁止するが、トークン化 MMF には適用されない ^[extracted]
-- バーゼル III の単一対手方リスク制限は stablecoin 発行体をカバーしない ^[inferred]
 
 ## Mechanism / How it works
 
@@ -46,14 +43,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Origin & evolution
 
 2008 GSE システミックリスク(Fannie Mae / Freddie Mac のインターロックが救済を招いた)が歴史的先例を提供。SEC Rule 2a-7 は 2008 年以降 MMF 相互保有制限を強化(< 5%)。トークン化 MMF 時代の stablecoin 準備金にはまだ対応する規制フレームが存在しない —— **BUIDL ↔ USDC はそのフレームを創造する最初のデータポイント**。
-
-## Counterpoints
-
-支持者の主張:BUIDL は 100% 短期国債を保有 · 資産品質 risk-free · 「concentration risk」はナラティブであり economic risk ではない。BlackRock のマーケットメイク能力は SVB の 100 倍 · 真の取り付けシナリオは BlackRock 自身のマーケットメイクで吸収可能。規制は逆方向にも動き得る —— トークン化 MMF を直接の国債保有の代替として奨励(より透明)。
-
-## Open questions
-
-USDC が一度に 10%($4B)償還された場合、BUIDL 二次流動性は Circle の売却を支えられるか?規制はまず Circle ↔ BlackRock の資本関係(存在すれば)に動くか、それとも比率上限に動くか?Tether / PayPal / FDUSD は差別化のため BUIDL モデルを能動的に避けるか?Circle 自身に「BUIDL 比率の内部上限」ポリシーは存在するか?
 
 ## Related
 <!-- wiki-links:managed -->

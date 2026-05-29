@@ -22,7 +22,6 @@ sources:
 
 # Japan BNPL landscape
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-card|楽天カード (Rakuten Card)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
@@ -84,14 +83,6 @@ Japan already had mature credit-card installment / revolving systems and strong 
 | [[JapanFG/credit-saison|Credit Saison]] | Card / finance incumbent with merchant and consumer-credit links |
 | [[JapanFG/paypay-fg|PayPay FG]] / [[JapanFG/rakuten-fg|Rakuten FG]] | App-based payment / point ecosystems that can add credit products |
 | [[payments/cashless-jp-landscape|Cashless JP landscape]] | BNPL is one layer inside the broader cashless checkout stack |
-
-## Open Questions
-
-- Which Japanese BNPL products are economically merchant-financed versus consumer-credit financed?
-- How should BNPL receivables be treated relative to credit-card receivables and consumer loans?
-- Will PayPal use Paidy primarily as Japan checkout infrastructure or a broader Asian BNPL platform?
-- Can code-payment operators bundle BNPL with points without creating excessive credit risk?
-- What disclosure and suitability controls are needed for young / thin-file users?
 
 ## Related
 

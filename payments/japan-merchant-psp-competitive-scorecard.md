@@ -52,8 +52,6 @@ This sits under [[payments/INDEX|payments index]] as the merchant-side PSP refer
 
 A merchant choosing a PSP — or a sector reader trying to read the Japan EC stack — typically gets three things wrong without a side-by-side. First, **"PSP" is not one product**: a card-acceptance gateway is structurally different from a QR aggregator, which is structurally different from a global checkout product like Stripe. Second, **the acquiring role**: some PSPs are pure technical processors that pass through to an external acquirer, others are themselves merchant-contracting operators (アクワイアラ) under the Installment Sales Act, and the merchant's risk exposure differs accordingly (see [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]]). Third, **settlement speed and fee model**: a small-merchant on a Square or PayPay merchant plan gets a fundamentally different settlement experience than a large enterprise on a GMO-PG or SB Payment Service contract. This scorecard surfaces all three.
 
-## Per-PSP sections
-
 ### GMO Payment Gateway (GMO-PG, TSE PRIME 3769)
 
 [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] is Japan's largest pure-play PSP by merchant count and processed value. Founded 1995-03-25 as 株式会社カードコマース, renamed GMO-PG in 2000, listed on TSE Mothers in 2005, moved to TSE 一部 (now PRIME) in 2008. Consolidated subsidiary of [[business/gmo-internet-group|GMO Internet Group]]. EC merchant base reportedly 30 万+ stores. Multi-product line: card-gateway, code-payment, convenience-store payment, bank-transfer collection, BtoB invoice / 後払い, Pay.JP developer SDK (the Stripe-style competitor), trans-Asia gateway via NextPay (Vietnam), ECPay (Taiwan). Strategic relationship with [[JapanFG/smbc-card|SMBC Card]] via SMBC GMO PAYMENT JV. Trans-action-lending sideline based on merchant payment data.
@@ -252,16 +250,6 @@ A small or mid-sized merchant in Japan that is selecting a PSP typically faces a
 | **Gaming / digital content / micro-transaction merchant** | Komoju (vertical specialist) |
 
 The matrix does not produce a single "best" answer — the merchant's specific operational profile, settlement-cycle needs, and integration capability determine which PSP cluster fits, and many merchants run **multiple PSPs** for different volume slices (e.g., GMO-PG for primary card acceptance + Netstars for multi-wallet code + Square for in-person events).
-
-## Open questions
-
-- Will the global checkout PSPs (Stripe Japan, Square Japan, PayPal Japan) erode the developer / digital / small-merchant segment that the Japanese pure-play PSPs (GMO Epsilon, Komoju) currently serve?
-- Will the ecosystem-anchored PSPs (SB Payment Service / PayPay; Rakuten Payment; Amazon Pay; Recruit / Air PAY) extend their acceptance footprint outside their home ecosystems, or does ecosystem-anchor remain a fundamental ceiling?
-- Will [[JapanFG/netstars|Netstars]]-style multi-wallet aggregation survive as wallet operators (PayPay, d払い, au PAY) push for direct-merchant economics that bypass aggregators?
-- Will the 2025-03 EMV 3-DS mandate and J-CSC guideline 6.0 / 6.1 compliance burden (see [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]]) consolidate the small-PSP segment by raising compliance costs?
-- How does the BNPL integration trend (Paidy under PayPal, Komoju Atobarai, etc.) re-shape PSP economics — is BNPL a margin-additive feature or a margin-eroding alternative payment method?
-- Will A2A acceptance via merchant-direct Bank Pay (see [[payments/merchant-bank-pay-account-direct-acquiring|merchant Bank Pay account direct-acquiring]]) become a structural competitor to PSP-routed card acceptance for the high-volume segment?
-- Does the 2024-2025 JFTC merchant-fee disclosure pressure extend from card-issuer interchange (see [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]]) to PSP-layer fee disclosure?
 
 ## Related
 

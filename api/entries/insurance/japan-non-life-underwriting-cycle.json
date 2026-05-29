@@ -47,12 +47,12 @@
     "Wiki route",
     "TL;DR",
     "Combined-ratio decomposition",
-    "Auto line — tier-rating reform and rate adequacy",
     "Auto market structure",
     "Tier-rating (型式別料率) reform",
     "Auto loss ratio drivers",
     "Auto expense ratio drivers",
-    "Fire line — catastrophe loading and rate adequacy"
+    "Fire / property structure",
+    "Catastrophe loading trends"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17828,
-    "word_like_tokens": 2728,
+    "nonspace_chars": 15816,
+    "word_like_tokens": 2397,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

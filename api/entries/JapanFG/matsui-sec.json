@@ -45,9 +45,9 @@
     "業態の特異性",
     "重要年表（公開情報ベース）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "ネット証券パイオニアとしてのポジション",
-    "現在の競争環境"
+    "現在の競争環境",
+    "差別化ポイント"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4270,
-    "word_like_tokens": 566,
+    "nonspace_chars": 3684,
+    "word_like_tokens": 501,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

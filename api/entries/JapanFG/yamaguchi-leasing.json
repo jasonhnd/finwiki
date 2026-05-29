@@ -50,11 +50,11 @@
     "TL;DR",
     "1. 会社概要",
     "持株ツリー (YMFG グループ簡略図)",
-    "2. 業務ラインと収益構造",
     "主要業務ライン",
     "収益構造の特徴 ^[inferred]",
-    "3. 親会社・グループ内ポジション",
-    "グループ内クロスリンク"
+    "グループ内クロスリンク",
+    "地銀系リース peer 比較",
+    "大手リース・専業リースとの競合"
   ],
   "body_links": {
     "wikilinks_count": 36,
@@ -138,9 +138,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8317,
-    "word_like_tokens": 1139,
+    "nonspace_chars": 6209,
+    "word_like_tokens": 853,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

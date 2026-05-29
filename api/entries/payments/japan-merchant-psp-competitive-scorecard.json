@@ -64,12 +64,12 @@
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
-    "Per-PSP sections",
     "GMO Payment Gateway (GMO-PG, TSE PRIME 3769)",
     "GMO Epsilon (subsidiary of GMO-PG)",
     "SB Payment Service (SBPS, SoftBank Group)",
     "DG Financial Technology / DGFT (Digital Garage group)",
-    "Netstars (QR-aggregator pure-play)"
+    "Netstars (QR-aggregator pure-play)",
+    "Square Japan (Block Inc. subsidiary)"
   ],
   "body_links": {
     "wikilinks_count": 48,
@@ -177,9 +177,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 34373,
-    "word_like_tokens": 5596,
+    "nonspace_chars": 33005,
+    "word_like_tokens": 5368,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

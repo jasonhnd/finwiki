@@ -17,7 +17,6 @@ sources:
 
 # プロクレアホールディングス (ProCrea HD)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -33,7 +32,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**：東証 PRIME **7384**
 **設立**：**2022-04-01**（青森銀行 + みちのく銀行 共同株式移転による経営統合）
 **本社**：青森県青森市（青森銀行本店所在地ベース）
-**機関設計**：監査等委員会設置会社（地銀 FG 標準形態）^[inferred]
 
 ### 主要子会社（統合直後の構造）
 
@@ -56,8 +54,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 県内 2 行統合のため独禁法上の「地理的市場」問題が発生 → **独占禁止法特例法**で公正取引委員会の合併許可
 - 本件は同特例法の **初適用案件**（地銀統合のモデルケースとなる）
 - 2025-01-01 を期して両子銀行を合併、商号は「**青森みちのく銀行**」予定 ^[forecast]
-
-## 2. 前身・歴史
 
 ### 青森銀行 系譜
 
@@ -93,14 +89,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 北海道道南 | みちのく銀行 | 函館等、北海道金融機関との接点 |
 | 一次産業金融 | 両行 | **りんご・米・水産（青森は日本一のりんご産地、漁業も主要産業）** |
 | 観光金融 | 両行 | ねぶた祭・弘前さくら・新青森駅・奥入瀬・十和田湖 |
-| 連携・参加先 | TSUBASA アライアンス（青森銀） | 地銀広域提携 ^[inferred] |
-
-## 4. 戦略・競争
 
 ### 統合シナジー
 
 - **県内シェア集中**: 合併後の青森みちのく銀行は青森県内貸出・預金シェアでほぼ独占的地位 → 独禁法特例法で許容
-- **重複店舗の整理**: 県内同一地域に両行店舗が併存 → 統合で店舗数削減・運営コスト低減 ^[inferred]
 - **システム統合**: 大規模 IT 投資の重複回避
 - **人件費合理化**: 重複管理部門の集約
 
@@ -125,13 +117,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - **2021 年 公取委認可** → **同特例法 初適用案件** ★
   - 県内シェア集中による競争制限懸念を「持続可能性」優先で許容した政策転換
   - 後続地銀統合（ふくおか FG 系等）のモデルとなる
-- **金融機能強化法**（バンクスケール維持の枠組み）^[inferred]
 
 ## 6. Counterpoints
 
-- **「実質独占」批判**: 県内シェア突出 → 中小企業の借入先選択肢が減少、貸出金利交渉力低下懸念 ^[inferred]
 - **「特例法政策の妥当性」**: 競争政策（独禁法）と産業政策（地銀維持）のトレードオフ、特例法が地銀統合を後押し ^[ambiguous]
-- **「人口減少地域での統合効果限界」**: 母市場縮小下で 2 行統合しても**根本的な需要創出にはならない**との批判 ^[inferred]
 - **「みちのく銀行ブランドの消失」**: 合併新行名「青森みちのく銀行」は両行ブランド併記だが、実質青森銀行主導の統合 ^[ambiguous]
 
 ## 7. Open questions
@@ -146,9 +135,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 8. Related
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[JapanFG/77-bank|七十七銀行]]（宮城ベース、東北の競合・提携先。旧 `ssjbank` 誤リンクを修正）^[inferred]
-- [[concordia-fg]]（地銀統合 FG 比較対象）^[inferred]
-- [[fukuoka-fg]]（地銀統合先行事例・十八親和銀行モデル比較）^[inferred]
 
 ## Sources
 

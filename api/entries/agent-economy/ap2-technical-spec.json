@@ -40,13 +40,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "agent-economy/ai-agent-payment-protocols-overview",
@@ -55,9 +53,7 @@
       "fintech/usd-stablecoin-interchange",
       "payments/INDEX",
       "systems/cctp-v2-overview",
-      "systems/chain-abstraction-pattern-overview",
-      "systems/erc-4337-overview",
-      "systems/erc-4337-userop-bundler-flow"
+      "systems/chain-abstraction-pattern-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -67,16 +63,14 @@
       "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-4337-userop-bundler-flow"
+      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3086,
-    "word_like_tokens": 490,
+    "nonspace_chars": 2475,
+    "word_like_tokens": 389,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

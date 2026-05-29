@@ -46,8 +46,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 | ホームマーケット | 福島県浜通り (いわき市・双葉郡・相馬地区) |
 | 信組類型 | **地域型信用組合** (地区組合員資格) |
 
-## 2. 営業地区・組合員資格
-
 ### 営業地区 ^[inferred]
 
 - **主要営業地区**: 福島県いわき市 + 双葉郡 + 相馬地区 (浜通り南部)
@@ -72,8 +70,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 | **いわき信用組合** ★本ページ | **いわき市小名浜** | **浜通り南部・地域型** |
 | 相双五城信用組合 | 相馬市 | 浜通り北部・震災被災地域中核 |
 | 福島県商工信用組合 | 郡山市 | 県中・商工系 |
-
-## 3. 系統内位置
 
 ### 全信組連内の位置付け
 
@@ -103,8 +99,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 | 総資産 | 数千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
 | 預金残高 | 数千億円規模 | ^[ambiguous] |
 | 貸出金 | 千億円台規模 | ^[ambiguous] |
-| 自己資本比率 | 信組基準 (4% 以上) を維持 | ^[inferred] |
-| 店舗数 | 数十店舗 | ^[inferred] |
 | 組合員数 | 数万人規模 | ^[ambiguous] |
 
 > 注: 信用組合は非上場・非公開部分が多く、最新数値はいわき信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
@@ -118,22 +112,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
   - **被災地復興フェーズ完了**後の地域金融需要再構築
   - **過疎・人口減**に伴う組合員基盤縮小リスク
   - **AML/CFT 強化**対応コスト
-  - **信組業界全体での再編・統合圧力** ^[inferred]
-
-## Counterpoints
-
-- **地域経済縮小**: いわき市人口 (33 万人台) 漸減トレンドで組合員基盤の長期縮小リスク ^[inferred]
-- **被災地特殊性**: 震災・原発事故後の地域経済構造変化で従来の融資セグメントが縮小、復興需要終了後の事業ポートフォリオ転換が課題 ^[inferred]
-- **スケール劣位**: [[JapanFG/toho-bank|東邦銀行]] (福島地銀) や [[JapanFG/abukuma-shinkin|あぶくま信金]] 等の地域同業との競合で、より小規模な信組ならではの差別化が必要 ^[inferred]
-- **DX 対応コスト**: 系統 (全信組連) 経由のシステム共同化に依存、自前 DX 投資余力は限定的 ^[inferred]
-
-## Open questions
-
-- **最新総資産・預金・貸出規模** (組合員向け事業報告書を要参照)
-- **被災地復興融資**の実績規模と現在の残高ポジション
-- **小名浜港関連**水産・物流業融資の割合
-- **避難指示区域** (旧警戒区域) 関連組合員の現状
-- **東北信組ブロック内**でのポジション (15 信組中の規模順位)
 
 ## Related
 

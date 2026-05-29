@@ -225,22 +225,6 @@ Japan PE fund LPs typically include:
 
 LP base composition affects fund governance, side-letter terms, ESG reporting, and reporting language. Mid-market Japan-domestic funds typically have higher Japan-LP concentration; global megafund Japan vehicles draw more heavily on global LP pools.
 
-## Counterpoints
-
-- Japan PE returns are dispersed; headline vintages do not guarantee successor-fund performance.
-- Continuation funds can be exit-of-last-resort signals as well as conviction extensions; LP perception varies.
-- Carve-out execution from Japanese conglomerates often takes 12-24 months and can carry residual TSA dependencies.
-- Going-private routes can attract activist scrutiny; see [[finance/japan-activist-investor-playbook|activist playbook]] and [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure controls]] for the disclosure interface.
-- Megabank LBO leverage levels are typically more conservative than US / Europe; refinancing markets are thinner outside megabank syndicates.
-
-## Open questions
-
-- How rapidly will Japan continuation-fund volume scale as GP vintages mature past 3-4?
-- Will Japan succession-buyout deal flow accelerate as the founder-CEO cohort retires?
-- How will JIC Capital coexist or compete with private GPs on strategic large-cap deals?
-- Will GP-led secondaries develop a Japan-domestic secondary buyer base, or remain reliant on global secondary funds?
-- How will [[banking/regional-bank-consolidation-pattern|regional bank consolidation]] affect mezzanine and unitranche supply?
-
 ## Related
 
 - [[finance/INDEX]]

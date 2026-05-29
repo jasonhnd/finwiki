@@ -57,7 +57,7 @@
     "Issuance and accrual mechanics"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
       "JapanFG/au-fh",
@@ -73,9 +73,7 @@
       "loyalty/v-point-smbc-ccc-case",
       "payments/japan-code-payment-competitive-map",
       "retail/INDEX",
-      "retail/aeon-group",
-      "retail/lawson-kddi-retail-finance",
-      "retail/seven-and-i-hd"
+      "retail/lawson-kddi-retail-finance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -92,17 +90,15 @@
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
       "https://finwiki.zksc.io/retail/INDEX",
-      "https://finwiki.zksc.io/retail/aeon-group",
-      "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15011,
-    "word_like_tokens": 2605,
+    "nonspace_chars": 13481,
+    "word_like_tokens": 2330,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

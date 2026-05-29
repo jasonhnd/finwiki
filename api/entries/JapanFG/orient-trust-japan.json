@@ -48,14 +48,14 @@
   "headings": [
     "ノーザン・トラスト・ジャパン (Northern Trust Japan)",
     "Wiki route",
-    "TL;DR",
     "1. 親会社概要",
     "2. 日本拠点法人構成（公開情報ベース）",
     "3. 業務ライン",
     "主要顧客タイプ",
     "4. 親会社・日本の競合関係",
     "米 3 大カストディの相対位置",
-    "5. KPI（公開情報ベース、参考値） ^[ambiguous]"
+    "5. KPI（公開情報ベース、参考値） ^[ambiguous]",
+    "6.1 米 3 大カストディの末尾としての差別化"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7395,
-    "word_like_tokens": 1012,
+    "nonspace_chars": 6073,
+    "word_like_tokens": 842,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

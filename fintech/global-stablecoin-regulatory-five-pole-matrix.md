@@ -128,14 +128,6 @@ MAS is uniquely strict on **daily** disclosure. All five poles converged on **mo
 5. **Algorithmic exclusion is universal.** UST-style designs have **no compliant path** anywhere — confirmed across all five poles. This forces algorithmic SC capacity into unregulated chains and reinforces the bifurcation laid out in [[fintech/genius-act-501-denylist-mandate]].
 6. **Wallet / VASP distribution.** Every regime requires the **distributor** (exchange, wallet, on-ramp) to hold its own license separate from the issuer license — making the [[exchanges/INDEX|exchanges]] surface the rate-limiting step for SC adoption in each jurisdiction.
 
-## Open questions
-
-- Will the US §502 "comparable regulator" list extend beyond Japan + EU to include HK and SG by end-2027?
-- Will MiCA Level 2/3 technical standards effectively close the EU to non-EU stablecoins, or carve out US issuers under the upcoming MRA?
-- Will Japan's 改正資金決済法 second revision lift the ¥1M per-tx cap on funds-transfer-type issuers to remain competitive with HK/SG?
-- Will HKMA's "low political risk" issuer preference (HSBC + Anchorpoint first) hold when Mainland-backed applicants (蚂蚁国际, 京东 JD-HKD, BOCHK) re-apply in 2026-Q4?
-- Will MAS's daily attestation requirement become the global floor by 2028?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]

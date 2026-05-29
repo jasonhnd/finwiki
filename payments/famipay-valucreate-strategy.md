@@ -150,13 +150,6 @@ FamiPay's competitive context in the convenience-store-anchored wallet category 
 
 The FamiPay distinguishing posture is **convenience-store-as-anchor with code-payment-native architecture and Itochu trading-house group cross-sell** rather than convenience-store-as-anchor with FeliCa-prepaid heritage (the WAON / nanaco posture). The Lawson posture historically delegated proprietary payment to third-party wallets while keeping Ponta as the loyalty anchor; KDDI's investment relationship with Lawson (via Mitsubishi Corporation) provides additional code-payment overlay via au PAY but not a Lawson-proprietary wallet to the same degree as FamilyMart's FamiPay.
 
-## Counterpoints
-
-- "FamiPay competes with PayPay." Only marginally — FamiPay's acceptance is anchored at FamilyMart with selective cross-merchant expansion. PayPay's footprint is structurally broader and the user-overlap is largely cooperative (a consumer can hold both wallets and use them in different contexts).
-- "FamilyMart could exit code-payment if it does not gain share." Unlikely as long as the data and loyalty integration with FamilyMart's broader operations remains valuable. The economic case rests on retail-margin and consumer-data outcomes, not on standalone wallet P&L.
-- "FamiPay is just convenience-store loyalty in payment clothing." Partially true — but registered prepaid issuer status, charge-and-pay-later credit, and bill-payment functionality go beyond classic loyalty-program scope.
-- "Itochu will spin off FamiPay into a broader payment platform." Strategically possible but not signaled in current disclosures; the Itochu / FamilyMart consumer-retail story has been about deepening integration rather than platform-spinning.
-
 ## Research checklist for FamiPay analysis
 
 When analyzing a FamiPay transaction, merchant relationship, or strategic-positioning question:
@@ -169,14 +162,6 @@ When analyzing a FamiPay transaction, merchant relationship, or strategic-positi
 6. Is the strategic question about wallet-platform competition (PayPay-class peers) or retail-anchored cross-sell (WAON / nanaco-class peers)?
 
 The answers determine which P&L bucket the analysis sits in (wallet operator vs FamilyMart retail vs Itochu group cross-sell) and which competitive frame is relevant.
-
-## Open questions
-
-- Will FamiPay sustain user growth as PayPay, d払い, au PAY, and 楽天ペイ continue to dominate cross-merchant wallet acceptance?
-- How will FamiPay翌月払い economics develop given Japan-wide BNPL regulatory tightening (see [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]])?
-- Will Itochu use FamiPay as a launchpad for broader payment / fintech expansion, or keep it anchored at FamilyMart-only differentiation?
-- How does FamiPay's data layer integrate with Itochu's other consumer assets, and is there a privacy-policy / consent risk if cross-asset integration deepens?
-- Will FamiPay extend to Seven Bank / AEON Bank-style account integration, or stay non-bank in its account-funding model?
 
 ## Related
 

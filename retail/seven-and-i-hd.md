@@ -79,14 +79,6 @@ Seven & i's finance advantage is **last-mile trust and location density**. The g
 
 The long-term issue is whether this store / ATM infrastructure becomes less valuable as code payments and account-to-account transfers rise, or more valuable because it becomes the physical bridge for digital procedures, identity, and payouts.
 
-## Open Questions
-
-- How far can Seven Bank move from ATM usage fees into authentication, digital procedures, and corporate payout infrastructure?
-- Will nanaco remain a group-retail tool or become a broader payment / points network?
-- How does Seven & i's strategic focus on convenience stores affect financial subsidiaries and card / point investment?
-- Does cashless adoption reduce ATM withdrawals faster than new ATM services can offset?
-- Can Seven & i monetize retail media and loyalty data at the same level as app-first ecosystems?
-
 ## Related
 
 - [[retail/INDEX|retail INDEX]]

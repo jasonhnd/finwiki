@@ -61,8 +61,6 @@ The Master Trust Bank of Japan (MTBJ — 日本マスタートラスト信託銀
 | [[JapanFG/meiji-yasuda|明治安田生命]] | 10.0% | Second life-insurer shareholder; rounds out the life-insurer-side mandate base |
 | [[JapanFG/nochu-trust-bank|農中信託銀行]] (Norinchukin group) | 10.0% | Cooperative-finance shareholder; provides JA Bank / 農林系 mandate flow |
 
-The 46.5% MUFG-trust stake is below 50% by design — life-insurer and cooperative-finance shareholders retain a structural block, which keeps MTBJ positioned as a multi-shareholder utility rather than a fully captive MUFG-internal back office. ^[inferred]
-
 ### Why a custody-only trust bank exists
 
 A custody-only trust bank under the 銀行法 + 信託業法 dual route can:
@@ -70,10 +68,6 @@ A custody-only trust bank under the 銀行法 + 信託業法 dual route can:
 1. participate **directly** in JASDEC book-entry transfer, JSCC central-counterparty clearing, and BoJ JGB book-entry settlement — none of which is open to a pure 信託会社 under 信託業法 alone;
 2. issue trust-account ("信託口") nominee names that satisfy the Japanese securities-law and tax-treatment expectations for institutional separate-account holdings;
 3. avoid the capital and supervisory load of a full commercial bank because it carries no loan book and only minimal deposit-funded exposure (custody fees, settlement-account residuals, and 預金保険機構 participation).
-
-The MTBJ model was built specifically to let pension funds and investment trusts share a single high-volume, low-margin back-office utility rather than each rebuilding the same processing capacity internally. ^[inferred]
-
-## 2. 主要業務
 
 ### Business-line map
 
@@ -107,11 +101,8 @@ Approximately every TOPIX-100 issuer disclosure shows 「日本マスタート�
 - The legal record name is MTBJ.
 - The beneficial owners are GPIF, corporate pensions, 投信ファンド, insurance separate accounts, and foreign-investor sub-custody clients of MTBJ.
 - Voting instruction comes from the upstream asset manager or asset owner — not MTBJ.
-- The bulk of the holding under that name is **passive index** exposure plus pension-mandate equity allocations. ^[inferred]
 
 This is why MTBJ's apparent "concentration" in the public shareholder register cannot be read as a single voting bloc. The same body of holdings is fragmented across hundreds of underlying mandates with different voting policies.
-
-## 3. 競合構造
 
 ### Three competitive layers
 
@@ -134,10 +125,6 @@ This is why MTBJ's apparent "concentration" in the public shareholder register c
 | ICSD (Euroclear / Clearstream) direct | Re-routed via globals | Re-routed via globals | Re-routed via globals | Direct |
 | Public shareholder-register nominee | 「日本マスタートラスト信託銀行（信託口）」 | 「日本カストディ銀行（信託口）」 | Less prominent — full-service brand | Foreign-shareholder name in 外国法人 row |
 
-### Why MTBJ + CBJ became a two-strong utility
-
-The economics of pension-trust + 投信受託 + securities custody favour scale: NAV calculation, corporate-actions processing, 議決権 systems, JASDEC connectivity, and BoJ JGB book-entry systems all have steep fixed-cost curves. Splitting them across many small trust-bank operating units raised aggregate IT cost without improving the service to asset owners. The 2000-2020 consolidation arc (MTBJ in 2000, CBJ in 2020 via JTSB + TCSB merger) converged on a two-utility structure with one MUFG-led pole and one SMTB / Mizuho-led pole. ^[inferred]
-
 ## 4. 手数料・収益構造
 
 MTBJ does not publicly disclose granular fee schedules. The public-domain reading is:
@@ -145,7 +132,6 @@ MTBJ does not publicly disclose granular fee schedules. The public-domain readin
 | Revenue line | Pricing basis | Public visibility |
 |---|---|---|
 | Pension trust administration fee | AUC bps (typically very low for large GPIF-scale mandates) | Not disclosed at line-item level; aggregate fee revenue inferable only from group / shareholder consolidated disclosure ^[ambiguous] |
-| 投信受託 admin fee | AUC bps, generally a small fraction of the fund's total expense ratio | Disclosed in each fund's 信託約款 + 目論見書 as 「信託報酬 / 受託会社報酬」 — typically 0.01-0.05% / year of NAV ^[inferred] |
 | Securities custody fee | AUC bps per asset class; settlement fees per ticket; cash-management spread | Not disclosed publicly |
 | Voting administration / corporate-action ops | Typically bundled into custody fee | Not separately disclosed |
 | Securities-lending admin / agent-lender fee | Revenue share of lending income with beneficial owner | Not separately disclosed |
@@ -166,11 +152,8 @@ MTBJ does not publicly disclose granular fee schedules. The public-domain readin
 | Pricing power on JP-投信 受託 | High (utility scale, low per-bp fees) | Low (rarely a 受託会社 directly for major funds) | Low (rarely a JP 投信 受託会社) |
 | Pricing power on foreign-asset custody | Low (re-routes through globals) | Low | High (global ICSD + sub-custody network) |
 | Pricing power on pension trust admin | High (esp. GPIF-scale mandates) | Medium-high (full-service competing) | Medium (foreign-pension-side mandates) |
-| Overall fee trend | Compressing under passive-fund growth + competitive pricing ^[inferred] | Bundled with other trust-bank fees | Stable in JP yen terms, growing in USD via $AUC growth |
 
 For a granular cross-bank fee comparison see [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]].
-
-## 5. 規制・会計
 
 ### Regulatory stack
 
@@ -185,10 +168,6 @@ For a granular cross-bank fee comparison see [[banking/trust-bank-fee-structure-
 | Stewardship / corporate-governance | スチュワードシップ・コード (voluntary code) | Voting-admin transparency expectations |
 | Recordkeeping / data | 個人情報保護法, 金融分野ガイドライン | Pension member data, NISA-related account data |
 
-### GPIF-custodian eligibility
-
-GPIF's custodian / asset-administrator panel for domestic and overseas assets is set by GPIF tender. Public disclosure shows that MTBJ has been used as a 資産管理機関 for domestic equity and bond mandates. Cross-border legs use global custodians as sub-custodians. ^[inferred] Confirming the current panel composition requires reading GPIF's annual report and tender disclosures.
-
 ### Accounting treatment
 
 | Item | Treatment |
@@ -198,10 +177,6 @@ GPIF's custodian / asset-administrator panel for domestic and overseas assets is
 | 預金 (own-account deposits) | On-balance-sheet — but small relative to trust assets |
 | Settlement-account residual balances | Short-duration; included in cash + due-from-banks |
 | Capital | Statutory minimum 信託兼営銀行 capital plus internal buffer |
-
-### Why off-balance-sheet treatment matters for fees
-
-Because trust assets sit off the trustee's balance sheet, the bp-level fee rate × off-balance trust AUC translates into the trust-bank's revenue. A pure custodian's apparent "asset weight" (¥700tn+) does not imply commensurate equity / risk capital — the fee economics decouples from the AUC. This is the structural reason a custody-only specialist can run at a much smaller balance-sheet footprint than a full-service megabank trust arm with comparable AUC. ^[inferred]
 
 ## 6. JASDEC / clearing infrastructure connection
 
@@ -241,14 +216,6 @@ MTBJ is a direct participant in [[securities/japan-securities-depository-center|
 - 短期社債振替制度 (CP / commercial paper)
 - 投資信託振替制度 (publicly offered 投信 unit transfer)
 
-### JSCC connection
-
-Cash-equity settlement obligations of MTBJ are cleared through [[securities/japan-securities-clearing-corp|JSCC]] as central counterparty. The combination of JASDEC book-entry + JSCC CCP + BoJ funds settlement produces DVP-X1 / DVP-X2 / DVP-X3 settlement quality, which is the regulatory baseline for institutional-grade custody. ^[inferred]
-
-### BoJ JGB book-entry
-
-MTBJ holds a direct account in the BoJ JGB book-entry system, enabling DVP JGB settlement for pension and 投信 mandates. Without this direct account a custodian would have to sub-custody JGB through a megabank — which would add a layer of cost and operational risk. ^[inferred]
-
 ### Sub-custody chain for foreign assets
 
 Foreign-asset legs of MTBJ-administered mandates (e.g. GPIF foreign equity, foreign bond portfolios in 投信) are routed through global custodians as Japan-side sub-custody. The chain is approximately:
@@ -259,28 +226,6 @@ MTBJ (record-name trust-account) → global custodian (BNY / State Street / JPM 
 ```
 
 This sub-custody dependency means MTBJ's foreign-asset processing cost is structurally a pass-through from the global custodian's fee schedule, which limits MTBJ's pricing power on foreign-asset legs but preserves it on domestic-asset legs.
-
-### Tokenization / ST settlement
-
-For tokenized securities issued via [[JapanFG/progmat|Progmat]] or similar 信託受益権 securitization platforms, the trust-bank acts as the underlying 受託銀行 for the 信託受益権. MTBJ's role in this segment is still emerging and the precise integration with JASDEC / non-JASDEC ledgers is an open question. ^[inferred]
-
-## Counterpoints
-
-- "MTBJ is a top shareholder of every TOPIX issuer" — formal accuracy only; nominee surface, not economic ownership. Beneficial owners are the underlying mandates. ^[extracted]
-- "MTBJ is MUFG-controlled" — MUFG Trust holds 46.5% but does not exceed 50%; life-insurer and Norinchukin shareholders retain blocking power. ^[inferred]
-- "AUC ¥700tn = Japan's largest investor" — wrong category. Trust assets are off-balance; MTBJ is a custodian, not an investor. ^[extracted]
-- "MTBJ vs CBJ duopoly = anti-competitive" — the two-strong structure is the rational outcome of fixed-cost infrastructure economics in a market with one set of national settlement rails. ^[inferred]
-- "Foreign assets sit at MTBJ" — only the record name does; the actual custody chain runs through global custodians on the foreign-side leg.
-- "Custody-only banks pay no regulatory cost" — MTBJ remains a fully supervised trust bank under 銀行法 + 信託業法 with full FSA on-site examinations; operating-risk capital is non-trivial despite the light credit book. ^[inferred]
-
-## Open questions
-
-- What share of MTBJ's ¥700tn+ trust-asset base is GPIF mandate vs corporate-pension mandate vs 投信 受託 vs insurance separate account? Public disclosure is too aggregated to answer.
-- How does MTBJ's per-bp fee schedule compare to CBJ's at GPIF scale? Both are silent.
-- What is the post-2027 T+1 settlement roadmap and the IT-investment scale required for MTBJ?
-- Will MTBJ and CBJ ever merge into a single national custody utility, or will the two-pole structure be politically stabilized by their distinct shareholder camps?
-- How will MTBJ's role evolve for 信託受益権-based tokenized securities under [[JapanFG/progmat|Progmat]] and similar platforms?
-- What is MTBJ's exposure to non-ICJ electronic-voting routes (foreign-proxy platforms)? The ICJ integration is documented; the broader proxy-platform integration map is not.
 
 ## Related
 

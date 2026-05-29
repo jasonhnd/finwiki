@@ -46,44 +46,38 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "exchanges/liquid-staking-restaking-cex-exposure",
       "fintech/INDEX",
-      "fintech/jpmorgan-jpmd-coin",
       "systems/INDEX",
       "systems/bft-validator-economy-overview",
       "systems/chain-abstraction-pattern-overview",
       "systems/chain-abstraction-pattern-value-capture",
-      "systems/cross-chain-five-pole-comparison-matrix",
       "systems/eigenlayer-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
       "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview",
       "https://finwiki.zksc.io/systems/chain-abstraction-pattern-value-capture",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
       "https://finwiki.zksc.io/systems/eigenlayer-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3657,
-    "word_like_tokens": 538,
-    "inbound_wikilinks_count": 7,
+    "nonspace_chars": 3098,
+    "word_like_tokens": 463,
+    "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }
 }

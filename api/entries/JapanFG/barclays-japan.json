@@ -49,7 +49,7 @@
     "日本拠点の位置づけ",
     "2. 沿革・重要年表",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争"
+    "親会社の戦略文脈"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6143,
-    "word_like_tokens": 907,
+    "nonspace_chars": 5474,
+    "word_like_tokens": 816,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

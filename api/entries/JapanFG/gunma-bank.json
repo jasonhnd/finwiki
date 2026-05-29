@@ -47,7 +47,7 @@
     "重要年表（抜粋）^[extracted]",
     "2. 事業セグメント・マップ",
     "営業エリア地理",
-    "3. 戦略・競争"
+    "産業基盤特性"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4287,
-    "word_like_tokens": 591,
+    "nonspace_chars": 3624,
+    "word_like_tokens": 516,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

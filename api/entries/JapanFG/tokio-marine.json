@@ -46,7 +46,7 @@
     "重要年表(抜粋)",
     "連結業績(FY2024 = 2025-03 期、確認済)",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争"
+    "海外 M&A 主導の成長戦略"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5706,
-    "word_like_tokens": 912,
+    "nonspace_chars": 5013,
+    "word_like_tokens": 831,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

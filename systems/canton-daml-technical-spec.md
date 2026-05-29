@@ -15,7 +15,6 @@ status: candidate
 
 # Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -47,17 +46,6 @@ Sub-transaction privacy の実装:各 transaction は sub-events に分解され
 ## Origin & evolution
 
 DAML は Digital Asset の 2014-2017 年の初期 POC に起源を持ち、2017 年に OSS 化(GitHub)、2019 年に Canton Network の標準契約言語となった。2020-2024 年に継続的にイテレーション、DAML 3.x ではより細粒度のプライバシープリミティブとアプリケーション横断 choreography のサポートが追加された。
-
-## Counterpoints
-
-DAML の学習曲線は急峻 —— 大半のブロックチェーン開発者は Solidity/Move/Rust に習熟しており、DAML への転換は新言語の学習に等しい。これは Canton が公開チェーンエコシステムから開発者を引き付けにくい根本的理由。さらに DAML のクローズドソース期(2014-2017)と初期の特許戦略により OSS コミュニティの一部は警戒しており、現在は Apache 2.0 ではあるものの、エコシステム内での認知シェアは依然 EVM を大きく下回る。
-
-## Open questions
-
-- DAML 4.x のロードマップに EVM 互換層は追加されるか?
-- Sub-transaction privacy は Global Synchronizer 妥協時の実際の保護強度は?
-- DAML 形式検証ツールチェーン(Move Prover、Certora 類似)の発展は?
-- [[fintech/bis-project-agora-overview|BIS Agora]] 等のクロス CBDC パイロットで、DAML は契約層の標準となるか?
 
 ## Related
 <!-- wiki-links:managed -->

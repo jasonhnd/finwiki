@@ -45,9 +45,9 @@
     "主要事業セグメント（UBS Group 連結ベース、2024 年度）^[inferred]",
     "2. 合併歴史・前身",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
     "グローバル戦略",
-    "日本戦略"
+    "日本戦略",
+    "提携・買収戦略"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4397,
-    "word_like_tokens": 783,
+    "nonspace_chars": 4034,
+    "word_like_tokens": 719,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

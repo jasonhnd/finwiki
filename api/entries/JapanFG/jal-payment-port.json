@@ -45,17 +45,13 @@
     "1. 法人・ライセンス境界",
     "2. Business Role",
     "3. Why This Standalone Page Matters",
-    "Counterpoints",
-    "Open Questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/au-payment",
-      "JapanFG/paypay",
       "JapanFG/sbi-hd",
       "JapanFG/ssnb",
       "loyalty/japan-points-landscape",
@@ -67,8 +63,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-payment",
-      "https://finwiki.zksc.io/JapanFG/paypay",
       "https://finwiki.zksc.io/JapanFG/sbi-hd",
       "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
@@ -82,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3546,
-    "word_like_tokens": 577,
+    "nonspace_chars": 2909,
+    "word_like_tokens": 474,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-05-29"
   }
 }

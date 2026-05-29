@@ -47,17 +47,13 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "exchanges/global-dex-major-five-comparison",
-      "exchanges/liquid-staking-restaking-cex-exposure",
       "fintech/INDEX",
       "fintech/protocol-renewal-trigger-as-event-anchor",
       "systems/INDEX",
@@ -67,8 +63,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison",
-      "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
       "https://finwiki.zksc.io/systems/INDEX",
@@ -80,8 +74,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3450,
-    "word_like_tokens": 511,
+    "nonspace_chars": 2758,
+    "word_like_tokens": 422,
     "inbound_wikilinks_count": 12,
     "last_modified": "2026-05-29"
   }

@@ -43,10 +43,10 @@
     "1. 会社概要",
     "3 大短資の位置付け",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "マイナス金利期の苦境（2016-01〜2024-03）",
     "マイナス金利解除と復活期待（2024-03〜）",
-    "法人 FX ブローカレッジ強化"
+    "競合構造",
+    "4. 規制・政策"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3986,
-    "word_like_tokens": 540,
+    "nonspace_chars": 2925,
+    "word_like_tokens": 420,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

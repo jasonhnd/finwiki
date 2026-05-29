@@ -17,7 +17,6 @@ sources:
 
 # スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -31,7 +30,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **正式名（日本拠点）**：スタンダード・チャータード銀行 東京支店 ^[extracted]
 **英名**：Standard Chartered Bank, Tokyo Branch
 **親会社**：Standard Chartered PLC（英国・ロンドン本社、1969 設立、LSE: STAN / HKSE: 2888）^[extracted]
-**業態**：外国銀行支店（銀行法 第 47 条 認可）^[inferred]
 **主な所在**：東京（丸の内エリア）^[extracted]
 **業務範囲（日本）**：法人銀行業務（コーポレート・バンキング、トランザクション・バンキング、トレード・ファイナンス、為替・資金決済）中心。**個人向けリテール業務は未展開** ^[extracted]
 
@@ -41,7 +39,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **上場**: ロンドン証券取引所（LSE: STAN、FTSE 100 構成銘柄）/ 香港証券取引所（HKSE: 2888）
 - **拠点**: 約 60 ヵ国 / 地域
 - **強み**: 新興国（中国・香港・シンガポール・韓国・インド・パキスタン・UAE・サブサハラ・アフリカ）コルレス・トレード網
-- **G-SIB**: グローバル・システム上重要銀行に認定（Bucket 1）^[inferred]
 
 ### 主要法人（日本関連）
 
@@ -59,7 +56,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 1990s〜2000s | アジア新興国（中国・印度・東南アジア）+ 中東・アフリカ戦略に集中。日本では法人専業に絞る |
 | 2010s | アジア・パシフィック地域の戦略的ハブ機能。日本は邦銀向け新興国コルレス機能を強化 |
 | 2020s | ESG・トランジション・ファイナンス、デジタル・トランザクション・バンキング強化 |
-| **2024** | **親会社 PLC が AMEA 戦略を再強調**、Hong Kong / Singapore / Korea 等アジア・ハブが収益エンジンに ^[inferred] |
 
 ## 3. 事業セグメント・マップ（日本拠点）
 
@@ -72,8 +68,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **コルレス銀行業務** | 邦銀が直接拠点を持たないアフリカ・南アジア・中東経由送金の中継 | **邦銀（最重要セグメント）** |
 | リテール | **未展開**（日本では個人向け業務を行わない）| - |
 
-## 4. 戦略・競争
-
 ### 親会社 PLC のユニーク・ポジション
 
 - 「**アジア・中東・アフリカ専門のグローバル銀行**」という他のメガ外資（[[hsbc-japan]] 親 HSBC / [[citigroup-japan]] 親 Citigroup / JPMorgan / BNP Paribas）とは異なる戦略軸 ^[extracted]
@@ -82,37 +76,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 日本での競争・棲み分け
 
-- **邦銀の新興国コルレス機能**: [[mufg]] / [[smfg]] / [[mizuho-fg]] が自前で拠点を持ちにくい南アジア・アフリカ・中東向け送金・トレード決済の中継先として機能 ^[inferred]
 - **競合**: [[hsbc-japan]]（英国系・類似戦略、ただし HSBC はよりグローバル）/ [[citigroup-japan]]（米系・在日富裕層リテール一部）/ Deutsche Bank / BNP Paribas Tokyo / JPMorgan Tokyo 等の外資法人銀行
 - **差別化**: AMEA 集中、特に **アフリカ・南アジアでのプレゼンスは他外資を凌駕** ^[extracted]
 - **邦銀との関係**: 競合ではなく**補完**（邦銀向けインフラ提供）
 
-### トランジション・ファイナンス / ESG
-
-- 親会社 PLC は新興国向けトランジション・ファイナンスを重点領域に設定 ^[inferred]
-- 日本拠点でも邦銀・日本企業の AMEA 投資・ESG 取組支援の窓口機能 ^[inferred]
-
 ## 5. 規制・政策
 
-- **主管**: 金融庁（FSA）、日本銀行 ^[inferred]
-- **規制根拠**: 銀行法 第 47 条（外国銀行支店）^[inferred]
-- **預金保険**: 外国銀行支店は預金保険機構の対象外 ^[inferred]
 - **親会社規制**: 英国 PRA（健全性監督機構）/ FCA（金融行動監督機構）+ 香港 HKMA（香港金融管理局）
-- **G-SIB**: 親会社 PLC が FSB G-SIB Bucket 1 認定 ^[inferred]
-
-## Counterpoints
-
-- 「日本での存在感は薄い」: リテール非展開・法人専業のため一般認知は低く、邦銀職員以外には目立たない ^[inferred]
-- 「邦銀コルレス機能の代替性」: [[hsbc-japan]] や Citi も似た機能を提供 → 唯一無二ではないが、AMEA 深度は強み ^[ambiguous]
-- 「日本市場の収益貢献度」: 親会社 PLC 全体に占める日本拠点の収益シェアは小さい（推定）^[inferred]
-- 「スタンダードチャータード証券の現況」: 在京の証券子会社は一部時期に存在したが、現在の活動状況は不透明 ^[ambiguous]
-
-## Open questions
-
-- 日本拠点の従業員規模・収益規模の最新公開数値は？（外国銀行支店ベース報告書を要参照）
-- 邦銀向けコルレス取引における [[mufg]] / [[smfg]] / [[mizuho-fg]] それぞれとの提携関係の深さは？
-- 親会社 PLC の AMEA 戦略再強化（2024〜）は日本拠点の業務範囲をどう変えるか？
-- スタンダードチャータード証券（日本法人）の現況・継続有無は？
 
 ## Related
 

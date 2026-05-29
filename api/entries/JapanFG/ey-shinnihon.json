@@ -45,7 +45,6 @@
   "summary": "This entry sits under JapanFG index. Read it alongside 有限責任監査法人トーマツ (Deloitte) and あずさ監査法人 (KPMG) for peer Big 4 audit context, and 金融ライセンス INDEX for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は 金融庁 監督局 と 金融庁 総合政策局 の所管文脈を併読。",
   "headings": [
     "EY 新日本有限責任監査法人 (EY ShinNihon)",
-    "TL;DR",
     "Wiki route",
     "1. 法人概要",
     "規模（公開ベース概算）^[inferred]",
@@ -53,7 +52,8 @@
     "3. 金融サービス本部（Financial Services Office, FSO）",
     "主要セクター ^[extracted]",
     "サービスライン",
-    "4. 主要 listed FG クライアント関係（公開ベース）"
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5340,
-    "word_like_tokens": 740,
+    "nonspace_chars": 4205,
+    "word_like_tokens": 610,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

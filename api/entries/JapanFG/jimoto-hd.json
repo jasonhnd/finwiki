@@ -49,9 +49,9 @@
     "グループ構造",
     "連結決算（公開ベース）^[extracted]",
     "主要株主（2024-06-20 以降）^[extracted]",
-    "2. 沿革",
     "沿革年表 ^[extracted]",
-    "前身銀行詳細"
+    "前身銀行詳細",
+    "経営戦略"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5399,
-    "word_like_tokens": 951,
+    "nonspace_chars": 4828,
+    "word_like_tokens": 856,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

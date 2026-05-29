@@ -17,7 +17,6 @@ sources:
 
 # UBS ジャパン (UBS Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -29,13 +28,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 1. 会社概要
 
 **親会社**：UBS Group AG（スイス・チューリッヒ本社、SIX: UBSG / NYSE: UBS）^[extracted]
-**G-SIB**：FSB 認定 Bucket 1（+1.0% CET1 追加資本要件）^[inferred]
 **日本主要法人**：
 
 | 法人 | 業態 | 持株 |
 |---|---|---|
 | UBS 証券株式会社（UBS Securities Japan Co., Ltd.）| 法人 IB・マーケッツ | UBS 100% |
-| UBS SuMi TRUST ウェルス・マネジメント株式会社 | PB（富裕層向け WM）| UBS 51% / [[sumitomo-mitsui-trust]] 49%（JV）^[inferred] |
 | UBS 銀行東京支店（UBS AG Tokyo Branch）| 在日支店銀行 | UBS 100% |
 | UBS アセット・マネジメント株式会社 | 投信・運用 | UBS 100% |
 | 旧 クレディ・スイス証券株式会社 | 旧 CS 日本 IB | 2024 統合完了 |
@@ -70,11 +67,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | アセマネ | UBS アセット・マネジメント | 機関投資家・年金向け |
 | 旧 CS 統合事業 | 旧 CS 証券（統合済）| 2024 統合完了、コスト・リストラ進行中 |
 
-## 4. 戦略・競争
-
 ### グローバル戦略
 
-- **PB（プライベートバンキング）世界最大級**: GWM 部門の運用資産（IIA）約 3.8 兆ドル超、富裕層・超富裕層向けで地理的にスイス・米国・アジアに分散 ^[inferred]
 - **アジア・太平洋拠点**: 香港・シンガポール・東京の 3 大ハブ、アジア PB 競争で HSBC PB / Julius Baer / クレディ・スイス（統合前）と並ぶ
 - **旧 CS 統合効果**: 規模拡大 vs リスク資産整理（Non-core and Legacy セグメント分離）の二段構え
 
@@ -94,7 +88,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **本国主管**: FINMA（スイス金融市場監督機構）+ SNB（スイス国立銀行）
 - **日本主管**: 金融庁（FSA）、関東財務局（外資系証券会社・銀行支店登録）
-- **G-SIB Bucket 1**: FSB 認定（+1.0% CET1 追加資本要件）^[inferred]
 - **直近政策論点**:
   - 2023〜 旧 CS AT1 債 無価値化を巡る訴訟・国際仲裁
   - 2024〜 スイス TBTF（Too Big To Fail）規制強化議論（UBS 単独で対 GDP 銀行資産比が突出）
@@ -104,7 +97,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 「PB 強み vs IB 弱み」観: 日本では IB（DCM/ECM/M&A）で邦銀系・米系に比して市場シェアが限定的 → 旧 CS 統合で改善期待 vs 統合コストで短期収益圧迫 ^[ambiguous]
 - 「旧 CS 統合の戦略意義」: 規模拡大・PB 顧客基盤拡大 vs 文化・リスク管理体制統合の難しさ（旧 CS の信用毀損リスク継承）^[ambiguous]
-- 「SuMi TRUST JV の限界」: 日本 PB は野村・大和・三菱 UFJ MUMSS 等にもシェア、JV だけでスケールするには限界 ^[inferred]
 - 「スイス TBTF リスク」: UBS 単独でスイス GDP の数倍規模の銀行資産 → スイス政府の暗黙保証依存 vs 規制強化 ^[ambiguous]
 
 ## 7. Open questions

@@ -49,14 +49,6 @@ Fnality のコアモデル = **「オンチェーンの中銀準備金」** (vs.
 
 2015-2018 USC (Utility Settlement Coin) 研究プロジェクト = UBS 主導、16 行の大銀行が参加、概念実証。**2019 USC → Fnality International** (商業化)、初回調達 £63M (15 行)。**2023-11-21** BoE 公式声明により Fnality が systemic payment system として BoE 監督認可を取得、グローバル初の中銀承認ホールセール決済 token となる。**2024-Q2 £ fnPS ローンチ**、初の商業取引 Lloyds × Santander。2024-Q4 SWIFT との公式提携 (SWIFT メッセージ + Fnality token によるクロスボーダー)。2025 USD/EUR 交渉が実質的段階に入るも、Fed は GENIUS Act の下で延期 (「$ fnPS が USDC/USDT 流通に影響することを避けるため」)。2025-09 [[fintech/genius-act-501-denylist-mandate|GENIUS Act 施行]] → wholesale settlement token は §501 SC 監督範囲外 (100% 中銀準備金 + 銀行間流通のみのため)、$ fnPS の立法余地を確保。2026-Q1 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] tokenized MMF と連動 = fnPS が IM collateral として CME / DTCC デリバティブシナリオでテスト。**Fnality は「ホールセール決済の国際公共財」経路**:[[fintech/jpm-onyx-wholesale-network|JPM Onyx]] の単一銀行経路と対照、[[fintech/partior-jpm-dbs-temasek-consortium|Partior]] のシンガポール 4 行経路と地域分業を形成。
 
-## Counterpoints
-
-Fnality の「多銀行連邦」モデルは本質的に遅い:20+ 株主銀行の意思決定サイクルが長く、£ fnPS は概念 (2015) からローンチ (2024) まで 9 年を要したが、[[fintech/jpm-onyx-wholesale-network|JPM Onyx]] は同期間に累計 $1.5T+ を処理。**$ fnPS の Fed 交渉は継続的に延期**しており、2026-2027 にも始動しなければ Fnality の米ドル市場シェアは JPMD / USDC + CCTP / BUIDL インターロック体系に完全に取られる可能性。Fnality は銀行間決済のみ対応で、**リテール / 企業顧客には直接対応しない**ため、市場上限は ~$5T/年のグローバル RTGS 流量の数パーセント以下に固定され、[[fintech/tokenized-deposit-cumulative-volume-scale|TD 累計量級]] と比較して規模は永遠に大きくならない可能性。技術スタック Quorum/Besu は [[systems/cross-chain-four-poles-overview|クロスチェーン四極]] において独立 token エコノミーを持たず、クロスドメインには [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP]] または SWIFT のブリッジが必要。
-
-## Open questions
-
-$ fnPS は Fed 交渉で 2026 か 2027 に始動するか?Fnality は欧米主導でない通貨 (CNY / INR / BRL) の omnibus account を受け入れ、[[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] の民間対照となるか?£ fnPS は BoE が既に発表した [[fintech/cbdc-multi-tier-architecture-overview|CBDC]] (digital pound) のローンチ後、協力関係 (wholesale-retail 分業) か代替関係か?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]

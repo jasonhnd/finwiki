@@ -53,60 +53,50 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/circular-reserve-asset-flywheel-overview",
-      "fintech/em-market-crypto-dollarization-pattern",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/issuer-distributor-incentive-realignment-50-50-model",
       "fintech/mica-emt-art-subcategories-deep-dive",
       "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/paypal-pyusd-stablecoin",
       "fintech/ripple-rlusd-stablecoin",
-      "fintech/stablecoin-issuer-2025-2026-market-consolidation",
       "fintech/stablecoin-revenue-split-economics",
       "fintech/tether-business-model-short-treasury-yield",
-      "fintech/three-circles-mra-2030-economic-scale",
       "fintech/three-circles-stablecoin-mra-framework",
-      "systems/cctp-v2-overview",
-      "systems/chain-abstraction-pattern-value-capture"
+      "systems/cctp-v2-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
-      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model",
       "https://finwiki.zksc.io/fintech/mica-emt-art-subcategories-deep-dive",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
       "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/stablecoin-issuer-2025-2026-market-consolidation",
       "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
-      "https://finwiki.zksc.io/fintech/three-circles-mra-2030-economic-scale",
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview",
-      "https://finwiki.zksc.io/systems/chain-abstraction-pattern-value-capture"
+      "https://finwiki.zksc.io/systems/cctp-v2-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6716,
-    "word_like_tokens": 1092,
-    "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 5565,
+    "word_like_tokens": 908,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-05-29"
   }
 }

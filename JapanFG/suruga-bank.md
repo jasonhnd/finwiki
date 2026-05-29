@@ -18,7 +18,6 @@ sources:
 
 # スルガ銀行
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -87,8 +86,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ノジマ提携店舗内銀行 | ノジマ店舗内 ATM・口座窓口 | 2020〜 提携の中核 |
 | 地域連携 | 静岡県東部・神奈川西部 自治体・産学連携 | 信頼回復フェーズの公共領域 |
 
-## 3. 戦略・競争
-
 ### 信頼回復フェーズの戦略
 
 - **個人ローン特化からの脱却**: 投資用不動産融資 → 法人・地域連携 へ軸足シフト
@@ -153,22 +150,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **投資用不動産融資全般への監督強化**: 金融庁が他地銀・メガバンクの不動産融資も総点検
 - **ガバナンス議論**: 地銀の社外取・監査機能の在り方を再考
 - **個人ローン特化モデルの限界**: 高 ROE の裏のリスクが顕在化、地銀ビジネスモデル見直し議論
-
-## Counterpoints
-
-- 「信頼回復進捗」評価: ノジマ提携 + 中計順調 vs ブランド毀損は長期残存 ^[ambiguous]
-- 「個人ローン特化の負の遺産」: 法人・中堅企業領域は他地銀比劣後、シフトに時間 ^[inferred]
-- 「ノジマ提携の実効性」: 店舗内銀行の収益貢献はまだ限定的との見方 ^[inferred]
-- 「県内 [[shizuoka-fg]] との格差拡大」: 規模・信用力で構造的劣位 ^[inferred]
-- 「投資用不動産融資の総量規制」事件発端で業界全体に波及、スルガ単独問題ではないとの反論も ^[ambiguous]
-
-## Open questions
-
-- ノジマ提携の中長期収益貢献は？ 店舗内銀行モデルの拡張余地
-- 法人・地域連携シフトの定着度は？ 旧個人ローン特化からの脱皮の進捗
-- 被害オーナーとの最終解決状況は？ 残債処理・訴訟結末
-- 地銀再編シナリオでスルガの位置付けは？ 独立維持 vs [[shizuoka-fg]] 等との連携深化
-- ガバナンス強化の定着度は？ 第三者委員会指摘事項の継続実装
 
 ## Related
 

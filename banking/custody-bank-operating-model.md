@@ -61,15 +61,12 @@ The Custody Bank of Japan (CBJ — 日本カストディ銀行) is the other hal
 | [[JapanFG/dai-ichi-life|第一生命]] | ~8.0% | Life-insurer shareholder; provides separate-account custody and corporate-pension mandate flow |
 | Asahi Life, Fukoku Life, Daiwa Securities-affiliated entities, others | Residual | Multiple smaller shareholders rounding out the legacy JTSB + TCSB consortium |
 
-Like MTBJ, CBJ has no >50% controlling shareholder by design — SMTB at ~46.5% needs Mizuho-side cooperation to drive strategic decisions, which keeps CBJ positioned as a multi-shareholder utility rather than a captive SMTB back office. ^[inferred]
-
 ### Why two specialist custodians, not one
 
 The 2020-07 merger consolidated JTSB and TCSB but stopped short of merging with MTBJ. The public reading is:
 
 1. Shareholder politics — the MUFG / 生保 axis vs the SMTB / Mizuho / 第一生命 axis would not consolidate easily without ceding control;
 2. Risk concentration — Japan's institutional asset-administration cannot rely on a single utility (operational risk + counterparty risk + 議決権 集中);
-3. FSA preference — regulators generally favor at least two competitive infrastructure operators in critical functions; ^[inferred]
 4. Cost arbitrage — duplicate systems within each camp (JTSB vs TCSB inside the SMTB / Mizuho camp) were redundant, but inter-camp duplication produces a competitive check.
 
 The 2020 merger achieved the **intra-camp** consolidation. Inter-camp consolidation (CBJ + MTBJ) remains an open question.
@@ -98,8 +95,6 @@ Mizuho / Fukoku / Asahi lineage
     ├── 第一生命 ~8.0%
     └── 他複数
 ```
-
-## 2. 主要業務
 
 ### Business-line map
 
@@ -136,10 +131,6 @@ CBJ's nominee name 「日本カストディ銀行（信託口）」 appears in t
 | Beneficial owners | SMTB-side asset managers, Mizuho-side asset managers, Daiwa AM affiliates, 第一生命 separate accounts, Asahi / Fukoku Life accounts, foreign sub-custody clients of CBJ |
 | Voting instruction source | Upstream asset manager or asset owner — not CBJ |
 | Underlying exposure type | Largely passive index + active pension mandates + 投信 holdings |
-
-Together MTBJ + CBJ as nominee names typically account for a majority of institutional-passive Japan-equity custody. ^[inferred]
-
-## 3. 競合構造
 
 ### vs MTBJ — operating-detail comparison
 
@@ -206,7 +197,6 @@ CBJ does not publicly disclose detailed fee schedules. The public-domain reading
 
 Both run the same product set against similar mandate scales. Their fee pricing is anchored by:
 
-1. **Asset-manager negotiation** — large 投信 sponsors (Nomura AM, MUFG AM, SMTB AM affiliates, Daiwa AM affiliates) negotiate their 受託会社 fees down to thin per-bp rates. Switching between CBJ and MTBJ as 受託会社 is a credible threat for large funds. ^[inferred]
 2. **GPIF tender pressure** — GPIF runs periodic 資産管理機関 panels where CBJ and MTBJ both compete; both incumbent-priced and challenger-priced.
 3. **Passive-fund AUM growth** — passive index funds have driven up CBJ-administered AUC while pushing down per-bp fees, producing volume-up / margin-down dynamics.
 
@@ -217,12 +207,9 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 | Aspect | CBJ | MTBJ |
 |---|---|---|
 | Pricing power vs asset managers | High (utility scale) | High (utility scale) |
-| 投信受託 fees trend | Compressing under passive growth ^[inferred] | Compressing under passive growth ^[inferred] |
 | Pension trust admin fees trend | Stable to slightly compressing on large mandates | Same |
 | Foreign-asset custody | Pass-through cost from globals | Pass-through cost from globals |
 | Cost-side scale | High fixed-IT cost; per-mandate marginal cost very low | Same — both run utility economics |
-
-## 5. 規制・会計
 
 ### Regulatory stack
 
@@ -236,10 +223,6 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 | AML / CFT | 金融庁 + 警察庁 + 国税庁 reporting | Custody-side AML applied at underlying client level |
 | Stewardship / governance | スチュワードシップ・コード (voluntary) | Voting-admin transparency; CBJ executes per client instruction |
 | Data / personal info | 個人情報保護法, 金融分野ガイドライン | Pension member data, NISA data |
-
-### GPIF custodian eligibility
-
-GPIF disclosed 資産管理機関 panels include both MTBJ and CBJ at various times for domestic equity / bond mandates. Exact current panel composition requires reading the latest GPIF business report. ^[inferred]
 
 ### Accounting treatment
 
@@ -310,31 +293,6 @@ CBJ (record-name trust-account)
     → Local sub-custodian in foreign market
       → Local CSD
 ```
-
-This sub-custody dependency means CBJ's foreign-asset processing economics are largely pass-through from the global-custody chain. The same chain applies to MTBJ on the foreign-asset leg. ^[inferred]
-
-### ST / tokenized securities
-
-CBJ's role in 信託受益権-based tokenized securities issued via [[JapanFG/progmat|Progmat]] or other ST platforms is still emerging. Its 信託業法 base supports underlying 受託銀行 ops for 信託受益権 structures, but settlement integration with non-JASDEC ledgers remains an open architectural question. ^[inferred]
-
-## Counterpoints
-
-- "CBJ is SMTB-controlled" — SMTB at ~46.5% does not exceed 50%; Mizuho-side and 第一生命-side shareholders retain blocking power. ^[inferred]
-- "CBJ is a top shareholder of every TOPIX issuer" — formal accuracy only; nominee surface, not economic ownership. Beneficial owners are the underlying mandates. ^[extracted]
-- "CBJ + MTBJ duopoly equals voting concentration" — both execute votes per upstream-manager instruction. The same body of holdings is fragmented across many asset-owner voting policies. ^[inferred]
-- "2020 merger immediately delivered synergy" — system integration is multi-year and IR-non-public; quantitative synergy realization is not externally verifiable. ^[ambiguous]
-- "AUC ¥600-700tn = Japan's largest investor" — wrong category. Trust assets are off-balance; CBJ is a custodian, not an investor. ^[extracted]
-- "Light credit book = light capital requirement" — operational-risk capital, IT-risk capital, and trust-business 受託者責任 risk capital remain non-trivial. ^[inferred]
-
-## Open questions
-
-- What is the SMTB-side vs Mizuho-side vs 第一生命-side mandate-share split inside CBJ's AUC? Public disclosure is too aggregated.
-- What was the 2020-07 merger's actual IT cost recovery and headcount synergy outcome?
-- Will CBJ and MTBJ eventually merge into a single national custody utility, or will the two-pole structure remain stabilized by shareholder politics?
-- What is CBJ's post-2027 T+1 settlement-readiness roadmap?
-- How will CBJ's role evolve for tokenized securities under [[JapanFG/progmat|Progmat]] and similar 信託受益権 ST platforms?
-- Will Daiwa Securities-affiliated shareholders' stake change with future Daiwa-side trust-business restructuring?
-- How does CBJ's per-bp fee economics compare to MTBJ at GPIF scale? Both remain silent.
 
 ## Related
 

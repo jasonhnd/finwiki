@@ -19,7 +19,6 @@ status: candidate
 
 # FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -60,18 +59,6 @@ GENIUS §501 freeze (30 分)    ← OFAC SDN 自動執行
 
 1996 米国先行、2019 G20 Osaka で暗号拡張により R.16 をグローバル化、2023-2024 各国でローカライズ (日本 6 月 · EU 12 月)。2024-12-30 EU TFR 施行が分水嶺 · USDT の EU シェアは 28% から 3% に急落 ([[fintech/mica-overview|MiCA]] + TFR の二重打撃)。2026-Q3 FinCEN 米国整合計画 = グローバル floor がほぼ統一。
 
-## Counterpoints
-
-- EU TFR EUR 0 閾値は過激 · 実際の執行圧力が高く · 一部中小機関がコンプライアンス失敗
-- 米国は FATF 基準を下回り · 国際アービトラージの隙を残す
-- DeFi が VASP かは依然解釈の余地あり · Tornado Cash 案件後も完全には明確化されず
-
-## Open questions
-
-- FinCEN 2026-Q3 閾値 $1,000 引下げは一気に実行されるか?
-- DeFi front-end / wallet aggregator が VASP に含まれるか?
-- self-hosted wallet と VASP 送金における KYC 責任配分は?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -82,4 +69,3 @@ GENIUS §501 freeze (30 分)    ← OFAC SDN 自動執行
 <!-- /wiki-links:managed -->
 
 ## Sources
-

@@ -19,7 +19,6 @@ status: candidate
 
 # CFTC vs SEC 暗号管轄権争い · コモディティ証券二分法
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -36,7 +35,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 2025-04-09: SEC Crypto Task Force 始動 · Hester Peirce が率いる ^[extracted]
 - Atkins が 2025-04 に Chair 就任 · Mark Uyeda が Acting Chair（2025-01-20 ~ 2025-04-09）期間中に取り下げが集中 ^[extracted]
 - FIT21（H.R. 4763）: 2024-05 下院通過 · 上院は 2025 年に未通過 · 2026 年に French Hill が CLARITY Act の再起動を推進 ^[extracted]
-- 訴訟取り下げ ≠ 判例 · SEC は将来再起訴可能 ^[inferred]
 
 ## Mechanism / How it works
 
@@ -51,18 +49,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 1946 Howey Test 基礎確立、2017 SEC DAO Report で Howey を暗号領域に移植。2021-2025 Gensler 時代に SEC は攻撃的拡張、Coinbase / Kraken / Binance / Ripple へのマルチライン訴訟。2024-05 FIT21 下院通過するも上院で棚上げ。2025-01 Trump 2.0 就任後 SEC のスタンスが 180 度転換、Acting Chair Uyeda が 2025-02/03 に集中取り下げ、Atkins が 4 月就任 + Peirce 主導の Crypto Task Force。2026 French Hill が CLARITY Act の再起動を推進、FIT21 で未完の経路を完成させることを目標とする。VASP のグローバル横断対比は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリックス]] 参照。
 
-## Counterpoints
-
-- 取り下げは政策転換 ≠ 判例 · SEC は将来再起訴可能で enforcement uncertainty を引き起こす
-- Uniswap Labs は 2025-05 に任意 KYC + transaction monitoring を開始 · 取り下げを受けても DeFi はコンプライアンス化に向かう
-- 「完全に issuer なし」の真の分散型 SC（DAI / LUSD / FRAX）は依然として行き場なし · SEC は管轄しないが PPSI 資格もない
-
-## Open questions
-
-- CLARITY Act 2026 通過確率 · 上院 60 票閾値を突破できるか?
-- 「decentralization test」の定量基準は rulemaking で明確化できるか?
-- Aave GHO が GENIUS PPSI 経路を歩むことは DeFi SC の「迂回的コンプライアンス化」テンプレートとなるか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -73,4 +59,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

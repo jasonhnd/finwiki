@@ -60,7 +60,6 @@ User tx ──► mempool ──► miner (chooses ordering) ──► block
                           MEV extracted directly
                           by miners or via Flashbots bundles
 
-
 Post-Merge (PoS) with MEV-Boost:
 User tx ──► mempool (public OR private OFA)
              │
@@ -121,21 +120,6 @@ On L2 rollups (Arbitrum, Optimism, Base, etc.), the **sequencer is the MEV extra
 - **L2 OFAs** — per-rollup OFA deployments to channel MEV transparently
 
 For AI-agent volume forecasting on [[systems/l2-agent-economics-arbitrum-base-op-comparison|Base / Arbitrum / Optimism]], MEV economics affect agent unit costs directly — sequencer revenue partly funded by MEV extraction is reflected in user fees.
-
-## Counterpoints
-
-- **Censorship-relay concentration** — OFAC-compliant relays dominate share; censorship-resistance Ethereum-ethos partially compromised
-- **Builder centralization** — top 2-3 builders construct most blocks; new entrants face capital + infra moat
-- **OFA fragmentation** — every aggregator runs its own OFA; user / agent has to pick or trust meta-aggregators
-- **SUAVE adoption uncertainty** — flagship Flashbots project with strategic ambition but unclear timeline / adoption
-- **MEV-resistance vs MEV-internalization debate** — should MEV be eliminated (e.g., via threshold encryption) or distributed transparently (current OFA route)?
-
-## Open questions
-
-- Does SUAVE deliver cross-chain MEV unification before fragmentation overwhelms efforts?
-- How does threshold-encryption-based MEV elimination (research on encrypted mempools) compete with OFA-based MEV redistribution?
-- Will agent / OFA penetration push public-mempool sandwich volume to zero on Ethereum + major L2s?
-- How do non-EVM chains ([[systems/sui-aptos-move-l1-ecosystem|Sui / Aptos]], [[systems/solana-firedancer-validator-economics|Solana]]) handle MEV — do they converge with EVM patterns or develop independently?
 
 ## Related
 

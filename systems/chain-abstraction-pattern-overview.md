@@ -19,7 +19,6 @@ status: candidate
 
 # チェーン抽象モデル概観
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet 採用状況 · Privy/Coinbase/Alchemy/Safe]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -27,11 +26,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Key facts
 
 - チェーン抽象はマルチチェーンを消滅させず、マルチチェーンをユーザーに対して透明にする ^[extracted]
-- embedded wallet + チェーン抽象 = Web2 級 UX、2026+ にリテールがオンチェーン化する鍵 ^[inferred]
 - 3 大主流方式:Polygon AggLayer / NEAR Chain Abstraction / EigenLayer restaking ^[extracted]
 - Base + Coinbase Smart Wallet = 現時点で最も成熟した「エンドツーエンドのチェーン抽象」実装例 ^[extracted]
 - 規制はまだチェーン抽象に触れていないが、MiCA / GENIUS はデフォルトで「ユーザーは自分がどのチェーンにいるか知っている」と想定している ^[extracted]
-- クロスチェーンブリッジは既にコモディティ化し、価値捕捉はチェーン抽象層に上方シフト ^[inferred]
 
 ## Mechanism / How it works
 
@@ -45,19 +42,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Origin & evolution
 
 2017-2022 マルチチェーン時代、ユーザーはチェーン切替の苦痛を深く感じていた(ウォレット切替 / gas トークン / ブリッジリスク)。2022-2023 クロスチェーンブリッジ(Wormhole / LayerZero / Axelar)は成熟したが UX 問題は解決しなかった。2023 [[agent-economy/privy-embedded-wallet-overview|Privy]] / Dynamic / Magic 等の embedded wallet が登場、秘密鍵 UX を解決したが、チェーン選択は依然ユーザー任せ([[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] 参照)。2024.02 Polygon AggLayer v1 ローンチ → 「共有流動性 + 状態」経路。2024.04 NEAR Chain Signatures + Intents → 「意図駆動 + MPC マルチチェーンアカウント」経路。2024.04 EigenLayer メインネット → 「共有セキュリティ / restaking」経路(セキュリティ層抽象)。2025-2026 3 方式が共存、チェーン抽象がプロトコル価値捕捉の新フロンティアに。
-
-## Counterpoints
-
-- 「ユーザーがチェーンを意識しない」はセキュリティ / パフォーマンス / gas が全て抽象化されたことを前提とする → しかし基盤チェーンが失敗した時(rollup 停止 / L1 混雑)、抽象層は一貫体験をコミットできない
-- 規制はチェーン抽象に反対する可能性 —— ユーザーが資産がどのチェーンにあるか知らない場合、問題発生時の管轄帰属が判断困難
-- 「主権チェーン vs チェーン抽象」二分は過度な単純化の可能性 —— 機関チェーンは抽象を拒否するとは限らず、「ホワイトリストチェーン抽象」を選択する可能性がある
-- 3 方式の技術経路差異は極めて大きく、長期的に分裂したまま収斂しない可能性
-
-## Open questions
-
-- AggLayer / NEAR / EigenLayer のうちどれが事実上の標準となるか?それとも共存か?
-- 規制(MiCA / GENIUS)はチェーン抽象に対していつ明確なルールを出すか?
-- 機関チェーン(Tempo / Arc / Kinexys)はチェーン抽象を受け入れるか?([[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]] のマルチチェーン上の実際の抽象層と対照)
 
 ## Related
 <!-- wiki-links:managed -->
@@ -75,4 +59,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - EigenLayer 公式ドキュメント（restaking / 共有セキュリティ）— https://docs.eigenlayer.xyz/
 - Coinbase Developer Platform（Base + Smart Wallet のエンドツーエンド事例）— https://docs.cdp.coinbase.com/
 - LayerZero v2 公式ドキュメント（omnichain messaging）— https://docs.layerzero.network/v2
-

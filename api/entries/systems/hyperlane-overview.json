@@ -41,20 +41,16 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
       "fintech/INDEX",
       "fintech/cosmos-ibc-for-financial-institutions",
       "systems/INDEX",
-      "systems/cross-chain-five-pole-comparison-matrix",
       "systems/cross-chain-four-poles-overview",
       "systems/eigenlayer-overview",
       "systems/hyperlane-ism-modular-security",
@@ -62,11 +58,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/exchanges/cross-chain-bridge-cex-deposit-withdrawal",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
       "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix",
       "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
       "https://finwiki.zksc.io/systems/eigenlayer-overview",
       "https://finwiki.zksc.io/systems/hyperlane-ism-modular-security",
@@ -76,8 +70,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3320,
-    "word_like_tokens": 432,
+    "nonspace_chars": 2611,
+    "word_like_tokens": 357,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-05-29"
   }

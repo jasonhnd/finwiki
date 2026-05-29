@@ -44,8 +44,6 @@ For FinWiki, this comparison matters because it captures the **single most impor
 
 This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **asset-class deep-dive comparison**. Read it against the developer / sponsor entries: [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] (sponsor of MFLP-REIT and NBF), [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] (sponsor of JRE and MEL), [[real-estate-finance/aeon-mall-financing-and-securitization|AEON Mall]] (retail asset class, different demand driver). System frame: [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]], [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict]], [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]], [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]].
 
-## Asset class universe
-
 ### Logistics J-REITs (selected major)
 
 | REIT | Code | Sponsor / sponsor type | Asset focus |
@@ -205,26 +203,6 @@ The investor-base composition of the two asset classes also differs:
 | Foreign sponsor itself | Significant residual stake post-IPO via sponsor's listed parent | n/a for foreign sponsors; domestic sponsors hold via group-affiliated AM companies |
 
 The **foreign-investor flow rotation** between logistics and office J-REITs is one of the most-watched sector-rotation signals in the J-REIT market, tracked via JPX investor-type trading statistics (see [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]). Sustained foreign-investor preference shifts have historically been a leading indicator of cap-rate and price-performance divergence between the two segments.
-
-## Counterpoints
-
-- **"Logistics will always outperform office"** — Demand-driver-dependent. The e-commerce tailwind has finite runway (penetration cannot exceed 100%), and supply growth could eventually outrun demand growth. Cap-rate compression already prices substantial growth. ^[ambiguous]
-- **"Office is structurally impaired by hybrid work"** — Mixed evidence in Japan. Tokyo CBD has shown more resilience than US / UK CBDs; Japanese corporate culture favors in-office attendance more than many Western peers. ^[inferred]
-- **"Foreign sponsors are exit-flight risks"** — Global sponsors can in principle de-prioritize Japan, but the listed J-REIT structure transfers ownership to public unit-holders, who hold the underlying assets regardless of sponsor strategy shifts.
-- **"Logistics single-tenant risk is overrated"** — Anchor tenants are typically diversified 3PL operators with multi-facility, multi-region footprints; single-facility risk is partly mitigated by tenant credit quality. But individual-facility cash-flow volatility on tenant departure remains real.
-- **"Cap-rate convergence is a passing arbitrage"** — Could be a structural repricing reflecting the e-commerce demand step-change. Whether logistics commands a permanent premium or reverts to a higher cap-rate vs office over the long run is open.
-- **"Office vs logistics is the only sector trade that matters"** — Retail (see [[real-estate-finance/aeon-mall-financing-and-securitization|AEON Mall]]), residential, hotel, and healthcare J-REIT segments also exist with their own cycles; the office-logistics axis is the most discussed but not the only sector trade.
-
-## Open questions
-
-- How does **rate normalization** (post-BoJ exit) affect logistics vs office relative cap-rates over the 2026–2030 window?
-- Does **office demand recovery** (return-to-office trend stabilization) materially narrow the cap-rate gap with logistics?
-- What is the medium-term **logistics supply pipeline** — will sustained new-facility delivery outrun demand growth?
-- How does the **foreign-investor flow** rotation between office and logistics J-REITs track relative-performance signals?
-- Does **AI / automation in 3PL** change the facility-specification requirements and accelerate obsolescence of older logistics stock?
-- How does **office redevelopment / conversion** (office-to-residential, office-to-data-center) change office supply dynamics?
-- What is the **regional logistics** opportunity (Kyushu, Hokkaido, secondary cities) and does it shift the Greater-Tokyo concentration?
-- How does the **last-mile / urban-fringe logistics** sub-segment scale, and does it command a different cap-rate premium?
 
 ## Related
 

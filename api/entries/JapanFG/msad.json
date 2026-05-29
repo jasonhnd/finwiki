@@ -44,7 +44,7 @@
     "重要年表",
     "1.5 財務 KPI（FY2024 = 2025-03 期）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争"
+    "国内 3 ブランド戦略の特異性 → 2027 終焉"
   ],
   "body_links": {
     "wikilinks_count": 6,
@@ -68,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6153,
-    "word_like_tokens": 939,
+    "nonspace_chars": 5465,
+    "word_like_tokens": 867,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

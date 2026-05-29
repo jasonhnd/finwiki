@@ -16,7 +16,6 @@ sources:
 
 # 七十七銀行 (77 Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -40,7 +39,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **単独銀行・持株会社化せず** ^[extracted]
   - 同じ東北地銀でも [[proclair-hd]]（青森・みちのく統合）や [[jimoto-hd]]（仙台銀＋きらやか銀）が持株会社化で再編する中、七十七銀行は単独銀行体制を維持
   - 地銀大手で持株会社化していないのは [[chiba-bank]]・[[JapanFG/shizuoka-fg|shizuoka-bank]]・[[JapanFG/joyo-bank|joyo-bank]]（→足利と [[mebuki-fg]] 形成）・[[JapanFG/kyoto-fg|bank-of-kyoto]] 等の有力地銀と同様の路線
-- **東北地銀「第一地銀」陣営の盟主格** ^[inferred]
 - 地銀協会加盟、TSUBASA アライアンス参加（^[ambiguous] 加盟有無は 2026 時点要再確認）
 
 ### 主要関連会社（推定の主な系列）^[ambiguous]
@@ -54,8 +52,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ```
 
 > 注: 系列子会社の正確な現時点ラインナップは公式ディスクロージャー誌（年次）を要参照。^[ambiguous]
-
-## 2. 沿革
 
 ### 黎明期: 国立銀行条例から株式会社銀行へ
 
@@ -81,18 +77,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|
 | **2011-03-11** | **東日本大震災発生** ★ 仙台本店周辺壊滅、沿岸支店多数が津波被害、ATM・システム停止。役職員・顧客に死傷者 ^[extracted] |
 | 2011-03〜04 | 義援金・緊急融資受付、被災者向け預金払戻し特例措置（通帳・印鑑なし対応）^[extracted] |
-| **2011-04** | **東北復興支援室 設置** 復興融資の中核機能 ^[inferred] |
 | 2012-2015 | 復興 5 年集中期間: 東日本大震災復興特別貸出制度・グループ補助金関連融資 |
 | **2022-04** | **東証 PRIME 上場**（市場区分見直し）^[extracted] |
 | 2024〜 | 新中期経営計画スタート ^[ambiguous]（具体年限は要確認）|
 
-## 3. 戦略・競争
-
 ### 地理的地盤
 
 - **メイン**: 宮城県全域（仙台市は東北唯一の政令指定都市・東北経済の中核）^[extracted]
-- **東北 6 県**: 福島・岩手・山形・秋田・青森各県に支店配置 ^[inferred]
-- **首都圏**: 東京・関東各支店（仙台圏出身企業・個人向け）^[inferred]
 - **海外駐在員事務所**: 上海・ニューヨーク・シンガポール等（メガバンクほどの厚みはない）^[ambiguous]
 
 ### 競合構図
@@ -111,7 +102,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 戦略の柱（推定）^[inferred]
 
 - **宮城県内の圧倒的シェア維持**: 個人預金・地元中小法人取引
-- **復興金融からポスト復興フェーズへ**: 震災復興融資のリーダーから、震災後の人口減・産業構造転換に対応するフェーズへ ^[inferred]
 - **DX / 営業店再編**: 全国地銀同様、店舗削減・タブレット完結型化
 - **TSUBASA アライアンス的な広域連携**: 単独銀行のままシステム共同化で効率化 ^[ambiguous]
 - **首都圏支店戦略**: 仙台出身企業の本社機能・東北縁故個人向け
@@ -119,9 +109,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 単独路線の論点
 
 - **メリット**: 意思決定スピード、地域への密着度、文化的一体感、フランチャイズ強度
-- **デメリット**: 規模の経済が効きにくい（特に IT 投資・コンプラ対応）、人口減少局面でのスケール限界 ^[inferred]
-
-## 4. 財務概要
 
 ### 規模感（公開情報ベース）^[ambiguous]
 
@@ -130,7 +117,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 総資産 | 概ね 10 兆円〜11 兆円規模 ^[ambiguous] |
 | 預金残高 | 8〜9 兆円規模 ^[ambiguous] |
 | 貸出金残高 | 6〜7 兆円規模 ^[ambiguous] |
-| 自己資本比率 | 国内基準 10% 超 ^[inferred] |
 | 従業員 | 概ね 2,500〜2,800 名 ^[ambiguous] |
 
 > 注: 具体的決算数値は最新有価証券報告書・決算短信を要参照。上記は地銀大手・東北 No.1 級としての一般的レンジ。^[ambiguous]
@@ -148,7 +134,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **G-SIB / D-SIB 指定**: 非該当（地銀のため）
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 預貸利ザヤ改善期待
-  - 2024〜 地銀統合再編圧力（金融庁・公正取引委員会緩和）下で単独路線継続の妥当性 ^[inferred]
   - 2020s〜 人口減少地域での店舗網見直し
   - 2025〜 仙台市・宮城県の人口維持施策（東北経済中心地としての位置）と地元金融機関の役割
 
@@ -157,25 +142,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **行名由来**: 国立銀行条例下で 77 番目に認可された銀行 → 数字をそのまま屋号化（同様: 第三銀行・百五銀行・八十二銀行・[[JapanFG/18-shinwa-bank|18-shinwa-bank]] 等）^[extracted]
 - **略称・通称**: 「しちじゅうしち」「しちしち」「77」
 - **コーポレートカラー**: 地銀の中では伝統的な銀行カラー（紺・グリーン系）^[ambiguous]
-- **地域貢献**: 七十七ビジネス振興財団 等の地域団体運営 ^[inferred]
 - **CSR**: 震災復興、地元教育・文化支援
-
-## Counterpoints
-
-- 「単独路線の限界論」: 人口減・IT 投資負担増の中で持株会社化や広域統合を選ばない選択の合理性 vs 規模の経済論 ^[inferred]
-- 「東北 No.1 だが全国比では中堅地銀」: 総資産で見ると [[chiba-bank]]・[[JapanFG/shizuoka-fg|shizuoka-bank]] 等の関東・東海地銀大手と比較すれば中位レンジ ^[ambiguous]
-- 「震災復興融資の出口戦略」: 復興期から人口減フェーズへの移行で、貸出ポートフォリオのリスク再配分が課題 ^[inferred]
-- 「TSUBASA アライアンス参加の有無」: 公式情報を要確認、参加していれば広域システム共同化で効率化 ^[ambiguous]
-
-## Open questions
-
-- 最新の総資産・貸出金・自己資本比率の正確な数値（2025-03 期）
-- 持株会社化の戦略的検討状況（している/していない/将来 option）
-- TSUBASA アライアンス・地銀共同化センターへの参加状況
-- 海外駐在員事務所の現時点ラインナップ
-- 仙台銀（[[jimoto-hd]] 傘下）との宮城県内シェア構図の詳細
-- 系列子会社の正確な現時点ラインナップ
-- 中期経営計画の具体目標値（ROE / 経費率 / 与信費用率）
 
 ## Related
 

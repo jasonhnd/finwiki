@@ -43,8 +43,8 @@
     "グループ構造",
     "重要年表 (抜粋) ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "「楽しい銀行」ブランディング"
+    "「楽しい銀行」ブランディング",
+    "「日本一の女性活躍銀行」"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4398,
-    "word_like_tokens": 556,
+    "nonspace_chars": 3528,
+    "word_like_tokens": 465,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

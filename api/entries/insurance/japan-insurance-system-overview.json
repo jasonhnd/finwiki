@@ -53,13 +53,13 @@
     "Japan insurance system overview",
     "TL;DR",
     "Wiki route",
-    "The Five Insurance Segments",
     "1. Life insurance (生命保険)",
     "2. Non-life insurance (損害保険)",
     "3. Mutual aid / Kyosai (共済)",
     "4. Reinsurance (再保険)",
     "5. Earthquake-insurance public-private scheme",
-    "Regulatory Framework"
+    "Regulatory Framework",
+    "Market Participants"
   ],
   "body_links": {
     "wikilinks_count": 52,
@@ -175,9 +175,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13877,
-    "word_like_tokens": 1990,
+    "nonspace_chars": 12466,
+    "word_like_tokens": 1751,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -17,7 +17,6 @@ sources:
 
 # JP モルガン日本 (JPMorgan Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -50,8 +49,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 本店所在地は概ね東京都千代田区丸の内 **東京ビルディング / 丸の内パークビル** 一帯。
 
-## 2. 重要历史
-
 ### 戦前・戦後再進出
 
 - **1924 年**：Guaranty Trust Company of New York（後 JP モルガン前身の一つ）東京支店設置 → JP モルガン日本拠点の起源 ^[extracted]
@@ -60,7 +57,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 2000 年合弁構想（実現せず）
 
-- **2000 年**：大和銀行（後 [[ndfg]] りそな HD の前身の一つ）+ JP モルガン 合弁案検討 → 実現せず ^[inferred]
 - 同時期 JP モルガン本体は Chase Manhattan と合併（2000-12 → JPMorgan Chase 発足）
 
 ### 2008-2009 金融危機後の米国最大化
@@ -71,7 +67,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 2014 年以降：国際 M&A アドバイザリー
 
-- **2014 年〜**：グローバル M&A アドバイザリー ランキング常時トップ 3、日本クロスボーダー案件で大型ディール常連 ^[inferred]
 - 日本企業の対外 M&A（武田 / シャイアー、ソフトバンク関連等）でアドバイザリー実績
 
 ### 2020-2024：機関投資家サービス・FX・固定収益で日本シェア拡大
@@ -79,8 +74,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 機関投資家向けカストディ・証券決済（JP モルガン信託銀行）
 - FX マーケットメイキング（東京デスク）
 - 固定収益・債券セールス・トレーディング
-
-## 3. 戦略・業態
 
 ### 日本での業務範囲
 
@@ -121,26 +114,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **銀行**：銀行法 第 47 条 外国銀行支店免許（東京支店）
 - **信託**：信託業法・銀行法
 - **資産運用**：金商法 投資運用業
-- **G-SIB Bucket 3**（親会社ベース、FSB 認定）→ 日本拠点にも資本・流動性監督が波及 ^[inferred]
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 円債デスク・FX マーケットメイクの収益機会
   - 2023〜 東証市場改革・PBR 1 倍割れ対策 → M&A アドバイザリー需要
-  - 2025〜 ステーブルコイン・暗号資産規制（CIB 領域では機関投資家サービスとして注視）^[inferred]
-
-## Counterpoints
-
-- 「米国最大銀」≠「日本最大外銀」: 日本円ベース総資産では邦銀メガに対し小規模、リテール非展開で B2C 認知低 ^[inferred]
-- 「IB 三強」の序列: M&A 案件量で年により Goldman / Morgan Stanley に劣後する年も多い ^[ambiguous]
-- 「グローバル一体運営」のリスク: 米国本体のリスク事案（2012 London Whale 等）が日本拠点ガバナンスにも波及 ^[extracted]
-- 「クロスボーダー M&A 強み」: 日本企業の対外 M&A 需要が縮小すれば収益基盤が脆弱 ^[inferred]
-
-## Open questions
-
-- 日本 4 法人体制の統合・再編シナリオは？（証券 + 信託 + AM の機能統合余地）
-- ステーブルコイン / トークン化資産時代の機関投資家サービスでの位置取り
-- 邦銀メガ（[[mufg]] / [[smfg]] / [[mizuho-fg]]）の海外 IB 強化に対するカウンター戦略
-- 日本人材市場（IB バンカー獲得競争）での Goldman / Morgan Stanley との差別化
-- リテール非展開戦略の継続 vs デジタル富裕層チャネル参入の可能性
 
 ## Related
 

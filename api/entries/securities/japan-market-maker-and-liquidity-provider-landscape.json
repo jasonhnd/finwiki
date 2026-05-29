@@ -58,12 +58,12 @@
     "Wiki route",
     "TL;DR",
     "Why this ecosystem matters",
-    "JPX market-maker schemes (formal)",
     "Osaka Exchange derivatives market-maker scheme",
     "TSE ETF market-maker scheme",
     "TSE cash-equity DMM",
     "Domestic broker market making",
-    "Global proprietary trading / HFT tier in Japan"
+    "Citadel Securities Japan",
+    "Optiver Japan"
   ],
   "body_links": {
     "wikilinks_count": 28,
@@ -131,9 +131,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17100,
-    "word_like_tokens": 2648,
+    "nonspace_chars": 15613,
+    "word_like_tokens": 2391,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

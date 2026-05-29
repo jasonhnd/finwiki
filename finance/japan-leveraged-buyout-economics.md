@@ -222,22 +222,6 @@ LBO and take-private processes increasingly attract activist scrutiny, especiall
 
 [[finance/japan-large-shareholding-disclosure|Large shareholding disclosure]] is the primary public source for tracking pre-TOB stake accumulation, joint-holder relationships, and competing-bidder positioning.
 
-## Counterpoints
-
-- Japan LBO leverage and covenant data is not as transparent as US TLB index data; public ranges are inferred from megabank disclosure rather than syndicated-loan secondary trading.
-- Megabank hold-to-maturity preference dampens secondary trading and refinancing optionality.
-- Dividend-recap activity may understate due to private-market disclosure.
-- Take-private process timelines have lengthened post-METI fair-M&A and takeover-guideline revisions.
-- Mezzanine supply is concentrated in a small number of providers; pricing power tilts to lenders in stressed markets.
-
-## Open questions
-
-- How will TONA-based pricing evolve as the post-LIBOR market matures?
-- Will Japan develop a deeper secondary loan market for LBO debt?
-- How will [[banking/regional-bank-consolidation-pattern|regional bank consolidation]] affect mid-market LBO participation?
-- Will high-yield bond takeout markets develop, or will senior-loan amend-and-extend remain dominant?
-- How will incoming foreign lenders (US / European banks, direct lenders) affect Japan covenant packages?
-
 ## Related
 
 - [[finance/INDEX]]

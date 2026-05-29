@@ -17,7 +17,6 @@ sources:
 
 # 立花証券 (Tachibana Securities)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
@@ -57,10 +56,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 年月 | 事象 |
 |---|---|
 | **1948** | **立花証券株式会社 創業** (戦後復興期、東京) ^[extracted] |
-| 戦後高度成長期〜 | 東京中心の対面リテール証券として全国展開 ^[inferred] |
-| 2000 年代〜 | 信用取引特化のネット取引サービス「立花証券ストックハウス」開始 ^[inferred] |
-| 2010 年代 | アクティブトレーダー・デイトレーダー向けニッチ確立 ^[inferred] |
-| 2024〜 | 新 NISA 制度対応、信用取引ユーザー基盤での NISA 連携 ^[inferred] |
 
 ## 3. 事業セグメント・マップ
 
@@ -71,8 +66,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 投資信託 | 公募投信販売 | 補完商品 |
 | 債券 | 個人向け国債等 | 限定的 |
 | オンライン取引 | ストックハウスを中心としたネット取引 | 信用特化型 |
-
-## 4. 戦略・競争
 
 ### 信用取引特化型ニッチ
 
@@ -91,22 +84,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **規制**：金融商品取引法・日本証券業協会 ([[JapanFG/jsda|JSDA]]) 自主規制
 - **信用取引関連**：[[securities/japan-margin-trading-and-securities-finance|信用取引・証券金融]]制度の主管
 - **直近政策論点**：
-  - 2024〜 新 NISA 拡充：信用取引ユーザー基盤での NISA 口座統合の流れ ^[inferred]
   - 信用取引規制 (委託保証金率・カバレッジ規制等) の継続監視
   - アクティブトレーダー向け情報開示・顧客本位 (FD 原則) の継続適用
-
-## Counterpoints
-
-- 「信用取引特化の持続性」：ネット証券大手の手数料無料化トレンドに対し、信用取引特化型のニッチが中長期維持できるかは継続論点 ^[ambiguous]
-- 「非上場ステータス」：資本市場アクセスがないため、システム投資・規模拡大の選択肢が限定的 ^[inferred]
-- 「アクティブトレーダー依存」：信用取引ユーザーは市場ボラティリティに敏感で、業績変動が大きい ^[inferred]
-
-## Open questions
-
-- 立花証券の信用取引ユーザー数・預り資産規模は中堅証券間でどのポジション?
-- 「立花証券ストックハウス」のシステム投資戦略は ([[JapanFG/matsui-sec|松井証券]] との比較含む)?
-- 非上場のまま継続するか、上場・統合シナリオはあるか?
-- 信用取引規制強化が事業モデルに与える影響は?
 
 ## Related
 

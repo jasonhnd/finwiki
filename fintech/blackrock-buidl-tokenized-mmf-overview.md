@@ -18,7 +18,6 @@ status: candidate
 
 # BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -44,14 +43,6 @@ BUIDL の「yield インフラ」モデル = SC issuer が BUIDL を準備とし
 
 2024-03 BUIDL ローンチ（イーサリアム単一チェーン） · 2024-2025 で 8 チェーンに展開 + AUM 4-5× 成長 · 2025-04 Circle が公式に BUIDL の初期最大級機関 LP の 1 つであることを認める · 2025-12 累計分配 $100M+ · 2026-05-13 Moody's Aaa-mf · 2026-05-14 $1B 即時償還ファシリティ · 2026-05-08 新発 BSTBL/BRSRV により [[fintech/genius-act-501-denylist-mandate|GENIUS §501]] 後の「SC 準備」領域を商品化。BlackRock のデジタル資産 AUM は 2026-Q1 時点で **$60.67B**（5 月に $70B 突破）、BUIDL はこのポートフォリオで **最も梃子化された中心ノード** であり、[[exchanges/rwa-tokenization-cex-integration|CEX RWA 統合]] と同じカテゴリーの機関顧客を共有する。
 
-## Counterpoints
-
-「BUIDL の一強」物語は誤り — [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] が private credit 領域を占有、Franklin BENJI が multi-chain naming を占有、[[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX / Hashnote USYC]] が非銀行系 MMF サブ領域を占有、DTCC Project Ion がインフラを占有、Goldman+BNY Canton が銀行内部スタックを占有 — 2030 年に BUIDL がトークン化 MMF マーケットで占める比率は 30-40% の見通しで、**第二梯団の合計が 60-70%**。規制側: OCC/FRB は 2026+ に「単一トークン化 MMF は準備金の X% を超えてはならない」と上限を新設する可能性があり、BUIDL の「yield インフラ」地位を直接的に制約する。
-
-## Open questions
-
-BSTBL（2a-7 登録公募の onchain share クラス）は BUIDL より大きなプロダクトになるか? Circle ↔ BlackRock の間に非公開の資本関係はすでに存在するか? BUIDL のクロスチェーン展開は Solana / 非 EVM チェーン上で Reg D コンプライアンス境界をどう扱うか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -69,4 +60,3 @@ BSTBL（2a-7 登録公募の onchain share クラス）は BUIDL より大きな
 ---
 
 **Last refresh** (2026-05-26): JP 化、日付更新。トークン化 MMF マトリックス wikilink（WisdomTree/Hashnote）および Circle USDC リザーブ LP wikilink を追加。
-

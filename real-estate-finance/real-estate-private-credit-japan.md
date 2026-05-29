@@ -199,26 +199,6 @@ The detailed appraisal floor and underwriting frame are documented at [[real-est
 
 Post-NIRP normalisation has tilted toward higher private-credit demand because bank underwriting has tightened and refi pricing has widened. Read with [[money-market/japan-money-market|money market]] for the rate-path detail and [[banking/INDEX|BoJ FSR]] commentary for the system-stress reading.
 
-## Counterpoints
-
-- Foreign-GP private-credit deployment in Japan is still small relative to bank CRE lending; framing as a "displacement" of bank credit is overstated.
-- Japan domestic-anchor private credit (DBJ, trust banks, megabank-affiliated finance arms) carries different cost-of-capital and risk-appetite from foreign-GP programmes; lumping them obscures the structural difference.
-- Mezz / preferred-equity pricing varies materially by sponsor, asset class, and inter-creditor terms; published "target IRR" ranges are coarse and selective.
-- Cross-border yen-hedged carry into Japan private credit depends on FX hedge cost; hedge-cost regime change can flip economics quickly.
-- Japan-LP base for private-credit funds is concentrated; widening LP base is a slow structural shift, not a step-change.
-- Private-credit underwriting discipline is often less transparent than bank underwriting; aggregate exposure data is harder to read from public surfaces.
-- Some "private credit" in Japan is misclassified bank-relationship lending repackaged; cleaner classification requires structure-by-structure reading.
-
-## Open questions
-
-- Will Japan-LP allocation to real-estate private credit scale meaningfully as super-long JGB yield normalises?
-- How does foreign-GP private-credit pricing converge with domestic-anchor pricing as bank senior tightens?
-- Will trust-bank private-credit franchises expand as fee compression on traditional asset administration continues?
-- How does DBJ co-lending shape private-credit market structure in urban-redevelopment and infrastructure-adjacent CRE?
-- Will preferred-equity pricing tighten as more capital deploys, or will subordination premium widen with rate normalisation?
-- How does private-credit cycle behaviour interact with J-REIT secondary-market liquidity in stress periods?
-- Will FX hedge cost regime support continued foreign-GP carry into Japan private credit?
-
 ## Related
 
 - [[real-estate-finance/INDEX]]

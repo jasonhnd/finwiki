@@ -44,17 +44,14 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/apollo-acred-private-credit-tokenization",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/jpmorgan-jpmd-coin",
       "fintech/multi-megabank-consortium-governance",
@@ -65,7 +62,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
@@ -77,8 +73,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2851,
-    "word_like_tokens": 401,
+    "nonspace_chars": 2340,
+    "word_like_tokens": 340,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

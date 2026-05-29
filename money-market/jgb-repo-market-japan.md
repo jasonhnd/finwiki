@@ -22,7 +22,6 @@ sources:
 
 # JGB repo market in Japan
 
-
 ## Wiki route
 
 This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/boj-open-market-operations|BoJ open market operations]] for peer / contrast context and [[money-market/japan-money-market|Japan money market]] for the broader system / regulatory boundary.
@@ -84,20 +83,6 @@ For analysis, SLF usage should be read as a market-functioning signal, not as a 
 - Separate funding demand from specific-security scarcity.
 - Check whether the issue is GC funding, SC specialness, securities lending, BoJ SLF usage, or broader JGB cash-market liquidity.
 - When using current data, cite the exact BoJ monthly release because the numbers are time-specific and may be corrected later.
-
-## Counterpoints
-
-- Repo statistics are powerful but partial; they do not reveal every bilateral or internal balance-sheet constraint.
-- BoJ Review papers are analytical views by authors and should not be read as binding policy guidance.
-- Dealer inventory, foreign investor flows, futures positioning, and BoJ operations can all move repo conditions at the same time.
-- Public data usually cannot show which individual institution faces the tightest collateral constraint.
-
-## Open Questions
-
-- Which repo indicators best predict short-term stress in off-the-run JGBs?
-- How does reduced BoJ JGB buying change collateral availability and repo-rate stability?
-- How should FinWiki separate repo, call market, securities lending, and BoJ market operations in company pages?
-- Which JapanFG entity pages need a repo-risk section when JGB market stress rises?
 
 ## Related
 

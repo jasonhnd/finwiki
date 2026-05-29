@@ -61,7 +61,7 @@
     "JRE BANK — the 2024 BaaS-based bank brand",
     "The four-layer LTV ladder",
     "Comparison with peer loyalty ecosystems",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 22,
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15386,
-    "word_like_tokens": 2666,
+    "nonspace_chars": 12982,
+    "word_like_tokens": 2234,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

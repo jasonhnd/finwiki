@@ -98,12 +98,6 @@ Promote a registry row into a standalone wiki page only when the operator is:
 - public-source rich enough to support strategy, license-boundary, and risk analysis; or
 - needed to resolve a parent / operating-company distinction in [[JapanFG/missing-financial-institutions-backlog|the JapanFG expansion backlog]].
 
-## Open Questions
-
-- Which long-tail remittance operators remains registry-only versus receive regional / cross-border payment pages?
-- How type I / type II / type III service-type distinctions be exposed without duplicating the FSA register?
-- Should the new NTT docomo financial group row be kept on [[JapanFG/ndfg]] or split into an operating-company page after the group launch stabilizes?
-
 ## Related
 
 - [[payments/INDEX]]

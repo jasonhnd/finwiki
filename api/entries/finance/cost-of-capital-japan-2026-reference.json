@@ -52,15 +52,15 @@
     "TL;DR",
     "Wiki route",
     "Cost of Capital — Structural Formula",
-    "Risk-Free Rate Reference",
     "Long-end (10Y JGB)",
     "Short-end (TONA / OIS)",
     "Intermediate / belly",
-    "Equity Risk Premium",
-    "Historical ERP"
+    "Historical ERP",
+    "Implied ERP",
+    "Beta Sources"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
       "JapanFG/mizuho-fg",
@@ -83,8 +83,7 @@
       "money-market/japan-money-market",
       "real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework",
       "real-estate-finance/japan-real-estate-appraisal-methodology",
-      "real-estate-finance/real-estate-cap-rate-compression-2026",
-      "real-estate-finance/real-estate-private-credit-japan"
+      "real-estate-finance/real-estate-cap-rate-compression-2026"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -108,16 +107,15 @@
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework",
       "https://finwiki.zksc.io/real-estate-finance/japan-real-estate-appraisal-methodology",
-      "https://finwiki.zksc.io/real-estate-finance/real-estate-cap-rate-compression-2026",
-      "https://finwiki.zksc.io/real-estate-finance/real-estate-private-credit-japan"
+      "https://finwiki.zksc.io/real-estate-finance/real-estate-cap-rate-compression-2026"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12449,
-    "word_like_tokens": 2096,
+    "nonspace_chars": 11163,
+    "word_like_tokens": 1874,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -18,7 +18,6 @@ sources:
 
 # アフラック生命保険 (Aflac Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -76,8 +75,6 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 | **介護保険** | 「アフラックの介護保険」(公的介護保険連動型) |
 | **生死合わせ・終身** | 「未来の自分が決める保険 WAYS」「アフラックの終身保険どなたでも」(無告知型) 等 |
 | **学資・貯蓄** | 「アフラックの夢みるこどもの学資保険」等、貯蓄性商品もラインアップ |
-
-## 3. 戦略・競争
 
 ### 沿革年表 ^[extracted]
 
@@ -151,22 +148,6 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 - **東京海上日動あんしん生命** ([[JapanFG/tokio-marine|tokio-marine-hd]] 系)
 
 > 1974〜2001 の独占的ポジションから、2001 年第三分野自由化後は群雄割拠。アフラックは「がん保険ブランド」と販売チャネル多様性で No.1 級を維持 ^[extracted]
-
-## Counterpoints
-
-- 「親子上場ならぬ親会社 NYSE 上場」: 日本子会社は非上場、議決権 100% 米親会社、第一生命の約 7% は米親会社レベル。日本市場での独立性・ガバナンスは外資系特有の構造 ^[inferred]
-- 「第三分野市場成熟化リスク」: 1974 年以来のブランド優位だが、医療保険は商品差別化困難、デジタル直販プレーヤー (ネット系生保) との価格競争 ^[inferred]
-- 「米親会社の為替リスク」: Aflac Incorporated の連結業績は日本円建て収益が大半 → 円安 / 円高で米ドル換算業績が大きくぶれる構造。米親会社は ヘッジオペレーション・対円通貨スワップを活用 ^[extracted]
-- 「第一生命提携の戦略的意義」: 営業職員クロスセルが期待ほど進展しているか? 第一生命側の戦略リターンと、アフラック側の販路依存度のバランス ^[ambiguous]
-- 「日本郵便提携の温度感」: 2013 年以降の郵便局窓口販売は、かんぽ生命 [[kampo-life]] 不適切販売問題後の郵便局チャネル全般の信頼回復進度に依存 ^[ambiguous]
-
-## Open questions
-
-- 第一生命 ([[dai-ichi-life]]) 提携 7 年経過 (2018→2025) の クロスセル KPI 実績は? 営業職員チャネルでの がん保険販売件数の推移
-- 米親会社 Aflac Incorporated の日本依存度低減策は? (米国セグメント拡大 / 第三国進出可能性)
-- 経済価値ベースソルベンシー規制 (2025-04) 下での 第三分野中心ポートフォリオの資本効率
-- アフラックダイレクト (ネット直販) の シェア・契約件数推移
-- 古出社長 (2018-01〜) 体制での 中計目標達成度・後継候補
 
 ## Related
 

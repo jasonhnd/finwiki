@@ -17,7 +17,6 @@ sources:
 
 # りそなホールディングス (Resona Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -34,7 +33,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **設立**：2001-12-12（株式会社大和銀ホールディングスとして）^[extracted]
 **現法人改称**：2003-03（「りそな HD」改称）^[extracted]
 **本社**：東京都江東区
-**機関設計**：指名委員会等設置会社 ^[inferred]
 
 ### 公的資金注入・完済（再生史の核）^[extracted]
 
@@ -97,7 +95,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 信託・年金（兼業）| りそな銀行（信託機能内蔵）| 独立信託銀を持たない・銀行本体で提供 |
 | 資産運用 | りそなアセットマネジメント | 個人向け投信・ファンドラップ |
 | 関西エリア | [[kansai-mirai-bank|関西みらい銀行]]・[[minato-bank|みなと銀行]]（2024-04 直接子会社化）| 関西アーバン＋近畿大阪＋みなと統合体 |
-| ホールセール IB | （限定）| 大型 M&A / ECM/DCM は 3 大メガに比べ限定的 ^[inferred] |
 
 ### FY2024 連結決算（2025-03 期、IR 確認済）^[extracted]
 
@@ -119,18 +116,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 日本カストディ銀行（信託口）| 5.60% |
 | 第一生命保険 | 3.25% |
 
-## 3. 戦略・競争
-
 ### 「日本初の本格的商業銀行 + 信託」モデル
 
 - 3 大メガ（[[mufg]] / [[smfg]] / [[mizuho-fg]]）は**信託銀行を別法人化**（三菱 UFJ 信託・三井住友信託・みずほ信託）
 - りそなは**信託機能を銀行本体で兼業** → 中堅顧客に「銀行窓口でワンストップ信託提供」差別化
-- 個人富裕層・中小企業オーナー向け「相続・事業承継・遺言信託」ニーズを商銀チャネルで吸収 ^[inferred]
 
 ### 個人・中小企業特化
 
 - ホールセール IB（大型 M&A・グローバル DCM/ECM）は限定的
-- 「メガバンクの 1/3 規模 + 信託機能」で中堅市場差別化 ^[inferred]
 - 首都圏（埼玉）と関西の二大地盤・全国展開ではなく地域特化
 
 ### 関西統合フェーズ完了（2024-04）
@@ -145,40 +138,21 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 2003-05 注入 → 2015-06 完済（**12 年で 1.96 兆円完済**）
 - 完済後はコア収益重視・株主還元拡大
-- 配当性向 40% 超の高還元戦略 ^[inferred]
 
 ### 競合・住み分け
 
 - vs 3 大メガ：規模差大（[[mufg]] 総資産 413 兆 vs りそな数十兆）→ 大型 IB / グローバル法人融資では競合せず
 - vs 地銀（[[ndfg]] 等）：信託機能保有で差別化、首都圏・関西の都市部地盤
-- vs ネット銀行（[[paypay-fg]] / 楽天銀）：店舗網＋信託＝対面アドバイスで差別化 ^[inferred]
 
 ## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
-- **G-SIB 認定**：なし（3 大メガと異なり国際金融安定理事会の G-SIB 指定外）^[inferred]
 - **持株会社規制**：銀行法 第 52 条の 17
 - **信託兼業認可**：銀行本体での信託業務兼営は特例承認による
 - **直近政策論点**：
   - 2024〜 日銀政策金利正常化 → 金利マージン改善ボーナス
   - 2024〜 KMFG 吸収合併後の関西統合シナジー実現
   - 2025〜 個人向けデジタル戦略（リテール特化との整合）
-
-## Counterpoints
-
-- 「規模劣勢論」：3 大メガとの規模差は構造的、ホールセール IB / グローバルでは戦えない ^[inferred]
-- 「公的資金完済の経営自由度」：2015 完済で経営判断の自由度回復、ただし「危機対応モード」の慎重さは残存 ^[ambiguous]
-- 「信託兼業モデルの普遍性」：3 大メガが信託子会社化した中、銀行兼業モデルが本当に競争優位か？ ロビー力・専門性で信託専業に劣後する可能性 ^[ambiguous]
-- 「関西みらい統合シナジー」：2017-2025 の 8 年統合プロセスが実際の収益貢献に結実するかは未確認 ^[forecast]
-- 「地域特化の限界」：首都圏（埼玉）+ 関西の二極構造で全国網はない → 法人顧客のクロスボーダー需要に対応困難 ^[inferred]
-
-## Open questions
-
-- 2024-04 KMFG 吸収合併後の関西エリア収益シナジーは数値で実証されるか?
-- 信託兼業モデルの相続・事業承継市場シェアは三井住友信託・三菱 UFJ 信託と比較してどの位置か?
-- 3 大メガが進める「個人向け AI エージェント」（[[mufg]] × Google 提携等）への対応戦略は?
-- 公的資金完済から 11 年経過、次の成長ストーリーは（規模拡大 vs 高還元維持）?
-- 関西みらい統合後の店舗網最適化・人員再配置は完了しているか?
 
 ## Related
 

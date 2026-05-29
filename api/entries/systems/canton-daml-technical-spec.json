@@ -42,18 +42,15 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/apollo-acred-private-credit-tokenization",
-      "fintech/bis-project-agora-overview",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "systems/INDEX",
       "systems/canton-mmf-coalition",
@@ -64,7 +61,6 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
-      "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-mmf-coalition",
@@ -75,8 +71,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2689,
-    "word_like_tokens": 376,
+    "nonspace_chars": 2228,
+    "word_like_tokens": 313,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

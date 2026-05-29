@@ -19,7 +19,6 @@ sources:
 
 # ちゅうぎん FG / 中国銀行 historical group page
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -45,7 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 連結経常収益 | **2,117 億 34 百万円** | +14.6% |
 | 連結経常利益 | **383 億 8 百万円** | +22.8% |
 | 親会社株主に帰属する当期純利益 | **274 億 34 百万円** | +28.2% |
-| 連結総資産 | 約 9 兆円水準 | ^[inferred] |
 
 > 加藤頭取就任時（2019-03 期）の連結純利益 119 億円から、ちゅうぎん FG 発足時（2022-03 期）204 億円、2025-03 期 274 億円へ成長。中計「未来共創プラン ステージ III」(2023-04〜2027-03) の純利益 KPI は当初 300 億円目標を **400 億円以上に上方修正**。^[extracted]
 
@@ -106,15 +104,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 事務・システム | CBS / 中銀事務センター | 事務集約・システム関連 |
 | 広域連携 | TSUBASA アライアンス | 10 地銀広域連携・FinTech / 共同事務 |
 
-## 3. 戦略・競争
-
 ### 営業エリア
 
 - **本拠**: 岡山県全域（岡山市・倉敷市・津山市・新見市等）
 - **隣接県**: 広島県備後地方（福山等）、香川県全域、兵庫県西部、鳥取県米子市
 - **域外拠点**: 東京・大阪・神戸
 - **海外**: 香港（唯一の海外拠点）
-- **特殊地帯**: 倉敷市の**水島臨海工業地帯**（コンビナート）— 製造業・化学・鉄鋼の集積地で、銀行の事業性融資の重要マーケット ^[inferred]
 
 ### 競合関係
 
@@ -122,7 +117,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **中国地方 西部**: [[hirogin-hd]]（広島銀行）、[[yamaguchi-fg]]（山口銀・もみじ銀・北九州銀 3 行体制）
 - **山陰**: [[san-in-godo-bank]]（山陰合同銀行、米子・松江地盤）
 - **四国側**: 百十四銀行（香川県 高松）、伊予銀行（[[iyogin-hd]]、TSUBASA 同盟行で香川は重複競合 / 協調）
-- **メガ**: [[mufg]]・[[smfg]]・[[mizuho-fg]] が大企業 main bank で侵食 ^[inferred]
 
 ### TSUBASA アライアンス（2015-10 発足、創設メンバー）
 
@@ -148,7 +142,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **主管**: 金融庁（FSA）/ 中国財務局
 - **地銀規制**: 銀行法
-- **地銀再編論**: 金融庁の地銀再編誘導政策（2017〜）の対象だが、ちゅうぎん FG は持株会社化と TSUBASA 連携で「合併せずに広域連携で生き残る」モデルを採用 ^[inferred]
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 地銀の貸出マージン改善ボーナス → 中計 KPI 上方修正の追い風 ^[extracted]
   - 2022-10〜 持株会社化で銀証連携・グループ最適化加速
@@ -160,23 +153,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|---|
 | FG 社長 兼 中国銀行 頭取 | **加藤貞則**（1957 年生）| 早稲田大学政治経済学部卒、倉敷市出身、2019 中国銀行 頭取就任 → 2022-10 ちゅうぎん FG 社長就任 |
 | FG 副社長 | 原田育秀 | 持株会社副社長 |
-
-## Counterpoints
-
-- 「中華人民共和国 Bank of China との混同」: 中文表記「中国銀行」が完全一致のため、海外文書・SWIFT 表記・英語報道で混同事故が継続的に発生 → 略称「ちゅうぎん」と英名 "The Chugoku Bank" の徹底活用が必須 ^[inferred]
-- 「KPI 上方修正の持続性」: 金利正常化ボーナス依存 → 金利低下局面での反動リスク ^[inferred]
-- 「TSUBASA 連携の深化限界」: 10 行協調体制ゆえ意思決定遅延・コスト分担調整の困難 → 共同事務センター構想の実行速度に懸念 ^[ambiguous]
-- 「持株会社化後 3 年の評価」: 銀証連携・ノンバンク強化は数字で出ているが、「総合サービス業シフト」の実態深度は途上 ^[ambiguous]
-- 「県内 トマト銀行との競合」: 第二地銀のトマト銀との県内 2 強構造は安定的 vs 統合シナリオは長期的に再燃する可能性 ^[inferred]
-
-## Open questions
-
-- 持株会社化 4 年目（2026-10 以降）の次期中計の方向性は？ 「総合サービス業」シフトの具体的次ステップ
-- TSUBASA 共同事務センター構想の実装ロードマップは？ 10 行間のシステム統合進度
-- 加藤頭取（2019-3〜）の後継人事は？ 持株会社化を主導した世代の交代タイミング
-- 香港支店の戦略的位置付け？ 海外唯一拠点のままなのか、アジア展開拡大はあるのか
-- 県境を越える地銀統合（広島・香川方面）への参画 / 距離保持の判断は？
-- 水島コンビナート企業群への融資集中度とエネルギー転換 / 脱炭素リスクの整理は？
 
 ## Related
 

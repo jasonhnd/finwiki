@@ -19,7 +19,6 @@ status: candidate
 
 # CBDC 多層アーキテクチャ概要
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -54,19 +53,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2014 中国 PBoC が e-CNY 研究を開始（グローバル最古の大規模 CBDC プロジェクト）。2017-2019 BIS / IMF などの多国間組織が「中央銀行デジタル通貨」概念枠組みを提唱。2020 ECB がデジタル・ユーロ報告書を発表し、「二層 / 直接」二分法を確立。2022.04 中国 e-CNY 試験運用が 23 都市に拡大、二層アーキテクチャが大規模に検証された。2023-2024 ブラジル DREX（Hyperledger Besu ベース） + デジタル・ユーロ立法スタート → token-based 多層パラダイムが成熟。2025-2026 G10 中央銀行は [[fintech/bis-project-agora-overview|Agorá]] を通じて wholesale CBDC を協調、リテール CBDC は各国独自に推進 → 「アーキテクチャ選択が主権空間を決定する」が中央銀行間のコンセンサスに。日本側 DC-JPY 試験運用は [[fintech/jp-stablecoin-dcjpy|DC-JPY 概要]] 参照。
 
-## Counterpoints
-
-- 「すべての G10 が二層 / 多層を選択」は 2026 年スナップショット — デジタル・ユーロなどは依然として直接 CBDC モデルに近づける可能性
-- 中国 e-CNY のユーザーアクティビティデータは混乱（¥7 兆元は累計取引額、実際のアクティブウォレット数は宣伝よりはるかに低い）
-- ブラジル DREX 試験運用は限定的、商業化のタイムテーブルは繰り返し延期
-- 直接 CBDC は小国（ナイジェリア eNaira など）で実際に試行されており、失敗率は高いが理論上完全に不可能とは限らない
-
-## Open questions
-
-- 米国は最終的に wholesale CBDC + 民間 stablecoin の組み合わせ（実質的にリテール CBDC の代替）を選ぶか?
-- token-based 多層アーキテクチャの規制複雑性における実際のコストは?
-- 中国 e-CNY の二層アーキテクチャは token-based 多層要素を取り込む方向に進化するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -77,4 +63,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

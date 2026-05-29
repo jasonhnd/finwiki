@@ -17,7 +17,6 @@ sources:
 
 # 日本郵政 (Japan Post Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -33,8 +32,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**：東証 PRIME 6178（2015-11-04 上場）^[extracted]
 **設立**：2006-01-23（郵政民営化準備会社「日本郵政株式会社」として）^[extracted]
 **民営化発足**：2007-10-01（郵政民営化法施行・4 社体制スタート）
-**本社**：東京都千代田区大手町 2-3-1（大手町プレイス）^[inferred]
-**機関設計**：監査等委員会設置会社（時点要確認）^[inferred]
 
 ### 株主構造（民営化法上の特例）^[extracted]
 
@@ -77,7 +74,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2021-03-12** | **楽天グループに 約 1,500 億円 出資**（資本業務提携、物流・モバイル・EC・金融）|
 | 2021-10 | 政府保有株 第 3 次売出（持株比率 ~1/3 超まで低下）|
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
-| 2024-03 期前後 | **楽天 G 株 ほぼ全量売却**（2021 出資はキャピタル損益化）^[inferred] |
 | 2024 | 中期経営計画 アップデート（金融 2 社連携 + 不動産 + DX）|
 
 ## 2. 事業セグメント・マップ
@@ -92,12 +88,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | グループ CVC | 日本郵政キャピタル | スタートアップ・物流テック出資 |
 | シニア・地域 | 日本郵便「みまもりサービス」等 | 郵便局網を介護・自治体連携プラットフォーム化 |
 
-## 3. 戦略・競争
-
 ### グループ統合シナジー
 
 - **郵便局網 × 金融**: 全国 ~24,000 局を [[yucho]] / [[kampo-life]] の販売窓口として活用。窓口手数料（金融 2 社 → 日本郵便）がグループ内移転の主軸 ^[extracted]
-- **金融 2 社の運用利回り改善**: 国内国債中心ポートフォリオから、海外社債・オルタナティブ（PE / インフラ / 不動産）への分散にシフト。とくに [[yucho]] は本邦最大級の機関投資家化を志向 ^[inferred]
 - **物流 × EC**: 日本郵便のラストワンマイル網と EC プラットフォームの連携。旧 楽天 G 提携はこの文脈で位置付けられていた ^[extracted]
 
 ### 提携・買収戦略
@@ -110,10 +103,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 旧 Toll Holdings（豪 物流大手、2015-05 ~6,200 億円買収）→ **2021-04 売却**（多額のれん減損計上後）。海外物流 M&A は実質撤退モード ^[extracted]
 - [[yucho]] / [[kampo-life]] は運用面で海外債券・オルタナティブを通じグローバルエクスポージャー拡大
-
-### B2C ブランディング
-
-- 郵便ポストの赤・「〒」マーク・郵便局網は日本最強級の B2C リーチ。「公共性 × 信頼」を中核ブランド資産とする ^[inferred]
 
 ## 4. 規制・政策
 
@@ -137,23 +126,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 4 | 西室泰三 | 2013〜2016 | 東芝 元会長 |
 | 5 | 長門正貢 | 2016-04〜2020-01 | [[kampo-life]] 事件で引責辞任 |
 | 6 | 増田寛也 | 2020-01〜現職 | 元総務大臣・元岩手県知事 |
-
-## Counterpoints
-
-- **[[kampo-life]] 不適切販売事件のレガシー**：2019-2020 公表の乗換契約問題は信頼コストとして残存。再発防止 IT 投資 + 募集人教育の固定費化 ^[ambiguous]
-- **[[yucho]] 運用利回り低迷**：超低金利環境下、国債依存ポートフォリオの利回り見劣り。海外シフトは為替・信用リスクとのトレードオフ ^[ambiguous]
-- **政府介入リスク**：筆頭株主が財務大臣である構造は、議決権・人事・配当方針で政治判断の影響を受けやすい。配当性向や売出タイミングが財政事情に左右される ^[inferred]
-- **郵便事業の構造赤字**：メール離れ + ラストワンマイル人件費高騰で郵便単体は赤字化。値上げと自動化で対応中 ^[extracted]
-- **楽天 G 提携の評価**：出資 1,500 億円 → 数年で実質撤収。戦略提携の成果可視化に乏しい ^[ambiguous]
-
-## Open questions
-
-- [[yucho]] / [[kampo-life]] 株の追加処分タイムラインは？ 完全分離 vs 「過半は手放さない」均衡点
-- 政府保有株 第 4 次売出のタイミングと規模（財政状況・株価依存）
-- 郵便事業の赤字構造に対する根本対策：料金 + 配達頻度削減 + 自動化のどこまで踏み込むか
-- 楽天 G 出資の最終損益と、ポスト楽天の物流・EC パートナー戦略
-- [[kampo-life]] 事件以降の販売チャネル改革（外部独立代理店 vs 郵便局専属）の最適配分
-- 増田寛也体制の後継：政府系出身者 vs 民間出身者の指名トレンド
 
 ## Related
 

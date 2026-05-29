@@ -43,15 +43,15 @@
   "summary": "This entry sits under JapanFG index. Read it alongside 太陽グラントソントン for peer 中堅 audit context, and EY 新日本・トーマツ for Big 4 比較; 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [
     "BDO 三優監査法人 (BDO Sanyu)",
-    "TL;DR",
     "Wiki route",
     "1. 法人概要",
     "規模（公開ソース確認可能事項のみ）",
     "2. 沿革",
-    "3. 金融サービス監査・アドバイザリー実務",
     "IPO 準備支援 ^[extracted]",
     "VASP / 暗号資産 ^[extracted]",
-    "外資系日本子会社 ^[inferred]"
+    "外資系日本子会社 ^[inferred]",
+    "中堅金融 / FinTech",
+    "4. 主要 listed FG クライアント関係（公開ベース）"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4726,
-    "word_like_tokens": 683,
+    "nonspace_chars": 3649,
+    "word_like_tokens": 544,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

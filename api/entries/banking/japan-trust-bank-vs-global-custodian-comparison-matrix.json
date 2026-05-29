@@ -67,7 +67,7 @@
     "Interpretation rules"
   ],
   "body_links": {
-    "wikilinks_count": 25,
+    "wikilinks_count": 24,
     "wikilinks": [
       "INDEX",
       "JapanFG/bny-mellon-japan",
@@ -80,7 +80,6 @@
       "JapanFG/master-trust-bank",
       "JapanFG/mitsubishi-ufj-trust-bank",
       "JapanFG/mizuho-trust-bank",
-      "JapanFG/mufg-bank",
       "JapanFG/nochu-trust-bank",
       "JapanFG/nomura-trust-bank",
       "JapanFG/sbi-shinsei-trust-bank",
@@ -107,7 +106,6 @@
       "https://finwiki.zksc.io/JapanFG/master-trust-bank",
       "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
       "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
       "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
       "https://finwiki.zksc.io/JapanFG/nomura-trust-bank",
       "https://finwiki.zksc.io/JapanFG/sbi-shinsei-trust-bank",
@@ -126,9 +124,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12618,
-    "word_like_tokens": 2020,
+    "nonspace_chars": 11161,
+    "word_like_tokens": 1793,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

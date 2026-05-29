@@ -36,20 +36,18 @@
       "https://besu.hyperledger.org/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it with fintech index for adjacent context and スマートコントラクト bytecode forensic — 三層 verify 技術 for the broader system boundary.",
+  "summary": "This entry sits under systems index. Read it against Canton(機関向け DLT の対照) for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
     "Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -57,7 +55,6 @@
       "fintech/cosmos-ibc-for-financial-institutions",
       "fintech/jpmorgan-jpmd-coin",
       "fintech/multi-megabank-consortium-governance",
-      "security/bytecode-forensic-three-tier-verify",
       "systems/INDEX",
       "systems/canton-overview",
       "systems/hyperledger-besu-vs-canton-migration"
@@ -69,7 +66,6 @@
       "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-overview",
       "https://finwiki.zksc.io/systems/hyperledger-besu-vs-canton-migration"
@@ -78,8 +74,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3139,
-    "word_like_tokens": 481,
+    "nonspace_chars": 2605,
+    "word_like_tokens": 413,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

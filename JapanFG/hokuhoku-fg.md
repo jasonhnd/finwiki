@@ -17,7 +17,6 @@ sources:
 
 # ほくほく FG (Hokuhoku FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -57,8 +56,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **ほくぎん FG**：2003-09-26 北陸銀行 単独株式移転で持株会社化
 - **ほくほく FG**：2004-09-01 北海道銀行と統合 → 改称
 
-> 統合背景：北陸銀行は 1990 年代後半〜2000 年代初頭に不良債権 / 自己資本問題を抱え、北海道銀行も道内競合（[[ndfg]]= 北洋銀行）との競争激化で経営強化が課題。地理的に遠距離だが、両行とも単独存続より広域連合での生き残りを選択。邦銀統合史で「離れた地域の地銀どうしの広域連合」モデルの嚆矢。^[inferred]
-
 ### 重要年表 ^[extracted]
 
 | 年月 | 事象 |
@@ -81,8 +78,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 証券・カード・リース | ほくほく TT 証券 / 北陸カード / 道銀カード 等 | グループ周辺金融 |
 | 観光・農業金融 | 両行 | 北陸新幹線開業（2015）+ 北海道観光 / 農業 / 水産 |
 
-## 3. 戦略・競争
-
 ### 地理ロングテール戦略
 
 - **北陸 3 県（富山・石川・福井）+ 北海道** の 2 拠点広域連合
@@ -96,11 +91,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **富山県**：県内 main bank ポジション（富山第一銀行 等の第二地銀と差別化）
 - **石川県**：北國銀行 / 北國 FH と競合
 - **福井県**：福井銀行 / 福邦銀行 と競合
-
-### デジタル戦略
-
-- メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）や先進地銀（[[fukuoka-fg]] みんなの銀行 BaaS / 千葉銀行）と比較するとデジタル投資は控えめ ^[inferred]
-- 2024 中計でデジタル投資加速方針 ^[inferred]
 
 ### 観光・農業・水産金融
 
@@ -117,21 +107,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2025〜 地銀再編加速（人口減 + デジタル投資負担）
   - 北陸新幹線延伸（2024-03 敦賀）→ 福井県地盤の経済効果
   - 2024-01 能登半島地震 → 北陸銀行 石川県・富山県地盤への影響と復興金融
-
-## Counterpoints
-
-- 「地理ロングテール戦略の評価」：北陸 + 北海道の遠距離 2 拠点は分散効果 vs シナジー希薄。システム統合コストと営業範囲分散のバランス ^[ambiguous]
-- 「北海道の競合構造」：[[ndfg]] との 2 強競合で北海道銀行はシェア 2 位、独自路線で勝てるか / 統合シナリオは ^[inferred]
-- 「デジタル投資の遅れ」：[[fukuoka-fg]] みんなの銀行のような全国デジタル展開を持たない。地銀再編で後発になるリスク ^[inferred]
-- 「2 本社制のガバナンス」：富山 + 札幌の 2 本社運営はコスト高、本社統合シナリオの可能性 ^[ambiguous]
-
-## Open questions
-
-- 北海道銀行と [[ndfg]]（北洋銀行）の道内 2 強統合シナリオは？（地銀再編議論で度々取り沙汰）
-- 北陸 3 県内での更なる広域連合（北國 FH / 福井銀行 等）の可能性
-- デジタル戦略の具体策（BaaS / 全国展開 / 異業種連合）
-- 2024 中計の数値目標と進捗
-- 能登半島地震（2024-01）の北陸銀行地盤への影響と長期復興金融
 
 ## Related
 

@@ -19,7 +19,6 @@ status: candidate
 
 # 二通貨アービトラージ · §501 リーガル hack と規制脆弱性
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -33,7 +32,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - MiCA Title IV は既に EUR-stablecoin の複数発行体を認めており = オンチェーン EUR FX 流動性の奨励に等しい ^[extracted]
 - 日本 PSA 2023 改正は stablecoin を「電子決済手段」と定義 · swap を FX に分類することは明示せず ^[extracted]
 - SocGen EURCV / Lugh EURL 等のユーロ stablecoin が規制の多元化を提供 ^[extracted]
-- DEX プールによるマーケットメイク ≠ OTC FX desk · これが現状の法的境界における重要論点 ^[inferred]
 
 ## Mechanism / How it works
 
@@ -52,14 +50,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Origin & evolution
 
 2024 年以前 = オンチェーン FX 実現不可(USDC 一強)。2024 [[fintech/mica-overview|MiCA]] Title IV 施行 + EURC 流通量上昇 + SocGen / Lugh の上場 = ユーロ側の複数発行体構造が形成。2025 [[JapanFG/jpyc|JPYC]] が日本資金決済法の新フレーム下で初の円 stablecoin に。2026.05 三角アービトラージが DEX 上で初めて実稼働 = リーガル hack が理論からプロダクトへ。
-
-## Counterpoints
-
-規制 critics の主張:「ユーザー自主」論は無効 —— あらゆる facilitator (DEX / aggregator)が routing / pricing アルゴリズムを持てば、実質的にマーケットメイカーであり · FX / commodity 規制を受けるべき。SEC は既に Uniswap に Wells Notice を発出(2024)· 道筋は不透明。日本 FSA も stablecoin swap を FX 類とみなす可能性あり · 為替レート discovery を伴うため。規制の最終的な落とし所は「である vs ない」ではなく · 「scope の広さ + 報告義務の重さ」となる可能性があり、最終的には [[fintech/fx-onchain-as-stablecoin-final-boss|FX オンチェーン化 = ステーブルコインのラスボス]] の実装スピードに影響を与える。
-
-## Open questions
-
-どの規制当局(SEC / OCC / FCA / FSA)が最初に声明を出すか?米国一国が再定義したら · EU / 日本は追随するか?DEX は FX dealer 登録を要求されるか?経路上の aggregator (LiFi / Stargate / Squid)の責任配分は?3 発行体(Circle / JPYC Inc. / SocGen)は能動的に self-regulatory MOU を結ぶか?
 
 ## Related
 <!-- wiki-links:managed -->

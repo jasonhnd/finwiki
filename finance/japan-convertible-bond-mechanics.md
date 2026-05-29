@@ -212,22 +212,6 @@ Cross-reference public TDnet / EDINET filings for specific issuance terms.
 
 Issuer disclosure is required for use-of-proceeds in EDINET registration statements.
 
-## Counterpoints
-
-- CB pricing is observable at issuance but secondary trading data is less transparent than vanilla bond markets.
-- Convertible-arb investor demand drives marginal pricing; market windows depend on hedge-fund risk appetite globally.
-- MSCB structures have reputational baggage from past dilution episodes; usage is constrained.
-- Implied-vol pricing depends on stock-borrow availability; small-cap and high-borrow-cost names may struggle to clear the market.
-- Treasury-share delivery vs new-share issuance affects accounting EPS dilution differently; disclosure should clarify.
-
-## Open questions
-
-- How will the post-LIBOR / TONA-anchored rate environment affect CB coupon and option-value dynamics?
-- Will Japan exchangeable bond issuance increase as cross-shareholding unwinding accelerates? (See [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]].)
-- How will TSE Prime market scrutiny affect dilutive CB structures?
-- Will call-spread overlay structures become more standard for large-cap CB?
-- How will retail investor access to CB evolve through online securities and NISA products?
-
 ## Related
 
 - [[finance/INDEX]]

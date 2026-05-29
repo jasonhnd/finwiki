@@ -19,7 +19,6 @@ status: candidate
 
 # 日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -62,18 +61,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2023-06 EPI 3 型発効 → 2024 年 3 大行 Progmat XJPY + JPYC 流通量同時成長 → 2025-08 SBI Circle Holdings 50/50 合弁設立で構図変化 → 2026-Q1 JPYC 流通量 21 億円 + 6 万 holders + 3 か月で 2.6 倍成長 → 2026-05 §501(d) 視点下で SBI-Circle が #1 に上昇。2028 最終構図予測:SBI-Circle クロスボーダー + JPYC リテール + Progmat 大口 B2B + みんなの銀行 地域。日本ライセンス体系総覧は [[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス索引]] を参照。
 
-## Counterpoints
-
-- §501(d) 視点評価は USA-JP MRA 実時点に依存 · 下方修正の可能性あり
-- Progmat の 49% MUFG 上限の実質的拘束力には議論あり · 3 大行が連合して突破する可能性あり
-- JPYC の資金移動業者型 ¥100 万上限は B2B にとって構造的ボトルネック
-
-## Open questions
-
-- USA-JP MRA 署名時点（2027 H1 vs H2）?
-- SBI Circle Holdings は JPY-pegged Circle バージョンを推進するか?
-- みんなの銀行の Solana ルートは他の地方銀行の追随を引き起こすか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -84,4 +71,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

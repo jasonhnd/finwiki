@@ -40,8 +40,6 @@ This entry sits under [[derivatives/INDEX|derivatives index]] as the deepest sin
 
 Cross-reference [[finance/INDEX|finance index]] for the wider capital-markets framing, [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]] for the institutional equity-linked counterpart that uses similar mathematics, [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]] for the related single-stock liquidity dynamics, [[banking/INDEX|banking index]] for the megabank distribution context, [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] for the contrast with institutional structured allocations, and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] for the dealer hedging side.
 
-## Product anatomy
-
 ### Headline mechanics
 
 | Component | Typical retail-distributed EB knock-in |
@@ -77,8 +75,6 @@ The worst-of basket is one of the most-criticized retail features: investors oft
 | Year 3 observation (maturity) | Same trigger or final redemption rules apply |
 
 Autocall benefits the issuer / dealer (terminates short-vol exposure early) and provides retail buyer with quicker turnover and re-investment.
-
-## Payoff mathematics
 
 ### Investor position equivalence
 
@@ -162,8 +158,6 @@ EB knock-in distribution coincided with several high-profile retail-loss episode
 
 The pattern recurring through these episodes: retail buyers often did not anticipate the binary loss profile and were surprised when the knock-in was triggered. JSDA / FSA aggregated complaint data showed pronounced spikes after each episode.
 
-## FSA suitability enforcement 2023
-
 ### Background to enforcement
 
 The FSA, under the **"Customer First"** (顧客本位の業務運営) framework, escalated supervisory attention on retail structured-bond distribution from 2021. The October 2022 public statement by the FSA explicitly flagged structured bond (仕組債) suitability and disclosure as a high-priority issue.
@@ -196,8 +190,6 @@ Major distributors took voluntary actions ahead of and following enforcement:
 ### Volume impact
 
 JSDA / FSA aggregated industry statistics indicated that retail EB knock-in sales contracted very significantly from 2022 to 2023. Many distributors reduced EB sales by 80 percent or more.
-
-## JSDA self-regulatory tightening
 
 ### Suitability assessment
 
@@ -244,25 +236,6 @@ The institutional [[finance/japan-convertible-bond-mechanics|convertible bond ma
 | Regulator focus | Customer-First enforcement | Disclosure and insider-trading framework |
 
 The contrast is sharp: institutional convertibles give buyers asymmetric upside; retail EB knock-ins give buyers asymmetric downside in exchange for a coupon.
-
-## Counterpoints
-
-- EB knock-in is not inherently mis-designed; the problem was suitability mismatch and disclosure failure, not the product structure per se.
-- Sophisticated investors can use EB knock-in for legitimate yield-enhancement against a defined view on underlying volatility and direction.
-- The 2023 enforcement actions did not declare the product impermissible; they targeted distribution practices and suitability process.
-- Coupon-load comparison is complex; some EB structures were priced fairly given the embedded vol risk transfer, others were not.
-- Worst-of basket structures are particularly criticized but mathematically valid for sophisticated investors with explicit correlation views.
-- Some retail demand simply migrated to other complex products (FX margin, leveraged ETFs, crypto) with arguably worse outcomes.
-
-## Open questions
-
-- Will EB knock-in return to mass retail distribution under tighter suitability rules, or remain effectively restricted?
-- How will online brokerages handle EB-style products under enhanced disclosure requirements?
-- Will FSA enforcement extend to autocallable structured deposits or simpler structured products?
-- How will issuer / dealer hedging dynamics change if EB knock-in retail volumes remain materially lower?
-- Will the institutional structured-product market expand to absorb capacity formerly distributed retail?
-- Will the [[derivatives/structured-bond-japan-retail-issuance|broader retail structured-bond market]] recover overall volume by shifting product mix?
-- How will distributor compensation models evolve away from upfront fee load on complex products?
 
 ## Related
 

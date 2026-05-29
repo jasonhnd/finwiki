@@ -57,13 +57,13 @@
     "Structured bond Japan retail issuance",
     "TL;DR",
     "Wiki route",
-    "Product taxonomy",
     "Core structured-bond categories",
     "Structure variations",
-    "Issuer and arranger structure",
     "Issuer set",
     "Distribution channel",
-    "Arranger fees"
+    "Arranger fees",
+    "Hedging mechanics",
+    "Mechanics"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15630,
-    "word_like_tokens": 2330,
+    "nonspace_chars": 13999,
+    "word_like_tokens": 2087,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

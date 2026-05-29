@@ -17,7 +17,6 @@ sources:
 
 # ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -32,8 +31,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **英名**：Goldman Sachs Japan Co., Ltd.
 **親会社**：The Goldman Sachs Group, Inc.（NYSE: GS、デラウェア州法人、本社 NY）^[extracted]
 **本社**：東京都港区六本木 6-10-1 六本木ヒルズ森タワー ^[extracted]
-**業態**：第一種金融商品取引業者（外資系証券）^[inferred]
-**登録**：関東財務局長（金商）登録 ^[inferred]
 **設立**：1969 駐在員事務所開設 / 1974 東京支店開設 / 後年に証券子会社として法人化 ^[extracted]
 
 ### 主要日本法人グループ ^[extracted]
@@ -79,7 +76,6 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 ### 本社・主要拠点
 
 - **東京本社**：六本木ヒルズ森タワー（六本木 6-10-1）^[extracted]
-- 入居開始は六本木ヒルズ竣工後（2003-04〜）。以前は永田町・霞が関方面の高層ビルに本社を構えていた経緯あり ^[inferred]
 
 ## 2. 事業セグメント・マップ
 
@@ -98,12 +94,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **大企業 / 上場企業**：海外 M&A・クロスボーダー案件・グローバル債券発行
 - **機関投資家**：年金基金・生損保・GPIF・運用会社向け株式 / 債券トレード
 - **富裕層**：プライベートバンキング（限定的）
-- **政府・公的セクター**：JBIC / JOGMEC 等のクロスボーダー案件アドバイザリー（時折）^[inferred]
 - リテール向け店舗は **なし** ^[extracted]
-
-## 3. 戦略・競争
-
-### 競合構図
 
 #### 外資系投資銀行（直接競合）
 
@@ -121,14 +112,11 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **SMBC 日興証券**── [[smfg]] 100%
 - **みずほ証券**── [[mizuho-fg]] 100%
 - **大和証券グループ本社**── 独立系 大手
-- **野村證券 / 野村ホールディングス**── 独立系 最大手・日本 IB トップ ^[inferred]
 
 ### 戦略ポジション
 
 - **IB（M&A・ECM・DCM）特化**：日本企業の海外案件アドバイザリーで毎期 IB リーグテーブル外資勢トップ級 ^[extracted]
 - **法人取引中心**：邦銀系のような店舗網ベースのリテール展開なし、機関投資家・富裕層・大企業のみ ^[extracted]
-- **東京アジアハブ機能**：シンガポール・香港と並ぶ Goldman Sachs アジア戦略の中核拠点 ^[inferred]
-- **クロスボーダー M&A 強化**：日本企業の海外買収（自動車・製薬・素材・テクノロジー）の主要アドバイザー、過去にマクラーレン・ホンダ提携案件、ソフトバンクの ARM 買収（2016）等、日本企業の海外案件で多数の実績 ^[inferred]
 
 ### 過去の象徴的案件（業界周知範囲）^[inferred]
 
@@ -142,15 +130,11 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 - 2003-04 [[smfg]]（三井住友 FG）に約 1500 億円優先株出資（資本提携、後に償還）── 邦銀との資本関係歴 ^[extracted]
 - 邦銀との恒常的な業務提携（業務統合・JV）は **なし**（モルガン・スタンレーが [[mufg]] と統合戦略を採ったのと対照的）^[extracted]
-- 日本企業 M&A 案件で邦銀系証券（[[smfg]] / [[mizuho-fg]] / 野村）と頻繁に共同主幹事 ^[inferred]
 
 ## 4. 規制・政策
 
 - **主管（証券）**：金融庁（FSA）/ 関東財務局
-- **主管（銀行）**：金融庁・日本銀行（東京支店ベース、銀行法 第 47 条 外国銀行支店）^[inferred]
-- **業登録**：第一種金融商品取引業（証券）/ 銀行業（東京支店）/ 投資運用業（GSAM Japan）^[inferred]
 - **米親会社規制**：FRB（連邦準備制度）/ SEC / OCC / FINRA / NY 州金融サービス局（DFS）等の重層的監督下
-- **G-SIB 認定**：親会社 Goldman Sachs Group は FSB G-SIB（Bucket 2 程度）^[inferred]
 - **直近政策論点**:
   - 2024〜 日本 IPO 市場活性化（東証 PRIME / グロース 改革）→ ECM 案件機会
   - 2024〜 日本企業のクロスボーダー M&A 復調 → IB 案件機会
@@ -161,21 +145,6 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - 日本拠点社長 / Country Head ポジションは時期により Goldman Sachs Japan Co., Ltd. 社長 / Co-CEO 等の名称変遷あり
 - 著名歴任者：持田昌典（旧 Goldman Sachs Japan Co. Ltd. 会長 / 社長として長期在任）、近年は森田康次郎 / 持田昌典 / 望月愼一郎 等の名前が業界誌で報じられる
 - 具体的な現職 Country Head は時期により変動するため、最新情報は Goldman Sachs 公式 Press Release を要参照
-
-## Counterpoints
-
-- 「外資 No.1 級 IB」観: 案件ベースリーグテーブルで毎期外資勢内トップを争うが、案件数では野村・大和等の邦銀独立系・メガバンク系証券に対し小規模 ^[inferred]
-- 「リテール展開なし」観: モルガン・スタンレーが [[mufg]] JV で日本リテール市場に間接的にアクセスする一方、GS は単独でホールセール特化 → 邦人富裕層・大衆富裕層市場機会の取り逃し ^[ambiguous]
-- 「Country Head 持続性」: 米親会社主導の人事サイクルで日本トップが比較的頻繁に交代 → 邦銀との長期関係構築コストの議論 ^[ambiguous]
-- 「不動産関連ビジネス縮小」: 1990s〜2000s の不動産バルクセール時代と比較し、近年は不動産関連存在感は他外資（Blackstone / Brookfield 等）に対し相対的に縮小 ^[inferred]
-
-## Open questions
-
-- Goldman Sachs Japan の最新 Country Head は誰か？（公式 Press Release 要参照）
-- 直近の Japan IB 売上高比率（親会社全社売上に占めるシェア）は？
-- 邦銀メガバンク系証券との IB リーグテーブル毎期の競合状況は？
-- アジアハブ機能（東京 vs 香港 vs シンガポール）の戦略的位置付けは？
-- Goldman Sachs 銀行東京支店の融資ポートフォリオ規模・業務範囲は？
 
 ## Related
 

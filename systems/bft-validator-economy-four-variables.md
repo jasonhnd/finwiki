@@ -18,7 +18,6 @@ status: candidate
 
 # BFT validator 経済の4変数
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-overview|BFT validator 経済学概観 · 4変数と機関チェーンの退化]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -46,19 +45,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 2015-2018 の PoW 時代には validator 経済は存在しなかった。2018-2020 Cosmos / Tezos などの初期 PoS で yield + slashing の原型が形成された。2020.12 ETH 2.0 Beacon Chain がローンチ → 二重署名 + オフライン slashing がメインネットに導入。2021.04 Flashbots が MEV-Boost を公開 → MEV が定量化可能な収益変数として顕在化。2022-2024 Lido / クライアント / 地理という 3 種類の集中度が研究の焦点に(Vitalik が複数回発信)。2025-2026 機関チェーンが「少数の KYC validator」という姿で登場し、4 変数フレームワークは機関チェーン vs リテールチェーンで経路分岐が発生([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] 参照)。
 
-## Counterpoints
-
-- 「yield 健全レンジ」は経験値であり、チェーン生態系ごとに許容水準は異なる
-- Slashing は family validator 時代に過度に厳格な副作用を見せ、2024 以降は多くのチェーンで slashing の厳格度を引き下げた
-- 「集中度の多次元」にはガバナンス集中度(DAO 投票占有率)が含まれず、分析として不完全
-- MEV の完全排除が最適とは限らない —— 一部の MEV は市場効率のシグナル(アービトラージによる価格均衡)である
-
-## Open questions
-
-- ETH などの大規模チェーンは、プロトコル層で単一 validator 比率を硬性制限すべきか?
-- restaking(EigenLayer)は 4 変数フレームワークを再構築するか(「安全レンタル収益」次元を追加するか)?([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)
-- ZK / proof market の時代において、validator 経済と prover 経済はどう結合するか?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各 DEX の prover マーケットでの役割と対照)
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -72,4 +58,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - Cosmos SDK x/slashing モジュール仕様（二重署名罰 / ダウンタイム罰）— https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/README.md
 - Flashbots mev-boost（MEV / PBS）— https://github.com/flashbots/mev-boost
 - Vitalik Buterin「improving the Ethereum network's permissionlessness and decentralization」（クライアント / ステーキングプール集中度）— https://vitalik.eth.limo/general/2024/05/17/decentralization.html
-

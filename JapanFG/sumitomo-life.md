@@ -16,7 +16,6 @@ sources:
 
 # 住友生命保険相互会社 (Sumitomo Life)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nippon-life|日本生命保険相互会社 (Nippon Life)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -85,19 +84,15 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 資産運用 | 住友生命アセットマネジメント | グループ運用 |
 | 情報システム | スミセイ情報システム | SCSK と提携 |
 
-## 3. 戦略・競争
-
 ### 「Vitality」健康増進型保険でリーディング差別化
 
 - **2007 ライセンス取得 → 2018-07 商品化**: 南ア Discovery 社（Vitality 開発元）と提携、運動・健康習慣で保険料割引・特典付与の「行動変容型」モデル ^[extracted]
 - 日本大手 4 生保で **健康増進型** を本格商品化したのは住友生命が先行
-- 「保険を売る」から「健康を支援する」へのナラティブ転換、若年層・現役世代取り込みが狙い ^[inferred]
 
 ### 海外 2 軸プラットフォーム
 
 - **米国軸（Symetra）**: 2016-02 完全子会社化（約 5000 億円）。米生保・年金・医療保険中堅、住友生命の最大海外資産 ^[extracted]
 - **東南アジア軸（Singlife）**: 2017 出資開始 → 2024 完全子会社化。シンガポール拠点で東南アジア展開の足場 ^[extracted]
-- 日本生命（インドネシア・米国）・第一生命（Protective Life）・明治安田生命（[[meiji-yasuda]]、StanCorp）と同様、**大手 4 生保 海外 M&A 時代**の文脈 ^[inferred]
 
 ### 相互会社形態の含意
 
@@ -109,7 +104,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **大阪本拠地**: 住友グループ系列で関西経済圏に強固な顧客基盤
 - 東京本社と並列運営（首都圏営業強化）
-- 住友グループ各社（住友商事・住友化学・三井住友 FG 等）との横連携 ^[inferred]
 
 ## 4. 規制・政策
 
@@ -120,22 +114,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 国内予定利率・運用利回り改善余地
   - 2025〜 健康増進型保険の規制・税制論点（行動データ活用の個人情報保護）
   - 海外資産（Symetra・Singlife）の為替リスク・連結会計
-
-## Counterpoints
-
-- 「Vitality 先行者利益」観: 大手他社（日本生命・第一生命・明治安田）が同種商品で追随、先行優位の持続性は不確実 ^[inferred]
-- 「Symetra 投資の ROI」: 2016 約 5000 億円取得から 10 年経過、米金利環境変動の影響評価が必要 ^[ambiguous]
-- 「Singlife 完全子会社化（2024）」: 東南アジア基盤として有望 vs シンガポール市場規模の限界 ^[ambiguous]
-- 「相互会社形態の限界」: 資本市場アクセス不可（株式発行不能）→ 大型 M&A は内部留保 + 劣後債依存 ^[inferred]
-- 「明治安田生命との 4 位争い」: 保険料等収入で僅差、年により順位入替あり ^[extracted]
-
-## Open questions
-
-- Vitality 商品の継続率・行動データ活用の実効性（健康改善 → 保険金支払い減少の因果）?
-- Symetra（米）+ Singlife（東南アジア）の連結貢献度と次の海外 M&A ターゲット?
-- 相互会社形態維持 vs 株式会社化（第一生命型）の長期方針?
-- スミセイ情報システム・SCSK 提携の深化方向性（フィンテック・InsurTech 展開）?
-- 関西経済圏依存度と首都圏・地方シェア拡大戦略?
 
 ## Related
 

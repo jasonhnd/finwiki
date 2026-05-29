@@ -19,7 +19,6 @@ status: confirmed
 
 # 40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino
 
-
 ## Wiki route
 
 This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/larry-fink-blackrock-digital-asset-template|larry fink blackrock digital asset template]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -31,7 +30,6 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - 副次源 = Bitcoin保有($4B → $8Bへの含み益)+ 金 + 株式(Adecoagro / Exor) ^[extracted]
 - USDT流通総量 $144B(2026-Q1)、うちTron上が ~52.8%($76B) ^[extracted]
 - 主要な弱点 = KYCを持たない → 機関投資家市場に進入できない → 新興市場ユースケースで対冲せざるを得ない ^[extracted]
-- テンプレートの「完全クローズドな勝者総取り」性 → 規制が見逃せば全勝、規制が制裁に動けば全敗 ^[inferred]
 
 ## Mechanism / How it works
 
@@ -42,18 +40,6 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 ## Origin & evolution
 
 2014年にTetherはBitfinexが設立。2017-2019年は長期にわたって準備資産の虚偽疑惑を指摘されたが市場は受容を続けた。2021年にNYAGとの和解($18.5M罰金)+ CFTCとの和解($41M)— 規制対応は表層化したが本格的改正には至らず。2022-2023年のFed利上げ(0% → 5%)はTetherテンプレートの「暴利点火イベント」となった:$115Bの米国債 × 5% = 史上類を見ない規模で利息が発行体に帰属。2024-2025年には利益が $14B / $15.5Bを突破しテンプレートが検証された。2025-08にUSAT(米国コンプライアンス版、Anchorage Digital Bank発行)を発表 — 二系統戦略:USDTはグレー市場に留め、USATをコンプライアンス経路に投入。2026-05-21の香港ライセンス決定はテンプレートがグレーからコンプライアンスへ複製可能か否かを試す要諦。
-
-## Counterpoints
-
-- 高金利は永続しない → Fed利下げ後は利益が断崖を作る(100bps下落ごとに ~$1B+の減益)
-- テンプレートの「完全クローズド」性 → 主要新興市場のいずれか1国がUSDTを禁止すれば対冲業務がない(2022年のBUSD強制終了が類例)
-- 規制側が「利息を保有者に分配せよ」と強制するシナリオ(EUのMiCAは既にステーブルコインへの利息付与を禁止)ではテンプレートが崩壊 — TetherがEUで非運営なのはこのリスク回避
-
-## Open questions
-
-- 2026-05-21の香港ライセンス決定後、Tetherはコンプライアンスとグレーの二系統運営を長期にわたり維持できるか
-- 米ドル利下げサイクル(仮に2026 H2に開始)がテンプレートを毀損する速度はどの程度か
-- USATの米国内拡張はUSDC顧客を侵食するか(Tether内部で二系統が相互競合する構図)
 
 ## Related
 <!-- wiki-links:managed -->
@@ -70,4 +56,3 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - AG James ends Bitfinex's illegal activities — $18.5M settlement (NY Attorney General, 2021-02-23) — https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal
 - Tether fined $41 million by CFTC over reserve claims (Fortune, 2021-10-15) — https://fortune.com/2021/10/15/tether-crypto-stablecoin-fined-reserves/
 - Tether announces USA₮, federally regulated stablecoin issued by Anchorage Digital Bank (Tether official) — https://tether.io/news/tether-announces-the-launch-of-usat-the-federally-regulated-dollar-backed-stablecoin-made-in-america/
-

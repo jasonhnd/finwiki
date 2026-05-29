@@ -19,7 +19,6 @@ status: candidate
 
 # FATF Travel Rule · R.16 VASP $1,000 KYC 情報伝達
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -36,7 +35,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 2019-05 FinCEN FIN-2019-G001 が BSA Travel Rule の CVC 適用を明確化 ^[extracted]
 - 2024 米国 FATF MER は "Largely Compliant" ^[extracted]
 - 2026-Q3 FinCEN は米国閾値を $3,000 から $1,000 に引下案 (FATF と整合) ^[extracted]
-- Notabene + TRP の二プロトコルが 2026 年グローバル VASP 流量の約 80% をカバー ^[inferred]
 
 ## Mechanism / How it works
 
@@ -56,18 +54,6 @@ R.16 は VASP 送金 ≥ USD/EUR 1,000 で以下の共有を要求:**Originator*
 
 1996 FinCEN + Fed が BSA Travel Rule (31 CFR §1010.410(f)) を共同発表、もともと ≥ $3,000 wire のみカバー。2019-05 FinCEN FIN-2019-G001 が BSA Travel Rule の CVC 適用を明確化。2019-06 G20 Osaka summit で FATF が R.15 + R.16 暗号拡張を発表 → グローバル floor 確立。2024-12-30 EU TFR 2023/1113 が EU 閾値を EUR 0 に設定 (最厳格)。2026-Q3 FinCEN は米国閾値を $3,000 から $1,000 に引下案 (FATF と整合)。クロスボーダー四層 stack 詳細は [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule クロスボーダー stack]] を参照。
 
-## Counterpoints
-
-- プロトコル相互運用問題 · 中小 VASP の複数プロトコル接続コストが高く · 寡占化
-- DeFi が VASP かは依然解釈の余地あり (R.15 グレーゾーン)
-- self-hosted wallet 監督基準は未定 · 一部国家では送受信双方の KYC を強制
-
-## Open questions
-
-- FATF 2026 は DeFi 専用の R 条項を出すか?
-- self-hosted wallet は R.16 の強制 KYC に含まれるか?
-- Notabene/TRP 等の BTS は独占監督を招くか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -78,4 +64,3 @@ R.16 は VASP 送金 ≥ USD/EUR 1,000 で以下の共有を要求:**Originator*
 <!-- /wiki-links:managed -->
 
 ## Sources
-

@@ -53,8 +53,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
   └── FFG リース・FFG カード・FFG ベンチャービジネスパートナーズ 等
 ```
 
-## 3. 合併歷史・前身
-
 ### FFG 設立とグループ統合
 
 - **2007-04-02**: [[fukuoka-fg|FFG]] 設立 ([[fukuoka-bank|福岡銀行]] + 熊本ファミリー銀行 共同持株会社化)
@@ -65,8 +63,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ### FFG 証券 設立・展開
 
 - FFG グループ証券として、九州 3 県地盤 + 親 [[fukuoka-fg]] のデジタル戦略との連動を志向
-- 旧 福岡証券系の旧名称・再編経緯は親 FG 統合計画の一環 ^[inferred]
-- 銀証連携深化 (2010 年代以降の銀証ファイアウォール規制緩和を活用) ^[inferred]
 
 ## 4. KPI table (concept) ^[ambiguous]
 
@@ -77,7 +73,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | 銀証連携 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] 顧客紹介 |
 | 主要顧客層 | 九州中堅企業 + 富裕層個人 + 県内事業承継 |
 | 親会社 | [[fukuoka-fg]] 100% 出資 |
-| 業績開示 | [[fukuoka-fg]] 連結ベース ^[inferred] |
 
 > 注: 単体財務 KPI 精緻値は [[fukuoka-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
@@ -93,14 +88,11 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | M&A 仲介 | 事業承継・地域 M&A advisory |
 | 銀証連携 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] からの紹介取引 |
 
-## 6. 戦略・競争
-
 ### FG 内ポジション
 
 - **銀証連携の中核**: [[fukuoka-fg]] 顧客 (個人・中堅企業) の証券窓口
 - **資産運用 cross-sell**: 銀行預金 → 投信 / ファンドラップへの顧客移行
 - **事業承継・M&A**: 九州中堅企業オーナー向け advisory サービス
-- **デジタル連携**: みんなの銀行 (デジタルバンク) との将来サービス連携余地 ^[inferred]
 
 ### 競合構図
 
@@ -112,7 +104,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ### 強みと弱み
 
 - 強み: [[fukuoka-fg]] 3 県 21.9 兆円預金顧客基盤 (FY2025) + 九州中堅企業 main bank ネットワーク
-- 弱み: 単独規模では大手証券に大幅劣後、デジタル投資余力限定的 (みんなの銀行とのデジタル連携で補完狙い) ^[inferred]
 
 ## 7. 規制・政策
 
@@ -123,20 +114,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
   - 顧客本位の業務運営原則 (FD principle) 遵守
   - 高齢者投資勧誘ルール強化
   - 投信販売手数料の透明化・低水準化圧力
-
-## Counterpoints
-
-- 「地銀系証券 = 中途半端」論: 大手証券にもネット証券にも勝てない中間ポジション vs 銀証連携の優位性 ^[ambiguous]
-- 「みんなの銀行とのデジタル連携」: BaaS / API 経由の証券サービス連動の実効性 ^[inferred]
-- 「FG 内利益相反」: [[fukuoka-fg]] 銀行優先 vs 証券独立性のバランス ^[inferred]
-- 「九州統合圧力」: [[nishi-nippon-fhd]] 系・[[kyushu-fg]] 系証券との統合シナリオ ^[inferred]
-
-## Open questions
-
-- 預かり資産・口座数の最新規模は ([[fukuoka-fg]] セグメント情報で開示は限定的)
-- みんなの銀行デジタルバンクとの証券サービス連動具体策
-- 大手証券との将来統合・業務提携シナリオ
-- 九州 FG / 西日本 FHD 系証券との地域 broader アライアンス可能性
 
 ## Related
 

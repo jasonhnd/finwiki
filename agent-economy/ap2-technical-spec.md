@@ -15,7 +15,6 @@ status: candidate
 
 # AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/ap2-overview|AP2 · Google Agent Payments Protocol 概観]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
@@ -45,17 +44,6 @@ Wallet Adapter は AP2 の鍵となる抽象 — mandate と intent はいずれ
 W3C Verifiable Credentials 標準自体は W3C により 2019 から継続的に推進されており、Google は中核貢献者である。AP2 の spec 設計は VC モデルを直接 mandate コンテナとして借用し、新規の認可オブジェクトを発明していない — これにより既存の identity/DID エコシステム(Microsoft Entra Verified ID、Decentralized Identity Foundation 等)との統合コストを下げている。
 
 2025-09 ドラフト → 2026-Q1 v1.0、この間の主な調整は settlement adapter インタフェースと risk score スキーマに集中した。
-
-## Counterpoints
-
-Risk Score を Google 単独の AI が算出することは、**Google が暗黙的に AP2 ネットワークの fraud arbiter となる** ことを意味する — merchant は Google の判断を信頼するか?非 Google 系 merchant(特に EU)には vendor lock-in の懸念を生じさせ得る。さらに W3C VC 自体の撤回機構は status registry に依存しており、高 throughput な agent 決済シナリオでは registry の性能が潜在的ボトルネックになる(下層ウォレットは通常 [[systems/erc-4337-overview|ERC-4337]] ベース · UserOp 検証フローは [[systems/erc-4337-userop-bundler-flow|ERC-4337 bundler flow]] 参照)。
-
-## Open questions
-
-- mandate 撤回(ユーザーの事後キャンセル)のリアルタイム性は?Google は中央集権的な revocation registry を構築する必要があるか?
-- マルチ agent 協調決済(MCP のクロス agent 呼び出しチェーン)における mandate ネスト構造のセマンティクスは?
-- USDC settlement adapter と CCTP V2 の具体的ルーティング戦略は?
-- merchant 側 SDK は v1.0 後にオープンソース化されるか?
 
 ## Related
 <!-- wiki-links:managed -->

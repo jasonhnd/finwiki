@@ -18,7 +18,6 @@ sources:
 
 # GMO コイン (GMO Coin)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/monex-group|マネックスグループ (Monex Group)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -83,8 +82,6 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 | 2023〜2024 | NFT / Web3 領域への参入検討（GMO グループ全体としての方向性）|
 | 2024 | 親会社 GMO FHD 中期経営計画で「暗号資産・Web3 強化」明文化 |
 
-## 4. 戦略・競争
-
 ### GMO 金融エコシステム連携
 
 - **[[gmo-payment-gateway|GMO ペイメントゲートウェイ]]**（決済代行）→ 法人向け暗号資産決済への展開可能性
@@ -122,20 +119,6 @@ GMO インターネットグループ（9449 / 東証 PRIME）
   - **税制**：暗号資産損益 雑所得 累進課税 → 申告分離課税化要望（業界共通）
   - 法人保有暗号資産 期末時価評価 課税 → 改正進行中
   - JVCEA 取扱通貨審査の迅速化（業界共通課題）
-
-## Counterpoints
-
-- 「**第 00006 号** で最古参」観：登録順序は信頼性指標として強いが、Coincheck 事件後の業務改善命令（2018-03）受領歴は他社と同様 ^[extracted]
-- 「**レバレッジ取引** 主力」リスク：金商法 レバ規制（個人 2 倍）で個人収益は構造的に頭打ち。法人 OTC / ステーキング等への分散が進むか ^[inferred]
-- 「**GMO 金融エコシステム** 統合効果」：理論上は GMO クリック証券・GMO あおぞらネット銀行とのクロスセルが強み。実態としてはグループ内連携の温度差・顧客 ID 統合の遅れも指摘 ^[ambiguous]
-- 「**Web3 / NFT 参入の慎重さ**」：Coincheck NFT / Mercoin 等先行勢に対し、GMO は取引所本業集中。これが保守的か戦略的かは評価分かれる ^[ambiguous]
-
-## Open questions
-
-- 親会社 [[JapanFG/gmo-financial-hd|GMO FHD]] 中計 2024-26 における暗号資産事業の収益目標・KPI は？
-- 競合 [[sbi-hd|SBI VC Trade]] の急成長（XRP 軸）に対する GMO の差別化戦略は？
-- 米国子会社 GMO トラスト（GYEN / ZUSD 発行）との国内事業統合は？
-- 金商法 ETF（暗号資産現物 ETF）解禁シナリオで GMO のポジションは？
 
 ## Related
 

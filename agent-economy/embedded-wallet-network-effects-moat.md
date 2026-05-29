@@ -16,7 +16,6 @@ status: candidate
 
 # 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
@@ -27,7 +26,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 - Coinbase CDP のユーザー基盤 = Coinbase 90M+ 登録アカウント + Base エコシステム ^[extracted]
 - Privy は 2024.10 に $40M シリーズ B 完了(Ribbit / Sequoia / Paradigm) ^[extracted]
 - AWS AgentCore Payments は 2025.07 GA · Privy がデフォルト · ユーザーは Magic / Web3Auth に切替可能 ^[extracted]
-- 埋込型 wallet は GENIUS §501 フレンドリー(顧客残高を保有しない → 非 VASP) ^[inferred]
 
 ## Mechanism / How it works
 
@@ -65,14 +63,6 @@ AgentCore / AWS / 主要 SaaS ベンダーが追認(2025.07+)
 ## Origin & evolution
 
 2018-2022 = MetaMask 主導 · ユーザーが主体的にインストール。2023-2024 = Privy / Magic / CDP が b2b SaaS に切り込み · 1000+ dApps がデフォルト統合(技術基盤の普及は [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。2025.07 = AWS AgentCore が Privy をデフォルトに選定 · 埋込ウォレットは crypto ツールから汎用決済インフラへとアップグレードした。2025-2026 Tempo / Base / Arc エコシステムが集団で埋込ウォレットを採用する見込み(自社構築ではなく) · 「業界全体のデフォルト」構図が形成される。
-
-## Counterpoints
-
-「インテグレーターも vendor を変える」という反論:Privy が Stripe に買収された後、中立性は低下 · 非 Stripe マーチャントは CDP / Magic に転じる可能性があり · フライホイールは複数社が拮抗する構図に分裂する可能性がある。AWS default は実シェアと等価ではない — 「変更可能」条項により AWS 顧客の実選択は依然オープン。MetaMask は crypto-native のロングテールで代替不可能な地位を維持 · 埋込ウォレットは主に主流 SaaS を切り取るもので、MetaMask への真の脅威ではない。
-
-## Open questions
-
-インテグレーターのフライホイールがクリティカルマス(Privy + CDP 合計 > 50% dApp)に到達するのはいつか?Tempo / Arc エコシステムは Privy / CDP ではなく自社構築 wallet を選ぶか?AgentCore の実顧客のデフォルト選択比率はどれほどか?SAB 121 / OCC は埋込ウォレットを custodian と再定義するか?Apple Pay / Google Pay は自前の埋込 crypto wallet を構築して Privy に挑戦するか?
 
 ## Related
 <!-- wiki-links:managed -->

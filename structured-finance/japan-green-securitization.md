@@ -76,7 +76,6 @@ Japan does not have a binding statutory green-bond regime; the framework is **gu
 | Issuance structure | Monthly Pass-Through MBS structure (same as standard JHF MBS) with green label |
 | Investor base | Japanese institutional ESG / sustainable mandates plus foreign ESG investors |
 | Rating | High investment-grade (JHF-equivalent) |
-| Spread | Generally tight to standard JHF MBS — green-label premium has been small ^[inferred] |
 | Second-party opinion | Typically JCR or R&I SPO |
 
 The JHF green MBS series has become a benchmark for Japanese institutional ESG fixed-income mandates.
@@ -143,14 +142,6 @@ CBI certification is more stringent than ICMA Green Bond Principles alignment an
 - **"Japanese green securitization is just JHF green MBS at scale"** — partially true. Private green RMBS and renewable ABS are smaller but growing segments.
 - **"FIT-dependent renewable ABS is at risk from FIT regime changes"** — real risk; structured-credit underwriting models need to anticipate FIT-tariff change scenarios.
 - **"CBI certification is too costly for small deals"** — true; ICMA Green Bond Principles alignment + JCR/R&I SPO is the lower-cost alternative.
-
-## Open questions
-
-- Pace of EV-charging infrastructure ABS scaling as EV adoption increases.
-- Whether Japan will adopt a more statutory green / sustainable securitization framework aligned with EU GBS.
-- Long-run pricing benefit ("greenium") evolution in Japanese green securitization.
-- Cross-border green-securitization flow — whether Japanese green RMBS finds international ESG buyer demand.
-- Integration of Climate Bonds Initiative taxonomy with FSA / MOE Japan-domestic frameworks.
 
 ## Related
 

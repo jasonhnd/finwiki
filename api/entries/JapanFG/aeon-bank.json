@@ -50,14 +50,13 @@
     "重要子会社・関連",
     "2. 事業セグメント・マップ",
     "3. 沿革",
-    "4. 戦略・競争"
+    "流通系銀行モデル（差別化軸）"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 15,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/jcb",
-      "JapanFG/mufg",
       "JapanFG/seven-bank",
       "JapanFG/sony-fg",
       "banking/INDEX",
@@ -65,7 +64,6 @@
       "lawson-bank",
       "mizuho-fg",
       "mufg",
-      "payments/cashless-jp-landscape",
       "paypay-fg",
       "rakuten-fg",
       "retail/aeon-group",
@@ -76,7 +74,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/jcb",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/seven-bank",
       "https://finwiki.zksc.io/JapanFG/sony-fg",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -84,7 +81,6 @@
       "https://finwiki.zksc.io/lawson-bank",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg",
       "https://finwiki.zksc.io/retail/aeon-group",
@@ -96,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6637,
-    "word_like_tokens": 949,
+    "nonspace_chars": 5151,
+    "word_like_tokens": 769,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

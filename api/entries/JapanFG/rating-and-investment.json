@@ -47,8 +47,8 @@
     "重要年表",
     "2. 業務 map",
     "格付スケール",
-    "3. 競争・差別化",
-    "vs JCR"
+    "vs JCR",
+    "vs グローバル 3 大（S&P / Moody's / Fitch）"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3690,
-    "word_like_tokens": 583,
+    "nonspace_chars": 3576,
+    "word_like_tokens": 574,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

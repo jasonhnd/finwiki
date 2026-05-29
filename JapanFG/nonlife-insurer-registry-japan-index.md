@@ -55,12 +55,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the non-life counterpar
 | Domestic non-life insurance companies (内国損害保険会社) | ~30 ^[ambiguous — number shifts as direct / specialty / holding-company subsidiaries are added or merged] |
 | Foreign non-life insurance companies (外国損害保険会社等) | ~20 ^[ambiguous — list expands with foreign reinsurer branches] |
 | Lloyd's Japan platform | 1 entry, separate from foreign-insurer-branch rows ^[extracted] |
-| Specialist reinsurers (再保険専業) | 2 domestic ([[JapanFG/toa-reinsurance|Toa Re]], [[JapanFG/japan-earthquake-reinsurance|JER]]) + several foreign branches ^[inferred] |
-| Total non-life-protection-corporation member companies | mirrors FSA register member set ^[inferred] |
 
 The FSA file is updated on an irregular cadence; readers should always re-fetch the latest songai.pdf / songai.xlsx before treating any specific row count as final.
-
-## Cluster map
 
 ### A. 大手3社 — domestic holding-company groups (元受)
 
@@ -69,8 +65,6 @@ The FSA file is updated on an irregular cadence; readers should always re-fetch 
 | [[JapanFG/tokio-marine|Tokio Marine Holdings]] | [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] | [[JapanFG/tokio-marine-direct|Tokio Marine Direct]] (旧 e-design) ^[extracted] | [[JapanFG/nisshin-fire|Nisshin Fire & Marine]] ^[extracted] |
 | [[JapanFG/msad|MS&AD Holdings]] | [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] + [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] ^[extracted] | [[JapanFG/mitsui-direct|Mitsui Direct General]] ^[extracted] | — |
 | [[JapanFG/sompo|Sompo Holdings]] | [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] | [[JapanFG/sompo-direct|Sompo Direct]] (旧 Saison Automobile & Fire) ^[extracted] | — |
-
-The 大手3社 cluster collectively underwrites the vast majority of Japan's domestic auto, fire, and commercial non-life premium ^[inferred]. The holding-company / operating-company / direct-subsidiary / specialty-subsidiary split matters because cession flows, governance scope, and regulatory disclosure cut differently at each layer — see [[insurance/japan-nonlife-big-three]].
 
 ### B. Direct (digital / telco / EC) non-life insurers
 
@@ -106,7 +100,6 @@ Direct insurers compete on cost and customer-acquisition channel rather than tie
 | [[JapanFG/sbi-insurance-group|SBI Insurance Group]] | Group holding ^[extracted] | SBI group |
 | [[JapanFG/ji-accident-fire-insurance|JI Accident & Fire]] | Specialty accident / fire ^[extracted] | Specialty |
 | [[JapanFG/zenkankyo-reiwa-insurance|Zenkankyo Reiwa Insurance]] | Specialty ^[extracted] | Specialty |
-| [[JapanFG/rescue-insurance|Rescue Insurance]] | Travel / assistance ^[inferred] | Specialty |
 | [[JapanFG/hs-insurance|HS Insurance]] | Travel ^[extracted] | H.I.S. travel-affiliated |
 
 The specialty cluster reflects a 2010s-2020s structural shift: Japan's non-life premium has expanded into pet, outdoor, travel, mobility, telco-bundled, and EC-bundled niches that the 大手3社 cannot easily serve at their unit-cost base.
@@ -129,7 +122,6 @@ Foreign-affiliated direct insurers operate either as branches (外国損害保�
 
 | Entity | Notes |
 |---|---|
-| [[JapanFG/lloyd-japan|Lloyd's Japan Inc. / ロイズ・ジャパン株式会社]] | Lloyd's of London's licensed Japan platform; licensed 2000 ^[inferred] |
 
 Lloyd's Japan is structurally different from every other row on this list: it is the FSA-registered local channel through which Lloyd's syndicates write Japan-located risks, rather than a single risk-bearing carrier. See [[insurance/lloyds-japan-syndicate-operating-model]] for the syndicate-capacity model, marine / aviation / cyber / political-risk lines, and reinsurance-vs-direct boundary.
 
@@ -169,18 +161,6 @@ A standalone page is *not* required for every FSA row that is captured here. Lon
 4. **Use the foreign-affiliated cluster** when analysing inbound capital, cross-border specialty placement, or parent-group strategy.
 5. **Use the Lloyd's / reinsurer clusters** when the question is about risk transfer, marine / aviation / cyber capacity, or catastrophe cession.
 6. **Cross-check with capital framework** via [[insurance/global-solvency-framework-comparison-matrix]] when comparing across regimes — a Japan-licensed branch and its parent may sit on different solvency lenses.
-
-## Counterpoints
-
-- The FSA non-life register groups branches, subsidiaries, and reinsurers into one workbook; the cluster split on this page is editorial, not regulatory. ^[inferred]
-- The "大手3社" label is industry shorthand, not a regulatory category — there is no Insurance Business Act provision that gives the three holding companies a distinct status. ^[inferred]
-- Several "specialty" insurers are legally identical in licensing to multi-line incumbents; the specialty label reflects business model, not license type. ^[extracted]
-
-## Open questions
-
-- How does the FSA workbook treat Lloyd's syndicates that participate via Lloyd's Japan — as one row or as syndicate-level entries? See [[insurance/lloyds-japan-syndicate-operating-model]]. ^[ambiguous]
-- How many domestic non-life insurers are members of both the General Insurance Association of Japan (損保協会) and the Non-Life Insurance Policyholders Protection Corporation, and where do the lists diverge? ^[ambiguous]
-- Are there Japan-incorporated captives licensed under any non-FSA route that the FSA non-life workbook does not cover? See [[insurance/captive-insurance-japan-market]] for the offshore-dominated answer. ^[ambiguous]
 
 ## Related
 

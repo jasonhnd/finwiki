@@ -54,8 +54,8 @@
     "10 信漁連の構成 ^[extracted / inferred]",
     "JF Marine Bank system 内の北海道信漁連の位置付け ^[extracted]",
     "重要年表 ^[extracted / inferred]",
-    "2. 業務 map",
-    "4 大機能 (信漁連共通) ^[extracted]"
+    "4 大機能 (信漁連共通) ^[extracted]",
+    "北海道信漁連の固有業務 ^[inferred]"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8060,
-    "word_like_tokens": 1177,
+    "nonspace_chars": 6414,
+    "word_like_tokens": 953,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

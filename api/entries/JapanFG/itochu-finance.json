@@ -46,20 +46,19 @@
   "headings": [
     "伊藤忠ファイナンス (ITOCHU Finance Corporation)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "伊藤忠系金融機能の構造",
-    "「伊藤忠商事 + みずほ FG」連合の金融構造",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "伊藤忠商事の事業構造との関係",
-    "競合 / Peer"
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 18,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/aioi-nissay-dowa-insurance",
       "JapanFG/boj-monetary-policy",
       "JapanFG/famima-digital-one",
       "JapanFG/ja-mitsui-leasing",
@@ -80,7 +79,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
       "https://finwiki.zksc.io/JapanFG/famima-digital-one",
       "https://finwiki.zksc.io/JapanFG/ja-mitsui-leasing",
@@ -103,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5247,
-    "word_like_tokens": 678,
+    "nonspace_chars": 3525,
+    "word_like_tokens": 470,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

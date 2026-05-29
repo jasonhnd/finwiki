@@ -66,18 +66,6 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 - Treat high-risk merchant categories, cross-border transactions, subscriptions, digital goods, and event tickets as riskier than low-ticket daily retail.
 - Use [[payments/credit-purchase-card-operators-japan-index|credit purchase / card registry]] for card and merchant-contracting routes, then layer FSA registrations only when value transfer or prepaid value is involved.
 
-## Counterpoints
-
-- Public registries show legal status but not actual risk exposure, reserve policy, fraud loss, or merchant concentration.
-- PSPs can reduce merchant operational burden while also concentrating outage, reconciliation, and settlement risk.
-- Code-payment growth may shift risk from card chargebacks to wallet funding, account takeover, and refund / balance treatment.
-
-## Open Questions
-
-- Which Japanese PSPs publish enough disclosure to estimate reserve policy or settlement exposure?
-- How FinWiki represent PSPs that are registered card-number contract operators but not the final acquirer for every merchant?
-- Does stablecoin / EPI merchant payment create a new settlement-risk stack, or mostly reuse existing PSP controls?
-
 ## Related
 
 - [[payments/INDEX]]

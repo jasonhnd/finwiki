@@ -74,7 +74,7 @@ def site_url(path: str = "") -> str:
 def iter_markdown_files() -> Iterable[Path]:
     for path in ROOT.rglob("*.md"):
         rel = path.relative_to(ROOT)
-        if ".git" in rel.parts:
+        if ".git" in rel.parts or ".opinions" in rel.parts:
             continue
         yield path
 

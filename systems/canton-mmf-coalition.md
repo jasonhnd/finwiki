@@ -15,7 +15,6 @@ status: candidate
 
 # Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -47,18 +46,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 2024-2025 年は機関 tokenization の「路線選択」の窓口期に入った。BlackRock は BUIDL(2024-03 ローンチ)で公開チェーン経路の先発を確保し、2025 年中ごろに BUIDL TVL は $1B を突破。Canton 連合の反応:GS DAP は 2024-2025 年にかけて順次 MMF が入居 → BNY LiquidityDirect は 2025 年に銀行顧客向けに開放 → JPM Kinexys は 2026-01 に JPMD の主戦場を Canton へ移行すると発表 → DTCC Project Ion は 2026-10 にプラットフォーム全体ローンチ。
 
 時系列的にこれは **対応策**である —— Canton 連合は BlackRock が公開チェーンの高地を占拠した後、逆方向に閉ループスタックを構築し、価値を銀行体系内に再ロックする戦略を取った。
-
-## Counterpoints
-
-Canton 連合の弱点:**リテール/DeFi 入口の欠如**。機関顧客の collateral management は規模は大きいがユーザーベースは小さい;BlackRock BUIDL は Securitize を経由して、少なくとも暗号ネイティブユーザーと将来潜在的な DeFi 統合シナリオに到達できる。長期的には、次世代金融の「ユーザーマインドシェア」を誰が押さえるかが鍵となる。さらに Canton 連合内部の利益配分は非公開で、JPM/GS/BNY/DTCC 間の調整コストは連合が謳う「シームレス」より高い可能性。
-
-## Open questions
-
-- DTCC Project Ion の 2026-10 ローンチ後、実際の Treasury tokenization 規模は?
-- BlackRock は反撃するか —— 例えば Securitize 上で「BlackRock 自営 custody」をローンチするなど?
-- Canton 連合は EU の銀行(Deutsche Bank / BNP)まで拡大するか?
-- 長期 5-10 年視野で、機関 MMF におけるプライベートチェーン vs 公開チェーン経路の市場シェアは?
-- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED プライベートクレジット tokenization]] 等の RWA は順次 Canton 連合を選び、公開チェーンを避けるのか?
 
 ## Related
 <!-- wiki-links:managed -->

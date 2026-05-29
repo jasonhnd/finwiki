@@ -16,7 +16,6 @@ sources:
 
 # 明治安田生命保険相互会社
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nippon-life|日本生命保険相互会社 (Nippon Life)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -41,8 +40,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 配当は株主ではなく契約者に還元（契約者配当）
 - 上場できないため資本市場からの株式調達は不可、内部留保と劣後債が中心
 - 同形態の同業: [[nippon-life]]・住友生命・富国生命・朝日生命
-
-## 2. 合併経緯与年表
 
 ### 前身 2 系統
 
@@ -84,8 +81,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 不動産 | 明治安田米国不動産 等 | 大手町・丸の内オフィスビル保有 |
 | ヘルスケア | 健康増進型保険「ベストスタイル」等 | 健康年齢 / みんなの健活プロジェクト |
 
-## 4. 戦略・競争
-
 ### 経営方針（中計「MY ミューチュアル Way Ⅱ」）
 
 - **相互会社形態の堅持**: 上場せず、契約者還元を経営の中心に据える
@@ -126,10 +121,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 6. Counterpoints
 
-- 「相互会社の縛り」観: 上場できず M&A・資本調達自由度は株式会社系（[[dai-ichi-life]] 等）に劣る ^[inferred]
 - 「2005-2006 不払い事件」: 業界全体の信頼を毀損した歴史、再発防止コミットメント継続
-- 「StanCorp 集中リスク」: 米国 1 軸の海外戦略 → 為替・米景気・州規制連動 ^[inferred]
-- 「営業職員チャネル老朽化」: 対面型主力 vs ネット完結型新興（ライフネット・楽天生命等）の台頭 ^[inferred]
 - 「B2C ブランド露出 ROI」: Jリーグ・巨人スポンサーは認知に効くが、新契約獲得への直接寄与は計測困難 ^[ambiguous]
 
 ## 7. Open questions
@@ -139,8 +131,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 経済価値ベース・ソルベンシー規制（2025-04〜）下での余力・配当政策への影響は?
 - 営業職員チャネルのデジタル統合（ハイブリッド型）の進捗は?
 - [[nippon-life]]・[[dai-ichi-life]] との 4 社競争で、相互会社の優位性は持続可能か?
-
-## 8. Related & Sources
 
 ### Related
 

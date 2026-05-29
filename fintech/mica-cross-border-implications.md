@@ -19,7 +19,6 @@ status: candidate
 
 # MiCA クロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + USA-EU MRA 2026-Q3
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -54,18 +53,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2024-12 MiCA 全面施行 → 2024-12-30 EU TFR 2023/1113 施行 + USDT が EU 主要交易所で上場廃止 → 2025-01-17 [[fintech/dora-eu-digital-operational-resilience-overview|DORA]] 全条文施行 → 2025-08 Membrane Finance による Tether 買収交渉決裂 = EU 参入路完全閉鎖 → 2025-09 USDC が Significant EMT に指定。2026-Q3 USA-EU MRA 締結予定 = 三円 MRA 第 1 柱の実装。
 
-## Counterpoints
-
-- 2026-Q3 MRA タイムテーブルは政治変数に依存 · 延期の可能性
-- EURC 流通規模が小さい(€200-500M) · 双方向相互認証の実経済価値は片側(USDC → EU)に偏る
-- DAI / FRAX 等の MiCA 回避ルート(secondary market only)は EU DeFi に潜在的差別をもたらす
-
-## Open questions
-
-- USA-EU MRA 締結後、Tether は EU 子会社 / Membrane 経由で申請再開するか?
-- §501(d) 第 1 波の具体的なリスト入り国名(EU 全体 vs 国別)?
-- Sky DAO のシンガポール + ケイマン登記は MRA フレームワーク下で認定されるか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -76,4 +63,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

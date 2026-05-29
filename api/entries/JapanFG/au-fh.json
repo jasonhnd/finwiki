@@ -49,7 +49,7 @@
     "重要年表（抜粋）^[extracted]",
     "沿革トピック",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争"
+    "戦略コア：通信 × コンビニ × 金融 経済圏 + IPO 独立化"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9787,
-    "word_like_tokens": 1809,
+    "nonspace_chars": 8218,
+    "word_like_tokens": 1565,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

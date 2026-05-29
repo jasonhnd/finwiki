@@ -45,13 +45,13 @@
     "Sony Life group-life and Lifeplanner operating model",
     "Wiki route",
     "TL;DR",
-    "Channel architecture",
     "Lifeplanner channel (tied, consultative, individual life)",
     "Group life (集団保険) channel",
     "What is explicitly not in the channel",
     "Foreign-tech parent governance",
     "Sony FG re-buyout and capital architecture",
-    "Persistency and FA productivity"
+    "Persistency and FA productivity",
+    "Comparison to big-four sales-agency model"
   ],
   "body_links": {
     "wikilinks_count": 24,
@@ -111,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 20842,
-    "word_like_tokens": 3309,
+    "nonspace_chars": 18970,
+    "word_like_tokens": 2990,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

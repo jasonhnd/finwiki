@@ -49,14 +49,14 @@
   "headings": [
     "BoJ monetary policy",
     "TL;DR",
-    "Policy Framework",
     "Legal mandate",
     "Price-stability target",
     "MPM operating decision",
     "March 2024 regime shift",
     "Current checkpoint",
     "Money Market Operations",
-    "JapanFG Relevance"
+    "JapanFG Relevance",
+    "Tanshi / Bank Liquidity Link"
   ],
   "body_links": {
     "wikilinks_count": 6,
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10689,
-    "word_like_tokens": 1866,
+    "nonspace_chars": 9385,
+    "word_like_tokens": 1637,
     "inbound_wikilinks_count": 32,
-    "last_modified": "2026-05-20"
+    "last_modified": "2026-05-29"
   }
 }

@@ -62,7 +62,7 @@
     "International Group of P&I Clubs (IG) pooling"
   ],
   "body_links": {
-    "wikilinks_count": 24,
+    "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
       "JapanFG/aig-japan",
@@ -85,9 +85,7 @@
       "insurance/japan-nonlife-big-three",
       "insurance/lloyds-japan-syndicate-operating-model",
       "insurance/natcat-reinsurance-japan",
-      "mitsui-co",
-      "mitsui-osk-lines",
-      "nippon-yusen"
+      "mitsui-co"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -111,17 +109,15 @@
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/lloyds-japan-syndicate-operating-model",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/mitsui-co",
-      "https://finwiki.zksc.io/mitsui-osk-lines",
-      "https://finwiki.zksc.io/nippon-yusen"
+      "https://finwiki.zksc.io/mitsui-co"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15507,
-    "word_like_tokens": 2615,
+    "nonspace_chars": 9060,
+    "word_like_tokens": 1516,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

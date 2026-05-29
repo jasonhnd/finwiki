@@ -22,7 +22,6 @@ sources:
 
 # QBE Japan / QBEインシュアランス・ジャパン
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/lloyd-japan|Lloyd's Japan]] and [[JapanFG/fm-global-japan|FM Global Japan]] for foreign-specialty-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
@@ -63,19 +62,6 @@ The business model emphasizes broker-led distribution to multinational clients w
 - Clarifies QBE's Asia regional structure and Japan positioning within it.
 - Useful for understanding the foreign specialty layer of Japan's commercial insurance market, which sits beside the domestic [[insurance/japan-nonlife-big-three|non-life big three]].
 - Sets up reference for Australian-headquartered financial services in Japan, comparable in regulatory framework with peer Asia-Pacific carriers.
-
-## Counterpoints
-
-- QBE Japan's premium share is modest vs. domestic [[insurance/japan-nonlife-big-three|non-life big three]], with focus on specialty rather than broad commercial. ^[inferred]
-- QBE's strategic emphasis on Asia has fluctuated; periods of restructuring at group level (e.g., Asia portfolio reviews) can affect Japan presence over time. ^[inferred]
-- Limited public disclosure at Japan-entity level; financials are aggregated within QBE Group Asia segment. ^[inferred]
-
-## Open questions
-
-- What is QBE Japan's premium volume and product mix relative to QBE Asia's total?
-- How does QBE Japan position vs. [[JapanFG/lloyd-japan|Lloyd's Japan]] for Japan-originated specialty placements?
-- What is QBE's earthquake and typhoon exposure management approach for Japan commercial property?
-- How has QBE Japan's headcount and footprint evolved through QBE Group's various Asia restructurings?
 
 ## Related
 

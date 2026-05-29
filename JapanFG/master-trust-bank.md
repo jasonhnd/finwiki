@@ -16,7 +16,6 @@ sources:
 
 # 日本マスタートラスト信託銀行
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/custody-bank|日本カストディ銀行 (CBJ)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -42,8 +41,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 日本生命保険（[[nippon-life]]）| **33.5%** |
 | 明治安田生命保険（[[meiji-yasuda]]）| **10.0%** |
 | 農中信託銀行（[[norinchukin]] 系）| **10.0%** |
-
-> 株主構成は 4 社合弁 — メガバンク系信託 1 社 + 大手生保 2 社 + 農林系信託 1 社。三菱 UFJ 信託が筆頭株主だが過半（50%）に満たない設計で、生保・農林系も実質的発言力を持つ。^[inferred]
 
 ### 機能ポジション
 
@@ -81,10 +78,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **議決権行使代行** | 委託者指図に基づく議決権行使、ISS / Glass Lewis 等助言会社対応 | 機関投資家 |
 | **信託代理業務** | 信託受益権記録、エスクロー、特定金外信託 | 法人顧客 |
 
-> **取り扱わない業務**: 商業銀行業務（融資・預金）、リテール信託、相続・遺言信託、不動産信託 — これらは三菱 UFJ 信託本体や他信託銀行が担う。^[inferred]
-
-## 3. 戦略・競争
-
 ### 業界構造 — カストディ 2 強体制
 
 日本の資産管理専業信託は **2 強寡占**:
@@ -95,8 +88,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **[[custody-bank]]（日本カストディ銀行）** | [[sumitomo-mitsui-trust]] + [[mizuho-fg]] + りそな 系 | 2020-07 | 旧 日本トラスティ・サービス信託 + 資産管理サービス信託 統合 |
 
 > [[custody-bank]] は 2020-07 に旧 JTSB（日本トラスティ・サービス信託）+ JTC HD 系の資産管理サービス信託銀行（TCSB）を統合して発足。三井住友信託 + みずほ信託 + りそな等の合弁。マスタートラストと並び日本のカストディ 2 強。^[extracted]
-
-> 「日本マスタートラスト信託銀行（信託口）」と「日本カストディ銀行（信託口）」が上場企業有報の主要株主上位を分け合う構図。両者で日本上場株の **間接保有（custody）の過半**を担う。^[inferred]
 
 ### 「信託口」名義の意味
 
@@ -133,22 +124,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - カストディ DX / STP（Straight-Through Processing）
   - 株式決済 T+1 化 検討
   - 暗号資産・トークン化証券のカストディ対応
-
-## Counterpoints
-
-- 「主要株主筆頭＝実質支配」誤解: 信託口は名義人で、議決権・売買の実質意思決定は受益者（年金・投信）にある。有報の「主要株主」欄だけで企業支配構造を判断するのは誤り。^[extracted]
-- 「[[mufg]] 系＝MUFG 議決権」誤解: 三菱 UFJ 信託が筆頭株主（46.5%）でも、信託受託資産の議決権は委託者指図、MUFG が独自に行使するわけではない。^[extracted]
-- 「2 強寡占＝競争欠如」観: マスタートラスト vs [[custody-bank]] の 2 強体制は規模の経済を必要とするカストディ業務特性上、自然な集約。寡占批判より「インフラ機関化」評価が業界内主流 ^[inferred]
-- 「700 兆円受託＝日本最大の機関投資家」誤解: 受託資産は委託者の資産であり、信託銀行の自己資産ではない。マスタートラスト自身は「保管・管理者」であって「投資家」ではない ^[extracted]
-
-## Open questions
-
-- 受託資産 700 兆円超 の内訳（年金 vs 投信 vs 機関投資家別）の公開度は？
-- GPIF の下位カストディ契約の現状（マスタートラスト独占 vs [[custody-bank]] と分担）?
-- 株式決済 T+1 化（2027 想定）への対応投資規模？
-- トークン化証券（[[mufg]] Progmat 系）のカストディ対応ロードマップ?
-- 議決権電子行使プラットフォーム（ICJ 等）との連携深化?
-- [[custody-bank]] との将来的な統合・業務提携シナリオは（インフラ 1 社化）?
 
 ## Related
 

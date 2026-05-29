@@ -44,20 +44,17 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "agent-economy/embedded-wallet-network-effects-moat",
       "agent-economy/privy-embedded-wallet-overview",
       "fintech/INDEX",
       "fintech/onchain-finance-vs-crypto-bifurcation",
-      "fintech/usd-stablecoin-interchange",
       "systems/INDEX",
       "systems/bft-validator-economy-overview",
       "systems/chain-abstraction-pattern-three-solutions",
@@ -70,7 +67,6 @@
       "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/bft-validator-economy-overview",
       "https://finwiki.zksc.io/systems/chain-abstraction-pattern-three-solutions",
@@ -81,8 +77,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3584,
-    "word_like_tokens": 448,
+    "nonspace_chars": 2949,
+    "word_like_tokens": 388,
     "inbound_wikilinks_count": 14,
     "last_modified": "2026-05-29"
   }

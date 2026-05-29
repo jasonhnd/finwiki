@@ -56,7 +56,7 @@
     "4. Capital and leverage",
     "5. Diversified vs pure-play J-REIT",
     "6. NMF's role in the J-REIT ecosystem",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -106,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10330,
-    "word_like_tokens": 1677,
+    "nonspace_chars": 8856,
+    "word_like_tokens": 1450,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

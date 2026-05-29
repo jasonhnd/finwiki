@@ -49,12 +49,12 @@
     "TL;DR",
     "Wiki route",
     "1. Representative top-of-market J-REIT (alphabetical)",
-    "2. Comparison axes",
     "2.1 Sponsor and asset focus",
     "2.2 Scale and leverage",
     "2.3 DPU yield and foreign-investor relevance",
     "3. Trustee mapping — public-surface reference",
-    "4. Comparison reading guide"
+    "4. Comparison reading guide",
+    "5. Source-control checklist"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10781,
-    "word_like_tokens": 1777,
+    "nonspace_chars": 9301,
+    "word_like_tokens": 1517,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

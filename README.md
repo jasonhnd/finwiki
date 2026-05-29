@@ -18,8 +18,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約1056万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,557,906） |
-| Word-like tokens | 約167万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約977万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,772,904） |
+| Word-like tokens | 約155万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-05-29 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
@@ -141,8 +141,8 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~10.56M chars | ~10,557,906 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.67M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~9.77M chars | ~9,772,904 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.55M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-05-29 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
@@ -249,8 +249,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约1056万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,557,906） |
-| Word-like tokens | 约167万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约977万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,772,904） |
+| Word-like tokens | 约155万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-05-29 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 

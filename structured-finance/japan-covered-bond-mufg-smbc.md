@@ -62,8 +62,6 @@ Covered bonds combine elements of **senior unsecured** (issuer credit) and **[[s
 
 The **contractual** rather than statutory Japanese structure is a key feature: Japan has not enacted a domestic covered-bond law, so each program is engineered using SPV and security-agreement contracts to replicate the dual-recourse plus cover-pool-segregation features.
 
-## 3. The Japanese megabank programs — MUFG and SMBC
-
 ### MUFG Bank covered bond program
 
 | Item | MUFG covered bond detail |
@@ -92,8 +90,6 @@ The **contractual** rather than statutory Japanese structure is a key feature: J
 
 Both programs are designed to be **UCITS Article 52(4) compliant** so that European banks' liquidity buffers and ALM books can hold them at favorable regulatory treatment.
 
-[[JapanFG/mizuho-bank|Mizuho Bank]] has historically been a less active covered-bond issuer than MUFG and SMBC ^[inferred]; specifics vary by program activity.
-
 ## 4. Cover pool composition — residential mortgages
 
 | Cover-pool feature | Japanese megabank pattern |
@@ -113,7 +109,6 @@ The **currency mismatch** between JPY-denominated cover-pool assets and EUR/USD 
 | Funding instrument | Approximate pricing position |
 |---|---|
 | MUFG / SMBC senior unsecured EUR/USD bond | Pricing reference |
-| MUFG / SMBC **covered bond** | **Inside senior unsecured by some bps** (reflecting dual-recourse premium for investors) ^[inferred] |
 | MUFG / SMBC senior preferred / TLAC | Wider than senior unsecured |
 | MUFG / SMBC senior non-preferred / subordinated | Wider still |
 | MUFG / SMBC AT1 / Tier 2 | Widest |
@@ -149,14 +144,6 @@ The two instruments are **complementary**, not substitutes. Covered bonds are a 
 - **"Cover-pool currency mismatch creates basis risk"** — addressed via cross-currency swap overlay, but the swap counterparty risk is part of the structure.
 - **"Japan should pass a covered-bond statute"** — debated. A statutory framework would tighten pricing further but would require legislative effort; absence of statute has not blocked the megabanks from issuing in size.
 - **"Covered bond cannibalizes RMBS issuance"** — minimal evidence. The two instruments serve different functions for the issuer.
-
-## Open questions
-
-- Whether Japan's FSA / Diet will pursue a domestic covered-bond statute (current trend appears to remain contractual).
-- Whether smaller Japanese banks (regional banks, trust banks) will develop covered-bond programs at scale.
-- Pricing implications of BoJ rate normalization on EUR/USD-funded covered bonds with JPY-denominated cover pools.
-- Whether European covered-bond regulatory tightening under the EU Directive affects Japanese-program UCITS qualification.
-- Long-run substitution dynamics between covered bonds, senior unsecured, and RMBS in megabank funding mix.
 
 ## Related
 

@@ -45,14 +45,14 @@
   "headings": [
     "双日フィナンス (Sojitz Finance)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "双日と銀行系列",
     "双日系金融機能の配置",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "双日の事業構造と金融機能",
-    "競合 / Peer"
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5676,
-    "word_like_tokens": 765,
+    "nonspace_chars": 3698,
+    "word_like_tokens": 519,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

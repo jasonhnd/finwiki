@@ -61,8 +61,6 @@ Definition is principle-based. A stake may be reclassified between pure-investme
 
 CG code is "comply or explain". Listed corporates must publish their policy on policy-holdings, the board-review process, and individual holding-by-holding economic rationale.
 
-## Accounting treatment
-
 ### IFRS 9 (for issuers applying IFRS)
 
 | Field | Treatment |
@@ -199,22 +197,6 @@ Policy-holding stock affects regulatory capital and capital-efficiency ratios:
 ## TSE PBR-1x initiative
 
 TSE Prime market introduced explicit pressure on listed companies with persistent PBR below 1x to publish capital-efficiency plans. Cross-shareholding disposal is a common lever cited in these plans, alongside buybacks, dividend increases, and asset disposals.
-
-## Counterpoints
-
-- Disposal pace data varies by source; CG-report disclosures lag market reality.
-- Non-recycling FV-OCI accounting removes immediate P&L upside but does not eliminate underlying value transfer.
-- Reciprocal counter-holders may face coordination friction in symmetric unwinds.
-- Strategic-rationale retention can be defensible; not all policy-holdings are equally inefficient.
-- Tax friction on disposal gain remains a real deterrent to faster pace.
-
-## Open questions
-
-- Will FSA / METI escalate from soft pressure to harder rules if pace stalls?
-- How will activist coalitions affect timing of large megabank disposals?
-- Will exchangeable bond monetisation grow as a disposal route? (See [[finance/japan-convertible-bond-mechanics|CB mechanics]].)
-- How will [[banking/regional-bank-consolidation-pattern|regional bank consolidation]] affect mid-sized bank cross-shareholdings?
-- Will domestic institutional buy-side absorption capacity match accelerated disposal supply?
 
 ## Related
 

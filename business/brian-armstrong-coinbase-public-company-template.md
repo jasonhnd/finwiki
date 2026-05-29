@@ -43,8 +43,6 @@ This entry sits under [[business/INDEX|business INDEX]]. Read it with [[business
 - **Fairshake PAC** — Coinbase was publicly disclosed as one of the largest corporate contributors to Fairshake (crypto-aligned super-PAC) for the 2024 US election cycle. FEC filings public.
 - **GENIUS Act / FIT21** legislative work — Coinbase publicly campaigned for both bills, with Armstrong personally testifying / commenting in public hearings (House Financial Services and House Agriculture Committee hearing records).
 
-## Operating template — the four-part Armstrong / Coinbase pattern
-
 ### Part 1 · Public-company structure from day one of listing
 
 The 2021 direct listing instead of a traditional IPO is the structural decision that sets the template apart from earlier exchange listings.
@@ -164,20 +162,6 @@ Coinbase's geographic footprint as disclosed in public filings shows a deliberat
 The Japan exit (announced via Coinbase blog post in early 2023, citing market conditions) is itself an instructive datapoint — even a well-capitalised listed-exchange template did not find the [[exchanges/jp-listed-cex-related-companies-matrix|Japanese VASP framework]] viable as a standalone business segment at the scale Coinbase needed, while remaining in higher-volume regulated jurisdictions.
 
 The **multi-domicile regulated-entity stack** is expensive to maintain (legal, compliance, capital, audit duplicated per jurisdiction) and is itself a moat against newer entrants without the listed-company balance sheet to fund it.
-
-## Counterpoints
-
-- The strategy of public confrontation with the SEC depended on a political-regime change that Coinbase could not control unilaterally. A counterfactual where SEC leadership remained on the 2022-2024 trajectory would have made the strategy materially more costly.
-- The dual-class structure that preserves founder control is governance-criticised by major institutional investors (CalPERS, CII positions on dual-class are public) — Armstrong's voting control is a feature for execution speed but a bug for institutional governance signalling.
-- The USDC revenue-share with Circle is a structurally important but disclosed-related-party contract; Coinbase's earnings are sensitive to the Circle relationship in a way 10-K risk factors flag.
-- Lobbying spend and PAC contributions are public, but the political-economy critique — that listed crypto firms have outsized influence on US legislation via concentrated PAC giving — has been raised publicly by think-tanks and academics.
-
-## Open questions
-
-- How does the Armstrong / Coinbase template translate to non-US jurisdictions where listing rules and regulatory perimeters differ — does the direct-listing route work in Tokyo, London, Singapore?
-- What is the steady-state US licensing structure for spot crypto exchanges after FIT21 / GENIUS Act / Atkins-SEC clarifications mature?
-- Will the dual-class founder-control structure survive a generational handoff if Armstrong steps back as CEO — what is the public-disclosed succession plan?
-- How does the listed-exchange template compete with the offshore-anchor template ([[business/paolo-ardoino-tether-business-model-template|Tether]]) in the long run, and which structure dominates in market-share terms by 2030?
 
 ## Related
 

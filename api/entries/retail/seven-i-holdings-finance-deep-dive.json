@@ -64,7 +64,7 @@
     "Comparison vs AEON Financial Service"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -79,7 +79,6 @@
       "payments/cashless-jp-landscape",
       "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-code-payment-operator-2025-market-share-matrix",
-      "payments/zengin-system-3-domain-architecture-deep",
       "retail/INDEX",
       "retail/aeon-group",
       "retail/japan-retail-financial-distribution-wedge-matrix",
@@ -101,7 +100,6 @@
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
       "https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix",
-      "https://finwiki.zksc.io/payments/zengin-system-3-domain-architecture-deep",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/aeon-group",
       "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix",
@@ -113,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16285,
-    "word_like_tokens": 2694,
+    "nonspace_chars": 13951,
+    "word_like_tokens": 2282,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

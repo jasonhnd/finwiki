@@ -16,7 +16,6 @@ sources:
 
 # ライフネット生命保険 (LifeNet Insurance)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
@@ -70,8 +69,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **書類不要・対面不要**（電子申込）が原則
 - 営業職員 / 来店ショップは持たない → 固定費が小さい構造 ^[extracted]
 
-## 3. 戦略・競争
-
 ### コア戦略
 
 1. **「シンプル & トランスペアレント」**: 商品設計・保険料・約款の透明化（保険料の内訳開示等が当時話題）^[extracted]
@@ -90,7 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2015 | **KDDI 出資・戦略提携**開始 → au 経済圏連携加速 ^[extracted] |
 | 2018-2024 | **黒字化・成長フェーズ**（保有契約件数拡大、ARPU 改善）^[extracted] |
 | 2022 | 東証市場区分再編 → **マザーズ → グロース**移行 ^[extracted] |
-| 2024〜 | 中期経営計画フェーズ、KDDI 連携深耕 ^[inferred] |
 
 ### 競合マップ
 
@@ -103,8 +99,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **楽天生命** | 楽天 G 傘下 | 楽天ポイント経済圏 |
 | **PayPay ほけん**（少額短期）| ソフトバンク [[paypay-fg]] | スーパーアプリ動線 |
 
-> 主戦場は「**経済圏連携 × 若年層獲得**」。ライフネットは au 経済圏側、楽天生命は楽天経済圏、PayPay ほけんはソフトバンク経済圏という 3 すくみ構図 ^[inferred]
-
 ### コーポレートメッセージ
 
 - 「**正直に わかりやすく、安く、便利に**」を創業時から掲げる ^[extracted]
@@ -116,25 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **業界団体**: 生命保険協会（加盟）
 - **ソルベンシー・マージン比率**: 保険業法に基づき定期開示
 - **直近政策論点**:
-  - **少子高齢化** → 若年層市場の縮小リスク（ターゲット層が縮む構造課題）^[inferred]
-  - **保険業法 GLB 規制** → 銀行 / 通信 / 保険のクロスセル規律（KDDI 経済圏連携の論点）^[inferred]
-  - **電子契約 / 完全デジタル本人確認**（eKYC）→ ライフネット型ビジネスを後押し ^[inferred]
-
-## Counterpoints
-
-- **「ネット生保 = 価格訴求 = 単価低い」構造**: ARPU が伝統生保より大幅に低く、保有契約件数を相当積み上げないと利益絶対額が出にくい ^[inferred]
-- **「若年層偏重 → 解約率」リスク**: 20-30 代は家計変動・ライフイベントで解約しやすく、継続率管理が経営のキモ ^[inferred]
-- **「KDDI 依存度」**: 約 28% を握る戦略株主との関係性が経営自由度・他経済圏（楽天・PayPay）との提携を制約する可能性 ^[ambiguous]
-- **「ネット完結の限界」**: 高額終身 / 変額 / 法人保険等の複雑商品は対面チャネル優位、ライフネットは商品ライン拡張に限界がある ^[inferred]
-- **「医療・がん領域の競争過熱」**: アフラック・チューリッヒ・大手ネット販売との価格競争 → 利益率圧迫 ^[inferred]
-
-## Open questions
-
-- KDDI [[au-fh]] による **完全子会社化シナリオ**（TOB）の可能性は？ 現在約 28% 保有、au フィナンシャル HD への完全取り込みは戦略的に整合
-- 中計（2024〜）の **黒字定着 → ROE 改善ロードマップ**は？
-- **海外展開** の有無（東南アジアでの D2C 生保モデル輸出可能性）
-- **AI 引受 / 査定** の導入度合いと差別化効果
-- **PayPay ほけん / 楽天生命** との経済圏間競争の中長期勝者は？
 
 ## Related
 

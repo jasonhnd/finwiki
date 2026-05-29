@@ -63,12 +63,12 @@
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
-    "Per-operator sections",
     "Net Protections HD (NP 後払い, TSE PRIME 7383)",
     "atone (Net Protections subsidiary)",
     "Kuroneko Atobarai (Yamato Financial Holdings)",
     "GMO Postpay (GMO Payment Gateway group)",
-    "Paidy (PayPal-owned)"
+    "Paidy (PayPal-owned)",
+    "Komoju Atobarai (Degica)"
   ],
   "body_links": {
     "wikilinks_count": 56,
@@ -192,9 +192,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 36032,
-    "word_like_tokens": 5810,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "nonspace_chars": 34633,
+    "word_like_tokens": 5566,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-05-29"
   }
 }

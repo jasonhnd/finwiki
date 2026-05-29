@@ -46,8 +46,8 @@
     "主要子会社・関連（金融セグメント中心）",
     "重要年表（金融セグメント中心・公開情報ベース）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "「楽天経済圏」モデル"
+    "「楽天経済圏」モデル",
+    "EC 軸の独自性（vs 通信系 / メガバンク系）"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6767,
-    "word_like_tokens": 1233,
+    "nonspace_chars": 6114,
+    "word_like_tokens": 1145,
     "inbound_wikilinks_count": 40,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

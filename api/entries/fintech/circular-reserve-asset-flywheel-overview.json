@@ -45,17 +45,14 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/apollo-acred-private-credit-tokenization",
       "fintech/blackrock-buidl-sc-issuer-adoption",
       "fintech/circular-reserve-asset-flywheel-risk-cases",
       "fintech/genius-act-501-denylist-mandate",
@@ -68,7 +65,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
       "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-risk-cases",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
@@ -82,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3099,
-    "word_like_tokens": 477,
+    "nonspace_chars": 2490,
+    "word_like_tokens": 391,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

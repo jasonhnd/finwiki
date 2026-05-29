@@ -52,8 +52,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
   └── 常陽キャピタル / 足利キャピタル ── 地域投資・コンサル系
 ```
 
-## 3. 合併経緯・前身
-
 ### 旧 常陽証券系譜
 
 - **1944**: 常陽証券 設立 ([[joyo-bank|常陽銀行]] 系証券子会社)
@@ -63,8 +61,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ### めぶき FG 設立とグループ統合
 
 - **2016-10-01**: [[mebuki-fg|めぶき FG]] 設立 ([[joyo-bank|常陽銀行]] + [[ashikaga-bank|足利銀行]] 共同株式移転)
-- FG 設立後、グループ証券機能の再編と銀証連携深化を推進 ^[inferred]
-- **めぶき証券** 名称統一は FG 統合後のブランド再編の一環 ^[inferred]
 
 ## 4. KPI table (concept) ^[ambiguous]
 
@@ -75,7 +71,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | 銀証連携 | [[joyo-bank]] / [[ashikaga-bank]] 顧客紹介・共同店舗 |
 | 主要顧客層 | 北関東中堅企業 + 富裕層個人 + 県内事業承継 |
 | 親会社 | [[mebuki-fg]] 100% 出資 |
-| 業績開示 | [[mebuki-fg]] 連結ベース ^[inferred] |
 
 > 注: 単体財務 KPI 精緻値は [[mebuki-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
@@ -90,8 +85,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 | IPO 取次 | 北関東 IPO 案件取次 (主幹事は大手) |
 | M&A 仲介 | 事業承継・地域 M&A advisory |
 | 銀証連携 | [[joyo-bank]] / [[ashikaga-bank]] からの紹介取引 |
-
-## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -109,7 +102,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 ### 強みと弱み
 
 - 強み: [[joyo-bank]] / [[ashikaga-bank]] 顧客基盤 + 北関東中堅企業 main bank ネットワーク
-- 弱み: 単独規模では大手証券に大幅劣後、デジタル投資余力限定的 ^[inferred]
 
 ## 7. 規制・政策
 
@@ -120,20 +112,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
   - 顧客本位の業務運営原則 (FD principle) 遵守
   - 高齢者投資勧誘ルール強化
   - 投信販売手数料の透明化・低水準化圧力
-
-## Counterpoints
-
-- 「地銀系証券 = 中途半端」論: 大手証券にもネット証券にも勝てない中間ポジション vs 銀証連携の優位性 ^[ambiguous]
-- 「単独存続困難」論: 預かり資産 / 手数料収益規模で大手 IB に劣後、統合 / 売却シナリオ ^[inferred]
-- 「FG 内利益相反」: [[mebuki-fg]] 銀行優先 vs 証券独立性のバランス ^[inferred]
-- 「デジタル投資余力」: 地銀系証券単独で対面 → デジタルへの transition 投資は限定的 ^[inferred]
-
-## Open questions
-
-- 預かり資産・口座数の最新規模は ([[mebuki-fg]] セグメント情報で開示は限定的)
-- 大手証券 ([[smbc-nikko]] / [[nomura-hd]]) との将来統合・業務提携シナリオ
-- 銀証連携深化策の具体的 KPI 目標
-- [[ffg-securities]] / [[okasan-sg]] 等の地銀系・中堅証券との broader アライアンス可能性
 
 ## Related
 

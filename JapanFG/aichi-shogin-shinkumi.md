@@ -28,10 +28,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) representative of the 商銀系 (in-Japan Korean business) shinkumi network**, complementing [[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai) and routing through [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] for the broader 143-cooperative population.
 
-## TL;DR
-
-信用組合愛知商銀は、愛知県名古屋市中村区亀島に本店を置く **在日韓国・朝鮮人系の事業者を母体とする民族系信用組合**。FSA registry No. 82 (東海財務局所管)、法人番号 1180005003442。中京 (愛知・岐阜・三重) 地区の **商銀系民族信組**の代表行で、[[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]] (関西)・東京商銀信用組合 (関東) と並ぶ **商銀系三大代表**の一翼 ^[inferred]。[[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[JapanFG/dic|預金保険機構]] 対象。組合員資格は **業域 (商工業) + 民族コミュニティ**の二重構造、名古屋・愛知県内 SME 融資・住宅ローン・跨境送金・コミュニティ金融が事業の中核。^[extracted]
-
 ## 1. 法人概要
 
 | 項目 | 内容 |
@@ -48,13 +44,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | ホームマーケット | 愛知県 (名古屋圏 + 周辺) + 中京三県 |
 | 信組類型 | **業域 + 民族系信用組合** (在日韓国・朝鮮人系・商銀系) |
 
-## 2. 営業地区・組合員資格
-
 ### 営業地区 ^[inferred]
 
 - **本店**: 名古屋市中村区亀島 (名古屋駅・新幹線駅西側エリア、在日コミュニティ集中地区の一つ)
 - **支店網**: 名古屋市内中心 + 愛知県内主要市 (豊橋・岡崎・一宮・春日井等) の在日商工人事業所集中地区
-- **広域営業**: 岐阜・三重を含む中京三県の在日商工人を組合員に取り込む傾向 ^[inferred]
 
 ### 組合員資格 ^[extracted]
 
@@ -80,8 +73,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | 丸八信用組合 | 名古屋市中区三の丸 | 県職員系 |
 
 > 注: 愛知 8 信組は **業域 / 民族系 / 地域型** の多層構造を体現、信組業態の多様性が読み取れる。
-
-## 3. 系統内位置・商銀系ネットワーク
 
 ### 全信組連内の位置付け
 
@@ -112,8 +103,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | 2003〜 | 受け皿信組への事業譲渡 + **商銀系信組の再編・統合**進行 |
 | 2010 年代〜 | 在日コミュニティの世代交代対応 + AML/CFT 強化 |
 
-## 4. 業務 map
-
 ### 主要業務 ^[extracted]
 
 | 業務 | 内容 |
@@ -142,8 +131,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 | 総資産 | 数千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
 | 預金残高 | 数千億円規模 | ^[ambiguous] |
 | 貸出金 | 数千億円規模 | ^[ambiguous] |
-| 自己資本比率 | 信組基準 (4% 以上) を維持 | ^[inferred] |
-| 店舗数 | 十数店舗 | ^[inferred] |
 | 組合員数 | 万人台規模 | ^[ambiguous] |
 
 > 注: 最新数値は愛知商銀ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
@@ -157,23 +144,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
   - **AML/CFT 強化** (跨境送金監視) — 民族系信組固有規制対応コスト
   - **組合員世代交代** (在日 2 世・3 世以降の信組離れリスク)
   - **韓国系銀行の中京進出** — 新韓銀行名古屋支店等との競合
-  - **信組業界全体での再編・統合圧力** ^[inferred]
-
-## Counterpoints
-
-- **民族系信組の存在意義論争**: 在日コミュニティの世代交代 + 一般日系金融機関のサービス充実で **民族系信組固有需要が縮小**するリスク vs **コミュニティ密着** の独自価値 ^[ambiguous]
-- **中京 SME 競合過密**: [[JapanFG/mufg|三菱UFJ銀行]] (旧東海銀行ホームマーケット)・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]]・[[JapanFG/aichi-bank|愛知銀行]]・[[JapanFG/nagoya-bank|名古屋銀行]] + 名古屋圏信金との直接競合で **規模デメリット** ^[inferred]
-- **2002〜2003 信組危機の長期影響**: 不良債権処理を経た再編体制ゆえ **慎重な経営姿勢** が成長機会の制約 ^[inferred]
-- **跨境送金規制対応コスト**: 民族系信組固有の韓国向け送金需要が AML/CFT 規制対応コストを増大、小規模信組には負担大 ^[inferred]
-
-## Open questions
-
-- **最新総資産・預金・貸出規模** (組合員向け事業報告書を要参照)
-- **2002〜2003 信組危機後**の具体的統合経緯
-- **商銀系全国ネットワーク**の現存規模 (再編後の系統 mapping)
-- **韓国系銀行 (新韓・KEB ハナ・ウリ等)** との競合・協力関係
-- **AML/CFT 強化**に伴う送金業務への影響度
-- **中京三県** (愛知・岐阜・三重) を跨ぐ営業展開の実態
 
 ## Related
 

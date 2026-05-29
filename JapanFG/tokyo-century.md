@@ -16,7 +16,6 @@ sources:
 
 # 東京センチュリー株式会社 (Tokyo Century Corporation)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -59,8 +58,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **芙蓉総合リース ([[fuyo-lease]])** ── みずほ系の別軸
 - **SMFL（三井住友ファイナンス&リース）** ── [[smfg]] 内、住友商事系合弁
 
-## 2. 沿革
-
 ### 2 つの前身
 
 東京センチュリーは **2 つのリース会社の合併** で生まれた。
@@ -84,8 +81,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2024 | 中期経営計画 更新 |
 
 2009 年の統合は、みずほ FG (旧 DKB 第一勧銀 + IBJ 興銀 + 富士銀行) 内に複数並立していた**系列リース会社の整理**という文脈で行われた。旧 第一勧銀系の センチュリー・リーシング・システム と 旧 第一銀行 / 長銀系の 東京リース が一体化することで、みずほグループ内のリース機能を集約した。2016 年の「リース」削除はオリックスが既に「総合金融」化していたのに倣う動き。
-
-## 3. 事業セグメント・マップ（戦略）
 
 ### コア事業
 
@@ -128,20 +123,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 2024〜 日銀政策金利正常化 → 借入コスト上昇圧力 vs リース料金転嫁の遅延リスク
 - 2024〜 EV・脱炭素 → フリート EV 化・再エネ PPA 需要拡大は追い風
 - 2025〜 米国金利環境 → ACG 航空機リース利回りに影響、ドル建て資金調達コスト変動
-
-## Counterpoints
-
-- 「みずほ + 伊藤忠の 2 軸」は安定性 vs 意思決定の遅さ両論 ^[ambiguous]
-- 航空機リース集中（ACG）はリターン高い vs パンデミック型ショック耐性に課題（2020-2021 コロナ局面で航空機リース業界は深刻な打撃を受けた）^[inferred]
-- オリックスのような「金融複合体」化を目指すのか「専業大手リース」に留まるのか戦略の方向性は外部からはやや不透明 ^[ambiguous]
-
-## Open questions
-
-- ACG（航空機リース米子会社）の業績ボラティリティをどう吸収するか
-- 環境/再エネ事業の収益化スピードは？ オリックスの再エネ事業との比較
-- 伊藤忠商事との協業深化シナリオ（モビリティ・海外プロジェクト）
-- みずほ FG 内 [[fuyo-lease]] 芙蓉総合リースとの棲み分け再編は今後あるか
-- 2024 中計の海外売上比率目標達成度
 
 ## Related
 

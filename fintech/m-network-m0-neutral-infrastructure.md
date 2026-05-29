@@ -18,7 +18,6 @@ status: candidate
 
 # M^0 / M Network · 中立ステーブルコイン・インフラ · 「スイス銀行モデル」
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -45,14 +44,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2024-10 M^0 v1 メインネット稼働。2025 H2 に **BlackRock + Goldman + Bain Capital + Pantera** $40M+ 調達完了 = トークン化 MMF 首位 + 一流投資銀行 + 一流 crypto VC の三方裏付けを同時取得。2026-Q1 Bridge(Stripe)と「インフラ連合」共同構築を議論(進捗不明)。**$M トークン設計は MakerDAO MKR に類似**:保有者が issuer 資格検証 + リスクパラメータ・ガバナンスに参加。Greg Di Prisco の MakerDAO 経歴が M^0 に DAO ガバナンス遺伝子を直接提供。**BlackRock × Goldman × M^0 の暗黙の閉ループ**:BlackRock が M^0 に投資 + BUIDL を M^0 デフォルト準備金として → 「BlackRock 準備金 + M^0 インフラ」の閉ループを形成;Goldman は M^0 に投資 + BlackRock と $1B 即時償還ファシリティを共同構築 → yield infrastructure に T+0 流動性を提供。両社は M^0 を通じて**ロングテール・ステーブルコイン・インフラ**を共同主導。
 
-## Counterpoints
-
-M^0 総管理 $300M は依然として初期段階で、「インフラ層標準」地位までには最低 10x の差。8 社の issuer のうち公開は 3 社のみ = 初期は「ペーパー協業」が多い可能性、実流通量分布は不明。**「階層中立」ナラティブの脆弱性**:BlackRock の M^0 投資 = 絶対的中立ではない(BlackRock が M^0 準備資産選好をコントロール);Goldman の M^0 投資 = 銀行顧客群がバインドされる。中立インフラの真の競争相手は **Bridge(Stripe)** —— Bridge は同様に「代行ステーブルコイン発行」サービスを提供しつつ Stripe 顧客ネットワークにバインド、分配層で M^0 より強い。[[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse ルート]] の「分配側 lock-in」と正面から対峙する。Circle Mint API も第三者ブランドの USDC を許容するため、M^0 のロングテール市場を一部蚕食する。
-
-## Open questions
-
-M^0 総管理 SC MCap は 2027 までに $5B を突破できるか?BlackRock + Goldman の M^0 ガバナンスにおける実投票権はどの程度で、「VC 主導 DAO」ガバナンス問題は発生するか?Bridge / Circle Mint 等の競合は M^0 のロングテール市場シェアを逆方向に蚕食するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -64,4 +55,3 @@ M^0 総管理 SC MCap は 2027 までに $5B を突破できるか?BlackRock + G
 <!-- /wiki-links:managed -->
 
 ## Sources
-

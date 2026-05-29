@@ -46,8 +46,6 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
@@ -79,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3099,
-    "word_like_tokens": 473,
+    "nonspace_chars": 2761,
+    "word_like_tokens": 429,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

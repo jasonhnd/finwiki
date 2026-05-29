@@ -17,7 +17,6 @@ sources:
 
 # 株式会社ジャックス (Jaccs)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orico|株式会社オリエントコーポレーション (Orico)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -95,8 +94,6 @@ ASEAN は MUFG 全体の海外戦略（Krungsri / Bank Danamon / VietinBank、[[
 | 2022-04 | 東証市場区分見直し → **東証 PRIME 8584** |
 | 2024〜 | 中期経営計画（公開分）始動 |
 
-## 4. 戦略・競争
-
 ### グループ内ポジショニング
 
 [[mufg]] グループ内の消費者金融・クレカ・信販 3 軸：
@@ -139,20 +136,6 @@ ASEAN は MUFG 全体の海外戦略（Krungsri / Bank Danamon / VietinBank、[[
   - 2024〜 与信モデルへの AI / 機械学習導入
   - キャッシュレス化政策（カード手数料・加盟店規制）
   - 2025〜 改正割賦販売法・本人確認の高度化
-
-## Counterpoints
-
-- 「[[mufg]] グループ内で 3 つの消費者ファイナンス（ニコス / アコム / Jaccs）が並立する重複問題」: 顧客層・チャネルは分かれているが、デジタル化が進むと統廃合圧力が高まる可能性 ^[inferred]
-- 「自動車ローン依存リスク」: 国内自動車販売台数の縮小・EV シフト・モビリティ・サブスク化が進むと、加盟店モデルが揺らぐ ^[inferred]
-- 「ASEAN 二輪車ローンの上限」: 現地で銀行・大手フィンテックが参入、Jaccs の優位性は限定的になり得る ^[inferred]
-- 「親会社 [[mufg]] からの完全子会社化シナリオ」: 持分法のままか、TOB で 100% にするか、業界再編の論点 ^[ambiguous]
-
-## Open questions
-
-- [[mufg]] が Jaccs を完全子会社化するシナリオはあるか？（ニコス完全子会社化 2017-10 の前例）
-- 自動車 EV シフト・MaaS 化で Jaccs の自動車ローンモデルはどう変わるか？
-- ASEAN 拠点（ベトナム・カンボジア・インドネシア）の収益貢献度と中期計画上の比重は？
-- [[orico]]（みずほ + 伊藤忠）vs Jaccs（[[mufg]]）の系列対決の今後
 
 ## Related
 

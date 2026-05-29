@@ -21,7 +21,6 @@ status: candidate
 
 # BFT validator 経済学概観
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/bft-validator-economy-four-variables|BFT validator 経済の4変数 · yield / slashing / MEV / 集中度]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -32,7 +31,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - ETH の validator は 100 万+ だが、クライアント集中度(Geth 60%+)とステーキングプール(Lido 30%+)は依然システミックリスクを構成する ^[extracted]
 - Solana の validator は 1300+ だが、実際のブロック生成は上位 25 が主導 ^[extracted]
 - Tempo / Arc / Kinexys / Aave Arc など機関級チェーンは概ね 5-50 個の KYC validator + 法的合意による拘束を採用 ^[extracted]
-- MEV は機関チェーンではほぼゼロ化(注文フローは機関 OTC 中心) ^[inferred]
 
 ## Mechanism / How it works
 
@@ -47,19 +45,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ## Origin & evolution
 
 2015 Ethereum ローンチ → PoW 時代は validator 経済学を必要としなかった。2020 ETH 2.0 / Cosmos / Polkadot などの PoS が主流化 → 4 変数フレームワークが成立。2022 MEV が顕在化(MEV-Boost ローンチ + 年間 $500M-1B 規模)→ MEV が validator 収益の中核変数に。2024-2025 Tempo / Arc / Mony などの機関チェーンが台頭 → 「機関チェーンはリテール validator 経済を必要としない」が新たな共識となり、フレームワークはリテール経路 vs 機関経路の 2 系統に分裂。
-
-## Counterpoints
-
-- 「機関チェーンの validator 経済退化」は規制が KYC チェーンの長期存続を許容することを前提としている —— マネーロンダリング対策の圧力により機関チェーンが validator 集合の拡大を強制される可能性がある
-- 「MEV が機関チェーンでゼロ化」は 2026 時点のスナップショット;機関チェーンがリテールフロー(小売商品のオンチェーン化)を導入すれば、MEV は再び発現する
-- 「漸進的非中央集権化」(Arc 三段階)は法令対応の体裁である可能性があり、真の非中央集権化はガバナンス捕捉の下で永遠に達成されないかもしれない
-
-## Open questions
-
-- 機関チェーンの KYC validator 集合は、どの規模まで拡大すれば「十分に分散」と言えるか?(20?50?100?)
-- 規制(OFAC / EU MiCA)は KYC validator を被規制金融インフラとして指定するか?
-- チェーン抽象層の台頭後、validator 経済はさらに抽象化(EigenLayer restaking など)するか?([[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]] 参照)
-- グローバル DEX 主流 5 社における validator 集中度のパフォーマンスは?([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] 参照)
 
 ## Related
 <!-- wiki-links:managed -->
@@ -78,4 +63,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - Tempo 公式サイト（機関級チェーンの validator 設計）— https://tempo.xyz/
 - Arc 公式サイト（Circle 機関級 L1）— https://www.arc.io/
 - Canton Network（許可型機関チェーン）— https://www.canton.network/
-

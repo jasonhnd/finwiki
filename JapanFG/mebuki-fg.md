@@ -17,7 +17,6 @@ sources:
 
 # めぶき FG (Mebuki FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -33,7 +32,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**：東証 PRIME 7167 ^[extracted]
 **設立**：2016-10-01（常陽銀行 + 足利ホールディングス 共同株式移転による持株会社設立）^[extracted]
 **本社**：東京都中央区八重洲 / 茨城県水戸市・栃木県宇都宮市（2 本社制）^[extracted]
-**社名由来**：「芽吹き（めぶき）」＝両行の伝統と地域に根ざした成長への意 ^[inferred]
 
 ### 主要子会社・持分
 
@@ -57,8 +55,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **足利 HD 発足**（2008-07）：野村ホールディングス系投資ファンド（野村プリンシパル・ファイナンス）+ ネクスト・キャピタル・パートナーズ等の **再生 SPC** が 1200 億円規模で取得し、足利ホールディングス傘下に再編
 - **足利 HD 上場**（2013-12-19）：東証一部・地銀再上場
 - **めぶき FG 発足**（2016-10-01）：常陽 + 足利 HD 共同株式移転 → 北関東広域 FG 誕生
-
-> 統合背景：人口減少・低金利マージン圧迫 + 茨城 / 栃木両県の経済圏連続性（北関東広域・首都圏接続）→ 県をまたぐ広域連合で規模メリット追求。足利 HD 側は破綻処理後の機関投資家保有株売却出口戦略としても機能。^[inferred]
 
 ### 重要年表 ^[extracted]
 
@@ -86,8 +82,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | クレカ | めぶきカード | 地銀発クレカ |
 | 投資・コンサル | 常陽キャピタル / 足利キャピタル | 地域企業ファンド・事業承継 |
 
-## 3. 戦略・競争
-
 ### 「メガリージョナルバンクグループ」志向
 
 - 統合発足時から **「メガリージョナルバンクグループ」** をスローガン化：地銀の枠を超えた広域 + 規模を志向 ^[extracted]
@@ -97,21 +91,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 首都圏進出戦略
 
 - **県外営業店網**：東京・埼玉・千葉・神奈川等への進出。中堅企業 main bank 開拓と富裕層 retail
-- 首都圏では [[concordia-fg]]（横浜銀行）・[[JapanFG/chiba-bank|chiba-bank-fg]] と直接競合。一方で同じ「首都圏隣接広域 FG」として連携模索の余地あり ^[inferred]
 - 茨城 → 東京北東部 / 栃木 → 埼玉北部の経済圏接続が首都圏進出の地理的根拠
 
 ### デジタル化・地方創生
 
 - **DX 推進**：中期経営計画でデジタルチャネル強化・店舗最適化・本部業務効率化
 - **地方創生**：自治体連携・事業承継・地域企業の M&A 仲介・観光振興等
-- メガバンクと違って地域企業の事業承継 / 後継者問題対応が main bank の差別化要素 ^[inferred]
 
 ### 競合・地銀再編における位置
 
 - **競合**：[[concordia-fg]]（横浜 + 東日本）/ [[JapanFG/chiba-bank|chiba-bank-fg]]（首都圏隣接広域 FG として直接競合）/ [[fukuoka-fg]]（広域 FG 規模競争）
 - **メガバンク**（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては地銀統合 + 県内シェアで差別化
 - **SBI 第 4 メガ構想**（[[sbi-hd]] 主導）に距離、独自広域路線
-- 北関東広域 FG として、群馬銀行 / 武蔵野銀行 / 栃木銀行 等周辺地銀との連携 / 統合余地は中長期の論点 ^[inferred]
 
 ## 4. 規制・政策
 
@@ -122,22 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 地銀マージン改善（メガより恩恵大）
   - 2025〜 地銀再編加速（人口減 + デジタル投資負担）→ 北関東広域連合の次段階模索
   - 自治体連携・地方創生政策との接続（地銀の公共的役割）
-
-## Counterpoints
-
-- 「メガリージョナル戦略」：規模志向 vs 県内深耕の両立難。首都圏進出は高コスト・高競合 ^[inferred]
-- 「足利銀行 破綻歴史リスク」：2003 破綻のレガシー / 経営文化統合の長期課題。常陽との文化差 ^[inferred]
-- 「北関東 2 県集中リスク」：人口減・若年層流出が直撃。茨城 + 栃木県人口減トレンドは継続 ^[inferred]
-- 「広域 FG 中での差別化弱さ」：[[concordia-fg]] / [[JapanFG/chiba-bank|chiba-bank-fg]] / [[fukuoka-fg]] と比較したデジタル戦略の独自性が見えにくい（[[fukuoka-fg]] の「みんなの銀行」のような旗艦施策に相当するものがない）^[ambiguous]
-- 「地銀再編における次の一手」：北関東圏の周辺地銀（群馬 / 武蔵野 / 栃木 等）統合シナリオは現実性 vs 独禁法ハードル ^[ambiguous]
-
-## Open questions
-
-- 中期経営計画（2024〜）の進捗：首都圏進出 / DX / 地方創生の定量目標達成状況
-- 北関東広域連合の次段階：群馬銀行 / 武蔵野銀行 / 栃木銀行 等との統合 / 連携シナリオの現実性
-- デジタル戦略の差別化：[[fukuoka-fg]] みんなの銀行のような旗艦デジタル施策の有無 / 計画
-- 首都圏進出の収益性：[[concordia-fg]] / [[JapanFG/chiba-bank|chiba-bank-fg]] との直接競合での positioning と収益貢献度
-- 足利銀行 経営文化統合の長期帰結：破綻・国有化レガシーが統合後 10 年で完全に克服されたか
 
 ## Related
 

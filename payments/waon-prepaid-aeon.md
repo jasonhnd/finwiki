@@ -101,13 +101,6 @@ WAON's strategic role inside the AEON Group is **closed-loop loyalty + retail-an
 
 The 2023-onward [[JapanFG/aeon-financial-service|AEON Financial Service]] consolidation of group payment / banking / card businesses repositioned WAON as the consumer-facing layer of an integrated retail-financial-services stack rather than a standalone prepaid product.
 
-## Counterpoints
-
-- "WAON is just an AEON loyalty card." It is a registered third-party 前払式支払手段 with cross-merchant acceptance well beyond AEON Group — calling it a loyalty card alone misses the prepaid-payment-instrument legal weight.
-- "Code payment will kill WAON." Tap-based FeliCa retains transaction-speed and offline-resilience advantages at high-throughput supermarket / convenience-store registers that code payment has not displaced; AEON's strategic response is to bundle both via AEON Pay app rather than abandon FeliCa.
-- "WAON POINT and WAON balance are the same." They are linked but legally distinct — point is loyalty currency under [[loyalty/japan-points-landscape|loyalty framework]]; balance is prepaid-instrument under PSA. Conversion is one-way for most flows.
-- "WAON acceptance is limited to AEON." Acceptance has expanded to drugstores, fast food, gas stations, and other cross-merchants — the network is wider than the AEON-group footprint alone.
-
 ## Related
 
 - [[payments/INDEX]]

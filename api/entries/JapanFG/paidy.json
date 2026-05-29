@@ -44,9 +44,9 @@
     "主要サービスライン",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "与信モデル",
-    "競合マップ"
+    "競合マップ",
+    "グローバル比較"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5131,
-    "word_like_tokens": 783,
+    "nonspace_chars": 3937,
+    "word_like_tokens": 615,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

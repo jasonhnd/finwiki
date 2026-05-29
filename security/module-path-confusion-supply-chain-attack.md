@@ -32,8 +32,6 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-
 > [!info] TL;DR
 > 3つの独立した操作の組み合わせでサプライチェーン攻撃が形成される:(1) go.mod / package.jsonのモジュールパスでupstream(例:github.com/cosmos/...)を詐称、(2) replace指令で詐称パスを自前のforkへハイジャック、(3) メインリポジトリのLICENSEを削除。下流ユーザーが「正規」パスをimportすると、実際にはforkが実行される。規制下にあるVASPルートでは、この種の攻撃面は [[exchanges/jp-vasp-security-audit-certification|JP VASP 安全審計認証]] 体系で部分的にカバーされる。
 
-## 三連撃の分解
-
 ### 1. Module path confusion
 
 - Go:module github.com/cosmos/cosmos-sdkだが実際のリポジトリは github.com/<rebrand>/x
@@ -71,12 +69,6 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-
 - 「fork of X」を明示し、元LICENSEを保持しているプロジェクト — 合法なforkに該当
 - 純粋なアプリケーション層でmodule path概念が無いプロジェクト
 - クローズドソースで監査不能なプロジェクト(別経路で対応する必要) — 例えば許可型チェーンの [[systems/canton-overview|Canton]] のようなケースは、ソース差分ではなくgovernance + auditor経路を辿る必要がある
-
-## Counterpoints
-
-> [!question] Open questions
-> - 三連撃を検出した後、GOPROXY側 / 上流maintainer側にtakedown経路はあるか
-> - 「誠実なfork + 完全なrebrand」とどう区別するか(核心:LICENSEを保持しているか + forkであることを公的に明示しているか)
 
 ## Provenance
 

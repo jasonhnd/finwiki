@@ -17,7 +17,6 @@ sources:
 
 # 丸三証券 (Marusan Securities)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/aizawa-sg|アイザワ証券グループ]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary.
@@ -44,7 +43,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 **正式名**：丸三証券株式会社
 **創業**：1910 年 (明治期に東京で個人商店として創業) ^[extracted]
-**株式会社化**：戦後昭和期 (株式会社化年は公開沿革参照) ^[inferred]
 **上場**：戦後株式市場再編後に東証上場、現在は東証 PRIME (8613) ^[extracted]
 **本社**：東京都千代田区麹町
 **業態**：金融商品取引業 (第一種金融商品取引業者) — 中堅独立系証券
@@ -58,11 +56,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 年月 | 事象 |
 |---|---|
 | **1910** | **東京で個人商店として創業** (明治期老舗証券) ^[extracted] |
-| 戦後 | 株式会社化、戦後復興期の市場再編に対応 ^[inferred] |
-| 高度成長期〜 | 全国主要都市に対面支店ネットワーク拡充 ^[inferred] |
-| 2000 年代〜 | オンライン取引対応 (ネット専業ではなく対面 + オンラインのハイブリッド) ^[inferred] |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 ^[extracted] |
-| 2024〜 | 新 NISA 制度対応、富裕層・シニア層向けコンサルティング営業強化 ^[inferred] |
 
 ## 3. 事業セグメント map
 
@@ -70,12 +64,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|---|
 | 国内株式 (対面リテール) | 個人投資家向け株式売買仲介 | 中核事業、富裕層・シニア層基盤 |
 | 投資信託 | 公募投信販売 | 安定収益源 |
-| 債券 | 個人向け国債・外債 | 中堅証券としては比較的厚いラインナップ ^[inferred] |
 | 法人取引 | 中小企業オーナー・地方法人 | 法人 IB は限定的 |
 | オンライン取引 | ネット支店併設 | 対面 + オンラインのハイブリッド |
-| 投資情報サービス | 対面コンサルティング | 「教育型営業」 ^[inferred] |
-
-## 4. 戦略・競争
 
 ### 老舗中堅独立証券としてのポジション
 
@@ -93,22 +83,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **業態**：第一種金融商品取引業 (証券業)
 - **規制**：金融商品取引法・日本証券業協会 ([[JapanFG/jsda|JSDA]]) 自主規制
 - **直近政策論点**：
-  - 2024〜 新 NISA 拡充：対面証券として富裕層向け NISA 商品ラインナップ強化 ^[inferred]
   - 2025〜 顧客本位の業務運営 (FD 原則) 強化：対面コンサル型営業の正当化要素
   - 中堅独立証券業界の再編論議 (規模の劣後問題) ^[ambiguous]
-
-## Counterpoints
-
-- 「対面リテール特化の持続性」：ネット証券の手数料無料化と若年層流入が進む中、対面コンサル型の収益モデルが中長期的に維持できるかは継続論点 ^[ambiguous]
-- 「規模の劣後」：大手 5 大証券 + 上位ネット 4-5 行と比較して資本・人員・システム投資規模で不利 ^[inferred]
-- 「中堅独立証券業界の再編リスク」：同枠の競合 ([[JapanFG/aizawa-sg|アイザワ]] / [[JapanFG/okasan-sg|岡三]] / [[JapanFG/iwai-cosmo-hd|岩井コスモ]]) との統合・連携シナリオは公開情報からは確定できない ^[ambiguous]
-
-## Open questions
-
-- 丸三証券の対面顧客口座数・預り資産規模は中堅独立証券間でどのポジション?
-- 富裕層・シニア層偏重の顧客構成は、世代交代後の事業継続にどう影響するか?
-- 中堅独立証券間の業界再編シナリオ (大手証券・地銀との連携含む) は?
-- ネット取引比率の現状と中長期目標は?
 
 ## Related
 

@@ -18,7 +18,6 @@ sources:
 
 # 大阪デジタルエクスチェンジ (ODX)
 
-
 ## Wiki route
 
 This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
@@ -57,12 +56,6 @@ ODX matters because it puts three themes into one entity:
 - bank-backed digital settlement experiments coordinated with [[JapanFG/smfg|SMFG]] / [[JapanFG/nomura-hd|Nomura]] / [[JapanFG/sbi-hd|SBI HD]] shareholders.
 
 It should be read together with [[fintech/jp-stablecoin-progmat|Progmat]], trust-type stablecoin design, and securities-settlement infrastructure ([[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]]).
-
-## Counterpoints
-
-- START securities are not ordinary listed shares and have different liquidity, disclosure, and product risks.
-- ODX is a venue for securities firms and professional market plumbing, not a direct retail platform.
-- Security-token market depth remains early-stage.
 
 ## Related
 

@@ -67,7 +67,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2020 | **コロナ対応金融政策・モラトリアム・電子決済等代行業強化** |
 | **2022-04** | **金融商品取引法改正 → サステナビリティ開示強化** |
 | 2023-04 | デジタル証券（ST）規制整備 |
-| 2024-2025 | AI 利用・LLM 規制ガイドライン議論本格化 ^[inferred] |
 
 ## 2. 組織体制（現行）
 
@@ -107,8 +106,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **資金移動業** | 資金決済法 | [[JapanFG/paypay|PayPay]] / [[JapanFG/line-pay|LINE Pay]] 等 |
 | **暗号資産業** | 改正資金決済法（2017）| [[JapanFG/bitflyer|bitFlyer]] / [[JapanFG/gmo-coin|GMO コイン]] 等 |
 | **貸金業** | 貸金業法 | [[JapanFG/acom|アコム]] / [[JapanFG/aiful|アイフル]] 等 |
-
-## 4. 主要規制テーマ（2020 年代）
 
 ### コーポレートガバナンス・コード（2014〜）
 

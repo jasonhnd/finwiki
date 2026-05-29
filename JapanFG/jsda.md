@@ -90,20 +90,6 @@ As of JSDA's May 7, 2026 member-list page, JSDA reported 259 Regular Members, 14
 - **Member count vs active product scope**: JSDA membership does not prove that a firm currently offers a specific product. Confirm product scope in the firm disclosure and FSA registration category.
 - **Registration list latency**: FSA list pages are official but may have as-of dates and update intervals. Treat a checked registration as "found in the checked list as of X" rather than timeless status.
 
-## Counterpoints
-
-- **Self-regulation can look circular**: JSDA is industry-composed, so its credibility depends on whether rulemaking, inspection, and disciplinary action are robust enough to offset member incentives.
-- **Regulatory responsibility can be blurred**: Market participants may conflate FSA registration, JSDA membership, exchange rules, and internal controls. For analysis, separate each layer.
-- **Large-firm misconduct still occurs**: JSDA membership and self-regulation reduce conduct risk but do not eliminate it. Firm-specific pages still need event-level checks for administrative actions, market-manipulation issues, solicitation violations, or customer-protection failures.
-- **Technology changes stretch legacy categories**: PTS, online brokerage, tokenized securities, crowdfunding, and app-based solicitation can require closer classification than "securities firm = JSDA" shorthand.
-
-## Open Questions
-
-- Which JapanFG securities pages should record their exact JSDA membership category and FSA registration category in a common table?
-- Should [[JapanFG/legal-financial-licenses/INDEX]] get a dedicated securities-license-stack child page covering Type I / Type II / investment advisory / investment management / registered financial institution boundaries?
-- For online brokers such as [[JapanFG/rakuten-securities]], which current JSDA rules are most relevant to app UX, advertising, suitability, and customer transaction monitoring?
-- Should FINMAC / ADR be mapped as a separate dispute-resolution page, or kept inside JSDA and securities-license coverage?
-
 ## Related
 
 - [[JapanFG/legal-financial-licenses/INDEX]]

@@ -48,8 +48,6 @@ Reinsurance procurement timing matters: April 1 renewal is the dominant Japan-do
 
 A combined ratio of 95% means 5 percentage points of underwriting profit per yen of earned premium, before investment income. Combined ratios decompose by product line: auto, fire, marine, casualty / GL, accident, miscellaneous. Catastrophe-year combined ratios can spike well above 100% in fire and overseas property lines, then revert below 100% in non-cat years.
 
-## Auto line — tier-rating reform and rate adequacy
-
 ### Auto market structure
 
 Voluntary auto insurance (任意自動車保険) is the largest line by premium for Japanese non-life insurers, complemented by compulsory automobile liability insurance (自動車損害賠償責任保険 / 自賠責保険) which is a public-private scheme administered separately.
@@ -82,8 +80,6 @@ Big-three rate-adequacy responses include refreshed pure-premium-rate use, inter
 
 Auto distribution in Japan is heavily agency-driven (car dealers, repair shops, professional agencies). Agency commission and conduct-compliance costs structure the expense ratio. Direct-distribution challengers (online direct auto P&C) compete on lower expense ratio and have built share in specific consumer segments.
 
-## Fire line — catastrophe loading and rate adequacy
-
 ### Fire / property structure
 
 Fire insurance (火災保険) in Japan covers residential and commercial property against fire, water damage, wind, and other named perils. Earthquake risk for households is carved out into the [[insurance/earthquake-insurance-public-private-scheme|public-private earthquake insurance scheme]]; commercial earthquake property is generally underwritten privately, often with cat reinsurance and explicit sub-limits.
@@ -108,8 +104,6 @@ Big-three rate-adequacy responses include:
 - restructuring coverage terms (deductibles, sub-limits, claim-handling conditions);
 - adjusting reinsurance retention and the layered cover structure;
 - exiting unprofitable agency-distributed books selectively.
-
-## Specialty lines — global cycle import
 
 ### Cyber
 
@@ -180,8 +174,6 @@ A common reading mistake is to read a holding-company integrated report combined
 
 The domestic Japan combined ratio and the overseas combined ratio can move in opposite directions in a given year (e.g., calm Japan typhoon year combined with active US Atlantic hurricane season). The group-level result is the diversification-weighted blend. For each group the diversification benefit varies by year and by where catastrophe events actually land.
 
-## Big-three operating-company differentiation
-
 ### Tokio Marine Nichido Fire (under Tokio Marine HD)
 
 - largest single domestic non-life operating company by premium;
@@ -202,25 +194,6 @@ The domestic Japan combined ratio and the overseas combined ratio can move in op
 - Sompo International contributes overseas specialty / reinsurance;
 - agency channel and customer-explanation conduct topics have been part of recent supervisory dialogue;
 - domestic auto and fire lines remain the core premium base.
-
-## Counterpoints
-
-- A combined ratio in isolation under-states or over-states underwriting health depending on reserve-development direction. Favorable prior-year development can flatter a current-year ratio; adverse development can punish it.
-- Auto rate adequacy is not just a pure-premium-rate exercise. Distribution-channel discipline, agency-book selection, and underwriting risk-appetite changes matter as much as rate.
-- Catastrophe loading on fire rates is not unidirectional. In low-cat years pricing pressure can return; rate-adequacy gains are not guaranteed to compound.
-- Reinsurance procurement is a hedging tool, not an arbitrage tool. Heavy reinsurance cession reduces volatility but also reduces retained earnings in good years.
-- Overseas-earnings offset is helpful but introduces FX risk, foreign-cat exposure, and acquisition-integration risk. Tokio Marine, MS&AD, and Sompo each manage this differently.
-- Specialty-line cycle is global. A domestic Japanese underwriter cannot insulate cyber, D&O, or marine pricing from global market conditions.
-
-## Open questions
-
-- How quickly does auto tier-rating reform translate into earned premium adequacy as EV adoption and ADAS feature penetration shift claim distributions?
-- How does fire / property catastrophe loading evolve as climate-related typhoon and flood frequency and severity shift?
-- How does specialty-line cycle (cyber especially) behave as ransomware loss experience normalizes versus continues to escalate?
-- How do reinsurance retention decisions across the big-three diverge as global reinsurance market conditions cycle through hard / soft phases?
-- How does the [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS]] group-level capital reporting interact with combined-ratio cycle disclosure at the operating-company level?
-- How does the conduct-compliance overhead on the auto channel (post-business-improvement-order context for some peers) shift the expense ratio over time?
-- How does the [[insurance/economic-value-based-solvency|ESR]] regime under FSA reshape capital allocation across product lines, given non-life cat module sensitivity?
 
 ## Related
 

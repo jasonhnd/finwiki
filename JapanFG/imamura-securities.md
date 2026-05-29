@@ -17,7 +17,6 @@ sources:
 
 # 今村証券 (Imamura Securities)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
@@ -57,11 +56,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | 年月 | 事象 |
 |---|---|
-| 昭和初期〜戦後 | 金沢で創業 (具体創業年は公式沿革参照) ^[inferred] |
-| 高度成長期〜 | 北陸地方の地域証券として対面リテール展開 ^[inferred] |
-| 2000 年代〜 | ネット取引対応 (対面 + オンラインのハイブリッド) ^[inferred] |
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (7175) ^[extracted] |
-| 2024〜 | 新 NISA 制度対応、地域顧客向け NISA 商品強化 ^[inferred] |
 
 ## 3. 事業セグメント・マップ
 
@@ -71,10 +66,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 投資信託 | 公募投信販売 | 安定収益源 |
 | 債券 | 個人向け国債・外債 | 補完商品 |
 | 法人取引 | 北陸地域中小法人 | 地域密着型 |
-| 投資相談 | 対面コンサルティング | 「教育型営業」 ^[inferred] |
 | オンライン取引 | ネット支店併設 | 対面が主軸 |
-
-## 4. 戦略・競争
 
 ### 地域密着型独立証券としてのポジション
 
@@ -88,34 +80,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 差別化軸は「地元密着 + 対面信頼関係」で、ネット証券の低手数料化に対して**地域コミュニティ深耕型**で対抗する。
 
-### NISA 拡充と地域証券 ([[securities/nisa-2024-flow|nisa-2024-flow]] 文脈)
-
-- 2024〜 新 NISA 拡充で、地域富裕層・シニア層向け NISA 商品ラインナップを強化 ^[inferred]
-- 地域証券として地元の世代間資産承継 (相続・贈与関連の運用相談) ニーズに対応 ^[inferred]
-
 ## 5. 規制・政策
 
 - **主管**：金融庁 (FSA)・**北陸財務局** (地方財務局登録)
 - **業態**：第一種金融商品取引業 (証券業)
 - **規制**：金融商品取引法・日本証券業協会 ([[JapanFG/jsda|JSDA]]) 自主規制
 - **直近政策論点**：
-  - 2024〜 新 NISA 拡充：地域証券としての富裕層 NISA 商品強化 ^[inferred]
   - 顧客本位の業務運営 (FD 原則) 強化：対面コンサル型営業の正当化
   - 地域金融機関再編論議の中での地域証券の位置付け ^[ambiguous]
-
-## Counterpoints
-
-- 「地域基盤の規模制約」：北陸 3 県の人口減少 + 高齢化で顧客基盤の長期的縮小リスク ^[inferred]
-- 「ネット証券との価格競争」：地域密着型でも、若年層のネット証券流出には対面では対抗困難 ^[inferred]
-- 「地銀証券子会社との競合」：[[JapanFG/hokkoku-fhd|北國 FHD]] 等の地銀系証券業務との直接競合 ^[inferred]
-- 「事業承継・経営継続性」：地域独立証券の世代交代と経営継続戦略は継続論点 ^[ambiguous]
-
-## Open questions
-
-- 今村証券の北陸地域シェア (対面リテール証券間) は?
-- 地域人口減少下での顧客基盤の長期予測は?
-- 地銀 ([[JapanFG/hokkoku-fhd|北國 FHD]] 等) との連携・統合シナリオはあるか?
-- ネット取引比率の現状と中長期目標は?
 
 ## Related
 

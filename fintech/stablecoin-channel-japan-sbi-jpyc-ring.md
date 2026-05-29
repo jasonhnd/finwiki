@@ -18,7 +18,6 @@ status: candidate
 
 # SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -75,22 +74,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ```
 
 **v1 → v2 評価ジャンプ**：§501(d) 公布前、SBI 陣営は「独立路線 / #3」と見られていた。公布後、USDC ↔ JPY クロスボーダーコンプライアンスチャネルの価値が急騰し、SBI Circle Holdings は **#1 ★★★★★** に昇格 —— [[JapanFG/progmat|Progmat]]（3 メガバンク信託型）は #3 に降格、理由は「クロスボーダーコンプライアンスチャネルなし」、詳細は [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]] 参照。
-
-## Counterpoints
-
-- **集中リスク**：USDC の国内独占は日本ステーブルコインのライフラインを単一の米国側発行体に縛ることに等しい —— Circle にコンプライアンスインシデント（§501(d) からの転落等）が発生すれば、日本側は断流する
-- **JPYSC 代替論**：SBI 自社の JPYSC（信託型）が 2026-Q2 上線、USDC 経路への依存度を低下させる可能性（北尾「両賭け」の実質）
-- **Progmat の反撃**：3 メガバンクの Project Pax クロスボーダープロジェクト（2026 H2）はまだ完成していない。成功すれば「クロスボーダーチャネルなし」の弱点は部分的に補われる
-- **環状持株の安定性**：3.51% の Circle→JPYC 持株は極めて薄く、重要時に完全 disclosure をトリガーするかは観察待ち
-- **リテール浸透不足**：日本における USDC のリテール浸透度はステーブルコイン現地ナラティブよりも遥かに低い（JPYC 実流通も依然小さい）
-
-## Open questions
-
-- アプラス × USDC 実証が失敗した場合、環状チャネルへの実質的ダメージは
-- JPYC が独立 IPO 経路を選ぶか（vs SBI/Circle 環状内に残るか）
-- Project Pax 2026 H2 着地後、3 メガバンクが環状外のユースケースを一部奪取できるか
-- §501(d) 後に GENIUS Act が rulemaking 段階に入った際、USDC チャネル再配分への影響
-- JPYSC 信託型と Progmat XJPY の市場位置付けの重複度
 
 ## Related
 <!-- wiki-links:managed -->

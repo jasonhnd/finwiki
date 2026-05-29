@@ -17,7 +17,6 @@ sources:
 
 # 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -124,8 +123,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 > NEOBANK は事業者（航空 / 通信 / 小売 / 不動産 / 生保）が自社ブランドで銀行機能（普通預金・振込・カードローン等）を顧客に提供できる API。住信 SBI が銀行免許 + バックエンドを提供、表面は事業者のアプリ / ブランドで完結する設計。
 
-## 3. 戦略・競争
-
 ### 親会社入替の戦略含意（2025）
 
 - **NTT ドコモ側**: 「銀行業における他社通信キャリアとの遅れを取り戻す為」が買収の動機。au じぶん銀行（KDDI 系）/ PayPay 銀行（SoftBank 系）に対抗する自前金融基盤確立
@@ -168,24 +165,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 預貸利ザヤ改善
   - 2024〜 NISA 拡充 → ネット証券連携で資金流入加速
   - 2025〜 ステーブルコイン制度（メガバンク Progmat 中心）への ネット銀行対応
-
-## Counterpoints
-
-- 「**SBI 連携の喪失リスク**」: 2025-10 SBI HD 資本関係解消で SBI 証券ハイブリッド預金・SBI VC Trade 暗号資産連携の戦略的位置付けが不透明。短期は契約継続でも中長期は SBI 側が SBI 新生銀行へ集約させる可能性 ^[inferred]
-- 「**NTT ドコモ経済圏取り込みの遅効性**」: d ポイント / ドコモ回線顧客との連携深化は数年単位、即時の業績寄与は限定的 ^[inferred]
-- 「**親会社 2 社の利益相反（新体制）**」: NTT ドコモ vs 三井住友信託は事業領域が異なる分、SBI 時代より調整しやすい可能性。ただし議決権 50:50 で意思決定速度は鈍化リスク ^[ambiguous]
-- 「**NEOBANK パートナー間の競合化**」: 三井住友信託 NEOBANK / docomo NEOBANK が共同親会社案件、JAL / ヤマダ / 第一生命など独立パートナーとの利益相反論点 ^[inferred]
-- 「**改称ブランドの集客力低下リスク**」: 「住信 SBI」ブランドは住宅ローン領域で強固な認知、「ドコモ SMTB」改称後の新規顧客獲得への影響は未知数 ^[inferred]
-
-## Open questions
-
-- SBI 系列との既存 API 連携（SBI 証券ハイブリッド預金 / SBI VC Trade 暗号資産連携）の継続期間と縮小スケジュール？
-- ドコモ SMTB ネット銀行改称後の「docomo NEOBANK」ブランドの扱い（統合 / 並存 / 廃止）？
-- [[ndfg]] 設立（2026-07-01 予定）後の金融 4 社（住信 SBI ＋他 3 社）の役割分担？
-- 三井住友信託 44.63% / 議決権 50% の安定性、将来の追加株式取得 / 売却シナリオは？
-- 住宅ローン市場（金利正常化局面）での競争力維持戦略は？
-- NEOBANK パートナー数の上限・新規拡大候補は? 流通 / 自動車 / EC 系の余地
-- 上場廃止後のディスクロージャー水準（任意開示 / 半期 / 年次）は？
 
 ## Related
 

@@ -50,8 +50,6 @@ This entry sits under [[fintech/INDEX|fintech index]] and is the **Indonesia-spe
 
 The contrast with neighboring jurisdictions is sharp — see [[fintech/singapore-mas-payment-services-act-overview]] for the MAS PS Act framing and [[fintech/hkma-stablecoin-licensing-overview]] for the HKMA dedicated-license model. OJK has signalled a framework but has not committed a date.
 
-## The four e-wallet super-apps
-
 ### OVO · Lippo origin, Grab control, Tokopedia partner
 
 - **Ownership**: Originally Lippo Group; Grab acquired controlling stake 2021; further consolidation 2024-2025.
@@ -105,8 +103,6 @@ The same calculus drove Stripe to acquire Bridge (see [[fintech/embedded-wallet-
 1. A licensed IDR-SC would have to **interoperate with QRIS** to capture retail use cases.
 2. QRIS interlinkages with **Project Nexus** (BIS-led ASEAN+India instant payment linkup) and bilateral linkages with Singapore PayNow (2023), Malaysia DuitNow (2023), Thailand PromptPay (2023) provide a **non-stablecoin** answer to cross-border remittance — directly competing with USDT P2P corridors.
 3. BI's **Project Garuda** wholesale CBDC pilot (Hyperledger-based, two-tier architecture) is designed to sit upstream of QRIS rather than replace it, leaving a structural slot for a **commercial-bank-issued tokenized deposit** product distinct from a non-bank stablecoin license. The analog is the institutional-deposit-token framing in [[fintech/institutional-stablecoin-deposit-token-thesis]] and the Japanese trust / bank / funds-transfer split in [[fintech/japan-stablecoin-regulatory-landscape]].
-
-## USDT / USDC flow in Indonesia · the actual rail today
 
 ### On-chain / licensed venue
 
@@ -168,23 +164,6 @@ A smaller but important corridor exists between Indonesia and Hong Kong, driven 
 ### Indonesia ↔ Saudi Arabia / UAE remittance
 
 The Indonesian migrant-worker population in Saudi Arabia and the UAE generates a substantial remittance corridor back to Indonesia. The Middle East side increasingly uses regulated USD-stablecoin onramps (UAE VARA-licensed venues) plus informal USDT, while the Indonesia side absorbs through PMA exchanges or informal P2P. The architectural parallel to the Aramco / sovereign-capital position in [[fintech/sovereign-capital-pool-aramco-anchor]] and the broader [[fintech/sovereign-fund-crypto-allocation-pattern]] is worth noting for the institutional layer of this corridor.
-
-## Counterpoints
-
-- **The "OVO / GoPay as future SC issuers" framing may be wrong.** BI's historical posture is that **payment instruments must be bank-issued** for systemic-stability reasons; a non-bank IDR-stablecoin license could face resistance even from within OJK.
-- **Crypto-supervision transition is not yet complete.** Many implementing regulations under the P2SK Law are still pending as of 2026-05; the OJK framework for stablecoins is **announced in principle but not yet drafted in detail**.
-- **QRIS and Project Nexus** compete directly with any future IDR-SC for retail payment use cases; the value of a stablecoin license is concentrated in **cross-border** and **programmable-payment** use cases, not in domestic retail.
-- **Ant Group's DANA position** is politically sensitive given broader Indonesia-China and Indonesia-US dynamics; HKMA's deferral of Ant International's stablecoin license (see [[fintech/hkma-stablecoin-licensing-overview]]) is a relevant signal.
-- **USDT-Tron grey-market dominance** is the underlying reality regardless of regulatory direction. Any IDR-SC license will be measured against the practical alternative that already exists.
-
-## Open questions
-
-- Does OJK publish a stablecoin licensing framework draft in 2026-H2 or 2027-H1?
-- Does the first IDR-SC license go to a bank, a consortium, or an e-money player?
-- Do OVO, GoPay, DANA, or ShopeePay take an explicit public position on rupiah-stablecoin issuance?
-- Does BI's Project Garuda wholesale CBDC pilot ever cross into a retail-facing form, or does it stay strictly interbank?
-- How does Project Nexus interlink affect the economic case for an IDR-SC if cross-border instant payment becomes near-free?
-- Does Ant International's HKMA application outcome materially affect DANA's posture in Indonesia?
 
 ## Related
 

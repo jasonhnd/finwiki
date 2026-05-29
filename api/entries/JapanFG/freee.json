@@ -44,9 +44,9 @@
     "業態",
     "重要年表（公開情報ベース）^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "「中小企業 + フリーランス」特化",
-    "AI 仕訳自動化が差別化軸"
+    "法人 BPaaS 化",
+    "競合構図"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6035,
-    "word_like_tokens": 827,
+    "nonspace_chars": 4502,
+    "word_like_tokens": 635,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

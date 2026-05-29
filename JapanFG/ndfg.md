@@ -18,7 +18,6 @@ sources:
 
 # NTT ドコモ・フィナンシャルグループ (NDFG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/rakuten-insurance-hd|楽天インシュアランスホールディングス]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -31,11 +30,9 @@ NTT ドコモが 2026 年 7 月設立予定 ^[forecast] の **金融事業統括
 
 **正式名予定**：NTT ドコモ・フィナンシャルグループ株式会社 ^[forecast]
 **英名予定**：NTT DOCOMO Financial Holdings, Inc. ^[forecast]
-**証券コード**：非上場予定（NTT ドコモ 100% 子会社のため）^[inferred]
 **設立予定**：2026-07（公開発表ベース）^[forecast]
 **親会社**：株式会社 NTT ドコモ（日本電信電話株式会社 100%）^[extracted]
 **本社予定**：東京都内（具体所在地は設立時公表予定）^[ambiguous]
-**機関設計**：中間持株会社（NTT — NTT ドコモ — NDFG — 各金融事業会社）^[inferred]
 
 ### 設立スキーム（公開資料ベース）^[extracted]
 
@@ -64,7 +61,6 @@ NDFG（中間持株、NTT ドコモ 100%、設立予定 2026-07）
   │     ├── 出資・業務提携：docomo Neobank ブランド提供（提携ベース）^[extracted]
   │     ├── NDFG / NTT ドコモ 側の出資検討・追加出資は公開報道段階 ^[ambiguous]
   │     └── 親会社は SBI HD + 三井住友信託銀行
-  ├── ドコモ・インシュアランス（生損保代理店）^[inferred]
   ├── dカード関連事業（旧 NTT ドコモ本体のカード事業を分社化方向）^[forecast]
   ├── dスマートバンク（住信 SBI ネット銀行と連携の銀行サービス）^[extracted]
   └── dポイント・dペイメント（決済・ポイント、本体残置 vs NDFG 移管は公開未確定）^[ambiguous]
@@ -91,15 +87,11 @@ NDFG（中間持株、NTT ドコモ 100%、設立予定 2026-07）
 | 銀行 | 住信 SBI ネット銀行（提携） + docomo Neobank ブランド | フル子会社化はしておらず提携ベース ^[ambiguous] |
 | カード | dカード（dカード GOLD / dカード PLATINUM 系）| dポイント基盤と一体運営 |
 | ポイント・決済 | dポイント・dペイメント・d 払い | 通信契約者 + 外部加盟店 |
-| 保険代理店 | ドコモ・インシュアランス（仮称）^[inferred] | 通信契約者向け |
 | 投資・資産形成 | NISA / iDeCo・dスマートバンク連携 | マネックス + 住信 SBI と連携 |
-
-## 3. 戦略・競争
 
 ### 通信系 FG「第 4 極」の位置付け
 
 - **既存 3 極**: [[JapanFG/au-fh|au-fg]]（KDDI / auじぶん銀行売却後の再編期）、[[paypay-fg]]（SoftBank / Z Holdings 系列、PayPay 銀行 + PayPay 証券 + PayPay カード）、[[rakuten-fg]]（楽天銀行 / 楽天証券 / 楽天カード / 楽天ペイ）
-- **NDFG の差別化軸**: 通信契約者 8000 万級 + dポイント経済圏 + マネックス×住信 SBI の即戦力資産という「自前 + 提携」両建てスキーム ^[inferred]
 
 ### 金融サービス統合の狙い（公開発表趣旨）^[extracted]
 
@@ -116,7 +108,6 @@ NDFG（中間持株、NTT ドコモ 100%、設立予定 2026-07）
 ### B2C ブランディング
 
 - **dブランド統合**: dカード・dスマートバンク・dポイント・d 払い の「d」プレフィックス共通化を継続 ^[extracted]
-- **dポイント経済圏**: 共通ポイント大手（[[loyalty/japan-points-landscape]] 参照）として、楽天ポイント / Tポイント / Pontaと拮抗 ^[inferred]
 
 ## 4. 規制・政策
 
@@ -127,27 +118,8 @@ NDFG（中間持株、NTT ドコモ 100%、設立予定 2026-07）
   - 資金移動業 / 前払式支払手段（d 払い・dポイント）
   - 暗号資産交換業（Coincheck）
 - **持株会社規制**: 設立形態次第で銀行持株会社規制・金商業者持株会社規制の適用可能性 ^[ambiguous]
-- **電気通信事業者 × 金融**: NTT 法・電気通信事業法と金融規制の重畳論点（情報利用同意・優越的地位）^[inferred]
 - **直近政策論点**:
-  - 2024〜 新 NISA 制度本格化 → 通信契約者ベースの口座取得競争 ^[inferred]
-  - 2025〜 ステーブルコイン・電子決済等取扱業の制度整備 ^[inferred]
   - 2026〜 通信業者の決済 / ポイントへの優越的地位濫用ガイドライン議論 ^[ambiguous]
-
-## Counterpoints
-
-- 「中間 HD 設立の実効性」: 法人格分離だけで本当にクロスセル ROE が上がるかは未検証。先行例（au フィナンシャル HD 等）の実績は分かれる ^[ambiguous]
-- 「住信 SBI 提携の脆弱性」: 銀行を提携ベースに留めると、楽天 / PayPay のフル自社銀行モデルに比べ機能設計の自由度で劣る ^[inferred]
-- 「マネックス連結子会社化のシナジー」: 顧客重複（証券口座既存層 vs ドコモ通信層）と TradeStation / Coincheck の海外・暗号資産事業のリスク統合は中期論点 ^[ambiguous]
-- 「dポイント経済圏の天井」: 共通ポイント市場は楽天 / Pontaと飽和競争、純増余地は限定的との分析 ^[inferred]
-
-## Open questions
-
-- NDFG 設立時の **完全な子会社ライナップ** は？ dカード / dペイメント本体の移管範囲
-- 住信 SBI ネット銀行への **追加出資 / 完全子会社化シナリオ** は実在するか？（公開報道段階）
-- マネックスグループ **TOB / 100% 化** の最終形態と取得対価
-- NDFG の **初代社長 / 役員構成**（公表は設立時予定）
-- [[JapanFG/au-fh|au-fg]] / [[paypay-fg]] / [[rakuten-fg]] との **競争ポジショニング**：手数料 / ポイント還元 / クロスセル設計の差別化
-- 通信契約データの金融事業活用に対する **規制ガイドライン**（個人情報保護 + 優越的地位）
 
 ## Related
 

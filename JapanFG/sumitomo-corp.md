@@ -29,10 +29,6 @@ sources:
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company**. Read it against [[JapanFG/mitsubishi-corp|三菱商事]] (旧 財閥商社の両雄) and [[JapanFG/mitsui-co|三井物産]] (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[JapanFG/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け CMS) and especially **[[JapanFG/smfl|SMFL (三井住友ファイナンス&リース)]]** (住友商事 50% + [[JapanFG/smfg|SMFG]] 50%、3 大リースの一角) and **[[JapanFG/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (オートリース国内首位級)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
-## TL;DR
-
-住友商事 (東証 PRIME **8053**) は **5 大総合商社の一角**、住友グループの中核会社の一つ。**鋼管 (energy 用)・鋼材**、**輸送機・建機 (トラック等)**、**メディア・デジタル (J:COM ジュピターテレコム 持分、SCSK)**、**インフラ (発電、海水淡水化)**、**生活産業 (リテール)** が中核セグメント。JapanFG 文脈での重要性は (i) [[JapanFG/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け CMS)、(ii) **[[JapanFG/smfl|SMFL]] への 50% 持分** (SMFG と 50/50 JV、3 大リースの一角、旧 三井住友ファイナンス&リース)、(iii) **[[JapanFG/sumitomo-mitsui-auto-service|住友三井オートサービス]] への持分** (オートリース国内首位級、SMFG / 三井物産 と共同保有)、にある。住友グループ系列 ([[JapanFG/smfg|SMFG]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託]]) と密接。^[inferred]
-
 ## 1. 会社概要
 
 | Item | Notes |
@@ -43,11 +39,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | Listing | 東京証券取引所 PRIME 市場、Nagoya 上場含む ^[extracted] |
 | 設立 | 1919 年 (大阪北港株式会社として設立、戦後 1952 年に住友商事に改称) ^[extracted] |
 | 本社 | 東京都千代田区大手町 (旧 大阪本店あり) ^[extracted] |
-| 連結従業員 | 約 7〜8 万人 (連結、J:COM 等含む) ^[inferred] |
 | 会計基準 | IFRS ^[extracted] |
 | 主要セグメント | 金属、輸送機・建機、インフラ、メディア・デジタル、生活・不動産、資源・化学品 ^[extracted] |
-| FY 連結収益規模 (約) | 連結純利益 3,000〜5,000 億円級、5 大商社の中位 (時期により変動) ^[inferred] |
-| 格付 | A 格 (S&P / Moody's / R&I) ^[inferred] |
 
 ### 主要子会社・関連会社 (JapanFG 文脈)
 
@@ -93,19 +86,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | **住友三井オートサービス** | **[[JapanFG/sumitomo-mitsui-auto-service]]** | **一部持分 (住友商事 + [[JapanFG/mitsui-co|三井物産]] + [[JapanFG/smfg|SMFG]] 系)** | **オートリース国内首位級** |
 
 加えて、**住友グループの financial-services エコシステム**:
-- **[[JapanFG/smfg|SMFG]] / 三井住友銀行** — 住友グループ メガバンク、SMFL 50/50 JV パートナー、cross-shareholdings ^[inferred]
-- **[[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]]** — 信託業務、cross-shareholdings ^[inferred]
-- **[[JapanFG/mitsui-sumitomo-insurance|三井住友海上 (MS&AD)]]** — 保険、cross-shareholdings ^[inferred]
 
 「**SMFL = 住友商事の外向けリース・asset finance 腕** (SMFG と 50/50 JV)」「**住友三井オートサービス = オートリース** (3 社共同)」「住友商事フィナンシャルマネジメント = 内向け CMS」の三層構造。これは [[JapanFG/mitsubishi-corp|三菱商事]] (HCキャピタル 持分法 + MCFS) や [[JapanFG/mitsui-co|三井物産]] (JA三井リース + MBFS) と比較して、**メガバンク (SMFG) との 50/50 JV** という共同支配体制が住友商事の特徴。
-
-## 4. 戦略・競争
 
 ### 5 大商社内の identity
 
 - **多角寄り商社**: [[JapanFG/mitsubishi-corp|三菱]] / [[JapanFG/mitsui-co|三井]] のような資源寄り、[[JapanFG/itochu-corp|伊藤忠]] のような非資源寄り、どちらでもない多角型ポジショニング
 - **メディア・IT 商社**: J:COM (ケーブル TV) + SCSK (IT サービス) で 5 大商社の中で唯一のメディア・IT 比重大
-- **メガバンク 50/50 JV モデル**: SMFL を SMFG と 50/50 で持つ姿は、[[JapanFG/mitsubishi-corp|三菱商事]] の HCキャピタル 持分法、[[JapanFG/itochu-corp|伊藤忠]] の東京センチュリー 持分法 とは異なる「**共同支配 JV モデル**」^[inferred]
 
 ### コア戦略 ^[inferred]
 
@@ -122,18 +109,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 ## 5. 規制・政策
 
 - **会計**: IFRS 採用、equity-method investments の比重大 ^[extracted]
-- **規制**: 商社単体は banking license 無し、金融子会社 ([[JapanFG/smfl|SMFL]]) は貸金業・リース業、メディア (J:COM) は放送法・電気通信事業法対象 ^[inferred]
-- **会社法**: 東証 PRIME 上場、コーポレートガバナンス・コード適用、社外取締役過半数 ^[inferred]
-- **メディア規制**: J:COM はケーブル TV / 電気通信事業法の二重規制対象 ^[inferred]
-- **資源規制**: 石炭縮小圧力 (GX 政策)、各国鉱業法 ^[inferred]
 
 ## 6. Counterpoints
 
 - **「マダガスカル ニッケル (Ambatovy) の収益化」**: 過去に巨額減損計上、長期収益化への疑問 ^[ambiguous]
-- **「J:COM ケーブル TV 事業の長期成長性」**: ネット動画シフトによる事業構造変化 ^[inferred]
-- **「SMFL 50/50 JV の戦略的自由度」**: SMFG との共同支配のため、住友商事単独の戦略推進力に制約 ^[inferred]
-- **「5 大商社中位ポジション」**: 純利益で 5 大の中位、上位 ([[JapanFG/mitsubishi-corp|三菱]] / [[JapanFG/mitsui-co|三井]] / [[JapanFG/itochu-corp|伊藤忠]]) との差 ^[inferred]
-- **「Berkshire 効果」**: 5 大商社共通のリレーティング、外部依存 ^[inferred]
 
 ## 7. Open questions
 

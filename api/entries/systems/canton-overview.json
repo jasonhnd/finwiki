@@ -41,18 +41,14 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/apollo-acred-private-credit-tokenization",
-      "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/jpmorgan-jpmd-coin",
       "systems/INDEX",
       "systems/canton-daml-technical-spec",
@@ -62,8 +58,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-daml-technical-spec",
@@ -74,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2963,
-    "word_like_tokens": 430,
-    "inbound_wikilinks_count": 22,
+    "nonspace_chars": 2330,
+    "word_like_tokens": 349,
+    "inbound_wikilinks_count": 21,
     "last_modified": "2026-05-29"
   }
 }

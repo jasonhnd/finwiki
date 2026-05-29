@@ -17,7 +17,6 @@ sources:
 
 # モルガン・スタンレー・ジャパン (Morgan Stanley Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/goldman-sachs-japan|ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -77,8 +76,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ECM/DCM 主幹事 | [[nomura-hd]] · 大和 · SMBC 日興 · みずほ |
 | 機関投資家トレーディング | ゴールドマン · JP モルガン · BofA · Citi |
 
-## 3. 重要歴史
-
 ### 戦前〜統合前 (1970s〜2007)
 
 - **1970 年代** Morgan Stanley 東京進出 (駐在員事務所 → 支店)
@@ -122,8 +119,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2021 | Eaton Vance 買収完了 (約 70 億ドル) |
 | 2024〜 | James Gorman → Ted Pick 体制移行 (CEO 交代 2024-01) |
 
-## 4. 戦略
-
 ### MUFG との JV 体制 (中核戦略)
 
 - **二重免許構造**: MUMSS (邦銀過半) + MSMS (外資過半) で規制・顧客最適化
@@ -166,23 +161,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **金融商品取引法**: 業務行為規制対応
 - **米国側**: Morgan Stanley は FRB・SEC・FINRA 規制 (Bank Holding Company)
 - **国際**: G-SIB Bucket 1 (FSB 認定、Morgan Stanley として)
-- **過去の処分歴**: MUMSS は 2013 年前後にシステム障害・内部管理態勢で行政処分歴あり (ガバナンス強化局面) ^[inferred]
-
-## Counterpoints
-
-- **「JV 二重構造の複雑性」**: MUMSS / MSMS の業務分担は明確だが、顧客側からは「同じグループの 2 社」に見え混乱要因 ^[ambiguous]
-- **「MUFG 持株 ~20% の戦略意義」**: 持分法利益寄与は大きいが、Morgan Stanley の経営に MUFG の影響力は限定的 → 純粋投資か戦略提携かの両論 ^[ambiguous]
-- **「リテール (MUMSS) の競争力」**: 野村・大和との対面リテール競争で劣後感、MUFG 銀行顧客誘導が十分機能しているか ^[inferred]
-- **「外資 IB ブランド希薄化」**: MUFG ブランドとの併存で「純粋外資」のプレミアム感が薄まる可能性 ^[inferred]
-- **「Morgan Stanley の WM シフト」**: 親会社グローバル戦略は IB → WM (E*TRADE / Eaton Vance) シフト中、日本での WM ビジネスがどこまで拡大できるか ^[ambiguous]
-
-## Open questions
-
-- MUFG の Morgan Stanley 持株比率は将来的に変動するか? (買増し or 売却シナリオ)
-- MUMSS / MSMS 2 社体制は永続的か? 1 社統合の可能性は?
-- 2024〜 Ted Pick CEO 体制下での日本戦略の変化は?
-- リテール (MUMSS) のデジタル化対応 (vs SBI [[sbi-hd]]・楽天・マネックス)
-- WM 領域での E*TRADE / Eaton Vance プロダクト日本投入の進捗
 
 ## Related
 

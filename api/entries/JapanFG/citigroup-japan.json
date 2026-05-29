@@ -46,14 +46,14 @@
   "headings": [
     "シティグループ・ジャパン (Citigroup Japan)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "日本の主要法人（公開情報ベース）",
     "2. 沿革（年表抜粋）",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
     "日本でのポジショニング",
-    "主要競合"
+    "主要競合",
+    "グローバル戦略との接続",
+    "5. 監督・規制"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6067,
-    "word_like_tokens": 846,
+    "nonspace_chars": 3989,
+    "word_like_tokens": 568,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

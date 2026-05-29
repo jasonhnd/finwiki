@@ -42,18 +42,14 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
-      "agent-economy/embedded-wallet-network-effects-moat",
       "agent-economy/erc-7715-overview",
-      "agent-economy/privy-embedded-wallet-overview",
       "fintech/INDEX",
       "systems/INDEX",
       "systems/erc-4337-overview",
@@ -61,9 +57,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
       "https://finwiki.zksc.io/agent-economy/erc-7715-overview",
-      "https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/erc-4337-overview",
@@ -73,9 +67,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3290,
-    "word_like_tokens": 546,
-    "inbound_wikilinks_count": 24,
+    "nonspace_chars": 2466,
+    "word_like_tokens": 442,
+    "inbound_wikilinks_count": 23,
     "last_modified": "2026-05-29"
   }
 }

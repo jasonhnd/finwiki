@@ -54,13 +54,13 @@
     "Bond-CDS basis trade Japan",
     "TL;DR",
     "Wiki route",
-    "What the basis measures",
     "Definition",
     "Why basis is not zero",
-    "The classic negative basis trade",
     "Structure",
     "P&L decomposition",
-    "Required holding period"
+    "Required holding period",
+    "Funding cost considerations",
+    "Repo-availability constraints"
   ],
   "body_links": {
     "wikilinks_count": 22,
@@ -116,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14409,
-    "word_like_tokens": 2429,
+    "nonspace_chars": 12737,
+    "word_like_tokens": 2147,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

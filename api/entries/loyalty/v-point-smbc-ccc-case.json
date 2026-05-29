@@ -54,9 +54,9 @@
     "Mechanics",
     "Scale and partner-merchant rollover",
     "Competitive positioning",
-    "Counterpoints",
     "Why this matters for JapanFG analysis",
-    "Open questions"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 18,
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9428,
-    "word_like_tokens": 1666,
+    "nonspace_chars": 7631,
+    "word_like_tokens": 1349,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

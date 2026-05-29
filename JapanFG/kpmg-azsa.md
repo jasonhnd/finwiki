@@ -31,10 +31,6 @@ sources:
 
 # 有限責任 あずさ監査法人 (KPMG AZSA)
 
-## TL;DR
-
-**有限責任 あずさ監査法人**（英名：KPMG AZSA LLC）は **Big 4 系列** の一角で、グローバル **KPMG** の日本メンバーファーム。**金融機関内部統制 / J-SOX / SOC2 連携監査** および **大手地銀・地方公共団体監査** に強みを持ち、業界内では「金融機関監査のあずさ」と認知されることが多い ^[inferred]。前身は **朝日監査法人 + 太田昭和監査法人** 系譜から派生し、**2003-12 あずさ監査法人 設立** → **2010-07 有限責任化** という経緯 ^[extracted]。**KPMG ジャパン** ブランド下に **税理士法人 / コンサル / FAS** を連携 ^[extracted]。
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[JapanFG/ey-shinnihon|EY 新日本]] and [[JapanFG/deloitte-touche-tohmatsu|トーマツ]] for peer Big 4 audit context, and [[JapanFG/legal-financial-licenses/INDEX|金融ライセンス INDEX]] for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は [[JapanFG/fsa-supervision-bureau|金融庁 監督局]] と [[JapanFG/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
@@ -65,15 +61,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 
 | 年月 | 事象 |
 |---|---|
-| 1968 頃 | 朝日監査法人 / 太田昭和監査法人 設立期 ^[inferred] |
-| 1990s | 朝日 / 太田昭和の各々 KPMG 国際ネットワーク提携 ^[inferred] |
 | **2003-12** | **あずさ監査法人 設立**（朝日 + 太田昭和系合流）^[extracted] |
-| 2007 頃 | みすず監査法人（旧 中央青山）解散による業界 4 大化に伴うクライアント受け皿 ^[inferred] |
 | **2010-07** | **公認会計士法改正に基づき有限責任あずさ監査法人へ移行** ^[extracted] |
-| 2015〜 | J-SOX 拡充期の内部統制監査強化 ^[inferred] |
 | 2020s | KPMG ジャパン ブランド統合・サステナビリティ法人新設 ^[extracted] |
-
-## 3. 金融サービス監査・アドバイザリー実務
 
 ### 金融機関監査（最大強み）^[extracted]
 
@@ -91,7 +81,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 
 ### 地方銀行 / 地方公共団体
 
-- 地銀グループの監査ポートフォリオは Big 4 内でも厚い ^[inferred]
 - 地方公共団体の包括外部監査も担当
 
 ### サステナビリティ保証
@@ -105,7 +94,6 @@ EDINET の有価証券報告書 監査人開示で確認可能な範囲で、あ
 - **[[JapanFG/smfg]] 三井住友フィナンシャル・グループ** — 旧 太田昭和系の系譜上、SMBC 関連監査関与の歴史的背景 ^[ambiguous]
 - **[[JapanFG/mizuho-fg]] みずほフィナンシャル・グループ** — メガ系列の一部関与 ^[ambiguous]
 - **大手生損保** — 複数社（具体的監査人は時点で変動）
-- **大手地銀グループ** — 複数の地銀持株 ^[inferred]
 
 注：個別会社の最新監査人は EDINET 各社最新有価証券報告書「監査人の状況」セクションで都度確認すべき。当エントリは時点情報を保証しない ^[ambiguous]。
 
@@ -131,21 +119,6 @@ EDINET の有価証券報告書 監査人開示で確認可能な範囲で、あ
 | PwC | [[JapanFG/pwc-aarata|PwC あらた]] | FinTech / Web3 |
 
 Tier 2：[[JapanFG/taiyo-grant-thornton|太陽グラントソントン]]、BDO 三優監査法人 ^[extracted]。
-
-## Counterpoints
-
-- **「オリンパス事件の教訓持続性」**：2011 オリンパス事件以降の品質管理改革定着度は ^[ambiguous]
-- **「地銀厚いポートフォリオの構造リスク」**：地銀統合再編進行下で **監査人交代圧力** が強まる可能性 ^[ambiguous]
-- **「KPMG グローバルの戦略変更」**：KPMG グローバルの監査 / コンサル統合戦略（EY 分割案撤回後の業界全体動向）との連動 ^[inferred]
-- **「Big 4 寡占」**：他 Big 4 同様 ^[inferred]
-
-## Open questions
-
-- あずさの最新の listed FG 監査クライアント具体的リスト
-- 直近 CPAAOB 検査の個別指摘
-- 地銀統合再編下での監査ポートフォリオ変動
-- KPMG グローバル戦略変更の日本影響
-- AI 監査ツール（KPMG Clara 等）の国内展開度
 
 ## Related
 

@@ -22,7 +22,6 @@ sources:
 
 # メルカリバンク (Mercari Bank)
 
-
 ## Wiki route
 
 This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/mercari-bank-license-stack|メルカリバンク license stack]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
@@ -64,13 +63,6 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 | Conversion | 売上金・残高をどれだけ預金化できるか |
 | Stickiness | メルカリアプリの利用頻度を金融導線に転換できるか |
 | License leverage | 自社ライセンスとみんなの銀行 API の境界をどこまで広げられるか |
-
-## Counterpoints
-
-- メルカリバンクの口座開設は marketplace ユーザーの利便性向上には強いが、給与受取やメインバンク化までは別問題。
-- メルカリ支店の API 連携制限は、汎用銀行口座としての使い勝手に制約を残す。
-- メルカリの本人確認、国籍条件、残高移動 UX は規制・AML 要件に左右される。
-- みんなの銀行側から見ると、大口パートナー依存の口座獲得は伸びやすいが、パートナー施策停止時の残高維持が課題になる。
 
 ## Related
 

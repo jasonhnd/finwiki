@@ -19,7 +19,6 @@ status: active
 
 # ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -66,19 +65,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - **v3 4 篇** · 2026-05-17 夜 · 深掘り特集（オンチェーンクローズドループ / タレント / AI / ソブリン）
 - **v4 4 篇** · 2026-05-18 · 規制 / ブラックボックス / 中銀 / 終局推演
 - 付属：ナラティブ図集 v1.0 · Executive Brief · クロスセクション戦略統合（付属資料は非公開）
-
-## Counterpoints
-
-- 長文は publication 級のアウトプットであり、**wiki アトムエントリとして再利用できない** —— 1 篇あたり 6-8K 字は staging 8 KB 上限の 5-10 倍を超える
-- 本エントリは reference として入口を案内するのみ、内容をコピーしない
-- 論点の再利用可能部分は対応するフレームワークエントリから取得すべき（例：5 層分解 → [[central-banking-function-unbundling]]、Visa → [[portfolio-winner-structure-arm-analog]]）
-- タイムスタンプ依存 —— 2026-05 基準日、一部予測（HK 5/21 ライセンス · GENIUS Q3 細則）は本エントリ review_by の前に必ず実現 / 失効するため、その時点で記事が古くなっているか再判断が必要
-
-## Open questions
-
-- 23 篇はいつ全体的に古くなり v5/v6 リライトが必要となるか？トリガー条件 = 5 主役のうち任意 2 社の構造的再編（M&A / ライセンス失敗 / 規制反転）· または三円 MRA の実質的破綻 / 着地のいずれか
-- 選定篇（01 / 04 / 14 / 23）を母 wiki の独立 reference エントリへ分解するか？現状本集合 reference のカバレッジで十分
-- v4 4 篇の深度（平均 7,516 字）はより細かい wiki フレームワークへ独立分解可能か？現状フレームワーク層がコアパターンをカバー済みで分解不要
 
 ## Related
 <!-- wiki-links:managed -->

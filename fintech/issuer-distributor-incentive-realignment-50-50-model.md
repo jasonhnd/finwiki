@@ -19,7 +19,6 @@ status: candidate
 
 # 発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -55,14 +54,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Origin & evolution
 
 2018 = Centre Consortium 設立 · Coinbase + Circle が USDC を共同発行 · 50/50 が初期条項。2020-2023 = DeFi サマー + 上場ブーム · USDC が DeFi のデフォルト・ステーブルコインに · 50/50 は高度に対称(分配者の価値は実在)。2023.08 = Centre 解散 · Circle が単独発行へ · ただし 50/50 条項は継続(目論見書で開示)。2025.07 = GENIUS Act §501 発効 · コンプラは標準装備化 · 分配者プレミアムは希釈される。2025.09 = Arc 公表 = Circle の再交渉レバーへ。
-
-## Counterpoints
-
-「50/50 は崩壊しない」と主張する立場:Coinbase Q1 2025 $305M = 同社収益の 12-15% · 双方とも崩壊は望まず、現状維持の方が崩壊より優位。Circle は上場済みで株主への説明責任があり、Coinbase に自発的に譲歩することは内部ガバナンス上の問題となる。Arc が成功して Base 上の USDC を侵食しても、それは 5-10 年単位の緩やかなペースであり、50/50 モデルも同調的に緩やかに調整(40/60 / 30/70)でき、断絶的なリセットは不要。同様の構造をより極端な分配側偏重で示すのが [[fintech/paypal-pyusd-stablecoin|PYUSD]] (Paxos → PayPal 80-90%)であり、より後期かつ非対称なバージョンを代表する。
-
-## Open questions
-
-Coinbase Q2-Q4 2025 / Q1 2026 決算におけるステーブルコイン収益のトレンドラインは?Circle 目論見書には 50/50 終了条件が明記されておらず、実際の終了メカニズムは何か(双方協議 / 仲裁)?Arc TVL がどの閾値に達したら強制的に再交渉となるのか?Tempo / Codex / Plasma は Coinbase-Circle の冷戦ウィンドウを利用して分配を奪取しに来るのか?
 
 ## Related
 <!-- wiki-links:managed -->

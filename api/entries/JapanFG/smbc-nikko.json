@@ -44,12 +44,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "業態の特徴",
     "主要子会社・関連会社（公開情報ベース）",
     "重要年表（公開情報ベース）",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "グループ内ポジション（smfg 内）"
+    "グループ内ポジション（smfg 内）",
+    "リテール戦略",
+    "ホールセール / IB 戦略"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6790,
-    "word_like_tokens": 983,
+    "nonspace_chars": 5384,
+    "word_like_tokens": 810,
     "inbound_wikilinks_count": 60,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

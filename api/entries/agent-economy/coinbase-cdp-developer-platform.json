@@ -45,13 +45,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "agent-economy/ai-agent-payment-protocols-overview",
@@ -63,9 +61,7 @@
       "fintech/embedded-wallet-fintech-disintermediation-overview",
       "fintech/usd-stablecoin-interchange",
       "payments/INDEX",
-      "systems/erc-4337-overview",
-      "systems/erc-7702-overview",
-      "systems/erc-7702-vs-erc-4337"
+      "systems/erc-4337-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -78,16 +74,14 @@
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
       "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/systems/erc-4337-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-overview",
-      "https://finwiki.zksc.io/systems/erc-7702-vs-erc-4337"
+      "https://finwiki.zksc.io/systems/erc-4337-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3341,
-    "word_like_tokens": 533,
+    "nonspace_chars": 2724,
+    "word_like_tokens": 436,
     "inbound_wikilinks_count": 20,
     "last_modified": "2026-05-29"
   }

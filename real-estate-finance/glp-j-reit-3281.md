@@ -75,7 +75,6 @@ GLP's Singapore-headquartered foreign-sponsor status is a distinctive feature of
 | Geographic focus | Greater Tokyo and Greater Osaka logistics submarkets along major expressways |
 | Tenant base | Third-party logistics (3PL) providers, e-commerce platforms, retailers, manufacturers |
 | Sponsor pipeline source | GLP development pipeline (preferential supply agreement) |
-| Average occupancy | Typically high-90% area for stabilized modern logistics portfolio ^[inferred] |
 
 ## 4. Capital and leverage
 
@@ -125,22 +124,6 @@ This rotation-centric model contrasts with the more buy-and-hold model historica
 | Foreign-investor profile | High — foreign-sponsor link | High — foreign-sponsor link |
 
 Both names compete for the AAA-grade modern-logistics tenant base and for foreign-investor logistics-J-REIT allocation. The GLP-Prologis pairing is the **listed proxy for the GLP-vs-Prologis global logistics rivalry** within Japan.
-
-## Counterpoints
-
-- **"Logistics J-REIT cap-rate has compressed too much"** — debated. Logistics cap rates compressed substantially through 2018-2022; whether further compression is sustainable depends on tenant-demand growth and competing capital flows.
-- **"E-commerce growth pace is slowing"** — true at the index level, but absolute level of e-commerce demand remains a structural tailwind for modern logistics.
-- **"Foreign sponsor may withdraw if global strategy shifts"** — possible but the long-term commitment evidenced by ongoing pipeline development suggests sustained GLP commitment to Japan.
-- **"Single-tenant logistics J-REIT face concentration risk"** — partial. GLP J-REIT mitigates via multi-tenant facility focus, but tenant concentration in logistics is structurally higher than in multi-tenant office.
-- **"GLP J-REIT and NPR overlap excessively"** — they compete head-on but both have grown; the Japan logistics market has absorbed both expansions to date.
-
-## Open questions
-
-- Sustainability of logistics cap-rate compression in the BoJ rate-normalization environment.
-- GLP's global strategy evolution and implications for sustained pipeline supply to GLP J-REIT.
-- Whether GLP J-REIT will diversify into adjacent asset classes (cold-chain logistics, data center) or maintain pure modern-logistics focus.
-- Foreign-investor flow sensitivity to JPY-USD hedging cost (see [[real-estate-finance/j-reit-foreign-investor-ownership|foreign investor ownership]]).
-- Long-run e-commerce penetration ceiling in Japan and its implications for modern-logistics demand.
 
 ## Related
 

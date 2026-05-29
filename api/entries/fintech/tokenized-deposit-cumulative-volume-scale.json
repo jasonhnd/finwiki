@@ -48,13 +48,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -64,10 +62,8 @@
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jpmorgan-jpmd-coin",
-      "fintech/multi-megabank-consortium-governance",
       "fintech/onchain-finance-vs-crypto-bifurcation",
-      "fintech/stablecoin-revenue-split-economics",
-      "fintech/tether-business-model-short-treasury-yield"
+      "fintech/stablecoin-revenue-split-economics"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -78,18 +74,16 @@
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
+      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3457,
-    "word_like_tokens": 538,
+    "nonspace_chars": 2847,
+    "word_like_tokens": 448,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -54,12 +54,12 @@
     "Shareholder structure (public disclosure)",
     "Why two specialist custodians, not one",
     "Lineage diagram",
-    "2. 主要業務",
     "Business-line map",
-    "Operating-function breakdown"
+    "Operating-function breakdown",
+    "The 「信託口」 nominee surface — CBJ specific"
   ],
   "body_links": {
-    "wikilinks_count": 25,
+    "wikilinks_count": 24,
     "wikilinks": [
       "JapanFG/bny-mellon-japan",
       "JapanFG/citigroup-japan",
@@ -69,7 +69,6 @@
       "JapanFG/master-trust-bank",
       "JapanFG/mitsubishi-ufj-trust-bank",
       "JapanFG/mizuho-trust-bank",
-      "JapanFG/progmat",
       "JapanFG/state-street-japan",
       "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
@@ -96,7 +95,6 @@
       "https://finwiki.zksc.io/JapanFG/master-trust-bank",
       "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
       "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/JapanFG/state-street-japan",
       "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -118,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19340,
-    "word_like_tokens": 2981,
+    "nonspace_chars": 16376,
+    "word_like_tokens": 2474,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

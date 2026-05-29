@@ -15,7 +15,6 @@ status: candidate
 
 # EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -50,23 +49,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 AVS コンセプトは EigenLayer 2021 論文の中核抽象。2023-06 ローンチ時は native ETH restaking のみサポート、slashing なし(コミットメント期)。2024-10 EIGEN token ローンチで inter-subjective dispute resolution を導入。2025 に slashing が正式起動、EigenLayer は「コミットメントメカニズム」から「実際の経済セキュリティマーケット」に移行。
 
 40+ AVS のローンチ進捗:EigenDA(データ可用性、modular L2 用)が最早 · Hyperlane(クロスチェーンメッセージ検証 EigenLayerISM)2024 · AltLayer / Espresso / Lagrange は 2024-2025 順次。
-
-## Counterpoints
-
-**Slashing 設計の二重困難**:
-- 厳格(高 slash %)→ Operator が opt-in を躊躇 · AVS が検証集合を集められない
-- 緩い(低 slash %)→ 攻撃コスト不足 · AVS セキュリティが形骸化
-
-実際 1 年内に大半の AVS は保守的な slash 比率(1-5%)を選択し、これが「暗号経済セキュリティ」の実際の威嚇力を弱めた。
-
-EIGEN inter-subjective 仲裁の操縦可能性は重要リスク —— AVS の争議 slash 金額が EIGEN 流通時価総額を大きく上回る場合、資本による投票操縦はほぼ不可避([[exchanges/global-dex-major-five-comparison|global DEX 主流 5 社対照]] における各社ガバナンス token の操縦コスト曲線と対照)。
-
-## Open questions
-
-- 実際の slash 事象における objective vs inter-subjective の比率は?
-- EIGEN token 流通時価総額と単一 slash 上限のセキュリティ境界は?
-- Operator のマルチ AVS における実際の平均参加度は?
-- LST restaking における Lido 等の LST プロトコルリスク事象での連鎖影響は?([[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]] における暗号ネイティブ側の感染経路と対照)
 
 ## Related
 <!-- wiki-links:managed -->

@@ -23,7 +23,6 @@ sources:
 
 # Saison Automobile & Fire / SOMPO Direct
 
-
 ## Wiki route
 
 This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
@@ -60,12 +59,6 @@ That makes it a bridge between [[insurance/life-insurance-channel-mix|channel mi
 | vs [[JapanFG/sony-fg|Sony FG]] | Sony's non-life unit is a direct-insurance peer; both show that direct channels can work in Japanese retail insurance. |
 | vs [[JapanFG/sompo|SOMPO group core non-life]] | Direct brand may have different customer acquisition, pricing, and claims UX, but group capital / governance still matters. |
 | vs traditional agency non-life | Direct model can reduce intermediary cost but must replace the trust and service role of agents. |
-
-## Open Questions
-
-- Refresh the exact group ownership and disclosure metrics from the latest SOMPO Direct disclosure report when doing investment-level analysis.
-- Quantify direct-channel market share against Sony Assurance and other direct auto insurers.
-- Separate auto-insurance underwriting performance from fire / other direct non-life products.
 
 ## Related
 

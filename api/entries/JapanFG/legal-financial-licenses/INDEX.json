@@ -232,9 +232,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 22213,
-    "word_like_tokens": 3212,
+    "nonspace_chars": 22132,
+    "word_like_tokens": 3200,
     "inbound_wikilinks_count": 117,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-05-29"
   }
 }

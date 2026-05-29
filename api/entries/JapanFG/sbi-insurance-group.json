@@ -46,26 +46,23 @@
     "主要子会社",
     "沿革 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "コアコンセプト",
-    "提携・買収戦略"
+    "提携・買収戦略",
+    "競合"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/sbi-securities",
       "axa-japan",
       "banking/INDEX",
       "lifenet",
-      "msad",
       "prudential-japan",
       "rakuten-fg",
       "sbi-hd",
       "sbi-shinsei-bank",
-      "sompo",
       "sony-fg",
-      "tokio-marine",
       "zurich-japan"
     ],
     "resolved_wikilinks": [
@@ -74,23 +71,20 @@
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/lifenet",
-      "https://finwiki.zksc.io/msad",
       "https://finwiki.zksc.io/prudential-japan",
       "https://finwiki.zksc.io/rakuten-fg",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/sompo",
       "https://finwiki.zksc.io/sony-fg",
-      "https://finwiki.zksc.io/tokio-marine",
       "https://finwiki.zksc.io/zurich-japan"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4377,
-    "word_like_tokens": 682,
+    "nonspace_chars": 3692,
+    "word_like_tokens": 591,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

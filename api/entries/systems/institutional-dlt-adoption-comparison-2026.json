@@ -55,19 +55,18 @@
     "機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon",
     "TL;DR",
     "Wiki route",
-    "6 つの機関 DLT プラットフォームの対位",
     "1. Canton(Digital Asset + R3 合併陣営)",
     "2. Public Ethereum L1(BlackRock + Franklin + Ondo 主導)",
     "3. Corda(R3、2025 統合後)",
     "4. Hyperledger Fabric(IBM-led)",
     "5. Hyperledger Besu(EVM 互換機関チェーン)",
-    "6. Avalanche Subnets(機関 RWA ロングテール)"
+    "6. Avalanche Subnets(機関 RWA ロングテール)",
+    "7. Polygon Enterprise(基本的に撤退済み)"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "fintech/apollo-acred-private-credit-tokenization",
       "fintech/bis-project-agora-overview",
       "fintech/bis-project-agora-overview\\",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
@@ -83,7 +82,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
       "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
       "https://finwiki.zksc.io/fintech/bis-project-agora-overview\\",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
@@ -101,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12342,
-    "word_like_tokens": 1813,
+    "nonspace_chars": 10945,
+    "word_like_tokens": 1625,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

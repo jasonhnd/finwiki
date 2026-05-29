@@ -18,7 +18,6 @@ status: candidate
 
 # 日本 EPI 三型アーキテクチャ · 信託型 / 銀行型 / 資金移動業者型 概要
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -52,18 +51,6 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2017「資金決済法」改正で「仮想通貨」を初めて定義。2019-04 改正資金決済法で「暗号資産」概念を導入。2022-06 改正案通過で EPI 三型フレームワークを導入。2023-06 施行、日本はステーブルコインの法的地位を明文で定義した世界初の主要経済国となる。2025-08 SBI Circle Holdings 設立で構図が変化:USDC の日本独占分配 + JPYC / Progmat / みんなの銀行 と合わせて 4 陣営を形成、詳細は [[fintech/japan-epi-four-camps-comparison|日本 SC 四陣営比較]] を参照。日本 VASP 総覧は [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 規制タイムテーブル]] を参照。
 
-## Counterpoints
-
-- 三型フレームワークが複雑 · 中小プロジェクトの選定が困難 · 規制コストが高い
-- 資金移動業者型の ¥100 万制限はリテール UX に影響
-- Progmat 1 兆円目標は遅延の可能性(クロスボーダー・コンプラなし + 49% MUFG 上限)
-
-## Open questions
-
-- 日本は USD ペッグ SC の国内発行フレームを打ち出すか(SBI Circle USDC モデル以外で)?
-- みんなの銀行 Solana ルートは他の地方銀行の追随を引き起こすか?
-- 改正資金決済法の第二弾は ¥100 万制限を調整するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -74,4 +61,3 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 <!-- /wiki-links:managed -->
 
 ## Sources
-

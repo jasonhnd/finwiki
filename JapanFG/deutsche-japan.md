@@ -17,7 +17,6 @@ sources:
 
 # ドイチェ・ジャパン (Deutsche Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -79,8 +78,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | リテール | **未展開** | 個人向け預金・住宅ローン等は実施せず |
 | 信託 | **縮小・閉鎖** | 旧ドイチェ信託銀行は撤退 |
 
-## 4. 戦略・競争
-
 ### 集中領域
 
 2019 グローバルリストラ後、日本でも以下に集中:
@@ -117,8 +114,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 6. 注目論点・Counterpoints
 
 - 「2019 リストラの徹底度」: 株式トレーディング撤退は明確、ただし日本における FICC・IB 維持の戦略的位置付けは外部観測では明確化されず ^[ambiguous]
-- 「DWS の独立性」: 2018 IPO 以降、運用ビジネスは親銀行と独立色強化、日本拠点運営にも影響 ^[inferred]
-- 「リテール非展開の継続性」: 邦銀との競合回避とコスト構造から合理的選択、ただしデジタル銀行勃興期に再参入機会の議論は外部にあり ^[inferred]
 - 「親会社の経営難 (2016-2019) と回復度合い」: 株価は低迷を脱したが、米銀大手との収益力差は継続 ^[ambiguous]
 - 「アジア戦略のなかでの日本位置付け」: 香港・シンガポール拠点との役割分担 (アジア統括 vs 日本独自市場対応) は外部観測では断定困難 ^[ambiguous]
 

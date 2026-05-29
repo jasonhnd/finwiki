@@ -31,9 +31,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 |---|---|
 | Legal name | 株式会社めぶきリース |
 | English name | Mebuki Lease Co., Ltd. |
-| License route | リース業 (貸金業登録は対応領域に応じて取得、銀行業免許ではない) ^[inferred] |
 | Group boundary | [[mebuki-fg]] 100% subsidiary; [[joyo-bank]] / [[ashikaga-bank]] 銀リース連携相手 |
-| Headquarters | 茨城県水戸市 ([[joyo-bank|常陽銀行]] 本店周辺) ^[inferred] |
 | Wiki role | Regional-bank FG leasing-subsidiary anchor (北関東地盤) |
 
 ## 2. 持株ツリー
@@ -51,8 +49,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
   └── 常陽キャピタル / 足利キャピタル ── 地域投資・コンサル系
 ```
 
-## 3. 合併経緯・前身
-
 ### 旧 常陽リース系譜
 
 - [[joyo-bank|常陽銀行]] 系列リース会社として、茨城県内中堅企業向け設備リースを主業
@@ -66,7 +62,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ### めぶき FG 設立とグループ統合
 
 - **2016-10-01**: [[mebuki-fg|めぶき FG]] 設立 ([[joyo-bank]] + [[ashikaga-bank]] 共同株式移転)
-- FG 設立後、グループリース機能の再編 → **めぶきリース** 名称統一 ^[inferred]
 - 銀行子会社 2 行の顧客基盤統合 + リース機能のスケールメリット追求
 
 ## 4. KPI table (concept) ^[ambiguous]
@@ -78,7 +73,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 銀リース連携 | [[joyo-bank]] / [[ashikaga-bank]] 顧客紹介 + 共同提案 |
 | 主要顧客層 | 北関東中堅企業 + 製造業・農業機械・医療機関・自治体 |
 | 親会社 | [[mebuki-fg]] 100% 出資 |
-| 業績開示 | [[mebuki-fg]] 連結ベース ^[inferred] |
 
 > 注: 単体財務 KPI 精緻値は [[mebuki-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
 
@@ -92,9 +86,6 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 自治体リース | 県内市町村向け公用車・設備リース |
 | 医療リース | 病院・診療所向け医療機器リース |
 | 農業機械リース | 茨城・栃木の農業地帯向けトラクター等 |
-| 再エネリース | 太陽光パネル・蓄電池等再エネ設備リース ^[inferred] |
-
-## 6. 戦略・競争
 
 ### FG 内ポジション
 
@@ -112,31 +103,15 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ### 強みと弱み
 
 - 強み: [[joyo-bank]] / [[ashikaga-bank]] 顧客基盤 (茨城・栃木の中堅企業 main bank) + 地域密着の現場対応
-- 弱み: 単独規模では大手リースに大幅劣後、複雑な航空機 / 不動産リース等は対応困難 ^[inferred]
 
 ## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) (リース業単独としては銀行業免許不要、貸金業登録は対応領域に応じて)
-- **業界団体**: リース事業協会 加盟 ^[inferred]
 - **規制論点**:
   - リース会計基準変更 (IFRS16 / 日本基準) 対応支援
   - 中小企業向けリース税制活用 (中小企業投資促進税制)
   - 環境リース (再エネ設備リース) の脱炭素税制対応
   - 反社チェック・マネロン対策 ([[mebuki-fg]] グループ共同実施)
-
-## Counterpoints
-
-- 「地銀系リース = 中途半端」論: 大手リースに規模で劣後 vs 銀リース連携の優位性 ^[ambiguous]
-- 「単独存続困難」論: リース業界寡占化進展、地銀系リース統合・売却シナリオ ^[inferred]
-- 「FG 内利益相反」: 銀行融資 vs リース提案の使い分け基準 ^[inferred]
-- 「地域経済縮小リスク」: 北関東中堅製造業の設備投資需要長期縮小懸念 ^[inferred]
-
-## Open questions
-
-- リース契約残高・新規取扱高の最新規模は ([[mebuki-fg]] セグメント情報で開示限定)
-- 大手リース ([[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]]) との将来統合・業務提携シナリオ
-- 再エネリース・EV リース等の新領域参入計画
-- [[mebuki-fg]] グループ内 [[mebuki-securities]] / めぶきカードとの cross-sell 強化策
 
 ## Related
 

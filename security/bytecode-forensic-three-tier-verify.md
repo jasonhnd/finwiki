@@ -33,8 +33,6 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-
 > [!info] TL;DR
 > プロジェクト側のverified contractとGitHubソースが一致しない場合、bytecodeこそがground truthとなる。三層verify:(1) オンチェーンdeployed bytecodeとGitHub sourceのコンパイル結果を比較、(2) 4-byte PUSH4-EQ dispatcherを逆推してfn selectorを抽出し、unverifiedコントラクトのインターフェイスを照合、(3) クロスチェーンverified twin fingerprintでチーム身元を特定する。
 
-## 三層 technique
-
 ### Layer 1: Deployed vs Compiled diff
 
 - eth_getCode(addr, "latest") でオンチェーンruntime bytecodeを取得
@@ -68,12 +66,6 @@ This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-
 - 既に完全にverifiedかつソースが信頼できるコントラクト(直接ソースを読めば足りる)— この場合は [[systems/formal-spec-implementation-codesign|formal-spec implementation co-design]] 等の仕様優先アプローチがより有効
 - proxyコントラクト(EIP-1967 storage slotからimplementationを特定したうえで実施)
 - 純粋にread-onlyのviewコントラクト(リスクが低い)
-
-## Counterpoints
-
-> [!question] Open questions
-> - Layer 2でselectorヒット後、signatureだけでなくfnの実際の挙動をどうverifyするか
-> - bytecode類似度がどの程度であれば「同一チーム」と認定できるか(業界にhard thresholdは存在しない)
 
 ## Provenance
 

@@ -45,8 +45,8 @@
     "重要性 ★",
     "合併歴史・前身",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "専業ポジション"
+    "専業ポジション",
+    "競合・国内 2 強体制"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4739,
-    "word_like_tokens": 691,
+    "nonspace_chars": 3818,
+    "word_like_tokens": 574,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

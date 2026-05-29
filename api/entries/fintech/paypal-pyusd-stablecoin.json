@@ -45,13 +45,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "agent-economy/coinbase-cdp-developer-platform",
@@ -63,8 +61,7 @@
       "fintech/ripple-rlusd-stablecoin",
       "fintech/stablecoin-crossborder-b2b-growth",
       "fintech/stablecoin-revenue-split-economics",
-      "fintech/world-liberty-usd1-political-stablecoin",
-      "systems/cctp-v2-overview"
+      "fintech/world-liberty-usd1-political-stablecoin"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -77,16 +74,15 @@
       "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
       "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
       "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin",
-      "https://finwiki.zksc.io/systems/cctp-v2-overview"
+      "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3743,
-    "word_like_tokens": 575,
-    "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3046,
+    "word_like_tokens": 476,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-05-29"
   }
 }

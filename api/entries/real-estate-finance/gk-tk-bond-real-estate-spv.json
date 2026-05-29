@@ -49,13 +49,13 @@
     "GK-TK bond real-estate SPV",
     "TL;DR",
     "Wiki route",
-    "1. Legal-form anatomy",
     "Two layers, one vehicle",
     "Why GK and not KK or LLP",
     "The 信託受益権 layer",
-    "2. Bond-type GK-TK (社債型)",
     "Structure",
-    "Why the bond layer"
+    "Why the bond layer",
+    "How it differs from CMBS",
+    "TK distribution as deductible expense"
   ],
   "body_links": {
     "wikilinks_count": 27,
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16624,
-    "word_like_tokens": 2844,
+    "nonspace_chars": 14051,
+    "word_like_tokens": 2360,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

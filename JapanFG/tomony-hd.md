@@ -17,7 +17,6 @@ sources:
 
 # トモニホールディングス (Tomony HD)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -33,7 +32,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**：東証 PRIME 8600 ^[extracted]
 **設立**：2010-04-01（徳島銀行 + 香川銀行 共同株式移転で経営統合）^[extracted]
 **本社**：香川県高松市・徳島県徳島市（2 本社体制）^[extracted]
-**機関設計**：監査役会設置会社 ^[inferred]
 
 ### 主要子会社・持分
 
@@ -68,7 +66,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2017** | **大正銀行 子会社化**（経営難からの救済型 M&A）|
 | **2020-01-01** | **徳島銀行 + 大正銀行 合併 → 徳島大正銀行 誕生** |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
-| 2024〜 | 中期経営計画（2024 策定）^[inferred]|
 
 ## 2. 事業セグメント・マップ
 
@@ -78,10 +75,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 関西展開 | [[tokushima-taisho-bank|徳島大正銀行]]（旧 大正銀行店舗網）| 大阪府内の店舗・関西経済圏アクセス |
 | 中小企業金融 | [[tokushima-taisho-bank|徳島大正銀行]]・[[kagawa-bank|香川銀行]] | 製造業（東予地区造船・四国製紙）・農業（みかん・うどん粉）・観光（八十八ヶ所）|
 | 個人ローン | 各子会社銀行 | 住宅・自動車・教育ローン中心 |
-| 個人預金 | 各子会社銀行 | 地元密着・高齢者比率高 ^[inferred]|
-| グループ機能 | トモニインフォメーションシステムズ等 | システム共通化・コスト削減 ^[inferred]|
-
-## 3. 戦略・競争
 
 ### クロス地盤戦略
 
@@ -95,13 +88,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **徳島 + 香川 経営統合**（2010-04-01）: 隣接四国 2 県地銀の対等合併型 HD 化（同様事例: 山口 FG・西日本 FH 等）
 - **大正銀行救済子会社化**（2017）: 大阪地盤獲得の戦略 M&A、経営難の大正銀行を吸収
 - **徳島大正銀行 合併**（2020-01）: HD 内 2 行 → 1 行体制で重複コスト削減・大阪 + 徳島の店舗網統合
-- **2 行体制維持**: 徳島大正銀行 + 香川銀行は合併せず → 各地域のブランド維持戦略 ^[inferred]
 
 ### 人口減少地域での生残戦略
 
 - 四国 4 県は日本でも人口減少率が高い → 関西経済圏 (大正銀行系) アクセスで補完
 - メガバンクと信金の中間ニッチ（地元中小企業 main bank）
-- システム共通化・店舗統廃合によるコスト削減 ^[inferred]
 - 観光・農業・製造業の地場産業金融に特化
 
 ### 地銀再編文脈での位置
@@ -115,27 +106,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **主管**: 金融庁（FSA）+ 四国財務局
 - **持株会社規制**：銀行法 第 52 条の 17
-- **G-SIB 非該当**: 国内地方銀行 FG ^[inferred]
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 国内預貸マージン改善ボーナス
   - 2025〜 地銀再編圧力（金融庁の地銀統合誘導策）
-  - 過疎地店舗網維持コストと収益性のトレードオフ ^[inferred]
-
-## Counterpoints
-
-- 「四国 + 大阪クロス地盤」評価: 広域分散リスク低減 vs 統治コスト増大 → 2 行体制維持の合理性は不透明 ^[ambiguous]
-- 「大正銀行救済」評価: 大阪地盤獲得の戦略的意義 vs 不良債權継承リスク ^[ambiguous]
-- 「2020-01 徳島大正銀行合併」効果: 重複コスト削減 vs 大阪店舗のブランド毀損リスク ^[ambiguous]
-- 「香川銀行と徳島大正銀行の将来統合」: HD 内 2 行体制は過渡期か恒久か → 業界では「最終的に合併」観測も ^[inferred]
-- 「人口減少地域の地銀」一般論: 四国 4 県の人口減少加速 → 中長期的に追加再編圧力 ^[inferred]
-
-## Open questions
-
-- 中期経営計画 2024 の具体的数値目標・進捗は？
-- 徳島大正銀行 + 香川銀行 の将来統合シナリオは？ HD 内 2 行体制は維持されるか?
-- 大阪地盤（旧 大正銀行店舗）の収益貢献度・店舗展開計画は？
-- 四国地銀再編における トモニ HD の位置取り（[[iyogin-hd]] / [[awa-bank|阿波銀行]] 等との関係）は？
-- DX・地域商社事業等 非金融領域への展開状況は？
 
 ## Related
 

@@ -17,7 +17,6 @@ sources:
 
 # 東海東京 FH (Tokai Tokyo Financial Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okasan-sg|岡三証券グループ (Okasan Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -57,8 +56,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
         └── 英国・米国 拠点
 ```
 
-## 2. 沿革
-
 ### 前身・沿革
 
 - **1908** 廣田貯蓄銀行 設立 → 後の系譜源流の一つ
@@ -79,8 +76,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **対面 5 大証券** (野村 / 大和 / [[mufg]] MUMSS / SMBC 日興 / みずほ) の下位、**中堅独立系トップクラス**
 - **中京経済圏** (名古屋・愛知・三重・岐阜) で**地場最大の独立証券**
 - 同じ名古屋系の競合 = [[okasan-sg]] (岡三証券グループ)。両社で「中京 2 強」
-
-## 3. 戦略
 
 ### 地銀合弁モデル (最大の差別化)
 
@@ -130,21 +125,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 新 NISA → リテール手数料圧縮、ネット系との競争激化
   - 地銀証券合弁の規制 (銀行法・金商法・利益相反管理)
   - 地銀再編 → JV パートナーの統合 (例: 親銀行の合併で JV 再編)
-
-## Counterpoints
-
-- 「地銀 JV 集中リスク」: パートナー地銀の経営悪化・再編で JV 不安定化 ^[inferred]
-- 「中京偏重」: 名古屋経済 (トヨタ系) 依存度高、東京 5 大証券に対するスケール不足 ^[inferred]
-- 「ネット時代の対面モデル」: SBI・楽天のネット手数料無料化に対し対面コスト構造が重荷 ^[inferred]
-- 「岡三 G との重複」: 中京 2 強で顧客・人材プールが分散、統合シナリオ論は時々浮上 ^[ambiguous]
-
-## Open questions
-
-- 地銀証券 JV の総数・出資比率の最新状況は？ 親地銀の再編で JV パートナー入替の動向
-- 2024 中計の数値目標 (ROE / 純利益 / 営業基盤) の進捗
-- [[okasan-sg]] との中京 2 強体制は今後も持続か、それとも統合・連携シナリオがあるか
-- 海外 (中国・ASEAN) 拠点の収益貢献度・IPO 引受実績
-- 富裕層 PB セグメントの規模、メガ系信託 ([[mufg]] 三菱 UFJ 信託等) との競合構図
 
 ## Related
 

@@ -21,7 +21,6 @@ sources:
 
 # NTT TC Leasing
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -75,13 +74,6 @@ NTT TC Leasing is a useful example of **asset-finance as ecosystem infrastructur
 - Telecom and data-center assets have technology obsolescence and concentration risk.
 - NTT group linkage can stabilize origination but may create dependency on NTT capex cycles.
 - Tokyo Century involvement adds leasing expertise but also makes group-party / JV governance analysis important.
-
-## Open Questions
-
-- How much of NTT TC Leasing's asset base is directly tied to NTT group demand?
-- Does generative-AI / data-center capex create a durable growth lane for NTT TC Leasing?
-- How should NTT TC Leasing be compared with Tokyo Century's consolidated subsidiaries and affiliates?
-- Could this platform become more important after NDFG's financial-group formation?
 
 ## Related
 

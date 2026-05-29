@@ -17,7 +17,6 @@ sources:
 
 # セントラル短資株式会社 (Central Tanshi)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ueda-yagi-tanshi|上田八木短資株式会社 (Ueda Yagi Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -63,8 +62,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 短資会社の役割
 
 短資会社は **インターバンク市場の専門仲介業者** で、銀行間のコール資金（無担保翌日物等）の貸借、手形売買、CD/CP 売買等を仲介する。日本特有の業態で、コール市場の効率化と日銀金融調節の円滑化に貢献。日銀オペレーションの主要対手（カウンターパーティ）でもあり、政策金利の波及メカニズムにおいて重要な位置を占める。
-
-## 3. 戦略・競争
 
 ### 業界構造（3 大短資 oligopoly）
 
@@ -118,21 +115,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2016〜 | マイナス金利政策下で短資業界さらに苦境 |
 | **2024-03** | **日銀マイナス金利解除** → 短資業界復活期待 |
 | 2024〜 | 中期経営計画で個人向け FX・オンライン金融強化 |
-
-## Counterpoints
-
-- 「3 大短資寡占の持続性」：政策金利正常化での復活期待 vs インターバンク市場の構造的縮小（銀行統合・余剰流動性）両論 ^[inferred]
-- 「個人 FX 展開の戦略整合性」：短資本業とのシナジーは限定的、独立 retail 業者との競合厳しい ^[inferred]
-- 「非上場のメリット・デメリット」：長期視点経営可能 vs 資本調達制約・透明性課題 ^[inferred]
-- 「日銀オペ対手地位の競合」：3 社間の対手枠配分・取引フロー差は非開示 ^[ambiguous]
-
-## Open questions
-
-- 2024 年マイナス金利解除後の業績回復ペースは？ コール市場取引高の回復実績
-- 3 大短資内での市場シェア・収益順位は？（非上場のため詳細非開示）
-- セントラル短資 FX の個人 retail 市場シェア・収益貢献度は？
-- デジタル取引プラットフォーム投資の規模・進捗
-- 短資業界全体の将来像：3 社体制継続か、さらなる再編シナリオか
 
 ## Related
 

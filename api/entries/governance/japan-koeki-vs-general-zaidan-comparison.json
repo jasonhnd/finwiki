@@ -56,11 +56,10 @@
     "Tax Treatment in More Detail"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 5,
     "wikilinks": [
       "INDEX",
       "corporate-strategy/INDEX",
-      "corporate-strategy/partial-spinoff-tax-deferral",
       "governance/INDEX",
       "governance/japan-general-foundation-establishment-requirements",
       "governance/japan-research-grant-map-2026"
@@ -68,7 +67,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/governance/INDEX",
       "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
       "https://finwiki.zksc.io/governance/japan-research-grant-map-2026"
@@ -77,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14340,
-    "word_like_tokens": 2384,
+    "nonspace_chars": 12961,
+    "word_like_tokens": 2131,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

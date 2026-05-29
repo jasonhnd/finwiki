@@ -42,7 +42,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 | 英名 | JA Tokyo Shinren / Tokyo Prefectural Credit Federation of Agricultural Cooperatives |
 | 法的形態 | **農協法に基づく都道府県信用事業連合会** |
 | 系統 | [[JapanFG/norinchukin|農林中央金庫]] 直系 (信連→農林中金) |
-| 組合員 | 都内 JA 8 組合 (JA 東京中央 / JA 多摩 / JA 八王子 / JA 西東京 / JA 東京あおば / JA 世田谷目黒 / JA 東京みなみ / JA 東京むさし 等) ^[inferred] |
 | 監督官庁 | 金融庁・関東財務局 + 農林水産省 + 東京都産業労働局農林水産部 |
 | ホームマーケット | 東京都全域 (23 区 + 多摩) |
 | Wiki role | **First JA-Bank prefectural credit-federation operating-company anchor** (都市信連の代表事例) |
@@ -55,7 +54,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 | 組合員職業 | 専業農家中心 | **兼業農家・遊休農地保有者・地域住民** |
 | 預金規模 | 数兆〜数十兆円 | **数兆円規模 (相対的に中規模)** ^[ambiguous] |
 | 経営課題 | 農業従事者高齢化 | **農地都市化 + 相続税対策 + 生産緑地問題** |
-| 直結方式議論 | 限定的 | **2010 年代後半に議論あり** ^[inferred] |
 | メガバンク併合 | 競合限定 | **メガバンク・地銀との直接競合** |
 
 ### 重要年表 ^[extracted / inferred]
@@ -67,12 +65,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 | 1980〜90 年代 | 23 区内農地の急速な都市化 → 都内 JA 統合進行 |
 | 2000〜 | [[JapanFG/norinchukin|農林中央金庫]] の系統一体運営加速 |
 | **2002〜** | [[banking/ja-bank-system-japan|JA Bank system]] 稼働、都内 JA + 信連 + 農林中金一体運営化 |
-| 2010 年代後半 | **直結方式 (JA → 農林中金 直結) 移行論議**が東京都で議論 ^[inferred] |
 | **2025-04-01** | **31 信連体制内で東京都信連は継続稼働** ([[JapanFG/norinchukin|農林中金]] 公開資料) ^[extracted] |
-
-> 注: 直結方式に移行した県の正確な名前 ^[inferred] (沖縄・東京等の検討経緯) は要追加検証
-
-## 2. 業務 map
 
 ### 4 大機能 (信連共通) ^[extracted]
 
@@ -114,26 +107,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 
 > 注: 信連別 KPI は信連 IR + 農林中金公開資料を要参照、上記 ^[ambiguous] は概数
 
-## 3. 系統内位置・戦略
-
 ### 31 信連内での東信連の位置
 
-- **31 信連の中で都市信連 (大都市圏立地)** = 東京・大阪・愛知・福岡等の都市信連グループに分類 ^[inferred]
 - 地方信連 (北海道・福島・新潟等) と異なる **「都市農業 + 兼業 + 観光」**特性
-- 規模は **中規模クラス** (大規模地方信連の半分以下、小規模地方信連の数倍) ^[inferred]
 
 ### 直結方式 (JA → 農林中金 直結) 議論
 
-- **「都内 8 JA」**程度なら **信連を経由せず JA → 農林中金 直結**で運営可能との議論 ^[inferred]
-- 沖縄県等で先行する直結方式 → 東京都も検討対象に ^[inferred]
 - **継続案 vs 直結案**の論争: 県組合員代表性 vs 経営効率 ^[ambiguous]
 
 ### 都市農業対応の固有戦略
 
 - **1992 年生産緑地法**: 30 年指定で都内農地を保全 → 2022 年指定解除タイミング
 - **生産緑地法改正 (2018)**: 特定生産緑地 + 都市農業振興基本法で農地継続支援
-- 東信連 + 都内 JA は **「相続税納税猶予」**を活用した農地継続融資サービスを提供 ^[inferred]
-- **観光農業・体験農業** (都民向け農業体験プログラム) への融資強化 ^[inferred]
 
 ### 他県信連との比較 ^[inferred]
 
@@ -148,8 +133,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 
 ### システム共同化
 
-- **JASTEM (JA バンク統合電算システム)** 共同利用 (全国 JA + 信連共通) ^[inferred]
-- **JA バンク中央センター** (基幹系・勘定系の共同運営) ^[inferred]
 - ATM 共同ネットワーク (JA カード相互利用)
 
 ## 4. KPI (推定)
@@ -158,10 +141,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 |---|---|---|
 | 東信連総資産 | 数兆円規模 | ^[ambiguous] 信連 IR 要参照 |
 | 東信連預金残高 | 数兆円規模 | ^[ambiguous] |
-| 東信連自主運用残高 | 数千億円規模 | ^[inferred] |
-| 都内 JA 数 | **8 JA** | ^[inferred] (要追加検証) |
-| 都内 JA 合計組合員 | 数十万人 | ^[inferred] |
-| 東信連職員数 | 数百人 | ^[inferred] |
 
 > 注: 31 信連全体での詳細 KPI は [[JapanFG/norinchukin|農林中金]] 公開資料 + 各信連 IR 要参照
 
@@ -169,31 +148,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 
 - **主管**: 金融庁・関東財務局 (信用事業健全性) + 農林水産省 (協同組合監督) + 東京都 (都組合監督)
 - **法的根拠**: 農業協同組合法 (信用事業連合会条項)
-- **預金保険**: 農水産業協同組合貯金保険機構経由 (一般金融機関とは別建て) ^[inferred]
 - **直近政策論点**:
   - **直結方式移行**の継続議論
   - **生産緑地 2022 問題後**の都市農業継続支援
   - **JASTEM 高度化** + DX 推進
   - **2024〜農林中金米債損失** の信連配当への影響
   - **食料安全保障計画 (2026〜)** での都市信連の役割
-
-## Counterpoints
-
-- **「都市信連の存在意義」**: 都内 8 JA + 農林中金で十分との立場 vs 都組合員代表性 + 都市農業特化サービスが必要との立場 ^[ambiguous]
-- **規模の限界**: 大規模地方信連と比較して規模半分以下 → 経営効率の **スケールデメリット** ^[inferred]
-- **直結方式リスク**: 沖縄等先行ケースの **コスト + 効率効果** が東京都に適用可能か検証必要 ^[ambiguous]
-- **都市農業 vs 一般銀行**: メガバンク + 地銀が都内 SME 融資に積極的、**東信連の競争優位は限定的** ^[inferred]
-- **JASTEM 維持コスト**: 全国共通システムの維持コストが小〜中規模信連には相対的に高負担 ^[inferred]
-- **農林中金 2024 米債損失波及**: 中央の損失 → 東信連への配当縮小 → 都内 JA への配当縮小 → 組合員 (農家) への還元縮小 の **連鎖懸念** ^[inferred]
-
-## Open questions
-
-- **都内 JA 数の正確なリスト** (8 JA 程度と推定) と各 JA の組合員規模は?
-- **直結方式移行**の東京都での具体的議論内容と現状は?
-- **生産緑地 2022 問題後**の都市農業継続融資の実績は?
-- **東信連の最新総資産・預金規模** は?
-- **31 信連内での東信連のランキング** は?
-- **食料安全保障計画 (2026〜)** で都市信連に求められる新機能は?
 
 ## Related
 

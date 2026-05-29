@@ -20,7 +20,6 @@ sources:
 
 # 楽天銀行 (Rakuten Bank)
 
-
 ## Wiki route
 
 This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/paypay-bank|PayPay 銀行 (PayPay Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
@@ -40,18 +39,6 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 楽天銀行の強みは、銀行単体の金利競争ではなく楽天経済圏内の接触頻度を使った口座獲得にある。楽天証券との sweep / preferential-rate 導線は、給与・生活費・投資余力を同じ金融圏に集める装置として機能する。
 
 一方で、預金残高と口座数の伸びは楽天グループ全体のブランド・ポイント設計に強く依存する。楽天モバイルを含むグループ信用、ポイント改定、証券顧客の流入鈍化が起きると、銀行単体の成長率にも波及する。
-
-## Counterpoints
-
-- 口座数は active primary account と同義ではない。実稼働率・給与受取率・決済頻度を別に見る必要がある。
-- 日銀利上げ局面では利ざや拡大が追い風になるが、預金金利競争が強まると調達コストも上がる。
-- 楽天証券・楽天市場との連携は moat である一方、楽天経済圏外の顧客には訴求が弱くなる。
-
-## Open questions
-
-- 18.07 million accounts のうち、給与受取またはメイン口座化している割合はどれくらいか。
-- Money Bridge 経由の預金残高は全体預金に対してどれくらいか。
-- [[JapanFG/rakuten-fg|楽天金融]] 内で銀行・証券・カードの収益貢献はどう変化しているか。
 
 ## Related
 

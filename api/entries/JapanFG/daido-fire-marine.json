@@ -44,8 +44,8 @@
     "主要業務・支店網",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "地場優位の源泉"
+    "地場優位の源泉",
+    "大手 3 損保との競合"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4284,
-    "word_like_tokens": 517,
+    "nonspace_chars": 3297,
+    "word_like_tokens": 406,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -47,8 +47,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company a
 | 上場 | 非上場（親会社 [[JapanFG/credit-saison]] が東証 PRIME 8253）|
 | 主要販売チャネル | **直販（自社窓口）** + 一部金融機関 + [[JapanFG/credit-saison|Credit Saison]] カード顧客導線 |
 
-## 2. 業務ライン
-
 ### 2.1 主力ファンド 2 本柱
 
 | ファンド | 特徴 |
@@ -67,7 +65,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company a
 
 - **新 NISA（つみたて投資枠 / 成長投資枠）対応**: 主力 2 ファンドはいずれもつみたて投資枠対象ファンドとして金融庁基準を満たす
 - **iDeCo（個人型確定拠出年金）対応**: 主力ファンドは iDeCo の運用商品として複数の運営管理機関で採用
-- 2024 新 NISA 制度開始以降、つみたて投資枠経由の **新規資金流入が加速** ^[inferred]
 
 ## 3. 親会社関係（[[JapanFG/credit-saison|Credit Saison]] 連結内）
 
@@ -97,12 +94,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company a
 | 純資産総額（AUM） | 数千億円規模（主力 2 ファンド合算で 5000-7000 億円 規模との業界観測）|
 | 主力ファンド「セゾン・グローバルバランスファンド」 | 単独で 3000-4000 億円規模 ^[ambiguous] |
 | 顧客口座数 | 数十万口座規模（直販ベース）|
-| 新 NISA 開始後の AUM 成長率 | 二桁成長（業界平均を上回るペース）^[inferred] |
 | 業界順位 | 独立系直販投信としては国内 Top-3 規模（vs [[JapanFG/hifumi|ひふみ投信]] [[JapanFG/sawakami-am|さわかみ投信]] [[JapanFG/commons-am|コモンズ投信]]）|
 
 > AUM・口座数の精緻数値は月次運用報告書・有価証券報告書で開示。最新数値は公式 IR 参照。
-
-## 5. 戦略
 
 ### 5.1 直販投信モデル
 
@@ -140,23 +134,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company a
 | ライセンス | 投資運用業（金融庁登録）・第二種金融商品取引業 |
 | 顧客資産分別管理 | 信託銀行（[[JapanFG/master-trust-bank|マスタートラスト信託]] 等）に信託 |
 | 監査 | 監査法人による会計監査 + 受託銀行による日次基準価額計算 |
-
-## Counterpoints
-
-- 「直販投信」優位性: 楽天証券・SBI 証券等のネット証券経由販売が拡大し、純粋な直販モデルの差別化は相対化 ^[ambiguous]
-- 「中野晴啓氏退任」影響: 2023 創業者退任後、独立色強い投信哲学の継承度は要観察 ^[ambiguous]
-- 「親会社 [[JapanFG/credit-saison|Credit Saison]] シナジー」: カード顧客 → 投信のクロスセル効率は親会社業績との連動・カード会員プロファイル次第 ^[inferred]
-- 「Vanguard 依存」: 主力「グローバルバランスファンド」が Vanguard ETF を中核に組み立てているため、Vanguard 商品ラインや手数料水準の変動が直接影響 ^[inferred]
-- 「新 NISA 追い風」: 制度的追い風は競合（[[JapanFG/hifumi|ひふみ投信]] / メガ系運用会社）にも同様に作用、相対的シェア拡大は別問題 ^[inferred]
-
-## Open questions
-
-- AUM 中期目標（新 NISA 追い風で 1 兆円超か）?
-- 中野晴啓氏退任後の「直販 + 長期国際分散」哲学の継承度?
-- [[JapanFG/credit-saison|Credit Saison]] カード顧客 → 投信クロスセル効率の定量化（カード会員のうち何 % が投信口座保有か）?
-- ネット証券販売シェア vs 直販シェアの推移（ネット証券化進行度）?
-- 主力ファンドの実質利回り・トータルリターンの長期実績（10 年・20 年累積）?
-- iDeCo 取扱運営管理機関の拡大余地?
 
 ## Related
 

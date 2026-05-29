@@ -48,19 +48,16 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/blackrock-buidl-sc-issuer-adoption",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
-      "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/onchain-finance-vs-crypto-bifurcation",
@@ -73,7 +70,6 @@
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
@@ -85,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3697,
-    "word_like_tokens": 590,
+    "nonspace_chars": 3057,
+    "word_like_tokens": 483,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

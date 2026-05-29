@@ -45,12 +45,12 @@
     "主要法人ストラクチャ",
     "重要历史（年表）",
     "2. 業務ライン",
-    "3. 戦略と競争",
     "ポジショニング",
-    "グローバルレバレッジ"
+    "グローバルレバレッジ",
+    "競合関係"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/axa-japan",
@@ -58,7 +58,6 @@
       "banking/INDEX",
       "lifenet",
       "msad",
-      "nippon-life",
       "prudential-japan",
       "sbi-hd",
       "sompo",
@@ -72,7 +71,6 @@
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/lifenet",
       "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/nippon-life",
       "https://finwiki.zksc.io/prudential-japan",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/sompo",
@@ -83,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5507,
-    "word_like_tokens": 677,
+    "nonspace_chars": 3965,
+    "word_like_tokens": 506,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

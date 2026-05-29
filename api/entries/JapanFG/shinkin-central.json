@@ -46,9 +46,9 @@
     "主要数値（推定・概況）^[ambiguous]",
     "重要年表（抜粋）^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
     "中央機関としての二重役割",
-    "海外戦略"
+    "海外戦略",
+    "デジタル・決済戦略"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4127,
-    "word_like_tokens": 514,
+    "nonspace_chars": 2825,
+    "word_like_tokens": 393,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

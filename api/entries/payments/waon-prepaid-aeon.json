@@ -55,8 +55,8 @@
     "Acceptance footprint",
     "KPI snapshot",
     "Strategy: closed-loop loyalty anchor",
-    "Counterpoints",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 18,
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9032,
-    "word_like_tokens": 1456,
+    "nonspace_chars": 8198,
+    "word_like_tokens": 1309,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

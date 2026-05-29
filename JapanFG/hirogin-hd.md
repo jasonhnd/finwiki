@@ -16,7 +16,6 @@ sources:
 
 # ひろぎん HD (Hirogin Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -81,8 +80,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | IT | ひろぎん IT ソリューションズ | グループ内システム |
 | 海外 | 広島銀行 海外駐在員事務所 | 上海・香港・シンガポール・バンコク・NY |
 
-## 3. 戦略・競争
-
 ### 地盤戦略
 
 - **広島県地盤**: 県内シェア No.1（預貸金）・中国地方経済圏のコア銀行
@@ -121,20 +118,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 国内預貸利鞘改善
   - マツダの EV シフト・北米関税リスク → サプライチェーン融資の信用リスク
   - 地銀再編圧力（金融庁の地銀統合促進）→ 中国地方内での再編シナリオ
-
-## Counterpoints
-
-- 「マツダ依存リスク」: 単一顧客（広島県基幹産業）への融資集中 → EV シフト・北米関税で揺れた場合の信用リスク ^[inferred]
-- 「広島県人口減少」: 県内人口減少 → 地盤縮小トレンド。域外展開で補完できるか ^[inferred]
-- 「中国 4 行併存の非効率」: [[JapanFG/chugin-okayama|chugin-fg]]・[[san-in-godo-bank]]・[[yamaguchi-fg]] と並存。再編シナリオは金融庁主導で繰り返し議論 ^[ambiguous]
-- 「持株会社化の効果」: 2020-10 持株会社化以降、グループシナジーの定量効果は中計実績待ち ^[ambiguous]
-
-## Open questions
-
-- マツダ EV シフト + 北米関税圧力での自動車部品サプライヤー融資の信用コスト推移は？
-- 中国地方 4 行（広島・中国・山陰合同・山口）の再編シナリオ現実性は？
-- [[yamaguchi-fg]] 傘下もみじ銀行との広島県内シェア競合の構造変化は？
-- 持株会社化後の周辺事業（証券・リース・PE）の収益貢献度は？
 
 ## Related
 

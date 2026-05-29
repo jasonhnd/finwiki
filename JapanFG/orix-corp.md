@@ -17,7 +17,6 @@ sources:
 
 # オリックス株式会社 (ORIX Corporation)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -34,7 +33,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **創業**：1964-04-17（株式会社オリエント・リースとして）^[extracted]
 **改称**：1989-04（オリックス株式会社に商号変更）^[extracted]
 **本社**：東京都港区浜松町 2-4-1 世界貿易センタービル南館（登記）/ 大阪本社 大阪市西区 ^[extracted]
-**機関設計**：指名委員会等設置会社（2003-06 移行、邦銀・大手金融で最早期の一社）^[inferred]
 
 ### 経営体制（2025 年度）^[extracted]
 
@@ -51,8 +49,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 日本マスタートラスト信託銀行（信託口）| 約 17% 台 |
 | 日本カストディ銀行（信託口）| 約 6% 台 |
 | State Street / BNY Mellon / JPMorgan 等海外機関 | 計 15〜20% 台 |
-
-（メインバンク的安定株主は不在、純粋な機関投資家構成）^[inferred]
 
 ### 主要子会社・持分
 
@@ -107,7 +103,6 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | 法人金融 | ORIX 本体 | リース + 融資、創業事業 |
 | メンテナンスリース | オリックス自動車・レンテック | 自動車・計測器・PC・ロボット |
 | 不動産 | オリックス不動産 + J-REIT 8954 | オフィス・商業・物流・旅館（撤退済）|
-| 事業投資・コンセッション | ORIX 本体 | 関空運営権・空港コンセッション含む ^[inferred] |
 | 環境エネルギー | ORIX 環境エネルギー部門 | 再エネ発電・電力小売 |
 | 保険 | オリックス生命 | 中堅生保・ネット完結商品強み |
 | 銀行・クレジット | オリックス銀行 + オリックス・クレジット | 不動産投資ローン特化 |
@@ -115,12 +110,9 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | 米州 | ORIX USA | 米国不動産・PE・融資 |
 | アジア・豪州 | ORIX Asia / Australia / India | 中国・インド・印度・豪州 |
 
-## 3. 戦略・競争
-
 ### 多角化モデル
 
 - **「リース＋」モデル**: 創業のリースを起点に、隣接事業（融資 → 不動産 → 投資 → 保険 → 銀行 → AM）へ段階的拡張 ^[extracted]
-- **「持たざる経営」vs「持つ経営」のハイブリッド**: 金融サービス（持たざる）+ 不動産 / インフラ実物資産（持つ）の両輪 ^[inferred]
 - **海外比率拡大**: 米州・アジア豪州合算で営業利益の 30〜40% 台（年度変動）^[ambiguous]
 
 ### 戦略提携・M&A 歴
@@ -131,16 +123,9 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 - **弥生売却（2019）**: ノルディック・キャピタル（KKR 系）へ、IT 事業ポートフォリオ整理 ^[extracted]
 - **大江戸温泉物語 売却（2021）**: ローン・スターへ、温浴事業撤退 ^[extracted]
 
-### 競合・差別化
-
-- **対 [[mufg]] / [[smfg]] / [[mizuho-fg]]**: メガバンク傘下リース会社（[[JapanFG/mitsubishi-hc-capital|三菱 HC キャピタル]]・[[JapanFG/smfl|smfl]]・[[JapanFG/mizuho-lease|みずほリース]]）に対し、**独立系・コングロマリット型**で多角化幅が広い ^[inferred]
-- **対 [[JapanFG/fuyo-lease|芙蓉総合リース]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/ntt-tc-lease|NTT・TC リース]]**: リース単体ではなく **保険・銀行・不動産・米州 PE まで一気通貫** ^[inferred]
-
 ## 4. 規制・政策
 
 - **主管**: 金融庁（FSA）+ 各事業セクター個別規制
-- **持株会社規制**：ORIX 本体は銀行法上の銀行持株会社では**ない**（傘下のオリックス銀行は単体で銀行業免許）^[inferred]
-- **海外規制**: 米 SEC・FRB（ORIX USA）、印度 RBI、豪州 APRA 等 ^[inferred]
 - **直近政策論点**:
   - 2023〜2024 米国オフィス不動産含み損 → 開示・減損処理の透明性
   - 2024〜 日銀金利正常化 → 国内融資マージン改善
@@ -154,23 +139,6 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | - | **宮内義彦** | **1980〜2000 社長 → 2000〜2014 会長 → 現シニア・チェアマン** | 中興の祖、リース → 総合金融へ転換主導 |
 | - | 藤木保彦 | 2000 年代 社長 | - |
 | - | 井上亮 | 2014〜社長 → 2024-06〜 取締役会長 兼 CEO | 現体制 |
-
-## Counterpoints
-
-- 「コングロマリット・ディスカウント」観: 10 セグメントへ多角化 → 株価評価が単体合計を下回る批判 ^[inferred]
-- 「米国不動産含み損」: 2023〜2024 オフィス賃料下落・金利上昇直撃、減損計上の透明性 ^[extracted]
-- 「銀行持株会社ではない」二面性: 銀行法規制を回避しつつ銀行・保険を傘下に持つ独自構造、規制裁定の側面 ^[inferred]
-- 「宮内義彦体制の長期化」: 1980〜2014（社長 + 会長 34 年）+ シニア・チェアマン継続 → ガバナンス独立性議論 ^[ambiguous]
-- 「弥生・大江戸温泉売却の戦略意義」: 非中核事業整理 vs ポートフォリオ縮小（成長領域への再投資効率）^[ambiguous]
-
-## Open questions
-
-- 米国不動産事業の中期撤退/縮小シナリオは？ 含み損ピークアウトのタイミング
-- 環境エネルギー事業の上場・分離 IPO 可能性は？ ^[inferred]
-- 関空コンセッション（VINCI 連合）等インフラ運営事業の本体貢献度は？
-- 井上亮 CEO 体制（2024〜）下での次期中期経営計画の戦略軸
-- アジア豪州事業（特に印度 ORIX India）の拡大ペースは？
-- Houlihan Lokey 出資のさらなる縮小 / 完全 Exit シナリオは？
 
 ## Related
 

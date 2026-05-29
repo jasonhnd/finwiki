@@ -49,14 +49,14 @@
   "headings": [
     "ステート・ストリート (State Street Japan)",
     "Wiki route",
-    "TL;DR",
     "1. 会社概要",
     "グローバル財務（2025〜2026Q1 期）",
     "日本の主要法人（公開情報ベース）",
     "2. 沿革（年表抜粋）",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
-    "日本でのポジショニング"
+    "日本でのポジショニング",
+    "主要競合",
+    "グローバル戦略との接続"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -108,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8455,
-    "word_like_tokens": 1222,
+    "nonspace_chars": 5738,
+    "word_like_tokens": 831,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

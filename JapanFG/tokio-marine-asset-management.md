@@ -17,7 +17,6 @@ sources:
 
 # 東京海上アセットマネジメント (Tokio Marine AM)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
@@ -42,7 +41,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **損害保険責任準備金運用**、**年金運用**、**公募投信運用**、**投資一任** を担う [[JapanFG/tokio-marine|東京海上 HD]] の運用会社。
 - 損保 FG の運用機能として、長期負債 (損保責任準備金) のデュレーション・マッチング運用が中核。
 - 公募投信・NISA 商品にも展開し、生保・銀行販売チャネル経由で個人投資家向けに販売。
-- ESG / サステナビリティ運用にも注力 (損保親会社の気候変動リスク管理との連携) ^[inferred]
 
 ## 3. 出資・統治構造
 
@@ -58,7 +56,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ```
 
 - [[JapanFG/tokio-marine|東京海上 HD]] 100% 子会社、メガバンク系 AM のような JV 構造ではない
-- 損保親会社の責任準備金運用 (損保事業の prudential margin) を担うため、運用方針は中長期 + 低ボラティリティ志向 ^[inferred]
 
 ## 4. Why standalone page matters
 
@@ -67,7 +64,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 1. **損保系運用会社カテゴリの代表**：[[JapanFG/msad|MS&AD]] や [[JapanFG/sompo|SOMPO]] 系運用会社と並ぶが、東京海上の海外展開・ESG リーダーシップが運用方針に反映
 2. **NISA 拡充 + 公募投信競争** の損保系プレイヤー：銀行系 ([[JapanFG/mufg-asset-management|MUAM]]) / 証券系 ([[JapanFG/nomura-asset-management|野村アセット]]) / 信託系 ([[JapanFG/smt-am|SMT-AM]]) との競合
 3. **損保責任準備金運用 (約 30 兆円規模) の運用方針** が中堅金融市場 (国内債・株式・オルタナティブ) に与える影響
-4. **気候変動リスク・ESG 投資** での損保親会社の信頼性を活用した運用商品差別化 ^[inferred]
 
 ## 5. 競合・peer
 

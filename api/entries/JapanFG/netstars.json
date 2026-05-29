@@ -45,13 +45,11 @@
     "1. 法人・ライセンス境界",
     "2. Business Role",
     "3. Why This Standalone Page Matters",
-    "Counterpoints",
-    "Open Questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/dg-financial-technology",
@@ -59,7 +57,6 @@
       "JapanFG/merpay",
       "JapanFG/paypay",
       "JapanFG/sb-payment-service",
-      "fintech/japan-stablecoin-regulatory-landscape",
       "payments/INDEX",
       "payments/funds-transfer-service-providers-japan-index",
       "payments/japan-code-payment-competitive-map",
@@ -72,7 +69,6 @@
       "https://finwiki.zksc.io/JapanFG/merpay",
       "https://finwiki.zksc.io/JapanFG/paypay",
       "https://finwiki.zksc.io/JapanFG/sb-payment-service",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
@@ -82,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3851,
-    "word_like_tokens": 598,
+    "nonspace_chars": 3135,
+    "word_like_tokens": 487,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-05-29"
   }
 }

@@ -34,27 +34,15 @@ A real-estate bridge fund (also called warehousing fund or pre-REIT vehicle) is 
 
 This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] and is the warehousing-layer routing page for Japanese real-estate finance. Read it together with [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the dominant takeout buyer, with [[real-estate-finance/top-10-j-reit-overview-matrix|top-10 J-REIT overview matrix]] for the largest end-buyers, with [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]] for the alternative takeout route, with [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] for the legal-vehicle layer, and with [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]] for the related but distinct securitization-based exit route. Pair with [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for the trustee infrastructure that holds the 信託受益権, with [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split, and with [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] for the long-duration buyer base on the takeout side. Cross-domain anchors: [[policy-finance/japan-housing-finance-agency|JHF]] is not in the commercial real-estate bridge chain, but [[finance/INDEX|finance index]] holds the corporate-finance-vehicle context, and [[policy-finance/INDEX|policy-finance index]] is the public-credit reference.
 
-## 1. Why bridge funds exist in Japan
-
 ### Timing-mismatch problem
 
 Sellers of institutional-grade Japanese real estate (megabank-affiliated developers, real-estate holding companies, corporate divestiture transactions, distressed-asset workout) need closing certainty over a 2-4 month timeline. The natural end-buyers — J-REITs and pension funds — operate on different cycles:
 
 | End-buyer | Acquisition-timing constraint |
 |---|---|
-| Listed J-REIT | Acquisition typically requires unitholder vote (内部成長 / 外部成長 cycle) plus equity raise to fund. Equity raise itself takes 2-3 months from launch to settlement. Total time from "would-buy" to "can-pay" can be 4-9 months. ^[inferred] |
-| Private REIT | Slightly faster than listed J-REIT but still constrained by quarterly capital-call cycle from LPs. ^[inferred] |
-| Pension fund direct | Annual or semi-annual allocation cycle plus due-diligence period. ^[inferred] |
-| Sovereign wealth fund | Allocation-committee cadence; due-diligence; cross-border-transaction overhead. ^[inferred] |
 | Corporate strategic buyer | Strategic-review cycle; board approval; financing arrangement. |
 
 The bridge fund absorbs this timing mismatch. Sellers get fast closing; end-buyers get a controlled-asset path to a known-quality property at a pre-agreed (or pre-disciplined) acquisition price.
-
-### Sponsor-aligned bridge as a J-REIT growth mechanism
-
-A J-REIT sponsor (e.g. a developer or trading-company-affiliated real-estate manager) often runs a sponsor-aligned bridge fund as a structural pipeline for the J-REIT. The bridge fund acquires properties from the sponsor's development or trading book, holds them while operational metrics stabilize, and offers them to the J-REIT for acquisition at the next external-growth window. This is widely understood in the J-REIT market as "sponsor support" or "pipeline support". ^[inferred] The structure is disclosed at the J-REIT level; the bridge fund itself remains private.
-
-## 2. Bridge fund structure
 
 ### Vehicle stack
 
@@ -94,8 +82,6 @@ End buyer (J-REIT / private REIT / pension / SWF)
 
 Bridge equity is the highest-risk, highest-return layer. Public-source sizing:
 
-- Typical bridge equity = 10-25% of property acquisition price; debt fills the rest. ^[inferred]
-- Bridge equity IRR target = high-teens to low-twenties on a 6-18-month hold. ^[inferred]
 - Equity providers: J-REIT sponsor (taking principal risk to keep the asset off the J-REIT's exposed balance sheet temporarily); third-party real-estate asset manager fund (e.g. opportunistic-real-estate fund); foreign sovereign / pension LP via a [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] offshore-feeder structure.
 
 ### Debt layer
@@ -108,7 +94,6 @@ Bridge debt is the dominant funding source. Public-source structure:
 | Structure | Non-recourse senior loan secured by the 信託受益権 |
 | LTV | Typically 60-75% at origination; senior LTV may sit at 50-60% if mezzanine layer is added |
 | Tenor | 6-18 months matching expected takeout timing; often with 6-12 month extension option |
-| Pricing | Spread over yen reference rate (TONA / TIBOR); typical spread reflects bridge-risk premium over standard non-recourse senior real-estate loan ^[inferred] |
 | Covenants | LTV maintenance covenant, DSCR covenant, refinancing / takeout milestone covenant |
 | Refinancing risk | Substantial — if takeout fails at end of bridge, lender must underwrite extension or workout |
 
@@ -126,8 +111,6 @@ Megabank and trust-bank real-estate-finance desks are not just lenders. They typ
 
 This multi-role franchise is one of the reasons megabank-group trust banks ([[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]]) dominate the bridge-fund franchise — the in-group bank + trust + securities subsidiary stack lets a single megabank capture multiple revenue lines from one transaction. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split.
 
-## 3. Takeout mechanism
-
 ### Takeout to listed J-REIT
 
 The dominant takeout route is sale of the SPV's 信託受益権 to a listed J-REIT. Public-source mechanics:
@@ -138,8 +121,6 @@ The dominant takeout route is sale of the SPV's 信託受益権 to a listed J-RE
 4. J-REIT raises equity in the public market.
 5. J-REIT proceeds settle; J-REIT acquires the 信託受益権 at the pre-agreed or appraisal-anchored price.
 6. Bridge equity and debt are repaid; SPV is wound up.
-
-The pre-agreed price element is structurally important. Without a price discipline (e.g. anchored to an [[real-estate-finance/japan-real-estate-appraisal-methodology|independent appraisal]] at takeout), the bridge sponsor would face conflict-of-interest issues — the same sponsor controls both the bridge SPV (as principal-risk taker) and the J-REIT asset manager (as fiduciary for J-REIT unitholders). Disclosure rules and J-REIT governance frameworks address this with related-party transaction protocols. ^[inferred]
 
 ### Takeout to private REIT or pension
 
@@ -159,10 +140,6 @@ If takeout fails (J-REIT equity-raise window closes, unitholder vote rejects, ta
 2. **Sale to third party** — open-market sale of the property to a different buyer; bridge equity bears any price-discovery gap.
 3. **Workout** — if asset value falls below debt, lender enters workout mode; bridge equity is wiped; non-recourse structure caps lender recourse to the property.
 
-The 2008-2010 distress cycle exposed how bridge / warehousing structures absorb cyclical risk: many bridge SPVs that warehoused assets pre-J-REIT-IPO or pre-acquisition in 2007 failed to find takeout at original pricing and triggered the workout path. This is a primary reason post-2010 bridge structures embed tighter governance and earlier takeout-milestone covenants. ^[inferred]
-
-## 4. Bridge fund as part of the J-REIT growth ecosystem
-
 ### Sponsor-pipeline model
 
 The dominant model in the Japan J-REIT market is sponsor-pipeline support. A J-REIT sponsor (developer or trading-company-affiliated real-estate manager) commits to provide pipeline acquisition opportunities to the J-REIT it sponsors. Bridge funds are a key implementation tool:
@@ -176,15 +153,9 @@ The dominant model in the Japan J-REIT market is sponsor-pipeline support. A J-R
 | J-REIT acquires from bridge SPV | At appraisal-anchored or pre-agreed pricing |
 | Sponsor recycles capital | Back to development or new bridge acquisition |
 
-### Independent bridge funds
-
-Beyond sponsor-pipeline bridges, independent bridge funds also operate — typically asset-management firms running opportunistic real-estate strategies that warehouse assets for sale to whichever J-REIT or institutional buyer offers the best exit. These independent funds compete with sponsor-pipeline bridges but operate on tighter alignment between bridge-equity provider and end-buyer. ^[inferred]
-
 ### Foreign-LP bridge equity
 
 A growing strand is foreign-LP bridge equity — foreign sovereign wealth, pension, or family-office capital providing the bridge equity tier into a Japan bridge SPV. This typically uses an offshore-feeder + onshore [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] structure for tax efficiency, with the offshore feeder receiving TK distributions that flow through to the foreign LP under Japan-source-rule analysis. See [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]] for the legal-vehicle mechanics and [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]] for the parallel listed-equity foreign-flow data.
-
-## 5. Risk and return profile
 
 ### Bridge equity risk
 
@@ -211,29 +182,9 @@ A growing strand is foreign-LP bridge equity — foreign sovereign wealth, pensi
 
 | Tranche | Hold | Target IRR (rough order) |
 |---|---|---|
-| Bridge equity (sponsor-aligned) | 6-12 months | Mid-teens to low-twenties ^[inferred] |
 | Bridge equity (independent opportunistic) | 12-18 months | Mid-teens or higher; carry-bearing fund-LP structure |
 | Bridge debt (senior non-recourse) | 6-18 months | Yen-rate + spread; spread above standard non-recourse senior real-estate loan |
 | Bridge mezzanine | 6-18 months | Equity-like absolute yield; subordinated to senior |
-
-## Counterpoints
-
-- "Bridge funds are riskless because J-REIT will always take out" — wrong. The 2008-2010 cycle showed takeout failure is a real path; modern bridge structures price the residual risk explicitly. ^[extracted]
-- "All Japan bridge equity is sponsor-aligned" — wrong. Independent opportunistic-real-estate funds and foreign-LP bridge equity have meaningful presence. ^[extracted]
-- "Bridge funds are illegal conflict-of-interest" — wrong. They are widely used and disclosure rules govern related-party J-REIT transactions; the structure is part of the standard J-REIT growth ecosystem.
-- "Bridge fund = mezzanine fund" — different concepts. Bridge funds typically include both equity and debt layers; mezzanine funds focus on the subordinated debt slice. They overlap when a bridge SPV uses mezzanine financing.
-- "Bridge debt is the same as CMBS" — different. Bridge debt is a non-recourse loan held on the lender's balance sheet (or syndicated); CMBS is a securitization of one or more such loans. See [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]] for the securitization route.
-- "Foreign-LP bridge equity is dominant" — wrong. It is growing but remains a minority share; sponsor-aligned and independent domestic bridge equity dominates. ^[inferred]
-
-## Open questions
-
-- What is the aggregate size of Japan bridge-fund equity outstanding? Public-source granularity is limited.
-- What share of J-REIT external-growth acquisitions in recent years passed through a bridge-fund warehouse first?
-- How do bridge-fund equity returns compare across sponsor-aligned vs independent opportunistic structures?
-- What is the typical pricing-discipline mechanism (independent appraisal vs second-opinion appraisal vs pre-agreed cap) in current practice?
-- How does the rise of foreign-LP bridge equity interact with [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]] at the listed-equity layer?
-- What is the post-rate-rise (post-BoJ NIRP exit) bridge debt spread environment, and how does it affect bridge equity returns?
-- How does the bridge-fund market interact with the [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT]] takeout route? Is private REIT acquisition growing as a share?
 
 ## Related
 

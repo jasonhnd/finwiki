@@ -17,7 +17,6 @@ sources:
 
 # 三井住友トラスト・アセットマネジメント (SMT-AM)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
@@ -55,7 +54,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
               └── 投資助言・代理業
 ```
 
-- [[JapanFG/sumitomo-mitsui-trust|SuMi TRUST]] の信託銀行を経由した間接 100% 出資構造 (信託銀行直下の運用子会社) ^[inferred]
 - メガバンク系運用会社のような JV 構造ではない (独立信託 FG 100% モデル)
 
 ## 4. Why standalone page matters
@@ -65,7 +63,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 1. **NISA 拡充 + 年金運用** の交差点：信託系運用会社の DC / DB / 公募投信 across-channel 戦略
 2. **メガバンク系 AM とは異なる出自**：[[JapanFG/mufg-asset-management|MUAM]] / [[JapanFG/asset-management-one|アセマネOne]] と並ぶが、親会社の独立信託 FG 性が運用方針 (年金重視 + 信託販売チャネル特化) に反映
 3. **資産運用立国構想 + 信託金融 263.3 兆円基盤** との接続点
-4. ESG / サステナビリティ運用での信託系運用会社の優位性論議 (機関投資家向け議決権行使の独立性等) ^[inferred]
 
 ## 5. 競合・peer
 

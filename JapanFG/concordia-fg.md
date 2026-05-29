@@ -20,7 +20,6 @@ sources:
 
 # 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -37,7 +36,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **設立**：**2016-04-01**（横浜銀行 + 東日本銀行 共同株式移転による経営統合）^[extracted]
 **本社**：横浜市西区みなとみらい 3-1-1（横浜銀行本店ビル内）^[extracted]
 **代表取締役社長**：片岡 達也 ^[extracted]
-**機関設計**：監査等委員会設置会社 ^[inferred]
 
 ### 2025-03 期決算（FY2024 通期 連結実績）^[extracted]
 
@@ -131,12 +129,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | シンクタンク | はまぎん総合研究所 | 神奈川経済データ・地域分析 |
 | デジタル | グループ横断 | 地銀標準 + 独自アプリ・「はまぎんアプリ」等 |
 
-## 3. 戦略・競争
-
 ### 戦略軸
 
 - **「フィナンシャルプラットフォーム」戦略**: 銀行業務に加えて、地域企業向け非金融サービス（事業承継・M&A 仲介・人材紹介等）を統合提供 ^[extracted]
-- **デジタル投資加速**: 地銀標準を超えた独自 UX・API 連携・[[paypay-fg]] / 楽天系等との提携模索 ^[inferred]
 - **神奈川 + 首都圏 集中**: 全国展開しない代わりに、首都圏 GDP の大きさを最大活用
 - **横浜銀行 = リテール + 中堅** / **東日本銀行 = 都内中小特化** の **役割分担**（統合後も子銀行 2 社体制継続）^[extracted]
 - **商号変更による「横浜」ブランド回帰**（2025-10-01）: 国際性・多様性・地域ブランド力の活用、認知度向上 ^[extracted]
@@ -185,24 +180,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2025〜 営業店舗削減・地方支店再編
   - 中小企業向け事業性評価融資（担保・保証に依らない融資）の推進
   - ESG / 地域脱炭素 ファイナンス（TSUBASA 非化石証書共同購入の枠外）
-
-## Counterpoints
-
-- 「地銀 No.1 級」観 vs 実利益率: 預金規模では地銀 FG 首位級だが、ROE / 純利益率は [[fukuoka-fg]] / 千葉銀単独より低い時期も ^[ambiguous]
-- 「2 子銀行体制の非効率」論: 統合後 10 年経過しても 横浜銀行 + 東日本銀行 を別法人で運営 → システム・人事・営業の二重コスト批判 ^[inferred]
-- 「東日本銀行 不適切融資 残響」: 2018 業務改善命令から 7 年経つも、横浜 FG 全体の評価に影響 ^[ambiguous]
-- 「神奈川 集中 = 人口減少リスク」: 神奈川県は他県より緩やかだが、長期人口減少局面 ^[inferred]
-- 「TSUBASA 非加盟 = 孤立リスク」vs「千葉・横浜パートナーシップ = 強者連合」: 広域アライアンス不参加で代わりに千葉銀との二者提携を深化、再編シナリオ次第で両刃 ^[inferred]
-- 「商号変更コスト」: 2025-10 の改称に伴うブランド再構築・看板・印刷物・システム表記変更コスト vs 認知度向上効果は中期で判定要 ^[inferred]
-
-## Open questions
-
-- 横浜銀行 + 東日本銀行 の **将来的合併** 可能性は？ 2 子銀行体制の継続コスト vs 統合メリット
-- 千葉・横浜パートナーシップが **経営統合へ発展** するシナリオは？（「強者連合」or 「不可侵条約」論争）
-- メガ FG（[[mufg]] / [[smfg]] / [[mizuho-fg]]）との中堅企業 main bank 競合 → 首都圏での地銀生存戦略は？
-- **デジタル投資**: PayPay 銀行 / 楽天銀行 / 住信 SBI ネット銀行に対する 個人デジタル領域での対抗策は？
-- **地銀 No.1 級** 地位を [[fukuoka-fg]] 等に明け渡すリスク管理は？
-- 商号変更後の **海外認知度向上** 効果は実際に投資家フローや顧客獲得に表れるか？
 
 ## Related
 

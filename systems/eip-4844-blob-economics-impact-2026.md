@@ -38,8 +38,6 @@ sources:
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] for the 2025-Q2 blob target doubling that directly extends EIP-4844, and [[systems/pectra-upgrade-overview|Pectra upgrade overview]] for the broader Ethereum upgrade context. For the L1/L2 strategic framing that makes blob economics structurally important, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For the DA layer competition that blob market reshapes, see [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]. For the rollup ecosystem consuming blobs, see [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]] and [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]. For the institutional staking lane that holds the validator economy behind blob processing, see [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · institutional staking]] and [[systems/bft-validator-economy-overview|BFT validator 経済学概観]]. For restaking-secured alternative DA, see [[systems/eigenlayer-overview|EigenLayer overview]] and [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]].
 
-## Mechanism · blob メカニズムと fee market
-
 ### Blob データ構造
 
 **コア定義**(EIP-4844 spec):
@@ -99,8 +97,6 @@ L2 sequencer が L1 に batch を提出する典型フロー:
 | EVM アクセス可能 | はい(CALLDATALOAD 等 opcode 経由) | いいえ(KZG point evaluation precompile 経由のみ)|
 | 適用シナリオ | 状態アクセス · オンチェーンデータ消費 | rollup data availability · 短期再構築可能 |
 | Fee market | user gas と共有 · 混雑伝染 | 独立 base fee · 混雑不伝染 |
-
-## Market dynamics · Dencun から 2026 まで
 
 ### Dencun ローンチ初期(2024-03 - 2024-Q2)
 
@@ -201,8 +197,6 @@ L2 sequencer が L1 に batch を提出する典型フロー:
 - 主に rollup 顧客(challenge prover · ZK verifier · state reconstruction)
 - 次に indexer / explorer(blob データは 18 日 ephemeral 期)· 長期は archive node が必要(Blobscan / Ethscan 等)
 
-## Comparison · 現在(2026-Q2)blob と代替方式
-
 ### Blob vs calldata vs alt-DA · 9 次元対照
 
 | 次元 | Calldata | Blob (EIP-4844) | EigenDA | Celestia | NEAR DA |
@@ -248,8 +242,6 @@ EIP-7594(PeerDAS · Peer Data Availability Sampling):
 - Throughput ~1.1 MB/block → ~11 MB/block (initial)
 - Alt-DA 価格優位は ~1.5-2x のみ残る可能性 · 一部 alt-DA 顧客が L1 blob に回帰
 - Full danksharding(理論 max 32 MB/block · ~230 GB/day)は長期ビジョン · 2027-2028 に完了する可能性は低い
-
-## Ecosystem impact
 
 ### L2 sequencer revenue と user gas の関係
 
@@ -298,28 +290,6 @@ EIP-7594(PeerDAS · Peer Data Availability Sampling):
 - Blob の P2P 伝播経路は transaction と異なる · Builder は調整が必要
 - Proposer 役割は基本不変 · ただし blob 受信遅延が attestation 時間に影響する可能性
 - 長期 PBS(proposer-builder separation)で builder が blob handling を専門化
-
-## Counterpoints
-
-- **Blob fee market は極端混雑時に失効の可能性**:理論上 blob fee は 1000+ gwei に達し得るが · 実証ではユーザーは fee spike 時に tx を停止する傾向 · 長期 fee market 設計は大 spike シナリオで完全には検証されていない
-- **Pectra 倍増は user 増加で速く食われる可能性**:Base / Arbitrum 等の頭部 L2 ユーザー成長が継続 · 長期 blob target は再び上限に達する · Fusaka は一時的な解決策
-- **PeerDAS のエンジニアリング複雑度が高い**:EIP-7594 spec は EIP-4844 より ~3x 複雑 · validator クライアントは重大アップグレードが必要 · 2026-Q4 スケジュールに slip リスク
-- **Alt-DA は完全には消滅しない**:Cosmos / Move / sovereign rollup は常に非 ETH-aligned DA を必要とする · Celestia / NEAR DA はこれらのセグメントで依然市場あり
-- **機関の DA 選好は価格で変わらない可能性**:institutional risk committee は長期的に L1 DA を好む · blob cost がさらに下がっても · 機関は EigenDA / Celestia を受け入れない
-- **Sequencer 経済は依然中央集権化**:Pectra で sequencer margin が上昇 · ただし sequencer 自身は依然中央集権化(ほぼ全 ZK/OP rollup の sequencer は中央集権運営)· これがより大きな非中央集権化負債
-- **Blob commitment が KZG で trusted setup に依存**:Powers of Tau ceremony 2023 は完了 · ただし trusted setup の一部が漏洩すれば · 長期的に KZG セキュリティに影響する可能性 · STARK-based 代替(trusted setup なし)が長期経路
-
-## Open questions
-
-- **Fusaka PeerDAS 実際稼働スケジュール**:2026-Q4 / 2027-Q1 / さらに遅い?spec 複雑度 + validator クライアントアップグレードが bottleneck
-- **Blob target 長期調整頻度**:毎回のハードフォークで調整?それとも dynamic target(demand に応じて自動調整)導入?
-- **Full danksharding スケジュール**:理論 32 MB/block · 2030+ 長期ビジョンか · 2028 達成可能か?
-- **L2 sequencer decentralization スケジュール**:Pectra/Fusaka がコストを解決 · ただし sequencer 中央集権化はより大きな問題 · 主流 L2 が shared sequencer 導入するのはいつ
-- **Blob 18 日 prune 後の long-term archive**:Blobscan 等の archive node は全歴史 blob を長期保存可能か?archive 経済モデルが不明瞭
-- **Alt-DA に新世代 differentiation 登場するか**:コスト以外に · specialized DA(privacy DA · institutional DA 等)新 vertical があるか
-- **Blob fee burning 導入されるか**:現在 blob fee は proposer へ · burn(EIP-1559 類似)に変更すれば · ETH supply に影響
-- **ZK proof 提出コストもいつ大幅に下落するか**:ZK proof verifier gas は依然 ZK rollup の主コスト · Verkle tree / SNARK aggregation 等の最適化があるか
-- **MEV は blob 市場で新形態を生むか**:blob はデータで · transaction のような直接 MEV はない · ただし blob の包装順序は sandwich-like behavior を生む可能性
 
 ## Related
 

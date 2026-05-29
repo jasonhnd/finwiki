@@ -147,13 +147,6 @@ The single-acquirer dynamic is a structural reason that **JFTC merchant-fee disc
 
 [[JapanFG/jr-east|JR East]]'s Suica franchise sits within a multi-segment retail / station / transit-services business that uses Suica as both a payment instrument and as a customer-data platform. The Suica installed base — approximately 100 million cards including mobile-version conversion — gives JR East one of Japan's largest captive prepaid populations and a corresponding data signal across transit, station-retail, and a portion of urban convenience-store and supermarket commerce. The corporate strategy treats Suica as a **strategic platform asset** rather than as a standalone payment-service P&L, which is one reason JR East has been willing to invest in Mobile Suica platform development, Suica Welcome tourist outreach, and JRE POINT integration without requiring direct standalone monetization of the prepaid instrument.
 
-## Counterpoints
-
-- "Suica will be displaced by code payment." Transit-gate throughput requirements (200ms read-cycle, offline balance-debit) are structurally hard to replicate with QR code or contactless EMV at scale. Suica retains the transit niche; code payment competes at retail tap volume.
-- "FeliCa is a Japanese Galapagos technology that limits global compatibility." True for inbound tourists with EMV-contactless-only cards, but JR East's Suica Welcome (短期滞在者向け) tourist-Suica and Visa / Mastercard tap-and-go at JR ticket machines partially bridge the gap.
-- "Apple Pay made Mobile Suica universal." Mobile Suica via Apple Pay requires a device with FeliCa hardware — global iPhone 8+ has it, but other manufacturers (Samsung, Google Pixel for non-Japan models) typically do not, limiting the rail to Apple users and Japan-market Android users.
-- "All 10 IC cards work identically." Mostly true for tap behavior; differs materially on deposit policy, expiry rules, refund procedure, mobile-app feature set, points / loyalty program, and acquirer-side merchant-fee economics.
-
 ## Suica next-generation platform direction
 
 JR East has communicated longer-horizon platform direction for Suica — moving toward a Suica that supports both the historical FeliCa secure-element offline-tap model and a new server-managed account-balance model. The motivation includes loosening the historical balance ceiling, supporting more complex multi-issuer routing, integrating cleaner with smartphone-native rails, and creating a foundation for cross-modal mobility products beyond rail (taxi, bicycle-share, micro-mobility, etc.). This direction is publicly discussed but the full operational architecture is still being defined; it is one of the more significant Japan prepaid-scheme structural shifts in the medium term.
@@ -171,15 +164,6 @@ Cooperation across the 10 IC mutual-use scheme involves multi-issuer governance 
 | New-feature deployment (mobile, deposit changes, expiry rules) | Each issuer decides independently; scheme-level new features require multi-issuer consensus |
 
 The consensus-based governance pattern is one reason scheme-wide changes (such as mobile-rail rollout extension to additional cards) tend to roll out in phases rather than scheme-wide simultaneously — Mobile Suica preceded Mobile PASMO by 14 years; ICOCA Apple Pay support came in 2023.
-
-## Open questions
-
-- Will JR East and PASMO Co eliminate card-version deposits to match Mobile-Suica deposit-free policy, accepting one-time write-down for long-term cost simplification?
-- How will breakage economics evolve as inbound tourism volume continues recovering — and at what point does breakage disclosure become a META / FSA pressure point comparable to card-class merchant-fee disclosure?
-- Will Suica Internet payment grow as an EC route, or will it remain a niche compared to code-payment EC and card EC?
-- How does Mobile Suica's tokenization treatment under Apple Pay interact with EMV 3-DS for retail merchants that accept Suica via the card-payment terminal infrastructure?
-- Will Cyberne settlement governance evolve as private-railway issuers (PASMO, manaca, nimoca) gain settlement weight relative to JR-issuer dominance?
-- Will any of the regional IC issuers exit the scheme as smartphone code-payment cannibalizes regional retail tap volume?
 
 ## Related
 

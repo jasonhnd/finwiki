@@ -198,14 +198,6 @@ Variations:
 
 The FX Global Code (published by Global Foreign Exchange Committee) recommends symmetric last-look when used and full disclosure to customers. ECN venues like LMAX have built market positioning around no-last-look protocols; many bank-aggregated feeds still use some form of last-look. For Japan retail brokers, the choice of LP and the last-look policy affects realized execution quality but is rarely disclosed at trade level.
 
-## Counterpoints
-
-- **A-book purity claims**: brokers that advertise "100% STP / A-book" often still internalize a fraction of flow; the marketing claim is rarely audited.
-- **Last-look vs no-last-look**: bank liquidity providers reserve a "last look" window to reject trades; this can hurt execution quality. ECNs like LMAX enforce no-last-look; many bank-aggregated feeds permit it. The trade-off affects spread vs fill rate.
-- **Spread tightness vs hidden cost**: advertised spread does not capture markup, slippage, or rejection rate. Realized execution cost is the better metric but rarely disclosed.
-- **Prime-broker concentration**: post-2015 PB contraction left the system more concentrated. A failure or pull-back at a top PB would cascade through dozens of broker / aggregator clients.
-- **Off-shore arbitrage**: Japanese residents are formally prohibited from trading through unlicensed offshore brokers but enforcement is patchy; offshore venue flow distorts published Japan turnover statistics.
-
 ## Risk management at the broker
 
 A retail FX broker running a hybrid STP / B-book model needs continuous risk management:
@@ -220,14 +212,6 @@ A retail FX broker running a hybrid STP / B-book model needs continuous risk man
 | Reputational risk | Service quality; transparency of execution practices; customer-service responsiveness. |
 
 The risk-management function at a Japan retail FX broker is materially more sophisticated than at a typical securities-brokerage equivalent because of the 24-hour, leveraged, fast-moving nature of FX. JFSA inspects this function periodically as part of routine supervision.
-
-## Open questions
-
-- Will JFSA mandate fuller A-book / B-book disclosure as part of best-execution rule modernization?
-- How do the proprietary aggregation engines of GMO Click, SBI FX Trade, and DMM FX compare in slippage and reject-rate metrics?
-- How is the rise of crypto-FX and 24/7 trading reshaping the Tokyo-session liquidity profile of JPY-pair ECNs?
-- What is the realistic substitution between bank single-dealer platforms (e.g., Citi Velocity, JPM eFX) and multi-bank ECNs for Tokyo-session JPY liquidity?
-- How does the post-YCC [[derivatives/ois-tona-curve|OIS-TONA curve]] affect overnight financing spreads and therefore retail-FX swap-point revenue at brokers?
 
 ## Related
 

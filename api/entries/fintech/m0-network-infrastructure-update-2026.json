@@ -59,10 +59,10 @@
     "$M トークン・エコノミクスとガバナンス",
     "他の neutral-infra SC との比較",
     "USDM yield path の分解",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 16,
     "wikilinks": [
       "fintech/INDEX",
       "fintech/blackrock-buidl-sc-issuer-adoption",
@@ -72,9 +72,7 @@
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "fintech/frax-frxusd-defi-stablecoin",
       "fintech/genius-act-501-denylist-mandate",
-      "fintech/gray-market-dollar-network-formalization",
       "fintech/india-anti-dollar-dpi-alliance",
-      "fintech/jp-trust-type-sc-architecture",
       "fintech/m-network-m0-neutral-infrastructure",
       "fintech/protocol-renewal-trigger-as-event-anchor",
       "fintech/sky-usds-decentralized-stablecoin",
@@ -92,9 +90,7 @@
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization",
       "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/fintech/m-network-m0-neutral-infrastructure",
       "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
       "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin",
@@ -107,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9662,
-    "word_like_tokens": 1572,
+    "nonspace_chars": 8080,
+    "word_like_tokens": 1325,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

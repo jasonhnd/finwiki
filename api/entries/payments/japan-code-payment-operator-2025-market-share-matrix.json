@@ -64,11 +64,11 @@
     "TL;DR",
     "Why this matrix matters",
     "Big nine-operator comparison matrix",
-    "Per-operator notes",
     "PayPay (PayPay 株式会社 / PayPay FG umbrella)",
     "Rakuten Pay (楽天ペイメント 株式会社 / Rakuten FG)",
     "d-Barai (d払い, NTT docomo)",
-    "au PAY (au ペイメント 株式会社 / KDDI)"
+    "au PAY (au ペイメント 株式会社 / KDDI)",
+    "Merpay (株式会社 メルペイ / Mercari HD)"
   ],
   "body_links": {
     "wikilinks_count": 48,
@@ -176,9 +176,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 28532,
-    "word_like_tokens": 4675,
+    "nonspace_chars": 25762,
+    "word_like_tokens": 4212,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

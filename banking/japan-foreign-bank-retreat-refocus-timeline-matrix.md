@@ -58,7 +58,6 @@ Without a timeline view the retreat narrative becomes either too dramatic ("fore
 
 | Parent bank | Region | Peak Japan footprint (year) | Current footprint (CY 2024-2026) | Retreat / inflection triggers | Current segments | Planned exits / reorg |
 |---|---|---|---|---|---|---|
-| Citigroup ([[JapanFG/citigroup-japan\|Citigroup Japan]]) | US | 2007-08 (Citibank 個人銀行 + 日興コーディアル 証券, full-stack retail + IB) | 法人銀行 (NA Tokyo 支店) + IB (CGMJ) + GTS + custody | 2008 TARP / 一時国有化 → 2009-10 日興 → SMFG; 2014-09 リテール → SMBC 信託 (PRESTIA); グローバル Citi Strategy Refresh | GTS / トランザクションバンキング / IB / 機関投資家 / ADR / カストディ | グローバル WM 再構築継続; 各地域 wealth 譲渡パターン続行 ^[inferred] |
 | JPMorgan Chase ([[JapanFG/jpmorgan-japan\|JPMorgan Japan]]) | US | 2007-08 (CIB ピーク前) → 拡大継続 | 4法人 (証券 / NA 東京支店 / AM / 信託) | グローバル CIB 拡大期; Japan 拡大基調 (G-SIB Bucket 3) | CIB / IB / マーケッツ / カストディ / AM / Securities Services | 縮小ではなく Securities Services 集中拡大 |
 | Goldman Sachs ([[JapanFG/goldman-sachs-japan\|GS Japan]]) | US | 2007 (IB 拡張) | GS 証券 / GS Bank 東京支店 / GSAM / Realty | グローバル IB 拡大期 + 2008 金融危機後再集約; Japan は IB 中核拠点維持 | IB / マーケッツ / AM / Realty / プライベートクレジット | 縮小ではなく PIA / プライベートクレジット拡大 |
 | Morgan Stanley ([[JapanFG/morgan-stanley-japan\|MS Japan]]) | US | 2007 | MUMSS + MSMS (MUFG JV 2010-05〜) + MUMSS リサーチ + MS キャピタル | 2008-09 MUFG 戦略提携 (株式 ~20% 取得 → 24% 拡大局面) → 2010-05 Japan 証券事業 統合 | MUMSS = 対面 + ECM/DCM; MSMS = ホールセール IB / マーケッツ | 縮小ではなく邦銀 IB 一体運営継続 |
@@ -68,13 +67,10 @@ Without a timeline view the retreat narrative becomes either too dramatic ("fore
 | BNY Mellon ([[JapanFG/bny-mellon-japan\|BNY Mellon Japan]]) | US | 構造的拡大 (グローバル AUC/A ~$50tn) | BNY 信託銀行 + 外銀支店 + AM JP | 構造拡大 (世界最大のカストディアン) | カストディ / Securities Services / ADR | 縮小ではなく拡大基調 |
 | RBC ([[JapanFG/rbc-japan\|RBC Japan]]) | US/Canada | 2010s 拠点拡張 | RBC キャピタル マーケッツ + 外銀支店 | 構造的に niche; Japan IB / マーケッツに集中 | IB / マーケッツ / 機関投資家 | 縮小ではなく niche 維持 |
 | BNP Paribas ([[JapanFG/bnp-paribas-japan\|BNP Paribas Japan]]) | EU | 構造的長期増大 | BNP 銀行東京支店 + BNP 証券 + BNP AM + Cardif 生損保 (4 軸) | 1867 横浜開設 (CEP) → 戦後再開 → 1990s-2010s 継続拡大; G-SIB Bucket 2 | CIB / IPS / カストディ / 保険 (Cardif) | 縮小ではなく拡大基調 (約 700 名) |
-| Societe Generale ([[JapanFG/socgen-japan\|SG Japan]]) | EU | 2007 | SG 銀行東京支店 + SG 証券 | グローバル IB リストラ周期 (2013-2014 / 2019); Japan 拠点維持 | コーポレートバンキング / マーケッツ / デリバティブ / IB | グローバル戦略に同期; Japan 中規模維持 ^[inferred] |
 | Credit Agricole CIB ([[JapanFG/credit-agricole-bank-japan\|CACIB Japan]]) | EU | 2007 | CACIB 東京支店 | グローバル CIB 集中; Japan は欧州系 corporate banking ポジション | コーポレートバンキング / プロジェクトファイナンス / トレード | 縮小ではなく中規模維持 |
 | Deutsche Bank ([[JapanFG/deutsche-japan\|Deutsche Japan]]) | EU | 2007 (IB / マーケッツ ピーク) | Deutsche 東京支店 + ドイチェ証券 + DWS Japan (PB) | 2016-2019 経営難; **2019-07 グローバル IB 大規模リストラ (世界 18,000 人削減)** → Japan IB / 株式縮小 | IB (債券 / FX 集中) / DWS / プライベートバンキング | グローバル債券 / FX ピボット完了。株式 IB 大幅縮小 |
-| Commerzbank ([[JapanFG/commerzbank-japan\|Commerzbank Japan]]) | EU | 2007 | Commerz 東京支店 | グローバル CIB 縮小傾向 (Mittelstand 集中); Japan は corporate banking | コーポレートバンキング / トレードファイナンス / FX | グローバル戦略でアジア IB 縮小; Japan branch 縮小傾向 ^[inferred] |
 | UBS ([[JapanFG/ubs-japan\|UBS Japan]]) | EU (Swiss) | 構造拡大 + **2023-06 CS 統合** | UBS 証券 + UBS 銀行東京支店 + UBS AM + UBS SuMi TRUST WM (SMTB JV, UBS 51%/SMTB 49%) | 2008 サブプライム巨額損失 → スイス政府救済; 2014 SMTB JV PB; **2023-06 CS 緊急買収完了** → 旧 CS 日本拠点と統合 | GWM / IB / マーケッツ / AM / PB | 旧 CS 日本拠点統合完了; non-core / legacy 段階的縮小 |
 | Credit Suisse → UBS | EU (Swiss) | 2007-08 (旧 CS Japan IB ピーク) | UBS 統合済 (旧 CS 法人消滅) | 2023-03-19 CS 経営危機 (AT1 ~160 億 CHF 無価値化) → 2023-06 UBS 緊急買収完了 | n/a (UBS 統合後) | 旧 CS 法人 統合完了 |
-| Barclays ([[JapanFG/barclays-japan\|Barclays Japan]]) | EU (UK) | 2007-08 (旧 リーマン アジア吸収後 IB) | Barclays 銀行東京支店 + Barclays 証券 | 2016-17 グローバル Asia equity 縮小; グローバル IB ヘッドカウント縮小 | IB / マーケッツ (固定収益 / FX) / コーポレートバンキング | グローバル中期戦略次第; Japan markets 維持 ^[inferred] |
 | Standard Chartered ([[JapanFG/standard-chartered-japan\|StanChart Japan]]) | EU (UK) | 2008-10 (アジア新興国コリドール拡大) | StanChart 東京支店 | アジア新興国コリドール志向; Japan は corridor anchor | アジア新興国コリドール / トレード / FX / コーポレートバンキング | 縮小ではなく Asia corridor 戦略 |
 | ING Bank ([[JapanFG/ing-bank-japan\|ING Bank Japan]]) | EU (NL) | 2007 (IB ピーク) | ING 銀行東京支店 (法人特化) | 2008 オランダ政府救済 → 2009 グローバル投資銀行縮小 (NN 生保 / 米資産 売却) → Japan も法人特化に集中 | コーポレートバンキング / トレード / FX | 法人特化型維持 |
 | Natixis ([[JapanFG/natixis-japan\|Natixis Japan]]) | EU (FR) | 2007 | Natixis 東京支店 | グローバル CIB 統合周期; Japan は niche corporate / structured | コーポレートバンキング / ストラクチャード / プロジェクトファイナンス | グローバル戦略に同期 |
@@ -146,8 +142,6 @@ Without a timeline view the retreat narrative becomes either too dramatic ("fore
 | **2016 Wells Fargo 偽口座 事件 → 米連邦準備制度 資産上限 (2018-2024+)** | Wells | Constrained parent balance sheet → Japan presence stays niche |
 | **Barclays 2016-17 Asia equity 縮小** | Barclays | Cut Asia equity but kept fixed-income / FX in Japan |
 | **GPIF 海外運用比率上昇 (政策決定 2014-)** | BNY Mellon, State Street, JPM, Citi (custody) | Structurally expanded foreign-custodian Japan business — opposite direction from "retreat" |
-
-## Per-row entries (selected high-signal cases)
 
 ### Citigroup → narrowest US retreat case ([[JapanFG/citigroup-japan|Citigroup Japan]])
 

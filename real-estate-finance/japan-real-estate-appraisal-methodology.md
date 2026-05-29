@@ -35,8 +35,6 @@ Japan real-estate appraisal practice follows the 不動産鑑定評価基準 (Re
 
 This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] and is the valuation-methodology routing page for Japanese real-estate finance. Read it together with [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the dominant fair-value consumer, with [[real-estate-finance/top-10-j-reit-overview-matrix|top-10 J-REIT overview matrix]] for the largest portfolios subject to the appraisal cycle, with [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]] for the parallel unlisted-vehicle appraisal practice, with [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]] for the appraisal inputs that drive CMBS senior LTV and tranching, with [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]] for the private-SPV appraisal use case, and with [[real-estate-finance/real-estate-bridge-fund-japan|real-estate bridge fund]] for the takeout-pricing appraisal mechanic. Pair with [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] for the institutional-buyer side that consumes appraised yields, with [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for the trustee infrastructure that holds property under appraisal, and with [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split. Cross-domain anchors: [[policy-finance/japan-housing-finance-agency|JHF]] uses appraisal-anchored loan-to-value criteria; [[policy-finance/INDEX|policy-finance index]] is the parallel public-credit reference; and [[finance/INDEX|finance index]] holds the broader corporate-valuation context.
 
-## 1. Statutory framework
-
 ### Real Estate Appraisal Standards
 
 The 不動産鑑定評価基準 (Real Estate Appraisal Standards) issued by MLIT define the methodology Japanese real-estate appraisers must apply. The standards require:
@@ -51,10 +49,6 @@ The 不動産鑑定評価基準 (Real Estate Appraisal Standards) issued by MLIT
 | Cost approach | Replacement cost net of depreciation |
 | Appraiser qualifications | Licensed 不動産鑑定士 under the 不動産の鑑定評価に関する法律 |
 
-### Appraiser licensing
-
-The 不動産鑑定士 license is granted under the 不動産の鑑定評価に関する法律. Licensed appraisers operate either independently or through licensed appraisal firms. The major appraisal firms include 日本不動産研究所 (JREI), 大和不動産鑑定, 谷澤総合鑑定所, and several others. ^[inferred]
-
 ### Independence rules
 
 Appraisers performing valuation for fair-value reporting must be independent of the property's economic principal:
@@ -63,11 +57,8 @@ Appraisers performing valuation for fair-value reporting must be independent of 
 |---|---|
 | No equity / debt position in the property | Appraiser cannot hold a financial interest |
 | No employment / officer relationship with owner | Appraiser cannot be employed by the J-REIT, asset manager, or sponsor |
-| Rotation of appraiser | J-REITs and similar regulated vehicles rotate appraisers on a defined cycle to avoid familiarity threat ^[inferred] |
 | Fee structure | Fee cannot be contingent on appraisal value |
 | Disclosure | The appraiser identity is disclosed in J-REIT periodic reporting |
-
-## 2. Income approach — DCF method
 
 ### Method outline
 
@@ -89,8 +80,6 @@ Value = Σ [NOI_t / (1 + r)^t] + [Terminal value / (1 + r)^n]
 
 | Sensitivity | Reading |
 |---|---|
-| Discount rate | 25 bps change in discount rate moves value by several percent for typical Japan commercial property ^[inferred] |
-| Terminal cap rate | Often the largest single driver of present value because terminal value can be 60-70% of total DCF value ^[inferred] |
 | Rent assumption | Forward-rent profile drives NOI projection; lease-rollover assumption critical |
 | Vacancy assumption | Vacancy rate over analysis horizon affects NOI cumulatively |
 | Capex assumption | Capex over horizon reduces cumulative NOI |
@@ -98,8 +87,6 @@ Value = Σ [NOI_t / (1 + r)^t] + [Terminal value / (1 + r)^n]
 ### DCF in J-REIT practice
 
 J-REIT appraisals include explicit DCF analysis with 10-year horizon (typical). The DCF result is reconciled with the direct-cap result; if the two diverge materially, the appraiser explains the reconciliation in the appraisal report.
-
-## 3. Income approach — direct capitalization method
 
 ### Method outline
 
@@ -138,7 +125,6 @@ The Japan cap-rate cycle has been structurally compressed by the long-running lo
 | 2011-2013 | Stabilization |
 | 2014-2021 | Compression under BoJ NIRP + YCC + asset-purchase environment |
 | 2022-2023 | Yen-rate path uncertainty; cap rates broadly stable to slightly tighter |
-| 2024-present | Post-yield-curve-control transition; cap rates beginning to reflect rising-rate scenarios ^[inferred] |
 
 ## 4. Comparison approach
 
@@ -150,8 +136,6 @@ The comparison approach values the property by reference to comparable transacti
 | Adjust for differences | Location quality, building age, gross floor area, recent capex, lease structure |
 | Reconcile per-tsubo / per-㎡ price | Adjusted unit price applied to subject property |
 | Cross-check against income approach | Comparison-approach result usually cross-checks income-approach result |
-
-In Japan commercial real estate, comparable transaction data is meaningful but sparse compared to US markets — institutional-grade properties transact infrequently and prices are often non-public. ARES (Association for Real Estate Securitization) tracks transactions but full-detail data is not on the public surface. The comparison approach is therefore typically a cross-check rather than the primary value driver in commercial appraisal. ^[inferred]
 
 ## 5. Cost approach
 
@@ -190,15 +174,12 @@ The appraiser reconciles results from the three approaches:
 
 The final opinion of value is documented in an appraisal report (鑑定評価書) signed by the licensed 不動産鑑定士. The report is disclosed in J-REIT periodic reporting and used as the fair-value source for accounting purposes.
 
-## 7. J-REIT appraisal cycle and fair-value accounting
-
 ### J-REIT appraisal frequency
 
 J-REIT investment property is required to be carried at fair value. Operationalization:
 
 | Aspect | Reading |
 |---|---|
-| Appraisal frequency | Semi-annual (every accounting period) for each property in the portfolio ^[inferred] |
 | Method | Each property gets a full appraisal at acquisition; subsequent appraisals at semi-annual cadence |
 | Disclosure | Property-level appraised value disclosed in periodic-reporting documents (運用報告書) |
 | Aggregation | Portfolio-level appraised NAV calculated and disclosed |
@@ -240,26 +221,6 @@ The appraiser is engaged by the asset manager but is required to be independent 
 | [[real-estate-finance/real-estate-bridge-fund-japan|Bridge fund]] | Acquisition appraisal at bridge SPV setup; takeout appraisal at sale to J-REIT typically anchors takeout pricing |
 | Pension / SWF direct holdings | Periodic appraisal for fair-value reporting per investor's accounting framework |
 | Corporate balance sheet | Property held at cost less depreciation under JGAAP for many corporates; IFRS adopters use fair value or revaluation model |
-
-## Counterpoints
-
-- "Cap rate equals yield" — wrong. Cap rate is a market-derived discounting metric; yield is the income return on a specific investment basis. They are related but distinct.
-- "DCF and direct cap should give identical results" — wrong. They generally produce similar results when assumptions are consistent, but the DCF terminal value vs direct-cap stabilized-NOI treatment can diverge.
-- "JREI cap-rate survey is the cap rate" — wrong. JREI is a benchmark survey; actual transactional cap rates can differ. The appraiser must calibrate JREI benchmark against deal-specific evidence.
-- "Cost approach should give a similar value to income approach" — wrong for income-producing commercial property. They typically diverge meaningfully; reconciliation explains the gap.
-- "Appraised NAV = market price" — wrong. P/NAV oscillates around 1.0 and can deviate materially over cycles.
-- "Same property gets appraised consistently across appraisers" — partially true. Different appraisers can produce different values within methodology bounds; appraisal-rotation rules attempt to manage variance.
-- "Public land-price benchmarks set market price" — wrong. They are independent benchmarks for tax and land-use purposes; market price reflects current market clearing.
-
-## Open questions
-
-- How quickly does the J-REIT appraisal cycle reflect a market cap-rate cycle turn? There is a lag because semi-annual appraisals may be slow to incorporate sharp market moves.
-- How does appraiser concentration (small number of major firms) affect appraisal independence in practice?
-- What is the typical magnitude of mid-cycle appraisal NAV revisions when cap rates move materially?
-- How do private REIT and GK-TK appraisals compare to J-REIT appraisals in methodology rigor?
-- How will rising yen interest rates feed through to JREI cap-rate survey results and to actual J-REIT appraised values?
-- What is the role of overseas appraisers in JP real-estate appraisal? Major global appraisers (CBRE, JLL, Cushman) operate in Japan but the 不動産鑑定士 license is JP-specific.
-- How does the JREI cap-rate survey compare to alternative survey data (e.g. ARES, exchange-platform data) for benchmark accuracy?
 
 ## Related
 

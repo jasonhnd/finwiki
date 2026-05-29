@@ -42,10 +42,10 @@
     "1. 会社概要",
     "2. 事業セグメント・マップ",
     "3. 沿革",
-    "4. 戦略・競争",
     "国内戦略",
     "海外戦略",
-    "競合マップ"
+    "競合マップ",
+    "5. 規制・政策"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3641,
-    "word_like_tokens": 555,
+    "nonspace_chars": 3197,
+    "word_like_tokens": 499,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

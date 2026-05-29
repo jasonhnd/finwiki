@@ -115,21 +115,6 @@ US REIT shareholders sit directly in the corporate / trust governance chain. The
 | Why are J-REIT mergers usually within-sponsor? | Mergers across sponsors require asset-management-company change, which is structurally heavier than US REIT M&A. |
 | Why is J-REIT yield often above US REIT yield even with low [[money-market/INDEX\|Japan rates]]? | Reflects external-management fee load, sponsor-conflict discount, smaller foreign-investor base for Japan small-cap REIT names, plus market structure. |
 
-## Counterpoints
-
-- The external-management model is not uniformly bad; some sponsors provide steady high-quality pipelines that internal management could not access on the same terms.
-- US REIT internalization is not automatically aligned with shareholders: large internal G&A loads, executive-compensation disputes, and strategic-misallocation cases exist.
-- Some J-REIT have moved toward stronger governance via stricter related-party-transaction rules and independent supervisory officers, narrowing parts of the gap.
-- US REIT industry includes externally managed mortgage REIT and small specialty REIT that still operate under external-advisor structures.
-- Direct US REIT vs J-REIT yield comparisons need adjustment for currency, tax, sector mix, and cap-rate environment — not just governance.
-
-## Open questions
-
-- Sustained FSA pressure on related-party-transaction governance and whether it pushes J-REIT toward partial-internalization options.
-- Activist investor strategies emerging in Japan generally — whether they pick up J-REIT in the same way they have picked up [[finance/japan-listed-financial-groups-investable-universe|listed financial groups]].
-- Whether foreign sponsor-anchored J-REIT (GLP, Prologis) develop structurally different governance from domestic-sponsor J-REIT.
-- Long-term impact on DPU yield if internalization pressure raises management-fee transparency.
-
 ## Related
 
 - [[real-estate-finance/INDEX|real-estate-finance index]]

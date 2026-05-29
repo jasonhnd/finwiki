@@ -53,7 +53,7 @@
     "Gift-card fraud / scam concern",
     "KPI snapshot",
     "Strategy: closed-loop cashless on-ramp + gift distribution",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8937,
-    "word_like_tokens": 1468,
+    "nonspace_chars": 8220,
+    "word_like_tokens": 1345,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

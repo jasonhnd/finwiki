@@ -50,14 +50,14 @@
   "headings": [
     "Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile",
     "Wiki route",
-    "TL;DR",
     "1. Group and ownership position",
     "Three-bank parent chain (post-IPO)",
-    "Why the JP Holdings ownership chain matters",
     "Reference timeline",
-    "2. Balance-sheet structure — why JPB is unusual",
     "Asset-side: deposit-funded but not loan-led",
-    "Why no big loan book"
+    "Why no big loan book",
+    "Securities portfolio — the policy-rate-exposure problem",
+    "How the post-office counter actually works",
+    "Why the agency model both anchors and constrains the franchise"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16582,
-    "word_like_tokens": 2760,
+    "nonspace_chars": 12494,
+    "word_like_tokens": 2031,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

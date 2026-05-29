@@ -19,7 +19,6 @@ sources:
 
 # 株式会社常陽銀行 (Joyo Bank)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ashikaga-bank|足利銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -64,18 +63,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 銀行本体は銀行法、親会社は銀行持株会社規制の対象。
 - 上場持株会社 [[JapanFG/mebuki-fg|mebuki-fg]] を通じて東証・金商法開示の対象。
 - 地域金融政策では、北関東広域の事業承継、産業転換、自治体連携、地域 DX 支援が論点。
-
-## Counterpoints
-
-- 足利銀行との統合シナジーは、顧客基盤が県別に分かれるため過大評価されやすい。
-- 首都圏近接の利点は、同時にメガバンク・ネット金融との競争圧力でもある。
-- 茨城県内の人口・産業分布は広く、店舗・営業人員の最適配置が難しい。
-
-## Open questions
-
-- 常陽銀行単体と足利銀行単体の収益貢献比率はどう変化しているか。
-- めぶき FG の広域店舗統廃合は県内顧客にどう影響しているか。
-- つくば・スタートアップ・研究都市金融は収益化できているか。
 
 ## Related
 

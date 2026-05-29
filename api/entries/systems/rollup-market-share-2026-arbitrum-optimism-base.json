@@ -66,12 +66,12 @@
     "TL;DR",
     "Wiki route",
     "Why this matrix matters",
-    "Per-rollup sections",
     "Base (Coinbase)",
     "Arbitrum (Offchain Labs)",
     "Optimism (OP Labs)",
     "zkSync Era (Matter Labs)",
-    "Linea (Consensys)"
+    "Linea (Consensys)",
+    "Polygon zkEVM / AggLayer (Polygon Labs)"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 24345,
-    "word_like_tokens": 4166,
+    "nonspace_chars": 22821,
+    "word_like_tokens": 3918,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

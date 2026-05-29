@@ -122,23 +122,6 @@ Venezuela is the case where a **state CBDC failed** (petro) and **a private USD 
 5. **The "policy posture" gap between US-friendly and US-hostile administrations is real but smaller than expected**. Milei Argentina, Lula Brazil, Sheinbaum Mexico, Maduro Venezuela all face the same household behavior: USDT-Tron substitutes for whatever the central bank wants to defend.
 6. **Brazil is the closest analog to a Japanese trust-type EPI architecture** (see [[fintech/japan-stablecoin-regulatory-landscape]]) — DREX as a permissioned tokenized-deposit platform with regulated bank participation, distinct from a non-bank issuer model.
 
-## Counterpoints
-
-- The **"CBDC is dying"** framing overstates. Brazil's DREX is institutionally serious and well-resourced; ECB digital euro is in advanced design; PBoC e-CNY continues to scale. The pattern is not failure but **role reallocation** — CBDCs settle into wholesale and tokenized-deposit roles while non-bank stablecoins handle retail.
-- The **"USDT-Tron dominates"** observation may understate USDC's institutional gains; in Mexico via Bitso, in Brazil via Mercado Bitcoin and Circle direct, USDC is structurally winning the licensed-rail share.
-- **Milei reforms** could compress USDT demand in Argentina if peso stabilization holds — but the on-ramp UX advantage suggests structural stickiness even at lower inflation.
-- **OFAC sanctions** on Venezuelan entities operate against USDT-Tron flows; the legal-risk envelope is materially different from compliant Mexico-USDC corridors.
-- **Brazilian PL 4401** brings stablecoins under BCB supervision; the regulatory direction is **tightening**, not loosening, which could re-route private BRL-pegged issuance.
-
-## Open questions
-
-- Does DREX Pilot 2 transition to live launch in 2026-2027, and what programmable-money use cases catalyze first?
-- Does Banxico publish a CBDC retail launch date, or does CoDi + Bitso permanently capture the use case?
-- Does Argentina BCRA shift from passive tolerance to active framework for USDT and stablecoins?
-- Does El Salvador's IMF-driven Chivo de-emphasis fully terminate the state-wallet experiment?
-- Does any Latin American jurisdiction sign a §501(d) MRA with the US under GENIUS Act (see [[fintech/genius-act-501-denylist-mandate]])?
-- Does Project Nexus or a regional LATAM equivalent (BIS-led) emerge to interlink Pix / CoDi / PSE / Yape and compress cross-border stablecoin economics?
-
 ## Related
 
 - [[fintech/INDEX|Wiki Index]]

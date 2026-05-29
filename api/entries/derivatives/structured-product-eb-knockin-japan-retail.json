@@ -56,13 +56,13 @@
     "EB knock-in structured product Japan retail",
     "TL;DR",
     "Wiki route",
-    "Product anatomy",
     "Headline mechanics",
     "Worst-of basket variant",
     "Autocallable feature",
-    "Payoff mathematics",
     "Investor position equivalence",
-    "At-maturity payoff scenarios"
+    "At-maturity payoff scenarios",
+    "Knock-in observation type matters",
+    "Pricing components for the dealer"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -120,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15817,
-    "word_like_tokens": 2441,
+    "nonspace_chars": 14310,
+    "word_like_tokens": 2208,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

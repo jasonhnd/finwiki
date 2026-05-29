@@ -49,8 +49,6 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Credit rating | High investment-grade (A range) by domestic agencies (R&I, JCR) and international (S&P / Moody's) |
 | Key segments | Office leasing, retail facilities, residential (Park Mansion / Park Court / Park Home), logistics, hotel, overseas (US, UK, Asia), brokerage / property-services |
 
-## Funding stack
-
 ### 1. Corporate debt — public bonds
 
 Mitsui Fudosan is one of the largest non-financial corporate-bond issuers in Japan. It maintains:
@@ -212,23 +210,6 @@ The Park Mansion / Park Court / Park Home brand series is Mitsui Fudosan's resid
 - Is exposed to **residential-condominium cycle** factors: mortgage-rate environment, household-formation trends, Tokyo CBD vs suburban location preference.
 
 Residential supports Mitsui Fudosan's revenue mix and cash-flow profile alongside office, retail, logistics, hotel, and overseas segments.
-
-## Counterpoints
-
-- **"Asset Recycling is just disposal accounting"** — Partly. The disposal does book a gain but the recurring AM-fee, property-management, and brand-licensing income streams are real and grow with REIT AUM. The fee business is a separate value-creation lever. ^[inferred]
-- **"Sponsor J-REIT prices are set by the sponsor"** — Not directly. JREI appraisal and the REIT's supervisory board approval are independent constraints. But the sponsor controls **timing and asset selection**, which is a softer form of pricing power. ^[ambiguous]
-- **"Overseas project economics offset Japan exposure"** — Partly true diversification, but overseas projects (e.g. US office) have their own cycle risk and currency exposure. Diversification is not unconditional risk reduction.
-- **"Investment-grade rating is permanent"** — Tied to the rating-agency view on cycle-through cash flow and leverage. Aggressive overseas expansion or a large capex cycle could pressure the rating. ^[inferred]
-- **"REIT recycling capacity is unlimited"** — Bounded by J-REIT [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate]] window, public-equity issuance digestion, and sponsor-REIT scale. In hostile market conditions the pipeline backs up on the developer balance sheet.
-
-## Open questions
-
-- What is the **fee-business contribution** to consolidated profit, and how does it scale with AM AUM growth at NBF / Frontier / MFLP-REIT?
-- How does the post-BoJ-exit **rate-normalization** cycle affect Mitsui Fudosan's corporate-bond curve and the J-REIT cap-rate window simultaneously?
-- How much of the **overseas portfolio** (especially US office) faces cap-rate / vacancy headwinds, and what is the recourse / non-recourse split?
-- What is the **MFLP-REIT growth trajectory** relative to mainstream logistics J-REIT peers (see [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]])?
-- How does **urban-regeneration district scale** (Toyosu, Yaesu, Kashiwa-no-ha, Hibiya) shift the long-duration capex profile and the bond-issuance maturity ladder?
-- How does Mitsui Fudosan compare to **US "asset-light" sponsors** (Blackstone, Brookfield) on fee-business multiple and capital-light positioning?
 
 ## Related
 

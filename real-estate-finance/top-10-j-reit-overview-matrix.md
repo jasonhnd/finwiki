@@ -53,8 +53,6 @@ Start from [[real-estate-finance/INDEX|real-estate-finance domain]], then [[real
 
 Specific ranking by market cap shifts; this list is a stable representative top-of-market group rather than an exact league table. Industry consolidation has merged some earlier separately-listed J-REIT into combined entities (for example Japan Retail Fund and MCUBS MidCity were consolidated into JMF), so the list of "top 10 by market cap" rotates over time.
 
-## 2. Comparison axes
-
 ### 2.1 Sponsor and asset focus
 
 | J-REIT | Sponsor type | Asset class | Asset-class concentration |
@@ -135,22 +133,6 @@ When reading this matrix, the more useful axes for analysis are:
 | Who is trustee? | J-REIT securities report (有価証券報告書). |
 | What is recent DPU yield? | JPX REIT page + J-REIT IR. |
 | What is foreign-investor share of trading? | JPX trading by investor type. |
-
-## Counterpoints
-
-- "Top 10" lists are unstable: J-REIT mergers (JRF + MCUBS MidCity into JMF, and similar consolidations) regularly reshuffle ordering, so any matrix must be treated as a reference structure rather than a fixed league table.
-- A high DPU yield by itself is not a buy signal: the yield can compensate for sponsor-conflict risk, leverage posture, asset-class cycle, or appraisal lag (see [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]] for the appraisal point).
-- Sponsor identity does not fully determine J-REIT quality: governance, asset-management-company execution, and asset-class cycle independently matter.
-- Diversified J-REIT (NMF, Orix JREIT) trade off concentration risk against sector-cycle clarity; both characteristics matter, and neither is inherently better.
-- Foreign-sponsor logistics J-REIT (GLP J-REIT, Nippon Prologis REIT) are also large names and could appear in a top-10 cut depending on the date window even though they are not all in the representative list above.
-
-## Open questions
-
-- Sustainability of consolidation pace in the J-REIT industry — whether the top-10 cut continues to compress.
-- Whether activist / engagement strategies extend from [[finance/japan-listed-financial-groups-investable-universe|listed financial groups]] to J-REIT names.
-- Long-run impact of Tokyo CBD office demand pattern on the historic NBF / JRE premium.
-- Logistics J-REIT yield convergence with US logistics REIT (Prologis) as foreign-capital cap-rate compression sustains or reverses.
-- Behavior of independent-sponsor J-REIT in a stress refinancing cycle relative to developer-sponsor J-REIT with stronger group support.
 
 ## Related
 

@@ -46,8 +46,8 @@
     "旧法人（縮小・閉鎖済）",
     "2. 沿革・年表",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
-    "集中領域"
+    "集中領域",
+    "競合マッピング"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4629,
-    "word_like_tokens": 683,
+    "nonspace_chars": 4486,
+    "word_like_tokens": 669,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

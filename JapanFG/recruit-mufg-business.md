@@ -48,18 +48,6 @@ The company is strategically important because it combines Recruit's merchant / 
 
 RMB sits between [[JapanFG/mufg|MUFG]], consumer apps, merchants, payroll flows, and account-to-account payment. That makes it a useful contrast to [[JapanFG/paypay|PayPay]], [[JapanFG/merpay|Merpay]], [[JapanFG/au-payment|au PAY]], and card-led PSPs such as [[JapanFG/gmo-payment-gateway|GMO-PG]].
 
-## Counterpoints
-
-- COIN+ / Air Wallet visibility is lower than the largest code-payment brands, so user adoption and merchant acceptance need separate evidence.
-- A bank-linked wallet can have strong trust and low-cost account rails but still face consumer habit and incentive disadvantages.
-- Public sources identify registration and product scope, but do not disclose transaction volume, MAU, take rate, or unit economics.
-
-## Open Questions
-
-- Does COIN+ become a merchant payment rail, a bank-account movement layer, or a Recruit ecosystem utility first?
-- How much value does MUFG capture through account linkage versus RMB product economics?
-- Should Air Wallet Quick Loan be routed mainly to [[payments/credit-purchase-card-operators-japan-index|credit / lending]] or to funds-transfer wallet analysis?
-
 ## Related
 
 - [[JapanFG/mufg]]

@@ -19,7 +19,6 @@ sources:
 
 # 北國 FHD (Hokkoku FHD)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -76,8 +75,6 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 | クレカ・決済 | 北國クレジット・北國 e ペイメント | 地域決済 |
 | Microsoft 提携 | 全社横断 | Azure / Surface / Microsoft 365 を全業務基盤に |
 
-## 4. 戦略・競争
-
 ### 「地銀発デジタルプラットフォーマー」志向
 
 北國 FHD の戦略は、地銀業界で**唯一無二**と言ってよい。一般的な地銀が「ベンダー任せの共同勘定系（NTT データ・日本ユニシス・日立等）」に乗るのに対し、北國は **2008 年以降 Microsoft Azure を内製基盤に据え、勘定系自体をオープン化** した。この蓄積を商品化したのが 2023 年の **Tonari**（BaaS）であり、自社が利用者である DX 基盤を他地銀に外販する **「IT 会社化」戦略** へと踏み込んでいる。
@@ -105,9 +102,6 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
 
 ## 6. Counterpoints
 
-- **「IT 会社化」の収益寄与は限定的**：Tonari / デジタルバリュー は戦略的看板だが、グループ収益の主柱はあくまで北國銀行の銀行業（預貸・手数料）。DX 事業の利益貢献は中期視点で要観察 ^[inferred]
-- **石川県集中リスク**：地盤が石川県中心 → 地域人口減・能登半島地震のような自然災害リスク連動 ^[inferred]
-- **Microsoft 依存**：Azure / Surface / Microsoft 365 への深い依存は、特定ベンダーの価格改定・サービス変更リスクを内包 ^[inferred]
 - **DX 先進性 ≠ 規模拡大**：「デジタル先進地銀」評価は確立しているものの、それが県外展開や M&A による規模拡大には直結していない。地銀再編の主導役にはなっていない ^[ambiguous]
 - **Tonari の他地銀採用範囲は未公表ベース**：BaaS としての顧客地銀リストは限定的に開示されており、市場シェアの実態は外部から見えにくい ^[ambiguous]
 

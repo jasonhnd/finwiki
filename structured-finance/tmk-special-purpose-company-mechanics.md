@@ -140,22 +140,6 @@ TMK is the dominant structure for **single-borrower listed CMBS** in Japan (the 
 | Distribution mechanics | Distributions per the asset liquidation plan; statutory tax-pass-through conditions |
 | Wind-down | TMK winds down when assets are fully amortized or sold |
 
-## Counterpoints
-
-- **"TMK is overly bureaucratic compared to GK-TK"** — partly true. TMK formation and disclosure obligations are heavier than GK-TK; use TMK when public-bond issuance or large/complex deal warrants the structural cost.
-- **"TMK pass-through is conditional on tight distribution requirements"** — true; structuring teams must ensure the 90% distribution and other conditions are met in each fiscal period.
-- **"GK-TK can do everything TMK can do at lower cost"** — wrong for public-bond issuance. GK-TK is private-placement-oriented; TMK is the public-placement form.
-- **"TMK is being displaced by J-REIT"** — partial. J-REIT and TMK serve different purposes — J-REIT is a perpetual listed equity vehicle; TMK is a finite-life securitization vehicle. They coexist rather than substitute.
-- **"Foreign investors prefer Cayman / Bermuda SPVs over TMK"** — depends on investor type. Some foreign investors prefer offshore SPVs for tax / regulatory reasons; others use TMK for the statutory bankruptcy-remoteness and tax pass-through.
-
-## Open questions
-
-- Whether the Asset Securitization Act will be further reformed to expand TMK applicability (e.g. to crypto-asset-backed securities, intangible-asset securitization).
-- Pace of TMK adoption for green / sustainable securitization (see [[structured-finance/japan-green-securitization|Japan green securitization]]).
-- Long-run substitution dynamics between TMK and GK-TK as deal complexity and public-placement preferences evolve.
-- Cross-border TMK structuring for international-investor-targeted deals — withholding tax and treaty interaction.
-- Whether more J-REIT structures will adopt TMK sub-vehicles for tax / asset-class flexibility.
-
 ## Related
 
 - [[structured-finance/INDEX|structured-finance index]]

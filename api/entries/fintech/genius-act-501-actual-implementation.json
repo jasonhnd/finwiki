@@ -63,7 +63,7 @@
     "Pattern 2 · Token-level upgrade with freezelist (post-§501 enhancement)"
   ],
   "body_links": {
-    "wikilinks_count": 30,
+    "wikilinks_count": 28,
     "wikilinks": [
       "business/hester-peirce-sec-regulatory-pivot-case",
       "business/larry-fink-blackrock-digital-asset-template",
@@ -76,7 +76,6 @@
       "fintech/chain-level-ofac-freeze-precedent",
       "fintech/circular-reserve-asset-flywheel-overview",
       "fintech/circular-reserve-asset-flywheel-risk-cases",
-      "fintech/frax-frxusd-defi-stablecoin",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/global-stablecoin-regulatory-five-pole-matrix",
       "fintech/irs-1099-da",
@@ -89,7 +88,6 @@
       "fintech/paypal-pyusd-stablecoin",
       "fintech/regulatory-reset-2025-usa-crypto-policy",
       "fintech/ripple-rlusd-stablecoin",
-      "fintech/sky-usds-decentralized-stablecoin",
       "fintech/stablecoin-chain-sovereign-currency-divide",
       "fintech/stablecoin-chain-token-strategy-trilemma",
       "fintech/tether-business-model-short-treasury-yield",
@@ -108,7 +106,6 @@
       "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
       "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
       "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-risk-cases",
-      "https://finwiki.zksc.io/fintech/frax-frxusd-defi-stablecoin",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
       "https://finwiki.zksc.io/fintech/irs-1099-da",
@@ -121,7 +118,6 @@
       "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
       "https://finwiki.zksc.io/fintech/regulatory-reset-2025-usa-crypto-policy",
       "https://finwiki.zksc.io/fintech/ripple-rlusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/sky-usds-decentralized-stablecoin",
       "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
       "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma",
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
@@ -132,9 +128,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21458,
-    "word_like_tokens": 3447,
+    "nonspace_chars": 18810,
+    "word_like_tokens": 2998,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

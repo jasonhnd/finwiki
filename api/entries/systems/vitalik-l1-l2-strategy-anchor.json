@@ -47,19 +47,15 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "business/larry-fink-blackrock-digital-asset-template",
       "fintech/INDEX",
-      "fintech/blackrock-buidl-tokenized-mmf-overview",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/usd-stablecoin-interchange",
       "systems/INDEX",
       "systems/dag-bft-vs-chain-bft-architecture",
@@ -71,8 +67,6 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/business/larry-fink-blackrock-digital-asset-template",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture",
@@ -84,8 +78,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3651,
-    "word_like_tokens": 608,
+    "nonspace_chars": 3069,
+    "word_like_tokens": 518,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

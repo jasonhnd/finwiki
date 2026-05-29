@@ -59,14 +59,6 @@ USDC.YS（2025-Q1 ローンチ）= USDC + USYC yield の製品パッケージ、
 
 2022-2023 RWA トークン化第 1 波（MakerDAO が DAI 準備金を short UST に配置）、ただしシェアは依然 OUSG / USDM（Mountain Protocol）等の小型ソリューションが主体。**2024-03 BUIDL ローンチ** = 業界の転換点、BlackRock がトークン化 MMF を機関メイン戦場に押し上げた。2024-Q3 WisdomTree Prime が WTGXX のオンチェーン share を公表（主に Ethereum 上）。**2024-12 Circle が Hashnote を買収** = 第 2 の重要イベント、Circle が「yield engine」を内製化し、BUIDL 依存リスクを解消。2025-Q1 Circle が **USDC.YS** をローンチ = USDC + USYC のワンクリック購入製品。2025-Q3 Superstate USTB が Solana をまたぎ、ONDO OUSG と DeFi 統合で競合。**2025-09 GENIUS Act 施行** → 「SC は直接利息支払い不可」により yield-bearing 経路は「SC + 独立 MMF share」二位一体製品パッケージ構造を辿る必要、**第二梯団トークン化 MMF を直接利する**（コンプライアンス yield-bearing 製品の必須コンポーネントとなる）。2026-05-13 BUIDL + FYHXX が同日 Moody's Aaa-mf 取得、第一梯団がさらに制度化。2026-Q1 市場全体で $8B+ AUM、依然初期段階（vs 米国 MMF 総市場 $7T）。
 
-## Counterpoints
-
-第二梯団トークン化 MMF の「BUIDL に競合」ナラティブは早すぎる可能性 —— BUIDL は既に CME / Binance / Deribit / Crypto.com にデリバティブ IM collateral として受け入れられ、**ネットワーク効果が既に確立**、第二梯団の WTGXX / USYC は機関 IM シーンで浸透が限定的。Circle が Hashnote を買収後、USYC と BUIDL は Circle 内部で経路衝突がある（Circle はかつて BUIDL 初期最大 LP の 1 つ）、Circle が BUIDL から撤退するか双線保有するかは 2026-2027 のデータが決定する。WisdomTree Prime ウォレットユーザーベース（~ 数十万人）は主流 brokerage（Schwab / Fidelity / Robinhood）と比較して依然小さく、WTGXX 成長上限は Prime ウォレットの顧客獲得能力に制約される。規制側：OCC/FRB 2026+ で「単一トークン化 MMF は SC 準備金の X% を超えてはならない」cap を新設する可能性があり、いずれのトークン化 MMF の「yield インフラ」地位も直接制限する（ヘッド BUIDL への影響が最大、ただし第二梯団の天井も同時に制限）。
-
-## Open questions
-
-USDC.YS（Circle USDC + USYC）は 2026-2027 で $10B AUM を突破し「GENIUS-compliant yield-bearing SC」の事実上の標準となれるか？WisdomTree Prime + WTGXX は Schwab / Fidelity 等主流 brokerage に直接複製されるのか、それとも WisdomTree が first-mover 優位でリテールオンチェーン MMF 市場をロックするのか？BUIDL がトークン化 MMF 市場の 30-40% を占有する 2030 予測は依然成立するのか、それとも第二梯団の合計シェアが逆転するのか？
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]

@@ -35,8 +35,6 @@ Foreign-parent life insurers occupy a structurally important but quietly-disclos
 
 The big seven foreign-affiliate names typically discussed are AFLAC Japan (cancer / medical specialist, structurally the dominant foreign affiliate by in-force premium), MetLife Japan, Manulife Japan, Prudential Japan and its sister Gibraltar Life, AXA Japan, Zurich Japan, and AIA. Allianz also has Japan operations though smaller in scale relative to its global franchise. Each entity is licensed by the FSA and supervised against the [[insurance/economic-value-based-solvency|economic-value solvency]] regime on a Japan-licensed-subsidiary basis, while the parent group is supervised at home jurisdiction by its lead supervisor (EIOPA, US state regulators, OSFI, MAS, etc.).
 
-## Product / channel positioning
-
 ### AFLAC Japan — cancer insurance dominance
 
 [[JapanFG/aflac-japan|AFLAC Japan]] is the structural reference case for foreign-life dominance in a single product line: 癌保険 (cancer insurance) and broader supplemental medical. Public framing fields:
@@ -204,23 +202,6 @@ Each foreign-affiliate channel faces a specific competitive set:
 | Worksite voluntary benefits (multiple) | Big-four corporate channels, group-life programs, employee-benefit consultants |
 
 The competitive dynamic determines acquisition cost, persistency, and pricing power for each foreign affiliate. Foreign affiliates often defend share through brand specialization (cancer expertise, Lifeplanner productivity, foreign-currency product engineering) rather than through scale alone.
-
-## Counterpoints
-
-- "Foreign-affiliate share is small" is a misleading framing for product-specific markets. AFLAC's share in cancer insurance, MetLife's share in foreign-currency annuity, and Prudential / Gibraltar's share in consultative Lifeplanner segments are not small relative to total in-force in those lines.
-- "Foreign parent means foreign supervision" is incorrect for the Japan-licensed entity. The FSA licenses, supervises, and applies [[insurance/economic-value-based-solvency|ESR]] to the Japan subsidiary regardless of parent nationality.
-- Parent-group capital support is a comfort but not unconditional. Parent groups can be capital-constrained at home (US RBC pressure, Solvency II SCR pressure) and may not always be able to inject capital into Japan when needed.
-- Channel-specialization advantages can erode as domestic peers catch up on product or channel design. The competitive moat in cancer insurance, foreign-currency annuity, or Lifeplanner-style sales is not permanent.
-- Intra-group reinsurance to a parent-group reinsurance vehicle in another jurisdiction is subject to FSA scrutiny and to ICS-level group-wide assessment; it is not a free capital tool.
-
-## Open questions
-
-- How does AFLAC Japan's cancer-insurance dominance evolve as Japanese demographic and morbidity patterns shift, and as Japanese domestic insurers improve their cancer / medical product offerings?
-- How do bancassurance regulatory and conduct rules affect MetLife Japan and other bancassurance-leaning foreign affiliates as the FSA tightens suitability frameworks for foreign-currency products?
-- How do Prudential Japan / Gibraltar Life Lifeplanner productivity and persistency metrics compare with [[JapanFG/sony-life|Sony Life]] under the [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] framework?
-- How does parent-group capital pressure (US RBC for Prudential and MetLife, Solvency II for AXA and Allianz, OSFI for Manulife, FINMA for Zurich, HKIA for AIA) interact with capital availability for Japan-subsidiary growth and ESR resilience?
-- How does the FSA's role in foreign-IAIG supervisory colleges evolve under the [[insurance/global-solvency-framework-comparison-matrix|IAIS ICS 2.0]] post-finalization regime?
-- How is foreign-affiliate persistency holding up in foreign-currency annuity blocks as USD-JPY volatility and US interest rates fluctuate?
 
 ## Related
 

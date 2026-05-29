@@ -98,13 +98,6 @@ Amazon Gift Card Japan's strategic role:
 4. **Convenience-store rail anchor** — gift-card distribution at convenience stores is a primary acquisition lane for under-banked users.
 5. **Multi-rail distribution** — eGift, physical card, charge type, B2B all coexist to capture different use cases without cannibalization.
 
-## Counterpoints
-
-- "Amazon Gift Card is just a gift product." It also serves as the **primary cashless on-ramp for cardless Amazon users** — a structurally important role, not gift-only.
-- "Closed-loop is less valuable than open-loop." Closed-loop has different economics — float / breakage simpler to monetize; merchant-fee distribution irrelevant; only the issuer's own platform is the spending surface.
-- "Scam exploitation should ban gift cards." Convenience-store warning processes and consumer education are the deployed responses; outright ban would harm legitimate gift-distribution use.
-- "Apple / Google Gift Cards are equivalent." Same closed-loop category but different spending surface — Apple Gift Card spends in Apple ecosystem (App Store, iTunes, Apple hardware), Google Play in Google Play store, Amazon in Amazon.co.jp.
-
 ## Related
 
 - [[payments/INDEX]]

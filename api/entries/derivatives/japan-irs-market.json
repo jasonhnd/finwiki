@@ -56,7 +56,7 @@
     "Dealer Bank Revenue Split",
     "Corporate vs Financial-Institution End-Users",
     "JSCC Clearing Mandate",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 24,
@@ -116,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12850,
-    "word_like_tokens": 2139,
+    "nonspace_chars": 11222,
+    "word_like_tokens": 1848,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

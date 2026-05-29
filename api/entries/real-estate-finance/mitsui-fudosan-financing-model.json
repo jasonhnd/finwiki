@@ -51,12 +51,12 @@
     "TL;DR",
     "Wiki route",
     "Corporate identity",
-    "Funding stack",
     "1. Corporate debt — public bonds",
     "2. Syndicated bank loans",
     "3. Sponsor J-REIT equity recycling",
     "4. Asset-management fee income",
-    "5. Overseas project finance"
+    "5. Overseas project finance",
+    "Asset Recycling — the mechanics"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -108,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19911,
-    "word_like_tokens": 3164,
+    "nonspace_chars": 17930,
+    "word_like_tokens": 2827,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

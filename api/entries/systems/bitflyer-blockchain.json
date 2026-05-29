@@ -43,18 +43,15 @@
     "TL;DR",
     "System profile",
     "Strategic read",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "JapanFG/bitflyer",
       "exchanges/jp-exchange-bitflyer",
       "fintech/INDEX",
-      "fintech/japan-stablecoin-regulatory-landscape",
       "systems/INDEX",
       "systems/canton-overview",
       "systems/formal-spec-implementation-codesign",
@@ -64,7 +61,6 @@
       "https://finwiki.zksc.io/JapanFG/bitflyer",
       "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-overview",
       "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
@@ -74,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3052,
-    "word_like_tokens": 466,
+    "nonspace_chars": 2350,
+    "word_like_tokens": 362,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-05-29"
   }
 }

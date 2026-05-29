@@ -20,7 +20,6 @@ sources:
 
 # おきなわ FG (Okinawa FG)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ryukyu-bank|株式会社琉球銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -142,8 +141,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | サービサー | 美ら島債権回収 | グループ債権処理 |
 | シンクタンク | おきぎん経済研究所 | 県内経済統計・観光統計の有力データソース |
 
-## 3. 戦略・競争
-
 ### 第 2 次中期経営計画『成長の共創〜おきなわの成長をともに創る〜』（2024-04〜2027-03）
 
 **3 つの戦略柱**:
@@ -193,23 +190,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 観光業 V 字回復に伴う融資需要拡大・JUNGLIA 関連プロジェクトファイナンス
   - 2025〜 県内事業承継案件増加 → おきぎんサクセスパートナーズ 設立で対応強化
   - 沖縄県振興特別措置法（10 年延長・2022-04）に基づく振興融資枠
-
-## Counterpoints
-
-- 「県内完結モデルのリスク」: 沖縄県人口（約 146 万人）+ GDP に依存 → 本土地銀のような県外多角化なし。**観光業・基地経済の単一地域依存リスク**（コロナ禍 2020-2022 で顕在化）^[inferred]
-- 「観光業偏重リスク」: 入域観光客数の変動・自然災害・パンデミック・地政学リスク（中国客）に直接連動 ^[inferred]
-- 「[[ryukyu-bank]] との均衡関係」: 県指定金融機関を隔年受託 = 両行とも県内 No.1 を独占できない構造的制約 ^[extracted]
-- 「持株会社化の実効性」: 2021-10 持株会社化したが、子会社規模は沖縄銀行が圧倒的（連結純資産 1593 億円中、沖縄銀行 単独 1422 億円 = 約 89%）→ 「沖縄銀行 = グループ実態」のままで、持株会社のシナジー創出余地は限定的 ^[inferred]
-- 「県内 3 行統合シナリオ」: [[okinawa-kaiho-bank|沖縄海邦銀行]]（No.3）の経営体力次第で県内再編論が浮上しうるが、現状は均衡維持 ^[ambiguous]
-
-## Open questions
-
-- 第 2 次中計『成長の共創』(2024-04〜2027-03) の上方修正後目標（連結純利益 110 億・ROE 6.20%）達成可能性は? 観光業の持続的回復が前提
-- JUNGLIA（北部テーマパーク、2025-07 開業）関連の融資ボリュームと県北部経済への波及効果は?
-- 那覇空港第 2 滑走路フル運用 + 海外クルーズ船寄港再開で入域観光客の上限はどこまで伸びるか?
-- おきぎんサクセスパートナーズ（2025-07 設立）の事業承継案件パイプラインはどう積み上がるか?
-- [[okinawa-kaiho-bank|沖縄海邦銀行]]（No.3）との将来的再編シナリオは? 県内 3 行 → 2 行体制への移行可能性
-- 本土地銀との広域連携（[[kyushu-fg]]・九州地区地銀との沖縄案件共同組成）の動きは?
 
 ## Related
 

@@ -53,7 +53,7 @@
     "3. KPI (FY2024, 連結ベース)",
     "4. 戦略 (Connect, Build, Finance)",
     "5. 規制・政策",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -99,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6336,
-    "word_like_tokens": 939,
+    "nonspace_chars": 5798,
+    "word_like_tokens": 874,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

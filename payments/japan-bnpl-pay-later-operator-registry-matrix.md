@@ -51,8 +51,6 @@ BNPL is the single most regulatorily-ambiguous payment category in Japan. The sa
 
 The Consumer Affairs Agency (消費者庁 / CAA) maintains an active warning channel on **cash-conversion abuse of BNPL** (現金化目的後払い) and on UX patterns that cause over-borrowing — see CAA's payment-trouble caution page in the sources. This matrix tracks regulatory tier and registration history so a reader can identify which operators are subject to which level of supervision.
 
-## Per-operator sections
-
 ### Net Protections HD (NP 後払い, TSE PRIME 7383)
 
 [[JapanFG/net-protections-hd|Net Protections HD]] (TSE PRIME 7383) is Japan's earliest-mover BNPL pure-play and operates the **NP 後払い** invoice-based BtoC product that EC merchants attach as a "pay later by konbini / bank transfer" option. The group also runs **atone** (consumer-side monthly-cycle BNPL wallet), **NP 掛け払い** (BtoB invoicing), and **AFTEE** (Southeast Asia BNPL targeting Taiwan / Vietnam). The defining characteristic of NP 後払い is **guarantee-model BNPL** — Net Protections absorbs the unrecovered-payment risk in exchange for the merchant fee, so the merchant offloads receivables-management entirely. Registered as an 個別信用購入あっせん業者 on the METI list. Listed 2021-12 on TSE PRIME.
@@ -252,17 +250,6 @@ Reading the matrix table together, four operator clusters emerge:
 4. **Smaller / newer / vertical-specialist pure-plays**: Smarpay, Lattepay, b/43, plus the long tail of small 個別 registry operators. These face the highest consolidation pressure on a 5-10 year horizon given limited ABS access and limited cross-product LTV.
 
 The cluster a reader assigns an operator to is a better predictor of its 3-5 year competitive trajectory than its current GMV or merchant count.
-
-## Open questions
-
-- Will the 2020-2022 BNPL launch wave produce 2-3 sustainable pure-play winners (NP, atone, Paidy already meaningful; possibly 1-2 more) or will it consolidate further around shinpan-rooted and card-issuer-backed BNPL?
-- Does the 認定包括信用購入あっせん / 少額包括信用購入あっせん framework attract meaningful pure-play migration from 個別 registration, or do most BNPL pure-plays stay on 個別 indefinitely?
-- Will [[JapanFG/net-protections-hd|Net Protections HD]] (the only listed pure-play BNPL operator) become an M&A target for a larger shinpan or PSP, completing the BNPL-into-shinpan consolidation pattern?
-- Will [[JapanFG/paidy|Paidy]] under PayPal extend its installment lineup (3-pay, 6-pay) to broader merchant categories and compete more directly with card-issuer installment credit?
-- Does the CAA cash-conversion-abuse warning channel evolve into a registration / disclosure obligation for BNPL operators that the 個別 registry does not currently impose?
-- Will [[JapanFG/merpay|Merpay]] and similar wallet-anchored BNPL extensions force a regulatory category for "wallet-linked BNPL" that combines 資金移動業 and 個別信用購入あっせん into a unified framework?
-- Does the 2025-03 EMV 3-DS card-payment mandate (via [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]]) create a side-effect that shifts BNPL share upward as cardholder friction at EC checkout increases?
-- Will the BNPL operator population (~138 個別 registered) consolidate via M&A toward a smaller number of multi-vertical operators, or does the long tail of small operators persist?
 
 ## Related
 

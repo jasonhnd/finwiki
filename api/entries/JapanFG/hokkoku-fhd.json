@@ -46,9 +46,9 @@
     "主要子会社・持分",
     "2. 合併・沿革",
     "3. 事業セグメント・マップ",
-    "4. 戦略・競争",
     "「地銀発デジタルプラットフォーマー」志向",
-    "Microsoft 長期提携"
+    "Microsoft 長期提携",
+    "競合・参照対象"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4689,
-    "word_like_tokens": 672,
+    "nonspace_chars": 4429,
+    "word_like_tokens": 646,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

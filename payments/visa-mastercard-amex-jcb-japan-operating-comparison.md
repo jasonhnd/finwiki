@@ -76,8 +76,6 @@ Three claims commonly muddle four-brand analysis. First, "they're all just card 
 | **Domestic regulatory dialogue (METI / JFTC)** | Through Japan rep office; coordinates with global HQ | Through Japan rep office; coordinates with global HQ | Through Japan rep office; coordinates with US HQ | Direct domestic engagement (HQ in Japan); responded first to 2023 fee-disclosure request |
 | **Brand fee disclosed?** | Published Japan-standard interchange 2023-08 (Payments Japan roadmap) | Published Japan-standard interchange 2023-08 (Payments Japan roadmap) | Not separately disclosed (closed-loop merchant discount internal) | Issuer / acquirer split disclosed 2023-06 (first among major Japan brands) |
 
-## Per-brand operating notes
-
 ### Visa (Visa Worldwide Pte Ltd Japan branch)
 
 [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]] is the principal Japan presence of Visa Inc. (NYSE: V). Operates a **pure four-party scheme**: Visa does not issue cards or acquire merchants directly in Japan — instead it licenses issuance and acquiring to Japan-domestic operators. Principal Japan issuers span the bank-FG card lines ([[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/smbc-card|SMBC Card]]), independent card cos ([[JapanFG/credit-saison|Credit Saison]], [[JapanFG/jaccs|JACCS]], [[JapanFG/orico|Orico]]), EC-ecosystem cards ([[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]]), retail-anchored cards ([[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/epos-card|Epos Card]]), and transit-anchored cards (View Card via JR East). Acquiring is similarly distributed across bank-FG acquirers and PSPs ([[JapanFG/gmo-payment-gateway|GMO-PG]], [[JapanFG/sb-payment-service|SBPS]], [[JapanFG/dg-financial-technology|DGFT]]).
@@ -188,26 +186,6 @@ The 2022-04-08 JFTC credit-card merchant-fee report and the 2023-06-01 METI / JF
 | JCB | Issuer / acquirer fee allocation split disclosed 2023-06 (first major Japan brand) | Direct engagement; first-mover on disclosure |
 
 JCB's first-mover position on fee disclosure reflects the three-party model: JCB Co Ltd controls both ends of the fee split and can disclose unilaterally, while Visa and Mastercard must coordinate across multiple licensed acquirers (see [[payments/jcb-three-party-operating-model|JCB three-party operating model]] for the structural explanation).
-
-## Counterpoints
-
-- "All four brands are interchangeable from the merchant's view." Not at the fee-economics or rule-setting level. Visa and Mastercard merchants negotiate with licensed acquirers under brand-set interchange; AMEX merchants contract directly with AMEX (or partner-acquirer); JCB merchants contract with JCB Co Ltd direct or with a partner-acquirer. Fee structure, rule enforcement, and dispute path differ materially.
-- "JCB and AMEX three-party schemes are equivalent." JCB has ~30 partner-issuers under licensing (significantly broader than AMEX's Saison-anchored partner-issuance); JCB is also the only Japan-HQ international brand; JCB's domestic acceptance is materially broader than AMEX's. The two are not equivalent despite both being "three-party."
-- "Visa and Mastercard are identical in Japan." Functionally close but not identical — slight tilts in cobrand portfolio, premium-segment positioning, and 2025-2026 agentic-commerce product naming differ. The merchant-fee economics are very similar at the published-interchange level, but per-acquirer rates do diverge.
-- "AMEX has no broad Japan issuance." Materially incorrect: the Saison Persona JV gives AMEX broad partner-issuance footprint, comparable in structure (though smaller in scale) to JCB's partner-issuance model.
-- "JCB is only domestically relevant." Discover Global Network alliance, regional acquirer-partnerships, and inbound-tourist economics make JCB meaningfully relevant in Korea, Taiwan, Hong Kong, SE Asia, and (via Discover) the US.
-- "Code-payment will replace card brands." Code-payment value in 2025 was 16.6 trillion yen vs total card payment ~100+ trillion yen — card brands still dominate Japan cashless value (see [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]).
-- "Agent-payment will pick one brand." Premature — Visa, Mastercard, AMEX, JCB all have agentic-pay roadmaps; merchants and consumers may use multiple brands across agentic and non-agentic flows.
-
-## Open questions
-
-- Will JFTC pressure force Visa / Mastercard Japan to disclose per-acquirer fee splits comparable to JCB's 2023 disclosure?
-- Will AMEX-Saison Persona JV restructure given the 2024-2026 evolution of [[JapanFG/credit-saison|Credit Saison]]'s wider strategy and Saison Realty / Saison Asset Management adjacencies?
-- Will JCB consolidate its 30+ partner-issuers given Capital One's 2024 announcement to acquire Discover (the US side of JCB's principal alliance)?
-- Will Visa Direct vs Mastercard Send compete for the principal push-to-card rail in Japan wallets (PayPay, Rakuten Pay, au PAY, Merpay), or will both maintain dual integration?
-- Will Visa Agentic Commerce / Mastercard Agent Pay successfully insert into Japan's wallet-anchored payment flows, or will Japan-domestic agentic flows route over wallet rails (PayPay, Rakuten, d-Barai) instead of card rails?
-- Does the 2025-03 EMV 3-DS mandate timeline land uniformly across the four brands' Japan deployments, or do compliance asymmetries emerge?
-- Will Mastercard's stablecoin / on-chain initiatives create a new Japan-rail divergence from Visa, AMEX, JCB?
 
 ## Cross-references with other matrices
 

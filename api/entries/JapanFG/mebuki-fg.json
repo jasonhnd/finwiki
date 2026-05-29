@@ -43,8 +43,8 @@
     "合併経緯・前身",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "「メガリージョナルバンクグループ」志向"
+    "「メガリージョナルバンクグループ」志向",
+    "首都圏進出戦略"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4881,
-    "word_like_tokens": 724,
+    "nonspace_chars": 3799,
+    "word_like_tokens": 588,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

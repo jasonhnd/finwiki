@@ -48,8 +48,6 @@ Japan listed corporates run formal hedge policies covering FX (JPY exposure vs U
 
 Disclosure is found in Securities Report (有価証券報告書) financial-instruments notes, integrated reports, and risk-management sections.
 
-## FX hedge ratio mechanics
-
 ### Exposure types
 
 | Exposure | Source |
@@ -83,8 +81,6 @@ Hedge ratio is a board-policy variable. Manufacturers exporting JPY-cost / USD-r
 | Natural hedge | Match foreign-currency revenue with foreign-currency cost / debt |
 
 Cross-currency swaps are heavily used by JPY-issuer multinationals to swap JPY bond proceeds to USD for foreign-subsidiary funding.
-
-## Interest-rate hedge policy
 
 ### Exposure types
 
@@ -183,8 +179,6 @@ Separation rules require an embedded derivative to be separately accounted for a
 
 For convertible bonds issued by a Japanese corporate, the equity-conversion right is typically treated as equity (not derivative) when settled by gross delivery of own shares, satisfying the fixed-for-fixed criterion. This is the "own equity" exception under IAS 32 / IFRS 9 and is critical to CB accounting — see [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]].
 
-## Commodity hedging by shōsha and manufacturers
-
 ### Shōsha commodity hedge
 
 Shōsha trade physical commodities (energy, metals, grains, soft commodities) and run sophisticated commodity-derivative books.
@@ -250,23 +244,6 @@ Hedge policy is occasionally an activist topic when:
 - Hedge accounting designation produces visible OCI volatility.
 
 See [[finance/japan-activist-investor-playbook|activist playbook]] and [[finance/japan-shareholder-proposal-and-agm-voting-route|shareholder proposal route]] for activist demand-and-response routing.
-
-## Counterpoints
-
-- Hedge policy disclosure varies; some issuers publish only summary, others publish detailed sensitivity tables.
-- Hedge accounting designation does not eliminate underlying economic exposure; OCI vs P&L choice is presentation, not risk transfer.
-- Special hedge accounting (特例処理) under JGAAP can mask hedge cost / benefit detail.
-- Natural hedge claims (operating offsets) are difficult to verify externally without segment disclosure detail.
-- Commodity hedge losses can become material in dislocated markets; risk-management framework strength matters as much as policy.
-- Embedded-derivative treatment varies by issuer interpretation; auditor judgement matters.
-
-## Open questions
-
-- How will TONA-fallback transition affect legacy IRS books?
-- Will TSE Prime PBR-1x initiative push more disclosure on hedge-policy capital efficiency?
-- How will Japanese corporates hedge climate-transition commodity exposures (carbon credits, electricity, rare earths)?
-- Will activist pressure on FX exposure transparency lead to more granular disclosure?
-- How will CCIRS pricing affect JPY bond-issuer foreign-funding strategies?
 
 ## Related
 

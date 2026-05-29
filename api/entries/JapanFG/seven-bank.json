@@ -42,12 +42,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "業態の特徴",
     "主要子会社・グループ ^[extracted]",
     "株主構造（連結）^[ambiguous]",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "収益モデル（B2B2C）"
+    "収益モデル（B2B2C）",
+    "コアプラットフォーム戦略"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5544,
-    "word_like_tokens": 848,
+    "nonspace_chars": 4237,
+    "word_like_tokens": 690,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

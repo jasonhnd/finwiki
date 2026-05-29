@@ -47,14 +47,14 @@
     "TL;DR",
     "1. 会社概要",
     "持株ツリー (千葉銀グループ簡略図)",
-    "2. 業務ラインと収益構造",
     "主要業務ライン",
     "収益構造の特徴 ^[inferred]",
-    "3. 親会社・グループ内ポジション",
-    "グループ内クロスリンク"
+    "グループ内クロスリンク",
+    "地銀系リース peer 比較",
+    "大手リース・専業リースとの競合"
   ],
   "body_links": {
-    "wikilinks_count": 37,
+    "wikilinks_count": 34,
     "wikilinks": [
       "JapanFG/INDEX",
       "banking/INDEX",
@@ -71,18 +71,15 @@
       "hokkaido-bank",
       "hokkaido-lease",
       "ibj-leasing",
-      "iyo-bank",
       "iyogin-hd",
       "iyogin-leasing",
       "ja-mitsui-leasing",
       "kanematsu-leasing",
       "mebuki-fg",
       "mebuki-lease",
-      "mebuki-securities",
       "mitsubishi-hc-capital",
       "mizuho-lease",
       "nec-leasing",
-      "orix-auto-leasing",
       "ricoh-leasing",
       "shizuoka-fg",
       "showa-leasing",
@@ -110,18 +107,15 @@
       "https://finwiki.zksc.io/hokkaido-bank",
       "https://finwiki.zksc.io/hokkaido-lease",
       "https://finwiki.zksc.io/ibj-leasing",
-      "https://finwiki.zksc.io/iyo-bank",
       "https://finwiki.zksc.io/iyogin-hd",
       "https://finwiki.zksc.io/iyogin-leasing",
       "https://finwiki.zksc.io/ja-mitsui-leasing",
       "https://finwiki.zksc.io/kanematsu-leasing",
       "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/mebuki-lease",
-      "https://finwiki.zksc.io/mebuki-securities",
       "https://finwiki.zksc.io/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/mizuho-lease",
       "https://finwiki.zksc.io/nec-leasing",
-      "https://finwiki.zksc.io/orix-auto-leasing",
       "https://finwiki.zksc.io/ricoh-leasing",
       "https://finwiki.zksc.io/shizuoka-fg",
       "https://finwiki.zksc.io/showa-leasing",
@@ -137,9 +131,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8582,
-    "word_like_tokens": 1118,
+    "nonspace_chars": 6042,
+    "word_like_tokens": 793,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

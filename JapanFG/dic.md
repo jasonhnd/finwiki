@@ -61,7 +61,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2010-09 | [[JapanFG/japan-shinko-bank|日本振興銀行]] 破綻 → **日本で初のペイオフ発動** |
 | 2014 | 預金保険法改正 → 秩序ある処理（金融システム上重要な金融機関等の処理） |
 | 2020〜 | コロナ危機対応・金融機能強化法の継続運用 |
-| 2024〜 | 暗号資産業者・資金移動業者の利用者保護スキーム拡張議論 ^[inferred] |
 
 ## 2. 業務領域
 
@@ -89,8 +88,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
     不良債権買取・回収
 ```
 
-## 3. 平成金融危機での実績
-
 ### 2003 りそな救済（最大級の公的資金注入）
 
 - [[JapanFG/resona-hd|りそなホールディングス]] の自己資本比率が 4% 国内基準を割り込む寸前
@@ -115,7 +112,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **米 FDIC（Federal Deposit Insurance Corporation）** を 1970 年代に参考導入したが、米と異なり**保険機能 + 破綻処理機能 + 不良債権処理機能 を一元化**している点が特徴
 - **IADI（国際預金保険協会）** メンバー
-- アジアの中では DIC 韓国 KDIC・台湾 CDIC との情報交換が活発 ^[inferred]
 - 危機時には [[JapanFG/boj|日本銀行]] 特別融資（最後の貸し手機能）と相補的に機能
 
 ## Related

@@ -51,12 +51,12 @@
     "持株ツリー (千葉銀グループ簡略図)",
     "2. 業務ラインと収益構造",
     "収益構造の特徴 ^[inferred]",
-    "3. 親会社・グループ内ポジション",
     "グループ内クロスリンク",
-    "TSUBASA アライアンス連携"
+    "地銀系証券 peer 比較",
+    "大手 / ネット証券との競合"
   ],
   "body_links": {
-    "wikilinks_count": 27,
+    "wikilinks_count": 25,
     "wikilinks": [
       "JapanFG/INDEX",
       "banking/INDEX",
@@ -71,9 +71,7 @@
       "finance/japan-listed-financial-groups-investable-universe",
       "fukuoka-fg",
       "gmo-click-securities",
-      "iyo-bank",
       "iyogin-hd",
-      "iyogin-leasing",
       "jsda",
       "mebuki-fg",
       "mebuki-securities",
@@ -100,9 +98,7 @@
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
       "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/gmo-click-securities",
-      "https://finwiki.zksc.io/iyo-bank",
       "https://finwiki.zksc.io/iyogin-hd",
-      "https://finwiki.zksc.io/iyogin-leasing",
       "https://finwiki.zksc.io/jsda",
       "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/mebuki-securities",
@@ -119,9 +115,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7771,
-    "word_like_tokens": 1061,
+    "nonspace_chars": 5731,
+    "word_like_tokens": 783,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

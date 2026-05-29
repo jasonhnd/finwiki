@@ -22,7 +22,6 @@ sources:
 
 # Lloyd's Japan / ロイズ・ジャパン
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fm-global-japan|FM Global Japan]] and [[JapanFG/aig-japan|AIG Japan]] for foreign-specialty-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
@@ -62,18 +61,6 @@ Unlike [[JapanFG/aig-japan|AIG Japan]] or [[JapanFG/chubb-insurance-japan|Chubb 
 - Clarifies that Lloyd's is a marketplace, not a single insurance company, when comparing with conventional foreign carriers such as [[JapanFG/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]].
 - Helps map the specialty / large-commercial side of Japan's non-life market, which is dominated otherwise by the [[insurance/japan-nonlife-big-three|non-life big three]] domestic groups.
 - Sets up reference for marine and aviation insurance routing, where Lloyd's syndicates historically led pricing.
-
-## Counterpoints
-
-- Lloyd's Japan's role is intermediation and market access; underwriting capacity ultimately rests with London syndicates, so the Japan entity's balance sheet is not directly comparable with risk-bearing carriers. ^[inferred]
-- Specialty market share in Japan is modest in premium terms vs. the [[insurance/japan-nonlife-big-three|non-life big three]] but disproportionately important in marine and aviation. ^[inferred]
-- Syndicate capacity allocations to Japan can be cyclical, fluctuating with global Lloyd's market conditions. ^[inferred]
-
-## Open questions
-
-- What share of Japan-originated specialty premium is intermediated through Lloyd's Japan vs. direct London placement via brokers?
-- How has the Lloyd's Japan platform evolved alongside Lloyd's Brussels (Lloyd's Insurance Company S.A.) for post-Brexit EU and global business?
-- What is the breakdown by line of business (marine / aviation / cyber / energy / reinsurance) for Lloyd's Japan-routed risks?
 
 ## Related
 

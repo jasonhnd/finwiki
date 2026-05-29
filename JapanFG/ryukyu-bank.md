@@ -17,7 +17,6 @@ sources:
 
 # 株式会社琉球銀行
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/okinawa-fg|おきなわ FG (Okinawa FG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -76,8 +75,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | カード・決済 | りゅうぎん JCB / DC、地域 QR 決済「OKIPay」等参画 |
 | シンクタンク | りゅうぎん総合研究所（県内経済予測の主要発信源）|
 
-## 3. 戦略・競争
-
 ### 中期経営計画（直近）
 
 - 2024 開始の中計を遂行中
@@ -125,23 +122,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 沖縄県観光人口 V 字回復 → 観光融資資産質改善
   - 離島人口減 → 店舗統廃合・ATM 維持コスト
   - 沖縄振興予算の中長期動向（本土復帰 50 周年後の振興策の見直し）
-
-## Counterpoints
-
-- 「**県内二強で安泰**」観: 沖銀との二強体制は長期安定的だが、人口減 + 観光偏重で県内経済の構造リスク自体が拡大しつつある ^[inferred]
-- 「**持株会社化しない選択**」: 沖縄銀行は 2021-10 おきなわ FG 化したのに対し、琉球銀行は単独銀行を維持。意思決定の素早さは利点だが、グループ多角化（証券・信託・FinTech 子会社展開）では沖銀側に遅れる可能性 ^[ambiguous]
-- 「**離島金融の採算性**」: 離島支店維持はコスト要因だが、地域インフラとしての社会的役割を放棄しにくい。デジタル化で代替可能か、対面維持必須か議論あり ^[ambiguous]
-- 「**米軍基地経済依存**」: 基地関連支出は地域経済の安定要素だが、米軍再編・地位協定の長期不確実性をはらむ ^[inferred]
-- 「**観光偏重リスク**」: 観光業集中は感染症・地政学・自然災害（台風・地震）でのダウンサイドが大きい。コロナ期に実証済み ^[inferred]
-
-## Open questions
-
-- 持株会社化の長期戦略は？（沖銀 FG 化と対照的に、なぜ単独銀行を維持し続けるのか）
-- りゅうぎん総合研究所のグループ内位置付け強化路線は？
-- 県内 DX・FinTech 子会社展開の計画は？
-- 沖縄振興予算（本土復帰 50 年後）の見直しが地銀融資資産に与える影響は？
-- 海邦銀行との将来的な経営統合シナリオは存在するか？ ^[speculative]
-- アジア（台湾・香港・東南アジア）拠点拡大の意向は？
 
 ## Related
 

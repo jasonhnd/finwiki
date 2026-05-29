@@ -45,8 +45,8 @@
     "グループ内ポジション",
     "沿革 ^[extracted]",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争",
-    "法人 BaaS 軸の差別化"
+    "法人 BaaS 軸の差別化",
+    "親 GMO とのシナジー"
   ],
   "body_links": {
     "wikilinks_count": 11,
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5262,
-    "word_like_tokens": 795,
+    "nonspace_chars": 4393,
+    "word_like_tokens": 690,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

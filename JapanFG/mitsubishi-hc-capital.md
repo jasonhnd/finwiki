@@ -21,7 +21,6 @@ sources:
 
 # 三菱 HC キャピタル (Mitsubishi HC Capital)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -42,18 +41,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 三菱 HC キャピタルは、銀行バランスシートだけでは扱いにくい設備・航空・物流・エネルギー資産を、リース会社として長期運用する役割を持つ。[[JapanFG/mufg|MUFG]] 系金融の隣接アセットファイナンス機能であり、[[JapanFG/orix-corp|ORIX]]、[[JapanFG/tokyo-century|東京センチュリー]]、[[JapanFG/fuyo-lease|芙蓉総合リース]]、[[JapanFG/smfl|SMFL]] と比較する。
 
 ORIX との違いは、ORIX が保険・銀行・不動産・米州 PE まで広い独立コングロマリット色を持つのに対し、三菱 HC キャピタルは大企業・グローバルアセット・Mitsubishi/MUFG 系ネットワークとの親和性が強い点。
-
-## Counterpoints
-
-- 海外アセット比率が高いため、為替・金利・航空需要・物流市況の影響を受けやすい。
-- リース会社は金融機関でも事業会社でもあり、銀行比較だけではリスクが見えにくい。
-- FY2024 数値は公式 facts page の snapshot であり、最新四半期や事業別採算は IR 資料で追う必要がある。
-
-## Open questions
-
-- Aviation と Logistics の採算は金利高止まり局面でどれだけ維持できるか。
-- [[JapanFG/mufg|MUFG]] 系取引基盤からの案件供給は、独立系 [[JapanFG/orix-corp|ORIX]] と比べてどれほど優位か。
-- 環境・エネルギー資産はリース会社の新しい成長柱になるか、それとも政策テーマ依存か。
 
 ## Related
 

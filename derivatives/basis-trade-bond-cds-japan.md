@@ -39,8 +39,6 @@ This entry sits under [[derivatives/INDEX|derivatives index]] as the arbitrage /
 
 On the cash-bond side, cross-reference [[finance/INDEX|finance index]], [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]], and [[money-market/INDEX|money-market index]] for the JGB repo and funding context. On the institutional side, [[banking/INDEX|banking index]], [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]], and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] map the dealer / fund counterparties of the trade.
 
-## What the basis measures
-
 ### Definition
 
 ```
@@ -66,8 +64,6 @@ In a frictionless world the basis would be zero. Real-world frictions create per
 | Liquidity asymmetry | Less-liquid leg trades at premium / discount |
 | Regulatory capital cost | Bank-owned long-cash-short-CDS positions consume risk-weighted assets and leverage capacity |
 | Tax and accounting | Different recognition timing of cash bond income vs CDS premium |
-
-## The classic negative basis trade
 
 ### Structure
 
@@ -119,8 +115,6 @@ Repo availability is the practical bottleneck. Japanese corporate-bond repo is f
 | Japan high-yield corporate bonds | Effectively no repo; held outright on balance sheet |
 
 For most Japan corporate basis trades below Tier 1 issuer size, the bond leg is funded via prime broker financing rather than direct repo. This adds cost and reduces scalability versus US dollar or euro IG basis trades.
-
-## Balance-sheet and regulatory constraints
 
 ### Basel III leverage ratio
 
@@ -186,8 +180,6 @@ The episode mirrored the 2008-2009 pattern but lasted weeks rather than months. 
 
 The pattern: cash-bond repricing leads CDS repricing because cash bonds are more directly held by yield-curve-sensitive portfolios (life insurers, banks). CDS spreads adjust when traders push synthetic positions to match cash, with a lag determined by dealer balance-sheet capacity.
 
-## Practical implementation
-
 ### Investor profile
 
 | Investor | Basis-trade profile |
@@ -215,25 +207,6 @@ A 100 million USD-equivalent negative-basis position in a Japan IG name is large
 ### Roll dynamics
 
 If holding to bond maturity is not feasible, CDS protection must be rolled (5Y CDS → next 5Y series, etc.) at each roll. Roll-down P&L plus index-roll basis adds noise to the headline trade economics.
-
-## Counterpoints
-
-- Basis-trade carry can look attractive ex ante but funding cost, balance-sheet charges, and roll friction often eat most of the spread.
-- Negative basis can persist or widen further; convergence to zero is not guaranteed within any horizon.
-- Counterparty credit risk on the CDS leg is non-trivial; CSA terms and central clearing mitigate but do not eliminate.
-- Japan corporate-bond repo is structurally thin compared to USD / EUR IG; financing the bond leg is harder and more expensive.
-- During credit-event tails, the basis P&L depends on auction-determined recovery vs bond price at default; misalignment is possible.
-- Regulatory capital costs (Basel III leverage ratio, RWA, single-counterparty limits) have structurally reduced dealer capacity to warehouse basis positions.
-- BOJ unconventional policy (NIRP, QQE, YCC) distorted the JGB benchmark curve in ways that complicate basis-trade pricing for an extended period.
-
-## Open questions
-
-- Will the post-YCC JGB curve normalization restore more conventional basis-trade economics on Japan IG corporates?
-- How will further BOJ rate normalization affect Japan corporate-bond repo specials and basis funding costs?
-- Will Japan central-bank corporate-bond purchase facilities re-emerge in future stress episodes, and how would they affect basis dynamics?
-- How will Basel III endgame (final FRTB implementation in Japan) affect dealer basis-trade warehousing capacity?
-- Will tokenized / digital corporate bond issuance (see [[securities/japan-prime-brokerage-and-institutional-financing|institutional financing]]) change repo and basis-trade economics over time?
-- How does Japan life-insurer ALM activity in spread-product credit affect Japan IG basis through cycles? See [[insurance/japan-life-insurance-alm-overview|life ALM]].
 
 ## Related
 

@@ -48,8 +48,6 @@ where:
 
 For Japan, each input has structural characteristics that differ from US or European reference frameworks.
 
-## Risk-Free Rate Reference
-
 ### Long-end (10Y JGB)
 
 | Reading | 2026 class |
@@ -73,8 +71,6 @@ The OIS TONA curve replaced JPY LIBOR for short-rate construction. Senior LBO lo
 ### Intermediate / belly
 
 For 3Y-7Y discount-rate construction, the JGB yield curve interpolation or the equivalent OIS curve point is used. Many practitioners use 10Y as the single risk-free anchor for simplicity even when valuing shorter-duration cash flow streams.
-
-## Equity Risk Premium
 
 ### Historical ERP
 
@@ -183,24 +179,6 @@ This rate-floor lift compounds through the WACC formula and through forward-rate
 ## Valuation Consequence
 
 A 100bp rise in WACC typically reduces a long-duration DCF equity value by 15-25%, depending on terminal-value weight. For [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|cap-rate sensitivity]], a 25bp move in cap rate can shift NAV by 5-10%. The post-NIRP normalisation path is therefore the most-leveraged valuation question for Japan corporate and real-estate analysis in 2026.
-
-## Counterpoints
-
-- "Single WACC for the firm" hides material differences across business lines; multi-segment WACC is more defensible for diversified groups
-- Historical ERP vs implied ERP divergence is structural, not measurement error — choose one explicitly
-- Japan small-cap size-premium evidence is weaker than US literature suggests; do not import US studies uncritically
-- Cross-shareholding compression measured beta in ways that under-state effective equity risk for the marginal investor
-- Country risk premium = 0 for Japan is a convention, not a measurement
-- Post-NIRP normalisation path uncertainty matters more than any single risk-free reference value
-- TSE governance-code engagement on cost of capital reframes WACC from valuation input to corporate-strategy KPI — risk of confusion between the two roles
-
-## Open questions
-
-- Does TSE-Prime "below-1.0x P/B" engagement materially compress measured cost of equity for governance-reformed corporates?
-- How does BoJ post-2024 policy path feed through the OIS TONA curve and into long-duration discount rates?
-- Will Japan equity risk premium structurally re-anchor as post-deflation expectations normalise?
-- How much of the size-premium literature transfers to TSE-Standard and Growth market listed companies?
-- Does private-credit growth (see [[real-estate-finance/real-estate-private-credit-japan|real-estate private credit]]) widen the public-vs-private cost-of-debt gap?
 
 ## Related
 

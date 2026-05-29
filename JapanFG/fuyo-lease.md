@@ -17,7 +17,6 @@ sources:
 
 # 芙蓉総合リース
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -37,15 +36,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 業容ポジショニング
 
-日本のリース業界は概ね以下の階層構造：^[inferred]
-
 | 階層 | 代表企業 | 系列 |
 |---|---|---|
 | 三大リース（メガ） | [[orix-corp]] / 三菱 HC キャピタル / [[tokyo-century]] | 旧 三菱・三和 / 旧 富士 |
 | 準大手 | **芙蓉総合リース** / NEC キャピタルソリューション / リコーリース 等 | 旧 富士・NEC・リコー |
 | 中堅 | 日立キャピタル（→ 三菱 HC へ統合）/ 東銀リース 等 | - |
-
-芙蓉総合リースは **準大手筆頭格**。三大リースとの差は単体総資産規模だが、**収益性・ROE では三大に対して競争力を維持**。^[inferred]
 
 ### 主要株主 / 資本関係
 
@@ -59,8 +54,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 日産自動車 | 旧 富士銀行系製造業（自動車リース面でも提携）|
 | キヤノン | 旧 富士銀行系製造業 |
 | 日清製粉グループ | 旧 富士銀行系食品 |
-
-> 比率は時点変動あり、最新値は半期報告書 / 大量保有報告書を要参照。^[inferred]
 
 ### 主要子会社・関連会社
 
@@ -97,22 +90,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|
 | **1969-09-04** | 芙蓉ファクター として創業（旧 富士銀行系リース）^[extracted] |
 | 1971 | 富士銀行系列リースとしての位置付け確立 ^[extracted] |
-| 1980 年代 | リース業界拡大期 → 一般リース業務の主軸化 ^[inferred] |
-| 1990 年代 | バブル崩壊後の不動産リース・ファイナンス縮小局面 ^[inferred] |
 | **1999** | 富士銀行 + 第一勧業銀行 + 日本興業銀行 統合 → みずほ FG 発足、芙蓉総合リースも実質的に みずほ系へ ^[extracted] |
-| 2000 年代 | 環境・再エネ・医療など特化領域へシフト ^[inferred] |
-| 2010 年代 | 再エネ FIT 制度を活用したメガソーラー等への投資拡大 ^[inferred] |
-| 2010 年代後半 | 海外（特にアジア）拠点拡張 ^[inferred] |
 | 2024〜 | 中期経営計画 推進中 ^[extracted] |
-| 2025〜 | 日銀政策金利正常化局面における調達コスト管理が焦点 ^[inferred] |
-
-> 旧称「芙蓉ファクター」の「芙蓉」は **富士の雅称**（富士山の別名）に由来し、旧 富士銀行コミュニティ = 芙蓉グループ の共通ブランド要素。^[inferred]
-
-## 4. 戦略・競争
 
 ### 芙蓉グループ内取引
-
-芙蓉総合リース最大の差別化要因は **芙蓉グループ**（旧 富士銀行コミュニティ）との安定取引基盤：^[inferred]
 
 - **[[mizuho-fg]]**（旧 富士銀行）：主要取引銀行 + 案件紹介ルート
 - **丸紅**：商社案件（航空機・船舶・海外プロジェクト）
@@ -121,8 +102,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **東京海上 [[tokio-marine]]**：付保面の標準パートナー
 
 ### 競合構造
-
-同じく旧 富士銀行系で先行統合して三大リースに成長した [[tokyo-century]] とは「兄弟競合」関係：^[inferred]
 
 | 観点 | 芙蓉総合リース | [[tokyo-century]] |
 |---|---|---|
@@ -137,14 +116,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **三菱 HC キャピタル**（三大リース、旧 三菱 UFJ リース + 日立キャピタル合併、[[mufg]] + 三菱商事系）
 - **NEC キャピタルソリューション・リコーリース** 等の専業準大手
 
-### 成長戦略の柱
-
-- **環境・再エネ**：脱炭素文脈で メガソーラー・風力・バイオマス・水素 等 PJ ファイナンス拡大 ^[inferred]
-- **医療・介護**：高齢化対応 → 医療機器・介護施設リース ^[inferred]
-- **海外**：アジア（中国・タイ・インドネシア・ベトナム）拠点拡張 ^[inferred]
-- **航空機・船舶**：[[orix-corp]] / [[tokyo-century]] / 三菱 HC と比肩する グローバル オペレーティングリース 強化 ^[inferred]
-- **不動産アセットマネジメント**：従来のリース + 不動産 PJ ファイナンス融合 ^[inferred]
-
 ## 5. 規制・政策
 
 - **主管**：金融庁（FSA）・経済産業省
@@ -158,22 +129,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 2024〜 日銀政策金利正常化 → 調達金利上昇 vs リース料スプレッド
   - 2025〜 リース会計基準 IFRS 16 ベース変更による BS 計上影響
   - 脱炭素 / TCFD 開示要求の強化
-
-## Counterpoints
-
-- 「準大手の天井」観：単独での三大リース入りは難しく、規模・グローバル展開でメガに見劣り ^[inferred]
-- 「みずほ系内の重複」：同じ みずほ系の [[tokyo-century]] と業務領域が重複 → 統合観測は過去にも浮上、但し実現せず ^[inferred]
-- 「芙蓉グループの結束力低下」：旧 富士銀行コミュニティの統合シナジーは時代と共に希薄化、丸紅・日産・キヤノンの依存度は限定的 ^[inferred]
-- 「再エネ集中リスク」：FIT 制度依存案件は制度変更 / 出力制御 / 金利上昇に脆弱 ^[inferred]
-- 「航空機リースの市況連動」：COVID 局面のような航空需要急減で大型減損リスク ^[inferred]
-
-## Open questions
-
-- [[tokyo-century]] との統合シナリオは将来あり得るか? みずほ系内のリース統合圧力
-- 海外（特にアジア）拠点の収益貢献度と中長期の比率目標
-- 再エネ PJ ファイナンスの ROIC は政策金利上昇局面で維持可能か
-- 中計（2024〜）の数値目標達成度と次期中計の戦略方向
-- 芙蓉グループ各社（丸紅・日産・キヤノン等）との取引比率は時代とともにどう推移しているか
 
 ## Related
 

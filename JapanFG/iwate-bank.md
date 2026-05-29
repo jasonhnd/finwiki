@@ -19,7 +19,6 @@ sources:
 
 # 株式会社岩手銀行 (The Bank of Iwate)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -64,18 +63,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 金融庁・財務局監督下の銀行法上の銀行。
 - 上場銀行として会社法・金商法・東証開示の対象。
 - 地域金融行政では、事業承継、地域脱炭素、災害復興、地方創生が重要テーマ。
-
-## Counterpoints
-
-- 岩手県は面積が広く人口密度が低いため、店舗網維持コストが重い。
-- 復興金融は政策的意義が大きい一方、通常の収益性だけでは評価しにくい。
-- 単独銀行のままデジタル投資・人材投資を続けるには、収益基盤の厚みが問われる。
-
-## Open questions
-
-- 最新の県内預金・貸出シェアはどの水準か。
-- 復興関連融資のポートフォリオは通常融資へどの程度移行したか。
-- 東北銀行・フィデア系との関係は競争か、将来再編オプションか。
 
 ## Related
 

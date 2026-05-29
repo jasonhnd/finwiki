@@ -51,20 +51,16 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/bis-project-guardian-overview",
-      "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/central-banking-function-unbundling",
-      "fintech/circle-usdc-stablecoin",
       "fintech/fnality-wholesale-settlement",
       "fintech/india-anti-dollar-dpi-alliance",
       "fintech/jpm-onyx-wholesale-network",
@@ -73,16 +69,13 @@
       "fintech/singapore-mas-payment-services-act-overview",
       "fintech/singapore-mas-payment-services-act-strategic-implications",
       "systems/canton-overview",
-      "systems/chainlink-ccip-institutional-messaging",
       "systems/cosmos-ibc-for-financial-institutions"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
-      "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
-      "https://finwiki.zksc.io/fintech/circle-usdc-stablecoin",
       "https://finwiki.zksc.io/fintech/fnality-wholesale-settlement",
       "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
       "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
@@ -91,16 +84,15 @@
       "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
       "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-strategic-implications",
       "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
       "https://finwiki.zksc.io/systems/cosmos-ibc-for-financial-institutions"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5829,
-    "word_like_tokens": 885,
+    "nonspace_chars": 4944,
+    "word_like_tokens": 757,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

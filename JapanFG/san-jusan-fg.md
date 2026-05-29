@@ -16,7 +16,6 @@ sources:
 
 # 三十三 FG (San ju San Financial Group)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -43,8 +42,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   │     └── 名古屋圏・中京経済圏向け融資
   └── グループ会社 (リース・カード・コンサル等)
 ```
-
-## 2. 合併歷史・前身
 
 ### 旧 第三銀行系
 
@@ -75,8 +72,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 工業 | 四日市コンビナート (石油化学) 関連 |
 | 水産 | 伊勢湾・熊野灘の漁業・水産加工 |
 
-## 4. 戦略・競争
-
 ### 地理ポジション
 
 - **三重県地盤**: 中京経済圏の**関西寄り境界**に位置する独特ポジション
@@ -88,18 +83,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **観光**: 伊勢神宮 (年間参拝客 ~1000 万人) + 鳥羽・志摩リゾート
 - **水産**: 伊勢エビ・真珠養殖等の地場産業
 - **工業**: 四日市コンビナート (石油化学・電子部品)
-- **農業**: 松阪牛・伊勢茶等のブランド農業 ^[inferred]
-
-### 県内競合
-
-- **百五銀行** ([[hyakugo-bank]]) との県内 No.1 争い: 百五が県内シェアで先行、三十三 FG は両行統合で規模追随を図る ^[inferred]
-- **名古屋圏進出**: 中京経済圏で 大垣共立銀行・十六 FG ([[juroku-fg]]) 等とも競合 ^[inferred]
 
 ### 統合効果
 
 - **店舗網重複整理**: 三重銀 + 第三銀の重複店舗統廃合
 - **システム統合**: 勘定系・営業店システム共通化
-- **コスト構造改善**: 統合シナジー追求 ^[inferred]
 
 ## 5. 規制・政策
 
@@ -112,10 +100,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 6. Counterpoints
 
-- 「**百五銀行優位**観」: 県内シェアは百五が先行、三十三 FG の統合シナジーが追いつけるかは未確定 ^[inferred]
 - 「**中京 or 関西 どちら寄り**」: 名古屋圏融資拡大 vs 関西圏連携、戦略の二者択一が曖昧 ^[ambiguous]
 - 「**統合シナジー実効**」: 2018 経営統合 + 2021 合併から数年経過、コスト削減 vs 顧客流出のバランス ^[ambiguous]
-- 「**社名の認知度**」: 「三十三」(さんじゅうさん) の対外的認知が三重 + 第三両行ブランドより弱い可能性 ^[inferred]
 
 ## 7. Open questions
 
@@ -124,8 +110,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 中京圏 ([[juroku-fg]] / 大垣共立 等) との競合・連携の方向性?
 - 次期中計 (2024 以降) でのデジタル戦略は?
 - 関西圏地銀との広域連携の可能性は?
-
-## 8. Related & Sources
 
 ### Related
 

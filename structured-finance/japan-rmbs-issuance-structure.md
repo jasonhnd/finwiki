@@ -119,18 +119,6 @@ Some deals use a TMK (特定目的会社) under the asset-securitization law ins
 
 Japan retains some risk-retention requirements analogous to US / EU regimes — typically 5% of net economic exposure held by the originator.
 
-## Counterpoints
-
-- **"Private RMBS is large in Japan"**: relative to JHF MBS, private RMBS is much smaller; the JHF engine dominates yen MBS supply.
-- **"Senior RMBS is risk-free"**: senior tranches benefit from significant credit enhancement but are exposed to severe-tail housing-market downturns and prepayment behavior shifts.
-- **"All RMBS uses trust beneficial interest"**: not all — some use TMK or other SPV form; see [[structured-finance/spv-tk-gk-vehicle-japan-tax]].
-
-## Open questions
-
-- Whether Basel III finalization changes megabank incentives to issue more private RMBS for capital relief.
-- How long-term BoJ policy normalization affects mortgage refinancing behavior and prepayment modeling.
-- Whether the regional banks scale into RMBS originator role beyond the megabanks.
-
 ## Related
 
 - [[structured-finance/INDEX]]

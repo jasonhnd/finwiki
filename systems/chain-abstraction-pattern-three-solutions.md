@@ -18,7 +18,6 @@ status: candidate
 
 # チェーン抽象の 3 大主流方式
 
-
 ## Wiki route
 
 This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/eigenlayer-overview|EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
@@ -53,19 +52,6 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 2022-2023 クロスチェーンブリッジ時代(Wormhole / LayerZero / Axelar)は「資産がクロスチェーン可能か」を解決したが UX は解決せず。2024.02 AggLayer ローンチ → Polygon が「流動性抽象」のポジションを先取り。2024.04 NEAR が Chain Signatures(MPC クロスチェーン鍵)+ Intents を公開 → NEAR が「アカウント抽象」へ転換。2024.04 EigenLayer メインネット → 「セキュリティ抽象」が restaking で実現。2025 3 方式が各々スケーラビリティを検証:AggLayer は 5+ 非 Polygon チェーンに接続、NEAR は 12+ チェーンを制御、EigenLayer TVL > $15B。2026+ 3 方式が融合するか、一方が勝つかは未確定。
 
-## Counterpoints
-
-- 3 方式が抽象する次元が異なるため、厳密には直接競争ではなく、異なる問題への解決策である
-- AggLayer は ZK 証明性能の継続的向上に依存しており、ZK の進捗が鈍化すれば AggLayer の UX 優位は弱まる
-- NEAR MPC 経路には鍵カストディリスク(MPC ノード結託の理論的可能性)があり、長期セキュリティは十分検証されていない
-- EigenLayer restaking は新たな slashing リスクの重畳を導入、機関が EigenLayer でセキュリティを借用する勇気を本当に持つかは疑問([[fintech/jpmorgan-jpmd-coin|JPMD]] が restaking ではなく Canton を選択した対照を参照)
-
-## Open questions
-
-- 3 方式は融合(AggLayer が NEAR Intents を統合するなど)するのか、それとも分裂(3 経路が独立に成熟)するのか?
-- どの抽象層が機関チェーン(Tempo / Arc)の第一選択となるか?
-- 規制は MPC クロスチェーン鍵制御(NEAR モデル)にどう対応するか?([[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] の各方式の信頼前提スペクトラムと対照)
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -80,4 +66,3 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - NEAR Chain Abstraction 公式ドキュメント（アカウント + 意図抽象）— https://docs.near.org/chain-abstraction/what-is
 - NEAR MPC ノード実装（Chain Signatures の閾値署名）— https://github.com/near/mpc
 - EigenLayer 公式ドキュメント（セキュリティ / validator 集合抽象）— https://docs.eigenlayer.xyz/
-

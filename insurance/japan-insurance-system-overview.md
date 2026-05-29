@@ -39,8 +39,6 @@ This entry is the cross-segment ecosystem anchor that ties the [[insurance/INDEX
 
 This entry sits under [[insurance/INDEX|insurance index]] as the system overview anchor. Pair it with [[insurance/japan-life-insurance-big-four]] for the life big-four detail, [[insurance/japan-nonlife-big-three]] for the non-life big-three detail, [[insurance/cooperative-insurance-system-japan]] for the co-op insurance side, [[insurance/global-solvency-framework-comparison-matrix]] for the global solvency comparison, and [[insurance/earthquake-insurance-public-private-scheme]] for the earthquake-insurance scheme.
 
-## The Five Insurance Segments
-
 ### 1. Life insurance (生命保険)
 
 | Sub-segment | Examples | Anchor |
@@ -151,23 +149,6 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[JapanFG/japan
 | Japan Earthquake Reinsurance (JER) | Earthquake reinsurance pool size, government backstop trigger. |
 | Insurer IR | Per-group financial disclosure, embedded value, MCEV, group-level solvency. |
 | IAIS public data | IAIG list, ICS 2.0 monitoring data (where disclosed). |
-
-## Counterpoints
-
-- "Big-four life is monolithic" — They differ sharply by mutual vs stock form, channel mix, overseas exposure, and ALM strategy. See [[insurance/japan-life-big-four-overlay-comparison-matrix]].
-- "Big-three non-life is monolithic" — They differ sharply by global exposure (Tokio Marine most global), nat-cat retention, and capital-policy stance. See [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]].
-- "Kyosai is small" — JA-Kyosai is one of the largest insurance operators in Japan by membership and asset base, but operates under a separate statute.
-- "Earthquake insurance is just another product" — It is a unique public-private scheme with statutory monopoly reinsurance (JER) and government backstop, not a normal commercial-insurance product.
-- "ESR equals economic equity" — ESR is a regulatory capital ratio; it is not the same as market-consistent embedded value (MCEV) or shareholder equity. Insurer disclosure uses multiple capital metrics.
-
-## Open Questions
-
-- How will the FSA ESR regime converge with IAIS ICS 2.0 over the next 3–5 years?
-- How will demographic decline reshape life-insurance premium income and product mix?
-- How will further nat-cat severity (earthquake, typhoon, flood) reshape non-life reinsurance pricing and capital-policy stance?
-- How will online direct life and specialty embedded insurance disrupt the traditional agency-based channel?
-- How will kyosai vs FSA-insurer perimeter evolve under demographic and operating-cost pressure?
-- How will tokenized insurance (parametric, smart-contract-triggered) develop under FSA supervision?
 
 ## Related
 

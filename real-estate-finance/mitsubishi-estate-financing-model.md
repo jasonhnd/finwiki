@@ -65,8 +65,6 @@ The **strategic logic**: in the Tokyo office market, the Marunouchi cluster has 
 
 The **strategic risk**: if any structural shock hits Tokyo CBD demand (long-duration remote work, large-tenant relocation, seismic event, public-policy shift), Mitsubishi Estate has less geographic diversification to absorb it than peers.
 
-## Funding stack
-
 ### 1. Corporate bonds (Mitsubishi Estate straight bonds)
 
 Mitsubishi Estate is a **benchmark issuer** in the Japanese non-financial corporate-bond market. Its issuance program includes:
@@ -223,24 +221,6 @@ Mitsubishi Estate's strategic equity holdings include cross-shareholding positio
 - Is subject to **governance-reform pressure** to reduce policy-holding equity in favor of strategic-equity-only positions.
 
 The trend across Japanese corporates is to **reduce cross-shareholding** under FSA / TSE governance-code pressure; Mitsubishi Estate has been adjusting its policy-holding portfolio but retains strategic positions where the tenant / district-coordination value is material.
-
-## Counterpoints
-
-- **"Marunouchi concentration is over-exposure"** — Defensible as district-control strategy when Marunouchi remains the top Tokyo CBD demand cluster. Vulnerability emerges only if structural CBD-demand shocks materialize. ^[ambiguous]
-- **"Asset-recycling velocity is too low"** — Trade-off vs district-control. Slower recycling means lower fee-business scale but higher balance-sheet ownership of strategic assets. ^[inferred]
-- **"Overseas portfolio diversifies risk"** — Partly. Overseas projects carry their own country, currency, and cycle risk. The Rockefeller Group US platform is long-held but has experienced cycles itself.
-- **"Premium-office tenants are sticky forever"** — Office cycles do happen; the post-COVID hybrid-work environment has tested long-term office demand assumptions globally. Marunouchi has been more resilient than secondary markets but is not immune.
-- **"Equity finance dilutes shareholders"** — Mitsubishi Estate's use of equity finance has been opportunistic and tied to large capex steps. The trade-off vs higher leverage is rating-stability and long-duration capex capacity. ^[inferred]
-
-## Open questions
-
-- How does the **rate-normalization cycle** (post-BoJ exit) affect Mitsubishi Estate's bond-issuance curve and the JRE cap-rate window simultaneously?
-- What is the **fee-business contribution** from JRE AM mandates to Mitsubishi Estate consolidated profit?
-- How does **Tokyo Torch / Torch Tower** completion change the Marunouchi cluster's premium-office capacity and rent dynamics?
-- What is the medium-term plan for the **overseas portfolio** mix (Rockefeller Group US + UK + Europe + Asia)?
-- How does Mitsubishi Estate compare on **PBR / NAV multiple** vs Mitsui Fudosan, and does the district-control strategy command a premium or a discount?
-- Will Mitsubishi Estate launch **additional sponsor J-REITs** (logistics, retail, hotel) or maintain JRE as the sole sponsor vehicle?
-- How does the **Mitsubishi group cross-shareholding unwind pressure** (governance reform context) affect Mitsubishi Estate's strategic equity holdings?
 
 ## Related
 

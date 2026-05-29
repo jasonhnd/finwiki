@@ -159,18 +159,6 @@ Achieving the targeted senior-class rating (typically AAA) drives most of the de
 
 For deals targeting global investors, dual rating from JCR / R&I and a global agency is common.
 
-## Counterpoints
-
-- **"JCR / R&I are easier than global agencies"**: methodology calibration differs; ratings reflect Japan-specific data, not a "soft" approach. The lower default rates in Japan are real.
-- **"Domestic agencies are second-tier"**: JCR and R&I are FSA-designated and regulatorily equivalent to NRSRO. Their ratings are usable for Japanese regulatory purposes on equal footing with global-agency ratings.
-- **"All rating agencies use the same model"**: methodology differs by agency and asset class; rating outcomes can differ meaningfully on the same deal.
-
-## Open questions
-
-- How agencies update structured-finance criteria for climate-risk and demographic-decline scenarios.
-- Whether the 2008-2010 conservative criteria persist or are gradually relaxed as new vintage data accumulates.
-- The role of agencies in rating digital-asset securitization or tokenized-asset structures as those emerge.
-
 ## Related
 
 - [[structured-finance/INDEX]]

@@ -19,7 +19,6 @@ status: candidate
 
 # mBridge 6 中央銀行リストと役割(2026-Q2)
 
-
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
@@ -45,19 +44,6 @@ mBridge バリデーター = 中央銀行(100% 主権) · 商業銀行 = sub-par
 
 2021 年 mBridge 始動:PBoC + HKMA + BoT + CBUAE の 4 中央銀行(BIS Innovation Hub Hong Kong が調整)。2022-2023 年 PoC でクロス通貨実験を完了。2024-06 SAMA 加入 · 5 中央銀行に拡大 · 同時に mBridge は MVP 段階入り。2024-Q4 Aramco 石油決済 / 中-ブラジル大豆 / 中-アラブ金引渡し接続テスト。2025-10 BIS 運営撤退 · 5 中央銀行が自主ガバナンス。2026-Q2 BCB DREX 相互運用性テスト完了(準メンバー状態) · ガバナンス決議待ちで正式加入予定。次に加入する可能性のある中央銀行:ロシア中央銀行(SWIFT 制裁回避動機) / インド RBI(e-Rupee 既存 · ただし地政学的に対中慎重) / 南アフリカ SARB(BRICS メンバー) / イラン中央銀行(政治的にセンシティブ)。
 
-## Counterpoints
-
-- 5 中央銀行のうち GDP top 20 は中国とサウジのみ · 残り 3 行の GDP 合計ははるかに小さく、実際の経済比重は不均衡
-- HKMA の二重身分(英米法系下の中国特別行政区)は将来米側政治圧力を受ける可能性
-- BCB 相互運用テストは正式メンバーと同義ではない · DREX 自体が延期中 · 準メンバー状態は数年続く可能性
-- インド / ブラジルは BRICS 政治表明は多いが、実際の CBDC クロスボーダー統合進展は遅い
-
-## Open questions
-
-- 2030 年までに mBridge 中央銀行メンバー数は 10+ に達するか?
-- ロシア加入で mBridge は西側により完全に sanctions を受け、逆に国際化を制限されるか?
-- インド e-Rupee は mBridge に接続するか、独立 SAARC クロスボーダー・ネットワークを構築するか?
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -68,4 +54,3 @@ mBridge バリデーター = 中央銀行(100% 主権) · 商業銀行 = sub-par
 <!-- /wiki-links:managed -->
 
 ## Sources
-

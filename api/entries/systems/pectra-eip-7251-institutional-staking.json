@@ -43,18 +43,15 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "exchanges/liquid-staking-restaking-cex-exposure",
       "fintech/INDEX",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/portfolio-winner-structure-arm-analog",
       "systems/INDEX",
       "systems/pectra-eip-7691-blob-l2-impact",
@@ -64,7 +61,6 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure",
       "https://finwiki.zksc.io/fintech/INDEX",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact",
@@ -74,8 +70,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3100,
-    "word_like_tokens": 466,
+    "nonspace_chars": 2371,
+    "word_like_tokens": 372,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

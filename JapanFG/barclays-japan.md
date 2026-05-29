@@ -19,7 +19,6 @@ sources:
 
 # バークレイズ日本 (Barclays Japan)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -108,8 +107,6 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 | 資産運用 | （撤退）| BGI を BlackRock に売却（2009）、信託は住信に吸収（2008）|
 | リテール | **未展開** | 親会社英国本体は UK Barclaycard を持つが日本展開なし |
 
-## 4. 戦略・競争
-
 ### 親会社の戦略文脈
 - 2016 Jes Staley CEO の **「Transatlantic + Consumer + Corporate + IB」**戦略 → 新興国 IB 撤退、アジアは 4 コア市場に絞り込み
 - 2021- アジア再活性化方針への転換、日本・香港でリビルド
@@ -131,24 +128,9 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 - **主管**: 金融庁（FSA）+ 関東財務局
 - **証券業ライセンス**: 関東財務局長(金商)第143号（バークレイズ証券）
 - **銀行業ライセンス**: 外国銀行支店認可（東京支店）
-- **親会社規制**: 英国 PRA / FCA、米国 FRB、ECB 経由、**G-SIB Bucket 2**（FSB 認定、+1.5% CET1 追加資本）^[inferred]
 - **直近政策論点**:
   - 2024〜 日銀利上げ → 円金利マーケッツ機会拡大
   - 2025〜 アジア IB 再強化方針 → 日本での採用継続
-
-## Counterpoints
-
-- **「リーマン買収効果」観の誤解**: バークレイズの Lehman 北米買収はグローバル IB 拡大だが、**日本拠点は Nomura が Lehman APAC を取ったため直接効果なし**。日本での IB プレゼンスは自力で漸進的に構築。^[extracted]
-- **「中堅外資」観**: 日本国内 M&A / ECM ランキング外 → グローバル看板に対し日本ローカルでは存在感薄い。^[extracted]
-- **「アジア撤退と復帰のフリップフロップ」**: 2016 大規模アジア撤退 → 2021 再活性化方針 → 戦略の一貫性疑問。^[ambiguous]
-- **「ライセンス縮小歴」**: BGI 売却 / 信託合併 / 株式キャッシュ撤退 → 業務の純化（IB / マーケッツ集中）と見るか、縮小と見るかで評価が割れる。^[ambiguous]
-
-## Open questions
-
-- 2021 年以降のアジア再投資で、日本拠点の M&A / DCM リーグテーブル順位は改善したか？
-- クロスボーダー M&A（日本企業の海外買収）アドバイザリーで具体的に何位帯まで定着しているか？
-- 親会社 Barclays PLC の英国リテール / 米国カード重視戦略の中、日本拠点への投資はどの水準まで継続されるか？
-- 2025 マクロ・トレーディング本部長採用（竹村陽一）など人材投資はマーケッツ強化なのか、新規取り組みなのか？
 
 ## Related
 

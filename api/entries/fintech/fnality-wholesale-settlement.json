@@ -50,13 +50,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -67,14 +65,11 @@
       "fintech/genius-act-501-denylist-mandate",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/jpm-onyx-wholesale-network",
-      "fintech/mbridge-bis-multi-cbdc-overview",
       "fintech/multi-megabank-consortium-governance",
       "fintech/partior-jpm-dbs-temasek-consortium",
       "fintech/tokenized-deposit-cumulative-volume-scale",
       "systems/canton-overview",
-      "systems/chainlink-ccip-institutional-messaging",
       "systems/cls-bank-overview",
-      "systems/cross-chain-four-poles-overview",
       "systems/swift-iso-20022-overview"
     ],
     "resolved_wikilinks": [
@@ -87,23 +82,20 @@
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
       "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
-      "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
       "https://finwiki.zksc.io/fintech/partior-jpm-dbs-temasek-consortium",
       "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
       "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging",
       "https://finwiki.zksc.io/systems/cls-bank-overview",
-      "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview",
       "https://finwiki.zksc.io/systems/swift-iso-20022-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6090,
-    "word_like_tokens": 935,
+    "nonspace_chars": 5204,
+    "word_like_tokens": 804,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

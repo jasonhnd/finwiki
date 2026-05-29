@@ -46,8 +46,6 @@ A USD-pegged stablecoin issued under US GENIUS, EU MiCA, or Japan EPI gets **fiv
 
 For the on-ramp / exchange side of the same regulatory surfaces, see [[exchanges/INDEX]], [[exchanges/sg-mas-dpt-licensing-overview]], and the cross-region view at [[exchanges/global-vasp-regulatory-comparison-matrix]].
 
-## Tier 1 · Licensed issuance regimes (Singapore, Hong Kong)
-
 ### Singapore MAS · PSA + SCS + DTSP
 
 - **Statute**: Payment Services Act 2019 (PS Act) + SCS Framework 2023-08 + DTSP Regime 2024-04 amendment.
@@ -88,8 +86,6 @@ The HK regime is the **only ASEAN-adjacent path that can plausibly carry a Mainl
 
 The matrix view across all five poles (US / EU / JP / HK / SG) lives at [[fintech/global-stablecoin-regulatory-five-pole-matrix]]. The contrast for MAS vs HKMA on the dual-currency arbitrage axis is in [[fintech/dual-currency-stablecoin-arbitrage-overview]].
 
-## Tier 2 · Pilot / sandbox regimes (Thailand, Malaysia, Philippines)
-
 ### Thailand · SEC + BoT stablecoin sandbox
 
 - **Lead regulators**: Bank of Thailand (BoT) for payment / monetary policy boundary, SEC Thailand for digital asset business.
@@ -113,8 +109,6 @@ The matrix view across all five poles (US / EU / JP / HK / SG) lives at [[fintec
 - **CBDC**: **Project Agila** (formerly Project CBDCPh) — BSP's wholesale CBDC pilot, focused on interbank settlement on Hyperledger Fabric. No retail CBDC commitment.
 - **e-money** vs SC boundary: GCash, Maya, and other large e-money issuers operate under BSP Circular 649 (e-money issuer), which is the **historical analog** of a stablecoin license — BSP's framing is that "PHP-pegged stablecoin" is a tokenized form of e-money and must therefore meet the e-money issuer prudential floor.
 - **USD stablecoin flow**: USDT and USDC reach Philippine retail via licensed Virtual Asset Service Providers (VASPs) and through remittance corridors (PHP-USD overseas-Filipino-worker flow), where stablecoin substitutes for traditional MTO bridging.
-
-## Tier 3 · Prohibited or grey (Vietnam, Indonesia)
 
 ### Vietnam · SBV crypto ban + de-facto USDT economy
 
@@ -184,27 +178,6 @@ ASEAN's FATF grey-list dynamics directly affect stablecoin corridor risk. The Ph
 - For a **B2B settlement use case**, the most cost-effective corridor inside ASEAN is **between MAS / HKMA licensed entities** using USDC. Outside that envelope, regulatory and AML friction increases meaningfully.
 - For a **remittance use case** into Indonesia, the Philippines, or Vietnam, the practical rail is **USDT-Tron via licensed exchanges plus informal off-ramp**, and the licensed-product alternative compresses cost only if Project Nexus interlink reaches the relevant corridor.
 - For a **cross-border SC product team**, the structural lessons in [[fintech/protocol-hedge-strategy-stripe-pattern]] and [[fintech/embedded-wallet-fintech-disintermediation-overview]] are directly applicable — partnership with licensed local entities at each leg is necessary, and the regulatory perimeter at each leg shapes both UX and cost.
-
-## Counterpoints
-
-- The **"every central bank wants a domestic SC"** read may overstate. BSP has publicly framed e-money as the structural answer and may not promulgate a new SC license; SBV may persist with the ban indefinitely; OJK timelines have slipped repeatedly.
-- The **Mainland-China-affiliated issuer route via HK** depends on a PBoC offshore-CNH window opening that has not materialized as of 2026-05. If PBoC chooses to keep offshore-CNH expansion strictly off-chain, HK becomes a USD-pegged-only issuance venue and the JD / Ant / BOCHK applications lose strategic value.
-- The **MAS-vs-HKMA "two-Asia poles"** framing is geographically narrow. Japan's EPI regime (see [[fintech/japan-stablecoin-regulatory-landscape|trust / bank / funds-transfer three-type architecture]] in [[fintech/japan-financial-regulation]]) is a distinct third Asia pole and arguably the most mature.
-- Vietnam's "ban" coexists with one of the highest retail adoption rates globally — the SBV directive is **not** evidence of effective control, only of a stated policy posture.
-- Tier 2 sandboxes (Thailand, Malaysia, Philippines) have a high probability of timeline slippage; the gap between "Discussion Paper" and "live license" has been 2-3 years in MAS and HKMA experience.
-- **Project Nexus instant-payment interlink** could compress the regional stablecoin remittance market faster than expected — if Nexus reaches MY-PH or SG-VN connectivity at retail scale, USDT-Tron's structural moat erodes.
-- **Tether's HK application outcome** (pending as of 2026-05) is a binary geopolitical event that materially reshuffles the regional map — full discussion in [[fintech/hkma-stablecoin-licensing-implications]] and [[fintech/gray-market-dollar-network-formalization]].
-
-## Open questions
-
-- Does HKMA's second-batch decision (expected late-2026 to mid-2027) bring in any Mainland-China-affiliated issuer, or does the deferral become structural?
-- Does BNM finalize its stablecoin licensing framework in 2027, and does it import the MAS SCS template wholesale or build a distinct Islamic-finance-compatible variant?
-- Does Thailand BoT advance from "Programmable Payment Sandbox" to a THB-pegged stablecoin issuance license, and would domestic banks (SCB, KBank) or e-money players (TrueMoney, Rabbit LINE Pay) be the first issuers?
-- Does OJK publish a rupiah-stablecoin licensing track in 2026-2027, and does it preempt or grandfather existing exchange-issued IDR tokens?
-- Does Project Nexus (instant-payment interlink) cannibalize the regional stablecoin remittance use case, or do the two rails coexist as cost vs UX competitors?
-- Does any ASEAN central bank pursue §501(d) MRA in 2027-2028 beyond Singapore?
-- Does the mBridge dynamic (with PBoC and CBUAE / SAMA-adjacent posture) ever reach formal ASEAN participation beyond the Bank of Thailand's earlier engagement, given BoT's 2024 withdrawal?
-- Does Tether's HK application — pending as of 2026-05 — close successfully or get formally rejected, and what does either outcome do to the broader Asian gray-market stablecoin geography?
 
 ## Related
 

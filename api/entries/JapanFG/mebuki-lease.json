@@ -46,11 +46,11 @@
     "TL;DR",
     "1. License / group boundary",
     "2. 持株ツリー",
-    "3. 合併経緯・前身",
     "旧 常陽リース系譜",
     "旧 足利リース系譜",
     "めぶき FG 設立とグループ統合",
-    "4. KPI table (concept) ^[ambiguous]"
+    "4. KPI table (concept) ^[ambiguous]",
+    "5. 事業セグメント map"
   ],
   "body_links": {
     "wikilinks_count": 20,
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4921,
-    "word_like_tokens": 660,
+    "nonspace_chars": 4167,
+    "word_like_tokens": 572,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

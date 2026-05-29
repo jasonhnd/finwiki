@@ -1,0 +1,36 @@
+---
+title: "[opinion] SOMPO ホールディングス (Sompo Holdings)"
+source_entry: JapanFG/sompo.md
+type: opinion-quarantine
+moved: 2026-05-29
+note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoints / Open questions）。事実ではないため公開面・監査・計数から除外。将来の分析板块用に保留。
+---
+
+# 主観内容の隔離 — SOMPO ホールディングス (Sompo Holdings)
+
+> 出典エントリー: `JapanFG/sompo.md`
+
+## 推論 (from 介護事業)
+
+- 損保本業と介護の「データ連携」（健康・要介護リスク予測）が戦略上の特色 ^[inferred]
+
+## 推論 (from 海外戦略)
+
+- 競合 東京海上 HD（米 Philadelphia / HCC / Pure 等買収）との海外 M&A 競争が継続 ^[inferred]
+
+## Counterpoints
+
+- 「テーマパーク戦略 = 多角化希釈 説」：損保 + 介護 + 海外保険の領域跨ぎが**シナジー実体に乏しい**との批判。介護は労働集約 / 損保は資本集約 → 経営管理コスト増 ^[ambiguous]
+- 「Endurance 買収（約 6300 億円）の ROI 評価」：買収後の地政学リスク（米ハリケーン頻発・再保険市場硬化）と為替効果のせいで明確な評価が分かれる ^[ambiguous]
+- 「ビッグモーター事件の構造原因」：特定整備工場依存型の自動車保険ビジネスモデル自体への構造的問題、SOMPO 個社問題か業界共通問題かで論点割れ ^[ambiguous]
+- 「カルテル疑惑の業界波及」：3 大損保（東京海上 / MS&AD / SOMPO）共通問題 → SOMPO 単独の経営問題に矮小化できない ^[inferred]
+- 「介護事業の収益性」：SOMPO ケアの居室数規模 vs 介護報酬制度依存の利益率上限 → 規模拡大しても利益貢献に限界 ^[ambiguous]
+
+## Open questions
+
+- ビッグモーター事件後の損保ジャパン**自動車保険シェア**回復軌道は？ 他 2 損保（[[JapanFG/INDEX|JapanFG]] 東京海上 / MS&AD）へのシェア流出規模
+- **次期社長 / 会長**の交代計画（桜田謙悟 体制以降）の戦略方向性は？
+- **Sompo International** の北米再保険シェア・ROE 推移は？ 公開数値ベースでの Endurance 買収 ROI 評価
+- **介護事業の上場分離 / 売却**シナリオ（SOMPO ケアを別途上場 or 売却）は経営選択肢として浮上するか
+- **3 大損保カルテル疑惑**の最終処分（公取委・金融庁）は？ 業界共通の構造改革（企業保険共同引受廃止等）に発展するか
+- **政策保有株式削減**の加速度と運用益への影響

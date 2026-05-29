@@ -45,7 +45,7 @@
     "主要子会社・関連法人",
     "重要年表",
     "2. 事業セグメント・マップ",
-    "3. 戦略・競争"
+    "国際ブランド差別化"
   ],
   "body_links": {
     "wikilinks_count": 8,
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5159,
-    "word_like_tokens": 737,
+    "nonspace_chars": 4397,
+    "word_like_tokens": 645,
     "inbound_wikilinks_count": 39,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

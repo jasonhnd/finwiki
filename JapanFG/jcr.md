@@ -48,7 +48,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2013〜 | ストラクチャードファイナンス（RMBS / ABS）格付の透明性強化 |
 | 2017〜 | **グリーンボンド / ソーシャルボンド / サステナビリティリンクボンド** 等 ESG 関連評価業務開始 |
 | 2020〜 | コロナ後の社債発行急増局面で格付件数増加 |
-| 2024〜 | サステナビリティリンク・トランジションファイナンス評価が主力業務化 ^[inferred] |
 
 ## 2. 格付業務 map
 
@@ -68,8 +67,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **長期格付**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB 以下（投機的）→ D（デフォルト）
 - **短期格付**: J-1+ / J-1 / J-2 / J-3 / NJ / D
 - 国際スケール（外貨建て発行体向け）も別途提供
-
-## 3. 競争・市場ポジション
 
 ### 国内 4 大格付機関
 

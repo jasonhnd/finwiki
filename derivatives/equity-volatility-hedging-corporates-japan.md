@@ -57,8 +57,6 @@ Japan corporates carry **structurally distinctive** equity-vol exposures that US
 
 The economic significance: even though the **public visibility** of Japan corporate equity-derivatives flow is limited (bilateral OTC, dealer-mediated, generally non-disclosed), the underlying balance-sheet equity exposures of Japan listed corporates are very large, and the implied hedging opportunity is structurally meaningful for the dealer franchise.
 
-## Use case 1 — cross-shareholding portfolio variance hedge
-
 ### The exposure
 
 A listed Japan corporate — for example, a [[finance/japan-listed-financial-groups-investable-universe|large bank or insurer]] or a major industrial — holds a portfolio of strategic equity stakes in business partners, supplier networks, and historic capital alliance counterparties. Under current accounting and disclosure rules:
@@ -101,8 +99,6 @@ Cross-shareholding hedges interact with:
 
 These boundaries make corporate cross-shareholding hedging a **legal-heavy, dealer-led** workstream, with the dealer's compliance and legal teams a meaningful part of the franchise.
 
-## Use case 2 — employee stock option (ESO) volatility
-
 ### The exposure
 
 Listed Japanese corporates that grant ESOs face **two distinct equity-vol exposures**:
@@ -132,8 +128,6 @@ Public-source rationale for ESO hedging:
 
 ESO hedging programs interact with **treasury-share rules under the [[finance/japan-listed-financial-groups-investable-universe|Companies Act]]** (上限 / 自己株式取得規制), the FSA disclosure regime, and the [[JapanFG/japan-exchange-group|JPX]] corporate-governance code. Most corporates execute ESO-related hedges via formal board-approved repurchase programs rather than ad-hoc derivative trades.
 
-## Use case 3 — M&A pre-announcement protection
-
 ### The exposure
 
 A Japanese corporate contemplating a [[finance/japan-tender-offer-process|tender offer]], [[finance/japan-mbo-and-squeeze-out-process|MBO]], or [[finance/cross-border-m-a-japan|cross-border acquisition]] faces:
@@ -160,8 +154,6 @@ This use case is **the most constrained** of the four. Under [[finance/japan-fai
 - Tender-offer regulation captures **economic acquisition via derivatives** above the takeover-threshold trigger.
 
 In practice, most large Japan M&A transactions execute via formal investment-banking advisory mandates with the dealer franchise (the megabank securities arms and global IBs) handling all derivative positioning under formal MNPI walls and compliance approval. The opportunity for ad-hoc corporate pre-announcement equity hedging is narrow.
-
-## Use case 4 — share buyback / repurchase program hedging
 
 ### The exposure
 
@@ -207,25 +199,6 @@ Public-source observation on the corporate-side dealer franchise:
 | **[[JapanFG/citigroup-japan|Citi Japan]]** | Tier-1 global IB; FX-prime adjacency particularly valuable for cross-border M&A. |
 
 The structural pattern: **domestic-corporate cross-shareholding and buyback flow** concentrates at the megabank securities arms; **cross-border M&A and complex structured equity** concentrates at the global IBs; the OTC equity-option book on the dealer side is hedged primarily via the listed [[securities/osaka-exchange|OSE]] Nikkei 225 options, single-name listed options, the underlying [[securities/tokyo-stock-exchange|TSE]] cash market, and the [[securities/japan-stock-lending-market-route|stock-loan market]] for delta hedging.
-
-## Counterpoints
-
-- **Public visibility is limited.** OTC bilateral derivatives are not publicly disclosed at the trade level; market-share assertions are necessarily indicative based on dealer-bank IR disclosure and aggregate JSCC clearing data where applicable.
-- **Not all corporates hedge.** Many Japanese corporates — particularly smaller TSE-listed firms below the Prime tier — do not run formal equity-derivative hedging programs at all. The hedging franchise is concentrated at the megacap and large-cap end of the market.
-- **Cross-shareholding hedging ≠ exit timing alpha.** Hedging dampens interim variance but does not create exit-timing alpha. A corporate that hedges a cross-shareholding has effectively committed to a forward-realization economic position.
-- **ESO hedging is rarer than the description suggests.** Most Japanese corporates account for ESOs without standalone derivative hedges, treating the volatility input as a fixed accounting estimate. Formal ESO derivative hedging is a minority practice.
-- **M&A pre-announcement derivatives are tightly constrained.** The regulatory boundary is strict; ad-hoc corporate pre-announcement equity-derivative positions are rare and most M&A transactions execute via formal advisory mandates with compliance walls.
-- **Share-buyback hedging is not always derivative-mediated.** Many large Japan buyback programs execute via simple in-market accumulation or 立会外 ToSTNeT block trades without derivative overlay. ASR-style structures with embedded derivatives are a subset.
-- **Insider-trading boundary applies symmetrically.** The same FIEA insider-trading rules that constrain M&A pre-announcement derivatives also constrain cross-shareholding hedging when the corporate is in possession of MNPI about the counterparty.
-- **Listed single-name options coverage is limited.** [[securities/osaka-exchange|OSE]] lists single-name options on selected Japanese equities, but the universe is narrower than the US single-name option market. Many corporate hedges therefore remain in OTC bilateral form rather than executed on listed venues.
-
-## Open questions
-
-- The aggregate notional of Japan corporate cross-shareholding equity-derivative hedges — public estimates are limited; rough sizing would require dealer-bank disclosure or BOJ / FSA aggregate publications.
-- The share of large Japan share-buyback programs that use ASR or other derivative-overlay structures vs simple in-market accumulation.
-- The extent to which the [[JapanFG/japan-exchange-group|TSE corporate governance code]] revisions accelerate or constrain corporate hedging activity — does mandatory cross-shareholding reduction increase or decrease the hedging franchise?
-- The cross-flow between corporate equity-derivative hedging and the trust-bank custody channel — many corporate hedges may transact via trust-bank-held employee-trust vehicles.
-- Dealer-franchise market share by bank in equity OTC options serving Japan corporates — public disclosure is fragmented; firm-by-firm sizing is necessarily indicative.
 
 ## Related
 

@@ -152,13 +152,6 @@ Cardholder disputes under JCB's three-party model flow through a structurally si
 
 The simpler path is a structural advantage in resolution speed for on-us cases, but the absence of independent brand arbitration is a constraint when cardholder and issuer-internal acquirer have conflicting interpretations of disputed transactions. In practice, JCB has built its own dispute-handling infrastructure that approximates the brand-arbitration tier within an internal governance structure.
 
-## Counterpoints
-
-- "JCB is just another card brand." JCB's three-party operating model means JCB-card economics, merchant relationships, and fee disclosure work fundamentally differently from Visa / Mastercard in Japan. Treating it as interchangeable misses the role-combination.
-- "JCB partner issuers are equivalent to Visa-licensed issuers." Partner issuers under JCB license carry issuer credit risk but do not have brand-network rule-setting rights and pay JCB Co Ltd network fees that differ from Visa / Mastercard scheme fees.
-- "JCB International is the same as JCB Co Ltd overseas." The two are separate legal entities with different acquirer footprints, merchant-contract counterparties, and dispute-routing rules.
-- "Three-party schemes are obsolete." American Express, Diners Club, and JCB all operate three-party models successfully in 2026; the model has different cost economics rather than being structurally inferior.
-
 ## Research checklist for JCB-touched transactions
 
 When analyzing a Japan card transaction or merchant relationship that involves JCB acceptance, the role-combination requires distinguishing several layers before drawing conclusions about fee economics, dispute liability, or competitive positioning:
@@ -171,14 +164,6 @@ When analyzing a Japan card transaction or merchant relationship that involves J
 6. Does the product include installment / revolving / BNPL features that trigger [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] questions separately from the brand-network treatment?
 
 The answers determine fee economics, chargeback flow, regulatory disclosure, and dispute resolution path — none of which can be inferred from the JCB brand mark alone.
-
-## Open questions
-
-- Will JFTC merchant-fee disclosure pressure push Visa / Mastercard licensed acquirers in Japan to disclose individual issuer / acquirer fee allocations comparable to JCB's 2023 disclosure?
-- How will the Discover Global Network alliance evolve given Capital One's 2024 announcement to acquire Discover and Capital One's existing relationships with Visa / Mastercard?
-- Will JCB Co Ltd extend co-acquirer arrangements with partner-issuer companies beyond MUFG NICOS to dilute the single-acquirer concentration?
-- How does JCB's three-party model affect EMV 3-DS / J-CSC enforcement timelines compared to brands that must coordinate across multiple acquirers?
-- Will partner-issued JCB cards continue to use JCB as a co-brand (alongside Visa / Mastercard) or migrate toward single-brand JCB issuance for groups with strong JCB economics?
 
 ## Related
 

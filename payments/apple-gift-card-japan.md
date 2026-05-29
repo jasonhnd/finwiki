@@ -111,13 +111,6 @@ Apple Gift Card Japan's strategic role:
 4. **Convenience-store rail leverage** — broad physical-card distribution across Japan's convenience-store network anchors purchase accessibility.
 5. **Unified SKU efficiency** — 2021 consolidation reduced SKU complexity for retailers and consumer confusion at point of sale.
 
-## Counterpoints
-
-- "Apple Gift Card is only for App Store." Post-2021 unification, it spends across both digital content and Apple hardware retail — not App Store only.
-- "It's just an iTunes Card rebrand." The unification is structurally meaningful — pre-2021 iTunes Card did not buy iPhone or Mac hardware; post-unification Apple Gift Card does.
-- "Closed-loop gift cards are obsolete in code-payment era." Closed-loop platform gift cards serve a structurally different need (gift distribution + cardless on-ramp) than code-payment wallets.
-- "Scam exploitation is Apple's fault." Apple has consumer-warning processes; the responsibility is shared across issuer, retailer, and consumer-education by NPA / FSA.
-
 ## Related
 
 - [[payments/INDEX]]

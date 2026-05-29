@@ -44,10 +44,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Public Sector Solutions** — 政府・自治体向けパラメトリック保険（地震・気象トリガー型）
 - **Reinsurance solutions** — Insurance-Linked Securities（CAT bond）アレンジ、リスク移転ソリューション
 
-## 3. Strategy & competitive position
-
-Swiss Re は Munich Re と並ぶ「Big 2」グローバル再保険プレーヤーで、日本市場では **Munich Re と直接競合する panel reinsurer** の代表格。日系元受損保（[[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]]）のグローバル再保険プログラムの常連参加者。**Sigma Research** という保険調査出版物（世界保険市場の年次レポート）で業界ソートリーダーシップを確立しており、引受能力と「保険業界の知的インフラ供給」を両軸とする ^[inferred]。生保再保険では [[rga-japan]] / [[hannover-re-japan]] と長寿・死亡リスクの引受競争。Corporate Solutions は再保険ではなく大企業向け元受 specialty で [[aig-japan]] / Chubb 等と競合する独立セグメント。
-
 ## 4. Why this page matters
 
 - Foreign reinsurer Japan branch の双璧 — [[JapanFG/munich-re-japan]] とともに「Big 2」グローバル再保険資本の日本入口

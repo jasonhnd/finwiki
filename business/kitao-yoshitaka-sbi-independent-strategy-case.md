@@ -18,14 +18,12 @@ status: confirmed
 
 # 独立路線事例 · 産業連合への不参加 + クロスボーダー・コンプライアンス価値への賭け(北尾吉孝 / SBI)
 
-
 ## Wiki route
 
 This entry sits under [[business/INDEX|business INDEX]] as a public-company-strategic-case anchor. Read it against [[business/matt-huang-triple-role-coi-template|三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- 「独立路線」とは主流に抗うことではなく、主流連合がカバーしていない価値軸に賭けることを指す ^[inferred]
 - 北尾吉孝 = SBIホールディングス創業者 / 代表取締役会長兼社長で、日本金融業界の伝説的人物 ^[extracted]
 - 2025-08にSBI Circle Holdings設立(50/50出資) ^[extracted]
 - SBIの投資ポートフォリオ:Ripple(XRPの最大初期支持者)+ Circle + Arc私募(2026-05)+ JPYC ^[extracted]
@@ -42,18 +40,6 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 起点は1999年の北尾によるSBIホールディングス創業(ソフトバンクからの分社化)。早期のRipple投資(XRPの日本最大支持者)が「グローバル・クロスボーダー決済レール」への嗜好を示していた。2023-2024年に日本3メガバンク + Datachainが Progmat連合を推進した際、北尾は**公的に参加を拒絶**(産業界では稀な明確な札の見せ方)。2025-08にSBI Circle Holdings設立 = USDCの日本独占販売 + JPYSC + Circle IPO後にSBIホールディングス + 新生銀行が共同で $50Mの株式を保有。2026-05にSBIはArc私募にも追加投資 → クロスボーダー・コンプライアンス経路のフルスタック布陣。フォロー候補:韓国Shinhan(BOK連合に不参加なら?)、シンガポールDBS(MAS Partior連合に不参加なら?)。
 
-## Counterpoints
-
-- 独立路線は短期コストが高い(連合リソース / 政治支援を欠く)→ 5年以上経たないと回収が検証できない
-- 「クロスボーダー・コンプライアンス価値」への賭けは§501(d)指定後にクロスボーダー経路がmonopoly rentを生むことを前提とする → 複数社が指定されれば価値は希釈される
-- 北尾個人のreputationとSBI戦略は深く一体化 → ポスト北尾期に独立路線が維持できるかは未解決
-
-## Open questions
-
-- §501(d)の実際の指定進捗とSBI Circle Holdingsの流通規模本格稼働のタイムラインは同期するか
-- SBI Circle Holdingsのクロスボーダー経路は東南アジア / 東アジア全体のクロスボーダー需要を取り込めるか(日本のみに留まらず)
-- Progmatの1兆円目標が遅延した場合、連合内部の銀行が単独でSBIルートに接近する逆方向の動きが起きるか
-
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
@@ -67,4 +53,3 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - Notice regarding investment in Circle — $50M total ($25M each by SBI Holdings & SBI Shinsei Bank); JV Circle SBI Japan KK (SBI Shinsei Bank official) — https://corp.sbishinseibank.co.jp/en/news/news/20250609a.html
 - Circle to Launch USDC in Japan With SBI Partnership (CoinDesk, 2025-03-25) — https://www.coindesk.com/markets/2025/03/25/circle-launches-usdc-in-japan-with-sbi-partnership
 - SBI Holdings' views on blockchain and XRP — interview with Yoshitaka Kitao (Ripple official) — https://ripple.com/insights/sbi-holdings-views-on-blockchain-and-xrp-an-interview-with-yoshitaka-kitao/
-

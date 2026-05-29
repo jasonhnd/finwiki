@@ -179,13 +179,6 @@ Cross-currency swaps and longer-dated FX options especially are CSA-collateraliz
 
 Treasury operations have to manage daily CSA call settlement, which is a meaningful operational task at large companies running 50+ ISDA relationships.
 
-## Counterpoints
-
-- **Hedge accounting noise**: even with hedge accounting designation, ineffective portions still flow through P&L. Aggressive structured hedges (e.g., knock-out forwards) often fail effectiveness tests and create unwanted P&L volatility.
-- **Carry vs protection trade-off**: forward points reflect interest-rate differentials, so hedging long-dollar exposure can mean accepting forward-implied JPY appreciation. In a steep [[derivatives/ois-tona-curve|OIS-TONA curve]] vs [[derivatives/cross-currency-basis-swap-japan|cross-currency basis]] environment, hedging cost can be material.
-- **Hedge ratio inertia**: many corporates anchor on past ratios rather than re-optimizing as exposures change. This is a recurring audit-committee question.
-- **Counterparty concentration**: a typical Japan listed corp runs most FX hedging through 2-4 banks, normally a mix of [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[JapanFG/mizuho-bank|Mizuho Bank]] plus possibly one foreign dealer. Concentration limits are usually set in policy.
-
 ## Sector patterns
 
 Different Japan industries have distinctly different hedge-policy patterns:
@@ -226,13 +219,6 @@ A few recurring failure modes show up in audit-committee reviews:
 - Inadequate audit trail of execution rationale; treasury operations execute without documented basis for venue or counterparty selection.
 
 The pattern of these failures is typically diagnosed at year-end audit and addressed through policy-document amendments and operational-procedure updates.
-
-## Open questions
-
-- How does the introduction of IFRS 9 macro-hedge accounting (still in development) change Japanese corporate hedge designation?
-- What fraction of TOPIX-100 companies have moved fully to IFRS 9 vs JGAAP-equivalent, and does that change disclosed hedge ratios?
-- Will the post-YCC [[money-market/japan-money-market|Japan money market]] environment lead to a wider hedging cost dispersion that pushes more corporates into selective hedging vs systematic hedging?
-- How are Japan life insurers' demand for hedged USD assets (see [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]]) affecting corporate hedging cost via the [[derivatives/yen-basis-swap-market|yen basis swap market]]?
 
 ## Related
 

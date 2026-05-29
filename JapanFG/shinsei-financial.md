@@ -45,18 +45,6 @@ For FinWiki, the page matters because [[JapanFG/sbi-hd|SBI]] uses SBI Shinsei as
 
 SBI Shinsei's post-integration strategy combines deposit banking, consumer lending, installment credit, cards, and regional-bank relationships. A standalone Shinsei Financial page keeps the personal-loan and guarantee layer distinct from the bank balance-sheet page and from [[JapanFG/aplus|APLUS]] shopping-credit / card activity.
 
-## Counterpoints
-
-- Public information gives business scope and registration status, but detailed loan-book performance, guarantee loss curves, and channel economics require group disclosures or future source work.
-- "レイク" brand recognition can obscure the operating-company and bank-group boundary.
-- Consumer finance be read together with conduct, affordability, and credit-cycle risks, not only distribution strength.
-
-## Open Questions
-
-- How much of SBI Shinsei's consumer-credit growth is held at Shinsei Financial versus bank or APLUS routes?
-- How are guarantee alliances with regional financial institutions evolving after SBI's bank-group integration?
-- Which public disclosures best separate loan receivables, guarantees, and servicing economics?
-
 ## Related
 
 - [[JapanFG/sbi-shinsei-bank]]

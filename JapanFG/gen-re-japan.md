@@ -44,10 +44,6 @@ General Reinsurance AG / General Re Corporation の日本支店。**バークシ
 - **Life & Health Reinsurance** — 死亡・医療・障害の生保・医療再保険（Gen Re Life via separate structure）
 - **Risk consulting** — 引受リスクの技術評価サポート
 
-## 3. Strategy & competitive position
-
-Gen Re はバークシャー・ハサウェイ保険事業の主要ピラーの一つで、National Indemnity・GEICO・Berkshire Hathaway Reinsurance Group と並ぶ Berkshire の保険コングロマリットの一角 ^[inferred]。日本市場では [[JapanFG/munich-re-japan]] / [[JapanFG/swiss-re-japan]] / [[JapanFG/hannover-re-japan]] / [[JapanFG/scor-japan]] と並ぶ panel reinsurer として、日系元受メガ損保（[[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]]）の再保険プログラムに参加。生保再保険は Gen Re Life として [[rga-japan]] / Swiss Re Life と競合。**バークシャー流の保守的引受規律**（不採算引受からの撤退・サイクル管理）は業界内で参照される文化的シグナル ^[inferred]。1998 年 Berkshire による Gen Re 買収後、初期は再保険損失と会計不祥事で苦しんだが、2010 年代以降は引受規律強化で再建が進んだ歴史を持つ ^[inferred]。
-
 ## 4. Why this page matters
 
 - バークシャー・ハサウェイ保険コングロマリットの日本接点アンカー — Berkshire の Japanese asset 投資（5 大商社株 [[mitsubishi-corporation]] 等）と並ぶ「Berkshire in Japan」マップの一部

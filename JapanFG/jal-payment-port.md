@@ -47,18 +47,6 @@ For FinWiki, this is the travel / loyalty wallet route linking airline membershi
 
 Most payment pages focus on bank, telecom, retail, or marketplace ecosystems. JAL Payment Port shows a travel ecosystem route, closer to loyalty-driven embedded finance than to pure PSP or bank app competition. It be read alongside [[loyalty/japan-points-landscape|Japan points landscape]] and [[payments/japan-code-payment-competitive-map|code-payment competition]].
 
-## Counterpoints
-
-- Travel-wallet engagement may be episodic compared with daily payment apps such as [[JapanFG/paypay|PayPay]] or [[JapanFG/au-payment|au PAY]].
-- Public sources show business lines and registrations, but not transaction volume, active users, or interchange / FX economics.
-- Bank agency and financial instruments intermediary roles require care: they indicate mediation routes, not necessarily balance-sheet ownership.
-
-## Open Questions
-
-- How much of JAL Pay usage is domestic wallet payment, travel FX / global wallet, remittance, or loyalty redemption?
-- How are JAL SBI FinTech and Sumishin SBI Net Bank roles divided operationally?
-- Does travel-wallet embedded finance become material outside the airline customer base?
-
 ## Related
 
 - [[payments/INDEX]]

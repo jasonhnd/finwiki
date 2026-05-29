@@ -17,7 +17,6 @@ sources:
 
 # 日本証券金融 (JSF)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/japan-exchange-group|日本取引所グループ (JPX)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -62,18 +61,6 @@ JSF is a quiet infrastructure company. Its importance rises when:
 ## 4. 規制・政策
 
 JSF operates in the securities-finance layer of the FIEA ecosystem. It is not an exchange, but it is tightly connected to exchange-market liquidity, margin regulation, broker risk management, and securities lending.
-
-## Counterpoints
-
-- Its role is systemically important but not consumer-visible.
-- Public analysis needs care: securities lending and short-selling data can be misread as directional positioning without context.
-- PTS growth may change routing and execution, but financing and settlement still need regulated plumbing.
-
-## Open questions
-
-- How does JSF adapt as PTS credit trading and security-token venues expand?
-- Does higher retail leverage increase JSF's visibility as a market-stability actor?
-- How does the group position Nisshokin Trust Bank within collateral and custody services?
 
 ## Related
 

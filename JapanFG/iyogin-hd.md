@@ -17,7 +17,6 @@ sources:
 
 # いよぎん HD (Iyogin Holdings)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
@@ -71,8 +70,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | ベンチャー | いよぎんキャピタル | 地域ベンチャー投資 |
 | デジタル | いよぎんネット・いよぎんアプリ | 個人向けデジタルバンキング |
 
-## 4. 戦略・競争
-
 ### 地域基盤
 
 - **愛媛県地盤**:人口約 130 万、四国 4 県で最大県。県内 GDP の中核を担う海運・造船・農業 (柑橘) ・製紙 (大王製紙) 等の地場産業を顧客基盤に持つ。
@@ -83,7 +80,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 「**いよぎんカード**」「**いよぎんネット**」「いよぎんアプリ」等のリテールデジタル化
 - 法人向け API バンキング・地域 DX 支援
-- HD 化 (2022-10) を機にデジタル子会社統合・グループ横断戦略を加速 ^[inferred]
 
 ### 競争マップ (四国 4 県)
 
@@ -104,20 +100,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 国内預貸利ザヤ改善ボーナス
   - 2024〜 地銀再編・統合政策 (金融庁の地域金融機関政策)
-  - 人口減少・愛媛県内顧客基盤の長期縮小リスク ^[inferred]
-
-## Counterpoints
-
-- 「単独 HD 化」の戦略意義:四国他県地銀 ([[tomony-hd]] 等) が県跨ぎ統合に進む中、伊予銀は単独路線。スケールメリット vs 独立性のトレードオフ ^[ambiguous]
-- 「海運・造船融資集中リスク」:今治造船など特定産業への融資集中は、海運市況・造船業界サイクルに連動する与信リスクを内包 ^[inferred]
-- 「愛媛県人口減少」:長期顧客基盤縮小は地銀共通課題。県外・海外シフトの度合いは公開情報からは限定的 ^[inferred]
-
-## Open questions
-
-- HD 化 (2022-10) 後の戦略子会社拡張シナリオは? 証券・信託子会社化の有無
-- 中期経営計画 (2024〜) の数値目標と進捗
-- 四国 4 県再編シナリオでの単独路線継続意思
-- 海運・造船融資ポートフォリオの集中度・与信動向
 
 ## Related
 

@@ -150,18 +150,6 @@ Trust transparency is one reason trust beneficial interest is favored — there 
 
 Both vehicles can be private placements to qualified institutional investors with similar disclosure burden.
 
-## Counterpoints
-
-- **"Trust is always tax-transparent"**: certain trust types (e.g., specified-investment trusts) are taxed differently; the standard securitization-trust is transparent but verify the specific structure.
-- **"SPV is more flexible than trust"**: trust beneficial interest can be tranched and packaged just like bonds; flexibility differences are narrower than commonly thought.
-- **"Trust is just a synonym for SPC"**: legally distinct — trust has trustee fiduciary obligation, SPC has corporate governance; the operational mechanics differ.
-
-## Open questions
-
-- How "digital trust" or tokenized trust beneficial interest develops as a securitization vehicle.
-- Whether new asset classes (e.g., royalty streams) favor trust over SPV for specific tax reasons.
-- The evolution of trust-bank trustee fees as competition (or consolidation) reshapes the market.
-
 ## Related
 
 - [[structured-finance/INDEX]]

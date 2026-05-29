@@ -37,8 +37,6 @@ Three ALM responses dominate: (1) extend yen-asset duration with super-long JGBs
 
 ESR sensitivity is dominated by the residual duration mismatch (interest-rate risk), the unhedged FX position (currency risk), the equity-holdings book (equity risk), and the credit-spread exposure on the foreign credit sleeve. ALM committees at the big-four mutual insurers and at [[JapanFG/sony-life|Sony Life]] are positioned to balance these drivers against policyholder-dividend or shareholder-return constraints.
 
-## Liability profile
-
 ### Duration
 
 Whole-life and endowment products written before the late-1990s carry guaranteed crediting rates set when JGB yields were several hundred basis points higher than today. These legacy "negative spread" books remain on the balance sheet for decades because policyholders rationally do not lapse high-guarantee policies.
@@ -58,8 +56,6 @@ Liability duration for a typical Japanese life insurer is materially longer than
 ### Crediting rate and guarantee structure
 
 The Insurance Business Act and FSA supervision constrain the standard valuation interest rate (標準利率) used for reserving, separately from the policyholder-credited rate. Under [[insurance/economic-value-based-solvency|economic-value-based solvency]], the regulatory liability is discounted on a risk-free yield curve with [[insurance/global-solvency-framework-comparison-matrix|Ultimate Forward Rate extrapolation]] for long-dated tenors. The mismatch between the credited / guaranteed rate and the discount curve directly drives the economic value of liabilities and the ESR ratio.
-
-## Asset side
 
 ### Yen government bonds (JGB)
 
@@ -212,23 +208,6 @@ When reading a Japanese life insurer's annual / integrated report for ALM purpos
 | 8 | Risk-management governance | ALM committee structure, ORSA disclosure, stress-testing outcomes |
 
 Cross-referencing these sections produces a fuller picture than reading any single section in isolation.
-
-## Counterpoints
-
-- Duration matching is not the only valid ALM strategy. Some insurers deliberately run a positive duration gap to monetize a yield-curve expectation, accepting ESR volatility.
-- A larger unhedged foreign-bond sleeve is not automatically reckless. If matched against foreign-currency policyholder liabilities, the FX exposure is hedged in liability terms even if the asset itself looks unhedged.
-- "ESR is high" does not equal "balance sheet is safe." A high ESR ratio with concentrated credit-spread exposure and weak liquidity is structurally different from a high ESR ratio with diversified high-quality assets.
-- The post-2013 credit substitution is partially reversible. As JGB yields normalize, some life insurers can rotate back into yen sovereign duration. The pace depends on each insurer's locked-in foreign-credit maturity schedule.
-- Hedge cost is not the only number that matters on the foreign-bond sleeve. Total return including FX movement, credit spread, and basis dynamics needs to be evaluated together.
-
-## Open questions
-
-- How quickly do big-four mutual insurers and [[JapanFG/sony-life|Sony Life]] rebalance toward super-long JGBs as the yen yield curve normalizes from BoJ policy adjustments?
-- What is the optimal split between hedged and unhedged foreign-bond sleeves under the current cross-currency basis regime, given each insurer's ESR sensitivity tolerance?
-- How does the credit-asset substitution interact with the [[insurance/economic-value-based-solvency|economic-value solvency]] credit-risk capital charge over the medium term?
-- How are foreign-currency life products (USD-denominated whole-life sold through Lifeplanner-style channels) affecting the matching pair on Sony Life and on big-four foreign-currency franchises?
-- How do [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates]] (AFLAC Japan, MetLife Japan, Prudential / Gibraltar, Manulife Japan, AXA, Zurich, Allianz, AIA) manage ALM differently given parent-group balance-sheet support?
-- How does ICS reporting (see [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]]) interact with FSA ESR sensitivity disclosures for designated IAIGs?
 
 ## Related
 

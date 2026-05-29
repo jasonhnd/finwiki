@@ -54,7 +54,7 @@
     "Fee / Revenue Model",
     "Historical Context",
     "Regulatory Framing",
-    "Counterpoints"
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11333,
-    "word_like_tokens": 1899,
+    "nonspace_chars": 9500,
+    "word_like_tokens": 1578,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-05-29"
   }
 }

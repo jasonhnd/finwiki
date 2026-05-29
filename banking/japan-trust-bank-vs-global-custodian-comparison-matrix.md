@@ -72,7 +72,6 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 | JSCC 接続 | 直接 | 直接 | 直接 | 親銀行経由 | 直接 (証券系) | 親系統経由 | 直接 (大量) | 直接 (大量) | 親銀行経由 | 直接 (証券金融) |
 | JASDEC 接続 | 直接 | 直接 | 直接 | 直接 | 直接 | 直接 | 直接 (大量) | 直接 (大量) | 直接 | 直接 |
 | ICSD gateway (Euroclear / Clearstream) | 直接 + サブカストディ | 直接 + サブカストディ | 直接 + サブカストディ | 親銀行 SMBC 経由 | 親 (野村) 経由 + 自社限定 | 外資カストディ経由 | 外資 ICSD 接続 (BNY / State Street サブ) | 外資 ICSD 接続 (BNY / State Street サブ) | 外資カストディ経由 | 外資カストディ経由 |
-| Specialty fields | 不動産 / 年金 / 相続 / DC / 議決権電子化 | 不動産 / DC / SC コード対応 | 不動産 / 年金 / インパクト投資 / 相続 | 富裕層 / プライベートバンキング / PB 商品 | 投信 / プライベートエクイティ / 私募ファンド | 農協 / 公金 / DC | 純粋カストディ / 年金 / 議決権 / コーポレートアクション | 純粋カストディ / 年金 / 投信計算 | 不動産 / RWA トークン化検討 ^[inferred] | 証券金融 / 株式貸借 / 担保管理 |
 | M&A / 統合歴 | 三菱信託 + UFJ 信託 (2005-10) | みずほ信託 (旧 安田 + 第一勧業 + 富士 信託統合系譜) | 中央三井 + 住友 (2011-04) | 旧 SMBC 信託 + プレスティア (シティ NA 個人部門 2015 譲受) | 1993 設立 (野村系子会社) | 設立統合 | 2000-05 設立 (MUFG + 日本生命 + 明治安田 + 農中信託) | **2020-07-27 JTSB + TCSB 合併** ★ | SBI 系 (旧 新生信託) | 日本証券金融子会社 |
 | Pricing power | 強 (規模 + リレーション) | 中強 | 強 | 中 (リテール富裕層) | 中 (グループ内) | 中 (系統内) | 強 (規模独占に近い) | 強 (規模独占に近い) | 弱 (規模小) | 弱 (専業狭領域) |
 
@@ -115,14 +114,11 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 2. システム重複コストの圧縮 (JTSB + TCSB は別個の投信計算 / カストディ システムを保有していた)
 3. 議決権電子行使 / コーポレートアクション電子化への対応投資集約
 
-統合後、両 2 強で日本の上場株式 信託口保管の **過半** を担う構造となった。^[inferred] グローバルカストディアン (BNY Mellon / State Street / JPM / Citi) は、外国投資家 / 邦銀海外運用の日本側 sub-custodian としてこの 2 強の **下位接続** を多くの場合経由する。
-
 ## Pricing power dynamics
 
 | 側面 | 国内信託銀行 | グローバルカストディアン |
 |---|---|---|
 | 顧客交渉力 | 規模効果 + リレーションで Master Trust / CBJ は強い | グローバル必須機能性で全社強い |
-| 手数料率トレンド | 投信 admin 手数料率は低下傾向 (パッシブ化 / 価格競争) ^[inferred] | グローバル AUC ベースで規模が拡大、絶対金額では成長持続 ^[inferred] |
 | 代替可能性 | 国内インフラ集約により国内では限定的 | 母国規制 + 母国システム接続性で邦銀代替は構造的困難 |
 | クロス販売 | 不動産 / 年金 / 相続 / 投資銀行リレーション (full-service trust bank) | グローバル運用 / 証券業務 / プライムブローカレッジ |
 | 規制資本コスト | 国内 RWA 中心 | グローバル統合資本 (G-SIB バッファ含む — BNY Mellon / State Street / JPM / Citi 全社 G-SIB 認定) |
@@ -134,8 +130,6 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 | 「日本マスタートラスト信託銀行 (信託口)」が筆頭株主に登場 | 名義人。受益者は GPIF / 投信 / 機関投資家。議決権指図は委託者側。^[extracted] |
 | 「日本カストディ銀行 (信託口)」が筆頭株主に登場 | 同上。CBJ は名義人で、SMTB / Mizuho / Resona / 第一生命系の委託資産の集約。^[extracted] |
 | 「BNY Mellon」や「State Street」が外国法人株主に登場 | 外国機関投資家のグローバルカストディ口座経由の名寄せ。BNY / State Street 自体の戦略保有ではない。^[extracted] |
-| GPIF の海外資産が外資カストディアン管理下にある | sub-custodian 構造であり、最終的な投資判断・議決権行使は GPIF 委託運用機関にある。^[inferred] |
-| トラスト&カストディ手数料率の比較 | 国内専業 (Master Trust / CBJ) は規模集約で安く、グローバル (BNY / State Street) はグローバル必須機能性で価格維持。直接比較は機能カバレッジが異なるため要注意。^[inferred] |
 
 ## Research checklist
 
@@ -145,22 +139,6 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 4. Treat ICSD gateway access (Euroclear / Clearstream) as **the dividing line** between truly global custodians and domestic specialists — domestic specialists usually re-route foreign assets through global custodians.
 5. Source-date all AUC / AuA / 受託資産 figures because they move with market prices and new mandates; the ¥700tn / ¥600tn anchors for Master Trust / CBJ are public-domain summary points but not real-time numbers.
 6. Cross-link client side via [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] to understand mandate flows.
-
-## Counterpoints
-
-- "2 強 (Master Trust + CBJ) = カストディ独占" の批判は機能集約の自然な帰結。グローバル統合圧力 + システム投資負担 + 公的年金規模拡大の合成効果。^[inferred]
-- 「グローバルカストディアン = 邦銀代替可能」観は誤り。国内 DVP-X1/X2/X3 + JGB book-entry + JASDEC 直接接続は信託銀行ライセンスに紐付き、外資 ICSD だけでは代替不可。^[inferred]
-- 「信託口 = 議決権集中」観は形式論。議決権指図は委託者 (運用機関 / 年金) にあり、信託銀行は機械的に行使するのが原則。^[extracted]
-- 「グローバル AUC ランキング」は AUC / AuA 集計方法 (保管 vs アドミ vs 兼ね合い) に依存し、BNY $50tn / State Street $40tn / JPM $30tn の数値は時点・定義により変動。^[ambiguous]
-- 「リテール富裕層信託 = SMBC Trust の AUC」は他の信託銀行と質的に異なる (PB 商品中心) ため、AUC 数値の単純比較は意味が薄い。
-
-## Open questions
-
-- 株式決済 T+1 化 (2027 想定) で国内信託銀行とグローバルカストディアンの sub-custody チェーンはどう再構成されるか?
-- トークン化証券 ([[JapanFG/mufg-bank|MUFG]] Progmat 等) のカストディは Master Trust / CBJ 経由か、それともグローバル custodian 直接接続か?
-- GPIF の海外運用比率上昇局面で BNY / State Street の Japan 受託資産は構造的に拡大するか?
-- 国内 2 強 (Master Trust + CBJ) の将来的な統合 (インフラ 1 社化) シナリオの蓋然性は?
-- Citi が個人 PB を SMBC に譲渡した (2015) のと同様、他のグローバル custodian も日本の周辺事業を邦銀に譲渡する戦術を取るか?
 
 ## Related
 

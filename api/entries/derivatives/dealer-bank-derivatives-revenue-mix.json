@@ -59,12 +59,12 @@
     "TL;DR",
     "Wiki route",
     "Why the revenue mix matters",
-    "Tier 1 — Megabank universal-bank franchise",
     "MUFG, SMBC, Mizuho",
     "Approximate revenue mix at megabanks (public-source inference)",
     "Why rates and FX dominate at megabanks",
-    "Tier 2 — Independent Japan IB franchise",
-    "Nomura HD, Daiwa SG"
+    "Nomura HD, Daiwa SG",
+    "Approximate revenue mix at Nomura / Daiwa (public-source inference)",
+    "Why equity is distinctively large at independent IBs"
   ],
   "body_links": {
     "wikilinks_count": 31,
@@ -138,9 +138,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 22885,
-    "word_like_tokens": 3511,
+    "nonspace_chars": 19349,
+    "word_like_tokens": 2930,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

@@ -46,9 +46,9 @@
     "重要年表",
     "2. 格付業務 map",
     "格付スケール",
-    "3. 競争・市場ポジション",
     "国内 4 大格付機関",
-    "国内 vs 国際の格付ギャップ問題"
+    "国内 vs 国際の格付ギャップ問題",
+    "競争上の特徴"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3845,
-    "word_like_tokens": 585,
+    "nonspace_chars": 3779,
+    "word_like_tokens": 580,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

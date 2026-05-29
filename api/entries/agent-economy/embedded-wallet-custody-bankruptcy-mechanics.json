@@ -73,7 +73,7 @@
     "What actually happens in each scenario · step-by-step"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "agent-economy/INDEX",
@@ -87,8 +87,7 @@
       "fintech/INDEX",
       "fintech/embedded-wallet-fintech-disintermediation-overview",
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
-      "fintech/usd-stablecoin-interchange"
+      "fintech/onchain-finance-vs-crypto-bifurcation"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -103,16 +102,15 @@
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
-      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
+      "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 23186,
-    "word_like_tokens": 4041,
+    "nonspace_chars": 20810,
+    "word_like_tokens": 3628,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

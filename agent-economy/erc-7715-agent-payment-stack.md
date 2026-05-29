@@ -15,14 +15,12 @@ status: candidate
 
 # ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調
 
-
 ## Wiki route
 
 This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
-- agent payment stack の4層構造 ^[inferred]
 - x402 は HTTP 層の決済ハンドシェイクを担う(Cloudflare/Coinbase/AWS が推進) ^[extracted]
 - AP2 / MPP / ACP は agent 間の交渉メタデータを担う ^[extracted]
 - ERC-7715 は wallet から agent への認可を担う ^[extracted]
@@ -63,19 +61,6 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 agent payment stack の概念は 2024-2025 にかけて徐々に成立した — 初期は各プロトコル(x402 / AP2 / 7715)を別チームが推進していたが、2025 後半から意識的な協調が始まった。Coinbase Smart Wallet が 2025 に披露した「ネイティブ agent 決済」デモは決定的な実証イベントであり、4層 stack のエンドツーエンドでの稼働を示した。
 
 Stripe による Privy 買収(2024)は、Web2 決済巨頭がオンチェーン permission モデルに明示的に賭けた初の事例である。2026-2027 にかけて最初の production 級 agent SaaS 統合事例が登場すると見込まれる。
-
-## Counterpoints
-
-**プロトコル断片化リスク**:x402 / AP2 / MPP / ACP / A2A の5種類の agent 交渉プロトコルが並存し · さらに 7715 / 4337 / 7702 の wallet 層が加わり · マーチャントの統合コストが爆発する。事実上の標準が形成されなければ · agent payment はデモ段階に留まる可能性がある。
-
-**Stripe Billing 代替仮説**:技術的には 7715 + AP2 が Stripe Billing を代替し得るが · Stripe Billing の非技術的価値(クレカ紛争解決 / chargeback / 不正対策 / 財務 SaaS 統合)はオンチェーン permission モデルでまだ完全に再現されていない。短期的に大規模な移行は起きない。
-
-## Open questions
-
-- 5種類の agent 交渉プロトコル(x402/AP2/MPP/ACP/A2A)の事実上の標準はいつ登場するか?
-- Stripe + Privy + 7715 の具体的なプロダクト形態は?
-- オンチェーン permission は chargeback と同等の保証を提供できるか?
-- クロスチェーン 7715 permission(agent が複数チェーン上で支出する)の標準化は?
 
 ## Related
 <!-- wiki-links:managed -->

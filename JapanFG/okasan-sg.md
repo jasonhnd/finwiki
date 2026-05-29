@@ -17,7 +17,6 @@ sources:
 
 # 岡三証券グループ (Okasan Securities Group)
 
-
 ## Wiki route
 
 This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
@@ -77,13 +76,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 海外 | 岡三国際 | 香港・シンガポール等 |
 | 地方系列 | 岡三にいがた証券 | 新潟拠点、地域密着 |
 
-## 3. 戦略・競争
-
 ### 中堅独立ポジショニング
 
 - 業界順位：**5 大証券（[[ndfg]] 野村 HD / 大和証券 G / SMBC 日興 / みずほ証券 / 三菱 UFJ モルガン・スタンレー証券）に次ぐ中堅独立証券** ^[extracted]
 - 「メガ銀グループに属さない独立系」が他の大手準ずる中堅証券との差別化軸
-- 中京経済圏（名古屋・愛知・三重）の対面リテール基盤が最大の収益源 ^[inferred]
 
 ### 対面 × ネット ハイブリッド戦略
 
@@ -94,11 +90,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 主要競合
 
-- **東海東京 FH**（同じ中京系中堅独立・東海地区競合）^[inferred]
 - **松井証券**（ネット証券先駆者）
 - **[[monex-group]] マネックスグループ**（ネット証券・グローバル）
 - **SBI HD** グループ系証券（オンライン最大手）
-- メガ系（[[ndfg]] 野村 HD / MUMSS / SMBC 日興 / みずほ証券 / 大和証券 G）— 規模で劣後、独立性・地域密着で差別化 ^[inferred]
 
 ## 4. 規制・政策
 
@@ -109,21 +103,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 新 NISA 拡充（2024〜）：対面リテール証券にとって追い風、岡三証券もアドバイザリー強化
   - ネット証券手数料無料化トレンド：岡三オンラインの手数料体系再検討
   - 金融商品仲介業者制度：地銀・地方信金との連携拡大
-
-## Counterpoints
-
-- **規模劣後リスク**：5 大証券との売上高・純利益・グローバル展開で大きな差。M&A 防衛・独立維持が長期テーマ ^[inferred]
-- **中京経済圏集中**：名古屋・愛知の景気・トヨタ系企業動向との連動リスク ^[inferred]
-- **ネット手数料無料化圧力**：SBI 証券・楽天証券の手数料無料化に対し、岡三オンライン単独では規模で対抗困難 ^[inferred]
-- **対面 × ネット ハイブリッドの収益性**：ブランド併存はコスト二重化を伴うため統合効率の検証要 ^[ambiguous]
-
-## Open questions
-
-- 5 大証券に次ぐ「中堅独立」ポジション維持の長期戦略は？ メガ FG への身売り or 独立維持の天秤
-- 岡三オンライン の手数料無料化対応・ネット証券戦略の具体像は？
-- 中京経済圏依存度（売上高地域別構成）と全国展開のバランスは？
-- 「岡三 SBI Bank」「岡三カブースー」等の周辺連携サービスの収益貢献度は？
-- 東海東京 FH との中京内競合構造（合従連衡シナリオ含む）は？
 
 ## Related
 

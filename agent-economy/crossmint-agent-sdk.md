@@ -80,20 +80,6 @@ Practical pattern: an **AI commerce agent** uses Crossmint to provision wallets 
 
 Crossmint launched around the 2021-2022 NFT cycle as a "card-to-NFT" checkout — solving the problem that most Web2 buyers couldn't navigate crypto onboarding. As the NFT-only thesis cooled (2023), Crossmint expanded to **general embedded wallet** plus **server-side wallet for AI agents** by 2024. The 2025-2026 positioning targets: enterprise brands, AI commerce, and any builder who wants one SDK across many chains without picking sides in the [[agent-economy/embedded-wallet-landscape-2026-consolidation|consolidation]] race.
 
-## Counterpoints
-
-- **Privy + Stripe channel** is a structural advantage Crossmint cannot match — Stripe pre-installs Privy as default wallet for any Stripe-integrated agent ([[agent-economy/privy-aws-agentcore-default-wallet|AWS AgentCore precedent]])
-- **Multi-chain breadth costs depth** — Crossmint supports many chains but each chain-specific integration (e.g., Sui object model, Aptos parallel execution) is shallower than chain-native wallets
-- **NFT-first DNA may not transfer** cleanly to commodity AI-agent commerce flow
-- **Closed-loop competitors** like [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire]] bundle issuance + identity + cards in one — Crossmint stays infrastructure-only
-
-## Open questions
-
-- Does Crossmint partner with a hyperscaler (Google Cloud, Azure) for the same default-wallet positioning Privy has with AWS?
-- Will Crossmint expand into agent **identity** layer (KYA-style) or stay infrastructure-only?
-- How do multi-chain breadth and **per-chain depth** trade off as AI-agent volume concentrates on 2-3 chains (Base / Solana / and probably one of Sui/Aptos/[[systems/ton-telegram-openwallet-ecosystem|TON]])?
-- Will Crossmint be acquired by a larger payments / fintech as embedded wallets continue consolidating?
-
 ## Related
 
 - [[agent-economy/INDEX]]

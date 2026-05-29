@@ -47,8 +47,8 @@
     "業態の特徴",
     "重要年表 (公開情報ベース)",
     "3. 事業セグメント map",
-    "4. 戦略・競争",
-    "老舗中堅独立証券としてのポジション"
+    "老舗中堅独立証券としてのポジション",
+    "競争環境 (japan-online-brokerage-competition 文脈)"
   ],
   "body_links": {
     "wikilinks_count": 18,
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4131,
-    "word_like_tokens": 532,
+    "nonspace_chars": 3323,
+    "word_like_tokens": 451,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -42,13 +42,11 @@
     "Key facts",
     "Mechanism / How it works",
     "Origin & evolution",
-    "Counterpoints",
-    "Open questions",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "exchanges/cross-chain-bridge-cex-deposit-withdrawal",
@@ -57,8 +55,7 @@
       "systems/INDEX",
       "systems/canton-overview",
       "systems/cctp-v2-technical-spec",
-      "systems/cctp-v2-vs-canton",
-      "systems/cross-chain-five-pole-comparison-matrix"
+      "systems/cctp-v2-vs-canton"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -68,16 +65,15 @@
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-overview",
       "https://finwiki.zksc.io/systems/cctp-v2-technical-spec",
-      "https://finwiki.zksc.io/systems/cctp-v2-vs-canton",
-      "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
+      "https://finwiki.zksc.io/systems/cctp-v2-vs-canton"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2985,
-    "word_like_tokens": 474,
-    "inbound_wikilinks_count": 20,
+    "nonspace_chars": 2405,
+    "word_like_tokens": 401,
+    "inbound_wikilinks_count": 19,
     "last_modified": "2026-05-29"
   }
 }

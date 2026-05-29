@@ -97,21 +97,6 @@ This positions TON differently from x402's "API-call payments" world ([[agent-ec
 
 TON's advantage is the **embedded user base**; Tron's is **incumbency**; Solana's is **throughput and mobile**; Ethereum L2's is **developer ecosystem + institutional acceptance**.
 
-## Counterpoints
-
-- **TVM non-EVM** raises porting cost; less developer mindshare than EVM / Solana
-- **Telegram as single distribution channel** creates platform-risk concentration
-- **Async messaging** complicates DeFi composability vs atomic-EVM
-- **Compliance posture** — TON's free-flowing peer-to-peer USDT has drawn regulator scrutiny; future restrictions possible
-- **Stablecoin issuer concentration** — USDT-TON depends on Tether's continued issuance; Tether-specific risk applies
-
-## Open questions
-
-- Does TON cross meaningful **institutional thresholds** for stablecoin settlement (e.g., remittance corridors with banking-tier compliance)?
-- Will Telegram Mini Apps + TON Connect become a default agent-distribution channel for AI assistants outside the Telegram brand?
-- How does TON's USDT volume hold up vs USDT migration to [[systems/sui-aptos-move-l1-ecosystem|Sui / Aptos]] and Solana?
-- Will the SEC settlement legacy continue to limit US / institutional participation?
-
 ## Related
 
 - [[systems/INDEX]]
