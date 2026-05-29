@@ -106,7 +106,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 銀行ライセンス非保有 → 預金 / 為替送金 / 大口決済は他社（提携銀行）依存
 - 主戦場がファミマ店内に偏り、汎用コード決済としての店外展開は PayPay / 楽天ペイ / d 払いに対して弱い
-- ステーブルコイン / Progmat 系インフラへの参画は確認不能 ^[ambiguous]
 
 ## 4. 規制・政策
 

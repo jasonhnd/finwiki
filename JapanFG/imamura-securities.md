@@ -87,7 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **規制**：金融商品取引法・日本証券業協会 ([[JapanFG/jsda|JSDA]]) 自主規制
 - **直近政策論点**：
   - 顧客本位の業務運営 (FD 原則) 強化：対面コンサル型営業の正当化
-  - 地域金融機関再編論議の中での地域証券の位置付け ^[ambiguous]
 
 ## Related
 

@@ -38,7 +38,10 @@
       "https://www.fsa.go.jp/cpaaob/",
       "https://www.fsa.go.jp/cpaaob/english/index.html",
       "https://www.fsa.go.jp/cpaaob/kikaku/index.html",
-      "https://www.fsa.go.jp/cpaaob/kensa/index.html"
+      "https://www.fsa.go.jp/cpaaob/kensa/index.html",
+      "金融庁 新日本有限責任監査法人 行政処分 (2015-12-22) — https://www.fsa.go.jp/news/27/sonota/20151222-4.html",
+      "金融庁 新日本有限責任監査法人 課徴金納付命令 (約21億円) — https://www.fsa.go.jp/news/27/syouken/20160122-4.html",
+      "中央青山監査法人 / みすず監査法人 (カネボウ事件・2006業務停止・解散) — https://ja.wikipedia.org/wiki/みすず監査法人"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it alongside FSA 監督局 and FSA 検査局 (historical) for the supervisory boundary, and against FSA 総合政策局 / FSA 企画市場局 for the rule-making and policy interfaces. For the audit-firm side, anchor through EY 新日本 · トーマツ · KPMG あずさ · PwC あらた (Big 4) and 太陽グラントソントン · BDO 三",
@@ -88,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3581,
-    "word_like_tokens": 510,
+    "nonspace_chars": 4384,
+    "word_like_tokens": 666,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }

@@ -93,7 +93,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 県内独立系として持株会社化や他行との経営統合に踏み切っていない ^[extracted]
 - 一方で四国の他地銀は [[iyogin-hd]] (2022 持株会社化)・[[tomony-hd]] (2010 統合) と再編進行 ^[extracted]
-- 持続性については、地銀再編圧力（金融庁・日銀）下で将来的な選択肢として持株会社化・統合の可能性は残る ^[ambiguous]
 
 ## 4. 監督と政策
 

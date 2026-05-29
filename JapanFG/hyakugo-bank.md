@@ -87,7 +87,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 三重県内独立系として持株会社化や他行との経営統合に踏み切っていない ^[extracted]
 - 一方で三重県内では [[san-jusan-fg]] が 2018 統合・2021 合併と再編進行、隣県では [[mufg]] 旧東海系メガ + 名古屋圏地銀勢が活発に動く ^[extracted]
-- 持続性については、地銀再編圧力（金融庁・日銀）下で将来的な選択肢として持株会社化・他行統合の可能性は残るが、現状は単独路線堅持 ^[ambiguous]
 
 ### 域外戦略
 

@@ -39,7 +39,10 @@
       "https://www.jabank.org/about/sikumi/banksystem/",
       "https://www.nochubank.or.jp/about/features.html",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
-      "農業協同組合法 (昭和 22 年法律第 132 号)"
+      "農業協同組合法 (昭和 22 年法律第 132 号)",
+      "愛知県信連 規模 (貯金残高 約7.99兆円, 2022-03) — https://ja.wikipedia.org/wiki/愛知県信用農業協同組合連合会",
+      "北海道信連 規模 (総資産 約3.80兆円, 2021-03) — https://ja.wikipedia.org/wiki/北海道信用農業協同組合連合会",
+      "高知県信連 規模 (貯金残高 約8,711億円, 2022-03) — https://ja.wikipedia.org/wiki/高知県信用農業協同組合連合会"
     ]
   },
   "summary": "This entry sits under JapanFG index as the prefectural credit-federation layer of the JA Bank system, sitting between local JA (497 cooperatives) and the national central institution 農林中央金庫. Read with JF 信漁連 for the fishery-side equivalent and cooperative banking domain for the wider context.",
@@ -52,7 +55,7 @@
     "信連数の推移 ^[extracted]",
     "重要年表 ^[extracted]",
     "4 大機能 ^[extracted]",
-    "信連の規模感 ^[ambiguous]",
+    "信連の規模感",
     "JA Bank system 内の位置付け"
   ],
   "body_links": {
@@ -89,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4230,
-    "word_like_tokens": 645,
+    "nonspace_chars": 4793,
+    "word_like_tokens": 765,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }

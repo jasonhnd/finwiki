@@ -13,6 +13,7 @@ sources:
   - "Wikipedia: 株式会社群馬銀行 (2026-05-19 抽出)"
   - 群馬銀行 公式 IR / 中期経営計画 (公開資料)
   - TSUBASA アライアンス 公式 (公開資料)
+  - "Wikipedia: ぐんまみらい信用組合 (https://ja.wikipedia.org/wiki/ぐんまみらい信用組合, 2026-05-30 確認)"
 ---
 
 # 群馬銀行 (The Gunma Bank, Ltd.)
@@ -109,7 +110,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 競合 | 特徴 |
 |---|---|
 | **[[towa-bank]]** 東和銀行 | 群馬県内 第 2 地銀・前橋市本店、単独銀行体制、群馬銀行の県内最大競合 |
-| **群馬みらいクレジット** | 信金（旧 群馬みらいシステム → 改称推測）^[ambiguous]、小口・地域密着 |
+| **ぐんまみらい信用組合** | 信用組合（2012-11 かみつけ信用組合 + 東群馬信用組合 合併で発足、高崎市本店）、小口・地域密着 |
 | **[[mebuki-fg]] 足利銀行** | 栃木県地盤だが 群馬東部 / 埼玉北部で 営業競合、めぶき FG 持株会社体制 |
 | **武蔵野銀行** | 埼玉県地盤、群馬銀行の埼玉北部進出と競合 |
 | **メガ 3 行** | 大口法人・上場企業向けでは [[mufg]] / [[smfg]] / [[mizuho-fg]] と競合 |
@@ -136,6 +137,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - 群馬銀行 公式 IR（中期経営計画・有価証券報告書）公開資料
 - TSUBASA アライアンス 公式
 - 全国地方銀行協会 加盟行リスト
+- **Wikipedia: ぐんまみらい信用組合**（https://ja.wikipedia.org/wiki/ぐんまみらい信用組合, 2026-05-30 確認 — 県内競合の信用組合の正式名称・業態・合併沿革）
 
 ---
 

@@ -22,6 +22,9 @@ sources:
   - "https://www.nochubank.or.jp/about/features.html"
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
+  - "愛知県信連 規模 (貯金残高 約7.99兆円, 2022-03) — https://ja.wikipedia.org/wiki/愛知県信用農業協同組合連合会"
+  - "北海道信連 規模 (総資産 約3.80兆円, 2021-03) — https://ja.wikipedia.org/wiki/北海道信用農業協同組合連合会"
+  - "高知県信連 規模 (貯金残高 約8,711億円, 2022-03) — https://ja.wikipedia.org/wiki/高知県信用農業協同組合連合会"
 ---
 # JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives)
 
@@ -84,10 +87,10 @@ JA Bank system (3 層構造)
 | **自主運用** | 一部は信連自身で機関投資 (国債・地方債等) |
 | **域内 JA 支援** | 経営指導・流動性供給・システム共同化 |
 
-### 信連の規模感 ^[ambiguous]
+### 信連の規模感
 
-- 大規模信連 (北海道・愛知・福岡等) は **総資産数兆円** クラス
-- 小規模信連 (山陰・四国一部等) は **数千億〜1 兆円** クラス
+- 大規模信連 (北海道・愛知・福岡等) は **総資産数兆円** クラス — 例: 愛知県信連 貯金残高 約 7.99 兆円 (2022-03)、北海道信連 総資産 約 3.80 兆円 (2021-03)、福岡県信連 貯金 2 兆円超
+- 小規模信連 (山陰・四国一部等) は **数千億〜1 兆円** クラス — 例: 高知県信連 貯金残高 約 8,711 億円 (2022-03)
 
 ### JA Bank system 内の位置付け
 
@@ -140,6 +143,8 @@ JA Bank system (3 層構造)
 - **農林中央金庫 特徴 (2025-04-01 時点層別人数)**: https://www.nochubank.or.jp/about/features.html
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)
+- **信連の規模感 (大規模信連の例)** — 愛知県信連 貯金残高 約 7.99 兆円 (2022-03): https://ja.wikipedia.org/wiki/愛知県信用農業協同組合連合会 / 北海道信連 総資産 約 3.80 兆円 (2021-03): https://ja.wikipedia.org/wiki/北海道信用農業協同組合連合会
+- **信連の規模感 (小規模信連の例)** — 高知県信連 貯金残高 約 8,711 億円 (2022-03): https://ja.wikipedia.org/wiki/高知県信用農業協同組合連合会
 
 ---
 

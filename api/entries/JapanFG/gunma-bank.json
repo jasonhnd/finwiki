@@ -33,7 +33,8 @@
     "sources": [
       "Wikipedia: 株式会社群馬銀行 (2026-05-19 抽出)",
       "群馬銀行 公式 IR / 中期経営計画 (公開資料)",
-      "TSUBASA アライアンス 公式 (公開資料)"
+      "TSUBASA アライアンス 公式 (公開資料)",
+      "Wikipedia: ぐんまみらい信用組合 (https://ja.wikipedia.org/wiki/ぐんまみらい信用組合, 2026-05-30 確認)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 千葉銀行 (Chiba Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -79,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3624,
-    "word_like_tokens": 516,
+    "nonspace_chars": 3814,
+    "word_like_tokens": 543,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }
