@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 58 |
+| Changed or new entries in current worktree | 0 |
 
 ## Wiki Linking Standard
 
@@ -31,64 +31,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/boj.md` | `A` | 17 | ok |
-| `JapanFG/dic.md` | `A` | 16 | ok |
-| `JapanFG/fsa.md` | `A` | 28 | ok |
-| `JapanFG/japan-post-holdings.md` | `A` | 35 | ok |
-| `JapanFG/jcr.md` | `A` | 13 | ok |
-| `JapanFG/mufg-securities.md` | `A` | 26 | ok |
-| `JapanFG/rating-and-investment.md` | `A` | 12 | ok |
-| `JapanFG/seimei-hokensha-hogo-kiko.md` | `A` | 35 | ok |
-| `JapanFG/smbc.md` | `A` | 32 | ok |
-| `JapanFG/sonpo-hosho-kiko.md` | `A` | 24 | ok |
-| `INDEX.md` | `M` | 30 | ok |
-| `JapanFG/INDEX.md` | `M` | 1402 | ok |
-| `JapanFG/aeon-financial-service-detail.md` | `M` | 16 | ok |
-| `JapanFG/aichi-shogin-shinkumi.md` | `M` | 18 | ok |
-| `JapanFG/dock-financial.md` | `M` | 29 | ok |
-| `JapanFG/fukuoka-ken-shinkumi.md` | `M` | 25 | ok |
-| `JapanFG/hokkaido-lease.md` | `M` | 14 | ok |
-| `JapanFG/hokkoku-fhd.md` | `M` | 18 | ok |
-| `JapanFG/itochu-corp.md` | `M` | 36 | ok |
-| `JapanFG/itochu-finance.md` | `M` | 29 | ok |
-| `JapanFG/jr-east-financial.md` | `M` | 31 | ok |
-| `JapanFG/kanematsu-leasing.md` | `M` | 15 | ok |
-| `JapanFG/kitakyushu-shinkin.md` | `M` | 33 | ok |
-| `JapanFG/marubeni-financial-services.md` | `M` | 34 | ok |
-| `JapanFG/missing-financial-institutions-backlog.md` | `M` | 309 | ok |
-| `JapanFG/mitsubishi-corp-asset-management.md` | `M` | 26 | ok |
-| `JapanFG/mitsubishi-corp-finance.md` | `M` | 34 | ok |
-| `JapanFG/mitsui-bussan-financial-services.md` | `M` | 31 | ok |
-| `JapanFG/mizuho-trust-bank-detail.md` | `M` | 26 | ok |
-| `JapanFG/nomura-trust-bank.md` | `M` | 24 | ok |
-| `JapanFG/sapporo-chuo-shinkumi.md` | `M` | 21 | ok |
-| `JapanFG/sojitz-finance.md` | `M` | 34 | ok |
-| `JapanFG/sumitomo-corp-financial-management.md` | `M` | 38 | ok |
-| `JapanFG/sumitomo-mitsui-auto-service.md` | `M` | 42 | ok |
-| `JapanFG/toyota-tsusho-finance.md` | `M` | 34 | ok |
-| `agent-economy/ai-agent-payment-protocols-overview.md` | `M` | 7 | ok |
-| `agent-economy/claude-code-extension-architecture.md` | `M` | 7 | ok |
-| `banking/INDEX.md` | `M` | 174 | ok |
-| `banking/quick-deposit-four-methods.md` | `M` | 6 | ok |
-| `business/gmo-internet-group.md` | `M` | 22 | ok |
-| `business/japan-listed-corp-strategic-restructuring-matrix.md` | `M` | 54 | ok |
-| `exchanges/INDEX.md` | `M` | 184 | ok |
-| `exchanges/global-institutional-custody-five-pillars.md` | `M` | 10 | ok |
-| `finance/multi-jurisdiction-identity-tax-leverage.md` | `M` | 4 | ok |
-| `fintech/INDEX.md` | `M` | 154 | ok |
-| `fintech/stablecoin-crossborder-b2b-growth.md` | `M` | 9 | ok |
-| `insurance/bancassurance-economics-japan.md` | `M` | 66 | ok |
-| `insurance/cooperative-insurance-system-japan.md` | `M` | 24 | ok |
-| `insurance/ja-kyosai-zenkyoren-overview.md` | `M` | 29 | ok |
-| `insurance/kampo-japan-post-insurance.md` | `M` | 31 | ok |
-| `insurance/medical-cancer-insurance-product-economics.md` | `M` | 43 | ok |
-| `loyalty/jre-point-and-jre-bank-ecosystem.md` | `M` | 31 | ok |
-| `manufacturing/INDEX.md` | `M` | 4 | ok |
-| `real-estate-finance/INDEX.md` | `M` | 17 | ok |
-| `securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md` | `M` | 45 | ok |
-| `systems/INDEX.md` | `M` | 76 | ok |
-| `trade/jetro-members-gateway-model.md` | `M` | 8 | ok |
-| `trade/jetro-organization-structure.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 

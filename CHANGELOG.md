@@ -29,6 +29,31 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-05-29
+
+### 公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）
+
+#### 日本語記録
+
+- **背景**: README.md / index.html の公開計数が実コーパスから乖離していた（2026-05-25 スナップショット以降の i18n 作業で字数・token が変動）。新設の発布オーケストレータ `tools/release.py --write` による初回の再同期。
+- **操作**: link 監査ゲート（0 issue）通過後、AI discovery 面（llms.txt / llms-full.txt / ai-index.json / sitemap.xml / api/entries）と footer timestamp を再生成し、README 三言語表 + index.html の meta / OG / Twitter / JSON-LD / hero を canonical 計数へ冪等同期。
+- **数値スナップショット**: 非空白 UTF-8 文字 約10,427,096 → **10,516,325**（約1043万 → 1052万字）、word-like tokens 約2,520,000 → **1,660,986**（約252万 → 166万、現行 tooling の算出値に整合）。Markdown files 1449 / link-audited entries 1411 / domains 23 は不変。
+- **検証**: `wiki_link_audit.py` 1411 entries / **0 issues**、全 JSON 解析 OK、working tree LF 統一（CRLF 0）。
+
+#### English record
+
+- **Context**: README.md / index.html public counts had drifted from the live corpus (char/token totals shifted after the i18n work since the 2026-05-25 snapshot). First production run of the new release orchestrator `tools/release.py --write` to resync.
+- **Actions**: After the link-audit gate passed (0 issues), regenerated the AI-discovery surface (llms.txt / llms-full.txt / ai-index.json / sitemap.xml / api/entries) and the footer timestamp, then idempotently synced the README trilingual tables + index.html meta / OG / Twitter / JSON-LD / hero to the canonical counts.
+- **Snapshot**: non-space UTF-8 chars ~10,427,096 → **10,516,325**; word-like tokens ~2.52M → **1.66M** (now matches the current tooling's computation). Markdown files 1449 / link-audited entries 1411 / domains 23 unchanged.
+- **Validation**: `wiki_link_audit.py` 1411 entries / **0 issues**, all JSON parses, LF endings across the working tree (0 CRLF).
+
+#### 中文记录
+
+- **背景**: README.md / index.html 的公开计数与实际语料脱节（2026-05-25 快照后的 i18n 工作改变了字数/token）。新发布编排器 `tools/release.py --write` 的首次实跑同步。
+- **操作**: 链接审计闸门（0 issue）通过后，重生成 AI discovery 面（llms.txt / llms-full.txt / ai-index.json / sitemap.xml / api/entries）与 footer 时间戳，并将 README 三语表 + index.html 的 meta / OG / Twitter / JSON-LD / hero 幂等同步到 canonical 计数。
+- **数值快照**: 非空白 UTF-8 字符 约10,427,096 → **10,516,325**（约1043万 → 1052万字）；word-like tokens 约252万 → **166万**（与当前 tooling 计算值对齐）。Markdown files 1449 / link-audited entries 1411 / domains 23 不变。
+- **验证**: `wiki_link_audit.py` 1411 entries / **0 issues**，全部 JSON 可解析，working tree 全 LF（0 CRLF）。
+
 ## 2026-05-25
 
 ### Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写

@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-26T20:29:51+09:00",
+  "generated_at": "2026-05-29T09:42:23+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10519027,
-    "word_like_tokens": 1661453
+    "nonspace_utf8_chars": 10516325,
+    "word_like_tokens": 1660986
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -1952,7 +1952,7 @@
       "markdown_links": [],
       "nonspace_chars": 96155,
       "word_like_tokens": 14288,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "JapanFG/acom-co-detail.md",
@@ -34499,7 +34499,7 @@
       ],
       "nonspace_chars": 23016,
       "word_like_tokens": 3473,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "SCHEMA.md",
@@ -45450,7 +45450,7 @@
       "markdown_links": [],
       "nonspace_chars": 2989,
       "word_like_tokens": 488,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/fsa-business-improvement-orders-history.md",
@@ -51166,7 +51166,7 @@
       "markdown_links": [],
       "nonspace_chars": 2916,
       "word_like_tokens": 432,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/jp-vasp-regulatory-timeline.md",
@@ -51207,7 +51207,7 @@
       "markdown_links": [],
       "nonspace_chars": 1835,
       "word_like_tokens": 286,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/jp-vasp-security-audit-certification.md",
@@ -51336,7 +51336,7 @@
       "markdown_links": [],
       "nonspace_chars": 2103,
       "word_like_tokens": 303,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/jvcea-spot-volume-statistics-analysis.md",
@@ -51943,7 +51943,7 @@
       "markdown_links": [],
       "nonspace_chars": 2483,
       "word_like_tokens": 370,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/taiwan-fsc-vasp-licensing-overview.md",
@@ -52077,7 +52077,7 @@
       "markdown_links": [],
       "nonspace_chars": 2255,
       "word_like_tokens": 362,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/us-crypto-licensing-multi-layer-system.md",
@@ -52123,7 +52123,7 @@
       "markdown_links": [],
       "nonspace_chars": 2407,
       "word_like_tokens": 380,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "exchanges/ve33-governance-mechanism.md",
@@ -57480,7 +57480,7 @@
       "markdown_links": [],
       "nonspace_chars": 1509,
       "word_like_tokens": 225,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "fintech/gray-market-dollar-network-formalization.md",
@@ -58319,7 +58319,7 @@
       "markdown_links": [],
       "nonspace_chars": 1933,
       "word_like_tokens": 273,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "fintech/japan-listed-company-disclosure-monitoring.md",
@@ -58358,7 +58358,7 @@
       "markdown_links": [],
       "nonspace_chars": 3440,
       "word_like_tokens": 549,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "fintech/japan-stablecoin-2026-event-tracker.md",
@@ -58499,7 +58499,7 @@
       "markdown_links": [],
       "nonspace_chars": 2479,
       "word_like_tokens": 370,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "fintech/jp-stablecoin-dcjpy.md",
@@ -60860,7 +60860,7 @@
       "markdown_links": [],
       "nonspace_chars": 2088,
       "word_like_tokens": 341,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-05-28"
     },
     {
       "source_path": "fintech/stablecoin-issuer-2025-2026-market-consolidation.md",
@@ -84550,9 +84550,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4672,
-      "word_like_tokens": 841,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 1970,
+      "word_like_tokens": 374,
+      "last_modified": "2026-05-29"
     }
   ]
 }
