@@ -32,7 +32,9 @@
     "sources": [
       "Wikipedia: 株式会社ローソン銀行 (2026-05-19 抽出)",
       "Wikipedia: 株式会社ローソン (2026-05-19 抽出)",
-      "ローソン銀行 公式 IR (https://www.lawsonbank.jp/)"
+      "ローソン銀行 公式 IR (https://www.lawsonbank.jp/)",
+      "ローソン銀行公式「数字でわかるローソン銀行」ATM 設置台数 13,889 台 (2025-03末, https://www.lawsonbank.jp/about/intro/data/data_0001.html)",
+      "セブン銀行公式  ATM 設置台数 27,990 台 (2025-03末, https://www.sevenbank.co.jp/)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -80,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2749,
-    "word_like_tokens": 467,
+    "nonspace_chars": 3154,
+    "word_like_tokens": 549,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

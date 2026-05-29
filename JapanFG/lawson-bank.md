@@ -13,6 +13,8 @@ sources:
   - "Wikipedia: 株式会社ローソン銀行 (2026-05-19 抽出)"
   - "Wikipedia: 株式会社ローソン (2026-05-19 抽出)"
   - ローソン銀行 公式 IR (https://www.lawsonbank.jp/)
+  - "ローソン銀行公式「数字でわかるローソン銀行」ATM 設置台数 13,889 台 (2025-03末, https://www.lawsonbank.jp/about/intro/data/data_0001.html)"
+  - "セブン銀行公式  ATM 設置台数 27,990 台 (2025-03末, https://www.sevenbank.co.jp/)"
 ---
 
 # ローソン銀行 (Lawson Bank)
@@ -23,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-コンビニ ATM 特化型の新興リテール銀行。**2017-11-15 設立 / 2018-10-15 開業** ^[extracted]。親会社 株式会社ローソンが 2024-09 に **三菱商事 + KDDI 50:50 共同保有 JV** 体制へ移行し上場廃止 → ローソン銀行も間接的に **三菱商事系列 + KDDI au 経済圏** 二重所属の様相に。先行する [[seven-bank]]（セブン銀行モデル）を追随する後発組で、ATM 設置数は**約 13,000 台** ^[ambiguous]（ローソン店舗中心）。コンビニ ATM 三強（[[seven-bank]] / Lawson Bank / E-net）の一角。 ^[extracted]
+コンビニ ATM 特化型の新興リテール銀行。**2017-11-15 設立 / 2018-10-15 開業** ^[extracted]。親会社 株式会社ローソンが 2024-09 に **三菱商事 + KDDI 50:50 共同保有 JV** 体制へ移行し上場廃止 → ローソン銀行も間接的に **三菱商事系列 + KDDI au 経済圏** 二重所属の様相に。先行する [[seven-bank]]（セブン銀行モデル）を追随する後発組で、ATM 設置数は**13,889 台**（2025-03 末、公式「数字でわかるローソン銀行」）。コンビニ ATM 三強（[[seven-bank]] / Lawson Bank / E-net）の一角。 ^[extracted]
 
 ## 1. 会社概要
 
@@ -47,19 +49,19 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|
-| **ATM 業務（コア）** | 全国ローソン店舗 ATM 約 13,000 台 ^[ambiguous] | コンビニ ATM 手数料収入が収益源（[[seven-bank]] モデル踏襲）|
+| **ATM 業務（コア）** | 全国ローソン店舗 ATM 13,889 台（2025-03 末）| コンビニ ATM 手数料収入が収益源（[[seven-bank]] モデル踏襲）|
 | 提携金融機関 | 邦銀大手・地銀・ネット銀行多数 | ATM 提携手数料モデル |
 
 ### コンビニ ATM 三強構造
 
 - **[[seven-bank]]**（セブン銀行、東証 PRIME 8410）— ATM 設置数最大・先行者・収益性最強モデル
-- **Lawson Bank** — ATM 約 13,000 台、後発で追随戦略 ^[ambiguous]
+- **Lawson Bank** — ATM 13,889 台（2025-03 末）、後発で追随戦略
 
 ### KDDI au 経済圏統合可能性
 
-2024-09 の親会社 ローソン JV 化（三菱商事 + KDDI 50:50）以降の戦略軸：
+2024-09 の親会社 ローソン JV 化（三菱商事 + KDDI 50:50）以降の戦略軸が論点。
 
-- **MUFG との関係**：1990 年代の旧 三菱東京 UFJ 銀行 ATM 委託歴史 + 三菱商事筆頭株主の三菱グループ系列性で、[[mufg]] との間接連携余地 ^[ambiguous]
+> 注：[[mufg]] との間接連携余地など将来の連携シナリオに関する推測は `.opinions/JapanFG/lawson-bank.md` に隔離（検証可能な一次情報なし）。
 
 ### vs セブン銀行（[[seven-bank]]）
 
@@ -67,7 +69,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|---|
 | 設立 | 2001-04 | 2017-11 |
 | 開業 | 2001-05 | 2018-10 |
-| ATM 設置数 | 約 27,000 台超 ^[ambiguous] | 約 13,000 台 ^[ambiguous] |
+| ATM 設置数 | 27,990 台（2025-03 末）| 13,889 台（2025-03 末）|
 | 親会社 | セブン&アイ HD（上場）| ローソン（非上場・三菱商事+KDDI JV）|
 | 上場 | 東証 PRIME 8410 | 非上場 |
 
@@ -75,8 +77,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - **主管**：金融庁（FSA）
 - **業態**：普通銀行（コンビニ ATM 特化）
-- **直近政策論点**：
-  - 通信・小売・金融の業界横断的所有構造に対する規制当局の関心 ^[ambiguous]
+
+> 注：通信・小売・金融の業界横断的所有構造に対する規制当局の関心など政策論点に関する推測は `.opinions/JapanFG/lawson-bank.md` に隔離（検証可能な一次情報なし）。
 
 ## Related
 
@@ -91,8 +93,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: 株式会社ローソン銀行**（https://ja.wikipedia.org/wiki/株式会社ローソン銀行, 2026-05-19 抽出）
 - **Wikipedia: 株式会社ローソン**（2024-09 三菱商事 + KDDI JV 化記述、2026-05-19 抽出）
 - ローソン銀行 公式サイト・IR（https://www.lawsonbank.jp/）
+- **ローソン銀行公式「数字でわかるローソン銀行」**：ATM 設置台数 13,889 台（2025-03 末、https://www.lawsonbank.jp/about/intro/data/data_0001.html）
+- **セブン銀行公式**：国内 ATM 設置台数 27,990 台（2025-03 末、https://www.sevenbank.co.jp/）
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.0 Wikipedia + 公開 IR ベース、2026-05-19）。重要日付（2017-11 設立 / 2018-10 開業 / 2024-09 親会社 JV 化）は公開ソース確認済み。ATM 設置数 約 13,000 台、提携金融機関数、au PAY 連携深度などは公開資料による概数・推定が混在 — 一次 IR 資料での裏取り推奨。
+> confidence: **likely**（v1.0 Wikipedia + 公開 IR ベース、2026-05-19）。重要日付（2017-11 設立 / 2018-10 開業 / 2024-09 親会社 JV 化）は公開ソース確認済み。ATM 設置数は公式「数字でわかるローソン銀行」で 13,889 台（2025-03 末）を確認済み。提携金融機関数・au PAY 連携深度などは引き続き一次 IR 資料での裏取り推奨。

@@ -18,11 +18,16 @@ tags: [payments, code-payment, QR-payment, wallets, market-share, matrix, Japan,
 status: active
 sources:
   - "https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html"
+  - "https://www.meti.go.jp/press/2024/03/20250331005/20250331005.html"
   - "https://www.meti.go.jp/policy/mono_info_service/cashless/index.html"
   - "https://paymentsjapan.or.jp/category/publications/"
   - "https://paymentsjapan.or.jp/publications/code-payments-20260330/"
   - "https://about.paypay.ne.jp/corp/"
   - "https://about.paypay.ne.jp/news/"
+  - "https://about.paypay.ne.jp/en/pr/20250715/01/"
+  - "https://about.paypay.ne.jp/en/pr/20210819/02/"
+  - "https://prtimes.jp/main/html/rd/p/000000007.000144861.html"
+  - "https://www.au.com/information/topic/auwallet/2025-011/"
   - "https://corp.rakuten.co.jp/investors/"
   - "https://corp.rakuten.co.jp/news/"
   - "https://www.nttdocomo.co.jp/info/news_release/"
@@ -57,12 +62,12 @@ Three claims commonly muddle code-payment analysis. First, **"PayPay won"** — 
 | **Parent group** | SoftBank Group + Z Holdings / LY Corporation; [[JapanFG/paypay-fg\|PayPay FG]] umbrella | Rakuten Group ([[JapanFG/rakuten-fg\|Rakuten FG]]) | NTT Group / NTT docomo (re-consolidated under NTT 2020) | KDDI Group ([[JapanFG/au-fh\|au Financial Holdings]]) | Mercari Inc. ([[JapanFG/mercari-hd\|Mercari HD]]) | 伊藤忠商事 + ファミリーマート (ITOCHU group) | Mizuho Financial Group | Japan Post Group | Seven & i Holdings |
 | **Launch year** | 2018-10 | 2016-10 (Rakuten Pay) | 2018-04 | 2019-04 | 2019-02 | 2019-07 (FamiPay app) | 2019-03 | 2018-05 | 2019-07 (closed 2019-09) |
 | **License / regulatory base** | Prepaid Payment Instrument (EPI; 前払式支払手段) + Funds Transfer Service (資金移動業; PayPay マネー) + acquirer | EPI + Funds Transfer (Rakuten Pay balance) + Rakuten Card acquirer | EPI + Funds Transfer (d-Barai balance) + telecom-billing | EPI + Funds Transfer (au PAY balance) + au PAY Card acquirer | EPI + Funds Transfer (Merpay) + バーチャルカード (issued via JCB) | EPI (FamiPay balance) | EPI | EPI + bank-account linked | EPI (closed) |
-| **2025 registered users** | ~70 million ^[ambiguous] | ~40+ million (Rakuten ID base) ^[ambiguous] | ~52 million d-Barai registered ^[ambiguous] | ~35+ million au PAY ^[ambiguous] | ~20+ million Merpay users ^[ambiguous] | ~17+ million FamiPay app users ^[ambiguous] | ~few million ^[ambiguous] | Low millions ^[ambiguous] | n/a |
-| **2025 MAU / active users** | Largest among Japan code wallets; tens of millions monthly ^[ambiguous] | Strong second tier via Rakuten ecosystem ^[ambiguous] | Strong tier via NTT docomo customer base ^[ambiguous] | Mid-tier via KDDI base ^[ambiguous] | Mid-tier (marketplace-anchored) ^[ambiguous] | Mid-tier (FamiMa retail anchor) ^[ambiguous] | Low ^[ambiguous] | Low ^[ambiguous] | n/a |
-| **2025 TPV (transaction value)** | Trillions of yen; leading share of 16.6T total code-payment value ^[ambiguous] | Hundreds of billions to low-trillion yen ^[ambiguous] | Hundreds of billions to low-trillion yen ^[ambiguous] | Hundreds of billions ^[ambiguous] | Hundreds of billions ^[ambiguous] | Hundreds of billions (FamiMa-channel + broader) ^[ambiguous] | Tens of billions ^[ambiguous] | Single-digit-tens of billions ^[ambiguous] | n/a |
+| **2025 registered users** | ~70 million (2025-07, PayPay) | n.d. (Rakuten Pay user count not disclosed; Rakuten ID base larger) | ~68 million d払い (2025-06, NTT docomo) | ~37 million au PAY (2025-03, KDDI) | ~18.7 million Merpay (2024-12, Mercari) | ~26 million cumulative downloads (2025-06, FamilyMart) | n.d. | n.d. | n/a |
+| **2025 MAU / active users** | n.d. (per-operator MAU not publicly disclosed) | n.d. | n.d. | n.d. | n.d. | n.d. | n.d. | n.d. | n/a |
+| **2025 TPV (transaction value)** | ¥12.5 trillion FY2024 GMV (PayPay); leading share of total code-payment value | n.d. (Rakuten Pay GMV not officially broken out) | ¥3.4 trillion FY2024 (NTT docomo) | n.d. (au PAY GMV not officially broken out) | n.d. (Merpay GMV not officially broken out) | n.d. (FamiPay GMV not officially broken out) | n.d. | n.d. | n/a |
 | **Settlement frequency to merchant** | Configurable: daily / weekly / monthly; small-merchant fast options | Configurable; Rakuten-card anchored monthly typical | Configurable | Configurable | Configurable; Mercari-marketplace internal | T+M typical at FamiMa internal; configurable for external | Bank-rail next-day options | Bank-rail | n/a |
-| **Merchant fee structure** | Initially zero-fee promo (2018-2021); now per-transaction MDR with tiered pricing (~1.6-1.98% range) ^[ambiguous] | Tiered MDR; Rakuten-ecosystem merchants get preferred terms | Tiered MDR; docomo-channel merchants get preferred terms | Tiered MDR; KDDI-channel merchants | Tiered MDR | Tiered MDR; FamiMa-internal rates differ from external | Bank-rail rates | Bank-rail rates | n/a |
-| **Merchant acceptance breadth** | Largest Japan code-payment merchant footprint (~4 million stores ^[ambiguous]) | Broad — Rakuten ecosystem + general | Broad — docomo channel + general | Mid-broad — KDDI channel + general | Mid — marketplace anchored + general via Netstars | Largest FamiMa retail anchor + external expansion | Limited | Limited | n/a |
+| **Merchant fee structure** | Initially zero-fee promo (2018-2021); per-transaction MDR 1.60% (with PayPay マイストア ライトプラン) or 1.98% standard, from 2021-10 | Tiered MDR; Rakuten-ecosystem merchants get preferred terms | Tiered MDR; docomo-channel merchants get preferred terms | Tiered MDR; KDDI-channel merchants | Tiered MDR | Tiered MDR; FamiMa-internal rates differ from external | Bank-rail rates | Bank-rail rates | n/a |
+| **Merchant acceptance breadth** | Largest Japan code-payment merchant footprint (10 million+ merchant locations, 2025, PayPay) | Broad — Rakuten ecosystem + general | Broad — docomo channel + general | Mid-broad — KDDI channel + general | Mid — marketplace anchored + general via Netstars | Largest FamiMa retail anchor + external expansion | Limited | Limited | n/a |
 | **Deposit / funding source** | PayPay マネー (Funds Transfer balance, withdrawable) + PayPay マネーライト (prepaid, non-withdrawable) + linked credit cards + bank account | Rakuten Cash (prepaid) + Rakuten Card + bank account | d-Barai balance + telecom-billing add to monthly bill + linked credit cards / bank account | au PAY balance + bank account + au PAY Card | Merpay balance (marketplace sales proceeds) + バーチャル credit (Merpay Smart Pay) + bank account | FamiPay balance (prepaid) + bank account + FamiMa T-card | J-Coin Pay balance + Mizuho bank account direct | ゆうちょ銀行 account direct | Seven Bank linkage |
 | **Bank attachment** | PayPay Bank (former JNB; majority-owned via SoftBank, mass-renamed 2021) | Rakuten Bank (Rakuten group bank) | docomo-Mizuho cooperation (no direct docomo bank) | au Jibun Bank (KDDI-MUFG JV bank, [[JapanFG/au-fh\|au FH]]) | Mercari Bank (planned; banking license ambition) | UFJ-cooperation (no FamiMa bank) | Mizuho Bank direct | Japan Post Bank direct | Seven Bank-affiliated |
 | **Point integration** | PayPay ポイント (own) + Yahoo! Japan ポイント convergence; broad earn-redeem at PayPay merchants | Rakuten ポイント (best-established in Japan); broad earn-redeem across Rakuten ecosystem + Rakuten Pay merchants | dポイント (NTT docomo); broad earn-redeem; integration with dカード | Ponta ポイント (via KDDI-Ponta partnership); WAON-adjacent | メルカリ ポイント; marketplace-internal mostly | FamiPay ポイント; FamiMa-internal + adjacent | n/a | n/a | n/a |
@@ -123,15 +128,15 @@ J-Coin Pay's distinctive position: **bank-anchored consortium product**. The TPV
 
 ## Verifiable 2025 market-size data points
 
-The following figures are sourced from METI's 2025 cashless-payment release and Cashless Promotion Council publications. These are the most defensible aggregate numbers; per-operator TPV / MAU figures vary by reporting period and disclosure surface, so per-operator numbers in the main matrix above carry `^[ambiguous]` hedges.
+The following figures are sourced from METI's 2025 cashless-payment release and Cashless Promotion Council publications. These are the most defensible aggregate numbers; per-operator TPV / MAU figures vary by reporting period and disclosure surface, so per-operator numbers in the main matrix above are shown only where an official operator disclosure exists and marked `n.d.` (データ未公開) where the operator does not break the figure out.
 
 | Metric (2025) | Value | Source |
 |---|---|---|
 | Overall cashless ratio | 58.0% | METI 2025-03 release |
-| Total cashless payment value | ~163 trillion yen ^[ambiguous] | METI 2025-03 release |
+| Total cashless payment value | ¥141.0 trillion (2024) | METI 2025-03 release |
 | Code-payment value | 16.6 trillion yen | METI 2025-03 release |
 | Code-payment share of cashless | 10.2% | METI 2025-03 release |
-| Code-payment value growth (YoY 2024 → 2025) | High double-digit % ^[ambiguous] | Cashless Promotion Council quarterly survey |
+| Code-payment value growth (YoY 2023 → 2024) | +23.9% | METI 2025-03 release |
 | Code-payment merchant locations (estimated) | Several million across major wallets | Cashless Promotion Council survey |
 | Largest single code-payment operator (by TPV) | PayPay | METI / CPC consistent |
 
@@ -230,7 +235,12 @@ Many merchants accept multiple code-payment wallets simultaneously via PSP / agg
 ## Sources
 
 - METI 2025 cashless payment ratio release: https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
+- METI 2024 cashless payment ratio release (42.8% / ¥141.0tn / コード決済 ¥13.5tn 9.6% / +23.9% YoY): https://www.meti.go.jp/press/2024/03/20250331005/20250331005.html
 - METI cashless policy portal: https://www.meti.go.jp/policy/mono_info_service/cashless/index.html
+- PayPay 70M registered users / FY2024 GMV ¥12.5tn / 7.8bn+ transactions / ~2/3 code-payment share (2025-07-15 PR): https://about.paypay.ne.jp/en/pr/20250715/01/
+- PayPay merchant fee 1.60% / 1.98% from 2021-10 (2021-08-19 PR): https://about.paypay.ne.jp/en/pr/20210819/02/
+- NTT docomo d払い ~68M users (2025-06末 disclosure, オリコン PR): https://prtimes.jp/main/html/rd/p/000000007.000144861.html
+- KDDI / au PAY ~37M members (2025-03): https://www.au.com/information/topic/auwallet/2025-011/
 - Cashless Promotion Council publications: https://paymentsjapan.or.jp/category/publications/
 - Cashless Promotion Council code-payment trend survey: https://paymentsjapan.or.jp/publications/code-payments-20260330/
 - PayPay corporate: https://about.paypay.ne.jp/corp/

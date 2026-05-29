@@ -17,6 +17,8 @@ sources:
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
+  - "https://www.iryoushin.com/"
+  - "https://ja.wikipedia.org/wiki/愛知県医療信用組合"
   - "中小企業等協同組合法"
 ---
 # 愛知県医療信用組合 (Aichi Medical Credit Cooperative)
@@ -27,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 
 ## TL;DR
 
-愛知県医療信用組合は、愛知県名古屋市中区丸の内 (愛知県歯科医師会館 6 階) に本店を置く **医療従事者 (医師・看護師・薬剤師・医療技術者 + 医療機関職員) を組合員とする業域型信用組合**。FSA registry No. 79 (東海財務局所管)、法人番号 6180005003438。同じ愛知県内に [[JapanFG/aichi-ishi-shinkumi|愛知県医師信用組合]] (registry No. 78, 医師限定) が並存するが、本信組は **より広範な医療従事者全般**を組合員基盤とする。[[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[JapanFG/dic|預金保険機構]] 対象。医療機関職員向けの **住宅ローン・開業資金・医療機器ローン**等が事業の中核。^[extracted]
+愛知県医療信用組合は、愛知県名古屋市中区丸の内 (愛知県歯科医師会館 6 階) に本店を置く **歯科医師を組合員とする業域型信用組合** (公式サイトで「歯科医の歯科医による歯科医のための組合」と明記)。FSA registry No. 79 (東海財務局所管)、法人番号 6180005003438。1962 年に愛知県歯科医師会員向けに設立され、2015 年に岐阜県・三重県の歯科医師会員へ地区を拡大。同じ愛知県内に [[JapanFG/aichi-ishi-shinkumi|愛知県医師信用組合]] (registry No. 78, 医師対象) が並存し、両者は **歯科医師 / 医師**で棲み分ける。[[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[JapanFG/dic|預金保険機構]] 対象。組合員 (歯科医師) 向けの **住宅ローン・開業資金・医療機器ローン**等が事業の中核。^[extracted]
 
 ## 1. 法人概要
 
@@ -35,6 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 |---|---|
 | 正式名 | 愛知県医療信用組合 |
 | 通称 | 医療信組 / 県医療信組 |
+| 設立 | 1962-09 (愛知県歯科医師会員向けに設立、2015 年に岐阜・三重へ地区拡大) |
 | 法人番号 | **6180005003438** ^[extracted FSA registry] |
 | FSA registry No. | **79** (東海財務局) |
 | 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
@@ -42,13 +45,15 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 | 系統 | [[JapanFG/zenshin-kumi|全信組連]] 会員 |
 | 監督官庁 | 金融庁・東海財務局 |
 | 預金保険 | [[JapanFG/dic|預金保険機構]] 対象 |
-| ホームマーケット | 愛知県内医療従事者 + 医療機関職員 |
-| 信組類型 | **業域信用組合** (医療業域) |
+| ホームマーケット | 愛知・岐阜・三重の歯科医師 (各県歯科医師会員) |
+| 信組類型 | **業域信用組合** (歯科医師業域) |
 
 ### 組合員資格 ^[extracted]
 
-業域信組のため、組合員資格は **医療業域限定**:
+業域信組のため、組合員資格は **歯科医師業域限定**:
 
+1. **基本要件**: 愛知県・岐阜県・三重県の歯科医師会員 (歯科医師)
+2. **医療機関**: 上記歯科医師が開設・勤務する歯科医院等
 3. **退職者**: 上記から退職した OB / OG (一定期間内継続加入が一般的)
 4. **配偶者・親族**: 組合員の配偶者・同一世帯の家族 (定款による)
 5. **員外利用**: 厳格に制限
@@ -57,8 +62,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 
 | 信組 | 本店 | 組合員 | registry No. |
 |---|---|---|---|
-| 愛知県医師信用組合 | 名古屋市中区栄 | 医師限定 (医師会員) | 78 |
-| **愛知県医療信用組合** ★本ページ | **名古屋市中区丸の内 (歯科医師会館内)** | **医療従事者全般** | **79** |
+| 愛知県医師信用組合 | 名古屋市中区栄 | 医師 (医師会員) | 78 |
+| **愛知県医療信用組合** ★本ページ | **名古屋市中区丸の内 (歯科医師会館内)** | **歯科医師 (歯科医師会員)** | **79** |
 
 ### 全国医療系信組ネットワーク ^[extracted FSA registry 抜粋]
 
@@ -111,16 +116,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 | **医療法人運転資金** | 医療法人向け短期資金 |
 
-## 5. KPI (推定) ^[ambiguous]
+## 5. KPI
 
-| 指標 | 値 | 出典 |
+| 指標 | 値 (2022-03-31 現在) | 出典 |
 |---|---|---|
-| 総資産 | 数百億〜千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
-| 預金残高 | 数百億〜千億円規模 | ^[ambiguous] |
-| 貸出金 | 数百億円規模 (開業資金 + 住宅ローン中心) | ^[ambiguous] |
-| 組合員数 | 数千〜万人台規模 | ^[ambiguous] |
+| 総資産 | 約 120.1 億円 | Wikipedia (ディスクロージャー誌準拠) |
+| 預金残高 | 約 107.2 億円 | 同上 |
+| 貸出金残高 | 約 13.9 億円 | 同上 |
+| 出資金 | 約 0.40 億円 (4,004.9 万円) | 同上 |
+| 従業員数 | 4 人 | 同上 |
+| 店舗数 | 1 店 | 同上 |
 
-> 注: 最新数値は愛知県医療信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
+> 注: 当組合は組合員 (歯科医師) 基盤の小規模業域信組で、貸出金比率が低い (預金の約 13%) のは余資を系統 (全信組連) 預け金中心で運用する構造を反映。組合員数は当組合ディスクロージャー誌を要参照。最新数値は [愛知県医療信組ディスクロージャー](https://www.iryoushin.com/) 参照。
 
 ## 6. 監督・規制
 
@@ -148,6 +155,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 ## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 6180005003438, registry No. 79)
+- **愛知県医療信用組合 公式 (組合員資格・ディスクロージャー)**: https://www.iryoushin.com/
+- **Wikipedia「愛知県医療信用組合」** (財務諸数値 2022-03-31 現在、設立・組合員資格): https://ja.wikipedia.org/wiki/愛知県医療信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -157,4 +166,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (愛知県歯科医師会館内) は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新は愛知県医療信組ディスクロージャー誌を要参照。医療業域信組の代表アンカーとして Wave 13 拡張で追加。愛知県医師信組 (registry No. 78) との詳細関係性 ^[ambiguous] は要追加検証。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (愛知県歯科医師会館内) は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み (組合員数のみ要参照)。愛知県医師信組 (registry No. 78) との関係も出典付与済み — 本組合は **歯科医師** を組合員とする業域信組 (公式サイト・Wikipedia で確認、2015 年に岐阜・三重の歯科医師会員へ地区拡大)、医師信組は **医師** が対象で、両者は歯科医師 / 医師で棲み分ける。医療業域信組の代表アンカーとして Wave 13 拡張で追加。**修正注記**: 当初記載の「医療従事者全般」を組合員基盤とする旨は出典 (公式サイト「歯科医の歯科医による歯科医のための組合」・Wikipedia) と齟齬があり、組合員資格は歯科医師中心に訂正済み。

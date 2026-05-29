@@ -107,3 +107,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 | 沖縄 (直結移行済) | - | 信連解散 |
 
 > confidence: **likely**。本エントリは FinWiki 初の **JA-Bank prefectural credit-federation (信連) operating-company anchor**、東京都信連を都市信連 + 直結方式議論文脈の代表事例として選定 ^[extracted]。都内 JA 8 組合の正確な内訳 ^[inferred] と東信連の詳細 KPI ^[ambiguous] は東京都中央会 + 各 JA + 信連別 IR を要追加検証。直結方式移行論議の東京都での具体的進捗 ^[inferred] も要追加調査。
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## 直結方式 (JA → 農林中金 直結) 議論 (本文「直結方式」節より移設)
+
+- **継続案 vs 直結案**の論争: 県組合員代表性 vs 経営効率 — 検証可能な公開出典が見つからず、論点の枠組み自体が主観的評価のため隔離。東信連の貯金・総資産等の計数は本文 KPI に出典付き記載済み。

@@ -48,3 +48,10 @@ GMO Aozora's "corporate API bank" architecture is **not** the same legal model a
 - How does GMO Aozora's corporate-API architecture coexist or compete with [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin / EPI architectures]] as institutional digital-payment frameworks mature?
 - How does the bank navigate FATF / AML expectations on rapid online corporate-account opening relative to manual-screening peers?
 - What is the long-run strategic destination of the Aozora minority stake — full GMO buyout, perpetual minority, or eventual sell-down to a strategic third party?
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## IPO speculation (press only / no verifiable source) — from JV timeline & KPI shape
+
+- 2024 onward: IPO speculation appears in press; no formal company-level commitment is public. Press speculation about a GMO Aozora listing is not a verifiable corporate fact. ^[ambiguous]
+- "GMO Aozora IPO timeline/likelihood": periodic press reporting only, no formal company commitment — speculation, no verifiable primary source. ^[ambiguous]

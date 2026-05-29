@@ -31,21 +31,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/aeon-bank.md` | `M` | 22 | ok |
-| `JapanFG/aeon-financial-service-detail.md` | `M` | 14 | ok |
-| `JapanFG/au-fh.md` | `M` | 10 | ok |
-| `JapanFG/gmo-aozora-net.md` | `M` | 11 | ok |
-| `JapanFG/gmo-financial-hd.md` | `M` | 42 | ok |
-| `JapanFG/gmo-payment-gateway.md` | `M` | 15 | ok |
-| `JapanFG/iwaki-shinkumi.md` | `M` | 12 | ok |
-| `JapanFG/japan-post-bank.md` | `M` | 22 | ok |
-| `JapanFG/jimoto-hd.md` | `M` | 4 | ok |
-| `JapanFG/ndfg.md` | `M` | 9 | ok |
-| `JapanFG/osaka-shogin-shinkumi.md` | `M` | 16 | ok |
-| `JapanFG/sapporo-chuo-shinkumi.md` | `M` | 13 | ok |
-| `JapanFG/tokyo-shobo-shinkumi.md` | `M` | 11 | ok |
-| `JapanFG/yokohama-kogin-shinkumi.md` | `M` | 11 | ok |
-| `JapanFG/yucho.md` | `M` | 3 | ok |
+| `JapanFG/aichi-iryo-shinkumi.md` | `M` | 11 | ok |
+| `JapanFG/aichi-shogin-shinkumi.md` | `M` | 7 | ok |
+| `JapanFG/bdo-sanyu.md` | `M` | 14 | ok |
+| `JapanFG/fukuoka-ken-shinkumi.md` | `M` | 12 | ok |
+| `JapanFG/hana-shinkumi.md` | `M` | 9 | ok |
+| `JapanFG/ja-bank-tokyo-shinren.md` | `M` | 12 | ok |
+| `JapanFG/lawson-bank.md` | `M` | 10 | ok |
+| `JapanFG/local-govt-finance.md` | `M` | 18 | ok |
+| `JapanFG/wealthnavi.md` | `M` | 13 | ok |
+| `banking/gmo-aozora-net-bank.md` | `M` | 41 | ok |
+| `banking/japan-cooperative-banking-unified-federation-matrix.md` | `M` | 154 | ok |
+| `banking/sony-bank.md` | `M` | 22 | ok |
+| `banking/trust-bank-fee-structure-comparison.md` | `M` | 32 | ok |
+| `payments/japan-code-payment-operator-2025-market-share-matrix.md` | `M` | 70 | ok |
+| `payments/visa-mastercard-amex-jcb-japan-operating-comparison.md` | `M` | 121 | ok |
 
 ## Domain Snapshot
 

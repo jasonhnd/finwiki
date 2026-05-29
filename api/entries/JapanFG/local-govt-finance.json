@@ -32,7 +32,9 @@
     "sources": [
       "Wikipedia: 地方公共団体金融機構 (2026-05-19 抽出)",
       "Wikipedia: 公営企業金融公庫 (2026-05-19 抽出)",
-      "JFM 公式サイト 沿革ページ (2026-05-19 参照)"
+      "JFM 公式サイト 沿革ページ (2026-05-19 参照)",
+      "https://www.jfm.go.jp/ir/rating.html",
+      "https://www.jfm.go.jp/ir/index.html"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -43,7 +45,7 @@
     "1. 法人構造",
     "機関設計 ^[extracted]",
     "業務範囲 ^[extracted]",
-    "融資残高 (概算) ^[ambiguous]",
+    "貸付金残高",
     "公営企業金融公庫時代 (1957-2008)",
     "地方公共団体金融機構時代 (2009-現在)",
     "3. 事業セグメント map"
@@ -76,8 +78,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4549,
-    "word_like_tokens": 561,
+    "nonspace_chars": 4863,
+    "word_like_tokens": 686,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

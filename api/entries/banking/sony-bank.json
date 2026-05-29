@@ -39,7 +39,10 @@
       "https://moneykit.net/visitor/co/disc.html",
       "https://moneykit.net/visitor/sbw/",
       "https://www.sonyfg.co.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://moneykit.net/visitor/fx/ (外貨預金 取扱 12 通貨)",
+      "https://sonybank.jp/corporate/pdf/disclosure2025h.pdf (中間期ディスクロージャー 2025.09.30 預金残高 4兆5,369億円)",
+      "Nikkei: ソニーフィナンシャルグループ スピンオフ上場 2025-09-29 初値205円 (https://www.nikkei.com/article/DGXZQOTG282HO0Y5A920C2000000/)"
     ]
   },
   "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at ソニー銀行 (Sony Bank) entity anchor. Read it inside the net-bank-segment map at Japan net bank competition map, with the parent-group context at Sony Financial Group, and against peers Rakuten Bank · PayPay Ba",
@@ -101,8 +104,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7335,
-    "word_like_tokens": 1167,
+    "nonspace_chars": 8214,
+    "word_like_tokens": 1341,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

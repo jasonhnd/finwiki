@@ -37,13 +37,14 @@
     "status": "active",
     "sources": [
       "https://gmo-aozora.com/",
-      "https://gmo-aozora.com/company/outline.html",
+      "https://gmo-aozora.com/company/outline.html (株主構成: 出資 あおぞら50%/GMO IG25%/GMO FH25%, 議決権 あおぞら85.12%/GMO 7.43%+7.43%)",
       "https://gmo-aozora.com/news/",
       "https://gmo-aozora.com/anshin-wide/",
       "https://gmo-aozora.com/api/",
       "https://www.gmo.jp/",
       "https://www.aozorabank.co.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "Wikipedia: GMOあおぞらネット銀行 (株主構成・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)"
     ]
   },
   "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at GMO あおぞらネット銀行 entity anchor. Read it within the segment map at Japan net bank competition map, against the corporate-API peer 住信SBIネット銀行 / NEOBANK and the consumer-led net-bank cohort Rakuten Bank · PayPay",
@@ -119,8 +120,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10566,
-    "word_like_tokens": 1618,
+    "nonspace_chars": 11469,
+    "word_like_tokens": 1814,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

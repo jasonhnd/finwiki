@@ -17,6 +17,8 @@ sources:
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
+  - "https://kenshin-f.jp/disclosure/"
+  - "https://ja.wikipedia.org/wiki/福岡県信用組合"
   - "中小企業等協同組合法"
 ---
 # 福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)
@@ -93,16 +95,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 | **教育・冠婚葬祭** | 組合員家庭の生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI (推定) ^[ambiguous]
+## 5. KPI
 
-| 指標 | 値 | 出典 |
+| 指標 | 値 (2022-03-31 現在) | 出典 |
 |---|---|---|
-| 総資産 | 数百億〜千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
-| 預金残高 | 数百億〜千億円規模 | ^[ambiguous] |
-| 貸出金 | 数百億円規模 | ^[ambiguous] |
-| 組合員数 | 万人台規模 | ^[ambiguous] |
+| 総資産 | 約 4,750.9 億円 | Wikipedia (ディスクロージャー誌準拠) |
+| 預金残高 | 約 3,273.6 億円 | 同上 |
+| 貸出金残高 | 約 2,520.5 億円 | 同上 |
+| 資本金 | 約 24.4 億円 | 同上 |
+| 従業員数 | 355 人 | 同上 |
+| 店舗数 | 51 店 (2018-12-17 合併時点) | 同上 |
 
-> 注: 最新数値は福岡県信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
+> 注: 福岡県信組は 2018-12-17 に福岡県中央信組・とびうめ信組・福岡県南部信組が合併して発足した福岡県最大の信用組合で、九州では大分県信組に次ぐ預金規模。組合員数は当組合ディスクロージャー誌を要参照。最新数値は [福岡県信組ディスクロージャー](https://kenshin-f.jp/disclosure/) 参照。
 
 ## 6. 監督・規制
 
@@ -131,6 +135,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 ## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 4290005002505, registry No. 128)
+- **福岡県信用組合 ディスクロージャー**: https://kenshin-f.jp/disclosure/
+- **Wikipedia「福岡県信用組合」** (財務諸数値 2022-03-31 現在、ディスクロージャー誌準拠): https://ja.wikipedia.org/wiki/福岡県信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -140,4 +146,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Kyushu 県域型 
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新は福岡県信組ディスクロージャー誌を要参照。Kyushu 県域型信組の代表アンカーとして Wave 13 拡張で追加。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み。組合員数のみ当組合ディスクロージャー誌を要参照。Kyushu 県域型信組の代表アンカーとして Wave 13 拡張で追加。

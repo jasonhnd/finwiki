@@ -40,11 +40,16 @@
     "status": "active",
     "sources": [
       "https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html",
+      "https://www.meti.go.jp/press/2024/03/20250331005/20250331005.html",
       "https://www.meti.go.jp/policy/mono_info_service/cashless/index.html",
       "https://paymentsjapan.or.jp/category/publications/",
       "https://paymentsjapan.or.jp/publications/code-payments-20260330/",
       "https://about.paypay.ne.jp/corp/",
       "https://about.paypay.ne.jp/news/",
+      "https://about.paypay.ne.jp/en/pr/20250715/01/",
+      "https://about.paypay.ne.jp/en/pr/20210819/02/",
+      "https://prtimes.jp/main/html/rd/p/000000007.000144861.html",
+      "https://www.au.com/information/topic/auwallet/2025-011/",
       "https://corp.rakuten.co.jp/investors/",
       "https://corp.rakuten.co.jp/news/",
       "https://www.nttdocomo.co.jp/info/news_release/",
@@ -176,8 +181,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 25762,
-    "word_like_tokens": 4212,
+    "nonspace_chars": 26361,
+    "word_like_tokens": 4393,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-05-29"
   }

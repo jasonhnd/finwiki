@@ -35,6 +35,11 @@ sources:
   - "https://org.ja-group.jp/factbook/"
   - "https://www.dic.go.jp/"
   - "Norinchukin disclosure 2024-2025"
+  - "https://www.nochubank.or.jp/ir/results/"
+  - "https://www.jabank.org/about/jyokyo/"
+  - "https://www.scbri.jp/reports/.assets/finance_20240502.pdf"
+  - "https://www.shinyokumiai.or.jp/credit_cooperative/outline.html"
+  - "https://all.rokin.or.jp/about/accounts.html"
 ---
 
 # Japan cooperative-banking unified federation matrix
@@ -81,7 +86,7 @@ This entry should be read together with the licence-tier matrix [[banking/japan-
 | **BoJ counterparty** | [[JapanFG/norinchukin\|農中]] direct (system clears through 農中) | [[JapanFG/norinchukin\|農中]] direct (shared) | [[JapanFG/shinkin-central\|信金中金]] direct | 全信組連 direct | [[JapanFG/rokin-renraku\|労金連]] direct |
 | **Holding-company route** | None (cooperative-system structure) | None | None | None | None |
 | **Geographic constraint** | Local JA = municipality / region; Shinnoren = prefecture; 農中 = national | Local JF = port / region; Shingyoren = prefecture; 農中 = national | Statutory 営業地区 = municipality / prefecture | Statutory 営業地区 (often industry / community) | 13 regional rokin cover Japan together (no overlap) |
-| **System-level AUM** | [[JapanFG/norinchukin\|農中]] ~¥80-100tn; system-wide JA 貯金 around ¥110tn class ^[ambiguous] | [[JapanFG/norinchukin\|農中]] shared; JF 貯金 considerably smaller scale | [[JapanFG/shinkin-central\|信金中金]] ~¥40-50tn; sector deposits ~¥160tn ^[ambiguous] | 全信組連 smaller scale; sector deposits ~¥20-25tn ^[ambiguous] | [[JapanFG/rokin-renraku\|労金連]] 資金量 ¥6.2tn (2025-03 disclosure); sector deposits ~¥22tn ^[ambiguous] |
+| **System-level AUM** | [[JapanFG/norinchukin\|農中]] ~¥83tn total assets (FY2024); system-wide JA 貯金 ~¥107tn (2025-03, JA Bank) | [[JapanFG/norinchukin\|農中]] shared; JF 貯金 considerably smaller scale | [[JapanFG/shinkin-central\|信金中金]] ~¥48tn (2025-03); sector deposits ~¥161tn (2024-03, 254 shinkin) | 全信組連 smaller scale; sector deposits ~¥24tn (2025-03) | [[JapanFG/rokin-renraku\|労金連]] 資金量 ¥6.2tn (2025-03 disclosure); sector deposits ~¥23tn (FY2024) |
 | **Recent consolidation pattern** | Continuous JA mergers within prefectures; 497 figure has declined from > 1,000 over the past 25 years | JF mergers ongoing; 71 figure has declined from a much larger historical base | 254 down from ~400+ over past 25 years via shinkin-to-shinkin mergers | 143 down from much larger historical base; some inter-cooperative mergers | 13 stable since 1998-2003 regional consolidation pulled the prior 47-prefecture rokin map down to 13 regional rokin |
 | **Non-credit sister federations** | [[JapanFG/ja-zenchu\|JA 全中]] (audit / representative), [[JapanFG/ja-zen-noh\|JA 全農]] (commercial), [[JapanFG/ja-kyosairen\|JA 共済連]] (mutual aid) | [[JapanFG/jf-zengyoren\|JF 全漁連]] (representative / commercial) | Industry body: [[JapanFG/zenshin-kyo\|全国信用金庫協会]] | Industry body: 全国信用組合中央協会 | Industry body: 全国労働金庫協会 |
 
@@ -116,7 +121,7 @@ This entry should be read together with the licence-tier matrix [[banking/japan-
 - **Statute.** 信用金庫法 (Act No. 238 of 1951; comprehensive enforcement 1958).
 - **Supervisor.** FSA + Local Finance Bureau (under FSA's 中小・地域金融機関 supervision guideline Part V on 協同組織金融機関). Not a joint MAFF / MHLW supervision regime — shinkin sit entirely inside the FSA cooperative-finance lane.
 - **Layer count.** 254 licensed shinkin (FSA 信用金庫免許一覧, as of 令和7年11月6日) + 1 [[JapanFG/shinkin-central|信金中央金庫]] central institution. Down from the 1990s peak (~400+) through continuous shinkin-to-shinkin mergers under 信用金庫法 procedures.
-- **Central institution.** [[JapanFG/shinkin-central|信金中央金庫 (Shinkin Central Bank, SCB)]] — 協同組織金融機関 (member-owned by 254 shinkin), not a 特殊法人. Total assets ~¥40-50tn class ^[ambiguous]. Acts as system liquidity pool, system institutional-investor vehicle, BoJ counterparty for the shinkin system, and operator of the Shinkin Cash Service (SCS) ATM network.
+- **Central institution.** [[JapanFG/shinkin-central|信金中央金庫 (Shinkin Central Bank, SCB)]] — 協同組織金融機関 (member-owned by 254 shinkin), not a 特殊法人. Total assets ~¥48tn (2025-03末 disclosure). Acts as system liquidity pool, system institutional-investor vehicle, BoJ counterparty for the shinkin system, and operator of the Shinkin Cash Service (SCS) ATM network.
 - **Member type.** Members must reside, work, or have a business in the shinkin's statutory 営業地区. Local SME and household-finance focus.
 - **Deposit terminology.** 預金 (Banking Act terminology, unlike JA / JF 貯金).
 - **Deposit insurance.** [[JapanFG/yokin-hoken-kiko|DICJ]] — standard banking deposit insurance regime applies.
@@ -158,7 +163,7 @@ This entry should be read together with the licence-tier matrix [[banking/japan-
 | Legal form | 特殊法人 | 協同組織 (member-owned) | 協同組織 | 協同組織 |
 | Founded | 1923 (current law 1986) | 1950 (改組 2000) | Mid-1950s (post-cooperative law) | 1955 |
 | Members | 系統団体出資 (JA Group + JF Group + forestry) | 254 shinkin | 143 shinkumi | 13 rokin |
-| Total assets class | ~¥80-100tn ^[ambiguous] | ~¥40-50tn ^[ambiguous] | Smaller; not publicly broken out at this granularity | ¥6.2tn 資金量 (2025-03) |
+| Total assets class | ~¥83tn (FY2024) | ~¥48tn (2025-03) | Smaller; not publicly broken out at this granularity | ¥6.2tn 資金量 (2025-03) |
 | BoJ counterparty | Direct | Direct | Direct | Direct |
 | Overseas branches | NY / London / Singapore | NY / London | None at this scale | None |
 | Major investment role | Global fixed income / structured credit (high-profile losses 2008, 2024) | Domestic + foreign bonds / equities / alternatives | Smaller; system support focus | System support + member-finance support; smaller investment book |
@@ -178,11 +183,11 @@ The dual-pathway design exists because the agricultural / fisheries cooperative 
 
 | System | Central-institution AUM (approx) | Sector deposits (approx) | Consolidation trajectory |
 |---|---|---|---|
-| JA Bank | [[JapanFG/norinchukin\|農中]] ~¥80-100tn ^[ambiguous] | System-wide 貯金 ~¥110tn class ^[ambiguous] | Local JA: > 1,000 → 497 (continuous merger) |
+| JA Bank | [[JapanFG/norinchukin\|農中]] ~¥83tn (FY2024) | System-wide 貯金 ~¥107tn (2025-03) | Local JA: > 1,000 → 497 (continuous merger) |
 | JF Marine Bank | Shared with JA via [[JapanFG/norinchukin\|農中]] | System-wide 貯金 considerably smaller than JA | Local JF: hundreds → 71 (continuous merger) |
-| 信用金庫 | [[JapanFG/shinkin-central\|信金中金]] ~¥40-50tn ^[ambiguous] | ~¥160tn ^[ambiguous] | 254 (down from ~400+ over 25 years) |
-| 信用組合 | 全信組連 — smaller scale, not publicly broken out at this granularity | ~¥20-25tn ^[ambiguous] | 143 (continuous cooperative-merger pattern) |
-| 労働金庫 | [[JapanFG/rokin-renraku\|労金連]] 資金量 ¥6.2tn (2025-03) | ~¥22tn class ^[ambiguous] | 13 stable since 1998-2003 regional consolidation |
+| 信用金庫 | [[JapanFG/shinkin-central\|信金中金]] ~¥48tn (2025-03) | ~¥161tn (2024-03, 254 shinkin) | 254 (down from ~400+ over 25 years) |
+| 信用組合 | 全信組連 — smaller scale, not publicly broken out at this granularity | ~¥24tn (2025-03) | 143 (continuous cooperative-merger pattern) |
+| 労働金庫 | [[JapanFG/rokin-renraku\|労金連]] 資金量 ¥6.2tn (2025-03) | ~¥23tn (FY2024) | 13 stable since 1998-2003 regional consolidation |
 
 The two largest by both central-institution AUM and sector deposits are JA Bank ([[JapanFG/norinchukin|農中]] + JA 貯金) and shinkin ([[JapanFG/shinkin-central|信金中金]] + sector deposits). The remaining three are materially smaller as system aggregates.
 
@@ -307,3 +312,8 @@ The federation-only BoJ counterparty pattern is the single most important operat
 - JA Group Factbook (org.ja-group.jp).
 - DICJ: Deposit Insurance Corporation of Japan public site.
 - 農水産業協同組合貯金保険機構 (parallel cooperative-finance insurance regime).
+- 農林中央金庫 決算のお知らせ (総資産 ~¥83兆, FY2024): https://www.nochubank.or.jp/ir/results/
+- JAバンク 貯貸金動向 (JA 貯金残高 ~¥107兆, 2025-03末): https://www.jabank.org/about/jyokyo/
+- 信金中金 地域・中小企業研究所 全国信用金庫主要勘定状況 (預金残高 ¥161.1兆, 2024-03末; 信金中金 総資産 ~¥48兆, 2025-03): https://www.scbri.jp/reports/.assets/finance_20240502.pdf
+- 全国信用組合中央協会 信用組合業界概況 (預金積金 ¥23.9兆, 2025-03末): https://www.shinyokumiai.or.jp/credit_cooperative/outline.html
+- 全国労働金庫協会 数字で知るろうきん / 2024年度決算概況 (預金 ¥23.0兆, FY2024): https://all.rokin.or.jp/about/accounts.html

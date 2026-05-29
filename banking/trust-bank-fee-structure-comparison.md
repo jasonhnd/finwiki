@@ -18,12 +18,17 @@ sources:
   - "https://www.shintaku-kyokai.or.jp/trust/trustbanks/"
   - "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf"
   - "https://www.mastertrust.co.jp/"
+  - "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf"
   - "https://www.custody.jp/"
+  - "https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf"
   - "https://www.mufg.jp/dam/ir/financial/index.html"
   - "https://www.smtrust-holdings.co.jp/ir/"
   - "https://www.mizuho-fg.co.jp/investors/index.html"
   - "https://www.bnymellon.com/us/en/investor-relations/financial-reports.html"
   - "https://investors.statestreet.com/"
+  - "https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx"
+  - "https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32024/2024pr-qtr3rslt.pdf"
+  - "https://www.jpmorgan.com/securities-services"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
 ---
 
@@ -35,22 +40,22 @@ This entry sits under [[banking/INDEX|banking index]] and complements the operat
 
 ## TL;DR
 
-Trust-bank fee economics in Japan are dominated by three drivers: AUC-bps pricing on securities custody and 投信受託, pension trust admin fees on long-duration mandates, and real-estate trust fees on the full-service trust-bank side. Granular fee schedules are largely non-public — only aggregate-level inference is possible from shareholder consolidated disclosure and individual 投信 prospectuses (信託約款). Across 6 Japan trust banks (MTBJ, CBJ, MUFG Trust, SMTB, Mizuho Trust, SMBC Trust) and 4 global custodians (BNY Mellon, State Street, Citi, JPM), the structural pricing model is similar — AUC bps + per-transaction fees + revenue-share lending — but the mix and the pricing power differ sharply by client segment. Domestic custody-only specialists (MTBJ, CBJ) anchor low bps on volume; full-service trust banks bundle higher-margin real-estate / pension / inheritance fees with custody; global custodians charge a relative premium for cross-border + ICSD connectivity. The public-visible reading is largely inferential and ambiguous — actual mandate-level pricing is opaque to outside readers. ^[ambiguous]
+Trust-bank fee economics in Japan are dominated by three drivers: AUC-bps pricing on securities custody and 投信受託, pension trust admin fees on long-duration mandates, and real-estate trust fees on the full-service trust-bank side. Granular fee schedules are largely non-public — only aggregate-level inference is possible from shareholder consolidated disclosure and individual 投信 prospectuses (信託約款). Across 6 Japan trust banks (MTBJ, CBJ, MUFG Trust, SMTB, Mizuho Trust, SMBC Trust) and 4 global custodians (BNY Mellon, State Street, Citi, JPM), the structural pricing model is similar — AUC bps + per-transaction fees + revenue-share lending — but the mix and the pricing power differ sharply by client segment. Domestic custody-only specialists (MTBJ, CBJ) anchor low bps on volume; full-service trust banks bundle higher-margin real-estate / pension / inheritance fees with custody; global custodians charge a relative premium for cross-border + ICSD connectivity. Mandate-level pricing is not publicly disclosed; the fee-magnitude detail in this entry is therefore industry-level inference rather than entity-specific fact, and is quarantined to `.opinions/banking/trust-bank-fee-structure-comparison.md`.
 
 ## 1. 機関位置
 
 | Entity | Category | Public AUC anchor | Listing | Granular fee disclosure |
 |---|---|---|---|---|
-| [[JapanFG/master-trust-bank|MTBJ]] | JP custody-only specialist | ~¥700tn+ ^[ambiguous] | Non-listed | None at line-item; aggregated in MUFG / 4-shareholder consolidated | 
-| [[JapanFG/custody-bank|CBJ]] | JP custody-only specialist | ~¥600-700tn ^[ambiguous] | Non-listed | None at line-item; aggregated in SMTB / Mizuho-side consolidated |
+| [[JapanFG/master-trust-bank|MTBJ]] | JP custody-only specialist | ~¥770tn (2025-03末, MTBJ disclosure) | Non-listed | None at line-item; aggregated in MUFG / 4-shareholder consolidated | 
+| [[JapanFG/custody-bank|CBJ]] | JP custody-only specialist | ~¥696tn (2025-03末, CBJ disclosure) | Non-listed | None at line-item; aggregated in SMTB / Mizuho-side consolidated |
 | [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] | JP full-service trust bank | Trust assets in 100s of trillions; AUC + real-estate + pension | Subsidiary of [[JapanFG/mufg|MUFG]] (listed) | Aggregated segment disclosure |
 | [[JapanFG/sumitomo-mitsui-trust|SMTB]] | JP full-service trust bank | Trust assets in 100s of trillions | Subsidiary of [[JapanFG/sumitomo-mitsui-trust|SMT Holdings]] (listed) | Aggregated segment disclosure |
 | [[JapanFG/mizuho-trust-bank|Mizuho Trust]] | JP full-service trust bank | Trust assets in 10s-100s of trillions | Subsidiary of [[JapanFG/mizuho-fg|Mizuho FG]] (listed) | Aggregated segment disclosure |
 | [[JapanFG/smbc-trust-bank|SMBC Trust]] | JP retail-PB-oriented trust bank | <¥10tn (PB / 富裕層 focus) | Subsidiary of [[JapanFG/smbc-group|SMBC Group]] (listed) | Aggregated under retail / PB segment |
 | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$50tn AuC/A | Subsidiary of BNY Mellon (NYSE) | Parent-level aggregate only |
-| [[JapanFG/state-street-japan|State Street Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$40tn AuC/A ^[ambiguous] | Subsidiary of State Street (NYSE) | Parent-level aggregate only |
-| [[JapanFG/jpmorgan-japan|JP Morgan Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$30tn AuC ^[ambiguous] | Subsidiary of JPMorgan Chase (NYSE) | Parent-level aggregate only |
-| [[JapanFG/citigroup-japan|Citi Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$20tn AuC ^[ambiguous] | Subsidiary of Citigroup (NYSE) | Parent-level aggregate only |
+| [[JapanFG/state-street-japan|State Street Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$46.6tn AuC/A (2024-12) | Subsidiary of State Street (NYSE) | Parent-level aggregate only |
+| [[JapanFG/jpmorgan-japan|JP Morgan Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$35tn+ AuC (end-2024) | Subsidiary of JPMorgan Chase (NYSE) | Parent-level aggregate only |
+| [[JapanFG/citigroup-japan|Citi Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$26.3tn AuC/A (2024-09) | Subsidiary of Citigroup (NYSE) | Parent-level aggregate only |
 
 ### Custody fee mechanics
 
@@ -114,7 +119,7 @@ Granular line-item fee revenue per entity is not publicly disclosed. The order-o
 | If average custody bps = 1 bp/year | ¥100bn / year revenue |
 | If average custody bps = 2 bps/year | ¥200bn / year revenue |
 
-For MTBJ and CBJ at ~¥600-700tn AUC each, gross custody-related revenue is in the rough range of low hundreds of billions of yen per year per entity. Public-disclosed shareholder-consolidated numbers are consistent with this order of magnitude but cannot be cleanly attributed to a single fee line. ^[ambiguous]
+The per-entity gross custody revenue implied by applying these hypothetical bps to MTBJ / CBJ AUC is industry-level inference only and is not attributable to any disclosed fee line; that inference is quarantined to `.opinions/banking/trust-bank-fee-structure-comparison.md`.
 
 ### Fee trends
 
@@ -218,9 +223,12 @@ A precise study would scrape 信託約款 of leading funds for the documented pe
 ## Sources
 
 - Trust Companies Association of Japan: trust-bank explanation, trust-assets statistics.
-- Master Trust Bank of Japan: official site and business overview.
-- Custody Bank of Japan: official site and business overview.
+- Master Trust Bank of Japan: official site and business overview; FY2024 results (AUC ~¥770tn, 2025-03末): https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf
+- Custody Bank of Japan: official site and business overview; 2025 disclosure (預り資産 ~¥696tn, 2025-03末): https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
 - MUFG, SMT Holdings, Mizuho FG, SMBC Group: investor relations financial disclosure.
 - BNY Mellon, State Street, JPMorgan Chase, Citigroup: investor relations financial reports.
+- State Street FY2024 results (AuC/A $46.6tn, 2024-12): https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx
+- Citigroup Q3 2024 results (Securities Services AuC/A $26.3tn, 2024-09): https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32024/2024pr-qtr3rslt.pdf
+- J.P. Morgan Securities Services (AuC ~$35tn+, end-2024): https://www.jpmorgan.com/securities-services
 - FSA: trust-business financial institution list.
 - Individual fund 信託約款 / 目論見書 (where 受託会社報酬 is disclosed).

@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T18:53:58+09:00
+Generated: 2026-05-29T19:11:06+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -2228,7 +2228,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index as the first JA-Bank prefectural credit-federation (信連) operating-company anchor in FinWiki, closing the audit gap that JA 信連 (集合的) was documented but no prefectural 信連 anchor existed. Tokyo was selected for its urban-agriculture + 直結方式 (direct-link) borderline ca
-- Headings: JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren), Wiki route, TL;DR, 1. License / 組織構造, 都市信連としての特徴 ^[extracted], 重要年表 ^[extracted / inferred], 4 大機能 (信連共通) ^[extracted], 規模感 (推定) ^[ambiguous]
+- Headings: JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren), Wiki route, TL;DR, 1. License / 組織構造, 都市信連としての特徴 ^[extracted], 重要年表 ^[extracted / inferred], 4 大機能 (信連共通) ^[extracted], 規模感 (2024-12-24 現在、当会公表値)
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-kyosairen, https://finwiki.zksc.io/JapanFG/ja-kyosairen-fukushima, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zen-noh, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-marine-bank-hokkaido, https://finwiki.zksc.io/JapanFG/jf-shingyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan
 
 ### JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)
@@ -3118,7 +3118,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 地方公共団体金融機構 (JFM), Wiki route, TL;DR, 1. 法人構造, 機関設計 ^[extracted], 業務範囲 ^[extracted], 融資残高 (概算) ^[ambiguous], 公営企業金融公庫時代 (1957-2008)
+- Headings: 地方公共団体金融機構 (JFM), Wiki route, TL;DR, 1. 法人構造, 機関設計 ^[extracted], 業務範囲 ^[extracted], 貸付金残高, 公営企業金融公庫時代 (1957-2008)
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/japan-policy-finance-map, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/smfg
 
 ### Lombard Odier Trust Japan / ロンバー・オディエ信託
@@ -6108,7 +6108,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 楽天グループ金融事業 (Rakuten FG) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.
-- Headings: ウェルスナビ株式会社 (WealthNavi), Wiki route, TL;DR, 1. 会社概要, 創業者背景 ^[extracted], 主要事業数値（公開情報ベース）^[ambiguous], 主要提携サービス（ホワイトラベル展開）^[extracted], 重要年表 ^[extracted]
+- Headings: ウェルスナビ株式会社 (WealthNavi), Wiki route, TL;DR, 1. 会社概要, 創業者背景 ^[extracted], 主要事業数値（公開情報ベース）, 主要提携サービス（ホワイトラベル展開）^[extracted], 重要年表 ^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/daiwa-sg, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/monex-group, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/nomura-hd, https://finwiki.zksc.io/rakuten-fg, https://finwiki.zksc.io/sbi-hd, https://finwiki.zksc.io/smfg
 
 ### ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank, N.A., Tokyo Branch)
