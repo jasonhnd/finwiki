@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 80 |
+| Changed or new entries in current worktree | 3 |
 
 ## Wiki Linking Standard
 
@@ -31,86 +31,9 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/01-bank.md` | `M` | 12 | ok |
 | `JapanFG/77-bank.md` | `M` | 16 | ok |
-| `JapanFG/aeon-bank.md` | `M` | 23 | ok |
-| `JapanFG/aichi-iryo-shinkumi.md` | `M` | 12 | ok |
-| `JapanFG/aichi-shogin-shinkumi.md` | `M` | 8 | ok |
-| `JapanFG/akatsuki-hq.md` | `M` | 3 | ok |
-| `JapanFG/bdo-sanyu.md` | `M` | 14 | ok |
-| `JapanFG/bitflyer.md` | `M` | 21 | ok |
-| `JapanFG/boj.md` | `M` | 17 | ok |
-| `JapanFG/chibagin-leasing.md` | `M` | 56 | ok |
-| `JapanFG/chibagin-securities.md` | `M` | 47 | ok |
-| `JapanFG/chochukin-rokin.md` | `M` | 12 | ok |
-| `JapanFG/daido-fire-marine.md` | `M` | 12 | ok |
-| `JapanFG/deloitte-touche-tohmatsu.md` | `M` | 15 | ok |
-| `JapanFG/dic.md` | `M` | 16 | ok |
-| `JapanFG/dock-financial.md` | `M` | 23 | ok |
-| `JapanFG/ey-shinnihon.md` | `M` | 13 | ok |
-| `JapanFG/fsa.md` | `M` | 28 | ok |
-| `JapanFG/fukuoka-ken-shinkumi.md` | `M` | 13 | ok |
-| `JapanFG/gmo-financial-hd.md` | `M` | 42 | ok |
-| `JapanFG/goldman-sachs-japan.md` | `M` | 16 | ok |
-| `JapanFG/hana-shinkumi.md` | `M` | 10 | ok |
-| `JapanFG/hyakugo-bank.md` | `M` | 7 | ok |
-| `JapanFG/hyakujushi-bank.md` | `M` | 19 | ok |
-| `JapanFG/itochu-corp.md` | `M` | 24 | ok |
-| `JapanFG/iwaki-shinkumi.md` | `M` | 12 | ok |
-| `JapanFG/iyogin-leasing.md` | `M` | 55 | ok |
-| `JapanFG/ja-bank-tokyo-shinren.md` | `M` | 12 | ok |
-| `JapanFG/ja-kyosairen-fukushima.md` | `M` | 8 | ok |
-| `JapanFG/ja-shinnoren.md` | `M` | 17 | ok |
-| `JapanFG/ja-zen-noh.md` | `M` | 10 | ok |
-| `JapanFG/ja-zenchu.md` | `M` | 28 | ok |
-| `JapanFG/japan-post-holdings.md` | `M` | 33 | ok |
-| `JapanFG/jbic.md` | `M` | 15 | ok |
-| `JapanFG/jcr.md` | `M` | 11 | ok |
-| `JapanFG/jf-kyosuiren.md` | `M` | 16 | ok |
-| `JapanFG/jf-marine-bank-hokkaido.md` | `M` | 15 | ok |
-| `JapanFG/jf-shingyoren.md` | `M` | 14 | ok |
-| `JapanFG/jf-zengyoren.md` | `M` | 23 | ok |
-| `JapanFG/kampo-life.md` | `M` | 4 | ok |
-| `JapanFG/keishicho-shinkumi.md` | `M` | 11 | ok |
-| `JapanFG/kiyo-bank.md` | `M` | 16 | ok |
-| `JapanFG/kpmg-azsa.md` | `M` | 14 | ok |
-| `JapanFG/kyoritsu-fire-marine.md` | `M` | 10 | ok |
-| `JapanFG/manulife-japan.md` | `M` | 7 | ok |
-| `JapanFG/marubeni-corp.md` | `M` | 24 | ok |
-| `JapanFG/master-trust-bank.md` | `M` | 18 | ok |
-| `JapanFG/metlife-japan.md` | `M` | 12 | ok |
-| `JapanFG/mitsubishi-corp.md` | `M` | 24 | ok |
-| `JapanFG/mitsui-co.md` | `M` | 23 | ok |
-| `JapanFG/mufg-securities.md` | `M` | 26 | ok |
-| `JapanFG/nippon-post.md` | `M` | 27 | ok |
-| `JapanFG/nomura-trust-bank.md` | `M` | 22 | ok |
-| `JapanFG/orico.md` | `M` | 19 | ok |
-| `JapanFG/osaka-shogin-shinkumi.md` | `M` | 14 | ok |
-| `JapanFG/pwc-aarata.md` | `M` | 13 | ok |
-| `JapanFG/rating-and-investment.md` | `M` | 12 | ok |
-| `JapanFG/san-in-godo-bank.md` | `M` | 11 | ok |
-| `JapanFG/sapporo-chuo-shinkumi.md` | `M` | 13 | ok |
-| `JapanFG/shizugin-card.md` | `M` | 51 | ok |
-| `JapanFG/sojitz-corp.md` | `M` | 30 | ok |
-| `JapanFG/sonpo-hosho-kiko.md` | `M` | 24 | ok |
-| `JapanFG/sumitomo-corp.md` | `M` | 35 | ok |
-| `JapanFG/suruga-bank.md` | `M` | 13 | ok |
-| `JapanFG/taiyo-grant-thornton.md` | `M` | 13 | ok |
+| `JapanFG/chiba-kogyo-bank.md` | `M` | 26 | ok |
 | `JapanFG/toho-bank.md` | `M` | 18 | ok |
-| `JapanFG/tokyo-shobo-shinkumi.md` | `M` | 11 | ok |
-| `JapanFG/tokyo-to-shokuin-shinkumi.md` | `M` | 9 | ok |
-| `JapanFG/toyota-tsusho-corp.md` | `M` | 20 | ok |
-| `JapanFG/ubs-japan.md` | `M` | 15 | ok |
-| `JapanFG/wells-fargo-japan.md` | `M` | 10 | ok |
-| `JapanFG/yamagata-bank.md` | `M` | 14 | ok |
-| `JapanFG/yamaguchi-leasing.md` | `M` | 62 | ok |
-| `JapanFG/yokohama-kogin-shinkumi.md` | `M` | 11 | ok |
-| `JapanFG/yucho.md` | `M` | 3 | ok |
-| `agent-economy/agent-custody-and-authorization-framework-2026.md` | `M` | 27 | ok |
-| `agent-economy/agent-driven-market-data-interpretation-pipeline.md` | `M` | 15 | ok |
-| `agent-economy/agent-identity-defi-and-traditional-finance-bridge.md` | `M` | 30 | ok |
-| `agent-economy/ai-driven-trading-regulation-japan-2026.md` | `M` | 19 | ok |
-| `agent-economy/llm-agent-finance-application-overview-2026.md` | `M` | 24 | ok |
 
 ## Domain Snapshot
 

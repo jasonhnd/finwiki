@@ -31,7 +31,10 @@
     "status": "active",
     "sources": [
       "Wikipedia: 七十七銀行 (2026-05-19 抽出)",
-      "七十七銀行 2025-03 期 有価証券報告書 / ディスクロージャー誌"
+      "七十七銀行 2025-03 期 有価証券報告書 / ディスクロージャー誌",
+      "七十七銀行 公式 会社概要: https://www.77bank.co.jp/77bank/company/profile.html",
+      "七十七銀行 公式 経営方針 (Vision2030): https://www.77bank.co.jp/77bank/company/keieihoushin.html",
+      "七十七銀行 2025年3月期 決算短信: https://www.77bank.co.jp/pdf/77bank/2025/2025_4_fs.pdf"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -41,7 +44,7 @@
     "TL;DR",
     "1. 会社概要",
     "業態の特徴",
-    "主要関連会社（推定の主な系列）^[ambiguous]",
+    "主要関連会社（主な系列）^[extracted]",
     "黎明期: 国立銀行条例から株式会社銀行へ",
     "戦後〜バブル期",
     "東日本大震災以降（最重要）",
@@ -85,8 +88,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3983,
-    "word_like_tokens": 545,
+    "nonspace_chars": 4554,
+    "word_like_tokens": 678,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-05-29"
   }

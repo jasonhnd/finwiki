@@ -12,6 +12,9 @@ status: active
 sources:
   - "Wikipedia: 株式会社東邦銀行 (2026-05-19 抽出)"
   - 東邦銀行 公式 IR (有価証券報告書・ディスクロージャー誌)
+  - "東邦銀行 公式 会社概要: https://www.tohobank.co.jp/company/information/data/"
+  - "東邦銀行 2025年3月期 決算短信: https://www.tohobank.co.jp/cms_source/data/zaimu/tanshin/files/20250509-1.pdf"
+  - "東邦銀行 統合報告書/ディスクロージャー誌 2025年3月期: https://www.tohobank.co.jp/company/ir/library/disclosure/2025/"
 ---
 # 東邦銀行 (Toho Bank)
 
@@ -30,7 +33,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **証券コード**: 東証 PRIME 8346 ^[extracted]
 **設立**: **1941-11-21**(戦時統合で福島県内 5 行統合)^[extracted]
 **本店**: 福島県福島市大町 3-25 ^[extracted]
-**機関設計**: 監査役会設置会社 ^[ambiguous]
+**機関設計**: 監査等委員会設置会社
 **主要監督**: 金融庁、東北財務局、日銀福島支店
 
 ### 業態の特徴
@@ -43,18 +46,21 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - システム共同化・海外サポート・商品共通化で持株会社化を回避しつつスケールメリット獲得
   - 福島県内預金シェア No.1、商業銀行として唯一の県内第一地銀
 
-### 主要関連会社(推定)^[ambiguous]
+### 主要関連会社 ^[extracted]
 
 ```
 東邦銀行(単独・上場 8346)
-  ├── 東邦カード(クレジットカード)
+  ├── 東邦リース
+  ├── 株式会社東邦カード
   ├── 東邦信用保証
-  ├── 東邦総合リース
-  ├── 東邦地域総合研究所(シンクタンク)
+  ├── 東邦情報システム
+  ├── 株式会社とうほうスマイル
+  ├── 株式会社東邦コンサルティングパートナーズ
+  ├── 株式会社東邦ITヒューマンソリューションズ
   └── (持株会社なし、銀行本体直営)
 ```
 
-> 注: 正確な系列子会社ラインナップは公式ディスクロージャー誌(年次)を要参照。^[ambiguous]
+> 注: 系列子会社の網羅的ラインナップは公式ディスクロージャー誌(年次)を要参照。
 
 ### 戦時統合期: 一県一行政策下の発足
 
@@ -99,16 +105,17 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **メガバンク**([[mufg]] / [[smfg]] / [[mizuho-fg]])| 東京 | 大企業・首都圏取引で競合、地元中小では東邦優位 |
 | **信金・信組**(福島信金等)| 各地 | 地元零細法人・個人 |
 
-### 規模感(公開情報ベース)^[ambiguous]
+### 規模感(公開情報ベース)
 
 | 項目 | 規模 |
 |---|---|
-| 総資産 | 概ね 5〜6 兆円規模 ^[ambiguous] |
-| 預金残高 | 5 兆円規模 ^[ambiguous] |
-| 貸出金残高 | 3〜4 兆円規模 ^[ambiguous] |
-| 従業員 | 概ね 2,000〜2,300 名 ^[ambiguous] |
+| 総資産 | 約 6兆6,532億円(2025-03 末)^[extracted] |
+| 預金残高 | 6兆1,205億円(2025-09 末)^[extracted] |
+| 貸出金残高 | 4兆1,561億円(2025-09 末)^[extracted] |
+| 従業員 | 単体 1,916 名 / 連結 2,018 名(2025-09 末・2025-03 末)^[extracted] |
+| 店舗数 | 本支店 123 カ店(2025-09 末)^[extracted] |
 
-> 注: 具体的決算数値は最新有価証券報告書・決算短信を要参照。FY2024(2025-03 期)の正確な数値は公式 IR 校核時に更新。^[ambiguous]
+> 注: 預金・貸出金・従業員・店舗数は東邦銀行公式「会社概要」(2025-09 末基準)、総資産は 2025-03 期決算ベース。最新計数は公式 IR を要参照。
 
 ## 5. 規制・政策
 
@@ -123,7 +130,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ## 6. ブランディング・文化
 
 - **略称・通称**: 「とうほう」「東邦」
-- **コーポレートカラー**: 銀行伝統色(緑系・紺系)^[ambiguous]
 - **CSR**: 震災・原発事故復興、地元教育・文化支援、廃炉関連地域支援
 
 ## Related
@@ -135,12 +141,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- **Wikipedia: 株式会社東邦銀行**(https://ja.wikipedia.org/wiki/株式会社東邦銀行, 2026-05-19 抽出)
-- 東邦銀行 公式 IR(有価証券報告書・ディスクロージャー誌・決算短信)
-- TSUBASA アライアンス公式情報
+- **Wikipedia: 株式会社東邦銀行**(https://ja.wikipedia.org/wiki/東邦銀行, 2026-05-19 抽出。機関設計・子会社・TSUBASA 参加を確認)
+- 東邦銀行 公式 会社概要 — https://www.tohobank.co.jp/company/information/data/ (預金・貸出金・従業員・店舗数, 2025-09 末)
+- 東邦銀行 2025年3月期 決算短信 — https://www.tohobank.co.jp/cms_source/data/zaimu/tanshin/files/20250509-1.pdf
+- 東邦銀行 統合報告書/ディスクロージャー誌(2025年3月期) — https://www.tohobank.co.jp/company/ir/library/disclosure/2025/
+- TSUBASA アライアンス公式情報(東邦は 2012-04 参加) — https://tsubasa-al.co.jp/
 - 福島復興再生特別措置法関連公開資料
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**(v1.0 公開情報ベース 2026-05-19)。沿革(1941 戦時統合・1949 上場・TSUBASA 2015 参加)・震災原発事故対応の定性情報は Wikipedia 経由で公的に確認可能だが、最新財務数値・子会社ラインナップ・FY2024 決算数値・原発事故関連引当金は ^[ambiguous] 標注。次回 review(2026-11-15)時に公式有価証券報告書で校核要。**公開情報のみで構成、内部目録は一切引用していない。**
+> confidence: **likely**(v1.0 公開情報ベース 2026-05-19、2026-05-29 計数校核)。沿革・震災原発事故対応の定性情報は Wikipedia 経由で公的に確認可能。財務数値(総資産・預金・貸出金・従業員・店舗数)は東邦銀行公式「会社概要」(2025-09 末)・2025-03 期決算ベースで確定、機関設計(監査等委員会設置会社)・子会社ライン・TSUBASA 参加(2012-04)も確認済み。原発事故関連引当金は本文に計数化せず。次回 review(2026-11-15)時に最新期数値で更新要。**公開情報のみで構成、内部目録は一切引用していない。** なお設立年月日は公式会社概要では 1941-11-04 と記載(本稿の 1941-11-21 と差異あり、要精査)。

@@ -32,7 +32,10 @@
     "status": "active",
     "sources": [
       "Wikipedia: 株式会社東邦銀行 (2026-05-19 抽出)",
-      "東邦銀行 公式 IR (有価証券報告書・ディスクロージャー誌)"
+      "東邦銀行 公式 IR (有価証券報告書・ディスクロージャー誌)",
+      "東邦銀行 公式 会社概要: https://www.tohobank.co.jp/company/information/data/",
+      "東邦銀行 2025年3月期 決算短信: https://www.tohobank.co.jp/cms_source/data/zaimu/tanshin/files/20250509-1.pdf",
+      "東邦銀行 統合報告書/ディスクロージャー誌 2025年3月期: https://www.tohobank.co.jp/company/ir/library/disclosure/2025/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -42,7 +45,7 @@
     "TL;DR",
     "1. 会社概要",
     "業態の特徴",
-    "主要関連会社(推定)^[ambiguous]",
+    "主要関連会社 ^[extracted]",
     "戦時統合期: 一県一行政策下の発足",
     "戦後〜バブル期",
     "東日本大震災 + 原発事故(最重要)★",
@@ -84,8 +87,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3729,
-    "word_like_tokens": 506,
+    "nonspace_chars": 4462,
+    "word_like_tokens": 666,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }
