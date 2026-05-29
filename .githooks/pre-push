@@ -22,13 +22,33 @@ cat > /dev/null
 # Japanese drift output would crash a cp932 console; force UTF-8.
 export PYTHONIOENCODING=utf-8
 
-if command -v python >/dev/null 2>&1; then
-  PY=python
+# Resolve a Python interpreter. Git for Windows runs hooks in a minimal MSYS
+# environment whose PATH excludes user venvs and the Store-alias dir, so beyond
+# PATH lookups we honor $FINWIKI_PYTHON and fall back to the Windows Store
+# python under %LOCALAPPDATA%.
+PY=""
+if [ -n "$FINWIKI_PYTHON" ]; then
+  PY="$FINWIKI_PYTHON"
 elif command -v python3 >/dev/null 2>&1; then
   PY=python3
-else
-  echo "pre-push: python not found; skipping FinWiki release check." >&2
-  exit 0
+elif command -v python >/dev/null 2>&1; then
+  PY=python
+elif command -v py >/dev/null 2>&1; then
+  PY=py
+elif [ -n "$LOCALAPPDATA" ]; then
+  for cand in "$LOCALAPPDATA/Microsoft/WindowsApps/python3.exe" \
+              "$LOCALAPPDATA/Microsoft/WindowsApps/python.exe"; do
+    if [ -x "$cand" ]; then PY="$cand"; break; fi
+  done
+fi
+
+# A gate that cannot run must not pretend to pass — block instead of skipping.
+if [ -z "$PY" ]; then
+  {
+    echo "pre-push BLOCKED: no Python interpreter found for the FinWiki release check."
+    echo "  Put python on PATH, or set FINWIKI_PYTHON=<path>, or bypass once: git push --no-verify"
+  } >&2
+  exit 1
 fi
 
 ROOT=$(git rev-parse --show-toplevel) || exit 0
