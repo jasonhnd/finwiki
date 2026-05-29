@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, payment, ap2, technical-spec]
-sources: []
+sources:
+  - https://github.com/google-agentic-commerce/AP2
 status: candidate
 ---
 
@@ -68,3 +69,4 @@ Risk Score を Google 単独の AI が算出することは、**Google が暗黙
 
 - W3C Verifiable Credentials Data Model
 - Google AP2 spec v1.0
+- Google AP2 (Agent Payments Protocol) — https://github.com/google-agentic-commerce/AP2

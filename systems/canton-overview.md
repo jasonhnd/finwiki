@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, dlt, privacy, canton, daml, institutional]
-sources: []
+sources:
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -66,3 +67,4 @@ Canton の「プライバシー + 監督ノード」モデルは本質的に **�
 ## Sources
 
 - Digital Asset Canton Network whitepaper
+- Canton Network (Digital Asset) — https://www.canton.network/

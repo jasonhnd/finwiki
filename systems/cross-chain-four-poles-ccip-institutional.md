@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, cross-chain, ccip, chainlink, institutional, dtcc, swift, tradfi-defi]
-sources: []
+sources:
+  - https://docs.chain.link/ccip
 status: candidate
 ---
 
@@ -59,3 +60,4 @@ CCIP は 50+ chains に拡大し risk grade を維持できるか?DTCC Smart NAV
 ## Sources
 
 - DTCC Smart NAV pilot 公告(2024.05)· SWIFT messaging on Chainlink(2025)
+- Chainlink CCIP docs — https://docs.chain.link/ccip

@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, payment, google, ap2]
-sources: []
+sources:
+  - https://github.com/google-agentic-commerce/AP2
 status: candidate
 ---
 
@@ -66,3 +67,4 @@ AP2 が Google エコシステム(Gemini + Google Pay)と強く結合してい�
 ## Sources
 
 - Google AP2 spec(2026-Q1 v1.0)
+- Google AP2 (Agent Payments Protocol) — https://github.com/google-agentic-commerce/AP2

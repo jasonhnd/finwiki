@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, agent-payment, erc-7715, x402, ap2]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7715
 status: candidate
 ---
 
@@ -88,3 +89,4 @@ Stripe による Privy 買収(2024)は、Web2 決済巨頭がオンチェーン 
 ## Sources
 
 - Coinbase Smart Wallet agent payment demo(2025)
+- ERC-7715 (Request Permissions from Wallets) — https://eips.ethereum.org/EIPS/eip-7715

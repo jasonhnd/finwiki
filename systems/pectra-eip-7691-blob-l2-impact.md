@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, ethereum, l2, eip-7691, blob, base, arbitrum, optimism, eip-4844]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7691
 status: candidate
 ---
 
@@ -63,3 +64,4 @@ Dencun(2024-03)で導入された EIP-4844 blob —— rollup の data availabil
 
 - Ethereum Foundation Pectra spec
 - EthMagicians EIP-7691 discussion
+- EIP-7691 — https://eips.ethereum.org/EIPS/eip-7691

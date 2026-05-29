@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, staking, restaking, eigenlayer, ethereum, security]
-sources: []
+sources:
+  - https://docs.eigenlayer.xyz/
 status: candidate
 ---
 
@@ -71,3 +72,4 @@ EigenLayer は Sreeram Kannan チーム(元 UW 教授)が 2021 年に restaking 
 ## Sources
 
 - EigenLayer Whitepaper(Sreeram Kannan et al.)
+- EigenLayer docs — https://docs.eigenlayer.xyz/

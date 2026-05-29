@@ -32,7 +32,9 @@
       "coinbase-cdp"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.privy.io/"
+    ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
@@ -76,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3226,
-    "word_like_tokens": 502,
+    "nonspace_chars": 3280,
+    "word_like_tokens": 512,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -8,7 +8,9 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, embedded-wallet, privy, agentcore, network-effects, mpc, moat]
-sources: []
+sources:
+  - https://docs.privy.io/
+  - https://docs.cdp.coinbase.com/
 status: candidate
 ---
 
@@ -85,3 +87,5 @@ AgentCore / AWS / 主要 SaaS ベンダーが追認(2025.07+)
 ## Sources
 
 - AWS Bedrock AgentCore Payments GA アナウンス(2025.07) · Privy $40M シリーズ B(2024.10)
+- Privy docs — https://docs.privy.io/
+- Coinbase Developer Platform (CDP) docs — https://docs.cdp.coinbase.com/

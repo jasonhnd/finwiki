@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, account-abstraction, erc-4337, ethereum]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-4337
 status: candidate
 ---
 
@@ -70,4 +71,4 @@ ERC-4337 は Vitalik Buterin、Yoav Weiss、Kristof Gazso らによって 2021 �
 
 ## Sources
 
-- ERC-4337 EIP(eips.ethereum.org)
+- ERC-4337「Account Abstraction Using Alt Mempool」 — https://eips.ethereum.org/EIPS/eip-4337

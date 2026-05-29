@@ -29,7 +29,9 @@
       "ap2"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://github.com/google-agentic-commerce/AP2"
+    ]
   },
   "summary": "This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦 for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
@@ -71,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2814,
-    "word_like_tokens": 419,
+    "nonspace_chars": 2939,
+    "word_like_tokens": 438,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

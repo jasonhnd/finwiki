@@ -31,7 +31,9 @@
       "arc"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://developers.circle.com/stablecoins/docs/cctp-getting-started"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against CCTP V2 技術仕様 · Fast Transfer · Hooks · Attestation Service for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -73,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2838,
-    "word_like_tokens": 453,
+    "nonspace_chars": 2985,
+    "word_like_tokens": 474,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, wallet, mobile, solana, saga, seeker, seed-vault, mwa]
-sources: []
+sources:
+  - https://docs.solanamobile.com/
 status: candidate
 ---
 
@@ -61,3 +62,4 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 ## Sources
 
 - Solana Mobile docs
+- Solana Mobile docs — https://docs.solanamobile.com/

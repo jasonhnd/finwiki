@@ -34,7 +34,9 @@
       "dtcc"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://www.canton.network/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -78,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3016,
-    "word_like_tokens": 461,
+    "nonspace_chars": 3098,
+    "word_like_tokens": 473,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

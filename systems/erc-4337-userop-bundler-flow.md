@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, userop, bundler, paymaster]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-4337
 status: candidate
 ---
 
@@ -88,3 +89,4 @@ Bundler の経済モデルは v0.7 以降で priority fee オークションメ�
 ## Sources
 
 - ERC-4337 EIP v0.6 / v0.7 spec
+- ERC-4337 (Account Abstraction) — https://eips.ethereum.org/EIPS/eip-4337

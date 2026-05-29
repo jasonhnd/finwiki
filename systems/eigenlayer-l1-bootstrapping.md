@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: possible
 tags: [systems, restaking, eigenlayer, l1, tempo, arc, bootstrapping]
-sources: []
+sources:
+  - https://docs.eigenlayer.xyz/
 status: candidate
 ---
 
@@ -75,4 +76,6 @@ Tempo / Arc が EigenLayer 経路を採用して成功すれば、デモンス�
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- EigenLayer docs — https://docs.eigenlayer.xyz/
 

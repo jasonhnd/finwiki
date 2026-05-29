@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, ai-agent, wallet, aws, bedrock, agentcore, privy, coinbase-cdp]
-sources: []
+sources:
+  - https://docs.privy.io/
 status: candidate
 ---
 
@@ -60,4 +61,6 @@ AWS Bedrock AgentCore は AWS の AI agent オーケストレーションプラ�
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Privy docs — https://docs.privy.io/
 

@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, bridge, stablecoin, usdc, circle, cctp, technical-spec]
-sources: []
+sources:
+  - https://developers.circle.com/stablecoins/docs/cctp-getting-started
 status: candidate
 ---
 
@@ -76,3 +77,4 @@ Hooks の設計インスピレーションは部分的に [[systems/erc-4337-ove
 ## Sources
 
 - Circle CCTP V2 docs(developers.circle.com)
+- Circle CCTP V2 — https://developers.circle.com/stablecoins/docs/cctp-getting-started

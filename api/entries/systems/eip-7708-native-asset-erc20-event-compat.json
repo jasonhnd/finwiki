@@ -33,13 +33,16 @@
       "evm-compat"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://eips.ethereum.org/EIPS/eip-7708"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against CCTP V2 概览 · Circle USDC 跨链 burn-and-mint for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
     "EIP-7708 native asset → ERC-20 event 索引兼容",
     "Wiki route",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -65,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 948,
-    "word_like_tokens": 157,
+    "nonspace_chars": 1044,
+    "word_like_tokens": 174,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -8,7 +8,9 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, blockchain, evm, daml, canton, besu, jpmorgan, kinexys]
-sources: []
+sources:
+  - https://besu.hyperledger.org/
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -57,4 +59,7 @@ Quorum/Besu の優位性は EVM 互換性であり · Solidity ツールチェ�
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Hyperledger Besu docs — https://besu.hyperledger.org/
+- Canton Network (Digital Asset) — https://www.canton.network/
 

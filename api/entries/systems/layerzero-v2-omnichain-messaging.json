@@ -31,7 +31,9 @@
       "stargate"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.layerzero.network/v2"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -73,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2783,
-    "word_like_tokens": 399,
+    "nonspace_chars": 2865,
+    "word_like_tokens": 412,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

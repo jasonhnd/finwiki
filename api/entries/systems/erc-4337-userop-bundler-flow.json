@@ -31,7 +31,9 @@
       "paymaster"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://eips.ethereum.org/EIPS/eip-4337"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against ERC-4337 概観 · Account Abstraction のアプリケーション層実装 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -73,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3143,
-    "word_like_tokens": 460,
+    "nonspace_chars": 3250,
+    "word_like_tokens": 478,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

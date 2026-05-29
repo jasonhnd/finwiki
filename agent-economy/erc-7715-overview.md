@@ -8,7 +8,8 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, protocol, wallet, permissions, ai-agent, erc-7715]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-7715
 status: candidate
 ---
 
@@ -93,4 +94,4 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Sources
 
-- ERC-7715 EIP draft
+- ERC-7715「Request Permissions from Wallets」(draft) — https://eips.ethereum.org/EIPS/eip-7715

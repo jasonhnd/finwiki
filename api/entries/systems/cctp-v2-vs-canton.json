@@ -31,7 +31,10 @@
       "comparison"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://developers.circle.com/stablecoins/docs/cctp-getting-started",
+      "https://www.canton.network/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -73,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2856,
-    "word_like_tokens": 448,
+    "nonspace_chars": 3087,
+    "word_like_tokens": 481,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }
