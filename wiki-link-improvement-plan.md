@@ -31,21 +31,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/chiba-bank.md` | `M` | 9 | ok |
-| `JapanFG/chochukin-rokin.md` | `M` | 12 | ok |
-| `JapanFG/deloitte-touche-tohmatsu.md` | `M` | 14 | ok |
-| `JapanFG/ikeda-senshu-hd.md` | `M` | 13 | ok |
-| `JapanFG/jf-kyosuiren.md` | `M` | 16 | ok |
-| `JapanFG/keishicho-shinkumi.md` | `M` | 10 | ok |
-| `JapanFG/kpmg-azsa.md` | `M` | 12 | ok |
-| `JapanFG/kyoto-fg.md` | `M` | 16 | ok |
-| `JapanFG/mizuho-fg.md` | `M` | 3 | ok |
-| `JapanFG/norinchukin.md` | `M` | 12 | ok |
-| `JapanFG/sbi-regional-bank-hd.md` | `M` | 24 | ok |
-| `JapanFG/seven-bank.md` | `M` | 6 | ok |
-| `JapanFG/shinkin-central.md` | `M` | 5 | ok |
-| `JapanFG/taiyo-grant-thornton.md` | `M` | 13 | ok |
-| `JapanFG/tokyo-to-shokuin-shinkumi.md` | `M` | 8 | ok |
+| `JapanFG/chibagin-leasing.md` | `M` | 55 | ok |
+| `JapanFG/hamagin-research.md` | `M` | 28 | ok |
+| `JapanFG/ibank-marketing.md` | `M` | 48 | ok |
+| `JapanFG/iyogin-leasing.md` | `M` | 56 | ok |
+| `JapanFG/ja-kyosairen-fukushima.md` | `M` | 8 | ok |
+| `JapanFG/jf-marine-bank-hokkaido.md` | `M` | 15 | ok |
+| `JapanFG/jf-shingyoren.md` | `M` | 15 | ok |
+| `JapanFG/jr-east-financial.md` | `M` | 26 | ok |
+| `JapanFG/master-trust-bank.md` | `M` | 18 | ok |
+| `JapanFG/nanto-bank.md` | `M` | 19 | ok |
+| `JapanFG/shiga-bank.md` | `M` | 28 | ok |
+| `JapanFG/shizugin-card.md` | `M` | 52 | ok |
+| `JapanFG/yamaguchi-leasing.md` | `M` | 63 | ok |
+| `banking/custody-bank-operating-model.md` | `M` | 24 | ok |
+| `banking/ui-bank.md` | `M` | 31 | ok |
 
 ## Domain Snapshot
 

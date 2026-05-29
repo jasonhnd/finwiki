@@ -11,6 +11,7 @@ tags: [JapanFG, regional-bank-subsidiary, chiba-bank, leasing, kanto, chiba, ope
 status: active
 sources:
   - "https://www.chibagin-lease.co.jp/"
+  - "http://www.cblnet.co.jp/about/"
   - "https://www.chibabank.co.jp/"
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.chiginkyo.or.jp/"
@@ -32,7 +33,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 正式名 | 株式会社ちばぎんリース |
 | English name | Chibagin Leasing Co., Ltd. |
 | 親会社 | [[chiba-bank|千葉銀行]] 100% (持株会社化していない単独銀行直下) |
-| 設立 | 1980 年代 ([[chiba-bank]] 系リース子会社として設立) ^[ambiguous] |
+| 設立 | 1986-12-15 (「ちばぎんファイナンス株式会社」として設立)。1995-07 に「ちばぎんリース株式会社」へ商号変更。資本金 1 億円。本店: 千葉市美浜区中瀬 (ちばぎん幕張ビル) |
 | 主要事業 | 設備リース / ファイナンスリース / オペレーティングリース / 自治体リース / 医療リース / ファクタリング / オートリース / 集金代行 |
 | 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
 | 上場区分 | 非上場 ([[chiba-bank]] 100% 子会社) |
@@ -109,11 +110,11 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - **環境リース (再エネ設備 / EV)**: 脱炭素税制対応・グリーンリース商品開発
 - **割賦販売法 / 貸金業法**: ファクタリング / 集金代行領域での適用整理
 - **反社チェック・マネロン対策**: [[chiba-bank]] グループ共同実施
-- **EDINET / 有価証券報告書**: ちばぎんリース単体は非上場で開示限定的、[[chiba-bank]] 連結セグメント情報で間接開示 ^[ambiguous]
+- **EDINET / 有価証券報告書**: ちばぎんリース単体は非上場で開示限定的、[[chiba-bank]] 連結セグメント情報で間接開示
 
 ### 会計上の取扱い
 
-- **単体財務 KPI**: 親 [[chiba-bank]] 有価証券報告書注記 / セグメント情報で部分開示 ^[ambiguous]
+- **単体財務 KPI**: 親 [[chiba-bank]] 有価証券報告書注記 / セグメント情報で部分開示 (資本金 1 億円 = ちばぎんリース公式会社概要)
 
 ## Related
 
@@ -128,7 +129,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 ## Sources
 
-- **ちばぎんリース 公式サイト** (https://www.chibagin-lease.co.jp/)
+- **ちばぎんリース 公式サイト — 会社概要** (https://www.chibagin-lease.co.jp/, リダイレクト先 http://www.cblnet.co.jp/about/。1986-12-15 ちばぎんファイナンスとして設立 / 1995-07 ちばぎんリースへ商号変更 / 資本金 1 億円 / 本店 千葉市美浜区中瀬)
 - **千葉銀行 公式 IR** (https://www.chibabank.co.jp/)
 - **EDINET 有価証券報告書 (千葉銀行連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
 - **全国地方銀行協会** (https://www.chiginkyo.or.jp/, 連携企業情報)
@@ -137,4 +138,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ---
 
 > [!info] 校核状态
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[chiba-bank]] page = 単独銀行 (no-holding model) holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[chiba-bank]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・合併経緯の正確な年月は ambiguous ^[ambiguous]。
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[chiba-bank]] page = 単独銀行 (no-holding model) holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。設立年 (1986-12-15、旧称 ちばぎんファイナンス) ・商号変更 (1995-07 ちばぎんリース) ・資本金 (1 億円) はちばぎんリース公式会社概要で確認済 (出典下記)。単体財務 KPI 精緻値は親 [[chiba-bank]] 有価証券報告書セグメント情報を参照。

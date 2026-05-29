@@ -11,8 +11,10 @@ tags: [JapanFG, think-tank, regional-bank-think-tank-subsidiary, kanto, kanagawa
 status: active
 sources:
   - "https://www.yokohama-ri.co.jp/"
+  - "https://www.yokohama-ri.co.jp/html/company/"
   - "https://www.yokohamafg.co.jp/"
   - "https://www.boy.co.jp/"
+  - "https://www.boy.co.jp/hojin/guide/index.html"
   - "https://www.chiginkyo.or.jp/"
 ---
 
@@ -24,7 +26,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 
 ## TL;DR
 
-株式会社はまぎん総合研究所 (Hamagin Research Institute, HRI) は、[[yokohama-bank|横浜銀行]] (現 [[concordia-fg|横浜フィナンシャルグループ]] 子会社) 連結子会社の地銀系シンクタンクで、神奈川県経済データ・地域分析・中堅企業向けコンサルティング・人材開発・経済予測を提供。地銀系シンクタンクとしては規模・知名度ともに上位 (関東 No.1 級) で、神奈川県政・市町村への調査委託も受注。地銀 FG 戦略における「地域経済インテリジェンス」の中核子会社。^[extracted]
+株式会社はまぎん総合研究所 (Hamagin Research Institute, HRI) は、[[yokohama-bank|横浜銀行]] (現 [[concordia-fg|横浜フィナンシャルグループ]] 子会社) 連結子会社の地銀系シンクタンクで、神奈川県経済データ・地域分析・中堅企業向けコンサルティング・人材開発・経済予測を提供。1988-07-21 設立・資本金 1 億円・従業員 157 名 (2025-10-01) 規模で、神奈川県政・市町村への調査委託も受注。地銀 FG 戦略における「地域経済インテリジェンス」の中核子会社。^[extracted]
 
 ## 1. License / group boundary
 
@@ -59,18 +61,20 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 - **2025-10-01**: 旧 コンコルディア FG → **横浜フィナンシャルグループ** 商号変更
 - はまぎん総研 自体は商号変更の影響を受けず、引き続き [[yokohama-bank]] 連結子会社として運営
 
-## 4. KPI table (concept) ^[ambiguous]
+## 4. KPI table
 
-| 項目 | 概況 |
-|---|---|
-| 主要営業エリア | 神奈川県・首都圏 ([[concordia-fg]] 地盤) + 全国コンサル展開 |
-| 業務領域 | 経済調査、地域分析、経営コンサル、人材育成研修、政策提言 |
-| 銀行連携 | [[yokohama-bank]] / [[higashi-nippon-bank]] 顧客向け advisory 提供 |
-| 主要受託主体 | 神奈川県、横浜市、川崎市、相模原市、その他県内市町村、中堅企業 |
-| 親会社 | [[yokohama-bank]] 連結子会社 ([[concordia-fg]] グループ) |
-| 地銀系シンクタンク ranking | 関東 No.1 級 ^[ambiguous] |
+| 項目 | 概況 | 出典 |
+|---|---|---|
+| 設立 | 1988-07-21 | 公式会社概要 |
+| 資本金 | 1 億円 | 公式会社概要 |
+| 従業員数 | 157 名 (2025-10-01 現在) | 公式会社概要 |
+| 主要営業エリア | 神奈川県・首都圏 ([[concordia-fg]] 地盤) + 全国コンサル展開 | 公式会社概要 |
+| 業務領域 | 経済調査、地域分析、経営コンサル、人材育成研修、政策提言 | 公式会社概要 |
+| 銀行連携 | [[yokohama-bank]] / [[higashi-nippon-bank]] 顧客向け advisory 提供 | — |
+| 主要受託主体 | 神奈川県、横浜市、川崎市、相模原市、その他県内市町村、中堅企業 | 公式会社概要 |
+| 親会社 | [[yokohama-bank]] 連結子会社 ([[concordia-fg]] グループ) | 横浜銀行グループ企業案内 |
 
-> 注: 売上・従業員・受託件数等の最新精緻値は [[concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式サイト要参照 ^[ambiguous]
+> 注: 売上・受託件数等のセグメント別精緻値は [[concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式サイト要参照。Wikipedia 記載の FY 純資産は約 110 億円規模。
 
 ## 5. 事業セグメント・マップ
 
@@ -98,7 +102,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 
 ### 強みと弱み
 
-- 強み: [[yokohama-bank]] 顧客基盤 + 神奈川県経済データ深さ + 首都圏 GDP 規模での意義 + 関東 No.1 級地銀系シンクタンク認知
+- 強み: [[yokohama-bank]] 顧客基盤 + 神奈川県経済データ深さ + 首都圏 GDP 規模での意義 + 地銀系シンクタンクとしての一定の認知
 
 ## 7. 規制・政策
 
@@ -119,12 +123,13 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 ## Sources
 
 - **はまぎん総合研究所 公式サイト** (https://www.yokohama-ri.co.jp/)
+- **はまぎん総合研究所 会社概要** (https://www.yokohama-ri.co.jp/html/company/) — 設立 1988-07-21 / 資本金 1 億円 / 従業員 157 名 (2025-10-01)
 - **横浜フィナンシャルグループ 公式 IR** (https://www.yokohamafg.co.jp/)
-- **横浜銀行 公式サイト** (https://www.boy.co.jp/)
+- **横浜銀行 公式サイト** (https://www.boy.co.jp/) / **横浜銀行グループ企業案内** (https://www.boy.co.jp/hojin/guide/index.html) — 横浜銀行グループのシンクタンクとして掲載
 - **全国地方銀行協会** (https://www.chiginkyo.or.jp/, 連携企業情報)
 - **Wikipedia: 浜銀総合研究所 / 横浜フィナンシャルグループ / 横浜銀行** (2026-05-24 抽出)
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG think-tank-subsidiary anchor created 2026-05-24)。[[concordia-fg]] page = holding-company strategy (2025-10 YFG 商号変更含む) を扱い、本ページは think-tank / research-subsidiary operating boundary を扱う。売上・受託件数等 KPI 精緻値は親 [[concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式要参照 ^[ambiguous]。
+> confidence: **likely** (FG think-tank-subsidiary anchor created 2026-05-24)。[[concordia-fg]] page = holding-company strategy (2025-10 YFG 商号変更含む) を扱い、本ページは think-tank / research-subsidiary operating boundary を扱う。設立 (1988-07-21) / 資本金 (1 億円) / 従業員 (157 名, 2025-10-01) は公式会社概要で確認済。売上・受託件数等のセグメント別精緻値は親 [[concordia-fg]] 有価証券報告書セグメント情報を要参照。「関東 No.1 級」序列主張は出典なきため `.opinions/JapanFG/hamagin-research.md` に隔離 (2026-05-29)。

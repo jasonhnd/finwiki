@@ -11,6 +11,8 @@ tags: [JapanFG, fintech, wallet-app, regional-bank-fintech-subsidiary, kyushu, f
 status: active
 sources:
   - "https://www.ibank.co.jp/"
+  - "https://www.ibank.co.jp/corporate/"
+  - "https://prtimes.jp/main/html/rd/p/000000320.000029076.html"
   - "https://www.fukuoka-fg.com/"
   - "https://walletplus.jp/"
   - "https://www.fukuoka-fg.com/news/"
@@ -71,17 +73,17 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 
 - **2018-2020**: [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]] 連携追加 → 九州 3 県カバー
 
-## 4. KPI table (concept) ^[ambiguous]
+## 4. KPI table (concept)
 
 | 項目 | 概況 |
 |---|---|
-| アプリ DL 数 | 数百万 DL 規模 (公開数値は限定的) ^[ambiguous] |
+| アプリ DL 数 | 300 万 DL 突破 ([[fukuoka-fg|FFG]] 公表)。参考: 50 万 DL (2018, 2 周年) → 約 80 万 DL (2019, 3 周年) → 100 万 DL 突破 (2020, 4 周年) → 300 万 DL |
 | 主要顧客層 | 20-40 代個人 + 九州地盤口座保有者 |
 | 主要連携銀行 | [[fukuoka-bank]] / [[18-shinwa-bank]] / [[kumamoto-bank]] |
 | 業務領域 | 家計管理、目的別貯金、プリペイドカード、地域クーポン |
 | 親会社 | [[fukuoka-fg]] 100% 出資 |
 
-> 注: アプリ DL 数・MAU・カード発行枚数等の最新精緻値は親 [[fukuoka-fg]] IR 資料 / Wallet+ 公式サイト要参照 ^[ambiguous]
+> 注: アプリ DL 数は [[fukuoka-fg|FFG]] 公表で 300 万 DL 突破 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示 (公表値なし) のため、最新値は親 [[fukuoka-fg]] IR 資料 / Wallet+ 公式サイトを参照。
 
 ## 5. 事業セグメント・マップ
 
@@ -131,6 +133,8 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 ## Sources
 
 - **iBank マーケティング 公式サイト** (https://www.ibank.co.jp/)
+- **iBank マーケティング 公式サイト — 企業情報** (https://www.ibank.co.jp/corporate/, 設立 2016-04 / 本店 福岡市中央区西中洲 / FFG デジタル戦略子会社)
+- **ふくおか FG プレスリリース (PR TIMES) — Wallet+ が 300 万ダウンロード達成** (https://prtimes.jp/main/html/rd/p/000000320.000029076.html)
 - **Wallet+ 公式サイト** (https://walletplus.jp/)
 - **ふくおか FG 公式 IR** (https://www.fukuoka-fg.com/)
 - **ふくおか FG ニュースリリース** (https://www.fukuoka-fg.com/news/)
@@ -139,4 +143,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG fintech-subsidiary anchor created 2026-05-24)。[[fukuoka-fg]] page = holding-company strategy / みんなの銀行を扱い、本ページは Wallet+ アプリ運営 fintech-subsidiary boundary を扱う。アプリ DL 数・カード発行枚数等 KPI 精緻値は親 [[fukuoka-fg]] IR / Wallet+ 公式要参照 ^[ambiguous]。
+> confidence: **likely** (FG fintech-subsidiary anchor created 2026-05-24)。[[fukuoka-fg]] page = holding-company strategy / みんなの銀行を扱い、本ページは Wallet+ アプリ運営 fintech-subsidiary boundary を扱う。設立 (2016) ・Wallet+ リリース (2016-07) ・300 万 DL 突破は iBank 公式 / FFG 公表で確認済 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示のため親 [[fukuoka-fg]] IR / Wallet+ 公式を参照。

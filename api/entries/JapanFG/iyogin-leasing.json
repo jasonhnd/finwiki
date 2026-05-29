@@ -35,6 +35,8 @@
     ],
     "status": "active",
     "sources": [
+      "https://www.iyoginlease.co.jp/corporate/outline/",
+      "https://www.iyoginlease.co.jp/corporate/history/",
       "https://www.iyobank.co.jp/",
       "https://www.iyoginhd.co.jp/",
       "https://disclosure.edinet-fsa.go.jp/",
@@ -134,8 +136,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5690,
-    "word_like_tokens": 780,
+    "nonspace_chars": 6124,
+    "word_like_tokens": 870,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

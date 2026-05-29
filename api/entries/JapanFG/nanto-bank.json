@@ -31,7 +31,8 @@
     ],
     "status": "active",
     "sources": [
-      "Wikipedia: 南都銀行 (2026-05-19 抽出)"
+      "https://ja.wikipedia.org/wiki/南都銀行",
+      "南都銀行 開示資料（FY2023、2024-03-31）"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -40,12 +41,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
+    "主要財務（FY2023、2024-03-31 現在）",
     "主要子会社・持分",
     "合併経緯・前身",
     "重要年表（抜粋）",
     "2. 事業セグメント・マップ",
-    "県内地盤戦略",
-    "関西経済圏での競合構造"
+    "県内地盤戦略"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -85,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4148,
-    "word_like_tokens": 598,
+    "nonspace_chars": 4780,
+    "word_like_tokens": 722,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

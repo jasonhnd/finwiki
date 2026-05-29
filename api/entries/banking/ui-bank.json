@@ -35,6 +35,9 @@
     "sources": [
       "https://www.uibank.co.jp/",
       "https://www.uibank.co.jp/info/",
+      "https://www.uibank.co.jp/service/uiplus/",
+      "https://ja.wikipedia.org/wiki/UI銀行",
+      "https://www.albino.co.jp/bank-deposit-balance-ranking/",
       "https://www.tokyo-kiraboshifg.co.jp/",
       "https://www.tokyo-kiraboshifg.co.jp/ir/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
@@ -107,8 +110,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7985,
-    "word_like_tokens": 1292,
+    "nonspace_chars": 8926,
+    "word_like_tokens": 1508,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

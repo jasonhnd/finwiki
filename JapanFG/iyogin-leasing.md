@@ -10,6 +10,8 @@ confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, iyogin-hd, iyo-bank, leasing, shikoku, ehime, operating-company]
 status: active
 sources:
+  - "https://www.iyoginlease.co.jp/corporate/outline/"
+  - "https://www.iyoginlease.co.jp/corporate/history/"
   - "https://www.iyobank.co.jp/"
   - "https://www.iyoginhd.co.jp/"
   - "https://disclosure.edinet-fsa.go.jp/"
@@ -32,7 +34,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 正式名 | 株式会社いよぎんリース |
 | English name | Iyogin Leasing Co., Ltd. |
 | 親会社 | [[iyogin-hd|いよぎん HD]] 100% (中核子会社 [[iyo-bank|伊予銀行]] 連結) |
-| 設立 | [[iyo-bank|伊予銀行]] 系リース子会社として設立 ^[ambiguous] |
+| 設立 | 1974-09-26 ([[iyo-bank|伊予銀行]] 関連会社として設立。旧称「伊豫銀総合リース」)。資本金 8,000 万円。2022-10-03 伊予銀行の単独株式移転による [[iyogin-hd|いよぎん HD]] 設立で同 HD 直接出資子会社に |
 | 主要事業 | 設備リース / ファイナンスリース / オペレーティングリース / 海事クラスター設備リース / 自治体リース / 医療リース / オートリース / ファクタリング |
 | 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
 | 上場区分 | 非上場 ([[iyogin-hd]] グループ) |
@@ -105,11 +107,11 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - **環境リース (再エネ設備 / EV)**: 脱炭素税制対応・グリーンリース商品開発
 - **割賦販売法 / 貸金業法**: ファクタリング領域での適用整理
 - **反社チェック・マネロン対策**: [[iyogin-hd]] グループ共同実施
-- **EDINET / 有価証券報告書**: いよぎんリース単体は非上場で開示限定的、[[iyogin-hd]] 連結セグメント情報で間接開示 ^[ambiguous]
+- **EDINET / 有価証券報告書**: いよぎんリース単体は非上場で開示限定的、[[iyogin-hd]] 連結セグメント情報で間接開示
 
 ### 会計上の取扱い
 
-- **単体財務 KPI**: 親 [[iyogin-hd]] 有価証券報告書注記 / セグメント情報で部分開示 ^[ambiguous]
+- **単体財務 KPI**: 親 [[iyogin-hd]] 有価証券報告書注記 / セグメント情報で部分開示 (参考: 公式公表の売上高は 2022-03 期 167 億円)
 
 ## Related
 
@@ -124,6 +126,8 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 ## Sources
 
+- **いよぎんリース株式会社 公式サイト — 会社概要** (https://www.iyoginlease.co.jp/corporate/outline/, 設立 1974-09-26 / 資本金 8,000 万円 / 筆頭株主 いよぎん HD / 2022-03 期売上高 167 億円)
+- **いよぎんリース 公式サイト — 会社沿革** (https://www.iyoginlease.co.jp/corporate/history/, 1974-09-26 設立ほか主要沿革)
 - **伊予銀行 公式サイト** (https://www.iyobank.co.jp/, グループ会社情報)
 - **いよぎん HD 公式 IR** (https://www.iyoginhd.co.jp/)
 - **EDINET 有価証券報告書 (いよぎん HD 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
@@ -133,4 +137,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[iyogin-hd]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[iyogin-hd]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・合併経緯・海事クラスター取扱高比率の正確な数値は ambiguous ^[ambiguous]。
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[iyogin-hd]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは leasing-subsidiary operating boundary を扱う。設立年 (1974-09-26、旧称 伊豫銀総合リース) ・資本金 (8,000 万円) ・いよぎん HD 直接出資子会社化 (2022-10-03) はいよぎんリース公式会社概要 / 沿革で確認済 (出典下記)。海事クラスター取扱高比率は単体非開示 (公表値なし) のため本文では定性記述に留める。

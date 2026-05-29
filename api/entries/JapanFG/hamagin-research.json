@@ -34,8 +34,10 @@
     "status": "active",
     "sources": [
       "https://www.yokohama-ri.co.jp/",
+      "https://www.yokohama-ri.co.jp/html/company/",
       "https://www.yokohamafg.co.jp/",
       "https://www.boy.co.jp/",
+      "https://www.boy.co.jp/hojin/guide/index.html",
       "https://www.chiginkyo.or.jp/"
     ]
   },
@@ -48,7 +50,7 @@
     "2. 持株ツリー",
     "はまぎん総研 設立",
     "CFG → YFG 商号変更 (2025-10-01)",
-    "4. KPI table (concept) ^[ambiguous]",
+    "4. KPI table",
     "5. 事業セグメント・マップ",
     "FG 内ポジション"
   ],
@@ -86,8 +88,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4372,
-    "word_like_tokens": 595,
+    "nonspace_chars": 4845,
+    "word_like_tokens": 691,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

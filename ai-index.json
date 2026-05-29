@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T19:28:46+09:00",
+  "generated_at": "2026-05-29T20:33:02+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9770457,
-    "word_like_tokens": 1549243
+    "nonspace_utf8_chars": 9778746,
+    "word_like_tokens": 1550983
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 419729,
-      "word_like_tokens": 73742,
+      "nonspace_chars": 419851,
+      "word_like_tokens": 73776,
       "last_modified": "2026-05-29"
     },
     {
@@ -5630,8 +5630,8 @@
         "https://finwiki.zksc.io/yokohama-bank-leasing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5744,
-      "word_like_tokens": 758,
+      "nonspace_chars": 5959,
+      "word_like_tokens": 807,
       "last_modified": "2026-05-29"
     },
     {
@@ -10472,7 +10472,7 @@
         "2. 持株ツリー",
         "はまぎん総研 設立",
         "CFG → YFG 商号変更 (2025-10-01)",
-        "4. KPI table (concept) ^[ambiguous]",
+        "4. KPI table",
         "5. 事業セグメント・マップ",
         "FG 内ポジション"
       ],
@@ -10505,8 +10505,8 @@
         "https://finwiki.zksc.io/yokohama-bank-leasing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4372,
-      "word_like_tokens": 595,
+      "nonspace_chars": 4845,
+      "word_like_tokens": 691,
       "last_modified": "2026-05-29"
     },
     {
@@ -11750,7 +11750,7 @@
         "iBank マーケティング 設立",
         "Wallet+ アプリ 展開",
         "グループ拡大",
-        "4. KPI table (concept) ^[ambiguous]",
+        "4. KPI table (concept)",
         "5. 事業セグメント・マップ"
       ],
       "wikilinks": [
@@ -11788,8 +11788,8 @@
         "https://finwiki.zksc.io/rakuten-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4707,
-      "word_like_tokens": 683,
+      "nonspace_chars": 5157,
+      "word_like_tokens": 785,
       "last_modified": "2026-05-29"
     },
     {
@@ -12808,8 +12808,8 @@
         "https://finwiki.zksc.io/yokohama-bank-leasing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5690,
-      "word_like_tokens": 780,
+      "nonspace_chars": 6124,
+      "word_like_tokens": 870,
       "last_modified": "2026-05-29"
     },
     {
@@ -12883,7 +12883,7 @@
         "主要業務 (県本部固有) ^[extracted]",
         "2011 東日本大震災 + 原発事故での建更給付 ^[extracted]",
         "福島県の農業・JA 構造 ^[extracted]",
-        "県本部の財務規模 (推定) ^[ambiguous]"
+        "県本部の財務規模"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -12916,8 +12916,8 @@
         "https://finwiki.zksc.io/insurance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4722,
-      "word_like_tokens": 733,
+      "nonspace_chars": 5376,
+      "word_like_tokens": 828,
       "last_modified": "2026-05-29"
     },
     {
@@ -14182,7 +14182,7 @@
         "JF Marine Bank system 内の北海道信漁連の位置付け ^[extracted]",
         "重要年表 ^[extracted / inferred]",
         "4 大機能 (信漁連共通) ^[extracted]",
-        "規模感 (推定) ^[ambiguous]"
+        "規模感 (2025-03-31 / 令和7年3月末・公式ディスクロージャー)"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -14213,8 +14213,8 @@
         "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5514,
-      "word_like_tokens": 834,
+      "nonspace_chars": 6568,
+      "word_like_tokens": 1044,
       "last_modified": "2026-05-29"
     },
     {
@@ -14234,13 +14234,14 @@
         "JA 信連との対比 ^[extracted]",
         "重要年表 ^[extracted]",
         "4 大機能 ^[extracted]",
-        "規模感 (推定) ^[ambiguous]",
+        "規模感",
         "JF Marine Bank system 内の位置付け"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
         "JapanFG/ja-shinnoren",
         "JapanFG/ja-zenchu",
+        "JapanFG/jf-marine-bank-hokkaido",
         "JapanFG/jf-zengyoren",
         "JapanFG/norinchukin",
         "JapanFG/rokin-renraku",
@@ -14255,6 +14256,7 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
         "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+        "https://finwiki.zksc.io/JapanFG/jf-marine-bank-hokkaido",
         "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
         "https://finwiki.zksc.io/JapanFG/norinchukin",
         "https://finwiki.zksc.io/JapanFG/rokin-renraku",
@@ -14266,8 +14268,8 @@
         "https://finwiki.zksc.io/norinchukin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4485,
-      "word_like_tokens": 703,
+      "nonspace_chars": 5056,
+      "word_like_tokens": 826,
       "last_modified": "2026-05-29"
     },
     {
@@ -14743,7 +14745,7 @@
         "2. 業務ライン（金融機能マップ）",
         "3. 親会社関係（JR 東日本 連結内）",
         "戦略意義（鉄道企業のフルスタック金融化）",
-        "4. KPI（公開情報ベース、参考値） ^[ambiguous]"
+        "4. KPI（公開情報ベース）"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -14776,8 +14778,8 @@
         "https://finwiki.zksc.io/payments/suica-prepaid-jr-east"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5823,
-      "word_like_tokens": 944,
+      "nonspace_chars": 6329,
+      "word_like_tokens": 1077,
       "last_modified": "2026-05-29"
     },
     {
@@ -17989,8 +17991,8 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4077,
-      "word_like_tokens": 564,
+      "nonspace_chars": 4491,
+      "word_like_tokens": 649,
       "last_modified": "2026-05-29"
     },
     {
@@ -21111,12 +21113,12 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
+        "主要財務（FY2023、2024-03-31 現在）",
         "主要子会社・持分",
         "合併経緯・前身",
         "重要年表（抜粋）",
         "2. 事業セグメント・マップ",
-        "県内地盤戦略",
-        "関西経済圏での競合構造"
+        "県内地盤戦略"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -21151,8 +21153,8 @@
         "https://finwiki.zksc.io/tomony-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4148,
-      "word_like_tokens": 598,
+      "nonspace_chars": 4780,
+      "word_like_tokens": 722,
       "last_modified": "2026-05-29"
     },
     {
@@ -27099,12 +27101,12 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
+        "主要財務（第138期 / FY2024、2025-03-31 現在）",
         "主要子会社・持分",
         "合併歴史・前身",
         "重要年表（抜粋）",
         "2. 事業セグメント・マップ",
-        "ESG リーダー戦略 ★",
-        "TSUBASA アライアンス参加戦略 ★"
+        "ESG リーダー戦略 ★"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -27149,8 +27151,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5727,
-      "word_like_tokens": 826,
+      "nonspace_chars": 6161,
+      "word_like_tokens": 937,
       "last_modified": "2026-05-29"
     },
     {
@@ -27690,8 +27692,8 @@
         "https://finwiki.zksc.io/yokohama-bank-leasing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6187,
-      "word_like_tokens": 820,
+      "nonspace_chars": 6608,
+      "word_like_tokens": 913,
       "last_modified": "2026-05-29"
     },
     {
@@ -33231,8 +33233,8 @@
         "https://finwiki.zksc.io/yokohama-bank-leasing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6006,
-      "word_like_tokens": 830,
+      "nonspace_chars": 6387,
+      "word_like_tokens": 907,
       "last_modified": "2026-05-29"
     },
     {
@@ -37044,8 +37046,8 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16376,
-      "word_like_tokens": 2474,
+      "nonspace_chars": 16942,
+      "word_like_tokens": 2575,
       "last_modified": "2026-05-29"
     },
     {
@@ -39518,8 +39520,8 @@
         "https://finwiki.zksc.io/banking/sony-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7985,
-      "word_like_tokens": 1292,
+      "nonspace_chars": 8926,
+      "word_like_tokens": 1508,
       "last_modified": "2026-05-29"
     },
     {
@@ -83710,8 +83712,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2561,
-      "word_like_tokens": 485,
+      "nonspace_chars": 2582,
+      "word_like_tokens": 486,
       "last_modified": "2026-05-29"
     }
   ]

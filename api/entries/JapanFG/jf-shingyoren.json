@@ -39,7 +39,9 @@
       "https://www.jfmbk.org/about/housin.html",
       "https://www.jfmbk.org/common/pdf/housin_jf_all.pdf",
       "https://www.nochubank.or.jp/about/features.html",
-      "水産業協同組合法 (昭和 23 年法律第 242 号)"
+      "水産業協同組合法 (昭和 23 年法律第 242 号)",
+      "https://ja.wikipedia.org/wiki/JFマリンバンク",
+      "https://marinebank.jp/disclosure/index.html"
     ]
   },
   "summary": "This entry sits under JapanFG index as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative / economic-",
@@ -52,15 +54,16 @@
     "JA 信連との対比 ^[extracted]",
     "重要年表 ^[extracted]",
     "4 大機能 ^[extracted]",
-    "規模感 (推定) ^[ambiguous]",
+    "規模感",
     "JF Marine Bank system 内の位置付け"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 13,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/ja-shinnoren",
       "JapanFG/ja-zenchu",
+      "JapanFG/jf-marine-bank-hokkaido",
       "JapanFG/jf-zengyoren",
       "JapanFG/norinchukin",
       "JapanFG/rokin-renraku",
@@ -75,6 +78,7 @@
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/ja-shinnoren",
       "https://finwiki.zksc.io/JapanFG/ja-zenchu",
+      "https://finwiki.zksc.io/JapanFG/jf-marine-bank-hokkaido",
       "https://finwiki.zksc.io/JapanFG/jf-zengyoren",
       "https://finwiki.zksc.io/JapanFG/norinchukin",
       "https://finwiki.zksc.io/JapanFG/rokin-renraku",
@@ -89,8 +93,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4485,
-    "word_like_tokens": 703,
+    "nonspace_chars": 5056,
+    "word_like_tokens": 826,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-05-29"
   }

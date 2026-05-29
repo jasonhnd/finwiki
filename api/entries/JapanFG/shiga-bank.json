@@ -31,7 +31,8 @@
     ],
     "status": "active",
     "sources": [
-      "Wikipedia: 滋賀銀行 (2026-05-19 抽出)",
+      "https://ja.wikipedia.org/wiki/滋賀銀行",
+      "滋賀銀行 第138期有価証券報告書（FY2024、2025-03-31）",
       "滋賀銀行 公式沿革・IR 開示資料",
       "TSUBASA アライアンス 公式情報"
     ]
@@ -42,12 +43,12 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
+    "主要財務（第138期 / FY2024、2025-03-31 現在）",
     "主要子会社・持分",
     "合併歴史・前身",
     "重要年表（抜粋）",
     "2. 事業セグメント・マップ",
-    "ESG リーダー戦略 ★",
-    "TSUBASA アライアンス参加戦略 ★"
+    "ESG リーダー戦略 ★"
   ],
   "body_links": {
     "wikilinks_count": 19,
@@ -97,8 +98,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5727,
-    "word_like_tokens": 826,
+    "nonspace_chars": 6161,
+    "word_like_tokens": 937,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

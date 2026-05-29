@@ -10,6 +10,8 @@ confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, yamaguchi-fg, leasing, chugoku, kyushu, yamaguchi, hiroshima, operating-company]
 status: active
 sources:
+  - "https://www.ym-lease.co.jp/history.html"
+  - "https://www.ym-lease.co.jp/about.html"
   - "https://www.yamaguchibank.co.jp/"
   - "https://www.ymfg.co.jp/"
   - "https://disclosure.edinet-fsa.go.jp/"
@@ -32,7 +34,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 正式名 | 株式会社山口リース (ワイエムリース) |
 | English name | Yamaguchi Leasing Co., Ltd. (YM Lease) |
 | 親会社 | [[yamaguchi-fg|YMFG]] グループ (山口銀行 / [[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] 連携) |
-| 設立 | 山口銀行系リース子会社として設立 ^[ambiguous] |
+| 設立 | 1983-05 (山口リース株式会社として下関で設立、6 月営業開始)。2014-04 に山口・もみじ・北九州 3 行リース事業統合を機に「ワイエムリース株式会社」へ商号変更、2014-12 [[yamaguchi-fg|YMFG]] 連結子会社化、2023-03 完全子会社化 |
 | 主要事業 | 設備リース / ファイナンスリース / オペレーティングリース / 自治体リース / 医療リース / オートリース / ファクタリング |
 | 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
 | 上場区分 | 非上場 ([[yamaguchi-fg]] グループ) |
@@ -114,11 +116,11 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - **環境リース (再エネ設備 / EV)**: 脱炭素税制対応・グリーンリース商品開発
 - **割賦販売法 / 貸金業法**: ファクタリング領域での適用整理
 - **反社チェック・マネロン対策**: [[yamaguchi-fg]] グループ共同実施
-- **EDINET / 有価証券報告書**: 山口リース単体は非上場で開示限定的、[[yamaguchi-fg]] 連結セグメント情報で間接開示 ^[ambiguous]
+- **EDINET / 有価証券報告書**: 山口リース単体は非上場で開示限定的、[[yamaguchi-fg]] 連結セグメント情報で間接開示
 
 ### 会計上の取扱い
 
-- **単体財務 KPI**: 親 [[yamaguchi-fg]] 有価証券報告書注記 / セグメント情報で部分開示 ^[ambiguous]
+- **単体財務 KPI**: 親 [[yamaguchi-fg]] 有価証券報告書注記 / セグメント情報で部分開示
 
 ## Related
 
@@ -133,6 +135,8 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 
 ## Sources
 
+- **ワイエムリース (山口リース) 公式サイト — 会社沿革** (https://www.ym-lease.co.jp/history.html, 1983-05 山口リース設立 / 2014-04 ワイエムリース商号変更 / 2014-12 YMFG 連結子会社化 / 2023-03 完全子会社化)
+- **ワイエムリース 公式サイト — 会社概要** (https://www.ym-lease.co.jp/about.html)
 - **山口銀行 公式サイト** (https://www.yamaguchibank.co.jp/, グループ会社情報)
 - **山口 FG (YMFG) 公式 IR** (https://www.ymfg.co.jp/)
 - **EDINET 有価証券報告書 (YMFG 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
@@ -142,4 +146,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[yamaguchi-fg]] page = 3 行 3 ブランド holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[yamaguchi-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・合併経緯の正確な年月は ambiguous ^[ambiguous]。
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[yamaguchi-fg]] page = 3 行 3 ブランド holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。設立年 (1983-05) ・商号変更 (2014-04 ワイエムリース) ・完全子会社化 (2023-03) はワイエムリース公式沿革で確認済 (出典下記)。単体財務 KPI 精緻値は親 [[yamaguchi-fg]] 有価証券報告書セグメント情報を参照。
