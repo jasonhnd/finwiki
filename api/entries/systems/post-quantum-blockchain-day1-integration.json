@@ -9,7 +9,7 @@
   "title": "耐量子署名 day-1 統合の経済学",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "耐量子署名 day-1 統合の経済学(FIPS 205 SLH-DSA on Arc)",
+    "title": "耐量子署名 day-1 統合の経済学(FIPS 205 SLH-DSA · Circle Arc の day-1 PQ)",
     "aliases": [
       "post-quantum blockchain",
       "SLH-DSA-SHA2-128s",
@@ -61,8 +61,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1247,
-    "word_like_tokens": 211,
+    "nonspace_chars": 1260,
+    "word_like_tokens": 215,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }

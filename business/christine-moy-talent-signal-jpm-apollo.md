@@ -27,9 +27,9 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 - 「初期のキーパーソン」とはその領域の中核プロダクトを主導した人物を指す(一般役員・一般社員ではない) ^[inferred]
 - 機関間の転職 = 当該個人が新方向の収益 / 成長率に賭ける行為で、戦略の公的発表よりも早く現れる ^[inferred]
 - Christine Moyは2019年にJPM Onyxへ加入し、JPMD / Onyx Coin Systemsを主導 ^[extracted]
-- 2024年にApolloへ移籍しACRED(Apollo Tokenized Credit Fund)を推進 ^[extracted]
+- 2022年にApolloへ移籍しACRED(Apollo Tokenized Credit Fund)を推進 ^[extracted]
 - 同時期に類似流動が出現:ex-Goldman → Anchorage / ex-Citi → Bridge ^[extracted]
-- シグナルの回収サイクル = 6-18ヶ月(2024年の移籍 → 2026 H2にApolloの私募信用のオンチェーン化加速) ^[inferred]
+- シグナルの回収サイクルは数年規模(2022年の移籍 → 2026 H2にApolloの私募信用のオンチェーン化加速) ^[inferred]
 
 ## Mechanism / How it works
 

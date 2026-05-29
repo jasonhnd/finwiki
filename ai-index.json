@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T13:16:02+09:00",
+  "generated_at": "2026-05-29T13:38:12+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10556112,
-    "word_like_tokens": 1667534
+    "nonspace_utf8_chars": 10557906,
+    "word_like_tokens": 1667888
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -222,7 +222,7 @@
       "title": "CHANGELOG",
       "domain": "root",
       "entry_type": "control_doc",
-      "summary": "1. 公開面違反 (HIGH): 13 個の exchanges/ ファイルが 来源: projects/cgv/jp-crypto-exchange-research/ という内部ステージング・ディレクトリ参照を含んでいた。 2. 断リンク (HIGH): JapanFG/cpaaob が fsa-supervision-bureau / fsa-inspection-bureau / fsa-strategy-bureau / fsa-planning-coordination-bureau の 4 ファイルで 7 回参照されているが、JapanFG/cpaaob.md は存在せず、ai-",
+      "summary": "1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022",
       "headings": [
         "CHANGELOG",
         "運用原則 / Maintenance Principles / 维护原则",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-05-29",
+        "本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误",
         "技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全",
         "技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全",
-        "公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）",
-        "2026-05-25"
+        "公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 409657,
-      "word_like_tokens": 71955,
+      "nonspace_chars": 412706,
+      "word_like_tokens": 72522,
       "last_modified": "2026-05-29"
     },
     {
@@ -35302,7 +35302,7 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3537,
+      "nonspace_chars": 3534,
       "word_like_tokens": 577,
       "last_modified": "2026-05-29"
     },
@@ -40029,8 +40029,8 @@
         "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3681,
-      "word_like_tokens": 549,
+      "nonspace_chars": 3679,
+      "word_like_tokens": 546,
       "last_modified": "2026-05-29"
     },
     {
@@ -40306,8 +40306,8 @@
         "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4248,
-      "word_like_tokens": 670,
+      "nonspace_chars": 4596,
+      "word_like_tokens": 727,
       "last_modified": "2026-05-29"
     },
     {
@@ -40576,8 +40576,8 @@
         "https://finwiki.zksc.io/fintech/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3447,
-      "word_like_tokens": 549,
+      "nonspace_chars": 3450,
+      "word_like_tokens": 550,
       "last_modified": "2026-05-29"
     },
     {
@@ -47273,8 +47273,8 @@
         "Wiki route",
         "既知の先例",
         "bitbank × きらぼし銀行(2026-03公表)⭐",
-        "GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)",
-        "GMO 初期 × 単一地銀(年代要確認)",
+        "GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)※公開ソース未確認",
+        "GMO 初期 × 単一地銀(公開ソース未確認)",
         "業界共通要素",
         "銀行側の選好(パターン)",
         "きらぼし銀行",
@@ -47301,8 +47301,8 @@
         "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2900,
-      "word_like_tokens": 403,
+      "nonspace_chars": 2940,
+      "word_like_tokens": 407,
       "last_modified": "2026-05-29"
     },
     {
@@ -83693,8 +83693,8 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1247,
-      "word_like_tokens": 211,
+      "nonspace_chars": 1260,
+      "word_like_tokens": 215,
       "last_modified": "2026-05-29"
     },
     {
@@ -84561,8 +84561,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 3997,
-      "word_like_tokens": 715,
+      "nonspace_chars": 2343,
+      "word_like_tokens": 439,
       "last_modified": "2026-05-29"
     }
   ]

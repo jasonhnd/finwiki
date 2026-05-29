@@ -11,6 +11,7 @@ tags: [business, people, jamie-dimon, jpm, kinexys, jpmd, base, pivot, case-stud
 sources:
   - https://www.coindesk.com/markets/2017/09/12/jamie-dimon-bitcoin-is-a-fraud
   - https://www.coindesk.com/business/2024/01/17/jamie-dimon-bashes-bitcoin-again-a-pet-rock
+  - https://fortune.com/2022/09/22/jpmorgan-jamie-dimon-dangerous-crypto-decentralized-ponzi-scheme-not-good-for-anybody/
   - https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html
   - https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys
   - https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report
@@ -28,7 +29,7 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 - 長年反暗号資産だったCEOの転換 = 規制 + 顧客 + 競合という三重圧力共振のlagging indicator ^[inferred]
 - Dimonは2017-09に「BTCは詐欺、BTCを買ったトレーダーは即解雇する」と発言 ^[extracted]
-- 2022年「暗号資産はペットロックと同じ」+ 議会公聴会で暗号資産に反対の立場 ^[extracted]
+- 2022-09 下院公聴会で暗号資産を「分散型ポンジスキーム」と証言、2024-01 Davos で「ビットコインはペットロック」と発言 ^[extracted]
 - 2024-Q2に軟化:ステーブルコイン + トークン化に「実需ユースケースがある」と承認 ^[extracted]
 - 2024-11にOnyxをKinexysへ改称 + 戦略アップグレード ^[extracted]
 - 2025-Q4にJPMD on Baseがローンチ = 主要銀行が初めてパブリックチェーン上に発行したトークン化預金 ^[extracted]
@@ -68,6 +69,7 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 
 - Jamie Dimon: Bitcoin Is a 'Fraud' (CoinDesk, 2017-09-12) — https://www.coindesk.com/markets/2017/09/12/jamie-dimon-bitcoin-is-a-fraud
 - Jamie Dimon Bashes Bitcoin Again: 'A Pet Rock' (Davos, CoinDesk, 2024-01-17) — https://www.coindesk.com/business/2024/01/17/jamie-dimon-bashes-bitcoin-again-a-pet-rock
+- Jamie Dimon told Congress crypto tokens are 'decentralized Ponzi schemes' (Fortune, 2022-09-22) — https://fortune.com/2022/09/22/jpmorgan-jamie-dimon-dangerous-crypto-decentralized-ponzi-scheme-not-good-for-anybody/
 - JPMorgan rolling out first US bank-backed cryptocurrency, JPM Coin (CNBC, 2019-02-13) — https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html
 - Introducing Kinexys (Onyx rebrand, J.P. Morgan official) — https://www.jpmorgan.com/insights/payments/blockchain-digital-assets/introducing-kinexys
 - JPMorgan Rolls Out JPM Coin (JPMD) Leveraging Coinbase's Base (CoinDesk, 2025-11-12) — https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report

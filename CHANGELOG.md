@@ -31,6 +31,32 @@
 
 ## 2026-05-29
 
+### 本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误
+
+#### 日本語記録
+
+- **背景**: 「FinWiki は事実記録」原則のもと、Wave 14b の出典照合で判明した本文の事実誤りを全件修正。各修正は一次/著名源で再確認してから実施(WebFetch / WebSearch / gh)。
+- **修正内容**:
+  1. `matt-huang-triple-role-coi-template` — Stripe 取締役就任「2024」→ **2021-11**(Stripe newsroom: 2021年11月5日)。
+  2. `christine-moy-talent-signal-jpm-apollo` — Apollo 移籍「2024」→ **2022-04**(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。
+  3. `jamie-dimon-anti-crypto-pivot-case` — 「2022 ペットロック」を分離・修正:**2022-09 下院公聴会の「分散型ポンジ」証言** + **2024-01 Davos の「ペットロック」発言**。Fortune 2022-09-22 を frontmatter / 本文 sources に追加。
+  4. `post-quantum-blockchain-day1-integration` — 題「SLH-DSA on Arc」は過度断定。Circle blog は Arc の「day-1 PQ」を述べるのみで方式(ML-DSA / Falcon / SLH-DSA)未確定 → 「FIPS 205 SLH-DSA · Circle Arc の day-1 PQ」へ修正。
+  5. `ai-agent-payment-protocols-seven-layers` — 「ACP(Catena Labs · Sequoia)」→ **「ACK(Catena Labs · a16z)」**(Catena の製品は Agent Commerce Kit、出資は a16z crypto 主導 — seed 2025-05 / Series A 2026-05)。
+  6. `jp-crypto-bank-credit-facilities` — GMO 信用枠 sub-claim(きらぼし+あおぞら 10億円 マルチバンク / 単一地銀)は公開ソースで裏付け不可 → **「公開ソース未確認」と明示**(bitbank × きらぼし 2026-03 は公開確認済で維持)。
+- **検証**: `wiki_link_audit.py` 1411 entries / **0 issues**、JSON valid、LF 統一。
+
+#### English record
+
+- **Context**: Under the "FinWiki is a factual record" principle, fixed all body factual errors surfaced during Wave 14b sourcing. Each correction was re-confirmed against primary/reputable sources (WebFetch / WebSearch / gh) before editing.
+- **Fixes**: (1) Matt Huang Stripe board "2024" → **Nov 2021** (Stripe newsroom). (2) Christine Moy Apollo move "2024" → **Apr 2022** (CoinDesk/Apollo); also fixed the inconsistent "6-18 month cycle" inferred claim to "multi-year". (3) Jamie Dimon — split the conflated line into **2022-09 House testimony "decentralized Ponzi"** + **2024-01 Davos "pet rock"**; added Fortune 2022-09-22 to frontmatter/body sources. (4) post-quantum title "SLH-DSA on Arc" was over-asserted — Circle's blog only states Arc is "PQ-secure day-1" without naming the scheme (ML-DSA/Falcon/SLH-DSA undecided) → retitled "FIPS 205 SLH-DSA · Circle Arc day-1 PQ". (5) "ACP (Catena Labs · Sequoia)" → **"ACK (Catena Labs · a16z)"** (Catena's product is Agent Commerce Kit; funding is a16z-crypto-led — seed May 2025 / Series A May 2026). (6) jp-crypto GMO credit-facility sub-claims unverifiable from public sources → **marked "public source unconfirmed"** (the sourced bitbank × Kiraboshi 2026-03 case retained).
+- **Validation**: `wiki_link_audit.py` 1411 entries / **0 issues**, JSON valid, LF endings.
+
+#### 中文记录
+
+- **背景**: 在"FinWiki 是事实记录"原则下，修正 Wave 14b 溯源中发现的全部正文事实错误。每处修正都先用一次/著名源复核(WebFetch / WebSearch / gh)再改。
+- **修正**: ①Matt Huang 进 Stripe 董事会"2024"→**2021-11**(Stripe newsroom)。②Christine Moy 转 Apollo"2024"→**2022-04**(CoinDesk/Apollo)；并把自相矛盾的"回收周期 6-18 个月"改为"数年规模"。③Jamie Dimon——拆分被并到一处的论断:**2022-09 众议院听证"分散型庞氏"证言** + **2024-01 Davos"宠物石"言论**;在 frontmatter/正文 sources 加入 Fortune 2022-09-22。④post-quantum 标题"SLH-DSA on Arc"属过度断定——Circle 博客仅称 Arc"day-1 PQ"、未定方案(ML-DSA/Falcon/SLH-DSA)→改为"FIPS 205 SLH-DSA · Circle Arc day-1 PQ"。⑤"ACP(Catena Labs · Sequoia)"→**"ACK(Catena Labs · a16z)"**(Catena 产品是 Agent Commerce Kit，出资由 a16z crypto 领投——seed 2025-05 / Series A 2026-05)。⑥jp-crypto 的 GMO 信贷子论点无公开源佐证→**标注"公开源未确认"**(已确认的 bitbank × きらぼし 2026-03 保留)。
+- **验证**: `wiki_link_audit.py` 1411 entries / **0 issues**，JSON valid，LF 统一。
+
 ### 技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全
 
 #### 日本語記録
