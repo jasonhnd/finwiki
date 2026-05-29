@@ -17,7 +17,10 @@ confidence: likely
 tags: [JapanFG, jf-group, cooperative-central, kyosai, mutual-insurance, fisheries-insurance, ja-kyosairen-peer]
 status: active
 sources:
-  - "https://www.jf-kyosui.or.jp/"
+  - "https://www.kyosuiren.or.jp/"
+  - "https://www.kyosuiren.or.jp/about/kyosuiren/"
+  - "https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf"
+  - "https://www.jf-kyosai.jp/about/"
   - "https://www.zengyoren.or.jp/"
   - "https://www.jfmbk.org/"
   - "https://www.nochubank.or.jp/about/features.html"
@@ -54,7 +57,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperat
 | 形態 | 株式会社 / 相互会社 | 連合会 (協同組織) | 連合会 (協同組織) |
 | 顧客 | 公衆 (open) | **JF 組合員 (漁業者・地域住民)** | JA 組合員 (農家・地域住民) |
 | 商品名 | 保険 | **漁業共済 / 一般共済** | 共済 |
-| 規模 (推定) | 大手 数十兆円 | **数千億〜数兆円規模** ^[ambiguous] | 200 兆円規模 |
+| 規模 | 大手 数十兆円 | **総資産 3,836 億円 / 保障金額 4.1 兆円** (2025-03 末) | 200 兆円規模 |
 
 ### JF グループ 3 大全国連合会 ^[extracted]
 
@@ -70,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperat
 
 | 軸 | [[JapanFG/ja-kyosairen|JA 共済連]] | **JF 共水連** ★本ページ |
 |---|---|---|
-| 規模 (保有契約高) | **約 200 兆円規模** | **数千億〜数兆円規模** ^[ambiguous] |
+| 規模 (保有契約高/保障金額) | **約 200 兆円規模** | **保障金額 4.1 兆円 / 総資産 3,836 億円** (2025-03 末) |
 | 会員 | 全国 497 JA + 都道府県農協 | 全国 71 JF + 都道府県漁連 |
 | 主力商品 | 建物更生共済 (建更) + 終身共済 + 年金共済 + 自動車共済 | **漁船共済 + 建更 + 終身共済 + 年金共済 + 自動車共済** |
 | 固有商品 | 建更 | **漁船共済 + 漁業者災害共済** (漁業特化) |
@@ -98,16 +101,20 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperat
 - **季節集中型収入** (漁期に応じた所得変動) → 共済掛金支払いのタイミング工夫
 - **高齢化と後継者問題** → 共済加入者の世代変化対応
 
-## 4. KPI (推定)
+## 4. KPI (2025-03 末 / 公式「現況」)
 
 | 指標 | 値 | 出典 |
 |---|---|---|
-| 保有契約高 (生命系) | 数千億〜数兆円規模 | ^[ambiguous] 共水連年次報告書要参照 |
-| 保有契約高 (損害系含む全体) | 数千億〜数兆円規模 | ^[ambiguous] |
-| 総資産 | 数千億〜1 兆円規模 | ^[ambiguous] |
-| 会員 JF 数 | 71 JF (信用事業実施組合主体) | ^[extracted] |
+| 保障金額 (保有契約高) | 4.1 兆円 | 共水連「現況」2025 |
+| 保有契約件数 | 47.4 万件 | 共水連「現況」2025 |
+| 受入共済掛金 (年間) | 373 億円 | 共水連「現況」2025 |
+| 支払共済金 (年間) | 416 億円 | 共水連「現況」2025 |
+| 総資産 | 3,836 億円 | 共水連「現況」2025 |
+| 出資金 | 53 億 3,000 万円 (2023-03 末) | 共水連 RECRUIT 組織概要 |
+| 会員数 | 926 会員 (2025-03 末) | 共水連「現況」2025 |
+| 会員 JF 数 (信用事業実施組合主体) | 71 JF | ^[extracted] |
 
-> 注: JF 共水連は公開情報が JA 共済連に比べ限定的、最新は共水連年次報告書 + JF グループ公開資料を要参照
+> 注: 数値は JF 共水連 公式「現況」(2025-03 末) 及び組織概要。総資産は 2023-03 末で 4,327 億円・保障金額 4.3 兆円であり、近年は漸減傾向。会員 926 は漁協系会員ベース、うち信用事業実施 JF 主体は 71。
 
 ## 5. 監督・規制
 
@@ -139,7 +146,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperat
 
 ## Sources
 
-- **JF 共水連 公式 (推定)**: https://www.jf-kyosui.or.jp/
+- **JF 共水連 (全国共済水産業協同組合連合会) 公式**: https://www.kyosuiren.or.jp/
+- **JF 共水連 のご案内 (2025-03 末: 総資産 3,836 億円・保障金額 4.1 兆円・契約 47.4 万件・受入共済掛金 373 億円・会員 926)**: https://www.kyosuiren.or.jp/about/kyosuiren/
+- **JF 共水連「現況」2025 (ディスクロージャー)**: https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf
+- **JF 共済 RECRUIT 組織概要 (2023-03 末: 総資産 4,327 億円・保障金額 4.3 兆円・出資金 53.3 億円・職員 382 名)**: https://www.jf-kyosai.jp/about/
 - **JF 全漁連 公式**: https://www.zengyoren.or.jp/
 - **JF Marine Bank 公式**: https://www.jfmbk.org/
 - **農林中央金庫 特徴 (2025-04-01 時点層別人数)**: https://www.nochubank.or.jp/about/features.html
@@ -149,3 +159,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperat
 ---
 
 > [!info] 校核状態
+> confidence: **likely**。JF 共水連 公式「のご案内」「現況2025」+ JF 共済 RECRUIT 組織概要ベース。総資産 3,836 億円・保障金額 4.1 兆円・契約 47.4 万件・受入共済掛金 373 億円・会員 926 (いずれも 2025-03 末) は公式由来の確定値。2023-03 末は総資産 4,327 億円・保障金額 4.3 兆円・出資金 53.3 億円・職員 382 名。当初の「数千億〜数兆円規模」概数は公式数値 (総資産 約 3,800〜4,300 億円・保障金額 約 4 兆円) に置換。会員 926 は漁協系会員ベース、信用事業実施 JF 主体は 71。

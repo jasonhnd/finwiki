@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T19:11:06+09:00
+Generated: 2026-05-29T19:28:46+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -818,7 +818,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 群馬銀行 (The Gunma Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 千葉銀行 (Chiba Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開）^[extracted], 主要子会社・関連会社（公開）, 前身・統合歴史, 重要年表（抜粋）^[extracted]
+- Headings: 千葉銀行 (Chiba Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（2025-03 期・連結）^[extracted], 主要子会社・関連会社（公開）, 前身・統合歴史, 重要年表（抜粋）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/JapanFG/gunma-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/smfg
 
 ### 千葉興業銀行 (Chiba Kogyo Bank)
@@ -2068,7 +2068,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 京都フィナンシャルグループ for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 池田泉州ホールディングス, Wiki route, TL;DR, 1. 会社概要, 2025-03 期決算（連結ベース概況）^[ambiguous], 主要子会社・組織, 合併経緯・前身, 重要年表（抜粋）^[extracted]
+- Headings: 池田泉州ホールディングス, Wiki route, TL;DR, 1. 会社概要, 2025-03 期決算（連結ベース）, 主要子会社・組織, 合併経緯・前身, 重要年表（抜粋）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/kyoto-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/rakuten-fg, https://finwiki.zksc.io/resona-hd, https://finwiki.zksc.io/sbi-hd
 
 ### 今村証券 (Imamura Securities)
@@ -2869,7 +2869,7 @@ Public pages listed: 1448
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it alongside EY 新日本 and トーマツ for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
 - Headings: 有限責任 あずさ監査法人 (KPMG AZSA), Wiki route, 1. 法人概要, 2. 沿革, 金融機関監査（最大強み）^[extracted], 暗号資産・デジタルアセット ^[extracted], 地方銀行 / 地方公共団体, サステナビリティ保証
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape, https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape, https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities
 
 ### 熊本銀行
 - URL: https://finwiki.zksc.io/JapanFG/kumamoto-bank
@@ -2958,7 +2958,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 京都フィナンシャルグループ, Wiki route, TL;DR, 1. 会社概要, 2025-03 期決算（連結ベース概況）^[ambiguous], 主要子会社・組織, 合併経緯・前身, 重要年表（抜粋）^[extracted]
+- Headings: 京都フィナンシャルグループ, Wiki route, TL;DR, 1. 会社概要, 2025-03 期決算（連結・有価証券報告書ベース）^[extracted], 主要子会社・組織, 合併経緯・前身, 重要年表（抜粋）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/ikeda-senshu-hd, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/paypay-fg, https://finwiki.zksc.io/rakuten-fg, https://finwiki.zksc.io/resona-hd
 
 ### 九州 FG (Kyushu FG)
@@ -4958,7 +4958,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against ローソン銀行 (Lawson Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: セブン銀行 (Seven Bank), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ ^[extracted], 株主構造（連結）^[ambiguous], 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: セブン銀行 (Seven Bank), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ ^[extracted], 株主構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/lawson-bank, https://finwiki.zksc.io/aeon-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/mercari-bank-license-stack, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/lawson-bank, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/retail/seven-and-i-hd, https://finwiki.zksc.io/smfg
 
 ### セブン・カードサービス (Seven Card Service)
@@ -5028,7 +5028,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 全国信用協同組合連合会 (全信組連) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 信金中央金庫 (Shinkin Central Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（推定・概況）^[ambiguous], 重要年表（抜粋）^[extracted], 2. 事業セグメント・マップ, 中央機関としての二重役割
+- Headings: 信金中央金庫 (Shinkin Central Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（2025-03 末 / 公式ディスクロージャー）^[extracted], 重要年表（抜粋）^[extracted], 2. 事業セグメント・マップ, 中央機関としての二重役割
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/ndfg, https://finwiki.zksc.io/norinchukin, https://finwiki.zksc.io/smfg
 
 ### Shinkin Network Services (信金ネットワークサービス)
@@ -5628,7 +5628,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。
-- Headings: 太陽有限責任監査法人 (Grant Thornton Taiyo), Wiki route, 1. 法人概要, 2. 沿革, IPO 準備支援（最大強み）^[extracted], VASP / 暗号資産 ^[extracted], 中堅金融機関, 4. 主要 listed FG クライアント関係（公開ベース）
+- Headings: 太陽有限責任監査法人 (Grant Thornton Taiyo), Wiki route, 1. 法人概要, 2. 沿革, IPO 準備支援（最大強み）^[extracted], VASP / 暗号資産 ^[extracted], 4. 主要 listed FG クライアント関係（公開ベース）, 5. 規制・監督
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/deloitte-touche-tohmatsu, https://finwiki.zksc.io/JapanFG/ey-shinnihon, https://finwiki.zksc.io/JapanFG/fsa-strategy-bureau, https://finwiki.zksc.io/JapanFG/fsa-supervision-bureau, https://finwiki.zksc.io/JapanFG/kpmg-azsa, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/pwc-aarata, https://finwiki.zksc.io/JapanFG/sbi-hd, https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape
 
 ### 太陽生命保険
@@ -5858,7 +5858,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index as the largest 自治体職員 (local government employee) shinkumi in Japan, complementing peer 職域 (occupation-based) shinkumi like 警視庁職員信用組合 (police) and 東京消防信用組合 (fire dept) within the 143-cooperative population catalogued in Japan credit cooperative registry.
-- Headings: 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative), Wiki route, 1. 法人概要, 組合員資格 ^[extracted], 全信組連内の位置付け, 主要業務 ^[extracted], 5. KPI (推定) ^[ambiguous], 6. 監督・規制
+- Headings: 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative), Wiki route, 1. 法人概要, 組合員資格 ^[extracted], 全信組連内の位置付け, 主要業務 ^[extracted], 5. KPI, 6. 監督・規制
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/dic, https://finwiki.zksc.io/JapanFG/iwaki-shinkumi, https://finwiki.zksc.io/JapanFG/keishicho-shinkumi, https://finwiki.zksc.io/JapanFG/tokyo-shobo-shinkumi, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/credit-cooperative-registry-japan
 
 ### トマト銀行

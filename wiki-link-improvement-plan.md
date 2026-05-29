@@ -31,21 +31,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/aichi-iryo-shinkumi.md` | `M` | 11 | ok |
-| `JapanFG/aichi-shogin-shinkumi.md` | `M` | 7 | ok |
-| `JapanFG/bdo-sanyu.md` | `M` | 14 | ok |
-| `JapanFG/fukuoka-ken-shinkumi.md` | `M` | 12 | ok |
-| `JapanFG/hana-shinkumi.md` | `M` | 9 | ok |
-| `JapanFG/ja-bank-tokyo-shinren.md` | `M` | 12 | ok |
-| `JapanFG/lawson-bank.md` | `M` | 10 | ok |
-| `JapanFG/local-govt-finance.md` | `M` | 18 | ok |
-| `JapanFG/wealthnavi.md` | `M` | 13 | ok |
-| `banking/gmo-aozora-net-bank.md` | `M` | 41 | ok |
-| `banking/japan-cooperative-banking-unified-federation-matrix.md` | `M` | 154 | ok |
-| `banking/sony-bank.md` | `M` | 22 | ok |
-| `banking/trust-bank-fee-structure-comparison.md` | `M` | 32 | ok |
-| `payments/japan-code-payment-operator-2025-market-share-matrix.md` | `M` | 70 | ok |
-| `payments/visa-mastercard-amex-jcb-japan-operating-comparison.md` | `M` | 121 | ok |
+| `JapanFG/chiba-bank.md` | `M` | 9 | ok |
+| `JapanFG/chochukin-rokin.md` | `M` | 12 | ok |
+| `JapanFG/deloitte-touche-tohmatsu.md` | `M` | 14 | ok |
+| `JapanFG/ikeda-senshu-hd.md` | `M` | 13 | ok |
+| `JapanFG/jf-kyosuiren.md` | `M` | 16 | ok |
+| `JapanFG/keishicho-shinkumi.md` | `M` | 10 | ok |
+| `JapanFG/kpmg-azsa.md` | `M` | 12 | ok |
+| `JapanFG/kyoto-fg.md` | `M` | 16 | ok |
+| `JapanFG/mizuho-fg.md` | `M` | 3 | ok |
+| `JapanFG/norinchukin.md` | `M` | 12 | ok |
+| `JapanFG/sbi-regional-bank-hd.md` | `M` | 24 | ok |
+| `JapanFG/seven-bank.md` | `M` | 6 | ok |
+| `JapanFG/shinkin-central.md` | `M` | 5 | ok |
+| `JapanFG/taiyo-grant-thornton.md` | `M` | 13 | ok |
+| `JapanFG/tokyo-to-shokuin-shinkumi.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 

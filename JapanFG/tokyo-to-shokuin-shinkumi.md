@@ -15,6 +15,9 @@ tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kanto, tokyo,
 status: active
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx"
+  - "https://www.toshokushin.co.jp/"
+  - "https://ja.wikipedia.org/wiki/東京都職員信用組合"
+  - "https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf"
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
@@ -69,15 +72,20 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest 自治体
 | **定期・流動性預金** | 組合員世帯向け預金 |
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 
-## 5. KPI (推定) ^[ambiguous]
+## 5. KPI
 
 | 指標 | 値 | 出典 |
 |---|---|---|
-| 総資産 | **数千億円規模** (職域信組としては突出) | ^[ambiguous] ディスクロージャー誌要参照 |
-| 預金残高 | 数千億円規模 | ^[ambiguous] |
-| 貸出金 | 千億円台規模 (住宅ローン中心) | ^[ambiguous] |
+| 総資産 | **899 億 4,898 万円** | Wikipedia (2022-03 末) |
+| 預金残高 | **730 億 7,051 万円** | Wikipedia (2022-03 末) |
+| 貸出金 | **410 億 3,246 万円** (住宅ローン中心) | Wikipedia (2022-03 末) |
+| 純資産 | 93 億 7,937 万円 | Wikipedia (2022-03 末) |
+| 出資金 | 1 億 6,254 万円 | Wikipedia (2022-03 末) |
+| 自己資本比率 | 22.67% | 金融庁 関東財務局 経営指標 |
+| 不良債権比率 | 0.77% | 金融庁 関東財務局 経営指標 |
+| 店舗数 / 職員数 | 1 店 (本店のみ) / 33 人 | Wikipedia (2022-03 末) |
 
-> 注: 最新数値は都職員信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照。職域信組としては最大級。
+> 注: 数値は Wikipedia (2022-03 末: 預金 730 億円・貸出金 410 億円・総資産 899 億円) 及び金融庁関東財務局の中小企業金融関連経営指標。職域信組としては最大級だが、実規模は預金約 730 億円・総資産約 900 億円 (数百億円台)。
 
 ## 6. 監督・規制
 
@@ -103,6 +111,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest 自治体
 ## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 8011105001107, registry No. 50)
+- **東京都職員信用組合 公式**: https://www.toshokushin.co.jp/
+- **Wikipedia: 東京都職員信用組合** (2022-03 末: 預金 730 億 7,051 万円・貸出金 410 億 3,246 万円・総資産 899 億 4,898 万円・純資産 93 億 7,937 万円・出資金 1 億 6,254 万円・1 店・職員 33 人・設立 1921-03-30): https://ja.wikipedia.org/wiki/東京都職員信用組合
+- **金融庁 関東財務局 中小企業金融関連経営指標 [東京都:信用組合]** (預金 75,935 百万円・貸出金 37,267 百万円・自己資本比率 22.67%・不良債権比率 0.77%): https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -113,4 +124,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest 自治体
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (東京都庁内) は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新は都職員信組ディスクロージャー誌を要参照。自治体職員系信組の最大級アンカーとして Wave 13 拡張で追加。地方職員共済組合との具体的役割分担 ^[ambiguous] は要追加検証。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (東京都庁内) は ^[extracted] (公開情報)。総資産・預金等 KPI は Wikipedia (2022-03 末) + 金融庁関東財務局経営指標で確定 (預金 730 億円・貸出 410 億円・総資産 899 億円・自己資本比率 22.67%)。当初「数千億円規模」概数は実規模 (数百億円台) に修正。自治体職員系信組の最大級アンカーとして Wave 13 拡張で追加。地方職員共済組合との具体的役割分担は本文で断定せず、要追加検証。

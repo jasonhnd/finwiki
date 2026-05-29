@@ -12,6 +12,8 @@ status: active
 sources:
   - "Wikipedia: 信金中央金庫 (2026-05-19 抽出)"
   - "信金中央金庫 公式サイト (https://www.shinkin-central-bank.jp/)"
+  - "信金中央金庫 決算・財務情報 (https://www.shinkin-central-bank.jp/investor/report/)"
+  - "信金中央金庫 中期経営計画 (https://www.shinkin-central-bank.jp/investor/plan/)"
   - "信金中央金庫 ディスクロージャー誌 (2024 年度)"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
 ---
@@ -24,7 +26,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-全国信用金庫業界（金融庁 registry では 2025-11-06 時点 254 金庫）の **中央機関**。協同組織金融機関として設立、信用金庫から預け入れられた余資の運用と、信用金庫向け貸出を二大柱とする。総資産は **40〜50 兆円規模** ^[ambiguous] と推定される国内屈指の機関投資家。[[norinchukin]]（農林中央金庫＝農協系）と並ぶ「協同組織系中央銀行」の双璧で、海外債券・社債・株式・オルタナティブ投資を含む大規模運用ポートフォリオを持つ。非上場で会員（信用金庫 254 行）からの出資金で構成される。^[extracted]
+全国信用金庫業界（金融庁 registry では 2025-11-06 時点 254 金庫）の **中央機関**。協同組織金融機関として設立、信用金庫から預け入れられた余資の運用と、信用金庫向け貸出を二大柱とする。総資産は **47 兆円規模**（2025-03 末: 資金運用総額 46.9 兆円・資金調達総額 45.6 兆円、連結総資産は 2023-03 末で 46 兆 953 億円）の国内屈指の機関投資家。[[norinchukin]]（農林中央金庫＝農協系）と並ぶ「協同組織系中央銀行」の双璧で、海外債券・社債・株式・オルタナティブ投資を含む大規模運用ポートフォリオを持つ。非上場で会員（信用金庫 254 行）からの出資金で構成される。^[extracted]
 
 ## 1. 会社概要
 
@@ -37,11 +39,16 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **法的根拠**：信用金庫法（1951 制定・1958 全面施行）
 **会員**：全国信用金庫（金融庁 registry 2025-11-06 時点 254 金庫）
 
-### 主要数値（推定・概況）^[ambiguous]
+### 主要数値（2025-03 末 / 公式ディスクロージャー）^[extracted]
 
 | 項目 | 規模 |
 |---|---|
-| 総資産 | 約 40〜50 兆円規模 ^[ambiguous] |
+| 総資産（資金運用総額） | 46.9 兆円（資金調達総額 45.6 兆円）。連結総資産は 2023-03 末で 46 兆 953 億円 |
+| 預金 | 31.3 兆円 |
+| 貸出金 | 9.2 兆円 |
+| 有価証券 | 17.0 兆円 |
+| 自己資本比率（連結） | 25.46% |
+| 当期純利益 | 405 億円（前年度比 +31.0%） |
 | 会員数（信用金庫）| 254 金庫（金融庁 registry 2025-11-06 時点） |
 | 海外拠点 | ニューヨーク・ロンドン |
 
@@ -54,7 +61,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 1958 | 信用金庫法全面施行 |
 | 2000-06 | 全信連 → **信金中央金庫** 改称・改組 |
 | 2008〜2009 | リーマンショック関連で機関投資運用損失 ^[extracted] |
-| 2024 | 中期経営計画策定 ^[ambiguous] |
+| 2022 | 中期経営計画『SCB ストラテジー2022』(Road to 2030) 策定 |
+| 2025 | 中期経営計画『SCB ストラテジー2025』(FY2025〜2027) 策定 |
 
 ## 2. 事業セグメント・マップ
 
@@ -96,12 +104,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- **Wikipedia: 信金中央金庫**（https://ja.wikipedia.org/wiki/信金中央金庫, 2026-05-19 抽出）
+- **Wikipedia: 信金中央金庫**（https://ja.wikipedia.org/wiki/信金中央金庫, 2026-05-19 抽出。連結総資産 46 兆 953 億円 / 純資産 1 兆 3,451 億円, 2023-03 末）
 - **信金中央金庫 公式サイト**（https://www.shinkin-central-bank.jp/）
+- **信金中央金庫 決算・財務情報**（https://www.shinkin-central-bank.jp/investor/report/ — 2025-03 末: 資金運用総額 46.9 兆円・資金調達総額 45.6 兆円・預金 31.3 兆円・貸出金 9.2 兆円・有価証券 17.0 兆円・自己資本比率 25.46%・当期純利益 405 億円）
+- **信金中央金庫 中期経営計画**（https://www.shinkin-central-bank.jp/investor/plan/ — 『SCB ストラテジー2022』『SCB ストラテジー2025』）
 - **信金中央金庫 ディスクロージャー誌**（年次刊行、最新版は 2024 年度）
 - 金融庁: 信用金庫連合会・信用金庫免許一覧 (2025-11-06): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。公開情報（Wikipedia + 公式サイト + ディスクロージャー誌 + 金融庁 registry）ベースで構成。総資産規模等の数値は ^[ambiguous] 表記とし、最新値はディスクロージャー誌一次資料を要参照。協同組織ゆえ有報ベース開示が無く、メガバンクと比較して情報粒度は限定的。
+> confidence: **likely**。公開情報（Wikipedia + 公式サイト + 決算・財務情報 + 金融庁 registry）ベースで構成。総資産（資金運用総額 46.9 兆円・資金調達総額 45.6 兆円、2025-03 末）・預金 31.3 兆円・貸出金 9.2 兆円・有価証券 17.0 兆円・自己資本比率 25.46% は公式決算情報由来の確定値。連結総資産 46 兆 953 億円 (2023-03 末) は Wikipedia 由来。中期経営計画は『SCB ストラテジー2022』『同 2025』を公式で確認。

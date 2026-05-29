@@ -30,7 +30,9 @@
     "sources": [
       "Wikipedia: SBIホールディングス / 第 4 のメガバンク構想 (2026-05-19 抽出)",
       "SBI HD コーポレートサイト・統合報告書",
-      "各パートナー地銀の有価証券報告書・適時開示"
+      "各パートナー地銀の有価証券報告書・適時開示",
+      "https://ja.wikipedia.org/wiki/SBI地銀ホールディングス (出資比率, 2026-05-29 確認)",
+      "https://www.sbigroup.co.jp/news/2025/0731_15628.html (SBI新生銀行 公的資金完済, 2025-07-31)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -84,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4230,
-    "word_like_tokens": 617,
+    "nonspace_chars": 4825,
+    "word_like_tokens": 765,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

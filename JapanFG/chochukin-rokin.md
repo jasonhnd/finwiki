@@ -19,8 +19,9 @@ status: active
 sources:
   - "https://chuo.rokin.com/"
   - "https://chuo.rokin.com/about/"
-  - "https://chuo.rokin.com/about/profile/"
+  - "https://chuo.rokin.com/aboutus/profile/"
   - "https://www.rokinren.com/"
+  - "https://www.rokinren.com/keieishihyo-suii.html"
   - "https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx"
   - "労働金庫法 (昭和 28 年法律第 227 号)"
 ---
@@ -108,15 +109,17 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
                                   → 中央ろうきん → 組合員へ配当・サービス還元
 ```
 
-### 規模感 (推定 / 2024〜2025) ^[extracted]
+### 規模感 (2025-03 末) ^[extracted]
 
 | 指標 | 値 | 備考 |
 |---|---|---|
-| **総資産 / 資金量** | **約 9〜10 兆円規模** | 13 ろうきん最大 ^[ambiguous] |
-| **預金残高** | **約 9 兆円規模** | ^[ambiguous] |
-| **貸出金** | **約 3〜4 兆円規模** | 住宅ローン中心 ^[ambiguous] |
+| **預金残高** | **6 兆 8,913 億円** | 13 ろうきん最大 (中央ろうきん概要 2025-03 末) |
+| **貸出金** | **4 兆 7,609 億円** | 住宅ローン中心 (同上) |
+| **出資金** | **288 億円** | 団体会員 11,318 会員 (同上) |
+| **店舗数** | **130 店舗** | 1 都 7 県広域 (同上) |
+| **自己資本比率** | **10.96%** | (同上) |
 
-> 注: 詳細 KPI は中央ろうきん公式 IR・年次報告書を要参照 (https://chuo.rokin.com/about/profile/)
+> 注: 中央ろうきんは単体の「総資産」を概要上は開示せず、預金 6.9 兆円ベースの広域労金。詳細は中央ろうきん公式概要・ディスクロージャーを要参照 (https://chuo.rokin.com/aboutus/profile/)。なお労金連 (中央機関) 単体の総資産は 8 兆 316 億円 (2025-03 末、13 労金合算ベースの中央機関統計)。
 
 ### 13 ろうきん内の代表性
 
@@ -136,15 +139,17 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 
 ## 4. KPI / 健全性
 
-| 指標 | 値 (2024〜2025 推定) | 比較 |
+| 指標 | 値 (2025-03 末) | 比較 |
 |---|---|---|
-| 総資産 | 約 9〜10 兆円 | 13 ろうきん最大 (約 1/3 シェア) |
-| 預金 | 約 9 兆円 | - |
-| 貸出金 | 約 3〜4 兆円 | 住宅ローン中心 |
-| 自己資本比率 | 10% 超 | 信金大手 + 地銀並み水準 |
-| 店舗数 | 約 150 店 | 1 都 7 県広域 |
+| 預金 | 6 兆 8,913 億円 | 13 ろうきん最大 |
+| 貸出金 | 4 兆 7,609 億円 | 住宅ローン中心 |
+| 出資金 | 288 億円 | - |
+| 自己資本比率 | 10.96% | 信金大手 + 地銀並み水準 |
+| 店舗数 | 130 店舗 | 1 都 7 県広域 |
+| 常勤役職員数 | 3,008 名 | - |
+| 団体会員数 | 11,318 会員 | 間接構成員 約 422 万人 |
 
-> 注: 中央ろうきん公式 IR を要参照、上記 ^[ambiguous] は概数
+> 注: 数値は中央ろうきん公式概要 (2025-03 末)。単体総資産は概要上非開示。
 
 ## 5. 監督・規制
 
@@ -176,9 +181,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 ## Sources
 
 - **中央労働金庫 公式**: https://chuo.rokin.com/
-- **中央労働金庫 概要**: https://chuo.rokin.com/about/
-- **中央労働金庫 プロフィール**: https://chuo.rokin.com/about/profile/
+- **中央労働金庫 概要 (2025-03 末: 預金 6 兆 8,913 億円・貸出金 4 兆 7,609 億円・出資金 288 億円・自己資本比率 10.96%・店舗 130・団体会員 11,318・役職員 3,008 名)**: https://chuo.rokin.com/aboutus/profile/
 - **労働金庫連合会 公式**: https://www.rokinren.com/
+- **労金連 主要経営指標の推移 (2025-03 末 13 労金合算/中央機関統計: 総資産 8 兆 316 億円)**: https://www.rokinren.com/keieishihyo-suii.html
 - **金融庁 労働金庫免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx
 - 労働金庫法 (昭和 28 年法律第 227 号)
 - 全国労働金庫協会 (全労済協会) 公開資料
@@ -186,4 +191,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。中央労働金庫公式 + 労金連公開資料ベース。総資産 9〜10 兆円規模・住宅ローン主力等 ^[ambiguous] は概数、最新は中央ろうきん公式 IR・年次報告書を要参照。2001-04-01 の 8 ろうきん統合経緯 ^[extracted] は公開情報。本エントリは **13 ろうきん最大行の operating-company anchor**、[[JapanFG/rokin-renraku|Rokinren]] (cooperative-system central) の peer operating entry として配置。
+> confidence: **likely**。中央労働金庫公式概要 (2025-03 末) + 労金連経営指標ベース。預金 6.9 兆円・貸出 4.8 兆円・店舗 130・自己資本比率 10.96% は公式概要由来 (確定値)。単体総資産は公式概要上非開示のため数値化せず、預金ベースで規模感を記載。2001-04-01 の 8 ろうきん統合経緯 ^[extracted] は公開情報。本エントリは **13 ろうきん最大行の operating-company anchor**、[[JapanFG/rokin-renraku|Rokinren]] (cooperative-system central) の peer operating entry として配置。
