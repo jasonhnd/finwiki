@@ -48,7 +48,7 @@ This entry sits under [[payments/INDEX|payments index]] as the **operator-level 
 
 ## TL;DR
 
-Japan's **code-payment market in 2025** is a **clear oligopoly** with [[JapanFG/paypay|PayPay]] holding majority transaction share, [[JapanFG/rakuten-fg|Rakuten Pay]] and **d-Barai** (NTT docomo) competing for the strong second tier, and **au PAY** (KDDI), **Merpay** (Mercari), and **FamiPay** (FamiMa Digital One) holding meaningful niche-segment positions. METI's 2025 cashless data release puts **code-payment value at 16.6 trillion yen**, or **10.2% of cashless payment value**, in a market with **58.0% overall cashless ratio**. The Cashless Promotion Council's quarterly code-payment trend survey publishes store-value / count / remittance / balance / MAU breakdowns. **PayPay** leads on every dimension (registered users, MAU, TPV, merchant acceptance), but **Rakuten Pay** has the strongest ecosystem-anchor advantage via Rakuten Card linkage and Rakuten Point integration, **d-Barai** has telecom-billing advantages from NTT docomo, **au PAY** has the bank-anchor advantage via au Jibun Bank, **Merpay** has the marketplace-anchor + バーチャル credit advantage, and **FamiPay** has the retail-anchor convenience store advantage. **J-Coin Pay** (Mizuho) and **ゆうちょPay** (Japan Post Bank) operate bank-anchored wallets at materially smaller scale. **Seven Pay** is included historically as a 2019-discontinued operator. This matrix puts all nine side-by-side along the operator dimensions that determine 2026 competitive position.
+Japan's **code-payment market in 2025** is a **clear oligopoly** with [[JapanFG/paypay|PayPay]] holding majority transaction share, [[JapanFG/rakuten-fg|Rakuten Pay]] and **d-Barai** (NTT docomo) competing for the strong second tier, and **au PAY** (KDDI), **Merpay** (Mercari), and **FamiPay** (FamiMa Digital One) holding meaningful niche-segment positions. METI's 2025 cashless data release (published 2026-03-31) puts **code-payment value at 16.6 trillion yen**, or **10.2% of cashless payment value**, in a market with **58.0% overall cashless ratio (new domestic indicator; the legacy international-comparison indicator is 46.3%)** and ¥162.7 trillion total cashless value. (Note: the earlier METI release of 2025-03-31 reported the **2024** figures — 42.8% ratio / ¥141.0tn / code ¥13.5tn / 9.6% — so the 58.0% / ¥16.6tn / 10.2% set here is specifically the 2025 data from the 2026-03-31 release, not the 2024 release.) The Cashless Promotion Council's quarterly code-payment trend survey publishes store-value / count / remittance / balance / MAU breakdowns. **PayPay** leads on every dimension (registered users, MAU, TPV, merchant acceptance), but **Rakuten Pay** has the strongest ecosystem-anchor advantage via Rakuten Card linkage and Rakuten Point integration, **d-Barai** has telecom-billing advantages from NTT docomo, **au PAY** has the bank-anchor advantage via au Jibun Bank, **Merpay** has the marketplace-anchor + バーチャル credit advantage, and **FamiPay** has the retail-anchor convenience store advantage. **J-Coin Pay** (Mizuho) and **ゆうちょPay** (Japan Post Bank) operate bank-anchored wallets at materially smaller scale. **Seven Pay** is included historically as a 2019-discontinued operator. This matrix puts all nine side-by-side along the operator dimensions that determine 2026 competitive position.
 
 ## Why this matrix matters
 
@@ -128,15 +128,16 @@ J-Coin Pay's distinctive position: **bank-anchored consortium product**. The TPV
 
 ## Verifiable 2025 market-size data points
 
-The following figures are sourced from METI's 2025 cashless-payment release and Cashless Promotion Council publications. These are the most defensible aggregate numbers; per-operator TPV / MAU figures vary by reporting period and disclosure surface, so per-operator numbers in the main matrix above are shown only where an official operator disclosure exists and marked `n.d.` (データ未公開) where the operator does not break the figure out.
+The following figures are sourced from METI's cashless-payment releases and Cashless Promotion Council publications. **Two distinct METI releases must not be conflated:** the **2025-03-31 release reports 2024 data** (42.8% ratio / ¥141.0tn / code ¥13.5tn / 9.6% share / +23.9% YoY), while the **2026-03-31 release reports 2025 data** (58.0% domestic ratio / 46.3% international ratio / ¥162.7tn / code ¥16.6tn / 10.2% share). These are the most defensible aggregate numbers; per-operator TPV / MAU figures vary by reporting period and disclosure surface, so per-operator numbers in the main matrix above are shown only where an official operator disclosure exists and marked `n.d.` (データ未公開) where the operator does not break the figure out.
 
 | Metric (2025) | Value | Source |
 |---|---|---|
-| Overall cashless ratio | 58.0% | METI 2025-03 release |
-| Total cashless payment value | ¥141.0 trillion (2024) | METI 2025-03 release |
-| Code-payment value | 16.6 trillion yen | METI 2025-03 release |
-| Code-payment share of cashless | 10.2% | METI 2025-03 release |
-| Code-payment value growth (YoY 2023 → 2024) | +23.9% | METI 2025-03 release |
+| Overall cashless ratio (2025) | 58.0% (new domestic indicator); 46.3% (legacy international-comparison indicator) | METI 2026-03-31 release (2025 data) |
+| Total cashless payment value (2025) | ¥162.7 trillion | METI 2026-03-31 release (2025 data) |
+| Code-payment value (2025) | ¥16.6 trillion | METI 2026-03-31 release (2025 data) |
+| Code-payment share of cashless (2025) | 10.2% | METI 2026-03-31 release (2025 data) |
+| Code-payment breakdown (2025) | クレカ 82.7% ¥134.6tn / デビット 3.4% ¥5.5tn / 電子マネー 3.7% ¥6.0tn / コード 10.2% ¥16.6tn | METI 2026-03-31 release (2025 data) |
+| — reference: 2024 figures (prior release) | 42.8% ratio / ¥141.0tn / code ¥13.5tn / 9.6% / +23.9% YoY | METI 2025-03-31 release (2024 data) |
 | Code-payment merchant locations (estimated) | Several million across major wallets | Cashless Promotion Council survey |
 | Largest single code-payment operator (by TPV) | PayPay | METI / CPC consistent |
 
@@ -234,8 +235,8 @@ Many merchants accept multiple code-payment wallets simultaneously via PSP / agg
 
 ## Sources
 
-- METI 2025 cashless payment ratio release: https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
-- METI 2024 cashless payment ratio release (42.8% / ¥141.0tn / コード決済 ¥13.5tn 9.6% / +23.9% YoY): https://www.meti.go.jp/press/2024/03/20250331005/20250331005.html
+- METI **2025 data** cashless payment ratio release (published 2026-03-31; 58.0% 国内指標 / 46.3% 国際比較指標 / ¥162.7tn / コード決済 ¥16.6tn 10.2% / 内訳 クレカ 82.7% ¥134.6tn・デビット 3.4% ¥5.5tn・電子マネー 3.7% ¥6.0tn・コード 10.2% ¥16.6tn): https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html
+- METI **2024 data** cashless payment ratio release (published 2025-03-31; 42.8% / ¥141.0tn / コード決済 ¥13.5tn 9.6% / +23.9% YoY): https://www.meti.go.jp/press/2024/03/20250331005/20250331005.html
 - METI cashless policy portal: https://www.meti.go.jp/policy/mono_info_service/cashless/index.html
 - PayPay 70M registered users / FY2024 GMV ¥12.5tn / 7.8bn+ transactions / ~2/3 code-payment share (2025-07-15 PR): https://about.paypay.ne.jp/en/pr/20250715/01/
 - PayPay merchant fee 1.60% / 1.98% from 2021-10 (2021-08-19 PR): https://about.paypay.ne.jp/en/pr/20210819/02/
@@ -255,3 +256,8 @@ Many merchants accept multiple code-payment wallets simultaneously via PSP / agg
 - Japan Post Bank ゆうちょPay portal: https://www.jp-bank.japanpost.jp/ias/ias_index.html
 - FSA Funds Transfer Service Provider list (PDF): https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
 - FSA Prepaid Payment Instrument issuer list (PDF): https://www.fsa.go.jp/menkyo/menkyoj/maeharai.pdf
+
+---
+
+> [!info] 出典帰属の訂正 (2026-05-30)
+> 集計値 **キャッシュレス比率 58.0% / コード決済 ¥16.6兆 / コード決済シェア 10.2%** は 2025 年データの正しい値だが、旧版はこれらを「METI 2025-03 release」に帰属させていた。これは誤り — 2025-03-31 公表の release は **2024 年データ（比率 42.8% / ¥141.0兆 / コード ¥13.5兆 / 9.6% / 前年比 +23.9%）** を報じたもの。58.0% / ¥16.6兆 / 10.2% は **2026-03-31 公表の release（2025 年データ、総額 ¥162.7兆）** に帰属する。58.0% は新たな国内指標で、従来の国際比較指標では 46.3%。本訂正で全集計値の出典帰属を「2026-03-31 release（2025 データ）」と「2025-03-31 release（2024 データ）」に明確化（METI 公表で一致確認、2026-05-30）。

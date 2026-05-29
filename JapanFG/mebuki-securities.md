@@ -15,6 +15,7 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
   - "https://www.jsda.or.jp/"
   - "めぶき証券 会社概要 — 設立 2007-11-30 / 資本金 30 億円 / 従業員 約 90 名 / 本社 水戸市南町 (https://www.mebuki-sec.co.jp/company/gaiyo.html)"
+  - "Wikipedia: めぶき証券 — 2007-11-30 常陽証券設立 / 2017-04-03 めぶき証券へ商号変更 https://ja.wikipedia.org/wiki/めぶき証券"
 ---
 
 # めぶき証券 (Mebuki Securities)
@@ -55,9 +56,10 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 ### 旧 常陽証券系譜
 
-- **1944**: 常陽証券 設立 ([[joyo-bank|常陽銀行]] 系証券子会社)
+- **2007-11-30**: 常陽証券株式会社 設立（茨城県水戸市、[[joyo-bank|常陽銀行]] 系証券子会社）
 - 茨城県内 retail brokerage と中堅企業向け公募 / 私募債仲介を主業
-- 1990 年代〜: 地銀系証券として銀証分離規制の下で限定的役割を維持
+- 2010 年代〜: 地銀系証券として銀証連携の下で資産運用・私募債仲介の役割を拡大
+- **2017-04-03**: めぶき証券株式会社へ商号変更
 
 ### めぶき FG 設立とグループ統合
 
@@ -133,7 +135,8 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - **めぶき FG 公式 IR** (https://www.mebuki-fg.co.jp/)
 - **FSA 金融商品取引業者一覧** (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, 第一種金融商品取引業者)
 - **日本証券業協会** (https://www.jsda.or.jp/, 協会員名簿)
-- **Wikipedia: めぶき証券 / めぶきフィナンシャルグループ** (2026-05-24 抽出)
+- **Wikipedia: めぶき証券** https://ja.wikipedia.org/wiki/めぶき証券 — 「2007年11月30日 常陽証券株式会社設立」「2017年4月3日 めぶき証券株式会社に商号変更」（2026-05-30 確認。旧版が誤記していた「1944 常陽証券設立」を訂正）
+- **Wikipedia: めぶきフィナンシャルグループ** (2026-05-24 抽出)
 
 ---
 

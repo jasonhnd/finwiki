@@ -30,7 +30,7 @@
     ],
     "status": "active",
     "sources": [
-      "Wikipedia: 株式会社日本カストディ銀行 (2026-05-19 抽出)",
+      "Wikipedia: 株式会社日本カストディ銀行 (株主構成: 三井住友トラストG 33.3% / みずほFG 27.0% / りそな銀行 16.7% / 第一生命 8.0% / 朝日生命 5.0% / 明治安田 4.5% / かんぽ生命 3.5% / 富国生命 2.0%, 2020-07-27 現在, 2026-05-30 確認) https://ja.wikipedia.org/wiki/日本カストディ銀行",
       "Wikipedia: 日本トラスティ・サービス信託銀行 (2026-05-19 抽出)",
       "Wikipedia: 資産管理サービス信託銀行 (2026-05-19 抽出)",
       "三井住友信託銀行: スケールメリットの追求 (CBJ 信託財産 476兆円・総預かり 696兆円, 2025-03 末) https://www.smtb.jp/business/instrument/management/scale",
@@ -43,7 +43,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要株主（公開資料）^[extracted]",
+    "主要株主（公開資料、2020-07-27 現在）^[extracted]",
     "重要性 ★",
     "合併歴史・前身",
     "2. 事業セグメント・マップ",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4339,
-    "word_like_tokens": 664,
+    "nonspace_chars": 5166,
+    "word_like_tokens": 854,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }

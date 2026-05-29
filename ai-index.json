@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-30T00:49:56+09:00",
+  "generated_at": "2026-05-30T01:23:13+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9805947,
-    "word_like_tokens": 1556396
+    "nonspace_utf8_chars": 9813880,
+    "word_like_tokens": 1557984
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -820,13 +820,13 @@
       "title": "01銀行 (01Bank)",
       "domain": "JapanFG",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) for peer / contrast context, ふくおか FG (FFG) for parent group context, and banking index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) and みんなの銀行 for peer / contrast context (the two preceding 地銀デジタル銀行), 池田泉州ホールディングス for parent group context, and banking index for the broader system / regulatory boundary.",
       "headings": [
         "01銀行 (01Bank)",
         "Wiki route",
         "1. 法人・ライセンス境界",
         "3. 重要年表",
-        "4. 親会社 FFG との関係",
+        "4. 親会社 池田泉州 HD との関係",
         "5. 業務モデル — データドリブン SME finance",
         "6. ピア比較 — 地銀デジタル子会社の系譜",
         "7. 監督・規制",
@@ -837,6 +837,7 @@
         "JapanFG/INDEX",
         "JapanFG/fukuoka-fg",
         "JapanFG/hokkoku-fhd",
+        "JapanFG/ikeda-senshu-hd",
         "JapanFG/ui-bank",
         "banking/INDEX",
         "banking/baas-japan-landscape",
@@ -846,15 +847,16 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
         "https://finwiki.zksc.io/JapanFG/hokkoku-fhd",
+        "https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd",
         "https://finwiki.zksc.io/JapanFG/ui-bank",
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/banking/baas-japan-landscape",
         "https://finwiki.zksc.io/banking/minna-bank-baas-model"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3848,
-      "word_like_tokens": 621,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5281,
+      "word_like_tokens": 880,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/18-shinwa-bank.md",
@@ -6539,7 +6541,7 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "主要株主（公開資料）^[extracted]",
+        "主要株主（公開資料、2020-07-27 現在）^[extracted]",
         "重要性 ★",
         "合併歴史・前身",
         "2. 事業セグメント・マップ",
@@ -6569,9 +6571,9 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4339,
-      "word_like_tokens": 664,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5166,
+      "word_like_tokens": 854,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/dai-ichi-frontier-life.md",
@@ -8153,9 +8155,9 @@
         "https://finwiki.zksc.io/smbc-nikko"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4958,
-      "word_like_tokens": 778,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6126,
+      "word_like_tokens": 1041,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/fidea-hd.md",
@@ -12918,9 +12920,9 @@
         "https://finwiki.zksc.io/insurance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5376,
-      "word_like_tokens": 828,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5635,
+      "word_like_tokens": 892,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/ja-kyosairen.md",
@@ -18160,8 +18162,8 @@
         "TL;DR",
         "1. License / group boundary",
         "2. 持株ツリー",
-        "旧 常陽リース系譜",
-        "旧 足利リース系譜",
+        "旧 常陽リース系譜（母体）",
+        "足利銀行系リース機能との関係 — 要再確認",
         "めぶき FG 設立とグループ統合",
         "4. KPI table (concept)",
         "5. 事業セグメント map"
@@ -18211,9 +18213,9 @@
         "https://finwiki.zksc.io/tsukuba-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4648,
-      "word_like_tokens": 672,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5540,
+      "word_like_tokens": 796,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/mebuki-securities.md",
@@ -18284,9 +18286,9 @@
         "https://finwiki.zksc.io/smbc-nikko"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4507,
-      "word_like_tokens": 705,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4788,
+      "word_like_tokens": 757,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/medicare-life.md",
@@ -26281,11 +26283,11 @@
         "TL;DR",
         "1. 会社概要",
         "主要構成要素",
-        "2020-12 設立時の戦略意図",
+        "2020 統合プラットフォーム化の戦略意図",
         "2. 主要事業",
         "パートナー地銀網（主要、時系列に出資した順）^[extracted]",
         "構想前史（2010 年代後半）",
-        "「第 4 のメガバンク構想」提唱と SBI 地銀 HD 設立"
+        "「第 4 のメガバンク構想」提唱と SBI 地銀 HD への商号変更"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -26320,9 +26322,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4825,
-      "word_like_tokens": 765,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5419,
+      "word_like_tokens": 865,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/sbi-remit.md",
@@ -36988,7 +36990,7 @@
         "Wiki route",
         "TL;DR",
         "1. 機関位置",
-        "Shareholder structure (public disclosure)",
+        "Shareholder structure (public disclosure, as of 2020-07-27)",
         "Why two specialist custodians, not one",
         "Lineage diagram",
         "Business-line map",
@@ -37003,6 +37005,7 @@
         "JapanFG/jpmorgan-japan",
         "JapanFG/master-trust-bank",
         "JapanFG/mitsubishi-ufj-trust-bank",
+        "JapanFG/mizuho-fg",
         "JapanFG/mizuho-trust-bank",
         "JapanFG/state-street-japan",
         "JapanFG/sumitomo-mitsui-trust",
@@ -37029,6 +37032,7 @@
         "https://finwiki.zksc.io/JapanFG/jpmorgan-japan",
         "https://finwiki.zksc.io/JapanFG/master-trust-bank",
         "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
+        "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
         "https://finwiki.zksc.io/JapanFG/state-street-japan",
         "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
@@ -37048,9 +37052,9 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16942,
-      "word_like_tokens": 2575,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 17689,
+      "word_like_tokens": 2741,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "banking/daiwa-next-bank.md",
@@ -67858,9 +67862,9 @@
         "https://finwiki.zksc.io/payments/visa-mastercard-amex-jcb-japan-operating-comparison"
       ],
       "markdown_links": [],
-      "nonspace_chars": 26361,
-      "word_like_tokens": 4393,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 27855,
+      "word_like_tokens": 4723,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "payments/japan-consumer-credit-operator-comparison-matrix.md",
@@ -83714,8 +83718,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2140,
-      "word_like_tokens": 408,
+      "nonspace_chars": 2378,
+      "word_like_tokens": 448,
       "last_modified": "2026-05-30"
     }
   ]

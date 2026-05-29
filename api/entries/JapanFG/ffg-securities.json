@@ -32,11 +32,13 @@
     ],
     "status": "active",
     "sources": [
-      "https://www.ffg-sec.com/",
+      "https://www.ffg-sec.co.jp/",
+      "https://www.ffg-sec.co.jp/company/",
       "https://www.fukuoka-fg.com/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
       "https://www.jsda.or.jp/",
-      "FFG 証券 会社概要 — 設立 1944-07-07 / 資本金 30 億円 / 従業員 約 280 名 / 本社 福岡市中央区天神 (https://www.ffg-sec.co.jp/company/corporate/)"
+      "FFG 証券 会社概要 — 創業 1940-06-06 / 設立 1944-07-07 / 資本金 30 億円 / 役職員 279 名 (2025-04-01) / 本社 福岡市中央区天神二丁目13番1号 福岡銀行本店ビル9階 (https://www.ffg-sec.co.jp/company/corporate/)",
+      "FFG 証券について — 2022-04 から ふくおかフィナンシャルグループ 100% 子会社 (https://www.ffg-sec.co.jp/company/)"
     ]
   },
   "summary": "This entry sits under the JapanFG index as the FG-subsidiary securities operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 and sibling subsidiaries 十八親和銀行 / 熊本銀行. For peer FG-securities comparison see めぶき証券 under mebuki-fg and the broader regional-bank consolidati",
@@ -112,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4958,
-    "word_like_tokens": 778,
+    "nonspace_chars": 6126,
+    "word_like_tokens": 1041,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }

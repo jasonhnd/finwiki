@@ -42,11 +42,11 @@
     "TL;DR",
     "1. 会社概要",
     "主要構成要素",
-    "2020-12 設立時の戦略意図",
+    "2020 統合プラットフォーム化の戦略意図",
     "2. 主要事業",
     "パートナー地銀網（主要、時系列に出資した順）^[extracted]",
     "構想前史（2010 年代後半）",
-    "「第 4 のメガバンク構想」提唱と SBI 地銀 HD 設立"
+    "「第 4 のメガバンク構想」提唱と SBI 地銀 HD への商号変更"
   ],
   "body_links": {
     "wikilinks_count": 14,
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4825,
-    "word_like_tokens": 765,
+    "nonspace_chars": 5419,
+    "word_like_tokens": 865,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-05-30"
   }
 }
