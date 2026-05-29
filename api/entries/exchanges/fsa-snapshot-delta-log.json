@@ -17,8 +17,8 @@
     ],
     "domain": "exchanges",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-30",
+    "last_tended": "2026-05-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -32,7 +32,15 @@
     "status": "candidate",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://jvcea.or.jp/member/"
+      "https://jvcea.or.jp/member/",
+      "https://web.archive.org/web/20240820011719/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://web.archive.org/web/20250206070223/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://web.archive.org/web/20250907103139/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "https://akasaka.keizai.biz/release/377391/",
+      "https://www.itmedia.co.jp/news/articles/2412/02/news093.html",
+      "https://www.sbigroup.co.jp/news/2025/0226_15274.html",
+      "https://ja.wikipedia.org/wiki/DMM_Bitcoin"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 for the registration framework, JP VASP M&A 史 for entity consolidation context, and FSA 海外無登録警告書制度 for the unregistered foreign-operator side.",
@@ -49,7 +57,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 15,
     "wikilinks": [
       "JapanFG/missing-financial-institutions-backlog",
       "exchanges/INDEX",
@@ -58,7 +66,10 @@
       "exchanges/ftx-japan-100pct-return-case-study",
       "exchanges/jp-exchange-XXX",
       "exchanges/jp-exchange-bitbank",
+      "exchanges/jp-exchange-custodiem",
+      "exchanges/jp-exchange-dmm-bitcoin",
       "exchanges/jp-exchange-line-xenesis",
+      "exchanges/jp-exchange-sbi-vc-trade",
       "exchanges/jp-vasp-ma-consolidation-history",
       "exchanges/jp-vasp-parent-company-map",
       "exchanges/jp-vasp-regulatory-timeline",
@@ -72,23 +83,34 @@
       "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
       "https://finwiki.zksc.io/exchanges/jp-exchange-XXX",
       "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
       "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
       "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
       "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
       "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis"
     ],
-    "external_links_count": 3,
+    "external_links_count": 11,
     "external_links": [
+      "https://akasaka.keizai.biz/release/377391/",
+      "https://ja.wikipedia.org/wiki/DMM_Bitcoin",
       "https://jvcea.or.jp/member/",
+      "https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "https://web.archive.org/web/20240820011719/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://web.archive.org/web/20250206070223/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://web.archive.org/web/20250907103139/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://www.fsa.go.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.itmedia.co.jp/news/articles/2412/02/news093.html",
+      "https://www.sbigroup.co.jp/news/2025/0226_15274.html"
     ]
   },
   "metrics": {
-    "nonspace_chars": 3477,
-    "word_like_tokens": 587,
+    "nonspace_chars": 6906,
+    "word_like_tokens": 1296,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-30"
   }
 }

@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 9 |
+| Changed or new entries in current worktree | 3 |
 
 ## Wiki Linking Standard
 
@@ -31,15 +31,9 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/01-bank.md` | `M` | 16 | ok |
-| `JapanFG/custody-bank.md` | `M` | 26 | ok |
-| `JapanFG/ffg-securities.md` | `M` | 50 | ok |
-| `JapanFG/ja-kyosairen-fukushima.md` | `M` | 8 | ok |
-| `JapanFG/mebuki-lease.md` | `M` | 49 | ok |
-| `JapanFG/mebuki-securities.md` | `M` | 45 | ok |
-| `JapanFG/sbi-regional-bank-hd.md` | `M` | 24 | ok |
-| `banking/custody-bank-operating-model.md` | `M` | 24 | ok |
-| `payments/japan-code-payment-operator-2025-market-share-matrix.md` | `M` | 70 | ok |
+| `JapanFG/mebuki-lease.md` | `M` | 50 | ok |
+| `exchanges/fsa-snapshot-delta-log.md` | `M` | 23 | ok |
+| `exchanges/jp-exchange-bitflyer.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 

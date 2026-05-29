@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-30T01:23:13+09:00",
+  "generated_at": "2026-05-30T03:25:23+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9813880,
-    "word_like_tokens": 1557984
+    "nonspace_utf8_chars": 9820433,
+    "word_like_tokens": 1559177
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -18163,7 +18163,7 @@
         "1. License / group boundary",
         "2. 持株ツリー",
         "旧 常陽リース系譜（母体）",
-        "足利銀行系リース機能との関係 — 要再確認",
+        "足利銀行系リース機能との関係 — 確定（2026-05-30 検証）",
         "めぶき FG 設立とグループ統合",
         "4. KPI table (concept)",
         "5. 事業セグメント map"
@@ -18213,8 +18213,8 @@
         "https://finwiki.zksc.io/tsukuba-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5540,
-      "word_like_tokens": 796,
+      "nonspace_chars": 7783,
+      "word_like_tokens": 1137,
       "last_modified": "2026-05-30"
     },
     {
@@ -45234,7 +45234,10 @@
         "exchanges/ftx-japan-100pct-return-case-study",
         "exchanges/jp-exchange-XXX",
         "exchanges/jp-exchange-bitbank",
+        "exchanges/jp-exchange-custodiem",
+        "exchanges/jp-exchange-dmm-bitcoin",
         "exchanges/jp-exchange-line-xenesis",
+        "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "exchanges/jp-vasp-regulatory-timeline",
@@ -45248,20 +45251,31 @@
         "https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study",
         "https://finwiki.zksc.io/exchanges/jp-exchange-XXX",
         "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
+        "https://finwiki.zksc.io/exchanges/jp-exchange-custodiem",
+        "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin",
         "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis",
+        "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
         "https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history",
         "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
         "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
         "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis"
       ],
       "markdown_links": [
+        "https://akasaka.keizai.biz/release/377391/",
+        "https://ja.wikipedia.org/wiki/DMM_Bitcoin",
         "https://jvcea.or.jp/member/",
+        "https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+        "https://web.archive.org/web/20240820011719/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://web.archive.org/web/20250206070223/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://web.archive.org/web/20250907103139/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
         "https://www.fsa.go.jp/",
-        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://www.itmedia.co.jp/news/articles/2412/02/news093.html",
+        "https://www.sbigroup.co.jp/news/2025/0226_15274.html"
       ],
-      "nonspace_chars": 3477,
-      "word_like_tokens": 587,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 6906,
+      "word_like_tokens": 1296,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "exchanges/fsa-vasp-registration-system.md",
@@ -47807,13 +47821,16 @@
       ],
       "markdown_links": [
         "https://bitflyer.com/ja-jp/s/company",
+        "https://coinpost.jp/?p=448642",
         "https://ja.wikipedia.org/wiki/BitFlyer",
         "https://jvcea.or.jp/member/",
-        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+        "https://www.bloomberg.com/news/articles/2023-03-30/bitflyer-co-founder-yuzo-kano-to-return-as-crypto-exchange-s-ceo",
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://www.nikkei.com/article/DGXZQOUB305WU0Q2A930C2000000/"
       ],
-      "nonspace_chars": 4537,
-      "word_like_tokens": 791,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 5695,
+      "word_like_tokens": 984,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "exchanges/jp-exchange-bitpoint-historical-deprecated.md",
@@ -83718,8 +83735,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2378,
-      "word_like_tokens": 448,
+      "nonspace_chars": 2101,
+      "word_like_tokens": 398,
       "last_modified": "2026-05-30"
     }
   ]

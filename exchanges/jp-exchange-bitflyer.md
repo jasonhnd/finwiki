@@ -6,8 +6,8 @@ aliases:
   - ビットフライヤー
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
+last_updated: 2026-05-30
+last_tended: 2026-05-30
 review_by: 2027-05-18
 confidence: likely
 tags:
@@ -21,6 +21,9 @@ sources:
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
   - https://ja.wikipedia.org/wiki/BitFlyer
+  - https://www.nikkei.com/article/DGXZQOUB305WU0Q2A930C2000000/
+  - https://www.bloomberg.com/news/articles/2023-03-30/bitflyer-co-founder-yuzo-kano-to-return-as-crypto-exchange-s-ceo
+  - https://coinpost.jp/?p=448642
 ---
 
 # 株式会社 bitFlyer — 日本暗号資産交換業者 overview
@@ -39,7 +42,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **本店所在地**：〒107-6230 東京都港区赤坂9-7-1 ミッドタウン・タワー
 - **資本金**：41億238万円（資本準備金含）（公式サイト掲載値、時点未指定）
 - **親会社**：株式会社 bitFlyer Holdings（100%出資・未上場、設立2018年10月1日、資本金50億円）
-- **株主構成（Holdings 段階）**：加納裕三 約40%、小宮山峰史 13%強、積水ハウス 約13%（2022年4月時点・Wikipedia引用、要再確認）
+- **株主構成（Holdings 段階）**：加納裕三 約40%、小宮山峰史 約13%、積水ハウス 13%弱（2022年4月時点）。この比率は2022年4月の日経報道（少数株主連合＋小宮山・積水ハウスの賛同で ACA が5割超確保見込み）および Wikipedia 掲載値と整合。その後、ACA グループによる買収は2022年9月末に破談（加納の反対＋一部株主の売却撤回、評価額が楽天・マネックス参戦で約900億円に上昇）、2023-03-30 に加納が代表取締役に再任。これらの経緯により2022年4月の比率は変動した可能性が高いが、再任後（2023–2026年）の最新の出資比率は公開情報で未確認（未上場・IPO準備中）。
 - **会計監査人**：EY新日本有限責任監査法人
 - **主要取引銀行**：三井住友銀行
 - **法人番号**：2011101068824
@@ -93,7 +96,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2021-03 | 林邦良 代表取締役就任 |
 | 2021-12 | bitFlyer クレカ 発行開始（国内初ビットコインが貯まるクレカ）|
 | 2018-10-01 | bitFlyer Holdings 設立（持株会社化）|
-| 2023-03 | 加納裕三 代表取締役 再就任 |
+| 2022-04 | ACA グループが少数株主連合と過半株式取得で大筋合意と報道（加納は反対表明）|
+| 2022-09-30 | ACA グループが買収を断念（過半取得の目処立たず・日経報道）|
+| 2023-03-30 | 加納裕三 代表取締役 再就任（株主総会決議・IPO推進を表明）|
 | 2024-06-20 | FTX Japan 株式会社の買収合意を公式発表（デラウェア州破産裁判所承認条件）|
 
 ## 7. 戦略動向
@@ -106,13 +111,13 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## 8. 関連人物
 
 - **加納 裕三**（かのう ゆうぞう）— 共同創業者・代表取締役。2014年創業から代表を務め、一時退任後 2023年3月に再就任。日本ブロックチェーン協会（JBA）の設立を主導した業界の顔的存在。
-- **小宮山 峰史**（こみやま たかし）— 共同創業者。Holdings 段階の株主 13%強（2022年4月時点）。
+- **小宮山 峰史**（こみやま たかし）— 共同創業者。Holdings 段階の株主 約13%（2022年4月・日経報道時点）。2022年の ACA 買収では売却に賛同していたが同買収は破談。再任後の現保有比率は未確認。
 - **平子 惠生**（ひらこ けいせい）— 2019年1月〜2020年3月 代表取締役。
 - **三根 公博**（みね ともひろ）— 2020年3月〜2021年3月 代表取締役。
 - **林 邦良**（はやし くによし）— 2021年3月〜2023年3月 代表取締役。
 - **佐々木 亮太**（ささき りょうた）— Holdings 取締役（2024年時点）。
 - **ジョエル・エジャトン（Joel Edgerton）** — Holdings 取締役（2024年時点）。
-- **積水ハウス** — Holdings の株主として約13%（2022年4月時点）。
+- **積水ハウス** — Holdings の株主として13%弱（2022年4月・日経報道時点）。2022年の ACA 買収では売却意向を示していたが同買収は破談。以降の保有・売却状況は公開情報で未確認。
 
 ## Related
 
@@ -129,3 +134,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
 - [bitFlyer - Wikipedia（日本語版）](https://ja.wikipedia.org/wiki/BitFlyer)（取得 2026-05-18、一次源 cross-check として参照）
+- [ビットフライヤーHD買収を断念 ファンドのACA - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB305WU0Q2A930C2000000/)（2022-09-30 報道。2022年4月の株主構成＝加納約40%・小宮山約13%・積水ハウス13%弱、および買収破談の経緯を確認。取得 2026-05-30）
+- [BitFlyer Co-Founder Yuzo Kano to Return as CEO - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-30/bitflyer-co-founder-yuzo-kano-to-return-as-crypto-exchange-s-ceo)（加納が約40%保有・2023-03 CEO再任を確認。取得 2026-05-30）
+- [加納裕三氏、仮想通貨取引所bitFlyerの社長復帰へ - CoinPost](https://coinpost.jp/?p=448642)（2023-03-30 株主総会で代表復帰・IPO推進方針。再任後の出資比率の開示はなし。取得 2026-05-30）
