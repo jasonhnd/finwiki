@@ -37,6 +37,8 @@
     ],
     "status": "active",
     "sources": [
+      "https://www.ym-lease.co.jp/history.html",
+      "https://www.ym-lease.co.jp/about.html",
       "https://www.yamaguchibank.co.jp/",
       "https://www.ymfg.co.jp/",
       "https://disclosure.edinet-fsa.go.jp/",
@@ -138,8 +140,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6006,
-    "word_like_tokens": 830,
+    "nonspace_chars": 6387,
+    "word_like_tokens": 907,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

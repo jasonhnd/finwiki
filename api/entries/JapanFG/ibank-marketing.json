@@ -35,6 +35,8 @@
     "status": "active",
     "sources": [
       "https://www.ibank.co.jp/",
+      "https://www.ibank.co.jp/corporate/",
+      "https://prtimes.jp/main/html/rd/p/000000320.000029076.html",
       "https://www.fukuoka-fg.com/",
       "https://walletplus.jp/",
       "https://www.fukuoka-fg.com/news/"
@@ -50,7 +52,7 @@
     "iBank マーケティング 設立",
     "Wallet+ アプリ 展開",
     "グループ拡大",
-    "4. KPI table (concept) ^[ambiguous]",
+    "4. KPI table (concept)",
     "5. 事業セグメント・マップ"
   ],
   "body_links": {
@@ -93,8 +95,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4707,
-    "word_like_tokens": 683,
+    "nonspace_chars": 5157,
+    "word_like_tokens": 785,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-05-29"
   }

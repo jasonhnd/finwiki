@@ -18,6 +18,8 @@ sources:
   - "https://www.ja-kyosai.or.jp/"
   - "https://www.ja-kyosai.or.jp/about/"
   - "https://www.ja-kyosai.or.jp/about/zenken/"
+  - "https://www.ja-kyosai.or.jp/about/disclosure/"
+  - "https://www.jakyosai-fukushima.jp/"
   - "https://org.ja-group.jp/factbook/"
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -96,9 +98,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - **米・野菜・果物 (もも・梨)**・畜産の主要産地
 - **原発事故後の風評被害対策** + 食品流通安全プログラムでの JA 関与継続
 
-### 県本部の財務規模 (推定) ^[ambiguous]
+### 県本部の財務規模
 
-- **県本部単独 KPI は公開限定的** — 県本部は全共連の組織内事業拠点ゆえ独自財務諸表を持たない ^[extracted]
+- **県本部単独 KPI は非開示** — 県本部は全共連の組織内事業拠点ゆえ独自財務諸表を持たない ^[extracted]。福島県本部公式サイトの「ディスクロージャー」も全国 JA 共済連の開示に転送され、県別計数 (保有契約高・組合員世帯数) は公表されていない (2026-05-29 確認)。県別概数の推定は出典を欠くため `.opinions/JapanFG/ja-kyosairen-fukushima.md` に隔離。
 
 ### 全共連内の福島県本部の位置付け
 
@@ -113,16 +115,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - **建物更生共済 (建更)** = 火災 + 地震 + 自然災害 + 死亡保障一体 → 民間損保にない独自商品
 - 福島県本部の 2011 震災対応 = **建更の社会的意義**を実証
 
-## 4. KPI (推定)
+## 4. KPI
 
 | 指標 | 値 | 出典 |
 |---|---|---|
-| 県内保有契約高 (生命系) | 数兆円規模 | ^[ambiguous] 全共連県別公開資料要参照 |
-| 県内保有契約高 (建更等損害系) | 数千億円規模 | ^[ambiguous] |
-| 県内組合員世帯 | 数十万人 | ^[ambiguous] |
 | 県内 JA 数 | 8 JA | ^[extracted] |
 
-> 注: JA 共済連は全国本部一体運営ゆえ、県本部単独 KPI は公開限定的。全共連年次報告書 + JA グループ Factbook 2026 + 県本部広報資料を要参照
+> 注: JA 共済連は全国本部一体運営ゆえ、県本部単独の保有契約高・組合員世帯数は非開示 (県別計数の一次資料なし、2026-05-29 確認)。県別概数の推定は `.opinions/JapanFG/ja-kyosairen-fukushima.md` に隔離。全国 (全共連) ベースの保有契約高等は全共連年次報告書 + JA グループ Factbook 2026 を参照。
 
 ## 5. 監督・規制
 
@@ -155,6 +154,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - **JA 共済連 公式**: https://www.ja-kyosai.or.jp/
 - **JA 共済連 会社概要**: https://www.ja-kyosai.or.jp/about/
 - **JA 共済連 全国本部・県本部組織図**: https://www.ja-kyosai.or.jp/about/zenken/
+- **JA 共済連 ディスクロージャー (全国本部一体)**: https://www.ja-kyosai.or.jp/about/disclosure/ — 開示は全国本部ベース、県別計数は非掲載
+- **JA 共済連 福島県本部 公式**: https://www.jakyosai-fukushima.jp/ — 「ディスクロージャー」リンクは全国開示に転送 (県別計数の独自開示なし、2026-05-29 確認)
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)
 - 2011 東日本大震災 + 福島第一原発事故関連の JA 共済連給付実績資料
@@ -162,3 +163,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 ---
 
 > [!info] 校核状態
+> confidence: **likely**。県本部 = 全共連の組織内事業拠点であり法人格を持たず、県別の保有契約高・組合員世帯数を開示する一次資料は存在しない (福島県本部公式サイトのディスクロージャーも全国開示へ転送、2026-05-29 確認)。従前の県別概数 (生命系 数兆円 / 損害系 数千億円 / 組合員世帯 数十万人) は出典を欠くため `.opinions/JapanFG/ja-kyosairen-fukushima.md` に隔離。本文に残す事実 (県内 8 JA, 2000 県本部統合, 2011 震災・建更給付の文脈) は構造的事実。

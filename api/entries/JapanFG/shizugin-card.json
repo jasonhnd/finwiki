@@ -39,7 +39,8 @@
     ],
     "status": "active",
     "sources": [
-      "https://www.shizugincard.co.jp/",
+      "https://shizugin-card.shizuokabank.co.jp/company/",
+      "https://ja.wikipedia.org/wiki/静銀カード",
       "https://www.shizuokabank.co.jp/",
       "https://www.shizuokafg.co.jp/",
       "https://disclosure.edinet-fsa.go.jp/",
@@ -155,8 +156,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6187,
-    "word_like_tokens": 820,
+    "nonspace_chars": 6608,
+    "word_like_tokens": 913,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

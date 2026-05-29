@@ -10,7 +10,8 @@ confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, shizuoka-fg, shizuoka-bank, credit-card, payments, chubu, shizuoka, operating-company]
 status: active
 sources:
-  - "https://www.shizugincard.co.jp/"
+  - "https://shizugin-card.shizuokabank.co.jp/company/"
+  - "https://ja.wikipedia.org/wiki/静銀カード"
   - "https://www.shizuokabank.co.jp/"
   - "https://www.shizuokafg.co.jp/"
   - "https://disclosure.edinet-fsa.go.jp/"
@@ -33,7 +34,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 | 正式名 | 株式会社しずぎんカード |
 | English name | Shizuoka Bank Card Co., Ltd. (Shizugin Card) |
 | 親会社 | [[shizuoka-fg|しずおか FG]] グループ (中核子会社 [[shizuoka-bank|静岡銀行]] 連結) |
-| 設立 | [[shizuoka-bank|静岡銀行]] 系クレジットカード子会社として設立 ^[ambiguous] |
+| 設立 | 1983-04-01 ([[shizuoka-bank|静岡銀行]] 系として設立)。2022-10 [[shizuoka-fg|しずおか FG]] 発足で親会社が静岡銀行→しずおか FG に変更、2023-08-01 付で現社名「静銀カード株式会社」に商号変更 (本店: 静岡市清水区草薙) |
 | 主要事業 | クレジットカード発行 / ショッピングクレジット / カードローン / キャッシング / 収納代行 / 電子マネー / QR 決済関連 |
 | 規制 | 割賦販売法 (割販法) / 貸金業法 / 資金決済法 (関連業務に応じて) |
 | 上場区分 | 非上場 ([[shizuoka-fg]] グループ) |
@@ -107,11 +108,11 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 - **個人情報保護法 (2022-改正)**: クレジットカード会員情報の越境移転・適正取得義務
 - **キャッシュレス推進**: 経産省キャッシュレスビジョン 2025・「2025 年キャッシュレス比率 40%」目標下で加盟店手数料水準論争
 - **マネロン対策・反社チェック**: [[shizuoka-fg]] グループ共同実施
-- **EDINET / 有価証券報告書**: しずぎんカード単体は非上場で開示限定的、[[shizuoka-fg]] 連結セグメント情報で間接開示 ^[ambiguous]
+- **EDINET / 有価証券報告書**: 静銀カード単体は非上場で開示限定的、[[shizuoka-fg]] 連結セグメント情報で間接開示
 
 ### 会計上の取扱い
 
-- **単体財務 KPI**: 親 [[shizuoka-fg]] 有価証券報告書注記 / セグメント情報で部分開示 ^[ambiguous]
+- **単体財務 KPI**: 親 [[shizuoka-fg]] 有価証券報告書注記 / セグメント情報で部分開示 (資本金 5,000 万円・従業員 81 名 = 静銀カード公式会社案内)
 
 ## Related
 
@@ -126,7 +127,8 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 
 ## Sources
 
-- **しずぎんカード 公式サイト** (https://www.shizugincard.co.jp/)
+- **静銀カード株式会社 公式サイト — 会社案内** (https://shizugin-card.shizuokabank.co.jp/company/, 設立 1983-04-01 / 資本金 5,000 万円 / 従業員 81 名 / 本店 静岡市清水区草薙)
+- **Wikipedia: 静銀カード** (https://ja.wikipedia.org/wiki/静銀カード, 1983-04 設立経緯 / 2006-03 しずぎん joyca / 2022-10 親会社変更 / 2023-08-01 現社名へ商号変更)
 - **静岡銀行 公式サイト** (https://www.shizuokabank.co.jp/, グループ会社情報)
 - **しずおか FG 公式 IR** (https://www.shizuokafg.co.jp/)
 - **EDINET 有価証券報告書 (しずおか FG 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
@@ -136,4 +138,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG credit-card-subsidiary anchor created 2026-05-25)。[[shizuoka-fg]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは credit-card-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[shizuoka-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。設立年・ブランドライセンス取得経緯・カード発行枚数・取扱高の正確な数値は ambiguous ^[ambiguous]。
+> confidence: **likely** (FG credit-card-subsidiary anchor created 2026-05-25)。[[shizuoka-fg]] page = 持株会社 holding strategy (2022-10 HD 化) を扱い、本ページは credit-card-subsidiary operating boundary を扱う。設立年 (1983-04-01) ・親会社変更 (2022-10 しずおか FG) ・現社名「静銀カード」への商号変更 (2023-08-01) は静銀カード公式会社案内で確認済 (出典下記)。ブランド変遷は DC フランチャイジー→2006-03「しずぎん joyca」信用保証→2023 JCB 加盟店関連・法人カード取扱開始。カード発行枚数・取扱高の精緻値は単体非開示のため親 [[shizuoka-fg]] 有報セグメント情報を参照。

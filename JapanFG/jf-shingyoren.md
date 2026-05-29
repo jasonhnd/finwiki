@@ -22,6 +22,8 @@ sources:
   - "https://www.jfmbk.org/common/pdf/housin_jf_all.pdf"
   - "https://www.nochubank.or.jp/about/features.html"
   - "水産業協同組合法 (昭和 23 年法律第 242 号)"
+  - "https://ja.wikipedia.org/wiki/JFマリンバンク"
+  - "https://marinebank.jp/disclosure/index.html"
 ---
 # JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)
 
@@ -63,7 +65,7 @@ JF Marine Bank system (3 層構造)
 | 根拠法 | 農業協同組合法 | 水産業協同組合法 |
 | 中間層数 (2025-04) | **31 機関** | **10 機関** |
 | 個別組合数 | 497 JA | 71 JF |
-| 系統規模 | 大 (JA Bank 預金 100 兆円超) | 小 (数兆円規模) ^[ambiguous] |
+| 系統規模 | 大 (JA Bank 預金 100 兆円超) | 小 (数兆円規模 — JF 系統貯金 平成22年度末 2兆2,544億円) |
 | 都道府県別構成 | 一部都道府県は直結移行 | 地域統合 (隣接県合同) が主体 |
 | 上位機関 | 農林中央金庫 (共通) | 農林中央金庫 (共通) |
 | 監督 | 金融庁 + 農水省 | 金融庁 + 農水省・水産庁 |
@@ -89,13 +91,12 @@ JF Marine Bank system (3 層構造)
 | **自主運用** | 一部は信漁連自身で機関投資 |
 | **域内 JF 支援** | 経営指導・流動性供給・システム共同化 |
 
-### 規模感 (推定) ^[ambiguous]
+### 規模感
 
-- **預金規模 (JF Marine Bank 全体)**: 数兆円規模 ([[banking/ja-bank-system-japan|JA Bank]] 100 兆円超に対し 1/30〜1/50 規模)
-- **個別信漁連の総資産**: 数百億〜数千億円規模
-- **全国 71 JF の総資産**: 数兆円規模
+- **貯金規模 (JF 系統全体)**: 数兆円規模 — JF (漁協) 系統貯金は平成22年度末で **2兆2,544億円** ([[banking/ja-bank-system-japan|JA Bank]] 100 兆円超に対し約 1/50 規模)。農林中金開示 (2024-03 末) では JF 系統貸出金 約 0.5 兆円。
+- **個別信漁連の総資産**: 数百億〜8千億円規模 — 最大の [[JapanFG/jf-marine-bank-hokkaido|北海道信漁連]] で総資産 約 8,099 億円・貯金等残高 約 7,654 億円 (令和7年3月末)、これより小規模の地域信漁連が並ぶ。
 
-> 注: 信漁連別の詳細財務は各信漁連 IR・農林中金公開資料を要参照 ^[ambiguous]
+> 注: 信漁連別の詳細財務は各信漁連ディスクロージャー (例: 北海道信漁連 https://marinebank.jp/disclosure/ ) ・農林中金開示を参照。
 
 ### JF Marine Bank system 内の位置付け
 
@@ -135,9 +136,11 @@ JF Marine Bank system (3 層構造)
 - **JF Marine Bank 基本方針**: https://www.jfmbk.org/about/housin.html
 - **JF Marine Bank 基本方針 PDF**: https://www.jfmbk.org/common/pdf/housin_jf_all.pdf
 - **農林中央金庫 特徴 (2025-04-01 時点層別人数)**: https://www.nochubank.or.jp/about/features.html
+- **JF マリンバンク (Wikipedia)**: https://ja.wikipedia.org/wiki/JFマリンバンク — JF 系統貯金 平成22年度末 2兆2,544億円、2021 以降の信漁連統合 (東日本・九州・西日本)
+- **北海道信用漁業協同組合連合会 ディスクロージャー**: https://marinebank.jp/disclosure/index.html — 最大信漁連の規模アンカー (総資産 約 8,099 億円, 令和7年3月末)
 - 水産業協同組合法 (昭和 23 年法律第 242 号)
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (JF Marine Bank 公式 + 農林中金公式 + 水協法) ベース。信漁連数 10 (2025-04-01 時点) は [[JapanFG/norinchukin|農林中金]] 公開資料による ^[extracted]。個別信漁連の管轄・規模 ^[ambiguous] は信漁連別 IR・公開資料を要追加検証。
+> confidence: **likely**。公開情報 (JF Marine Bank 公式 + 農林中金公式 + 水協法) ベース。信漁連数 10 (2025-04-01 時点) は [[JapanFG/norinchukin|農林中金]] 公開資料による ^[extracted]。規模感は JF 系統貯金 2兆2,544億円 (平成22年度末) + 最大の北海道信漁連 (総資産 約 8,099 億円, 令和7年3月末・公式ディスクロージャー) を実証アンカーとして裏付け。なお 2021 以降、東日本信漁連・九州信漁連・西日本信漁連等の地域統合再編が進行しており信漁連数は更に変動している点に留意。

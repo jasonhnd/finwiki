@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T19:28:46+09:00
+Generated: 2026-05-29T20:33:02+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -1758,7 +1758,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under the JapanFG index as the FG-subsidiary think-tank / research operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 横浜銀リース. For peer regional-bank think-tank context, contrast with major think tanks (野村総研, 三菱総
-- Headings: はまぎん総合研究所 (Hamagin Research Institute), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, はまぎん総研 設立, CFG → YFG 商号変更 (2025-10-01), 4. KPI table (concept) ^[ambiguous]
+- Headings: はまぎん総合研究所 (Hamagin Research Institute), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, はまぎん総研 設立, CFG → YFG 商号変更 (2025-10-01), 4. KPI table
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/ffg-securities, https://finwiki.zksc.io/higashi-nippon-bank, https://finwiki.zksc.io/ibank-marketing, https://finwiki.zksc.io/mebuki-lease, https://finwiki.zksc.io/mebuki-securities, https://finwiki.zksc.io/yokohama-bank, https://finwiki.zksc.io/yokohama-bank-leasing
 
 ### 浜松磐田信用金庫
@@ -2479,7 +2479,7 @@ Public pages listed: 1448
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative / economic-
 - Headings: JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives), Wiki route, TL;DR, 1. 組織構造, JF Marine Bank system の三段構造 ^[extracted], JA 信連との対比 ^[extracted], 重要年表 ^[extracted], 4 大機能 ^[extracted]
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-zengyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan, https://finwiki.zksc.io/banking/jf-marine-bank-system-japan, https://finwiki.zksc.io/norinchukin
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/ja-zenchu, https://finwiki.zksc.io/JapanFG/jf-marine-bank-hokkaido, https://finwiki.zksc.io/JapanFG/jf-zengyoren, https://finwiki.zksc.io/JapanFG/norinchukin, https://finwiki.zksc.io/JapanFG/rokin-renraku, https://finwiki.zksc.io/JapanFG/shinkin-central, https://finwiki.zksc.io/JapanFG/zenshin-kumi, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/ja-bank-system-japan, https://finwiki.zksc.io/banking/jf-marine-bank-system-japan
 
 ### JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)
 - URL: https://finwiki.zksc.io/JapanFG/jf-zengyoren
@@ -3758,7 +3758,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 株式会社南都銀行 (The Nanto Bank), Wiki route, TL;DR, 1. 会社概要, 主要子会社・持分, 合併経緯・前身, 重要年表（抜粋）, 2. 事業セグメント・マップ
+- Headings: 株式会社南都銀行 (The Nanto Bank), Wiki route, TL;DR, 1. 会社概要, 主要財務（FY2023、2024-03-31 現在）, 主要子会社・持分, 合併経緯・前身, 重要年表（抜粋）
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hachijuni-bank, https://finwiki.zksc.io/ikeda-senshu-hd, https://finwiki.zksc.io/kyoto-fg, https://finwiki.zksc.io/mizuho-fg, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/resona-hd, https://finwiki.zksc.io/shizuoka-fg
 
 ### ナショナルオーストラリア銀行日本 (National Australia Bank Japan)
@@ -4988,7 +4988,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 株式会社滋賀銀行 (The Shiga Bank), Wiki route, TL;DR, 1. 会社概要, 主要子会社・持分, 合併歴史・前身, 重要年表（抜粋）, 2. 事業セグメント・マップ
+- Headings: 株式会社滋賀銀行 (The Shiga Bank), Wiki route, TL;DR, 1. 会社概要, 主要財務（第138期 / FY2024、2025-03-31 現在）, 主要子会社・持分, 合併歴史・前身, 重要年表（抜粋）
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/ikeda-senshu-hd, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/chiba-bank, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hachijuni-bank, https://finwiki.zksc.io/ikeda-senshu-hd, https://finwiki.zksc.io/juroku-fg, https://finwiki.zksc.io/kyoto-fg, https://finwiki.zksc.io/mebuki-fg
 
 ### 四国銀行

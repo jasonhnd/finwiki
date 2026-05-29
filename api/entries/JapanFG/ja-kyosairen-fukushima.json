@@ -38,6 +38,8 @@
       "https://www.ja-kyosai.or.jp/",
       "https://www.ja-kyosai.or.jp/about/",
       "https://www.ja-kyosai.or.jp/about/zenken/",
+      "https://www.ja-kyosai.or.jp/about/disclosure/",
+      "https://www.jakyosai-fukushima.jp/",
       "https://org.ja-group.jp/factbook/",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -54,7 +56,7 @@
     "主要業務 (県本部固有) ^[extracted]",
     "2011 東日本大震災 + 原発事故での建更給付 ^[extracted]",
     "福島県の農業・JA 構造 ^[extracted]",
-    "県本部の財務規模 (推定) ^[ambiguous]"
+    "県本部の財務規模"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -92,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4722,
-    "word_like_tokens": 733,
+    "nonspace_chars": 5376,
+    "word_like_tokens": 828,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-05-29"
   }

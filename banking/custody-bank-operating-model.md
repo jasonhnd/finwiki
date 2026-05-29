@@ -20,6 +20,8 @@ sources:
   - "https://www.custody.jp/corporate/information/index.html"
   - "https://www.custody.jp/english/corporate/index.html"
   - "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf"
+  - "https://www.smtb.jp/business/instrument/management/scale"
+  - "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf"
   - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.jasdec.com/en/system/"
@@ -49,7 +51,7 @@ The Custody Bank of Japan (CBJ — 日本カストディ銀行) is the other hal
 | Primary regulator | 金融庁 (FSA) |
 | Industry body | 信託協会 (Trust Companies Association of Japan) |
 | Functional position | Asset-administration specialist (no loans, no PB, no real-estate trust, no inheritance trust) |
-| Public AUC anchor | Approximately ¥600-700 trillion trust assets under custody ^[ambiguous] |
+| Public AUC anchor | Approximately ¥696 trillion total assets under custody (受託信託財産 + 常任代理契約等に基づく預り資産; of which 信託財産 ¥476tn) as of 2025-03-31 |
 | Peer | [[JapanFG/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
 
 ### Shareholder structure (public disclosure)
@@ -139,7 +141,7 @@ CBJ's nominee name 「日本カストディ銀行（信託口）」 appears in t
 | Established | 2020-07-27 (JTSB+TCSB merger) | 2000-05 (greenfield) |
 | Shareholder camp | SMTB + Mizuho + 第一生命 + Daiwa-affiliated | MUFG Trust + Nippon Life + Meiji Yasuda + Norinchukin |
 | Lead shareholder stake | SMTB ~46.5% | MUFG Trust 46.5% |
-| Public AUC anchor | ~¥600-700tn ^[ambiguous] | ~¥700tn+ ^[ambiguous] |
+| Public AUC anchor | ~¥696tn (2025-03-31; total assets under custody) | ~¥770tn (2025-03-31; 管理資産残高) |
 | HQ location | 東京都中央区晴海 | 東京都港区浜松町 |
 | Legal-structure license | 銀行法 + 信託業法 (custody-only) | 銀行法 + 信託業法 (custody-only) |
 | Loans / deposits | None / minimal | None / minimal |
@@ -186,7 +188,7 @@ CBJ does not publicly disclose detailed fee schedules. The public-domain reading
 
 | Revenue line | Pricing basis | Public visibility |
 |---|---|---|
-| Pension trust administration fee | AUC bps (very low at GPIF / large-DB scale) | Not disclosed at line-item level ^[ambiguous] |
+| Pension trust administration fee | AUC bps (very low at GPIF / large-DB scale) | Not disclosed at line-item level (CBJ publishes no detailed fee schedule) |
 | 投信受託 admin fee | AUC bps — 0.01-0.05% / year of NAV typical | Disclosed per fund in 信託約款 |
 | Securities custody fee | AUC bps per asset class + per-ticket settlement fees | Not publicly disclosed |
 | Voting / CA admin | Typically bundled into custody fee | Not separately disclosed |
@@ -236,7 +238,7 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 
 ### Merger-accounting note
 
-The 2020-07-27 JTSB + TCSB merger involved system integration over multiple years; integration costs flowed through CBJ P&L and were absorbed by shareholder parents in their consolidated trust-bank operating segments. The granular cost recovery and IT-write-down profile is not publicly disclosed. ^[ambiguous]
+The 2020-07-27 JTSB + TCSB merger involved system integration over multiple years; integration costs flowed through CBJ P&L and were absorbed by shareholder parents in their consolidated trust-bank operating segments. The granular cost recovery and IT-write-down profile is not publicly disclosed (CBJ is non-listed and reports only summary figures; merger goodwill specifics sit in shareholder-parent consolidated disclosure).
 
 ## 6. JASDEC / clearing infrastructure connection
 
@@ -324,6 +326,8 @@ CBJ (record-name trust-account)
 ## Sources
 
 - Custody Bank of Japan: official site, about us, business explanation, corporate information page, English corporate page.
+- 三井住友信託銀行「スケールメリットの追求」資産管理業務ページ（CBJ AUC: 総預かり資産 約696兆円 / 信託財産 476兆円、2025-03-31）— https://www.smtb.jp/business/instrument/management/scale
+- 日本マスタートラスト信託銀行 2024 年度決算（MTBJ 管理資産残高 約770兆円、2025-03-31）— https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf
 - Trust Companies Association of Japan: trust-assets-under-management statistics.
 - FSA: trust-business financial institution list, bank license list.
 - JASDEC: securities book-entry and depository system materials.

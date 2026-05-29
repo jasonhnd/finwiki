@@ -59,7 +59,7 @@
     "2. 業務ライン（金融機能マップ）",
     "3. 親会社関係（JR 東日本 連結内）",
     "戦略意義（鉄道企業のフルスタック金融化）",
-    "4. KPI（公開情報ベース、参考値） ^[ambiguous]"
+    "4. KPI（公開情報ベース）"
   ],
   "body_links": {
     "wikilinks_count": 13,
@@ -97,8 +97,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5823,
-    "word_like_tokens": 944,
+    "nonspace_chars": 6329,
+    "word_like_tokens": 1077,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

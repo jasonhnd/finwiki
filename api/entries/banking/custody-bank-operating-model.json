@@ -39,6 +39,8 @@
       "https://www.custody.jp/corporate/information/index.html",
       "https://www.custody.jp/english/corporate/index.html",
       "https://www.shintaku-kyokai.or.jp/en/pdf/trusts_under_management.pdf",
+      "https://www.smtb.jp/business/instrument/management/scale",
+      "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.jasdec.com/en/system/",
@@ -116,8 +118,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16376,
-    "word_like_tokens": 2474,
+    "nonspace_chars": 16942,
+    "word_like_tokens": 2575,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-05-29"
   }
