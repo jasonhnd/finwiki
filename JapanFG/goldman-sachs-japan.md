@@ -13,6 +13,9 @@ sources:
   - "Wikipedia: ゴールドマン・サックス / Goldman Sachs (公開情報)"
   - "Goldman Sachs Group 2024 Annual Report / Form 10-K (NYSE: GS)"
   - "金融庁 金融商品取引業者登録一覧 (公開情報)"
+  - "https://www.nikkei.com/article/DGXZQOUB2553W0V20C24A4000000/"
+  - "https://ja.wikipedia.org/wiki/持田昌典"
+  - "https://www.goldmansachs.com/japan/our-firm/about-us/"
 ---
 # ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 
@@ -131,11 +134,12 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
   - 2024〜 日本企業のクロスボーダー M&A 復調 → IB 案件機会
   - 2024〜2026 円安・日銀政策金利正常化 → DCM 市場環境変化
 
-## 5. 歴代日本トップ（参考）^[ambiguous]
+## 5. 歴代日本トップ（参考）
 
 - 日本拠点社長 / Country Head ポジションは時期により Goldman Sachs Japan Co., Ltd. 社長 / Co-CEO 等の名称変遷あり
-- 著名歴任者：持田昌典（旧 Goldman Sachs Japan Co. Ltd. 会長 / 社長として長期在任）、近年は森田康次郎 / 持田昌典 / 望月愼一郎 等の名前が業界誌で報じられる
-- 具体的な現職 Country Head は時期により変動するため、最新情報は Goldman Sachs 公式 Press Release を要参照
+- **持田昌典（Masanori Mochida）**：2001 年に当時の CEO ヘンリー・ポールソンにより日本法人トップに就任、ゴールドマン・サックス証券会長 / 社長として通算 22 年在任し、2023 年末に退任。日本市場で外資系投資銀行としての地位を確立した中心人物
+- **居松秀浩（Hidehiro Imatsu）**：持田昌典の後任として 2024-06-03 付でゴールドマン・サックス証券 新社長に就任（就任時 52 歳、金利・トレーディング畑出身）
+- 最新の現職 Country Head は Goldman Sachs 公式 Press Release / 日経等の報道を要参照
 
 ## Related
 
@@ -148,8 +152,11 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **Goldman Sachs Group 2024 Annual Report / Form 10-K**（NYSE: GS、SEC EDGAR 公表）
 - **金融庁 金融商品取引業者登録一覧**（公開情報、関東財務局長登録）
 - 各種業界誌（日経 / 週刊東洋経済 / 週刊ダイヤモンド 等）IB リーグテーブル報道
+- **日本経済新聞「ゴールドマン・サックス日本法人、新社長は金利のプロ 居松秀浩氏」**（居松秀浩 2024-06-03 就任 / 持田昌典 22 年在任後退任、https://www.nikkei.com/article/DGXZQOUB2553W0V20C24A4000000/）
+- **Wikipedia: 持田昌典**（2001 日本法人トップ就任 / 2023 年末退任、https://ja.wikipedia.org/wiki/持田昌典）
+- **Goldman Sachs Japan 公式 About Us**（日本拠点法人構成、https://www.goldmansachs.com/japan/our-firm/about-us/）
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（公開情報ベース、Wikipedia + 親会社 IR 公表資料 + 金融庁登録ベース）。Country Head 人事 / 個別 IB 案件 / 邦銀との資本関係詳細は時期により変動。具体的数値（売上・人員・案件件数）は親会社グローバル数値は Form 10-K に開示されるが、日本セグメント単体数値は非公開のため^[ambiguous] の記述あり。
+> confidence: **likely**（公開情報ベース、Wikipedia + 親会社 IR 公表資料 + 金融庁登録ベース）。歴代日本トップ（持田昌典 2001–2023 / 居松秀浩 2024-06〜）は日経・公式公表ベースで確認済み。個別 IB 案件 / 邦銀との資本関係詳細は時期により変動。具体的数値（売上・人員・案件件数）について、親会社グローバル数値は Form 10-K に開示されるが、日本セグメント単体数値は非公開。

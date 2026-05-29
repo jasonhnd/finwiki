@@ -20,6 +20,9 @@ status: active
 sources:
   - "https://www.zennoh.or.jp/"
   - "https://www.zennoh.or.jp/about/"
+  - "https://www.zennoh.or.jp/about/financial/"
+  - "https://www.zennoh.or.jp/about/financial/statement/r6-7.html"
+  - "https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php"
   - "https://org.ja-group.jp/factbook/"
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -45,7 +48,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 | 設立 | **1972-03 (全販連 + 全購連 統合で発足)** ^[extracted] |
 | 本部 | 東京都千代田区大手町 1-3-1 JA ビル |
 | 会員 | 全国 497 JA + 都道府県農協連 + 関連法人 |
-| 取扱高 | 年間 4〜5 兆円規模 (購買 + 販売合算) ^[ambiguous] |
+| 取扱高 | 5 兆 1,286 億円 (2024 年度 / 第 54 期、購買 + 販売合算) |
 
 ### 統合史 ^[extracted]
 
@@ -128,6 +131,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 
 - **JA 全農 公式サイト**: https://www.zennoh.or.jp/
 - **JA 全農 会社概要**: https://www.zennoh.or.jp/about/
+- **JA 全農 財務情報 / 取扱高・財務諸表 (2024 年度・第 54 期)**: https://www.zennoh.or.jp/about/financial/statement/r6-7.html （取扱高 5 兆 1,286 億円）
+- **JAcom 農業協同組合新聞「11 年ぶりに取扱高 5 兆円台へ」(2025-07-22, 24 年度全農決算)**: https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)
 - 規制改革会議 2014〜2015 農協改革議事録
@@ -135,4 +140,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (JA 全農公式 + JA グループ Factbook + 農協改革議事録) ベース。取扱高 4〜5 兆円規模 ^[ambiguous] は概数で、最新は事業報告書を要参照。海外子会社 CGB の業績は米国子会社開示を要参照。
+> confidence: **likely**。公開情報 (JA 全農公式 + JA グループ Factbook + 農協改革議事録) ベース。取扱高は 2024 年度 (第 54 期) 公表値 5 兆 1,286 億円 (11 年ぶりに 5 兆円台、前年比 +4%)。年度ごとに変動するため最新は事業報告書を要参照。海外子会社 CGB の業績は米国子会社開示を要参照。

@@ -18,6 +18,7 @@ sources:
   - "https://www.bank-daiwa.co.jp/"
   - "https://www.bank-daiwa.co.jp/about/company/profile/"
   - "https://www.bank-daiwa.co.jp/info/"
+  - "https://www.bank-daiwa.co.jp/about/disclosure/transition/"
   - "https://www.daiwa-grp.jp/"
   - "https://www.daiwa-grp.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
@@ -31,7 +32,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 ## TL;DR
 
-大和ネクスト銀行 (Daiwa Next Bank, Ltd.) is the wholly-owned banking subsidiary of [[JapanFG/daiwa-sg|Daiwa Securities Group, Inc.]] (TSE Prime 8601). It is the **securities-bank hybrid** anchor on the Daiwa side, mirroring the architectural pattern of [[JapanFG/ssnb|SSNB]] (SBI), [[banking/au-jibun-bank|au Jibun Bank]] (KDDI / Mitsubishi UFJ), and [[banking/rakuten-bank|Rakuten Bank]] (Rakuten Securities adjacency). Its franchise is built around the **integration of brokerage cash flow into banking** — sweep-deposit linkage with Daiwa Securities accounts, multi-currency deposit support that complements 外貨建て投信 sales, and a deposit base of around several trillion yen built primarily from Daiwa Securities-account customers ^[ambiguous]. On **2026-04-27** Daiwa Securities Group / Daiwa Next Bank announced an agreement to make [[JapanFG/orix-bank|Orix Bank]] a wholly-owned subsidiary, materially expanding the group's bank-side balance sheet, mortgage origination, and trust-bank options — the most consequential strategic move for Daiwa Next Bank since its 2011 founding. ^[extracted]
+大和ネクスト銀行 (Daiwa Next Bank, Ltd.) is the wholly-owned banking subsidiary of [[JapanFG/daiwa-sg|Daiwa Securities Group, Inc.]] (TSE Prime 8601). It is the **securities-bank hybrid** anchor on the Daiwa side, mirroring the architectural pattern of [[JapanFG/ssnb|SSNB]] (SBI), [[banking/au-jibun-bank|au Jibun Bank]] (KDDI / Mitsubishi UFJ), and [[banking/rakuten-bank|Rakuten Bank]] (Rakuten Securities adjacency). Its franchise is built around the **integration of brokerage cash flow into banking** — sweep-deposit linkage with Daiwa Securities accounts, multi-currency deposit support that complements 外貨建て投信 sales, and a deposit base of about 5.06 trillion yen (5,063.7 billion yen across 2,288 thousand accounts as of 2026-03-31, combined yen and foreign-currency deposits) built primarily from Daiwa Securities-account customers. On **2026-04-27** Daiwa Securities Group / Daiwa Next Bank announced an agreement to make [[JapanFG/orix-bank|Orix Bank]] a wholly-owned subsidiary, materially expanding the group's bank-side balance sheet, mortgage origination, and trust-bank options — the most consequential strategic move for Daiwa Next Bank since its 2011 founding. ^[extracted]
 
 ## 1. Identity and group position
 
@@ -128,7 +129,7 @@ Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required
 
 | Metric | Pattern |
 |---|---|
-| Deposit balance | Several trillion yen class (pre-Orix Bank consolidation) ^[ambiguous]; significantly higher after the deal closes |
+| Deposit balance | About 5.06 trillion yen (5,063.7 billion yen / 2,288 thousand accounts as of 2026-03-31, combined yen + foreign currency, pre-Orix Bank consolidation); significantly higher after the deal closes |
 | Foreign-currency deposit share | Higher than pure-yen net banks, reflecting brokerage-linked FX product complementarity |
 | Loan book | Historically modest; expanded materially upon Orix Bank consolidation |
 | ROE | Modest on standalone basis; capital efficiency benefits from securities-group cross-sell economies |
@@ -187,6 +188,7 @@ Daiwa Next Bank publishes a periodic disclosure (the standard 銀行法-required
 - Daiwa Next Bank corporate site (https://www.bank-daiwa.co.jp/).
 - Daiwa Next Bank company profile (https://www.bank-daiwa.co.jp/about/company/profile/).
 - Daiwa Next Bank disclosure / press page (https://www.bank-daiwa.co.jp/info/).
+- Daiwa Next Bank account-count and deposit-balance history (口座数・預金残高の推移): 5,063.7 billion yen deposits / 2,288 thousand accounts as of 2026-03-31, combined yen + foreign currency incl. group-company deposits (https://www.bank-daiwa.co.jp/about/disclosure/transition/).
 - Daiwa Securities Group corporate / IR site (https://www.daiwa-grp.jp/, https://www.daiwa-grp.jp/ir/).
 - Daiwa Securities Group / Daiwa Next Bank announcement on Orix Bank acquisition (2026-04-27).
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).

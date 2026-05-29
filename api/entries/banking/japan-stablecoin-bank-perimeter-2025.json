@@ -45,7 +45,9 @@
       "https://progmat.co.jp/concept/",
       "https://progmat.co.jp/en/news/2023-09-11-press/",
       "https://jpyc.co.jp/",
-      "https://www.sbivc.co.jp/usdc"
+      "https://www.sbivc.co.jp/usdc",
+      "https://www.hokkokubank.co.jp/other/news/2024/pdf/20240401a.pdf",
+      "https://www.businesslawyers.jp/articles/1476"
     ]
   },
   "summary": "This entry sits under banking index as the bank-side perimeter view of the Japan stablecoin / electronic-payment-instrument (EPI) regulatory architecture. Read it with 日本 Stablecoin 法制度の三層構造 for the fintech-side perimeter view, with the platform anchor Progmat and the issuer anchors JPYC · SBI VC Tr",
@@ -129,8 +131,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12838,
-    "word_like_tokens": 2041,
+    "nonspace_chars": 13485,
+    "word_like_tokens": 2154,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

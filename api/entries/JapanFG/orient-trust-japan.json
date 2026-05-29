@@ -41,6 +41,8 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyoj/menkyo.html",
       "Northern Trust Corporation Annual Report 2024 (SEC 10-K)",
+      "https://www.sec.gov/Archives/edgar/data/0000073124/000007312425000105/ntrs-20241231.htm",
+      "https://www.northerntrust.com/content/dam/northerntrust/pws/nt/documents/earnings/2024/quart-earn-release-q42024-bb3681.pdf",
       "Wikipedia: Northern Trust (公開情報, 2026-05-25 抽出)"
     ]
   },
@@ -54,7 +56,7 @@
     "主要顧客タイプ",
     "4. 親会社・日本の競合関係",
     "米 3 大カストディの相対位置",
-    "5. KPI（公開情報ベース、参考値） ^[ambiguous]",
+    "5. KPI（親会社は SEC 開示ベース、日本拠点は非開示）",
     "6.1 米 3 大カストディの末尾としての差別化"
   ],
   "body_links": {
@@ -107,8 +109,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6073,
-    "word_like_tokens": 842,
+    "nonspace_chars": 6753,
+    "word_like_tokens": 963,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

@@ -37,6 +37,9 @@
     "sources": [
       "https://www.zennoh.or.jp/",
       "https://www.zennoh.or.jp/about/",
+      "https://www.zennoh.or.jp/about/financial/",
+      "https://www.zennoh.or.jp/about/financial/statement/r6-7.html",
+      "https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php",
       "https://org.ja-group.jp/factbook/",
       "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
       "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -83,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3995,
-    "word_like_tokens": 600,
+    "nonspace_chars": 4423,
+    "word_like_tokens": 695,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-05-29"
   }

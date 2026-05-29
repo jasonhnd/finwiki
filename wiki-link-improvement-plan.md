@@ -31,21 +31,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/01-bank.md` | `M` | 12 | ok |
-| `JapanFG/bittrade.md` | `M` | 5 | ok |
-| `JapanFG/chibagin-securities.md` | `M` | 47 | ok |
-| `JapanFG/custody-bank.md` | `M` | 26 | ok |
-| `JapanFG/deutsche-japan.md` | `M` | 25 | ok |
-| `JapanFG/dock-financial.md` | `M` | 23 | ok |
-| `JapanFG/ey-shinnihon.md` | `M` | 13 | ok |
-| `JapanFG/ffg-securities.md` | `M` | 50 | ok |
-| `JapanFG/ja-kyosairen.md` | `M` | 22 | ok |
-| `JapanFG/juroku-fg.md` | `M` | 11 | ok |
-| `JapanFG/kampo-life.md` | `M` | 4 | ok |
-| `JapanFG/kiyo-bank.md` | `M` | 12 | ok |
-| `JapanFG/mebuki-lease.md` | `M` | 49 | ok |
-| `JapanFG/mebuki-securities.md` | `M` | 45 | ok |
-| `banking/pension-trust-mandate-allocation-japan.md` | `M` | 19 | ok |
+| `JapanFG/chukyo-bank.md` | `M` | 26 | ok |
+| `JapanFG/concordia-fg.md` | `M` | 12 | ok |
+| `JapanFG/goldman-sachs-japan.md` | `M` | 16 | ok |
+| `JapanFG/hokkoku-fhd.md` | `M` | 18 | ok |
+| `JapanFG/ja-zen-noh.md` | `M` | 10 | ok |
+| `JapanFG/jcr.md` | `M` | 11 | ok |
+| `JapanFG/mufg.md` | `M` | 4 | ok |
+| `JapanFG/orient-trust-japan.md` | `M` | 31 | ok |
+| `JapanFG/san-jusan-fg.md` | `M` | 8 | ok |
+| `JapanFG/smbc.md` | `M` | 32 | ok |
+| `JapanFG/sompo.md` | `M` | 6 | ok |
+| `JapanFG/standard-chartered-japan.md` | `M` | 9 | ok |
+| `banking/daiwa-next-bank.md` | `M` | 38 | ok |
+| `banking/japan-stablecoin-bank-perimeter-2025.md` | `M` | 29 | ok |
+| `banking/japan-trust-bank-vs-global-custodian-comparison-matrix.md` | `M` | 34 | ok |
 
 ## Domain Snapshot
 

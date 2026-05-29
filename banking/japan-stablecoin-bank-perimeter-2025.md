@@ -24,6 +24,8 @@ sources:
   - "https://progmat.co.jp/en/news/2023-09-11-press/"
   - "https://jpyc.co.jp/"
   - "https://www.sbivc.co.jp/usdc"
+  - "https://www.hokkokubank.co.jp/other/news/2024/pdf/20240401a.pdf"
+  - "https://www.businesslawyers.jp/articles/1476"
 ---
 
 # Japan stablecoin / BaaS bank perimeter (2025–2026)
@@ -34,7 +36,7 @@ This entry sits under [[banking/INDEX|banking index]] as the bank-side perimeter
 
 ## TL;DR
 
-By **2025**, Japan's regulatory perimeter for bank-issued digital money has hardened into a three-layer architecture under the 改正資金決済法 framework: (1) **deposit tokens** issued by **banks** under the standard 銀行法 deposit liability regime, (2) **stablecoins / electronic payment instruments (電子決済手段)** issued under a new 改正資金決済法 regime that recognises three issuer types — bank (預金型 EPI), 資金移動業 (funds-transfer-type EPI), and 信託 (信託型 EPI) — and distributed by a separate **電子決済手段等取引業者** (EPI service provider) license, and (3) **non-issued foreign stablecoins** (USDC etc.) distributed in Japan only through the same EPI-service-provider license. The bank-side perimeter has three concrete consequences: (a) only banks can issue 預金型 EPI as bank-deposit-backed tokens; (b) only trust banks (信託兼営銀行) can be issuers of 信託型 stablecoin under platforms like [[JapanFG/progmat|Progmat]]; (c) BaaS partner-channel distribution by banks now coexists with a separate stablecoin distribution channel under different license stacks. **MUFG's Progmat platform** (independent company since 2023-10) provides the institutional rails for 信託型 SC; **JPYC** runs the 資金移動業-based JPY SC; **SBI VC Trade** is the single registered foreign-SC distributor (USDC). Regional-bank pilots are emerging but operationally limited as of the 2025 transition. ^[ambiguous]
+By **2025**, Japan's regulatory perimeter for bank-issued digital money has hardened into a three-layer architecture under the 改正資金決済法 framework: (1) **deposit tokens** issued by **banks** under the standard 銀行法 deposit liability regime, (2) **stablecoins / electronic payment instruments (電子決済手段)** issued under a new 改正資金決済法 regime that recognises three issuer types — bank (預金型 EPI), 資金移動業 (funds-transfer-type EPI), and 信託 (信託型 EPI) — and distributed by a separate **電子決済手段等取引業者** (EPI service provider) license, and (3) **non-issued foreign stablecoins** (USDC etc.) distributed in Japan only through the same EPI-service-provider license. The bank-side perimeter has three concrete consequences: (a) only banks can issue 預金型 EPI as bank-deposit-backed tokens; (b) only trust banks (信託兼営銀行) can be issuers of 信託型 stablecoin under platforms like [[JapanFG/progmat|Progmat]]; (c) BaaS partner-channel distribution by banks now coexists with a separate stablecoin distribution channel under different license stacks. **MUFG's Progmat platform** (independent company since 2023-10) provides the institutional rails for 信託型 SC; **JPYC** runs the 資金移動業-based JPY SC; **SBI VC Trade** is the single registered foreign-SC distributor (USDC). Regional-bank pilots are emerging but operationally limited as of the 2025 transition: 北國銀行's deposit-type stablecoin 「トチカ」 (a tokenized deposit) launched 2024-04-01 as Japan's first such product, and ゆうちょ銀行 announced tokenized-deposit handling via DeCurret DCP targeting FY2026.
 
 ## 1. The three-layer perimeter
 
@@ -101,7 +103,7 @@ This pattern mirrors the way [[banking/baas-japan-landscape|BaaS]] separates the
 ### BaaS partner-channel distribution
 
 1. **EPI distribution license overlay.** A BaaS-participating regional bank wishing to distribute SCs to its partner-brand customers needs the separate 電子決済手段等取引業 license.
-2. **Deposit-token integration.** A BaaS partner-brand customer journey can incorporate deposit-token settlement once the underlying bank deposits are tokenized — but this is still in pilot / planning stage as of 2025–2026. ^[ambiguous]
+2. **Deposit-token integration.** A BaaS partner-brand customer journey can incorporate deposit-token settlement once the underlying bank deposits are tokenized — but this is still in pilot / planning stage as of 2025–2026 (e.g. 北國銀行「トチカ」 live from 2024-04; ゆうちょ銀行 tokenized-deposit handling targeted for FY2026; 改正資金決済法 公布 2025-06-13).
 
 ## 6. Deposit-token vs stablecoin — the operational boundary
 
@@ -168,3 +170,5 @@ For deeper comparison of the four camps and three issuer types, see [[fintech/ja
 - Progmat company outline / concept / press releases (https://progmat.co.jp/about/, https://progmat.co.jp/concept/, https://progmat.co.jp/en/news/2023-09-11-press/).
 - JPYC corporate site (https://jpyc.co.jp/).
 - SBI VC Trade USDC product page (https://www.sbivc.co.jp/usdc).
+- 北國銀行 news release「日本初、預金型ステーブルコイン『トチカ』のサービス開始について」(2024-04-01, https://www.hokkokubank.co.jp/other/news/2024/pdf/20240401a.pdf) — 地銀預金トークン先行事例。
+- BUSINESS LAWYERS「令和8年6月施行！改正資金決済法の概要と実務対応」(https://www.businesslawyers.jp/articles/1476) — 改正資金決済法 2025-06-13 公布 / 2026-06 施行、地域銀行・ゆうちょ銀行のトークン化預金 (FY2026 目途) 動向。

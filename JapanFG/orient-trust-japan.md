@@ -23,6 +23,8 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
   - "https://www.fsa.go.jp/menkyo/menkyoj/menkyo.html"
   - "Northern Trust Corporation Annual Report 2024 (SEC 10-K)"
+  - "https://www.sec.gov/Archives/edgar/data/0000073124/000007312425000105/ntrs-20241231.htm"
+  - "https://www.northerntrust.com/content/dam/northerntrust/pws/nt/documents/earnings/2024/quart-earn-release-q42024-bb3681.pdf"
   - "Wikipedia: Northern Trust (公開情報, 2026-05-25 抽出)"
 ---
 
@@ -96,17 +98,18 @@ Northern Trust Corporation（米 NASDAQ: NTRS）
 - [[JapanFG/state-street-japan|State Street]]: 世界 No.2、SSGA / SPDR ETF 持つ
 - **Northern Trust**: 世界 No.3、富裕層プライベートバンク強み（米本国）、機関投資家サービスは選別された大口顧客にフォーカス
 
-## 5. KPI（公開情報ベース、参考値） ^[ambiguous]
+## 5. KPI（親会社は SEC 開示ベース、日本拠点は非開示）
 
 | 指標 | 規模感 |
 |---|---|
-| 親会社グローバル AUC/A | 約 16 兆ドル（2024）|
+| 親会社グローバル AUC/A | 約 16.8 兆ドル（2024-12-31、Northern Trust Corp 10-K / 4Q24 決算） |
 | 親会社グローバル AUM | 約 1.5 兆ドル（2024）|
-| 日本拠点従業員数 | 数百名規模 ^[ambiguous] |
+| 親会社グローバル従業員数 | 約 23,000 名（Northern Trust 公式） |
+| 日本拠点従業員数 | n.d. (日本拠点別は非開示) |
 | 日本拠点 AUC/A | 親会社グローバル数値に含まれ非開示 |
 | 日本顧客プロファイル | 大口機関投資家中心（GPIF・大手生損保・大手運用会社）|
 
-> 詳細日本拠点 KPI は親会社グローバル合算に含まれ、個別開示は限定的。最新情報は Northern Trust Corporation 10-K（SEC）・Northern Trust Japan 公式ページ参照。
+> 親会社 AUC/A・AUM は Northern Trust Corporation の SEC 開示（10-K / 四半期決算）で確認可能。日本拠点別 KPI は親会社グローバル合算に含まれ個別開示は限定的。最新情報は Northern Trust Corporation 10-K（SEC）・Northern Trust Japan 公式ページ参照。
 
 ### 6.1 米 3 大カストディの末尾としての差別化
 
@@ -161,10 +164,11 @@ Northern Trust Corporation（米 NASDAQ: NTRS）
 - Northern Trust 公式: Japan ページ（jp および en）
 - 金融庁: 信託会社一覧
 - 金融庁: 銀行業免許一覧
-- Northern Trust Corporation 2024 Annual Report（SEC 10-K）
+- Northern Trust Corporation 2024 Annual Report（SEC 10-K, https://www.sec.gov/Archives/edgar/data/0000073124/000007312425000105/ntrs-20241231.htm） — グローバル AUC/A $16.8tn (2024-12-31)
+- Northern Trust Corporation 4Q24 Earnings Release（https://www.northerntrust.com/content/dam/northerntrust/pws/nt/documents/earnings/2024/quart-earn-release-q42024-bb3681.pdf）
 - Wikipedia: Northern Trust（公開情報、2026-05-25 抽出）
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 公開情報ベース、2026-05-25 抽出）。親会社 NTRS 上場・米 3 大カストディ第 3 軸・グローバル AUC/A 約 16 兆ドル・日本拠点存在は公開情報で確認。日本法人の正確な商号・所在地・代表者・従業員数は次回更新時に金融庁登録一覧 + Northern Trust 公式日本ページで補完予定。GPIF 受託機関ステータスは推定（^[likely]）。
+> confidence: **likely**（v1.0 公開情報ベース、2026-05-25 抽出）。親会社 NTRS 上場・米 3 大カストディ第 3 軸・グローバル AUC/A 約 16.8 兆ドル (2024-12-31, SEC 10-K) ・日本拠点存在は公開情報で確認。日本拠点別従業員数は非開示のため n.d. 表記。日本法人の正確な商号・所在地・代表者・従業員数は次回更新時に金融庁登録一覧 + Northern Trust 公式日本ページで補完予定。GPIF 受託機関ステータスは推定（^[likely]）。

@@ -98,11 +98,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
   - 地方創生・人口減少下の地銀再編圧力
   - 中京圏 vs 関西圏の境界ポジションの戦略選択
 
-## 6. Counterpoints
-
-- 「**中京 or 関西 どちら寄り**」: 名古屋圏融資拡大 vs 関西圏連携、戦略の二者択一が曖昧 ^[ambiguous]
-- 「**統合シナジー実効**」: 2018 経営統合 + 2021 合併から数年経過、コスト削減 vs 顧客流出のバランス ^[ambiguous]
-
 ## 7. Open questions
 
 - 百五銀行との県内シェア差は縮小傾向か?

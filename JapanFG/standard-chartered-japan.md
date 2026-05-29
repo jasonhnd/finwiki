@@ -13,6 +13,8 @@ sources:
   - "Wikipedia: Standard Chartered（英語版、2026-05-19 抽出）"
   - "Wikipedia: スタンダード・チャータード銀行（日本語版、2026-05-19 抽出）"
   - "Standard Chartered PLC Annual Report 2024（公式 IR、ロンドン本社）"
+  - "https://www.sc.com/jp/"
+  - "https://www.sc.com/jp/standard-chartered-securities-japan-ltd/"
 ---
 
 # スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo)
@@ -43,7 +45,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 主要法人（日本関連）
 
 - **スタンダード・チャータード銀行 東京支店**: 法人銀行業務の中核
-- **スタンダードチャータード証券株式会社**: 一部時期 在京で証券業務を展開していたが、近年は縮小・閉鎖の可能性 ^[ambiguous]
+- **スタンダードチャータード証券株式会社（Standard Chartered Securities (Japan) Ltd.）**: 在京で証券業務を継続。第一種金融商品取引業者（関東財務局長（金商）第 2922 号）、日本証券業協会加盟。Markets / トランザクション・バンキング / スペシャライズド・ファイナンス分野を扱う（2025 年時点で開示・各種方針を継続公表、現存・稼働中）
 
 ## 2. 沿革
 
@@ -95,8 +97,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: Standard Chartered（英語版）**（https://en.wikipedia.org/wiki/Standard_Chartered, 2026-05-19 抽出）
 - **Wikipedia: スタンダード・チャータード銀行（日本語版）**（2026-05-19 抽出）
 - **Standard Chartered PLC Annual Report 2024**（公式 IR、ロンドン本社）
+- **Standard Chartered Japan 公式サイト**（日本拠点法人一覧：東京支店 + 証券、https://www.sc.com/jp/）
+- **Standard Chartered Securities (Japan) Ltd. 公式ページ**（第一種金融商品取引業 関東財務局長（金商）第 2922 号、日証協加盟、2025 年時点稼働中、https://www.sc.com/jp/standard-chartered-securities-japan-ltd/）
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（公開 Wikipedia + 親会社公式 IR ベース 2026-05-19）。日本拠点固有の数値（従業員数・収益・支店所在等）は公開情報が限られるため、外国銀行支店ディスクロージャー誌（FSA 報告書）の最新版を別途確認推奨。SCB 証券子会社の現況は ^[ambiguous] 扱い。
+> confidence: **likely**（公開 Wikipedia + 親会社公式 IR ベース 2026-05-19）。日本拠点固有の数値（従業員数・収益・支店所在等）は公開情報が限られるため、外国銀行支店ディスクロージャー誌（FSA 報告書）の最新版を別途確認推奨。SCB 証券子会社の現況は公式サイト（関東財務局長（金商）第 2922 号、日証協加盟、2025 年時点で稼働中）で確認済み。

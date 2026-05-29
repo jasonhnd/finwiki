@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T22:04:14+09:00",
+  "generated_at": "2026-05-29T23:22:04+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9790687,
-    "word_like_tokens": 1553492
+    "nonspace_utf8_chars": 9798208,
+    "word_like_tokens": 1554908
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 420216,
-      "word_like_tokens": 73857,
+      "nonspace_chars": 420380,
+      "word_like_tokens": 73900,
       "last_modified": "2026-05-29"
     },
     {
@@ -6007,7 +6007,7 @@
         "中京銀行 設立 (1953)",
         "普通銀行転換と上場",
         "経営統合と消滅",
-        "4. KPI table (historical, 2024-03 期最終決算ベース) ^[ambiguous]"
+        "4. KPI table (historical, 2024-03 期最終決算ベース)"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -6042,8 +6042,8 @@
         "https://finwiki.zksc.io/zenshin-kyo"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4058,
-      "word_like_tokens": 648,
+      "nonspace_chars": 4562,
+      "word_like_tokens": 783,
       "last_modified": "2026-05-29"
     },
     {
@@ -6264,10 +6264,10 @@
         "1. 会社概要",
         "2025-03 期決算（FY2024 通期 連結実績）^[extracted]",
         "2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted]",
+        "主要株主（大株主 上位 10、2026-03-31 基準）^[extracted]",
         "主要子会社・組織",
         "合併歴史・前身",
-        "重要年表（抜粋）^[extracted]",
-        "2. 事業セグメント・マップ"
+        "重要年表（抜粋）^[extracted]"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -6298,8 +6298,8 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6795,
-      "word_like_tokens": 1107,
+      "nonspace_chars": 7597,
+      "word_like_tokens": 1283,
       "last_modified": "2026-05-29"
     },
     {
@@ -10262,8 +10262,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4838,
-      "word_like_tokens": 706,
+      "nonspace_chars": 5436,
+      "word_like_tokens": 788,
       "last_modified": "2026-05-29"
     },
     {
@@ -11275,8 +11275,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4429,
-      "word_like_tokens": 646,
+      "nonspace_chars": 4232,
+      "word_like_tokens": 627,
       "last_modified": "2026-05-29"
     },
     {
@@ -13131,8 +13131,8 @@
         "https://finwiki.zksc.io/banking/ja-bank-system-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3995,
-      "word_like_tokens": 600,
+      "nonspace_chars": 4423,
+      "word_like_tokens": 695,
       "last_modified": "2026-05-29"
     },
     {
@@ -14105,8 +14105,8 @@
         "https://finwiki.zksc.io/JapanFG/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3634,
-      "word_like_tokens": 562,
+      "nonspace_chars": 4146,
+      "word_like_tokens": 654,
       "last_modified": "2026-05-29"
     },
     {
@@ -20798,8 +20798,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13811,
-      "word_like_tokens": 2813,
+      "nonspace_chars": 14019,
+      "word_like_tokens": 2858,
       "last_modified": "2026-05-29"
     },
     {
@@ -23209,7 +23209,7 @@
         "主要顧客タイプ",
         "4. 親会社・日本の競合関係",
         "米 3 大カストディの相対位置",
-        "5. KPI（公開情報ベース、参考値） ^[ambiguous]",
+        "5. KPI（親会社は SEC 開示ベース、日本拠点は非開示）",
         "6.1 米 3 大カストディの末尾としての差別化"
       ],
       "wikilinks": [
@@ -23257,8 +23257,8 @@
         "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6073,
-      "word_like_tokens": 842,
+      "nonspace_chars": 6753,
+      "word_like_tokens": 963,
       "last_modified": "2026-05-29"
     },
     {
@@ -25787,8 +25787,8 @@
         "https://finwiki.zksc.io/mufg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2669,
-      "word_like_tokens": 422,
+      "nonspace_chars": 2529,
+      "word_like_tokens": 402,
       "last_modified": "2026-05-29"
     },
     {
@@ -28255,9 +28255,9 @@
         "https://finwiki.zksc.io/banking/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4481,
-      "word_like_tokens": 685,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 4571,
+      "word_like_tokens": 700,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "JapanFG/smd-am.md",
@@ -28868,8 +28868,8 @@
       "markdown_links": [
         "https://www.sompo-hd.com/"
       ],
-      "nonspace_chars": 5605,
-      "word_like_tokens": 885,
+      "nonspace_chars": 6285,
+      "word_like_tokens": 991,
       "last_modified": "2026-05-29"
     },
     {
@@ -29336,8 +29336,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3555,
-      "word_like_tokens": 465,
+      "nonspace_chars": 4025,
+      "word_like_tokens": 539,
       "last_modified": "2026-05-29"
     },
     {
@@ -37121,8 +37121,8 @@
         "https://finwiki.zksc.io/securities/japan-online-brokerage-competition"
       ],
       "markdown_links": [],
-      "nonspace_chars": 10625,
-      "word_like_tokens": 1661,
+      "nonspace_chars": 11076,
+      "word_like_tokens": 1751,
       "last_modified": "2026-05-29"
     },
     {
@@ -38273,8 +38273,8 @@
         "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring"
       ],
       "markdown_links": [],
-      "nonspace_chars": 12838,
-      "word_like_tokens": 2041,
+      "nonspace_chars": 13485,
+      "word_like_tokens": 2154,
       "last_modified": "2026-05-29"
     },
     {
@@ -38418,8 +38418,8 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 11161,
-      "word_like_tokens": 1793,
+      "nonspace_chars": 12756,
+      "word_like_tokens": 2052,
       "last_modified": "2026-05-29"
     },
     {
@@ -83714,8 +83714,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2550,
-      "word_like_tokens": 481,
+      "nonspace_chars": 2579,
+      "word_like_tokens": 490,
       "last_modified": "2026-05-29"
     }
   ]

@@ -100,11 +100,6 @@ Current-name route: [[JapanFG/cci-group|CCIグループ]]. This page remains as 
   - 2024〜 能登半島地震被災地復興（特別融資・モラトリアム対応）
   - 2024〜 BaaS / 共同勘定系市場の整理（NTT データ「地銀共同センター」「STELLA CUBE」勢に対する代替選択肢としての Tonari）
 
-## 6. Counterpoints
-
-- **DX 先進性 ≠ 規模拡大**：「デジタル先進地銀」評価は確立しているものの、それが県外展開や M&A による規模拡大には直結していない。地銀再編の主導役にはなっていない ^[ambiguous]
-- **Tonari の他地銀採用範囲は未公表ベース**：BaaS としての顧客地銀リストは限定的に開示されており、市場シェアの実態は外部から見えにくい ^[ambiguous]
-
 ## 7. Open questions
 
 - Tonari の採用地銀数・収益規模はどこまで伸びるか？ NTT データ系・日本ユニシス系の共同勘定系から乗り換える地銀は出るか？

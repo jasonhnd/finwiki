@@ -37,6 +37,7 @@
       "https://www.bank-daiwa.co.jp/",
       "https://www.bank-daiwa.co.jp/about/company/profile/",
       "https://www.bank-daiwa.co.jp/info/",
+      "https://www.bank-daiwa.co.jp/about/disclosure/transition/",
       "https://www.daiwa-grp.jp/",
       "https://www.daiwa-grp.jp/ir/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
@@ -109,8 +110,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10625,
-    "word_like_tokens": 1661,
+    "nonspace_chars": 11076,
+    "word_like_tokens": 1751,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

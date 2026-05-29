@@ -34,7 +34,10 @@
     "sources": [
       "Wikipedia: ゴールドマン・サックス / Goldman Sachs (公開情報)",
       "Goldman Sachs Group 2024 Annual Report / Form 10-K (NYSE: GS)",
-      "金融庁 金融商品取引業者登録一覧 (公開情報)"
+      "金融庁 金融商品取引業者登録一覧 (公開情報)",
+      "https://www.nikkei.com/article/DGXZQOUB2553W0V20C24A4000000/",
+      "https://ja.wikipedia.org/wiki/持田昌典",
+      "https://www.goldmansachs.com/japan/our-firm/about-us/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against モルガン・スタンレー・ジャパン (Morgan Stanley Japan) for peer / contrast context and securities index for the broader system / regulatory boundary.",
@@ -82,8 +85,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4838,
-    "word_like_tokens": 706,
+    "nonspace_chars": 5436,
+    "word_like_tokens": 788,
     "inbound_wikilinks_count": 34,
     "last_modified": "2026-05-29"
   }
