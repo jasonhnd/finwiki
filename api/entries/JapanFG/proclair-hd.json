@@ -32,7 +32,8 @@
     "sources": [
       "Wikipedia: 株式会社プロクレアホールディングス (公開情報、2026-05-19 抽出)",
       "Wikipedia: 青森銀行 / みちのく銀行 (公開情報)",
-      "独占禁止法特例法 (令和 2 年法律第 32 号) 公式情報"
+      "独占禁止法特例法 (令和 2 年法律第 32 号) 公式情報",
+      "青森みちのく銀行 公式: 青森銀行沿革 https://www.am-bk.co.jp/guide/aboutus/history/a-bank/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -72,8 +73,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3752,
-    "word_like_tokens": 525,
+    "nonspace_chars": 3836,
+    "word_like_tokens": 550,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }

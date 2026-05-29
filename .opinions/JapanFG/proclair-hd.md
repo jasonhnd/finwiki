@@ -36,3 +36,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - [[JapanFG/77-bank|七十七銀行]]（宮城ベース、東北の競合・提携先。旧 `ssjbank` 誤リンクを修正）^[inferred]
 - [[concordia-fg]]（地銀統合 FG 比較対象）^[inferred]
 - [[fukuoka-fg]]（地銀統合先行事例・十八親和銀行モデル比較）^[inferred]
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## Counterpoints (from 6. Counterpoints)
+
+- **「特例法政策の妥当性」**: 競争政策（独禁法）と産業政策（地銀維持）のトレードオフ、特例法が地銀統合を後押し ^[ambiguous]
+- **「みちのく銀行ブランドの消失」**: 合併新行名「青森みちのく銀行」は両行ブランド併記だが、実質青森銀行主導の統合 ^[ambiguous]

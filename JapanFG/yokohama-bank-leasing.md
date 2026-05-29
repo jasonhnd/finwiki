@@ -58,7 +58,9 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - **2025-10-01**: 旧 コンコルディア FG → **横浜フィナンシャルグループ** 商号変更
 - 横浜銀リース 自体は商号変更の影響を受けず、引き続き [[yokohama-bank]] 連結子会社として運営
 
-## 4. KPI table (concept) ^[ambiguous]
+## 4. KPI table (qualitative — no standalone subsidiary financials disclosed)
+
+> 注: 横浜銀リースは非上場・連結子会社で、横浜フィナンシャルグループ IR は単体の総資産・リース資産残高・営業収益を個別開示していない (FG IR サイトで確認済み)。以下は公式サイトベースの定性的整理であり、精緻な単体財務値は記載しない。
 
 | 項目 | 概況 |
 |---|---|
@@ -69,7 +71,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 | 親会社 | [[yokohama-bank]] 連結子会社 ([[concordia-fg]] グループ) |
 | 地銀系リース ranking | 上位の一角 (北海道リース / 千葉興業リース等と並ぶ) |
 
-> 注: 単体財務 KPI 精緻値は [[concordia-fg]] 有価証券報告書セグメント情報を参照 ^[ambiguous]
+> 注: 横浜銀リースの単体財務 KPI は個別開示されておらず、[[concordia-fg]] (横浜 FG) のグループ連結開示でのみ把握可能。子会社別の精緻値は親会社の有価証券報告書を一次確認のこと。
 
 ## 5. 事業セグメント・マップ
 
@@ -128,4 +130,4 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24)。[[concordia-fg]] page = holding-company strategy (2025-10 YFG 商号変更含む) を扱い、本ページは leasing-subsidiary operating boundary を扱う。単体財務 KPI 精緻値は親 [[concordia-fg]] 有価証券報告書セグメント情報要参照 ^[ambiguous]。
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24)。[[concordia-fg]] page = holding-company strategy (2025-10 YFG 商号変更含む) を扱い、本ページは leasing-subsidiary operating boundary を扱う。横浜銀リースは非上場連結子会社のため単体財務 KPI は個別開示されておらず、精緻値は親 [[concordia-fg]] 有価証券報告書を要一次確認 (横浜 FG IR で単体開示なしを確認済み)。

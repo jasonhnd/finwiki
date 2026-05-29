@@ -40,7 +40,8 @@
       "https://www.sompo-direct.co.jp/company/history.html",
       "https://www.sompo-direct.co.jp/company/disclosure/",
       "https://www.sompo-hd.com/ir/library/disclosure/",
-      "Wikipedia: セゾン自動車火災保険 (公開情報, 2026-05-25 抽出)"
+      "Wikipedia: セゾン自動車火災保険 (公開情報, 2026-05-25 抽出)",
+      "Wikipedia: SOMPOダイレクト損害保険 (沿革・従業員数1,141人(2024-03-31)・資本金322.6億円、公開情報)"
     ]
   },
   "summary": "This entry sits under JapanFG index as the operating-company anchor for the direct non-life insurer historically known as セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険. Read it against SOMPO HD for the parent group context, Sony FG for the direct-auto peer comparison, and Credit Saison for the histori",
@@ -54,7 +55,7 @@
     "3.2 サブ商品",
     "3.3 SOMPO グループ内の役割",
     "4. 親会社関係（SOMPO 連結内）",
-    "5. KPI（公開情報ベース、参考値） ^[ambiguous]"
+    "5. KPI（公式公開情報ベース）"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -90,8 +91,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5206,
-    "word_like_tokens": 733,
+    "nonspace_chars": 5791,
+    "word_like_tokens": 840,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

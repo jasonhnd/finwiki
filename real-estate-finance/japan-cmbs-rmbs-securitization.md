@@ -26,6 +26,8 @@ sources:
   - "https://www.spglobal.com/ratings/en/"
   - "https://www.moodys.com/"
   - "https://www.boj.or.jp/en/statistics/index.htm"
+  - "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html"
+  - "https://www.jhf.go.jp/about/investor/shisan_tanpo/index.html"
 ---
 
 # Japan CMBS and RMBS securitization market
@@ -40,10 +42,12 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] an
 
 ### Two strands at very different scales
 
+Order-of-magnitude only; the granular per-year figures live in the JSDA 証券化市場の動向調査 (monthly/annual Excel files) and JHF MBS disclosures, both cited under Sources. JHF MBS alone was ¥26.3 trn cumulative issued / ¥12.7 trn outstanding at FY2017 end, and RMBS outstanding was ~¥15 trn around 2016 — bracketing the ranges below.
+
 | Strand | Annual issuance (rough public-source order of magnitude) | Outstanding stock (rough public-source order of magnitude) | Dominant issuer model |
 |---|---|---|---|
-| **RMBS** | ¥1.5-3 trn/year ^[ambiguous] | ¥10-15 trn ^[ambiguous] | JHF Monthly Pass-Through MBS dominates; private RMBS is a fraction of total |
-| **CMBS** | Sub-¥500 bn/year in active years; near-zero in dormant years ^[ambiguous] | ¥500 bn-¥1 trn ^[ambiguous] | Single-borrower CMBS dominates post-2010; conduit CMBS effectively zero |
+| **RMBS** | ¥1.5-3 trn/year (JHF MBS ≈ ¥2-3 trn/yr) | ¥10-15 trn | JHF Monthly Pass-Through MBS dominates; private RMBS is a fraction of total |
+| **CMBS** | Sub-¥500 bn/year in active years; near-zero in dormant years | ¥500 bn-¥1 trn | Single-borrower CMBS dominates post-2010; conduit CMBS effectively zero |
 
 The RMBS-CMBS asymmetry is structural. Japan's housing-finance system funnels a large share of fixed-rate mortgage origination through Flat 35, which is purchased and securitized by JHF on a near-monthly cadence. CMBS in contrast competes against (a) [[real-estate-finance/j-reit-market-overview|J-REIT]] public-equity financing, (b) bank balance-sheet non-recourse loans, and (c) private-fund debt — all of which absorb most of the institutional-grade commercial real estate that would otherwise flow into a public CMBS deal.
 
@@ -160,7 +164,7 @@ The trust-bank trusteeship layer is structurally important because Japanese secu
 |---|---|
 | [[JapanFG/sp-global-ratings-japan|S&P Global Ratings Japan]] | Global-scale criteria; required for cross-border-investor-targeted AAA tranches |
 | [[JapanFG/moodys-japan|Moody's Japan]] | Global-scale criteria; same cross-border use case as S&P |
-| Fitch Japan | Limited JP CMBS / RMBS coverage in current public surface ^[ambiguous] |
+| Fitch Japan | n.d. — no public Fitch JP CMBS / RMBS rating list surfaced; JP structured-finance coverage is minor relative to JCR / R&I |
 
 ### Domestic-scale vs global-scale
 
@@ -221,7 +225,8 @@ The trust-bank trusteeship layer is structurally important because Japanese secu
 
 - ARES (Association for Real Estate Securitization): Japan real-estate securitization market summary statistics.
 - JPX: securitized-product disclosure surface.
-- Japan Housing Finance Agency: institutional and Monthly Pass-Through MBS disclosures.
+- JSDA (日本証券業協会) 証券化市場の動向調査: per-year securitization issuance by underlying asset type — https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html
+- Japan Housing Finance Agency: institutional and Monthly Pass-Through MBS disclosures — https://www.jhf.go.jp/about/investor/shisan_tanpo/index.html (JHF MBS ≈ ¥26.3 trn cumulative issued / ¥12.7 trn outstanding at FY2017 end).
 - JCR (Japan Credit Rating Agency): structured-finance rating criteria and rating actions.
 - R&I (Rating and Investment Information): structured-finance rating criteria.
 - S&P Global Ratings: cross-border structured-finance criteria.

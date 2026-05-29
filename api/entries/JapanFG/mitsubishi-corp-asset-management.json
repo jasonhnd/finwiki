@@ -39,7 +39,9 @@
       "三菱商事 (8058) 有価証券報告書 (関係会社一覧)",
       "三菱商事 公式 IR / 統合報告書",
       "FSA 金融商品取引業者一覧",
-      "EDINET 有価証券報告書検索"
+      "EDINET 有価証券報告書検索",
+      "三菱商事 ニュースリリース: KKR・三菱商事・UBS が MC-UBSR 株式の KKR への譲渡に合意 (2022-03-17) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html",
+      "Wikipedia: KJRマネジメント (旧 三菱商事・ユービーエス・リアルティ、公開情報)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against アセットマネジメントOne (the みずほ FG + 第一生命 JV AM, peer banking-system AM) and 三菱UFJアセットマネジメント (the MUFG 系列 AM). For the same-parent group-treasury arm, see 三菱商事FS. For broader 商社系金融 peer set: 三井物産FS / 住友商事FM / 伊藤忠ファイナンス / 丸紅フィナンス / 豊田通商フィナンス / 双日フィナンス. See",
@@ -105,8 +107,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4111,
-    "word_like_tokens": 607,
+    "nonspace_chars": 5263,
+    "word_like_tokens": 806,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

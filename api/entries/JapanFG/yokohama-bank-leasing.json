@@ -47,7 +47,7 @@
     "2. 持株ツリー",
     "横浜銀リース 設立",
     "CFG → YFG 商号変更 (2025-10-01)",
-    "4. KPI table (concept) ^[ambiguous]",
+    "4. KPI table (qualitative — no standalone subsidiary financials disclosed)",
     "5. 事業セグメント・マップ",
     "FG 内ポジション"
   ],
@@ -97,8 +97,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4465,
-    "word_like_tokens": 602,
+    "nonspace_chars": 4688,
+    "word_like_tokens": 622,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-05-29"
   }

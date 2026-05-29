@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T20:33:02+09:00",
+  "generated_at": "2026-05-29T20:49:51+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9778746,
-    "word_like_tokens": 1550983
+    "nonspace_utf8_chars": 9785934,
+    "word_like_tokens": 1552420
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 419851,
-      "word_like_tokens": 73776,
+      "nonspace_chars": 420060,
+      "word_like_tokens": 73823,
       "last_modified": "2026-05-29"
     },
     {
@@ -18547,8 +18547,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5860,
-      "word_like_tokens": 1029,
+      "nonspace_chars": 6276,
+      "word_like_tokens": 1098,
       "last_modified": "2026-05-29"
     },
     {
@@ -19329,8 +19329,8 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4111,
-      "word_like_tokens": 607,
+      "nonspace_chars": 5263,
+      "word_like_tokens": 806,
       "last_modified": "2026-05-29"
     },
     {
@@ -22242,8 +22242,8 @@
         "https://finwiki.zksc.io/securities/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4353,
-      "word_like_tokens": 634,
+      "nonspace_chars": 4571,
+      "word_like_tokens": 708,
       "last_modified": "2026-05-29"
     },
     {
@@ -22726,7 +22726,7 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "主要数値 (概数) ^[ambiguous]",
+        "主要数値 (2025年3月末・連結)",
         "グループ構造",
         "重要年表 (抜粋) ^[extracted]",
         "2. 事業セグメント・マップ",
@@ -22754,8 +22754,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3528,
-      "word_like_tokens": 465,
+      "nonspace_chars": 4012,
+      "word_like_tokens": 603,
       "last_modified": "2026-05-29"
     },
     {
@@ -23186,8 +23186,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4914,
-      "word_like_tokens": 654,
+      "nonspace_chars": 5648,
+      "word_like_tokens": 772,
       "last_modified": "2026-05-29"
     },
     {
@@ -24222,8 +24222,8 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3752,
-      "word_like_tokens": 525,
+      "nonspace_chars": 3836,
+      "word_like_tokens": 550,
       "last_modified": "2026-05-29"
     },
     {
@@ -24367,8 +24367,8 @@
         "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4247,
-      "word_like_tokens": 633,
+      "nonspace_chars": 4312,
+      "word_like_tokens": 638,
       "last_modified": "2026-05-29"
     },
     {
@@ -25476,7 +25476,7 @@
         "2.3 NISA / iDeCo 対応",
         "3. 親会社関係（Credit Saison 連結内）",
         "子会社化の経緯（2017）",
-        "4. KPI（公開情報ベース、参考値） ^[ambiguous]"
+        "4. KPI（公式公開情報ベース）"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -25511,8 +25511,8 @@
         "https://finwiki.zksc.io/asset-management/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5276,
-      "word_like_tokens": 727,
+      "nonspace_chars": 6091,
+      "word_like_tokens": 877,
       "last_modified": "2026-05-29"
     },
     {
@@ -25533,7 +25533,7 @@
         "3.2 サブ商品",
         "3.3 SOMPO グループ内の役割",
         "4. 親会社関係（SOMPO 連結内）",
-        "5. KPI（公開情報ベース、参考値） ^[ambiguous]"
+        "5. KPI（公式公開情報ベース）"
       ],
       "wikilinks": [
         "JapanFG/INDEX",
@@ -25564,8 +25564,8 @@
         "https://finwiki.zksc.io/insurance/sony-assurance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5206,
-      "word_like_tokens": 733,
+      "nonspace_chars": 5791,
+      "word_like_tokens": 840,
       "last_modified": "2026-05-29"
     },
     {
@@ -25712,7 +25712,7 @@
         "旧 第三銀行系譜",
         "旧 三重銀行系譜",
         "経営統合プロセス",
-        "4. KPI table (concept)",
+        "4. KPI table (FY2025.3)",
         "5. 事業セグメント・マップ"
       ],
       "wikilinks": [
@@ -25744,8 +25744,8 @@
         "https://finwiki.zksc.io/zenchugin-kyo"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4040,
-      "word_like_tokens": 660,
+      "nonspace_chars": 4663,
+      "word_like_tokens": 802,
       "last_modified": "2026-05-29"
     },
     {
@@ -32396,8 +32396,8 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3761,
-      "word_like_tokens": 669,
+      "nonspace_chars": 3614,
+      "word_like_tokens": 643,
       "last_modified": "2026-05-29"
     },
     {
@@ -33415,7 +33415,7 @@
         "2. 持株ツリー",
         "横浜銀リース 設立",
         "CFG → YFG 商号変更 (2025-10-01)",
-        "4. KPI table (concept) ^[ambiguous]",
+        "4. KPI table (qualitative — no standalone subsidiary financials disclosed)",
         "5. 事業セグメント・マップ",
         "FG 内ポジション"
       ],
@@ -33460,8 +33460,8 @@
         "https://finwiki.zksc.io/yokohama-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4465,
-      "word_like_tokens": 602,
+      "nonspace_chars": 4688,
+      "word_like_tokens": 622,
       "last_modified": "2026-05-29"
     },
     {
@@ -33897,7 +33897,7 @@
         "重要年表 ^[extracted]",
         "主力共済商品 ^[extracted]",
         "販売チャネル",
-        "規模感 (推定) ^[ambiguous]",
+        "規模感 (2024 年度決算 / 2025-05-31 期末)",
         "「こくみん共済 coop」ブランド戦略"
       ],
       "wikilinks": [
@@ -33939,8 +33939,8 @@
         "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4393,
-      "word_like_tokens": 615,
+      "nonspace_chars": 5038,
+      "word_like_tokens": 769,
       "last_modified": "2026-05-29"
     },
     {
@@ -38627,8 +38627,8 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16898,
-      "word_like_tokens": 2529,
+      "nonspace_chars": 17260,
+      "word_like_tokens": 2602,
       "last_modified": "2026-05-29"
     },
     {
@@ -72746,8 +72746,8 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14454,
-      "word_like_tokens": 2283,
+      "nonspace_chars": 15128,
+      "word_like_tokens": 2418,
       "last_modified": "2026-05-29"
     },
     {
@@ -83712,8 +83712,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2582,
-      "word_like_tokens": 486,
+      "nonspace_chars": 2628,
+      "word_like_tokens": 493,
       "last_modified": "2026-05-29"
     }
   ]

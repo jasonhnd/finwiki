@@ -38,6 +38,7 @@
       "メルカリ 公式 IR (https://about.mercari.com/ir/) (2026-05-19 抽出)",
       "FY2025.6 通期決算短信〔IFRS〕（連結）2025-08-05 開示",
       "FY2025.6 4Q 決算説明資料 2025-08-05 開示",
+      "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250805/20250804529612.pdf",
       "メルペイ・メルコイン 公式サービス資料"
     ]
   },
@@ -90,8 +91,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5860,
-    "word_like_tokens": 1029,
+    "nonspace_chars": 6276,
+    "word_like_tokens": 1098,
     "inbound_wikilinks_count": 9,
     "last_modified": "2026-05-29"
   }

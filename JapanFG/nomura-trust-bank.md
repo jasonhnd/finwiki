@@ -13,6 +13,7 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.nomura-trust.co.jp/company/corp.html"
   - "https://www.nomura-trust.co.jp/company/business.html"
+  - "https://www.nomura-trust.co.jp/ir/pdf/2503.pdf"
   - "Nomura Holdings 有価証券報告書 / Form 20-F"
   - "Wikipedia: 野村信託銀行 (公開情報)"
 ---
@@ -30,7 +31,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | English name | The Nomura Trust and Banking Co., Ltd. |
 | FSA category | 信託銀行 |
 | Bank code | 0304 |
-| 本店 | 東京都千代田区大手町 ^[ambiguous]（公式 IR 要確認） |
+| 本店 | 東京都千代田区大手町二丁目2番2号 アーバンネット大手町ビル19F |
+| 設立 | 1993-08-24 |
+| 資本金 | 575 億円 |
 | Parent boundary | [[JapanFG/nomura-hd|野村 HD]] 100% trust-bank subsidiary |
 | 主要関連法人 | [[JapanFG/nomura-securities|野村證券]]（銀行代理店・信託契約代理店） |
 
@@ -71,7 +74,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 | [[JapanFG/sumitomo-mitsui-trust|三井住友信託 (SMTB)]] | SuMi TRUST HD | ¥数十兆円 | 国内最大独立系信託、年金 / 不動産 / カストディ |
 | [[JapanFG/mitsubishi-ufj-trust-bank|三菱 UFJ 信託 (MUTB)]] | [[JapanFG/mufg|MUFG]] | ¥数十兆円 | メガ系、年金 / カストディ / 法人 |
 | [[JapanFG/mizuho-trust-banking|みずほ信託 (MTBJ)]] | [[JapanFG/mizuho-fg|みずほ FG]] | ¥数十兆円 | メガ系、不動産信託 / 年金 |
-| **野村信託銀行** | **[[JapanFG/nomura-hd|野村 HD]]** | **¥1兆円規模** ^[ambiguous] | **証券グループ付随、Wealth Mgmt 補完** |
+| **野村信託銀行** | **[[JapanFG/nomura-hd|野村 HD]]** | **預金 1兆3,573億円 / 総資産 2兆754億円 (FY2025.3 単体)** | **証券グループ付随、Wealth Mgmt 補完** |
 | [[JapanFG/daiwa-next-bank|大和ネクスト銀行]]（大和証券系）| [[JapanFG/daiwa-securities-group|大和証券 G]] | ¥数千億円 | ネット銀行型、証券グループ |
 | [[JapanFG/sbi-shinsei-trust-bank|SBI 新生信託]] | [[JapanFG/sbi-shinsei-bank|SBI 新生]] | 小規模 | スタートアップ / 暗号資産信託対応 |
 
@@ -88,7 +91,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 
 ## 8. Counterpoints
 
-- **Wealth Management 競合密度** ^[ambiguous]：富裕層ビジネスでは SMTB / MUTB / 三井住友プライベートバンク / メガ系プライベートバンク・外資（UBS / モルガンスタンレー）と熾烈な競合
+> 主観的な競合評価・論点は `.opinions/JapanFG/nomura-trust-bank.md` に分離。
 
 ## 9. Open questions
 
@@ -114,8 +117,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/IN
 ## Sources
 
 - FSA, "銀行免許一覧", `ginkou.xlsx`.
-- Nomura Trust Bank, "会社概要", https://www.nomura-trust.co.jp/company/corp.html
+- Nomura Trust Bank, "会社概要", https://www.nomura-trust.co.jp/company/corp.html （本店 東京都千代田区大手町二丁目2番2号 アーバンネット大手町ビル19F・設立 1993-08-24・資本金 575 億円）
 - Nomura Trust Bank, "事業内容", https://www.nomura-trust.co.jp/company/business.html
+- **野村信託銀行 2025年3月期 決算概況** (2025-05-13、預金 1兆3,573億円 / 総資産 2兆754億円 / 当期純利益 60億円・単体: https://www.nomura-trust.co.jp/ir/pdf/2503.pdf)
 - Nomura Holdings 有価証券報告書 / Form 20-F（年次連結開示）
 - Wikipedia: 野村信託銀行（公開情報）
 

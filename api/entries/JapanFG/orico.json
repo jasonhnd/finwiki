@@ -32,7 +32,9 @@
     "status": "active",
     "sources": [
       "Wikipedia: 株式会社オリエントコーポレーション (公開情報、2026-05-19 参照)",
-      "Orico 公式コーポレートサイト 会社概要・沿革 (公開情報)"
+      "Orico 公式コーポレートサイト 会社概要・沿革 (公開情報)",
+      "Orico IR: 株式の状況 (大株主) https://www.orico.co.jp/company/ir/stock/information/",
+      "日本経済新聞: みずほ、オリコ株の一部をアイフル親会社に売却 3社で業務提携 (2026-05-15) https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -86,8 +88,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4914,
-    "word_like_tokens": 654,
+    "nonspace_chars": 5648,
+    "word_like_tokens": 772,
     "inbound_wikilinks_count": 27,
     "last_modified": "2026-05-29"
   }

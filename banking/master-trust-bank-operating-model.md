@@ -49,7 +49,7 @@ The Master Trust Bank of Japan (MTBJ — 日本マスタートラスト信託銀
 | Primary regulator | 金融庁 (FSA) — bank supervision + trust-business supervision |
 | Industry body | 信託協会 (Trust Companies Association of Japan) |
 | Functional position | Asset-administration specialist (no loans, no deposits, no PB, no real-estate trust) |
-| Public AUC anchor | Approximately ¥700 trillion+ trust assets under custody (2024 public summary) ^[ambiguous] |
+| Public AUC anchor | ¥823 trillion trust assets under custody (MTBJ official "私たちの仕事" page summary, of Japan's ¥2,351 trillion financial assets) |
 | Peer | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] |
 
 ### Shareholder structure (public disclosure)
@@ -131,7 +131,7 @@ MTBJ does not publicly disclose granular fee schedules. The public-domain readin
 
 | Revenue line | Pricing basis | Public visibility |
 |---|---|---|
-| Pension trust administration fee | AUC bps (typically very low for large GPIF-scale mandates) | Not disclosed at line-item level; aggregate fee revenue inferable only from group / shareholder consolidated disclosure ^[ambiguous] |
+| Pension trust administration fee | AUC bps (typically very low for large GPIF-scale mandates) | Not disclosed at line-item level; MTBJ being non-listed, aggregate fee revenue is only inferable from group / shareholder consolidated disclosure |
 | Securities custody fee | AUC bps per asset class; settlement fees per ticket; cash-management spread | Not disclosed publicly |
 | Voting administration / corporate-action ops | Typically bundled into custody fee | Not separately disclosed |
 | Securities-lending admin / agent-lender fee | Revenue share of lending income with beneficial owner | Not separately disclosed |
@@ -141,7 +141,7 @@ MTBJ does not publicly disclose granular fee schedules. The public-domain readin
 
 1. MTBJ is non-listed and publishes only minimum statutory disclosures; granular fee disclosure is at the shareholder consolidated level.
 2. 投信受託 fees are observable per fund but vary by fund-family, asset class, and contract date; cross-fund aggregation requires manual scraping of each 信託約款.
-3. Pension-trust contracts are individually negotiated, including for GPIF; only summary aggregate AUC × average bps inferences are possible from public data. ^[ambiguous]
+3. Pension-trust contracts are individually negotiated, including for GPIF; no per-mandate fee is published, so only summary aggregate AUC × average bps inferences are possible from public data.
 4. Securities-custody fees for institutional clients are mandate-specific and not on standard public tariffs.
 
 ### Cross-bank fee-economy reading
@@ -257,7 +257,7 @@ This sub-custody dependency means MTBJ's foreign-asset processing cost is struct
 
 ## Sources
 
-- Master Trust Bank of Japan: official site, company overview, business / asset-management page, company-information page.
+- Master Trust Bank of Japan: official site, company overview, business / asset-management page ("私たちの仕事" — states ¥823 trillion trust assets under custody of Japan's ¥2,351 trillion financial assets: https://www.mastertrust.co.jp/about/overview.html), company-information page (capital ¥10bn; shareholders MUFG Trust 46.5% / Nippon Life 33.5% / Meiji Yasuda 10.0% / 農中信託 10.0%; business commenced 2000-05-09: https://www.mastertrust.co.jp/company/information.html).
 - Trust Companies Association of Japan: trust-assets-under-management statistics.
 - FSA: trust-business financial institution list, bank license list.
 - JASDEC: securities book-entry and depository system materials.

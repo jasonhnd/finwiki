@@ -14,6 +14,8 @@ sources:
   - "https://www.33bk.co.jp/company/"
   - "https://www.33fg.co.jp/"
   - "https://www.chiginkyo.or.jp/"
+  - "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250411514045.pdf"
+  - "https://www.33fg.co.jp/profile/ir_library/disc/tougou2025.3.pdf"
 ---
 
 # 三十三銀行 (San ju San Bank)
@@ -75,18 +77,19 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
 - **2021-05-01**: 両行合併 → 三十三銀行 発足 (single bank operating subsidiary 化完了)
 - **2024**: 中期経営計画策定 (店舗網最適化・DX 投資・名古屋圏進出)
 
-## 4. KPI table (concept)
+## 4. KPI table (FY2025.3)
 
-| 項目 | 概況 ^[ambiguous] |
+| 項目 | 数値 (2025年3月末) |
 |---|---|
-| 預金残高 (単体) | 約 4-5 兆円規模 |
-| 貸出金残高 (単体) | 約 3-4 兆円規模 |
+| 預金等残高 (FG 連結・譲渡性預金含む) | 3 兆 9,331 億円 (前年度末比 +453 億円) |
+| 貸出金残高 (FG 連結) | 3 兆 143 億円 (前年度末比 +854 億円) |
+| 総資産 (FG 連結) | 4 兆 5,108 億円 |
 | 主要営業エリア | 三重県 (全域) + 名古屋圏・大阪・東京 |
-| 従業員 (単体) | 約 2,200 名規模 |
+| 従業員 (FG 連結) | 約 2,400 人 |
 | 県内シェア | No.2 (No.1 は [[hyakugo-bank|百五銀行]]) |
 | FG 上場コード | [[san-jusan-fg|7322]] (PRIME) |
 
-> 注: 最新精緻値は [[san-jusan-fg]] IR / 決算短信 / 有価証券報告書を参照 ^[ambiguous]
+> 注: 上記は [[san-jusan-fg|三十三 FG]] FY2025.3 連結ベース (2025-05-09 決算短信 / 統合報告書 2025)。三十三銀行は同 FG の中核子会社で「銀行業」セグメントが大半を占める。単体精緻値は FG 有価証券報告書を参照。
 
 ## 5. 事業セグメント・マップ
 
@@ -141,10 +144,12 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license op
 - **FSA 銀行免許一覧** (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, 2026-05-02 時点)
 - **三十三銀行 公式会社情報** (https://www.33bk.co.jp/company/)
 - **三十三 FG 公式 IR** (https://www.33fg.co.jp/)
+- **三十三 FG 2025年3月期 決算短信〔日本基準〕（連結）** (2025-05-09 開示、預金等 3兆9,331億円 / 貸出金 3兆143億円 / 総資産 4兆5,108億円: https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250509/20250411514045.pdf)
+- **三十三 FG 統合報告書 (ディスクロージャー誌) 2025** (従業員数 約2千4百人: https://www.33fg.co.jp/profile/ir_library/disc/tougou2025.3.pdf)
 - **全国地方銀行協会** (https://www.chiginkyo.or.jp/, 加盟銀行一覧)
 - **Wikipedia: 三十三銀行 / 三十三フィナンシャルグループ** (2026-05-24 抽出)
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (operating-company anchor created 2026-05-24)。FG page = [[san-jusan-fg]] が strategy and group integration を扱い、本ページは bank-license entity boundary と県内競合構図を扱う。預金・貸出 KPI 精緻値は FG 決算短信 / 有価証券報告書要参照 ^[ambiguous]。
+> confidence: **likely** (operating-company anchor created 2026-05-24)。FG page = [[san-jusan-fg]] が strategy and group integration を扱い、本ページは bank-license entity boundary と県内競合構図を扱う。預金・貸出 KPI は [[san-jusan-fg|三十三 FG]] FY2025.3 連結 (2025-05-09 決算短信) ベースで更新済。単体精緻値は FG 有価証券報告書を参照。

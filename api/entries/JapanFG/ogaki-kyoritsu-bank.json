@@ -30,7 +30,9 @@
     "status": "active",
     "sources": [
       "Wikipedia: 株式会社大垣共立銀行 (2026-05-19 抽出)",
-      "大垣共立銀行 公式コーポレートサイト (沿革・経営理念ページ)"
+      "大垣共立銀行 公式コーポレートサイト (沿革・経営理念ページ)",
+      "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0501.pdf",
+      "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -39,7 +41,7 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要数値 (概数) ^[ambiguous]",
+    "主要数値 (2025年3月末・連結)",
     "グループ構造",
     "重要年表 (抜粋) ^[extracted]",
     "2. 事業セグメント・マップ",
@@ -72,8 +74,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3528,
-    "word_like_tokens": 465,
+    "nonspace_chars": 4012,
+    "word_like_tokens": 603,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

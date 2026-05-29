@@ -84,9 +84,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 6. Counterpoints
 
-- 「PB 強み vs IB 弱み」観: 日本では IB（DCM/ECM/M&A）で邦銀系・米系に比して市場シェアが限定的 → 旧 CS 統合で改善期待 vs 統合コストで短期収益圧迫 ^[ambiguous]
-- 「旧 CS 統合の戦略意義」: 規模拡大・PB 顧客基盤拡大 vs 文化・リスク管理体制統合の難しさ（旧 CS の信用毀損リスク継承）^[ambiguous]
-- 「スイス TBTF リスク」: UBS 単独でスイス GDP の数倍規模の銀行資産 → スイス政府の暗黙保証依存 vs 規制強化 ^[ambiguous]
+> 主観的な戦略評価・論点（PB vs IB シェア観・旧 CS 統合の戦略意義・スイス TBTF リスク）は `.opinions/JapanFG/ubs-japan.md` に分離。
 
 ## 7. Open questions
 

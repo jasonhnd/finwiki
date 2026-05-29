@@ -20,9 +20,12 @@ status: active
 sources:
   - "https://www.zenrosai.coop/"
   - "https://www.zenrosai.coop/about/"
+  - "https://www.zenrosai.coop/zenrosai/topics/2025/32152.html"
+  - "https://www.zenrosai.coop/about/number.html"
   - "https://www.kyosai-cc.or.jp/"
   - "消費生活協同組合法 (昭和 23 年法律第 200 号)"
   - "https://www.fsa.go.jp/menkyo/hoken.pdf"
+  - "https://www.ja-kyosai.or.jp/files/2024/202407-2.pdf"
 ---
 
 # 全労済 / こくみん共済 coop (全国労働者共済生活協同組合連合会 / National Federation of Workers and Consumers Insurance Cooperatives)
@@ -55,7 +58,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **workers' / consumer
 | 根拠法 | 農業協同組合法 | 消費生活協同組合法 (生協法) |
 | 主管 | 農林水産省 + 金融庁協力 | **厚生労働省** + 金融庁協力 |
 | 顧客基盤 | 農協組合員 + 員外利用枠 | 労働者・地域勤労者・地域住民 |
-| 規模 (保有契約) | 約 200 兆円超 | 数十兆円規模 ^[ambiguous] |
+| 規模 (保有契約) | 約 200 兆円超 (令和6年度 保有契約高 約 210 兆円) | 契約高 約 791 兆円 (2024 年度) |
 | 商品ブランド | JA 共済 | こくみん共済 coop |
 | 販売チャネル | 全国 497 JA + 訪問販売 | 都道府県労済 + Web + 労組経由 |
 
@@ -87,12 +90,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **workers' / consumer
 - **労働組合経由** — 連合・各産別労組と緊密関係
 - **コンビニ収納・自動振替** — 掛金収納の効率化
 
-### 規模感 (推定) ^[ambiguous]
+### 規模感 (2024 年度決算 / 2025-05-31 期末)
 
-- **組合員数**: 1000 万人超
-- **保有契約**: 数十兆円規模
-- **総資産**: 数兆円規模
-- **掛金収入 (保険料相当)**: 年間 2000〜3000 億円規模
+- **会員数**: 58 会員 (47 都道府県労済 + 8 職域労済 + 3 生協連合会)
+- **契約件数**: 2,893 万件 (契約口数 38.7 億口)
+- **契約高**: 約 791 兆円
+- **総資産**: 4 兆 27 億円 (4,002,681 百万円)
+- **受入共済掛金**: 5,299 億円 (529,928 百万円)
+- **支払共済金**: 3,175 億円 / **経常収益**: 6,461 億円
 
 ### 「こくみん共済 coop」ブランド戦略
 
@@ -143,11 +148,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **workers' / consumer
 
 - **全労済 / こくみん共済 coop 公式サイト**: https://www.zenrosai.coop/
 - **全労済 / こくみん共済 coop 会社概要**: https://www.zenrosai.coop/about/
+- **こくみん共済 coop 2024 年度決算のご報告** (契約高 791 兆円・受入共済掛金 5,299 億円・総資産 4 兆 27 億円・契約件数 2,893 万件・支払共済金 3,175 億円・経常収益 6,461 億円): https://www.zenrosai.coop/zenrosai/topics/2025/32152.html
+- **数字で見るこくみん共済 coop** (2024 年度): https://www.zenrosai.coop/about/number.html
 - **日本共済協会**: https://www.kyosai-cc.or.jp/ (協同組合間連絡)
 - 消費生活協同組合法 (昭和 23 年法律第 200 号)
 - 金融庁 保険会社免許一覧 (https://www.fsa.go.jp/menkyo/hoken.pdf) — 規制系統対比用
+- **JA 共済連 令和5年度決算** (JA 共済比較: 保有契約高 約 210 兆円): https://www.ja-kyosai.or.jp/files/2024/202407-2.pdf
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**。公開情報 (全労済 / こくみん共済 coop 公式 + 生協法 + 日本共済協会) ベース。保有契約・総資産規模 ^[ambiguous] は概数、最新は同会ディスクロージャーを要参照。「こくみん共済 coop」は 2019 改名後の主力ブランド名で「全労済」は法人正式名の通称。
+> confidence: **likely**。公開情報 (全労済 / こくみん共済 coop 公式 + 生協法 + 日本共済協会) ベース。契約高・総資産・受入共済掛金は 2024 年度決算 (2025-05-31 期末、第 145 回通常総会 2025-08-27 承認) の実数値。最新は同会ディスクロージャー (FACT BOOK) を要参照。「こくみん共済 coop」は 2019 改名後の主力ブランド名で「全労済」は法人正式名の通称。

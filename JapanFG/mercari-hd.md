@@ -14,6 +14,7 @@ sources:
   - "メルカリ 公式 IR (https://about.mercari.com/ir/) (2026-05-19 抽出)"
   - "FY2025.6 通期決算短信〔IFRS〕（連結）2025-08-05 開示"
   - "FY2025.6 4Q 決算説明資料 2025-08-05 開示"
+  - "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250805/20250804529612.pdf"
   - "メルペイ・メルコイン 公式サービス資料"
 ---
 
@@ -36,7 +37,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **創業者・代表**：山田進太郎（代表取締役 CEO、元ウノウ創業者）
 **業態**：C2C マーケットプレース + 決済 + 後払い + クレカ + 暗号資産 + スポットワーク
 
-> 注: メルカリは厳密には「金融 HD」ではなく EC グループ全体の持株会社的存在だが、wiki/JapanFG 内では「**EC / Bank 一体型**」垂直統合の典型例として扱う。銀行ライセンスは未保有のため、純粋な「金融 HD」分類ではない。^[ambiguous]
+> 注: メルカリは銀行ライセンスを保有せず、メルペイ（資金移動業者）・メルコイン（暗号資産交換業者）を通じて金融事業を展開する EC 起点のグループ。本 wiki/JapanFG 内での分類上の扱い（「EC / Bank 一体型」垂直統合例とするか否か）は編集判断のため `.opinions/JapanFG/mercari-hd.md` を参照。
 
 ### 主要子会社・新規事業
 
@@ -109,11 +110,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - リストラ・コスト削減策と並行して黒字定着を目指す段階に移行
 - グローバル EC（Amazon / eBay）との直接競合を回避、国内深耕＋米国黒字維持にシフト
 
-### 銀行ライセンス取得シナリオ
+### 銀行ライセンス（現状）
 
-- 現状: **自社銀行は未保有**、資金移動業者（メルペイ）として運営
-- 銀行ライセンス取得シナリオは公開資料では未確定 ^[ambiguous]
-- BaaS（[[au-fh]] / 住信 SBI ネット銀行 等）連携 vs 自社取得の戦略選択は未公表
+- 現状: **自社銀行は未保有**、メルペイが資金移動業者（関東財務局長 第 00058 号）+ 前払式支払手段発行者として運営
+- 将来の銀行ライセンス取得シナリオ・BaaS 連携 vs 自社取得の戦略観測は `.opinions/JapanFG/mercari-hd.md` に分離（公開資料未確定）
 
 ### 競合構図
 
@@ -153,7 +153,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 国内 MAU | **2,304 万**（FY2025.6 4Q）| 4Q 説明資料 |
 | Fintech 債権残高 | 約 2,000 億円 | 同上 |
 | メルコイン取引収益 | 1,705 百万円（通期）| 通期短信 |
-| メルカード発行枚数 | **300 万枚超**（2024-03 時点）| プレス発表 |
+| メルカード会員数 | **500 万枚超**（FY2025.6 4Q）／ 300 万枚超（2024-03 時点）| FY2025.6 4Q 説明資料・プレス発表 |
 | メルコイン口座数 | **200 万超**（2024-03 時点）| プレス発表 |
 | メルカリハロ登録者 | 800 万人 / パートナー 12 万拠点 | 4Q 説明資料 |
 
@@ -170,7 +170,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: 株式会社メルカリ**（https://ja.wikipedia.org/wiki/メルカリ, 2026-05-19 抽出）
 - **メルカリ 公式 IR サイト**（https://about.mercari.com/ir/, 2026-05-19 抽出）
 - **FY2025.6 通期決算短信〔IFRS〕（連結）2025-08-05 開示**（pdf.irpocket.com/C4385/bffO/gPP8/tY1k.pdf 経由）
-- **FY2025.6 4Q 決算説明資料 2025-08-05 開示**（nikkei.com/nkd/disclosure/tdnr/20250804529612/ 経由）
+- **FY2025.6 4Q 決算説明資料 2025-08-05 開示**（メルカード会員数 500 万枚突破を開示。nikkei.com/nkd/disclosure/tdnr/20250804529612/ 経由 / 原本 https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250805/20250804529612.pdf）
 - **メルペイ 公式サービス概要**（https://www.merpay.com/, 2026-05-19 抽出）
 - **メルコイン 公式サービス概要**（https://www.mercoin.com/, 2026-05-19 抽出）
 - **メルカード発行枚数プレス**（jbpress.ismedia.jp/articles/-/89238 ほか 2024-03 報道、300 万枚突破）
@@ -181,4 +181,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.1 FY2025.6 通期決算 2025-08-05 開示反映、2026-05-19 編集）。GMV / MAU / 売上収益 / 当期利益は通期短信ベースで確度高。メルカード発行枚数・メルコイン口座数はプレス発表（2024-03 時点 300 万枚 / 200 万口座）で、FY2025.6 通期短信での最新更新は公開資料未確認のため ^[ambiguous]。銀行ライセンス取得シナリオ・米国事業黒字定着・メルコイン拡張計画は公開情報未確定。
+> confidence: **likely**（v1.1 FY2025.6 通期決算 2025-08-05 開示反映、2026-05-19 編集）。GMV / MAU / 売上収益 / 当期利益は通期短信ベースで確度高。本文表中のメルカード「300 万枚超」/ メルコイン「200 万口座超」は 2024-03 プレス発表時点の値（2024-03 突破報道）。その後 FY2025.6 4Q 決算説明（2025-08-05）でメルカード会員数は 500 万枚を突破したと開示されており、本文の 2024-03 値は古い時点値である点に留意（メルコイン口座数の FY2025.6 更新値は公開資料で個別未確認）。銀行ライセンス取得シナリオ・米国事業黒字定着・メルコイン拡張計画は公開情報未確定（`.opinions` 参照）。

@@ -12,6 +12,8 @@ status: active
 sources:
   - "Wikipedia: 株式会社大垣共立銀行 (2026-05-19 抽出)"
   - 大垣共立銀行 公式コーポレートサイト (沿革・経営理念ページ)
+  - "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0501.pdf"
+  - "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf"
 ---
 
 # 大垣共立銀行 (OKB)
@@ -35,14 +37,16 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **本店**：岐阜県大垣市郭町 3-98 ^[extracted]
 **統一金融機関コード**：0152 ^[extracted]
 
-### 主要数値 (概数) ^[ambiguous]
+### 主要数値 (2025年3月末・連結)
 
-| 項目 | 概要 |
+| 項目 | 数値 |
 |---|---|
 | 業態 | 地方銀行 (全国地方銀行協会加盟) |
-| 預金量 | 5 兆円台規模 (地銀中位) |
-| 店舗数 | 約 150 店舗 (岐阜県・愛知県・三重県中心) |
-| ATM 数 | 全国地銀でも上位水準 (コンビニ・ドライブスルー含む) |
+| 預金残高 (連結) | 5 兆 7,232 億円 (前年度末比 △75 億円) |
+| 貸出金残高 (連結) | 4 兆 4,947 億円 (前年度末比 △339 億円) |
+| 総資産 (連結) | 6 兆 5,418 億円 |
+| 店舗数 | 国内 149 店舗 (うち出張所 32) + 海外駐在員事務所 4 (岐阜県・愛知県・三重県中心) |
+| 従業員数 | 単体 約 2,300 名 / 連結 約 2,960 名 |
 
 ### グループ構造
 
@@ -82,7 +86,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 個人預金・住宅ローン | 岐阜県・愛知県北西部・三重県北部住民 | 「楽しい銀行」B2C ブランド |
 | 中小企業融資 | 西濃地方の製造業 (自動車部品・繊維・食品) | 中京経済圏サプライチェーン |
 | 観光・地域融資 | 養老・関ヶ原・大垣城下町観光業 | 観光振興融資 |
-| ATM ネットワーク | コンビニ・ドライブスルー | 全国地銀でも上位水準 ^[ambiguous] |
+| ATM ネットワーク | コンビニ・ドライブスルー | 365 日年中無休稼動・他行 ATM 提携網 |
 | クレカ | OKB カード (JCB 提携) | - |
 | リース・投信 | OKB リース・他 | - |
 
@@ -96,7 +100,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### 「日本一の女性活躍銀行」
 
 - 女性管理職比率引き上げ・育児支援制度・女性向け金融商品 ^[extracted]
-- 地銀業界の中でも、女性活躍指標で目立つ取組み ^[ambiguous]
 
 ### 競合関係
 
@@ -142,7 +145,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- **Wikipedia: 株式会社大垣共立銀行** (https://ja.wikipedia.org/wiki/大垣共立銀行, 2026-05-19 抽出)
+- **Wikipedia: 株式会社大垣共立銀行** (https://ja.wikipedia.org/wiki/大垣共立銀行, 2026-05-19 抽出; 国内 149 店舗・従業員 単体 2,300 / 連結 2,960・365 日年中無休 ATM)
+- **大垣共立銀行 2025年3月期 決算短信〔日本基準〕（連結）** (2025-05-09 開示、預金 5兆7,232億円 / 貸出金 4兆4,947億円 / 総資産 連結 6兆5,418億円: https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0501.pdf)
+- **大垣共立銀行 2025年3月期 決算説明資料** (預金・貸出末残ベース確認: https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf)
 - 大垣共立銀行 公式コーポレートサイト (沿革・経営理念ページ、公開情報)
 
 ---

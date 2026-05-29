@@ -21,6 +21,8 @@ sources:
   - "三菱商事 公式 IR / 統合報告書"
   - "FSA 金融商品取引業者一覧"
   - "EDINET 有価証券報告書検索"
+  - "三菱商事 ニュースリリース: KKR・三菱商事・UBS が MC-UBSR 株式の KKR への譲渡に合意 (2022-03-17) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html"
+  - "Wikipedia: KJRマネジメント (旧 三菱商事・ユービーエス・リアルティ、公開情報)"
 ---
 
 # 三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)
@@ -31,13 +33,16 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 1. 会社概要
 
+> [!warning] 重要な資本異動（2022）
+> かつて三菱商事系不動産 AM の中核だった **三菱商事・ユービーエス・リアルティ株式会社 (MC-UBSR)** は、**2022-04-28 に三菱商事 (8058) と UBS Asset Management AG が保有全株式を KKR（間接子会社 76 株式会社）へ譲渡（約 2,300 億円）して完全子会社化され、商号を株式会社 KJRマネジメント (KJR Management) に変更**した。すなわち当該中核会社は **現在は三菱商事系ではなく KKR 傘下**であり、本ページの「三菱商事系不動産 AM の集合ノード」という旧前提は MC-UBSR については当てはまらない。下表は沿革整理のための記載。
+
 | Item | Notes |
 |---|---|
-| Legal name (中核) | 三菱商事・UBSリアルティ株式会社 (旧称ベース)、現在の正式名は時点で要確認 ^[ambiguous] |
-| English | Mitsubishi Corp.-UBS Realty Inc. (旧称ベース) ^[ambiguous] |
-| Parent | **三菱商事 (8058)** + UBS Group (一部) ^[ambiguous] (出資比率は時点変動、近年 UBS から 三菱商事 100% 化 / または 他パートナー再編 の経緯あり) |
+| 旧中核会社（沿革） | **三菱商事・ユービーエス・リアルティ株式会社 (MC-UBSR)** ＝ 2000 設立の エム・シー・アセットマネジメント (三菱商事 51% / UBS 49%) が同年改称した合弁。**2022-04-28 に KKR が全株取得し「株式会社 KJRマネジメント」へ商号変更**（運用残高 約 1.7 兆円、日本都市ファンド投資法人・産業ファンド投資法人を運用）|
+| 旧 English | Mitsubishi Corp.-UBS Realty Inc.（現 KJR Management Co., Ltd.）|
+| 旧 Parent → 現 Parent | 旧：三菱商事 51% + UBS 49% の合弁 → **現：KKR 100%（2022-04 以降、三菱商事は資本関係なし）** |
 | License route | FIEA 投資運用業 (J-REIT 運用 + 私募ファンド) |
-| Wiki role | **三菱商事系の対外不動産 AM の中核** + 三菱商事グループの AM 機能の集合ノード |
+| Wiki role（再定義） | 本ページは沿革上「三菱商事系不動産 AM」の集合ノードだが、中核だった MC-UBSR は 2022 に KKR へ売却済み。**現存する三菱商事系の不動産・実物アセット AM 機能の特定子会社は要再確認**（個別子会社のスナップショットではない）|
 
 ### 三菱グループ内の AM 機能配置
 
@@ -103,6 +108,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - 三菱商事株式会社 (8058) 有価証券報告書 (EDINET 開示) — 関係会社一覧
 - 三菱商事 公式 IR / 統合報告書 (グループ会社一覧)
+- **三菱商事 ニュースリリース「KKR、三菱商事及び UBS が業界最大級の不動産運用会社である 三菱商事・ユービーエス・リアルティ株式の KKR への譲渡に合意」**（2022-03-17、約 2,300 億円・100% 譲渡、2022-04 完了）https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
+- **Wikipedia「KJRマネジメント」**（旧 三菱商事・ユービーエス・リアルティ、2000 設立 エム・シー・アセットマネジメント 三菱商事 51%/UBS 49%、2022-04-28 KKR 完全子会社化・商号変更、運用残高約 1.7 兆円、日本都市ファンド投資法人・産業ファンド投資法人を運用）
 - FSA 金融商品取引業者一覧 https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 - 不動産証券化協会 (ARES) https://www.ares.or.jp/
 - EDINET 有価証券報告書検索 https://disclosure.edinet-fsa.go.jp/
@@ -110,4 +117,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ---
 
 > [!info] 検証状況
-> confidence: **tentative** (公開情報ベース 2026-05-24)。三菱商事系不動産 AM の正式名・出資比率 (特に UBS パートナー比率) は資本提携再編で度々変動しており、最新の登記情報 / FSA 金融商品取引業者一覧 / 三菱商事 有価証券報告書 関係会社一覧 を要参照。本ページは「三菱商事系の対外 AM 機能群」の集合ノードとしての位置付けで、特定子会社のスナップショットではない。**親 商社 ページ `mitsubishi-corp.md` は未作成 → 将来的に backlog として追加予定**。
+> confidence: **tentative** (公開情報ベース 2026-05-24、2026-05-29 一部更新)。本ページが「中核」としていた **三菱商事・ユービーエス・リアルティ (MC-UBSR) は 2022-04-28 に KKR へ全株譲渡され「KJRマネジメント」へ商号変更済み**（三菱商事 公式リリース・Wikipedia「KJRマネジメント」で確認）。したがって MC-UBSR は現在三菱商事系ではない。**2022 以降に現存する三菱商事系の不動産・実物アセット AM 子会社の特定は未確定**で、最新の FSA 金融商品取引業者一覧 / 三菱商事 有価証券報告書 関係会社一覧での再確認が必要。本ページは「三菱商事系 AM 機能群」の集合ノードとしての位置付けで、特定子会社のスナップショットではない。**親 商社 ページ `mitsubishi-corp.md` は未作成 → 将来的に backlog として追加予定**。
