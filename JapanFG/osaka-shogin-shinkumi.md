@@ -8,17 +8,19 @@ aliases:
   - "오사카상은신용조합"
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-05-29
+last_tended: 2026-05-29
 review_by: 2026-11-21
-confidence: likely
-tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kansai, osaka, ethnic-business-finance, operating-company]
-status: active
+confidence: needs-review
+tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kansai, osaka, ethnic-business-finance, defunct, merged]
+status: defunct-merged
 sources:
   - "https://www.zenshinkumiren.jp/"
   - "https://www.shoginkinki.co.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx"
   - "https://www.dic.go.jp/"
+  - "https://ja.wikipedia.org/wiki/商銀信用組合"
+  - "https://www.kinsan.co.jp/company/history/index.html"
   - "中小企業等協同組合法"
 ---
 # 大阪商銀信用組合 (Osaka Shogin Credit Cooperative)
@@ -52,7 +54,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 | 根拠法 | 信用金庫法 | 中小企業等協同組合法 | 中小企業等協同組合法 |
 | 組合員資格 | 地域 + 一定規模以下事業者 | 地域 / 業域 / 職域 | **業域 (商工業) + 民族コミュニティ** |
 | 員外利用 | 一定枠あり | より厳格 | 厳格 (員内中心) |
-| 規模 | 平均 数千億〜数兆円 | 平均 数百億〜数千億円 | **数百億〜1 兆円規模** ^[ambiguous] |
+| 規模 | 平均 数千億〜数兆円 | 平均 数百億〜数千億円 | 行による (商銀系最大の横浜幸銀で預金 6,550 億円規模) |
 | 中央機関 | [[JapanFG/shinkin-central|信金中央金庫]] | [[JapanFG/zenshin-kumi|全信組連]] | [[JapanFG/zenshin-kumi|全信組連]] |
 
 ### 商銀系信用組合の歴史的経緯 ^[extracted]
@@ -78,14 +80,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 | **コミュニティ生活金融** | 教育ローン・冠婚葬祭費等の組合員向け生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-### 規模感 (推定) ^[ambiguous]
+### 沿革・現況 (要確認 — 独立法人としては消滅)
 
-- **総資産**: 数千億〜1 兆円規模 (商銀系最大手の関西代表として)
-- **預金残高**: 数千億円規模
-- **店舗網**: 大阪・京都・兵庫・奈良ほか関西広域に数十店舗
-- **常勤職員**: 数百人
-
-> 注: 正確な KPI は組合員向け事業報告書 + 金融庁信組免許一覧を要参照 ^[ambiguous]
+> [!warning] 重要 — 大阪商銀信用組合は **独立した信用組合としては現存しない**。
+> 近畿産業信用組合 公式沿革によれば、**2001 年 5 月 28 日に「信用組合大阪商銀を事業譲受し、名称を『近畿産業信用組合』に変更」** — 受け皿は旧 **京都シティ信用組合** (1989 年に改称、さらに遡れば京都商銀系) で、2002 年には京都商銀も事業譲受した。Wikipedia「商銀信用組合」も同旨 (近畿産業信組は 2004 年に韓信協を脱退)。したがって、本エントリで言及される「大阪商銀信用組合」固有の総資産・預金・店舗・職員等の規模は、**現存する独立法人の計数としては成立せず**、概数推定も出典を欠く。具体的な規模推定値は `.opinions/JapanFG/osaka-shogin-shinkumi.md` に隔離した。
+>
+> 現存する商銀系信用組合は、あすか信用組合・[[JapanFG/yokohama-kogin-shinkumi|横浜幸銀信用組合]]・信用組合愛知商銀・近畿産業信用組合・信用組合広島商銀 (Wikipedia「商銀信用組合」)。
 
 ### 全信組連内の位置付け
 
@@ -97,7 +97,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 
 - 関西地区で商銀信組数行が **不良債権・経営難**で破綻
 - **預金保険機構による資金援助 + 受け皿信組への事業譲渡**で組合員預金保護
-- **大阪商銀信用組合**は危機を経た **再編後の存続・統合後体制**として現在に至る
+- **大阪商銀信用組合**自体は危機の中で **2001 年に京都シティ信用組合へ事業譲渡** (→ 近畿産業信用組合へ承継) され、独立行としては消滅 (近畿産業信用組合公式沿革)
 - この経験が **商銀系 = 民族系信組** のリスク管理・ガバナンス強化の出発点
 
 ### 商銀系信組ネットワーク (関連)
@@ -107,16 +107,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 - **横浜商銀信用組合** (神奈川)
 - **愛知商銀信用組合** (中部)
 
-## 4. KPI (推定)
+## 4. KPI
 
-| 指標 | 値 | 出典 |
-|---|---|---|
-| 総資産 | 数千億〜1 兆円規模 | ^[ambiguous] 事業報告書要参照 |
-| 預金 | 数千億円規模 | ^[ambiguous] |
-| 貸出金 | 数千億円規模 | ^[ambiguous] |
-| 組合員数 | 数万人規模 | ^[ambiguous] |
-
-> 注: 信用組合は非上場・非公開部分が多く、最新数値は組合員向け事業報告書 + 金融庁信用組合免許一覧 (https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx) を要参照
+> [!warning] 大阪商銀信用組合は **独立法人として現存しない** (2001 年 5 月に京都シティ信用組合へ事業譲渡 → 近畿産業信用組合へ承継、Wikipedia「商銀信用組合」)。
+> このため固有の総資産・預金・貸出・組合員数を示す **現行の公開計数は存在しない**。従前掲載していた「数千億〜1 兆円規模」等の推定値は出典を欠くため `.opinions/JapanFG/osaka-shogin-shinkumi.md` に隔離した。
+> 承継先 **近畿産業信用組合** の計数は同組合のディスクロージャー誌、商銀系現存行の参考としては [[JapanFG/yokohama-kogin-shinkumi|横浜幸銀信用組合]] (預金 6,550 億円規模, 2024-03-31) を参照。
 
 ## 5. 監督・規制
 
@@ -145,6 +140,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 
 ## Sources
 
+- **近畿産業信用組合 公式 沿革** (大阪商銀の承継先・一次資料): https://www.kinsan.co.jp/company/history/index.html — 「2001 年 5 月 28 日 信用組合大阪商銀を事業譲受し、名称を『近畿産業信用組合』に変更」「2002 年 5 月 27 日 京都商銀を事業譲受」、旧称は京都シティ信用組合 (1989 改称)
+- **Wikipedia「商銀信用組合」** (商銀系信組の沿革・現存行一覧): https://ja.wikipedia.org/wiki/商銀信用組合 — 大阪商銀は 1998 京都商銀への譲渡発表 → 1999 断念 → 2001 京都シティ信組へ譲渡 → 近畿産業信組へ改称。現存商銀系: あすか・横浜幸銀・愛知商銀・近畿産業・広島商銀
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **商銀信用組合 (近畿) 関連公開情報**: https://www.shoginkinki.co.jp/
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
@@ -156,4 +153,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。本エントリは FinWiki 初の **standalone shinkumi (信用組合) operating-company anchor**。商銀系信用組合の代表として大阪商銀信用組合を選定。総資産・預金等 KPI ^[ambiguous] は概数、最新は組合員向け事業報告書 + 金融庁信組免許一覧を要参照。2002〜2003 関西商銀信組危機後の具体的合併経緯 ^[ambiguous] は預金保険機構公開資料に依拠、要追加検証。
+> confidence: **要見直し (entity defunct)**。**重要事実**: 大阪商銀信用組合は **2001 年 5 月に京都シティ信用組合へ事業譲渡し、同組合は近畿産業信用組合 (KISKO) へ承継** された (Wikipedia「商銀信用組合」)。すなわち独立法人としては現存せず、本エントリの「standalone operating-company」枠組みは要再検討。固有 KPI は現行公開計数が存在しないため、従前の推定値は `.opinions/JapanFG/osaka-shogin-shinkumi.md` に隔離。合併経緯は Wikipedia「商銀信用組合」(1998 京都商銀への譲渡発表 → 1999 断念 → 2001 京都シティ信組へ譲渡 → 近畿産業信組へ改称) で確認。

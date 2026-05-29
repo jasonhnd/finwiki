@@ -13,6 +13,9 @@ sources:
   - "Wikipedia: GMO ペイメントゲートウェイ (2026-05-19 抽出)"
   - GMO Payment Gateway 公式 IR (corp.gmo-pg.com, 2026-05-19 参照)
   - GMO インターネットグループ 有価証券報告書
+  - "GMO Payment Gateway IR FAQ — 稼働店舗数 (https://www.gmo-pg.com/en/ir/faq/)"
+  - "GMO-PG × 三井住友カード 次世代決済プラットフォーム基本合意 2019 (https://www.gmo-pg.com/en/news/press/gmo-paymentgateway/2019/0212.html)"
+  - "GMO-PG 台湾 Neweb Technologies 業務資本提携 2015 (https://www.gmo-pg.com/corp/newsroom/press/gmo-paymentgateway/2015/0819.html)"
 ---
 
 # GMO ペイメントゲートウェイ
@@ -39,7 +42,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | セグメント | 主要サービス | 特徴 |
 |---|---|---|
-| EC 決済代行 | クレカ (Visa/Master/JCB/Amex) + コンビニ決済 + 銀行振込 + 電子マネー | EC 加盟店 30 万店超 ^[ambiguous] |
+| EC 決済代行 | クレカ (Visa/Master/JCB/Amex) + コンビニ決済 + 銀行振込 + 電子マネー | 稼働店舗 171,257 店（2026-03 末、fincode byGMO 等含むと 829,062 店）|
 | BtoB 決済 | 法人間請求書決済・後払い | 与信・回収一括代行 |
 | 簡易決済 SDK | Pay.JP | 開発者向け・スタートアップ採用多い |
 | 海外決済 | グローバル決済ゲートウェイ | Stripe / Adyen と競合 |
@@ -54,14 +57,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2000 | GMO ペイメントゲートウェイ 改称 ^[extracted] |
 | 2005 | 東証マザーズ 上場 ^[extracted] |
 | 2008 | 東証一部 上場 ^[extracted] |
-| 2015〜 | 三井住友カード 戦略提携深化 ^[ambiguous] |
-| 2010 年代後半〜 | アジア展開加速 (ベトナム・台湾・タイ) ^[ambiguous] |
-| 2024〜 | 中期経営計画 (詳細は IR 参照) ^[ambiguous] |
+| 2015 | 三井住友銀行と合弁 SMBC GMO PAYMENT 設立（2019 に三井住友カードと次世代決済プラットフォーム基本合意）|
+| 2015〜 | アジア展開（台湾 Neweb Technologies へ出資・Z.com Payment 等）|
 
 ### 国内戦略
 
-- **EC 加盟店ベース**:30 万店超 ^[ambiguous] の加盟店ネットワークが堀
-- **三井住友カード 戦略提携**:[[smfg]] 系のカード会社との関係深化、SMBC GMO PAYMENT (SMBC との合弁) も展開 ^[ambiguous]
+- **EC 加盟店ベース**:稼働店舗 171,257 店（2026-03 末、fincode byGMO 等を含むと 829,062 店）の加盟店ネットワークが堀
+- **三井住友カード 戦略提携**:[[smfg]] 系のカード会社との関係深化、SMBC GMO PAYMENT（SMBC との合弁、2015 設立。2021 に三井住友カード 50% / GMO-PG 40% / 三井住友銀行 10% へ再編）も展開
 - **Pay.JP**:Stripe 対抗の開発者向け簡易決済 SDK
 
 ### 海外戦略
@@ -86,8 +88,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 6. Counterpoints
 
-- **「親会社 GMO インターネットグループ依存」**:連結子会社・グループブランド経由の信用補完 vs 独立性 ^[ambiguous]
-- **「SMBC GMO PAYMENT」二重展開**:本体 GMO-PG と合弁先 SMBC GMO PAYMENT との顧客カニバリ整理 ^[ambiguous]
+> 主観的な反論点（親会社依存 vs 独立性・SMBC GMO PAYMENT との顧客カニバリ論）は `.opinions/JapanFG/gmo-payment-gateway.md` に隔離（2026-05-29）。
 
 ## 7. Open questions
 
@@ -112,8 +113,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **Wikipedia: GMO ペイメントゲートウェイ** (https://ja.wikipedia.org/wiki/GMOペイメントゲートウェイ, 2026-05-19 抽出)
 - **GMO Payment Gateway 公式 IR** (corp.gmo-pg.com, 2026-05-19 参照)
 - GMO インターネットグループ 有価証券報告書 (連結子会社情報)
+- GMO Payment Gateway IR FAQ — 稼働店舗 171,257 店（2026-03 末、含 fincode byGMO 829,062 店） — https://www.gmo-pg.com/en/ir/faq/
+- GMO-PG × 三井住友カード 次世代決済プラットフォーム基本合意（2019） — https://www.gmo-pg.com/en/news/press/gmo-paymentgateway/2019/0212.html
+- GMO-PG 台湾 Neweb Technologies 業務資本提携（2015） — https://www.gmo-pg.com/corp/newsroom/press/gmo-paymentgateway/2015/0819.html
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (公開情報ベース・2026-05-19 作成)。加盟店数・売上規模・アジア展開詳細は時点変動あり、最新は GMO-PG IR 四半期資料を要参照。設立年・上場履歴・親会社関係は公開情報で確定。
+> confidence: **likely** (公開情報ベース・2026-05-19 作成、2026-05-29 に稼働店舗数・SMBC 合弁・台湾出資を公式 IR で確定)。稼働店舗 171,257 店は 2026-03 末の公式値（時点変動あり、最新は GMO-PG IR 四半期資料を要参照）。設立年・上場履歴・親会社関係・SMBC GMO PAYMENT 合弁は公開情報で確定。

@@ -17,6 +17,7 @@ sources:
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
+  - "https://www.sa-chushin.shinkumi.jp/04outline/profile/index.html"
   - "中小企業等協同組合法"
 ---
 # 札幌中央信用組合 (Sapporo Chuo Credit Cooperative)
@@ -84,16 +85,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 | **教育・冠婚葬祭** | 組合員家庭の生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI (推定) ^[ambiguous]
+## 5. KPI (公式組合概要)
 
 | 指標 | 値 | 出典 |
 |---|---|---|
-| 総資産 | 数百億〜千億円規模 | ^[ambiguous] ディスクロージャー誌要参照 |
-| 預金残高 | 数百億〜千億円規模 | ^[ambiguous] |
-| 貸出金 | 数百億円規模 | ^[ambiguous] |
-| 組合員数 | 万人台規模 | ^[ambiguous] |
+| 預金残高 | 1,090 億 4,100 万円 (109,041 百万円, 2025-03-31) | 札幌中央信組 公式組合概要 |
+| 融資残高 | 779 億 1,400 万円 (77,914 百万円, 2025-03-31) | 札幌中央信組 公式組合概要 |
+| 出資金 | 9 億 8,900 万円 (989 百万円, 2025-03-31) | 札幌中央信組 公式組合概要 |
+| 店舗数 | 14 店 (2025-03-31) | 札幌中央信組 公式組合概要 |
+| 役職員数 | 124 名 (2025-03-31) | 札幌中央信組 公式組合概要 |
+| 組合員数 | 公式組合概要に非掲載 (要ディスクロージャー誌) | 札幌中央信組 公式組合概要 |
 
-> 注: 最新数値は札幌中央信組ディスクロージャー誌 + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を要参照
+> 注: 上記は **札幌中央信用組合 公式「組合概要」(2025 年 3 月 31 日現在)** に基づく確定値。総資産・組合員数は同概要に未掲載のため、[[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] + 札幌中央信組ディスクロージャー誌を参照。
 
 ## 6. 監督・規制
 
@@ -120,6 +123,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 
 ## Sources
 
+- **札幌中央信用組合 公式「組合概要」(2025-03-31 現在)**: https://www.sa-chushin.shinkumi.jp/04outline/profile/index.html — 預金 1,090 億円・融資 779 億円・出資金 9.89 億円・店舗 14・役職員 124 名・設立 1953-08-03
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 5430005003132, registry No. 3)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
@@ -130,4 +134,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金等 KPI ^[ambiguous] は概数、最新は札幌中央信組ディスクロージャー誌を要参照。Hokkaido 地域型信組の代表アンカーとして Wave 13 拡張で追加。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。預金・融資・出資金・店舗・役職員数は **札幌中央信組公式組合概要 (2025-03-31)** で確定 (従前の概数推定を実数に置換)。総資産・組合員数は同概要に未掲載のため要ディスクロージャー誌参照。Hokkaido 地域型信組の代表アンカーとして Wave 13 拡張で追加。

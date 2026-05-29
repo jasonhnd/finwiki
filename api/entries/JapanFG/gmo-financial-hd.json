@@ -32,7 +32,10 @@
     "sources": [
       "Wikipedia: GMOフィナンシャルホールディングス (2026-05-19 抽出)",
       "GMO フィナンシャルホールディングス 公式 IR (2026-05-19 参照)",
-      "GMO インターネットグループ 有価証券報告書"
+      "GMO インターネットグループ 有価証券報告書",
+      "GMO インターネットグループ プレスリリース『外貨ex byGMO株式会社、2023年7月1日より「GMO外貨株式会社」に社名変更』 https://group.gmo/news/article/8418/",
+      "Wikipedia: FXプライムbyGMO (2023-09-01 GMOコイン吸収合併・消滅を確認, 2026-05-29)",
+      "GMO フィナンシャルホールディングス 公式 IR『経営方針・戦略』 https://www.gmofh.com/ir/policy/strategy.html"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it against 楽天グループ金融事業 (Rakuten FG) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
@@ -98,8 +101,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5598,
-    "word_like_tokens": 872,
+    "nonspace_chars": 6322,
+    "word_like_tokens": 1030,
     "inbound_wikilinks_count": 7,
     "last_modified": "2026-05-29"
   }

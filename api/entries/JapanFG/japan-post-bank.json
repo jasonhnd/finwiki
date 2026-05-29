@@ -43,7 +43,10 @@
       "https://www.japanpost.jp/ir/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.mof.go.jp/about_mof/councils/postal_privatization_committee/",
-      "https://www.boj.or.jp/statistics/index.htm"
+      "https://www.boj.or.jp/statistics/index.htm",
+      "https://www.jp-bank.japanpost.jp/aboutus/company/outline/abt_cmp_ol_profile.html",
+      "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html",
+      "https://www.japanpost.jp/ir/stock/index10/"
     ]
   },
   "summary": "This entry sits under JapanFG index as the operating-profile companion to the entity anchor at ゆうちょ銀行 (Japan Post Bank) entity anchor. Read it against MUFG · SMFG · Mizuho FG for the megabank-asset-class peer comparison, against りそなホールディングス for the listed non-megabank universal-bank peer, against co",
@@ -107,8 +110,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12494,
-    "word_like_tokens": 2031,
+    "nonspace_chars": 13000,
+    "word_like_tokens": 2177,
     "inbound_wikilinks_count": 18,
     "last_modified": "2026-05-29"
   }

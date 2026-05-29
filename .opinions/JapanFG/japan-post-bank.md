@@ -44,3 +44,18 @@ The 2015 triple IPO was structured so each of the three subsidiaries can have it
 - Does the mijika smartphone-first sub-brand show meaningful young-segment acquisition KPI, or is digital-channel migration still trailing megabank and net-bank peers?
 - How does JPB's medium-term loan-book expansion plan interact with the 民間補完 doctrine and the 郵政民営化委員会 approval process?
 - How does JPB's pricing for postal-savings remittance and basic-deposit products evolve relative to digital-native competitors as customer demographics turn over?
+
+<!-- ambiguous 整理 (2026-05-29) -->
+
+## ROE comparative characterization (moved from KPI snapshot)
+
+The KPI table claimed JPB's ROE is "chronically below megabank peers; mid-single-digit ranges have been typical post-IPO." This is a comparative/analytical characterization without a sourced point-in-time ROE figure attached, so it is quarantined pending an IR-sourced number. ^[ambiguous]
+
+- (from KPI snapshot) ROE — Chronically below megabank peers; mid-single-digit ranges have been typical post-IPO ^[ambiguous]
+
+## mijika sub-brand (moved from distribution table)
+
+The distribution table listed "mijika (smartphone-first sub-brand) — JPB digital initiative — Young-segment acquisition attempt." The actual JPB product was **mijica (ミヂカ)**, a Visa debit/prepaid card with a companion app, not a "smartphone-first sub-brand"; it was **discontinued 2022-07-31** and replaced by ゆうちょデビット. The "young-segment acquisition attempt" framing is an unsourced characterization of a now-defunct product, so it is quarantined. ^[ambiguous]
+
+- (from distribution table) mijika (smartphone-first sub-brand) — JPB digital initiative — Young-segment acquisition attempt ^[ambiguous]
+- Note: correct product name is mijica. Source: https://www.jp-bank.japanpost.jp/app/app_mijica.html / discontinuation notice https://www.jp-bank.japanpost.jp/news/2021/news_id001761.html

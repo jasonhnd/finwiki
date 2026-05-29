@@ -37,7 +37,10 @@
       "Wikipedia: きらやか銀行 (2026-05-19 抽出)",
       "Wikipedia: 仙台銀行 (2026-05-19 抽出)",
       "金融庁 経営強化計画の履行状況報告書 2024-12 / 2025-06",
-      "日本経済新聞・時事通信 公開報道 (2024-04〜2024-09)"
+      "日本経済新聞・時事通信 公開報道 (2024-04〜2024-09)",
+      "RIETI 独立行政法人経済産業研究所『金融機能強化法の震災特例を振り返る』 https://www.rieti.go.jp/jp/columns/a01_0635.html",
+      "SBI ホールディングス ニュースリリース『株式会社じもとホールディングス傘下の銀行2行に対する銀行主要株主認可取得に関するお知らせ』(2021-03-18) https://www.sbigroup.co.jp/news/2021/0318_12370.html",
+      "Wikipedia: 殖産銀行 / 仙台銀行 (2026-05-29 再検証)"
     ]
   },
   "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
@@ -79,8 +82,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4828,
-    "word_like_tokens": 856,
+    "nonspace_chars": 5468,
+    "word_like_tokens": 977,
     "inbound_wikilinks_count": 11,
     "last_modified": "2026-05-29"
   }

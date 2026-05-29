@@ -25,6 +25,9 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.mof.go.jp/about_mof/councils/postal_privatization_committee/"
   - "https://www.boj.or.jp/statistics/index.htm"
+  - "https://www.jp-bank.japanpost.jp/aboutus/company/outline/abt_cmp_ol_profile.html"
+  - "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html"
+  - "https://www.japanpost.jp/ir/stock/index10/"
 ---
 
 # Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile
@@ -51,10 +54,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-profile c
 
 ```
 財務大臣 (Minister of Finance, state shareholder)
-        │  approximately one-third+ of Japan Post Holdings remains state-owned ^[ambiguous]
+        │  ~1/3+ of Japan Post Holdings is state-owned (財務大臣 37.23% as of 2025-09-30; 郵政民営化法 mandates a one-third floor)
         ▼
 日本郵政 株式会社 (Japan Post Holdings, TSE 6178)
-        ├── ゆうちょ銀行 (Japan Post Bank, TSE 7182, parent stake progressively diluted from 100% at IPO) ^[ambiguous]
+        ├── ゆうちょ銀行 (Japan Post Bank, TSE 7182; parent voting stake diluted from 100% at IPO to 50.04% as of 2025-03-31, falling below 50% in 2025)
         ├── かんぽ生命 (Japan Post Insurance, TSE 7181)
         ├── 日本郵便 (Japan Post, 100%) — runs the ~24,000 post-office network
         └── unlisted real-estate / logistics adjacencies
@@ -70,7 +73,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-profile c
 | 2007-10-01 | Postal privatization — Japan Post Bank Co., Ltd. opens as a privatized bank under the 郵政民営化法 framework |
 | 2008-2010 | Privatization roadmap reset under the DPJ government; full-privatization timeline diluted |
 | **2015-11-04** | **Triple IPO** — Japan Post Holdings (6178), Japan Post Bank (7182), Japan Post Insurance (7181) list simultaneously on the TSE |
-| 2017-2024 | Periodic secondary offerings reduce Japan Post Holdings' stake in JPB toward a longer-run sub-50% target ^[ambiguous] |
+| 2017-2024 | Periodic secondary offerings reduce Japan Post Holdings' stake in JPB; voting stake reached 50.04% at 2025-03-31 and fell below 50% (49.9% range) in 2025 |
 | 2022-04 | TSE market-segment reorganization — JPB moves to the Prime market |
 | 2024-03 | BoJ ends the negative-interest-rate policy (NIRP exit) — first material shift in Japan's policy-rate stance since 2016 |
 | 2024-2026 | Progressive BoJ rate-normalization cycle, with consequential impact on JPB's NIM and the JGB-portfolio mark-to-market |
@@ -79,8 +82,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-profile c
 
 | Side | Megabank typical | Japan Post Bank |
 |---|---|---|
-| Loans | 50–60% of assets, with corporate, mortgage, and overseas mix | A small fraction of assets — direct retail lending is limited and there is no large corporate-loan book ^[ambiguous] |
-| Loans-to-deposits ratio | ~70–90% range | Single-digit-to-low-double-digit range — structurally a securities-portfolio bank, not a lending bank ^[ambiguous] |
+| Loans | 50–60% of assets, with corporate, mortgage, and overseas mix | A small fraction of assets — direct retail lending is limited and there is no large corporate-loan book |
+| Loans-to-deposits ratio | ~70–90% range | Structurally low — JPB is a securities-portfolio bank, not a lending bank (most assets sit in JGB / securities, not loans) |
 
 The 「貯金」 word is a postal-savings naming legacy — under 銀行法 these liabilities are bank deposits ("預金"), but the JPB product brand keeps the historical term. ^[extracted]
 
@@ -99,7 +102,7 @@ JPB's securities book has been the dominant earnings driver and the dominant ris
 - **Mark-to-market headwind** on the legacy long-duration JGB book as yields rise.
 - **NIM tailwind** as new investment runs in at higher reinvestment yields and as policy-rate-linked deposit-side spreads decompress.
 
-The aggregate net effect depends on duration profile, hedging, and the pace of portfolio rotation. JPB IR discloses the headline securities composition and unrealized gains/losses; granular tracking belongs to the IR disclosure cycle, not to a wiki page. ^[ambiguous]
+The aggregate net effect depends on duration profile, hedging, and the pace of portfolio rotation. JPB IR discloses the headline securities composition and unrealized gains/losses; granular tracking belongs to the IR disclosure cycle, not to a wiki page.
 
 ### How the post-office counter actually works
 
@@ -117,9 +120,8 @@ Customer at 郵便局 counter
 |---|---|---|
 | ~24,000 郵便局 counters nationwide | 日本郵便 (Japan Post) acting as banking agent | Same counter handles mail, parcel, and JPB transactions |
 | ~30,000+ ゆうちょ ATM | JPB-branded ATMs at post offices, train stations, retail | Direct JPB-branded; ATM-network interoperability with other banks via [[banking/INDEX|banking index]] interbank rails |
-| Direct branches | A small set of approximately 230 directly-operated branches ^[ambiguous] | Concentrated in larger cities for higher-touch services |
+| Direct branches | 235 directly-operated branches (営業所, as of 2025-03-31) | Concentrated in larger cities for higher-touch services |
 | ゆうちょ通帳アプリ + Web | JPB-owned digital channels | Account-balance, statement, transfers; thinner feature set than [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] |
-| mijika (smartphone-first sub-brand) | JPB digital initiative | Young-segment acquisition attempt ^[ambiguous] |
 
 ### Why the agency model both anchors and constrains the franchise
 
@@ -133,9 +135,8 @@ JPB's published headline financials show a structural pattern:
 
 | Dimension | Pattern |
 |---|---|
-| Total assets | ~¥230tn class ^[ambiguous] |
-| Deposit base | ~¥190–200tn class ^[ambiguous] — dominant retail mix |
-| ROE | Chronically below megabank peers; mid-single-digit ranges have been typical post-IPO ^[ambiguous] |
+| Total assets | ¥233.6tn (2025-03-31) |
+| Deposit base | ¥190.5tn (2025-03-31) — dominant retail mix |
 | NIM | Structurally compressed by the JGB-heavy mix and the historical ZIRP/NIRP environment |
 | Cost-to-income | Bears the post-office counter agency cost via inter-company fees to [[JapanFG/japan-post|Japan Post]] |
 | Capital | Capital ratios consistently above 銀行法 minimums; G-SIB status is not assigned — JPB is a large domestic institution, not a global cross-border systemic bank |
@@ -156,10 +157,10 @@ For point-in-time figures, refer to the most recent JPB 決算短信 / 有価証
 
 ### Strategic levers under management
 
-1. **Securities-portfolio diversification.** Continued rotation from JGB into foreign bonds, alternatives, and private funds — a multi-year effort coordinated with megabank-system advisors. ^[ambiguous]
+1. **Securities-portfolio diversification.** Continued rotation from JGB into foreign bonds, alternatives, and private funds — a multi-year effort under the medium-term plan.
 2. **Cost-discipline on the post-office channel.** Negotiating internal fee architecture with Japan Post as mail volumes fall.
 3. **Digital channel investment.** ゆうちょ通帳アプリ and mijika programs aim to slow customer-base aging.
-4. **Modest expansion of fee-business adjacencies.** Investment-trust sales, card-issuance partnerships (JP BANK カード), insurance distribution overlap with かんぽ生命 ^[ambiguous].
+4. **Modest expansion of fee-business adjacencies.** Investment-trust sales, card-issuance partnerships (JP BANK カード — Visa/Mastercard guaranteed by 三井住友カード, JCB version co-issued with JCB), insurance distribution overlap with かんぽ生命.
 5. **Privatization-step compliance.** As Japan Post Holdings reduces its JPB stake, additional business-line approvals under the 郵政民営化委員会 framework become possible.
 
 ### Stacked regulation
@@ -205,3 +206,6 @@ The 2019 かんぽ生命 mis-selling scandal (inappropriate sales of insurance p
 - FSA licensed bank list (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
 - MoF postal-privatization committee materials (https://www.mof.go.jp/about_mof/councils/postal_privatization_committee/).
 - BoJ monetary-statistics releases for context on the JGB / deposit aggregate environment.
+- Japan Post Bank 会社概要 — deposits ¥190.5tn, total assets ¥233.6tn, 235 直営店 (営業所), all as of 2025-03-31 (https://www.jp-bank.japanpost.jp/aboutus/company/outline/abt_cmp_ol_profile.html and FY2025/3 決算短信).
+- Japan Post Bank 株式の状況 — Japan Post Holdings voting stake 50.04% (2025-03-31) / 49.87% (2026-03-31) (https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html).
+- Japan Post Holdings 株式基本情報 — 財務大臣 (state) stake 37.23% as of 2025-09-30; 郵政民営化法 one-third floor (https://www.japanpost.jp/ir/stock/index10/).

@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 3 |
+| Changed or new entries in current worktree | 15 |
 
 ## Wiki Linking Standard
 
@@ -31,9 +31,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/77-bank.md` | `M` | 16 | ok |
-| `JapanFG/chiba-kogyo-bank.md` | `M` | 26 | ok |
-| `JapanFG/toho-bank.md` | `M` | 18 | ok |
+| `JapanFG/aeon-bank.md` | `M` | 22 | ok |
+| `JapanFG/aeon-financial-service-detail.md` | `M` | 14 | ok |
+| `JapanFG/au-fh.md` | `M` | 10 | ok |
+| `JapanFG/gmo-aozora-net.md` | `M` | 11 | ok |
+| `JapanFG/gmo-financial-hd.md` | `M` | 42 | ok |
+| `JapanFG/gmo-payment-gateway.md` | `M` | 15 | ok |
+| `JapanFG/iwaki-shinkumi.md` | `M` | 12 | ok |
+| `JapanFG/japan-post-bank.md` | `M` | 22 | ok |
+| `JapanFG/jimoto-hd.md` | `M` | 4 | ok |
+| `JapanFG/ndfg.md` | `M` | 9 | ok |
+| `JapanFG/osaka-shogin-shinkumi.md` | `M` | 16 | ok |
+| `JapanFG/sapporo-chuo-shinkumi.md` | `M` | 13 | ok |
+| `JapanFG/tokyo-shobo-shinkumi.md` | `M` | 11 | ok |
+| `JapanFG/yokohama-kogin-shinkumi.md` | `M` | 11 | ok |
+| `JapanFG/yucho.md` | `M` | 3 | ok |
 
 ## Domain Snapshot
 

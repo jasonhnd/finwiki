@@ -13,6 +13,8 @@ sources:
   - "Wikipedia: 株式会社イオン銀行 (2026-05-19 抽出)"
   - "Wikipedia: イオンフィナンシャルサービス (2026-05-19 抽出)"
   - "イオンフィナンシャルサービス 公式 IR / 有価証券報告書 (公表分)"
+  - "イオン銀行 ディスクロージャー誌 2025 (https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf)"
+  - "Wikipedia: イオン・アリアンツ生命保険 (https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険)"
 ---
 # イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)
 
@@ -68,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 商業銀行（国内）| イオン銀行 | イオンモール内ブランチ + 駅前 ATM 約 6,500 台級 ^[ambiguous]、住宅ローン直販強化 |
+| 商業銀行（国内）| イオン銀行 | イオンモール内ブランチ + ATM 6,855 台（2025-03-31、全国 47 都道府県）、住宅ローン直販強化 |
 | 電子マネー | WAON（Aeon グループ）| 流通系電子マネー、イオン銀行口座と連携 |
 | 生命保険 | イオン・アリアンツ生命（JV）| 来店型販売 |
 | 損害保険・代理店 | イオン保険サービス | 来店型保険ショップ |
@@ -85,14 +87,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | **2007-10-29** | **イオン銀行 開業**（流通系銀行の代表事例）^[extracted] |
 | **2013-04-01** | **イオンクレジットサービス → イオンフィナンシャルサービス 改称・持株会社化、イオン銀行を 100% 子会社化** ^[extracted] |
 | 2013〜 | アジア消費者金融 子会社群を AFS 傘下に集約・現地上場維持 ^[extracted] |
-| 2014〜 | イオン・アリアンツ生命（Allianz と JV）設立 ^[ambiguous] |
-| 2024 | 中期経営計画 発表（時期は AFS IR 参照）^[ambiguous] |
+| 2020-03-31 | AFS がアリアンツ生命保険の株式 60% を取得 → 2020-05-01「イオン・アリアンツ生命保険」へ商号変更 |
+| 2025 | イオン・アリアンツ生命を明治安田生命へ譲渡（2025-07-01 明治安田が約 85% 取得 → 2025-10-01「明治安田トラスト生命保険」へ商号変更）|
 
 ### 流通系銀行モデル（差別化軸）
 
 - **イオンモール = 店舗網**：全国数百拠点のイオンモール内に有人ブランチ + ATM、買い物動線と一体化 ^[extracted]
-- **ATM 約 6,500 台級**：イオン店舗・ミニストップ等を含む流通系 ATM 網（[[seven-bank]] 約 27,000 台、[[lawson-bank]] 約 13,000 台と比較すれば中規模だが、自社モール内集中型）^[ambiguous]
-- **住宅ローン強化**：イオン住宅 + 直販。店舗動線で来店誘導、ネット銀行金利水準で勝負 ^[ambiguous]
+- **ATM 6,855 台（2025-03-31）**：イオン店舗・ミニストップ等を含む流通系 ATM 網（[[seven-bank]] 約 27,000 台、[[lawson-bank]] 約 13,000 台と比較すれば中規模だが、自社モール内集中型）
+- **住宅ローン強化**：イオン住宅 + 直販。店舗動線で来店誘導
 
 ### アジア消費者金融という第 2 軸
 
@@ -123,13 +125,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 6. Counterpoints
 
-- **「ATM 規模で [[seven-bank]] に劣後」観**：流通系 ATM 機数では 7 銀（約 27,000 台）に大差。イオン銀行 ATM はモール集中型でリーチが偏る ^[ambiguous]
-- **「住宅ローン直販の収益性」**：ネット銀行（住信 SBI / 楽天）と金利競争すれば利鞘は薄く、イオン店舗動線アドバンテージがどこまで効くか議論余地 ^[ambiguous]
+> 主観的な反論点（ATM 規模劣後観・住宅ローン直販収益性の議論）は `.opinions/JapanFG/aeon-bank.md` に隔離（2026-05-29）。
 
 ## 7. Open questions
 
 - AFS 連結における **イオン銀行 vs アジア消費者金融** の収益構成比は？ 中計目標は？
-- AFS の **2024 中期経営計画** の数値目標と KPI 達成状況は？ ^[ambiguous]
 - **イオンカード + WAON** のキャッシュレス陣営内ポジション — PayPay / 楽天との競合戦略は？
 - **デジタルバンキング**戦略 — ネット専業銀行（[[JapanFG/sony-fg]] / 楽天）に対する差別化軸は店舗動線のみか？
 
@@ -148,6 +148,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - AEON Thana Sinsap (Thailand) PCL 公式（SET）
 - AEON Credit Service (Asia) Co., Ltd. 公式（HKEX）
 - AEON Credit Service (M) Bhd 公式（Bursa Malaysia）
+- イオン銀行 ディスクロージャー誌 2025（ATM 6,855 台・2025-03-31） — https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf
+- イオン・アリアンツ生命保険 沿革（AFS が 2020-03-31 に 60% 取得 → 2020-05-01 商号変更／2025-10-01 明治安田トラスト生命へ） — https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険
 
 ---
 

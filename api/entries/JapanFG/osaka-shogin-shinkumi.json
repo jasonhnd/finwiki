@@ -19,10 +19,10 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-05-29",
+    "last_tended": "2026-05-29",
     "review_by": "2026-11-21",
-    "confidence": "likely",
+    "confidence": "needs-review",
     "tags": [
       "JapanFG",
       "shinkumi",
@@ -31,14 +31,17 @@
       "kansai",
       "osaka",
       "ethnic-business-finance",
-      "operating-company"
+      "defunct",
+      "merged"
     ],
-    "status": "active",
+    "status": "defunct-merged",
     "sources": [
       "https://www.zenshinkumiren.jp/",
       "https://www.shoginkinki.co.jp/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
       "https://www.dic.go.jp/",
+      "https://ja.wikipedia.org/wiki/商銀信用組合",
+      "https://www.kinsan.co.jp/company/history/index.html",
       "中小企業等協同組合法"
     ]
   },
@@ -51,12 +54,12 @@
     "信用金庫 vs 信用組合 vs 商銀系 ^[extracted]",
     "商銀系信用組合の歴史的経緯 ^[extracted]",
     "主要業務 ^[extracted]",
-    "規模感 (推定) ^[ambiguous]",
+    "沿革・現況 (要確認 — 独立法人としては消滅)",
     "全信組連内の位置付け",
     "2002〜2003 関西商銀信組危機の教訓 ^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 12,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/dic",
@@ -66,6 +69,7 @@
       "JapanFG/osaka-shinkin",
       "JapanFG/rokin-renraku",
       "JapanFG/shinkin-central",
+      "JapanFG/yokohama-kogin-shinkumi",
       "JapanFG/zenshin-kumi",
       "banking/cooperative-banking-japan",
       "banking/shinkin-bank-registry-japan"
@@ -79,6 +83,7 @@
       "https://finwiki.zksc.io/JapanFG/osaka-shinkin",
       "https://finwiki.zksc.io/JapanFG/rokin-renraku",
       "https://finwiki.zksc.io/JapanFG/shinkin-central",
+      "https://finwiki.zksc.io/JapanFG/yokohama-kogin-shinkumi",
       "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
@@ -87,8 +92,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4829,
-    "word_like_tokens": 626,
+    "nonspace_chars": 5845,
+    "word_like_tokens": 765,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-05-29"
   }
