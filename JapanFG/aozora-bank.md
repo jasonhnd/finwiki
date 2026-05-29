@@ -113,7 +113,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 戦略的位置付け
 
-- 「メガバンクのスポンサー化（将来的再編可能性）」は ^[ambiguous]
 - [[sbi-hd]] の SBI 新生銀行モデル（PE 出口後の戦略パートナー化）との対比軸
 
 ## 4. 規制・政策

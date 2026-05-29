@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 21 |
+| Changed or new entries in current worktree | 17 |
 
 ## Wiki Linking Standard
 
@@ -31,27 +31,23 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/japan-post-holdings.md` | `M` | 33 | ok |
-| `JapanFG/jbic.md` | `M` | 15 | ok |
-| `JapanFG/jf-zengyoren.md` | `M` | 23 | ok |
-| `JapanFG/keiyo-bank.md` | `M` | 17 | ok |
-| `JapanFG/kiraboshi-fg.md` | `M` | 3 | ok |
-| `JapanFG/kyoritsu-fire-marine.md` | `M` | 10 | ok |
-| `JapanFG/marubeni-corp.md` | `M` | 24 | ok |
-| `JapanFG/marusan-securities.md` | `M` | 24 | ok |
-| `JapanFG/meiji-yasuda.md` | `M` | 16 | ok |
-| `JapanFG/mitsubishi-corp.md` | `M` | 24 | ok |
-| `JapanFG/musashino-bank.md` | `M` | 11 | ok |
-| `JapanFG/nippon-post.md` | `M` | 27 | ok |
-| `JapanFG/okinawa-kaiho-bank.md` | `M` | 18 | ok |
-| `JapanFG/orix-corp.md` | `M` | 3 | ok |
-| `JapanFG/rating-and-investment.md` | `M` | 11 | ok |
-| `JapanFG/sbi-insurance-group.md` | `M` | 14 | ok |
-| `JapanFG/smbc-nikko.md` | `M` | 40 | ok |
-| `JapanFG/sojitz-corp.md` | `M` | 30 | ok |
-| `JapanFG/sumitomo-corp.md` | `M` | 35 | ok |
-| `banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md` | `M` | 334 | ok |
-| `real-estate-finance/japan-real-estate-appraisal-methodology.md` | `M` | 24 | ok |
+| `JapanFG/INDEX.md` | `M` | 1399 | ok |
+| `JapanFG/acom.md` | `M` | 21 | ok |
+| `JapanFG/akatsuki-hq.md` | `M` | 3 | ok |
+| `JapanFG/american-express-international-japan.md` | `M` | 9 | ok |
+| `JapanFG/aozora-bank.md` | `M` | 8 | ok |
+| `JapanFG/atone.md` | `M` | 12 | ok |
+| `JapanFG/bnp-paribas-japan.md` | `M` | 6 | ok |
+| `JapanFG/cpaaob.md` | `M` | 19 | ok |
+| `JapanFG/diners-club-japan.md` | `M` | 6 | ok |
+| `JapanFG/famima-digital-one.md` | `M` | 11 | ok |
+| `JapanFG/gunma-bank.md` | `M` | 11 | ok |
+| `JapanFG/hyakugo-bank.md` | `M` | 7 | ok |
+| `JapanFG/hyakujushi-bank.md` | `M` | 19 | ok |
+| `JapanFG/imamura-securities.md` | `M` | 21 | ok |
+| `JapanFG/itochu-corp.md` | `M` | 24 | ok |
+| `JapanFG/ja-shinnoren.md` | `M` | 17 | ok |
+| `JapanFG/ja-zenchu.md` | `M` | 28 | ok |
 
 ## Domain Snapshot
 

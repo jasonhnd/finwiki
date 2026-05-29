@@ -13,6 +13,8 @@ sources:
   - "https://www.americanexpress.com/jp/"
   - "https://www.americanexpress.com/jp/company/"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+  - "https://www.global.jcb/ja/press/2018/201809060001_merchants.html"
+  - "https://www.jcb.co.jp/promotion/b2b/index.html"
 ---
 
 # アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)
@@ -45,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 3. Strategy & competitive position vs JCB / domestic schemes
 
-Amex は世界的にも **3-party scheme の代表格** で、[[JapanFG/jcb|JCB]] と構造的に最も近い。1989 年に JCB と業務提携し、Amex カードを JCB 加盟店で使える / JCB カードを Amex 加盟店で使えるという相互利用契約を結んだ歴史がある (現在は相互利用契約の運用形態は変遷あり、要確認 ^[ambiguous])。差別化は「**プレミアム・富裕層・法人 T&E**」に絞り、加盟店手数料の高さを高単価会員のステータス価値・特典還元で正当化する **高 take rate / 高 LTV モデル**。Visa / Mastercard / JCB が「広く薄く」を狙うのに対し Amex は「狭く深く」。国内 issuer の Visa / Mastercard 主軸 issuer ([[JapanFG/smbc-card|三井住友カード]] 等) や JCB 自社発行とは直接競合せず、**併売・補完関係** に近い。近年は [[JapanFG/mufg-nicos|三菱UFJニコス]] や [[JapanFG/aplus|アプラス]] が Amex ブランド提携カードを発行することで 4-party 的展開も増え、純粋 3-party との区別は曖昧化。
+Amex は世界的にも **3-party scheme の代表格** で、[[JapanFG/jcb|JCB]] と構造的に最も近い。両社は加盟店業務提携を結んでおり、JCB 加盟契約店で Amex カードが利用可能（JCB との提携により、ホテル・レストラン・小売に加え、公共料金・スーパー・ドラッグストア等へ利用可能加盟店が拡大）。2017 年からは共同で地域加盟店活性化施策「SHOP LOCAL」を全国展開している（JCB 公式リリース）。差別化は「**プレミアム・富裕層・法人 T&E**」に絞り、加盟店手数料の高さを高単価会員のステータス価値・特典還元で正当化する **高 take rate / 高 LTV モデル**。Visa / Mastercard / JCB が「広く薄く」を狙うのに対し Amex は「狭く深く」。国内 issuer の Visa / Mastercard 主軸 issuer ([[JapanFG/smbc-card|三井住友カード]] 等) や JCB 自社発行とは直接競合せず、**併売・補完関係** に近い。近年は [[JapanFG/mufg-nicos|三菱UFJニコス]] や [[JapanFG/aplus|アプラス]] が Amex ブランド提携カードを発行することで 4-party 的展開も増え、純粋 3-party との区別は曖昧化。
 
 ## 4. Why this page matters
 
@@ -68,3 +70,5 @@ Amex は世界的にも **3-party scheme の代表格** で、[[JapanFG/jcb|JCB]
 - American Express 日本 会社情報: https://www.americanexpress.com/jp/company/
 - American Express Company 投資家情報: https://ir.americanexpress.com/
 - METI 割賦販売法登録業者リスト: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- JCB 公式リリース「アメリカン・エキスプレスとJCBが共同で地元のお店を活性化 2年目のSHOP LOCALが全国展開へ」(2018-09-06): https://www.global.jcb/ja/press/2018/201809060001_merchants.html
+- JCB 公式「JCB加盟店であれば、アメックスやダイナースクラブカードもご利用可能」(B2B 加盟店案内): https://www.jcb.co.jp/promotion/b2b/index.html

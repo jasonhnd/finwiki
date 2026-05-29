@@ -70,7 +70,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 中計（2024）
 
-- 不動産・PE 等のノンコア事業比率調整 ^[ambiguous]
+- 2024 中期経営計画を策定（具体的内容は公開開示を要参照）
 
 ## 4. 規制・政策
 

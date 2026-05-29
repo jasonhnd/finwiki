@@ -15,6 +15,8 @@ sources:
   - "Wikipedia: BNPパリバ (2026-05-19 抽出)"
   - "FSB: 2025 List of Global Systemically Important Banks (2025-11-27)"
   - "BNP Paribas Cardif Japan Life 公式: 会社概要 (life.cardif.co.jp, 2026-05-19 抽出)"
+  - "BNP Paribas Japan 公式: Subsidiaries in Japan / Innovation (bnpparibas.jp, 2026-05-30 抽出)"
+  - "Hello bank! (en.wikipedia.org, 2026-05-30 抽出) — 欧州限定・日本非展開の確認"
 ---
 
 # BNP パリバ日本 (BNP Paribas Japan)
@@ -108,7 +110,7 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ### デジタル戦略
 
-- 公式公表ベースでは在日特化のフィンテック子会社は未確認（親 BNP は Hello bank! 等欧州デジタル展開）^[ambiguous]
+- 在日特化のフィンテック / デジタルバンキング子会社は持たない。BNP Paribas Japan 公式の在日法人一覧は銀行東京支店・証券・AM・カーディフ生損保の 5 法人のみで、リテール向けデジタルバンク法人は含まれない。親 BNP のデジタルリテール銀行 Hello bank! は仏・白・独・伊・チェコ・墺の欧州市場限定で、日本では非展開（BNP Paribas Japan 公式 / Hello bank! 公式）。在日では外部フィンテック・デジタル事業者との提携を志向（公式 Innovation ページ）。
 - DCM / シンジケート ローン デジタル化（Loan Connector 等）は本社プラットフォーム利用
 
 ### 提携・買収戦略
@@ -166,6 +168,9 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 - **FSB: 2025 List of Global Systemically Important Banks**（https://www.fsb.org/2025/11/2025-list-of-global-systemically-important-banks-g-sibs/, 2025-11-27 公表）
 - **BNP Paribas Cardif Japan Life 公式**: 会社概要（https://life.cardif.co.jp/company/profile/, 2026-05-19 抽出）
 - **BNP Paribas 公式**: James Gibson Tokyo Branch GM 就任リリース（2019-10-01）
+- **BNP Paribas Japan 公式**: Subsidiaries in Japan（https://www.bnpparibas.jp/en/subsidiaries-in-japan/, 2026-05-30 抽出 — 在日 5 法人にデジタルバンク / フィンテック法人を含まないことを確認）
+- **BNP Paribas Japan 公式**: Innovation（https://www.bnpparibas.jp/en/about-us/innovation/, 2026-05-30 抽出 — 在日は外部フィンテックとの提携志向）
+- **Hello bank!**（https://en.wikipedia.org/wiki/Hello_bank!, 2026-05-30 抽出 — 仏・白・独・伊・チェコ・墺の欧州限定、日本非展開）
 
 ---
 

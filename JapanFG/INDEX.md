@@ -983,7 +983,7 @@ sources:
 - **Phase 22 (P4 leasing / BNPL / local-bond promotion batch)** — 2026-05-20 — [[smfl]] / [[mizuho-lease]] / [[ntt-tc-lease]] / [[bnpl-landscape]] / [[local-bond-market]] promoted to likely / active ✅
 - **Phase 23 (P4 final graph-repair promotion batch)** — 2026-05-20 — [[18-shinwa-bank]] / [[akita-bank]] / [[iwate-bank]] / [[joyo-bank]] / [[rokin-renraku]] / [[socgen-japan]] / [[bank-of-america-japan]] promoted to likely / active; [[ssjbank]] deprecated as erroneous alias ✅
 - **Phase 24 (financial report source index)** — 2026-05-20 — [[JapanFG/financial-reports-2020-index|financial-reports-2020-index]] created: 159 company/institution rows, 88 complete / 40 boundary / 27 partial / 4 gap ✅
-- **Phase 25 (校核 + 数値更新)** — 待定 — IR 報告で財務 KPI 精度向上 + ^[ambiguous] のクリア
+- **Phase 25 (校核 + 数値更新)** — 待定 — IR 報告で財務 KPI 精度向上 + 曖昧タグ (ambiguous マーカー) のクリア
 - **Phase 26 (追加候補 execution checklist)** — 2026-05-20 — [[JapanFG/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] created from FSA / industry registry baseline ✅
 - **Phase 27 (market infrastructure execution batch)** — 2026-05-20 — [[JapanFG/japan-exchange-group|JPX]] / [[JapanFG/japan-securities-finance|JSF]] + securities market infrastructure pages created ✅
 - **Phase 28 (bank operating-company Batch B1)** — 2026-05-20 — 18 licensed bank operating-company pages created from FSA bank-license baseline ✅

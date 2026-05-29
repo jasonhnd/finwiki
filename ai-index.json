@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-30T00:02:48+09:00",
+  "generated_at": "2026-05-30T00:37:39+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9800799,
-    "word_like_tokens": 1555481
+    "nonspace_utf8_chars": 9803450,
+    "word_like_tokens": 1555975
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 420604,
-      "word_like_tokens": 73953,
+      "nonspace_chars": 420861,
+      "word_like_tokens": 73991,
       "last_modified": "2026-05-30"
     },
     {
@@ -1949,9 +1949,9 @@
         "https://finwiki.zksc.io/JapanFG/fukushima-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 94577,
-      "word_like_tokens": 14011,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 94584,
+      "word_like_tokens": 14013,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/acom-co-detail.md",
@@ -2049,9 +2049,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5933,
-      "word_like_tokens": 930,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5873,
+      "word_like_tokens": 921,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/aeon-bank.md",
@@ -2890,9 +2890,9 @@
         "https://finwiki.zksc.io/tokai-tokyo-fh"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2020,
-      "word_like_tokens": 293,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2019,
+      "word_like_tokens": 292,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/akita-bank.md",
@@ -3068,9 +3068,9 @@
         "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3289,
-      "word_like_tokens": 470,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3682,
+      "word_like_tokens": 529,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/american-home-insurance-japan.md",
@@ -3340,9 +3340,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3913,
-      "word_like_tokens": 593,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3875,
+      "word_like_tokens": 589,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/aplus.md",
@@ -3652,9 +3652,9 @@
         "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2592,
-      "word_like_tokens": 373,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2525,
+      "word_like_tokens": 367,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/au-fh.md",
@@ -4640,9 +4640,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5855,
-      "word_like_tokens": 990,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6518,
+      "word_like_tokens": 1091,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/bnpl-landscape.md",
@@ -6351,9 +6351,9 @@
         "https://finwiki.zksc.io/JapanFG/taiyo-grant-thornton"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3581,
-      "word_like_tokens": 510,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4384,
+      "word_like_tokens": 666,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/credit-agricole-bank-japan.md",
@@ -7650,9 +7650,9 @@
         "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3254,
-      "word_like_tokens": 441,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3779,
+      "word_like_tokens": 526,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/dmm-com-securities.md",
@@ -8074,9 +8074,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4270,
-      "word_like_tokens": 654,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4227,
+      "word_like_tokens": 650,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/ffg-securities.md",
@@ -10352,9 +10352,9 @@
         "https://finwiki.zksc.io/towa-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3624,
-      "word_like_tokens": 516,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3814,
+      "word_like_tokens": 543,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/hachijuni-bank.md",
@@ -11633,9 +11633,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2969,
-      "word_like_tokens": 403,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2893,
+      "word_like_tokens": 397,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/hyakujushi-bank.md",
@@ -11690,9 +11690,9 @@
         "https://finwiki.zksc.io/tomony-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3000,
-      "word_like_tokens": 415,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2937,
+      "word_like_tokens": 410,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/hyundai-marine-fire-japan.md",
@@ -12045,9 +12045,9 @@
         "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3215,
-      "word_like_tokens": 449,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3179,
+      "word_like_tokens": 447,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/industrial-bank-of-korea-japan.md",
@@ -12328,9 +12328,9 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5167,
-      "word_like_tokens": 797,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5070,
+      "word_like_tokens": 784,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/itochu-finance.md",
@@ -13052,7 +13052,7 @@
         "信連数の推移 ^[extracted]",
         "重要年表 ^[extracted]",
         "4 大機能 ^[extracted]",
-        "信連の規模感 ^[ambiguous]",
+        "信連の規模感",
         "JA Bank system 内の位置付け"
       ],
       "wikilinks": [
@@ -13084,9 +13084,9 @@
         "https://finwiki.zksc.io/norinchukin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4230,
-      "word_like_tokens": 645,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4793,
+      "word_like_tokens": 765,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/ja-zen-noh.md",
@@ -13188,9 +13188,9 @@
         "https://finwiki.zksc.io/norinchukin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4761,
-      "word_like_tokens": 705,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4746,
+      "word_like_tokens": 704,
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "JapanFG/jaccs.md",
@@ -34252,7 +34252,7 @@
       ],
       "nonspace_chars": 23010,
       "word_like_tokens": 3473,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-05-30"
     },
     {
       "source_path": "SCHEMA.md",
@@ -83714,8 +83714,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2862,
-      "word_like_tokens": 537,
+      "nonspace_chars": 2608,
+      "word_like_tokens": 494,
       "last_modified": "2026-05-30"
     }
   ]

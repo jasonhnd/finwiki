@@ -13,6 +13,8 @@ sources:
   - "https://www.diners.co.jp/"
   - "https://www.diners.co.jp/ja/about/company.html"
   - "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+  - "https://www.global.jcb/ja/press/2006/2006020810001_merchants.html"
+  - "https://www.jcb.co.jp/promotion/b2b/index.html"
 ---
 
 # ダイナースクラブ ジャパン (Diners Club Japan)
@@ -39,7 +41,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **グルメ・レストラン特典**: 「エグゼクティブダイニング」等、ブランド草創期 (1950 年米国レストラン決済発祥) に由来するグルメ特典が強み。
 - **トラベル・空港ラウンジ**: 国内外空港ラウンジ無料利用、コンシェルジュサービス、海外旅行保険等プレミアム特典。
 - **法人カード・コーポレートカード**: 大企業 T&E 管理向け Diners Club コーポレートカード。
-- **JCB との相互利用**: JCB 加盟店で Diners カードが使える / Diners 加盟店で JCB カードが使える相互利用契約 (運用形態は変遷あり、要確認 ^[ambiguous])。
+- **JCB との加盟店相互開放**: JCB 加盟店で Diners カードが利用可能。2006-02 に JCB とシティカードジャパン（当時の Diners 国内 issuer）が国内加盟店事業の一部で提携し、JCB の子会社 JCB Card Assist が Diners の新規加盟店開拓・売上処理を担い、既存 JCB 加盟店（当時約 13,000 店）でも Diners カードを取扱可能とした（JCB 公式リリース）。現在も JCB との加盟店業務提携により、JCB 加盟契約店で JCB・アメリカン・エキスプレス・ダイナースクラブ・ディスカバー・銀聯のカード取扱が可能（JCB 公式）。
 
 ## 3. Strategy & competitive position vs JCB / domestic schemes
 
@@ -67,3 +69,5 @@ Diners は **超富裕層・法人 T&E** に絞った極端な特化戦略。[[J
 - 三井住友トラストクラブ 会社情報: https://www.diners.co.jp/ja/about/company.html
 - Discover Financial Services 投資家情報 (米): https://investorrelations.discover.com/
 - METI 割賦販売法登録業者リスト: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- JCB 公式リリース「JCB、シティカードジャパンと、ダイナースクラブ国内加盟店事業の一部で提携」(2006-02-08): https://www.global.jcb/ja/press/2006/2006020810001_merchants.html
+- JCB 公式「JCB加盟店であれば、アメックスやダイナースクラブカードもご利用可能」(B2B 加盟店案内): https://www.jcb.co.jp/promotion/b2b/index.html

@@ -111,10 +111,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 - **会計**: IFRS 採用、ファミマ統合後は連結子会社化、equity-method investments の比重大 ^[extracted]
 
-## 6. Counterpoints
-
-- **「ファミマ統合の長期収益化」**: TOB 完全子会社化からの ROI 評価、コンビニ業界 (セブン優位) の中での FamilyMart 競争力 ^[ambiguous]
-
 ## 7. Open questions
 
 - **ファミマ統合シナジー** — ファミペイ / ATM / 保険販売 / フィンテックの収益化進度

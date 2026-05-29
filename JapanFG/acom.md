@@ -122,7 +122,6 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - **資金調達**: MUFG グループ内資金調達で独立系（[[aiful]]）より低コスト
 - **顧客送客**: 三菱 UFJ 銀行 ATM・店舗との連携で集客効率
 - **海外**: Easy Buy（タイ）が MUFG ASEAN 戦略（[[mufg]] Krungsri）と補完関係
-- **完全子会社化シナリオ**: 持分法 39.6% のまま長期維持、独立上場体制と MUFG 連結を両立 ^[ambiguous]
 
 ### 競合構造
 
