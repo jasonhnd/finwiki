@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 39 |
+| Changed or new entries in current worktree | 33 |
 
 ## Wiki Linking Standard
 
@@ -31,45 +31,39 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `agent-economy/ap2-adoption.md` | `M` | 6 | ok |
-| `agent-economy/ap2-overview.md` | `M` | 6 | ok |
-| `agent-economy/ap2-technical-spec.md` | `M` | 8 | ok |
-| `agent-economy/coinbase-cdp-developer-platform.md` | `M` | 8 | ok |
-| `agent-economy/embedded-wallet-network-effects-moat.md` | `M` | 6 | ok |
-| `agent-economy/erc-7715-agent-payment-stack.md` | `M` | 7 | ok |
-| `agent-economy/erc-7715-overview.md` | `M` | 8 | ok |
-| `agent-economy/privy-aws-agentcore-default-wallet.md` | `M` | 6 | ok |
-| `agent-economy/privy-embedded-wallet-overview.md` | `M` | 7 | ok |
-| `agent-economy/solana-saga-seeker-mobile-stack-overview.md` | `M` | 6 | ok |
-| `agent-economy/x402-cloudflare-aws-edge-integration.md` | `M` | 7 | ok |
-| `agent-economy/x402-http-payment-overview.md` | `M` | 8 | ok |
-| `systems/canton-daml-technical-spec.md` | `M` | 6 | ok |
-| `systems/canton-mmf-coalition.md` | `M` | 7 | ok |
-| `systems/canton-overview.md` | `M` | 6 | ok |
-| `systems/cctp-v2-overview.md` | `M` | 6 | ok |
-| `systems/cctp-v2-technical-spec.md` | `M` | 6 | ok |
-| `systems/cctp-v2-vs-canton.md` | `M` | 6 | ok |
-| `systems/chainlink-ccip-institutional-messaging.md` | `M` | 6 | ok |
-| `systems/cross-chain-four-poles-ccip-institutional.md` | `M` | 7 | ok |
-| `systems/cross-chain-four-poles-overview.md` | `M` | 6 | ok |
-| `systems/cross-chain-four-poles-selection-decision.md` | `M` | 6 | ok |
-| `systems/eigenlayer-avs-mechanism.md` | `M` | 6 | ok |
-| `systems/eigenlayer-l1-bootstrapping.md` | `M` | 6 | ok |
-| `systems/eigenlayer-overview.md` | `M` | 6 | ok |
-| `systems/eip-7708-native-asset-erc20-event-compat.md` | `M` | 3 | ok |
-| `systems/erc-4337-overview.md` | `M` | 6 | ok |
-| `systems/erc-4337-userop-bundler-flow.md` | `M` | 6 | ok |
-| `systems/erc-7702-overview.md` | `M` | 6 | ok |
-| `systems/erc-7702-vs-erc-4337.md` | `M` | 6 | ok |
-| `systems/hyperlane-ism-modular-security.md` | `M` | 6 | ok |
-| `systems/hyperlane-overview.md` | `M` | 6 | ok |
-| `systems/hyperlane-vs-layerzero-ccip.md` | `M` | 6 | ok |
-| `systems/hyperledger-besu-overview.md` | `M` | 6 | ok |
-| `systems/hyperledger-besu-vs-canton-migration.md` | `M` | 6 | ok |
-| `systems/layerzero-v2-omnichain-messaging.md` | `M` | 6 | ok |
-| `systems/pectra-eip-7251-institutional-staking.md` | `M` | 6 | ok |
-| `systems/pectra-eip-7691-blob-l2-impact.md` | `M` | 6 | ok |
-| `systems/pectra-upgrade-overview.md` | `M` | 6 | ok |
+| `agent-economy/ai-agent-payment-protocols-commoditization.md` | `M` | 7 | ok |
+| `agent-economy/ai-agent-payment-protocols-overview.md` | `M` | 7 | ok |
+| `agent-economy/ai-agent-payment-protocols-seven-layers.md` | `M` | 8 | ok |
+| `agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md` | `M` | 6 | ok |
+| `banking/quick-deposit-four-methods.md` | `M` | 6 | ok |
+| `business/christine-moy-talent-signal-jpm-apollo.md` | `M` | 5 | ok |
+| `business/hester-peirce-sec-regulatory-pivot-case.md` | `M` | 6 | ok |
+| `business/jamie-dimon-anti-crypto-pivot-case.md` | `M` | 6 | ok |
+| `business/kitao-yoshitaka-sbi-independent-strategy-case.md` | `M` | 6 | ok |
+| `business/larry-fink-blackrock-digital-asset-template.md` | `M` | 6 | ok |
+| `business/matt-huang-triple-role-coi-template.md` | `M` | 5 | ok |
+| `business/paolo-ardoino-tether-business-model-template.md` | `M` | 6 | ok |
+| `business/sandeep-nailwal-polygon-india-dpi-pattern.md` | `M` | 6 | ok |
+| `exchanges/jp-crypto-bank-credit-facilities.md` | `M` | 6 | ok |
+| `exchanges/native-dex-flip-incumbent-pattern.md` | `M` | 7 | ok |
+| `exchanges/vetoken-host-protocol-flywheel.md` | `M` | 5 | ok |
+| `security/fork-and-rebrand-5-layer-audit-framework.md` | `M` | 11 | ok |
+| `systems/bft-validator-economy-four-variables.md` | `M` | 6 | ok |
+| `systems/bft-validator-economy-overview.md` | `M` | 6 | ok |
+| `systems/bft-validator-economy-tempo-vs-arc.md` | `M` | 6 | ok |
+| `systems/chain-abstraction-pattern-overview.md` | `M` | 6 | ok |
+| `systems/chain-abstraction-pattern-three-solutions.md` | `M` | 6 | ok |
+| `systems/chain-abstraction-pattern-value-capture.md` | `M` | 6 | ok |
+| `systems/dag-bft-vs-chain-bft-architecture.md` | `M` | 6 | ok |
+| `systems/erc-4337-embedded-wallet-adoption.md` | `M` | 6 | ok |
+| `systems/formal-spec-implementation-codesign.md` | `M` | 3 | ok |
+| `systems/l1-progressive-decentralization-three-phase.md` | `M` | 3 | ok |
+| `systems/multi-proof-aggregation-fault-prover.md` | `M` | 3 | ok |
+| `systems/post-quantum-blockchain-day1-integration.md` | `M` | 3 | ok |
+| `systems/threshold-bft-consensus-rust-implementations.md` | `M` | 3 | ok |
+| `systems/vitalik-l1-l2-strategy-anchor.md` | `M` | 6 | ok |
+| `trade/jetro-members-gateway-model.md` | `M` | 8 | ok |
+| `trade/jetro-organization-structure.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 

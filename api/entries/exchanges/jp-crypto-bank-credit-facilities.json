@@ -21,7 +21,9 @@
       "fintech"
     ],
     "status": "confirmed",
-    "sources": []
+    "sources": [
+      "https://prtimes.jp/main/html/rd/p/000000240.000024344.html"
+    ]
   },
   "summary": "This entry sits under exchanges index. Read it against SBI VCトレード株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
   "headings": [
@@ -62,9 +64,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2677,
-    "word_like_tokens": 368,
+    "nonspace_chars": 2900,
+    "word_like_tokens": 403,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

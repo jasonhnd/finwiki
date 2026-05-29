@@ -32,7 +32,17 @@
       "alchemy"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://eips.ethereum.org/EIPS/eip-4337",
+      "https://github.com/eth-infinitism/account-abstraction",
+      "https://docs.privy.io/",
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://docs.cdp.coinbase.com/",
+      "https://github.com/alchemyplatform/aa-sdk",
+      "https://github.com/safe-global/safe-core-sdk",
+      "https://github.com/pimlicolabs/permissionless.js",
+      "https://www.canton.network/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against ERC-4337 概観 · Account Abstraction のアプリケーション層実装 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -76,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3309,
-    "word_like_tokens": 507,
+    "nonspace_chars": 4447,
+    "word_like_tokens": 681,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

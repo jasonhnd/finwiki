@@ -11,7 +11,9 @@ review_by: 2026-11-16
 confidence: certain
 tags: [systems, formal-methods, consensus, tla, quint, malachite, bft]
 status: candidate
-sources: []
+sources:
+  - https://github.com/informalsystems/quint
+  - https://github.com/informalsystems/malachite
 ---
 
 # 形式化仕様 ↔ 実装 co-design
@@ -28,3 +30,8 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - [[systems/dag-bft-vs-chain-bft-architecture|DAG vs Chain BFT]]
 - [[systems/post-quantum-blockchain-day1-integration|耐量子 day-1 統合]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- Quint — TLA ベースの実行可能仕様言語（model-based testing / co-design）— https://github.com/informalsystems/quint
+- Malachite — Flexible BFT consensus engine in Rust（仕様 ↔ 実装 co-design の対象）— https://github.com/informalsystems/malachite

@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, blackrock, etf, rwa, tokenization, template, larry-fink]
-sources: []
+sources:
+  - https://techcrunch.com/2022/08/04/blackrock-crypto-bitcoin-coinbase-larry-fink-partnership/
+  - https://fortune.com/crypto/2024/01/18/blackrock-spot-bitcoin-etf-1-billion-assets-under-managment-aum/
+  - https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network
+  - https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter
 status: confirmed
 ---
 
@@ -59,4 +63,9 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- BlackRock taps Coinbase to give Aladdin clients bitcoin access (TechCrunch, 2022-08-04) — https://techcrunch.com/2022/08/04/blackrock-crypto-bitcoin-coinbase-larry-fink-partnership/
+- BlackRock's spot Bitcoin ETF (IBIT) first to $1B AUM after Jan 2024 SEC approval (Fortune, 2024-01-18) — https://fortune.com/crypto/2024/01/18/blackrock-spot-bitcoin-etf-1-billion-assets-under-managment-aum/
+- BlackRock Launches Its First Tokenized Fund, BUIDL, on Ethereum (Securitize press, 2024-03) — https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network
+- Larry Fink's 2025 Annual Chairman's Letter to Investors (tokenization) — https://www.blackrock.com/corporate/investor-relations/2025-larry-fink-annual-chairmans-letter
 

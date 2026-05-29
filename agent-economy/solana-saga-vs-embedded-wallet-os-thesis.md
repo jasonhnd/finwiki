@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, wallet, mobile, solana, embedded-wallet, privy, coinbase-cdp]
-sources: []
+sources:
+  - https://docs.solanamobile.com/
+  - https://docs.privy.io/
+  - https://docs.cdp.coinbase.com/
+  - https://privy.io/blog/announcing-our-acquisition-by-stripe
 status: candidate
 ---
 
@@ -60,4 +64,9 @@ Embedded Wallet は秘密鍵を iCloud / Google passkey 同期に隠して UX �
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Solana Mobile 公式ドキュメント（Seed Vault / MWA / dApp Store · SMS 経路）— https://docs.solanamobile.com/
+- Privy docs（embedded wallet 経路の代表）— https://docs.privy.io/
+- Coinbase Developer Platform（CDP Wallet · Android MWA ハイブリッド）— https://docs.cdp.coinbase.com/
+- Privy「Privy and Stripe: Bringing crypto to everyone」（Stripe 買収 · embedded × stablecoin 閉ループ）— https://privy.io/blog/announcing-our-acquisition-by-stripe
 

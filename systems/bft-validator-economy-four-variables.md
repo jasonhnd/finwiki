@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, validator, bft, staking-yield, slashing, mev, nakamoto-coefficient]
-sources: []
+sources:
+  - https://ethereum.org/en/staking/
+  - https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/README.md
+  - https://github.com/flashbots/mev-boost
+  - https://vitalik.eth.limo/general/2024/05/17/decentralization.html
 status: candidate
 ---
 
@@ -63,4 +67,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Ethereum.org Staking（staking yield / slashing 概観）— https://ethereum.org/en/staking/
+- Cosmos SDK x/slashing モジュール仕様（二重署名罰 / ダウンタイム罰）— https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/README.md
+- Flashbots mev-boost（MEV / PBS）— https://github.com/flashbots/mev-boost
+- Vitalik Buterin「improving the Ethereum network's permissionlessness and decentralization」（クライアント / ステーキングプール集中度）— https://vitalik.eth.limo/general/2024/05/17/decentralization.html
 

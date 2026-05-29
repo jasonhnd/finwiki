@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-29T12:34:34+09:00
+Generated: 2026-05-29T13:16:02+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -28,7 +28,7 @@ Public pages listed: 1448
 - Domain: root
 - Type: control_doc
 - Summary: 1. 公開面違反 (HIGH): 13 個の exchanges/ ファイルが 来源: projects/cgv/jp-crypto-exchange-research/ という内部ステージング・ディレクトリ参照を含んでいた。 2. 断リンク (HIGH): JapanFG/cpaaob が fsa-supervision-bureau / fsa-inspection-bureau / fsa-strategy-bureau / fsa-planning-coordination-bureau の 4 ファイルで 7 回参照されているが、JapanFG/cpaaob.md は存在せず、ai-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-29, 技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全, 公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-29, 技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全, 技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -9178,7 +9178,7 @@ Public pages listed: 1448
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: L2 原生 DEX による incumbent 逆転パターン, Wiki route, Related
+- Headings: L2 原生 DEX による incumbent 逆転パターン, Wiki route, Sources, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/amm-design-evolution, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison, https://finwiki.zksc.io/exchanges/ve33-governance-mechanism, https://finwiki.zksc.io/exchanges/vetoken-host-protocol-flywheel, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation, https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview
 
 ### RWA (Real World Asset) tokenization × CEX 取扱
@@ -9278,7 +9278,7 @@ Public pages listed: 1448
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: veToken × ホスト・プロトコル DEX 自己循環フライホイール, Wiki route, Related
+- Headings: veToken × ホスト・プロトコル DEX 自己循環フライホイール, Wiki route, Sources, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison, https://finwiki.zksc.io/exchanges/native-dex-flip-incumbent-pattern, https://finwiki.zksc.io/exchanges/ve33-governance-mechanism, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog, https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics, https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality
 
 ### Finance Domain
@@ -14015,7 +14015,7 @@ Public pages listed: 1448
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it with fintech index for adjacent context and スマートコントラクト bytecode forensic — 3 層 verify 技術 for the broader system boundary.
-- Headings: DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐, Wiki route, Related
+- Headings: DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐, Wiki route, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/global-dex-major-five-comparison, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor, https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
 
 ### DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA
@@ -14135,7 +14135,7 @@ Public pages listed: 1448
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against Threshold BFT コンセンサス Rust 化トレンド（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: 形式化仕様 ↔ 実装 co-design, Wiki route, Related
+- Headings: 形式化仕様 ↔ 実装 co-design, Wiki route, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture, https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
 
 ### Hook-Enforced Compliance
@@ -14225,7 +14225,7 @@ Public pages listed: 1448
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite） for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: L1 渐进式去中心化三阶段路径, Wiki route, Related
+- Headings: L1 渐进式去中心化三阶段路径, Wiki route, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate, https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
 
 ### L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワークロード比較
@@ -14265,7 +14265,7 @@ Public pages listed: 1448
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: 多証明システム集約 fault prover アーキテクチャ, Wiki route, Related
+- Headings: 多証明システム集約 fault prover アーキテクチャ, Wiki route, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/formal-spec-implementation-codesign, https://finwiki.zksc.io/systems/pectra-eip-7691-blob-l2-impact, https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
 
 ### Pectra EIP-7251 · 機関 staking 経済親和化(2048 ETH 上限)
@@ -14325,7 +14325,7 @@ Public pages listed: 1448
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against Threshold BFT コンセンサス Rust 化の潮流(Tempo Simplex / Arc Malachite) for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: 耐量子署名 day-1 統合の経済学, Wiki route, Related
+- Headings: 耐量子署名 day-1 統合の経済学, Wiki route, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations
 
 ### Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM
@@ -14375,7 +14375,7 @@ Public pages listed: 1448
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against DAG-BFT vs Chain-BFT 架构本质分歧（mempool 抽象之争） for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: Threshold BFT 共识 Rust 化潮流, Wiki route, Related
+- Headings: Threshold BFT 共识 Rust 化潮流, Wiki route, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/dag-bft-vs-chain-bft-architecture, https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration
 
 ### TON · Telegram Open Network ecosystem
@@ -14435,7 +14435,7 @@ Public pages listed: 1448
 - Domain: trade
 - Type: wiki_entry
 - Summary: This entry sits under JETRO は会員組織ではなく経産省傘下の独立行政法人 and should be read with FinWiki index.
-- Headings: JETRO Members 有料会員制は B2B 提案の入口ゲート, Wiki route, 入会後の利用範囲, Related
+- Headings: JETRO Members 有料会員制は B2B 提案の入口ゲート, Wiki route, 入会後の利用範囲, Sources, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/jetro-organization-structure, https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram, https://finwiki.zksc.io/policy-finance/jogmec, https://finwiki.zksc.io/policy-finance/nexi, https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement, https://finwiki.zksc.io/trade/jetro-organization-structure
 
 ### JETRO は会員組織ではなく経産省傘下の独立行政法人
@@ -14445,7 +14445,7 @@ Public pages listed: 1448
 - Domain: trade
 - Type: wiki_entry
 - Summary: This entry sits under JETRO Members 有料会員制は B2B 提案の入口ゲート and should be read with FinWiki index.
-- Headings: JETRO は会員組織ではなく経産省傘下の独立行政法人, Wiki route, Related
+- Headings: JETRO は会員組織ではなく経産省傘下の独立行政法人, Wiki route, Sources, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/policy-finance/japan-policy-finance-system, https://finwiki.zksc.io/policy-finance/nexi, https://finwiki.zksc.io/trade/jetro-members-gateway-model
 
 ### JETRO vs NEXI vs JBIC — Japan export-promotion / insurance / financing three-pillar comparison

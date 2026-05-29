@@ -11,7 +11,10 @@ review_by: 2026-11-13
 confidence: likely
 tags: [systems, blockchain, post-quantum, cryptography, FIPS-205]
 status: candidate
-sources: []
+sources:
+  - https://csrc.nist.gov/pubs/fips/205/final
+  - https://www.circle.com/blog/preparing-blockchains-for-q-day
+  - https://www.arc.io/
 ---
 
 # 耐量子署名 day-1 統合の経済学
@@ -26,3 +29,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - [[INDEX|Wiki Index]]
 - [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT コンセンサス Rust 化]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- NIST FIPS 205: Stateless Hash-Based Digital Signature Standard（SLH-DSA）— https://csrc.nist.gov/pubs/fips/205/final
+- Circle「Preparing Blockchains for Q-Day」（Arc の day-1 耐量子 / SLH-DSA-SHA2-128s 言及）— https://www.circle.com/blog/preparing-blockchains-for-q-day
+- Arc 公式サイト（Circle 機関級 L1）— https://www.arc.io/

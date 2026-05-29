@@ -31,6 +31,32 @@
 
 ## 2026-05-29
 
+### 技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全
+
+#### 日本語記録
+
+- **背景**: Wave 14a の続き。「FinWiki は事実記録」という原則のもと、残り 33 件の空 `sources` を全て補完。以前「合成論考だから外部 source 不可」と保留したのは誤りで、各 entry の事実基盤（実在のプロトコル・spec・公開イベント・公的資料）は公開・引用可能。
+- **範囲**: systems + agent-economy の合成/比較 18 件、business 公開人物・企業ケース 8 件、exchanges/trade/banking/security 7 件。systems/INDEX.md は routing page のため対象外。
+- **方法**: 3 並列の調査エージェントが各 entry を読み、事実基盤を一次/公式源（公式 docs・公式サイト・EIP/ERC spec・公開 whitepaper・GitHub・規制当局/政府サイト・arXiv 論文）優先で特定、公開発言・イベントのみ著名報道(CoinDesk / Fortune / CNBC / TechCrunch / Reuters 等)で補強。**全 URL を WebFetch / gh で解決確認してから追加し捏造ゼロ**。主検証として親側で 33 file / audit 0、host-level URL 棚卸し、business 系記事 URL の抜き取り再 WebFetch を実施。
+- **検証**: `wiki_link_audit.py` 1411 entries / **0 issues**、JSON valid、LF 統一。
+- **残タスク(本文の事実誤りを発見、要修正)**: ソース照合の過程で本文の年次/帰属の誤りが判明 —— ① Matt Huang の Stripe 取締役就任は本文「2024」だが Stripe newsroom は **2021-11**;② Christine Moy の Apollo 移籍は本文「2024」だが CoinDesk / Apollo 公式は **2022-04**;③ Jamie Dimon の「pet rock」発言は本文「2022」だが実際は **2023-2024**(Davos 2024-01 を引用);④ post-quantum entry の題は「SLH-DSA on Arc」だが Circle の実際の主選択は ML-DSA / Falcon;⑤「ACP(Catena Labs · Sequoia)」の Sequoia 出資は未確認(Catena は a16z 系);⑥ jp-crypto-bank-credit-facilities の GMO 信用枠 sub-claim は公開源で未裏付け。①②③は確定的な日付誤り、④⑤⑥は要判断。
+
+#### English record
+
+- **Context**: Continuation of Wave 14a. Under the "FinWiki is a factual record" principle, backfilled all remaining 33 empty `sources`. Previously deferring "synthesis pages can't be externally sourced" was wrong — each entry's factual basis (real protocols, specs, public events, official materials) is public and citable.
+- **Scope**: 18 systems + agent-economy synthesis/comparison pages, 8 business public-figure/company cases, 7 exchanges/trade/banking/security pages. systems/INDEX.md excluded as a routing page.
+- **Method**: 3 parallel research agents read each entry and sourced its factual basis, preferring primary/official sources (official docs, official sites, EIP/ERC specs, public whitepapers, GitHub, regulator/government sites, arXiv papers); reputable named news (CoinDesk / Fortune / CNBC / TechCrunch / Reuters, etc.) only for public statements/events. **Every URL WebFetch/gh-verified before adding — zero fabrication.** Parent-side verification: 33 files / audit 0 issues, host-level URL inventory, and re-WebFetch spot-checks of business-case article URLs.
+- **Validation**: `wiki_link_audit.py` 1411 entries / **0 issues**, JSON valid, LF endings.
+- **Follow-up (body factual errors found, to fix)**: sourcing surfaced date/attribution errors in body text — (1) Matt Huang joined Stripe's board "2024" per body but Stripe newsroom dates it **Nov 2021**; (2) Christine Moy moved to Apollo "2024" per body but CoinDesk/Apollo say **Apr 2022**; (3) Jamie Dimon "pet rock" dated "2022" in body but actually **2023-2024** (Davos Jan 2024 cited); (4) post-quantum entry titled "SLH-DSA on Arc" but Circle's actual lead scheme is ML-DSA/Falcon; (5) "ACP (Catena Labs · Sequoia)" — Sequoia backing unconfirmed (Catena is a16z-backed); (6) GMO credit-facility sub-claims in jp-crypto-bank-credit-facilities unverified against public sources. (1)(2)(3) are clear date errors; (4)(5)(6) need judgment.
+
+#### 中文记录
+
+- **背景**: Wave 14a 的延续。在"FinWiki 是事实记录"原则下，把剩余 33 条空 `sources` 全部补全。此前以"合成论点无法外部溯源"为由保留是错的——每条 entry 的事实基础（真实协议/spec/公开事件/公文资料）都是公开可引用的。
+- **范围**: systems + agent-economy 合成/对比 18 条、business 公开人物/企业案例 8 条、exchanges/trade/banking/security 7 条。systems/INDEX.md 作为路由页不在范围。
+- **方法**: 3 个并行调研 agent 逐条读 entry 并溯源其事实基础，优先一次/官方源（官方 docs/官网/EIP·ERC spec/公开 whitepaper/GitHub/监管·政府站点/arXiv 论文），仅公开发言与事件用著名报道（CoinDesk/Fortune/CNBC/TechCrunch/Reuters 等）补强。**每个 URL 都先 WebFetch/gh 确认可解析再添加，零编造。** 母端复核：33 文件 / 审计 0、host 级 URL 盘点、business 文章 URL 抽样再 WebFetch。
+- **验证**: `wiki_link_audit.py` 1411 entries / **0 issues**，JSON valid，LF 统一。
+- **后续（发现正文事实错误，待修正）**: 溯源过程发现正文的年份/归属错误——①Matt Huang 进 Stripe 董事会正文写"2024"，Stripe newsroom 为 **2021-11**；②Christine Moy 转 Apollo 正文"2024"，CoinDesk/Apollo 官方为 **2022-04**；③Jamie Dimon "pet rock" 正文"2022"，实际 **2023-2024**（引用 2024-01 Davos）；④post-quantum 标题"SLH-DSA on Arc"，但 Circle 实际主选 ML-DSA/Falcon；⑤"ACP(Catena Labs · Sequoia)"的 Sequoia 出资未证实（Catena 为 a16z 系）；⑥jp-crypto-bank-credit-facilities 的 GMO 信贷子论点未获公开源佐证。①②③为确定日期错误，④⑤⑥需判断。
+
 ### 技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全
 
 #### 日本語記録

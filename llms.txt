@@ -22,8 +22,8 @@
 - Topical domains: 23
 - Link-audited entries: 1411
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,528,791
-- Word-like tokens: 1,663,115
+- Non-space UTF-8 characters across Markdown: 10,556,112
+- Word-like tokens: 1,667,534
 
 ## URL Rules for AI Readers
 

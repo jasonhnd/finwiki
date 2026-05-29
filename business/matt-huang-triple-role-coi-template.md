@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, coi, vc, governance, hedge, case-study]
-sources: []
+sources:
+  - https://www.paradigm.xyz/team/matt-huang
+  - https://stripe.com/newsroom/news/matt-huang-joins-stripe-board
+  - https://fortune.com/crypto/2025/08/12/matt-huang-paradigm-stripe-tempo-blockchain-ceo/
+  - https://en.wikipedia.org/wiki/Paradigm_(venture_capital_firm)
 status: confirmed
 ---
 
@@ -58,4 +62,9 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Matt Huang, Co-Founder and Managing Partner (Paradigm official team page) — https://www.paradigm.xyz/team/matt-huang
+- Matt Huang joins Stripe's board of directors (Stripe newsroom) — https://stripe.com/newsroom/news/matt-huang-joins-stripe-board
+- Matt Huang to lead Stripe blockchain Tempo as CEO, stay at Paradigm (Fortune, 2025-08-12) — https://fortune.com/crypto/2025/08/12/matt-huang-paradigm-stripe-tempo-blockchain-ceo/
+- Paradigm (venture capital firm): founders Huang & Ehrsam, ~$12.7B AUM (Wikipedia) — https://en.wikipedia.org/wiki/Paradigm_(venture_capital_firm)
 

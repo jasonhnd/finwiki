@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, chain-abstraction, polygon, near, eigenlayer, agglayer, restaking, intent]
-sources: []
+sources:
+  - https://docs.polygon.technology/agglayer/
+  - https://docs.near.org/chain-abstraction/what-is
+  - https://github.com/near/mpc
+  - https://docs.eigenlayer.xyz/
 status: candidate
 ---
 
@@ -71,4 +75,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Polygon AggLayer 公式ドキュメント（流動性 + 状態抽象）— https://docs.polygon.technology/agglayer/
+- NEAR Chain Abstraction 公式ドキュメント（アカウント + 意図抽象）— https://docs.near.org/chain-abstraction/what-is
+- NEAR MPC ノード実装（Chain Signatures の閾値署名）— https://github.com/near/mpc
+- EigenLayer 公式ドキュメント（セキュリティ / validator 集合抽象）— https://docs.eigenlayer.xyz/
 

@@ -31,7 +31,11 @@
       "tokenization"
     ],
     "status": "confirmed",
-    "sources": []
+    "sources": [
+      "https://www.apollo.com/aboutus/leadership-and-people/christine-moy",
+      "https://www.coindesk.com/business/2022/04/28/apollo-hires-jpmorgans-christine-moy-to-lead-digital-assets-strategy",
+      "https://www.prnewswire.com/news-releases/apollo-and-securitize-announce-partnership-and-launch-tokenized-access-to-credit-fund-on-aptos-avalanche-ethereum-ink-polygon-and-solana-networks-302364212.html"
+    ]
   },
   "summary": "This entry sits under business INDEX as a public-company-strategic-case anchor. Read it against larry fink blackrock digital asset template for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -67,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2630,
-    "word_like_tokens": 387,
+    "nonspace_chars": 3681,
+    "word_like_tokens": 549,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -8,7 +8,13 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, chain-abstraction, cross-chain-bridge, commoditization, value-capture]
-sources: []
+sources:
+  - https://wormhole.com/docs/
+  - https://docs.layerzero.network/v2
+  - https://docs.hyperlane.xyz/
+  - https://github.com/across-protocol/contracts
+  - https://docs.near.org/chain-abstraction/what-is
+  - https://github.com/cowprotocol/contracts
 status: candidate
 ---
 
@@ -67,4 +73,11 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Wormhole 公式ドキュメント（汎用クロスチェーンメッセージング）— https://wormhole.com/docs/
+- LayerZero v2 公式ドキュメント（omnichain messaging への転換）— https://docs.layerzero.network/v2
+- Hyperlane 公式ドキュメント（permissionless interoperability）— https://docs.hyperlane.xyz/
+- Across Protocol スマートコントラクト（intent ベース次世代ブリッジ）— https://github.com/across-protocol/contracts
+- NEAR Intents 公式ドキュメント（意図 solver マーケット）— https://docs.near.org/chain-abstraction/what-is
+- CoW Protocol スマートコントラクト（solver 入札マーケットの初期事例）— https://github.com/cowprotocol/contracts
 

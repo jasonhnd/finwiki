@@ -8,7 +8,10 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [business, people, talent-flow, signal, prediction, rwa, tokenization]
-sources: []
+sources:
+  - https://www.apollo.com/aboutus/leadership-and-people/christine-moy
+  - https://www.coindesk.com/business/2022/04/28/apollo-hires-jpmorgans-christine-moy-to-lead-digital-assets-strategy
+  - https://www.prnewswire.com/news-releases/apollo-and-securitize-announce-partnership-and-launch-tokenized-access-to-credit-fund-on-aptos-avalanche-ethereum-ink-polygon-and-solana-networks-302364212.html
 status: confirmed
 ---
 
@@ -58,4 +61,8 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company-stra
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Christine Moy, Partner & Head of Digital Assets, Data & AI Strategy (prior JPMorgan blockchain/crypto lead) (Apollo official) — https://www.apollo.com/aboutus/leadership-and-people/christine-moy
+- Apollo Hires JPMorgan's Christine Moy to Lead Digital Assets Strategy (CoinDesk, 2022-04-28) — https://www.coindesk.com/business/2022/04/28/apollo-hires-jpmorgans-christine-moy-to-lead-digital-assets-strategy
+- Apollo and Securitize launch tokenized access to credit fund (ACRED), with Christine Moy comment (PR Newswire) — https://www.prnewswire.com/news-releases/apollo-and-securitize-announce-partnership-and-launch-tokenized-access-to-credit-fund-on-aptos-avalanche-ethereum-ink-polygon-and-solana-networks-302364212.html
 

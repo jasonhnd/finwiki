@@ -21,12 +21,16 @@
       "trade"
     ],
     "status": "confirmed",
-    "sources": []
+    "sources": [
+      "https://www.jetro.go.jp/jetro/profile/",
+      "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hakusyo/06_hakusho/ODA2006/html/siryo2/sl1150004.htm"
+    ]
   },
   "summary": "This entry sits under JETRO Members 有料会員制は B2B 提案の入口ゲート and should be read with FinWiki index.",
   "headings": [
     "JETRO は会員組織ではなく経産省傘下の独立行政法人",
     "Wiki route",
+    "Sources",
     "Related"
   ],
   "body_links": {
@@ -53,9 +57,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1343,
-    "word_like_tokens": 195,
+    "nonspace_chars": 1720,
+    "word_like_tokens": 258,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

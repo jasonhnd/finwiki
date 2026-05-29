@@ -11,7 +11,11 @@ review_by: 2026-11-13
 confidence: certain
 tags: [systems, blockchain, consensus, BFT, Rust, BLS]
 status: candidate
-sources: []
+sources:
+  - https://github.com/informalsystems/malachite
+  - https://github.com/informalsystems/quint
+  - https://tempo.xyz/
+  - https://arxiv.org/abs/1803.05069
 ---
 
 # Threshold BFT 共识 Rust 化潮流
@@ -27,3 +31,10 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - [[fintech/stablecoin-chain-token-strategy-trilemma|Token 策略三态博弈]]
 - [[systems/post-quantum-blockchain-day1-integration|抗量子签名 day-1 集成]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- Malachite — Flexible BFT consensus engine in Rust（Arc 採用）— https://github.com/informalsystems/malachite
+- Quint — TLA ベースの実行可能仕様言語（Malachite との co-design）— https://github.com/informalsystems/quint
+- Tempo 公式サイト（Threshold Simplex を採用する決済 L1）— https://tempo.xyz/
+- HotStuff: BFT Consensus in the Lens of Blockchain（Chain-BFT の理論基盤）— https://arxiv.org/abs/1803.05069

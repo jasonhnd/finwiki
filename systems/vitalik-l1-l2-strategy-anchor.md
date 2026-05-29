@@ -8,7 +8,12 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, ethereum, l2, rollup, pectra, fusaka, stablecoin, vitalik]
-sources: []
+sources:
+  - https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698
+  - https://vitalik.eth.limo/general/2021/01/05/rollup.html
+  - https://eips.ethereum.org/EIPS/eip-4844
+  - https://eips.ethereum.org/EIPS/eip-7702
+  - https://ethereum.org/en/roadmap/
 status: candidate
 ---
 
@@ -61,4 +66,10 @@ L1/L2 デュアルトラック戦略の「反相手」効果:**L2 コストが s
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Vitalik Buterin「A rollup-centric ethereum roadmap」（2020-10 · Ethereum Magicians）— https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698
+- Vitalik Buterin「An Incomplete Guide to Rollups」— https://vitalik.eth.limo/general/2021/01/05/rollup.html
+- EIP-4844: Shard Blob Transactions（Dencun · L2 コスト ~100x 低下）— https://eips.ethereum.org/EIPS/eip-4844
+- EIP-7702: Set Code for EOAs（Pectra · ETH gas 不要の stablecoin 転送）— https://eips.ethereum.org/EIPS/eip-7702
+- Ethereum.org ロードマップ（rollup-centric / PeerDAS / account abstraction）— https://ethereum.org/en/roadmap/
 

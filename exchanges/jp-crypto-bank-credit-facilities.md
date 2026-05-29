@@ -11,7 +11,8 @@ review_by: 2026-10-30
 confidence: certain
 tags: [fintech]
 status: confirmed
-sources: []
+sources:
+  - https://prtimes.jp/main/html/rd/p/000000240.000024344.html
 ---
 
 # CEX × 日本銀行 無担保授信実績図譜
@@ -103,6 +104,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
   - 最新の審査基準変更
 
 参考:[[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]](同じCEXセクターのマクロ需要側)
+
+## Sources
+
+- ビットバンク株式会社 公式プレスリリース「ビットバンク、きらぼし銀行と5億円のコミットメントライン契約を締結」（⭐先例: 借入限度額5億円・担保保証=無担保・無保証・契約締結日2026-03-31） — https://prtimes.jp/main/html/rd/p/000000240.000024344.html
 
 ## Related
 <!-- wiki-links:managed -->

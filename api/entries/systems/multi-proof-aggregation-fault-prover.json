@@ -34,13 +34,18 @@
       "rust"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://docs.optimism.io/op-stack/fault-proofs/explainer",
+      "https://specs.optimism.io/fault-proof/index.html",
+      "https://github.com/ethereum-optimism/optimism"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against Pectra EIP-7691 · blob 倍増と L2 経済連鎖 for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
     "多証明システム集約 fault prover アーキテクチャ",
     "Wiki route",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 7,
@@ -66,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 940,
-    "word_like_tokens": 148,
+    "nonspace_chars": 1426,
+    "word_like_tokens": 223,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-29T12:34:34+09:00",
+  "generated_at": "2026-05-29T13:16:02+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10528791,
-    "word_like_tokens": 1663115
+    "nonspace_utf8_chars": 10556112,
+    "word_like_tokens": 1667534
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-05-29",
+        "技術債返済 Wave 14b · 残り空 sources の全件補完（合成論考 + business + exchanges/trade/banking/security）/ Quality-debt paydown Wave 14b — backfilled all remaining empty sources / 技术债偿还 Wave 14b · 剩余空 sources 全部补全",
         "技術債返済 Wave 14a · 空 frontmatter sources の検証付き補完（systems + agent-economy 協議子集）/ Quality-debt paydown Wave 14a — verified backfill of empty frontmatter sources (systems + agent-economy protocol subset) / 技术债偿还 Wave 14a · 协议子集空 frontmatter sources 的核实补全",
         "公開計数の再同期 + AI discovery 再生成（tools/release.py --write 初回運用）/ Public count resync + AI-discovery regeneration (first production run of tools/release.py --write) / 公开计数再同步 + AI discovery 重生成（tools/release.py --write 首次实跑）",
-        "2026-05-25",
-        "Pre-push final QA pass — 6 並列 deep audit + 即時修復 + 10 missing parent stubs + 76 dead-ref bulk rewrites / Pre-push final QA pass — 6 parallel deep audits, immediate fixes, 10 missing-parent stubs, 76 dead-ref bulk rewrites / 推送前最终 QA — 6 并行深度审计 + 即修复 + 10 缺失父实体 stub + 76 dead-ref 批量重写"
+        "2026-05-25"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 405777,
-      "word_like_tokens": 71256,
+      "nonspace_chars": 409657,
+      "word_like_tokens": 71955,
       "last_modified": "2026-05-29"
     },
     {
@@ -35208,9 +35208,9 @@
         "https://finwiki.zksc.io/systems/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3002,
-      "word_like_tokens": 439,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3611,
+      "word_like_tokens": 533,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/ai-agent-payment-protocols-overview.md",
@@ -35254,9 +35254,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2843,
-      "word_like_tokens": 471,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3634,
+      "word_like_tokens": 585,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/ai-agent-payment-protocols-seven-layers.md",
@@ -35302,9 +35302,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2758,
-      "word_like_tokens": 463,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3537,
+      "word_like_tokens": 577,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/ai-company-payment-landscape.md",
@@ -36551,9 +36551,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3198,
-      "word_like_tokens": 521,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3702,
+      "word_like_tokens": 601,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "agent-economy/stablecoin-routing-agent-transactions.md",
@@ -39336,9 +39336,9 @@
         "https://finwiki.zksc.io/fintech/japan-financial-regulation"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2572,
-      "word_like_tokens": 394,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 2939,
+      "word_like_tokens": 460,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "banking/rakuten-bank.md",
@@ -40029,9 +40029,9 @@
         "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2630,
-      "word_like_tokens": 387,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3681,
+      "word_like_tokens": 549,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/cz-binance-founder-handoff-case.md",
@@ -40258,9 +40258,9 @@
         "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2988,
-      "word_like_tokens": 456,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4278,
+      "word_like_tokens": 681,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/jamie-dimon-anti-crypto-pivot-case.md",
@@ -40306,9 +40306,9 @@
         "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2961,
-      "word_like_tokens": 449,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4248,
+      "word_like_tokens": 670,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/japan-listed-corp-strategic-restructuring-matrix.md",
@@ -40490,9 +40490,9 @@
         "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2831,
-      "word_like_tokens": 400,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3965,
+      "word_like_tokens": 585,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/larry-fink-blackrock-digital-asset-template.md",
@@ -40536,9 +40536,9 @@
         "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3115,
-      "word_like_tokens": 445,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4211,
+      "word_like_tokens": 617,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/matt-huang-triple-role-coi-template.md",
@@ -40576,9 +40576,9 @@
         "https://finwiki.zksc.io/fintech/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2674,
-      "word_like_tokens": 421,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3447,
+      "word_like_tokens": 549,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/ntt-docomo-d-point-telco-finance-case.md",
@@ -40683,9 +40683,9 @@
         "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2928,
-      "word_like_tokens": 434,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4376,
+      "word_like_tokens": 665,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/rakuten-group-mobile-finance-bundling-case.md",
@@ -40790,9 +40790,9 @@
         "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2911,
-      "word_like_tokens": 434,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4330,
+      "word_like_tokens": 674,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "business/softbank-vision-fund-arm-ipo-template.md",
@@ -47301,9 +47301,9 @@
         "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2677,
-      "word_like_tokens": 368,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 2900,
+      "word_like_tokens": 403,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "exchanges/jp-crypto-exchange-overview.md",
@@ -51722,6 +51722,7 @@
       "headings": [
         "L2 原生 DEX による incumbent 逆転パターン",
         "Wiki route",
+        "Sources",
         "Related"
       ],
       "wikilinks": [
@@ -51751,9 +51752,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3100,
-      "word_like_tokens": 495,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3707,
+      "word_like_tokens": 594,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "exchanges/rwa-tokenization-cex-integration.md",
@@ -52181,6 +52182,7 @@
       "headings": [
         "veToken × ホスト・プロトコル DEX 自己循環フライホイール",
         "Wiki route",
+        "Sources",
         "Related"
       ],
       "wikilinks": [
@@ -52208,9 +52210,9 @@
         "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2916,
-      "word_like_tokens": 439,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3389,
+      "word_like_tokens": 517,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "finance/INDEX.md",
@@ -78807,9 +78809,9 @@
         "https://finwiki.zksc.io/systems/hook-enforced-compliance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4165,
-      "word_like_tokens": 530,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4694,
+      "word_like_tokens": 614,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "security/module-path-confusion-supply-chain-attack.md",
@@ -81165,9 +81167,9 @@
         "https://finwiki.zksc.io/systems/bft-validator-economy-tempo-vs-arc"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2820,
-      "word_like_tokens": 429,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3449,
+      "word_like_tokens": 526,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/bft-validator-economy-overview.md",
@@ -81211,9 +81213,9 @@
         "https://finwiki.zksc.io/systems/chain-abstraction-pattern-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2696,
-      "word_like_tokens": 398,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3450,
+      "word_like_tokens": 511,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/bft-validator-economy-tempo-vs-arc.md",
@@ -81259,9 +81261,9 @@
         "https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2858,
-      "word_like_tokens": 425,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3342,
+      "word_like_tokens": 504,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/bitcoin-scaling-2026-stacks-lightning-bitvm.md",
@@ -81686,9 +81688,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2992,
-      "word_like_tokens": 366,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3584,
+      "word_like_tokens": 448,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/chain-abstraction-pattern-three-solutions.md",
@@ -81734,9 +81736,9 @@
         "https://finwiki.zksc.io/systems/eigenlayer-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3214,
-      "word_like_tokens": 472,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3657,
+      "word_like_tokens": 538,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/chain-abstraction-pattern-value-capture.md",
@@ -81780,9 +81782,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2905,
-      "word_like_tokens": 374,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3598,
+      "word_like_tokens": 467,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/chainlink-ccip-institutional-messaging.md",
@@ -82191,7 +82193,8 @@
       "headings": [
         "DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -82214,9 +82217,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2830,
-      "word_like_tokens": 439,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3598,
+      "word_like_tokens": 574,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/data-availability-celestia-eigenda-blob-comparison.md",
@@ -82559,9 +82562,9 @@
         "https://finwiki.zksc.io/systems/erc-7702-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3309,
-      "word_like_tokens": 507,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 4447,
+      "word_like_tokens": 681,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/erc-4337-overview.md",
@@ -82758,7 +82761,8 @@
       "headings": [
         "形式化仕様 ↔ 実装 co-design",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -82777,9 +82781,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 992,
-      "word_like_tokens": 153,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 1285,
+      "word_like_tokens": 194,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/hook-enforced-compliance.md",
@@ -83183,7 +83187,8 @@
       "headings": [
         "L1 渐进式去中心化三阶段路径",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -83202,9 +83207,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 967,
-      "word_like_tokens": 140,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 1523,
+      "word_like_tokens": 226,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/l2-agent-economics-arbitrum-base-op-comparison.md",
@@ -83379,7 +83384,8 @@
       "headings": [
         "多証明システム集約 fault prover アーキテクチャ",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -83400,9 +83406,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 940,
-      "word_like_tokens": 148,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 1426,
+      "word_like_tokens": 223,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/pectra-eip-7251-institutional-staking.md",
@@ -83671,7 +83677,8 @@
       "headings": [
         "耐量子署名 day-1 統合の経済学",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -83686,9 +83693,9 @@
         "https://finwiki.zksc.io/systems/threshold-bft-consensus-rust-implementations"
       ],
       "markdown_links": [],
-      "nonspace_chars": 838,
-      "word_like_tokens": 134,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 1247,
+      "word_like_tokens": 211,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic.md",
@@ -83935,7 +83942,8 @@
       "headings": [
         "Threshold BFT 共识 Rust 化潮流",
         "Wiki route",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -83954,9 +83962,9 @@
         "https://finwiki.zksc.io/systems/post-quantum-blockchain-day1-integration"
       ],
       "markdown_links": [],
-      "nonspace_chars": 872,
-      "word_like_tokens": 137,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1346,
+      "word_like_tokens": 209,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/ton-telegram-openwallet-ecosystem.md",
@@ -84059,9 +84067,9 @@
         "https://finwiki.zksc.io/systems/l1-progressive-decentralization-three-phase"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2886,
-      "word_like_tokens": 480,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 3651,
+      "word_like_tokens": 608,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "systems/zk-evm-rollup-maturity-comparison-matrix-2026.md",
@@ -84413,6 +84421,7 @@
         "JETRO Members 有料会員制は B2B 提案の入口ゲート",
         "Wiki route",
         "入会後の利用範囲",
+        "Sources",
         "Related"
       ],
       "wikilinks": [
@@ -84436,9 +84445,9 @@
         "https://finwiki.zksc.io/trade/jetro-organization-structure"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1359,
-      "word_like_tokens": 185,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 1578,
+      "word_like_tokens": 218,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "trade/jetro-organization-structure.md",
@@ -84451,6 +84460,7 @@
       "headings": [
         "JETRO は会員組織ではなく経産省傘下の独立行政法人",
         "Wiki route",
+        "Sources",
         "Related"
       ],
       "wikilinks": [
@@ -84472,9 +84482,9 @@
         "https://finwiki.zksc.io/trade/jetro-members-gateway-model"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1343,
-      "word_like_tokens": 195,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 1720,
+      "word_like_tokens": 258,
+      "last_modified": "2026-05-29"
     },
     {
       "source_path": "trade/jetro-vs-nexi-vs-jbic-comparison.md",
@@ -84551,8 +84561,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4016,
-      "word_like_tokens": 737,
+      "nonspace_chars": 3997,
+      "word_like_tokens": 715,
       "last_modified": "2026-05-29"
     }
   ]

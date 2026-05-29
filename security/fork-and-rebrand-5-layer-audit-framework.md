@@ -11,7 +11,10 @@ review_by: 2026-11-20
 confidence: certain
 tags: [security, audit, smart-contract, forensic, open-source]
 status: candidate
-sources: []
+sources:
+  - https://github.com/Uniswap/v3-core/blob/main/LICENSE
+  - https://github.com/compound-finance/compound-protocol
+  - https://github.com/advisories
 ---
 
 # Fork and Rebrand プロジェクトの五層監査フレームワーク
@@ -83,6 +86,12 @@ Layer 5: コンプライアンス & ライセンス監査 (License & Copyleft Ve
 
 - **ゼロ知識 / 非EVMチェーン**:Solana、Aptos等の非EVMチェーン上ではバイトコード比較と指紋抽出に全く異なるツールチェーン(Anchor build検証等)が必要。許可型 / privacy-preserving型チェーン例えば [[systems/canton-overview|Canton]] のDAML modelでは、contract-templateレベルの差分比較がさらに必要となる。
 - **難読化コンパイラ**:プロジェクト側が独自難読化技術を使用し、あるいはsolcコンパイラを改変している場合、Layer 3の類似度マッチング効果は大幅に低下する。
+
+## Sources
+
+- Uniswap v3-core LICENSE（Layer 5 の代表例: Business Source License 1.1、Change Date 2023-04-01、Change License GPL v2.0+） — https://github.com/Uniswap/v3-core/blob/main/LICENSE
+- Compound Protocol リポジトリ（最も多くフォークされる Compound V2 系コードベース、Layer 1/2 の上流比較・既知脆弱性遺伝の対象） — https://github.com/compound-finance/compound-protocol
+- GitHub Advisory Database（Layer 2 が参照する GitHub Security Advisories の公式データベース） — https://github.com/advisories
 
 ## Related
 <!-- wiki-links:managed -->

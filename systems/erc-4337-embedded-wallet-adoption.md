@@ -8,7 +8,16 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, embedded-wallet, privy, coinbase, alchemy]
-sources: []
+sources:
+  - https://eips.ethereum.org/EIPS/eip-4337
+  - https://github.com/eth-infinitism/account-abstraction
+  - https://docs.privy.io/
+  - https://privy.io/blog/announcing-our-acquisition-by-stripe
+  - https://docs.cdp.coinbase.com/
+  - https://github.com/alchemyplatform/aa-sdk
+  - https://github.com/safe-global/safe-core-sdk
+  - https://github.com/pimlicolabs/permissionless.js
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -75,3 +84,12 @@ embedded wallet プレイヤーの階層構造:
 ## Sources
 
 - Stripe-Privy acquisition announcement(2024)
+- EIP-4337: Account Abstraction Using Alt Mempool — https://eips.ethereum.org/EIPS/eip-4337
+- eth-infinitism account-abstraction(EntryPoint / Bundler reference impl）— https://github.com/eth-infinitism/account-abstraction
+- Privy docs（フルスタック 4337 embedded wallet）— https://docs.privy.io/
+- Privy and Stripe: Bringing crypto to everyone（買収公式発表）— https://privy.io/blog/announcing-our-acquisition-by-stripe
+- Coinbase Developer Platform（CDP Wallets / Smart Wallet）— https://docs.cdp.coinbase.com/
+- Alchemy aa-sdk（Account Kit / Modular Account）— https://github.com/alchemyplatform/aa-sdk
+- Safe{Core} SDK（4337 + Modular Safe）— https://github.com/safe-global/safe-core-sdk
+- Pimlico permissionless.js（Bundler / Paymaster インフラ）— https://github.com/pimlicolabs/permissionless.js
+- Canton Network（JPM Kinexys の非 EVM 路線）— https://www.canton.network/

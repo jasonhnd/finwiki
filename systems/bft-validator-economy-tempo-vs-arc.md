@@ -8,7 +8,11 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [systems, validator, tempo, arc, institutional-chain, poa, progressive-decentralization]
-sources: []
+sources:
+  - https://tempo.xyz/
+  - https://www.arc.io/
+  - https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance
+  - https://www.canton.network/
 status: candidate
 ---
 
@@ -72,4 +76,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Tempo 公式サイト（4 外部 validator / 決済 L1 設計）— https://tempo.xyz/
+- Arc 公式サイト（Circle 機関級 L1）— https://www.arc.io/
+- Circle「Introducing Arc」公式発表（漸進的非中央集権化 / Malachite）— https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance
+- Canton Network（Kinexys 系の許可型機関チェーン）— https://www.canton.network/
 

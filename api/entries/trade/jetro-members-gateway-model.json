@@ -21,13 +21,17 @@
       "trade"
     ],
     "status": "confirmed",
-    "sources": []
+    "sources": [
+      "https://www.jetro.go.jp/members/",
+      "https://www.jetro.go.jp/jetro/profile/"
+    ]
   },
   "summary": "This entry sits under JETRO は会員組織ではなく経産省傘下の独立行政法人 and should be read with FinWiki index.",
   "headings": [
     "JETRO Members 有料会員制は B2B 提案の入口ゲート",
     "Wiki route",
     "入会後の利用範囲",
+    "Sources",
     "Related"
   ],
   "body_links": {
@@ -56,9 +60,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1359,
-    "word_like_tokens": 185,
+    "nonspace_chars": 1578,
+    "word_like_tokens": 218,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-05-29"
   }
 }

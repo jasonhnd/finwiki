@@ -32,7 +32,13 @@
       "vitalik"
     ],
     "status": "candidate",
-    "sources": []
+    "sources": [
+      "https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698",
+      "https://vitalik.eth.limo/general/2021/01/05/rollup.html",
+      "https://eips.ethereum.org/EIPS/eip-4844",
+      "https://eips.ethereum.org/EIPS/eip-7702",
+      "https://ethereum.org/en/roadmap/"
+    ]
   },
   "summary": "This entry sits under systems index. Read it against ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード for peer / contrast context and fintech index for the broader system / regulatory boundary.",
   "headings": [
@@ -78,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2886,
-    "word_like_tokens": 480,
+    "nonspace_chars": 3651,
+    "word_like_tokens": 608,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-05-29"
   }
 }

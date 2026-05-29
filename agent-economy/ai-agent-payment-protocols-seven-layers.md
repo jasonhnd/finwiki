@@ -8,7 +8,13 @@ last_tended: 2026-05-26
 review_by: 2026-11-18
 confidence: likely
 tags: [agent-economy, ai-agent, payments, protocol-stack, ap2, x402, mcp, a2a]
-sources: []
+sources:
+  - https://github.com/google-agentic-commerce/AP2
+  - https://github.com/coinbase/x402
+  - https://github.com/modelcontextprotocol/modelcontextprotocol
+  - https://github.com/a2aproject/A2A
+  - https://www.agentcommercekit.com/overview/concepts
+  - https://docs.skyfire.xyz/
 status: candidate
 ---
 
@@ -59,4 +65,11 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- Google AP2（意図層 · Intent / Cart / Payment mandate · VC + DPK 署名）— https://github.com/google-agentic-commerce/AP2
+- Coinbase x402（伝送層 · HTTP 402 per-call マイクロペイメント）— https://github.com/coinbase/x402
+- Model Context Protocol（文脈層 · server-tool インタフェース）— https://github.com/modelcontextprotocol/modelcontextprotocol
+- Agent2Agent (A2A) Protocol（文脈層 · agent-agent 通信）— https://github.com/a2aproject/A2A
+- Agent Commerce Kit（Catena Labs · ACP 系の意図 / 決済設計）— https://www.agentcommercekit.com/overview/concepts
+- Skyfire Developer Docs（SPT 系 · Identity and Payments for AI）— https://docs.skyfire.xyz/
 
