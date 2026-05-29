@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-30T01:23:13+09:00
+Generated: 2026-05-30T03:25:23+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1449
 Public pages listed: 1448
@@ -3218,7 +3218,7 @@ Public pages listed: 1448
 - Domain: JapanFG
 - Type: wiki_entry
 - Summary: This entry sits under the JapanFG index as the FG-subsidiary leasing operating-company anchor for めぶき FG. Read it against parent operating banks 常陽銀行 / 足利銀行 and sibling subsidiary めぶき証券. Peer comparison: 北海道リース (北洋・北海道銀行系) and major lessor 三菱 HC キャピタル / みずほリース. For broader system route see regional-
-- Headings: めぶきリース (Mebuki Lease), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 旧 常陽リース系譜（母体）, 足利銀行系リース機能との関係 — 要再確認, めぶき FG 設立とグループ統合
+- Headings: めぶきリース (Mebuki Lease), Wiki route, TL;DR, 1. License / group boundary, 2. 持株ツリー, 旧 常陽リース系譜（母体）, 足利銀行系リース機能との関係 — 確定（2026-05-30 検証）, めぶき FG 設立とグループ統合
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/ashikaga-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fuyo-lease, https://finwiki.zksc.io/hokkaido-lease, https://finwiki.zksc.io/ja-mitsui-leasing, https://finwiki.zksc.io/joyo-bank, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mebuki-securities, https://finwiki.zksc.io/mitsubishi-hc-capital, https://finwiki.zksc.io/mizuho-lease
 
 ### めぶき証券 (Mebuki Securities)
@@ -8099,7 +8099,7 @@ Public pages listed: 1448
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 for the registration framework, JP VASP M&A 史 for entity consolidation context, and FSA 海外無登録警告書制度 for the unregistered foreign-operator side.
 - Headings: FSA crypto operator registry — snapshot delta log, Wiki route, 目的, 記録テンプレート（snapshot 単位）, YYYY-MM-DD snapshot delta, 既知の主要 snapshot 変動履歴（過去 2 年）, 更新ワークフロー, JVCEA 会員一覧との突合
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study, https://finwiki.zksc.io/exchanges/jp-exchange-XXX, https://finwiki.zksc.io/exchanges/jp-exchange-bitbank, https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis, https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history, https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map, https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline, https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system, https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system, https://finwiki.zksc.io/exchanges/ftx-japan-100pct-return-case-study, https://finwiki.zksc.io/exchanges/jp-exchange-XXX, https://finwiki.zksc.io/exchanges/jp-exchange-bitbank, https://finwiki.zksc.io/exchanges/jp-exchange-custodiem, https://finwiki.zksc.io/exchanges/jp-exchange-dmm-bitcoin, https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis, https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade, https://finwiki.zksc.io/exchanges/jp-vasp-ma-consolidation-history
 
 ### FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件
 - URL: https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system
