@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-30T03:25:23+09:00",
+  "generated_at": "2026-05-31T00:09:58+09:00",
   "counts": {
     "markdown_files": 1449,
     "public_markdown_pages": 1448,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9820433,
-    "word_like_tokens": 1559177
+    "nonspace_utf8_chars": 9820301,
+    "word_like_tokens": 1559153
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -83735,9 +83735,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2101,
-      "word_like_tokens": 398,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 1969,
+      "word_like_tokens": 374,
+      "last_modified": "2026-05-31"
     }
   ]
 }

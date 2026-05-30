@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 3 |
+| Changed or new entries in current worktree | 0 |
 
 ## Wiki Linking Standard
 
@@ -31,9 +31,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/mebuki-lease.md` | `M` | 50 | ok |
-| `exchanges/fsa-snapshot-delta-log.md` | `M` | 23 | ok |
-| `exchanges/jp-exchange-bitflyer.md` | `M` | 8 | ok |
 
 ## Domain Snapshot
 
