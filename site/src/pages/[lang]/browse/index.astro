@@ -2,6 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
+import { domainName } from '../../../i18n/domains';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -22,7 +23,7 @@ const domains = [...byDomain.keys()].sort();
   <p class="count">{all.length} entries · {domains.length} domains</p>
   {domains.map((d) => (
     <section id={d} class="dom">
-      <h2>{d} <span class="dn">{byDomain.get(d)!.length}</span></h2>
+      <h2>{domainName(d, lang)} <span class="dn">{byDomain.get(d)!.length}</span></h2>
       <ul>
         {byDomain.get(d)!.map((e) => (
           <li><a href={u(lang, e.id + '/')}>{e.data.title}</a></li>
