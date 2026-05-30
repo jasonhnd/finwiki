@@ -8,7 +8,7 @@ import remarkProvenance from './src/plugins/remark-provenance.mjs';
 export default defineConfig({
   site: 'https://finwiki.zksc.io',
   base: '/app/', // サブパス配信：主站(/)を一切触らず finwiki.zksc.io/app/ に人類版を載せる
-  outDir: '../app', // build 出力を repo ルートの app/ へ → GitHub Pages(main/root) が /app/ で配信
+  outDir: 'dist', // build 出力は site/dist（gitignore 済）。GitHub Actions が _site/app へ配置して配信
   build: { format: 'directory' },
   markdown: {
     remarkPlugins: [remarkWikilink, remarkProvenance],
