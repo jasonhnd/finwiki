@@ -54,7 +54,8 @@ export function verify(masked, translatedMasked) {
   const want = (masked.match(PH_RE) || []).slice().sort();
   const got = (translatedMasked.match(PH_RE) || []).slice().sort();
   const placeholdersOk = want.length === got.length && want.every((v, k) => v === got[k]);
-  const junk = /——\s*此处改回|改回[:：]|訳注|譯注|译注|translator'?s? note|\(注[:：]|（注[:：]|<!--/i.test(
+  // 翻訳ジャンク(自己纠正/译者注)のみ検出。`<!-- -->` は本文の正規コメント(wiki-links:managed 等)なので除外。
+  const junk = /——\s*此处改回|改回[:：]|訳注|譯注|译注|translator'?s? note|\(注[:：]|（注[:：]/i.test(
     translatedMasked,
   );
   return {
