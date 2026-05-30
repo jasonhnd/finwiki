@@ -36,21 +36,23 @@ jobs:
         working-directory: site
         run: bun scripts/sync-corpus.ts
 
-      - name: Build human site (Astro → site/dist, base /app/)
+      - name: Build human site (Astro → site/dist, base /)
         working-directory: site
         run: bun run build
 
-      - name: Assemble publish dir (_site = 公開ルート + /app/)
+      - name: Assemble publish dir (_site = 人類版を根 + raw MD / AI surface 共存)
         run: |
           mkdir -p _site
-          rsync -a \
+          # 1) 人類版(Astro)を根に展開（index.html / ja,en,zh / _astro 資産）
+          cp -r site/dist/. _site/
+          # 2) corpus(raw MD) と AI surface を埋める。Astro 産物は --ignore-existing で上書きしない。
+          #    旧 index.html は Astro の root index で置き換えるため除外。
+          rsync -a --ignore-existing \
             --exclude='.git' --exclude='.github' --exclude='_site' \
             --exclude='site' --exclude='node_modules' --exclude='app' \
             --exclude='.opinions' --exclude='.templates' --exclude='tools' \
-            --exclude='releases' \
+            --exclude='releases' --exclude='index.html' \
             ./ _site/
-          mkdir -p _site/app
-          cp -r site/dist/. _site/app/
           test -f _site/.nojekyll || touch _site/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
