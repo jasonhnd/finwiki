@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../i18n/ui';
+import { domainName } from '../../i18n/domains';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -30,7 +31,7 @@ const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
   <div class="grid">
     {domains.map(([d, n]) => (
       <a class="card" href={u(lang, `browse/#${d}`)}>
-        <span class="d">{d}</span>
+        <span class="d">{domainName(d, lang)}</span>
         <span class="n">{n}</span>
       </a>
     ))}
