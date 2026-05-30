@@ -19,6 +19,7 @@ const opt = (n, d = null) => {
   return i >= 0 && args[i + 1] ? args[i + 1] : d;
 };
 const ONLY = opt('domain');
+const DOMAINS = ONLY ? ONLY.toLowerCase().split(',').map((s) => s.trim()) : null;
 const LIMIT = Number(opt('limit', '0')) || Infinity;
 const FORCE = args.includes('--force');
 
@@ -43,7 +44,7 @@ const list = [];
 for (const rel of walk(ENTRIES)) {
   if (n >= LIMIT) break;
   const relLc = rel.toLowerCase();
-  if (ONLY && !relLc.startsWith(ONLY.toLowerCase() + '/')) continue;
+  if (DOMAINS && !DOMAINS.some((d) => relLc.startsWith(d + '/'))) continue;
   const body = stripFm(readFileSync(join(ENTRIES, rel), 'utf8'));
   const h = sha(body);
   const allDone =
