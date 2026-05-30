@@ -2,3 +2,8 @@
 .ruff_cache/
 __pycache__/
 *.py[cod]
+
+# 人類版サイトのビルド成果物は git に入れない（GitHub Actions が CI で生成・配信）
+/app/
+/_site/
+site/dist/

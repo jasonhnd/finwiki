@@ -1,0 +1,68 @@
+name: Deploy FinWiki
+
+# corpus / site の変更を push するたびに、人類版(Astro)を CI で build し、
+# 既存の公開ルート(raw MD + AI surface + index.html)と合わせて GitHub Pages へ配信する。
+# 本地ビルドや成果物の git コミットは不要(産物は git に入れない)。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install site deps
+        working-directory: site
+        run: bun install
+
+      - name: Sync corpus into site
+        working-directory: site
+        run: bun scripts/sync-corpus.ts
+
+      - name: Build human site (Astro → site/dist, base /app/)
+        working-directory: site
+        run: bun run build
+
+      - name: Assemble publish dir (_site = 公開ルート + /app/)
+        run: |
+          mkdir -p _site
+          rsync -a \
+            --exclude='.git' --exclude='.github' --exclude='_site' \
+            --exclude='site' --exclude='node_modules' --exclude='app' \
+            --exclude='.opinions' --exclude='.templates' --exclude='tools' \
+            --exclude='releases' \
+            ./ _site/
+          mkdir -p _site/app
+          cp -r site/dist/. _site/app/
+          test -f _site/.nojekyll || touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
