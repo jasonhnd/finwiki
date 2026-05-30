@@ -25,6 +25,8 @@ IGNORED_DIRS = {
     ".opinions",
     "releases",
     "tools",
+    "site",
+    "app",
 }
 
 CONTROL_DOCS = {

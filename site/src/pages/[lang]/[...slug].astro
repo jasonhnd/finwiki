@@ -1,0 +1,21 @@
+---
+import EntryLayout from '../../layouts/EntryLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { langCodes, type Lang } from '../../i18n/ui';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('entries');
+  return langCodes.flatMap((lang) =>
+    entries.map((entry) => ({
+      params: { lang, slug: entry.id },
+      props: { entry, lang: lang as Lang },
+    })),
+  );
+}
+
+const { entry, lang } = Astro.props as { entry: any; lang: Lang };
+const { Content } = await render(entry);
+---
+<EntryLayout lang={lang} entry={entry}>
+  <Content />
+</EntryLayout>

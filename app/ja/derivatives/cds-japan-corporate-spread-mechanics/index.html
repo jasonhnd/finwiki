@@ -1,0 +1,588 @@
+<!DOCTYPE html><html lang="ja" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Japan corporate CDS spread mechanics · FinWiki</title><meta name="description" content="公開一次情報にもとづく、三言語・AI 可読の金融事実ベース。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/ja/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/ja/" data-astro-cid-5hce7sga>領域マップ</a> <a href="/app/ja/guide/" data-astro-cid-5hce7sga>読み方ガイド</a> <a href="/app/ja/matrices/" data-astro-cid-5hce7sga>比較マトリクス</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang active" href="/app/ja/derivatives/cds-japan-corporate-spread-mechanics/" hreflang="ja" aria-current="true" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/derivatives/cds-japan-corporate-spread-mechanics/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang" href="/app/zh/derivatives/cds-japan-corporate-spread-mechanics/" hreflang="zh" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/ja/">derivatives</a> <span class="badge">confidence: likely</span> <span class="badge">updated Mon May 25</span> <span class="badge">8 sources</span> </div> <h1>Japan corporate CDS spread mechanics</h1> <div class="prose"> <h1 id="japan-corporate-cds-spread-mechanics">Japan corporate CDS spread mechanics</h1>
+<h2 id="tldr">TL;DR</h2>
+<p>Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for default-contingent payment on a reference Japanese listed corporate. The spread decomposes into a credit risk premium (a function of expected default probability and assumed recovery) plus structural premia (basis to underlying bonds, dealer carry, regulatory capital cost). Japan corporate CDS prices off the <strong>sovereign-vs-corporate spread</strong>, with Japan sovereign CDS as the implicit credit-free anchor and individual corporate spreads layered on top. Credit-event triggers under 2014 ISDA Credit Derivatives Definitions cover <strong>bankruptcy, failure-to-pay, and restructuring</strong> (with Mod-R / Mod-Mod-R variants determining deliverable obligations). Recovery is determined by an <strong>ISDA-administered auction</strong> after a credit event. Life insurers and pension funds use CDS sparingly given ESR / accounting constraints, but credit-spread hedging via index CDS is a recurring topic in <span class="wl" data-target="insurance/japan-life-insurance-alm-overview">life ALM</span> discussions.</p>
+<h2 id="wiki-route">Wiki route</h2>
+<p>This entry sits under <span class="wl" data-target="derivatives/INDEX">derivatives index</span> as the spread-mechanics page that complements <span class="wl" data-target="derivatives/japan-cds-market-overview">Japan CDS market overview</span>. Read it together with <span class="wl" data-target="derivatives/basis-trade-bond-cds-japan">bond-CDS basis trade</span> for the arb structure, <span class="wl" data-target="derivatives/japan-irs-market">Japan IRS market</span> for the underlying yen rates curve, <span class="wl" data-target="derivatives/yen-basis-swap-market">yen basis swap market</span> for the JPY funding overlay, and <span class="wl" data-target="derivatives/cross-currency-basis-swap-japan">cross-currency basis swap Japan</span> for the USD overlay that dominates Japanese institutional funding.</p>
+<p>Cross-reference <span class="wl" data-target="finance/INDEX">finance index</span> and <span class="wl" data-target="finance/japan-convertible-bond-mechanics">Japan convertible bond mechanics</span> for the issuer-side credit context, <span class="wl" data-target="finance/japan-cross-shareholding-unwinding-economics">cross-shareholding unwinding economics</span> for the equity-credit linkage, <span class="wl" data-target="banking/INDEX">banking index</span> for the megabank dealer / counterparty role, <span class="wl" data-target="insurance/japan-life-insurance-alm-overview">Japan life insurance ALM</span> for the insurer credit-hedging use case, and <span class="wl" data-target="securities/japan-prime-brokerage-and-institutional-financing">prime brokerage and institutional financing</span> for the dealer-to-fund plumbing.</p>
+<h3 id="building-blocks">Building blocks</h3>
+<p>A Japan single-name corporate CDS spread <em>S(corp)</em> over horizon T can be conceptually decomposed:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="plaintext"><code><span class="line"><span>S(corp, T) ≈ S(sovereign, T) + S(sector, T) + S(idiosyncratic, T) + basis_adjustment</span></span></code></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Component</th><th>Driver</th></tr></thead><tbody><tr><td>Sovereign baseline <em>S(sovereign, T)</em></td><td>Japan sovereign CDS spread at horizon T; near-zero for short tenors, modestly positive at 5Y / 10Y</td></tr><tr><td>Sector premium <em>S(sector, T)</em></td><td>Sector-level credit factor (financials vs industrials vs telecoms, etc.)</td></tr><tr><td>Idiosyncratic component <em>S(idiosyncratic, T)</em></td><td>Firm-specific leverage, cash-flow stability, governance, M&#x26;A profile</td></tr><tr><td>Basis adjustment</td><td>CDS-bond basis driven by dealer balance sheet, repo specials, regulatory cost — see [[derivatives/basis-trade-bond-cds-japan</td></tr></tbody></table>
+<p>This decomposition is conceptual, not algebraic. Market practice fits the corporate CDS curve directly via market quotes rather than building up from components.</p>
+<h3 id="risk-neutral-default-probability">Risk-neutral default probability</h3>
+<p>The CDS spread implies a risk-neutral hazard rate (or term structure of hazard rates):</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="plaintext"><code><span class="line"><span>Risk-neutral default probability (per period) ≈ S / (1 - R)</span></span></code></pre>
+<p>where S is the running spread and R is the assumed recovery rate. For investment-grade Japan corporates with assumed R = 40 percent:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>5Y CDS spread (bps)</th><th>Implied 5Y risk-neutral default probability</th></tr></thead><tbody><tr><td>25 bps</td><td>~2.0 percent</td></tr><tr><td>50 bps</td><td>~4.1 percent</td></tr><tr><td>100 bps</td><td>~8.0 percent</td></tr><tr><td>200 bps</td><td>~15.5 percent</td></tr><tr><td>500 bps</td><td>~34 percent</td></tr><tr><td>1000 bps</td><td>~57 percent</td></tr></tbody></table>
+<p>Risk-neutral default probability is not actual default probability; it embeds risk premium and liquidity premium. Historical default rates for IG Japan corporates are far below these risk-neutral implied levels under normal conditions.</p>
+<h3 id="recovery-rate-assumption">Recovery rate assumption</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Reference obligation type</th><th>Standard assumed recovery</th></tr></thead><tbody><tr><td>Senior unsecured corporate (most Japan IG)</td><td>40 percent</td></tr><tr><td>Subordinated corporate</td><td>25 percent</td></tr><tr><td>Bank senior preferred</td><td>40 percent</td></tr><tr><td>Bank senior non-preferred / Tier 2</td><td>25-40 percent depending on jurisdiction</td></tr><tr><td>Sovereign (developed market)</td><td>40 percent (Japan)</td></tr></tbody></table>
+<p>The 40 percent assumption is conventional, not market-implied. Post-credit-event auction determines actual recovery (described below).</p>
+<h2 id="credit-events-under-2014-isda-definitions">Credit events under 2014 ISDA Definitions</h2>
+<p>The 2014 ISDA Credit Derivatives Definitions specify the credit events that trigger CDS settlement. For Japan corporate CDS, three credit events are standard:</p>
+<h3 id="bankruptcy">Bankruptcy</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Trigger</th><th>Description</th></tr></thead><tbody><tr><td>Filing for civil rehabilitation (民事再生)</td><td>Japanese in-court rehabilitation procedure for corporates</td></tr><tr><td>Filing for corporate reorganization (会社更生)</td><td>Japanese in-court reorganization for larger corporates</td></tr><tr><td>Special liquidation (特別清算)</td><td>Court-supervised liquidation</td></tr><tr><td>Foreign bankruptcy proceeding</td><td>If reference entity has foreign jurisdictional insolvency event</td></tr><tr><td>General dissolution / liquidation</td><td>Voluntary or involuntary dissolution</td></tr></tbody></table>
+<p>Bankruptcy is the cleanest trigger. The ISDA Determinations Committee (DC) decides whether a filed event qualifies, and announces credit event determination publicly.</p>
+<h3 id="failure-to-pay">Failure to pay</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Trigger</th><th>Description</th></tr></thead><tbody><tr><td>Payment default</td><td>Failure to make scheduled payment on any obligation above threshold (typically USD 1 million equivalent) after grace period</td></tr><tr><td>Grace period</td><td>Standard grace period typically 3 business days unless contractual grace period applies</td></tr><tr><td>Cure period</td><td>Optional cure period before triggering</td></tr></tbody></table>
+<p>For Japan corporates, scheduled bond or loan payments missed after grace period qualify, subject to DC determination.</p>
+<h3 id="restructuring-and-variants">Restructuring (and variants)</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Variant</th><th>Coverage</th></tr></thead><tbody><tr><td>Full Restructuring (R)</td><td>Original 1999 Definitions; broad coverage of debt-restructuring events</td></tr><tr><td>Modified Restructuring (Mod-R)</td><td>US convention; deliverable obligation maturity capped at 30 months from credit event</td></tr><tr><td>Modified-Modified Restructuring (Mod-Mod-R)</td><td>European / Japan convention; deliverable obligation maturity capped at 60 months</td></tr><tr><td>No Restructuring (No-R)</td><td>US post-2009; eliminates restructuring as credit event</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Restructuring trigger</th><th>Detail</th></tr></thead><tbody><tr><td>Coupon reduction</td><td>Reduction of agreed coupon</td></tr><tr><td>Principal reduction</td><td>Reduction of principal amount</td></tr><tr><td>Maturity extension</td><td>Extension of payment date</td></tr><tr><td>Subordination</td><td>Change in payment priority</td></tr><tr><td>Currency change</td><td>Change to non-permitted currency</td></tr></tbody></table>
+<p>Japan corporate CDS conventionally trades with <strong>Mod-Mod-R</strong> (Modified-Modified Restructuring), aligned with European market convention. The Mod-Mod-R cap on deliverable-obligation maturity reduces the “cheapest-to-deliver” optionality that broad Restructuring creates.</p>
+<h3 id="governmental-intervention-banks">Governmental intervention (banks)</h3>
+<p>For Japan financial-institution CDS, the 2014 Definitions added a <strong>Governmental Intervention</strong> credit event covering bail-in and resolution actions:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Event</th><th>Trigger</th></tr></thead><tbody><tr><td>Bail-in</td><td>Statutory write-down or conversion of debt instruments</td></tr><tr><td>Resolution authority action</td><td>Transfer of obligations or imposition of haircut by competent authority</td></tr><tr><td>Forced asset sale</td><td>Compelled disposal that constitutes credit-event equivalent</td></tr></tbody></table>
+<p>This is relevant for <span class="wl" data-target="JapanFG/mufg">MUFG</span>, <span class="wl" data-target="JapanFG/sumitomo-mitsui-banking-corp">SMBC</span> (via SMFG), <span class="wl" data-target="JapanFG/mizuho-bank">Mizuho</span> (via Mizuho FG), and other Japan financial-institution CDS, where bank resolution under the Deposit Insurance Act and broader resolution framework matters for protection coverage.</p>
+<h2 id="isda-determinations-committee-dc-process">ISDA Determinations Committee (DC) process</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Stage</th><th>Activity</th></tr></thead><tbody><tr><td>Event report</td><td>Market participant submits question to ISDA DC</td></tr><tr><td>DC review</td><td>DC reviews event vs published criteria within published timeline</td></tr><tr><td>Public announcement</td><td>DC issues binding determination on credit event yes / no</td></tr><tr><td>Auction or settlement decision</td><td>DC decides whether to convene auction</td></tr><tr><td>Auction administration</td><td>If auction convened, conducted via Creditex / Markit administered process</td></tr><tr><td>Final price</td><td>Auction-determined final price published</td></tr></tbody></table>
+<p>The DC is a permanent committee composed of major dealer and buy-side firms by region (Americas, EMEA, Asia ex-Japan, Japan, Australia / New Zealand). For Japan reference entities, the relevant DC includes major Japan-active dealers.</p>
+<p>DC determinations are publicly published on the ISDA Credit Derivatives Determinations Committees website and are binding for standard ISDA-documented CDS contracts.</p>
+<h2 id="recovery-rate-auction-mechanics">Recovery rate auction mechanics</h2>
+<p>After a credit event, the ISDA-administered auction sets the recovery rate used for cash-settled CDS:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Stage</th><th>Activity</th></tr></thead><tbody><tr><td>Auction announcement</td><td>ISDA / Creditex announces auction date and list of deliverable obligations</td></tr><tr><td>Initial bidding (Stage 1)</td><td>Participating bidders submit two-way markets; initial market midpoint calculated</td></tr><tr><td>Open interest published</td><td>Direction (buy or sell) of net open interest published</td></tr><tr><td>Limit order book (Stage 2)</td><td>Bidders submit limit orders to fill open interest</td></tr><tr><td>Final price</td><td>Auction-clearing price set; this is the “recovery rate” used for cash settlement</td></tr></tbody></table>
+<p>Cash settlement: protection seller pays protection buyer (Notional) × (1 - Final Price). E.g. if final auction price is 35, recovery is 35 percent and protection seller pays 65 percent of notional.</p>
+<p>Physical settlement (legacy and optional under most current contracts) involves delivery of qualifying obligations against payment of par. Most modern CDS contracts default to cash settlement via auction.</p>
+<h2 id="japan-specific-auction-history">Japan-specific auction history</h2>
+<p>Japan corporate credit events triggering ISDA auctions are infrequent. Historical episodes include:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Period</th><th>Reference entity type</th><th>Auction outcome (illustrative pattern)</th></tr></thead><tbody><tr><td>2010</td><td>Japan Airlines</td><td>Bankruptcy filing triggered credit event; auction set recovery</td></tr><tr><td>2010</td><td>Takefuji</td><td>Consumer finance bankruptcy; auction recovery reflected unsecured-creditor outlook</td></tr><tr><td>2012-2015</td><td>Various small-cap restructurings</td><td>Limited CDS coverage; small DC activity</td></tr><tr><td>2017</td><td>Toshiba (no formal credit event)</td><td>Market priced near-credit-event risk through CDS spread; no auction triggered</td></tr><tr><td>2020-2024</td><td>COVID and post-COVID period</td><td>No major Japan IG credit event; few small-cap distress cases without significant CDS exposure</td></tr></tbody></table>
+<p>The infrequency of Japan IG credit events reflects the combination of low underlying default rate, strong bank-creditor support, and out-of-court workout norms.</p>
+<h2 id="basis-to-jgb-benchmark">Basis to JGB benchmark</h2>
+<p>The CDS spread is typically compared to the corporate’s bond spread over the <strong>JGB benchmark curve</strong> at matched tenor:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Measure</th><th>Calculation</th></tr></thead><tbody><tr><td>Z-spread to JGB</td><td>Constant spread added to JGB curve such that discounted cash flows match bond price</td></tr><tr><td>Asset swap spread</td><td>Spread vs swap curve; for Japan, typically vs TONA swap curve</td></tr><tr><td>CDS-bond basis</td><td>CDS spread - corresponding bond spread</td></tr><tr><td>Negative basis</td><td>CDS spread &#x3C; bond spread; long-cash-short-CDS trade attractive</td></tr><tr><td>Positive basis</td><td>CDS spread > bond spread; short-cash-long-CDS trade attractive</td></tr></tbody></table>
+<p><span class="wl" data-target="derivatives/basis-trade-bond-cds-japan">Bond-CDS basis trade</span> develops the basis-trade economics in detail, including funding cost, repo availability, and balance-sheet constraints.</p>
+<p>For Japan IG corporates, the basis is typically narrow but can widen during stress episodes (COVID Q1 2020, BOJ YCC adjustments in 2022-2023) when dealer balance-sheet capacity contracts or specific JGB repo dynamics shift relative-value pricing.</p>
+<h2 id="sector-spread-patterns">Sector spread patterns</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Sector</th><th>Spread character</th></tr></thead><tbody><tr><td>Megabank financials (MUFG, SMBC, Mizuho)</td><td>Modest 5Y spreads under normal conditions; episodic widening during global bank stress (2023 SVB / Credit Suisse, 2024 regional bank stress)</td></tr><tr><td>Large life / non-life insurers</td><td>Modest 5Y spreads; sensitivity to BOJ rate path and ESR profile</td></tr><tr><td>Trading houses (sogo shosha)</td><td>Modest 5Y spreads; commodity-cycle sensitivity in cyclical periods</td></tr><tr><td>Auto / industrial blue-chips</td><td>Low 5Y spreads in stable conditions; episodic widening on EV-transition stress</td></tr><tr><td>Telecoms / utilities</td><td>Wide range; TEPCO post-2011 sustained elevated levels for years</td></tr><tr><td>Real estate</td><td>Sensitive to interest-rate cycle and J-REIT funding conditions</td></tr><tr><td>SoftBank Group</td><td>Persistently the widest IG-or-crossover Japan name; Vision Fund mark-to-market drives episodic spread spikes</td></tr></tbody></table>
+<p>SoftBank Group CDS is the most-traded Japan non-financial single-name CDS by a wide margin, reflecting its leverage profile, M&#x26;A history, and equity-volatility linkage.</p>
+<h3 id="life-insurer-and-pension-fund">Life insurer and pension fund</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Use case</th><th>Detail</th></tr></thead><tbody><tr><td>Credit-spread hedging</td><td>Portfolio-level CDS index hedge for credit-spread shock</td></tr><tr><td>Sector hedging</td><td>Sector-tranche CDS overlay (limited liquidity in Japan)</td></tr><tr><td>Single-name negative-view hedging</td><td>Selective single-name CDS protection on holdings of concern</td></tr><tr><td>Synthetic credit exposure</td><td>Selling CDS protection to gain credit exposure without bond purchase</td></tr></tbody></table>
+<p>In practice, Japanese life insurers and pension funds use CDS sparingly due to:</p>
+<ul>
+<li>ESR accounting treatment that complicates hedge-effectiveness designation;</li>
+<li>JGAAP / IFRS 9 hedge-accounting requirements;</li>
+<li>internal risk-management governance constraints;</li>
+<li>liquidity constraints in single-name Japan CDS below Tier 1 names.</li>
+</ul>
+<p>See <span class="wl" data-target="insurance/japan-life-insurance-alm-overview">Japan life insurance ALM</span> for the broader hedging-toolkit context.</p>
+<h3 id="bank-dealer-and-treasury">Bank dealer and treasury</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Use case</th><th>Detail</th></tr></thead><tbody><tr><td>Market-making</td><td>Inventory hedging on dealer book</td></tr><tr><td>Counterparty credit risk hedging</td><td>CDS on dealer counterparties (CVA hedging)</td></tr><tr><td>Own-name hedging</td><td>Limited; own-credit hedging accounting issues</td></tr><tr><td>Sovereign basis trades</td><td>Hedging JGB cross-currency basis exposure</td></tr></tbody></table>
+<p>CVA (credit valuation adjustment) hedging is a regulatory and accounting driver for dealer CDS demand, particularly on financial counterparty names.</p>
+<h3 id="hedge-fund">Hedge fund</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Use case</th><th>Detail</th></tr></thead><tbody><tr><td>Outright credit view</td><td>Buy / sell single-name CDS on directional view</td></tr><tr><td>Relative value</td><td>Long / short across CDS curve or across names</td></tr><tr><td>Capital-structure arb</td><td>CDS vs equity, CDS vs CB, CDS vs preferred</td></tr><tr><td>Basis trade</td><td>Long-cash-short-CDS for negative basis or vice versa — see [[derivatives/basis-trade-bond-cds-japan</td></tr><tr><td>Index arb</td><td>iTraxx Japan vs constituent single-name CDS</td></tr></tbody></table>
+<p>Capital-structure arbitrage is a recurring strategy in Japan given the active convertible-bond market — see <span class="wl" data-target="finance/japan-convertible-bond-mechanics">Japan convertible bond mechanics</span>.</p>
+<h3 id="structured-product-issuer">Structured product issuer</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Use case</th><th>Detail</th></tr></thead><tbody><tr><td>Credit-linked note (CLN) hedging</td><td>Issuer hedges by buying CDS protection on the reference name</td></tr><tr><td>Synthetic CDO</td><td>Pool-level CDS positions packaged into tranches</td></tr><tr><td>Bespoke credit products for retail / institutional</td><td>Single-name or basket CDS exposure embedded in note format</td></tr></tbody></table>
+<p>CLN issuance and hedging is a recurring driver of single-name CDS protection-buying demand, contributing to occasional supply-demand imbalances on individual names. This intersects with the <span class="wl" data-target="derivatives/structured-bond-japan-retail-issuance">structured bond Japan retail issuance</span> market.</p>
+<h2 id="related">Related</h2>
+<ul>
+<li><span class="wl" data-target="derivatives/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="derivatives/japan-cds-market-overview">japan-cds-market-overview</span></li>
+<li><span class="wl" data-target="derivatives/basis-trade-bond-cds-japan">basis-trade-bond-cds-japan</span></li>
+<li><span class="wl" data-target="derivatives/structured-bond-japan-retail-issuance">structured-bond-japan-retail-issuance</span></li>
+<li><span class="wl" data-target="derivatives/structured-product-eb-knockin-japan-retail">structured-product-eb-knockin-japan-retail</span></li>
+<li><span class="wl" data-target="derivatives/japan-irs-market">japan-irs-market</span></li>
+<li><span class="wl" data-target="derivatives/yen-basis-swap-market">yen-basis-swap-market</span></li>
+<li><span class="wl" data-target="derivatives/cross-currency-basis-swap-japan">cross-currency-basis-swap-japan</span></li>
+<li><span class="wl" data-target="finance/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="finance/japan-convertible-bond-mechanics">japan-convertible-bond-mechanics</span></li>
+<li><span class="wl" data-target="finance/japan-cross-shareholding-unwinding-economics">japan-cross-shareholding-unwinding-economics</span></li>
+<li><span class="wl" data-target="banking/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="insurance/japan-life-insurance-alm-overview">japan-life-insurance-alm-overview</span></li>
+<li><span class="wl" data-target="securities/japan-prime-brokerage-and-institutional-financing">japan-prime-brokerage-and-institutional-financing</span></li>
+<li><span class="wl" data-target="JapanFG/mufg">mufg</span></li>
+<li><span class="wl" data-target="JapanFG/sumitomo-mitsui-banking-corp">sumitomo-mitsui-banking-corp</span></li>
+<li><span class="wl" data-target="JapanFG/mizuho-bank">mizuho-bank</span></li>
+<li><span class="wl" data-target="JapanFG/nomura-hd">nomura-hd</span></li>
+<li><span class="wl" data-target="JapanFG/goldman-sachs-japan">goldman-sachs-japan</span></li>
+<li><span class="wl" data-target="JapanFG/morgan-stanley-japan">morgan-stanley-japan</span></li>
+<li><span class="wl" data-target="INDEX">FinWiki index</span></li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>ISDA: 2014 Credit Derivatives Definitions public materials.</li>
+<li>ISDA Credit Derivatives Determinations Committees: published determinations and process documentation.</li>
+<li>Creditex / Markit (auction administrators): auction results and methodology.</li>
+<li>FSA: derivatives regulation, post-crisis CDS reforms, follow-up council materials.</li>
+<li>BOJ: yen funding and credit statistics.</li>
+<li>MOF: JGB benchmark curve and issuance materials.</li>
+<li>JSCC: CDS clearing service materials.</li>
+<li>JSDA: member-firm regulatory materials.</li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</footer>  </body> </html> 

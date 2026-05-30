@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>ERC-4337 UserOp/Bundler/EntryPoint フロー詳解 · FinWiki</title><meta name="description" content="A trilingual, AI-readable financial fact base built on public primary sources."><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/en/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/en/" data-astro-cid-5hce7sga>Domain map</a> <a href="/app/en/guide/" data-astro-cid-5hce7sga>Reading guide</a> <a href="/app/en/matrices/" data-astro-cid-5hce7sga>Comparison matrices</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang" href="/app/ja/systems/erc-4337-userop-bundler-flow/" hreflang="ja" data-astro-cid-su6xvggn>日本語</a><a class="lang active" href="/app/en/systems/erc-4337-userop-bundler-flow/" hreflang="en" aria-current="true" data-astro-cid-su6xvggn>English</a><a class="lang" href="/app/zh/systems/erc-4337-userop-bundler-flow/" hreflang="zh" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/en/">systems</a> <span class="badge">confidence: certain</span> <span class="badge">updated Tue May 26</span> <span class="badge">1 sources</span> </div> <h1>ERC-4337 UserOp/Bundler/EntryPoint フロー詳解</h1> <div class="prose"> <h1 id="erc-4337-useropbundlerentrypoint-フロー詳解">ERC-4337 UserOp/Bundler/EntryPoint フロー詳解</h1>
+<h2 id="wiki-route">Wiki route</h2>
+<p>This entry sits under <span class="wl" data-target="systems/INDEX">systems index</span>. Read it against <span class="wl" data-target="systems/erc-4337-overview">ERC-4337 概観 · Account Abstraction のアプリケーション層実装</span> for peer / contrast context and <span class="wl" data-target="fintech/INDEX">fintech index</span> for the broader system / regulatory boundary.</p>
+<h2 id="key-facts">Key facts</h2>
+<ul>
+<li>UserOp はトランザクションではなく · Bundler によってパッケージされる sub-unit である <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>Bundler は block builder に類似 · ただし UserOp mempool で動作する <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>EntryPoint はシングルトン契約 · すべての UserOp が必ず通過する入口 <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>Paymaster はオプションの契約 · gas を代行支払いするか ERC-20 での gas 支払いを受け付ける <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>Aggregator はオプション · 複数署名をバッチ検証(BLS / その他) <sup class="prov prov-extracted" title="extracted"></sup></li>
+</ul>
+<h2 id="mechanism--how-it-works">Mechanism / How it works</h2>
+<p><strong>エンドツーエンドフロー(典型的な USDC gas 代行支払いシナリオ)</strong>:</p>
+<ol>
+<li>
+<p><strong>ユーザーが UserOp を構築</strong>:ユーザー(または dApp)が UserOperation オブジェクトを生成:</p>
+<ul>
+<li><code>sender</code>(SCW アドレス)</li>
+<li><code>nonce</code></li>
+<li><code>callData</code>(具体的な呼び出し · 例:USDC.transfer)</li>
+<li><code>callGasLimit</code> / <code>verificationGasLimit</code> / <code>preVerificationGas</code></li>
+<li><code>maxFeePerGas</code> / <code>maxPriorityFeePerGas</code></li>
+<li><code>paymasterAndData</code>(Paymaster を使う場合)</li>
+<li><code>signature</code>(SCW オーナーの署名)</li>
+</ul>
+</li>
+<li>
+<p><strong>UserOp を alt-mempool に送信</strong>:ユーザーは Bundler RPC(<code>eth_sendUserOperation</code>)経由で送信</p>
+</li>
+<li>
+<p><strong>Bundler がシミュレーション + パッケージング</strong>:Bundler はローカルで状態を fork して UserOp を実行 · gas 見積もりが正しいことを確認 · その後 N 個の UserOp を標準トランザクション 1 件にパッケージして EntryPoint.handleOps() を呼び出す</p>
+</li>
+<li>
+<p><strong>EntryPoint が実行</strong>:</p>
+<ul>
+<li>SCW factory をコールして SCW をデプロイ(SCW がまだ存在しない場合)</li>
+<li>SCW.validateUserOp() をコールして署名 + nonce を検証</li>
+<li>Paymaster.validatePaymasterUserOp() をコールして Paymaster の代行支払い同意を検証</li>
+<li>callData(主たる業務ロジック)を実行</li>
+<li>gas を精算:Paymaster から徴収 / Bundler に支払い</li>
+</ul>
+</li>
+<li>
+<p><strong>オンチェーンの結果</strong>:ユーザーは SCW の実行結果を確認できる · ETH を保有する必要はない</p>
+</li>
+</ol>
+<p><strong>コアイノベーションのポイント</strong>:UserOp がトランザクションでないことにより、Bundler は「バッチ処理最適化」を行える —— 10 件の UserOp を 1 件のトランザクションにパッケージし · オンチェーンの base cost を分散させる。</p>
+<h2 id="origin--evolution">Origin &#x26; evolution</h2>
+<p>UserOp 構造は 4337 ドラフト期間中(2021-2022)に複数回イテレーションされ —— 初期バージョンにはより多くのフィールド(<code>wallet</code>、<code>initCode</code> 分離など)があったが · 後に現在の形に簡素化された。v0.6(2023-03 公開バージョン)→ v0.7(2026)での主な簡素化:</p>
+<ul>
+<li><code>initCode</code> を <code>sender</code> 生成ロジックに統合</li>
+<li>Paymaster フィールドを calldata から切り出して明示化</li>
+<li>gas オーバーヘッドを 20-30% 削減</li>
+</ul>
+<p>Bundler の経済モデルは v0.7 以降で priority fee オークションメカニズムを導入し · 初期の「Bundler が収益化困難」という問題を緩和している。</p>
+<h2 id="related">Related</h2>
+<!-- wiki-links:managed -->
+<ul>
+<li><span class="wl" data-target="INDEX">Wiki Index</span></li>
+<li><span class="wl" data-target="systems/erc-4337-overview">ERC-4337 Overview</span></li>
+<li><span class="wl" data-target="systems/erc-4337-embedded-wallet-adoption">Embedded Wallet Adoption</span></li>
+<li><span class="wl" data-target="systems/erc-7702-overview">ERC-7702</span></li>
+</ul>
+<!-- /wiki-links:managed -->
+<h2 id="sources">Sources</h2>
+<ul>
+<li>ERC-4337 EIP v0.6 / v0.7 spec</li>
+<li>ERC-4337 (Account Abstraction) — <a href="https://eips.ethereum.org/EIPS/eip-4337">https://eips.ethereum.org/EIPS/eip-4337</a></li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>A public-source financial knowledge base. Every fact traces back to the sources cited in each entry.</footer>  </body> </html> 
