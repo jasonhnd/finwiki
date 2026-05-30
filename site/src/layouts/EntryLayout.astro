@@ -1,22 +1,28 @@
 ---
 import Base from './Base.astro';
 import { u, type Lang } from '../i18n/ui';
-interface Props { lang: Lang; entry: any }
-const { lang, entry } = Astro.props;
+interface Props { lang: Lang; entry: any; tr?: any }
+const { lang, entry, tr } = Astro.props;
 const fm = entry.data ?? {};
 const domain = fm.domain ?? entry.id.split('/')[0];
 const sources = Array.isArray(fm.sources) ? fm.sources : [];
 const updated = fm.last_updated ? String(fm.last_updated).slice(0, 10) : null;
+const title = (tr?.data?.title && String(tr.data.title)) || fm.title;
+const machine = !!tr && tr.data?.status === 'machine';
+const needsReview = tr?.data?.fidelity === 'needs_review';
+const origHref = lang !== 'ja' ? u('ja', entry.id + '/') : null;
 ---
-<Base lang={lang} title={fm.title}>
+<Base lang={lang} title={title}>
   <article class="entry">
     <div class="entry-meta">
       <a class="domain" href={u(lang)}>{domain}</a>
       {fm.confidence && <span class="badge">confidence: {fm.confidence}</span>}
       {updated && <span class="badge">updated {updated}</span>}
       {sources.length > 0 && <span class="badge">{sources.length} sources</span>}
+      {machine && <span class="badge mt">{lang === 'zh' ? '机器翻译' : 'machine-translated'}{needsReview ? ' ⚠' : ''}</span>}
+      {origHref && <a class="badge orig" href={origHref}>{lang === 'zh' ? '原文(日)' : 'original (JA)'}</a>}
     </div>
-    <h1>{fm.title}</h1>
+    <h1>{title}</h1>
     <div class="prose"><slot /></div>
   </article>
 </Base>
@@ -26,6 +32,8 @@ const updated = fm.last_updated ? String(fm.last_updated).slice(0, 10) : null;
   .entry-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; font-size: 0.8rem; margin-bottom: 0.5rem; }
   .entry-meta .domain { color: var(--accent); text-decoration: none; font-weight: 600; }
   .entry-meta .badge { color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0.05rem 0.6rem; }
+  .entry-meta .badge.mt { color: #9a6700; border-color: #e0c060; background: #fff8e0; }
+  .entry-meta a.badge.orig { color: var(--accent); text-decoration: none; }
   .entry h1 { font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.1rem); line-height: 1.25; margin: 0.2rem 0 1.5rem; letter-spacing: -0.01em; }
 
   .prose { font-size: 1rem; }

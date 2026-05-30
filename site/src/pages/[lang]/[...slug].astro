@@ -5,17 +5,23 @@ import { langCodes, type Lang } from '../../i18n/ui';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
+  let i18nMap = new Map<string, any>();
+  try {
+    const all = await getCollection('i18n');
+    i18nMap = new Map(all.map((t) => [t.id, t]));
+  } catch {}
   return langCodes.flatMap((lang) =>
     entries.map((entry) => ({
       params: { lang, slug: entry.id },
-      props: { entry, lang: lang as Lang },
+      props: { entry, tr: i18nMap.get(`${lang}/${entry.id}`) ?? null, lang: lang as Lang },
     })),
   );
 }
 
-const { entry, lang } = Astro.props as { entry: any; lang: Lang };
-const { Content } = await render(entry);
+const { entry, tr, lang } = Astro.props as { entry: any; tr: any; lang: Lang };
+// 译文があればそれを、なければ原文(日文)を render（fallback）。
+const { Content } = await render(tr ?? entry);
 ---
-<EntryLayout lang={lang} entry={entry}>
+<EntryLayout lang={lang} entry={entry} tr={tr}>
   <Content />
 </EntryLayout>
