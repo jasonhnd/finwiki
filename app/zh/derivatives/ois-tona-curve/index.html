@@ -1,12 +1,12 @@
-<!DOCTYPE html><html lang="zh" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>OIS TONA curve and JPY discounting · FinWiki</title><meta name="description" content="基于公开一手信源的三语、AI 可读金融事实库。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+<!DOCTYPE html><html lang="zh" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>OIS TONA curve and JPY discounting · FinWiki</title><meta name="description" content="基于公开一手信源的三语、AI 可读金融事实库。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}a.wl{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 35%,transparent);cursor:pointer}a.wl:hover{border-bottom-color:var(--accent)}.wl-broken{color:var(--muted);border-bottom:1px dotted var(--muted);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
 .lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
 </style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/zh/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/zh/" data-astro-cid-5hce7sga>领域地图</a> <a href="/app/zh/guide/" data-astro-cid-5hce7sga>阅读指南</a> <a href="/app/zh/matrices/" data-astro-cid-5hce7sga>对照矩阵</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang" href="/app/ja/derivatives/ois-tona-curve/" hreflang="ja" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/derivatives/ois-tona-curve/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang active" href="/app/zh/derivatives/ois-tona-curve/" hreflang="zh" aria-current="true" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/zh/">derivatives</a> <span class="badge">confidence: likely</span> <span class="badge">updated Mon May 25</span> <span class="badge">5 sources</span> </div> <h1>OIS TONA curve and JPY discounting</h1> <div class="prose"> <h1 id="ois-tona-curve-and-jpy-discounting">OIS TONA curve and JPY discounting</h1>
 <h2 id="tldr">TL;DR</h2>
 <p>A JPY overnight indexed swap (OIS) is an OTC interest-rate derivative in which one party pays a fixed rate over a defined tenor and the counterparty pays the geometric (compounded) average of the daily Tokyo Overnight Average Rate (TONA) over the same period. TONA is the BoJ-published volume-weighted average of uncollateralized overnight call transactions and is the designated risk-free rate (RFR) for the JPY currency under the global IBOR transition.</p>
-<p>Post-LIBOR (cessation December 2021 for JPY LIBOR, with the synthetic JPY LIBOR phase-out completed in 2023), TONA-referencing OIS is the canonical discount curve for yen derivatives — both for OIS pricing itself and as the discount factor used in collateralized JPY IRS (see <span class="wl" data-target="derivatives/japan-irs-market">japan-irs-market</span>), JPY-USD basis swaps (see <span class="wl" data-target="derivatives/yen-basis-swap-market">yen-basis-swap-market</span>), JPY-denominated CCP-cleared trades, and CSA-collateralized OTC bookings posted in JPY cash.</p>
+<p>Post-LIBOR (cessation December 2021 for JPY LIBOR, with the synthetic JPY LIBOR phase-out completed in 2023), TONA-referencing OIS is the canonical discount curve for yen derivatives — both for OIS pricing itself and as the discount factor used in collateralized JPY IRS (see <a class="wl" data-wl="derivatives/japan-irs-market">japan-irs-market</a>), JPY-USD basis swaps (see <a class="wl" data-wl="derivatives/yen-basis-swap-market">yen-basis-swap-market</a>), JPY-denominated CCP-cleared trades, and CSA-collateralized OTC bookings posted in JPY cash.</p>
 <p>For FinWiki, the OIS-TONA curve is the price expression of BoJ short-rate policy expectations, the discount curve underneath every JPY-priced derivative, and the most direct visible market read on near-term BoJ rate decisions.</p>
 <h2 id="wiki-route">Wiki route</h2>
-<p>This entry sits under <span class="wl" data-target="derivatives/INDEX">derivatives index</span>. Read it against <span class="wl" data-target="derivatives/japan-irs-market">japan-irs-market</span> for the longer-dated tenor curve, <span class="wl" data-target="derivatives/jgb-futures-curve">jgb-futures-curve</span> for the JGB-implied rate curve, and <span class="wl" data-target="derivatives/yen-basis-swap-market">yen-basis-swap-market</span> for how the OIS curve interacts with cross-currency funding. The underlying TONA cash mechanism is <span class="wl" data-target="money-market/call-market-structure">call-market-structure</span> and the BoJ policy implementation is <span class="wl" data-target="money-market/boj-open-market-operations">boj-open-market-operations</span>.</p>
+<p>This entry sits under <a class="wl" data-wl="browse/#derivatives">derivatives index</a>. Read it against <a class="wl" data-wl="derivatives/japan-irs-market">japan-irs-market</a> for the longer-dated tenor curve, <a class="wl" data-wl="derivatives/jgb-futures-curve">jgb-futures-curve</a> for the JGB-implied rate curve, and <a class="wl" data-wl="derivatives/yen-basis-swap-market">yen-basis-swap-market</a> for how the OIS curve interacts with cross-currency funding. The underlying TONA cash mechanism is <a class="wl" data-wl="money-market/call-market-structure">call-market-structure</a> and the BoJ policy implementation is <a class="wl" data-wl="money-market/boj-open-market-operations">boj-open-market-operations</a>.</p>
 <h2 id="tona--the-underlying-rate">TONA — The Underlying Rate</h2>
 <p>TONA is calculated and published daily by the Bank of Japan based on uncollateralized overnight call transactions:</p>
 
@@ -48,7 +48,7 @@
 
 <table><thead><tr><th>Element</th><th>Detail</th></tr></thead><tbody><tr><td>Full name</td><td>Tokyo Overnight Average Rate (無担保コールオーバーナイト物加重平均レート).</td></tr><tr><td>Calculator and publisher</td><td>Bank of Japan.</td></tr><tr><td>Underlying transactions</td><td>Uncollateralized overnight call-market trades brokered through tanshi companies and reported to BoJ.</td></tr><tr><td>Method</td><td>Volume-weighted mean of qualifying overnight transactions on each business day.</td></tr><tr><td>Publication</td><td>Published the next business day (T+1) by BoJ; previously also disseminated as TONAR / Tokyo Overnight Average Rate.</td></tr><tr><td>Reset</td><td>Daily; no term structure inherent to the rate itself.</td></tr><tr><td>Currency / convention</td><td>Japanese yen; ACT/365 day-count by convention for JPY money-market.</td></tr></tbody></table>
 <p>TONA replaced JPY LIBOR as the designated RFR under the IBOR transition coordinated by the Cross-Industry Committee on Japanese Yen Interest Rate Benchmarks (a public-private body convened with BoJ and FSA participation). The transition followed the Financial Stability Board (FSB) recommendation for currency-by-currency RFR adoption.</p>
-<p>Because TONA reflects actual unsecured overnight transactions (the same market detailed in <span class="wl" data-target="money-market/call-market-structure">call-market-structure</span>), it is robust against the manipulation risks that ended LIBOR. It is, however, sensitive to BoJ policy implementation: if BoJ ample-reserves policy depresses call activity, TONA volume can shrink and the rate becomes thinner in some periods.</p>
+<p>Because TONA reflects actual unsecured overnight transactions (the same market detailed in <a class="wl" data-wl="money-market/call-market-structure">call-market-structure</a>), it is robust against the manipulation risks that ended LIBOR. It is, however, sensitive to BoJ policy implementation: if BoJ ample-reserves policy depresses call activity, TONA volume can shrink and the rate becomes thinner in some periods.</p>
 <h2 id="post-libor-transition">Post-LIBOR Transition</h2>
 <p>The JPY LIBOR transition occurred along a coordinated timeline:</p>
 
@@ -121,7 +121,7 @@
 <li>OIS forward rates embed the probability-weighted expectation of where BoJ will set the policy rate over each tenor.</li>
 <li>Differences between observed TONA and the implied OIS forward at the same horizon reveal repricing of policy expectations between MPMs.</li>
 </ul>
-<p>See <span class="wl" data-target="JapanFG/boj-monetary-policy">boj-monetary-policy</span> (where present) and <span class="wl" data-target="money-market/boj-open-market-operations">boj-open-market-operations</span> for the policy implementation layer; this entry covers the derivative expression.</p>
+<p>See <a class="wl" data-wl="japanfg/boj-monetary-policy">boj-monetary-policy</a> (where present) and <a class="wl" data-wl="money-market/boj-open-market-operations">boj-open-market-operations</a> for the policy implementation layer; this entry covers the derivative expression.</p>
 <h2 id="ois-curve-construction">OIS Curve Construction</h2>
 <p>A market practitioner builds the JPY OIS-TONA curve as follows:</p>
 
@@ -167,7 +167,7 @@
 </ul>
 <p>For non-collateralized or differently-collateralized trades, the discount curve is adjusted by a funding-valuation adjustment (FVA) or by switching to a different collateral-rate curve. This is the “multi-curve framework” that became standard after 2010.</p>
 <h2 id="swap-rate-discount-curve-for-jpy-irs">Swap-Rate Discount Curve for JPY-IRS</h2>
-<p>The JPY-IRS market (see <span class="wl" data-target="derivatives/japan-irs-market">japan-irs-market</span>) is dual-curve in pricing:</p>
+<p>The JPY-IRS market (see <a class="wl" data-wl="derivatives/japan-irs-market">japan-irs-market</a>) is dual-curve in pricing:</p>
 
 
 
@@ -250,7 +250,7 @@
 
 
 <table><thead><tr><th>Participant</th><th>Role</th></tr></thead><tbody><tr><td>Japanese megabank securities affiliates (MUFG Securities, SMBC Nikko, Mizuho Securities)</td><td>Major makers in JPY OIS; serve domestic banks, insurers, and corporates.</td></tr><tr><td>Global dealers (JPMorgan, Goldman, Citi, Deutsche, BNP, Barclays, HSBC)</td><td>Two-sided market makers especially in cross-border flow and CCBS-adjacent trades.</td></tr><tr><td>Independent securities firms (Nomura, Daiwa)</td><td>Domestic franchise plus cross-border.</td></tr><tr><td>Inter-dealer brokers (Tradition, BGC, ICAP, Tullett Prebon)</td><td>Provide indicative pricing and execute IDB flow.</td></tr><tr><td>End users</td><td>Japanese megabanks (treasury hedging), regional banks, life insurers, asset managers, corporates, foreign accounts taking views on BoJ policy.</td></tr></tbody></table>
-<p>Megabank dealing affiliates intersect with cash money market intermediation; see <span class="wl" data-target="money-market/tanshi-company-business-model">tanshi-company-business-model</span> for the tanshi side and <span class="wl" data-target="banking/japan-banking-license-tier-comparison-matrix">japan-banking-license-tier-comparison-matrix</span> for the regulated-entity layer.</p>
+<p>Megabank dealing affiliates intersect with cash money market intermediation; see <a class="wl" data-wl="money-market/tanshi-company-business-model">tanshi-company-business-model</a> for the tanshi side and <a class="wl" data-wl="banking/japan-banking-license-tier-comparison-matrix">japan-banking-license-tier-comparison-matrix</a> for the regulated-entity layer.</p>
 <h2 id="tona-futures-adjacent-listed-product">TONA Futures (Adjacent Listed Product)</h2>
 <p>OSE lists TONA 3-Month Futures, which complement the OTC OIS market by providing exchange-traded, JSCC-cleared exposure to short-tenor TONA expectations. Specifications:</p>
 
@@ -286,27 +286,27 @@
 <p>TONA futures are growing in liquidity but remain smaller than OTC OIS. They are useful for short-rate hedging where the user prefers exchange-listed structure over OTC.</p>
 <h2 id="related">Related</h2>
 <ul>
-<li><span class="wl" data-target="derivatives/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="derivatives/japan-interest-rate-derivatives-overview">japan-interest-rate-derivatives-overview</span></li>
-<li><span class="wl" data-target="derivatives/japan-irs-market">japan-irs-market</span></li>
-<li><span class="wl" data-target="derivatives/jgb-futures-curve">jgb-futures-curve</span></li>
-<li><span class="wl" data-target="derivatives/yen-basis-swap-market">yen-basis-swap-market</span></li>
-<li><span class="wl" data-target="money-market/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="money-market/japan-money-market">japan-money-market</span></li>
-<li><span class="wl" data-target="money-market/call-market-structure">call-market-structure</span></li>
-<li><span class="wl" data-target="money-market/boj-open-market-operations">boj-open-market-operations</span></li>
-<li><span class="wl" data-target="money-market/jgb-repo-market-japan">jgb-repo-market-japan</span></li>
-<li><span class="wl" data-target="money-market/tanshi-company-business-model">tanshi-company-business-model</span></li>
-<li><span class="wl" data-target="banking/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="banking/japan-banking-license-tier-comparison-matrix">japan-banking-license-tier-comparison-matrix</span></li>
-<li><span class="wl" data-target="finance/japan-corporate-fx-and-rate-hedge-policy">japan-corporate-fx-and-rate-hedge-policy</span></li>
-<li><span class="wl" data-target="securities/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="securities/japan-market-infrastructure-map">japan-market-infrastructure-map</span></li>
-<li><span class="wl" data-target="securities/japan-securities-clearing-corp">japan-securities-clearing-corp</span></li>
-<li><span class="wl" data-target="JapanFG/mufg-bank">mufg-bank</span></li>
-<li><span class="wl" data-target="JapanFG/sumitomo-mitsui-banking-corp">sumitomo-mitsui-banking-corp</span></li>
-<li><span class="wl" data-target="JapanFG/mizuho-bank">mizuho-bank</span></li>
-<li><span class="wl" data-target="INDEX">FinWiki index</span></li>
+<li><a class="wl" data-wl="browse/#derivatives">INDEX</a></li>
+<li><a class="wl" data-wl="derivatives/japan-interest-rate-derivatives-overview">japan-interest-rate-derivatives-overview</a></li>
+<li><a class="wl" data-wl="derivatives/japan-irs-market">japan-irs-market</a></li>
+<li><a class="wl" data-wl="derivatives/jgb-futures-curve">jgb-futures-curve</a></li>
+<li><a class="wl" data-wl="derivatives/yen-basis-swap-market">yen-basis-swap-market</a></li>
+<li><a class="wl" data-wl="browse/#money-market">INDEX</a></li>
+<li><a class="wl" data-wl="money-market/japan-money-market">japan-money-market</a></li>
+<li><a class="wl" data-wl="money-market/call-market-structure">call-market-structure</a></li>
+<li><a class="wl" data-wl="money-market/boj-open-market-operations">boj-open-market-operations</a></li>
+<li><a class="wl" data-wl="money-market/jgb-repo-market-japan">jgb-repo-market-japan</a></li>
+<li><a class="wl" data-wl="money-market/tanshi-company-business-model">tanshi-company-business-model</a></li>
+<li><a class="wl" data-wl="browse/#banking">INDEX</a></li>
+<li><a class="wl" data-wl="banking/japan-banking-license-tier-comparison-matrix">japan-banking-license-tier-comparison-matrix</a></li>
+<li><a class="wl" data-wl="finance/japan-corporate-fx-and-rate-hedge-policy">japan-corporate-fx-and-rate-hedge-policy</a></li>
+<li><a class="wl" data-wl="browse/#securities">INDEX</a></li>
+<li><a class="wl" data-wl="securities/japan-market-infrastructure-map">japan-market-infrastructure-map</a></li>
+<li><a class="wl" data-wl="securities/japan-securities-clearing-corp">japan-securities-clearing-corp</a></li>
+<li><a class="wl" data-wl="japanfg/mufg-bank">mufg-bank</a></li>
+<li><a class="wl" data-wl="japanfg/sumitomo-mitsui-banking-corp">sumitomo-mitsui-banking-corp</a></li>
+<li><a class="wl" data-wl="japanfg/mizuho-bank">mizuho-bank</a></li>
+<li><span class="wl wl-broken" title="INDEX">FinWiki index</span></li>
 </ul>
 <h2 id="sources">Sources</h2>
 <ul>
@@ -319,4 +319,13 @@
 <li>ISDA: 2020 IBOR Fallbacks Protocol and Supplement.</li>
 <li>Japanese Bankers Association TIBOR Administration (JBATA): TIBOR benchmark administration.</li>
 <li>BIS: Semi-annual OTC derivatives statistics.</li>
-</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>基于公开一手信源的金融事实库。每条事实都可回溯到条目所列出处。</footer>  </body> </html> 
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>基于公开一手信源的金融事实库。每条事实都可回溯到条目所列出处。</footer> <script>(function(){const base = "/app/";
+const lang = "zh";
+
+      // wikilink は言語非依存で出力されるので、現在言語の href をクライアントで付与。
+      // アンカー（browse/#domain）は末尾スラッシュを付けない。
+      for (const a of document.querySelectorAll('a.wl[data-wl]')) {
+        const w = a.getAttribute('data-wl');
+        a.setAttribute('href', base + lang + '/' + w + (w.includes('#') ? '' : '/'));
+      }
+    })();</script>  </body> </html> 

@@ -44,8 +44,10 @@ const updated = fm.last_updated ? String(fm.last_updated).slice(0, 10) : null;
   .prose th, .prose td { border: 1px solid var(--line); padding: 0.4rem 0.6rem; text-align: left; vertical-align: top; }
   .prose thead th { background: var(--soft); position: sticky; top: 0; }
 
-  /* wikilink（暂渲染为可读文本，linking 下一轮接 SiteIndex） */
-  .wl { color: var(--accent); border-bottom: 1px dotted var(--accent); cursor: help; }
+  /* wikilink（解決済 = リンク / 未解決 = broken span） */
+  a.wl { color: var(--accent); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); cursor: pointer; }
+  a.wl:hover { border-bottom-color: var(--accent); }
+  .wl-broken { color: var(--muted); border-bottom: 1px dotted var(--muted); cursor: help; }
   /* provenance 置信度徽章 */
   .prov { font-size: 0.6em; vertical-align: super; margin-left: 1px; }
   .prov::before { content: '●'; }
