@@ -54,10 +54,9 @@ export function verify(masked, translatedMasked) {
   const want = (masked.match(PH_RE) || []).slice().sort();
   const got = (translatedMasked.match(PH_RE) || []).slice().sort();
   const placeholdersOk = want.length === got.length && want.every((v, k) => v === got[k]);
-  // 翻訳ジャンク(自己纠正/译者注)のみ検出。`<!-- -->` は本文の正規コメント(wiki-links:managed 等)なので除外。
-  const junk = /——\s*此处改回|改回[:：]|訳注|譯注|译注|translator'?s? note|\(注[:：]|（注[:：]/i.test(
-    translatedMasked,
-  );
+  // 翻訳ジャンク(LLM 自己纠正/译者注)のみ検出。本文に合法的に出る「改回」「（注：」等は
+  // 拾わないよう、最も特異な自己纠正パターンに絞る(spike の「——此处改回」+ 明示的译者注)。
+  const junk = /——\s*此处改回|译者注\s*[:：]|訳者注\s*[:：]|translator'?s?\s+note/i.test(translatedMasked);
   return {
     placeholdersOk,
     junk,
