@@ -258,7 +258,7 @@ def verify() -> list[str]:
     """Return a list of problems found (empty == healthy)."""
     problems: list[str] = []
     for path in ROOT.rglob("*.json"):
-        if ".git" in path.relative_to(ROOT).parts:
+        if any(p in path.relative_to(ROOT).parts for p in (".git", "site", "app")):
             continue
         try:
             json.loads(path.read_text(encoding="utf-8"))

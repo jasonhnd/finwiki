@@ -1,0 +1,615 @@
+<!DOCTYPE html><html lang="ja" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Global perp DEX competitive deep-dive matrix — dYdX v3/v4, Hyperliquid, Vertex, Drift, GMX v1/v2, Synthetix, Kwenta, Aark, Aevo, Apex · FinWiki</title><meta name="description" content="公開一次情報にもとづく、三言語・AI 可読の金融事実ベース。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/ja/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/ja/" data-astro-cid-5hce7sga>領域マップ</a> <a href="/app/ja/guide/" data-astro-cid-5hce7sga>読み方ガイド</a> <a href="/app/ja/matrices/" data-astro-cid-5hce7sga>比較マトリクス</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang active" href="/app/ja/exchanges/global-perp-dex-competitive-deep-dive-matrix/" hreflang="ja" aria-current="true" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/exchanges/global-perp-dex-competitive-deep-dive-matrix/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang" href="/app/zh/exchanges/global-perp-dex-competitive-deep-dive-matrix/" hreflang="zh" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/ja/">exchanges</a> <span class="badge">confidence: likely</span> <span class="badge">updated Mon May 25</span> <span class="badge">12 sources</span> </div> <h1>Global perp DEX competitive deep-dive matrix — dYdX v3/v4, Hyperliquid, Vertex, Drift, GMX v1/v2, Synthetix, Kwenta, Aark, Aevo, Apex</h1> <div class="prose"> <h1 id="global-perp-dex-competitive-deep-dive-matrix">Global perp DEX competitive deep-dive matrix</h1>
+<h2 id="tldr">TL;DR</h2>
+<p>Perpetual-futures DEXs sit on <strong>three structurally distinct liquidity models</strong> — CLOB (central limit order book on-chain or hybrid), vAMM / pool-counterparty (single multi-asset LP pool serves all traders), and hybrid / oracle-pricing — and a reader who flattens them into “all perp DEXs” will misread fee, slippage, MEV resistance, LP risk, and regulatory exposure for every venue. This entry is the <strong>deep-dive 11-way matrix</strong> that complements <span class="wl" data-target="exchanges/global-perp-dex-five-comparison">the 5-way summary</span> by adding the <strong>second generation of derivative DEXs</strong> (Synthetix Perps, Kwenta, Aark, Aevo, Apex) and the <strong>v1 / v2 split</strong> for protocols that materially rebuilt their architecture (dYdX v3 vs v4, GMX v1 vs v2). The cross-axes are chain, liquidity model, fee tier, max leverage, asset coverage, settlement asset, MEV protection, gas economics, daily-volume range, and perp-DEX market-share band. The matrix is read alongside <span class="wl" data-target="exchanges/global-dex-major-five-comparison">the global spot DEX major-5 comparison</span> and <span class="wl" data-target="exchanges/native-dex-flip-incumbent-pattern">the native-chain-DEX flip-incumbent pattern</span> to understand where on-chain derivatives sit relative to spot DEX share migration.</p>
+<h2 id="wiki-route">Wiki route</h2>
+<p>This sits under <span class="wl" data-target="exchanges/INDEX">exchanges index</span> as the perp-DEX deep-dive matrix. Read it with <span class="wl" data-target="exchanges/global-perp-dex-five-comparison">global perp DEX top 5 comparison</span> (the predecessor that this entry expands), <span class="wl" data-target="exchanges/global-dex-major-five-comparison">global DEX major five comparison</span> for the spot DEX peer reading, <span class="wl" data-target="exchanges/native-dex-flip-incumbent-pattern">native DEX flip-incumbent pattern</span> for the chain-native vs cross-chain structural lens, <span class="wl" data-target="exchanges/solana-ecosystem-dex-comparison">Solana ecosystem DEX comparison</span> for the Solana-side detail relevant to Drift, <span class="wl" data-target="exchanges/cross-chain-bridge-cex-deposit-withdrawal">cross-chain bridge × CEX deposit/withdrawal</span> for the settlement-asset on/off-ramp story, <span class="wl" data-target="exchanges/amm-design-evolution">AMM design evolution</span> for the LP-counterparty model history relevant to vAMM perps, <span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid-staking / restaking CEX exposure</span> for the collateral-side LST / LRT routes that several perp DEXs accept as margin, <span class="wl" data-target="systems/cross-chain-five-pole-comparison-matrix">cross-chain five-pole comparison matrix</span> for the broader chain landscape, and <span class="wl" data-target="systems/INDEX">systems index</span> for the cross-chain routing surface.</p>
+<h2 id="why-this-matrix-matters">Why this matrix matters</h2>
+<p>By 2025-2026, perp DEXs collectively cleared meaningful single-day volumes that were occasionally comparable to mid-tier CEX peers, but the underlying architecture is so divergent that a fee-tier comparison alone is misleading. Hyperliquid’s purpose-built L1 CLOB has different incident-response properties from dYdX v4’s Cosmos-validator-coordinated CLOB; GMX’s GLP-pool counterparty model has different LP-risk economics from Drift’s vAMM + oracle pricing; Synthetix Perps’ Perps v2 / v3 design has different settlement timing from Kwenta’s front-end on Synthetix backend; Aevo, Apex, and Aark each chose different chain bases (Layer-2 vs OP Stack appchain vs StarkEx) for different reasons. The matrix below lays the <strong>architecture, gas, fee, leverage, asset coverage, MEV protection, and market-share</strong> axes side by side so a reader can pick the right venue for the right use case (high-leverage liquid pair vs long-tail asset vs MEV-sensitive flow vs LST-collateralised margin) rather than defaulting to whichever DEX has the highest 24h volume on a given day.</p>
+<h2 id="per-dex-deep-dive">Per-DEX deep-dive</h2>
+<h3 id="dydx-v3-starkex-l2-2021-2023">dYdX v3 (StarkEx L2, 2021-2023)</h3>
+<p>The original CLOB perp DEX at scale, running on a custom StarkEx instance (zk-rollup Layer-2 on Ethereum) with off-chain order book matching and on-chain settlement. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: up to 20x on top pairs. <strong>Asset coverage</strong>: ~40 pairs at peak (majors + top-100 alts). <strong>MEV protection</strong>: high — off-chain matching engine with periodic L1 commits removes most of the on-chain MEV surface for individual trades. <strong>Gas economics</strong>: trader pays no gas (deposit/withdraw only), since matching is off-chain; deposit/withdrawal uses Ethereum-L1 gas via the StarkEx escape hatch. <strong>Fee tier</strong>: maker 0.02% / taker 0.05% standard. <strong>Daily-volume range</strong> (active period 2022-2023): commonly $0.5-2B. <strong>Market share</strong>: peak perp-DEX leader for the 2022 cycle.</p>
+<p>The v3 architecture had limits: (a) reliance on the off-chain matching server centralises trust, (b) DYDX token governance was decoupled from protocol fees (no native trading-fee accrual to token holders), (c) the StarkEx system constrained chain-level extensibility. dYdX’s strategic answer was the v4 rebuild — see next row. Detail: cross-link to <span class="wl" data-target="exchanges/cross-chain-bridge-cex-deposit-withdrawal">cross-chain bridge × CEX deposit/withdrawal</span> for the USDC settlement-asset on/off-ramp.</p>
+<h3 id="dydx-v4-cosmos-appchain-2023-10-launch">dYdX v4 (Cosmos appchain, 2023-10 launch)</h3>
+<p>Full architectural rebuild on a custom Cosmos appchain (dYdX Chain) using CometBFT consensus. <strong>CLOB matching is now performed by validators</strong> (each validator runs its own order book and validators reach consensus on the canonical ordering), with <strong>all order-book state and trade settlement on-chain</strong>. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: 20x. <strong>Asset coverage</strong>: 40+ pairs. <strong>MEV protection</strong>: high (validator-side matching with explicit anti-MEV mechanism). <strong>Gas economics</strong>: trader pays validator-network gas (paid via DYDX), but transaction cost is minimal. <strong>Fee tier</strong>: maker 0.02% / taker 0.05% with rebates. <strong>Daily volume</strong>: typically $0.3-1B (lower than the v3 era as Hyperliquid took share). <strong>Market share</strong>: top-3 perp DEX through 2024-2025.</p>
+<p>v4 is the <strong>first fully-on-chain CLOB perp DEX at scale</strong> and the architectural template for the post-2023 generation. The trade-off: by moving matching on-chain into validator consensus, dYdX added the operational risk of validator-set capture but gained credible decentralisation. US-trader access is geo-blocked. Detail: cross-link to <span class="wl" data-target="systems/cross-chain-five-pole-comparison-matrix">cross-chain five-pole comparison matrix</span> for the Cosmos appchain context.</p>
+<h3 id="hyperliquid-hyperliquid-l1-2023">Hyperliquid (Hyperliquid L1, 2023-)</h3>
+<p>Purpose-built Layer-1 (HyperBFT consensus, custom EVM-compatible execution layer “HyperEVM”) with <strong>fully on-chain CLOB</strong> designed for low-latency order-book trading. <strong>Settlement asset</strong>: USDC (bridged from Arbitrum). <strong>Max leverage</strong>: up to 50x on majors. <strong>Asset coverage</strong>: 100+ perp pairs at any given time, with rapid listing of long-tail assets. <strong>MEV protection</strong>: high (custom L1 with order-flow design optimized against typical MEV vectors). <strong>Gas economics</strong>: trader pays HyperEVM gas, but cost is sub-cent per trade. <strong>Fee tier</strong>: maker rebates available, taker 0.025-0.05% tiered. <strong>Daily-volume range</strong>: $1-5B (occasionally higher during high-volatility events). <strong>Market share</strong>: <strong>dominant perp DEX leader by volume</strong> through 2024-2025, with HYPE token TGE 2024-11 distributed via no-pre-sale emission to retroactive users.</p>
+<p>Hyperliquid’s distinguishing operational achievement is delivering CEX-class order-book UX (sub-second order placement, tight bid-ask spreads, deep books) on a fully on-chain venue. The team’s design choice — running everything on a custom L1 rather than using an existing L1 or L2 — is the key architectural bet. Detail: cross-link to <span class="wl" data-target="exchanges/native-dex-flip-incumbent-pattern">native DEX flip-incumbent pattern</span> for the chain-native flip analysis.</p>
+<h3 id="vertex-protocol-arbitrum-2023">Vertex Protocol (Arbitrum, 2023-)</h3>
+<p>Hybrid <strong>CLOB + AMM</strong> design on Arbitrum, with off-chain order-book matching and AMM-fallback liquidity. The distinguishing feature is the <strong>integrated multi-product margin account</strong> — spot + perp + money-market positions share a single margin pool, enabling cross-product netting. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: 10x on majors, lower on alts. <strong>Asset coverage</strong>: 30-50 perp pairs + spot. <strong>MEV protection</strong>: medium-high (off-chain matching). <strong>Gas economics</strong>: Arbitrum L2 gas (sub-cent). <strong>Fee tier</strong>: maker 0.0% / taker 0.02-0.04%. <strong>Daily-volume range</strong>: $0.1-0.4B. <strong>Market share</strong>: top-10 perp DEX.</p>
+<p>Vertex Edge (multi-chain expansion) extends the order book across Arbitrum, Mantle, Sei, Base, Blast, and other chains via a synced-orderbook architecture, attempting to capture liquidity across multiple L2s without forcing traders onto a single chain. Detail: cross-link to <span class="wl" data-target="exchanges/amm-design-evolution">AMM design evolution</span> for the hybrid CLOB+AMM lineage.</p>
+<h3 id="drift-protocol-solana-2021">Drift Protocol (Solana, 2021-)</h3>
+<p>Solana-native perp DEX using <strong>vAMM (virtual AMM) + oracle pricing + JIT auction</strong> model. Drift v2 (2022) replaced the earlier purely-vAMM design with a hybrid where takers can be filled by JIT (just-in-time) market-maker bots responding within a short auction window before the vAMM fallback. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: 20x on majors, 10x on alts. <strong>Asset coverage</strong>: 40+ perp pairs. <strong>MEV protection</strong>: medium (Solana’s block-leader architecture has known MEV vectors, mitigated by Drift’s JIT auction). <strong>Gas economics</strong>: Solana network fees (sub-cent). <strong>Fee tier</strong>: maker 0.01% / taker 0.10% standard with tier discounts. <strong>Daily-volume range</strong>: $0.1-0.3B. <strong>Market share</strong>: top Solana perp DEX, top-10 globally.</p>
+<p>Drift’s significance is being <strong>the central Solana-ecosystem perp hub</strong>, benefiting from Solana’s general resurgence through 2024-2025 and from being the default integration target for Solana-native applications adding perp exposure. DRIFT token launched 2024. Detail: cross-link to <span class="wl" data-target="exchanges/solana-ecosystem-dex-comparison">Solana ecosystem DEX comparison</span> for the Solana-specific context.</p>
+<h3 id="gmx-v1-arbitrum--avalanche-2021">GMX v1 (Arbitrum + Avalanche, 2021-)</h3>
+<p>The <strong>prototypical pool-counterparty perp DEX</strong> — a single multi-asset pool (<strong>GLP</strong>, holding BTC/ETH/USDC/stables) serves as the counterparty to every trader. Trader PnL is the GLP holder’s loss/gain. Prices come from Chainlink oracles with internal keepers. <strong>Settlement asset</strong>: pool assets (BTC/ETH/USDC). <strong>Max leverage</strong>: 50x on majors. <strong>Asset coverage</strong>: limited to GLP-pool-supported assets (BTC, ETH, LINK, UNI + a few). <strong>MEV protection</strong>: low-medium (oracle-update timing creates known front-running surfaces, addressed in v2). <strong>Gas economics</strong>: Arbitrum or Avalanche L1/L2 gas (low). <strong>Fee tier</strong>: 0.1% open/close + dynamic borrow rate. <strong>Daily-volume range</strong>: $0.05-0.2B (down from $0.5-1B peak in 2022-2023). <strong>Market share</strong>: was 2022-2023 perp-DEX leader; now mid-tier.</p>
+<p>GMX v1 invented the “GLP as universal counterparty” pattern that many forks (Gains Network, Vela, others) copied. The structural challenge is <strong>toxic flow</strong> — sophisticated traders can systematically extract value from the GLP pool when the oracle update lags real market prices.</p>
+<h3 id="gmx-v2-arbitrum--avalanche-2023">GMX v2 (Arbitrum + Avalanche, 2023-)</h3>
+<p>Architectural rebuild responding to v1’s toxic-flow problem. Introduces <strong>per-market isolated pools (GM pools)</strong> instead of the single GLP, <strong>funding rates</strong> to balance long/short skew, and improved oracle-pricing mechanics. <strong>Settlement asset</strong>: per-market backing asset. <strong>Max leverage</strong>: 100x on majors (specific markets). <strong>Asset coverage</strong>: expanding via per-market pools. <strong>MEV protection</strong>: medium (improved over v1). <strong>Gas economics</strong>: Arbitrum gas (low). <strong>Fee tier</strong>: 0.04-0.07% open/close + funding. <strong>Daily-volume range</strong>: $0.1-0.3B. <strong>Market share</strong>: top-10 perp DEX.</p>
+<p>v2 is GMX’s attempt to remain relevant after Hyperliquid and dYdX v4 took share. The per-market pool model trades the simplicity of GLP for better risk-isolation, at the cost of fragmenting LP capital across markets.</p>
+<h3 id="synthetix-perps-optimism--base-2022">Synthetix Perps (Optimism + Base, 2022-)</h3>
+<p>Perps built on the <strong>Synthetix synth-debt-pool model</strong> — the SNX-staker debt pool provides counterparty liquidity, oracle pricing (Pyth) gives execution price, and traders take leveraged positions against the pool. <strong>Perps v2</strong> (2023) added improved oracle integration; <strong>Perps v3</strong> (2024) modularised the architecture allowing front-ends to plug into the Synthetix backend. <strong>Settlement asset</strong>: sUSD. <strong>Max leverage</strong>: 50x on majors. <strong>Asset coverage</strong>: 40+ pairs (limited by oracle availability). <strong>MEV protection</strong>: medium (oracle-based pricing has timing-attack surfaces, addressed by Pyth pull-oracle mechanism). <strong>Gas economics</strong>: Optimism / Base L2 gas (low). <strong>Fee tier</strong>: maker 0.02% / taker 0.05-0.10% by market. <strong>Daily-volume range</strong>: $0.05-0.2B (much routed via Kwenta, see below). <strong>Market share</strong>: top-15.</p>
+<p>Synthetix’s significance is being the <strong>backend infrastructure</strong> that multiple front-ends (Kwenta, Polynomial, Lyra-adjacent products) build on, rather than competing as a consumer-facing DEX directly.</p>
+<h3 id="kwenta-optimism--base-2022">Kwenta (Optimism + Base, 2022-)</h3>
+<p>Front-end DEX built on Synthetix Perps backend, designed for active traders. KWENTA token holders share fees with stakers. <strong>Settlement asset</strong>: sUSD (inherited from Synthetix). <strong>Max leverage</strong>: 50x. <strong>Asset coverage</strong>: same as Synthetix Perps (40+). <strong>MEV protection</strong>: medium. <strong>Gas economics</strong>: Optimism / Base gas. <strong>Fee tier</strong>: same as Synthetix backend + Kwenta front-end fee. <strong>Daily-volume range</strong>: $0.02-0.1B. <strong>Market share</strong>: top-20.</p>
+<p>Kwenta’s existence illustrates the <strong>front-end / backend separation</strong> that Synthetix v3 architected — the consumer brand is decoupled from the liquidity backend, which lets multiple front-ends compete on UX while sharing a single liquidity pool.</p>
+<h3 id="aark-digital-arbitrum-2023">Aark Digital (Arbitrum, 2023-)</h3>
+<p>LP-pool model perp DEX with a <strong>vault-shareholder counterparty design</strong> similar to GMX but with different risk-management and a focus on capital-efficient market-making. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: 20x on majors. <strong>Asset coverage</strong>: 20-30 pairs. <strong>MEV protection</strong>: medium. <strong>Gas economics</strong>: Arbitrum gas. <strong>Fee tier</strong>: 0.05-0.10%. <strong>Daily-volume range</strong>: $0.01-0.05B. <strong>Market share</strong>: top-30 niche.</p>
+<p>Aark is a second-wave entrant competing in the pool-counterparty segment where GMX, GNS, and similar protocols already established the pattern. Differentiation is on the LP risk-management mechanics and capital efficiency.</p>
+<h3 id="aevo-op-stack-appchain-2024">Aevo (OP Stack appchain, 2024-)</h3>
+<p>Successor to Ribbon Finance’s options product, Aevo runs a <strong>CLOB-based options + perp venue on a custom OP Stack appchain</strong>. Perps share infrastructure with the options book, enabling cross-product margin. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: 20x on majors. <strong>Asset coverage</strong>: 40+ pairs (perps + options). <strong>MEV protection</strong>: high (off-chain matching with on-chain settlement). <strong>Gas economics</strong>: OP Stack L2 gas (low). <strong>Fee tier</strong>: maker 0.03% / taker 0.05%. <strong>Daily-volume range</strong>: $0.05-0.2B. <strong>Market share</strong>: top-15 perp + dominant on-chain options.</p>
+<p>Aevo’s significance is being the <strong>options-and-perps integrated venue</strong> rather than a pure-perp DEX, which serves a different trader segment (volatility / hedging-oriented flows alongside leveraged directional).</p>
+<h3 id="apex-protocol-starkex--zklink-2021">Apex Protocol (StarkEx + zkLink, 2021-)</h3>
+<p>Perp DEX using StarkEx (similar architectural base to old dYdX v3) and zkLink extensions for cross-chain liquidity. <strong>Settlement asset</strong>: USDC. <strong>Max leverage</strong>: 50x. <strong>Asset coverage</strong>: 50+ pairs. <strong>MEV protection</strong>: medium-high (off-chain matching). <strong>Gas economics</strong>: trader pays no gas (matching off-chain); deposit/withdraw uses underlying chain gas. <strong>Fee tier</strong>: maker 0.02% / taker 0.05%. <strong>Daily-volume range</strong>: $0.05-0.2B. <strong>Market share</strong>: top-15, with strong Asia retail presence.</p>
+<p>Apex’s differentiation is <strong>strong Asia retail distribution</strong> (significant non-English-language community presence and CEX-style UX) competing for the trader segment that dYdX v3 served before its Cosmos migration.</p>
+<h2 id="big-comparison-matrix-table">Big comparison matrix table</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>DEX</th><th>Chain / base</th><th>Liquidity model</th><th>Settlement asset</th><th>Max leverage</th><th>Asset coverage</th><th>Fee tier (maker/taker)</th><th>MEV protection</th><th>Gas economics for trader</th><th>Daily volume range (USD)</th><th>Perp-DEX market share band</th></tr></thead><tbody><tr><td><strong>dYdX v3</strong></td><td>StarkEx L2 (Ethereum)</td><td>CLOB (off-chain match)</td><td>USDC</td><td>20x</td><td>~40 pairs</td><td>0.02% / 0.05%</td><td>High</td><td>None (off-chain)</td><td>$0.5-2B (2022-2023)</td><td>was #1 in 2022</td></tr><tr><td><strong>dYdX v4</strong></td><td>Cosmos appchain (dYdX Chain)</td><td>CLOB (validator-matched, fully on-chain)</td><td>USDC</td><td>20x</td><td>40+</td><td>0.02% / 0.05%</td><td>High</td><td>Validator-network gas (cents)</td><td>$0.3-1B</td><td>top-3</td></tr><tr><td><strong>Hyperliquid</strong></td><td>Hyperliquid L1 (HyperBFT + HyperEVM)</td><td>CLOB (fully on-chain)</td><td>USDC (bridged Arb)</td><td>50x</td><td>100+</td><td>rebate / 0.025-0.05%</td><td>High</td><td>HyperEVM gas (sub-cent)</td><td>$1-5B</td><td><strong>#1 by volume</strong></td></tr><tr><td><strong>Vertex</strong></td><td>Arbitrum</td><td>CLOB + AMM hybrid</td><td>USDC</td><td>10x</td><td>30-50</td><td>0.0% / 0.02-0.04%</td><td>Medium-high</td><td>Arbitrum gas (sub-cent)</td><td>$0.1-0.4B</td><td>top-10</td></tr><tr><td><strong>Drift</strong></td><td>Solana</td><td>vAMM + oracle + JIT auction</td><td>USDC</td><td>20x</td><td>40+</td><td>0.01% / 0.10%</td><td>Medium</td><td>Solana fees (sub-cent)</td><td>$0.1-0.3B</td><td>top-10 / Solana #1</td></tr><tr><td><strong>GMX v1</strong></td><td>Arbitrum + Avalanche</td><td>GLP pool-counterparty + oracle</td><td>pool assets</td><td>50x</td><td>limited (BTC/ETH/LINK/UNI+)</td><td>0.1% + borrow</td><td>Low-medium</td><td>Arb/Avax gas</td><td>$0.05-0.2B</td><td>mid-tier</td></tr><tr><td><strong>GMX v2</strong></td><td>Arbitrum + Avalanche</td><td>Per-market GM pools + funding</td><td>per-market</td><td>100x</td><td>expanding</td><td>0.04-0.07% + funding</td><td>Medium</td><td>Arb gas (low)</td><td>$0.1-0.3B</td><td>top-10</td></tr><tr><td><strong>Synthetix Perps</strong></td><td>Optimism + Base</td><td>Synth-debt-pool + Pyth oracle</td><td>sUSD</td><td>50x</td><td>40+</td><td>0.02% / 0.05-0.10%</td><td>Medium</td><td>OP / Base gas (low)</td><td>$0.05-0.2B</td><td>top-15 backend</td></tr><tr><td><strong>Kwenta</strong></td><td>Optimism + Base</td><td>Synthetix backend (front-end DEX)</td><td>sUSD</td><td>50x</td><td>40+</td><td>same + front-end fee</td><td>Medium</td><td>OP / Base gas</td><td>$0.02-0.1B</td><td>top-20 front-end</td></tr><tr><td><strong>Aark Digital</strong></td><td>Arbitrum</td><td>LP-vault counterparty</td><td>USDC</td><td>20x</td><td>20-30</td><td>0.05-0.10%</td><td>Medium</td><td>Arb gas</td><td>$0.01-0.05B</td><td>top-30 niche</td></tr><tr><td><strong>Aevo</strong></td><td>OP Stack appchain</td><td>CLOB (options + perps shared book)</td><td>USDC</td><td>20x</td><td>40+ (perps + options)</td><td>0.03% / 0.05%</td><td>High</td><td>OP Stack gas (low)</td><td>$0.05-0.2B</td><td>top-15 + options leader</td></tr><tr><td><strong>Apex Protocol</strong></td><td>StarkEx + zkLink</td><td>CLOB (off-chain match)</td><td>USDC</td><td>50x</td><td>50+</td><td>0.02% / 0.05%</td><td>Medium-high</td><td>None (off-chain match)</td><td>$0.05-0.2B</td><td>top-15, Asia retail strong</td></tr></tbody></table>
+<h2 id="architecture-cross-axis-clob-vs-vamm-vs-hybrid">Architecture cross-axis: CLOB vs vAMM vs hybrid</h2>
+<p>The matrix above lays out 11 venues but they collapse into <strong>three architectural families</strong> that determine fee profile, MEV resistance, and LP economics:</p>
+<h3 id="clob-family-fully-on-chain-or-hybrid-match">CLOB family (fully on-chain or hybrid match)</h3>
+<ul>
+<li><strong>Hyperliquid</strong> — fully on-chain CLOB on custom L1</li>
+<li><strong>dYdX v4</strong> — fully on-chain CLOB on Cosmos appchain (validator-matched)</li>
+<li><strong>dYdX v3</strong> — off-chain match + on-chain settlement (StarkEx)</li>
+<li><strong>Apex</strong> — off-chain match + on-chain settlement (StarkEx)</li>
+<li><strong>Aevo</strong> — off-chain match + on-chain settlement (OP Stack appchain)</li>
+<li><strong>Vertex</strong> — hybrid CLOB + AMM fallback</li>
+</ul>
+<p><strong>Trader who fits CLOB</strong>: high-frequency / professional traders, those who need limit / stop / IOC / FOK order types, those sensitive to slippage on size, those needing tight bid-ask spreads on majors. Fee economics are typically <strong>maker rebates + taker fees</strong> (familiar to CEX-arbitrage traders). The CLOB family captured share aggressively through 2024-2026 with Hyperliquid leading.</p>
+<h3 id="vamm--pool-counterparty-family">vAMM / pool-counterparty family</h3>
+<ul>
+<li><strong>GMX v1</strong> — GLP single multi-asset pool</li>
+<li><strong>GMX v2</strong> — per-market GM pools</li>
+<li><strong>Aark Digital</strong> — LP-vault counterparty (GMX-lineage)</li>
+<li><strong>Drift</strong> — vAMM + JIT auction (Solana)</li>
+<li><strong>Synthetix Perps</strong> — synth-debt-pool</li>
+</ul>
+<p><strong>Trader who fits vAMM</strong>: traders comfortable with oracle-pricing slippage models, those who prefer “everyone trades at oracle mid” semantics, smaller-size traders for whom CLOB depth is not the binding constraint. <strong>LP-side economics dominate</strong> — the LP / debt-pool holder is the structural counterparty to all trader PnL, which creates a different risk-return profile than passive LP’ing in spot AMMs. The model has structural toxic-flow vulnerability that v2 generations (GMX v2, Drift v2) work hard to mitigate.</p>
+<h3 id="front-end-on-shared-backend-family">Front-end on shared backend family</h3>
+<ul>
+<li><strong>Kwenta</strong> — front-end on Synthetix Perps backend</li>
+</ul>
+<p><strong>Significance</strong>: the front-end / backend separation is what Synthetix v3 architected as a deliberate platform play. Other protocols (Polynomial, Lyra-adjacent) follow the same model. The front-end-only DEX competes on UX, fee-share, and trader segment targeting, while sharing the same underlying liquidity pool.</p>
+<h2 id="trader-segment-fit">Trader-segment fit</h2>
+<p>Beyond architecture, perp DEXs differentiate on <strong>trader-segment fit</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Trader segment</th><th>Best-fit venues</th><th>Why</th></tr></thead><tbody><tr><td>Professional / HF arbitrage</td><td>Hyperliquid, dYdX v4</td><td>CLOB depth, low latency, MEV protection</td></tr><tr><td>High-leverage degens</td><td>Hyperliquid (50x), GMX v2 (100x), Apex (50x), Drift (20x)</td><td>Leverage ceiling matters</td></tr><tr><td>Long-tail asset traders</td><td>Hyperliquid (100+ pairs), Drift, Aevo</td><td>Asset coverage breadth</td></tr><tr><td>LST / restaking collateral</td><td>(chain-specific) — Drift accepts JitoSOL; some EVM venues accept stETH</td><td>LST-as-margin economics</td></tr><tr><td>Solana-native</td><td>Drift</td><td>Solana ecosystem depth</td></tr><tr><td>Options + perps cross-margin</td><td>Aevo</td><td>Integrated options book</td></tr><tr><td>Multi-product (spot + perp + money market)</td><td>Vertex</td><td>Unified margin account</td></tr><tr><td>Asia retail (non-English-first UX)</td><td>Apex, Hyperliquid</td><td>Distribution + UX choices</td></tr><tr><td>Institutional / DeFi-native funds</td><td>dYdX v4, Hyperliquid</td><td>Decentralisation + auditability</td></tr></tbody></table>
+<p>The LST / restaking collateral row connects to <span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid-staking / restaking CEX exposure</span> for the LST-as-collateral mechanics across venues.</p>
+<h2 id="boundary-cases">Boundary cases</h2>
+<ul>
+<li><strong>CEX-equivalent or not?</strong> — Hyperliquid’s order-book latency and depth on top pairs approach CEX comparability (Binance perp, Bybit perp). However, the regulatory posture differs entirely: Hyperliquid geo-blocks US traders, runs no centralised KYC, and operates with no jurisdictional licence. A CEX-comparable UX should not be confused with CEX-equivalent regulatory standing.</li>
+<li><strong>dYdX v3 vs v4 read as one product or two?</strong> — The architectural rebuild was extensive enough (different chain, different consensus, different token utility) that they are best read as <strong>two products from the same team</strong> rather than one product across versions. The matrix gives each its own row.</li>
+<li><strong>GMX v1 vs v2 read as one product or two?</strong> — Similar to dYdX, GMX v1 (GLP single-pool) and v2 (per-market GM pools + funding) are structurally different enough to warrant separate rows. Both remain live as of 2026 with different LP profiles.</li>
+<li><strong>Synthetix Perps and Kwenta double-counting</strong> — Kwenta is a front-end on Synthetix Perps’ backend. Daily-volume figures for Kwenta are largely <strong>also counted in Synthetix Perps’ volume</strong>, since Kwenta routes orders to the Synthetix backend. Cross-protocol volume reporting (e.g., DefiLlama derivatives) sometimes double-counts; the matrix separates the rows for clarity but a reader should aggregate them when computing total Synthetix-stack flow.</li>
+<li><strong>Drift on Solana vs the rest on EVM</strong> — Solana’s account-model and block-leader architecture changes MEV dynamics, slot-time guarantees, and gas economics in ways that don’t map cleanly to EVM analogies. Comparison of Drift’s MEV-protection vs EVM peers requires reading the Solana-specific JIT-auction model rather than treating MEV protection as a single dimension.</li>
+<li><strong>Aevo as “options + perps” rather than “perp DEX”</strong> — Aevo’s economic identity is the integrated options-and-perp venue; treating it purely as a perp DEX understates the options-side flow that uses the same margin account. The matrix includes Aevo but flags that the options book is its primary differentiator.</li>
+<li><strong>Hyperliquid HYPE token TGE economics</strong> — Hyperliquid’s 2024-11 token launch with no pre-sale and emission distributed to retroactive users is structurally different from dYdX, GMX, Drift, and Synthetix token economics. Token-side comparisons require separate analysis (not covered in this matrix’s volume / fee axes).</li>
+<li><strong>Cross-chain settlement on/off-ramp</strong> — Several perp DEXs use USDC as settlement asset but the on-ramp routes differ (Arbitrum-native, Solana-native, Cosmos appchain, OP Stack). The settlement-asset row in the matrix records the canonical asset, but the practical on-ramp UX is a separate dimension — see <span class="wl" data-target="exchanges/cross-chain-bridge-cex-deposit-withdrawal">cross-chain bridge × CEX deposit/withdrawal</span> for the bridge-side detail.</li>
+<li><strong>Volume figures are approximate ranges, not point estimates</strong> — Perp DEX daily volumes swing 5-10x with market volatility. The “daily volume range” column gives an active-market reasonable range based on 2024-2026 observation; readers should consult <a href="https://defillama.com/derivatives">DefiLlama derivatives</a> for current point-in-time figures.</li>
+<li><strong>JP and US regulatory exposure</strong> — None of the perp DEXs in this matrix appear on <span class="wl" data-target="exchanges/jvcea-whitelist-token-listing">JVCEA WhiteList</span> for JP-side native-token listing, and most geo-block US traders following CFTC / SEC engagement. Reading this matrix against JP CEX equivalents like the <span class="wl" data-target="exchanges/japan-cex-parent-fg-adjacency-matrix">JP CEX parent FG adjacency matrix</span> surfaces the regulatory-licensing gap between on-chain perp DEX and JP-domestic VASP.</li>
+</ul>
+<h2 id="settlement-asset-side-by-side">Settlement-asset side-by-side</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Settlement asset</th><th>Used by</th><th>Implication</th></tr></thead><tbody><tr><td>USDC</td><td>dYdX v3, dYdX v4, Hyperliquid, Vertex, Drift, GMX (USDC slice of GLP), Aark, Aevo, Apex</td><td>Default modern stablecoin; on-chain availability of USDC across L2s and Solana is sufficient; <strong>Circle counterparty / issuance risk is shared across most of the matrix</strong></td></tr><tr><td>sUSD</td><td>Synthetix Perps, Kwenta</td><td>Synthetix-native algorithmic stable backed by SNX debt-pool; <strong>different risk profile from USDC</strong> — not Circle-issued</td></tr><tr><td>pool assets (BTC / ETH / LINK / UNI / USDC)</td><td>GMX v1</td><td>GLP pool composition is the de-facto settlement basket; <strong>multi-asset risk exposure</strong> at LP level</td></tr><tr><td>per-market backing asset</td><td>GMX v2</td><td>Per-market GM pool composition; <strong>risk isolated by market</strong></td></tr></tbody></table>
+<p>The USDC-dominated settlement landscape is structurally significant — it concentrates <strong>Circle issuance / regulatory / reserve-management risk</strong> as a cross-DEX systemic factor. If Circle were to face issuance disruption, the majority of the perp-DEX volume in the matrix would be affected simultaneously. This is one of the under-acknowledged systemic risk axes in on-chain derivatives.</p>
+<h2 id="chain-base-footprint-summary">Chain-base footprint summary</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Chain / base</th><th>Perp DEXs hosted</th><th>Cumulative perp-DEX share contribution</th></tr></thead><tbody><tr><td>Hyperliquid L1</td><td>Hyperliquid</td><td>very high (single venue, dominant market share)</td></tr><tr><td>Cosmos appchain (dYdX Chain)</td><td>dYdX v4</td><td>high</td></tr><tr><td>Arbitrum</td><td>Vertex, GMX v1/v2, Aark</td><td>medium-high (multi-venue)</td></tr><tr><td>Avalanche</td><td>GMX v1/v2</td><td>low-medium</td></tr><tr><td>Solana</td><td>Drift</td><td>medium (single dominant venue on chain)</td></tr><tr><td>Optimism</td><td>Synthetix Perps, Kwenta</td><td>low-medium</td></tr><tr><td>Base</td><td>Synthetix Perps (post-Base launch), Kwenta</td><td>low-medium (growing)</td></tr><tr><td>OP Stack appchain</td><td>Aevo</td><td>low-medium</td></tr><tr><td>StarkEx L2</td><td>dYdX v3 (legacy), Apex</td><td>low (historical + Asia-retail niche)</td></tr><tr><td>zkLink</td><td>Apex (cross-chain extension)</td><td>very low</td></tr></tbody></table>
+<p>The chain-base distribution shows <strong>purpose-built infrastructure (Hyperliquid L1, dYdX Cosmos appchain, OP Stack appchains)</strong> winning share over <strong>shared-L2 infrastructure (Arbitrum, Optimism, Base)</strong> through 2024-2025. The chain-native flip pattern documented in <span class="wl" data-target="exchanges/native-dex-flip-incumbent-pattern">native DEX flip-incumbent pattern</span> applies — venues that control their own chain capture the volume that chain-tenant venues forfeit to chain congestion and shared-MEV exposure.</p>
+<h2 id="architectural-evolution-timeline">Architectural-evolution timeline</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Year</th><th>Event</th><th>Architectural significance</th></tr></thead><tbody><tr><td>2018-08</td><td>dYdX margin trading (precursor) launch</td><td>First non-derivatives DEX experiment with leverage</td></tr><tr><td>2020</td><td>Perpetual Protocol v1 (vAMM on xDai)</td><td>First vAMM perp at scale (predecessor to GMX-lineage)</td></tr><tr><td>2021-04</td><td>dYdX v3 launch on StarkEx L2</td><td>First CLOB perp DEX at scale; CEX-comparable UX</td></tr><tr><td>2021-08</td><td>GMX launch on Arbitrum</td><td>GLP pool-counterparty pattern established</td></tr><tr><td>2021-09</td><td>Drift v1 launch on Solana</td><td>Solana-native perp DEX (purely vAMM initially)</td></tr><tr><td>2022</td><td>Synthetix Perps v1 + Kwenta launch</td><td>Synth-debt-pool perp model, front-end/backend split begins</td></tr><tr><td>2023-06</td><td>dYdX v4 mainnet on Cosmos</td><td>First fully-on-chain CLOB perp DEX</td></tr><tr><td>2023-08</td><td>GMX v2 launch</td><td>Per-market GM pools + funding model</td></tr><tr><td>2023-Q3</td><td>Vertex Protocol launch</td><td>Hybrid CLOB+AMM with multi-product margin account</td></tr><tr><td>2024-Q1</td><td>Hyperliquid mainnet maturation</td><td>Custom L1 fully-on-chain CLOB takes share</td></tr><tr><td>2024-Q2</td><td>Aevo launch on OP Stack appchain</td><td>Options + perps integrated CLOB venue</td></tr><tr><td>2024-11</td><td>Hyperliquid HYPE TGE</td><td>No-pre-sale emission-to-retroactive-users distribution</td></tr><tr><td>2025</td><td>Cross-chain perp aggregator emergence</td><td>Vertex Edge, intent-based perp routing experiments</td></tr></tbody></table>
+<p>The trajectory shows <strong>CLOB winning architecturally</strong> through 2024-2025 (Hyperliquid + dYdX v4 leading on volume), with <strong>pool-counterparty / vAMM models retaining a niche</strong> in specific positioning (Drift on Solana, GMX v2 for high-leverage isolated markets). The next architectural inflection is plausibly <strong>intent-based cross-chain perp routing</strong> (allowing a trader to execute on whichever chain has best liquidity without bridge UX), but that pattern is not yet at scale as of 2026.</p>
+<h2 id="fee-economics-summary">Fee-economics summary</h2>
+<p>A practical fee-take-rate comparison (taker side, before rebates and tier discounts):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>DEX</th><th>Standard taker fee</th><th>Funding mechanism</th><th>Effective annualized cost for 1x position</th></tr></thead><tbody><tr><td>Hyperliquid</td><td>0.025-0.05%</td><td>Funding rate floats with skew</td><td>depends on funding (volatile)</td></tr><tr><td>dYdX v4</td><td>0.05%</td><td>Funding rate floats</td><td>depends on funding</td></tr><tr><td>dYdX v3</td><td>0.05%</td><td>Funding rate floats</td><td>depends on funding</td></tr><tr><td>Vertex</td><td>0.02-0.04%</td><td>Funding rate</td><td>low fee + funding</td></tr><tr><td>Drift</td><td>0.10%</td><td>Funding rate</td><td>medium fee + funding</td></tr><tr><td>GMX v1</td><td>0.10% open + 0.10% close</td><td>Borrow rate (continuous, not 0-sum)</td><td>higher cost — borrow is structurally positive</td></tr><tr><td>GMX v2</td><td>0.04-0.07% open + close</td><td>Funding rate</td><td>medium</td></tr><tr><td>Synthetix Perps</td><td>0.05-0.10% (market dependent)</td><td>Funding rate</td><td>medium</td></tr><tr><td>Kwenta</td><td>same + front-end</td><td>Funding rate</td><td>medium-high</td></tr><tr><td>Aark</td><td>0.05-0.10%</td><td>Funding</td><td>medium</td></tr><tr><td>Aevo</td><td>0.05%</td><td>Funding</td><td>low-medium</td></tr><tr><td>Apex</td><td>0.05%</td><td>Funding</td><td>low-medium</td></tr></tbody></table>
+<p><strong>Key economic distinction</strong>: GMX v1’s borrow-rate model is <strong>structurally cost-positive for the trader</strong> (the LP earns continuous borrow), unlike funding-rate models which are <strong>zero-sum between longs and shorts</strong>. This makes GMX v1 less attractive for hold-long-duration positions and more attractive for quick directional bets, while funding-rate venues can be cheaper for long-hold positions depending on funding direction. Understanding the fee + funding/borrow stack is essential for cross-venue comparison.</p>
+<h2 id="related">Related</h2>
+<ul>
+<li><span class="wl" data-target="exchanges/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="exchanges/global-perp-dex-five-comparison">global-perp-dex-five-comparison</span></li>
+<li><span class="wl" data-target="exchanges/global-dex-major-five-comparison">global-dex-major-five-comparison</span></li>
+<li><span class="wl" data-target="exchanges/global-cex-top10-comparison">global-cex-top10-comparison</span></li>
+<li><span class="wl" data-target="exchanges/native-dex-flip-incumbent-pattern">native-dex-flip-incumbent-pattern</span></li>
+<li><span class="wl" data-target="exchanges/solana-ecosystem-dex-comparison">solana-ecosystem-dex-comparison</span></li>
+<li><span class="wl" data-target="exchanges/cross-chain-bridge-cex-deposit-withdrawal">cross-chain-bridge-cex-deposit-withdrawal</span></li>
+<li><span class="wl" data-target="exchanges/amm-design-evolution">amm-design-evolution</span></li>
+<li><span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid-staking-restaking-cex-exposure</span></li>
+<li><span class="wl" data-target="exchanges/cex-matching-engine-wallet-architecture">cex-matching-engine-wallet-architecture</span></li>
+<li><span class="wl" data-target="exchanges/global-cex-prime-brokerage-layer">global-cex-prime-brokerage-layer</span></li>
+<li><span class="wl" data-target="exchanges/japan-cex-parent-fg-adjacency-matrix">japan-cex-parent-fg-adjacency-matrix</span></li>
+<li><span class="wl" data-target="systems/cross-chain-five-pole-comparison-matrix">cross-chain-five-pole-comparison-matrix</span></li>
+<li><span class="wl" data-target="systems/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="exchanges/jvcea-whitelist-token-listing">jvcea-whitelist-token-listing</span></li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>DefiLlama Derivatives dashboard (volume, market share): <a href="https://defillama.com/derivatives">https://defillama.com/derivatives</a></li>
+<li>DefiLlama Chains: <a href="https://defillama.com/chains">https://defillama.com/chains</a></li>
+<li>Hyperliquid product page: <a href="https://app.hyperliquid.xyz/">https://app.hyperliquid.xyz/</a></li>
+<li>dYdX product page: <a href="https://dydx.exchange/">https://dydx.exchange/</a></li>
+<li>GMX product page: <a href="https://gmx.io/">https://gmx.io/</a></li>
+<li>Vertex Protocol: <a href="https://vertexprotocol.com/">https://vertexprotocol.com/</a></li>
+<li>Drift Protocol: <a href="https://drift.trade/">https://drift.trade/</a></li>
+<li>Synthetix: <a href="https://synthetix.io/">https://synthetix.io/</a></li>
+<li>Kwenta: <a href="https://kwenta.io/">https://kwenta.io/</a></li>
+<li>Aark Digital: <a href="https://aark.digital/">https://aark.digital/</a></li>
+<li>Aevo: <a href="https://www.aevo.xyz/">https://www.aevo.xyz/</a></li>
+<li>Apex Protocol: <a href="https://pro.apex.exchange/">https://pro.apex.exchange/</a></li>
+<li>Volume and market share approximations cross-referenced against DefiLlama derivatives and public dashboards (Dune, public team disclosures)</li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</footer>  </body> </html> 

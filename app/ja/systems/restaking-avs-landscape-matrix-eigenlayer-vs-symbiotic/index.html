@@ -1,0 +1,342 @@
+<!DOCTYPE html><html lang="ja" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM · FinWiki</title><meta name="description" content="公開一次情報にもとづく、三言語・AI 可読の金融事実ベース。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/ja/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/ja/" data-astro-cid-5hce7sga>領域マップ</a> <a href="/app/ja/guide/" data-astro-cid-5hce7sga>読み方ガイド</a> <a href="/app/ja/matrices/" data-astro-cid-5hce7sga>比較マトリクス</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang active" href="/app/ja/systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic/" hreflang="ja" aria-current="true" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang" href="/app/zh/systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic/" hreflang="zh" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/ja/">systems</a> <span class="badge">confidence: likely</span> <span class="badge">updated Tue May 26</span> <span class="badge">13 sources</span> </div> <h1>Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM</h1> <div class="prose"> <h1 id="restaking-と-avs-全景マトリクス--eigenlayer-vs-symbiotic-vs-karak-vs-mellow-vs-etherfi-vs-lido-csm">Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM</h1>
+<h2 id="tldr">TL;DR</h2>
+<ul>
+<li>6 つの restaking インフラを 2026-Q2 における <strong>TVL · restaking model · slashing · AVS economics · correlation risk · operator concentration · governance · audit · Lido overlap · regulatory exposure</strong> の 10 軸で比較</li>
+<li><strong>Restaking model の 3 象限</strong>:<strong>Operator-delegated</strong>(EigenLayer · Karak · Symbiotic)· <strong>LRT vault aggregator</strong>(EtherFi · Mellow · Renzo)· <strong>Native protocol restaking</strong>(Lido CSM · LST 自身が restake hook を提供)</li>
+<li><strong>TVL 2026-Q2 推定</strong>:EigenLayer ~$14B · Symbiotic <del>$3.2B · EtherFi LRT(eETH)</del>$5.5B · Mellow LRT ~$1.8B · Karak ~$1.0B · Lido CSM ~$280M(early)</li>
+<li><strong>AVS landscape 5 大</strong>:<strong>EigenDA</strong>(~$120M revenue 2026 estimate · 複数 ZK rollup ユーザー)· <strong>Hyperlane</strong>(ISM で EigenLayer/Symbiotic を借用)· <strong>Espresso</strong>(shared sequencer · Polygon/zkSync/Caldera 等が接続)· <strong>Lagrange</strong>(coprocessor + state proof)· <strong>Witness Chain</strong>(POI · 物理インフラ検証)</li>
+<li>2025 年 EigenLayer slashing が正式有効化 · 実 slash イベント ≤ 5 件 · 累計 &#x3C; $5M(早期懸念をはるかに下回る)· ただし correlation risk(rehypothecation)はいまだ十分に価格付けされていない</li>
+<li><strong>Lido stake 重複率</strong>:EigenLayer の ~25% TVL が stETH restaking 由来 · Symbiotic では ~40% · Mellow は完全に LST 集合ベース —— Lido は restaking エコシステムの「基層流動性源」</li>
+<li>ルーティング:<a href="%E3%82%B3%E3%82%A2">[systems/eigenlayer-overview]</a>· <span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid-staking-restaking-cex-exposure</span>(LRT CEX エクスポージャー)· <span class="wl" data-target="systems/pectra-eip-7251-institutional-staking">Pectra EIP-7251 · 2048 ETH validator</span>(機関 staking 経路)</li>
+</ul>
+<h2 id="wiki-route">Wiki route</h2>
+<p>This entry sits under <span class="wl" data-target="systems/INDEX">systems index</span>. Read it against <span class="wl" data-target="systems/eigenlayer-overview">EigenLayer overview</span> as the canonical anchor, <span class="wl" data-target="systems/eigenlayer-avs-mechanism">EigenLayer AVS mechanism · Operator · Slashing · EIGEN 仲裁</span> for the slashing + AVS economics depth, and <span class="wl" data-target="systems/eigenlayer-l1-bootstrapping">EigenLayer L1 bootstrapping</span> for how new chains use restaking to launch security. For the validator economics meta-context, see <span class="wl" data-target="systems/bft-validator-economy-overview">BFT validator economics overview</span> and <span class="wl" data-target="systems/bft-validator-economy-four-variables">BFT validator economy four variables</span>. For consensus models that restaking touches, see <span class="wl" data-target="systems/threshold-bft-consensus-rust-implementations">threshold BFT consensus Rust implementations</span> and <span class="wl" data-target="systems/dag-bft-vs-chain-bft-architecture">DAG-BFT vs Chain-BFT</span>. For the EIP-7251 institutional staking lane that interacts with restaking economics, see <span class="wl" data-target="systems/pectra-eip-7251-institutional-staking">Pectra EIP-7251 · institutional staking</span>. For CEX exposure to LRT and the “liquid staking → restaking → CEX leverage” stack, see <span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid staking · restaking · CEX エクスポージャー</span>. Cross-link to <span class="wl" data-target="systems/cross-chain-five-pole-comparison-matrix">cross-chain five-pole comparison matrix</span> when reasoning about Hyperlane / LayerZero / Wormhole as AVS consumers.</p>
+<h2 id="why-this-matrix-matters">Why this matrix matters</h2>
+<p>Restaking は 2023-2024 年において EigenLayer 単独プレイヤーの「ETH crypto-economic security marketplace」概念だった。2024-2025 年に複数プロトコル競合へと進化 —— Symbiotic はマルチアセット restaking を提供(ETH のみならず)· Karak は開発者 UX + universal restaking を主軸 · Mellow は LRT vault aggregator · EtherFi は LRT(eETH)で LST 市場を引き継ぎ · Lido 自身も CSM(Community Staking Module)と stVaults 経由で参入。</p>
+<p>開発者(AVS 構築者 · 例えば <span class="wl" data-target="systems/hyperlane-overview">Hyperlane</span> / EigenDA / Lagrange)にとって · どの restaking layer を選ぶかは:<strong>operator pool の深さ · slashing の真の執行可能性 · TVL backing による経済セキュリティ規模 · 治理の予測可能性</strong> を決定する。ユーザー(restake を検討する stETH 保有者)にとって · どの LRT(eETH · ezETH · pufETH · mevETH 等)を選ぶかは:<strong>収益分配 · slashing リスクエクスポージャー · withdrawal 流動性 · CEX 上場の有無</strong> を決定する。</p>
+<p>規制(SEC / ESMA / FSA · <span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid staking · restaking · CEX エクスポージャー</span> を参照)にとって · restaking が「証券」/「投資契約」を構成するかは 2026 年に判決待ちの議題であり · プロトコルによって治理 + 収益構造が異なる規制エクスポージャーを持つ。</p>
+<p>本マトリクスは 6 つの active restaking インフラを横断対照 · 10 軸 · 2026-Q2 データスナップショット。AVS landscape は独立した節 · 5 大 AVS の経済画像を列挙。Stand-alone LRT(Renzo / Puffer / Kelp / Swell)は対照に独立してリストせず · 一部は EtherFi / Mellow の分析中で言及。</p>
+<h2 id="per-protocol-sections">Per-protocol sections</h2>
+<h3 id="eigenlayer">EigenLayer</h3>
+<p><strong>Restaking model</strong>:Operator-delegated(質押人が operator を選び · operator が opt-in する AVS を選ぶ)。Native ETH restaking(EigenPod 経由)· LST restaking(stETH · rETH · cbETH 等 8 種類 strategy)· EIGEN token native restaking をサポート。</p>
+<p><strong>TVL May 2026</strong>:~$14B(推定 · 2025 高値で $20B+ に達した · 2026 は一部 LRT 退出 + 収益圧縮で穏やかな調整)。</p>
+<p><strong>Slashing implementation</strong>:2025-Q2 メインネット slashing を有効化。AVS がカスタム slashing 条件を定義(<span class="wl" data-target="systems/eigenlayer-avs-mechanism">EigenLayer AVS mechanism</span> を参照)。実 slash イベント ≤ 5 件(2026-Q2)· 累計 slash 金額 &#x3C; $5M(主に operator 設定ミス · 悪意ではない)。</p>
+<p><strong>AVS economics</strong>:~40 AVS active · EigenDA · Hyperlane · Espresso · Lagrange · Witness Chain · AltLayer · Brevis · 等を含む。Operator rewards は AVS 課金(EIGEN + 各 AVS native token)由来 · 年化 +1-3% を base ETH staking yield に上乗せ。</p>
+<p><strong>Correlation risk</strong>:Rehypothecation 係数 2.5-3x(1 単位の ETH が平均 2.5-3 個の AVS に opt-in)· Vitalik は「system-wide slashing cascade」リスクを複数回警告。EIGEN inter-subjective dispute は緩和メカニズムだが、それ自体は token holder vote に依存(資本操作されうる)。</p>
+<p><strong>Operator concentration</strong>:Top 5 operator が ~50% TVL を占有(Coinbase Cloud · Figment · P2P · Stakefish · DSRV)· 残りは ~200 operator に分散。</p>
+<p><strong>Governance</strong>:EigenLabs(チーム主導)· EIGEN token + Operating Token holders · Security Council 7-of-13。2025 EIGEN 投票ローンチ後、徐々に分権化。</p>
+<p><strong>Audit</strong>:Trail of Bits · ChainSecurity · OpenZeppelin · Sigma Prime · Code4rena · Cantina。slashing 有効化前に複数ラウンドの独立 audit。</p>
+<p><strong>Lido stake overlap</strong>:~25% EigenLayer TVL が stETH strategy 由来(残りは主に native ETH via EigenPod + cbETH · rETH)。</p>
+<p><strong>Regulatory exposure</strong>:SEC は EIGEN token が securities を構成するかどうかについて明確な表明をせず · 2024 年 EigenLayer は積極的に米国ユーザーへの EIGEN airdrop を延期。EU MiCA 下で restaking yield は「tokenized money market service」に分類される可能性 · 判決待ち。</p>
+<h3 id="symbiotic">Symbiotic</h3>
+<p><strong>Restaking model</strong>:<strong>マルチアセット restaking</strong>(ETH のみならず · 任意の ERC-20 をサポート · LST · ステーブルコイン · プロジェクト token を含む)。Modular vault アーキテクチャ · vault curator が collateral + AVS opt-in 戦略をカスタム定義。</p>
+<p><strong>TVL May 2026</strong>:~$3.2B(2024-09 alpha launch · 2025 fast growth · 2026-Q1 で第二位の restaking · 一部 TVL は非 ETH 資産のため EigenLayer との直接比較には調整が必要)。</p>
+<p><strong>Slashing implementation</strong>:day 1 から vault-level slashing をサポート(2025-Q1 メインネット有効化)。Operator slashed = vault collateral 全体が損害 · ただし vault curator が slashing 戦略(比率 · トリガー条件)をカスタム可能。</p>
+<p><strong>AVS economics</strong>:~15 AVS active(2026-Q2)· 主推は Ethena USDe / sUSDe restake · Hyperlane ISM の 1 つ · Mellow vault deep integration · GearBox credit account 等。Operator rewards は多様化(ステーブルコイン · vault token · AVS native)。</p>
+<p><strong>Correlation risk</strong>:理論上 EigenLayer より高い(マルチアセットクラス · slashing トリガー条件が複雑)· ただし実際には多元化資産が単一 ETH リスクを分散できる。Vault curator の選択がリスクアンカー。</p>
+<p><strong>Operator concentration</strong>:Top 5 operator ~60%(P2P · Kiln · Chorus One · Everstake · DSRV)· 集中度は EigenLayer より高い。</p>
+<p><strong>Governance</strong>:Symbiotic Labs チーム主導 · 2026-Q4 に token + DAO governance 予定。Vault curator は事実上の sub-governance(各 vault が独立)。</p>
+<p><strong>Audit</strong>:OpenZeppelin · Sigma Prime · Cantina contest · 初期段階 · audit カバレッジは EigenLayer より少ないが拡大継続。</p>
+<p><strong>Lido stake overlap</strong>:~40% TVL が LST vault 由来(stETH · rETH · wstETH · 等)。Mellow が Symbiotic の主要 vault curator として、LRT 資金を Symbiotic AVS にルーティング。</p>
+<p><strong>Regulatory exposure</strong>:マルチアセットにより Symbiotic の規制ポジショニングはより複雑になる(一部 vault がステーブルコインを含む = money market 規制に接近)· ただし単一資産の規制イベント影響は限定的になる。</p>
+<h3 id="karak">Karak</h3>
+<p><strong>Restaking model</strong>:Universal restaking(ETH · BTC · USDC をサポート · K2 は Karak 自社の L2)· 開発者 UX を強調(「any asset can secure any service」)。</p>
+<p><strong>TVL May 2026</strong>:~$1.0B(2024 ローンチ · 2025 growth だが Symbiotic より遅い · 2026 は BTC restaking モジュール + K2 統合で上昇)。</p>
+<p><strong>Slashing implementation</strong>:2025-Q3 有効化 · ただし実際の AVS 数が少なく · slash イベント ≤ 2 件をトリガー。</p>
+<p><strong>AVS economics</strong>:~10 AVS active · 主に Karak チーム自身がインキュベートしたサービス(K2 L2 sequencer / DA)· サードパーティ AVS は少ない。</p>
+<p><strong>Correlation risk</strong>:マルチアセットモデル下で correlation は複雑 · ただし TVL 規模が小さく · システミックリスクは当面低い。</p>
+<p><strong>Operator concentration</strong>:Top 5 operator ~70%(Karak 自社運営 + 少数提携者)。</p>
+<p><strong>Governance</strong>:Karak Foundation 主導 · KAR token は 2026-Q3-Q4 にローンチ予定。</p>
+<p><strong>Audit</strong>:Sigma Prime · Halborn · Cantina(一部)。</p>
+<p><strong>Lido stake overlap</strong>:~20% TVL が stETH 由来(Karak は BTC + ステーブルコイン restaking がより大きな比率)。</p>
+<p><strong>Regulatory exposure</strong>:BTC restaking が SEC の「BTC yield product」への関心をトリガー。USDC restaking は money market 規制に接近。総合的に規制サーフェスは EigenLayer より広い。</p>
+<h3 id="mellow">Mellow</h3>
+<p><strong>Restaking model</strong>:LRT vault aggregator(基層 restaking ではなく · EigenLayer + Symbiotic の上に構築された vault layer)· Mellow vault ユーザーが stETH / wstETH を預け · vault が自動的に EigenLayer/Symbiotic AVS に restake · 収益分配 + slashing リスクが pooled。</p>
+<p><strong>TVL May 2026</strong>:~$1.8B(2024-Q4 launch · 2025-2026 fast growth · Symbiotic の最大 vault curator · 同時に一部 EigenLayer vault も deploy)。</p>
+<p><strong>Slashing implementation</strong>:Vault 層で slashing を socialize(1 つの AVS slash を vault 保有者全体がシェアに応じて負担)· ユーザーは暗黙的に portfolio slashing リスクを受け入れる。</p>
+<p><strong>AVS economics</strong>:Mellow vault が複数 AVS pool を選択して risk-adjusted yield を最適化 · ユーザーが得るのは「mixed AVS rewards」basket。</p>
+<p><strong>Correlation risk</strong>:最高の層 —— vault が複数 AVS を同時保有 · 単一 vault 内 slash cascade リスクが顕著。Mellow は vault 多元化(異なる AVS pool 異なる vault)で緩和。</p>
+<p><strong>Operator concentration</strong>:EigenLayer / Symbiotic operator 集合を借用 · 自身は新規集中度を持ち込まない。</p>
+<p><strong>Governance</strong>:Mellow DAO + MLW token(2025-Q2 ローンチ)· vault curator team が sub-governance。</p>
+<p><strong>Audit</strong>:Sigma Prime · Spearbit · Code4rena · Symbiotic と合同 audit。</p>
+<p><strong>Lido stake overlap</strong>:~100%(Mellow vault は基本的にすべて stETH / wstETH / LST 集合ベース)· Lido → restaking の最大単一経路。</p>
+<p><strong>Regulatory exposure</strong>:Vault 構造は「managed fund」に接近 · EU MiCA / SEC 下で集合投資 scheme に分類される可能性。Mellow は積極的に US ユーザーを回避。</p>
+<h3 id="etherfi-lrt-eeth--weeth">EtherFi LRT (eETH / weETH)</h3>
+<p><strong>Restaking model</strong>:LST + restaking 一体化 —— ユーザーが ETH を預け · eETH(rebasing)または weETH(wrapped non-rebasing)を取得 · EtherFi が基層 ETH を同時に stake(beacon chain validator)+ restake(EigenLayer + Symbiotic + Karak partial)。LRT 市場のリーダー。</p>
+<p><strong>TVL May 2026</strong>:~$5.5B(2024 高値 $7B · 2026 穏やかな調整)· 最大の LRT。</p>
+<p><strong>Slashing implementation</strong>:EtherFi が自社でノード運営(ノード運営者ネットワーク · 厳格にスクリーニング)· slash リスクは EtherFi insurance fund + プロトコル reserve が負担。ユーザーは eETH 価格が slash 損失を反映する形で対峙。</p>
+<p><strong>AVS economics</strong>:EtherFi は ETH を主流 AVS(EigenDA · Hyperlane · Espresso · Lagrange)に restake することを選択 · 収益は eETH yield(年化 ~4-6% · base staking 3-4% + restaking premium 1-2% を含む)に反映。</p>
+<p><strong>Correlation risk</strong>:eETH 保有者は自然に EigenLayer + Symbiotic + Karak の 3 層 slash cascade に露出する。EtherFi insurance fund ~$50M が first-loss buffer。</p>
+<p><strong>Operator concentration</strong>:EtherFi ノードネットワーク ~200 operator · 一部は EtherFi が直接運営 · 一部はアウトソーシング(Pier Two · ChainSafe · Validation Cloud 等)。</p>
+<p><strong>Governance</strong>:EtherFi DAO + ETHFI token(2024-Q2 ローンチ)· Foundation + Security Council 7-of-15。</p>
+<p><strong>Audit</strong>:Spearbit · Halborn · Certora · Hats Finance bug bounty。</p>
+<p><strong>Lido stake overlap</strong>:EtherFi は Lido の直接競合(LST 市場シェア)· EtherFi は stETH を使用しない(自社で validator を運営)· ただし EtherFi の一部 stake が EigenLayer にされる際 stETH と同じ AVS pool 内に位置する。</p>
+<p><strong>Regulatory exposure</strong>:LRT は SEC の重点関心対象(2024 SEC 議長 Gensler が「staking + restaking = potential security」と公開言及)。EtherFi は積極的に米国リテールユーザーを geo-fence。</p>
+<h3 id="lido-csm-community-staking-module">Lido CSM (Community Staking Module)</h3>
+<p><strong>Restaking model</strong>:Lido 自身は長期に restaking に参入せず(Lido v2 治理で複数回否決)· ただし 2024 年に CSM(Community Staking Module)を発表し、小規模 operator が Lido validator セットに参加可能とした · 同時に stVaults(2026 計画)を探索し stETH 保有者が opt-in restaking できるようにする。Lido v3(2026 roadmap)で正式に restaking hook を導入。</p>
+<p><strong>TVL May 2026</strong>:~$280M(CSM early adoption · 2026 Q3-Q4 stVaults ローンチ後急成長予想)。Lido stETH 全体 TVL ~$32B(restaking 部分 &#x3C; 1%)。</p>
+<p><strong>Slashing implementation</strong>:CSM operator が自前 bond(2-4 ETH)を collateral として持参 · slash は bond を優先的に控除 · 不足分は Lido insurance fund が負担。stVaults restaking slash は vault ユーザーがシェアに応じて負担。</p>
+<p><strong>AVS economics</strong>:Lido stVaults は EigenLayer + Symbiotic 主流 AVS をサポート予定 · ただし Lido DAO が AVS ホワイトリストを厳格に管理(監査完備 + 治理安定したもののみ接続可)。</p>
+<p><strong>Correlation risk</strong>:Lido の設計哲学は「minimize correlation」· stVaults opt-in 後はユーザーが暗黙的に負担 · ただし Lido DAO が AVS ホワイトリスト + 浮動 cap で制限。</p>
+<p><strong>Operator concentration</strong>:Lido 主集合 ~30 operator(機関)+ CSM ~200 小 operator。CSM は分散化改善 · ロングテール home staker を導入。</p>
+<p><strong>Governance</strong>:Lido DAO + LDO token + 全民 referendum · 治理複雑度が最高(stVaults への任意 AVS 接続には LDO 投票通過が必要)。</p>
+<p><strong>Audit</strong>:Sigma Prime · ChainSecurity · OpenZeppelin · Certora · Statemind · MixBytes · audit カバレッジは業界最深。</p>
+<p><strong>Lido stake overlap</strong>:Lido が stETH 発行者 · ここでの「Lido stake overlap」= 100%。stETH の EigenLayer / Symbiotic / Mellow / EtherFi での二次 restaking が restaking エコシステム全体の 25-40% を占め · Lido は事実上の restaking 流動性源(<span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid staking restaking CEX エクスポージャー</span> を参照)。</p>
+<p><strong>Regulatory exposure</strong>:Lido DAO 治理構造は SEC 視点では「decentralized issuer」に接近 · ただし LDO token holder 投票 + 治理収益分配が securities を構成する可能性。EU MiCA 下で stETH が「asset-referenced token」を構成するかは判決待ち。</p>
+<h2 id="avs-landscape--5-大-avs-経済画像">AVS landscape — 5 大 AVS 経済画像</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>AVS</th><th>タイプ</th><th>主要 backing</th><th>2026 収入推定</th><th>TVL backing</th><th>顧客</th></tr></thead><tbody><tr><td><strong>EigenDA</strong></td><td>Data Availability</td><td>EigenLayer</td><td>~$120M ARR</td><td>~$6B ETH</td><td>Mantle · Movement · Cyber · Rivalz · 複数 ZK Stack hyperchain</td></tr><tr><td><strong>Hyperlane</strong></td><td>Cross-chain messaging ISM</td><td>EigenLayer + Symbiotic + 自社</td><td>~$30M ARR(messaging fee 分配)</td><td>~$1.5B ETH(EigenLayer ISM) + Symbiotic 一部</td><td>Eclipse · Celestia · Renzo · 複数 app-chain</td></tr><tr><td><strong>Espresso</strong></td><td>Shared sequencer</td><td>EigenLayer</td><td>~$15M ARR(early)</td><td>~$800M ETH</td><td>Polygon zkEVM · zkSync ZK Stack · Caldera · AltLayer rollup-as-a-service</td></tr><tr><td><strong>Lagrange</strong></td><td>Coprocessor + state proof</td><td>EigenLayer</td><td>~$8M ARR</td><td>~$500M ETH</td><td>LayerZero · Polyhedra · 複数 DeFi protocol</td></tr><tr><td><strong>Witness Chain</strong></td><td>POI(Proof of Inference)/ DePIN 検証</td><td>EigenLayer</td><td>~$5M ARR(experimental)</td><td>~$200M ETH</td><td>DePIN プロジェクト + AI inference verification</td></tr></tbody></table>
+<p><strong>AVS 経済モデル 2 種類</strong>:</p>
+<ul>
+<li><strong>Direct fee</strong>:ユーザー / 顧客が課金(EigenDA 顧客が DA fee を支払う · Hyperlane 顧客が messaging fee を支払う)→ operator に分配</li>
+<li><strong>Token incentive</strong>:AVS が自前 token を持つ · 初期 emission を operator に bootstrapping として供与(Espresso · Lagrange · Witness Chain)</li>
+</ul>
+<p><strong>Rehypothecation 影響</strong>:Top 3 AVS(EigenDA · Hyperlane · Espresso)はいずれも主に EigenLayer から backing を引く · 1 単位 ETH が 3 個の AVS を同時に secure するのが常態。Vitalik が警告する「cascade risk」は主にこの状況を指す。</p>
+<h2 id="big-comparison-matrix-table">Big comparison matrix table</h2>
+<p><strong>6 つの restaking インフラ × 10 軸対照</strong>(2026-Q2 状態):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Protocol</th><th>Restaking Model</th><th>TVL May 2026</th><th>Slashing</th><th>AVS Economics</th><th>Correlation Risk</th><th>Operator Concentration</th><th>Governance</th><th>Audit</th><th>Lido Overlap</th><th>Regulatory</th></tr></thead><tbody><tr><td><strong>EigenLayer</strong></td><td>Operator-delegated · native ETH+LST+EIGEN</td><td>~$14B</td><td>2025-Q2 有効化 · ≤5 events · &#x3C;$5M 累計</td><td>~40 AVS · EIGEN+AVS token rewards · base に +1-3%</td><td>Rehypothecation 2.5-3x · cascade 懸念</td><td>Top 5 ~50%</td><td>EigenLabs+EIGEN+SC 7/13</td><td>Trail of Bits · ChainSecurity · OZ · Sigma Prime · C4 · Cantina</td><td>~25% stETH</td><td>SEC EIGEN security 未表明 · EU MiCA 判決待ち</td></tr><tr><td><strong>Symbiotic</strong></td><td><strong>マルチアセット</strong>(ETH+LST+stablecoin+token)· modular vault</td><td>~$3.2B</td><td>Day 1 design · 2025-Q1 有効化 · vault-level</td><td>~15 AVS · stablecoin/vault/AVS token rewards</td><td>複雑マルチアセット · vault curator アンカー</td><td>Top 5 ~60%</td><td>Symbiotic Labs · 2026 Q4 token+DAO</td><td>OZ · Sigma Prime · Cantina · 初期段階</td><td>~40% stETH(Mellow vault 主経路)</td><td>マルチアセット規制サーフェス複雑</td></tr><tr><td><strong>Karak</strong></td><td>Universal(ETH+BTC+USDC)· K2 L2 統合</td><td>~$1.0B</td><td>2025-Q3 有効化 · ≤2 events</td><td>~10 AVS · Karak-incubated 中心</td><td>マルチアセット複雑 · TVL 小 リスク当面低</td><td>Top 5 ~70%(集中度高)</td><td>Karak Foundation · KAR 2026 Q3-Q4</td><td>Sigma Prime · Halborn · Cantina 一部</td><td>~20% stETH</td><td>BTC restaking SEC 関心 · USDC は MM 規制に接近</td></tr><tr><td><strong>Mellow</strong></td><td><strong>LRT vault aggregator</strong>(EigenLayer+Symbiotic 上に)· socialize slashing</td><td>~$1.8B</td><td>Vault-level socialize</td><td>マルチ AVS pool basket rewards</td><td>最高(vault 内 cascade)</td><td>underlying 借用 · 新規集中なし</td><td>Mellow DAO+MLW 2025-Q2 · vault curator sub-gov</td><td>Sigma Prime · Spearbit · C4 · Symbiotic と合同</td><td>~100%(基本的に全 LST)</td><td>managed fund に接近 · 米国回避</td></tr><tr><td><strong>EtherFi LRT</strong></td><td><strong>LST+restaking 一体化</strong> · 自社ノード+マルチレイヤー restake</td><td>~$5.5B(最大 LRT)</td><td>EtherFi ノード責任 · insurance fund first-loss</td><td>EigenDA+Hyperlane+Espresso+Lagrange · 年化 4-6%</td><td>3 層 slash cascade · insurance ~$50M buffer</td><td>EtherFi ネットワーク ~200 operator</td><td>EtherFi DAO+ETHFI 2024 Q2 · SC 7/15</td><td>Spearbit · Halborn · Certora · Hats bounty</td><td>Lido 競合 · 自社 validator · AVS pool 間接重複</td><td>LRT は SEC 重点関心 · 米国リテール geo-fence</td></tr><tr><td><strong>Lido CSM / stVaults</strong></td><td>CSM home staker + stVaults restaking hook(2026 計画)</td><td>~$280M CSM · stETH 全体 $32B</td><td>CSM operator bond first · insurance backup · stVaults ユーザー負担</td><td>厳格 AVS ホワイトリスト(DAO 投票)</td><td>Lido 哲学 minimize · AVS cap 制限</td><td>CSM ~200 小 operator + 主集合 30</td><td>Lido DAO+LDO+referendum(治理最重)</td><td>Sigma Prime · ChainSecurity · OZ · Certora · Statemind · MixBytes · 業界最深</td><td><strong>100%(Lido 自身)</strong> · stETH は restaking 流動性源</td><td>LDO security 判決待ち · stETH MiCA ART 判決待ち</td></tr></tbody></table>
+<p><strong>マトリクスの読み方</strong>:</p>
+<ul>
+<li><strong>Restaking model 3 象限対照</strong>:operator-delegated(EigenLayer · Karak · Symbiotic)→ 直接受託 · vault aggregator(Mellow)→ 他 restaking を包装 · LST+restaking 一体化(EtherFi · Lido stVaults)→ ユーザーが LRT token を受領</li>
+<li><strong>TVL vs operator concentration tradeoff</strong>:EigenLayer TVL 最大 · operator 分散度最高 · Karak TVL 小 · 集中度高 · Mellow は他人の operator 借用で新規集中なし</li>
+<li><strong>Lido overlap が隠れたシステミックリスク</strong> —— stETH の EigenLayer / Symbiotic / Mellow / EtherFi での二次 restaking · stETH 価格デペッグまたは Lido protocol incident が発生すれば · restaking エコシステム全体が同時に影響を受ける</li>
+<li><strong>Slashing の実状態</strong>:有効化後 1+ 年経過しても実 slash イベント ≤ 10 件 · 累計金額 &#x3C; $10M · Vitalik が警告した「$100M+ cascade」シナリオをはるかに下回る · ただし sample size が小さく · リスクが価格付けされたと結論づけられない</li>
+</ul>
+<h2 id="boundary-cases--future-trajectory">Boundary cases / future trajectory</h2>
+<p><strong>Restaking と EIP-7251 の相互作用</strong>(<span class="wl" data-target="systems/pectra-eip-7251-institutional-staking">Pectra EIP-7251 · institutional staking</span> を参照):</p>
+<ul>
+<li>EIP-7251 が validator max effective balance を 32 → 2048 ETH に拡大 · 大機関が validator を統合し運用コストを下げることを可能にする。</li>
+<li>機関 validator は同時に大額 ETH を restake 可能 · operator concentration をさらに押し上げる。EigenLayer は 2025 年に top 5 operator 比率の小幅上昇を確認済み。</li>
+<li>長期的に institutional staking(SWIFT カストディアン · BNY · Coinbase Custody · BlackRock · <span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid staking restaking CEX エクスポージャー</span> を参照)が restaking に参入し · TVL は 2026 年の $20B 級から 2027-2028 年に $50B+ へ押し上がる可能性。</li>
+</ul>
+<p><strong>Lido v3 restaking 接続</strong>:Lido DAO 2026-2027 stVaults 主線開発 · 接続されれば stETH が直接 restaking primitive となり · 二次包装が不要となる。これにより:</p>
+<ul>
+<li>Mellow / EtherFi の一部価値が吸収される(stETH 保有者が直接 opt-in · 仲介 vault が不要)</li>
+<li>ただし Lido の厳格な AVS ホワイトリストはロングテール AVS の bootstrapping も制限</li>
+<li>長期に Lido + EigenLayer が事実上の duopoly を形成 · Symbiotic / Karak / Mellow / EtherFi が周縁細分を担う</li>
+</ul>
+<p><strong>AVS ビジネスモデルの進化</strong>:</p>
+<ul>
+<li><strong>2024-2025 段階</strong>:大部分の AVS は token incentive bootstrapping(自前 token を operator に配布)に依存 · 実 fee revenue は少ない。</li>
+<li><strong>2026 段階</strong>:ヘッド AVS(EigenDA · Hyperlane · Espresso)が実 fee revenue を持ち始めるが · AVS-to-operator 分配比率は一致しない(EigenDA は 90%+ を operator に · Hyperlane は 50/50 · Espresso は依然として bootstrapping 中)。</li>
+<li><strong>2027+ トレンド</strong>:AVS market は「DA コモディティ化」(EigenDA / Celestia / Avail 価格戦)と「差別化サービス」(Espresso shared sequencer · Lagrange coprocessor · Witness Chain DePIN 検証)に分化する可能性。</li>
+</ul>
+<p><strong>Rehypothecation システミックリスク</strong>:</p>
+<ul>
+<li>Vitalik は 2024 年に EigenLayer の「アプリケーション層コンセンサス」への過度な拡張を複数回警告 —— 1 単位 ETH が 5+ AVS を同時に secure する際の slashing cascade を懸念。</li>
+<li>実データ:2026-Q2 平均 rehypothecation 係数 2.5-3x · 理論最大値(任意の AVS 数)をはるかに下回る · 大部分の ETH は 2-3 個のヘッド AVS にのみ opt-in しているため。</li>
+<li>だが EtherFi / Mellow 等の LRT vault はデフォルトで複数 AVS に opt-in · ユーザーが暗黙的に cascade を負担。Mellow vault の内部多元化は緩和 · ただし cross-vault correlation は依然として存在(同じ operator が同時に複数 AVS を運用)。</li>
+</ul>
+<p><strong>Symbiotic マルチアセット戦略 vs EigenLayer ETH-pure</strong>:</p>
+<ul>
+<li>EigenLayer は ETH(+LST)純度を堅持 · Ethereum コミュニティのコンセンサス + ETH が最深の crypto-economic security pool であるため。</li>
+<li>Symbiotic は任意の資産(ステーブルコイン · プロジェクト token を含む)を受け入れ · AVS にリスクプロファイルを自選させる。</li>
+<li>長期に Symbiotic は「non-ETH-native AVS」(BTC クロスチェーン · DePIN · AI inference)で EigenLayer が取得できない顧客を獲得する可能性;EigenLayer は「ETH-aligned AVS」(ETH-native dApp を顧客とする)で優位を保持。</li>
+</ul>
+<p><strong>Slashing case study 収集中</strong>:</p>
+<ul>
+<li>2025-Q3 EigenLayer の operator(中規模ノード)1 件が validator key の誤設定で ~$200K slash をトリガー · operator が自己負担で補償。</li>
+<li>2025-Q4 EigenDA 1 件で quorum 不足イベントが ~$80K の集団 slash をトリガー · AVS が自身で mitigation。</li>
+<li>2026-Q1 Symbiotic 1 件で vault 設定バグが ~$1M slash を発生 · vault curator が insurance で補償。</li>
+<li>実 slash 事例累計 &#x3C; $5M · ただし各事例がコミュニティの警戒を喚起 · audit + insurance pool 強化を推進。</li>
+</ul>
+<p><strong>Regulatory boundary</strong>:</p>
+<ul>
+<li>SEC は 2024 年に「staking-as-a-service」が securities に接近すると複数回言及(すでに Coinbase · Kraken に対し措置)· restaking は staking の superset · 同等リスク。</li>
+<li>EU MiCA 下で LST は ART(asset-referenced token)に分類される可能性 · LRT はより複雑(基層が LST · 上層に restaking yield 重畳)· 規制経路が不明瞭。</li>
+<li>日本 FSA 2025 公開表明 staking-as-a-service は「ERS(Electronic Recordable Securities)」参入対象 · restaking もこれに準じる。</li>
+<li>機関顧客(BNY · BlackRock · J.P. Morgan)が restaking に参入する前に規制 clarity が必要 · 時間軸は少なくとも 2027+。</li>
+</ul>
+<p><strong>形式検証 / エンジニアリング品質</strong>:</p>
+<ul>
+<li>EigenLayer は restaking 中で audit が最完備(6+ 独立 audit firm + slashing 有効化前複数ラウンド)</li>
+<li>Lido CSM / stVaults は audit 深度で業界最高(7+ firm + Certora formal verification)</li>
+<li>Symbiotic / Karak / Mellow / EtherFi は audit カバレッジで追いつく途上 · 一部初期 audit が slashing logic を含まない</li>
+</ul>
+<p><strong>Restaking と DAG-BFT / threshold consensus の関連</strong>:Restaking により AVS は validator を新規募集せずに起動可能 · ただし AVS 自身のコンセンサスアルゴリズム選定は依然として重要(<span class="wl" data-target="systems/dag-bft-vs-chain-bft-architecture">DAG-BFT vs Chain-BFT</span> と <span class="wl" data-target="systems/threshold-bft-consensus-rust-implementations">threshold BFT consensus Rust implementations</span> を参照)。Espresso shared sequencer は HotShot(DAG-BFT 変種)を使用 · Lagrange coprocessor は threshold signature モデル寄り。AVS のコンセンサス選択は operator の実作業量 + 収益構造に影響し · 逆方向にどの restaking layer が operator に歓迎されるかに影響。</p>
+<p><strong>Validator 経済 4 変数の交差</strong>:<span class="wl" data-target="systems/bft-validator-economy-four-variables">BFT validator economy four variables</span> を参照 —— security budget · stake mobility · validator count · slashing severity の 4 変数は restaking 層ですべて書き換えられる。Restaking は stake mobility を単一チェーンから multi-AVS に拡張 · validator count を新規募集ではなく再利用 · ただし slashing severity を複雑化(単一 ETH が複数 AVS で異なる slash 条件)。これが Vitalik が restaking を「アプリケーション層コンセンサス」に過度に拡張すべきでないと複数回警告する理由 —— AVS 数が operator の監視帯域を超えるとき · validator 経済変数は well-defined ではなくなる。</p>
+<h2 id="related">Related</h2>
+<!-- wiki-links:managed -->
+<ul>
+<li><span class="wl" data-target="INDEX">Wiki Index</span></li>
+<li><span class="wl" data-target="systems/INDEX">systems index</span></li>
+<li><span class="wl" data-target="systems/eigenlayer-overview">EigenLayer overview</span></li>
+<li><span class="wl" data-target="systems/eigenlayer-avs-mechanism">EigenLayer AVS mechanism</span></li>
+<li><span class="wl" data-target="systems/eigenlayer-l1-bootstrapping">EigenLayer L1 bootstrapping</span></li>
+<li><span class="wl" data-target="systems/pectra-eip-7251-institutional-staking">Pectra EIP-7251 institutional staking</span></li>
+<li><span class="wl" data-target="systems/bft-validator-economy-overview">BFT validator economics overview</span></li>
+<li><span class="wl" data-target="systems/bft-validator-economy-four-variables">BFT validator economy four variables</span></li>
+<li><span class="wl" data-target="systems/threshold-bft-consensus-rust-implementations">threshold BFT consensus Rust implementations</span></li>
+<li><span class="wl" data-target="systems/dag-bft-vs-chain-bft-architecture">DAG-BFT vs Chain-BFT</span></li>
+<li><span class="wl" data-target="exchanges/liquid-staking-restaking-cex-exposure">liquid staking restaking CEX エクスポージャー</span></li>
+<li><span class="wl" data-target="systems/cross-chain-five-pole-comparison-matrix">cross-chain five-pole comparison matrix</span></li>
+<li><span class="wl" data-target="systems/hyperlane-overview">Hyperlane overview</span></li>
+</ul>
+<!-- /wiki-links:managed -->
+<h2 id="sources">Sources</h2>
+<ul>
+<li>EigenLayer docs · <a href="https://docs.eigenlayer.xyz/">https://docs.eigenlayer.xyz/</a></li>
+<li>Symbiotic docs · <a href="https://docs.symbiotic.fi/">https://docs.symbiotic.fi/</a></li>
+<li>Karak docs · <a href="https://docs.karak.network/">https://docs.karak.network/</a></li>
+<li>Mellow docs · <a href="https://docs.mellow.finance/">https://docs.mellow.finance/</a></li>
+<li>EtherFi docs · <a href="https://docs.ether.fi/">https://docs.ether.fi/</a></li>
+<li>Lido docs · <a href="https://docs.lido.fi/">https://docs.lido.fi/</a></li>
+<li>EigenDA docs · <a href="https://docs.eigenda.xyz/">https://docs.eigenda.xyz/</a></li>
+<li>Hyperlane docs · <a href="https://docs.hyperlane.xyz/">https://docs.hyperlane.xyz/</a></li>
+<li>Espresso docs · <a href="https://docs.espressosys.com/">https://docs.espressosys.com/</a></li>
+<li>Lagrange docs · <a href="https://docs.lagrange.dev/">https://docs.lagrange.dev/</a></li>
+<li>Witness Chain docs · <a href="https://docs.witnesschain.com/">https://docs.witnesschain.com/</a></li>
+<li>DefiLlama restaking · <a href="https://defillama.com/protocols/Restaking">https://defillama.com/protocols/Restaking</a></li>
+<li>L2Beat DA summary · <a href="https://l2beat.com/data-availability/summary">https://l2beat.com/data-availability/summary</a></li>
+<li>Vitalik blog · “Don’t overload Ethereum’s consensus”(2023 公開 post)</li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</footer>  </body> </html> 

@@ -1,0 +1,302 @@
+<!DOCTYPE html><html lang="zh" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>JHF MBS mechanics (Japan Housing Finance Agency) · FinWiki</title><meta name="description" content="基于公开一手信源的三语、AI 可读金融事实库。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/zh/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/zh/" data-astro-cid-5hce7sga>领域地图</a> <a href="/app/zh/guide/" data-astro-cid-5hce7sga>阅读指南</a> <a href="/app/zh/matrices/" data-astro-cid-5hce7sga>对照矩阵</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang" href="/app/ja/structured-finance/jhf-mbs-mechanics/" hreflang="ja" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/structured-finance/jhf-mbs-mechanics/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang active" href="/app/zh/structured-finance/jhf-mbs-mechanics/" hreflang="zh" aria-current="true" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/zh/">structured-finance</a> <span class="badge">confidence: likely</span> <span class="badge">updated Mon May 25</span> <span class="badge">4 sources</span> </div> <h1>JHF MBS mechanics (Japan Housing Finance Agency)</h1> <div class="prose"> <h1 id="jhf-mbs-mechanics-japan-housing-finance-agency">JHF MBS mechanics (Japan Housing Finance Agency)</h1>
+<h2 id="tldr">TL;DR</h2>
+<p>The Japan Housing Finance Agency (JHF) runs a monthly MBS issuance program backed by Flat 35 fixed-rate residential mortgages originated by private financial institutions. JHF buys the loans via its securitization-support program, packages them into an “MBS Trust” structure, and issues MBS where the senior portion (typically the bulk of issuance) carries JHF’s government-supported credit. Spread vs JGB is tight — typically 10-30bp at the senior class — reflecting effective sovereign-linked credit. This is the largest yen-denominated structured-paper engine in Japan. Use this page for JHF MBS mechanics; pair with <span class="wl" data-target="policy-finance/japan-housing-finance-agency">japan-housing-finance-agency</span> for the agency itself and <span class="wl" data-target="structured-finance/jhf-mbs-vs-private-rmbs-spread">jhf-mbs-vs-private-rmbs-spread</span> for spread economics.</p>
+<h2 id="wiki-route">Wiki route</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>You want</th><th>Go to</th></tr></thead><tbody><tr><td>JHF agency page</td><td><span class="wl" data-target="policy-finance/japan-housing-finance-agency">japan-housing-finance-agency</span></td></tr><tr><td>JHF vs private spread</td><td><span class="wl" data-target="structured-finance/jhf-mbs-vs-private-rmbs-spread">jhf-mbs-vs-private-rmbs-spread</span></td></tr><tr><td>Private RMBS comparison</td><td><span class="wl" data-target="structured-finance/japan-rmbs-issuance-structure">japan-rmbs-issuance-structure</span></td></tr><tr><td>SPV vehicle context</td><td><span class="wl" data-target="structured-finance/spv-tk-gk-vehicle-japan-tax">spv-tk-gk-vehicle-japan-tax</span></td></tr><tr><td>Trust vehicle context</td><td><span class="wl" data-target="structured-finance/japan-trust-beneficial-interest-vs-spv">japan-trust-beneficial-interest-vs-spv</span></td></tr><tr><td>Domain index</td><td><span class="wl" data-target="structured-finance/INDEX">INDEX</span></td></tr></tbody></table>
+<h2 id="1-flat-35-origination">1. Flat 35 origination</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Element</th><th>Description</th></tr></thead><tbody><tr><td>Loan product</td><td>Flat 35 — long-tenor fixed-rate residential mortgage (up to 35 years)</td></tr><tr><td>Origination</td><td>Private financial institutions (megabanks, regional banks, mortgage banks) originate to JHF’s eligibility criteria</td></tr><tr><td>Buyer</td><td>JHF buys the loan from the originator after origination (securitization-support program)</td></tr><tr><td>Risk transfer</td><td>Credit risk passes to JHF (or to the MBS Trust); originator retains servicing</td></tr><tr><td>Borrower experience</td><td>Borrower’s relationship is with the originator; loan terms are fixed for tenor</td></tr></tbody></table>
+<p>Flat 35 fills a gap in private mortgage finance: most private mortgages in Japan are variable-rate or short-tenor fixed-rate. Flat 35 provides long-tenor fixed-rate optionality, supported by JHF’s securitization engine.</p>
+<h2 id="2-monthly-mbs-issuance-cadence">2. Monthly MBS issuance cadence</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Cadence aspect</th><th>Setting</th></tr></thead><tbody><tr><td>Frequency</td><td>Monthly</td></tr><tr><td>Each issuance</td><td>A new MBS series backed by mortgages purchased in the preceding period</td></tr><tr><td>Series naming</td><td>Sequential (e.g., “Series XXX”)</td></tr><tr><td>Schedule</td><td>Predictable; published in advance; supports market-making</td></tr></tbody></table>
+<p>The monthly cadence makes JHF MBS the most regular issuance program in yen structured paper, providing reliable supply to lifers, regional banks, and asset managers. This regularity supports tight pricing — investors do not have to chase episodic supply.</p>
+<h2 id="3-mbs-trust-structure">3. MBS Trust structure</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Component</th><th>Role</th></tr></thead><tbody><tr><td>Trust</td><td>The MBS Trust holds the mortgage pool.</td></tr><tr><td>Trust beneficiaries</td><td>The MBS investors hold beneficiary interest.</td></tr><tr><td>Senior class</td><td>Typically 90-99% of issuance; supported by JHF guarantee.</td></tr><tr><td>Subordinated class</td><td>JHF or other party retains; absorbs first losses.</td></tr><tr><td>Servicer</td><td>Originator retains servicing role; passes collections to trust.</td></tr><tr><td>Trustee</td><td>Trust bank acts as trustee.</td></tr></tbody></table>
+<p>The “MBS Trust” terminology is JHF-specific but the structure is equivalent to a senior-subordinated MBS structure with the senior class wrapped by JHF’s government-supported credit.</p>
+<h2 id="4-government-supported-senior-class">4. Government-supported senior class</h2>
+<ul>
+<li>The senior class of JHF MBS is supported by JHF’s guarantee or by the MBS structure being effectively backstopped by JHF’s role as the issuing entity.</li>
+<li>JHF itself is an incorporated administrative agency under MLIT supervision — see <span class="wl" data-target="policy-finance/japan-housing-finance-agency">japan-housing-finance-agency</span>.</li>
+<li>Government implicit support: while JHF is not a direct sovereign guarantor, market participants price JHF MBS as effectively sovereign-linked credit.</li>
+<li>Rating: senior class typically receives the highest rating tier from JCR / R&#x26;I, reflecting the JHF / sovereign linkage.</li>
+</ul>
+<h2 id="5-subordinated-portion">5. Subordinated portion</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Aspect</th><th>Setting</th></tr></thead><tbody><tr><td>Size</td><td>Typically 1-10% of issuance</td></tr><tr><td>Holder</td><td>JHF retains (first-loss skin in the game)</td></tr><tr><td>Function</td><td>Absorbs credit losses before senior class touched</td></tr><tr><td>Effect</td><td>Senior class effectively insulated from typical default volatility</td></tr></tbody></table>
+<p>JHF holds first-loss subordinated interest in its own MBS — a form of “skin in the game” that gives investors confidence senior bonds are insulated from typical credit volatility.</p>
+<h2 id="6-prepayment-behavior">6. Prepayment behavior</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Driver</th><th>Effect</th></tr></thead><tbody><tr><td>Refinancing waves</td><td>Flat 35 borrowers may refinance to a lower-rate Flat 35 or to private variable-rate mortgages.</td></tr><tr><td>Move / sale</td><td>Standard prepayment.</td></tr><tr><td>Bonus prepayment</td><td>Japan-specific: salaried borrowers often make annual bonus-time partial prepayments.</td></tr><tr><td>Interest-rate sensitivity</td><td>Long-tenor fixed-rate borrowers refinance when rates drop materially.</td></tr></tbody></table>
+<p>Japan prepayment models are calibrated to historical Flat 35 behavior — typically slower than US conventional MBS but with annual bonus-period prepayment spikes. JHF publishes prepayment data that rating agencies and investors use in modeling.</p>
+<h2 id="7-investor-base">7. Investor base</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Investor class</th><th>Why</th></tr></thead><tbody><tr><td>Lifers</td><td>Long-duration, sovereign-linked credit fits ALM.</td></tr><tr><td>Regional banks</td><td>JGB-plus yield with effective sovereign credit.</td></tr><tr><td>Asset managers</td><td>Bond-fund constituent.</td></tr><tr><td>Public-credit investors</td><td>Direct allocation to housing-policy theme.</td></tr><tr><td>Foreign investors</td><td>Selective, especially when JGB curve is flat.</td></tr></tbody></table>
+<p>The investor base is similar to JGB investors with a slight yield-pickup tilt — JHF MBS is treated as a sovereign-linked instrument with modest spread.</p>
+<h2 id="8-comparison-summary">8. Comparison summary</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Dimension</th><th>JHF MBS</th><th>Private RMBS</th></tr></thead><tbody><tr><td>Underlying loan</td><td>Flat 35 (long-tenor fixed)</td><td>Variable-rate or mixed jumbo</td></tr><tr><td>Originator</td><td>Private banks → JHF buys</td><td>Private banks (megabanks)</td></tr><tr><td>Credit support</td><td>JHF / government-supported senior</td><td>Subordination + OC + reserves</td></tr><tr><td>Issuance cadence</td><td>Monthly</td><td>Intermittent</td></tr><tr><td>Senior rating</td><td>Top tier (sovereign-linked)</td><td>AAA-AA via structuring</td></tr><tr><td>Spread vs JGB</td><td>~10-30bp</td><td>~50-100bp</td></tr></tbody></table>
+<p>Compare with <span class="wl" data-target="structured-finance/japan-rmbs-issuance-structure">japan-rmbs-issuance-structure</span> and <span class="wl" data-target="structured-finance/jhf-mbs-vs-private-rmbs-spread">jhf-mbs-vs-private-rmbs-spread</span>.</p>
+<h2 id="9-why-it-matters">9. Why it matters</h2>
+<ul>
+<li>JHF MBS is the largest yen structured-paper engine and effectively sets the benchmark for yen RMBS pricing.</li>
+<li>It is the public-credit anchor for <span class="wl" data-target="structured-finance/INDEX">INDEX</span> — a structural bridge between private mortgage origination and capital-market funding.</li>
+<li>It is what makes long-tenor fixed-rate mortgages feasible in Japan; without JHF securitization support, private banks could not hold large fixed-rate mortgage books matched to long-duration funding.</li>
+<li>It is a core ALM asset for Japanese lifers and a JGB-substitute for many institutional accounts.</li>
+</ul>
+<h2 id="related">Related</h2>
+<ul>
+<li><span class="wl" data-target="structured-finance/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="structured-finance/jhf-mbs-vs-private-rmbs-spread">jhf-mbs-vs-private-rmbs-spread</span></li>
+<li><span class="wl" data-target="structured-finance/japan-rmbs-issuance-structure">japan-rmbs-issuance-structure</span></li>
+<li><span class="wl" data-target="structured-finance/japan-abs-market-overview">japan-abs-market-overview</span></li>
+<li><span class="wl" data-target="structured-finance/japan-trust-beneficial-interest-vs-spv">japan-trust-beneficial-interest-vs-spv</span></li>
+<li><span class="wl" data-target="structured-finance/credit-rating-methodology-jcr-r-and-i">credit-rating-methodology-jcr-r-and-i</span></li>
+<li><span class="wl" data-target="policy-finance/japan-housing-finance-agency">japan-housing-finance-agency</span></li>
+<li><span class="wl" data-target="policy-finance/INDEX">INDEX</span></li>
+<li><span class="wl" data-target="JapanFG/jfc">jfc</span></li>
+<li><span class="wl" data-target="real-estate-finance/INDEX">INDEX</span></li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Japan Housing Finance Agency, “私たちについて”.</li>
+<li>Japan Housing Finance Agency, “組織の概要”.</li>
+<li>JCR (Japan Credit Rating Agency), MBS criteria.</li>
+<li>R&#x26;I (Rating and Investment Information), MBS methodology.</li>
+<li>MLIT, JHF supervision page.</li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>基于公开一手信源的金融事实库。每条事实都可回溯到条目所列出处。</footer>  </body> </html> 

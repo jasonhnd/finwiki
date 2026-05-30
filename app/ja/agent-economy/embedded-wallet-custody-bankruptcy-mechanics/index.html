@@ -1,0 +1,202 @@
+<!DOCTYPE html><html lang="ja" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Embedded-wallet custody bankruptcy mechanics · what happens to end-user funds if Privy / Stripe / Coinbase CDP / AWS Bedrock fails · FinWiki</title><meta name="description" content="公開一次情報にもとづく、三言語・AI 可読の金融事実ベース。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/ja/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/ja/" data-astro-cid-5hce7sga>領域マップ</a> <a href="/app/ja/guide/" data-astro-cid-5hce7sga>読み方ガイド</a> <a href="/app/ja/matrices/" data-astro-cid-5hce7sga>比較マトリクス</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang active" href="/app/ja/agent-economy/embedded-wallet-custody-bankruptcy-mechanics/" hreflang="ja" aria-current="true" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/agent-economy/embedded-wallet-custody-bankruptcy-mechanics/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang" href="/app/zh/agent-economy/embedded-wallet-custody-bankruptcy-mechanics/" hreflang="zh" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/ja/">agent-economy</a> <span class="badge">confidence: likely</span> <span class="badge">updated Mon May 25</span> <span class="badge">14 sources</span> </div> <h1>Embedded-wallet custody bankruptcy mechanics · what happens to end-user funds if Privy / Stripe / Coinbase CDP / AWS Bedrock fails</h1> <div class="prose"> <h1 id="embedded-wallet-custody-bankruptcy-mechanics--what-happens-to-end-user-funds-if-privy--stripe--coinbase-cdp--aws-bedrock-fails">Embedded-wallet custody bankruptcy mechanics · what happens to end-user funds if Privy / Stripe / Coinbase CDP / AWS Bedrock fails</h1>
+<h2 id="tldr">TL;DR</h2>
+<p>End-user funds in an embedded wallet are <strong>on-chain at an address the user controls jointly with the provider</strong>, not on the provider’s balance sheet. If Privy, Stripe (the Privy parent), Coinbase CDP, or the underlying AWS Bedrock TEE infrastructure fails, the <strong>legal-bankruptcy claim</strong> on the cash a user might be owed is small (because the provider holds little or no user cash), but the <strong>operational-recovery question</strong> — can the user reconstruct their MPC key shards and move their on-chain assets to a new wallet — is the real risk. The category has converged on three protective primitives: (1) <strong>MPC sharding</strong> (no single party can sign alone), (2) <strong>social-recovery + Passkey on-device shards</strong> (the user side survives provider failure), and (3) <strong>multisig-backed escape hatches</strong> for higher-value institutional users. Embedded-wallet failure is structurally <strong>closer to MetaMask losing its seed-phrase recovery UI than to FTX losing its customers’ coins</strong>, but the protection only holds if the user actually has a recoverable on-device or cloud shard. See <span class="wl" data-target="agent-economy/embedded-wallet-network-effects-moat">integrator moat</span> for the §501-friendly custody design, <span class="wl" data-target="agent-economy/privy-embedded-wallet-overview">Privy overview</span> for the canonical MPC + TEE model, and <span class="wl" data-target="fintech/embedded-wallet-fintech-disintermediation-overview">fintech disintermediation overview</span> for the broader UX framing.</p>
+<h2 id="wiki-route">Wiki route</h2>
+<p>This entry sits under <span class="wl" data-target="agent-economy/INDEX">agent-economy index</span>. Read it with <span class="wl" data-target="agent-economy/privy-embedded-wallet-overview">Privy embedded wallet overview</span> for the MPC + TEE primitive, <span class="wl" data-target="agent-economy/coinbase-cdp-developer-platform">Coinbase CDP developer platform</span> for the alternative architecture, <span class="wl" data-target="agent-economy/embedded-wallet-network-effects-moat">embedded wallet network effects · integrator moat</span> for the regulatory framing, and <span class="wl" data-target="fintech/INDEX">fintech index</span> for the deposit-protection and SIPC / FDIC analog framing.</p>
+<h2 id="four-failure-scenarios">Four failure scenarios</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Scenario</th><th>What fails</th><th>Direct effect on user funds</th><th>Operational recovery question</th></tr></thead><tbody><tr><td>1. Privy / Magic / CDP becomes insolvent</td><td>The SDK vendor’s company-level operations halt</td><td>None on the underlying chain balance</td><td>Can the user reconstruct an MPC signature without the provider’s server-side shard?</td></tr><tr><td>2. Stripe (the Privy parent) enters Ch. 11</td><td>The corporate parent is in bankruptcy</td><td>None directly on the wallet address; the wallet does not custody fiat at Stripe (in most product configurations)</td><td>Does the Privy TEE remain operational under DIP financing, or does a bankruptcy court force a sale?</td></tr><tr><td>3. Coinbase enters Ch. 11</td><td>CDP’s parent fails; Coinbase Wallet (consumer) and CDP (SDK) operations affected differently</td><td>Coinbase Wallet (consumer) is self-custody — addresses on chain are not affected. Coinbase Custody / Coinbase Prime (institutional custody) is in a separate qualified-custodian entity — also legally separated. The user-funds-at-risk question is largest for <strong>Coinbase Exchange</strong> balances, which are not the embedded-wallet category</td><td>For CDP-managed Smart Wallets, can the user sign without the CDP-side server shard?</td></tr><tr><td>4. AWS Bedrock / AWS TEE outage or shutdown</td><td>The underlying TEE infrastructure that holds one MPC shard becomes unavailable</td><td>If outage is temporary, user signs once TEE recovers. If permanent (which has no precedent for AWS), users with recoverable on-device or cloud shards survive</td><td>Does the provider maintain a TEE-portability plan to migrate the server-side shard to a different cloud / hardware enclave?</td></tr></tbody></table>
+<p>In all four scenarios the <strong>on-chain wallet address persists</strong> — it is a deterministic public-key-derived string that does not care about the corporate status of the SDK vendor. What can fail is <strong>the ability to assemble a valid signature</strong>, which depends on the surviving shards.</p>
+<h2 id="mpc-sharding--the-structural-protection">MPC sharding · the structural protection</h2>
+<p>The embedded-wallet category converged on an [n / m] MPC threshold-signature design across most major providers. The canonical Privy split (documented at docs.privy.io/security):</p>
+<ul>
+<li><strong>Shard 1 (user-device).</strong> Stored on the user’s device, protected by Passkey / WebAuthn / Secure Enclave on iOS / Android, or by browser-credential APIs on desktop.</li>
+<li><strong>Shard 2 (provider TEE).</strong> Stored inside a Trusted Execution Environment operated by the provider — AWS Nitro Enclaves or equivalent on Privy, Coinbase-managed enclaves on CDP, etc.</li>
+<li><strong>Optional shard 3 (user backup).</strong> Cloud backup encrypted under the user’s social-recovery key (Google / Apple ID-bound) or an explicit user-held backup.</li>
+</ul>
+<p>A valid signature requires t-of-n shards (typically 2-of-2 or 2-of-3). The provider’s TEE alone cannot sign — it lacks the user-device shard. The user-device alone cannot sign — it lacks the TEE shard. <strong>The provider’s bankruptcy by itself does not unlock or steal user funds.</strong></p>
+<p>The failure mode that matters in a 2-of-2 design is the provider’s TEE being <strong>destroyed</strong> (not stolen — destroyed). In a 2-of-3 design with a user cloud backup, the user can reconstruct using shard 1 + shard 3 even if shard 2 disappears entirely. This is why <strong>2-of-3 with a recoverable user-side backup is the regulator-resilient configuration</strong> and the default in most mid-2026 provider docs.</p>
+<h2 id="social-recovery--passkey-on-device-shards">Social-recovery + Passkey on-device shards</h2>
+<p>The user-side primitive has standardized around two patterns:</p>
+<p><strong>Pattern A · Passkey + WebAuthn.</strong> The user-device shard is held in the Secure Enclave (iPhone), TEE (Android), or platform credential store (browser), and unlocked by FaceID / TouchID / Windows Hello. The shard is never exported in plaintext. Risk: lost device with no cloud-synced Passkey = lost shard. Apple iCloud Keychain sync and Google Password Manager sync mitigate this; both sync Passkeys across the user’s devices in the same Apple ID / Google account.</p>
+<p><strong>Pattern B · Social recovery.</strong> The user designates 3-5 “guardians” (trusted contacts, additional devices, hardware key) that can collectively (k-of-n) reconstruct the user-side shard. This is the ERC-4337 social-recovery primitive native to Argent and adopted in CDP Smart Wallets and other ERC-4337 wallets. Risk: collusion among guardians; UX cost of designation.</p>
+<p>Embedded-wallet providers typically offer Pattern A as the default and Pattern B as an opt-in for higher-value users.</p>
+<h2 id="multisig-escape-hatches-for-institutional-users">Multisig escape hatches for institutional users</h2>
+<p>Higher-value institutional users (treasury, AI-agent operators with large stablecoin float, tokenization issuers) typically do not use 2-of-2 MPC alone. The patterns:</p>
+<ul>
+<li><strong>2-of-3 with one Safe multisig signer.</strong> The user-side controls one signer, the provider’s MPC system is a second, and a Gnosis Safe (or Safe{Wallet}) multisig under the user’s institutional governance is the third. Provider failure = the user signs from device + Safe and recovers.</li>
+<li><strong>Smart account with timelock.</strong> ERC-4337 / ERC-7702 smart accounts with a timelocked “recovery owner” — typically a hardware wallet or a Safe multisig — that can take over the account after a notice period.</li>
+<li><strong>Off-chain hot/cold sweep policy.</strong> A scheduled sweep that periodically moves funds above a threshold from the embedded wallet to a separately-custodied <span class="wl" data-target="fintech/onchain-finance-vs-crypto-bifurcation">cold storage</span> or Anchorage / BitGo / Fireblocks qualified-custodian wallet. The embedded wallet is treated as a hot wallet, not a custody surface.</li>
+</ul>
+<p>The pattern parallels the way the <span class="wl" data-target="agent-economy/coinbase-cdp-developer-platform">Coinbase CDP</span> documentation distinguishes between consumer self-custody, Smart Wallets, and Coinbase Prime / Custody (a regulated qualified-custodian entity under a New York limited-purpose trust charter, legally separated from Coinbase Exchange).</p>
+<h2 id="stripe-treasury--the-fiat-side-custody-chain">Stripe Treasury · the fiat-side custody chain</h2>
+<p>When the embedded wallet is fed by fiat — for example, a Stripe Connect merchant accepting USD and converting to USDC via Privy + Bridge — the fiat side touches the <strong>Stripe Treasury</strong> custody chain before the on-chain leg begins. The chain (documented at stripe.com/treasury):</p>
+<ul>
+<li><strong>Stripe Payments Inc.</strong> (a non-bank money transmitter in many US states, FCA-regulated in the UK, and operating under regional licenses elsewhere) holds the receivable from the card networks.</li>
+<li><strong>Stripe Treasury partner banks</strong> (publicly Goldman Sachs and Evolve Bank &#x26; Trust historically) hold the actual cash deposits in segregated FBO (“for benefit of”) accounts.</li>
+<li><strong>FDIC pass-through insurance</strong> applies to the underlying partner-bank accounts on a per-end-customer basis, subject to the $250,000 standard maximum deposit insurance amount and the FDIC’s recordkeeping requirements (12 CFR Part 370).</li>
+<li><strong>On the on-chain leg</strong>, after conversion to USDC / USDB / etc., the fiat → stablecoin conversion is operationally inside Bridge (Stripe subsidiary, since 2025-06) or Circle / Tempo. Once the asset is stablecoin on chain, FDIC insurance no longer applies — stablecoin reserve protection is a different regime (Circle’s reserve disclosure, GENIUS Act §501 design, etc.).</li>
+</ul>
+<p>The bankruptcy question therefore splits into <strong>two halves</strong>:</p>
+<ol>
+<li><strong>Pre-conversion fiat side.</strong> Protected by FBO segregation + FDIC pass-through (where the partner bank meets the recordkeeping requirements). Stripe Ch. 11 alone does not lose user funds, because user funds are not on Stripe’s balance sheet — they are at the FDIC-insured partner bank. Risk: failure of a partner bank, gap between Stripe Treasury recordkeeping and the FBO bank’s recordkeeping, or a customer-facing “available balance” UI that misleads about insurance status.</li>
+<li><strong>Post-conversion stablecoin side.</strong> Protected by the issuer’s reserve regime, not Stripe / Privy. USDC reserves are at BlackRock-managed money-market funds + Bank of New York Mellon cash + selected partner banks. USDB reserves are disclosed under Bridge / Stripe’s chosen attestation regime. The user has an unsecured claim against the issuer in a reserve-failure scenario, not against Stripe / Privy.</li>
+</ol>
+<h2 id="sipc--fdic-pass-through-analog--the-regulatory-question">SIPC / FDIC pass-through analog · the regulatory question</h2>
+<p>There is no SIPC-equivalent regime for embedded-wallet end-user funds in any major jurisdiction as of mid-2026. The closest analogs:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Regime</th><th>What it covers</th><th>Whether embedded wallets are inside scope</th></tr></thead><tbody><tr><td>FDIC ($250K standard maximum deposit insurance per depositor per insured bank)</td><td>Bank deposits</td><td>Yes, on the <strong>fiat-side leg</strong> through partner-bank FBO accounts with pass-through</td></tr><tr><td>FDIC pass-through (12 CFR Part 370)</td><td>Banked balances held by a non-bank for the benefit of identifiable customers</td><td>Yes, conditional on the recordkeeping requirements being met by the non-bank intermediary (Stripe, etc.)</td></tr><tr><td>SIPC ($500K coverage, of which $250K may be cash)</td><td>Brokerage securities and cash held at a SIPC-member broker-dealer in a securities transaction</td><td>No, embedded wallets are not broker-dealer accounts</td></tr><tr><td>Coinbase NY Limited Purpose Trust charter (NYDFS)</td><td>Coinbase Custody Trust’s institutional custody</td><td>Partial — applies to Coinbase Custody, not to CDP’s embedded wallets</td></tr><tr><td>US OCC / SAB 121 (rescinded SAB 121 January 2025 via SAB 122)</td><td>Custody of crypto assets on bank balance sheets</td><td>Relevant to banks offering custody; not direct end-user protection</td></tr><tr><td>GENIUS Act §501 (US)</td><td>Stablecoin issuer reserves and segregation</td><td>Applies to USDC / USDB / equivalent reserves, not to wallet provider</td></tr><tr><td>FCA Cryptoasset register + safeguarding rules (UK)</td><td>Custodial wallet providers and stablecoin firms under the upcoming UK regime</td><td>Will apply to UK-domiciled wallet providers; embedded-wallet vendors typically design out of custody to avoid these</td></tr><tr><td>FSA Japan 暗号資産交換業 (Crypto Asset Exchange)</td><td>VASPs holding customer crypto</td><td>Embedded wallet designed not to “hold” customer crypto avoids classification — see [[exchanges/jp-cex-deposit-token-stablecoin-integration</td></tr><tr><td>MAS Singapore Payment Services Act</td><td>DPT (digital payment token) service providers</td><td>Embedded wallet vendors that hold or transmit DPTs are inside scope; pure SDK vendors that never touch keys may be outside</td></tr></tbody></table>
+<p>The pattern is consistent: <strong>none of the major jurisdictions has built a SIPC-style insurance scheme specifically for embedded-wallet end-user funds</strong>. The regulatory bet is that the embedded-wallet design intrinsically avoids the problem (the user always controls one shard; the provider never holds the asset).</p>
+<h2 id="what-actually-happens-in-each-scenario--step-by-step">What actually happens in each scenario · step-by-step</h2>
+<p><strong>Scenario 1 · Privy insolvent, Stripe still solvent.</strong> Stripe’s most plausible response is to keep Privy operating as an internal Stripe service under DIP financing or simple parent-funded continuation. If Privy is wound down anyway, Stripe issues migration tools that walk users through reconstructing their MPC signature using shard 1 + the user-side recoverable shard 3 (cloud backup), exporting the private key, and importing into MetaMask or any other wallet. <strong>Outcome: no fund loss for users with recoverable backups; full loss for users with no backup and no working device.</strong></p>
+<p><strong>Scenario 2 · Stripe in Ch. 11.</strong> Stripe’s USA business is a money transmitter and FCA-authorized firm in many other jurisdictions. Under Ch. 11, customer fiat in Stripe Treasury FBO accounts is segregated and (subject to FDIC recordkeeping compliance) protected by pass-through insurance. The Privy product continues operating as a debtor-in-possession service, likely sold to a successor operator. <strong>Outcome: fiat-side funds protected via FBO segregation; on-chain wallet keys recoverable through MPC + on-device + cloud shards.</strong></p>
+<p><strong>Scenario 3 · Coinbase in Ch. 11.</strong> Coinbase’s qualified-custodian entities (Coinbase Custody Trust under NYDFS, Coinbase Prime) are separately licensed and capitalized — the segregation is the explicit point of the trust-charter structure. CDP’s embedded wallets are operationally Smart Wallets on chain, not custody balances on Coinbase’s balance sheet. Coinbase Exchange spot balances are a separate category and are the largest fund-loss risk in a Coinbase Ch. 11 (this is why the question of whether exchange customer balances are bankruptcy-remote remained legally contested through the early 2020s; see SDNY docket on the FTX matter for comparable analysis). <strong>Outcome for CDP-embedded-wallet users: MPC + on-device shard plus social recovery — fund-loss risk small.</strong></p>
+<p><strong>Scenario 4 · AWS Bedrock TEE outage / shutdown.</strong> AWS Nitro Enclaves run inside AWS regions. A regional outage = temporary signing unavailability for the affected region; cross-region MPC shard replication is the provider’s standard mitigation. A full AWS Nitro shutdown has no precedent and would trigger industry-wide rebuild. <strong>Outcome: temporary outages survivable; permanent infrastructure failure requires provider TEE-portability plan.</strong></p>
+<h2 id="legal-theoretic-analysis--who-actually-owns-the-mpc-shards">Legal-theoretic analysis · who actually owns the MPC shards</h2>
+<p>The legal characterization of an MPC shard in bankruptcy is unsettled and matters in proportion to how much weight the design puts on the server-side shard. Three plausible characterizations:</p>
+<p><strong>Characterization 1 · The shard is the provider’s property, but the user’s signature right is a contractual right.</strong> Under this view, in a Ch. 7 liquidation, the trustee inherits the shard and can theoretically refuse to participate in signature reconstruction. The user’s remedy is a contract-damages claim, not a property claim. This is the worst case for the user and would make MPC-only designs effectively custodial from a bankruptcy perspective.</p>
+<p><strong>Characterization 2 · The shard is constructively the user’s property held by the provider as bailee or custodian.</strong> Under this view, the shard is part of the user’s bankruptcy-remote property and the trustee has no claim. This is the user-friendly view and tracks the way safe-deposit-box contents and trust-account assets are treated. The legal characterization in most major jurisdictions has not been definitively litigated; the closest analog is the treatment of stored encryption keys at custodian crypto exchanges, which the SDNY in the FTX matter treated as customer property after extensive litigation.</p>
+<p><strong>Characterization 3 · The shard alone is non-functional and has no independent legal status.</strong> Under this view, the shard cannot sign and therefore has no value as bankruptcy estate property; the question of whether to participate in reconstruction is a contract question between the user and the trustee. This is the most analytically clean view and aligns with the technical fact that no party can sign alone.</p>
+<p>The mid-2026 industry practice is to design for characterization 2 or 3 (user-friendly), and to publish security documentation that makes the design intent explicit. Whether that intent survives bankruptcy litigation is untested.</p>
+<h2 id="uncitral-and-uniform-law-commission-guidance">UNCITRAL and Uniform Law Commission guidance</h2>
+<p>UNCITRAL’s Model Law on the Use and Cross-border Recognition of Identity Management and Trust Services (2022, with 2024-2025 supplements addressing electronic transferable records and AI-related considerations) and the US Uniform Law Commission’s Uniform Electronic Transactions Act (UETA) and Revised Article 12 of the UCC (controllable electronic records, adopted in many US states in 2024-2026) supply some structural support for the user-friendly characterization. Key public-text features:</p>
+<ul>
+<li><strong>UCC Article 12</strong> explicitly contemplates “controllable electronic records” — assets where control is established by the practical ability to derive economic benefit. An MPC shard that the user can use to participate in signature reconstruction is plausibly controlled by the user, even where physical possession is split.</li>
+<li><strong>UETA</strong> treats electronic records and signatures as legally equivalent to paper, supporting the operational treatment of MPC-signed transactions as the user’s transactions.</li>
+<li><strong>UNCITRAL Model Law on Electronic Transferable Records (MLETR)</strong> supports the bankruptcy-remote treatment of electronic records held under appropriate technical controls.</li>
+</ul>
+<p>None of these instruments has been definitively interpreted to cover embedded-wallet MPC shards. They supply the doctrinal scaffolding for arguments in the user-friendly direction, not a final answer.</p>
+<h2 id="agent-as-principal--the-ai-side-variant">Agent-as-principal · the AI-side variant</h2>
+<p>A subtler bankruptcy question appears when the wallet’s principal is an <strong>AI agent operating under a user-issued <span class="wl" data-target="agent-economy/erc-7715-overview">ERC-7715 wallet permission</span></strong>, not a human end-user. The variant:</p>
+<ul>
+<li>The user has authorized an AI agent (running on AgentCore / Foundry / Vertex) to spend up to X USDC per period for specified purposes.</li>
+<li>The AI agent’s wallet is the user’s wallet, with permissions delegated to a session key controlled by the agent.</li>
+<li>The wallet provider (Privy, CDP) fails. The user’s MPC shard survives. The agent’s session key is also recoverable.</li>
+</ul>
+<p>The structural answer is the same: the on-chain wallet address persists, the user can rotate the session key, and the AI agent simply resumes operation under a new session key. But the operational layer adds complexity — the agent’s runtime is on a hyperscaler (AWS Bedrock, Azure AI Foundry, GCP Vertex), and if the hyperscaler’s agent platform also fails in the same window, the agent cannot resume autonomously until the user manually intervenes. The dependency stack is: chain (resilient) → wallet provider (provider failure scenario) → agent runtime (hyperscaler failure scenario) → user (always available as fallback principal). See <span class="wl" data-target="agent-economy/agent-actorship-debate">agent actorship debate</span> for the deeper question of whether the agent has any independent legal status here.</p>
+<h2 id="comparative-precedents-from-non-wallet-custody-failures">Comparative precedents from non-wallet custody failures</h2>
+<p>Three public custody-failure precedents inform reasonable expectations:</p>
+<ul>
+<li><strong>Mt. Gox (Tokyo District Court civil rehabilitation, 2014→).</strong> A custodial exchange collapse where on-chain assets were lost / stolen and customer claims took a decade to begin distribution. Embedded-wallet design is structurally different (the provider does not hold the assets) but Mt. Gox set the expectation that custody-failure recovery is slow and bumpy.</li>
+<li><strong>FTX (SDNY Chapter 11, 2022→).</strong> A custodial exchange collapse where the key litigated question — whether customer balances were customer property or estate property — took 18+ months to resolve. Recovery for customers ultimately exceeded petition-date USD values, but the time-to-distribution was long. Embedded-wallet design avoids the customer-property characterization risk entirely, but the comparison underscores why design-level avoidance of custody is preferable to litigated recovery.</li>
+<li><strong>Synapse (Delaware Ch. 11, 2024).</strong> A non-bank intermediary failure where the FDIC pass-through depended on partner-bank recordkeeping that turned out to be incomplete. Customer funds were available in aggregate at the partner banks but could not be promptly disbursed to individual customers because the per-customer ledger could not be reconstructed. The relevant cautionary lesson for embedded-wallet providers is that recordkeeping discipline matters as much as legal characterization.</li>
+</ul>
+<h2 id="related">Related</h2>
+<!-- wiki-links:managed -->
+<ul>
+<li><span class="wl" data-target="INDEX">Wiki Index</span></li>
+<li><span class="wl" data-target="agent-economy/INDEX">Agent economy index</span></li>
+<li><span class="wl" data-target="agent-economy/privy-embedded-wallet-overview">Privy embedded wallet overview</span></li>
+<li><span class="wl" data-target="agent-economy/coinbase-cdp-developer-platform">Coinbase CDP developer platform</span></li>
+<li><span class="wl" data-target="agent-economy/embedded-wallet-network-effects-moat">Embedded wallet integrator moat</span></li>
+<li><span class="wl" data-target="agent-economy/embedded-wallet-landscape-2026-consolidation">Embedded-wallet landscape 2026 consolidation</span></li>
+<li><span class="wl" data-target="fintech/embedded-wallet-fintech-disintermediation-overview">Embedded wallet fintech disintermediation overview</span></li>
+<li><span class="wl" data-target="fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse">Stripe five-layer Trojan horse</span></li>
+<li><span class="wl" data-target="fintech/INDEX">Fintech index</span></li>
+</ul>
+<!-- /wiki-links:managed -->
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Privy Security documentation (docs.privy.io/security)</li>
+<li>Coinbase Developer Platform Security documentation (docs.cdp.coinbase.com)</li>
+<li>Magic Security documentation (magic.link/docs/wallets/security)</li>
+<li>Stripe Treasury public documentation (stripe.com/treasury)</li>
+<li>FDIC public materials on pass-through insurance and 12 CFR Part 370</li>
+<li>SEC public materials including SAB 121 history and SAB 122 (January 2025)</li>
+<li>SIPC public materials on coverage scope</li>
+<li>FCA UK cryptoasset register and safeguarding rules consultation papers</li>
+<li>FSA Japan public materials on 暗号資産交換業 and 電子決済手段</li>
+<li>MAS Singapore Payment Services Act and DPT service-provider register</li>
+<li>US Bankruptcy Code Chapter 11 and Chapter 7 public statutes</li>
+<li>Public docket materials from FTX SDNY proceedings on customer-property characterization (for comparative custody analysis)</li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</footer>  </body> </html> 

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+.cache/
+src/content/entries/
+.DS_Store
+*.log

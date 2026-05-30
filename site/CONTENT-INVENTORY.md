@@ -1,0 +1,1453 @@
+# FinWiki Content Inventory — 全条目盘点
+
+> 1380 entries · 23 domains · generated 2026-05-30
+> 作業用ドキュメント（人類版/AI版 計画のための棚卸し）。手書きの wiki entry ではない。
+
+## JapanFG — 629 entries
+
+- 01銀行 (01Bank)  ·  `01-bank`
+- 株式会社十八親和銀行 (Eighteenth Shinwa Bank)  ·  `18-shinwa-bank`
+- 七十七銀行 (77 Bank)  ·  `77-bank`
+- アコム 事業詳細 (Acom Operating Profile)  ·  `acom-co-detail`
+- アコム株式会社 (Acom)  ·  `acom`
+- イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)  ·  `aeon-bank`
+- 電通グループ金融子会社 (Dentsu Group Financial Arm)  ·  `aeon-financial-service-detail`
+- イオンフィナンシャルサービス (AEON Financial Service)  ·  `aeon-financial-service`
+- アフラック生命保険 (Aflac Japan)  ·  `aflac-japan`
+- 中国農業銀行 東京支店  ·  `agricultural-bank-of-china-japan`
+- AIA Life Japan / AIA生命保険  ·  `aia-life-japan`
+- あいち銀行  ·  `aichi-bank`
+- あいち FG (Aichi FG)  ·  `aichi-fg`
+- 愛知県医療信用組合 (Aichi Medical Credit Cooperative)  ·  `aichi-iryo-shinkumi`
+- 信用組合愛知商銀 (Aichi Shogin Credit Cooperative)  ·  `aichi-shogin-shinkumi`
+- アイフル株式会社 (Aiful)  ·  `aiful`
+- AIG ジャパン (AIG 損害保険)  ·  `aig-japan`
+- あいおいニッセイ同和損害保険  ·  `aioi-nissay-dowa-insurance`
+- Airwallex Japan  ·  `airwallex-japan`
+- アイザワ証券 (Aizawa Securities)  ·  `aizawa-securities`
+- アイザワ証券グループ (Aizawa Securities Group)  ·  `aizawa-sg`
+- あかつき本社 (Akatsuki Honsha)  ·  `akatsuki-hq`
+- 株式会社秋田銀行 (The Akita Bank)  ·  `akita-bank`
+- Allianz Fire and Marine Japan / アリアンツ火災海上保険  ·  `allianz-fire-marine-japan`
+- オルタナ信託 (Alterna Trust)  ·  `alterna-trust`
+- アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)  ·  `american-express-international-japan`
+- American Home Insurance Japan / アメリカンホーム医療・損害保険  ·  `american-home-insurance-japan`
+- アニコム ホールディングス  ·  `anicom-hd`
+- アニコム損害保険  ·  `anicom-insurance`
+- ANZ銀行日本 (ANZ Bank Japan)  ·  `anz-bank-japan`
+- あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)  ·  `aozora-bank-detail`
+- あおぞら銀行 (Aozora Bank)  ·  `aozora-bank`
+- アプラス (APLUS)  ·  `aplus`
+- 朝日生命保険  ·  `asahi-life`
+- 朝日信用金庫  ·  `asahi-shinkin`
+- Asahi Trust / 朝日信託  ·  `asahi-trust`
+- 足利銀行  ·  `ashikaga-bank`
+- アセットマネジメントOne  ·  `asset-management-one`
+- atone (アトネ)  ·  `atone`
+- au フィナンシャルホールディングス (au-FH)  ·  `au-fh`
+- au損害保険  ·  `au-insurance`
+- au じぶん銀行 (au Jibun Bank)  ·  `au-jibun-bank`
+- auペイメント (au Payment)  ·  `au-payment`
+- 阿波銀行  ·  `awa-bank`
+- アクサ・ジャパン (AXA Japan)  ·  `axa-japan`
+- ブラジル銀行日本 (Banco do Brasil Japan)  ·  `banco-do-brasil-japan`
+- バンコック銀行日本 (Bangkok Bank Japan)  ·  `bangkok-bank-japan`
+- バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)  ·  `bank-negara-indonesia-japan`
+- バンク・オブ・アメリカ日本 (Bank of America Japan)  ·  `bank-of-america-japan`
+- 中國銀行 東京支店  ·  `bank-of-china-japan`
+- 交通銀行東京支店 (Bank of Communications Japan)  ·  `bank-of-communications-japan`
+- バンク・オブ・インディア日本 (Bank of India Japan)  ·  `bank-of-india-japan`
+- 台湾銀行 東京支店  ·  `bank-of-taiwan-japan`
+- バークレイズ日本 (Barclays Japan)  ·  `barclays-japan`
+- ビルバオ・ビスカヤ・アルヘンタリア銀行 東京支店  ·  `bbva-bank-japan`
+- BDO 三優監査法人 (BDO Sanyu)  ·  `bdo-sanyu`
+- bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)  ·  `bitflyer`
+- ビットトレード (BitTrade)  ·  `bittrade`
+- BNP パリバ日本 (BNP Paribas Japan)  ·  `bnp-paribas-japan`
+- Japan BNPL landscape  ·  `bnpl-landscape`
+- BNY メロン日本 (BNY Mellon Japan)  ·  `bny-mellon-japan`
+- 金融市場局 (BoJ Financial Markets Department)  ·  `boj-financial-markets-dept`
+- 金融機構局 (BoJ Financial System and Bank Examination Department)  ·  `boj-financial-system-dept`
+- 国際局 (BoJ International Department)  ·  `boj-international-dept`
+- boj-monetary-policy  ·  `boj-monetary-policy`
+- 決済機構局 (BoJ Payment and Settlement Systems Department)  ·  `boj-payment-settlement-dept`
+- 日本銀行 (BoJ)  ·  `boj`
+- Capital Insurance / キャピタル損害保険  ·  `capital-insurance`
+- Capital Trust / キャピタル信託  ·  `capital-trust`
+- カーディフ生命保険  ·  `cardif-life`
+- Cardif Non-Life Japan / カーディフ損害保険  ·  `cardif-nonlife`
+- CastGlobal Trust / キャストグローバル信託  ·  `castglobal-trust`
+- CCIグループ (CCI Group)  ·  `cci-group`
+- セントラル短資株式会社 (Central Tanshi)  ·  `central-tanshi`
+- 彰化商業銀行日本 (Chang Hwa Bank Japan)  ·  `chang-hwa-bank-japan`
+- 千葉銀行 (Chiba Bank)  ·  `chiba-bank`
+- 千葉興業銀行 (Chiba Kogyo Bank)  ·  `chiba-kogyo-bank`
+- ちばぎんリース (Chibagin Leasing)  ·  `chibagin-leasing`
+- ちばぎん証券 (Chibagin Securities)  ·  `chibagin-securities`
+- 筑邦銀行  ·  `chikuho-bank`
+- 中国建設銀行 東京支店  ·  `china-construction-bank-japan`
+- 中央労働金庫 (Chuo Rokin / Central Labour Bank)  ·  `chochukin-rokin`
+- Chubb Insurance Japan / Chubb損害保険  ·  `chubb-insurance-japan`
+- ちゅうぎん FG / 中国銀行 historical group page  ·  `chugin-okayama`
+- 中国銀行  ·  `chugoku-bank`
+- 中京銀行 (Chukyo Bank, historical)  ·  `chukyo-bank`
+- シティグループ・ジャパン (Citigroup Japan)  ·  `citigroup-japan`
+- クリアストリーム・バンキング日本 (Clearstream Banking Japan)  ·  `clearstream-banking-japan`
+- コメルツ銀行 東京支店  ·  `commerzbank-japan`
+- オーストラリア・コモンウェルス銀行日本 (Commonwealth Bank Japan)  ·  `commonwealth-bank-japan`
+- 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）  ·  `concordia-fg`
+- 公認会計士・監査審査会 (CPAAOB)  ·  `cpaaob`
+- クレディ・アグリコル銀行 東京支店  ·  `credit-agricole-bank-japan`
+- クレディ・アグリコル生命保険  ·  `credit-agricole-life`
+- クレディセゾン (Credit Saison)  ·  `credit-saison`
+- 中國信託商業銀行 東京支店  ·  `ctbc-bank-japan`
+- 日本カストディ銀行 (CBJ)  ·  `custody-bank`
+- 第一フロンティア生命保険  ·  `dai-ichi-frontier-life`
+- 第一アイペット損害保険  ·  `dai-ichi-ipet-insurance`
+- 第一生命保険  ·  `dai-ichi-life-insurance`
+- 第一ライフグループ / 旧 第一生命 HD  ·  `dai-ichi-life`
+- 第一ネオ生命保険  ·  `dai-ichi-neo-life`
+- 第四北越 FG  ·  `dai-shi-hokuetsu-fg`
+- Second Association of Regional Banks (Dai-ni Chigin-kyō / 第二地方銀行協会)  ·  `dai2-chigin-kyo`
+- 大同火災海上保険  ·  `daido-fire-marine`
+- 大同生命保険  ·  `daido-life`
+- 第四北越銀行  ·  `daishi-hokuetsu-bank`
+- 大東銀行  ·  `daito-bank`
+- Daito Mirai Trust / 大東みらい信託  ·  `daito-mirai-trust`
+- 大和アセットマネジメント  ·  `daiwa-asset-management`
+- 大和リビング信託 (Daiwa Living Trust)  ·  `daiwa-living-trust`
+- 大和ネクスト銀行 (Daiwa Next Bank)  ·  `daiwa-next-bank`
+- 大和証券グループ本社 (Daiwa Securities Group)  ·  `daiwa-sg`
+- 日本政策投資銀行 (DBJ)  ·  `dbj`
+- DBS銀行 東京支店  ·  `dbs-bank-japan`
+- 有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)  ·  `deloitte-touche-tohmatsu`
+- ドイチェ・ジャパン (Deutsche Japan)  ·  `deutsche-japan`
+- DGフィナンシャルテクノロジー (DGFT)  ·  `dg-financial-technology`
+- 預金保険機構 (DIC)  ·  `dic`
+- ダイナースクラブ ジャパン (Diners Club Japan)  ·  `diners-club-japan`
+- DMM.com証券  ·  `dmm-com-securities`
+- SBペイメントサービス (SoftBank Payment Service / SoftBank Card Financial Arm)  ·  `dock-financial`
+- 愛媛銀行  ·  `ehime-bank`
+- エポスカード (EPOS Card)  ·  `epos-card`
+- エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)  ·  `escrow-agent-japan-trust`
+- 玉山銀行 東京支店  ·  `esun-bank-japan`
+- ユーロクリア・バンク日本 (Euroclear Bank Japan)  ·  `euroclear-bank-japan`
+- EY 新日本有限責任監査法人 (EY ShinNihon)  ·  `ey-shinnihon`
+- ファミマデジタルワン (FamiMa Digital One)  ·  `famima-digital-one`
+- FFG 証券 (FFG Securities)  ·  `ffg-securities`
+- フィデア HD (Fidea Holdings)  ·  `fidea-hd`
+- JapanFG financial reports 2020+ index  ·  `financial-reports-2020-index`
+- フィンテックグローバル信託 (Fintech Global Trust)  ·  `fintech-global-trust`
+- 第一商業銀行日本 (First Commercial Bank Japan)  ·  `first-commercial-bank-japan`
+- First Trust Japan / ファースト信託  ·  `first-trust`
+- FM Global Japan / FMグローバル・ジャパン  ·  `fm-global-japan`
+- Foreign bank branches in Japan registry index  ·  `foreign-bank-branches-japan-index`
+- FPG信託 (FPG Trust)  ·  `fpg-trust`
+- freee 株式会社 (freee K.K.)  ·  `freee`
+- 検査局 (FSA Inspection Bureau — historical)  ·  `fsa-inspection-bureau`
+- 企画市場局 (FSA Planning and Coordination Bureau)  ·  `fsa-planning-coordination-bureau`
+- 総合政策局 (FSA Strategy Development and Management Bureau)  ·  `fsa-strategy-bureau`
+- 監督局 (FSA Supervision Bureau)  ·  `fsa-supervision-bureau`
+- 金融庁 (FSA)  ·  `fsa`
+- 富国生命保険  ·  `fukoku-life`
+- フコクしんらい生命保険  ·  `fukokushinrai-life`
+- 福井銀行  ·  `fukui-bank`
+- 福岡銀行  ·  `fukuoka-bank`
+- 福岡中央銀行  ·  `fukuoka-chuo-bank`
+- ふくおか FG (FFG)  ·  `fukuoka-fg`
+- 福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)  ·  `fukuoka-ken-shinkumi`
+- ふくし信託 (Fukushi Trust)  ·  `fukushi-trust`
+- 福島銀行  ·  `fukushima-bank`
+- 芙蓉総合リース  ·  `fuyo-lease`
+- FWD生命保険  ·  `fwd-life-japan`
+- ジェネラル再保険日本支店  ·  `gen-re-japan`
+- ジブラルタ生命保険  ·  `gibraltar-life`
+- GMO あおぞらネット銀行  ·  `gmo-aozora-net`
+- GMOクリック証券  ·  `gmo-click-securities`
+- GMO コイン (GMO Coin)  ·  `gmo-coin`
+- GMOイプシロン (GMO Epsilon)  ·  `gmo-epsilon`
+- GMO フィナンシャルホールディングス (GMO FHD)  ·  `gmo-financial-hd`
+- GMO ペイメントゲートウェイ  ·  `gmo-payment-gateway`
+- GMO後払い (GMO Postpay)  ·  `gmo-postpay`
+- ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)  ·  `goldman-sachs-japan`
+- Greif Trust / グライフ信託  ·  `greif-trust`
+- 群馬銀行 (The Gunma Bank)  ·  `gunma-bank`
+- 株式会社八十二銀行 (The Hachijuni Bank)  ·  `hachijuni-bank`
+- 八十二長野銀行  ·  `hachijuni-nagano-bank`
+- はまぎん総合研究所 (Hamagin Research Institute)  ·  `hamagin-research`
+- 浜松磐田信用金庫  ·  `hamamatsu-iwata-shinkin`
+- ハナ銀行 在日支店  ·  `hana-bank-japan`
+- ハナ信用組合 (Hana Credit Cooperative)  ·  `hana-shinkumi`
+- はなさく生命保険  ·  `hanasaku-life`
+- ハノーバー再保険日本支店  ·  `hannover-re-japan`
+- 東日本銀行  ·  `higashi-nippon-bank`
+- 肥後銀行  ·  `higo-bank`
+- ひろぎん HD (Hirogin Holdings)  ·  `hirogin-hd`
+- 広島銀行  ·  `hiroshima-bank`
+- 日立キャピタル (旧称・現三菱HCキャピタル統合)  ·  `hitachi-capital`
+- ほがらか信託 (Hogaraka Trust)  ·  `hogaraka-trust`
+- Non-Life Insurance Rating Organization of Japan (GIROJ / 損害保険料率算出機構)  ·  `hokenryo-sanshutsu-kiko`
+- 北海道銀行  ·  `hokkaido-bank`
+- 北海道リース  ·  `hokkaido-lease`
+- 北國銀行  ·  `hokkoku-bank`
+- 北國 FHD (Hokkoku FHD)  ·  `hokkoku-fhd`
+- ほくほく FG (Hokuhoku FG)  ·  `hokuhoku-fg`
+- 北陸銀行  ·  `hokuriku-bank`
+- 北都銀行  ·  `hokuto-bank`
+- 北洋銀行  ·  `hokuyo-bank`
+- 豊和銀行  ·  `howa-bank`
+- HS Insurance / エイチ・エス損害保険  ·  `hs-insurance`
+- HSBC ジャパン (HSBC Japan)  ·  `hsbc-japan`
+- 百五銀行 (Hyakugo Bank)  ·  `hyakugo-bank`
+- 百十四銀行 (Hyakujushi Bank)  ·  `hyakujushi-bank`
+- Hyundai Marine & Fire Japan / 現代海上火災保険  ·  `hyundai-marine-fire-japan`
+- iBank マーケティング (iBank Marketing)  ·  `ibank-marketing`
+- 興銀リース (旧称・現みずほリース統合)  ·  `ibj-leasing`
+- 中国工商銀行 東京支店  ·  `icbc-japan`
+- 池田泉州銀行  ·  `ikeda-senshu-bank`
+- 池田泉州ホールディングス  ·  `ikeda-senshu-hd`
+- 今村証券 (Imamura Securities)  ·  `imamura-securities`
+- 中小企業銀行 東京支店  ·  `industrial-bank-of-korea-japan`
+- インフキュリオン (Infcurion)  ·  `infcurion`
+- アイエヌジーバンク エヌ・ヴイ 東京支店  ·  `ing-bank-japan`
+- 割賦販売法 2020 改正  ·  `installment-sales-act-2020-amendment`
+- インテーザ・サンパオロ 東京支店  ·  `intesa-sanpaolo-japan`
+- 伊藤忠商事 (ITOCHU Corporation)  ·  `itochu-corp`
+- 伊藤忠ファイナンス (ITOCHU Finance Corporation)  ·  `itochu-finance`
+- 岩井コスモホールディングス  ·  `iwai-cosmo-hd`
+- 岩井コスモ証券 (IwaiCosmo Securities)  ·  `iwai-cosmo-securities`
+- いわき信用組合 (Iwaki Credit Cooperative)  ·  `iwaki-shinkumi`
+- 株式会社岩手銀行 (The Bank of Iwate)  ·  `iwate-bank`
+- 伊予銀行  ·  `iyo-bank`
+- いよぎん HD (Iyogin Holdings)  ·  `iyogin-hd`
+- いよぎんリース (Iyogin Leasing)  ·  `iyogin-leasing`
+- JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)  ·  `ja-bank-tokyo-shinren`
+- JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)  ·  `ja-kyosairen-fukushima`
+- JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)  ·  `ja-kyosairen`
+- JA三井リース  ·  `ja-mitsui-leasing`
+- JA 信連 (信用農業協同組合連合会 / Prefectural Credit Federations of Agricultural Cooperatives)  ·  `ja-shinnoren`
+- JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)  ·  `ja-zen-noh`
+- JA 全中 (全国農業協同組合中央会 / National Central Union of Agricultural Cooperatives)  ·  `ja-zenchu`
+- 株式会社ジャックス (Jaccs)  ·  `jaccs`
+- 株式会社JALカード (JAL Card)  ·  `jal-card`
+- JALペイメント・ポート  ·  `jal-payment-port`
+- 日本アジア証券 (Japan Asia Securities)  ·  `japan-asia-securities`
+- 日本地震再保険  ·  `japan-earthquake-reinsurance`
+- 日本取引所グループ (JPX)  ·  `japan-exchange-group`
+- Japan financial conglomerate structure overview  ·  `japan-financial-conglomerate-structure-overview`
+- 日本船主責任相互保険組合  ·  `japan-pi-club`
+- Japan policy-finance map  ·  `japan-policy-finance-map`
+- Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile  ·  `japan-post-bank`
+- 日本郵政株式会社  ·  `japan-post-holdings`
+- 日本証券金融 (JSF)  ·  `japan-securities-finance`
+- 国際協力銀行 (JBIC)  ·  `jbic`
+- ジェーシービー・インターナショナル (JCB International)  ·  `jcb-international`
+- 株式会社ジェーシービー (JCB)  ·  `jcb`
+- 日本格付研究所 (JCR)  ·  `jcr`
+- JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren)  ·  `jf-kyosuiren`
+- JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)  ·  `jf-marine-bank-hokkaido`
+- JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)  ·  `jf-shingyoren`
+- JF 全漁連 (全国漁業協同組合連合会 / National Federation of Fisheries Cooperative Associations)  ·  `jf-zengyoren`
+- 日本政策金融公庫 (JFC)  ·  `jfc`
+- JI Accident & Fire Insurance / ジェイアイ傷害火災保険  ·  `ji-accident-fire-insurance`
+- JIA Trust / JIA信託  ·  `jia-trust`
+- じもとホールディングス (JIMOTO HD)  ·  `jimoto-hd`
+- 城北信用金庫  ·  `johoku-shinkin`
+- 城南信用金庫  ·  `jonan-shinkin`
+- 株式会社常陽銀行 (Joyo Bank)  ·  `joyo-bank`
+- JP モルガン日本 (JPMorgan Japan)  ·  `jpmorgan-japan`
+- JPYC株式会社  ·  `jpyc`
+- JR東日本 金融グループ (JR-East Financial Subsidiaries)  ·  `jr-east-financial`
+- Japan Securities Dealers Association (JSDA)  ·  `jsda`
+- 日証金信託銀行 (JSF Trust and Banking)  ·  `jsf-trust-bank`
+- 十六銀行  ·  `juroku-bank`
+- 十六 FG (Juroku Financial Group)  ·  `juroku-fg`
+- JValue Trust / ジェイバリュー信託  ·  `jvalue-trust`
+- 香川銀行  ·  `kagawa-bank`
+- 鹿児島銀行  ·  `kagoshima-bank`
+- Kainuma Trust Real Estate / 貝沼信託不動産  ·  `kainuma-trust-real-estate`
+- かんぽ生命保険 (Japan Post Insurance)  ·  `kampo-life`
+- 神奈川銀行  ·  `kanagawa-bank`
+- 兼松リース  ·  `kanematsu-leasing`
+- 関西みらい銀行  ·  `kansai-mirai-bank`
+- 川崎信用金庫  ·  `kawasaki-shinkin`
+- 國民銀行 東京支店  ·  `kb-kookmin-bank-japan`
+- 警視庁職員信用組合 (Metropolitan Police Employees Credit Cooperative)  ·  `keishicho-shinkumi`
+- 株式会社京葉銀行  ·  `keiyo-bank`
+- きらぼし銀行  ·  `kiraboshi-bank`
+- 東京きらぼし FG (Tokyo Kiraboshi FG)  ·  `kiraboshi-fg`
+- きらやか銀行  ·  `kirayaka-bank`
+- Kiriu Real Estate Trust / きりう不動産信託  ·  `kiriu-real-estate-trust`
+- 北日本銀行  ·  `kita-nippon-bank`
+- 北九州銀行  ·  `kitakyushu-bank`
+- 北九州信用金庫  ·  `kitakyushu-shinkin`
+- 株式会社紀陽銀行 (The Kiyo Bank)  ·  `kiyo-bank`
+- 高知銀行  ·  `kochi-bank`
+- 韓国産業銀行 東京支店  ·  `korea-development-bank-japan`
+- Kotaeru Trust / コタエル信託  ·  `kotaeru-trust`
+- 有限責任 あずさ監査法人 (KPMG AZSA)  ·  `kpmg-azsa`
+- 熊本銀行  ·  `kumamoto-bank`
+- クロネコ代金後払いサービス (Kuroneko Atobarai)  ·  `kuroneko-atobarai`
+- Kyash  ·  `kyash`
+- Kyodo Trust / 共同信託  ·  `kyodo-trust`
+- 極東証券 (Kyokuto Securities)  ·  `kyokuto-securities`
+- 共栄火災海上保険  ·  `kyoritsu-fire-marine`
+- 京都銀行  ·  `kyoto-bank`
+- 京都中央信用金庫  ·  `kyoto-chuo-shinkin`
+- 京都フィナンシャルグループ  ·  `kyoto-fg`
+- 九州 FG (Kyushu FG)  ·  `kyushu-fg`
+- ローソン銀行 (Lawson Bank)  ·  `lawson-bank`
+- Japan bank license and BaaS boundary  ·  `bank-license-and-baas-boundary`
+- Japan foreign bank agency business route  ·  `foreign-bank-agency-business-route`
+- Japan foreign-bank branch license route  ·  `foreign-bank-branch-license-route`
+- Foreign financial group adjacent licenses in Japan  ·  `foreign-financial-group-adjacent-licenses`
+- Japan insurance license and solvency route  ·  `insurance-license-and-solvency`
+- Japan payment license stack  ·  `payment-license-stack`
+- Japan securities license stack  ·  `securities-license-stack`
+- LGTウェルスマネジメント信託 (LGT Wealth Management Trust)  ·  `lgt-wealth-management-trust`
+- ライフカード (Life Card)  ·  `life-card`
+- ライフネット生命保険 (LifeNet Insurance)  ·  `lifenet`
+- Lloyd's Japan / ロイズ・ジャパン  ·  `lloyd-japan`
+- Japan local government bond market  ·  `local-bond-market`
+- 地方公共団体金融機構 (JFM)  ·  `local-govt-finance`
+- Lombard Odier Trust Japan / ロンバー・オディエ信託  ·  `lombard-odier-trust`
+- マニュライフ生命保険 (Manulife Life Insurance Japan)  ·  `manulife-japan`
+- 丸紅 (Marubeni Corporation)  ·  `marubeni-corp`
+- 丸紅フィナンス (Marubeni Finance Corporation)  ·  `marubeni-financial-services`
+- 丸三証券 (Marusan Securities)  ·  `marusan-securities`
+- 日本マスタートラスト信託銀行  ·  `master-trust-bank`
+- マスターカードジャパン (Mastercard Japan)  ·  `mastercard-japan`
+- 松井証券株式会社 (Matsui Securities)  ·  `matsui-sec`
+- めぶき FG (Mebuki FG)  ·  `mebuki-fg`
+- めぶきリース (Mebuki Lease)  ·  `mebuki-lease`
+- めぶき証券 (Mebuki Securities)  ·  `mebuki-securities`
+- メディケア生命保険  ·  `medicare-life`
+- 兆豐國際商業銀行 東京支店  ·  `mega-icbc-japan`
+- 明治安田損害保険  ·  `meiji-yasuda-general-insurance`
+- 明治安田トラスト生命保険  ·  `meiji-yasuda-trust-life`
+- 明治安田生命保険相互会社  ·  `meiji-yasuda`
+- メルカリ HD（株式会社メルカリ）  ·  `mercari-hd`
+- メルペイ (Merpay)  ·  `merpay`
+- メットライフ生命保険 (MetLife Japan)  ·  `metlife-japan`
+- メトロポリタン銀行日本 (Metrobank Japan)  ·  `metrobank-japan`
+- みどり生命保険  ·  `midori-life`
+- Midori Trust / みどり信託  ·  `midori-trust`
+- 南日本銀行  ·  `minami-nippon-bank`
+- みなと銀行  ·  `minato-bank`
+- Missing Japan financial institutions expansion backlog  ·  `missing-financial-institutions-backlog`
+- 三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)  ·  `mitsubishi-corp-asset-management`
+- 三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)  ·  `mitsubishi-corp-finance`
+- 三菱商事 (Mitsubishi Corporation)  ·  `mitsubishi-corp`
+- 三菱 HC キャピタル (Mitsubishi HC Capital)  ·  `mitsubishi-hc-capital`
+- 三菱UFJ信託銀行 (MUTB)  ·  `mitsubishi-ufj-trust-bank`
+- 三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)  ·  `mitsui-bussan-financial-services`
+- 三井物産 (Mitsui & Co., Ltd.)  ·  `mitsui-co`
+- 三井ダイレクト損害保険  ·  `mitsui-direct`
+- 三井住友海上あいおい生命保険  ·  `mitsui-sumitomo-aioi-life`
+- 三井住友海上火災保険  ·  `mitsui-sumitomo-insurance`
+- 宮崎銀行  ·  `miyazaki-bank`
+- 宮崎太陽銀行  ·  `miyazaki-taiyo-bank`
+- Miyoshi Smile Trust / 三好スマイル信託  ·  `miyoshi-smile-trust`
+- みずほ銀行 (Mizuho Bank)  ·  `mizuho-bank`
+- みずほ FG (Mizuho FG)  ·  `mizuho-fg`
+- Mizuho Leasing  ·  `mizuho-lease`
+- Mizuho Securities  ·  `mizuho-securities`
+- みずほ信託銀行 事業詳細 (Mizuho Trust & Banking Operating Profile)  ·  `mizuho-trust-bank-detail`
+- みずほ信託銀行 (Mizuho Trust & Banking)  ·  `mizuho-trust-bank`
+- もみじ銀行  ·  `momiji-bank`
+- マネックスグループ (Monex Group)  ·  `monex-group`
+- 株式会社マネーフォワード (Money Forward)  ·  `money-forward`
+- モルガン・スタンレー・ジャパン (Morgan Stanley Japan)  ·  `morgan-stanley-japan`
+- 三井住友海上プライマリー生命保険  ·  `ms-primary-life`
+- MS&AD インシュアランス グループ ホールディングス  ·  `msad`
+- 三菱UFJアセットマネジメント  ·  `mufg-asset-management`
+- 三菱UFJ銀行 (MUFG Bank)  ·  `mufg-bank`
+- 三菱UFJ eスマート証券  ·  `mufg-esmart-securities`
+- Mitsubishi UFJ Morgan Stanley Securities  ·  `mufg-mums`
+- 三菱UFJニコス (Mitsubishi UFJ NICOS)  ·  `mufg-nicos`
+- MUFG 証券ホールディングス  ·  `mufg-securities`
+- 三菱 UFJ FG (MUFG)  ·  `mufg`
+- ミュンヘン再保険日本支店  ·  `munich-re-japan`
+- 武蔵野銀行 (The Musashino Bank)  ·  `musashino-bank`
+- 長崎銀行  ·  `nagasaki-bank`
+- 名古屋銀行  ·  `nagoya-bank`
+- 名古屋信用金庫  ·  `nagoya-shinkin`
+- なないろ生命保険  ·  `nanairo-life`
+- 株式会社南都銀行 (The Nanto Bank)  ·  `nanto-bank`
+- ナショナルオーストラリア銀行日本 (National Australia Bank Japan)  ·  `national-australia-bank-japan`
+- パキスタン・ナショナル銀行日本 (National Bank of Pakistan Japan)  ·  `national-bank-of-pakistan-japan`
+- ナティクシス 東京支店  ·  `natixis-japan`
+- NTT ドコモ・フィナンシャルグループ (NDFG)  ·  `ndfg`
+- NECキャピタルソリューションズ (NEC Capital Solutions)  ·  `nec-capital-solutions`
+- NECキャピタルソリューション  ·  `nec-leasing`
+- ネットプロテクションズHD (Net Protections HD)  ·  `net-protections-hd`
+- ネットスターズ  ·  `netstars`
+- Nichizei Trust / 日税信託  ·  `nichizei-trust`
+- アモーヴァ・アセットマネジメント (旧 日興アセット)  ·  `nikko-asset-management`
+- 日本海事協会 (ClassNK)  ·  `nippon-kaiji-kyokai`
+- 日本生命保険相互会社 (Nippon Life)  ·  `nippon-life`
+- 日本郵政 (Japan Post Holdings)  ·  `nippon-post`
+- 西日本シティ銀行  ·  `nishi-nippon-city-bank`
+- 西日本 FHD (Nishi-Nippon FHD)  ·  `nishi-nippon-fhd`
+- ニッセイアセットマネジメント (Nissay AM)  ·  `nissay-asset-management`
+- ニッセイ・ウェルス生命保険  ·  `nissay-wealth-life`
+- 日新火災海上保険  ·  `nisshin-fire`
+- NN生命保険  ·  `nn-life-japan`
+- 農中信託銀行 (Norinchukin Trust & Banking)  ·  `nochu-trust-bank`
+- 野村アセットマネジメント  ·  `nomura-asset-management`
+- 野村ホールディングス (Nomura HD)  ·  `nomura-hd`
+- 野村信託銀行 (Nomura Trust Bank)  ·  `nomura-trust-bank`
+- Japan non-life insurer registry index  ·  `nonlife-insurer-registry-japan-index`
+- 農林中央金庫 (Norinchukin Bank)  ·  `norinchukin`
+- NTTドコモ損害保険ホールディングス  ·  `ntt-docomo-sompo-hd`
+- NTTドコモ損害保険  ·  `ntt-docomo-sonpo`
+- NTT TC Leasing  ·  `ntt-tc-lease`
+- OAG信託 (OAG Trust)  ·  `oag-trust`
+- オーバーシー・チャイニーズ銀行 東京支店  ·  `ocbc-bank-japan`
+- 大垣共立銀行 (OKB)  ·  `ogaki-kyoritsu-bank`
+- 大分銀行  ·  `oita-bank`
+- 岡三証券グループ (Okasan Securities Group)  ·  `okasan-sg`
+- 岡崎信用金庫  ·  `okazaki-shinkin`
+- 沖縄銀行  ·  `okinawa-bank`
+- おきなわ FG (Okinawa FG)  ·  `okinawa-fg`
+- 株式会社沖縄海邦銀行  ·  `okinawa-kaiho-bank`
+- 沖縄振興開発金融公庫 (ODFC)  ·  `okinawa-shinko`
+- OLTA (オルタ)  ·  `olta`
+- 株式会社オリエントコーポレーション (Orico)  ·  `orico`
+- ノーザン・トラスト・ジャパン (Northern Trust Japan)  ·  `orient-trust-japan`
+- オリックス銀行 (ORIX Bank)  ·  `orix-bank`
+- オリックス株式会社 (ORIX Corporation)  ·  `orix-corp`
+- オリックス生命保険  ·  `orix-life`
+- 大阪信用金庫  ·  `osaka-shinkin`
+- 大阪商銀信用組合 (Osaka Shogin Credit Cooperative)  ·  `osaka-shogin-shinkumi`
+- Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン  ·  `pacific-life-re-japan`
+- 株式会社ペイディ (Paidy)  ·  `paidy`
+- パソナ知財信託 (Pasona IP Trust)  ·  `pasona-ip-trust`
+- Payoneer Japan  ·  `payoneer-japan`
+- PayPal Pte. Ltd. Japan service boundary  ·  `paypal-pte-ltd-japan`
+- PayPayカード (PayPay Card)  ·  `paypay-card`
+- PayPay 金融グループ  ·  `paypay-fg`
+- PayPay証券  ·  `paypay-securities`
+- PayPay株式会社  ·  `paypay`
+- ペット＆ファミリー損害保険  ·  `pet-and-family-insurance`
+- プルデンシャル ジブラルタ ファイナンシャル生命保険  ·  `pgf-life`
+- フィリピン・ナショナル・バンク日本 (Philippine National Bank Japan)  ·  `philippine-national-bank-japan`
+- ポケットカード (Pocket Card)  ·  `pocket-card`
+- Principal Japan / プリンシパル・ジャパン  ·  `principal-japan`
+- pring  ·  `pring`
+- プロクレアホールディングス (ProCrea HD)  ·  `proclair-hd`
+- 株式会社Progmat  ·  `progmat`
+- プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)  ·  `prudential-japan`
+- PwC Japan 有限責任監査法人 (旧 PwC あらた)  ·  `pwc-aarata`
+- QBE Japan / QBEインシュアランス・ジャパン  ·  `qbe-japan`
+- 楽天カード (Rakuten Card)  ·  `rakuten-card`
+- 楽天Edy  ·  `rakuten-edy`
+- 楽天グループ金融事業 (Rakuten FG)  ·  `rakuten-fg`
+- 楽天損害保険  ·  `rakuten-general-insurance`
+- 楽天インシュアランスホールディングス  ·  `rakuten-insurance-hd`
+- 楽天生命保険  ·  `rakuten-life`
+- Rakuten Securities  ·  `rakuten-securities`
+- 格付投資情報センター (R&I)  ·  `rating-and-investment`
+- カナダロイヤル銀行 東京支店  ·  `rbc-japan`
+- 整理回収機構 (RCC)  ·  `rcc`
+- リクルートMUFGビジネス  ·  `recruit-mufg-business`
+- Rescue Insurance / レスキュー損害保険  ·  `rescue-insurance`
+- りそな銀行 (Resona Bank)  ·  `resona-bank`
+- りそなホールディングス (Resona Holdings)  ·  `resona-hd`
+- REVOLUT TECHNOLOGIES JAPAN  ·  `revolut-technologies-japan`
+- RGA リインシュアランス・カンパニー日本支店  ·  `rga-japan`
+- リコーリース  ·  `ricoh-leasing`
+- 労働金庫連合会 (The Rokinren Bank)  ·  `rokin-renraku`
+- Ryugaku Anshin Trust / 留学安心信託  ·  `ryugaku-anshin-trust`
+- 株式会社琉球銀行  ·  `ryukyu-bank`
+- 佐賀銀行  ·  `saga-bank`
+- 佐賀共栄銀行  ·  `saga-kyoei-bank`
+- 西京銀行  ·  `saikyo-bank`
+- セゾン投信 (Saison Asset Management)  ·  `saison-asset-management`
+- セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)  ·  `saison-automobile-fire-insurance`
+- 埼玉りそな銀行 (Saitama Resona Bank)  ·  `saitama-resona-bank`
+- Sakura Insurance / さくら損害保険  ·  `sakura-insurance`
+- 山陰合同銀行 (San-in Godo Bank)  ·  `san-in-godo-bank`
+- 三十三銀行 (San ju San Bank)  ·  `san-jusan-bank`
+- 三十三 FG (San ju San Financial Group)  ·  `san-jusan-fg`
+- 札幌中央信用組合 (Sapporo Chuo Credit Cooperative)  ·  `sapporo-chuo-shinkumi`
+- 札幌信用金庫  ·  `sapporo-shinkin`
+- サクソバンク証券  ·  `saxo-bank-securities`
+- SBペイメントサービス (SB Payment Service)  ·  `sb-payment-service`
+- SBIアセットマネジメント  ·  `sbi-asset-management`
+- SBI FXトレード  ·  `sbi-fx-trade`
+- SBI ホールディングス (SBI HD)  ·  `sbi-hd`
+- SBI インシュアランスグループ (SBI Insurance Group)  ·  `sbi-insurance-group`
+- SBI損害保険  ·  `sbi-insurance`
+- SBI生命保険  ·  `sbi-life`
+- SBI 地銀ホールディングス  ·  `sbi-regional-bank-hd`
+- SBIレミット  ·  `sbi-remit`
+- SBI証券 (SBI Securities)  ·  `sbi-securities`
+- SBI 新生銀行  ·  `sbi-shinsei-bank`
+- SBI新生信託銀行 (SBI Shinsei Trust Bank)  ·  `sbi-shinsei-trust-bank`
+- SBJ銀行 (Shinhan Bank Japan)  ·  `sbj-bank`
+- スコール再保険日本支店  ·  `scor-japan`
+- セコム損害保険  ·  `secom-insurance`
+- Life Insurance Association of Japan (Seiho Kyōkai / 生命保険協会)  ·  `seiho-kyokai`
+- 生命保険契約者保護機構  ·  `seimei-hokensha-hogo-kiko`
+- 積水ハウス信託 (Sekisui House Trust)  ·  `sekisui-house-trust`
+- 仙台銀行  ·  `sendai-bank`
+- 杜の都信用金庫 (旧 仙台信用金庫 + 杜陵信用金庫 等の系譜)  ·  `sendai-shinkin`
+- セブン銀行 (Seven Bank)  ·  `seven-bank`
+- セブン・カードサービス (Seven Card Service)  ·  `seven-card-service`
+- セブン・ペイメントサービス  ·  `seven-payment-service`
+- 株式会社滋賀銀行 (The Shiga Bank)  ·  `shiga-bank`
+- 四国銀行  ·  `shikoku-bank`
+- 島根銀行  ·  `shimane-bank`
+- 清水銀行  ·  `shimizu-bank`
+- 信金中央金庫 (Shinkin Central Bank)  ·  `shinkin-central`
+- Shinkin Network Services (信金ネットワークサービス)  ·  `shinkin-network-services`
+- 信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)  ·  `shinkin-shoken`
+- 新生フィナンシャル  ·  `shinsei-financial`
+- Trust Companies Association of Japan (Shintaku Kyōkai / 信託協会)  ·  `shintaku-kyokai`
+- しずぎんカード (Shizugin Card / Shizuoka Bank Card)  ·  `shizugin-card`
+- 静岡銀行  ·  `shizuoka-bank`
+- 静岡中央銀行  ·  `shizuoka-chuo-bank`
+- しずおか FG (Shizuoka FG)  ·  `shizuoka-fg`
+- 商工中金 (Shoko Chukin Bank)  ·  `shoko-chukin`
+- 荘内銀行  ·  `shonai-bank`
+- 昭和リース  ·  `showa-leasing`
+- スマートバンク (SmartBank)  ·  `smartbank`
+- 三井住友カード (SMCC)  ·  `smbc-card`
+- SMBCコンシューマーファイナンス  ·  `smbc-consumer-finance`
+- SMBC 日興証券 (SMBC Nikko Securities)  ·  `smbc-nikko`
+- SMBC信託銀行 (SMBC Trust Bank)  ·  `smbc-trust-bank`
+- 株式会社三井住友銀行 (SMBC)  ·  `smbc`
+- 三井住友DSアセットマネジメント  ·  `smd-am`
+- 三井住友 FG (SMFG / SMBC グループ)  ·  `smfg`
+- SMFL / Sumitomo Mitsui Finance and Leasing  ·  `smfl`
+- 三井住友トラスト・アセットマネジメント (SMT-AM)  ·  `smt-am`
+- 三井住友信託銀行 (SMTB)  ·  `smtb`
+- ソシエテ・ジェネラル日本 (Societe Generale Japan)  ·  `socgen-japan`
+- 双日 (Sojitz Corporation)  ·  `sojitz-corp`
+- 双日フィナンス (Sojitz Finance)  ·  `sojitz-finance`
+- SOMPOダイレクト損害保険  ·  `sompo-direct`
+- SOMPOひまわり生命保険  ·  `sompo-himawari-life`
+- 損害保険ジャパン  ·  `sompo-japan-insurance`
+- SOMPO ホールディングス (Sompo Holdings)  ·  `sompo`
+- 損害保険契約者保護機構  ·  `sonpo-hosho-kiko`
+- General Insurance Association of Japan (Sonpo Kyōkai / 日本損害保険協会)  ·  `sonpo-kyokai`
+- ソニー銀行 (Sony Bank)  ·  `sony-bank`
+- ソニーフィナンシャルグループ (Sony FG)  ·  `sony-fg`
+- ソニー損害保険  ·  `sony-insurance`
+- ソニー生命保険  ·  `sony-life`
+- ssjbank 誤リンク監査  ·  `ssjbank`
+- 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行  ·  `ssnb`
+- スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo)  ·  `standard-chartered-japan`
+- Starr Insurance Japan / スター・インシュアランス・ジャパン  ·  `starr-insurance-japan`
+- スターツ信託 (Starts Trust)  ·  `starts-trust`
+- インドステイト銀行日本 (State Bank of India Japan)  ·  `state-bank-of-india-japan`
+- ステート・ストリート (State Street Japan)  ·  `state-street-japan`
+- Sumire Regional Trust / すみれ地域信託  ·  `sumire-regional-trust`
+- 住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)  ·  `sumitomo-corp-financial-management`
+- 住友商事 (Sumitomo Corporation)  ·  `sumitomo-corp`
+- 住友生命保険相互会社 (Sumitomo Life)  ·  `sumitomo-life`
+- 住友三井オートサービス (Sumitomo Mitsui Auto Service / SMAS)  ·  `sumitomo-mitsui-auto-service`
+- 三井住友銀行 (SMBC)  ·  `sumitomo-mitsui-banking-corp`
+- 三井住友トラストグループ (SuMi TRUST)  ·  `sumitomo-mitsui-trust`
+- スルガ銀行  ·  `suruga-bank`
+- スイス再保険日本支店  ·  `swiss-re-japan`
+- T&Dアセットマネジメント (T&D AM)  ·  `t-and-d-asset-management`
+- 立花証券 (Tachibana Securities)  ·  `tachibana-securities`
+- 大樹生命保険  ·  `taiju-life`
+- 大光銀行  ·  `taiko-bank`
+- 台北富邦商業銀行日本 (Taipei Fubon Bank Japan)  ·  `taipei-fubon-bank-japan`
+- 台新國際商業銀行日本 (Taishin Bank Japan)  ·  `taishin-bank-japan`
+- 台湾中小企業銀行日本 (Taiwan Business Bank Japan)  ·  `taiwan-business-bank-japan`
+- 合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)  ·  `taiwan-cooperative-bank-japan`
+- 太陽有限責任監査法人 (Grant Thornton Taiyo)  ·  `taiyo-grant-thornton`
+- 太陽生命保険  ·  `taiyo-life`
+- 但馬銀行  ·  `tajima-bank`
+- 多摩信用金庫  ·  `tama-shinkin`
+- T&Dフィナンシャル生命保険  ·  `td-financial-life`
+- T&D ホールディングス (T&D Holdings)  ·  `td-hd`
+- トーア再保険  ·  `toa-reinsurance`
+- 栃木銀行  ·  `tochigi-bank`
+- 東邦銀行 (Toho Bank)  ·  `toho-bank`
+- 東北銀行  ·  `tohoku-bank`
+- 東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)  ·  `tokai-tokyo-fh`
+- 東海東京証券 (Tokai Tokyo Securities)  ·  `tokai-tokyo-securities`
+- 東京海上アセットマネジメント (Tokio Marine AM)  ·  `tokio-marine-asset-management`
+- 東京海上ダイレクト損害保険  ·  `tokio-marine-direct`
+- 東京海上日動火災保険  ·  `tokio-marine-nichido-fire`
+- 東京海上日動あんしん生命保険  ·  `tokio-marine-nichido-life`
+- 東京海上ホールディングス (Tokio Marine Holdings)  ·  `tokio-marine`
+- 徳島大正銀行  ·  `tokushima-taisho-bank`
+- 東京センチュリー 事業詳細 (Tokyo Century Operating Profile)  ·  `tokyo-century-detail`
+- 東京センチュリー株式会社 (Tokyo Century Corporation)  ·  `tokyo-century`
+- 東京消防信用組合 (Tokyo Fire Department Credit Cooperative)  ·  `tokyo-shobo-shinkumi`
+- 東京スター銀行  ·  `tokyo-star-bank`
+- 東京短資 (Tokyo Tanshi)  ·  `tokyo-tanshi`
+- 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)  ·  `tokyo-to-shokuin-shinkumi`
+- トマト銀行  ·  `tomato-bank`
+- トモニホールディングス (Tomony HD)  ·  `tomony-hd`
+- 鳥取銀行  ·  `tottori-bank`
+- 東和銀行 (The Towa Bank)  ·  `towa-bank`
+- 富山銀行  ·  `toyama-bank`
+- 富山第一銀行  ·  `toyama-first-bank`
+- トヨタファイナンス  ·  `toyota-finance`
+- トヨタファイナンシャルサービス (TFS)  ·  `toyota-financial`
+- 豊田通商 (Toyota Tsusho Corporation)  ·  `toyota-tsusho-corp`
+- 豊田通商フィナンス (Toyota Tsusho Finance)  ·  `toyota-tsusho-finance`
+- トレイダーズ証券  ·  `traders-securities`
+- トラベレックスジャパン (Travelex Japan)  ·  `travelex-japan`
+- Japan trust companies registry index  ·  `trust-companies-japan-index`
+- 筑波銀行  ·  `tsukuba-bank`
+- ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)  ·  `ubaf-japan`
+- UBS ジャパン (UBS Japan)  ·  `ubs-japan`
+- UCSカード (UCS)  ·  `ucs-card`
+- 上田八木短資株式会社 (Ueda Yagi Tanshi)  ·  `ueda-yagi-tanshi`
+- UI銀行 (UI Bank)  ·  `ui-bank`
+- UK Trust / UK信託  ·  `uk-trust`
+- 銀聯インターナショナル日本支社 (UnionPay International Japan)  ·  `unionpay-international-japan`
+- ユナイテッド・オーバーシーズ銀行 東京支店  ·  `uob-bank-japan`
+- 株式会社ビューカード (Viewcard)  ·  `view-card`
+- ビザ・ワールドワイド・ジャパン (Visa Worldwide Japan)  ·  `visa-worldwide-japan`
+- ウェルスナビ株式会社 (WealthNavi)  ·  `wealthnavi`
+- ウェルズ・ファーゴ銀行 東京支店 (Wells Fargo Bank Tokyo Branch)  ·  `wells-fargo-japan`
+- ウエスタンユニオンジャパン (Western Union Japan)  ·  `western-union-japan`
+- Wise Payments Japan  ·  `wise-payments-japan`
+- ウリィ銀行 東京支店  ·  `woori-bank-japan`
+- 山田エスクロー信託 (Yamada Escrow Trust)  ·  `yamada-escrow-trust`
+- 株式会社山形銀行  ·  `yamagata-bank`
+- 山口 FG (YMFG)  ·  `yamaguchi-fg`
+- 山口リース (Yamaguchi Leasing)  ·  `yamaguchi-leasing`
+- 山梨中央銀行  ·  `yamanashi-chuo-bank`
+- ヤマップネイチャランス損害保険  ·  `yamap-naturance-insurance`
+- Deposit Insurance Corporation of Japan (DICJ / 預金保険機構)  ·  `yokin-hoken-kiko`
+- 横浜銀リース (Yokohama Bank Leasing)  ·  `yokohama-bank-leasing`
+- 横浜銀行  ·  `yokohama-bank`
+- 横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)  ·  `yokohama-kogin-shinkumi`
+- 横浜信用金庫  ·  `yokohama-shinkin`
+- ゆうちょ銀行 (Japan Post Bank)  ·  `yucho`
+- Zaim (ザイム)  ·  `zaim`
+- Regional Banks Association of Japan (Zenchūgin-kyō / 全国地方銀行協会)  ·  `zenchugin-kyo`
+- Japanese Bankers Association (Zenginkyō / 全国銀行協会)  ·  `zenginkyo`
+- Zenkankyo Reiwa Insurance / 全管協れいわ損害保険  ·  `zenkankyo-reiwa-insurance`
+- 全労済 / こくみん共済 coop (全国労働者共済生活協同組合連合会 / National Federation of Workers and Consumers Insurance Cooperatives)  ·  `zenrosai`
+- 全国信用協同組合連合会 (全信組連)  ·  `zenshin-kumi`
+- National Association of Shinkin Banks (Zenshin-kyō / 全国信用金庫協会)  ·  `zenshin-kyo`
+- チューリッヒ保険会社 (Zurich Japan)  ·  `zurich-japan`
+- チューリッヒ生命保険  ·  `zurich-life`
+
+## exchanges — 146 entries
+
+- AMM 設計の進化 — Uniswap v1/v2/v3/v4 + 異派 (Curve / Balancer / TraderJoe)  ·  `amm-design-evolution`
+- Bitcoin spot ETF 米承認の国内 CEX 影響 (2024-01〜)  ·  `btc-spot-etf-japan-impact`
+- Bybit Lazarus $14.6 億 hack 詳細分析 (2025-02) — 史上最大暗号資産流出  ·  `bybit-lazarus-hack-detailed-analysis`
+- CEX API / SDK ecosystem 比較 — 国内 / 海外取引所の Developer Interface  ·  `cex-api-sdk-ecosystem-comparison`
+- Bithumb（빗썸）— 韓国 KRW spot CEX  ·  `cex-bithumb-korea`
+- CoinDCX — インド最大 CEX / FIU-IND PMLA registered  ·  `cex-coindcx-india`
+- Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系  ·  `cex-coinone-korea`
+- Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性  ·  `cex-foxbit-brazil`
+- GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退  ·  `cex-gopax-korea`
+- Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity  ·  `cex-korbit-korea`
+- CEX matching engine + cold/hot wallet 内部架構  ·  `cex-matching-engine-wallet-architecture`
+- Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push  ·  `cex-mercado-bitcoin-brazil`
+- CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制  ·  `cex-native-token-strategy-comparison`
+- Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位  ·  `cex-upbit-korea`
+- ベトナム暗号通貨取引所ランドスケープ — SBV 規制曖昧 / ONUS / Remitano / グレー市場  ·  `cex-vietnam-overview`
+- WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害  ·  `cex-wazirx-india`
+- Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)  ·  `coincheck-nem-hack-detailed-analysis`
+- クロスチェーン bridge と CEX 入出金経路 — Wormhole / LayerZero / Axelar / Hyperlane / CCIP 比較  ·  `cross-chain-bridge-cex-deposit-withdrawal`
+- 暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較  ·  `crypto-custody-provider-landscape-matrix`
+- Jito — Solana 液体ステーキング + MEV 再分配プロトコル  ·  `dex-jito-solana`
+- Orca Whirlpools — Solana 系集中流動性 AMM  ·  `dex-orca-solana`
+- Pendle Finance — yield tokenization プロトコル（PT/YT）  ·  `dex-pendle`
+- Raydium — Solana 系老舗 AMM / memecoin 流動性 hub  ·  `dex-raydium-solana`
+- DMM Bitcoin 流出事件 詳細分析 (2024-05) — Lazarus 帰属 4,502.9 BTC  ·  `dmm-bitcoin-lazarus-hack-detailed-analysis`
+- EU MiCA CASP (Crypto-Asset Service Provider) regime  ·  `eu-mica-casp-regime-overview`
+- FSA 業務改善命令 (BIO) 国内 VASP 行政処分履歴 (2018-2026)  ·  `fsa-business-improvement-orders-history`
+- FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)  ·  `fsa-foreign-exchange-warning-system`
+- FSA crypto operator registry — snapshot delta log  ·  `fsa-snapshot-delta-log`
+- FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件  ·  `fsa-vasp-registration-system`
+- FTX Japan 顧客資産 100% 返還ケース — 世界初の即時全額返還事例  ·  `ftx-japan-100pct-return-case-study`
+- グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland  ·  `global-cex-prime-brokerage-layer`
+- グローバル CEX top 10 ランキング比較 (2025-2026)  ·  `global-cex-top10-comparison`
+- 暗号資産取引所 倒産処理 国際比較  ·  `global-crypto-exchange-bankruptcy-comparison`
+- グローバル暗号資産 forensics vendor 層 — Chainalysis / Elliptic / TRM / Crystal 比較  ·  `global-crypto-forensics-vendor-layer`
+- グローバル DEX Aggregator 比較マトリックス · 1inch / 0x / CowSwap / Jupiter / OpenOcean / ParaSwap / KyberSwap / OKX DEX  ·  `global-dex-aggregator-comparison-matrix`
+- グローバル DEX 主要 5 社比較 — Uniswap / Curve / Aerodrome / PancakeSwap / Hyperliquid  ·  `global-dex-major-five-comparison`
+- グローバル機関カストディ五強 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu  ·  `global-institutional-custody-five-pillars`
+- Global perp DEX competitive deep-dive matrix — dYdX v3/v4, Hyperliquid, Vertex, Drift, GMX v1/v2, Synthetix, Kwenta, Aark, Aevo, Apex  ·  `global-perp-dex-competitive-deep-dive-matrix`
+- グローバル Perp DEX 主要 5 社比較 — Hyperliquid / dYdX / GMX / Vertex / Drift  ·  `global-perp-dex-five-comparison`
+- グローバル VASP 規制 8 極比較マトリクス — JP / KR / HK / SG / EU / US / UAE / UK  ·  `global-vasp-regulatory-comparison-matrix`
+- 香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview  ·  `hk-sfc-vasp-licensing-overview`
+- JBA — 日本ブロックチェーン協会 (Japan Blockchain Association)  ·  `japan-blockchain-association-jba`
+- Japan CEX parent FG adjacency matrix — operator by group ecosystem cross-link  ·  `japan-cex-parent-fg-adjacency-matrix`
+- 国内クリプト監査法人 ランドスケープ — Big4 + 太陽 + BDO 三優 クリプト実務比較  ·  `japan-crypto-audit-firm-landscape`
+- 国内クリプト法律事務所 ランドスケープ — Anderson Mori / 西村あさひ / Mori Hamada / TMI / BCLP 比較  ·  `japan-crypto-law-firm-landscape`
+- 日本 stablecoin 発行体 規制分類マトリクス — 電子決済手段等取引業 / 信託型 / 銀行発行型 / 資金移動業者型 / 前払式支払手段境界  ·  `japan-stablecoin-issuer-regulatory-classification-matrix`
+- 日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較  ·  `japan-vasp-business-model-competitive-matrix`
+- JCBA — 日本暗号資産ビジネス協会 (Japan Crypto-asset Business Association)  ·  `jcba-japan-crypto-business-association`
+- 国内 CEX × 預金トークン / EPI 統合戦略 — DCJPY / Progmat / JPYC 連携  ·  `jp-cex-deposit-token-stablecoin-integration`
+- 国内 CEX × NFT マーケットプレイス統合モデル  ·  `jp-cex-nft-marketplace-integration`
+- 国内 CEX × ポイントエコノミー統合モデル  ·  `jp-cex-points-economy-integration`
+- 国内 CEX 販売所 vs 取引所 ビジネスモデル経済学  ·  `jp-cex-sales-vs-exchange-model-economics`
+- 国内 CEX ステーキング・レンディングサービス + 規制  ·  `jp-cex-staking-lending-regulation`
+- 国内暗号資産 税制 詳細 — 雑所得 vs 申告分離 + 個人 vs 法人  ·  `jp-crypto-asset-taxation-detailed`
+- CEX × 日本銀行 無担保授信実績図譜(Fintech業界インテリジェンス)  ·  `jp-crypto-bank-credit-facilities`
+- Japan crypto exchange overview — FSA / JVCEA regulated VASP market  ·  `jp-crypto-exchange-overview`
+- 国内暗号資産マーケットメイカー / OTC デスク業界 overview  ·  `jp-crypto-market-maker-otc-layer`
+- 国内暗号資産マーチャント決済 + Lightning Network  ·  `jp-crypto-merchant-payment-lightning`
+- 国内向け on/off ramp + 法定通貨↔暗号資産ブリッジ層 (MoonPay / Transak / Banxa / VASP 直接)  ·  `jp-crypto-on-off-ramp-bridge-layer`
+- 国内向けステーキング・アズ・ア・サービス (StaaS) 事業者層  ·  `jp-crypto-staking-as-a-service-operators`
+- 国内暗号資産税務ソフトウェアベンダー層 (Cryptact / Gtax / CryptoLinc / Coinly 等)  ·  `jp-crypto-tax-software-vendor-layer`
+- 国内暗号資産 VC + クリプトファンド ランドスケープ  ·  `jp-crypto-vc-fund-landscape`
+- Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）  ·  `jp-custody-fireblocks-japan`
+- 株式会社Ginco — 日本 B2B ブロックチェーン・カストディインフラ提供者  ·  `jp-custody-ginco`
+- Komainu — 機関投資家向けデジタル資産 custody 専業  ·  `jp-custody-komainu`
+- BACKSEAT暗号資産交換業株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-backseat-exchange`
+- SBI FXトレード株式会社（BI FXTRADE）— 日本暗号資産デリバティブ業者  ·  `jp-exchange-bi-fxtrade`
+- Binance Japan株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-binance-japan`
+- ビットバンク株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-bitbank`
+- 株式会社 bitFlyer — 日本暗号資産交換業者  ·  `jp-exchange-bitflyer`
+- 株式会社ビットポイントジャパン — 日本暗号資産交換業者（historical / deprecated）  ·  `jp-exchange-bitpoint-historical-deprecated`
+- ビットトレード株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-bittrade`
+- BTCボックス株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-btcbox`
+- Coinbase 株式会社 — 日本暗号資産交換業者（dormant）  ·  `jp-exchange-coinbase-japan`
+- コインチェック株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-coincheck`
+- COINHUB株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-coinhub`
+- 株式会社 Crypto Garage — 日本暗号資産交換業者  ·  `jp-exchange-crypto-garage`
+- 株式会社 Custodiem — 日本暗号資産交換業者  ·  `jp-exchange-custodiem`
+- 株式会社デジタルアセットマーケッツ — 日本暗号資産交換業者  ·  `jp-exchange-digital-asset-markets`
+- 株式会社DMM Bitcoin — 日本暗号資産交換業者（former VASP）  ·  `jp-exchange-dmm-bitcoin`
+- 株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）  ·  `jp-exchange-dmm-com-securities`
+- FINX JCrypto株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-finx-jcrypto`
+- 株式会社ガイア — 日本暗号資産交換業者  ·  `jp-exchange-gaia`
+- Gate Japan株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-gate-japan`
+- 株式会社Gaudiy Financial Labs — JVCEA 第二種会員（Web3 IP プラットフォーム事業者）  ·  `jp-exchange-gaudiy`
+- GMOコイン株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-gmo-coin`
+- ゴールデンウェイ・ジャパン株式会社 — 日本暗号資産交換業者（デリバティブのみ）  ·  `jp-exchange-goldenway-japan`
+- JPYC 株式会社 — 日本円ステーブルコイン発行体（資金移動業者型）  ·  `jp-exchange-jpyc`
+- Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）  ·  `jp-exchange-kraken-japan-historical`
+- Laser Digital Japan — 日本暗号資産交換業者  ·  `jp-exchange-laser-digital-japan`
+- LINE Xenesis株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-line-xenesis`
+- 株式会社メルコイン — 日本暗号資産交換業者  ·  `jp-exchange-mercoin`
+- 株式会社マーキュリー（CoinTrade） — 日本暗号資産交換業者  ·  `jp-exchange-mercury`
+- マネックス株式会社 — 日本暗号資産デリバティブ取引業者  ·  `jp-exchange-monex`
+- 株式会社マネーパートナーズ — 日本暗号資産交換業者  ·  `jp-exchange-money-partners`
+- オーケーコイン・ジャパン株式会社（OKJ） — 日本暗号資産交換業者  ·  `jp-exchange-okcoin-japan`
+- OSL Japan株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-osl-japan`
+- 楽天ウォレット株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-rakuten-wallet`
+- サクソバンク証券株式会社 — 外資系マルチアセット証券（JVCEA第二種会員）  ·  `jp-exchange-saxo-bank-japan`
+- 株式会社SBI証券 — 日本暗号資産デリバティブ取引業者  ·  `jp-exchange-sbi-securities`
+- SBI VCトレード株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-sbi-vc-trade`
+- S.BLOX株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-sblox`
+- 東京ハッシュ株式会社 — 日本暗号資産交換業者  ·  `jp-exchange-tokyo-hash`
+- トレイダーズ証券 — 日本暗号資産デリバティブ取引業者  ·  `jp-exchange-traders-securities`
+- Trek Labs Japan 株式会社 — 日本暗号資産交換業者（準備法人）  ·  `jp-exchange-trek-labs-japan`
+- 株式会社Zaif — 日本暗号資産交換業者  ·  `jp-exchange-zaif`
+- Binance Holdings Limited — 日本FSA警告対象・無登録海外業者（歴史的記録）  ·  `jp-foreign-exchange-binance-holdings-legacy`
+- bitcastle LLC — 日本向け海外無登録暗号資産取引所  ·  `jp-foreign-exchange-bitcastle`
+- Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）  ·  `jp-foreign-exchange-bitforex`
+- Bitget Limited — 日本向け海外無登録暗号資産交換業者  ·  `jp-foreign-exchange-bitget`
+- Bybit — 海外無登録暗号資産交換所（日本FSA警告3回）  ·  `jp-foreign-exchange-bybit`
+- KuCoin — 海外無登録暗号資産交換所（日本FSA警告）  ·  `jp-foreign-exchange-kucoin`
+- LBank Exchange — 日本向け海外無登録暗号資産交換業者  ·  `jp-foreign-exchange-lbank`
+- MEXC Global — 海外無登録暗号資産交換業者（日本 FSA 警告 2 回）  ·  `jp-foreign-exchange-mexc`
+- 国内 IEO (Initial Exchange Offering) 制度 + 主要案件 timeline  ·  `jp-ieo-system-and-cases`
+- 国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較  ·  `jp-institutional-custody-three-pillars`
+- 国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧  ·  `jp-listed-cex-related-companies-matrix`
+- 国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)  ·  `jp-vasp-aml-travel-rule-implementation`
+- 国内 VASP コールド保管 95% + 分別管理制度  ·  `jp-vasp-cold-storage-segregation-rules`
+- 国内暗号資産デリバティブ取引業 制度 — 金商法 × 資金決済法 デュアル登録  ·  `jp-vasp-derivative-license-system`
+- 国内 VASP 暗号資産流出事件史 (2014-2026)  ·  `jp-vasp-incident-history`
+- 国内暗号資産交換業 M&A 統廃合史 (2018-2026)  ·  `jp-vasp-ma-consolidation-history`
+- 国内 VASP 親会社・株主構造マップ — 三分類 + 大手金融グループ系列  ·  `jp-vasp-parent-company-map`
+- 国内暗号資産 VASP 規制タイムライン (2014-2026)  ·  `jp-vasp-regulatory-timeline`
+- 国内 VASP セキュリティ・監査・ISMS 認証実態  ·  `jp-vasp-security-audit-certification`
+- 国内 Web3 / 暗号資産 公共政策ボディ層 (METI Web3 政策室 / 自民党 web3 PT / 内閣官房)  ·  `jp-web3-policy-public-body-layer`
+- JVCEA — 日本暗号資産取引業協会 自主規制制度  ·  `jvcea-self-regulatory-overview`
+- JVCEA 国内 spot 取引高 統計分析 (2017-2026)  ·  `jvcea-spot-volume-statistics-analysis`
+- JVCEA Type 2 (第二種会員) 制度 — 賛助会員 4 社分析  ·  `jvcea-type2-associate-membership-system`
+- JVCEA WhiteList 上場銘柄 timeline (2017-2026)  ·  `jvcea-whitelist-listing-timeline`
+- JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト  ·  `jvcea-whitelist-token-listing`
+- 韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX  ·  `korea-cex-five-pillars-comparison`
+- 韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造  ·  `korea-kimchi-premium-economics`
+- Liquid staking + Restaking エコシステム + CEX exposure  ·  `liquid-staking-restaking-cex-exposure`
+- Mt.Gox 破綻処理 timeline (2014-2026)  ·  `mtgox-bankruptcy-processing-timeline`
+- L2 原生 DEX による incumbent 逆転パターン  ·  `native-dex-flip-incumbent-pattern`
+- RWA (Real World Asset) tokenization × CEX 取扱  ·  `rwa-tokenization-cex-integration`
+- シンガポール MAS DPT ライセンス制度 — PSA 下の暗号資産取引業  ·  `sg-mas-dpt-licensing-overview`
+- Solana エコシステム DEX 群 — Jupiter / Raydium / Orca / Drift / Phoenix / Meteora 比較  ·  `solana-ecosystem-dex-comparison`
+- スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム  ·  `switzerland-finma-crypto-valley-overview`
+- 台湾 FSC VASP licensing 制度  ·  `taiwan-fsc-vasp-licensing-overview`
+- UAE VARA ライセンス制度 — ドバイ拠点の世界初独立暗号資産規制機関  ·  `uae-vara-licensing-overview`
+- UK FCA crypto-asset registration regime  ·  `uk-fca-crypto-registration-overview`
+- 米国暗号資産取引業 ライセンス重層制度 — BitLicense / OCC Trust / 州 MTL / FinCEN MSB  ·  `us-crypto-licensing-multi-layer-system`
+- ve(3,3) ガバナンス機制 — Curve veCRV → Solidly → Velodrome/Aerodrome 進化  ·  `ve33-governance-mechanism`
+- veToken × ホスト・プロトコル DEX 自己循環フライホイール — L2/L1 ホスト側のオンチェーン閉ループ  ·  `vetoken-host-protocol-flywheel`
+
+## fintech — 143 entries
+
+- 2022 三変数カスケード — 現行 Stablecoin / Fintech / 地政学多極化の共通因果  ·  `2022-three-variable-cascade-thesis`
+- AI 産業の 2 つの決済軌道 — Stripe モデル vs Stablecoin モデル  ·  `ai-payment-two-tracks`
+- FATF 評価のクロスボーダー・コンプライアンス含意 · §501(d) 入リスト資格の前置フィルター層  ·  `aml-cft-fatf-grey-list-cross-border-implications`
+- FATF グレーリスト / ブラックリスト · AML/CFT 国別評価メカニズム概要  ·  `aml-cft-fatf-grey-list-overview`
+- Apollo ACRED · プライベートクレジット・トークン化 · 第二梯団 MMF の独立的な戦略ポジション  ·  `apollo-acred-private-credit-tokenization`
+- Argentina USDT Formalization · Post-Milei Reforms 2024-2026  ·  `argentina-usdt-formalization`
+- Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons  ·  `bahamas-sand-dollar-cbdc`
+- Basel III FRTB 戦略的含意 · USDC の暗黙的な資本プレミアム + BUIDL の銀行チャネル  ·  `basel-iii-frtb-crypto-exposure-implications`
+- Basel III FRTB 暗号エクスポージャー · BCBS SCO60 1,250% リスクウェイト概要  ·  `basel-iii-frtb-crypto-exposure-overview`
+- BIS Agora vs mBridge · 2026 Update — Three-Pole CBDC Map & Regulatory Friction  ·  `bis-agora-vs-mbridge-2026-update`
+- BIS Project Agorá 概要 · 7 G10 中央銀行 + 40 商業銀行による共同トークン化実験  ·  `bis-project-agora-overview`
+- Agorá vs mBridge · 2026+ クロスボーダー決済デュアル・トラック制の戦略比較  ·  `bis-project-agora-vs-mbridge`
+- HKMA Project Ensemble 概要 · 香港トークン化マネー・サンドボックス  ·  `bis-project-ensemble-overview`
+- HKMA デュアル・トラック戦略 · Ensemble 域内 + mBridge クロスボーダー  ·  `bis-project-ensemble-vs-mbridge-dual-track`
+- MAS Project Guardian 概要 · シンガポール・トークン化資産実証アライアンス  ·  `bis-project-guardian-overview`
+- アジア・トークン化インフラ三極 · Guardian × Ensemble × Agorá-via-BoJ  ·  `bis-project-guardian-vs-agora-asia-three-poles`
+- BlackRock BUIDL · stablecoin と DeFi プロトコルの準備資産採用マトリックス  ·  `blackrock-buidl-sc-issuer-adoption`
+- BlackRock BUIDL · トークン化 MMF のベンチマーク · 「stablecoin yield インフラ」  ·  `blackrock-buidl-tokenized-mmf-overview`
+- Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB  ·  `boe-digital-pound-consultation`
+- Brazil DREX Timeline 2024-2026 (BCB CBDC Pilot Phases, Hyperledger Besu, Pix Integration, BRL Stablecoin Competition)  ·  `brazil-drex-timeline-2026`
+- Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026  ·  `brazil-mexico-cbdc-stablecoin-push-2026`
+- CARF + IRS 1099-DA = クロスボーダー暗号資産匿名性の完全終焉  ·  `carf-1099da-end-of-crypto-anonymity`
+- cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィンドウ・プロダクト  ·  `cbbtc-institutional-btc-wrapper`
+- CBDC adoption curve 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan DCJPY  ·  `cbdc-adoption-curve-china-japan-eu-india-2026`
+- CBDC 多層アーキテクチャ概要 · 二層 / 直接 / token-based の三パラダイム  ·  `cbdc-multi-tier-architecture-overview`
+- CBDC 3 大現役パラダイム · e-CNY / DREX / デジタル・ユーロ  ·  `cbdc-multi-tier-architecture-three-paradigms`
+- CBDC アーキテクチャ選択 4 大トレードオフ · 仲介 / 主権 / プライバシー / イノベーション  ·  `cbdc-multi-tier-architecture-tradeoffs`
+- 中央銀行機能のアンバンドリング 5 層 — 通貨インフラ再編のマクロ構造  ·  `central-banking-function-unbundling`
+- CFTC vs SEC 暗号管轄権争い · FIT21/CLARITY Act によるコモディティ証券二分法  ·  `cftc-sec-crypto-jurisdiction`
+- チェーン・レベル OFAC freeze = 米ドルのチェーン・レベル覇権（Bybit Hack 30 分前例）  ·  `chain-level-ofac-freeze-precedent`
+- Circle USDC · コンプライアント・ホワイトサークル基準品 · NYSE 上場発行体 · CCTP / BUIDL インターロック  ·  `circle-usdc-stablecoin`
+- 準備金インターロック・フライホイール · BUIDL ↔ USDC システミックな循環依存  ·  `circular-reserve-asset-flywheel-overview`
+- 準備金インターロック・フライホイール · 三層システミックリスク・シナリオ  ·  `circular-reserve-asset-flywheel-risk-cases`
+- Cosmos IBC for Financial Institutions —— 金融機関向け cross-chain protocol 选型  ·  `cosmos-ibc-for-financial-institutions`
+- 跨境 SC via SWIFT API —— Project Pax / Project Agorá 与 SWIFT 集成パターン  ·  `cross-border-sc-via-swift-api`
+- DORA CTPP 第三者リスク · AWS/Anchorage を金融規制下に間接的に取り込む  ·  `dora-eu-digital-operational-resilience-ctpp`
+- DORA · EU Digital Operational Resilience Act 五本柱の概観  ·  `dora-eu-digital-operational-resilience-overview`
+- 二通貨アービトラージ · §501 リーガル hack と規制脆弱性  ·  `dual-currency-stablecoin-arbitrage-legal-hack`
+- 二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス  ·  `dual-currency-stablecoin-arbitrage-overview`
+- Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison  ·  `e-euro-retail-rollout`
+- e-CNY supply-chain and cross-border expansion 2025-2026 — mBridge bridges, Belt-and-Road pilots, HK stablecoin competitive context  ·  `ecny-supply-chain-expansion`
+- 新興市場における暗号資産ドル化パターン(ナイジェリア / アルゼンチン / 中南米トライアングル)  ·  `em-market-crypto-dollarization-pattern`
+- 組込み型ウォレットによる Fintech の脱仲介化 · Privy/CDP/Magic/Web3Auth 四強構図  ·  `embedded-wallet-fintech-disintermediation-overview`
+- 組込み型ウォレット · Fintech が Web3 を逆食いする Trojan Horse(Stripe 五層)  ·  `embedded-wallet-fintech-disintermediation-stripe-trojan-horse`
+- 企業 IT 調達予算ロックイン —— 表層的な市場締切の背後にある隠れたメカニズム  ·  `enterprise-procurement-deadline-anchor`
+- eRupee India pilot status 2026 — retail + wholesale dual track, UPI interoperability, programmable-money use cases  ·  `erupee-india-pilot-status`
+- EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築  ·  `eu-mica-implementation-status-2026`
+- European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗  ·  `european-payments-initiative-wero`
+- FATF Travel Rule クロスボーダー四層 stack · 各国閾値の差異 + §501 連携  ·  `fatf-travel-rule-cross-border-stack`
+- FATF Travel Rule · R.16 VASP $1,000 KYC 情報伝達 概観  ·  `fatf-travel-rule-overview`
+- First Digital FDUSD · HK ライセンス候補 · Binance 主要取引ペアで BUSD を代替  ·  `first-digital-fdusd-hk-stablecoin`
+- Fnality International · 銀行連合のホールセール決済トークン · BoE ライセンス取得 GBP は既稼働  ·  `fnality-wholesale-settlement`
+- 4 動機クラスの非対称分析 —— 7 陣営の対称競争ではない  ·  `four-motive-classes-asymmetric-competition`
+- Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム  ·  `franklin-templeton-stablecoin-migration`
+- Frax frxUSD · DeFi ネイティブ・ステーブルコインの「半コンプライアンス化」ルート  ·  `frax-frxusd-defi-stablecoin`
+- 為替 onchain 化はステーブルコイン領域の「ラスボス」 — プライムブローカー消失と Herstatt Risk 解消  ·  `fx-onchain-as-stablecoin-final-boss`
+- GENIUS Act §501 Denylist Mandate · 2025 Actual Implementation  ·  `genius-act-501-actual-implementation`
+- GENIUS Act §501 によるチェーンレベル Denylist の合法化 —— ステーブルコイン・ネイティブ L1 のコンプライアンス的逆解釈  ·  `genius-act-501-denylist-mandate`
+- Global retail CBDC pilot comparison matrix — Africa, Caribbean, Asia, UK (eNaira / Sand Dollar / JAM-DEX / DCash / e-CNY / Bakong / digital pound)  ·  `global-cbdc-retail-pilot-matrix-africa-caribbean`
+- グローバル・ステーブルコイン規制 五極比較マトリクス（US GENIUS / EU MiCA / 日本 EPI / HK / SG）  ·  `global-stablecoin-regulatory-five-pole-matrix`
+- 日本におけるトークン発行スキーム比較  ·  `gold-tokenization-scheme-comparison`
+- グレー市場ドルネットワークの正式化 —— Tether HK テンプレート  ·  `gray-market-dollar-network-formalization`
+- HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework  ·  `hk-frtb-stablecoin-reserve-overview`
+- HKMA ライセンス戦略的含意 · Tether HK 非対称ベット + 中国本土 SC チャネル  ·  `hkma-stablecoin-licensing-implications`
+- HKMA ステーブルコイン・ライセンス · 香港 Stablecoin Licensing Regime 概観  ·  `hkma-stablecoin-licensing-overview`
+- インド反ドル DPI 連合 — UPI / MOSIP / ARC 三軸ナラティブ  ·  `india-anti-dollar-dpi-alliance`
+- Indonesia E-Wallet Ecosystem and Stablecoin Route (OVO / GoPay / DANA / ShopeePay + USDT Grey Corridor)  ·  `indonesia-ovo-stablecoin-route`
+- 機関投資家市場のステーブルコイン = 銀行発行の預金トークンのみが構造的に解  ·  `institutional-stablecoin-deposit-token-thesis`
+- IRS 1099-DA · 米国暗号資産税務報告の義務化  ·  `irs-1099-da`
+- 発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム  ·  `issuer-distributor-incentive-realignment-50-50-model`
+- Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム  ·  `issuer-distributor-incentive-realignment-arc-strategy`
+- Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor  ·  `jamaica-jam-dex-cbdc`
+- 日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造  ·  `japan-bittrade-listing-process`
+- 日本 ECISB ライセンス —— 「資金に触れない取引ルーティング仲介」専用の軽量ライセンス  ·  `japan-ecisb-license`
+- 日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1  ·  `japan-epi-four-camps-comparison`
+- 日本 EPI 三型アーキテクチャ · 信託型 / 銀行型 / 資金移動業者型 概要  ·  `japan-epi-three-types-overview`
+- 日本金融規制 — トークン・暗号資産・決済に関する法体系  ·  `japan-financial-regulation`
+- 日本上場会社 開示情報モニタリング SOP（17 チャネル）  ·  `japan-listed-company-disclosure-monitoring`
+- 日本 Stablecoin 2026 イベント・トラッカー · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI 改正  ·  `japan-stablecoin-2026-event-tracker`
+- 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）  ·  `japan-stablecoin-regulatory-landscape`
+- 日本上場会社 第三者割当増資の 5 段階フロー  ·  `japan-third-party-allotment-5-step-flow`
+- DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム  ·  `jp-stablecoin-dcjpy`
+- 株式会社Progmat — デジタルアセットプラットフォーム概要  ·  `jp-stablecoin-progmat`
+- 日本信託型 SC 架構 —— 三型分化下的第 3 号 EPI 結構解剖  ·  `jp-trust-type-sc-architecture`
+- JPMorgan Onyx / Kinexys · 銀行内部ホールセール・ネットワーク · Liink × JPM Coin × Onyx Digital Assets  ·  `jpm-onyx-wholesale-network`
+- JPMorgan JPMD · トークン化預金 · GENIUS §501 法的分類下の TD パラダイム  ·  `jpmorgan-jpmd-coin`
+- 司法管轄区リスト —— 貨幣保護主義の新形態  ·  `jurisdiction-list-monetary-protectionism`
+- Latin America CBDC and USD-Stablecoin Dynamics (Argentina / Brazil / Mexico / Colombia / Peru / El Salvador / Venezuela)  ·  `latin-america-cbdc-stablecoin-dollarization`
+- M^0 / M Network · 中立ステーブルコイン・インフラ · 「スイス銀行モデル」  ·  `m-network-m0-neutral-infrastructure`
+- M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期  ·  `m0-network-infrastructure-update-2026`
+- マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解  ·  `maina-wallet-kyc-permissionless-ux-bridge`
+- mBridge · BIS マルチ CBDC クロスボーダー決済ブリッジ(概要)  ·  `mbridge-bis-multi-cbdc-overview`
+- mBridge vs Agora · BIS 2025 同年切替の二軌対比  ·  `mbridge-bis-multi-cbdc-vs-agora`
+- mBridge 非米ドル決済リング規模パターン · wholesale settlement 上限としての GDP カバー率  ·  `mbridge-non-usd-settlement-ring-scale`
+- mBridge 6 中央銀行リストと役割(2026-Q2)  ·  `mbridge-six-central-banks-roster`
+- MiCA クロスボーダー含意 · USDC ↔ EURC 双方向相互認証 + USA-EU MRA 2026-Q3  ·  `mica-cross-border-implications`
+- MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロダクト形状づけ  ·  `mica-emt-art-subcategories-deep-dive`
+- EU MiCA · Markets in Crypto-Assets Regulation 概要  ·  `mica-overview`
+- 多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式  ·  `multi-megabank-consortium-governance`
+- 国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略  ·  `national-license-private-stablecoin-with-dpi-export`
+- Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision  ·  `nigeria-enaira-retail-cbdc`
+- OCC National Bank Charter for Crypto Firms · 2025 Update  ·  `occ-bank-charter-crypto-2025`
+- OCC trust bank charter を活用した連邦ステーブルコイン銀行アービトラージ・ルート  ·  `occ-trust-bank-charter-federal-stablecoin-arbitrage`
+- ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した  ·  `onchain-finance-vs-crypto-bifurcation`
+- Ondo Finance · OUSG / USDY / rUSDY / Ondo Chain · 機関化 RWA フルスタック・プレイヤー  ·  `ondo-finance-rusdy-adoption`
+- Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済  ·  `partior-jpm-dbs-temasek-consortium`
+- Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG  ·  `paxos-paxg-post-binance-pivot`
+- PayPal PYUSD · 大手決済企業初のブランド化ステーブルコイン · Solana 主戦場  ·  `paypal-pyusd-stablecoin`
+- ポートフォリオ勝者構造 —— ARM Holdings の金融インフラ版  ·  `portfolio-winner-structure-arm-analog`
+- プロトコル層マルチライン hedge 戦略（Stripe MPP / ACP / AP2 / x402 パターン）  ·  `protocol-hedge-strategy-stripe-pattern`
+- プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構  ·  `protocol-renewal-trigger-as-event-anchor`
+- US 2025 Crypto Regulatory Reset · Trump-Era Policy Pivot  ·  `regulatory-reset-2025-usa-crypto-policy`
+- 規制立法ウィンドウ直前の戦略バイヤー買収パターン  ·  `regulatory-window-strategic-acquisition`
+- リテール用ステーブルコインは「銀行発行 vs パーミッションレス UX」の二律背反に陥り、決済レイヤー単独では勝ち筋がない  ·  `retail-stablecoin-dual-bind`
+- Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコイン · XRPL + Ethereum 2 チェーン  ·  `ripple-rlusd-stablecoin`
+- Singapore MAS Payment Services Act + SCS フレームワーク概観  ·  `singapore-mas-payment-services-act-overview`
+- MAS 戦略的含意 + HK との対比 · Circle SG hub + DBS/StanChart チャネル  ·  `singapore-mas-payment-services-act-strategic-implications`
+- Sky USDS · §501 時代最大の分散型ステーブルコイン試行 · MakerDAO リブランド  ·  `sky-usds-decentralized-stablecoin`
+- Southeast Asia Stablecoin Regulatory Landscape 2026 (MAS / HKMA / BoT / OJK / BSP / SBV / BNM)  ·  `southeast-asia-stablecoin-regulatory-landscape`
+- ソブリン資本プール規模アンカー · Aramco $7T を中東デジタル資産配分の上限として  ·  `sovereign-capital-pool-aramco-anchor`
+- ソブリンファンドの暗号インフラ配分パターン  ·  `sovereign-fund-crypto-allocation-pattern`
+- ステーブルコイン地政学通貨対立フレームワーク（米 / 欧 / 日 / 中 / グレーの 5 極構図）  ·  `stablecoin-chain-sovereign-currency-divide`
+- ステーブルコイン公開チェーン token 戦略 3 状態ゲーム（発行 / 不発行 / 発行済み）  ·  `stablecoin-chain-token-strategy-trilemma`
+- SBI × JPYC × Circle 環状持株 — 日本ステーブルコイン配信チャネル  ·  `stablecoin-channel-japan-sbi-jpyc-ring`
+- B2B Stablecoin 跨境決済の爆発的成長（733% YoY、$226B）  ·  `stablecoin-crossborder-b2b-growth`
+- Stablecoin Issuer 2025-2026 Market Consolidation · USDT/USDC 双寡占と 8 社の挑戦者梯団  ·  `stablecoin-issuer-2025-2026-market-consolidation`
+- ステーブルコイン利息分配経済学 —— Coinbase / Circle 50% off-platform モデル  ·  `stablecoin-revenue-split-economics`
+- ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）  ·  `stablecoin-war-articles-2026-05`
+- State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race  ·  `state-charter-crypto-arbitrage-2025`
+- Stripe USDB · Bridge 買収後の決済会社ステーブルコイン · Tempo L1 + Agent 決済キャリア  ·  `stripe-usdb-bridge-stablecoin`
+- Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制  ·  `tether-business-model-short-treasury-yield`
+- Tether USAT · Anchorage 提携の米国コンプライアンスブランチ · USDT 国際/国内デュアルライン分離  ·  `tether-usat-anchorage`
+- 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル  ·  `three-circles-mra-2030-economic-scale`
+- 米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証）  ·  `three-circles-stablecoin-mra-framework`
+- トークン化預金累計取引規模パターン · Kinexys $1.5T を銀行預金トークンセクターのアンカーとして  ·  `tokenized-deposit-cumulative-volume-scale`
+- Tokenized MMF issuer comparison matrix — BUIDL, BENJI, ACRED, WTGXX, USYC, USTB, OUSG (eight-way)  ·  `tokenized-mmf-issuer-comparison-matrix`
+- Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス  ·  `tokenized-mmf-wisdomtree-hashnote`
+- Treasury 2025 Stablecoin Policy Framework · PWG Recommendations and Dual-Track Charters  ·  `treasury-stablecoin-policy-2025`
+- USD ステーブルコイン互換市場 — $33 兆規模レール上の 0.01% ビジネス  ·  `usd-stablecoin-interchange`
+- USD stablecoin issuer ten-way comparison matrix — USDT / USDC / PYUSD / RLUSD / USD1 / FDUSD / USDS / USDe / M / USDB  ·  `usd-stablecoin-issuer-eight-way-matrix`
+- Wall Street 暗号資産ネットワーク中立投資戦略（Visa デュアル戦略モデル）  ·  `wall-street-crypto-network-neutrality`
+- Wholesale settlement network comparison matrix — Fnality fnPS / Partior / JPM Kinexys / mBridge / Project Agorá / Project Mariana  ·  `wholesale-settlement-network-matrix`
+- WLF USD1 · 政治背景ステーブルコイン · 大統領家関連 vs §501 中立性の緊張関係  ·  `world-liberty-usd1-political-stablecoin`
+
+## systems — 61 entries
+
+- BFT validator 経済の4変数 · yield / slashing / MEV / 集中度  ·  `bft-validator-economy-four-variables`
+- BFT validator 経済学概観 · 4変数と機関チェーンの退化  ·  `bft-validator-economy-overview`
+- Tempo vs Arc · 機関チェーン validator 設計の2経路  ·  `bft-validator-economy-tempo-vs-arc`
+- Bitcoin Scaling 2026 · Stacks + Lightning + BitVM + Babylon 並列スタック  ·  `bitcoin-scaling-2026-stacks-lightning-bitvm`
+- bitFlyer Blockchain  ·  `bitflyer-blockchain`
+- Canton DAML 技術仕様 · 関数型金融契約 + Sub-transaction Privacy  ·  `canton-daml-technical-spec`
+- Canton MMF 連合 · JPM + GS + BNY + DTCC による反 BlackRock 公開チェーン路線  ·  `canton-mmf-coalition`
+- Canton Network 概観 · DAML スマートコントラクトのプライバシー機関チェーン  ·  `canton-overview`
+- CCTP V2 概観 · Circle USDC クロスチェーン burn-and-mint  ·  `cctp-v2-overview`
+- CCTP V2 技術仕様 · Fast Transfer · Hooks · Attestation Service  ·  `cctp-v2-technical-spec`
+- CCTP V2 vs Canton · 公開チェーン路線 vs プライベートチェーン路線の根本対峙  ·  `cctp-v2-vs-canton`
+- チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ  ·  `chain-abstraction-pattern-overview`
+- チェーン抽象の 3 大主流方式 · AggLayer / NEAR / EigenLayer  ·  `chain-abstraction-pattern-three-solutions`
+- クロスチェーンブリッジコモディティ化とチェーン抽象層への価値上方シフト  ·  `chain-abstraction-pattern-value-capture`
+- Chainlink CCIP · 機関級クロスチェーンメッセージング(SWIFT/DTCC メイントラック)  ·  `chainlink-ccip-institutional-messaging`
+- クロスチェーンブリッジ 8 極対照マトリクス · IBC / CCTP / CCIP / Wormhole / Hyperlane / LayerZero / Axelar / XCM  ·  `cross-chain-bridge-eight-pole-comparison`
+- クロスチェーンブリッジセキュリティ・保険マトリクス 2026 · 14 プロトコル trust model / hack history / coverage 全景  ·  `cross-chain-bridge-security-insurance-matrix-2026`
+- クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元  ·  `cross-chain-five-pole-comparison-matrix`
+- CCIP institutional デフォルト · TradFi → DeFi データブリッジの堀  ·  `cross-chain-four-poles-ccip-institutional`
+- クロスチェーン 4 極アーキテクチャ · LayerZero / CCIP / Wormhole / Hyperlane + CCTP V2 第 5 極  ·  `cross-chain-four-poles-overview`
+- クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング  ·  `cross-chain-four-poles-selection-decision`
+- DAG-BFT vs Chain-BFT アーキテクチャの本質的分岐（mempool 抽象の争点）  ·  `dag-bft-vs-chain-bft-architecture`
+- DA layer 全景対照 2026 · Celestia · EigenDA · Ethereum blobs · Avail · NEAR DA  ·  `data-availability-celestia-eigenda-blob-comparison`
+- EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁  ·  `eigenlayer-avs-mechanism`
+- EigenLayer による新 L1 起動期セキュリティ支援 · Tempo/Arc 潜在経路  ·  `eigenlayer-l1-bootstrapping`
+- EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース  ·  `eigenlayer-overview`
+- EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景  ·  `eip-4844-blob-economics-impact-2026`
+- EIP-7708 native asset → ERC-20 event 索引兼容  ·  `eip-7708-native-asset-erc20-event-compat`
+- ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe  ·  `erc-4337-embedded-wallet-adoption`
+- ERC-4337 概観 · Account Abstraction のアプリケーション層実装  ·  `erc-4337-overview`
+- ERC-4337 UserOp/Bundler/EntryPoint フロー詳解  ·  `erc-4337-userop-bundler-flow`
+- ERC-7702 概観 · EOA が一時的に SCW 機能を獲得する Pectra アップグレード  ·  `erc-7702-overview`
+- ERC-7702 vs ERC-4337 · Ethereum AA デュアルトラック対照  ·  `erc-7702-vs-erc-4337`
+- 形式化仕様 ↔ 実装 co-design —— Quint × Malachite パラダイム  ·  `formal-spec-implementation-codesign`
+- Hook-Enforced Compliance（Hook で強制される規則順守）  ·  `hook-enforced-compliance`
+- Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー  ·  `hyperlane-ism-modular-security`
+- Hyperlane 概観 · Permissionless Cross-chain Interoperability  ·  `hyperlane-overview`
+- Hyperlane vs LayerZero/CCIP · Permissionless vs Gated ルート対照  ·  `hyperlane-vs-layerzero-ccip`
+- Hyperledger Besu · EVM 互換エンタープライズチェーン(Quorum の進化形)  ·  `hyperledger-besu-overview`
+- Hyperledger Besu vs Canton · JPM 主戦場移行経路  ·  `hyperledger-besu-vs-canton-migration`
+- IBC · Cosmos Inter-Blockchain Communication protocol  ·  `ibc-cosmos-cross-chain`
+- 機関 DLT プラットフォーム採用比較 2026 · Canton vs Fabric vs Corda vs パブリックチェーン vs Avalanche vs Polygon  ·  `institutional-dlt-adoption-comparison-2026`
+- L1 渐进式去中心化三阶段路径  ·  `l1-progressive-decentralization-three-phase`
+- L2 Agent 経済学 · Arbitrum vs Base vs Optimism の AI agent ワークロード比較  ·  `l2-agent-economics-arbitrum-base-op-comparison`
+- LayerZero v2 · DVN 構成可能なオムニチェーンメッセージングプロトコル  ·  `layerzero-v2-omnichain-messaging`
+- MEV · Flashbots, MEV-Boost, SUAVE, order-flow auctions  ·  `mev-flashbots-suave-order-flow-auction`
+- 多証明システム集約 fault prover アーキテクチャ  ·  `multi-proof-aggregation-fault-prover`
+- Pectra EIP-7251 · 機関 staking 経済親和化(2048 ETH 上限)  ·  `pectra-eip-7251-institutional-staking`
+- Pectra EIP-7691 · blob 倍増と L2 経済連鎖  ·  `pectra-eip-7691-blob-l2-impact`
+- Ethereum Pectra アップグレード · 4 EIP デュアルトラック戦略総覧  ·  `pectra-upgrade-overview`
+- Polkadot XCM · parachain messaging v3-v4  ·  `polkadot-xcm-parachain-messaging`
+- Polygon AggLayer アーキテクチャと 2024-2026 rollout · CDK + 統一ブリッジ + ZK 集約  ·  `polygon-agglayer-architecture-rollout`
+- 耐量子署名 day-1 統合の経済学(FIPS 205 SLH-DSA · Circle Arc の day-1 PQ)  ·  `post-quantum-blockchain-day1-integration`
+- Restaking と AVS 全景マトリクス · EigenLayer vs Symbiotic vs Karak vs Mellow vs EtherFi vs Lido CSM  ·  `restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic`
+- Rollup 市場シェア 2026 · Arbitrum vs Optimism vs Base vs zkSync vs Polygon zkEVM vs Scroll vs Linea  ·  `rollup-market-share-2026-arbitrum-optimism-base`
+- Solana Firedancer · Jump Crypto 第二クライアント 2026 メインネット · validator 経済と MEV 再構築  ·  `solana-firedancer-validator-economics`
+- Sui and Aptos · Move L1 ecosystem  ·  `sui-aptos-move-l1-ecosystem`
+- Threshold BFT 共识 Rust 化潮流（Tempo Simplex / Arc Malachite）  ·  `threshold-bft-consensus-rust-implementations`
+- TON · Telegram Open Network ecosystem  ·  `ton-telegram-openwallet-ecosystem`
+- L1/L2 デュアルトラック戦略の進化 anchor · Ethereum ロードマップと独立 L1 経済インセンティブの攻防  ·  `vitalik-l1-l2-strategy-anchor`
+- ZK-EVM Rollup 成熟度対照マトリクス 2026 · 9 個の rollup の proving system / TVL / DA / decentralization  ·  `zk-evm-rollup-maturity-comparison-matrix-2026`
+
+## agent-economy — 40 entries
+
+- Agent 決済インフラ調査レポート  ·  `2026-04-08_agent-payment-infrastructure-research`
+- Agent 主体性論争:4つの陣営  ·  `agent-actorship-debate`
+- Agent custody and authorization framework · 2026-05 reference architecture  ·  `agent-custody-and-authorization-framework-2026`
+- Agent-driven market data interpretation pipeline · feed → LLM → signal → trading system  ·  `agent-driven-market-data-interpretation-pipeline`
+- Agent identity bridging DeFi and traditional finance · KYA, Skyfire, Lit PKP, mDL, MiCA, GENIUS  ·  `agent-identity-defi-and-traditional-finance-bridge`
+- AI agent legal and tax liability framework · who is liable, how is agent income taxed  ·  `agent-legal-tax-liability-framework`
+- Agent Payment Protocol 四者比較マトリクス 2026 · AP2 / x402 / Skyfire / Nevermined plus ERC-7715 + Lit PKP  ·  `agent-payment-protocol-four-way-comparison-2026`
+- Agent Protocol Mainnet Adoption · 2026-05 Production-Readiness Snapshot  ·  `agent-protocol-mainnet-adoption-2026`
+- Agent 決済プロトコル commoditization と価値の上方移動 · Stripe 5層 + Privy デュアルデフォルト  ·  `ai-agent-payment-protocols-commoditization`
+- AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰  ·  `ai-agent-payment-protocols-overview`
+- AI Agent 決済7プロトコル分層表 · 意図 / 伝送 / 文脈  ·  `ai-agent-payment-protocols-seven-layers`
+- AI 企業の決済方式の現状(2026 年 4 月)  ·  `ai-company-payment-landscape`
+- AI-driven trading regulation · Japan FSA / SESC plus global FCA / SEC / ESMA comparison 2026  ·  `ai-driven-trading-regulation-japan-2026`
+- AP2 採用版図 · Google 閉ループ vs プロトコル四国大戦  ·  `ap2-adoption`
+- AP2 · Google Agent Payments Protocol 概観  ·  `ap2-overview`
+- AP2 技術仕様 · Mandate · Payment Intent · Settlement Adapter  ·  `ap2-technical-spec`
+- Claude Code 拡張コンポーネントアーキテクチャ — Agent エコシステムのインフラ階層  ·  `claude-code-extension-architecture`
+- Coinbase CDP · 開発者プラットフォーム · AI agent on-chain ウォレット基盤  ·  `coinbase-cdp-developer-platform`
+- Crossmint agent SDK · NFT and wallet abstraction for AI agents  ·  `crossmint-agent-sdk`
+- Embedded-wallet custody bankruptcy mechanics · what happens to end-user funds if Privy / Stripe / Coinbase CDP / AWS Bedrock fails  ·  `embedded-wallet-custody-bankruptcy-mechanics`
+- Embedded-wallet landscape 2026 · post-consolidation provider map  ·  `embedded-wallet-landscape-2026-consolidation`
+- 埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀  ·  `embedded-wallet-network-effects-moat`
+- ERC-4337 Account Abstraction Primer for AI Agents  ·  `erc-4337-account-abstraction-primer-for-agents`
+- ERC-7702 EOA Delegation Primer for AI Agents  ·  `erc-7702-eoa-delegation-primer-for-agents`
+- ERC-7715 と agent payment stack · x402 + AP2 + 4337/7702 協調  ·  `erc-7715-agent-payment-stack`
+- ERC-7715 概観 · Wallet Permissions と AI Agent 自動決済  ·  `erc-7715-overview`
+- Lit Protocol PKP · Programmable Key Pairs for AI agents  ·  `lit-protocol-pkp-agent-keys`
+- LLM and AI agent applications in finance · 2026-05 application surface overview  ·  `llm-agent-finance-application-overview-2026`
+- Nevermined · AI compute-payment protocol  ·  `nevermined-compute-payment-protocol`
+- Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング  ·  `privy-aws-agentcore-default-wallet`
+- Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)  ·  `privy-embedded-wallet-overview`
+- Skill マーケット有料化  ·  `skill-market-monetization`
+- Skyfire · closed-loop card-network agent payment issuer  ·  `skyfire-closed-loop-agent-issuer`
+- Solana Saga / Seeker · モバイルネイティブウォレットスタック(SMS 総覧)  ·  `solana-saga-seeker-mobile-stack-overview`
+- Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い  ·  `solana-saga-vs-embedded-wallet-os-thesis`
+- Stablecoin routing for AI agent transactions · which stablecoin actually settles agent payments  ·  `stablecoin-routing-agent-transactions`
+- Stripe Agent Toolkit · Stripe's First-Party Agent SDK and Its Position vs x402 / Privy / AWS AgentCore  ·  `stripe-agent-toolkit-position`
+- Visa Intelligent Commerce + Mastercard Agent Pay · Card-Network Agentic Commerce Pilots  ·  `visa-mastercard-agentic-commerce-pilots`
+- x402 x Cloudflare / AWS · エッジ層のデフォルト決済コンポーネント  ·  `x402-cloudflare-aws-edge-integration`
+- x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)  ·  `x402-http-payment-overview`
+
+## payments — 40 entries
+
+- Japan account-to-account payment route  ·  `account-to-account-payment-japan`
+- Amazon Gift Card Japan: closed-loop e-commerce prepaid  ·  `amazon-gift-card-japan`
+- Apple Gift Card Japan: closed-loop Apple-ecosystem prepaid  ·  `apple-gift-card-japan`
+- Japan card acquiring stack  ·  `card-acquiring-japan-stack`
+- Japan cashless payment landscape  ·  `cashless-jp-landscape`
+- Japan credit purchase and card operator registry index  ·  `credit-purchase-card-operators-japan-index`
+- Rakuten Edy: platform-agnostic FeliCa prepaid e-money  ·  `edy-rakuten-prepaid`
+- FamiPay: FamilyMart wallet and Itochu group payment strategy  ·  `famipay-valucreate-strategy`
+- Japan funds transfer service providers registry index  ·  `funds-transfer-service-providers-japan-index`
+- Funds transfer vs prepaid boundary in Japan  ·  `funds-transfer-vs-prepaid-boundary`
+- Google Play Gift Card Japan: closed-loop Google-ecosystem prepaid  ·  `google-play-gift-card-japan`
+- Japan bank API incident and fraud-control map  ·  `japan-bank-api-incident-and-fraud-control`
+- Japan bank API and electronic payment agency route  ·  `japan-bank-api-payment-agency-route`
+- Japan BNPL and credit-purchase boundary  ·  `japan-bnpl-credit-purchase-boundary`
+- Japan BNPL / pay-later operator registry matrix  ·  `japan-bnpl-pay-later-operator-registry-matrix`
+- Japan card issuer, acquirer, and processor split  ·  `japan-card-issuer-acquirer-processor-split`
+- Japan card security and authentication controls  ·  `japan-card-security-authentication-controls`
+- Japan code-payment competitive map  ·  `japan-code-payment-competitive-map`
+- Japan code-payment operator 2025 market share matrix  ·  `japan-code-payment-operator-2025-market-share-matrix`
+- Japan consumer-credit operator comparison matrix  ·  `japan-consumer-credit-operator-comparison-matrix`
+- Japan interchange and merchant fee stack  ·  `japan-interchange-and-merchant-fee-stack`
+- Japan JCB issuer ecosystem positioning matrix  ·  `japan-jcb-issuer-ecosystem-positioning-matrix`
+- Japan merchant PSP competitive scorecard  ·  `japan-merchant-psp-competitive-scorecard`
+- Japan payment clearing and settlement infrastructure  ·  `japan-payment-clearing-and-settlement-infrastructure`
+- Japan payment fraud incident timeline 2023-2025  ·  `japan-payment-fraud-incident-timeline-2023-2025`
+- Japan payment scheme economics matrix  ·  `japan-payment-scheme-economics-matrix`
+- Japan prepaid electronic money operator matrix — issuer, license, technology, AUM, breakage, mobile, merchant, refund, group bank  ·  `japan-prepaid-electronic-money-operator-matrix`
+- Japan transit-prepaid e-money: Suica / PASMO / ICOCA / regional IC economics  ·  `japan-transit-prepaid-suica-pasmo-icoca-economics`
+- JCB three-party brand operating model  ·  `jcb-three-party-operating-model`
+- Merchant bank-account direct acquiring in Japan  ·  `merchant-bank-pay-account-direct-acquiring`
+- nanaco: Seven & i Group convenience-store-anchored prepaid e-money  ·  `nanaco-prepaid-seven-i`
+- PASMO: Tokyo private-rail and bus consortium prepaid IC  ·  `pasmo-prepaid-tokyo-metro`
+- Japan third-party prepaid payment instrument issuers registry index  ·  `prepaid-payment-instrument-issuers-japan-index`
+- PSP merchant settlement risk  ·  `psp-merchant-settlement-risk`
+- QUO Card: gift-card and paper / digital prepaid franchise  ·  `quo-card-prepaid`
+- Suica: JR East transit and general-purpose IC prepaid  ·  `suica-prepaid-jr-east`
+- Visa Gift Card Japan: Visa-branded open-loop prepaid  ·  `visa-gift-card-japan`
+- Visa Mastercard AMEX JCB Japan operating comparison  ·  `visa-mastercard-amex-jcb-japan-operating-comparison`
+- WAON vs nanaco: retail prepaid e-money comparison  ·  `waon-nanaco-retail-prepaid-comparison`
+- WAON: AEON Group nationwide IC prepaid e-money  ·  `waon-prepaid-aeon`
+
+## banking — 39 entries
+
+- auじぶん銀行 (au Jibun Bank)  ·  `au-jibun-bank`
+- Japan BaaS landscape  ·  `baas-japan-landscape`
+- Cooperative banking in Japan  ·  `cooperative-banking-japan`
+- Japan credit cooperative registry  ·  `credit-cooperative-registry-japan`
+- Custody Bank of Japan operating model  ·  `custody-bank-operating-model`
+- Daiwa Next Bank operating profile (大和ネクスト銀行)  ·  `daiwa-next-bank`
+- Foreign-bank Japan retreat pattern  ·  `foreign-bank-japan-retreat`
+- GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)  ·  `gmo-aozora-net-bank`
+- JA Bank system in Japan  ·  `ja-bank-system-japan`
+- Japan BaaS operating models  ·  `japan-baas-operating-models`
+- Japan banking-license tier comparison matrix  ·  `japan-banking-license-tier-comparison-matrix`
+- Japan cooperative-banking unified federation matrix  ·  `japan-cooperative-banking-unified-federation-matrix`
+- Japan foreign-bank retreat and refocus timeline matrix  ·  `japan-foreign-bank-retreat-refocus-timeline-matrix`
+- Japan master trust and custody bank landscape  ·  `japan-master-trust-and-custody-bank-landscape`
+- Japan net bank competition map  ·  `japan-net-bank-competition-map`
+- Japan net bank deposit & feature matrix 2026  ·  `japan-net-bank-deposit-feature-matrix-2026`
+- Japan regional bank M&A consolidation family-tree matrix  ·  `japan-regional-bank-m-a-consolidation-family-tree-matrix`
+- Japan stablecoin / BaaS bank perimeter (2025–2026)  ·  `japan-stablecoin-bank-perimeter-2025`
+- Japan trust bank and custody map  ·  `japan-trust-bank-custody-map`
+- Japan trust bank vs global custodian comparison matrix  ·  `japan-trust-bank-vs-global-custodian-comparison-matrix`
+- JASDEC settlement operations  ·  `jasdec-settlement-operations`
+- JF Marine Bank system in Japan  ·  `jf-marine-bank-system-japan`
+- Master Trust Bank of Japan operating model  ·  `master-trust-bank-operating-model`
+- メルカリバンク license stack  ·  `mercari-bank-license-stack`
+- メルカリバンク (Mercari Bank)  ·  `mercari-bank`
+- みんなの銀行 BaaS model  ·  `minna-bank-baas-model`
+- PayPay 銀行 (PayPay Bank)  ·  `paypay-bank`
+- Pension trust mandate allocation Japan  ·  `pension-trust-mandate-allocation-japan`
+- Post-megabank positioning  ·  `post-megabank-positioning`
+- クイック入金の4方式分解フレーム  ·  `quick-deposit-four-methods`
+- 楽天銀行 (Rakuten Bank)  ·  `rakuten-bank`
+- Regional bank API and digital partnership route in Japan  ·  `regional-bank-api-digital-partnership-route`
+- Regional bank consolidation pattern  ·  `regional-bank-consolidation-pattern`
+- Japan rokin bank registry  ·  `rokin-bank-registry-japan`
+- Japan shinkin bank registry  ·  `shinkin-bank-registry-japan`
+- Sony Bank operating profile (ソニー銀行)  ·  `sony-bank`
+- Japan trust bank custody operating comparison  ·  `trust-bank-custody-operating-comparison`
+- Trust bank fee structure comparison  ·  `trust-bank-fee-structure-comparison`
+- UI Bank operating profile (UI銀行 / きらぼし FG 系)  ·  `ui-bank`
+
+## policy-finance — 34 entries
+
+- Agriculture credit guarantee system in Japan  ·  `agriculture-credit-guarantee-system`
+- 愛知県信用保証協会 (Aichi Credit Guarantee Corporation)  ·  `aichi-credit-guarantee-corp`
+- DBJ mandate deep dive — 特定投資業務 ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI  ·  `dbj-mandate-deep-dive`
+- Fisheries credit guarantee system in Japan  ·  `fisheries-credit-guarantee-system`
+- 福岡県信用保証協会 (Fukuoka Credit Guarantee Corporation)  ·  `fukuoka-credit-guarantee-corp`
+- 北海道信用保証協会 (Hokkaido Credit Guarantee Corporation)  ·  `hokkaido-credit-guarantee-corp`
+- 兵庫県信用保証協会 (Hyogo Credit Guarantee Corporation)  ·  `hyogo-credit-guarantee-corp`
+- Japan credit guarantee system  ·  `japan-credit-guarantee-system`
+- Japan Export-Import Bank (historical predecessor of JBIC)  ·  `japan-eximbank-history`
+- Japan Finance Organization for Municipalities (JFM)  ·  `japan-finance-organization-municipalities`
+- Japan Housing Finance Agency (JHF)  ·  `japan-housing-finance-agency`
+- Japan Local Government Bond Association (Chihousai Kyoukai)  ·  `japan-local-bond-association`
+- Japan local-government bond market issuance matrix (prefectures / 政令指定都市 / municipalities / special districts)  ·  `japan-local-government-bond-market-issuance-matrix`
+- Japan policy-finance institution mandate matrix (JFC / DBJ / JBIC / JICA / NEXI / JOGMEC / JHF / ODFC / JASSO)  ·  `japan-policy-finance-institution-mandate-matrix`
+- Japan policy finance system  ·  `japan-policy-finance-system`
+- Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)  ·  `japan-project-finance-stack-diagram`
+- JASSO (Japan Student Services Organization)  ·  `japan-student-services-organization`
+- JBIC overseas investment loan underwriting process  ·  `jbic-overseas-investment-underwriting-process`
+- JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業)  ·  `jfc-agriculture-forestry-fisheries-division`
+- JFC 国民生活事業 (National Life Finance Division) operating model  ·  `jfc-kokumin-life-finance-division`
+- JFC SME Division operating model (中小企業事業)  ·  `jfc-sme-division-operating-model`
+- JICA (Japan International Cooperation Agency)  ·  `jica`
+- JOGMEC equity and offtake mechanics  ·  `jogmec-equity-and-offtake-mechanics`
+- JOGMEC (Japan Organization for Metals and Energy Security)  ·  `jogmec`
+- 神奈川県信用保証協会 (Kanagawa Credit Guarantee Corporation)  ·  `kanagawa-credit-guarantee-corp`
+- Local government bond market (Japan policy-finance perspective)  ·  `local-government-bond-market`
+- Japan Federation of Credit Guarantee Corporations  ·  `national-federation-credit-guarantee-corporations`
+- NEXI export credit insurance products  ·  `nexi-export-credit-insurance-products`
+- NEXI (Nippon Export and Investment Insurance)  ·  `nexi`
+- OECD Arrangement on Officially Supported Export Credits  ·  `oecd-export-credit-arrangement`
+- 沖縄振興開発金融公庫 (ODFC)  ·  `okinawa-development-finance-corp`
+- Osaka Credit Guarantee Corporation  ·  `osaka-credit-guarantee-corp`
+- Tokyo Credit Guarantee Corporation  ·  `tokyo-credit-guarantee-corp`
+- Tokyo Metropolitan Bond (Tokyo-to-sai)  ·  `tokyo-metropolitan-bond`
+
+## derivatives — 32 entries
+
+- Bond-CDS basis trade Japan  ·  `basis-trade-bond-cds-japan`
+- Japan corporate CDS spread mechanics  ·  `cds-japan-corporate-spread-mechanics`
+- Corporate FX hedge policy at Japan listed companies  ·  `corporate-fx-hedge-policy-japan-listed`
+- Cross-currency basis swap (Japan focus)  ·  `cross-currency-basis-swap-japan`
+- Dealer bank derivatives revenue mix — Japan megabanks and foreign IBs  ·  `dealer-bank-derivatives-revenue-mix`
+- Equity volatility hedging by Japan corporates  ·  `equity-volatility-hedging-corporates-japan`
+- FX options for Japan corporate treasury  ·  `fx-options-japan-corporate-treasury`
+- FX STP and broker liquidity aggregation  ·  `fx-stp-broker-aggregation`
+- ISDA 2020 IBOR Fallback Protocol — Japan implementation (TIBOR / TONA / JPY LIBOR)  ·  `isda-2020-protocol-japan-implementation`
+- Japan CDS market overview  ·  `japan-cds-market-overview`
+- Japan CMS (constant maturity swap) market  ·  `japan-cms-constant-maturity-swap`
+- Japan equity derivatives product matrix  ·  `japan-equity-derivatives-product-matrix`
+- Japan inflation swap market (JPY CPI-linked)  ·  `japan-inflation-swap`
+- Japan interest-rate derivatives overview  ·  `japan-interest-rate-derivatives-overview`
+- Japan yen interest-rate swap (IRS) market  ·  `japan-irs-market`
+- Japan OTC derivative market overview  ·  `japan-otc-derivative-market-overview`
+- Japan rates derivative product matrix  ·  `japan-rates-derivative-product-matrix`
+- Japan single-stock options (OSE)  ·  `japan-single-stock-options`
+- Japan swaption (interest-rate option) market  ·  `japan-swaption-market`
+- JGB futures market and curve  ·  `jgb-futures-curve`
+- JGB inflation-linked bond (JGBi)  ·  `jgb-inflation-linked-bond-jgbi`
+- JGB Special Participants (Japan primary dealer system)  ·  `jgb-special-participants-primary-dealer`
+- Nikkei 225 futures and options (OSE)  ·  `nikkei-225-futures-options`
+- Nikkei VIX / JPX-VI — Japan equity volatility index  ·  `nikkei-vix-jpx-vi-equivalent`
+- OIS TONA curve and JPY discounting  ·  `ois-tona-curve`
+- OTC derivatives clearing and trade repository — Japan  ·  `otc-clearing-jp-trade-repository`
+- Retail FX margin trading in Japan  ·  `retail-fx-margin-trade-japan`
+- Structured bond Japan retail issuance  ·  `structured-bond-japan-retail-issuance`
+- EB knock-in structured product Japan retail  ·  `structured-product-eb-knockin-japan-retail`
+- Swap execution facility — Japan equivalent (ETP regime)  ·  `swap-execution-facility-japan`
+- TOPIX futures (OSE)  ·  `topix-futures`
+- Yen-USD cross-currency basis swap market  ·  `yen-basis-swap-market`
+
+## insurance — 32 entries
+
+- Bancassurance economics in Japan  ·  `bancassurance-economics-japan`
+- Captive insurance market in Japan  ·  `captive-insurance-japan-market`
+- Cooperative insurance (kyosai) system in Japan  ·  `cooperative-insurance-system-japan`
+- Japan earthquake insurance public-private scheme  ·  `earthquake-insurance-public-private-scheme`
+- Economic value-based solvency regulation  ·  `economic-value-based-solvency`
+- ESR (Economic Solvency Ratio)  ·  `esr-economic-value-solvency`
+- Foreign life-insurance affiliates in Japan positioning  ·  `foreign-life-affiliate-japan-positioning`
+- Foreign reinsurer Japan landscape  ·  `foreign-reinsurer-japan-landscape`
+- Global solvency framework comparison matrix  ·  `global-solvency-framework-comparison-matrix`
+- Japan insurance agency and brokerage  ·  `insurance-agency-and-brokerage-japan`
+- Internet life insurance business model  ·  `internet-life-insurance-business-model`
+- JA Kyosai / Zenkyoren overview  ·  `ja-kyosai-zenkyoren-overview`
+- Japan bancassurance distribution overlay matrix  ·  `japan-bancassurance-distribution-overlay-matrix`
+- Japan IAIG and ICS mapping  ·  `japan-iaig-ics-mapping`
+- Japan insurance system overview  ·  `japan-insurance-system-overview`
+- Japan kyosai vs FSA insurance perimeter matrix  ·  `japan-kyosai-vs-fsa-insurance-perimeter-matrix`
+- Japan life big-four overlay comparison matrix  ·  `japan-life-big-four-overlay-comparison-matrix`
+- Japan life insurance ALM overview  ·  `japan-life-insurance-alm-overview`
+- Japan life insurance big four  ·  `japan-life-insurance-big-four`
+- Japan medical insurance rider product matrix  ·  `japan-medical-insurance-rider-product-matrix`
+- Japan non-life underwriting cycle  ·  `japan-non-life-underwriting-cycle`
+- Japan non-life big-three reinsurance and cat overlay matrix  ·  `japan-nonlife-big-three-reinsurance-cat-matrix`
+- Japan non-life big three  ·  `japan-nonlife-big-three`
+- Kampo / Japan Post Insurance  ·  `kampo-japan-post-insurance`
+- Life insurance channel mix  ·  `life-insurance-channel-mix`
+- Lloyd's Japan syndicate operating model  ·  `lloyds-japan-syndicate-operating-model`
+- Marine insurance and P&I cover market in Japan  ·  `marine-insurance-and-pi-cover-market`
+- Medical / cancer insurance product economics in Japan  ·  `medical-cancer-insurance-product-economics`
+- Mutual vs stock life insurer  ·  `mutual-vs-stock-life-insurer`
+- Nat-cat reinsurance in Japan  ·  `natcat-reinsurance-japan`
+- Saison Automobile & Fire / SOMPO Direct  ·  `saison-automobile-fire`
+- Sony Life group-life and Lifeplanner operating model  ·  `sony-life-group-life-operating-model`
+
+## securities — 32 entries
+
+- Japan financial instruments business operators registry index  ·  `financial-instruments-business-operators-japan-index`
+- Japan asset manager landscape matrix  ·  `japan-asset-manager-landscape-matrix`
+- Japan best execution, SOR, and PTS  ·  `japan-best-execution-sor-pts`
+- Japan capital markets ecosystem overview  ·  `japan-capital-markets-ecosystem-overview`
+- Japan equity analyst and sell-side research ecosystem  ·  `japan-equity-analyst-and-sell-side-research-ecosystem`
+- Japan FIEA operator registry segment matrix  ·  `japan-fiea-operator-registry-segment-matrix`
+- Japan IPO 2024-2025 case study: Tokyo Metro and Kioxia  ·  `japan-ipo-2024-2025-case-study-kioxia-tokyo-metro`
+- Japan IPO listing disclosure route  ·  `japan-ipo-listing-disclosure-route`
+- Japan margin trading and securities finance  ·  `japan-margin-trading-and-securities-finance`
+- Japan market infrastructure map  ·  `japan-market-infrastructure-map`
+- Japan market maker and liquidity provider landscape  ·  `japan-market-maker-and-liquidity-provider-landscape`
+- Japan online brokerage competition  ·  `japan-online-brokerage-competition`
+- Japan prime brokerage and institutional financing matrix  ·  `japan-prime-brokerage-and-institutional-financing-matrix`
+- Japan prime brokerage and institutional financing  ·  `japan-prime-brokerage-and-institutional-financing`
+- Japan PTS liquidity data guide  ·  `japan-pts-liquidity-data-guide`
+- 日本証券クリアリング機構 (JSCC)  ·  `japan-securities-clearing-corp`
+- 証券保管振替機構 (JASDEC)  ·  `japan-securities-depository-center`
+- Japan security token secondary market route  ·  `japan-security-token-secondary-market-route`
+- Japan short-selling and stock-loan controls  ·  `japan-short-selling-and-stock-loan-controls`
+- Japan stock lending market route  ·  `japan-stock-lending-market-route`
+- Japan TOB / MBO large-deal 2023-2026 case matrix  ·  `japan-tob-mbo-large-deal-2023-2026-case-matrix`
+- Japan underwriting market structure  ·  `japan-underwriting-market-structure`
+- ジャパンネクスト証券 (Japannext)  ·  `japannext-securities`
+- Japannext PTS SOR routing deep dive  ·  `japannext-sor-routing-deep-dive`
+- NISA 2024 flow  ·  `nisa-2024-flow`
+- NISA 2025 tax reform update  ·  `nisa-2025-tax-reform-update`
+- ODX START security token secondary market  ·  `odx-start-stb-secondary-market`
+- 大阪デジタルエクスチェンジ (ODX)  ·  `osaka-digital-exchange`
+- 大阪取引所 (OSE)  ·  `osaka-exchange`
+- Progmat tokenized securities infrastructure  ·  `progmat-tokenized-securities-infrastructure`
+- 東京商品取引所 (TOCOM)  ·  `tokyo-commodity-exchange`
+- 東京証券取引所 (TSE)  ·  `tokyo-stock-exchange`
+
+## structured-finance — 29 entries
+
+- ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs  ·  `abcp-conduit-japan-megabank`
+- Aircraft leasing financing — Japan sōgō shōsha and leasing-company involvement  ·  `aircraft-leasing-financing-japan-shosha`
+- Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)  ·  `auto-loan-abs-japan-toyota-honda`
+- Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)  ·  `consumer-loan-abs-japan-card-issuer`
+- Credit rating methodology (JCR, R&I) for Japan structured finance  ·  `credit-rating-methodology-jcr-r-and-i`
+- Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I  ·  `fitch-moody-sp-japan-criteria`
+- Infrastructure finance SPV in Japan — PFI, PPP, toll roads, airports, telecom towers  ·  `infrastructure-finance-spv-japan`
+- Japan ABS market overview  ·  `japan-abs-market-overview`
+- Japan auto-loan ABS waterfall mechanics — originator-servicer split, sub-class economics  ·  `japan-auto-loan-abs-waterfall-mechanics`
+- Japanese banks as CLO investors — Norinchukin, JPost, regional banks  ·  `japan-clo-issuance-japanese-banks`
+- Japan CMBS issuance structure  ·  `japan-cmbs-issuance-structure`
+- Japan consumer-loan ABS structure — dynamic-pool, interest-rate ceiling, early-amortization  ·  `japan-consumer-loan-abs-structure`
+- Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs  ·  `japan-covered-bond-mufg-smbc`
+- Japan credit-card receivable ABS — master trust framework, 期間延長, default triggers  ·  `japan-credit-card-receivable-abs`
+- Japan equipment lease ABS — residual-value risk, true-lease vs finance-lease split  ·  `japan-equipment-lease-abs`
+- Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification  ·  `japan-green-securitization`
+- Japan RMBS issuance structure  ·  `japan-rmbs-issuance-structure`
+- Japan securitization product matrix  ·  `japan-securitization-product-matrix`
+- Trust beneficial interest vs SPV (Japan securitization vehicle)  ·  `japan-trust-beneficial-interest-vs-spv`
+- JCR / R&I Japan securitization rating methodology operating playbook  ·  `jcr-ri-japan-securitization-rating-methodology-operating-playbook`
+- JHF MBS mechanics (Japan Housing Finance Agency)  ·  `jhf-mbs-mechanics`
+- JHF MBS vs private RMBS spread  ·  `jhf-mbs-vs-private-rmbs-spread`
+- NPL securitisation in Japan — post-1997 cycle, RCC, and distressed-debt buyers  ·  `npl-securitization-japan`
+- Project finance SPV for renewables in Japan — solar, wind, geothermal  ·  `project-finance-spv-japan-renewable`
+- Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging  ·  `repackaging-note-japan`
+- Ship financing in Japan — megabank ship-finance desks and shōsha lease subsidiaries  ·  `ship-financing-japan-megabank`
+- SPV TK / GK / TMK / SPC vehicle choice (Japan tax)  ·  `spv-tk-gk-vehicle-japan-tax`
+- Synthetic securitisation in Japan — bank RWA relief via CLN / CDS on reference loan portfolios  ·  `synthetic-securitization-japan-bank-rwa-relief`
+- TMK (特定目的会社) special-purpose-company mechanics  ·  `tmk-special-purpose-company-mechanics`
+
+## real-estate-finance — 27 entries
+
+- AEON Mall financing and securitization  ·  `aeon-mall-financing-and-securitization`
+- Japan bank commercial real estate lending  ·  `bank-commercial-real-estate-lending-japan`
+- Cap rate NOI IRR real-estate valuation framework  ·  `cap-rate-noi-irr-real-estate-valuation-framework`
+- GK-TK bond real-estate SPV  ·  `gk-tk-bond-real-estate-spv`
+- GLP J-REIT (3281)  ·  `glp-j-reit-3281`
+- J-REIT dividend yield vs JGB spread  ·  `j-reit-dividend-yield-vs-jgb-spread`
+- J-REIT foreign investor ownership  ·  `j-reit-foreign-investor-ownership`
+- J-REIT market overview  ·  `j-reit-market-overview`
+- J-REIT sponsor structure and conflict of interest  ·  `j-reit-sponsor-structure-conflict`
+- J-REIT top 20 detailed matrix  ·  `j-reit-top-20-detailed-matrix`
+- J-REIT vs US REIT governance comparison  ·  `j-reit-vs-us-reit-governance-comparison`
+- Japan CMBS and RMBS securitization market  ·  `japan-cmbs-rmbs-securitization`
+- Japan real-estate appraisal methodology  ·  `japan-real-estate-appraisal-methodology`
+- Japan Real Estate Investment (JRE, J-REIT 8952)  ·  `japan-real-estate-j-reit-8952`
+- JPX TSE REIT Index derivatives  ·  `jpx-real-estate-index-derivatives`
+- Foreign investment in Japan real estate tax treatment  ·  `jrei-foreign-investment-tax-treatment`
+- Logistics J-REIT vs office J-REIT asset class comparison  ·  `logistics-j-reit-vs-office-j-reit-asset-class-comparison`
+- Mitsubishi Estate financing model  ·  `mitsubishi-estate-financing-model`
+- Mitsui Fudosan financing model  ·  `mitsui-fudosan-financing-model`
+- Nippon Building Fund (NBF, J-REIT 8951)  ·  `nippon-building-fund-j-reit-8951`
+- Nippon Prologis REIT (3283)  ·  `nippon-prologis-reit-3283`
+- Nomura Real Estate Master Fund (NMF, J-REIT 3462)  ·  `nomura-real-estate-master-fund-nmf`
+- Private REIT Japan vs listed J-REIT comparison  ·  `private-reit-japan-vs-listed-j-reit-comparison`
+- Real-estate bridge fund (Japan)  ·  `real-estate-bridge-fund-japan`
+- Japan real estate cap rate compression 2026  ·  `real-estate-cap-rate-compression-2026`
+- Japan real estate private credit  ·  `real-estate-private-credit-japan`
+- Top 10 J-REIT overview matrix  ·  `top-10-j-reit-overview-matrix`
+
+## finance — 26 entries
+
+- Carve-out and divestiture process in Japan  ·  `carve-out-divestiture-japan`
+- Cost of capital Japan 2026 reference  ·  `cost-of-capital-japan-2026-reference`
+- Cross-border M&A Japan  ·  `cross-border-m-a-japan`
+- DCF vs multiples vs NAV cross-domain valuation framework  ·  `dcf-vs-multiples-vs-nav-cross-domain-valuation-framework`
+- ESG sustainability cross-domain framework  ·  `esg-sustainability-cross-domain-framework`
+- FIRE 数学逆算フレームワーク  ·  `fire-math-reverse-derivation`
+- Japan acquisition finance  ·  `japan-acquisition-finance`
+- Japan activist investor playbook  ·  `japan-activist-investor-playbook`
+- Japan convertible bond mechanics  ·  `japan-convertible-bond-mechanics`
+- Japan corporate FX and rate hedge policy  ·  `japan-corporate-fx-and-rate-hedge-policy`
+- Japan cross-shareholding unwinding economics  ·  `japan-cross-shareholding-unwinding-economics`
+- Japan fair disclosure and insider trading controls  ·  `japan-fair-disclosure-and-insider-trading-controls`
+- Japan IB league table  ·  `japan-ib-league-table`
+- Japan large shareholding disclosure  ·  `japan-large-shareholding-disclosure`
+- Japan leveraged buyout economics  ·  `japan-leveraged-buyout-economics`
+- Japan listed financial groups investable universe  ·  `japan-listed-financial-groups-investable-universe`
+- Japan M&A deal process comparison matrix  ·  `japan-m-a-deal-process-comparison-matrix`
+- Japan MBO and squeeze-out process  ·  `japan-mbo-and-squeeze-out-process`
+- Japan private equity fund structure matrix  ·  `japan-private-equity-fund-structure-matrix`
+- Japan private equity operating model  ·  `japan-private-equity-operating-model`
+- Japan shareholder proposal and AGM voting route  ·  `japan-shareholder-proposal-and-agm-voting-route`
+- Japan takeover defense and poison pill  ·  `japan-takeover-defense-poison-pill`
+- Japan tender offer process  ·  `japan-tender-offer-process`
+- JFTC merger control process  ·  `jftc-merger-control-process`
+- クロスボーダー身分組合せの税務レバレッジ  ·  `multi-jurisdiction-identity-tax-leverage`
+- Real options valuation Japan applications  ·  `real-options-valuation-japan-applications`
+
+## business — 18 entries
+
+- Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy  ·  `brian-armstrong-coinbase-public-company-template`
+- 主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo 事例  ·  `christine-moy-talent-signal-jpm-apollo`
+- Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership  ·  `cz-binance-founder-handoff-case`
+- Founder / executive pivot outcome template matrix  ·  `founder-pivot-outcome-template-matrix`
+- GMO Internet Group  ·  `gmo-internet-group`
+- 規制転換のキーパーソン事例 · 個人イデオロギー + 制度的授権(Hester Peirce / SEC)  ·  `hester-peirce-sec-regulatory-pivot-case`
+- Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base  ·  `jamie-dimon-anti-crypto-pivot-case`
+- Japan listed corporate strategic restructuring matrix  ·  `japan-listed-corp-strategic-restructuring-matrix`
+- Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure  ·  `jpx-public-company-as-market-infrastructure`
+- 独立路線事例 · 産業連合への不参加 + クロスボーダー・コンプライアンス価値への賭け(北尾吉孝 / SBI)  ·  `kitao-yoshitaka-sbi-independent-strategy-case`
+- 資産運用大手の暗号資産コンプライアンス三角形テンプレート · ETF + RWAトークン化 + 政治的影響力(Larry Fink / BlackRock)  ·  `larry-fink-blackrock-digital-asset-template`
+- 三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由  ·  `matt-huang-triple-role-coi-template`
+- NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up  ·  `ntt-docomo-d-point-telco-finance-case`
+- 40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino  ·  `paolo-ardoino-tether-business-model-template`
+- Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits  ·  `rakuten-group-mobile-finance-bundling-case`
+- 国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給(Sandeep / Polygon / India)  ·  `sandeep-nailwal-polygon-india-dpi-pattern`
+- SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing  ·  `softbank-vision-fund-arm-ipo-template`
+- Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延  ·  `sony-fg-partial-spinoff-case`
+
+## loyalty — 11 entries
+
+- au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack  ·  `au-pay-loyalty-ecosystem-deep`
+- dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation  ·  `d-point-au-kddi-docomo-telco-point-consolidation`
+- d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform  ·  `d-point-detailed-ecosystem`
+- JAL Mileage Bank vs ANA Mileage Club — accrual, redemption, partner network, status tier, deferred-revenue accounting  ·  `jal-mileage-bank-vs-ana-mileage-club-comparison`
+- Japan points and loyalty landscape  ·  `japan-points-landscape`
+- JRE Point + JRE Bank ecosystem — Mobile Suica, ViewCard, and the JR-East loyalty stack  ·  `jre-point-and-jre-bank-ecosystem`
+- Point liability accounting boundary (JP loyalty programs)  ·  `point-liability-accounting-boundary`
+- Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor  ·  `ponta-points-deep-dive`
+- SoftBank / Yahoo / PayPay unified points ecosystem — 2022 unification, 2025 LY integration, accounting  ·  `sb-yahoo-paypay-points-unified-ecosystem`
+- T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer  ·  `t-point-v-point-post-2024-merger`
+- V Point (SMBC × CCC) — bank-led common-point case  ·  `v-point-smbc-ccc-case`
+
+## money-market — 11 entries
+
+- BoJ open market operations  ·  `boj-open-market-operations`
+- BoJ post-2024 floor system and complementary deposit facility (補完当座預金制度)  ·  `boj-post-2024-floor-system-complementary-deposit-facility`
+- Call market structure  ·  `call-market-structure`
+- Japan CP (commercial paper) market  ·  `japan-cp-commercial-paper-market`
+- Japan MMF / MRF (money market mutual funds)  ·  `japan-mmf-money-market-mutual-fund`
+- Japan money market  ·  `japan-money-market`
+- Japan NCD (negotiable certificate of deposit) market  ·  `japan-ncd-negotiable-cd-market`
+- Japan short-term funding instrument matrix  ·  `japan-short-term-funding-instrument-matrix`
+- Japan Treasury Discount Bills (TDB / 国庫短期証券)  ·  `japan-tbill-treasury-discount-bill`
+- JGB repo market in Japan  ·  `jgb-repo-market-japan`
+- Tanshi company business model  ·  `tanshi-company-business-model`
+
+## manufacturing — 7 entries
+
+- Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)  ·  `hitachi-industrial-finance-platform`
+- Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)  ·  `mitsubishi-heavy-export-finance`
+- Panasonic Captive Finance (パナソニック顧客金融)  ·  `panasonic-captive-finance`
+- Seiko Epson Corporation (セイコーエプソン)  ·  `seiko-epson`
+- Sony Group Finance Arm (ソニーグループ 金融事業アーム)  ·  `sony-group-finance-arm`
+- Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)  ·  `toyota-financial-services`
+- Toyota Motor Corporation (トヨタ自動車)  ·  `toyota-motor`
+
+## retail — 7 entries
+
+- AEON Group  ·  `aeon-group`
+- FamilyMart + Itochu financial integration — post-2020 take-private, FamiPay, Itochu Money, Yamada Cycle  ·  `familymart-itochu-financial-integration`
+- Japan retail financial-distribution wedge matrix  ·  `japan-retail-financial-distribution-wedge-matrix`
+- Lawson + KDDI Retail Finance  ·  `lawson-kddi-retail-finance`
+- Lawson + Mitsubishi Corporation 2024 take-private deep — KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration  ·  `lawson-mitsubishi-corporation-tie-up-2024-deep`
+- Seven & i Holdings  ·  `seven-and-i-hd`
+- Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization  ·  `seven-i-holdings-finance-deep-dive`
+
+## corporate-strategy — 5 entries
+
+- 会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession  ·  `japan-kaisha-bunkatsu-tax-regime`
+- 株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision  ·  `kabushiki-koufu-stock-distribution-regime`
+- パーシャルスピンオフ税制 — partial spin-off tax deferral  ·  `partial-spinoff-tax-deferral`
+- Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection  ·  `spinoff-decision-tree-japan`
+- Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template  ·  `toshiba-tob-squeeze-out-2023-2024-case`
+
+## security — 5 entries
+
+- スマートコントラクト bytecode フォレンジック — 三層 verify 技術  ·  `bytecode-forensic-three-tier-verify`
+- チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成  ·  `forensic-identity-anchor-chain`
+- Fork and Rebrand プロジェクトの五層監査フレームワーク  ·  `fork-and-rebrand-5-layer-audit-framework`
+- Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃  ·  `module-path-confusion-supply-chain-attack`
+- 能動的に de-publishされた内容の救出 — Wayback Machineをフォレンジック武器として使う  ·  `wayback-machine-as-forensic-tool`
+
+## governance — 3 entries
+
+- 日本 一般財団法人 設立要件・プロセス  ·  `japan-general-foundation-establishment-requirements`
+- 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison  ·  `japan-koeki-vs-general-zaidan-comparison`
+- 日本 研究助成金 map（2026 年度）  ·  `japan-research-grant-map-2026`
+
+## trade — 3 entries
+
+- JETRO Members 有料会員制は B2B 提案の入口ゲート  ·  `jetro-members-gateway-model`
+- JETRO は会員組織ではなく経産省傘下の独立行政法人  ·  `jetro-organization-structure`
+- JETRO vs NEXI vs JBIC — Japan export-promotion / insurance / financing three-pillar comparison  ·  `jetro-vs-nexi-vs-jbic-comparison`

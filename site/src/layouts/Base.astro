@@ -1,0 +1,58 @@
+---
+import LangSwitcher from '../components/LangSwitcher.astro';
+import { t, u, type Lang } from '../i18n/ui';
+interface Props { lang: Lang; title?: string; description?: string }
+const { lang, title, description } = Astro.props;
+const pageTitle = title ? `${title} · FinWiki` : t(lang, 'site.title');
+const desc = description ?? t(lang, 'site.tagline');
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="alternate" hreflang="ja" href={u('ja')} />
+    <link rel="alternate" hreflang="en" href={u('en')} />
+    <link rel="alternate" hreflang="zh" href={u('zh')} />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href={u(lang)}>FinWiki</a>
+      <nav class="site-nav">
+        <a href={u(lang)}>{t(lang, 'nav.domains')}</a>
+        <a href={u(lang, 'guide/')}>{t(lang, 'nav.guide')}</a>
+        <a href={u(lang, 'matrices/')}>{t(lang, 'nav.matrices')}</a>
+      </nav>
+      <LangSwitcher lang={lang} />
+    </header>
+    <main><slot /></main>
+    <footer class="site-footer">{t(lang, 'footer.note')}</footer>
+    <style>
+      :root {
+        --max: 56rem; --fg: #1a1a1a; --muted: #666; --accent: #0b6;
+        --line: #e6e6e6; --bg: #fff; --soft: #fafafa;
+      }
+      * { box-sizing: border-box; }
+      html { color-scheme: light; }
+      body {
+        margin: 0; background: var(--bg); color: var(--fg);
+        font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans SC", sans-serif;
+        line-height: 1.75;
+      }
+      .site-header {
+        display: flex; gap: 1.25rem; align-items: center; flex-wrap: wrap;
+        padding: 0.9rem 1.5rem; border-bottom: 1px solid var(--line);
+        position: sticky; top: 0; background: color-mix(in srgb, var(--bg) 88%, transparent);
+        backdrop-filter: blur(8px); z-index: 10;
+      }
+      .brand { font-weight: 800; font-size: 1.1rem; text-decoration: none; color: var(--fg); letter-spacing: -0.01em; }
+      .site-nav { display: flex; gap: 1rem; margin-right: auto; }
+      .site-nav a { text-decoration: none; color: var(--muted); font-size: 0.9rem; }
+      .site-nav a:hover { color: var(--accent); }
+      main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.5rem; }
+      .site-footer { border-top: 1px solid var(--line); padding: 1.75rem 1.5rem; color: var(--muted); font-size: 0.8rem; text-align: center; }
+    </style>
+  </body>
+</html>

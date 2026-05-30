@@ -1,0 +1,51 @@
+---
+import Base from '../../layouts/Base.astro';
+import { t, u, langCodes, type Lang } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return langCodes.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+---
+<Base lang={lang}>
+  <h1>{t(lang, 'site.title')}</h1>
+  <p class="tagline">{t(lang, 'site.tagline')}</p>
+  <p class="intro">{t(lang, 'home.intro')}</p>
+
+  <section class="split">
+    <div class="card">
+      <h2>{t(lang, 'home.human')}</h2>
+      <ul>
+        <li><a href={u(lang, 'guide/')}>{t(lang, 'nav.guide')}</a></li>
+        <li><a href={u(lang, 'matrices/')}>{t(lang, 'nav.matrices')}</a></li>
+        <li><a href={u(lang)}>{t(lang, 'home.curated')}</a></li>
+      </ul>
+    </div>
+    <div class="card ai">
+      <h2>{t(lang, 'home.ai')}</h2>
+      <ul>
+        <li><a href="/llms.txt">llms.txt</a></li>
+        <li><a href="/llms-full.txt">llms-full.txt</a></li>
+        <li><a href="/ai-index.json">ai-index.json</a></li>
+        <li><a href="/graph.json">graph.json <span class="soon">(soon)</span></a></li>
+      </ul>
+    </div>
+  </section>
+</Base>
+
+<style>
+  h1 { font-size: clamp(1.8rem, 1.2rem + 2vw, 2.6rem); margin: 0 0 0.3rem; letter-spacing: -0.02em; }
+  .tagline { color: var(--muted); margin: 0 0 1.5rem; font-size: 1.05rem; }
+  .intro { font-size: 1rem; }
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 2.5rem; }
+  .card { border: 1px solid var(--line); border-radius: 12px; padding: 1.3rem 1.5rem; background: var(--soft); }
+  .card.ai { background: #f5faf8; }
+  .card h2 { margin: 0 0 0.7rem; font-size: 1.05rem; }
+  .card ul { margin: 0; padding-left: 1.1rem; }
+  .card li { margin: 0.3rem 0; }
+  .card a { color: var(--accent); text-decoration: none; }
+  .card a:hover { text-decoration: underline; }
+  .soon { color: var(--muted); font-size: 0.75rem; }
+  @media (max-width: 640px) { .split { grid-template-columns: 1fr; } }
+</style>

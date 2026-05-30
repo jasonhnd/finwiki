@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="ja" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム · FinWiki</title><meta name="description" content="公開一次情報にもとづく、三言語・AI 可読の金融事実ベース。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+.lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/ja/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/ja/" data-astro-cid-5hce7sga>領域マップ</a> <a href="/app/ja/guide/" data-astro-cid-5hce7sga>読み方ガイド</a> <a href="/app/ja/matrices/" data-astro-cid-5hce7sga>比較マトリクス</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang active" href="/app/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/" hreflang="ja" aria-current="true" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/fintech/issuer-distributor-incentive-realignment-50-50-model/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang" href="/app/zh/fintech/issuer-distributor-incentive-realignment-50-50-model/" hreflang="zh" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/ja/">fintech</a> <span class="badge">confidence: likely</span> <span class="badge">updated Tue May 26</span> <span class="badge">5 sources</span> </div> <h1>発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム</h1> <div class="prose"> <h1 id="発行体-vs-分配者-5050-モデル--coinbase--circle-利息分配メカニズム">発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム</h1>
+<h2 id="wiki-route">Wiki route</h2>
+<p>This entry sits under <span class="wl" data-target="fintech/INDEX">fintech index</span>. Read it with <span class="wl" data-target="fintech/japan-financial-regulation">日本金融規制 — トークン・暗号資産・決済に関する法体系</span> for adjacent context and <span class="wl" data-target="fintech/japan-stablecoin-regulatory-landscape">日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）</span> for the broader system boundary.</p>
+<blockquote>
+<p>[!info] TL;DR
+Coinbase と Circle の USDC 利息 50/50 分配モデル(2018 Centre 共同発行協定 → 2023 Circle 独立後も継続)は、ステーブルコイン業界で<strong>最大の発行体・分配者間の利害結合構造</strong>である。Q1 2025 Coinbase ステーブルコイン収益 $305M ≈ 同社総収益の 12-15% · ただし GENIUS Act §501 時代において交渉力の構造は根本的に変化しており、50/50 は必然的に再交渉ウィンドウに入る。</p>
+</blockquote>
+<h2 id="key-facts">Key facts</h2>
+<ul>
+<li>USDC 流通量 $40-45B(2024-2025) <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>Circle 年間利息収入 $1.7-1.8B(国債 4.5% yield) <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>うち Coinbase への分配 ~$905M(2024 通期) <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>Coinbase ステーブルコイン収益 Q1 2025 = $305M(年率換算 $1.2B) <sup class="prov prov-extracted" title="extracted"></sup></li>
+<li>50/50 分配の法的根拠 = 2018 Centre Consortium 共同発行協定 · 2023 Centre 解散後も継続 <sup class="prov prov-extracted" title="extracted"></sup></li>
+</ul>
+<h2 id="mechanism--how-it-works">Mechanism / How it works</h2>
+<p><strong>50/50 の歴史的合理性</strong>:Coinbase は初期において USDC の主要な分配チャネル(ブランド + ユーザー基盤 + 取引所流動性)であり、Circle は発行 + 準備金管理を提供。Centre Consortium 2018 共同発行モデルが両者を深く結合させた。2023 年 Centre 解散後、Circle は単独で発行権を回収したが、50/50 収益分配条項は継続している。</p>
+<p><strong>収益フロー</strong>:USDC 準備金 $40B+ が短期国債を保有 → 年率 4.5% yield = $1.8B → 発行コスト控除 → 純額 $1.7-1.8B → Coinbase 50% ($905M) + Circle 50% ($895M)。</p>
+<p><strong>§501 前 vs §501 後の交渉力変化</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>軸</th><th>§501 前(2024)</th><th>§501 後(2025.07+)</th></tr></thead><tbody><tr><td>発行体のコア・コスト</td><td>規制不確実性 + 準備金 + 上場チャネル</td><td>準備金 + Arc 自社 L1</td></tr><tr><td>分配者のコア・バリュー</td><td>ユーザー基盤 + 流動性 + コンプラ裏付け</td><td>ユーザー基盤 + 流動性(コンプラは標準化済み)</td></tr><tr><td>発行体の fallback</td><td>大手取引所と提携必須</td><td>自社 L1 を構築可能([[fintech/issuer-distributor-incentive-realignment-arc-strategy</td></tr><tr><td>分配者の fallback</td><td>USDC のみ(代替なし)</td><td>自社ステーブルコインを推進可能(Base USDB-like)</td></tr></tbody></table>
+<p><strong>結果</strong>:50/50 モデルにおける「分配者プレミアム」は <span class="wl" data-target="fintech/genius-act-501-denylist-mandate">§501</span> 以後、必然的に再交渉される。</p>
+<h2 id="origin--evolution">Origin &#x26; evolution</h2>
+<p>2018 = Centre Consortium 設立 · Coinbase + Circle が USDC を共同発行 · 50/50 が初期条項。2020-2023 = DeFi サマー + 上場ブーム · USDC が DeFi のデフォルト・ステーブルコインに · 50/50 は高度に対称(分配者の価値は実在)。2023.08 = Centre 解散 · Circle が単独発行へ · ただし 50/50 条項は継続(目論見書で開示)。2025.07 = GENIUS Act §501 発効 · コンプラは標準装備化 · 分配者プレミアムは希釈される。2025.09 = Arc 公表 = Circle の再交渉レバーへ。</p>
+<h2 id="related">Related</h2>
+<!-- wiki-links:managed -->
+<ul>
+<li><span class="wl" data-target="INDEX">Wiki Index</span></li>
+<li><span class="wl" data-target="fintech/issuer-distributor-incentive-realignment-arc-strategy">Arc 戦略 · 50% の回収</span></li>
+<li><span class="wl" data-target="fintech/stablecoin-revenue-split-economics">ステーブルコイン収益分配エコノミクス</span></li>
+<li><span class="wl" data-target="fintech/stablecoin-chain-token-strategy-trilemma">ステーブルコイン公開チェーン・トークン戦略のトリレンマ</span></li>
+<li><span class="wl" data-target="fintech/circular-reserve-asset-flywheel-overview">準備資産相互ロックのフライホイール · 概要</span></li>
+<li><span class="wl" data-target="fintech/genius-act-501-denylist-mandate">GENIUS Act §501 Denylist</span></li>
+</ul>
+<!-- /wiki-links:managed -->
+<h2 id="sources">Sources</h2>
+<ul>
+<li>Circle 目論見書(2024) · Coinbase Q1 2025 決算 · Centre Consortium 2018 共同発行協定</li>
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</footer>  </body> </html> 
