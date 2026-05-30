@@ -1,0 +1,2 @@
+# 翻訳出力ディレクトリ（translate.mjs が {lang}/{domain}/{slug}.md を生成）。
+# 機械翻訳の成果物だが、CI で再翻訳しないよう git に入れる（増量は source_hash で管理）。

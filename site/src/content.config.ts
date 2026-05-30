@@ -12,4 +12,14 @@ const entries = defineCollection({
     .passthrough(),
 });
 
-export const collections = { entries };
+// 机翻成果物（translate.mjs 生成）。id = {lang}/{domain}/{slug}（小文字、entry.id と一致）。
+const i18n = defineCollection({
+  loader: glob({ base: './src/content/i18n', pattern: '**/*.md' }),
+  schema: z
+    .object({
+      title: z.coerce.string().default(''),
+    })
+    .passthrough(),
+});
+
+export const collections = { entries, i18n };
