@@ -7,8 +7,8 @@ import remarkProvenance from './src/plugins/remark-provenance.mjs';
 // scripts/sync-corpus.ts で src/content/entries/ へ同期する。
 export default defineConfig({
   site: 'https://finwiki.zksc.io',
-  base: '/app/', // サブパス配信：主站(/)を一切触らず finwiki.zksc.io/app/ に人類版を載せる
-  outDir: 'dist', // build 出力は site/dist（gitignore 済）。GitHub Actions が _site/app へ配置して配信
+  base: '/', // 人類版を主站(根)として配信。raw MD + AI surface は同じ _site に共存
+  outDir: 'dist', // build 出力は site/dist（gitignore 済）。GitHub Actions が _site 根へ配置して配信
   build: { format: 'directory' },
   markdown: {
     remarkPlugins: [remarkWikilink, remarkProvenance],
