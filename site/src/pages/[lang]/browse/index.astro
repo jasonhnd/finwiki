@@ -1,0 +1,46 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { t, u, langCodes, type Lang } from '../../../i18n/ui';
+
+export function getStaticPaths() {
+  return langCodes.map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params as { lang: Lang };
+
+const all = (await getCollection('entries')).sort((a, b) => a.id.localeCompare(b.id));
+const byDomain = new Map<string, typeof all>();
+for (const e of all) {
+  const d = e.id.split('/')[0];
+  if (!byDomain.has(d)) byDomain.set(d, [] as unknown as typeof all);
+  byDomain.get(d)!.push(e);
+}
+const domains = [...byDomain.keys()].sort();
+---
+<Base lang={lang} title="Browse">
+  <h1>{t(lang, 'nav.domains')}</h1>
+  <p class="count">{all.length} entries · {domains.length} domains</p>
+  {domains.map((d) => (
+    <section id={d} class="dom">
+      <h2>{d} <span class="dn">{byDomain.get(d)!.length}</span></h2>
+      <ul>
+        {byDomain.get(d)!.map((e) => (
+          <li><a href={u(lang, e.id + '/')}>{e.data.title}</a></li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>
+
+<style>
+  h1 { font-size: 1.8rem; margin: 0 0 0.2rem; }
+  .count { color: var(--muted); font-size: 0.9rem; margin: 0 0 1.5rem; }
+  .dom { margin: 1.5rem 0; scroll-margin-top: 5rem; }
+  .dom h2 { font-size: 1.2rem; border-bottom: 1px solid var(--line); padding-bottom: 0.3rem; }
+  .dom .dn { color: var(--muted); font-size: 0.85rem; font-weight: 400; }
+  .dom ul { columns: 2; column-gap: 2rem; padding-left: 1.1rem; margin: 0.6rem 0; }
+  .dom li { margin: 0.15rem 0; break-inside: avoid; }
+  .dom a { color: var(--accent); text-decoration: none; font-size: 0.92rem; }
+  .dom a:hover { text-decoration: underline; }
+  @media (max-width: 640px) { .dom ul { columns: 1; } }
+</style>

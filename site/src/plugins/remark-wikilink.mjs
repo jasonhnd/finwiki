@@ -1,9 +1,11 @@
 import { visit } from 'unist-util-visit';
+import { resolveWiki } from '../lib/siteIndex.mjs';
 
-// [[domain/slug|label]] / [[slug]] → 可读文本（带样式标记）。
-// 真正的跨页 link 解析（alias / 反向链接 / 语言前缀）留待下一轮的 SiteIndex；
-// 此处先保证人类可读、不外露裸 [[ ]]，且不产生 404 死链。
+// [[domain/slug|label]] / [[slug]] → 解決できれば站内リンク（data-wl に正規パス、
+// href は Base の client script が現在言語で付与）、未解決なら broken span。
 const RE = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+const esc = (s) =>
+  String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 export default function remarkWikilink() {
   return (tree) => {
@@ -17,7 +19,12 @@ export default function remarkWikilink() {
         if (m.index > last) out.push({ type: 'text', value: node.value.slice(last, m.index) });
         const target = m[1].trim();
         const label = (m[2] ?? target.split('/').pop() ?? target).trim();
-        out.push({ type: 'html', value: `<span class="wl" data-target="${target}">${label}</span>` });
+        const path = resolveWiki(target);
+        if (path) {
+          out.push({ type: 'html', value: `<a class="wl" data-wl="${esc(path)}">${esc(label)}</a>` });
+        } else {
+          out.push({ type: 'html', value: `<span class="wl wl-broken" title="${esc(target)}">${esc(label)}</span>` });
+        }
         last = m.index + m[0].length;
       }
       if (!out.length) return;

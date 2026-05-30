@@ -1,11 +1,11 @@
-<!DOCTYPE html><html lang="zh" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Japan corporate CDS spread mechanics · FinWiki</title><meta name="description" content="基于公开一手信源的三语、AI 可读金融事实库。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}.wl{color:var(--accent);border-bottom:1px dotted var(--accent);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
+<!DOCTYPE html><html lang="zh" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Japan corporate CDS spread mechanics · FinWiki</title><meta name="description" content="基于公开一手信源的三语、AI 可读金融事实库。"><link rel="alternate" hreflang="ja" href="/app/ja/"><link rel="alternate" hreflang="en" href="/app/en/"><link rel="alternate" hreflang="zh" href="/app/zh/"><style>.entry{max-width:52rem}.entry-meta{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;font-size:.8rem;margin-bottom:.5rem}.entry-meta .domain{color:var(--accent);text-decoration:none;font-weight:600}.entry-meta .badge{color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .6rem}.entry h1{font-size:clamp(1.5rem,1.1rem + 1.6vw,2.1rem);line-height:1.25;margin:.2rem 0 1.5rem;letter-spacing:-.01em}.prose{font-size:1rem}.prose h2{font-size:1.3rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}.prose h3{font-size:1.08rem;margin:1.6rem 0 .4rem}.prose p{margin:.7rem 0}.prose a{color:var(--accent)}.prose ul,.prose ol{padding-left:1.3rem}.prose li{margin:.25rem 0}.prose blockquote{margin:1rem 0;padding:.5rem 1rem;border-left:3px solid var(--accent);background:var(--soft);color:#333;border-radius:0 6px 6px 0}.prose code{background:var(--soft);padding:.1rem .35rem;border-radius:4px;font-size:.9em}.prose pre{background:#0d1117;color:#e6edf3;padding:1rem;border-radius:8px;overflow-x:auto}.prose pre code{background:none;padding:0}.prose table{width:100%;border-collapse:collapse;margin:1rem 0;font-size:.9rem;display:block;overflow-x:auto}.prose th,.prose td{border:1px solid var(--line);padding:.4rem .6rem;text-align:left;vertical-align:top}.prose thead th{background:var(--soft);position:sticky;top:0}a.wl{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 35%,transparent);cursor:pointer}a.wl:hover{border-bottom-color:var(--accent)}.wl-broken{color:var(--muted);border-bottom:1px dotted var(--muted);cursor:help}.prov{font-size:.6em;vertical-align:super;margin-left:1px}.prov:before{content:"●"}.prov-extracted:before{color:#0a0}.prov-inferred:before{color:#e90}.prov-ambiguous:before{color:#d00}
 .lang-switch[data-astro-cid-su6xvggn]{display:flex;gap:.4rem;font-size:.82rem}.lang[data-astro-cid-su6xvggn]{text-decoration:none;color:var(--muted, #666);padding:.15rem .5rem;border-radius:6px;border:1px solid transparent}.lang[data-astro-cid-su6xvggn]:hover{border-color:var(--line, #e5e5e5)}.lang[data-astro-cid-su6xvggn].active{background:var(--accent, #0b6);color:#fff}:root{--max: 56rem;--fg: #1a1a1a;--muted: #666;--accent: #0b6;--line: #e6e6e6;--bg: #fff;--soft: #fafafa}[data-astro-cid-5hce7sga]{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Hiragino Sans,Noto Sans CJK JP,Noto Sans SC,sans-serif;line-height:1.75}.site-header[data-astro-cid-5hce7sga]{display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;padding:.9rem 1.5rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);z-index:10}.brand[data-astro-cid-5hce7sga]{font-weight:800;font-size:1.1rem;text-decoration:none;color:var(--fg);letter-spacing:-.01em}.site-nav[data-astro-cid-5hce7sga]{display:flex;gap:1rem;margin-right:auto}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]{text-decoration:none;color:var(--muted);font-size:.9rem}.site-nav[data-astro-cid-5hce7sga] a[data-astro-cid-5hce7sga]:hover{color:var(--accent)}main[data-astro-cid-5hce7sga]{max-width:var(--max);margin:0 auto;padding:2.5rem 1.5rem}.site-footer[data-astro-cid-5hce7sga]{border-top:1px solid var(--line);padding:1.75rem 1.5rem;color:var(--muted);font-size:.8rem;text-align:center}
 </style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <a class="brand" href="/app/zh/" data-astro-cid-5hce7sga>FinWiki</a> <nav class="site-nav" data-astro-cid-5hce7sga> <a href="/app/zh/" data-astro-cid-5hce7sga>领域地图</a> <a href="/app/zh/guide/" data-astro-cid-5hce7sga>阅读指南</a> <a href="/app/zh/matrices/" data-astro-cid-5hce7sga>对照矩阵</a> </nav> <div class="lang-switch" role="group" aria-label="Language" data-astro-cid-su6xvggn> <a class="lang" href="/app/ja/derivatives/cds-japan-corporate-spread-mechanics/" hreflang="ja" data-astro-cid-su6xvggn>日本語</a><a class="lang" href="/app/en/derivatives/cds-japan-corporate-spread-mechanics/" hreflang="en" data-astro-cid-su6xvggn>English</a><a class="lang active" href="/app/zh/derivatives/cds-japan-corporate-spread-mechanics/" hreflang="zh" aria-current="true" data-astro-cid-su6xvggn>中文</a> </div>  </header> <main data-astro-cid-5hce7sga> <article class="entry"> <div class="entry-meta"> <a class="domain" href="/app/zh/">derivatives</a> <span class="badge">confidence: likely</span> <span class="badge">updated Mon May 25</span> <span class="badge">8 sources</span> </div> <h1>Japan corporate CDS spread mechanics</h1> <div class="prose"> <h1 id="japan-corporate-cds-spread-mechanics">Japan corporate CDS spread mechanics</h1>
 <h2 id="tldr">TL;DR</h2>
-<p>Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for default-contingent payment on a reference Japanese listed corporate. The spread decomposes into a credit risk premium (a function of expected default probability and assumed recovery) plus structural premia (basis to underlying bonds, dealer carry, regulatory capital cost). Japan corporate CDS prices off the <strong>sovereign-vs-corporate spread</strong>, with Japan sovereign CDS as the implicit credit-free anchor and individual corporate spreads layered on top. Credit-event triggers under 2014 ISDA Credit Derivatives Definitions cover <strong>bankruptcy, failure-to-pay, and restructuring</strong> (with Mod-R / Mod-Mod-R variants determining deliverable obligations). Recovery is determined by an <strong>ISDA-administered auction</strong> after a credit event. Life insurers and pension funds use CDS sparingly given ESR / accounting constraints, but credit-spread hedging via index CDS is a recurring topic in <span class="wl" data-target="insurance/japan-life-insurance-alm-overview">life ALM</span> discussions.</p>
+<p>Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for default-contingent payment on a reference Japanese listed corporate. The spread decomposes into a credit risk premium (a function of expected default probability and assumed recovery) plus structural premia (basis to underlying bonds, dealer carry, regulatory capital cost). Japan corporate CDS prices off the <strong>sovereign-vs-corporate spread</strong>, with Japan sovereign CDS as the implicit credit-free anchor and individual corporate spreads layered on top. Credit-event triggers under 2014 ISDA Credit Derivatives Definitions cover <strong>bankruptcy, failure-to-pay, and restructuring</strong> (with Mod-R / Mod-Mod-R variants determining deliverable obligations). Recovery is determined by an <strong>ISDA-administered auction</strong> after a credit event. Life insurers and pension funds use CDS sparingly given ESR / accounting constraints, but credit-spread hedging via index CDS is a recurring topic in <a class="wl" data-wl="insurance/japan-life-insurance-alm-overview">life ALM</a> discussions.</p>
 <h2 id="wiki-route">Wiki route</h2>
-<p>This entry sits under <span class="wl" data-target="derivatives/INDEX">derivatives index</span> as the spread-mechanics page that complements <span class="wl" data-target="derivatives/japan-cds-market-overview">Japan CDS market overview</span>. Read it together with <span class="wl" data-target="derivatives/basis-trade-bond-cds-japan">bond-CDS basis trade</span> for the arb structure, <span class="wl" data-target="derivatives/japan-irs-market">Japan IRS market</span> for the underlying yen rates curve, <span class="wl" data-target="derivatives/yen-basis-swap-market">yen basis swap market</span> for the JPY funding overlay, and <span class="wl" data-target="derivatives/cross-currency-basis-swap-japan">cross-currency basis swap Japan</span> for the USD overlay that dominates Japanese institutional funding.</p>
-<p>Cross-reference <span class="wl" data-target="finance/INDEX">finance index</span> and <span class="wl" data-target="finance/japan-convertible-bond-mechanics">Japan convertible bond mechanics</span> for the issuer-side credit context, <span class="wl" data-target="finance/japan-cross-shareholding-unwinding-economics">cross-shareholding unwinding economics</span> for the equity-credit linkage, <span class="wl" data-target="banking/INDEX">banking index</span> for the megabank dealer / counterparty role, <span class="wl" data-target="insurance/japan-life-insurance-alm-overview">Japan life insurance ALM</span> for the insurer credit-hedging use case, and <span class="wl" data-target="securities/japan-prime-brokerage-and-institutional-financing">prime brokerage and institutional financing</span> for the dealer-to-fund plumbing.</p>
+<p>This entry sits under <a class="wl" data-wl="browse/#derivatives">derivatives index</a> as the spread-mechanics page that complements <a class="wl" data-wl="derivatives/japan-cds-market-overview">Japan CDS market overview</a>. Read it together with <a class="wl" data-wl="derivatives/basis-trade-bond-cds-japan">bond-CDS basis trade</a> for the arb structure, <a class="wl" data-wl="derivatives/japan-irs-market">Japan IRS market</a> for the underlying yen rates curve, <a class="wl" data-wl="derivatives/yen-basis-swap-market">yen basis swap market</a> for the JPY funding overlay, and <a class="wl" data-wl="derivatives/cross-currency-basis-swap-japan">cross-currency basis swap Japan</a> for the USD overlay that dominates Japanese institutional funding.</p>
+<p>Cross-reference <a class="wl" data-wl="browse/#finance">finance index</a> and <a class="wl" data-wl="finance/japan-convertible-bond-mechanics">Japan convertible bond mechanics</a> for the issuer-side credit context, <a class="wl" data-wl="finance/japan-cross-shareholding-unwinding-economics">cross-shareholding unwinding economics</a> for the equity-credit linkage, <a class="wl" data-wl="browse/#banking">banking index</a> for the megabank dealer / counterparty role, <a class="wl" data-wl="insurance/japan-life-insurance-alm-overview">Japan life insurance ALM</a> for the insurer credit-hedging use case, and <a class="wl" data-wl="securities/japan-prime-brokerage-and-institutional-financing">prime brokerage and institutional financing</a> for the dealer-to-fund plumbing.</p>
 <h3 id="building-blocks">Building blocks</h3>
 <p>A Japan single-name corporate CDS spread <em>S(corp)</em> over horizon T can be conceptually decomposed:</p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="plaintext"><code><span class="line"><span>S(corp, T) ≈ S(sovereign, T) + S(sector, T) + S(idiosyncratic, T) + basis_adjustment</span></span></code></pre>
@@ -247,7 +247,7 @@
 
 
 <table><thead><tr><th>Event</th><th>Trigger</th></tr></thead><tbody><tr><td>Bail-in</td><td>Statutory write-down or conversion of debt instruments</td></tr><tr><td>Resolution authority action</td><td>Transfer of obligations or imposition of haircut by competent authority</td></tr><tr><td>Forced asset sale</td><td>Compelled disposal that constitutes credit-event equivalent</td></tr></tbody></table>
-<p>This is relevant for <span class="wl" data-target="JapanFG/mufg">MUFG</span>, <span class="wl" data-target="JapanFG/sumitomo-mitsui-banking-corp">SMBC</span> (via SMFG), <span class="wl" data-target="JapanFG/mizuho-bank">Mizuho</span> (via Mizuho FG), and other Japan financial-institution CDS, where bank resolution under the Deposit Insurance Act and broader resolution framework matters for protection coverage.</p>
+<p>This is relevant for <a class="wl" data-wl="japanfg/mufg">MUFG</a>, <a class="wl" data-wl="japanfg/sumitomo-mitsui-banking-corp">SMBC</a> (via SMFG), <a class="wl" data-wl="japanfg/mizuho-bank">Mizuho</a> (via Mizuho FG), and other Japan financial-institution CDS, where bank resolution under the Deposit Insurance Act and broader resolution framework matters for protection coverage.</p>
 <h2 id="isda-determinations-committee-dc-process">ISDA Determinations Committee (DC) process</h2>
 
 
@@ -390,7 +390,7 @@
 
 
 <table><thead><tr><th>Measure</th><th>Calculation</th></tr></thead><tbody><tr><td>Z-spread to JGB</td><td>Constant spread added to JGB curve such that discounted cash flows match bond price</td></tr><tr><td>Asset swap spread</td><td>Spread vs swap curve; for Japan, typically vs TONA swap curve</td></tr><tr><td>CDS-bond basis</td><td>CDS spread - corresponding bond spread</td></tr><tr><td>Negative basis</td><td>CDS spread &#x3C; bond spread; long-cash-short-CDS trade attractive</td></tr><tr><td>Positive basis</td><td>CDS spread > bond spread; short-cash-long-CDS trade attractive</td></tr></tbody></table>
-<p><span class="wl" data-target="derivatives/basis-trade-bond-cds-japan">Bond-CDS basis trade</span> develops the basis-trade economics in detail, including funding cost, repo availability, and balance-sheet constraints.</p>
+<p><a class="wl" data-wl="derivatives/basis-trade-bond-cds-japan">Bond-CDS basis trade</a> develops the basis-trade economics in detail, including funding cost, repo availability, and balance-sheet constraints.</p>
 <p>For Japan IG corporates, the basis is typically narrow but can widen during stress episodes (COVID Q1 2020, BOJ YCC adjustments in 2022-2023) when dealer balance-sheet capacity contracts or specific JGB repo dynamics shift relative-value pricing.</p>
 <h2 id="sector-spread-patterns">Sector spread patterns</h2>
 
@@ -466,7 +466,7 @@
 <li>internal risk-management governance constraints;</li>
 <li>liquidity constraints in single-name Japan CDS below Tier 1 names.</li>
 </ul>
-<p>See <span class="wl" data-target="insurance/japan-life-insurance-alm-overview">Japan life insurance ALM</span> for the broader hedging-toolkit context.</p>
+<p>See <a class="wl" data-wl="insurance/japan-life-insurance-alm-overview">Japan life insurance ALM</a> for the broader hedging-toolkit context.</p>
 <h3 id="bank-dealer-and-treasury">Bank dealer and treasury</h3>
 
 
@@ -526,7 +526,7 @@
 
 
 <table><thead><tr><th>Use case</th><th>Detail</th></tr></thead><tbody><tr><td>Outright credit view</td><td>Buy / sell single-name CDS on directional view</td></tr><tr><td>Relative value</td><td>Long / short across CDS curve or across names</td></tr><tr><td>Capital-structure arb</td><td>CDS vs equity, CDS vs CB, CDS vs preferred</td></tr><tr><td>Basis trade</td><td>Long-cash-short-CDS for negative basis or vice versa — see [[derivatives/basis-trade-bond-cds-japan</td></tr><tr><td>Index arb</td><td>iTraxx Japan vs constituent single-name CDS</td></tr></tbody></table>
-<p>Capital-structure arbitrage is a recurring strategy in Japan given the active convertible-bond market — see <span class="wl" data-target="finance/japan-convertible-bond-mechanics">Japan convertible bond mechanics</span>.</p>
+<p>Capital-structure arbitrage is a recurring strategy in Japan given the active convertible-bond market — see <a class="wl" data-wl="finance/japan-convertible-bond-mechanics">Japan convertible bond mechanics</a>.</p>
 <h3 id="structured-product-issuer">Structured product issuer</h3>
 
 
@@ -550,30 +550,30 @@
 
 
 <table><thead><tr><th>Use case</th><th>Detail</th></tr></thead><tbody><tr><td>Credit-linked note (CLN) hedging</td><td>Issuer hedges by buying CDS protection on the reference name</td></tr><tr><td>Synthetic CDO</td><td>Pool-level CDS positions packaged into tranches</td></tr><tr><td>Bespoke credit products for retail / institutional</td><td>Single-name or basket CDS exposure embedded in note format</td></tr></tbody></table>
-<p>CLN issuance and hedging is a recurring driver of single-name CDS protection-buying demand, contributing to occasional supply-demand imbalances on individual names. This intersects with the <span class="wl" data-target="derivatives/structured-bond-japan-retail-issuance">structured bond Japan retail issuance</span> market.</p>
+<p>CLN issuance and hedging is a recurring driver of single-name CDS protection-buying demand, contributing to occasional supply-demand imbalances on individual names. This intersects with the <a class="wl" data-wl="derivatives/structured-bond-japan-retail-issuance">structured bond Japan retail issuance</a> market.</p>
 <h2 id="related">Related</h2>
 <ul>
-<li><span class="wl" data-target="derivatives/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="derivatives/japan-cds-market-overview">japan-cds-market-overview</span></li>
-<li><span class="wl" data-target="derivatives/basis-trade-bond-cds-japan">basis-trade-bond-cds-japan</span></li>
-<li><span class="wl" data-target="derivatives/structured-bond-japan-retail-issuance">structured-bond-japan-retail-issuance</span></li>
-<li><span class="wl" data-target="derivatives/structured-product-eb-knockin-japan-retail">structured-product-eb-knockin-japan-retail</span></li>
-<li><span class="wl" data-target="derivatives/japan-irs-market">japan-irs-market</span></li>
-<li><span class="wl" data-target="derivatives/yen-basis-swap-market">yen-basis-swap-market</span></li>
-<li><span class="wl" data-target="derivatives/cross-currency-basis-swap-japan">cross-currency-basis-swap-japan</span></li>
-<li><span class="wl" data-target="finance/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="finance/japan-convertible-bond-mechanics">japan-convertible-bond-mechanics</span></li>
-<li><span class="wl" data-target="finance/japan-cross-shareholding-unwinding-economics">japan-cross-shareholding-unwinding-economics</span></li>
-<li><span class="wl" data-target="banking/INDEX">INDEX</span></li>
-<li><span class="wl" data-target="insurance/japan-life-insurance-alm-overview">japan-life-insurance-alm-overview</span></li>
-<li><span class="wl" data-target="securities/japan-prime-brokerage-and-institutional-financing">japan-prime-brokerage-and-institutional-financing</span></li>
-<li><span class="wl" data-target="JapanFG/mufg">mufg</span></li>
-<li><span class="wl" data-target="JapanFG/sumitomo-mitsui-banking-corp">sumitomo-mitsui-banking-corp</span></li>
-<li><span class="wl" data-target="JapanFG/mizuho-bank">mizuho-bank</span></li>
-<li><span class="wl" data-target="JapanFG/nomura-hd">nomura-hd</span></li>
-<li><span class="wl" data-target="JapanFG/goldman-sachs-japan">goldman-sachs-japan</span></li>
-<li><span class="wl" data-target="JapanFG/morgan-stanley-japan">morgan-stanley-japan</span></li>
-<li><span class="wl" data-target="INDEX">FinWiki index</span></li>
+<li><a class="wl" data-wl="browse/#derivatives">INDEX</a></li>
+<li><a class="wl" data-wl="derivatives/japan-cds-market-overview">japan-cds-market-overview</a></li>
+<li><a class="wl" data-wl="derivatives/basis-trade-bond-cds-japan">basis-trade-bond-cds-japan</a></li>
+<li><a class="wl" data-wl="derivatives/structured-bond-japan-retail-issuance">structured-bond-japan-retail-issuance</a></li>
+<li><a class="wl" data-wl="derivatives/structured-product-eb-knockin-japan-retail">structured-product-eb-knockin-japan-retail</a></li>
+<li><a class="wl" data-wl="derivatives/japan-irs-market">japan-irs-market</a></li>
+<li><a class="wl" data-wl="derivatives/yen-basis-swap-market">yen-basis-swap-market</a></li>
+<li><a class="wl" data-wl="derivatives/cross-currency-basis-swap-japan">cross-currency-basis-swap-japan</a></li>
+<li><a class="wl" data-wl="browse/#finance">INDEX</a></li>
+<li><a class="wl" data-wl="finance/japan-convertible-bond-mechanics">japan-convertible-bond-mechanics</a></li>
+<li><a class="wl" data-wl="finance/japan-cross-shareholding-unwinding-economics">japan-cross-shareholding-unwinding-economics</a></li>
+<li><a class="wl" data-wl="browse/#banking">INDEX</a></li>
+<li><a class="wl" data-wl="insurance/japan-life-insurance-alm-overview">japan-life-insurance-alm-overview</a></li>
+<li><a class="wl" data-wl="securities/japan-prime-brokerage-and-institutional-financing">japan-prime-brokerage-and-institutional-financing</a></li>
+<li><a class="wl" data-wl="japanfg/mufg">mufg</a></li>
+<li><a class="wl" data-wl="japanfg/sumitomo-mitsui-banking-corp">sumitomo-mitsui-banking-corp</a></li>
+<li><a class="wl" data-wl="japanfg/mizuho-bank">mizuho-bank</a></li>
+<li><a class="wl" data-wl="japanfg/nomura-hd">nomura-hd</a></li>
+<li><a class="wl" data-wl="japanfg/goldman-sachs-japan">goldman-sachs-japan</a></li>
+<li><a class="wl" data-wl="japanfg/morgan-stanley-japan">morgan-stanley-japan</a></li>
+<li><span class="wl wl-broken" title="INDEX">FinWiki index</span></li>
 </ul>
 <h2 id="sources">Sources</h2>
 <ul>
@@ -585,4 +585,13 @@
 <li>MOF: JGB benchmark curve and issuance materials.</li>
 <li>JSCC: CDS clearing service materials.</li>
 <li>JSDA: member-firm regulatory materials.</li>
-</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>基于公开一手信源的金融事实库。每条事实都可回溯到条目所列出处。</footer>  </body> </html> 
+</ul> </div> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga>基于公开一手信源的金融事实库。每条事实都可回溯到条目所列出处。</footer> <script>(function(){const base = "/app/";
+const lang = "zh";
+
+      // wikilink は言語非依存で出力されるので、現在言語の href をクライアントで付与。
+      // アンカー（browse/#domain）は末尾スラッシュを付けない。
+      for (const a of document.querySelectorAll('a.wl[data-wl]')) {
+        const w = a.getAttribute('data-wl');
+        a.setAttribute('href', base + lang + '/' + w + (w.includes('#') ? '' : '/'));
+      }
+    })();</script>  </body> </html> 

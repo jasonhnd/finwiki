@@ -29,6 +29,14 @@ const desc = description ?? t(lang, 'site.tagline');
     </header>
     <main><slot /></main>
     <footer class="site-footer">{t(lang, 'footer.note')}</footer>
+    <script define:vars={{ base: import.meta.env.BASE_URL, lang }}>
+      // wikilink は言語非依存で出力されるので、現在言語の href をクライアントで付与。
+      // アンカー（browse/#domain）は末尾スラッシュを付けない。
+      for (const a of document.querySelectorAll('a.wl[data-wl]')) {
+        const w = a.getAttribute('data-wl');
+        a.setAttribute('href', base + lang + '/' + w + (w.includes('#') ? '' : '/'));
+      }
+    </script>
     <style>
       :root {
         --max: 56rem; --fg: #1a1a1a; --muted: #666; --accent: #0b6;
