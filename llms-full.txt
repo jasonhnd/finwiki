@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-05-31T16:32:24+09:00
+Generated: 2026-05-31T18:36:16+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1450
-Public pages listed: 1449
+Markdown files: 1451
+Public pages listed: 1450
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1449
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-31, GPT i18n 翻訳バッチ安全収集（zh/en 483 件へ）/ GPT i18n translation batch safe collection (zh/en 483 each) / GPT i18n 翻译批次安全收集（zh/en 各 483）, 2026-05-29
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-05-31, 公開ルート・カバーホームページ導入 / Public root cover homepage / 公开根入口封面主页, GPT i18n 翻訳バッチ安全収集（zh/en 483 件へ）/ GPT i18n translation batch safe collection (zh/en 483 each) / GPT i18n 翻译批次安全收集（zh/en 各 483）
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13017,6 +13017,15 @@ Public pages listed: 1449
 - Summary: 2026-05-25 JST 1 回目の release です。Wave 4 (v2026.05.24-3) 公開直後、wave 5 として 10 並列 agent を起動し、50 件新規 entry + 8 件 INDEX 更新を一括で実施しました。Wave 5 のテーマは「残量収口」: 単独で立てるほどの量はないが institutional registry として欠かせない 10 領域 (JapanFG 非寿命 specialty / 海外再保険現地法人残量 / 地方 FG 子会社 / 信用保証協会 / 政策金融 operating arm / Trust bank custody o
 - Headings: Wave 5 並列 10 agents 残量収口 — JapanFG 非寿命 / 再保険 / 地方 FG 子会社 / 信用保証協会 / 政策金融 operating / Trust custody / Payments / Securities / Insurance analytical / Finance + 50 件新規 entry 2026-05-25, 日本語, 概要, 対象範囲, 主要変更, 数値スナップショット, 検証結果, 既知の注意点
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/ja-shinnoren, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/osaka-credit-guarantee-corp, https://finwiki.zksc.io/JapanFG/tokyo-credit-guarantee-corp, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix
+
+### 公開ルート・カバーホームページ導入
+- URL: https://finwiki.zksc.io/releases/v2026.05.31-2
+- Source path: releases/v2026.05.31-2.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.31-2.md
+- Domain: releases
+- Type: release_note
+- Summary: 2026-05-31 JST の公開サイト入口更新です。finwiki.zksc.io/ を単純な日本語ページへの redirect から、FinWiki の三語入口、主要領域、現在の翻訳状況、AI discovery surface を一画面で確認できるカバーホームページへ変更しました。
+- Headings: 公開ルート・カバーホームページ導入, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ安全収集・483/483 進捗
 - URL: https://finwiki.zksc.io/releases/v2026.05.31
