@@ -29,6 +29,23 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-05-31
+
+### GPT i18n 翻訳バッチ安全収集（zh/en 483 件へ）/ GPT i18n translation batch safe collection (zh/en 483 each) / GPT i18n 翻译批次安全收集（zh/en 各 483）
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-05-31 16:31 JST。
+- **背景**: FinWiki の全量 trilingual 化を継続。ユーザー指示により今回の subagent は Sonnet ではなく GPT/Codex を使用した。対象は公開済み wiki 本文の機械翻訳であり、本文に新事実は追加しない。
+- **範囲**: `site/src/content/i18n/{zh,en}/`、`.cache/jobs/w0..w9/`、`README.md`、`CHANGELOG.md`、`releases/v2026.05.31.md`。`bun scripts/prep-parallel.mjs --workers 10 --size 13` で 130 job を準備した。
+- **実行手順**: 10 個の GPT worker を worker directory 単位で起動し、`{base}.zh.md` / `{base}.en.md` を生成。途中で占位符を保持できない出力が多いことが判明したため、`bun scripts/commit-translate.mjs` で検証後、本バッチの `source_hash` と `fidelity: needs_review` が一致する 106 language outputs を削除し、検証通過分だけを保持した。
+- **結果**: 132 language outputs を保持。累計 i18n は zh 418 / en 417 から **zh 483 / en 483** へ進捗した。削除した `needs_review` と未生成 22 language outputs は、次回の増分 `prep-parallel` で再取得される状態に戻した。
+- **検証**: `bun run build` pass（4147 pages built）。`python tools/release.py --check --strict` pass（link audit entries=1411 / issues=0、counts in sync、JSON valid、LF OK）。
+- **既知の注意点**: Astro build は `zh/fintech/japan-epi-three-types-overview` の duplicate id warning を出したが、該当ファイルの frontmatter は UTF-8 で正常に閉じており build は成功。次回、collection loader 側の重複警告を別途確認する。
+- **次の作業**: 次バッチでは GPT worker に実際の placeholder 表記（`笶ｰ...笶ｱ`）を byte-for-byte で保持させる指示をさらに強化し、今回削除した `needs_review` / missing を優先的に再翻訳する。
+- **EN**: Continued the full trilingual i18n run using GPT/Codex workers per user instruction. Prepared 130 jobs, collected outputs with `commit-translate`, then removed this batch's 106 `needs_review` language outputs by `source_hash` so failed placeholder translations are not treated as complete. Kept 132 verified language outputs; cumulative i18n is now zh 483 / en 483. Validation: `bun run build` passed (4147 pages) and `python tools/release.py --check --strict` passed (1411 audited entries, 0 issues, counts in sync).
+- **中文**: 按用户指示改用 GPT/Codex worker 续跑全量三语 i18n。准备 130 个 job，经 `commit-translate` 收集后，按本批 `source_hash` 删除 106 个 `needs_review` 语言输出，避免占位符失败译文被当作已完成。保留 132 个通过校验的语言输出；累计 i18n 进度为 zh 483 / en 483。验证：`bun run build` 通过（4147 页），`python tools/release.py --check --strict` 通过（1411 条审计、0 issue、计数同步）。
+
 ## 2026-05-29
 
 ### ^[ambiguous] 解消 Wave 1（pilot · 上場地銀 3 行）/ Resolve ^[ambiguous] Wave 1 (pilot — 3 listed regional banks) / 解决 ^[ambiguous] Wave 1（试点 · 3 家上市地银）
