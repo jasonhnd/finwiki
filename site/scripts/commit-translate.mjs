@@ -1,5 +1,5 @@
-// 対話内翻訳の後処理: subagent が .cache/jobs/{flat}.{zh,en}.md に書いた訳文を
-// verify(占位符整合/杂质) + unmask して site/src/content/i18n/{lang}/{rel} へ確定書込。
+// subagent が .cache/jobs/(及び子目录 w*/) に書いた訳文を verify+unmask して
+// site/src/content/i18n/{lang}/{rel} へ確定書込。子目录(並列 worker)も再帰回収。
 //   bun scripts/commit-translate.mjs
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -15,16 +15,25 @@ const titleOf = (body) => {
   return m ? m[1].trim() : '';
 };
 
+function* walkJson(dir) {
+  if (!existsSync(dir)) return;
+  for (const e of readdirSync(dir, { withFileTypes: true })) {
+    const p = join(dir, e.name);
+    if (e.isDirectory()) yield* walkJson(p);
+    else if (e.name.endsWith('.json')) yield p;
+  }
+}
+
 let ok = 0;
 let rev = 0;
 let miss = 0;
-for (const f of readdirSync(JOBS)) {
-  if (!f.endsWith('.json')) continue;
-  const flat = f.replace(/\.json$/, '');
-  const { rel, hash, masks } = JSON.parse(readFileSync(join(JOBS, f), 'utf8'));
-  const masked = readFileSync(join(JOBS, `${flat}.masked.md`), 'utf8');
+for (const jsonPath of walkJson(JOBS)) {
+  const dir = dirname(jsonPath);
+  const flat = jsonPath.slice(dir.length + 1).replace(/\.json$/, '');
+  const { rel, hash, masks } = JSON.parse(readFileSync(jsonPath, 'utf8'));
+  const masked = readFileSync(join(dir, `${flat}.masked.md`), 'utf8');
   for (const lang of LANGS) {
-    const trp = join(JOBS, `${flat}.${lang}.md`);
+    const trp = join(dir, `${flat}.${lang}.md`);
     if (!existsSync(trp)) {
       miss++;
       console.log(`MISS ${lang}  ${rel}`);
