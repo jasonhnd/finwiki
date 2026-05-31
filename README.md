@@ -14,16 +14,16 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1452 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1453 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約984万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,836,462） |
+| Text volume | 約984万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,841,676） |
 | Word-like tokens | 約156万 | English / CJK mixed corpus の近似 token count |
 
-> 集計基準: 2026-05-31 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
+> 集計基準: 2026-06-01 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
-> i18n 進捗: 2026-05-31 JST の GPT 翻訳バッチ v2026.05.31-3 後、`site/src/content/i18n` は zh 610 / en 610 ファイルです。占位符検証を通過した訳文だけを保持し、`needs_review` は公開訳文にせず次回の増分翻訳に戻します。
+> i18n 進捗: 2026-06-01 JST の GPT 翻訳バッチ v2026.06.01 後、`site/src/content/i18n` は zh 740 / en 740 ファイルです。占位符検証を通過した訳文だけを保持し、`needs_review` は公開訳文にせず次回の増分翻訳に戻します。
 
 ### 🚪 まず見る場所
 
@@ -139,16 +139,16 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1452 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1453 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~9.84M chars | ~9,836,462 non-space UTF-8 characters across Markdown |
+| Text volume | ~9.84M chars | ~9,841,676 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.56M | Approximate English / CJK mixed-corpus token count |
 
-> Counting basis: current repository snapshot as of 2026-05-31 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
+> Counting basis: current repository snapshot as of 2026-06-01 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
-> i18n progress: after the 2026-05-31 JST GPT translation batch v2026.05.31-3, `site/src/content/i18n` contains 610 zh files and 610 en files. Only placeholder-verified translations are retained; `needs_review` outputs are not published and return to the incremental queue.
+> i18n progress: after the 2026-06-01 JST GPT translation batch v2026.06.01, `site/src/content/i18n` contains 740 zh files and 740 en files. Only placeholder-verified translations are retained; `needs_review` outputs are not published and return to the incremental queue.
 
 ### 🚪 Primary Entrances
 
@@ -249,16 +249,16 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1452 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1453 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约984万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,836,462） |
+| Text volume | 约984万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,841,676） |
 | Word-like tokens | 约156万 | English / CJK mixed corpus 的近似 token count |
 
-> 统计口径：2026-05-31 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
+> 统计口径：2026-06-01 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
-> i18n 进度：2026-05-31 JST 的 GPT 翻译批次 v2026.05.31-3 后，`site/src/content/i18n` 为 zh 610 / en 610 文件。仅保留通过占位符校验的译文，`needs_review` 输出不发布，交回下一轮增量翻译。
+> i18n 进度：2026-06-01 JST 的 GPT 翻译批次 v2026.06.01 后，`site/src/content/i18n` 为 zh 740 / en 740 文件。仅保留通过占位符校验的译文，`needs_review` 输出不发布，交回下一轮增量翻译。
 
 ### 🚪 优先入口
 
