@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-31T00:09:58+09:00",
+  "generated_at": "2026-05-31T16:32:24+09:00",
   "counts": {
-    "markdown_files": 1449,
-    "public_markdown_pages": 1448,
-    "site_urls_in_sitemap": 1449,
+    "markdown_files": 1450,
+    "public_markdown_pages": 1449,
+    "site_urls_in_sitemap": 1450,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9820301,
-    "word_like_tokens": 1559153
+    "nonspace_utf8_chars": 9826527,
+    "word_like_tokens": 1560271
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -229,11 +229,11 @@
         "日本語",
         "English",
         "中文",
+        "2026-05-31",
+        "GPT i18n 翻訳バッチ安全収集（zh/en 483 件へ）/ GPT i18n translation batch safe collection (zh/en 483 each) / GPT i18n 翻译批次安全收集（zh/en 各 483）",
         "2026-05-29",
         "^[ambiguous] 解消 Wave 1（pilot · 上場地銀 3 行）/ Resolve ^[ambiguous] Wave 1 (pilot — 3 listed regional banks) / 解决 ^[ambiguous] Wave 1（试点 · 3 家上市地银）",
-        "主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留",
-        "主観内容の隔離（Phase 1）· 客観事実 wiki への再構成 / Subjective-content quarantine (Phase 1) — recompose into a facts-only wiki / 主观内容隔离（Phase 1）· 重构为客观事实 wiki",
-        "本文の事実誤り修正 6 件（Wave 14b ソース照合で判明）/ Fixed 6 body factual errors surfaced during Wave 14b sourcing / 修正 Wave 14b 溯源中发现的 6 处正文事实错误"
+        "主観内容の隔離 Phase 1.5 · 残留(推定セクション / confidence 注 / 非標準見出し)を一掃 / Quarantine Phase 1.5 — residual sweep / 主观内容隔离 Phase 1.5 · 清扫残留"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,9 +467,9 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 420861,
-      "word_like_tokens": 73991,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 422843,
+      "word_like_tokens": 74354,
+      "last_modified": "2026-05-31"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -34252,9 +34252,9 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 23010,
-      "word_like_tokens": 3473,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 23480,
+      "word_like_tokens": 3563,
+      "last_modified": "2026-05-31"
     },
     {
       "source_path": "SCHEMA.md",
@@ -74752,6 +74752,33 @@
       "nonspace_chars": 16064,
       "word_like_tokens": 3020,
       "last_modified": "2026-05-25"
+    },
+    {
+      "source_path": "releases/v2026.05.31.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.05.31",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.31.md",
+      "title": "GPT i18n 翻訳バッチ安全収集・483/483 進捗",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-05-31 JST の i18n 翻訳バッチです。ユーザー指示に従い、Sonnet ではなく GPT/Codex worker で site/src/content/i18n/{zh,en}/ の増分機械翻訳を進めました。",
+      "headings": [
+        "GPT i18n 翻訳バッチ安全収集・483/483 進捗",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 3774,
+      "word_like_tokens": 665,
+      "last_modified": "2026-05-31"
     },
     {
       "source_path": "retail/INDEX.md",
