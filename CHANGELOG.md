@@ -31,6 +31,18 @@
 
 ## 2026-05-31
 
+### 公開ルート・カバーホームページ導入 / Public root cover homepage / 公开根入口封面主页
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-05-31 18:35 JST。
+- **背景**: `finwiki.zksc.io/` は公開サイトの最初の接点だが、これまでは `/ja/` への redirect で、三語入口、現在の収録規模、AI discovery surface を人間が一画面で理解しにくかった。公開 knowledge graph の入口として、root に独立した cover homepage を置く方針に変更した。
+- **範囲**: `site/src/pages/index.astro`, `site/public/og-image.png`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.31-2.md`。公開本文 corpus は変更せず、公開入口と記録面だけを更新した。
+- **実行手順**: Astro root page を redirect から standalone cover page に変更し、`/ja/`, `/en/`, `/zh/`, featured domains, AI discovery links, current site statistics を配置した。`domainNames` に登録された 23 domains だけを domain count に使い、Astro content entries の 1,380 件は `human entries` として表示した。OG image は build / public root の両方で解決できるよう `site/public/og-image.png` を追加した。
+- **検証結果**: `bun run build` pass (4147 pages built)。generated `/` HTML で `1,380 human entries`, `23 domains`, `zh translations 483`, `en translations 483` を確認。desktop / mobile viewport で横スクロールなしを確認。`python tools/release.py --check --strict` pass。
+- **既知の注意点**: cover page の 1,380 は Astro human entry count、release tooling の 1,411 は repository-wide link-audited count で、別口径として併存する。GitHub Pages の実配信は push 後の deployment 完了に依存する。
+- **次の作業**: deployment 後に `https://finwiki.zksc.io/` の root 表示を確認し、未完了 i18n translation queue を次 batch で継続する。
+- **EN**: Replaced the public root redirect with a standalone Astro cover homepage for `finwiki.zksc.io/`. The page now exposes trilingual entrances, featured domains, live human-entry / domain / i18n counts, and AI discovery links. Validation passed: Astro build 4147 pages, root HTML counts checked, desktop/mobile overflow checks clean, and release strict check passed.
+- **中文**: 将 `finwiki.zksc.io/` 的公开根入口从跳转页改成 Astro 独立封面主页。新页面展示三语入口、精选领域、human entries / domains / i18n 当前统计和 AI discovery 入口。验证通过：Astro 构建 4147 页，根页面统计已确认，桌面和移动端无横向溢出，release strict check 通过。
+
 ### GPT i18n 翻訳バッチ安全収集（zh/en 483 件へ）/ GPT i18n translation batch safe collection (zh/en 483 each) / GPT i18n 翻译批次安全收集（zh/en 各 483）
 
 #### 日本語記録 / English / 中文
