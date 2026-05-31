@@ -29,6 +29,21 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-01
+
+### GPT i18n 継続バッチ（zh/en 740 件へ）/ GPT i18n continuation batch (zh/en 740 each) / GPT i18n 续跑批次（zh/en 各 740）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-01 00:30 JST。
+- **背景**: FinWiki の三語 i18n をユーザー指定どおり GPT/Codex worker で継続した。前回の zh/en 610 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加した。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `.cache/jobs/w0..w9/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.01.md`。公開済み wiki 本文の原文内容は変更せず、機械翻訳 surface と運用記録だけを更新した。
+- **実行手順**: `bun scripts/prep-parallel.mjs --workers 10 --size 13` で 130 jobs を準備し、10 本の GPT/Codex worker が worker directory 単位で処理した。最初の w8 worker は完了後に訳文ファイルを出さなかったため、同じ w8 directory だけを GPT/Codex retry worker で再処理した。完了 worker thread は archive 済み。`bun scripts/commit-translate.mjs` で placeholder verify + unmask を実行した。
+- **結果**: `commit-translate` は ok=234, needs_review=26, missing=0。累計 i18n は **zh 740 / en 740** へ進捗した。`needs_review` は公開訳文に含めず、後続の増分翻訳または全量完了後の精査へ戻す。
+- **検証結果**: `bun run build` pass (4147 pages built)。`python tools/release.py --write` と `python tools/release.py --check --strict` pass。README / root homepage / AI discovery surface / count sync を検証した。
+- **既知の注意点**: `needs_review` の 26 language outputs は placeholder set mismatch のため公開 i18n に含めていない。残り翻訳と review outputs は後続 batch で再取得する。
+- **次の作業**: 次の GPT/Codex batch で未翻訳分を継続する。全量完了後に `needs_review` の反復パターンを確認し、prompt / protect rule 側を必要に応じて調整する。
+- **EN**: Continued the GPT/Codex i18n run from zh/en 610 to zh/en 740. Prepared 130 source jobs across 10 worker directories, retried only w8 after the first w8 worker produced no translation files, then collected verified outputs with `commit-translate`: ok=234, needs_review=26, missing=0. Build passed with 4147 pages. Release count synchronization and strict checks are run in this same release cycle.
+- **中文**: 按用户指定继续使用 GPT/Codex 处理 i18n，从 zh/en 610 推进到 zh/en 740。本轮准备 10 个 worker 目录、共 130 个源条目；首次 w8 worker 完成但没有写出译文，因此只重跑 w8。`commit-translate` 校验结果为 ok=234、needs_review=26、missing=0。Astro 构建通过，生成 4147 页；本次发布同轮执行 release count 同步和 strict check。
+
 ## 2026-05-31
 
 ### GPT i18n 継続バッチ（zh/en 610 件へ）/ GPT i18n continuation batch (zh/en 610 each) / GPT i18n 续跑批次（zh/en 各 610）
