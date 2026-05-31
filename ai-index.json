@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-05-31T18:36:16+09:00",
+  "generated_at": "2026-05-31T20:15:23+09:00",
   "counts": {
-    "markdown_files": 1451,
-    "public_markdown_pages": 1450,
-    "site_urls_in_sitemap": 1451,
+    "markdown_files": 1452,
+    "public_markdown_pages": 1451,
+    "site_urls_in_sitemap": 1452,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9831763,
-    "word_like_tokens": 1561164
+    "nonspace_utf8_chars": 9836462,
+    "word_like_tokens": 1562039
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-05-31",
+        "GPT i18n 継続バッチ（zh/en 610 件へ）/ GPT i18n continuation batch (zh/en 610 each) / GPT i18n 续跑批次（zh/en 各 610）",
         "公開ルート・カバーホームページ導入 / Public root cover homepage / 公开根入口封面主页",
         "GPT i18n 翻訳バッチ安全収集（zh/en 483 件へ）/ GPT i18n translation batch safe collection (zh/en 483 each) / GPT i18n 翻译批次安全收集（zh/en 各 483）",
-        "2026-05-29",
-        "^[ambiguous] 解消 Wave 1（pilot · 上場地銀 3 行）/ Resolve ^[ambiguous] Wave 1 (pilot — 3 listed regional banks) / 解决 ^[ambiguous] Wave 1（试点 · 3 家上市地银）"
+        "2026-05-29"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 424523,
-      "word_like_tokens": 74641,
+      "nonspace_chars": 425992,
+      "word_like_tokens": 74925,
       "last_modified": "2026-05-31"
     },
     {
@@ -34252,8 +34252,8 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 23727,
-      "word_like_tokens": 3603,
+      "nonspace_chars": 23762,
+      "word_like_tokens": 3615,
       "last_modified": "2026-05-31"
     },
     {
@@ -74778,6 +74778,33 @@
       "markdown_links": [],
       "nonspace_chars": 3309,
       "word_like_tokens": 566,
+      "last_modified": "2026-05-31"
+    },
+    {
+      "source_path": "releases/v2026.05.31-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.05.31-3",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.05.31-3.md",
+      "title": "GPT i18n 翻訳バッチ継続・610/610 進捗",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-05-31 JST の GPT/Codex i18n 継続バッチです。前回の zh/en 483 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加し、累計を zh 610 / en 610 へ進めました。",
+      "headings": [
+        "GPT i18n 翻訳バッチ継続・610/610 進捗",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 3195,
+      "word_like_tokens": 579,
       "last_modified": "2026-05-31"
     },
     {

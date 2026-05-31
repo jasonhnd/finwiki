@@ -5,7 +5,7 @@ lang: en
 status: machine
 fidelity: ok
 title: "Cooperative insurance (kyosai) system in Japan"
-translated_at: 2026-05-31T07:28:06.148Z
+translated_at: 2026-05-31T11:13:44.912Z
 ---
 
 # Cooperative insurance (kyosai) system in Japan

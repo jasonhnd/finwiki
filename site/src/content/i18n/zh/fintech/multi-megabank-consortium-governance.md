@@ -4,10 +4,11 @@ source_hash: 7082c4f387c11adc
 lang: zh
 status: machine
 fidelity: ok
-title: "多家巨型银行联合体治理"
-translated_at: 2026-05-31T07:28:06.171Z
+title: "多巨行联合体治理"
+translated_at: 2026-05-31T11:13:44.848Z
 ---
-# 多家巨型银行联合体治理
+
+# 多巨行联合体治理
 
 
 ## Wiki route
@@ -15,81 +16,81 @@ translated_at: 2026-05-31T07:28:06.171Z
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 若将 Fintech 基础设施按“单一银行”“多银行 JV”“独立企业 + 银行少数持股”这 **3 种治理模式** 比较，**Progmat 型（独立企业 + non-controlling stake 设计）扩展性最高**。JPMorgan Kinexys 属于单一银行型，BIS Project Agorá 属于中央银行 consortium 型，Progmat 属于独立企业型，各自所要求的监管环境与决策速度之间的权衡不同。
+> Fintech 基础设施を「単一銀行」「複数銀行 JV」「独立企業 + 銀行少数持株」の **3 つの治理モデル** で比較すると、**Progmat 型(独立企業 + non-controlling stake 設計)が最も拡張性が高い**。JPMorgan Kinexys は単一銀行型、BIS Project Agorá は中央銀行コンソーシアム型、Progmat は独立企業型 —— 各々が要求する規制環境と意思決定速度のトレードオフが異なる。
 
-## 3 种治理模式
+## 3 つの治理モデル
 
 | モデル | 代表事例 | 所有構造 | 意思決定速度 | 規制要件 | 拡張性 |
 |---|---|---|---|---|---|
-| **单一银行所有** | JPM Kinexys / GS DAP | 银行 100% 子公司 | 高速 | 银行监管框架内 | 低（受银行 brand 约束） |
-| **多银行 JV** | DTCC / 旧 SWIFT 结构 | 银行间平等出资 | 低速（需全员同意） | 银行协同监管 | 中 |
-| **独立企业 + non-controlling** | **Progmat / NTT Data 共同** | 独立法人 · 银行少数持股 | 中速 | 独立 fintech 监管 | **高** |
+| **単一銀行所有** | JPM Kinexys / GS DAP | 銀行 100% 子会社 | 高速 | 銀行規制内 | 低(銀行 brand 縛り) |
+| **複数銀行 JV** | DTCC / 旧 SWIFT 構造 | 銀行間平等出資 | 低速(全員合意) | 銀行協調規制 | 中 |
+| **独立企業 + non-controlling** | **Progmat / NTT Data 共同** | 独立法人 · 銀行少数持株 | 中速 | 独立 fintech 規制 | **高** |
 
-## Progmat 结构的精细设计
+## Progmat 構造の精緻設計
 
-**MUTB 49% stake 设计的核心意图**：
+**MUTB 49% stake 設計の核心意図**:
 
 ```
-MUTB([[JapanFG/mufg|三菱 UFJ 信託銀行]])     49.0%   ← 单独最大股东，但不能过半
-SMBC 集团 ([[JapanFG/smfg|SMFG]])      ~15%   ← 重要 partner
-Mizuho 信托银行        ~15%   ← 重要 partner
-NTT Data              ~10%   ← 技术 partner
-JPX                   ~5%    ← 交易所 partner
-Datachain             ~3%    ← 技术 partner
-其他                    ~3%
+MUTB([[JapanFG/mufg|三菱 UFJ 信託銀行]])     49.0%   ← 単独最大株主だが過半数 NG
+SMBC グループ ([[JapanFG/smfg|SMFG]])      ~15%   ← 重要 partner
+Mizuho 信託銀行           ~15%   ← 重要 partner
+NTT Data                  ~10%   ← 技術 partner
+JPX                       ~5%    ← 取引所 partner
+Datachain                 ~3%    ← 技術 partner
+他                          ~3%
 ```
 
-**设计原则**：
-- **49% 是有意为之**（FSA 的指导）：采用 **non-MUFG-controlled** 设计，避免 MUFG 形成支配。
-- **三大行同等级**（除 MUTB 49% 外基本对等）→ 确保中立性
-- **NTT Data / JPX 从技术 / 交易所侧**参与 → 提供非银行侧正当性
+**設計原則**:
+- **49% は意図的**(FSA の指導):**MUFG が支配的にならない non-MUFG-controlled** 設計
+- **三大行が同等格**(MUTB 49% を除けば実質的に対等)→ 中立性確保
+- **NTT Data / JPX が技術 / 取引所側**から参加 → 銀行以外の正当性
 
-**因此**：
-- SMBC / Mizuho 不能使用 MUFG 子公司，但可以使用 independent 法人
-- FSA 不会将其视作 MUFG 单独项目，而是作为行业共通基础设施予以认可
-- 即使要构建共通 SC（JPYW），如果由 MUFG 单独提出会很难，通过 Progmat 则有可能
+**これにより**:
+- SMBC / Mizuho は MUFG 子会社では使えないが、independent 法人なら使える
+- FSA は MUFG だけのプロジェクトと見做さず、業界共通インフラとして承認
+- 共通 SC(JPYW)を作る場合も MUFG 単独提案では難しいが、Progmat 経由なら可能
 
-## 多巨型银行治理成立的条件
+## 多巨行型ガバナンス成立の条件
 
-| 条件 | 内容 | Progmat 的达成度 |
+| 条件 | 内容 | Progmat の達成度 |
 |---|---|---|
-| **中立的 chairperson / CEO** | 不偏向任何一家银行的人物 | 齊藤達哉（出身于三菱 UFJ，但担任独立 CEO） |
-| **不得突破过半数阈值** | 单一银行不得持有过半数 | MUTB 以 49% 达成 |
-| **政府 / 监管侧背书** | 中央银行 / 监管当局认定为行业共通 | FSA PIP 主导 |
-| **技术 partner 中立性** | 非银行技术 partner 保持中立 | NTT Data + Datachain |
-| **竞争银行能获得收益** | 三大行可同时受益 | 客户基础 30 万社共同接入 |
-| **退出选项** | 各银行可并行推进自家路线 | SMBC 并行 SBI / Mizuho 并行 Solana |
+| **中立的 chairperson / CEO** | どの銀行にも偏らない人物 | 齊藤達哉(三菱 UFJ 出身だが独立 CEO 兼務)|
+| **過半数閾値超え NG** | 単独銀行が過半数を持たない | MUTB 49% で達成 |
+| **政府 / 規制側の祝福** | 中央銀行 / 監督当局が業界共通と認定 | FSA PIP 主導 |
+| **技術 partner 中立性** | 銀行以外の技術 partner が中立的 | NTT Data + Datachain |
+| **競合銀行が gain** | 三大行が同時に benefit | 客户基盤 30 万社共通アクセス |
+| **退出オプション** | 各銀行が自社路線も併走可能 | SMBC は SBI / Mizuho は Solana 併走 |
 
-## 与 BIS Project Agorá 的对比
+## BIS Project Agorá との対比
 
-| 轴 | Progmat | BIS Project Agorá |
+| 軸 | Progmat | BIS Project Agorá |
 |---|---|---|
-| 主导 | 民间（信托银行协同） | 国际（BIS + 7 央行） |
-| 监管 | FSA 监管 + 信托法 | BIS 协调 + 各国央行法 |
-| Settlement asset | 信托型 SC | wholesale CBDC + TD |
-| Decision speed | 基于股东间协议（中速） | 7 央行共识（低速） |
-| Geographic scope | 以日本国内为主 → 正在考虑扩张 | 全球设计，但仍处于 pilot |
-| Exit option | 可作为股东出售退出 | 国家承诺无法解除 |
+| 主導 | 民間(信託銀行協調)| 国際(BIS + 7 央行)|
+| 規制 | FSA 監督 + 信託法 | BIS 協調 + 各国央行法 |
+| Settlement asset | 信託型 SC | wholesale CBDC + TD |
+| Decision speed | 株主間契約ベース(中速)| 7 央行合意(低速)|
+| Geographic scope | 日本国内中心 → 拡大検討中 | グローバル設計だが pilot 中 |
+| Exit option | 株主としての売却可能 | 国家 commitment 解除不可 |
 
-**含义**：[[fintech/bis-project-agora-overview|Agorá]] 的 **公共承诺与监管整合更强**，但 **速度更慢**。[[JapanFG/progmat|Progmat]] 的 **速度与灵活性更高**，但 **国际正当性弱于 Agorá**。二者具有互补性：Agorá 构建国际骨架，Progmat 负责各国落地，长期可能形成这种结构。
+**含義**:[[fintech/bis-project-agora-overview|Agorá]] は **公的 commitment と規制統合が強い** が **速度が遅い**。[[JapanFG/progmat|Progmat]] は **速度と柔軟性が高い** が **国際的正統性が Agorá より弱い**。両者は補完的:Agorá が国際骨格を作り、Progmat が国別実装を担う構造が長期的に成立する可能性。
 
-## 共通风险
+## 共通リスク
 
 | リスク | 内容 |
 |---|---|
-| **战略不一致** | 成员银行可能走向独立路线（如 SMBC × SBI）并出现离散 |
-| **决策延迟** | 全员同意要求可能使重要决定错过 timing |
-| **霸权争夺** | MUTB 若扩大至 49%，可能形成事实控制并削弱他行 |
-| **新参与银行议价能力下降** | 后加入银行难以改变既有 49% 设计 |
-| **海外联动正当性** | 各银行海外子公司分别与 Kinexys 等合作，导致一致性崩塌 |
+| **戦略不一致** | 加盟銀行が独自路線(SMBC × SBI など)で離反する可能性 |
+| **意思決定遅延** | 全員合意要件で重要決定が timing を逃す |
+| **覇権争い** | MUTB が 49% → 実質支配で他行が骨抜きにする可能性 |
+| **新参加銀行の交渉力低下** | 後発加盟銀行は既存 49% 設計を変更できない |
+| **海外連携の正当性** | 各銀行の海外子会社が個別に Kinexys 等と提携 → 一貫性崩れ |
 
-## 应用
+## 応用
 
-- 分析任何“多家 megabank 共用 fintech 基础设施”讨论的结构
-- 作为韩国 / 台湾 / 亚洲其他国家 SC consortium 设计参考
-- 比较 mBridge / Project Nexus / IPS-RTGS 互联的 governance
-- 作为 DTCC / Visa / Mastercard 等既有“行业共通基础设施”的演化形态
-- 设计中央银行 consortium + 民间 SC consortium 的 2 层结构
+- 任何 "複数 megabank 共通 fintech インフラ" 議論の構造分析
+- 韓国 / 台湾 / アジア他国の SC コンソーシアム設計参考
+- mBridge / Project Nexus / IPS-RTGS 相互接続の governance 比較
+- DTCC / Visa / Mastercard 等 既存「業界共通インフラ」の進化系として
+- 中央銀行コンソーシアム + 民間 SC コンソーシアムの 2 層構造設計
 
 ---
 
