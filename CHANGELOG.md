@@ -31,6 +31,19 @@
 
 ## 2026-05-31
 
+### GPT i18n 継続バッチ（zh/en 610 件へ）/ GPT i18n continuation batch (zh/en 610 each) / GPT i18n 续跑批次（zh/en 各 610）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-05-31 20:14 JST。
+- **背景**: FinWiki の三語 i18n を GPT/Codex worker で継続。前回の zh/en 483 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加する方針を維持した。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `.cache/jobs/w0..w9/`, `README.md`, `CHANGELOG.md`, `releases/v2026.05.31-3.md`。公開本文 corpus の原文内容は変更せず、機械翻訳 surface と運用記録を更新した。
+- **実行手順**: `bun scripts/prep-parallel.mjs --workers 10 --size 13` で 130 jobs を準備し、10 本の GPT/Codex worker で worker directory 単位に処理した。全 worker 完了後、完了 thread を archive し、`bun scripts/commit-translate.mjs` で placeholder verify + unmask を実行した。
+- **結果**: `commit-translate` は ok=239, needs_review=21, missing=0。累計 i18n は **zh 610 / en 610** へ進捗した。`needs_review` は公開訳文に含めず、次回の増分翻訳 queue に戻す。
+- **検証**: `bun run build` pass (4147 pages built)。`python tools/release.py --check --strict` pass (1411 audited entries, 0 issues, counts in sync)。
+- **既知の注意点**: needs_review の 21 language outputs は placeholder set mismatch のため公開対象外。残り翻訳と review 出力は後続 batch で再処理する。
+- **次の作業**: 次 batch で未翻訳分を継続し、全量完了後に needs_review の反復パターンを prompt / protect rule 側で見直す。
+- **EN**: Continued the GPT/Codex i18n run with 130 source jobs across 10 worker directories. `commit-translate` retained 239 verified language outputs and excluded 21 as `needs_review`; cumulative i18n is now zh 610 / en 610. Validation passed: Astro build 4147 pages and release strict check clean.
+- **中文**: 继续用 GPT/Codex 跑 i18n，本轮 10 个 worker 处理 130 个源条目。`commit-translate` 保留 239 个通过校验的语言输出，21 个作为 `needs_review` 排除；累计 i18n 进度到 zh 610 / en 610。验证通过：Astro 构建 4147 页，release strict check 通过。
+
 ### 公開ルート・カバーホームページ導入 / Public root cover homepage / 公开根入口封面主页
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-05-31 18:35 JST。
