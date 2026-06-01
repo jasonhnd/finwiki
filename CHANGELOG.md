@@ -31,6 +31,18 @@
 
 ## 2026-06-02
 
+### deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制
+
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-02 01:22 JST。
+- **背景**: `v2026.06.02` の GitHub Actions run は成功し、当初の Node.js 20 deprecation annotation は消えた。一方で `actions/deploy-pages@v5` の内部依存から Node.js 24 上で `DEP0040 punycode` deprecation warning が標準ログに残ったため、公開 deployment log の警告ノイズとして追加整理した。
+- **範囲**: `.github/workflows/deploy.yml`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02-2.md`、release-generated discovery surfaces。wiki 本文と i18n corpus は変更なし。
+- **主要変更**: deploy job の `actions/deploy-pages@v5` step にだけ `NODE_OPTIONS: --no-deprecation` を設定し、上流 action 由来の Node deprecation notice を抑制した。action version は v5 のまま維持し、checkout / upload / deploy の Node.js 24 runtime 世代は維持する。
+- **検証結果**: `bun run build` は 4147 pages 生成で PASS。`python tools/check_duplicate_html_ids.py site/dist` は `checked=4147 duplicate_id_pages=0 duplicate_ids=0` で PASS。`python tools/release.py --check --strict` は counts sync / JSON valid / LF endings OK で PASS。`git diff --check` と CRLF check (`w/crlf` count 0) も PASS。push 後に Actions log で `Node.js 20`、`DEP0040`、`deprecation` が消えたことを確認する。
+- **残タスク**: push 後に deployment 成功、公開サイト 200、`llms.txt` counts 反映を確認する。
+- **EN**: The `v2026.06.02` workflow run succeeded and removed the original Node.js 20 runtime annotation, but `actions/deploy-pages@v5` still printed an upstream Node `DEP0040 punycode` warning under Node 24. This follow-up scopes `NODE_OPTIONS=--no-deprecation` to the deploy action step only, keeping the latest Pages actions while removing the public log noise. Local validation passed with a 4147-page build, duplicate_id_pages=0 / duplicate_ids=0, release strict check OK, whitespace check OK, and CRLF count 0; remote log validation follows after push.
+- **中文**: `v2026.06.02` 的 workflow 已成功，原来的 Node.js 20 runtime annotation 已消失，但 `actions/deploy-pages@v5` 在 Node 24 下仍输出上游 `DEP0040 punycode` warning。本次 follow-up 只在 deploy action step 范围设置 `NODE_OPTIONS=--no-deprecation`，保留最新版 Pages actions，同时清理公开日志噪音。本地验证已通过：4147 页 build、duplicate_id_pages=0 / duplicate_ids=0、release strict OK、空白检查 OK、CRLF count 0；远端日志验证会在 push 后完成。
+
 ### CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate
 
 #### 日本語記録 / English / 中文
