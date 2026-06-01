@@ -31,6 +31,20 @@
 
 ## 2026-06-01
 
+### GPT i18n 翻訳バッチ継続・zh/en 1273 件へ / GPT i18n continuation batch (zh/en 1273 each) / GPT i18n 翻译续跑（zh/en 各 1273）
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-01 12:33 JST。
+- **背景**: zh/en 1143 release 後も、全量 1380 entries 完了へ向けてユーザー指定どおり Sonnet ではなく GPT/Codex worker で i18n batch を継続した。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `.cache/jobs/w0..w9/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.01-5.md`。公開済み wiki 原文本文は変更せず、機械翻訳 surface と release / discovery 記録だけを更新した。
+- **実行手順**: `bun scripts/prep-parallel.mjs --workers 10 --size 13` で 130 jobs を準備し、10 本の GPT/Codex workers で worker directory 単位に処理した。w1 / w4 / w6 / w7 の不足分は recovery workers に分割し、`online-brokerage` の zh 出力は single-file recovery で補完した。w6 に worker 内部の `.translation-cache.json` が残り job metadata と誤認される状態を検出したため、該当 cache file だけを削除した。`policy-finance/jfc-sme-division-operating-model.md` と `policy-finance/okinawa-development-finance-corp.md` の zh 出力は placeholder が mojibake していたため、翻訳本文を維持したまま `❰id❱` placeholder へ機械的に復元し、`protect.verify` で source placeholder sequence と一致することを確認した。完了済み worker / recovery agents は archive 済み。
+- **結果**: `bun scripts/commit-translate.mjs` は **ok=260, needs_review=0, missing=0**。累計 i18n は **zh 1273 / en 1273** へ進捗した。
+- **検証結果**: `bun run build` pass (4147 pages built)。build 中に Astro glob-loader の duplicate id warning は出るが、今回の公開を止める error ではない。release write / strict check / remote deployment はこの release cycle 内で実施する。
+- **既知の注意点**: 残りは約 107 source entries。次 batch でも GPT/Codex worker、placeholder verify、agent archive、release sync を同じ順序で継続する。
+- **EN**: Continued the GPT/Codex i18n run after the zh/en 1143 release. Prepared 130 jobs, ran 10 GPT/Codex workers, split the w1 / w4 / w6 / w7 gaps into recovery workers, removed one stray worker `.translation-cache.json`, and mechanically restored mojibake placeholder tokens in two zh policy-finance outputs before verifying them against the source placeholder sequence. `commit-translate` finished with ok=260, needs_review=0, missing=0; cumulative i18n is now zh 1273 / en 1273. Astro build passed with 4147 pages.
+- **中文**: 在 zh/en 1143 发布后，继续按用户要求使用 GPT/Codex worker，而不是 Sonnet，处理下一轮 i18n。已准备 130 个 jobs，启动 10 个 GPT/Codex worker；w1 / w4 / w6 / w7 的缺口拆给 recovery worker；删除一个误留在 w6 的内部 `.translation-cache.json`；对两个 policy-finance 中文译文中乱码化的 placeholder 做机械复原，并用 source placeholder sequence 校验通过。`commit-translate` 结果为 ok=260、needs_review=0、missing=0，累计 i18n 已到 zh 1273 / en 1273。Astro build 通过，生成 4147 页。
+
 ### GPT i18n 翻訳バッチ継続・zh/en 1143 件へ / GPT i18n continuation batch (zh/en 1143 each) / GPT i18n 翻译续跑批次（zh/en 各 1143）
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-01 11:35 JST。
