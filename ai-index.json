@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-02T01:13:10+09:00",
+  "generated_at": "2026-06-02T08:51:44+09:00",
   "counts": {
-    "markdown_files": 1461,
-    "public_markdown_pages": 1460,
-    "site_urls_in_sitemap": 1461,
+    "markdown_files": 1462,
+    "public_markdown_pages": 1461,
+    "site_urls_in_sitemap": 1462,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9890962,
-    "word_like_tokens": 1571956
+    "nonspace_utf8_chars": 9896519,
+    "word_like_tokens": 1572960
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-02",
+        "i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复",
         "deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制",
         "CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate",
-        "2026-06-01",
-        "三語語彙品質監査・専門語彙 polish / Trilingual lexical-quality audit and specialist wording polish / 三语词汇质量审计与专业语域 polish"
+        "2026-06-01"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 445168,
-      "word_like_tokens": 78528,
+      "nonspace_chars": 447246,
+      "word_like_tokens": 78898,
       "last_modified": "2026-06-02"
     },
     {
@@ -34252,8 +34252,8 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 24875,
-      "word_like_tokens": 3830,
+      "nonspace_chars": 25286,
+      "word_like_tokens": 3911,
       "last_modified": "2026-06-02"
     },
     {
@@ -75048,6 +75048,33 @@
       "markdown_links": [],
       "nonspace_chars": 3465,
       "word_like_tokens": 626,
+      "last_modified": "2026-06-02"
+    },
+    {
+      "source_path": "releases/v2026.06.02-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.02-3",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-3.md",
+      "title": "i18n 残存レビュー完了と語彙破損修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-06-02 JST の FinWiki i18n 品質仕上げリリースです。全量 zh/en 1380 件完了後に残っていた fidelity: needs_review 54 件を解消し、公開 i18n surface をレビュー残 0 の状態へ戻しました。",
+      "headings": [
+        "i18n 残存レビュー完了と語彙破損修復",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 3068,
+      "word_like_tokens": 553,
       "last_modified": "2026-06-02"
     },
     {

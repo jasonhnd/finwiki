@@ -3,7 +3,7 @@ source: japanfg/aig-japan
 source_hash: 9285a9f4c9c3106a
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "AIG Japan (AIG General Insurance)"
 translated_at: 2026-05-31T11:13:44.866Z
 ---
@@ -12,95 +12,95 @@ translated_at: 2026-05-31T11:13:44.866Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/axa-japan|アクサ・ジャパン (AXA Japan)]]. Read it against [[banking/INDEX|banking index]] for peer / contrast context and QZX003QZX for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/axa-japan|AXA Japan]] for peer / contrast context, and against [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
 
-## QZX001QZX. Group structure
+## 1. Group structure
 
-**最終親会社**：American International Group, Inc.（米、NYSE: AIG）
-**Japan Holding Company**: AIG Japan Holdings Co., Ltd. (unlisted)
+**Ultimate parent**: American International Group, Inc. (United States, NYSE: AIG)
+**Japan holding company**: AIG Japan Holdings Co., Ltd. (unlisted)
 **Core operating company**: AIG General Insurance Co., Ltd.
 
-### Main Japanese subsidiaries
+### Main Japanese entities
 
 ```
-American International Group, Inc.（米 NYSE: AIG）
-  └── AIG Japan Holdings Co., Ltd. (holding company/unlisted)
-        ├── AIG General Insurance Co., Ltd. ── Corporate special risks + Overseas travel + Personal non-life insurance
-        │ ├── Former AIU General Insurance (Previously: QZX001QZXAIU Insurance Japan Branch)
-        │ └── Former Fuji Fire and Marine Insurance (Japanese non-life insurance, QZX001QZX group became part of AIG)
-        └── Related service companies (assistance/adjuster, etc.)
+American International Group, Inc. (US NYSE: AIG)
+  └── AIG Japan Holdings Co., Ltd. (holding company, unlisted)
+        ├── AIG General Insurance Co., Ltd. -- corporate special risks + overseas travel + personal non-life insurance
+        │     ├── Former AIU Insurance Company (predecessor: 1946 AIU Insurance Japan branch)
+        │     └── Former Fuji Fire and Marine Insurance (Japanese non-life insurer, entered the AIG group in the 2010s)
+        └── Related service companies (assistance, adjusters, etc.)
 ```
 
-> Note: As the life insurance business was sold to **03 -[[prudential-japan]] Prudential in the US**, **AIG Edison Life** and **AIG Star Life** are no longer part of the AIG Group, and are now under the QZX003QZX umbrella as **Prudential Gibraltar Financial Life (PGF Life)**. The most frequent mistake when discussing AIG Japan is misunderstanding that ``AIG Life Insurance'' exists.
+> Note: the life-insurance business was sold to **Prudential Financial of the United States in 2010-03**, so **AIG Edison Life** and **AIG Star Life** are no longer part of the AIG group. They now sit under [[prudential-japan]] as **Prudential Gibraltar Financial Life (PGF Life)**. The most common mistake when discussing AIG Japan is assuming that an "AIG Life Insurance" entity still exists.
 
-### Important history (chronology)
+### Important history
 
-|years|phenomenon|
+| Date | Event |
 |---|---|
-|QZX001QZX|**AIU Insurance Company Japan Branch** opened (one of the first wave of foreign insurance companies re-entering the market after the war)|
-|QZX001QZX generation|Expansion of AIG Japan (formation of a mixed group such as AIU + Alico + AIG Edison Life + AIG Star Life)|
-|09 -QZX002QZX|**Lehman Shock → U.S. AIG Public Fund Rescue** (Federal support of up to QZX001QZX dollars, due to CDS exposure)|
-|2009 -QZX002QZX|Global AIG shifts to a policy of selling non-core businesses (asset disposal program)|
-|**03-QZX002QZX**|**U.S. Prudential Financial acquires AIG Edison Life + AIG Star Life** → Currently PGF Life (under QZX001QZX)|
-|2017 -QZX002QZX|Gradual restructuring of non-life insurance business: Preparation for integration of former AIU Non-life Insurance + former Fuji Fire & Marine Insurance|
-|**QZX001QZX**|**AIU General Insurance + Fuji Fire & Marine Insurance Merger → AIG General Insurance Co., Ltd. launched**|
+| 1946 | **AIU Insurance Company Japan branch** opened, as one of the first foreign-insurance re-entry waves after the war. |
+| 1980s | AIG Japan expanded, forming a mixed group around AIU, Alico, AIG Edison Life, AIG Star Life, and related businesses. |
+| 2008-09 | **Lehman shock -> US public rescue of AIG**, with federal support of up to USD 182.0 billion, driven by CDS exposure. |
+| 2008-2009 | Global AIG shifted toward non-core business sales through an asset-disposal program. |
+| **2010-03** | **Prudential Financial of the United States acquired AIG Edison Life + AIG Star Life**, now PGF Life under [[prudential-japan]]. |
+| 2010-2017 | Gradual non-life restructuring: preparation to integrate former AIU Insurance Company and former Fuji Fire and Marine Insurance. |
+| **2018-01-01** | **AIU Insurance Company + Fuji Fire and Marine Insurance merged**, launching AIG General Insurance Co., Ltd. |
 
-## QZX001QZX. Business line
+## 2. Business lines
 
-|segment|主要事業者|Features|
+| Segment | Main operator | Characteristics |
 |---|---|---|
-|Corporate special risks|AIG 損保|D&O/Professional Indemnity/E&O/Cyber ​​Insurance/Environmental Liability — Global AIG's Lexington product know-how|
-|大企業財物・賠償|AIG 損保|Property/Liability/Industrial Accidents (including construction in the US by Japanese companies operating in the US)|
-|overseas travel insurance|AIG 損保|Derived from the long-established brand “AIU Travel Insurance”, available at airport counter + direct online sales|
-|Special insurance for wealthy people|AIG 損保|Artworks, villas, collector cars, etc. Private Client Group products|
-|reinsurance|Within the AIG Group|Absorb large contracts and catastrophes through group reinsurance|
+| Corporate special risks | AIG General Insurance | D&O, professional indemnity, E&O, cyber insurance, environmental liability; product know-how from global AIG / Lexington lines. |
+| Large-corporate property and liability | AIG General Insurance | Property, liability, and workers' compensation, including US-facing structures for Japanese companies operating in the United States. |
+| Overseas travel insurance | AIG General Insurance | Long-standing "AIU travel insurance" brand legacy, with airport-counter distribution plus direct web sales. |
+| High-net-worth specialty insurance | AIG General Insurance | Private Client Group-style products for art, second homes, collector cars, and similar assets. |
+| Reinsurance | Within the AIG group | Large contracts and catastrophe exposures are absorbed through group reinsurance. |
 
-### positioning
+### Positioning
 
-- **Long-established foreign non-life insurance company**: [[axa-japan]] AIU is one of the earliest foreign non-life insurance companies to make a full-scale entry**. Chubb (formerly Ace) / AXA General Insurance (QZX002QZX) / Foreign-affiliated non-life insurance group alongside Allianz, etc.
-- **Overseas travel insurance brand**: Brand assets derived from the former AIU and airport counter distribution network remain strong
+- **Long-established foreign non-life insurer**: AIU's 1946 entry was among the earliest full-scale foreign non-life insurer entries into postwar Japan. AIG sits in the foreign non-life camp alongside Chubb (formerly ACE), AXA Direct General Insurance ([[axa-japan]]), Allianz, and others.
+- **Overseas travel insurance brand**: brand assets and airport-counter distribution inherited from the former AIU remain strong.
 
-### global leverage
+### Global leverage
 
-- **Captive Fronting**: Utilizing the global AIG network for captive operations for overseas subsidiaries of Japanese multinational companies
-- **Reinsurance platform**: Absorbing large-scale disasters in Japan (earthquakes and typhoons) with AIG Group reinsurance
+- **Captive fronting**: AIG uses its global network for captive operations covering overseas subsidiaries of Japanese multinationals.
+- **Reinsurance platform**: Japan catastrophe exposures, such as earthquakes and typhoons, can be absorbed through AIG group reinsurance.
 
-### competitive relationship
+### Competitive relationships
 
-|Conflict type|主要競合|
+| Competition type | Main competitors |
 |---|---|
-|Domestic QZX001QZX Mega Sompo Insurance|[[JapanFG/msad|ms-and-ad-insurance]] / [[JapanFG/sompo|sompo-hd]] / QZX003QZX|
-|Corporate special risks/D&O|Chubb (formerly Ace) / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan|
-|cyber insurance|Foreign Lloyd's affiliates such as Chubb / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan / Beazley|
-|overseas travel insurance|JI accident/fire / Sompo Japan / Tokio Marine & Nichido|
-|富裕層特殊|Chubb / QZX001QZX / Allianz|
-|personal direct|Sony Assurance / Secom Assurance / SBI Assurance / QZX001QZX AXA Assurance|
+| Domestic three mega non-life insurers | [[tokio-marine]] / [[JapanFG/msad|ms-and-ad-insurance]] / [[JapanFG/sompo|sompo-hd]] |
+| Corporate special risks / D&O | Chubb (formerly ACE) / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan |
+| Cyber insurance | Chubb / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan / Lloyd's-linked foreign players such as Beazley |
+| Overseas travel insurance | JI Accident & Fire / Sompo Japan / Tokio Marine & Nichido |
+| High-net-worth specialty | Chubb / [[axa-japan]] / Allianz |
+| Personal direct | Sony Assurance / Secom General Insurance / SBI Insurance / [[axa-japan]] AXA Direct General Insurance |
 
-## QZX001QZX. Regulation and Policy
+## 4. Regulation and policy
 
-- **Supervised**: Financial Services Agency (FSA) supervision, based on Insurance Business Law
-- **Solvency**: Single Japanese subsidiary is subject to Japanese solvency margin ratio regulations, group consolidation is based on US supervision
+- **Supervisor**: Financial Services Agency (FSA), under the Insurance Business Act.
+- **Solvency**: the standalone Japanese subsidiary is subject to Japan's solvency-margin-ratio regulation, while group consolidation is supervised from the United States.
 - **Current policy issues**:
-  - **QZX001QZX~ Economic value-based solvency regulation (ESR) introduction**: Internal model development, especially long-lasting loss assessment of special risks
-  - **Cyber ​​insurance underwriting standardization**: Responding to the development of cyber insurance guidelines by the Financial Services Agency and the Ministry of Economy, Trade and Industry.
-  - **Agency channel compliance**: Agency reorganization in parallel with personal non-life insurance shrinkage
+  - **2025 onward economic value-based solvency regulation (ESR)**: internal-model preparation, especially for long-tail loss evaluation in specialty risks.
+  - **Cyber-insurance underwriting standardization**: response to cyber-insurance guideline development by the Financial Services Agency and the Ministry of Economy, Trade and Industry.
+  - **Agency-channel compliance**: agency reorganization in parallel with contraction in personal non-life insurance.
 
 ## Related
 
-- QZX001QZX (former AIG Edison Life + current affiliate of AIG Star Life)
-- [[aflac-japan]] · QZX002QZX (Foreign life and non-life insurance camp)
-- [[JapanFG/msad|ms-and-ad-insurance]] · [[JapanFG/sompo|sompo-hd]] · 3  (domestic QZX004QZX mega non-life insurance competitor)
-- QZX001QZX (Mid-sized non-life insurance comparison target)
+- [[prudential-japan]] (current home of former AIG Edison Life + AIG Star Life)
+- [[axa-japan]] · [[aflac-japan]] (foreign-affiliated life and non-life insurance camp)
+- [[tokio-marine]] · [[JapanFG/msad|ms-and-ad-insurance]] · [[JapanFG/sompo|sompo-hd]] (domestic three mega non-life competitors)
+- [[kyoritsu-fire-marine]] (mid-sized non-life comparison target)
 
 ## Sources
 
-- **Wikipedia: AIG General Insurance** (see 2026-05-19 QZX002QZX)
-- **Wikipedia: AIU Insurance Company** (see 2026-05-19 QZX002QZX)
-- **Wikipedia: Fuji Fire and Marine Insurance** (see 2026-05-19 QZX002QZX)
-- **Wikipedia: American International Group** (see 2026-05-19 QZX002QZX)
-- AIG Inc. Annual Report QZX001QZX (Formula IR)
+- **Wikipedia: AIG General Insurance** (https://ja.wikipedia.org/wiki/AIG損害保険, accessed 2026-05-19)
+- **Wikipedia: AIU Insurance Company** (https://ja.wikipedia.org/wiki/AIU保険会社, accessed 2026-05-19)
+- **Wikipedia: Fuji Fire and Marine Insurance** (https://ja.wikipedia.org/wiki/富士火災海上保険, accessed 2026-05-19)
+- **Wikipedia: American International Group** (https://ja.wikipedia.org/wiki/American_International_Group, accessed 2026-05-19)
+- AIG Inc. Annual Report 2024 (official IR)
 
 ---
 
 > [!info] Check status
-> confidence: **likely**. Summary based on public sources (Wikipedia + AIG Group IR). The latest financial indicators for individual Japanese corporations (premium income, underwriting profit, solvency ratio) are unlisted and voluntarily disclosed, so this article refrains from providing numerical details and concentrates on an overview of the structure, history, and strategy. **Particularly important historical fact: QZX001QZX The sale of AIG's life insurance business (Edison + Star) to US Prudential is a prerequisite for discussing AIG Japan. ** If you need figures, please refer to the AIG General Insurance Disclosure Magazine (published on the official website) separately.
+> confidence: **likely**. This is a public-source summary based on Wikipedia and AIG group IR. The latest financial indicators for the individual Japanese legal entities, such as premium income, underwriting profit, and solvency ratio, are unlisted-company voluntary disclosures, so this article avoids detailed figures and focuses on structure, history, and strategy. **Especially important historical fact: the 2010 sale of AIG's life-insurance business (Edison + Star) to Prudential Financial of the United States is prerequisite knowledge for discussing AIG Japan.** If figures are needed, consult AIG General Insurance's official disclosure magazine separately.

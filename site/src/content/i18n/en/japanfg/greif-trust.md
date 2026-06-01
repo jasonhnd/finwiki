@@ -3,7 +3,7 @@ source: japanfg/greif-trust
 source_hash: de33f641697b836d
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Greif Trust"
 translated_at: 2026-05-31T15:29:03.932Z
 ---
@@ -13,7 +13,7 @@ Wiki route: [[JapanFG/INDEX|JapanFG index]] -> [[JapanFG/trust-companies-japan-i
 
 ## Overview
 
-Greif Trust is a trust-company entry associated with the Chugoku Local Finance Bureau register. In FinWiki it functions as a regional trust-company route, useful beside [[JapanFG/trust-companies-japan-index|Japan trust companies registry index]] and other non-bank trust-company profiles.
+Greif Trust is a trust-company entry associated with the Chugoku Finance Bureau register. In FinWiki it serves as a regional trust-company route, useful alongside [[JapanFG/trust-companies-japan-index|Japan trust companies registry index]] and other regional trust-company profiles.
 
 ## Entity boundary
 
@@ -30,7 +30,7 @@ This page covers Greif Trust Co., Ltd. Public materials also mention financial-i
 
 ## Public context
 
-Greif Trust helps show that Japan's trust-company registry contains regional and multi-office operators, not only bank groups, housing groups, or professional-service boutiques.
+Greif Trust helps show that Japan's trust-company registry includes regional and multi-office operators, not only bank groups, housing groups, or professional-service boutiques.
 
 ## Research checklist
 
@@ -41,12 +41,12 @@ Greif Trust helps show that Japan's trust-company registry contains regional and
 ## Related
 
 - [[JapanFG/trust-companies-japan-index]]
-- [[JapanFG/capital-trust]]
-- [[JapanFG/yamada-escrow-trust]]
-- [[JapanFG/hogaraka-trust]]
-- [[JapanFG/starts-trust]]
+- [[JapanFG/sumire-regional-trust]]
+- [[JapanFG/miyoshi-smile-trust]]
+- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA trust-company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku.xlsx
+- FSA trust-company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
 - Greif Trust company profile: https://www.greif-trust.com/company/

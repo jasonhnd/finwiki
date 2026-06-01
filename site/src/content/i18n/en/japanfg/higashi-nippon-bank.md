@@ -3,7 +3,7 @@ source: japanfg/higashi-nippon-bank
 source_hash: 956bf8e053ab8fd6
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Higashi-Nippon Bank"
 translated_at: 2026-05-31T15:29:03.932Z
 ---

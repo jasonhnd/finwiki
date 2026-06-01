@@ -3,218 +3,218 @@ source: insurance/sony-life-group-life-operating-model
 source_hash: 4d0c6c2224ce33f2
 lang: zh
 status: machine
-fidelity: needs_review
-title: "Sony Life 团体生活和 Lifeplanner 运营模式"
+fidelity: ok
+title: "Sony Life 的团体寿险与 Lifeplanner 运营模式"
 translated_at: 2026-05-31T11:13:44.865Z
 ---
 
-# Sony Life 团体生活和 Lifeplanner 运营模式
+# Sony Life 的团体寿险与 Lifeplanner 运营模式
 
-## 维基路线
+## Wiki 路由
 
-此条目位于 [[JapanFG/sony-life|Sony Life]] 下，是 [[insurance/life-insurance-channel-mix|life insurance channel mix]] 的渠道/操作模型深入探讨。与 [[insurance/japan-life-insurance-big-four|Japan life big four]] 一起阅读，了解代理与银保与直营的宏观框架，与 [[insurance/internet-life-insurance-business-model|internet life business model]] 进行传统销售代理对比，与 [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] 进行数字直接对比，与 [[JapanFG/sony-fg|Sony Financial Group]] 进行法律形式镜头（索尼人寿是 [[insurance/economic-value-based-solvency|economic-value solvency]] 下的股份公司），与 QZX008QZX 进行数字直接对比。监管资本框架适用于仅限 Lifeplanner 的渠道。
+本条目位于 [[insurance/INDEX|insurance index]]，是 [[JapanFG/sony-life|Sony Life]] 渠道与运营模式的深挖页面。建议与 [[insurance/life-insurance-channel-mix|life insurance channel mix]] 一起阅读，以把握代理人、银保与直销的大框架；与 [[insurance/japan-life-insurance-big-four|Japan life big four]] 一起阅读，以理解传统销售职员体系的对照；与 [[insurance/internet-life-insurance-business-model|internet life business model]] 一起阅读，以理解数字直销对照；与 [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] 一起阅读，以理解法律形态视角（Sony Life 是 [[JapanFG/sony-fg|Sony Financial Group]] 旗下的股份制寿险公司）；并与 [[insurance/economic-value-based-solvency|economic-value solvency]] 一起阅读，以理解仅依赖 Lifeplanner 渠道时的监管资本框架。
 
-索尼 FG 重新收购上下文在 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] 和 [[finance/japan-listed-financial-groups-investable-universe]] 中捕获。可投资宇宙上下文位于 QZX003QZX 中。
+Sony FG 被重新私有化的背景，见 [[JapanFG/sony-fg|Sony FG]] 与 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]；可投资 universe 的背景，见 [[finance/japan-listed-financial-groups-investable-universe]]。
 
-## 长话短说
+## TL;DR
 
-索尼人寿经营着一家股份公司人寿保险公司，其分销几乎完全建立在捆绑的 Lifeplanner 财务顾问以及向企业员工销售雇主赞助保险的“团体人寿”渠道的基础上。这与 [[insurance/internet-life-insurance-business-model|internet life models]] 形成鲜明对比，[[insurance/internet-life-insurance-business-model|internet life models]] 的默认渠道是与银行保险和企业代理机构相结合的女性销售代表力量（生保配），而 QZX002QZX 的默认渠道是没有人工咨询层的网站。
+Sony Life 是一家股份制寿险公司，其分销几乎完全建立在专属的 Lifeplanner 财务顾问体系之上，并辅以销售面向企业员工的“团体寿险”渠道。这与 [[insurance/japan-life-insurance-big-four|四大相互会社寿险]] 明显不同：后者通常以专属女性销售职员网络为默认渠道，并配合银保与企业代理；也与 [[insurance/internet-life-insurance-business-model|互联网寿险模式]] 不同，后者的默认渠道通常是无人工咨询层的网站。
 
-Lifeplanner 渠道被定位为高生产力、咨询性、完全捆绑的销售队伍：人员数量比四大销售代表网络少，但每位顾问的平均新业务 APE 通常较高，并且 25 月 / QZX002QZX 月持续性较高。团体生活渠道增加了低获取成本、雇主支付的有效保费基础，从而平滑了渠道波动。
+Lifeplanner 渠道的定位，是高产能、咨询式、完全专属的销售队伍：人数少于四大寿险的销售职员网络，但通常具有更高的人均新业务 APE，以及更高的 13 个月 / 25 个月保单继续率。团体寿险渠道则提供了一个获客成本较低、由雇主支付或组织型驱动的有效保费基盘，用于平滑渠道波动。
 
-治理由 [[JapanFG/sony-fg|Sony Group Corporation]] 负责，[[JapanFG/sony-fg|Sony Group Corporation]] 本身是 2021 -QZX004QZX 私有化及后续重组后 2020 的全资子公司。这意味着索尼人寿要向非金融科技集团母公司负责，而不是向上市保险控股公司或互助式保单持有人群体负责，这对于日本许可的同等规模的人寿保险公司来说在结构上是不寻常的。
+治理上，Sony Life 归属于 [[JapanFG/sony-fg|Sony Financial Group]]，后者在 2020-2021 私有化与后续重组之后，成为 [[JapanFG/sony-fg|Sony Group Corporation]] 的全资子公司。这意味着 Sony Life 面对的是一个非金融科技综合集团母公司，而不是上市保险控股公司或相互会社式的保单持有人基础。对一家同等规模的日本持牌寿险公司而言，这种结构相对少见。
 
-### 人生规划频道（捆绑、咨询、个人生活）
+### Lifeplanner 渠道（专属、咨询式、个险）
 
-|场地|人生规划频道|四大销售代表渠道|互联网生活|
+| 项目 | Lifeplanner 渠道 | 四大寿险销售职员渠道 | 互联网寿险 |
 |---|---|---|---|
-|就业|大部分是签约财务顾问，绩效驱动的薪酬|大部分聘用销售代表，基数+佣金|受薪数字营销和呼叫中心员工|
-|招聘人才库|职业生涯中期转行者，通常来自金融、IT 或销售背景|应届毕业生和重返工作人员，大量入职群体|工程、营销、精算|
-|生产力模型|每个生产者的平均 APE 较高；小力|兵力大，人均APE低，地理覆盖范围更广|无制片人；转化漏斗和CAC|
-|持久性配置文件|通常较高的 25 月 / QZX002QZX 月持久性|中等程度的持久性、流失率与招募群体有关|持久性因产品和价格购买行为而异|
-|产品组合|定期、终身、外币、变额、医疗、咨询销售年金|终身寿险、医疗、储蓄、雇主关系附属团体|术语优先、简单的医疗、狭窄的产品菜单|
-|合规开销|大量的每项政策需求分析和适用性文档|标准化脚本、分支机构监督、开展培训|在线披露、算法适用性标记|
+| 用工形态 | 以签约型财务顾问为主，绩效驱动薪酬 | 以雇佣制销售职员为主，底薪 + 佣金 | 以数字营销与呼叫中心雇员为主 |
+| 招募池 | 多为中途转职者，常来自金融、IT、销售背景 | 新毕业生与再就业人群，大规模招募 | 工程、营销、精算背景 |
+| 生产力模型 | 人均 APE 高，队伍较小 | 队伍庞大，人均 APE 低一些，覆盖更广 | 无单个生产者，依赖转化漏斗与 CAC |
+| 继续率特征 | 通常 13 个月 / 25 个月继续率较高 | 继续率中等，流失与招募批次相关 | 继续率更受产品与比价行为影响 |
+| 产品组合 | 以咨询式方式销售定期、终身、外币、变额、医疗、年金等 | 终身、医疗、储蓄、企业关系附带型产品 | 以定期险和简化医疗险为主，产品线较窄 |
+| 合规负担 | 每张保单都需要较重的 needs-analysis 与适合性文件 | 标准化脚本、分支机构监督、行为培训 | 在线披露与算法适合性标记 |
 
-Lifeplanner 频道是 Sony Life 形象的历史核心。经济逻辑是，即使在人均培训和薪酬成本较高的情况下，向大众富裕和小企业家庭销售基于需求的计划的少量高生产力顾问可以比规模较大但生产力较低的顾问提供更好的终生价值。
+Lifeplanner 渠道是 Sony Life 品牌认同的历史核心。其经济逻辑在于：一支人数更少但产能更高的顾问队伍，向大众富裕层与中小企业家庭出售基于需求的保险规划，即便每人培训与薪酬成本更高，仍可能带来更好的长期价值。
 
-### 团体生活频道
+### 团体寿险渠道
 
-日本的团体生活通常包括：
+日本的团体寿险通常覆盖：
 
-- 雇主或工会层面的团体定期寿险，包含雇主或雇员保费；
-- 抵押贷款或消费贷款借款人的团体信用期限；
-- 团体年金/养老金相邻人寿产品（与 DB/DC 退休工具重叠）；
-- 员工储蓄生命附加险附加于从工资中扣除的储蓄计划。
+- 雇主或工会层面的团体定期寿险；
+- 住房贷款或消费贷款借款人的团体信用寿险；
+- 团体年金 / 接近企业年金的寿险产品（与 DB / DC 退休工具有交叉）；
+- 与工资代扣储蓄计划挂钩的员工储蓄型寿险附加险。
 
-团体生活提供：
+团体寿险的价值在于：
 
-- 单位购置成本低——一次承保、一次合同谈判涵盖多个生命；
-- 失效风险相对较低，因为取消需要人力资源部门采取行动或更换雇主；
-- 保费量使个人人生规划师渠道的招聘周期多样化；
-- 一种可以交叉销售到个人 Lifeplanner 介绍中的企业关系资产。
+- 单位获客成本低，一次核保与合同谈判即可覆盖大量被保险人；
+- 解约风险相对较低，因为取消往往需要 HR 动作或雇主变更；
+- 能提供保费体量，分散个险 Lifeplanner 渠道招募周期的波动；
+- 还能沉淀企业关系，再向个人 Lifeplanner 介绍客户。
 
-权衡是，每份保单的团体人寿利润率低于个人寿险规划师的销售，而且企业买家（人力资源/财务）对价格敏感。团体寿险本身并不是新业务价值 (VNB) 的增长引擎，但它是 Lifeplanner 损益表之上的稳定器。
+其代价是：团体寿险单张保单的利润率通常低于个险 Lifeplanner 销售，而且企业采购方（HR / treasury）价格敏感。团体寿险本身通常不是 VNB 的增长引擎，但它是 Lifeplanner 损益表之上的稳定器。
 
-### 频道中明确不存在的内容
+### 渠道中明确“不属于”的部分
 
-- 没有对个人生活的大规模依赖——索尼人寿的品牌定位是捆绑式的Lifeplanner咨询，而不是“我们被许多机构出售”的信息；
-- 相对于四大银行来说，银行保险没有重大推动——索尼人寿可以有选择地使用合作银行分销，但这不是渠道身份；
-- 索尼人寿实体层面没有互联网直销零售品牌——母公司的数字直销人寿子公司是独立的机构，拥有自己的 QZX001QZX 许可。
+- 个险并不大规模依赖 [[insurance/insurance-agency-and-brokerage-japan|independent-agency or hoken-shop]]。Sony Life 的品牌定位是专属 Lifeplanner 咨询，而不是“在大量代理网点均可销售”。
+- 相比四大寿险，没有明显的银保主推渠道。Sony Life 可选择性使用合作银行分销，但这不是其渠道 identity。
+- Sony Life 实体层面没有互联网直销零售品牌。母集团若存在数字直销寿险子公司，也会作为独立牌照载体存在，参见 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
 
-## 外国科技母公司治理
+## 非金融科技母公司的治理结构
 
-[[JapanFG/sony-fg|Sony Group Corporation]] 位于索尼人寿（以及索尼保险公司、索尼银行）和 QZX002QZX（一家全球上市的消费电子、半导体和娱乐集团）之间。以下是三个治理含义：
+[[JapanFG/sony-fg|Sony Financial Group]] 位于 Sony Life（以及 Sony Assurance、Sony Bank）与 [[JapanFG/sony-fg|Sony Group Corporation]] 之间。后者是全球上市的消费电子、半导体与娱乐集团。由此带来三点治理含义：
 
-[[JapanFG/nippon-life|Nippon Life]]。 **非金融集团所有权**。与 [[JapanFG/meiji-yasuda|Meiji Yasuda]]、[[JapanFG/sumitomo-life|Sumitomo Life]] 或 [[JapanFG/dai-ichi-life|Dai-ichi Life]]（由投保人代表管理的共同公司）和 QZX005QZX（上市保险控股）不同，索尼人寿的最终所有者是一家科技/娱乐集团。资本配置、股息上游、IT 投资和品牌战略均根据母公司集团的优先事项进行协商。
-2020。 **保险子公司层面的有限公开股权纪律**。索尼集团公司私有化2021 -[[JapanFG/dai-ichi-life|Dai-ichi Life]]后，索尼金融控股不再是单独上市的股权。公开股权纪律（卖方分析师对保险经济学、股息信号、评级机构对话的报道）现在适用于母公司索尼集团层面，而不是直接适用于索尼人寿或索尼 FG。这与 QZX004QZX 的上市保险公司模型存在重大差异。
-[[insurance/economic-value-based-solvency|economic-value solvency]]。 **监管范围不变**。 FSA 继续根据《保险业务法》对索尼人寿进行许可和监管，[[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency obligations]] 制度适用，ICS 报告适用于相关指定保险集团，QZX003QZX 不会因母公司重新收购而发生变化。
+1. **非金融综合集团持有**。不同于 [[JapanFG/nippon-life|Nippon Life]]、[[JapanFG/meiji-yasuda|Meiji Yasuda]]、[[JapanFG/sumitomo-life|Sumitomo Life]] 这类由保单持有人代表治理的相互会社，也不同于 [[JapanFG/dai-ichi-life|Dai-ichi Life]] 这类上市保险控股，Sony Life 的最终所有者是科技 / 娱乐集团。因此，资本配置、利润上划、IT 投资和品牌策略，都会与母集团优先事项协商。
+2. **保险子公司层面的公开股权约束有限**。在 2020-2021 私有化完成后，Sony Financial Holdings 不再单独上市。卖方分析、分红信号、评级机构对保险经济性的对话，更多作用于 Sony Group 层面，而不再直接作用于 Sony Life 或 Sony FG。这与 [[JapanFG/dai-ichi-life|Dai-ichi Life]] 的上市保险人模式存在实质差异。
+3. **监管边界未改变**。FSA 仍依据《保险业法》对 Sony Life 发牌并监管；[[insurance/economic-value-based-solvency|economic-value solvency]] 仍然适用；相关保险集团若被指定，ICS 报送也仍会适用；[[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency obligations]] 不因母公司私有化而改变。
 
-外国科技母公司的治理为索尼人寿提供了共同同行无法进行的资本配置对话（没有投保人代表委员会），以及上市同行无法进行的市场纪律对话（没有独立的保险股价信号）。在评估 ESR 敏感性和股息上游能力时，两者都与 QZX001QZX 一起读取。
+因此，Sony Life 同时拥有相互会社同业所没有的资本配置讨论空间，也拥有上市同业所没有的“缺乏独立保险股价信号”的市场纪律特征。分析其 ESR 敏感度与利润上划能力时，通常需要与 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] 一起看。
 
-## 索尼 FG 重新收购和资本架构
+## Sony FG 重新私有化后的资本架构
 
-索尼金融控股公司作为独立实体上市，直到索尼集团公司完成 2021, -QZX002QZX 的要约收购和挤出，将 SFH 私有化并将其重新整合为全资子公司。资本架构的后果：
+Sony Financial Holdings 在 2020-2021 被 Sony Group Corporation 完成 TOB 与 squeeze-out 之前，原本是单独上市公司。其后被重新纳入为全资子公司。资本架构上的后果包括：
 
-- 上菲控股单独上市股权消失； SFH 特定经济状况的股票市场分析现在通过索尼集团公司的合并报告进行；
-- 索尼人寿股息通过索尼 FG 控股向上流向索尼集团公司；
-- 集团内部资本强化（从母公司到保险子公司）在结构上比必须考虑少数股东的上市保险同行更简单；
-- FSA 层面的监管范围没有变化——索尼人寿仍然是根据《保险业务法》获得日本许可的保险公司，ESR 适用，并且 ORSA 式的风险和偿付能力自我评估仍在继续。
+- SFH 独立上市股权消失，针对 SFH 保险经济性的股权市场分析，转而通过 Sony Group Corporation 合并报表体现；
+- Sony Life 的利润上划通过 Sony FG 控股流向 Sony Group Corporation；
+- 若母公司向保险子公司追加资本，由于无少数股东约束，其结构上比上市保险同业更简单；
+- FSA 层面的监管边界并未改变。Sony Life 仍是日本持牌寿险公司，ESR 适用，类似 ORSA 的风险与偿付能力自评继续进行。
 
-与上市同行 [[JapanFG/nippon-life|Nippon Life]] 的资本架构差异在于，第一生命保险在其保险经济方面面临直接的股票市场纪律，而索尼人寿则面临通过更广泛的索尼集团公司调解的间接纪律。与互助同行（[[JapanFG/meiji-yasuda|Meiji Yasuda]]、[[JapanFG/sumitomo-life|Sumitomo Life]]、QZX004QZX）的资本架构差异在于，互助保险公司将 ALM 转化为受互助程序管辖的保单持有人股息，而索尼人寿将 ALM 转化为受索尼集团商业考虑管辖的集团内资本流动。
+与上市同业 [[JapanFG/dai-ichi-life|Dai-ichi Life]] 相比，差异在于后者直接面对股权市场对保险经济性的定价，而 Sony Life 面对的是由更大 Sony Group 吸收和转译后的间接纪律。与相互会社同业（[[JapanFG/nippon-life|Nippon Life]]、[[JapanFG/meiji-yasuda|Meiji Yasuda]]、[[JapanFG/sumitomo-life|Sumitomo Life]]）相比，差异在于相互会社更倾向于把 ALM 成果转换为保单红利，而 Sony Life 更可能表现为集团内资本流动。
 
-## 持久性和 FA 生产力
+## 继续率与 FA 生产力
 
-对于仅提供 Lifeplanner 的保险公司来说，有两个指标主导着运营情况：
+对于以 Lifeplanner 为主的寿险公司，两个指标尤其关键：
 
-|公制|为什么这很重要|一起阅读|
+| 指标 | 重要性 | 应结合阅读 |
 |---|---|---|
-|QZX001QZX-月坚持|掌握第一个合同年的保单生存情况；持久性弱意味着向不坚持的业务支付佣金|QZX001QZX 中的通道组合比较|
-|QZX001QZX-月坚持|当介绍性定价或佣金结构结束时，抓住典型的“第二年悬崖”的生存机会|与四大QZX001QZX比较|
-|每个人生规划师的新业务 APE|每个生产者的生产率；协商渠道争论的标题|QZX001QZX生产力结构不同|
-|人生规划师人数和招聘流失率|较小的兵力会放大任何队列招募冲击|与规模大得多的四大销售代表队伍相比|
-|越南央行保证金|每个 APE 的新业务价值 — 咨询渠道索赔必须转换为 VNB|QZX001QZX 解释了 VNB / ESR 为何重要|
-|按产品线划分的放弃和失败率|外币和可变产品通常对外汇和股票走势具有较高的失效敏感性|QZX001QZX|
+| 13 个月继续率 | 衡量保单能否穿越首个保单年度；继续率差意味着前期佣金支付对应的业务未能留存 | [[insurance/life-insurance-channel-mix|life insurance channel mix]] |
+| 25 个月继续率 | 衡量能否跨过常见的“第二年悬崖” | [[insurance/japan-life-insurance-big-four|四大寿险披露]] |
+| 每名 Lifeplanner 的新业务 APE | 反映单个生产者效率，是咨询式渠道论点的核心 | [[insurance/internet-life-insurance-business-model|互联网模式]] 的生产率结构不同 |
+| Lifeplanner 人数与招募流失 | 队伍较小意味着任何一批次招募冲击都会被放大 | 需对照四大寿险更庞大的销售职员网络 |
+| VNB margin | 每单位 APE 对应的新业务价值；咨询式渠道的主张必须体现在 VNB 上 | [[insurance/economic-value-based-solvency|Economic-value solvency]] 有助于理解 VNB / ESR |
+| 分产品退保 / 失效率 | 外币与变额产品对汇率和权益波动通常更敏感 | [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] |
 
-仅限 Lifeplanner 的渠道似乎可以比广义的销售代表渠道维持更高的持久性，因为：
+Lifeplanner-only 渠道理论上更可能维持高继续率，原因包括：
 
-- 顾问有动力保持保单有效（续保补偿、多保单家庭关系）；
-- 买方通常会进行多次会议的需求分析，以减少买方后悔取消订单的情况；
-- 顾问渠道是唯一的关系层，因此客户无法轻松地通过竞争机构传递保单。
+- 顾问有动力让保单持续生效（续期报酬、多保单家庭关系）；
+- 购买者通常经历多次面谈与需求分析，减少“买后后悔”；
+- 顾问是唯一关系层，客户不容易把保单转交给其他代理渠道。
 
-但该模型存在结构性脆弱性：
+但这一模式也有结构性脆弱点：
 
-- 较小的力量将业务集中在较少的生产商中——顶级生产商的流失是真正的收入冲击；
-- 招聘中期职业顾问必须与银行、证券、IFA 平台和科技公司竞争同一人群；
-- 外币产品组合（出售给在日本国债曲线之外寻求收益的大众富裕家庭）产生了ESR敏感性，而相互资产负债表并不总是具有相同程度的敏感性。
+- 队伍较小，业务集中于较少生产者，顶尖顾问流失会形成真实收入冲击；
+- 中途转职顾问的招募，需要与银行、证券、IFA 平台和科技企业争夺同一类人群；
+- 外币产品占比较高时，在低日元利率环境下追求收益的策略，会带来某些相互会社同业不完全相同的 ESR 敏感度。
 
-## 与四大销售代理模式的比较
+## 与四大寿险销售职员模型的比较
 
-|轴|仅限 Sony Life Lifeplanner|四大相互销售代表模式|
+| 维度 | Sony Life 仅 Lifeplanner 模型 | 四大相互会社销售职员模型 |
 |---|---|---|
-|销售队伍规模|小/中（个位数千）|大型（某些同行中每家公司数以万计）|
-|渠道所有权|捆绑顾问力量加上团体生活|捆绑销售代表队伍加上集团/企业加上银行保险加上合作伙伴机构|
-|地理覆盖范围|集中于大都市/大众富裕市场|全国分支机构和代表覆盖范围，包括区域性|
-|按政策经济学|每个生产商的 APE 越高，每个生产商的成本越高|每个生产商的 APE 较低，每个生产商的成本较低|
-|持久性声明|较高的 25M / QZX002QZXM 通常公开|混合；取决于群组和渠道|
-|品牌定位|协商性、基于计划、大众富裕|基于关系、家庭、大众市场|
-|治理|非金融母公司的股份子公司|保单持有人代表相互治理（日本保险、明治安田保险、住友保险）或上市保险控股（第一保险）|
+| 销售队伍规模 | 小到中型（单千位数级） | 大型（部分同业达到数万） |
+| 渠道归属 | 专属顾问队伍 + 团体寿险 | 专属销售职员 + 团体 / 企业 + 银保 + 合作代理 |
+| 地理覆盖 | 更集中于都市圈 / 大众富裕层市场 | 全国网点与销售职员覆盖，含地方市场 |
+| 单保单经济性 | 人均 APE 更高，但单生产者成本也更高 | 人均 APE 较低，但单生产者成本也较低 |
+| 继续率主张 | 通常披露较高的 13M / 25M | 取决于批次与渠道，表现更混合 |
+| 品牌定位 | 咨询式、规划型、大众富裕层 | 关系型、家庭型、大众市场 |
+| 治理结构 | 非金融母公司旗下股份制子公司 | 相互会社代表治理（Nippon、Meiji Yasuda、Sumitomo）或上市保险控股（Dai-ichi） |
 
-比较不是“哪种模式更好”，而是“每个保险公司正在优化哪种渠道架构”。 Sony Life 针对特定客户群优化生产力和持久性。四大巨头优化规模、广度和长期关系。两者必须满足相同的 QZX001QZX 制度。
+这不是“哪种模式更好”的比较，而是“各家在优化哪种渠道架构”的比较。Sony Life 优化的是特定客群中的生产率与继续率；四大寿险优化的是规模、广度与长期关系。两者都必须满足同一 [[insurance/economic-value-based-solvency|economic-value solvency]] 制度。
 
-## 团体生活产品机制
+## 团体寿险产品机制
 
-日本的团体人寿保险是一个独特的产品系列，具有自己的精算和合同属性：
+日本的团体寿险是一个独立产品族，具有自身的精算与合同特征：
 
-|产品|力学|承保票据|
+| 产品 | 机制 | 核保说明 |
 |---|---|---|
-|团体定期生活|一份主合同涵盖雇主的劳动力；承保范围通常每年到期并续订|在雇主层面对雇员人口普查数据进行承保；最少的个人选择|
-|团体信用人寿保险|住房或消费贷款借款人的承保范围；借款人死亡或符合资格的残疾时向贷方付款|承保与合作银行或贷方发放的贷款挂钩|
-|缴费型企业年金/团体年金（团体年金/养老金附属生活）|与企业退休计划相关的保险范围；一些结构与 DB 养老金管理重叠|通常与信托银行和养老金顾问共同管理|
-|员工储蓄、工资扣除储蓄|附加到工资扣除储蓄计划的终身附加险|稳定的贡献流量；与就业期限相关的长期持续性|
+| 团体定期寿险 | 一个主合同覆盖雇主员工群体；保障通常按年到期并续保 | 以雇主层面的员工名册核保，个人选择性较低 |
+| 团体信用寿险 | 覆盖住房贷款或消费贷款借款人；借款人死亡或符合条件的残疾时，向贷款机构赔付 | 核保通常与合作银行或放贷方的放款流程绑定 |
+| 团体年金 / 接近企业年金的寿险 | 与企业退休安排相关，部分结构与 DB 年金管理重叠 | 常与信托银行及养老金顾问共同管理 |
+| 员工储蓄 / 工资代扣储蓄附加险 | 作为工资代扣储蓄计划的寿险附加功能 | 现金流稳定，继续率与在职年限相关 |
 
-特别是对于索尼生活来说，团体生活是与 Lifeplanner 频道一起销售的，而不是代替它。企业关系型人生规划师将团体产品引入雇主账户，团体产品创建了有效保费基础，从而平滑了个人人生规划师产品的周期性。
+对 Sony Life 而言，团体寿险是与 Lifeplanner 渠道并行销售，而不是替代关系。具有企业关系的 Lifeplanner 可以把团体产品引入企业账户，而团体产品又会形成平滑个险周期波动的有效保费基盘。
 
-## ESR 和资本结构
+## ESR 与资本结构
 
-索尼人寿在其年度披露书中披露了 ESR/偿付能力边际。由于 Lifeplanner 渠道销售大量外币人寿和可变/年金型产品，索尼人寿的经济价值偿付能力具有：
+Sony Life 在年度披露册中会披露 ESR / 偿付能力边际。由于 Lifeplanner 渠道销售较多外币寿险，以及变额 / 年金型产品，Sony Life 的经济价值基础偿付能力通常会承受：
 
-- 长期日元负债的利率敏感性（与同行类似）；
-- 美元/澳元计价的保险及相应的债券投资组合的外币利率和外汇敏感性；
-- 通过可变产品和任何独立账户风险敞口对股票市场的敏感性；
-- 低日元利率条件下追求收益的信贷配置对信用利差的敏感性。
+- 来自长期日元负债的利率敏感度；
+- 来自 USD / AUD 计价保险与相应债券组合的外币利率与汇率敏感度；
+- 变额产品与独立账户敞口带来的权益市场敏感度；
+- 在低日元利率环境下进行收益追求时形成的信用利差敏感度。
 
-对于资产负债机制，这些风险敞口通过 [[insurance/esr-economic-value-solvency|ESR]] 传递；对于公司比率框架，这些风险敞口通过 QZX002QZX 传递。
+这些敞口在资产负债机制上应结合 [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] 阅读，在公司比率口径上应结合 [[insurance/esr-economic-value-solvency|ESR]] 阅读。
 
-## 索尼FG小组构成
+## Sony FG 集团构成
 
-索尼金融集团不是单一业务保险公司。其周长包括：
+Sony Financial Group 并非单一保险公司，其范围包括：
 
-|子公司|商业|
+| 子公司 | 业务 |
 |---|---|
-|索尼人寿保险|股份制人寿保险公司，设有 Lifeplanner 频道和团体人寿频道|
-|索尼保证|具有直接渠道自动聚焦功能的非寿险公司|
-|索尼银行|网上银行；存款、抵押贷款和经纪交叉销售|
-|索尼人寿保险（菲律宾）、索尼人寿新加坡|选定的海外保险机构取决于披露日期|
+| Sony Life Insurance | 以 Lifeplanner 渠道和团体寿险渠道为主的股份制寿险公司 |
+| Sony Assurance | 以直销车险为重点的财险公司 |
+| Sony Bank | 互联网银行，兼具存款、住房贷款与证券交叉销售 |
+| Sony Life Insurance (Philippines), Sony Life Singapore | 依披露时点而定的部分海外保险据点 |
 
-合并后的索尼 FG 边界具有交叉销售潜力——Life Lifeplanner 客户可以成为银行或保险公司客户；银行客户可以是人生的前景。交叉销售逻辑在操作上受到单独许可（人寿保险、非人寿保险、银行）和 FSA 交叉销售行为规则的限制。集团级资本受 QZX001QZX 监管，并整合到 Sony FG 的控股公司资本框架内。
+Sony FG 的组合带来交叉销售潜力：寿险 Lifeplanner 客户可转化为银行或财险客户，银行客户也可能成为寿险 prospect。但这一逻辑受到牌照分离（寿险、财险、银行）与 FSA 交叉销售行为规则约束。集团资本则在 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] 下管理，并纳入 Sony FG 控股资本框架。
 
-## Lifeplanner渠道国际比较器
+## Lifeplanner 渠道的国际可比对象
 
-寿险规划师/财务顾问模式是一种全球保险架构，并非索尼人寿独有。国际比较器包括：
+Lifeplanner / financial-advisor 模式并非 Sony Life 独有，而是一种全球保险渠道架构。可比对象包括：
 
-|比较器|通道并行|
+| 可比对象 | 渠道平行关系 |
 |---|---|
-|QZX001QZX 人生规划师|美国保德信原装进口日本Lifeplanner频道模板|
-|QZX001QZX个人理财顾问|与银行保险并存的规模较小的顾问队伍|
-|QZX001QZX代理/代理渠道|代理、银保等多渠道|
-|AXA 全球绑定代理商|跨市场的欧洲捆绑代理模式|
-|美国职业代理人寿保险公司（例如 Northwestern Mutual、MassMutual、New York Life）|拥有数十年制作人任期的职业经纪人特许经营权|
+| [[JapanFG/prudential-japan|Prudential Japan]] Lifeplanner | 将美国 Prudential 的 Lifeplanner 模板引入日本的原型 |
+| [[JapanFG/metlife-japan|MetLife Japan]] 个人财务顾问 | 规模较小的专属顾问队伍，与银保并行 |
+| [[JapanFG/manulife-japan|Manulife Japan]] agent / agency channel | 多渠道模式，含代理与银保 |
+| AXA 在全球的 tied agents | 欧洲 tied-agent 模式的跨市场移植 |
+| 美国 career-agent 寿险公司（如 Northwestern Mutual、MassMutual、New York Life） | 长期职业代理人 franchise |
 
-所有这些的经济逻辑都是相同的：小型高生产力力量、多年的客户关系、基于需求的咨询销售、长期坚持。具体的薪酬结构、生产力基准和持久性结果因管辖范围和产品组合而异。交叉比较在 QZX001QZX 中进行。
+这些模式背后的经济逻辑相同：小规模高产能队伍、多年客户关系、基于需求的咨询式销售、较长继续率。具体薪酬结构、生产率基准与继续率结果，则依赖法域与产品结构。跨市场对照可结合 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] 阅读。
 
-## 索尼人寿披露书操作阅读指南
+## Sony Life 披露册的阅读顺序
 
-在阅读 QZX001QZX 的披露书和索尼 FG 财务报告时，请按以下顺序关注披露部分：
+阅读 [[JapanFG/sony-life|Sony Life]] 的 disclosure book 与 Sony FG 财务报告时，可按以下顺序聚焦：
 
-|部分|提取什么|
+| 部分 | 读取重点 |
 |---|---|
-|年度/中期财务亮点|保费收入趋势、新业务APE、有效保单数量|
-|频道汇总|寿险规划师人数、团体寿险保费贡献、渠道组合逐年变化|
-|持久性表|按产品线和渠道划分的 25 月和 QZX002QZX 月持续性|
-|偿付能力/ESR|总体比率、利率/股票/外汇冲击的敏感度表|
-|产品组合|外币份额、可变份额、团体生活份额、个人生活份额|
-|投资组合|日本国债/外国债券分割、对冲与非对冲外国债券、信贷分配|
-|资本和集团内部流动|索尼 FG 上游股息、资本强化事件|
-|治理|董事会组成、ALM 委员会、风险委员会结构|
+| 年度 / 中期财务摘要 | 保费收入趋势、新业务 APE、有效保单件数 |
+| 渠道摘要 | Lifeplanner 人数、团体寿险保费贡献、渠道结构年度变化 |
+| 继续率表 | 按产品线与渠道拆分的 13 个月与 25 个月继续率 |
+| 偿付能力 / ESR | 核心比率、对利率 / 权益 / 汇率冲击的敏感度表 |
+| 产品结构 | 外币占比、变额占比、团体寿险占比、个险占比 |
+| 投资组合 | JGB / 外债拆分、对冲与未对冲外债、信用配置 |
+| 资本与集团内资金流 | 向 Sony FG 的利润上划、资本补强事件 |
+| 治理 | 董事会构成、ALM 委员会、风险委员会结构 |
 
-每个部分都针对资产负债表驱动因素的 [[insurance/economic-value-based-solvency|ESR]] 和监管资本解释的 [[insurance/japan-life-insurance-big-four|big-four mutual peers]] 进行阅读。与 QZX003QZX 的交叉比较在渠道和产品组合级别最有用，因为结构差异最明显。
+这些部分都应与 [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] 以及 [[insurance/economic-value-based-solvency|ESR]] 一起阅读。若要做同业比较，最有价值的往往是与 [[insurance/japan-life-insurance-big-four|big-four mutual peers]] 在渠道结构与产品结构层面的对照。
 
-## 有关的
+## Related
 
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
+- [[insurance/INDEX]]
+- [[insurance/life-insurance-channel-mix]]
+- [[insurance/japan-life-insurance-big-four]]
+- [[insurance/internet-life-insurance-business-model]]
+- [[insurance/mutual-vs-stock-life-insurer]]
+- [[insurance/economic-value-based-solvency]]
+- [[insurance/esr-economic-value-solvency]]
+- [[insurance/japan-life-insurance-alm-overview]]
+- [[insurance/foreign-life-affiliate-japan-positioning]]
+- [[insurance/japan-iaig-ics-mapping]]
+- [[insurance/global-solvency-framework-comparison-matrix]]
+- [[insurance/insurance-agency-and-brokerage-japan]]
+- [[JapanFG/sony-life]]
+- [[JapanFG/sony-fg]]
+- [[JapanFG/dai-ichi-life]]
+- [[JapanFG/nippon-life]]
+- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[finance/japan-listed-financial-groups-investable-universe]]
+- [[INDEX|FinWiki index]]
 
 ## 来源
 
-- 索尼人寿：公司简介/披露手册和综合报告。
-- 索尼金融集团：财务信息和披露页面。
-- 日本人寿保险协会：会员公司名单。
-- FSA：基于经济价值的偿付能力监管中心。
-- 索尼集团公司旗下索尼金融控股公司的公开私有化记录。
+- Sony Life：公司简介、disclosure book 与综合报告。
+- Sony Financial Group：财务信息与披露页面。
+- 日本生命保险协会：会员公司名单。
+- FSA：经济价值基础偿付能力制度专题页。
+- Sony Financial Holdings 在 Sony Group Corporation 体系下的公开私有化记录。

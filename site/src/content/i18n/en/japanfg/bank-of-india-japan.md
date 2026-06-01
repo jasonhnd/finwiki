@@ -3,7 +3,7 @@ source: japanfg/bank-of-india-japan
 source_hash: b17f5a3bdc0cdba3
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Bank of India Japan"
 translated_at: 2026-05-31T11:13:44.868Z
 ---
@@ -12,72 +12,72 @@ translated_at: 2026-05-31T11:13:44.868Z
 
 ## Wiki route
 
-Bank of India Japan is the India-corridor peer to [[JapanFG/foreign-bank-branches-japan-index|the foreign-bank branch registry]] inside the JapanFG coverage map. Use this page for India-Japan trade finance, remittance, forex, loans, syndication, and branch-history context.
+Bank of India Japan is the India-corridor peer to [[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] inside [[JapanFG/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Use this page for India-Japan trade finance, remittance, foreign exchange, lending, syndication, and branch-history context.
 
-Route this entry through [[banking/INDEX|the banking domain]] first, then cross-read [[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] for the closest India-corridor peer and wholesale-banking context.
+Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then cross-read [[banking/INDEX|banking domain]] for foreign-bank branch and wholesale-banking context.
 
 ## Overview
 
-Bank of India Japan is a standalone India-Japan banking corridor page because its public Japan materials describe Tokyo and Osaka branch operations, long Japan presence, and services such as trade finance, foreign exchange, remittance, loans, and syndication. The branch row does not remain registry-only when the wiki needs India corridor completeness.
+Bank of India Japan is maintained as a standalone India-Japan banking-corridor page because its public Japan materials describe Tokyo and Osaka branch operations, a long Japan presence, and services such as trade finance, foreign exchange, remittance, loans, and syndication. Where the wiki needs corridor completeness, the branch does not remain a registry-only entry.
 
-Registration is observed in the checked FSA source as of 2026-05-13; this page does not independently opine on current licensing beyond the cited public source.
+Registration is confirmed in the checked FSA source as of 2026-05-13. This page does not independently make any claim about current licensing beyond the cited public source.
 
 ## Branch / Corridor Snapshot
 
-|Item|Public-source reading|
+| Item | Public-source reading |
 |---|---|
-|Tokyo branch|Bank of India Japan public pages identify the Tokyo branch and history.|
-|Osaka branch|Public pages also identify the Osaka branch; useful for Kansai business and community context.|
-|Historical marker|Bank of India Japan materials describe long postwar Japan branch history.|
-|Service map|Trade finance, foreign exchange, remittance, loans, and syndication are the key public service anchors.|
-|Peer|[[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] is the closest India-corridor peer.|
+| Tokyo branch | Bank of India Japan public pages identify the Tokyo branch and its history. |
+| Osaka branch | Public pages also identify the Osaka branch, relevant for Kansai business and community context. |
+| Historical marker | Bank of India Japan materials describe a long postwar branch history in Japan. |
+| Service map | Trade finance, foreign exchange, remittance, loans, and syndication are the main public service anchors. |
+| Peer | [[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] is the closest India-corridor peer. |
 
 ## Corridor Functions
 
-|Function|Research use|
+| Function | Research use |
 |---|---|
-|Trade finance|Import / export support between India and Japan.|
-|Remittance|Cross-border account settlement and transfer questions.|
-|Forex|INR / JPY / USD or other currency exposure around trade and corporate treasury.|
-|Loans|Corporate credit, working capital, and bilateral banking support.|
-|Syndication|Larger corporate / project financing where Bank of India is a participant or arranger, if publicly disclosed.|
+| Trade finance | Import / export support between India and Japan. |
+| Remittance | Cross-border settlement and transfer questions. |
+| Forex | INR / JPY / USD and other currency exposure around trade and corporate treasury. |
+| Loans | Corporate credit, working capital, and bilateral banking support. |
+| Syndication | Larger corporate or project finance where Bank of India appears as a participant or arranger, if publicly disclosed. |
 
 ## Peer / Contrast
 
-|Page|Contrast|
+| Page | Contrast |
 |---|---|
-|[[JapanFG/state-bank-of-india-japan|State Bank of India Japan]]|Larger Indian state-bank group and foreign-bank branch comparison.|
-|[[JapanFG/jbic|JBIC]]|Japanese public finance and overseas investment credit route.|
-|[[JapanFG/mufg-bank|MUFG Bank]]|Japanese megabank India and Asia corporate-banking comparison.|
-|[[JapanFG/smfg|SMFG]]|Japanese megabank project and structured-finance comparison.|
-|[[finance/cross-border-m-a-japan|cross-border M&A Japan]]|Deal-context route when financing supports M&A rather than trade.|
+| [[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] | Larger Indian state-bank group and foreign-bank branch comparison. |
+| [[JapanFG/jbic|JBIC]] | Japanese public-finance and overseas-investment credit route. |
+| [[JapanFG/mufg-bank|MUFG Bank]] | Japanese megabank India and Asia corporate-banking comparison. |
+| [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] | Japanese megabank project-finance and structured-finance comparison. |
+| [[finance/cross-border-m-a-japan|Cross-border M&A Japan]] | Deal-context route when financing supports M&A rather than trade. |
 
 ## Research Checklist
 
-1. Confirm whether a reference is to Bank of India Japan branches or the India parent bank.
+1. Confirm whether the reference is to Bank of India Japan branches or to the parent bank in India.
 2. Identify the branch, product, customer type, and currency.
 3. For trade finance, record the instrument: LC, guarantee, remittance, bill, loan, or syndication.
-4. If the context is M&A or project finance, link to [[JapanFG/jbic|JBIC]] and [[finance/cross-border-m-a-japan|cross-border M&A Japan]] where public policy finance appears.
+4. If the context is M&A or project finance, link to [[finance/cross-border-m-a-japan|cross-border M&A Japan]] and [[JapanFG/jbic|JBIC]] where public-policy finance is involved.
 5. Refresh the FSA row when current branch status matters.
 
 ## Caveats
 
-- Public branch-site descriptions are not a commitment to provide every product to every customer.
-- India corridor banking can depend on sector, country, sanction, KYC / AML, credit, and foreign-exchange constraints.
-- The wiki does not store non-public customer or transaction detail.
+- Public branch-site descriptions do not guarantee that every product is available to every customer.
+- India-corridor banking can depend on sector, country, sanctions, KYC / AML, credit, and foreign-exchange constraints.
+- The wiki does not store non-public customer or transaction details.
 
 ## Related
 
+- [[JapanFG/INDEX]]
+- [[JapanFG/foreign-bank-branches-japan-index]]
 - [[JapanFG/state-bank-of-india-japan]]
 - [[JapanFG/jbic]]
 - [[JapanFG/mufg-bank]]
-- [[JapanFG/smfg]]
-- [[banking/foreign-bank-japan-retreat]]
-- [[banking/INDEX]]
+- [[JapanFG/sumitomo-mitsui-banking-corp]]
+- [[JapanFG/legal-financial-licenses/foreign-bank-branch-license-route]]
 - [[finance/cross-border-m-a-japan]]
-- [[trade/jetro-vs-nexi-vs-jbic-comparison]]
-- [[fintech/india-anti-dollar-dpi-alliance]]
-- [[fintech/erupee-india-pilot-status]]
+- [[payments/account-to-account-payment-japan]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 

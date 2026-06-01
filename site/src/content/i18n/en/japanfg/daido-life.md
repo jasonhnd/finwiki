@@ -3,7 +3,7 @@ source: japanfg/daido-life
 source_hash: 1d6de5cd3860ad14
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Daido Life Insurance"
 translated_at: 2026-05-31T15:29:03.927Z
 ---
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.927Z
 
 ## Wiki Route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]]. Read it with [[JapanFG/td-financial-life|T&D Financial Life Insurance]] for peer comparison and with the [[insurance/INDEX|insurance index]] for the broader insurance and regulatory context.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[JapanFG/td-financial-life|T&D Financial Life Insurance]] for peer comparison and with the [[insurance/INDEX|insurance index]] for the broader insurance and regulatory context.
 
 ## TL;DR
 
@@ -27,11 +27,11 @@ Daido Life Insurance Company is a core life-insurance operating company within t
 | License route | Life-insurance company under the Insurance Business Act; listed by the FSA |
 | Industry body | Member of the Life Insurance Association of Japan |
 | Group boundary | Operating company of [[td-hd|T&D Holdings]] |
-| Wiki role | SME and owner-oriented life-insurance specialist within T&D group |
+| Wiki role | SME- and owner-oriented life-insurance specialist within the T&D group |
 
 ## 2. Operating Model
 
-T&D group is centered on [[taiyo-life|Taiyo Life]], Daido Life, and T&D Financial Life. Daido Life is most usefully understood through the lens of SME owner protection, business succession, employee benefits, and tax or accounting-adviser channels, rather than through the conventional household life-insurance market.
+The T&D group is centered on [[taiyo-life|Taiyo Life]], Daido Life, and T&D Financial Life. Daido Life is most usefully understood through the lens of SME owner protection, business succession, employee benefits, and tax or accounting-adviser channels, rather than through the conventional household life-insurance market.
 
 For FinWiki, the page functions as a bridge between SME finance and insurance distribution. It connects naturally to bank lending, credit guarantees, and owner-manager risk management.
 

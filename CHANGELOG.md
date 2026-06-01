@@ -31,6 +31,19 @@
 
 ## 2026-06-02
 
+### i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-02 08:50 JST。
+- **背景**: 全量 zh/en i18n 完了後の語彙監査で、`fidelity: needs_review` が残っていた 54 件を公開前品質ゲートとして解消する必要があった。対象は翻訳済み i18n 本文の語彙・表記・placeholder 復元状態であり、日本語原文の事実内容や公開 wiki の構造は追加しない。
+- **範囲**: `site/src/content/i18n/{zh,en}/` の残存レビュー対象、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02-3.md`、release-generated discovery surfaces。i18n 件数は zh 1380 / en 1380 のまま維持。
+- **実行手順**: 10 並列 GPT/Codex worker で残存 `needs_review` ファイルを分担し、完了済み worker thread は順次 archive した。worker 結果の自己申告は採用せず、frontmatter scan と build gate を基準に検証した。続けて English AIG entry の QZX placeholder 破損、Bitget / Nigerian eNaira / FM Global / Hokkoku FHD などの mojibake 残差、関連リンク表示名、ASCII diagram、source / related labels を手動で修復した。
+- **検証結果**: `needs_review zh=0 en=0 total=0`。`bun run build` は 4147 pages 生成で PASS。`python tools/check_duplicate_html_ids.py site/dist` は `checked=4147 duplicate_id_pages=0 duplicate_ids=0`。`git diff --check` は PASS。changed-file EOL check は LF-clean。QZX / mojibake pattern scan は clean。
+- **残タスク**: release surface を再生成し、`python tools/release.py --check --strict`、再 build、GitHub Actions deployment、public site 200、`llms.txt` 反映を push 後に確認する。
+- **EN**: Cleared the remaining 54 i18n `fidelity: needs_review` files after full zh/en completion. Ten parallel GPT/Codex workers repaired the assigned residual files, and the finished worker threads were archived. Manual follow-up fixed a corrupted English AIG file with QZX placeholder artifacts plus several Chinese mojibake residues, related-link labels, ASCII diagram text, and source / related labels. Validation is clean so far: needs_review 0, 4147-page Astro build, duplicate_id_pages=0 / duplicate_ids=0, whitespace check clean, changed files LF-clean, and QZX / mojibake scan clean. Release regeneration and remote deployment verification follow in the same publish cycle.
+- **中文**：全量 zh/en 完成后，剩余 54 个 i18n 文件仍标记 `fidelity: needs_review`。本轮用 10 路并行 GPT/Codex worker 分摊修复，并把完成的 worker 线程归档；随后人工修复 English AIG 条目的 QZX placeholder 破损，以及若干中文 mojibake 残留、相关链接显示名、ASCII 图、source / related 标签。当前验证为：needs_review 0、Astro build 4147 页通过、duplicate_id_pages=0 / duplicate_ids=0、空白检查通过、改动文件 LF-clean、QZX / mojibake 扫描 clean。后续在同一发布轮里继续完成 release surface 再生成、strict check、远端部署和公开站点验证。
+
 ### deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制
 
 #### 日本語記録 / English / 中文

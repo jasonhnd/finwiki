@@ -3,7 +3,7 @@ source: japanfg/installment-sales-act-2020-amendment
 source_hash: 232696e3708817d9
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Installment Sales Act 2020 Amendment"
 translated_at: 2026-05-31T15:29:03.934Z
 ---
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.934Z
 
 ## TL;DR
 
-The amended Installment Sales Act is the core METI-supervised statute for deferred-payment, installment-credit, credit-card-number handling, and merchant-acquiring boundaries in Japan. The 2020 amendment responded to the digitization of credit cards, deferred payment, and BNPL by creating or refining several layers: certified comprehensive credit-purchase intermediaries, registered small-amount comprehensive credit-purchase intermediaries, card-number handling and merchant-contracting controls on the acquiring / PSP side, electronic delivery of required documents, and administrative sanctions.
+The amended Installment Sales Act is the core METI-supervised statute for deferred payment, installment credit, credit-card-number handling, and merchant-acquiring boundaries in Japan. The 2020 amendment responded to the digitization of credit cards, deferred payment, and BNPL by creating or refining several layers: certified comprehensive credit-purchase intermediaries, registered small-amount comprehensive credit-purchase intermediaries, card-number handling and merchant-contracting controls on the acquiring / PSP side, electronic delivery of required documents, and administrative sanctions.
 
 For FinWiki, the key point is that **BNPL is not automatically the registered small-amount comprehensive credit-purchase-intermediary category**. The regulatory treatment depends on the payment term, credit structure, card-number handling, final merchant-underwriting authority, and registration status. Public METI and Kanto METI materials treat Paidy as a registered comprehensive credit-purchase intermediary in the relevant administrative-action context, so the page should not infer a small-amount registration merely from the BNPL label.
 
@@ -35,7 +35,7 @@ METI explained the amendment in terms of small-value, high-frequency deferred-pa
 
 ### Certified Comprehensive Credit-Purchase Intermediaries
 
-The certification route allows an operator to use its own data and technology for credit screening instead of relying solely on the traditional uniform calculation of comprehensive payable capacity. In exchange, the certified operator must manage expected and actual delinquency rates, submit periodic reports, and accept the risk of improvement orders if its controls are inadequate.
+The certification route allows an operator to use its own data and technology for credit screening instead of relying solely on the traditional uniform calculation of comprehensive payment capacity. In exchange, the certified operator must manage expected and actual delinquency rates, submit periodic reports, and accept the risk of improvement orders if its controls are inadequate.
 
 ### Registered Small-Amount Comprehensive Credit-Purchase Intermediaries
 
@@ -69,7 +69,7 @@ The amendment reinforced supervisory tools, including business-suspension orders
 | Case | Likely treatment | Watch point |
 |---|---|---|
 | Next-month lump-sum BNPL | Check whether the term and contract structure fall within credit-purchase intermediation | Legal payment period and advance-payment structure matter more than the BNPL UX label |
-| Three-, six-, or twelve-installment deferred payment | Moves closer to comprehensive credit-purchase intermediation | Payable-capacity calculation, designated credit-information institutions, and excessive-credit-prevention duties |
+| Three-, six-, or twelve-installment deferred payment | Moves closer to comprehensive credit-purchase intermediation | Payment-capacity calculation, designated credit-information institutions, and excessive-credit-prevention duties |
 | Virtual-card BNPL | May be regulated as card issuance / provision and comprehensive credit-purchase intermediation | Card-number and credit-limit controls were central in the Paidy administrative-action context |
 | PSP performs merchant screening | Registration need depends on who holds final approval authority | Contract substance between acquirer and PSP |
 | Purpose loan | May become individual credit-purchase intermediation if sufficiently connected to the sales contract | Seller tie-up, solicitation, and integrated procedures |
