@@ -31,6 +31,19 @@
 
 ## 2026-06-01
 
+### GPT i18n 継続バッチ（zh/en 1013 件へ）/ GPT i18n continuation batch (zh/en 1013 each) / GPT i18n 续跑批次（zh/en 各 1013）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-01 09:44 JST。
+- **背景**: 直前の zh/en 883 release 後も、全量 1380 entries 完了に向けて GPT/Codex worker で i18n batch を継続した。Sonnet は使用していない。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `.cache/jobs/w0..w9/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.01-3.md`。公開済み wiki 原文本文は変更せず、機械翻訳 surface と release / discovery 記録だけを更新した。
+- **実行手順**: 前 batch の worker directory lock は未 archive の旧 w4 single-file agents が原因だったため、該当 agents を archive して `.cache/jobs` を安全に削除した。`bun scripts/prep-parallel.mjs --workers 10 --size 13` で 130 jobs を再準備し、10 本の GPT/Codex workers で処理した。未生成 9 entries は小さな recovery workers に分割し、最後に `nonlife-insurer-registry-japan-index`, `sbi-hd`, `shiga-bank` を single-file recovery で補完した。
+- **結果**: `bun scripts/commit-translate.mjs` は **ok=260, needs_review=0, missing=0**。累計 i18n は **zh 1013 / en 1013** へ進捗した。
+- **検証結果**: `bun run build` pass (4147 pages built)。完了 worker threads は archive 済み。`python tools/release.py --write` と `python tools/release.py --check --strict` は本 release cycle で実行し、count sync / link audit を確認する。
+- **既知の注意点**: Windows の directory lock は、worker 完了後も idle agent を archive しないと `.cache/jobs` cleanup を妨げる。今後も batch 終了ごとに `paseo ls --all` または既知 ID archive を確認する。
+- **次の作業**: 次 batch で zh/en 1143 付近まで継続し、prep が 0 jobs を返すまで同じ verify-first flow を繰り返す。
+- **EN**: Continued the GPT/Codex i18n run after the zh/en 883 release. Cleared a Windows directory lock by archiving old idle w4 single-file agents, prepared 130 new jobs, recovered the remaining missing entries with smaller GPT/Codex workers, and finished `commit-translate` with ok=260, needs_review=0, missing=0. Cumulative i18n is now zh 1013 / en 1013. Astro build passed with 4147 pages.
+- **中文**: 在 zh/en 883 发布后继续用 GPT/Codex 跑下一批。先归档旧的 idle w4 单文件 agent，解除 Windows 目录锁；随后准备 130 个新 job，并用小粒度 recovery worker 补齐剩余缺失。最终 `commit-translate` 为 ok=260、needs_review=0、missing=0；累计 i18n 为 zh 1013 / en 1013。Astro 构建通过，生成 4147 页。
+
 ### GPT i18n 継続バッチ（zh/en 883 件へ）/ GPT i18n continuation batch (zh/en 883 each) / GPT i18n 续跑批次（zh/en 各 883）
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-01 09:00 JST。

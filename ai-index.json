@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-01T09:04:00+09:00",
+  "generated_at": "2026-06-01T09:45:47+09:00",
   "counts": {
-    "markdown_files": 1454,
-    "public_markdown_pages": 1453,
-    "site_urls_in_sitemap": 1454,
+    "markdown_files": 1455,
+    "public_markdown_pages": 1454,
+    "site_urls_in_sitemap": 1455,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9847230,
-    "word_like_tokens": 1564034
+    "nonspace_utf8_chars": 9852328,
+    "word_like_tokens": 1565027
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-01",
+        "GPT i18n 継続バッチ（zh/en 1013 件へ）/ GPT i18n continuation batch (zh/en 1013 each) / GPT i18n 续跑批次（zh/en 各 1013）",
         "GPT i18n 継続バッチ（zh/en 883 件へ）/ GPT i18n continuation batch (zh/en 883 each) / GPT i18n 续跑批次（zh/en 各 883）",
         "GPT i18n 継続バッチ（zh/en 740 件へ）/ GPT i18n continuation batch (zh/en 740 each) / GPT i18n 续跑批次（zh/en 各 740）",
-        "2026-05-31",
-        "GPT i18n 継続バッチ（zh/en 610 件へ）/ GPT i18n continuation batch (zh/en 610 each) / GPT i18n 续跑批次（zh/en 各 610）"
+        "2026-05-31"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 429775,
-      "word_like_tokens": 75642,
+      "nonspace_chars": 431555,
+      "word_like_tokens": 76004,
       "last_modified": "2026-06-01"
     },
     {
@@ -34252,7 +34252,7 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 23823,
+      "nonspace_chars": 23829,
       "word_like_tokens": 3634,
       "last_modified": "2026-06-01"
     },
@@ -74859,6 +74859,33 @@
       "markdown_links": [],
       "nonspace_chars": 3497,
       "word_like_tokens": 638,
+      "last_modified": "2026-06-01"
+    },
+    {
+      "source_path": "releases/v2026.06.01-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.01-3",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-3.md",
+      "title": "GPT i18n 翻訳バッチ継続・1013/1013 進捗",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 883 の release 後、次の 130 source entries を GPT/Codex worker で処理し、累計を zh 1013 / en 1013 へ進めました。",
+      "headings": [
+        "GPT i18n 翻訳バッチ継続・1013/1013 進捗",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 3312,
+      "word_like_tokens": 631,
       "last_modified": "2026-06-01"
     },
     {
