@@ -108,7 +108,7 @@ JCB 的日本独特定位是：**唯一的日本国内国际品牌**、高端国
 
 | 品牌 | Push-to-card / 即时支付产品 | 直接码支付产品 | 钱包发卡经济性 |
 |---|---|---|---|
-| Visa | **Visa Direct**（push-to-card；个人对个人、企业对消费者、跨境） | 无直接产品；PayPay / Rakuten / 蜷・wallets 将 Visa 卡作为资金来源使用 | 通用：大多数日本钱包接受 Visa 卡充值 |
+| Visa | **Visa Direct**（push-to-card；个人对个人、企业对消费者、跨境） | 无直接产品；PayPay / Rakuten / 其他钱包将 Visa 卡作为资金来源使用 | 通用：大多数日本钱包接受 Visa 卡充值 |
 | Mastercard | **Mastercard Send**（功能上平行 Visa Direct） | 无直接产品；日本钱包将 Mastercard 卡作为资金来源使用 | 通用：大多数日本钱包接受 Mastercard 卡充值 |
 | AMEX | AMEX Send（push-to-card；日本版图更有限） | 无直接产品；日本钱包使用 AMEX 卡比 V/MC 更有限 | 较窄：由于 MDR 经济性，接受 AMEX 卡充值的日本钱包较少 |
 | JCB | 部分市场的 J-RPay / 国内 overlay 产品 | 有限；部分市场有 JCB 品牌钱包 | 通用：大多数日本钱包接受 JCB 卡充值 |

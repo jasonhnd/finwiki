@@ -3,119 +3,113 @@ source: japanfg/au-jibun-bank
 source_hash: 103789f826a93c41
 lang: zh
 status: machine
-fidelity: needs_review
-title: "全部自分银行"
+fidelity: ok
+title: "au Jibun Bank"
 translated_at: 2026-05-31T11:13:44.867Z
 ---
 
-# 全部自分银行
+# au Jibun Bank
 
+## Wiki 路由
 
-## 维基路线
+本条目位于 [[JapanFG/INDEX|JapanFG index]]。建议与 [[JapanFG/sony-bank|Sony Bank]]、[[JapanFG/orix-bank|ORIX Bank]]、[[JapanFG/rakuten-bank|Rakuten Bank]] 对照阅读，以理解网络银行同业；与 [[JapanFG/mufg-bank|MUFG Bank]] 一起阅读，以把握其作为共同出资母行的路径；并与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的银行与监管边界。
 
-该条目位于 [[JapanFG/sony-bank|ソニー銀行]] 下。对照[[JapanFG/orix-bank|オリックス銀行]] / [[JapanFG/rakuten-bank|楽天銀行]] / [[JapanFG/mufg-bank|三菱UFJ銀行]]（同行互联网银行背景）、[[banking/INDEX|banking index]]（母集团联合投资者）和QZX006QZX（更广泛的系统/监管边界）来阅读。
+## TL;DR
 
-## 长话短说
+au Jibun Bank Corporation 是由 **KDDI（au）** 与 [[JapanFG/mufg|Mitsubishi UFJ Financial Group]] 共同发起的网络银行。它在 2008-06 以 Jibun Bank 名义设立，由 KDDI 与 [[JapanFG/mufg-bank|MUFG Bank]] 按 50:50 出资；2008-07 开业；2020-02 在 KDDI 提高持股后成为 KDDI 合并子公司，并改名为 au Jibun Bank。该行持有普通银行牌照，是无实体网点的纯网络银行。其鲜明特征，是把 KDDI 的通信客户基础、au 用户、Ponta points、au PAY，与 MUFG 的银行基础设施结合起来。核心产品包括住房贷款、卡贷、外币存款、FX 与投资信托。主要可比对象包括 [[JapanFG/rakuten-bank|Rakuten Bank]]、[[JapanFG/sony-bank|Sony Bank]]、[[JapanFG/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] 与 [[JapanFG/paypay-bank|PayPay Bank]]。
 
-au自分银行株式会社是KDDI（au）与2008共同出资的网络银行。 06 -[[JapanFG/mufg-bank|三菱UFJ銀行]] KDDI 和 50 的前身为 Jibun 银行，成立为 50 :2020 并开始运营。 02 -[[JapanFG/rakuten-bank|楽天銀行]]KDDI因出资比例增加而成为合并子公司，现商号为“au”。更名为自分银行。 **普通银行牌照**（关东地方财政局牌照），纯网络银行模式，无分支机构。 **独特的地位在于它将 KDDI 的电信客户群（au 用户/Ponta 积分/au PAY）与 MUFG 的银行基础设施连接起来**。我们利用以智能手机为中心和非盟经济区合作方面的优势，开发住房贷款、卡贷款、外币存款、外汇和投资信托。参赛对象为[[JapanFG/sony-bank|ソニー銀行]]、[[JapanFG/sbi-sumishin-net-bank|住信SBIネット銀行]]、[[JapanFG/paypay-bank|PayPay銀行]]、QZX012QZX等网上银行和通讯银行。
+## 1. 法人与股东
 
-## QZX001QZX。公司/股东
+- **公司名称**：au Jibun Bank Corporation。
+- **设立**：2008-06-17，前身名称为 Jibun Bank。
+- **开业时间**：2008-07-17。
+- **名称变更**：2020-02 在 KDDI 合并后更名为 au Jibun Bank。
+- **总部**：東京都新宿区西新宿 3-7-1 新宿 Park Tower，163-1043。
+- **资本金**：公开公司概要口径为 JPY 50 billion 以上。
+- **主要股东**：KDDI Corporation 为多数 / 合并母公司；[[JapanFG/mufg-bank|MUFG Bank]] 为保留持股的共同出资方。
+- **代表者**：社长兼代表取缔役。
+- **员工数**：在源文所对应的公开公司概要快照中约为 400 人。
 
-- **公司名称**：au Jibun Bank Corporation（英文：au Jibun Bank Corporation）
-- **成立**：QZX001QZX（原“自分银行”）
-- **营业开始**：QZX001QZX
-- **公司名称变更**：QZX001QZX 更名为“au Jibun Bank”（由于 KDDI 成为合并子公司）
-- **总店位置**：1043 -3  东京都新宿区西新宿 7  丁目 1 号 QZX005QZX Shinjuku Park Tower
-- **资本**：超过QZX001QZX（公布依据）
-- **主要股东**：
-  - **KDDI Corporation**（合并子公司，多数股权）
-  - **QZX001QZX**（残余出资）
-- **代表者**：代表取缔役社长
-- **员工人数**：约。 QZX001QZX
+## 2. 牌照与监管边界
 
-## QZX001QZX。许可/监管边界
+- **普通银行**：依据《银行法》持有普通银行牌照，由关东财务局长发牌。
+- **行业协会**：为日本银行协会会员；由于是网络银行模式，不属于地方银行协会口径；存款在法定上限内受存款保险制度保障。
+- **金融商品相关登记**：拥有投资信托销售与 FX 相关处理的登记金融机构资格。
+- **资金转移 / 电子支付边界**：与 au PAY 相关的支付活动，主要由 KDDI 体系内其他金融服务实体承担，而不是并入本银行牌照内。
 
-- **普通银行**：基于银行法的普通银行执照（关东地方财政局局长执照）
-- **行业协会会员资格**：
-  - 全国银行家协会
-  - 非全国地方银行协会会员（网上银行类型）
-  - 参加存款保险公司（存款保险覆盖范围 QZX001QZX + 利息）
-- **注册金融机构**：在关东地方财政局以投资信托销售和外汇处理为基础注册的金融机构
-- **资金转账业务/电子货币**：au PAY合作部分是KDDI子公司KDDI Financial Services等独立法人。
+## 3. 业务板块
 
-## QZX001QZX。业务板块
-
-|部分|主力商品|顾客层|
+| 板块 | 主要产品 | 客户基础 |
 |---|---|---|
-|订金|普通存款/定期/外币存款（美元、欧元、英镑等）|零售|
-|贷款|卡贷款/抵押贷款|个人|
-|兑换/汇款|日元汇款/外币汇款/工资收据|个人|
-|投资|投资信托（销售）/Kabucom Securities（原 Kabu.com）官方合作|零售|
-|外汇|外汇保证金交易（内部外汇）|零售|
-|沉降|借记卡（Visa 借记卡）|零售|
+| 存款 | 活期存款、定期存款、USD / EUR / GBP 等外币存款 | 个人零售 |
+| 贷款 | 卡贷、住房贷款 | 个人 |
+| 汇兑 / 转账 | 日元转账、外币汇款、工资代收 | 个人 |
+| 投资 | 投资信托销售、与 au Kabucom Securities 的联动 | 个人零售 |
+| FX | 保证金外汇交易 | 个人零售 |
+| 支付 | Visa 借记卡 | 个人零售 |
 
-## QZX001QZX。母公司/集团关系
+## 4. 母公司与集团关系
 
-- **KDDI合并子公司**：02 -51%KDDI收购QZX003QZX超级投资，成为KDDI合并子公司。引领au经济区（au通讯合约、au PAY、Ponta积分）
-- **MUFG (QZX001QZX) 投资**：剩余投资。利用三菱日联银行在银行运营、会计系统和合规方面的专业知识
-- **自分银行更名为“au自分银行”的背景**：QZX001QZX的更名是为了统一KDDI品牌并整合au经济区营销。
-- **与au Kabucom Securities合作**：通过金融产品中介和账户联动，提供KDDI经济区内的银行/证券账户整合经验
+- **KDDI 合并子公司**：KDDI 在 2020-02 将持股提高到 51% 以上，并将其并表，使其明确纳入以通信契约、au PAY、Ponta points 为核心的 au 经济圈。
+- **MUFG 出资**：MUFG Bank 仍作为共同出资方存在，并提供银行运营、核心系统、结算与合规方面的经验。
+- **改名为 au Jibun Bank 的原因**：2020 年改名，是为了将银行与 KDDI / au 品牌对齐，并统一 au 经济圈营销。
+- **与 au Kabucom Securities 的联动**：通过账户联携与金融商品中介，在 KDDI 金融生态内形成一体化的银行 / 证券体验。
 
-## QZX001QZX。竞争/行业地位
+## 5. 竞争位置
 
-|网上银行|家长组|优势|
+| 网络银行 | 母集团 | 强项 |
 |---|---|---|
-|全部自分银行|**KDDI + 三菱日联金融集团**|au经济区/Ponta点/au PAY|
-|QZX001QZX|SBI + 三井住友信托|抵押贷款/企业/证券合作|
-|QZX001QZX|乐天集团|乐天经济区/乐天市场合作|
-|QZX001QZX|索尼集团|外币/抵押贷款|
-|QZX001QZX|Z控股+三井住友|PayPay经济区|
-|QZX001QZX|羚羊|房地产投资贷款|
+| au Jibun Bank | **KDDI + MUFG** | au 经济圈、Ponta points、au PAY |
+| [[JapanFG/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] | SBI + Sumitomo Mitsui Trust | 住房贷款、法人业务、证券联动 |
+| [[JapanFG/rakuten-bank|Rakuten Bank]] | 乐天集团 | 乐天经济圈与电商联动 |
+| [[JapanFG/sony-bank|Sony Bank]] | Sony Group | 外币与住房贷款 |
+| [[JapanFG/paypay-bank|PayPay Bank]] | Z Holdings + Sumitomo Mitsui | PayPay 经济圈 |
+| [[JapanFG/orix-bank|ORIX Bank]] | ORIX | 不动产投资贷款 |
 
-## QZX001QZX。策略/近期趋势
+## 6. 战略与近期主题
 
-- **au经济区战略的核心**：KDDI的“au PAY x Ponta x au Jibun Bank x au Kabucom”经济区交叉销售模式
-- **做强房贷**：低利率武装，网银房贷竞争，浮动利率房贷主力
-- **API/开放API支持**：基于修改后的银行法的开放API连接（与金融科技合作，例如家庭账簿应用程序）
-- **深化与三菱日联金融集团的合作**：继续使用三菱日联金融集团的基础设施进行会计系统和资金清算。抵押贷款筛选技术也利用了三菱日联银行的知识
-- **与新 NISA 兼容**：01 -QZX002QZX 随着新 NISA 的推出，扩大了投资信托产品阵容
+- **au 经济圈的核心节点**：围绕 au PAY、Ponta、au Jibun Bank、au Kabucom Securities 的 cross-sell 模型。
+- **住房贷款扩张**：参与网络银行间的住房贷款竞争，尤其是浮动利率住房贷款。
+- **Open API 支持**：依据修订后的《银行法》推进 API 连接，包括与家计管理等 fintech 服务联动。
+- **MUFG 基础设施利用**：继续使用 MUFG 在核心 banking、结算与房贷审查方面的 know-how。
+- **新 NISA 支持**：围绕 2024-01 新 NISA 启动，扩充投资信托产品线。
 
-## QZX001QZX。主要 KPI（概述）
+## 7. 主要 KPI
 
-|项目|规模感|
+| 项目 | 规模描述 |
 |---|---|
-|存款余额|万亿日元范围（顶级网上银行组）|
-|账户数量|数百万个帐户|
-|住房贷款余额|万亿日元规模|
-|员工人数|约QZX001QZX|
-|银行代码|QZX001QZX|
+| 存款余额 | 万亿日元级，在日本网络银行中属上位梯队 |
+| 账户数 | 百万级账户 |
+| 住房贷款余额 | 万亿日元级 |
+| 员工数 | 源文快照约 400 人 |
+| 银行代码 | 0039 |
 
-详情请参阅 KDDI/MUFG IR/证券报告和银行披露杂志。
+如需精确时点数字，应以 KDDI / MUFG IR、有价证券报告及 au Jibun Bank 披露资料为准。
 
-## QZX001QZX。风险/监管问题
+## 8. 风险与监管议题
 
-- **电信公司合并子公司的银行治理**：在电信运营商控制银行的模式下，有关银行法、反垄断法以及产金分离（FSA意见）的持续问题
-- **抗加息**：房贷余额扩张阶段后加息场景下的ALM/利差管理
-- **网络/系统阻力**：由于纯互联网业务，系统故障的风险直接传播到客户接触点
-- **洗钱/FATF兼容**：持续可疑交易通知/KYC增强请求
-- **个人信息和通信数据的内部使用**：个人信息保护法中有关 KDDI 通信合同数据内部使用范围的问题
+- **电信母公司控制下的银行治理**：当通信集团控制银行时，《银行法》、竞争法以及产业 / 金融分离问题会持续存在。
+- **利率敏感度**：住房贷款余额扩张后，ALM 与净息差管理的重要性上升。
+- **网络安全与系统韧性**：对无网点数字界面而言，系统故障会直接冲击客户接触面。
+- **AML / FATF 合规**：可疑交易监测与 KYC 持续强化。
+- **个人数据与通信数据使用**：KDDI 体系内部对通信契约数据的使用，会触及《个人信息保护法》边界问题。
 
-## 有关的
+## Related
 
-- QZX001QZX — 联合投资者母集团
-- QZX001QZX — 共同出资银行
-- QZX001QZX — 经济区型网上银行同业
-- QZX001QZX — 网上银行同行
-- QZX001QZX — 网上银行同行
-- QZX001QZX — 电信网上银行同行
-- QZX001QZX — 独立网上银行同行
-- QZX001QZX
-- QZX001QZX
+- [[JapanFG/mufg|Mitsubishi UFJ Financial Group]] - 共同出资母集团
+- [[JapanFG/mufg-bank|MUFG Bank]] - 共同出资银行
+- [[JapanFG/rakuten-bank|Rakuten Bank]] - 经济圈型网络银行同业
+- [[JapanFG/sony-bank|Sony Bank]] - 网络银行同业
+- [[JapanFG/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] - 网络银行同业
+- [[JapanFG/paypay-bank|PayPay Bank]] - 通信 / 支付经济圈型网络银行同业
+- [[JapanFG/orix-bank|ORIX Bank]] - 独立型网络银行同业
+- [[JapanFG/INDEX|JapanFG index]]
+- [[banking/INDEX|Banking domain index]]
 
 ## 来源
 
-- au自分银行官方公司简介：QZX001QZX
-- au自分银行官方历史：QZX001QZX
-- 金融服务机构持牌/注册银行：QZX001QZX
-- 三菱日联官方集团公司名单：QZX001QZX
-- KDDI 证券报告（合并子公司披露部分）
+- au Jibun Bank 官方公司概要：https://www.jibunbank.co.jp/company/profile/
+- au Jibun Bank 官方沿革：https://www.jibunbank.co.jp/company/history/
+- FSA 持牌 / 登记银行列表：https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
+- MUFG 官方集团公司列表：https://www.mufg.jp/profile/group/index.html
+- KDDI 有价证券报告中的合并子公司披露部分。

@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-02T01:13:10+09:00
+Generated: 2026-06-02T08:51:44+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1461
-Public pages listed: 1460
+Markdown files: 1462
+Public pages listed: 1461
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1460
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-02, deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制, CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-02, i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复, deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13116,6 +13116,15 @@ Public pages listed: 1460
 - Type: release_note
 - Summary: 2026-06-02 JST の FinWiki CI ログ仕上げリリースです。v2026.06.02 で Node.js 20 runtime annotation は消えましたが、actions/deploy-pages@v5 の内部依存が Node.js 24 上で DEP0040 punycode deprecation warning を出したため、deploy step に限定して抑制しました。
 - Headings: deploy-pages 警告抑制と CI ログ仕上げ, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+
+### i18n 残存レビュー完了と語彙破損修復
+- URL: https://finwiki.zksc.io/releases/v2026.06.02-3
+- Source path: releases/v2026.06.02-3.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-3.md
+- Domain: releases
+- Type: release_note
+- Summary: 2026-06-02 JST の FinWiki i18n 品質仕上げリリースです。全量 zh/en 1380 件完了後に残っていた fidelity: needs_review 54 件を解消し、公開 i18n surface をレビュー残 0 の状態へ戻しました。
+- Headings: i18n 残存レビュー完了と語彙破損修復, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### CI 警告整理と HTML ID 検証ゲート追加
 - URL: https://finwiki.zksc.io/releases/v2026.06.02

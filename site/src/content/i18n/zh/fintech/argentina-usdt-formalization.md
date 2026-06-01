@@ -3,178 +3,176 @@ source: fintech/argentina-usdt-formalization
 source_hash: 2537c4ce2d531707
 lang: zh
 status: machine
-fidelity: needs_review
-title: "阿根廷 USDT 正式化 · 米莱改革后 2024-2026"
+fidelity: ok
+title: "阿根廷 USDT 正规化：米莱改革后的 2024-2026"
 translated_at: 2026-05-31T06:16:15.671Z
 ---
 
-# 阿根廷 USDT 正式化 · 米莱改革后 2024-2026
-
-
+# 阿根廷 USDT 正规化：米莱改革后的 2024-2026
 
 ## TL;DR
 
-阿根廷在米莱执政的两年弧线（2023 年 2025月就职 → 2025年）中，已将原本世界上最典型的 **USDT 影子美元化**案例（40-50%的家庭流动美元资产，2024, 年前参见 [[fintech/em-market-crypto-dollarization-pattern|EM 暗号ドル化パターン]]），转变为**经过正式监管且税制已改革的加密资产经济体**。证券委员会（CNV）于 2024 年依据第 27.739号法令发布了**虚拟资产服务提供商（PSAV）**注册框架；阿根廷中央银行（BCRA）逐步放宽资本管制，并明确加密资产交易所不受禁止；税制改革与洗钱特赦已将灰色市场 USDT 持有引入正式银行体系。五家主要阿根廷加密资产交易所——**Lemon、Belo、Buenbit、Ripio 和 Let'sBit**——均已完成 PSAV 注册，目前以持牌 VASP 身份参与竞争，而非作为灰色市场运营者。区域溢出效应正向乌拉圭（BCU 历来对加密资产较为审慎）和巴拉圭（BCP 态度更为宽松）蔓延，加速了**南锥体走廊**的跨境 USDT 流动。
+阿根廷在米莱执政前两年（2023-12 就任至 2025）里，把原本全球最典型的 **通过 USDT 实现影子美元化** 案例，逐步转成了 **有正式监管和税制重构的加密经济**。2024 年，Comisión Nacional de Valores（CNV）依据 Ley 27.739 建立了 **Proveedores de Servicios de Activos Virtuales（PSAV）** 注册框架；Banco Central de la República Argentina（BCRA）逐步放松资本管制，并明确加密交易所并非被禁止；税制改革与资金申报宽免则把灰色市场里的 USDT 持仓拉回正式金融体系。阿根廷五家主要加密交易所 **Lemon、Belo、Buenbit、Ripio、Let'sBit** 已全部完成 PSAV 注册，如今是持牌 VASP 之间的竞争，而不是影子经营者之间的竞争。对乌拉圭和巴拉圭的外溢效应，则加快了 **南锥体走廊** 的跨境 USDT 资金流。
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/em-market-crypto-dollarization-pattern|新興市場 暗号ドル化パターン]] for the pre-reform baseline, [[fintech/gray-market-dollar-network-formalization|グレーマーケット・ドル・ネットワークの正式化]] for the formalization pattern, [[fintech/sovereign-fund-crypto-allocation-pattern|ソブリン・ファンド暗号配分パターン]] for the structurally adjacent state-level pattern, [[fintech/jurisdiction-list-monetary-protectionism|法域リスト = 通貨保護主義]] for the contrast frame (Argentina is moving away from monetary protectionism), and [[exchanges/INDEX|exchanges index]] / [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリックス]] for the comparative regulatory map.
+本文位于 [[fintech/INDEX|fintech index]]。可结合 [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]] 了解改革前基线，结合 [[fintech/gray-market-dollar-network-formalization|gray-market dollar formalization]] 了解正规化模式，结合 [[fintech/sovereign-fund-crypto-allocation-pattern|sovereign-fund crypto allocation pattern]] 了解结构上相邻的国家层模式，结合 [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction-list monetary protectionism]] 作为对照框架（阿根廷正背离货币保护主义），并结合 [[exchanges/INDEX|exchanges index]] 与 [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison matrix]] 查看横向监管地图。
 
-## 米莱前基准（2023 年及更早）
+## 米莱之前的基线（2023 年及更早）
 
-阿根廷进入 2023 年时，已是任何主要经济体中加密美元化程度最深的国家：
+阿根廷在 2023 年进入了主要经济体中最深度的加密美元化阶段：
 
-- **通货膨胀率**：年化超过 200%。
-- **BCRA 设定的 ARS/USD 官方汇率** vs **MEP/CCL/蓝筹互换**汇率：差距达 50-100%。
-- **资本管制（Cepo cambiario）**：个人购汇每月限额 $200。
-- **USDT 作为主要美元替代品**：Chainalysis 将阿根廷全球加密资产采用率排名第 2 位（拉美第 1位），USDT 交易量占加密资产交易总量的 > 90%。
-- **监管灰色地带**：AFIP（税务局）有加密资产申报规则；CNV 无综合框架；BCRA 发布了近乎限制性的指导意见。
+- **通胀**：年化 > 200%。
+- **官方 ARS/USD 汇率**（由 BCRA 设定）与 **MEP / CCL / blue-chip-swap** 汇率之间存在 50-100% 的价差。
+- **Cepo cambiario**（资本管制）：个人每月购汇上限为 $200。
+- **USDT 作为主要美元替代物**：Chainalysis 将阿根廷列为全球加密采用第 2、拉美第 1，且 USDT 交易量占加密总量 > 90%。
+- **监管灰区**：AFIP（税务机关）有加密申报规则；CNV 尚无完整框架；BCRA 的指引带有准限制性。
 
-2023年米莱前的现状：**USDT 已成为 40-50% 的阿根廷中产阶级家庭的事实储蓄工具**，通过 P2P 币安、场外交易台和非正式交易所进行交易。Lemon、Belo、Buenbit 和 Ripio 在灰色地带运营——非违法，未经正式许可，银行入金渠道存在摩擦。
+2023 年、米莱上台前的现状是：**USDT 是阿根廷中产家庭 40-50% 流动美元资产的事实储蓄工具**，主要通过 P2P Binance、OTC 柜台和非正式交易所流通。Lemon、Belo、Buenbit、Ripio 处在灰色地带：并不违法，但也并未正式持牌，法币入金渠道存在摩擦。
 
-## 米莱改革序列（2024年）
+## 米莱改革序列（2024）
 
-哈维尔·米莱于 2023 月就任，其纲领包括：
-- 取消资本管制（Cepo cambiario）。
-- 比索 / 美元自由市场汇率。
-- 税制改革，允许已申报美元资产（含加密资产）进行洗钱特赦。
+Javier Milei 于 2023-12 就任，其纲领包括：
+
+- 取消资本管制（cepo cambiario）。
+- 推进比索 / 美元的自由市场汇率。
+- 通过税制改革，为已申报的美元资产（包括加密资产）设置资金申报宽免。
 - 减少政府对金融市场的干预。
 
-与加密资产相关的 2024 项行动：
+与加密直接相关的 2024 年行动如下。
 
-### 1. CNV 第 994/2024 号决议——PSAV 注册框架
+### 1. CNV Resolution 994/2024：PSAV 注册框架
 
-CNV 于 2024 年 3 月发布第 994 号决议（落实早期反洗钱法 Ley 27.739），创建了**虚拟资产服务提供商（PSAV）**注册登记。主要内容：
+CNV 于 2024-03 发布第 994 号决议，落实更早的 Ley 27.739（反洗钱法），设立 **Proveedores de Servicios de Activos Virtuales（PSAV）** 名录。核心要点：
 
-| 要求 | 详情 |
+| 项目 | 内容 |
 |---|---|
-| 注册范围 | 所有向阿根廷居民提供加密资产托管、交换、转账或相关服务的实体 |
-| 境外提供商规则 | 向阿根廷用户服务的境外交易所须注册（Binance、OKX、Bybit 受影响）|
-| 资本要求 | 按业务规模分级；相比其他地区的 MTL 式许可证，名义要求较低 |
-| AML/KYC | 与 FATF 旅行规则对齐（参见 [[fintech/fatf-travel-rule-overview|FATF Travel Rule 概要]]）|
-| 报告 | 定期向 CNV + UIF（金融信息机构）报告 |
-| 截止日期 | 2024, 年分阶段推进，2025年第 1 季度前全面执行 |
+| 注册范围 | 向阿根廷居民提供加密资产托管、兑换、转移或相关服务的所有实体 |
+| 境外服务商规则 | 向阿根廷用户提供服务的境外交易所也必须注册（Binance、OKX、Bybit 受影响） |
+| 资本要求 | 依据业务类型分层；与其他法域的 MTL 类牌照不同 |
+| AML/KYC | 与 FATF Travel Rule 对齐（见 [[fintech/fatf-travel-rule-overview|FATF Travel Rule]]） |
+| 报送义务 | 定期向 CNV 和 UIF（Unidad de Información Financiera）报送 |
+| 截止安排 | 2024 年内分阶段推进，2025-Q1 前全面执行 |
 
-### 2. BCRA 资本管制放宽（2024-2026年）
+### 2. BCRA 放松资本管制（2024-2026）
 
-BCRA 逐步拆除 Cepo cambiario：
-- 2024年第 2季度：旅游美元限制放宽。
-- 2024年第 4季度：企业股息汇出重新开放。
-- 2025年第 2季度：个人购汇限额大幅放宽。
-- 2025年第 4 季度至 2026年：主要资本管制最终解除（受 IMF 项目条件约束）。
+BCRA 逐步拆除 cepo cambiario：
 
-对加密资产的结构性影响：**USDT 规避 Cepo 的对冲功能减弱**。随着官方美元市场趋于正常化，MEP、CCL、USDT 与官方汇率之间的价差压缩至个位数百分比。USDT 在数字交易中仍占主导，但已不再是主要的资本管制规避工具。
+- 2024-Q2：放宽旅游美元限制。
+- 2024-Q4：重新开放企业股息汇回。
+- 2025-Q2：大幅放松个人美元购买限制。
+- 2025-Q4 至 2026：完成主要资本管制的最终解除（仍受 IMF 项目条件约束）。
 
-### 3. 基础法 / 第 27.742 号法令（2024年中）——税制改革 + 特赦
+这对加密结构的影响是：**USDT 作为“对冲 cepo”的工具功能下降**。随着官方美元市场趋于正常化，MEP、CCL、USDT 与官方汇率之间的价差压缩至个位数百分比。USDT 仍然是数字交易中的主导工具，但不再是首要的资本管制规避工具。
 
-基础法（米莱重大立法包，2024月签署）包括：
-- **洗钱特赦**（资产合规化制度）：阿根廷人可按优惠税率申报此前未申报的资产（含 USDT 及其他加密资产）。
-- **所得税改革**，理顺加密资产收益的税收。
-- **银行保密及 AFIP 协作**更新。
+### 3. Ley Bases / Ley 27.742（2024 年中）：税制改革与宽免
 
-特赦通过 2024-2025月吸引估计约 20-30 亿美元申报资产重回正式体系。虽然并非全部为加密资产，但**加密资产占有相当份额**，且特赦专门允许阿根廷人申报存放于境外交易所或自托管的 USDT。
+Ley Bases（米莱的重要立法包，于 2024-07 签署）包括：
 
-### 4. BCRA-CNV-UIF 协调——银行入金渠道重新开放
+- **资金申报宽免**（Régimen de Regularización de Activos）：阿根廷居民可以按优惠税率申报此前未申报的资产，包括 USDT 和其他加密资产。
+- **所得税改革**：重新梳理加密收益课税方式。
+- **银行保密与 AFIP 协作** 更新。
 
-米莱前：阿根廷商业银行（加利西亚、桑坦德河、BBVA 阿根廷、宏观银行）因 BCRA 指导意见不明确而对服务加密资产交易所持谨慎态度。PSAV 发布后，已注册的交易所建立了正式银行轨道。截至 2025-2026年：
-- Lemon 和 Belo 推出 USDT 等值计价的 Visa / Mastercard 预付卡产品。
-- Ripio 提供 ARS↔USDT 和 ARS↔USDC 交易对，并支持银行入金结算。
-- Buenbit 在界面和收益产品上展开竞争。
+2024-2025 年间，这一宽免机制估计把 USD 20-30 billion 的已申报资产拉回了正式体系。并非全部都是加密资产，但 **加密资产占有相当比例**，而且该宽免明确允许阿根廷居民申报存放在境外交易所或自托管钱包中的 USDT。
 
-## 五大交易所——竞争格局 2026
+### 4. BCRA-CNV-UIF 协调：银行入金通道重新打开
 
+米莱之前，阿根廷商业银行（Galicia、Santander Río、BBVA Argentina、Banco Macro）由于 BCRA 指引含糊，对服务加密交易所态度谨慎。PSAV 制度建立后，已注册交易所重新接入了正式银行通道。到 2025-2026：
 
+- Lemon 和 Belo 拥有以 USDT 等值资产计价的 Visa / Mastercard 预付卡产品。
+- Ripio 提供 ARS / USDT 和 ARS / USDC 交易对，并支持银行入金结算。
+- Buenbit 则在界面体验和收益型产品上竞争。
 
-| 交易所 | 创立 | PSAV 注册 | 战略定位 | 阿根廷以外 |
+## 五家交易所：2026 年竞争格局
+
+| 交易所 | 成立时间 | 是否已完成 PSAV 注册 | 战略定位 | 阿根廷以外 |
 |---|---|---|---|---|
-| **Lemon** | 2018 | 是（2024）| "Lemon Card" Visa USDT 等值 + 收益产品。消费者应用最为精良。| 2023年进入巴西；更广泛的拉美转型 |
-| **Belo** | 2020 | 是（2024）| Mastercard 合作；积极推进消费者引导。面向年轻 / 初次用户。| 以阿根廷为重心，有限扩展至乌拉圭 |
-| **Buenbit** | 2018 | 是（2024）| 成熟平台；零售关注度较低，更专注于专业交易者和收益产品。| 拉美扩展 |
-| **Ripio** | 2013 （最早）| 是（2024）| 多国运营（阿根廷、巴西、墨西哥、乌拉圭）；2024 年通过 SPAC 上市。最具机构属性。| 巴西、墨西哥、乌拉圭；进入西班牙 |
-| **Let'sBit** | 2018 | 是（2024）| 规模较小；专注于细分市场 / 机构和阿根廷企业客户。| 以阿根廷为中心 |
+| **Lemon** | 2018 | 是（2024） | “Lemon Card” Visa USDT 等值卡 + 收益型产品，消费端产品完成度最高 | 2023 年进入巴西；转向更广泛拉美市场 |
+| **Belo** | 2020 | 是（2024） | 与 Mastercard 合作，积极做消费端拉新，主打年轻 / 首次用户 | 以阿根廷为主，少量覆盖乌拉圭 |
+| **Buenbit** | 2018 | 是（2024） | 平台更成熟，零售色彩较弱，更偏专业交易者与收益型产品 | 拉美扩张 |
+| **Ripio** | 2013（最老） | 是（2024） | 多国布局（AR、BR、MX、UY）；2024 年通过 SPAC 路径上市；机构属性最强 | 巴西、墨西哥、乌拉圭；进入西班牙 |
+| **Let'sBit** | 2018 | 是（2024） | 规模较小，聚焦细分 / 机构客户与阿根廷企业客户 | 以阿根廷为中心 |
 
-**境外竞争格局**：Binance、OKX、Bybit 均已注册为 PSAV。Binance 按交易量仍居首位，但在首次接触阿根廷用户方面已被 Lemon 和 Belo 夺去部分份额。Coinbase 在阿根廷没有直接存在（是否注册为 PSAV 是另一回事）。
+**境外大型平台竞争格局**：Binance、OKX、Bybit 也都完成了 PSAV 注册。Binance 在交易量上仍然占优，但对阿根廷首次用户的份额已被 Lemon 和 Belo 分流。Coinbase 没有直接的阿根廷存在（注册为 PSAV 与实际开展零售业务是两个问题）。
 
-**交易量指标（2026 年推算）**：阿根廷加密资产交易所综合交易量年化估计为 50-80 亿美元，其中 70%以上为 USDT 计价。与非正式灰色市场 2023 年峰值相比，实际交易量**有所下降**（因 Cepo 套利空间已压缩），但**正式部门份额已从 < 30% 增长至 > 70%**。
+**交易量指标（2026 年推断）**：阿根廷加密交易所总体年化交易量估计为 $50-80 billion，其中 70%+ 以 USDT 计价。与 2023 年非正式灰色市场高峰相比，实际体量有所下降（因为 cepo 套利被压缩），但 **正式部门的占比已从 < 30% 提升到 > 70%**。
 
 ## 税制改革影响
 
-2024-2025 年税务框架现以更明确的规则处理加密资产：
+2024-2025 年税制框架对加密资产的处理规则已更明确：
 
-| 活动 | 税务处理 |
+| 行为 | 税务处理 |
 |---|---|
-| 加密资产间交易 | 通常在兑换为法币前不纳税 |
-| 加密资产兑换法币（ARS）销售 | 资本利得税，按**通货膨胀调整基础**计算（改革后）|
-| 自托管加密资产 | 有申报义务，但依最新规则已申报的加密资产不征财产税（个人资产税）|
-| 以加密资产形式发放的薪资 | 所得税（按市场价值视为实物所得）|
-| 挖矿收入 | 所得税，可抵扣电费 |
-| 特赦申报的加密资产 | 特别优惠税率合规化费用，此后适用正常处理 |
+| 加密对加密交易 | 一般在兑换成法币之前不征税 |
+| 加密兑换法币（ARS） | 资本利得税，按 **通胀调整后** 的基础计算（改革后） |
+| 自托管持有加密资产 | 有申报义务；按近期规则，已申报加密资产不征财富税（Bienes Personales） |
+| 以加密形式领取工资 | 按市场价值视作实物收入，征收所得税 |
+| 挖矿收入 | 征收所得税，可扣除电力成本 |
+| 通过宽免申报的加密资产 | 适用低税率的特别正规化费用，之后转入正常税制 |
 
-通货膨胀调整的资本利得计算对阿根廷纳税人至关重要：因 ARS 贬值而持有的 USDT，不会仅因此而产生巨额名义"收益"。此项改革使阿根廷的加密资产税务处理趋于合理。
+通胀调整后的资本利得计算对阿根廷纳税人至关重要：持有 USDT 对冲 ARS 贬值，不会仅因比索贬值就形成巨额名义“收益”。这使阿根廷的加密税制更接近合理原则。
 
 ### 乌拉圭
 
-BCU（乌拉圭中央银行）历来较为审慎。2023-2024 年乌拉圭加密资产框架优先考虑银行稳定而非加密资产增长。乌拉圭没有 USDT 饱和的家庭经济——比索（UYU）相对稳定，乌拉圭人有传统的银行美元化渠道。然而：
+BCU（Banco Central del Uruguay）历来较谨慎。2023-2024 年乌拉圭的加密框架优先考虑银行体系稳定，而不是加密增长。乌拉圭 **并不存在** 像阿根廷那样高度 USDT 化的居民经济，因为 UYU 相对稳定，而且乌拉圭居民原本就有传统银行美元化渠道。不过：
 
-- 与阿根廷的**跨境 USDT 走廊**历史上颇为显著。"布宜诺斯艾利斯 ↔ 科洛尼亚"周末旅游流与跨境美元 / USDT 流动关系密切。
-- 米莱后，该走廊更多地体现为阿根廷人投资乌拉圭房地产（埃斯特角城），而非规避阿根廷资本管制。
-- 乌拉圭的应对：BCU-MEF 协调下的 2024 年加密资产法案提案；截至 2026-05年尚未颁布。
+- 与阿根廷之间的 **跨境 USDT 走廊** 一直具有重要性。“Buenos Aires ↔ Colonia” 的周末旅游流，历来就与 USD / USDT 跨境流动相关。
+- 米莱之后，这条走廊 **不再主要用于规避阿根廷管制**，而更多与阿根廷人投资乌拉圭房地产（Punta del Este）有关。
+- 乌拉圭的回应是：在 BCU-MEF 协调下提出了 2024 年加密法案，但截至 2026-05 尚未生效。
 
 ### 巴拉圭
 
-巴拉圭对加密资产的态度比乌拉圭更为宽松，多次尝试出台对挖矿友好的立法（伊泰普水电站剩余电力 = 低廉电力）。阿根廷-巴拉圭加密资产走廊的交易量小于阿根廷-乌拉圭，但更专注于**矿机搬迁**和**USDT 储蓄**（面向巴拉圭非正式经济部门）。
+巴拉圭对加密的态度比乌拉圭更宽松，且曾多次尝试推动有利于挖矿的立法（Itaipu 水电富余意味着廉价电力）。阿根廷-巴拉圭加密走廊体量虽小于阿根廷-乌拉圭，但更集中在 **挖矿迁移** 和 **USDT 作为储蓄工具**。
 
-- BCP（巴拉圭中央银行）发布了 2023 年指导意见，承认加密资产的存在，但截至 2026年尚未建立综合许可框架。
-- 几家阿根廷交易所（Lemon、Ripio）研究过进入巴拉圭。
+- BCP（Banco Central del Paraguay）在 2023 年的指引中承认加密存在，但截至 2026 尚未建立完整许可框架。
+- 若干阿根廷交易所（Lemon、Ripio）已研究进入巴拉圭。
 
 ### 智利
 
-智利基本游离于此动态之外——CLP 比索较为稳定，金融体系更为成熟，智利加密资产行业的人均规模较小。Buda 是当地主要交易所；智利的监管框架由 CMF（金融市场委员会）负责，但相较阿根廷 CNV，其针对加密资产的具体规定较少。
+智利基本处于这一动态之外。CLP 更稳定、金融体系更成熟，而且智利加密行业按人均衡量更小。Buda 是当地主要交易所；其监管框架由 CMF（Comisión para el Mercado Financiero）负责，但并不像阿根廷 CNV 那样专门面向加密。
 
-## 与更广泛新兴市场美元化模式的比较
+## 与更广泛 EM 美元化模式的对照
 
-阿根廷米莱后正式化是 [[fintech/em-market-crypto-dollarization-pattern|EM 暗号ドル化パターン]] 的**关键测试案例**。该模式认为：
+阿根廷在米莱之后的正规化，是 [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]] 的一个 **关键测试案例**。该模式认为：
 
-> 新兴市场加密资产采用本质上是**影子美元化**，由资本管制 + 货币不稳定 + 难以获取传统美元所驱动。加密资产 = 加速美元化，而非去中心化。
+> EM 加密采用的根本驱动力是 **影子美元化**，来源于资本管制、货币不稳定和传统美元获取困难。Crypto = 加速美元化，而不是去中心化。
 
-阿根廷 2024-2026 年的进展验证了：
+阿根廷 2024-2026 的更新检验了以下问题：
 
-1. **放宽资本管制是否降低了 USDT 需求？** → 部分降低。"规避 Cepo"的用例已大幅萎缩。
-2. **正式化（PSAV）是否减少了 USDT 影子市场交易量？** → 是。正式交易所份额从 < 30% 增至 > 70%。
-3. **储蓄功能是否持续存在？** → 是。即使 ARS 趋于稳定，USDT 对于经历过恶性通胀的阿根廷人仍具吸引力。行为惯性较强。
-4. **区域走廊功能是否持续存在？** → 部分持续。阿根廷-乌拉圭旅游流 USDT 规模缩减。阿根廷-巴拉圭的挖矿 / 储蓄流有所增长。
-5. **阿根廷能否成为其他新兴市场的模板？** → 持续观察。土耳其、埃及、尼日利亚均有类似影子美元化模式；其政治经济环境与米莱的路径不尽相同，但 PSAV 式的技术框架具有可移植性。
+1. **放松资本管制会降低 USDT 需求吗？** 会，部分如此。“规避 cepo” 这一使用场景明显缩小。
+2. **PSAV 正规化会减少灰色市场 USDT 交易量吗？** 会。正式交易所份额已从 < 30% 增长到 > 70%。
+3. **储蓄功能还会保留吗？** 会。即使 ARS 稳定性改善，经历过恶性通胀的阿根廷居民仍把 USDT 视为有吸引力的储蓄工具，行为惯性很强。
+4. **区域走廊功能还存在吗？** 部分存在。阿根廷-乌拉圭的旅游流 USDT 规模变小，而阿根廷-巴拉圭的挖矿 / 储蓄流增长。
+5. **阿根廷会成为其他 EM 的模板吗？** 值得观察。土耳其、埃及、尼日利亚也有类似影子美元化模式；虽然其政治经济条件与米莱模式并不完全一致，但 PSAV 式技术框架具有可移植性。
 
 ## Related
 
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/INDEX|fintech index]]
-- [[fintech/em-market-crypto-dollarization-pattern|EM 暗号ドル化パターン]]
-- [[fintech/gray-market-dollar-network-formalization|グレーマーケット・ドル・ネットワークの正式化]]
-- [[fintech/sovereign-fund-crypto-allocation-pattern|ソブリン・ファンド暗号配分パターン]]
-- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list = 通貨保護主義]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether ビジネスモデル]]
+- [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]]
+- [[fintech/gray-market-dollar-network-formalization|gray-market dollar formalization]]
+- [[fintech/sovereign-fund-crypto-allocation-pattern|sovereign-fund crypto allocation pattern]]
+- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction-list monetary protectionism]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether business model short treasury yield]]
 - [[fintech/fatf-travel-rule-overview|FATF Travel Rule]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]
 - [[exchanges/INDEX|exchanges index]]
-- [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリックス]]
+- [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison matrix]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Comisión Nacional de Valores (CNV) Resolution 994/2024  (cnv.gov.ar)
-- Argentina Ley 27.739  (anti-money-laundering law text)
-- Argentina Ley 27.742  (Ley Bases, 2024) — tax reform and amnesty text
+- Comisión Nacional de Valores (CNV) Resolution 994/2024 (cnv.gov.ar)
+- Argentina Ley 27.739 (anti-money-laundering law text)
+- Argentina Ley 27.742 (Ley Bases, 2024) - tax reform and amnesty text
 - Banco Central de la República Argentina (BCRA) capital control communications (bcra.gob.ar, 2024-2026)
 - Lemon, Belo, Buenbit, Ripio, Let'sBit corporate disclosures and press
 - Bloomberg Línea Latam coverage 2024-2026
-
 - La Nación, Clarín domestic Argentine press
 - Coindesk Latam reporting 2024-2026
-
-- IMF Argentina Article IV consultations (2024,  2025)
-- Chainalysis Latam Crypto Adoption Reports (2024,  2025,  2026)
+- IMF Argentina Article IV consultations (2024, 2025)
+- Chainalysis Latam Crypto Adoption Reports (2024, 2025, 2026)
 - Uruguay BCU regulatory framework statements
-- Paraguay BCP guidance (2023  onward)
+- Paraguay BCP guidance (2023 onward)
 - Argentina Unidad de Información Financiera (UIF) communications

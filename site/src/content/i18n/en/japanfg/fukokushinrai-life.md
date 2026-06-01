@@ -3,7 +3,7 @@ source: japanfg/fukokushinrai-life
 source_hash: 9c1d04edbbeea2ac
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: Fukoku Shinrai Life Insurance
 translated_at: 2026-05-31T15:29:03.930Z
 ---
@@ -22,7 +22,7 @@ Fukoku Shinrai Life Insurance is a life-insurance operating company adjacent to 
 
 | Item | Notes |
 |---|---|
-| Legal name | Fukoku Shinrai Life Insurance Company, Limited |
+| Legal name | Fukokushinrai Life Insurance Company, Limited |
 | License route | Insurance Business Act life-insurance company; FSA life-insurer list |
 | Industry body | Life Insurance Association of Japan member |
 | Group / shareholder adjacency | Fukoku Life group and shinkin-bank distribution channel |

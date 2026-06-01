@@ -3,7 +3,7 @@ source: japanfg/iyogin-leasing
 source_hash: 4059ac30cfb6879d
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Iyogin Leasing"
 translated_at: 2026-05-31T15:29:03.935Z
 ---
@@ -22,7 +22,6 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 | Item | Notes |
 |---|---|
 | Legal name | Iyogin Leasing Co., Ltd. |
-| Japanese legal name | 株式会社いよぎんリース |
 | Parent | [[iyogin-hd|Iyogin Holdings]] 100%, consolidated with core subsidiary [[iyo-bank|Iyo Bank]] |
 | Established | 1974-09-26 as an Iyo Bank-related company; former name: Iyo Bank General Leasing. Capital: JPY 80 million. Became a directly held Iyogin Holdings subsidiary when Iyo Bank completed its sole-share-transfer holding-company formation on 2022-10-03. |
 | Main businesses | Equipment leasing, finance leasing, operating leasing, marine-cluster equipment leasing, municipal leasing, medical leasing, auto leasing, and factoring |
@@ -35,9 +34,7 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 ```text
 [[iyogin-hd|Iyogin Holdings]] (listed holding company, 5830; established 2022-10-03)
   |-- [[iyo-bank|Iyo Bank]] (100%) -- core bank; No. 1 share in Ehime; one of Shikoku's oldest banks
-  |     |-- relationship exposure to Imabari shipbuilding and other marine-cluster clients
   |-- Iyogin Leasing (100%; this page) -- group leasing company
-  |     |-- Ehime, broader Shikoku, and selected Honshu operating points
   |-- Iyogin DC Card (100%) -- DC-brand credit cards
   |-- Iyogin Business Service (100%) -- BPO
   |-- Iyogin Computer Service (100%) -- systems subsidiary
@@ -105,13 +102,13 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 
 ## Related
 
-- [[iyogin-hd]] · [[iyo-bank]] · [[ehime-bank]]
-- [[mebuki-lease]] · [[yokohama-bank-leasing]] · [[chibagin-leasing]] · [[yamaguchi-leasing]] · [[hokkaido-lease]]
-- [[mebuki-fg]] · [[concordia-fg]] · [[yokohama-bank]] · [[yamaguchi-fg]] · [[chiba-bank]] · [[shizuoka-fg]] · [[fukuoka-fg]] · [[tomony-hd]]
-- [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]]
-- [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]] · [[toyota-finance]] · [[ibj-leasing]] · [[kanematsu-leasing]]
-- [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
-- [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
+- [[iyogin-hd]] / [[iyo-bank]] / [[ehime-bank]]
+- [[mebuki-lease]] / [[yokohama-bank-leasing]] / [[chibagin-leasing]] / [[yamaguchi-leasing]] / [[hokkaido-lease]]
+- [[mebuki-fg]] / [[concordia-fg]] / [[yokohama-bank]] / [[yamaguchi-fg]] / [[chiba-bank]] / [[shizuoka-fg]] / [[fukuoka-fg]] / [[tomony-hd]]
+- [[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]] / [[fuyo-lease]] / [[tokyo-century]] / [[ricoh-leasing]]
+- [[ja-mitsui-leasing]] / [[nec-leasing]] / [[showa-leasing]] / [[toyota-finance]] / [[ibj-leasing]] / [[kanematsu-leasing]]
+- [[banking/regional-bank-consolidation-pattern]] / [[banking/regional-bank-api-digital-partnership-route]] / [[banking/INDEX]]
+- [[finance/japan-listed-financial-groups-investable-universe]] / [[finance/INDEX]]
 - [[JapanFG/INDEX|JapanFG index]]
 
 ## Sources

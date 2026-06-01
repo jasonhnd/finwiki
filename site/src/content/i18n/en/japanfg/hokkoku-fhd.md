@@ -3,7 +3,7 @@ source: japanfg/hokkoku-fhd
 source_hash: e8f0c64f835e4c32
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Hokkoku Financial Holdings (historical Hokkoku FHD)"
 translated_at: 2026-05-31T15:29:03.933Z
 ---
@@ -25,7 +25,6 @@ Its strategic profile was shaped by an unusually early technology program: adopt
 ## 1. Company Profile
 
 **Legal name**: Hokkoku Financial Holdings, Inc.
-**Japanese legal name**: 株式会社北國フィナンシャルホールディングス
 **Security code**: Tokyo Stock Exchange Prime 7381
 **Established**: 2021-10-01, through Hokkoku Bank's sole-share transfer into a holding-company structure
 **Head office**: Hokkoku Bank Head Office Building, 2-12-6 Hirooka, Kanazawa, Ishikawa
@@ -34,13 +33,11 @@ Its strategic profile was shaped by an unusually early technology program: adopt
 
 ```text
 Hokkoku FHD (listed holding company, 7381)
-  ├── Hokkoku Bank (100%) -- core regional-bank operation with the leading Ishikawa share
-  │     └── Ishikawa base plus branches in Toyama, Fukui, Tokyo, Osaka, and adjacent markets
-  ├── Digital Value (100%, established 2023-04) -- ICT consulting subsidiary
-  │     └── Corporate DX support and municipal DX support
-  ├── Hokkoku Management (100%) -- management consulting and regional corporate support
-  ├── Hokkoku Credit (100%) -- credit-card business
-  └── Hokkoku e Payment (100%) -- payment-related operations
+  |-- Hokkoku Bank (100%) -- core regional-bank operation with the leading Ishikawa share
+  |-- Digital Value (100%, established 2023-04) -- ICT consulting subsidiary
+  |-- Hokkoku Management (100%) -- management consulting and regional corporate support
+  |-- Hokkoku Credit (100%) -- credit-card business
+  |-- Hokkoku e Payment (100%) -- payment-related operations
 ```
 
 Tonari is better understood as a BaaS (Banking as a Service) platform brand provided by Hokkoku Bank and Digital Value to other regional banks and local financial institutions, rather than as a conventional subsidiary.
@@ -105,8 +102,8 @@ Because the earthquake affected Ishikawa and the Noto region, maintaining financ
 
 - [[fukuoka-fg|Fukuoka Financial Group]] -- the other major regional-bank DX reference case through Minna Bank.
 - [[hokuhoku-fg|Hokuhoku Financial Group]] -- neighboring Hokuriku regional-bank group.
-- [[shizuoka-fg|Shizuoka Financial Group]] · [[concordia-fg|Concordia Financial Group]] · [[mebuki-fg|Mebuki Financial Group]] -- mid-sized to large regional-bank groups.
-- [[mufg|MUFG]] · [[smfg|SMFG]] · [[mizuho-fg|Mizuho Financial Group]] -- megabank references.
+- [[shizuoka-fg|Shizuoka Financial Group]] / [[concordia-fg|Concordia Financial Group]] / [[mebuki-fg|Mebuki Financial Group]] -- mid-sized to large regional-bank groups.
+- [[mufg|MUFG]] / [[smfg|SMFG]] / [[mizuho-fg|Mizuho Financial Group]] -- megabank references.
 - [[sbi-hd|SBI Holdings]] -- regional-bank alliance strategy under the "fourth megabank" concept.
 - Related wiki: [[banking/minna-bank-baas-model|Minna Bank BaaS model comparison]].
 

@@ -3,46 +3,46 @@ source: japanfg/fukokushinrai-life
 source_hash: 9c1d04edbbeea2ac
 lang: zh
 status: machine
-fidelity: needs_review
-title: "Fukoku Shinrai Life Insurance"
+fidelity: ok
+title: "富国信赖生命保险"
 translated_at: 2026-05-31T15:29:03.930Z
 ---
 
-# Fukoku Shinrai Life Insurance
+# 富国信赖生命保险
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。阅读时可与生命保险公司、信用金库渠道和区域金融分销相关页面配套使用，以把握其在日本保险与区域金融交叉领域中的位置。
+本条目位于 [[JapanFG/INDEX|JapanFG index]]。可结合 [[JapanFG/fukoku-life|Fukoku Life]] 了解集团脉络，并结合 [[insurance/INDEX|insurance index]] 了解更广泛的保险体系与监管边界。
 
 ## TL;DR
 
-Fukoku Shinrai Life Insurance Co., Ltd. 是日本寿险运营公司，战略位置在于富国生命体系、信用金库渠道以及区域金融客户接点之间的连接。它不是大型综合金融集团的银行子公司，而是更适合作为“信用金库 / 区域金融渠道型寿险公司”观察的实体。
+富国信赖生命保险是一家寿险经营公司，与 Fukoku Life 集团以及信用金库银行分销渠道相邻接。在 FinWiki 中，它是连接寿险产品供给与区域金融客户触达的一条规模较小但很重要的路径。本页应被视为一个实体与牌照边界页面，而不是零售产品推荐页面。
 
-## 1. 牌照与集团边界
+## 牌照 / 集团边界
 
-| 项目 | 内容 |
+| 项目 | 说明 |
 |---|---|
-| 法定名称 | Fukoku Shinrai Life Insurance Co., Ltd. |
-| 牌照路径 | 《保险业法》下的生命保险公司；载于 FSA 寿险公司列表 |
-| 行业团体 | Life Insurance Association of Japan 会员 |
-| 集团 / 股东邻接 | 与 Fukoku Life、信用金库渠道和区域金融分销存在公开资料层面的邻接关系 |
-| Wiki 角色 | Fukoku / shinkin-channel life-insurance specialist |
+| 法定名称 | Fukoku Shinrai Life Insurance Company, Limited |
+| 牌照路径 | 《保险业法》项下寿险公司；FSA 寿险公司名单 |
+| 行业组织 | 日本生命保险协会会员 |
+| 集团 / 股东邻接关系 | Fukoku Life 集团与信用金库银行分销渠道 |
+| Wiki 角色 | Fukoku / 信用金库渠道寿险专门条目 |
 
-## 2. 为什么需要单独页面
+## 本页为何重要
 
-- 补齐 FSA 寿险公司列表中的 exact-name life-insurer 缺口。
-- 将生命保险与信用金库、区域金融客户分销联系起来。
-- 为比较银行柜面销售、信用金库渠道和区域金融保险分销提供实体锚点。
+- 补上 FSA 名录中 exact-name 寿险公司的覆盖缺口。
+- 连接寿险供给与信用金库、区域金融分销渠道。
+- 补充更广泛的寿险、合作金融与区域银行地图。
 
 ## Related
 
-- [[insurance/japan-insurance-system-overview]]
-- [[insurance/life-insurance-channel-mix]]
-- [[insurance/bancassurance-economics-japan]]
 - [[JapanFG/INDEX|JapanFG index]]
+- [[insurance/INDEX|insurance index]]
+- [[JapanFG/fukoku-life|Fukoku Life]]
+- [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 
 ## Sources
 
 - FSA: life-insurance company license list.
 - Life Insurance Association of Japan: member-company list.
-- Fukoku Shinrai Life official company profile.
+- Fukoku Shinrai Life Insurance official company profile.

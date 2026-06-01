@@ -3,70 +3,70 @@ source: japanfg/boj-financial-markets-dept
 source_hash: 8d741ed0f614de58
 lang: zh
 status: machine
-fidelity: needs_review
-title: "金融市场局（日本央行金融市场部）"
+fidelity: ok
+title: "日本银行金融市场局（BoJ Financial Markets Department）"
 translated_at: 2026-05-31T11:13:44.869Z
 ---
 
-# 金融市场局（日本央行金融市场部）
+# 日本银行金融市场局（BoJ Financial Markets Department）
 
-## 维基路线
-该条目位于 [[JapanFG/boj-payment-settlement-dept|決済機構局]] 下。对照 [[JapanFG/boj-monetary-policy|BoJ monetary policy]] 来了解日本央行内部的同行局背景，对照 [[money-market/japan-money-market|Japan money market]] 来了解政策到运营的边界。对于市场机制锚定，请通过 [[money-market/boj-open-market-operations|BoJ open market operations]] 和 QZX005QZX。
+## Wiki 路径
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[JapanFG/boj-payment-settlement-dept|支付结算系统局]] 对照阅读，以理解日本银行内部平行局室关系；也可结合 [[JapanFG/boj-monetary-policy|BoJ monetary policy]] 把握政策与执行之间的边界。若要理解市场机制，请继续参见 [[money-market/japan-money-market|Japan money market]] 与 [[money-market/boj-open-market-operations|BoJ open market operations]]。
 
-## 长话短说
+## TL;DR
 
-金融市场局（金融市场局，Financial Markets Department，缩写为FMD）是日本央行的内部机构，负责执行由政策委员会决定的货币市场和日本国债市场操作，并收集用于政策输入的市场情报。它是将货币政策会议指导方针转化为日常公开市场活动的运营部门。
+金融市场局（Financial Markets Department，简称 FMD）是日本银行内部负责执行政策委员会决定的货币市场与 JGB 市场操作、并收集供政策使用的市场情报的局室。它是把货币政策会议指引落实为日常公开市场操作的执行中枢。
 
-对于 JapanFG 来说，该局是依赖日本央行运营的每个页面的官方对应机构：tanshi 经纪流量、日本国债回购、国库券直接交易、证券借贷工具的使用以及压力时期的 CP/公司债券操作。
+对 JapanFG 来说，这个局是所有依赖日本银行市场操作页面的正式对应方，包括短资经纪流、JGB 回购、T-Bill 现券买卖、证券借贷便利，以及压力时期的 CP / 公司债操作。
 
-## QZX001QZX。功能/范围
+## 1. 职能 / 范围
 
-日本央行的英文组织结构图将金融市场部列为总部部门之一，通过执行董事和副行长汇报工作。其面向公众的职责包括：
+日本银行英文组织图将金融市场局列为总部局室之一，向执行董事与副总裁体系汇报。其对外公开职责包括：
 
-- 根据MPM准则执行公开市场操作：集合抵押品的资金供应操作、JGS回购（gensaki）操作、国债贴现票据的直接购买和销售、JGB直接购买、票据销售、证券借贷便利和外币资金供应操作。
-- 每日公布运营报价和结果，以及每月*日本央行的市场运营*发布。
-- 货币市场和日本国债市场情报：监控无抵押隔夜拆借利率、回购利率、日本国债曲线、交易商定位和一级市场动态。
-- 融资设施的运营连续性，例如贷款支持计划和压力时期引入的特别行动（这些由政策委员会决定，但通过该部门执行）。
+- 按照 MPM 指引执行公开市场操作：以一揽子担保品为基础的资金供给操作、JGS repo（gensaki）操作、Treasury Discount Bills 的现券买卖、JGB 现券买入、票据卖出、证券借贷便利，以及外币资金供给操作。
+- 每日公布操作要约与结果，并按月发布 *Market Operations by the Bank of Japan*。
+- 收集货币市场与 JGB 市场情报：监测无担保隔夜 call 利率、repo 利率、JGB 收益率曲线、交易商头寸与一级市场动态。
+- 保障融资便利的操作连续性，例如贷款支持计划，以及压力事件中引入的特别操作（这些措施由政策委员会决定，但由本局执行）。
 
-该局是日本央行日常市场交易对手关系的自然所在地，包括每项业务的资格名单。它本身并不决定政策利率或资产购买量。
+这个局是日本银行日常市场交易对手关系的自然中枢，也包括各类操作的资格名单管理。但它本身并不决定政策利率，也不决定资产购买规模。
 
-## QZX001QZX。交易对手/互动
+## 2. 交易对手 / 互动
 
-每项业务均与合格的交易对手进行日常互动。日本央行自己的框架承认货币市场经纪公司是短期中介的核心，这就是为什么 FMD 活动直接影响 [[JapanFG/central-tanshi|Central Tanshi]]、[[JapanFG/ueda-yagi-tanshi|Ueda Yagi Tanshi]] 和 QZX003QZX 的收入基础。
+日常互动对象是各类操作的合格交易对手。日本银行自身框架将短资公司（tanshi，money-market brokerage）视为短端中介的核心，因此 FMD 的活动会直接影响 [[JapanFG/tokyo-tanshi|Tokyo Tanshi]]、[[JapanFG/central-tanshi|Central Tanshi]] 与 [[JapanFG/ueda-yagi-tanshi|Ueda Yagi Tanshi]] 的收入基础。
 
 其他交易对手层包括：
 
-- JGB 主要交易商和主要证券公司进行直接 JGB/国库券业务。
-- 持有日本央行经常账户的银行和其他存款机构（账户基础设施方面参见 QZX001QZX）。
-- 从事外汇相关资金供应业务的外国央行（跨境协调与QZX001QZX共享）。
-- 通过 QZX001QZX 与货币事务部就政策制定进行内部联络，并就交易对手信用问题与金融体系和银行审查部进行内部联络。
+- 用于 JGB / T-Bill 现券操作的 JGB 一级交易商与大型证券公司。
+- 持有日本银行当座账户的银行及其他存款类机构（账户基础设施侧可参见 [[JapanFG/boj-payment-settlement-dept|支付结算系统局]]）。
+- 用于外汇相关资金供给操作的外国中央银行（跨境协调与 [[JapanFG/boj-international-dept|国际局]] 共享）。
+- 在政策框架方面与货币事务局联动，在交易对手信用问题上经由 [[JapanFG/boj-financial-system-dept|金融系统与银行检查局]] 与金融系统和检查局联动。
 
-## QZX001QZX。为什么此页面很重要
+## 3. 为什么这个页面重要
 
-- 它是“谁实际运行日本央行公开市场部门”的最干净的公共主播——每当 JapanFG 页面引用操作部门而不是政策决定时都需要它。
-- 它将执行（本局）与政策方向（QZX001QZX）区分开来，这是评论中经常混淆的界限。
-- 它解释了为什么檀石公司的业务量不能单独从政策利率中读出：此处设置的业务组合、资格清单和抵押条款将利率转化为市场流量。
-- 它为 [[money-market/call-market-structure|call market structure]] 和 QZX002QZX 页面中的回购/JGB 曲线评论提供了正确的锚点。
+- 它是“究竟由谁实际运行日本银行公开市场操作台”这一问题最清晰的公开锚点，凡是 JapanFG 页面指向执行部门而非政策决定本身时，都需要它。
+- 它区分了执行（本局）与政策方向（[[JapanFG/boj-monetary-policy|MPM guideline]]），这是评论中经常被混淆的边界。
+- 它解释了为什么不能只看政策利率来理解短资公司业务量：真正把利率转化为市场流量的，是这里设定和执行的操作组合、资格名单与担保品条件。
+- 它为 [[money-market/jgb-repo-market-japan|JGB repo market]] 与 [[money-market/call-market-structure|call market structure]] 页面中的 repo / JGB 曲线评论提供了正确锚点。
 
-## 有关的
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
+## Related
+- [[JapanFG/boj-monetary-policy|BoJ monetary policy]]
+- [[JapanFG/boj-payment-settlement-dept|支付结算系统局 (Payment and Settlement Systems Department)]]
+- [[JapanFG/boj-financial-system-dept|金融系统与银行检查局 (Financial System and Bank Examination Department)]]
+- [[JapanFG/boj-international-dept|国际局 (International Department)]]
+- [[money-market/japan-money-market|Japan money market]]
+- [[money-market/boj-open-market-operations|BoJ open market operations]]
+- [[money-market/jgb-repo-market-japan|JGB repo market]]
+- [[money-market/call-market-structure|call market structure]]
 
-## 来源
+## Sources
 
-- 日本银行，“组织”（英文） — QZX001QZX
-- 日本央行，“市场操作” — QZX001QZX
-- 日本央行，“货币市场” — QZX001QZX
-- 日本央行，“日本央行的市场操作”（每月发布） — QZX001QZX
-- 日本银行，“出版物”（年度回顾）— QZX001QZX
+- Bank of Japan, "Organization" (English) - https://www.boj.or.jp/en/about/organization/index.htm
+- Bank of Japan, "Market Operations" - https://www.boj.or.jp/en/mopo/measures/mkt_ope/index.htm
+- Bank of Japan, "Money Market" - https://www.boj.or.jp/en/paym/market/
+- Bank of Japan, "Market Operations by the Bank of Japan" (monthly release) - https://www.boj.or.jp/en/statistics/boj/fm/ope/index.htm
+- Bank of Japan, "Publications" (Annual Review) - https://www.boj.or.jp/en/about/publication/
 
 ---
 
-> [!info] 学校核心状态
-> 信心：**可能**。公共日本央行组织结构图 + 市场操作页面。局内部部门结构（部门负责人、部门名称）未一致以英文公布；该局名称的英文/日文罗马化是官方的“金融市场部”。
+> [!info] 学习提示
+> confidence: **likely**。依据日本银行公开组织图与市场操作页面整理。该局内部科室结构（如局长下辖细分部门名称）在英文公开资料中并不稳定；英文 / 日文对应的官方名称为 "Financial Markets Department"。

@@ -3,104 +3,107 @@ source: japanfg/aig-japan
 source_hash: 9285a9f4c9c3106a
 lang: zh
 status: machine
-fidelity: needs_review
-title: "AIG 日本（AIG 普通保险）"
+fidelity: ok
+title: "AIG 日本（AIG損害保険）"
 translated_at: 2026-05-31T11:13:44.866Z
 ---
 
-# AIG 日本（AIG 普通保险）
+# AIG 日本（AIG損害保険）
 
-## 维基路线
+## Wiki 路由
 
-该条目位于 [[JapanFG/axa-japan|アクサ・ジャパン (AXA Japan)]] 下。对照 [[banking/INDEX|banking index]] 来了解同行/对比环境，对照 QZX003QZX 来了解更广泛的系统/监管边界。
+本条目位于 [[JapanFG/INDEX|JapanFG index]]。建议与 [[JapanFG/axa-japan|アクサ・ジャパン (AXA Japan)]] 对照阅读，以把握同业与差异；也可与 [[banking/INDEX|banking index]] 一起阅读，用于理解更广义的金融体系与监管边界。
 
-## QZX001QZX。集团架构
+## 1. 集团结构
 
-**最终亲会公司**：American International Group, Inc.（米、NYSE: AIG）
+**最终母公司**：American International Group, Inc.（NYSE: AIG）
 **日本控股公司**：AIG Japan Holdings Co., Ltd.（非上市）
 **核心运营公司**：AIG General Insurance Co., Ltd.
 
-### 主要日本法人
+### 日本主要子公司
 
+```text
+American International Group, Inc.（NYSE: AIG）
+  └─ AIG Japan Holdings Co., Ltd.（控股公司 / 非上市）
+     ├─ AIG General Insurance Co., Ltd.
+     │  ├─ 企业专业险
+     │  ├─ 海外旅行保险
+     │  └─ 个人财险
+     ├─ 前 AIU 損害保険（更早前为 AIU Insurance Japan Branch）
+     ├─ 前 富士火災海上保険（日本本土财险，后并入 AIG）
+     └─ 相关服务公司（assistance / 理赔调查等）
 ```
-美国国际集团公司（米 NYSE: AIG）
-  └── AIG Japan Holdings Co., Ltd.（控股公司/非上市）
-        ├── AIG财产保险有限公司── 企业特殊险+境外旅游+个人非寿险
-        │ ├── 原AIU财产保险（原：QZX001QZXAIU保险日本分公司）
-        │ └── 原富士火灾海上保险（日本财产保险，QZX001QZX集团并入AIG）
-        └── 相关服务公司（协助/理算等）
-```
 
-> 注：由于人寿保险业务被出售给美国 **03 -[[prudential-japan]] Prudential **，**AIG Edison Life** 和 **AIG Star Life** 不再属于 AIG 集团的一部分，现在属于 QZX003QZX 旗下，名称为 **Prudential Gibraltar Financial Life (PGF Life)**。讨论 AIG 日本时最常见的错误是误解“AIG 人寿保险”的存在。
+> 注：寿险业务已于 2010-03 出售给美国 [[prudential-japan]] Prudential，因此 **AIG Edison Life** 与 **AIG Star Life** 已不再属于 AIG 集团，现归入 **Prudential Gibraltar Financial Life (PGF Life)** 体系。讨论 AIG 日本时最常见的误解之一，就是把 “AIG 的日本寿险业务” 与现行 AIG 日本财险体系混为一谈。
 
-### 重要历史（年表）
+### 重要沿革
 
-|年月|现象|
+| 年份 | 事项 |
 |---|---|
-|QZX001QZX|**AIU保险公司日本分公司**开业（战后第一批重新进入市场的外国保险公司之一）|
-|QZX001QZX代|AIG Japan 扩张（成立 AIU + Alico + AIG Edison Life + AIG Star Life 等混合集团）|
-|09 -QZX002QZX|**雷曼冲击 → 美国 AIG 公共基金救援**（由于 CDS 敞口，联邦政府提供高达 QZX001QZX 美元的支持）|
-|2009 -QZX002QZX|全球AIG转向出售非核心业务的政策（资产处置计划）|
-|**03-QZX002QZX**|**我们。英国保德信金融集团 (Prudential Financial) 收购 AIG Edison Life + AIG Star Life** → 目前为 PGF Life（QZX001QZX）|
-|2017 -QZX002QZX|非寿险业务逐步重组：原AIU非寿险+原富士火灾海上保险整合准备工作|
-|**QZX001QZX**|**美亚保险综合保险 + 富士火灾海上保险合并 → AIG 综合保险有限公司成立**|
+| 1946 | **AIU Insurance Company Japan Branch** 开业，是战后较早重返日本市场的外资保险主体之一 |
+| 1980s 以后 | AIG 日本扩张，形成 AIU + Alico + AIG Edison Life + AIG Star Life 的混合型集团结构 |
+| 2008-09 | **Lehman Shock 后美国 AIG 获得公共资金救助**，背景为 CDS 风险暴露 |
+| 2008-2009 | 全球 AIG 转向出售非核心业务的处置政策 |
+| 2010-03 | **美国 Prudential Financial 收购 AIG Edison Life 与 AIG Star Life**，现已并入 PGF Life |
+| 2010-2017 | 财险业务逐步重组，推进原 AIU 損害保険与原 富士火災海上保険的整合 |
+| 2018-01-01 | **AIU 損害保険与富士火災海上保険合并，AIG損害保険株式会社启动** |
 
-## QZX001QZX。业务线
+## 2. 业务线
 
-|部分|主要事业者|特征|
+| 业务板块 | 主要内容 | 特征 |
 |---|---|---|
-|企业特殊风险|AIG损保|D&O/专业赔偿/E&O/网络保险/环境责任 — Global AIG 的列克星敦产品技术|
-|大企业财物・赔偿|AIG损保|财产/责任/工业事故（包括在美国经营的日本公司在美国的建筑）|
-|海外旅行保险|AIG损保|源自老牌品牌“美亚旅游保险”，机场柜台销售+网上直营|
-|富人专用保险|AIG损保|艺术品、别墅、收藏车等私人客户集团产品|
-|再保险|AIG 集团内部|通过团体再保险吸收大型合同和灾难|
+| 企业专业险 | D&O、Professional Indemnity、E&O、Cyber、Environmental Liability 等 | 可运用全球 AIG，特别是 Lexington 体系的产品能力 |
+| 大型企业财产 / 责任险 | 财产险、责任险、工业事故相关险种 | 包括日本企业海外项目，尤其美国建设相关风险 |
+| 海外旅行保险 | 长年经营的旅行保险品牌 | 继承前 AIU Travel Insurance 的品牌资产，兼具机场柜台与线上销售 |
+| 高净值客户专门险 | 艺术品、别墅、收藏车辆等 | 属于 Private Client Group 产品逻辑 |
+| 再保险 | AIG 集团内部再保险 | 通过集团再保险吸收大型合同与巨灾风险 |
 
 ### 定位
 
-- **历史悠久的外资非寿险公司**：[[axa-japan]] 美亚保险是最早全面进入的外资非寿险公司之一**。 Chubb（原Ace）/ AXA General Insurance（QZX002QZX）/ 与安联等外资非寿险集团
-- **海外旅游保险品牌**：原AIU及机场柜台分销网络衍生的品牌资产依然强劲
+- **老牌外资财险公司**：前 AIU 是较早全面进入日本市场的外资财险公司之一。AIG 日本通常与 Chubb（前 Ace）、[[JapanFG/axa-japan|AXA Japan]]、Allianz 等外资财险集团并列观察。
+- **海外旅行保险品牌资产强**：前 AIU 所积累的品牌认知与机场柜台网络，仍是其重要遗产。
 
-### 全球杠杆
+### 全球网络杠杆
 
-- **自保前置**：利用全球 AIG 网络为日本跨国公司的海外子公司进行自保运营
-- **再保险平台**：通过AIG集团再保险吸收日本大规模灾害（地震和台风）
+- **Captive / Fronting**：可利用全球 AIG 网络，为日本跨国公司的海外子公司提供 captive 相关服务。
+- **再保险平台**：日本国内地震、台风等大型灾害风险，可通过 AIG 集团再保险体系吸收。
 
 ### 竞争关系
 
-|冲突类型|主要竞合|
+| 竞争领域 | 主要对手 |
 |---|---|
-|国内 QZX001QZX 巨型财产保险|[[JapanFG/msad|ms-and-ad-insurance]] / [[JapanFG/sompo|sompo-hd]] / QZX003QZX|
-|企业特殊风险/D&O|Chubb（原 Ace）/ Tokio Marine & Nichido / 三井住友保险公司 / Sompo Japan|
-|网络保险|Chubb / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan / Beazley 等国外劳合社附属公司|
-|海外旅行保险|JI 事故/火灾 / Sompo Japan / Tokio Marine & Nichido|
-|财富层特殊|安联 / QZX001QZX / 安联|
-|个人直接|索尼保证 / Secom 保证 / SBI 保证 / QZX001QZX AXA 保证|
+| 日本大型财险同业 | [[JapanFG/msad|ms-and-ad-insurance]] / [[JapanFG/sompo|sompo-hd]] / Tokio Marine 体系 |
+| 企业专业险 / D&O | Chubb / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan |
+| 网络安全保险 | Chubb / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan / Beazley 等 Lloyd's 相关外资 |
+| 海外旅行保险 | JI 伤害火灾 / Sompo Japan / Tokio Marine & Nichido |
+| 高净值客户险 | Chubb / [[JapanFG/axa-japan|AXA Japan]] / Allianz |
+| 个人直销险 | Sony Assurance / Secom Assurance / SBI Assurance / [[JapanFG/axa-japan|AXA Japan]] |
 
-## QZX001QZX。法规与政策
+## 3. 监管与政策
 
-- **监管**：金融服务局 (FSA) 监管，基于《保险业法》
-- **偿付能力**：单一日本子公司受日本偿付能力充足率规定约束，集团合并基于美国监管
-- **当前政策问题**：
-  - **QZX001QZX~ 基于经济价值的偿付能力监管（ESR）介绍**：内部模型开发，特别是特殊风险的长期损失评估
-  - **网络保险承保标准化**：响应金融厅和经济产业省制定网络保险指南。
-  - **代理渠道合规性**：代理机构重组与个人非寿险收缩并行
+- **监管机关**：金融厅（FSA），适用《保险业法》。
+- **偿付能力**：单一日本法人适用日本本地偿付能力监管；集团合并层面则以上游美国监管为基础。
+- **当前政策议题**：
+  - **2025 起经济价值基础偿付能力监管（ESR）导入**：尤其牵涉专业险长尾损失的内部模型与评估能力。
+  - **网络安全保险承保标准化**：需要应对金融厅与经济产业省相关指引的发展。
+  - **代理渠道合规**：在个人财险收缩并行的背景下，代理渠道重整与合规要求仍是重点。
 
-## 有关的
+## Related
 
-- QZX001QZX（前 AIG Edison Life + 当前 AIG Star Life 附属公司）
-- [[aflac-japan]]·QZX002QZX（国外寿险及非寿险营）
-- [[JapanFG/msad|ms-and-ad-insurance]]·[[JapanFG/sompo|sompo-hd]]·3 （国内QZX004QZX大型非寿险竞争对手）
-- QZX001QZX（中型非寿险比较目标）
+- [[prudential-japan]]：承接前 AIG Edison Life 与 AIG Star Life 的体系。
+- [[aflac-japan]]：外资寿险 / 财险阵营对照。
+- [[JapanFG/msad|ms-and-ad-insurance]] / [[JapanFG/sompo|sompo-hd]] / Tokio Marine：日本三大财险集团对照。
+- [[JapanFG/axa-japan|AXA Japan]]：中型外资财险对照对象。
 
 ## 来源
 
-- **维基百科：AIG 普通保险**（参见 2026-05-19 QZX002QZX）
-- **维基百科：AIU 保险公司**（参见 2026-05-19 QZX002QZX）
-- **维基百科：富士火灾海上保险**（参见 2026-05-19 QZX002QZX）
-- **维基百科：美国国际集团**（参见 2026-05-19 QZX002QZX）
-- AIG Inc. Annual Report QZX001QZX（公式 IR）
+- Wikipedia：AIG損害保険。
+- Wikipedia：AIU保険会社。
+- Wikipedia：富士火災海上保険。
+- Wikipedia：American International Group。
+- AIG Inc. Annual Report 2024。
 
 ---
 
-> [!info] 校核状态
-> 信心：**可能**。摘要基于公共来源（维基百科 + AIG Group IR）。日本个别企业的最新财务指标（保费收入、承保利润、偿付能力充足率）均未公开且自愿披露，因此本文不提供具体数字，而是重点介绍其结构、历史和战略。 **特别重要的历史事实：QZX001QZX 将AIG 的人寿保险业务（Edison + Star）出售给美国保诚集团是讨论AIG Japan 的先决条件。 ** 如果您需要数据，请单独参阅AIG General Insurance Disclosure杂志（在官方网站上发布）。
+> [!info] 说明
+> `confidence: likely`。本文基于公开来源（Wikipedia 与 AIG Group IR）整理。由于日本个别法人层面的保费、承保利润、偿付能力比率等数字多为非上市主体的任意披露，本文不主动扩展数值细节，而是聚焦于结构、沿革与业务定位。尤其重要的一点是，2010-03 AIG 将日本寿险业务出售给美国 Prudential，这一历史事实是理解当前 AIG 日本财险架构的前提。

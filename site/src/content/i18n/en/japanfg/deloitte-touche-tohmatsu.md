@@ -3,7 +3,7 @@ source: japanfg/deloitte-touche-tohmatsu
 source_hash: e90b2ee72297aa04
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "Deloitte Touche Tohmatsu LLC"
 translated_at: 2026-05-31T15:29:03.928Z
 ---
@@ -16,9 +16,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 ## 1. Entity profile
 
 - **Formal name:** Deloitte Touche Tohmatsu LLC.
-- **Legal form:** limited liability audit corporation under Japan's Certified Public Accountants Act framework.
+- **Legal form:** Limited liability audit corporation under Japan's Certified Public Accountants Act framework.
 - **Head office:** Marunouchi, Chiyoda-ku, Tokyo.
-- **Network affiliation:** member firm of Deloitte Touche Tohmatsu Limited (DTTL).
+- **Network affiliation:** Member firm of Deloitte Touche Tohmatsu Limited (DTTL).
 - **Adjacent group entities:** Deloitte Tohmatsu Consulting, Deloitte Tohmatsu Financial Advisory, Deloitte Tohmatsu Tax, and Deloitte Tohmatsu Risk Advisory should be treated as separate legal entities unless a source explicitly ties them to the audit corporation.
 
 ## 2. History
@@ -30,7 +30,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[Japan
 | 1989 | The global Touche Ross and Deloitte Haskins & Sells combination formed Deloitte Touche Tohmatsu as a global network name. |
 | 2003 | The consulting business separated from the audit corporation in the post-Enron audit-independence cycle; the separate consulting lineage later rebranded as Deloitte Tohmatsu Consulting. |
 | 2008-07 | Reorganized under the limited-liability audit-corporation framework. |
-| 2020s | Digital-asset assurance and Travel Rule / AML advisory became a visible adjacent practice area in public materials. |
+| 2020s | Digital-asset assurance and Travel Rule / AML advisory became visible adjacent practice areas in public materials. |
 
 ## 3. Audit, insurance, and securities perimeter
 
