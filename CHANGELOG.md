@@ -31,6 +31,19 @@
 
 ## 2026-06-01
 
+### GPT i18n 翻訳バッチ継続・zh/en 1143 件へ / GPT i18n continuation batch (zh/en 1143 each) / GPT i18n 翻译续跑批次（zh/en 各 1143）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-01 11:35 JST。
+- **背景**: zh/en 1013 release 後も、全量 1380 entries 完了に向けて GPT/Codex worker による i18n batch を継続した。Sonnet は使用していない。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `.cache/jobs/w0..w9/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.01-4.md`。公開済み wiki 原文本文は変更せず、機械翻訳 surface と release / discovery 記録だけを更新した。
+- **実行手順**: `bun scripts/prep-parallel.mjs --workers 10 --size 13` で 130 jobs を準備し、10 本の GPT/Codex workers で worker directory 単位に処理した。未生成の 3 entries は recovery workers / single-file recovery に分割して補完した。`japanfg/ssnb.md` の英訳で placeholder order が原文とずれたため、TL;DR と ownership block の英文だけを原文順に合わせて修正した。完了済み worker / recovery agents は archive 済み。
+- **結果**: `bun scripts/commit-translate.mjs` は **ok=260, needs_review=0, missing=0**。累計 i18n は **zh 1143 / en 1143** へ進捗した。
+- **検証結果**: `bun run build` pass (4147 pages built)。`python tools/release.py --write` pass。`python tools/release.py --check --strict` pass (link audit 1411 entries / 0 issues, counts in sync, JSON / LF OK)。
+- **既知の注意点**: Windows の directory lock は、worker 完了後も agent を archive しないと `.cache/jobs` cleanup を妨げる場合がある。今後も batch 終了ごとに used worker agent archive を確認する。
+- **次の作業**: 次 batch で zh/en 1273 付近まで継続し、`prep-parallel` が 0 jobs を返すまで同じ verify-first flow を繰り返す。
+- **EN**: Continued the GPT/Codex i18n run after the zh/en 1013 release. Prepared 130 jobs, ran 10 GPT/Codex workers, recovered the 3 missing entries with smaller recovery workers, fixed the English `japanfg/ssnb.md` placeholder order, and archived the used workers. `commit-translate` finished with ok=260, needs_review=0, missing=0; cumulative i18n is now zh 1143 / en 1143. Astro build passed with 4147 pages.
+- **中文**: 在 zh/en 1013 发布后继续使用 GPT/Codex 续跑 i18n。已准备 130 个 jobs，启动 10 个 GPT/Codex worker，使用更小的 recovery worker 补完 3 个缺失条目，修正 `japanfg/ssnb.md` 英文译文的 placeholder 顺序，并归档已使用的 worker。`commit-translate` 结果为 ok=260、needs_review=0、missing=0；累计 i18n 已达到 zh 1143 / en 1143。Astro build 通过，共生成 4147 页。
+
 ### GPT i18n 継続バッチ（zh/en 1013 件へ）/ GPT i18n continuation batch (zh/en 1013 each) / GPT i18n 续跑批次（zh/en 各 1013）
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-01 09:44 JST。
