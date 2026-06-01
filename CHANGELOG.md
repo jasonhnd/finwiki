@@ -29,6 +29,21 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-02
+
+### CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate
+
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-02 01:10 JST。
+- **背景**: 前回 release 後の残タスクとして、Astro build の duplicate id warning と GitHub Actions の Node.js 20 deprecation annotation を整理する必要があった。最新の GitHub Actions release 情報は公式 GitHub API と GitHub release pages で確認し、Node.js 24 runtime 世代へ移行できる major version を採用した。
+- **範囲**: `.github/workflows/deploy.yml`、`tools/check_duplicate_html_ids.py`、`tools/release.py`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02.md`。公開 wiki 本文と i18n corpus は変更していない。
+- **主要変更**: `actions/checkout@v4` を `actions/checkout@v6`、`actions/upload-pages-artifact@v3` を `actions/upload-pages-artifact@v5`、`actions/deploy-pages@v4` を `actions/deploy-pages@v5` へ更新した。`oven-sh/setup-bun@v2` は v2 系が Node.js 24 runtime を使用するため維持した。CI build 後に `python tools/check_duplicate_html_ids.py site/dist` を実行し、rendered HTML の page-local duplicate `id` を release-blocking gate にした。
+- **実行手順**: `bun run build` で 4147 pages を生成し、`python tools/check_duplicate_html_ids.py site/dist` で rendered HTML を検査した。`python tools/release.py --check --strict` は日付 drift を検出したため、同じ作業内で `python tools/release.py --write` を実行して README / footer / discovery surface を 2026-06-02 snapshot へ同期する。
+- **検証結果**: `bun run build` は 4147 pages built で成功し、build-warning filter は duplicate id / duplicate heading / Warning 行を検出しなかった。`python tools/check_duplicate_html_ids.py site/dist` は checked=4147 / duplicate_id_pages=0 / duplicate_ids=0。`python tools/release.py --check --strict` は PASS、`git diff --check` は PASS、CRLF count は 0。GitHub Actions の対象 action は Node.js 24 runtime generation へ更新済みで、deployment annotation は push 後に確認する。
+- **残タスク**: push 後に GitHub Actions run の annotation が消えたこと、Pages deployment が成功したこと、`https://finwiki.zksc.io/` が 200 を返すことを確認する。
+- **EN**: Cleaned up the two follow-up items from the previous release. The deploy workflow now uses `actions/checkout@v6`, `actions/upload-pages-artifact@v5`, and `actions/deploy-pages@v5`, while keeping `oven-sh/setup-bun@v2` because the current v2 action already declares Node.js 24. Added `tools/check_duplicate_html_ids.py` and wired it into CI immediately after Astro build. Local validation passed: Astro build 4147 pages, duplicate_id_pages=0 / duplicate_ids=0, release strict check clean, no whitespace errors, and CRLF count 0. The deployment annotation is verified after push.
+- **中文**: 清理上一轮留下的两个维护项。部署 workflow 已把 `actions/checkout`、`actions/upload-pages-artifact`、`actions/deploy-pages` 升到 Node.js 24 世代版本；`oven-sh/setup-bun@v2` 保持不变，因为当前 v2 action 已声明 Node.js 24。新增 `tools/check_duplicate_html_ids.py`，并接到 Astro build 之后的 CI gate。本地验证已通过：Astro build 生成 4147 页，duplicate_id_pages=0 / duplicate_ids=0，release strict check 通过，whitespace error 为 0，CRLF count 为 0。deployment annotation 在 push 后确认。
+
 ## 2026-06-01
 
 ### 三語語彙品質監査・専門語彙 polish / Trilingual lexical-quality audit and specialist wording polish / 三语词汇质量审计与专业语域 polish
