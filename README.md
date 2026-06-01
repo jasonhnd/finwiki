@@ -14,16 +14,16 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1457 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1458 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約986万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,863,268） |
+| Text volume | 約987万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,869,658） |
 | Word-like tokens | 約157万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-01 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
-> i18n 進捗: 2026-06-01 JST の GPT 翻訳バッチ v2026.06.01-5 後、`site/src/content/i18n` は zh 1273 / en 1273 ファイルです。本輪の `commit-translate` は ok=260, needs_review=0, missing=0 で完了し、占位符検証を通過した訳文だけを保持しています。
+> i18n 進捗: 2026-06-01 JST の GPT 翻訳バッチ v2026.06.01-6 後、`site/src/content/i18n` は zh 1380 / en 1380 ファイルです。最終輪の `commit-translate` は ok=214, needs_review=0, missing=0 で完了し、`prep-parallel` は 0 jobs を返しました。占位符検証を通過した訳文だけを保持しています。
 
 ### 🚪 まず見る場所
 
@@ -139,16 +139,16 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1457 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1458 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.py` |
 | Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~9.86M chars | ~9,863,268 non-space UTF-8 characters across Markdown |
+| Text volume | ~9.87M chars | ~9,869,658 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.57M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-01 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
-> i18n progress: after the 2026-06-01 JST GPT translation batch v2026.06.01-5, `site/src/content/i18n` contains 1273 zh files and 1273 en files. This round's `commit-translate` finished with ok=260, needs_review=0, missing=0, and only placeholder-verified translations are retained.
+> i18n progress: after the 2026-06-01 JST GPT translation batch v2026.06.01-6, `site/src/content/i18n` contains 1380 zh files and 1380 en files. The final round's `commit-translate` finished with ok=214, needs_review=0, missing=0, and `prep-parallel` returned 0 jobs. Only placeholder-verified translations are retained.
 
 ### 🚪 Primary Entrances
 
@@ -249,16 +249,16 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1457 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1458 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约986万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,863,268） |
+| Text volume | 约987万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,869,658） |
 | Word-like tokens | 约157万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-01 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
-> i18n 进度：2026-06-01 JST 的 GPT 翻译批次 v2026.06.01-5 后，`site/src/content/i18n` 为 zh 1273 / en 1273 文件。本轮 `commit-translate` 结果为 ok=260、needs_review=0、missing=0，仅保留通过占位符校验的译文。
+> i18n 进度：2026-06-01 JST 的 GPT 翻译批次 v2026.06.01-6 后，`site/src/content/i18n` 为 zh 1380 / en 1380 文件。最终轮 `commit-translate` 结果为 ok=214、needs_review=0、missing=0，`prep-parallel` 已返回 0 jobs，仅保留通过占位符校验的译文。
 
 ### 🚪 优先入口
 

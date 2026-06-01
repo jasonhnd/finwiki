@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-01T12:35:00+09:00
+Generated: 2026-06-01T13:19:11+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1457
-Public pages listed: 1456
+Markdown files: 1458
+Public pages listed: 1457
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1456
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-01, GPT i18n 翻訳バッチ継続・zh/en 1273 件へ / GPT i18n continuation batch (zh/en 1273 each) / GPT i18n 翻译续跑（zh/en 各 1273）, GPT i18n 翻訳バッチ継続・zh/en 1143 件へ / GPT i18n continuation batch (zh/en 1143 each) / GPT i18n 翻译续跑批次（zh/en 各 1143）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-01, GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页, GPT i18n 翻訳バッチ継続・zh/en 1273 件へ / GPT i18n continuation batch (zh/en 1273 each) / GPT i18n 翻译续跑（zh/en 各 1273）
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13080,6 +13080,15 @@ Public pages listed: 1456
 - Type: release_note
 - Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。zh/en 1143 release 後、次の 130 source entries を GPT/Codex worker で処理し、累計進捗を zh 1273 / en 1273 に進めました。
 - Headings: GPT i18n 翻訳バッチ継続・1273/1273 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+
+### GPT i18n 全量完了・1380/1380 と封面ホーム更新
+- URL: https://finwiki.zksc.io/releases/v2026.06.01-6
+- Source path: releases/v2026.06.01-6.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-6.md
+- Domain: releases
+- Type: release_note
+- Summary: 2026-06-01 JST の GPT/Codex i18n 最終バッチです。残り 107 source entries を処理し、累計 i18n を zh 1380 / en 1380 まで完了しました。あわせて finwiki.zksc.io のトップページを三語対応の封面ホームページへ更新しました。
+- Headings: GPT i18n 全量完了・1380/1380 と封面ホーム更新, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### GPT i18n 翻訳バッチ継続・740/740 進捗
 - URL: https://finwiki.zksc.io/releases/v2026.06.01

@@ -31,6 +31,21 @@
 
 ## 2026-06-01
 
+### GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-01 13:18 JST。
+- **背景**: zh/en 1273 release 後、残り約 107 source entries を完了し、ユーザー要望の `finwiki.zksc.io` 封面ホームページも同じ公開 cycle で反映した。翻訳 worker はユーザー指定どおり GPT/Codex を使用し、Sonnet は使用していない。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `site/src/pages/index.astro`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.01-6.md`。公開済み wiki 原文本文は変更せず、i18n surface、Astro homepage、release / discovery 記録を更新した。
+- **実行手順**: `bun scripts/prep-parallel.mjs --workers 10 --size 13` で 107 jobs を準備し、10 本の GPT/Codex workers に分割した。初回 `paseo run` では prompt の 1 行目だけが渡って output 0 だったため、同じ worker thread へ `--prompt-file` で完全な指示を再送した。w7 が一部 output を `site` root に書いたため、job base と一致する files だけを `.cache/jobs/w7/` へ移動した。完了後 `bun scripts/commit-translate.mjs` で placeholder verify + unmask を実行し、使用済み worker agents は archive した。
+- **封面ホーム**: `site/src/pages/index.astro` を読みやすい trilingual cover homepage に刷新した。`og-image.png` を hero visual として使い、動的統計、language entrances、featured domains、AI/crawler entry points を第一画面から続く構成にした。ブラウザ検証で `1,380 / 23 / 1,273 / 1,273` 表示を確認後、domain count を既存 domain map ベースへ修正し、最終 release では zh/en 1380 表示へ更新される。
+- **結果**: `commit-translate` は **ok=214, needs_review=0, missing=0**。累計 i18n は **zh 1380 / en 1380** へ到達した。`bun scripts/prep-parallel.mjs --workers 10 --size 13` は **0 jobs** を返し、未翻訳 entry は残っていない。
+- **検証結果**: `bun run build` pass (4147 pages built)。homepage local browser check で title / H1 / stats / overflow 0 を確認した。release write / strict check / remote deployment はこの release cycle 内で実施する。
+- **既知の注意点**: Astro build の duplicate id warning は既存の非阻断 warning として残る。今後の作業は全量後の訳文品質レビュー、必要なら needs_review が出た場合の精修、UI 文言の追加改善。
+- **EN**: Completed the remaining 107 source entries with GPT/Codex workers, bringing cumulative i18n to zh 1380 / en 1380. The first worker launch only delivered the first prompt line, so the full instructions were resent via prompt files to the same worker threads. One w7 output placement issue was corrected by moving only exact job-base files into `.cache/jobs/w7/`. `commit-translate` finished with ok=214, needs_review=0, missing=0, and `prep-parallel` now reports 0 jobs. The public homepage was rebuilt as a trilingual cover page with a visual hero, live corpus stats, language entrances, featured domains, and AI discovery links. Build passed with 4147 pages.
+- **中文**: 已用 GPT/Codex worker 完成剩余 107 个 source entries，累计 i18n 达到 zh 1380 / en 1380。首次启动 worker 时只传入 prompt 第一行，因此改用 prompt-file 给同一批 worker 重新发送完整任务。w7 有部分输出写到 `site` 根目录，已按 job base 精确移动回 `.cache/jobs/w7/`。`commit-translate` 结果为 ok=214、needs_review=0、missing=0，`prep-parallel` 已返回 0 jobs。公开首页也已重写为三语封面页，包含视觉 hero、实时统计、语言入口、重点领域和 AI discovery 链接；Astro build 通过，生成 4147 页。
+
 ### GPT i18n 翻訳バッチ継続・zh/en 1273 件へ / GPT i18n continuation batch (zh/en 1273 each) / GPT i18n 翻译续跑（zh/en 各 1273）
 
 #### 日本語記録 / English / 中文
