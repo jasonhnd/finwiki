@@ -11,12 +11,12 @@ translated_at: 2026-05-30T16:40:11.483Z
 # Agent 支付基础设施调查报告
 
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/skill-market-monetization|Skill マーケット有料化]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+本条目位于 [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议全景图：7 个协议俯瞰]] 之下。可与 [[agent-economy/skill-market-monetization|技能市场付费化]] 对照阅读，并结合 [[payments/INDEX|payments index]] 理解更广的支付系统与监管边界。
 
 > [!info] TL;DR
-> Public-source protocol snapshot | 2026-04-08
+> 公开资料协议快照 | 2026-04-08
 
 ## 一、协议标准格局
 
@@ -49,22 +49,22 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## 四、市场数据
 
-- 2025 年AI Agent 完成 **1.4 億笔支付**,均值仅 $0.31/笔 ([来源](https://nevermined.ai/blog/ai-agent-payment-statistics))
+- 2025 年 AI Agent 完成 **1.4 亿笔支付**，均值仅 $0.31/笔 ([来源](https://nevermined.ai/blog/ai-agent-payment-statistics))
 - 稳定币 2025 年交易量达到 [[fintech/usd-stablecoin-interchange|**$33 兆**]],Agent 支付的 98.6% 以 USDC 结算
 - AI Agent 市场预测从 2025 年 $78.4 億 → 2030 年 $526.2 億(CAGR 46.3%)
-- a16z 的预测:定价将从「席位制」转向「成果制」,加密微支付成为 [[agent-economy/skill-market-monetization|Agent 間リアルタイム決済ツール]] ([来源](https://a16z.com/newsletter/big-ideas-2026-part-2/))
+- a16z 的预测：定价将从“席位制”转向“成果制”，加密微支付成为 [[agent-economy/skill-market-monetization|Agent 间实时支付工具]] ([来源](https://a16z.com/newsletter/big-ideas-2026-part-2/))
 
 ## 五、对 Agent 支付项目的启示
 
 1. **时间窗口存在但正在收窄**:4 大协议已经确立,Crossmint/Skyfire 等已抢得先机,但日活跃交易量极低(x402 仅 $28K/日),表明市场仍处于早期阶段。
-2. **差异化方向**:现有解决方案大多集中于 crypto-native 场景。[[fintech/ai-payment-two-tracks|法定通貨 - ステーブルコインのブリッジ]]、合规 KYA 集成、中国/亚洲市场的支付手段(Alipay/WeChat → 稳定币)仍是空白。
+2. **差异化方向**：现有解决方案大多集中于 crypto-native 场景。[[fintech/ai-payment-two-tracks|法币 - 稳定币桥接]]、合规 KYA 集成、中国 / 亚洲市场的支付手段（Alipay / WeChat -> 稳定币）仍是空白。
 3. **协议兼容而非重新发明**:应支持 x402/ACP/AP2/MPP,在其之上构建增值层,而非另起炉灶。
 4. **微交易的经济性**:Agent 支付均值为 $0.31 ,要求极低手续费。Base/Solana 的 sub-cent fee 已满足要求,但关键在于结算效率与批处理。
 5. **ID + 支付的捆绑**:ERC-8004 + KYA 正成为合规底线,支付方案若内置 ID 层则具备监管优势。
 
 ---
 
-Sources:
+## Sources
 - [Google AP2](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)
 - [A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402)
 - [Stripe ACP](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce)
@@ -85,8 +85,8 @@ Sources:
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/agent-actorship-debate|Agent 主体性論争:4つの陣営]]
-- [[agent-economy/claude-code-extension-architecture|Claude Code 拡張コンポーネントアーキテクチャ — Agent エコシステムのインフラ階層]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造(JPYC・USDC・Project Pax)]]
-- [[fintech/ai-payment-two-tracks|AI 産業の二つの決済軌道:Stripe モデル vs ステーブルコインモデル]]
+- [[agent-economy/agent-actorship-debate|Agent 主体性争论：四个阵营]]
+- [[agent-economy/claude-code-extension-architecture|Claude Code 扩展组件架构：Agent 生态系统基础设施层]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制的三层结构（JPYC・USDC・Project Pax）]]
+- [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模型 vs 稳定币模型]]
 <!-- /wiki-links:managed -->

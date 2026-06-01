@@ -8,16 +8,15 @@ title: "Hanasaku Life Insurance"
 translated_at: 2026-05-31T15:29:03.912Z
 ---
 # Hanasaku Life Insurance
-# はなさく生命保険
 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nanairo-life|なないろ生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/nanairo-life|Nanairo Life Insurance]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-はなさく生命保険株式会社は、金融庁 life-insurer list に掲載される [[nippon-life]] group の life-insurance operating company。日本生命本体の traditional sales-force model とは別に、medical / protection products and agency-channel strategy を担う newer group insurer として見る。
+Hanasaku Life Insurance Co., Ltd. is a Nippon Life group life-insurance operating company listed in the FSA life-insurer register. It should be read as a newer group insurer responsible for medical and protection products and agency-channel strategy, distinct from Nippon Life's traditional sales-force model.
 
 ## 1. License / group boundary
 
@@ -31,7 +30,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-はなさく生命は、大手 mutual insurer が別ブランドで agency / direct-friendly products を展開する例。[[nanairo-life]] and [[medicare-life]] と同じく、parent insurer の scale and brand trust を背景にしつつ、product design and channel strategy を分ける structure が重要になる。
+Hanasaku Life is an example of a major mutual insurer using a separate brand for agency- and direct-friendly products. As with [[nanairo-life]] and [[medicare-life]], the analytically important point is the separation of product design and channel strategy while still drawing on the parent insurer's scale and brand trust.
 
 ## 3. Why this page matters
 
@@ -51,4 +50,4 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 - FSA: life-insurance company license list, as of 2026-04-13.
 - Life Insurance Association of Japan: member-company list, as of 2026-04-13.
-- はなさく生命 official website.
+- Hanasaku Life official website.

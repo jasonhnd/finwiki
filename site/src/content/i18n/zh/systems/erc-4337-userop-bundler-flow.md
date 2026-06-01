@@ -21,7 +21,7 @@ translated_at: 2026-06-01T04:15:40.154Z
 - Paymaster 是可选合约，可以代付 gas，或接受以 ERC-20 支付 gas ^[extracted]
 - Aggregator 是可选组件，用于批量验证多个签名(BLS / 其他) ^[extracted]
 
-## Mechanism / How it works
+## UserOperation 与 Bundler 执行流程
 
 **端到端流程(典型的 USDC gas 代付场景)**:
 

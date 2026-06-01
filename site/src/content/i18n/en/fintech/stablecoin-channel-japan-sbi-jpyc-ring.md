@@ -12,16 +12,16 @@ translated_at: 2026-05-31T07:28:06.125Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation — legal architecture for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal regime's three-layer structure (JPYC, USDC, Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> The **circular shareholding structure** formed by SBI × Circle × JPYC is the most important distribution channel in Japan's stablecoin market in 2025-2026 年. SBI Circle Holdings (a 2025-08  50/50 JV, 50/50) holds the domestic exclusive issuance channel for USDC, Circle holds roughly 3.51% of JPYC, and JPYC is a Circle Partner SC. The three parties are therefore mutually locked in and form the **dominant cross-border compliance architecture after entry into §501(d)**. In evaluations of Japan's 4  camp, this channel is rated v2  **#1 ★★★★★**, well above the Progmat trust-type consortium, which has no cross-border channel.
+> The **circular shareholding structure** formed by SBI × Circle × JPYC is the most important distribution channel in Japan's stablecoin market in 2025-2026. SBI Circle Holdings (a 2025-08 50/50 JV) holds the domestic exclusive issuance channel for USDC, Circle holds roughly 3.51% of JPYC, and JPYC is a Circle Partner SC. The three parties are therefore mutually locked in and form the **dominant cross-border compliance architecture after entry into §501(d)**. In evaluations of Japan's four camps, this channel is rated v2 **#1 ★★★★★**, well above the Progmat trust-type consortium, which has no cross-border channel.
 
 ## Key facts
 
 - **2025-08**: SBI Holdings + Circle Internet Financial established **SBI Circle Holdings** as a 50/50 JV (50/50  JV)
 - **Circular shareholding**: Circle owns roughly 3.51% of [[JapanFG/jpyc|JPYC]]; JPYC belongs to Circle Partner SC; SBI is indirectly related to JPYC through SBI Circle Holdings
-- **Domestic channel**: [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = domestic 第 1 号 EPI operator (licensed at 2025-03-04) · began domestic handling of USDC (2025-03-26)
+- **Domestic channel**: [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] = Japan's first registered EPI operator (licensed on 2025-03-04) · began domestic handling of USDC (2025-03-26)
 - **Capital investment**: SBI HD + SBI Shinsei invested a combined $50M in Circle's IPO (NYSE listing at 2025-06-05)
 - **Non-participation in Progmat**: Yoshitaka Kitao's 2026-02  X post called it "uniform, competition-restricting, convoy-style" and made clear SBI would not join the Progmat trust-type consortium
 - **Complement via JPYSC**: SBI Shinsei Trust Bank × Startale "JPYSC," a trust-type SC (launched in 2026-Q2 ), complements the "JPY side"
@@ -56,7 +56,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ```
 2023-11-27  SBI HD + Circle business alliance basic agreement
-2025-03-04  SBI VC Trade = domestic 第 1 号 EPI operator
+2025-03-04  SBI VC Trade = Japan's first registered EPI operator
 2025-03-25  SBI HD + Circle joint-venture establishment agreement
 2025-03-26  SBI VC Trade = start of domestic USDC handling
 2025-06-05  Circle NYSE listing · SBI total $50M investment
@@ -65,16 +65,16 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2026-02     Yoshitaka Kitao on X: "Refuse to join Progmat"
 ```
 
-**Evaluation jump from v1  → v2 **: before promulgation of §501(d), the SBI camp was seen as an "independent line / #3". After promulgation, the value of the USDC ↔ JPY cross-border compliance channel surged, and SBI Circle Holdings was upgraded to **#1 ★★★★★**. By contrast, [[JapanFG/progmat|Progmat]] (the 3  megabank trust-type line) was downgraded to #3  because it has "no cross-border compliance channel"; see [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]] for details.
+**Evaluation jump from v1 to v2**: before promulgation of §501(d), the SBI camp was seen as an "independent line / #3". After promulgation, the value of the USDC ↔ JPY cross-border compliance channel surged, and SBI Circle Holdings was upgraded to **#1 ★★★★★**. By contrast, [[JapanFG/progmat|Progmat]] (the three-megabank trust-type line) was downgraded to #3 because it has "no cross-border compliance channel"; see [[fintech/multi-megabank-consortium-governance|multi-megabank federated governance]] for details.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]
-- [[fintech/stablecoin-chain-sovereign-currency-divide|ステーブルコイン × チェーン × ソブリン通貨 3 層分流]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA ステーブルコインフレームワーク]]
-- [[fintech/japan-financial-regulation|日本金融規制]]
+- [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal regime's three-layer structure]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|Stablecoin × chain × sovereign-currency three-layer split]]
+- [[fintech/stablecoin-revenue-split-economics|Stablecoin interest-distribution economics]]
+- [[fintech/three-circles-stablecoin-mra-framework|Three-circle MRA stablecoin framework]]
+- [[fintech/japan-financial-regulation|Japan financial regulation]]
 <!-- /wiki-links:managed -->
 
 ## Sources

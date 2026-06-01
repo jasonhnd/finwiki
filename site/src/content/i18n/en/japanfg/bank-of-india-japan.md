@@ -12,15 +12,15 @@ translated_at: 2026-05-31T11:13:44.868Z
 
 ## Wiki route
 
-Bank of India Japan is the India-corridor peer to [[JapanFG/foreign-bank-branches-japan-index|the foreign-bank branch registry]] inside QZX002QZX. Use this page for India-Japan trade finance, remittance, forex, loans, syndication, and branch-history context.
+Bank of India Japan is the India-corridor peer to [[JapanFG/foreign-bank-branches-japan-index|the foreign-bank branch registry]] inside the JapanFG coverage map. Use this page for India-Japan trade finance, remittance, forex, loans, syndication, and branch-history context.
 
-Route this entry through [[banking/INDEX|banking domain]] first, then cross-read QZX002QZX for foreign-bank branch and wholesale-banking context.
+Route this entry through [[banking/INDEX|the banking domain]] first, then cross-read [[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] for the closest India-corridor peer and wholesale-banking context.
 
 ## Overview
 
 Bank of India Japan is a standalone India-Japan banking corridor page because its public Japan materials describe Tokyo and Osaka branch operations, long Japan presence, and services such as trade finance, foreign exchange, remittance, loans, and syndication. The branch row does not remain registry-only when the wiki needs India corridor completeness.
 
-Registration is observed in the checked FSA source as of QZX001QZX; this page does not independently opine on current licensing beyond the cited public source.
+Registration is observed in the checked FSA source as of 2026-05-13; this page does not independently opine on current licensing beyond the cited public source.
 
 ## Branch / Corridor Snapshot
 
@@ -30,7 +30,7 @@ Registration is observed in the checked FSA source as of QZX001QZX; this page do
 |Osaka branch|Public pages also identify the Osaka branch; useful for Kansai business and community context.|
 |Historical marker|Bank of India Japan materials describe long postwar Japan branch history.|
 |Service map|Trade finance, foreign exchange, remittance, loans, and syndication are the key public service anchors.|
-|Peer|QZX001QZX is the closest India-corridor peer.|
+|Peer|[[JapanFG/state-bank-of-india-japan|State Bank of India Japan]] is the closest India-corridor peer.|
 
 ## Corridor Functions
 
@@ -46,19 +46,19 @@ Registration is observed in the checked FSA source as of QZX001QZX; this page do
 
 |Page|Contrast|
 |---|---|
-|QZX001QZX|Larger Indian state-bank group and foreign-bank agency route relevance.|
-|QZX001QZX|Japanese public finance / overseas investment credit route.|
-|QZX001QZX|Japanese megabank India and Asia corporate-banking comparison.|
-|QZX001QZX|Japanese megabank project / structured finance comparison.|
-|QZX001QZX|Deal-context route when financing supports M&A rather than trade.|
+|[[JapanFG/state-bank-of-india-japan|State Bank of India Japan]]|Larger Indian state-bank group and foreign-bank branch comparison.|
+|[[JapanFG/jbic|JBIC]]|Japanese public finance and overseas investment credit route.|
+|[[JapanFG/mufg-bank|MUFG Bank]]|Japanese megabank India and Asia corporate-banking comparison.|
+|[[JapanFG/smfg|SMFG]]|Japanese megabank project and structured-finance comparison.|
+|[[finance/cross-border-m-a-japan|cross-border M&A Japan]]|Deal-context route when financing supports M&A rather than trade.|
 
 ## Research Checklist
 
-QZX001QZX. Confirm whether a reference is to Bank of India Japan Branches or the India parent bank.
-QZX001QZX. Identify the branch, product, customer type, and currency.
-QZX001QZX. For trade finance, record the instrument: LC, guarantee, remittance, bill, loan, or syndication.
-[[finance/cross-border-m-a-japan|cross-border M&A Japan]]. If the context is M&A or project finance, link to [[JapanFG/jbic|JBIC]] and QZX003QZX where public policy finance appears.
-QZX001QZX. Refresh the FSA row when current branch status matters.
+1. Confirm whether a reference is to Bank of India Japan branches or the India parent bank.
+2. Identify the branch, product, customer type, and currency.
+3. For trade finance, record the instrument: LC, guarantee, remittance, bill, loan, or syndication.
+4. If the context is M&A or project finance, link to [[JapanFG/jbic|JBIC]] and [[finance/cross-border-m-a-japan|cross-border M&A Japan]] where public policy finance appears.
+5. Refresh the FSA row when current branch status matters.
 
 ## Caveats
 
@@ -68,16 +68,16 @@ QZX001QZX. Refresh the FSA row when current branch status matters.
 
 ## Related
 
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
-- QZX001QZX
+- [[JapanFG/state-bank-of-india-japan]]
+- [[JapanFG/jbic]]
+- [[JapanFG/mufg-bank]]
+- [[JapanFG/smfg]]
+- [[banking/foreign-bank-japan-retreat]]
+- [[banking/INDEX]]
+- [[finance/cross-border-m-a-japan]]
+- [[trade/jetro-vs-nexi-vs-jbic-comparison]]
+- [[fintech/india-anti-dollar-dpi-alliance]]
+- [[fintech/erupee-india-pilot-status]]
 
 ## Sources
 

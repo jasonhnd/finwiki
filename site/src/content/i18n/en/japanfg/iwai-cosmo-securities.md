@@ -13,11 +13,11 @@ translated_at: 2026-05-31T15:29:03.882Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]Read it against[[JapanFG/iwai-cosmo-hd|岩井コスモホールディングス]]for parent holding context,[[JapanFG/okasan-sg|岡三証券グループ]]/[[JapanFG/tokai-tokyo-fh|東海東京FH]]for peer mid-tier independent securities, and[[securities/INDEX|securities index]]for the broader market-structure boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iwai-cosmo-hd|Iwai Cosmo Holdings]] for parent holding context, [[JapanFG/okasan-sg|Okasan Securities Group]] / [[JapanFG/tokai-tokyo-fh|Tokai Tokyo FH]] for peer mid-tier independent securities, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
 ## TL;DR
 
-Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company headquartered in Osaka, listed on the Tokyo Stock Exchange PRIME.[[JapanFG/iwai-cosmo-hd|岩井コスモホールディングス (8707)]]core of100%subsidiary.1917 年(Taisho6 Founded as Iwai Securities in Osaka,**2010-04 The former Iwai Securities and the former Cosmo Securities merged** and took on the current trade name. **Financial instruments business operator Kinki Local Finance Bureau (Kinsho)第15号**(FIEA Type1 Type 1 Financial Instruments Transaction Business). Head office: Imabashi, Chuo-ku, Osaka, capital:135 億円, nationwide28 Sales branch +2 Call center +2 Expanded online support center. **As a medium-sized independent securities company based in the Kansai region that focuses on face-to-face retail, we engage in overseas brokerage of US stocks/Greater China stocks, etc., IPO underwriting, and consulting-type sales. The competition is[[JapanFG/aizawa-sg|藍澤証券グループ]]・[[JapanFG/okasan-sg|岡三証券グループ]]・[[JapanFG/tokai-tokyo-fh|東海東京FH]]・[[JapanFG/matsui-sec|松井証券]]・[[JapanFG/marusan-securities|丸三証券]]Medium-sized independent securities companies such as
+Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company headquartered in Osaka and a wholly owned core subsidiary of [[JapanFG/iwai-cosmo-hd|Iwai Cosmo Holdings (8707)]]. It was founded in Osaka as Iwai Securities in 1917, and the former Iwai Securities and former Cosmo Securities merged in 2010-04 to adopt the current trade name. It is a Type I financial instruments business operator registered with the Kinki Local Finance Bureau (Kinsho) No. 15. Public company materials identify capital of JPY 13.5bn and a network of 28 sales branches, two call centers, and two online support centers.
 
 ## 1. Corporation/Shareholder
 
@@ -25,7 +25,7 @@ Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company
 - **Foundation**:1917 年(Taisho6 year)12 Month — Establishment of “Iwai Securities” in Osaka (Ujiro Iwai)
 - **Current system launched**:2010 年 4 月 1 日— Management integration of former Iwai Securities + former Cosmo Securities (Kyodo Securities)
 - **Head office location**:〒541-0042 Imabashi, Chuo Ward, Osaka City1 Chome8 number12 号
-- **Capital**:135 億円([[JapanFG/iwai-cosmo-hd|岩井コスモホールディングス]] 100%investment)
+- **Capital**: JPY 13.5bn, with [[JapanFG/iwai-cosmo-hd|Iwai Cosmo Holdings]] as 100% shareholder
 - **Parent company**: Iwai Cosmo Holdings Co., Ltd. (TSE PRIME)8707, head office Osaka)
 - **Representative**: Representative Director and President
 - **Number of employees**: approx.700 名(consolidated basis, HD disclosure)
@@ -39,7 +39,7 @@ Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company
   - Type 2 Financial Instruments Business Association, General Incorporated Association
   - Japan Investment Advisors Association
 - **PTS/Private Trading System**: Not operated in-house ([[securities/japannext-securities|Japannext]](Connected to PTS etc.)
-- **Trading participation rights**:[[securities/tokyo-stock-exchange|TSE]]・[[securities/osaka-exchange|OSE]]trading participants
+- **Trading participation rights**: trading participant on [[securities/tokyo-stock-exchange|TSE]] and [[securities/osaka-exchange|OSE]]
 
 ## 3. Sales base
 
@@ -63,10 +63,10 @@ Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company
 
 ## 5. Industry position
 
-- **As a medium-sized independent securities company based in Osaka and Kansai**, we are a mega FG group ([[JapanFG/nomura-holdings|野村]]・[[JapanFG/daiwa-securities-group|大和]]・[[JapanFG/smbc-nikko|SMBC日興]]・[[JapanFG/mizuho-securities|みずほ証券]]・[[JapanFG/mufg-msms|三菱UFJモルガン・スタンレー]]) and different positioning.
-- Conflict:[[JapanFG/aizawa-sg|藍澤証券]]・[[JapanFG/okasan-sg|岡三証券]]・[[JapanFG/tokai-tokyo-fh|東海東京]]・[[JapanFG/matsui-sec|松井証券]]・[[JapanFG/marusan-securities|丸三証券]]
+- **Positioning**: as a medium-sized independent securities company based in Osaka and Kansai, it is positioned differently from megabank and national securities groups such as [[JapanFG/nomura-holdings|Nomura]], [[JapanFG/daiwa-securities-group|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], and [[JapanFG/mufg-msms|Mitsubishi UFJ Morgan Stanley]].
+- Competitive set: [[JapanFG/aizawa-sg|Aizawa Securities]], [[JapanFG/okasan-sg|Okasan Securities]], [[JapanFG/tokai-tokyo-fh|Tokai Tokyo]], [[JapanFG/matsui-sec|Matsui Securities]], and [[JapanFG/marusan-securities|Marusan Securities]].
 - **Strengths**: Strong connections in the Kansai business community, track record of underwriting and underwriting IPOs for companies originating in the Kansai region, and face-to-face consulting services.
-- **Weaknesses**: Online securities ([[JapanFG/sbi-securities|SBI証券]]・[[JapanFG/rakuten-securities|楽天証券]]・[[JapanFG/matsui-sec|松井]]etc.), retail fees are relatively high and store operating costs are high.
+- **Weaknesses**: compared with online securities firms such as [[JapanFG/sbi-securities|SBI Securities]], [[JapanFG/rakuten-securities|Rakuten Securities]], and [[JapanFG/matsui-sec|Matsui Securities]], retail fees and branch operating costs are relatively high.
 - **Strategy**: Continuing and deepening the “face-to-face meetings x elderly wealthy people x overseas stocks x consulting” model
 
 ## 6.History
@@ -85,7 +85,7 @@ Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company
 
 ## 7. Related companies
 
-- **Parent company**:[[JapanFG/iwai-cosmo-hd|岩井コスモホールディングス]](TSE PRIME8707)
+- **Parent company**: [[JapanFG/iwai-cosmo-hd|Iwai Cosmo Holdings]] (TSE PRIME 8707)
 - **Group companies**:
   - Iwai Cosmo Securities (Head Office)
   - Iwai Cosmo Investment Advisor
@@ -93,21 +93,21 @@ Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company
 
 ## 8. Why is it necessary as a separate page?
 
-[[JapanFG/iwai-cosmo-hd|岩井コスモホールディングス]]This page is biased toward the financial and shareholder structure from a holding company perspective. **License boundary (Kinki Local Finance Bureau)第15号FIEA Type1)・Sales base (28 店), products handled, IPO underwriting, and face-to-face consulting strategies** cannot be analyzed accurately unless they are separated into separate pages for operating companies (securities companies). Each peer of a medium-sized independent securities company ([[JapanFG/aizawa-sg|藍澤]]・[[JapanFG/marusan-securities|丸三]]etc.), this page will also serve as the anchor.
+[[JapanFG/iwai-cosmo-hd|Iwai Cosmo Holdings]] is covered from a holding-company and shareholder-structure perspective. This operating-company page is needed to analyze the license boundary, sales base, products handled, IPO underwriting, and face-to-face consulting strategy.
 
 ## Related
 
-- [[JapanFG/iwai-cosmo-hd|岩井コスモホールディングス]]— Parent company/holding company
-- [[JapanFG/aizawa-sg|藍澤証券グループ]]— peer
-- [[JapanFG/okasan-sg|岡三証券グループ]]— peer
+- [[JapanFG/iwai-cosmo-hd|Iwai Cosmo Holdings]] -- parent company / holding company
+- [[JapanFG/aizawa-sg|Aizawa Securities Group]] -- peer
+- [[JapanFG/okasan-sg|Okasan Securities Group]] -- peer
 - [[JapanFG/tokai-tokyo-fh|東海東京FH]]— peer / Nagoya Foundation
 - [[JapanFG/matsui-sec|松井証券]]— peer / internet
 - [[JapanFG/marusan-securities|丸三証券]]— peer
 - [[JapanFG/smbc-nikko|SMBC日興証券]]— Mega FG series comparison
-- [[JapanFG/mizuho-securities|みずほ証券]]— Mega FG series comparison
+- [[JapanFG/mizuho-securities|Mizuho Securities]] -- megabank group comparison
 - [[securities/financial-instruments-business-operators-japan-index|JP FIEA 業者 index]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack|JP 証券ライセンススタック]]
-- [[securities/japan-online-brokerage-competition|JP オンライン証券競争]]
+- [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities-license stack]]
+- [[securities/japan-online-brokerage-competition|Japan online-brokerage competition]]
 - [[securities/INDEX|securities domain INDEX]]
 
 ## Sources
@@ -121,4 +121,4 @@ Iwai Cosmo Securities Co., Ltd. is a medium-sized independent securities company
 ---
 
 > [!info] School nucleus status
-> confidence: **likely** (aligned with published company information, history, and FSA gold merchant registration list). capital135 億円・Sales store28 Bases are official values. Corporate number is not clearly displayed in public search results. For consolidated figures for Iwai Cosmo HD as a whole, see HD disclosure.
+> confidence: **likely** (aligned with published company information, history, and FSA gold merchant registration list). Capital of JPY 13.5bn and 28 sales branches are official values. Corporate number is not clearly displayed in public search results. For consolidated figures for Iwai Cosmo HD as a whole, see HD disclosure.

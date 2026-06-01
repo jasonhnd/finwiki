@@ -10,9 +10,9 @@ translated_at: 2026-05-31T05:31:05.780Z
 
 # CBDC 架构选择 4 大权衡
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]]。相邻监管语境见 [[fintech/japan-financial-regulation|日本金融监管：代币、加密资产与支付法体系]]；更广泛的制度边界见 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制的三层结构（JPYC、USDC、Project Pax）]]。
 
 > [!info] TL;DR
 > 中央银行在选择 CBDC 架构时，面临 4 个核心权衡: **金融中介的存续 vs 中央银行直连**（决定商业银行的命运）、**货币主权 vs 跨境互操作性**（决定与批发型 CBDC 走廊的关系）、**隐私 vs 反洗钱**（决定中央银行的可见性）、**创新空间 vs 系统稳定**（决定可编程性）。所有现役 CBDC 设计都是这 4 项权衡的不同组合。
@@ -27,7 +27,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - token-based 多层可在加密层调节隐私，但合规成本高 ^[extracted]
 - 智能合约的可编程性是 token-based 多层的主要创新空间 ^[extracted]
 
-## Mechanism / How it works
+## 架构机制与权衡变量
 
 **1. 金融中介的存续 vs 中央银行直连**: 直接 CBDC 将商业银行边缘化 → 金融中介的崩溃 → 中央银行被迫承担信用配置（直接向企业放贷）→ 政治上不可接受。主要中央银行均保护银行存款基础（二层或多层）。这正是 G10 中央银行无一采用直接 CBDC 的原因。
 

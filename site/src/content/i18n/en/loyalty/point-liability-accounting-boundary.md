@@ -28,22 +28,22 @@ For program-by-program coverage, see [[loyalty/japan-points-landscape]] in the l
 
 ## 1. Marketing-promotional cost (no contract liability)
 
-When a JP operator drops a "1,000 ポイント贈呈" coupon as part of a campaign that is **not** tied to a past customer purchase, there is no enforceable future obligation conditional on past consideration. The economic substance is closer to advertising:
+When a Japanese operator grants a "1,000-point bonus" coupon as part of a campaign that is **not** tied to a past customer purchase, there is no enforceable future obligation conditional on past consideration. The economic substance is closer to advertising:
 
 - Expensed when granted (or when probability-of-redemption is reasonably estimable).
 - No deferred revenue allocation — there is no prior performance obligation to allocate against.
 - Treated as part of customer-acquisition cost in segment reporting.
 
-The most visible example is the recurring PayPay / d払い / 楽天ペイ "100% 還元" or "5% 還元" campaigns. The campaign grant itself is promotional cost, while the *underlying* purchase-earned points sit in the loyalty-liability bucket below. Reading a PayPay or Rakuten campaign disclosure without separating these two layers leads to overstating their effective discount rate.
+The most visible example is the recurring PayPay / d Payment / Rakuten Pay "100% rebate" or "5% rebate" campaigns. The campaign grant itself is promotional cost, while the *underlying* purchase-earned points sit in the loyalty-liability bucket below. Reading a PayPay or Rakuten campaign disclosure without separating these two layers leads to overstating their effective discount rate.
 
 ## 2. Loyalty liability under IFRS 15 / ASBJ Statement No.29
 
-When a customer earns points by spending — the classic "100円につき1ポイント" — Japan's treatment splits depending on whether the issuer reports under JGAAP or IFRS:
+When a customer earns points by spending — the classic "one point per ¥100" structure — Japan's treatment splits depending on whether the issuer reports under JGAAP or IFRS:
 
 - **IFRS 15**: Points are a **material right** (customer option) and a separate performance obligation. The transaction price is allocated between the goods sold and the points granted using relative standalone selling prices. Revenue allocated to points is **deferred** as a contract liability and recognised when points are redeemed (or expected to expire). Rakuten Group (IFRS reporter) discloses point-related deferred revenue under contract liabilities in segment notes.
-- **JGAAP / ASBJ Statement No.29**: Historically Japan recognised an **estimated liability for point redemption** ("ポイント引当金") with the offsetting entry to SG&A. ASBJ Statement No.29 ("Accounting Standard for Revenue Recognition", 収益認識に関する会計基準) effective from FY2021 substantially aligned JGAAP with IFRS 15 for listed companies, shifting accounting from a provision model toward a deferred-revenue model that mirrors the IFRS treatment. Many large operators (AEON Financial Service, NTT docomo, JCB) re-presented their disclosures around the FY2021 transition.
+- **JGAAP / ASBJ Statement No.29**: Historically Japan recognised an **estimated liability for point redemption** with the offsetting entry to SG&A. ASBJ Statement No.29 ("Accounting Standard for Revenue Recognition") effective from FY2021 substantially aligned JGAAP with IFRS 15 for listed companies, shifting accounting from a provision model toward a deferred-revenue model that mirrors the IFRS treatment. Many large operators (AEON Financial Service, NTT docomo, JCB) re-presented their disclosures around the FY2021 transition.
 
-The most useful test when reading a JP issuer's filing is to check whether "ポイント引当金" is still a line item, or whether it has migrated into "契約負債" (contract liability). The migration tells you whether the company has fully adopted the revenue-recognition model.
+The most useful test when reading a Japanese issuer's filing is to check whether "allowance for point redemption" is still a line item, or whether it has migrated into "contract liabilities". The migration tells you whether the company has fully adopted the revenue-recognition model.
 
 ## 3. Breakage assumption (when deferred revenue is recognised)
 
@@ -68,7 +68,7 @@ This is the line where "points" stop being a loyalty marketing topic and become 
 
 ## 5. Cross-program exchange points (settlement leg + accounting timing)
 
-When points convert between programs — Rakuten Point ↔ ANA mileage, dポイント ↔ JAL mileage, V Point ↔ partner programs — two accounting events happen at once:
+When points convert between programs — Rakuten Point ↔ ANA mileage, d POINT ↔ JAL mileage, V Point ↔ partner programs — two accounting events happen at once:
 
 1. **Liability transfer**: the originating operator extinguishes its liability (in the conversion ratio), and the receiving operator creates a new liability on its own balance sheet.
 2. **Settlement leg**: cash or near-cash flows from the originating operator to the receiving operator at a contractually agreed rate, often less than the consumer-facing exchange ratio. The spread is the receiving operator's acquisition revenue, and the originating operator's release cost.
@@ -81,14 +81,14 @@ This matters because it makes "outstanding point liability" non-additive across 
 |---|---|---|
 | Rakuten Group | IFRS contract liability for Rakuten Points; sizeable on the consolidated balance sheet | Segment notes break out "contract liabilities" with point-related portion |
 | AEON Financial Service | WAON POINT loyalty liability + WAON prepaid liability sit on separate lines | AFS IR distinguishes loyalty programmes from prepaid balances; group-level AEON Retail consolidates the WAON POINT side |
-| NTT docomo / dポイント | dポイント liability with telco-customer cohort; bundled with telecom revenue allocation under IFRS 15 | NTT annual report discloses redemption assumptions and deferred revenue allocation |
+| NTT docomo / d POINT | d POINT liability with telco-customer cohort; bundled with telecom revenue allocation under IFRS 15 | NTT annual report discloses redemption assumptions and deferred revenue allocation |
 | PayPay | PayPay points include a heavy promotional component; the campaign overhang is expense, while purchase-earned points are liability | PayPay and SoftBank / LY filings separate "campaign cost" from "point liability"; the campaign cost line tends to dominate |
 | T Point → V Point (post-2024 unification, see [[loyalty/v-point-smbc-ccc-case]]) | Liability sits with the issuing operator (SMBC Card / CCCMK) on each side of the unification; legacy T balances were migrated under defined conversion rules | SMCC / SMFG IR commentary discusses the migration mechanics |
 
 ## Why this boundary matters for JapanFG analysis
 
 - A high "point balance" number on a Japanese operator's IR slide does not equal a high *liability*. The split between promotional grant, loyalty liability, prepaid balance, and exchange-bound transfer balance determines economic intensity.
-- A bank or telco group acquiring a loyalty operator (SMBC + V Point, NTT + dポイント consolidation) inherits **liability accounting and prepaid-license obligations** at the same time. The deal is more than a marketing asset transfer.
+- A bank or telco group acquiring a loyalty operator (SMBC + V Point, NTT + d POINT consolidation) inherits **liability accounting and prepaid-license obligations** at the same time. The deal is more than a marketing asset transfer.
 - Code-payment operators with heavy campaign spend look loss-making partly because promotional grants hit P&L immediately, while the loyalty-liability layer underneath is comparatively small.
 - Cross-program exchange creates a non-additive system. Aggregate "Japan point economy" numbers should not be read as a sum of operator-reported balances.
 
@@ -115,5 +115,5 @@ This matters because it makes "outstanding point liability" non-additive across 
 - Payments Japan Association code-payment disclosure norms.
 - Rakuten Group IR — contract liability segment notes.
 - AEON Financial Service IR — WAON POINT and WAON prepaid disclosures.
-- NTT docomo annual report — dポイント accounting and redemption disclosure.
-- Vポイント公式 (Vpoint.jp) — for context on the SMBC / CCCMK common-point operator referenced.
+- NTT docomo annual report — d POINT accounting and redemption disclosure.
+- V Point official site (Vpoint.jp) — for context on the SMBC / CCCMK common-point operator referenced.

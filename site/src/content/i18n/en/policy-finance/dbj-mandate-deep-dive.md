@@ -4,344 +4,225 @@ source_hash: dd713f57f05edfee
 lang: en
 status: machine
 fidelity: ok
-title: "DBJ mandate deep dive — 特定投資業務 ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI"
+title: "DBJ mandate deep dive — Special Investment Operations, GX/DX criteria, crisis-response facility, and comparison with JFC/JBIC/NEXI"
 translated_at: 2026-06-01T03:31:12.327Z
 ---
-
-# DBJ mandate deep dive — 特定投資業務 ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI
-
-## Wiki route
-
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the **operating-mechanics deep dive** on [[JapanFG/dbj|株式会社日本政策投資銀行 (DBJ)]]. The original DBJ profile at [[JapanFG/dbj|JapanFG/dbj]] focuses on corporate structure, history, and high-level business-line map; this entry goes one layer deeper into the **operating mechanics** of the 特定投資業務 framework, **risk-money / mezzanine financing rules**, **GX/DX investment criteria**, **co-investment patterns with the private sector**, the **crisis-response loan facility**, and **KPI / mandate comparison vs [[JapanFG/jfc|JFC]] / [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]**. Read it with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy finance institution mandate matrix]] for the cross-institution overlay, [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment underwriting process]] for the JBIC operating-mechanics parallel, [[policy-finance/jfc-sme-division-operating-model|JFC SME division operating model]] for the JFC operating-mechanics parallel, and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the overall system context.
+# DBJ mandate deep dive — Special Investment Operations, GX/DX criteria, crisis-response facility, and comparison with JFC/JBIC/NEXI
 
 ## TL;DR
 
-DBJ is the **only Japanese policy-finance institution that simultaneously combines long-tenor senior debt, mezzanine, equity, and advisory** in one balance sheet, under a **民間補完原則** ("complementing the private sector") policy mandate enshrined in the 株式会社日本政策投資銀行法 (2007). The defining operating layer is the **特定投資業務 (Special Investment Operations, SIO)** framework — established 2015 with an initial ~¥1.5tn ceiling, raised to ~¥3tn cumulative authorised investment capacity through successive legal extensions, with explicit authority to provide **risk money (リスクマネー)** in equity, preferred equity, subordinated loan, and mezzanine forms to projects that **conventional commercial banks cannot price**. The SIO framework operates under the rule of **catalysing private-sector co-investment** (specific multiplier targets — typically aim for 1x or higher private money mobilised per public yen invested) and **time-limited authority** (each extension is a discrete legislative act with sunset clause). The contemporary mandate is dominated by four substantive verticals: **GX (Green Transformation)** — renewables, hydrogen, ammonia, offshore wind, CCS, GX 経済移行債 alignment; **DX (Digital Transformation)** — data centres, semiconductor supply chain, AI infrastructure; **事業再生** — DIP / sponsor-backed restructuring, mezzanine; and **危機対応業務** — designated crisis-response financing under the 株式会社日本政策投資銀行法 + 危機対応業務指定. Compared with [[JapanFG/jfc|JFC]] (SME / individual / agriculture-and-fisheries policy-finance), [[JapanFG/jbic|JBIC]] (overseas-investment / export credit / resource-security), and [[policy-finance/nexi|NEXI]] (trade and investment insurance), DBJ holds the **single most flexible Japanese policy-finance balance sheet** because of its ability to combine senior, mezzanine, and equity in the same project across long tenors.
+Development Bank of Japan (DBJ) is the Japanese policy-finance institution that combines long-tenor senior debt, mezzanine finance, equity investment, and advisory functions on one balance sheet. Its statutory mandate is framed by the principle of complementing, rather than replacing, private finance under the Development Bank of Japan Inc. Act of 2007. The most important operating layers are **Special Investment Operations (SIO)**, **crisis-response operations**, **GX / DX policy investment**, and **public-private co-investment funds**.
 
-## 1. 株式会社 + 政策金融機関 のハイブリッド構造
+DBJ should not be read as a conventional commercial bank. It is a government-owned joint-stock company that uses government capital, internally retained capital, FILP borrowing, government-guaranteed bonds, ordinary bonds, and foreign-currency funding to support risk categories that private financial institutions do not ordinarily take alone.
 
-| 項目 | 詳細 |
+## 1. Hybrid structure: joint-stock company and policy-finance institution
+
+| Dimension | Reading |
 |---|---|
-| Statutory basis | 株式会社日本政策投資銀行法 (平成 19 年法律第 85 号) |
-| Shareholder | 財務大臣 100% (完全民営化計画は震災 + コロナ + GX で延期継続中) |
-| Supervisory | 財務省 (主管 + 株主); 金融庁 (業務監督) |
-| Capital base | 株式 + 内部留保 + FILP 借入 + 政府保証付き債券 + 一般債券 + 外貨建調達 |
-| 業務範囲 | 長期融資 / メザニン / エクイティ / アドバイザリー / 危機対応 / 特定投資業務 |
-| Mandate | 民間金融機関が単独では取り得ないリスクを補完 (民間補完原則) |
-| Account structure | 一般勘定 (基幹業務) + 特定投資業務勘定 (2015〜; ring-fenced) + 危機対応業務関連 |
+| Legal form | Joint-stock company under the Development Bank of Japan Inc. Act |
+| Shareholder | Minister of Finance, 100%; full privatization has repeatedly been deferred after the global financial crisis, the 2011 disaster, COVID-19, and GX policy expansion |
+| Capital base | Equity, retained earnings, FILP borrowing, government-guaranteed bonds, ordinary bonds, and foreign-currency funding |
+| Business scope | Long-term lending, mezzanine, equity, advisory, crisis-response operations, and Special Investment Operations |
+| Mandate | Complement private financial institutions where they cannot take the relevant duration, size, or risk alone |
 
-The **株式会社 + 政策金融機関** hybrid is structurally rare. DBJ is a 100% state-owned 株式会社 with a 政策金融 mandate — neither a pure independent administrative agency like [[policy-finance/jogmec|JOGMEC]], nor a fully nationalised entity like the pre-2008 日本政策投資銀行. The hybrid gives DBJ access to corporate-form flexibility (equity issuance, sub-debt issuance, market-rate debt funding) while preserving the policy-finance mandate.
+## 2. Special Investment Operations
 
-## 2. 特定投資業務 (Special Investment Operations) framework
+### Legal structure and authorization frame
 
-### 2.1 法的構造と授権枠
-
-| Item | Detail |
+| Item | Reading |
 |---|---|
-| 制度発足 | 2015 — 株式会社日本政策投資銀行法 改正により導入 |
-| 初期授権枠 | 1.5 兆円程度 (政府出資 + 政府保証債券 + 自己資本の組合せ) |
-| 累計授権枠 (改正後) | おおむね 3 兆円程度 (複数回の法改正で段階的に拡大・延長) |
-| 期限 | 各延長ごとに sunset 設定; 延長は法改正案件 |
-| 勘定区分 | 特定投資業務勘定 (ring-fenced; 一般勘定とは資金区分) |
-| 投資手段 | 株式 / 優先株式 / 種類株式 / 劣後ローン / メザニンローン / 転換社債 / 一部senior loan |
-| 政策目的 | リスクマネー供給; 民間投資の呼び水; 産業再編・GX・DX・地域活性化等 |
+| Start | Introduced through amendments to the DBJ Act in 2015 |
+| Initial authorization scale | Roughly 1.5 trillion yen, combining government capital, government-guaranteed bonds, and DBJ capital |
+| Cumulative authorization after later amendments | Roughly 3 trillion yen across multiple statutory extensions and expansions |
+| Term | Each extension is sunset-based and requires statutory action |
+| Accounting segregation | SIO account, ring-fenced from the ordinary account |
+| Instruments | Common shares, preferred shares, class shares, subordinated loans, subordinated bonds, mezzanine loans, convertible bonds, and selected senior loans |
+| Policy purpose | Risk-money supply, private-investment catalysis, industrial restructuring, GX, DX, regional revitalization, and crisis response |
 
-特定投資業務 (SIO) is the **flagship discretionary capital authority** of contemporary DBJ. The legal structure — ring-fenced account, time-limited authorisation, defined investment-instrument menu — is designed to let DBJ take **higher-risk investments that the 一般勘定 cannot price** under standard policy-finance credit discipline. Each extension is a discrete legislative act, which forces periodic political review of the cumulative authorised volume.
+### Operating definition of risk money
 
-### 2.2 リスクマネー (risk money) の operating 定義
+In the DBJ context, risk money generally means one or more of the following:
 
-「リスクマネー」は DBJ 文脈で以下のいずれかを意味する:
+1. **Equity, preferred shares, and class shares**, which take full shareholder risk.
+2. **Subordinated loans or subordinated bonds**, which sit behind senior debt in insolvency.
+3. **Mezzanine loans**, positioned between senior debt and equity and sometimes containing conversion, warrant, or participation features.
+4. **Convertible bonds with share-acquisition rights**, combining debt with equity upside.
+5. **Very long-tenor senior loans** that commercial banks would not normally arrange alone, especially beyond 20-year maturities.
 
-1. **エクイティ / 優先株式 / 種類株式** — 完全な株主リスクを取る
-2. **劣後ローン / 劣後社債** — 倒産時に senior に劣後する位置の負債
-3. **メザニンローン** — senior と equity の間に位置するハイブリッド (転換オプション、ワラント、参加型条項を含む)
-4. **転換社債型新株予約権付社債** — debt + 上昇 upside の equity option
-5. **長期 senior loan で commercial banks が組成しない長期年限のもの** — 20 年超のテナーで commercial banks が単独で組成しないケース
+### Selection criteria
 
-The four-tier definition is intentionally broad. SIO authority allows DBJ to choose the most-suitable instrument for each project rather than being locked into senior debt.
+SIO investments are generally screened through five tests:
 
-### 2.3 投資選別基準
-
-SIO 投資は以下の基準で原則的に選別される:
-
-| 基準 | 詳細 |
+| Test | Meaning |
 |---|---|
-| **民間補完性** | 民間金融機関 / 民間 PE / 民間 VC が単独では取り得ないリスクであること |
-| **政策合致性** | GX / DX / 産業再編 / 地域活性化 / 危機対応 / 経済安全保障 などの政策テーマに合致すること |
-| **収益性** | 経済的合理性があり、長期で投資収益を回収可能であること (補助金ではない) |
-| **co-investment 呼び水効果** | 民間共同投資家を引き出す効果があること (典型的にはマッチング 1x 以上) |
-| **環境・社会配慮** | DBJ Environmental Rating / DBJ Sustainability Linked Loan 等の枠組み準拠 |
-| **規模感** | 1 件あたり数億円から数百億円規模が中心レンジ |
-| **期間** | 通常 5〜20 年; 一部 30 年超 |
+| Private-finance complementarity | The risk is not one that private banks, private equity, or venture capital can take alone |
+| Policy fit | The project aligns with GX, DX, industrial restructuring, regional revitalization, crisis response, economic security, or similar policy themes |
+| Economic return | The investment must be commercially rational and recoverable over a long horizon; it is not a subsidy |
+| Co-investment catalysis | DBJ participation should draw in private co-investors, with a typical implicit target of at least 1:1 |
+| Environmental and social consideration | Projects should fit DBJ frameworks such as DBJ Environmental Rating and sustainability-linked loan programs |
 
-The **co-investment 呼び水効果** test is operationally the most important. SIO investments are evaluated not in isolation but on **how much private-sector co-investment they catalyse**. The implicit operating target is 1:1 or better — every public yen of SIO investment should pull at least one yen of private money into the same project. This is the structural justification for why SIO is **not pure subsidy** and **not pure commercial investment** — it is **catalytic risk capital**.
+The co-investment test is the most important operating discipline. SIO is evaluated not only on DBJ's return, but on the amount and quality of private capital that DBJ's anchor role mobilizes.
 
-### 2.4 投資先 vertical の現代分布
+### Current strategic verticals
 
-近年 SIO 投資先は以下の重点分野に集中:
+Recent SIO and ordinary-account investment has concentrated on:
 
-1. **GX (Green Transformation)** — 再エネ (洋上風力、太陽光、地熱)、水素・アンモニア、CCS、グリーン水素、SAF (持続可能航空燃料)、EV / 電池サプライチェーン
-2. **DX (Digital Transformation)** — データセンター、半導体製造・素材、半導体製造装置、量子コンピューティング、AI インフラ
-3. **事業再生 / M&A** — DIP ファイナンス、スポンサー再生、メザニン買収ファイナンス、TOB ファイナンス
-4. **地域活性化 / インフラ** — 地域 PFI、コンセッション、地方インフラ
-5. **食料・農林水産** — 一部、政策テーマに合致する範囲で
-6. **宇宙 / 防衛技術 / 経済安全保障** — 2023 以降ウェイト増
+- **GX**: offshore wind, solar, geothermal, hydrogen, ammonia, CCS, green hydrogen, sustainable aviation fuel, EV batteries, and battery supply chains.
+- **DX**: data centers, semiconductors, semiconductor materials and equipment, quantum computing, and AI infrastructure.
+- **Business rehabilitation and M&A**: DIP finance, sponsor-led turnarounds, mezzanine acquisition finance, and TOB / MBO finance.
+- **Regional revitalization and infrastructure**: regional PFI, concessions, and local infrastructure.
+- **Food, agriculture, forestry, and fisheries**: limited to policy-aligned cases.
+- **Space, defense technology, and economic security**: increasing weight after 2023.
 
-The vertical mix rotates with each Medium-Term Plan cycle and reflects Cabinet / METI / 経済産業省 / GX 実行会議 priorities.
+## 3. Private-sector complementarity
 
-## 3. 民間補完原則 (private-sector-complementing principle)
+DBJ's core policy principle can be reduced to three operating rules:
 
-### 3.1 原則の condified 表現
+1. DBJ enters long-tenor, large-scale, or high-risk fields that private financial institutions cannot take alone.
+2. DBJ participation should attract private financial institutions or institutional investors into the same transaction.
+3. Where DBJ and private lenders invest together, DBJ's role is typically anchor lender, cornerstone investor, mezzanine sponsor, or long-tenor participant rather than crowding out the commercial tranche.
 
-民間補完原則は DBJ 法第 4 条等で明示され、運用上は次のように reduced されている:
+### Competitive tension
 
-1. **民間金融機関が単独で取り得ない長期 / 大型 / 高リスクの分野に DBJ が補完的に出る**
-2. **DBJ の関与で民間金融機関の参加を呼び込む**
-3. **同一案件で DBJ と民間が共同で組成する場合、DBJ の役割は anchor lender / cornerstone investor / mezzanine sponsor 等の補完的位置**
+The principle is clear, but the practice creates recurring tension:
 
-### 3.2 民間との competitive 緊張
+- **Funding-cost advantage**: DBJ can access government ownership and government-guaranteed funding, which can create a cost advantage in market transactions.
+- **Tenor advantage**: more-than-20-year tenors are often outside private-bank appetite, making DBJ uniquely relevant.
+- **Equity overlap**: SIO equity can overlap functionally with private equity.
+- **Crisis-response crowd-out**: in designated crisis periods, DBJ's public-policy role expands beyond ordinary market discipline.
 
-民間補完原則は理念的に明確だが、実務では以下の緊張がある:
+Practical crowd-out controls include limiting DBJ's share in a transaction, pricing on market or slightly premium terms, and leaving voting rights or control rights with private anchors where appropriate.
 
-- **コスト優位**: DBJ は政府全額出資 + 政府保証付き調達ができるため funding cost が低く、市場でガチンコ競合になる場合がある
-- **テナー優位**: 20 年超の長期テナーは民間銀行が単独では組成しないため、DBJ の独自領域
-- **エクイティ領域**: SIO 経由のエクイティは民間 PE と機能重複する場合がある
-- **危機対応時の crowd-out**: 危機対応融資は政府指定の指定金融機関として動くため、平時とは異なる役割
+## 4. Relationship with megabanks
 
-実務的な crowd-out 回避策:
-- 1 件あたりの出資 / 融資シェアを民間と協調する範囲に抑える
-- pricing は民間並みか若干上乗せ
-- 議決権 / control rights は民間 anchor に譲る
-
-### 3.3 民間補完原則 vs commercial banks (megabanks)
-
-DBJ と [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]] の関係:
+DBJ and the megabanks, including [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]], are structurally complementary. DBJ typically supplies anchor, mezzanine, or long-tenor finance, while megabanks provide shorter- and medium-tenor senior loans, syndication capacity, and client distribution.
 
 | Dimension | DBJ | Megabanks |
 |---|---|---|
-| 主な競合領域 | 20 年超超長期 / 大型エクイティ / 事業再生 / 危機対応 | 全領域 (DBJ の領域含む) |
-| 主な協調領域 | プロジェクトファイナンス / シンジケートローン / 事業再生 / インフラ | 同左 |
-| 役割分担 | anchor / cornerstone / mezzanine | 短中期 senior / クラブ参加 |
-| Funding cost | 低 (政府全額出資 + 政府保証) | 預金 + 市場調達 |
-| 規制 | 株式会社日本政策投資銀行法 + 金融庁監督 | 銀行法 + 金融庁監督 |
+| Main competitive fields | Ultra-long-tenor loans, large equity, business rehabilitation, crisis response | Broad corporate and investment-banking coverage |
+| Main cooperation fields | Project finance, syndicated loans, business rehabilitation, infrastructure | Same transactions, often in senior or club positions |
+| Typical role | Anchor, cornerstone, mezzanine, or long-tenor participant | Senior lender, arranger, club participant, and relationship bank |
 
-DBJ と megabanks の連携は構造的に補完的 — DBJ が anchor / mezzanine / 長期、megabanks が senior / 短中期 / シンジケート参加 が標準的なジオメトリ。
+## 5. GX investment
 
-## 4. GX 投資 — 戦略テーマ
+### Link to GX transition bonds
 
-### 4.1 GX 経済移行債との連動
+Under the GX Promotion Act enacted in 2023, the Japanese government plans to issue more than 20 trillion yen of GX transition bonds. DBJ is positioned as a major policy-finance channel for GX investment. Its involvement may include government-funded GX project finance through DBJ, DBJ's own SIO-based risk-money supply, and market-funded DBJ Green Bond issuance for GX-related projects.
 
-2023 年制定の GX 推進法に基づき、政府は 20 兆円超の **GX 経済移行債** を発行する方針。DBJ は GX 投資の主要な policy-finance institution として位置づけられ、以下のように関与:
+### Operating criteria
 
-- **GX 経済移行債で調達された政府資金 → GX 関連プロジェクトに DBJ 経由で disburse** されるルートの一部を担う
-- **DBJ 独自の GX 投資 (SIO 経由) → GX 経済移行債と並行**して risk money 供給
-- **DBJ Green Bond 発行** で市場から GX 資金を調達 → GX 関連プロジェクトに供与
+- **DBJ Environmental Rating**: environmental-management assessment with a long operating history.
+- **DBJ Sustainability Linked Loan**: KPI-linked finance aligned with frameworks such as SBT, RE100, and TCFD.
+- **GX transition-bond consistency**: alignment with government GX transition-bond policy.
+- **TCFD disclosure**: assessment of climate disclosure and transition alignment by borrowers and investees.
+- **Coal phase-down**: new financing for existing coal-fired power is subject to strict limits.
 
-### 4.2 GX 投資の運用基準
+Representative project categories include offshore wind, solar, hydrogen and ammonia, EV and battery supply chains, recycling, and decarbonization infrastructure.
 
-SIO + 一般勘定で GX 投資を行う際の基準:
+## 6. DX investment
 
-- **DBJ Environmental Rating** — 環境配慮型企業の格付け (S / A / B / C); 1996 年導入の老舗フレームワーク
-- **DBJ Sustainability Linked Loan** — KPI 連動型融資; SBT, RE100, TCFD 等の枠組みと整合
-- **GX 経済移行債整合性** — 政府の GX 経済移行債との整合性を運用上担保
-- **TCFD 開示** — 投融資先の TCFD 整合性を評価
-- **石炭火力からのフェードアウト** — 既存石炭火力への新規 financing は厳格に制限
+DBJ's DX investment priorities include data centers, domestic and allied-country semiconductor capacity, semiconductor equipment, semiconductor materials, AI infrastructure, and quantum computing. Operating criteria emphasize economic-security alignment, domestic production capacity, friend-shoring considerations, and co-investment with JIC or Ministry of Economy, Trade and Industry related funds where appropriate.
 
-### 4.3 GX 重点 sectors
+## 7. Crisis-response operations
 
-- **洋上風力** — 浮体式 / 着床式; プロジェクトファイナンス + エクイティ
-- **太陽光** — メガソーラー; プロジェクトファイナンス
-- **水素・アンモニア** — 製造・輸送・受入インフラ; 早期 risk money
-- **CCS / CCUS** — 早期 risk money
-- **EV / 電池サプライチェーン** — 上流 (原料) から下流 (リサイクル) まで
-- **SAF (持続可能航空燃料)** — early-stage commercial scale-up
+DBJ is a designated financial institution for government-specified crisis-response operations, together with entities such as [[JapanFG/jfc|JFC]] in relevant periods.
 
-## 5. DX 投資 — 戦略テーマ
-
-### 5.1 DX 重点 sectors
-
-- **データセンター** — クラウドハイパースケーラー需要 + 国内クラウド主権要請への対応
-- **半導体製造** — Rapidus / TSMC 熊本 / SUMCO 等の周辺サプライチェーン
-- **半導体製造装置** — 東京エレクトロン、SCREEN、アドバンテスト等の関連投資
-- **半導体素材** — JSR、信越化学等の関連投資
-- **AI インフラ** — GPU クラスター、AI スーパーコンピューター
-- **量子コンピューティング** — 国産量子計算機関連
-- **宇宙関連 DX** — 衛星通信、地球観測
-
-### 5.2 DX 投資の運用基準
-
-- **経済安全保障推進法整合性** — 特定重要物資の指定対象との整合
-- **国内立地優先** — Japan-domiciled production capacity を優先
-- **friend-shoring 配慮** — 海外案件の場合、同志国向け
-- **co-investment** — JIC / 経産省 ファンド との協調
-
-## 6. 危機対応業務 — designated crisis-response facility
-
-### 6.1 制度構造
-
-| Item | Detail |
+| Item | Reading |
 |---|---|
-| 法的根拠 | 株式会社日本政策投資銀行法 + 危機対応円滑化法 |
-| 指定金融機関 | DBJ + [[JapanFG/jfc|JFC]] (商工中金も含む期間あり) |
-| 発動要件 | 政府が「危機事象」を指定 (大規模災害 / 金融危機 / パンデミック 等) |
-| 主な融資手段 | ツーステップ・ローン (政府指定金融機関 → 民間金融機関 → 最終貸付先) + 直接融資 |
-| 担保 / 信用補完 | 政府による損失補償 + 利子補給 等 |
+| Designated institution | DBJ and JFC, with Shoko Chukin included in some periods |
+| Trigger | Government designation of a crisis event such as major disaster, financial crisis, pandemic, or similar shock |
+| Main instruments | Two-step loans through private financial institutions and direct lending |
+| Credit support | Government loss compensation and interest subsidies where applicable |
 
-### 6.2 発動の実績
+Major uses include support after the 2008-2009 global financial crisis, 2011 Great East Japan Earthquake, and 2020-2022 COVID-19 period. Crisis-response operations are the clearest expression of DBJ's public-policy function, because they may remain dormant in normal times but expand materially once a government crisis designation is made.
 
-- **2008-2009 リーマンショック** — 大企業向け危機対応融資
-- **2011 東日本大震災** — 被災企業向け復興融資
-- **2016 熊本地震** — 局地的危機対応
-- **2020-2022 新型コロナ** — 大型企業向け緊急融資; 100 兆円規模の政府支援パッケージの一部
-- **将来の災害 / 金融危機 / 地政学的危機** — 制度が常設
+## 8. Business rehabilitation and mezzanine finance
 
-危機対応業務は DBJ の 「政策金融機関としての存在意義」 の最も明確な発現形態であり、平時には休眠状態だが指定発動時には極めて大きな fiscal impact を持つ。
+DBJ is active in:
 
-## 7. 事業再生 / メザニン業務
+- DIP finance during civil rehabilitation or corporate reorganization.
+- Sponsor-led rehabilitation mezzanine with private equity or strategic investors.
+- TOB and MBO finance using senior-plus-mezzanine structures.
+- Investment through rehabilitation SPCs or DBJ Asset Management funds.
 
-### 7.1 主要産品
+The practice is usually coordinated with private sponsors. DBJ rarely takes control alone, and pricing is generally kept close to market discipline while enabling longer commitments than ordinary banks can provide.
 
-- **DIP ファイナンス** — 民事再生 / 会社更生手続中の融資
-- **スポンサー型再生 mezzanine** — スポンサー (PE / 戦略投資家) との協調で再生案件に出資 / メザニン
-- **TOB / MBO ファイナンス** — メザニン + senior の組合せ
-- **再生 SPC への出資** — DBJ 子会社の DBJ アセットマネジメントを経由するファンド経由 等
+## 9. Public-private fund platform
 
-### 7.2 運用上の特徴
+DBJ also supplies risk money indirectly through subsidiaries and jointly established funds:
 
-- 民間 PE と協調する案件が中心
-- DBJ 単独で control を取る案件は限定的
-- mezzanine pricing は民間並み、senior pricing は民間より若干 tight な水準
-- 再生案件特有の長期 commitment が可能 (5-10 年超)
-
-## 8. 公私官民協調ファンドの platform 化
-
-DBJ 子会社 / 共同設立ファンドの構造:
-
-```
-DBJ 株式会社
-  ├── DBJ アセットマネジメント (PE / 不動産 / インフラファンド運営)
-  │     ├── 国内 PE ファンド
-  │     ├── 国内インフラ / 再エネファンド
-  │     └── 共同投資ファンド (民間 PE / 機関投資家との協調)
-  ├── DBJ ベンチャーズ (ベンチャー投資)
-  ├── 地域共同ファンド (地方銀行と協調; 北海道、東北、九州 等の地域ファンド)
-  ├── 産業特化ファンド (海運、航空、化学、半導体 等)
-  └── 共同投資 vehicle (民間 PE / JIC / 経産省ファンドとの共同)
+```text
+DBJ
+  ├── DBJ Asset Management — private equity, real estate, and infrastructure funds
+  ├── DBJ Ventures — venture investment
+  ├── Regional co-investment funds with local banks
+  ├── Sector-focused funds for shipping, aviation, chemicals, semiconductors, and related sectors
+  └── Co-investment vehicles with private equity, JIC, and METI-related funds
 ```
 
-これらは DBJ 直接投資ではなく、ファンド経由で民間資金との混合 (blending) を実施する仕組み。**DBJ 自己資本 → ファンド GP / LP → 投資先** の流れで risk money を間接的に供給する。
+These vehicles blend DBJ capital with private capital. The flow is typically DBJ capital into a fund GP / LP structure, then into portfolio companies or projects.
 
-## 9. KPI と DBJ 独自のフレームワーク
+## 10. KPI and DBJ-specific frameworks
 
-### 9.1 主要 KPI
-
-| KPI 領域 | 詳細 |
+| KPI | Meaning |
 |---|---|
-| **投資 / 融資残高** | 期末投融資残高 (一般勘定 + 特定投資業務勘定) |
-| **特定投資業務 新規実行額** | 各年度の新規 SIO 実行額 |
-| **民間共同投資マッチング倍率** | 1 円の SIO 投資が引き出す民間共同投資円数 (目標 1x 以上) |
-| **GX 投融資残高** | GX 関連投融資の累計残高 |
-| **DX 投融資残高** | DX 関連投融資の累計残高 |
-| **危機対応融資残高** | 危機指定期間中の実行残高 |
-| **DBJ Environmental Rating 利用件数** | 環境格付け融資の累計 |
-| **収益性** | ROE / 経常利益 / 純利益 — 政策金融機関ながら経済的合理性を維持 |
+| New SIO execution | Annual amount of new Special Investment Operations |
+| Private co-investment multiple | Private capital mobilized per yen of SIO investment |
+| GX investment and loan balance | Cumulative balance of GX-related finance |
+| DX investment and loan balance | Cumulative balance of DX-related finance |
+| Crisis-response loan balance | Outstanding loans during designated crisis periods |
+| DBJ Environmental Rating use | Number and balance of environmental-rating finance |
+| Profitability | ROE, ordinary profit, and net income while maintaining policy-finance discipline |
 
-### 9.2 ESG / Sustainability フレームワーク
+DBJ's ESG and sustainability frameworks include DBJ Environmental Rating, DBJ BCM Rating, DBJ Green Bond issuance, and sustainability-linked lending. They are examples of a policy-finance institution diffusing proprietary evaluation frameworks into private markets.
 
-DBJ 独自の ESG フレームワーク:
+## 11. Comparison with JFC, JBIC, and NEXI
 
-- **DBJ Environmental Rating** (1996〜) — 環境配慮型企業を S/A/B/C で格付; 格付に応じて融資条件を優遇
-- **DBJ BCM Rating** (2006〜) — 事業継続管理体制を評価; 災害レジリエンス重視
-- **DBJ Health Management Rating** (2012〜) — 健康経営評価
-- **DBJ Sustainability Linked Loan** — KPI 連動型融資
-- **DBJ Green Bond** — Green Bond 発行で GX 投資を市場資金で fund
-
-これらは政策金融機関ながら独自の評価フレームワークを民間に普及させる例として国際的にも引用される。
-
-## 10. 政策金融機関 4 行 KPI / mandate 比較
-
-| Dimension | DBJ | [[JapanFG/jfc\|JFC]] | [[JapanFG/jbic\|JBIC]] | [[policy-finance/nexi\|NEXI]] |
+| Dimension | DBJ | JFC | JBIC | NEXI |
 |---|---|---|---|---|
-| 主対象 | 中堅・大企業 / インフラ / GX / DX | 中小企業 / 個人 / 農林水産 / 教育 | 海外投資 / 輸出 / 資源 / 経済安全保障 | 貿易・投資保険 |
-| 主要 instrument | 長期融資 + メザニン + エクイティ + アドバイザリー | 中小企業融資 + 教育ローン + 危機対応 | 海外投資ローン + 輸出買入 + 出資 + 保証 | 貿易保険 + 投資保険 |
-| Special Operations | 特定投資業務勘定 (¥3tn 枠) | (separate sub-divisions) | 特別業務勘定 (2016〜) | (separate insurance lines) |
-| Co-investment 倍率 | 民間 1x 以上目標 | n/a (融資中心) | 民間 1x 以上 (大型 OIL) | (保険なのでマッチング指標は別) |
-| 危機対応指定 | Yes | Yes (中小事業者向け) | (危機対応は別フレーム) | n/a |
-| 海外案件 | 限定的 (国内中心) | n/a | 全面的 | 全面的 |
-| Funding 基盤 | FILP + 政府保証債 + 一般債 + 外貨建 | FILP + 政府保証債 | FILP + 政府保証債 + 外貨建 (USD primary) | 政府勘定 + 保険料 |
-| 監督 | 財務省 + 金融庁 | 財務省 + 主管省庁 (経産省 / 農水省 / 文科省) | 財務省 + METI + MOFA | METI |
-| 経済安全保障の対象 | 国内 GX / DX / 半導体 / 防衛サプライチェーン | (限定的) | 海外 GX / 重要鉱物 / 半導体 / friend-shoring | 経済安全保障関連保険 |
+| Main target | Mid-sized and large corporates, infrastructure, GX, DX | SMEs, individuals, agriculture, education, crisis finance | Overseas investment, exports, resources, economic security | Trade and investment insurance |
+| Main instrument | Long-term loans, mezzanine, equity, advisory | SME loans, education loans, crisis-response loans | Overseas investment loans, export loans, equity, guarantees | Trade insurance and investment insurance |
+| Co-investment target | Private 1x or higher as an operating reference | Not central, lending-focused | Private co-investment in large overseas investment loans | Not directly comparable |
+| Crisis designation | Yes | Yes, especially for SMEs | Separate crisis and strategic frameworks | Insurance framework |
+| Economic-security surface | Domestic GX, DX, semiconductors, defense supply chains | Limited | Overseas GX, critical minerals, semiconductors, friend-shoring | Economic-security-related insurance |
 
-The matrix shows DBJ as the **most instrument-flexible** of the four — only DBJ combines senior, mezzanine, and equity in one balance sheet. JBIC has equity capacity via Special Operations but it is focused overseas. JFC focuses on senior debt for SME / individual borrowers. NEXI provides insurance, not direct money.
+## 12. Privatization scenario
 
-For the comprehensive multi-institution matrix see [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy finance institution mandate matrix]].
+DBJ's statutory privatization path has repeatedly stalled. The original post-2008 joint-stock-company structure contemplated eventual full privatization, but the global financial crisis, the 2011 disaster, COVID-19, GX transition finance, and economic-security investment have each strengthened the policy rationale for continued government ownership. In practical terms, full privatization is unlikely while GX transition bonds, crisis-response capacity, and economic-security risk capital remain active policy needs.
 
-## 11. 民営化シナリオの構造的停滞
+## 13. Open analytical issues
 
-DBJ 法の sunset 規定では当初 2008 年株式会社化から数年後の完全民営化を想定していたが、以下のショックで延期が繰り返されている:
-
-| 延期事由 | 年 | 結果 |
-|---|---|---|
-| 東日本大震災 | 2011 | 完全民営化 法改正で延期 |
-| 危機対応業務継続 | 2012-2015 | sunset 延長 |
-| 特定投資業務導入 | 2015 | 民営化議論 一旦凍結 |
-| 新型コロナ | 2020 | 危機対応 + 民営化 さらに延期 |
-| GX 投融資強化 | 2023〜 | 民営化議論 事実上凍結 |
-
-実務的には、**GX 経済移行債 + 危機対応 + 経済安全保障対応**が DBJ の存在意義を強化し続けるため、完全民営化は近い将来には起こらないと見るのが現実的。
-
-## 12. Counterpoints
-
-- **「民間補完原則」 vs 実態**: 政府保証付き低コスト調達ができるため、市場の長期インフラ / 大型エクイティ領域で**民間に対し優位**になる場面がある。Crowd-out 回避は理念的明確だが運用上は曖昧な部分がある。
-- **「co-investment 1x マッチング」 目標**: 案件ごとに測れない場合もあり、cumulative での計算になりがち。Vintage / sector-mix に偏りが出る場合の評価方法が未確立。
-- **「特定投資業務 3 兆円」 規模感**: JIC (産業革新投資機構) / JIC-VGI / 産業競争力強化法ファンド等と機能重複; 整理は政府事業レビューで periodic に議論される。
-- **「完全民営化の凍結」 vs 政策金融機能拡大**: 政府全額出資のまま大規模 risk capital を出す構造の正当性は GX / 経済安全保障文脈で defendable だが、長期 sustainability は議論の余地。
-- **GX 投資の climate alignment**: アンモニア混焼 / LNG transition fuel への DBJ 投融資は気候 NGO から批判される; パリ協定整合性の議論は continuous。
-- **DBJ ベンチャーズの位置付け**: JIC-VGI / 各 CVC との競合 vs 補完バランスは未整理。
-- **危機対応指定の発動頻度**: コロナ等で頻繁な発動が「常設的危機対応モード」に近づき、政策金融機関の規律という観点で議論を呼ぶ。
-
-## 13. Open questions
-
-- 特定投資業務の次フェーズ (2027〜) の規模・期限・対象範囲は?
-- GX 経済移行債 (20 兆円) 実施における DBJ の具体的役割確定形は?
-- 完全民営化の現実的タイミングは? (GX 投融資が一段落するまで凍結継続か)
-- 半導体・データセンター・防衛サプライチェーン政策投資における DBJ / JIC (産業革新投資機構) / 経産省ファンドの役割分担はどう整理されるか?
-- DBJ Environmental Rating の海外展開・国際基準化はどこまで進むか?
-- 地方銀行協調ファンドの cumulative AUM はどの程度まで成長するか?
-- 危機対応業務指定の発動条件は今後どう設計されるか? (パンデミック以外の crisis category)
-- AZEC (Asia Zero Emission Community) 関連の海外案件で DBJ と JBIC の役割分担はどうなるか?
+- How large and how long the next SIO authorization phase after 2027 should be.
+- DBJ's concrete execution role in the more-than-20-trillion-yen GX transition-bond program.
+- The realistic timing of full privatization, if any, after GX investment peaks.
+- Division of roles among DBJ, JIC, and METI-related funds in semiconductors, data centers, and defense supply chains.
+- Internationalization and standardization of DBJ Environmental Rating.
+- Growth of regional-bank co-investment fund assets under management.
+- Future design of crisis-response triggers beyond pandemics.
+- Role allocation between DBJ and JBIC in AZEC-related overseas decarbonization projects.
 
 ## Related
 
-- [[policy-finance/INDEX|policy-finance index]]
-- [[policy-finance/japan-policy-finance-system|Japan policy finance system]]
-- [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy finance institution mandate matrix]]
-- [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment underwriting process]]
-- [[policy-finance/nexi-export-credit-insurance-products|NEXI export credit insurance products]]
-- [[policy-finance/jfc-sme-division-operating-model|JFC SME division operating model]]
-- [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]]
-- [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]]
-- [[JapanFG/dbj|DBJ (株式会社日本政策投資銀行) — institutional profile]]
-- [[JapanFG/jfc|JFC]]
-- [[JapanFG/jbic|JBIC]]
-- [[JapanFG/mufg|MUFG]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/mizuho-fg|Mizuho FG]]
+- [[JapanFG/dbj]]
+- [[JapanFG/jfc]]
+- [[JapanFG/jbic]]
+- [[JapanFG/nexi]]
+- [[JapanFG/mufg]]
+- [[JapanFG/smfg]]
+- [[JapanFG/mizuho-fg]]
+- [[finance/INDEX]]
+- [[policy-finance/INDEX]]
 
 ## Sources
 
-- DBJ 公式サイト 会社概要・principle・disclosure: https://www.dbj.jp/, https://www.dbj.jp/co/info/principle/, https://www.dbj.jp/co/info/disclo/
-- DBJ 特定投資業務 紹介ページ: https://www.dbj.jp/service/finance/special_investment/
-- DBJ 危機対応業務 紹介ページ: https://www.dbj.jp/service/finance/crisis_response/
-- 株式会社日本政策投資銀行法 (平成 19 年法律第 85 号) — 関連公開資料
-- 金融庁 銀行業 / 政策金融機関監督関連: https://www.fsa.go.jp/
-- 財務省 FILP (財政投融資) 関連: https://www.mof.go.jp/policy/filp/index.htm
-- GX 推進法 (令和 5 年法律第 32 号) 関連公開資料
-- 株式会社日本政策投資銀行 ディスクロージャー誌 各年度版 (公開資料)
-- 経産省 GX 実行会議公開資料
-- 政府 行政事業レビュー DBJ 関連項目 (公開)
+- DBJ official website, company profile, principle, and disclosure pages.
+- DBJ Special Investment Operations introduction.
+- DBJ crisis-response operations introduction.
+- Development Bank of Japan Inc. Act.
+- GX Promotion Act and related government GX transition-bond materials.
+- DBJ disclosure reports by fiscal year.
+- Government administrative review materials for DBJ-related programs.
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely** (2026-05-25)。特定投資業務の規模感 (3 兆円程度の累計授権枠) と GX / DX / 危機対応 / 事業再生 / 民間補完原則は DBJ 公式公開資料および株式会社日本政策投資銀行法・GX 推進法等の公開法令ベース。具体的な KPI 数値・最新セグメント別残高は最新 DBJ ディスクロージャー誌を要参照。完全民営化の延期経緯は法改正履歴ベース。
+> confidence: **likely** as of 2026-05-25. The SIO authorization scale, GX / DX / crisis-response roles, business-rehabilitation function, and private-sector complementarity principle are based on DBJ public materials, the DBJ Act, GX public-law materials, and government review documents. Current segment balances and point-in-time KPI values should be checked against the latest DBJ disclosure report before citation.

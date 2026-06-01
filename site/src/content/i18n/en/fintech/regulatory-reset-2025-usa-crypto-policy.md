@@ -63,7 +63,7 @@ This is the **single biggest lever** the reset pulled, because it required neith
 
 ## Mechanism2 · EO14178 and the President's Working Group
 
-EO14178 (Strengthening American Leadership in Digital Financial Technology, January23 2025) does five things:
+EO14178 (Strengthening American Leadership in Digital Financial Technology, January23 2025) sets out five policy moves:
 
 1. **Revokes EO14067** (Biden, March2022) on "Ensuring Responsible Development of Digital Assets" and revokes the Treasury-led Framework for International Engagement on Digital Assets.
 2. **Prohibits the issuance, establishment, or promotion of a retail US CBDC** by any federal agency.
@@ -86,7 +86,7 @@ The Czar pattern resembles the existing position of National Cyber Director (cre
 
 ## Mechanism4 · Strategic Bitcoin Reserve (EO14233)
 
-EO14233 (March6 2025) does three things:
+EO14233 (March6 2025) sets out three policy moves:
 
 1. **Establishes the Strategic Bitcoin Reserve (SBR)**, capitalized initially with BTC held by federal agencies as a result of criminal or civil forfeiture; the Treasury Secretary is directed to **maintain the position without sale**.
 2. **Establishes the US Digital Asset Stockpile**, capitalized with non-BTC digital assets similarly forfeited, with a **mandate to manage prudently** rather than hold indefinitely.

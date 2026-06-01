@@ -4,72 +4,67 @@ source_hash: b5ab1cac2a4da3b6
 lang: zh
 status: machine
 fidelity: needs_review
-title: "FM Global Japan / FM繧ｰ繝ｭ繝ｼ繝舌Ν繝ｻ繧ｸ繝｣繝代Φ"
+title: "FM Global Japan / FM Global 日本"
 translated_at: 2026-05-31T15:29:03.929Z
 ---
-﻿
-# FM Global Japan / FM繧ｰ繝ｭ繝ｼ繝舌Ν繝ｻ繧ｸ繝｣繝代Φ
 
-## Wiki route
+# FM Global Japan / FM Global 日本
 
-This entry sits under 笶ｰa笶ｱ. Read it against 笶ｰb笶ｱ and 笶ｰc笶ｱ for foreign-commercial-insurer peer context, and 笶ｰd笶ｱ for the broader Japan non-life market system / regulatory boundary.
+## Wiki 路径
+
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[JapanFG/munich-re-japan|Munich Re 日本支店]]、[[JapanFG/swiss-re-japan|Swiss Re 日本支店]] 及 [[JapanFG/toa-reinsurance|Toa Reinsurance]] 对照阅读，用于理解外资专业保险与再保险机构在日本的定位；更广的日本损害保险制度边界见 [[insurance/INDEX|保险索引]]。
 
 ## TL;DR
 
-FM Insurance Company Limited Japan Branch (FM Global Japan) is the Japan branch of **FM Global** (Factory Mutual Insurance Company, headquartered in Johnston, Rhode Island, USA). FM Global is the world's leading mutual industrial-property insurer, owned by its policyholders, specializing in large commercial property risks combined with engineering-based loss prevention. Its Japan operations focus on Fortune 笶ｰcd笶ｱ-class manufacturers, supply-chain risks, and natural-catastrophe property cover where domestic 笶ｰe笶ｱ capacity meets foreign specialty alternatives.
+FM Insurance Company Limited Japan Branch（FM Global Japan）是 FM Global（Factory Mutual Insurance Company，总部位于美国罗德岛州 Johnston）的日本分支。FM Global 是以投保人所有制为基础的全球工业财产保险互助集团，核心能力并非普通商业火灾险分销，而是面向大型制造业、供应链、能源、半导体、物流和高价值厂房提供工程驱动的财产风险承保与损失预防服务。日本业务主要服务跨国制造集团和在日大型设施，并在地震、台风、洪水等自然灾害敞口较高的工业财产风险中提供外资专业承保容量。
 
-## 笶ｰce笶ｱ. License / group boundary
+## 1. 牌照与集团边界
 
-| Item | Notes |
+| 项目 | 说明 |
 |---|---|
-| Legal name | FM Insurance Company Limited Japan Branch (FM繧､繝ｳ繧ｷ繝･繧｢繝ｩ繝ｳ繧ｹ繝ｻ繧ｫ繝ｳ繝代ル繝ｼ繝ｻ繝ｪ繝溘ユ繝・ラ 譌･譛ｬ謾ｯ蠎・ |
-| English / brand | FM Global / Factory Mutual |
-| License route | FSA non-life insurer foreign branch registration |
-| Industry body | General Insurance Association of Japan (謳堺ｿ晏鵠莨・ participation as foreign insurer |
-| Wiki role | Foreign-affiliated Japan non-life insurance branch (industrial property mutual) |
-| Parent / structure | Factory Mutual Insurance Company (mutual, USA) via FM Insurance Company Limited (UK subsidiary) |
+| 法定名称 | FM Insurance Company Limited Japan Branch（FM Insurance Company Limited 日本支店） |
+| 英文品牌 | FM Global / Factory Mutual |
+| 牌照路径 | 金融厅损害保险公司免许清单中的外国损害保险公司分支 |
+| 行业组织 | 日本损害保险协会成员（外国保险公司分支） |
+| Wiki 角色 | 外资工业财产保险日本分支，互助型专业承保机构 |
+| 母公司结构 | Factory Mutual Insurance Company（美国互助保险集团）经由 FM Insurance Company Limited 等实体开展国际业务 |
 
-License route detail belongs to 笶ｰf笶ｱ.
+牌照细节应与金融厅公开的损害保险公司免许清单交叉核对。
 
-## 笶ｰcf笶ｱ. Operating model
+## 2. 运营模式
 
-FM Global Japan underwrites large industrial and commercial property risks for multinational manufacturers, technology firms, and other large facilities operating in Japan. The model is distinctive:
+FM Global Japan 面向在日本运营的大型工业和商业设施承保财产风险。其商业模式的辨识度来自以下几点：
 
-- **Loss prevention as core product**: FM Global combines insurance with rigorous engineering risk assessment, on-site inspections, and loss-prevention recommendations. Client engineering visits, FM Approvals certification, and tailored risk improvement plans are integral.
-- **Mutual ownership**: As a mutual insurer, FM Global returns dividends or premium credits to client-owners rather than shareholders.
-- **Single-carrier capacity**: For very large property programs, FM Global typically writes 笶ｰcg笶ｱ capacity rather than participating in subscription placements (contrasted with 笶ｰg笶ｱ syndicate placements).
-- **Multinational programs**: FM Global Japan often participates in global master policies for Japan-based multinationals or Japan operations of foreign multinationals, coordinated with FM Global's worldwide network.
+- **损失预防即核心产品**：FM Global 将保险承保与工程风险评估、现场检查、FM Approvals 认证和整改建议绑定，承保前后的风险改善建议是服务的一部分。
+- **互助所有制**：作为互助保险集团，FM Global 的经济逻辑以投保人权益为中心，而非公开股东回报最大化。
+- **单一承保容量**：对于大型工业财产项目，FM Global 往往以单一承保人方式提供显著容量，而不是只作为共保或订阅式安排中的一小份额。
+- **跨国项目协调**：日本分支经常参与日本企业的全球主保单，或外资跨国企业在日本设施的本地承保安排，并与 FM Global 全球网络协调。
 
-This positions FM Global Japan as a niche but high-profile player alongside the domestic 笶ｰh笶ｱ for large industrial property risk, comparable internationally with mutuals discussed in 笶ｰi笶ｱ. Solvency framework differences across mutuals and stock companies are summarized in 笶ｰj笶ｱ.
+因此，FM Global Japan 在日本损害保险市场中不是普通个人险或中小企业险竞争者，而是工业财产、供应链韧性和自然灾害敞口管理中的专业承保节点。
 
-## 笶ｰch笶ｱ. Why this page matters
+## 3. 为什么本页重要
 
-- Adds a registry-confirmed foreign mutual property insurer missing from JapanFG.
-- Demonstrates the engineering-led loss-prevention model not present in conventional Japan non-life carriers.
-- Useful for understanding the industrial property segment, particularly for semiconductor, automotive, and energy facilities where catastrophe exposure (earthquake, typhoon, flood) is significant 窶・see also 笶ｰba笶ｱ.
-- Sets up reference for comparing mutual vs. stock-company insurance structures in the Japan market.
+- 补足 JapanFG 中经金融厅登记确认的外资互助型工业财产保险分支。
+- 展示与传统日本大型损害保险公司不同的工程损失预防模式。
+- 有助于理解半导体、汽车、能源、物流等高价值设施的地震、台风、洪水风险转移结构。
+- 为比较互助保险集团与股份制保险集团在偿付能力、资本约束和客户关系上的差异提供入口。
 
-## Related
+## 相关
 
-- 笶ｰbb笶ｱ
-- 笶ｰbc笶ｱ
-- 笶ｰbd笶ｱ
-- 笶ｰbe笶ｱ
-- 笶ｰbf笶ｱ
-- 笶ｰbg笶ｱ
-- 笶ｰbh笶ｱ
-- 笶ｰbi笶ｱ
-- 笶ｰbj笶ｱ
-- 笶ｰca笶ｱ
-- 笶ｰcb笶ｱ
+- [[JapanFG/INDEX|JapanFG 索引]]
+- [[insurance/INDEX|保险索引]]
+- [[JapanFG/munich-re-japan|Munich Re 日本支店]]
+- [[JapanFG/swiss-re-japan|Swiss Re 日本支店]]
+- [[JapanFG/toa-reinsurance|Toa Reinsurance]]
+- [[JapanFG/sonpo-kyokai|日本损害保险协会]]
 
-## Sources
+## 来源
 
 - FSA non-life insurer license list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx
 - FM Global Japan office: https://www.fmglobal.com/about-us/our-locations/japan
 - FM Global (Factory Mutual Insurance Company) public Annual Report
-- General Insurance Association of Japan member directory (謳堺ｿ晏鵠莨・
+- General Insurance Association of Japan member directory
 
 ---
 
-> [!info] 譬｡譬ｸ迥ｶ諤・> confidence: **likely** (FSA non-life insurer list + FM Global official Japan office page + public Annual Report based public information only, 笶ｰcc笶ｱ 譬｡譬ｸ). Branch-level Japan financials are not separately publicly disclosed; group-level mutual financials are the primary public source. Sector concentration and earthquake accumulation are not granularly reported at the Japan branch level.
+> [!info] 校核状态：confidence: **likely**。本页仅基于金融厅损害保险公司免许清单、FM Global 日本办公室页面、FM Global 公开年报及日本损害保险协会公开目录整理。日本分支层面的财务数字未单独充分公开；集团层面的互助保险财务披露是主要公开依据。

@@ -12,11 +12,11 @@ translated_at: 2026-05-31T03:19:56.472Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-cex-points-economy-integration|国内 CEX × ポイントエコノミー統合モデル]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-cex-points-economy-integration|Domestic CEX and point-economy integration model]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange business registration system: numbering, local-finance-bureau jurisdiction, and registration requirements]] for the broader system / regulatory boundary.
 
 ## Overview
 
-Domestic Japanese CEXs have a distinctive structure of running 2  service formats in parallel. The **sales counter (販売所, hanbaijo)** = an OTC-spread model in which the CEX itself trades against the customer on a principal basis vs the **exchange (取引所, torihikijo)** = a maker/taker fee model in which customers' limit orders match against each other on an order book. The two differ greatly in revenue structure, regulatory positioning, and assumed customer base, and it is common for the same CEX to offer both services side by side.
+Domestic Japanese CEXs have a distinctive structure of running 2  service formats in parallel. The **sales counter (hanbaijo)** = an OTC-spread model in which the CEX itself trades against the customer on a principal basis vs the **exchange / order-book market (torihikijo)** = a maker/taker fee model in which customers' limit orders match against each other on an order book. The two differ greatly in revenue structure, regulatory positioning, and assumed customer base, and it is common for the same CEX to offer both services side by side.
 
 ## Sales-counter model (mainstream)
 
@@ -37,5 +37,5 @@ Domestic Japanese CEXs have a distinctive structure of running 2  service format
 - **The sales-counter spread ~3% is higher than the wholesale price ~0.5% of the MM ([[exchanges/jp-crypto-market-maker-otc-layer]] B2C2 , etc.)** — the CEX margin ~2.5% is a markup structure
 - The "invisible fee" problem for retail customers — FSA supervisory guidelines continuously demand improved transparency
 - **Trading volume is sales counter > exchange**, but **profit rate is sales counter ≫ exchange** — the main lever for domestic CEX profitability
-- Overseas CEXs ([[exchanges/global-cex-top10-comparison]] Binance / Coinbase, etc.) are basically maker/taker — Japan's sales-counter model is an internationally unusual structure
-- Pressure to shift toward the exchange model continues, driven by the lifting of the crypto-asset ETF ban ([[exchanges/btc-spot-etf-japan-impact|BTC spot ETF 日本 impact]]), tax reform ([[exchanges/jp-crypto-asset-taxation-detailed|JP crypto asset 税制詳細]]), etc. For best execution, see [[securities/japan-best-execution-sor-pts|japan best execution SOR/PTS]].
+- Overseas CEXs ([[exchanges/global-cex-top10-comparison]] Binance / Coinbase, etc.) are predominantly maker/taker venues — Japan's sales-counter model is an internationally unusual structure
+- Pressure to shift toward the exchange model continues, driven by the lifting of the crypto-asset ETF ban ([[exchanges/btc-spot-etf-japan-impact|BTC spot ETF impact in Japan]]), tax reform ([[exchanges/jp-crypto-asset-taxation-detailed|JP crypto-asset taxation details]]), etc. For best execution, see [[securities/japan-best-execution-sor-pts|japan best execution SOR/PTS]].

@@ -13,31 +13,31 @@ translated_at: 2026-05-31T15:29:03.884Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sony-bank|ソニー銀行 (Sony Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sony-bank|Sony Bank]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-大和ネクスト銀行は [[JapanFG/daiwa-sg|大和証券グループ]] の銀行 operating company。大和証券口座との連携を前提とした預金・外貨・資産形成サポート銀行で、2026-04-27 に [[JapanFG/orix-bank|オリックス銀行]] の完全子会社化を公表したため、証券グループの銀行Function拡張で重要性が増している。
+Daiwa Next Bank is the banking operating company within [[JapanFG/daiwa-sg|Daiwa Securities Group]]. It provides deposits, foreign-currency services, fund transfers, and asset-formation support linked to Daiwa Securities accounts. Its strategic relevance has increased because Daiwa Securities Group announced on 2026-04-27 that it would make [[JapanFG/orix-bank|Orix Bank]] a wholly owned subsidiary, expanding the banking functions available to the securities group.
 
-## 1. 法人・ライセンス境界
+## 1. Legal Entity and Licence Boundary
 
 | Item | Reading |
 |---|---|
 | Legal name | 株式会社大和ネクスト銀行 |
 | English name | Daiwa Next Bank, Ltd. |
-| FSA category | その他銀行 |
-| Parent boundary | [[JapanFG/daiwa-sg|大和証券グループ本社]] 100% bank subsidiary |
-| Strategic watch | [[JapanFG/orix-bank|オリックス銀行]] acquisition / future integration |
+| FSA category | Other bank |
+| Parent boundary | 100% bank subsidiary of [[JapanFG/daiwa-sg|Daiwa Securities Group Inc.]] |
+| Strategic watch | [[JapanFG/orix-bank|Orix Bank]] acquisition / future integration |
 
 ## 2. Business role
 
-- 大和証券口座と連携するネット銀行として、円預金・外貨預金・資金移動・資産形成サポートを提供する。
-- 全国の大和証券店舗・営業員ネットワークと接続するため、完全オンライン専業銀行とは異なる hybrid securities-bank model。
-- オリックス銀行買収が完了すれば、不動産ローン・信託Function・預金基盤の拡張が焦点になる。
+- Provides yen deposits, foreign-currency deposits, fund-transfer services, and asset-formation support as an internet bank linked to Daiwa Securities accounts.
+- Operates a hybrid securities-bank model because it is connected to Daiwa Securities' nationwide branch and salesforce network rather than functioning as a purely online bank.
+- If the Orix Bank acquisition is completed, the principal integration themes will be real-estate loans, trust functions, and the expansion of the deposit base.
 
 ## 3. Why standalone page matters
 
-大和証券グループの証券会社ページだけでは、銀行免許、預金基盤、証券口座連動、オリックス銀行統合を追えない。大和ネクスト銀行は「証券グループが銀行Functionをどこまで持つか」を見る代表例。
+The securities-company page for Daiwa Securities Group alone does not capture the banking licence, deposit base, securities-account linkage, or Orix Bank integration. Daiwa Next Bank is a representative case for assessing how far a securities group can internalize banking functions.
 
 ## Related
 

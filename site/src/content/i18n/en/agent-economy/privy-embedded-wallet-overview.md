@@ -12,7 +12,7 @@ translated_at: 2026-05-30T17:31:02.643Z
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/embedded-wallet-network-effects-moat|埋込ウォレットのネットワーク効果 · ウォレット本体ではなくインテグレーターの堀]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI agent payment protocols overview · seven-protocol landscape]]. Read it against [[agent-economy/embedded-wallet-network-effects-moat|Embedded-wallet network effects · the integrator moat rather than the wallet itself]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
@@ -27,18 +27,18 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-When a user logs in with email/Google, the Privy SDK (code from 30 行) runs MPC sharding key generation in the frontend. **The 1 shard is stored on the user's device** (Passkey / WebAuthn / Secure Enclave based) + **the 1 shard is stored in Privy's TEE** (Trusted Execution Environment · AWS Nitro Enclaves or equivalent). At signing time the 2 shards cooperate to generate a valid signature, but Privy alone cannot sign, and the user alone cannot sign either — realizing the compromise of "self-custodial yet management-free" (for the same model see [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]]). With the Multichain balances API, 1 API calls can retrieve multi-chain balances across Ethereum / Solana / Tempo / Polygon and more, eliminating the need for developers to implement multi-chain aggregation individually (the underlying layer depends on [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]]). The whole experience is fully Web2: the user never sees a seed phrase · never installs MetaMask · never has to switch networks — this is the core of why Privy occupies a 110M wallet scale.
+When a user logs in with email or Google, the Privy SDK (roughly 30 lines of code) runs MPC sharding key generation in the frontend. **One shard is stored on the user's device** (Passkey / WebAuthn / Secure Enclave based), and **one shard is stored in Privy's TEE** (Trusted Execution Environment · AWS Nitro Enclaves or equivalent). At signing time the two shards cooperate to generate a valid signature, but Privy alone cannot sign, and the user alone cannot sign either: this realizes the compromise of "self-custodial yet management-free" (for the same model see [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded-wallet adoption]]). With the Multichain balances API, one API call can retrieve multi-chain balances across Ethereum, Solana, Tempo, Polygon, and other networks, eliminating the need for developers to implement multi-chain aggregation individually; the underlying layer depends on [[systems/chain-abstraction-pattern-overview|chain-abstraction patterns]]. The whole experience is fully Web2: the user never sees a seed phrase, never installs MetaMask, and never has to switch networks. This is the core reason Privy reached a 110M-wallet scale.
 
 ## Origin & evolution
 
-2021 New York · founders Stern + Li (formerly at Protocol Labs). 2022-2024 deeply integrated with dapps such as OpenSea / Hyperliquid / Farcaster, accumulating 75M accounts. 2024-Q4 Stripe launched its chained acquisition strategy of stablecoin + Tempo + Bridge, and a wallet layer became necessary (for the full strategic picture see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]]). 2025-06 Stripe completed the Privy acquisition · estimated $300-500M (in contrast with Bridge's $1.1B · Privy's valuation was lower because it was in a high-growth phase). 2025 H2 Privy continued operating under an independent brand while beginning to serve the internal demand of Stripe Connect / Tempo / Bridge. 2026-05-07 AWS Bedrock AgentCore Payments embedded Privy and Coinbase CDP in parallel as default wallet providers — establishing Privy's positioning in AI agent economy infrastructure (in contrast with [[exchanges/global-institutional-custody-five-pillars|グローバル機関カストディ5本柱]]'s legacy path).
+Privy was founded in New York in 2021 by Stern and Li, both formerly at Protocol Labs. During 2022-2024, it integrated deeply with dapps such as OpenSea, Hyperliquid, Farcaster, and Friend.tech, accumulating 75M accounts. In 2024-Q4, Stripe launched its chained acquisition strategy around stablecoins, Tempo, and Bridge, making a wallet layer necessary; for the full strategic picture, see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]. In 2025-06, Stripe completed the Privy acquisition at an estimated $300-500M, below Bridge's $1.1B valuation because Privy was still in a high-growth phase. In 2025 H2, Privy continued operating under an independent brand while beginning to serve internal demand from Stripe Connect, Tempo, and Bridge. On 2026-05-07, AWS Bedrock AgentCore Payments embedded Privy and Coinbase CDP in parallel as default wallet providers, establishing Privy's position in AI agent economy infrastructure; for the legacy path, see [[exchanges/global-institutional-custody-five-pillars|global institutional custody five pillars]].
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore デフォルトウォレット]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet による CEX 中抜き]]
-- [[agent-economy/x402-http-payment-overview|x402 HTTP 決済プロトコル]]
+- [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore default wallet]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|CEX disintermediation through embedded wallets]]
+- [[agent-economy/x402-http-payment-overview|x402 HTTP payment protocol]]
 <!-- /wiki-links:managed -->
 
 ## Sources

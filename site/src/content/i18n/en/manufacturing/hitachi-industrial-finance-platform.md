@@ -4,33 +4,33 @@ source_hash: b64f909f63567180
 lang: en
 status: machine
 fidelity: ok
-title: "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)"
+title: "Hitachi Industrial Finance Platform (Hitachi Group industrial finance platform)"
 translated_at: 2026-05-30T15:31:43.926Z
 ---
 
-# Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)
+# Hitachi Industrial Finance Platform (Hitachi Group industrial finance platform)
 
 ## Wiki route
 
-This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it against [[manufacturing/toyota-motor|Toyota Motor]] and [[manufacturing/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]] for peer industrial-finance contrast, [[JapanFG/hitachi-capital|旧 日立キャピタル]] for the legacy captive-leasing entity history, [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] for the post-2021 surviving merged entity, and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+This entry sits under [[manufacturing/INDEX|manufacturing index]]. Read it against [[manufacturing/toyota-motor|Toyota Motor]] and [[manufacturing/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]] for peer industrial-finance contrast, [[JapanFG/hitachi-capital|former 日立Capital]] for the legacy captive-leasing entity history, [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] for the post-2021 surviving merged entity, and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Hitachi, Ltd. (6501) is a diversified electrical / social-infrastructure company flying the **"Social Innovation Business"** banner, selling large-scale energy, rail, IT (Lumada), and industrial-equipment deals through a combination of **its own balance sheet + vendor finance + project-finance structuring**. What to watch as a FinWiki manufacturing anchor is how the manufacturing parent itself **maintains customer finance after externally integrating its finance subsidiary (the former Hitachi Capital) in 2021 **. The former [[JapanFG/hitachi-capital|日立キャピタル]] was integrated with Mitsubishi UFJ Lease in 2021-04-01 to form [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル (Mitsubishi HC Capital, 8593)]], so Hitachi's standalone captive leasing has disappeared, and the present structure is a three-layer one: **(1) direct project-finance support by corporate treasury, (2) continued alliance with Mitsubishi HC Capital, (3) individual vendor finance at the overseas-subsidiary level**.
+Hitachi, Ltd. (6501) is a diversified electrical / social-infrastructure company flying the **"Social Innovation Business"** banner, selling large-scale energy, rail, IT (Lumada), and industrial-equipment deals through a combination of **its own balance sheet + vendor finance + project-finance structuring**. What to watch as a FinWiki manufacturing anchor is how the manufacturing parent itself **maintains customer finance after externally integrating its finance subsidiary (the former Hitachi Capital) in 2021 **. The former [[JapanFG/hitachi-capital|日立Capital]] was integrated with Mitsubishi UFJ Lease in 2021-04-01 to form [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital (Mitsubishi HC Capital, 8593)]], so Hitachi's standalone captive leasing has disappeared, and the present structure is a three-layer one: **(1) direct project-finance support by corporate treasury, (2) continued alliance with Mitsubishi HC Capital, (3) individual vendor finance at the overseas-subsidiary level**.
 
 ## 1. Corporate structure and the position of the finance function
 
 | Item | Content |
 |---|---|
-| Formal name | Hitachi, Ltd. / 株式会社日立製作所 |
+| Formal name | Hitachi, Ltd. / Co., Ltd.日立製作所 |
 | Established | 1920-02-01 (1910 年 founding of Kuhara Mining's Hitachi Mine) |
 | Head office | 1-6-6  Marunouchi, Chiyoda-ku, Tokyo |
 | Listing | TSE PRIME 6501, NYSE delisted (2007), now TSE + NSE |
-| Consolidated revenue | approx. 9.7 兆円 (FY2024  full year) |
-| Consolidated operating profit | approx. 7,500 億円 scale (FY2024  full year) |
+| Consolidated revenue | approx. 9.7 trillion yen (FY2024  full year) |
+| Consolidated operating profit | approx. 7,500 hundred million yen scale (FY2024  full year) |
 | Consolidated subsidiaries | approx. 700 社 scale |
-| Former captive finance | [[JapanFG/hitachi-capital|日立キャピタル]] (disappeared via the 2021-04  integration) |
-| Current main finance alliance | [[JapanFG/mitsubishi-hc-capital|三菱 HC キャピタル]] (8593) |
+| Former captive finance | [[JapanFG/hitachi-capital|日立Capital]] (disappeared via the 2021-04  integration) |
+| Current main finance alliance | [[JapanFG/mitsubishi-hc-capital|三菱 HC Capital]] (8593) |
 
 ### Position of the finance function (post-2021)
 
@@ -47,16 +47,16 @@ Hitachi, Ltd. (6501,  parent)
         └── alliance: domestic corporate leasing via Mitsubishi HC Capital
 ```
 
-As a result of the former [[JapanFG/hitachi-capital|日立キャピタル]] being integrated into Mitsubishi HC Capital, Hitachi itself shifted to a hybrid model of **"own treasury + via an allied leasing company."** Heavy equipment leasing is routed to Mitsubishi HC Capital, while strategically important large infrastructure deals are structured directly by the parent's treasury.
+As a result of the former [[JapanFG/hitachi-capital|日立Capital]] being integrated into Mitsubishi HC Capital, Hitachi itself shifted to a hybrid model of **"own treasury + via an allied leasing company."** Heavy equipment leasing is routed to Mitsubishi HC Capital, while strategically important large infrastructure deals are structured directly by the parent's treasury.
 
 ## 2. Business lines × finance-structuring patterns
 
 | Business line | Main customer-finance structuring | Partner finance |
 |---|---|---|
 | Rail (UK Hitachi Rail, Europe / Japan Shinkansen exports) | PFI / PPP, leasing, export finance | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / Mitsubishi HC Capital / European infrastructure investment funds |
-| Energy (Hitachi Energy = former ABB Power Grids) | EPC + project finance | [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]] / European ECA |
-| IT・Lumada (digital platform) | subscription, SaaS, usage-linked | own finance (booked as deferred revenue) |
-| Industrial equipment, construction machinery (Hitachi Construction Machinery 6305  separately listed) | vendor lease | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/orix-corp|オリックス]] / regional banks |
+| Energy (Hitachi Energy = former ABB Power Grids) | EPC + project finance | [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]] / European ECA |
+| IT / Lumada (digital platform) | subscription, SaaS, usage-linked | own finance (booked as deferred revenue) |
+| Industrial equipment, construction machinery (Hitachi Construction Machinery 6305  separately listed) | vendor lease | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/orix-corp|ORIX]] / regional banks |
 | Data centers | SPV finance for DC construction | Mitsubishi Estate collaboration, bank syndicate |
 | Automotive components (Astemo, Honda + JIC collaboration) | OEM vendor financing only | connection to Honda-group finance |
 
@@ -66,12 +66,12 @@ Large UK-bound rail deals such as Hitachi Rail UK's **Class 800 / 802** or the *
 
 | Metric | Value | Source |
 |---|---|---|
-| Consolidated revenue | approx. 9.7 兆円 | Hitachi Integrated Report FY2024  |
+| Consolidated revenue | approx. 9.7 trillion yen | Hitachi Integrated Report FY2024  |
 | Consolidated Adjusted EBITA | approx. 10% scale | ibid. |
-| Consolidated net income | approx. 6,000 億円 scale | ibid. |
-| Consolidated total assets | approx. 13 兆円 scale | ibid. |
-| Hitachi Energy revenue | approx. 1.4 兆円 scale | segment disclosure |
-| Hitachi Rail revenue | approx. 0.7 兆円 scale | segment disclosure |
+| Consolidated net income | approx. 6,000 hundred million yen scale | ibid. |
+| Consolidated total assets | approx. 13 trillion yen scale | ibid. |
+| Hitachi Energy revenue | approx. 1.4 trillion yen scale | segment disclosure |
+| Hitachi Rail revenue | approx. 0.7 trillion yen scale | segment disclosure |
 | Net D/E | around 0.3 x | ibid. |
 | R&D investment | around 3-4% of revenue | ibid. |
 
@@ -83,21 +83,21 @@ Large UK-bound rail deals such as Hitachi Rail UK's **Class 800 / 802** or the *
 - **Hitachi Energy strategy**: acquired the former ABB Power Grids for about 78 億 dollars in 2020 , continuing the ABB brand in the global transmission/distribution, grid, and HVDC market. Project-finance structuring is a syndicate of European bank groups + Japanese megabanks + ECAs (JBIC/NEXI + EKN, etc.).
 - **Hitachi Rail UK becoming a prime contractor**: starting from the UK and Italy (former AnsaldoBreda integration), pursuing integrated vehicle + maintenance + leasing deals across Europe and Asia.
 - **Astemo collaboration with Honda + JIC**: separating and integrating the former Hitachi Automotive Systems under a Honda + Hitachi + JIC scheme, putting the automotive-components business on an independent-accounting footing. From the FinWiki manufacturing perspective, this is an example of the flow of "separating the captive to lighten the maker parent's B/S."
-- **Alliance-type leasing**: even after letting go of the former Hitachi Capital, domestic leasing demand for Hitachi products continues to be absorbed via preferred transactions with [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]].
+- **Alliance-type leasing**: even after letting go of the former Hitachi Capital, domestic leasing demand for Hitachi products continues to be absorbed via preferred transactions with [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]].
 
 ## 5. Regulation / policy
 
 - As a listed company, subject to disclosure under the TSE, FIEA, Companies Act, and IFRS.
 - Multi-layered regulation across rail (UK ORR, Europe ERA, Japan MLIT), power (each country's power regulation), nuclear (NRA / IAEA), and export control (METI security trade control).
-- In customer-finance structuring, deals using ECA coverage centered on [[JapanFG/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] are common.
+- In customer-finance structuring, deals using ECA coverage centered on [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] are common.
 - The history of the former Hitachi Capital integration is referenced as one of the factors establishing the **"big-three leasing (ORIX / Mitsubishi HC Capital / Tokyo Century) regime"** in the leasing industry.
 
 ## Related
 
-- [[JapanFG/hitachi-capital|日立キャピタル (歴史エンティティ)]] · [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]
+- [[JapanFG/hitachi-capital|Hitachi Capital (historical entity)]] · [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]
 - [[manufacturing/mitsubishi-heavy-export-finance|MHI 輸出金融]] · [[manufacturing/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturing/sony-group-finance-arm|Sony FG]] · [[manufacturing/toyota-financial-services|Toyota Financial Services]]
-- [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|みずほ FG]]
-- [[JapanFG/orix-corp|オリックス]] · [[JapanFG/tokyo-century|東京センチュリー]]
+- [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
+- [[JapanFG/orix-corp|ORIX]] · [[JapanFG/tokyo-century|東京Century]]
 - [[manufacturing/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
@@ -110,5 +110,5 @@ Large UK-bound rail deals such as Hitachi Rail UK's **Class 800 / 802** or the *
 
 ---
 
-> [!info] 校正ステータス
+> [!info] Proofreading status
 > confidence: **likely**. Composed from public information based on Hitachi IR / Integrated Report, Mitsubishi HC Capital IR, and EDINET. FY2024  segment-by-segment revenue is given as approximate figures. Details of individual-deal finance structuring for Hitachi Rail UK / Hitachi Energy have a limit on traceability from public information.

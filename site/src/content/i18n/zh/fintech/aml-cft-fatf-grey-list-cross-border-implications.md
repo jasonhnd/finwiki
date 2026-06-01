@@ -12,7 +12,7 @@ translated_at: 2026-05-31T05:31:05.759Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 下。可与日本金融监管和稳定币监管页面一并阅读。
 
 > [!info] TL;DR
 > FATF 灰名单 / 黑名单是 **居于底层的技术性过滤层**(AML/CFT 合规),决定 SC issuer / OCC charter / §501(d) 入名单资格的潜在前置闸门。灰名单国的 SC issuer 通过 US/EU MRA 事实上不可能。FATF 是 jurisdiction-list-monetary-protectionism 的 necessary but not sufficient 条件,加密美元化阵营的划线由此开始。

@@ -4,145 +4,144 @@ source_hash: 9b0af9045a65b9bd
 lang: en
 status: machine
 fidelity: ok
-title: "クレディセゾン (Credit Saison)"
+title: "Credit Saison"
 translated_at: 2026-05-31T15:29:03.916Z
 ---
 
-# クレディセゾン (Credit Saison)
+# Credit Saison
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jaccs|JACCS]] for peer and contrast context, and against [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
 
 ## TL;DR
 
-国内クレジットカード大手。1951 年 緑屋クレジット 設立 → 1980 西武クレジット → 1989 クレディセゾン 改称。**累計会員 4000 万人超** の業界トップ級発行枚数を背景に、**米 American Express 提携プレミアム**、**永久不滅ポイント** エコシステム、**セゾン投信** クロスセル、**インド消費者金融**（Kisetsu Saison Finance）海外展開の 4 軸で稼ぐノンバンク。旧西武セゾングループ解体後はみずほ FG 系列の独立カード会社として再定位 ([[mizuho-fg]] 系)。証券コード 東証 PRIME 8253。
+Credit Saison is a major Japanese credit-card and nonbank finance company. Its lineage runs from Midoriya Credit, established in 1951, to Seibu Credit in 1980 and the Credit Saison name in 1989. Backed by more than 40 million cumulative members, it earns through four main axes: premium American Express co-branded issuance, the Eikyufumetsu Point loyalty ecosystem, Saison Investment Management cross-sell, and overseas consumer finance led by Kisetsu Saison Finance in India. After the dissolution of the former Seibu Saison Group, Credit Saison repositioned as an independent card company with a Mizuho Financial Group banking relationship. It is listed on the TSE Prime Market under code 8253.
 
-## 1. 会社概要
+## 1. Company overview
 
-**正式名**：株式会社クレディセゾン
-**英名**：Credit Saison Co., Ltd.
-**証券コード**：東証 PRIME 8253
-**創業**：1951-05（緑屋クレジット として）
-**現商号**：1989 クレディセゾン に商号変更
-**本社**：東京都豊島区東池袋（旧 西武百貨店池袋本店 至近、サンシャインシティ周辺）
-**業態**：信販・クレジットカード・リース・消費者金融（持株会社機能を内包する事業会社型）
+**Legal name**: Credit Saison Co., Ltd.
+**Ticker**: TSE Prime 8253
+**Founded**: 1951-05 as Midoriya Credit
+**Current name**: Adopted in 1989
+**Head office**: Higashi-Ikebukuro, Toshima-ku, Tokyo, near the former Seibu Ikebukuro department-store base and the Sunshine City area
+**Business type**: Credit sales, credit cards, leasing, and consumer finance, operated through a business-company structure that also performs group-holding functions
 
-### 関連・親会社の系譜
+### Lineage and affiliation
 
-- 旧 **西武セゾングループ**（堤清二 主導）の中核金融会社の一つ → グループ解体（1990 年代末〜2002）後、独立経営化
-- **みずほ FG ([[mizuho-fg]]) 系列**: 旧 第一勧業銀行 → みずほ銀行 のメインバンク関係を継承（みずほ FG は主要株主級）
-- **PARCO / 西武百貨店系**: 旧グループ縁戚の商流提携が継続（カード共通基盤、商業施設テナント）
+- Former core finance company of the Seibu Saison Group led by Seiji Tsutsumi; after the group's late-1990s to 2002 breakup, Credit Saison moved into independent management.
+- Mizuho FG-related bank lineage: the main-bank relationship moved from the former Dai-Ichi Kangyo Bank to Mizuho Bank, with Mizuho FG remaining a major-shareholder-level relationship.
+- PARCO and Seibu department-store lineage: legacy retail-affiliation channels remain visible in card partnerships and commercial-facility merchant relationships.
 
-### 主要子会社・グループ会社（公開情報ベース）
+### Principal subsidiaries and group relationships based on public information
 
 ```
-クレディセゾン（事業会社・上場 8253）
-  ├── セゾンファンデックス ── 不動産担保ローン・カードローン・事業者ローン
-  ├── セゾン投信 ── 投資信託（2017 子会社化）
-  ├── アトリウム ── 不動産関連
-  ├── UC カード ── 2006 統合・カードブランド継承
-  ├── 海外:
-  │     ├── Kisetsu Saison Finance (India) Pvt. Ltd. ── インド消費者金融
-  │     ├── Saison International (シンガポール) ── ASEAN 統括
-  │     └── ベトナム・インドネシア等 出資先（持分法・少数出資中心）
-  └── 提携:
-        ├── American Express（カード発行ライセンス）
-        ├── Visa / Mastercard / JCB（国際ブランド）
-        └── PARCO・西武・東武・大丸松坂屋等（提携カード）
+Credit Saison (listed operating company, 8253)
+  |-- Saison Fundex: real-estate secured loans, card loans, business loans
+  |-- Saison Investment Management: investment trusts; consolidated in 2017
+  |-- Atrium: real-estate-related business
+  |-- UC Card: integrated in 2006; inherited card-brand base
+  |-- Overseas:
+  |     |-- Kisetsu Saison Finance (India) Pvt. Ltd.: Indian consumer finance
+  |     |-- Saison International: ASEAN coordination from Singapore
+  |     `-- Vietnam, Indonesia, and other investees, mainly equity-method or minority stakes
+  `-- Partnerships:
+        |-- American Express card-issuance license
+        |-- Visa / Mastercard / JCB international brands
+        `-- PARCO, Seibu, Tobu, Daimaru Matsuzakaya, and other co-branded-card partners
 ```
 
-## 2. 事業セグメント・マップ
+## 2. Business segment map
 
-| セグメント | 主要事業 | 特徴 |
+| Segment | Main business | Characteristics |
 |---|---|---|
-| ペイメント | セゾンカード・UC カード・American Express 提携カード | 業界トップ級発行枚数、累計 4000 万会員 |
-| プロセシング | カード加盟店業務・他社カード発行受託 | B2B2C プラットフォーム |
-| ファイナンス | セゾンファンデックス（不動産担保 / カードローン / 事業者ローン） | 高利回りノンバンク領域 |
-| リアルエステート | アトリウム 等 | 不動産流動化・ノンリコース |
-| エンタテインメント | 永久不滅ポイント運用・モール | ポイントエコシステム |
-| アセットマネジメント | セゾン投信 | 「セゾン投信 グローバルバランスファンド」等 長期積立投資ブランド |
-| 海外 | Kisetsu Saison Finance (India)・Saison International (シンガポール) 等 | アジア消費者金融・デジタルレンディング展開 |
+| Payments | Saison Card, UC Card, American Express co-branded cards | Leading-scale card issuance and more than 40 million cumulative members |
+| Processing | Merchant acquiring and outsourced issuance for third-party cards | B2B2C payment platform |
+| Finance | Saison Fundex real-estate secured loans, card loans, and business loans | Higher-yielding nonbank finance |
+| Real estate | Atrium and related businesses | Real-estate securitization and non-recourse finance |
+| Entertainment / loyalty | Eikyufumetsu Point operations and shopping mall functions | Proprietary loyalty ecosystem |
+| Asset management | Saison Investment Management | Long-term installment-investment brands such as Saison Global Balanced Fund |
+| Overseas | Kisetsu Saison Finance in India, Saison International in Singapore, and related holdings | Asian consumer finance and digital-lending expansion |
 
-### 主要カードブランド
+### Principal card brands
 
-- **セゾンカード**: コアブランド、提携カード多数
-- **アメリカン・エキスプレス・カード**（セゾン発行）: プロパー Amex とは別ライセンス
-- **UC カード**: 2006 統合継承（旧 ユーシーカード、みずほ・第一勧銀系列の歴史）
-- **PARCO カード / 西武・そごうカード / 東武カード**: 流通系提携
-- **MUJI カード / ローソン Ponta プラス**等: 流通・小売提携
+- **Saison Card**: core brand with many co-branded variants.
+- **American Express cards issued by Saison**: separate from proprietary American Express Japan issuance.
+- **UC Card**: inherited through the 2006 integration, with historical links to the Mizuho / Dai-Ichi Kangyo card lineage.
+- **PARCO Card / Seibu-Sogo Card / Tobu Card**: retail-affiliated co-brands.
+- **MUJI Card / Lawson Ponta Plus**: additional retail-affiliated co-brands.
 
-### 永久不滅ポイント エコシステム
+### Eikyufumetsu Point ecosystem
 
-**業界に先駆けて「失効しないポイント」を打ち出した独自プログラム**。長期保有モチベーション → カード利用継続 → 顧客 LTV 向上のループ。ポイントは投資信託購入や運用にも転用可能で、**ポイント × セゾン投信** クロスセルで資産運用導線を構築。
+Credit Saison's proprietary "non-expiring points" program created a retention loop: long holding incentives, continued card usage, and higher customer lifetime value. Points can also be used for investment-trust purchases and investment-related programs, creating an asset-management cross-sell path through Saison Investment Management.
 
-### 米 American Express 提携プレミアム
+### American Express premium partnership
 
-- 日本市場で **Amex カード発行ライセンス** を保有する希少なノンバンク
-- プロパー Amex（American Express Japan）とは別ライン
-- **セゾンプラチナ・ビジネス・アメリカン・エキスプレス・カード** 等、富裕層・経営者層向けにプレミアム訴求
+- Credit Saison is a rare Japanese nonbank issuer with an American Express card-issuance license.
+- The product line is separate from proprietary American Express Japan issuance.
+- Products such as the Saison Platinum Business American Express Card target affluent individuals and business owners.
 
-### 海外（インド）戦略
+### Overseas and India strategy
 
-- **Kisetsu Saison Finance (India) Pvt. Ltd.**: 2019 設立、現地ノンバンク（NBFC）ライセンス
-- インド国内のデジタルレンディング・B2B SaaS 連携で **fintech 起点の消費者金融** モデルを構築
-- ASEAN（ベトナム・インドネシア・シンガポール）への横展開も並行
-- **国内成熟市場 vs 新興国成長** の二軸戦略
+- **Kisetsu Saison Finance (India) Pvt. Ltd.**: established in 2019 with a local nonbank finance company license.
+- The India model combines digital lending and B2B SaaS partnerships to build fintech-originated consumer finance.
+- ASEAN expansion across Vietnam, Indonesia, Singapore, and related markets proceeds in parallel.
+- The strategic frame is mature domestic profitability plus emerging-market growth.
 
-### セゾン投信 によるアセット集積
+### Asset accumulation through Saison Investment Management
 
-- 2017 子会社化
-- 「**セゾン投信 グローバルバランスファンド**」「**セゾン資産形成の達人ファンド**」等の長期分散投資ブランド
-- 直販顧客基盤 + カード顧客導線 で **NISA / iDeCo 時代の積立投資** に強み
-- 2024 年新 NISA 制度開始以降、資産集積を加速
+- Consolidated in 2017.
+- Operates long-term diversified investment brands including Saison Global Balanced Fund and Saison Shisan Keisei no Tatsujin Fund.
+- Direct-sales customers plus card-customer channels create an advantage in NISA and iDeCo-era installment investing.
+- The 2024 new NISA regime is a tailwind for asset accumulation.
 
-### 競合と差別化
+### Competition and differentiation
 
-- 競合: [[mufg]] 三菱 UFJ ニコス・JCB・三井住友カード（[[smfg]]）・楽天カード・PayPay カード ([[paypay-fg]])
-- **流通系カードのリーディングプレイヤー** として、メガバンク系（JCB / NICOS / 三井住友）とも、テック系（楽天 / PayPay）とも異なるポジショニング
-- 西武・PARCO の商流レガシー + Amex プレミアム + 永久不滅ポイント の組み合わせは **独自**
+- Competitors include MUFG NICOS under [[mufg]], JCB, Sumitomo Mitsui Card under [[smfg]], Rakuten Card, and PayPay Card under [[paypay-fg]].
+- Credit Saison is positioned as a leading retail-affiliated card issuer, distinct from both megabank card issuers and technology / e-commerce issuers.
+- The combination of Seibu / PARCO retail lineage, American Express premium issuance, and the Eikyufumetsu Point program remains distinctive.
 
-## 4. 規制・政策
+## 4. Regulation and policy
 
-- **主管**: 金融庁（FSA） / 経済産業省（割賦販売法所管）
-- **業法**: 割賦販売法（クレジット業）・貸金業法（カードローン）・金融商品取引法（セゾン投信）
-- **規制動向**:
-  - 2018〜 改正割賦販売法 → 加盟店調査義務・セキュリティ強化
-  - 2022〜 改正資金決済法 → ステーブルコイン制度
-  - 2024〜 新 NISA 制度 → セゾン投信に追い風
-  - インド NBFC 規制（RBI 監督下）
-- **G-SIFI / TBTF 指定**: なし（ノンバンク・準大手）
+- **Supervisors**: Financial Services Agency and Ministry of Economy, Trade and Industry for Installment Sales Act matters.
+- **Core statutes**: Installment Sales Act for credit sales, Money Lending Business Act for card loans, and Financial Instruments and Exchange Act for Saison Investment Management.
+- **Regulatory themes**:
+  - 2018 onward: amended Installment Sales Act increased merchant-screening and security obligations.
+  - 2022 onward: amended Payment Services Act created the stablecoin regime.
+  - 2024 onward: new NISA regime supports Saison Investment Management.
+  - India NBFC regulation under Reserve Bank of India supervision.
+- **G-SIFI / TBTF designation**: none; Credit Saison is a nonbank mid-to-large player rather than a systemically designated bank.
 
-## 沿革
+## History
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| **1951-05** | **緑屋クレジット 設立**（旧 西武百貨店系の月賦販売金融） |
-| 1980 | **西武クレジット** 改称 |
-| **1989** | **クレディセゾン** 商号変更 |
-| 1990 年代末 | 西武セゾングループ解体プロセス開始 |
-| 2002 | 西武百貨店から独立的ポジションへ（旧西武セゾン解体） |
-| **2006** | **UC カード 統合**（旧 ユーシーカード、みずほ系カード会社を吸収・再編） |
-| 2008 | 米 American Express との提携深化（プレミアムカード拡充） |
-| **2017** | **セゾン投信 子会社化** ── アセットマネジメント本格参入 |
-| 2019 | **Kisetsu Saison Finance (India) 設立** ── インド NBFC 進出 |
-| 2024〜 | 海外（インド）事業拡大・中期経営計画推進 |
-| 2024 | 新 NISA 制度開始 → セゾン投信 資産集積加速 |
+| **1951-05** | Midoriya Credit established as installment-sales finance linked to the former Seibu department-store lineage |
+| 1980 | Renamed Seibu Credit |
+| **1989** | Renamed Credit Saison |
+| Late 1990s | Seibu Saison Group breakup process begins |
+| 2002 | Moves toward an independent position after the former Seibu Saison breakup |
+| **2006** | UC Card integrated, absorbing and reorganizing the former UC Card / Mizuho-lineage card-company base |
+| 2008 | American Express partnership deepened through premium-card expansion |
+| **2017** | Saison Investment Management consolidated, marking full-scale asset-management entry |
+| 2019 | Kisetsu Saison Finance (India) established, entering the Indian NBFC market |
+| 2024 onward | Overseas, especially India, expansion and medium-term management-plan execution |
+| 2024 | New NISA regime begins, accelerating Saison Investment Management asset accumulation |
 
 ## Related
 
-- [[mizuho-fg]]（主要株主・メインバンク系列）
-- [[mufg]] · [[smfg]]（競合カード会社の親会社）
-- [[paypay-fg]]（テック系カード競合）
-- [[jcb]]（国際ブランド競合・パートナー）
+- [[mizuho-fg]]: major-shareholder and main-bank lineage
+- [[mufg]] and [[smfg]]: parents of competing card issuers
+- [[paypay-fg]]: technology-affiliated card competitor
+- [[jcb]]: international-brand competitor and partner
 
 ## Sources
 
-- **Wikipedia: 株式会社クレディセゾン**（公開情報、2026-05-19 抽出）
-- **クレディセゾン公式 IR / 会社沿革**（公開資料ベース）
-- **業界レポート**（カード発行枚数・業界順位、公開統計）
+- Wikipedia: Credit Saison, public information extracted 2026-05-19.
+- Credit Saison official IR and corporate history, based on public materials.
+- Industry reports on card issuance and industry ranking, based on public statistics.
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.0 公開情報ベース、2026-05-19 抽出）。主要数値（累計会員 4000 万、設立年、商号変更年、子会社化年）は Wikipedia + 公式沿革経由。最新の有価証券報告書（2025-03 期）の財務数値は未取り込み、次回更新時に IR から数値補完予定。海外（インド）事業の最新収益数値も次回課題。
+> [!info] Verification status
+> confidence: **likely**. This v1.0 entry is based on public information extracted on 2026-05-19. Principal figures, including 40 million cumulative members, establishment year, name-change year, and consolidation year, are derived from Wikipedia and official corporate-history materials. Financial figures from the latest annual securities report for the fiscal year ended 2025-03 and the latest revenue figures for overseas, especially India, remain follow-up items for the next update.

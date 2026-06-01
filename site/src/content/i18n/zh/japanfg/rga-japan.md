@@ -38,7 +38,7 @@ translated_at: 2026-06-01T00:41:50.466Z
 
 ## 4. 为什么本页重要
 
-- 日本生保再保险市场主要玩家锚点 — 为原本偏向 P&C 再保险的 JapanFG 再保险地图增加“生保专营”轴
+- 日本生保再保险市场核心参与者锚点 — 为原本偏向 P&C 再保险的 JapanFG 再保险地图增加“生保专营”轴
 - 与 [[nippon-life]] / [[dai-ichi-life]] / [[JapanFG/aflac-japan]] 等生命保险公司连接的 system link
 - 与 [[JapanFG/gen-re-japan]] / [[JapanFG/swiss-re-japan]] 一起构成欧美系外资 reinsurer 地图
 

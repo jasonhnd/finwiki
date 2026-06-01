@@ -136,7 +136,7 @@ Subjective evaluation is isolated in `.opinions/JapanFG/local-govt-finance.md`.
 
 ## 7. Open Questions
 
-- What is the precise loan balance as of 2024 ? Official IR needs confirmation.
+- What is the precise loan balance as of fiscal 2024? Official IR confirmation is still required.
 - What are the scale and targets of recovery lending for the Noto Peninsula Earthquake (2024-01)?
 - What are the lending shares for major metropolitan local governments versus private megabanks [[mufg]] [[smfg]] [[mizuho-fg]]?
 - What is the long-term strategy for aging local infrastructure, over a 10-20  year funding-supply horizon?

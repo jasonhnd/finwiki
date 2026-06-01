@@ -16,19 +16,19 @@ translated_at: 2026-05-30T18:10:53.980Z
 
 本页面用于 [[JapanFG/zenshin-kumi]]、[[JapanFG/rokin-renraku]] 及地方银行比较背后的合作金融层。
 
-## Structure Map
+## ???
 
 | Layer | Role | FinWiki route |
 |---|---|---|
-| Shinkin banks | Cooperative regional financial institutions serving members and local SMEs. | [[banking/shinkin-bank-registry-japan]] + [[JapanFG/shinkin-central]] |
-| Credit cooperatives | Member-based cooperative credit institutions, often smaller and more local / occupational. | [[banking/credit-cooperative-registry-japan]] + [[JapanFG/zenshin-kumi]] |
-| Labor banks | Worker / labor-union-linked cooperative finance. | [[banking/rokin-bank-registry-japan]] + [[JapanFG/rokin-renraku]] |
-| JA Bank / agricultural cooperative finance | Local JA credit businesses, prefectural JA Shinnoren, and Norinchukin Bank form the agricultural cooperative banking system. | [[banking/ja-bank-system-japan]] + [[JapanFG/norinchukin]] |
-| JF Marine Bank / fisheries cooperative finance | Credit-business JF, JF Shingyoren, and Norinchukin Bank form the fisheries cooperative banking system. | [[banking/jf-marine-bank-system-japan]] + [[JapanFG/norinchukin]] |
-| Central institutions | Liquidity, monitoring, support, and system functions for member institutions. | [[JapanFG/shinkin-central]], [[JapanFG/zenshin-kumi]], [[JapanFG/rokin-renraku]], [[JapanFG/norinchukin]] |
-| Regional banks | Stock-company banks rather than cooperative institutions; useful comparison. | [[banking/regional-bank-consolidation-pattern]] |
+| 信用金库 | 服务会员和本地中小企业的协同组织区域金融机构。 | [[banking/shinkin-bank-registry-japan]] + [[JapanFG/shinkin-central]] |
+| ???? | ???????????????????????????????????? | [[banking/credit-cooperative-registry-japan]] + [[JapanFG/zenshin-kumi]] |
+| ???? | ??????????????????? | [[banking/rokin-bank-registry-japan]] + [[JapanFG/rokin-renraku]] |
+| JA Bank / ?????? | ?? JA ???????????????????????????????? | [[banking/ja-bank-system-japan]] + [[JapanFG/norinchukin]] |
+| JF Marine Bank / ?????? | ??????? JF?JF ??????????????????????? | [[banking/jf-marine-bank-system-japan]] + [[JapanFG/norinchukin]] |
+| ???? | ?????????????????????? | [[JapanFG/shinkin-central]], [[JapanFG/zenshin-kumi]], [[JapanFG/rokin-renraku]], [[JapanFG/norinchukin]] |
+| ???? | ??????????????????????????? | [[banking/regional-bank-consolidation-pattern]] |
 
-## Why It Matters
+## ?????
 
 合作金融机构不只是小型银行。其治理与业务逻辑各不相同:
 
@@ -38,7 +38,7 @@ translated_at: 2026-05-30T18:10:53.980Z
 - 市场约束可能弱于上市银行约束,因此治理与信息披露是监督重点;
 - 中央机构与行业团体对支持、监测、系统及盈余资金管理至关重要。
 
-## JapanFG Relevance
+## JapanFG ??
 
 - [[JapanFG/zenshin-kumi]] 是信用合作社的中央机构路由。
 - [[JapanFG/rokin-renraku]] 是劳动金库路由。
@@ -48,13 +48,13 @@ translated_at: 2026-05-30T18:10:53.980Z
 - [[JapanFG/akita-bank]]、[[JapanFG/iwate-bank]]、[[JapanFG/joyo-bank]] 及其他地方银行应谨慎比较:它们是本地金融同业,但不是合作金融机构。
 - [[JapanFG/legal-financial-licenses/INDEX]] 应将其视为独立的银行 / 合作金融通道,而非金融科技牌照的捷径。
 
-## Boundary Cases
+## ????
 
 - 合作银行体系与 BaaS 不同。嵌入式银行业务请使用 [[banking/baas-japan-landscape]]。
 - 合作金融并非自动意味着更低风险;本地借款人的集中度与治理约束可能抬高风险。
 - 并非每家本地金融机构都是合作金融机构。地方银行是具有本地布局的普通银行。
 
-## Related
+## ??
 
 - [[banking/INDEX|banking INDEX]]
 - [[banking/regional-bank-consolidation-pattern]]
@@ -70,7 +70,7 @@ translated_at: 2026-05-30T18:10:53.980Z
 - [[JapanFG/legal-financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## ??
 
 - FSA: 中小・地域金融機関向けの総合的な監督指針, V 協同組織金融機関.
 - National Association of Shinkin Banks: 信用金庫とは / 信用金庫の制度.

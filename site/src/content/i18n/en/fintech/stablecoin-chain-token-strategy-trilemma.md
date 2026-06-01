@@ -30,9 +30,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 **Key insights**:
 
-1. **3 All states are stable equilibrium**, and there is no “clearly better” strategy — the choice depends on the status of the parent company (public vs. private vs. regulated native), the narrative needs of the capital markets, and the opening and closing of the regulatory window.
-2**Temporal Irreversibility**: Coinbase's public company status constrained Base's ability to issue in the early stages;2025-09 After the SEC lawsuit was dropped and Hester Peirce took office, that window opened.
-3**Game-theoretical implications**: Of N's competitors 1 社If suddenly changes strategy (e.g., Base changes from fluctuation to issuance), the remaining states are forced to recalculate (can Tempo maintain non-issue? Should Arc accelerate vesting?).
+1. **All three states can be stable equilibria**; there is no universally superior strategy. The right choice depends on the parent company status, capital-market narrative needs, and whether the regulatory window is open or closed.
+2. **Temporal irreversibility**: Coinbase public-company status constrained Base token issuance in the early stage; after the SEC lawsuit was dropped and Hester Peirce took office in 2025-09, that window reopened.
+3. **Game-theoretical implication**: if one competitor among N players suddenly changes strategy, such as Base moving from non-issuance to issuance, every other player must recalculate whether its current state remains optimal.
 
 **Trigger conditions**:
 

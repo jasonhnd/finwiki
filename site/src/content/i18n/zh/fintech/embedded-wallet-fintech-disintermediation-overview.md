@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.684Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|金融科技索引]]。可与 [[fintech/japan-financial-regulation|日本金融监管]] 和 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币监管格局]] 配套阅读。
 
 > [!info] TL;DR
 > 嵌入式钱包（Embedded wallet）是 2025-2026  金融科技中承载逆向脱媒的重要载体——**Privy（Stripe 于 2025.06  以约 $1.1B 收购）/ Coinbase CDP / Magic / Web3Auth** 四强将金融科技既有客户基础转化为加密货币入口，使用户在**无感知**的状态下实现持有/转账/签名。协议基础为 ERC-4337/7702/7715 三件套。
@@ -38,7 +38,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 分发渠道 | Stripe 5M+ 商户 | Coinbase 1 億万以上用户 | 独立·中立 | 独立·中立 |
 
 **"用户无感"UX 的五要素**：
-- 入门：Google/Apple/Email 一键 · TSS 密钥在后端 · 无助记词
+- 接入 / 开户：Google、Apple 或 Email 一键登录；TSS 密钥在后端管理；无需助记词
 - 签名：session key（7702/7715）1  次授权 · session 内无弹窗
 - Gas：Paymaster 代付（4337）· 支持 USDC 支付或完全赞助
 - 恢复：多份 share（设备 + 云端 + 服务器）分散

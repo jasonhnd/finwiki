@@ -11,19 +11,19 @@ translated_at: 2026-06-01T04:15:40.119Z
 
 ## TL;DR
 
-- EIP-4844（**proto-danksharding** · 2024-03  Dencun 上线）引入 **blob** —— rollup 专用临时存储 · 价格独立于 calldata · 18 天后链上仅保留 commitment
-- **Blob mechanic**：每个 block target=3 / max=6 blob（Dencun 原始设定）· 每个 blob 128 KiB（131072 bytes）· 合计 max 约 768 KiB/block（Dencun）
-- **Pectra EIP-7691**（2025-Q2）将 target → 6 / max → 9 · L2 calldata 成本 -50%（参见 [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]]）
-- **Fusaka PeerDAS**（EIP-7594 · 2026-Q4 计划）进一步带来 10x 容量 → 理论约 60 GB/day blob throughput
-- **Blob fee market**：EIP-1559  风格 · 独立 base fee · 超过 target 时 fee 指数增加 · 低于 target 时 fee 衰减 · 与 gas fee market 不耦合
-- **Dencun 后的 L2 成本削减**：Arbitrum / Optimism / Base 等 rollup 用户 gas 约下降 100x · sequencer revenue 因 volume 上升而 net 正向
-- **Blob 市场参与者**：rollup sequencer（blob 提交者）· Ethereum builder / proposer（blob 打包者）· DA 用户（数据消费者）
-- **与 alt-DA 的竞争**（参见 [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]）：blob 将 alt-DA 价格优势从 50x 缩小至 3-5x · Pectra 后为 1.5-2x · Fusaka 后可能消失
-- 路线：[[systems/INDEX|systems index]] · [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691]] / [[systems/data-availability-celestia-eigenda-blob-comparison|DA 対照]] 配套阅读
+- EIP-4844?**proto-danksharding**?2024-03 Dencun ????? **blob**?rollup ?????????????? calldata?? 18 ??????? commitment?
+- **Blob ??**??? block target=3 / max=6 blob?Dencun ???????? blob 128 KiB?131072 bytes??Dencun ??? max ? 768 KiB/block?
+- **Pectra EIP-7691**?2025-Q2?? target ??? 6?max ??? 9?L2 calldata ????? 50%??? [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691?blob ??? L2 ????]]?
+- **Fusaka PeerDAS**?EIP-7594??? 2026-Q4?????? 10x ????? blob throughput ? 60 GB/day?
+- **Blob fee market**??? EIP-1559 ????? base fee??? target ? fee ??????? target ? fee ??????? gas fee market ???
+- **Dencun ?? L2 ????**?Arbitrum / Optimism / Base ? rollup ??? gas ????? 100x?sequencer revenue ? volume ???????
+- **Blob ?????**?rollup sequencer?blob ?????Ethereum builder / proposer?blob ????? DA ??????????
+- **? alt-DA ???**??? [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer ????]]??blob ? alt-DA ?????? 50x ??? 3-5x?Pectra ?????? 1.5-2x?Fusaka ??????
+- ???[[systems/INDEX|????]] ? [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691]] / [[systems/data-availability-celestia-eigenda-blob-comparison|DA ??]] ????
 
 ## Wiki 路线
 
-本条目位于 [[systems/INDEX|systems index]] 下。请对照 [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] 阅读 2025-Q2  的 blob target 翻倍，该升级直接扩展 EIP-4844, ；并对照 [[systems/pectra-upgrade-overview|Pectra upgrade overview]] 阅读更广泛的 Ethereum upgrade 背景。关于使 blob economics 具有结构性重要性的 L1/L2  战略框架，请参见 [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]。关于 blob market 重塑的数据可用性层竞争，请参见 [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]。关于消费 blob 的 rollup 生态系统，请参见 [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]] 和 [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]。关于支撑 blob processing 背后 validator economy 的机构 staking 通道，请参见 [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · institutional staking]] 和 [[systems/bft-validator-economy-overview|BFT validator 経済学概観]]。关于由 restaking 保护的替代 DA，请参见 [[systems/eigenlayer-overview|EigenLayer overview]] 和 [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]]。
+????? [[systems/INDEX|????]] ????? [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691?blob ??? L2 ????]] ?? 2025-Q2 ? blob target ?????????? EIP-4844????? [[systems/pectra-upgrade-overview|Pectra ????]] ?????? Ethereum upgrade ???
 
 ### Blob 数据结构
 
@@ -115,7 +115,7 @@ L2 sequencer 向 L1  提交 batch 的典型流程：
 **实证数据**（2024-Q4  峰值期）：
 - Blob base fee spike 至 200-500 gwei · 单个 blob $5-15
 
-- L2 sequencer 单个 batch 成本从 $5-30  上升到 $50-200 
+- L2 sequencer 单个 batch 成本从 $5-30  上升到 $50-200
 - 一些 sequencer 在 blob 太贵时临时选择退回 calldata · 或降低 batch 频率（用户 finality 时间增加）
 - 用户 gas 在峰值期可能上升 5-10x · 但仍远低于 Dencun 前
 
@@ -250,7 +250,7 @@ EIP-7594（PeerDAS · Peer Data Availability Sampling）：
 ### Stripe / Coinbase Smart Wallet 等机构 + 消费者产品的受益
 
 - **Stripe USDC on Base**：Pectra 后 single USDC transfer 约 $0.0005 · 对 Stripe 而言经济性显著改善 · Stripe 推出 Base-only merchant settlement
-- **Coinbase Smart Wallet**：Account Abstraction（参见 [[systems/erc-4337-overview|ERC-4337]]）+ Base 低 gas · Coinbase 实现 sub-cent UX · 用户体感接近 Web2 
+- **Coinbase Smart Wallet**：Account Abstraction（参见 [[systems/erc-4337-overview|ERC-4337]]）+ Base 低 gas · Coinbase 实现 sub-cent UX · 用户体感接近 Web2
 - **PayPal PYUSD on Base**：同样受益 · 2025-2026  PYUSD on Base 流通量增长约 3x
 - **RWA tokenization**：Polygon zkEVM 上的 Franklin Templeton FOBXX pilot 因 Pectra blob 降低 settlement cost · 但机构仍偏好 L1 （参见 [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 対照]]）
 

@@ -31,6 +31,21 @@
 
 ## 2026-06-01
 
+### 三語語彙品質監査・専門語彙 polish / Trilingual lexical-quality audit and specialist wording polish / 三语词汇质量审计与专业语域 polish
+
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-01 16:31 JST。
+- **背景**: zh/en 1380 件の i18n 全量完了後、ユーザーから「日本語 / 中国語 / 英語の用語を大学本科知識水準を超える品質へ確認・修復する」指示があった。翻訳 worker は Sonnet ではなく GPT/Codex を使用し、完了済み worker thread は順次 archive した。
+- **範囲**: 公開 wiki 本文、`site/src/content/i18n/{zh,en}/`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.01-7.md`、`wiki-link-improvement-plan.md`、AI discovery surfaces (`llms.txt`, `llms-full.txt`, `ai-index.json`, `sitemap.xml`, `api/entries/*`)。
+- **実行手順**: 10 並列 GPT/Codex worker で三語語彙 audit を行い、低レジスター表現、曖昧な英語表現、機械翻訳由来の不自然表現、mojibake 疑いを抽出した。続けて 10 並列 repair worker、residual repair、final lexical polish を実行し、金融・規制・市場インフラ・決済・暗号資産領域の専門語彙へ修正した。
+- **追加修正**: `payments/japan-transit-prepaid-suica-pasmo-icoca-economics.md` の中国語 i18n に残った mojibake arrow を修正した。最終 scan で検出された `Placeholder VC` は投資家名として維持し、東洋経済新報社「すごいベンチャー100」は公式媒体名として維持した。低階調の英語 `things` 系表現は `institutional capabilities`, `functions`, `policy moves`, `supervisory positions` などへ置換した。
+- **link audit 対応**: release gate 実行時、未追跡 `.cache/` 内の worker 報告 Markdown が wiki entry として誤検出されたため cache を削除した。併せて `systems/cross-chain-five-pole-comparison-matrix.md` の body wikilink を補強し、route / peer / system link 条件を満たした。
+- **検証結果**: `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は entries_checked=1411 / issues=0。`python tools/release.py --write` により discovery / footer / counts を再同期し、`python tools/release.py --check --strict` は PASS。i18n count は zh=1380 / en=1380。bad Unicode scan は bad_files=0、mojibake pattern scan は 0 hits、low-register scan の残存は固有名詞のみ。`git diff --check` は whitespace error なし。
+- **既知の注意点**: Astro build の duplicate id warning は既存警告として残る。English i18n には正式社名・法令名・登録簿名・出典名として日本語文字列を意図的に保持する箇所がある。
+- **次の作業**: push 後に GitHub Pages deployment と `https://finwiki.zksc.io/` の反映を確認する。次回候補は domain 別 glossary 固定化、訳語表の自動検査、duplicate id warning の整理。
+- **EN**: After completing zh/en 1380 i18n, the user asked for Japanese / Chinese / English wording to be checked and repaired above ordinary undergraduate register. Ran 10 parallel GPT/Codex lexical-audit workers, then 10 parallel repair workers plus residual repair and final polish. Repaired machine-translation residue, low-register English wording, mojibake-like artifacts, and one weakened body-wikilink route. Removed untracked `.cache/` reports that polluted the release link audit. Validation passed: link audit 1411/0, release strict check clean, zh=1380 / en=1380, bad Unicode 0, mojibake pattern 0, low-register residuals proper nouns only, and no whitespace errors.
+- **中文**: zh/en 1380 全量 i18n 完成后，用户要求把日文 / 中文 / 英文用词检查并修到超过普通大学本科层级。已用 10 路并行 GPT/Codex 做词汇审计，再用 10 路 repair worker 加 residual repair / final polish 统一专业语域；修复机翻残留、低阶英文表达、疑似乱码和一个正文 wikilink 不足问题。删除未跟踪 `.cache/` 报告，避免临时 Markdown 污染 link audit。验证通过：link audit 1411/0、release strict check 通过、zh=1380 / en=1380、bad Unicode 0、mojibake pattern 0、低阶语域残留仅为专名、无 whitespace error。
+
 ### GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页
 
 #### 日本語記録 / English / 中文

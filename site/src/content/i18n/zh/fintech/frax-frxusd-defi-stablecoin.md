@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.704Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|金融科技索引]]。可与 [[fintech/japan-financial-regulation|日本金融监管]] 和 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币监管格局]] 配套阅读。
 
 > [!info] TL;DR
 > Frax Finance v3  升级（2024-Q2）以 frxUSD 替代旧版 FRAX，采用"**100% UST 准备金 + DAO 治理**"双轨路线——前者满足 §501  合规准备金要求，后者维持 DeFi 原生的去中心化治理。frxUSD 市值 **$1.2B**（2026-Q1），远小于 Sky USDS，但质押版 sfrxUSD 的 **7-9% APY** 在 DeFi 原生稳定币中位居首位。**2026-Q2  frxUSD 与 BlackRock BUIDL 约 $200M 完成对接**，成为首个直接持有 BUIDL 的 DeFi 协议 → §501  时代"半合规化"的代表性方案。

@@ -3,50 +3,40 @@ source: japanfg/greif-trust
 source_hash: de33f641697b836d
 lang: zh
 status: machine
-fidelity: needs_review
-title: "Greif Trust / 繧ｰ繝ｩ繧､繝穂ｿ｡險・"
+fidelity: ok
+title: "Greif Trust / グライフ信託"
 translated_at: 2026-05-31T15:29:03.931Z
 ---
-﻿
-# Greif Trust / 繧ｰ繝ｩ繧､繝穂ｿ｡險・
-Wiki route: 笶ｰa笶ｱ -> 笶ｰb笶ｱ -> 笶ｰc笶ｱ
+# Greif Trust / グライフ信託
 
-## Overview
+Wiki 路由：[[JapanFG/INDEX]] -> [[JapanFG/trust-companies-japan-index]] -> [[JapanFG/greif-trust]]
 
-Greif Trust is a Chugoku Finance Bureau trust-company row with public company-profile material and multiple regional branch references. In FinWiki it is a regional trust-company route, useful beside 笶ｰd笶ｱ and 笶ｰe笶ｱ.
+## 概览
 
-## Entity Boundary
+Greif Trust 是中国财务局辖区内的信托公司条目，公开公司资料显示其具有多个地区据点。在 FinWiki 中，本页作为区域型信托公司路径，可与 [[JapanFG/sumire-regional-trust]] 和 [[JapanFG/miyoshi-smile-trust]] 对照阅读。
 
-This page covers 譬ｪ蠑丈ｼ夂､ｾ繧ｰ繝ｩ繧､繝穂ｿ｡險・ Public materials also mention financial-instruments and real-estate permissions; those should be mapped only where supported by source-specific license text.
+## 实体边界
 
-## Business Role Map
+本页覆盖 株式会社グライフ信託。公开资料也提到金融工具和不动产业务相关许可；这些内容应仅在具体来源支持的许可文本范围内映射，不能扩展为未经来源支持的一般业务主张。
 
-| Route | Reading |
+## 业务角色图
+
+| 路径 | 读取方式 |
 |---|---|
-| Regional trust company | Headquarters route outside the Tokyo / Kinki concentration. |
-| Multi-branch footprint | Public company profile lists several domestic office locations. |
-| Adjacent licenses | Treat securities / real-estate permissions as license-bound facts, not broad business claims. |
-| Registry control | Row in 笶ｰf笶ｱ. |
-
-## Public Context
-
-Greif Trust helps FinWiki show that the trust-company registry includes regional and multi-office operators, not only bank groups, housing groups, or professional-service boutiques.
-
-## Research Checklist
-
-笶ｰbc笶ｱ. Confirm current license descriptions from official profile and FSA registry before adding claims.
-笶ｰbd笶ｱ. Link any securities-registration context to 笶ｰg笶ｱ.
-笶ｰbe笶ｱ. Compare with other regional trust-company pages as source depth improves.
+| 区域信托公司 | 东京 / 近畿集中区以外的总部型信托公司路径。 |
+| 多据点布局 | 公开公司概要列示多个国内营业据点。 |
+| 邻接许可 | 证券 / 不动产许可应作为许可边界事实处理，而非宽泛业务声称。 |
+| 登记控制 | 对应 [[JapanFG/trust-companies-japan-index]] 中的登记行。 |
 
 ## Related
 
-- 笶ｰh笶ｱ
-- 笶ｰi笶ｱ
-- 笶ｰj笶ｱ
-- 笶ｰba笶ｱ
-- 笶ｰbb笶ｱ
+- [[JapanFG/trust-companies-japan-index]]
+- [[JapanFG/sumire-regional-trust]]
+- [[JapanFG/miyoshi-smile-trust]]
+- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku笶ｰbf笶ｱ.xlsx
+- FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
 - Greif Trust company profile: https://www.greif-trust.com/company/

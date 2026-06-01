@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.331Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] for the asset-management adjacent within the same parent, and [[JapanFG/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (the Mitsubishi-side listed leasing platform), [[JapanFG/smfl|SMFL]] (Sumitomo Corporation + SMFG), [[JapanFG/tokyo-century|東京センチュリー]] (Itochu line), [[JapanFG/ja-mitsui-leasing|JA三井リース]] (Mitsui & Co. + JA) — see [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]] for asset-management adjacency within the same parent, and [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki, see [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (the Mitsubishi-side listed leasing platform), [[JapanFG/smfl|SMFL]] (Sumitomo Corporation + SMFG), [[JapanFG/tokyo-century|Tokyo Century]] (Itochu line), and [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] (Mitsui & Co. + JA). See [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. Company Overview
 
@@ -26,10 +26,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | Layer | Entity | Role |
 |---|---|---|
 | **External-facing bank** | [[JapanFG/mufg|MUFG]] group ([[JapanFG/mufg-bank|MUFG Bank]] / [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]]) | Commercial banking, trust banking, and external financial services |
-| **External-facing leasing / asset** | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] | Leasing and asset finance (listed; Mitsubishi Corporation + MUFG + former Hitachi Capital) |
+| **External-facing leasing / asset** | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Leasing and asset finance (listed; Mitsubishi Corporation + MUFG + former Hitachi Capital) |
 | **Internal / group finance** | **MCFS (this page)** | Internal banking / CMS / internal factoring for Mitsubishi Corporation group companies |
 
-This three-layer structure is a template for trading-company finance, and similar structures exist at Mitsui & Co. ([[JapanFG/mitsui-bussan-financial-services|三井物産FS]]), Sumitomo Corporation ([[JapanFG/sumitomo-corp-financial-management|住友商事FM]]), and Marubeni ([[JapanFG/marubeni-financial-services|丸紅FS]]).
+This three-layer structure is a template for trading-company finance, and similar structures exist at Mitsui & Co. ([[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]]), Sumitomo Corporation ([[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]]), and Marubeni ([[JapanFG/marubeni-financial-services|Marubeni Financial Services]]).
 
 ## 2. Business Segment Map
 
@@ -55,13 +55,13 @@ By making this function an independent subsidiary, the group secures specializat
 
 | Trading company | Internal finance subsidiary | External-facing leasing |
 |---|---|---|
-| Mitsubishi Corporation | **MCFS (this page)** | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] |
-| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] | [[JapanFG/ja-mitsui-leasing|JA三井リース]] |
-| Sumitomo Corporation | [[JapanFG/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] | [[JapanFG/smfl|SMFL]] (SMFG JV) |
-| Itochu | [[JapanFG/itochu-finance|伊藤忠ファイナンス]] | [[JapanFG/tokyo-century|東京センチュリー]] (Mizuho JV) |
-| Marubeni | [[JapanFG/marubeni-financial-services|丸紅フィナンス]] | [[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder) / [[JapanFG/fuyo-lease|芙蓉総合リース]] (Fuyo line) |
-| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | Intra-group captive |
-| Sojitz | [[JapanFG/sojitz-finance|双日フィナンス]] | No dedicated specialist entity (outsourced) |
+| Mitsubishi Corporation | **MCFS (this page)** | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] |
+| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] | [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] |
+| Sumitomo Corporation | [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] | [[JapanFG/smfl|SMFL]] (SMFG JV) |
+| Itochu | [[JapanFG/itochu-finance|Itochu Finance]] | [[JapanFG/tokyo-century|Tokyo Century]] (Mizuho JV) |
+| Marubeni | [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] | [[JapanFG/mizuho-lease|Mizuho Leasing]] (strategic shareholder) / [[JapanFG/fuyo-lease|Fuyo General Lease]] (Fuyo line) |
+| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] | Intra-group captive |
+| Sojitz | [[JapanFG/sojitz-finance|Sojitz Finance]] | No dedicated specialist entity (outsourced) |
 
 ## 4. Regulation / Policy
 
@@ -70,24 +70,24 @@ By making this function an independent subsidiary, the group secures specializat
   - **Transfer-pricing taxation** for intra-group financial transactions (pricing for transactions with overseas subsidiaries)
   - Scope of **elimination of internal transactions** in consolidated accounting
 - **Recent policy issues**:
-  - 2024 onward [[JapanFG/boj-monetary-policy|日銀政策金利正常化]] → reassessment of intra-group interest allocation / transfer pricing
+  - 2024 onward [[JapanFG/boj-monetary-policy|BOJ policy-rate normalization]] -> reassessment of intra-group interest allocation / transfer pricing
   - 2025 onward strengthening of AML/CFT for overseas remittances / cross-border fund movement
 
 ## Related
 
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (external-facing leasing)
-- [[JapanFG/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] (group AM)
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (external-facing leasing)
+- [[JapanFG/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]] (group AM)
 - [[JapanFG/mufg|MUFG]] (main transaction banking group)
 - [[JapanFG/mufg-bank|MUFG Bank]]
 - [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]]
-- [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (peer)
-- [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (peer)
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (peer)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
+- [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] (peer)
+- [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] (peer)
+- [[JapanFG/itochu-finance|Itochu Finance]] (peer)
+- [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] (peer)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 

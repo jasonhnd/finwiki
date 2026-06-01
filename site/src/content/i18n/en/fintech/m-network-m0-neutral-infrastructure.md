@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.171Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japanese financial regulation for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal framework: three-layer structure for JPYC, USDC, and Project Pax]] for the broader system boundary.
 
 > [!info] TL;DR
 > M^0 (M Network) does not issue a stablecoin under its own brand. Instead, it provides **shared, standardized reserve / minting / governance infrastructure** to multiple issuers. The analogy to the "Swiss bank model" is that it avoids brand competition and offers only a neutral vault. Investors include BlackRock, Goldman, Bain Capital, and Pantera, with **$40M+** raised in 2025 H2 . M^0  is a core example of the **layered logic** of the post-§501  stablecoin industry: the brand layer (USDC / USDB / PYUSD) keeps competing, while the infrastructure layer (M^0  / BUIDL / Bridge) becomes neutralized and accelerates the formation of a **long-tail stablecoin** market.
@@ -23,13 +23,13 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Chains: Ethereum + Base + Arbitrum + Solana (planned) ^[extracted]
 - Reserve-asset connectivity: BUIDL + UST + cash ^[extracted]
 - Smart-contract audits: OpenZeppelin + Trail of Bits + Certora ^[extracted]
-- Issuer roster (2026-05) ~8 社 (a European 2  bank + a Japanese 1  fintech + a US 3  RWA protocol; partly undisclosed) ^[extracted]
+- Issuer roster (2026-05) approximately eight firms (two European banks + one Japanese fintech + three US RWA protocols; partly undisclosed) ^[extracted]
 - Stablecoins under management: about **$300M** (2026-05 , growing rapidly) ^[extracted]
 - Co-founders: Greg Di Prisco (ex-MakerDAO core) + Luca Prosperi ^[extracted]
 
 ## Mechanism / How it works
 
-The traditional model is that the issuer handles reserve management, smart contracts, and its own distribution at the same time (Circle / Paxos / Tether are all vertically integrated). **M^0 's layered neutral model**: (1) **Infrastructure Layer** = M^0  provides unified connectivity to [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / UST / cash reserves, unified smart contracts (EVM-compatible), and DAO-based issuer qualification review; (2) **Brand Layer** = multiple issuers share M^0  infrastructure while keeping their own brands (Bank X's SC / Fintech Y's SC / cross-border payments company Z's SC). Institutions, fintechs, and banks that want to issue stablecoins **do not need to reinvent the wheel**. They can plug directly into M^0 's compliance template, reserve connectivity, smart-contract audits, and DAO governance, and launch a compliant stablecoin within weeks. Fees are charged in bps relative to issuance size, similar to BUIDL's 20bps management fee, without being dragged into brand competition. It shares the same strategic position as [[fintech/wall-street-crypto-network-neutrality|ウォール街暗号ネットワーク中立]].
+The traditional model is that the issuer handles reserve management, smart contracts, and its own distribution at the same time (Circle / Paxos / Tether are all vertically integrated). **M^0 's layered neutral model**: (1) **Infrastructure Layer** = M^0  provides unified connectivity to [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / UST / cash reserves, unified smart contracts (EVM-compatible), and DAO-based issuer qualification review; (2) **Brand Layer** = multiple issuers share M^0  infrastructure while keeping their own brands (Bank X's SC / Fintech Y's SC / cross-border payments company Z's SC). Institutions, fintechs, and banks that want to issue stablecoins **do not need to build the full infrastructure stack independently**. They can plug directly into M^0 's compliance template, reserve connectivity, smart-contract audits, and DAO governance, and launch a compliant stablecoin within weeks. Fees are charged in bps relative to issuance size, similar to BUIDL's 20bps management fee, without being dragged into brand competition. It shares the same strategic position as [[fintech/wall-street-crypto-network-neutrality|Wall Street crypto-network neutrality]].
 
 ## Origin & evolution
 
@@ -39,10 +39,10 @@ M^0  v1  mainnet went live in 2024-10 . In 2025 H2  it completed a **$40M+** rai
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 採用マトリクス]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
-- [[fintech/three-circles-stablecoin-mra-framework|ステーブルコイン三円 MRA]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer adoption matrix]]
+- [[fintech/stablecoin-revenue-split-economics|stablecoin interest-distribution economics]]
+- [[fintech/three-circles-stablecoin-mra-framework|stablecoin three-circle MRA]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto-culture bifurcation]]
 <!-- /wiki-links:managed -->
 
 ## Sources

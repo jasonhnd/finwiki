@@ -4,95 +4,95 @@ source_hash: 9db5d5d7cdcb80e5
 lang: en
 status: machine
 fidelity: ok
-title: "いよぎん HD (Iyogin Holdings)"
+title: "Iyogin Holdings"
 translated_at: 2026-05-31T15:29:03.926Z
 ---
 
-# いよぎん HD (Iyogin Holdings)
+# Iyogin Holdings
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iyo-bank|Iyo Bank]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-愛媛県を地盤とする四国最大級地銀グループ。2022-10-03 伊予銀行の単独株式移転で持株会社化、東証 PRIME 5830 で上場。中核子会社の**[[iyo-bank|伊予銀行]]**は 1878 年「第二十九国立銀行」(松山) として設立された四国で最古級の銀行で、愛媛県内シェア No.1。今治造船を中心とした**海運・造船クラスター向け融資**が特色。四国 4 県では [[tomony-hd]] (徳島・香川) / [[hyakujushi-bank|百十四銀]] (香川) / [[shikoku-bank|四国銀]] (高知) と競合する。
+Iyogin Holdings is one of Shikoku's largest regional banking groups, anchored in Ehime Prefecture. It became a holding company on 2022-10-03 through a sole-share-transfer by Iyo Bank and is listed on TSE PRIME 5830. Its core subsidiary, **[[iyo-bank|Iyo Bank]]**, was founded in 1878 in Matsuyama as the Twenty-Ninth National Bank and is among Shikoku's oldest banks, with the leading share in Ehime. A defining portfolio feature is lending to the maritime and shipbuilding cluster centered on Imabari Shipbuilding. Across Shikoku, it competes with [[tomony-hd]] in Tokushima / Kagawa, [[hyakujushi-bank|Hyakujushi Bank]] in Kagawa, and [[shikoku-bank|Shikoku Bank]] in Kochi.
 
-## 1. 会社概要
+## 1. Company overview
 
-**正式名**:株式会社いよぎんホールディングス
+**Legal name**: Iyogin Holdings, Inc.
 **英名**:Iyogin Holdings, Inc.
-**証券コード**:東証 PRIME 5830 (2022-10-03 上場)
-**設立**:2022-10-03 (伊予銀行の単独株式移転)
-**本社**:愛媛県松山市南堀端町 1 番地
-**機関設計**:監査等委員会設置会社
+**Ticker**: TSE PRIME 5830 (listed 2022-10-03)
+**Established**: 2022-10-03 through Iyo Bank sole-share-transfer
+**Head office**: Minamihoribata-cho 1, Matsuyama, Ehime Prefecture
+**Governance design**: Company with audit and supervisory committee
 
-### 主要子会社 (公開情報)
+### Major subsidiaries based on public information
 
 ```
-いよぎん HD (持株会社・上場 5830)
-  ├── 株式会社伊予銀行 (100%) ── [[iyo-bank]] / 中核子会社・愛媛県シェア No.1
-  ├── いよぎんリース
-  ├── いよぎんビジネスサービス
-  ├── いよぎんコンピュータサービス
-  ├── いよぎん DC カード
-  ├── いよぎん地域経済研究センター (IRC)
-  └── いよぎんキャピタル
+Iyogin Holdings (listed holding company, 5830)
+  +-- Iyo Bank, Ltd. (100%) -- [[iyo-bank]] / core subsidiary with leading Ehime share
+  +-- Iyogin Leasing
+  +-- Iyogin Business Service
+  +-- Iyogin Computer Service
+  +-- Iyogin DC Card
+  +-- Iyogin Regional Economy Research Center (IRC)
+  +-- Iyogin Capital
 ```
 
-## 2. 沿革
+## 2. History
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| 1878 | **第二十九国立銀行** (松山) 設立 — 国立銀行条例下、四国で最古級 |
-| 1895 | 私立銀行に改組 → 「第二十九銀行」 |
-| 1941 | 戦時統合により**伊予銀行**改称 (愛媛県下の地銀統合) |
+| 1878 | **Twenty-Ninth National Bank** founded in Matsuyama under the National Bank Act; one of Shikoku's oldest banks. |
+| 1895 | Reorganized as a private bank and renamed Twenty-Ninth Bank. |
+| 1941 | Renamed **Iyo Bank** through wartime consolidation of regional banks in Ehime Prefecture. |
 | 1949 | 東京証券取引所 上場 |
-| 2022-10-03 | **いよぎん HD 設立** (単独株式移転、伊予銀行を完全子会社化) |
-| 2024〜 | 中期経営計画始動 |
+| 2022-10-03 | **Iyogin Holdings established** through a sole-share-transfer that made Iyo Bank a wholly owned subsidiary. |
+| 2024 onward | Medium-term management plan begins. |
 
-## 3. 事業セグメント・マップ
+## 3. Business segment map
 
-| セグメント | 主要事業者 | 特徴 |
+| Segment | Main operator | Characteristics |
 |---|---|---|
-| 商業銀行 | [[iyo-bank|伊予銀行]] | 愛媛県内圧倒的シェア・四国全域展開 |
-| 海運・造船融資 | [[iyo-bank|伊予銀行]]法人部門 | **今治造船グループ**等への融資、海事クラスター金融 |
-| リース | いよぎんリース | 法人設備投資ファイナンス |
-| カード | いよぎん DC カード | リテール決済 |
-| シンクタンク | いよぎん地域経済研究センター (IRC) | 愛媛・四国経済調査 |
-| ベンチャー | いよぎんキャピタル | 地域ベンチャー投資 |
-| デジタル | いよぎんネット・いよぎんアプリ | 個人向けデジタルバンキング |
+| Commercial banking | [[iyo-bank|Iyo Bank]] | Dominant Ehime share and coverage across Shikoku. |
+| Maritime / shipbuilding finance | [[iyo-bank|Iyo Bank]] corporate division | Lending to Imabari Shipbuilding group and the broader maritime cluster. |
+| Leasing | Iyogin Leasing | Corporate equipment-investment finance. |
+| Cards | Iyogin DC Card | Retail payments. |
+| Think tank | Iyogin Regional Economy Research Center (IRC) | Ehime and Shikoku economic research. |
+| Venture capital | Iyogin Capital | Regional venture investment. |
+| Digital banking | Iyogin Net and Iyogin app | Retail digital banking. |
 
-### 地域基盤
+### Regional foundation
 
-- **愛媛県地盤**:人口約 130 万、四国 4 県で最大県。県内 GDP の中核を担う海運・造船・農業 (柑橘) ・製紙 (大王製紙) 等の地場産業を顧客基盤に持つ。
-- **海事クラスター**:今治市は世界有数の造船・海運集積地。今治造船グループ等への融資は伊予銀行の特徴的ポートフォリオ。
-- **四国広域展開**:愛媛県外でも香川・徳島・高知・大阪・東京・大阪・広島等に支店を展開。
+- **Ehime base**: Ehime has roughly 1.3 million people and is the largest prefecture in Shikoku. The bank serves local industries central to prefectural GDP, including maritime / shipbuilding, agriculture such as citrus, and paper manufacturing.
+- **Maritime cluster**: Imabari is one of the world's major shipbuilding and shipping clusters. Lending to Imabari Shipbuilding group and related borrowers is a distinctive Iyo Bank portfolio feature.
+- **Broad Shikoku footprint**: The branch network extends beyond Ehime into Kagawa, Tokushima, Kochi, Osaka, Tokyo, Hiroshima, and other markets.
 
-### デジタル戦略
+### Digital strategy
 
-- 「**いよぎんカード**」「**いよぎんネット**」「いよぎんアプリ」等のリテールデジタル化
-- 法人向け API バンキング・地域 DX 支援
+- Retail digitalization through Iyogin Card, Iyogin Net, and the Iyogin app.
+- Corporate API banking and regional DX support.
 
-### 競争マップ (四国 4 県)
+### Competitive map across Shikoku
 
-| 県 | 主要地銀 | 持株会社 |
+| Prefecture | Major regional banks | Holding-company status |
 |---|---|---|
-| 愛媛 | **[[iyo-bank|伊予銀行]]** / [[ehime-bank|愛媛銀行]] | **いよぎん HD** / standalone second-regional |
+| Ehime | **[[iyo-bank|Iyo Bank]]** / [[ehime-bank|Ehime Bank]] | **Iyogin Holdings** / standalone second-tier regional bank |
 | 徳島 | [[awa-bank|阿波銀行]] / [[tokushima-taisho-bank|徳島大正銀行]] | standalone / [[tomony-hd]] |
 | 香川 | [[hyakujushi-bank|百十四銀行]] / [[kagawa-bank|香川銀行]] | standalone / [[tomony-hd]] |
 | 高知 | [[shikoku-bank|四国銀行]] / [[kochi-bank|高知銀行]] | standalone / standalone |
 
-四国地銀再編は他県で進行 ([[tomony-hd]] = トモニホールディングスは香川・徳島の連合) するが、伊予銀は単独 HD 化で独立路線を選択。
+Shikoku regional-bank consolidation has advanced in other prefectures, including [[tomony-hd]] in Kagawa and Tokushima, but Iyo Bank chose an independent holding-company route.
 
-## 5. 規制・政策
+## 5. Regulation and policy
 
-- **主管**:金融庁 (FSA) ・四国財務局
-- **持株会社規制**:銀行法 第 52 条の 17
-- **G-SIB 等**:該当なし (地銀)
+- **Supervisor**: Financial Services Agency (FSA) and Shikoku Local Finance Bureau.
+- **Bank holding-company rule**: Banking Act Article 52-17.
+- **G-SIB status**: Not applicable; regional bank group.
 - **直近政策論点**:
-  - 2024〜 日銀政策金利正常化 → 国内預貸利ザヤ改善ボーナス
-  - 2024〜 地銀再編・統合政策 (金融庁の地域金融機関政策)
+  - 2024 onward: Bank of Japan policy-rate normalization, improving domestic loan-deposit spreads.
+  - 2024 onward: regional-bank consolidation and integration policy under FSA regional-finance policy.
 
 ## Related
 
@@ -100,12 +100,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- **Wikipedia: 株式会社いよぎんホールディングス** (公開情報)
-- **Wikipedia: 株式会社伊予銀行** (公開情報)
-- いよぎん HD 公式 IR (https://www.iyogin-hd.co.jp/ 公開)
-- 伊予銀行 公式サイト (https://www.iyobank.co.jp/ 公開)
+- **Wikipedia: Iyogin Holdings, Inc.** (public information)
+- **Wikipedia: Iyo Bank, Ltd.** (public information)
+- Iyogin Holdings official IR (https://www.iyogin-hd.co.jp/ public site)
+- Iyo Bank official site (https://www.iyobank.co.jp/ public site)
 
 ---
 
-> [!info] 検証状況
-> confidence: **likely** (公開 Wikipedia + 公式 IR ベース、2026-05-19 整理)。具体的な財務数値 (総資産・純利益・店舗数等) は最新有価証券報告書・統合報告書を要参照。本ノートは構造・戦略・歴史のフレームワークに焦点、定量数値は意図的に省略。
+> [!info] Verification status
+> confidence: **likely** (public Wikipedia + official IR basis, organized 2026-05-19). Specific financial figures such as total assets, net income, and branch count require the latest securities report or integrated report. This note focuses on structure, strategy, and history; quantitative figures are intentionally limited.

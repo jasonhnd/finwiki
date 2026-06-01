@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.391Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company**. Read it against [[JapanFG/mitsubishi-corp|三菱商事]] (the largest rival competing for the top net-income position) and [[JapanFG/itochu-corp|伊藤忠商事]] (the contrast among the 5  major trading companies with a more non-resource tilt) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[JapanFG/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] (internal CMS). [[JapanFG/smfl|SMFL (住友三井オートサービス系の総合リース)]] is **inaccurate** — Mitsui & Co.'s main leasing subsidiary is [[JapanFG/ja-mitsui-leasing|JA三井リース]] (JA Zen-Noh + Mitsui & Co. 50/50  line; the merger of former Mitsui Leasing and JA Leasing), which is separate from its stake in [[JapanFG/smfl|SMFL]], the SMFG / Sumitomo Corporation line (SMFL = 50% SMFG + 50% Sumitomo Corporation), plus a certain stake in [[JapanFG/sumitomo-mitsui-auto-service|住友三井オートサービス]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. Read it against [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]], the largest rival competing for the top net-income position, and [[JapanFG/itochu-corp|Itochu Corporation]], the five-major-trading-company contrast with a more non-resource tilt, for peer and contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] as the internal CMS function. Treating [[JapanFG/smfl|SMFL]] as Mitsui & Co.'s main leasing subsidiary is **inaccurate**. Mitsui & Co.'s main leasing affiliate is [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]], a JA Zen-Noh + Mitsui & Co. line formed through the merger of former Mitsui Leasing and JA Leasing. That is separate from its stake in [[JapanFG/smfl|SMFL]], the SMFG / Sumitomo Corporation line, and from its stake in [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## 1. Company overview
 
@@ -30,9 +30,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ```
 Mitsui & Co. (8031,  TSE PRIME)
-  ├── [[JapanFG/mitsui-bussan-financial-services|三井物産フィナンシャルサービス (MBFS)]] (100%) — internal CMS / group finance
-  ├── [[JapanFG/ja-mitsui-leasing|JA三井リース]] (approx. 33% class, equity-method)                      — former Mitsui Leasing + JA Leasing merger
-  ├── [[JapanFG/sumitomo-mitsui-auto-service|住友三井オートサービス]] (partial stake)        — among the domestic leaders in auto leasing
+  ├── [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services (MBFS)]] (100%) — internal CMS / group finance
+  ├── [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] (approx. 33% class, equity-method)                      — former Mitsui Leasing + JA Leasing merger
+  ├── [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] (partial stake)        — among the domestic leaders in auto leasing
   ├── IHH Healthcare (Asian hospital chain, major shareholder level)                                     — healthcare platform
   └── Numerous overseas resource JVs (Vale-related, LNG, upstream oil)
 ```
@@ -105,11 +105,11 @@ Mitsui & Co. itself does not hold a banking license, but it is anchored in the f
 
 - [[JapanFG/INDEX|JapanFG index]]
 - [[JapanFG/mitsubishi-corp|三菱商事]] · [[JapanFG/itochu-corp|伊藤忠商事]] · [[JapanFG/sumitomo-corp|住友商事]] · [[JapanFG/marubeni-corp|丸紅]] · [[JapanFG/toyota-tsusho-corp|豊田通商]] · [[JapanFG/sojitz-corp|双日]] (peer trading companies)
-- [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (internal group treasury)
-- [[JapanFG/ja-mitsui-leasing|JA三井リース]] (equity-method leasing)
-- [[JapanFG/sumitomo-mitsui-auto-service|住友三井オートサービス]] (auto leasing)
-- [[JapanFG/smfg|SMFG]] · [[JapanFG/sumitomo-mitsui-trust|三井住友信託]] · [[JapanFG/mitsui-sumitomo-insurance|三井住友海上]] (Mitsui Group finance)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
+- [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] (internal group treasury)
+- [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] (equity-method leasing)
+- [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] (auto leasing)
+- [[JapanFG/smfg|SMFG]] · [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] · [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] (Mitsui Group finance)
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 
 ## Sources
 

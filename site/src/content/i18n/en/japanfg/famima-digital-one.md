@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-payment-gateway|GMO ペイメントゲートウェイ]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] for peer context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the broader system and regulatory boundary.
 
 ## TL;DR
 
@@ -31,11 +31,11 @@ ITOCHU Corporation → FamilyMart 100% **Convenience store payment/point/finance
 ### Parent company/shareholder structure (as of 2026 )
 
 ```
-伊藤忠商事（東証 PRIME 8001、商社）
-  └── 株式会社ファミリーマート（100%・非上場、旧 8028）
-        ├── ファミマデジタルワン（100%）── 決済・ポイント・金融
-        ├── ファミリーマート店舗網（国内 ~16,200 店）
-        └── 海外 FM（台湾全家・タイ・中国・インドネシア等）
+Itochu Corporation (TSE PRIME 8001; trading company)
+  |-- FamilyMart Co., Ltd. (100%; unlisted; former ticker 8028)
+        |-- Famima Digital One (100%) -- payments, points, and finance
+        |-- FamilyMart store network (approximately 16,200 domestic stores)
+        |-- Overseas FamilyMart operations in Taiwan, Thailand, China, Indonesia, and other markets
 ```
 
 ### Important chronology
@@ -68,7 +68,7 @@ ITOCHU Corporation → FamilyMart 100% **Convenience store payment/point/finance
 
 ### core strategy
 
-- **コンビニアプリ完結型**: ファミリーマート約 16,200 店の店頭起点 → QR スキャンで決済 → アプリ内残高・ポイント・カード一元管理
+- **Convenience-store app-closed model**: starts from FamilyMart's approximately 16,200 domestic stores, uses QR scanning for payment, and centralizes balance, points, and card management inside the app.
 - **Internal payment platform for ITOCHU** (2024~Mid-term plan): Horizontally deploy FamiPay as a B2C contact point for ITOCHU-affiliated businesses (FamilyMart, convenience store wholesalers, food, textiles, machinery, etc.)
 - **No bank license** (based on funds transfer companies) → Specializes in simple payments. Full-fledged banking is outsourced/partnership premise
 - **House point independence** (2024-04 T points eliminated): Internally complete the reward economy → Eliminate dependence on CCC/V points
@@ -118,9 +118,9 @@ ITOCHU Corporation → FamilyMart 100% **Convenience store payment/point/finance
 
 ## Sources
 
-- **Wikipedia: FamilyMart Digital One** (https://ja.wikipedia.org/wiki/ファミマデジタルワン, 2026-05-19 extraction)
+- **Wikipedia: FamilyMart Digital One** (https://ja.wikipedia.org/wiki/ファミマデジタルワン, extracted 2026-05-19)
 - **Wikipedia: FamiPay** (https://ja.wikipedia.org/wiki/FamiPay, 2026-05-19 extraction)
-- **Wikipedia: FamilyMart** (https://ja.wikipedia.org/wiki/ファミリーマート, 2026-05-19 extraction)
+- **Wikipedia: FamilyMart** (https://ja.wikipedia.org/wiki/ファミリーマート, extracted 2026-05-19)
 - **Wikipedia: T point / V point integration** (2024-04-22 integration related, 2026-05-19 extraction)
 
 ---

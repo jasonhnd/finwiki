@@ -45,7 +45,7 @@ ZK-EVM rollup は 2023-2025 年に集中的にメインネット稼働した後 
 
 機関顧客([[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] の J.P. Morgan Kinexys / DTCC / SWIFT pilot を参照)も同様に「tokenized 資産はどの L2 で settle するか」を決定する必要がある。機関が気にするのは TPS ではなく · **prover/sequencer の decentralization**(現在すべての ZK-EVM の sequencer は中央集権 · prover は大部分が中央集権)· **upgrade governance**(challenge window 内にスマートコントラクトをアップグレードできる = 実際に資金を制御)· **DA layer リスク**(validium 使用時 · データ可用性が外部委員会に依存)。
 
-本マトリクスは公開稼働中の 9 個の ZK-EVM / ZK-rollup を対照 · 9 軸を横断展開 · 2026-Q2 データスナップショット。Optimistic rollup(Arbitrum / Optimism / Base / Blast)は本マトリクスに含まれず · 別途の optimistic マトリクス(TBD)を参照。
+本マトリクスは公開稼働中の 9 個の ZK-EVM / ZK-rollup を対照 · 9 軸を横断展開 · 2026-Q2 データスナップショット。Optimistic rollup(Arbitrum / Optimism / Base / Blast)は本マトリクスに含まれず · 別途の optimistic マトリクス（公開時期は参照公開資料上未特定）を参照。
 
 ## Per-rollup sections
 

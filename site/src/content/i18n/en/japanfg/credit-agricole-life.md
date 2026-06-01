@@ -8,16 +8,16 @@ title: "Credit Agricole Life Insurance"
 translated_at: 2026-05-31T15:29:03.905Z
 ---
 # Credit Agricole Life Insurance
-# クレディ・アグリコル生命保険
+# Credit Agricole Life Insurance Co., Ltd.
 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/cardif-life|カーディフ生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/cardif-life|Cardif Life Insurance]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-クレディ・アグリコル生命保険株式会社は、金融庁 life-insurer list に掲載される Credit Agricole group の Japan life-insurance operating company。[[JapanFG/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] や asset-management context ではなく、bancassurance-oriented life insurer として分けて扱う。
+Credit Agricole Life Insurance Co., Ltd. is the Credit Agricole group’s Japan life-insurance operating company listed in the Financial Services Agency life-insurer roster. It should be treated as a bancassurance-oriented life insurer, distinct from [[JapanFG/credit-agricole-bank-japan|Credit Agricole Bank Tokyo Branch]] and from asset-management contexts.
 
 ## 1. License / group boundary
 

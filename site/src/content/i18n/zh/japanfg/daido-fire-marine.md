@@ -9,9 +9,9 @@ translated_at: 2026-05-31T15:29:03.916Z
 ---
 # 大同火災海上保険
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[JapanFG/sompo|SOMPO Holdings]] 作同业 / 对照阅读，并与 [[banking/INDEX|banking index]] 共同把握更广泛的系统和监管边界。
 
 ## TL;DR
 

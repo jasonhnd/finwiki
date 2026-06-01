@@ -13,7 +13,7 @@ translated_at: 2026-05-31T05:31:05.771Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+本条目位于 [[exchanges/INDEX|exchanges index]] 下。可与 FSA 登记制度和日本金融监管页面一并阅读。
 
 > 资金移动业者登记 关东财务局 第00099号 · JVCEA 会员 #1042（资金移动业）· 设立 2019年11月
 

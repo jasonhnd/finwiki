@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.364Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/cex-coindcx-india|CoinDCX India]] / [[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin Brazil]] for new-market peer / contrast context, [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader global benchmark, and [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較]] for the regulatory boundary view.
+本条目位于 [[exchanges/INDEX|exchanges index]] 下。可与亚洲和新兴市场 CEX 条目对照阅读。
 
 > 越南在 Chainalysis Global Crypto Adoption Index 中是世界顶级的采用国家之一 · 但 **SBV（State Bank of Vietnam）不承认加密货币为法定货币・支付手段、且无 VASP 牌照制度** · 主要经营者为 **ONUS / Remitano** + offshore CEX（Binance, OKX, MEXC, Bybit 等）
 

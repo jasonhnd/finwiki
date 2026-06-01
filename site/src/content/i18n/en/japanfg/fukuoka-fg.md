@@ -11,11 +11,11 @@ translated_at: 2026-05-31T15:29:03.864Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main placeholder context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/chiba-bank|千葉銀行 (Chiba Bank)]] [[banking/INDEX|banking index]] 3  2007-04-02 [[fukuoka-bank|福岡銀行]] [[kumamoto-bank|熊本銀行]] 2  2021 05  4  0 2025  2026 年 3 月 2026-05-13 2025  2026 03  2024  2025
+This entry sits in the JapanFG route specified by the source file. Main source-sequence context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/chiba-bank|Chiba Bank]] [[banking/INDEX|banking index]] 3  2007-04-02 [[fukuoka-bank|Fukuoka Bank]] [[kumamoto-bank|Kumamoto Bank]] 2  2021 05  4  0 2025  2026 年 3 月 2026-05-13 2025  2026 03  2024  2025
 
 ## TL;DR
 
-This page records the public-information boundary for Fukuoka Financial Group in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected placeholders are retained in source order.
+This page records the public-information boundary for Fukuoka Financial Group in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; source fragments are retained in source order.
 
 ## License / group boundary
 
@@ -37,7 +37,7 @@ This page records the public-information boundary for Fukuoka Financial Group in
 - Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
 - For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
 
-## Placeholder continuation
+## Source-fragment continuation
 
 - 03  6,211 億円 36.3% 4,557 億円 1,206 億円 16.4% 1,036 億円 854 億円 18.4% 721 億円 33.56 兆円 4.0% 32.26 兆円 21 兆 8,856 億円 648 億円 20 兆 3,068 億円 1 兆 3,365 億円
 - 7.0% 1 兆 767 億円 15.8% 3.2% 0.4 3.1% 6.9% 6.9% 180 円 85  95 45 円 135 円 7,928 名 1.26 兆円 1 2025  1,240 億円 850 億円
@@ -55,7 +55,7 @@ This page records the public-information boundary for Fukuoka Financial Group in
 
 ## Related
 
-- Related entries are represented by the protected placeholders above.
+- Related entries are represented by the source fragments above.
 
 ## Sources
 

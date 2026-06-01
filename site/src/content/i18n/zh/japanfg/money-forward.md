@@ -4,18 +4,18 @@ source_hash: 275674e19e722bd7
 lang: zh
 status: machine
 fidelity: ok
-title: ""
+title: "Money Forward, Inc."
 translated_at: 2026-05-31T23:59:49.429Z
 ---
-﻿# Money Forward, Inc.（マネーフォワード）
+# Money Forward, Inc.
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[JapanFG/freee|freee 株式会社 (freee K.K.)]] 阅读其同业 / 对比背景，并结合 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] 理解更广泛的系统 / 监管边界。
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可结合 [[JapanFG/freee|freee K.K.]] 阅读其同业 / 对比背景，并结合 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制度三层结构（JPYC、USDC、Project Pax）]] 理解更广泛的系统与监管边界。
 
 ## 摘要
 
-Money Forward 是日本 PFM（Personal Financial Management）和中小企业会计 SaaS 的代表性公司。核心双轴是**个人家庭账簿应用“Money Forward ME”**（超过 1500 万 用户）与法人向 **“Money Forward Cloud”**。创始人**辻庸介**来自原 Monex 集团，于 2012-05-18 创业；2017-09-29 在东证 Mothers 上市，2022  转入东证 Growth，之后进入东证 Prime（3994）。其**与超过 1500 行 家金融机构 API 连接**是技术护城河。2025-04-15 将原本与 MUFG 的 JV “Biz Forward”（保理）独立纳入旗下，强化了不依赖大型银行的独立性。中期黑字化计划延期曾压低股价，但 SaaS ARR 扩大仍是主要阅读线索。^[extracted]
+Money Forward 是日本 PFM（Personal Financial Management）和中小企业会计 SaaS 的代表性公司。核心双轴是**个人家庭账簿应用“Money Forward ME”**（超过 1500 万用户）与法人向 **“Money Forward Cloud”**。创始人**辻庸介**来自原 Monex 集团，于 2012-05-18 创业；2017-09-29 在东证 Mothers 上市，2022 年转入东证 Growth，之后进入东证 Prime（3994）。其**与超过 1500 家金融机构 API 连接**是技术护城河。2025-04-15 将原本与 MUFG 的 JV “Biz Forward”（保理）独立纳入旗下，强化了不依赖大型银行的独立性。中期黑字化计划延期曾压低股价，但 SaaS ARR 扩大仍是主要阅读线索。^[extracted]
 
 ## 1. 公司概要
 
@@ -47,17 +47,17 @@ Money Forward 是日本 PFM（Personal Financial Management）和中小企业会
 
 ```
 Money Forward（控股 / 上市公司 3994）
-  笏懌楳笏 个人向业务（BtoC）
-  笏・    笏披楳笏 Money Forward ME 笏笏 超过 1500 万 UB；PFM #1
-  
-  笏懌楳笏 法人向业务（BtoB）
-  笏・    笏懌楳笏 Money Forward Cloud 笏笏 会计、工资、经费、发票
-  笏・    笏・    笏披楳笏 中小企业 SaaS 主战场；与 freee / Yayoi / TKC 竞争
-  笏・    笏懌楳笏 Money Forward Business Company 笏笏 法人整合品牌
-  笏・    笏懌楳笏 Money Forward PFP 笏笏 大企业资金 / 财务 SaaS
-  笏・    笏披楳笏 Money Forward Biz Forward 笏笏 保理（原 MUFG JV -> 2025-04  单独纳入）
-  笏披楳笏 金融机构向业务（BtoFI）
-        笏披楳笏 API 连接基础 笏笏 与超过 1500 行 家机构连接的 Open API hub
+  ├── 个人向业务（BtoC）
+  │   └── Money Forward ME —— 超过 1500 万用户；PFM #1
+
+  ├── 法人向业务（BtoB）
+  │   ├── Money Forward Cloud —— 会计、工资、经费、发票
+  │   │   └── 中小企业 SaaS 主战场；与 freee / Yayoi / TKC 竞争
+  │   ├── Money Forward Business Company —— 法人整合品牌
+  │   ├── Money Forward PFP —— 大企业资金 / 财务 SaaS
+  │   └── Money Forward Biz Forward —— 保理（原 MUFG JV；2025-04 单独纳入）
+  └── 金融机构向业务（BtoFI）
+      └── API 连接基础 —— 与超过 1500 家机构连接的 Open API hub
 ```
 
 ### 重要年表 ^[extracted]
@@ -74,7 +74,7 @@ Money Forward（控股 / 上市公司 3994）
 | 2022  | 东证市场区分重组：转入 **TSE Growth**，之后进入 **TSE Prime** |
 | 2023  | Money Forward ME 用户数突破 1500 万 |
 | 2024  | 公布中期黑字化计划延期，股价承压 |
-| **2025-04-15** | **MUFG 将 Biz Forward 持股出售 / 转让给 Money Forward；JV 解散并单独纳入** 笘・ |
+| **2025-04-15** | **MUFG 将 Biz Forward 持股出售 / 转让给 Money Forward；JV 解散并单独纳入** |
 | 2025 起 | 加速法人 SaaS + BPaaS 战略和 AI 功能扩展 |
 
 ## 2. 业务分部地图
@@ -109,7 +109,7 @@ Money Forward（控股 / 上市公司 3994）
 
 - **与 Monex 的关系**：创始人辻庸介来自原 Monex，创业早期即有持续关系。
 - **SBI HD 业务合作**（2018）：强化金融机构 API 连接基础，并与 SBI 经济圈联动。
-- **MUFG JV “Biz Forward”**（2021-04  成立、2025-04-15 解散 笘・）：在 4  年整合保理合资业务，确保摆脱大型银行依赖后的独立性。
+- **MUFG JV “Biz Forward”**（2021-04 成立、2025-04-15 解散）：经过约 4 年整合保理合资业务，确保摆脱大型银行依赖后的独立性。
 - **AS Capital 合作**：创业早期以来的 VC 伙伴。
 
 ### 竞争与差异化
@@ -133,7 +133,7 @@ Money Forward（控股 / 上市公司 3994）
 
 ## 相关
 
-- [[mufg]] ﾂｷ [[smfg]] ﾂｷ [[mizuho-fg]] ﾂｷ [[sbi-hd]] ﾂｷ [[ndfg]]
+- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
 - [[JapanFG/INDEX|JapanFG]]（东证 Prime fintech 类别）
 
 ## 来源

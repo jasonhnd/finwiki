@@ -4,128 +4,128 @@ source_hash: 3fdfd734f4c81d7f
 lang: en
 status: machine
 fidelity: ok
-title: "大同火災海上保険"
+title: "Daido Fire and Marine Insurance"
 translated_at: 2026-05-31T15:29:03.917Z
 ---
-# 大同火災海上保険
+# Daido Fire and Marine Insurance
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sompo|Sompo Holdings]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-**沖縄県唯一の地場損害保険会社**。1951-04 米軍政下の沖縄で「沖縄海上火災保険」として設立、戦後沖縄で日本籍の損保会社として唯一の存在。1972 年沖縄本土復帰により日本国内損保扱いに、1985 年現社名「大同火災海上保険」へ改称。2000 年代以降、損保ジャパン（現 [[sompo]]）との業務提携を通じて全国網カバー。**沖縄県内損保シェア No.1**、観光保険（旅行傷害・レンタカー・民宿賠償）と台風・離島再保険スキームに特化。大手 3 損保（[[tokio-marine]] / [[msad]] / [[sompo]]）の沖縄拠点との競合下で地場優位を維持。非上場。^[extracted]
+**Daido Fire and Marine Insurance is Okinawa's only locally rooted non-life insurer.** It was established in 1951-04 under U.S. military administration as Okinawa Marine and Fire Insurance, then became a domestic Japanese non-life insurer after Okinawa's reversion to Japan in 1972. It adopted the current name in 1985. Since the 2000s, a business alliance with Sompo Japan, now within [[sompo]], has provided national-network coverage. The company holds a leading Okinawa non-life share and specializes in tourism insurance, including travel accident, rental-car, and guesthouse liability coverage, plus typhoon / remote-island reinsurance structures. It remains unlisted and competes with the Okinawa offices of the three major non-life groups: [[tokio-marine]], [[msad]], and [[sompo]].^[extracted]
 
-## 1. 会社概要
+## 1. Company overview
 
-**正式名**：大同火災海上保険株式会社 ^[extracted]
+**Legal name**: Daido Fire and Marine Insurance Co., Ltd.^[extracted]
 **英名**：Daido Fire and Marine Insurance Co., Ltd.
-**設立**：1951-04（沖縄海上火災保険株式会社として）^[extracted]
-**現社名移行**：1985（大同火災海上保険 改称）^[extracted]
-**本社**：沖縄県那覇市 ^[extracted]
-**上場**：**非上場**（沖縄県内財界による持株構成）^[extracted]
-**業態**：損害保険業（金融庁認可、損保協会加盟）
+**Established**: 1951-04 as Okinawa Marine and Fire Insurance Co., Ltd.^[extracted]
+**Current name adopted**: 1985.^[extracted]
+**Head office**: Naha, Okinawa Prefecture.^[extracted]
+**Listing**: **Unlisted**, with ownership rooted in Okinawa business circles.^[extracted]
+**Business type**: Non-life insurance business, licensed by the FSA and member of the General Insurance Association of Japan.
 
-### 主要業務・支店網
+### Main businesses and branch network
 
 ```
-大同火災海上保険（本社：那覇市）
-  ├── 沖縄県内ネットワーク
-  │     ├── 那覇本店・宮古支店・八重山支店・名護営業所等
-  │     ├── 離島カバー（先島諸島・大東諸島）
-  │     └── 県内代理店網（自動車ディーラー・不動産・地場金融）
-  ├── 本土拠点（東京・大阪・福岡）
-  │     └── 沖縄関連法人・観光客向け接点
-  └── 損保ジャパン（[[sompo]]）業務提携
-        └── 全国網・再保険・商品ライセンス
+Daido Fire and Marine Insurance (head office: Naha)
+  +-- Okinawa prefectural network
+  |     +-- Naha head office, Miyako branch, Yaeyama branch, Nago office, and others
+  |     +-- Remote-island coverage, including the Sakishima and Daito island groups
+  |     +-- Local agency network across auto dealers, real estate, and local finance
+  +-- Mainland offices in Tokyo, Osaka, and Fukuoka
+  |     +-- Contact points for Okinawa-related corporates and tourists
+  +-- Sompo Japan ([[sompo]]) business alliance
+        +-- National network, reinsurance, and product-license support
 ```
 
-### 重要年表 ^[extracted]
+### Key timeline ^[extracted]
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| **1951-04** | **沖縄海上火災保険 設立**（米軍政下、日本籍企業で唯一の沖縄損保）|
-| 1950 年代 | 戦後復興・米軍関連リスクカバー開始 |
-| 1960 年代 | 沖縄観光黎明期、自動車保険拡大 |
-| **1972-05-15** | **沖縄本土復帰** → 日本国内損保扱い・金融庁所管入り |
-| 1970 年代後半 | 観光ブーム → 旅行傷害・レンタカー保険拡充 |
-| **1985** | **大同火災海上保険 改称**（業務範囲拡大反映）|
-| 1990 年代 | 大手損保の沖縄進出本格化 → 地場ブランド強化 |
-| **2000 年代** | **損保ジャパン（[[sompo]]）との業務提携**（商品・再保険・全国網連携）|
-| 2010 年代 | 台風再保険スキーム高度化、離島カバー継続 |
-| 2010 年代 | サイバー保険・小規模事業者賠償の地場特化商品 |
+| **1951-04** | **Okinawa Marine and Fire Insurance established** under U.S. military administration; a unique Okinawa non-life insurer with Japanese corporate roots. |
+| 1950s | Began covering postwar reconstruction and U.S. military-related risks. |
+| 1960s | Expanded auto insurance as Okinawa tourism emerged. |
+| **1972-05-15** | **Okinawa reversion to Japan**; the company became part of Japan's domestic non-life insurance system under FSA supervision. |
+| Late 1970s | Tourism boom led to expansion of travel accident and rental-car insurance. |
+| **1985** | **Renamed Daido Fire and Marine Insurance**, reflecting a broader business scope. |
+| 1990s | Major mainland non-life insurers expanded in Okinawa; Daido strengthened its local brand. |
+| **2000s** | **Business alliance with Sompo Japan ([[sompo]])** for products, reinsurance, and national-network support. |
+| 2010s | Advanced typhoon reinsurance structures and continued remote-island coverage. |
+| 2010s | Developed locally specialized cyber and small-business liability products. |
 
-## 2. 事業セグメント・マップ
+## 2. Business segment map
 
-| セグメント | 主要商品 | 特徴 |
+| Segment | Main products | Characteristics |
 |---|---|---|
-| 自動車保険 | 任意自動車（県内シェア No.1）| レンタカー・観光客向け短期も強い |
-| 火災・地震保険 | 住宅・店舗・事業所 | 台風・高潮・塩害カバーが地場仕様 |
-| 旅行傷害保険 | 国内旅行・観光客向け | 観光産業との代理店網が厚い |
-| レンタカー保険 | 沖縄観光必需 | 大手レンタカー会社との包括契約 |
-| 民宿・宿泊賠償 | 小規模民宿・ペンション | 離島・地場宿泊事業者カバー |
-| 海上保険 | 漁船・小型船舶・海運 | 創業時からの本業（社名由来）|
-| 賠償責任保険 | 小規模事業者 PL・施設賠償 | 県内中小企業向け |
+| Auto insurance | Voluntary auto insurance, with leading Okinawa share | Strong in rental-car and short-term tourist coverage. |
+| Fire / earthquake insurance | Residential, retail, and business premises | Localized for typhoon, storm-surge, and salt-damage exposure. |
+| Travel accident insurance | Domestic travel and tourist coverage | Dense agency links with the tourism industry. |
+| Rental-car insurance | Essential Okinawa tourism coverage | Comprehensive contracts with major rental-car companies. |
+| Guesthouse / lodging liability | Small inns and pensions | Coverage for remote-island and local lodging operators. |
+| Marine insurance | Fishing boats, small vessels, and shipping | Historical core business reflected in the company name. |
+| Liability insurance | Small-business PL and facility liability | Designed for Okinawa SMEs. |
 
-### 地場優位の源泉
+### Sources of local advantage
 
-- **沖縄県内損保シェア No.1**（地場代理店網・財界ネットワーク）^[extracted]
-- **離島カバー**：宮古・八重山・大東諸島など本土大手が手薄な地域もカバー
-- **観光保険の専門性**：レンタカー・民宿・ダイビング等の沖縄特化商品
-- **地場ブランド信頼**：県民意識・地元雇用・代理店との長期関係
+- **Leading Okinawa non-life insurance share**, supported by local agency and business-community networks.^[extracted]
+- **Remote-island coverage** across Miyako, Yaeyama, Daito, and other areas where mainland majors have thinner presence.
+- **Tourism-insurance specialization** in rental cars, guesthouses, diving, and marine-sports liability.
+- **Local brand trust** built through local employment and long agency relationships.
 
-### 大手 3 損保との競合
+### Competition with the three major non-life groups
 
-| 競合 | 沖縄での立ち位置 |
+| Competitor | Okinawa position |
 |---|---|
-| [[tokio-marine]]（東京海上日動）| 全国大手・法人向け強い・大規模リスク |
-| [[msad]]（MS&AD）| あいおいニッセイ同和等で県内展開 |
-| [[sompo]]（損保ジャパン）| **大同火災と業務提携** → 競合ではなく補完関係 |
+| [[tokio-marine]] (Tokio Marine & Nichido) | Nationwide major; strong with corporates and large-scale risks. |
+| [[msad]] (MS&AD) | Local presence through Aioi Nissay Dowa and related units. |
+| [[sompo]] (Sompo Japan) | Business alliance with Daido; complement as much as competitor. |
 
-### 災害リスク管理
+### Disaster risk management
 
-- **台風**：年複数回の直撃に対応する火災・地震・海上の再保険スキーム
-- **地震**：南西諸島地震帯の長期リスク
-- **離島リスク**：交通遮断・物資供給途絶等の事業継続リスク
-- **塩害・高潮**：沿岸地域特有のカバー設計
+- **Typhoons**: fire, earthquake, and marine reinsurance structures designed for multiple annual landfalls.
+- **Earthquakes**: long-term risk along the Nansei Islands seismic belt.
+- **Remote-island risk**: business-continuity exposure from transport disruption and supply interruptions.
+- **Salt damage and storm surge**: coastal-region-specific coverage design.
 
-### 観光保険・インバウンド
+### Tourism insurance and inbound travel
 
-- 沖縄観光客数（コロナ前年間 1000 万人超、2024〜回復基調）に伴う旅行傷害保険需要
-- レンタカー保険（沖縄観光の標準アクセス手段）
-- ダイビング・マリンスポーツ賠償
-- 民宿・ゲストハウス賠償（Airbnb 等の小規模事業者含む）
+- Travel accident demand tied to Okinawa tourism, which exceeded 10 million annual visitors before COVID and was recovering in 2024.
+- Rental-car insurance, a standard access layer for Okinawa tourism.
+- Diving and marine-sports liability.
+- Guesthouse and small-lodging liability, including small Airbnb-style operators.
 
-### 米軍関連リスク
+### U.S. military-related risks
 
-- 米軍基地周辺の事故・騒音・事業継続リスクは沖縄特有
-- 基地返還・跡地開発に伴う長期リスク評価
+- Accident, noise, and business-continuity risks around U.S. military bases are Okinawa-specific.
+- Long-term risk assessment around base returns and redevelopment of former base land.
 
-## 4. 規制・政策
+## 4. Regulation and policy
 
-- **主管**：金融庁（FSA）
-- **業界団体**：日本損害保険協会（損保協会）加盟
-- **直近政策論点**：
-  - 台風大型化・気候変動に伴う保険料率改定
-  - 観光客増加に伴うインバウンド保険商品拡充
-  - 米軍基地再編・跡地利用に伴うリスク再評価
-  - 損保業界の代理店手数料制度見直し（沖縄でも影響）
+- **Supervisor**: Financial Services Agency (FSA).
+- **Industry body**: General Insurance Association of Japan member.
+- **Current policy issues**:
+  - Premium-rate revisions due to larger typhoons and climate change.
+  - Expansion of inbound-tourism insurance products as visitor numbers recover.
+  - Risk reassessment linked to U.S. military-base realignment and land reuse.
+  - Review of agency-commission systems in the non-life sector, including Okinawa implications.
 
 ## Related
 
-- [[sompo]]（業務提携先・大手 3 損保の 1 角）
-- [[tokio-marine]]（競合・大手 3 損保）
-- [[msad]]（競合・大手 3 損保）
-- 沖縄県内地銀（沖縄銀行・琉球銀行・沖縄海邦銀行）
-- [[insurance/natcat-reinsurance-japan]]（台風再保険スキーム、該当 wiki があれば）
+- [[sompo]] ? alliance partner and one of the three major non-life groups.
+- [[tokio-marine]] ? competitor and one of the three major non-life groups.
+- [[msad]] ? competitor and one of the three major non-life groups.
+- Okinawa regional banks: Bank of Okinawa, Ryukyu Bank, and Okinawa Kaiho Bank.
+- [[insurance/natcat-reinsurance-japan]] ? typhoon reinsurance structure, if the wiki route exists.
 
 ## Sources
 
-- **Wikipedia: 大同火災海上保険**（https://ja.wikipedia.org/wiki/大同火災海上保険, 2026-05-19 抽出）
-- 大同火災海上保険 公式 HP（会社案内・沿革・商品案内、2025 年度版）
-- 日本損害保険協会 加盟会社一覧
+- **Wikipedia: Daido Fire and Marine Insurance** (https://ja.wikipedia.org/wiki/Daido_Fire_and_Marine_Insurance, extracted 2026-05-19)
+- Daido Fire and Marine Insurance official website: company profile, history, and product pages, FY2025 version.
+- General Insurance Association of Japan member-company list.
 
 ---
 
-> [!info] 校核状态
+> [!info] Verification status

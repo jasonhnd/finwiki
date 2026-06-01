@@ -9,9 +9,9 @@ translated_at: 2026-05-31T23:59:49.372Z
 ---
 # Jimoto Holdings
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]]。相邻银行业语境见 [[banking/INDEX|banking index]]，更广泛的牌照和制度边界见 [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses index]]。
 
 ## TL;DR
 

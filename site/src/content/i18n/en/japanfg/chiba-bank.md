@@ -4,162 +4,143 @@ source_hash: ec2d4cc9267cbe3c
 lang: en
 status: machine
 fidelity: ok
-title: "千葉銀行 (Chiba Bank)"
+title: "Chiba Bank"
 translated_at: 2026-05-31T11:13:44.919Z
 ---
 
-# 千葉銀行 (Chiba Bank)
+# Chiba Bank
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gunma-bank|群馬銀行 (The Gunma Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/gunma-bank|The Gunma Bank]] for peer comparison and [[banking/INDEX|banking index]] for the broader regulatory and regional-bank boundary.
 
 ## TL;DR
 
-千葉県地盤の地銀単独最大手級（連結預金 **16.3 兆円規模**・連結総資産 **約 21.6 兆円**（2025-03 期）/ 千葉県シェア No.1）。1943-03 千葉合同銀行・小見川農商銀行・第九十八銀行の合併で発足、同月千葉銀行に改称。1949 東証上場。**持株会社化していない単独銀行** で経営の柔軟性を確保しつつ、地銀 FG（[[concordia-fg]]・[[fukuoka-fg]]・[[hokuhoku-fg]] 等）に並ぶ規模で重要。**2015 TSUBASA アライアンス主導設立** ★ により 11 行協業（システム共同化・海外サポート）でホールディング化を回避しつつスケールメリット獲得。2023-12 シンガポール支店開設で海外戦略本格化。^[extracted]
+The Chiba Bank, Ltd. is one of Japan's largest standalone regional banks. It is based in Chiba Prefecture, had consolidated deposits of roughly 16.3 trillion yen and consolidated total assets of roughly 21.6 trillion yen for the fiscal year ended 2025-03, and holds the leading banking share in Chiba Prefecture. It was formed on 1943-03-31 through the merger of Chiba Godo Bank, Omigawa Nosho Bank, and the Ninety-Eighth Bank, and listed on the Tokyo Stock Exchange in 1949. Unlike many large regional-bank groups, it has not adopted a holding-company structure. Instead, it uses the TSUBASA Alliance, launched in 2015, to obtain scale benefits in systems, overseas support, and product development while retaining a standalone-bank structure. Its Singapore branch, opened in 2023-12, marks a more explicit Asia-support strategy. ^[extracted]
 
-## 1. 会社概要
+## 1. Company profile
 
-**正式名**：株式会社千葉銀行 ^[extracted]
-**英名**：The Chiba Bank, Ltd.
-**証券コード**：東証 PRIME 8331 ^[extracted]
-**設立**：1943-03-31 (千葉合同銀行・小見川農商銀行・第九十八銀行の合併で千葉銀行を新立、同月発足)
-**本店**：千葉県千葉市中央区 ^[extracted]
-**業態**：地方銀行（持株会社化していない単独銀行）
+**Legal name**: The Chiba Bank, Ltd. ^[extracted]
+**Ticker**: TSE Prime 8331. ^[extracted]
+**Established**: 1943-03-31 through the wartime merger that created Chiba Bank.
+**Head office**: Chuo-ku, Chiba City, Chiba Prefecture. ^[extracted]
+**Business type**: standalone regional bank, not a bank holding company.
 
-### 主要数値（2025-03 期・連結）^[extracted]
+### Key figures, FY2025/03 consolidated ^[extracted]
 
-| 項目 | 金額・規模 |
+| Item | Amount / scale |
 |---|---|
-| 預金（連結）| 16 兆 2,519 億円 |
-| 預金（単体・末残）| 16 兆 2,687 億円 |
-| 貸出金（連結）| 13 兆 1,831 億円 |
-| 総資産（連結）| 21 兆 6,312 億円 |
-| 経常収益（連結）| 3,621 億円 |
-| 親会社株主に帰属する当期純利益 | 742 億円 |
-| 連結自己資本比率（国際統一基準）| 15.04% |
-| 従業員数（単体・2025-03 末）| 4,076 人 |
-| 店舗数（2025-03 末）| 187 か店 |
-| 千葉県内シェア | No.1 |
-| 業態順位 | 地方銀行単独 TOP 5 級 |
-| 上場市場 | 東証 PRIME（旧東証 1 部）|
+| Consolidated deposits | 16,251.9 billion yen |
+| Non-consolidated period-end deposits | 16,268.7 billion yen |
+| Consolidated loans | 13,183.1 billion yen |
+| Consolidated total assets | 21,631.2 billion yen |
+| Ordinary income | 362.1 billion yen |
+| Profit attributable to owners of parent | 74.2 billion yen |
+| Consolidated capital ratio, international standard | 15.04% |
+| Employees, non-consolidated, end-March 2025 | 4,076 |
+| Branches, end-March 2025 | 187 |
+| Chiba Prefecture share | No. 1 |
+| Market | TSE Prime, formerly TSE First Section |
 
-### 主要子会社・関連会社（公開）
+### Public subsidiaries and affiliates
 
-```
-千葉銀行（単独銀行・上場 8331）
-  ├── ちばぎん証券 ── 地銀グループ証券
-  ├── ちばぎんカード ── クレジットカード
-  ├── ちばぎんリース ── リース業
-  ├── ちばぎんコンピューターサービス ── システム
-  ├── ちばぎん総合研究所 ── シンクタンク
-  └── シンガポール支店（2023-12 開設）── アジア海外拠点
+```text
+The Chiba Bank, Ltd. (standalone listed bank, 8331)
+  ├── Chibagin Securities — regional-bank securities arm
+  ├── Chibagin Card — credit-card business
+  ├── Chibagin Leasing — leasing business
+  ├── Chibagin Computer Service — systems function
+  ├── Chibagin Research Institute — think tank
+  └── Singapore Branch, opened 2023-12 — Asian corporate-support base
 ```
 
-### 前身・統合歴史
+### History
 
-- **1943-03-31** 千葉合同銀行・小見川農商銀行・第九十八銀行が合併し **千葉銀行** を新立（戦時統合・千葉県内地銀統合）
-- 1944 千葉貯蓄銀行を吸収、野田商誘銀行の営業を譲受
-- **1949** 東京証券取引所 上場
-- 戦後高度成長期〜80 年代: 千葉県・首都圏東部での営業基盤確立
-- バブル期: 不良債権処理・店舗網最適化
+- **1943-03-31**: Chiba Godo Bank, Omigawa Nosho Bank, and the Ninety-Eighth Bank merged to establish Chiba Bank.
+- **1949**: Listed on the Tokyo Stock Exchange.
+- **Postwar growth period**: built a commercial base across Chiba Prefecture and eastern Greater Tokyo.
+- **2015**: Led the establishment of the TSUBASA Alliance.
+- **2023-12**: Opened the Singapore branch. ^[extracted]
+- **2024**: Formulated a new medium-term management plan.
 
-### 重要年表（抜粋）^[extracted]
+## 2. Business segment map
 
-| 年月 | 事象 |
-|---|---|
-| 1943-03-31 | 千葉合同銀行・小見川農商銀行・第九十八銀行 合併 → 千葉銀行 新立 |
-| 1949 | 東証上場 |
-| **2015** | **TSUBASA アライアンス 主導設立** ★ — 千葉銀 + 北洋 + 武蔵野 + 滋賀 + 第四北越 + 中国 + 伊予 + 東邦 + 北國 + 京都 + 群馬 の 11 行アライアンス |
-| 2015 以降 | TSUBASA システム共同化推進 |
-| **2023-12** | **シンガポール支店 開設** — アジア海外戦略本格化 ^[extracted] |
-| 2024 | 中期経営計画 策定 |
-
-## 2. 事業セグメント・マップ
-
-| セグメント | 主要事業者 | 特徴 |
+| Segment | Operator | Characteristics |
 |---|---|---|
-| 法人融資 | 千葉銀行（本体）| 千葉県内中堅・中小企業 main bank、首都圏東部に展開 |
-| 個人預金・住宅ローン | 千葉銀行（本体）| 千葉県内シェア No.1、ベッドタウン需要 |
-| 証券 | ちばぎん証券 | 地銀証券グループ |
-| クレカ | ちばぎんカード | 地銀クレカ |
-| リース | ちばぎんリース | 法人リース |
-| システム | ちばぎんコンピューターサービス | 自社＋ TSUBASA 共同化 |
-| シンクタンク | ちばぎん総合研究所 | 千葉県経済リサーチ |
-| 海外 | シンガポール支店（2023-12〜）| アジア法人サポート、TSUBASA 海外連携 |
+| Corporate lending | Chiba Bank parent bank | Main-bank franchise for mid-sized firms and SMEs in Chiba and eastern Greater Tokyo |
+| Retail deposits and mortgages | Chiba Bank parent bank | Leading prefectural share and suburban housing-demand exposure |
+| Securities | Chibagin Securities | Regional-bank securities subsidiary |
+| Credit cards | Chibagin Card | Regional-bank card business |
+| Leasing | Chibagin Leasing | Corporate leasing |
+| Systems | Chibagin Computer Service | Internal systems and TSUBASA cooperation |
+| Research | Chibagin Research Institute | Chiba regional-economy research |
+| Overseas | Singapore Branch | Asian corporate support and TSUBASA overseas coordination |
 
-### TSUBASA アライアンス主導戦略 ★
+### TSUBASA Alliance strategy
 
-**2015 設立**、千葉銀行が主導した 11 行アライアンス（**地銀ホールディング化を回避しつつスケールメリットを獲得** する代替モデル）：
+The TSUBASA Alliance, launched in 2015 and led by Chiba Bank, is an 11-bank collaboration model designed to obtain scale benefits without a regional-bank holding-company merger.
 
-| 行 | 地盤 |
+| Bank | Home market |
 |---|---|
-| **千葉銀行**（主導）| 千葉県 |
-| 北洋銀行 | 北海道 |
-| 武蔵野銀行 | 埼玉県 |
-| 滋賀銀行 | 滋賀県 |
-| 第四北越銀行 | 新潟県（[[JapanFG/dai-shi-hokuetsu-fg|hokuetsu-fg]] 傘下）|
-| 中国銀行 | 岡山県 |
-| 伊予銀行 | 愛媛県 |
-| 東邦銀行 | 福島県 |
-| 北國銀行 | 石川県 |
-| 京都銀行 | 京都府 |
-| 群馬銀行 | 群馬県 |
+| Chiba Bank, lead bank | Chiba Prefecture |
+| Hokuyo Bank | Hokkaido |
+| Musashino Bank | Saitama |
+| Shiga Bank | Shiga |
+| Daishi Hokuetsu Bank | Niigata, under [[JapanFG/dai-shi-hokuetsu-fg|Daishi Hokuetsu FG]] |
+| Chugoku Bank | Okayama |
+| Iyo Bank | Ehime |
+| Toho Bank | Fukushima |
+| Hokkoku Bank | Ishikawa |
+| Bank of Kyoto | Kyoto |
+| Gunma Bank | Gunma |
 
-**TSUBASA の戦略意義**:
-- **システム共同化**: 勘定系・周辺システムの共同化でコスト削減
-- **海外サポート**: 加盟行の現地拠点を相互利用（シンガポール等）
-- **商品共同開発**: 投信・保険等の共同商品
+Strategic functions include shared systems, mutual overseas support, and jointly developed investment-trust and insurance products.
 
-### ホールディング非実施戦略
+### Standalone-bank strategy
 
-- 一方で **TSUBASA で代替的にスケールメリット獲得**
+Chiba Bank remains a standalone listed bank while using TSUBASA as a scale substitute. This makes it a useful counterexample to holding-company consolidation models such as [[concordia-fg]], [[fukuoka-fg]], [[hokuhoku-fg]], and [[mebuki-fg]].
 
-### 営業地盤
+### Market footprint
 
-- **千葉県全域**: 千葉市・船橋・松戸・柏・市川・成田等
-- **首都圏東部**: 茨城南部・東京東部にも一部展開
-- **海外**: シンガポール（2023-12〜）
+- **Chiba Prefecture**: Chiba City, Funabashi, Matsudo, Kashiwa, Ichikawa, Narita, and surrounding municipalities.
+- **Eastern Greater Tokyo**: selective presence in southern Ibaraki and eastern Tokyo.
+- **Overseas**: Singapore branch from 2023-12.
 
-### デジタル戦略
+### Digital strategy
 
-- 地銀共通 TSUBASA システム共同化基盤
-- ちばぎんアプリ（個人向けデジタルバンキング）
-- 2024-10 AI ソリューション企業 エッジテクノロジー（株）を株式公開買付けで連結子会社化（2024-12 完全子会社化）、グループの DX を強化（2025-03 期決算短信）
-- 詳細は最新 IR 参照
+- TSUBASA shared-system platform for regional banks.
+- Chibagin app for retail digital banking.
+- Acquisition of Edge Technology Co., Ltd. by tender offer in 2024-10 and full subsidiary conversion in 2024-12 to strengthen group DX, as reflected in FY2025/03 disclosures.
 
-### 競合関係
+### Competition
 
-| 競合 | 関係 |
+| Competitor | Relationship |
 |---|---|
-| [[concordia-fg]] | 神奈川地盤の地銀 FG（横浜銀＋東日本銀）— 首都圏地銀 No.1 競合 |
-| 千葉興業銀行 | 千葉県第 2 地銀（同県内競合）|
-| 京葉銀行 | 千葉県第 2 地銀（同県内競合）|
-| 武蔵野銀行 | 埼玉地盤・**TSUBASA 加盟行**（同盟兼隣県競合）|
-| 常陽銀行（[[mebuki-fg]] 傘下）| 茨城地盤・首都圏東部競合 |
+| [[concordia-fg|Concordia FG]] | Kanagawa-based regional-bank group and major Greater Tokyo peer |
+| Chiba Kogyo Bank | Second-tier regional-bank competitor within Chiba Prefecture |
+| Keiyo Bank | Second-tier regional-bank competitor within Chiba Prefecture |
+| Musashino Bank | Saitama-based TSUBASA member and neighboring-market competitor |
+| Joyo Bank, under [[mebuki-fg|Mebuki FG]] | Ibaraki-based and eastern Greater Tokyo competitor |
 
-## 4. 規制・政策
+## 4. Regulation and policy
 
-- **主管**: 金融庁（FSA）
-- **海外規制**: シンガポール MAS（2023-12 支店開設以降）
-- **直近政策論点**:
-  - 2024〜 日銀政策金利正常化 → 地銀の金利マージン改善ボーナス
-  - 2024〜 地銀再編圧力（金融庁の地銀統合促進政策）vs 千葉銀の単独路線
-  - TSUBASA システム共同化深化
+- **Supervisor**: Financial Services Agency.
+- **Overseas supervision**: Monetary Authority of Singapore for the Singapore branch after its 2023-12 opening.
+- **Policy themes**: BOJ rate normalization and regional-bank margin recovery; FSA regional-bank consolidation pressure versus Chiba Bank's standalone route; deeper TSUBASA system integration.
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[concordia-fg]] · [[fukuoka-fg]] · [[mebuki-fg]] · [[JapanFG/dai-shi-hokuetsu-fg|hokuetsu-fg]]
-- TSUBASA アライアンス加盟行（千葉銀主導）
+- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[concordia-fg]] · [[fukuoka-fg]] · [[mebuki-fg]] · [[JapanFG/dai-shi-hokuetsu-fg|Daishi Hokuetsu FG]]
+- TSUBASA Alliance member banks
 
 ## Sources
 
-- **Wikipedia: 株式会社千葉銀行**（https://ja.wikipedia.org/wiki/千葉銀行, 2026-05-19 抽出）
-- 千葉銀行 公式沿革・IR 開示資料（2025）
-- **千葉銀行 2025年3月期 決算短信〔日本基準〕（連結）**（https://ssl4.eir-parts.net/doc/8331/tdnet/2603982/00.pdf, 2025-05-08）── 連結預金 16兆2,519億円・連結総資産 21兆6,312億円・純利益 742億円・従業員 4,076人・店舗 187 か店・設立 1943-03-31
-- TSUBASA アライアンス公式情報
+- Wikipedia: The Chiba Bank, public reference.
+- Chiba Bank official history and IR disclosures.
+- Chiba Bank FY2025/03 consolidated earnings release, dated 2025-05-08.
+- TSUBASA Alliance official information.
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**（v1.1 公開情報 + 公式決算短信ベース、2026-05-19）。預金・総資産・純利益・従業員数・設立日（1943-03-31）は 2025-03 期決算短信で確認・置換（旧 "預金 18-20 兆円規模" 概数・"設立 1943-03-37" 誤記を訂正）。**持株会社化していない単独銀行** だが地銀 FG 並みの規模で重要、TSUBASA アライアンス主導という独自モデルが戦略上の核心。
+> [!info] Validation status
+> confidence: **likely**. Deposit, asset, profit, employee, branch, and establishment figures are based on FY2025/03 disclosures. The strategic reading emphasizes Chiba Bank's standalone-bank status and TSUBASA Alliance role.

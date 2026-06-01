@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.162Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|金融科技索引]]。可与 [[fintech/japan-financial-regulation|日本金融监管]] 和 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币监管格局]] 配套阅读。
 
 > [!info] TL;DR
 > PayPal PYUSD 于 2023-08-07 上线（Ethereum），在 2024-05  跨至 Solana，并迅速升级为其主战场；到 2026-05 ，MCap 达到 **$1B+**。发行方为 Paxos Trust Company（NY DFS），分发方为 PayPal / Venmo，且 **Paxos → PayPal 的利息分配比例为 80-90%**（是 Circle × Coinbase 的镜像）。PYUSD 是**大型支付企业直接品牌化的首个稳定币**，定位于 P2P 零售汇款 + PayPal / Venmo 用户之间的内部转账，意在锁定 GENIUS Act §501  之后“合规白圈”中的零售层。

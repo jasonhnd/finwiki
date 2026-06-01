@@ -13,7 +13,7 @@ translated_at: 2026-05-31T06:16:15.685Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 下。可与日本稳定币监管和金融监管页面一并阅读。
 
 > [!info] TL;DR
 > 通行方法是将市场参与者划分为"竞争阵营"（某金融集团报告中的 7  个阵营、本研究 v1 中的 5  极等）。这隐含了**对称竞争**假设。**实际上，参与者有 4  种结构性动机**，对应**截然不同的退出博弈**。若不理解动机类别，则无法预测各参与者在压力下的行为。

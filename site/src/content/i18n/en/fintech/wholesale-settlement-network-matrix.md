@@ -94,7 +94,7 @@ The regulatory category split is binary: **Fnality is the only system that is bo
 | Partior | **Hyperledger Fabric** derivative | Permissioned BFT | Bilateral bridges with member banks' internal systems |
 | JPM Kinexys | **Quorum** (JPM-developed Ethereum fork; donated to ConsenSys) | Permissioned BFT | JPMD extension to public chains: Base (2025-11) → **Canton** (2026-01) |
 | mBridge | Custom permissioned DLT | **HotStuff BFT** | None planned beyond participating CB networks |
-| Project Agorá | Not finalised; design phase exploring multiple platforms | TBD | Designed to be platform-agnostic |
+| Project Agorá | Not finalised; design phase exploring multiple platforms | Not publicly specified in current design-phase materials | Designed to be platform-agnostic |
 | Project Mariana | Distributed ledger with AMM module | PoC ledger | n/a (research) |
 
 The technology stack pattern: **all production systems use permissioned BFT consensus** (no public-chain consensus); **Quorum / Besu / Fabric** dominate; **Canton emerges in 2026** as JPM's chosen privacy-and-composability target for JPMD; **HotStuff BFT** is unique to mBridge. The platform-agnosticism of Agorá is a deliberate design choice — BIS coordination across 7 G10 central banks cannot mandate a single stack.

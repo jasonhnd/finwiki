@@ -10,51 +10,51 @@ translated_at: 2026-05-31T15:29:03.889Z
 
 # 福祉信托 (Fukushi Trust)
 
-## Wiki route
+## Wiki 路径
 
-Fukushi Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[governance/japan-general-foundation-establishment-requirements|Japan foundation requirements]], and [[JapanFG/hogaraka-trust|Hogaraka Trust]].
+福祉信托是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司入口，并由 [[JapanFG/trust-companies-japan-index|日本信托公司登记索引]]提升为单独页面。请与 [[banking/japan-trust-bank-custody-map|日本信托银行托管地图]]、[[governance/japan-general-foundation-establishment-requirements|日本一般财团法人设立要求]] 和 [[JapanFG/hogaraka-trust|Hogaraka Trust]] 配套阅读。
 
-Use this page for welfare-oriented trust, guardianship-adjacent planning, parent-after-death planning, and family asset administration questions.
+本页用于福利取向信托、成年监护邻接规划、亲亡后规划以及家庭资产管理等问题。
 
-## Overview
+## 概览
 
-Fukushi Trust's public site presents trust products for concerns such as future asset management, incapacity, death, and family support. Its materials include seminars and product explanations around welfare, guardianship, wills, and "parent-after-death" planning.
+福祉信托的公开网站介绍面向未来资产管理、判断能力下降、死亡和家庭支持等问题的信托产品。其公开资料包括围绕福利、监护、遗嘱和亲亡后规划的研讨会及产品说明。
 
-The page matters because welfare-oriented trust is a different lane from real-estate finance or securities trust. It is relevant to household financial planning, guardianship-adjacent asset administration, and social-support design.
+本页之所以重要，是因为福利取向信托不同于房地产金融或证券信托。它连接家庭财务规划、监护邻接资产管理和社会支持设计。
 
-## Entity Boundary
+## 实体边界
 
-| Item | Reading |
+| 项目 | 解读 |
 |---|---|
 | Legal name | ふくし信托株式会社 |
-| License type | Management trust company in the FSA registry |
-| Public focus | Welfare / family asset administration trust |
-| Use-case lane | Incapacity, death, parent-after-death planning, guardianship-adjacent support |
-| Registry route | FSA trust-company list |
+| 牌照类型 | FSA 登记名单中的管理型信托公司 |
+| 公开重点 | 福利 / 家庭资产管理信托 |
+| 使用场景 | 判断能力下降、死亡、亲亡后规划、监护邻接支持 |
+| 登记路径 | FSA 信托公司名单 |
 
-This page is not a public welfare agency or foundation page. It is a private trust-company route for welfare-oriented asset administration.
+本页不是公共福利机构或财团法人页面，而是面向福利取向资产管理的民间信托公司页面。
 
-## Business Role Map
+## 业务角色图
 
-| Function | FinWiki relevance |
+| 功能 | FinWiki 相关性 |
 |---|---|
-| Welfare trust | Routes family support and disability / aging-related asset administration questions. |
-| Guardianship adjacency | Useful when comparing trust with adult guardianship, wills, and post-death arrangements. |
-| Family asset administration | Connects household finance to trustee / beneficiary design. |
-| Social-support finance | Comparator for foundations, welfare programs, and private planning tools. |
+| 福利信托 | 承接家庭支持、残障和老龄化相关的资产管理问题。 |
+| 监护邻接 | 便于比较信托、成年监护、遗嘱和死后安排。 |
+| 家庭资产管理 | 将家庭金融与受托人 / 受益人设计连接起来。 |
+| 社会支持金融 | 可与财团、福利项目和私人规划工具对照。 |
 
-## Public Context
+## 公开语境
 
-Fukushi Trust belongs in FinWiki because Japanese financial infrastructure includes household and welfare planning, not only institutional markets. It helps distinguish private trust tools from public benefits, guardianship, and foundation structures.
+福祉信托属于 FinWiki 的覆盖范围，因为日本金融基础设施不仅包含机构市场，也包含家庭和福利规划。该页面有助于区分私人信托工具、公共福利、监护制度和财团结构。
 
-Do not infer legal suitability for an individual family situation. Product design, tax, guardianship, and inheritance treatment require legal / tax sources.
+不得据此推断某一家庭个案的法律适用性。产品设计、税务、监护和继承处理均需另行引用法律和税务资料。
 
-## Research Checklist
+## 研究清单
 
-1. Confirm current registration in the FSA trust-company list.
-2. Use the company site for product themes and seminar / service descriptions.
-3. Separate trust-company role from lawyer, guardian, social worker, and foundation roles.
-4. Link to governance or foundation pages only for structural comparison.
+1. 核对其在 FSA 信托公司名单中的最新登记状态。
+2. 以公司网站确认产品主题、研讨会和服务说明。
+3. 将信托公司角色与律师、监护人、社会工作者和财团角色分开。
+4. 仅在结构比较目的下链接治理或财团页面。
 
 ## 相关
 
@@ -67,5 +67,5 @@ Do not infer legal suitability for an individual family situation. Product desig
 
 ## 来源
 
-- FSA: trust company list.
-- Fukushi Trust: official site and public product / seminar materials.
+- FSA：信托公司名单。
+- 福祉信托：官方网站及公开产品 / 研讨会资料。

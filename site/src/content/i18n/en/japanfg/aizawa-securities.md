@@ -10,115 +10,114 @@ translated_at: 2026-05-31T11:13:44.890Z
 
 # Aizawa Securities
 
+## Wiki Route
 
-## Wiki route
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/aizawa-sg|Aizawa Securities Group]] for parent-holding context, [[JapanFG/iwai-cosmo-securities|IwaiCosmo Securities]], [[JapanFG/tokai-tokyo-securities|Tokai Tokyo Securities]], and [[JapanFG/okasan-sg|Okasan Securities Group]] for mid-tier independent securities peers, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/aizawa-sg|アイザワ証券グループ]] for parent holding context, [[JapanFG/iwai-cosmo-securities|岩井コスモ証券]] / [[JapanFG/tokai-tokyo-securities|東海東京証券]] / [[JapanFG/okasan-sg|岡三証券グループ]] for peer mid-tier independent securities, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
+## TL;DR
 
-##TL;DR
+Aizawa Securities Co., Ltd. is a Tokyo-based mid-sized independent securities company and the core wholly owned operating subsidiary of [[JapanFG/aizawa-sg|Aizawa Securities Group (8708)]], listed on TSE STANDARD. Its origin is Yahachi Aizawa's 1918 establishment of Aizawa Securities Store in Nihonbashi Kabutocho; it incorporated in 1948 and moved into the current holding-company structure in 2017-04. The firm is a **Type I financial instruments business operator registered with the Kanto Local Finance Bureau Director (Kinsho) No. 3198**. Its distinctive position is as a Japanese retail securities firm specializing in emerging Asian equities, including Vietnam, Indonesia, Thailand, Cambodia, and Myanmar, through local subsidiaries and partner brokers. That Asian equity focus differentiates it from more domestically oriented independent peers such as [[JapanFG/iwai-cosmo-securities|IwaiCosmo Securities]] and [[JapanFG/marusan-securities|Marusan Securities]].
 
-Aizawa Securities Co., Ltd. is a medium-sized independent securities company based in Kabutocho, Nihonbashi, Tokyo, listed on the TSE STANDARD. [[JapanFG/aizawa-sg|アイザワ証券グループ (8708)]] core of 100% subsidiary.1918 年(Taisho 7 Year)2 Moon Yahachi Aizawa establishes “Aizawa Securities Store” in Kabutocho, Nihonbashi, Tokyo → 1948 Became a corporation → 2017-04 The current structure was established by becoming a holding company. **Financial instruments business operator Kanto Local Finance Bureau (Kinsho)第3198号**（FIEA Type 1 Type 1 Financial Instruments Transaction Business). **With a unique position as a ``specialist securities firm for investment in emerging Asian countries''**, we have the widest coverage of emerging Asian countries (Vietnam, Indonesia, Thailand, Cambodia, and Myanmar) among Japanese securities companies, and are unique in that we provide individual stock brokerage through local subsidiaries and partners. [[JapanFG/iwai-cosmo-securities|岩井コスモ証券]]・[[JapanFG/marusan-securities|丸三証券]] Differentiating factors from pure domestic independent securities such as
+## 1. Corporation / Shareholder
 
-## 1. Corporation/Shareholder
+- **Trade name**: Aizawa Securities Co., Ltd.
+- **Founding origin**: February 1918, when Yahachi Aizawa established Aizawa Securities Store in Nihonbashi Kabutocho, Tokyo.
+- **Incorporation**: 1948, as Aizawa Securities Co., Ltd.
+- **Current holding-company structure**: since 2017-04, when it became a wholly owned subsidiary of [[JapanFG/aizawa-sg|Aizawa Securities Group]].
+- **Head office**: 20-3 Nihonbashi Kabutocho, Chuo-ku, Tokyo 103-0026.
+- **Capital**: approximately JPY 6.3 billion.
+- **Parent company**: [[JapanFG/aizawa-sg|Aizawa Securities Group Co., Ltd.]], TSE STANDARD 8708, headquartered in Tokyo, 100% ownership.
+- **Representative**: representative director and president.
+- **Employees**: approximately 750 on an HD consolidated basis.
 
-- **Trade name**: Aizawa Securities Co., Ltd. (English: Aizawa Securities Co., Ltd.)
-- **Entrepreneurship**:1918 年(Taisho 7 Year)2 Month — Yahachi Aizawa establishes “Aizawa Securities Store” in Kabutocho, Nihonbashi, Tokyo
-- **Corporatization**:1948 年(Aizawa Securities Co., Ltd.)
-- **Current structure due to holding company**:2017 年 4 月 — [[JapanFG/aizawa-sg|アイザワ証券グループ]] Became a wholly owned subsidiary upon establishment
-- **Our store location**:〒103-0026 Nihonbashi Kabutocho, Chuo-ku, Tokyo 20-3
-- **Capital**:63 億円overtake
-- **Parent company**:[[JapanFG/aizawa-sg|アイザワ証券グループ]] Co., Ltd. (TSE STANDARD 8708, head office Tokyo)100% Contribution
-- **Representative**: Representative Director and President
-- **Number of employees**: approx. 750 名(HD consolidated basis)
+## 2. License / Registration
 
-## 2.License/Registration
-
-- **Type 1 Financial Instruments Transaction Business**: Director of Kanto Local Finance Bureau (Kinsho)第3198号
+- **Type I financial instruments business**: Kanto Local Finance Bureau Director (Kinsho) No. 3198.
 - **Industry association membership**:
-  - Full member of Japan Securities Dealers Association (JSDA)
-  - Financial Futures Association, General Incorporated Association
-  - Type 2 Financial Instruments Business Association, General Incorporated Association
-  - Japan Investment Advisors Association
-- **Trading participation rights**:[[securities/tokyo-stock-exchange|TSE]]・[[securities/osaka-exchange|OSE]] Trading participants/[[securities/japan-securities-clearing-corp|JSCC]] clearing participants
+  - Japan Securities Dealers Association full member.
+  - Financial Futures Association of Japan.
+  - Type II Financial Instruments Firms Association.
+  - Japan Investment Advisers Association.
+- **Trading participation rights**: trading participant of [[securities/tokyo-stock-exchange|TSE]] and [[securities/osaka-exchange|OSE]]; clearing participant of [[securities/japan-securities-clearing-corp|JSCC]].
 
-## 3. Sales base
+## 3. Sales Base
 
-- **Face-to-face sales**: Nationwide 40 Super-based stores and sales offices — Mainly in Kanto base (Tokyo, Kanagawa, Chiba, Saitama), but also in Kansai, Tokai, Kyushu, and Hokkaido
-- **Online trading**: “Aizawa Securities Online” platform — Japanese stocks, US stocks, major Asian emerging country stocks
-- **Call Center**:1 Base (Tokyo)
-- **Overseas bases/partners**:
-  - **Vietnam**: Investment in/partnership with our local subsidiary Asia Plus Securities (APSC), etc.
-  - **Thailand**: Business alliance with local securities company
-  - **Indonesia, Cambodia, Myanmar**: Brokerage partnership with local brokers
-- **Family office function**: Asset management consulting for high net worth individuals/managers
+- **Face-to-face sales**: more than 40 branches and sales offices nationwide, with a core base in Kanto and additional coverage in Kansai, Tokai, Kyushu, and Hokkaido.
+- **Online trading**: Aizawa Securities Online, covering Japanese equities, U.S. equities, and major emerging Asian equities.
+- **Call center**: one base in Tokyo.
+- **Overseas bases and partners**:
+  - **Vietnam**: investment in and partnership with Asia Plus Securities and related local entities.
+  - **Thailand**: business alliance with a local securities company.
+  - **Indonesia, Cambodia, Myanmar**: brokerage partnerships with local brokers.
+- **Family-office function**: asset-management consulting for high-net-worth individuals and owner-managers.
 
-## 4. Business segment
+## 4. Business Segments
 
 | Segment | Content | Positioning |
 |---|---|---|
-| Domestic stock brokerage | Japanese stocks (TSE / OSE / Nagoya Stock Exchange / Fukusho Securities / Sapporo Securities) | Main revenue pillars |
-| Overseas stock brokerage | US stocks, Greater China (HKEX / NYSE / NASDAQ), emerging Asian countries | **Differentiated segments** |
-| Investment trust sales | Domestic and overseas publicly offered investment trusts and private placements | Retail base |
-| Bond underwriting and sales | Domestic bonds, foreign bonds, and emerging market bonds | Medium-sized independent securities standards |
-| Stock underwriting (including IPO) | Small and medium-sized IPO lead manager/deputy manager | Limited but continuous |
-| Corporate/Wealthy Sales | Consulting/Business Succession/M&A Brokerage | Expanding Areas |
+| Domestic stock brokerage | Japanese equities across TSE, OSE, Nagoya, Fukuoka, and Sapporo markets | Main revenue pillar |
+| Overseas stock brokerage | U.S. equities, Greater China equities, and emerging Asian equities | Differentiated segment |
+| Investment trust sales | Domestic and overseas public investment trusts and private placements | Retail base |
+| Bond underwriting and sales | Domestic, foreign, and emerging-market bonds | Mid-sized independent securities baseline |
+| Stock underwriting, including IPOs | Small and mid-sized IPO lead-manager and co-manager roles | Limited but continuous |
+| Corporate and wealth sales | Consulting, business succession, and M&A brokerage | Expanding area |
 
-## 5Parent company/group relations
+## 5. Parent Company / Group Relations
 
-[[JapanFG/aizawa-sg|アイザワ証券グループ]] (8708) teeth 2017-04 An intermediate holding company established as a holding company. Aizawa Securities itself is the company's 100% A core operating company that is a subsidiary and accounts for the majority of the group's profits. HD has Aizawa Investments (asset management) and related overseas local subsidiaries.
+[[JapanFG/aizawa-sg|Aizawa Securities Group]] (8708) is the intermediate holding company established in 2017-04. Aizawa Securities itself is the group's wholly owned core operating company and accounts for most group earnings. The group also includes Aizawa Investments for asset management and related overseas local subsidiaries.
 
-It does not belong to any mega-affiliated company, regional bank affiliate, or major securities affiliate, and maintains an independent shareholder structure consisting of the founding family (Aizawa family), related parties, and business partners.
+The firm is not affiliated with a megabank group, regional bank group, or major securities house. It maintains an independent shareholder structure built around the founding Aizawa family, related parties, and business partners.
 
-## 6.Competitors/Industry Position
+## 6. Competitors / Industry Position
 
-| Indicators | Aizawa Securities | [[JapanFG/iwai-cosmo-securities|岩井コスモ]] | [[JapanFG/marusan-securities|丸三]] | [[JapanFG/tokai-tokyo-securities|東海東京]] |
+| Indicator | Aizawa Securities | [[JapanFG/iwai-cosmo-securities|IwaiCosmo]] | [[JapanFG/marusan-securities|Marusan]] | [[JapanFG/tokai-tokyo-securities|Tokai Tokyo]] |
 |---|---|---|---|---|
-| Head office location | Tokyo, Nihonbashi | Osaka, Imabashi | Tokyo, Nihonbashi | Nagoya, Meieki |
-| Sales base | Kanto/overseas | Kansai center | Kanto center | Tokai center |
-| Axis of differentiation | **Emerging countries in Asia** | Kansai wealthy class | Long-established brands | Regional bank alliances |
-| Parent HD | Aizawa Securities G | Iwai Cosmo HD | Marusan Securities | Tokai Tokyo FH |
+| Head office location | Nihonbashi, Tokyo | Imabashi, Osaka | Nihonbashi, Tokyo | Meieki, Nagoya |
+| Sales base | Kanto plus overseas access | Kansai-centered | Kanto-centered | Tokai-centered |
+| Differentiation axis | **Emerging Asia equities** | Kansai affluent clients | Long-established retail brand | Regional-bank alliances |
+| Parent HD | Aizawa Securities Group | IwaiCosmo Holdings | Marusan Securities | Tokai Tokyo FH |
 
-## 7.Strategy/Recent Trends
+## 7. Strategy / Recent Trends
 
-- **Shift to emerging countries in Asia**: Against the backdrop of the expanding middle class in countries such as Vietnam and Thailand, continue to strengthen individual stock brokerage in emerging countries for Japanese individual investors
-- **Going online**: Strengthen online trading functions (account opening/trading tools) while retaining the business structure centered on face-to-face sales.
-- **Business succession/shift to the wealthy**: A common theme for Japanese mid-sized independent securities companies — Allocation of face-to-face sales resources to the needs of wealthy individuals/managers (M&A intermediation, inheritance, asset succession)
-- **Asset management business**: Expansion of discretionary investment/investment advisory services through Aizawa Investments
-- **NISA system permanentization support**:2024-01 Acquisition of retail accounts with the launch of new NISA
+- **Emerging Asia focus**: continues to strengthen brokerage of emerging-market Asian equities for Japanese individual investors, backed by middle-class expansion in countries such as Vietnam and Thailand.
+- **Online migration**: strengthens account-opening and trading tools while retaining a face-to-face sales structure.
+- **Business succession and affluent-client shift**: reallocates face-to-face sales resources toward owner-manager needs, including M&A intermediation, inheritance, and asset succession.
+- **Asset-management business**: expands discretionary investment and advisory services through Aizawa Investments.
+- **NISA support**: uses the 2024-01 launch of the new NISA framework as a retail account-acquisition opportunity.
 
-## 8.Main KPIs (overview)
+## 8. Main KPIs
 
-| Project | Sense of Scale |
+| Item | Scale |
 |---|---|
-| Parent HD listing classification | TSE STANDARD 8708 |
-| Parent HD operating revenue (consolidated) | Mid-sized independent securities range (200 億円Taiwan) |
-| Number of stores nationwide | 40 Base Super |
-| Number of employees (consolidated) | Approx. 750 名 |
-| Number of Asian emerging countries covered | 5 Before and after countries |
+| Parent HD listing | TSE STANDARD 8708 |
+| Parent HD operating revenue | Mid-sized independent securities range, roughly JPY 20 billion class |
+| Nationwide branch count | More than 40 bases |
+| Employees | Approximately 750 consolidated |
+| Emerging Asian countries covered | Around five countries |
 
-Detailed financial details [[JapanFG/aizawa-sg|親 HD]] Please refer to the annual securities report.
+Detailed financials should be read through the [[JapanFG/aizawa-sg|parent holding company's]] annual securities report.
 
-## 9. Risk/regulatory issues
+## 9. Risk / Regulatory Issues
 
-- **Dependency of earnings on retail/market conditions**: Because the business model is centered on face-to-face retail, earnings are linked to stock market prices and trading values. Easily affected by deterioration in market conditions
-- **Emerging country country risk**: Brokerage business in emerging countries in Asia includes risks of local currency fluctuations, political situations, and regulatory changes.
-- **Face-to-face sales vs. online securities competition**:[[JapanFG/matsui-sec|松井証券]]・[[JapanFG/monex-group|マネックスグループ]]・Under pressure from SBI Securities and other online securities companies to waive commission fees, proving the added value of face-to-face sales continues to be an issue.
-- **Financial Instruments and Exchange Act Compliant**: FIEA Type 1 Continuing to strengthen compliance principles, accountability, and conflict of interest management under regulations
+- **Retail and market-condition earnings sensitivity**: face-to-face retail brokerage earnings move with equity market levels and trading values.
+- **Emerging-market country risk**: Asian emerging-market brokerage carries local-currency, political, and regulatory risk.
+- **Face-to-face sales vs. online brokerage competition**: [[JapanFG/matsui-sec|Matsui Securities]], [[JapanFG/monex-group|Monex Group]], SBI Securities, and other online brokers pressure commission economics, making the value of face-to-face service a continuing proof point.
+- **Financial Instruments and Exchange Act compliance**: as a Type I operator, the firm must continue strengthening suitability, accountability, and conflict-of-interest controls.
 
 ## Related
 
-- [[JapanFG/aizawa-sg|アイザワ証券グループ]] — Parent HD
-- [[JapanFG/iwai-cosmo-securities|岩井コスモ証券]] — Kansai-Based Independent Medium-sized Securities Peer
-- [[JapanFG/tokai-tokyo-securities|東海東京証券]] — Tokai Foundation Independent Medium-sized Securities Peer
-- [[JapanFG/marusan-securities|丸三証券]] — Kanto-Based Independent Medium-sized Securities Peer
-- [[JapanFG/okasan-sg|岡三証券グループ]] — Nagoya-based independent medium-sized securities peer
+- [[JapanFG/aizawa-sg|Aizawa Securities Group]] — parent holding company
+- [[JapanFG/iwai-cosmo-securities|IwaiCosmo Securities]] — Kansai-based mid-sized independent securities peer
+- [[JapanFG/tokai-tokyo-securities|Tokai Tokyo Securities]] — Tokai-region mid-sized independent securities peer
+- [[JapanFG/marusan-securities|Marusan Securities]] — Kanto-based mid-sized independent securities peer
+- [[JapanFG/okasan-sg|Okasan Securities Group]] — Nagoya-based mid-sized independent securities peer
 - [[JapanFG/INDEX|JapanFG index]]
-- [[securities/INDEX|Securities domain index]]
+- [[securities/INDEX|securities domain index]]
 
 ## Sources
 
-- Aizawa Securities Official Company Profile: https://www.aizawa.co.jp/company/profile/
-- Aizawa Securities Official History: https://www.aizawa.co.jp/company/history/
-- Aizawa Securities Group Official Company Profile: https://www.aizawa-sg.co.jp/company/outline.html
-- Financial Services Agency Financial Instruments Business Operator Registration List: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
-- EDINET Securities Report (8708 Aizawa Securities Group)
+- Aizawa Securities official company profile: https://www.aizawa.co.jp/company/profile/
+- Aizawa Securities official history: https://www.aizawa.co.jp/company/history/
+- Aizawa Securities Group official company profile: https://www.aizawa-sg.co.jp/company/outline.html
+- Financial Services Agency financial instruments business operator registration list: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- EDINET securities report for 8708 Aizawa Securities Group.

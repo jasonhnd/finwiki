@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.952Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ssnb|住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/ssnb|SBI Sumishin Net Bank, now docomo SMTB Net Bank]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -35,20 +35,20 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | GMO Internet Group (TSE PRIME 9449 ) | 25.00% | 7.43% |
 | GMO Financial Holdings | 25.00% | 7.43% |
 
-> 経緯：GMO は当初 15% 出資（2016-05）→ 2018-07 にネット銀行化（議決権ベースで過半取得）。2016 年の株主間契約に基づき、2023 年にあおぞら銀行保有の種類株式が GMO フィナンシャルホールディングスへ譲渡。普通株（持株）ベースではあおぞら 50% / GMO 両社計 50% だが、あおぞら保有分の一部が議決権制限付種類株式のため、**議決権ではあおぞら 85.12% / GMO 両社各 7.43%** となる。比率は IR 開示で動くため最新は各社開示を参照。
+> Background: GMO initially invested 15% in 2016-05, then converted the entity into an internet bank in 2018-07 by acquiring majority voting rights. Under the 2016 shareholder agreement, in 2023 Aozora Bank transferred certain class shares to GMO Financial Holdings. On a common-stock shareholding basis, Aozora holds 50% and the two GMO entities together hold 50%; because part of Aozora's position consists of voting-restricted class shares, the voting-rights ratio is **Aozora 85.12% / each GMO entity 7.43%**. The ratio can move with IR disclosures; use the latest company disclosures for current figures.
 
 ### Position within group
 
 ```
-GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
-  ├── GMO あおぞらネット銀行（持株 25% [GMO IG] + 25% [GMO FH]、議決権各 7.43%）── 法人 BaaS ネット銀行
-  ├── GMO ペイメントゲートウェイ（東証 PRIME 3769）── 決済処理 ICT
-  ├── GMO コイン ── 暗号資産取引所
-  ├── GMO クリック証券 ── ネット証券・FX
-  ├── GMO クラウド / GMO ペパボ ── インフラ・ホスティング
-  └── GMO リサーチ / GMO アドパートナーズ ── 広告・調査
+GMO Internet Group (TSE PRIME 9449; Masatoshi Kumagai)
+  +-- GMO Aozora Net Bank (25% held by GMO IG + 25% by GMO FH; 7.43% voting rights each) -- corporate BaaS internet bank
+  +-- GMO Payment Gateway (TSE PRIME 3769) -- payment-processing ICT
+  +-- GMO Coin -- crypto-asset exchange
+  +-- GMO Click Securities -- online securities and FX
+  +-- GMO Cloud / GMO Pepabo -- infrastructure and hosting
+  +-- GMO Research / GMO Ad Partners -- advertising and research
 [[aozora-bank]]（東証 PRIME 8304）
-  └── GMO あおぞらネット銀行（持株 50%・議決権 85.12%、種類株式中心）── 筆頭株主
+  +-- GMO Aozora Net Bank (50% shareholding, 85.12% voting rights, mainly class shares) -- largest shareholder
 ```
 
 ### History ^[extracted]

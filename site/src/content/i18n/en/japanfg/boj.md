@@ -15,7 +15,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-**日本の中央銀行**（**1882-10-10 設立、JASDAQ 出資証券コード 8301**）。**1997 全面改正日本銀行法**で「金融政策決定の独立性」「物価安定使命」「業務透明性」が明文化。**4 大機能**: 通貨発行（日本銀行券）・金融政策（短期金利と長期金利の操作）・銀行の銀行（民間銀行口座開設・資金決済 = [[systems/bojnet|BoJ-NET]]）・政府の銀行（国庫金事務 + 国債発行・流通）。**政策委員会**（総裁 + 副総裁 2 名 + 審議委員 6 名 = 計 9 名）が金融政策を決定。2013-04 [[JapanFG/boj-monetary-policy|量的・質的金融緩和（QQE）]] → 2016 マイナス金利付き QQE → 2024-03 マイナス金利・YCC 撤廃 → 2024-07 利上げ開始 → **2024-2025 利上げサイクル**へ移行。長期保有国債残高は 2024 ピーク時 600 兆円超で世界最大級。
+**The central bank of Japan** (**established 1882-10-10; JASDAQ securities code 8301**). The fully revised 1997 Bank of Japan Act clarified monetary-policy independence, the price-stability mandate, and business transparency. Its four core functions are currency issuance, monetary policy, bank-of-banks settlement through [[systems/bojnet|BoJ-NET]], and government banking for treasury operations and JGB issuance / circulation. The Policy Board, consisting of the Governor, two Deputy Governors, and six Members, decides monetary policy. Policy moved from QQE in 2013-04 to negative-rate QQE in 2016, the end of negative rates and YCC in 2024-03, and a rate-hike cycle from 2024-07 onward. Long-term JGB holdings exceeded JPY 600 trillion at the 2024 peak, among the largest central-bank balance-sheet positions globally.
 
 ## 1. Legal basis/establishment
 

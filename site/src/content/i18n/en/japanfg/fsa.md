@@ -11,134 +11,130 @@ translated_at: 2026-05-31T15:29:03.909Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/boj|日本銀行]] for the central-bank counterpart, and [[JapanFG/dic|預金保険機構]] / [[JapanFG/sonpo-hosho-kiko|損保機構]] / [[JapanFG/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/boj|Bank of Japan]] for the central-bank counterpart, and [[JapanFG/dic|Deposit Insurance Corporation of Japan]], [[JapanFG/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]], and [[JapanFG/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for safety-net institutions within the supervised financial system.
 
 ## TL;DR
 
-**日本の銀行・保険・証券・暗号資産業を一元監督する内閣府外局**。**2000-07-01 大蔵省（旧 MoF）から分離・金融監督庁 → 2000-07 金融庁** へ。前史: 1998 大蔵省接待汚職事件 → 銀行行政の信頼失墜 → 「銀行監督」「金融政策」分離方針。**戦略局（旧総合政策局）+ 監督局 + 検査局（廃止統合済）+ 企画市場局**（執行体制再編後、現在は **総合政策局 + 企画市場局 + 監督局 + 政策立案総括審議官** 体制）。長官は事務方トップ、その上に **金融担当大臣**（内閣府特命担当大臣）が政治指揮。仮想通貨/暗号資産規制（2017 改正資金決済法）、コーポレートガバナンス・コード（2014）、スチュワードシップ・コード（2014）、サステナビリティ開示（2022〜）等、ここ 10 年で監督領域は大幅拡大。
+The Financial Services Agency is the Cabinet Office external agency that centrally supervises Japan's banking, insurance, securities, asset-management, funds-transfer, lending, and crypto-asset sectors. It was established on 2000-07-01 after the separation of financial supervision from the former Ministry of Finance. Its institutional history reflects the late-1990s loss of trust in bank supervision and the policy decision to separate financial regulation from monetary policy. The agency is led administratively by the Commissioner and politically by the Minister of State for Financial Services. Over the past decade, its scope has expanded through crypto-asset exchange registration, the Corporate Governance Code, the Stewardship Code, sustainability disclosure, and digital-securities / electronic-payment-instrument regulation.
 
-## 1. 法的根拠・設立
+## 1. Legal basis and establishment
 
-**正式名**: 金融庁
-**英名**: Financial Services Agency (FSA)
-**法的根拠**: **金融庁設置法**（平成 10 年法律第 130 号）+ **内閣府設置法**
-**設立**: **2000-07-01**（金融監督庁 → 金融庁に改組）
-**位置付け**: **内閣府外局**
-**本部**: 東京都千代田区霞が関 3-2-1
-**主管大臣**: **金融担当大臣**（内閣府特命担当大臣、首相直属）
-**長官**: 事務方トップ
+**Official name**: Financial Services Agency
+**Legal basis**: Act for Establishment of the Financial Services Agency, Act for Establishment of the Cabinet Office
+**Established**: 2000-07-01, through the reorganization of the Financial Supervisory Agency
+**Institutional position**: external agency of the Cabinet Office
+**Head office**: 3-2-1 Kasumigaseki, Chiyoda-ku, Tokyo
+**Responsible minister**: Minister of State for Financial Services
+**Administrative head**: Commissioner of the Financial Services Agency
 
-### 沿革
+### Institutional history
 
+```text
+Before 1998 : Former Ministry of Finance banking, securities, and international-finance bureaus supervised finance
+1998        : Ministry of Finance entertainment-corruption scandal damaged trust in bank supervision
+1998-06     : Financial Supervisory Agency established and supervisory functions separated from the Ministry of Finance
+2000-07     : Financial Supervisory Agency and Financial Reconstruction Commission secretariat reorganized into the FSA
+2001-01     : Central-government reorganization placed the FSA as a Cabinet Office external agency
+2017-04     : Crypto-asset exchange registration regime began
+2018-07     : Inspection and supervision functions were reorganized into an integrated supervisory model
 ```
-〜1998   大蔵省 銀行局 / 証券局 / 国際金融局 が一元監督
-1998     大蔵省接待汚職事件 → 銀行行政の信頼失墜
-1998-06  金融監督庁 設置（大蔵省から監督機能分離）
-2000-07  **金融再生委員会と統合 → 金融庁発足**
-2001-01  中央省庁再編 → 内閣府外局として再定置
-2017-04  仮想通貨交換業者登録制度 開始
-2018-04  企画市場局 + 監督局体制が定着
-```
 
-### 重要年表
+### Selected milestones
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| 1998-03 | 大蔵省接待汚職事件 → 国会答弁・銀行行政信頼失墜 |
-| **1998-06** | **金融監督庁 発足** |
-| 1998-10 | 金融再生委員会発足（銀行破綻処理担当）|
-| **2000-07** | **金融監督庁 + 金融再生委員会事務局 → 金融庁発足** |
-| 2003-05 | [[JapanFG/resona-hd|りそな]] 公的資金注入・実質国有化 |
-| **2006-06** | **金融商品取引法 成立**（証券取引法を全面改正）|
-| 2007-09 | 金融商品取引法 施行 |
-| **2014-06** | **スチュワードシップ・コード 公表** |
-| **2014-06** | **コーポレートガバナンス・コード 公表（東証と共同）** |
-| **2017-04** | **改正資金決済法施行 → 仮想通貨（暗号資産）交換業者登録制度** |
-| 2018-01 | コインチェック流出事件 → 暗号資産規制強化 |
-| 2020 | **コロナ対応金融政策・モラトリアム・電子決済等代行業強化** |
-| **2022-04** | **金融商品取引法改正 → サステナビリティ開示強化** |
-| 2023-04 | デジタル証券（ST）規制整備 |
+| 1998-06 | Financial Supervisory Agency established |
+| 1998-10 | Financial Reconstruction Commission established for bank-failure resolution |
+| 2000-07 | FSA established through reorganization |
+| 2003-05 | Public capital injection and effective nationalization of [[JapanFG/resona-hd|Resona]] |
+| 2006-06 | Financial Instruments and Exchange Act enacted, replacing the Securities and Exchange Act framework |
+| 2007-09 | Financial Instruments and Exchange Act came into force |
+| 2014-06 | Stewardship Code published |
+| 2014-06 | Corporate Governance Code published jointly with the Tokyo Stock Exchange |
+| 2017-04 | Revised Payment Services Act introduced crypto-asset exchange registration |
+| 2018-01 | Coincheck incident triggered intensified crypto-asset supervision |
+| 2020 | Pandemic-era finance policy, moratoria, and electronic-payment-agency oversight became policy themes |
+| 2022-04 | Financial Instruments and Exchange Act revisions strengthened sustainability disclosure |
+| 2023-04 | Digital-securities regulatory framework advanced |
 
-## 2. 組織体制（現行）
+## 2. Current organization
 
-```
-金融担当大臣（内閣府特命担当大臣・政治指揮）
-   │
-金融庁長官（事務方トップ）
-   ├── 金融国際審議官（国際・グローバル業務）
-   ├── 政策立案総括審議官
-   │
-   ├── [[JapanFG/fsa-strategy-bureau|総合政策局（戦略局）]] ── 監督全般・横断政策
-   ├── [[JapanFG/fsa-planning-coordination-bureau|企画市場局]] ── 制度設計・市場規制
-   ├── [[JapanFG/fsa-supervision-bureau|監督局]] ── 個別業者監督（銀行・保険・証券）
-   ├── [[JapanFG/fsa-inspection-bureau|検査局]]（旧体制、現在は監督局・総合政策局に統合済）
-   │
-   └── 証券取引等監視委員会（SESC、3 条委員会）
-            証券市場の検査・調査・告発
+```text
+Minister of State for Financial Services
+   |
+Commissioner of the Financial Services Agency
+   ├── Vice Commissioner for International Affairs
+   ├── Deputy Commissioner for Policy Planning and Coordination
+   ├── [[JapanFG/fsa-strategy-bureau|Strategy Development and Management Bureau]]
+   ├── [[JapanFG/fsa-planning-coordination-bureau|Policy and Markets Bureau]]
+   ├── [[JapanFG/fsa-supervision-bureau|Supervision Bureau]]
+   ├── [[JapanFG/fsa-inspection-bureau|Inspection Bureau, historical function integrated after reorganization]]
+   └── Securities and Exchange Surveillance Commission (SESC)
 ```
 
-※ 検査局は 2018-07 組織改革で監督局・総合政策局に機能統合。現在は「検査・監督一体運営」体制。
+The former inspection-bureau model was functionally integrated through the 2018 reorganization. Current practice emphasizes integrated inspection and supervision rather than treating on-site inspections as a separate institutional channel.
 
-### 主要審議会・会議体
+### Key councils and bodies
 
-- **金融審議会**: 政策諮問機関、制度改正の議論ハブ
-- **金融機能強化審査会**: 公的資金注入案件審査
-- **公認会計士・監査審査会**: 会計士監督
-- **証券取引等監視委員会**（SESC）: 市場監視
+- **Financial System Council**: policy advisory forum and venue for legislative design.
+- **Financial Functions Strengthening Review Board**: review of public-capital support cases.
+- **Certified Public Accountants and Auditing Oversight Board**: oversight of auditors.
+- **Securities and Exchange Surveillance Commission**: market surveillance, inspections, investigations, and referral of cases.
 
-## 3. 監督対象
+## 3. Supervised sectors
 
-| 業態 | 監督根拠法 | 主要対象 |
+| Sector | Principal law | Examples |
 |---|---|---|
-| **銀行** | 銀行法 | [[JapanFG/mufg-bank|MUFG]] / [[JapanFG/smbc|SMBC]] / [[JapanFG/mizuho-bank|みずほ]] / 地銀 / 信金 等 |
-| **証券** | 金融商品取引法 | [[JapanFG/nomura-hd|野村]] / [[JapanFG/daiwa-sg|大和]] / [[JapanFG/mizuho-securities|みずほ証券]] 等 |
-| **保険** | 保険業法 | [[JapanFG/tokio-marine-hd|東京海上]] / [[JapanFG/dai-ichi-life-hd|第一生命]] / [[JapanFG/kampo-life|かんぽ]] 等 |
-| **資産運用** | 金融商品取引法 | 投信投資顧問業者 |
-| **資金移動業** | 資金決済法 | [[JapanFG/paypay|PayPay]] / [[JapanFG/line-pay|LINE Pay]] 等 |
-| **暗号資産業** | 改正資金決済法（2017）| [[JapanFG/bitflyer|bitFlyer]] / [[JapanFG/gmo-coin|GMO コイン]] 等 |
-| **貸金業** | 貸金業法 | [[JapanFG/acom|アコム]] / [[JapanFG/aiful|アイフル]] 等 |
+| Banking | Banking Act | [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/smbc|SMBC]], [[JapanFG/mizuho-bank|Mizuho Bank]], regional banks, shinkin banks |
+| Securities | Financial Instruments and Exchange Act | [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/mizuho-securities|Mizuho Securities]] |
+| Insurance | Insurance Business Act | [[JapanFG/tokio-marine-hd|Tokio Marine]], [[JapanFG/dai-ichi-life-hd|Dai-ichi Life]], [[JapanFG/kampo-life|Japan Post Insurance]] |
+| Asset management | Financial Instruments and Exchange Act | Investment trust and investment advisory operators |
+| Funds transfer | Payment Services Act | [[JapanFG/paypay|PayPay]], [[JapanFG/line-pay|LINE Pay]] |
+| Crypto assets | Revised Payment Services Act and related FIEA rules | [[JapanFG/bitflyer|bitFlyer]], [[JapanFG/gmo-coin|GMO Coin]] |
+| Money lending | Money Lending Business Act | [[JapanFG/acom|ACOM]], [[JapanFG/aiful|AIFUL]] |
 
-### コーポレートガバナンス・コード（2014〜）
+### Corporate Governance Code
 
-- [[JapanFG/japan-exchange-group|JPX]] と共同策定
-- プライム市場では遵守 or 説明（comply-or-explain）原則
-- 取締役会の独立性・多様性・指名報酬委員会等の明文化
-- 2018 / 2021 改訂で社外取締役・独立社外取締役比率・サステナビリティ等強化
+- Prepared jointly with [[JapanFG/japan-exchange-group|JPX]].
+- Prime Market issuers follow a comply-or-explain approach.
+- The code formalizes board independence, diversity, nomination and remuneration committees, and sustainability governance.
+- 2018 and 2021 revisions strengthened outside-director, independent-director, and sustainability expectations.
 
-### スチュワードシップ・コード（2014〜）
+### Stewardship Code
 
-- 機関投資家の議決権行使・対話原則
-- 2017 / 2020 改訂で ESG・サステナビリティ・パッシブファンドへの拡張
+- Sets principles for institutional-investor voting, engagement, and stewardship.
+- 2017 and 2020 revisions expanded coverage to ESG, sustainability, and passive investment.
 
-### 暗号資産規制（2017〜）
+### Crypto-asset regulation
 
-- 改正資金決済法で暗号資産交換業者登録制度
-- 2018 コインチェック流出事件で規制強化
-- 2019 改正で「仮想通貨」→「暗号資産」呼称変更
-- ステーブルコイン規制（2022 改正資金決済法）
+- Revised Payment Services Act introduced crypto-asset exchange registration in 2017.
+- The 2018 Coincheck incident prompted tighter supervision.
+- 2019 revisions changed the statutory terminology from virtual currency to crypto asset.
+- Stablecoin regulation was added through 2022 Payment Services Act revisions.
 
-### サステナビリティ開示（2022〜）
+### Sustainability disclosure
 
-- 有価証券報告書での **サステナビリティ情報開示義務化**
-- [[finance/issb|ISSB]] / [[finance/ssbj|SSBJ]] 基準連動
-- 2024 SSBJ 基準正式公表
+- Annual securities reports now require sustainability information.
+- The framework links to [[finance/issb|ISSB]] and [[finance/ssbj|SSBJ]] standards.
+- SSBJ standards were formally published in 2024.
 
 ## Related
 
-- [[JapanFG/fsa-strategy-bureau|FSA 総合政策局（戦略局）]] · [[JapanFG/fsa-planning-coordination-bureau|FSA 企画市場局]] · [[JapanFG/fsa-supervision-bureau|FSA 監督局]] · [[JapanFG/fsa-inspection-bureau|FSA 検査局]]
-- [[JapanFG/boj|日本銀行]] · [[JapanFG/dic|預金保険機構]] · [[JapanFG/sonpo-hosho-kiko|損保機構]] · [[JapanFG/seimei-hokensha-hogo-kiko|生保機構]]
-- [[JapanFG/japan-exchange-group|日本取引所グループ]] · [[JapanFG/jsda|日本証券業協会]]
+- [[JapanFG/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] · [[JapanFG/fsa-planning-coordination-bureau|FSA Policy and Markets Bureau]] · [[JapanFG/fsa-supervision-bureau|FSA Supervision Bureau]] · [[JapanFG/fsa-inspection-bureau|FSA Inspection Bureau]]
+- [[JapanFG/boj|Bank of Japan]] · [[JapanFG/dic|Deposit Insurance Corporation of Japan]] · [[JapanFG/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] · [[JapanFG/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]
+- [[JapanFG/japan-exchange-group|Japan Exchange Group]] · [[JapanFG/jsda|Japan Securities Dealers Association]]
 - [[JapanFG/jcr|JCR]] · [[JapanFG/rating-and-investment|R&I]]
 - [[JapanFG/INDEX|JapanFG index]]
 
 ## Sources
 
-- **Wikipedia: 金融庁**（https://ja.wikipedia.org/wiki/金融庁, 2026-05-25 抽出）
-- **金融庁 公式サイト**（https://www.fsa.go.jp/, 2026-05-25 参照）
-- **金融庁組織図**（https://www.fsa.go.jp/common/about/organization/index.html, 2026-05-25 参照）
-- **金融庁設置法**（平成 10 年法律第 130 号）
-- **内閣府設置法**（平成 11 年法律第 89 号）
+- Wikipedia: Financial Services Agency, public reference.
+- Financial Services Agency official website.
+- Financial Services Agency organization chart.
+- Act for Establishment of the Financial Services Agency.
+- Act for Establishment of the Cabinet Office.
 
 ---
 
-> [!info] 校核状態
+> [!info] Validation status
+> confidence: **likely**. Institutional history and organization are based on public FSA materials, public law references, and public secondary summaries.

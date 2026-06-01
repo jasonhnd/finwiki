@@ -12,11 +12,11 @@ translated_at: 2026-05-31T06:16:15.703Z
 
 ## TL;DR
 
-Brazil and Mexico entered the three-track parallel phase of "CBDC + private stablecoin + USD stablecoin grey-zone expansion" simultaneously in 2026 年. **Brazil DREX** expanded its 2 nd round pilot to 16  institutions in 2025-12 , covering a wholesale + retail dual-layer architecture (consistent with [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]]); **Mercado Bitcoin** issues a **BRL-anchored stablecoin** on Polygon / Ethereum to complement the market version of DREX, forming a "public-private dual track" with DREX. **Mexico Banxico** does not issue a retail CBDC, but deepens **CoDi instant payments** and tacitly permits **MXNB** (Mexican peso stablecoin jointly issued by Bitso × Mercado Bitcoin × M0 , see [[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]]), presenting a "defensive home-currency SC" alternative to USDC/USDT dollarization. This structure positions Latin America as a **second pathway** outside [[fintech/em-market-crypto-dollarization-pattern|EM ドル化パターン]]: rather than abandoning the home currency, it suppresses dollar stablecoin penetration by running home-currency stablecoins and CBDCs in parallel.
+Brazil and Mexico entered the three-track parallel phase of "CBDC + private stablecoin + USD stablecoin grey-zone expansion" simultaneously in 2026. **Brazil DREX** expanded its second-round pilot to 16 institutions in 2025-12, covering a wholesale + retail dual-layer architecture consistent with [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]. **Mercado Bitcoin** issues a **BRL-anchored stablecoin** on Polygon / Ethereum to complement the market version of DREX, forming a public-private dual track with DREX. **Mexico Banxico** does not issue a retail CBDC, but deepens **CoDi instant payments** and tacitly permits **MXNB**, a Mexican peso stablecoin jointly issued by Bitso, Mercado Bitcoin, and M0; see [[fintech/m0-network-infrastructure-update-2026|M0 2026 infrastructure update]]. This creates a defensive home-currency stablecoin alternative to USDC / USDT dollarization. The structure positions Latin America as a **second pathway** outside [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]]: rather than abandoning the home currency, it suppresses dollar-stablecoin penetration by running home-currency stablecoins and CBDCs in parallel.
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em-market-crypto-dollarization-pattern|EM 市場暗号ドル化パターン]] for the dollar pressure backdrop and [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS マルチ CBDC 概要]] for the cross-CBDC payments context. [[fintech/india-anti-dollar-dpi-alliance|India 反ドル DPI アライアンス]] provides a cross-comparison of Latin America vs India as two home-currency defense routes — 2  parallel paths.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]] for the dollar-pressure backdrop and [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS multi-CBDC overview]] for the cross-CBDC payments context. [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]] provides a comparison of Latin America and India as two parallel home-currency defense routes.
 
 ## Key facts (2026-05  snapshot)
 
@@ -34,14 +34,14 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em
 
 **Official project name**: Digital Real (DREX) — led by the Banco Central do Brasil (BCB), research launched 2020 年, 1 st round pilot completed 2023 年, 2 nd round pilot expanded 2025-12 .
 
-**Architecture**: dual-tier — wholesale CBDC (interbank DLT layer, Hyperledger Besu private chain) + tokenized commercial bank deposits (CBDC-backed deposit tokens) covering retail. Consistent with the "indirect issuance + tokenized commercial bank deposit" paradigm in [[fintech/cbdc-multi-tier-architecture-three-paradigms|多層 CBDC アーキテクチャ三パラダイム]].
+**Architecture**: dual-tier — wholesale CBDC (interbank DLT layer, Hyperledger Besu private chain) + tokenized commercial bank deposits (CBDC-backed deposit tokens) covering retail. Consistent with the "indirect issuance + tokenized commercial bank deposit" paradigm in [[fintech/cbdc-multi-tier-architecture-three-paradigms|multi-tier CBDC architecture three paradigms]].
 
 **Key changes in 2 nd round pilot (launched 2025-12 )**:
 
 1. **Expanded asset scope**: 1 st round tested only government bonds + real estate tokenization; 2 nd round adds corporate bonds / receivables / agricultural warehouse receipts / secondary market settlement / FX exchange
 2. **Institution count**: expanded from 9 社 in 2023 年 to 16 社
 3. **Crypto-native player entry**: Mercado Bitcoin became the first crypto exchange to qualify for DREX pilot, marking a milestone in "private-chain CBDC + public-chain SC" interoperability trials
-4. **Cross-border connectivity**: BCB is exploring compatibility paths with the mBridge model with BIS Innovation Hub (see [[fintech/mbridge-bis-multi-cbdc-overview|mBridge マルチ CBDC 概要]]), but Brazil is **not** a member of the 6 -country mBridge
+4. **Cross-border connectivity**: BCB is exploring compatibility paths with the mBridge model with BIS Innovation Hub (see [[fintech/mbridge-bis-multi-cbdc-overview|mBridge multi-CBDC overview]]), but Brazil is **not** a member of the six-country mBridge group.
 
 **DREX and Pix relationship**: Pix (BCB instant payment system, launched 2020 ) is already a national-level payment channel in Brazil, with monthly transaction volume exceeding 60 億. DREX does not replace Pix but adds a programmability + atomic settlement layer on top of Pix for financial institutions. **Pix national-level + DREX institutional-level + Mercado Bitcoin BRL SC crypto-native-level** = Brazil's three-track payment layer architecture.
 
@@ -53,7 +53,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em
 
 **Positioning**: Does not replace DREX, but **fills the market gap before DREX's full launch (planned 2027-2028 )** and provides a bridgehead for "private BRL token and CBDC interoperability" in the DREX era.
 
-**Chain selection**: Polygon as primary (driven by Polygon's collaboration with multiple Latin American central banks in [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 多層アーキテクチャ]]) + Ethereum (cross-border liquidity) + Avalanche (DeFi compatibility).
+**Chain selection**: Polygon as primary, driven by Polygon's collaboration with multiple Latin American central banks in [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC multi-tier architecture]], plus Ethereum for cross-border liquidity and Avalanche for DeFi compatibility.
 
 **Use cases**: (1) replacing fiat deposit delays for BRL pairs on crypto exchanges; (2) cross-border payments (BRL settlement to exporters in Argentina / Uruguay / Paraguay); (3) BRL collateral / liquidity mining in DeFi protocols; (4) BRL token wallets embedded in Mercado Pago and other fintechs.
 
@@ -70,7 +70,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em
 
 **MXNB (M0 + Bitso pilot)**:
 
-- Issuer: arranged by Bitso, with Mercado Bitcoin (Brazil side) as co-issuer; base infrastructure is M0 (see [[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]])
+- Issuer: arranged by Bitso, with Mercado Bitcoin on the Brazil side as co-issuer; base infrastructure is M0 (see [[fintech/m0-network-infrastructure-update-2026|M0 2026 infrastructure update]])
 - Chains: Base / Ethereum / Polygon
 - Reserves: Mexican short-term government bonds (CETES) + commercial bank MXN deposits
 - Circulating supply MXN 450M (~$25M, 2026-05), still at pilot stage
@@ -95,7 +95,7 @@ This "triangular positioning" makes Bitso the most important market node in Mexi
 | Regulatory stance | Active (BCB + CVM explicit framework) | Tolerate + observe | Contradictory (strict central bank, lenient treasury) | Nominally strict, practically permissive |
 | Anti-USD SC effectiveness | Medium (Pix + DREX provide home-currency alternatives) | Weak (CoDi still small) | Failed | Failed |
 
-**Core insight**: Brazil has fully established home-currency convenience, programmability, and crypto interoperability through the three layers of **Pix + DREX + BRL SC**, the most complete "de-dollarization tech stack" among emerging market nations today. Mexico follows (CoDi + MXNB still scaling up). Argentina / Venezuela represent the counterexample of "abandoning home currency → USDT adoption," consistent with the "sovereign currency collapse nations" list in [[fintech/jurisdiction-list-monetary-protectionism|規制管轄リスト · 通貨保護主義]].
+**Core insight**: Brazil has fully established home-currency convenience, programmability, and crypto interoperability through the three layers of **Pix + DREX + BRL stablecoin**, the most complete de-dollarization technology stack among emerging-market nations today. Mexico follows, with CoDi + MXNB still scaling up. Argentina and Venezuela represent the counterexample of abandoning the home currency and moving toward USDT adoption, consistent with the sovereign-currency-collapse list in [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list: monetary protectionism]].
 
 ## Distance from mBridge / Project Agora
 
@@ -105,7 +105,7 @@ Technical compatibility between DREX and mBridge (both using Hyperledger Besu pe
 
 ## Deep Coupling with M0  MXNB Pilot
 
-The MXNB pilot is the first **non-dollar partner SC** for M0 (see [[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]]), and also Latin America's first **home-currency SC running on fully neutral SC infrastructure**. This contrasts with Mercado Bitcoin BRL (self-built infrastructure):
+The MXNB pilot is the first **non-dollar partner stablecoin** for M0 (see [[fintech/m0-network-infrastructure-update-2026|M0 2026 infrastructure update]]), and also Latin America's first **home-currency stablecoin running on fully neutral stablecoin infrastructure**. This contrasts with Mercado Bitcoin BRL, which uses self-built infrastructure:
 
 | Dimension | MXNB (M0  infrastructure) | Mercado Bitcoin BRL (self-built) |
 |---|---|---|
@@ -116,7 +116,7 @@ The MXNB pilot is the first **non-dollar partner SC** for M0 (see [[fintech/m0-n
 | Governance | $M DAO + Bitso/Mercado Bitcoin effective control | Mercado Bitcoin 100% control |
 | Regulatory burden | Shared via M0  template reducing single burden | Bears Mexico/Brazil regulatory burden independently |
 
-**Implication**: In 2027-2028 , a divergence between "self-built vs shared infrastructure" may emerge in Latin America — large local players choose self-built (Mercado Bitcoin BRL model), smaller players choose shared (M0  MXNB model). This is the Latam version of [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain-token 戦略トリレンマ]].
+**Implication**: In 2027-2028, a divergence between self-built and shared infrastructure may emerge in Latin America. Large local players may choose self-built models, as in Mercado Bitcoin BRL, while smaller players may choose shared infrastructure, as in M0 MXNB. This is the Latin America version of the [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain-token strategy trilemma]].
 
 ## Regulatory Coordination and Conflict
 
@@ -129,16 +129,16 @@ The MXNB pilot is the first **non-dollar partner SC** for M0 (see [[fintech/m0-n
 ## Related
 
 - [[fintech/INDEX|FinWiki Fintech Index]]
-- [[fintech/em-market-crypto-dollarization-pattern|EM 市場暗号ドル化パターン]]
-- [[fintech/india-anti-dollar-dpi-alliance|India 反ドル DPI アライアンス]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]]
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 多層アーキテクチャ三パラダイム]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS マルチ CBDC 概要]]
-- [[fintech/jurisdiction-list-monetary-protectionism|管轄リスト · 通貨保護主義]]
-- [[fintech/gray-market-dollar-network-formalization|グレーマーケット・ドル・ネットワークの正式化]]
-- [[fintech/m0-network-infrastructure-update-2026|M0 2026 インフラ更新]]
-- [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge 非ドル決済リング規模]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain-token 戦略トリレンマ]]
+- [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]]
+- [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]
+- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC multi-tier architecture three paradigms]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS multi-CBDC overview]]
+- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction list: monetary protectionism]]
+- [[fintech/gray-market-dollar-network-formalization|gray-market dollar-network formalization]]
+- [[fintech/m0-network-infrastructure-update-2026|M0 2026 infrastructure update]]
+- [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge non-USD settlement ring scale]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain-token strategy trilemma]]
 - [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART]]
 - [[fintech/fatf-travel-rule-overview|FATF Travel Rule]]
 

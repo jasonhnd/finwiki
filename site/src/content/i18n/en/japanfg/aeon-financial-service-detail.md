@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.927Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context, [[JapanFG/INDEX]] のメーカー captive-finance 子会社群（[[JapanFG/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company anchor for the finance-related subsidiaries of Dentsu Group Inc., TSE Prime 4324 and one of the world's five largest advertising companies. The scope covers Dentsu Ventures as corporate venture capital, Dentsu Capital as an M&A and strategic-investment function, advertiser billing and payment functions, and international-office finance functions. Read it against Hakuhodo DY HD and WPP Japan for media-industry peer context, against manufacturer captive-finance subsidiaries such as [[JapanFG/toyota-finance|Toyota Finance]], [[JapanFG/sony-finance|Sony Finance]], and [[JapanFG/nissan-finance|Nissan Financial]] for the industrial captive-finance peer cluster, and against [[asset-management/cvc-japan-landscape|Japan CVC landscape]] for the corporate-venture context.
 
 ## TL;DR
 
@@ -29,7 +29,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 | Parent company securities code | **TSE PRIME 4324** ^[extracted] |
 | Establishment of parent company | 1901 (as advertising agency "Nippon Advertising Co., Ltd.") ^[extracted] |
 | Converting into a holding company | 2020-01 (Dentsu → Dentsu Group) |
-| 連結売上 | 兆円規模（広告事業中心、世界 5 大広告会社の一角）|
+| Consolidated revenue | Trillion-yen scale, centered on advertising and marketing services; one of the world's five largest advertising groups |
 | Overseas subsidiaries | Dentsu International (formerly Aegis Group overseas headquarters after integration) |
 | Domestic operating companies | Dentsu Inc. (advertising agency) |
 
@@ -55,7 +55,7 @@ Dentsu Group Inc. (TSE PRIME 4324, holding company)
 | Investment Areas | DX / MarTech / AdTech / Fintech / Creative Tech / Web3 / AI |
 | Investment stage | Seed - Series B focus |
 | Investment regions | Global US, Europe, Asia, Japan |
-| Fund size | Cumulative total management approximately 200 億円 (1 号 Global Fund 100 億円・2015-04  composition / 2 号 Fund 100 億円・2021-04  composition, Dentsu Group official) |
+| Fund size | Approximately JPY 20 billion in cumulative assets under management: Global Fund I of JPY 10 billion launched in 2015-04 and Fund II of JPY 10 billion launched in 2021-04, per Dentsu Group official materials |
 | Investment synergy | Linkage with digital marketing services for advertisers |
 
 ### 2.2 Dentsu Capital (Strategic investment/M&A function of Dentsu Group)
@@ -63,7 +63,7 @@ Dentsu Group Inc. (TSE PRIME 4324, holding company)
 | Item | Content |
 |---|---|
 | Business type | Group strategic investment/M&A functions |
-| 投資領域 | 広告代理店業界の M&A（Aegis Group 2012 買収が代表例）・MarTech 企業買収 |
+| Investment areas | Advertising-agency industry M&A, including the representative 2012 Aegis Group acquisition, and MarTech acquisitions |
 | Investment stage | Growth stage - Maturity stage (minority investment + majority acquisition) |
 | Location within parent company | Dentsu Group's **International Expansion Driver** |
 
@@ -93,7 +93,7 @@ Dentsu Group Inc. (TSE PRIME 4324, holding company)
 
 ### 3.3 Manufacturer captive-finance Comparison with subsidiary
 
-| Item | Dentsu Group Finance | [[JapanFG/toyota-finance|トヨタファイナンス]] | [[JapanFG/sony-finance|ソニーファイナンス]] |
+| Item | Dentsu Group Finance | [[JapanFG/toyota-finance|Toyota Finance]] | [[JapanFG/sony-finance|Sony Finance]] |
 |---|---|---|---|
 | Parent company industry | Advertising agency | Automobile manufacturer | Electronic equipment manufacturer |
 | Role of the financial function | Strategic investment + CVC + Advertiser billing management | Automobile sales finance (mainly auto loans) | Card + insurance + bank ([[JapanFG/sony-fg]]) |
@@ -126,8 +126,8 @@ Dentsu Group Inc. (TSE PRIME 4324)
 | Metrics | Sense of scale |
 |---|---|
 | Parent company Dentsu Group consolidated sales | Trillion yen scale (mainly advertising business) |
-| Dentsu Ventures Fund Size | Cumulative Total Management Approximately 200 億円 (1 号 100 億 + 2 号 100 億, Dentsu Group Official) |
-| 累計投資件数 | 1 号グローバルファンドで 40 件超（電通公式、2 号分は非開示）|
+| Dentsu Ventures fund size | Approximately JPY 20 billion in cumulative assets under management: Fund I JPY 10 billion plus Fund II JPY 10 billion, per Dentsu Group official materials |
+| Cumulative investments | More than 40 investments in Global Fund I, per Dentsu official materials; Fund II count not disclosed |
 | Billing amount for advertisers (annual) | Trillion yen scale (advertising agency business) |
 
 > Details are disclosed in the parent company (4324) securities report. Please refer to the official IR for the latest figures.
@@ -148,7 +148,7 @@ Dentsu Group Inc. (TSE PRIME 4324)
 - Hakuhodo DY HD (advertising industry peer)
 - CyberAgent (Digital Advertising Peer)
 - [[JapanFG/toyota-finance]] — Manufacturer captive-finance peer
-- [[JapanFG/sony-finance]] — メーカー captive-finance ピア
+- [[JapanFG/sony-finance]] — Manufacturer captive-finance peer
 - [[JapanFG/nissan-finance]] — Manufacturer captive-finance peer
 - [[JapanFG/sbi-hd]] — Major CVC/Investment Group Peer
 - [[asset-management/cvc-japan-landscape]] — Japan CVC Landscape
@@ -159,11 +159,11 @@ Dentsu Group Inc. (TSE PRIME 4324)
 - Dentsu Group Official: Company Profile (group.dentsu.com/jp/about/)
 - Dentsu Group Official: IR (group.dentsu.com/jp/ir/)
 - Dentsu Ventures Official (dentsuventures.com)
-- **Dentsu Group Co., Ltd. "Dentsu Group establishes 'Dentsu Ventures 2号 Fund' to accelerate business co-creation with leading domestic and overseas startups" ** (1 号 100 億円・2015-04  composition・40 件 super investment, 2 号 100 億円, cumulative total management amount Check 200 億円)https://www.group.dentsu.com/jp/news/release/000439.html
+- Dentsu Group Co., Ltd., "Dentsu Group establishes Dentsu Ventures Fund II to accelerate business co-creation with leading domestic and overseas startups" (confirms Fund I JPY 10 billion in 2015-04, more than 40 Fund I investments, Fund II JPY 10 billion, and cumulative assets under management of approximately JPY 20 billion): https://www.group.dentsu.com/jp/news/release/000439.html
 - Financial Services Agency: List of special operations for qualified institutional investors, etc.
 - Wikipedia: Dentsu Group (public information, 2026-05-25 extraction)
 
 ---
 
 > [!info] Check status
-> confidence: **possible**（v1.1 公開情報ベース、2026-05-29 再検証）。親会社 4324 上場・持株会社化 2020-01・Aegis Group 2012 買収は公開情報で確認。**2026-05-29 更新**：電通ベンチャーズのファンド規模は旧「数百億円規模との業界観測」から電通グループ公式発表に基づく **累計運用総額 約 200 億円（1 号 100 億円・2015-04／2 号 100 億円）、1 号で 40 件超投資** に訂正・出典化。電通キャピタル等の正確な法人形態・登録ステータスは時期により変動、次回更新時に親会社有価証券報告書 + 公式 IR で精緻化予定。国内 CVC 順位（Top-20 観測）は検証可能な順位出典が得られず `.opinions` へ隔離。
+> confidence: **possible**. This v1.1 entry is based on public information rechecked on 2026-05-29. Parent-company listing under code 4324, the 2020-01 holding-company transition, and the 2012 Aegis Group acquisition are confirmed from public sources. **2026-05-29 update**: Dentsu Ventures fund size was corrected from the former industry-estimate wording of "several tens of billions of yen" to the Dentsu Group official disclosure of approximately JPY 20 billion in cumulative assets under management, consisting of Fund I JPY 10 billion in 2015-04 and Fund II JPY 10 billion, with more than 40 Fund I investments. The exact legal form and registration status of Dentsu Capital and adjacent entities can change over time and should be refined against the parent company's annual securities report and official IR in the next update. Domestic CVC ranking language was isolated to `.opinions` because no verifiable ranking source was available.

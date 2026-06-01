@@ -15,7 +15,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company a
 
 ## TL;DR
 
-This company moved from the old Seibu Saison group auto-insurance lineage to consolidation by 2009 [[JapanFG/sompo|SOMPO]] and then, in 2024-10-01, changed its trade name to **SOMPO Direct General Insurance, Inc.** It is a direct non-life insurer under SOMPO. Its flagship product is **"Otona no Jidosha Hoken"**, a direct auto-insurance product using age-band pricing that reflects the lower accident rate of customers in their 40-50 s. Together with [[insurance/sony-assurance|ソニー損保]], [[insurance/axa-direct|アクサダイレクト]], and [[insurance/saa|SAA]] (SBI Insurance), it forms the direct auto-insurance market around online application channels. It is the **direct-sales piece** of SOMPO HD's ([[JapanFG/sompo]]) auto-insurance channel diversification strategy, alongside agencies and dealers. ^[extracted]
+This company moved from the old Seibu Saison group auto-insurance lineage to consolidation by 2009 [[JapanFG/sompo|SOMPO]] and then, in 2024-10-01, changed its trade name to **SOMPO Direct General Insurance, Inc.** It is a direct non-life insurer under SOMPO. Its flagship product is **"Otona no Jidosha Hoken"**, a direct auto-insurance product using age-band pricing that reflects the lower accident rate of customers in their 40-50 s. Together with [[insurance/sony-assurance|Sony Assurance]], [[insurance/axa-direct|AXA Direct]], and [[insurance/saa|SAA]] (SBI Insurance), it forms the direct auto-insurance market around online application channels. It is the **direct-sales piece** of SOMPO HD's ([[JapanFG/sompo]]) auto-insurance channel diversification strategy, alongside agencies and dealers. ^[extracted]
 
 ## 1. Corporate overview
 
@@ -25,8 +25,8 @@ This company moved from the old Seibu Saison group auto-insurance lineage to con
 | Former name | Saison Automobile & Fire Insurance Co., Ltd. (1998-2024) |
 | English name | SOMPO Direct General Insurance, Inc. |
 | Trade-name change date | **2024-10-01** ^[extracted] |
-| Parent company | [[JapanFG/sompo|SOMPO ホールディングス]], a 100% subsidiary |
-| Sibling group operating companies | [[JapanFG/sompo-japan|損害保険ジャパン]], the core non-life insurer, and [[insurance/sompo-himawari-life|SOMPO ひまわり生命]] |
+| Parent company | [[JapanFG/sompo|SOMPO Holdings]], a 100% subsidiary |
+| Sibling group operating companies | [[JapanFG/sompo-japan|Sompo Japan Insurance]], the core non-life insurer, and [[insurance/sompo-himawari-life|SOMPO Himawari Life]] |
 | Location | Tokyo |
 | Business type | Non-life insurance, direct sales of personal auto, fire, and accident products |
 | Flagship product | **"Otona no Jidosha Hoken"**, direct auto insurance with age-band pricing |
@@ -37,10 +37,10 @@ This company moved from the old Seibu Saison group auto-insurance lineage to con
 | Date | Event |
 |---|---|
 | **1982-09** | Established as **Allstate Automobile and Fire Insurance Co., Ltd.**, tied to U.S. Allstate; obtained a non-life insurance license in 10  of the same year and started operations on 1983-04  |
-| **1984-10** | **Old Seibu Distribution Group 4 社 took an equity stake**, making it the industry's first Japan-U.S. joint venture |
+| **1984-10** | **Four companies of the former Seibu Distribution Group took an equity stake**, making it the industry's first Japan-U.S. joint venture |
 | 1997-1998  | Shareholder composition changed, with Credit Saison and others investing |
 | **1998-04** | Trade name changed to **Saison Automobile & Fire Insurance Co., Ltd.** ^[extracted] |
-| **2009-07** | [[JapanFG/sompo|損害保険ジャパン]] acquired a majority stake, making it a consolidated subsidiary of [[JapanFG/sompo|SOMPO]] |
+| **2009-07** | [[JapanFG/sompo|Sompo Japan Insurance]] acquired a majority stake, making it a consolidated subsidiary of [[JapanFG/sompo|SOMPO]] |
 | 2011  | **"Otona no Jidosha Hoken"** launched, establishing the brand in the direct auto-insurance market |
 | 2024-10-01 | Trade name changed to **SOMPO Direct General Insurance, Inc.** ^[extracted] |
 
@@ -51,19 +51,19 @@ The trade-name change was part of [[JapanFG/sompo|SOMPO HD]]'s group-brand unifi
 | Feature | Content |
 |---|---|
 | Target | Mainly customers in their 40-50 s, an age group with lower accident rates |
-| Pricing design | Age-band pricing in 1 歳 increments, marketed as "cheaper for generations with lower accident rates" |
+| Pricing design | Age-band pricing in one-year increments, marketed as "cheaper for generations with lower accident rates" |
 | Channel | 100% direct, via internet applications plus call center |
-| Competitors | Direct auto-insurance players such as [[insurance/sony-assurance|ソニー損保]], [[insurance/axa-direct|アクサダイレクト]], [[insurance/saa|SBI 損保]], and [[insurance/mitsui-direct|三井ダイレクト]] |
+| Competitors | Direct auto-insurance players such as [[insurance/sony-assurance|Sony Assurance]], [[insurance/axa-direct|AXA Direct]], [[insurance/saa|SBI Insurance]], and [[insurance/mitsui-direct|Mitsui Direct]] |
 
 ### 3.2 . Secondary products
 
 - **Fire insurance**, sold directly to individuals.
 - **Accident insurance**, a supplemental personal product.
-- The company lightly covers household-oriented non-life insurance around auto insurance, separate from the mainstream agency channel of [[JapanFG/sompo-japan|SOMPO ジャパン]].
+- The company lightly covers household-oriented non-life insurance around auto insurance, separate from the mainstream agency channel of [[JapanFG/sompo-japan|SOMPO Japan]].
 
 ### 3.3 . Role inside SOMPO Group
 
-- [[JapanFG/sompo-japan|損害保険ジャパン]]: core non-life insurer centered on agency and dealer channels.
+- [[JapanFG/sompo-japan|Sompo Japan Insurance]]: core non-life insurer centered on agency and dealer channels.
 - **SOMPO Direct**: online direct-sales channel.
 - This makes SOMPO Direct the direct-sales piece in SOMPO HD's **multi-channel strategy**.
 
@@ -88,7 +88,7 @@ SOMPO Holdings (TSE PRIME 8630)
 | Metric | Figure / source |
 |---|---|
 | Employees | **1,141  employees**, as of 2024-03-31. Source: Wikipedia "SOMPO Direct General Insurance", based on disclosure magazine |
-| Paid-in capital | **322 億 6 千万 yen** |
+| Paid-in capital | **JPY 32.26 billion** |
 | Position inside parent SOMPO HD consolidation | The **direct-sales piece** for auto-insurance channel diversification; Sompo Japan's agency-channel mainstream is much larger in monetary scale |
 | Product lines | Auto, fire, and accident insurance, mainly direct personal products; flagship "Otona no Jidosha Hoken" |
 
@@ -97,13 +97,13 @@ SOMPO Holdings (TSE PRIME 8630)
 ### 6.1 . Positioning of the direct channel
 
 Within the overall [[JapanFG/sompo|SOMPO]] group, SOMPO Direct handles customer contact through the direct-sales channel:
-- Agency channel, core non-life insurer [[JapanFG/sompo-japan|損害保険ジャパン]]: middle-aged and senior customers, relationship sales.
+- Agency channel, core non-life insurer [[JapanFG/sompo-japan|Sompo Japan Insurance]]: middle-aged and senior customers, relationship sales.
 - Dealer channel: simultaneous enrollment when buying a new car.
 - **Direct channel, SOMPO Direct**: online-completion model and price-comparison appeal.
 
 ### 6.2 . Differentiation through age-band pricing
 
-The flagship product "Otona no Jidosha Hoken" uses pricing that reflects the **low accident rate of customers in their 40-50 s**. This gives it a **senior-leaning direct** position that runs counter to the industry stereotype that "direct = young customers and low-price appeal". It differentiates from [[insurance/sony-assurance|ソニー損保]], which emphasizes risk segmentation, SBI Insurance, which emphasizes online completion, and AXA Direct, a major foreign-affiliated player.
+The flagship product "Otona no Jidosha Hoken" uses pricing that reflects the **low accident rate of customers in their 40-50 s**. This gives it a **senior-leaning direct** position that runs counter to the industry stereotype that "direct = young customers and low-price appeal". It differentiates from [[insurance/sony-assurance|Sony Assurance]], which emphasizes risk segmentation, SBI Insurance, which emphasizes online completion, and AXA Direct, a major foreign-affiliated player.
 
 ### 6.3 . SOMPO brand unification (2024)
 
@@ -138,9 +138,9 @@ The company organized the old Seibu Saison group-origin name "Saison Automobile 
 - SOMPO Direct: disclosure magazine, disclosure/
 - SOMPO HD: IR library and securities reports
 - Wikipedia: Saison Automobile & Fire Insurance / SOMPO Direct, public information, extracted 2026-05-25
-- **Wikipedia "SOMPO Direct General Insurance"** (history: established as Allstate Automobile and Fire Insurance in 1982-09 ; old Seibu Distribution Group 4 社 took an equity stake in 1984-10 ; became Saison Automobile & Fire Insurance in 1998-04 ; became a Sompo Japan consolidated subsidiary in 2009-07 ; became SOMPO Direct in 2024-10 . Employees 1,141  as of 2024-03-31 and paid-in capital 322.6 億円) https://ja.wikipedia.org/wiki/SOMPOダイレクト損害保険
+- **Wikipedia "SOMPO Direct General Insurance"** (history: established as Allstate Automobile and Fire Insurance in 1982-09 ; four former Seibu Distribution Group companies took an equity stake in 1984-10 ; became Saison Automobile & Fire Insurance in 1998-04 ; became a Sompo Japan consolidated subsidiary in 2009-07 ; became SOMPO Direct in 2024-10 . Employees 1,141  as of 2024-03-31 and paid-in capital JPY 32.26 billion) https://ja.wikipedia.org/wiki/SOMPOダイレクト損害保険
 
 ---
 
 > [!info] Review status
-> confidence: **likely** (v1.0  public-information base, 2026-05-25 extracted / 2026-05-29 history and KPIs updated from primary information). The trade-name change date (2024-10-01) and flagship product "Otona no Jidosha Hoken" are confirmed from public information. **The foundation path is confirmed as 1982-09 Allstate Automobile and Fire Insurance, tied to U.S. Allstate, then 1984-10  old Seibu Distribution Group 4 社 equity participation, then 1998-04  Saison Automobile & Fire Insurance, then 2009-07  Sompo Japan consolidated subsidiary**; it did not start as a Seibu Saison company from inception. **Employees 1,141  (2024-03-31) and capital 322.6 億円 are confirmed**. Detailed figures for policy count, premiums, net loss ratio, and direct-market share should be checked in disclosure magazines; estimates are isolated to `.opinions`.
+> confidence: **likely** (v1.0  public-information base, 2026-05-25 extracted / 2026-05-29 history and KPIs updated from primary information). The trade-name change date (2024-10-01) and flagship product "Otona no Jidosha Hoken" are confirmed from public information. **The foundation path is confirmed as 1982-09 Allstate Automobile and Fire Insurance, tied to U.S. Allstate, then 1984-10  former Seibu Distribution Group four-company equity participation, then 1998-04  Saison Automobile & Fire Insurance, then 2009-07  Sompo Japan consolidated subsidiary**; it did not start as a Seibu Saison company from inception. **Employees 1,141  (2024-03-31) and capital JPY 32.26 billion are confirmed**. Detailed figures for policy count, premiums, net loss ratio, and direct-market share should be checked in disclosure magazines; estimates are isolated to `.opinions`.

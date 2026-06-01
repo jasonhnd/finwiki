@@ -11,19 +11,19 @@ translated_at: 2026-05-31T23:05:42.105Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/mizuho-trust-bank|みずほ信託銀行]]. Read it against [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] for peer trust-bank competitor context, [[JapanFG/mizuho-fg|みずほFG]] / [[JapanFG/mizuho-bank|みずほ銀行]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/mizuho-trust-bank|Mizuho Trust & Banking]]. Read it against [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking (MUTB)]] / [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] for peer trust-bank competitor context, [[JapanFG/mizuho-fg|Mizuho FG]] / [[JapanFG/mizuho-bank|Mizuho Bank]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-[[JapanFG/mizuho-trust-bank|みずほ信託銀行株式会社]] is a **trust-bank operating company under [[JapanFG/mizuho-fg|みずほフィナンシャルグループ]]**. While [[JapanFG/mizuho-bank|みずほ銀行]] serves as the core commercial bank, Mizuho Trust & Banking handles the **trust + pension + real estate + stock transfer agency + entrusted-assets** side of the group's internal business division. Its roots include **Chuo Trust**, established in 1925-05 , and **Yasuda Trust** (later in the Fuji Trust Bank line). Through the trust-function consolidation that accompanied the former 3 行 three-bank integration in 2000-2003  (Dai-Ichi Kangyo Bank, Fuji Bank, and Industrial Bank of Japan), it reached the current corporate form. This entry covers operating-level depth across business segments, pension trusts, real-estate trusts, stock transfer agency, international business, and banking-trust coordination inside the FG. Among the 3  major trust banks (Mizuho Trust / [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託]] / [[JapanFG/sumitomo-mitsui-trust|三井住友信託]]), it is mid-scale.
+[[JapanFG/mizuho-trust-bank|Mizuho Trust & Banking Co., Ltd.]] is a **trust-bank operating company under [[JapanFG/mizuho-fg|Mizuho Financial Group]]**. While [[JapanFG/mizuho-bank|Mizuho Bank]] serves as the core commercial bank, Mizuho Trust & Banking handles the trust, pension, real estate, stock transfer agency, and entrusted-assets side of the group's internal business division. Among the three major trust banks, it is mid-scale.
 
 ## 1. Parent-group relationship (Mizuho FG)
 
-- **Holding company**: [[JapanFG/mizuho-fg|みずほフィナンシャルグループ]] (8411  / TSE PRIME), with Mizuho Trust as a 100% subsidiary.
+- **Holding company**: [[JapanFG/mizuho-fg|Mizuho Financial Group]] (8411 / TSE PRIME), with Mizuho Trust as a 100% subsidiary.
 - **Business division inside the FG**:
-  - [[JapanFG/mizuho-bank|みずほ銀行]] — commercial banking, domestic corporates, and retail.
+  - [[JapanFG/mizuho-bank|Mizuho Bank]] ? commercial banking, domestic corporates, and retail.
   - **Mizuho Trust & Banking** — trust functions, pensions, real estate, stock transfer agency, and entrusted assets.
-  - [[JapanFG/mizuho-securities|みずほ証券]] — investment banking and securities.
+  - [[JapanFG/mizuho-securities|Mizuho Securities]] ? investment banking and securities.
 - **One Mizuho strategy**: 3 社 bank + trust + securities model, strengthening cross-sell and customer referrals across the group.
 - **Board structure**: FG-dispatched executives plus trust-specialist executives.
 
@@ -63,7 +63,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 
 - **Business**: shareholder-register administration, shareholder-meeting administration, and dividend-payment administration for listed companies.
 - **Customers**: listed companies, especially counterparties related to former Mizuho FG-line main-bank relationships.
-- **Market share**: the 3  major trust banks plus [[JapanFG/INDEX|IR ジャパン]] and others account for most of the Japanese market.
+- **Market share**: the 3 major trust banks plus [[JapanFG/INDEX|IR Japan]] and others account for most of the Japanese market.
 
 ### 4.4  Entrusted assets (asset-management entrustment and custody)
 
@@ -88,14 +88,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 | Trust bank | Parent FG | Scale impression (trust assets) |
 |---|---|---|
 | [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[JapanFG/mufg|MUFG]] | **Largest among the 3  major trust banks** (over 300 兆円) |
-| [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] | [[JapanFG/INDEX|三井住友トラストHD]] | Over 300 兆円, with strength in pensions |
+| [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] | [[JapanFG/INDEX|Sumitomo Mitsui Trust Holdings]] | Over 300tn yen, with strength in pensions |
 | **Mizuho Trust & Banking** | Mizuho FG | Mid-scale, in the 200 兆円 range |
 
 Other trust subsidiaries, including regional-bank trust subsidiaries such as the [[JapanFG/INDEX|横浜銀行]] group and independent trust subsidiaries such as Orix and Tokio Marine, also complement the market.
 
 ## 6. Strategy and recent trends
 
-- **One Mizuho strategy**: customer referral and cross-sell through [[JapanFG/mizuho-bank|みずほ銀行]] + [[JapanFG/mizuho-securities|みずほ証券]] and 3 社-company coordination, especially in corporate IPOs, business succession, affluent asset formation, and pensions.
+- **One Mizuho strategy**: customer referral and cross-sell through [[JapanFG/mizuho-bank|Mizuho Bank]] + [[JapanFG/mizuho-securities|Mizuho Securities]] and three-company coordination, especially in corporate IPOs, business succession, affluent asset formation, and pensions.
 - **Real-estate business strengthening**: corporate CRE strategy plus REIT sponsor support.
 - **Digital inheritance / family trusts**: trust-product development for an aging society.
 - **Wealth Management**: strengthening integrated asset-management services for affluent customers.
@@ -127,10 +127,10 @@ For details, see EDINET annual securities reports, Mizuho FG IR materials, and M
 
 ## Related
 
-- [[JapanFG/mizuho-trust-bank|みずほ信託銀行]] — parent entry
-- [[JapanFG/mizuho-fg|みずほFG]] — parent group
-- [[JapanFG/mizuho-bank|みずほ銀行]] — commercial-bank sister inside the FG
-- [[JapanFG/mizuho-securities|みずほ証券]] — securities sister inside the FG
+- [[JapanFG/mizuho-trust-bank|Mizuho Trust & Banking]] ? parent entry
+- [[JapanFG/mizuho-fg|Mizuho FG]] ? parent group
+- [[JapanFG/mizuho-bank|Mizuho Bank]] ? commercial-bank sister inside the FG
+- [[JapanFG/mizuho-securities|Mizuho Securities]] ? securities sister inside the FG
 - [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3  major trust-bank competitor
 - [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] — 3  major trust-bank competitor
 - [[JapanFG/smbc-trust-bank|SMBC信託銀行]] — SMFG-line trust bank, smaller scale

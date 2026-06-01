@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.162Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation: legal architecture for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal architecture: the JPYC, USDC, and Project Pax three-layer model]] for the broader system boundary.
 
 > [!info] TL;DR
 > PayPal PYUSD launched on 2023-08-07 (Ethereum), crossed to Solana in 2024-05  and was rapidly upgraded into its primary battlefield, reaching a 2026-05  market cap of **$1B+**. It is issued by Paxos Trust Company (NY DFS), distributed by PayPal / Venmo, and the **interest-sharing arrangement from Paxos to PayPal is 80-90%** (a mirror image of Circle × Coinbase). PYUSD is **the first stablecoin directly branded by a major payments company**, positioned around P2P retail remittance + internal transfers among PayPal / Venmo users, securing the retail layer of the post-GENIUS Act §501  compliant "white circle."
@@ -23,11 +23,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Issuer: Paxos Trust Company (NY DFS Trust) · reserves are 100% UST + cash ^[extracted]
 - Monthly attestation by WithumSmith+Brown ^[extracted]
 - Solana DEX liquidity of $200M+ (Jupiter / Raydium) · monthly Solana transfer volume of ~$5B (2026-Q1) ^[extracted]
-- PayPal / Venmo global active accounts ~4 億 (of which 2 億 are in emerging markets) ^[extracted]
+- PayPal / Venmo global active accounts: approximately 400M, of which approximately 200M are in emerging markets ^[extracted]
 
 ## Mechanism / How it works
 
-PYUSD's core differentiator is that it **does not chase DeFi liquidity (USDC's strength), but focuses on retail reach to 5 億 active PayPal / Venmo accounts**. It aims to convert "people who use PayPal accounts" naturally into "people who use PYUSD on-chain transfers." Its distribution-incentive model mirrors Circle × Coinbase: Paxos gives 80-90% of reserve yield to PayPal as a distribution incentive, meaning that **the distribution channel captures most of the economic value, while the issuer is left mainly with the license shell and compliance obligations**. This maps directly onto [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]], resonates with [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行/分配 50-50 再配置パラダイム]], and is a classic example of the **"distribution > issuance"** model in the 2023-2026  stablecoin industry.
+PYUSD's core differentiator is that it **does not chase DeFi liquidity, where USDC is strongest, but focuses on retail reach to 500M active PayPal / Venmo accounts**. It aims to convert "people who use PayPal accounts" naturally into "people who use PYUSD on-chain transfers." Its distribution-incentive model mirrors Circle × Coinbase: Paxos gives 80-90% of reserve yield to PayPal as a distribution incentive, meaning that **the distribution channel captures most of the economic value, while the issuer is left mainly with the license shell and compliance obligations**. This maps directly onto [[fintech/stablecoin-revenue-split-economics|stablecoin interest-sharing economics]], resonates with [[fintech/issuer-distributor-incentive-realignment-50-50-model|the issuer-distributor 50/50 realignment paradigm]], and is a classic example of the **"distribution > issuance"** model in the 2023-2026 stablecoin industry.
 
 ## Origin & evolution
 
@@ -36,12 +36,12 @@ In 2023-08-07, NY DFS granted Paxos trust approval for PYUSD, and 2  weeks later
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
+- [[fintech/stablecoin-revenue-split-economics|Stablecoin interest-sharing economics]]
 - [[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]
 - [[fintech/world-liberty-usd1-political-stablecoin|WLF USD1]]
-- [[fintech/stablecoin-crossborder-b2b-growth|ステーブルコイン・クロスボーダー B2B 成長]]
+- [[fintech/stablecoin-crossborder-b2b-growth|Stablecoin cross-border B2B growth]]
 - [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC · ホワイトサークル首位対比]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC · white-circle leadership comparison]]
 <!-- /wiki-links:managed -->
 
 ## Sources

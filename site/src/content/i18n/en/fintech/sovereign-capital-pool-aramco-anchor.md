@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.862Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation: legal architecture for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the JPYC / USDC / Project Pax three-layer structure]] for the broader system boundary.
 
 > [!info] TL;DR
 > The digital asset allocation upper limit for resource-based sovereign capital (petroleum states) is not the circulating market capitalization, but the **total sovereign capital pool** (reserves discounted by NPV + sovereign equity + sovereign fund AUM). Aramco's $7T full-caliber valuation becomes a "ceiling anchor" for Middle East digital asset funds: even with a small allocation ratio of 0.5-7%, a single country can mobilize $35-490B, and **a single move can raise 3 yen MRA white square Exceeds 2030  forecast total ($130B)**. This is a ``sovereign caliber vs. market caliber'' size evaluation model.
@@ -41,15 +41,15 @@ The special feature of Aramco is that it has direct state control + securitizati
 
 ## Origin & evolution
 
-Middle East sovereign funds had access to crypto assets only through ETFs/indirect holdings in 2014-2020 年. 2024-09  Saudi Arabia PIF announced that it will strategically allocate AUM 1-3% to digital asset infrastructure. 2025-Q4 Aramco × BlackRock Middle East Digital Asset Fund officially announced, PoC started on 2026-Q1 . Vision 2030  is the bottom driver · Decoupling from crude oil price fluctuations, the goal is to convert the cash flow expected from the oil peak into digital infrastructure equity ahead of schedule, which is consistent with the "[[fintech/sovereign-fund-crypto-allocation-pattern|ソブリンファンド暗号配分パターン]]-5 year strategic development" cycle indicated by 10 . SAMA is also the [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] creation of 5  central bank 1 , and Aramco's oil settlement migration to mBridge will be the execution channel for this ceiling.
+Middle East sovereign funds had access to crypto assets only through ETFs/indirect holdings in 2014-2020. 2024-09  Saudi Arabia PIF announced that it will strategically allocate AUM 1-3% to digital asset infrastructure. 2025-Q4 Aramco × BlackRock Middle East Digital Asset Fund officially announced, PoC started on 2026-Q1 . Vision 2030  is the bottom driver · Decoupling from crude oil price fluctuations, the goal is to convert the cash flow expected from the oil peak into digital infrastructure equity ahead of schedule, which is consistent with the "[[fintech/sovereign-fund-crypto-allocation-pattern|sovereign-fund crypto allocation pattern]]-5 year strategic development" cycle indicated by 10 . SAMA is also the [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] creation of 5  central bank 1 , and Aramco's oil settlement migration to mBridge will be the execution channel for this ceiling.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/sovereign-fund-crypto-allocation-pattern|ソブリンファンド暗号配分パターン]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street 暗号資産ネットワーク中立]]
-- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
+- [[fintech/sovereign-fund-crypto-allocation-pattern|sovereign-fund crypto allocation pattern]]
+- [[fintech/three-circles-stablecoin-mra-framework|three-circle MRA architecture]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street crypto-asset network neutrality]]
+- [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure]]
 <!-- /wiki-links:managed -->
 
 ## Sources

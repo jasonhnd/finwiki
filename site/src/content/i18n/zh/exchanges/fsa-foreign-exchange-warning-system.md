@@ -10,9 +10,9 @@ translated_at: 2026-05-31T03:19:56.395Z
 
 # FSA 海外无登记加密资产交易所 警告书发出制度 (2018-2025)
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+本条目位于 [[exchanges/INDEX|exchanges index]]。同业 / 对照语境见 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业登记制度：编号体系、财务局管辖与登记要求]]；更广泛的系统和监管边界见 [[fintech/japan-financial-regulation|日本金融监管：代币、加密资产与支付法体系]]。
 
 ## 制度概要
 

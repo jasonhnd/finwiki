@@ -11,11 +11,11 @@ translated_at: 2026-06-01T02:31:57.135Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a captive leasing entity under the [[JapanFG/sbi-shinsei-bank|SBI新生銀行]] group, it should be read alongside [[JapanFG/shinsei-financial|新生フィナンシャル]] for the broader Shinsei non-bank finance footprint.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fuyo-lease|Fuyo General Lease]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a captive leasing entity under the [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]] group, it should be read alongside [[JapanFG/shinsei-financial|Shinsei Financial]] for the broader Shinsei non-bank finance footprint.
 
 ## TL;DR
 
-Showa Leasing is a general leasing company founded in 1969 年 and is currently a 100% subsidiary of **SBI Shinsei Bank Group ([[JapanFG/sbi-shinsei-bank|SBI新生銀行]])**. Since being brought into the group after the restructuring of Shinsei Bank, formerly Long-Term Credit Bank of Japan, in the 2000 年s, it has served as a mid-tier leasing company responsible for the Shinsei Bank group's captive leasing and asset-finance function. In addition to general equipment leasing, auto leasing, medical leasing, aircraft leasing, and ship leasing, it has strength in structured finance using Shinsei Bank's corporate client base.
+Showa Leasing is a general leasing company founded in 1969 and is currently a 100% subsidiary of **SBI Shinsei Bank Group ([[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]])**. Since being brought into the group after the restructuring of Shinsei Bank, formerly Long-Term Credit Bank of Japan, in the 2000s, it has served as a mid-tier leasing company responsible for the Shinsei Bank group's captive leasing and asset-finance function. In addition to general equipment leasing, auto leasing, medical leasing, aircraft leasing, and ship leasing, it has strength in structured finance using Shinsei Bank's corporate client base.
 
 ## 1. License / group boundary
 
@@ -25,9 +25,9 @@ Showa Leasing is a general leasing company founded in 1969 年 and is currently 
 | Listing | Unlisted (100% subsidiary of SBI Shinsei Bank) |
 | Headquarters | Chiyoda-ku, Tokyo |
 | Founded | 1969-04  |
-| Parent / group | [[JapanFG/sbi-shinsei-bank|SBI新生銀行]], formerly Shinsei Bank / Long-Term Credit Bank of Japan, now under SBI Holdings |
+| Parent / group | [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]], formerly Shinsei Bank / Long-Term Credit Bank of Japan, now under SBI Holdings |
 | License route | No banking license. Holds FSA money-lending business registration for relevant business scope. |
-| Wiki role | Captive leasing-function node in the SBI Shinsei Bank group. Within the group, its business scope is separated from [[JapanFG/shinsei-financial|新生フィナンシャル]], the consumer-finance arm. |
+| Wiki role | Captive leasing-function node in the SBI Shinsei Bank group. Within the group, its business scope is separated from [[JapanFG/shinsei-financial|Shinsei Financial]], the consumer-finance arm. |
 
 ## 2. Business lines
 
@@ -42,32 +42,32 @@ Showa Leasing is a general leasing company founded in 1969 年 and is currently 
 
 ## 3. Strategy & competitive position
 
-Showa Leasing has an unusual position: a mid-tier leasing company that is captive to SBI Shinsei Bank. It is smaller than quasi-major peers such as [[JapanFG/fuyo-lease|芙蓉総合リース]] and Ricoh Leasing, but it inherits Shinsei Bank group's structured-finance know-how and has presence in tax leases and complex structured deals.
+Showa Leasing has an unusual position: a mid-tier leasing company that is captive to SBI Shinsei Bank. It is smaller than quasi-major peers such as [[JapanFG/fuyo-lease|Fuyo General Lease]] and Ricoh Leasing, but it inherits Shinsei Bank group's structured-finance know-how and has presence in tax leases and complex structured deals.
 
-After coming under SBI Holdings from 2021  onward, the point of discussion is potential linkage with SBI group financial functions such as SBI Securities, SBI Life, SBI Insurance, and SBI's regional-bank alliance. Its focus on corporate + structured finance rather than a retail base clearly separates it from [[JapanFG/shinsei-financial|新生フィナンシャル]], the retail unsecured-loan business.
+After coming under SBI Holdings from 2021  onward, the point of discussion is potential linkage with SBI group financial functions such as SBI Securities, SBI Life, SBI Insurance, and SBI's regional-bank alliance. Its focus on corporate + structured finance rather than a retail base clearly separates it from [[JapanFG/shinsei-financial|Shinsei Financial]], the retail unsecured-loan business.
 
 Direct competition with the three major leasing groups is limited. Competition is mainly in mid-tier to quasi-major edge cases such as tax leasing, ships, smaller aircraft deals, and logistics real estate.
 
-In the context of [[finance/japan-acquisition-finance|日本アクイジションファイナンス]], the combination of Shinsei Bank corporate lending and Showa Leasing asset finance can be involved in LBO / buy-out transactions.
+In the context of [[finance/japan-acquisition-finance|Japan acquisition finance]], the combination of Shinsei Bank corporate lending and Showa Leasing asset finance can be involved in LBO / buy-out transactions.
 
 ## 4. Why this page matters
 
-- A node for understanding non-bank finance functions inside SBI Shinsei Bank Group, alongside [[JapanFG/shinsei-financial|新生フィナンシャル]].
+- A node for understanding non-bank finance functions inside SBI Shinsei Bank Group, alongside [[JapanFG/shinsei-financial|Shinsei Financial]].
 - Important in the history of Long-Term Credit Bank of Japan / Shinsei Bank restructuring, SBI integration, and group reorganization.
 - A sample of the industry structure in which mid-tier leasing companies survive by becoming captive.
 - Expertise in structured finance / tax lease is a differentiation axis distinct from the three major leasing companies.
 
 ## Related
 
-- [[JapanFG/sbi-shinsei-bank|SBI新生銀行]]
-- [[JapanFG/shinsei-financial|新生フィナンシャル]]
-- [[JapanFG/sbi-shinsei-trust-bank|SBI新生信託銀行]]
-- [[JapanFG/fuyo-lease|芙蓉総合リース]]
+- [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]
+- [[JapanFG/shinsei-financial|Shinsei Financial]]
+- [[JapanFG/sbi-shinsei-trust-bank|SBI Shinsei Trust Bank]]
+- [[JapanFG/fuyo-lease|Fuyo General Lease]]
 - [[JapanFG/mizuho-lease|Mizuho Leasing]]
-- [[JapanFG/tokyo-century|東京センチュリー]]
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]
+- [[JapanFG/tokyo-century|Tokyo Century]]
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 

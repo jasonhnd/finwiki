@@ -11,15 +11,15 @@ translated_at: 2026-06-01T02:31:57.113Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/tokyo-century|東京センチュリー]]. Read it against [[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/smfl|三井住友ファイナンス&リース]] / [[JapanFG/mizuho-lease|みずほリース]] for general-lease industry peer context, [[JapanFG/mizuho-fg|みずほFG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/tokyo-century|Tokyo Century]]. Read it against [[JapanFG/orix-corp|ORIX]], [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[JapanFG/smfl|Sumitomo Mitsui Finance and Leasing]], and [[JapanFG/mizuho-lease|Mizuho Leasing]] for general-lease industry peer context, [[JapanFG/mizuho-fg|Mizuho FG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-[[JapanFG/tokyo-century|東京センチュリー株式会社]] (8439  / TSE PRIME) is one of Japan's 3  major integrated leasing and finance companies, alongside ORIX, Mitsubishi HC Capital, and Tokyo Century, and has a distinctive **"Mizuho FG x ITOCHU Corporation" 2 -axis major-shareholder structure**. This entry covers operating-level depth: business segments, earnings structure, aircraft finance, overseas expansion, and SDGs strategy. It traces the path from former "Tokyo Leasing" established in 1969-12 , through the 2009-04 merger with Century Leasing System that formed Tokyo Century Leasing, and the 2016-10 trade-name change to "Tokyo Century". The **2019  full acquisition of U.S.-based Aviation Capital Group (ACG)** made it a Top 10  global aircraft lessor. **5  business segments**: (a) domestic corporate leasing / finance, (b) international business across the Americas, Asia, and Europe, (c) **aviation**, (d) **environmental infrastructure**, and (e) automobile, including former Nippon Rent-A-Car Service and auto leasing.
+[[JapanFG/tokyo-century|Tokyo Century Corporation]] (8439 / TSE PRIME) is one of Japan's major integrated leasing and finance companies and has a distinctive two-axis major-shareholder structure centered on Mizuho FG and ITOCHU Corporation. This entry covers operating-level depth: business segments, earnings structure, aircraft finance, overseas expansion, and SDGs strategy.
 
 ## 1. Parent-group relationship - 2 -axis shareholder structure
 
-- **[[JapanFG/mizuho-fg|みずほフィナンシャルグループ]]**: Lineage from Tokyo Leasing, formerly affiliated with Dai-Ichi Kangyo Bank
+- **[[JapanFG/mizuho-fg|Mizuho Financial Group]]**: lineage from Tokyo Leasing, formerly affiliated with Dai-Ichi Kangyo Bank
 - **ITOCHU Corporation**: Trading-company lineage from Century Leasing System
 - The combined ownership ratio of the two companies is around the 50% level. **The Mizuho FG side supplies financial support and bank-balance-sheet access, while the ITOCHU side supplies trading-company networks, including automobiles, industrial equipment, overseas projects, and deal flow**.
 - This is a rare capital structure created by the integration of a bank-affiliated leasing company and a trading-company-affiliated leasing company.
@@ -73,7 +73,7 @@ Consolidated operating assets exceed 10 兆円, placing the company in the indus
 
 ## 4. Competitive / industry position (3  major integrated leasing structure)
 
-| Indicator | **Tokyo Century** | [[JapanFG/orix-corp|オリックス]] | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] |
+| Indicator | **Tokyo Century** | [[JapanFG/orix-corp|ORIX]] | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] |
 |---|---|---|---|
 | Listing segment | TSE PRIME 8439 | TSE PRIME 8591 | TSE PRIME 8593 |
 | Parent / major shareholders | Mizuho FG + ITOCHU | Independent, mainly institutional investors | MUFG (former Mitsubishi UFJ Lease) + Hitachi (former Hitachi Capital) |
@@ -116,13 +116,13 @@ For details, see EDINET securities reports and Tokyo Century IR integrated repor
 
 ## Related
 
-- [[JapanFG/tokyo-century|東京センチュリー]] -- parent entry
-- [[JapanFG/mizuho-fg|みずほFG]] -- major-shareholder-side parent group
-- [[JapanFG/orix-corp|オリックス]] -- largest integrated-leasing competitor
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] -- integrated-leasing competitor
+- [[JapanFG/tokyo-century|Tokyo Century]] -- parent entry
+- [[JapanFG/mizuho-fg|Mizuho FG]] -- major-shareholder-side parent group
+- [[JapanFG/orix-corp|ORIX]] -- largest integrated-leasing competitor
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] -- integrated-leasing competitor
 - [[JapanFG/smfl|SMFL]] -- bank-affiliated leasing competitor
-- [[JapanFG/mizuho-lease|みずほリース]] -- Mizuho-affiliated sister lessor
-- [[JapanFG/nec-capital-solutions|NECキャピタルソリューションズ]] -- vendor-affiliated lessor
+- [[JapanFG/mizuho-lease|Mizuho Leasing]] -- Mizuho-affiliated sister lessor
+- [[JapanFG/nec-capital-solutions|NEC Capital Solutions]] -- vendor-affiliated lessor
 - [[JapanFG/INDEX|JapanFG index]]
 - [[banking/INDEX|Banking domain index]]
 

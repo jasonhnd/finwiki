@@ -17,7 +17,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## TL;DR
 
-ハナ銀行 在日支店は、FSAの外国銀行支店一覧に掲載される Republic of Korea / Hana Bank の在日銀行支店。旧 Korea Exchange Bank / Hana 統合後の Japan branch route として、東京・大阪・福岡の韓国系 banking corridor を担う。
+Hana Bank's Japan branches are Republic of Korea / Hana Bank branches listed in the FSA foreign-bank branch materials. As the Japan-branch route after the legacy Korea Exchange Bank / Hana integration, the page covers the Korean banking corridor across Tokyo, Osaka, and Fukuoka.
 
 ## 1. License / branch boundary
 

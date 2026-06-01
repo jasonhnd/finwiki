@@ -4,27 +4,27 @@ source_hash: 28e10448dab56308
 lang: en
 status: machine
 fidelity: ok
-title: "アイエヌジーバンク エヌ・ヴイ 東京支店"
+title: "ING Bank N.V. Tokyo Branch"
 translated_at: 2026-05-31T15:29:03.925Z
 ---
 
-# アイエヌジーバンク エヌ・ヴイ 東京支店
+# ING Bank N.V. Tokyo Branch
 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/credit-agricole-bank-japan|Credit Agricole Bank Tokyo Branch]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-アイエヌジーバンク エヌ・ヴイ東京支店は、金融庁の外国銀行支店一覧に掲載される Netherlands / ING Bank N.V. の Japan wholesale banking branch。1985 年の東京支店開始以来、structured finance, export / project finance, cash management, lending, and correspondent banking を中心にする B2B branch として読む。
+ING Bank N.V. Tokyo Branch is the Japan wholesale-banking branch of Netherlands-based ING Bank N.V. listed in the FSA foreign-bank branch register. Since the Tokyo branch opened in 1985, it should be read as a B2B branch centered on structured finance, export and project finance, cash management, lending, and correspondent banking.
 
 ## 1. License / branch boundary
 
 | Item | Notes |
 |---|---|
-| FSA listed name | アイエヌジーバンク エヌ・ヴイ |
-| Legal / branch name | アイエヌジーバンク エヌ・ヴイ東京支店 / ING Bank N.V. Tokyo Branch |
+| FSA listed name | ING Bank N.V. |
+| Legal / branch name | ING Bank N.V. Tokyo Branch |
 | License route | Banking Act foreign bank branch; registered financial institution |
 | Home jurisdiction | Netherlands |
 | Parent / group | ING Bank N.V. / ING Group |

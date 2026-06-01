@@ -4,132 +4,105 @@ source_hash: a34002feefccb2ea
 lang: en
 status: machine
 fidelity: ok
-title: "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)"
+title: "Goldman Sachs Japan"
 translated_at: 2026-05-31T15:29:03.921Z
 ---
-# ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
+# Goldman Sachs Japan
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]] for the closest foreign-investment-bank comparison and [[securities/INDEX|securities index]] for the broader market-infrastructure and regulatory boundary.
 
 ## TL;DR
 
-米 Goldman Sachs Group (NYSE: GS) の日本拠点。1974 年東京支店開設、現在は六本木ヒルズ森タワー本社。中核法人は **ゴールドマン・サックス証券株式会社** で、外資系投資銀行として日本企業の **M&A・ECM・DCM アドバイザリーで外資 No.1 級**。法人取引中心、リテール業務は限定。主要競合は [[morgan-stanley-japan]] / JP モルガン証券 / シティグループ証券。邦銀メガバンク IB（[[mufg]] MUMSS / [[smfg]] SMBC 日興 / [[mizuho-fg]] みずほ証券）とは IB リーグテーブルで毎期競合。^[extracted]
+Goldman Sachs Japan is the Japanese platform of The Goldman Sachs Group, Inc. (NYSE: GS). The group opened a Tokyo representative office in 1969 and a Tokyo branch in 1974; its central Japanese securities entity is Goldman Sachs Japan Co., Ltd. The franchise is primarily institutional and corporate, with strength in M&A, ECM, DCM, sales and trading, asset management, private wealth, wholesale banking, real estate investment, and research. It has no broad retail branch strategy in Japan. Its direct competitors include Morgan Stanley, J.P. Morgan Securities Japan, Citigroup Global Markets Japan, BofA Securities Japan, UBS, Deutsche Securities, BNP Paribas Securities, and Barclays Securities, while Japanese megabank-affiliated securities houses compete in league tables.
 
-## 1. 会社概要
+## 1. Company profile
 
-**正式名（中核証券）**：ゴールドマン・サックス証券株式会社 ^[extracted]
-**英名**：Goldman Sachs Japan Co., Ltd.
-**親会社**：The Goldman Sachs Group, Inc.（NYSE: GS、デラウェア州法人、本社 NY）^[extracted]
-**本社**：東京都港区六本木 6-10-1 六本木ヒルズ森タワー ^[extracted]
-**設立**：1969 駐在員事務所開設 / 1974 東京支店開設 / 後年に証券子会社として法人化 ^[extracted]
+**Core securities entity**: Goldman Sachs Japan Co., Ltd. ^[extracted]
+**Parent**: The Goldman Sachs Group, Inc., a Delaware corporation headquartered in New York and listed on NYSE under ticker GS. ^[extracted]
+**Tokyo headquarters**: Roppongi Hills Mori Tower, 6-10-1 Roppongi, Minato-ku, Tokyo. ^[extracted]
+**Japanese market entry**: Tokyo representative office in 1969; Tokyo branch in 1974; later incorporated through Japanese securities entities. ^[extracted]
 
-### 主要日本法人グループ ^[extracted]
+### Main Japanese entities ^[extracted]
 
+```text
+The Goldman Sachs Group, Inc. (NYSE: GS)
+  └── Japan platform
+       ├── Goldman Sachs Japan Co., Ltd. — Type I financial instruments business; investment banking and sales / trading core
+       ├── Goldman Sachs Asset Management Co., Ltd. — investment management
+       ├── Goldman Sachs Realty Japan Ltd. — real estate investment and special-purpose-vehicle operations
+       └── Goldman Sachs Bank USA, Tokyo Branch — wholesale banking license obtained in 2002
 ```
-The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
-  └── 日本拠点
-       ├── ゴールドマン・サックス証券株式会社（GSJCL）── 第一種金商業、IB / セールス・トレーディング中核
-       ├── ゴールドマン・サックス・アセット・マネジメント株式会社（GSAM Japan）── 投資運用業
-       ├── ゴールドマン・サックス・リアルティ・ジャパン有限会社 ── 不動産投資・特別目的会社運営
-       └── ゴールドマン・サックス銀行東京支店 ── 銀行業免許（2002 取得）、ホールセール銀行業務
-```
 
-### 親会社 Goldman Sachs Group 概要（参考、NYSE: GS） ^[extracted]
+### Parent-company reference ^[extracted]
 
-| 項目 | 内容 |
+| Item | Reading |
 |---|---|
-| 設立 | 1869 年（NY）創業者 Marcus Goldman |
-| 上場 | 1999-05 NYSE 上場（IPO）|
-| 主要セグメント | Global Banking & Markets / Asset & Wealth Management / Platform Solutions |
-| 経営トップ | David Solomon（Chairman & CEO、2018〜）|
-| 従業員 | 全世界 4 万人超 |
+| Founded | 1869 in New York by Marcus Goldman |
+| Listing | NYSE IPO in 1999-05 |
+| Principal global segments | Global Banking & Markets; Asset & Wealth Management; Platform Solutions |
+| CEO | David Solomon, Chairman and CEO since 2018 |
+| Workforce | More than 40,000 employees globally |
 
-### 重要年表 ^[extracted]
+### Milestones ^[extracted]
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| **1969** | **東京駐在員事務所 開設**（日本市場進出の第一歩）|
-| **1974** | **東京支店 開設** |
-| 1980s | 日本企業の海外資金調達アドバイザリーで頭角 |
-| **1986** | **東京証券取引所 一部正会員（取引所会員）加入** |
-| 1990s | 不動産関連投資（バルクセール・債権回収）で日本市場存在感拡大 |
-| 1999-05 | 親会社 Goldman Sachs Group, Inc. NYSE 上場（IPO）|
-| **2002** | **銀行ライセンス取得（ゴールドマン・サックス銀行東京支店）** |
-| 2003-04 | 三井住友フィナンシャルグループ（[[smfg]]）に約 1500 億円の優先株出資（後に償還）|
-| 2007-2008 | サブプライム関連で日本でも住宅債権ビジネス調整 |
-| 2008-09 | リーマン・ショック後、米親会社が銀行持株会社化・FRB 監督下移行 |
-| 2008-2009 | リーマン・ショック後の業界再編期にも日本での存在感維持 |
-| 2010s 前半 | 日本企業の海外 M&A・クロスボーダー案件アドバイザリーで毎期 IB リーグテーブル上位 |
-| 2010s-2020s | アジア地域戦略の東京ハブ機能強化 |
-| 2018〜 | David Solomon CEO 体制下でグローバル戦略再編 |
+| 1969 | Tokyo representative office opened |
+| 1974 | Tokyo branch opened |
+| 1986 | Became a regular member of the Tokyo Stock Exchange |
+| 1990s | Expanded presence in Japanese real-estate-related investment and distressed-asset transactions |
+| 1999-05 | Parent Goldman Sachs Group listed on NYSE |
+| 2002 | Goldman Sachs Bank Tokyo Branch obtained a banking license |
+| 2003-04 | Invested roughly 150.0 billion yen in preferred shares of [[smfg|SMFG]], later redeemed |
+| 2008-09 | Parent converted into a bank holding company under Federal Reserve supervision after the global financial crisis |
+| 2010s-2020s | Reinforced Tokyo as an Asia strategy hub and remained active in cross-border Japanese M&A |
+| 2018 onward | Global strategy reorganized under David Solomon |
 
-### 本社・主要拠点
+## 2. Business segment map
 
-- **東京本社**：六本木ヒルズ森タワー（六本木 6-10-1）^[extracted]
-
-## 2. 事業セグメント・マップ
-
-| セグメント | 主要業務 | 特徴 |
+| Segment | Principal activities | Japan-market role |
 |---|---|---|
-| **Investment Banking（IB）** | M&A アドバイザリー・ECM（IPO / 公募増資 / 売出）・DCM（社債引受）| 外資 No.1 級・日本企業の海外案件で強い |
-| Equities / FICC（セールス・トレーディング）| 株式・債券・為替・コモディティ・デリバティブ | 機関投資家向け |
-| Asset Management（GSAM）| 投資信託・年金資産運用・オルタナティブ | 機関投資家・富裕層向け |
-| Wealth Management（PWM）| プライベートバンキング | 富裕層限定、リテール展開なし |
-| Banking（銀行東京支店）| 法人融資・キャッシュマネジメント | ホールセール特化 |
-| Real Estate（GS Realty Japan）| 不動産投資・SPC 運営 | 1990s 不動産バルクセールで台頭 |
-| Research | 株式・経済・為替リサーチ | アジア機関投資家向け |
+| Investment Banking | M&A advisory, ECM, IPOs, follow-on offerings, DCM, bond underwriting | Leading foreign investment-bank franchise for Japanese corporates |
+| Equities / FICC | Equity, fixed-income, currency, commodity, and derivatives sales and trading | Institutional-investor business |
+| Asset Management | Investment trusts, pension mandates, alternatives | Institutional and high-net-worth investor focus |
+| Wealth Management | Private wealth management | Limited to affluent and institutional-grade clients |
+| Banking | Corporate lending and cash management through the Tokyo bank branch | Wholesale banking only |
+| Real Estate | Real-estate investment and special-purpose-vehicle management | Historically important in Japanese distressed and bulk-sale markets |
+| Research | Equity, economics, rates, FX, and strategy research | Asia institutional-investor audience |
 
-### 顧客セグメント
+### Client segments
 
-- **大企業 / 上場企業**：海外 M&A・クロスボーダー案件・グローバル債券発行
-- **機関投資家**：年金基金・生損保・GPIF・運用会社向け株式 / 債券トレード
-- **富裕層**：プライベートバンキング（限定的）
-- リテール向け店舗は **なし** ^[extracted]
+- **Large corporates and listed companies**: cross-border M&A, international capital markets, global bond issuance.
+- **Institutional investors**: pension funds, insurers, GPIF-adjacent mandates, asset managers, and trading counterparties.
+- **High-net-worth clients**: selective private-banking and wealth-management service.
+- **Retail branch business**: not a strategic business line. ^[extracted]
 
-#### 外資系投資銀行（直接競合）
+### Competitive set
 
-- **モルガン・スタンレー証券**（[[morgan-stanley-japan]]）── MUFG との JV（[[mufg]] MUMSS / モルガン・スタンレー MUFG 証券）で日本市場深掘り
-- **JP モルガン証券**（J.P. Morgan Securities Japan）── 米系大手、銀行業務併設
-- **シティグループ証券**（Citigroup Global Markets Japan）── 旧 日興シティ撤退後の再構築期
-- **メリルリンチ日本証券 / BofA 証券**── Bank of America 傘下
-- **UBS 証券 / Credit Suisse 証券（→ UBS 統合）**── 欧州勢
-- **ドイツ証券 / BNP Paribas 証券 / Barclays 証券**── 欧州勢
+Foreign-investment-bank competitors include [[morgan-stanley-japan|Morgan Stanley Japan]], J.P. Morgan Securities Japan, Citigroup Global Markets Japan, Merrill Lynch Japan / BofA Securities, UBS / Credit Suisse integration lines, Deutsche Securities, BNP Paribas Securities, and Barclays Securities.
 
-#### 邦銀メガバンク系証券（IB リーグテーブル競合）
+Megabank-affiliated domestic competitors include MUMSS, Morgan Stanley MUFG Securities, SMBC Nikko Securities, Mizuho Securities, and Daiwa Securities Group. Goldman Sachs competes with these firms in Japanese M&A, ECM, DCM, and strategic advisory league tables.
 
-- **MUMSS（三菱 UFJ モルガン・スタンレー証券）**── [[mufg]] 60% / Morgan Stanley 40% の JV
-- **モルガン・スタンレー MUFG 証券**── [[mufg]] 49% / MS 51% のホールセール JV
-- **SMBC 日興証券**── [[smfg]] 100%
-- **みずほ証券**── [[mizuho-fg]] 100%
-- **大和証券グループ本社**── 独立系 大手
+### Strategic position
 
-### 戦略ポジション
+- **Investment-banking concentration**: strongest in cross-border advisory and large corporate capital markets. ^[extracted]
+- **Institutional orientation**: Japan business is centered on corporates, institutional investors, and affluent clients rather than mass retail. ^[extracted]
+- **Bank relationship boundary**: the 2003 preferred-share investment in [[smfg|SMFG]] was a capital relationship that was later redeemed; Goldman Sachs did not pursue the permanent Japan JV model used by Morgan Stanley with [[mufg|MUFG]]. ^[extracted]
 
-- **IB（M&A・ECM・DCM）特化**：日本企業の海外案件アドバイザリーで毎期 IB リーグテーブル外資勢トップ級 ^[extracted]
-- **法人取引中心**：邦銀系のような店舗網ベースのリテール展開なし、機関投資家・富裕層・大企業のみ ^[extracted]
+## 4. Regulation and policy
 
-### 邦銀との関係
+- **Japanese securities supervision**: Financial Services Agency and Kanto Local Finance Bureau.
+- **Parent-company supervision**: Federal Reserve, SEC, OCC, FINRA, New York State DFS, and other US and global regulators.
+- **Recent policy themes**: Japan IPO-market reform, cross-border M&A recovery, yen depreciation, and Bank of Japan interest-rate normalization affecting DCM and rates markets.
 
-- 2003-04 [[smfg]]（三井住友 FG）に約 1500 億円優先株出資（資本提携、後に償還）── 邦銀との資本関係歴 ^[extracted]
-- 邦銀との恒常的な業務提携（業務統合・JV）は **なし**（モルガン・スタンレーが [[mufg]] と統合戦略を採ったのと対照的）^[extracted]
+## 5. Japan leadership reference
 
-## 4. 規制・政策
-
-- **主管（証券）**：金融庁（FSA）/ 関東財務局
-- **米親会社規制**：FRB（連邦準備制度）/ SEC / OCC / FINRA / NY 州金融サービス局（DFS）等の重層的監督下
-- **直近政策論点**:
-  - 2024〜 日本 IPO 市場活性化（東証 PRIME / グロース 改革）→ ECM 案件機会
-  - 2024〜 日本企業のクロスボーダー M&A 復調 → IB 案件機会
-  - 2024〜2026 円安・日銀政策金利正常化 → DCM 市場環境変化
-
-## 5. 歴代日本トップ（参考）
-
-- 日本拠点社長 / Country Head ポジションは時期により Goldman Sachs Japan Co., Ltd. 社長 / Co-CEO 等の名称変遷あり
-- **持田昌典（Masanori Mochida）**：2001 年に当時の CEO ヘンリー・ポールソンにより日本法人トップに就任、ゴールドマン・サックス証券会長 / 社長として通算 22 年在任し、2023 年末に退任。日本市場で外資系投資銀行としての地位を確立した中心人物
-- **居松秀浩（Hidehiro Imatsu）**：持田昌典の後任として 2024-06-03 付でゴールドマン・サックス証券 新社長に就任（就任時 52 歳、金利・トレーディング畑出身）
-- 最新の現職 Country Head は Goldman Sachs 公式 Press Release / 日経等の報道を要参照
+- The Japan head / country-head title has changed over time across Goldman Sachs Japan Co., Ltd., co-CEO, and related leadership structures.
+- **Masanori Mochida** became Japan head in 2001 under Henry Paulson, served roughly 22 years as a central figure in the Japan franchise, and retired at the end of 2023.
+- **Hidehiro Imatsu** became president of Goldman Sachs Japan Co., Ltd. effective 2024-06-03, after a career centered on rates and trading.
+- Current country-head status should be checked against Goldman Sachs official releases and reliable financial press before quoting.
 
 ## Related
 
@@ -138,15 +111,15 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ## Sources
 
-- **Wikipedia: ゴールドマン・サックス / Goldman Sachs**（公開情報）
-- **Goldman Sachs Group 2024 Annual Report / Form 10-K**（NYSE: GS、SEC EDGAR 公表）
-- **金融庁 金融商品取引業者登録一覧**（公開情報、関東財務局長登録）
-- 各種業界誌（日経 / 週刊東洋経済 / 週刊ダイヤモンド 等）IB リーグテーブル報道
-- **日本経済新聞「ゴールドマン・サックス日本法人、新社長は金利のプロ 居松秀浩氏」**（居松秀浩 2024-06-03 就任 / 持田昌典 22 年在任後退任、https://www.nikkei.com/article/DGXZQOUB2553W0V20C24A4000000/）
-- **Wikipedia: 持田昌典**（2001 日本法人トップ就任 / 2023 年末退任、https://ja.wikipedia.org/wiki/持田昌典）
-- **Goldman Sachs Japan 公式 About Us**（日本拠点法人構成、https://www.goldmansachs.com/japan/our-firm/about-us/）
+- Wikipedia: Goldman Sachs / Goldman Sachs Japan, public reference.
+- Goldman Sachs Group 2024 Annual Report / Form 10-K, SEC EDGAR.
+- FSA financial instruments business operator registration lists.
+- Industry press including Nikkei, Toyo Keizai, Diamond, and other public IB league-table reporting.
+- Nikkei, report on Hidehiro Imatsu's 2024-06-03 appointment and Masanori Mochida's retirement.
+- Wikipedia: Masanori Mochida, public biographical reference.
+- Goldman Sachs Japan official About Us page.
 
 ---
 
-> [!info] 検証状況
-> confidence: **likely**（公開情報ベース、Wikipedia + 親会社 IR 公表資料 + 金融庁登録ベース）。歴代日本トップ（持田昌典 2001–2023 / 居松秀浩 2024-06〜）は日経・公式公表ベースで確認済み。個別 IB 案件 / 邦銀との資本関係詳細は時期により変動。具体的数値（売上・人員・案件件数）について、親会社グローバル数値は Form 10-K に開示されるが、日本セグメント単体数値は非公開。
+> [!info] Validation status
+> confidence: **likely**. The page is based on public information, parent-company IR, FSA registration references, Goldman Sachs official materials, and public financial press. Japan-segment revenue, personnel, and deal-count figures are generally not separately disclosed in the parent Form 10-K.

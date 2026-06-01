@@ -13,17 +13,17 @@ translated_at: 2026-06-01T04:15:40.120Z
 
 - EIP-4844 (**proto-danksharding** · 2024-03  Dencun launch) introduced **blobs** — rollup-dedicated temporary storage · priced independently from calldata · after 18  days only the commitment remains onchain
 - **Blob mechanic**: each block target=3 / max=6  blobs (Dencun original) · each blob 128 KiB (131072 bytes) · total max ~768 KiB/block (Dencun)
-- **Pectra EIP-7691** (2025-Q2) moved target → 6 / max → 9  · L2  calldata cost -50% (see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]])
+- **Pectra EIP-7691** (2025-Q2) moved target → 6 / max → 9  · L2  calldata cost -50% (see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691: blob doubling and L2 economic transmission]])
 - **Fusaka PeerDAS** (EIP-7594  · planned for 2026-Q4 ) adds another 10x capacity → theoretical ~60 GB/day blob throughput
 - **Blob fee market**: EIP-1559  style · independent base fee · fee rises exponentially above target and decays below target · decoupled from the gas fee market
 - **Post-Dencun L2  cost reduction**: rollup user gas on Arbitrum / Optimism / Base and others fell ~100x · sequencer revenue was net positive because volume increased
 - **Blob market participants**: rollup sequencers (blob submitters) · Ethereum builders / proposers (blob packagers) · DA users (data consumers)
-- **Competition with alt-DA** (see [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]): blobs narrowed alt-DA's price advantage from 50x to 3-5x · after Pectra to 1.5-2x · after Fusaka it may disappear
-- Route: pair with [[systems/INDEX|systems index]] · [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691]] / [[systems/data-availability-celestia-eigenda-blob-comparison|DA 対照]]
+- **Competition with alt-DA** (see [[systems/data-availability-celestia-eigenda-blob-comparison|DA-layer landscape comparison]]): blobs narrowed alt-DA's price advantage from 50x to 3-5x · after Pectra to 1.5-2x · after Fusaka it may disappear
+- Route: pair with [[systems/INDEX|systems index]] · [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691]] / [[systems/data-availability-celestia-eigenda-blob-comparison|DA comparison]]
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] for the 2025-Q2  blob target doubling that directly extends EIP-4844,  and [[systems/pectra-upgrade-overview|Pectra upgrade overview]] for the broader Ethereum upgrade context. For the L1/L2  strategic framing that makes blob economics structurally important, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For the DA layer competition that blob market reshapes, see [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]. For the rollup ecosystem consuming blobs, see [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]] and [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]. For the institutional staking lane that holds the validator economy behind blob processing, see [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 · institutional staking]] and [[systems/bft-validator-economy-overview|BFT validator 経済学概観]]. For restaking-secured alternative DA, see [[systems/eigenlayer-overview|EigenLayer overview]] and [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]].
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691: blob doubling and L2 economic transmission]] for the 2025-Q2  blob target doubling that directly extends EIP-4844,  and [[systems/pectra-upgrade-overview|Pectra upgrade overview]] for the broader Ethereum upgrade context. For the L1/L2  strategic framing that makes blob economics structurally important, see [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]. For the DA layer competition that blob market reshapes, see [[systems/data-availability-celestia-eigenda-blob-comparison|DA-layer landscape comparison]]. For the rollup ecosystem consuming blobs, see [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]] and [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]. For the institutional staking lane that holds the validator economy behind blob processing, see [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251: institutional staking]] and [[systems/bft-validator-economy-overview|BFT validator economics overview]]. For restaking-secured alternative DA, see [[systems/eigenlayer-overview|EigenLayer overview]] and [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]].
 
 ### Blob data structure
 
@@ -130,7 +130,7 @@ Typical flow for an L2  sequencer submitting a batch to L1 :
 - Blob target 3 → 6  · max 6 → 9
 
 - L2  sequencers no longer trigger blob fee spikes under normal load (because supply doubled)
-- User gas fell ~30-50% (see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 詳解]])
+- User gas fell ~30-50% (see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 detailed analysis]])
 - Blob fee stays at MIN (1 wei) most of the time · short spikes occur only under burst load such as ETF launches or meme coin spikes
 
 **Current state in 2026-Q2 **:
@@ -146,7 +146,7 @@ Typical flow for an L2  sequencer submitting a batch to L1 :
 
 ### Market dynamics with alt-DA
 
-See [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照]]. Impact of the blob market on alt-DA:
+See [[systems/data-availability-celestia-eigenda-blob-comparison|DA-layer landscape comparison]]. Impact of the blob market on alt-DA:
 
 **Pre-Dencun**:
 - Celestia / EigenDA / Avail / NEAR DA price advantage was ~50x versus calldata
@@ -180,7 +180,7 @@ See [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景
 - Blob packaging income is part of builder revenue
 
 **Validators** (blob forwarders):
-- ~100 万+ Ethereum validators distribute blob data through the P2P network
+- More than approximately 1 million Ethereum validators distribute blob data through the P2P network
 - With DAS (after PeerDAS), light clients only need sample verification and no longer need to download every blob
 
 **DA users** (data consumers):
@@ -252,7 +252,7 @@ Aggregate sequencer revenue across all ETH-aligned rollups is ~$150-300M ARR (20
 - **Stripe USDC on Base**: after Pectra, a single USDC transfer is ~$0.0005  · economics improved materially for Stripe · Stripe launched Base-only merchant settlement
 - **Coinbase Smart Wallet**: Account Abstraction (see [[systems/erc-4337-overview|ERC-4337]]) + low Base gas · Coinbase achieved sub-cent UX · user experience feels close to Web2 
 - **PayPal PYUSD on Base**: similarly benefits · 2025-2026  PYUSD circulating supply on Base grew ~3x
-- **RWA tokenization**: Franklin Templeton FOBXX pilot on Polygon zkEVM reduced settlement cost through Pectra blobs · however institutions still prefer L1  (see [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 対照]])
+- **RWA tokenization**: Franklin Templeton FOBXX pilot on Polygon zkEVM reduced settlement cost through Pectra blobs · however institutions still prefer L1  (see [[systems/data-availability-celestia-eigenda-blob-comparison|DA-layer comparison]])
 
 ### Asymmetric benefits for ZK rollups vs OP rollups
 
@@ -268,7 +268,7 @@ Aggregate sequencer revenue across all ETH-aligned rollups is ~$150-300M ARR (20
 
 ### Impact on validator economy and staking yield
 
-See [[systems/bft-validator-economy-overview|BFT validator 経済学概観]] and [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 institutional staking]]:
+See [[systems/bft-validator-economy-overview|BFT validator economics overview]] and [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 institutional staking]]:
 - Blob fee is an additional source of validator revenue (blob_base_fee is not burned · proposer collects it)
 - 2026  average daily blob fee revenue ~$50-100k · allocated across ~7200  blocks · about $7-15  per block · a tiny share of validator daily revenue
 - ETH burning (EIP-1559  base fee burn) is unaffected by blob fee · blob fee is not burned
@@ -278,26 +278,26 @@ See [[systems/bft-validator-economy-overview|BFT validator 経済学概観]] and
 
 - Builders now must package blob transactions plus normal transactions · complexity increases
 - Blob P2P propagation path differs from transactions · builders must coordinate
-- Proposer role is basically unchanged · but blob reception delay can affect attestation timing
+- The proposer role is largely unchanged, although blob reception delays can affect attestation timing
 - In long-term PBS (proposer-builder separation), builders specialize in blob handling
 
 ## Related
 
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|systems index]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 倍増と L2 経済連鎖]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob doubling and L2 economic transmission]]
 - [[systems/pectra-upgrade-overview|Pectra upgrade overview]]
 - [[systems/pectra-eip-7251-institutional-staking|Pectra EIP-7251 institutional staking]]
 - [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]
-- [[systems/data-availability-celestia-eigenda-blob-comparison|DA layer 全景対照 2026]]
+- [[systems/data-availability-celestia-eigenda-blob-comparison|DA-layer landscape comparison 2026]]
 - [[systems/rollup-market-share-2026-arbitrum-optimism-base|rollup market share 2026]]
 - [[systems/zk-evm-rollup-maturity-comparison-matrix-2026|ZK-EVM rollup maturity matrix 2026]]
 - [[systems/eigenlayer-overview|EigenLayer overview]]
 - [[systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic|restaking AVS landscape matrix]]
 - [[systems/erc-4337-overview|ERC-4337 overview]]
-- [[systems/bft-validator-economy-overview|BFT validator 経済学概観]]
+- [[systems/bft-validator-economy-overview|BFT validator economics overview]]
 - [[systems/cross-chain-bridge-security-insurance-matrix-2026|cross-chain bridge security insurance matrix 2026]]
-- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]]
+- [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX exposure]]
 
 ## Sources
 

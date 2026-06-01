@@ -10,9 +10,9 @@ translated_at: 2026-05-31T11:13:44.919Z
 
 # 千葉銀行 (Chiba Bank)
 
-## Wiki ??
+## Wiki 路由
 
-????? [[JapanFG/INDEX|JapanFG index]]. ??? [[JapanFG/gunma-bank|群馬銀行 (The Gunma Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[JapanFG/gunma-bank|群马银行（The Gunma Bank）]] 作同业 / 对照阅读，并与 [[banking/INDEX|banking index]] 共同把握更广泛的银行制度和监管边界。
 
 ## TL;DR
 
@@ -147,12 +147,12 @@ translated_at: 2026-05-31T11:13:44.919Z
   - 2024〜 地銀再編圧力（金融庁の地銀統合促進政策）vs 千葉銀の単独路線
   - TSUBASA システム共同化深化
 
-## ????
+## 参考资料
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[concordia-fg]] · [[fukuoka-fg]] · [[mebuki-fg]] · [[JapanFG/dai-shi-hokuetsu-fg|hokuetsu-fg]]
 - TSUBASA アライアンス加盟行（千葉銀主導）
 
-## ??
+## 相关
 
 - **Wikipedia: 株式会社千葉銀行**（https://ja.wikipedia.org/wiki/千葉銀行, 2026-05-19 抽出）
 - 千葉銀行 公式沿革・IR 開示資料（2025）

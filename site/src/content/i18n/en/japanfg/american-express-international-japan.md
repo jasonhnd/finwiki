@@ -4,62 +4,62 @@ source_hash: b7ca411b244489ae
 lang: en
 status: machine
 fidelity: ok
-title: "アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)"
+title: "American Express International Japan Branch"
 translated_at: 2026-05-31T11:13:44.915Z
 ---
 
-# アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)
+# American Express International Japan Branch
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jcb|JCB]] for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jcb|JCB]] for peer context because both JCB and American Express have three-party scheme characteristics and a history of merchant-network cooperation. Use [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system and regulatory boundary.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | American Express International, Inc. (米デラウェア法人) 日本支店 |
-| Parent | American Express Company (米 NYSE:AXP) |
-| Brand role | 3-party scheme operator + direct card issuer + acquirer (国内では混合型) |
-| Group boundary | 米本社直接支店 — 単独の日本法人 (株式会社) ではなく支店形態 (歴史的経緯による) |
-| 規制 | 割賦販売法に基づく登録カード発行業者 — METI 登録業者リストに掲載 |
-| Wiki role | Visa / Mastercard と異なる「直接発行 + 加盟店契約一体型」3-party 構造の代表ページ。 |
+| Legal name | Japan branch of American Express International, Inc., a Delaware corporation |
+| Parent | American Express Company, NYSE: AXP |
+| Brand role | Three-party scheme operator, direct card issuer, and acquirer; Japan operates with a hybrid domestic structure |
+| Group boundary | Direct branch of the U.S. parent group, not a separate Japanese stock company |
+| Regulation | Registered card issuer under the Installment Sales Act; listed in the METI registered-operator list |
+| Wiki role | Representative page for the direct-issuance and merchant-acquiring structure that differs from Visa and Mastercard's four-party model |
 
 ## 2. Business lines in Japan
 
-- **プロパーカード直接発行**: アメリカン・エキスプレス・カード (グリーン / ゴールド / プラチナ / センチュリオン等) の直接発行。
-- **国内加盟店契約**: 自社で加盟店契約 (acquiring) を行う伝統 — ただし国内では決済代行業者経由のケースも増加。
-- **提携カード発行 (4-party 的)**: [[JapanFG/mufg-nicos|三菱UFJニコス]]・セゾン・ANA・JAL 等との Amex ブランド提携カード — issuer は提携先、ブランドは Amex。
-- **法人カード・コーポレートカード**: Amex Corporate Card、Business Card、Travel & Entertainment 管理ソリューション。
-- **トラベル・コンシェルジュ・特典サービス**: プラチナ会員特典 (Centurion Lounge、ホテルプログラム、コンシェルジュ等)。
-- **インバウンド加盟店対応**: 訪日米国人観光客の Amex 利用受入加盟店網運営。
+- **Direct proprietary card issuance**: American Express issues its own Green, Gold, Platinum, Centurion, and related card products.
+- **Domestic merchant acquiring**: American Express has historically contracted directly with merchants, while payment-facilitator routes have also expanded in Japan.
+- **Co-branded card issuance with four-party features**: partner-issued Amex-branded cards with [[JapanFG/mufg-nicos|Mitsubishi UFJ NICOS]], Saison, ANA, JAL, and others; the partner is the issuer while Amex provides the brand.
+- **Corporate and business cards**: Amex Corporate Card, Business Card, and travel-and-entertainment management solutions.
+- **Travel, concierge, and benefit services**: Platinum-tier benefits such as Centurion Lounge access, hotel programs, and concierge services.
+- **Inbound merchant acceptance**: merchant-network operation for U.S. visitors and other inbound Amex card users in Japan.
 
-国内シェアは Visa / Mastercard / JCB に比し限定的だが、**プレミアム・富裕層・法人セグメント** で高い客単価と特化したブランドポジション。
+Domestic share is limited relative to Visa, Mastercard, and JCB, but American Express holds a differentiated position in the premium, affluent, and corporate segments, where average spend and brand salience are higher.
 
 ## 3. Strategy & competitive position vs JCB / domestic schemes
 
-Amex は世界的にも **3-party scheme の代表格** で、[[JapanFG/jcb|JCB]] と構造的に最も近い。両社は加盟店業務提携を結んでおり、JCB 加盟契約店で Amex カードが利用可能（JCB との提携により、ホテル・レストラン・小売に加え、公共料金・スーパー・ドラッグストア等へ利用可能加盟店が拡大）。2017 年からは共同で地域加盟店活性化施策「SHOP LOCAL」を全国展開している（JCB 公式リリース）。差別化は「**プレミアム・富裕層・法人 T&E**」に絞り、加盟店手数料の高さを高単価会員のステータス価値・特典還元で正当化する **高 take rate / 高 LTV モデル**。Visa / Mastercard / JCB が「広く薄く」を狙うのに対し Amex は「狭く深く」。国内 issuer の Visa / Mastercard 主軸 issuer ([[JapanFG/smbc-card|三井住友カード]] 等) や JCB 自社発行とは直接競合せず、**併売・補完関係** に近い。近年は [[JapanFG/mufg-nicos|三菱UFJニコス]] や [[JapanFG/aplus|アプラス]] が Amex ブランド提携カードを発行することで 4-party 的展開も増え、純粋 3-party との区別は曖昧化。
+American Express is one of the canonical global three-party schemes and is structurally closest to [[JapanFG/jcb|JCB]] in Japan. The two companies cooperate on merchant acceptance, allowing Amex cards to be used at JCB-contracted merchants and widening acceptance in hotels, restaurants, retail, utilities, supermarkets, and drugstores. Since 2017 they have also rolled out the SHOP LOCAL regional merchant program together. Amex differentiates around **premium, affluent, and corporate travel-and-entertainment spending**, using status value and benefits to support a higher take-rate and higher-LTV model. Where Visa, Mastercard, and JCB aim for broad penetration, Amex is narrower and deeper. It is therefore often complementary to domestic Visa / Mastercard issuers such as [[JapanFG/smbc-card|Sumitomo Mitsui Card]] and to JCB self-issuance. Co-branded Amex cards issued by [[JapanFG/mufg-nicos|Mitsubishi UFJ NICOS]] and [[JapanFG/aplus|APLUS]] also blur the boundary between pure three-party and four-party-style distribution.
 
 ## 4. Why this page matters
 
-- 「**3-party scheme**」の典型例として JCB との **構造比較ペア** を成す
-- 「支店 (branch)」「直接発行」「自社加盟店契約」「割賦販売法登録」という **複合的レギュレーション境界** の整理
-- 国内提携カード ([[JapanFG/mufg-nicos]] Amex 等) との上下関係を追う際の起点
+- It is the clearest Japan case for comparing JCB with another three-party-style premium card scheme.
+- It documents the combined regulatory boundary of branch form, direct issuance, proprietary acquiring, and Installment Sales Act registration.
+- It provides the starting point for tracing the hierarchy between Amex Japan and domestic co-branded cards such as [[JapanFG/mufg-nicos]] Amex products.
 
 ## Related
 
-- [[JapanFG/jcb|JCB]] (3-party 同類・歴史的提携)
-- [[JapanFG/mastercard-japan|Mastercard Japan]] / [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]] (4-party 競合)
-- [[JapanFG/diners-club-japan|Diners Club Japan]] (3-party 同類・プレミアム競合)
-- [[JapanFG/unionpay-international-japan|UnionPay International Japan]] (インバウンド競合)
-- [[JapanFG/mufg-nicos]] / [[JapanFG/aplus]] (Amex 提携カード発行 issuer)
+- [[JapanFG/jcb|JCB]] (three-party-style peer and historical merchant-network partner)
+- [[JapanFG/mastercard-japan|Mastercard Japan]] / [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]] (four-party competitors)
+- [[JapanFG/diners-club-japan|Diners Club Japan]] (premium three-party-style competitor)
+- [[JapanFG/unionpay-international-japan|UnionPay International Japan]] (inbound-payment competitor)
+- [[JapanFG/mufg-nicos]] / [[JapanFG/aplus]] (issuers of Amex co-branded cards)
 - [[payments/japan-card-issuer-acquirer-processor-split]] / [[payments/japan-interchange-and-merchant-fee-stack]]
 
 ## Sources
 
-- American Express 日本公式サイト: https://www.americanexpress.com/jp/
-- American Express 日本 会社情報: https://www.americanexpress.com/jp/company/
-- American Express Company 投資家情報: https://ir.americanexpress.com/
-- METI 割賦販売法登録業者リスト: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
-- JCB 公式リリース「アメリカン・エキスプレスとJCBが共同で地元のお店を活性化 2年目のSHOP LOCALが全国展開へ」(2018-09-06): https://www.global.jcb/ja/press/2018/201809060001_merchants.html
-- JCB 公式「JCB加盟店であれば、アメックスやダイナースクラブカードもご利用可能」(B2B 加盟店案内): https://www.jcb.co.jp/promotion/b2b/index.html
+- American Express Japan official site: https://www.americanexpress.com/jp/
+- American Express Japan company information: https://www.americanexpress.com/jp/company/
+- American Express Company investor relations: https://ir.americanexpress.com/
+- METI Installment Sales Act registered-operator list: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- JCB official release on the second year of the American Express and JCB SHOP LOCAL program, 2018-09-06: https://www.global.jcb/ja/press/2018/201809060001_merchants.html
+- JCB B2B merchant guide on accepting American Express and Diners Club cards at JCB merchants: https://www.jcb.co.jp/promotion/b2b/index.html

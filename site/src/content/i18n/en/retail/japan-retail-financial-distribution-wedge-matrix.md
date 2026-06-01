@@ -22,9 +22,9 @@ Sits inside [[retail/INDEX|retail INDEX]] as the matrix-style reading surface. T
 
 The "retail group runs a bank" frame is too coarse. Three observations make the wedge question worth its own matrix.
 
-1. **The wedge differs.** AEON's wedge is the **mall and supermarket catchment** with multi-hour dwell time. Seven & i's wedge is **convenience-store frequency plus owned ATM density**. Lawson's wedge, after the 2024 joint take-private by KDDI and Mitsubishi Corp, is **convenience-store density plus a telco economic zone** (au PAY, au PAY Card, au じぶん銀行) that it hosts rather than owns.
+1. **The wedge differs.** AEON's wedge is the **mall and supermarket catchment** with multi-hour dwell time. Seven & i's wedge is **convenience-store frequency plus owned ATM density**. Lawson's wedge, after the 2024 joint take-private by KDDI and Mitsubishi Corp, is **convenience-store density plus a telco economic zone** (au PAY, au PAY Card, au Jibun Bank) that it hosts rather than owns.
 2. **The license tier differs.** AEON carries a full ordinary-bank license under [[JapanFG/aeon-bank|Aeon Bank]] with mortgages and investment-trust distribution. Seven carries an ATM-specialised ordinary bank license under [[JapanFG/seven-bank|Seven Bank]] with B2B cash and authentication products. Lawson carries a much smaller ATM-only ordinary bank license under [[JapanFG/lawson-bank|Lawson Bank]] plus indirect exposure to [[JapanFG/au-fh|au FH]] through the JV parent.
-3. **The point currency differs.** AEON's WAON POINT is a **closed in-group currency**. Seven's nanaco point is a **closed in-group currency**. Lawson's loyalty is the **multi-brand Pontaポイント alliance** controlled by Loyalty Marketing (Mitsubishi Corp group after the CCC carve-out) — a fundamentally different network-effects shape that includes JAL, KDDI, gas stations, and many non-Lawson chains.
+3. **The point currency differs.** AEON's WAON POINT is a **closed in-group currency**. Seven's nanaco point is a **closed in-group currency**. Lawson's loyalty is the **multi-brand Ponta Point alliance** controlled by Loyalty Marketing (Mitsubishi Corp group after the CCC carve-out), a fundamentally different network-effects shape that includes JAL, KDDI, gas stations, and many non-Lawson chains.
 
 These three differences cascade into materially different CAC for cross-sell, materially different settlement-data monetisation, and materially different regulatory boundaries between bank, BaaS, prepaid, and 銀行代理業 (bank-agency) registrations.
 
@@ -36,8 +36,8 @@ These three differences cascade into materially different CAC for cross-sell, ma
 - **Bank charter**: [[JapanFG/aeon-bank|Aeon Bank]] (estabished 2007-10-29, ordinary-bank licence under the Banking Act, parent [[JapanFG/aeon-financial-service|Aeon Financial Service]] 100% subsidiary). Full retail bank — deposits, mortgages, investment-trust distribution, insurance distribution. Approximate ATM network of 6,500+ inside AEON-group facilities and stations.
 - **Card issuer arm**: AEON Card under [[JapanFG/aeon-financial-service|Aeon Financial Service]] (AFS, TSE Prime 8570) — among the largest domestic credit-card issuers by number of cards in circulation. Card + WAON dual-rail issuance, Visa / Mastercard / JCB brand variants.
 - **Prepaid e-money**: **WAON** (FeliCa-based stored-value electronic money under the Payment Services Act prepaid-payment-instrument register). Closed scheme; merchant footprint deepest in AEON stores; accepted in many transit-adjacent and convenience-store merchants.
-- **Point currency**: **WAON POINT** — closed in-group reward. Cross-program conversion to other 共通ポイント schemes is limited; the loyalty value is intra-group stickiness, not network effects.
-- **App layer**: **iAEON** + **AEON Pay** (QR / code-payment app integrated with WAON, AEON Card, coupons, customer ID). Sits inside [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] as a sub-scale wallet behind PayPay / d払い / au PAY / 楽天ペイ but with **owned-store campaign control**.
+- **Point currency**: **WAON POINT** — closed in-group reward. Cross-program conversion to other common-point schemes is limited; the loyalty value is intra-group stickiness, not network effects.
+- **App layer**: **iAEON** + **AEON Pay** (QR / code-payment app integrated with WAON, AEON Card, coupons, customer ID). Sits inside [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] as a sub-scale wallet behind PayPay / d Payment / au PAY / Rakuten Pay but with **owned-store campaign control**.
 - **Customer-ID graph**: AEON customer ID anchored by iAEON registration + AEON Card + WAON membership + AEON Bank account. Cross-references for marketing inside group; Asian consumer-finance subsidiaries (Thailand, Malaysia, Hong Kong, etc.) extend the ID graph cross-border.
 - **ATM network**: ~6,500 ATMs across AEON facilities and stations — large but not the dominant convenience-store-ATM network. Strategic position is **mall-corridor deposit and balance-check infrastructure**.
 - **CAC for banking products**: **Low for in-store cross-sell** (mortgage consult at mall counter; investment-trust pitch at finance branch). **Higher for pure-online deposit**, where AEON Bank competes with [[banking/japan-net-bank-competition-map|net banks]] on app UX and rate.
@@ -60,17 +60,17 @@ These three differences cascade into materially different CAC for cross-sell, ma
 
 ### Lawson + KDDI — convenience-store + telco hybrid (post-2024)
 
-- **Anchor wedge**: Lawson convenience-store density (**third-largest CVS chain by store count after 7-Eleven and FamilyMart**; publicly reported around 14,000+ domestic stores). After the 2024-02 joint take-private (¥4,952 per share, KDDI + Mitsubishi Corp 50/50, completed mid-2024), the wedge becomes **CVS density × KDDI au subscriber base × Pontaポイント alliance**. The strategic asset added is not new bank licensing — it is the au PAY economic zone routed through Lawson POS and the Pontaポイント network.
-- **Bank charter**: [[JapanFG/lawson-bank|Lawson Bank]] (established 2017-11-15, opened 2018-10-15, ordinary-bank licence). Substantially smaller than [[JapanFG/seven-bank|Seven Bank]] both by ATM count (approximately 13,000 ATMs in Lawson stores) and by partner-bank reach. Indirect exposure to **au じぶん銀行** through the KDDI parent — see [[JapanFG/au-fh|au Financial Holdings]].
+- **Anchor wedge**: Lawson convenience-store density (**third-largest CVS chain by store count after 7-Eleven and FamilyMart**; publicly reported around 14,000+ domestic stores). After the 2024-02 joint take-private (JPY 4,952 per share, KDDI + Mitsubishi Corp 50/50, completed mid-2024), the wedge becomes **CVS density x KDDI au subscriber base x Ponta Point alliance**. The strategic asset added is not new bank licensing; it is the au PAY economic zone routed through Lawson POS and the Ponta Point network.
+- **Bank charter**: [[JapanFG/lawson-bank|Lawson Bank]] (established 2017-11-15, opened 2018-10-15, ordinary-bank licence). Substantially smaller than [[JapanFG/seven-bank|Seven Bank]] both by ATM count (approximately 13,000 ATMs in Lawson stores) and by partner-bank reach. Indirect exposure to **au Jibun Bank** through the KDDI parent; see [[JapanFG/au-fh|au Financial Holdings]].
 - **Card issuer arm**: Lawson does not own a primary credit-card issuer at the AEON Card / Seven Card scale. **au PAY Card** (issued through KDDI-side au Financial Holdings) is the credit card pushed through Lawson channel post-2024. Lawson Ponta credit-card variants exist but the card-issuer centre of gravity sits inside the KDDI economic zone, not inside Lawson.
 - **Prepaid e-money**: Lawson does **not run a proprietary FeliCa-based stored-value scheme** comparable to WAON or nanaco. POS accepts transit IC (Suica / PASMO / ICOCA family) and the major code-payment wallets. This is a structural difference — no closed prepaid lock-in.
-- **Point currency**: **Pontaポイント** — **multi-brand alliance**, operated by Loyalty Marketing, Inc. (Mitsubishi Corp group after the CCC business carve-out). Members include JAL, KDDI, gas stations (Shell / ENEOS), Hot Pepper / restaurants, Lawson, and many non-Lawson merchants. Network effects fundamentally different from WAON POINT / nanaco point.
-- **App layer**: **Lawson app + au PAY app + Pontaポイント app** triad. Lawson POS accepts au PAY (KDDI-side, see [[JapanFG/au-payment|au Payment]]) plus PayPay, d払い, 楽天ペイ, JCB / Visa / Mastercard, transit IC, and Pontaポイント. No single in-app wallet dominates the Lawson surface.
-- **Customer-ID graph**: **Fragmented across three IDs** — Lawson ID, au ID (KDDI), Pontaポイント ID. The 2024-onwards strategic question is whether these can be merged or remain federated. au + Lawson cross-ID linkage is being progressed but **no single unified retail-finance ID** of the iAEON / 7iD scale exists yet.
+- **Point currency**: **Ponta Point** — **multi-brand alliance**, operated by Loyalty Marketing, Inc. (Mitsubishi Corp group after the CCC business carve-out). Members include JAL, KDDI, gas stations (Shell / ENEOS), Hot Pepper / restaurants, Lawson, and many non-Lawson merchants. Network effects fundamentally different from WAON POINT / nanaco point.
+- **App layer**: **Lawson app + au PAY app + Ponta Point app** triad. Lawson POS accepts au PAY (KDDI-side, see [[JapanFG/au-payment|au Payment]]) plus PayPay, d Payment, Rakuten Pay, JCB / Visa / Mastercard, transit IC, and Ponta Point. No single in-app wallet dominates the Lawson surface.
+- **Customer-ID graph**: **Fragmented across three IDs** — Lawson ID, au ID (KDDI), Ponta Point ID. The 2024-onwards strategic question is whether these can be merged or remain federated. au + Lawson cross-ID linkage is being progressed but **no single unified retail-finance ID** of the iAEON / 7iD scale exists yet.
 - **ATM network**: ~13,000 Lawson Bank ATMs. Strategic position is **subscale relative to Seven Bank** but still a meaningful in-store cash and code-payment-recharge node.
-- **CAC for banking products**: **Mixed.** Au PAY Card and au じぶん銀行 acquisition can be pushed through Lawson POS and Lawson app, but the customer typically enters via KDDI mobile subscription rather than Lawson — so the CAC structure is **telco-anchored, not retail-anchored**. Lawson Bank's own deposit-account acquisition is small-scale.
+- **CAC for banking products**: **Mixed.** Au PAY Card and au Jibun Bank acquisition can be pushed through Lawson POS and Lawson app, but the customer typically enters via KDDI mobile subscription rather than Lawson, so the CAC structure is **telco-anchored, not retail-anchored**. Lawson Bank's own deposit-account acquisition is small-scale.
 - **Settlement-data monetisation**: Settlement data is **shared across three parties** — Lawson POS data, KDDI au telco / payment data, Mitsubishi Corp distribution data (Ponta). No single party controls the full graph. This is structurally weaker than AEON's first-party data or Seven's 7iD-anchored data, but **stronger across categories** when the telco / mobility / restaurant / EC partners are aggregated.
-- **Regulatory boundary**: Lawson Bank licence + Pontaポイント loyalty operation under Loyalty Marketing + KDDI-side prepaid and funds-transfer licences (au PAY) routed through Lawson POS acceptance. **No single legal entity owns the integrated stack** because of the 50/50 JV governance — neither KDDI nor Mitsubishi can unilaterally consolidate licences inside Lawson without the other's consent.
+- **Regulatory boundary**: Lawson Bank licence + Ponta Point loyalty operation under Loyalty Marketing + KDDI-side prepaid and funds-transfer licences (au PAY) routed through Lawson POS acceptance. **No single legal entity owns the integrated stack** because of the 50/50 JV governance; neither KDDI nor Mitsubishi can unilaterally consolidate licences inside Lawson without the other's consent.
 
 ## Big comparison matrix table
 
@@ -81,15 +81,15 @@ The matrix below collapses the wedge axes side-by-side. Numbers are public-repor
 | Anchor retail wedge | Malls + supermarkets (long dwell) | 7-Eleven CVS (high frequency) | Lawson CVS + KDDI au telco zone |
 | Domestic store footprint | ~6,500+ AEON-group facilities, supermarkets, malls, drugstores | ~21,000+ 7-Eleven Japan stores | ~14,000+ Lawson stores |
 | Approximate daily / monthly footfall | High dwell-time per visit; monthly footfall in hundreds of millions across group banners | Highest visit-frequency per store; monthly footfall in low billions across 7-Eleven group | Third-largest CVS footfall; monthly footfall in low-to-mid hundreds of millions |
-| Primary payment rail at POS | FeliCa (WAON) + AEON Card + AEON Pay (QR) + transit IC + PayPay / d払い / au PAY / 楽天ペイ acceptance | FeliCa (nanaco) + Seven Card + transit IC + PayPay / d払い / au PAY / 楽天ペイ acceptance | No proprietary FeliCa scheme; transit IC + au PAY + PayPay / d払い / 楽天ペイ + Pontaポイント |
+| Primary payment rail at POS | FeliCa (WAON) + AEON Card + AEON Pay (QR) + transit IC + PayPay / d Payment / au PAY / Rakuten Pay acceptance | FeliCa (nanaco) + Seven Card + transit IC + PayPay / d Payment / au PAY / Rakuten Pay acceptance | No proprietary FeliCa scheme; transit IC + au PAY + PayPay / d Payment / Rakuten Pay + Ponta Point |
 | Owned prepaid e-money | **WAON** (closed) | **nanaco** (closed) | **None proprietary** |
 | Owned QR-payment wallet | **AEON Pay / iAEON** | None at scale (7pay discontinued 2019) | None proprietary; **au PAY** (KDDI-side) routed through |
-| Bank license tier | Ordinary bank (full retail bank) — [[JapanFG/aeon-bank\|Aeon Bank]] | Ordinary bank (ATM-specialised) — [[JapanFG/seven-bank\|Seven Bank]] | Ordinary bank (ATM-only, sub-scale) — [[JapanFG/lawson-bank\|Lawson Bank]] + indirect [[JapanFG/au-fh\|au FH]] / au じぶん銀行 |
+| Bank license tier | Ordinary bank (full retail bank) — [[JapanFG/aeon-bank\|Aeon Bank]] | Ordinary bank (ATM-specialised) — [[JapanFG/seven-bank\|Seven Bank]] | Ordinary bank (ATM-only, sub-scale) — [[JapanFG/lawson-bank\|Lawson Bank]] + indirect [[JapanFG/au-fh\|au FH]] / au Jibun Bank |
 | Card issuer arm | **AEON Card** under [[JapanFG/aeon-financial-service\|AFS]] (TSE Prime 8570) | **Seven Card** under [[JapanFG/seven-card-service\|Seven Card Service]] | Lawson Ponta cards + **au PAY Card** (KDDI-side) — no large in-group issuer at AEON Card scale |
-| Point currency | **WAON POINT** (closed in-group) | **nanaco point** (closed in-group) | **Pontaポイント** (multi-brand alliance: JAL, KDDI, gas, restaurants, Lawson, etc.) |
+| Point currency | **WAON POINT** (closed in-group) | **nanaco point** (closed in-group) | **Ponta Point** (multi-brand alliance: JAL, KDDI, gas, restaurants, Lawson, etc.) |
 | Customer-ID anchor | **iAEON** + AEON Card + WAON | **7iD** + nanaco + Seven Card | Federated: Lawson ID + au ID + Ponta ID |
 | ATM network owned | ~6,500 AEON-banner ATMs | **~27,000+ Seven Bank ATMs** (largest CVS-bank ATM network) | ~13,000 Lawson Bank ATMs |
-| BaaS-sponsor identity | Limited — AEON consumes its own licences | Limited — Seven Bank wholesales **ATM-fee revenue** to partner banks (different from BaaS) | Limited — KDDI-side au FH can wholesale banking via au じぶん銀行, but Lawson Bank itself is small |
+| BaaS-sponsor identity | Limited — AEON consumes its own licences | Limited — Seven Bank wholesales **ATM-fee revenue** to partner banks (different from BaaS) | Limited — KDDI-side au FH can wholesale banking via au Jibun Bank, but Lawson Bank itself is small |
 | Asia / cross-border footprint | **Significant** — Asian consumer-finance subsidiaries (Thailand, Malaysia, Hong Kong, Cambodia, Myanmar) under AFS | **Selective** — Seven Bank ASEAN ATM operations (Indonesia, Philippines) + Western Union remittance | **Negligible direct** — KDDI mobile international footprint exists but not retail-finance |
 | Insurance distribution | Yes — counter-led insurance solicitation through AFS / Aeon Allianz Life | Limited — primarily product-bundling | Limited — KDDI au insurance lines distributed through telco |
 | Mortgage origination | **Yes — Aeon Bank** is a meaningful retail mortgage originator (flat-fee + variable-rate products at mall finance branches) | Limited — not the primary product line | None at scale |
@@ -132,7 +132,7 @@ If a megabank wholesales BaaS into one of the three retail groups.
 
 - **AEON**: Low fit — AEON Bank already covers most retail-bank functions.
 - **Seven**: Possible — Seven Bank is partner-bank-friendly (it already wholesales ATM access to ~600 institutions). A BaaS partnership at the deposit-account layer is structurally compatible.
-- **Lawson + KDDI**: Possible via au じぶん銀行 (which already sits inside the KDDI economic zone) or via [[JapanFG/recruit-mufg-business|Recruit / MUFG business]]-style external partnerships routed through Lawson POS.
+- **Lawson + KDDI**: Possible via au Jibun Bank, which already sits inside the KDDI economic zone, or via [[JapanFG/recruit-mufg-business|Recruit / MUFG business]]-style external partnerships routed through Lawson POS.
 
 ### Founder / governance succession
 
@@ -152,7 +152,7 @@ Hypothetical: a non-bank fintech wants to wholesale a deposit-account product th
 
 - **AEON**: Likely passes on BaaS sponsorship at the deposit-account layer because AEON Bank already covers the use-case in-house; the embedded-finance opportunity is more likely to land at the **credit-card-as-a-service** layer via [[JapanFG/aeon-financial-service|AFS]] (issuing private-label cards for partners).
 - **Seven**: **Best structural fit for BaaS sponsorship** — Seven Bank's partner-bank model (~600 institutions paying ATM-utilisation fees) already wholesales an infrastructure-as-a-service product; extending to a deposit-account-API tier is a natural step. The blocker is product-strategy choice, not licensing.
-- **Lawson + KDDI**: BaaS sponsorship more likely to land through KDDI's **au じぶん銀行** route than through Lawson Bank itself. The JV structure complicates exclusive-partnership arrangements.
+- **Lawson + KDDI**: BaaS sponsorship more likely to land through KDDI's **au Jibun Bank** route than through Lawson Bank itself. The JV structure complicates exclusive-partnership arrangements.
 
 ### Sensitivity to interest-rate normalisation
 
@@ -160,14 +160,14 @@ A post-ZIRP environment with higher BoJ policy rate.
 
 - **AEON**: Mortgage origination spread widens — directly accretive to [[JapanFG/aeon-bank|Aeon Bank]] earnings. Asian consumer-finance subsidiaries less sensitive to BoJ rate but follow local-market dynamics.
 - **Seven**: Limited net-interest-margin exposure because the deposit / lending book is small. ATM-fee revenue is rate-insensitive. Float on nanaco unspent balance becomes a more material earnings contributor only at meaningful rate levels.
-- **Lawson + KDDI**: Lawson Bank's small book limits direct sensitivity. The au じぶん銀行 side (within [[JapanFG/au-fh|au FH]]) benefits more materially from rate normalisation.
+- **Lawson + KDDI**: Lawson Bank's small book limits direct sensitivity. The au Jibun Bank side (within [[JapanFG/au-fh|au FH]]) benefits more materially from rate normalisation.
 
 ### Loyalty-point liability volatility
 
 If FRS / IFRS 15-style point-liability disclosure tightens further — see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the accounting framework.
 
 - **AEON / Seven**: Both run closed in-group points (WAON POINT, nanaco point) with breakage assumptions disclosed in segment reporting. Tighter recognition would compress P&L recognition timing but not directly affect operating cash.
-- **Lawson + KDDI**: Pontaポイント liability sits inside Loyalty Marketing, Inc. (Mitsubishi Corp group). Lawson's exposure is **indirect** through its partner-membership cost rather than direct as a liability holder. Different accounting boundary.
+- **Lawson + KDDI**: Ponta Point liability sits inside Loyalty Marketing, Inc. (Mitsubishi Corp group). Lawson's exposure is **indirect** through its partner-membership cost rather than direct as a liability holder. Different accounting boundary.
 
 ## Cross-section: app-versus-store integration depth
 
@@ -176,7 +176,7 @@ The three wedges differ in how the in-store, in-app, and in-bank surfaces stitch
 | Layer | AEON | Seven & i | Lawson + KDDI |
 |---|---|---|---|
 | Unified app | iAEON + AEON Pay | 7iD + nanaco app + 7NOW (no single super-app) | Lawson app + au PAY + Ponta app (federated) |
-| In-store identification | iAEON code scan, WAON tap, AEON Card swipe | 7iD code scan, nanaco tap, Seven Card swipe | Pontaポイント scan, au PAY scan, Lawson app code |
+| In-store identification | iAEON code scan, WAON tap, AEON Card swipe | 7iD code scan, nanaco tap, Seven Card swipe | Ponta Point scan, au PAY scan, Lawson app code |
 | ATM identification | AEON Bank cash card, partner-bank cards | Seven Bank cash card, partner-bank cards (~600 partners), overseas cards | Lawson Bank cash card, partner-bank cards |
 | Cross-product cross-sell prompt | High — AEON Pay can prompt Aeon Bank, AEON Card, insurance counter | Medium — 7iD can prompt nanaco, Seven Card, Seven Bank | Low — federated IDs reduce in-app cross-sell friction but the surface is split across three apps |
 | Receipt-as-engagement | iAEON receipt / coupon return loop | Seven receipt / 7iD coupon loop | Lawson receipt / Ponta point + au PAY coupon |
@@ -205,7 +205,7 @@ The three groups are not strictly mutually exclusive — overlap zones exist whe
 
 | Contested surface | AEON treatment | Seven & i treatment | Lawson + KDDI treatment |
 |---|---|---|---|
-| QR-payment acceptance at counter | Accepts PayPay / d払い / au PAY / 楽天ペイ as well as AEON Pay | Accepts all major QR wallets | Accepts all major QR wallets + au PAY (telco-anchored) |
+| QR-payment acceptance at counter | Accepts PayPay / d Payment / au PAY / Rakuten Pay as well as AEON Pay | Accepts all major QR wallets | Accepts all major QR wallets + au PAY (telco-anchored) |
 | Transit IC acceptance | Universal accept (Suica / PASMO / 10-IC alliance) | Universal accept | Universal accept |
 | Cross-card credit issuance | AEON Card is owned issuer; other-issuer cards accepted | Seven Card is owned issuer; other-issuer cards accepted | au PAY Card pushed; other-issuer cards accepted |
 | ATM partner-bank acceptance | Yes — AEON Bank serves partner-bank cards | Yes — Seven Bank serves ~600 partner banks | Yes — Lawson Bank serves partner banks |
@@ -224,7 +224,7 @@ A short prose summary of what each wedge **uniquely owns** vs **rents** vs **doe
 
 - **AEON owns** mall and supermarket catchment, a full retail bank licence with mortgage origination at scale, a closed prepaid e-money (WAON), a top-tier issued-card brand (AEON Card), an Asian consumer-finance footprint. AEON **rents** QR-payment mindshare (PayPay still dominates aggregate code-payment value even where AEON Pay is preferred in-store). AEON **does not have** a CVS-density wedge or an ATM-platform-utility business at the Seven Bank scale.
 - **Seven & i owns** the largest CVS-network, the largest CVS-bank-ATM platform, a closed prepaid e-money (nanaco), the 7iD customer-ID anchor, a B2B cash-utility business. Seven **rents** institutional-bank deposit relationships (it does not compete head-on with megabanks or net banks for primary deposit). Seven **does not have** a mall-corridor counter-led finance distribution surface or an Asian consumer-finance subsidiary group at the AEON scale.
-- **Lawson + KDDI owns** the third-largest CVS-network, indirect exposure to the KDDI subscriber base (~30M mobile subscribers), the Pontaポイント multi-brand alliance through Mitsubishi Corp / Loyalty Marketing. Lawson + KDDI **rents** its proprietary finance stack — au PAY, au PAY Card, au じぶん銀行 are owned by KDDI and routed through Lawson POS, not owned by Lawson. Lawson + KDDI **does not have** a proprietary FeliCa-based stored-value scheme, an AEON-scale card issuer, an Aeon Bank-scale full retail bank, or a Seven Bank-scale ATM platform.
+- **Lawson + KDDI owns** the third-largest CVS network, indirect exposure to the KDDI subscriber base of roughly 30 million mobile subscribers, and the Ponta Point multi-brand alliance through Mitsubishi Corp / Loyalty Marketing. Lawson + KDDI **rents** its proprietary finance stack: au PAY, au PAY Card, and au Jibun Bank are owned by KDDI and routed through Lawson POS, not owned by Lawson. Lawson + KDDI **does not have** a proprietary FeliCa-based stored-value scheme, an AEON-scale card issuer, an Aeon Bank-scale full retail bank, or a Seven Bank-scale ATM platform.
 
 This reading shows that the three are not best understood as **competitors for the same customer wallet**, but as **operators of different finance-distribution wedges that occasionally compete at the QR-payment-acceptance layer and the inbound-tourist-ATM layer**.
 
@@ -272,7 +272,7 @@ This reading shows that the three are not best understood as **competitors for t
 - Lawson Bank official IR (https://www.lawsonbank.jp/).
 - KDDI corporate newsroom — 2024 joint TOB on Lawson with Mitsubishi Corp (https://www.kddi.com/corporate/newsrelease/).
 - au PAY official site (https://aupay.auone.jp/).
-- Pontaポイント official site (https://www.ponta.jp/).
+- Ponta Point official site (https://www.ponta.jp/).
 - Mitsubishi Corp press releases on Lawson investment and Ponta business (https://www.mitsubishicorp.com/jp/ja/pr/).
 - FSA banking license registry (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
 - METI cashless payment policy portal (https://www.meti.go.jp/policy/mono_info_service/cashless/).

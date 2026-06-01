@@ -12,11 +12,11 @@ translated_at: 2026-05-31T07:28:06.178Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/acom|アコム株式会社]]. Read it against [[JapanFG/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]] for MUFG-group competitor context on the SMFG side, [[JapanFG/aiful|アイフル]] for an independent pure-play consumer-finance peer, and [[JapanFG/mufg|MUFG]] / [[JapanFG/mufg-bank|三菱UFJ銀行]] for parent-group context.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[JapanFG/acom|Acom Co., Ltd.]]. Read it against [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance (Promise)]] for MUFG-group competitor context on the SMFG side, [[JapanFG/aiful|Aiful]] for an independent pure-play consumer-finance peer, and [[JapanFG/mufg|MUFG]] / [[JapanFG/mufg-bank|Mitsubishi UFJ Bank]] for parent-group context.
 
 ## TL;DR
 
-[[JapanFG/acom|アコム株式会社]] (8572  / TSE STANDARD) is a major consumer-finance company that is an **[[JapanFG/mufg|MUFG]] equity-method affiliate (with voting-rights ownership above 39.6%)**. This entry covers **operating-level depth** across business segments, earnings structure, guarantee business, overseas expansion, and regulatory response. Founded in Kobe in 1936-04  by Masao Kinoshita as "Maruito Gofukuten," it later shifted into consumer finance and was renamed "Acom" in 1978 , listed on the First Section of the TSE in 1996-10 , and became an equity-method affiliate through MUFG's TOB in 2008-10 . Acom's **4  strategic core segments** are: (a) loans (personal card loans, with the "Mujinkun" automated contract machine as the physical channel), (b) credit cards (AC Mastercard), (c) **credit guarantees** (bank-loan guarantees for Mitsubishi UFJ Bank and regional banks), and (d) **overseas finance** (including Thailand's Easy Buy PCL).
+[[JapanFG/acom|Acom Co., Ltd.]] (8572  / TSE STANDARD) is a major consumer-finance company that is an **[[JapanFG/mufg|MUFG]] equity-method affiliate (with voting-rights ownership above 39.6%)**. This entry covers **operating-level depth** across business segments, earnings structure, guarantee business, overseas expansion, and regulatory response. Founded in Kobe in 1936-04  by Masao Kinoshita as "Maruito Gofukuten," it later shifted into consumer finance and was renamed "Acom" in 1978 , listed on the First Section of the TSE in 1996-10 , and became an equity-method affiliate through MUFG's TOB in 2008-10 . Acom's **4  strategic core segments** are: (a) loans (personal card loans, with the "Mujinkun" automated contract machine as the physical channel), (b) credit cards (AC Mastercard), (c) **credit guarantees** (bank-loan guarantees for Mitsubishi UFJ Bank and regional banks), and (d) **overseas finance** (including Thailand's Easy Buy PCL).
 
 ## 1. Parent-group relationship
 
@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - **Consolidation vs equity method**: within MUFG consolidated reporting, Acom is treated under the equity method; Acom itself remains an independently listed company disclosing to shareholders on TSE STANDARD 8572 
 - **Corporate governance**: directors seconded from MUFG coexist with members of the founder Kinoshita family
 - **Position within the MUFG group**: the consumer-finance business sits in MUFG's **Retail & Commercial Banking Business Group**
-- **Transaction bank**: [[JapanFG/mufg-bank|三菱UFJ銀行]] is the main bank and the key partner in bank-loan guarantee business
+- **Transaction bank**: [[JapanFG/mufg-bank|Mitsubishi UFJ Bank]] is the main bank and the key partner in bank-loan guarantee business
 
 ## 2. Business segment details
 
@@ -36,7 +36,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - **Customer base**: individuals (mainly in their 20 s to 50 s), homemakers, and the self-employed
 - **Interest-rate range**: annualized 3.0%-18.0% (below the revised Money Lending Business Act cap of 20%)
 - **Credit model**: a combination of historical data, behavioral data, and credit-bureau data from CIC / JICC
-- **Regulatory boundary**: like [[JapanFG/aiful|アイフル]], it sits under the Money Lending Business Act + revised Money Lending Business Act (total-volume regulation: within 1/3  of annual income)
+- **Regulatory boundary**: like [[JapanFG/aiful|Aiful]], it sits under the Money Lending Business Act + revised Money Lending Business Act (total-volume regulation: within 1/3  of annual income)
 
 ### 2.2  Credit-card business
 
@@ -49,7 +49,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 
 - **Business model**: Acom guarantees card loans extended by banks to retail customers (bank lends to customer → Acom guarantees the bank)
 - **Main guaranteed products**:
-  - **[[JapanFG/mufg-bank|三菱UFJ銀行]] Bank Quick** (largest guarantee client and the core of the bank-loan guarantee business)
+- **[[JapanFG/mufg-bank|Mitsubishi UFJ Bank]] Bank Quick** (largest guarantee client and the core of the bank-loan guarantee business)
   - Card loans at regional and second-tier regional banks
 - **Strategic significance**: a **on-balance / off-balance role-sharing model** between banks and consumer-finance firms — the bank lends using deposit funding at lower rates, while Acom performs credit judgment and bears the risk
 - **Guaranteed balance**: Acom's consolidated guarantee balance is in the hundreds of billions to trillion-yen range (see official IR)
@@ -81,14 +81,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 
 | Item | Approximate scale |
 |---|---|
-| Consolidated operating revenue | Around the 2,700 億円 range (2024-03  period) |
-| Consolidated operating profit | 700-1,000 億円 range |
-| Personal loan balance | About 1.6 兆円 |
+| Consolidated operating revenue | Around the JPY 270 billion range (2024-03  period) |
+| Consolidated operating profit | JPY 70-100 billion range |
+| Personal loan balance | About JPY 1.6 trillion |
 | Credit guarantee balance | Hundreds of billions to trillion-yen scale |
 | Thailand Easy Buy balance | Hundreds of billions to low-trillion-yen range |
 | MUFG ownership ratio | Voting rights above 39.6% (including trust holdings) |
 | Listing | TSE STANDARD 8572  |
-| Employees (consolidated) | About 5,000 名 |
+| Employees (consolidated) | About 5,000 |
 
 For details, see EDINET annual securities reports and Acom IR earnings materials.
 
@@ -111,13 +111,13 @@ For details, see EDINET annual securities reports and Acom IR earnings materials
 
 ## Related
 
-- [[JapanFG/acom|アコム株式会社]] — parent entry
+- [[JapanFG/acom|Acom Co., Ltd.]] — parent entry
 - [[JapanFG/mufg|MUFG]] — equity-method parent group
-- [[JapanFG/mufg-bank|三菱UFJ銀行]] — main transaction bank / principal guarantee partner
-- [[JapanFG/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]] — SMFG-side competitor
-- [[JapanFG/aiful|アイフル]] — independent competitor
-- [[JapanFG/jaccs|ジャックス]] — credit-sales competitor
-- [[JapanFG/orico|オリコ]] — credit-sales competitor
+- [[JapanFG/mufg-bank|Mitsubishi UFJ Bank]] — main transaction bank / principal guarantee partner
+- [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance (Promise)]] — SMFG-side competitor
+- [[JapanFG/aiful|Aiful]] — independent competitor
+- [[JapanFG/jaccs|JACCS]] — credit-sales competitor
+- [[JapanFG/orico|Orient Corporation]] — credit-sales competitor
 - [[JapanFG/INDEX|JapanFG index]]
 - [[banking/INDEX|Banking domain index]]
 

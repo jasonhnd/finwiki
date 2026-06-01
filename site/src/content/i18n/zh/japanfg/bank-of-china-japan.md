@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.841Z
 
 该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[JapanFG/icbc-japan|中国工商銀行 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
-##TL;博士
+## 要点摘要
 
 中国银行东京分行是中国大陆/中国银行在日本金融厅外国银行分行名单上的一家银行分行。它是与日本[[chugoku-bank|中国銀行 / The Chugoku Bank]]独立的实体，被视为日本与日本之间存款、贷款、贸易结算、资金结算、外汇交易的主要分支机构。
 

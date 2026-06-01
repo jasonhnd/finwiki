@@ -48,7 +48,7 @@ FOBXX launched on **Stellar in 2021-04**, becoming the **first SEC-registered to
 3. **Lower gas / operational cost**: Stellar's near-zero transaction cost made daily NAV updates and dividend rebases inexpensive vs Ethereum gas circa 2021-2022.
 4. **Stellar Development Foundation as a strategic collaborator**: Franklin had a multi-year relationship with SDF and was not building from scratch.
 
-The **break point** was 2023-2024. Three things shifted:
+The **break point** was 2023-2024. Three structural conditions shifted:
 
 1. **[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] launched in 2024-03  on Ethereum** and immediately attracted institutional capital that wanted DeFi-composable RWA exposure. BUIDL reached $500M MCap within 90  days. Franklin's Stellar-only product was structurally unable to capture that flow.
 2. **EVM-chain institutional traction grew** through 2023-2024: Polygon, Arbitrum, and Base each landed multi-billion-dollar TradFi pilots. Tokenized funds increasingly needed to be on the chain where the institutional buyer's existing infrastructure already lived.

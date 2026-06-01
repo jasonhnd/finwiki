@@ -12,11 +12,11 @@ translated_at: 2026-05-31T11:13:44.932Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|Jimoto Holdings (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-**Second regional bank** (TSE PRIME 8337, abbreviated as "Chiba Kogin") based in Chiba Prefecture. 1952-01-18 Founded as the former Chiba Shoko Credit Union, converted to a credit union → converted to an ordinary bank → 1973 Current company name. **An independent bank that has not become a holding company**, with the No.2  position in Chiba Prefecture (No.1  is [[chiba-bank]]). In the wake of business deterioration around 1991 , the bank accepted strategic shareholders from **former Daiichi Kanko Bank and Fuji Bank (currently [[mizuho-fg]])** and was reborn as a de facto second regional bank affiliated with Mizuho. We specialize in small and medium-sized business financing and community-based sales, and utilize referrals/synergies with [[mizuho-fg]] in the wholesale field. ^[extracted]
+**Second regional bank** (TSE PRIME 8337, abbreviated as "Chiba Kogin") based in Chiba Prefecture. It was founded on 1952-01-18 as the former Chiba Shoko Credit Union, converted to a shinkin bank, then converted to an ordinary bank, and adopted the current company name in 1973. **It is an independent bank that has not become a holding company**, with the No.2 position in Chiba Prefecture (No.1 is [[chiba-bank]]). In the wake of business deterioration around 1991, the bank accepted strategic shareholders from **former Daiichi Kanko Bank and Fuji Bank (currently [[mizuho-fg]])** and was reborn as a de facto second regional bank affiliated with Mizuho. Its franchise specializes in SME finance and community-based sales, while using referrals and synergies with [[mizuho-fg]] in wholesale fields. ^[extracted]
 
 ## 1. Company profile
 
@@ -51,7 +51,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | Mizuho Bank / [[mizuho-fg]] related | 15.25% ^[extracted] |
 | Custody Bank of Japan (trust account) | 5.75% ^[extracted] |
 
-> 注: 2025-03-28 に [[chiba-bank]] が投資ファンド保有分を取得し筆頭株主化。旧来の「みずほ系戦略株主が筆頭」という構図は現状と異なり、みずほは 2023 に持分法適用を解消済み。
+> Note: On 2025-03-28, [[chiba-bank]] acquired the investment-fund-held shares and became the largest shareholder. The older framing in which Mizuho-affiliated strategic shareholders were the largest shareholder is no longer current; Mizuho had already ended equity-method application in 2023.
 
 ### Major subsidiaries and affiliated companies (disclosed)
 
@@ -70,7 +70,7 @@ Chiba Kogyo Bank (single bank, listed 8337) ^[extracted]
 - **1953** Chiba Shoko Shinkin Bank name change (conversion to credit union)
 - **1969** Ordinary bank conversion → Chiba Shoko Bank
 - **1973** Chiba Kogyo Bank renamed (current company name)
-- **2000** バブル後の経営悪化局面 → 富士銀行（現 [[mizuho-fg]]）が 2000-09 に 1,000 億円を出資、富士銀行・安田生命・安田火災による第三者割当増資、公的資金 約 600 億円注入。以後みずほ系の戦略株主体制へ ^[extracted]
+- **2000** Post-bubble business deterioration phase → Fuji Bank (currently [[mizuho-fg]]) invested JPY 100 billion in 2000-09; Fuji Bank, Yasuda Life, and Yasuda Fire participated in a third-party allotment; approximately JPY 60 billion in public funds was injected. The bank subsequently moved into a Mizuho-affiliated strategic-shareholder structure. ^[extracted]
 
 ### Important chronology (excerpt) ^[extracted]
 
@@ -114,7 +114,7 @@ Chiba Kogyo Bank (single bank, listed 8337) ^[extracted]
 | [[musashino-bank]] | Second regional bank based in Saitama ([[chiba-bank]] led, TSUBASA member, competing with neighboring prefectures) |
 | [[concordia-fg]] | Kanagawa-based metropolitan area regional bank FG (wide area competition) |
 | [[mebuki-fg]] (Joyo + Ashikaga) | Regional bank FG based in Ibaraki and Tochigi (wide area competition in the eastern metropolitan area) |
-| Megabanks ([[mizuho-fg]]・[[mufg]]・[[smfg]]) | Compete in corporate transactions within Chiba Prefecture, although Mizuho is a strategic shareholder and partially cooperates |
+| Megabanks ([[mizuho-fg]] / [[mufg]] / [[smfg]]) | Compete in corporate transactions within Chiba Prefecture, although Mizuho is a strategic shareholder and partially cooperates |
 
 ### Holding non-implementation strategy
 
@@ -126,7 +126,7 @@ Chiba Kogyo Bank (single bank, listed 8337) ^[extracted]
 - **Business type**: Second regional bank (member of the Second Regional Banks Association)
 - **Current policy issues**:
 - 2024 ~ Bank of Japan policy rate normalization → interest margin improvement bonus for regional banks (secondary regional banks also benefit)
-- 2024〜 Pressure on regional bank restructuring (FSA policy to promote integration) — Whether Chiba Kogyo can continue its independent path or not
+- From 2024 onward: pressure on regional bank restructuring (FSA policy to promote integration) — whether Chiba Kogyo can continue its independent path
 - Management impact of demographic trends within Chiba Prefecture (aging population, migration to urban areas)
 
 ## Related

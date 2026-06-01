@@ -12,7 +12,7 @@ translated_at: 2026-05-30T17:04:08.786Z
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · HTTP 402 を復活させた AI agent 決済プロトコル(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent payment protocol overview · seven-protocol survey]]. Read it against [[agent-economy/x402-http-payment-overview|x402 · AI agent payment protocol that revived HTTP 402]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
@@ -25,7 +25,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism / How it works
 
-CDP compresses "Web3  integration" from "months of development + self-built infrastructure" into "minutes of API integration". With the SDK's 1 行, developers can embed an onchain wallet inside their own product (combining [[fintech/embedded-wallet-fintech-disintermediation-overview|MPC 埋込ウォレットモデル]] + email/social login + [[systems/erc-4337-overview|ERC-4337]] smart-contract wallet + fiat onramp + [[fintech/usd-stablecoin-interchange|USDC]] gas-free transfer into one). AgentKit (released 2025-04 ) exposes these capabilities specifically for AI agent frameworks (LangChain/AutoGen, etc.), enabling an AI agent to **autonomously create a wallet → send and receive USDC → call DeFi contracts**. After the AgentCore integration, Bedrock agents on AWS obtain wallet functionality by default via CDP or Privy — **an estimated 50%+ of AI agent on-chain payment traffic is expected to pass through CDP/Privy**.
+CDP compresses "Web3 integration" from "months of development + self-built infrastructure" into "minutes of API integration". With a single SDK line, developers can embed an onchain wallet inside their own product, combining [[fintech/embedded-wallet-fintech-disintermediation-overview|the MPC embedded-wallet model]] + email/social login + [[systems/erc-4337-overview|ERC-4337]] smart-contract wallets + fiat onramp + [[fintech/usd-stablecoin-interchange|USDC]] gas-free transfer into one stack. AgentKit (released 2025-04) exposes these capabilities specifically for AI agent frameworks (LangChain/AutoGen, etc.), enabling an AI agent to **autonomously create a wallet → send and receive USDC → call DeFi contracts**. After the AgentCore integration, Bedrock agents on AWS obtain wallet functionality by default via CDP or Privy — **an estimated 50%+ of AI agent on-chain payment traffic is expected to pass through CDP/Privy**.
 
 ## Origin & evolution
 
@@ -34,11 +34,11 @@ CDP's predecessor was Coinbase Cloud (B2B infrastructure) + Coinbase Wallet API 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル総覧]]
-- [[agent-economy/ai-agent-payment-protocols-seven-layers|AI Agent 決済プロトコル7層]]
-- [[agent-economy/ap2-overview|AP2 Protocol 総覧]]
-- [[fintech/cbbtc-institutional-btc-wrapper|cbBTC ラップ BTC]]
-- [[exchanges/vetoken-host-protocol-flywheel|veToken ホストプロトコルのフライホイール]]
+- [[agent-economy/ai-agent-payment-protocols-overview|AI Agent payment protocol overview]]
+- [[agent-economy/ai-agent-payment-protocols-seven-layers|Seven layers of AI Agent payment protocols]]
+- [[agent-economy/ap2-overview|AP2 Protocol overview]]
+- [[fintech/cbbtc-institutional-btc-wrapper|cbBTC wrapped BTC]]
+- [[exchanges/vetoken-host-protocol-flywheel|veToken host-protocol flywheel]]
 <!-- /wiki-links:managed -->
 
 ## Sources

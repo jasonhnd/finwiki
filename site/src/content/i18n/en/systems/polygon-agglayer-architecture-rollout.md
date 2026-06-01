@@ -12,11 +12,11 @@ translated_at: 2026-06-01T04:15:40.166Z
 
 ## TL;DR
 
-Polygon's strategic shift in 2024-2026 年 is a transformation from **"Polygon PoS sidechain"** to **"AggLayer + CDK multichain protocol layer"**: Polygon CDK lets any team build its own ZK rollup, while AggLayer provides a unified bridge + pessimistic proof + ZK proof aggregation across CDK chains, aiming to capture the "intra-stack interop" pole in [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極]]. The MATIC → POL migration (2024-09  mainnet) changed the token model from "Polygon PoS gas + staking" to "AggLayer full-stack gas + restaking," and Polygon PoS itself was demoted from the strategic center to one of many AggLayer chains, 1  in number. Early CDK partner chains included Astar zkEVM, Manta Pacific (later withdrawn), Immutable zkEVM, X1 (OKX), Palm, IDEX, etc., but outflows became evident in 2025-2026 年, and the actual number of AggLayer v0.2 - v0.3  connections is far below the forecasts made at the beginning of 2024 年.
+Polygon's strategic shift in 2024-2026 is a transformation from **"Polygon PoS sidechain"** to **"AggLayer + CDK multichain protocol layer"**: Polygon CDK lets any team build its own ZK rollup, while AggLayer provides a unified bridge + pessimistic proof + ZK proof aggregation across CDK chains, aiming to capture the "intra-stack interop" pole in [[systems/cross-chain-five-pole-comparison-matrix|Cross-chain Five-pole Comparison]]. The MATIC → POL migration (2024-09  mainnet) changed the token model from "Polygon PoS gas + staking" to "AggLayer full-stack gas + restaking," and Polygon PoS itself was demoted from the strategic center to one of many AggLayer chains, 1  in number. Early CDK partner chains included Astar zkEVM, Manta Pacific (later withdrawn), Immutable zkEVM, X1 (OKX), Palm, IDEX, etc., but outflows became evident in 2025-2026, and the actual number of AggLayer v0.2 - v0.3  connections is far below the forecasts made at the beginning of 2024.
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] to confirm AggLayer's position among LayerZero / Hyperlane / CCIP / Cosmos IBC, and compare with [[systems/chain-abstraction-pattern-overview|chain abstraction パターン総覧]] and [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]] to understand Polygon ZK rollups' position in Ethereum L2  economics.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|Cross-chain Five-pole Comparison Matrix]] to confirm AggLayer's position among LayerZero / Hyperlane / CCIP / Cosmos IBC, and compare with [[systems/chain-abstraction-pattern-overview|Chain Abstraction Pattern Overview]] and [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 Blob Expansion]] to understand Polygon ZK rollups' position in Ethereum L2  economics.
 
 ## Polygon History Stages · PoS → zkEVM → AggLayer
 
@@ -48,26 +48,26 @@ CDK is the **Polygon version of OP Stack / Arbitrum Orbit / zkSync ZK Stack**:
 
 ## Partner chains · List and Outflows
 
-CDK / AggLayer partner chains announced by Polygon at the beginning of 2024 年:
+CDK / AggLayer partner chains announced by Polygon at the beginning of 2024:
 
 - **Astar zkEVM** (Japanese ecosystem, led by Astar Network, 2024-03  launch) — effectively wound down in 2024-Q4  due to insufficient user adoption
-- **Manta Pacific** (evaluated CDK at the beginning of 2024 年, later adopted OP Stack + Celestia, and did not reach deep practical integration with Polygon)
-- **Immutable zkEVM** (gaming L2, 2023-11  launch) — still operating in 2025 年, but traffic is below expectations
-- **X1 / OKX Chain** (OKX exchange L2, 2024-Q1 testnet) — renamed X Layer in 2025 年 and continues operating
+- **Manta Pacific** (evaluated CDK at the beginning of 2024, later adopted OP Stack + Celestia, and did not reach deep practical integration with Polygon)
+- **Immutable zkEVM** (gaming L2, 2023-11  launch) — still operating in 2025, but traffic is below expectations
+- **X1 / OKX Chain** (OKX exchange L2, 2024-Q1 testnet) — renamed X Layer in 2025 and continues operating
 - **Palm Network** (NFT-focused, ConsenSys origin) — migrated to CDK
 - **IDEX** (DEX proprietary L2)
 - **Gnosis Pay rail (some components)**: exploratory connection
 - **Wirex** / **OKX** and other wallet / exchange L2  projects
 
-**Reasons for outflow**: OP Stack's network effect (Base / OP Mainnet / Worldcoin / Zora) + the Arbitrum Orbit ecosystem (gaming chains such as Xai / Sanko) + the Celestia DA camp such as Manta have continued compressing CDK's "RaaS / app-chain" market share in 2025-2026 年.
+**Reasons for outflow**: OP Stack's network effect (Base / OP Mainnet / Worldcoin / Zora) + the Arbitrum Orbit ecosystem (gaming chains such as Xai / Sanko) + the Celestia DA camp such as Manta have continued compressing CDK's "RaaS / app-chain" market share in 2025-2026.
 
 ## MATIC → POL Migration and Business Model
 
 In 2024-09  the POL token officially launched on mainnet, replacing MATIC at 1:1 :
 
 - **Expanded role of POL**: from "Polygon PoS gas + staking" to "AggLayer multichain gas + restaking + governance"
-- **Fate of Polygon PoS**: it continues operating, but its strategic status is demoted to "one ordinary chain 1  inside AggLayer"; in 2024-2026 年, TVL fell from a peak of $5B+ to the ~$700M-1B range (DefiLlama basis)
-- **Polygon zkEVM Mainnet Beta**: since its 2023 年 launch, TVL has remained below $100M; in 2025 年 it effectively entered maintenance mode, and Polygon Labs shifted its strategic focus to CDK + AggLayer
+- **Fate of Polygon PoS**: it continues operating, but its strategic status is demoted to "one ordinary chain 1  inside AggLayer"; in 2024-2026, TVL fell from a peak of $5B+ to the ~$700M-1B range (DefiLlama basis)
+- **Polygon zkEVM Mainnet Beta**: since its 2023 launch, TVL has remained below $100M; in 2025 it effectively entered maintenance mode, and Polygon Labs shifted its strategic focus to CDK + AggLayer
 - **POL single-token economic model**: MATIC's "fixed supply" was changed to **annual 1% emission** (2% allocated to validators / 1% to community treasury, etc.; exact ratios iterate), and the long-term inflation model is close to Cosmos ATOM, ETH, etc.
 
 The business model changes from "selling Polygon PoS gas" to "selling CDK stack + AggLayer protocol-layer fees + POL value capture from staking."
@@ -82,13 +82,13 @@ The business model changes from "selling Polygon PoS gas" to "selling CDK stack 
 | ZK aggregation | Yes | No | No | No |
 | Target | Rollups that chose the Polygon stack | Any L2 / L1 | Any L2 / L1, modular | Institutional + regulated finance |
 
-AggLayer's differentiation lies in **"trust-minimized inside the stack + ZK aggregation"**, but the cost is that it can only serve Polygon CDK chains. See [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] for detailed comparison.
+AggLayer's differentiation lies in **"trust-minimized inside the stack + ZK aggregation"**, but the cost is that it can only serve Polygon CDK chains. See [[systems/cross-chain-five-pole-comparison-matrix|Cross-chain Five-pole Comparison Matrix]] for detailed comparison.
 
 ## Polygon's Position in RWA / Institutional Scenarios
 
-- **Polygon PoS RWA**: RWA deployed on Polygon PoS in 2024-2026 年 includes Hamilton Lane / Securitize / Backed Finance / Ondo, but share continues to be taken by Ethereum L1 (starting from [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]) + Stellar + Avalanche
-- **Polygon ID**: Iden3 -based ZK identity, deployed in a limited way in regulated DeFi and KYC scenarios in 2024-2026 年
-- **Polygon Enterprise / Supernets concept**: the enterprise-chain direction presented in 2022-2023 年 basically stopped being promoted after 2024 年; compared with the enterprise sales strategies of Avalanche subnet / Cosmos appchain, Polygon clearly lags in the enterprise direction
+- **Polygon PoS RWA**: RWA deployed on Polygon PoS in 2024-2026 includes Hamilton Lane / Securitize / Backed Finance / Ondo, but share continues to be taken by Ethereum L1 (starting from [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]) + Stellar + Avalanche
+- **Polygon ID**: Iden3 -based ZK identity, deployed in a limited way in regulated DeFi and KYC scenarios in 2024-2026
+- **Polygon Enterprise / Supernets concept**: the enterprise-chain initiative presented in 2022-2023 was largely no longer promoted after 2024; compared with the enterprise sales strategies of Avalanche subnet / Cosmos appchain, Polygon clearly lags in the enterprise direction
 - **vs institutional DLT**: compared with [[systems/canton-overview|Canton]] and [[systems/hyperledger-besu-overview|Hyperledger Besu]], Polygon did not enter the main battlefield of G-SIB tokenization
 
 ## AggLayer v0.x Iteration Details
@@ -100,11 +100,11 @@ AggLayer is not 1  release, but a **continuously iterated stack**. The rhythm of
 - **v0.3 (2025)**: some cross-chain messaging primitives + zkEVM prover performance improvements; actual connected chain count is lower than when v0.1  was announced
 - **v1.0 (roadmap)**: production deployment of cross-chain atomic execution + ZK proof aggregation
 - **State Sharing**: the ability to share storage slots across chains, on the roadmap; competes with Optimism Superchain's shared sequencer + Arbitrum BoLD route
-- **POL restaking connection**: in 2025-2026 年, Polygon tries to make POL the staking asset for "decentralized verifiers" inside AggLayer; this is similar to the position [[systems/eigenlayer-overview|EigenLayer]] occupies in the ETH ecosystem, but actual mainnet connection is slow
+- **POL restaking connection**: in 2025-2026, Polygon tries to make POL the staking asset for "decentralized verifiers" inside AggLayer; this is similar to the position [[systems/eigenlayer-overview|EigenLayer]] occupies in the ETH ecosystem, but actual mainnet connection is slow
 
 ## Polygon zkEVM Prover Route · Plonk + KZG + Hardfork Rhythm
 
-- **Plonky2 / Plonky3**: Polygon Labs' self-developed STARK + Plonk hybrid prover, iterated in 2023-2024 年, with a target prover time of < 1  minutes / block
+- **Plonky2 / Plonky3**: Polygon Labs' self-developed STARK + Plonk hybrid prover, iterated in 2023-2024, with a target prover time of < 1  minutes / block
 - **Pessimistic Proof uses Plonk + KZG**: depends on Ethereum L1  KZG precompile (EIP-4844), reducing verification cost
 - **Hardfork rhythm**: Polygon zkEVM hardforks every 3-6  months (naming style such as Dragonfruit / Etrog / Elderberry / Feijoa), asynchronous with the Ethereum L1  fork rhythm
 - **vs zkSync / Scroll / Linea**: zkSync Era uses Boojum (self-developed STARK), Scroll uses self-developed zkEVM + Halo2, Linea uses ConsenSys lattice-based prover, and Polygon does not have an absolute advantage in prover performance or Type-1  compatibility
@@ -138,13 +138,13 @@ Polygon CDK's AggLayer is the only approach that positions **"unified bridge ins
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
-- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]]
-- [[systems/chain-abstraction-pattern-overview|chain abstraction パターン総覧]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]]
-- [[systems/eigenlayer-overview|EigenLayer 総覧]]
-- [[systems/layerzero-v2-omnichain-messaging|LayerZero V2 オムニチェーンメッセージ]]
-- [[systems/hyperlane-overview|Hyperlane 総覧]]
-- [[systems/chainlink-ccip-institutional-messaging|CCIP 機関メッセージ]]
+- [[systems/cross-chain-five-pole-comparison-matrix|Cross-chain Five-pole Comparison Matrix]]
+- [[systems/chain-abstraction-pattern-overview|Chain Abstraction Pattern Overview]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 Blob Expansion]]
+- [[systems/eigenlayer-overview|EigenLayer Overview]]
+- [[systems/layerzero-v2-omnichain-messaging|LayerZero V2 Omnichain Messaging]]
+- [[systems/hyperlane-overview|Hyperlane Overview]]
+- [[systems/chainlink-ccip-institutional-messaging|CCIP Institutional Messaging]]
 <!-- /wiki-links:managed -->
 
 ## Sources

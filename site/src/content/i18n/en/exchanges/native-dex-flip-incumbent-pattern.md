@@ -13,14 +13,14 @@ translated_at: 2026-05-31T06:16:15.689Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system: numbering, Local Finance Bureau jurisdiction, and registration requirements]] for adjacent context and [[fintech/japan-financial-regulation|Japan financial regulation: legal architecture for tokens, crypto-assets, and payments]] for the broader system boundary.
 
 > [!info] TL;DR
 > Across EVM multi-chain history, cases where a native DEX has flipped the incumbent (typically Uniswap) on its home L2 are extremely rare. **Aerodrome flipping DEX volume share on Base to 63%** is the first case where a complete retrospective analysis is possible. The mechanism is a combination of ve(3,3) + L2  host-side interest alignment + core wrapped-asset pair pools + cross-chain integration replication.
 
 **Core mechanisms**:
 
-1. **ve(3,3) emission direction**: Aerodrome uses the Velodrome (v2) architecture; veAERO votes determine emission flow (for the base mechanism see [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]])
+1. **ve(3,3) emission direction**: Aerodrome uses the Velodrome (v2) architecture; veAERO votes determine emission flow (for the base mechanism see [[exchanges/ve33-governance-mechanism|ve(3,3) governance mechanism]])
 2. **L2  host-side holding**: Coinbase Ventures holds significant veAERO and can directionally guide emissions
 3. **Core asset moat**: Base-native wrapped assets such as cbBTC / cbETH reinforce the necessity of trading on Aerodrome
 4. **Stablecoin base-pair concentration**: USDC-led pools concentrated on Aerodrome (synergy from Coinbase's relationship with USDC)
@@ -49,7 +49,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - Polygon: QuickSwap historically attempted this but failed (lacked host-side holding)
 - Future Arc: Curve fork + Circle Ventures holding + USDC home ground — **high replicability**
 - Future Tempo: possibility of Stripe + Paradigm jointly backed DEX incubation
-- Any combination of L1/L2 host-side chains willing to hold ve stakes + ve(3,3)-type DEX (see design baselines at [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]] and [[exchanges/amm-design-evolution|AMM design evolution]])
+- Any combination of L1/L2 host-side chains willing to hold ve stakes + ve(3,3)-type DEX (see design baselines at [[exchanges/global-dex-major-five-comparison|global DEX major-five comparison]] and [[exchanges/amm-design-evolution|AMM design evolution]])
 
 **Counter-examples / boundary conditions**:
 
@@ -60,7 +60,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 **Valuation / decision-making implications**:
 
 - veAERO valuation should include a "host-side holding commitment" premium
-- Host-side (Coinbase) valuation should include a "DEX flywheel" cash-flow line item (see [[exchanges/vetoken-host-protocol-flywheel|veToken フライホイール]])
+- Host-side (Coinbase) valuation should include a "DEX flywheel" cash-flow line item (see [[exchanges/vetoken-host-protocol-flywheel|veToken flywheel]])
 - Investment thesis: entering the native DEX 6 months before the L2 host side publicly holds ve stakes = high alpha
 - Regulatory risk: the flip event may attract SEC interest in "unregistered securities sales"
 
@@ -74,11 +74,11 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[exchanges/vetoken-host-protocol-flywheel|veToken × ホスト側フライホイール]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン金利分配]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号資産ネイティブ]]
-- [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]]
+- [[exchanges/vetoken-host-protocol-flywheel|veToken host-side flywheel]]
+- [[fintech/stablecoin-revenue-split-economics|stablecoin interest revenue split]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto-native bifurcation]]
+- [[exchanges/global-dex-major-five-comparison|global DEX major-five comparison]]
 - [[exchanges/amm-design-evolution|AMM design evolution]]
-- [[exchanges/ve33-governance-mechanism|ve(3,3) governance メカニズム]]
+- [[exchanges/ve33-governance-mechanism|ve(3,3) governance mechanism]]
 - [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
 <!-- /wiki-links:managed -->

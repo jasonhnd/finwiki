@@ -9,9 +9,9 @@ translated_at: 2026-05-31T07:28:06.167Z
 ---
 # 寿险渠道结构
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/internet-life-insurance-business-model|Internet life insurance business model]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+本条目位于 [[insurance/INDEX|insurance index]]。可与 [[insurance/internet-life-insurance-business-model|互联网寿险商业模式]] 作同业 / 对照阅读，并与 [[JapanFG/INDEX|JapanFG index]] 共同把握寿险渠道组合、集团边界和更广泛的监管边界。
 
 ## TL;DR
 

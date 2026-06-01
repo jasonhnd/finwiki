@@ -11,11 +11,11 @@ translated_at: 2026-05-31T23:59:49.326Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおかフィナンシャルグループ]] ([[JapanFG/fukuoka-bank|福岡銀行]], [[JapanFG/kumamoto-bank|熊本銀行]], and [[JapanFG/18-shinwa-bank|十八親和銀行]]) and [[JapanFG/nishi-nippon-fh|西日本フィナンシャルホールディングス]] ([[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]]) for the Kyushu commercial-bank counterparts, against [[JapanFG/kitakyushu-bank|北九州銀行]] (under Yamaguchi FG, a second-tier regional bank based in Kitakyushu City) for the same-name regional commercial bank, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[JapanFG/shinkin-central|信金中央金庫]] and represented by [[JapanFG/zenshin-kyo|全国信用金庫協会]]. It is a representative city-anchor entry in the Kyushu-Okinawa block: 13  shinkin banks in the Kyushu Local Finance Bureau area + 13  shinkin banks in the Fukuoka Local Finance Branch Bureau area + 1  shinkin banks in the Okinawa General Bureau area = 27  shinkin banks in total.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|Fukuoka Financial Group]] ([[JapanFG/fukuoka-bank|Bank of Fukuoka]], [[JapanFG/kumamoto-bank|Kumamoto Bank]], and [[JapanFG/18-shinwa-bank|Juhachi-Shinwa Bank]]) and [[JapanFG/nishi-nippon-fh|Nishi-Nippon Financial Holdings]] ([[JapanFG/nishi-nippon-city-bank|Nishi-Nippon City Bank]]) for Kyushu commercial-bank counterparts; against [[JapanFG/kitakyushu-bank|Kitakyushu Bank]] for the same-name regional commercial bank; and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader shinkin system maintained by [[JapanFG/shinkin-central|Shinkin Central Bank]] and represented by [[JapanFG/zenshin-kyo|National Association of Shinkin Banks]].
 
 ## TL;DR
 
-Kitakyushu Shinkin Bank (Kitashin) is a leading Kyushu shinkin bank headquartered in Kokurakita-ku, Kitakyushu City, Fukuoka Prefecture, with Kitakyushu City, eastern Fukuoka Prefecture, and part of western Yamaguchi Prefecture as its main operating base. It is a cooperative financial institution whose core businesses are loans to SME subcontractors and SMEs in the Kitakyushu industrial belt, including steel, chemicals, ports, and logistics, as well as housing loans and individual deposits. Within Fukuoka Prefecture, the financial market is divided between the Fukuoka City side, centered on [[JapanFG/fukuoka-bank|福岡銀行]] and [[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]], and the Kitakyushu City side, including [[JapanFG/kitakyushu-bank|北九州銀行]] and Kitakyushu Shinkin Bank. This page is the cooperative-organization layer anchor for the Kitakyushu City side.
+Kitakyushu Shinkin Bank (Kitashin) is a leading Kyushu shinkin bank headquartered in Kokurakita-ku, Kitakyushu City, Fukuoka Prefecture. It serves Kitakyushu City, eastern Fukuoka Prefecture, and part of western Yamaguchi Prefecture, with lending exposure to SME subcontractors and industrial-belt firms in steel, chemicals, ports, and logistics.
 
 ## 1. License / group boundary
 
@@ -34,7 +34,7 @@ Kitakyushu Shinkin Bank (Kitashin) is a leading Kyushu shinkin bank headquartere
 Kitakyushu Shinkin Bank centers on SME loans, working capital, equipment finance, housing loans, and individual deposits for SMEs and sole proprietors in Kitakyushu City, including steel, chemicals, machinery, logistics, port-related businesses, construction, and services. Kitakyushu City is one of Japan's four major industrial belts, the Kitakyushu industrial belt, and hosts concentrations of large companies such as Nippon Steel & Sumitomo Metal, now [[JapanFG/nippon-steel|日本製鉄]], Mitsubishi Chemical, and TOTO. Loans to the secondary and tertiary SME suppliers of these large companies are a defining feature of the bank.
 
 The structure of Fukuoka Prefecture's financial market can be organized as follows:
-- **Fukuoka City side**: [[JapanFG/fukuoka-fg|ふくおか FG]] ([[JapanFG/fukuoka-bank|福岡銀行]] = Kyushu's largest regional bank) + [[JapanFG/nishi-nippon-fh|西日本 FH]] ([[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]])
+- **Fukuoka City side**: [[JapanFG/fukuoka-fg|Fukuoka FG]] ([[JapanFG/fukuoka-bank|Bank of Fukuoka]] = Kyushu's largest regional bank) + [[JapanFG/nishi-nippon-fh|Nishi-Nippon FH]] ([[JapanFG/nishi-nippon-city-bank|Nishi-Nippon City Bank]])
 - **Kitakyushu City side**: [[JapanFG/kitakyushu-bank|北九州銀行]] (under Yamaguchi FG, second-tier regional bank) + Kitakyushu Shinkin Bank (cooperative organization)
 - **Other regional banks in the prefecture**: [[JapanFG/sumitomo-mitsui-trust|三井住友信託]] Fukuoka base, etc.
 
@@ -46,7 +46,7 @@ The Kitakyushu metropolitan area is strongly affected by population decline and 
 |---|---|
 | Central institution (liquidity / clearing) | [[JapanFG/shinkin-central|信金中央金庫]] (system connection through the Fukuoka branch) |
 | Industry body (policy / standards) | [[JapanFG/zenshin-kyo|全国信用金庫協会]] and the Kyushu District Shinkin Bank Association |
-| Joint IT infrastructure | [[JapanFG/shinkin-network-services|信金ネットワークサービス]] and the Shinkin Joint Center |
+| Joint IT infrastructure | [[JapanFG/shinkin-network-services|Shinkin Network Services]] and the Shinkin Joint Center |
 | Deposit insurance | [[JapanFG/yokin-hoken-kiko|預金保険機構 (DICJ)]] |
 | Supervisory | FSA / Fukuoka Local Finance Branch Bureau |
 
@@ -54,7 +54,7 @@ The Kitakyushu metropolitan area is strongly affected by population decline and 
 
 - Anchor entry for Kitakyushu City and eastern Fukuoka Prefecture among the 27  shinkin banks in the Kyushu-Okinawa block (Kyushu 13  + Fukuoka 13  + Okinawa 1).
 - Cooperative-organization counterpart in the regional market to [[JapanFG/kitakyushu-bank|北九州銀行]], the same-name second-tier regional bank under Yamaguchi FG.
-- Contrast anchor for Kitakyushu metropolitan SME finance against [[JapanFG/fukuoka-fg|ふくおか FG]], whose business model is concentrated in Fukuoka City.
+- Contrast anchor for Kitakyushu metropolitan SME finance against [[JapanFG/fukuoka-fg|Fukuoka FG]], whose business model is concentrated in Fukuoka City.
 - A typical cooperative-organization model for financing secondary and tertiary SME suppliers in a heavy industrial belt, including steel, chemicals, ports, and logistics.
 
 ## 5. Related / Regional Issues
@@ -82,13 +82,13 @@ As a city-anchor shinkin in the Kyushu-Okinawa block, it is positioned alongside
 - [[JapanFG/INDEX|JapanFG index]]
 - [[JapanFG/shinkin-central|信金中央金庫]]
 - [[JapanFG/zenshin-kyo|全国信用金庫協会]]
-- [[JapanFG/shinkin-network-services|信金ネットワークサービス]]
+- [[JapanFG/shinkin-network-services|Shinkin Network Services]]
 - [[JapanFG/kitakyushu-bank|北九州銀行]]
 - [[JapanFG/fukuoka-bank|福岡銀行]]
-- [[JapanFG/fukuoka-fg|ふくおかフィナンシャルグループ]]
-- [[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]]
+- [[JapanFG/fukuoka-fg|Fukuoka Financial Group]]
+- [[JapanFG/nishi-nippon-city-bank|Nishi-Nippon City Bank]]
 - [[JapanFG/sapporo-shinkin|札幌信用金庫]] (northern Japan city-anchor peer)
-- [[JapanFG/sendai-shinkin|杜の都信用金庫]] (Tohoku city-anchor peer)
+- [[JapanFG/sendai-shinkin|Mori no Miyako Shinkin Bank]] (Tohoku city-anchor peer)
 - [[JapanFG/nagoya-shinkin|名古屋信用金庫]] (Chubu city-anchor peer)
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]

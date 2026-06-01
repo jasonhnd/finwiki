@@ -12,24 +12,24 @@ translated_at: 2026-05-30T14:48:27.664Z
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-program (FFP) comparison page** for the two anchor Japanese airline loyalty programs. Pair it with [[loyalty/japan-points-landscape|Japan points landscape]] for the cross-loyalty-ecosystem context, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS-15 contract-liability treatment that materially differs from common-point programs, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the JAL Mileage Bank ↔ Pontaポイント bilateral-exchange relationship, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] and [[loyalty/v-point-smbc-ccc-case|V Point case]] for the common-point peers that interconvert with airline miles, [[JapanFG/jal-card|JAL Card]] and [[JapanFG/jal-payment-port|JAL Payment Port]] for the JAL-side card-issuance and payment-infrastructure stack, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-adjacent context.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-program comparison page** for the two anchor Japanese airline loyalty programs. Pair it with [[loyalty/japan-points-landscape|Japan points landscape]] for cross-loyalty-ecosystem context, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for IFRS 15 contract-liability treatment, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the JAL Mileage Bank to Ponta Points bilateral-exchange relationship, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] and [[loyalty/v-point-smbc-ccc-case|V Point case]] for common-point peers that interconvert with airline miles, [[JapanFG/jal-card|JAL Card]] and [[JapanFG/jal-payment-port|JAL Payment Port]] for the JAL-side card-issuance and payment-infrastructure stack, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for wallet-adjacent context.
 
 ## TL;DR
 
-**JAL Mileage Bank (JMB)** and **ANA Mileage Club (AMC)** are the two dominant Japanese airline frequent-flyer programs. Both are **mileage-based deferred-revenue loyalty programs** under IFRS 15 / ASBJ Statement No.29 (contract liability under "material right" framework), and both are structurally distinct from common-point programs (dポイント, Pontaポイント, V Point, PayPay Points, Rakuten Points) in three respects: ① **mile-denominated currency** with redemption primarily against airline-seat inventory (not retail purchase value); ② **status-tier dynamics** based on flown-revenue-mile (FOP / PP) thresholds that determine lounge access, upgrade priority, and service tier; ③ **alliance interoperability** (JAL → oneworld, ANA → Star Alliance) that opens cross-airline mileage accrual and redemption. The accrual side of both programs has materially expanded into **non-flight earning** via co-branded credit cards ([[JapanFG/jal-card|JAL Card]], ANA Card series), partner-merchant scan campaigns, and bilateral exchange with common-point programs. The accounting treatment of mileage liability differs materially from cash-equivalent points — under IFRS 15, the airline allocates a portion of ticket revenue to the granted miles using **standalone selling prices** of the redemption seat / award, then releases revenue as miles are redeemed or recognised as breakage. This produces large, persistent contract-liability balances on airline balance sheets (typically multi-hundred-billion-yen scale for both JAL and ANA combined).
+**JAL Mileage Bank (JMB)** and **ANA Mileage Club (AMC)** are the two dominant Japanese airline frequent-flyer programs. Both are **mileage-based deferred-revenue loyalty programs** under IFRS 15 / ASBJ Statement No. 29, with contract liability recognized under the material-right framework. They differ structurally from common-point programs such as d Point, Ponta Points, V Point, PayPay Points, and Rakuten Points in three respects: 1. **mile-denominated currency** redeemed primarily against airline-seat inventory rather than retail purchase value; 2. **status-tier dynamics** based on flown-revenue-mile thresholds such as FOP and premium points; 3. **alliance interoperability**, with JAL tied to oneworld and ANA tied to Star Alliance. Both programs have materially expanded non-flight earning through co-branded credit cards, partner-merchant campaigns, and bilateral exchange with common-point programs. Under IFRS 15, airlines allocate part of ticket revenue to granted miles using the standalone selling price of the redemption award, then release revenue as miles are redeemed or recognized as breakage. This produces large, persistent contract-liability balances on airline balance sheets, typically at the multi-hundred-billion-yen scale for JAL and ANA combined.
 
 ## Program scale and identity layer
 
 | Item | JAL Mileage Bank (JMB) | ANA Mileage Club (AMC) |
 |---|---|---|
-| Operator | [[JapanFG/jal-card|日本航空 (JAL) ]] | ANA Holdings 全日本空輸 (ANA) |
+| Operator | [[JapanFG/jal-card|Japan Airlines (JAL)]] | ANA Holdings / All Nippon Airways (ANA) |
 | Alliance | **oneworld** (founding member) | **Star Alliance** (founding member) |
 | Mileage validity | 36 months from accrual month (legacy default) | 36 months from accrual month |
 | Status-tier metric | **FLY ON POINT (FOP)** based on flown revenue miles | **PREMIUM POINT (PP)** based on flown revenue miles |
 | Member base (Japan + global) | Tens of millions of accounts (combined JMB + JGC) | Tens of millions of accounts (combined AMC + SFC) |
 | Lifetime-status equivalent | **JAL Global Club (JGC)** — perpetual recognition tier obtained by meeting FOP threshold once and holding a JGC-eligible JAL Card | **Super Flyers Club (SFC)** — same model, perpetual recognition by meeting PP threshold once and holding an SFC-eligible ANA Card |
 | Premium status tier | **JMB Diamond** (top-tier annual qualifier; FOP threshold) | **AMC Diamond** (top-tier annual qualifier; PP threshold) |
-| Anchor co-branded card issuer | [[JapanFG/jal-card|JAL Card]] (株式会社JALカード, JAL 100% subsidiary) | ANA Card series — issued by partner card companies (JCB / VISA / Master / AmEx / Diners) under co-brand |
+| Anchor co-branded card issuer | [[JapanFG/jal-card|JAL Card]], a wholly owned JAL subsidiary | ANA Card series, issued by partner card companies under JCB, Visa, Mastercard, Amex, and Diners co-brand arrangements |
 | Mileage program operator | JAL internal (no separate operating company) | ANA internal (no separate operating company) |
 
 The **JGC / SFC perpetual-status mechanism** is a Japanese FFP-specific feature: once a member meets the FOP / PP threshold in a single calendar year, they can apply for a JAL Global Club or Super Flyers Club credit card (the "lifetime ticket" pattern), and as long as they continue to hold that card and pay the annual fee, they retain a service tier (Sapphire / Gold equivalent) regardless of subsequent-year flight activity. This creates a structurally large "former-flyer" status-holder base that does not exist in the same scale at non-Japanese FFPs.
@@ -53,14 +53,14 @@ The materially larger volume of mile-issuance now comes from non-flight sources,
 | Non-flight source | JMB | AMC |
 |---|---|---|
 | **Co-branded card** | [[JapanFG/jal-card|JAL Card]] (JCB / VISA / Master / AmEx / Diners, all 5 international brands) | ANA Card series (JCB / VISA / Master / AmEx / Diners, partner-issued) |
-| **Card spend accrual** | Standard 0.5-1% mile/¥ depending on card tier; "ショッピングマイル・プレミアム" optional ¥3,300/yr add-on doubles to 1% | Standard 0.5-1% mile/¥; "10マイルコース" optional fee structure doubles accrual |
-| **Premium card tier** | JAL Card CLUB-A ゴールド, JAL Card プラチナ, JAL アメリカン・エキスプレス・カード CLUB-A ゴールド | ANA ワイドゴールドカード, ANA カード プレミアム, ANA アメリカン・エキスプレス・プレミアム・カード |
-| **Common-point bilateral exchange** | **Pontaポイント ↔ JMB** (2 Pontaポイント → 1 mile, conversion ratio for Pontaポイント-to-mile direction; see [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]); **dポイント ↔ JMB** (similar bilateral); historically other partners | **Rakuten Points → AMC** (variable conversion); **Tポイント → AMC** (legacy); **Pontaポイント → AMC** (not standard direct route); various partner-point conversions |
-| **Mall-shopping portal** | "JAL ショッピングマイル・プログラム" + "JAL Mall" | "ANA Mall" + "ANAマイレージモール" |
-| **Hotel partner accrual** | JAL ABC, JAL ホテル, partner global hotel chains (oneworld + non-alliance hotel partners) | ANA インターコンチネンタル, ANA Crowne Plaza, partner global hotel chains |
+| **Card spend accrual** | Standard 0.5-1.0 miles per JPY 100 depending on card tier; the Shopping Mile Premium add-on doubles accrual to 1.0 mile per JPY 100 | Standard 0.5-1.0 miles per JPY 100; the optional 10-mile course doubles accrual |
+| **Premium card tier** | JAL Card CLUB-A Gold, JAL Card Platinum, JAL American Express Card CLUB-A Gold | ANA Wide Gold Card, ANA Card Premium, ANA American Express Premium Card |
+| **Common-point bilateral exchange** | **Ponta Points to JMB**, including 2 Ponta Points to 1 mile for the Ponta-to-mile direction; **d Point to JMB** and other historical partners | **Rakuten Points to AMC**, legacy **T-Point to AMC**, no standard direct Ponta-to-AMC route, and various partner-point conversions |
+| **Mall-shopping portal** | JAL Shopping Mile Program and JAL Mall | ANA Mall and ANA Mileage Mall |
+| **Hotel partner accrual** | JAL ABC, JAL Hotels, and partner global hotel chains | ANA InterContinental, ANA Crowne Plaza, and partner global hotel chains |
 | **Other** | Car rental, restaurant, leisure partner programs | Car rental, restaurant, leisure partner programs |
 
-The **deepest structural difference** is on the **common-point bilateral exchange** side: **JAL Mileage Bank has a particularly strong relationship with Pontaポイント** (Loyalty Marketing-operated, Mitsubishi-affiliated), reinforced by JAL's status as a Pontaポイント alliance member. **ANA Mileage Club has a stronger relationship with Rakuten Points and historically Tポイント**, reflecting different commercial partner negotiations. Under the [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|2024 Lawson + Mitsubishi take-private]], the JAL ↔ Pontaポイント ↔ Lawson cross-ecosystem becomes a more coherent triangle.
+The **deepest structural difference** lies in **common-point bilateral exchange**. **JAL Mileage Bank has a particularly strong relationship with Ponta Points**, operated by Loyalty Marketing and linked with the Mitsubishi group, reinforced by JAL's status as a Ponta Points alliance member. **ANA Mileage Club has a stronger relationship with Rakuten Points and historically T-Point**, reflecting different commercial partner negotiations. Under the [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|2024 Lawson + Mitsubishi take-private]], the JAL to Ponta Points to Lawson cross-ecosystem becomes a more coherent triangle.
 
 ## Mileage redemption — seat inventory dominant
 
@@ -75,7 +75,7 @@ The dominant redemption mode for both programs is **award airline tickets** agai
 | **Upgrade award** | Available; mile cost varies | Available; mile cost varies |
 | **Partner-airline award (alliance)** | oneworld partners (BA, AA, QF, CX, JL, IB, etc.) | Star Alliance partners (UA, LH, SQ, AC, NH, OZ, etc.) |
 | **Non-flight redemption** | Limited (electronic money / partner products) | Limited (electronic money / partner products) |
-| **Convert mile → e-money** | **JAL ペイ** (JAL Pay; conversion of miles into JAL Pay balance, paid back via ePay) | **ANA Pay** (conversion of miles into ANA Pay balance) |
+| **Convert mile to e-money** | **JAL Pay**, conversion of miles into JAL Pay balance via ePay | **ANA Pay**, conversion of miles into ANA Pay balance |
 
 The redemption-economics rule of thumb is **2-3¥ per mile equivalent value** for international premium-cabin redemption (typical "sweet spot" for both programs), vs **~1¥/mile** for low-season domestic economy. This is materially higher than common-point redemption value (~1¥/point), which is the economic justification for accumulating miles rather than converting to common points or cash.
 
@@ -106,7 +106,7 @@ Both JAL and ANA report under IFRS / J-GAAP-aligned standards, and treat **unred
 
 The **contract-liability balance** for both JAL and ANA is in the **multi-hundred-billion-yen scale** based on public IR disclosures (the exact balance varies year-to-year and is disclosed in the consolidated balance sheet's "other liabilities" / "contract liabilities" line). The breakage assumption is reviewed annually, and JAL's COVID-period and post-COVID disclosures show how pandemic-era recognition policies (mile-validity extensions, special breakage assumptions) materially affected reported revenue.
 
-The contrast with **[[loyalty/d-point-detailed-ecosystem|dポイント]]** is that NTT docomo's contract-liability disclosure combines dポイント with telecom-revenue deferred amounts, while **JAL and ANA disclose mileage liability in clearly identifiable contract-liability line items** (because mileage is the dominant non-flight deferred-revenue obligation for an airline). The broader framework is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
+The contrast with **[[loyalty/d-point-detailed-ecosystem|d Point]]** is that NTT docomo's contract-liability disclosure combines d Point with telecom-revenue deferred amounts, while **JAL and ANA disclose mileage liability in clearly identifiable contract-liability line items** because mileage is the dominant non-flight deferred-revenue obligation for an airline. The broader framework is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
 
 ## Partner-network depth — beyond alliance
 
@@ -118,7 +118,7 @@ The **oneworld vs Star Alliance** allocation determines the cross-airline accrua
 | **Codeshare-only partner airlines (non-alliance)** | Emirates (codeshare), various regional | TUI, etc. |
 | **Hotel** | JAL hotel chains + partner chains (Hilton, IHG, Marriott via mile conversion) | InterContinental Hotels Group, Hilton, Marriott |
 | **Car rental** | Hertz, Avis, etc. | Hertz, Avis, etc. |
-| **Common-point bilateral exchange** | **Pontaポイント** (anchor), dポイント, others | **Rakuten Points** (anchor), Tポイント (legacy), others |
+| **Common-point bilateral exchange** | **Ponta Points** as anchor, d Point, others | **Rakuten Points** as anchor, T-Point legacy, others |
 | **Co-branded card** | [[JapanFG/jal-card|JAL Card]] (5 international brands) | ANA Card series (5 international brands via partner issuers) |
 | **Department store / e-money** | JR-East ViewCard (limited), various retail | au PAY (limited), various retail |
 | **Charity donation** | JMB charity programs | AMC charity programs |
@@ -127,14 +127,14 @@ The **oneworld vs Star Alliance** allocation determines the cross-airline accrua
 
 | FFP | Anchor airline | Alliance | Member scale | Anchor common-point partner | Co-branded card |
 |---|---|---|---|---|---|
-| **JMB** | JAL | oneworld | Tens of millions | Pontaポイント | [[JapanFG/jal-card|JAL Card]] |
-| **AMC** | ANA | Star Alliance | Tens of millions | Rakuten Points (anchor), historic Tポイント | ANA Card |
+| **JMB** | JAL | oneworld | Tens of millions | Ponta Points | [[JapanFG/jal-card|JAL Card]] |
+| **AMC** | ANA | Star Alliance | Tens of millions | Rakuten Points as anchor, historic T-Point | ANA Card |
 | Skywards (Emirates) | Emirates | None (independent) | Global | None Japan | EK Emirates |
 | MileagePlus (UA) | United | Star Alliance | Global | None Japan | UA partner cards |
 | AAdvantage (American) | AA | oneworld | Global | None Japan | AA partner cards |
 | BAEC (BA) | BA | oneworld | Global | None Japan | BA partner cards |
 
-The structural strength of JMB and AMC vs non-Japanese FFPs is the **Japanese common-point bilateral-exchange network** that doesn't exist in foreign markets at the same scale. Pontaポイント and Rakuten Points materially expand the non-flight earning footprint for Japanese-resident members.
+The structural strength of JMB and AMC relative to non-Japanese FFPs is the **Japanese common-point bilateral-exchange network**, which does not exist in foreign markets at the same scale. Ponta Points and Rakuten Points materially expand the non-flight earning footprint for Japanese-resident members.
 
 ## Related
 

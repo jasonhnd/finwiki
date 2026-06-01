@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.411Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/dai-ichi-frontier-life|第一フロンティア生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与第一 Frontier 生命保险和 insurance index 对照阅读。
 
 ## TL;DR
 

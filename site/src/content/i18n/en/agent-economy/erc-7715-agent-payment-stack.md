@@ -40,7 +40,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 4. Vercel verifies the payment · returns the API response
 5. The user confirms in the wallet UI that a cumulative $X.XX has been paid to Vercel that day · the permission can be revoked at any time
 
-**Potential of Stripe Privy integration**: Stripe is already connected to [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット]] via Privy (already acquired). Once Stripe + Privy + 7715  + AP2  are integrated · **any SaaS can accept auto-payment from an agent** · no credit-card number, no OAuth, no subscription management needed — migrating the SaaS billing layer from Stripe Billing (card-based) to on-chain permission (address + scope-based). For details see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]].
+**Potential of Stripe Privy integration**: Stripe is already connected to [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]] via Privy (already acquired). Once Stripe + Privy + 7715  + AP2  are integrated · **any SaaS can accept auto-payment from an agent** · no credit-card number, no OAuth, no subscription management needed — migrating the SaaS billing layer from Stripe Billing (card-based) to on-chain permission (address + scope-based). For details see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]].
 
 **Division of labor among major players**:
 - **MetaMask Snaps**: implements 7715  in 2025  · EOA + 7702  dual mode

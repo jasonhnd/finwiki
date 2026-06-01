@@ -8,32 +8,32 @@ title: "Embedded-wallet 格局 2026 · 整合后的 provider 版图"
 translated_at: 2026-05-30T17:04:08.788Z
 ---
 
-# Embedded-wallet 格局 2026 · 整合后的 provider 版图
+# Embedded-wallet ?? 2026??????????
 
 ## TL;DR
 
 到 2026 年中,embedded-wallet 品类已从 20+ 家 SDK 厂商的长尾压缩为一个 **default-tier 双头垄断**(Stripe 旗下的 Privy、Coinbase CDP)加一个 **secondary tier**(Magic、thirdweb、Dynamic、Web3Auth、Particle Network、Crossmint)— 后者争夺 hyperscaler 默认路由未覆盖的利基。驱动因素并非产品优越,而是 **hyperscaler 默认钱包置入(default-wallet placement)**:当 AWS Bedrock AgentCore、Azure AI Foundry Agent Service 与 Google Cloud Vertex AI Agent Builder 各自挑选「default」SDK 时,被选中的厂商以零分发成本捕获 AI-agent 置备的长尾。经典示例参见 [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore default-wallet positioning]],底层飞轮参见 [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet network effects · integrator moat]]。
 
-## Wiki route
+## Wiki ??
 
-This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it with [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe subsidiary embedded self-custody wallet]] for the canonical Stripe-side example, [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP · developer platform overview]] for the Coinbase-side example, [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet integrator moat]] for the moat thesis, and [[fintech/embedded-wallet-fintech-disintermediation-overview|embedded wallet fintech disintermediation]] for the fintech-side framing.
+????? [[agent-economy/INDEX|agent-economy ??]] ???? Privy?Coinbase CDP?embedded wallet ??????????????????
 
-## Default-tier vs secondary-tier 的分野
+## ??????????
 
 到 2026年中,公开文档与 hyperscaler 公告中可见的品类分野:
 
 | 层级 | Provider | 所有者 | Hyperscaler 默认 | 公开规模 | 备注 |
 |---|---|---|---|---|---|
-| Default | Privy | Stripe(2025年 6 月收购) | AWS Bedrock AgentCore(默认)、Azure AI Foundry(两个默认之一) | 110M+ 钱包,1,000+ 集成 | 经由 Stripe Connect + Bridge USDB rail 路由(参见 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]) |
-| Default | Coinbase CDP | Coinbase(NASDAQ: COIN) | AWS Bedrock AgentCore(与 Privy 共同默认)、GCP Vertex AI Agent Builder(默认) | ~150K 开发者,~8K dApp,~5M MAU embedded 钱包 | 默认绑定 Base + USDC + Onramp |
-| Secondary | Magic | 独立(Tiger / SV Angel) | 非 hyperscaler 默认 | 长尾 Web3 SaaS 客户 | Magic Link / OAuth + DKLs MPC;按 per-MAU 分级定价 |
-| Secondary | thirdweb | 独立 | 非 hyperscaler 默认 | 重在 NFT / 游戏 / 消费者 dApp | InAppWallet + smart-account SDK;链无关;部分开源 |
-| Secondary | Dynamic | 独立(a16z crypto) | 非 hyperscaler 默认 | 聚焦 DeFi / 消费金融 | 多链登录,embedded + external-wallet 桥接 |
-| Secondary | Web3Auth | 独立(Torus Labs,BNB-Labs 投资) | 非 hyperscaler 默认 | 长尾 Web3 + 企业 | tKey + OAuth share 重建;开源 |
-| Secondary | Particle Network | 独立 | 非 hyperscaler 默认 | EVM + BTC + 多链 | 模块化 SDK + 自有 chain-abstraction 层 |
-| Secondary | Crossmint | 独立 | 非 hyperscaler 默认 | NFT / commerce / RWA | 专长于 fiat-funded 钱包 + 收据 rail |
+| ??? | Privy | Stripe?2025 ? 6 ???? | AWS Bedrock AgentCore?????Azure AI Foundry???????? | 110M+ ???1,000+ ?? | ?? Stripe Connect + Bridge USDB rail ????? [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe ????]]? |
+| ??? | Coinbase CDP | Coinbase?NASDAQ: COIN? | AWS Bedrock AgentCore?? Privy ??????GCP Vertex AI Agent Builder???? | ? 150K ????? 8K dApp?? 5M MAU embedded ?? | ???? Base + USDC + Onramp |
+| ??? | Magic | ???Tiger / SV Angel? | ? hyperscaler ?? | ?? Web3 SaaS ?? | Magic Link / OAuth + DKLs MPC?? MAU ???? |
+| ??? | thirdweb | ?? | ? hyperscaler ?? | NFT??????? dApp | InAppWallet + smart-account SDK????????? |
+| ??? | Dynamic | ???a16z crypto? | ? hyperscaler ?? | DeFi ????? | ?????embedded ? external-wallet ?? |
+| ??? | Web3Auth | ???Torus Labs?BNB-Labs ??? | ? hyperscaler ?? | ?? Web3 ????? | tKey + OAuth share ????? |
+| ??? | Particle Network | ?? | ? hyperscaler ?? | EVM + BTC + ?? | ??? SDK + ?? chain-abstraction ? |
+| ??? | Crossmint | ?? | ? hyperscaler ?? | NFT?commerce?RWA | ??? fiat-funded ????? rail |
 
-「Default」意味着该 SDK 作为推荐路径出现在 hyperscaler 头等的 agent-orchestration 文档中,并预置好 credentials / billing / IAM 接线。开发者可切换到任何其他 SDK,但默认项正是大批净新增 agent 所继承的。
+????????? SDK ????????? hyperscaler ??? agent-orchestration ??????? credentials?billing ? IAM ????????????? SDK???????????? agent ???
 
 ## 整合的五大驱动
 
@@ -117,7 +117,7 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it with 
 
 1. **置备是隐式而非显式的。** 当开发者拉起一个需要接收 [[fintech/usd-stablecoin-interchange|USDC]] 支付的 AWS Bedrock agent 时,AgentCore Payments 模块在底层置备一个 Privy 或 CDP 钱包。开发者从未做过钱包厂商的决定。
 2. **hyperscaler 吸收了分发成本。** 一个 secondary-tier SDK 现在必须说服开发者退出默认 — 这比说服他们选入单一所选 SDK 摩擦更高。
-3. **default-tier provider 获得结构性复利。** 每个默认置备的钱包都增添 Privy 或 CDP 的安装基础,从而使它们作为 Azure / GCP 及任何后续 hyperscaler-agent 平台的下一个默认候选更具吸引力。
+3. **??????????????** ????????????? Privy ? CDP ????????? Azure?GCP ???? hyperscaler-agent ?????????????????
 
 2026 年中 hyperscaler 公开文档中可见的默认置入:
 
@@ -128,12 +128,12 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it with 
 | Google Cloud | Vertex AI Agent Builder | 偏向 CDP;与 Coinbase 共同署名的 AP2 是结构性锚点 | 参见 [[agent-economy/ap2-overview|AP2 overview]] |
 | Cloudflare | Workers AI Agents | 集成 x402;钱包 provider 选择仍在开发者侧 | 更底层:路由支付而非置备 identity |
 
-## Stripe 拥有 Privy — 战略含义
+## Stripe ?? Privy?????
 
 Stripe 于 2025年 6 月收购 Privy。公开报道把交易定在 $300-500M 区间;部分来源称含 earn-out 结构高达 $1.1B。从品类视角看,后果:
 
-- **最大的中立 embedded-wallet 厂商不再中立。** 非 Stripe merchant 与 Stripe 竞品(Adyen、Block、PayPal)如今面临「用我竞争对手的钱包栈还是自建」的抉择。
-- **Privy 变得 Stripe-rail-aware。** 在 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|five-layer collapse]] 内,Privy 按结构性设计路由到 Bridge(USDB 稳定币)与 Tempo(结算链)。
+- **????? embedded-wallet ???????** ? Stripe merchant ? Stripe ???Adyen?Block?PayPal?????????????????????????
+- **Privy ???? Stripe rail ???** ? [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|????]] ??Privy ????????? Bridge?USDB ????? Tempo??????
 - **AWS AgentCore 默认置入产生复利。** 与 Stripe 对齐的 AgentCore agent 继承与 Stripe 对齐的钱包,后者又继承与 Stripe 对齐的稳定币与链。纵向栈在每一层都被货币化。
 - **反垄断问题仍悬而未决。** 截至 2026, 年中,美国、英国、欧盟或日本的竞争监管机构都未就 Privy 收购公开介入,但该模式与历史上的 Apple / Google 默认搜索引擎案例相平行(参见 [[agent-economy/embedded-wallet-network-effects-moat|integrator moat]] 的对立观点章节)。
 
@@ -148,34 +148,34 @@ Stripe 于 2025年 6 月收购 Privy。公开报道把交易定在 $300-500M 区
 | 2025-Q3 | AWS 挑选 Privy + CDP 作为 AgentCore 默认 | AWS / Stripe / Coinbase | (平台默认) | n/a |
 | 待定 | thirdweb / Magic / Web3Auth / Dynamic 收购传闻 | (各方) | (各方) | 无确认 |
 
-按可能性加权但未确认:某 hyperscaler 可能收购一家 secondary-tier provider 以与 Stripe-Privy 和 Coinbase-CDP 竞争。截至 2026年中,公开文档与公开并购备案均未显示此事。
+????????????? hyperscaler ??????????????? Stripe-Privy ? Coinbase-CDP ????? 2026 ?????????????????????
 
-## Related
+## ??
 
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/INDEX|Agent economy index]]
-- [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet overview]]
-- [[agent-economy/privy-aws-agentcore-default-wallet|Privy × AWS AgentCore default-wallet positioning]]
-- [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP developer platform]]
-- [[agent-economy/embedded-wallet-network-effects-moat|Embedded wallet integrator moat]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet fintech disintermediation overview]]
-- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]
+- [[agent-economy/INDEX|Agent economy ??]]
+- [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet ??]]
+- [[agent-economy/privy-aws-agentcore-default-wallet|Privy x AWS AgentCore ??????]]
+- [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP ?????]]
+- [[agent-economy/embedded-wallet-network-effects-moat|Embedded wallet ??????]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded wallet ????????]]
+- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe ????]]
 - [[fintech/INDEX|Fintech index]]
 <!-- /wiki-links:managed -->
 
-## Sources
+## ??
 
 - Privy public documentation: docs.privy.io
-- Coinbase Developer Platform public documentation: docs.cdp.coinbase.com
-- Magic public documentation: magic.link/docs
+- Coinbase Developer Platform ?????docs.cdp.coinbase.com
+- Magic ?????magic.link/docs
 - thirdweb public documentation: portal.thirdweb.com
-- Particle Network public documentation: docs.particle.network
+- Particle Network ?????docs.particle.network
 - Web3Auth public documentation: web3auth.io/docs
 - Dynamic public documentation: docs.dynamic.xyz
 - Crossmint public documentation: docs.crossmint.com
-- AWS Bedrock AgentCore Payments public announcement and docs (2025-Q3 GA)
-- Azure AI Foundry Agent Service public docs (Microsoft Build 2025 / 2026)
-- Google Cloud Vertex AI Agent Builder public docs (Google Cloud Next 2026)
-- Stripe public communications on Privy and Bridge acquisitions (June 2025)
-- FCA, SEC, FSA Japan, and MAS public registers and consultation papers on embedded-wallet and electronic-money classification
+- AWS Bedrock AgentCore Payments ????????2025-Q3 GA?
+- Azure AI Foundry Agent Service ?????Microsoft Build 2025 / 2026?
+- Google Cloud Vertex AI Agent Builder ?????Google Cloud Next 2026?
+- Stripe ?? Privy ? Bridge ????????2025 ? 6 ??
+- FCA?SEC??? FSA ? MAS ?? embedded wallet ?????????????????

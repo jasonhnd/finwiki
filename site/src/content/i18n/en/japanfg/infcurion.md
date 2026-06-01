@@ -8,7 +8,6 @@ title: "Infcurion"
 translated_at: 2026-05-31T15:29:03.914Z
 ---
 # Infcurion
-# インフキュリオン (Infcurion)
 
 ## Wiki route
 
@@ -16,29 +15,29 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **white-label fin
 
 ## TL;DR
 
-インフキュリオン は **white-label fintech 基盤** ベンダー。コンサルティング + プロセッシング + カード / ウォレット プロダクトを **企業向けに OEM 提供** することで、銀行 / 流通 / 通信 / 自治体が自社ブランドで決済サービスを立ち上げることを可能にする。コンシューマー BNPL ([[JapanFG/paidy|Paidy]] / [[JapanFG/net-protections-hd|Net Protections HD]]) や ウォレット ([[JapanFG/merpay|メルペイ]] / [[JapanFG/kyash|Kyash]] / [[JapanFG/smartbank|SmartBank]]) と異なり、表に出ない **裏方のプラットフォーマー** として fintech 残量に位置付けられる。
+Infcurion is a **white-label fintech infrastructure** vendor. It provides consulting, processing, card, and wallet products to enterprise clients on an OEM basis, enabling banks, retailers, telecom operators, and local governments to launch payment services under their own brands. Unlike consumer-facing BNPL providers such as [[JapanFG/paidy|Paidy]] / [[JapanFG/net-protections-hd|Net Protections HD]] or wallet providers such as [[JapanFG/merpay|Merpay]] / [[JapanFG/kyash|Kyash]] / [[JapanFG/smartbank|SmartBank]], Infcurion should be read as an infrastructure platform operating behind the visible fintech brands.
 
-## 1. 法人・ライセンス境界
+## 1. Legal entity and license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | 株式会社インフキュリオン (Infcurion, Inc.) |
-| Group | 独立 fintech 専業（プライベートカンパニー）|
-| Main lanes | 決済コンサルティング / カード発行プロセッシング / ウォレット白ラベル提供 / EC 周辺決済 SaaS |
+| Legal entity | Infcurion, Inc. |
+| Group | Independent privately held fintech specialist |
+| Main lanes | Payment consulting / card-issuing processing / white-label wallet provision / e-commerce-adjacent payment SaaS |
 
 ## 2. Business role
 
-- 銀行 / 流通 / 通信 / 自治体 が自社ブランドで「**ペイ**」「**カード**」「**ウォレット**」を出すための裏方として、プロセッシング・コンサル・プロダクト提供を行う。^[extracted]
-- 直接の消費者ブランドではなく、**B2B2C 決済プラットフォーマー** として fintech のインフラ層に位置する。
+- Infcurion supplies processing, consulting, and product infrastructure behind bank, retail, telecom, and municipal "pay," "card," and "wallet" products.^[extracted]
+- It is not primarily a direct consumer brand; it sits in the infrastructure layer as a **B2B2C payment platformer**.
 
 ## 3. Why this standalone page matters
 
-[[JapanFG/freee|freee]] / [[JapanFG/money-forward|Money Forward]] のような SaaS と異なり、Infcurion は **エンドユーザー向けプロダクトを持たない fintech 基盤事業者** という JapanFG 上の独自カテゴリ。BNPL / ウォレット / 決済 PSP の各エコシステム横断で言及される common dependency を独立化して扱う必要がある。
+Unlike SaaS providers such as [[JapanFG/freee|freee]] and [[JapanFG/money-forward|Money Forward]], Infcurion occupies a distinct JapanFG category: a fintech infrastructure operator without a primarily end-user product. Because it is a common dependency across BNPL, wallets, and payment PSP ecosystems, it deserves a standalone infrastructure page rather than being buried inside a consumer-wallet profile.
 
-## 4. 規制・政策
+## 4. Regulation and policy
 
-- **個人情報保護法**: B2B2C モデルゆえ、エンドユーザーデータの「データ主体は誰か」が契約上重要。
-- **割賦販売法 / 資金決済法**: 提供先パートナーの登録要件に従う立て付け（自社直接登録は限定的）。
+- **Act on the Protection of Personal Information**: because the model is B2B2C, contracts must clearly allocate responsibility for end-user data and data-subject rights.
+- **Installment Sales Act / Payment Services Act**: the license position depends largely on the registration status of the client partner; Infcurion's own direct registration footprint is more limited.
 
 ## Related
 

@@ -11,11 +11,11 @@ translated_at: 2026-05-31T15:29:03.858Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main placeholder context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/jcb|JCB]] 3 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] 1 3 [[JapanFG/sumitomo-mitsui-trust|三井住友トラスト・グループ]] 2 1950 年 2006 02  13,000 店 3 [[JapanFG/american-express-international-japan|Amex Japan]] 3 [[JapanFG/jcb|JCB]] 4 [[JapanFG/jcb|JCB]] [[JapanFG/american-express-international-japan|American Express International Japan]] 3
+This entry sits in the JapanFG route specified by the source file. Main source context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/jcb|JCB]] 3 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] 1 3 [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group]] 2 1950 2006-02  13,000 merchant locations 3 [[JapanFG/american-express-international-japan|Amex Japan]] 3 [[JapanFG/jcb|JCB]] 4 [[JapanFG/jcb|JCB]] [[JapanFG/american-express-international-japan|American Express International Japan]] 3
 
 ## TL;DR
 
-This page records the public-information boundary for Diners Club Japan in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected placeholders are retained in source order.
+This page records the public-information boundary for Diners Club Japan in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected source references are retained in source order.
 
 ## License / group boundary
 
@@ -37,13 +37,13 @@ This page records the public-information boundary for Diners Club Japan in Japan
 - Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
 - For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
 
-## Placeholder continuation
+## Related context
 
 - [[JapanFG/mastercard-japan|Mastercard Japan]] [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]] 4 [[JapanFG/unionpay-international-japan|UnionPay International Japan]] [[JapanFG/sumitomo-mitsui-trust]] [[JapanFG/smbc-card]] [[payments/japan-card-issuer-acquirer-processor-split]] [[payments/japan-interchange-and-merchant-fee-stack]] 115 2006-02-08 2006 2006020810001 2 2
 
 ## Related
 
-- Related entries are represented by the protected placeholders above.
+- Related entries are represented by the protected source references above.
 
 ## Sources
 

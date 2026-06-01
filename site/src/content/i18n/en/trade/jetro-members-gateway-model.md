@@ -13,10 +13,10 @@ translated_at: 2026-05-30T15:08:51.571Z
 
 ## Wiki route
 
-This entry sits under [[trade/jetro-organization-structure|JETRO は会員組織ではなく経産省傘下の独立行政法人]] and should be read with [[INDEX|FinWiki index]].
+This entry sits under [[trade/jetro-organization-structure|JETRO is not a membership organization but an incorporated administrative agency under METI]] and should be read with [[INDEX|FinWiki index]].
 
 > [!info] TL;DR
-> "JETRO is not a membership organization" is legally correct, but in practice joining JETRO Members (paid) is the entry condition to the B2B proposal channel. When export finance or overseas project finance is involved, it is standard to build in [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[policy-finance/japan-project-finance-stack-diagram|プロジェクトファイナンスのスタック]] from the outset in addition to sales-channel support via JETRO.
+> "JETRO is not a membership organization" is legally correct, but in practice joining JETRO Members (paid) is the entry condition to the B2B proposal channel. When export finance or overseas project finance is involved, it is standard to build in [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] from the outset in addition to sales-channel support via JETRO.
 
 ## Scope of Use After Joining
 
@@ -33,11 +33,11 @@ Source: compilation of public information (JETRO official Members guide https://
 
 ## Sources
 
-- ジェトロ・メンバーズ公式案内（有料会員制度・年会費・会員限定サービス） — https://www.jetro.go.jp/members/
-- JETRO 組織概要（JETRO が独立行政法人であることの確認） — https://www.jetro.go.jp/jetro/profile/
+- JETRO Members official guide (paid membership scheme, annual dues, and member-only services) — https://www.jetro.go.jp/members/
+- JETRO organization profile (confirmation that JETRO is an incorporated administrative agency) — https://www.jetro.go.jp/jetro/profile/
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[trade/jetro-organization-structure|JETRO は会員組織ではなく経産省傘下の独立行政法人]]
+- [[trade/jetro-organization-structure|JETRO is not a membership organization but an incorporated administrative agency under METI]]
 <!-- /wiki-links:managed -->

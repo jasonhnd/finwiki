@@ -13,7 +13,7 @@ translated_at: 2026-05-31T03:19:56.401Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system: numbering, Local Finance Bureau jurisdiction, and registration requirements]] for adjacent context and [[fintech/japan-financial-regulation|Japan financial regulation: legal architecture for tokens, crypto-assets, and payments]] for the broader system boundary.
 
 > FSA registration number Kanto Local Finance Bureau 第00029号 · JVCEA member #1035 · registration date 2021-06-29
 
@@ -96,7 +96,7 @@ Major incidents such as administrative sanctions, hacks, or system failures: not
 
 - Consistently maintains an **institution-focused × Bitcoin-native** line. SETTLENET PRO has established a niche position as a domestically one-of-a-kind class within the crypto-asset inter-dealer market
 - **Collaboration with Blockstream / Liquid Network**: Blockstream is listed in the official site's "Backed By" section. With R&D themes specialized in Bitcoin / Lightning / Liquid Network, this suggests a role as a key adoption partner for Liquid Network sidechain technology in the Japanese market (the specific investment amount / contract terms with Blockstream are not disclosed)
-- **Nomura group × Komainu collaboration** (2023年11月): Collaboration in the institutional-investor custody-service domain. Through coordination with [[exchanges/jp-custody-komainu|Komainu]] (a joint-venture custodian of [[JapanFG/nomura-hd|野村 HD]] × Ledger × CoinShares), it is advancing global-level institutional infrastructure development (the company's position is detailed in [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] and [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC レイヤー]])
+- **Nomura group × Komainu collaboration** (2023年11月): Collaboration in the institutional-investor custody-service domain. Through coordination with [[exchanges/jp-custody-komainu|Komainu]] (a joint-venture custodian of [[JapanFG/nomura-hd|Nomura HD]] × Ledger × CoinShares), it is advancing global-level institutional infrastructure development (the company's position is detailed in [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody three pillars]] and [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC layer]])
 - **Expansion of web3  development outsourcing**: Since 2024年, blockchain-development support projects in non-crypto domains — such as Nissan Motor, the EIKEN Foundation of Japan, SKY Perfect JSAT, and Shiwa Town in Iwate Prefecture — have increased. Diversifying the developer-facing business line via the mahola API
 - **Most recent 12  months (as of 2025年5月)**: Jointly offered crypto-asset-holding consulting with Pacific Meta (2025年8月), and a paper accepted at IEEE Blockchain 2025  (2025年12月). No public announcements regarding IPO / overseas expansion
 
@@ -126,13 +126,13 @@ Major incidents such as administrative sanctions, hacks, or system failures: not
 
 ## Sources
 
-- [Crypto Garage 公式コーポレートサイト（トップ）](https://cryptogarage.co.jp/)（取得 2026-05-18）
+- [Crypto Garage official corporate site (top page)](https://cryptogarage.co.jp/) (retrieved 2026-05-18)
 - [Crypto Garage 会社概要（日本語）](https://cryptogarage.co.jp/about/)（取得 2026-05-18）
 - [Crypto Garage Company Profile（英語）](https://cryptogarage.co.jp/en/about/)（取得 2026-05-18）
-- [Crypto Garage SETTLENET PRO サービス詳細](https://cryptogarage.co.jp/services/pro/)（取得 2026-05-18）
-- [Crypto Garage SETTLENET CUSTODY サービス詳細](https://cryptogarage.co.jp/services/custody/)（取得 2026-05-18）
-- [Crypto Garage SETTLENET OTC サービス詳細](https://cryptogarage.co.jp/services/otc/)（取得 2026-05-18）
-- [Crypto Garage R&D サービス詳細](https://cryptogarage.co.jp/services/rd/)（取得 2026-05-18）
-- [Crypto Garage ニュース一覧（全3ページ）](https://cryptogarage.co.jp/news/)（取得 2026-05-18）
+- [Crypto Garage SETTLENET PRO service details](https://cryptogarage.co.jp/services/pro/) (retrieved 2026-05-18)
+- [Crypto Garage SETTLENET CUSTODY service details](https://cryptogarage.co.jp/services/custody/) (retrieved 2026-05-18)
+- [Crypto Garage SETTLENET OTC service details](https://cryptogarage.co.jp/services/otc/) (retrieved 2026-05-18)
+- [Crypto Garage R&D service details](https://cryptogarage.co.jp/services/rd/) (retrieved 2026-05-18)
+- [Crypto Garage news archive (all 3 pages)](https://cryptogarage.co.jp/news/) (retrieved 2026-05-18)
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）

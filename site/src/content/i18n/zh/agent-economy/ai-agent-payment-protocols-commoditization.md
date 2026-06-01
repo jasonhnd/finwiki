@@ -4,53 +4,54 @@ source_hash: 49438a71ac5ef654
 lang: zh
 status: machine
 fidelity: ok
-title: "Agent 支付协议的 commoditization 与价值的上移"
+title: "Agent 支付协议商品化与价值上移"
 translated_at: 2026-05-30T16:40:11.495Z
 ---
 
-# Agent 支付协议的 commoditization 与价值的上移
+# Agent 支付协议商品化与价值上移
 
-## Wiki route
+## Wiki 路线
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[payments/INDEX|payments index]] for peer / contrast context and [[systems/INDEX|systems index]] for the broader system / regulatory boundary.
+本条目位于 [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 支付协议全景：7 个协议概览]]。请与 [[payments/INDEX|支付索引]] 和 [[systems/INDEX|系统索引]] 配套阅读，以把握支付业务边界和底层系统边界。
 
-## Key facts
+## 关键事实
 
-- Stripe 5层 = Tempo(L1)+ Privy(wallet)+ USDB / Bridge(稳定币)+ Stripe Checkout(SDK)+ 5M+ 商家(流量) ^[extracted]
-- Privy 于 2025 被 Stripe 收购,被定位为嵌入式钱包的默认 ^[extracted]
-- Coinbase 是对照路线:Base(L1)+ CDP(wallet)+ USDC(货币)+ Commerce(SDK) ^[extracted]
+- Stripe 五层栈 = Tempo（L1）+ Privy（wallet）+ USDB / Bridge（稳定币）+ Stripe Checkout（SDK）+ 500 万以上商家（流量）。^[extracted]
+- Privy 于 2025 年被 Stripe 收购，并被定位为嵌入式钱包的默认基础设施。^[extracted]
+- Coinbase 是对照路线：Base（L1）+ CDP（wallet）+ USDC（货币）+ Commerce（SDK）。^[extracted]
 
-## Mechanism / How it works
+## 机制
 
-协议 commoditization 之后,take rate 无法从开源 standard 中提取(HTTP 协议费无法征收)。价值捕获不得不上移到 **纵向 distribution 控制点**:谁控制用户登录的 [[fintech/embedded-wallet-fintech-disintermediation-overview|wallet 中抜き]] → 谁控制 agent 的默认支付路径 → 谁征收 transaction fee。
+协议商品化之后，take rate 很难从开源 standard 本身提取，正如 HTTP 协议费无法征收。价值捕获必须上移到**纵向分发控制点**：谁控制用户登录的 [[fintech/embedded-wallet-fintech-disintermediation-overview|wallet 中介层]]，谁就更有可能控制 agent 的默认支付路径，并征收 transaction fee。
 
-Stripe 5层全栈的逻辑:
-1. **L1 链**(Tempo · Stripe + Paradigm)— 支付优化链、7-10 validator、机构级资质
-2. **L2 / wallet**(Privy · Stripe 收购)— [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|埋込 wallet デフォルト]]、嵌入 5M+ Stripe 商家的 checkout
-3. **稳定币**(USDB / Bridge · Stripe 旗下)— 原生结算货币(见 [[fintech/stablecoin-chain-token-strategy-trilemma|チェーン × トークン × 戦略のトリレンマ]])
-4. **SDK**(Stripe Checkout / Connect)— 商家侧零代码嵌入
-5. **商家流量**(5M+ 商家)— 对末端 distribution 的实际支配
+Stripe 五层全栈的逻辑如下：
 
-每增加一层,纵向支配就更深一层 — 协议这一公共物品越大,Stripe 的私有物品网络效应就越强。
+1. **L1 链**（Tempo · Stripe + Paradigm）：面向支付优化的链，强调少量验证者和机构级资质。
+2. **L2 / wallet**（Privy · Stripe 收购）：[[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|嵌入式 wallet 默认层]]，嵌入 500 万以上 Stripe 商家的 checkout。
+3. **稳定币**（USDB / Bridge · Stripe 旗下）：原生结算货币，参见 [[fintech/stablecoin-chain-token-strategy-trilemma|链 x 代币 x 战略三难题]]。
+4. **SDK**（Stripe Checkout / Connect）：商家侧零代码嵌入。
+5. **商家流量**（500 万以上商家）：对末端 distribution 的实际支配。
 
-## Origin & evolution
+每增加一层，纵向控制就更深一层。协议越成为公共物品，Stripe 这类拥有分发网络的私有物品越能捕获网络效应。
 
-2024 Stripe 收购 Bridge(USDB 发行体)→ 进入稳定币层。2025.04 Stripe + Paradigm 合资设立 Tempo(支付 L1)→ 占据链层。2025.07 Stripe 收购 Privy → 占据 wallet 层。2025.09 AP2 发布时 Stripe 不在 60+ 合作方名单中 — Stripe 的战略明确为「不参与协议霸权之争,只占据 distribution」。2026 年中盘 FIDO 接手 AP2  → 成为 AAIF 之后,Stripe 5层全栈的位置基本变得不可挑战。
+## 起源与演进
 
-类比:Visa / Mastercard 也不写 ISO 8583 协议规范,却依然捕获主要的支付价值 — **协议是公共物品,distribution 是私有物品**(见 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe プロトコルヘッジ戦略]])。
+2024 年 Stripe 收购 Bridge，进入稳定币发行层。2025-04，Stripe + Paradigm 合资设立 Tempo，进入支付 L1 层。2025-07，Stripe 收购 Privy，补齐 wallet 层。2025-09 AP2 发布时 Stripe 不在 60 多家合作方名单中，说明其战略不是争夺协议治理，而是控制 distribution。2026 年中 FIDO 接手 AP2 并推进为 AAIF 后，Stripe 五层全栈的位置进一步稳固。
+
+类比来看，Visa / Mastercard 并不编写 ISO 8583 规范，却仍然捕获主要支付价值。**协议是公共物品，distribution 是私有物品**。参见 [[fintech/protocol-hedge-strategy-stripe-pattern|Stripe 协议对冲战略]]。
 
 ## Related
 <!-- wiki-links:managed -->
-- [[INDEX|Wiki Index]]
-- [[agent-economy/ai-agent-payment-protocols-overview|7プロトコル総覧]]
-- [[agent-economy/ai-agent-payment-protocols-seven-layers|プロトコル分層表]]
-- [[fintech/central-banking-function-unbundling|中央銀行機能の解体5層]]
+- [[INDEX|Wiki 索引]]
+- [[agent-economy/ai-agent-payment-protocols-overview|7 个协议总览]]
+- [[agent-economy/ai-agent-payment-protocols-seven-layers|协议分层表]]
+- [[fintech/central-banking-function-unbundling|中央银行功能拆解五层]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Privy「Privy and Stripe: Bringing crypto to everyone」(Stripe 对 wallet 层的收购)— https://privy.io/blog/announcing-our-acquisition-by-stripe
-- Tempo 官方网站(Stripe + Paradigm 的支付 L1 · 链层)— https://tempo.xyz/
-- Coinbase Developer Platform(对照路线 Base + CDP + USDC + Commerce)— https://docs.cdp.coinbase.com/
-- Coinbase x402(协议层的公共物品 commoditization)— https://github.com/coinbase/x402
-- Google AP2(协议霸权的对照 · Stripe 不参与)— https://github.com/google-agentic-commerce/AP2
+- Privy「Privy and Stripe: Bringing crypto to everyone」（Stripe 对 wallet 层的收购）— https://privy.io/blog/announcing-our-acquisition-by-stripe
+- Tempo 官方网站（Stripe + Paradigm 的支付 L1）— https://tempo.xyz/
+- Coinbase Developer Platform（对照路线 Base + CDP + USDC + Commerce）— https://docs.cdp.coinbase.com/
+- Coinbase x402（协议层公共物品商品化）— https://github.com/coinbase/x402
+- Google AP2（协议霸权对照，Stripe 未参与）— https://github.com/google-agentic-commerce/AP2

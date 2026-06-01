@@ -11,9 +11,9 @@ translated_at: 2026-05-30T15:08:51.566Z
 # 日本 研究助成金 map（2026 年年度）
 
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[governance/japan-general-foundation-establishment-requirements|日本 一般財団法人 設立要件・プロセス]] and should be read with [[INDEX|FinWiki index]].
+本条目位于 [[governance/japan-general-foundation-establishment-requirements|日本一般财团法人设立要求与流程]]，并应与 [[INDEX|FinWiki index]] 共同阅读。
 
 > [!info] TL;DR
 > 将 [[governance/japan-general-foundation-establishment-requirements|一般財団法人]] / 研究机构 / 公益目的研究项目可争取的主要助成金汇总成一览。助成金额逐年度变动，故作为「2026 年年度」的快照记录。

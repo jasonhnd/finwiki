@@ -1,46 +1,43 @@
 ---
 source: banking/paypay-bank
-source_hash: c40725d8c357e7a7
+source_hash: b1ecdd44cfd93901
 lang: zh
 status: machine
 fidelity: ok
-title: "PayPay 银行 (PayPay Bank)"
-translated_at: 2026-05-31T03:19:56.371Z
+title: "PayPay 银行"
+translated_at: 2026-05-31T10:37:35.555Z
 ---
-
 # PayPay 银行 (PayPay Bank)
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+本条目位于 [[banking/INDEX|银行索引]] 之下。可与 [[banking/rakuten-bank|乐天银行]] 对照，理解互联网银行如何嵌入大型消费生态；合作金融体系背景见 [[banking/cooperative-banking-japan|日本合作金融体系]]。
 
-## TL;DR
+PayPay 银行的前身是 Japan Net Bank，是日本较早的互联网银行之一。2021 年更名后，它成为 PayPay 结算生态的银行账户、存款、转账、贷款和工资入账承接层。2025 年股权重组后，PayPay 株式会社成为主要股东，银行与 PayPay 应用、PayPay 卡、PayPay 证券和相关金融服务的品牌边界进一步收拢。
 
-PayPay 银行是 2000 年设立、开业的国内网络银行，目前是 PayPay 集团的金融核心银行。经过 2025-04 的股权重组，形成 PayPay 株式会社持有表决权 75.53% 的结构，将结算 app、卡、证券、银行以同一品牌捆绑的定位进一步强化。
+## 结构
 
-## Structure
+- **公司**：PayPay银行株式会社 / PayPay Bank Corporation。
+- **前身**：Japan Net Bank。
+- **银行类型**：日本互联网银行；无传统大规模分行网络。
+- **主要股东**：截至 2025-04-28，PayPay 株式会社持有 75.53% 表决权；SMBC 持有 21.54%；Fujitsu 及保险公司持有少量剩余权益。
+- **集团邻接**：与 PayPay、PayPay 卡、PayPay 证券及 PayPay SC 共同构成 PayPay 品牌下的金融服务束。
 
-- **Company**：PayPay银行株式会社 / PayPay Bank Corporation。
-- **Established / launched**：2000-09-19 设立、2000-10-12 开业。
-- **Capital**：722 億 1 千万日元。
-- **Major shareholder**：PayPay 株式会社 75.53% voting rights as of 2025-04-28；SMBC 21.54%；Fujitsu and insurers hold small residual stakes。
-- **Group adjacency**：与 PayPay、PayPay 卡、PayPay 证券、PayPay SC 同属一个金融服务捆绑。
+## 战略解读
 
-## Strategic read
+PayPay 银行的角色不只是独立网络银行，更是 PayPay 结算圈的银行账户基础设施。正如 [[banking/rakuten-bank|乐天银行]] 接入乐天经济圈、[[banking/au-jibun-bank|au Jibun Bank]] 接入 KDDI / au 金融圈一样，PayPay 银行利用 QR 结算的高频触点，将用户导入存款、工资入账、贷款、转账和证券账户等更深层金融产品。
 
-PayPay 银行的角色与其说是单独的网络银行，不如说是 PayPay 结算圈的存款、转账、贷款、工资接收的承接载体。正如 [[banking/rakuten-bank|楽天銀行]] 接入乐天经济圈、[[banking/au-jibun-bank|auじぶん銀行]] 接入 KDDI / au 金融圈一样，PayPay 银行拥有从 QR 结算的高频接触点向银行使用下沉的导流路径。
+2025 年的股权重组强化了这一方向：旧 Japan Net Bank 的互联网银行牌照和运营遗产，被叠加到 PayPay 应用客户触点之上，形成面向日常支付用户的银行化路径。
 
-2025 年的股权重组，将银行向 PayPay 品牌旗下靠拢的意味很大。形成了在传统网络银行、旧 Japan Net Bank 的 legacy 之上叠加 PayPay 应用客户接触点的结构。
+## 相关
 
-## Related
+- [[banking/INDEX|银行索引]]
+- [[banking/rakuten-bank|乐天银行]]
+- [[banking/au-jibun-bank|au Jibun Bank]]
+- [[JapanFG/paypay-fg|PayPay FG]]
+- [[payments/INDEX|支付索引]]
 
-- [[JapanFG/paypay-fg]]
-- [[banking/rakuten-bank]]
-- [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
-
-## Sources
+## 来源
 
 - PayPay Bank company profile, shareholder table as of 2025-04-28.
 - PayPay Corporation press release, 2025-04-14, on PayPay Bank becoming a PayPay subsidiary.

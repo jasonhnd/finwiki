@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.127Z
 
 ## Wiki 路径
 
-本条目位于 [[systems/INDEX|systems index]] 之下。请对照 [[systems/cross-chain-four-poles-overview]] 作为父级概览阅读，并对照 [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] 进行匹配协议选择。与各极的独立条目配套阅读 —— [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] —— 并对照 [[fintech/usd-stablecoin-interchange]] 阅读，以了解驱动跨链交易量 ≥60% 的稳定币转移语境。Wormhole 目前尚无独立条目（TBD）。
+本条目位于 [[systems/INDEX|systems index]] 之下。请对照 [[systems/cross-chain-four-poles-overview]] 作为父级概览阅读，并对照 [[systems/cross-chain-four-poles-selection-decision|跨链选择决策树]] 进行匹配协议选择。与各极的独立条目配套阅读 —— [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] —— 并对照 [[fintech/usd-stablecoin-interchange]] 阅读，以了解驱动跨链交易量 ≥60% 的稳定币转移语境。Wormhole 目前尚无独立条目（尚无独立条目）。
 
 ## 关键事实
 
@@ -55,7 +55,7 @@ translated_at: 2026-06-01T04:15:40.127Z
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極アーキテクチャ · 概観]]
-- [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]]
+- [[systems/cross-chain-four-poles-selection-decision|跨链选择决策树]]
 - [[systems/cctp-v2-overview|CCTP V2 Overview]]
 - [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP Institutional Messaging]]
 - [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 Omnichain Messaging]]

@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.156Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/toyota-financial|トヨタファイナンシャルサービス (TFS)]] (the Toyota-group **captive auto-finance** holding company, distinct from this trading-house internal-treasury arm) and [[JapanFG/toyota-finance|トヨタファイナンス]] (the auto-loan / Toyota dealer finance operating company). For peer trading-house group-treasury arms, see [[JapanFG/mitsubishi-corp-finance|三菱商事FS]], [[JapanFG/mitsui-bussan-financial-services|三井物産FS]], [[JapanFG/sumitomo-corp-financial-management|住友商事FM]], [[JapanFG/itochu-finance|伊藤忠ファイナンス]], and [[JapanFG/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/toyota-financial|Toyota Financial Services (TFS)]] and [[JapanFG/toyota-finance|Toyota Finance]]. For peer trading-house group-treasury arms, see [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Finance]], [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]], [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], [[JapanFG/itochu-finance|Itochu Finance]], and [[JapanFG/marubeni-financial-services|Marubeni Financial Services]].
 
 ## 1. Company Overview
 
@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | Line | Main entity | Role |
 |---|---|---|
-| **Customer sales finance (auto-finance)** | [[JapanFG/toyota-financial|TFS]] (holding) -> [[JapanFG/toyota-finance|トヨタファイナンス]] and others | Toyota vehicle auto loans, dealer financing, credit cards ([[JapanFG/jcb|JCB]]-series TS3 , etc.) |
+| **Customer sales finance (auto-finance)** | [[JapanFG/toyota-financial|TFS]] (holding) -> [[JapanFG/toyota-finance|Toyota Finance]] and others | Toyota vehicle auto loans, dealer financing, credit cards ([[JapanFG/jcb|JCB]]-series TS3, etc.) |
 | **Financial market operations (treasury / FX / investment)** | Toyota Financial Services Corporation (under the holding company) | Financial market operations for the parent and overseas subsidiaries |
 | **Trading-house internal banking (this page)** | **Toyota Tsusho Finance** | CMS / bulk factoring / group finance inside Toyota Tsusho Group |
 
@@ -54,12 +54,12 @@ Toyota Tsusho Finance supports supplier finance, overseas-currency hedging, cros
 | Trading house | Internal finance subsidiary | External leasing line |
 |---|---|---|
 | Toyota Tsusho | **Toyota Tsusho Finance (this page)** | Mostly internal group captive; no major specialized leasing subsidiary |
-| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (listed) |
-| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] | [[JapanFG/ja-mitsui-leasing|JA三井リース]] |
+| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Finance]] | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed) |
+| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] | [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] |
 | Sumitomo Corporation | [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] | [[JapanFG/smfl|SMFL]] (SMFG joint venture) |
-| Itochu | [[JapanFG/itochu-finance|伊藤忠ファイナンス]] | [[JapanFG/tokyo-century|東京センチュリー]] (Mizuho joint venture, listed) |
-| Marubeni | [[JapanFG/marubeni-financial-services|丸紅フィナンス]] | [[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder) |
-| Sojitz | [[JapanFG/sojitz-finance|双日フィナンス]] | None specialized |
+| Itochu | [[JapanFG/itochu-finance|Itochu Finance]] | [[JapanFG/tokyo-century|Tokyo Century]] (Mizuho joint venture, listed) |
+| Marubeni | [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] | [[JapanFG/mizuho-lease|Mizuho Leasing]] (strategic shareholder) |
+| Sojitz | [[JapanFG/sojitz-finance|Sojitz Finance]] | None specialized |
 
 ## 4. Regulation / Policy
 
@@ -74,17 +74,17 @@ Toyota Tsusho Finance supports supplier finance, overseas-currency hedging, cros
 
 ## Related
 
-- [[JapanFG/toyota-financial|TFS (トヨタファイナンシャルサービス)]] (Toyota group captive auto-finance holding company)
-- [[JapanFG/toyota-finance|トヨタファイナンス]] (Toyota-group auto loans / dealer financing)
+- [[JapanFG/toyota-financial|TFS (Toyota Financial Services)]] (Toyota group captive auto-finance holding company)
+- [[JapanFG/toyota-finance|Toyota Finance]] (Toyota-group auto loans / dealer financing)
 - [[JapanFG/mufg|MUFG]] (one of the main banks)
 - [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (peer)
 - [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (peer)
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
+- [[JapanFG/itochu-finance|Itochu Finance]] (peer)
+- [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 

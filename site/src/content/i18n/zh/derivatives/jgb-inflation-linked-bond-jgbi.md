@@ -22,7 +22,7 @@ JGBi 的显著特征在于，本金按债券参考日与相关支付日之间参
 
 ## Wiki route
 
-This entry sits under [[derivatives/INDEX|derivatives index]] in the rates / inflation cluster. Read it against [[derivatives/japan-inflation-swap]] for the OTC derivative analogue, [[derivatives/jgb-futures-curve]] for the nominal JGB futures market, [[derivatives/jgb-special-participants-primary-dealer]] for the JGB Special Participants who participate in JGBi auctions, and [[money-market/jgb-repo-market-japan]] for the JGB repo market that finances JGBi positions. The MoF JGB management context is at [[money-market/INDEX|money market]] and [[money-market/boj-open-market-operations|BoJ open market operations]] for BoJ holdings.
+本条目位于 [[derivatives/INDEX|衍生品索引]] 的利率 / 通胀集群。可与 [[derivatives/japan-inflation-swap]] 和 JGB 市场结构页面配套阅读。
 
 ## 发行历史
 

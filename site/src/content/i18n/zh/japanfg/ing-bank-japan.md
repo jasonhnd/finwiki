@@ -4,44 +4,44 @@ source_hash: 28e10448dab56308
 lang: zh
 status: machine
 fidelity: ok
-title: "アイエヌジーバンク エヌ・ヴイ 東京支店"
+title: "ING Bank N.V. 东京分行"
 translated_at: 2026-05-31T15:29:03.925Z
 ---
 
-# アイエヌジーバンク エヌ・ヴイ 東京支店
+# ING Bank N.V. 东京分行
 
 
-## Wiki route
+## Wiki 路线
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 下。可与外资银行日本分支机构页面和 [[banking/INDEX|银行业索引]] 对照阅读。
 
 ## TL;DR
 
-アイエヌジーバンク エヌ・ヴイ東京支店は、金融庁の外国銀行支店一覧に掲載される Netherlands / ING Bank N.V. の Japan wholesale banking branch。1985 年の東京支店開始以来、structured finance, export / project finance, cash management, lending, and correspondent banking を中心にする B2B branch として読む。
+ING Bank N.V. 东京分行是金融厅外国银行分行名单中的荷兰系批发银行分行。自 1985 年开设东京分行以来，其日本业务应主要理解为面向企业和金融机构的 B2B 批发银行平台，重点包括结构性融资、出口 / 项目融资、现金管理、贷款和代理行银行业务。
 
-## 1. License / branch boundary
+## 1. 牌照和分行边界
 
-| Item | Notes |
+| 项目 | 说明 |
 |---|---|
-| FSA listed name | アイエヌジーバンク エヌ・ヴイ |
-| Legal / branch name | アイエヌジーバンク エヌ・ヴイ東京支店 / ING Bank N.V. Tokyo Branch |
-| License route | Banking Act foreign bank branch; registered financial institution |
-| Home jurisdiction | Netherlands |
+| FSA listed name | ING Bank N.V. |
+| Legal / branch name | ING Bank N.V. Tokyo Branch |
+| License route | 《银行法》下的外国银行分行；注册金融机构 |
+| Home jurisdiction | 荷兰 |
 | Parent / group | ING Bank N.V. / ING Group |
-| Japan branch boundary | Wholesale banking branch; not a Japan retail-bank play |
-| Wiki role | Netherlands-based wholesale bank branch anchor in Japan |
+| Japan branch boundary | 批发银行分行；并非日本零售银行布局 |
+| Wiki role | 荷兰系批发银行在日本的分行锚点 |
 
-## 2. Operating model
+## 2. 运营模式
 
-ING says it has had a presence in Japan since 1973 and established its Tokyo branch in 1985. The Japan wholesale-banking page describes products for multinational corporations and Japanese outbound clients, including corporate and financial-institution lending, export and project finance, cash management, and correspondent banking.
+ING 表示其自 1973 年起在日本设有业务存在，并于 1985 年设立东京分行。其日本批发银行页面面向跨国公司和日本出海客户，列明的产品包括企业与金融机构贷款、出口和项目融资、现金管理以及代理行银行业务。
 
-The Japan information page states that the branch is part of the wholesale banking division and focuses on project finance for Japanese overseas investments, financing for overseas clients doing business in Japan, and treasury / cash-management support.
+日本信息页面还说明，该分行属于批发银行部门，重点支持日本企业海外投资的项目融资、海外客户在日本开展业务的融资，以及资金管理 / 现金管理服务。
 
-## 3. Why this page matters
+## 3. 本页意义
 
-- Adds the Netherlands / ING branch to the FSA foreign-bank branch map.
-- Clarifies that ING's Japan role is wholesale and structured-finance oriented.
-- Provides a European peer for [[JapanFG/commerzbank-japan]], [[JapanFG/bbva-bank-japan]], and [[JapanFG/intesa-sanpaolo-japan]].
+- 将荷兰 / ING 分行纳入金融厅外国银行分行地图。
+- 明确 ING 在日本的角色偏向批发银行和结构性融资，而非零售银行。
+- 为 [[JapanFG/commerzbank-japan]]、[[JapanFG/bbva-bank-japan]] 和 [[JapanFG/intesa-sanpaolo-japan]] 提供欧洲同业对照。
 
 ## Related
 
@@ -51,8 +51,8 @@ The Japan information page states that the branch is part of the wholesale banki
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 
-## Sources
+## 资料来源
 
-- FSA: bank license list, foreign bank branches, as of 2026-05-13.
-- ING Wholesale Banking: Japan network page.
-- ING Wholesale Banking: Japan branch information page.
+- 金融厅：银行牌照名单和外国银行分行名单，截至 2026-05-13。
+- ING Wholesale Banking：日本网络页面。
+- ING Wholesale Banking：日本分行信息页面。

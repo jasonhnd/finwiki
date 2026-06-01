@@ -13,7 +13,7 @@ translated_at: 2026-05-30T15:08:51.569Z
 
 ## Wiki route
 
-This entry sits under [[security/bytecode-forensic-three-tier-verify|スマートコントラクト bytecode フォレンジック — 三層 verify 技術]]. Read it against [[systems/INDEX|systems index]] for peer / contrast context and [[INDEX|FinWiki index]] for the broader system / regulatory boundary.
+This entry sits under [[security/bytecode-forensic-three-tier-verify|smart-contract bytecode forensics ? three-layer verification technique]]. Read it against [[systems/INDEX|systems index]] for peer / contrast context and [[INDEX|FinWiki index]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
 > When a project copies (Forks) a well-known open-source protocol (Uniswap, Compound, GMX, etc.) and swaps the brand (Rebrand) before launching the service, a traditional monolithic code audit produces a large number of blind spots. The **Five-Layer Audit Framework (5-Layer Audit Framework)** is a systematic security / provenance audit method designed specifically for this kind of project, covering code diff, inherited known vulnerabilities, compilation fingerprint, team relatedness, and on to compliance risk.
@@ -55,7 +55,7 @@ Layer 5: Compliance & License Audit (License & Copyleft Verification)
 ### Layer 4: Team & Deployer Provenance
 - **Purpose**: Identify the true academic / security-field background of the development team behind the project, and its past record.
 - **Method**:
-  - Extract the funding-source chain of the Deployer Address (using [[security/forensic-identity-anchor-chain|司法級身元アンカーチェーン]]).
+  - Extract the funding-source chain of the Deployer Address using [[security/forensic-identity-anchor-chain|forensic-grade identity-anchor chain]].
   - Use the past web pages preserved by [[security/wayback-machine-as-forensic-tool|Wayback Machine]], and the committer email and PGP signatures of early GitHub commit records, to identify the team's past record.
   - Bytecode matching of unverified contracts with extremely high cross-chain similarity (Twin Fingerprint Mapping).
 
@@ -81,14 +81,14 @@ Layer 5: Compliance & License Audit (License & Copyleft Verification)
 ## Sources
 
 - Uniswap v3-core LICENSE（Layer 5 的代表例: Business Source License 1.1、Change Date 2023-04-01、Change License GPL v2.0+） — https://github.com/Uniswap/v3-core/blob/main/LICENSE
-- Compound Protocol リポジトリ（最も多くフォークされる Compound V2 系コードベース、Layer 1/2 の上流比較・既知脆弱性遺伝の対象） — https://github.com/compound-finance/compound-protocol
-- GitHub Advisory Database（Layer 2 が参照する GitHub Security Advisories の公式データベース） — https://github.com/advisories
+- Compound Protocol repository, the widely forked Compound V2 codebase used for Layer 1/2 upstream comparison and inherited-vulnerability analysis ? https://github.com/compound-finance/compound-protocol
+- GitHub Advisory Database, the official database referenced by Layer 2 for GitHub Security Advisories ? https://github.com/advisories
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[security/bytecode-forensic-three-tier-verify|スマートコントラクト bytecode フォレンジック — 三層 verify 技術]]
-- [[security/forensic-identity-anchor-chain|司法級身元アンカーチェーン — 物理 / オンチェーン混合の帰属推定]]
-- [[security/wayback-machine-as-forensic-tool|Wayback Machineを司法フォレンジック・ツールとして用いる標準手順]]
-- [[security/module-path-confusion-supply-chain-attack.md|モジュールパス詐称によるサプライチェーン攻撃 — 精密投毒メカニズム]]
+- [[security/bytecode-forensic-three-tier-verify|smart-contract bytecode forensics ? three-layer verification technique]]
+- [[security/forensic-identity-anchor-chain|forensic-grade identity-anchor chain ? physical / on-chain hybrid attribution inference]]
+- [[security/wayback-machine-as-forensic-tool|standard procedure for using the Wayback Machine as a forensic tool]]
+- [[security/module-path-confusion-supply-chain-attack.md|module-path spoofing supply-chain attack ? precision poisoning mechanism]]
 <!-- /wiki-links:managed -->

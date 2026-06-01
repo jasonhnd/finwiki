@@ -73,7 +73,7 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | アメリカ合衆国 | ステート・ストリート銀行 | 7700150004979 | 105-6325 東京都港区虎ノ門１－２３－１ | [[JapanFG/state-street-japan]] | standalone |
 | アメリカ合衆国 | バンク・オブ・アメリカ・エヌ・エイ | 5700150003850 | 103-0027 東京都中央区日本橋１－４－１ | [[JapanFG/bank-of-america-japan]] | standalone |
 | アメリカ合衆国 | ニューヨークメロン銀行 | 4700150000007 | 100-0005 東京都千代田区丸の内１－８－３ | [[JapanFG/bny-mellon-japan]] | standalone |
-| アメリカ合衆国 | ウェルズ･ファーゴ銀行 | 1700150000166 | 100-0005 東京都千代田区丸の内１－８－３ | [[JapanFG/wells-fargo-japan]] | standalone |
+| アメリカ合衆国 | ウェルズ・ファーゴ銀行 | 1700150000166 | 100-0005 東京都千代田区丸の内１－８－３ | [[JapanFG/wells-fargo-japan]] | standalone |
 | アメリカ合衆国 | シティバンク，エヌ・エイ | 1700150080002 | 100-8132 東京都千代田区大手町１－１－１ | [[JapanFG/citigroup-japan]] | standalone |
 | イタリア共和国 | インテーザ・サンパオロ・エッセ・ピー・ア | 8700150002346 | 100-0006 東京都千代田区有楽町１－５－１ | [[JapanFG/intesa-sanpaolo-japan]] | standalone |
 | インド | インドステイト銀行 | 4700150000056 | 103-0027 東京都中央区日本橋１－３－１３ | [[JapanFG/state-bank-of-india-japan]] | standalone |

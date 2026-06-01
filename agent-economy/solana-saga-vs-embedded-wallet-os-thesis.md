@@ -31,7 +31,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 - Coinbase Wallet は既に Android で MWA 互換(ハイブリッド経路) ^[extracted]
 - Stripe Tap to Pay は SMS パラダイム寄り(NFC をシステム層に · マーチャント側) ^[extracted]
 
-## Mechanism / How it works
+## OS 層ウォレットと embedded wallet の競争構造
 
 Embedded Wallet は秘密鍵を iCloud / Google passkey 同期に隠して UX をスムーズにするが OS プロバイダにバインドされる([[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]] 参照)。SMS はウォレットを OS 内蔵サービス化し · 任意の dapp が system intent 経由で呼び出す。UI と署名 prompt は OS が制御 — フィッシング耐性は強いが ハードウェアプリインストールが必要だ。両経路は排他的ではない:Coinbase Wallet は Android 上で既に「二刀流」 — embedded wallet として dapp に統合される一方で MWA も実装して Saga / Seeker と相互運用できる。中長期的には:**OS 層はより深い moat**(システムベンダーの決定権)· **App 層はより広い reach**(任意のスマホで利用可能)。Samsung / Xiaomi / Google が Seed Vault 系のネイティブ keystore を本当に統合すれば、embedded wallet ベンダーは Android のロングテールで互換性を保つために MWA をサポートせざるを得ない。
 

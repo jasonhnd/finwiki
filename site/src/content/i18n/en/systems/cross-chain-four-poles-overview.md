@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.145Z
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー · 主役次元でプロトコルをマッチング]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-selection-decision|Cross-chain selection decision tree]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
@@ -33,19 +33,19 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 | Representative customers | Stargate · Pendle · LiFi | DTCC / SWIFT / Kinexys | Solana · Jito · Pyth | Eclipse · Celestia · long-tail L2 | Coinbase · Circle native USDC |
 | Positioning | General purpose default | Institutional / regulated | Solana-centered + throughput | Permissionless / open | USDC only · O(1) burn-mint |
 
-CCIP's two-layer verification (transaction + risk) is key to institutional acceptance · LayerZero DVN is the general default · Wormhole's large TVL comes from concentration in the Solana ecosystem · Hyperlane does not make long-tail chains wait to be listed. See [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対比マトリクス]] for the full comparison; contrast with [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]] for real distribution on CEX deposit/withdrawal paths.
+CCIP's two-layer verification (transaction + risk) is key to institutional acceptance; LayerZero DVN is the general-purpose default; Wormhole's large TVL comes from concentration in the Solana ecosystem; and Hyperlane does not make long-tail chains wait to be listed. See [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] for the full comparison; contrast with [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX cross-chain bridges]] for real distribution on CEX deposit/withdrawal paths.
 
 ## Origin & evolution
 
-2021-2022  cross-chain = competition among Wormhole / Multichain / Synapse. A series of bridge hacks in 2022  ($600M Ronin / $325M Wormhole / $570M BSC) made the security model central. 2023-2024  convergence = LayerZero general grade · Chainlink CCIP used the oracle brand to enter institutional markets · Wormhole held its Solana position with a ZK upgrade. 2025  Hyperlane entered the long tail with permissionless design · CCTP V2  made USDC sourcing an "atomic cross-chain primitive" (see [[fintech/usd-stablecoin-interchange|USD ステーブルコインクロスチェーン交換]]).
+2021-2022 cross-chain infrastructure was defined by competition among Wormhole, Multichain, and Synapse. A series of bridge hacks in 2022 ($600M Ronin, $325M Wormhole, $570M BSC) made the security model central. The 2023-2024 convergence left LayerZero as the general-purpose grade, Chainlink CCIP entering institutional markets through the oracle brand, and Wormhole defending its Solana position with a ZK upgrade. In 2025, Hyperlane entered the long tail with permissionless design, while CCTP V2 made USDC sourcing an "atomic cross-chain primitive" (see [[fintech/usd-stablecoin-interchange|USD stablecoin cross-chain interchange]]).
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/cross-chain-four-poles-selection-decision|クロスチェーン 4 極 · 選定意思決定ツリー]]
-- [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional デフォルトメカニズム]]
-- [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT consensus Rust 実装]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化分離]]
+- [[systems/cross-chain-four-poles-selection-decision|Cross-chain four-pole selection decision tree]]
+- [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional default mechanism]]
+- [[systems/threshold-bft-consensus-rust-implementations|Threshold BFT consensus Rust implementations]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|Onchain finance vs crypto-culture bifurcation]]
 <!-- /wiki-links:managed -->
 
 ## Sources

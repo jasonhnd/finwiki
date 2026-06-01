@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.686Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 下。可与日本金融监管、MiCA 和稳定币储备监管页面一并阅读。
 
 > [!info] TL;DR
 > HKMA 2025-08 稳定币立法的准备金条款，是亚洲首个与 Basel III FRTB（基本交易账簿审查）标准对接的稳定币准备金框架。核心要求：100% 1：1 法定货币准备金 + Tier 1 资产（港元/美元短期国债 + HKMA 存款）+ 第三方托管 + 月度审计 + 注册资本 HKD 100M以上。与 GENIUS §501（≤93 日期限国债）+ MiCA EMT（≥30%银行存款）共同构成三圆架构的第三个差异化坐标。

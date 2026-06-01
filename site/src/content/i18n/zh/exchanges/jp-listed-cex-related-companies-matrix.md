@@ -10,9 +10,9 @@ translated_at: 2026-05-31T06:16:15.655Z
 
 # 国内上市 CEX 关联企业矩阵 — 东证·纳斯达克上市 + 控股公司一览
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-vasp-parent-company-map|国内 VASP 親会社・株主構造マップ — 三分類 + 大手金融グループ系列]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+本条目位于 [[exchanges/INDEX|exchanges index]]。同业 / 对照语境见 [[exchanges/jp-vasp-parent-company-map|日本 VASP 母公司与股东结构地图：三分类与大型金融集团系列]]；更广泛的制度和监管边界见 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业登记制度：编号体系、财务局管辖与登记要求]]。
 
 ## 概要
 

@@ -16,7 +16,7 @@ translated_at: 2026-05-31T07:28:06.126Z
 
 ## Wiki route
 
-This page sits under [[insurance/INDEX|insurance INDEX]] and is the bank-channel counterpart to [[insurance/life-insurance-channel-mix|the life insurance channel mix]], [[insurance/insurance-agency-and-brokerage-japan|the insurance agency and brokerage Japan landscape]], [[insurance/internet-life-insurance-business-model|the internet life insurance business model]], and [[insurance/medical-cancer-insurance-product-economics|medical / cancer insurance product economics]] (which highlight how bancassurance fit varies by product). Read it together with [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay matrix]] for the manufacturer side, [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]] for the foreign bancassurance set, [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]] for the asset-liability profile of bank-channel single-premium products, and [[insurance/economic-value-based-solvency|economic-value-based solvency]] / [[insurance/esr-economic-value-solvency|ESR]] for how foreign-currency single-premium flows translate into capital. Banking-side anchors are [[JapanFG/mufg|MUFG]], [[JapanFG/smbc|SMBC]], [[JapanFG/mizuho-fg|Mizuho]], [[JapanFG/japan-post-bank|Japan Post Bank]], and the regional-bank pages. Insurer-side anchors include [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]], [[JapanFG/metlife-japan|MetLife Japan]], [[JapanFG/aflac-japan|Aflac Japan]], and [[JapanFG/kampo-life|Kampo Life]].
+本条目位于 [[insurance/INDEX|insurance INDEX]] 下，是银行渠道视角的保险经济学页面。可与寿险渠道、保险代理和日本寿险集团页面一并阅读。
 
 ## Deregulation history
 

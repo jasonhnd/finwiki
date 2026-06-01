@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.130Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/prudential-japan|Prudential Gibraltar Financial (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -26,7 +26,7 @@ This is the Japanese subsidiary of Aflac Incorporated (NYSE: AFL, headquartered 
 **Japan branch established**: 1974-11  (former American Family Life Insurance Company Japan Branch; launched Japan's first cancer insurance) ^[extracted]  
 **Incorporated in Japan**: 2018-04-02 (former branch business was absorbed and converted into the new company "Aflac Life Insurance Co., Ltd.") ^[extracted]  
 **Head office**: Nishi-Shinjuku, Shinjuku-ku, Tokyo (Aflac Square) ^[extracted]  
-**Representative**: Representative Director and President Masatoshi Koide (2018-01〜)  
+**Representative**: Representative Director and President Masatoshi Koide (since 2018-01)
 **Employees**: about 4,800 名 (recent public disclosure basis for Aflac Life Insurance)  
 **Policies in force**: about 2,300 万 contracts (based on Aflac group Japan-segment disclosure)  
 
@@ -75,16 +75,16 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 | 1955  | American Family Life Insurance Company founded in Columbus, Georgia |
 | 1958  | Began selling cancer insurance in the United States (the first cancer-insurance product in the US) |
 | **1974-11** | **American Family Life Insurance Japan Branch established; Japan's first cancer insurance launched (at that time, the company had exclusive approval for cancer insurance in Japan)** ^[extracted] |
-| 1980s〜90s | Exclusive position in Japan's third-sector market (through the 1980-90  era, major Japanese life insurers faced approval limits on entry into cancer / medical products) |
+| 1980s-1990s | Exclusive position in Japan's third-sector market (through the 1980-1990 era, major Japanese life insurers faced approval limits on entry into cancer / medical products) |
 | 2001  | Deregulation of the third sector (result of US-Japan insurance talks) → major domestic life and non-life affiliated life insurers began entering, intensifying competition |
 | 2008  | Full adoption of the corporate brand "Aflac" (gradual transition away from the old "American Family" name) |
 | 2009  | Aflac Duck adopted in earnest in Japan as an advertising character |
 | 2013  | Aflac × Japan Post business alliance (Aflac cancer insurance sold at post-office counters) — expanded third-sector cross-channel reach |
 | **2018-04-02** | **Converted from the former Japan branch into "Aflac Life Insurance Co., Ltd." (all business succeeded via a newly established company structure; 100% subsidiary of the US parent)** ★ ^[extracted] |
 | **2018-07-12** | **Announced a strategic business and capital alliance with Dai-ichi Life HD ([[dai-ichi-life]]). Dai-ichi Life HD acquired about 7% of Aflac Incorporated on a voting-rights basis for long-term holding (in two stages).** ★ ^[extracted] |
-| 2019〜 | Deepening partnership with Dai-ichi Life (sales-force cross-sell, joint product development, joint marketing) |
-| 2020〜2022  | During the pandemic, growing demand for medical / disability insurance and adaptation to remote sales by sales staff |
-| 2024〜 | Mid-term management strategy at Aflac Japan: strengthen digital direct sales, deepen the Dai-ichi Life channel, and expand products for an aging society |
+| 2019 onward | Deepening partnership with Dai-ichi Life (sales-force cross-sell, joint product development, joint marketing) |
+| 2020-2022  | During the pandemic, growing demand for medical / disability insurance and adaptation to remote sales by sales staff |
+| 2024 onward | Mid-term management strategy at Aflac Japan: strengthen digital direct sales, deepen the Dai-ichi Life channel, and expand products for an aging society |
 
 ### Digital strategy
 
@@ -100,19 +100,19 @@ Aflac Incorporated (US holding company, NYSE: AFL)
   - Cross-selling through the sales-force channel (Dai-ichi Life representatives handle Aflac cancer insurance)
   - Joint product development, joint marketing, and information-systems collaboration
   - Strategic purpose: for Dai-ichi Life, strengthening its third-sector (cancer / medical) lineup; for Aflac, gaining access to a sales network of about 9 万 representatives
-- **Distribution alliance with Japan Post (from 2013〜)**: nationwide post-office-counter sales of cancer insurance; access to local retail networks ^[extracted]
+- **Distribution alliance with Japan Post (from 2013 onward)**: nationwide post-office-counter sales of cancer insurance; access to local retail networks ^[extracted]
 - **Daiwa Securities / Mizuho Securities and other bancassurance**: provision of third-sector insurance through bank-counter sales channels (participating distributors change over time)
 - **Agency network**: relationships with non-life-affiliated agencies and multi-carrier agencies
 
 ### Overseas strategy
 
-- Aflac Life Insurance (the Japanese corporation) is basically **specialized in domestic Japan business**
+- Aflac Life Insurance (the Japanese corporation) is **primarily specialized in the domestic Japanese market**
 - Global expansion is handled by the US parent Aflac Incorporated, and the US segment (supplemental insurance sold in the workplace) complements the Japan segment
 - At the US-parent level, the business is concentrated in 2  countries, Japan and the US, with limited emerging-market expansion ^[extracted]
 
 ### B2C branding
 
-- **Aflac Duck**: the duck character that quacks "Aflac!" Full-scale rollout in the US from 2000 年〜 and in Japan from 2009 年〜. In Japan, many celebrities have been used in commercials, including Toshiyuki Nishida, Aoi Miyazaki, Rina Kawaei, Shota Matsuda, and Satoshi Ohno.
+- **Aflac Duck**: the brand character that vocalizes "Aflac!" It was rolled out at scale in the United States from 2000 and in Japan from 2009. In Japan, commercials have featured numerous public figures, including Toshiyuki Nishida, Aoi Miyazaki, Rina Kawaei, Shota Matsuda, and Satoshi Ohno.
 - **"Insurance for Living"**: the brand slogan for cancer insurance (messaging from the perspective of cancer survivors)
 - **Corporate colors**: Aflac blue (trust) + Aflac Duck white
 
@@ -123,7 +123,7 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 - **Insurance Business Act**: third-sector product approval, solvency-margin regulation, policyholder protection
 - **International capital rules**: response to ICS (Insurance Capital Standard, led by IAIS)
 - **Recent policy issues**:
-  - **2024〜 IFRS 17  / international accounting standards alignment** (the US parent uses US GAAP and the Japan subsidiary uses Japanese standards, but there are group-reporting implications)
+  - **2024 onward IFRS 17 / international accounting standards alignment** (the US parent uses US GAAP and the Japan subsidiary uses Japanese standards, but there are group-reporting implications)
   - **New solvency regulation (economic-value basis)** applied in 2025-04  → evaluation of a liability structure centered on the third sector
   - **Digital-completion contracts and stronger identity verification** (eKYC, AML Act compliance)
   - **Principles for customer-oriented business conduct** (FSA) → stronger monitoring of agencies
@@ -139,7 +139,7 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 - **Sompo Himawari Life** ([[JapanFG/sompo|sompo-hd]] group)
 - **Tokio Marine & Nichido Anshin Life** ([[JapanFG/tokio-marine|tokio-marine-hd]] group)
 
-> From its near-monopoly position in 1974〜2001 , the market turned into a crowded field after third-sector liberalization in 2001 年. Aflac has maintained a No.1 -class position through its "cancer insurance brand" and channel diversity. ^[extracted]
+> From its near-monopoly position in 1974-2001, the market turned into a crowded field after third-sector liberalization in 2001. Aflac has maintained a No.1-class position through its "cancer insurance brand" and channel diversity. ^[extracted]
 
 ## Related
 
@@ -149,7 +149,7 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 
 ## Sources
 
-- **Wikipedia: アフラック生命保険** (https://ja.wikipedia.org/wiki/アフラック生命保険, excerpted at 2026-05-19)
+- **Wikipedia: Aflac Life Insurance** (https://ja.wikipedia.org/wiki/アフラック生命保険, excerpted at 2026-05-19)
 - **Wikipedia: Aflac Incorporated** (https://en.wikipedia.org/wiki/Aflac, excerpted at 2026-05-19)
 - **Aflac Incorporated 10-K Annual Report** (FY2024, SEC EDGAR)
 - **Aflac Japan official history / company overview** (https://www.aflac.co.jp/, excerpted at 2026-05-19)

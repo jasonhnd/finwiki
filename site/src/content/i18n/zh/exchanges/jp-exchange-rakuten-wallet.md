@@ -11,9 +11,9 @@ translated_at: 2026-05-31T05:31:05.772Z
 # 乐天钱包株式会社 — 日本加密资产交换业者 overview
 
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+本条目位于 [[exchanges/INDEX|exchanges index]]。相邻制度语境见 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业登记制度：编号体系、财务局管辖与登记要求]]；更广泛的制度边界见 [[fintech/japan-financial-regulation|日本金融监管：代币、加密资产与支付法体系]]。
 
 > FSA 登记号 关东财务局 第00015号 · JVCEA 会员 #1018 · 登记日 2019-03-25
 

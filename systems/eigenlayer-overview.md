@@ -27,7 +27,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - EIGEN token 2024-10 ローンチ · inter-subjective dispute resolution に使用 ^[extracted]
 - Slashing メカニズム 2025 起動 —— AVS が slashing 条件をカスタム定義可能 ^[extracted]
 
-## Mechanism / How it works
+## Restaking Mechanism and AVS Workflow
 
 伝統的な暗号経済セキュリティは **bootstrapping 問題** :新 L1 はネイティブ token のステーキングで BFT を起動する必要があるが、起動初期には token 時価総額が低い → 攻撃コストが低い → 誰も使う勇気を持たない。クロスチェーンブリッジ / Oracle / DA 層等の「ミドルウェア」も独立 validator 集合を必要とし、それぞれにステーキング資本を集めねばならず、極めて非効率。
 

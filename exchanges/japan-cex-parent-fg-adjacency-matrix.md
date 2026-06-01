@@ -199,7 +199,7 @@ Reading the matrix as a single ranking by adjacency intensity (high = parent FG 
 8. **PayPay-related (via Binance Japan)** (SoftBank / PayPay-FG) — minority position (~40%), indirect adjacency
 9. **DMM Bitcoin** (DMM HD, pre-2024) — non-financial parent backstop role demonstrated (now wound down)
 10. **bitFlyer** (independent) — no FG ecosystem services; brand + JVCEA-network position only
-11. **au-related** (KDDI) — no VASP in group; placeholder / counterfactual row
+11. **au-related** (KDDI) — no VASP in group; reference / counterfactual row
 
 The **bank-FG retail superstore model (SBI, Rakuten)**, the **captive marketplace on-ramp model (Mercoin)**, and the **institutional brokerage adjacency model (Laser Digital, Crypto Garage)** are three structurally distinct high-intensity adjacency archetypes. A reader analysing JP VASP competitive dynamics needs to identify which archetype each operator belongs to before peer-comparing fees, products, or volume metrics.
 

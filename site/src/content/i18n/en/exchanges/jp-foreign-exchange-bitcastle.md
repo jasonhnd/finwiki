@@ -13,7 +13,7 @@ translated_at: 2026-05-31T05:31:05.774Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system — numbering, Local Finance Bureau jurisdiction, and registration requirements]] for adjacent context and [[fintech/japan-financial-regulation|Japan financial regulation — legal framework for tokens, crypto-assets, and payments]] for the broader system boundary.
 
 > No Japan FSA registration · Unregistered overseas-based operator · Warning notice issued 2024-11-28
 
@@ -90,10 +90,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## Sources
 
-- [あたらしい経済「金融庁、無登録運営の海外暗号資産取引所に警告」](https://www.neweconomy.jp/posts/435203)（取得 2026-05-19）
-- [金融庁 bitcastle LLC 警告書 PDF](https://www.fsa.go.jp/news/r6/kasou_tuka/bitcastle_llc_keikokushiryo.pdf)（2024-11-28 発出、URL 現在 404 — 警告書本体は Google キャッシュ・スニペットにて内容確認）
-- [金融庁 無登録で金融商品取引業を行う者の名称等について](https://www.fsa.go.jp/ordinary/chuui/mutouroku.html)（取得 2026-05-19）
-- [財務局 bitcastle LLC 無登録公表](https://lfb.mof.go.jp/rizai/pagekthp033000321)（2025-04-25 公表）
-- [海外FXナビ bitcastle 創業者インタビュー](https://www.ewarrant-sec.jp/bitcastle-interview)（取得 2026-05-19）
-- [Wikipedia ja — Bitcastle](https://ja.wikipedia.org/wiki/Bitcastle)（要 cross-check、単独では confidence 判定に使用せず）
-- [coki.jp「せきねもん（関根義光）」](https://coki.jp)（取得 2026-05-19、スニペット確認）
+- [A New Economy: FSA warns unregistered overseas crypto-asset exchanges](https://www.neweconomy.jp/posts/435203) (retrieved 2026-05-19)
+- [FSA bitcastle LLC warning notice PDF](https://www.fsa.go.jp/news/r6/kasou_tuka/bitcastle_llc_keikokushiryo.pdf) (issued 2024-11-28; URL currently returns 404; warning content confirmed via Google cache / snippet)
+- [FSA list of parties conducting financial instruments business without registration](https://www.fsa.go.jp/ordinary/chuui/mutouroku.html) (retrieved 2026-05-19)
+- [Local Finance Bureau public notice on unregistered bitcastle LLC](https://lfb.mof.go.jp/rizai/pagekthp033000321) (published 2025-04-25)
+- [Kaigai FX Navi interview with bitcastle founder](https://www.ewarrant-sec.jp/bitcastle-interview) (retrieved 2026-05-19)
+- [Wikipedia ja — Bitcastle](https://ja.wikipedia.org/wiki/Bitcastle) (requires cross-checking; not used alone for confidence assessment)
+- [coki.jp: Sekinemon (Yoshimitsu Sekine)](https://coki.jp) (retrieved 2026-05-19; snippet confirmed)

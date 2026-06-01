@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.924Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[JapanFG/iyo-bank|伊予银行]] 对照，并与 [[banking/INDEX|银行索引]] 配套阅读。
 
 ## TL;DR
 

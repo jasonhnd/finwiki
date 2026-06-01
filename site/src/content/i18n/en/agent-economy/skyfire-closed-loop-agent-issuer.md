@@ -24,7 +24,7 @@ This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Age
 
 ## Mechanism — what closed-loop means here
 
-Skyfire's architecture compresses three things into one operator:
+Skyfire's architecture compresses three functions into one operator:
 
 1. **Agent identity / KYA (Know-Your-Agent)** — Skyfire onboards the agent, verifies controlling principal, stores identity proofs
 2. **Virtual card issuance** — Visa-network card with merchant-category whitelist, per-transaction cap, daily / monthly ceiling

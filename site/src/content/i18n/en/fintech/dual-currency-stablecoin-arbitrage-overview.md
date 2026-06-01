@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.742Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation: legal framework for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the three-layer structure of JPYC, USDC, and Project Pax]] for the broader system boundary.
 
 > [!info] TL;DR
 > GENIUS Act §501  delimits the compliance boundary for stablecoin issuance / holding / transfer · **"mutual exchange of dual-currency / multi-currency stablecoins" is the only clearly legal on-chain FX path**. The USDC ↔ EURC ↔ JPYC triangular arbitrage structure is the canonical example — interchange costs can be compressed to 0.01% (1/100 of the traditional cross-border FX cost of 1-3%), and capturing 1% of the $33T global payment flow generates a $3.3B/year revenue opportunity.
@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 3  | JPYC → USDC position close | ~0 bp + mint/burn fee |
 | Net | Cross-currency triangular arbitrage | ~10-20 bp |
 
-Comparison: SWIFT + correspondent banking 1-3% all-in · T+1/T+2; Wise / Remitly 0.5-1% · hours; dual-currency stablecoin 0.01-0.02% · second-level finality. **100× cost reduction + hundreds-of-times speed improvement** — moving in the opposite direction to [[fintech/cross-border-sc-via-swift-api|ステーブルコイン × SWIFT API クロスボーダー]] (the latter embeds stablecoins into SWIFT; the former bypasses it).
+Comparison: SWIFT + correspondent banking 1-3% all-in · T+1/T+2; Wise / Remitly 0.5-1% · hours; dual-currency stablecoin 0.01-0.02% · second-level finality. **100× cost reduction + hundreds-of-times speed improvement** — moving in the opposite direction to [[fintech/cross-border-sc-via-swift-api|stablecoins through SWIFT API for cross-border settlement]] (the latter embeds stablecoins into SWIFT; the former bypasses it).
 
 ## Origin & evolution
 
@@ -44,10 +44,10 @@ Comparison: SWIFT + correspondent banking 1-3% all-in · T+1/T+2; Wise / Remitly
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/dual-currency-stablecoin-arbitrage-legal-hack|二通貨アービトラージ · §501 リーガル hack]]
-- [[fintech/usd-stablecoin-interchange|USD stablecoin interchange モデル]]
+- [[fintech/dual-currency-stablecoin-arbitrage-legal-hack|dual-currency arbitrage · §501 legal workaround]]
+- [[fintech/usd-stablecoin-interchange|USD stablecoin interchange model]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
-- [[fintech/stablecoin-crossborder-b2b-growth|ステーブルコイン・クロスボーダー B2B 成長]]
+- [[fintech/stablecoin-crossborder-b2b-growth|stablecoin cross-border B2B growth]]
 <!-- /wiki-links:managed -->
 
 ## Sources

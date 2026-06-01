@@ -4,55 +4,54 @@ source_hash: fc7acc2300644603
 lang: zh
 status: machine
 fidelity: ok
-title: "ve(3,3) 治理机制 — Curve veCRV → Solidly → Velodrome/Aerodrome 演进"
+title: "ve(3,3) 治理机制：Curve veCRV -> Solidly -> Velodrome / Aerodrome"
 translated_at: 2026-05-31T05:31:05.758Z
 ---
 
-# ve(3,3) 治理机制 — Curve veCRV → Solidly → Velodrome/Aerodrome 演进
+# ve(3,3) 治理机制：Curve veCRV -> Solidly -> Velodrome / Aerodrome
 
+## Wiki 路线
 
-## Wiki route
-
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+本条目位于 [[exchanges/INDEX|交易所索引]]。请与 [[exchanges/global-dex-major-five-comparison|全球主要 DEX 五项比较]] 和 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业注册制度]] 配套阅读，以把握同业比较和监管边界。
 
 ## 概要
 
-**ve(3,3)** 是 **vote-escrow (ve)** + **(3,3) game theory** 的组合。整合 LP 奖励 + 协议收益分配 + 治理投票的 DeFi 代币经济机制。Curve 的 veCRV (2020) 为原点,Solidly (Andre Cronje, 2022) 抽象化,Velodrome (Optimism, 2022) / Aerodrome (Base, 2023) 实用化。如今数十个衍生 protocol 作为 L2 native DEX 经济的核心运转。
+**ve(3,3)** 是 **vote-escrow (ve)** 与 **(3,3) 博弈论**结合形成的 DeFi 代币经济机制，用于把 LP 奖励、协议收入分配和治理投票整合在同一激励结构中。Curve 的 veCRV 是原型，Solidly 在 2022 年抽象化该设计，Velodrome（Optimism）和 Aerodrome（Base）进一步把它实用化。今天，多个 L2 native DEX 以 ve(3,3) 或其变体作为经济核心。
 
 ## 基本结构
 
-- **lock**: 将 token lock 1 周〜4 年即发行 veToken (NFT) · lock 期间越长 veToken 比率越高 (例: 4 年 lock = 1.0x, 1 年 = 0.25x)
-- **vote**: veToken 持有者在 weekly epoch 中通过投票决定 emission 的流向 (奖励发往哪个 LP 池)
-- **bribe**: 第三方 (token 项目) 支付"投票诱导费",将 emission 引向自己的 LP 池 → 形成 bribe market
-- **rebase**: emission 的一部分再分配给现有 veToken 持有者 → 缓和稀释 + 培育 holder loyalty
+- **锁仓**：用户将 token 锁定 1 周至 4 年，获得 veToken（通常为 NFT）；锁定时间越长，投票权重越高。
+- **投票**：veToken 持有者在每个 weekly epoch 中投票决定 emission 流向，即奖励进入哪个 LP 池。
+- **贿赂 / 投票激励**：第三方项目支付投票激励，把 emission 引向自己的 LP 池，从而形成 bribe market。
+- **rebase**：部分 emission 再分配给现有 veToken 持有者，缓和稀释并培育持有人忠诚度。
 
-## 主要 protocol 比较
+## 主要协议比较
 
-- **Curve (veCRV)** (2020-08): ve original · 4 年 lock · LP gauge 投票 · CRV emission · stable swap 流动性 hub · 与 Convex Finance 的 meta layer
-- **Solidly** (2022-02): Andre Cronje 抽象化 · Fantom · 即刻失败 (rug + Cronje 引退) · 设计思想由后继者继承
-- **Velodrome** (2022-06, Optimism): Solidly fork · veVELO · Optimism native DEX · 首个成功实现
-- **Aerodrome** (2023-08, Base): Velodrome v2 fork · veAERO · Base native DEX · Uniswap 反超案例 (在 Base 上 TVL #1)
-- **Equalizer** (Sonic), **Thena** (BNB), **Camelot** (Arbitrum) 等众多 ecosystem 衍生
+- **Curve (veCRV)**（2020-08）：ve 原型；4 年锁仓；LP gauge 投票；CRV emission；stable swap 流动性 hub，并与 Convex Finance 形成 meta layer。
+- **Solidly**（2022-02）：Andre Cronje 在 Fantom 上抽象化设计；早期项目失败，但设计思想被后续协议继承。
+- **Velodrome**（2022-06，Optimism）：Solidly fork；veVELO；Optimism native DEX；首个成功规模化实现。
+- **Aerodrome**（2023-08，Base）：Velodrome v2 fork；veAERO；Base native DEX；在 Base 上实现对既有 DEX 的反超。
+- **Equalizer**（Sonic）、**Thena**（BNB）、**Camelot**（Arbitrum）等生态衍生协议继续扩展该模型。
 
 ## 经济学角色
 
-- **流动性 segmentation**: 通过 emission 投票形成"战略 LP" (L2 主导方将其集中于重要资产池)
-- **bribe market**: token 项目为引导流动性而支付,实现真金白银化 (例: Aerodrome bribe = 每周数百万 USD)
-- **host alignment**: L2 主导方 (Coinbase Ventures / Optimism Foundation) 通过持有 veToken 闭环 chain native economy · 将 cbBTC/USDC 这类 host 资产的流动性内制化
+- **流动性分层**：通过 emission 投票形成战略 LP，L2 主导方可把奖励集中于关键资产池。
+- **投票激励市场**：token 项目为引导流动性支付激励，使治理票权形成可观察的现金价值。
+- **主链 / 主办方一致性**：Coinbase Ventures、Optimism Foundation 等 L2 主导方可通过持有 veToken 闭环 chain-native economy，并把 cbBTC / USDC 等 host 资产流动性内制化。
 
 ## 风险与制约
 
-- **治理集中**: ve 持有 top 10 支配 emission → 寡头化 · "veWhale" 问题
-- **vetokenomics 复杂化**: 一般 LP 的 UX 恶化 · lock 期间 + NFT + bribe + rebase 使 learning curve 陡峭
-- **chain 依赖性**: native DEX 的宿命 (L2 衰退时连锁) · Velodrome 因 Optimism stagnation 而 TVL 萎缩
-- **emission 持续性**: token 价格下跌导致 APR 崩塌 → flywheel 逆向回转风险
+- **治理集中**：ve 持有量前列地址支配 emission，可能形成寡头结构和 veWhale 问题。
+- **代币经济复杂化**：普通 LP 需要理解锁仓、NFT、bribe、rebase 和 epoch 机制，学习曲线陡峭。
+- **链依赖性**：native DEX 的命运与所在 L2 绑定；若 L2 增长停滞，DEX TVL 也会承压。
+- **emission 可持续性**：token 价格下跌会压缩 APR，引发 flywheel 逆转风险。
 
 ## Cross-links
 
-- [[exchanges/native-dex-flip-incumbent-pattern]] (Aerodrome 反超案例)
-- [[exchanges/vetoken-host-protocol-flywheel]] (Coinbase × Aerodrome × cbBTC)
+- [[exchanges/native-dex-flip-incumbent-pattern]]（Aerodrome 反超案例）
+- [[exchanges/vetoken-host-protocol-flywheel]]（Coinbase x Aerodrome x cbBTC）
 - [[exchanges/global-dex-major-five-comparison]]
 - [[exchanges/amm-design-evolution]]
-- [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]]
-- [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure arm analog]]
-- [[exchanges/cex-native-token-strategy-comparison|CEX ネイティブトークン戦略比較]]
+- [[exchanges/solana-ecosystem-dex-comparison|Solana 生态 DEX 比较]]
+- [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构类比]]
+- [[exchanges/cex-native-token-strategy-comparison|CEX 原生代币战略比较]]

@@ -11,11 +11,11 @@ translated_at: 2026-06-01T02:31:57.166Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary credit-card operating-company anchor for the [[shizuoka-fg|しずおか FG]] group (with [[shizuoka-bank|静岡銀行]] as parent). Read it against the parent operating bank [[shizuoka-bank|静岡銀行]] and sibling subsidiaries Shizugin TM Securities / Shizugin Lease / Shizugin Capital / Shizugin Credit Guarantee. Peer comparison: regional-bank credit-card companies such as Mebuki Card, Chibagin Card, [[ucs-card|UCS カード]] (formerly Nagoya Railroad group), and Yokohama Bank's Hamagin Finance, plus major card issuers [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]]. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary credit-card operating-company anchor for the [[shizuoka-fg|Shizuoka FG]] group, with [[shizuoka-bank|Shizuoka Bank]] as parent. Read it against the parent operating bank [[shizuoka-bank|Shizuoka Bank]] and sibling subsidiaries Shizugin TM Securities, Shizugin Lease, Shizugin Capital, and Shizugin Credit Guarantee. Peer comparison includes regional-bank credit-card companies such as Mebuki Card, Chibagin Card, [[ucs-card|UCS Card]], and Yokohama Bank's Hamagin Finance, plus major issuers [[smbc-card|Sumitomo Mitsui Card]], [[credit-saison|Credit Saison]], [[rakuten-card|Rakuten Card]], [[seven-card-service|Seven Card Service]], [[paypay-card|PayPay Card]], [[epos-card|Epos Card]], [[life-card|Life Card]], [[aplus|APLUS]], and [[pocket-card|Pocket Card]]. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
-Shizugin Card Co., Ltd. (Shizugin Card / Shizuoka Bank Card) is the credit-card subsidiary of the [[shizuoka-fg|しずおか FG (東証 PRIME 5831)]] group. Backed by the individual and corporate customer base of core subsidiary [[shizuoka-bank|静岡銀行]], the No. 1  bank in Shizuoka Prefecture and main bank for a manufacturing cluster, it provides **bank-originated credit-card services rooted in Shizuoka Prefecture** under the JCB / VISA / Master brands, together with loans, cash advances, collection agency services, electronic money, and QR-payment-related services. It is a typical regional-bank credit-card-company model, supporting bank-account-linked payments, local merchant networks, and payment functions inside the regional economic area. [[shizuoka-fg]] After the 2022-10-03 holding-company transition, it was repositioned as one of the group's parallel subsidiaries. ^[extracted]
+Shizugin Card Co., Ltd. is the credit-card subsidiary of the [[shizuoka-fg|Shizuoka FG]] group, TSE Prime 5831. Backed by the individual and corporate customer base of core subsidiary [[shizuoka-bank|Shizuoka Bank]], the leading bank in Shizuoka Prefecture and a main bank for the local manufacturing cluster, it provides bank-originated credit-card services under the JCB / Visa / Mastercard brands, together with loans, cash advances, collection agency services, electronic money, and QR-payment-related services. It is a typical regional-bank credit-card-company model, supporting bank-account-linked payments, local merchant networks, and payment functions inside the regional economic area. After the 2022-10-03 holding-company transition, it was repositioned as one of the group's parallel subsidiaries. ^[extracted]
 
 ## 1. Company Overview
 
@@ -23,8 +23,8 @@ Shizugin Card Co., Ltd. (Shizugin Card / Shizuoka Bank Card) is the credit-card 
 |---|---|
 | Legal name | Shizugin Card Co., Ltd. |
 | English name | Shizuoka Bank Card Co., Ltd. (Shizugin Card) |
-| Parent company | [[shizuoka-fg|しずおか FG]] group (consolidated with core subsidiary [[shizuoka-bank|静岡銀行]]) |
-| Established | 1983-04-01 as a [[shizuoka-bank|静岡銀行]] group company. After [[shizuoka-fg|しずおか FG]] was launched in 2022-10 , the parent changed from Shizuoka Bank to Shizuoka FG; on 2023-08-01 the company changed its trade name to the current "Shizugin Card Co., Ltd." (head office: Kusanagi, Shimizu-ku, Shizuoka City). |
+| Parent company | [[shizuoka-fg|Shizuoka FG]] group, consolidated with core subsidiary [[shizuoka-bank|Shizuoka Bank]] |
+| Established | 1983-04-01 as a [[shizuoka-bank|Shizuoka Bank]] group company. After [[shizuoka-fg|Shizuoka FG]] was launched in 2022-10, the parent changed from Shizuoka Bank to Shizuoka FG; on 2023-08-01 the company changed its trade name to the current "Shizugin Card Co., Ltd." with head office in Kusanagi, Shimizu-ku, Shizuoka City. |
 | Main businesses | Credit-card issuance / shopping credit / card loans / cash advances / collection agency / electronic money / QR-payment-related services |
 | Regulation | Installment Sales Act / Money Lending Business Act / Payment Services Act, depending on the related business |
 | Listing status | Unlisted ([[shizuoka-fg]] group) |
@@ -33,7 +33,7 @@ Shizugin Card Co., Ltd. (Shizugin Card / Shizuoka Bank Card) is the credit-card 
 ### Holding-company tree (simplified Shizuoka FG group)
 
 ```
-[[shizuoka-fg|しずおか FG]] (holding company, listed 5831, established 2022-10-03)
+[[shizuoka-fg|Shizuoka FG]] (holding company, listed 5831, established 2022-10-03)
   ├── [[shizuoka-bank|静岡銀行]] (100%) ── core subsidiary; No. 1 share in Shizuoka Prefecture; main bank for manufacturing clusters
   │     └── Main bank for automobiles (Suzuki / Yamaha Motor), musical instruments (Yamaha / Roland), food, and tea
   ├── Shizugin TM Securities (100%) ── group securities company
@@ -66,16 +66,16 @@ Shizugin Card Co., Ltd. (Shizugin Card / Shizuoka Bank Card) is the credit-card 
 
 | Credit-card subsidiary | Parent bank / FG | Parent-company model | Region | Listing |
 |---|---|---|---|---|
-| **Shizugin Card** (this page) | [[shizuoka-fg|しずおか FG]] | Sibling company under a holding company (2022-10-) | Shizuoka Prefecture | Parent 5831  |
+| **Shizugin Card** (this page) | [[shizuoka-fg|Shizuoka FG]] | Sibling company under a holding company (2022-10-) | Shizuoka Prefecture | Parent 5831 |
 | Hamagin Finance (cards / credit guarantees) | [[yokohama-bank]] / [[concordia-fg]] | Bank consolidated subsidiary | Kanagawa / Tokyo metropolitan area | Parent 7186  |
 
 ### Competition with Major Card Issuers
 
-- **Retail-affiliated issuers**: [[credit-saison|クレディセゾン]] / [[epos-card|エポスカード]] / [[seven-card-service|セブンカードサービス]] / [[ucs-card|UCS カード]] / [[aeon-financial-service|イオンフィナンシャルサービス]] - advantaged in issued-card volume through integrated retail channels.
-- **Major bank-affiliated issuers**: [[smbc-card|三井住友カード]] / MUFG NICOS / Mizuho Credit - nationwide coverage backed by megabank parents.
-- **Tech and e-commerce issuers**: [[rakuten-card|楽天カード]] / [[paypay-card|PayPay カード]] / au PAY Card / [[american-express-international-japan|アメックスジャパン]] - rapid growth through economic ecosystems and code-payment integration.
-- **Consumer-finance issuers**: [[aplus|アプラス]] / [[pocket-card|ポケットカード]] / [[life-card|ライフカード]] / [[acom|アコム]] - centered on high-interest cash advances and loans.
-- **In-prefecture competitors**: [[suruga-bank|スルガ銀行]] group cards / [[shimizu-bank|清水銀行]] group cards / local retail cards such as Shizutetsu-related cards.
+- **Retail-affiliated issuers**: [[credit-saison|Credit Saison]] / [[epos-card|Epos Card]] / [[seven-card-service|Seven Card Service]] / [[ucs-card|UCS Card]] / [[aeon-financial-service|AEON Financial Service]] - advantaged in issued-card volume through integrated retail channels.
+- **Major bank-affiliated issuers**: [[smbc-card|Sumitomo Mitsui Card]] / MUFG NICOS / Mizuho Credit - nationwide coverage backed by megabank parents.
+- **Tech and e-commerce issuers**: [[rakuten-card|Rakuten Card]] / [[paypay-card|PayPay Card]] / au PAY Card / [[american-express-international-japan|American Express Japan]] - rapid growth through economic ecosystems and code-payment integration.
+- **Consumer-finance issuers**: [[aplus|APLUS]] / [[pocket-card|Pocket Card]] / [[life-card|Life Card]] / [[acom|ACOM]] - centered on high-interest cash advances and loans.
+- **In-prefecture competitors**: [[suruga-bank|Suruga Bank]] group cards / [[shimizu-bank|Shimizu Bank]] group cards / local retail cards such as Shizutetsu-related cards.
 
 ### Strengths and Weaknesses
 
@@ -118,7 +118,7 @@ Shizugin Card Co., Ltd. (Shizugin Card / Shizuoka Bank Card) is the credit-card 
 ## Sources
 
 - **Shizugin Card Co., Ltd. official site - Company profile** (https://shizugin-card.shizuokabank.co.jp/company/, established 1983-04-01 / capital 5,000 万円 / employees 81 名 / head office in Kusanagi, Shimizu-ku, Shizuoka City)
-- **Wikipedia: Shizugin Card** (https://ja.wikipedia.org/wiki/静銀カード, establishment background 1983-04  / Shizugin joyca 2006-03  / parent-company change 2022-10  / trade-name change to the current name on 2023-08-01)
+- **Wikipedia: Shizugin Card** (https://ja.wikipedia.org/wiki/%E9%9D%99%E9%8A%80%E3%82%AB%E3%83%BC%E3%83%89, establishment background 1983-04 / Shizugin joyca 2006-03 / parent-company change 2022-10 / trade-name change to the current name on 2023-08-01)
 - **Shizuoka Bank official site** (https://www.shizuokabank.co.jp/, group-company information)
 - **Shizuoka FG official IR** (https://www.shizuokafg.co.jp/)
 - **EDINET annual securities reports (Shizuoka FG consolidated / segment information)** (https://disclosure.edinet-fsa.go.jp/)

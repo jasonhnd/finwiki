@@ -35,10 +35,10 @@ NEC Capital Solutions is treated here as a listed leasing and finance company ro
 
 Read this entry together with the related banks, insurers, leasing companies, asset managers, cooperatives, policy bodies, and group pages represented by the protected anchors below.
 
-## Protected source anchors
+## Preserved source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[JapanFG/ricoh-leasing|リコーリース]] [[banking/INDEX|banking index]] [[JapanFG/fuyo-lease|芙蓉総合リース]] 1978 年 8793  1 8793  1978-04-01 2006  2 3 [[JapanFG/orix-corp|オリックス]] [[JapanFG/tokyo-century|東京センチュリー]] [[JapanFG/fuyo-lease|芙蓉総合リース]] [[JapanFG/ricoh-leasing|リコーリース]] [[JapanFG/ricoh-leasing|リコーリース]] 8793 
-- 8566  [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 4 [[JapanFG/ricoh-leasing|リコーリース]] [[JapanFG/toyota-finance|トヨタファイナンス]] [[JapanFG/ricoh-leasing|リコーリース]] [[JapanFG/fuyo-lease|芙蓉総合リース]] [[JapanFG/mizuho-lease|Mizuho Leasing]] [[JapanFG/tokyo-century|東京センチュリー]] [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] [[JapanFG/orix-corp|オリックス]] [[JapanFG/toyota-finance|トヨタファイナンス]] [[banking/INDEX|banking index]] [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 8793  2026-05-24
+- [[JapanFG/INDEX|JapanFG index]]; [[JapanFG/ricoh-leasing|Ricoh Leasing]]; [[banking/INDEX|banking index]]; [[JapanFG/fuyo-lease|Fuyo General Lease]]; 1978; 8793; 1978-04-01; 2006; [[JapanFG/orix-corp|Orix]]; [[JapanFG/tokyo-century|Tokyo Century]].
+- 8566; [[finance/japan-acquisition-finance|Japan acquisition finance]]; [[JapanFG/ricoh-leasing|Ricoh Leasing]]; [[JapanFG/toyota-finance|Toyota Finance]]; [[JapanFG/fuyo-lease|Fuyo General Lease]]; [[JapanFG/mizuho-lease|Mizuho Leasing]]; [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]; [[banking/INDEX|banking index]]; 8793; 2026-05-24.
 
 ## Related
 

@@ -11,11 +11,11 @@ translated_at: 2026-06-01T02:31:57.133Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]]. Read it against parent operating bank [[yokohama-bank|横浜銀行]] and sibling subsidiary [[higashi-nippon-bank|東日本銀行]]. Peer comparison: [[mebuki-lease|めぶきリース]], the northern-Kanto regional-bank leasing peer, and major lessors [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
+This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[concordia-fg|Yokohama Financial Group (formerly Concordia FG)]]. Read it against parent operating bank [[yokohama-bank|Yokohama Bank]] and sibling subsidiary [[higashi-nippon-bank|Higashi-Nippon Bank]]. Peer comparison: [[mebuki-lease|Mebuki Lease]], the northern-Kanto regional-bank leasing peer, and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]] / [[tokyo-century|Tokyo Century]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
-Yokohama Bank Leasing Co., Ltd. is a regional-bank leasing company and consolidated subsidiary of [[yokohama-bank|横浜銀行]], now a subsidiary of [[concordia-fg|横浜フィナンシャルグループ]]. Based in Kanagawa and the Tokyo metropolitan area, it provides equipment leasing, finance leases, operating leases, municipal leasing, medical leasing, and related services. It is relatively large among regional-bank leasing companies and is backed by the deposit-customer base of [[concordia-fg]], formerly CFG and renamed in 2025-10 , one of Japan's largest regional-bank FGs. ^[extracted]
+Yokohama Bank Leasing Co., Ltd. is a regional-bank leasing company and consolidated subsidiary of [[yokohama-bank|Yokohama Bank]], now a subsidiary of [[concordia-fg|Yokohama Financial Group]]. Based in Kanagawa and the Tokyo metropolitan area, it provides equipment leasing, finance leases, operating leases, municipal leasing, medical leasing, and related services. It is relatively large among regional-bank leasing companies and is backed by the deposit-customer base of [[concordia-fg]], formerly CFG and renamed in 2025-10 , one of Japan's largest regional-bank FGs. ^[extracted]
 
 ## 1. License / group boundary
 
@@ -23,23 +23,23 @@ Yokohama Bank Leasing Co., Ltd. is a regional-bank leasing company and consolida
 |---|---|
 | Legal name | Yokohama Bank Leasing Co., Ltd. |
 | English name | Yokohama Bank Leasing Co., Ltd. (Hamagin Lease) |
-| Group boundary | Consolidated subsidiary of [[yokohama-bank]] -> [[concordia-fg|横浜 FG (YFG)]] group |
+| Group boundary | Consolidated subsidiary of [[yokohama-bank]] -> [[concordia-fg|Yokohama FG (YFG)]] group |
 | Wiki role | Regional-bank FG leasing-subsidiary anchor, based in Kanagawa and the Tokyo metropolitan area |
 
 ## 2. Holding-company tree
 
 ```
-[[concordia-fg|横浜フィナンシャルグループ (YFG, 旧 CFG)]] (holding company, TSE PRIME 7186)
-  ├── [[yokohama-bank|横浜銀行]] (100%) -- Kanagawa-based, regional-bank No. 1  class
+[[concordia-fg|Yokohama Financial Group (YFG, formerly CFG)]] (holding company, TSE PRIME 7186)
+  ├── [[yokohama-bank|Yokohama Bank]] (100%) -- Kanagawa-based, regional-bank No. 1  class
   │     ├── Yokohama Bank Leasing (consolidated subsidiary; this page) -- upper-tier regional-bank leasing
   │     ├── Hamagin Research Institute (think tank)
   │     └── Hamagin Finance (cards / credit guarantees)
-  └── [[higashi-nippon-bank|東日本銀行]] (100%) -- Tokyo-based SME-focused metropolitan regional bank
+  └── [[higashi-nippon-bank|Higashi-Nippon Bank]] (100%) -- Tokyo-based SME-focused metropolitan regional bank
 ```
 
 ### Establishment of Yokohama Bank Leasing
 
-- Established as a [[yokohama-bank|横浜銀行]]-lineage leasing company, mainly providing equipment leases to midsize companies in Kanagawa Prefecture
+- Established as a [[yokohama-bank|Yokohama Bank]]-lineage leasing company, mainly providing equipment leases to midsize companies in Kanagawa Prefecture
 - Backed by Yokohama Bank's overwhelming No. 1  prefectural share, it is also among the top leasing players inside Kanagawa
 - A typical postwar regional-bank leasing company: supports SME capital investment through equipment-lease structures rather than bank loans
 
@@ -84,14 +84,14 @@ Yokohama Bank Leasing Co., Ltd. is a regional-bank leasing company and consolida
 
 ### Competitive structure
 
-- **Major lessors**: [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[smfl|SMFL]] / [[mizuho-lease|みずほリース]] / [[fuyo-lease|芙蓉リース]] / [[tokyo-century|東京センチュリー]] / [[ricoh-leasing|リコーリース]] — advantaged in large, nationwide, and complex cases
-- **Regional-bank lessors**: [[mebuki-lease|めぶきリース]], northern Kanto, / [[hokkaido-lease|北海道リース]] / Chiba Kogyo Leasing and similar peers — same-type model
-- **Manufacturer-affiliated lessors**: [[toyota-finance|トヨタファイナンス]] / [[nec-leasing|NEC キャピタルソリューション]] — product-linked
+- **Major lessors**: [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[smfl|SMFL]] / [[mizuho-lease|Mizuho Leasing]] / [[fuyo-lease|Fuyo General Lease]] / [[tokyo-century|Tokyo Century]] / [[ricoh-leasing|Ricoh Leasing]] — advantaged in large, nationwide, and complex cases
+- **Regional-bank lessors**: [[mebuki-lease|Mebuki Lease]], northern Kanto, / [[hokkaido-lease|Hokkaido Leasing]] / Chiba Kogyo Leasing and similar peers — same-type model
+- **Manufacturer-affiliated lessors**: [[toyota-finance|Toyota Finance]] / [[nec-leasing|NEC Capital Solutions]] — product-linked
 - **In-prefecture competitors**: Yokohama Bank group, Kanagawa local shinkin leasing, and branches of major lessors
 
 ### Strengths and weaknesses
 
-- Strengths: [[yokohama-bank]] deposit base over 15 兆円, standalone, midsize-company main-bank network + Tokyo metropolitan GDP scale + No. 1  recognition in Kanagawa
+- Strengths: [[yokohama-bank]] deposit base above ¥15tn, standalone midsize-company main-bank network, Tokyo metropolitan GDP scale, and No. 1  recognition in Kanagawa
 
 ## 7. Regulation / policy
 

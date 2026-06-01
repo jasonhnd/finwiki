@@ -4,82 +4,119 @@ source_hash: e8f0c64f835e4c32
 lang: en
 status: machine
 fidelity: needs_review
-title: "蛹怜恚 FHD (Hokkoku FHD)"
+title: "Hokkoku Financial Holdings (historical Hokkoku FHD)"
 translated_at: 2026-05-31T15:29:03.933Z
 ---
-﻿
-# 蛹怜恚 FHD (Hokkoku FHD)
 
-## Wiki route
+# Hokkoku Financial Holdings (historical Hokkoku FHD)
 
-This entry sits under 笶ｰa笶ｱ. Read it against 笶ｰb笶ｱ for peer / contrast context and 笶ｰc笶ｱ for the broader system / regulatory boundary.
+## Wiki Route
 
-Current-name route: 笶ｰd笶ｱ. This page remains as the historical / old-name Hokkoku FHD bridge for older research notes and links.
+This entry belongs to the [[JapanFG/INDEX|JapanFG index]]. Read it with [[JapanFG/fukuoka-fg|Fukuoka Financial Group (FFG)]] for peer comparison and with the [[banking/INDEX|banking index]] for the broader banking and regulatory context.
+
+Current-name route: [[JapanFG/cci-group|CCI Group]]. This page remains as the historical Hokkoku FHD bridge for older research notes and backlinks.
 
 ## Overview
 
-遏ｳ蟾晉恁蝨ｰ逶､縺ｮ蝨ｰ譁ｹ驫陦梧戟譬ｪ莨夂､ｾ・域擲險ｼ PRIME 笶ｰdd笶ｱ・峨や擴bi笶ｱ 蛹怜恚驫陦後・蜊倡峡譬ｪ蠑冗ｧｻ霆｢縺ｧ逋ｺ雜ｳ縺励≫擴bj笶ｱ 縺ｫ 笶ｰe笶ｱ 縺ｸ蝠・捷螟画峩縺励◆縲りｳ・肇隕乗ｨ｡縺ｯ荳ｭ蝣・慍驫繧ｯ繝ｩ繧ｹ縺縺後・*蝨ｰ驫讌ｭ逡後〒蛻･譬ｼ縺ｮ縲後ョ繧ｸ繧ｿ繝ｫ蜈磯ｲ蝨ｰ驫縲・*縺ｨ縺励※遏･繧峨ｌ繧九や擴cg笶ｱ縺ｫ蝨ｰ驫縺ｧ蛻昴ａ縺ｦ Microsoft Azure 繧呈治逕ｨ縲≫擴ch笶ｱ縺ｫ蜍伜ｮ夂ｳｻ繧偵が繝ｼ繝励Φ蜍伜ｮ夂ｳｻ・・indows 繧ｵ繝ｼ繝・+ .NET 繝吶・繧ｹ・峨∈遘ｻ陦後≫擴ci笶ｱ縺ｫ蝟ｶ讌ｭ蠎礼ｪ灘哨遶ｯ譛ｫ繧・Surface 縺ｫ蛻ｷ譁ｰ縺吶ｋ縺ｪ縺ｩ縲・*讌ｭ逡後・蟶ｸ隴倥ｒ 笶ｰde笶ｱ蟷ｴ莉･荳雁・蜿悶ｊ縺励◆ IT 霍ｯ邱・*繧定ｲｫ縺・※縺阪◆縲や擴cj笶ｱ縺ｫ縺ｯ ICT 繧ｳ繝ｳ繧ｵ繝ｫ蟄蝉ｼ夂､ｾ縲後ョ繧ｸ繧ｿ繝ｫ繝舌Μ繝･繝ｼ縲阪→ BaaS 繝励Λ繝・ヨ繝輔か繝ｼ繝縲卦onari縲阪ｒ遶九■荳翫￡縲・*縲悟慍驫逋ｺ繝・ず繧ｿ繝ｫ繝励Λ繝・ヨ繝輔か繝ｼ繝槭・縲阪∈縺ｨ讌ｭ諷玖ｻ｢謠・*繧帝ｲ繧√ｋ縲や擴f笶ｱ・医∩繧薙↑縺ｮ驫陦鯉ｼ峨→荳ｦ縺ｶ蝨ｰ驫 DX 繝ｪ繝ｼ繝繝ｼ縺ｮ荳隗偵・
-## 笶ｰdf笶ｱ. 莨夂､ｾ讎りｦ・
-**豁｣蠑丞錐**・壽ｪ蠑丈ｼ夂､ｾ蛹怜恚繝輔ぅ繝翫Φ繧ｷ繝｣繝ｫ繝帙・繝ｫ繝・ぅ繝ｳ繧ｰ繧ｹ
-**闍ｱ蜷・*・唏okkoku Financial Holdings, Inc.
-**險ｼ蛻ｸ繧ｳ繝ｼ繝・*・壽擲險ｼ PRIME 笶ｰdg笶ｱ**險ｭ遶・*・壺擴ca笶ｱ・亥圏蝨矩橿陦・蜊倡峡譬ｪ蠑冗ｧｻ霆｢縺ｫ繧医ｋ謖∵ｪ莨夂､ｾ蛹厄ｼ・**譛ｬ遉ｾ**・夂浹蟾晉恁驥第ｲ｢蟶ょｺ・ｲ｡ 笶ｰdh笶ｱ-笶ｰdi笶ｱ-笶ｰdj笶ｱ・亥圏蝨矩橿陦梧悽蠎励ン繝ｫ・・
-### 荳ｻ隕∝ｭ蝉ｼ夂､ｾ繝ｻ謖∝・
+Hokkoku Financial Holdings was an Ishikawa-based regional bank holding company listed on the Tokyo Stock Exchange Prime Market under code 7381. It was established on 2021-10-01 through a sole-share transfer by Hokkoku Bank and changed its trade name to [[JapanFG/cci-group|CCI Group]] on 2025-10-01. Although its asset scale sat in the mid-sized regional-bank tier, the group was widely treated as an exceptional digital leader among Japanese regional banks.
 
+Its strategic profile was shaped by an unusually early technology program: adoption of Microsoft Azure in 2008, migration of core banking systems to an open Windows Server and .NET-based architecture in 2010, and replacement of branch-counter terminals with Surface devices in 2017. In 2023, the group launched Digital Value as an ICT consulting subsidiary and introduced the Tonari BaaS platform, positioning itself as a regional-bank-origin digital platform provider. Together with [[fukuoka-fg|Fukuoka Financial Group's Minna Bank]], Hokkoku FHD is one of the reference cases for regional-bank digital transformation in Japan.
+
+## 1. Company Profile
+
+**Legal name**: Hokkoku Financial Holdings, Inc.
+**Japanese legal name**: 株式会社北國フィナンシャルホールディングス
+**Security code**: Tokyo Stock Exchange Prime 7381
+**Established**: 2021-10-01, through Hokkoku Bank's sole-share transfer into a holding-company structure
+**Head office**: Hokkoku Bank Head Office Building, 2-12-6 Hirooka, Kanazawa, Ishikawa
+
+### Principal Subsidiaries and Holdings
+
+```text
+Hokkoku FHD (listed holding company, 7381)
+  ├── Hokkoku Bank (100%) -- core regional-bank operation with the leading Ishikawa share
+  │     └── Ishikawa base plus branches in Toyama, Fukui, Tokyo, Osaka, and adjacent markets
+  ├── Digital Value (100%, established 2023-04) -- ICT consulting subsidiary
+  │     └── Corporate DX support and municipal DX support
+  ├── Hokkoku Management (100%) -- management consulting and regional corporate support
+  ├── Hokkoku Credit (100%) -- credit-card business
+  └── Hokkoku e Payment (100%) -- payment-related operations
 ```
-蛹怜恚 FHD・域戟譬ｪ莨夂､ｾ繝ｻ荳雁ｴ 笶ｰea笶ｱ・・  笏懌楳笏 蛹怜恚驫陦鯉ｼ遺擴eb笶ｱ・俄楳笏 遏ｳ蟾晉恁繧ｷ繧ｧ繧｢ No.笶ｰec笶ｱ蝨ｰ驫繝ｻ繧ｳ繧｢莠区･ｭ
-  笏・    笏披楳笏 遏ｳ蟾晉恁蜀・+ 蟇悟ｱｱ繝ｻ遖丈ｺ輔・譚ｱ莠ｬ繝ｻ螟ｧ髦ｪ縺ｪ縺ｩ髫｣謗･螻暮幕
-  笏懌楳笏 繝・ず繧ｿ繝ｫ繝舌Μ繝･繝ｼ・遺擴ed笶ｱ, 笶ｰee笶ｱ-笶ｰef笶ｱ險ｭ遶具ｼ俄楳笏 ICT 繧ｳ繝ｳ繧ｵ繝ｫ蟄蝉ｼ夂､ｾ
-  笏・    笏披楳笏 豕穂ｺｺ蜷代￠ DX 謾ｯ謠ｴ繝ｻ閾ｪ豐ｻ菴・DX
-  笏懌楳笏 蛹怜恚繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ遺擴eg笶ｱ・俄楳笏 邨悟霧繧ｳ繝ｳ繧ｵ繝ｫ繝ｻ蝨ｰ蝓滉ｼ∵･ｭ謾ｯ謠ｴ
-  笏懌楳笏 蛹怜恚繧ｯ繝ｬ繧ｸ繝・ヨ・遺擴eh笶ｱ・俄楳笏 繧ｯ繝ｬ繧ｸ繝・ヨ繧ｫ繝ｼ繝・  笏披楳笏 蛹怜恚 e 繝壹う繝｡繝ｳ繝茨ｼ遺擴ei笶ｱ・俄楳笏 豎ｺ貂磯未騾｣
-```
 
-縲卦onari縲阪・蟄蝉ｼ夂､ｾ縺ｨ縺・≧繧医ｊ繧ゅ∝圏蝨矩橿陦・/ 繝・ず繧ｿ繝ｫ繝舌Μ繝･繝ｼ縺御ｻ門慍驫繝ｻ蝨ｰ蝓滄≡陞肴ｩ滄未蜷代￠縺ｫ謠蝉ｾ帙☆繧・**BaaS・・anking as a Service・峨・繝ｩ繝・ヨ繝輔か繝ｼ繝** 繝悶Λ繝ｳ繝峨・
-## 笶ｰej笶ｱ. 蜷井ｽｵ繝ｻ豐ｿ髱ｩ
+Tonari is better understood as a BaaS (Banking as a Service) platform brand provided by Hokkoku Bank and Digital Value to other regional banks and local financial institutions, rather than as a conventional subsidiary.
 
-- **笶ｰfa笶ｱ**・壼圏蝨矩橿陦・險ｭ遶具ｼ亥刈蟾樣橿陦・+ 蜉閭ｽ蜷亥酔驫陦・+ 閭ｽ逋ｻ驫陦・遲峨・謌ｦ譎らｵｱ蜷茨ｼ・- **笶ｰfb笶ｱ**・壼慍驫縺ｨ縺励※蛻昴ａ縺ｦ Microsoft Azure 繧呈治逕ｨ縲∵･ｭ逡後↓陦晄茶
-- **笶ｰfc笶ｱ**・壼鋸螳夂ｳｻ繧・**繧ｪ繝ｼ繝励Φ蜍伜ｮ夂ｳｻ**・・indows + .NET 繝吶・繧ｹ・峨∈遘ｻ陦・窶・蝨ｰ驫讌ｭ逡後〒蜑堺ｾ九↑縺上∬ｩｱ鬘後↓
-- **笶ｰfd笶ｱ**・壼霧讌ｭ蠎礼ｪ灘哨遶ｯ譛ｫ繧・**Surface 繧ｿ繝悶Ξ繝・ヨ** 縺ｫ蛻ｷ譁ｰ縲∫ｴ吶・繝ｼ繧ｹ讌ｭ蜍吶・譬ｹ譛ｬ隕狗峩縺・- **笶ｰcb笶ｱ**・壼腰迢ｬ譬ｪ蠑冗ｧｻ霆｢縺ｧ 蛹怜恚 FHD 逋ｺ雜ｳ縲∝圏蝨矩橿陦後・ 笶ｰfe笶ｱ 蟄蝉ｼ夂､ｾ蛹・- **笶ｰff笶ｱ-笶ｰfg笶ｱ**・唔CT 繧ｳ繝ｳ繧ｵ繝ｫ蟄蝉ｼ夂､ｾ **繝・ず繧ｿ繝ｫ繝舌Μ繝･繝ｼ** 險ｭ遶九∝酔譎ゅ↓ BaaS 繝励Λ繝・ヨ繝輔か繝ｼ繝 **縲卦onari縲・* 謠蝉ｾ幃幕蟋・- **笶ｰcc笶ｱ**・夊・逋ｻ蜊雁ｳｶ蝨ｰ髴・匱逕滂ｼ磯怫貅仙慍縺檎浹蟾晉恁縲∬｢ｫ轣ｽ蝨ｰ驥題檮讖溯・邯ｭ謖√′邨悟霧隱ｲ鬘後↓・・- **笶ｰfh笶ｱ**・壽眠荳ｭ譛溽ｵ悟霧險育判・亥慍蝓・DX 繝励Λ繝・ヨ繝輔か繝ｼ繝槭・蠢怜髄・・
-## 笶ｰfi笶ｱ. 莠区･ｭ繧ｻ繧ｰ繝｡繝ｳ繝医・繝槭ャ繝・
-| 繧ｻ繧ｰ繝｡繝ｳ繝・| 荳ｻ隕∽ｺ区･ｭ閠・| 迚ｹ蠕ｴ |
+## 2. Merger and Corporate History
+
+- **1943**: Hokkoku Bank was established through wartime consolidation, including Kashu Bank, Kano Godo Bank, and Noto Bank.
+- **2008**: Hokkoku became the first Japanese regional bank to adopt Microsoft Azure, drawing industry attention.
+- **2010**: The bank moved its core banking system to an open Windows and .NET-based architecture, an unusual step in the regional-bank sector.
+- **2017**: Branch-counter terminals were replaced with Surface tablets, supporting a broader redesign of paper-heavy operations.
+- **2021-10-01**: Hokkoku FHD was formed by sole-share transfer, making Hokkoku Bank a wholly owned subsidiary.
+- **2023-04**: Digital Value was established as an ICT consulting subsidiary, and the Tonari BaaS platform was launched.
+- **2024-01-01**: The Noto Peninsula earthquake made continuity of local financial services a direct management and social-responsibility issue.
+- **2024**: The group presented a new medium-term plan oriented toward regional DX platform services.
+
+## 3. Business Segment Map
+
+| Segment | Principal operator | Characteristics |
 |---|---|---|
-| 逵悟・ retail | 蛹怜恚驫陦・| 遏ｳ蟾晉恁蜀・す繧ｧ繧｢ No.笶ｰfj笶ｱ・磯宣≡繝ｻ雋ｸ蜃ｺ縺ｨ繧ゑｼ峨∝慍逶､蝨ｧ蛟・|
-| 逵悟・豕穂ｺｺ | 蛹怜恚驫陦・| 蛹鈴匣蝨ｰ蝣ｴ莨∵･ｭ main bank縲∽ｸｭ蝣・・荳ｭ蟆上↓蜴壹＞ |
-| 髫｣謗･逵悟ｱ暮幕 | 蛹怜恚驫陦・| 蟇悟ｱｱ繝ｻ遖丈ｺ輔・譚ｱ莠ｬ繝ｻ螟ｧ髦ｪ縺ｫ謾ｯ蠎励∝圏髯ｸ繝吶・繧ｹ |
-| ICT 繧ｳ繝ｳ繧ｵ繝ｫ | 繝・ず繧ｿ繝ｫ繝舌Μ繝･繝ｼ | 蝨ｰ蝓滉ｼ∵･ｭ / 閾ｪ豐ｻ菴灘髄縺・DX 謾ｯ謠ｴ・郁・遉ｾ遏･隕九・螟冶ｲｩ・・|
-| BaaS | Tonari | 莉門慍驫蜷代￠蜍伜ｮ夂ｳｻ / API / 讌ｭ蜍吶す繧ｹ繝・Β謠蝉ｾ・|
-| 繧ｯ繝ｬ繧ｫ繝ｻ豎ｺ貂・| 蛹怜恚繧ｯ繝ｬ繧ｸ繝・ヨ繝ｻ蛹怜恚 e 繝壹う繝｡繝ｳ繝・| 蝨ｰ蝓滓ｱｺ貂・|
-| Microsoft 謠先声 | 蜈ｨ遉ｾ讓ｪ譁ｭ | Azure / Surface / Microsoft 笶ｰga笶ｱ繧貞・讌ｭ蜍吝渕逶､縺ｫ |
+| Ishikawa retail banking | Hokkoku Bank | Leading Ishikawa deposit and lending share; dense local franchise |
+| Ishikawa corporate banking | Hokkoku Bank | Main-bank role for Hokuriku middle-market and SME customers |
+| Adjacent-region branches | Hokkoku Bank | Branches in Toyama, Fukui, Tokyo, and Osaka from a Hokuriku base |
+| ICT consulting | Digital Value | DX support for regional enterprises and municipalities, commercializing internal know-how |
+| BaaS | Tonari | Core-banking, API, and business-system services for other regional banks |
+| Cards and payments | Hokkoku Credit / Hokkoku e Payment | Local card and payment infrastructure |
+| Microsoft partnership | Group-wide | Azure, Surface, and Microsoft 365 as core operational infrastructure |
 
-### 縲悟慍驫逋ｺ繝・ず繧ｿ繝ｫ繝励Λ繝・ヨ繝輔か繝ｼ繝槭・縲榊ｿ怜髄
+### Regional-Bank Digital Platform Strategy
 
-蛹怜恚 FHD 縺ｮ謌ｦ逡･縺ｯ縲∝慍驫讌ｭ逡後〒**蜚ｯ荳辟｡莠・*縺ｨ險縺｣縺ｦ繧医＞縲ゆｸ闊ｬ逧・↑蝨ｰ驫縺後後・繝ｳ繝繝ｼ莉ｻ縺帙・蜈ｱ蜷悟鋸螳夂ｳｻ・・TT 繝・・繧ｿ繝ｻ譌･譛ｬ繝ｦ繝九す繧ｹ繝ｻ譌･遶狗ｭ会ｼ峨阪↓荵励ｋ縺ｮ縺ｫ蟇ｾ縺励∝圏蝨九・ **笶ｰda笶ｱ莉･髯・Microsoft Azure 繧貞・陬ｽ蝓ｺ逶､縺ｫ謐ｮ縺医∝鋸螳夂ｳｻ閾ｪ菴薙ｒ繧ｪ繝ｼ繝励Φ蛹・* 縺励◆縲ゅ％縺ｮ闢・ｩ阪ｒ蝠・刀蛹悶＠縺溘・縺・笶ｰdb笶ｱ縺ｮ **Tonari**・・aaS・峨〒縺ゅｊ縲∬・遉ｾ縺悟茜逕ｨ閠・〒縺ゅｋ DX 蝓ｺ逶､繧剃ｻ門慍驫縺ｫ螟冶ｲｩ縺吶ｋ **縲栗T 莨夂､ｾ蛹悶肴姶逡･** 縺ｸ縺ｨ雕上∩霎ｼ繧薙〒縺・ｋ縲・
-### Microsoft 髟ｷ譛滓署謳ｺ
+Hokkoku FHD's strategy is unusual in the regional-bank sector. Many regional banks depend on vendor-led shared core systems from providers such as NTT DATA, BIPROGY, or Hitachi. Hokkoku instead built a Microsoft-centered internal platform from 2008 onward and opened up its core banking architecture. Tonari commercialized that accumulated capability in 2023, turning an internal DX base into a platform that could be sold to other regional banks. The strategic significance is not only cost reduction, but a shift from bank operator toward technology-infrastructure provider.
 
-笶ｰdc笶ｱ莉･譚･縺ｮ Microsoft / Azure 謠先声縺ｯ蝨ｰ驫讌ｭ逡梧怙髟ｷ繧ｯ繝ｩ繧ｹ縲４urface 繧ｿ繝悶Ξ繝・ヨ蟆主・・遺擴gb笶ｱ・峨｀icrosoft 笶ｰgc笶ｱ蜈ｨ遉ｾ螻暮幕縺ｪ縺ｩ繧ゅ√・繝ｳ繝繝ｼ繝ｭ繝・け繧､繝ｳ繧呈覆縺医※鬟ｲ縺ｿ霎ｼ繧薙〒讌ｭ蜍呎隼髱ｩ騾溷ｺｦ繧貞━蜈医☆繧矩∈謚槭・
-### 遶ｶ蜷医・蜿ら・蟇ｾ雎｡
+### Long-Running Microsoft Partnership
 
-蝨ｰ驫 DX 繝ｪ繝ｼ繝繝ｼ縺ｨ縺励※縺ｮ蜿ら・蟇ｾ雎｡縺ｯ 笶ｰg笶ｱ・医∩繧薙↑縺ｮ驫陦・= 繝輔Ν繧ｯ繝ｩ繧ｦ繝峨ロ繧､繝・ぅ繝悶・繝・ず繧ｿ繝ｫ繝舌Φ繧ｯ・峨′遲・ｭ縲ゅ◆縺縺嶺ｸ｡閠・・謌ｦ逡･縺ｯ蟇ｾ辣ｧ逧・〒縲√・縺上♀縺・FG 縺ｯ **縲梧眠繝悶Λ繝ｳ繝峨〒蜈ｨ蝗ｽ繝・ず繧ｿ繝ｫ螻暮幕縲・*縲∝圏蝨・FHD 縺ｯ **縲梧里蟄伜慍驫縺ｮ讌ｭ蜍吝渕逶､縺昴・繧ゅ・繧偵ョ繧ｸ繧ｿ繝ｫ蛹悶＠縲∽ｻ門慍驫縺ｫ螢ｲ繧九・*縲ら漁縺・庶逶頑ｺ舌ｂ逡ｰ縺ｪ繧九・
-### 閭ｽ逋ｻ蜊雁ｳｶ蝨ｰ髴・ｼ遺擴cd笶ｱ・・
-髴・ｺ仙慍縺檎浹蟾晉恁繝ｻ閭ｽ逋ｻ蝨ｰ譁ｹ縺ｧ縺ゅｊ縲∬｢ｫ轣ｽ蝨ｰ驥題檮讖溯・縺ｮ邯ｭ謖√・邨悟霧隱ｲ鬘後°縺､遉ｾ莨夂噪雋ｬ蜍吶ゅョ繧ｸ繧ｿ繝ｫ蛹悶′騾ｲ繧薙〒縺・◆縺薙→縺・BCP・井ｺ区･ｭ邯咏ｶ夲ｼ峨〒讖溯・縺励◆縺ｨ隧穂ｾ｡縺輔ｌ縺ｦ縺・ｋ荳譁ｹ縲∬｢ｫ轣ｽ蝨ｰ蠕ｩ闊郁檮雉・・蠎苓・邯ｲ蜀咲ｷｨ縺ｮ雋闕ｷ縺ｯ荳ｭ髟ｷ譛溘〒雋｡蜍吶↓蠖ｱ髻ｿ縺励≧繧九・
-## 笶ｰgd笶ｱ. 隕丞宛繝ｻ謾ｿ遲・
-- **荳ｻ邂｡**・夐≡陞榊ｺ・ｼ・SA・峨∝圏髯ｸ雋｡蜍吝ｱ
-- **讌ｭ諷・*・夐橿陦梧戟譬ｪ莨夂､ｾ・磯橿陦梧ｳ包ｼ峨∝慍譁ｹ驫陦悟鵠莨壼刈逶・- **逶ｴ霑第帆遲冶ｫ也せ**・・  - 笶ｰge笶ｱ縲・譌･驫謾ｿ遲夜≡蛻ｩ豁｣蟶ｸ蛹・竊・蝨ｰ驫蜈ｨ菴薙〒驥大茜繝槭・繧ｸ繝ｳ謾ｹ蝟・・繝ｼ繝翫せ
-  - 笶ｰgf笶ｱ縲・閭ｽ逋ｻ蜊雁ｳｶ蝨ｰ髴・｢ｫ轣ｽ蝨ｰ蠕ｩ闊茨ｼ育音蛻･陞崎ｳ・・繝｢繝ｩ繝医Μ繧｢繝蟇ｾ蠢懶ｼ・  - 笶ｰgg笶ｱ縲・BaaS / 蜈ｱ蜷悟鋸螳夂ｳｻ蟶ょｴ縺ｮ謨ｴ逅・ｼ・TT 繝・・繧ｿ縲悟慍驫蜈ｱ蜷後そ繝ｳ繧ｿ繝ｼ縲阪郡TELLA CUBE縲榊兇縺ｫ蟇ｾ縺吶ｋ莉｣譖ｿ驕ｸ謚櫁い縺ｨ縺励※縺ｮ Tonari・・
-## 笶ｰgh笶ｱ. Open questions
+The Microsoft and Azure relationship that began in 2008 is one of the longest-running in the Japanese regional-bank sector. Surface tablet deployment in 2017 and group-wide Microsoft 365 use reflected a deliberate choice to prioritize operating-model reform and implementation speed.
 
-- Tonari 縺ｮ謗｡逕ｨ蝨ｰ驫謨ｰ繝ｻ蜿守寢隕乗ｨ｡縺ｯ縺ｩ縺薙∪縺ｧ莨ｸ縺ｳ繧九°・・NTT 繝・・繧ｿ邉ｻ繝ｻ譌･譛ｬ繝ｦ繝九す繧ｹ邉ｻ縺ｮ蜈ｱ蜷悟鋸螳夂ｳｻ縺九ｉ荵励ｊ謠帙∴繧句慍驫縺ｯ蜃ｺ繧九°・・- 閭ｽ逋ｻ蜊雁ｳｶ蝨ｰ髴・°繧峨・陲ｫ轣ｽ蝨ｰ蠕ｩ闊郁檮雉・・荳崎憶蛯ｵ讓ｩ蛹悶Μ繧ｹ繧ｯ縺ｯ・・笶ｰgi笶ｱ縲懌擴gj笶ｱ縺ｫ縺九￠縺ｦ縺ｮ蠑募ｽ馴≡謗ｨ遘ｻ
-- 繝・ず繧ｿ繝ｫ繝舌Μ繝･繝ｼ縺ｮ閾ｪ豐ｻ菴・DX 莠区･ｭ縺ｯ遏ｳ蟾晉恁螟悶↓縺ｩ縺薙∪縺ｧ蠎・′繧九°・・- 蛹怜恚 FHD 縺ｯ蝨ｰ驫蜀咲ｷｨ・・BI 隨ｬ 笶ｰha笶ｱ繝｡繧ｬ讒区Φ / 髫｣謗･ 笶ｰh笶ｱ 遲会ｼ峨↓邨・∩霎ｼ縺ｾ繧後ｋ縺ｮ縺九∫峡遶玖ｷｯ邱壹ｒ雋ｫ縺上・縺具ｼ・- Microsoft 縺ｨ縺ｮ謠先声豺ｱ蛹悶・縺ｩ縺薙∪縺ｧ騾ｲ繧縺具ｼ育函謌・AI / Copilot 鬆伜沺縺ｧ縺ｮ螳溯｣・庄閭ｽ諤ｧ・・
-## 笶ｰhb笶ｱ. Related
+### Competitive Reference Points
 
-- 笶ｰi笶ｱ 窶・縺ｿ繧薙↑縺ｮ驫陦後ｒ謖√▽繧ゅ≧荳譁ｹ縺ｮ蝨ｰ驫 DX 繝ｪ繝ｼ繝繝ｼ縲∝ｯｾ辣ｧ逧・姶逡･
-- 笶ｰj笶ｱ 窶・髫｣謗･蛹鈴匣蝨ｰ逶､・亥ｯ悟ｱｱ繝ｻ蛹玲ｵｷ驕難ｼ峨・蝨ｰ驫 FG
-- 笶ｰba笶ｱ ﾂｷ 笶ｰbb笶ｱ ﾂｷ 笶ｰbc笶ｱ 窶・荳ｭ蝣・懷､ｧ謇句慍驫 FG
-- 笶ｰbd笶ｱ ﾂｷ 笶ｰbe笶ｱ ﾂｷ 笶ｰbf笶ｱ 窶・繝｡繧ｬ繝舌Φ繧ｯ・亥盾辣ｧ・・- 笶ｰbg笶ｱ 窶・隨ｬ 笶ｰhc笶ｱ繝｡繧ｬ讒区Φ縺ｧ蝨ｰ驫騾｣蜷医ｒ邨・・
-- 髢｢騾｣ wiki: 笶ｰbh笶ｱ・・aaS 豈碑ｼ・ｼ・
+The closest digital-transformation reference point is [[fukuoka-fg|Fukuoka Financial Group]], which operates Minna Bank as a cloud-native digital bank. The contrast is important: FFG created a new nationwide digital brand, while Hokkoku FHD digitized the operating base of an existing regional bank and sought to sell that base to peer institutions. The revenue models and transformation routes are therefore materially different.
+
+### Noto Peninsula Earthquake (2024-01-01)
+
+Because the earthquake affected Ishikawa and the Noto region, maintaining financial services in damaged communities became both a business-continuity matter and a social responsibility. Hokkoku's digitized operating base was viewed as relevant to BCP resilience, while reconstruction lending, branch-network adaptation, and credit-cost risk may affect medium-term financial results.
+
+## 5. Regulation and Policy Context
+
+- **Supervisors**: Financial Services Agency (FSA) and Hokuriku Local Finance Bureau.
+- **Business category**: Bank holding company under the Banking Act; member of the Regional Banks Association of Japan.
+- **Current policy issues**:
+  - Bank of Japan policy-rate normalization from 2024, improving regional-bank net interest margins.
+  - Reconstruction finance and moratorium responses after the Noto Peninsula earthquake.
+  - BaaS and shared-core-system market restructuring, with Tonari positioned as an alternative to NTT DATA's regional-bank shared centers and STELLA CUBE.
+
+## 7. Open Questions
+
+- How far can Tonari expand in adopted-bank count and revenue scale, and can it displace shared-core arrangements from NTT DATA or BIPROGY-related systems?
+- How material will non-performing-loan risk become in reconstruction lending after the Noto Peninsula earthquake, especially through the 2026-2027 allowance cycle?
+- Can Digital Value expand municipal DX services beyond Ishikawa?
+- Will Hokkoku FHD remain independent, or become involved in regional-bank consolidation initiatives such as SBI's "fourth megabank" concept or neighboring [[hokuhoku-fg|Hokuhoku Financial Group]]?
+- How far will the Microsoft partnership deepen in generative AI and Copilot-related implementation?
+
+## 8. Related
+
+- [[fukuoka-fg|Fukuoka Financial Group]] -- the other major regional-bank DX reference case through Minna Bank.
+- [[hokuhoku-fg|Hokuhoku Financial Group]] -- neighboring Hokuriku regional-bank group.
+- [[shizuoka-fg|Shizuoka Financial Group]] · [[concordia-fg|Concordia Financial Group]] · [[mebuki-fg|Mebuki Financial Group]] -- mid-sized to large regional-bank groups.
+- [[mufg|MUFG]] · [[smfg|SMFG]] · [[mizuho-fg|Mizuho Financial Group]] -- megabank references.
+- [[sbi-hd|SBI Holdings]] -- regional-bank alliance strategy under the "fourth megabank" concept.
+- Related wiki: [[banking/minna-bank-baas-model|Minna Bank BaaS model comparison]].
+
 ## Sources
 
-- **Wikipedia: 蛹怜恚繝輔ぅ繝翫Φ繧ｷ繝｣繝ｫ繝帙・繝ｫ繝・ぅ繝ｳ繧ｰ繧ｹ**・亥・髢区ュ蝣ｱ・・- **Wikipedia: 蛹怜恚驫陦・*・亥・髢区ュ蝣ｱ縲｀icrosoft Azure 謗｡逕ｨ / 蜍伜ｮ夂ｳｻ繧ｪ繝ｼ繝励Φ蛹・/ Surface 蟆主・ 蜷・ｨ倩ｼ会ｼ・- 蛹怜恚 FHD 蜈ｬ蠑・IR・域戟譬ｪ莨夂､ｾ險ｭ遶・笶ｰce笶ｱ縲√ョ繧ｸ繧ｿ繝ｫ繝舌Μ繝･繝ｼ險ｭ遶・笶ｰhd笶ｱ-笶ｰhe笶ｱ縲ゝonari 謠蝉ｾ幃幕蟋・笶ｰhf笶ｱ・・
+- Wikipedia: Hokkoku Financial Holdings.
+- Wikipedia: Hokkoku Bank, including public information on Microsoft Azure adoption, open core-banking migration, and Surface deployment.
+- Hokkoku FHD public IR materials covering the 2021-10-01 holding-company formation, the 2023-04 establishment of Digital Value, and the 2023 Tonari launch.
+
 ---
 
-> [!info] 讀懆ｨｼ迥ｶ豕・> confidence: **likely**・・笶ｰhg笶ｱ蜈ｬ髢区ュ蝣ｱ繝吶・繧ｹ 笶ｰcf笶ｱ・峨・icrosoft Azure 謗｡逕ｨ蟷ｴ・遺擴hh笶ｱ・峨∝鋸螳夂ｳｻ繧ｪ繝ｼ繝励Φ蛹門ｹｴ・遺擴hi笶ｱ・峨ヾurface 蟆主・蟷ｴ・遺擴hj笶ｱ・峨√ョ繧ｸ繧ｿ繝ｫ繝舌Μ繝･繝ｼ險ｭ遶・/ Tonari 謠蝉ｾ幃幕蟋句ｹｴ・遺擴ia笶ｱ-笶ｰib笶ｱ・峨・ Wikipedia / 蜈ｬ髢・IR 繝吶・繧ｹ縲り・逋ｻ蜊雁ｳｶ蝨ｰ髴・｢ｫ轣ｽ蠖ｱ髻ｿ縺ｮ蜈ｷ菴楢ｲ｡蜍吶う繝ｳ繝代け繝医・ 笶ｰic笶ｱ-笶ｰid笶ｱ譛滉ｻ･髯阪・譛我ｾ｡險ｼ蛻ｸ蝣ｱ蜻頑嶌縺ｧ隕∫｢ｺ隱阪・
+> [!info] Validation status
+> confidence: **likely** (v1.0 public-information base, 2026-05-19). The Azure adoption year (2008), open core-banking migration year (2010), Surface deployment year (2017), and Digital Value / Tonari launch timing (2023-04) are based on Wikipedia and public IR materials. The precise financial impact of the Noto Peninsula earthquake should be checked against securities reports from the fiscal year ended 2025-03 onward.

@@ -3,119 +3,112 @@ source: japanfg/au-jibun-bank
 source_hash: 103789f826a93c41
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: "au Jibun Bank"
 translated_at: 2026-05-31T11:13:44.868Z
 ---
-
 # au Jibun Bank
-
 
 ## Wiki route
 
-This entry sits under [[JapanFG/sony-bank|ソニー銀行]]. Read it against [[JapanFG/orix-bank|オリックス銀行]] / [[JapanFG/rakuten-bank|楽天銀行]] / [[JapanFG/mufg-bank|三菱UFJ銀行]] for peer internet bank context, [[banking/INDEX|banking index]] as parent group co-investor, and QZX006QZX for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sony-bank|Sony Bank]], [[JapanFG/orix-bank|ORIX Bank]], and [[JapanFG/rakuten-bank|Rakuten Bank]] for internet-bank peer context, against [[JapanFG/mufg-bank|MUFG Bank]] as the co-investor parent-bank route, and against [[banking/INDEX|banking index]] for the broader banking and regulatory perimeter.
 
 ## TL;DR
 
-au Jibun Bank Co., Ltd. is an internet bank jointly invested by KDDI (au) and 2008. 06 -[[JapanFG/mufg-bank|三菱UFJ銀行]] Formerly known as Jibun Bank, KDDI and 50 were established as 50 :2020 and began operations. 02 -[[JapanFG/rakuten-bank|楽天銀行]]KDDI became a consolidated subsidiary due to an increase in the investment ratio, and the current trade name was "au". Renamed to Jibun Bank. **Ordinary bank license** (Kanto Local Finance Bureau license), Internet-only bank model without branches. **The unique position is that it links KDDI's telecommunications customer base (au subscribers/Ponta points/au PAY) with MUFG's banking infrastructure**. We develop housing loans, card loans, foreign currency deposits, FX, and investment trusts, leveraging our strengths in smartphone-centered and au economic zone collaboration. The competition is online banks and communication banks such as [[JapanFG/sony-bank|ソニー銀行]], [[JapanFG/sbi-sumishin-net-bank|住信SBIネット銀行]], [[JapanFG/paypay-bank|PayPay銀行]], and QZX012QZX.
+au Jibun Bank Corporation is an internet bank jointly originated by **KDDI (au)** and [[JapanFG/mufg|Mitsubishi UFJ Financial Group]]. It was established in 2008-06 as Jibun Bank by KDDI and [[JapanFG/mufg-bank|MUFG Bank]] on a 50:50 basis, began operations in 2008-07, became a KDDI consolidated subsidiary after KDDI raised its stake in 2020-02, and changed its trade name to au Jibun Bank. The bank holds an ordinary-bank license from the Kanto Local Finance Bureau and operates as a branchless internet-only bank. Its distinctive position is the linkage of KDDI's telecom customer base, au subscribers, Ponta points, and au PAY with MUFG banking infrastructure. Core products include housing loans, card loans, foreign-currency deposits, FX, and investment trusts. Principal peers include [[JapanFG/rakuten-bank|Rakuten Bank]], [[JapanFG/sony-bank|Sony Bank]], [[JapanFG/sbi-sumishin-net-bank|SBI Sumishin Net Bank]], and [[JapanFG/paypay-bank|PayPay Bank]].
 
-## QZX001QZX. Corporation/Shareholder
+## 1. Corporation and shareholders
 
-- **Company name**: au Jibun Bank Corporation (English: au Jibun Bank Corporation)
-- **Established**: QZX001QZX (formerly "Jibun Bank")
-- **Start of business**: QZX001QZX
-- **Corporate name change**: QZX001QZX Renamed to “au Jibun Bank” (due to KDDI becoming a consolidated subsidiary)
-- **Main store location**: 1043 -3  Nishi-Shinjuku, Shinjuku-ku, Tokyo 7 -chome 1 号 QZX005QZX Shinjuku Park Tower
-- **Capital**: More than QZX001QZX (publication basis)
-- **Major shareholders**:
-  - **KDDI Corporation** (consolidated subsidiary, majority stake)
-  - **QZX001QZX** (residual investment)
-- **代表者**：代表取締役社長
-- **Number of employees**: Approx. QZX001QZX
+- **Company name**: au Jibun Bank Corporation.
+- **Established**: 2008-06-17, formerly Jibun Bank.
+- **Start of business**: 2008-07-17.
+- **Corporate name change**: renamed au Jibun Bank in 2020-02 after KDDI consolidation.
+- **Head office**: Shinjuku Park Tower, 3-7-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-1043.
+- **Capital**: more than JPY 50 billion on public-company-profile basis.
+- **Major shareholders**: KDDI Corporation as majority / consolidated parent; [[JapanFG/mufg-bank|MUFG Bank]] as residual co-investor.
+- **Representative**: president and representative director.
+- **Employees**: approximately 400 in the source article's public-profile snapshot.
 
-## QZX001QZX. License/Regulatory Boundary
+## 2. License and regulatory boundary
 
-- **Ordinary bank**: Ordinary bank license based on the Banking Act (Kanto Local Finance Bureau Director's license)
-- **Industry association membership**:
-  - National Bankers Association
-  - Non-member of the National Local Banks Association (Internet banking type)
-  - Participation in Deposit Insurance Corporation (deposit insurance coverage QZX001QZX + interest)
-- **Registered financial institution**: Financial institution registered with the Kanto Local Finance Bureau based on investment trust sales and FX handling
-- **Funds transfer business/electronic money**: au PAY cooperation part is a separate corporation such as KDDI subsidiary KDDI Financial Services etc.
+- **Ordinary bank**: ordinary-bank license under the Banking Act, licensed by the Director-General of the Kanto Local Finance Bureau.
+- **Industry associations**: member of the Japanese Bankers Association; not a member of the Regional Banks Association because it is an internet-bank model; deposits are covered by the Deposit Insurance Corporation within the statutory limit.
+- **Registered financial institution**: registered financial institution for investment-trust sales and FX-related handling.
+- **Funds transfer / electronic money**: au PAY-related activity is operated through separate KDDI financial-service entities rather than collapsed into the bank license.
 
-## QZX001QZX. Business segment
+## 3. Business segments
 
-|segment|Main products|顧客層|
+| Segment | Main products | Customer base |
 |---|---|---|
-|deposit|Ordinary deposits / Term / Foreign currency deposits (USD, EUR, GBP, etc.)|retail|
-|lending|Card loan/mortgage loan|個人|
-|Exchange/remittance|Yen remittance / Foreign currency remittance / Salary receipt|個人|
-|投資|Investment trust (sales) / Official au Kabucom Securities (formerly Kabu.com) collaboration|retail|
-|FX|Foreign exchange margin trading (in-house FX)|retail|
-|settlement|Debit card (Visa debit)|retail|
+| Deposits | Ordinary deposits, time deposits, foreign-currency deposits such as USD, EUR, and GBP | Retail |
+| Lending | Card loans and housing loans | Individuals |
+| Exchange / remittance | Yen transfers, foreign-currency remittance, salary receipt | Individuals |
+| Investment | Investment-trust sales and au Kabucom Securities collaboration | Retail |
+| FX | Foreign-exchange margin trading | Retail |
+| Payments | Visa debit card | Retail |
 
-## QZX001QZX. Parent company/group relationship
+## 4. Parent-company and group relationship
 
-- **KDDI consolidated subsidiary**: 02 -51%KDDI acquired a super-investment in QZX003QZX and became a consolidated subsidiary of KDDI. Leading the au economic zone (au communication contracts, au PAY, Ponta points)
-- **MUFG (QZX001QZX) investment**: Residual investment. Utilizing MUFG know-how in banking operations, accounting systems, and compliance
-- **Background of the name change from Jibun Bank to "au Jibun Bank"**: The renaming of QZX001QZX was intended to unify the KDDI brand and integrate au economic zone marketing.
-- **Collaboration with au Kabucom Securities**: Provides bank/securities account integration experience within the KDDI economic zone through financial product intermediation and account linkage
+- **KDDI consolidated subsidiary**: KDDI acquired a stake above 51% in 2020-02 and consolidated the bank, positioning it inside the au economic zone of telecom contracts, au PAY, and Ponta points.
+- **MUFG investment**: MUFG Bank remains the co-investor and supplies banking-operation, core-system, settlement, and compliance expertise.
+- **Reason for the au Jibun Bank name**: the 2020 rebranding aligned the bank with the KDDI / au brand and consolidated au economic-zone marketing.
+- **au Kabucom Securities link**: the bank supports an integrated bank / securities experience through account linkage and financial-product intermediation inside the KDDI financial ecosystem.
 
-## QZX001QZX. Competitive/industry position
+## 5. Competitive position
 
-|online banking|parent group|Strengths|
+| Internet bank | Parent group | Strength |
 |---|---|---|
-|au Jibun Bank|**KDDI + MUFG**|au economic zone / Ponta points / au PAY|
-|QZX001QZX|SBI + Sumitomo Mitsui Trust|Mortgage loan/Corporate/Securities collaboration|
-|QZX001QZX|rakuten group|Rakuten Economic Zone/Rakuten Market Collaboration|
-|QZX001QZX|sony group|Foreign currency/mortgage|
-|QZX001QZX|Z Holdings + Sumitomo Mitsui|PayPay Economic Zone|
-|QZX001QZX|Oryx|real estate investment loan|
+| au Jibun Bank | **KDDI + MUFG** | au economic zone, Ponta points, au PAY |
+| [[JapanFG/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] | SBI + Sumitomo Mitsui Trust | Housing loans, corporate business, securities linkage |
+| [[JapanFG/rakuten-bank|Rakuten Bank]] | Rakuten Group | Rakuten economic zone and marketplace linkage |
+| [[JapanFG/sony-bank|Sony Bank]] | Sony Group | Foreign currency and housing loans |
+| [[JapanFG/paypay-bank|PayPay Bank]] | Z Holdings + Sumitomo Mitsui | PayPay economic zone |
+| [[JapanFG/orix-bank|ORIX Bank]] | ORIX | Real-estate investment loans |
 
-## QZX001QZX. Strategy/Recent trends
+## 6. Strategy and recent themes
 
-- **Core of au economic zone strategy**: KDDI's "au PAY x Ponta x au Jibun Bank x au Kabucom" economic zone cross-sell model
-- **Strengthening housing loans**: Armed with low interest rates, enters housing loan competition among online banks, major player in variable rate housing loans
-- **APIs/Open API support**: Open API connection based on the revised Banking Act (cooperation with fintech such as household account book applications)
-- **Deepening cooperation with MUFG**: Continue to use MUFG infrastructure for accounting systems and fund clearing. Mortgage loan screening know-how also utilizes MUFG knowledge
-- **Compatible with new NISA**: 01 -QZX002QZX Expansion of investment trust lineup with the launch of new NISA
+- **Core of the au economic zone**: cross-sell model across au PAY, Ponta, au Jibun Bank, and au Kabucom Securities.
+- **Housing-loan expansion**: participation in online-bank mortgage competition, especially variable-rate housing loans.
+- **Open API support**: API connectivity under the revised Banking Act, including household-accounting and other fintech connections.
+- **MUFG infrastructure**: continued use of MUFG know-how in core banking, settlement, and mortgage screening.
+- **New NISA support**: investment-trust lineup expansion around the 2024-01 New NISA launch.
 
-## QZX001QZX. Main KPIs (overview)
+## 7. Main KPIs
 
-|項目|規模感|
+| Item | Scale |
 |---|---|
-|Deposit balance|Trillion yen range (top group of online banks)|
-|Number of accounts|millions of accounts|
-|Home loan balance|trillion yen scale|
-|Number of employees|約 QZX001QZX|
-|bank code|QZX001QZX|
+| Deposit balance | Trillion-yen range, upper tier among Japanese online banks |
+| Accounts | Millions of accounts |
+| Housing-loan balance | Trillion-yen scale |
+| Employees | Approximately 400 in the source snapshot |
+| Bank code | 0039 |
 
-For details, please refer to the KDDI/MUFG IR/Securities Report and Bank Disclosure Magazine.
+For exact current figures, use KDDI / MUFG IR materials, securities reports, and au Jibun Bank disclosure materials.
 
-## QZX001QZX. Risk/regulatory issues
+## 8. Risk and regulatory issues
 
-- **Bank governance of consolidated subsidiaries of telecommunications companies**: Ongoing issues regarding banking law, antitrust law, and industrial and financial separation (FSA opinion) in a model where telecommunications carriers control banks
-- **Resistance to interest rate rise**: ALM/interest margin management in a scenario of interest rate rise after the mortgage balance expansion phase
-- **Cyber/System Resistance**: Risk of system failure directly spreading to customer contact points due to internet-only business
-- **Money laundering / FATF compatible**: Continuous suspicious transaction notification/KYC enhancement request
-- **Internal use of personal information and communication data**: Issues under the Personal Information Protection Act regarding the scope of internal use of KDDI communication contract data
+- **Bank governance under a telecom consolidated parent**: continued Banking Act, competition-law, and industrial / financial separation questions when a telecommunications group controls a bank.
+- **Interest-rate sensitivity**: ALM and net-interest-margin management after housing-loan balance expansion.
+- **Cyber and system resilience**: system failures affect a branchless digital customer interface directly.
+- **AML / FATF compliance**: ongoing suspicious-transaction monitoring and KYC enhancement.
+- **Use of personal and telecom data**: internal use of KDDI telecom-contract data raises Personal Information Protection Act perimeter questions.
 
 ## Related
 
-- QZX001QZX — Joint investor parent group
-- QZX001QZX — 共同出資銀行
-- QZX001QZX — Economic zone type online banking peer
-- QZX001QZX — Net banking peer
-- QZX001QZX — Net banking peer
-- QZX001QZX — Telecommunications online banking peer
-- QZX001QZX — Independent online banking peer
-- QZX001QZX
-- QZX001QZX
+- [[JapanFG/mufg|Mitsubishi UFJ Financial Group]] - co-investor parent group
+- [[JapanFG/mufg-bank|MUFG Bank]] - co-investor bank
+- [[JapanFG/rakuten-bank|Rakuten Bank]] - economic-zone online-bank peer
+- [[JapanFG/sony-bank|Sony Bank]] - online-bank peer
+- [[JapanFG/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] - online-bank peer
+- [[JapanFG/paypay-bank|PayPay Bank]] - telecom / payment-zone online-bank peer
+- [[JapanFG/orix-bank|ORIX Bank]] - independent online-bank peer
+- [[JapanFG/INDEX|JapanFG index]]
+- [[banking/INDEX|Banking domain index]]
 
 ## Sources
 
-- au Jibun Bank Official Company Profile: QZX001QZX
-- au Jibun Bank Official History: QZX001QZX
-- Financial Services Agency Licensed/Registered Bank: QZX001QZX
-- MUFG official group company list: QZX001QZX
-- KDDI Securities Report (consolidated subsidiary disclosure section)
+- au Jibun Bank official company profile: https://www.jibunbank.co.jp/company/profile/
+- au Jibun Bank official history: https://www.jibunbank.co.jp/company/history/
+- FSA licensed / registered banks: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
+- MUFG official group-company list: https://www.mufg.jp/profile/group/index.html
+- KDDI securities report, consolidated-subsidiary disclosure section.

@@ -11,30 +11,30 @@ translated_at: 2026-05-30T18:10:53.986Z
 # 外资银行日本撤退模式
 
 
-## Wiki route
+## Wiki 路线
 
-This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/post-megabank-positioning|Post-megabank positioning]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+本条目位于 [[banking/INDEX|banking index]] 下。用于理解外资银行在日本撤退、收缩或重新聚焦的结构原因。
 
-## Overview
+## 概览
 
 有价值的模式并不是「外资银行撤离了日本」。金融厅当前的外国银行分行名单仍显示大量持牌外国银行分行。真正的模式是,许多外资银行已把日本从广泛的零售 / 大众市场抱负收窄到批发、机构、托管、市场、企业银行业务,或代表处 / 分行职能 —— 即日本特有的规模经济能够成立之处。
 
 使用本页面来阅读 [[JapanFG/foreign-bank-branches-japan-index]]、[[JapanFG/hsbc-japan]]、[[JapanFG/bank-of-america-japan]]、[[JapanFG/socgen-japan]]、[[JapanFG/wells-fargo-japan]]、[[JapanFG/bny-mellon-japan]]、[[JapanFG/state-street-japan]]、[[JapanFG/rbc-japan]]、[[JapanFG/dbs-bank-japan]]、[[JapanFG/euroclear-bank-japan]]、[[JapanFG/clearstream-banking-japan]] 及 Batch G 的 P0 / P1 / P2 分行页面,而不把它们压平为单一类别。
 
-## Pattern Map
+## 模式地图
 
-| Model | Japan position | Examples / route |
+| 模式 | 日本定位 | 示例 / 路线 |
 |---|---|---|
-| Global wholesale branch | Corporate banking, markets, treasury, trade, lending, derivatives. | [[JapanFG/bank-of-america-japan]], [[JapanFG/socgen-japan]], [[JapanFG/credit-agricole-bank-japan]], [[JapanFG/natixis-japan]], [[JapanFG/rbc-japan]], [[JapanFG/commerzbank-japan]], [[JapanFG/ing-bank-japan]], [[JapanFG/bbva-bank-japan]], [[JapanFG/intesa-sanpaolo-japan]] |
-| Custody / asset-servicing bank | Institutional custody, fund administration, securities services. | [[JapanFG/bny-mellon-japan]], [[JapanFG/state-street-japan]], [[JapanFG/euroclear-bank-japan]], [[JapanFG/clearstream-banking-japan]] |
-| ASEAN / Asia corridor branch | Corporate banking, trade finance, remittance, FDI, and Asia network bridge. | [[JapanFG/dbs-bank-japan]], [[JapanFG/ocbc-bank-japan]], [[JapanFG/uob-bank-japan]], [[JapanFG/bangkok-bank-japan]], [[JapanFG/bank-of-taiwan-japan]], [[JapanFG/mega-icbc-japan]], [[JapanFG/ctbc-bank-japan]], [[JapanFG/esun-bank-japan]] |
-| Korea corridor branch | Korean commercial / policy-bank branches for deposits, remittance, trade, project finance, and corporate banking. | [[JapanFG/woori-bank-japan]], [[JapanFG/hana-bank-japan]], [[JapanFG/korea-development-bank-japan]], [[JapanFG/industrial-bank-of-korea-japan]], [[JapanFG/kb-kookmin-bank-japan]] |
-| Mainland China branch | China-Japan deposits, lending, trade settlement, RMB / FX, and cross-border corporate services. | [[JapanFG/bank-of-china-japan]], [[JapanFG/icbc-japan]], [[JapanFG/china-construction-bank-japan]], [[JapanFG/agricultural-bank-of-china-japan]], [[JapanFG/bank-of-communications-japan]] |
-| India / Australia-New Zealand corridor branch | Corporate banking, trade finance, project / acquisition finance adjacency, markets, and financial-instruments stack. | [[JapanFG/state-bank-of-india-japan]], [[JapanFG/bank-of-india-japan]], [[JapanFG/anz-bank-japan]] |
-| Niche wholesale / securities service | Japan legal entity or branch built around institutional infrastructure. | [[JapanFG/wells-fargo-japan]], [[JapanFG/bank-of-america-japan]], [[JapanFG/anz-bank-japan]] |
-| Retail retreat / shrinkage | Retail banking is difficult without distribution scale, deposit franchise, and local brand. | [[JapanFG/hsbc-japan]] as a comparison anchor |
+| 全球批发银行分行 | 企业银行、市场业务、资金业务、贸易金融、贷款和衍生品。 | [[JapanFG/bank-of-america-japan]], [[JapanFG/socgen-japan]], [[JapanFG/credit-agricole-bank-japan]], [[JapanFG/natixis-japan]], [[JapanFG/rbc-japan]], [[JapanFG/commerzbank-japan]], [[JapanFG/ing-bank-japan]], [[JapanFG/bbva-bank-japan]], [[JapanFG/intesa-sanpaolo-japan]] |
+| 托管 / 资产服务银行 | 机构托管、基金行政管理和证券服务。 | [[JapanFG/bny-mellon-japan]], [[JapanFG/state-street-japan]], [[JapanFG/euroclear-bank-japan]], [[JapanFG/clearstream-banking-japan]] |
+| 东盟 / 亚洲走廊分行 | 企业银行、贸易融资、汇款、FDI 和亚洲网络桥接。 | [[JapanFG/dbs-bank-japan]], [[JapanFG/ocbc-bank-japan]], [[JapanFG/uob-bank-japan]], [[JapanFG/bangkok-bank-japan]], [[JapanFG/bank-of-taiwan-japan]], [[JapanFG/mega-icbc-japan]], [[JapanFG/ctbc-bank-japan]], [[JapanFG/esun-bank-japan]] |
+| 韩国走廊分行 | 韩国商业银行 / 政策银行在日本提供存款、汇款、贸易、项目融资和企业银行服务。 | [[JapanFG/woori-bank-japan]], [[JapanFG/hana-bank-japan]], [[JapanFG/korea-development-bank-japan]], [[JapanFG/industrial-bank-of-korea-japan]], [[JapanFG/kb-kookmin-bank-japan]] |
+| 中国大陆分行 | 中日存款、贷款、贸易结算、人民币 / 外汇和跨境企业服务。 | [[JapanFG/bank-of-china-japan]], [[JapanFG/icbc-japan]], [[JapanFG/china-construction-bank-japan]], [[JapanFG/agricultural-bank-of-china-japan]], [[JapanFG/bank-of-communications-japan]] |
+| 印度 / 澳新走廊分行 | 企业银行、贸易融资、项目 / 收购融资邻接、市场业务和金融工具栈。 | [[JapanFG/state-bank-of-india-japan]], [[JapanFG/bank-of-india-japan]], [[JapanFG/anz-bank-japan]] |
+| 小众批发 / 证券服务 | 围绕机构基础设施设立的日本法人或分行。 | [[JapanFG/wells-fargo-japan]], [[JapanFG/bank-of-america-japan]], [[JapanFG/anz-bank-japan]] |
+| 零售撤退 / 收缩 | 没有分销规模、存款特许经营和本地品牌时，零售银行很难成立。 | [[JapanFG/hsbc-japan]] 作为对照锚点 |
 
-## Why Retail Is Hard
+## 为什么零售银行困难
 
 外资银行在日本零售银行业务中面临若干结构性劣势:
 
@@ -46,7 +46,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 批发与机构银行业务仍然行得通,因为客户基础更窄、跨境能力重要,而且全球资产负债表 / 产品专长具有价值。
 
-## Regulatory Reading
+## 监管阅读
 
 外国银行分行受《银行法》及金融厅的大型银行监督指针监管。外国分行章节强调分行治理、总行控制、境内资产 / 融资行为、内部控制,以及对日本法律法规的遵守。
 

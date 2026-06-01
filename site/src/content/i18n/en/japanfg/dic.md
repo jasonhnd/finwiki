@@ -11,17 +11,17 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sonpo-hosho-kiko|損害保険契約者保護機構]] and [[JapanFG/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] for parallel safety-net peers, and against [[JapanFG/fsa|金融庁]] / [[JapanFG/boj|日本銀行]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] and [[JapanFG/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for parallel safety-net peers, and against [[JapanFG/fsa|Financial Services Agency]] / [[JapanFG/boj|Bank of Japan]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Japan's **only special corporation responsible for deposit insurance and bankruptcy resolution**. 1971-07 Established under the Deposit Insurance Act. Responsible for everything from **insurance pay-off** + **financial assistance** + **bridge bank** + **purchase of specified difficult-to-recovery receivables** + **business management and asset purchase of failed financial institutions**. The investors are **tripartite investment from the government, the Bank of Japan, and private financial institutions** (equivalent to 1/3  each). The chairman is appointed through consultation with the Minister of Finance, Commissioner of the Financial Services Agency, and Governor of the Bank of Japan. It essentially functioned as the last line of defense of the financial safety net during the banking crisis of the Heisei period, including the injection of public funds and temporary nationalization of 2003 [[JapanFG/resona-hd|りそな]] and 2003 [[JapanFG/ashikaga-hd|足利銀行]].
+Japan's **only special corporation responsible for deposit insurance and bankruptcy resolution**. Established in 1971-07 under the Deposit Insurance Act, it is responsible for **insurance pay-off**, **financial assistance**, **bridge-bank operations**, **purchase of specified difficult-to-recover receivables**, and **business management / asset purchase for failed financial institutions**. Its capital is provided through **tripartite investment by the government, the Bank of Japan, and private financial institutions** (roughly one-third each). The chairman is appointed through consultation among the Minister of Finance, the Commissioner of the Financial Services Agency, and the Governor of the Bank of Japan. During the Heisei banking crisis, it effectively served as the last line of defense for the financial safety net, including public-fund injections and the 2003 temporary nationalizations of [[JapanFG/resona-hd|Resona]] and [[JapanFG/ashikaga-hd|Ashikaga Bank]].
 
 ## 1. Legal basis/establishment
 
 **Official name**: Deposit Insurance Corporation
 **English name**: Deposit Insurance Corporation of Japan (DIC)
-**Legal Basis**: **Deposit Insurance Law** (昭和 46 年 Law 第 34 号)
+**Legal Basis**: **Deposit Insurance Act** (Act No. 34 of 1971)
 **Established**: **1971-07-01**
 **Headquarters**: Yurakucho, Chiyoda-ku, Tokyo 1-12-1
 **Business type**: Licensed corporation (similar to special corporation)
@@ -30,9 +30,9 @@ Japan's **only special corporation responsible for deposit insurance and bankrup
 ### Investment structure
 
 ```
-政府        ── 1/3 相当 ── 預金保険機構
-日本銀行    ── 1/3 相当 ──
-民間金融機関 ── 1/3 相当 ── （メガバンク・地銀・信金・信組等）
+Government                         ── roughly 1/3 ── Deposit Insurance Corporation
+Bank of Japan                      ── roughly 1/3 ──
+Private financial institutions     ── roughly 1/3 ── (megabanks, regional banks, shinkin banks, credit cooperatives, etc.)
 ```
 
 ### Important chronology
@@ -46,10 +46,10 @@ Japan's **only special corporation responsible for deposit insurance and bankrup
 |**2000-04**|Collection and Collection Corporation ([[JapanFG/rcc|RCC]]) launched (integration of Housing Corporation + Collection and Collection Bank, becoming a subsidiary of DIC)|
 |2001-04 |**Unfreeze payoff** Phase 1  (time deposits)|
 |**2002-04**|Payoff completely lifted → Postponed next year|
-|**2003-05**|**[[JapanFG/resona-hd|りそな]] Public funding injection** Approximately 2 兆円 (de facto temporary nationalization)|
-|**2003-11**|**[[JapanFG/ashikaga-hd|足利銀行]] Temporary nationalization** (Special Crisis Management Bank第 1 号)|
+|**2003-05**|**[[JapanFG/resona-hd|Resona]] public-fund injection** Approximately 2 兆円 (de facto temporary nationalization)|
+|**2003-11**|**[[JapanFG/ashikaga-hd|Ashikaga Bank]] temporary nationalization** (Special Crisis Management Bank No. 1)|
 |2005-04 |**Complete payoff implementation** (Principal 1,000 万円 + interest is protected except for payment deposits)|
-|2010-09 |[[JapanFG/japan-shinko-bank|日本振興銀行]] Bankruptcy → **Japan's first payoff exercise**|
+|2010-09 |[[JapanFG/japan-shinko-bank|Incubator Bank of Japan]] bankruptcy → **Japan's first payoff exercise**|
 |2014 |Amendment to the Deposit Insurance Act → Orderly processing (processing of financial institutions important to the financial system)|
 |2020～|Continued operation of the Corona Crisis Response and Financial Functions Strengthening Act|
 
@@ -73,23 +73,23 @@ Japan's **only special corporation responsible for deposit insurance and bankrup
                        │
             ┌──────────┼──────────┐
             │          │          │
-        [[JapanFG/rcc|RCC]]   特別危機管理銀行  ブリッジバンク
-   （整理回収機構）   （一時国有化受皿）  （暫定承継銀行）
+        [[JapanFG/rcc|RCC]]   Special crisis-management bank   Bridge bank
+   (Resolution and Collection Corporation)   (temporary nationalization vehicle)   (provisional successor bank)
             │
-    不良債権買取・回収
+    Purchase and collection of non-performing claims
 ```
 
 ### 2003  Resona relief (largest public funding injection)
 
-- [[JapanFG/resona-hd|りそなホールディングス]]'s capital adequacy ratio is on the verge of falling below the 4% domestic standard
-- Deposit Insurance Act Article 102  Section 1  第 1 号 measures (capital injection) triggered
+- [[JapanFG/resona-hd|Resona Holdings]]'s capital adequacy ratio is on the verge of falling below the 4% domestic standard
+- Deposit Insurance Act Article 102, Section 1, Item 1 measures (capital injection) triggered
 - Injection of public funds of approximately **1.96 兆円** → Effective nationalization
 - Public funds will be fully paid off by 2015  (net profit will be determined to taxpayers if profits are included)
 
 ### 2003  Ashikaga Bank temporarily nationalized
 
 - A local bank based in Tochigi Prefecture has been certified as insolvent.
-- Deposit Insurance Act Article 102  Section 1  第 3 号 measures (**Special Crisis Management**) activated
+- Deposit Insurance Act Article 102, Section 1, Item 3 measures (**Special Crisis Management**) activated
 - **Depository and insurance company acquired all shares → Business management → Sold to 2008  Nomura-affiliated receiver**
 - Japan's only successful case of "bank nationalization → complete privatization"
 
@@ -103,21 +103,21 @@ Japan's **only special corporation responsible for deposit insurance and bankrup
 
 - **U.S. FDIC (Federal Deposit Insurance Corporation)** was introduced as a reference in the 1970 年 generation, but unlike the U.S., it is characterized by the centralization of insurance functions, bankruptcy resolution functions, and non-performing loan disposal functions.
 - **IADI (International Deposit Insurance Association)** Member
-- Functions complementarily with [[JapanFG/boj|日本銀行]] special financing (lender of last resort function) in times of crisis
+- Functions complementarily with [[JapanFG/boj|Bank of Japan]] special financing (lender of last resort function) in times of crisis
 
 ## Related
 
-- [[JapanFG/rcc|整理回収機構 (RCC)]] · [[JapanFG/sonpo-hosho-kiko|損害保険契約者保護機構]] · [[JapanFG/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]]
-- [[JapanFG/fsa|金融庁]] · [[JapanFG/boj|日本銀行]]
-- [[JapanFG/resona-hd|りそなホールディングス]] · [[JapanFG/ashikaga-hd|足利ホールディングス]]
-- [[JapanFG/japan-post-bank|ゆうちょ銀行]] · [[JapanFG/mufg-bank|三菱UFJ銀行]] · [[JapanFG/smbc|三井住友銀行]] · [[JapanFG/mizuho-bank|みずほ銀行]]
+- [[JapanFG/rcc|Resolution and Collection Corporation (RCC)]] · [[JapanFG/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] · [[JapanFG/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]
+- [[JapanFG/fsa|Financial Services Agency]] · [[JapanFG/boj|Bank of Japan]]
+- [[JapanFG/resona-hd|Resona Holdings]] · [[JapanFG/ashikaga-hd|Ashikaga Holdings]]
+- [[JapanFG/japan-post-bank|Japan Post Bank]] · [[JapanFG/mufg-bank|MUFG Bank]] · [[JapanFG/smbc|Sumitomo Mitsui Banking Corporation]] · [[JapanFG/mizuho-bank|Mizuho Bank]]
 - [[banking/INDEX|banking index]]
 
 ## Sources
 
 - **Wikipedia: Deposit Insurance Corporation** (extracted from https://ja.wikipedia.org/wiki/預金保険機構, 2026-05-25)
 - **Deposit Insurance Corporation Official Website** (see https://www.dic.go.jp/, 2026-05-25)
-- **Deposit Insurance Law** (昭和 46 年 Law 第 34 号)
+- **Deposit Insurance Act** (Act No. 34 of 1971)
 - **Financial Services Agency deposit insurance system related page** (see https://www.fsa.go.jp/policy/yokin_hoken/, 2026-05-25)
 - Bank of Japan Financial System Report Issues (publicly available)
 

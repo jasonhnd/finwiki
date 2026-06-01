@@ -137,7 +137,7 @@ Note: this matrix is not [[systems/cross-chain-bridge-security-insurance-matrix-
 
 
 
-**Trust model**: **DVN (Decentralized Verifier Network) M-of-N, with apps defining custom sets**. Default = 3 社 DVNs: LayerZero Labs + Google Cloud + Polyhedra ZK. Lightweight ULN (Ultra Light Node) verifies on the destination chain (see [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 omnichain messaging]]).
+**Trust model**: **DVN (Decentralized Verifier Network) M-of-N, with apps defining custom sets**. Default = three DVNs: LayerZero Labs + Google Cloud + Polyhedra ZK. Lightweight ULN (Ultra Light Node) verifies on the destination chain (see [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 omnichain messaging]]).
 
 **TVL**: ~$8B (defillama 2026-Q2) — LayerZero application layer includes Stargate, TapiocaDAO, Radiant, etc.; it has the highest TVL among general messaging protocols.
 
@@ -204,7 +204,7 @@ Note: this matrix is not [[systems/cross-chain-bridge-security-insurance-matrix-
 | **IBC (Cosmos)** | Light-client (chain ↔ chain mutual verification) | ~$2-3B | ~100  Cosmos appchains + cross-ecosystem v2 | Channel + Connection + relayer transport | 6-30s | Free at protocol layer; fee middleware optional | n/a (borrows hub / appchain tokens) | None (2021+) | Few direct; internal dYdX v4  / INJ / Noble |
 | **CCTP V2  (Circle)** | Native burn-mint · Circle attester | n/a (no locking) · ~$50B/mo throughput | 18+ chains | Burn → attest → mint + Hooks callback | Fast Transfer 8-20s · V1  was 10-20min | V2  small fast-transfer fee + Hooks gas | n/a (USDC only) | None (2023+) · 2024  6h outage 0  loss | Mastercard · Visa · Stripe · Coinbase Inst. |
 | **Chainlink CCIP** | Oracle DON (16-of-31) + RMN independent veto | ~$1B + msg-only volume | 30+ chains (quality > quantity) | Lane-based · GMP + Programmable Token Transfer | 10-30min | LINK or native · DON + RMN + dest gas | LINK (~$2B staked) | None (2023+) · v1.5  false positive no loss | SWIFT · DTCC · J.P. Morgan Kinexys · Mastercard CBDC |
-| **Wormhole** | 19-of-19  Guardian + 2024  ZK Verifier · NTT/CCTP integ | ~$1.5B | 35+ chains | GMP (VAA Verifiable Action Approval) | 5-15min (Solana ↔ ETH slower) | Destination gas relay · Guardian free at msg | W token (2024) · slashing TBD | **2022  $325M Solana (Jump backstop)** · 2024  ZK fix | Medium — Securitize · Backed Finance RWA |
+| **Wormhole** | 19-of-19  Guardian + 2024  ZK Verifier · NTT/CCTP integ | ~$1.5B | 35+ chains | GMP (VAA Verifiable Action Approval) | 5-15min (Solana ↔ ETH slower) | Destination gas relay · Guardian free at msg | W token (2024); slashing not yet publicly specified | **2022  $325M Solana (Jump backstop)** · 2024  ZK fix | Medium — Securitize · Backed Finance RWA |
 | **Hyperlane** | Permissionless ISM (multisig/EL/ZK/opt) | ~$2B | 70+ chains · permissionless deploy | Mailbox + ISM verify + Mailbox deliver | 30s-2min (multisig) · 5-10min (ZK) | Source gas + dest relay + ISM-specific | HYP (2024  · governance) | None protocol · 2024  long-tail misconf $1.2M | Few · mainly modular rollup eco |
 | **LayerZero v2** | DVN M-of-N (LZ Labs/Google/Polyhedra default) | ~$8B | 70+ chains | Endpoint + DVN + Executor · ULN dest verify | 2-5min default · 30s single DVN | Native fee · DVN + Executor independent | ZRO (2024  · governance) | None protocol (2022+) · 2024  DVN bug 0  loss | Medium · Google DVN is enterprise anchor |
 | **Axelar** | 75-validator PoS (Tendermint) · 2/3  quorum · GMP+ITS | ~$3.5B | 60+ chains | GMP via Axelar hub · ITS canonical token | 30s-2min | AXL or dest native · validator + dest gas | AXL (~$300M staked) | None (2022+) · 2024  ITS bug $200K bounty | Medium · Centrifuge · Azure · Cosmos institutional |
@@ -261,7 +261,7 @@ Note: this matrix is not [[systems/cross-chain-bridge-security-insurance-matrix-
 - Because Solana has high throughput + independent SVM, cross-chain bridge demand is very high (non-EVM ↔ EVM)
 - Wormhole has native Solana support; CCTP V2  / LayerZero / Hyperlane all support it as well
 - Solana DEXs such as Jupiter / Raydium (see [[exchanges/solana-ecosystem-dex-comparison|Solana DEX comparison]]) drive demand for cross-chain liquidity routing and promote Wormhole / CCTP V2  Solana volume
-- In 2026-2027 , Solana ecosystem bridge competition is Wormhole vs CCTP V2  vs LayerZero, a 3 社 (IBC / XCM do not natively cover Solana for now)
+- In 2026-2027 , Solana ecosystem bridge competition is Wormhole vs CCTP V2  vs LayerZero, a three-company field (IBC / XCM do not natively cover Solana for now)
 
 **Bridge demand from Bitcoin scaling**:
 - 2025-2026  Bitcoin scaling revival ([[systems/bitcoin-scaling-2026-stacks-lightning-bitvm|Bitcoin scaling 2026]]) will grow BTC cross-chain demand — Wormhole Solana ↔ BTC adapter, CCIP planned BTC L2  connections, Hyperlane early BTC L2  exploration

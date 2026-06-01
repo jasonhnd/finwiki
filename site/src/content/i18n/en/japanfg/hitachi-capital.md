@@ -11,41 +11,44 @@ translated_at: 2026-05-31T15:29:03.867Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main placeholder context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル (現行統合エンティティ)]] 2021  [[banking/INDEX|banking index]] [[JapanFG/mufg|MUFG]] 1957 年 2021-04-01 8593 [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] 1 8586 1957 04  [[JapanFG/mufg|MUFG]] [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル株式会社 (Mitsubishi HC Capital Inc.)]] 2021-04-01 2 2021 04  [[JapanFG/mufg|MUFG]]
+This entry sits in the JapanFG route as a historical leasing and finance-company anchor. The current successor reference is [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]], created through the 2021 integration. For surrounding finance and leasing context, read it with [[banking/INDEX|banking index]], [[JapanFG/mufg|MUFG]], [[JapanFG/orix-corp|ORIX]], [[JapanFG/tokyo-century|Tokyo Century]], [[JapanFG/fuyo-lease|Fuyo General Lease]], [[JapanFG/ricoh-leasing|Ricoh Leasing]], and [[JapanFG/nec-leasing|NEC Capital Solutions]].
 
 ## TL;DR
 
-This page records the public-information boundary for Hitachi Capital (historical) in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected placeholders are retained in source order.
+Hitachi Capital is a historical entity rather than a current standalone operating company. It traces to 1957 and became part of the integrated [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] structure on 2021-04-01. This page preserves the historical boundary so that older filings, market references, and leasing-industry comparisons are not misread as references to a present independent company.
 
 ## License / group boundary
 
 | Item | Notes |
 |---|---|
-| Entity | Hitachi Capital (historical) |
-| Page role | Separates the operating company, holding company, historical entity, subsidiary, or regulatory function. |
-| Reading boundary | License, group, succession, and business-scope details follow the public sources listed in the source file. |
+| Entity | Hitachi Capital, historical leasing and finance company |
+| Current successor reference | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] |
+| Integration date | 2021-04-01 |
+| Page role | Separates the historical name from the current integrated leasing platform |
+| Reading boundary | Use public sources for corporate history, integration terms, listing history, and successor-company disclosures |
 
 ## Business role
 
-- Explains the entity's main business, institutional position, or historical function in Japan's financial system.
-- Keeps banking, securities, insurance, asset management, payments, crypto-assets, leasing, research / consulting, and regulatory-supervision boundaries separate.
-- For mergers, renamings, integrations, transfers, or historical bodies, avoids treating an old name as a current standalone entity.
+Hitachi Capital historically sat in Japan's major non-bank leasing and finance-company universe, alongside ORIX, Tokyo Century, Fuyo General Lease, Ricoh Leasing, NEC Capital Solutions, and predecessor lines such as IBJ Leasing. For post-2021 analysis, the correct operating-company page is [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]].
 
 ## Peer / contrast
 
-- Read together with the related pages and peer clusters represented in the source file.
-- Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
-- For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
-
-## Placeholder continuation
-
-- 2020 09  2021-04-01 [[JapanFG/orix-corp|オリックス]] [[JapanFG/tokyo-century|東京センチュリー]] 3 [[JapanFG/fuyo-lease|芙蓉総合リース]] [[JapanFG/ricoh-leasing|リコーリース]] [[JapanFG/nec-leasing|NECキャピタルソリューション]] [[JapanFG/mufg|MUFG]] [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 4 [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] 2021 04 [[JapanFG/ricoh-leasing|リコーリース]] [[JapanFG/nec-leasing|NECキャピタルソリューション]] [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル (現行エンティティ)]] [[JapanFG/mufg|MUFG]] [[JapanFG/orix-corp|オリックス]]
-- [[JapanFG/tokyo-century|東京センチュリー]] [[JapanFG/fuyo-lease|芙蓉総合リース]] [[JapanFG/mizuho-lease|Mizuho Leasing]] [[JapanFG/ricoh-leasing|リコーリース]] [[JapanFG/nec-leasing|NECキャピタルソリューション]] [[JapanFG/ibj-leasing|興銀リース (旧称)]] [[banking/INDEX|banking index]] [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 2026-05-24 [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] 2021-04-01
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]: current integrated entity and primary successor reference.
+- [[JapanFG/orix-corp|ORIX]], [[JapanFG/tokyo-century|Tokyo Century]], [[JapanFG/fuyo-lease|Fuyo General Lease]], [[JapanFG/mizuho-lease|Mizuho Leasing]]: listed leasing-company comparators.
+- [[JapanFG/ricoh-leasing|Ricoh Leasing]] and [[JapanFG/nec-leasing|NEC Capital Solutions]]: specialist leasing comparators.
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]: financing-context route for transaction and leverage analysis.
 
 ## Related
 
-- Related entries are represented by the protected placeholders above.
+- [[JapanFG/mitsubishi-hc-capital]]
+- [[JapanFG/orix-corp]]
+- [[JapanFG/tokyo-century]]
+- [[JapanFG/fuyo-lease]]
+- [[JapanFG/mizuho-lease]]
+- [[JapanFG/ricoh-leasing]]
+- [[JapanFG/nec-leasing]]
+- [[finance/japan-acquisition-finance]]
 
 ## Sources
 
-- FSA, industry-association, company-site, IR, public-disclosure, Wikipedia, or other public sources listed in the source file.
+- Company-site, IR, public-disclosure, industry-association, FSA, and public historical sources referenced by the source file.

@@ -10,9 +10,9 @@ translated_at: 2026-05-31T03:19:56.396Z
 
 # 全球机构托管五强 — Coinbase Custody / Fidelity / Anchorage / BitGo / Komainu
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-cex-top10-comparison|グローバル CEX top 10 ランキング比較 (2025-2026)]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+本条目位于 [[exchanges/INDEX|exchanges index]]。可与 [[exchanges/global-cex-top10-comparison|全球 CEX top 10 排名比较（2025-2026）]] 对照，并结合 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业注册制度]] 阅读更大的系统与监管边界。
 
 ## 概要
 
@@ -49,4 +49,4 @@ Komainu 经由 Nomura HD 母公司深耕日本机构大手（寿险・地银・S
 - [[exchanges/global-cex-top10-comparison]] — Coinbase CEX 侧
 - [[exchanges/jp-exchange-laser-digital-japan]] — Nomura 系（Komainu Board 重叠）
 
-来源: 公開情報整理 (FSA 暗号資産交換業者公表・海外無登録警告書一覧、Nomura HD/SMFG/MUFG IR、Komainu/Fireblocks 公式、Chainalysis Crypto Crime Report 2024-2025)
+来源：公开信息整理，包括 FSA 加密资产交换业者公表、海外无注册警告书列表、Nomura HD / SMFG / MUFG IR、Komainu / Fireblocks 官方资料，以及 Chainalysis Crypto Crime Report 2024-2025。

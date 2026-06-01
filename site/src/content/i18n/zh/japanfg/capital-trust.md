@@ -12,34 +12,34 @@ translated_at: 2026-05-31T11:13:44.955Z
 
 Wiki route: [[JapanFG/INDEX]] -> [[JapanFG/trust-companies-japan-index]] -> [[JapanFG/capital-trust]]
 
-## Overview
+## 概览
 
-Capital Trust is an operating-type trust company whose public materials emphasize alternative-asset trust, repackaging, securitization / liquidation transactions, and project-finance trust / agency functions. In FinWiki it is the corporate-structured-finance trust route, distinct from personal-trust operators such as [[JapanFG/asahi-trust]].
+Capital Trust 是一家运营型信托公司。公开资料强调另类资产信托、重组 / 再包装、证券化 / 流动化交易，以及项目融资中的信托和代理功能。在 FinWiki 中，它是企业结构化金融信托路线，区别于 [[JapanFG/asahi-trust]] 等个人信托运营方。
 
-## Entity Boundary
+## 实体边界
 
-The page covers the current legal-name route for キャピタル信託株式会社. The same registry row has historical name-change context from DB / Deutsche, Sanne, and Apex group periods, but this page should use the current route while preserving the old names as aliases.
+本页覆盖 キャピタル信託株式会社 的当前法定名称路线。同一登记行具有 DB / Deutsche、Sanne、Apex Group 等阶段的历史名称变更背景；页面应使用当前路线，同时保留旧名称作为别名以避免重复建页。
 
-## Business Role Map
+## 业务角色图
 
-| Route | Reading |
+| 路线 | 解读 |
 |---|---|
-| Alternative assets | Trust structures for feeder-fund / repackaging functions. |
-| Securitization | Corporate trust services adjacent to [[securities/japan-market-infrastructure-map|capital-market infrastructure]]. |
-| Project finance | Trust / agency functions for structured finance. |
-| Registry control | Current row in [[JapanFG/trust-companies-japan-index]]. |
+| 另类资产 | 为 feeder fund / 再包装功能提供信托结构。 |
+| 证券化 | 与 [[securities/japan-market-infrastructure-map|capital-market infrastructure]] 相邻的企业信托服务。 |
+| 项目融资 | 结构化金融中的信托 / 代理功能。 |
+| 登记控制 | 当前行记录在 [[JapanFG/trust-companies-japan-index]]。 |
 
-## Public Context
+## 公开语境
 
-Capital Trust is useful for separating corporate structured-finance trust work from trust-bank custody and retail inheritance pages. The page also helps keep name-change drift visible, because a registry row can remain continuous even when the brand and ownership change.
+Capital Trust 可用于区分企业结构化金融信托、信托银行托管以及零售继承类页面。该页面也帮助记录名称变更漂移，因为登记行可能连续存在，即使品牌和所有权已经变化。
 
-## Research Checklist
+## 研究检查清单
 
-1. Check whether official disclosure changes after the 2025 Capital Services Group ownership transition.
-2. Preserve old-name aliases to prevent duplicate pages.
-3. Cross-check FIEA or real-estate license adjacency before adding securities claims.
+1. 检查 2025 年 Capital Services Group 所有权转换后是否出现新的官方披露。
+2. 保留旧名称别名，避免生成重复页面。
+3. 在添加证券业务表述前，交叉检查 FIEA 或房地产许可邻接关系。
 
-## Related
+## 相关
 
 - [[JapanFG/trust-companies-japan-index]]
 - [[securities/japan-market-infrastructure-map]]
@@ -47,7 +47,7 @@ Capital Trust is useful for separating corporate structured-finance trust work f
 - [[JapanFG/lombard-odier-trust]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
 - FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
 - Capital Trust official site: https://www.captrustjp.com/

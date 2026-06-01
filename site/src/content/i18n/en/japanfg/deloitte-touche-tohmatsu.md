@@ -4,87 +4,96 @@ source_hash: e90b2ee72297aa04
 lang: en
 status: machine
 fidelity: needs_review
-title: ""
+title: "Deloitte Touche Tohmatsu LLC"
 translated_at: 2026-05-31T15:29:03.928Z
 ---
-﻿# 譛蛾剞雋ｬ莉ｻ逶｣譟ｻ豕穂ｺｺ繝医・繝槭ヤ (Deloitte Touche Tohmatsu)
+# Deloitte Touche Tohmatsu LLC
 
 ## Wiki route
 
-This entry sits under 笶ｰa笶ｱ. Read it alongside 笶ｰb笶ｱ and 笶ｰc笶ｱ for peer Big 笶ｰei笶ｱaudit context, and 笶ｰd笶ｱ for 蜈ｬ隱堺ｼ夊ｨ亥｣ｫ豕・/ 逶｣譟ｻ蜩∬ｳｪ邂｡逅・・隕丞宛蠅・阜縲・PAAOB 逶｣逹｣譁・ц縺ｯ 笶ｰe笶ｱ 縺ｨ 笶ｰf笶ｱ 縺ｮ謇邂｡縲・
-## 笶ｰej笶ｱ. 豕穂ｺｺ讎りｦ・
-- **豁｣蠑丞錐**・壽怏髯占ｲｬ莉ｻ逶｣譟ｻ豕穂ｺｺ繝医・繝槭ヤ 笶ｰcc笶ｱ
-- **闍ｱ蜷・*・咼eloitte Touche Tohmatsu LLC 笶ｰcd笶ｱ
-- **豕穂ｺｺ蠖｢諷・*・壽怏髯占ｲｬ莉ｻ逶｣譟ｻ豕穂ｺｺ 笶ｰce笶ｱ
-- **譛ｬ驛ｨ**・壽擲莠ｬ驛ｽ蜊・ｻ｣逕ｰ蛹ｺ荳ｸ縺ｮ蜀・笶ｰcf笶ｱ
-- **蜉逶溘ロ繝・ヨ繝ｯ繝ｼ繧ｯ**・・*Deloitte Touche Tohmatsu Limited・・TTL・・*・医Ο繝ｳ繝峨Φ譛ｬ驛ｨ・俄擴cg笶ｱ
-- **繧ｰ繝ｫ繝ｼ繝玲ｳ穂ｺｺ**・・  - 繝・Ο繧､繝・繝医・繝槭ヤ 繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ蜷亥酔莨夂､ｾ・域姶逡･ / 繧ｳ繝ｳ繧ｵ繝ｫ・・  - 繝・Ο繧､繝・繝医・繝槭ヤ 繝輔ぃ繧､繝翫Φ繧ｷ繝｣繝ｫ繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ蜷亥酔莨夂､ｾ・・AS / M&A・・  - 繝・Ο繧､繝・繝医・繝槭ヤ 遞守炊螢ｫ豕穂ｺｺ・育ｨ主漁・・  - 繝・Ο繧､繝・繝医・繝槭ヤ 繝ｪ繧ｹ繧ｯ繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ蜷亥酔莨夂､ｾ・医Μ繧ｹ繧ｯ / 繧ｵ繧､繝舌・・俄擴ch笶ｱ
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[JapanFG/ey-shinnihon|EY ShinNihon]] and [[JapanFG/pwc-aarata|PwC Aarata]] for peer Big Four audit context, and [[JapanFG/legal-financial-licenses/INDEX|financial-license index]] for the public-accountant and audit-quality supervision perimeter. PAAOB supervision belongs with [[JapanFG/fsa-supervision-bureau|FSA Supervision Bureau]] and [[JapanFG/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] context.
 
-## 笶ｰfa笶ｱ. 豐ｿ髱ｩ
+## 1. Entity profile
 
-| 蟷ｴ譛・| 莠玖ｱ｡ |
+- **Formal name:** Deloitte Touche Tohmatsu LLC.
+- **Legal form:** limited liability audit corporation under Japan's Certified Public Accountants Act framework.
+- **Head office:** Marunouchi, Chiyoda-ku, Tokyo.
+- **Network affiliation:** member firm of Deloitte Touche Tohmatsu Limited (DTTL).
+- **Adjacent group entities:** Deloitte Tohmatsu Consulting, Deloitte Tohmatsu Financial Advisory, Deloitte Tohmatsu Tax, and Deloitte Tohmatsu Risk Advisory should be treated as separate legal entities unless a source explicitly ties them to the audit corporation.
+
+## 2. History
+
+| Year | Event |
 |---|---|
-| **笶ｰfb笶ｱ** | **遲画收繝ｻ髱呈惠逶｣譟ｻ豕穂ｺｺ 險ｭ遶・*・医ヨ繝ｼ繝槭ヤ縺ｮ逶ｴ謗･蜑崎ｺｫ縲√ヨ繝ｼ繝槭ヤ・晉ｭ画收髱呈惠縺ｮ逡･・俄擴ci笶ｱ |
-| 笶ｰfc笶ｱ| Touche Ross 蝗ｽ髫帶署謳ｺ 笶ｰcj笶ｱ |
-| **笶ｰfd笶ｱ** | **Touche Ross + Deloitte Haskins & Sells 繧ｰ繝ｭ繝ｼ繝舌Ν蜷井ｽｵ 竊・Deloitte Touche Tohmatsu 蠖｢謌・*・育､ｾ蜷阪↓繝医・繝槭ヤ縺檎ｵ・∩霎ｼ縺ｾ繧後◆轤ｹ縺ｧ譌･譛ｬ邉ｻ縺ｮ蟄伜惠諢滂ｼ俄擴da笶ｱ |
-| **笶ｰfe笶ｱ-笶ｰff笶ｱ** | **蜈ｬ隱堺ｼ夊ｨ亥｣ｫ豕墓隼豁｣縺ｫ繧医ｊ譛蛾剞雋ｬ莉ｻ逶｣譟ｻ豕穂ｺｺ蛹・* 笶ｰdb笶ｱ |
-| 笶ｰfg笶ｱ| DTT 縺ｮ繧ｳ繝ｳ繧ｵ繝ｫ驛ｨ髢・域立 繝・Ο繧､繝・繝医・繝槭ヤ 繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ・峨′逶｣譟ｻ豕穂ｺｺ繝医・繝槭ヤ縺ｨ雉・悽髢｢菫ゅｒ隗｣豸医＠ DTT 繧帝屬閼ｱ 竊・繝悶Λ繧ｯ繧ｹ繝医Φ・遺擴fh笶ｱ-笶ｰfi笶ｱ・俄・ **繧｢繝薙・繝繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ**・遺擴fj笶ｱ-笶ｰga笶ｱ・峨→縺励※迢ｬ遶九ら樟蝨ｨ縺ｮ縲後ョ繝ｭ繧､繝・繝医・繝槭ヤ 繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ縲阪・蛻･邉ｻ邨ｱ・域立 繝医・繝槭ヤ 繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ縺・笶ｰgb笶ｱ-笶ｰgc笶ｱ謾ｹ遘ｰ・峨〒縲√い繝薙・繝縺ｨ縺ｯ逶ｴ謗･縺ｮ髢｢菫ゅ↑縺・|
-| 笶ｰgd笶ｱ鬆・・| **繝・ず繧ｿ繝ｫ繧｢繧ｻ繝・ヨ逶｣譟ｻ / Travel Rule 繧ｳ繝ｳ繧ｵ繝ｫ蜈郁｡悟盾蜈･** 笶ｰdc笶ｱ |
+| 1968 | Predecessor audit corporation established. |
+| 1975 | Touche Ross international affiliation appears in the lineage. |
+| 1989 | The global Touche Ross and Deloitte Haskins & Sells combination formed Deloitte Touche Tohmatsu as a global network name. |
+| 2003 | The consulting business separated from the audit corporation in the post-Enron audit-independence cycle; the separate consulting lineage later rebranded as Deloitte Tohmatsu Consulting. |
+| 2008-07 | Reorganized under the limited-liability audit-corporation framework. |
+| 2020s | Digital-asset assurance and Travel Rule / AML advisory became a visible adjacent practice area in public materials. |
 
-### 驫陦・/ 菫晞匱 / 險ｼ蛻ｸ 笶ｰdd笶ｱ
+## 3. Audit, insurance, and securities perimeter
 
-- 繝医・繝槭ヤ縺ｯ螟ｧ謇玖ｨｼ蛻ｸ繝ｻ驕狗畑繝ｻ逕滓錐菫昴・蝨ｰ驫縺ｮ逶｣譟ｻ縺ｫ髢｢荳弱☆繧九′縲∝句挨莨夂､ｾ縺ｮ譛譁ｰ逶｣譟ｻ莠ｺ縺ｯ EDINET 荳谺｡雉・侭縺ｧ隕∫｢ｺ隱阪〒縺ゅｊ縲∝ｽ薙お繝ｳ繝医Μ縺ｧ縺ｯ蜈ｷ菴鍋噪繧ｯ繝ｩ繧､繧｢繝ｳ繝亥錐縺ｮ蛻玲嫌繧定｡後ｏ縺ｪ縺・
-### 證怜捷雉・肇 / 繝・ず繧ｿ繝ｫ繧｢繧ｻ繝・ヨ 笶ｰde笶ｱ
+Deloitte Touche Tohmatsu audits listed companies, financial institutions, insurers, and securities-sector entities. Client-specific current auditor status should be confirmed in EDINET filings or the issuer's latest securities report rather than inferred from this page.
 
-- **繝悶Ο繝・け繝√ぉ繝ｼ繝ｳ繝ｻ證怜捷雉・肇繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ** 繧ｰ繝ｫ繝ｼ繝・- **笶ｰg笶ｱ** 縺ｧ險蜿翫＆繧後ｋ騾壹ｊ縲：SA 逋ｻ骭ｲ VASP 縺ｮ **雋｡蜍呵ｫｸ陦ｨ逶｣譟ｻ + 蛻・挨邂｡逅・屮譟ｻ** 縺ｧ蜈郁｡・- **JICPA 讌ｭ遞ｮ蛻･蟋泌藤莨壼ｮ溷漁謖・・笶ｰeh笶ｱ(證怜捷雉・肇髢｢騾｣莠区･ｭ閠・・逶｣譟ｻ)** 遲門ｮ壹↓髢｢荳・笶ｰdf笶ｱ
-- 蝗ｽ蜀・､ｧ謇区囓蜿ｷ雉・肇蜿門ｼ墓園・遺擴h笶ｱ 邉ｻ蜷ｫ繧蜈ｬ髢矩未騾｣莠倶ｾ具ｼ・
-### Travel Rule / AML 繧ｳ繝ｳ繧ｵ繝ｫ 笶ｰdg笶ｱ
+### Digital assets and crypto-adjacent advisory
 
-- 笶ｰi笶ｱ 縺ｫ髢｢縺吶ｋ繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ
-- AML / 蛻ｶ陬√せ繧ｯ繝ｪ繝ｼ繝九Φ繧ｰ蜉ｩ險
-- 繝ｪ繧ｹ繧ｯ繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ驛ｨ髢・医Μ繧ｹ繧ｯ繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ蜷亥酔莨夂､ｾ・蛾｣謳ｺ
+- Deloitte Japan publishes digital-asset assurance and advisory material.
+- The firm is relevant to [[exchanges/japan-crypto-audit-firm-landscape|Japan crypto audit-firm landscape]] because FSA-registered VASPs require financial-statement audit and internal-control assurance work.
+- JICPA industry guidance for crypto-asset-related audits should be treated as the control text for audit-scope claims.
 
-### M&A / FAS・育屮譟ｻ縺ｨ蛻・屬・俄擴dh笶ｱ
+### Travel Rule and AML consulting
 
-- 繝・Ο繧､繝・繝医・繝槭ヤ 繝輔ぃ繧､繝翫Φ繧ｷ繝｣繝ｫ繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ・・TFA・峨′ **M&A 譯井ｻｶ繧｢繝峨ヰ繧､繧ｶ繝ｪ繝ｼ**
+- Related work includes Travel Rule implementation advice for VASPs, AML control design, and risk-advisory services.
+- Keep audit, consulting, tax, and risk-advisory legal entities separate when mapping engagements.
 
-## 笶ｰge笶ｱ. 荳ｻ隕・listed FG 繧ｯ繝ｩ繧､繧｢繝ｳ繝磯未菫ゑｼ亥・髢九・繝ｼ繧ｹ・・
-繝医・繝槭ヤ縺ｯ螟ｧ謇矩≡陞埼未菫ょ・縺ｮ逶｣譟ｻ縺ｫ蠎・￥髢｢荳弱☆繧九′縲∝句挨莨夂､ｾ縺ｮ逶｣譟ｻ莠ｺ縺ｯ譎らせ縺ｧ螟牙虚縺吶ｋ縺溘ａ縲∝ｽ薙お繝ｳ繝医Μ縺ｧ縺ｯ讀懆ｨｼ蜿ｯ閭ｽ縺ｪ遽・峇縺ｫ髯仙ｮ壹☆繧具ｼ・
-- **螟ｧ謇・VASP** 窶・笶ｰj笶ｱ 邉ｻ遲峨・髢｢騾｣逶｣譟ｻ螳溽ｸｾ・亥・髢九・繝ｼ繧ｹ險蜿翫≠繧奇ｼ俄擴di笶ｱ
+### M&A and financial advisory
 
-豕ｨ・壼句挨莨夂､ｾ縺ｮ逶｣譟ｻ莠ｺ縺ｯ譎らせ縺ｧ螟牙虚縲よ怙譁ｰ縺ｯ **EDINET 蜷・､ｾ譛譁ｰ譛我ｾ｡險ｼ蛻ｸ蝣ｱ蜻頑嶌縲檎屮譟ｻ莠ｺ縺ｮ迥ｶ豕√・* 縺ｾ縺溘・ **JICPA 讀懃ｴ｢** 繧剃ｸ谺｡繧ｽ繝ｼ繧ｹ縺ｨ縺励※遒ｺ隱阪・
-## 笶ｰgf笶ｱ. 隕丞宛繝ｻ逶｣逹｣
+Deloitte Tohmatsu Financial Advisory is the M&A and FAS-adjacent entity. Do not attribute advisory mandates to the audit corporation unless the source explicitly does so.
 
-- **荳ｻ邂｡豕穂ｻ､**・壼・隱堺ｼ夊ｨ亥｣ｫ豕・笶ｰdj笶ｱ
-- **逋ｻ骭ｲ**・壽律譛ｬ蜈ｬ隱堺ｼ夊ｨ亥｣ｫ蜊比ｼ夲ｼ・ICPA・俄擴ea笶ｱ
-- **逶｣逹｣**・・*驥題檮蠎・蜈ｬ隱堺ｼ夊ｨ亥｣ｫ繝ｻ逶｣譟ｻ蟇ｩ譟ｻ莨夲ｼ・PAAOB・・* 縺悟刀雉ｪ邂｡逅・Ξ繝薙Η繝ｼ / 讀懈渊 笶ｰeb笶ｱ
-- **CPAAOB 讀懈渊邨先棡**・壼ｹｴ谺｡縲悟・隱堺ｼ夊ｨ亥｣ｫ繝ｻ逶｣譟ｻ蟇ｩ譟ｻ莨壹・豢ｻ蜍慕憾豕√榊ｱ蜻頑嶌縺ｧ螟ｧ謇狗屮譟ｻ豕穂ｺｺ讀懈渊邨先棡讎りｦ√ｒ蜈ｬ陦ｨ 笶ｰec笶ｱ
+## 4. Public-client mapping discipline
 
-### 驕主悉縺ｮ蜃ｦ蛻・ｭｴ 笶ｰed笶ｱ
+The firm participates widely in audit work for major listed financial groups, but this page intentionally avoids a client-by-client auditor roster. Auditor appointments change over time and should be sourced directly from EDINET securities reports or JICPA / issuer disclosures.
 
-- 蛟句挨縺ｮ陦梧帆蜃ｦ蛻・ｭｴ縺ｯ CPAAOB 讀懈渊邨先棡繝ｻ驥題檮蠎∝・陦ｨ繝吶・繧ｹ縺ｧ驛ｽ蠎ｦ遒ｺ隱阪☆縺ｹ縺・
-## 笶ｰgg笶ｱ. 遶ｶ蜷磯未菫・
-| Big 笶ｰgh笶ｱ| 蝗ｽ蜀・ヶ繝ｩ繝ｳ繝・| 蠑ｷ縺ｿ霆ｸ・亥・髢九・繝ｼ繧ｹ・榎
+## 5. Regulation and supervision
+
+- **Primary statute:** Certified Public Accountants Act.
+- **Professional body:** Japanese Institute of Certified Public Accountants (JICPA).
+- **Audit-quality supervision:** Certified Public Accountants and Auditing Oversight Board (CPAAOB / PAAOB), operating within the FSA supervisory architecture.
+- **Inspection outputs:** CPAAOB annual activity reports and inspection-result summaries are the appropriate primary-source base for audit-quality claims.
+
+## 6. Competitive context
+
+| Big Four network | Japan audit firm | Public-note axis |
 |---|---|---|
-| Deloitte | **繝医・繝槭ヤ** | M&A / FAS 騾｣謳ｺ縲∵囓蜿ｷ雉・肇蜈郁｡・|
-| EY | 笶ｰba笶ｱ | 荳雁ｴ莨夂､ｾ逶｣譟ｻ謨ｰ |
-| PwC | 笶ｰbb笶ｱ | 繧ｰ繝ｭ繝ｼ繝舌Ν PwC 繝阪ャ繝医Ρ繝ｼ繧ｯ |
-| KPMG | 笶ｰbc笶ｱ | 驥題檮讖滄未蜀・Κ邨ｱ蛻ｶ |
+| Deloitte | Deloitte Touche Tohmatsu LLC | Big Four audit platform with related advisory network. |
+| EY | [[JapanFG/ey-shinnihon|EY ShinNihon]] | Major listed-company audit base. |
+| PwC | [[JapanFG/pwc-aarata|PwC Aarata]] | Global PwC network platform. |
+| KPMG | [[JapanFG/kpmg-azsa|KPMG AZSA]] | Financial-institution audit strength. |
 
-Tier 笶ｰgi笶ｱ・壺擴bd笶ｱ縲。DO 荳牙━逶｣譟ｻ豕穂ｺｺ 笶ｰee笶ｱ縲・
+Tier-two context includes [[JapanFG/taiyo-grant-thornton|Taiyo Grant Thornton]] and BDO Sanyu Audit Corporation.
+
 ## Related
 
-- 笶ｰbe笶ｱ・・ig 笶ｰgj笶ｱ繝斐い・・- 笶ｰbf笶ｱ・・ig 笶ｰha笶ｱ繝斐い・・- 笶ｰbg笶ｱ・・ig 笶ｰhb笶ｱ繝斐い・・- 笶ｰbh笶ｱ・域ｺ門､ｧ謇九ヴ繧｢・・- 笶ｰbi笶ｱ・郁ｨｼ蛻ｸ繧ｻ繧ｯ繧ｿ繝ｼ荳ｻ隕√け繝ｩ繧､繧｢繝ｳ繝磯伜沺・・- 笶ｰbj笶ｱ・亥・隱堺ｼ夊ｨ亥｣ｫ豕輔・逶｣譟ｻ蛻ｶ蠎ｦ・・- 笶ｰca笶ｱ・・PAAOB 逶｣逹｣譁・ц・・- 笶ｰcb笶ｱ・医け繝ｪ繝励ヨ逶｣譟ｻ繧ｯ繝ｭ繧ｹ繝峨Γ繧､繝ｳ・・
+- [[JapanFG/ey-shinnihon]]
+- [[JapanFG/pwc-aarata]]
+- [[JapanFG/kpmg-azsa]]
+- [[JapanFG/taiyo-grant-thornton]]
+- [[JapanFG/nomura-hd]]
+- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[JapanFG/fsa-supervision-bureau]]
+- [[exchanges/japan-crypto-audit-firm-landscape]]
+
 ## Sources
 
-- Deloitte Japan 逶｣譟ｻ繝ｻ菫晁ｨｼ讌ｭ蜍呻ｼ喇ttps://www.deloitte.com/jp/ja/services/audit-assurance.html
-- Deloitte Japan 豕穂ｺｺ諠・ｱ・喇ttps://www笶ｰhc笶ｱ.deloitte.com/jp/ja/legal/about-deloitte.html
-- Deloitte Japan 繝・ず繧ｿ繝ｫ繧｢繧ｻ繝・ヨ・喇ttps://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/digital-asset.html
-- 譌･譛ｬ蜈ｬ隱堺ｼ夊ｨ亥｣ｫ蜊比ｼ夲ｼ・ICPA・会ｼ喇ttps://jicpa.or.jp/
-- 驥題檮蠎・蜈ｬ隱堺ｼ夊ｨ亥｣ｫ繝ｻ逶｣譟ｻ蟇ｩ譟ｻ莨夲ｼ・PAAOB・会ｼ喇ttps://www.fsa.go.jp/cpaaob/
-- EDINET・喇ttps://disclosure笶ｰhd笶ｱ.edinet-fsa.go.jp/
-- 繧｢繝薙・繝繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ・遺擴eg笶ｱ DTT 髮｢閼ｱ繝ｻ迢ｬ遶九・邉ｻ隴懶ｼ会ｼ喇ttps://ja.wikipedia.org/wiki/繧｢繝薙・繝繧ｳ繝ｳ繧ｵ繝ｫ繝・ぅ繝ｳ繧ｰ
+- Deloitte Japan audit and assurance: https://www.deloitte.com/jp/ja/services/audit-assurance.html
+- Deloitte Japan legal / entity profile: https://www2.deloitte.com/jp/ja/legal/about-deloitte.html
+- Deloitte Japan digital assets: https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/digital-asset.html
+- Japanese Institute of Certified Public Accountants: https://jicpa.or.jp/
+- CPAAOB / PAAOB: https://www.fsa.go.jp/cpaaob/
+- EDINET: https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
-> [!info] 譬｡譬ｸ迥ｶ諤・> confidence: **likely**・・笶ｰhe笶ｱ蜈ｬ髢九た繝ｼ繧ｹ 繝吶・繧ｹ縲≫擴ef笶ｱ・峨よｳ穂ｺｺ蠖｢諷九・豁ｴ蜿ｲ繝ｻBig 笶ｰhf笶ｱ邉ｻ蛻励・證怜捷雉・肇蜈郁｡梧ｧ縺ｯ蜈ｬ髢九・繝ｼ繧ｹ縺ｧ鬮倅ｿ｡鬆ｼ縲ゅけ繝ｩ繧､繧｢繝ｳ繝亥挨逶｣譟ｻ莠ｺ縺ｯ EDINET 荳谺｡雉・侭縺ｧ驛ｽ蠎ｦ遒ｺ隱阪☆縺ｹ縺阪・
+> [!info] Validation status
+> confidence: **likely**. This English locale page was rebuilt from public source cues and visible repository context after the previous body contained encoding residue. Current-client audit assignments should be verified from EDINET before being used as firm facts.

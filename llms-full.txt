@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-01T13:19:11+09:00
+Generated: 2026-06-01T16:33:07+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1458
-Public pages listed: 1457
+Markdown files: 1459
+Public pages listed: 1458
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1457
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-01, GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页, GPT i18n 翻訳バッチ継続・zh/en 1273 件へ / GPT i18n continuation batch (zh/en 1273 each) / GPT i18n 翻译续跑（zh/en 各 1273）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-01, 三語語彙品質監査・専門語彙 polish / Trilingual lexical-quality audit and specialist wording polish / 三语词汇质量审计与专业语域 polish, GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -6748,7 +6748,7 @@ Public pages listed: 1457
 - Domain: agent-economy
 - Type: wiki_entry
 - Summary: This entry sits under AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰. Read it against Privy x AWS Bedrock AgentCore · AI agent 経済のデフォルトウォレットポジショニング for peer / contrast context and payments index for the broader system / regulatory boundary.
-- Headings: Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- Headings: Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い, Wiki route, Key facts, OS 層ウォレットと embedded wallet の競争構造, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/agent-economy/ai-agent-payment-protocols-overview, https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet, https://finwiki.zksc.io/agent-economy/privy-embedded-wallet-overview, https://finwiki.zksc.io/agent-economy/solana-saga-seeker-mobile-stack-overview, https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-overview, https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption
 
 ### Stablecoin routing for AI agent transactions · which stablecoin actually settles agent payments
@@ -13090,6 +13090,15 @@ Public pages listed: 1457
 - Summary: 2026-06-01 JST の GPT/Codex i18n 最終バッチです。残り 107 source entries を処理し、累計 i18n を zh 1380 / en 1380 まで完了しました。あわせて finwiki.zksc.io のトップページを三語対応の封面ホームページへ更新しました。
 - Headings: GPT i18n 全量完了・1380/1380 と封面ホーム更新, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
+### 三語語彙品質監査と専門語彙 polish
+- URL: https://finwiki.zksc.io/releases/v2026.06.01-7
+- Source path: releases/v2026.06.01-7.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-7.md
+- Domain: releases
+- Type: release_note
+- Summary: 2026-06-01 JST の FinWiki 三語 i18n 語彙品質リリースです。GPT/Codex worker を 10 並列で使い、日文原文、簡体中文訳、English 訳の語彙・語調・専門表現を監査し、大学学部水準を超える金融・制度・インフラ語彙へ寄せました。
+- Headings: 三語語彙品質監査と専門語彙 polish, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+
 ### GPT i18n 翻訳バッチ継続・740/740 進捗
 - URL: https://finwiki.zksc.io/releases/v2026.06.01
 - Source path: releases/v2026.06.01.md
@@ -14055,7 +14064,7 @@ Public pages listed: 1457
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-five-pole-comparison-matrix.md
 - Domain: systems
 - Type: wiki_entry
-- Summary: This entry sits under systems index. Read it against systems/cross-chain-four-poles-overview as the parent overview and クロスチェーン選定意思決定ツリー for matched protocol selection. Pair with each pole's standalone entry — systems/cctp-v2-overview · systems/chainlink-ccip-institutional-messaging · systems/layerz
+- Summary: このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl
 - Headings: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/cctp-v2-vs-canton, https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview, https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision, https://finwiki.zksc.io/systems/hyperlane-overview, https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip, https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging
 
@@ -14136,7 +14145,7 @@ Public pages listed: 1457
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against EigenLayer AVS メカニズム · Operator · Slashing · EIGEN 仲裁 for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- Headings: EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース, Wiki route, Key facts, Restaking Mechanism and AVS Workflow, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism, https://finwiki.zksc.io/systems/eigenlayer-l1-bootstrapping, https://finwiki.zksc.io/systems/hyperlane-overview
 
 ### EIP-4844 blob 経済と 2026 市場影響 · Dencun から Pectra · Fusaka までの全景
@@ -14236,7 +14245,7 @@ Public pages listed: 1457
 - Domain: systems
 - Type: wiki_entry
 - Summary: This entry sits under systems index. Read it against cross chain four poles overview for peer / contrast context and fintech index for the broader system / regulatory boundary.
-- Headings: Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
+- Headings: Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー, Wiki route, Key facts, ISM Security Composition, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/exchanges/liquid-staking-restaking-cex-exposure, https://finwiki.zksc.io/fintech/INDEX, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview, https://finwiki.zksc.io/systems/eigenlayer-avs-mechanism, https://finwiki.zksc.io/systems/hyperlane-overview, https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip
 
 ### Hyperlane 概観 · Permissionless Cross-chain Interoperability

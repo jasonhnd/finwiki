@@ -11,11 +11,11 @@ translated_at: 2026-05-31T15:29:03.858Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main placeholder context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/asset-management-one|アセットマネジメントOne]] [[securities/INDEX|securities index]] [[JapanFG/daiwa-sg|大和証券グループ]] 第352号 1 第352号 [[JapanFG/daiwa-sg|Daiwa Securities Group]] 80% [[JapanFG/kampo-life|Kampo Life]] 20% 2 [[JapanFG/daiwa-next-bank|大和ネクスト銀行]] 3 [[JapanFG/daiwa-sg]] [[JapanFG/daiwa-next-bank]] [[JapanFG/kampo-life]] [[JapanFG/smd-am]] [[securities/nisa-2024-flow]]
+This entry sits in the JapanFG route specified by the source file. Main source-context links: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/asset-management-one|Asset Management One]] [[securities/INDEX|securities index]] [[JapanFG/daiwa-sg|Daiwa Securities Group]] registration No. 352 1 registration No. 352 [[JapanFG/daiwa-sg|Daiwa Securities Group]] 80% [[JapanFG/kampo-life|Kampo Life]] 20% 2 [[JapanFG/daiwa-next-bank|Daiwa Next Bank]] 3 [[JapanFG/daiwa-sg]] [[JapanFG/daiwa-next-bank]] [[JapanFG/kampo-life]] [[JapanFG/smd-am]] [[securities/nisa-2024-flow]]
 
 ## TL;DR
 
-This page records the public-information boundary for Daiwa Asset Management in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected placeholders are retained in source order.
+This page records the public-information boundary for Daiwa Asset Management in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected source-context links are retained in source order.
 
 ## License / group boundary
 
@@ -37,13 +37,15 @@ This page records the public-information boundary for Daiwa Asset Management in 
 - Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
 - For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
 
-## Placeholder continuation
+## Related context
+
+This entry should be read with [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/asset-management-one|Asset Management One]], and [[securities/INDEX|securities index]] for the asset-management license boundary, shareholder context, and broader securities-market infrastructure.
 
 
 
 ## Related
 
-- Related entries are represented by the protected placeholders above.
+- Related entries are represented by the protected source-context links above.
 
 ## Sources
 

@@ -10,9 +10,9 @@ translated_at: 2026-05-31T03:19:56.393Z
 
 # Coinone（코인원）— 韩国 CEX 中坚 / NH 农协银行实名账户 / 独立系 overview
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] for the Korea peer / regulatory context, [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] for the closest top-tier peers, and [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader system / market boundary.
+本条目位于 [[exchanges/INDEX|exchanges index]]。韩国同业 / 监管语境见 [[exchanges/korea-cex-five-pillars-comparison|韩国五大 CEX 制度比较]]；最接近的一线同业为 [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]]；更广泛的系统和市场边界见 [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]]。
 
 > 2014-08  设立 · 韩国 spot 市场 #3（推定 3% 前后）· **NH 농협은행 实名账户** · DAXA 共同设立 5 社 的 1  家之一 · **2022  上币 청탁 检察起诉事件**致经营层经历司法程序的历史
 

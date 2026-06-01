@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-01T13:19:11+09:00",
+  "generated_at": "2026-06-01T16:33:07+09:00",
   "counts": {
-    "markdown_files": 1458,
-    "public_markdown_pages": 1457,
-    "site_urls_in_sitemap": 1458,
+    "markdown_files": 1459,
+    "public_markdown_pages": 1458,
+    "site_urls_in_sitemap": 1459,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9869658,
-    "word_like_tokens": 1568240
+    "nonspace_utf8_chars": 9879897,
+    "word_like_tokens": 1569900
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-01",
+        "三語語彙品質監査・専門語彙 polish / Trilingual lexical-quality audit and specialist wording polish / 三语词汇质量审计与专业语域 polish",
         "GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页",
         "GPT i18n 翻訳バッチ継続・zh/en 1273 件へ / GPT i18n continuation batch (zh/en 1273 each) / GPT i18n 翻译续跑（zh/en 各 1273）",
-        "GPT i18n 翻訳バッチ継続・zh/en 1143 件へ / GPT i18n continuation batch (zh/en 1143 each) / GPT i18n 翻译续跑批次（zh/en 各 1143）",
-        "GPT i18n 継続バッチ（zh/en 1013 件へ）/ GPT i18n continuation batch (zh/en 1013 each) / GPT i18n 续跑批次（zh/en 各 1013）"
+        "GPT i18n 翻訳バッチ継続・zh/en 1143 件へ / GPT i18n continuation batch (zh/en 1143 each) / GPT i18n 翻译续跑批次（zh/en 各 1143）"
       ],
       "wikilinks": [
         "JapanFG",
@@ -467,8 +467,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 437989,
-      "word_like_tokens": 77240,
+      "nonspace_chars": 440684,
+      "word_like_tokens": 77695,
       "last_modified": "2026-06-01"
     },
     {
@@ -6095,7 +6095,7 @@
       "markdown_links": [],
       "nonspace_chars": 3989,
       "word_like_tokens": 568,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/clearstream-banking-japan.md",
@@ -7752,7 +7752,7 @@
       "markdown_links": [],
       "nonspace_chars": 5812,
       "word_like_tokens": 882,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/ehime-bank.md",
@@ -8878,7 +8878,7 @@
       "markdown_links": [],
       "nonspace_chars": 10413,
       "word_like_tokens": 1373,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/fpg-trust.md",
@@ -10002,7 +10002,7 @@
       "markdown_links": [],
       "nonspace_chars": 4068,
       "word_like_tokens": 681,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/gmo-epsilon.md",
@@ -15369,7 +15369,7 @@
       "markdown_links": [],
       "nonspace_chars": 1800,
       "word_like_tokens": 247,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/kb-kookmin-bank-japan.md",
@@ -21923,7 +21923,7 @@
       "markdown_links": [],
       "nonspace_chars": 3323,
       "word_like_tokens": 470,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/nissay-wealth-life.md",
@@ -25333,7 +25333,7 @@
       "markdown_links": [],
       "nonspace_chars": 3472,
       "word_like_tokens": 462,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "JapanFG/saga-bank.md",
@@ -34252,8 +34252,8 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 23916,
-      "word_like_tokens": 3651,
+      "nonspace_chars": 24102,
+      "word_like_tokens": 3671,
       "last_modified": "2026-06-01"
     },
     {
@@ -35288,7 +35288,7 @@
       "markdown_links": [],
       "nonspace_chars": 2475,
       "word_like_tokens": 389,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "agent-economy/claude-code-extension-architecture.md",
@@ -35811,7 +35811,7 @@
       "markdown_links": [],
       "nonspace_chars": 2760,
       "word_like_tokens": 418,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "agent-economy/lit-protocol-pkp-agent-keys.md",
@@ -36157,9 +36157,9 @@
         "https://finwiki.zksc.io/payments/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5403,
+      "nonspace_chars": 5406,
       "word_like_tokens": 836,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "agent-economy/solana-saga-seeker-mobile-stack-overview.md",
@@ -36213,7 +36213,7 @@
         "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
         "Wiki route",
         "Key facts",
-        "Mechanism / How it works",
+        "OS 層ウォレットと embedded wallet の競争構造",
         "Origin & evolution",
         "Related",
         "Sources"
@@ -36243,9 +36243,9 @@
         "https://finwiki.zksc.io/systems/erc-4337-embedded-wallet-adoption"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3222,
-      "word_like_tokens": 514,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3230,
+      "word_like_tokens": 515,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "agent-economy/stablecoin-routing-agent-transactions.md",
@@ -36442,9 +36442,9 @@
         "https://finwiki.zksc.io/payments/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 15760,
-      "word_like_tokens": 2715,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 15779,
+      "word_like_tokens": 2716,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "agent-economy/x402-cloudflare-aws-edge-integration.md",
@@ -37976,9 +37976,9 @@
         "https://finwiki.zksc.io/fintech/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 18762,
-      "word_like_tokens": 3103,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 18936,
+      "word_like_tokens": 3132,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md",
@@ -39812,9 +39812,9 @@
         "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction"
       ],
       "markdown_links": [],
-      "nonspace_chars": 36888,
-      "word_like_tokens": 5638,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 36923,
+      "word_like_tokens": 5642,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "business/gmo-internet-group.md",
@@ -40329,7 +40329,7 @@
       "markdown_links": [],
       "nonspace_chars": 3929,
       "word_like_tokens": 607,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "business/rakuten-group-mobile-finance-bundling-case.md",
@@ -43006,9 +43006,9 @@
         "https://finwiki.zksc.io/money-market/japan-money-market"
       ],
       "markdown_links": [],
-      "nonspace_chars": 15051,
-      "word_like_tokens": 2467,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 15080,
+      "word_like_tokens": 2472,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "derivatives/structured-bond-japan-retail-issuance.md",
@@ -44174,7 +44174,7 @@
       "markdown_links": [],
       "nonspace_chars": 5245,
       "word_like_tokens": 878,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/cex-coinone-korea.md",
@@ -44988,9 +44988,9 @@
         "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3565,
-      "word_like_tokens": 618,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3570,
+      "word_like_tokens": 617,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md",
@@ -46184,9 +46184,9 @@
         "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade"
       ],
       "markdown_links": [],
-      "nonspace_chars": 29173,
+      "nonspace_chars": 29171,
       "word_like_tokens": 4818,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/japan-crypto-audit-firm-landscape.md",
@@ -47599,7 +47599,7 @@
       ],
       "nonspace_chars": 4974,
       "word_like_tokens": 805,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/jp-exchange-bi-fxtrade.md",
@@ -48000,7 +48000,7 @@
       ],
       "nonspace_chars": 4451,
       "word_like_tokens": 764,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/jp-exchange-coinbase-japan.md",
@@ -48611,7 +48611,7 @@
       ],
       "nonspace_chars": 4520,
       "word_like_tokens": 751,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/jp-exchange-gaudiy.md",
@@ -49007,7 +49007,7 @@
       ],
       "nonspace_chars": 5045,
       "word_like_tokens": 801,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/jp-exchange-mercoin.md",
@@ -49845,9 +49845,9 @@
         "https://jp.support.backpack.exchange/",
         "https://jvcea.or.jp/member/"
       ],
-      "nonspace_chars": 5181,
-      "word_like_tokens": 822,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 5184,
+      "word_like_tokens": 820,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/jp-exchange-zaif.md",
@@ -49911,7 +49911,7 @@
       ],
       "nonspace_chars": 5853,
       "word_like_tokens": 1002,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-binance-holdings-legacy.md",
@@ -51319,7 +51319,7 @@
       "markdown_links": [],
       "nonspace_chars": 2860,
       "word_like_tokens": 467,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/mtgox-bankruptcy-processing-timeline.md",
@@ -51550,9 +51550,9 @@
         "https://finwiki.zksc.io/systems/cross-chain-four-poles-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3215,
-      "word_like_tokens": 555,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3260,
+      "word_like_tokens": 563,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "exchanges/switzerland-finma-crypto-valley-overview.md",
@@ -54357,9 +54357,9 @@
         "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14986,
-      "word_like_tokens": 2373,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 15010,
+      "word_like_tokens": 2375,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/bis-project-agora-overview.md",
@@ -54824,9 +54824,9 @@
         "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16796,
-      "word_like_tokens": 2738,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 16892,
+      "word_like_tokens": 2751,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/brazil-drex-timeline-2026.md",
@@ -54950,9 +54950,9 @@
         "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma"
       ],
       "markdown_links": [],
-      "nonspace_chars": 9628,
+      "nonspace_chars": 9627,
       "word_like_tokens": 1566,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/carf-1099da-end-of-crypto-anonymity.md",
@@ -55889,9 +55889,9 @@
         "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16565,
-      "word_like_tokens": 2715,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 16591,
+      "word_like_tokens": 2719,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/ecny-supply-chain-expansion.md",
@@ -56404,7 +56404,7 @@
       "markdown_links": [],
       "nonspace_chars": 3104,
       "word_like_tokens": 553,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/first-digital-fdusd-hk-stablecoin.md",
@@ -56638,9 +56638,9 @@
         "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16432,
-      "word_like_tokens": 2670,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 16446,
+      "word_like_tokens": 2671,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/frax-frxusd-defi-stablecoin.md",
@@ -56938,9 +56938,9 @@
         "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc\\"
       ],
       "markdown_links": [],
-      "nonspace_chars": 20615,
-      "word_like_tokens": 3425,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 20890,
+      "word_like_tokens": 3459,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/global-stablecoin-regulatory-five-pole-matrix.md",
@@ -57079,7 +57079,7 @@
       "markdown_links": [],
       "nonspace_chars": 3638,
       "word_like_tokens": 539,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/hk-frtb-stablecoin-reserve-overview.md",
@@ -57458,7 +57458,7 @@
       "markdown_links": [],
       "nonspace_chars": 3107,
       "word_like_tokens": 497,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/issuer-distributor-incentive-realignment-50-50-model.md",
@@ -57882,7 +57882,7 @@
       "markdown_links": [],
       "nonspace_chars": 3440,
       "word_like_tokens": 549,
-      "last_modified": "2026-05-28"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/japan-stablecoin-2026-event-tracker.md",
@@ -59116,9 +59116,9 @@
         "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
       ],
       "markdown_links": [],
-      "nonspace_chars": 18492,
-      "word_like_tokens": 2878,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 18509,
+      "word_like_tokens": 2880,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
@@ -59545,7 +59545,7 @@
       "markdown_links": [],
       "nonspace_chars": 2695,
       "word_like_tokens": 373,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/protocol-renewal-trigger-as-event-anchor.md",
@@ -59666,9 +59666,9 @@
         "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
       ],
       "markdown_links": [],
-      "nonspace_chars": 20902,
-      "word_like_tokens": 3475,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 20918,
+      "word_like_tokens": 3479,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/regulatory-window-strategic-acquisition.md",
@@ -61282,9 +61282,9 @@
         "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale"
       ],
       "markdown_links": [],
-      "nonspace_chars": 20537,
-      "word_like_tokens": 3244,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 20579,
+      "word_like_tokens": 3251,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "fintech/world-liberty-usd1-political-stablecoin.md",
@@ -64345,9 +64345,9 @@
         "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16517,
-      "word_like_tokens": 2838,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 16611,
+      "word_like_tokens": 2851,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
@@ -68311,9 +68311,9 @@
         "https://finwiki.zksc.io/payments/psp-merchant-settlement-risk"
       ],
       "markdown_links": [],
-      "nonspace_chars": 33005,
+      "nonspace_chars": 33014,
       "word_like_tokens": 5368,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "payments/japan-payment-clearing-and-settlement-infrastructure.md",
@@ -71454,9 +71454,9 @@
         "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
       ],
       "markdown_links": [],
-      "nonspace_chars": 17071,
+      "nonspace_chars": 17075,
       "word_like_tokens": 2664,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "policy-finance/oecd-export-credit-arrangement.md",
@@ -74970,6 +74970,33 @@
       "last_modified": "2026-06-01"
     },
     {
+      "source_path": "releases/v2026.06.01-7.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.01-7",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01-7.md",
+      "title": "三語語彙品質監査と専門語彙 polish",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-06-01 JST の FinWiki 三語 i18n 語彙品質リリースです。GPT/Codex worker を 10 並列で使い、日文原文、簡体中文訳、English 訳の語彙・語調・専門表現を監査し、大学学部水準を超える金融・制度・インフラ語彙へ寄せました。",
+      "headings": [
+        "三語語彙品質監査と専門語彙 polish",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 4655,
+      "word_like_tokens": 782,
+      "last_modified": "2026-06-01"
+    },
+    {
       "source_path": "releases/v2026.06.01.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.01",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.01.md",
@@ -76412,9 +76439,9 @@
         "https://finwiki.zksc.io/JapanFG/traders-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 36428,
+      "nonspace_chars": 36440,
       "word_like_tokens": 5573,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md",
@@ -80989,7 +81016,7 @@
       "markdown_links": [],
       "nonspace_chars": 2228,
       "word_like_tokens": 313,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/canton-mmf-coalition.md",
@@ -81450,9 +81477,9 @@
         "https://finwiki.zksc.io/systems/restaking-avs-landscape-matrix-eigenlayer-vs-symbiotic"
       ],
       "markdown_links": [],
-      "nonspace_chars": 25095,
-      "word_like_tokens": 4022,
-      "last_modified": "2026-05-26"
+      "nonspace_chars": 25172,
+      "word_like_tokens": 4031,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/cross-chain-bridge-security-insurance-matrix-2026.md",
@@ -81532,7 +81559,7 @@
       "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
       "domain": "systems",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under systems index. Read it against systems/cross-chain-four-poles-overview as the parent overview and クロスチェーン選定意思決定ツリー for matched protocol selection. Pair with each pole's standalone entry — systems/cctp-v2-overview · systems/chainlink-ccip-institutional-messaging · systems/layerz",
+      "summary": "このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl",
       "headings": [
         "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
         "Wiki route",
@@ -81569,9 +81596,9 @@
         "https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6895,
-      "word_like_tokens": 1120,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6735,
+      "word_like_tokens": 1082,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/cross-chain-four-poles-ccip-institutional.md",
@@ -81903,7 +81930,7 @@
         "EigenLayer 概観 · Restaking と Ethereum 暗号経済セキュリティのリース",
         "Wiki route",
         "Key facts",
-        "Mechanism / How it works",
+        "Restaking Mechanism and AVS Workflow",
         "Origin & evolution",
         "Related",
         "Sources"
@@ -81929,9 +81956,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2511,
-      "word_like_tokens": 356,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2523,
+      "word_like_tokens": 357,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/eip-4844-blob-economics-impact-2026.md",
@@ -82325,7 +82352,7 @@
         "Hyperlane Interchain Security Modules(ISM)· プラガブルな検証レイヤー",
         "Wiki route",
         "Key facts",
-        "Mechanism / How it works",
+        "ISM Security Composition",
         "Origin & evolution",
         "Related",
         "Sources"
@@ -82351,9 +82378,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2721,
-      "word_like_tokens": 370,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2723,
+      "word_like_tokens": 369,
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/hyperlane-overview.md",
@@ -82393,9 +82420,9 @@
         "https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2611,
+      "nonspace_chars": 2614,
       "word_like_tokens": 357,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/hyperlane-vs-layerzero-ccip.md",
@@ -82767,7 +82794,7 @@
       "markdown_links": [],
       "nonspace_chars": 2224,
       "word_like_tokens": 331,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/mev-flashbots-suave-order-flow-auction.md",
@@ -83241,7 +83268,7 @@
       "markdown_links": [],
       "nonspace_chars": 22821,
       "word_like_tokens": 3918,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "systems/solana-firedancer-validator-economics.md",
@@ -83535,9 +83562,9 @@
         "https://finwiki.zksc.io/systems/vitalik-l1-l2-strategy-anchor"
       ],
       "markdown_links": [],
-      "nonspace_chars": 18489,
+      "nonspace_chars": 18501,
       "word_like_tokens": 3185,
-      "last_modified": "2026-05-26"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "topic-cluster-reference.md",
@@ -83822,9 +83849,9 @@
         "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\\"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4397,
+      "nonspace_chars": 4411,
       "word_like_tokens": 736,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-01"
     },
     {
       "source_path": "trade/jetro-members-gateway-model.md",
@@ -83978,8 +84005,8 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 1969,
-      "word_like_tokens": 374,
+      "nonspace_chars": 3765,
+      "word_like_tokens": 681,
       "last_modified": "2026-06-01"
     }
   ]
