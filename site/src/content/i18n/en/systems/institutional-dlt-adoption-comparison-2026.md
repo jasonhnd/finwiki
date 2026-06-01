@@ -4,28 +4,28 @@ source_hash: 5844b8aa6372e860
 lang: en
 status: machine
 fidelity: ok
-title: "Institutional DLT Platform Adoption Comparison 2026  · Canton vs Fabric vs Corda vs Public Chains vs Avalanche vs Polygon"
+title: "Institutional DLT Platform Adoption Comparison 2026 · Canton vs Fabric vs Corda vs Public Chains vs Avalanche vs Polygon"
 translated_at: 2026-06-01T04:15:40.164Z
 ---
 
-# Institutional DLT Platform Adoption Comparison 2026  · Canton vs Fabric vs Corda vs Public Chains vs Avalanche vs Polygon
+# Institutional DLT Platform Adoption Comparison 2026 · Canton vs Fabric vs Corda vs Public Chains vs Avalanche vs Polygon
 
 ## TL;DR
 
-Institutional DLT selection in 2026 年 has moved out of the "pilot phase" and into a mature differentiated structure of **"Canton + public-chain Ethereum as the two major centers + Corda as the long tail + Fabric in decline"**: Canton (after the Digital Asset / R3  merger) has captured the main battlefield of G-SIB tokenization (JPM Kinexys + Goldman DAP + DTCC + BNY), public-chain Ethereum L1  occupies one pole of "publicly tradable tokenized funds" through RWA such as BlackRock BUIDL + Franklin BENJI + Ondo, Corda retains a sticky long tail among the UK / Singapore / some EM central banks + central securities depositories (CSDs), and Hyperledger Fabric (promoted by IBM) is clearly declining outside trade finance / supply chain. Avalanche Subnets has captured part of the RWA + asset-management long tail (Apollo / KKR / Hamilton Lane), while Polygon Enterprise has largely withdrawn. Institutional selection is not a single-chain decision; many G-SIBs operate 2-3  platforms at the same time.
+Institutional DLT selection in 2026 has moved out of the "pilot phase" and into a mature differentiated structure of **"Canton + public-chain Ethereum as the two major centers + Corda as the long tail + Fabric in decline"**: Canton (after the Digital Asset / R3  merger) has captured the main battlefield of G-SIB tokenization (JPM Kinexys + Goldman DAP + DTCC + BNY), public-chain Ethereum L1  occupies one pole of "publicly tradable tokenized funds" through RWA such as BlackRock BUIDL + Franklin BENJI + Ondo, Corda retains a sticky long tail among the UK / Singapore / some EM central banks + central securities depositories (CSDs), and Hyperledger Fabric (promoted by IBM) is clearly declining outside trade finance / supply chain. Avalanche Subnets has captured part of the RWA + asset-management long tail (Apollo / KKR / Hamilton Lane), while Polygon Enterprise has largely withdrawn. Institutional selection is not a single-chain decision; many G-SIBs operate 2-3  platforms at the same time.
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton 総覧]] and [[systems/hyperledger-besu-overview|Hyperledger Besu 総覧]] to understand the technical counterpoint among the 2  core institutional chains, and compare with [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 移行経路]] to check the actual migration decisions of specific G-SIBs. For the public-chain pole, see [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]].
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/canton-overview|Canton overview]] and [[systems/hyperledger-besu-overview|Hyperledger Besu overview]] to understand the technical counterpoint among the 2  core institutional chains, and compare with [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM migration path]] to check the actual migration decisions of specific G-SIBs. For the public-chain pole, see [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]].
 
 ### 1. Canton (Digital Asset + R3  merged camp)
 
 - **Technology**: DAML (functional + obligation-based language) + application-level privacy + Global Synchronizer
-- **2025  important event**: Digital Asset Holdings and R3  completed a strategic merger in 2025 年 (in concrete form, R3  integrated its Corda Enterprise business into Digital Asset, and Canton became the core DLT product of the merged entity)
+- **2025  important event**: Digital Asset Holdings and R3  completed a strategic merger in 2025 (in concrete form, R3  integrated its Corda Enterprise business into Digital Asset, and Canton became the core DLT product of the merged entity)
 - **Typical customers**: JPM Kinexys (2026-2027 H1  migration completed) + Goldman DAP + DTCC Project Ion + BNY Mellon + Cumberland + Microsoft + Paxos + DZ Bank
 - **Typical use cases**: cross-participant atomic settlement of tokenized MMF + collateral mobility + 24/7 repo + tokenized deposit
 - **Self-reported TVL**: in 2026-Q1 , $6T+ in tokenized assets / 600+ institutions (Canton consortium self-disclosure, lacking third-party audit)
-- **Ecosystem position**: first choice for G-SIB tokenization; see [[systems/canton-daml-technical-spec|Canton DAML 技術仕様]] for technical details
+- **Ecosystem position**: first choice for G-SIB tokenization; see [[systems/canton-daml-technical-spec|Canton DAML technical specification]] for technical details
 
 ### 2. Public Ethereum L1 (led by BlackRock + Franklin + Ondo)
 
@@ -40,7 +40,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ### 3. Corda (R3, after 2025  integration)
 
 - **Technology**: JVM-based + UTXO style + notary cluster + application-layer privacy (similar to Canton, but with a different implementation)
-- **Post-integration positioning**: after R3  merged with Digital Asset in 2025 年, Corda mainly inherits **central securities depository (CSD) + some central-bank wholesale CBDC pilots + long-tail customers in the UK / Singapore / Middle East**. New customer acquisition has effectively shifted to Canton
+- **Post-integration positioning**: after R3  merged with Digital Asset in 2025, Corda mainly inherits **central securities depository (CSD) + some central-bank wholesale CBDC pilots + long-tail customers in the UK / Singapore / Middle East**. New customer acquisition has effectively shifted to Canton
 - **Typical customers**: SIX Digital Exchange (SDX, Switzerland) + HQLAᵡ (European institutional collateral platform) + ASX (Australian exchange, after CHESS replacement cancellation) + some central-bank wholesale CBDC pilots (BoE / MAS / some Middle Eastern central banks)
 - **TVL and activity**: historically processed more than $20T in cumulative notional assets on the Corda network (2024 R3  disclosure, mainly trade finance + CSD clearing/settlement notional), but active mainnet TVL is far smaller
 - **Future**: Corda 4.x will continue to be maintained, but Canton becomes R3 's strategic core instead of Corda
@@ -48,17 +48,17 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 ### 4. Hyperledger Fabric (IBM-led)
 
 - **Typical customers**: IBM Food Trust + TradeLens (closed in 2022 ) + we.trade (dissolved in 2022 ) + Marco Polo Network (failed in 2022 ) + Walmart supply chain
-- **Current state**: in 2022-2023 年, IBM-led trade-finance / supply-chain consortia closed or reorganized one after another, and Fabric has effectively declined as a main battlefield for financial institutions
+- **Current state**: in 2022-2023, IBM-led trade-finance / supply-chain consortia closed or reorganized one after another, and Fabric has effectively declined as a main battlefield for financial institutions
 - **Survival scenarios**: supply-chain tracking (food / pharmaceuticals / auto parts) + some central-bank internal ledgers (components of China's digital renminbi historically used Fabric derivatives) + some enterprise consortia
 - **Technical issues**: permissioned, but endorsement policy is complex; performance bottlenecks; IBM's sales model mismatches modern SaaS / DLT-as-service
-- **Center of gravity in Hyperledger projects**: in 2025 年, the Linux Foundation integrated Hyperledger into the "Decentralized Trust" foundation; Besu became the de facto standard for EVM-compatible institutional chains, and Fabric's strategic position declined
+- **Center of gravity in Hyperledger projects**: in 2025, the Linux Foundation integrated Hyperledger into the "Decentralized Trust" foundation; Besu became the de facto standard for EVM-compatible institutional chains, and Fabric's strategic position declined
 
 ### 5. Hyperledger Besu (EVM-compatible institutional chain)
 
 - **Typical customers**: JPM Kinexys Chain (some functionality migrated to Canton by 2027 H1 , with the Besu fork retained internally) + Citi CTS + HSBC Tokenized Deposit Service + BNP Securities Services + multiple [[fintech/bis-project-agora-overview|BIS Project Agora]] nodes
 - **Advantages**: EVM compatibility, reuse of the Solidity toolchain, transparency of Linux Foundation governance, and a simple permissioned validator set
 - **Constraints**: application-level privacy is weaker than Canton + multi-party atomic settlement requires hack-y contract combinations
-- **Detailed analysis**: see [[systems/hyperledger-besu-overview|Hyperledger Besu 総覧]] and [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 移行経路]]
+- **Detailed analysis**: see [[systems/hyperledger-besu-overview|Hyperledger Besu overview]] and [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM migration path]]
 
 ### 6. Avalanche Subnets (institutional RWA long tail)
 
@@ -68,9 +68,9 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - **Advantages**: EVM compatibility + customizable validator set + liquidity and connectivity with the public Avalanche C-Chain
 - **Self-reported TVL**: Avalanche RWA TVL 2026-Q1 ~$200-400M (rwa.xyz basis), far smaller than Ethereum L1  RWA
 
-### 7. Polygon Enterprise (basically withdrawn)
+### 7. Polygon Enterprise (substantially withdrawn)
 
-- The Polygon Supernets / Polygon Enterprise direction presented in 2022-2023 年 has basically stopped being promoted since 2024 年
+- The Polygon Supernets / Polygon Enterprise direction presented in 2022-2023 has effectively ceased being promoted since 2024
 - Polygon's strategic center of gravity shifted to the [[systems/polygon-agglayer-architecture-rollout|AggLayer + CDK]] public-chain stack
 - It did not enter the main battlefield of G-SIB tokenization, and institutional customer share is negligible
 
@@ -97,7 +97,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - **BlackRock**: Public Ethereum L1 (BUIDL 70% AUM) + multiple L2s (Aptos / Avalanche / Arbitrum / Polygon)
 - **Franklin Templeton**: Stellar (BENJI native) + Aptos + Polygon + multiple L2 s → multichain distribution
 
-Institutional clients **do not bet on a single chain**. The practice in 2026 年 is "Canton for internal G-SIB use + public-chain Ethereum for external MMF / Treasury + Corda / Besu as the long tail for specific regions or use cases," which contrasts with the extension of [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]] into the institutional layer.
+Institutional clients **do not bet on a single chain**. The practice in 2026 is "Canton for internal G-SIB use + public-chain Ethereum for external MMF / Treasury + Corda / Besu as the long tail for specific regions or use cases," which contrasts with the extension of [[systems/cross-chain-five-pole-comparison-matrix|Cross-chain Five-Pole Comparison Matrix]] into the institutional layer.
 
 ## RWA on chain · TVL view
 
@@ -154,7 +154,7 @@ Note: the specific timing and form of integration follow the official disclosure
 | Public Ethereum L1 | USDC / USDT / PYUSD / RLUSD / Ondo USDY |
 | Stellar | USDC (Circle native) + WisdomTree WTSY |
 | Avalanche | USDC / Tether on Avalanche C-Chain |
-| Besu (Kinexys Chain) | JPMD (migrating to Canton in 2026 年) |
+| Besu (Kinexys Chain) | JPMD (migrating to Canton in 2026) |
 | Corda | Some central-bank wholesale CBDC pilots + HQLAᵡ collateral |
 | Solana / Base | USDC native (main choice for retail payment) |
 
@@ -163,14 +163,14 @@ Note: the specific timing and form of integration follow the official disclosure
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
-- [[systems/canton-overview|Canton 総覧]]
-- [[systems/canton-daml-technical-spec|Canton DAML 技術仕様]]
-- [[systems/canton-mmf-coalition|Canton MMF コンソーシアム]]
-- [[systems/hyperledger-besu-overview|Hyperledger Besu 総覧]]
-- [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM 移行経路]]
-- [[systems/cctp-v2-overview|CCTP V2 総覧]]
-- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]]
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL 総覧]]
+- [[systems/canton-overview|Canton overview]]
+- [[systems/canton-daml-technical-spec|Canton DAML technical specification]]
+- [[systems/canton-mmf-coalition|Canton MMF consortium]]
+- [[systems/hyperledger-besu-overview|Hyperledger Besu overview]]
+- [[systems/hyperledger-besu-vs-canton-migration|Besu vs Canton · JPM migration path]]
+- [[systems/cctp-v2-overview|CCTP V2 overview]]
+- [[systems/cross-chain-five-pole-comparison-matrix|Cross-chain Five-Pole Comparison Matrix]]
+- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL overview]]
 <!-- /wiki-links:managed -->
 
 ## Sources

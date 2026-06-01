@@ -11,23 +11,23 @@ translated_at: 2026-06-01T00:41:50.394Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hitachi-capital|日立キャピタル（旧）]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] for vendor-system-integrator leasing peer context, [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|三井住友ファイナンス&リース]] for large general lease peer context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hitachi-capital|former Hitachi Capital]] / [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] for vendor-system-integrator leasing peer context, [[JapanFG/tokyo-century|Tokyo Century]] / [[JapanFG/smfl|Sumitomo Mitsui Finance and Leasing]] for large general lessor peer context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-NEC Capital Solutions Limited is a **mid-sized general leasing company linked to the [[JapanFG/INDEX|日本電気 (NEC)]] group**, listed on TSE PRIME under **8793**. It was founded in 1978-08  as the former Japan Electric Leasing Co., Ltd. to lease NEC-related equipment, then changed names into the current NEC Capital Solutions. Its core is **NEC Group vendor finance for IT solutions, telecommunications equipment, and industrial equipment**, while it has also expanded into non-NEC deals such as medical equipment, industrial facilities, ships / aircraft, and the public sector. NEC's ownership is in the 37-40% range and treated under the equity method, so it is not a consolidated subsidiary, but strategic and sales cooperation remains close. Peers include vendor-linked names such as [[JapanFG/hitachi-capital|日立キャピタル]], Fujitsu Leasing, Ricoh Leasing, and [[JapanFG/ricoh-leasing|リコーリース]], as well as large general lessors [[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|三井住友ファイナンス&リース]].
+NEC Capital Solutions Limited is a **mid-sized general leasing company linked to the NEC group**, listed on TSE PRIME under **8793**. It was founded in 1978-08 as the former Japan Electric Leasing Co., Ltd. to lease NEC-related equipment, then changed its name to the current NEC Capital Solutions. Its core is **NEC Group vendor finance for IT solutions, telecommunications equipment, and industrial equipment**, while it has also expanded into non-NEC deals such as medical equipment, industrial facilities, ships / aircraft, and the public sector. NEC's ownership is in the 37-40% range and treated under the equity method, so it is not a consolidated subsidiary, but strategic and sales cooperation remains close. Peers include vendor-linked names such as [[JapanFG/hitachi-capital|former Hitachi Capital]], Fujitsu Leasing, Ricoh Leasing, and [[JapanFG/ricoh-leasing|Ricoh Leasing]], as well as large general lessors [[JapanFG/orix-corp|ORIX]] / [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/tokyo-century|Tokyo Century]] / [[JapanFG/smfl|Sumitomo Mitsui Finance and Leasing]].
 
 ## 1. Entity / shareholders
 
 - **Name**: NEC Capital Solutions Limited.
-- **Established**: 1978 年 8 月 as the former Japan Electric Leasing Co., Ltd.
-- **Name change**: renamed NEC Capital Solutions Limited in 2002 年 4 月.
-- **Head office**: Shinagawa Intercity C Tower, 15 -3 号, Konan 2 -chome, Minato-ku, Tokyo, 〒108-6219 .
-- **Capital**: 37 億円.
+- **Established**: 1978-08 as the former Japan Electric Leasing Co., Ltd.
+- **Name change**: renamed NEC Capital Solutions Limited in 2002-04.
+- **Head office**: Shinagawa Intercity C Tower, 15-3, Konan 2-chome, Minato-ku, Tokyo, 108-6219.
+- **Capital**: JPY 3.7 billion.
 - **Listing segment**: TSE PRIME **8793**.
 - **Major shareholder**: NEC Corporation, with an equity-method ownership ratio in the 30-40% range; trust accounts, affiliates, and trading partners also appear in the register.
 - **Representative**: President and Representative Director.
-- **Employees**: approximately 500 名 non-consolidated and approximately 800 名 consolidated.
+- **Employees**: approximately 500 non-consolidated and approximately 800 consolidated.
 
 ## 2. Licenses / industry registration
 
@@ -58,8 +58,8 @@ NEC Capital Solutions Limited is a **mid-sized general leasing company linked to
 
 | Category | Players | Scale image |
 |---|---|---|
-| Large general leasing | [[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]] / [[JapanFG/mizuho-lease|みずほリース]] | Operating assets around 5 兆 to 10 兆円 |
-| Vendor-linked leasing | **NEC Capital** / [[JapanFG/hitachi-capital|日立キャピタル]], now integrated into Mitsubishi HC Capital, Fujitsu Leasing, [[JapanFG/ricoh-leasing|リコーリース]], Canon Finance | Operating assets around 5,000 億 to the trillion-yen range |
+| Large general leasing | [[JapanFG/orix-corp|ORIX]] / [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/tokyo-century|Tokyo Century]] / [[JapanFG/smfl|SMFL]] / [[JapanFG/mizuho-lease|Mizuho Leasing]] | Operating assets around JPY 5-10 trillion |
+| Vendor-linked leasing | **NEC Capital** / [[JapanFG/hitachi-capital|former Hitachi Capital]], now integrated into Mitsubishi HC Capital, Fujitsu Leasing, [[JapanFG/ricoh-leasing|Ricoh Leasing]], Canon Finance | Operating assets around JPY 500 billion to JPY 1 trillion |
 | Bank-linked leasing | Megabank-affiliated leasing companies | Several trillion yen in operating assets |
 | Trading-house-linked leasing | Mitsui & Co. and Itochu-linked names | Hundreds of billions to trillion-yen scale |
 
@@ -78,12 +78,12 @@ NEC Capital is a representative mid-sized vendor-linked lessor.
 
 | Item | Scale image |
 |---|---|
-| Consolidated operating assets | Around the 9,000 億円 to 1 兆円 range |
-| Consolidated operating revenue | 1,500-2,000 億円 range |
-| Consolidated ordinary profit | 100 億円 range |
+| Consolidated operating assets | Around JPY 900 billion to JPY 1 trillion |
+| Consolidated operating revenue | JPY 150-200 billion range |
+| Consolidated ordinary profit | Around JPY 10 billion |
 | Listing | TSE PRIME 8793  |
 | NEC ownership ratio | 37-40% range, equity-method affiliate |
-| Employees, consolidated | Approximately 800 名 |
+| Employees, consolidated | Approximately 800 |
 
 For details, see EDINET securities reports and NEC Capital IR earnings releases.
 
@@ -97,13 +97,13 @@ For details, see EDINET securities reports and NEC Capital IR earnings releases.
 
 ## Related
 
-- [[JapanFG/hitachi-capital|日立キャピタル]]: vendor-linked competitor, legacy route
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]: post-integration vendor-linked major player
-- [[JapanFG/ricoh-leasing|リコーリース]]: vendor-linked competitor
-- [[JapanFG/tokyo-century|東京センチュリー]]: large general lessor
-- [[JapanFG/orix-corp|オリックス]]: largest general lessor
+- [[JapanFG/hitachi-capital|former Hitachi Capital]]: vendor-linked competitor, legacy route
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]: post-integration vendor-linked major player
+- [[JapanFG/ricoh-leasing|Ricoh Leasing]]: vendor-linked competitor
+- [[JapanFG/tokyo-century|Tokyo Century]]: large general lessor
+- [[JapanFG/orix-corp|ORIX]]: largest general lessor
 - [[JapanFG/smfl|SMFL]]: bank-linked leasing
-- [[JapanFG/mizuho-lease|みずほリース]]: bank-linked leasing
+- [[JapanFG/mizuho-lease|Mizuho Leasing]]: bank-linked leasing
 - [[JapanFG/INDEX|JapanFG index]]
 - [[banking/INDEX|Banking domain index]]
 

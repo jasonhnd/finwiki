@@ -10,9 +10,9 @@ translated_at: 2026-05-31T06:16:15.663Z
 
 # Circle Arc 战略 · 发行方收回 50% 分发权 §501  终局
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]]。相邻监管语境见 [[fintech/japan-financial-regulation|日本金融监管：代币、加密资产与支付法体系]]；更广泛的制度边界见 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制的三层结构（JPYC、USDC、Project Pax）]]。
 
 > [!info] TL;DR
 > Circle 于 2025.09  发布的 Arc（自运营 L1）的真正战略目标 = **Arc 上的 USDC 利息无需向 Coinbase 分配 50%** —— 这是经济问题而非技术问题。若 USDC 在 Arc 上将流通量从 $0  增至 $5B，Circle 可额外保留的利息 = $5B × 4.5% × 50% = **$112.5M/年**的净增收（无需新增 USDC 发行量）。这是稳定币发行方与分发方之间均衡重构的核心样本。
@@ -23,7 +23,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Circle 向 Coinbase 分配 50% 利息 = $905M/年（2024），是回收目标的潜在规模 ^[extracted]
 - Arc 与 Circle 现有 CCTP 兼容 = Circle 自主控制分发渠道 ^[extracted]
 
-## Mechanism / How it works
+## 激励重构机制
 
 **表面叙事 vs 实际战略**：
 
@@ -50,7 +50,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 2018-2024  = Coinbase + Circle 联盟稳定 · 维持 50/50 。2024.Q4  = Stripe / Visa / SC 入场 · 多个稳定币 L1  项目浮现（[[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] / Codex / Plasma）· 改变 Circle 的外部备选集合。2025.07  = GENIUS Act §501  合规标准化 · Circle 不再需要 Coinbase 的"合规背书"。2025.09  = Arc 发布 = Circle 使用"垂直整合"筹码迫使 Coinbase 重新谈判。2026  Arc 主网上线 = 谈判进入实战阶段，需要通过与 [[systems/cctp-v2-overview|CCTP v2]] 的桥接来稀释 Base 单链锁定。
 
-**历史类比**：Visa/万事达卡与发卡行之间的交换费重新谈判 · Apple ↔ Google 搜索默认合同（2024  反垄断）· 微软 ↔ IBM OS 合同（1990 年 年代）。**核心规律**：分发侧占据总价值 50% 的协议，在监管/技术变革窗口期必然被重新谈判。
+**历史类比**：Visa/万事达卡与发卡行之间的交换费重新谈判 · Apple ↔ Google 搜索默认合同（2024  反垄断）· 微软 ↔ IBM OS 合同（20 世纪 90 年代）。**核心规律**：分发侧占据总价值 50% 的协议，在监管/技术变革窗口期必然被重新谈判。
 
 ## Related
 <!-- wiki-links:managed -->

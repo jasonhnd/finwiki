@@ -16,28 +16,28 @@ This entry sits under [[payments/INDEX|payments index]] as the QUO Card gift-car
 
 ## TL;DR
 
-**QUO Card (クオカード)** is the **principal Japan paper-and-digital gift-card franchise**, issued by **株式会社クオカード (QUO Card Co Ltd)**, the third-party prepaid franchise originally launched 1987 as part of the Nippon Telegraph & Telephone (NTT) group prepaid card lineage and now operated as an independent prepaid-payment-instrument issuer registered with FSA. QUO Card is **widely used as corporate gifts, shareholder benefit (株主優待), promotional rewards, and survey-respondent incentives** in Japan because of its broad merchant acceptance, denominational flexibility (¥500 / ¥1,000 / ¥2,000 / ¥3,000 / ¥5,000 / ¥10,000), and the ability to print custom designs for corporate users (オリジナルQUOカード). The **QUO Card Pay (クオカードPay)** digital extension launched 2019 as a URL / barcode-based digital gift sent via email or messaging app, expanding the franchise from paper-card to digital-gift distribution. Acceptance spans convenience stores (Lawson, FamilyMart, MiniStop, Daily Yamazaki, Seicomart, NewDays — but **not 7-Eleven**), drugstores, gas stations, restaurants, bookstores, and other retail.
+**QUO Card** is the **principal Japan paper-and-digital gift-card franchise**, issued by **QUO Card Co., Ltd.**, the third-party prepaid franchise originally launched 1987 as part of the Nippon Telegraph & Telephone (NTT) group prepaid card lineage and now operated as an independent prepaid-payment-instrument issuer registered with FSA. QUO Card is **widely used as corporate gifts, shareholder benefits, promotional rewards, and survey-respondent incentives** in Japan because of its broad merchant acceptance, denominational flexibility (¥500 / ¥1,000 / ¥2,000 / ¥3,000 / ¥5,000 / ¥10,000), and the ability to print custom designs for corporate users. The **QUO Card Pay** digital extension launched 2019 as a URL / barcode-based digital gift sent via email or messaging app, expanding the franchise from paper-card to digital-gift distribution. Acceptance spans convenience stores (Lawson, FamilyMart, MiniStop, Daily Yamazaki, Seicomart, NewDays — but **not 7-Eleven**), drugstores, gas stations, restaurants, bookstores, and other retail.
 
 ## Issuer and operational structure
 
 | Dimension | Reading |
 |---|---|
-| Operating company | 株式会社クオカード (QUO Card Co Ltd) |
+| Operating company | QUO Card Co., Ltd. |
 | Group context | Independent prepaid-card issuer; original NTT group lineage |
-| FSA prepaid issuer | QUO Card appears in FSA `daisan.xlsx` 第三者型 prepaid issuer list |
+| FSA prepaid issuer | QUO Card appears in FSA `daisan.xlsx` third-party prepaid issuer list |
 | Launch year | 1987 (original QUO Card paper); 2019 (QUO Card Pay digital) |
 | Technology | Paper card with magnetic stripe (paper QUO Card); URL / barcode (QUO Card Pay) |
 | Denominations | ¥500, ¥1,000, ¥2,000, ¥3,000, ¥5,000, ¥10,000 (¥500 / ¥1,000 most common gift denominations) |
-| Custom designs | オリジナルQUOカード — companies can print branded card designs for corporate gifts |
+| Custom designs | Custom QUO Cards — companies can print branded card designs for corporate gifts |
 | Distribution rail | Direct sale at convenience stores, online via QUO Card site, B2B bulk corporate purchase, shareholder-benefit distribution |
 | QUO Card Pay format | URL / barcode delivered via email / LINE / SMS; scanned at register for payment |
 
-## Legal basis: 前払式支払手段
+## Legal basis: prepaid payment instruments
 
-QUO Card is registered as a **第三者型前払式支払手段** under [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] Chapter 3. The QUO Card franchise was one of the early-generation paper-prepaid products that helped shape the Payment Services Act's prepaid framework. Key regulatory consequences:
+QUO Card is registered as a **third-party prepaid payment instrument** under [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act]] Chapter 3. The QUO Card franchise was one of the early-generation paper-prepaid products that helped shape the Payment Services Act's prepaid framework. Key regulatory consequences:
 
 - QUO Card Co Ltd appears in [[payments/prepaid-payment-instrument-issuers-japan-index|FSA `daisan.xlsx`]] as registered third-party prepaid issuer.
-- Half-yearly **unused-balance deposit** obligation (供託) with Legal Affairs Bureau — given QUO Card's substantial outstanding paper-card balance (multi-year card lifespan, common gift-card unredeemed pattern), the deposit obligation is material.
+- Half-yearly **unused-balance deposit** obligation with the Legal Affairs Bureau — given QUO Card's substantial outstanding paper-card balance (multi-year card lifespan, common gift-card unredeemed pattern), the deposit obligation is material.
 - **No refunding to original payer except at issuance discontinuation** — paper QUO Cards are explicitly non-refundable.
 - **Breakage** — paper QUO Cards have a long unredeemed-balance pattern (gift cards forgotten in drawers, never used past denomination expiry); breakage is a material P&L contributor for the franchise.
 - AML / KYC carve-outs under PSA prepaid thresholds.
@@ -48,9 +48,9 @@ QUO Card's economic role is principally **corporate / B2B gift distribution** ra
 
 | Use case | Description |
 |---|---|
-| **株主優待** (Shareholder benefit) | Listed-company shareholder gift programs frequently distribute QUO Cards as the shareholder-benefit asset. The denominational flexibility and broad acceptance fit shareholder-benefit distribution well. |
+| **Shareholder benefits** | Listed-company shareholder gift programs frequently distribute QUO Cards as the shareholder-benefit asset. The denominational flexibility and broad acceptance fit shareholder-benefit distribution well. |
 | **Survey-respondent / aspirant incentives** | Market-research firms commonly issue QUO Cards as participant compensation (¥500 / ¥1,000 typical). |
-| **Corporate gifts / Year-end お歳暮** | B2B-to-employee / customer corporate gift distribution. |
+| **Corporate gifts / year-end gift distribution** | B2B-to-employee / customer corporate gift distribution. |
 | **Promotional / campaign rewards** | Sales-incentive, anniversary-gift, advertising-promotion premiums. |
 | **Bulk B2B purchase** | Companies purchase paper QUO Cards in bulk at slight discount for use across multiple internal distribution programs. |
 | **QUO Card Pay digital gift** | Email / LINE-delivered digital gift card increasingly used for online survey, app-promotion, and remote-work-era distribution where paper delivery is impractical. |
@@ -62,22 +62,22 @@ The acceptance network excludes **7-Eleven** — a structural quirk because Seve
 | Tier | Acceptance |
 |---|---|
 | Convenience stores | Lawson, FamilyMart, MiniStop, Daily Yamazaki, Seicomart, NewDays — **not** 7-Eleven |
-| Drugstores | マツモトキヨシ, ココカラファイン, スギ薬局, ウエルシア (selected) and others |
-| Gas stations | ENEOS, JX, 出光, コスモ石油 (selected) |
+| Drugstores | Matsumoto Kiyoshi, Cocokara Fine, Sugi Pharmacy, Welcia (selected) and others |
+| Gas stations | ENEOS, JX, Idemitsu, Cosmo Oil (selected) |
 | Restaurants / fast food | Selected chain restaurants |
 | Bookstores | Kinokuniya, Maruzen, Sanseido, Junkudo, Bunkyodo |
 | Other | Hanamasa, hotel chains, some specialty retail |
 
 ## QUO Card Pay: digital extension
 
-**QUO Card Pay (クオカードPay)** launched 2019 as a **digital gift card delivered via URL / barcode** through email, LINE, or SMS:
+**QUO Card Pay** launched 2019 as a **digital gift card delivered via URL / barcode** through email, LINE, or SMS:
 
 - Recipient receives URL → opens at participating merchant register → barcode / QR scanned for payment.
 - No app installation required; no IC or FeliCa hardware needed.
 - Useful for **remote distribution** — online survey rewards, app-promotion incentives, work-from-home incentives, employee-recognition programs.
 - Sender (corporate or individual) purchases credit on QUO Card Pay site and distributes to recipients.
 - Acceptance overlap with paper QUO Card but distinct merchant integration — not 1:1 identical acceptance network.
-- Distinct from [[payments/japan-code-payment-competitive-map|wallet-style code payments]] like PayPay / au PAY / d払い — QUO Card Pay is a **single-use gift** with no recharge / topup functionality.
+- Distinct from [[payments/japan-code-payment-competitive-map|wallet-style code payments]] like PayPay / au PAY / d Payment — QUO Card Pay is a **single-use gift** with no recharge / topup functionality.
 
 ## KPI snapshot
 
@@ -87,7 +87,7 @@ The acceptance network excludes **7-Eleven** — a structural quirk because Seve
 | Annual gift-card issuance value | Multi-hundred-billion-yen scale (industry estimates) |
 | Acceptance points (paper QUO Card) | ~60,000+ stores nationwide |
 | QUO Card Pay coverage | Expanding since 2019 launch |
-| 株主優待 distribution share | One of the most-used shareholder-benefit asset types in Japan |
+| Shareholder-benefit distribution share | One of the most-used shareholder-benefit asset types in Japan |
 
 Exact figures live in QUO Card Co Ltd public disclosure and gift-card industry reports.
 
@@ -96,7 +96,7 @@ Exact figures live in QUO Card Co Ltd public disclosure and gift-card industry r
 QUO Card's strategic positioning:
 
 1. **Non-retail-anchored neutrality** — unlike [[payments/waon-prepaid-aeon|WAON]] (AEON) / [[payments/nanaco-prepaid-seven-i|nanaco]] (Seven & i), QUO Card has no retail-anchor parent and is positioned as a **neutral gift currency** acceptable across multiple chains.
-2. **Corporate B2B sales focus** — bulk corporate purchase, custom design printing, 株主優待 distribution are the principal revenue lanes.
+2. **Corporate B2B sales focus** — bulk corporate purchase, custom design printing, and shareholder-benefit distribution are the principal revenue lanes.
 3. **Paper + digital coexistence** — paper card remains the dominant format for traditional corporate gift, while QUO Card Pay captures remote / digital distribution growth.
 4. **Breakage economics** — long unredeemed-balance pattern is a structural P&L tailwind.
 5. **Acceptance moat** — broad cross-merchant footprint (ex-7-Eleven) supports the gift-currency positioning.

@@ -12,7 +12,7 @@ translated_at: 2026-05-30T17:04:08.790Z
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/privy-embedded-wallet-overview|Privy · Stripe 傘下の埋込型セルフカストディウォレット(総覧)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI agent payment protocols overview: seven-protocol survey]]. Read it against [[agent-economy/privy-embedded-wallet-overview|Privy: Stripe-owned embedded self-custody wallet overview]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
@@ -52,20 +52,20 @@ The more integrators there are → the more users can have their wallet "follow 
 
 **Privy = "Stripe of Web3  wallets"** has been the core of a16z / Sequoia's investment logic since 2024.Q4  · validated by AWS AgentCore in 2025-2026 .
 
-**The key §501 -regulation-friendly design**: the user's USDC / USDB balance lives **directly in the user's on-chain wallet** (Privy / CDP-derived address) · Privy / CDP itself **does not hold user balances** (MPC + TEE isolation) · it provides only key management / signing services → neither a money transmitter · nor a custodian (see [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] · in vivid contrast with [[exchanges/cex-matching-engine-wallet-architecture|CEX カストディモデル]]).
+**The key §501 -regulation-friendly design**: the user's USDC / USDB balance lives **directly in the user's on-chain wallet** (Privy / CDP-derived address) · Privy / CDP itself **does not hold user balances** (MPC + TEE isolation) · it provides only key management / signing services → neither a money transmitter · nor a custodian (see [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist mandate]] · in vivid contrast with [[exchanges/cex-matching-engine-wallet-architecture|CEX custody model]]).
 
 ## Origin & evolution
 
-2018-2022  = MetaMask-led · users install proactively. 2023-2024  = Privy / Magic / CDP cut into b2b SaaS · 1000+ dApps integrate by default (for the spread of the technical foundation, see [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 埋込ウォレット採用]]). 2025.07  = AWS AgentCore selects Privy as the default · the embedded wallet is upgraded from a crypto tool to general payment infrastructure. 2025-2026  the Tempo / Base / Arc ecosystems are expected to collectively adopt embedded wallets (rather than build their own) · the "industry-wide default" configuration takes shape.
+2018-2022  = MetaMask-led · users install proactively. 2023-2024  = Privy / Magic / CDP cut into b2b SaaS · 1000+ dApps integrate by default (for the spread of the technical foundation, see [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded-wallet adoption]]). 2025.07  = AWS AgentCore selects Privy as the default · the embedded wallet is upgraded from a crypto tool to general payment infrastructure. 2025-2026  the Tempo / Base / Arc ecosystems are expected to collectively adopt embedded wallets (rather than build their own) · the "industry-wide default" configuration takes shape.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|埋込ウォレット中抜き · 総覧]]
-- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe 5層 Trojan horse]]
-- [[fintech/ai-payment-two-tracks|AI 決済の二軌道]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded-wallet disintermediation overview]]
+- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe five-layer Trojan horse]]
+- [[fintech/ai-payment-two-tracks|Two tracks of AI payments]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|On-chain finance vs crypto-culture bifurcation]]
 <!-- /wiki-links:managed -->
 
 ## Sources

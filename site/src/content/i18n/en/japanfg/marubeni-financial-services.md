@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.312Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mizuho-lease|みずほリース]] (the listed leasing arm where Marubeni became a strategic shareholder in 2024) and [[JapanFG/fuyo-lease|芙蓉総合リース]] (the Fuyo Group peer leasing arm — Marubeni is part of the Fuyo community). For peer trading-house group-treasury arms, see [[JapanFG/mitsubishi-corp-finance|三菱商事FS]], [[JapanFG/mitsui-bussan-financial-services|三井物産FS]], [[JapanFG/sumitomo-corp-financial-management|住友商事FM]], [[JapanFG/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mizuho-lease|Mizuho Leasing]] and [[JapanFG/fuyo-lease|Fuyo General Lease]] for leasing-sector context. For peer trading-house group-treasury arms, see [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]], [[JapanFG/mitsui-bussan-financial-services|Mitsui & Co. Financial Services]], [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], and [[JapanFG/itochu-finance|ITOCHU Finance]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company Overview
 
@@ -23,9 +23,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | Layer | Entity | Role |
 |---|---|---|
-| **External-facing banks (main relationship)** | [[JapanFG/mizuho-fg|みずほ FG]] / [[JapanFG/mizuho-bank|みずほ銀行]] | Commercial banking and external financial services |
-| **External-facing leasing (main)** | [[JapanFG/mizuho-lease|みずほリース]] | Marubeni joined as a strategic shareholder in 2024 年 |
-| **External-facing leasing (Fuyo)** | [[JapanFG/fuyo-lease|芙蓉総合リース]] (8424) | Fuyo Group lineage; Marubeni is also a historical shareholder |
+| **External-facing banks (main relationship)** | [[JapanFG/mizuho-fg|Mizuho FG]] / [[JapanFG/mizuho-bank|Mizuho Bank]] | Commercial banking and external financial services |
+| **External-facing leasing (main)** | [[JapanFG/mizuho-lease|Mizuho Leasing]] | Marubeni joined as a strategic shareholder in 2024 |
+| **External-facing leasing (Fuyo)** | [[JapanFG/fuyo-lease|Fuyo General Lease]] (8424) | Fuyo Group lineage; Marubeni is also a historical shareholder |
 | **Non-life insurance (Fuyo lineage)** | [[JapanFG/tokio-marine|東京海上HD]] | Major Fuyo Group non-life insurer |
 | **Internal / group finance** | **Marubeni Finance Corporation (this page)** | Internal banking / CMS / internal factoring for group companies |
 
@@ -44,13 +44,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | Trading house | Internal finance subsidiary | External-facing leasing arm |
 |---|---|---|
-| Marubeni | **Marubeni Finance Corporation (this page)** | [[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder from 2024 onward) / [[JapanFG/fuyo-lease|芙蓉総合リース]] |
-| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (listed) |
-| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] | [[JapanFG/ja-mitsui-leasing|JA三井リース]] |
+| Marubeni | **Marubeni Finance Corporation (this page)** | [[JapanFG/mizuho-lease|Mizuho Leasing]] (strategic shareholder from 2024 onward) / [[JapanFG/fuyo-lease|Fuyo General Lease]] |
+| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed) |
+| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|Mitsui & Co. Financial Services]] | [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] |
 | Sumitomo Corporation | [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] | [[JapanFG/smfl|SMFL]] (SMFG joint venture) |
-| Itochu | [[JapanFG/itochu-finance|伊藤忠ファイナンス]] | [[JapanFG/tokyo-century|東京センチュリー]] (Mizuho joint venture, listed) |
-| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | In-group captive |
-| Sojitz | [[JapanFG/sojitz-finance|双日フィナンス]] | No dedicated operator |
+| Itochu | [[JapanFG/itochu-finance|ITOCHU Finance]] | [[JapanFG/tokyo-century|Tokyo Century]] (Mizuho joint venture, listed) |
+| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] | In-group captive |
+| Sojitz | [[JapanFG/sojitz-finance|Sojitz Finance]] | No dedicated operator |
 
 ## 4. Regulation and Policy
 
@@ -65,18 +65,18 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Related
 
-- [[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder from 2024 onward)
-- [[JapanFG/fuyo-lease|芙蓉総合リース]] (Fuyo Group peer)
-- [[JapanFG/mizuho-fg|みずほ FG]] (main relationship bank)
+- [[JapanFG/mizuho-lease|Mizuho Leasing]] (strategic shareholder from 2024 onward)
+- [[JapanFG/fuyo-lease|Fuyo General Lease]] (Fuyo Group peer)
+- [[JapanFG/mizuho-fg|Mizuho FG]] (main relationship bank)
 - [[JapanFG/tokio-marine|東京海上HD]] (Fuyo Group non-life insurer)
 - [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (peer)
 - [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (peer)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
+- [[JapanFG/itochu-finance|ITOCHU Finance]] (peer)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 

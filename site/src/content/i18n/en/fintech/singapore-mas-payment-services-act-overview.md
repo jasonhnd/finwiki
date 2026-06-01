@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.145Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation: legal framework for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the three-layer structure of JPYC, USDC, and Project Pax]] for the broader system boundary.
 
 > [!info] TL;DR
 > Singapore MAS Payment Services Act (2019) + Stablecoin Framework (2023-08  SCS category) + DTSP Regime (2024-04  amendment) = Asia's most complete crypto-payment legislative stack. The SCS (Single-Currency Stablecoin) category requires 100% reserves + daily attestation + AAA-rated assets, making it stricter than HKMA and earlier. Singapore and the U.S. Treasury reached an MRA in 2026-03 , making Singapore the first Asian entrant under §501(d).
@@ -39,20 +39,20 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - SCS license: issuance of SGD-pegged or G10-pegged stablecoins → MAS-regulated status required
 - USDC in Singapore: distributed via Circle Singapore (DPT-licensed), but issuance of USDC itself is regulated under GENIUS §501  and does not fall under MAS SCS
 
-For the detailed institutional hierarchy of the DPT licensing regime, see [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT ライセンス概観]].
+For the detailed institutional hierarchy of the DPT licensing regime, see [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT licensing overview]].
 
 ## Origin & evolution
 
-2019  The PS Act established the legal basis for 6  payment-service categories. 2020-2022  DPT licensing began, and Coinbase / Crypto.com / StraitsX and others gradually obtained licenses. 2023-08  The SCS Framework was published (Asia's first complete SC sub-framework, 2  years ahead of [[fintech/hkma-stablecoin-licensing-overview|HKMA]]). 2024-04  DTSP Regime amendments closed the gray zone of overseas service provision from a Singapore hub, pushing non-compliant forces such as USDT away from the hub strategy. 2026-03  Singapore-US MRA concluded → first Asian inclusion wave under §501(d). For cross-Asia / global VASP comparisons, see [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリックス]].
+2019  The PS Act established the legal basis for 6  payment-service categories. 2020-2022  DPT licensing began, and Coinbase / Crypto.com / StraitsX and others gradually obtained licenses. 2023-08  The SCS Framework was published (Asia's first complete SC sub-framework, 2  years ahead of [[fintech/hkma-stablecoin-licensing-overview|HKMA]]). 2024-04  DTSP Regime amendments closed the gray zone of overseas service provision from a Singapore hub, pushing non-compliant forces such as USDT away from the hub strategy. 2026-03  Singapore-US MRA concluded → first Asian inclusion wave under §501(d). For cross-Asia / global VASP comparisons, see [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison matrix]].
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS 戦略的含意 + HK との対比]]
-- [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコインライセンス概観]]
+- [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS strategic implications and comparison with Hong Kong]]
+- [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing overview]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC issuer · DPT 流通主体]]
+- [[fintech/three-circles-stablecoin-mra-framework|three-circle MRA framework]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC issuer · DPT distribution entity]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -4,47 +4,21 @@ source_hash: 10cf85edb251d244
 lang: zh
 status: machine
 fidelity: ok
-title: "Cr?dit Agricole Life Insurance"
+title: "法国农业信贷人寿日本"
 translated_at: 2026-05-31T15:29:03.905Z
 ---
-# Cr?dit Agricole Life Insurance
-# クレディ・アグリコル生命保険
 
+# 法国农业信贷人寿日本
 
-## Wiki ??
+## Wiki 路线
 
-????? [[JapanFG/INDEX|JapanFG index]]. ?? [[JapanFG/cardif-life|カーディフ生命保険]] ?????????? / ??????? [[insurance/INDEX|insurance index]] ??????????? / ?????
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[JapanFG/cardif-life|Cardif Life]]、[[insurance/INDEX|保险索引]] 和外资寿险公司页面配套阅读。
 
-## TL;DR
+## 概要
 
-クレディ・アグリコル生命保険株式会社は、金融庁 life-insurer list に掲載される Credit Agricole group の Japan life-insurance operating company。[[JapanFG/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] や asset-management context ではなく、bancassurance-oriented life insurer として分けて扱う。
+クレディ・アグリコル生命保険株式会社是 Crédit Agricole / Crédit Agricole Assurances 相关的日本寿险实体。FinWiki 中，本页用于记录外资寿险公司在日本的许可、集团边界和公开业务位置。
 
-## 1. License / group boundary
+## Sources
 
-| ?? | ?? |
-|---|---|
-| ???? | クレディ・アグリコル生命保険株式会社 |
-| ???? | ?????????????????????????? |
-| ???? | ?????????? |
-| ???? | Credit Agricole Assurances Japan subsidiary |
-| Wiki ?? | ??????????? |
-
-## 2. Why this page matters
-
-- FSA 41 life-insurer exact-name gap.
-- Useful peer for [[cardif-life]], [[dai-ichi-frontier-life]], and [[td-financial-life]] in bancassurance / financial-institution channels.
-- Adds Credit Agricole insurance surface to JapanFG without flattening it into banking.
-
-## ??
-
-- [[cardif-life]]
-- [[credit-agricole-bank-japan]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
-- [[insurance/life-insurance-channel-mix]]
-
-## ??
-
-- ??????????????, as of 2026-04-13.
-- ???????????????, as of 2026-04-13.
-- Credit Agricole Life Japan ??????.
+- FSA insurance-company license list.
+- Crédit Agricole Life Japan public information.

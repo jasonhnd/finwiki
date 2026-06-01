@@ -12,11 +12,11 @@ translated_at: 2026-05-31T11:13:44.840Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/paypay-fg|PayPay 金融グループ]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/paypay-fg|PayPay 金融Group]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ##TL;DR
 
-KDDI 100% subsidiary, holding company of KDDI Financial Economic Zone. **2019-04-01 Established**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY General Insurance / au Asset Management** etc. 2025-01-31 Acquired all shares of au Jibun Bank from MUFG (as consideration, sold former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **Completed making bank 100% a subsidiary**. **FY2026/3  Operating profit 432 億円** (Previous period 406 億円, +6.4% / CAGR FY2023+ **30.4%**), **Total assets approximately 9.3 兆円**. **2026-05-12 KDDI officially discloses in a timely manner the start of preparations for listing auFH on the Tokyo Stock Exchange** — First IPO candidate for telecommunications FG (timing undecided, KDDI plans to continue as major shareholder even after listing). au Ponta + 2024-07 Lawson 50/50 JV is building a "communications x convenience store x finance" ecosystem. A corner of the communication FG 4  pole ([[ndfg]] / au-FH / [[paypay-fg]] / [[rakuten-fg]]). ^[extracted]
+KDDI 100% subsidiary, holding company of KDDI Financial Economic Zone. **2019-04-01 Established**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY General Insurance / au Asset Management** etc. 2025-01-31 Acquired all shares of au Jibun Bank from MUFG (as consideration, sold former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **Completed making bank 100% a subsidiary**. **FY2026/3  Operating profit 432 hundred million yen** (Previous period 406 hundred million yen, +6.4% / CAGR FY2023+ **30.4%**), **Total assets approximately 9.3 trillion yen**. **2026-05-12 KDDI officially discloses in a timely manner the start of preparations for listing auFH on the Tokyo Stock Exchange** — First IPO candidate for telecommunications FG (timing undecided, KDDI plans to continue as major shareholder even after listing). au Ponta + 2024-07 Lawson 50/50 JV is building a "communications x convenience store x finance" ecosystem. A corner of the communication FG 4  pole ([[ndfg]] / au-FH / [[paypay-fg]] / [[rakuten-fg]]). ^[extracted]
 
 ## 1. Company Profile
 
@@ -27,7 +27,7 @@ KDDI 100% subsidiary, holding company of KDDI Financial Economic Zone. **2019-04
 **Parent company**: **KDDI Corporation (100%)** ^[extracted]
 **Position**: KDDI Personal Segment “Financial Business” Core Company ^[extracted]
 **Listed**: Unlisted (KDDI wholly owned subsidiary) → **2026-05-12 KDDI will officially disclose in a timely manner that preparations have begun for listing on the TSE** (timing to be determined, KDDI plans to remain a major shareholder even after listing)^[extracted]
-**Total assets**: **approx. 9.3 兆円** (public value at the time of the listing-preparation announcement for the 2026-03  period) ^[extracted]
+**Total assets**: **approx. 9.3 trillion yen** (public value at the time of the listing-preparation announcement for the 2026-03  period) ^[extracted]
 
 ### KPI results (KDDI official IR/au Jibun Bank official PR base)
 
@@ -36,49 +36,49 @@ KDDI 100% subsidiary, holding company of KDDI Financial Economic Zone. **2019-04
 |Expect|Operating profit|YoY|
 |---|---|---|
 |FY2023/3 |Starting point (calculated from CAGR)|—|
-|FY2025/3 |**406 億円**|—|
-|FY2026/3 |**432 億円**|**+6.4%**（FY2023 比 CAGR **+30.4%**）|
+|FY2025/3 |**406 hundred million yen**|—|
+|FY2026/3 |**432 hundred million yen**|**+6.4%**（FY2023 比 CAGR **+30.4%**）|
 
 **Main business KPI (latest published value)**^[extracted]
 
 |project|value|Time/Source|
 |---|---|---|
-|**au-FH total assets**|About **9.3 兆円**|2026-03  period / At the time of listing preparation announcement|
-|**au Jibun Bank deposit balance**|**5 兆円 breakthrough**|2025-08-06 Official PR|
-|**au Jibun Bank Deposit Accounts**|**700 万 breakthrough**|2025-09-20 Official PR|
+|**au-FH total assets**|About **9.3 trillion yen**|2026-03  period / At the time of listing preparation announcement|
+|**au Jibun Bank deposit balance**|**5 trillion yen breakthrough**|2025-08-06 Official PR|
+|**au Jibun Bank Deposit Accounts**|**7 million accounts**|2025-09-20 Official PR|
 |au Jibun Bank personal deposit|**YoY +1.3 倍**|FY2026/3  progress|
-|au PAY Card Gold Member|**172 万 member**|FY2026/3  during the period|
-|Ponta pass net increase|**29 万 member (Q2)**|FY2026/3 2Q|
-|au PAY franchise store (拠点)|About 753 万 bases|2025-11-28 time|
+|au PAY Card Gold Member|**1.72 million members**|FY2026/3  during the period|
+|Ponta pass net increase|**290,000 members (Q2)**|FY2026/3 2Q|
+|au PAY franchise store (拠点)|About 7.53 million locations|2025-11-28 time|
 
 **Parent company KDDI consolidated (reference)**^[extracted]
 
 |project|FY2025/3 |FY2026/3 |FY2027/3 Yu|
 |---|---|---|---|
-|Consolidated sales|5 兆 9,180 億円|**6 兆 719 億円**（+4.1%）|6 兆 4,100 億円（+5.6%）|
-|Consolidated operating profit|1 兆 1,187 億円|**1 兆 991 億円**（+1.1%）|1 兆 2,100 億円 (after adjustment +5.0%)|
-|Personal segment sales|—|4 兆 8,127 億円（+2.2%）|—|
-|Personal segment operating income|—|8,283 億円（▲2.1%）|—|
-|Lawson equity method profit/loss|+57 億円（FY25/3 1Q）|▲44 億円 (FY26/3 1Q, next issue’s growth story)|—|
+|Consolidated sales|5 兆 9,180 hundred million yen|**6 兆 719 hundred million yen**（+4.1%）|6 兆 4,100 hundred million yen（+5.6%）|
+|Consolidated operating profit|1 兆 1,187 hundred million yen|**1 兆 991 hundred million yen**（+1.1%）|1 兆 2,100 hundred million yen (after adjustment +5.0%)|
+|Personal segment sales|—|4 兆 8,127 hundred million yen（+2.2%）|—|
+|Personal segment operating income|—|8,283 hundred million yen（▲2.1%）|—|
+|Lawson equity method profit/loss|+57 hundred million yen（FY25/3 1Q）|▲44 hundred million yen (FY26/3 1Q, next issue’s growth story)|—|
 
 ### Major subsidiaries/equity (based on public information)
 
 ```
-au フィナンシャルホールディングス（非上場・KDDI 100%・総資産 9.3兆円・東証上場準備中）
-  ├── auじぶん銀行（100%）── ネット銀行・2025-01-31 MUFG → KDDI 100% 化完了
-  │     ※ 旧称: じぶん銀行（2008 設立、KDDI 50% + 三菱東京 UFJ 銀行 50% 合弁）
-  │       → 2020-05 「auじぶん銀行」改称 → 2025-01-31 KDDI 100% 化
-  │       → 2025-08 預金残高 5兆円突破 / 2025-09 口座数 700万突破
-  ├── auペイメント株式会社（100%）── QR / バーコード決済 au PAY 運営
-  ├── au PAY カード株式会社（100%）── 旧 KDDI フィナンシャルサービス
-  │     ※ ゴールド会員 172万（FY26/3）
-  ├── auフィナンシャルサービス株式会社（100%）── 貸金（個人融資）
-  ├── au PAY 損害保険株式会社（100%）── 旧 au 損保（KDDI + あいおいニッセイ同和損保 合弁発祥）
-  ├── auアセットマネジメント株式会社（100%）── 投信運用
-  ├── ライフネット生命保険株式会社（au-FH が議決権 18.32%・筆頭株主、持分法）── 上場・東証 GROWTH 7157
+au Financial Holdings (unlisted; KDDI 100%; total assets about ?9.3T; preparing for TSE listing)
+  ├── au Jibun Bank（100%）── internet bank; MUFG-to-KDDI 100% transfer completed on 2025-01-31
+  │     ※ former称: Jibun Bank（2008 設立、KDDI 50% + 三菱東京 UFJ 銀行 50% 合弁）
+  │       → 2020-05 「au Jibun Bank」改称 → 2025-01-31 KDDI 100% 化
+  │       → 2025-08 deposits exceeded ?5T / 2025-09 accounts exceeded 7 million
+  ├── au Payment Co., Ltd. (100%) -- operates QR / barcode payment service au PAY
+  ├── au PAY Card Co., Ltd.（100%）── former KDDI FinancialService
+  │     ※ 1.72 million Gold members（FY26/3）
+  ├── auFinancialServiceCo., Ltd.（100%）── 貸金（個人融資）
+  ├── au PAY Insurance Co., Ltd. (100%) -- formerly au Sompo, originated from the KDDI + Aioi Nissay Dowa Insurance JV
+  ├── au Asset ManagementCo., Ltd.（100%）── 投信運用
+  ├── Lifenet Insurance Company (au-FH holds 18.32% of voting rights; largest shareholder; equity-method affiliate) -- TSE Growth 7157
 
-【au-FH 配下から離脱（2025-01-31）】
-   旧 auカブコム証券 → MUFG 100% 化 → 「三菱 UFJ eスマート証券」へ改称
+[Exited au-FH perimeter on 2025-01-31]
+   former au Kabucom Securities -> MUFG 100% ownership -> renamed Mitsubishi UFJ e-Smart Securities
 ```
 
 > Note on entity reorganization: "au Kabucom Securities" was sold to MUFG on 2025-01-31 and renamed to "Mitsubishi UFJ e-Smart Securities." On the same day, the au Jibun Bank shares held by MUFG were transferred to KDDI. au-FH's securities business is in a blank state (as of 2026-05 , there has been no official announcement of new securities function restructuring or partnership).
@@ -100,23 +100,23 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 |2024-04-25|KDDI Lawson TOB termination → 2024-05-07 Settlement → **Lawson becomes KDDI equity method affiliate** ^[extracted]|
 |2024-07-24|**KDDI/Mitsubishi Corporation Lawson joint management begins** (delisted from TSE and made private)|
 |**2025-01-31**|**MUFG ↔ KDDI subsidiary replacement**: MUFG sells all shares of au Jibun Bank to auFH, and MUFG acquires the former au Kabucom Securities (→ Mitsubishi UFJ e-Smart Securities) for consideration 100% ^[extracted]|
-|2025-08-06|**au Jibun Bank deposit balance exceeds 5 兆円** (official PR) ^[extracted]|
-|2025-09-20|**Au Jibun Bank Deposit Accounts Exceeded 700 万** (Official PR) ^[extracted]|
+|2025-08-06|**au Jibun Bank deposit balance exceeds 5 trillion yen** (official PR) ^[extracted]|
+|2025-09-20|**Au Jibun Bank Deposit Accounts Exceeded 7 million** (Official PR) ^[extracted]|
 |**2026-05-12**|**KDDI officially discloses the start of preparations for listing auFH on the TSE in a timely manner** (timing to be determined, KDDI plans to continue as a major shareholder even after listing)^[extracted]|
 
 ### History Topic
 
 > **Jibun Bank Replacement (2025-01-31)**: 2008-06 KDDI 50% + Bank of Tokyo-Mitsubishi UFJ 50% Established as a joint venture, 17  long-standing joint venture relationship has been dissolved. On the same day, MUFG sold 50% to KDDI and completed making KDDI 100% a subsidiary. MUFG acquired the former au Kabucom Securities (under au-FH) for consideration and changed it to Mitsubishi UFJ e-Smart Securities. In a cross-transaction due to the restructuring of both companies' financial strategies, KDDI chose to ``put banks at the core and part with securities.'' ^[extracted]
 
-> **2026-05-12 IPO Preparation Announcement**: KDDI announces official timely disclosure ``About the start of preparations for listing au Financial Holdings, Inc.'s stock on the Tokyo Stock Exchange.'' Bloomberg / Nikkei / Mobile Watch also reported on the same day. First IPO candidate as a telecommunications FG. A strategy to independently disclose to the market a financial platform with total assets 9.3 兆円, FY26/3  operating income 432 億円 (CAGR +30.4%). ^[extracted]
+> **2026-05-12 IPO Preparation Announcement**: KDDI announces official timely disclosure ``About the start of preparations for listing au Financial Holdings, Inc.'s stock on the Tokyo Stock Exchange.'' Bloomberg / Nikkei / Mobile Watch also reported on the same day. First IPO candidate as a telecommunications FG. A strategy to independently disclose to the market a financial platform with total assets 9.3 trillion yen, FY26/3  operating income 432 hundred million yen (CAGR +30.4%). ^[extracted]
 
 ## 2. Business segment map
 
 |segment|main business person|Features/Latest trends|
 |---|---|---|
-|online banking|au Jibun Bank|Old MUFG series → 2025-01-31 KDDI 100%. Deposit 5 兆円・Account 700 万. Shift from dependence on mortgages to a strategy emphasizing loan-to-deposit ratio ^[extracted]|
-|QR/barcode payment|au PAY (au payment)|Member stores 753 万 locations. Ponta collaboration 4000 万 super user base ^[extracted]|
-|credit|au PAY card|Gold member 172 万. KDDI communication charge cooperation ^[extracted]|
+|online banking|au Jibun Bank|Old MUFG series → 2025-01-31 KDDI 100%. Deposit ?5T deposits and 7 million accounts. Shift from dependence on mortgages to a strategy emphasizing loan-to-deposit ratio ^[extracted]|
+|QR/barcode payment|au PAY (au payment)|Member stores 7.53 million locations. Ponta collaboration 40 million super user base ^[extracted]|
+|credit|au PAY card|Gold member 1.72 million. KDDI communication charge cooperation ^[extracted]|
 |loan|au financial service|Personal loan/deferred payment|
 |Non-life insurance|au PAY Damage Protection|Originated as a joint venture between former au Sompo Insurance and Aioi Nissay Dowa Sompo Insurance|
 |life insurance|Lifenet Life (equity method)|Listed/online life insurance|
@@ -128,7 +128,7 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 ### Strategic core: Telecommunications × Convenience store × Financial economic zone + IPO independence
 
 - **au Ponta Points**: 2020-09 KDDI + Mitsubishi Corporation + Loyalty Marketing 3 社 partnership to incorporate Ponta and create a common points base ^[extracted]
-- **Lawson joint management** (announced 2024-02  / completed 2024-07 ): Mitsubishi Corporation 50% + KDDI 50% Joint Ownership. Uses a convenience-store network of about 14,000 店 stores as au PAY / financial-service touchpoints. FY26/3 1Q equity-method profit/loss was ▲44 億円 (second-half growth factored in) ^[extracted]
+- **Lawson joint management** (announced 2024-02  / completed 2024-07 ): Mitsubishi Corporation 50% + KDDI 50% Joint Ownership. Uses a convenience-store network of about 14,000 店 stores as au PAY / financial-service touchpoints. FY26/3 1Q equity-method profit/loss was ▲44 hundred million yen (second-half growth factored in) ^[extracted]
 - **au PAY Market** (formerly Wowma!): EC + au PAY + Ponta orbiting economic zone
 - **TSE IPO preparation** (announced by 2026-05-12): Securing independent procurement methods, management independence/improving transparency, and gaining market recognition as a financial group. KDDI remains a major shareholder. ^[extracted]
 - **Strategy emphasizing loan-to-deposit ratio**: ``Shift from dependence on mortgage loans to a strategy that focuses on competition for deposit procurement'' in a phase of rising interest rates (KDDI 2Q briefing) ^[extracted]
@@ -137,12 +137,12 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 
 |FG|Parent company|bank|core|Listing strategy|
 |---|---|---|---|---|
-|[[ndfg]]|NTT Docomo|[[ssnb|住信SBI→ドコモSMTBネット銀行]] (consolidated subsidiary, 2025-10-01~)|d point/d card|NDFG itself is unlisted, but its subsidiary Monex is listed|
-|**au-FH**|KDDI|au Jibun Bank (100%)|au Ponta・Lawson|**2026-05-12 Announcement of start of preparations for listing on TSE**|
+|[[ndfg]]|NTT Docomo|[[ssnb|SBI Sumishin Net Bank -> Docomo SMTB Net Bank]] (consolidated subsidiary, 2025-10-01~)|d point/d card|NDFG itself is unlisted, but its subsidiary Monex is listed|
+|**au-FH**|KDDI|au Jibun Bank (100%)|au Ponta / Lawson|**2026-05-12 Announcement of start of preparations for listing on TSE**|
 |[[paypay-fg]]|SoftBank Group / Z|PayPay Bank (formerly Japan Net)|PayPay|Via LINE Yahoo|
 |[[rakuten-fg]]|rakuten group|Rakuten Bank (listed)|Rakuten Points/Rakuten Market|Bank/Securities/Card Individual listing|
 
-### Support・M&A
+### Support / M&A
 
 - **MUFG dissolution of partnership** (2025-01-31): 17  dissolution of joint venture for many years, bank becomes KDDI 100% ^[extracted]
 - **Mitsubishi Corporation collaboration** (Lawson + Ponta): 2020  point collaboration → 2024 Lawson deepening relationships through joint management ^[extracted]
@@ -174,13 +174,13 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 - **KDDI 2026 年 3 月 period financial results briefing main material** (2026-05-12) https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_main_T8v6VV.pdf
 - **Denpa Shimbun Digital "KDDI posts higher revenue and profit for the 26  fiscal year 3  period"** (confirms auFH operating profit 432 億 → prior period 406 億) https://dempa-digital.com/article/715282
 - **STOCK EXPRESS "KDDI earnings announcement updates record-high profit"** (confirms auFH listing preparation and CAGR 30.4%) https://stockexpress.jp/kddi20260512/
-- **au Jibun Bank “Deposit balance exceeds 5 兆円”** (2025-08-06) https://www.jibunbank.co.jp/corporate/news/2025/0812_01.html
-- **au Jibun Bank “Number of deposit accounts exceeds 700 万”** (2025-09-20) https://www.jibunbank.co.jp/corporate/news/2025/0912_01.html
-- **Wikipedia: au Financial Holdings** (2026-05-19 extract) https://ja.wikipedia.org/wiki/auフィナンシャルホールディングス
+- **au Jibun Bank “Deposit balance exceeds 5 trillion yen”** (2025-08-06) https://www.jibunbank.co.jp/corporate/news/2025/0812_01.html
+- **au Jibun Bank “Number of deposit accounts exceeds 7 million”** (2025-09-20) https://www.jibunbank.co.jp/corporate/news/2025/0912_01.html
+- **Wikipedia: au Financial Holdings** (2026-05-19 extract) https://ja.wikipedia.org/wiki/au Financial Holdings
 - **Wikipedia: au Jibun Bank** (2026-05-19 extract)https://ja.wikipedia.org/wiki/Au%E3%81%98%E3%81%B6%E3%82%93%E9%8A%80%E8%A1%8C
 - **Lifenet Life Insurance IR “Shareholders/Stock Information (Stock Status)”** (au Financial Holdings Voting Rights 18.32%/14,726,100  shares/largest shareholder, 2026-05-29 confirmed) https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html
 
 ---
 
 > [!info] Check status
-> confidence: **likely** (v1.2  KDDI official IR FY26/3  + au Jibun Bank official PR + 2026-05-12 IPO timely disclosure + Lifenet Life IR, re-verified in 2026-05-29). Because au-FH itself remains unlisted, **revenue is not separately disclosed and only operating profit is published** (FY26/3 432 億円, CAGR +30.4%). Total assets 9.3 兆円, au Jibun Bank deposits 5 兆円, and accounts 700 万 are official figures. **2026-05-29 correction**: the stake in Lifenet Life is not the previous "about 28%" description, but **voting rights 18.32% (auFH largest shareholder / equity-method affiliate)** (confirmed by Lifenet Life IR). **Most important: 2026-05-12 official announcement of TSE listing preparation — first IPO candidate among telecom FGs** — timing, market segment, and fundraising size remain undecided and require continued review. The securities-business gap is factual (no official restructuring announcement as of 2026-05 ). The stablecoin Progmat linkage assessment is isolated to `.opinions`.
+> confidence: **likely** (v1.2  KDDI official IR FY26/3  + au Jibun Bank official PR + 2026-05-12 IPO timely disclosure + Lifenet Life IR, re-verified in 2026-05-29). Because au-FH itself remains unlisted, **revenue is not separately disclosed and only operating profit is published** (FY26/3 432 hundred million yen, CAGR +30.4%). Total assets 9.3 trillion yen, au Jibun Bank deposits 5 trillion yen, and accounts 7 million are official figures. **2026-05-29 correction**: the stake in Lifenet Life is not the previous "about 28%" description, but **voting rights 18.32% (auFH largest shareholder / equity-method affiliate)** (confirmed by Lifenet Life IR). **Most important: 2026-05-12 official announcement of TSE listing preparation — first IPO candidate among telecom FGs** — timing, market segment, and fundraising size remain undecided and require continued review. The securities-business gap is factual (no official restructuring announcement as of 2026-05 ). The stablecoin Progmat linkage assessment is isolated to `.opinions`.

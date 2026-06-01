@@ -4,107 +4,107 @@ source_hash: 8184ad07e1ec311b
 lang: en
 status: machine
 fidelity: ok
-title: "ちばぎん証券 (Chibagin Securities)"
+title: "Chibagin Securities"
 translated_at: 2026-05-31T11:13:44.956Z
 ---
-# ちばぎん証券 (Chibagin Securities)
+# Chibagin Securities
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary securities operating-company anchor for [[chiba-bank|千葉銀行 (Chiba Bank)]]. Read it against parent operating bank [[chiba-bank|千葉銀行]] (no-holding-company 単独銀行 model) and sibling subsidiary [[chibagin-leasing|ちばぎんリース]]. Peer comparison: [[mebuki-securities|めぶき証券]] under [[mebuki-fg|めぶき FG]] (北関東地銀系証券) and [[ffg-securities|FFG 証券]] under [[fukuoka-fg|FFG]] (九州地銀系証券). For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary securities operating-company anchor for [[chiba-bank|Chiba Bank]]. Read it against parent operating bank [[chiba-bank|Chiba Bank]] under the no-holding-company single-bank model and sibling subsidiary [[chibagin-leasing|Chibagin Leasing]]. Peer comparison: [[mebuki-securities|Mebuki Securities]] under [[mebuki-fg|Mebuki FG]] for northern Kanto regional-bank securities, and [[ffg-securities|FFG Securities]] under [[fukuoka-fg|FFG]] for Kyushu regional-bank securities. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
-株式会社ちばぎん証券は、[[chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系証券会社で、千葉県・首都圏東部を地盤とする個人富裕層・中堅企業 main bank 顧客向けの retail brokerage・公募私募債仲介・投信・ファンドラップ・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[jsda|日本証券業協会]] 正会員。**前身は旧 中央証券 (Chuo Securities)** で、旧 山一證券系であったが山一破綻後に千葉銀行が筆頭株主としてグループ化し、**2011-01 に「ちばぎん証券」へ商号変更**、**2011-10 に株式交換で千葉銀行の完全子会社**となった。千葉銀は持株会社化していない単独銀行 (no-holding model) のため、ちばぎん証券は親銀行直下にぶら下がる構造で、[[mebuki-fg]] / [[fukuoka-fg]] のような持株会社下の銀証兄弟会社 model とは法的位置が異なる。^[extracted]
+Chibagin Securities Co., Ltd. is a regional-bank securities company wholly owned by [[chiba-bank|Chiba Bank (TSE PRIME 8331)]]. It serves high-net-worth retail clients and mid-sized main-bank corporate customers in Chiba Prefecture and the eastern Tokyo metropolitan area, offering retail brokerage, public and private bond intermediation, investment trusts, fund wrap products, business-succession advisory, and related services. It is licensed as a Type I Financial Instruments Business Operator and is a regular member of [[jsda|Japan Securities Dealers Association]]. **Its predecessor was Chuo Securities**, which had a Yamaichi Securities lineage; after Yamaichi's collapse, Chiba Bank became the largest shareholder and brought it into the group. The company changed its trade name to Chibagin Securities in 2011-01 and became a wholly owned Chiba Bank subsidiary through a share exchange in 2011-10. Because Chiba Bank remains a single bank without a holding-company structure, Chibagin Securities sits directly below the parent bank, unlike the bank-securities sibling-company model under holding companies such as [[mebuki-fg|Mebuki FG]] and [[fukuoka-fg|Fukuoka FG]]. ^[extracted]
 
-## 1. 会社概要
+## 1. Company overview
 
 | Item | Notes |
 |---|---|
-| 正式名 | 株式会社ちばぎん証券 |
+| Legal name | Chibagin Securities Co., Ltd. |
 | English name | Chibagin Securities Co., Ltd. |
-| 親会社 | [[chiba-bank|千葉銀行]] 100% (持株会社化していない単独銀行直下) |
-| 主要事業 | retail brokerage / 公募私募債仲介 / 投信 / ファンドラップ / IPO 取次 / M&A 仲介 |
-| 規制 | FIEA / 金商法 第一種金融商品取引業 (関東財務局) |
-| 業界団体 | [[jsda|日本証券業協会]] 正会員 |
-| 上場区分 | 非上場 ([[chiba-bank]] 100% 子会社) |
-| Wiki role | 千葉銀行系証券子会社 anchor (no-holding model) |
+| Parent | [[chiba-bank|Chiba Bank]] 100%; direct subsidiary of a single-bank parent without a holding-company layer |
+| Main businesses | Retail brokerage / public and private bond intermediation / investment trusts / fund wrap / IPO brokerage / M&A intermediation |
+| Regulation | FIEA Type I Financial Instruments Business Operator, Kanto Local Finance Bureau |
+| Industry body | Regular member of [[jsda|Japan Securities Dealers Association]] |
+| Listing status | Unlisted, 100% subsidiary of [[chiba-bank|Chiba Bank]] |
+| Wiki role | Chiba Bank securities-subsidiary anchor under the no-holding-company model |
 
-### 持株ツリー (千葉銀グループ簡略図)
+### Holding tree: Chiba Bank group
 
 ```
-[[chiba-bank|千葉銀行]] (単独銀行・上場 8331、持株会社化していない)
-  ├── ちばぎん証券 (100%、本ページ) ── グループ証券
-  │     ├── 旧 中央証券 (Chuo Securities) 母体
-  │     ├── 千葉県 + 首都圏東部 retail / 銀証連携
-  │     └── [[jsda|日本証券業協会]] 正会員
-  ├── [[chibagin-leasing|ちばぎんリース]] (100%) ── グループリース
-  ├── ちばぎんカード ── クレジットカード
-  ├── ちばぎんコンピューターサービス ── システム子会社
-  ├── ちばぎん総合研究所 ── シンクタンク
-  ├── ちばぎんキャピタル ── ベンチャー投資
-  └── ちばぎん保証 ── 信用保証
+[[chiba-bank|Chiba Bank]] (single listed bank, TSE 8331, no holding company)
+  ├── Chibagin Securities (100%, this page) -- group securities company
+  │     ├── Former Chuo Securities lineage
+  │     ├── Chiba Prefecture + eastern Tokyo metropolitan retail / bank-securities cooperation
+  │     └── Regular member of [[jsda|Japan Securities Dealers Association]]
+  ├── [[chibagin-leasing|Chibagin Leasing]] (100%) -- group leasing
+  ├── Chibagin Card -- credit cards
+  ├── Chibagin Computer Service -- systems subsidiary
+  ├── Chibagin Research Institute -- think tank
+  ├── Chibagin Capital -- venture investment
+  └── Chibagin Guarantee -- credit guarantees
 ```
 
-## 2. 業務ラインと収益構造
+## 2. Business lines and revenue structure
 
-| セグメント | 特徴 |
+| Segment | Characteristics |
 |---|---|
-| Retail brokerage | 千葉県・首都圏東部地盤の個人投資家向け株式・投信・債券仲介 |
-| Wealth management | ファンドラップ / SMA / ラップ口座 等資産運用商品 |
-| 投信販売 | 銀証連携で [[chiba-bank]] 顧客への投信 cross-sell |
-| 公募株引受 | 千葉県内 / 首都圏東部上場企業の公募増資参画 (地銀系引受団) |
-| 私募債仲介 | 中堅企業 main bank 連携の私募債組成 (千葉銀紹介) |
-| IPO 取次 | 千葉県 IPO 案件取次 (主幹事は大手証券) |
-| M&A 仲介 / 事業承継 | 千葉県内オーナー企業の事業承継・M&A advisory |
-| 銀証連携 | [[chiba-bank]] 法人 / 個人顧客紹介 + 共同店舗 (信託 / 証券窓販) |
+| Retail brokerage | Equity, investment-trust, and bond intermediation for individual investors in Chiba Prefecture and the eastern Tokyo metropolitan area |
+| Wealth management | Fund wrap, SMA, wrap-account, and other asset-management products |
+| Investment-trust sales | Bank-securities cross-sell to [[chiba-bank|Chiba Bank]] customers |
+| Public-offering underwriting | Participation in public offerings by listed companies in Chiba and the eastern Tokyo metropolitan area, mainly as a regional-bank underwriter |
+| Private-bond intermediation | Private-bond structuring for mid-sized main-bank corporate customers introduced by Chiba Bank |
+| IPO brokerage | Brokerage for Chiba-related IPO cases, with large securities firms usually serving as lead managers |
+| M&A / business succession | Advisory for owner-managed companies in Chiba Prefecture |
+| Bank-securities cooperation | Corporate and individual customer referrals from [[chiba-bank|Chiba Bank]] plus joint branch counters |
 
-### グループ内クロスリンク
+### Intra-group cross-links
 
-| グループ会社 | 連携内容 |
+| Group company | Cooperation surface |
 |---|---|
-| [[chiba-bank]] | 法人 / 個人顧客紹介、銀行店舗内証券窓口、投信銀行窓販 |
-| [[chibagin-leasing]] | 中堅企業 main bank クロス提案 (リース + 私募債 + 株式公開) |
-| ちばぎん総研 | 千葉県経済 / 業界レポート提供 |
+| [[chiba-bank|Chiba Bank]] | Corporate and individual customer referrals, securities counters inside bank branches, bank-distributed investment trusts |
+| [[chibagin-leasing|Chibagin Leasing]] | Cross-proposals for mid-sized main-bank customers: leasing, private bonds, and public listing support |
+| Chibagin Research Institute | Chiba economic and industry reports |
 
-### 地銀系証券 peer 比較
+### Regional-bank securities peer comparison
 
-| 証券子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
+| Securities subsidiary | Parent bank / FG | Parent model | Regional base | Listing context |
 |---|---|---|---|---|
-| **ちばぎん証券** (本ページ) | [[chiba-bank|千葉銀行]] | no-holding 単独銀行 | 千葉県・首都圏東部 | 親 8331 |
-| [[mebuki-securities|めぶき証券]] | [[mebuki-fg|めぶき FG]] | 持株会社下兄弟会社 | 茨城・栃木・北関東 | 親 7167 |
-| [[ffg-securities|FFG 証券]] | [[fukuoka-fg|FFG]] | 持株会社下兄弟会社 | 福岡・熊本・長崎・九州 | 親 8354 |
-| ワイエム証券 | [[yamaguchi-fg|YMFG]] | 持株会社下兄弟会社 | 山口・広島・北九州 | 親 8418 |
-| しずぎん TM 証券 | [[shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 | 静岡県 | 親 5831 |
+| **Chibagin Securities** (this page) | [[chiba-bank|Chiba Bank]] | Single bank without holding company | Chiba Prefecture and eastern Tokyo metro | Parent 8331 |
+| [[mebuki-securities|Mebuki Securities]] | [[mebuki-fg|Mebuki FG]] | Sibling company under holding company | Ibaraki, Tochigi, northern Kanto | Parent 7167 |
+| [[ffg-securities|FFG Securities]] | [[fukuoka-fg|FFG]] | Sibling company under holding company | Fukuoka, Kumamoto, Nagasaki, Kyushu | Parent 8354 |
+| YM Securities | [[yamaguchi-fg|YMFG]] | Sibling company under holding company | Yamaguchi, Hiroshima, Kitakyushu | Parent 8418 |
+| Shizugin TM Securities | [[shizuoka-fg|Shizuoka FG]] | Sibling company under holding company | Shizuoka Prefecture | Parent 5831 |
 
-### 大手 / ネット証券との競合
+### Competition with major and online brokers
 
-- **大手証券** ([[nomura-hd|野村]] / [[daiwa-sg|大和]] / [[smbc-nikko|SMBC日興]] / [[mizuho-securities|みずほ証券]]): 都内大手企業 / 富裕層では大手が優位、千葉県地場顧客では銀証連携で対抗
-- **ネット証券** ([[sbi-securities|SBI 証券]] / [[rakuten-securities|楽天証券]] / [[gmo-click-securities|GMO クリック証券]]): 個人デジタル取引・手数料競争では劣勢、対面 advisory + 銀証連携で差別化
-- **県内競合**: [[chiba-kogyo-bank|千葉興業銀行]] (第二地銀) 系証券機能 / 京葉銀行系証券機能 / 都内大手証券千葉支店
+- **Major securities firms** ([[nomura-hd|Nomura]] / [[daiwa-sg|Daiwa]] / [[smbc-nikko|SMBC Nikko]] / [[mizuho-securities|Mizuho Securities]]): majors have the advantage for large Tokyo corporates and high-net-worth clients, while Chibagin Securities competes through bank-securities cooperation for local Chiba customers.
+- **Online brokers** ([[sbi-securities|SBI Securities]] / [[rakuten-securities|Rakuten Securities]] / [[gmo-click-securities|GMO Click Securities]]): Chibagin Securities is structurally weaker in retail digital trading and fee competition, but differentiates through face-to-face advisory and bank referrals.
+- **In-prefecture competitors**: securities functions affiliated with [[chiba-kogyo-bank|Chiba Kogyo Bank]], Keiyo Bank-related securities functions, and Chiba branches of major Tokyo securities firms.
 
-### 強み・弱み
+### Strengths and weaknesses
 
-- 強み: [[chiba-bank]] 千葉県シェア No.1 + 預金 18-20 兆円顧客基盤 + 持株会社化していないため意思決定スピード / 銀証連携の depth
+- Strengths: [[chiba-bank|Chiba Bank]]'s No. 1 position in Chiba Prefecture, deposit base in the JPY 18-20 trillion range, faster decision-making under the single-bank model, and deep bank-securities cooperation.
 
-### 規制枠組み
+### Regulatory framework
 
-- **主管**: 金融庁 (FSA) / 関東財務局 (第一種金融商品取引業者登録)
-- **業界団体**: [[jsda|日本証券業協会]] 正会員、日本投資者保護基金 加盟
-- **法的根拠**: 金融商品取引法 (FIEA) ・金商業等府令
-- **親銀行ガバナンス**: [[chiba-bank]] が単独銀行のため、銀行法上の銀行業以外子会社規制 (主要業務 / 付随業務 / 業務範囲規制) で位置づけられる
+- **Supervisor**: Financial Services Agency and Kanto Local Finance Bureau, Type I Financial Instruments Business Operator registration.
+- **Industry bodies**: regular member of [[jsda|Japan Securities Dealers Association]] and participant in the Japan Investor Protection Fund.
+- **Legal basis**: Financial Instruments and Exchange Act and related cabinet-office ordinances.
+- **Parent-bank governance**: because [[chiba-bank|Chiba Bank]] is a single bank, Chibagin Securities is positioned under Banking Act restrictions on non-bank subsidiaries, ancillary businesses, and business-scope rules.
 
-### 規制論点
+### Regulatory issues
 
-- **銀証ファイアウォール規制緩和 (2022-)**: 銀証間の役員兼務制限緩和・情報共有要件緩和 → 親銀行 [[chiba-bank]] との連携範囲拡大
-- **顧客本位の業務運営原則 (FD principle)**: 投信販売 / ファンドラップ販売の利益相反開示・コスト透明化
-- **高齢者投資勧誘ルール強化**: 千葉県は高齢化進行、富裕層シニア向け勧誘の説明義務厳格化
-- **投信販売手数料の透明化・低水準化圧力**: ノーロード投信普及・手数料収益縮小圧力
-- **EDINET / 有価証券報告書**: ちばぎん証券単体は非上場で単独開示は限定的。[[chiba-bank]] 連結 / 有価証券報告書セグメント情報で間接開示される (EDINET 上は千葉銀行連結ベース)
+- **Bank-securities firewall relaxation from 2022**: eased restrictions on officer overlap and information sharing expand the cooperation perimeter with parent [[chiba-bank|Chiba Bank]].
+- **Customer-oriented business conduct principles**: investment-trust and fund-wrap sales require conflict-of-interest disclosure and cost transparency.
+- **Senior-investor solicitation rules**: Chiba's aging population raises the compliance burden for solicitation of wealthy senior clients.
+- **Fee transparency and low-cost investment-trust pressure**: spread of no-load funds compresses fee revenue.
+- **EDINET / annual securities reports**: Chibagin Securities is unlisted and has limited standalone disclosure; information appears indirectly in [[chiba-bank|Chiba Bank]] consolidated annual securities report segment disclosure.
 
-### 会計上の取扱い
+### Accounting treatment
 
-- **単体財務 KPI**: ちばぎん証券単体の精緻値は単独開示されず、親 [[chiba-bank]] 有価証券報告書注記 / セグメント情報で部分開示されるにとどまる
+- **Standalone financial KPIs**: precise standalone metrics for Chibagin Securities are not separately disclosed and are only partially visible through notes and segment information in parent [[chiba-bank|Chiba Bank]] securities reports.
 
 ## Related
 
@@ -118,15 +118,15 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 
 ## Sources
 
-- **ちばぎん証券 公式サイト** (https://www.chibagin-sec.co.jp/)
-- **ちばぎん証券 公式 沿革**（商号変更 2011-01「ちばぎん証券」/ 株式交換による千葉銀行完全子会社化 2011-10、前身 中央証券は旧 山一證券系）<https://www.chibagin-sec.co.jp/corporate/history/index.html>
-- **千葉銀行 公式 IR** (https://www.chibabank.co.jp/)
-- **EDINET 有価証券報告書 (千葉銀行連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
-- **FSA 金融商品取引業者一覧** (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, 第一種金融商品取引業者)
-- **日本証券業協会 協会員名簿** (https://www.jsda.or.jp/)
-- **Wikipedia: ちばぎん証券 / 千葉銀行** (2026-05-25 抽出)
+- **Chibagin Securities official site** (https://www.chibagin-sec.co.jp/)
+- **Chibagin Securities official history**: trade-name change in 2011-01, Chiba Bank wholly owned subsidiary through share exchange in 2011-10, predecessor Chuo Securities with former Yamaichi Securities lineage <https://www.chibagin-sec.co.jp/corporate/history/index.html>
+- **Chiba Bank official IR** (https://www.chibabank.co.jp/)
+- **EDINET annual securities reports, Chiba Bank consolidated / segment information** (https://disclosure.edinet-fsa.go.jp/)
+- **FSA financial instruments business operator list** (https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf, Type I Financial Instruments Business Operators)
+- **Japan Securities Dealers Association member list** (https://www.jsda.or.jp/)
+- **Wikipedia: Chibagin Securities / Chiba Bank**, extracted 2026-05-25
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-25)。[[chiba-bank]] page = 単独銀行 (no-holding model) holding strategy を扱い、本ページは securities-subsidiary operating boundary を扱う。ちばぎん証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[chiba-bank]] 有価証券報告書セグメント情報での間接開示に依存する。商号変更 (2011-01) / 千葉銀完全子会社化 (2011-10) は公式沿革で確認済み。
+> [!info] Verification status
+> confidence: **likely** (FG securities-subsidiary anchor created 2026-05-25). The [[chiba-bank|Chiba Bank]] page covers single-bank, no-holding-company strategy, while this page covers the securities-subsidiary operating boundary. Because Chibagin Securities is an unlisted wholly owned subsidiary, precise standalone financial KPIs are not disclosed separately and rely on indirect disclosure through parent [[chiba-bank|Chiba Bank]] annual securities report segment information. The trade-name change in 2011-01 and Chiba Bank wholly owned subsidiary conversion in 2011-10 are confirmed in official history.

@@ -12,11 +12,11 @@ translated_at: 2026-05-31T15:29:03.953Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|Fukuoka FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-長野県地盤の旧単独銀行 page。1931-08-01 第十九銀行 + 第六十三銀行 合併で発足、社名は **19 + 63 = 82** に由来する。2023-06 長野銀行を完全子会社化し、2026 年の FSA bank-license list では current legal-name entity が [[hachijuni-nagano-bank|八十二長野銀行]] として掲載される。以後、本ページは旧八十二銀行の historical / predecessor analysis とし、current operating-company boundary は [[hachijuni-nagano-bank]] が持つ。
+This page covers the former standalone Hachijuni Bank, historically anchored in Nagano Prefecture. The bank was formed on 1931-08-01 through the merger of The Nineteenth Bank and The Sixty-Third Bank; its name reflects 19 + 63 = 82. Hachijuni Bank made Nagano Bank a wholly owned subsidiary in 2023-06, and the 2026 FSA bank-license list identifies the current legal operating entity as [[hachijuni-nagano-bank|Hachijuni Nagano Bank]]. This page therefore functions as historical and predecessor analysis; the current operating-company boundary sits with [[hachijuni-nagano-bank|Hachijuni Nagano Bank]].
 
 ## 1. Company profile
 
@@ -30,14 +30,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### Major subsidiaries/equity
 
 ```
-八十二銀行（旧単独銀行・上場 8359）
+Hachijuni Bank (former standalone listed bank, 8359)
   ├── 長野銀行（2023-06-01 完全子会社化）
   └── [[hachijuni-nagano-bank]] ── current operating-company boundary
-  ├── 八十二証券 ── 県内リテール証券
-  ├── 八十二リース ── グループ金融子会社
-  ├── 八十二信用保証 ── 住宅ローン等の信用保証
-  ├── 八十二キャピタル ── ベンチャー / M&A 関連投資
-  ├── 八十二ビジネスサービス / 八十二システム開発 等 ── システム・事務子会社
+  |-- Hachijuni Securities -- prefectural retail securities
+  |-- Hachijuni Lease -- group finance subsidiary
+  |-- Hachijuni Credit Guarantee -- housing-loan and other credit guarantees
+  |-- Hachijuni Capital -- venture and M&A-related investments
+  |-- Hachijuni Business Services / Hachijuni System Development and other systems and administrative subsidiaries
 ```
 
 ### Merger background/predecessor
@@ -80,7 +80,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### Prefectural ground strategy
 
-- **Nagano Prefecture = Electronics industry cluster**: Nagano Prefecture is home to leading mid-sized manufacturing companies such as [[manufacturing/seiko-epson|セイコーエプソン]] (Suwa head office, printers/watches/semiconductors) and MinebeaMitsumi (a major electronic parts manufacturer in the former Suwa Seikosha lineage). These main bank positions are the profit base
+- **Nagano Prefecture = electronics industry cluster**: Nagano Prefecture is home to leading mid-sized manufacturing companies such as [[manufacturing/seiko-epson|Seiko Epson]] (Suwa head office, printers, watches, and semiconductors) and MinebeaMitsumi. These main-bank positions are the profit base.
 - **Tourism industry financing**: Nagano Prefecture is a major tourism industry prefecture, including Karuizawa (luxury resorts), Hakuba (skiing/inbound visitors to Japan), Suwa (hot springs/Lake Suwa), Ueda/Saku (historic tourism), and the Zenkoji area, and tourist hotel/resort financing is an important segment of regional banks' portfolios.
 - **Overwhelming share in the prefecture** However, Nagano Prefecture's population decline and outflow of young people are more pronounced than the national average, creating medium- to long-term structural issues. We have developed a sales network throughout the prefectures of Nagano City, Matsumoto City, Suwa, Ueda, Saku, Hokushin (Iiyama, etc.) from 5 to 6 .
 
@@ -99,7 +99,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 ### Position in regional bank reorganization
 
 - **Maintain an independent path as the sole regional bank leader in Nagano Prefecture** (Partnership with mega companies such as [[mufg]]/Distance from SBI 4  mega concept)
-- Regional bank collaboration in the Hokushinetsu region (Nagano, Niigata, Toyama, Ishikawa, Fukui) has formed other axes centered around [[hokuhoku-fg|ほくほく FG]] and [[dai-shi-hokuetsu-fg|第四北越 FG]], and the Hachijuni Bank is a central bank in Nagano Prefecture.
+- Regional bank collaboration in the Hokushinetsu region has formed other axes centered around [[hokuhoku-fg|Hokuhoku FG]] and [[dai-shi-hokuetsu-fg|Daishi Hokuetsu FG]], while Hachijuni Bank remains a central bank in Nagano Prefecture.
 
 ## 4. Regulation/Policy
 

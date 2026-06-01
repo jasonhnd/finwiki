@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.380Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading-company group-treasury arm) and [[JapanFG/ja-mitsui-leasing|JA三井リース]] (the same-parent leasing arm, Mitsui & Co. group + Norinchukin JV). For the broader peer set, see [[JapanFG/marubeni-financial-services|丸紅フィナンス]], [[JapanFG/sumitomo-corp-financial-management|住友商事FM]], [[JapanFG/itochu-finance|伊藤忠ファイナンス]]. The Mitsui-group banking side is [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] under [[JapanFG/smfg|SMFG]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (the closest peer trading-company group-treasury arm) and [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] (the same-parent leasing arm, Mitsui & Co. group + Norinchukin JV).
 
 ## 1. Company Overview
 
@@ -25,7 +25,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|---|
 | **External-facing bank (main transaction bank)** | [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (within [[JapanFG/smfg|SMFG]]) | Commercial banking and external financial services |
 | **External-facing trust** | [[JapanFG/smtb|三井住友信託銀行 (SMTB)]] | Trust, fiduciary, and pension services |
-| **External-facing leasing** | [[JapanFG/ja-mitsui-leasing|JA三井リース]] | Mitsui & Co. + Norinchukin + Sumitomo Mitsui Trust JV, agriculture plus general leasing |
+| **External-facing leasing** | [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] | Mitsui & Co. + Norinchukin + Sumitomo Mitsui Trust JV, agriculture plus general leasing |
 | **Internal / group finance** | **Mitsui & Co. FS (this page)** | Internal banking / CMS / internal factoring for group companies |
 | **Overseas finance subsidiaries** | Mitsui & Co. (U.S.A.) / (Europe) / (Asia) Finance, etc. | Regional treasury / local-currency funding |
 
@@ -48,13 +48,13 @@ The **resources and energy** segment in particular centers on long-term contract
 
 | Trading company | Internal finance subsidiary | External-facing leasing line |
 |---|---|---|
-| Mitsui & Co. | **Mitsui & Co. FS (this page)** | [[JapanFG/ja-mitsui-leasing|JA三井リース]] (Mitsui + Norinchukin) |
-| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (listed) |
+| Mitsui & Co. | **Mitsui & Co. FS (this page)** | [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] (Mitsui + Norinchukin) |
+| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation FS]] | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed) |
 | Sumitomo Corporation | [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] | [[JapanFG/smfl|SMFL]] (SMFG joint venture) |
-| ITOCHU | [[JapanFG/itochu-finance|伊藤忠ファイナンス]] | [[JapanFG/tokyo-century|東京センチュリー]] (Mizuho joint venture) |
-| Marubeni | [[JapanFG/marubeni-financial-services|丸紅フィナンス]] | [[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder) |
-| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | Intra-group captive |
-| Sojitz | [[JapanFG/sojitz-finance|双日フィナンス]] | No dedicated specialist |
+| ITOCHU | [[JapanFG/itochu-finance|ITOCHU Finance]] | [[JapanFG/tokyo-century|Tokyo Century]] (Mizuho joint venture) |
+| Marubeni | [[JapanFG/marubeni-financial-services|Marubeni Finance]] | [[JapanFG/mizuho-lease|Mizuho Leasing]] (strategic shareholder) |
+| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] | Intra-group captive |
+| Sojitz | [[JapanFG/sojitz-finance|Sojitz Finance]] | No dedicated specialist |
 
 ## 4. Regulation and Policy
 
@@ -69,18 +69,18 @@ The **resources and energy** segment in particular centers on long-term contract
 
 ## Related
 
-- [[JapanFG/ja-mitsui-leasing|JA三井リース]] (external-facing leasing, same Mitsui & Co. group)
+- [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] (external-facing leasing, same Mitsui & Co. group)
 - [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (main transaction bank)
 - [[JapanFG/smtb|三井住友信託銀行]] (trust)
 - [[JapanFG/mitsui-sumitomo-insurance|三井住友海上]] (non-life insurance)
 - [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (peer)
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (peer)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
+- [[JapanFG/itochu-finance|ITOCHU Finance]] (peer)
+- [[JapanFG/marubeni-financial-services|Marubeni Finance]] (peer)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 

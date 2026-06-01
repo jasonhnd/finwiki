@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.664Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation — legal framework for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape — three-layer structure for JPYC, USDC, and Project Pax]] for the broader system boundary.
 
 > [!info] TL;DR
 > The true strategic objective of Arc (Circle's self-operated L1), announced in 2025.09  = **USDC interest earned on Arc does not need to be shared with Coinbase at 50%** — this is an economic problem, not a technical one. If USDC grows its circulation on Arc from $0  to $5B, the additional interest Circle retains = $5B × 4.5% × 50% = **$112.5M/year** net revenue gain (no new USDC issuance required). This is the core sample of the rebalancing of equilibrium between stablecoin issuers and distributors.
@@ -23,7 +23,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Circle's 50% interest distribution to Coinbase = $905M/year (2024), the potential scale of what is being reclaimed ^[extracted]
 - Arc is compatible with Circle's existing CCTP = Circle controls its own distribution channel ^[extracted]
 
-## Mechanism / How it works
+## Arc as Circle controlled distribution infrastructure
 
 **Surface narrative vs actual strategy**:
 
@@ -55,11 +55,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行体・分配者 50/50 モデル]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン公開チェーン・トークン戦略のトリレンマ]]
-- [[fintech/circular-reserve-asset-flywheel-overview|準備資産相互ロックのフライホイール · 概要]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
-- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 · ARM アナロジー]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer-distributor 50/50 model]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin public-chain and token-strategy trilemma]]
+- [[fintech/circular-reserve-asset-flywheel-overview|circular reserve-asset flywheel overview]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|on-chain finance versus crypto-culture bifurcation]]
+- [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure and ARM analogy]]
 <!-- /wiki-links:managed -->
 
 ## Sources

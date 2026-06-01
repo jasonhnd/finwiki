@@ -4,80 +4,98 @@ source_hash: 232696e3708817d9
 lang: en
 status: machine
 fidelity: needs_review
-title: "蜑ｲ雉ｦ雋ｩ螢ｲ豕・笶ｰdi笶ｱ謾ｹ豁｣"
+title: "Installment Sales Act 2020 Amendment"
 translated_at: 2026-05-31T15:29:03.934Z
 ---
-﻿
-# 蜑ｲ雉ｦ雋ｩ螢ｲ豕・笶ｰdi笶ｱ謾ｹ豁｣
+
+# Installment Sales Act 2020 Amendment
 
 ## TL;DR
 
-笶ｰdb笶ｱ謾ｹ豁｣蜑ｲ雉ｦ雋ｩ螢ｲ豕包ｼ遺擴ci笶ｱ豕募ｾ銀擴df笶ｱ・峨・縲√け繝ｬ繧ｸ繝・ヨ繧ｫ繝ｼ繝・/ 蠕梧鴛縺・/ BNPL 縺ｮ繝・ず繧ｿ繝ｫ蛹悶↓蜷医ｏ縺帙※縲・笶ｰdj笶ｱ) 隱榊ｮ壼桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・・笶ｰea笶ｱ) 逋ｻ骭ｲ蟆鷹｡榊桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・・笶ｰeb笶ｱ) 豎ｺ貂井ｻ｣陦後・繧｢繧ｯ繝ｯ繧､繧｢繝ｪ繝ｳ繧ｰ蛛ｴ縺ｮ繧ｫ繝ｼ繝臥分蜿ｷ邂｡逅・・笶ｰec笶ｱ) 譖ｸ髱｢莠､莉倥・髮ｻ蟄仙喧縲・笶ｰed笶ｱ) 讌ｭ蜍吝●豁｢蜻ｽ莉､繧呈紛蛯吶＠縺滓隼豁｣縲・
-JapanFG 縺ｧ縺ｯ縲≫擴a笶ｱ 縺ｮ繧医≧縺ｪ BNPL縲≫擴b笶ｱ 縺ｮ繧医≧縺ｪ繧ｫ繝ｼ繝臥匱陦後・蜉逶溷ｺ励ロ繝・ヨ繝ｯ繝ｼ繧ｯ縲≫擴c笶ｱ / 笶ｰd笶ｱ 縺ｮ繧医≧縺ｪ菫｡雋ｩ莨夂､ｾ縲√◎縺励※ 笶ｰe笶ｱ 縺ｮ credit / installment 繝ｩ繧､繧ｻ繝ｳ繧ｹ螻､繧定ｪｭ繧縺溘ａ縺ｮ蝓ｺ遉取ｳ募宛縲る㍾隕√↑蠅・阜縺ｯ縲・*BNPL = 閾ｪ蜍慕噪縺ｫ逋ｻ骭ｲ蟆鷹｡榊桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・〒縺ｯ縺ｪ縺・*縺薙→縲・ETI 縺ｮ逋ｻ骭ｲ莠区･ｭ閠・ｸ隕ｧ縺ｧ縺ｯ縲≫擴cj笶ｱ譛ｫ譎らせ縺ｮ逋ｻ骭ｲ蟆鷹｡榊桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・・ 笶ｰee笶ｱ縺ｧ縲￣aidy 縺ｯ 笶ｰdc笶ｱ縺ｮ陦梧帆蜃ｦ蛻・ｳ・侭荳翫∫匳骭ｲ蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・ｼ磯未譚ｱ・亥桁・俄擴dg笶ｱ・峨→縺励※謇ｱ繧上ｌ縺ｦ縺・ｋ縲・
+The amended Installment Sales Act is the core METI-supervised statute for deferred-payment, installment-credit, credit-card-number handling, and merchant-acquiring boundaries in Japan. The 2020 amendment responded to the digitization of credit cards, deferred payment, and BNPL by creating or refining several layers: certified comprehensive credit-purchase intermediaries, registered small-amount comprehensive credit-purchase intermediaries, card-number handling and merchant-contracting controls on the acquiring / PSP side, electronic delivery of required documents, and administrative sanctions.
+
+For FinWiki, the key point is that **BNPL is not automatically the registered small-amount comprehensive credit-purchase-intermediary category**. The regulatory treatment depends on the payment term, credit structure, card-number handling, final merchant-underwriting authority, and registration status. Public METI and Kanto METI materials treat Paidy as a registered comprehensive credit-purchase intermediary in the relevant administrative-action context, so the page should not infer a small-amount registration merely from the BNPL label.
+
 ## Regime Map
 
 | Layer | What it covers | JapanFG reading |
 |---|---|---|
-| 蜑ｲ雉ｦ雋ｩ螢ｲ | 莠区･ｭ閠・′豸郁ｲｻ閠・↓笶ｰef笶ｱ縺区怦莉･荳翫°縺､笶ｰeg笶ｱ蝗樔ｻ･荳翫・蛻・牡謇輔＞縺ｧ謖・ｮ壼膚蜩∫ｭ峨ｒ雋ｩ螢ｲ縺吶ｋ蜿門ｼ・| 莨晉ｵｱ逧・↑蛻・牡雋ｩ螢ｲ縲・NPL / card acquiring 縺ｨ縺ｯ蛻･繝ｬ繧､繝､繝ｼ |
-| 繝ｭ繝ｼ繝ｳ謠先声雋ｩ螢ｲ | 蝠・刀雉ｼ蜈･雉・≡縺ｮ蛟溷・繧後ｒ雋ｩ螢ｲ讌ｭ閠・ｭ峨′菫晁ｨｼ縺吶ｋ讒矩 | 逶ｮ逧・Ο繝ｼ繝ｳ縺ｨ縺ｮ蠅・阜縺悟撫鬘後↓縺ｪ繧・|
-| 蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ | 繧ｯ繝ｬ繧ｸ繝・ヨ繧ｫ繝ｼ繝臥ｭ峨〒雋ｩ螢ｲ莉｣驥代ｒ遶区崛謇輔＞縺励∵ｶ郁ｲｻ閠・°繧俄擴eh笶ｱ縺区怦雜・〒蝗槫庶縺吶ｋ讌ｭ | 笶ｰf笶ｱ, 笶ｰg笶ｱ, 笶ｰh笶ｱ, 笶ｰi笶ｱ |
-| 蛟句挨菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ | 蛟句挨蝠・刀繝ｻ蠖ｹ蜍吶＃縺ｨ縺ｮ菫｡雋ｩ / 繧ｷ繝ｧ繝・ヴ繝ｳ繧ｰ繧ｯ繝ｬ繧ｸ繝・ヨ | 菫｡雋ｩ莨夂､ｾ繝ｻ閠蝉ｹ・ｶ郁ｲｻ雋｡繝ｻ謨呵ご / 鄒主ｮｹ遲峨・繝ｭ繝ｼ繝ｳ縺ｧ驥崎ｦ・|
-| 繧ｯ繝ｬ繧ｸ繝・ヨ繧ｫ繝ｼ繝臥分蜿ｷ遲牙叙謇ｱ螂醍ｴ・ｷ邨蝉ｺ区･ｭ閠・| 蜉逶溷ｺ励↓繧ｫ繝ｼ繝牙叙謇ｱ縺・ｒ隱阪ａ繧句･醍ｴ・ｒ邱邨舌☆繧玖・ゅい繧ｯ繝ｯ繧､繧｢繝ｩ繝ｼ繧・ｸ驛ｨ PSP | acquiring / PSP / merchant onboarding 縺ｮ隕丞宛髱｢ |
-| 繧ｫ繝ｼ繝臥分蜿ｷ遲牙叙謇ｱ讌ｭ閠・| 繧ｫ繝ｼ繝臥分蜿ｷ遲峨・驕ｩ蛻・ｮ｡逅・ｾｩ蜍吶ｒ雋縺・ｸｻ菴・| PCI DSS縲・撼菫晄戟蛹悶∽ｸ肴ｭ｣蛻ｩ逕ｨ髦ｲ豁｢ |
+| Installment sales | Sale of designated goods or services to consumers with installment payment over a statutory period and number of payments | Traditional installment sales; separate from BNPL and card acquiring |
+| Loan-affiliated sales | Structure in which the seller guarantees consumer borrowing used to buy goods or services | Important when distinguishing purpose loans from credit-purchase intermediation |
+| Comprehensive credit-purchase intermediation | Credit-card and similar structures where the operator pays the merchant and later collects from the consumer | Card issuers, some deferred-payment providers, and BNPL structures depending on contract design |
+| Individual credit-purchase intermediation | Credit for a specific product or service transaction, including shopping credit | Important for sales-finance companies, durable goods, education, beauty, and other financed purchases |
+| Credit-card-number handling contract operator | Entity that signs card-acceptance contracts with merchants; includes acquirers and some PSPs | The acquiring / PSP / merchant-onboarding regulatory layer |
+| Credit-card-number handling operator | Entity responsible for appropriate management of card numbers | PCI DSS, non-retention architecture, and fraud-prevention controls |
 
-METI FAQ 縺ｯ縲∝ｾ梧鴛蛻・㍽縺ｮ隕丞宛蟇ｾ雎｡繧偵悟牡雉ｦ雋ｩ螢ｲ讌ｭ閠・阪後Ο繝ｼ繝ｳ謠先声雋ｩ螢ｲ讌ｭ閠・阪御ｿ｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・阪後け繝ｬ繧ｸ繝・ヨ繧ｫ繝ｼ繝臥分蜿ｷ遲牙叙謇ｱ讌ｭ閠・阪後け繝ｬ繧ｸ繝・ヨ繧ｫ繝ｼ繝臥分蜿ｷ遲牙叙謇ｱ螂醍ｴ・ｷ邨蝉ｺ区･ｭ閠・阪↓謨ｴ逅・＠縺ｦ縺・ｋ縲・
-## 笶ｰei笶ｱAmendment
+METI's FAQ organizes deferred-payment supervision across installment sellers, loan-affiliated sellers, credit-purchase intermediaries, credit-card-number handling operators, and credit-card-number handling contract operators. The policy design is therefore broader than a simple "BNPL license" label.
 
-METI 縺ｯ縲≫擴dd笶ｱ謾ｹ豁｣縺ｮ閭梧勹繧偵悟ｰ鷹｡阪°縺､螟夐ｻ蠎ｦ縺ｮ蠕梧鴛繧ｵ繝ｼ繝薙せ縲阪檎焚讌ｭ遞ｮ莨∵･ｭ縺ｮ蠕梧鴛縺・盾蜈･縲阪後う繝ｳ繧ｿ繝ｼ繝阪ャ繝医ｄ繧ｹ繝槭・繝医ヵ繧ｩ繝ｳ遶ｯ譛ｫ縺ｫ繧医ｋ豎ｺ貂域僑螟ｧ縲阪→隱ｬ譏弱＠縺ｦ縺・ｋ縲ょ・蟶・・ 笶ｰcc笶ｱ縲∵命陦後・ 笶ｰcd笶ｱ縲・
-### 笶ｰej笶ｱ. 隱榊ｮ壼桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・
-蠕捺擂縺ｮ逕ｻ荳逧・↑縲悟桁諡ｬ謾ｯ謇募庄閭ｽ隕玖ｾｼ鬘崎ｪｿ譟ｻ縲阪↓莉｣縺医※縲∽ｺ区･ｭ閠・＃縺ｨ縺ｮ荳惹ｿ｡蟇ｩ譟ｻ謇区ｳ輔ｒ菴ｿ縺・音萓九りｪ榊ｮ壻ｺ区･ｭ閠・・縲∬・遉ｾ繝・・繧ｿ繧・橿陦薙ｒ菴ｿ縺医ｋ荳譁ｹ縺ｧ縲∵Φ螳壼ｻｶ貊樒紫繝ｻ螳溽ｸｾ蟒ｶ貊樒紫縺ｮ邂｡逅・∝ｮ壽悄蝣ｱ蜻翫∵隼蝟・多莉､繝ｪ繧ｹ繧ｯ繧定ｲ縺・・
-### 笶ｰfa笶ｱ. 逋ｻ骭ｲ蟆鷹｡榊桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・
-讌ｵ蠎ｦ鬘坂擴fb笶ｱ莉･荳九・蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ繧貞霧繧莠区･ｭ閠・髄縺代・逋ｻ骭ｲ蛻ｶ蠎ｦ縲・NPL 縺ｮ繧医≧縺ｪ縲悟ｰ鷹｡阪・螟夐ｻ蠎ｦ繝ｻ繧ｹ繝槭・螳檎ｵ舌阪・蠕梧鴛縺・し繝ｼ繝薙せ繧呈Φ螳壹＠縺ｦ隕丞宛蜷育炊蛹悶＆繧後◆縺後≫擴fc笶ｱ-笶ｰfd笶ｱ譛ｫ譎らせ縺ｮ METI 逋ｻ骭ｲ莠区･ｭ閠・ｸ隕ｧ縺ｧ縺ｯ縲√％縺ｮ繧ｫ繝・ざ繝ｪ繝ｼ縺ｮ逋ｻ骭ｲ莠区･ｭ閠・・ 笶ｰfe笶ｱ縲・
-縺薙・縺溘ａ縲≫擴j笶ｱ 繧定ｪｭ繧縺ｨ縺阪・縲娯擴ff笶ｱ謾ｹ豁｣縺・BNPL 繧呈э隴倥＠縺溷宛蠎ｦ繧剃ｽ懊▲縺溘阪→縲訓aidy 縺檎樟縺ｫ逋ｻ骭ｲ蟆鷹｡肴･ｭ閠・〒縺ゅｋ縲阪・蛻・￠繧句ｿ・ｦ√′縺ゅｋ縲ょｰ代↑縺上→繧・笶ｰce笶ｱ 縺ｮ髢｢譚ｱ邨梧ｸ育肇讌ｭ螻雉・侭縺ｧ縺ｯ縲￣aidy 縺ｯ逋ｻ骭ｲ蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・→縺励※陦梧帆蜃ｦ蛻・ｒ蜿励￠縺ｦ縺・ｋ縲・
-### 笶ｰfg笶ｱ. 繧ｫ繝ｼ繝臥分蜿ｷ遲峨・邂｡逅・ｸｻ菴捺僑螟ｧ
+## 2020 Amendment
 
-笶ｰfh笶ｱ謾ｹ豁｣縺ｯ縲√き繝ｼ繝臥分蜿ｷ遲峨・驕ｩ蛻・ｮ｡逅・ｾｩ蜍吶・荳ｻ菴薙ｂ蠎・￡縺溘よｱｺ貂井ｻ｣陦梧･ｭ閠・√さ繝ｼ繝画ｱｺ貂井ｺ区･ｭ閠・√き繝ｼ繝臥分蜿ｷ繧剃ｿ晏ｭ倥・蜀榊茜逕ｨ縺吶ｋ繧ｵ繝ｼ繝薙せ縲∝ｾ梧鴛縺・ｱｺ貂医〒繧ｫ繝ｼ繝臥分蜿ｷ繧呈署萓帙☆繧倶ｺ区･ｭ閠・↑縺ｩ縺悟ｯｾ雎｡縺ｫ縺ｪ繧雁ｾ励ｋ縲・
-螳溷漁荳翫・ acquiring / PSP 縺ｮ蠅・阜縺碁㍾隕√・ETI FAQ 縺ｯ縲￣SP 縺後い繧ｯ繝ｯ繧､繧｢繝ｩ繝ｼ縺九ｉ蛹・峡逧・↓謗域ｨｩ縺輔ｌ縲∝刈逶溷ｺ怜･醍ｴ・・螳溯ｳｪ逧・↑譛邨よｱｺ螳壽ｨｩ髯舌→蜉逶溷ｺ礼ｮ｡逅・ｒ謖√▽蝣ｴ蜷医・ PSP 蛛ｴ縺ｫ逋ｻ骭ｲ縺悟ｿ・ｦ√→隱ｬ譏弱＠縺ｦ縺・ｋ縲ゆｸ譁ｹ縲∽ｸ谺｡蟇ｩ譟ｻ縺縺代〒譛邨ょ愛譁ｭ繧堤匳骭ｲ繧｢繧ｯ繝ｯ繧､繧｢繝ｩ繝ｼ縺檎蕗菫昴☆繧句ｴ蜷医・縲￣SP 蛛ｴ縺ｮ逋ｻ骭ｲ縺ｯ荳崎ｦ√↓縺ｪ繧雁ｾ励ｋ縲・
-### 笶ｰfi笶ｱ. 髮ｻ蟄仙喧
+METI explained the amendment in terms of small-value, high-frequency deferred-payment services; entry by non-financial companies; and the spread of internet and smartphone-based settlement. The amendment created a more granular supervisory framework for digital and data-driven credit while keeping excessive-credit prevention, delinquency monitoring, and consumer-protection obligations in place.
 
-繧ｹ繝槭・繝医ヵ繧ｩ繝ｳ繝ｻ繝代た繧ｳ繝ｳ螳檎ｵ仙梛繧ｵ繝ｼ繝薙せ縺ｫ蜷医ｏ縺帙∝茜逕ｨ譏守ｴｰ繧・ｼ壼藤隕冗ｴ・ｭ峨・髮ｻ蟄先署萓帙ｒ隱阪ａ繧区婿蜷代〒譖ｸ髱｢莠､莉倩ｦ丞宛縺瑚ｪｿ謨ｴ縺輔ｌ縺溘ゅ◆縺縺励ョ繧ｸ繧ｿ繝ｫ繝・ヰ繧､繝峨∈縺ｮ驟肴・縺ｨ縺励※縲∵嶌髱｢莠､莉倩ｫ区ｱゅ′蜿ｯ閭ｽ縺ｧ縺ゅｋ縺薙→遲峨・蜻ｨ遏･縺悟ｿ・ｦ√・
-### 笶ｰfj笶ｱ. 陦梧帆蜃ｦ蛻・
-逋ｻ骭ｲ蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・♀繧医・逋ｻ骭ｲ蟆鷹｡榊桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・↓蟇ｾ縺励※縲∵･ｭ蜍吝●豁｢蜻ｽ莉､縺ｪ縺ｩ縺ｮ逶｣逹｣謇区ｮｵ縺梧紛蛯吶＆繧後◆縲１aidy 縺ｸ縺ｮ 笶ｰcf笶ｱ 謾ｹ蝟・多莉､縺ｯ縲√％縺ｮ繝ｬ繧､繝､繝ｼ縺悟ｮ滄圀縺ｫ BNPL / 蠕梧鴛縺・ｺ区･ｭ閠・∈蜉ｹ縺上％縺ｨ繧堤､ｺ縺吶こ繝ｼ繧ｹ縲・
+### Certified Comprehensive Credit-Purchase Intermediaries
+
+The certification route allows an operator to use its own data and technology for credit screening instead of relying solely on the traditional uniform calculation of comprehensive payable capacity. In exchange, the certified operator must manage expected and actual delinquency rates, submit periodic reports, and accept the risk of improvement orders if its controls are inadequate.
+
+### Registered Small-Amount Comprehensive Credit-Purchase Intermediaries
+
+This registration route was designed for operators that provide comprehensive credit-purchase intermediation below a statutory credit limit, including small-value, high-frequency, smartphone-completed deferred-payment services. It rationalizes regulation for certain BNPL-like services, but a provider's actual status must be checked against METI's current registration lists.
+
+For that reason, FinWiki should separate two statements: the 2020 amendment clearly contemplated BNPL-like business models, but an individual provider is not a registered small-amount operator unless the public register says so.
+
+### Expansion of Card-Number Handling Controls
+
+The amendment also widened the universe of entities subject to appropriate card-number management duties. Payment agents, code-payment providers, services that store or reuse card numbers, and deferred-payment providers that handle card numbers can fall within the perimeter depending on their role.
+
+In practice, the acquiring / PSP boundary is critical. METI's FAQ states that a PSP may need registration when it is substantively authorized by an acquirer and has final authority over merchant contracting and merchant management. Conversely, where the registered acquirer retains final approval and the PSP performs only preliminary screening, PSP-side registration may not be required.
+
+### Electronic Delivery
+
+The amendment adjusted written-document delivery rules for smartphone- and PC-completed services by allowing certain electronic delivery of usage details and member terms. Consumer-protection safeguards remain important, including notice that paper delivery may still be requested where applicable.
+
+### Administrative Sanctions
+
+The amendment reinforced supervisory tools, including business-suspension orders, for registered comprehensive and small-amount comprehensive credit-purchase intermediaries. The Paidy administrative-action materials show that this layer can apply in practice to BNPL and deferred-payment businesses.
+
 ## JapanFG Relevance
 
-- 笶ｰba笶ｱ: BNPL / 縺ゅ→謇輔＞縺ｯ縲∝膚蜩∽ｻ｣驥代ｒ遶区崛縺医∵ｶ郁ｲｻ閠・°繧牙ｾ梧律蝗槫庶縺吶ｋ讒矩繧呈戟縺､縺溘ａ縲∝桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ縺ｮ隕丞宛蛻・梵縺悟ｿ・ｦ√や擴de笶ｱ陦梧帆蜃ｦ蛻・〒縺ｯ縲∝桁諡ｬ謾ｯ謇募庄閭ｽ隕玖ｾｼ鬘崎ｪｿ譟ｻ繝ｻ驕主臆荳惹ｿ｡髦ｲ豁｢鄒ｩ蜍吶・驕狗畑荳榊ｙ縺悟撫鬘悟喧縺励◆縲・- 笶ｰbb笶ｱ: issuer / acquirer / network 縺ｮ縺ｩ縺ｮ讖溯・繧呈戟縺､縺九〒縲∝桁諡ｬ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・√き繝ｼ繝臥分蜿ｷ遲牙叙謇ｱ螂醍ｴ・ｷ邨蝉ｺ区･ｭ閠・√き繝ｼ繝臥分蜿ｷ遲牙叙謇ｱ讌ｭ閠・・隍・焚繝ｬ繧､繝､繝ｼ縺碁㍾縺ｪ繧九・- 笶ｰbc笶ｱ / 笶ｰbd笶ｱ: 菫｡雋ｩ莨夂､ｾ縺ｯ蛹・峡繝ｻ蛟句挨菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ縺ｮ荳｡髱｢繧呈戟縺｡繧・☆縺・や擴ga笶ｱ謾ｹ豁｣縺ｯ AI / data-driven 荳惹ｿ｡縺ｮ菴吝慍繧貞ｺ・￡縺溘′縲∝ｻｶ貊樒紫繝ｻ謖・ｮ壻ｿ｡逕ｨ諠・ｱ讖滄未繝ｻ驕主臆荳惹ｿ｡髦ｲ豁｢縺ｮ逶｣逹｣縺梧ｮ九ｋ縲・- 笶ｰbe笶ｱ: 驫陦梧ｳ輔∬ｲｸ驥第･ｭ豕輔∬ｳ・≡豎ｺ貂域ｳ輔→荳ｦ縺ｶ縲悟ｾ梧鴛縺・/ installment / card credit縲阪Λ繧､繧ｻ繝ｳ繧ｹ縺ｮ荳ｭ譬ｸ縲りｲｸ莉倥〒縺ｯ縺ｪ縺冗ｫ区崛謇輔＞繝ｻ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ縺ｨ縺励※讒区・縺輔ｌ繧句ｴ蜷医・≡陞榊ｺ√□縺代〒縺ｪ縺・METI 邂｡霓・′蜑埼擇縺ｫ蜃ｺ繧九・
+- BNPL / deferred payment often involves the operator paying the merchant and collecting from the consumer later, so comprehensive credit-purchase-intermediation analysis is necessary.
+- The relevant layer changes depending on whether the entity is an issuer, acquirer, network participant, PSP, merchant-contracting operator, or card-number handler.
+- Sales-finance companies may operate on both comprehensive and individual credit-purchase-intermediation lines. Data-driven screening does not eliminate delinquency-rate controls, designated-credit-information-institution obligations, or excessive-credit-prevention supervision.
+- This is the central METI-supervised licensing lane for deferred payment, installment credit, and card-credit structures, sitting alongside the Banking Act, Money Lending Business Act, and Payment Services Act.
+
 ## Boundary Cases
 
 | Case | Likely treatment | Watch point |
 |---|---|---|
-| 鄙梧怦荳諡ｬ BNPL | 譛滄俣繝ｻ螂醍ｴ・ｽ｢諷区ｬ｡隨ｬ縲や擴gb笶ｱ縺区怦雜・〒蝗槫庶縺吶ｋ菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ縺ｫ隧ｲ蠖薙☆繧九°繧堤｢ｺ隱・| 縲沓NPL縲阪→縺・≧蝠・ｨ吶・UX 縺ｧ縺ｯ縺ｪ縺上∵ｳ慕噪縺ｪ謾ｯ謇墓悄髢薙・遶区崛讒矩縺ｧ隕九ｋ |
-| 笶ｰgc笶ｱ蝗・/ 笶ｰgd笶ｱ蝗・/ 笶ｰge笶ｱ蝗・縺ゅ→謇輔＞ | 蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ縺ｫ霑代▼縺・| 謾ｯ謇募庄閭ｽ隕玖ｾｼ鬘阪∵欠螳壻ｿ｡逕ｨ諠・ｱ讖滄未縲・℃蜑ｰ荳惹ｿ｡髦ｲ豁｢ |
-| 繝舌・繝√Ε繝ｫ繧ｫ繝ｼ繝牙梛 BNPL | 繧ｫ繝ｼ繝臥ｭ峨・莠､莉・/ 莉倅ｸ弱→縺励※蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ隕丞宛縺ｫ荵励ｊ繧・☆縺・| Paidy 陦梧帆蜃ｦ蛻・〒縺ｯ繧ｫ繝ｼ繝臥ｭ峨・讌ｵ蠎ｦ鬘咲ｮ｡逅・′蝠城｡悟喧 |
-| PSP 縺悟刈逶溷ｺ怜ｯｩ譟ｻ繧剃ｻ｣陦・| 譛邨よｱｺ螳壽ｨｩ髯舌′隱ｰ縺ｫ縺ゅｋ縺九〒逋ｻ骭ｲ隕∝凄縺悟､峨ｏ繧・| 繧｢繧ｯ繝ｯ繧､繧｢繝ｩ繝ｼ縺ｨ PSP 縺ｮ螂醍ｴ・ｮ滓・ |
-| 逶ｮ逧・Ο繝ｼ繝ｳ | 驥鷹姦豸郁ｲｻ雋ｸ蛟溘〒繧りｲｩ螢ｲ螂醍ｴ・→縺ｮ蟇・磁迚ｽ騾｣諤ｧ縺後≠繧後・蛟句挨菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ縺ｫ縺ｪ繧雁ｾ励ｋ | 雋ｩ螢ｲ蠎励→縺ｮ謠先声縲∝匡隱倥∵焔邯壻ｸ菴捺ｧ |
-| 繧ｳ繝ｼ繝画ｱｺ貂磯｣謳ｺ | 繧ｫ繝ｼ繝臥分蜿ｷ遲峨・菫晏ｭ倥・騾｣謳ｺ繝ｻ荳肴ｭ｣蛻ｩ逕ｨ髦ｲ豁｢鄒ｩ蜍吶′蝠城｡後↓縺ｪ繧・| 髱樔ｿ晄戟蛹悶￣CI DSS縲・MV 笶ｰgf笶ｱ-D繧ｻ繧ｭ繝･繧｢遲・|
+| Next-month lump-sum BNPL | Check whether the term and contract structure fall within credit-purchase intermediation | Legal payment period and advance-payment structure matter more than the BNPL UX label |
+| Three-, six-, or twelve-installment deferred payment | Moves closer to comprehensive credit-purchase intermediation | Payable-capacity calculation, designated credit-information institutions, and excessive-credit-prevention duties |
+| Virtual-card BNPL | May be regulated as card issuance / provision and comprehensive credit-purchase intermediation | Card-number and credit-limit controls were central in the Paidy administrative-action context |
+| PSP performs merchant screening | Registration need depends on who holds final approval authority | Contract substance between acquirer and PSP |
+| Purpose loan | May become individual credit-purchase intermediation if sufficiently connected to the sales contract | Seller tie-up, solicitation, and integrated procedures |
+| Code-payment linkage | Card-number storage, reuse, and fraud-prevention duties may become relevant | Non-retention architecture, PCI DSS, EMV 3-D Secure, and adjacent controls |
 
 ## Related
 
-- 笶ｰbf笶ｱ
-- 笶ｰbg笶ｱ
-- 笶ｰbh笶ｱ
-- 笶ｰbi笶ｱ
-- 笶ｰbj笶ｱ
-- 笶ｰca笶ｱ
-- 笶ｰcb笶ｱ
+- [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]]
+- [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry index]]
+- [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]
+- [[JapanFG/paidy|Paidy]]
+- [[JapanFG/gmo-postpay|GMO Postpay]]
+- [[JapanFG/net-protections-hd|Net Protections HD]]
+- [[JapanFG/kuroneko-atobarai|Kuroneko deferred payment]]
 
 ## Sources
 
-- METI, 蜑ｲ雉ｦ雋ｩ螢ｲ豕・ https://www.meti.go.jp/policy/economy/consumer/credit/笶ｰgg笶ｱkappuhanbaihou.html
-- METI, 蜑ｲ雉ｦ雋ｩ螢ｲ豕包ｼ亥ｾ梧鴛蛻・㍽・峨・讎りｦ√・FAQ: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
-- METI, 蜑ｲ雉ｦ雋ｩ螢ｲ豕輔・荳驛ｨ繧呈隼豁｣縺吶ｋ豕募ｾ九↓縺､縺・※・遺擴da笶ｱ豕募ｾ銀擴dh笶ｱ・・ https://www.meti.go.jp/policy/economy/consumer/credit/R笶ｰgh笶ｱkaiseinogaiyou.pdf
-- METI, 縲悟ｹｳ蝮・ｻｶ貊樒紫縲榊所縺ｳ縲御ｸ企剞蟒ｶ貊樒紫縲阪・蜈ｬ陦ｨ: https://www.meti.go.jp/policy/economy/consumer/credit/笶ｰgi笶ｱheikinentairituoyobijougenentairitu.html
-- METI, 逋ｻ骭ｲ莠区･ｭ閠・ｸ隕ｧ: https://www.meti.go.jp/policy/economy/consumer/credit/笶ｰgj笶ｱtourokujigyousyaitiran.html
-- METI, 逋ｻ骭ｲ蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・ｸ隕ｧ PDF: https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
-- METI, 蜑ｲ雉ｦ雋ｩ螢ｲ豕輔↓蝓ｺ縺･縺剰｡梧帆蜃ｦ蛻・・迥ｶ豕・ｼ亥ｾ梧鴛菫｡逕ｨ・・ https://www.meti.go.jp/policy/economy/consumer/credit/atobaraigyouseisyobunnojoukyou.html
-- Kanto METI / METI, 逋ｻ骭ｲ蛹・峡菫｡逕ｨ雉ｼ蜈･縺ゅ▲縺帙ｓ讌ｭ閠・ｼ域ｪ蠑丈ｼ夂､ｾPaidy・峨↓蟇ｾ縺吶ｋ陦梧帆蜃ｦ蛻・笶ｰcg笶ｱ: https://www.meti.go.jp/policy/economy/consumer/credit/笶ｰha笶ｱ.pdf
+- METI, Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihou.html
+- METI, Installment Sales Act deferred-payment FAQ: https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html
+- METI, overview of the partial amendment to the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/R2kaiseinogaiyou.pdf
+- METI, average and upper-limit delinquency rates: https://www.meti.go.jp/policy/economy/consumer/credit/heikinentairituoyobijougenentairitu.html
+- METI, registered operators list: https://www.meti.go.jp/policy/economy/consumer/credit/tourokujigyousyaitiran.html
+- METI, registered comprehensive credit-purchase intermediaries PDF: https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
+- METI, administrative actions under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/atobaraigyouseisyobunnojoukyou.html
 
 ---
 
-> [!info] 譬｡譬ｸ迥ｶ諤・> confidence: **likely**・遺擴ch笶ｱ・峨や擴hb笶ｱ謾ｹ豁｣縺ｮ鬪ｨ蟄舌∵命陦梧律縲∝ｰ鷹｡咲匳骭ｲ蛻ｶ蠎ｦ縲∥cquiring / PSP 蠅・阜縲￣aidy 陦梧帆蜃ｦ蛻・・ METI / 髢｢譚ｱ邨梧ｸ育肇讌ｭ螻雉・侭縺ｧ遒ｺ隱阪ょ句挨莨∵･ｭ縺ｮ迴ｾ陦後し繝ｼ繝薙せ蛻･隧ｲ蠖捺ｧ縺ｯ縲∫ｴ・ｬｾ繝ｻ逋ｻ骭ｲ諠・ｱ繝ｻ繧ｵ繝ｼ繝薙せ莉墓ｧ倥・霑ｽ蜉遒ｺ隱阪′蠢・ｦ√・
+> [!info] Verification status
+> confidence: **likely**. The amendment outline, small-amount registration framework, acquiring / PSP boundary, and Paidy administrative-action layer are based on public METI and Kanto METI materials. Current service-level classification for individual companies requires confirmation against contracts, registration data, and product specifications.

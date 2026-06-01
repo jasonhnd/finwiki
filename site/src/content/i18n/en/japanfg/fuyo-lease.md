@@ -8,133 +8,132 @@ title: "Fuyo General Lease"
 translated_at: 2026-05-31T15:29:03.910Z
 ---
 # Fuyo General Lease
-# 芙蓉総合リース
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/orix-corp|ORIX Corporation]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-旧 富士銀行 系の準大手総合リース会社（東証 PRIME **8424**）。**3 大リース（[[orix-corp]] / 三菱 HC キャピタル / [[tokyo-century]]）に次ぐ準大手** で、**芙蓉グループ**（旧 富士銀行コミュニティ：[[mizuho-fg]] + 丸紅 + 日産 + キヤノン + 日清製粉 + 東京海上 [[tokio-marine]] 等）の金融中核機能を担う。1969-09-04 創業（旧称：芙蓉ファクター）。一般機器リース + 不動産 + 環境・再エネ + 医療・介護 + 航空機・船舶 + 海外（アジア中心）の 6 軸構成。同じ旧富士銀行系で「準三大リースに先行統合できた」[[tokyo-century]] とは兄弟関係 + 競合関係。^[extracted]
+Fuyo General Lease is a semi-major comprehensive leasing company affiliated with the former Fuji Bank group and listed on the TSE Prime Market under **8424**. It sits below the three mega leasing groups ([[orix-corp]] / Mitsubishi HC Capital / [[tokyo-century]]) and serves as a core financial function within the **Fuyo Group**, the former Fuji Bank community that includes [[mizuho-fg]], Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine [[tokio-marine]]. Established on 1969-09-04 under the former name Fuyo Factor, the company is organized around six axes: general equipment leasing, real estate, environment and renewable energy, medical and nursing care, aircraft and vessels, and overseas business centered on Asia. It has both sibling and competitive relationships with [[tokyo-century]], another former Fuji Bank-linked leasing company that moved earlier into quasi-mega leasing consolidation. ^[extracted]
 
-## 1. 会社概要
+## 1. Company Overview
 
-**正式名**：芙蓉総合リース株式会社 ^[extracted]
-**英名**：Fuyo General Lease Co., Ltd. ^[extracted]
-**証券コード**：東証 PRIME 8424 ^[extracted]
-**創業**：1969-09-04（旧称：芙蓉ファクター）^[extracted]
-**本社**：東京都千代田区（丸の内エリア）^[extracted]
-**業態**：総合リース・ファイナンス（銀行系）^[extracted]
+**Formal name**: Fuyo General Lease Co., Ltd. ^[extracted]
+**English name**: Fuyo General Lease Co., Ltd. ^[extracted]
+**Securities code**: TSE Prime 8424 ^[extracted]
+**Established**: 1969-09-04, formerly Fuyo Factor ^[extracted]
+**Head office**: Chiyoda-ku, Tokyo, Marunouchi area ^[extracted]
+**Business type**: Comprehensive leasing and finance, bank-affiliated ^[extracted]
 
-### 業容ポジショニング
+### Business Positioning
 
-| 階層 | 代表企業 | 系列 |
+| Tier | Representative companies | Lineage |
 |---|---|---|
-| 三大リース（メガ） | [[orix-corp]] / 三菱 HC キャピタル / [[tokyo-century]] | 旧 三菱・三和 / 旧 富士 |
-| 準大手 | **芙蓉総合リース** / NEC キャピタルソリューション / リコーリース 等 | 旧 富士・NEC・リコー |
-| 中堅 | 日立キャピタル（→ 三菱 HC へ統合）/ 東銀リース 等 | - |
+| Three mega leasing groups | [[orix-corp]] / Mitsubishi HC Capital / [[tokyo-century]] | Former Mitsubishi and Sanwa / former Fuji |
+| Semi-major | **Fuyo General Lease** / NEC Capital Solutions / Ricoh Leasing, etc. | Former Fuji / NEC / Ricoh |
+| Mid-tier | Hitachi Capital (integrated into Mitsubishi HC) / BOT Lease, etc. | - |
 
-### 主要株主 / 資本関係
+### Major Shareholders / Capital Relationships
 
-旧 富士銀行系の **芙蓉グループ** が中核安定株主：^[extracted]
+The former Fuji Bank-linked **Fuyo Group** functions as the core stable-shareholder bloc. ^[extracted]
 
-| 株主 | 関係 |
+| Shareholder | Relationship |
 |---|---|
-| [[mizuho-fg]]（旧 富士銀行） | 主要取引銀行・大株主 |
-| 丸紅 | 旧 富士銀行系商社・大株主 |
-| 東京海上日動 [[tokio-marine]] | 旧 富士銀行系損保 |
-| 日産自動車 | 旧 富士銀行系製造業（自動車リース面でも提携）|
-| キヤノン | 旧 富士銀行系製造業 |
-| 日清製粉グループ | 旧 富士銀行系食品 |
+| [[mizuho-fg]] (former Fuji Bank) | Main transaction bank and major shareholder |
+| Marubeni | Former Fuji Bank-linked trading company and major shareholder |
+| Tokio Marine & Nichido [[tokio-marine]] | Former Fuji Bank-linked non-life insurer |
+| Nissan Motor | Former Fuji Bank-linked manufacturer; also partnered in auto leasing |
+| Canon | Former Fuji Bank-linked manufacturer |
+| Nisshin Seifun Group | Former Fuji Bank-linked food company |
 
-### 主要子会社・関連会社
+### Major Subsidiaries and Affiliates
 
 ```
-芙蓉総合リース（8424）
-  ├── 芙蓉オートリース（自動車リース）
-  ├── 芙蓉総合リース・キャピタル（ファイナンス専業）
-  ├── 不動産関連 SPC 群
-  ├── 環境・再エネ プロジェクト SPC（メガソーラー・風力等）
-  ├── 海外子会社（アジア中心）
-  │     ├── 中国（上海・大連 等）
-  │     ├── タイ
-  │     ├── インドネシア
-  │     └── ベトナム
-  └── 医療・介護リース専業子会社
+Fuyo General Lease (8424)
+  |-- Fuyo Auto Lease (auto leasing)
+  |-- Fuyo General Lease Capital (specialized finance)
+  |-- Real-estate-related SPC group
+  |-- Environment and renewable-energy project SPCs (mega-solar, wind power, etc.)
+  |-- Overseas subsidiaries, mainly in Asia
+  |     |-- China (Shanghai, Dalian, etc.)
+  |     |-- Thailand
+  |     |-- Indonesia
+  |     `-- Vietnam
+  `-- Specialized medical and nursing-care leasing subsidiaries
 ```
 
-## 2. 事業セグメント・マップ
+## 2. Business Segment Map
 
-| セグメント | 主要対象 | 特徴 |
+| Segment | Main targets | Characteristics |
 |---|---|---|
-| 一般機器リース | 工作機械・OA 機器・産業用設備 | 創業以来のコア事業 |
-| 自動車リース | 法人車両 | 日産との関係を活用 |
-| 不動産リース・ファイナンス | オフィスビル・物流施設・商業施設 | アセットマネジメント色 |
-| 環境・再エネ | メガソーラー・風力・バイオマス・水素 | 2010 年代以降の成長分野 |
-| 医療・介護リース | 医療機器・介護施設 | 高齢化対応の成長セグメント |
-| 航空機・船舶 | 航空機オペレーティングリース・船舶 | 大型グローバル案件 |
-| 海外 | アジア（中国・タイ・インドネシア・ベトナム）| 段階的拡大 |
-| BPO・サービス | リース付随サービス | - |
+| General equipment leasing | Machine tools, office-automation equipment, industrial facilities | Core business since establishment |
+| Auto leasing | Corporate vehicles | Uses the relationship with Nissan |
+| Real estate leasing and finance | Office buildings, logistics facilities, commercial facilities | Asset-management orientation |
+| Environment and renewable energy | Mega-solar, wind power, biomass, hydrogen | Growth field since the 2010s |
+| Medical and nursing-care leasing | Medical equipment, nursing-care facilities | Growth segment linked to population ageing |
+| Aircraft and vessels | Aircraft operating leases, vessels | Large-scale global transactions |
+| Overseas | Asia, including China, Thailand, Indonesia, and Vietnam | Gradual expansion |
+| BPO and services | Lease-adjacent services | - |
 
-## 3. 沿革
+## 3. History
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| **1969-09-04** | 芙蓉ファクター として創業（旧 富士銀行系リース）^[extracted] |
-| 1971 | 富士銀行系列リースとしての位置付け確立 ^[extracted] |
-| **1999** | 富士銀行 + 第一勧業銀行 + 日本興業銀行 統合 → みずほ FG 発足、芙蓉総合リースも実質的に みずほ系へ ^[extracted] |
-| 2024〜 | 中期経営計画 推進中 ^[extracted] |
+| **1969-09-04** | Established as Fuyo Factor, a former Fuji Bank-linked leasing company ^[extracted] |
+| 1971 | Position as a Fuji Bank group leasing company established ^[extracted] |
+| **1999** | Fuji Bank, Dai-Ichi Kangyo Bank, and Industrial Bank of Japan integrated, creating Mizuho FG; Fuyo General Lease effectively moved into the Mizuho lineage ^[extracted] |
+| 2024 onward | Medium-term management plan under way ^[extracted] |
 
-### 芙蓉グループ内取引
+### Intra-Fuyo Group Transactions
 
-- **[[mizuho-fg]]**（旧 富士銀行）：主要取引銀行 + 案件紹介ルート
-- **丸紅**：商社案件（航空機・船舶・海外プロジェクト）
-- **日産**：自動車リース面の連携
-- **キヤノン・日清製粉 等**：設備リース基盤客
-- **東京海上 [[tokio-marine]]**：付保面の標準パートナー
+- **[[mizuho-fg]]** (former Fuji Bank): main transaction bank and deal-referral route
+- **Marubeni**: trading-company transactions, including aircraft, vessels, and overseas projects
+- **Nissan**: cooperation in auto leasing
+- **Canon / Nisshin Seifun Group, etc.**: equipment-leasing customer base
+- **Tokio Marine [[tokio-marine]]**: standard insurance partner
 
-### 競合構造
+### Competitive Structure
 
-| 観点 | 芙蓉総合リース | [[tokyo-century]] |
+| Dimension | Fuyo General Lease | [[tokyo-century]] |
 |---|---|---|
-| 系列 | 旧 富士銀行（みずほ系）| 旧 第一勧業銀行（みずほ系）|
-| 統合戦略 | 単独で準大手維持 | 東京リース + センチュリーリース 合併で大手化 |
-| 業容規模 | 準大手 | 三大リースの一角 |
-| 客層 | 芙蓉グループ + 中堅企業 | みずほ系 + ITC（伊藤忠）等 |
+| Lineage | Former Fuji Bank (Mizuho lineage) | Former Dai-Ichi Kangyo Bank (Mizuho lineage) |
+| Integration strategy | Maintains semi-major status independently | Became a major player through the merger of Tokyo Leasing and Century Leasing |
+| Business scale | Semi-major | One of the three mega leasing groups |
+| Customer base | Fuyo Group + mid-tier companies | Mizuho lineage + ITOCHU and others |
 
-その他競合：
+Other competitors:
 
-- **[[orix-corp]]**（三大リース、旧 三和銀行系 → 独立化）
-- **三菱 HC キャピタル**（三大リース、旧 三菱 UFJ リース + 日立キャピタル合併、[[mufg]] + 三菱商事系）
-- **NEC キャピタルソリューション・リコーリース** 等の専業準大手
+- **[[orix-corp]]**: one of the three mega leasing groups; formerly Sanwa Bank-linked and later independent
+- **Mitsubishi HC Capital**: one of the three mega leasing groups, formed by Mitsubishi UFJ Lease and Hitachi Capital, with [[mufg]] and Mitsubishi Corporation lineage
+- **NEC Capital Solutions / Ricoh Leasing** and other specialized semi-major leasing companies
 
-## 5. 規制・政策
+## 5. Regulation and Policy
 
-- **主管**：金融庁（FSA）・経済産業省
-- **業界団体**：公益社団法人リース事業協会
-- **規制枠組**：
-  - リース会計基準（IFRS 16 / J-GAAP 改訂）への対応
-  - 銀行系子会社規制（**みずほ FG との関係性**による銀行子会社規制適用範囲）
-  - 再エネ FIT / FIP 制度（環境セグメント）
-  - 航空機リース（タックスリース税制）
-- **直近政策論点**:
-  - 2024〜 日銀政策金利正常化 → 調達金利上昇 vs リース料スプレッド
-  - 2025〜 リース会計基準 IFRS 16 ベース変更による BS 計上影響
-  - 脱炭素 / TCFD 開示要求の強化
+- **Supervising authorities**: Financial Services Agency (FSA) and Ministry of Economy, Trade and Industry
+- **Industry body**: Japan Leasing Association
+- **Regulatory framework**:
+  - Response to lease accounting standards, including IFRS 16 and J-GAAP revisions
+  - Bank-affiliated subsidiary regulation, including the applicable scope created by the **relationship with Mizuho FG**
+  - Renewable-energy FIT / FIP systems in the environmental segment
+  - Aircraft leasing and the tax-lease regime
+- **Recent policy issues**:
+  - 2024 onward: Bank of Japan policy-rate normalization, raising the tension between funding-cost increases and lease-rate spreads
+  - 2025 onward: Balance-sheet impact from IFRS 16-based changes to lease accounting standards
+  - Strengthening of decarbonization and TCFD disclosure requirements
 
 ## Related
 
 - [[mizuho-fg]] · [[tokyo-century]] · [[orix-corp]] · [[mufg]] · [[tokio-marine]]
-- 芙蓉グループ：丸紅・日産・キヤノン・日清製粉・東京海上
+- Fuyo Group: Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine
 
 ## Sources
 
-- **Wikipedia: 芙蓉総合リース**（https://ja.wikipedia.org/wiki/芙蓉総合リース, 2026-05-19 抽出）
-- 芙蓉総合リース 公式コーポレートサイト・有価証券報告書
-- 東証 PRIME 上場銘柄 8424 公開情報
+- **Wikipedia: Fuyo General Lease** (https://ja.wikipedia.org/wiki/芙蓉総合リース, extracted 2026-05-19)
+- Fuyo General Lease official corporate website and securities reports
+- TSE Prime listed company 8424 public information
 
 ---
 
-> [!info] 検証状況
-> confidence: **likely**（公開情報ベース 2026-05-19）。定量数値（総資産 / 純利益 / 株主比率）は時点変動が大きく、最新値は半期報告書 / 大量保有報告書を要参照。沿革は Wikipedia 抽出の主要事象のみで、子会社の細部・海外拠点詳細は IR 資料の最新版で要更新。
+> [!info] Validation Status
+> confidence: **likely** (based on public information as of 2026-05-19). Quantitative figures such as total assets, net income, and shareholder ratios are highly time-sensitive; the latest values should be checked against semiannual reports and large-shareholding reports. The history includes only major events extracted from Wikipedia, and subsidiary details and overseas-office specifics should be refreshed against the latest IR materials.

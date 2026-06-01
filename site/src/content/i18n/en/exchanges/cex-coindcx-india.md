@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.377Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/cex-wazirx-india|WazirX]] for the closest India peer / contrast context, [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader global benchmark, and [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較]] for the regulatory boundary view.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/cex-wazirx-india|WazirX]] for the closest India peer / contrast context, [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader global benchmark, and [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison]] for the regulatory boundary view.
 
 > Established 2018-04  · one of the 1  largest in the India spot market · backed by B Capital / Pantera · FIU-IND PMLA registered reporting entity · became a Unicorn in 2022-04  (valuation approx. $2.15B)
 
@@ -50,7 +50,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - INR spot market (legal as a PMLA reporting entity)
 - Number of supported listings: 500+ (in addition to major names such as BTC / ETH / SOL / XRP / MATIC / ADA / DOGE, it is one of the 1  main trading venues for the India-origin project Polygon (MATIC))
 - USDT / USDC market co-located
-- 2 -app parallel structure of CoinDCX Pro / CoinDCX Go (UX separation for professionals / beginners)
+- Two-app parallel structure of CoinDCX Pro / CoinDCX Go (UX separation for professional and retail users)
 
 ## 4. Scope of business
 

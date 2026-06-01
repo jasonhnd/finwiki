@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.344Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[JapanFG/mitsui-co|三井物産]] and [[JapanFG/itochu-corp|伊藤忠商事]] for the closest 5  major trading-company peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (inward-facing group treasury) and [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (outward-facing leasing, partially owned and listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties trading companies to megabanks / leasing.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[JapanFG/mitsui-co|Mitsui & Co.]] and [[JapanFG/itochu-corp|ITOCHU Corporation]] for the closest 5  major trading-company peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward-facing group treasury) and [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, partially owned and listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties trading companies to megabanks / leasing.
 
 ## 1. Company overview
 
@@ -31,9 +31,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ```
 Mitsubishi Corporation (8058,  TSE Prime)
-  ├── [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (100%)        — inward CMS / group finance
-  ├── [[JapanFG/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] (100%)  — group investment management / alternatives
-  ├── [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (about 20% class, equity-method)            — outward-facing leasing, listed 8593
+  ├── [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (100%)        — inward CMS / group finance
+  ├── [[JapanFG/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]] (100%)  — group investment management / alternatives
+  ├── [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (about 20% class, equity-method)            — outward-facing leasing, listed 8593
   
   ├── Lawson (50%, remaining 50% KDDI, privatized through 2024 年 MBO)                              — convenience-store / retail finance platform
   └── Mitsubishi Motors (about 20% class, equity-method)                                                  — automotive / mobility
@@ -97,7 +97,7 @@ The **two-layer structure** of "outward leasing = Mitsubishi HC Capital" and "in
 
 ## 5. Regulation / policy
 
-- **Accounting**: Uses **IFRS** (most 5  major trading companies use IFRS); equity-method investments have a large weight. [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] / Mitsubishi Motors / many JV investments are equity-method investments ^[extracted]
+- **Accounting**: Uses **IFRS** (most 5  major trading companies use IFRS); equity-method investments have a large weight. [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / Mitsubishi Motors / many JV investments are equity-method investments ^[extracted]
 
 ## 6. Counterpoints
 
@@ -114,10 +114,10 @@ The **two-layer structure** of "outward leasing = Mitsubishi HC Capital" and "in
 
 - [[JapanFG/INDEX|JapanFG index]]
 - [[JapanFG/mitsui-co|三井物産]] · [[JapanFG/itochu-corp|伊藤忠商事]] · [[JapanFG/sumitomo-corp|住友商事]] · [[JapanFG/marubeni-corp|丸紅]] · [[JapanFG/toyota-tsusho-corp|豊田通商]] · [[JapanFG/sojitz-corp|双日]] (5  major trading companies + mid-sized trading companies)
-- [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (inward group treasury)
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (outward-facing leasing, jointly controlled with MUFG)
+- [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward group treasury)
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, jointly controlled with MUFG)
 - [[JapanFG/mufg|MUFG]] · [[JapanFG/mitsubishi-ufj-trust|三菱UFJ信託銀行]] (Mitsubishi Group financial ecosystem)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investment universe]]
 
 ## Sources
 

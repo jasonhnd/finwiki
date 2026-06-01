@@ -15,7 +15,7 @@ Bitcoin 2026  scaling is not about "choosing L2  as 1  option," but about **4  p
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|cross-chain 5 極対照マトリクス]] for the contrast between Bitcoin and Ethereum L2 / Canton / cross-chain bridges, and against [[systems/eigenlayer-overview|EigenLayer 総覧]] to understand Babylon's counterpoint relationship as "Bitcoin-version restaking." See [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 戦略アンカー]] for background and for the fundamental route split between Bitcoin and Ethereum in L1 vs L2 .
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] for the contrast between Bitcoin and Ethereum L2 / Canton / cross-chain bridges, and against [[systems/eigenlayer-overview|EigenLayer overview]] to understand Babylon's counterpoint relationship as "Bitcoin-version restaking." See [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] for background and for the fundamental route split between Bitcoin and Ethereum in L1 vs L2 .
 
 ## Bitcoin scaling 4  stack comparison
 
@@ -64,7 +64,7 @@ Bitcoin's scaling route has long been stalled by soft-fork topics, and the impor
 - **CTV (BIP-119, OP_CHECKTEMPLATEVERIFY)**: Proposed by Jeremy Rubin in 2019 , enabling covenants (pre-committed output scripts) and supporting vaults / payment pools / more efficient Lightning channels. Debate restarted in 2024 , but disagreements inside the community are obvious
 - **CSFS (BIP-348, OP_CHECKSIGFROMSTACK)**: Verifies signatures from the stack and, combined with CTV, can enable more efficient proof compression for BitVM2 
 - **APO / SIGHASH_ANYPREVOUT (BIP-118)**: Eltoo route, simplifying the Lightning protocol, still under discussion
-- **drivechain (BIP-300/301)**: The BIP-300  sidechain miner-secured bridge long promoted by Paul Sztorc, basically rejected by mainstream Bitcoin Core developers in 2024-2026  because miner-bridge changes Bitcoin's economic incentives
+- **drivechain (BIP-300/301)**: The BIP-300  sidechain miner-secured bridge long promoted by Paul Sztorc, substantively rejected by mainstream Bitcoin Core developers in 2024-2026  because miner-bridge changes Bitcoin's economic incentives
 - **OP_CAT (BIP-347)**: Temporarily became a topic in 2024-2025  and enables covenant simulation, but likewise remains inactive
 - **Soft-fork timeline**: Bitcoin Core has no ETH-like EIP roadmap; activation depends entirely on community consensus + miner signaling + UASF risk, and the probability of any important soft fork activating within 2026  remains < 30%
 
@@ -93,7 +93,7 @@ Total scale ~$8-10B vs Bitcoin circulating market cap ~$2T, with penetration onl
 | Soft-fork route | Extremely slow, high community-consensus threshold | EIP roadmap in half-year units |
 | Cross-chain tooling | Almost no reuse of EVM toolchains | [[systems/cctp-v2-overview|CCTP V2]] / [[systems/chain-abstraction-pattern-overview|chain abstraction]], etc. |
 
-See [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] for a detailed comparison.
+See [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] for a detailed comparison.
 
 ## Deep dive on Stack 1  · Lightning economic model and LSP-ification
 
@@ -149,13 +149,13 @@ Babylon is **"Bitcoin-version EigenLayer"**, but does not depend on wrap / bridg
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
-- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]]
-- [[systems/eigenlayer-overview|EigenLayer 総覧]]
-- [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 戦略アンカー]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]]
-- [[systems/cctp-v2-overview|CCTP V2 総覧]]
-- [[systems/chain-abstraction-pattern-overview|chain abstraction モデル総覧]]
-- [[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]]
+- [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]]
+- [[systems/eigenlayer-overview|EigenLayer overview]]
+- [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob expansion]]
+- [[systems/cctp-v2-overview|CCTP V2 overview]]
+- [[systems/chain-abstraction-pattern-overview|chain abstraction model overview]]
+- [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -40,7 +40,7 @@ This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction de
                                                 consensus
                                                        │
                                                        ▼
-                                                 Live issuance (TBD;
+                                                 Live issuance (not publicly committed;
                                                  earliest realistic
                                                  late 2020s)
 ```

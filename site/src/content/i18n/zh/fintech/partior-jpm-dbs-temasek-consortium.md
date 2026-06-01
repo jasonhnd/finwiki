@@ -4,61 +4,68 @@ source_hash: 68c870bbc2b6face
 lang: zh
 status: machine
 fidelity: ok
-title: "Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済"
-translated_at: 2026-05-31T11:13:44.910Z
+title: "Partior：JPM / DBS / StanChart / Temasek 跨境批发结算联盟"
+translated_at: 2026-05-31T11:13:44.000Z
 ---
 
-# Partior · JPM / DBS / StanChart / Temasek コンソーシアム · シンガポール錨地のクロスボーダー・ホールセール決済
+# Partior：JPM / DBS / StanChart / Temasek 跨境批发结算联盟
 
-## Wiki ??
+## Wiki 路由
 
-????? [[fintech/INDEX|fintech index]]. ?? [[fintech/fnality-wholesale-settlement|Fnality]](英米側マルチバンク wholesale)と [[fintech/jpm-onyx-wholesale-network|JPM Onyx]](シングルバンク TD)で wholesale-settlement コンソーシアムの三角形を、そして [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS 戦略含意]] と合わせて Partior のシンガポール錨地構造を読む。
+本条目属于 [[fintech/INDEX|fintech index]]。阅读时可与 [[fintech/fnality-wholesale-settlement|Fnality]] 的欧美 wholesale 路线、[[fintech/jpm-onyx-wholesale-network|JPM Onyx]] 的单行 tokenized deposit 路线，以及 [[fintech/singapore-mas-payment-services-act-overview|MAS PSA 监管框架]] 对照，以理解 Partior 的新加坡联盟型跨境结算定位。
 
 > [!info] TL;DR
-> Partior Pte Ltd は 2021-04 に **JPMorgan + DBS + Temasek** の 3 者が共同設立したシンガポールの wholesale クロスボーダー決済会社で、2024 年に **Standard Chartered** が第 4 主要株主として出資、**iFAST** 等 fintech も加入してエコシステムを拡大。メインネットは 2021-08 稼働、初期は USD / SGD チャネル、現在は USD / SGD / EUR / GBP / JPY の 5 通貨に拡張。Partior は [[fintech/multi-megabank-consortium-governance|複数大手銀行連邦]] + [[fintech/singapore-mas-payment-services-act-overview|MAS PSA 規制]] の産物で、**Fnality(英米/欧州)と「アジア wholesale settlement」ルートを形成**し、[[fintech/jpm-onyx-wholesale-network|JPM Onyx]] シングルバンク TD ルートと対比される。
+> Partior Pte Ltd 是 2021-04 由 JPMorgan、DBS 与 Temasek 共同设立的新加坡 wholesale 跨境结算公司。2024 年 Standard Chartered 成为第 4 个主要股东，iFAST 等 fintech 参与扩大网络。主网在 2021-08 上线，初期支持 USD / SGD，之后扩展至 USD / SGD / EUR / GBP / JPY 等币种。Partior 可视为多大型银行联盟 + MAS 监管框架下的亚洲 wholesale settlement 路线。
 
-## ????
+## 关键事实
 
-- 登記地:Singapore · 2021-04 創設(JPMorgan + DBS + Temasek の 3 者各 ~$33M シード)^[extracted]
-- メインネット稼働:2021-08 · 初の USD ↔ SGD クロスボーダー決済 24×7 即時 ^[extracted]
-- 2024 Standard Chartered 出資 = 第 4 主要株主(~$80M Series B)^[extracted]
-- 2025-Q3 iFAST + 多数のアジア銀行 / FX プロバイダーがネットワークに加入(メンバー 30+)^[extracted]
-- 対応通貨:USD / SGD / EUR / GBP / JPY(2026-Q1 INR / IDR 追加予定)^[extracted]
-- 累計クロスボーダー決済:~$1.5T(稼働以来累計、2026-Q1 データ)^[extracted]
-- 技術スタック:Hyperledger Fabric 派生 + モジュール式 PvP / DvP / atomic FX swap ^[extracted]
-- CEO:Humphrey Valenbreder(元 SWIFT) · 総従業員 ~80(2026-Q1)^[extracted]
+- 注册地：新加坡；2021-04 由 JPMorgan、DBS、Temasek 共同创设。
+- 主网：2021-08 上线，初期处理 USD / SGD 跨境结算。
+- 股东扩展：2024 年 Standard Chartered 作为主要股东加入。
+- 网络扩展：2025-Q3 iFAST 和多家亚洲银行 / FX 服务提供方加入网络。
+- 支持币种：公开资料列示 USD / SGD / EUR / GBP / JPY，并计划扩展至更多亚洲币种。
+- 技术栈：公开资料提到 Hyperledger Fabric、PvP / DvP、atomic FX swap 等批发结算模块。
 
-## ?? / ????
+## 机制与路线
 
-Partior のコアモデル = **「アジア・クロスボーダー・ホールセール決済の 24×7 即時ネットワーク」**だが、[[fintech/fnality-wholesale-settlement|Fnality]](オンチェーン中央銀行準備金)と異なり、Partior は**中央銀行準備金を直接トークン化せず**、商業銀行預金 + JP Morgan / DBS / StanChart のバランスシート相互ロック方式で「準 settlement」を実現(TD に類似するが、複数銀行のコンソーシアムをまたぐ)。各クロスボーダー決済は同時に:送付行の自国通貨貸方記帳 + 受取行の目的通貨借方記帳 + Partior ネットワーク上の atomic PvP commitment = T+0 finality を発生させる。**重要なイノベーション**:単一 RTGS に依存せず、**商業銀行コンソーシアム + オンチェーン atomic settlement で SWIFT + Nostro/Vostro の多日決済を置換**。
+Partior 的核心定位是“亚洲跨境 wholesale 结算网络”。它不同于 [[fintech/fnality-wholesale-settlement|Fnality]] 直接围绕央行资金或央行货币结算资产构建的路线，而是通过商业银行联盟、参与行余额与可编程结算机制来实现 near real-time / 24x7 settlement。
 
-技術スタックは Hyperledger Fabric 派生(JPMorgan Onyx Quorum / Fnality Besu / Canton と「アジア vs 欧米」技術スタック分流を形成)で、[[systems/canton-overview|Canton Network]] / [[systems/cosmos-ibc-for-financial-institutions|Cosmos IBC]] とのクロスチェーン調整にブリッジング要件がある。Partior の「原子 FX swap」モジュール(2024-Q3 稼働)= 24×7 クロス通貨 PvP は、**[[fintech/fnality-wholesale-settlement|Fnality]] の cross-currency PvP と直接的に競合**するが、ルートは異なる(Partior = 商業銀行預金 vs Fnality = 中央銀行準備金)。
+每笔跨境结算通常可拆成：付款行的本币账户、收款行的目标币种账户、Partior 网络上的 atomic PvP commitment，以及参与行之间的最终结算安排。创新点不只是“上链”，而是把多日 nostro / vostro 对账缩短为更接近实时的批发银行结算流程。
 
-戦略上、Partior は MAS Project Guardian / Ubin シリーズ([[fintech/bis-project-guardian-overview|BIS Project Guardian]])の商用化サンプル —— シンガポールは自身を **「アジアのホールセール決済とトークン化資産の国際ハブ」** として位置づけ、Partior は同戦略における settlement 層を担う。[[fintech/mbridge-bis-multi-cbdc-overview|mBridge]](CN/HK/Thailand/UAE 中央銀行主導)と異なり、Partior は商業銀行主導であり、**両者はアジア・クロスボーダー決済市場で実質的に競合**:mBridge は「中央銀行 multi-CBDC」ルート、Partior は「商業銀行コンソーシアム + Singapore MAS ライセンス」ルートを進む。
+技术上，Partior 更偏商业银行联盟网络；与 JPMorgan Onyx / Kinexys、Fnality、Canton Network、Cosmos IBC 等路线相比，其差异在于参与方治理、许可网络边界、结算资产类型和监管锚点。
 
-## ?????
+## 起源与演进
 
-2017-2020 年 JPMorgan Onyx + DBS DigiBank + Temasek が各々 wholesale settlement / tokenized assets を実験。**2021-04 3 者が共同で Partior Pte Ltd を設立**、シンガポール MAS 規制下の wholesale payment network operator として登記。2021-08 メインネット稼働、USD/SGD 双通貨。2022 EUR/GBP 追加。**2024-Q1 Standard Chartered 戦略出資**、「3 者」から「4 者」へ、Partior はシンガポール錨地の国際マルチバンク・ネットワークとなる。2024-Q3 atomic FX swap 稼働 = 24×7 クロス通貨 PvP。2025-Q3 iFAST 等 fintech ネットワークメンバーが拡張、Partior を純銀行ネットワークから「銀行 + fintech + asset manager」混合ネットワークへ進化させる目標。2026-Q1 累計クロスボーダー決済額 ~$1.5T、[[fintech/jpm-onyx-wholesale-network|JPM Onyx Kinexys]] $1.5T 累計と同オーダー、**ただし Partior は multi-bank コンソーシアム、これがルート差異**。2026-Q1 INR / IDR 追加計画は Partior が「新興アジア」(インド / インドネシア)クロスボーダー・チャネルへの対応を試みる兆しで、[[fintech/india-anti-dollar-dpi-alliance|India DPI 反米ドル連盟]] に対して「アジア商業銀行代替案」の探りを入れる。
+2017-2020 年，JPMorgan Onyx、DBS 与 Temasek 围绕 wholesale settlement 和 tokenized assets 进行试验。2021-04，三方共同成立 Partior Pte Ltd。2021-08 主网上线，先以 USD / SGD 双币种作为起点。2024 年 Standard Chartered 加入后，Partior 从三方联盟扩展为更广泛的多银行网络。2025 年以后，iFAST 等 fintech 参与，使其从纯银行网络向银行 + fintech + asset manager 的混合网络演进。
 
-## ????
+## 研究用途
+
+1. 比较亚洲与欧美 wholesale settlement 路线时，将 Partior 与 Fnality 对照。
+2. 分析多大型银行联盟治理时，与 [[fintech/multi-megabank-consortium-governance|multi-megabank consortium governance]] 联读。
+3. 研究新加坡 MAS 监管与稳定币 / 代币化存款边界时，与 PSA 和 DPT / SCS 页面联读。
+4. 分析银行级 atomic FX swap、PvP 与 DvP 时，记录公开披露的币种、参与方和上线阶段。
+
+中文维护时，应优先把 Partior 作为“商业银行联盟结算网络”理解，而不是简单归入零售稳定币或公链桥。判断一条新披露是否应写入本页，核心标准是它是否改变参与机构、结算币种、网络治理、批发支付流程或监管锚点。
+
+## 相关
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/INDEX|fintech index]]
 - [[fintech/fnality-wholesale-settlement|Fnality]]
 - [[fintech/jpm-onyx-wholesale-network|JPM Onyx / Kinexys]]
-- [[fintech/multi-megabank-consortium-governance|複数大手銀行の連邦ガバナンス]]
+- [[fintech/multi-megabank-consortium-governance|multi-megabank consortium governance]]
 - [[fintech/singapore-mas-payment-services-act-overview|Singapore MAS PSA]]
-- [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS 戦略含意]]
+- [[fintech/singapore-mas-payment-services-act-strategic-implications|MAS strategic implications]]
 - [[fintech/bis-project-guardian-overview|BIS Project Guardian]]
 - [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]]
-- [[fintech/central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[fintech/central-banking-function-unbundling|central banking function unbundling]]
 - [[fintech/india-anti-dollar-dpi-alliance|India DPI]]
 <!-- /wiki-links:managed -->
 
-## ??
+## 来源
 
-- https://www.partior.com/ — Partior 公式ホームページ
-- https://www.partior.com/news — Partior ニュース
-- https://www.mas.gov.sg/news/media-releases/2021/partior-launch — MAS の Partior 始動公式発表
-- https://www.dbs.com/newsroom/Partior_launch — DBS の Partior 発表
-- https://www.standardchartered.com/news/partior — Standard Chartered の Partior 出資発表
+- https://www.partior.com/ - Partior official homepage.
+- https://www.partior.com/news - Partior news.
+- https://www.mas.gov.sg/news/media-releases/2021/partior-launch - MAS Partior launch release.
+- https://www.dbs.com/newsroom/Partior_launch - DBS Partior announcement.
+- https://www.standardchartered.com/news/partior - Standard Chartered Partior investment announcement.

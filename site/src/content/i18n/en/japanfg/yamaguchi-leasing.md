@@ -11,11 +11,11 @@ translated_at: 2026-06-01T02:31:57.181Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[yamaguchi-fg|山口 FG (YMFG)]]. Read it against parent operating banks in the [[yamaguchi-fg|山口 FG]] 3 行 structure ([[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] / Yamaguchi Bank) and sibling subsidiary YM Securities. Peer comparison: [[mebuki-lease|めぶきリース]] (North Kanto) / [[yokohama-bank-leasing|横浜銀リース]] (Kanagawa) / [[chibagin-leasing|ちばぎんリース]] (Chiba) / [[hokkaido-lease|北海道リース]] / [[iyogin-leasing|いよぎんリース]] (Shikoku) and major lessors [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[yamaguchi-fg|Yamaguchi FG (YMFG)]]. Read it against parent operating banks in the YMFG three-bank structure ([[momiji-bank|Momiji Bank]] / [[kitakyushu-bank|Kitakyushu Bank]] / Yamaguchi Bank) and sibling subsidiary YM Securities. Peer comparison: [[mebuki-lease|Mebuki Lease]] / [[yokohama-bank-leasing|Yokohama Bank Leasing]] / [[chibagin-leasing|Chibagin Leasing]] / [[hokkaido-lease|Hokkaido Lease]].
 
 ## TL;DR
 
-Yamaguchi Leasing Co., Ltd. (YM Lease) is a regional-bank-affiliated leasing company in the [[yamaguchi-fg|山口 FG (YMFG, 東証 PRIME 8418)]] group. Backed by the 3 行 structure of Yamaguchi Bank, [[momiji-bank|もみじ銀行]] (Hiroshima Prefecture), and [[kitakyushu-bank|北九州銀行]] (Kitakyushu, Fukuoka Prefecture), it provides equipment leasing, finance leases, operating leases, municipal leasing, medical leasing, auto leasing, and related services across a broad base spanning **western Chugoku + Hiroshima + Kitakyushu (Kanmon Strait economic zone)**. Among regional-bank-affiliated lessors, its distinguishing feature is a cross-prefecture broad-area model backed by the "3 行 3  brand." ^[extracted]
+Yamaguchi Leasing Co., Ltd. is a regional-bank-affiliated leasing company in the [[yamaguchi-fg|Yamaguchi FG (YMFG, TSE PRIME 8418)]] group. Backed by the three-bank structure of Yamaguchi Bank, [[momiji-bank|Momiji Bank]], and [[kitakyushu-bank|Kitakyushu Bank]], it provides equipment leasing, finance leases, operating leases, municipal leasing, medical leasing, auto leasing, and related services across western Chugoku, Hiroshima, and Kitakyushu.
 
 ## 1. Company overview
 
@@ -23,7 +23,7 @@ Yamaguchi Leasing Co., Ltd. (YM Lease) is a regional-bank-affiliated leasing com
 |---|---|
 | Formal name | Yamaguchi Leasing Co., Ltd. (YM Lease) |
 | English name | Yamaguchi Leasing Co., Ltd. (YM Lease) |
-| Parent company | [[yamaguchi-fg|YMFG]] group (Yamaguchi Bank / [[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] coordination) |
+| Parent company | [[yamaguchi-fg|YMFG]] group coordination with Yamaguchi Bank, [[momiji-bank|Momiji Bank]], and [[kitakyushu-bank|Kitakyushu Bank]] |
 | Established | 1983-05  (founded in Shimonoseki as Yamaguchi Leasing Co., Ltd.; operations began in month 6 ). In 2014-04 , the Yamaguchi / Momiji / Kitakyushu 3 行 leasing-business integration led to the trade-name change to "YM Lease Co., Ltd."; it became a consolidated subsidiary in 2014-12 [[yamaguchi-fg|YMFG]] and a wholly owned subsidiary in 2023-03  |
 | Main businesses | Equipment leasing / finance leases / operating leases / municipal leasing / medical leasing / auto leasing / factoring |
 | Regulation | Leasing business (no banking license required; money-lending registration depending on business scope) |
@@ -36,9 +36,9 @@ Yamaguchi Leasing Co., Ltd. (YM Lease) is a regional-bank-affiliated leasing com
 [[yamaguchi-fg|YMFG]] (holding company, listed 8418)
   ├── Yamaguchi Bank (100%) ── Yamaguchi base, group origin, head office in Shimonoseki
   │     └── Also has branches around Kanmon and northern Fukuoka
-  ├── [[momiji-bank|もみじ銀行]] (100%) ── Hiroshima base, second-tier regional bank
+  +-- [[momiji-bank|Momiji Bank]] (100%) -- Hiroshima base, second-tier regional bank
   │     └── Formed from the integration of former Hiroshima Sogo Bank + Setouchi Bank
-  ├── [[kitakyushu-bank|北九州銀行]] (100%) ── Kitakyushu area, Fukuoka Prefecture, newly established in 2011-10 
+  ├── [[kitakyushu-bank|北九州銀行]] (100%) ── Kitakyushu area, Fukuoka Prefecture, newly established in 2011-10
   ├── YM Securities (100%) ── group securities company
   ├── Yamaguchi Leasing (100%, this page) ── group leasing company
   │     ├── Broad-area equipment leasing across Yamaguchi + Hiroshima + Kitakyushu
@@ -74,19 +74,19 @@ Yamaguchi Leasing Co., Ltd. (YM Lease) is a regional-bank-affiliated leasing com
 | Leasing subsidiary | Parent bank / FG | Parent-company model | Base | Listing |
 |---|---|---|---|---|
 | **Yamaguchi Leasing** (this page) | [[yamaguchi-fg|YMFG]] | Holding-company 3 行 structure | Yamaguchi + Hiroshima + Kitakyushu (Kanmon) | Parent 8418 |
-| [[mebuki-lease|めぶきリース]] | [[mebuki-fg|めぶき FG]] | Holding-company 2 行 structure | Ibaraki, Tochigi, North Kanto | Parent 7167 |
-| [[yokohama-bank-leasing|横浜銀リース]] | [[yokohama-bank]] / [[concordia-fg]] | Bank consolidated subsidiary | Kanagawa, Tokyo metropolitan area | Parent 7186 |
-| [[chibagin-leasing|ちばぎんリース]] | [[chiba-bank]] | Standalone bank without holding company | Chiba Prefecture, eastern Tokyo metropolitan area | Parent 8331 |
-| [[hokkaido-lease|北海道リース]] | [[hokkaido-bank]] | Bank-affiliated leasing | Hokkaido | Parent 8328  lineage |
-| [[iyogin-leasing|いよぎんリース]] | [[iyogin-hd|いよぎん HD]] | Sibling company under holding company | Ehime, Shikoku | Parent 5830 |
-| Shizugin Lease | [[shizuoka-fg|しずおか FG]] | Sibling company under holding company | Shizuoka Prefecture | Parent 5831 |
+| [[mebuki-lease|Mebuki Lease]] | [[mebuki-fg|Mebuki FG]] | Holding-company two-bank structure | Ibaraki, Tochigi, North Kanto | Parent 7167 |
+| [[yokohama-bank-leasing|Yokohama Bank Leasing]] | [[yokohama-bank]] / [[concordia-fg]] | Bank consolidated subsidiary | Kanagawa, Tokyo metropolitan area | Parent 7186 |
+| [[chibagin-leasing|Chibagin Leasing]] | [[chiba-bank]] | Standalone bank without holding company | Chiba Prefecture, eastern Tokyo metropolitan area | Parent 8331 |
+| [[hokkaido-lease|Hokkaido Lease]] | [[hokkaido-bank]] | Bank-affiliated leasing | Hokkaido | Parent 8328 lineage |
+| [[iyogin-leasing|Iyogin Leasing]] | [[iyogin-hd|Iyogin HD]] | Sibling company under holding company | Ehime, Shikoku | Parent 5830 |
+| Shizugin Lease | [[shizuoka-fg|Shizuoka FG]] | Sibling company under holding company | Shizuoka Prefecture | Parent 5831 |
 
 > Yamaguchi Leasing operates in Hiroshima Prefecture through [[momiji-bank]], but inside Hiroshima it faces in-prefecture broker competition with the leasing company affiliated with Hirogin HD ([[hiroshima-bank|広島銀行]] origin). In the Kitakyushu area, it overlaps with [[fukuoka-fg|FFG]]-affiliated leasing ([[fukuoka-bank|福岡銀行]] + former Shinwa + Kumamoto).
 
 ### Competition with major and specialist lessors
 
-- **Major lessors**: [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[smfl|SMFL]] / [[mizuho-lease|みずほリース]] / [[fuyo-lease|芙蓉リース]] / [[tokyo-century|東京センチュリー]] / [[ricoh-leasing|リコーリース]] - advantaged in large, nationwide, complex deals
-- **Manufacturer-affiliated lessors**: [[toyota-finance|トヨタファイナンス]] / [[nec-leasing|NEC キャピタルソリューション]] / [[showa-leasing|昭和リース]] / [[ja-mitsui-leasing|JA 三井リース]] - advantaged through product linkage, including vehicles, office automation, and manufacturing equipment
+- **Major lessors**: [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[smfl|SMFL]] / [[mizuho-lease|Mizuho Leasing]] / [[fuyo-lease|Fuyo General Lease]] / [[tokyo-century|Tokyo Century]] / [[ricoh-leasing|Ricoh Leasing]] - advantaged in large, nationwide, complex deals
+- **Manufacturer-affiliated lessors**: [[toyota-finance|Toyota Finance]] / [[nec-leasing|NEC Capital Solutions]] / [[showa-leasing|Showa Leasing]] / [[ja-mitsui-leasing|JA Mitsui Leasing]] - advantaged through product linkage, including vehicles, office automation, and manufacturing equipment
 - **In-prefecture competitors**: Saikyo Bank-affiliated leasing / Hiroshima Bank-affiliated leasing / [[fukuoka-fg|FFG]]-affiliated leasing
 
 ### Strengths / weaknesses

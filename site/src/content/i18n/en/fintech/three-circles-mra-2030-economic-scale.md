@@ -4,59 +4,59 @@ source_hash: cb6bcd5519d170a4
 lang: en
 status: machine
 fidelity: ok
-title: "三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル"
+title: "Three-currency MRA economics: $130B compliance circle versus $384B gray-circle coexistence model"
 translated_at: 2026-05-31T11:13:44.948Z
 ---
 
-# 三円 MRA 経済量化 · $130B コンプライアンスサークル vs $384B グレーサークル共存モデル
+# Three-currency MRA economics: $130B compliance circle versus $384B gray-circle coexistence model
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation: the three-layer structure around JPYC, USDC, and Project Pax]] for the broader system boundary.
 
 > [!info] TL;DR
-> 三円コンプライアンスサークル（GENIUS + MiCA + EPI）の 2030 規模予測は **$130B**、コンプライアンスステーブルコイン市場の 35-40% にとどまる。同期間の USDT グレーゾーン（7 か国年間フロー $384B）はコンプライアンスサークルの **~3 倍**。これは「ホワイトサークルとグレーサークルが長期共存する」経済量化モデル —— コンプライアンスは価値を生むが、グレーゾーンが消えるわけではない。三円は「USDT を代替する」のではなく、構造的にリテール / グレーゾーンと機関 / コンプライアンスを相互非疎通の 2 つの市場へ切り分ける。
+> The 2030 scale estimate for the three-currency compliance circle (GENIUS + MiCA + EPI) is **$130B**, or roughly 35-40% of the compliant stablecoin market. The USDT gray-zone flow across seven countries is estimated at **$384B per year**, roughly three times the compliance circle. The resulting model is long-run coexistence between a white circle and a gray circle: compliance creates value, but does not eliminate gray-market demand. The three-currency MRA does not replace USDT; it structurally separates retail / gray-zone use cases from institutional / compliant channels.
 
 ## Key facts
 
-- 三円 2030 予測 = 米円 $80B（USDC/USDB/PYUSD/RLUSD）+ 欧円 $15B（EURC/EURCV/EURB）+ 日円 $35B（JPYC/Progmat/銀行コイン）^[extracted]
-- USDT グレーゾーン 7 か国月次フロー $32B × 12 = $384B / 年（ロシア/イラン/ベネズエラ/ナイジェリア/トルコ/アルゼンチン/ベトナム）^[extracted]
-- 三円 MRA は依然正式署名なし（2026-05 時点で相互認証草案討議中）· 2027-2028 着地予定 ^[extracted]
+- Three-currency 2030 estimate = USD $80B (USDC / USDB / PYUSD / RLUSD) + EUR $15B (EURC / EURCV / EURB) + JPY $35B (JPYC / Progmat / bank coins).^[extracted]
+- USDT gray-zone monthly flow across seven countries is estimated at $32B x 12 = $384B per year (Russia, Iran, Venezuela, Nigeria, Turkey, Argentina, and Vietnam).^[extracted]
+- The three-currency MRA is not yet formally signed; as of 2026-05, mutual-recognition drafts are still under discussion, with landing expected in 2027-2028.^[extracted]
 
 ## Mechanism / How it works
 
-コンプライアンスサークルとグレーサークルの市場切り分けメカニズム：
+Market-segmentation mechanism between the compliance circle and the gray circle:
 
 ```
-ホワイトサークル($130B / 2030):    グレーサークル($384B+ / 年):
-├── 機関カストディ(BUIDL/銀行)     ├── 制裁回避(ロシア/イラン)
-├── CME 証拠金                     ├── リテール送金(ナイジェリア/フィリピン)
-├── 銀行 RTGS 相互接続             ├── グレー商人決済
-├── §501 チェーン級 denylist 強制  ├── USDT on Tron P2P
-└── 強い KYC / AML                 └── KYC なしのオンチェーン送金
+White circle ($130B / 2030):      Gray circle ($384B+ / year):
+├── Institutional custody          ├── Sanctions evasion
+├── CME margin                     ├── Retail remittances
+├── Bank RTGS interconnection      ├── Gray merchant settlement
+├── Section 501 chain denylist     ├── USDT on Tron P2P
+└── Strong KYC / AML               └── No-KYC on-chain transfers
 
-切り分けロジック：規制要件 + ユーザーシーン + チャネル粘着性が hard wall を形成
-                  · 三円拡張はグレーサークルを「食う」ことはない —— 2 つの市場
+Segmentation logic: regulatory requirements, user context, and channel stickiness form a hard wall.
+The three-currency expansion does not consume the gray circle; it creates two markets.
 ```
 
-**単方向相互認証 → 双方向相互認証 → 三辺 MRA** の進化経路：
-- 2026-02 U.S.-Japan MRA 署名済み（USDC × [[JapanFG/jpyc|JPYC]] 双方向）
-- 2026-Q3 U.S.-EU MRA 署名予定 — 詳細は [[fintech/mica-cross-border-implications|MiCA クロスボーダー含意]] 参照
-- 2027-2028 三円 MRA 全面署名 → ライセンス保有 issuer の自動 passporting
+**One-way recognition -> bilateral recognition -> triangular MRA**:
+- 2026-02 U.S.-Japan MRA signed, covering USDC x [[JapanFG/jpyc|JPYC]] bilaterally.
+- 2026-Q3 U.S.-EU MRA expected; see [[fintech/mica-cross-border-implications|MiCA cross-border implications]].
+- 2027-2028 full three-currency MRA signing, enabling automatic passporting for licensed issuers.
 
 ## Origin & evolution
 
-[[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 2025 可決 + [[fintech/mica-overview|MiCA]] 2024-12-30 全面施行 + 日本改正資金決済法 2023-06 が [[fintech/japan-epi-three-types-overview|EPI 三型]] にアップグレード = 三円基礎が整備された。$130B 2030 数字は「相互認証協定 2028 署名 + EPI 信託型 2027 で利息分配許可へアップグレード」の 2 つの前提下での試算である。いずれかの前提が遅延すれば、2030 規模は $80-100B まで低下する可能性。
+The three-currency foundation comes from the 2025 passage of the [[fintech/genius-act-501-denylist-mandate|GENIUS Act]], full [[fintech/mica-overview|MiCA]] application on 2024-12-30, and Japan's 2023-06 amended Payment Services Act framework for [[fintech/japan-epi-three-types-overview|the three EPI types]]. The $130B 2030 estimate assumes both a 2028 mutual-recognition agreement and an upgrade allowing interest distribution in the trust-type EPI route by 2027. If either assumption is delayed, the 2030 scale could fall toward $80-100B.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 チェーン級 Denylist]]
-- [[fintech/em-market-crypto-dollarization-pattern|新興市場暗号 USD 化]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン分配経済学]]
+- [[fintech/three-circles-stablecoin-mra-framework|Three-currency MRA architecture]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act Section 501 chain-level denylist]]
+- [[fintech/em-market-crypto-dollarization-pattern|Emerging-market crypto dollarization]]
+- [[fintech/stablecoin-revenue-split-economics|Stablecoin distribution economics]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Chainalysis Geography of Cryptocurrency Report · BIS / FSB 三円協調討議文書
+- Chainalysis Geography of Cryptocurrency Report; BIS / FSB three-currency coordination discussion materials.

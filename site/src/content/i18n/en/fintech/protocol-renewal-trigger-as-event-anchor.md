@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.192Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation — legal framework for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal framework: three-layer structure (JPYC, USDC, Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
 > A **protocol renewal trigger** refers to a **pre-agreed deadline for renegotiating / renewing a protocol (an Event Anchor)** inside an oligopolistic or strategic partnership relationship marked by deep symbiosis and latent competition (co-opetition). This moment is not merely about re-signing legal documents; it becomes a **powerful scheduling anchor for repricing the full market ecosystem, launching competing products, and pivoting strategy**. The most canonical case is the **2026-08  Coinbase-Circle agreement renewal**, which forced the stablecoin ecosystem as a whole into a strategic reshuffle 6  months earlier than otherwise.
@@ -28,11 +28,11 @@ In fintech and decentralized-finance ecosystems, cooperation among top players o
    - A change in the renewed agreement (for example, adjusting the split from 50/50  to 60/40 ) directly affects the margins of both parties, and therefore spills into secondary-market valuations and token economics.
    - Competitors use the uncertainty window to conduct targeted poaching or launch competing products.
 3. **Procurement Alignment**:
-   - As shown in [[fintech/enterprise-procurement-deadline-anchor|エンタープライズ IT 調達予算ロック]], protocol renewal often resonates with the annual budget-lock cycle of downstream institutional buyers. Missing the renewal point can mean losing as much as a 1 -year enterprise-integration window.
+   - As shown in [[fintech/enterprise-procurement-deadline-anchor|enterprise IT procurement budget lock]], protocol renewal often resonates with the annual budget-lock cycle of downstream institutional buyers. Missing the renewal point can mean losing as much as a 1 -year enterprise-integration window.
 
 ## Canonical Case: 2026-08  Coinbase-Circle Renewal
 
-In one of the most important symbiotic relationships in stablecoin history, Coinbase and Circle re-signed the USDC profit-sharing agreement in 2023 年 8 月 (dissolving Centre Consortium, moving to direct Circle issuance, and giving Coinbase interest-sharing based on USDC balances held on the platform). For the detailed mathematics of the 50/50  split, see [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行体 - 分配体 50/50 モデル]] and [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]].
+In one of the most important symbiotic relationships in stablecoin history, Coinbase and Circle re-signed the USDC profit-sharing agreement in August 2023 (dissolving Centre Consortium, moving to direct Circle issuance, and giving Coinbase interest-sharing based on USDC balances held on the platform). For the detailed mathematics of the 50/50  split, see [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer-distributor 50/50 model]] and [[fintech/stablecoin-revenue-split-economics|stablecoin interest revenue-sharing economics]].
 
 | Stage | Cycle timing | Strategic action and leverage building |
 |---|---|---|
@@ -51,7 +51,7 @@ Different players in the ecosystem respond differently to a "protocol renewal tr
 
 ### 2. Protocol-constrained side (issuer dependent on the channel)
 - **Strategy**: Complete de-channelization by the renewal date and build a direct-distribution network to end users.
-- **Means**: Circle can deploy [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc 戦略]] and intensify lobbying around [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] legislation to obtain federal-grade compliance status, reducing dependency on a single exchange channel.
+- **Means**: Circle can deploy [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc strategy]] and intensify lobbying around [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] legislation to obtain federal-grade compliance status, reducing dependency on a single exchange channel.
 
 ### 3. External observers and competitors
 - **Strategy**: Use the renewal date as an event-driven timing anchor for short / long positions in related names.
@@ -60,7 +60,7 @@ Different players in the ecosystem respond differently to a "protocol renewal tr
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/enterprise-procurement-deadline-anchor|エンタープライズ IT 調達予算ロック —— 表面的な市場締切の隠れた機構]]
-- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Circle Arc 発行体 - 分配体利益再構築戦略]]
-- [[fintech/regulatory-window-strategic-acquisition|規制立法ウィンドウ直前の戦略バイヤー買収パターン]]
+- [[fintech/enterprise-procurement-deadline-anchor|Enterprise IT procurement budget lock: the hidden mechanism behind apparent market deadlines]]
+- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Circle Arc issuer-distributor profit-realignment strategy]]
+- [[fintech/regulatory-window-strategic-acquisition|Strategic-buyer acquisition pattern immediately before a regulatory legislative window]]
 <!-- /wiki-links:managed -->

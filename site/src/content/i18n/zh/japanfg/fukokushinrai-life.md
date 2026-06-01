@@ -4,45 +4,45 @@ source_hash: 9c1d04edbbeea2ac
 lang: zh
 status: machine
 fidelity: needs_review
-title: "繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱"
+title: "Fukoku Shinrai Life Insurance"
 translated_at: 2026-05-31T15:29:03.930Z
 ---
-﻿
-# 繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱
 
+# Fukoku Shinrai Life Insurance
 
 ## Wiki route
 
-This entry sits under 笶ｰa笶ｱ. Read it against 笶ｰb笶ｱ for peer / contrast context and 笶ｰc笶ｱ for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。阅读时可与生命保险公司、信用金库渠道和区域金融分销相关页面配套使用，以把握其在日本保险与区域金融交叉领域中的位置。
 
 ## TL;DR
 
-繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱譬ｪ蠑丈ｼ夂､ｾ縺ｯ縲≫擴d笶ｱ group adjacency 繧呈戟縺､ life-insurance operating company縲ょｯ悟嵜逕溷多縲∝・譬・↓轣ｽ縲≫擴e笶ｱ adjacency 縺後≠繧翫∽ｿ｡逕ｨ驥大ｺｫ channel and regional-finance customer access 縺ｮ隕ｳ轤ｹ縺ｧ隕九ｋ縲・
-## 笶ｰbg笶ｱ. License / group boundary
+Fukoku Shinrai Life Insurance Co., Ltd. 是日本寿险运营公司，战略位置在于富国生命体系、信用金库渠道以及区域金融客户接点之间的连接。它不是大型综合金融集团的银行子公司，而是更适合作为“信用金库 / 区域金融渠道型寿险公司”观察的实体。
 
-| Item | Notes |
+## 1. 牌照与集团边界
+
+| 项目 | 内容 |
 |---|---|
-| Legal name | 繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱譬ｪ蠑丈ｼ夂､ｾ |
-| License route | Insurance Business Act life-insurance company; FSA life insurer list |
-| Industry body | Life Insurance Association of Japan member |
-| Group / shareholder adjacency | 笶ｰf笶ｱ, 笶ｰg笶ｱ, 笶ｰh笶ｱ |
-| Wiki role | Fukoku / shinkin-channel life-insurance specialist |
+| 法定名称 | Fukoku Shinrai Life Insurance Co., Ltd. |
+| 牌照路径 | 《保险业法》下的生命保险公司；载于 FSA 寿险公司列表 |
+| 行业团体 | Life Insurance Association of Japan 会员 |
+| 集团 / 股东邻接 | 与 Fukoku Life、信用金库渠道和区域金融分销存在公开资料层面的邻接关系 |
+| Wiki 角色 | Fukoku / shinkin-channel life-insurance specialist |
 
-## 笶ｰbh笶ｱ. Why this page matters
+## 2. 为什么需要单独页面
 
-- Adds a FSA 笶ｰbi笶ｱexact-name life-insurer gap.
-- Connects life insurance with shinkin / regional-finance distribution.
-- Complements 笶ｰi笶ｱ and 笶ｰj笶ｱ.
+- 补齐 FSA 寿险公司列表中的 exact-name life-insurer 缺口。
+- 将生命保险与信用金库、区域金融客户分销联系起来。
+- 为比较银行柜面销售、信用金库渠道和区域金融保险分销提供实体锚点。
 
 ## Related
 
-- 笶ｰba笶ｱ
-- 笶ｰbb笶ｱ
-- 笶ｰbc笶ｱ
-- 笶ｰbd笶ｱ
+- [[insurance/japan-insurance-system-overview]]
+- [[insurance/life-insurance-channel-mix]]
+- [[insurance/bancassurance-economics-japan]]
+- [[JapanFG/INDEX|JapanFG index]]
 
 ## Sources
 
-- FSA: life-insurance company license list, as of 笶ｰbe笶ｱ.
-- Life Insurance Association of Japan: member-company list, as of 笶ｰbf笶ｱ.
-- 繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多 official company profile.
+- FSA: life-insurance company license list.
+- Life Insurance Association of Japan: member-company list.
+- Fukoku Shinrai Life official company profile.

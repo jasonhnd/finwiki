@@ -4,53 +4,53 @@ source_hash: caf4af4d08ca77d8
 lang: zh
 status: machine
 fidelity: ok
-title: "智能合约 bytecode 取证 — 三层 verify 技术"
+title: "智能合约字节码取证：三层验证技术"
 translated_at: 2026-05-30T15:08:51.567Z
 ---
 
-# 智能合约 bytecode 取证 — 三层 verify 技术
+# 智能合约字节码取证：三层验证技术
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[INDEX|FinWiki index]]. Read it with [[security/fork-and-rebrand-5-layer-audit-framework|fork-and-rebrand audit framework]] for peer context and [[systems/INDEX|systems index]] for the broader infrastructure boundary.
+本条目位于 [[INDEX|FinWiki 索引]]下。请与 [[security/fork-and-rebrand-5-layer-audit-framework|分叉改名五层审计框架]] 对照阅读；更广义的基础设施边界见 [[systems/INDEX|系统索引]]。
 
 > [!info] TL;DR
-> 当项目方的 verified contract 与 GitHub 源码不一致时，bytecode 才是 ground truth。三层 verify：(1) 比对链上 deployed bytecode 与 GitHub source 的编译结果；(2) 逆推 4-byte PUSH4-EQ dispatcher 以提取 fn selector，比对 unverified 合约的接口；(3) 用跨链 verified twin fingerprint 锁定团队身份。
+> 当项目方公开的已验证合约与 GitHub 源码不一致时，链上字节码才是事实基准。三层验证包括：(1) 比对链上部署字节码与 GitHub 源码的本地编译结果；(2) 逆推 4-byte PUSH4-EQ 分发器以提取函数选择器，并比对未验证合约的接口；(3) 使用跨链已验证孪生合约指纹锁定团队身份。
 
-### Layer 1：Deployed vs Compiled diff
+### 第一层：部署字节码与编译结果差异
 
-- 用 eth_getCode(addr, "latest") 取得链上 runtime bytecode
-- 用 GitHub 源码 + 项目方明示的 solc 版本 + optimizer settings 进行本地编译
-- diff 非空 = 链上版与 GitHub 版不一致 = 信号
-- 注意要剥离 immutable / constructor args / metadata hash 的差分后再比对
+- 使用 `eth_getCode(addr, "latest")` 取得链上运行时字节码。
+- 按 GitHub 源码、项目方明示的 `solc` 版本和优化器设置进行本地编译。
+- 若差异非空，即表明链上版本与 GitHub 版本不一致，是需要进一步调查的信号。
+- 比对前应剥离 `immutable`、构造函数参数和元数据哈希造成的差异。
 
-### Layer 2：4-byte PUSH4-EQ dispatcher 的逆推
+### 第二层：逆推 4-byte PUSH4-EQ 分发器
 
-- EVM contract 在 dispatcher 进入时以 PUSH4 selector EQ JUMPI 模式分支
-- 即使 contract 未 verify，也可从 opcode 序列提取全部 selector（4-byte）
-- 用 4byte.directory / openchain.xyz 反查 fn signature
-- 命中 ERC-20  / pause / blacklist / migrate 等敏感接口 = 信号
+- EVM 合约进入分发器时通常以 `PUSH4 selector EQ JUMPI` 模式分支。
+- 即使合约未验证，也可从 opcode 序列中提取全部 4-byte selector。
+- 可通过 4byte.directory / openchain.xyz 反查函数签名。
+- 若命中 ERC-20、暂停、黑名单、迁移等敏感接口，应视为风险信号。
 
-### Layer 3：跨链 verified twin fingerprint
+### 第三层：跨链已验证孪生合约指纹
 
-- 同一团队向多条链部署时，一方 verified、另一方 unverified 的情况频繁出现
-- 将 verified 一方的 runtime bytecode（剥离 metadata hash 后）作为 fingerprint 使用
-- 在 unverified 链一侧实施 bytecode 相似度匹配（SimHash / k-gram 等）
-- 命中 = 同一团队 = 身份锚点 — 商用 [[exchanges/global-crypto-forensics-vendor-layer|オンチェーン forensics vendor]] 将此层作为跨链 cluster 标签库进行了商品化
+- 同一团队向多条链部署时，经常出现一条链已验证、另一条链未验证的情形。
+- 将已验证一侧的运行时字节码在剥离元数据哈希后作为指纹。
+- 在未验证链一侧实施字节码相似度匹配，例如 SimHash 或 k-gram。
+- 命中后可形成“同一团队”的身份锚点；商业化 [[exchanges/global-crypto-forensics-vendor-layer|链上取证供应商]] 已将这一层商品化为跨链集群标签库。
 
-## When to Use
+## 适用场景
 
-- 核心合约（bridge / vault / governance）被有意不 verify 的情况
-- 项目方的 GitHub 已被删除但合约仍在运行的情况
-- 在跨链项目中想识别「表面体制 vs 真实开发团队」的情况
-- 怀疑存在 backdoor / 紧急 pause / blacklist 接口的情况 — 在 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack]] 或 [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus hack]] 这样的交易所事件中，存在攻击者部署 unverified 中继合约的案例
+- 核心合约（bridge / vault / governance）被有意保持未验证。
+- 项目方 GitHub 已删除，但链上合约仍在运行。
+- 跨链项目需要识别“表面治理结构”与“真实开发团队”的差异。
+- 怀疑存在后门、紧急暂停或黑名单接口；在 [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus 攻击]]、[[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus 攻击]] 等交易所事件中，攻击者曾部署未验证中继合约。
 
-## When NOT to Use
+## 不适用场景
 
-- 已完全 verified 且源码可信的合约（直接读源码即足够）— 此时 [[systems/formal-spec-implementation-codesign|formal-spec implementation co-design]] 等规格优先方法更有效
-- proxy 合约（在从 EIP-1967 storage slot 确定 implementation 之后再实施）
-- 纯粹 read-only 的 view 合约（风险较低）
+- 合约已完全验证且源码可信，此时直接阅读源码即可；[[systems/formal-spec-implementation-codesign|形式化规格与实现协同设计]] 等规格优先方法更有效。
+- proxy 合约应先通过 EIP-1967 storage slot 确认 implementation 后再分析。
+- 纯只读 view 合约风险较低，通常无需采用完整三层取证流程。
 
 ## Provenance
 
-- 案例研究：链上部分核心合约为 verified，但 bridge / vault 系的一部分为闭源 · 用三层 verify 逆推 unverified 合约的接口，并用跨链 twin fingerprint 锁定了团队身份
+- 案例研究：链上一部分核心合约已验证，但 bridge / vault 系列中的若干合约闭源。三层验证用于逆推未验证合约接口，并通过跨链孪生合约指纹锁定团队身份。

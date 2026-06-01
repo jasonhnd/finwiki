@@ -11,9 +11,9 @@ translated_at: 2026-05-31T11:13:44.947Z
 # 規制立法ウィンドウ直前の戦略バイヤー買収パターン
 
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]]。相邻监管语境见 [[fintech/japan-financial-regulation|日本金融监管：代币、加密资产与支付法体系]]；更广泛的制度边界见 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制的三层结构（JPYC、USDC、Project Pax）]]。
 
 > [!info] TL;DR
 > ある重要な規制立法が成立に向けた **最後の 6–12 か月** のウィンドウに入ると、対象セクターでは「VC が短期で N 倍 exit + 戦略バイヤーがプレミアム付きで競争買収」という標準的タイムシーケンスが現れる。Sequoia は 2 か月で Stripe による Bridge 買収を通じて 5× exit を実現し、Stripe は GENIUS Act 成立の 3 か月前にステーブルコイン issuance の「王冠ポジション」を獲得した。これはフィンテック規制サイクルにおいて最も再現性の高い M&A パターンである。

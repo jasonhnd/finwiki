@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.691Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 下。可与 FRTB、稳定币储备和日本金融监管页面一并阅读。
 
 > [!info] TL;DR
 > BCBS SCO60 中Group 1b与Group 2 的资本差异，决定了**银行持有USDC相比USDT的资本经济性** —— USDC PPSI后银行托管成本仅需约10%的资本支撑，而USDT的Group 1b资格存疑，约需100%的资本支撑。这是USDC估值溢价的隐性护城河，也是BUIDL突破$1B AUM的银行渠道的法律依据。BCBS是三圆MRA中的国际资本协调机制。

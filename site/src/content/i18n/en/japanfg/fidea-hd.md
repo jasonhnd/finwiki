@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.875Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]Read it against[[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jimoto-hd|Jimoto Holdings (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -29,16 +29,16 @@ Mid-sized regional bank FG based in Yamagata + Akita.2009-10-01It was establishe
 ### Major subsidiaries/equity^[extracted]
 
 ```
-フィデア HD（持株会社・上場 8713）
-  ├── 荘内銀行（100%）── 山形県地盤コア / 2027-01 フィデア銀行へ合併予定
+Fidea HD (listed holding company, 8713)
+  |-- Shonai Bank (100%) -- Yamagata core bank; scheduled to merge into Fidea Bank in 2027-01
   │     └── 1878 第六十七国立銀行創業 → 1941 荘内銀行 改称
-  ├── 北都銀行（100%）── 秋田県地盤コア / 2027-01 フィデア銀行へ合併予定
+  |-- Hokuto Bank (100%) -- Akita core bank; scheduled to merge into Fidea Bank in 2027-01
   │     └── 1895 第四十八国立銀行系 → 北都銀行
-  ├── フィデア情報システム ── グループ IT 統括
-  ├── フィデアカード ── グループクレカ
-  └── 荘内 / 北都 各キャピタル等 ── 地域投資・コンサル系
+  |-- Fidea Information Systems -- group IT administration
+  |-- Fidea Card -- group credit-card subsidiary
+  `-- Shonai and Hokuto capital-related entities -- regional investment and consulting
 
-東北銀行との経営統合基本合意は 2022-02 に解除済み。東北銀行は別ページ [[tohoku-bank]] で扱う。
+The basic agreement for management integration with Tohoku Bank was terminated in 2022-02. Tohoku Bank is covered separately at [[tohoku-bank]].
 ```
 
 ### Merger history/predecessor^[extracted]
@@ -90,7 +90,7 @@ Mid-sized regional bank FG based in Yamagata + Akita.2009-10-01It was establishe
 
 ### competitive structure
 
-- **Mega Bank** ([[mufg]]・[[smfg]]・[[mizuho-fg]]): Prefectural corporation main bank Competition is limited, rather complementary relationship
+- **Mega banks** ([[mufg]], [[smfg]], [[mizuho-fg]]): competition for prefectural corporate main-bank mandates is limited; the relationship is more complementary.
 - **Yucho**([[yucho]]): Compete in personal deposits
 - **Single regional banks in the prefecture** (Yamagata Bank, Akita Bank, Iwate Bank): Direct competition, but scale difference has expanded due to integration
 

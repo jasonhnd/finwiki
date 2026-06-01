@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.681Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction case study on the **Sand Dollar**, the **first nation-wide live retail CBDC** issued by any central bank globally (Bahamas, 2020-10-20). Read it against [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]] (live 2021-10, same Bitt-vendor technology lineage), [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]] (live 2022, third Caribbean-Atlantic peer), and [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for cross-jurisdiction positioning. For architecture context see [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]], [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]], and [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]. For the broader emerging-market behavioral baseline see [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]].
+本条目位于 [[fintech/INDEX|fintech index]] 下，作为巴哈马 Sand Dollar 零售 CBDC 辖区案例。
 
 > [!info] TL;DR
 > 巴哈马中央银行于 **2020-10-20** 推出**沙元**，使其成为全球**首个全国性在线零售 CBDC**——领先于其他任何在线零售 CBDC 六个月，比 eNaira 早一年，比 JAM-DEX 早近两年。其设计采用**双层中介零售 CBDC** 架构，由**授权金融机构（AFI）**提供面向消费者的钱包，并设有**分级 KYC**（Tier 1 仅凭手机，余额上限 B$500/每月 B$1,500；Tier 2  经身份核验，余额上限 B$8,000/每月 B$10,000），并作为中央银行的直接负债具有**法定货币地位**。在绝对数量上，采用率**较低**（活跃用户仅占人口的个位数百分比），但该项目已持续在线运行**超过五年**——远超任何其他在线零售 CBDC——是小经济体 CBDC 设计领域的核心政策实验案例。全球广泛引用的关键设计经验包括：**以促进金融包容为目标**（约 700 个分散岛屿的地理特征与金融服务缺口）、**自启动即具法定货币同等地位**、**可互操作的 AFI 钱包模型**，以及**有意不支付利息**以维护商业银行存款基础的设计选择。

@@ -12,11 +12,11 @@ translated_at: 2026-05-31T15:29:03.962Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/money-forward|株式会社マネーフォワード (Money Forward)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/money-forward|Money Forward, Inc.]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the JPYC / USDC / Project Pax three-layer structure]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-日本のクラウド会計・人事労務 SaaS 業界を [[JapanFG/money-forward|Money Forward]] と並んで切り拓いた**スモールビジネス向け統合バックオフィス・プラットフォーマー**（東証グロース 4478）。2012-07-09 に**佐々木大輔**（元 Google Japan・SMB マーケティング出身）が創業し、エンジニアリング起源のスタートアップとして金融周辺ソフトウェア市場では特異な立ち位置。2019-12-17 に東証マザーズ上場（現グロース）、2023 年に黒字化を達成。中小企業 / 個人事業主 / フリーランス専業に絞り、家計簿アプリ領域（マネーフォワード ME 的個人領域）には踏み込まない**法人 / 自営業者特化路線**を堅持。AI による仕訳自動化と電子帳簿保存法・インボイス制度対応を差別化軸とし、**会計 + 人事労務 + 電子契約 + 法人カード + 融資マッチング**を一体運用する「統合 BPaaS（Business Platform as a Service）」モデルを志向する。^[extracted]
+freee is an **integrated back-office platform provider for small businesses** (TSE Growth 4478) that helped establish Japan's cloud accounting and HR SaaS market alongside [[JapanFG/money-forward|Money Forward]]. **Daisuke Sasaki** founded the company on 2012-07-09 after working in SMB marketing at Google Japan, giving freee a distinctive engineering-origin position in adjacent financial software. The company listed on TSE Mothers on 2019-12-17 (now TSE Growth) and achieved profitability in 2023. It remains focused on SMEs, sole proprietors, and freelancers, deliberately avoiding the household-finance app segment associated with Money Forward ME. Its differentiation rests on AI-assisted journal-entry automation and compliance with the Electronic Books Maintenance Act and Japan's invoice system, while its strategic model is an integrated BPaaS (Business Platform as a Service) stack spanning **accounting + HR/labor administration + electronic contracts + corporate cards + loan matching**.^[extracted]
 
 ## 1. Company profile
 
@@ -77,7 +77,7 @@ After complying with the Electronic Bookkeeping Act (revised 2022 年) and the i
 - **[[JapanFG/money-forward|Money Forward]]**: The largest competitor in the cloud accounting field, a two-pronged combination of personal household accounting (Money Forward ME) + corporate accounting (Money Forward Cloud). In the corporate field, we are direct competitors.
 - **Yayoi**: A long-established company from the era of package accounting, which has recently shifted to SaaS with cloud versions (Yayoi Accounting Online, etc.). Legacy king of accounting for small and medium-sized businesses and individual business owners.
 - **TKC**: Corporate accounting platform via tax accountant office network, tax accountant channel-led model.
-- **ERP for large companies (OBC Bugyo / SAP / Oracle, etc.)**: Freee is basically an area in which we do not advance.
+- **ERP for large companies (OBC Bugyo / SAP / Oracle, etc.)**: Freee does not primarily compete in large-enterprise ERP suites.
 
 ### Partner ecosystem
 

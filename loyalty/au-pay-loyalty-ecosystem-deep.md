@@ -159,7 +159,7 @@ The 2026-05-12 KDDI announcement of **au Financial Holdings' Tokyo Stock Exchang
 | Asset management | auアセットマネジメント | LY-affiliated AM | NTT docomo の AM 子会社 |
 | Subscription bundle | au Smart Pass / au Smart Pass Premium | Yahoo! プレミアム / PayPay クーポン | dマーケット コンテンツ / dカードGOLD ベネフィット |
 | Major CVS channel anchor | **Lawson** (post-2024 50/50 take-private) | None equivalent at controlling-stake level | None equivalent at controlling-stake level |
-| Holding-company listing | **2026-05-12: KDDI 適時開示 [[JapanFG/au-fh|au FH]] IPO 準備開始** | LY (旧 Z HD) listed; PayPay 銀行 listed (4689) | Forthcoming NDFG (~2026-07 announced consolidation); listing strategy TBD |
+| Holding-company listing | **2026-05-12: KDDI timely disclosure announced the start of [[JapanFG/au-fh|au FH]] IPO preparations** | LY (former Z HD) listed; PayPay Bank listed (4689) | Forthcoming NDFG (~2026-07 announced consolidation); listing strategy has not been publicly specified in the referenced materials |
 
 The **deepest competitive differences**:
 

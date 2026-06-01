@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.160Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL]] (the same-parent external leasing / asset-finance JV with [[JapanFG/smfg|SMFG]]) and [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest sogo-shosha group-treasury peer). For the broader peer set, see [[JapanFG/mitsui-bussan-financial-services|三井物産FS]], [[JapanFG/itochu-finance|伊藤忠ファイナンス]], and [[JapanFG/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL]] (the same-parent external leasing / asset-finance JV with [[JapanFG/smfg|SMFG]]) and [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (the closest sogo-shosha group-treasury peer).
 
 ## 1. Company outline
 
@@ -45,12 +45,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | Sogo shosha | Internal finance subsidiary | External leasing line |
 |---|---|---|
 | Sumitomo Corporation | **Sumitomo Corporation Financial Management (this page)** | [[JapanFG/smfl|SMFL]] (SMFG joint line) |
-| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (listed) |
-| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] | [[JapanFG/ja-mitsui-leasing|JA三井リース]] |
-| Itochu | [[JapanFG/itochu-finance|伊藤忠ファイナンス]] | [[JapanFG/tokyo-century|東京センチュリー]] (Mizuho joint line, listed) |
-| Marubeni | [[JapanFG/marubeni-financial-services|丸紅フィナンス]] | [[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder) |
-| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] | Group captive |
-| Sojitz | [[JapanFG/sojitz-finance|双日フィナンス]] | No major dedicated subsidiary |
+| Mitsubishi Corporation | [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation FS]] | [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed) |
+| Mitsui & Co. | [[JapanFG/mitsui-bussan-financial-services|Mitsui & Co. FS]] | [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]] |
+| Itochu | [[JapanFG/itochu-finance|ITOCHU Finance]] | [[JapanFG/tokyo-century|Tokyo Century]] (Mizuho joint line, listed) |
+| Marubeni | [[JapanFG/marubeni-financial-services|Marubeni Finance]] | [[JapanFG/mizuho-lease|Mizuho Leasing]] (strategic shareholder) |
+| Toyota Tsusho | [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] | Group captive |
+| Sojitz | [[JapanFG/sojitz-finance|Sojitz Finance]] | No major dedicated subsidiary |
 
 ## 4. Control and policy points
 
@@ -73,12 +73,12 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 - [[JapanFG/sumitomo-life|住友生命]]
 - [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (peer)
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (peer)
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (peer)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
+- [[JapanFG/itochu-finance|ITOCHU Finance]] (peer)
+- [[JapanFG/marubeni-financial-services|Marubeni Finance]] (peer)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 

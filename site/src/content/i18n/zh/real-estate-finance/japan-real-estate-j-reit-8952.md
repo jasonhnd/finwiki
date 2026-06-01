@@ -24,7 +24,7 @@ translated_at: 2026-06-01T03:31:12.277Z
 | Item | Detail |
 |---|---|
 | Ticker | TSE J-REIT **8952** |
-| 投资法人 | Japan Real Estate Investment Corporation（繧ｸ繝｣繝代Φ繝ｪ繧｢繝ｫ繧ｨ繧ｹ繝・う繝域兜雉・ｳ穂ｺｺ） |
+| 投资法人 | Japan Real Estate Investment Corporation（日本房地产投资法人） |
 | 资产管理公司 | Japan Real Estate Asset Management Co., Ltd.（赞助商：三菱地所） |
 | 赞助商 | [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]]（TSE Prime 8802） |
 | 上市日期 | 2001  年 9 月（与 NBF 同为首批上市） |

@@ -50,7 +50,7 @@ Solana は EVM 系 (Ethereum / L2) と異なる SVM (Sealevel Virtual Machine) �
 | Jupiter | aggregator router | 統合 swap 入口 | JUP |
 | Raydium | constant product AMM | 一般 spot + memecoin 上場 | RAY |
 | Orca | concentrated liquidity AMM | retail UX swap | ORCA |
-| Meteora | DLMM + memecoin プール | memecoin 流動性 | MET (TBD) |
+| Meteora | DLMM + memecoin プール | memecoin 流動性 | token status not confirmed in the current public-source scope |
 | Drift | oracle + AMM perp | レバレッジ取引 | DRIFT |
 | Phoenix | on-chain CLOB | 機関 spot 注文板 | (なし) |
 

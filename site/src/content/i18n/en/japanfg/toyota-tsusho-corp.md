@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.148Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** with a distinctive **Toyota group captive trading house** character: Toyota Motor is a major shareholder at roughly the 22% level, and Toyota Tsusho is positioned as an independent **No. 6  trading company / Toyota-affiliated trading company** outside the 5  major trading houses. Read it against [[JapanFG/mitsubishi-corp|三菱商事]] and [[JapanFG/sojitz-corp|双日]] (mid-sized trading companies) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (internal CMS) and the **[[JapanFG/toyota-financial|トヨタファイナンシャルサービス (TFS)]] family** (Toyota Motor 100% subsidiary line of **auto loan / lease / insurance platforms**; not directly capital-linked to Toyota Tsusho, but adjacent within the Toyota group ecosystem). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** with a distinctive **Toyota group captive trading house** character: Toyota Motor is a major shareholder at roughly the 22% level, and Toyota Tsusho is positioned as an independent **No. 6  trading company / Toyota-affiliated trading company** outside the 5  major trading houses. Read it against [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]] and [[JapanFG/sojitz-corp|Sojitz]] (mid-sized trading companies) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (internal CMS) and the **[[JapanFG/toyota-financial|Toyota Financial Services (TFS)]] family** (Toyota Motor 100% subsidiary line of **auto loan / lease / insurance platforms**; not directly capital-linked to Toyota Tsusho, but adjacent within the Toyota group ecosystem). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
 
 ## 1. Company Overview
 
@@ -21,7 +21,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | English | Toyota Tsusho Corporation ^[extracted] |
 | Ticker | TSE PRIME **8015** ^[extracted] |
 | Listing | Tokyo Stock Exchange PRIME Market, including Nagoya listing ^[extracted] |
-| Established | 1948 年 (established as Toyoda Sangyo, renamed Toyota Tsusho in 1956 年) ^[extracted] |
+| Established | 1948 (established as Toyoda Sangyo, renamed Toyota Tsusho in 1956) ^[extracted] |
 | Headquarters | Nakamura-ku, Nagoya (Nagoya head office), Tokyo head office ^[extracted] |
 | Major shareholders | Toyota Motor (about 22% level), Toyota Industries, and other Toyota group companies ^[extracted] |
 | Accounting standard | IFRS ^[extracted] |
@@ -31,7 +31,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ```
 Toyota Tsusho (8015,  TSE PRIME)
-  ├── [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (100%)                 — internal CMS / group finance
+  ├── [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (100%)              — internal CMS / group finance
   ├── CFAO (100%, acquired 2012  → made wholly owned subsidiary 2016 )              — African distribution network (automobiles, pharmaceuticals, food)
   ├── Eurus Energy (major renewable-energy company, JV with TEPCO HD)             — wind-power IPP
   └── Many Toyota overseas dealer networks                                        — automobile distribution
@@ -80,7 +80,7 @@ In addition, the **Toyota group financial-services ecosystem**:
 
 ### Competitors
 
-- **Domestic**: 5  major trading houses ([[JapanFG/mitsubishi-corp|三菱]] / [[JapanFG/mitsui-co|三井]] / [[JapanFG/itochu-corp|伊藤忠]] / [[JapanFG/sumitomo-corp|住友]] / [[JapanFG/marubeni-corp|丸紅]]), mid-sized trading companies (such as [[JapanFG/sojitz-corp|双日]])
+- **Domestic**: 5  major trading houses ([[JapanFG/mitsubishi-corp|Mitsubishi]] / [[JapanFG/mitsui-co|Mitsui]] / [[JapanFG/itochu-corp|ITOCHU]] / [[JapanFG/sumitomo-corp|Sumitomo]] / [[JapanFG/marubeni-corp|Marubeni]]), mid-sized trading companies (such as [[JapanFG/sojitz-corp|Sojitz]])
 - **Africa**: Conglomerate trading houses in each country, local distributors, and sporadic African expansion by the 5  major trading houses
 - **Automobile distribution**: Dealership groups in each country and possible expansion of Toyota's own direct sales
 
@@ -93,18 +93,18 @@ In addition, the **Toyota group financial-services ecosystem**:
 - Medium- to long-term monetization of **CFAO**'s African business and direction of additional M&A
 - Linkage with **Toyota's EV strategy** (progress of investment in lithium / rare earth / battery supply chains)
 - Expansion of the renewable-energy portfolio through **Eurus Energy** + [[JapanFG/tepco-hd|TEPCO HD]] JV
-- Growth toward **5  major trading-house scale** (net profit above 5,000 億円)
+- Growth toward **5  major trading-house scale** (net profit above JPY 500 billion)
 - Relationship with **Toyota Motor** (increase or reduction of stake, group-lineage reorganization)
 - Deeper strategic collaboration with **[[JapanFG/toyota-financial|TFS]]** (vehicle captive finance x dealer-network synergies)
 
 ## Related
 
 - [[JapanFG/INDEX|JapanFG index]]
-- [[JapanFG/mitsubishi-corp|三菱商事]] · [[JapanFG/mitsui-co|三井物産]] · [[JapanFG/itochu-corp|伊藤忠商事]] · [[JapanFG/sumitomo-corp|住友商事]] · [[JapanFG/marubeni-corp|丸紅]] · [[JapanFG/sojitz-corp|双日]] (peer trading companies)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (internal group treasury)
-- [[JapanFG/toyota-financial|TFS / トヨタファイナンシャルサービス]] (Toyota Motor direct captive finance)
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/aichi-fg|あいち FG]] (transactions with the Chukyo economic-zone financial sector)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
+- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]] · [[JapanFG/mitsui-co|Mitsui & Co.]] · [[JapanFG/itochu-corp|ITOCHU Corporation]] · [[JapanFG/sumitomo-corp|Sumitomo Corporation]] · [[JapanFG/marubeni-corp|Marubeni]] · [[JapanFG/sojitz-corp|Sojitz]] (peer trading companies)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (internal group treasury)
+- [[JapanFG/toyota-financial|TFS / Toyota Financial Services]] (Toyota Motor direct captive finance)
+- [[JapanFG/mufg|MUFG]] · [[JapanFG/aichi-fg|Aichi FG]] (transactions with the Chukyo economic-zone financial sector)
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]]
 
 ## Sources
 

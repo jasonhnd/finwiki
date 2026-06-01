@@ -13,7 +13,7 @@ translated_at: 2026-05-31T06:16:15.704Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 下。可与日本稳定币监管和金融监管页面对照阅读。
 
 > [!info] TL;DR
 > 表面上看是"市场截止日"或"合同续期日"等事件，但**真正的驱动因素是企业 IT 采购预算锁定周期**。机构买方并非在实时市场中做出决策，而是在 6-12  个月前的预算周期中便已锁定。**2026-08  Coinbase-Circle 合同续期**的真正威力在于，其恰好**对应 2027 年 年度企业采购预算锁定时期**。
@@ -49,13 +49,13 @@ Q3-Q4 [N+1 年] = 评估 + 锁定 [N+2 年]
 
 为什么三条链都在"赶着上线"？
 - 答：**为了在 2026-Q3  前进入企业 RFP 候选名单**
-- Arc 以测试版状态上线已属滞后 → 错失 2027  全年采购窗口 → 只能进入 2028 
+- Arc 以测试版状态上线已属滞后 → 错失 2027  全年采购窗口 → 只能进入 2028
 - Base Rust 重写恰好于 2026-05  上线 → 在采购窗口截止前的最后时机滑入
 - Tempo Presto 2026-03  主网 → 为企业提供 6  个月的测试/集成期
 
 **这才是 2026-08  卡点的真正含义**：
 - 表层：Coinbase-Circle 合同自动续期
-- 深层：错失 2027  采购窗口 → 下一次决战推迟至 2028 
+- 深层：错失 2027  采购窗口 → 下一次决战推迟至 2028
 
 ## 应用 / 迁移
 

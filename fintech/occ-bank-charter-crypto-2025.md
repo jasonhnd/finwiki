@@ -146,7 +146,7 @@ The combination is the **closest thing to a federal stablecoin-bank charter** th
 
 ## OCC IL 1183 · what it actually clarifies
 
-IL 1183 is a **compact, three-page letter** that does four things:
+IL 1183 is a **compact, three-page letter** that sets out four supervisory positions:
 
 1. **Reaffirms** the existing crypto-custody / stablecoin-reserve / node-operator authorities are within the business of banking.
 2. **Withdraws** the IL 1179 prior-supervisory-non-objection requirement.

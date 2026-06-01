@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.953Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/socgen-japan|ソシエテ・ジェネラル日本 (Societe Generale Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[JapanFG/socgen-japan|Societe Generale Japan]] 对照，并与 [[banking/INDEX|银行索引]] 配套阅读。
 
 ## TL;DR
 

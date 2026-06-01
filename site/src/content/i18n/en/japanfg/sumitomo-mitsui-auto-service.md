@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.102Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL]], the sister general-leasing JV between the same parents, [[JapanFG/smfg|SMFG]] + [[JapanFG/sumitomo-corp-financial-management|住友商事系]], and against [[JapanFG/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]], the Sumitomo Corp internal-treasury arm. For peer auto / fleet finance, see [[JapanFG/toyota-finance|トヨタファイナンス]] and [[JapanFG/toyota-financial|TFS]]. For the trading-company financial peer set: [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] / [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] / [[JapanFG/itochu-finance|伊藤忠ファイナンス]] / [[JapanFG/marubeni-financial-services|丸紅フィナンス]] / [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] / [[JapanFG/sojitz-finance|双日フィナンス]] / [[JapanFG/mitsubishi-corp-asset-management|三菱商事系AM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfl|SMFL]], the sister general-leasing JV between the same parents, [[JapanFG/smfg|SMFG]] + [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]], and against [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]], the Sumitomo Corp internal-treasury arm. For peer auto / fleet finance, see [[JapanFG/toyota-finance|Toyota Finance]] and [[JapanFG/toyota-financial|TFS]]. For the trading-company financial peer set: [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] / [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] / [[JapanFG/itochu-finance|ITOCHU Finance]] / [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] / [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] / [[JapanFG/sojitz-finance|Sojitz Finance]] / [[JapanFG/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company Overview
 
@@ -28,7 +28,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | [[JapanFG/smfl|SMFL]] | General equipment, industrial machinery, real estate, environment, aviation, ships, and overseas assets |
 | **SMAS (this page)** | Corporate auto leasing, commercial and passenger vehicles, fleet management, and EV transition support |
 
-### Establishment path (2007 年 merger)
+### Establishment path (2007 year merger)
 
 | Legacy company | Origin |
 |---|---|
@@ -49,55 +49,55 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | Player | Lineage |
 |---|---|
-| **ORIX Auto** | [[JapanFG/orix-corp|オリックス]] lineage |
+| **ORIX Auto** | [[JapanFG/orix-corp|ORIX]] lineage |
 | **Sumitomo Mitsui Auto Service (this page)** | [[JapanFG/smfg|SMFG]] + Sumitomo Corp |
 | **Mitsui Sumitomo Trust / Panasonic Finance auto-leasing line** | [[JapanFG/smtb|SMTB]] + Panasonic |
 | **Toyota Rent a Lease** | [[JapanFG/toyota-financial|TFS]] lineage |
 | **Nissan Fleet Service** | Nissan Motor lineage |
-| **Tokyo Century (NRS lineage)** | [[JapanFG/tokyo-century|東京センチュリー]], formerly Nippon Rent-A-Car-related |
-| **ORIX Rent-A-Car** | [[JapanFG/orix-corp|オリックス]] lineage |
+| **Tokyo Century (NRS lineage)** | [[JapanFG/tokyo-century|Tokyo Century]], formerly Nippon Rent-A-Car-related |
+| **ORIX Rent-A-Car** | [[JapanFG/orix-corp|ORIX]] lineage |
 
 - Corporate customer flow from the **SMFG bank network**.
 - Cross-border support from the **Sumitomo Corp global network** in Asia-facing business.
-- Scale effects since the 2007 年 merger.
+- Scale effects since the 2007 year merger.
 - Depth in fleet-management and TCO services.
 
 ### Position inside the trading-company financial-subsidiary ecosystem
 
-Within Sumitomo Corp-related financial institutions, SMAS represents a **specialized asset-class JV, namely auto**. It sits alongside [[JapanFG/smfl|SMFL]] for equipment leasing and [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] for internal CMS / treasury, forming the "JV / subsidiary function split ecosystem" of Sumitomo Corp + SMFG-related financial institutions.
+Within Sumitomo Corp-related financial institutions, SMAS represents a **specialized asset-class JV, namely auto**. It sits alongside [[JapanFG/smfl|SMFL]] for equipment leasing and [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]] for internal CMS / treasury, forming the "JV / subsidiary function split ecosystem" of Sumitomo Corp + SMFG-related financial institutions.
 
 ## 4. Regulation / policy
 
 - **Supervision**: Ministry of Economy, Trade and Industry in part, plus Ministry of Land, Infrastructure, Transport and Tourism for automobile maintenance, road transport, and vehicle-law-related areas.
 - **Industry bodies**: Japan Leasing Association (JLA) and Japan Automobile Leasing Association (JALA).
 - **Regulatory themes**:
-  - Lease accounting standards, including IFRS 16  / J-GAAP response.
-  - Automobile recycling law and used-vehicle distribution controls.
-  - EV charging-infrastructure rules and related policy support.
-  - Personal-information protection for fleet-management data, especially driver data.
+ - Lease accounting standards, including IFRS 16 / J-GAAP response.
+ - Automobile recycling law and used-vehicle distribution controls.
+ - EV charging-infrastructure rules and related policy support.
+ - Personal-information protection for fleet-management data, especially driver data.
 - **Near-term policy questions**:
-  - 2024 through [[JapanFG/boj-monetary-policy|日銀政策金利正常化]]: rising lease procurement costs.
-  - EV transition and carbon-neutral policy: large-scale demand expansion.
-  - MaaS / car-sharing shifts in the auto industry.
-  - AI inspection and online distribution expansion in the used-vehicle market.
+ - 2024 through [[JapanFG/boj-monetary-policy|Boj Monetary Policy]]: rising lease procurement costs.
+ - EV transition and carbon-neutral policy: large-scale demand expansion.
+ - MaaS / car-sharing shifts in the auto industry.
+ - AI inspection and online distribution expansion in the used-vehicle market.
 
 ## Related
 
 - [[JapanFG/smfl|SMFL]] (sister equipment-leasing JV, same SMFG + Sumitomo Corp parents)
-- [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (internal group treasury, Sumitomo Corp-related)
+- [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]] (internal group treasury, Sumitomo Corp-related)
 - [[JapanFG/smfg|SMFG]] (parent 1)
 - [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]
-- [[JapanFG/orix-corp|オリックス]] (major auto-leasing competitor)
-- [[JapanFG/toyota-financial|TFS]] / [[JapanFG/toyota-finance|トヨタファイナンス]] (Toyota auto-finance peers)
-- [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (peer trading-company finance)
-- [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (peer)
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (peer)
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (peer)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
-- [[JapanFG/mitsubishi-corp-asset-management|三菱商事系AM]] (peer trading-company finance)
+- [[JapanFG/orix-corp|ORIX]] (major auto-leasing competitor)
+- [[JapanFG/toyota-financial|TFS]] / [[JapanFG/toyota-finance|Toyota Finance]] (Toyota auto-finance peers)
+- [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (peer trading-company finance)
+- [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] (peer)
+- [[JapanFG/itochu-finance|ITOCHU Finance]] (peer)
+- [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] (peer)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
+- [[JapanFG/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]] (peer trading-company finance)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan Acquisition Finance]]
 
 ## Sources
 

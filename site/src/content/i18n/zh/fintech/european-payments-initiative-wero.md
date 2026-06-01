@@ -10,9 +10,9 @@ translated_at: 2026-05-31T06:16:15.733Z
 
 # 欧洲支付倡议 · Wero · 欧洲银行联合的零售支付钱包 · 对抗 PayPal / Apple Pay
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/e-euro-retail-rollout|digital euro retail rollout]] for the ECB-issued retail money parallel track, and with [[fintech/fnality-wholesale-settlement|Fnality]] for the wholesale-side European bank-consortium pattern (Wero is the retail mirror).
+本条目位于 [[fintech/INDEX|fintech index]]。可与 [[fintech/e-euro-retail-rollout|数字欧元零售推进]] 共同阅读，以理解 ECB 发行零售货币的平行路径；也可与 [[fintech/fnality-wholesale-settlement|Fnality]] 对照，后者代表欧洲银行联盟的批发侧模式，Wero 则可视为其零售侧镜像。
 
 > [!info] TL;DR
 > 欧洲支付倡议（EPI Company SE，比利时注册）是2020 年年由欧洲主要银行14 行家+Worldline+Nexi 共同设立的零售支付联盟，旗舰产品 **Wero 钱包**于**2024 年 7 月起在 DE/FR/BE/NL 4 个国家分阶段上线**，先行推出 P2P 转账，其后逐步发布商户支付和线上结账功能。Wero 的根本目的 = 欧洲银行**夺回零售支付主权**，对抗 PayPal / Apple Pay / Google Pay / Visa-Mastercard 等非欧系平台。底层基础设施为 **SEPA 即时信贷转账（SCT Inst）**，与欧洲央行计划中的[[fintech/e-euro-retail-rollout|digital euro]]构成"银行联盟 vs 央行直发"的二元选择/并行格局。
@@ -28,7 +28,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/e-
 - 退出/撤资：西班牙对外银行(BBVA)、意大利联合圣保罗银行(Intesa Sanpaolo)等于2022-2023 退出 → 联盟从31 行家缩减至14 行家 ^[extracted]
 - 与 EBA Clearing / SCT Inst 的互操作性：Wero 转账通过 RT1 /TIPS 轨道（欧元体系 TARGET 即时支付结算）运行 ^[extracted]
 
-## Mechanism / How it works
+## 机制与运行方式
 
 Wero 的核心模式 = **"欧洲银行联合的零售支付钱包"**，用户在14 行家成员银行的应用内可直接进行 **P2P 转账（使用电话号码或电子邮件地址）+商户结账+NFC 实体店支付**，全部通过 SCT Inst 在10 秒内完成。**关键差异**：PayPal / Apple Pay 将欧洲消费者的支付数据和交换收入留在美国；Wero 则将这些价值留在欧洲银行体系内。这是[[fintech/jurisdiction-list-monetary-protectionism|管轄区域通貨保護主義]]的欧洲案例——并非封堵外资，而是构建并行体系。
 

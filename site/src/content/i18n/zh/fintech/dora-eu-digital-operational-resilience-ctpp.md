@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.725Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+本条目位于 [[fintech/INDEX|fintech index]] 下。可与 MiCA、日本金融监管和稳定币监管页面一并阅读。
 
 > [!info] TL;DR
 > DORA 第 28-44  条的关键第三方服务提供商（CTPP）机制是欧盟将 cloud / Anchorage / Coinbase Custody 等稳定币重要基础设施"间接纳入监管"的法律工具。所有欧盟稳定币发行方 / CASP / 托管方均需遵守双重合规（MiCA + DORA）。预计 2026-Q2  第一批 CTPP 名单将包括 AWS / Azure / GCP / Anchorage / Coinbase Custody / Chainalysis / TRM Labs / Fireblocks / Circle Europe。

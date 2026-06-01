@@ -12,7 +12,7 @@ status: active
 sources:
   - BIS Project Agora press releases (2024-2026)
   - BIS mBridge project disclosures (2021-2025)
-  - PBoC / HKMA / BoT / CBUAE / SAMA / TBD-8 central bank statements
+  - PBoC / HKMA / BoT / CBUAE / SAMA and any additional participating central-bank statements
   - US Treasury OFAC sanctions framework (2024-2026 updates)
   - BlackRock public CBDC / tokenized cash strategy disclosures
   - Citi public Treasury Services strategy (2025-2026)

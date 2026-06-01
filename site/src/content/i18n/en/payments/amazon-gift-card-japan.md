@@ -16,13 +16,13 @@ This entry sits under [[payments/INDEX|payments index]] as the Amazon Japan gift
 
 ## TL;DR
 
-**Amazon Gift Card (Amazonギフト券)** is the **closed-loop prepaid e-commerce credit** of Amazon.co.jp, issued in Japan by **Amazon Japan G.K. (アマゾンジャパン合同会社)** and registered as a 自家型 (single-merchant / closed-loop) 前払式支払手段 under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. Distinct from [[payments/quo-card-prepaid|QUO Card]] and [[payments/visa-gift-card-japan|Visa Gift Card]] (both open-loop / multi-merchant), Amazon Gift Card is spendable **only on Amazon.co.jp** for marketplace purchases. Distribution rails span the **eGift digital code** (email, social-media delivery, customizable), **plastic gift cards** (sold at convenience stores Lawson / FamilyMart / MiniStop / 7-Eleven / drugstores), **チャージタイプ** (account-balance top-up at convenience-store register / Amazon site), and **box / envelope physical gift packaging**. The product is positioned for both **gift-giving** (digital / physical eGift to recipients) and **self-charge** (cardless Amazon.co.jp payment for users without credit card — particularly important for under-banked / minor / no-credit-card cohorts).
+**Amazon Gift Card** is the **closed-loop prepaid e-commerce credit** of Amazon.co.jp, issued in Japan by **Amazon Japan G.K.** and registered as a single-merchant / closed-loop prepaid payment instrument under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. Distinct from [[payments/quo-card-prepaid|QUO Card]] and [[payments/visa-gift-card-japan|Visa Gift Card]], both open-loop / multi-merchant products, Amazon Gift Card is spendable **only on Amazon.co.jp** for marketplace purchases. Distribution rails span **eGift digital codes** through email or social-media delivery, **plastic gift cards** sold at convenience stores and drugstores, **account-balance top-up** at convenience-store registers or on Amazon's site, and **box / envelope physical gift packaging**. The product is positioned for both **gift-giving** and **self-charge**, including cardless Amazon.co.jp payment for users without credit cards, particularly under-banked, minor, or no-credit-card cohorts.
 
 ## Issuer and operational structure
 
 | Dimension | Reading |
 |---|---|
-| Operating company | アマゾンジャパン合同会社 (Amazon Japan G.K.) |
+| Operating company | Amazon Japan G.K. |
 | Group parent | Amazon.com, Inc. (US) |
 | FSA prepaid registration | 自家型前払式支払手段 (closed-loop) — single-merchant Amazon.co.jp use |
 | Legal classification | Closed-loop prepaid (not third-party / 第三者型) — does not appear in `daisan.xlsx` 第三者 list |
@@ -45,18 +45,18 @@ Amazon Gift Card is registered as **自家型前払式支払手段** (closed-loo
 
 | Rail | Description |
 |---|---|
-| **eGift (Eメールタイプ)** | Email / SMS / LINE-delivered code, customizable design, sender selects amount and message; recipient enters code on Amazon.co.jp |
-| **印刷タイプ (Printable)** | PDF gift code for printing and physical handover |
-| **チャージタイプ (Charge type)** | Account-balance top-up via Amazon.co.jp using credit card, bank transfer, convenience-store payment, ATM (Pay-easy); used for self-charge of Amazon balance |
-| **コンビニ・ATM・ネットバンキングタイプ (Convenience / ATM / net bank)** | Order on Amazon site, pay at convenience store / ATM / net bank → account credited |
-| **プラスチックタイプ / ボックスタイプ** | Physical plastic gift card or boxed gift card sold at convenience stores and drugstores |
-| **B2B 法人ギフトカード** | Bulk corporate purchase for employee / customer gift distribution |
+| **eGift email type** | Email / SMS / LINE-delivered code, customizable design, sender selects amount and message; recipient enters code on Amazon.co.jp |
+| **Printable type** | PDF gift code for printing and physical handover |
+| **Charge type** | Account-balance top-up via Amazon.co.jp using credit card, bank transfer, convenience-store payment, or ATM Pay-easy; used for self-charge of Amazon balance |
+| **Convenience-store / ATM / net-banking type** | Order on Amazon site, pay at convenience store / ATM / net bank, and receive account credit |
+| **Plastic / box type** | Physical plastic gift card or boxed gift card sold at convenience stores and drugstores |
+| **B2B corporate gift card** | Bulk corporate purchase for employee / customer gift distribution |
 
 The **self-charge use case** is structurally important in Japan: a sizable cohort of Amazon.co.jp users does not have or does not want to register a credit card; they charge Amazon Gift Card balance at a convenience store and pay for Amazon purchases from the balance. This functions as a **cashless on-ramp for under-banked users** — comparable to other countries' prepaid debit card use case.
 
 ## Gift-card fraud / scam concern
 
-Amazon Gift Card has been heavily exploited in **Japan's "電子マネー型 specia fraud / 振り込め詐欺" (e-money-type wire-fraud scam)** ecosystem — scam callers (impersonating tax authorities, Amazon customer support, family members, etc.) instruct victims to purchase Amazon Gift Cards at convenience stores and read the codes over the phone. The National Police Agency (NPA), FSA, and consumer-protection authorities have repeatedly warned about this pattern. Major countermeasures:
+Amazon Gift Card has been heavily exploited in Japan's e-money-type special-fraud and wire-fraud scam ecosystem. Scam callers impersonating tax authorities, Amazon customer support, family members, and other parties instruct victims to purchase Amazon Gift Cards at convenience stores and read the codes over the phone. The National Police Agency, FSA, and consumer-protection authorities have repeatedly warned about this pattern. Major countermeasures:
 
 - Convenience-store cashiers warn purchasers of >¥10,000 gift-card purchases and ask the purpose.
 - Amazon Japan has published consumer-warning pages and added scam-awareness messaging.

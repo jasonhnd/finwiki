@@ -23,7 +23,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Operating entity**: Mek Global Limited (the principal operating entity, registered in Seychelles), as part of a complex structure spanning multiple overseas entities. Phoenix Capital Resources Ltd and others have been reported as affiliated entities, but the details of the group's overall corporate structure cannot be confirmed in public materials.
 - **Established**: 2017年 (China)
 - **Headquarters location**: Republic of Seychelles (after relocating Hong Kong → Singapore in 2018年, then further relocating to Seychelles)
-- **Shareholders / capital**: an unlisted private company. In the 2022年5月 Series B round, raised USD 1億5,000万 led by Jump Crypto, with a valuation of USD 100億 at the time. SIG (Susquehanna International Group) also invested USD 1,000万 at 2022年7月.
+- **Shareholders / capital**: an unlisted private company. In the May 2022 Series B round, KuCoin raised USD 150 million led by Jump Crypto at a valuation of about USD 10 billion. SIG (Susquehanna International Group) also invested USD 10 million in July 2022.
 
 ## 2. License / registration status
 

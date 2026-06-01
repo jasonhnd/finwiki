@@ -12,7 +12,7 @@ translated_at: 2026-05-30T18:10:53.979Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+本条目位于 [[banking/INDEX|banking index]] 下。可与 Rakuten Bank 和日本协同金融体系对照阅读。
 
 ## TL;DR
 

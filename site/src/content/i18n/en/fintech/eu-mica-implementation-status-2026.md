@@ -87,7 +87,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[finte
 
 - **USDC pure inflow (EU)** ~$45B (2025-01~2026-05  cumulative)
 - **EURC inflow** ~€220M (cumulative over the same period)
-- **Banking Department ユーロ SC (EURCV + BBVA EURO + Banking Circle)** Total ~€180M
+- **Banking Department euro SC (EURCV + BBVA EURO + Banking Circle)** Total ~?180M
 
 **USDC share** is 2026-05  and ~78% EU SC distribution, almost monopolized. **EURC + Bank Euro SC total** is still ~10% (~€400M), a difference of 20x from USDC EU circulation $8B+. **Smallness of the Euro SC market** is a structural reality after the implementation of MiCA - Although [[fintech/mica-overview|MiCA 概観]]'s initial judgment that ``the difference between EURC distribution and USDC is 300x'' has been significantly reduced (currently the difference is 20x), it has not caught up with it yet.
 
@@ -97,7 +97,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[finte
 - Acquire ACPR EMT license for 2025-05  (simultaneously with USDC)
 - Reserves 100% Short-term government bonds + central bank deposits + cash, BlackRock partial custody
 - 2026-05  Distribution €280M, Main use: Crypto exchange EUR pair / DeFi (Aave Polygon) / Euro cross-border payment
-- USDC and Circle share the same compliance frame → euro side replication of [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]
+- USDC and Circle share the same compliance frame -> euro-side replication of [[fintech/circular-reserve-asset-flywheel-overview|circular reserve-asset flywheel]]
 
 ### Société Générale-FORGE EURCV (Euro Coin Vertu)
 
@@ -106,7 +106,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[finte
 - Launched on 2026-Q1  with Stellar + Ethereum + Solana
 - Reserves French short-term government bonds + commercial bank deposits + ECB deposit facility
 - 2026-05  Distribution €60M, Application: Large enterprises B2B Cross-border payment / institutional yield-bearing wallet test
-- Fully consistent with [[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン / デポジットトークン論題]] —— SocGen positions EURCV as “half SC, half deposit token”
+- Fully consistent with [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin / deposit-token thesis]]: SocGen positions EURCV as ?half SC, half deposit token?
 
 ### BBVA EURO
 
@@ -153,16 +153,16 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[finte
 - [[fintech/INDEX|FinWiki Fintech Index]]
 - [[fintech/mica-overview|MiCA 概観]]
 - [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]]
-- [[fintech/mica-cross-border-implications|MiCA クロスボーダー含意]]
+- [[fintech/mica-cross-border-implications|MiCA cross-border implications]]
 - [[fintech/dora-eu-digital-operational-resilience-overview|DORA 概観]]
 - [[fintech/dora-eu-digital-operational-resilience-ctpp|DORA CTPP]]
-- [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバルステーブルコイン規制五極マトリクス]]
-- [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 SC MRA フレームワーク]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン / デポジットトークン論題]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]]
+- [[fintech/circular-reserve-asset-flywheel-overview|circular reserve-asset flywheel]]
+- [[fintech/three-circles-stablecoin-mra-framework|three-circle SC MRA framework]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin / deposit-token thesis]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/brazil-mexico-cbdc-stablecoin-push-2026|Brazil/Mexico CBDC × ステーブルコイン推進]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether ビジネスモデル]]
+- [[fintech/brazil-mexico-cbdc-stablecoin-push-2026|Brazil/Mexico CBDC and stablecoin push]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether business model]]
 
 ## Sources
 

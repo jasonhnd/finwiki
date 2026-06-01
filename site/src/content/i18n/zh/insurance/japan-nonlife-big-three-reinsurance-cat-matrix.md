@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.925Z
 
 # 日本非寿险三大再保险和巨灾叠加矩阵
 
-##TL;博士
+## 要点摘要
 
 “日本非寿险三巨头”——[[JapanFG/tokio-marine|Tokio Marine Holdings]]、[[JapanFG/msad|MS&AD Insurance Group Holdings]]和[[JapanFG/sompo|Sompo Holdings]]——共享在日本注册的多险种财产险特许经营权，但在驱动分析读数的五个叠加轴上有所不同：风险造成的巨灾风险、再保险计划的形状、海外专业/伦敦市场的存在、股权交叉持股投资组合规模和递减速度以及资本回报政策。日本方面的猫暴露分为地震（通过[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]公私转交层造成的大损失尾部）、台风/风（年频损失驱动因素）、洪水（次生灾害上升）和雪/冰雹（规模较小但波动较大）。再保险计划结合了国内集团内转分保、非巨灾险的比例协议以及在全球再保险市场购买的巨灾险的超额损失 (XL) 保险。 Tokio Marine 在三者中拥有最大的海外收益份额（包括伦敦市场平台和美国专业业务）； MS&AD的结构特点是双国内运营公司模式（[[JapanFG/mitsui-sumitomo-insurance|MSI]]加[[JapanFG/aioi-nissay-dowa-insurance|ADI]]），与丰田/移动生态系统联动； Sompo 的显着特征包括 Sompo 日本国内核心以及塑造近期战略披露的补救/治理弧线。这三家公司都在实施多年的交叉持股缩减计划，以机械方式降低 ESR 股权风险资本，并释放资本用于回购。综合比率读数分为自愿汽车、消防、伤亡、海运和其他商业险种，海外综合比率在集团层面单独报告。
 

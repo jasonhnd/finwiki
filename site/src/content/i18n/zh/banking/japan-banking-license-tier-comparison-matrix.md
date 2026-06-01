@@ -16,7 +16,7 @@ translated_at: 2026-05-30T18:10:53.989Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] and pairs with [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the cooperative-finance lane, [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for the digital-bank lane, [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]] for the foreign-branch lane, and [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] for the regional-bank lane. The regulatory boundary is [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] inside [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]. The deposit-insurance system is [[JapanFG/yokin-hoken-kiko|預金保険機構 (DICJ)]]. The cooperative central institutions are [[JapanFG/norinchukin|農林中央金庫]] and [[JapanFG/shinkin-central|信金中央金庫]].
+本条目位于 [[banking/INDEX|banking index]] 下。可与协同金融、银行资本监管和 JapanFG 索引一并阅读。
 
 ## 为何层级矩阵重要
 

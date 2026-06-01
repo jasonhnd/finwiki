@@ -28,7 +28,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 - AggregationISM は複数 ISM の組み合わせを許容(例:multisig + optimistic の二重) ^[extracted]
 - RoutingISM は message type に応じて異なる ISM へルーティング ^[extracted]
 
-## Mechanism / How it works
+## ISM Security Composition
 
 **主要な ISM タイプ**:
 

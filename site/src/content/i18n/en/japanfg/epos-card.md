@@ -8,22 +8,21 @@ title: "EPOS Card"
 translated_at: 2026-05-31T15:29:03.908Z
 ---
 # EPOS Card
-# エポスカード (EPOS Card)
 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/pocket-card|ポケットカード (Pocket Card)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/pocket-card|Pocket Card]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-エポスカードは丸井グループのカード・金融事業 operator。小売店頭、商業施設、オンライン入会、家賃保証・保険などの生活接点に広がるカード会社として、一般的な銀行系 issuer とは違う retail-origin finance の比較対象になる。
+EPOS Card is the Marui Group's card and financial-services operator. Because its customer acquisition surface spans retail stores, commercial facilities, online enrollment, rent-guarantee services, insurance, and other daily-life touchpoints, it is a useful comparison point for retail-origin finance rather than a conventional bank-affiliated card issuer.
 
-## 1. 法人・ライセンス境界
+## 1. Entity and license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | 株式会社エポスカード |
+| Legal entity | EPOS Card Co., Ltd. |
 | Group | Marui Group financial-services arm |
 | Main lanes | Credit card, card shopping, cashing, co-brand / retail finance |
 | Regulatory route | Installment Sales Act / credit-card and lending-related public disclosures. |
@@ -36,7 +35,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 3. Why this standalone page matters
 
-EPOS is strategically different from megabank cards like [[JapanFG/mufg|MUFG]]-affiliated issuers: its moat is retail relationship, tenant network, and customer experience rather than a deposit base. Useful peers include [[JapanFG/pocket-card|Pocket Card]] and [[JapanFG/aeon-financial-service|イオンフィナンシャルサービス]] for other retail-origin card issuers.
+EPOS is strategically different from megabank cards like [[JapanFG/mufg|MUFG]]-affiliated issuers: its moat is retail relationships, tenant networks, and customer experience rather than a deposit base. Useful peers include [[JapanFG/pocket-card|Pocket Card]] and [[JapanFG/aeon-financial-service|AEON Financial Service]] for other retail-origin card issuers.
 
 ## Related
 

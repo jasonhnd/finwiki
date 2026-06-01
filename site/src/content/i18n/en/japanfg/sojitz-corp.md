@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.159Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. It is positioned as the layer after the 5  major trading houses and inside the middle-tier / quasi-major trading-company group around the 7  major trading houses. Read it against [[JapanFG/marubeni-corp|丸紅]] (a lower-ranked member of the 5  major trading houses and a close peer to Sojitz) and [[JapanFG/toyota-tsusho-corp|豊田通商]] (a middle-tier / 5  major upper-rank peer with a different parent profile) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[JapanFG/sojitz-finance|双日フィナンス]], the internal CMS / group-finance arm that has the same model as the 5  major trading-house finance subsidiaries such as MCFS, MBFS, Itochu Finance, Marubeni Finance, and Sumitomo Corporation Financial Management. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. It is positioned after the five major trading houses and within the middle-tier / quasi-major trading-company group. Read it against [[JapanFG/marubeni-corp|Marubeni]] and [[JapanFG/toyota-tsusho-corp|Toyota Tsusho]] for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[JapanFG/sojitz-finance|Sojitz Finance]], the internal CMS / group-finance arm that has the same model as major trading-house finance subsidiaries such as MCFS, MBFS, Itochu Finance, Marubeni Finance, and Sumitomo Corporation Financial Management. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
 
 ## 1. Company overview
 
@@ -30,7 +30,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent 
 
 ```
 Sojitz (2768,  TSE PRIME)
-  ├── [[JapanFG/sojitz-finance|双日フィナンス]] (100%)          - internal CMS / group finance
+  ??? [[JapanFG/sojitz-finance|Sojitz Finance]] (100%)          - internal CMS / group finance
   ├── No large captive leasing subsidiary is apparent
   │                            - external asset finance uses 3  major leasing companies / SMFL / Mizuho Leasing and others
   ├── Sojitz Logistics         - logistics
@@ -71,11 +71,11 @@ Sojitz (2768,  TSE PRIME)
 
 **Comparison with the 5  major trading houses: Sojitz does not appear to have a large external captive leasing / asset-finance subsidiary.**
 
-- 5  majors: [[JapanFG/mitsubishi-corp|三菱]] -> [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] (about 20% under Mitsubishi Corp. law); [[JapanFG/mitsui-co|三井]] -> [[JapanFG/ja-mitsui-leasing|JA三井リース]] (about 33%); [[JapanFG/itochu-corp|伊藤忠]] -> [[JapanFG/tokyo-century|東京センチュリー]] (about 25%); [[JapanFG/sumitomo-corp|住友]] -> [[JapanFG/smfl|SMFL]] (50% JV with SMFG); [[JapanFG/marubeni-corp|丸紅]] -> [[JapanFG/mizuho-lease|みずほリース]] (about 20%, as of 2024).
+- Five majors: [[JapanFG/mitsubishi-corp|Mitsubishi]] -> [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]; [[JapanFG/mitsui-co|Mitsui]] -> [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]]; [[JapanFG/itochu-corp|ITOCHU]] -> [[JapanFG/tokyo-century|Tokyo Century]]; Marubeni and Sumitomo Corporation have their own finance / leasing adjacencies.
 
 Additional main-bank lineage for Sojitz:
 
-- Former Nichimen line -> [[JapanFG/mizuho-fg|みずほ FG]] (former Fuji Bank / Industrial Bank lineage)
+- Former Nichimen line -> [[JapanFG/mizuho-fg|Mizuho FG]] (former Fuji Bank / Industrial Bank lineage)
 - Former Nissho Iwai line -> [[JapanFG/mufg|MUFG]] (former Sanwa Bank lineage / former Tokyo-Mitsubishi) + [[JapanFG/smfg|SMFG]]
 
 ### 7  major-trading-house identity
@@ -111,10 +111,10 @@ Sojitz has strengthened profitability and shareholder returns, but still needs t
 
 - [[JapanFG/INDEX|JapanFG index]]
 - [[JapanFG/mitsubishi-corp|三菱商事]] · [[JapanFG/mitsui-co|三井物産]] · [[JapanFG/itochu-corp|伊藤忠商事]] · [[JapanFG/sumitomo-corp|住友商事]] · [[JapanFG/marubeni-corp|丸紅]] · [[JapanFG/toyota-tsusho-corp|豊田通商]] (peer trading houses)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (internal group treasury)
-- [[JapanFG/orix-corp|オリックス]] · [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] · [[JapanFG/tokyo-century|東京センチュリー]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/mizuho-lease|みずほリース]] (external leasing comparators)
-- [[JapanFG/mizuho-fg|みずほ FG]] · [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] (main-bank lineage)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (internal group treasury)
+- [[JapanFG/orix-corp|ORIX]] ? [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] ? [[JapanFG/tokyo-century|Tokyo Century]] ? [[JapanFG/smfl|SMFL]] ? [[JapanFG/mizuho-lease|Mizuho Leasing]] (external leasing comparators)
+- [[JapanFG/mizuho-fg|Mizuho FG]] ? [[JapanFG/mufg|MUFG]] ? [[JapanFG/smfg|SMFG]] (main-bank lineage)
+- [[finance/INDEX|finance index]] ? [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]]
 
 ## Sources
 

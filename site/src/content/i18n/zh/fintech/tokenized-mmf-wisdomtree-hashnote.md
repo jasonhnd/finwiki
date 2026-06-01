@@ -4,73 +4,73 @@ source_hash: 7993916faa2000fa
 lang: zh
 status: machine
 fidelity: ok
-title: "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス"
+title: "Tokenized MMF 扩展：WisdomTree WTGXX x Hashnote USYC 的第二梯队矩阵"
 translated_at: 2026-05-31T11:13:44.851Z
 ---
 
-# Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス
+# Tokenized MMF 扩展：WisdomTree WTGXX x Hashnote USYC 的第二梯队矩阵
 
-## Wiki route
+## Wiki 路线
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]（leader 第一梯団）and [[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI]] / [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] for the full tokenized-MMF and tokenized-RWA matrix, and with [[fintech/circular-reserve-asset-flywheel-overview|準備金相互ロックフライホイール]] for the systemic role tokenized MMF plays as stablecoin yield infrastructure.
+本条目位于 [[fintech/INDEX|金融科技索引]]。请与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]（第一梯队 leader）、[[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI]]、[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 配套阅读，以覆盖 tokenized MMF / tokenized RWA 全矩阵；并与 [[fintech/circular-reserve-asset-flywheel-overview|准备金相互锁定飞轮]] 配套阅读，以理解 tokenized MMF 作为稳定币收益基础设施的系统角色。
 
 > [!info] TL;DR
-> トークン化 MMF 市場は 2026-Q2 で **$8B AUM** 総規模を突破したが、**集中度は依然極めて高い**：BUIDL（$2.58B）+ BENJI（$800M）+ ONDO OUSG（$600M）+ FOBXX（Franklin OnChain US Government MMF）が 60%+ を占有。**第二梯団**：WisdomTree **WTGXX**（WisdomTree Prime ウォレット内でトークン化）+ Hashnote **USYC**（2024-12 Circle に買収、2025 年に Circle の USDC yield 製品 USDC.YS に統合）+ Superstate USTB + Centrifuge / Backed 等の小型ソリューション。本エントリは当該第二梯団の「比較マトリックス / 経路分類」、**コアクエスチョン = 「BUIDL が主導だが、2 位、3 位、4 位は誰か」**および Circle が Hashnote を買収して「トークン化 MMF を直接 USDC の yield モジュールとする」構造的影響について。
+> Tokenized MMF 市场在 2026-Q2 突破 **80 亿美元 AUM**，但集中度仍然极高：BUIDL（25.8 亿美元）+ BENJI（8 亿美元）+ ONDO OUSG（6 亿美元）+ FOBXX（Franklin OnChain U.S. Government MMF）占据 60% 以上。第二梯队包括 WisdomTree **WTGXX**、Hashnote **USYC**、Superstate USTB、Centrifuge / Backed 等小型方案。本页关注第二梯队的比较矩阵、路径分类，以及 Circle 收购 Hashnote 后把 tokenized MMF 直接转化为 USDC yield 模块的结构影响。
 
-## Key facts
+## 关键事实
 
-- トークン化 MMF 総市場 ~**$8B+** AUM（2026-Q2）· 2024-Q1（~$1B）から 8 倍成長 ^[extracted]
-- 第一梯団：BUIDL **$2.58B**（Moody's Aaa-mf）+ BENJI **$800M** + ONDO OUSG **$600M** + FOBXX（Franklin）^[extracted]
-- 第二梯団：**WisdomTree WTGXX**（~$200M、主に WisdomTree Prime ウォレット内）、**Hashnote USYC**（~$1B ピーク、2024-12 Circle に買収）、**Superstate USTB**（~$150M）、Centrifuge / Backed 等 ^[extracted]
-- **2024-12 Circle が Hashnote を買収**（~$200M+ 現金 + 株式）→ USYC が Circle 製品ラインへ統合 → 2025-Q1 に **USDC.YS** をローンチ（USDC + yield、USYC が yield エンジン）^[extracted]
-- WisdomTree Prime：WisdomTree 自営のリテールトークン化資産ウォレット + brokerage、SEC 規制下で WTGXX のオンチェーン share を提供 ^[extracted]
-- Moody's Aaa-mf 格付：BUIDL + FYHXX（Fidelity）が同日（2026-05-13）に付与 · WTGXX / USYC / FOBXX の格付経路は異なる ^[extracted]
-- 規制経路：BUIDL = Reg D 506(c) プライベート、WTGXX = 2a-7 登録公募（リテール購入可）、USYC = Reg D プライベート（機関）^[extracted]
+- Tokenized MMF 总市场约 **80 亿美元以上 AUM**（2026-Q2），较 2024-Q1 的约 10 亿美元增长约 8 倍。^[extracted]
+- 第一梯队：BUIDL **25.8 亿美元**（Moody's Aaa-mf）+ BENJI **8 亿美元** + ONDO OUSG **6 亿美元** + FOBXX（Franklin）。^[extracted]
+- 第二梯队：**WisdomTree WTGXX**（约 2 亿美元，主要位于 WisdomTree Prime wallet 内）、**Hashnote USYC**（峰值约 10 亿美元，2024-12 被 Circle 收购）、**Superstate USTB**（约 1.5 亿美元）、Centrifuge / Backed 等。^[extracted]
+- **2024-12 Circle 收购 Hashnote**，对价约 2 亿美元以上现金加股票；USYC 进入 Circle 产品线，并在 2025-Q1 被整合为 **USDC.YS**（USDC + yield，USYC 作为 yield engine）。^[extracted]
+- WisdomTree Prime 是 WisdomTree 自营的零售 tokenized asset wallet + brokerage，在 SEC 监管框架下提供 WTGXX on-chain share。^[extracted]
+- Moody's Aaa-mf 评级：BUIDL 与 FYHXX（Fidelity）于 2026-05-13 同日获得；WTGXX / USYC / FOBXX 的评级路径不同。^[extracted]
+- 监管路径：BUIDL = Reg D 506(c) private；WTGXX = 2a-7 注册公募，可面向零售；USYC = Reg D private，偏机构。^[extracted]
 
-## Mechanism / How it works
+## 机制
 
-第二梯団トークン化 MMF のコア差別化 = **BUIDL が既に占領した「機関 + プライベート + Reg D」メイン戦場を回避し、リテール / チェーンネイティブ / yield-bearing-stablecoin 等の差別化経路を辿る**：
+第二梯队 tokenized MMF 的核心差异化，是避开 BUIDL 已经占据的“机构 + private + Reg D”主战场，改走零售、chain-native、yield-bearing-stablecoin 等差异化路径：
 
-| 方案 | 発行体 | 規制経路 | 主要配信 | 差別化 |
+| 产品 | 发行 / 合作方 | 监管路径 | 主要使用者 | 战略解读 |
 |---|---|---|---|---|
-| BUIDL | BlackRock + Securitize | Reg D 506(c) プライベート | 機関 + SC issuer 準備金 | 主導、「yield インフラ」 |
-| BENJI / FOBXX | Franklin Templeton | 2a-7 登録公募 | Franklin Prime ウォレット + Coinbase | retail-friendly、multi-chain naming |
-| ONDO OUSG | Ondo Finance | Reg D | crypto-native institutions | DeFi 統合が深い |
-| **WTGXX** | WisdomTree | 2a-7 登録公募 | WisdomTree Prime ウォレット | リテールフレンドリー + brokerage 一体 |
-| **USYC** | Hashnote → Circle（2024-12）| Reg D | USDC yield 製品に統合 | 直接「USDC + yield」統合を実現 |
-| Superstate USTB | Superstate | Reg D | crypto-native institutions | 初期段階 |
+| BUIDL | BlackRock + Securitize | Reg D 506(c) private | 机构 + stablecoin issuer 准备金 | 主导者，yield infrastructure |
+| BENJI / FOBXX | Franklin Templeton | 2a-7 注册公募 | Franklin Prime wallet + Coinbase | retail-friendly，多链命名 |
+| ONDO OUSG | Ondo Finance | Reg D | crypto-native institutions | DeFi 集成较深 |
+| **WTGXX** | WisdomTree | 2a-7 注册公募 | WisdomTree Prime wallet | 零售友好 + brokerage 一体 |
+| **USYC** | Hashnote -> Circle（2024-12） | Reg D | 整合进 USDC yield 产品 | 直接实现“USDC + yield”组合 |
+| Superstate USTB | Superstate | Reg D | crypto-native institutions | 早期阶段 |
 
-WisdomTree Prime + WTGXX は **「伝統 asset manager が MMF を直接トークン化 + 自営リテールウォレット」** 経路、[[fintech/franklin-templeton-stablecoin-migration|Franklin Templeton]] をシミュレートするがリテールをより前置している。**Hashnote USYC の特殊性**：USYC は 2024 年時点で crypto-native asset manager（元 Cumberland チーム）が発行したトークン化 MMF、主に [[fintech/frax-frxusd-defi-stablecoin|Frax]] / Ethena USDtb / Sky USDS 等の DeFi プロトコルに準備金として使用されていた。**2024-12 Circle が ~$200M で Hashnote を買収** = Circle が「純粋な SC 発行体」から「SC + yield engine 一体」への重要な転換を完了し、[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] と直接競合する関係を形成（Circle が yield infra を内製化 vs Circle が BUIDL を LP として保有する旧経路）。
+WisdomTree Prime + WTGXX 是“传统 asset manager 直接 tokenized MMF + 自营零售 wallet”路径，与 [[fintech/franklin-templeton-stablecoin-migration|Franklin Templeton]] 路线相似，但更前置零售端。Hashnote USYC 的特殊性在于：它由 crypto-native asset manager 发行，曾主要作为 [[fintech/frax-frxusd-defi-stablecoin|Frax]]、Ethena USDtb、Sky USDS 等 DeFi 协议的准备金。**Circle 在 2024-12 收购 Hashnote**，意味着 Circle 从“纯 stablecoin 发行方”转向“stablecoin + yield engine 一体化”，形成与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 的直接竞争关系。
 
-USDC.YS（2025-Q1 ローンチ）= USDC + USYC yield の製品パッケージ、**GENIUS §501「SC は直接利息支払い不可」制限を回避する**方法 —— USDC 自体は依然 yield-bearing ではないが、ユーザーはワンクリックで「USDC 保有 + 同時に USYC share 取得」の製品パッケージを購入でき、実効果は yield-bearing USDC、[[fintech/sky-usds-decentralized-stablecoin|Sky USDS / sUSDS]] モデルと相互にミラー関係。
+USDC.YS（2025-Q1 launch）是 USDC + USYC yield 的产品包装。它试图在 GENIUS Section 501“stablecoin 不得直接付息”的限制下，通过“USDC 持有 + 同步取得独立 USYC share”的结构实现近似 yield-bearing USDC 的效果，与 [[fintech/sky-usds-decentralized-stablecoin|Sky USDS / sUSDS]] 模型互为镜像。
 
-## Origin & evolution
+## 起源与演进
 
-2022-2023 RWA トークン化第 1 波（MakerDAO が DAI 準備金を short UST に配置）、ただしシェアは依然 OUSG / USDM（Mountain Protocol）等の小型ソリューションが主体。**2024-03 BUIDL ローンチ** = 業界の転換点、BlackRock がトークン化 MMF を機関メイン戦場に押し上げた。2024-Q3 WisdomTree Prime が WTGXX のオンチェーン share を公表（主に Ethereum 上）。**2024-12 Circle が Hashnote を買収** = 第 2 の重要イベント、Circle が「yield engine」を内製化し、BUIDL 依存リスクを解消。2025-Q1 Circle が **USDC.YS** をローンチ = USDC + USYC のワンクリック購入製品。2025-Q3 Superstate USTB が Solana をまたぎ、ONDO OUSG と DeFi 統合で競合。**2025-09 GENIUS Act 施行** → 「SC は直接利息支払い不可」により yield-bearing 経路は「SC + 独立 MMF share」二位一体製品パッケージ構造を辿る必要、**第二梯団トークン化 MMF を直接利する**（コンプライアンス yield-bearing 製品の必須コンポーネントとなる）。2026-05-13 BUIDL + FYHXX が同日 Moody's Aaa-mf 取得、第一梯団がさらに制度化。2026-Q1 市場全体で $8B+ AUM、依然初期段階（vs 米国 MMF 総市場 $7T）。
+2022-2023 年的 RWA tokenization 第一波中，MakerDAO 将 DAI 准备金配置到 short UST，但市场份额仍由 OUSG / USDM（Mountain Protocol）等小型方案构成。**2024-03 BUIDL launch** 是行业转折点，BlackRock 将 tokenized MMF 推上机构主战场。2024-Q3，WisdomTree Prime 公布 WTGXX 的 on-chain share。**2024-12 Circle 收购 Hashnote** 是第二个关键事件，Circle 内制化 yield engine，并降低对 BUIDL 的依赖。2025-Q1，Circle launch **USDC.YS**。2025-Q3，Superstate USTB 跨入 Solana，并与 ONDO OUSG 在 DeFi 集成上竞争。**2025-09 GENIUS Act 施行** 后，合规 yield-bearing 产品更可能沿着“stablecoin + 独立 MMF share”的二位一体结构发展，从而直接利好第二梯队 tokenized MMF。2026-05-13，BUIDL + FYHXX 同日取得 Moody's Aaa-mf，第一梯队进一步制度化。
 
 ## Related
 <!-- wiki-links:managed -->
-- [[INDEX|Wiki Index]]
-- [[fintech/INDEX|fintech index]]
+- [[INDEX|Wiki 索引]]
+- [[fintech/INDEX|金融科技索引]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer adoption]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL stablecoin issuer adoption]]
 - [[fintech/franklin-templeton-stablecoin-migration|Franklin Templeton BENJI]]
 - [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]
-- [[fintech/ondo-finance-rusdy-adoption|Ondo Finance OUSG/RUSDY]]
+- [[fintech/ondo-finance-rusdy-adoption|Ondo Finance OUSG / RUSDY]]
 - [[fintech/circle-usdc-stablecoin|Circle USDC]]
-- [[fintech/circular-reserve-asset-flywheel-overview|準備金相互ロックフライホイール]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/circular-reserve-asset-flywheel-overview|准备金相互锁定飞轮]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act Section 501]]
 - [[fintech/sky-usds-decentralized-stablecoin|Sky USDS / sUSDS]]
 - [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD]]
-- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
+- [[fintech/portfolio-winner-structure-arm-analog|组合赢家结构]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx — WisdomTree WTGXX 製品ページ
-- https://www.wisdomtree.com/insights/wisdomtree-prime — WisdomTree Prime ウォレット紹介
-- https://www.usyc.com/ — USYC 製品ページ（Hashnote 発、現 Circle 傘下）
-- https://www.hashnote.com/ — Hashnote（Circle 子会社）ホームページ
-- https://www.circle.com/blog/circle-acquires-hashnote — Circle の Hashnote 買収公式公表
-- https://www.coindesk.com/business/2024/circle-hashnote-acquisition-usyc — CoinDesk 報道
-- https://www.sec.gov/Archives/edgar/data/wisdomtree-prime — WisdomTree Prime SEC 申請
+- https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx — WisdomTree WTGXX 产品页
+- https://www.wisdomtree.com/insights/wisdomtree-prime — WisdomTree Prime wallet 介绍
+- https://www.usyc.com/ — USYC 产品页（Hashnote 发起，现 Circle 旗下）
+- https://www.hashnote.com/ — Hashnote（Circle 子公司）主页
+- https://www.circle.com/blog/circle-acquires-hashnote — Circle 收购 Hashnote 官方公告
+- https://www.coindesk.com/business/2024/circle-hashnote-acquisition-usyc — CoinDesk 报道
+- https://www.sec.gov/Archives/edgar/data/wisdomtree-prime — WisdomTree Prime SEC filing

@@ -58,7 +58,7 @@ This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction de
                                   (pending; not yet entered)
                                             │
                                             ▼
-                                  Live issuance (TBD)
+                                  Live issuance (not yet determined)
 ```
 
 ## Matrix A · Statute, regulator, phase status
@@ -70,7 +70,7 @@ This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction de
 | Investigation Phase | 2021-10 → 2023-10 (concluded) |
 | Preparation Phase | 2023-11 → originally October 2025; **extended into 2026-Q4+** awaiting legislative outcome |
 | Issuance Decision Phase | NOT yet entered as of 2026-05; requires Governing Council decision + legislative basis |
-| Issuance start | TBD; depends on Issuance Decision Phase outcome; earliest realistic 2027-2028 |
+| Issuance start | Not yet determined; depends on Issuance Decision Phase outcome; earliest realistic 2027-2028 |
 | Reporting cadence | ECB publishes quarterly / periodic progress reports on the digital euro project page |
 
 The ECB explicitly clarifies in every progress report that **entering the Preparation Phase is not a decision to issue**. Issuance requires (i) the EU co-legislative regulation to be adopted, and (ii) a separate Governing Council decision to launch. As of 2026-05 neither has happened.

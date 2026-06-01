@@ -44,7 +44,7 @@
     "Solana SMS vs Embedded Wallet · OS 層 vs App 層の経路争い",
     "Wiki route",
     "Key facts",
-    "Mechanism / How it works",
+    "OS 層ウォレットと embedded wallet の競争構造",
     "Origin & evolution",
     "Related",
     "Sources"
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3222,
-    "word_like_tokens": 514,
+    "nonspace_chars": 3230,
+    "word_like_tokens": 515,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-01"
   }
 }

@@ -20,7 +20,7 @@ This entry sits under [[banking/INDEX|banking index]] and is the cooperative-sys
 
 ## Why this matrix matters
 
-Treating "cooperative finance" as one category is the single most common error in Japan financial-system mapping. The five systems do not share statutes, do not share supervisors, do not share central institutions, and do not share deposit-insurance pathways. A confidence judgement on a [[banking/ja-bank-system-japan|JA]] cash flow has to start from 農林中央金庫法 + 農協法; a confidence judgement on a [[banking/shinkin-bank-registry-japan|shinkin]] cash flow has to start from 信用金庫法 + FSA 中小・地域 guideline. The two questions are answered by different ministries, different inspection programmes, and different liquidity backstops.
+Treating "cooperative finance" as one category is the single most common error in Japan financial-system mapping. The five systems do not share statutes, supervisors, central institutions, or deposit-insurance pathways. A confidence judgement on a [[banking/ja-bank-system-japan|JA]] cash flow has to start from the Norinchukin Bank Act plus the Agricultural Cooperatives Act; a confidence judgement on a [[banking/shinkin-bank-registry-japan|shinkin]] cash flow has to start from the Shinkin Bank Act plus FSA SME / regional-financial-institution supervision guidance.
 
 Specifically, this matrix matters because:
 
@@ -37,8 +37,8 @@ This entry should be read together with the licence-tier matrix [[banking/japan-
 
 | Dimension | JA Bank ([[banking/ja-bank-system-japan|農協系統]]) | JF Marine Bank ([[banking/jf-marine-bank-system-japan|漁協系統]]) | 信用金庫 ([[banking/shinkin-bank-registry-japan|shinkin]]) | 信用組合 ([[banking/credit-cooperative-registry-japan|shinkumi]]) | 労働金庫 ([[banking/rokin-bank-registry-japan|rokin]]) |
 |---|---|---|---|---|---|
-| **Statute (member layer)** | 農業協同組合法 (1947) | 水産業協同組合法 (1948) | 信用金庫法 (1951) | 中小企業等協同組合法 (1949) + 協同組合による金融事業に関する法律 (1949) | 労働金庫法 (1953) |
-| **Statute (central layer)** | 農林中央金庫法 (1923 / 1986 / 2001) | 農林中央金庫法 (shared) | 信用金庫法 | 中小企業等協同組合法 + 協同組合による金融事業 | 労働金庫法 |
+| **Statute (member layer)** | Agricultural Cooperatives Act (1947) | Fisheries Cooperatives Act (1948) | Shinkin Bank Act (1951) | Small and Medium-Sized Enterprise Cooperatives Act (1949) + Act on Financial Businesses by Cooperatives (1949) | Labour Bank Act (1953) |
+| **Statute (central layer)** | Norinchukin Bank Act (1923 / 1986 / 2001) | Norinchukin Bank Act (shared) | Shinkin Bank Act | Small and Medium-Sized Enterprise Cooperatives Act + Act on Financial Businesses by Cooperatives | Labour Bank Act |
 | **Primary supervisor** | FSA + 農林水産省 (joint) | FSA + 農林水産省 (joint) | FSA + Local Finance Bureau | FSA + 都道府県 (prefecture) | FSA + 厚生労働省 (joint) |
 | **Member-cooperative count** | 497 JA (as of 2025-04 [[JapanFG/norinchukin\|農中]] disclosure) | 71 JF | 254 shinkin (FSA 令和7年11月6日) | 143 shinkumi (FSA 令和8年2月20日) | 13 rokin |
 | **Federation / prefectural layer** | 31 prefectural JA Shinnoren (信連) | 10 JF Shingyoren (信漁連) | None at prefectural credit layer (shinkin go direct to 信金中金) | None at prefectural credit layer (shinkumi go direct to 全信組連) | None at prefectural credit layer (rokin go direct to 労金連) |
@@ -85,7 +85,7 @@ This entry should be read together with the licence-tier matrix [[banking/japan-
 ## 信用金庫 — Shinkin system ([[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]])
 
 - **Statute.** 信用金庫法 (Act No. 238 of 1951; comprehensive enforcement 1958).
-- **Supervisor.** FSA + Local Finance Bureau (under FSA's 中小・地域金融機関 supervision guideline Part V on 協同組織金融機関). Not a joint MAFF / MHLW supervision regime — shinkin sit entirely inside the FSA cooperative-finance lane.
+- **Supervisor.** FSA + Local Finance Bureau under the FSA SME / regional-financial-institution supervision guideline, Part V on cooperative financial institutions. Shinkin sit entirely inside the FSA cooperative-finance lane.
 - **Layer count.** 254 licensed shinkin (FSA 信用金庫免許一覧, as of 令和7年11月6日) + 1 [[JapanFG/shinkin-central|信金中央金庫]] central institution. Down from the 1990s peak (~400+) through continuous shinkin-to-shinkin mergers under 信用金庫法 procedures.
 - **Central institution.** [[JapanFG/shinkin-central|信金中央金庫 (Shinkin Central Bank, SCB)]] — 協同組織金融機関 (member-owned by 254 shinkin), not a 特殊法人. Total assets ~¥48tn (2025-03末 disclosure). Acts as system liquidity pool, system institutional-investor vehicle, BoJ counterparty for the shinkin system, and operator of the Shinkin Cash Service (SCS) ATM network.
 - **Member type.** Members must reside, work, or have a business in the shinkin's statutory 営業地区. Local SME and household-finance focus.
@@ -97,7 +97,7 @@ This entry should be read together with the licence-tier matrix [[banking/japan-
 
 ## 信用組合 — Shinkumi system ([[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]])
 
-- **Statute.** 中小企業等協同組合法 (Act No. 181 of 1949) plus 協同組合による金融事業に関する法律 (Act No. 183 of 1949). The cooperative-credit-business dual-statute structure is distinct from the shinkin single-statute structure.
+- **Statute.** Small and Medium-Sized Enterprise Cooperatives Act (Act No. 181 of 1949) plus Act on Financial Businesses by Cooperatives (Act No. 183 of 1949).
 - **Supervisor.** FSA + 都道府県 (prefectural authorities). Practical inspection is FSA-led for system supervision and prefecture-led for cooperative-charter and member-eligibility aspects. The dual-supervisor split between FSA and prefecture is distinct from shinkin (FSA-only).
 - **Layer count.** 143 licensed shinkumi (FSA 信用組合認可一覧, as of 令和8年2月20日) + 1 [[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] central institution. Down from a much larger historical base through cooperative-to-cooperative mergers.
 - **Central institution.** [[JapanFG/zenshin-kumi|全国信用協同組合連合会 (Zenshinkumiren / 全信組連)]] — 協同組織金融機関 (member-owned by 143 shinkumi), parallel in form to [[JapanFG/shinkin-central|信金中金]] for the shinkumi system.
@@ -176,7 +176,7 @@ The two largest by both central-institution AUM and sector deposits are JA Bank 
 | 信用組合 | Primary inspection (Local Finance Bureau) | 都道府県 (prefectural authority for the cooperative-charter and member-eligibility) | FSA + 都道府県 | Joint supervision split |
 | 労働金庫 | Primary inspection | 厚生労働省 (workplace / labour-union side) | 厚労省 | FSA inspection programme overlaid with MHLW workplace / consumer-protection supervision |
 
-The supervisor-mix row determines which ministry guideline updates flow into each system. A change in FSA's 中小・地域金融機関 supervision guideline affects all five at the banking-supervision layer; a change in 農林水産省 cooperative-policy affects JA / JF but not shinkin / shinkumi / rokin; a change in 厚生労働省 labour-policy can affect rokin specifically.
+The supervisor-mix row determines which ministry guideline updates flow into each system. A change in FSA SME / regional-financial-institution supervision guidance affects all five at the banking-supervision layer; a change in MAFF cooperative policy affects JA / JF but not shinkin / shinkumi / rokin; a change in MHLW labour policy can affect rokin specifically.
 
 ## Holding-company route — why none of the five cooperative systems use one
 
@@ -235,7 +235,7 @@ The federation-only BoJ counterparty pattern is the single most important operat
 - **Forestry cooperatives (JForest / 森林組合).** [[JapanFG/norinchukin|農中]] is also the central institution for the forestry cooperative system (JForest), but JForest does not have a credit-business federation layer of meaningful scale comparable to JA / JF. JForest is a 4th cooperative leg of [[JapanFG/norinchukin|農中]]'s 系統 mandate, not a 5th cooperative-finance lane on this matrix.
 - **Industry bodies vs central institutions.** Each system has both a member-banking-central institution (banking / treasury / investment / clearing) AND an industry body (representation / policy / training). For shinkin these are [[JapanFG/shinkin-central|信金中金]] vs [[JapanFG/zenshin-kyo|全信協]]. For shinkumi these are [[JapanFG/zenshin-kumi|全信組連]] vs 全信中協. For rokin these are [[JapanFG/rokin-renraku|労金連]] vs 全国労働金庫協会. Do not confuse the two.
 - **Local JA / Shinnoren / Shingyoren counts move over time.** The 497 / 31 / 71 / 10 layer counts cited above reflect 2025-04 [[JapanFG/norinchukin|農中]] disclosure; long-term consolidation continues to compress these numbers.
-- **AUM figures.** The system-aggregate AUM and 資金量 numbers in this matrix are public-domain summary anchors; for precise filings, consult the institution-specific disclosure pages and the 農中 / 信金中金 / 労金連 ディスクロージャー誌.
+- **AUM figures.** The system-aggregate AUM and deposit-volume numbers in this matrix are public-domain summary anchors; for precise filings, consult the institution-specific disclosure pages and the Norinchukin / Shinkin Central Bank / Rokinren disclosure reports.
 
 ## Related
 
@@ -267,19 +267,19 @@ The federation-only BoJ counterparty pattern is the single most important operat
 - FSA: 信用金庫免許一覧 (shinkin license registry).
 - FSA: 信用組合認可一覧 (credit cooperative authorization registry).
 - FSA: 労働金庫免許一覧 (rokin license registry).
-- FSA: 中小・地域金融機関向けの総合的な監督指針, Part V on 協同組織金融機関.
-- 信用金庫法 / 中小企業等協同組合法 / 協同組合による金融事業に関する法律 / 労働金庫法 / 農業協同組合法 / 水産業協同組合法 / 農林中央金庫法 (Japanese Law Translation portal).
-- 全国信用金庫協会: 信用金庫の制度.
-- [[JapanFG/norinchukin|農林中央金庫]] 公式: 農林中央金庫の特徴 (JA Bank / JF Marine Bank layer counts as of 2025-04).
-- JA Bank: JAバンクのしくみ / JAバンクシステム.
-- JF Marine Bank: 基本方針 / システム概要.
-- [[JapanFG/shinkin-central|信金中央金庫]] ディスクロージャー誌.
-- [[JapanFG/rokin-renraku|労働金庫連合会]] 公式プロフィール (2025-03 disclosure).
+- FSA: comprehensive supervision guideline for SME / regional financial institutions, Part V on cooperative financial institutions.
+- Shinkin Bank Act / Small and Medium-Sized Enterprise Cooperatives Act / Act on Financial Businesses by Cooperatives / Labour Bank Act / Agricultural Cooperatives Act / Fisheries Cooperatives Act / Norinchukin Bank Act (Japanese Law Translation portal).
+- National Association of Shinkin Banks: shinkin-bank system.
+- [[JapanFG/norinchukin|Norinchukin Bank]] official materials: Norinchukin features and JA Bank / JF Marine Bank layer counts as of 2025-04.
+- JA Bank: JA Bank structure and JA Bank system.
+- JF Marine Bank: basic policy and system overview.
+- [[JapanFG/shinkin-central|Shinkin Central Bank]] disclosure report.
+- [[JapanFG/rokin-renraku|Rokinren]] official profile (2025-03 disclosure).
 - JA Group Factbook (org.ja-group.jp).
 - DICJ: Deposit Insurance Corporation of Japan public site.
 - 農水産業協同組合貯金保険機構 (parallel cooperative-finance insurance regime).
-- 農林中央金庫 決算のお知らせ (総資産 ~¥83兆, FY2024): https://www.nochubank.or.jp/ir/results/
-- JAバンク 貯貸金動向 (JA 貯金残高 ~¥107兆, 2025-03末): https://www.jabank.org/about/jyokyo/
-- 信金中金 地域・中小企業研究所 全国信用金庫主要勘定状況 (預金残高 ¥161.1兆, 2024-03末; 信金中金 総資産 ~¥48兆, 2025-03): https://www.scbri.jp/reports/.assets/finance_20240502.pdf
+- Norinchukin Bank financial results notice (total assets ~83tn yen, FY2024): https://www.nochubank.or.jp/ir/results/
+- JA Bank deposit / loan trends (JA deposit balance ~107tn yen, 2025-03-end): https://www.jabank.org/about/jyokyo/
+- Shinkin Central Bank Research Institute, national shinkin principal-account status (deposit balance 161.1tn yen, 2024-03-end; Shinkin Central Bank total assets ~48tn yen, 2025-03): https://www.scbri.jp/reports/.assets/finance_20240502.pdf
 - 全国信用組合中央協会 信用組合業界概況 (預金積金 ¥23.9兆, 2025-03末): https://www.shinyokumiai.or.jp/credit_cooperative/outline.html
-- 全国労働金庫協会 数字で知るろうきん / 2024年度決算概況 (預金 ¥23.0兆, FY2024): https://all.rokin.or.jp/about/accounts.html
+- National Association of Labour Banks, rokin figures / FY2024 financial summary (deposits 23.0tn yen, FY2024): https://all.rokin.or.jp/about/accounts.html

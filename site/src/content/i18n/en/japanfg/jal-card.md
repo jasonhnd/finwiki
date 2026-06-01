@@ -11,45 +11,45 @@ translated_at: 2026-05-31T23:59:49.370Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jr-east-financial|株式会社JR東日本ファイナンシャル & View Card]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jr-east-financial|JR East Financial & View Card]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
 
 ## TL;DR
 
-JAL Card Co., Ltd. (trade name: JAL Card Co., Ltd.) is a **business and consumer card company that issues and operates mileage-earning credit cards for Japan Airlines (JAL)**. Founded in 1984年10月, it is headquartered in Higashi-Shinagawa, Shinagawa-ku, Tokyo. It is a **JAL 100% subsidiary** with capital of 3 億 6,000 万円. Its issued cards cover all 5  international brands, VISA / Mastercard / JCB / American Express / Diners Club, and it is one of the largest "miler-focused" affinity-card issuers working with partner card companies such as [[JapanFG/jcb|JCB]], [[JapanFG/smbc-card|三井住友カード]], and [[JapanFG/mufg-nicos|三菱UFJニコス]]. Together with ANA Card, it forms a **core layer of Japan's airline and mileage economy**; competitors include transport and retail affinity cards such as [[JapanFG/jr-east-financial|View Card]], [[JapanFG/credit-saison|セゾン]], and [[JapanFG/epos-card|エポスカード]].
+JAL Card Co., Ltd. (trade name: JAL Card Co., Ltd.) is a **business and consumer card company that issues and operates mileage-earning credit cards for Japan Airlines (JAL)**. Founded in October 1984, it is headquartered in Higashi-Shinagawa, Shinagawa-ku, Tokyo. It is a **JAL 100% subsidiary** with capital of 360 million yen. Its issued cards cover all five international brands, VISA / Mastercard / JCB / American Express / Diners Club, and it is one of the largest "miler-focused" affinity-card issuers working with partner card companies such as [[JapanFG/jcb|JCB]], [[JapanFG/smbc-card|SMBC Card]], and [[JapanFG/mufg-nicos|Mitsubishi UFJ NICOS]]. Together with ANA Card, it forms a **core layer of Japan's airline and mileage economy**; competitors include transport and retail affinity cards such as [[JapanFG/jr-east-financial|View Card]], [[JapanFG/credit-saison|Credit Saison]], and [[JapanFG/epos-card|Epos Card]].
 
 ## 1. Entity and Shareholders
 
-- **Trade name**: JAL Card Co., Ltd. (English: JAL Card Co., Ltd. / registered legal name: 株式会社ジャルカード)
-- **Established**: 1984年10月30日
+- **Trade name**: JAL Card Co., Ltd. (English: JAL Card Co., Ltd. / registered legal name: JAL Card Co., Ltd.)
+- **Established**: 1984-10-30
 - **Head office**: Nomura Real Estate Tennozu Building, Higashi-Shinagawa 2-4-11 , Shinagawa-ku, Tokyo 140-0002 
-- **Capital**: 3 億 6,000 万円
+- **Capital**: 360 million yen
 - **Corporate number**: 2010701013124
 - **Parent company**: Japan Airlines Co., Ltd. (JAL, TSE Prime 9201), a consolidated subsidiary with 100% ownership
 - **Representatives**: President and representative director, in a joint structure: Tomohiro Nishihata and Osamu Takakura
-- **Employees**: 271 名 as of 2024 年
+- **Employees**: 271 as of 2024
 
 ## 2. Licenses and Registrations
 
 - **Installment Sales Act**: Registered with METI as a comprehensive credit purchase intermediary / individual credit purchase intermediary
 - **Credit-card-number handling contract conclusion business operator**: METI registration for issuer / entrusted operations
-- **Industry bodies**: Member of [[JapanFG/jcb|日本クレジット協会]] (JCA) and Japan Credit Card Association (JCCA)
+- **Industry bodies**: Member of [[JapanFG/jcb|Japan Consumer Credit Association]] (JCA) and Japan Credit Card Association (JCCA)
 - **No separate money-lending registration**: Cash-advance functions are legally handled by partner card companies such as JCB, SMBC Card, and MUFG NICOS
 - **Cooperative operators**: Partners with all 5  international brands: VISA, Mastercard, JCB, American Express, and Diners Club
 
 ## 3. Product Line
 
-- **JAL Card regular card** (annual fee 2,200 円) - basic tier
-- **JAL Card CLUB-A** (annual fee 11,000 円) - bonus miles plus premium-member benefits
-- **JAL Card CLUB-A Gold** (annual fee 17,600 円) - gold tier
-- **JAL Card Platinum** (annual fee 34,100 円) - high-end American Express partnership tier
+- **JAL Card regular card** (annual fee 2,200 yen) - basic tier
+- **JAL Card CLUB-A** (annual fee 11,000 yen) - bonus miles plus premium-member benefits
+- **JAL Card CLUB-A Gold** (annual fee 17,600 yen) - gold tier
+- **JAL Card Platinum** (annual fee 34,100 yen) - high-end American Express partnership tier
 - **JAL American Express Card CLUB-A Gold** - Amex partnership
 - **JAL JCB Card Navi** - student-only
-- **JMB JAL Card Suica** - integrated JAL miles + JR East Suica card, an important transport partnership card with [[JapanFG/jr-east-financial|JR東日本ファイナンシャル]] / [[JapanFG/seven-bank|Seven Bank]] and others
+- **JMB JAL Card Suica** - integrated JAL miles + JR East Suica card, an important transport partnership card with [[JapanFG/jr-east-financial|JR East Financial]] / [[JapanFG/seven-bank|Seven Bank]] and others
 - **JAL Pay** - prepaid app payment service that can be charged with JAL miles, expanding from 2024-
 
 ## 4. Key KPIs (Public-Disclosure Basis)
 
-- **Members**: Approximately 360 万 people as of FY2024 年, based on official IR
+- **Members**: Approximately 3.6 million people as of FY2024, based on official IR
 - **Share of JAL Card members inside JAL Mileage Bank members (MILE members)**: Core layer of higher-value customers
 - **Transaction volume**: Not separately disclosed because it is included in parent JAL consolidated results
 - **Miles issuance / redemption scale**: Core of the "mileage business" in JAL consolidated segment disclosure
@@ -60,7 +60,7 @@ JAL Card Co., Ltd. (trade name: JAL Card Co., Ltd.) is a **business and consumer
 - Compared with ANA Card, it is often viewed as having a stronger JCB weight, while covering the 5  brand network to differentiate its issuing structure
 - Has a strong loyalty customer base of **JAL milers**, with high spending per user
 - The launch of **JAL Pay** points to a strategy of concentrating physical payment, mileage accrual, prepaid functions, and charging functions into a 1  app
-- Competitors: ANA Card (airline), [[JapanFG/jr-east-financial|View Card]] (rail), and [[JapanFG/credit-saison|セゾン]] / [[JapanFG/epos-card|エポス]] (retail)
+- Competitors: ANA Card (airline), [[JapanFG/jr-east-financial|View Card]] (rail), and [[JapanFG/credit-saison|Credit Saison]] / [[JapanFG/epos-card|Epos]] (retail)
 
 ## 6. History
 
@@ -78,7 +78,7 @@ JAL Card Co., Ltd. (trade name: JAL Card Co., Ltd.) is a **business and consumer
 
 ## 7. Related Companies and Counterparties
 
-- **International-brand partner card companies**: [[JapanFG/smbc-card|三井住友カード]] (VISA / Mastercard), [[JapanFG/jcb|JCB]], [[JapanFG/mufg-nicos|三菱UFJニコス]] (VISA / Mastercard), American Express, Diners Club
+- **International-brand partner card companies**: [[JapanFG/smbc-card|SMBC Card]] (VISA / Mastercard), [[JapanFG/jcb|JCB]], [[JapanFG/mufg-nicos|Mitsubishi UFJ NICOS]] (VISA / Mastercard), American Express, Diners Club
 - **Cash-advance function contractors**: The card companies listed above
 - **Parent of the airline mileage business**: Japan Airlines (JAL)
 - **JAL Pay merchant network**: QR / NFC payment merchants, part of an airline-mileage economy alongside [[JapanFG/paypay|PayPay]] / [[JapanFG/merpay|Merpay]]
@@ -91,14 +91,14 @@ JAL Card does not appear separately in parent JAL's segment disclosure, but it h
 
 - [[JapanFG/jr-east-financial|JR East Financial / View Card]] - peer among railway-affinity cards
 - [[JapanFG/credit-saison|Credit Saison]] - major retail card issuer
-- [[JapanFG/smbc-card|三井住友カード]] - VISA / Mastercard partner issuer
+- [[JapanFG/smbc-card|SMBC Card]] - VISA / Mastercard partner issuer
 - [[JapanFG/jcb|JCB]] - JCB partner issuer
-- [[JapanFG/mufg-nicos|三菱UFJニコス]] - VISA / Mastercard partner issuer
-- [[JapanFG/epos-card|エポスカード]] - retail comparison
-- [[JapanFG/seven-card-service|セブン・カードサービス]] - retail comparison
-- [[payments/credit-purchase-card-operators-japan-index|JP 信用購入あっせん業者 index]]
-- [[payments/cashless-jp-landscape|JP キャッシュレス景観]]
-- [[payments/card-acquiring-japan-stack|カードアクワイアリングスタック]]
+- [[JapanFG/mufg-nicos|Mitsubishi UFJ NICOS]] - VISA / Mastercard partner issuer
+- [[JapanFG/epos-card|Epos Card]] - retail comparison
+- [[JapanFG/seven-card-service|Seven Card Service]] - retail comparison
+- [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase intermediary index]]
+- [[payments/cashless-jp-landscape|Japan cashless payments landscape]]
+- [[payments/card-acquiring-japan-stack|Card acquiring stack]]
 
 ## Sources
 
@@ -111,4 +111,4 @@ JAL Card does not appear separately in parent JAL's segment disclosure, but it h
 ---
 
 > [!info] Validation Status
-> confidence: **likely** (aligned with public company overview, history, G-Biz Info corporate-number information, and parent JAL consolidated-subsidiary disclosure). Annual fees and member count are official figures as of FY2024 年. Annual financial statements are included in parent JAL consolidated results, so standalone P/L disclosure is limited.
+> confidence: **likely** (aligned with public company overview, history, G-Biz Info corporate-number information, and parent JAL consolidated-subsidiary disclosure). Annual fees and member count are official figures as of FY2024. Annual financial statements are included in parent JAL consolidated results, so standalone P/L disclosure is limited.

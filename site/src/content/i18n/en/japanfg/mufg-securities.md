@@ -11,11 +11,11 @@ translated_at: 2026-05-31T23:59:49.415Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|MUFG (8306、親会社)]], [[JapanFG/smbc-nikko|SMBC 日興証券]] / [[JapanFG/mizuho-securities|みずほ証券]] for peer / contrast context among megabank-affiliated securities firms, [[JapanFG/nomura-hd|野村 HD]] / [[JapanFG/daiwa-sg|大和証券]] for independent rival context, and [[JapanFG/fsa|金融庁]] for the regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/mufg|MUFG (8306, parent company)]], [[JapanFG/smbc-nikko|SMBC Nikko Securities]] / [[JapanFG/mizuho-securities|Mizuho Securities]] for peer / contrast context among megabank-affiliated securities firms, [[JapanFG/nomura-hd|Nomura HD]] / [[JapanFG/daiwa-sg|Daiwa Securities]] for independent rival context, and [[JapanFG/fsa|Financial Services Agency]] for the regulatory boundary.
 
 ## TL;DR
 
-**An intermediate holding company that oversees the securities and investment-banking operations of [[JapanFG/mufg|MUFG（三菱 UFJ フィナンシャル・グループ 8306）]]**. Its biggest differentiator from domestic peers is that it uses a **JV (joint venture) structure** with Morgan Stanley. The two-layer arrangement is **domestic JV: [[JapanFG/mufg-mums|三菱 UFJ モルガン・スタンレー証券（MUMSS）]]** (MUFG 60% / Morgan Stanley 40%) plus **Morgan Stanley MUFG Securities (MSMS)** (Morgan Stanley 51% / MUFG 49%). Overseas local entities, **MUFG Securities Americas / MUFG Securities EMEA / MUFG Securities (Asia)**, are held directly under the group. The origin of the JV structure was **MUFG's 90 億-dollar investment in Morgan Stanley immediately after the 2008-09  Lehman shock**, which became rescue capital for Morgan Stanley. It is one of Japan's largest megabank-affiliated securities groups.
+**An intermediate holding company that oversees the securities and investment-banking operations of [[JapanFG/mufg|MUFG (Mitsubishi UFJ Financial Group, 8306)]]**. Its biggest differentiator from domestic peers is that it uses a **JV (joint venture) structure** with Morgan Stanley. The two-layer arrangement is **domestic JV: [[JapanFG/mufg-mums|Mitsubishi UFJ Morgan Stanley Securities (MUMSS)]]** (MUFG 60% / Morgan Stanley 40%) plus **Morgan Stanley MUFG Securities (MSMS)** (Morgan Stanley 51% / MUFG 49%). Overseas local entities, **MUFG Securities Americas / MUFG Securities EMEA / MUFG Securities (Asia)**, are held directly under the group. The origin of the JV structure was **MUFG's $9 billion investment in Morgan Stanley immediately after the 2008-09  Lehman shock**, which became rescue capital for Morgan Stanley. It is one of Japan's largest megabank-affiliated securities groups.
 
 ## 1. Legal structure
 
@@ -24,16 +24,16 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **Established**: **2010-04-01**, for integrated management of securities subsidiaries and affiliates  
 **Head office**: Marunouchi, Chiyoda-ku, Tokyo  
 **Business type**: Intermediate holding company, unlisted, 100% subsidiary of MUFG  
-**Major shareholder**: **[[JapanFG/mufg|MUFG（三菱 UFJ フィナンシャル・グループ）100%]]**  
-**Supervisor**: [[JapanFG/fsa|金融庁]], securities business
+**Major shareholder**: **[[JapanFG/mufg|MUFG (Mitsubishi UFJ Financial Group) 100%]]**
+**Supervisor**: [[JapanFG/fsa|Financial Services Agency]], securities business
 
 ### Subsidiary structure
 
 ```text
-[[JapanFG/mufg|MUFG (8306、持株会社)]]
+[[JapanFG/mufg|MUFG (8306, holding company)]]
   `-- MUFG Securities Holdings (intermediate HD, 100%)
       |-- Domestic JV
-      |   |-- [[JapanFG/mufg-mums|三菱 UFJ モルガン・スタンレー証券 (MUMSS)]]
+      |   |-- [[JapanFG/mufg-mums|Mitsubishi UFJ Morgan Stanley Securities (MUMSS)]]
       |   |   (MUFG 60% / Morgan Stanley 40%)
       |   |   `-- Domestic retail + wholesale + IB
       |   `-- Morgan Stanley MUFG Securities (MSMS)
@@ -53,8 +53,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2002-09  | Kokusai Securities + Tokyo-Mitsubishi Personal Securities -> Mitsubishi Securities. |
 | 2005-10  | MUFG launched through the integration of Tokyo-Mitsubishi and UFJ. |
 | 2007-09  | Mitsubishi UFJ Securities, formerly Mitsubishi Securities, integrated with UFJ Tsubasa Securities. |
-| **2008-09** | **After the Lehman shock, MUFG invested 90 億 dollars in Morgan Stanley**, combining rescue support with a strategic alliance. |
-| **2010-05** | **Mitsubishi UFJ Securities + Morgan Stanley's Japan base -> [[JapanFG/mufg-mums|MUMSS]] + MSMS 2 社-company structure**, creating the JV form. |
+| **2008-09** | **After the Lehman shock, MUFG invested $9 billion in Morgan Stanley**, combining rescue support with a strategic alliance. |
+| **2010-05** | **Mitsubishi UFJ Securities + Morgan Stanley's Japan base -> [[JapanFG/mufg-mums|MUMSS]] + MSMS two-company structure**, creating the JV form. |
 | **2010-04** | **MUFG Securities Holdings launched**, supervising the securities subsidiaries. |
 | 2011  | Securities operations of MUFG Union Bank in the U.S. reorganized. |
 | 2013  | Overseas local-entity brand unified as MUFG Securities. |
@@ -62,7 +62,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 | 2022-12  | [[JapanFG/mufg-mums|MUMSS]] business improvement order related to information leakage issues. |
 | 2023 onward | Sustainability finance / GX finance strengthened. |
 
-### Why split it into 2 社 companies
+### Why split it into two companies
 
 - **MUMSS (domestic JV)**: covers Japanese domestic retail customers and domestic wholesale securities business.
   - MUFG leads with 60% ownership, keeping the Japanese customer base under the MUFG brand.
@@ -72,7 +72,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### Strategic relationship with Morgan Stanley
 
-- In 2008-09 , MUFG's 90 億-dollar investment came the week after Lehman failed and became an emblematic transaction during the global financial crisis.
+- In 2008-09 , MUFG's $9 billion investment came the week after Lehman failed and became an emblematic transaction during the global financial crisis.
 - The investment shares moved from preferred stock to common-stock conversion; MUFG currently holds **more than 20%** of Morgan Stanley shares.
 - **MUFG directors are dispatched to Morgan Stanley's board**, giving strategic influence.
 - The two groups collaborate in global M&A mandates and shareholder-oriented IPO mandates.
@@ -97,7 +97,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 |---|---|
 | **Domestic retail** | [[JapanFG/mufg-mums|MUMSS]], the former Mitsubishi UFJ Securities. |
 | **Domestic wholesale** | [[JapanFG/mufg-mums|MUMSS]]. |
-| **Domestic IB** (M&A / ECM / DCM) | Collaboration between [[JapanFG/mufg-mums|MUMSS]] and [[JapanFG/mufg-bank|MUFG 銀行]]. |
+| **Domestic IB** (M&A / ECM / DCM) | Collaboration between [[JapanFG/mufg-mums|MUMSS]] and [[JapanFG/mufg-bank|MUFG Bank]]. |
 | **Global institutional-investor sales and trading** | MSMS. |
 | **U.S. market business** | MUFG Securities Americas. |
 | **European market business** | MUFG Securities EMEA. |
@@ -106,7 +106,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### vs domestic rivals
 
-| Item | MUFG Securities HD | [[JapanFG/smbc-nikko|SMBC 日興]] | [[JapanFG/mizuho-securities|みずほ証券]] | [[JapanFG/nomura-hd|野村]] |
+| Item | MUFG Securities HD | [[JapanFG/smbc-nikko|SMBC Nikko]] | [[JapanFG/mizuho-securities|Mizuho Securities]] | [[JapanFG/nomura-hd|Nomura]] |
 |---|---|---|---|---|
 | Parent company | [[JapanFG/mufg|MUFG]] | [[JapanFG/smfg|SMFG]] | [[JapanFG/mizuho-fg|MHFG]] | Independent, one of the 4  major securities groups. |
 | Overseas strategy | **Morgan Stanley JV + own overseas local entities** | Jefferies alliance, SMFG-led U.S. / Europe local entities | Own U.S. / Europe / Asia development |
@@ -122,9 +122,9 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Related
 
-- [[JapanFG/mufg|MUFG (8306)]] · [[JapanFG/mufg-bank|MUFG 銀行]] · [[JapanFG/mufg-mums|MUMSS]]
-- [[JapanFG/smbc-nikko|SMBC 日興証券]] · [[JapanFG/mizuho-securities|みずほ証券]] · [[JapanFG/nomura-hd|野村 HD]] · [[JapanFG/daiwa-sg|大和証券グループ本社]]
-- [[JapanFG/fsa|金融庁]] · [[JapanFG/japan-exchange-group|日本取引所グループ]] · [[JapanFG/jsda|日本証券業協会]]
+- [[JapanFG/mufg|MUFG (8306)]] · [[JapanFG/mufg-bank|MUFG Bank]] · [[JapanFG/mufg-mums|MUMSS]]
+- [[JapanFG/smbc-nikko|SMBC Nikko Securities]] · [[JapanFG/mizuho-securities|Mizuho Securities]] · [[JapanFG/nomura-hd|Nomura HD]] · [[JapanFG/daiwa-sg|Daiwa Securities Group Inc.]]
+- [[JapanFG/fsa|Financial Services Agency]] · [[JapanFG/japan-exchange-group|Japan Exchange Group]] · [[JapanFG/jsda|Japan Securities Dealers Association]]
 - [[JapanFG/INDEX|JapanFG index]]
 
 ## Sources

@@ -43,7 +43,7 @@
       "https://tokenterminal.com/"
     ]
   },
-  "summary": "This entry sits under systems index. Read it against systems/cross-chain-four-poles-overview as the parent overview and クロスチェーン選定意思決定ツリー for matched protocol selection. Pair with each pole's standalone entry — systems/cctp-v2-overview · systems/chainlink-ccip-institutional-messaging · systems/layerz",
+  "summary": "このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl",
   "headings": [
     "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
     "Wiki route",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6895,
-    "word_like_tokens": 1120,
+    "nonspace_chars": 6735,
+    "word_like_tokens": 1082,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-01"
   }
 }

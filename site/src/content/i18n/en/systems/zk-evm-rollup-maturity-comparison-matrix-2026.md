@@ -21,7 +21,7 @@ translated_at: 2026-06-01T04:15:40.157Z
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] for the L1 blob capacity context that drives rollup gas cost, and [[systems/pectra-upgrade-overview|Pectra upgrade overview]] for the broader Ethereum upgrade landscape. Pair with [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] for the meta-strategy that frames "L2 carrying 99% of users". For proving system depth, see [[systems/multi-proof-aggregation-fault-prover|multi-proof aggregation fault prover]] and [[systems/formal-spec-implementation-codesign|formal spec implementation codesign]]. For long-term cryptographic risk, see [[systems/post-quantum-blockchain-day1-integration|post-quantum blockchain day-1 integration]]. For restaking-backed DA(EigenDA serves several rollups in this matrix), see [[systems/eigenlayer-overview|EigenLayer overview]]. Cross-link to [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] when reasoning about L2-to-L2 messaging.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob expansion and L2 economic linkage]] for the L1 blob capacity context that drives rollup gas cost, and [[systems/pectra-upgrade-overview|Pectra upgrade overview]] for the broader Ethereum upgrade landscape. Pair with [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] for the meta-strategy that frames "L2 carrying 99% of users". For proving system depth, see [[systems/multi-proof-aggregation-fault-prover|multi-proof aggregation fault prover]] and [[systems/formal-spec-implementation-codesign|formal spec implementation codesign]]. For long-term cryptographic risk, see [[systems/post-quantum-blockchain-day1-integration|post-quantum blockchain day-1 integration]]. For restaking-backed DA(EigenDA serves several rollups in this matrix), see [[systems/eigenlayer-overview|EigenLayer overview]]. Cross-link to [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] when reasoning about L2-to-L2 messaging.
 
 ## Why this matrix matters
 
@@ -29,7 +29,7 @@ After ZK-EVM rollups concentrated their mainnet launches in 2023-2025 年, they 
 
 Institutional customers(see J.P. Morgan Kinexys / DTCC / SWIFT pilot in [[systems/chainlink-ccip-institutional-messaging|CCIP institutional]]) likewise need to decide "which L2  settles tokenized assets." What institutions care about is not TPS, but **prover/sequencer decentralization**(currently every ZK-EVM sequencer is centralized, and most provers are centralized), **upgrade governance**(smart contracts can be upgraded inside the challenge window = actual control of funds), and **DA layer risk**(when validium is used, data availability depends on an external committee).
 
-This matrix compares 9  publicly live ZK-EVM / ZK-rollups, expands across 9  axes, and uses a 2026-Q2  data snapshot. Optimistic rollups(Arbitrum / Optimism / Base / Blast) are not included in this matrix; see the separate optimistic matrix(TBD).
+This matrix compares 9  publicly live ZK-EVM / ZK-rollups, expands across 9  axes, and uses a 2026-Q2  data snapshot. Optimistic rollups(Arbitrum / Optimism / Base / Blast) are outside this page's scope and should be assessed in a dedicated optimistic-rollup matrix when that public comparison is prepared.
 
 ## Per-rollup sections
 
@@ -254,7 +254,7 @@ This matrix compares 9  publicly live ZK-EVM / ZK-rollups, expands across 9  axe
 
 **DA layer and EigenLayer linkage**:EigenDA(see [[systems/eigenlayer-overview|EigenLayer overview]]) provides alt-DA to multiple ZK Stack hyperchains · StarkNet Volition · Miden / Kakarot, etc. But whether ZK-EVMs should use alt-DA(abandoning L1  security) remains debated — Scroll / Linea / Taiko camp keeps L1 DA; Polygon / StarkNet / Miden camp offers options. Institutional customers(SWIFT / DTCC · see [[systems/chainlink-ccip-institutional-messaging]]) clearly require L1 DA.
 
-**Pectra EIP-7691  impact**(see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]]):blob target 3→6  + max 6→9  further reduces ZK-EVM submit cost by -50%, directly benefiting all rollups that use L1 blobs. 2026-Q4  Fusaka PeerDAS adds another 10× capacity.
+**Pectra EIP-7691  impact**(see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob expansion and L2 economic linkage]]):blob target 3→6  + max 6→9  further reduces ZK-EVM submit cost by -50%, directly benefiting all rollups that use L1 blobs. 2026-Q4  Fusaka PeerDAS adds another 10× capacity.
 
 **Formal verification progress**:ZK-EVM is a natural arena for formal spec implementation co-design(see [[systems/formal-spec-implementation-codesign|formal spec implementation codesign]]) — consistency between Solidity / EVM spec + ZK circuit spec is the core security point. Linea and the Consensys Diligence team publish formal verification progress. Scroll has long-term academic collaboration with PSE. zkSync Boojum prover was independently audited by Galois.
 
@@ -269,7 +269,7 @@ This matrix compares 9  publicly live ZK-EVM / ZK-rollups, expands across 9  axe
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|systems index]]
-- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]]
+- [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob expansion and L2 economic linkage]]
 - [[systems/pectra-upgrade-overview|Pectra upgrade overview]]
 - [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]]
 - [[systems/multi-proof-aggregation-fault-prover|multi-proof aggregation fault prover]]

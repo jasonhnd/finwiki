@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.956Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against [[JapanFG/mitsubishi-corp|三菱商事]] (5 大首位 / 資源寄り対照) and [[JapanFG/marubeni-corp|丸紅]] (繊維・穀物商社としての対照) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (内向け CMS) and especially **[[JapanFG/tokyo-century|東京センチュリー]]** (伊藤忠の戦略的持分 **約 25% 級** = みずほ FG と並ぶ 2 大株主、東証 PRIME **8439**)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]]，用于记录综合商社母公司与金融服务子公司、战略持股之间的关联。
 
 ## 1 。公司简介
 

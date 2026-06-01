@@ -4,40 +4,40 @@ source_hash: a3fbb65a371d0f91
 lang: zh
 status: machine
 fidelity: ok
-title: "HS Insurance / エイチ・エス損害保险"
+title: "HS Insurance / H.S. Non-Life Insurance"
 translated_at: 2026-05-31T15:29:03.892Z
 ---
 
-# HS Insurance / エイチ・エス損害保险
+# HS Insurance / H.S. Non-Life Insurance
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[JapanFG/hs-insurance]]
+Wiki 路径：[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[JapanFG/hs-insurance]]
 
-## Overview
+## 概览
 
-HS Insurance is a licensed Japanese non-life insurer with a direct product surface including travel and pet-insurance categories. In FinWiki it is a smaller direct / product-specialty insurer route, comparable with [[JapanFG/ji-accident-fire-insurance]] for travel and [[JapanFG/pet-and-family-insurance]] for pet insurance context.
+HS Insurance 是日本持牌损害保险公司，公开产品面覆盖旅行保险和宠物保险等类别。在 FinWiki 中，它属于规模较小但产品边界清晰的直销 / 产品特化型保险公司入口，可与旅行保险侧的 [[JapanFG/ji-accident-fire-insurance]]、宠物保险侧的 [[JapanFG/pet-and-family-insurance]] 对照阅读。
 
-## Entity Boundary
+## 实体边界
 
-This page covers エイチ・エス損害保险株式会社. It should not be merged into travel-agency or retail-platform pages unless public materials explicitly support ownership or distribution claims.
+本页覆盖 H.S. Non-Life Insurance Co., Ltd.。除非公开资料明确支持所有权或分销关系判断，否则不应将其并入旅行社或零售平台页面。
 
-## Business Role Map
+## 业务角色图
 
-| Route | Reading |
+| 路径 | 解读 |
 |---|---|
-| Travel insurance | Consumer travel-risk product surface. |
-| Pet insurance | Product adjacency to [[JapanFG/anicom-insurance]] and [[JapanFG/pet-and-family-insurance]]. |
-| Smaller direct insurer | Distinct from [[JapanFG/sony-insurance]] and other scale direct-auto insurers. |
-| Insurance license | Row in the FSA non-life insurer list and [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]. |
+| 旅行保险 | 面向个人旅行风险的产品线。 |
+| 宠物保险 | 与 [[JapanFG/anicom-insurance]]、[[JapanFG/pet-and-family-insurance]] 构成产品邻接。 |
+| 小型直销保险公司 | 与 [[JapanFG/sony-insurance]] 等规模化直销车险公司区分。 |
+| 损害保险牌照 | 对应 FSA 损害保险公司名单及 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]。 |
 
-## Public Context
+## 公开语境
 
-HS Insurance helps fill the product-specialty long tail in Japan's non-life map. It is useful when comparing direct insurers by product mix rather than by auto-insurance scale.
+HS Insurance 用于补足日本损害保险地图中的产品特化长尾。比较直销保险公司时，本页强调产品组合，而不是仅以汽车保险规模排序。
 
-## Research Checklist
+## 研究清单
 
-1. Track product mix changes in official pages.
-2. Avoid inferring group strategy without public parent-company disclosure.
-3. Compare pet and travel-insurance wording with JI and Anicom pages.
+1. 持续跟踪官方页面披露的产品组合变化。
+2. 未有公开母公司披露时，不推断集团战略。
+3. 将宠物保险和旅行保险表述与 JI、Anicom 等页面交叉核对。
 
 ## 相关
 
@@ -49,6 +49,6 @@ HS Insurance helps fill the product-specialty long tail in Japan's non-life map.
 
 ## 来源
 
-- FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx
-- HS Insurance official site: https://www.hs-sonpo.co.jp/
-- HS Insurance company profile: https://www.hs-sonpo.co.jp/company/profile/
+- FSA 损害保险公司名单：https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx
+- HS Insurance 官方网站：https://www.hs-sonpo.co.jp/
+- HS Insurance 公司概要：https://www.hs-sonpo.co.jp/company/profile/

@@ -13,7 +13,7 @@ translated_at: 2026-05-31T03:19:56.483Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/solana-ecosystem-dex-comparison|Solana エコシステム DEX 群比較]] for the Solana peer context, [[exchanges/global-dex-major-five-comparison|global DEX major five comparison]] for the EVM contrast, and [[exchanges/amm-design-evolution|AMM 設計進化系譜]] for the broader system / design boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]] for the Solana peer context, [[exchanges/global-dex-major-five-comparison|global DEX major five comparison]] for the EVM contrast, and [[exchanges/amm-design-evolution|AMM design evolution lineage]] for the broader system / design boundary.
 
 > 2021-02 launch · RAY token · constant product (x*y=k) AMM · legacy Serum integration legacy · now a memecoin liquidity hub
 
@@ -38,7 +38,7 @@ Raydium initially differentiated itself with an "AMM-on-orderbook" design that s
 
 ## 3. Role in the memecoin economy
 
-Raydium exerts its greatest presence in 2024–2026 年 as the **Pump.fun-linked memecoin listing route**.
+Raydium exerts its greatest presence during 2024–2026 as the **Pump.fun-linked memecoin listing route**.
 
 - **Pump.fun bonding curve**: when a new memecoin reaches a market cap of about $69k on the curve, it automatically migrates to a Raydium pool
 - **migration fee**: about 6 SOL (protocol-collected) + Raydium-side listing
@@ -51,7 +51,7 @@ Raydium exerts its greatest presence in 2024–2026 年 as the **Pump.fun-linked
 |---|---|---|---|
 | Design | constant product + CLMM + orderbook hook | concentrated liquidity (Whirlpools) | DLMM (Dynamic Liquidity) |
 | Main use | memecoin + general spot | retail-friendly swap | memecoin + advanced LP |
-| token | RAY | ORCA | MET (TBD) |
+| Token | RAY | ORCA | MET (not publicly specified in the referenced materials) |
 | TVL scale | $1.5–2.5B | $300–500M | $400–800M |
 | Strength | memecoin migration, volume via aggregator | UX, stable LP | LP efficiency, dynamic fee |
 

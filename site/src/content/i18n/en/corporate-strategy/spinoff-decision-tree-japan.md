@@ -4,11 +4,11 @@ source_hash: bde8a5d29ef8abd5
 lang: en
 status: machine
 fidelity: ok
-title: "Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection"
+title: "Spinoff decision tree Japan — stock distribution vs partial spinoff vs company split vs IPO partial sell-down option selection"
 translated_at: 2026-05-30T15:31:43.923Z
 ---
 
-# Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection
+# Spinoff decision tree Japan — stock distribution vs partial spinoff vs company split vs IPO partial sell-down option selection
 
 ## Wiki route
 
@@ -19,7 +19,7 @@ This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and 
 A Japanese parent company seeking to separate or partially divest a subsidiary faces a layered option set with very different tax, control, and shareholder-experience profiles. The five live paths in current Japanese practice:
 
 1. **株式分配 — full spinoff (kabushiki bunpai, 100% distribution, 0% retained)** — tax-deferred under qualified-spinoff regime; parent walks away entirely
-2. **パーシャルスピンオフ — partial spinoff (株式分配 with up to ~20% parent retention)** — tax-deferred under [[corporate-strategy/partial-spinoff-tax-deferral|2023 regime]]; parent retains brand/cooperation
+2. **Partial spinoff (stock distribution with up to ~20% parent retention)** — tax-deferred under [[corporate-strategy/partial-spinoff-tax-deferral|2023 regime]]; parent retains brand/cooperation
 3. **IPO partial sell-down** — taxable gain on sold portion; parent retains majority; flexible future sell-down
 4. **TOB take-private then re-IPO** — multi-step path that delays separation while reshaping the entity (see [[business/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB case]])
 5. **株式譲渡 outright cash sale** — full divestiture; taxable gain; clean exit
@@ -44,7 +44,7 @@ START: What is the parent's strategic intent?
 │         - Use: True portfolio separation
 │
 ├── Want to separate but preserve brand / cross-sell / cooperation
-│      → パーシャルスピンオフ (株式分配 + retain <20%)
+│      → Partial spinoff (stock distribution + retain <20%)
 │         - Tax: Deferred under 2023 regime if conditions met
 │         - Control: Minority economic stake; no consolidation
 │         - Use: Strategic separation with continued ties (e.g., Sony FG)
@@ -72,7 +72,7 @@ START: What is the parent's strategic intent?
 |---|---|---|---|---|---|
 | **株式譲渡 (sale)** | Capital gain (taxable) | None | 0% | Yes (proceeds) | 3-6 months |
 | **株式分配 (full spinoff)** | Deferred (qualified) | None (qualified) | 0% | None | 9-18 months |
-| **パーシャルスピンオフ** | Deferred (2023 regime) | None (regime-qualified) | <20% | None directly | 12-24 months |
+| **Partial spinoff** | Deferred (2023 regime) | None (regime-qualified) | <20% | None directly | 12-24 months |
 | **IPO partial sell-down** | Capital gain on sold | None for retained | 50-95% | Yes (IPO proceeds) | 12-24 months |
 | **TOB → re-IPO** | Two-step tax treatment | TOB cash taxable; re-IPO sellers gain | 60-80% (after re-IPO) | Yes (cash via re-IPO) | 2-5 years |
 | **株式交付 (acquisition)** | N/A (acquirer) | Deferred (share portion) | N/A (acquiring) | None | 6-12 months |
@@ -95,7 +95,7 @@ START: What is the parent's strategic intent?
 - Subsidiary is ready for full independence (audit history, governance, scale)
 - Examples: pure conglomerate-discount breakup plays
 
-### Use **パーシャルスピンオフ** when:
+### Use **partial spinoff** when:
 
 - Want valuation clarity but preserve brand cooperation
 - Conglomerate discount real but full exit too disruptive
@@ -160,7 +160,7 @@ START: What is the parent's strategic intent?
 
 | Case | Path chosen | Why this path |
 |---|---|---|
-| [[business/sony-fg-partial-spinoff-case|Sony FG (2025 planned)]] | パーシャルスピンオフ | Wanted brand cooperation; tax-deferral material |
+| [[business/sony-fg-partial-spinoff-case|Sony FG (2025 planned)]] | Partial spinoff | Wanted brand cooperation; tax-deferral material |
 | [[business/softbank-vision-fund-arm-ipo-template|Arm (2023)]] | IPO partial sell-down (~10%) | Wanted mark + collateral, not exit |
 | [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Bank (2023)]] | IPO partial sell-down (~37% sold) | Needed cash for parent recap |
 | [[business/toshiba-tob-squeeze-out-2023-2024-case|Toshiba (2023-2024)]] | TOB take-private | Restructure free of public scrutiny |

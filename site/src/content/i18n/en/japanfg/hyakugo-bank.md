@@ -11,105 +11,104 @@ translated_at: 2026-05-31T15:29:03.914Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|Fukuoka Financial Group]] for peer and contrast context, and against [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
 
 ## TL;DR
 
-三重県地盤の独立系地方銀行。**1878-12-12 第百五国立銀行**として津で創業、社名は旧国立銀行番号「105」由来（読み「ひゃくご」）。**持株会社化していない単独銀行**として東証 PRIME 上場 (8368)、三重県の指定金融機関を担う県内最大手行。県内預金量・貸出量で No.1 のポジションを維持し、[[san-jusan-fg]]（三十三銀行）との県内二強体制を形成。地盤は三重県北部・中部（津・四日市・松阪）で、四日市コンビナート関連融資 + 伊勢神宮観光金融 + 中京経済圏アクセスを 3 本柱とする。^[extracted]
+Hyakugo Bank is an independent regional bank based in Mie Prefecture. It was founded in Tsu on 1878-12-12 as the 105th National Bank, and its name derives from that national-bank number. Listed on the TSE Prime Market under code 8368, it remains a standalone bank rather than a holding-company group and serves as a designated financial institution for Mie Prefecture. It maintains the leading prefectural position in deposits and lending, forming a two-bank structure with [[san-jusan-fg|San Ju San Financial Group]]. Its core base is northern and central Mie, including Tsu, Yokkaichi, and Matsusaka, with three principal business pillars: Yokkaichi petrochemical-complex finance, Ise Shrine tourism finance, and access to the Chukyo economic area. ^[extracted]
 
-## 1. 会社概要
+## 1. Company overview
 
-**正式名**：株式会社百五銀行 ^[extracted]
-**英名**：The Hyakugo Bank, Ltd.
-**証券コード**：東証 PRIME 8368 ^[extracted]
-**創業**：1878-12-12（第百五国立銀行 設立、津）^[extracted]
-**株式会社化**：1898（百五銀行に改組、私立銀行に転換）^[extracted]
-**本店**：三重県津市岩田 21-27 ^[extracted]
-**業態**：単独銀行（持株会社化していない）^[extracted]
+**Legal name**: The Hyakugo Bank, Ltd. ^[extracted]
+**Ticker**: TSE Prime 8368 ^[extracted]
+**Founded**: 1878-12-12 as the 105th National Bank in Tsu ^[extracted]
+**Incorporated / converted**: reorganized as Hyakugo Bank in 1898 and converted into a private bank ^[extracted]
+**Head office**: 21-27 Iwata, Tsu, Mie Prefecture ^[extracted]
+**Business type**: standalone regional bank, without a holding-company structure ^[extracted]
 
-### 主要子会社・関連会社
+### Principal subsidiaries and affiliates
 
-- 百五リース（リース業）
-- 百五カード（クレジット）
-- 百五コンピューターサービス（システム）
-- 百五ビジネスサービス（事務受託）
-- 百五信用保証
-- 百五総合研究所（シンクタンク・地域経済調査）
-- 百五管理サービス（不動産管理）
+- Hyakugo Lease: leasing.
+- Hyakugo Card: credit-card business.
+- Hyakugo Computer Service: systems.
+- Hyakugo Business Service: administrative outsourcing.
+- Hyakugo Credit Guarantee: credit guarantees.
+- Hyakugo Research Institute: think tank and regional economic research.
+- Hyakugo Management Service: real-estate management.
 
-### 沿革（抜粋）^[extracted]
+### Selected history ^[extracted]
 
-| 年月 | 事象 |
+| Date | Event |
 |---|---|
-| **1878-12-12** | **第百五国立銀行**設立（津、国立銀行条例に基づく）|
-| 1898 | 株式会社化、私立銀行に転換 |
-| **1928** | **百五銀行**に改称（現社名へ）|
-| 1949 | 東京証券取引所 上場 |
-| 1990 年代〜2000 年代 | 三重県内支店網拡充・名古屋圏進出強化 |
-| 2010 年代 | 地域 ATM 提携・コンビニ ATM 連携拡大 |
-| 2022 | 東証 PRIME 市場移行（市場区分見直し）|
-| 2024 | 新中期経営計画 始動 |
+| **1878-12-12** | 105th National Bank established in Tsu under the national-bank ordinance |
+| 1898 | Incorporated and converted into a private bank |
+| **1928** | Renamed Hyakugo Bank, the current name |
+| 1949 | Listed on the Tokyo Stock Exchange |
+| 1990s to 2000s | Expanded branch network in Mie and strengthened Nagoya-area presence |
+| 2010s | Expanded regional ATM alliances and convenience-store ATM links |
+| 2022 | Moved to TSE Prime after the market-segment revision |
+| 2024 | New medium-term management plan begins |
 
-## 2. 事業セグメント・マップ
+## 2. Business segment map
 
-| セグメント | 内容 | 特徴 |
+| Segment | Content | Characteristics |
 |---|---|---|
-| 法人融資 | 三重県内中小企業・四日市コンビナート関連 | 県内シェア最大手 |
-| 個人預金 | 三重県内リテール | 県内預金量首位 |
-| 住宅ローン | 三重県内 + 中京圏（名古屋・愛知）| 県内主力商品 |
-| 観光金融 | 伊勢神宮・鳥羽・志摩観光関連旅館・小売 | 観光地金融特化 |
-| 工業金融 | 四日市コンビナート（石油化学・電力）| 重工業向け融資 |
-| 公金 | 三重県・津市 指定金融機関 | 県内公金独占的地位 |
-| 域外展開 | 名古屋・大阪・東京支店 | 中京圏接続が主軸 |
-| 農水産金融 | 伊勢湾・熊野灘の漁業・真珠養殖 | 地場産業金融 |
+| Corporate lending | SMEs in Mie and Yokkaichi industrial-complex-related firms | Largest prefectural share |
+| Retail deposits | Retail customers in Mie Prefecture | Leading prefectural deposit base |
+| Housing loans | Mie plus Chukyo area, including Nagoya and Aichi | Core prefectural product |
+| Tourism finance | Inns, retail, and tourism businesses around Ise Shrine, Toba, and Shima | Tourism-area specialization |
+| Industrial finance | Yokkaichi petrochemical complex, including petrochemicals and power | Heavy-industry lending |
+| Public funds | Designated financial institution for Mie Prefecture and Tsu City | Strong public-funds position in the prefecture |
+| Out-of-area expansion | Nagoya, Osaka, and Tokyo branches | Chukyo connectivity as the main axis |
+| Agriculture and fisheries finance | Ise Bay and Kumanonada fisheries, pearl cultivation, and local industries | Local-industry finance |
 
-### 地盤・競争構造
+### Franchise and competitive structure
 
-- **県内競合**: [[san-jusan-fg]]（三十三銀行）との二強体制。三十三銀行は 2018-04 三重銀行 + 第三銀行の経営統合発足、2021-05 合併完了で、四日市地盤の旧三重銀 + 松阪地盤の旧第三銀を統合した県内 No.2 行 ^[extracted]
+- **Prefectural competitor**: a two-bank structure with [[san-jusan-fg|San Ju San Financial Group]]. San Ju San Bank was formed through the 2018-04 management integration of Mie Bank and Daisan Bank, completed the legal merger in 2021-05, and became the prefecture's No. 2 bank by combining the former Yokkaichi-based Mie Bank and Matsusaka-based Daisan Bank. ^[extracted]
 
-### 産業特性
+### Industrial characteristics
 
-三重県経済の特徴を反映した融資ポートフォリオ：
-- **四日市コンビナート**: 石油化学・電力・石油精製の大規模工業地帯。三菱化学・コスモ石油・中部電力等の関連企業向け取り扱い
-- **伊勢神宮観光**: 伊勢・鳥羽・志摩エリアの旅館・飲食・小売、お伊勢参り観光客向け
-- **農水産**: 伊勢湾の真珠養殖（鳥羽・志摩）、熊野灘漁業、松阪牛、伊勢茶、海苔
-- **物流**: 名古屋港・四日市港経由の中部圏物流、伊勢湾岸自動車道沿線
-- **製造業**: 自動車部品（中京圏サプライヤー）、半導体（東芝メモリ・キオクシア四日市工場関連）
+The loan portfolio reflects the structure of Mie's economy:
+- **Yokkaichi petrochemical complex**: a major petrochemical, power, and refining industrial zone, including related business with Mitsubishi Chemical, Cosmo Oil, Chubu Electric Power, and connected firms.
+- **Ise Shrine tourism**: inns, restaurants, and retailers in the Ise, Toba, and Shima areas, serving shrine-related tourism demand.
+- **Agriculture and fisheries**: Ise Bay pearl cultivation around Toba and Shima, Kumanonada fisheries, Matsusaka beef, Ise tea, and nori.
+- **Logistics**: Chubu-area logistics through Nagoya Port and Yokkaichi Port, including the Isewangan Expressway corridor.
+- **Manufacturing**: auto parts suppliers in the Chukyo area and semiconductor-related activity around Kioxia's Yokkaichi operations.
 
-### 単独経営の戦略
+### Standalone management strategy
 
-- 三重県内独立系として持株会社化や他行との経営統合に踏み切っていない ^[extracted]
-- 一方で三重県内では [[san-jusan-fg]] が 2018 統合・2021 合併と再編進行、隣県では [[mufg]] 旧東海系メガ + 名古屋圏地銀勢が活発に動く ^[extracted]
+- Hyakugo remains an independent Mie-based bank and has not moved into a holding-company conversion or merger with another bank. ^[extracted]
+- In contrast, [[san-jusan-fg]] proceeded with integration in 2018 and merger completion in 2021, while adjacent markets include active competition from [[mufg]]'s former Tokai Bank lineage and Nagoya-area regional banks. ^[extracted]
 
-### 域外戦略
+### Out-of-area strategy
 
-- **名古屋支店**: 三重出身者・三重系企業の中京圏拠点。中京経済圏アクセスの戦略要衝
-- **大阪・東京支店**: 関西・首都圏進出企業向け窓口
+- **Nagoya branch**: strategic access point for Mie-origin individuals and companies operating in the Chukyo area.
+- **Osaka and Tokyo branches**: contact points for companies expanding into Kansai and the Tokyo metropolitan area.
 
-## 4. 監督と政策
+## 4. Supervision and policy
 
-- **主管**: 金融庁（FSA）・東海財務局
-- **地銀分類**: 第一地方銀行（全国地方銀行協会加盟）
-- **直近政策論点**:
-  - 2024〜 日銀政策金利正常化 → 国内預貸金利マージン改善
-  - 2020 年代後半 地銀再編圧力（合併特例法・公的資金活用枠）
-  - 2025〜 中小企業伴走支援・事業承継・M&A 仲介ニーズ拡大
-  - 2025〜 四日市コンビナート脱炭素転換・水素・アンモニア燃料転換融資
-  - 2025〜 観光業 DX（インバウンド回復・キャッシュレス）対応
+- **Supervisors**: Financial Services Agency and Tokai Local Finance Bureau.
+- **Regional-bank classification**: first-tier regional bank and member of the Regional Banks Association of Japan.
+- **Current policy issues**:
+  - 2024 onward: Bank of Japan policy-rate normalization improves domestic deposit-loan margins.
+  - Late 2020s: regional-bank consolidation pressure through merger-special-case law and public-capital frameworks.
+  - 2025 onward: rising needs for SME hands-on support, business succession, and M&A intermediation.
+  - 2025 onward: financing for Yokkaichi industrial-complex decarbonization, hydrogen, and ammonia fuel conversion.
+  - 2025 onward: tourism-sector digital transformation, inbound recovery, and cashless payment adaptation.
 
 ## Related
 
-- [[san-jusan-fg]] — 三重県内 No.2 地銀（県内二強体制の相手）
-- [[mufg]] — 旧東海銀行ベースのメガバンク（名古屋圏・三重圏で併存）
-- [[smfg]] · [[mizuho-fg]] — メガバンク（県内併存）
-- [[hyakujushi-bank]] — 同じ国立銀行番号系の独立単独地銀（114 / 香川）。番号由来命名の類似事例
+- [[san-jusan-fg]] - No. 2 regional-bank group in Mie and the other side of the prefectural two-bank structure.
+- [[mufg]] - megabank with former Tokai Bank roots, coexisting in the Nagoya and Mie areas.
+- [[smfg]] and [[mizuho-fg]] - megabanks present in the prefecture.
+- [[hyakujushi-bank]] - another independent standalone regional bank named after a national-bank number, No. 114 in Kagawa.
 
 ## Sources
 
-- **Wikipedia: 株式会社百五銀行**（https://ja.wikipedia.org/wiki/百五銀行, 2026-05-19 抽出）
-- 百五銀行 公式コーポレートサイト（会社概要・沿革）
-- 全国地方銀行協会 加盟行公開情報
+- Wikipedia: Hyakugo Bank, https://ja.wikipedia.org/wiki/百五銀行, extracted 2026-05-19.
+- Hyakugo Bank official corporate site, company overview and history.
+- Regional Banks Association of Japan public member-bank information.
 
 ---
 
-> [!info] 検証状況
+> [!info] Verification status

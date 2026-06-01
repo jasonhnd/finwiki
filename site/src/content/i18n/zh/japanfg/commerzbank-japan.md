@@ -4,44 +4,44 @@ source_hash: 95ef46e29467396b
 lang: zh
 status: machine
 fidelity: ok
-title: "コメルツ銀行 東京支店"
+title: "德国商业银行东京支店"
 translated_at: 2026-05-31T11:13:44.957Z
 ---
 
-# コメルツ銀行 東京支店
+# 德国商业银行东京支店
 
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[JapanFG/credit-agricole-bank-japan|法国农业信贷银行东京支店]] 对照阅读，并结合 [[banking/INDEX|banking index]] 理解更广的银行系统与监管边界。
 
 ## TL;DR
 
-コメルツ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Germany / Commerzbank AG の在日銀行支店。日本では corporate / institutional clients, foreign trade, FX, transaction banking, and export-oriented Japanese corporate support を中心にした wholesale branch として扱う。
+德国商业银行东京支店是 FSA 外国银行支店列表中的在日银行分支，母行为德国 Commerzbank AG。在日本，它主要是服务企业与机构客户、对外贸易、外汇、交易银行以及日本出口型企业的 wholesale branch。
 
-## 1. License / branch boundary
+## 1. 牌照与支店边界
 
-| Item | Notes |
+| 项目 | 内容 |
 |---|---|
-| FSA listed name | コメルツ銀行 |
+| FSA 登记名称 | 德国商业银行 |
 | Legal / branch name | Commerzbank AG Tokyo Branch |
-| License route | Banking Act foreign bank branch; FSA bank license list |
-| Home jurisdiction | Germany |
-| Parent / group | Commerzbank AG |
-| Japan branch boundary | Banking branch; private-customer account support is outside Tokyo branch scope |
-| Wiki role | Germany-based wholesale / trade-finance branch anchor in Japan |
+| 牌照路径 | 《银行法》下的外国银行支店；载于 FSA 银行牌照列表 |
+| 母国司法辖区 | 德国 |
+| 母公司 / 集团 | Commerzbank AG |
+| 日本支店边界 | 银行支店；私人客户账户支持不属于东京支店主要范围 |
+| Wiki 角色 | 德国系 wholesale / trade-finance branch 在日本的锚点 |
 
-## 2. Operating model
+## 2. 运营模型
 
-Commerzbank states that it opened a Tokyo representative office in 1961 and converted it into a branch in 1977. The Japan page describes the Tokyo branch as a locally established, globally networked platform for Japanese corporate and institutional clients and for Japanese export-oriented corporates worldwide.
+Commerzbank 公开说明，其 1961 年开设东京代表处，并于 1977 年改为支店。日本页面将东京支店描述为服务日本企业、机构客户以及全球日本出口型企业的本地化、全球联网平台。
 
-The current Commerzbank worldwide PDF lists Tokyo Branch at Toranomon Hills Station Tower and marks both corporate and financial-institution desks, which fits the foreign-bank branch pattern: limited retail relevance, but meaningful B2B, trade, FX, and institutional connectivity.
+当前 Commerzbank worldwide PDF 将东京支店列示于 Toranomon Hills Station Tower，并标注企业与金融机构业务桌面。这符合外国银行支店模式：零售相关性有限，但在 B2B、贸易金融、外汇和机构连接方面具有意义。
 
-## 3. Why this page matters
+## 3. 为什么需要单独页面
 
-- Adds the main German P0 foreign-bank branch not covered by [[JapanFG/deutsche-japan]].
-- Distinguishes corporate / trade-finance branch utility from retail banking presence.
-- Provides a peer anchor for European banks in Japan alongside [[JapanFG/credit-agricole-bank-japan]], [[JapanFG/bbva-bank-japan]], and [[JapanFG/intesa-sanpaolo-japan]].
+- 补齐 [[JapanFG/deutsche-japan]] 之外的德国主要 P0 外国银行支店。
+- 区分企业 / 贸易金融支店功能与零售银行存在。
+- 与 [[JapanFG/credit-agricole-bank-japan]]、[[JapanFG/bbva-bank-japan]] 和 [[JapanFG/intesa-sanpaolo-japan]] 一起构成在日欧洲银行同业锚点。
 
 ## Related
 
@@ -54,6 +54,6 @@ The current Commerzbank worldwide PDF lists Tokyo Branch at Toranomon Hills Stat
 
 ## Sources
 
-- FSA: bank license list, foreign bank branches, as of 2026-05-13.
-- Commerzbank Japan: Our presence, your benefits.
-- Commerzbank worldwide PDF, April 2026.
+- FSA 银行牌照列表：外国银行支店，截至 2026-05-13。
+- Commerzbank Japan：Our presence, your benefits。
+- Commerzbank worldwide PDF，2026 年 4 月。

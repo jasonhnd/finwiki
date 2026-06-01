@@ -11,33 +11,33 @@ translated_at: 2026-05-31T15:29:03.948Z
 # 大东银行
 
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukushima-bank|福島銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]]下。请与 [[JapanFG/fukushima-bank|福岛银行]] 对照阅读，以理解福岛县第二地方银行的牌照格局；更广义的制度边界见 [[banking/INDEX|银行业索引]]。
 
 ## TL;DR
 
-大东银行是一家第二大地区银行，其主要分行位于福岛县郡山市，并被列入金融厅的银行执照名单。在福岛县，第一区域/第二区域银行覆盖范围与 [[toho-bank]] 和 [[fukushima-bank]] 一起单独读取。
+大东银行是总部位于福岛县郡山市的第二地方银行，列入金融厅银行牌照名单。在福岛县银行版图中，应将其与 [[toho-bank]] 和 [[fukushima-bank]] 一并阅读，以区分第一地方银行、第二地方银行以及集团整合语境。
 
-## 1. License / group boundary
+## 1. 牌照 / 集团边界
 
-| Item | Notes |
+| 项目 | 说明 |
 |---|---|
-|法定名称 |大东银行|
-| License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | Independent second-regional bank |
-| Home market | Fukushima / Koriyama |
-| Wiki role | Fukushima second-regional-bank operating-company page |
+| 法定名称 | 大东银行 |
+| 牌照路径 | 《银行法》下的第二地方银行；金融厅银行牌照名单 |
+| 集团边界 | 独立第二地方银行 |
+| 主市场 | 福岛 / 郡山 |
+| Wiki 角色 | 福岛第二地方银行经营公司页面 |
 
-## 2. Operating model
+## 2. 运营模式
 
-大东银行是第二家区域银行，主要在福岛县中通市处理零售、中小企业贷款、本地存款、卡/信贷相关团体服务和社区金融业务。官方公司简介显示了位于郡山市中町的总公司、1942 年的设立以及转换为普通银行的历史。请参阅 [[banking/regional-bank-consolidation-pattern]] 了解东北第二区域银行合并上下文。
+大东银行作为第二地方银行，主要在福岛县中通地区经营零售金融、中小企业贷款、本地存款、银行卡 / 信贷相关服务以及社区金融业务。官方公司概要记载其总部位于郡山市中町、1942 年设立，并说明其转制为普通银行的历史。东北地区第二地方银行整合背景见 [[banking/regional-bank-consolidation-pattern]]。
 
-## 3. Why this page matters
+## 3. 本页为何重要
 
-- Closes an exact-name FSA bank-license gap for Fukushima second-regional banks.
-- Provides a clean peer page for [[fukushima-bank]].
-- Helps avoid treating SBI alliance / regional-bank consolidation notes as substitutes for a bank license page.
+- 补齐福岛第二地方银行在金融厅牌照名单中的精确实体页面。
+- 为 [[fukushima-bank]] 提供清晰的同业对照。
+- 避免将 SBI 联盟或地方银行整合笔记误当作银行牌照页面。
 
 ## Related
 
@@ -48,5 +48,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- FSA: bank license list, second regional banks, as of 2026-05-02.
-- Daito Bank official company profile.
+- 金融厅：第二地方银行牌照名单，截至 2026-05-02。
+- 大东银行官方公司概要。

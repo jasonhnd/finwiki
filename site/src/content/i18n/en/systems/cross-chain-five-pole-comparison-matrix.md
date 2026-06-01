@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.128Z
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview]] as the parent overview and [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] for matched protocol selection. Pair with each pole's standalone entry — [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] — and read it against [[fintech/usd-stablecoin-interchange]] for the stablecoin transfer context that drives ≥60% of cross-chain volume. Wormhole has no standalone entry yet (TBD).
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview]] as the parent overview and [[systems/cross-chain-four-poles-selection-decision|cross-chain protocol-selection decision tree]] for matched protocol selection. Pair with each pole's standalone entry — [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] — and read it against [[fintech/usd-stablecoin-interchange]] for the stablecoin transfer context that drives ≥60% of cross-chain volume. Wormhole is covered here without a separate standalone FinWiki entry in this snapshot.
 
 ## Key facts
 
@@ -54,14 +54,14 @@ With 2025  CCTP V2  Fast Transfer + Hooks, USDC funding became an atomic primiti
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極アーキテクチャ · 概観]]
-- [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]]
+- [[systems/cross-chain-four-poles-overview|cross-chain four-pole architecture overview]]
+- [[systems/cross-chain-four-poles-selection-decision|cross-chain protocol-selection decision tree]]
 - [[systems/cctp-v2-overview|CCTP V2 Overview]]
 - [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP Institutional Messaging]]
 - [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 Omnichain Messaging]]
 - [[systems/hyperlane-overview|Hyperlane Overview]]
-- [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero/CCIP 路線対照]]
-- [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton 公開/プライベートチェーン対峙]]
+- [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero/CCIP route comparison]]
+- [[systems/cctp-v2-vs-canton|CCTP V2 vs Canton public/private chain comparison]]
 - [[fintech/usd-stablecoin-interchange|USD Stablecoin Interchange]]
 <!-- /wiki-links:managed -->
 

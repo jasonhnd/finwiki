@@ -4,119 +4,119 @@ source_hash: 8e32288c439548f5
 lang: zh
 status: machine
 fidelity: ok
-title: "M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期"
+title: "M0 / M Network · 2026 基础设施更新 · M Bridge × Mexican Peso × USDM × 中立中间件成熟期"
 translated_at: 2026-05-31T11:13:44.908Z
 ---
 
-# M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期
+# M0 / M Network · 2026 基础设施更新 · M Bridge × Mexican Peso × USDM × 中立中间件成熟期
 
 ## TL;DR
 
-[[fintech/m-network-m0-neutral-infrastructure|M0(M^ZERO)]] は 2026 上半期に「early-stage 中立インフラ」から「**partner-issuer ミドルウェア**」段階に入り、同時に 3 つの新成長軸に賭ける:(1)**M Bridge** = M0 が Base / Arbitrum / OP / Unichain / Solana 間に提供するネイティブ相互接続層で、任意の partner issuer ステーブルコインが自然にマルチチェーンで共存可能;(2)**MXNB pilot** = Bitso + Mercado Bitcoin 等の中南米参加者が M0 上でメキシコペソ・ペッグ・ステーブルコインを発行、初の非米ドル partner SC;(3)**USDM** = M0 自社の yield-bearing wrapper、[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] + 短期国債 + Re7 vault を直接保有し、partner issuer の利息分配を標準化。M0 は単なる「スイス銀行モデル」ではなく、**stablecoin middleware** へ —— [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD]] の「半コンプラ化」と [[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1]] の「政治型ブランド」と三極並立を形成する。
+[[fintech/m-network-m0-neutral-infrastructure|M0（M^ZERO）]] 在 2026 年上半年从“早期中立基础设施”进入 **partner-issuer 中间件**阶段，并押注三条新增长轴：（1）**M Bridge**：M0 在 Base / Arbitrum / OP / Unichain / Solana 之间提供的原生互联层，使任意 partner issuer 稳定币可以自然以多链形态共存；（2）**MXNB pilot**：Bitso、Mercado Bitcoin 等拉美参与者在 M0 上发行墨西哥比索锚定稳定币，成为首个非美元 partner SC；（3）**USDM**：M0 自有的 yield-bearing wrapper，直接持有 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]、短期国债和 Re7 vault，并标准化 partner issuer 的利息分配。M0 不再只是“瑞士银行模型”，而是向 **stablecoin middleware** 演进，与 [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD]] 的“半合规化”路线和 [[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1]] 的“政治型品牌”路线形成三极并列。
 
-## Wiki ??
+## Wiki 路线
 
-????? [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/m-network-m0-neutral-infrastructure|M0 中立インフラ基礎ページ]] for the founding thesis, and use [[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]] to model 2026 H1 の M Bridge / USDM rollout 節奏。
+本条目位于 [[fintech/INDEX|金融科技索引]] 之下。可与 [[fintech/m-network-m0-neutral-infrastructure|M0 中立基础设施基础页面]] 对照阅读，以理解创始论题；也可用 [[fintech/protocol-renewal-trigger-as-event-anchor|协议升级触发事件锚点]] 建模 2026 上半年 M Bridge / USDM 的推出节奏。
 
-## ???? (2026-05 snapshot)
+## 关键事实（2026-05 快照）
 
-- **Token MCap(M-anchored 系列)** ~$1.05B(2026-04, vs $300M 2026-01);3 か月で 3.5x ^[public-press]
+- **Token MCap（M-anchored 系列）** ~$1.05B（2026-04；2026-01 为 ~$300M）；三个月约 3.5x ^[public-press]
 - **USDM 流通** ~$420M(2026-05);BUIDL 直接保有 ~$180M + 短期国債 $190M + 現金 $50M ^[issuer-docs]
-- **MXNB pilot 流通** ~$25M 相当(2026-05);Bitso がマッチング、Mercado Bitcoin が副 issuer ^[public-press]
-- **Partner issuer 名簿** 公開 6 社(欧州銀行子会社 fintech 1、中南米マッチング側 2、日本信託型 SC pilot 1、米国 RWA プロトコル 2 を含む);未公開 4-6 社が onboarding 中 ^[public-press]
-- **M Bridge** 展開チェーン:Ethereum / Base / Arbitrum / Optimism / Unichain / Solana(後者は H2 稼働)^[issuer-docs]
-- **$M ガバナンストークン** 流通約 4.2 億枚、累積ガバナンス提案 ~37(2026-05)^[on-chain]
-- **監査とリスク管理** OpenZeppelin / Trail of Bits / Certora / Chainalysis ongoing monitoring ^[issuer-docs]
-- **管理手数料** issuer 側 ~10-20 bps、BUIDL/USDY と同水準 ^[issuer-docs]
+- **MXNB pilot 流通量** 约 $25M（2026-05）；Bitso 提供撮合，Mercado Bitcoin 担任副 issuer ^[public-press]
+- **Partner issuer 名单** 已公开 6 家（包括欧洲银行子公司 fintech 1 家、拉美撮合侧 2 家、日本信托型 SC pilot 1 家、美国 RWA 协议 2 家）；另有未公开 4-6 家处于 onboarding 阶段 ^[public-press]
+- **M Bridge 部署链**：Ethereum / Base / Arbitrum / Optimism / Unichain / Solana（Solana 预计 H2 启动）^[issuer-docs]
+- **$M 治理代币** 流通约 4.2 亿枚，累计治理提案约 37 个（2026-05）^[on-chain]
+- **审计和风险管理** OpenZeppelin / Trail of Bits / Certora / Chainalysis 持续监控 ^[issuer-docs]
+- **管理费** issuer 侧约 10-20 bps，与 BUIDL / USDY 同一量级 ^[issuer-docs]
 
-## 2026 event timeline
+## 2026 事件时间线
 
-| 月 | イベント | 意義 |
+| 月份 | 事件 | 意义 |
 |---|---|---|
-| 2026-01 | USDM v1 mainnet | M0 自社 yield wrapper 稼働、issuer revenue split を標準化 |
-| 2026-02 | M Bridge alpha(Base ↔ Arbitrum) | 単一 M-anchored SC のクロスチェーンが LayerZero/CCIP に依存せず、自前 burn-mint canonical bridge を持つ |
-| 2026-03 | MXNB pilot(Bitso マッチング) | 初の非米ドル partner SC、[[fintech/em-market-crypto-dollarization-pattern|EM 市場の暗号ドル化パターン]] とは別軌道を開く |
-| 2026-04 | $M トークン・ガバナンス・アップグレード ER1 | issuer 検証投票閾値を 51% から 67% に引き上げ、VC ガバナンス捕獲懸念に対応 |
-| 2026-04 | Re7 Capital が USDM 後端 vault に参加 | yield bearing を USDM(カストディ型)+ sUSDM(DeFi 再利用型)に分解 |
-| 2026-05 | M Bridge Optimism / Unichain | [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン-チェーン-トークンのトリレンマ]] の「chain-agnostic」極と整合 |
+| 2026-01 | USDM v1 mainnet | M0 自有 yield wrapper 启动，并标准化 issuer revenue split。 |
+| 2026-02 | M Bridge alpha（Base ↔ Arbitrum） | 单一 M-anchored SC 的跨链不再依赖 LayerZero / CCIP，而是拥有自有 burn-mint canonical bridge。 |
+| 2026-03 | MXNB pilot（Bitso 撮合） | 首个非美元 partner SC，与 [[fintech/em-market-crypto-dollarization-pattern|新兴市场加密美元化模式]] 开启不同路径。 |
+| 2026-04 | $M 代币治理升级 ER1 | issuer 验证投票阈值从 51% 上调至 67%，回应 VC 治理捕获担忧。 |
+| 2026-04 | Re7 Capital 加入 USDM 后端 vault | 将 yield bearing 拆解为 USDM（托管型）+ sUSDM（DeFi 再利用型）。 |
+| 2026-05 | M Bridge Optimism / Unichain | 与 [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币-链-token 三难]] 的 chain-agnostic 极相一致。 |
 | 2026-Q3 計画 | Solana M Bridge + 第 7-9 partner issuer 公開 | scale-up phase |
-| 2026-Q4 計画 | $M staking エコノミクスの再評価 | [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]] の DAO yield routing と対比 |
+| 2026-Q4 计划 | 重新评估 $M staking 经济学 | 与 [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]] 的 DAO yield routing 对比。 |
 
-## Mechanism / 3 層ミドルウェアのアップグレード
+## 机制：三层中间件升级
 
-**旧モデル(2025)= 単層中立インフラ**:M0 = 準備金接続 + スマートコントラクト・テンプレート + DAO 検証、partner issuer が各自ブランドを保持。問題:yield path なし、クロスチェーン統一性なし、非米ドル SKU なし。
+**旧模型（2025）= 单层中立基础设施**：M0 = 准备金连接 + 智能合约模板 + DAO 验证，partner issuer 保持各自品牌。问题在于没有收益路径、没有跨链统一性、也没有非美元 SKU。
 
-**新モデル(2026)= 3 層 middleware**:
+**新模型（2026）= 三层 middleware**：
 
-1. **L1 準備金層(Reserve)**:[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / USTB / 米国国債 / 短期中銀預金に直接接続。これは partner issuer が共有する金庫で、各社が個別に BlackRock とラインを交渉する必要がなくなった。
-2. **L2 資産層(M-anchored token + USDM)**:partner issuer は M-anchored token を「issuer-branded SC base」として使用、USDM は M0 自社の yield wrapper でリテール/DeFi 向け。**重要な違い**:partner issuer が手にするものは「コンプラ・テンプレート」ではなく、既に yield 接続済みの完成品 → 利息分配エコノミクス([[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]] 参照)が USDM 層で既に標準化済み。
-3. **L3 クロスチェーン層(M Bridge)**:同一 issuer の SC が Base/Arbitrum/Optimism/Unichain/Solana 間でデフォルト canonical(burn-mint)、LayerZero / Wormhole 等汎用ブリッジを経由しない。これにより [[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]] の「アップグレード・イベント = 流動性再配分」レバーを M0 自身が回収する。
+1. **L1 准备金层（Reserve）**：直接连接 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]、USTB、美国国债和短期央行存款。这是 partner issuer 共享的金库，使各发行方无需分别与 BlackRock 谈判线路。
+2. **L2 资产层（M-anchored token + USDM）**：partner issuer 将 M-anchored token 用作 issuer-branded SC base；USDM 是 M0 自有的 yield wrapper，面向零售和 DeFi。关键差异在于，partner issuer 获得的不是合规模板，而是已接入收益路径的成品；利息分配经济学（参见 [[fintech/stablecoin-revenue-split-economics|稳定币利息分配经济学]]）已在 USDM 层标准化。
+3. **L3 跨链层（M Bridge）**：同一 issuer 的 SC 在 Base / Arbitrum / Optimism / Unichain / Solana 之间默认以 canonical burn-mint 方式转移，不经过 LayerZero / Wormhole 等通用桥。由此，M0 自身回收 [[fintech/protocol-renewal-trigger-as-event-anchor|协议升级触发事件锚点]] 中“升级事件 = 流动性再分配”的杠杆。
 
-**MXNB pilot の特殊性**:Bitso(メキシコ最大の取引所)がマッチング、M0 がコンプラ・インフラを提供、メキシコペソ・ペッグ。これは M0 初の**非米ドル SC** 引受で、[[fintech/india-anti-dollar-dpi-alliance|India 反米ドル DPI 連盟]] と同じ思想 —— EM 国が米ドル SC に完全占領されないようにする。Mercado Bitcoin の副 issuer 役は H2 に BRL 版が登場する可能性を示唆。MXNB の流通は依然極小($25M 相当)だが、**シグナル価値はサイズを大きく超える** —— M0 が同じインフラで非米ドル SKU を引き受けられることを実証。
+**MXNB pilot 的特殊性**：Bitso（墨西哥最大交易所）负责撮合，M0 提供合规基础设施，标的为墨西哥比索锚定稳定币。这是 M0 首个**非美元 SC** 承接案例，与 [[fintech/india-anti-dollar-dpi-alliance|India 反美元 DPI 联盟]] 的思想相同：避免新兴市场被美元 SC 完全占领。Mercado Bitcoin 的副 issuer 角色暗示 H2 可能出现 BRL 版本。MXNB 流通量仍然很小（约 $25M），但**信号价值远大于规模**，证明 M0 可用同一基础设施承接非美元 SKU。
 
-## $M トークン・エコノミクスとガバナンス
+## $M 代币经济学与治理
 
 - **流通供給** ~4.2 億枚(2026-05、hard cap 10 億)
-- **保有構造** チーム/Foundation ~25% + 投資家 ~30% + 流通 / DAO Treasury ~45%
-- **効用**:(a)issuer 資格検証投票;(b)リスクパラメータ(LTV / 準備金構成 / チェーン選択)ガバナンス;(c)USDM 後端 vault 収益分配;(d)将来の staking → M Bridge canonical 転送のセキュリティ
-- **ガバナンスリスク**:投資家 + チーム合計 ~55% の初期投票権、2026-04 ER1 提案で issuer 検証閾値を 51% から 67% に引き上げたのは「VC-controlled DAO」批判への重要な妥協
-- **MakerDAO MKR とのアナロジー**:Greg Di Prisco が MakerDAO の risk team モデルを移植、ただし $M ガバナンス参加の活性は成熟 DAO(MKR / UNI / AAVE)よりはるかに低い
+- **持有结构**：团队 / Foundation 约 25% + 投资者约 30% + 流通 / DAO Treasury 约 45%。
+- **效用**：（a）issuer 资格验证投票；（b）风险参数（LTV / 准备金构成 / 链选择）治理；（c）USDM 后端 vault 收益分配；（d）未来 staking 对 M Bridge canonical 转移提供安全性。
+- **治理风险**：投资者 + 团队初始投票权合计约 55%。2026-04 ER1 提案将 issuer 验证阈值从 51% 上调到 67%，是对“VC-controlled DAO”批评的重要妥协。
+- **与 MakerDAO MKR 的类比**：Greg Di Prisco 移植了 MakerDAO 的 risk team 模型；但 $M 治理参与活跃度明显低于成熟 DAO（MKR / UNI / AAVE）。
 
-## 他の neutral-infra SC との比較
+## 与其他中立基础设施型稳定币的比较
 
 | 軸 | M0(M Network) | Frax frxUSD | World Liberty USD1 | Sky USDS | Bridge(Stripe) |
 |---|---|---|---|---|---|
-| ビジネスモデル | partner-issuer middleware | 自社ブランド + Fraxtal L2 capture | 政治型ブランド SC + Treasury narrative | 完全分散型 + Subdao 分散 | 代行 SC 発行 + Stripe 顧客ネットワーク |
+| 商业模式 | partner-issuer middleware | 自有品牌 + Fraxtal L2 capture | 政治型品牌 SC + Treasury narrative | 完全去中心化 + SubDAO 分散 | 代发行 SC + Stripe 客户网络 |
 | 準備金 | BUIDL + USTB + 現金 | BUIDL + UST + 一部 RWA | 短期国債 + 国庫券 | DAI/USDS 複合準備 | 短期国債 + USDC backstop |
-| 中立性 | 高(自社ブランドの正面競争なし) | 中(自社ブランド frxUSD) | 低(政治色バインド) | 高(DAO ガバナンス) | 低(Stripe マーチャント・バインド) |
-| クロスチェーン | M Bridge canonical | Fraxtal L2 + CCIP | Ethereum-only | Multi-chain via CCTP/汎用橋 | Cross-chain via Stripe orchestration |
-| 規制ルート | §501 コンプラ・フレンドリー、MiCA EMT ルート開放 | §501 コンプラ境界 | 米国政治ナラティブ保護 | DeFi グレー | §501 コンプラ + Stripe ライセンス殻 |
+| 中立性 | 高（不与自有品牌正面竞争） | 中（自有品牌 frxUSD） | 低（政治色彩绑定） | 高（DAO 治理） | 低（Stripe 商户绑定） |
+| 跨链 | M Bridge canonical | Fraxtal L2 + CCIP | Ethereum-only | 通过 CCTP / 通用桥实现多链 | 通过 Stripe orchestration 跨链 |
+| 监管路线 | §501 合规友好，MiCA EMT 路线开放 | §501 合规边界 | 美国政治叙事保护 | DeFi 灰区 | §501 合规 + Stripe 牌照壳 |
 | MCap | ~$1.05B | ~$1.2B | ~$2.6B | ~$8.5B | ~$2B managed |
-| 2026 トレンド | partner pipeline 加速 | BUIDL 直接保有深化 | ガバナンス透明度争点 | DAO ガバナンス定常 | enterprise 顧客深耕 |
+| 2026 趋势 | partner pipeline 加速 | BUIDL 直接持有深化 | 治理透明度成为争点 | DAO 治理常态化 | 企业客户深耕 |
 
-**M0 と Bridge(Stripe)の対抗が最も直接的**:両社とも「代行ステーブルコイン発行」を行うが、Bridge は [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse ルート]] で SC を Stripe マーチャント・ネットワークに埋め込み、分配側 lock-in;M0 は multi-issuer / multi-chain neutral middleware で分配側オープン。中南米 / 日本 / 欧州第二線銀行 partner というセグメントでは、M0 と Bridge は既に正面接触を開始している。
+**M0 与 Bridge（Stripe）的对抗最直接**：两者都提供“代发行稳定币”，但 Bridge 通过 [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse 路线]] 将 SC 嵌入 Stripe 商户网络，形成分发侧 lock-in；M0 则以 multi-issuer / multi-chain neutral middleware 保持分发侧开放。在拉美、日本和欧洲第二线银行 partner 这一细分市场中，M0 与 Bridge 已经开始正面接触。
 
-## USDM yield path の分解
+## USDM 收益路径拆解
 
-USDM = M0 自社 yield-bearing wrapper で、sDAI / sUSDe / sUSDS と同様の役割だが M0 エコシステムのみに対応:
+USDM 是 M0 自有的 yield-bearing wrapper，角色类似 sDAI / sUSDe / sUSDS，但仅面向 M0 生态：
 
 ```
-リテール/DeFi ユーザー
-  ↓ USDC / USDT を預金
+零售 / DeFi 用户
+  ↓ 存入 USDC / USDT
 USDM Mint(1:1)
   ↓ M0 後端
 Reserve Vault: BUIDL ~43% + USTB/短期国債 ~45% + 現金 ~12%
   ↓ 収益分配
 USDM holder ~ 4.2-4.5% APY(管理手数料 + protocol take 控除後)
 M0 Foundation ~ 30-50 bps 純 take
-$M staker ~ protocol take の一部
+$M staker ~ protocol take 的一部分
 ```
 
-**sUSDM(DeFi-wrapped)**:USDM を二次パッケージ化し Aave / Morpho / Pendle で再利用可能にする、[[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]] と接続し同種の増幅ルートを形成。Re7 Capital が 2026-04 に USDM 後端 vault に参加し、yield を「安定収益層(USTB/BUIDL)+ alpha 層(Re7 strategy)」に分解、USDM が「passive yield-bearing」から「active managed yield」へアップグレードするキーポイントとなった。
+**sUSDM（DeFi-wrapped）**：将 USDM 二次封装，使其可在 Aave / Morpho / Pendle 中再利用，并与 [[fintech/circular-reserve-asset-flywheel-overview|循环准备资产飞轮]] 连接，形成同类放大路径。Re7 Capital 于 2026-04 加入 USDM 后端 vault，将 yield 拆分为“稳定收益层（USTB / BUIDL）+ alpha 层（Re7 strategy）”，成为 USDM 从 passive yield-bearing 升级为 active managed yield 的关键节点。
 
-## ????
+## Related
 
 - [[fintech/INDEX|FinWiki Fintech Index]]
-- [[fintech/m-network-m0-neutral-infrastructure|M0 / M Network 中立ステーブルコイン・インフラ基礎ページ]]
-- [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD 半コンプラ化ルート]]
-- [[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1 政治型ステーブルコイン]]
-- [[fintech/sky-usds-decentralized-stablecoin|Sky USDS 分散型ステーブルコイン]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
-- [[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]]
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL トークン化 MMF 概要]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 採用マトリクス]]
-- [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]
-- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse ルート]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン-チェーン-トークン戦略のトリレンマ]]
-- [[fintech/wall-street-crypto-network-neutrality|ウォール街暗号ネットワーク中立]]
+- [[fintech/m-network-m0-neutral-infrastructure|M0 / M Network 中立稳定币基础设施基础页面]]
+- [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD 半合规化路线]]
+- [[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1 政治型稳定币]]
+- [[fintech/sky-usds-decentralized-stablecoin|Sky USDS 去中心化稳定币]]
+- [[fintech/stablecoin-revenue-split-economics|稳定币利息分配经济学]]
+- [[fintech/protocol-renewal-trigger-as-event-anchor|协议升级触发事件锚点]]
+- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL 代币化 MMF 概览]]
+- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC issuer 采用矩阵]]
+- [[fintech/circular-reserve-asset-flywheel-overview|循环准备资产飞轮]]
+- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse 路线]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|稳定币-链-token 战略三难]]
+- [[fintech/wall-street-crypto-network-neutrality|华尔街加密网络中立]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
 
-## ??
+## 资料来源
 
-- M0 Foundation 公式ホーム https://m0.org/
+- M0 Foundation 官方主页 https://m0.org/
 - M0 Documentation https://m0.org/docs/
 - M0 Governance Portal https://m0.foundation/governance
-- M ERC-20 コントラクトアドレス(Etherscan) https://etherscan.io/token/0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b
+- M ERC-20 合约地址（Etherscan）https://etherscan.io/token/0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b
 - "M Network unveils Mexican peso stablecoin pilot with Bitso" — CoinDesk, 2025-12 https://www.coindesk.com/business/2025/12/m-network-mexican-peso-pilot
 - "M Bridge: how M0 wants to own canonical cross-chain for partner stablecoins" — The Block, 2026 https://www.theblock.co/post/m0-bridge-stablecoin-2026
 - Bain Capital Crypto investment in M0 announcement (2025) https://www.bain.com/about/media-center/press-releases/2025/bain-capital-crypto-m0/

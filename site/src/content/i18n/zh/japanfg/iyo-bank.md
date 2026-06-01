@@ -4,52 +4,40 @@ source_hash: 4dc253f6a48f7ae9
 lang: zh
 status: machine
 fidelity: ok
-title: "????"
+title: 伊予银行
 translated_at: 2026-05-31T15:29:03.915Z
 ---
-# ????
-# 伊予銀行
 
+# 伊予银行
 
-## Wiki ??
+## Wiki 路径
 
-????? [[JapanFG/INDEX|JapanFG index]]. ?? [[JapanFG/awa-bank|阿波銀行]] ?????????? / ??????? [[banking/INDEX|banking index]] ??????????? / ?????
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[JapanFG/awa-bank|阿波银行]] 等四国地方银行和 [[banking/INDEX|banking index]] 对照阅读。
 
 ## TL;DR
 
-株式会社伊予銀行は、金融庁の銀行免許一覧に掲載される愛媛県本店の地方銀行。[[iyogin-hd]] の core operating bank であり、愛媛県内 No.1 regional-bank operating-company anchor として扱う。
+株式会社伊予银行是金融厅银行免许名单中的爱媛县本店地方银行，也是 [[iyogin-hd]] 的核心经营银行。FinWiki 将其作为爱媛县主要地方银行 operating-company anchor。
 
-## 1. License / group boundary
+## License / group boundary
 
-| ?? | ?? |
+| 项目 | 内容 |
 |---|---|
-| ???? | 株式会社伊予銀行 |
-| ???? | ????????????????????? |
-| ???? | [[iyogin-hd]] core operating bank |
-| Home market | ?? / ?? |
-| Wiki ?? | ?????????????? |
+| 公司名称 | 株式会社伊予银行 |
+| 牌照 | 日本金融厅银行业免许 |
+| 集团关系 | [[iyogin-hd]] 核心经营银行 |
+| 主要市场 | 爱媛 / 四国 |
+| Wiki 定位 | 伊予银行集团的银行牌照实体页面 |
 
-## 2. Operating model
+## Why this page matters
 
-伊予銀行は、愛媛県を中心に retail deposits, SME finance, maritime / shipbuilding cluster finance, and Shikoku-wide corporate support を担う regional bank。[[iyogin-hd]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+- 补齐金融厅登记名称对应的伊予银行 operating-company 条目。
+- 将银行牌照实体与 [[iyogin-hd]] 的控股公司战略区分开。
+- 为 [[ehime-bank]]、[[hyakujushi-bank]]、[[awa-bank]] 和 [[shikoku-bank]] 提供同业比较锚点。
 
-## 3. Why this page matters
-
-- Closes the FSA exact-name operating-company gap for 伊予銀行.
-- Separates the bank license from [[iyogin-hd]] holding-company strategy.
-- Provides a peer anchor for [[ehime-bank]], [[hyakujushi-bank]], [[awa-bank]], and [[shikoku-bank]].
-
-## ??
+## Related
 
 - [[iyogin-hd]]
 - [[ehime-bank]]
 - [[hyakujushi-bank]]
 - [[awa-bank]]
 - [[shikoku-bank]]
-- [[banking/regional-bank-consolidation-pattern]]
-- [[banking/INDEX]]
-
-## ??
-
-- FSA: bank license list, regional banks, as of 2026-01-01.
-- Iyo Bank official company overview.

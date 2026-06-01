@@ -89,7 +89,7 @@ Deposit-base values are public-source approximations from bank IR pages, group a
 | [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | Steady SME / corporate | Corporate-focused fee schedule | Highly competitive for corporates | Tight on corporate FX | Corporate deposit rate tiers | freee, MoneyForward, accounting SaaS, payroll, payment platforms |
 | [[banking/ui-bank|UI Bank]] | Slow growth — niche | Limited (app-only) | Standard tier | n/a | Promotional high-yield deposit launches | Tokyo Kiraboshi FG regional partners |
 | [[banking/minna-bank-baas-model|Minna Bank]] | Mobile / BaaS growth | App-only — no own ATM | App-anchored | n/a | Standard | Recruit, Trust Bank GW, partner brand BaaS |
-| [[banking/mercari-bank|Mercari Bank]] | Early ramp via Mercari user base | TBD | TBD | n/a | TBD | Mercari Marketplace, Mercari Card linkage |
+| [[banking/mercari-bank|Mercari Bank]] | Early ramp via Mercari user base | Not publicly specified in available launch materials | Not publicly specified in available launch materials | n/a | Not publicly specified in available launch materials | Mercari Marketplace, Mercari Card linkage |
 | [[JapanFG/japan-post-bank|Japan Post Bank]] | Slight outflow as customers diversify | Free at Japan Post ATMs nationwide | ¥146-330 | Limited retail FX | Standard low | Yucho Pay (own wallet), connection with regional banks |
 
 The growth trajectory line is qualitative because deposit growth is highly seasonal and promotional. Use the bank's IR site for quarterly disclosure of deposit balance.

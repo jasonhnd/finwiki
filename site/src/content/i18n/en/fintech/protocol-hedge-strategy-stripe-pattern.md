@@ -17,7 +17,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 > [!info] TL;DR
 > In emerging domains (for example, AI agent payments) where multiple competing protocols have not yet converged, incumbent players tend to adopt a strategy of **simultaneously serving as co-author / founding member of multiple protocols**. Instead of making a heavy bet that a single protocol will become the standard, they ensure that **they will not be left behind no matter which standard wins**. Stripe's simultaneous participation in MPP (its own protocol), ACP (OpenAI), AP2 (Google), and x402 (Coinbase / Cloudflare) is a textbook case of this pattern.
 
-**4  protocol melee structure**:
+**Four-protocol competitive structure**:
 
 ```
 MPP            ACP              AP2             x402

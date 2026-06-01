@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.844Z
 
 该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[JapanFG/fukuoka-bank|福岡銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
-##TL;博士
+## 要点摘要
 
 筑丰银行是一家地区性银行，其主要分行位于福冈县久留米市，并被列入金融厅的银行执照名单。福冈县当地/筑后地区区域银行运营公司的主力，与 [[fukuoka-bank]] 和 [[nishi-nippon-city-bank]] 被视为独立法人的同行。
 

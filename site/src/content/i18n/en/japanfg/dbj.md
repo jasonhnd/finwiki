@@ -1,122 +1,78 @@
 ---
 source: japanfg/dbj
-source_hash: e8be03721211979b
+source_hash: 68ddc74cc7e6c154
 lang: en
 status: machine
 fidelity: ok
 title: "Development Bank of Japan (DBJ)"
-translated_at: 2026-05-31T15:29:03.907Z
+translated_at: 2026-05-31T15:29:02.952Z
 ---
+
 # Development Bank of Japan (DBJ)
-# 日本政策投資銀行 (DBJ)
-
-## Wiki route
-
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-財務大臣 100% 出資の**政策金融機関**。中堅・大企業向け長期融資・エクイティ投資・アドバイザリーを三位一体で提供する点で JFC(中小企業)とも市中銀行とも違う。1951 年設立の日本開発銀行を源流に、1999 年北海道東北開発公庫と統合、2008-10-01 株式会社化。**完全民営化は計画されていたが東日本大震災・コロナ・GX 転換で延期され続けている**(政府全額出資の特殊会社のまま)。インフラ・エネルギー・GX(グリーン・トランスフォーメーション)・事業再生・危機対応融資が看板。2015 年に「特定投資業務」(3 兆円規模)を開始し、ESG/GX/DX 領域で官民協調投資のプラットフォーム化を進めている。
+Development Bank of Japan Inc. (DBJ) is a policy financial institution wholly owned by the Minister of Finance. It differs both from Japan Finance Corporation, which is oriented toward SMEs and individuals, and from private commercial banks: DBJ combines long-term loans to mid-sized and large companies, equity investment, and advisory work. Its lineage begins with the Japan Development Bank established in 1951; it merged with the Hokkaido-Tohoku Development Finance Public Corporation in 1999 and was converted into a joint-stock company on 2008-10-01. Full privatization had been planned, but has repeatedly been deferred after the Great East Japan Earthquake, COVID-19, and the policy shift toward GX. DBJ remains a special company with full government ownership.
 
-## 1. 会社概要
+## 1. Group Boundary
 
-**正式名**:株式会社日本政策投資銀行
-**英名**:Development Bank of Japan Inc. (DBJ)
-**株主**:財務大臣 100%(完全民営化計画は延期継続中)
-**設立**:2008-10-01(株式会社化)
-**法的根拠**:株式会社日本政策投資銀行法(2007 年法律第 85 号)
-**本社**:東京都千代田区大手町
-**業態**:政策金融機関(特殊会社)
-
-### 主要子会社・関連会社
-
-```
-DBJ(株式会社日本政策投資銀行・財務大臣 100%)
-  ├── DBJ アセットマネジメント ── PE/不動産/インフラファンド運営
-  ├── DBJ ベンチャーズ ── ベンチャー投資
-  ├── 価値総合研究所(VRI) ── シンクタンク
-  ├── DBJ シンガポール ── アジア拠点
-  ├── DBJ ロンドン ── 欧州拠点
-  ├── DBJ ニューヨーク ── 米州拠点
-  └── 各種共同設立ファンド(官民ファンド・地域再生ファンド等)
-```
-
-### 重要年表
-
-| 年月 | 事象 |
+| Item | Notes |
 |---|---|
-| 1951 | 日本開発銀行 設立(戦後復興期の長期信用機関) |
-| 1956 | 北海道東北開発公庫 設立 |
-| 1999-10 | 日本開発銀行 + 北海道東北開発公庫 → **日本政策投資銀行**(特殊法人) |
-| 2008-10-01 | **株式会社化**(株式会社日本政策投資銀行発足) |
-| 2008-2009 | リーマンショック → 危機対応業務発動 |
-| 2011-03 | 東日本大震災 → 完全民営化 延期(2012 法改正) |
-| 2015 | **「特定投資業務」開始**(3 兆円規模、官民ファンドの大型版) |
-| 2020-2022 | コロナ危機対応融資 → 民営化 さらに延期 |
-| 2023-2025 | GX(グリーン・トランスフォーメーション)投資強化 |
+| Legal form | Joint-stock company under the Development Bank of Japan Inc. Act |
+| Shareholder | Minister of Finance, 100%; full privatization remains deferred |
+| Core functions | Long-term lending, equity and mezzanine investment, advisory, crisis-response finance |
+| Regulatory character | Policy finance institution and special company, not an ordinary commercial bank |
 
-## 2. 事業セグメント・マップ
+### Main Subsidiaries and Affiliates
 
-| セグメント | 主要機能 | 特徴 |
+```text
+DBJ (Development Bank of Japan Inc.; 100% owned by the Minister of Finance)
+  |-- DBJ Asset Management -- PE, real-estate, and infrastructure fund management
+  |-- DBJ Ventures -- venture investment
+  |-- Value Management Institute -- think tank
+  |-- DBJ Singapore -- Asia hub
+  |-- DBJ London -- Europe hub
+  |-- DBJ New York -- Americas hub
+  `-- Jointly established funds, including public-private and regional-revitalization funds
+```
+
+## 2. Business-Segment Map
+
+| Segment | Main function | Characteristics |
 |---|---|---|
-| 長期融資 | 中堅・大企業向け 5〜30 年超の長期資金 | インフラ・エネルギー・環境分野に強い |
-| エクイティ投資 | PE 投資・メザニン・優先株引受 | 民間 PE と協調、事業再生案件多い |
-| M&A・アドバイザリー | 業界再編・クロスボーダー助言 | 政策金融ならではの中立性 |
-| 危機対応業務 | 緊急時資金供給(指定金融機関) | リーマン / 東日本大震災 / コロナで発動 |
-| 特定投資業務(2015〜) | 3 兆円規模の ESG/GX/DX 重点投資 | 「リスクマネー供給」の旗艦事業 |
-| 地域再生 | 地方銀行協調ファンド・地域企業支援 | 各地で地域ファンド共同設立 |
-| シンクタンク | 価値総合研究所(VRI) | 産業調査・地域政策レポート |
+| Long-term lending | Five-to-thirty-year-plus funding for mid-sized and large companies | Strong in infrastructure, energy, and environmental sectors |
+| Equity investment | PE investment, mezzanine finance, and preferred-share underwriting | Often co-invests with private PE and appears in business-revitalization cases |
+| M&A and advisory | Industry consolidation and cross-border advice | Neutral policy-finance position can matter in restructuring |
+| Crisis-response finance | Emergency funding as a designated financial institution | Used during the global financial crisis, the Great East Japan Earthquake, and COVID-19 |
+| Special Investment Operations | ESG, GX, and DX-focused risk-capital program | Flagship risk-money supply function |
+| Regional revitalization | Regional funds and local-company support with regional banks | Joint regional funds are a recurring instrument |
+| Think tank | Value Management Institute | Industrial research and regional-policy reports |
 
-### ポジショニング
+### Positioning
 
-- **JFC(日本政策金融公庫)との分担**:JFC は中小企業 / 個人 / 農林水産、DBJ は**中堅・大企業 / インフラ / 大型エクイティ**
-- **市中メガバンク([[mufg]] / [[smfg]] / [[mizuho-fg]])との差**:DBJ は超長期・ハイリスク・ロングテール領域に特化、市中銀行の協調融資のアンカー役を担う
-- **政策投資銀行 ≠ 政策金融公庫**:両者を混同しがちだが法人格・対象・機能が別
+- **Compared with Japan Finance Corporation**: JFC focuses on SMEs, individuals, agriculture, forestry, and fisheries; DBJ focuses on mid-sized and large companies, infrastructure, and large-scale equity risk.
+- **Compared with private megabanks**: DBJ specializes in ultra-long-duration, higher-risk, long-tail areas and frequently anchors syndicated private-bank financing.
+- **DBJ is not JFC**: the two institutions differ in legal personality, customer target, and function.
 
-### 戦略テーマ
+## 3. Policy Role and Privatization Stasis
 
-- **GX(グリーン・トランスフォーメーション)**:再エネ・水素・洋上風力・カーボンクレジット領域への長期エクイティ
-- **DX**:産業 DX・データセンター・半導体サプライチェーン投資
-- **インフラ**:空港・港湾・PPP/PFI・コンセッション案件
-- **事業再生**:メザニン・DIP ファイナンス・スポンサー型再生
-- **地域**:地方銀行と地域ファンド共同組成
+The DBJ Act frames DBJ as supplementing risks that private financial institutions cannot reasonably take alone. In practice its visibility is highest in four areas: ultra-long-dated finance beyond 20 years, large-scale equity risk, business revitalization, and crisis-response finance. This design is intended to avoid crowding out private banks while still supplying capital where private balance sheets are insufficient.
 
-### 「民間補完原則」
+Full privatization has stalled. At the time of the 2008 conversion to a joint-stock company, full privatization within roughly five to seven years was contemplated. The 2011 earthquake, the COVID-19 crisis, and the 2023 onward positioning of DBJ as a core GX policy-investment institution have kept the privatization debate effectively frozen. The unresolved tradeoff is whether full privatization can coexist with maintaining policy-finance capacity.
 
-DBJ 法は**民間金融機関が単独では取り得ないリスク**を補完することを業務範囲としており、市中銀行のクラウディング・アウトを避ける建付け。実務では、市中銀行が組成しきれない超長期(20 年超)・大型エクイティ・事業再生・危機対応の四領域で存在感が大きい。
+## 4. Regulation and Policy
 
-### 民営化シナリオの停滞
-
-- 2008 年株式会社化時点では概ね 5〜7 年での完全民営化を想定
-- 2011 東日本大震災 → 延期
-- 2020 コロナ → 延期
-- 2023〜 GX 政策投融資の中核機関位置付け → 民営化議論は事実上凍結状態
-- 「完全民営化」と「政策金融機能の維持」のトレードオフが未解決
-
-## 4. 規制・政策
-
-- **主管**:財務省(株主=財務大臣 100%)
-- **業務監督**:金融庁・財務省
-- **根拠法**:株式会社日本政策投資銀行法
-- **危機対応業務指定**:政府による「指定金融機関」指定(JFC と並ぶ)
-- **直近政策論点**:
-  - GX 推進法(2023)に基づく 20 兆円超 GX 経済移行債との連動
-  - 「特定投資業務」の延長・拡大(法改正で適用期限が複数回延長)
-  - 完全民営化議論の事実上凍結
-  - 半導体・データセンター・防衛関連サプライチェーンへの政策投資
-
-## Related
-
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- (関連政策金融機関) JFC(日本政策金融公庫) · 商工中金 · JBIC(国際協力銀行) · JIC(産業革新投資機構)
+- **Supervision**: Financial Services Agency and Ministry of Finance.
+- **Governing statute**: Development Bank of Japan Inc. Act.
+- **Crisis-response designation**: government designation as a crisis-response financial institution, alongside Japan Finance Corporation.
+- **Policy adjacency**: GX transition bonds under the 2023 GX Promotion Act, extensions to Special Investment Operations, semiconductor and data-center supply-chain policy investment, and crisis-response finance.
 
 ## Sources
 
-- **Wikipedia: 株式会社日本政策投資銀行**(https://ja.wikipedia.org/wiki/株式会社日本政策投資銀行, 2026-05-19 抽出)
-- DBJ 公式サイト 会社概要・沿革(https://www.dbj.jp/, 2025 更新)
-- 株式会社日本政策投資銀行法(2007 年法律第 85 号)関連公開資料
+- DBJ official company profile and history, https://www.dbj.jp/.
+- Development Bank of Japan Inc. Act and related amendment history.
+- Public DBJ disclosure materials and policy-finance documentation.
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**(v1.0 Wikipedia + 公式公開情報ベース、2026-05-19)。設立年・統合年・株主構成・特定投資業務規模(3 兆円)は公式公開資料で確認。完全民営化の延期経緯は法改正履歴ベース。財務数値・直近セグメント別残高は最新 DBJ ディスクロージャー誌を要参照。
+> confidence: **likely**. Establishment year, integration year, shareholder structure, and the Special Investment Operations program are drawn from public DBJ and statutory materials. Current segment balances should be checked against the latest DBJ disclosure report before quotation.

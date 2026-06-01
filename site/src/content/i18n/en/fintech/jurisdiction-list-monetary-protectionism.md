@@ -13,61 +13,61 @@ translated_at: 2026-05-31T11:13:44.897Z
 
 ## Wiki route
 
-This entry sits under[[fintech/INDEX|fintech index]]. Read it against[[fintech/three-circles-stablecoin-mra-framework|米/欧/日「3 つの大円」ステーブルコイン・グローバル・コンプラ・アーキテクチャ(MRA 相互認証)]]for peer / contrast context and[[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]for the broader system / regulatory boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/three-circles-stablecoin-mra-framework|US / EU / Japan three-circle stablecoin global compliance architecture (MRA mutual recognition)]] for peer / contrast context and [[fintech/japan-financial-regulation|Japanese financial regulation for tokens, crypto-assets, and payments]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> GENIUS Act §501(d) to the U.S. Treasury;2026-Q3 Requires the publication of a list of ``extraterritorial jurisdictions eligible for interoperability authorization'' by **. **Jurisdictions listed** are12-18 Get monthly cross-border compliance exclusive window; **Listed stablecoins/chains** get “pass” for institutional access. This is a new type of “whitelist monetary protectionism”.1980 年customs barriers /2010 年It has the same roots as the previous data localization, but is more sophisticated.
+> GENIUS Act §501(d) requires the U.S. Treasury to publish, by 2026-Q3, a list of extraterritorial jurisdictions eligible for interoperability authorization. **Listed jurisdictions** receive a 12-18 month cross-border compliance exclusivity window; **listed stablecoins and chains** obtain an institutional-access pass. This is a new form of whitelist-based monetary protectionism. It has the same structural roots as 1980s customs barriers and 2010s data localization, but operates through a more sophisticated compliance architecture.
 
-## legal mechanism
+## Legal mechanism
 
 §501(d) Substantial equivalence test requirements:
 - National legislation consistent with the US GENIUS Act framework
 - OFAC Sanctions Compatible Enforcement Capabilities
-- AML/CFT frames match FATF Travel Rules (see below for details)[[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule クロスボーダー stack]])
+- AML/CFT frames match FATF Travel Rules (see below for details: [[fintech/fatf-travel-rule-cross-border-stack|FATF Travel Rule cross-border stack]])
 
 **Prerequisites for MRA (Bilateral Equivalence Agreement) to be included in the list**:
-- U.S.-Japan MRA:2026-02 Signed
-- U.S.-EU MRA:2026-Q3 schedule
-- U.S.-UK MRA:2026-Q4 schedule
+- U.S.-Japan MRA: signed in 2026-02
+- U.S.-EU MRA: scheduled for 2026-Q3
+- U.S.-UK MRA: scheduled for 2026-Q4
 - U.S.-SG / UAE / HK MRA: Under negotiation
 
-## No.1 Wave list prediction
+## First-wave jurisdiction-list projection
 
-| Tier | Jurisdiction | probability |
+| Tier | Jurisdiction | Probability |
 |---|---|---|
 | 1(2026-Q3)| Japan + EU + UK | 75-85% |
 | 2(2026-Q4 -2027-Q1)| Singapore + UAE | 60-70% |
 | 3(2027 H1)| HK + Australia + Canada + South Korea + Switzerland | 30-50% |
 | 4(Forever off list)| Mainland China / Russia / Iran / North Korea | <5% |
 
-## chain reaction with list
+## Chain reaction from listing
 
 ### To jurisdiction
-- 12-18 Monthly **First mover advantage**
-- Capital inflow (US institutional funds inflow via Compra SC)
-- Improving the status of financial center (HK/SG vie for “Asia’s Compra Stablecoin Hub”)
+- **12-18 month first-mover advantage**
+- Capital inflow through U.S. institutional funds via compliant stablecoins
+- Improved financial-center status, with HK and Singapore competing to become Asia's compliant-stablecoin hub
 
-### To Compra SC issuer
-- Institutional Access = True “Institutional USDC Class Status”
-- **No.1 Gain pricing power with waves** (No.1 Wave OCC charter holder and similar)
+### To compliant-stablecoin issuers
+- Institutional access becomes a functional institutional-USDC-class status
+- First-wave participants gain pricing power similar to early OCC charter holders
 
-### out of list
+### Outside the list
 - **Increasing costs** of cross-border payments (separate OFAC license required)
-- **Valuation Compression** for Compra SC Projects
+- **Valuation compression** for compliant-stablecoin projects
 - **Acceleration of de-dollarization or conversion to e-CNY camp**
 
 ## Historical precedents for monetary protectionism
 
-| era | tool | modern equivalent |
+| Era | Tool | Modern equivalent |
 |---|---|---|
-| 1934 us customs law | Reciprocity for whitelist trading partners | §501(d) jurisdiction list |
+| 1934 U.S. customs law | Reciprocity for whitelist trading partners | §501(d) jurisdiction list |
 | 1995 GATT MFN | Most Favored Nation Treatment | Interoperability equivalency certification |
-| 2015 EU GDPR 第45 strip | Determination of extreme status | Data flow/currency flow structure similarities |
-| 2018 CFIUS Reverse Investment Review | strategic industry access | Stablecoin infrastructure as a strategic industry |
+| 2015 EU GDPR Article 45 | Adequacy decision | Data-flow / currency-flow structural similarity |
+| 2018 CFIUS reverse investment review | Strategic-industry access | Stablecoin infrastructure as a strategic industry |
 
 **Structural commonality**: Replace "universal access" with "whitelist + equivalency recognition" and **create a privileged zone within the compliance zone**.
 
-## Application/Diversion
+## Analytical transfer
 
 Available for analysis of:
 - **CBDC cross-border interoperability** (mBridge is the “Chinese jurisdiction list”)
@@ -75,29 +75,29 @@ Available for analysis of:
 - **AI Governance Framework** (FIDO Alliance / AAIF similar protocol whitelist)
 - **Cross-border clearing system** (similar to BIS Project Agorá)
 
-**from now on5 Year chain inference**:
-- I は「I 版 §501(d) Announcing the list (2027-2028)
+**Five-year chain inference from the initial list**:
+- Initial §501(d) list announced in 2027-2028
 - China secretly releases “China Friendship List” through mBridge
 - UAE/SG, etc. aim to be on the “double list” (US + Europe + Asia)
 
 ## SBI Circle Holdings case
 
-§501 Japan under the framework4 Faction will be **re-ranked**:
+Under the §501 framework, Japan's four stablecoin factions would be **re-ranked**:
 
-| camp | §501 Status after being listed | evaluation |
+| Camp | §501 status after listing | Evaluation |
 |---|---|---|
 | **SBI Circle Holdings** | Cross-border compliance champion (USDC ↔ JPYC only registered channel) | ★★★★★ |
-| **[[JapanFG/jpyc|JPYC]](Noritaka Okabe)** | Japan Retail Compliance No.1 位 | ★★★★ |
+| **[[JapanFG/jpyc|JPYC]](Noritaka Okabe)** | Japan's leading retail-compliance position | ★★★★ |
 | **[[JapanFG/progmat|Progmat]](Three major banks)** | Japan B2B Large, **No cross-border compliance channel** | ★★★ |
 | **Minna no Bank / Solana** | Pure domestic retail, Solana is §501 outside the route | ★★ |
 
-detailed4 The faction comparison[[fintech/japan-epi-four-camps-comparison|日本 SC 四陣営比較]]See.
+For a detailed four-faction comparison, see [[fintech/japan-epi-four-camps-comparison|Japan stablecoin four-camp comparison]].
 
-## connection
+## Connections
 
-- [[three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[three-circles-stablecoin-mra-framework|three-circle MRA framework]]
 - [[genius-act-501-denylist-mandate|GENIUS §501 Denylist]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter アービトラージ]]
-- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter arbitrage]]
+- [[central-banking-function-unbundling|five-layer unbundling of central-bank functions]]
 
 ---

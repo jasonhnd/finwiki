@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.968Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tokyo-century|東京センチュリー]] (the same-parent **external lease/asset finance** platform — Itochu + Mizuho FG's 2  axis shareholder structure, listed 8439) and [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading company group-treasury arm). For the broader peer set, see [[JapanFG/mitsui-bussan-financial-services|三井物産FS]], [[JapanFG/marubeni-financial-services|丸紅フィナンス]], [[JapanFG/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/tokyo-century|Tokyo Century]] (the same-parent **external lease/asset finance** platform — Itochu + Mizuho FG's two-axis shareholder structure, listed 8439) and [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corp Finance]] (the closest peer trading company group-treasury arm). For the broader peer set, see [[JapanFG/mitsui-bussan-financial-services|三井物産FS]], [[JapanFG/marubeni-financial-services|Marubeni Financial Services]], [[JapanFG/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company profile
 
@@ -24,8 +24,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 |layer|subject|role|
 |---|---|---|
-|**External bank (main transaction)**|[[JapanFG/mizuho-fg|みずほ FG]] / [[JapanFG/mufg|MUFG]]|Commercial banks/foreign financial services|
-|**External lease (listed)**|[[JapanFG/tokyo-century|東京センチュリー]] (8439)|Large lease/aircraft (US ACG)/overseas projects/mobility — Itochu + Mizuho FG 2  axis|
+|**External bank (main transaction)**|[[JapanFG/mizuho-fg|Mizuho FG]] / [[JapanFG/mufg|MUFG]]|Commercial banks/foreign financial services|
+|**External lease (listed)**|[[JapanFG/tokyo-century|Tokyo Century]] (8439)|Large lease/aircraft (US ACG)/overseas projects/mobility — Itochu + Mizuho FG two-axis|
 |**Internal/Group Finance**|**ITOCHU Finance (this page)**|Internal banking / CMS / internal factoring of each group company|
 
 ## 2. Business segment map
@@ -47,13 +47,13 @@ In particular, the **Food/Household/Information** segment has many transactions 
 
 |trading company|Domestic financial subsidiary|External lease system|
 |---|---|---|
-|Itochu|**ITOCHU Finance (this page)**|[[JapanFG/tokyo-century|東京センチュリー]] (Mizuho joint venture, listed)|
-|Mitsubishi Corporation|[[JapanFG/mitsubishi-corp-finance|三菱商事FS]]|[[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (listed)|
-|Mitsui & Co.|[[JapanFG/mitsui-bussan-financial-services|三井物産FS]]|[[JapanFG/ja-mitsui-leasing|JA三井リース]]|
+|Itochu|**ITOCHU Finance (this page)**|[[JapanFG/tokyo-century|Tokyo Century]] (Mizuho joint venture, listed)|
+|Mitsubishi Corporation|[[JapanFG/mitsubishi-corp-finance|三菱商事FS]]|[[JapanFG/mitsubishi-hc-capital|Mitsubishi Hc Capital]] (listed)|
+|Mitsui & Co.|[[JapanFG/mitsui-bussan-financial-services|三井物産FS]]|[[JapanFG/ja-mitsui-leasing|Ja Mitsui Leasing]]|
 |Sumitomo Corporation|[[JapanFG/sumitomo-corp-financial-management|住友商事FM]]|[[JapanFG/smfl|SMFL]] (SMFG joint venture)|
-|Marubeni|[[JapanFG/marubeni-financial-services|丸紅フィナンス]]|[[JapanFG/mizuho-lease|みずほリース]] (strategic shareholder)|
-|Toyota Tsusho|[[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]]|captive within group|
-|Sojitz|[[JapanFG/sojitz-finance|双日フィナンス]]|No full-time job|
+|Marubeni|[[JapanFG/marubeni-financial-services|Marubeni Financial Services]]|[[JapanFG/mizuho-lease|Mizuho Lease]] (strategic shareholder)|
+|Toyota Tsusho|[[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]]|captive within group|
+|Sojitz|[[JapanFG/sojitz-finance|Sojitz Finance]]|No dedicated external lease arm identified|
 
 ## 4. Regulation/Policy
 
@@ -68,17 +68,17 @@ In particular, the **Food/Household/Information** segment has many transactions 
 
 ## Related
 
-- [[JapanFG/tokyo-century|東京センチュリー]] (External lease, same Itochu company)
-- [[JapanFG/mizuho-fg|みずほ FG]] (main bank)
-- [[JapanFG/famima-digital-one|ファミマデジタルワン]] (Payment within ITOCHU economic zone)
+- [[JapanFG/tokyo-century|Tokyo Century]] (External lease, same Itochu company)
+- [[JapanFG/mizuho-fg|Mizuho FG]] (main bank)
+- [[JapanFG/famima-digital-one|Famima Digital One]] (Payment within ITOCHU economic zone)
 - [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (peer)
 - [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] (peer)
 - [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] (peer)
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (peer)
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (peer)
-- [[JapanFG/sojitz-finance|双日フィナンス]] (peer)
+- [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] (peer)
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] (peer)
+- [[JapanFG/sojitz-finance|Sojitz Finance]] (peer)
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan Acquisition Finance]]
 
 ## Sources
 

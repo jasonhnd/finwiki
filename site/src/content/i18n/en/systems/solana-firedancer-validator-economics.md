@@ -12,7 +12,7 @@ translated_at: 2026-06-01T04:15:40.112Z
 ## TL;DR
 
 - **Firedancer** is Solana's second independent validator client, written from scratch in C/C++ by Jump Crypto; together with Anza's (formerly Solana Labs) **Agave** (Rust) and **Jito-Solana** (Agave fork + MEV), it forms a 3 -client structure
-- 2024-09  **Frankendancer** (hybrid: Firedancer network stack + Agave runtime) is live on mainnet, accounting for ~6% of mainnet stake (2026-Q2); **Full Firedancer** (fully in-house runtime including tile-based parallel execution) is planned for mainnet beta in 2026-Q4 
+- 2024-09  **Frankendancer** (hybrid: Firedancer network stack + Agave runtime) is live on mainnet, accounting for ~6% of mainnet stake (2026-Q2); **Full Firedancer** (fully in-house runtime including tile-based parallel execution) is planned for mainnet beta in 2026-Q4
 - Performance benchmarks: Frankendancer single node measured at ~50k-100k TPS (mainly from network-stack optimization); Full Firedancer testnet measured at ~1M+ TPS (theoretical ceiling; actual throughput constrained by stake-weighted QoS + consensus bandwidth)
 - **Client diversity = systemic risk mitigation**: Solana had multiple outages in 2022-2023 年 caused by Agave single-client bugs (7-9  mainnet halts); introducing Firedancer means a catastrophic bug in any one client will not halt the whole chain (see [[systems/bft-validator-economy-overview|BFT validator 経済学概観]])
 - **MEV pipeline restructuring**: Jito-Solana currently leads MEV (~95% blocks via Jito relayer); Firedancer enables an independent MEV interface design; over the long term Jito may no longer be the single path, and MEV tip economics may decentralize (Jito tip annualized estimate $300-500M 2026)
@@ -95,7 +95,7 @@ Firedancer does not change the SWQoS protocol, but indirectly mitigates the issu
 ### Validator centralization risk
 
 **Pro-decentralization arguments** (Firedancer reduces concentration):
-- Truly realizes client diversity 1 → 2 
+- Truly realizes client diversity 1 → 2
 - Improves single-node performance; small operators can participate with comparable hardware
 - Multiple MEV relayer choices; validators are not locked to Jito
 
@@ -155,7 +155,7 @@ Solana is between Ethereum and "Move-family single-client L1." Full Firedancer m
 - Top validators (high stake) have higher leader rotation probability; MEV tip concentration reflects stake concentration
 
 **Forecast after Firedancer adoption**:
-- Short term (2026-Q4 - 2027 mid): Jito still accounts for 80%+ of relayer traffic; tip economics basically unchanged
+- Short term (2026-Q4 - 2027 mid): Jito still accounts for 80%+ of relayer traffic; tip economics materially unchanged
 - Medium term (2027 H2 - 2028): multiple relayers compete; Jito share may fall to 50-60%; other relayers distribute the flow, but total validator income is unchanged
 - Long term (2028+): if a first-rate competitor relayer emerges, the MEV market may become a multi-builder structure like Flashbots/bloXroute/Manifold on Ethereum; Jito may still remain the market leader
 

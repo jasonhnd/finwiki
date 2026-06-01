@@ -11,9 +11,9 @@ translated_at: 2026-05-31T06:16:15.697Z
 # Trek Labs Japan 株式会社 — 日本加密资产交换业者（筹备法人）
 
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+本条目归入 [[exchanges/INDEX|交易所索引]]。相邻制度背景可参阅 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业注册制度：编号体系、财务局管辖与注册要求]]；更广义的监管边界可参阅 [[fintech/japan-financial-regulation|日本金融监管：代币、加密资产与支付相关法体系]]。
 
 > FSA 登记编号 **未登记（申请筹备中）** · JVCEA 会员 #2034（第二种会员） · JVCEA 加入 2024 年 12 月 5 日
 

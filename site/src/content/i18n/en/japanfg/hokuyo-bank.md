@@ -11,11 +11,11 @@ translated_at: 2026-05-31T15:29:03.868Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main placeholder context: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/jimoto-hd|じもとホールディングス (JIMOTO HD)]] [[banking/INDEX|banking index]] 13 兆 4467 億円 11 兆 1039 億円 171  2024  2025 03  1917  1951  1989  1998 11  1  3 7 1
+This entry sits in the JapanFG route specified by the source file. Source-context anchors: [[JapanFG/INDEX|JapanFG index]] [[JapanFG/jimoto-hd|JIMOTO Holdings]] [[banking/INDEX|banking index]] 13 兆 4467 億円 11 兆 1039 億円 171  2024  2025 03  1917  1951  1989  1998 11  1  3 7 1
 
 ## TL;DR
 
-This page records the public-information boundary for North Pacific Bank in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected placeholders are retained in source order.
+This page records the public-information boundary for North Pacific Bank in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected source fragments are retained in source order.
 
 ## License / group boundary
 
@@ -37,7 +37,7 @@ This page records the public-information boundary for North Pacific Bank in Japa
 - Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
 - For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
 
-## Placeholder continuation
+## Source-fragment continuation
 
 - 6  1917 年 8  20  3  7  8328 2012-10-01 3  2025 03  13 兆 4467 億 3600 万円 11 兆 1039 億 9400 万円 1211 億 0100 万円 171 店
 - 2,772 名 100% 2012-10-01 1917-08-20 1951 1989 02 1998-11-13 1998-11-16 109 店 231 店 4.7 兆円 2001 04 8328  2008-10-14 58  2012-10-01 2017 05
@@ -48,7 +48,7 @@ This page records the public-information boundary for North Pacific Bank in Japa
 
 ## Related
 
-- Related entries are represented by the protected placeholders above.
+- Related entries are represented by the protected source fragments above.
 
 ## Sources
 

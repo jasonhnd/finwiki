@@ -39,7 +39,7 @@ Retail SC faces the following double bind:
 - If a bank-issued SC is "just for payments," PayPay is already enough → there is effectively no reason to do it
 - Permissionless-oriented USDC has not grown in Japan either (Haneda Airport Nettstars 1  months 40 件; for the overall distribution channel, see [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環]])
 - "Value beyond payments" is required: the three-part set of "KYC + wallet + smart contracts" emerges as the axis of differentiation
-- Realistic use cases include things like World Cup ticket-scale 10 万円 scenarios where "electronic money with an amount cap cannot work + ID traceability is mandatory"
+- Realistic use cases include scenarios such as World Cup ticket-scale 10 万円 transactions where "electronic money with an amount cap cannot work + ID traceability is mandatory"
 
 ## Applicable When
 

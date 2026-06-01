@@ -8,38 +8,38 @@ title: "Asahi Trust / 朝日信託"
 translated_at: 2026-05-31T11:13:44.915Z
 ---
 
-# Asahi Trust / 朝日信託
+# Asahi Trust / 朝日信托
 
-Wiki route: [[JapanFG/INDEX]] -> [[JapanFG/trust-companies-japan-index]] -> [[JapanFG/asahi-trust]]
+Wiki 路线：[[JapanFG/INDEX]] -> [[JapanFG/trust-companies-japan-index]] -> [[JapanFG/asahi-trust]]
 
-## ??
+## 概览
 
-Asahi Trust is an operating-type trust company in the FSA trust-company registry. In the FinWiki map it is a standalone route for personal trust, estate planning, inheritance, and family asset-administration services, separate from trust-bank custody pages such as [[JapanFG/mitsubishi-ufj-trust-bank]] and [[JapanFG/smtb]].
+Asahi Trust 是金融厅信托公司注册表中的运营型信托公司。在 FinWiki 地图中，它是个人信托、遗产规划、继承和家族资产管理服务的独立路线，区别于 [[JapanFG/mitsubishi-ufj-trust-bank]] 和 [[JapanFG/smtb]] 等信托银行托管页面。
 
-## ????
+## 范围
 
-The page covers 株式会社朝日信託 as a licensed / registered trust-company operator. It should not be merged into a banking group page, because its public materials position it as a specialist personal-trust company rather than a bank operating company or securities broker.
+本页覆盖株式会社朝日信托这一持牌 / 注册信托公司经营主体。由于公开资料将其定位为个人信托专业公司，而非银行经营公司或证券经纪商，因此不应并入银行集团页面。
 
-## ?????
+## 分析轴
 
-| ?? | ?? |
+| 轴线 | 说明 |
 |---|---|
-| Personal trust | Estate, inheritance, and family asset administration. |
-| Trust-company registry | One row in [[JapanFG/trust-companies-japan-index]]. |
-| Banking contrast | Different from [[banking/japan-trust-bank-custody-map|trust-bank custody]] and master-trust infrastructure. |
-| Policy context | Relevant to aging-society and succession planning rather than market infrastructure. |
+| Personal trust | 遗产、继承和家族资产管理。 |
+| Trust-company registry | [[JapanFG/trust-companies-japan-index]] 中的注册表条目。 |
+| Banking contrast | 不同于 [[banking/japan-trust-bank-custody-map|信托银行托管]] 和主信托基础设施。 |
+| Policy context | 主要关联老龄化社会和继承规划，而非市场基础设施。 |
 
-## ????
+## 为什么重要
 
-Asahi Trust matters because it represents the non-bank personal-trust layer in Japan. It gives FinWiki a route from [[insurance/japan-life-insurance-big-four|life-insurance succession context]] and inheritance planning into the formal trust-company registry, without treating every family-wealth service as a trust bank.
+Asahi Trust 代表日本非银行个人信托层。它为 FinWiki 提供一条从 [[insurance/japan-life-insurance-big-four|寿险继承语境]] 和继承规划进入正式信托公司注册表的路线，同时避免把所有家族财富服务都误读为信托银行业务。
 
-## ????
+## 后续关注
 
-1. Track disclosure updates on official personal-trust service categories.
-2. Compare its inheritance / estate route with [[JapanFG/oag-trust]] and [[JapanFG/nichizei-trust]].
-3. Keep the FSA registration date and corporate-number row aligned with the registry index.
+1. 跟踪官方个人信托服务类别的披露更新。
+2. 将其继承 / 遗产服务路线与 [[JapanFG/oag-trust]] 和 [[JapanFG/nichizei-trust]] 对照。
+3. 保持金融厅注册日期和法人编号条目与注册表索引一致。
 
-## ????
+## Related
 
 - [[JapanFG/trust-companies-japan-index]]
 - [[JapanFG/oag-trust]]
@@ -47,8 +47,8 @@ Asahi Trust matters because it represents the non-bank personal-trust layer in J
 - [[banking/japan-trust-bank-custody-map]]
 - [[INDEX|FinWiki index]]
 
-## ??
+## 资料来源
 
-- FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
-- Asahi Trust official site: https://www.a-t.jp/
-- Asahi Trust company profile: https://www.a-t.jp/company/
+- 金融厅信托公司列表：https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx
+- Asahi Trust 官方网站：https://www.a-t.jp/
+- Asahi Trust 公司概要：https://www.a-t.jp/company/

@@ -11,9 +11,9 @@ translated_at: 2026-05-31T06:16:15.690Z
 # 日本投资银行联赛表
 
 
-## Wiki route
+## Wiki 路由
 
-This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/cross-border-m-a-japan|Cross-border M&A Japan]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+本条目位于 [[finance/INDEX|finance index]]。同业 / 对照语境见 [[finance/cross-border-m-a-japan|Cross-border M&A Japan]]，更广泛的系统和监管边界见 [[securities/INDEX|securities index]]。
 
 ## TL;DR
 

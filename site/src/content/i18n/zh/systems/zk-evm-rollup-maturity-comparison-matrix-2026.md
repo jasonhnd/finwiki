@@ -4,22 +4,22 @@ source_hash: cd9fc019515ed5fa
 lang: zh
 status: machine
 fidelity: ok
-title: "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9  个 rollup 的 proving system / TVL / DA / decentralization"
+title: "ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup 的证明系统 / TVL / 数据可用性 / 去中心化"
 translated_at: 2026-06-01T04:15:40.156Z
 ---
-# ZK-EVM Rollup 成熟度对照矩阵 2026 · 9  个 rollup 的 proving system / TVL / DA / decentralization
+# ZK-EVM Rollup 成熟度对照矩阵 2026 · 9 个 rollup 的证明系统 / TVL / 数据可用性 / 去中心化
 
 ## TL;DR
 
-- 对 9  个 active ZK-EVM / ZK-rollup，按 2026-Q2  时点的 **EVM equivalence · proving system · proof time · gas cost · TVL · mainnet maturity · decentralization · ecosystem · DA layer** 共 9  个轴进行对照
+- 对 9 个活跃 ZK-EVM / ZK-rollup，按 2026-Q2 时点的 **EVM 等价性 · 证明系统 · 证明生成时间 · Gas 成本 · TVL · 主网成熟度 · 去中心化程度 · 生态 · 数据可用性层** 共 9 个轴进行对照
 - **EVM equivalence ladder**(Vitalik Type 1-4):Linea/Scroll → Type 2(EVM-equivalent · 99%)· Polygon zkEVM → Type 2.5 → 正在向 Type 1  演进 · zkSync Era → Type 4(EVM-compatible · 不同 bytecode)· StarkNet → Type 4(Cairo native · Solidity 通过 Kakarot)· Taiko → Type 1(完全 EVM-equivalent · base-rollup 模型)· Miden → 非 EVM(私有执行 + Solidity bridge)
-- **Proving system 5  大主流**:Plonky2(Polygon · STARK→SNARK 递归)· Boojum(zkSync · STARK + FRI)· Cairo-STARK(StarkNet)· Halo2 / Recursive Halo2(Scroll · Taiko · PSE 派)· EVM Prover(Linea · zk-SNARK with vk2.0)
+- **五类主流证明系统**：Plonky2（Polygon · STARK→SNARK 递归）· Boojum（zkSync · STARK + FRI）· Cairo-STARK（StarkNet）· Halo2 / Recursive Halo2（Scroll · Taiko · PSE 派）· EVM Prover（Linea · zk-SNARK with vk2.0）
 - **TVL 2026-Q2  估计**:zkSync Era ~$2.0B · Linea ~$1.2B · Polygon zkEVM ~$800M · Scroll ~$700M · StarkNet ~$650M · Taiko ~$350M · Immutable zkEVM ~$280M · Miden ~$30M · Kakarot ~$15M(early)
-- **DA layer 选择**:大部分仍使用 L1 blobs(EIP-4844 · 参见 [[systems/pectra-eip-7691-blob-l2-impact]])· 少数选择 alt-DA:Polygon zkEVM 提供 validium 模式 · StarkNet Volition · Miden 自有 P2P · Kakarot 探索 Celestia · Linea/Scroll/Taiko 默认 L1
+- **数据可用性层选择**：大部分仍使用 L1 blobs（EIP-4844 · 参见 [[systems/pectra-eip-7691-blob-l2-impact]]）；少数选择 alt-DA：Polygon zkEVM 提供 validium 模式，StarkNet 使用 Volition，Miden 使用自有 P2P，Kakarot 探索 Celestia，Linea / Scroll / Taiko 默认使用 L1。
 
 - 路由:与 [[systems/INDEX|systems index]] · [[systems/cross-chain-five-pole-comparison-matrix]] 对照(rollup 间 messaging 选定)
 
-## Wiki route
+## Wiki 路线
 
 本条目位于 [[systems/INDEX|systems index]] 下。请结合 [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 · blob 倍増と L2 経済連鎖]] 阅读驱动 rollup gas cost 的 L1 blob capacity 语境，并结合 [[systems/pectra-upgrade-overview|Pectra upgrade overview]] 阅读更广泛的 Ethereum upgrade landscape。与 [[systems/vitalik-l1-l2-strategy-anchor|Vitalik L1/L2 strategy anchor]] 配对阅读，以理解“L2 carrying 99% of users”的 meta-strategy。Proving system 深入见 [[systems/multi-proof-aggregation-fault-prover|multi-proof aggregation fault prover]] 和 [[systems/formal-spec-implementation-codesign|formal spec implementation codesign]]。长期 cryptographic risk 见 [[systems/post-quantum-blockchain-day1-integration|post-quantum blockchain day-1 integration]]。Restaking-backed DA(EigenDA 服务本矩阵中的若干 rollups)见 [[systems/eigenlayer-overview|EigenLayer overview]]。推理时请 cross-link 至 [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]]，对象是 L2-to-L2 messaging。
 
@@ -29,7 +29,7 @@ ZK-EVM rollup 在 2023-2025 年 集中 mainnet 稼动后，从“技术路线之
 
 机构客户(参见 [[systems/chainlink-ccip-institutional-messaging|CCIP institutional]] 的 J.P. Morgan Kinexys / DTCC / SWIFT pilot)同样需要决定“tokenized 资产在哪个 L2  settle”。机构关注的不是 TPS，而是 **prover/sequencer 的 decentralization**(当前所有 ZK-EVM 的 sequencer 都是中心化，prover 大多中心化)、**upgrade governance**(可在 challenge window 内升级 smart contracts = 实际控制资金)、**DA layer 风险**(使用 validium 时，数据可用性依赖外部委员会)。
 
-本矩阵对公开运行中的 9  个 ZK-EVM / ZK-rollup 进行对照，横向展开 9  个轴，数据快照为 2026-Q2 。Optimistic rollup(Arbitrum / Optimism / Base / Blast)不包含在本矩阵中，请参见另行的 optimistic 矩阵(TBD)。
+本矩阵对公开运行中的 9 个 ZK-EVM / ZK-rollup 进行对照，横向展开 9 个轴，数据快照为 2026-Q2。Optimistic rollup（Arbitrum / Optimism / Base / Blast）不包含在本矩阵中，应参见另行规划的 optimistic rollup 矩阵。
 
 ## Per-rollup sections
 
@@ -213,11 +213,11 @@ ZK-EVM rollup 在 2023-2025 年 集中 mainnet 稼动后，从“技术路线之
 
 **DA layer**:默认 L1 blobs · 一部分 NFT metadata 通过 validium(DAC 模式)降低成本。
 
-## Big comparison matrix table
+## 大型对照矩阵
 
 **9  个 ZK-EVM / ZK-rollup × 9  轴对照**(2026-Q2  状态):
 
-| Rollup | EVM Type | Proving System | Proof Time | Gas Cost | TVL May 2026 | Mainnet Maturity | Seq/Prover Decentralization | Ecosystem | DA Layer |
+| Rollup | EVM 类型 | 证明系统 | 证明生成时间 | Gas 成本 | 2026-05 TVL | 主网成熟度 | Sequencer / prover 去中心化 | 生态 | 数据可用性层 |
 |---|---|---|---|---|---|---|---|---|---|
 | **Polygon zkEVM / AggLayer** | Type 2.5(target Type 1)| Plonky2/3(STARK→SNARK) | 5-10  分钟 | sub-cent | $800M | 2023-03 · Stage 1 | Seq 中心化 · Prover 5 社network · 7d timelock + SC 7/13 | ~150 dApp · QuickSwap · Polygon ID · Franklin Templeton pilot | L1 blobs + Validium 模式 · AggLayer unifier |
 | **zkSync Era** | Type 4(zkSolc) | Boojum(STARK+FRI) | 10-15  分钟 | sub-cent($0.001-0.005)· AA native | $2.0B | 2023-03 · Stage 1 | Seq 中心化 · Prover Matter Labs+1-2 · 21d timelock + SC 9/15 | ~250 dApp · SyncSwap · Aave · Argent · ZK Stack hyperchains | L1 blobs · Validium("zkPorter") 延期 · hyperchains 可选 EigenDA/Celestia |
@@ -235,7 +235,7 @@ ZK-EVM rollup 在 2023-2025 年 集中 mainnet 稼动后，从“技术路线之
 - **Decentralization 真实状态**:**所有 ZK-EVM 的 sequencer 都是中心化**(2026-Q2)· 唯一例外是 Taiko based rollup。Prover decentralization 进度为 Polygon(5 社network)> Scroll/StarkNet(SDK 开放)> 其他(团队主导)
 - **TVL 与 ecosystem traction 不完全相关**:zkSync $2.0B 高 TVL，但 Type 4  限制开发者迁移成本；Linea $1.2B 借助 MetaMask 流量优势；Scroll/Polygon Type 2 + 中等 TVL 是“balanced choice”
 
-## Boundary cases / future trajectory
+## 边界情形和未来路径
 
 **EVM equivalence ladder 的演进方向**:Polygon zkEVM 公开 roadmap 要在 2027 年 达到 Type 1 。Taiko 已是 Type 1 ，是其他 ZK-EVM 的 reference benchmark。zkSync Era 和 StarkNet 维持 Type 4  哲学(prove cost 优化 · 接受 dev tooling cost)。Linea 和 Scroll 稳定在 Type 2 ，没有升级到 Type 1  的计划(判断最后的 1% 兼容性投入产出比低)。
 
@@ -258,7 +258,7 @@ ZK-EVM rollup 在 2023-2025 年 集中 mainnet 稼动后，从“技术路线之
 
 **Formal verification 进展**:ZK-EVM 是 formal spec implementation co-design(参见 [[systems/formal-spec-implementation-codesign|formal spec implementation codesign]])的天然舞台——Solidity / EVM spec + ZK circuit spec 的双 spec 一致性是核心安全点。Linea 和 Consensys Diligence team 公开 formal verification 进展。Scroll 与 PSE 长期进行学术合作。zkSync Boojum prover 由 Galois 独立 audit。
 
-**机构 vs DeFi 选定**:
+**机构 vs DeFi 选择**：
 - Institutional(tokenized fund · DvP · 监管合规):Linea(MetaMask Institutional integration · Consensys 背书)· Scroll(EVM-equivalent + L1 DA 纯度)· Polygon zkEVM(Franklin Templeton pilot 先例)
 - DeFi-native(高 TPS · long-tail dApp):zkSync Era · StarkNet · Polygon AggLayer
 - Gaming-specific:ImmutableX

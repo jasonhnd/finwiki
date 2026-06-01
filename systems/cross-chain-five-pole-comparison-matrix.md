@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/cross-chain-four-poles-overview]] as the parent overview and [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] for matched protocol selection. Pair with each pole's standalone entry — [[systems/cctp-v2-overview]] · [[systems/chainlink-ccip-institutional-messaging]] · [[systems/layerzero-v2-omnichain-messaging]] · [[systems/hyperlane-overview]] — and read it against [[fintech/usd-stablecoin-interchange]] for the stablecoin transfer context that drives ≥60% of cross-chain volume. Wormhole has no standalone entry yet (TBD).
+このページは [[systems/INDEX|systems index]] 配下の比較マトリクスであり、[[systems/cross-chain-four-poles-overview]] を親概観、[[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]] を実務上の選択軸として読む。個別プロトコルは [[systems/cctp-v2-overview]]、[[systems/chainlink-ccip-institutional-messaging]]、[[systems/layerzero-v2-omnichain-messaging]]、[[systems/hyperlane-overview]] と接続し、ステーブルコイン移転の需要側文脈は [[fintech/usd-stablecoin-interchange]] と照合する。
 
 ## Key facts
 

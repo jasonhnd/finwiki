@@ -10,11 +10,11 @@ translated_at: 2026-06-01T00:41:50.453Z
 # Northern Trust Japan
 
 > [!note] Naming note
-> This page was initially requested under the slot "orient-trust-japan". Because no independent "Orient Trust" entity can be confirmed in Japan, and because Orient Corporation [[JapanFG/orico]] is a consumer-credit company in a different category while Toyo Trust Bank was an old UFJ-line bank now integrated into [[JapanFG/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]], this slot is filled with **Northern Trust Japan** as a foreign-affiliated trust subsidiary substitute.
+> This page was initially requested under the slot "orient-trust-japan". Because no independent "Orient Trust" entity can be confirmed in Japan, and because Orient Corporation [[JapanFG/orico]] is a consumer-credit company in a different category while Toyo Trust Bank was an old UFJ-line bank now integrated into [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]], this slot is filled with **Northern Trust Japan** as a foreign-affiliated trust subsidiary substitute.
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[JapanFG/state-street-japan|State Street Japan]] / [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] / [[JapanFG/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[JapanFG/master-trust-bank|マスタートラスト信託銀行]] / [[JapanFG/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] for the domestic trust peer cluster, [[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[JapanFG/state-street-japan|State Street Japan]] / [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] / [[JapanFG/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] / [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] for the domestic trust peer cluster, [[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
 
 ## 1. Parent-company overview
 
@@ -25,8 +25,8 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **foreign-affiliated 
 | Founded | **1889**, one of the long-established major U.S. financial institutions ^[extracted] |
 | Ticker | NASDAQ: **NTRS** |
 | Business type | Wealthy-client private bank + institutional investor services (C&IS = Corporate & Institutional Services) |
-| Global AUC/A | About 16 兆 dollars (2024), one of the 3  major U.S. custodians ^[extracted] |
-| Global AUM | About 1.5 兆 dollars (2024) ^[extracted] |
+| Global AUC/A | About 16 trillion dollars (2024), one of the 3  major U.S. custodians ^[extracted] |
+| Global AUM | About 1.5 trillion dollars (2024) ^[extracted] |
 | Regulatory-capital status | Supervised by the U.S. FRB, not designated as a G-SIB; mid-sized G-scale institution |
 
 ## 2. Japan entity composition, based on public information
@@ -57,15 +57,15 @@ Northern Trust Corporation (U.S., NASDAQ: NTRS)
 ### Key customer types
 
 - **GPIF, the Government Pension Investment Fund**: one of the overseas-asset custody providers for the public pension fund ^[likely]
-- **Major life and non-life insurers**: custody for overseas investment assets of [[JapanFG/dai-ichi-life|第一生命]] / [[JapanFG/nippon-life|日本生命]] / [[JapanFG/tokio-marine|東京海上]] and similar insurers
-- **Major asset managers**: fund administration and custody for [[JapanFG/nomura-am|野村アセットマネジメント]] / [[JapanFG/daiwa-am|大和アセットマネジメント]] / [[JapanFG/mitsubishi-ufj-am|三菱 UFJ アセットマネジメント]] and similar firms
+- **Major life and non-life insurers**: custody for overseas investment assets of [[JapanFG/dai-ichi-life|Dai-ichi Life]] / [[JapanFG/nippon-life|Nippon Life]] / [[JapanFG/tokio-marine|Tokio Marine]] and similar insurers
+- **Major asset managers**: fund administration and custody for [[JapanFG/nomura-am|Nomura Asset Management]] / [[JapanFG/daiwa-am|Daiwa Asset Management]] / [[JapanFG/mitsubishi-ufj-am|Mitsubishi UFJ Asset Management]] and similar firms
 - **Large corporate pension funds**: custody for overseas-asset allocations
 
 ## 4. Parent-company and Japan competitive positioning
 
-| Comparison axis | Northern Trust | [[JapanFG/state-street-japan|State Street]] | [[JapanFG/bny-mellon-japan|BNY Mellon]] | [[JapanFG/master-trust-bank|マスタートラスト信託]] |
+| Comparison axis | Northern Trust | [[JapanFG/state-street-japan|State Street]] | [[JapanFG/bny-mellon-japan|BNY Mellon]] | [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] |
 |---|---|---|---|---|
-| Global rank | U.S. 3  major custodian, 3  axis | World No. 2, AUC/A about 53 兆 dollars | World No. 1, AUC/A about 59 兆 dollars | Major domestic trust bank, Japanese-bank group |
+| Global rank | U.S. 3  major custodian, 3  axis | World No. 2, AUC/A about 53 trillion dollars | World No. 1, AUC/A about 59 trillion dollars | Major domestic trust bank, Japanese-bank group |
 | Japan focus | Institutional investor services + wealthy clients, limited | Institutional services + SSGA asset management | Institutional services + asset management | Domestic trust and major GPIF mandate bank |
 | ETF / asset management | Asset-management division, mainly U.S. | SSGA, manager of SPDR ETFs | BNY Mellon IM | Mainly administration, with management mostly in affiliates |
 | Japan trust-bank license | Held by Global Services Japan | State Street Trust and Banking | Japan trust subsidiary | Japanese-bank trust entity |
@@ -81,9 +81,9 @@ Northern Trust Corporation (U.S., NASDAQ: NTRS)
 
 | Metric | Scale |
 |---|---|
-| Parent global AUC/A | About 16.8 兆 dollars (2024-12-31, Northern Trust Corp 10-K / 4Q24  results) |
-| Parent global AUM | About 1.5 兆 dollars (2024) |
-| Parent global employee count | About 23,000 名, Northern Trust official data |
+| Parent global AUC/A | About 16.8 trillion dollars (2024-12-31, Northern Trust Corp 10-K / 4Q24  results) |
+| Parent global AUM | About 1.5 trillion dollars (2024) |
+| Parent global employee count | About 23,000 employees, Northern Trust official data |
 | Japan entity employee count | n.d.; not disclosed by Japan entity |
 | Japan entity AUC/A | Included in parent global totals and not disclosed separately |
 | Japan customer profile | Large institutional investors, including GPIF, major life / non-life insurers, and major asset managers |
@@ -103,14 +103,14 @@ Northern Trust Corporation (U.S., NASDAQ: NTRS)
 
 ### 6.3 . Division of labor with Japanese-bank trust banks
 
-- **Japanese-bank trust banks** such as [[JapanFG/master-trust-bank|マスタートラスト信託]], [[JapanFG/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]], and [[JapanFG/sumitomo-mitsui-trust|住信トラスト]] have overwhelming share in custody and management mandates for domestic assets.
+- **Japanese-bank trust banks** such as [[JapanFG/master-trust-bank|Master Trust Bank of Japan]], [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]], and [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] have overwhelming share in custody and management mandates for domestic assets.
 - Foreign custodians such as Northern Trust specialize in **overseas-asset custody mandates**.
 
 ### 6.4 . Wealthy-client private bank, United States
 
 - Northern Trust's **core business since founding** is private banking for wealthy Chicago clients, dating from its 1889  opening.
 - It has deep client relationships in wealth management, trust, and estate administration for ultra-high-net-worth U.S. clients.
-- In Japan, it does not directly compete with private-bank players such as UBS [[JapanFG/ubs-japan]] / [[JapanFG/lgt-wealth-management-trust|LGT]] / [[JapanFG/smbc-trust-bank|SMBC 信託（PRESTIA）]] and instead focuses on the institutional investor channel.
+- In Japan, it does not directly compete with private-bank players such as UBS [[JapanFG/ubs-japan]] / [[JapanFG/lgt-wealth-management-trust|LGT]] / [[JapanFG/smbc-trust-bank|SMBC Trust (PRESTIA)]] and instead focuses on the institutional investor channel.
 
 ## 7. Regulation / supervision
 
@@ -150,4 +150,4 @@ Northern Trust Corporation (U.S., NASDAQ: NTRS)
 ---
 
 > [!info] Review status
-> confidence: **likely** (v1.0  public-information base, extracted 2026-05-25). The parent NTRS listing, status as the 3  axis among the 3  major U.S. custodians, global AUC/A of about 16.8 兆 dollars (2024-12-31, SEC 10-K), and Japan presence are confirmed from public information. Japan-entity employee count is not disclosed and is marked n.d. Exact Japanese legal names, locations, representatives, and employee counts should be supplemented in the next update from FSA registration lists and the Northern Trust official Japan page. GPIF mandate-provider status is an inference (^[likely]).
+> confidence: **likely** (v1.0  public-information base, extracted 2026-05-25). The parent NTRS listing, status as the 3  axis among the 3  major U.S. custodians, global AUC/A of about 16.8 trillion dollars (2024-12-31, SEC 10-K), and Japan presence are confirmed from public information. Japan-entity employee count is not disclosed and is marked n.d. Exact Japanese legal names, locations, representatives, and employee counts should be supplemented in the next update from FSA registration lists and the Northern Trust official Japan page. GPIF mandate-provider status is an inference (^[likely]).

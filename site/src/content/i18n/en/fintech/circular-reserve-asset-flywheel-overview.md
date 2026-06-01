@@ -12,16 +12,16 @@ translated_at: 2026-05-31T06:16:15.693Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation — legal architecture for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal regime's three-layer structure (JPYC, USDC, Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> BlackRock BUIDL (tokenized Treasury MMF) has become a core component of Circle USDC's reserves. Interest earned from the BUIDL that Circle holds flows back into BUIDL → pushes up BUIDL AUM → further "BUIDLifies" Circle's reserves. This is a **interest → reserve → AUM → interest** self-reinforcing systemic interlock flywheel, and since 2026 年 it is likely to serve as a reference case when stablecoin regulators define "reserve concentration risk."
+> BlackRock BUIDL (tokenized Treasury MMF) has become a core component of Circle USDC's reserves. Interest earned from the BUIDL that Circle holds flows back into BUIDL → pushes up BUIDL AUM → further "BUIDLifies" Circle's reserves. This is an **interest → reserve → AUM → interest** self-reinforcing systemic interlock flywheel, and since 2026 it is likely to serve as a reference case when stablecoin regulators define "reserve concentration risk."
 
 ## Key facts
 
-- BUIDL launched 2024.03  · AUM grew 4-5x during 2025 年 (estimated $2.5-3B) ^[extracted]
+- BUIDL launched 2024.03  · AUM grew 4-5x during 2025 (estimated $2.5-3B) ^[extracted]
 - Circle was one of BUIDL's largest institutional LPs from early on (officially stated in Circle 2025.04 ) ^[extracted]
-- Circle 2024 年 interest income $1.7-1.8B · of which ~$905M distributed to Coinbase ^[extracted]
+- Circle 2024 interest income was $1.7-1.8B, of which approximately $905M was distributed to Coinbase. ^[extracted]
 
 ## Mechanism / How it works
 
@@ -35,7 +35,7 @@ Interlock structure = self-reinforcing feedback loop:
 [Circle net interest income] ──distributes 50% to Coinbase + reinvests into BUIDL──┘
 ```
 
-Every $1  Circle deposits into BUIDL → BlackRock earns 0.5% management fee → net 4% interest returns to Circle → 50% distributed to Coinbase + 50% retained → retained portion buys BUIDL again. As long as the "retained → reinvestment" ratio exceeds 0 , BUIDL's share of reserves **rises monotonically** until an external force (regulatory cap / Circle's voluntary diversification / competing MMF share capture) intervenes. The same reflexive loop appears in other issuer relationships in [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL × SC issuer マトリクス]] (USDB / USDtb / sfrxUSD / OUSG).
+Every $1 Circle deposits into BUIDL → BlackRock earns a 0.5% management fee → net 4% interest returns to Circle → 50% is distributed to Coinbase and 50% retained → the retained portion buys BUIDL again. As long as the "retained → reinvestment" ratio exceeds 0, BUIDL's share of reserves **rises monotonically** until an external force (regulatory cap / Circle's voluntary diversification / competing MMF share capture) intervenes. The same reflexive loop appears in other issuer relationships in [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL × SC issuer matrix]] (USDB / USDtb / sfrxUSD / OUSG).
 
 ## Origin & evolution
 
@@ -44,12 +44,12 @@ Every $1  Circle deposits into BUIDL → BlackRock earns 0.5% management fee →
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/circular-reserve-asset-flywheel-risk-cases|準備金インターロック · 三層リスクシナリオ]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Coinbase ↔ Circle 50/50 モデル]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン収益分配エコノミクス]]
+- [[fintech/circular-reserve-asset-flywheel-risk-cases|Reserve interlock · three-layer risk scenarios]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Coinbase ↔ Circle 50/50 model]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|On-chain finance vs separation from crypto culture]]
+- [[fintech/stablecoin-revenue-split-economics|Stablecoin revenue-distribution economics]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Circle 2024 年 quarterly report + prospectus · BUIDL 2024.03  launch announcement
+- Circle 2024 quarterly report + prospectus · BUIDL 2024.03 launch announcement

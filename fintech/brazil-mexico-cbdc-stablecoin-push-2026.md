@@ -60,7 +60,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/em
 
 1. **資産範囲の拡大**: 第 1 ラウンドは国債 + 不動産トークン化のみテスト;第 2 ラウンドでは企業債 / 売掛債権 / 農産物倉荷証券 / セカンダリ市場決済 / FX 交換を追加
 2. **機関数**: 2023 年の 9 社から 16 社に拡大
-3. **暗号ネイティブ・プレイヤーの参入**: Mercado Bitcoin が初の DREX 試験運用資格を取得した暗号取引所となり、「プライベートチェーン CBDC + パブリックチェーン SC」の相互運用試行のマイルストーンに
+3. **暗号資産ネイティブ事業者の参入**: Mercado Bitcoin が初の DREX 試験運用資格を取得した暗号取引所となり、「プライベートチェーン CBDC + パブリックチェーン SC」の相互運用試行のマイルストーンに
 4. **クロスボーダー接続**: BCB は BIS Innovation Hub と mBridge モデルとの互換性経路について検討中（[[fintech/mbridge-bis-multi-cbdc-overview|mBridge マルチ CBDC 概要]] 参照）だが、ブラジルは mBridge 6 か国メンバー **ではない**
 
 **DREX と Pix の関係**: Pix（BCB 即時決済システム、2020 ローンチ）はすでにブラジル国民レベルの決済チャネルとなっており、月次取引量 60 億件超。DREX は Pix を置き換えるのではなく、Pix の上にプログラマビリティ + アトミック決済の層を金融機関向けに付加する。**Pix 国民レベル + DREX 機関レベル + Mercado Bitcoin BRL SC 暗号ネイティブ・レベル** = ブラジル決済層の三軌道アーキテクチャ。

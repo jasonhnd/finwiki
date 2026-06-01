@@ -8,21 +8,21 @@ title: "全球 DEX Aggregator 比较矩阵 · 8大 Aggregator 横向对照"
 translated_at: 2026-05-31T03:19:56.366Z
 ---
 
-# 全球 DEX Aggregator 比较矩阵 · 8大 Aggregator 横向对照
+# 全球 DEX 聚合器比较矩阵 · 8 大聚合器横向对照
 
 ## TL;DR
 
-- 以 2026-Q2时点,从 **chain coverage · routing model · MEV protection · gas relay · daily volume · fee model · partner integration · governance token** 的 8个轴,对 8大 DEX aggregator 进行对照
-- **Routing model 3大象限**:**on-chain pathfinder**(1inch · ParaSwap · KyberSwap · OpenOcean · OKX DEX)· **RFQ (Request-For-Quote / market maker quote)**(0x Protocol · Matcha · OKX DEX 也含 RFQ)· **batch auction**(CowSwap / CoW Protocol)— Jupiter 是 Solana ecosystem 专用的 SVM aggregator
-- **Chain coverage 的分化**:EVM-heavy(1inch · 0x · CowSwap · ParaSwap · KyberSwap · OpenOcean · OKX DEX)vs Solana-only(Jupiter)· 真正的 multi-VM aggregator 尚不存在(OpenOcean 是同时覆盖 EVM + Solana 的少数例子之一,但 Solana 路径实质上搭乘 Jupiter sub-routing)
-- **MEV protection 的 3大机制**:**CoW Protocol 的 batch auction + uniform clearing price**(结构上消除 MEV)· **1inch Fusion / 0x Settler 的 intent-based + signed quote**(几乎抵消 MEV)· **flashbots private mempool** 封装(部分 aggregator 已整合)— Jupiter 在 Solana 上的 MEV 以 Jito tip 模式缓解
-- **Daily volume**(2026-Q2估算):1inch ~$1.5-2B · Jupiter ~$1-2B(Solana 的 70%+ 的 routing 经此)· 0x/Matcha ~$0.8-1.2B · CowSwap ~$0.4-0.6B · KyberSwap / OKX DEX ~$0.3-0.5B · ParaSwap / OpenOcean 各 ~$0.2-0.4B
-- **Governance token**:1INCH · ZRX · COW · JUP · KNC · OKB(OKX 本体的 token）· PSP(2024 launch 的 ParaSwap）· OpenOcean OOE · 各自的治理模式与 fee distribution 差异巨大
-- 关联:[[exchanges/global-dex-major-five-comparison|global DEX 5強]](DEX 比较)· [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX]](Solana 6层)· 本矩阵专注于 8 aggregator 横向
+- 以 2026-Q2 为观察时点，从 **链覆盖、路由模型、MEV 防护、Gas 中继、日交易量、费用模型、合作方集成、治理代币** 八个维度，对 8 大 DEX 聚合器进行横向比较。
+- **路由模型三大象限**：链上路径搜索（1inch、ParaSwap、KyberSwap、OpenOcean、OKX DEX）、RFQ / 做市商报价（0x Protocol、Matcha、OKX DEX）以及批量拍卖（CowSwap / CoW Protocol）。Jupiter 则是 Solana 生态专用的 SVM 聚合器。
+- **链覆盖分化**：1inch、0x、CowSwap、ParaSwap、KyberSwap、OpenOcean、OKX DEX 以 EVM 为主；Jupiter 专注 Solana。真正的 multi-VM 聚合器仍较少，OpenOcean 是少数同时覆盖 EVM 与 Solana 的例子之一。
+- **MEV 防护三类机制**：CoW Protocol 通过批量拍卖与统一清算价格在结构上消除 MEV；1inch Fusion 和 0x Settler 通过 intent-based 与签名报价显著压缩 MEV；部分聚合器通过 private mempool 封装降低抢跑风险。
+- **日交易量（2026-Q2 估算）**：1inch 约 15-20 亿美元，Jupiter 约 10-20 亿美元，0x / Matcha 约 8-12 亿美元，CowSwap 约 4-6 亿美元，KyberSwap / OKX DEX 约 3-5 亿美元，ParaSwap / OpenOcean 各约 2-4 亿美元。
+- **治理代币**：1INCH、ZRX、COW、JUP、KNC、OKB、PSP、OOE 等代币的治理权、费用分配和协议捕获方式差异显著。
+- 相关页面：[[exchanges/global-dex-major-five-comparison|全球主要 DEX 五强比较]]、[[exchanges/solana-ecosystem-dex-comparison|Solana 生态 DEX 比较]]。本矩阵聚焦聚合器层，而非底层流动性池。
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global DEX 主要 5 社比較]] for the underlying DEX pool layer, [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX comparison]] for the Solana SVM aggregator/DEX stack, [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 comparison]] for the perp-only segment, and [[exchanges/native-dex-flip-incumbent-pattern|native DEX flip incumbent pattern]] for chain-specific DEX dynamics. For peer Solana DEX deep dives see [[exchanges/dex-jito-solana|Jito Solana]] · [[exchanges/dex-raydium-solana|Raydium]] · [[exchanges/dex-orca-solana|Orca]] · [[exchanges/dex-pendle|Pendle]]. For the AMM evolutionary tree see [[exchanges/amm-design-evolution|AMM design evolution]] and [[exchanges/vetoken-host-protocol-flywheel|veToken host protocol flywheel]]. For MEV / order-flow architectural context see [[systems/mev-flashbots-suave-order-flow-auction|MEV Flashbots Suave order-flow auction]]. For broader CEX 競争 framing see [[exchanges/global-cex-top10-comparison|global CEX top 10 比較]] and [[exchanges/cex-api-sdk-ecosystem-comparison|CEX API SDK ecosystem]]. For regulatory framing see [[exchanges/fsa-vasp-registration-system|FSA VASP registration]] · [[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]] · [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory matrix]].
+本条目位于 [[exchanges/INDEX|交易所索引]] 之下。底层流动性池可参照 [[exchanges/global-dex-major-five-comparison|全球主要 DEX 五强比较]]；Solana SVM 聚合器与 DEX 栈可参照 [[exchanges/solana-ecosystem-dex-comparison|Solana 生态 DEX 比较]]；永续合约专门赛道可参照 [[exchanges/global-perp-dex-five-comparison|全球永续 DEX 五强比较]]；链原生 DEX 动态可参照 [[exchanges/native-dex-flip-incumbent-pattern|链原生 DEX 反转既有格局模式]]。MEV 与订单流结构可参照 [[systems/mev-flashbots-suave-order-flow-auction|MEV / Flashbots / SUAVE 订单流拍卖]]；监管框架可参照 [[exchanges/fsa-vasp-registration-system|FSA VASP 注册]]、[[exchanges/eu-mica-casp-regime-overview|EU MiCA CASP]] 和 [[exchanges/global-vasp-regulatory-comparison-matrix|全球 VASP 监管比较矩阵]]。
 
 ## 为何需要这个矩阵
 

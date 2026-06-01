@@ -29,7 +29,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Mechanism / How it works
 
-クロスチェーンメッセージ(arbitrary message passing、AMP)は 2024-2026 年のチェーン間相互運用における主流の抽象化である。三大プレイヤーの位置づけの差異:
+クロスチェーンメッセージング（arbitrary message passing、AMP）は、2024-2026 年のチェーン間相互運用における主流の抽象化である。主要プロトコルの位置づけの差異:
 
 | プロトコル | 展開モデル | 検証方式 |
 |---|---|---|

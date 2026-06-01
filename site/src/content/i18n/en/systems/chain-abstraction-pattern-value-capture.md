@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.179Z
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chain-abstraction-pattern-overview|チェーン抽象モデル概観 · ユーザーが基盤チェーンを意識しない次世代インフラ]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/chain-abstraction-pattern-overview|Chain-abstraction model overview: next-generation infrastructure where users do not need to notice the underlying chain]] for peer / contrast context and [[fintech/INDEX|fintech index]] for the broader system / regulatory boundary.
 
 ## Key facts
 
@@ -34,14 +34,14 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Origin & evolution
 
-2017-2019  Early cross-chain methods such as Atomic Swap / WBTC, without standardized protocols. 2020-2021  General-purpose cross-chain bridges such as Wormhole / Multichain / Axelar rose → an era of high fees + high TVL. 2022  Wormhole was attacked and suffered a $325M loss → cross-chain bridge risk became visible. 2023  Next-generation cross-chain architectures such as LayerZero / Hyperlane / Across rose → technical routes diversified, but fees compressed. 2024+ Cross-chain bridge profits compressed, and value shifted upward to the chain-abstraction layer. AggLayer / NEAR Intents / Across pivoted toward "chain abstraction + solver market." 2025-2026  Cross-chain bridge service providers shifted one after another: LayerZero now prefers to call itself "omnichain messaging infrastructure," not a "bridge" (see the latest slices of [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] and [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX クロスチェーンブリッジ]]).
+2017-2019  Early cross-chain methods such as Atomic Swap / WBTC, without standardized protocols. 2020-2021  General-purpose cross-chain bridges such as Wormhole / Multichain / Axelar rose → an era of high fees + high TVL. 2022  Wormhole was attacked and suffered a $325M loss → cross-chain bridge risk became visible. 2023  Next-generation cross-chain architectures such as LayerZero / Hyperlane / Across rose → technical routes diversified, but fees compressed. 2024+ Cross-chain bridge profits compressed, and value shifted upward to the chain-abstraction layer. AggLayer / NEAR Intents / Across pivoted toward "chain abstraction + solver market." 2025-2026  Cross-chain bridge service providers shifted one after another: LayerZero now prefers to call itself "omnichain messaging infrastructure," not a "bridge" (see the latest slices of [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]] and [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|CEX cross-chain bridge deposit and withdrawal]]).
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[systems/chain-abstraction-pattern-overview|チェーン抽象モデル概観]]
-- [[systems/chain-abstraction-pattern-three-solutions|3 大主流方式]]
-- [[agent-economy/ai-agent-payment-protocols-commoditization|Agent 決済プロトコルコモディティ化]]
+- [[systems/chain-abstraction-pattern-overview|Chain-abstraction model overview]]
+- [[systems/chain-abstraction-pattern-three-solutions|Three major mainstream approaches]]
+- [[agent-economy/ai-agent-payment-protocols-commoditization|Agent payment protocol commoditization]]
 <!-- /wiki-links:managed -->
 
 ## Sources

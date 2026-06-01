@@ -11,20 +11,20 @@ translated_at: 2026-06-01T02:31:57.100Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfg|SMFG (親会社)]], [[JapanFG/mufg-bank|MUFG 銀行]], and [[JapanFG/mizuho-bank|みずほ銀行]] for peer / contrast context among the 3  major megabanks, and against [[JapanFG/fsa|金融庁]] / [[JapanFG/boj|日本銀行]] for the broader regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/smfg|SMFG parent company]], [[JapanFG/mufg-bank|MUFG Bank]], and [[JapanFG/mizuho-bank|Mizuho Bank]] for peer / contrast context among the three major megabanks, and against [[JapanFG/fsa|FSA]] / [[JapanFG/boj|Bank of Japan]] for the broader regulatory boundary.
 
 ## TL;DR
 
-SMBC is the core subsidiary and 100% owned commercial bank of [[JapanFG/smfg|SMFG（三井住友フィナンシャルグループ 8316）]], with total assets around 250 兆円 and a position as one of Japan's 3  major megabanks. It was created on 2001-04-01 through the merger of Sakura Bank, which itself combined Mitsui Bank and Taiyo Kobe Bank, with Sumitomo Bank. Its head office is in Marunouchi, Chiyoda-ku, Tokyo. The bank covers retail, middle-market and large-corporate, international, and investment-banking-adjacent activity. Within the group, it is distinct from [[JapanFG/smbc-nikko|SMBC 日興証券]] for securities, [[JapanFG/smbc-trust-bank|SMBC 信託銀行]] for trust / private banking, [[JapanFG/smbc-card|三井住友カード]] for cards, and [[JapanFG/smbc-consumer-finance|SMBC コンシューマーファイナンス（プロミス）]] for consumer finance. Globally, it is especially active in the Americas and Asia.
+SMBC is the core subsidiary and wholly owned commercial bank of [[JapanFG/smfg|SMFG (Sumitomo Mitsui Financial Group, 8316)]], with total assets around 250 trillion yen and a position as one of Japan's three major megabanks. It was created on 2001-04-01 through the merger of Sakura Bank and Sumitomo Bank.
 
 ## 1. Legal structure
 
-**Legal name**: Sumitomo Mitsui Banking Corporation  
-**English name**: Sumitomo Mitsui Banking Corporation (SMBC)  
-**Established**: **2001-04-01**, through the Sakura Bank + Sumitomo Bank merger  
-**Head office**: Marunouchi, Chiyoda-ku, Tokyo, 1-1-2, with the former Sumitomo Bank Osaka head office kept as an Osaka base  
-**Business type**: Commercial bank / ordinary bank  
-**Major shareholder**: **[[JapanFG/smfg|三井住友フィナンシャルグループ]] 100%**  
+**Legal name**: Sumitomo Mitsui Banking Corporation
+**English name**: Sumitomo Mitsui Banking Corporation (SMBC)
+**Established**: **2001-04-01**, through the Sakura Bank + Sumitomo Bank merger
+**Head office**: Marunouchi, Chiyoda-ku, Tokyo, 1-1-2, with the former Sumitomo Bank Osaka head office kept as an Osaka base
+**Business type**: Commercial bank / ordinary bank
+**Major shareholder**: **[[JapanFG/smfg|Sumitomo Mitsui Financial Group]] 100%**
 **Primary regulators**: [[JapanFG/fsa|金融庁]] and [[JapanFG/boj|日本銀行]]
 
 ### History / predecessor route
@@ -46,8 +46,8 @@ SMBC is the core subsidiary and 100% owned commercial bank of [[JapanFG/smfg|SMF
 | 1990  | Mitsui Bank + Taiyo Kobe Bank -> Sakura Bank |
 | **2001-04-01** | **Sakura Bank + Sumitomo Bank -> SMBC formed** |
 | **2002-12-02** | **SMFG established** as holding company |
-| 2003  | Sumitomo Mitsui VISA Card, later [[JapanFG/smbc-card|三井住友カード]], expanded |
-| 2009-10  | Promise, later [[JapanFG/smbc-consumer-finance|SMBC コンシューマーファイナンス]], became a consolidated subsidiary |
+| 2003  | Sumitomo Mitsui VISA Card, later [[JapanFG/smbc-card|Sumitomo Mitsui Card]], expanded |
+| 2009-10  | Promise, later [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]], became a consolidated subsidiary |
 | 2009-10  | Nikko Cordial Securities, later [[JapanFG/smbc-nikko|SMBC 日興証券]], acquired |
 | 2013  | Societe Generale Private Banking Japan acquired -> [[JapanFG/smbc-trust-bank|SMBC 信託銀行]] structure built |
 | 2018  | Reorganization of [[JapanFG/smbc-trust-bank|SMBC 信託銀行]] and SMBC Lease |
@@ -65,8 +65,8 @@ SMFG [[JapanFG/smfg|8316]], holding company
   │    └─ Investment-banking activity, including parts of DCM / ECM
   ├─ [[JapanFG/smbc-nikko|SMBC 日興証券]], securities
   ├─ [[JapanFG/smbc-trust-bank|SMBC 信託銀行]], trust / private banking
-  ├─ [[JapanFG/smbc-card|三井住友カード]], credit cards
-  ├─ [[JapanFG/smbc-consumer-finance|SMBC コンシューマーファイナンス（プロミス）]], consumer finance
+  ?? [[JapanFG/smbc-card|Sumitomo Mitsui Card]], credit cards
+  ?? [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance (Promise)]], consumer finance
   ├─ Sumitomo Mitsui Finance & Leasing, leasing / SMFL
   ├─ Japan Research Institute, IT and think tank
   └─ SMBC Aviation Capital, aircraft leasing
@@ -91,7 +91,7 @@ SMFG [[JapanFG/smfg|8316]], holding company
 
 ### vs other megabanks
 
-| Item | SMBC | [[JapanFG/mufg-bank|MUFG]] | [[JapanFG/mizuho-bank|みずほ]] |
+| Item | SMBC | [[JapanFG/mufg-bank|MUFG]] | [[JapanFG/mizuho-bank|Mizuho]] |
 |---|---|---|---|
 | Parent company | [[JapanFG/smfg|SMFG (8316)]] | [[JapanFG/mufg|MUFG (8306)]] | [[JapanFG/mizuho-fg|MHFG (8411)]] |
 | Total assets | around 250 兆円 | around 400 兆円 | around 250 兆円 |
@@ -115,8 +115,8 @@ SMFG [[JapanFG/smfg|8316]], holding company
 
 ## Related
 
-- [[JapanFG/smfg|SMFG (8316)]] · [[JapanFG/smbc-nikko|SMBC 日興証券]] · [[JapanFG/smbc-trust-bank|SMBC 信託銀行]] · [[JapanFG/smbc-card|三井住友カード]] · [[JapanFG/smbc-consumer-finance|SMBC コンシューマーファイナンス（プロミス）]]
-- [[JapanFG/mufg-bank|MUFG 銀行]] · [[JapanFG/mizuho-bank|みずほ銀行]] · [[JapanFG/japan-post-bank|ゆうちょ銀行]]
+- [[JapanFG/smfg|SMFG (8316)]] ? [[JapanFG/smbc-nikko|SMBC Nikko Securities]] ? [[JapanFG/smbc-trust-bank|SMBC Trust Bank]] ? [[JapanFG/smbc-card|Sumitomo Mitsui Card]] ? [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance (Promise)]]
+- [[JapanFG/mufg-bank|MUFG Bank]] ? [[JapanFG/mizuho-bank|Mizuho Bank]] ? [[JapanFG/japan-post-bank|Japan Post Bank]]
 - [[JapanFG/fsa|金融庁]] · [[JapanFG/boj|日本銀行]] · [[JapanFG/dic|預金保険機構]]
 - [[JapanFG/jcb|JCB]] · [[banking/INDEX|banking index]]
 - [[JapanFG/INDEX|JapanFG index]]

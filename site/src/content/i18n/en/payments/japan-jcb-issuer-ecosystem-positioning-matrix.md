@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.314Z
 
 ## TL;DR
 
-"JCB" is not a single card company — it is **(a) a domestic Japanese card brand and international payment network** (株式会社ジェーシービー / JCB Co., Ltd.) **plus (b) a population of Japanese issuers that put the JCB brand on cards they themselves issue**. The brand sits in a hybrid 3-party / 4-party shape: for "proper" JCB cards (JCB-issued, JCB-acquired) it operates as a 3-party brand, while for partner / co-brand / 提携 JCB cards (JCB-brand, partner-issued, JCB-acquired or partner-acquired) it operates as a 4-party brand with internal interchange. This matrix lays out the major JCB-issuing operators in Japan — bank-FG ([[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/smbc-card|SMBC Card]]), retail-FG ([[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/credit-saison|Credit Saison]], [[JapanFG/epos-card|EPOS Card]]), shinpan ([[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]]), 3-party-style ([[JapanFG/diners-club-japan|Diners Club Japan]]), and travel co-brand (JR-View, ANA, JAL) — along the axes that matter for the issuer's economics and JCB's brand strategy. It is the per-issuer companion to [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] and the issuer-side companion to [[payments/jcb-three-party-operating-model|JCB three-party operating model]].
+"JCB" is not a single card company: it is **(a) a domestic Japanese card brand and international payment network** (JCB Co., Ltd.) **plus (b) a population of Japanese issuers that put the JCB brand on cards they themselves issue**. The brand sits in a hybrid 3-party / 4-party shape: for "proper" JCB cards (JCB-issued, JCB-acquired) it operates as a 3-party brand, while for partner / co-brand JCB cards it operates as a 4-party brand with internal interchange. This matrix lays out the major JCB-issuing operators in Japan along the axes that matter for issuer economics and JCB brand strategy. It is the per-issuer companion to [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] and the issuer-side companion to [[payments/jcb-three-party-operating-model|JCB three-party operating model]].
 
 ## Wiki route
 
@@ -22,23 +22,23 @@ This sits under [[payments/INDEX|payments index]] as the JCB-side cross-issuer r
 
 The JCB ecosystem is read incorrectly in three common ways. First, readers conflate "JCB the brand" with "JCB Co., Ltd. the issuer" — they are not the same, since JCB acts as both brand-network and as one (large) issuer among many. Second, readers assume all JCB-branded cards in Japan are 3-party — they are not, since most partner-issued JCB cards run on a 4-party economic shape with interchange between the partner-issuer and JCB-the-acquirer. Third, readers under-weight the **retail-FG issuers** ([[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/credit-saison|Credit Saison]], [[JapanFG/epos-card|EPOS Card]]) which together issue more JCB-branded cards than the bank-FG issuers combined and shape merchant-side fee politics under [[payments/japan-interchange-and-merchant-fee-stack|interchange disclosure pressure]]. This matrix forces all three readings to the surface.
 
-### JCB Co., Ltd. (株式会社ジェーシービー)
+### JCB Co., Ltd.
 
-JCB Co., Ltd. is the brand owner, network operator, **and** Japan's largest direct-issuer of JCB-branded "proper" cards (JCB Original Series — JCB CARD W, JCB ゴールド, JCB プラチナ, JCB ザ・クラス). It is also a major acquirer for JCB-branded merchants in Japan. The 3-party operating shape applies to JCB-issued + JCB-acquired transactions; everything else routes through 4-party interchange. JCB is non-listed, with bank-FG shareholders ([[JapanFG/mufg|MUFG]] side and [[JapanFG/smfg|SMFG]] side per the [[JapanFG/jcb|JCB entry]]) reflecting its 1961 multi-bank founding. As the only Japanese international card brand among the global five (Visa, Mastercard, Amex, Discover, JCB), JCB's strategic position is structurally tied to Japan-outbound traveler acceptance and Japan-inbound merchant brand-presence.
+JCB Co., Ltd. is the brand owner, network operator, **and** Japan's largest direct issuer of JCB-branded proper cards, including JCB Original Series, JCB CARD W, JCB Gold, JCB Platinum, and JCB The Class. It is also a major acquirer for JCB-branded merchants in Japan. The 3-party operating shape applies to JCB-issued + JCB-acquired transactions; everything else routes through 4-party interchange. JCB is non-listed, with bank-FG shareholders reflecting its 1961 multi-bank founding.
 
 Key contrast point: JCB simultaneously **competes with and partners with** every other entry in this matrix — it competes for cardholders directly with [[JapanFG/rakuten-card|Rakuten Card]] / [[JapanFG/smbc-card|SMBC Card]] / [[JapanFG/mufg-nicos|MUFG NICOS]] proper cards, while licensing its brand to those same issuers for partner-issued JCB cards. This is the central 3-party-vs-4-party tension the matrix surfaces.
 
 ### MUFG NICOS — JCB issuance line
 
-[[JapanFG/mufg-nicos|MUFG NICOS]] (三菱UFJニコス) is the [[JapanFG/mufg|MUFG]] group's card-issuing subsidiary, formed through successive mergers of UFJ Card, NICOS, DC Card, and Mitsubishi UFJ Card. It issues both Visa / Mastercard and JCB-branded cards across MUFG-branded products (MUFG Card, DC Card line) and partner-issuance for affiliated retailers. As a [[JapanFG/mufg|MUFG]]-side issuer, it sits in the 4-party JCB shape, paying interchange to JCB as scheme operator on JCB-branded transactions. MUFG NICOS is a 包括信用購入あっせん業者 under the Installment Sales Act per the METI 登録包括信用購入あっせん業者 list, and a merchant-contracting operator on the METI クレジットカード番号等取扱契約締結事業者 list.
+[[JapanFG/mufg-nicos|MUFG NICOS]] is the [[JapanFG/mufg|MUFG]] group's card-issuing subsidiary, formed through successive mergers of UFJ Card, NICOS, DC Card, and Mitsubishi UFJ Card. It issues Visa, Mastercard, and JCB-branded cards across MUFG-branded products and partner-issuance for affiliated retailers. As a MUFG-side issuer, it sits in the 4-party JCB shape and pays interchange to JCB as scheme operator on JCB-branded transactions.
 
 ### Sumitomo Mitsui Card — JCB issuance line
 
-[[JapanFG/smbc-card|SMBC Card / 三井住友カード]] is the [[JapanFG/smfg|SMFG]] group's flagship card issuer, historically anchored to Visa as the leading Visa issuer in Japan. Its JCB issuance line is smaller relative to its Visa book but exists for cards designed to pair with JCB-only merchant pockets (Japan-domestic small-merchant networks, certain transit / ticket merchant relationships). SMBC Card is also a major acquirer in its own right, competing with JCB for merchant acceptance — which means SMBC Card has dual relationships with JCB: as a JCB-brand licensee (issuer) and as a competing acquirer (merchant side). The V Point / SMBC point ecosystem ties the cardholder economics into the [[loyalty/japan-points-landscape|Japan points landscape]] independently of JCB Oki Doki Point.
+[[JapanFG/smbc-card|SMBC Card]] is the [[JapanFG/smfg|SMFG]] group's flagship card issuer, historically anchored to Visa as the leading Visa issuer in Japan. Its JCB issuance line is smaller relative to its Visa book but exists for cards designed to pair with JCB-only merchant pockets. SMBC Card is also a major acquirer, so it has dual relationships with JCB: brand licensee on the issuer side and competitor on the merchant-acquiring side.
 
 ### AEON Financial Service — JCB issuance line
 
-[[JapanFG/aeon-financial-service|AEON Financial Service / イオン銀行 + イオンクレジットサービス]] issues JCB-branded AEON Card products alongside its much larger Visa / Mastercard AEON Card book. The JCB line targets cardholders who prefer JCB acceptance at JCB-tied small-merchant networks. AEON Financial Service's distinctive position is the **retail-FG anchor** — AEON Card is fundamentally a loyalty mechanism for [[JapanFG/aeon-bank|AEON Bank]] / AEON retail group, with payment economics subsidized by retail point margin (WAON POINT) rather than dependent on card-side interchange alone. Read this against [[payments/waon-nanaco-retail-prepaid-comparison|WAON / nanaco retail prepaid comparison]] for the retail-FG cross-product logic.
+[[JapanFG/aeon-financial-service|AEON Financial Service]] issues JCB-branded AEON Card products alongside its larger Visa / Mastercard AEON Card book. Its distinctive position is the **retail-FG anchor**: AEON Card is fundamentally a loyalty mechanism for [[JapanFG/aeon-bank|AEON Bank]] / AEON retail group, with payment economics subsidized by retail point margin rather than card-side interchange alone.
 
 ### Rakuten Card — JCB issuance line
 
@@ -46,19 +46,19 @@ Key contrast point: JCB simultaneously **competes with and partners with** every
 
 ### Credit Saison — JCB issuance line
 
-[[JapanFG/credit-saison|Credit Saison / クレディセゾン]] (TSE PRIME 8253) is an independent multi-brand card issuer (Visa / Mastercard / JCB / American Express) with a distinctive **永久不滅ポイント** (permanent / non-expiring points) program. Its JCB issuance line is small relative to its Visa / Mastercard line but exists for partner-issuance with merchant chains that prefer JCB acceptance. Credit Saison's other dimension is **non-bank-FG independence** — unlike NICOS (MUFG), SMBC Card (SMFG), or AEON Financial Service (AEON retail-FG), it does not have a parent that subsidizes acquisition cost, so it leans more heavily on issuer-side spread economics. Credit Saison is also a shinpan via 個別信用購入あっせん registration.
+[[JapanFG/credit-saison|Credit Saison]] (TSE PRIME 8253) is an independent multi-brand card issuer with the non-expiring Eikyufumetsu Point program. Its JCB issuance line is small relative to its Visa / Mastercard line but exists for partner issuance with merchant chains that prefer JCB acceptance. Credit Saison is also a shinpan operator via individual credit-purchase intermediation registration.
 
 ### EPOS Card — JCB issuance line
 
-[[JapanFG/epos-card|EPOS Card / エポスカード]] is the card-issuing arm of Marui Group (丸井グループ), historically anchored to Visa. Its JCB issuance line is small but exists for certain co-brand products. EPOS Card's economic position is similar to AEON Card — **retail-FG anchored**, with payment economics subsidized by Marui retail margin and tsumitate / fashion-retail point economics. The JCB-issuance question for EPOS is whether maintaining a JCB line is worth the operational cost given the Visa anchor; it persists for cardholders who specifically prefer JCB.
+[[JapanFG/epos-card|EPOS Card]] is the card-issuing arm of Marui Group, historically anchored to Visa. Its JCB issuance line is small but exists for selected co-brand products. EPOS Card's economic position is similar to AEON Card: retail-FG anchored, with payment economics subsidized by Marui retail margin and fashion-retail point economics.
 
 ### Orico — JCB issuance line
 
-[[JapanFG/orico|Orico / オリエントコーポレーション]] (TSE PRIME 8585) is a shinpan / 個別信用購入あっせん業者 first (auto-loan #1 domestically, see [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]]) and a card issuer second. Its JCB issuance line covers Orico Card products that pair JCB acceptance with Orico's auto-finance / shopping-credit customer base. Orico's parent shareholders are [[JapanFG/mizuho-fg|Mizuho FG]] and Itochu, giving it a Mizuho-adjacent positioning distinct from the NICOS (MUFG) and SMBC Card (SMFG) bank-FG anchors. The shinpan-first identity means Orico's JCB book is more about cross-sell into the auto / shopping-credit customer than about standalone card-acquisition economics.
+[[JapanFG/orico|Orico]] (TSE PRIME 8585) is a shinpan / individual credit-purchase intermediary first and a card issuer second. Its JCB issuance line covers Orico Card products that pair JCB acceptance with Orico's auto-finance / shopping-credit customer base.
 
 ### JACCS — JCB issuance line
 
-[[JapanFG/jaccs|JACCS / ジャックス]] (TSE PRIME 8584) is a multi-line shinpan (auto-loan, education-loan, リフォームローン, shopping-credit) with [[JapanFG/mufg|MUFG]]-equity-method shareholder linkage. Its JCB issuance line is the card-product expression of the multi-license shinpan model — a JACCS Card with JCB brand can be paired with JACCS auto-loan or shopping-credit cross-sell, generating the multi-product customer relationship that defines the shinpan business. JACCS's bank-FG adjacency (MUFG equity-method) puts it in an interesting middle position vs the pure bank-FG NICOS and the independent Credit Saison.
+[[JapanFG/jaccs|JACCS]] (TSE PRIME 8584) is a multi-line shinpan operator in auto loans, education loans, renovation loans, and shopping credit, with [[JapanFG/mufg|MUFG]] equity-method shareholder linkage. Its JCB issuance line expresses the multi-license shinpan model in card form.
 
 ### Diners Club Japan — 3-party brand co-existing with JCB
 
@@ -66,7 +66,7 @@ Key contrast point: JCB simultaneously **competes with and partners with** every
 
 ### JR-View Card — JCB issuance line
 
-JR-View Card (株式会社ビューカード, 100% JR East subsidiary) is the transit-retail-FG card issuer attached to JR East. Its JCB issuance line is smaller than its Visa / Mastercard line but exists for cards designed to pair JCB acceptance with Mobile Suica / Suica autocharge functionality. The card's economic engine is the JRE POINT loyalty program tied to JR East rail / station-retail / lumine retail consumption, similar in shape to AEON Card and EPOS Card. From JCB's perspective, JR-View represents a strategic partner where the transit-prepaid anchor (Suica) generates transaction stickiness that pure-play card issuers cannot match. Read with [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Japan transit prepaid Suica / PASMO / ICOCA economics]] for the transit-side context.
+JR-View Card, the JR East card subsidiary, is the transit-retail-FG card issuer attached to JR East. Its JCB issuance line is smaller than its Visa / Mastercard line but exists for cards designed to pair JCB acceptance with Mobile Suica / Suica autocharge functionality.
 
 ### ANA / JAL JCB co-brand
 
@@ -74,23 +74,23 @@ ANA JCB Card and JAL JCB Card are co-brand products jointly designed between JCB
 
 ### Other partner issuers (overview)
 
-Beyond the named issuers above, JCB licenses its brand to **many regional bank-FG, 信用金庫, and partner-corporate issuers** across Japan — regional bank JCB cards, university / alumni co-brand JCB cards, professional-association JCB cards, and various retail co-brand JCB lines. The full population of JCB-issuing operators is bounded by the METI 登録包括信用購入あっせん業者 list (241 registrations as of 2026-04 month-end per the registry referenced in [[payments/credit-purchase-card-operators-japan-index|credit-purchase card operator registry]]), of which the JCB-issuing subset is the majority. These partner / regional issuers individually have small books but collectively make up a meaningful share of JCB-branded card stock and merchant transaction count.
+Beyond the named issuers above, JCB licenses its brand to many regional bank-FG, shinkin, and partner-corporate issuers across Japan. The full population is bounded by the METI registered credit-purchase intermediary list, referenced in [[payments/credit-purchase-card-operators-japan-index|credit-purchase card operator registry]].
 
 ## Big comparison matrix table
 
 | Issuer | Brand role | Group anchor | Listing | Card portfolio size (cardholders) | Target segment | Primary economic engine | JCB-side relationship | Cross-brand issuance | Merchant network leverage | 3-party vs 4-party position |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **[[JapanFG/jcb\|JCB Co.]]** | Brand + direct issuer + acquirer | Multi-bank consortium (MUFG / SMFG / SMTB side) | Non-listed | ~140M+ JCB-branded cards globally (incl. partner-issued); JCB proper book several million | Premium (ザ・クラス, プラチナ), mass (CARD W) | Brand fee + 3-party MDR (proper) + scheme fee from partners | Self | Issues only JCB | Direct JCB merchant network + alliance with Discover / UnionPay / Amex | 3-party for proper, scheme operator for 4-party partners |
+| **[[JapanFG/jcb\|JCB Co.]]** | Brand + direct issuer + acquirer | Multi-bank consortium (MUFG / SMFG / SMTB side) | Non-listed | ~140M+ JCB-branded cards globally, including partner-issued; proper JCB book several million | Premium (The Class, Platinum), mass (CARD W) | Brand fee + 3-party MDR (proper) + scheme fee from partners | Self | Issues only JCB | Direct JCB merchant network + alliance with Discover / UnionPay / Amex | 3-party for proper, scheme operator for 4-party partners |
 | **[[JapanFG/mufg-nicos\|MUFG NICOS]]** | Issuer | [[JapanFG/mufg\|MUFG]] 100% | Non-listed (subsidiary) | Several tens of millions across all brands | Mass / bank-FG cardholder | Issuer interchange + cash-advance + revolving | Brand licensee; partner-issuer | Visa + Mastercard + JCB | Multi-acquirer including own merchant book | 4-party (pays JCB interchange) |
 | **[[JapanFG/smbc-card\|SMBC Card]]** | Issuer + acquirer | [[JapanFG/smfg\|SMFG]] 100% | Non-listed (subsidiary) | Several tens of millions; Visa-leading | Mass / premium V Point ecosystem | Issuer interchange + V Point ecosystem + acquirer revenue | Brand licensee; partner-issuer; competing acquirer | Visa (anchor) + Mastercard + JCB | Strong acquirer footprint via SMBC channel | 4-party (pays JCB interchange) |
 | **[[JapanFG/aeon-financial-service\|AEON Financial Service]]** | Issuer | AEON retail-FG | TSE PRIME 8570 | ~30M cardholders | Mass / family / suburban retail | Retail loyalty subsidy + card-issuer spread | Brand licensee; partner-issuer | Visa + Mastercard + JCB | AEON retail self-acceptance + open network | 4-party (pays JCB interchange) |
 | **[[JapanFG/rakuten-card\|Rakuten Card]]** | Issuer | [[JapanFG/rakuten-fg\|Rakuten FG]] | Subsidiary | ~37M+ cardholders, #1 by holder count in Japan | Mass / Rakuten ecosystem | Rakuten Point flywheel + card spread | Brand licensee; partner-issuer; largest 4-party JCB issuer | Visa + Mastercard + JCB + AMEX | Rakuten EC anchor; open-network outside | 4-party (pays JCB interchange) |
-| **[[JapanFG/credit-saison\|Credit Saison]]** | Issuer + shinpan | Independent | TSE PRIME 8253 | ~36M cards issued cumulative | Mass / 永久不滅ポイント loyalty | Issuer spread + 永久不滅 retention + shinpan cross-sell | Brand licensee; partner-issuer | Visa + Mastercard + JCB + AMEX | Marui-adjacent + open network | 4-party (pays JCB interchange) |
+| **[[JapanFG/credit-saison\|Credit Saison]]** | Issuer + shinpan | Independent | TSE PRIME 8253 | ~36M cards issued cumulative | Mass / non-expiring point loyalty | Issuer spread + point retention + shinpan cross-sell | Brand licensee; partner-issuer | Visa + Mastercard + JCB + AMEX | Marui-adjacent + open network | 4-party (pays JCB interchange) |
 | **[[JapanFG/epos-card\|EPOS Card]]** | Issuer | Marui Group (8252) | Subsidiary | ~7M+ cardholders | Mass / Marui retail / fashion | Marui retail loyalty subsidy + card spread | Brand licensee (small) | Visa (anchor) + JCB (small) | Marui retail self-acceptance + open network | 4-party (pays JCB interchange) |
 | **[[JapanFG/orico\|Orico]]** | Shinpan + issuer | [[JapanFG/mizuho-fg\|Mizuho]] + Itochu | TSE PRIME 8585 | Smaller card book vs. shinpan loan book | Auto / shopping-credit cross-sell | Shinpan loan spread + card cross-sell + JCB acceptance | Brand licensee; partner-issuer | Visa + Mastercard + JCB | Dealership / merchant 加盟店 channel | 4-party (pays JCB interchange) |
-| **[[JapanFG/jaccs\|JACCS]]** | Shinpan + issuer | [[JapanFG/mufg\|MUFG]] equity-method | TSE PRIME 8584 | Card book mid-sized vs. shinpan book | Auto / education / リフォーム cross-sell | Multi-line shinpan + card cross-sell | Brand licensee; partner-issuer | Visa + Mastercard + JCB | 加盟店 (auto-dealership, education) channel | 4-party (pays JCB interchange) |
+| **[[JapanFG/jaccs\|JACCS]]** | Shinpan + issuer | [[JapanFG/mufg\|MUFG]] equity-method | TSE PRIME 8584 | Card book mid-sized vs. shinpan book | Auto / education / renovation cross-sell | Multi-line shinpan + card cross-sell | Brand licensee; partner-issuer | Visa + Mastercard + JCB | Auto-dealership and education merchant channel | 4-party (pays JCB interchange) |
 | **[[JapanFG/diners-club-japan\|Diners Club Japan]]** | Issuer + acquirer (3-party) | Sumitomo Mitsui Trust | Subsidiary | Small; premium-only | Premium / corporate / T&E | 3-party MDR + premium annual fee | Peer brand (not licensee); historic alliance | Diners only | Premium-merchant focus | Pure 3-party (no JCB interchange) |
-| **JR-View Card / ビューカード** | Issuer | JR East 100% | Subsidiary | Several million; Suica-anchor | Transit / lumine / JRE POINT | Transit + station-retail loyalty + card spread | Brand licensee; partner-issuer (small JCB share) | Visa (anchor) + JCB + Mastercard | JR East transit + lumine retail + Mobile Suica | 4-party (pays JCB interchange) |
+| **JR-View Card** | Issuer | JR East 100% | Subsidiary | Several million; Suica-anchor | Transit / Lumine / JRE POINT | Transit + station-retail loyalty + card spread | Brand licensee; partner-issuer (small JCB share) | Visa (anchor) + JCB + Mastercard | JR East transit + Lumine retail + Mobile Suica | 4-party (pays JCB interchange) |
 | **ANA JCB co-brand** | Co-brand on multiple issuer backends | ANA HD + JCB or other issuer | Subsidiary or licensee depending on backend | Several million ANA cards across all brands | Frequent flyer / mileage | Mileage accrual + premium-tier annual fee | Brand licensee; co-brand designed with JCB | Brand varies (ANA also has Visa / Mastercard / Amex versions) | ANA airport + ANA Sky Web + premium merchant | Mostly 4-party; some JCB-direct issuance for the 3-party shape |
 | **JAL JCB co-brand** | Co-brand on multiple issuer backends | JAL + JCB or other issuer | Subsidiary or licensee depending on backend | Several million JAL cards across all brands | Frequent flyer / mileage | Mileage accrual + premium-tier annual fee | Brand licensee; co-brand designed with JCB | Brand varies (JAL also has Visa / Mastercard / Amex versions) | JAL airport + premium merchant | Mostly 4-party; some JCB-direct issuance |
 
@@ -99,13 +99,13 @@ Beyond the named issuers above, JCB licenses its brand to **many regional bank-F
 | Issuer | Primary point currency | Points cross-redemption | EMV 3-DS readiness (2025-03 mandate) | J-CSC guideline compliance |
 |---|---|---|---|---|
 | **[[JapanFG/jcb\|JCB Co.]]** | Oki Doki Point | Within JCB partner network | Native (brand operator) | Native (brand operator) |
-| **[[JapanFG/mufg-nicos\|MUFG NICOS]]** | グローバルポイント / MUFG card point | MUFG-group + selective | Yes | Yes |
+| **[[JapanFG/mufg-nicos\|MUFG NICOS]]** | Global Point / MUFG card point | MUFG group + selective partners | Yes | Yes |
 | **[[JapanFG/smbc-card\|SMBC Card]]** | V Point (merged with T Point 2024) | Strong via V Point | Yes | Yes (heavy direct merchant book also covered) |
 | **[[JapanFG/aeon-financial-service\|AEON]]** | WAON POINT | AEON retail + selective | Yes | Yes |
 | **[[JapanFG/rakuten-card\|Rakuten Card]]** | Rakuten Point | Strong within Rakuten ecosystem | Yes | Yes |
-| **[[JapanFG/credit-saison\|Credit Saison]]** | 永久不滅ポイント (non-expiring) | Selective partners | Yes | Yes |
+| **[[JapanFG/credit-saison\|Credit Saison]]** | Non-expiring Eikyufumetsu Point | Selective partners | Yes | Yes |
 | **[[JapanFG/epos-card\|EPOS Card]]** | EPOS POINT | Marui-adjacent | Yes | Yes |
-| **[[JapanFG/orico\|Orico]]** | Orico Point / 暮らスマイル | Selective | Yes | Yes |
+| **[[JapanFG/orico\|Orico]]** | Orico Point / Kurashi Smile | Selective | Yes | Yes |
 | **[[JapanFG/jaccs\|JACCS]]** | JACCS Point | Selective | Yes | Yes |
 | **[[JapanFG/diners-club-japan\|Diners]]** | Diners reward (T&E focus) | Premium-merchant partners | Yes (3-party direct) | Yes (3-party direct) |
 | **JR-View** | JRE POINT | JR East + lumine + Suica | Yes | Yes |
@@ -149,12 +149,12 @@ This duality is also why JCB cannot be cleanly classified as either an "issuer-l
 
 | Date | Source | What changed |
 |---|---|---|
-| 2010-06 | FSA / METI | 改正貸金業法 fully enforced; card cash-advance (キャッシング) line now subject to 20% interest cap + 1/3 総量規制. Card-issuer side of JCB-issuing operators reshaped their cash-advance economics |
+| 2010-06 | FSA / METI | Amended Money Lending Business Act fully enforced; card cash-advance lines became subject to the 20% interest cap and one-third aggregate borrowing limit. |
 | 2018 | METI | 改正割賦販売法 strengthened 加盟店調査 obligation for card-acquirers including JCB partner-issuer acquiring lanes |
-| 2020 改正 | METI | 改正割賦販売法 introduced 認定包括信用購入あっせん / 少額包括信用購入あっせん framework — affects partner BNPL extensions of JCB-issuing card operators |
+| 2020 amendment | METI | Amended Installment Sales Act introduced certified comprehensive and small-amount comprehensive credit-purchase intermediation frameworks. |
 | 2022-04-08 | JFTC | Credit-card merchant fee report — documented size-based fee dispersion; called for greater interchange transparency, which directly affects JCB partner-issuer interchange disclosure |
 | 2023-06-01 | METI + JFTC | JCB disclosed allocation rate of card merchant fee between issuer and acquirer — first major brand in Japan to publish this, set precedent for partner-issuer disclosure |
-| 2024 | METI / CAA | BNPL clarification round; relevant to JCB partner-issuers who extend BNPL-style features (PayPay あと払い via PayPay Card etc.) |
+| 2024 | METI / CAA | BNPL clarification round; relevant to JCB partner-issuers extending BNPL-style features such as PayPay deferred payment via PayPay Card. |
 | 2025-03 | METI / J-CSC | EMV 3-DS mandatory for EC card payments under J-CSC guideline 6.0 — full compliance burden for all JCB-issuing operators (proper and partner) |
 | Ongoing | JFTC | Periodic investigations into merchant-fee opacity, single-acquirer pricing power especially relevant to 3-party (proper JCB) merchant economics |
 
@@ -162,11 +162,11 @@ This duality is also why JCB cannot be cleanly classified as either an "issuer-l
 
 This matrix complements other FinWiki matrix entries in specific ways:
 
-- vs **[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]**: That matrix covers card vs code vs A2A vs prepaid at the scheme-class level. This matrix decomposes the card class along the issuer dimension for one specific brand (JCB). A reader should consult both for a complete picture of where JCB sits relative to PayPay / d払い (code) and to Suica / WAON (prepaid).
+- vs **[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]**: That matrix covers card vs code vs A2A vs prepaid at the scheme-class level. This matrix decomposes the card class along the issuer dimension for one specific brand (JCB). A reader should consult both for a complete picture of where JCB sits relative to PayPay / d-Barai (code) and to Suica / WAON (prepaid).
 - vs **[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]**: That entry establishes the role-separation framework (issuer, brand, acquirer, PSP, merchant). This matrix populates the issuer column for JCB-branded cards specifically. The 3-party / 4-party tension within JCB is precisely the case where the role-separation framework collapses (3-party: issuer = acquirer = brand) and re-emerges (4-party: issuer ≠ acquirer, brand operates independently).
 - vs **[[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]]**: That entry covers the per-transaction fee economics. This matrix gives the per-issuer view of who pays / receives interchange in the 4-party-shape partner JCB transactions. The JFTC 2022 report and METI / JFTC 2023-06-01 disclosure release sit at this intersection.
 - vs **[[payments/japan-consumer-credit-operator-comparison-matrix|consumer-credit operator comparison matrix]]**: That matrix categorizes consumer-credit operators across nine categories (card / consumer finance / shinpan / BNPL / auto / housing / education / microcredit / PSP-adjacent). This matrix is a sub-categorical zoom into the card category for JCB-issuing operators specifically — shinpan-side JCB issuers (Orico, JACCS) and card-issuer-side JCB issuers (NICOS, SMBC Card, Rakuten Card, AEON Financial Service) appear in both surfaces.
-- vs **[[payments/credit-purchase-card-operators-japan-index|credit-purchase card operator registry]]**: That entry is the registry-trail surface for METI 登録包括信用購入あっせん業者 (and 個別) registrations. This matrix names specific JCB-issuing operators from that registry and arranges them along brand-relationship, group-anchor, and economic-engine axes.
+- vs **[[payments/credit-purchase-card-operators-japan-index|credit-purchase card operator registry]]**: That entry is the registry-trail surface for METI registered comprehensive and individual credit-purchase intermediaries. This matrix names specific JCB-issuing operators from that registry and arranges them along brand-relationship, group-anchor, and economic-engine axes.
 
 ## Bank-FG vs retail-FG vs shinpan-FG vs independent — issuer-share lens
 
@@ -191,7 +191,7 @@ While this matrix focuses on the Japanese issuer ecosystem, JCB's brand-strategy
 Within Japan, JCB competes for both cardholder share and merchant acceptance with the international 4-party brands ([[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]] and [[JapanFG/mastercard-japan|Mastercard Japan]]) and the 3-party premium brands ([[JapanFG/diners-club-japan|Diners Club Japan]] and American Express Japan). The competitive surface for each is structurally different:
 
 - **vs Visa / Mastercard (4-party)**: JCB partner-issuance competes head-to-head with Visa / Mastercard partner-issuance — a [[JapanFG/rakuten-card|Rakuten Card]] cardholder may carry a Visa, Mastercard, or JCB-branded Rakuten Card with similar cardholder economics, differentiated mainly by overseas acceptance footprint and JCB-tied merchant promotions in Japan. JCB's advantage is its domestic merchant network and brand affinity; its disadvantage is overseas acceptance breadth vs Visa / Mastercard.
-- **vs Diners Club / American Express (3-party)**: JCB's proper-card line (JCB Original Series, ザ・クラス, プラチナ) competes in the premium / T&E segment with Diners and Amex on annual fee + benefits + travel-perk packages. This is the lane where JCB acts as a pure 3-party brand, and the economics align closely with Diners / Amex.
+- **vs Diners Club / American Express (3-party)**: JCB's proper-card line, including JCB Original Series, The Class, and Platinum, competes in the premium / T&E segment with Diners and Amex on annual fee, benefits, and travel-perk packages.
 - **vs domestic 4-party direct competition**: For bank-FG cardholders ([[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/smbc-card|SMBC Card]]) where the cardholder is anchored to the bank-FG relationship, the brand choice is determined by the issuer-FG's primary brand alignment (NICOS leans MUFG card lines; SMBC Card leans Visa). JCB partner-issuance through these bank-FG channels exists but is a sub-set of their broader brand mix.
 
 The hybrid 3-party / 4-party identity is **both an advantage and a friction**: advantage because JCB can capture revenue across both economic models; friction because cardholders and merchants experience JCB as inconsistent (the same brand, different fee mechanics depending on the card).
@@ -246,8 +246,8 @@ The flip side of any issuer-side matrix is what merchants experience when they a
 - JCB: corporate overview — https://www.jcb.co.jp/corporate/
 - JCB: merchant regulations and rules — https://www.jcb.co.jp/merchant/regulation/
 - METI: registered operator lists portal — https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
-- METI: 登録包括信用購入あっせん業者 PDF — https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
-- METI: クレジットカード番号等取扱契約締結事業者 PDF — https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
+- METI: registered comprehensive credit-purchase intermediary PDF ? https://www.meti.go.jp/policy/economy/consumer/credit/tourokuhoukatsuichiran.pdf
+- METI: credit-card-number handling contract operator PDF ? https://www.meti.go.jp/policy/economy/consumer/credit/teiketsuichiran.pdf
 - Japan Credit Association (J-Credit): https://www.j-credit.or.jp/
 - Japan Credit Association: security guideline documents — https://www.j-credit.or.jp/security/document/index.html
 - Payments Japan Association: publications — https://paymentsjapan.or.jp/category/publications/

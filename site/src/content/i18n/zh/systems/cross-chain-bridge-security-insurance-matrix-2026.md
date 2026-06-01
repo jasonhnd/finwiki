@@ -4,23 +4,23 @@ source_hash: 05c500e4a8257c20
 lang: zh
 status: machine
 fidelity: ok
-title: "跨链桥安全与保险矩阵 2026 · 14 协议 trust model / hack history / coverage 全景"
+title: "跨链桥安全与保险矩阵 2026 · 14 协议信任模型 / 攻击历史 / 保险覆盖全景"
 translated_at: 2026-06-01T04:15:40.118Z
 ---
-# 跨链桥安全与保险矩阵 2026 · 14 协议 trust model / hack history / coverage 全景
+# 跨链桥安全与保险矩阵 2026 · 14 协议信任模型 / 攻击历史 / 保险覆盖全景
 
 ## TL;DR
 
-- 14  个活跃 cross-chain bridge / messaging 协议在 2026-Q2  时点的 trust model · hack history · insurance · audit · recovery 的 5 维对照矩阵
-- Trust model 4 象限：**native**（CCTP V2 / IBC）· **light-client / ZK**（Wormhole ZK Verifier / Hyperlane ZK ISM）· **validator-set / multisig**（LayerZero v2 default · Wormhole Guardian · Axelar）· **optimistic / fraud-proof**（Across · Connext · Hyperlane optimistic ISM）
+- 14 个活跃跨链桥 / 跨链消息协议在 2026-Q2 时点的信任模型、黑客攻击历史、保险覆盖、审计和恢复机制 5 维对照矩阵。
+- 信任模型分为 4 类：**原生铸销 / 原生通信**（CCTP V2 / IBC）、**轻客户端 / ZK 验证**（Wormhole ZK Verifier / Hyperlane ZK ISM）、**验证者集合 / 多签**（LayerZero v2 default、Wormhole Guardian、Axelar）以及 **optimistic / fraud-proof**（Across、Connext、Hyperlane optimistic ISM）。
 - 历史 hack 累计 ≥ $2.7B（2021-2025）· **Ronin $625M · Wormhole $325M · BNB Bridge $570M · Poly $611M · Nomad $190M · Multichain $126M（2023 逃逸）· Orbit Chain $81M（2024）· Wormhole 在 2022.02  后由 Jump Crypto 全额补填 + 通过 2024 ZK Verifier 修正**
-- Insurance 3 大池：**Nexus Mutual**（~$120M capital · 主流桥 cover available）· **InsurAce**（~$30M · 更深入覆盖中小桥）· **Sherlock**（~$15M · audit + cover bundled · 部分覆盖 Hyperlane / LayerZero）
+- 保险覆盖主要来自 3 类资金池：**Nexus Mutual**（约 USD 120M capital，覆盖部分主流桥）、**InsurAce**（约 USD 30M，更偏中小桥覆盖）和 **Sherlock**（约 USD 15M，将审计与保险组合，部分覆盖 Hyperlane / LayerZero）。
 - 2026  年真正可保险的桥仅约 6  个（CCTP V2 · LayerZero v2 · Wormhole NTT · Across · Hyperlane · Axelar）· 大多数桥规模太小或 trust model 过于复杂，被 insurer 拒绝承保
-- 路线：[[systems/cross-chain-five-pole-comparison-matrix]]（general comparison）· [[systems/cross-chain-four-poles-overview]]（architecture）· 本矩阵专注于 security + insurance 维度
+- 路线：[[systems/cross-chain-five-pole-comparison-matrix]]（一般比较）· [[systems/cross-chain-four-poles-overview]]（架构）· 本矩阵专注于安全与保险维度
 
 ## Wiki 路线
 
-本条目位于 [[systems/INDEX|systems index]] 下。请对照 [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極対照マトリクス]] 阅读一般性的 9-axis bridge comparison，并使用 [[systems/cross-chain-four-poles-overview|クロスチェーン 4 極アーキテクチャ概観]] 阅读底层 architecture taxonomy。关于特定协议深挖，请参见 [[systems/cctp-v2-overview|CCTP V2 overview]] · [[systems/cctp-v2-technical-spec|CCTP V2 technical spec]] · [[systems/hyperlane-overview|Hyperlane overview]] · [[systems/hyperlane-ism-modular-security|Hyperlane ISM modular security]] · [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 omnichain messaging]] · [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP institutional messaging]]。关于这些 trust model 之间的选择逻辑，请使用 [[systems/cross-chain-four-poles-selection-decision|クロスチェーン選定意思決定ツリー]]。请结合 [[systems/chain-abstraction-pattern-overview|chain abstraction overview]] 和 [[systems/chain-abstraction-pattern-three-solutions|chain abstraction three solutions]] 阅读位于这些桥之上的 UX 层。关于用于重建 hack timeline 的 security forensics methodology，请参见 [[security/INDEX|security index]] 和 [[security/bytecode-forensic-three-tier-verify|bytecode forensic three-tier verify]]。
+本条目位于 [[systems/INDEX|systems index]] 下。请对照 [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对照矩阵]] 阅读一般性的九轴桥比较，并使用 [[systems/cross-chain-four-poles-overview|跨链四极架构概览]] 阅读底层架构分类。特定协议深挖请参见 [[systems/cctp-v2-overview|CCTP V2 概览]] · [[systems/cctp-v2-technical-spec|CCTP V2 技术规格]] · [[systems/hyperlane-overview|Hyperlane 概览]] · [[systems/hyperlane-ism-modular-security|Hyperlane ISM 模块化安全]] · [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 全链消息]] · [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP 机构消息传递]]。关于这些信任模型之间的选择逻辑，请使用 [[systems/cross-chain-four-poles-selection-decision|跨链选择决策树]]。请结合 [[systems/chain-abstraction-pattern-overview|链抽象概览]] 和 [[systems/chain-abstraction-pattern-three-solutions|链抽象三方案]] 阅读位于这些桥之上的 UX 层。关于用于重建攻击时间线的安全取证方法，请参见 [[security/INDEX|security index]] 和 [[security/bytecode-forensic-three-tier-verify|字节码取证三层验证]]。
 
 ## 为什么这个矩阵重要
 
@@ -30,11 +30,11 @@ translated_at: 2026-06-01T04:15:40.118Z
 
 矩阵对照 2026-Q2  状态，已 sunset 的 Multichain / Nomad / cBridge V1  等不包含在内。Synapse 与 Connext 因 TVL 大幅下降接近 sunset，但作为参考保留。
 
-## Per-protocol sections
+## 分协议章节
 
 ### CCTP V2 （Circle）
 
-**Trust model**：Native burn-mint · USDC 在 source chain 上销毁 · Circle 的链下 attester 发出 attestation · 在 destination chain 上重新铸造。对 Circle 中心化 attester 的单一信任 · 但带有 OFAC + §501  合规背书。Fast Transfer V2  为 8-20  秒 finality（V1  为 10-20  分钟）。
+**信任模型**：Native burn-mint · USDC 在 source chain 上销毁 · Circle 的链下 attester 发出 attestation · 在 destination chain 上重新铸造。对 Circle 中心化 attester 的单一信任 · 但带有 OFAC + §501 合规背书。Fast Transfer V2 的 finality 为 8-20 秒（V1 为 10-20 分钟）。
 
 **Validator security budget**：Circle 自身的 reputation + compliance moat · 不是链上经济 stake。理论上如果 attester 私钥被攻破 = 可任意 mint USDC · 但 Circle 可立即冻结合约（2022 Tornado Cash 制裁实战中已验证冻结能力）。
 
@@ -230,11 +230,11 @@ translated_at: 2026-06-01T04:15:40.118Z
 
 **Recovery process**：Foundation 协调 · Classic 已 freeze。
 
-## Big comparison matrix table
+## 大比较矩阵表
 
 **14 协议 × 7 维度对照**（2026-Q2  状态）：
 
-| 协议 | Trust model | Validator security budget | 历史 hack | Insurance | Audit firms | Recovery process |
+| 协议 | 信任模型 | 验证者安全预算 | 历史攻击 | 保险 | 审计机构 | 恢复流程 |
 |---|---|---|---|---|---|---|
 | **CCTP V2** | Native burn-mint · Circle attester | Circle reputation + compliance moat · 无链上 stake | None（2023-06+ ~$0）| Lloyd's via Coincover · NM USDC depeg cover | OpenZeppelin · Halborn · ChainSecurity · SOC2 Type II | Circle 冻结 + Mint OTC 补偿 |
 | **Hyperlane** | Permissionless ISM（multisig/EigenLayer/ZK/optimistic）| 依赖 ISM · EigenLayer ISM 约 $1B+ | None（2024-07+ ~$0 protocol-level）| Sherlock ~$5M · NM 部分 | Trail of Bits · Zellic · OpenZeppelin · CertiK · Cantina | App 自定 · Foundation 协调大型客户 |
@@ -252,12 +252,12 @@ translated_at: 2026-06-01T04:15:40.118Z
 | **Allbridge** | Classic multisig + Core stablecoin AMM（独立 LP）| 小规模 multisig · TVL ~$20M | **2023.04 Classic $570K BSC flash loan**（返还 60%）· Classic deprecated | 无 cover | Hacken · SmartState（Classic）· Halborn（Core）| Classic freeze · Foundation 协调 |
 
 **矩阵读法**：
-- 横向查看 1 协议的 7 维 profile · 纵向查看同一维度下 14 协议差异
-- **Insurance availability** 是最严格的淘汰过滤器 —— 14 个协议中真正拥有主流 insurer cover 的仅约 6 个 · 其他只有自有 treasury 的隐含 backstop
+- 横向查看单一协议的七维档案，纵向查看同一维度下 14 个协议的差异。
+- **保险可得性** 是最严格的淘汰过滤器：14 个协议中真正拥有主流 insurer cover 的仅约 6 个，其他只有自有 treasury 的隐含 backstop。
 - **Hack-free track record** ≠ 安全 —— Synapse / Connext 无 protocol-level hack，但经济安全性已缩小到难以承保的水平
 - **Trust model + validator security budget 的组合**决定真实 attack cost · Wormhole 19 Guardian 无显式 stake，但有机构 reputation moat · LayerZero default DVN 同样不是 economic stake，而依赖 enterprise SLA
 
-## Boundary cases / future trajectory
+## 边界情形 / 未来轨迹
 
 **Recovery process 的 2 范式**：
 - **Centralized backstop**（CCTP V2 Circle / Wormhole Jump 风格补偿 / Connext Inc. ad hoc）—— recovery 快，但依赖单一实体的 reputation 与资本
@@ -281,14 +281,14 @@ translated_at: 2026-06-01T04:15:40.118Z
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|systems index]]
-- [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]]
-- [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]]
-- [[systems/cross-chain-four-poles-ccip-institutional|CCIP institutional default]]
-- [[systems/cross-chain-four-poles-selection-decision|cross-chain selection decision tree]]
-- [[systems/cctp-v2-overview|CCTP V2 overview]]
-- [[systems/cctp-v2-technical-spec|CCTP V2 technical spec]]
-- [[systems/hyperlane-overview|Hyperlane overview]]
-- [[systems/hyperlane-ism-modular-security|Hyperlane ISM modular security]]
+- [[systems/cross-chain-five-pole-comparison-matrix|跨链五极对照矩阵]]
+- [[systems/cross-chain-four-poles-overview|跨链四极概览]]
+- [[systems/cross-chain-four-poles-ccip-institutional|CCIP 机构默认路径]]
+- [[systems/cross-chain-four-poles-selection-decision|跨链选择决策树]]
+- [[systems/cctp-v2-overview|CCTP V2 概览]]
+- [[systems/cctp-v2-technical-spec|CCTP V2 技术规格]]
+- [[systems/hyperlane-overview|Hyperlane 概览]]
+- [[systems/hyperlane-ism-modular-security|Hyperlane ISM 模块化安全]]
 - [[systems/hyperlane-vs-layerzero-ccip|Hyperlane vs LayerZero/CCIP]]
 - [[systems/layerzero-v2-omnichain-messaging|LayerZero v2 omnichain messaging]]
 - [[systems/chainlink-ccip-institutional-messaging|Chainlink CCIP institutional messaging]]

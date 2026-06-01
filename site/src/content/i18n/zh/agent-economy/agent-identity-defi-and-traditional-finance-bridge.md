@@ -65,7 +65,7 @@ Skyfire 是 **早期 Visa Trusted Agent Protocol (VTAP)** 发行方,该协议标
 Agent 的身份 = 由 NFT 控制的 PKP,其阈值密钥分布于 Lit 网络节点之间。Agent 的权限受运行于 TEE 中的 **Lit Actions**(JavaScript 策略)约束。KYA 绑定通过让 PKP NFT 的铸造由一个本身绑定到已 KYC 部署方的地址(经由 Privy / Magic / Coinbase CDP)控制来实现。部署方可通过转移或销毁该 NFT 来授予或撤销 PKP 权限。
 
 **优点**:无单服务器托管风险;链上透明;抗跨司法辖区。
-**缺点**:Lit 网络吞吐量(100-500ms 签名延迟);相较中心化托管,SOC 2 审计故事更难讲。
+**缺点**：Lit 网络吞吐量存在约束（100-500ms 签名延迟）；相较中心化托管，其 SOC 2 审计可验证性与控制证据叙述更难标准化。
 
 见 [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]]。
 

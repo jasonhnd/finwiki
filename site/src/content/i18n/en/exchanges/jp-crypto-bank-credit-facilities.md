@@ -13,7 +13,7 @@ translated_at: 2026-05-31T03:19:56.368Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード株式会社 — 日本暗号資産交換業者]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade — Japan crypto-asset exchange operator]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system — numbering, Local Finance Bureau jurisdiction, and registration requirements]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
 > A map of publicly disclosed precedents in which Japanese domestic crypto-asset exchange operators obtained credit from commercial banks on an **unsecured / unguaranteed** basis. This intelligence has direct reference value for the fundraising plans of CEX-type projects / stablecoin issuers / tokenized-gold projects, etc.
@@ -97,15 +97,15 @@ The core can be condensed into a single sentence: "the line was set **on the pre
   - the remaining credit appetite of each bank
   - the latest changes to screening criteria
 
-Reference: [[fintech/japan-stablecoin-regulatory-landscape|japan-stablecoin-regulatory-landscape]] · [[fintech/japan-financial-regulation|japan-financial-regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|B2Bステーブルコイン・クロスボーダー決済の爆発的成長]] (the macro demand side of the same CEX sector)
+Reference: [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] · [[fintech/japan-financial-regulation|Japan financial regulation]] · [[fintech/stablecoin-crossborder-b2b-growth|rapid expansion of B2B stablecoin cross-border settlement]] (the macro demand side of the same CEX sector)
 
 ## Sources
 
-- bitbank Inc. official press release "bitbank concludes a 5億円 commitment-line agreement with Kiraboshi Bank" (⭐ precedent: borrowing limit 5億円 · collateral/guarantee = unsecured / unguaranteed · agreement date 2026-03-31) — https://prtimes.jp/main/html/rd/p/000000240.000024344.html
+- bitbank Inc. official press release "bitbank concludes a JPY 500 million commitment-line agreement with Kiraboshi Bank" (precedent: borrowing limit JPY 500 million · collateral/guarantee = unsecured / unguaranteed · agreement date 2026-03-31) — https://prtimes.jp/main/html/rd/p/000000240.000024344.html
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/stablecoin-crossborder-b2b-growth|B2B Stablecoin クロスボーダー決済の爆発的成長(733% YoY、$226B)]]
-- [[fintech/usd-stablecoin-interchange|USDステーブルコインのインターチェンジ市場 — $33兆のレール上の0.01%ビジネス]]
+- [[fintech/stablecoin-crossborder-b2b-growth|rapid expansion of B2B stablecoin cross-border settlement (733% YoY, $226B)]]
+- [[fintech/usd-stablecoin-interchange|USD stablecoin interchange market — a 0.01% business on $33T of rails]]
 <!-- /wiki-links:managed -->

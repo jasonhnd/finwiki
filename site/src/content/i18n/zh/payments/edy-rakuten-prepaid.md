@@ -15,14 +15,14 @@ translated_at: 2026-06-01T03:31:12.259Z
 
 ## 要点摘要
 
-**Rakuten Edy (楽天Edy)** 是日本**与主要平台无关的 FeliCa 预付费电子货币**，与零售锚定 ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) 和交通锚定 ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) 预付费系统不同。 2001  最初是由 **bitWallet (ビトワaretto株式会社)**（NTT Docomo + Sony + 银行财团的衍生公司）推出的，Edy 是日本**第一个主要的 FeliCa 电子货币产品**，比 WAON / nanaco 早六年，比 Suica / PASMO 零售早几年被接受。 **被乐天收购2009-11**（全资子公司2010）并更名为Rakuten Edy 2012-06, 特许经营权现在由**楽天Edy株式会社（Rakuten Edy Co Ltd）**作为在FSA注册的第三者型预付费发行人（公司编号3010901038102, 注册）运营2016-07-21）。 Edy 的显着特点是**没有单一商户锚点**——在平台中立的基础上接受便利店（Lawson、FamilyMart、MiniStop、Daily Yamazaki 和 Seicomart）、药店、餐馆、自动售货机和其他商户，以乐天卡自动充值和楽天ポイinto（乐天积分）集成作为主要的客户获取渠道。
+**Rakuten Edy (楽天Edy)** 是日本**与主要平台无关的 FeliCa 预付费电子货币**，与零售锚定 ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) 和交通锚定 ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) 预付费系统不同。 2001  最初是由 **bitWallet (ビトワaretto株式会社)**（NTT Docomo + Sony + 银行财团的衍生公司）推出的，Edy 是日本**第一个主要的 FeliCa 电子货币产品**，比 WAON / nanaco 早六年，比 Suica / PASMO 零售早几年被接受。 **被乐天收购2009-11**（全资子公司2010）并更名为Rakuten Edy 2012-06, 特许经营权现在由**楽天Edy株式会社（Rakuten Edy Co Ltd）**作为在FSA注册的第三者型预付费发行人（公司编号3010901038102, 注册）运营2016-07-21）。 Edy 的显着特点是**没有单一商户锚点**——在平台中立的基础上接受便利店（Lawson、FamilyMart、MiniStop、Daily Yamazaki 和 Seicomart）、药店、餐馆、自动售货机和其他商户，以乐天卡自动充值和Rakuten Point（乐天积分）集成作为主要的客户获取渠道。
 
 ## 发行人和运营结构
 
-|尺寸|阅读|
+| 项目 | 内容 |
 |---|---|
 |运营公司|乐天Edy有限公司|
-|集团家长| [[JapanFG/rakuten-card\|Rakuten Card]] / 乐天集团 |
+| 母集团 | [[JapanFG/rakuten-card|Rakuten Card]] / 乐天集团 |
 | FSA 预付费注册 |第三方预付支付工具 |
 |法人号码 | 3010901038102 |
 | FSA 注册日期 | 2016-07-21|
@@ -42,7 +42,7 @@ Rakuten Edy 在 [[payments/funds-transfer-vs-prepaid-boundary|Payment Services A
 - 每半年向法务局缴纳**未使用余额押金**（押金）。
 - **除非发行终止，否则不会退还给原始付款人** — Edy 余额不可退还为现金。
 - **破损** — 长期未兑换余额模式（Edy 卡被遗忘，余额未消耗）；为发行人损益做出贡献。
-- PSA 预付门槛下的 AML/KYC 豁免。
+- PSA 预付门槛下免除部分 AML/KYC 要求。
 
 ## 先驱者/传统地位与进入者继任者
 

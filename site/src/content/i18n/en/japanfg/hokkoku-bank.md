@@ -4,26 +4,26 @@ source_hash: 7929fdd91cf16f4d
 lang: en
 status: machine
 fidelity: ok
-title: "北國銀行"
+title: "Hokkoku Bank"
 translated_at: 2026-05-31T15:29:03.923Z
 ---
 
-# 北國銀行
+# Hokkoku Bank
 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-bank|福岡銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-bank|Bank of Fukuoka]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-株式会社北國銀行は、金融庁の銀行免許一覧に掲載される石川県地盤の地方銀行で、[[hokkoku-fhd]] の core operating bank。[[hokkoku-fhd]] が holding-company / digital-platform strategy を扱うのに対し、本ページは licensed bank entity and regional-lending surface を扱う。
+Hokkoku Bank, Ltd. is an Ishikawa-based regional bank listed in the FSA bank-license list and serves as the core operating bank of [[hokkoku-fhd]]. While [[hokkoku-fhd]] covers the holding-company and digital-platform strategy, this page focuses on the licensed bank entity and its regional-lending surface.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | 株式会社北國銀行 |
+| Legal name | Hokkoku Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
 | Group boundary | [[hokkoku-fhd]] operating bank |
 | Home market | Ishikawa / Hokuriku |
@@ -31,11 +31,11 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-北國銀行は、石川県・北陸地域の retail / SME / municipal finance を担いながら、[[hokkoku-fhd]] の digital / BaaS platform strategy の実装母体にもなっている。Holding company と bank operating company を分けることで、IT platform strategy と銀行免許業務を混同しない。Hokuriku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+Hokkoku Bank provides retail, SME, and municipal-finance services in Ishikawa Prefecture and the broader Hokuriku region while also serving as the implementation vehicle for [[hokkoku-fhd]]'s digital / BaaS platform strategy. Separating the holding company from the bank operating company prevents the IT platform strategy from being conflated with licensed banking operations. For Hokuriku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
-- Moves 北國銀行 exact-name coverage out of parent-only coverage.
+- Provides exact-name coverage for Hokkoku Bank outside the parent-company page.
 - Important for Hokuriku regional-bank comparison.
 - Registry-backed B2.1 regional-bank operating-company page.
 

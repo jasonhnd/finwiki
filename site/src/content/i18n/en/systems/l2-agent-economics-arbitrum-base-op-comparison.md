@@ -15,7 +15,7 @@ For AI agent workloads in 2026 年, L2  selection is converging on **Base as the
 
 ## Wiki route
 
-This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 総覧]] and [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 ウォレット採用]] to understand the wallet layer for agent transactions, and against [[agent-economy/INDEX|agent economy index]] to see the evolution of the full agent-payment protocol stack. For the economic background of per-transaction costs, see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]].
+This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems/erc-4337-overview|ERC-4337 overview]] and [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 wallet adoption]] to understand the wallet layer for agent transactions, and against [[agent-economy/INDEX|agent economy index]] to see the evolution of the full agent-payment protocol stack. For the economic background of per-transaction costs, see [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob expansion]].
 
 ## 3 L2  basic parameter comparison (2026-Q1)
 
@@ -53,7 +53,7 @@ All 3  chains are still **single centralized sequencers**, directly affecting ag
 - **Base private mempool**: Coinbase provided an optional private bundle route for Smart Wallet customers in 2024-2025 , partly mitigating sandwich attacks
 - **Optimism Superchain shared sequencer roadmap**: In theory, OP Stack chains can introduce cross-chain atomic execution by sharing a sequencer; not deployed in production as of 2026 年
 - **decentralized sequencer**: included in the roadmaps of all 3  chains, but as of 2026 年 none has meaningful mainnet progress; centralized sequencers remain a trust assumption agents must accept
-- **agent practical advice**: For high-value swaps, use [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]] and route transactions through batch-auction paths such as Cowswap / 1inch / Skip, avoiding a sequencer single point of failure
+- **agent practical advice**: For high-value swaps, use [[systems/chain-abstraction-pattern-overview|chain abstraction patterns]] and route transactions through batch-auction paths such as Cowswap / 1inch / Skip, avoiding a sequencer single point of failure
 
 ## Gas sponsorship / Paymaster availability
 
@@ -104,11 +104,11 @@ PYUSD / USDT0 / RLUSD are deployed on 3  chains, but are far smaller than USDC; 
 
 Agent developers' L2  selection is pre-locked by wallet providers + cloud SDKs:
 
-- **[[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]]**: Base + USDC Native + Smart Wallet + Paymaster are the defaults; integration is 1 行 code, and the agent is almost automatically = Base
+- **[[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP]]**: Base + USDC Native + Smart Wallet + Paymaster are the defaults; integration is a one-line implementation path, and agent settlement effectively defaults to Base
 - **[[agent-economy/privy-aws-agentcore-default-wallet|Privy + AWS AgentCore]]**: Privy creates Base + Ethereum + Solana wallets by default in AWS Bedrock AgentCore integration; the default for agent payment is USDC on Base
-- **[[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]]**: x402  implementations by CDN/edge platforms such as Cloudflare / AWS / Vercel default to USDC on Base; the agent automatically chooses Base settlement through HTTP 402 
+- **[[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]]**: x402 implementations by CDN/edge platforms such as Cloudflare / AWS / Vercel default to USDC on Base; the agent automatically chooses Base settlement through HTTP 402
 - **Alchemy Account Kit**: Multi-chain support, but GTM prioritizes Arbitrum + Base + Optimism + Polygon and recommends multi-chain for agents
-- **Result**: In 2025-2026 年, ~70%+ of new agent projects select Base as the settlement chain, while Arbitrum / Optimism / Polygon combined are ~30%; see [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] for details
+- **Result**: In 2025-2026, ~70%+ of new agent projects select Base as the settlement chain, while Arbitrum / Optimism / Polygon combined are ~30%; see [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet network-effect moat]] for details
 
 ## Arbitrum differentiation: DeFi depth + Orbit + Stylus
 
@@ -138,12 +138,12 @@ The actual per-action cost for agents is not "1 UserOp 1 settlement"; rather, **
 
 ## Network effects of Privy / Coinbase CDP / AWS AgentCore defaults
 
-When an agent project selects a wallet provider, L2  selection is basically locked; see [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]] for details:
+When an agent project selects a wallet provider, L2 selection becomes materially constrained by wallet-provider integration defaults; see [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet network effects moat]] for details:
 
-- **Privy** creates ETH + Base + Solana wallets by default in AWS Bedrock AgentCore; once an agent goes through the AWS AgentCore route, Base almost becomes the default settlement chain
+- **Privy** creates ETH + Base + Solana wallets by default in AWS Bedrock AgentCore; once an agent goes through the AWS AgentCore route, Base becomes the default settlement chain in most practical integrations
 - **Coinbase CDP** uses Base as the default chain in all SDK documentation examples; migration to other L2  requires reconfiguring paymaster / RPC / USDC addresses
 - **WalletConnect / Reown** supports multiple chains, but GTM promotes Base + Arbitrum + Optimism + Polygon
-- **AWS / Cloudflare / Vercel** edge integration defaults to USDC on Base; compare with [[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]]
+- **AWS / Cloudflare / Vercel** edge integration defaults to USDC on Base; compare with [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]]
 - **Actual selection distribution of new agent projects** (2025-2026  industry informal survey basis): Base 60-70% / Arbitrum 15-20% / Optimism 5-10% / Polygon 5-10% / Other 5%
 
 ## CCTP V2 + chain abstraction · agent multi-chain architecture
@@ -152,7 +152,7 @@ Agents are not bound to a single L2 ; they use **home chain + multi-chain spendi
 
 - **Home chain pattern**: The agent holds stablecoin / token on the home chain (usually Base), and crosses chains via [[systems/cctp-v2-overview|CCTP V2]] when spending is needed
 - **CCTP V2 fast finality**: USDC burn-mint has 1-3  second finality, and cross-chain transfer per 1  time has a fee of $0.01-0.10
-- **Chain abstraction (compare with [[systems/chain-abstraction-pattern-overview|chain abstraction パターン]])**: Skip Protocol / Connext / Across / Hyperlane Warp Route and others let the agent sign 1  intent on the source chain, with cross-chain settlement completed by a solver
+- **Chain abstraction (compare with [[systems/chain-abstraction-pattern-overview|chain abstraction patterns]])**: Skip Protocol / Connext / Across / Hyperlane Warp Route and others let the agent sign 1  intent on the source chain, with cross-chain settlement completed by a solver
 - **Typical agent flow**: 1) User holds USDC on Base in Coinbase Smart Wallet → 2) agent triggers cross-chain spending → 3) bundler submits UserOp to Base → 4) CCTP V2  burns USDC on Base → 5) mints USDC on target L2  → 6) completes spending on target L2 ; full flow < 30  seconds
 - **Multi-chain agent practice**: Most agent payments still complete inside Base; cross-chain scenarios concentrate in DeFi yield optimizers / cross-DEX arbitrage, < 20% of total agent-payment volume
 
@@ -178,7 +178,7 @@ Figures are from L2Beat + DefiLlama + Pimlico bundler benchmarks + Coinbase CDP 
 - **paymaster validation**: Paymasters such as CDP / Pimlico run validatePaymasterUserOp before sponsoring; paymasters can reject some malicious contract calls
 - **bundle failure rollback**: A single UserOp revert inside a bundled UserOp does not roll back the whole bundle, but the sponsor still bears gas
 - **chain reorg risk**: Base / OP Mainnet occasionally have 1-2 block reorgs (rare); agent payments should preferably wait for ~12 blocks confirmation for sensitive transactions
-- **L1 fault proof window**: Base / Arbitrum / Optimism all have a 7 -day fault proof window, and withdrawals to L1  require waiting, but this does not affect settlement inside L2 
+- **L1 fault proof window**: Base / Arbitrum / Optimism all have a 7 -day fault proof window, and withdrawals to L1  require waiting, but this does not affect settlement inside L2
 - **sequencer regulation / sanctions**: Coinbase, as a US-regulated entity, may block specific addresses under OFAC sanctions; agents need to consider that sanctioned wallets cannot settle on Base
 
 ## Agent workload L2  decision tree
@@ -190,7 +190,7 @@ Figures are from L2Beat + DefiLlama + Pimlico bundler benchmarks + Coinbase CDP 
 - Cross-chain agent (multi-chain settlement): [[systems/cctp-v2-overview|CCTP V2]] + use Base as the home chain
 - KYC-regulated agent: Coinbase CDP on Base (Coinbase risk controls + KYC)
 
-See [[systems/chain-abstraction-pattern-overview|chain abstraction パターン総覧]] and [[systems/chain-abstraction-pattern-three-solutions|chain abstraction 3 つのソリューション]] for detailed chain-abstraction routes.
+See [[systems/chain-abstraction-pattern-overview|chain abstraction pattern overview]] and [[systems/chain-abstraction-pattern-three-solutions|three chain-abstraction solutions]] for detailed chain-abstraction routes.
 
 ## Related
 
@@ -198,17 +198,17 @@ See [[systems/chain-abstraction-pattern-overview|chain abstraction パターン�
 - [[INDEX|Wiki Index]]
 - [[systems/INDEX|Systems Index]]
 - [[systems/erc-4337-overview|ERC-4337 総覧]]
-- [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 ウォレット採用]]
+- [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 wallet adoption]]
 - [[systems/pectra-eip-7691-blob-l2-impact|Pectra EIP-7691 blob 拡張]]
 - [[systems/cctp-v2-overview|CCTP V2 総覧]]
-- [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン五極対比マトリクス]]
-- [[systems/chain-abstraction-pattern-overview|chain abstraction パターン総覧]]
-- [[systems/polygon-agglayer-architecture-rollout|Polygon AggLayer アーキテクチャ]]
+- [[systems/cross-chain-five-pole-comparison-matrix|cross-chain five-pole comparison matrix]]
+- [[systems/chain-abstraction-pattern-overview|chain abstraction pattern overview]]
+- [[systems/polygon-agglayer-architecture-rollout|Polygon AggLayer architecture]]
 - [[agent-economy/INDEX|Agent Economy Index]]
-- [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP 開発者プラットフォーム]]
-- [[agent-economy/privy-aws-agentcore-default-wallet|Privy + AWS AgentCore デフォルトウォレット]]
-- [[agent-economy/x402-cloudflare-aws-edge-integration|x402 エッジ統合]]
-- [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet ネットワーク効果の堀]]
+- [[agent-economy/coinbase-cdp-developer-platform|Coinbase CDP developer platform]]
+- [[agent-economy/privy-aws-agentcore-default-wallet|Privy + AWS AgentCore default wallet]]
+- [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]]
+- [[agent-economy/embedded-wallet-network-effects-moat|embedded wallet network-effect moat]]
 <!-- /wiki-links:managed -->
 
 ## Sources

@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.362Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与地方银行控股公司和银行索引对照阅读。
 
 ## TL;DR
 

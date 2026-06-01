@@ -4,45 +4,45 @@ source_hash: 9c1d04edbbeea2ac
 lang: en
 status: machine
 fidelity: needs_review
-title: "繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱"
+title: Fukoku Shinrai Life Insurance
 translated_at: 2026-05-31T15:29:03.930Z
 ---
-﻿
-# 繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱
 
+# Fukoku Shinrai Life Insurance
 
-## Wiki route
+## Wiki Route
 
-This entry sits under 笶ｰa笶ｱ. Read it against 笶ｰb笶ｱ for peer / contrast context and 笶ｰc笶ｱ for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukoku-life|Fukoku Life]] for group context and [[insurance/INDEX|insurance index]] for the broader insurance-system and regulatory boundary.
 
 ## TL;DR
 
-繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱譬ｪ蠑丈ｼ夂､ｾ縺ｯ縲≫擴d笶ｱ group adjacency 繧呈戟縺､ life-insurance operating company縲ょｯ悟嵜逕溷多縲∝・譬・↓轣ｽ縲≫擴e笶ｱ adjacency 縺後≠繧翫∽ｿ｡逕ｨ驥大ｺｫ channel and regional-finance customer access 縺ｮ隕ｳ轤ｹ縺ｧ隕九ｋ縲・
-## 笶ｰbg笶ｱ. License / group boundary
+Fukoku Shinrai Life Insurance is a life-insurance operating company adjacent to the Fukoku Life group and the shinkin-bank distribution channel. In FinWiki it functions as a small but important route for connecting life-insurance manufacturing with regional-finance customer access. The page should be read as an entity and license boundary, not as a retail-product recommendation.
+
+## License / Group Boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | 繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多菫晞匱譬ｪ蠑丈ｼ夂､ｾ |
-| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Legal name | Fukoku Shinrai Life Insurance Company, Limited |
+| License route | Insurance Business Act life-insurance company; FSA life-insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group / shareholder adjacency | 笶ｰf笶ｱ, 笶ｰg笶ｱ, 笶ｰh笶ｱ |
+| Group / shareholder adjacency | Fukoku Life group and shinkin-bank distribution channel |
 | Wiki role | Fukoku / shinkin-channel life-insurance specialist |
 
-## 笶ｰbh笶ｱ. Why this page matters
+## Why This Page Matters
 
-- Adds a FSA 笶ｰbi笶ｱexact-name life-insurer gap.
-- Connects life insurance with shinkin / regional-finance distribution.
-- Complements 笶ｰi笶ｱ and 笶ｰj笶ｱ.
+- Closes an exact-name life-insurer gap in the FSA registry coverage.
+- Connects life-insurance manufacturing with shinkin and regional-finance distribution.
+- Complements the broader life-insurance, cooperative-finance, and regional-bank maps.
 
 ## Related
 
-- 笶ｰba笶ｱ
-- 笶ｰbb笶ｱ
-- 笶ｰbc笶ｱ
-- 笶ｰbd笶ｱ
+- [[JapanFG/INDEX|JapanFG index]]
+- [[insurance/INDEX|insurance index]]
+- [[JapanFG/fukoku-life|Fukoku Life]]
+- [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 
 ## Sources
 
-- FSA: life-insurance company license list, as of 笶ｰbe笶ｱ.
-- Life Insurance Association of Japan: member-company list, as of 笶ｰbf笶ｱ.
-- 繝輔さ繧ｯ縺励ｓ繧峨＞逕溷多 official company profile.
+- FSA: life-insurance company license list.
+- Life Insurance Association of Japan: member-company list.
+- Fukoku Shinrai Life Insurance official company profile.

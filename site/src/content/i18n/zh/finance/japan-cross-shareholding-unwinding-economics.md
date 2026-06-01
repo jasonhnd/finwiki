@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.667Z
 
 ## Wiki route
 
-This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/japan-listed-financial-groups-investable-universe|listed financial groups investable universe]] for the bank / insurer issuer side, [[finance/japan-activist-investor-playbook|Japan activist investor playbook]] for the activist-pressure interface, [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure controls]] for the disposal-timing information handling, [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]] for exchangeable-bond monetisation, and [[finance/japan-large-shareholding-disclosure|large shareholding disclosure]] for ownership-change reporting.
+本条目位于 [[finance/INDEX|finance domain]] 下。可与上市金融集团、activist investor playbook 和大量持股披露页面一并阅读。
 
 ## TL;DR
 

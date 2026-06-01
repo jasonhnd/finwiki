@@ -13,7 +13,7 @@ translated_at: 2026-05-30T16:40:11.485Z
 
 ## Wiki route
 
-This entry sits under [[agent-economy/skill-market-monetization|Skill マーケット有料化]]. Read it with [[agent-economy/2026-04-08_agent-payment-infrastructure-research|Agent 決済インフラ調査レポート]] for adjacent context and [[INDEX|FinWiki index]] for the broader system boundary.
+本条目位于 agent economy 相关页面下。可与 agent 支付基础设施研究和 AI Agent 支付协议全体图一并阅读。
 
 > [!info] TL;DR
 > 关于 AI Agent 是否构成新型经济主体,存在 4种立场的阵营:

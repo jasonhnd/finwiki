@@ -1,73 +1,69 @@
 ---
 source: japanfg/dai2-chigin-kyo
-source_hash: be20005980618851
+source_hash: 5e9b9658d63d65ad
 lang: zh
 status: machine
 fidelity: ok
-title: "?????????Dai-ni Chigin-kyo / ???????????????"
-translated_at: 2026-05-31T15:29:03.906Z
+title: "第二地方银行协会 (Dai-ni Chigin-kyo)"
+translated_at: 2026-05-31T15:29:03.917Z
 ---
-# ?????????Dai-ni Chigin-kyo / ???????????????
-# Second Association of Regional Banks (Dai-ni Chigin-kyō / 第二地方銀行協会)
+
+# 第二地方银行协会 (Dai-ni Chigin-kyo / 第二地方銀行協会)
 
 ## TL;DR
 
-Dai-ni Chigin-kyō (第二地銀協) is the industry body for Japan's second-tier regional banks — the lineage of former mutual savings banks (相互銀行 / sogō ginkō) that converted to ordinary commercial banks under the 1989-1992 reorganization. Membership is now around the high-30s after decades of consolidation. Like its peers, it is a general incorporated association, not a regulator, and sits beside [[JapanFG/zenginkyo|Zenginkyō]] and [[JapanFG/zenchugin-kyo|Zenchūgin-kyō]] in the bank industry-body stack.
+第二地方银行协会（Dai-ni Chigin-kyo，第二地銀協）是日本第二地方银行的行业团体。该群体源自原相互银行（相互銀行 / sogō ginkō）在 1989-1992 年前后转换为普通银行后的谱系。经历长期并购后，会员数量已降至三十多家。协会本身是一般社团法人，不是监管机关；其行业协调职能与 [[JapanFG/zenginkyo|全国银行协会]]、[[JapanFG/zenchugin-kyo|全国地方银行协会]] 并列。
 
-## Wiki ??
+## Wiki 路径
 
-????? [[JapanFG/INDEX|JapanFG index]]. Read it with [[JapanFG/zenchugin-kyo|Regional Banks Association of Japan]] for the first-tier lineage, [[JapanFG/zenginkyo|Japanese Bankers Association]] for cross-industry coordination, and [[JapanFG/zenshin-kyo|Zenshin-kyō]] for the shinkin co-operative banking adjacent track. Statutory backdrop sits at [[JapanFG/legal-financial-licenses/INDEX]] and [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[JapanFG/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[JapanFG/zenchugin-kyo|全国地方银行协会]] 对照，理解第一地方银行与第二地方银行的历史分层；也可与 [[JapanFG/zenginkyo|全国银行协会]]、[[JapanFG/zenshin-kyo|全国信用金库协会]]、[[JapanFG/legal-financial-licenses/INDEX|金融牌照索引]]、[[JapanFG/yokin-hoken-kiko|存款保险机构]] 及 [[banking/INDEX|银行索引]] 一并阅读。
 
-## ???? / ???? (法令の根拠)
+## 1. 法律地位与功能
 
-Dai-ni Chigin-kyō is a general incorporated association (一般社団法人) whose members are banks licensed under the Banking Act.[^dainichi-about] The association itself has no statutory rulemaking power — FSA supervision under the Banking Act sets the binding regulatory perimeter,[^fsa-bank-guideline] and authorized FIEA self-regulatory associations are listed separately by FSA.[^fsa-licensed] Dai-ni Chigin-kyō's effective authority is membership-contractual: model rules, joint operational standards, training pipelines, and shared infrastructure that members opt into.
+第二地方银行协会是一般社团法人，会员为依据银行法取得银行牌照的第二地方银行。协会不拥有法定规则制定权；具有拘束力的监管边界由金融厅依据银行法及监督指针设定。协会的实际影响力来自会员契约、行业标准、共同培训、模板化规则和共同基础设施。
 
-Historically the body was the Federation of Mutual Savings Banks (全国相互銀行協会). When mutual savings banks converted to ordinary banks (普通銀行転換) starting 1989, the federation re-launched as the Second Association of Regional Banks to keep the converted entities together as a distinct industry constituency from the older first-tier regional banks of [[JapanFG/zenchugin-kyo|Zenchūgin-kyō]].
+历史上，该组织的前身是全国相互银行协会。相互银行在 1989 年以后转换为普通银行时，原团体改组为第二地方银行协会，以保留这些转换银行区别于较早第一地方银行的行业代表性。
 
-## ?? / ??
+## 2. 主要工作
 
-The association's published outline groups its work into:[^dainichi-about]
+协会公开说明中的职能可概括为四类：
 
-1. **Policy advocacy** — joint positions on banking-law amendments, tax policy, capital regulation, accounting, and disclosure rules in concert with [[JapanFG/zenginkyo|JBA]] and [[JapanFG/zenchugin-kyo|Zenchūgin-kyō]] where positions align, separately where second-tier issues differ.
-2. **Common operational infrastructure** — shared computer-system cooperatives, payment / clearing standards plugged into Zengin-Net (operated under the [[JapanFG/zenginkyo|Zenginkyō]] umbrella), joint AML/CFT and customer-protection model frameworks.
-3. **Member services** — training, benchmarking surveys, model templates for branch operations and credit-administration processes, and joint procurement initiatives.
-4. **Public communication** — the dainichiginkyo.or.jp portal, statistics on member banks, and joint statements on regional revitalization and SME finance themes.
+1. **政策倡议**：围绕银行法修订、税制、资本监管、会计和披露规则提出行业意见；在共同议题上与全国银行协会和全国地方银行协会协作，在第二地方银行特有议题上单独发声。
+2. **共同运营基础设施**：协调共同系统、支付与清算标准、与全银网络相关的运营规则，以及 AML/CFT、客户保护和内部控制模板。
+3. **会员服务**：提供培训、基准调查、分行业务和信贷管理模板、共同采购及运营效率化项目。
+4. **公共沟通**：通过协会网站发布会员银行信息、统计资料、地区振兴和中小企业金融相关声明。
 
-The association also coordinates with the [[JapanFG/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]] on member-bank failure-resolution pre-positioning (data quality, contact-bank designation, system-readiness drills) where applicable.
+协会也会在必要时与 [[JapanFG/yokin-hoken-kiko|日本存款保险机构]] 协调会员银行破产处置准备，包括数据质量、联络银行指定和系统准备。
 
-## ?? / ??
+## 3. 会员边界
 
-Membership is restricted to second-tier regional banks (former 相互銀行 lineage and any newer entrants that joined the second-tier track).[^dainichi-members] Members documented in this vault include — among others — [[JapanFG/howa-bank|Howa Bank]], [[JapanFG/taiko-bank|Taiko Bank]], [[JapanFG/shimane-bank|Shimane Bank]], [[JapanFG/saga-kyoei-bank|Saga Kyoei Bank]], [[JapanFG/saikyo-bank|Saikyo Bank]], [[JapanFG/shizuoka-chuo-bank|Shizuoka Chuo Bank]], [[JapanFG/chiba-kogyo-bank|Chiba Kogyo Bank]], [[JapanFG/aichi-bank|Aichi Bank]], [[JapanFG/daito-bank|Daito Bank]], [[JapanFG/sendai-bank|Sendai Bank]], [[JapanFG/miyazaki-taiyo-bank|Miyazaki Taiyo Bank]], and [[JapanFG/shimizu-bank|Shimizu Bank]]. The active member list shrinks over time through mergers (most recent decade-scale mergers have moved former second-regional banks into first-tier holding structures or into broader regional groupings such as [[JapanFG/aichi-fg|Aichi FG]] and [[JapanFG/jimoto-hd|Jimoto Holdings]]).
+会员原则上限于第二地方银行，即原相互银行谱系及加入该轨道的银行。FinWiki 已覆盖的相关银行包括 [[JapanFG/howa-bank|Howa Bank]]、[[JapanFG/taiko-bank|Taiko Bank]]、[[JapanFG/shimane-bank|Shimane Bank]]、[[JapanFG/saga-kyoei-bank|Saga Kyoei Bank]]、[[JapanFG/saikyo-bank|Saikyo Bank]]、[[JapanFG/shizuoka-chuo-bank|Shizuoka Chuo Bank]]、[[JapanFG/chiba-kogyo-bank|Chiba Kogyo Bank]]、[[JapanFG/aichi-bank|Aichi Bank]]、[[JapanFG/daito-bank|Daito Bank]]、[[JapanFG/sendai-bank|Sendai Bank]]、[[JapanFG/miyazaki-taiyo-bank|Miyazaki Taiyo Bank]] 和 [[JapanFG/shimizu-bank|Shimizu Bank]] 等。由于并购持续推进，部分原第二地方银行已进入第一地方银行控股集团或更大区域金融集团，如 [[JapanFG/aichi-fg|Aichi FG]] 和 [[JapanFG/jimoto-hd|Jimoto Holdings]]。
 
-Governance follows general-incorporated-association rules: rotating chair from senior executives of major members, standing committees mirroring the structure of [[JapanFG/zenginkyo|JBA]] and [[JapanFG/zenchugin-kyo|Zenchūgin-kyō]].
+治理上，协会遵循一般社团法人规则，由主要会员银行高层轮值参与会长和常设委员会运作，委员会结构与全国银行协会、全国地方银行协会相似。
 
-## ?? industry adjacency
+## 4. 行业邻接
 
-In the regional-banking lane, Dai-ni Chigin-kyō is the second of two parallel umbrellas alongside [[JapanFG/zenchugin-kyo|Zenchūgin-kyō]]. Cross-industry coordination on payments, AML/CFT, ADR, and statistical-reporting standards is shared with [[JapanFG/zenginkyo|JBA]]. The co-operative banking lane (shinkin and shinkumi) sits with [[JapanFG/zenshin-kyo|Zenshin-kyō]] and the credit-cooperative central body. Other verticals: [[JapanFG/jsda|JSDA]] for securities, [[JapanFG/seiho-kyokai|Life Insurance Association of Japan]] and [[JapanFG/sonpo-kyokai|General Insurance Association of Japan]] for insurance, [[JapanFG/shintaku-kyokai|Trust Companies Association of Japan]] for trust business.
+在区域银行体系中，第二地方银行协会与全国地方银行协会构成两条平行行业轨道。支付、AML/CFT、金融 ADR 和统计报告标准等跨行业议题通常与全国银行协会共享协调。合作金融体系则由全国信用金库协会、信用组合中央团体、劳动金库联络机构和农林中央金库等承担。其他垂直行业团体包括 [[JapanFG/jsda|日本证券业协会]]、[[JapanFG/seiho-kyokai|生命保险协会]]、[[JapanFG/sonpo-kyokai|日本损害保险协会]] 和 [[JapanFG/shintaku-kyokai|信托协会]]。
 
-On the entity side, member-bank pages already in this vault include the second-regional anchors above plus the broader [[banking/INDEX|banking index]].
+## 5. 为什么本页重要
 
-## ??????
+“第一地方银行”与“第二地方银行”的区别会反复出现在 JapanFG 条目中，影响资本实力、存款基础、县域集中度、并购压力和行业倡议的解释。第二地方银行协会是第二地方银行轨道的公开标识，也是理解日本区域银行并购、人口下降和低利率时期经营压力的核心入口。
 
-The distinction between "first-tier" and "second-tier" regional banks is a recurring footnote in JapanFG entries (capital strength, deposit base, prefectural concentration, consolidation pressure). Dai-ni Chigin-kyō is the public marker of the second-tier track and the practical surface for the consolidation narrative — a steadily shrinking membership reflects the wave of regional-bank M&A driven by demographic decline and the BOJ low-rate era. Linking back here clarifies which umbrella a member bank actually belongs to, and provides a single anchor when an entry refers to "second-regional bank standard" rules or joint statements.
+## 相关
 
-## ??
-
-- [[JapanFG/INDEX|JapanFG index]]
-- [[JapanFG/zenginkyo|Japanese Bankers Association]]
-- [[JapanFG/zenchugin-kyo|Regional Banks Association of Japan]]
-- [[JapanFG/zenshin-kyo|National Association of Shinkin Banks]]
-- [[JapanFG/shintaku-kyokai|Trust Companies Association of Japan]]
-- [[JapanFG/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]
-- [[JapanFG/fsa|FSA]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[JapanFG/zenginkyo|全国银行协会]]
+- [[JapanFG/zenchugin-kyo|全国地方银行协会]]
+- [[JapanFG/zenshin-kyo|全国信用金库协会]]
+- [[JapanFG/shintaku-kyokai|信托协会]]
+- [[JapanFG/yokin-hoken-kiko|日本存款保险机构]]
+- [[banking/INDEX|银行索引]]
+- [[JapanFG/legal-financial-licenses/INDEX|金融牌照索引]]
+- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|银行牌照与 BaaS 边界]]
 - [[JapanFG/howa-bank|Howa Bank]]
 - [[JapanFG/taiko-bank|Taiko Bank]]
 - [[JapanFG/aichi-bank|Aichi Bank]]
-- [[banking/INDEX]]
 
-## ??
+## 来源
 
 [^dainichi-about]: 第二地方銀行協会「協会について」, https://www.dainichiginkyo.or.jp/about/
 [^dainichi-members]: 第二地方銀行協会「会員一覧」, https://www.dainichiginkyo.or.jp/member/
@@ -76,5 +72,4 @@ The distinction between "first-tier" and "second-tier" regional banks is a recur
 
 ---
 
-> [!info] Confidence note
-> confidence: **likely**. Lineage from the former mutual-bank federation, membership perimeter, and function buckets sourced from the association's own outline and member-list pages plus FSA Banking Act supervisory framework, checked 2026-05-24. Live member count should be re-verified from the official member-list page before quoting.
+> confidence: **likely**。本页依据协会公开说明、会员名单和金融厅银行法监督框架整理。引用实时会员数量前应重新核对协会官方会员名单。

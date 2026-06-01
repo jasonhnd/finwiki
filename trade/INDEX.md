@@ -50,7 +50,7 @@ When expanding this domain:
 
 1. **Source METI and JETRO directly.** jetro.go.jp/en and meti.go.jp/english are the primary sources. Avoid second-hand consultancy descriptions of JETRO programs because programs and naming change frequently.
 2. **Bilingual titles.** JETRO program names (新興市場開拓事業 / J-Bridge / J-Startup) do not have clean English equivalents — keep Japanese in title or aliases.
-3. **Distinguish JETRO from related bodies.** JETRO, NEDO, JBIC, JICA, and NEXI all sit in or near METI's orbit but do very different things. Each new entry should explicitly state which bucket it covers and link to peers in [[policy-finance/INDEX|policy-finance]] where relevant.
+3. **Distinguish JETRO from related bodies.** JETRO, NEDO, JBIC, JICA, and NEXI all sit in or near METI's orbit but perform materially different functions. Each new entry should explicitly state which bucket it covers and link to peers in [[policy-finance/INDEX|policy-finance]] where relevant.
 4. **Annual refresh.** JETRO Members fee tiers and service catalog update each fiscal year — `last_tended:` should be re-stamped at least annually.
 
 ## Related domains

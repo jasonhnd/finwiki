@@ -11,33 +11,33 @@ translated_at: 2026-05-31T15:29:03.923Z
 # 北國銀行
 
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fukuoka-bank|福岡銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[JapanFG/fukuoka-bank|福冈银行]] 进行同业对照，并结合 [[banking/INDEX|banking index]] 理解更广的银行系统与监管边界。
 
 ## TL;DR
 
-株式会社北國銀行は、金融庁の銀行免許一覧に掲載される石川県地盤の地方銀行で、[[hokkoku-fhd]] の core operating bank。[[hokkoku-fhd]] が holding-company / digital-platform strategy を扱うのに対し、本ページは licensed bank entity and regional-lending surface を扱う。
+北國银行株式会社是金融厅银行牌照列表中的石川县地方银行，也是 [[hokkoku-fhd]] 的核心运营银行。[[hokkoku-fhd]] 页面处理控股公司和数字平台战略，本页则聚焦持牌银行实体及其区域贷款业务面。
 
-## 1. License / group boundary
+## 1. 牌照与集团边界
 
-| Item | Notes |
+| 项目 | 内容 |
 |---|---|
-| Legal name | 株式会社北國銀行 |
-| License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[hokkoku-fhd]] operating bank |
-| Home market | Ishikawa / Hokuriku |
-| Wiki role | Hokkoku group's bank operating-company page |
+| 法定名称 | 北國银行株式会社 |
+| 牌照路径 | 《银行法》下的地方银行；载于 FSA 银行牌照列表 |
+| 集团边界 | [[hokkoku-fhd]] 的运营银行 |
+| 本土市场 | 石川县 / 北陆地区 |
+| Wiki 角色 | Hokkoku 集团的银行运营公司页面 |
 
-## 2. Operating model
+## 2. 运营模型
 
-北國銀行は、石川県・北陸地域の retail / SME / municipal finance を担いながら、[[hokkoku-fhd]] の digital / BaaS platform strategy の実装母体にもなっている。Holding company と bank operating company を分けることで、IT platform strategy と銀行免許業務を混同しない。Hokuriku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+北國银行承担石川县和北陆地区的个人、SME 与地方政府金融，同时也是 [[hokkoku-fhd]] 数字化 / BaaS 平台战略的执行母体。区分控股公司与银行运营公司，有助于避免把 IT 平台战略和银行牌照业务混同。北陆地方银行整合背景见 [[banking/regional-bank-consolidation-pattern]]。
 
-## 3. Why this page matters
+## 3. 为什么需要单独页面
 
-- Moves 北國銀行 exact-name coverage out of parent-only coverage.
-- Important for Hokuriku regional-bank comparison.
-- Registry-backed B2.1 regional-bank operating-company page.
+- 将北國银行的 exact-name 覆盖从母公司页面中拆出。
+- 是北陆地方银行比较中的重要参照。
+- 作为有牌照名录支撑的区域银行运营公司页面。
 
 ## Related
 
@@ -49,5 +49,5 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Sources
 
-- FSA: bank license list, regional banks, as of 2026-04-01.
-- Hokkoku Bank official company profile.
+- FSA 银行牌照列表：地方银行，截至 2026-04-01。
+- Hokkoku Bank 官方公司简介。

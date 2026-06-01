@@ -12,7 +12,7 @@ translated_at: 2026-05-31T05:31:05.778Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for the broader system / regulatory boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/global-dex-major-five-comparison|global dex major five comparison]] for peer / contrast context and [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system — numbering, Local Finance Bureau jurisdiction, and registration requirements]] for the broader system / regulatory boundary.
 
 ## Overview
 
@@ -34,7 +34,7 @@ On the SVM (Sealevel Virtual Machine) environment, which differs from EVM-family
 | Jupiter | aggregator router | integrated swap entry | JUP |
 | Raydium | constant product AMM | general spot + memecoin listing | RAY |
 | Orca | concentrated liquidity AMM | retail UX swap | ORCA |
-| Meteora | DLMM + memecoin pools | memecoin liquidity | MET (TBD) |
+| Meteora | DLMM + memecoin pools | memecoin liquidity | MET (not yet publicly confirmed) |
 | Drift | oracle + AMM perp | leveraged trading | DRIFT |
 | Phoenix | on-chain CLOB | institutional spot order book | (none) |
 
@@ -46,4 +46,4 @@ As a phenomenon unique to Solana, memecoin issuance platforms originating from *
 
 ## International comparison — contrast with EVM-family chains
 
-In contrast with the EVM (Uniswap / Curve / Aerodrome) ecosystem, Solana SVM achieves low cost + low latency through a single L1 + parallel execution + 400ms blocks, whereas EVM takes a multi-chain distributed structure with a rollup + sequencer model. For the evolutionary lineage of AMM design see ([[exchanges/amm-design-evolution]]), and for ve(3,3) governance see ([[exchanges/ve33-governance-mechanism]]). The pattern of a chain-native DEX flipping an incumbent first-mover corresponds to ([[exchanges/native-dex-flip-incumbent-pattern]]). On the regulatory + access side, domestic VASPs are advancing SOL spot handling ([[exchanges/jvcea-whitelist-listing-timeline]]), but direct access to the Solana DEXs themselves is only via domestic wallets, and there is no automatic routing through a CEX. For cross-chain route design read [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] and [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge × CEX 入出金]] alongside, and for the perp cross-comparison read [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 社比較]].
+In contrast with the EVM (Uniswap / Curve / Aerodrome) ecosystem, Solana SVM achieves low cost + low latency through a single L1 + parallel execution + 400ms blocks, whereas EVM takes a multi-chain distributed structure with a rollup + sequencer model. For the evolutionary lineage of AMM design see ([[exchanges/amm-design-evolution]]), and for ve(3,3) governance see ([[exchanges/ve33-governance-mechanism]]). The pattern of a chain-native DEX flipping an incumbent first-mover corresponds to ([[exchanges/native-dex-flip-incumbent-pattern]]). On the regulatory + access side, domestic VASPs are advancing SOL spot handling ([[exchanges/jvcea-whitelist-listing-timeline]]), but direct access to the Solana DEXs themselves is only via domestic wallets, and there is no automatic routing through a CEX. For cross-chain route design read [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] and [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge and CEX deposit / withdrawal routes]] alongside, and for the perp cross-comparison read [[exchanges/global-perp-dex-five-comparison|global perp DEX five-company comparison]].

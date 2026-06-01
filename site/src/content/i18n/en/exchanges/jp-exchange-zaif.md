@@ -13,7 +13,7 @@ translated_at: 2026-05-31T05:31:05.765Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA crypto-asset exchange registration system]] for adjacent context and [[fintech/japan-financial-regulation|Japan financial regulation for tokens, crypto-assets, and payments]] for the broader system boundary.
 
 > FSA registration number Director-General of the Kinki Local Finance Bureau 第00001号 · JVCEA member #1014 · registration date 2017-09-29
 
@@ -43,7 +43,7 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 > BTC, ETH, SNPT, SKEB, ZPG, ZPGAG, ZPGPT, BORA, XYM, XEM, FSCC, CICC, NCXC, KAIA(KLAY), POL(MATIC), TRX, COT, BCH, MONA, ZAIF, CMS:XEM, CMS:ETH, XCP, JOC
 
 - **Distinctive features**: rich in listings originating from domestic communities, such as MONA (MonaCoin), XEM (NEM), and the ZAIF token. Tokens issued by former-owner groups, such as FSCC (Fisco Coin) and SKEB, also remain. It also handles GameFi / blockchain-game-linked listings such as ZPG (ZeplinGo) and SNPT (SNPIT)
-- In addition, it delisted the 3 listings MV・ROND・DEP at 2026年2月. The JPY conversion / return work for those 3 listings was completed at 2026年4月
+- In addition, it delisted the three listings MV, ROND, and DEP in February 2026. The JPY conversion / return work for those listings was completed in April 2026.
 
 ## 4. Scope of business
 
@@ -66,7 +66,7 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 
 - The company has not disclosed account-count / trading-volume figures as of 2026年5月
 - In the company's notice (2026年5月), it uses the expression "8社 domestic crypto-asset exchange operators that provide spot order-book trading," recognizing 8社 as competitors in domestic spot order-book trading
-- According to the IR of the parent JN Group, Zaif is expected to record a loss in FY2026年11月 as well, with full profitability not expected until FY2027年11月 onward (published on crex-data.com 2026-04-23). The trading-volume scale is considered to be below the domestic median (the industry top being [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]])
+- According to parent JN Group IR, Zaif is expected to record a loss in FY2026-11 as well, with full profitability not expected until FY2027-11 onward (published on crex-data.com 2026-04-23). The trading-volume scale is considered below the domestic median, with [[exchanges/jp-exchange-bitflyer|bitFlyer]] and [[exchanges/jp-exchange-coincheck|Coincheck]] at the top.
 - Customer base: mainly domestic retail investors
 
 ## 6. History / major events
@@ -76,9 +76,9 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 | Period | Event |
 |------|--------|
 | Around 2014年 | TechBureau Corp. (Nishi-ku, Osaka-shi, Osaka) established. The representative was Takao Asayama. Operated the Zaif exchange |
-| 2015-16 | Zaif had a presence as a major domestic exchange in altcoin trading such as MONA・XEM |
+| 2015-16 | Zaif had a presence as a major domestic exchange in altcoin trading such as MONA and XEM |
 | 2017-09-29 | Crypto-asset exchange business registration (Director-General of the Kinki Local Finance Bureau 第00001号) |
-| **2018-09-14** | **Crypto-assets worth approximately 67億円 flowed out of the hot wallet** (BTC・BCH・MONA, etc. Of which approximately 45億円 were assets held in custody from customers. Per the company's press / FSA reference materials) — as a major domestic VASP incident, see [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]] and, for the contrast, [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 流出事件詳細]] |
+| **2018-09-14** | **Crypto-assets worth approximately 6.7bn yen flowed out of the hot wallet** (BTC, BCH, MONA, etc.; approximately 4.5bn yen were customer assets). As a major domestic VASP incident, see [[exchanges/jp-vasp-incident-history|Japan VASP incident history]] and [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack detailed analysis]]. |
 | 2018-09-25 | The FSA issued a business-improvement order to TechBureau Corp. (the order was issued by the Kinki Local Finance Bureau; published on the FSA website) |
 | **Around 2018-11** | **Transferred the Zaif exchange business to Fisco Cryptocurrency Exchange (now Zaif Inc.)**. TechBureau continued to exist thereafter as a separate entity (absorbed and merged subsidiary 2社 at 2021年9月, continuing under the same number to this day) |
 
@@ -106,7 +106,7 @@ As of 2026年5月, handles the following 24 listings (published on the official 
   - As of 2025年11月, the JN Group as a whole had a group-consolidated 99名 (a small-scale holding-company structure)
   - A collaboration campaign with SNPIT (a Snap-to-Earn game) (2026年 4–5), and listing of a GameFi listing (SNPT)
   - In a rebate campaign on ETH spot order-book trading fees (2026年5月), it touted "the largest rebate among domestic 8社"
-  - Deployed the Zaif Card (a card with crypto-asset cashback). Added ETH・XYM rebate support at 2026年5月
+  - Deployed the Zaif Card, a card with crypto-asset cashback. Added ETH / XYM rebate support in May 2026.
   - FY2026年11月 is expected to remain in loss. According to JN Group IR, full profitability is not expected until FY2027年11月 onward
   - Fisco, Inc. announced the termination of value-up measures / cancellation of the burn for FSCC (Fisco Coin) (2026年5月15日)
 
@@ -133,12 +133,12 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 ## Sources
 
 - [株式会社Zaif 会社概要](https://corp.zaif.jp/outline/)（取得 2026-05-18）
-- [Zaif 公式サービスサイト](https://zaif.jp/)（取得 2026-05-18）
-- [Zaif 取り扱う暗号資産の概要](https://support.zaif.jp/hc/ja/articles/12243845421337)（取得 2026-05-18）
+- [Zaif official service site](https://zaif.jp/) (accessed 2026-05-18)
+- [Zaif supported crypto-assets overview](https://support.zaif.jp/hc/ja/articles/12243845421337) (accessed 2026-05-18)
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
-- [金融庁 テックビューロ株式会社に対する行政処分について（2018-09-25）](https://www.fsa.go.jp/news/30/virtual_currency/20180925.html)（取得 2026-05-18）
+- [FSA administrative action against Tech Bureau Corp. (2018-09-25)](https://www.fsa.go.jp/news/30/virtual_currency/20180925.html) (accessed 2026-05-18)
 - [国税庁法人番号 株式会社Ｚａｉｆ（1120101054642）](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120101054642)（取得 2026-05-18）
-- [国税庁法人番号 テックビューロ株式会社（1120001184556）](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120001184556)（取得 2026-05-18）
-- [株式会社JNグループ 会社概要](https://www.jngroup.jp/corporate/outline/)（取得 2026-05-18）
-- [日本M&Aセンター ネクスグループ Zaif 完全子会社化（2025-07-15）](https://www.nihon-ma.co.jp/news/2025/07/15/)（取得 2026-05-18）
+- [National Tax Agency corporate-number record for Tech Bureau Corp. (1120001184556)](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120001184556) (accessed 2026-05-18)
+- [JN Group corporate overview](https://www.jngroup.jp/corporate/outline/) (accessed 2026-05-18)
+- [Nihon M&A Center: Nex Group full acquisition of Zaif (2025-07-15)](https://www.nihon-ma.co.jp/news/2025/07/15/) (accessed 2026-05-18)

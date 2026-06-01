@@ -8,75 +8,74 @@ title: "Hokkaido Lease"
 translated_at: 2026-05-31T15:29:03.913Z
 ---
 # Hokkaido Lease
-# 北海道リース
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fuyo-lease|芙蓉総合リース]] for peer / contrast context (national 準大手 vs regional captive) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[JapanFG/hokkaido-bank|北海道銀行]] and [[JapanFG/hokuyo-bank|北洋銀行]] for the parent / regional context.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/fuyo-lease|Fuyo General Lease]] for peer / contrast context (national semi-major lessor versus regional captive lessor) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[JapanFG/hokkaido-bank|Hokkaido Bank]] and [[JapanFG/hokuyo-bank|Hokuyo Bank]] for the parent and regional context.
 
 ## TL;DR
 
-北海道リース は 北海道地域に拠点を持つ地域系リース会社で、地元金融機関 (北海道銀行 [[JapanFG/hokkaido-bank|北海道銀行]] = ほくほく FG 傘下、北洋銀行 [[JapanFG/hokuyo-bank|北洋銀行]] 等) との結びつきが強い。三大リース・準大手リースが全国 / グローバル展開を志向するのに対し、北海道リースは **北海道内の中小企業 / 自治体 / 一次産業 (農林水産業)** という地域特化の Niche を持つ典型的な地域リース会社。
+Hokkaido Lease is a regional leasing company based in Hokkaido, with strong ties to local financial institutions such as [[JapanFG/hokkaido-bank|Hokkaido Bank]] under Hokuhoku FG and [[JapanFG/hokuyo-bank|Hokuyo Bank]]. Whereas the largest and semi-major lessors pursue nationwide or global scale, Hokkaido Lease is a typical regional lessor with a focused niche in **Hokkaido SMEs, municipalities, and primary industries such as agriculture, forestry, and fisheries**.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | 北海道リース株式会社 / Hokkaido Lease Co., Ltd. |
-| Listing | 非上場 (地域金融機関 + 地元企業の戦略株主構造) |
-| Headquarters | 札幌市 |
-| Founded | 1970 年代 (地域系リースの典型) |
-| Parent / group | 北海道銀行 (ほくほく FG 系) [[JapanFG/hokkaido-bank|北海道銀行]] + 地元有力企業 + その他地銀の合弁的株主構成 |
-| License route | 銀行業許可なし。貸金業登録 (FSA money-lending business registration) を関連業務範囲で取得 |
-| Wiki role | 北海道地域のリース機能のノード。全国系準大手 ([[JapanFG/fuyo-lease|芙蓉総合リース]] 等) との対比対象 |
+| Legal name | Hokkaido Lease Co., Ltd. |
+| Listing | Unlisted; strategic shareholders include regional financial institutions and local companies |
+| Headquarters | Sapporo |
+| Founded | 1970s, consistent with the regional-bank lessor model |
+| Parent / group | [[JapanFG/hokkaido-bank|Hokkaido Bank]] / Hokuhoku FG lineage, local corporate shareholders, and other regional-bank interests |
+| License route | No banking license; money-lending registration is used for relevant financing-adjacent activities |
+| Wiki role | Node for the leasing function in Hokkaido and a contrast case for national semi-major lessors such as [[JapanFG/fuyo-lease|Fuyo General Lease]] |
 
 ## 2. Business lines
 
-- **中小企業向け一般機器リース**：工作機械・産業機械・OA 機器
-- **農業機械リース**：北海道は日本最大の農業地域 → トラクター・コンバイン・農業用機械
-- **水産・漁業関連リース**：北海道漁業の機材・船舶 (小型)
-- **自治体・公的セクター向けリース**：道内市町村の IT インフラ・庁舎設備
-- **自動車リース**：法人車両・地域企業向け
-- **医療・介護リース**：道内医療機関向け
-- **環境関連**：太陽光・地熱・風力等の再エネ案件 (北海道は再エネ豊富地域)
-- **建設機械リース**：地域インフラ・建設業向け
+- **General equipment leasing for SMEs**: machine tools, industrial machinery, and office-automation equipment.
+- **Agricultural machinery leasing**: tractors, combines, and agricultural equipment for Japan's largest agricultural region.
+- **Fishery-related leasing**: equipment and small vessels used in Hokkaido fisheries.
+- **Municipal and public-sector leasing**: IT infrastructure and public-building equipment for municipalities in Hokkaido.
+- **Auto leasing**: corporate vehicles for local businesses.
+- **Medical and care-sector leasing**: equipment for local medical institutions.
+- **Environmental and renewable-energy assets**: solar, geothermal, wind, and other renewable-energy projects in a resource-rich region.
+- **Construction machinery leasing**: equipment for regional infrastructure and construction companies.
 
 ## 3. Strategy & competitive position
 
-北海道リースの戦略軸は「北海道地域特化 + 地銀ネットワーク利用」。三大リース・準大手リースが全国展開で規模を競うのとは異なり、地域内の顧客密着 + 案件規模は小型でも回転率重視という地銀系金融機関の captive lease に典型的なモデル。
+Hokkaido Lease's strategic axis is **Hokkaido specialization plus regional-bank distribution**. Unlike the largest and semi-major lessors, which compete through national scale, this model relies on close local customer relationships, smaller ticket sizes, and high deal turnover typical of regional-bank captive leasing.
 
-[[JapanFG/hokkaido-bank|北海道銀行]] や [[JapanFG/hokuyo-bank|北洋銀行]] が地域内主要法人取引を抑えるなか、北海道リースは「銀行融資ではなくリースで設備提供」というニッチ。地銀ローンとの棲み分けは、不動産担保がない設備 (移動可能機械 / 農業機械 / 中古市場のある資産) で発生しやすい。
+Where [[JapanFG/hokkaido-bank|Hokkaido Bank]] and [[JapanFG/hokuyo-bank|Hokuyo Bank]] control important local corporate relationships, Hokkaido Lease occupies the niche of providing equipment through leasing rather than bank loans. The division of labor with regional-bank lending is clearest for movable machinery, agricultural equipment, and assets with a secondary market but limited real-estate collateral value.
 
-北海道は **再エネ豊富地域** (風力・地熱・バイオマス・大規模太陽光) であり、再エネ PJ ファイナンス分野では全国系リースも参入。北海道リースは地元自治体・地元事業者との関係性で差別化を狙う。
+Hokkaido has substantial renewable-energy resources, including wind, geothermal, biomass, and large-scale solar. National lessors also enter renewable-energy project finance, so Hokkaido Lease differentiates through relationships with local governments and local operators.
 
-[[finance/japan-acquisition-finance|日本アクイジションファイナンス]] の文脈では、道内中小企業の事業承継 M&A での設備買換ファイナンスで関与することがある。
+In [[finance/japan-acquisition-finance|Japan acquisition finance]], the company can be relevant to equipment replacement finance in business-succession M&A involving Hokkaido SMEs.
 
 ## 4. Why this page matters
 
-- 地域系リース会社の典型例。全国系 / グローバル系の準大手とは戦略・業容・規模が全く異なる
-- 北海道地銀 ([[JapanFG/hokkaido-bank|北海道銀行]] / [[JapanFG/hokuyo-bank|北洋銀行]]) のグループ内リース機能の理解ノード
-- 一次産業 (農業・水産業) 向けリースは全国系リースが手薄な領域
-- 再エネ豊富地域 (北海道) のリース機会と全国系大手の参入競合構造
+- It is a representative regional leasing company whose strategy, operating scope, and scale differ materially from national and global semi-major lessors.
+- It explains the leasing function connected to Hokkaido regional banks such as [[JapanFG/hokkaido-bank|Hokkaido Bank]] and [[JapanFG/hokuyo-bank|Hokuyo Bank]].
+- Leasing for primary industries such as agriculture and fisheries is an area where national lessors are less naturally embedded.
+- It clarifies the leasing opportunities created by Hokkaido's renewable-energy base and the resulting competition with national large lessors.
 
 ## Related
 
-- [[JapanFG/hokkaido-bank|北海道銀行]]
-- [[JapanFG/hokuyo-bank|北洋銀行]]
-- [[JapanFG/fuyo-lease|芙蓉総合リース]]
+- [[JapanFG/hokkaido-bank|Hokkaido Bank]]
+- [[JapanFG/hokuyo-bank|Hokuyo Bank]]
+- [[JapanFG/fuyo-lease|Fuyo General Lease]]
 - [[JapanFG/mizuho-lease|Mizuho Leasing]]
-- [[JapanFG/ja-mitsui-leasing|JA三井リース]]
-- [[JapanFG/tokyo-century|東京センチュリー]]
+- [[JapanFG/ja-mitsui-leasing|JA Mitsui Leasing]]
+- [[JapanFG/tokyo-century|Tokyo Century]]
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 
-- 北海道銀行 公式コーポレートサイト (https://www.hokkaidobank.co.jp/)
-- ほくほくフィナンシャルグループ (https://www.hokuhoku-fg.co.jp/)
-- 公益社団法人リース事業協会 (JLA) 統計 (https://www.leasing.or.jp/)
-- 北海道地銀グループ 関係会社一覧
+- Hokkaido Bank official corporate site (https://www.hokkaidobank.co.jp/)
+- Hokuhoku Financial Group (https://www.hokuhoku-fg.co.jp/)
+- Japan Leasing Association (JLA) statistics (https://www.leasing.or.jp/)
+- Hokkaido regional-bank group affiliated-company lists
 
 ---
 
-> [!info] 校核状态
-> confidence: **tentative** (公開情報ベース 2026-05-24)。地域系リースは非上場で詳細財務開示は限定的。組織名・株主構成・業容範囲は地銀系再編 (ほくほくFG / 北洋等) の動きにより変動の可能性。同名・類似名の地域リース会社 (例：北海道リース vs 道銀リース) が時代によって存在しており、組織継承の沿革は要追跡。
+> [!info] Verification status
+> confidence: **tentative** (public-information base 2026-05-24). Regional lessors are unlisted, and detailed financial disclosure is limited. Organization names, shareholder structures, and business scope may change with regional-bank group reorganizations around Hokuhoku FG, Hokuyo Bank, and related entities. Similar historical names such as Hokkaido Lease and Dogin Lease require continued lineage checks.

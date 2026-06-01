@@ -101,7 +101,7 @@ The legal-tender split runs **Jamaica > Bahamas > UK proposal > Nigeria > China 
 | DCash | **Bitt Inc.** (Barbados) | Same Bitt platform as Sand Dollar | Two-month outage in Jan-March 2022; discontinued 2024-01 |
 | eNaira | **Bitt Inc.** (Barbados) | Permissioned Hyperledger Fabric variant | Same Bitt vendor lineage as Sand Dollar / DCash |
 | JAM-DEX | **eCurrency Mint** (US-HQ) | DSC2 (Digital Symbol Cryptography) hierarchical signatures | Distinct vendor from Bitt; cleanest small-economy adoption case in the seven-pole set |
-| digital pound | **TBD** (vendor selection in flight during Design Phase) | n/a; Phase 2 design ongoing | BoE has run exploratory vendor PoCs but not committed to a vendor |
+| digital pound | **Vendor not selected; procurement / design work remains in progress** | n/a; Phase 2 design ongoing | BoE has run exploratory vendor PoCs but has not committed to a vendor |
 
 The **Bitt vendor cluster** (Sand Dollar / eNaira / DCash) covers three of the four worst adoption outcomes in the table. The **eCurrency Mint deployment** (JAM-DEX) is the cleanest small-economy outcome. **In-house** (e-CNY) and **Soramitsu** (Bakong) are the two non-Bitt/non-eCurrency Mint paths and both have stronger adoption — but with very different distribution models, so vendor choice is not the binding variable. The pattern is more **"distribution design constrains vendor outcome reach"** than "vendor capability determines adoption." For more on the vendor / governance interaction see [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]].
 
@@ -129,7 +129,7 @@ The **Bitt vendor cluster** (Sand Dollar / eNaira / DCash) covers three of the f
 | DCash | High (ECCB) | Low (small ECCU banks; no anchor); operational fragility | None | **Low** (failed) |
 | eNaira | High (CBN) | Low (DMBs cannibalised; MMOs competitive; agents prefer commissions) | None | **Very low** |
 | JAM-DEX | High (BoJ) | High (NCB's TFOB committed; Lynk anchor wallet) | Lynk | **High** |
-| digital pound | TBD | TBD (PIP/ESIP designed but unproven) | Private-sector PIPs only | **TBD** |
+| digital pound | Not yet observable | PIP / ESIP model designed but untested | Private-sector PIPs only | **Not yet observable** |
 
 The single most powerful predictor of adoption among the live programmes is **whether a single anchor distributor or wallet has aligned commercial incentive** to push the CBDC. Jamaica's Lynk = NCB Financial Group commitment; China's state-bank mandate + AliPay/WeChat absorption; Cambodia's Bakong-as-payment-system network effect. The three weakest cases (DCash, eNaira, Sand Dollar) all fail this test for different reasons (operational fragility, incentive misalignment, and incentive dilution respectively).
 

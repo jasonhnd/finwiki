@@ -4,80 +4,80 @@ source_hash: 897037f925bb5feb
 lang: en
 status: machine
 fidelity: ok
-title: "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）"
+title: "Stablecoin War Series: 23 Publication-Grade Longform Articles (2026-05)"
 translated_at: 2026-05-31T11:13:44.911Z
 ---
 
-# ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）
+# Stablecoin War Series: 23 Publication-Grade Longform Articles (2026-05)
 
-## Wiki route
+## Wiki Route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: JPYC, USDC, and Project Pax]] for the broader system boundary.
 
 > [!info] TL;DR
-> blockchain-research-2026-05 プロジェクトのアウトプットである publication-grade 長文 23 篇の集合、~159K 字 / 8.2 時間の読書量 · 4 波で配信（v1 11 + v2 4 + v3 4 + v4 4）· スタイルは FT Big Read / NYT Upshot / a16z research をベンチマーク · 5 主役 + 1 ポートフォリオ勝者（Visa）+ 1 タレントシグナル（Christine Moy）で完全な論点骨格を構成。本エントリは reference の入口として、長文本体は wiki アトム層には入らない。
+> This page is the reference entry for the blockchain-research-2026-05 output: 23 publication-grade longform articles, about 159K characters, about 8.2 hours of reading time, delivered in four waves (v1: 11; v2: 4; v3: 4; v4: 4). The style benchmark was FT Big Read / NYT Upshot / a16z research. The corpus builds a complete argumentative frame around five primary actors, one portfolio winner (Visa), and one talent signal (Christine Moy). The longform articles themselves are not imported into the wiki atom layer.
 
-## Key facts
+## Key Facts
 
-- 23 篇 / ~158,764 字 / ~738 KB / ~493 分の読書量 ^[extracted from articles/README.md]
-- 4 波配信：v1 2026-05-17 午前（マクロ + 主役 + 地域 + 規制の 11 篇）· v2 午後（横断 TD/MMF/Infra の 4 篇）· v3 夜（深掘り特集 4 篇）· v4 2026-05-18（規制 / ブラックボックス / 中銀 / 終局の 4 篇）^[extracted]
-- 5 主役マトリックス：Coinbase/Base · Stripe/Tempo+Bridge+Privy · Circle/Arc · JPMorgan/Kinexys · Tether/USDT（グレー）^[inferred from corpus mapping]
-- 1 ポートフォリオ勝者（取引可能代理）：Visa（article 04 + 14 + 15 · ARM holdings の金融版）^[extracted]
-- 1 タレントシグナル：Christine Moy（JPM Onyx → Apollo · article 17 · 業界権力構造の変化を 18-24 か月前に予測）^[extracted]
-- スタイル：各篇に強いフック + 明確な物語アーク + 具体的な数字・日付・人名 + エンディングで冒頭に戻る + 短いパラグラフ + 中文ボディ + 主要英語専門用語の保持 ^[extracted from articles/README.md style spec]
+- 23 articles / about 158,764 characters / about 738 KB / about 493 minutes of reading time. ^[extracted from articles/README.md]
+- Four publication waves: v1 on the morning of 2026-05-17 (macro, protagonists, regions, regulation: 11 articles); v2 in the afternoon (cross-cutting TD / MMF / infrastructure: 4 articles); v3 at night (four deep-dive features); v4 on 2026-05-18 (regulation, black box, central banks, endgame: 4 articles). ^[extracted]
+- Five-protagonist matrix: Coinbase / Base, Stripe / Tempo + Bridge + Privy, Circle / Arc, JPMorgan / Kinexys, and Tether / USDT in the gray-market role. ^[inferred from corpus mapping]
+- One portfolio winner / tradable proxy: Visa, through articles 04, 14, and 15, framed as the finance-sector analogue to ARM Holdings. ^[extracted]
+- One talent signal: Christine Moy, moving from JPM Onyx to Apollo, treated in article 17 as an early indicator of changing industry power structure 18-24 months ahead. ^[extracted]
+- Style pattern: strong article hooks, explicit narrative arcs, concrete numbers / dates / names, endings that return to the opening, short paragraphs, Chinese body text, and retained core English technical terms. ^[extracted from articles/README.md style spec]
 
-## Mechanism / シリーズ構造
+## Mechanism / Series Structure
 
-4 波配信が各々異なる視点を担う：
+The four waves carry different analytical functions:
 
-| 波次 | 記事 # | 主軸 | 論点 |
+| Wave | Article numbers | Main axis | Argument focus |
 |---|---|---|---|
-| v1 (11) | 01-11 | マクロ骨格 | 中銀の 5 層分解 + 5 主役 + 三円 MRA + DeFi 死亡 |
-| v2 (4) | 12-15 | 横断 layer | TD（JPM / 3 メガバンク）+ MMF（BUIDL）+ Infra（インフラ寡占 7 サブクラス）+ Corporate（StanChart 5 戦線作戦）|
-| v3 (4) | 16-19 | 深掘り特集 | Aerodrome オンチェーンクローズドループ + Christine Moy タレントシグナル + Privy/AWS AI 決済 + ソブリンファンド $34T |
-| v4 (4) | 20-23 | 終局推演 | GENIUS 30 日細則 + Tether ブラックボックス監査 + BIS Agorá + 2030 終局 base/bull/bear |
+| v1 (11) | 01-11 | Macro skeleton | Five-layer central-bank unbundling, five protagonists, three-circle MRA, and the DeFi death thesis |
+| v2 (4) | 12-15 | Cross-cutting layer | TD / JPM and the three megabanks, MMF / BUIDL, infrastructure oligopoly in seven subclasses, and Standard Chartered's five-front operation |
+| v3 (4) | 16-19 | Deep-dive features | Aerodrome on-chain closed loop, Christine Moy talent signal, Privy / AWS AI payments, and $34T sovereign-fund allocation |
+| v4 (4) | 20-23 | Endgame scenarios | GENIUS 30-day rulemaking, Tether black-box audit, BIS Project Agorá, and 2030 base / bull / bear headlines |
 
-**読書経路**（各篇 1 文）：
+**Reading routes:**
 
-- **クイック版 25 分**：01（1.2 兆ドルの暗河 · マクロ構造）
-- **戦略版 60 分**：01 + 03（Kinexys サイレント クーデター · JPM 隠れ主役）+ 04（Visa as ARM · 取引可能代理）
-- **投資版 80 分**：04 + 02（Tether HK 非対称ベット）+ 10（OCC charter クォータ）+ 11（DeFi 死亡判決）
-- **地政学版 85 分**：06（中国陣営 5 層垂直統合）+ 09（三円 MRA · デジタル通貨金本位 2.0）+ 05（日本 5 陣営）+ 07（USDT on Tron グレー市場）
-- **横断版 87 分**：12（1 兆円ベット）+ 13（BUIDL $60B 隠れステーブルコイン）+ 14（インフラ勝者 7 サブクラス）+ 15（StanChart 5 戦線作戦）
-- **深掘り版 90 分**：16（Aerodrome クローズドループ）+ 17（Christine Moy シグナルチェーン）+ 18（Privy ダブルデフォルト）+ 19（沈黙の資金）
-- **終局版 88 分**：20（GENIUS 30 日カウントダウン）+ 21（Tether $145B ブラックボックス）+ 22（BIS Project Agorá）+ 23（2030 5 ヘッドライン）
-- **完全版 450 分**：01 → 23 順番に
+- **Quick route, 25 minutes**: 01, on the $1.2T underground river and the macro structure.
+- **Strategic route, 60 minutes**: 01 + 03 on Kinexys as JPMorgan's quiet protagonist + 04 on Visa as the ARM-style tradable proxy.
+- **Investment route, 80 minutes**: 04 + 02 on the Tether Hong Kong asymmetry + 10 on OCC charter scarcity + 11 on the DeFi death sentence.
+- **Geopolitics route, 85 minutes**: 06 on China's five-layer vertical integration + 09 on three-circle MRA / digital-currency gold standard 2.0 + 05 on Japan's five camps + 07 on USDT on Tron and gray markets.
+- **Cross-cutting route, 87 minutes**: 12 on the ¥1T bet + 13 on BUIDL as a hidden $60B stablecoin + 14 on seven infrastructure winners + 15 on Standard Chartered's five-front campaign.
+- **Deep-dive route, 90 minutes**: 16 on Aerodrome's closed loop + 17 on Christine Moy's signal chain + 18 on Privy's double default + 19 on silent capital.
+- **Endgame route, 88 minutes**: 20 on the GENIUS 30-day countdown + 21 on Tether's $145B black box + 22 on BIS Project Agorá + 23 on five 2030 headlines.
+- **Complete route, about 450 minutes**: articles 01 through 23 in order.
 
-## Origin & evolution
+## Origin & Evolution
 
-- **基準日**：2026-05-13（corpus 調査完了 519 ファイル + v5.5 wiki 化）
-- **v1 11 篇** · 2026-05-17 午前 · マクロ骨格スプリント
-- **v2 4 篇** · 2026-05-17 午後 · 横断 TD/MMF/Infra 補強
-- **v3 4 篇** · 2026-05-17 夜 · 深掘り特集（オンチェーンクローズドループ / タレント / AI / ソブリン）
-- **v4 4 篇** · 2026-05-18 · 規制 / ブラックボックス / 中銀 / 終局推演
-- 付属：ナラティブ図集 v1.0 · Executive Brief · クロスセクション戦略統合（付属資料は非公開）
+- **Reference date**: 2026-05-13, after corpus research covering 519 files and v5.5 wiki conversion.
+- **v1, 11 articles**: 2026-05-17 morning, macro-skeleton sprint.
+- **v2, 4 articles**: 2026-05-17 afternoon, cross-cutting TD / MMF / infrastructure reinforcement.
+- **v3, 4 articles**: 2026-05-17 night, deep-dive features on on-chain closed loops, talent, AI, and sovereign capital.
+- **v4, 4 articles**: 2026-05-18, regulation, black-box reserve issues, central banks, and endgame scenarios.
+- Supplements: narrative figure set v1.0, Executive Brief, and cross-section strategy integration. Supplementary materials are not public.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/central-banking-function-unbundling|中銀機能分解 5 層（article 01 のフレームワーク化）]]
-- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造（article 04 のフレームワーク化）]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA（article 09 のフレームワーク化）]]
-- [[fintech/jurisdiction-list-monetary-protectionism|§501 司法管轄リスト（article 05/09 のフレームワーク化）]]
-- [[fintech/gray-market-dollar-network-formalization|グレー市場 USD の公式化（article 02/07 のフレームワーク化）]]
-- [[fintech/2022-three-variable-cascade-thesis|2022 3 変数カスケード（article 01 序章）]]
-- [[fintech/four-motive-classes-asymmetric-competition|4 動機クラス（article 14/15 視点）]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS §501 Denylist（article 11/20 法律基盤）]]
+- [[fintech/central-banking-function-unbundling|Five-layer central-bank unbundling framework (article 01)]]
+- [[fintech/portfolio-winner-structure-arm-analog|Portfolio-winner structure as an ARM analogue (article 04)]]
+- [[fintech/three-circles-stablecoin-mra-framework|Three-circle MRA framework (article 09)]]
+- [[fintech/jurisdiction-list-monetary-protectionism|Section 501 jurisdiction list (articles 05 / 09)]]
+- [[fintech/gray-market-dollar-network-formalization|Formalization of gray-market USD networks (articles 02 / 07)]]
+- [[fintech/2022-three-variable-cascade-thesis|2022 three-variable cascade thesis (article 01 opening)]]
+- [[fintech/four-motive-classes-asymmetric-competition|Four motive classes (articles 14 / 15)]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Section 501 denylist mandate (articles 11 / 20)]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-集合インデックス（権威入口）：
+Authoritative collection index:
 
-23 篇 articles（章節別集約）：
-- v1 マクロ / 主役 / 地域 / 規制（11）：articles/01-the-unbundling · 02-tether-hk-bet · 03-kinexys-quiet-coup · 04-visa-as-arm · 05-japan-five-camps · 06-china-camp · 07-gray-market-usdt · 08-protocol-commoditization · 09-three-circles-mra · 10-occ-charter-scarcity · 11-defi-death-sentence
-- v2 横断 TD/MMF/Infra（4）：12-trillion-yen-bet · 13-buidl-invisible-stablecoin · 14-infrastructure-winners · 15-standard-chartered-five-fronts
-- v3 深掘り特集（4）：16-aerodrome-coinbase-flywheel · 17-christine-moy-signal-chain · 18-privy-aws-agentcore-ai-payments · 19-sovereign-fund-crypto-allocation
-- v4 規制 / ブラックボックス / 中銀 / 終局（4）：20-genius-rulemaking-30-day-preview · 21-tether-reserve-deep-audit · 22-bis-project-agora-panorama · 23-five-protagonists-2030-endgame
+23 articles grouped by section:
+- v1 macro / protagonists / regions / regulation (11): articles/01-the-unbundling · 02-tether-hk-bet · 03-kinexys-quiet-coup · 04-visa-as-arm · 05-japan-five-camps · 06-china-camp · 07-gray-market-usdt · 08-protocol-commoditization · 09-three-circles-mra · 10-occ-charter-scarcity · 11-defi-death-sentence
+- v2 cross-cutting TD / MMF / infrastructure (4): 12-trillion-yen-bet · 13-buidl-invisible-stablecoin · 14-infrastructure-winners · 15-standard-chartered-five-fronts
+- v3 deep-dive features (4): 16-aerodrome-coinbase-flywheel · 17-christine-moy-signal-chain · 18-privy-aws-agentcore-ai-payments · 19-sovereign-fund-crypto-allocation
+- v4 regulation / black box / central banks / endgame (4): 20-genius-rulemaking-30-day-preview · 21-tether-reserve-deep-audit · 22-bis-project-agora-panorama · 23-five-protagonists-2030-endgame
 
-4 篇 analysis ドラフト：
+Four analysis drafts:

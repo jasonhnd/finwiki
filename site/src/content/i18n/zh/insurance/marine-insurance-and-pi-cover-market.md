@@ -17,7 +17,7 @@ translated_at: 2026-05-31T07:28:06.185Z
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the big-three operating-company layer, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the global retro panel, [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] for the Lloyd's specialty channel, and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the typhoon / EQ / flood exposure that affects marine accumulation. The two anchor entity pages are [[JapanFG/japan-pi-club|Japan P&I Club]] and [[JapanFG/nippon-kaiji-kyokai|ClassNK]]. Cross-domain anchors: [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the parent-regulator angle on IG retro and Lloyd's syndicates.
+本条目位于 [[insurance/INDEX|保险索引]]。可与 [[insurance/japan-nonlife-big-three|日本非寿险三大集团]]、外资再保险公司页面和海运 / P&I 风险页面配套阅读。
 
 ## 1. 市场结构
 

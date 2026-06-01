@@ -13,7 +13,7 @@ translated_at: 2026-05-31T06:16:15.653Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
+本条目位于 [[exchanges/INDEX|交易所索引]]。可与 [[exchanges/fsa-vasp-registration-system|FSA 加密资产交换业登记制度]] 和 [[fintech/japan-financial-regulation|日本金融监管]] 配套阅读。
 
 > FSA 登记编号 **未公开（第二种会员 = 申请准备中或申请预定）** · JVCEA 会员 #2033（第二种会员） · 母集团: 株式会社 Gaudiy Group（原名 株式会社 Gaudiy）
 

@@ -4,46 +4,48 @@ source_hash: 956bf8e053ab8fd6
 lang: zh
 status: machine
 fidelity: needs_review
-title: "譚ｱ譌･譛ｬ驫陦・"
+title: "东日本银行"
 translated_at: 2026-05-31T15:29:03.932Z
 ---
-﻿
-# 譚ｱ譌･譛ｬ驫陦・
 
-## Wiki route
+# 东日本银行
 
-This entry sits under 笶ｰa笶ｱ. Read it against 笶ｰb笶ｱ for peer / contrast context and 笶ｰc笶ｱ for the broader system / regulatory boundary.
+## Wiki 路径
+
+本条目位于 [[JapanFG/INDEX|JapanFG 索引]]下。请与 [[JapanFG/yokohama-bank|横滨银行]] 对照阅读，以理解同一集团内的经营银行分工；更广义的制度边界见 [[banking/INDEX|银行业索引]]。
 
 ## TL;DR
 
-譬ｪ蠑丈ｼ夂､ｾ譚ｱ譌･譛ｬ驫陦後・縲・≡陞榊ｺ√・驫陦悟・險ｱ荳隕ｧ縺ｫ謗ｲ霈峨＆繧後ｋ譚ｱ莠ｬ驛ｽ譛ｬ蠎励・隨ｬ莠悟慍譁ｹ驫陦後〒縲≫擴d笶ｱ・育樟 讓ｪ豬懊ヵ繧｣繝翫Φ繧ｷ繝｣繝ｫ繧ｰ繝ｫ繝ｼ繝暦ｼ牙ｘ荳九・ operating bank縲よｨｪ豬憺橿陦後→ 笶ｰbf笶ｱ縺ｫ邨悟霧邨ｱ蜷医＠縺溷ｾ後ｂ縲・・蜀・ｸｭ蟆丈ｼ∵･ｭ蜷代￠縺ｮ蛻･豕穂ｺｺ bank-license surface 縺ｨ縺励※谿九▲縺ｦ縺・ｋ縲・
-## 笶ｰbg笶ｱ. License / group boundary
+株式会社东日本银行是以东京为总部的第二地方银行，列入金融厅银行牌照名单，并作为 [[concordia-fg]]（现横滨金融集团）旗下经营银行之一。2016 年与横滨银行经营统合后，该行仍保留面向东京都内中小企业的独立法人银行牌照面。
 
-| Item | Notes |
+## 1. 牌照 / 集团边界
+
+| 项目 | 说明 |
 |---|---|
-| Legal name | 譬ｪ蠑丈ｼ夂､ｾ譚ｱ譌･譛ｬ驫陦・|
-| License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | 笶ｰe笶ｱ / Yokohama Financial Group operating bank |
-| Home market | Tokyo / Greater Tokyo SME market |
-| Wiki role | Tokyo second-regional-bank operating-company page |
+| 法定名称 | 株式会社东日本银行 |
+| 牌照路径 | 《银行法》下的第二地方银行；金融厅银行牌照名单 |
+| 集团边界 | [[concordia-fg]] / 横滨金融集团经营银行 |
+| 主市场 | 东京 / 首都圈中小企业市场 |
+| Wiki 角色 | 东京第二地方银行经营公司页面 |
 
-## 笶ｰbh笶ｱ. Operating model
+## 2. 运营模式
 
-譚ｱ譌･譛ｬ驫陦後・縲∵擲莠ｬ驛ｽ蜀・→鬥夜・蝨上・ SME lending, relationship banking, deposit, and local business support 繧呈球縺・second regional bank縲や擴f笶ｱ 縺檎･槫･亥ｷ・retail / public-sector core 縺ｧ縺ゅｋ荳譁ｹ縲∵擲譌･譛ｬ驫陦後・驛ｽ蜀・ｸｭ蟆丈ｼ∵･ｭ迚ｹ蛹悶・ role 繧呈戟縺､縲・anto second-regional-bank consolidation context 縺ｯ 笶ｰg笶ｱ 繧貞盾辣ｧ縲・
-## 笶ｰbi笶ｱ. Why this page matters
+东日本银行承担东京都内和首都圈的中小企业贷款、关系型银行业务、存款以及本地商业支持。相对于以神奈川零售和公共部门业务为核心的 [[yokohama-bank]]，东日本银行的角色更偏向东京都内中小企业金融。关东第二地方银行整合背景见 [[banking/regional-bank-consolidation-pattern]]。
 
-- Splits the East Japan Bank legal entity from 笶ｰh笶ｱ.
-- Allows the 笶ｰbj笶ｱbusiness-improvement-order history to remain in parent context while keeping license coverage clean.
-- Complements 笶ｰi笶ｱ and 笶ｰj笶ｱ in the Kanto operating-company map.
+## 3. 本页为何重要
+
+- 将东日本银行这一法人实体从 [[concordia-fg]] 集团页中拆分出来。
+- 使 2018 年业务改善命令相关历史可留在母集团语境内，同时保持牌照覆盖清晰。
+- 与 [[yokohama-bank]] 和 [[tokyo-star-bank]] 共同补全关东经营银行地图。
 
 ## Related
 
-- 笶ｰba笶ｱ
-- 笶ｰbb笶ｱ
-- 笶ｰbc笶ｱ
-- 笶ｰbd笶ｱ
+- [[concordia-fg]]
+- [[yokohama-bank]]
+- [[tokyo-star-bank]]
+- [[banking/INDEX]]
 
 ## Sources
 
-- FSA: bank license list, second regional banks, as of 笶ｰbe笶ｱ.
-- Higashi-Nippon Bank official company profile.
+- 金融厅：第二地方银行牌照名单，截至 2026-05-02。
+- 东日本银行官方公司概要。

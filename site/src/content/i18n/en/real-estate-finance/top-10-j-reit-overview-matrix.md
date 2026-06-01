@@ -24,16 +24,16 @@ Start from [[real-estate-finance/INDEX|real-estate-finance domain]], then [[real
 
 | J-REIT (English) | Japanese name | Sponsor | Asset focus | Asset-management-company affiliation |
 |---|---|---|---|---|
-| Daiwa Office Investment | 大和証券オフィス投資法人 | Daiwa group | Office | Daiwa Real Estate Asset Management |
-| Global One Real Estate Investment | グローバル・ワン不動産投資法人 | Mitsubishi UFJ Trust + Meiji Yasuda + Mizuho Trust + Nippon Life | Office | Global Alliance Realty |
-| Industrial & Infrastructure Fund (IIF) | 産業ファンド投資法人 | KKR / Mitsubishi Corp-UBS combination (historical), now KJR | Logistics / industrial | Mitsubishi Corp-UBS Realty / KJR Management |
-| Japan Real Estate Investment Corp (JRE) | ジャパンリアルエステイト投資法人 | Mitsubishi Estate | Office | Japan Real Estate Asset Management |
-| Japan Retail Fund Investment Corp (now JMF) | ジャパンリテールファンド (JMF統合後) | Mitsubishi Corp-UBS / KJR | Retail / diversified | KJR Management |
-| KDX Tokyo REIT (Kenedix) | ケネディクス系REIT (KDX) | Kenedix | Office / residential | Kenedix Real Estate Fund Management |
-| Mori Hills REIT | 森ヒルズリート投資法人 | Mori Building | Office / urban redevelopment | Mori Building Investment Management |
-| Nippon Building Fund (NBF) | 日本ビルファンド投資法人 | Mitsui Fudosan | Office | Nippon Building Fund Management |
-| Nomura Real Estate Master Fund (NMF) | 野村不動産マスターファンド投資法人 | Nomura Real Estate | Diversified | Nomura Real Estate Asset Management |
-| Orix JREIT | オリックス不動産投資法人 | Orix | Diversified | Orix Asset Management |
+| Daiwa Office Investment | Daiwa Office Investment Corporation | Daiwa group | Office | Daiwa Real Estate Asset Management |
+| Global One Real Estate Investment | Global One Real Estate Investment Corporation | Mitsubishi UFJ Trust + Meiji Yasuda + Mizuho Trust + Nippon Life | Office | Global Alliance Realty |
+| Industrial & Infrastructure Fund (IIF) | Industrial & Infrastructure Fund Investment Corporation | KKR / Mitsubishi Corp-UBS combination (historical), now KJR | Logistics / industrial | Mitsubishi Corp-UBS Realty / KJR Management |
+| Japan Real Estate Investment Corp (JRE) | Japan Real Estate Investment Corporation | Mitsubishi Estate | Office | Japan Real Estate Asset Management |
+| Japan Retail Fund Investment Corp (now JMF) | Japan Retail Fund, now integrated into JMF | Mitsubishi Corp-UBS / KJR | Retail / diversified | KJR Management |
+| KDX Tokyo REIT (Kenedix) | Kenedix-lineage KDX REIT | Kenedix | Office / residential | Kenedix Real Estate Fund Management |
+| Mori Hills REIT | Mori Hills REIT Investment Corporation | Mori Building | Office / urban redevelopment | Mori Building Investment Management |
+| Nippon Building Fund (NBF) | Nippon Building Fund Inc. | Mitsui Fudosan | Office | Nippon Building Fund Management |
+| Nomura Real Estate Master Fund (NMF) | Nomura Real Estate Master Fund, Inc. | Nomura Real Estate | Diversified | Nomura Real Estate Asset Management |
+| Orix JREIT | Orix JREIT Inc. | Orix | Diversified | Orix Asset Management |
 
 Specific ranking by market cap shifts; this list is a stable representative top-of-market group rather than an exact league table. Industry consolidation has merged some earlier separately-listed J-REIT into combined entities (for example Japan Retail Fund and MCUBS MidCity were consolidated into JMF), so the list of "top 10 by market cap" rotates over time.
 

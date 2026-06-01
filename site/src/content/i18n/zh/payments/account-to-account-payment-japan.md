@@ -13,18 +13,18 @@ translated_at: 2026-06-01T03:31:12.301Z
 
 日本账户到账户支付位于传统银行转账、钱包余额、银行卡收单和码支付之间。核心控制问题是：**价值是直接从存款账户移动，还是经过资金转移 / 预付余额，或经过商户收单 / 卡网络层？**
 
-请将本页与[[payments/INDEX|payments domain]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/japan-code-payment-competitive-map|code-payment competitive map]]、[[banking/quick-deposit-four-methods|quick deposit methods]]和[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]一起使用。
+请将本页与[[payments/INDEX|支付领域]]、[[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]、[[payments/funds-transfer-service-providers-japan-index|资金转移业者名录]]、[[payments/japan-code-payment-competitive-map|码支付竞争地图]]、[[banking/quick-deposit-four-methods|快速入金方法]]和[[JapanFG/legal-financial-licenses/INDEX|JapanFG 法律 / 金融牌照]]一起使用。
 
 ## 支付轨道地图
 
 | 轨道 | 运营方 / 来源路径 | 客户视角 | FinWiki 解读 |
 |---|---|---|---|
-| 传统银行转账 | 银行和全银系统 | 银行账户到账户，通常基于账号。 | 核心银行支付轨道；当资产负债表或银行系统结构重要时使用[[banking/INDEX|banking domain]]。 |
-| Cotra / 縺薙→繧蛾・≡ | 与全银系统联动的 Cotra 系统 | 使用银行 App、账号、电话、邮件或兼容账户标识的小额即时个人转账。 | A2A 互操作层，连接存款机构与资金转移业者。 |
+| 传统银行转账 | 银行和全银系统 | 银行账户到账户，通常基于账号。 | 核心银行支付轨道；当资产负债表或银行系统结构重要时使用[[banking/INDEX|银行领域]]。 |
+| Cotra / Kotora 汇款 | 与全银系统联动的 Cotra 系统 | 使用银行 App、账号、电话、邮件或兼容账户标识的小额即时个人转账。 | A2A 互操作层，连接存款机构与资金转移业者。 |
 | Bank Pay | JEPPO / 日本电子支付推进机构 | 从已登记银行账户发起 QR / 条码支付，并以直接借记式账户结算。 | 与码支付竞争、但具备直接账户扣款逻辑的商户支付轨道。 |
 | J-Debit | JEPPO / J-Debit 基础设施 | 使用现金卡在商户借记支付。 | 传统账户直连商户借记层，也是 Bank Pay 的基础设施。 |
 | 钱包银行链接支付 | 支付 App、银行 API / 账户连接、资金转移或预付运营方 | 用户看到 PayPay / Merpay / au PAY / 其他钱包流程。 | 必须拆分账户充值、钱包余额、商户收单以及资金转移 / 预付分类。 |
-| BaaS / 嵌入式银行账户 | 合作银行与 App 提供方 | App 看起来像银行或钱包。 | 使用[[banking/baas-japan-landscape|BaaS Japan landscape]]和[[banking/mercari-bank-license-stack|Mercari Bank license stack]]。 |
+| BaaS / 嵌入式银行账户 | 合作银行与 App 提供方 | App 看起来像银行或钱包。 | 使用[[banking/baas-japan-landscape|日本 BaaS 版图]]和[[banking/mercari-bank-license-stack|Mercari Bank 牌照栈]]。 |
 
 ## Cotra 系统解读
 
@@ -34,8 +34,8 @@ translated_at: 2026-06-01T03:31:12.301Z
 
 - [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/resona-bank|Resona Bank]]以及其他存款银行；
 - [[JapanFG/ssnb|SBI Sumishin Net Bank]]和[[banking/minna-bank-baas-model|Minna Bank BaaS]]等 App 银行和数字银行路径；
-- 通过[[payments/funds-transfer-service-providers-japan-index|Japan funds-transfer service providers registry]]路由的资金转移业者；
-- [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]中的面向用户的钱包和码支付路径。
+- 通过[[payments/funds-transfer-service-providers-japan-index|日本资金转移业者名录]]路由的资金转移业者；
+- [[payments/japan-code-payment-competitive-map|日本码支付竞争地图]]中的面向用户的钱包和码支付路径。
 
 ## Bank Pay / J-Debit 解读
 
@@ -54,9 +54,9 @@ JEPPO 将自身描述为通过账户直连支付基础设施提供 J-Debit 和 B
 |---|---|---|
 | Cotra 下的个人间转账 | 发送方是银行客户、钱包客户还是资金转移客户？ | Cotra / 全银联动，加银行或资金转移服务提供方披露。 |
 | 从银行账户发起的 QR 商户支付 | 账户是直接扣款，还是先充值到钱包余额？ | Bank Pay / 账户直连路径。 |
-| 银行充值后的钱包支付 | 价值是否先存入钱包再用于商户支付？ | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]。 |
-| 通过 PayPay / d謇輔＞ / au PAY / Rakuten Pay 的商户 QR 支付 | 这是码支付、卡收单、预付还是资金转移经济？ | [[payments/japan-code-payment-competitive-map|code-payment competitive map]]和[[payments/psp-merchant-settlement-risk|PSP settlement risk]]。 |
-| 向证券 / 加密账户快速入金 | 轨道是银行转账、账户扣款、API 指令还是支付代理路径？ | [[banking/quick-deposit-four-methods|quick deposit methods]]和[[JapanFG/legal-financial-licenses/INDEX|license stack]]。 |
+| 银行充值后的钱包支付 | 价值是否先存入钱包再用于商户支付？ | [[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]。 |
+| 通过 PayPay / d Pay / au PAY / Rakuten Pay 的商户 QR 支付 | 这是码支付、卡收单、预付还是资金转移经济？ | [[payments/japan-code-payment-competitive-map|码支付竞争地图]]和[[payments/psp-merchant-settlement-risk|PSP 结算风险]]。 |
+| 向证券 / 加密账户快速入金 | 轨道是银行转账、账户扣款、API 指令还是支付代理路径？ | [[banking/quick-deposit-four-methods|快速入金方法]]和[[JapanFG/legal-financial-licenses/INDEX|牌照栈]]。 |
 
 ## JapanFG 相关性
 
@@ -83,7 +83,7 @@ JEPPO 将自身描述为通过账户直连支付基础设施提供 J-Debit 和 B
 3. 检查运营方：银行、资金转移服务提供方、预付发行方、PSP 或码支付平台。
 4. 对 Cotra，检查当前参与 App / 机构页面。
 5. 对 Bank Pay，检查当前参与金融机构和商户受理范围。
-6. 在作出牌照判断前，把公司页面链接回[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]和[[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]]。
+6. 在作出牌照判断前，把公司页面链接回[[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]和[[JapanFG/legal-financial-licenses/INDEX|法律 / 金融牌照]]。
 
 ## 相关
 

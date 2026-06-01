@@ -12,16 +12,16 @@ translated_at: 2026-05-31T11:13:44.838Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hachijuni-nagano-bank|八十二長野銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/hachijuni-nagano-bank|Hachijuni Nagano Bank]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ##TL;DR
 
-A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It was established through the **2022-10-03 management integration of Aichi Bank + Chukyo Bank**, and its bank subsidiary has already been integrated into [[aichi-bank|あいち銀行]]. It is a regional-bank restructuring model grounded in the Chukyo economic zone (Nagoya / Toyota supply chain). In-prefecture competitor: [[nagoya-bank]] (no holding-company structure, prefectural No. 2); nearby peers: [[juroku-fg]] (Gifu) / [[san-jusan-fg]] (Mie) / [[ogaki-kyoritsu-bank]] (Gifu). ^[extracted]
+A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It was established through the **2022-10-03 management integration of Aichi Bank + Chukyo Bank**, and its bank subsidiary has already been integrated into [[aichi-bank|Aichi Bank]]. It is a regional-bank restructuring model grounded in the Chukyo economic zone (Nagoya / Toyota supply chain). In-prefecture competitor: [[nagoya-bank]] (no holding-company structure, prefectural No. 2); nearby peers: [[juroku-fg]] (Gifu) / [[san-jusan-fg]] (Mie) / [[ogaki-kyoritsu-bank]] (Gifu). ^[extracted]
 
 ## 1. Company Profile
 
 **Official name**: Aichi Financial Group Co., Ltd. ^[extracted]
-**British Name**: Aichi Financial Group, Inc.
+**English name**: Aichi Financial Group, Inc.
 **Stock code**: TSE PRIME 7389 (listed 2022-10-03) ^[extracted]
 **Establishment**: 2022-10-03 (management integration through joint stock transfer) ^[extracted]
 **Head office**: Naka-ku, Nagoya City, Aichi Prefecture ^[extracted]
@@ -29,9 +29,9 @@ A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It w
 ### Main subsidiaries/group composition
 
 ```
-あいち FG（持株会社・上場 7389）
-  └── [[aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 operating bank
-        └── 県内支店ネットワーク・中堅中小企業融資
+Aichi FG (holding company, listed 7389)
+  └── [[aichi-bank|Aichi Bank]] (100%) -- operating bank after the merger of former Aichi Bank and former Chukyo Bank
+        └── In-prefecture branch network and lending to SMEs and mid-sized companies
 ```
 
 #### Aichi Bank Genealogy
@@ -48,7 +48,7 @@ A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It w
 #### Management integration process
 
 - **2022-10-03 Establishment of Aichi FG** (Joint stock transfer, both banks 100% became a subsidiary, new FG listed on TSE PRIME) ^[extracted]
-- **2025-01-01 Aichi Bank + Chukyo Bank Merger**, current operating bank is [[aichi-bank|あいち銀行]].
+- **2025-01-01 Aichi Bank + Chukyo Bank merger**, current operating bank is [[aichi-bank|Aichi Bank]].
 
 ### Important Chronology ^[extracted]
 
@@ -58,15 +58,15 @@ A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It w
 |1943 |Aichi Bank Established due to wartime consolidation|
 |1953 |Establishment of Chukyo Bank (3rd Mugen + 17th Mugen)|
 |**2022-10-03**|**Aichi FG established** (Aichi Bank + Chukyo Bank joint stock transfer) / Listed on TSE PRIME|
-|**2025-01-01**|**Aichi Bank + Chukyo Bank merger**, operating-company boundary was organized to [[aichi-bank|あいち銀行]]|
+|**2025-01-01**|**Aichi Bank + Chukyo Bank merger**, operating-company boundary was organized to [[aichi-bank|Aichi Bank]]|
 
 ## 2. Business segment map
 
 |segment|main business person|Features|
 |---|---|---|
-|Financing for medium-sized and small enterprises|[[aichi-bank|あいち銀行]]|Manufacturing industry/supplier finance in Aichi Prefecture|
-|Financing for small and medium-sized enterprises|[[aichi-bank|あいち銀行]]|Including small businesses in Nagoya on the former Chukyo Bank side|
-|personal retail|[[aichi-bank|あいち銀行]]|Mortgage loan/deposit|
+|Financing for medium-sized and small enterprises|[[aichi-bank|Aichi Bank]]|Manufacturing industry/supplier finance in Aichi Prefecture|
+|Financing for small and medium-sized enterprises|[[aichi-bank|Aichi Bank]]|Including small businesses in Nagoya on the former Chukyo Bank side|
+|Personal retail|[[aichi-bank|Aichi Bank]]|Mortgage loan/deposit|
 
 ### Chukyo Economic Zone Concentration Strategy
 
@@ -122,4 +122,4 @@ Reference examples of nearby regional banks:
 ---
 
 > [!info] Check status
-> confidence: **likely** (v1.1 public-source correction 2026-05-21). 2025-01-01 Removed the forecast expression for bank mergers and separated the current operating-company boundary into [[aichi-bank|あいち銀行]]. Continuously confirm quantitative data such as financial numbers and number of stores in the latest disclosure/securities report.
+> confidence: **likely** (v1.1 public-source correction 2026-05-21). On 2025-01-01, the forecast wording for the bank merger was removed and the current operating-company boundary was separated into [[aichi-bank|Aichi Bank]]. Continue confirming quantitative data such as financial numbers and branch counts in the latest disclosure materials and securities reports.

@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.958Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural-federation anchor for the JA Kyosairen system in FinWiki**, closing the audit gap that "JA 共済連 exists but no prefectural 信連 anchors exist". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大規模給付実績). Read with [[JapanFG/ja-kyosairen|JA 共済連 (全国本部)]] for the national parent, [[JapanFG/fukushima-bank|福島銀行]] for the regional banking peer, [[JapanFG/ja-shinnoren|JA 信連]] for the agricultural-credit prefectural equivalent, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]] as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap where the national JA mutual-aid federation existed but no prefectural federation anchor existed. Fukushima was selected for its disaster-recovery relevance after the 2011 Great East Japan Earthquake.
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 | Age | Event |
 |---|---|
 | 1951 ~ | 47  Establishment of "Prefectural Mutual Aid Agricultural Cooperative Federation" by prefecture (independent federation with legal personality) |
-| 1960〜90 年代 | 47 県共済連 + 1 全共連の 2 段構造で運営 |
+| 1960s-1990s | Operated under a two-tier structure of 47 prefectural mutual-aid federations plus the national federation |
 | ** 2000-04-01 ** | **Prefectural Mutual Aid Federation 47  institution → integrated into Zenkyoren**, reorganized into each prefectural headquarters ^[extracted] |
 | 2000 ~ | Unified management with Zenkyoren as the national headquarters and 47  prefectural organizations as the "prefectural headquarters" |
 | ** 2011-03-11 ** | **Great East Japan Earthquake + Fukushima Daiichi Nuclear Power Plant Accident** — Fukushima Prefectural Headquarters' rebuilding benefit practice becomes large-scale ^[extracted] |
@@ -48,14 +48,14 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 ```
 [[JapanFG/ja-kyosairen|JA 共済連 (全共連) 全国本部]]
   ├── 北海道本部
-  ├── 東北 6 県本部 (青森・岩手・宮城・秋田・山形・福島) ★福島=本ページ
+  ??? Six Tohoku prefectural headquarters: Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima; Fukushima is this page
   ├── 関東甲信越 県本部
   ├── 東海 県本部
   ├── 近畿 県本部
   ├── 中国四国 県本部
   └── 九州沖縄 県本部
-      ↓ 各県本部は 全共連の事業実施組織として運営
-      → 県内 JA + 組合員世帯への共済販売 + 査定 + 給付
+      ? Each prefectural headquarters operates as a business-execution unit of the national federation
+      ? Mutual-aid sales, assessment, and benefit payment for prefectural JA members and households
 ```
 
 ### Main duties (specific to prefectural headquarters) ^[extracted]
@@ -138,7 +138,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - **JA Kyosairen Company Profile**: https://www.ja-kyosai.or.jp/about/
 - **JA Kyosairen National Headquarters/Prefectural Headquarters Organizational Chart**: https://www.ja-kyosai.or.jp/about/zenken/
 - **JA Kyosairen Disclosure (all national headquarters)**: https://www.ja-kyosai.or.jp/about/disclosure/ — Disclosure is based on national headquarters, figures by prefecture are not published
-- **JA 共済連 福島県本部 公式**: https://www.jakyosai-fukushima.jp/ — 「県内 5 JA（JA ふくしま未来、JA 福島さくら、JA 夢みなみ、JA 東西しらかわ、JA 会津よつば）と連携・協調しながら、JA の共済事業を総合的にバックアップ」(2026-05-30 確認。旧版の「8 JA」を 5 JA に訂正)。「ディスクロージャー」リンクは全国開示に転送 (県別計数の独自開示なし)
+- **JA Kyosairen Fukushima Prefectural Headquarters official site**: https://www.jakyosai-fukushima.jp/ ? describes coordination with five JA organizations in Fukushima Prefecture: JA Fukushima Mirai, JA Fukushima Sakura, JA Yume Minami, JA Tozai Shirakawa, and JA Aizu Yotsuba (checked 2026-05-30; older eight-JA statement corrected to five). The disclosure link redirects to national disclosure, with no separate prefecture-level figures.
 - **JA Group Factbook 2026 **: https://org.ja-group.jp/pdf/jafactbook/jafactbook_ 2026.pdf
 - Agricultural Cooperative Law ( 昭和 22 年 Law 第 132 号 )
 - 2011  Great East Japan Earthquake + Fukushima Daiichi Nuclear Power Plant Accident-related JA Mutual Insurance Benefits Results Materials

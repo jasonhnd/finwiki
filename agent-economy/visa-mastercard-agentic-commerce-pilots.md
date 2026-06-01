@@ -63,7 +63,7 @@ Mastercard Agent Pay is structurally similar but with different emphasis. The sh
 
 ## Mechanism · what the card-network rails bring to agents that open-protocol does not
 
-The strategic logic of the card-network pilots is that the open-protocol stack ([[agent-economy/x402-http-payment-overview|x402]] + USDC, [[agent-economy/erc-7715-overview|ERC-7715]] + 4337, etc.) is missing four things that took the card networks decades to build:
+The strategic logic of the card-network pilots is that the open-protocol stack ([[agent-economy/x402-http-payment-overview|x402]] + USDC, [[agent-economy/erc-7715-overview|ERC-7715]] + 4337, etc.) is missing four institutional capabilities that took the card networks decades to build:
 
 **Chargebacks and dispute resolution.** When an agent transacts in error — wrong merchant, wrong amount, prompt-injected, victim of social-engineering — the user needs a way to claw back funds. Cards have a 50+-year-old chargeback infrastructure with codified reason codes, regulated timelines, issuer-side liability for fraud, and merchant-side documentation requirements. The on-chain stack has nothing equivalent. The card-network pitch: "let an agent transact on a card and you inherit all of that."
 

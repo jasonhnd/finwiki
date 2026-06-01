@@ -12,20 +12,20 @@ translated_at: 2026-05-30T18:52:47.782Z
 
 ## TL;DR
 
-Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks dominate domestic JGB / equity / 公的年金 custody under a 信託業法 + 銀行法 dual route, while global custodians hold sub-custody mandates for foreign investors and cross-border asset servicing via ICSD gateways. Reading the matrix correctly avoids the frequent mistake of treating "信託口" nominee names as if the bank itself were the economic investor.
+Side-by-side comparison of Japanese trust-bank custody operators (full-service trust banks, asset-administration specialists, smaller trust banks) against global custodians (BNY Mellon, State Street, JP Morgan, Citi) operating in Japan. The two camps are not direct substitutes: Japanese trust banks dominate domestic JGB / equity / public-pension custody under a dual Trust Business Act and Banking Act route, while global custodians hold sub-custody mandates for foreign investors and cross-border asset servicing via ICSD gateways. Reading the matrix correctly avoids the frequent mistake of treating nominee-account names as if the bank itself were the economic investor.
 
 ## Wiki route
 
-This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer entries [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]], and [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the existing custody-domain map; with [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]], [[JapanFG/mizuho-trust-bank|みずほ信託銀行]], [[JapanFG/smtb|三井住友信託銀行]], and [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] for entity context; with [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] and [[JapanFG/custody-bank|日本カストディ銀行]] as the system anchor; and with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for clearing / settlement infrastructure plus [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] for the client side.
+This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer entries [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]], and [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the existing custody-domain map; with [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]], [[JapanFG/mizuho-trust-bank|Mizuho Trust and Banking]], [[JapanFG/smtb|Sumitomo Mitsui Trust Bank]], and [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] for entity context; with [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] and [[JapanFG/custody-bank|Custody Bank of Japan]] as the system anchor; and with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for clearing / settlement infrastructure plus [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] for the client side.
 
 ## Population covered
 
 **Japanese trust-bank custody side (10 entities)**
 
-- Full-service trust banks: [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUFG Trust)]], [[JapanFG/mizuho-trust-bank|みずほ信託銀行 (Mizuho Trust)]], [[JapanFG/smtb|三井住友信託銀行 (SMTB)]]
-- Foreign-bank-affiliated retail / wealth trust banks: [[JapanFG/smbc-trust-bank|SMBC信託銀行]]
-- Specialty / group-internal trust banks: [[JapanFG/nomura-trust-bank|野村信託銀行]], [[JapanFG/nochu-trust-bank|農中信託銀行]], [[JapanFG/sbi-shinsei-trust-bank|SBI新生信託銀行]], [[JapanFG/jsf-trust-bank|JSF信託銀行]]
-- Asset-administration specialists (信託口 nominee anchors): [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]], [[JapanFG/custody-bank|日本カストディ銀行]]
+- Full-service trust banks: [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking (MUFG Trust)]], [[JapanFG/mizuho-trust-bank|Mizuho Trust and Banking (Mizuho Trust)]], [[JapanFG/smtb|Sumitomo Mitsui Trust Bank (SMTB)]]
+- Foreign-bank-affiliated retail / wealth trust banks: [[JapanFG/smbc-trust-bank|SMBC Trust Bank]]
+- Specialty / group-internal trust banks: [[JapanFG/nomura-trust-bank|Nomura Trust and Banking]], [[JapanFG/nochu-trust-bank|Nochu Trust and Banking]], [[JapanFG/sbi-shinsei-trust-bank|SBI Shinsei Trust Bank]], [[JapanFG/jsf-trust-bank|JSF Trust and Banking]]
+- Asset-administration specialists (nominee-account anchors): [[JapanFG/master-trust-bank|Master Trust Bank of Japan]], [[JapanFG/custody-bank|Custody Bank of Japan]]
 
 **Global custodian side (4 entities)**
 
@@ -82,7 +82,7 @@ This entry sits under the [[banking/INDEX|banking index]]. Read it with the peer
 
 ## Master Trust vs Custody Bank of Japan — the meaning of the 2020 consolidation
 
-The consolidation **2020-07-27 JTSB (Japan Trustee Services Bank) + TCSB (Trust & Custody Services Bank) → [[JapanFG/custody-bank|日本カストディ銀行]]** was the event that clarified Japan's custody-infrastructure 2 -strong structure as **MUFG-affiliated [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] vs SMTB / Mizuho / Resona / Dai-Ichi-Life-affiliated [[JapanFG/custody-bank|日本カストディ銀行]]**. ^[extracted]
+The consolidation **2020-07-27 JTSB (Japan Trustee Services Bank) + TCSB (Trust & Custody Services Bank) → [[JapanFG/custody-bank|Custody Bank of Japan]]** was the event that clarified Japan's custody-infrastructure 2 -strong structure as **MUFG-affiliated [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] vs SMTB / Mizuho / Resona / Dai-Ichi-Life-affiliated [[JapanFG/custody-bank|Custody Bank of Japan]]**. ^[extracted]
 
 Public materials cite the following as reasons for the consolidation:
 

@@ -15,11 +15,11 @@ translated_at: 2026-05-31T07:28:06.166Z
 
 市场高度集中。四大寿险公司（日本生命、第一生命、住友生命、明治安田生命）主导寿险保费，三大非寿险集团（东京海上、MS&AD、Sompo）主导非寿险保费，而 JA Kyosai 是最大的合作社保险机构。地震保险机制则是由日本地震再保险（JER）运营、并由政府兜底的独特公私合营安排。
 
-本条目是连接 [[insurance/INDEX|insurance domain]] 的跨板块生态锚点，并衔接到实体页面锚点 [[JapanFG/INDEX|JapanFG]]。
+本条目是连接 [[insurance/INDEX|保险领域]] 的跨板块生态锚点，并衔接到实体页面锚点 [[JapanFG/INDEX|JapanFG]]。
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[insurance/INDEX|insurance index]] as the system overview anchor. Pair it with [[insurance/japan-life-insurance-big-four]] for the life big-four detail, [[insurance/japan-nonlife-big-three]] for the non-life big-three detail, [[insurance/cooperative-insurance-system-japan]] for the co-op insurance side, [[insurance/global-solvency-framework-comparison-matrix]] for the global solvency comparison, and [[insurance/earthquake-insurance-public-private-scheme]] for the earthquake-insurance scheme.
+本条目位于 [[insurance/INDEX|insurance index]] 之下，是保险系统总览锚点。可与 [[insurance/japan-life-insurance-big-four]]（四大寿险）、[[insurance/japan-nonlife-big-three]]（三大非寿险）、[[insurance/cooperative-insurance-system-japan]]（共济保险）、[[insurance/global-solvency-framework-comparison-matrix]]（全球偿付能力比较）和 [[insurance/earthquake-insurance-public-private-scheme]]（地震保险机制）配套阅读。
 
 ### 1. 寿险
 
@@ -73,7 +73,7 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 
 地震保险公私合营机制是日本保险体系中的独特结构特征：
 
-| Layer | Function |
+| 层级 | 功能 |
 |---|---|
 | 家庭地震保险 | 必须与住宅火险捆绑销售。 |
 | 原保险公司 | 非寿险公司承保保单。 |
@@ -82,9 +82,9 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 
 详见 [[insurance/earthquake-insurance-public-private-scheme]] 与 [[JapanFG/japan-earthquake-reinsurance]]。
 
-## Regulatory Framework
+## 监管框架
 
-| Layer | Detail |
+| 层级 | 细节 |
 |---|---|
 | 《保险业法》 | 保险公司牌照、分销、资本、治理与行为规范的法定框架。 |
 | FSA 监管 | 牌照审批、监管检查、市场行为审查。 |
@@ -96,9 +96,9 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 | 共济边界 | 在 MAFF / MHLW 下按合作社法系法规运行，并有单独监管制度。见 [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]]。 |
 | 保单持有人保护 | 日本生命保险保单持有人保护机构（LIPPC）+ 一般保险保单持有人保护机构（GIPPC）。 |
 
-## Market Participants
+## 市场参与者
 
-| Category | Examples |
+| 类别 | 示例 |
 |---|---|
 | 寿险公司（FSA 持牌） | 约 40  家，覆盖四大、邮政、线上、集团及外资玩家。 |
 | 非寿险公司（FSA 持牌） | 约 30+ 家，覆盖三大、直销、专业、外资、海运 / P&I。 |
@@ -110,9 +110,9 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 | 监管者 | 《保险业法》下的 FSA。 |
 | 保单持有人保护 | LIPPC（寿险）、GIPPC（一般保险）。 |
 
-## Cross-Segment Linkages
+## 跨板块连接
 
-| Linkage | Mechanism |
+| 连接 | 机制 |
 |---|---|
 | 寿险利率衍生品对冲 | 大型寿险公司是日元 IRS receive-fixed 头寸的最大使用者之一。见 [[derivatives/japan-interest-rate-derivatives-overview]], [[insurance/japan-life-insurance-alm-overview]]。 |
 | 非寿险巨灾再保险 | 三大非寿险集团通过巨灾 treaty program 向外资再保险人分出风险。见 [[insurance/natcat-reinsurance-japan]]。 |
@@ -121,9 +121,9 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 | 保险 / 资管 | 大型寿险经营大规模资管业务；三大非寿险也经营全球资管平台。 |
 | 保险 / 全球 FG | 三大非寿险集团运营全球保险子公司。 |
 
-## Public Data Sources
+## 公开数据来源
 
-| Source | What it shows |
+| 来源 | 可观察内容 |
 |---|---|
 | FSA 保险公司披露 | 各保险公司的 ESR、偿付能力边际比率、保费收入、管理资产规模。 |
 | 生命保险协会 | 寿险行业总保费、AUM、分销结构。 |
@@ -181,10 +181,10 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 
 ## Sources
 
-- Financial Services Agency (FSA): Insurance Business Act, ESR framework, insurer disclosure, supervisory guidance.
-- Life Insurance Association of Japan: aggregate life-insurance industry statistics.
-- General Insurance Association of Japan: aggregate non-life-insurance industry statistics.
-- International Association of Insurance Supervisors (IAIS): ICS 2.0  framework, IAIG list.
-- Japan Earthquake Reinsurance (JER): earthquake-insurance reinsurance pool documentation.
-- Big-four life and big-three non-life IR releases for group-level financial disclosure.
-- JA-Kyosai / Zenkyoren disclosure for co-op insurance.
+- 金融厅（FSA）：《保险业法》、ESR 框架、保险公司披露和监管指引。
+- Life Insurance Association of Japan：寿险行业汇总统计。
+- General Insurance Association of Japan：非寿险行业汇总统计。
+- International Association of Insurance Supervisors（IAIS）：ICS 2.0 框架与 IAIG 名单。
+- Japan Earthquake Reinsurance（JER）：地震保险再保险池文件。
+- 四大寿险与三大非寿险集团 IR 发布：集团层面财务披露。
+- JA-Kyosai / Zenkyoren 披露：合作社保险信息。

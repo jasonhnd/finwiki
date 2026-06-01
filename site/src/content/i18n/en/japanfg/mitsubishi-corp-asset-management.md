@@ -11,16 +11,16 @@ translated_at: 2026-05-31T23:59:49.314Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/asset-management-one|アセットマネジメントOne]] (the [[JapanFG/mizuho-fg|みずほ FG]] + [[JapanFG/dai-ichi-life|第一生命]] JV AM, peer banking-system AM) and [[JapanFG/mufg-asset-management|三菱UFJアセットマネジメント]] (the [[JapanFG/mufg|MUFG]] group AM). For the same-parent group-treasury arm, see [[JapanFG/mitsubishi-corp-finance|三菱商事FS]]. For the broader trading-company financial peer set: [[JapanFG/mitsui-bussan-financial-services|三井物産FS]] / [[JapanFG/sumitomo-corp-financial-management|住友商事FM]] / [[JapanFG/itochu-finance|伊藤忠ファイナンス]] / [[JapanFG/marubeni-financial-services|丸紅フィナンス]] / [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] / [[JapanFG/sojitz-finance|双日フィナンス]]. See [[securities/INDEX|securities index]] for the FIEA / investment-management-business boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/asset-management-one|Asset Management One]] (the [[JapanFG/mizuho-fg|Mizuho FG]] + [[JapanFG/dai-ichi-life|Dai-ichi Life]] JV AM, peer banking-system AM) and [[JapanFG/mufg-asset-management|Mitsubishi UFJ Asset Management]] (the [[JapanFG/mufg|MUFG]] group AM). For the same-parent group-treasury arm, see [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation FS]]. For the broader trading-company financial peer set: [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] / [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] / [[JapanFG/itochu-finance|Itochu Finance]] / [[JapanFG/marubeni-financial-services|Marubeni Financial Services]] / [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance]] / [[JapanFG/sojitz-finance|Sojitz Finance]]. See [[securities/INDEX|securities index]] for the FIEA / investment-management-business boundary.
 
 ## 1. Company overview
 
 > [!warning] Important capital change (2022)
-> **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)**, formerly the core of Mitsubishi Corporation-affiliated real estate AM, was fully acquired by KKR (indirect subsidiary 76  Co., Ltd.) after **Mitsubishi Corporation (8058) and UBS Asset Management AG transferred all their shares to KKR in 2022-04-28 (approximately 2,300 億円)**, and the company name was changed to KJR Management Co., Ltd. In other words, that former core company is **now under KKR and no longer affiliated with Mitsubishi Corporation**. The old premise of this page as a "Mitsubishi Corporation-affiliated real estate AM collection node" no longer applies to MC-UBSR. The table below is retained for historical organization.
+> **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)**, formerly the core of Mitsubishi Corporation-affiliated real estate AM, was fully acquired by KKR (indirect subsidiary 76  Co., Ltd.) after **Mitsubishi Corporation (8058) and UBS Asset Management AG transferred all their shares to KKR in 2022-04-28 (approximately 2,300 hundred million yen)**, and the company name was changed to KJR Management Co., Ltd. In other words, that former core company is **now under KKR and no longer affiliated with Mitsubishi Corporation**. The old premise of this page as a "Mitsubishi Corporation-affiliated real estate AM collection node" no longer applies to MC-UBSR. The table below is retained for historical organization.
 
 | Item | Notes |
 |---|---|
-| Former core company (history) | **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)** = MC Asset Management, established in 2000  (Mitsubishi Corporation 51% / UBS 49%), renamed in the same year as a JV. **In 2022-04-28, KKR acquired all shares and renamed it KJR Management Co., Ltd.** (AUM about 1.7 兆円; manager of Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation) |
+| Former core company (history) | **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)** = MC Asset Management, established in 2000  (Mitsubishi Corporation 51% / UBS 49%), renamed in the same year as a JV. **In 2022-04-28, KKR acquired all shares and renamed it KJR Management Co., Ltd.** (AUM about 1.7 trillion yen; manager of Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation) |
 | Former English | Mitsubishi Corp.-UBS Realty Inc. (now KJR Management Co., Ltd.) |
 | Former Parent -> Current Parent | Former: JV of Mitsubishi Corporation 51% + UBS 49% -> **Current: KKR 100% (since 2022-04 , Mitsubishi Corporation has no capital relationship)** |
 | License route | FIEA investment management business (J-REIT management + private funds) |
@@ -30,7 +30,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 | Layer | Entity | Role |
 |---|---|---|
-| **Financial-institution line (general AM)** | [[JapanFG/mufg-asset-management|三菱UFJアセットマネジメント]] | Traditional AM such as investment trusts and pensions |
+| **Financial-institution line (general AM)** | [[JapanFG/mufg-asset-management|Mitsubishi UFJ Asset Management]] | Traditional AM such as investment trusts and pensions |
 | **Trust line (trust management + real estate)** | [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]] group + AMS (former Mitsubishi Trust) | Asset management inside the trust bank + real estate AM using trust structures |
 | **Trading-company line (real assets + investment)** | **Mitsubishi Corporation-affiliated AM group on this page** | Real-asset AM using real assets (real estate, infrastructure, renewable energy, PE) |
 
@@ -52,7 +52,7 @@ The real estate AM industry is grouped by **where the source of the real assets 
 
 ### Division of labor with group-treasury functions
 
-Mitsubishi Corporation-affiliated financial functions have a **multi-layer structure**: the AM group on this page + [[JapanFG/mitsubishi-corp-finance|三菱商事FS]] (internal CMS / group finance) + [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (listed leasing / asset finance) + [[JapanFG/mufg|MUFG]] group banks, trusts, and AM. The AM on this page is a specialized function responsible for "fund businesses derived from real assets."
+Mitsubishi Corporation-affiliated financial functions have a **multi-layer structure**: the AM group on this page + [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation FS]] (internal CMS / group finance) + [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] (listed leasing / asset finance) + [[JapanFG/mufg|MUFG]] group banks, trusts, and AM. The AM on this page is a specialized function responsible for "fund businesses derived from real assets."
 
 ## 4. Regulation / policy
 
@@ -71,27 +71,27 @@ Mitsubishi Corporation-affiliated financial functions have a **multi-layer struc
 
 ## Related
 
-- [[JapanFG/mitsubishi-corp-finance|三菱商事FS (内向け group-treasury)]]
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル (外向けリース)]]
-- [[JapanFG/mufg|MUFG (主取引銀行グループ)]]
-- [[JapanFG/mufg-asset-management|三菱UFJアセットマネジメント (peer 金融系 AM)]]
-- [[JapanFG/asset-management-one|アセットマネジメントOne (peer 金融系 AM)]]
+- [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corporation FS (internal group treasury)]]
+- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital (external leasing)]]
+- [[JapanFG/mufg|MUFG (主取引銀行Group)]]
+- [[JapanFG/mufg-asset-management|Mitsubishi UFJ Asset Management (peer 金融系 AM)]]
+- [[JapanFG/asset-management-one|Asset Management One (peer 金融系 AM)]]
 - [[JapanFG/mitsubishi-ufj-trust-bank|MUTB (信託系)]]
-- [[JapanFG/mitsui-bussan-financial-services|三井物産FS (peer 商社系内部金融)]]
-- [[JapanFG/sumitomo-corp-financial-management|住友商事FM (peer 商社系内部金融)]]
-- [[JapanFG/itochu-finance|伊藤忠ファイナンス (peer 商社系内部金融)]]
-- [[JapanFG/marubeni-financial-services|丸紅フィナンス (peer 商社系内部金融)]]
-- [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス (peer 商社系内部金融)]]
-- [[JapanFG/sojitz-finance|双日フィナンス (peer 商社系内部金融)]]
+- [[JapanFG/mitsui-bussan-financial-services|Mitsui Bussan Financial Services (peer trading-company internal finance)]]
+- [[JapanFG/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management (peer trading-company internal finance)]]
+- [[JapanFG/itochu-finance|Itochu Finance (peer trading-company internal finance)]]
+- [[JapanFG/marubeni-financial-services|Marubeni Financial Services (peer trading-company internal finance)]]
+- [[JapanFG/toyota-tsusho-finance|Toyota Tsusho Finance (peer trading-company internal finance)]]
+- [[JapanFG/sojitz-finance|Sojitz Finance (peer trading-company internal finance)]]
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
+- [[finance/japan-acquisition-finance|Japan acquisition finance]]
 
 ## Sources
 
 - Mitsubishi Corporation (8058) annual securities report (EDINET disclosure) -- list of affiliated companies
 - Mitsubishi Corporation official IR / integrated reports (group company list)
-- **Mitsubishi Corporation news release "KKR, Mitsubishi Corporation and UBS agree to transfer shares of Mitsubishi Corp.-UBS Realty, one of the industry's largest real estate asset managers, to KKR"** (2022-03-17, approximately 2,300 億円 / 100% transfer, completed 2022-04 ) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
-- **Wikipedia "KJR Management"** (former Mitsubishi Corp.-UBS Realty; MC Asset Management established in 2000  with Mitsubishi Corporation 51% / UBS 49%; in 2022-04-28 became a wholly owned KKR subsidiary and changed name; AUM about 1.7 兆円; manager of Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation)
+- **Mitsubishi Corporation news release "KKR, Mitsubishi Corporation and UBS agree to transfer shares of Mitsubishi Corp.-UBS Realty, one of the industry's largest real estate asset managers, to KKR"** (2022-03-17, approximately 2,300 hundred million yen / 100% transfer, completed 2022-04 ) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
+- **Wikipedia "KJR Management"** (former Mitsubishi Corp.-UBS Realty; MC Asset Management established in 2000  with Mitsubishi Corporation 51% / UBS 49%; in 2022-04-28 became a wholly owned KKR subsidiary and changed name; AUM about 1.7 trillion yen; manager of Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation)
 - FSA financial instruments business operator list https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 - Association for Real Estate Securitization (ARES) https://www.ares.or.jp/
 - EDINET annual securities report search https://disclosure.edinet-fsa.go.jp/

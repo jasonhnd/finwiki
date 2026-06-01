@@ -4,20 +4,20 @@ source_hash: 2606f321d3665e5f
 lang: zh
 status: machine
 fidelity: ok
-title: "日本金融机构扩充缺口执行 backlog"
+title: "??????????????"
 translated_at: 2026-05-31T23:59:49.427Z
 ---
-# 日本金融机构扩充缺口执行 backlog
+# ??????????????
 
 ## 概览
 
 本页是将 [[JapanFG/INDEX|JapanFG]] 从主要机构 wiki 扩展为登记册感知型日本金融机构地图的执行清单。
 
-当前 wiki 已有较强核心覆盖： megabanks, major FG, regional-bank groups, policy finance, insurers, securities groups, leasing, payment, fintech, foreign Japan subsidiaries, and crypto exchange pages. 但相对于官方牌照 / 登记名单尚未穷尽。
+?? wiki ??????????????????????????????????????????????????????????????????????????????????? / ????????????
 
 执行规则：
 
-1. 为系统重要机构、上市金融公司、主要经营子公司、市场基础设施以及 fintech/payment 运营商创建有公开来源支持的独立页面。
+1. ??????????????????????????????????? / ????????????????????
 2. 对于信用金库、信用组合、预付式支付工具发行人、长尾金商法业者等庞大群体，使用登记册 / 索引页面处理。
 3. 不得基于非公开背景创建公司页面。每个页面必须能够由公开登记册、IR、披露、公司资料、年报、协会名单或法律 / 政策文件支撑。
 
@@ -25,28 +25,28 @@ translated_at: 2026-05-31T23:59:49.427Z
 
 | 登记册 | 官方数量 / 范围 | 来源路径 | Wiki 处理 |
 |---|---:|---|---|
-| 银行：都市、信托、其他 | 35 | FSA bank license Excel | Add missing operating-company pages; reconcile parent-vs-subsidiary boundaries. |
-| 外国银行分行 | 57 | FSA bank license Excel | Registry route now has standalone / umbrella wiki routes for all 57 rows; future edits should follow FSA list changes or new strategic questions. |
-| 地方银行 | 61 | FSA bank license Excel | Add missing direct bank pages or mark as covered by parent FG. |
-| 第二地方银行 | 34 | FSA bank license Excel | Add missing direct bank pages or mark as covered by parent FG. |
-| 银行控股公司 | 31 | FSA bank holding company Excel | Mostly covered; verify post-2026 names and mergers. |
-| 信用金库 | 254 + Shinkin Central Bank | FSA shinkin license Excel | Keep [[JapanFG/shinkin-central|Shinkin Central Bank]] as main page; complete long-tail route via [[banking/shinkin-bank-registry-japan]]. |
-| 信用组合 | 143 + central federation | FSA credit cooperative Excel | Keep [[JapanFG/zenshin-kumi|Zenshin-kumi]] as main page; complete long-tail route via [[banking/credit-cooperative-registry-japan]]. |
-| 劳动金库 | 13 + Rokinren | FSA rokin license Excel | Keep [[JapanFG/rokin-renraku|Rokinren]] as main page; complete member route via [[banking/rokin-bank-registry-japan]]. |
+| ??????????? | 35 | FSA bank license Excel | ????????????????????????? |
+| ?????? | 57 | FSA bank license Excel | 57 ????????????? wiki ?????? FSA ????????????? |
+| ???? | 61 | FSA bank license Excel | ?????????????????????????? |
+| ?????? | 34 | FSA bank license Excel | ?????????????????????????? |
+| ?????? | 31 | FSA bank holding company Excel | ????????? 2026 ??????????? |
+| ???? | 254 + Shinkin Central Bank | FSA shinkin license Excel | ?? [[JapanFG/shinkin-central|Shinkin Central Bank]] ??????????? [[banking/shinkin-bank-registry-japan]] ??? |
+| ???? | 143 + central federation | FSA credit cooperative Excel | ?? [[JapanFG/zenshin-kumi|Zenshin-kumi]] ??????????? [[banking/credit-cooperative-registry-japan]] ??? |
+| ???? | 13 + Rokinren | FSA rokin license Excel | ?? [[JapanFG/rokin-renraku|Rokinren]] ??????????? [[banking/rokin-bank-registry-japan]] ??? |
 | 金融商品交易业者 | 1,945 | FSA FIEA operator Excel | Registry route completed via [[securities/financial-instruments-business-operators-japan-index]]; [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] routes Type I/II, registered-financial-institution, intermediary, advisory, management, PTS, and JSDA boundaries; standalone pages only for brokers, AMs, PTS, derivatives, and listed/publicly material operators. |
-| 生命保险公司 | 41 | FSA life insurer Excel | Add missing operating insurers and group subsidiaries with public disclosure pages. |
+| ?????? | 41 | FSA life insurer Excel | ???????????????????????? |
 | 损害保险公司 | 57 | FSA non-life insurer Excel | Major, direct, reinsurance, and selected specialty / foreign-affiliated routes covered through D3-D5 / D8-D9; remaining long tail should use registry or selective exception treatment. |
-| 保险控股公司 | 15 | FSA insurance holding company Excel | Add missing HD pages where group strategy matters. |
+| ?????? | 15 | FSA insurance holding company Excel | ????????????????????? |
 | 信托公司 | 38 | FSA trust company Excel | Registry route completed via [[JapanFG/trust-companies-japan-index]]; priority A / B / C standalone pages completed, and all 38 rows now have standalone or existing group wiki routes. |
 | 资金转移服务提供者 | 83 | FSA funds transfer PDF / Excel / JPSA member list | Registry route completed via [[payments/funds-transfer-service-providers-japan-index]]; add standalone pages only for major wallet, remittance, PSP, and stablecoin-adjacent operators. |
-| 加密资产交易业者 | 27 | FSA crypto exchange Excel | Existing coverage is broad; add the two missing FSA rows first. |
-| 电子支付工具服务提供者 | 1 | FSA EPSP Excel | Covered via [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] context; cross-link from stablecoin/EPI pages. |
+| ???????? | 27 | FSA crypto exchange Excel | ???????????? FSA ?????????????? |
+| ??????????? | 1 | FSA EPSP Excel | ??? [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] ??????? stablecoin / EPI ??????? |
 | 第三方预付式支付工具发行人 | 803 | FSA prepaid issuer Excel | Registry route completed via [[payments/prepaid-payment-instrument-issuers-japan-index]]; standalone pages only for major wallet/card/retail operators. |
 | 信用购买 / 卡相关业者 | 241 comprehensive credit purchase intermediaries, 138 individual credit purchase intermediaries, 275 card-number handling contract concluding operators | METI Installment Sales Act lists | Registry route completed via [[payments/credit-purchase-card-operators-japan-index]]; standalone pages for card issuers, acquirers, PSPs, and BNPL/consumer-credit operators. |
 
-## Batch A：优先补齐市场基础设施
+## ?? A???????????
 
-These are not optional. They are central to Japanese capital markets and currently appear only as references inside other pages.
+??????????????????????????????????????????
 
 | 状态 | 目标页面 | 机构 | 公共相关性 |
 |---|---|---|---|
@@ -60,9 +60,9 @@ These are not optional. They are central to Japanese capital markets and current
 | [x] | `securities/japannext-securities.md` | ジャパンネクスト証券 | PTS / alternative trading venue. |
 | [x] | `securities/osaka-digital-exchange.md` | 大阪デジタルエクスチェンジ / ODX | PTS + security token market infrastructure. |
 
-## Batch B：银行经营公司页面
+## ?? B?????????
 
-Many parent FG pages exist, but the licensed bank operating companies do not have standalone pages. Add them only when the operating company has separate public disclosure, strategic role, license boundary, or market importance.
+????????????????????????????????????????????????????????????????
 
 ### B1. Megabank / trust / internet-bank operating companies
 
@@ -100,11 +100,11 @@ Many parent FG pages exist, but the licensed bank operating companies do not hav
 | [x] | Kyushu / Okinawa B2.7 | [[JapanFG/fukuoka-bank|福岡銀行]], [[JapanFG/chikuho-bank|筑邦銀行]], [[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]], [[JapanFG/kitakyushu-bank|北九州銀行]], [[JapanFG/saga-bank|佐賀銀行]], [[JapanFG/higo-bank|肥後銀行]], [[JapanFG/oita-bank|大分銀行]], [[JapanFG/miyazaki-bank|宮崎銀行]], [[JapanFG/kagoshima-bank|鹿児島銀行]], [[JapanFG/okinawa-bank|沖縄銀行]] |
 | [x] | Second regional long tail B2.8 | [[JapanFG/minato-bank|みなと銀行]], [[JapanFG/shimane-bank|島根銀行]], [[JapanFG/saikyo-bank|西京銀行]], [[JapanFG/fukuoka-chuo-bank|福岡中央銀行]], [[JapanFG/saga-kyoei-bank|佐賀共栄銀行]], [[JapanFG/nagasaki-bank|長崎銀行]], [[JapanFG/kumamoto-bank|熊本銀行]], [[JapanFG/howa-bank|豊和銀行]], [[JapanFG/miyazaki-taiyo-bank|宮崎太陽銀行]], [[JapanFG/minami-nippon-bank|南日本銀行]], plus existing [[JapanFG/okinawa-kaiho-bank|沖縄海邦銀行]] anchor |
 
-## Batch C：证券、资产管理与金商法业者
+## ?? C??????????????
 
-Start with operators that have public strategic significance. Do not attempt to write all 1,945 FIEA operators as standalone pages.
+???????????????????????? 1,945 ? FIEA ??????????
 
-The company-page layer is now supported by six control pages: [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japan-online-brokerage-competition|Japan online brokerage competition]], [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]], [[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]], [[securities/japan-underwriting-market-structure|Japan underwriting market structure]], and [[securities/japan-market-infrastructure-map|Japan market infrastructure map]].
+公司页面层现在由六个控制页支撑：[[JapanFG/legal-financial-licenses/securities-license-stack|日本证券牌照栈]]、[[securities/japan-online-brokerage-competition|日本线上券商竞争]]、[[securities/japan-best-execution-sor-pts|日本最佳执行、SOR 与 PTS]]、[[securities/japan-pts-liquidity-data-guide|日本 PTS 流动性数据指南]]、[[securities/japan-underwriting-market-structure|日本承销市场结构]] 和 [[securities/japan-market-infrastructure-map|日本市场基础设施地图]]。
 
 | 状态 | 目标页面 | 机构 | 来源路径 |
 |---|---|---|---|
@@ -124,9 +124,9 @@ The company-page layer is now supported by six control pages: [[JapanFG/legal-fi
 | [x] | `JapanFG/daiwa-asset-management.md` | 大和アセットマネジメント | Daiwa AM platform. |
 | [x] | `JapanFG/sbi-asset-management.md` | SBIアセットマネジメント | SBI AM platform. |
 
-## Batch D：保险经营公司
+## ?? D???????
 
-Parent insurance HD pages are not enough for product/channel analysis. Add operating companies where public disclosure exists.
+??????????????????????????????????????????????
 
 | Status | Group | Institutions to write or reconcile |
 |---|---|---|
@@ -140,9 +140,9 @@ Parent insurance HD pages are not enough for product/channel analysis. Add opera
 | [x] | Specialty non-life extension D8 | [[JapanFG/dai-ichi-ipet-insurance|第一アイペット損害保険]], [[JapanFG/pet-and-family-insurance|ペット＆ファミリー損害保険]], [[JapanFG/yamap-naturance-insurance|ヤマップネイチャランス損害保険]], [[JapanFG/ntt-docomo-sonpo|NTTドコモ損害保険]] |
 | [x] | Specialty / foreign-affiliated non-life extension D9 | [[JapanFG/american-home-insurance-japan|American Home]], [[JapanFG/allianz-fire-marine-japan|Allianz Fire and Marine Japan]], [[JapanFG/hs-insurance|HS Insurance]], [[JapanFG/cardif-nonlife|Cardif Non-Life]], [[JapanFG/capital-insurance|Capital Insurance]], [[JapanFG/sakura-insurance|Sakura Insurance]], [[JapanFG/ji-accident-fire-insurance|JI Accident & Fire]], [[JapanFG/zenkankyo-reiwa-insurance|Zenkankyo Reiwa]], [[JapanFG/chubb-insurance-japan|Chubb Japan]], [[JapanFG/rescue-insurance|Rescue Insurance]], [[JapanFG/hyundai-marine-fire-japan|Hyundai Marine & Fire Japan]] |
 
-## Batch E：支付、卡、消费信贷与汇款
+## ?? E?????????????
 
-This is the largest strategic gap after banks and insurance. Start from major consumer-facing platforms and registered funds-transfer / credit-card operators.
+??????????????????????????????????? / ?????????
 
 | 状态 | 板块 | 机构 |
 |---|---|---|
@@ -155,9 +155,9 @@ This is the largest strategic gap after banks and insurance. Start from major co
 | [x] | Cross-border remittance E2 | [[JapanFG/wise-payments-japan|Wise Payments Japan]], [[JapanFG/revolut-technologies-japan|Revolut Japan]], [[JapanFG/paypal-pte-ltd-japan|PayPal Pte. Ltd.]], [[JapanFG/payoneer-japan|Payoneer Japan]], [[JapanFG/western-union-japan|Western Union Japan]], [[JapanFG/sbi-remit|SBI Remit]], [[JapanFG/travelex-japan|Travelex Japan]], [[JapanFG/airwallex-japan|Airwallex Japan]] |
 | [x] | Stablecoin / EPI adjacency E3 | [[JapanFG/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade EPSP / USDC cross-link]], [[JapanFG/progmat|Progmat]] / [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]] link map |
 
-## Batch F：加密与数字资产清理
+## ?? F??????????
 
-The exchange namespace is strong, but the current FSA list has at least two direct missing operators.
+??????????????? FSA ??????????????????
 
 | Status | Target page | Institution | Note |
 |---|---|---|---|
@@ -166,9 +166,9 @@ The exchange namespace is strong, but the current FSA list has at least two dire
 | [x] | `exchanges/INDEX.md` | Registered-operator completeness table | Mark all 27 FSA operators and JVCEA membership class. |
 | [x] | `exchanges/jp-exchange-sbi-vc-trade.md` | SBI VC Trade | Add EPSP / USDC electronic payment instrument cross-link. |
 
-## Batch G：外国银行分行与全球金融机构
+## ?? G??????????????
 
-Current wiki already covers several major US / European banks. The FSA list contains 57 foreign bank branches, so use a tiered approach.
+?? wiki ???????????????FSA ???? 57 ??????????????????
 
 | 状态 | 优先级 | 机构 | 备注 |
 |---|---|---|---|
@@ -228,7 +228,7 @@ This table is a source-control checkpoint, not a final coverage claim. `Machine 
 | 地方银行 | 2026-01-01 | 61 | 61 | First-regional bank license surface closed at standalone / intentional existing-anchor level after B2.1 Hokuriku / Hokkaido, B2.2 Tohoku / Fidea, B2.3 Kanto, B2.4 Chubu, B2.5 Kansai / Chugoku, B2.6 Shikoku, and B2.7 Kyushu / Okinawa. | Maintain boundary links; no new first-regional standalone gap unless FSA list changes. |
 | 第二地方银行 | 2026-05-02 | 34 | 34 | Second-regional bank license surface closed at standalone / intentional existing-anchor level after B2.2 North Japan / Sendai / Kirayaka / Fukushima / Daito, B2.3 East Japan / Tokyo Star / Kanagawa / Tochigi / Taiko, B2.4 Shizuoka Chuo / Aichi / Nagoya, B2.5 Momiji / Tomato, B2.6 Tokushima Taisho / Kagawa / Ehime / Kochi, and B2.8 second-regional long tail. The same FSA sheet also has an `Other` row for [[JapanFG/saitama-resona-bank|埼玉りそな銀行]], already covered in B1. | Maintain boundary links; no new second-regional standalone gap unless FSA list changes. |
 | 银行控股公司 | 2026-05-01 | 31 | 31 | Current-name route completed with [[JapanFG/cci-group]]; [[JapanFG/hokkoku-fhd]] remains the historical / old-name bridge, and Kyushu parent boundary is already covered by existing [[JapanFG/kyushu-fg]] route. | Maintain current-name redirects and refresh when FSA bank-holding-company list changes. |
-| Shinkin banks + Shinkin Central Bank | 2025-11-06 | 255 | 255 | Registry/index route completed via [[banking/shinkin-bank-registry-japan]]; do not create 254 standalone pages by default. | Refresh registry index when FSA workbook changes; standalone pages only for strategically material exceptions. |
+| 信用金库 + 信金中央金库 | 2025-11-06 | 255 | 255 | 已通过 [[banking/shinkin-bank-registry-japan]] 完成登记 / 索引路线；默认不为 254 家单体机构创建独立页面。 | FSA 工作簿变化时刷新登记索引；仅为具有战略重要性的例外机构创建独立页面。 |
 | Credit cooperatives + Zenshinkumiren | 2026-02-20 | 144 | 144 | Registry/index route completed via [[banking/credit-cooperative-registry-japan]]; do not create 143 standalone pages by default. | Refresh registry index when FSA workbook changes; standalone pages only for central / strategically material exceptions. |
 | Rokin banks + Rokinren | 2023-08-14 | 14 | 14 | Registry/index route completed via [[banking/rokin-bank-registry-japan]]. | Refresh registry index when FSA workbook changes; standalone pages only if a labor-bank entity needs deeper analysis. |
 | 金融商品交易业者 | 2026-04-30 | 1,945 | 1,945 | Registry route completed via [[securities/financial-instruments-business-operators-japan-index]]; material brokers, AMs, PTS, FX, and listed/publicly material operators have route anchors; license / brokerage / best-execution / PTS liquidity data / margin trading / securities finance / short-selling / stock-loan / stock-lending / prime brokerage / underwriting / infrastructure control pages are now linked. | Refresh when FSA `kinyushohin.xlsx` changes; standalone pages only for strategic exceptions. |

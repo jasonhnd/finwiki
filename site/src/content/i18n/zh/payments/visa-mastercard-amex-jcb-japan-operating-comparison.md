@@ -17,11 +17,11 @@ translated_at: 2026-06-01T03:31:12.272Z
 
 在日本运营的四个国际品牌：**Visa、Mastercard、American Express、JCB**，常被视作可互换的“信用卡品牌”，但它们处在**结构上不同的运营位置**。Visa 和 Mastercard 运行**四方方案**，发行人与收单机构分离且各自持牌，主要通过 [[JapanFG/mufg-nicos|MUFG NICOS]]、[[JapanFG/smbc-card|SMBC Card]]、[[JapanFG/credit-saison|Credit Saison]]、[[JapanFG/rakuten-card|Rakuten Card]]、[[JapanFG/aeon-financial-service|AEON Financial Service]]、[[JapanFG/jaccs|JACCS]]、[[JapanFG/orico|Orico]] 及其他持牌机构在日本分发。American Express 运行以自身日本实体为中心的**三方闭环方案**，并以 **Credit Saison 通过 Saison-AMEX Persona partnership** 作为主要外部发行伙伴。JCB 运行**带混合发行人许可层的三方品牌模型**，将 JCB Co Ltd 的品牌 / 收单 / 发行角色与日本约 30  家伙伴发行公司结合。四个品牌也在法律实体、日本商户受理份额（JCB 和 Visa 领先；AMEX 落后）、银行 JV 结构（V/MC 为 MUFG NICOS；AMEX 为 AMEX-Saison Persona），以及各自策略分化的 **2025-2026  agent-payment / push-to-card overlays**（Visa Direct、Mastercard Send、JCB-Pay overlays）上有所不同。本矩阵把四个品牌按真正决定费用经济性、商户选择、发行人关系和日本竞争位置的运营维度并列展示。
 
-## Why this comparison matters
+## 为什么这项比较重要
 
 四品牌分析常被三类说法搅混。第一，“它们都只是卡品牌”：这会抹平四方 vs 三方差异（见 [[payments/jcb-three-party-operating-model|JCB three-party operating model]]），并隐藏推动商户费用经济性的有交换费 vs 无交换费分歧。第二，“JCB 只在国内重要”：JCB International 的全球收单伙伴关系（Discover Global Network、CTBC、KB Kookmin 等）以及 JCB 在韩国 / 台湾 / 东南亚入境游客受理中的角色，使 JCB 的全球相关性高于表面受理版图。第三，“AMEX 只是高端”：**Credit Saison Persona JV** 发行线意味着 AMEX 的日本发行人版图显著大于其闭环声誉所暗示的范围。本矩阵直接呈现这三点。
 
-## Big four-brand comparison matrix
+## 四大品牌比较矩阵
 
 | Dimension | Visa | Mastercard | American Express | JCB |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ translated_at: 2026-06-01T03:31:12.272Z
 | **方案类型** | 四方（开放） | 四方（开放） | 三方（闭环核心）+ 伙伴发行人层 | 三方（混合），拥有广泛伙伴发行人生态 |
 | **在日本的品牌角色** | 纯品牌 / 网络运营商；不直接发行或收单 | 纯品牌 / 网络运营商；不直接发行或收单 | 品牌 + 主要发行人 + 主要收单机构（闭环） | 品牌 + 主要发行人 + 主要收单机构 + 向约 30  家伙伴授予发行人许可 |
 | **日本主要发行人** | [[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/smbc-card\|SMBC Card]]、[[JapanFG/rakuten-card\|Rakuten Card]]、[[JapanFG/credit-saison\|Credit Saison]]、[[JapanFG/aeon-financial-service\|AEON Financial Service]]、[[JapanFG/jaccs\|JACCS]]、[[JapanFG/orico\|Orico]]、[[JapanFG/epos-card\|Epos Card]]、[[JapanFG/paypay-card\|PayPay Card]]、View Card（JR East） | 与 Visa 相同的日本多发行人版图：[[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/smbc-card\|SMBC Card]]、[[JapanFG/rakuten-card\|Rakuten Card]]、[[JapanFG/credit-saison\|Credit Saison]]、[[JapanFG/aeon-financial-service\|AEON Financial Service]]、[[JapanFG/jaccs\|JACCS]]、[[JapanFG/orico\|Orico]] | AMEX direct（高端自有产品线）；通过 Persona JV 的 [[JapanFG/credit-saison\|Credit Saison]]；选择性联名中的 [[JapanFG/mufg-nicos\|MUFG]] | JCB Co Ltd 直接发行；[[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/aeon-financial-service\|AEON Financial Service]]、[[JapanFG/rakuten-card\|Rakuten Card]]、[[JapanFG/credit-saison\|Credit Saison]]、[[JapanFG/jaccs\|JACCS]]、[[JapanFG/orico\|Orico]]、JR（View）、Lifecard 及约 25  家其他发行人 |
-| **日本主要收单机构** | [[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/smbc-card\|SMBC Card]]、[[JapanFG/jcb\|JCB Co]]（交叉持牌收单机构）、[[JapanFG/credit-saison\|Credit Saison]] 线，以及通过 [[JapanFG/gmo-payment-gateway\|GMO-PG]] / [[JapanFG/sb-payment-service\|SBPS]] / [[JapanFG/dg-financial-technology\|DGFT]] 的 PSP 路由收单 | 同一集合：[[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/smbc-card\|SMBC Card]]、[[JapanFG/jcb\|JCB Co]]、[[JapanFG/credit-saison\|Credit Saison]]，并通过主要 PSP 路由 | AMEX 直接商户收单（闭环核心）；部分为低端商户覆盖度而设的收单伙伴关系 | JCB Co Ltd 直接（主要收单）；[[JapanFG/mufg-nicos\|MUFG NICOS]] 作为 蜈ｱ蜷悟刈逶溷ｺ・ 合作收单机构；通过 PSP 进行伙伴路由 |
+| **日本主要收单机构** | [[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/smbc-card\|SMBC Card]]、[[JapanFG/jcb\|JCB Co]]（交叉持牌收单机构）、[[JapanFG/credit-saison\|Credit Saison]] 线，以及通过 [[JapanFG/gmo-payment-gateway\|GMO-PG]] / [[JapanFG/sb-payment-service\|SBPS]] / [[JapanFG/dg-financial-technology\|DGFT]] 的 PSP 路由收单 | 同一集合：[[JapanFG/mufg-nicos\|MUFG NICOS]]、[[JapanFG/smbc-card\|SMBC Card]]、[[JapanFG/jcb\|JCB Co]]、[[JapanFG/credit-saison\|Credit Saison]]，并通过主要 PSP 路由 | AMEX 直接商户收单（闭环核心）；部分为低端商户覆盖度而设的收单伙伴关系 | JCB Co Ltd 直接（主要收单）；[[JapanFG/mufg-nicos\|MUFG NICOS]] 作为共同加盟店合作收单机构；通过 PSP 进行伙伴路由 |
 | **受理份额（CPC / Visa-MC 数据，指示性）** | n.d.（CPC / METI 不公布按品牌受理份额）；定性上为日本最大国际品牌受理 | 第二大国际品牌受理；商户地点版图接近 Visa | 历史上相较 V/MC/JCB 受理更窄；AMEX-JCB 交叉受理 + Saison Persona 扩张后更广 | 高端品牌中日本国内受理最强；大型商户近乎通用；在微型商户弱于 V/MC |
 | **交换费 / 方案费结构** | 品牌设定并公布的交换费率（日本标准，自 2023  路线图以来披露）；明确的收单方案费 | 与 Visa 相同结构；自 2023  路线图以来公布日本标准交换费；明确的收单方案费 | AMEX 双边设定闭环商户折扣率（闭环核心中发行人 = 收单人，故无单独发行人交换费拆分）；伙伴发行卡（Saison 等）有内部分配 | JCB Co Ltd 直接商户：无交换费拆分（发行人 = 收单人）；伙伴发行卡：JCB 收单方与伙伴发行方之间的交换费于 2023-06  披露（日本主要品牌中首家） |
 | **银行 JV 结构（日本）** | [[JapanFG/mufg-nicos\|MUFG NICOS]]（MUFG 锚定，V/MC 双品牌）；SMBC GMO PAYMENT 与 [[JapanFG/smbc-card\|SMBC Card]] 的收单 JV | [[JapanFG/mufg-nicos\|MUFG NICOS]]（与 Visa 双品牌）；SMBC GMO PAYMENT 与 [[JapanFG/smbc-card\|SMBC Card]] 的 JV | **AMEX-Saison Persona partnership**（[[JapanFG/credit-saison\|Credit Saison]] 发行人 JV，可追溯至 2000）；[[JapanFG/mufg-nicos\|MUFG]] 联名卡 | 股东结构跨银行 FG（MUFG、SMFG、Mizuho）；JCB Co Ltd 本身兼具品牌 - 银行 - 发行人混合功能；与大多数主要卡公司有伙伴发行人 JV |
@@ -74,7 +74,7 @@ JCB 的日本独特定位是：**唯一的日本国内国际品牌**、高端国
 
 大多数日本主要卡发行人发行不止一个品牌。交叉所有 / 发行模式对于理解为什么日本发行人竞争是**品牌重叠而非品牌分割**具有结构性重要性：
 
-| Issuer | Issues Visa? | Issues Mastercard? | Issues AMEX? | Issues JCB? | Notes |
+| 发行人 | 是否发行 Visa | 是否发行 Mastercard | 是否发行 AMEX | 是否发行 JCB | 备注 |
 |---|---|---|---|---|---|
 | [[JapanFG/mufg-nicos\|MUFG NICOS]] | Yes (anchor) | Yes (anchor) | Yes (cobrand select) | Yes (anchor partner) | 双 / 三品牌卡常见 |
 | [[JapanFG/smbc-card\|SMBC Card]] | Yes (anchor) | Yes (anchor) | Yes (cobrand select) | Yes (select) | 三品牌 SMBC Olive 卡 |
@@ -83,15 +83,15 @@ JCB 的日本独特定位是：**唯一的日本国内国际品牌**、高端国
 | [[JapanFG/aeon-financial-service\|AEON Financial Service]] | Yes | Yes | Yes (select) | Yes (anchor partner) | AEON CARD Select 多品牌 |
 | [[JapanFG/jaccs\|JACCS]] | Yes | Yes | Yes (select) | Yes | 多品牌联名 |
 | [[JapanFG/orico\|Orico]] | Yes | Yes | Yes (select) | Yes | 多品牌联名 |
-| [[JapanFG/epos-card\|Epos Card]] | Yes (anchor) | 窶・| 窶・| 窶・| Visa 单品牌联名 |
-| [[JapanFG/paypay-card\|PayPay Card]] | Yes (anchor) | Yes | 窶・| Yes | PayPay 锚定发行人 |
-| View Card (JR East) | Yes | Yes | 窶・| Yes (VIEW JCB) | JR 渠道卡 |
+| [[JapanFG/epos-card\|Epos Card]] | Yes (anchor) | 无| 无| 无| Visa 单品牌联名 |
+| [[JapanFG/paypay-card\|PayPay Card]] | Yes (anchor) | Yes | 无| Yes | PayPay 锚定发行人 |
+| View Card (JR East) | Yes | Yes | 无| Yes (VIEW JCB) | JR 渠道卡 |
 
 模式是：**在消费者发行层，品牌选择通常是产品线决策，而不是发行人之间的竞争选择**。消费者在 MUFG-NICOS 卡之间选择 Visa、Mastercard 或 JCB，是在同一发行人的品牌变体之间选择，而不是在不同发行人之间选择。
 
 ## Acceptance share at Japan merchants（indicative）
 
-公开的无现金推进协会和 METI 数据并不持续以本节理想所需精度拆分按品牌受理份额。由于没有权威按品牌份额数字发布，下表中的份额特征列标为 `n.d.`（繝・・繧ｿ譛ｪ蜈ｬ髢・）；仅保留定性的受理广度观察。
+公开的无现金推进协会和 METI 数据并不持续以本节理想所需精度拆分按品牌受理份额。由于没有权威按品牌份额数字发布，下表中的份额特征列标为 `n.d.`（未披露数据）；仅保留定性的受理广度观察。
 
 | Brand | Acceptance breadth (Japan merchants) | Indicative share characterization | Notes |
 |---|---|---|---|
@@ -102,11 +102,11 @@ JCB 的日本独特定位是：**唯一的日本国内国际品牌**、高端国
 
 可核验数据源：METI 2025  无现金数据发布（https://www.meti.go.jp/press/2025/03/20260331006/20260331006.html）、Cashless Promotion Council 码支付调查（https://paymentsjapan.or.jp/category/publications/）以及 Japan Credit Association（https://www.j-credit.or.jp/）行业统计。
 
-## QR / code-payment overlay strategy comparison
+## QR / 码支付叠加战略比较
 
 在日本与卡支付并行出现的 QR / 码支付赛道中（见 [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]），四个品牌在是否以及如何参与上显著分化：
 
-| Brand | Push-to-card / instant-payment product | Code-payment direct product | Wallet-issued card economics |
+| 品牌 | Push-to-card / 即时支付产品 | 直接码支付产品 | 钱包发卡经济性 |
 |---|---|---|---|
 | Visa | **Visa Direct**（push-to-card；个人对个人、企业对消费者、跨境） | 无直接产品；PayPay / Rakuten / 蜷・wallets 将 Visa 卡作为资金来源使用 | 通用：大多数日本钱包接受 Visa 卡充值 |
 | Mastercard | **Mastercard Send**（功能上平行 Visa Direct） | 无直接产品；日本钱包将 Mastercard 卡作为资金来源使用 | 通用：大多数日本钱包接受 Mastercard 卡充值 |
@@ -115,11 +115,11 @@ JCB 的日本独特定位是：**唯一的日本国内国际品牌**、高端国
 
 结构性模式是：**Visa Direct 和 Mastercard Send 是两条主要全球 push-to-card 轨道**，日本钱包和汇款产品越来越多地在其上路由。AMEX Send 功能类似但日本版图较窄。JCB 尚未建立同等规模的直接竞争性 push-to-card 产品，反映 JCB 的日本国内重点。
 
-## Agent-payment overlay roadmap comparison
+## Agent 支付叠加路线图比较
 
 2025-2026  出现的 AI-agent-initiated commerce（支付侧见 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]）创造了四个品牌之间的平行竞赛：将自身代币化 / 认证 / 授权基础设施定位为 agentic payments 的标准轨道。
 
-| Brand | Agentic-pay product / framework | Tokenization layer | Authentication adaptation |
+| 品牌 | Agentic 支付产品 / 框架 | 代币化层 | 认证适配 |
 |---|---|---|---|
 | Visa | **Visa Intelligent Commerce** / **Visa Agentic Commerce** | Visa Token Service（网络 token、一次性 token） | Visa Secure（3-DS 2.x）扩展 delegated-authentication 用于 agent flows |
 | Mastercard | **Mastercard Agent Pay** / **Mastercard Agentic Tokens** | Mastercard Digital Enablement Service（MDES） | Mastercard Identity Check（3-DS 2.x）扩展 delegated-authentication 用于 agent flows |
@@ -128,11 +128,11 @@ JCB 的日本独特定位是：**唯一的日本国内国际品牌**、高端国
 
 Visa 和 Mastercard 拥有最先进的 agentic-pay 基础设施公开披露；AMEX 和 JCB 仍处于较早的路线图披露阶段。日本国内 agentic-commerce 市场究竟会收敛到 Visa / Mastercard 全球轨道，还是通过钱包 - PSP 层发展日本特定 overlay，仍是开放问题，见 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]。
 
-## Bank-JV and partnership structure comparison
+## 银行 JV 与伙伴关系结构比较
 
 四个品牌与日本银行和银行 FG 的关系在结构上不同：
 
-| Brand | Bank-FG anchor relationships | JV / partnership structure | Distribution channel |
+| 品牌 | 银行 / FG 锚定关系 | JV / 合作结构 | 分销渠道 |
 |---|---|---|---|
 | Visa | MUFG（通过 [[JapanFG/mufg-nicos\|MUFG NICOS]]）、SMFG（通过 [[JapanFG/smbc-card\|SMBC Card]] + SMBC GMO PAYMENT JV） | 许可关系；无股权 JV | 银行 FG 卡线 + 多品牌联名卡 |
 | Mastercard | 与 Visa 相同的银行 FG 锚点 | 许可关系；无股权 JV | 银行 FG 卡线 + 多品牌联名卡 |
@@ -141,11 +141,11 @@ Visa 和 Mastercard 拥有最先进的 agentic-pay 基础设施公开披露；AM
 
 **AMEX-Saison Persona** 伙伴关系和 **JCB 的股东结构** 是两个最具结构特色的银行关系安排。AMEX 依赖 Saison 通过 Persona 实现日本广泛发行，实际上把 AMEX 从纯闭环转为混合方案；JCB 的银行 FG 持股使其与日本银行业形成结构性一致，这是国际品牌无法复制的。
 
-## Fee disclosure and JFTC pressure landing
+## 费用披露与 JFTC 压力落点
 
 2022-04-08 JFTC 信用卡商户费报告，以及 2023-06-01 METI / JFTC 关于 JCB 费用披露的联合发布，代表了日本卡品牌运营经济性上显著且持续的监管压力：
 
-| Brand | Fee disclosure status (Japan, 2026-05) | JFTC engagement |
+| 品牌 | 费用披露状态（日本，2026-05） | JFTC 参与情况 |
 |---|---|---|
 | Visa | 日本标准交换费于 2023-08  公布（Payments Japan 路线图）；未披露按收单机构拆分 | 许可关系限制集中披露 |
 | Mastercard | 日本标准交换费于 2023-08  公布（Payments Japan 路线图）；未披露按收单机构拆分 | 许可关系限制集中披露 |
@@ -154,7 +154,7 @@ Visa 和 Mastercard 拥有最先进的 agentic-pay 基础设施公开披露；AM
 
 JCB 在费用披露上的先行地位反映三方模型：JCB Co Ltd 控制费用拆分两端，能够单方面披露，而 Visa 和 Mastercard 必须跨多个持牌收单机构协调（结构说明见 [[payments/jcb-three-party-operating-model|JCB three-party operating model]]）。
 
-## Cross-references with other matrices
+## 与其他矩阵的交叉引用
 
 - vs **[[payments/jcb-three-party-operating-model|JCB three-party operating model]]**：该条目深潜 JCB 的三方架构；本矩阵把 JCB 放入跨品牌语境。
 - vs **[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]**：该条目建立角色分离框架；本矩阵点名各品牌以及各品牌如何组合或分离角色。

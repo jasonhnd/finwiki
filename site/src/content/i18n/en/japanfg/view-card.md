@@ -11,18 +11,18 @@ translated_at: 2026-06-01T02:31:57.180Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jal-card|株式会社JALカード]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/jal-card|Co., Ltd.JALCard]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
 
 ## TL;DR
 
-Viewcard Co., Ltd. is **a wholly owned JR East subsidiary that issues and operates credit cards under the "Viewcard" brand**. It was established in 2009年10月 through the spin-out of JR East's credit-card business division, is headquartered in Osaki, Shinagawa-ku, Tokyo, has capital of 50 億円, and has 590 名 employees as of 2024-04 . As the main issuer of **Suica-integrated cards**, it is a core part of JR East group's cashless and mobility economy. Its **bank agency registration** distinguishes it from other card companies and gives it a broad financial function surface including Suica charging and card-loan intermediation. Competitors include [[JapanFG/jal-card|JAL カード]], ANA Card (airline-affiliated), and [[JapanFG/credit-saison|セゾン]] / [[JapanFG/epos-card|エポス]] (retail-affiliated).
+Viewcard Co., Ltd. is **a wholly owned JR East subsidiary that issues and operates credit cards under the "Viewcard" brand**. It was established in 2009年10月 through the spin-out of JR East's credit-card business division, is headquartered in Osaki, Shinagawa-ku, Tokyo, has capital of 50 hundred million yen, and has 590 名 employees as of 2024-04 . As the main issuer of **Suica-integrated cards**, it is a core part of JR East group's cashless and mobility economy. Its **bank agency registration** distinguishes it from other card companies and gives it a broad financial function surface including Suica charging and card-loan intermediation. Competitors include [[JapanFG/jal-card|JAL Card]], ANA Card (airline-affiliated), and [[JapanFG/credit-saison|Saison]] / [[JapanFG/epos-card|EPOS]] (retail-affiliated).
 
 ## 1. Legal entity / shareholders
 
 - **Trade name**: Viewcard Co., Ltd.
 - **Established**: 2009年10月1日, through the spin-out of East Japan Railway Company's credit-card business division
-- **Head office**: Osaki New City 1号 Building, 1-5-1  Osaki, Shinagawa-ku, Tokyo 141-8540 
-- **Capital**: 50 億円
+- **Head office**: Osaki New City 1号 Building, 1-5-1  Osaki, Shinagawa-ku, Tokyo 141-8540
+- **Capital**: 50 hundred million yen
 - **Corporate number**: 2010701023263
 - **Parent company**: East Japan Railway Company (JR East, TSE PRIME 9020), wholly owned subsidiary with 100% ownership
 - **Representative**: President and Representative Director
@@ -33,9 +33,9 @@ Viewcard Co., Ltd. is **a wholly owned JR East subsidiary that issues and operat
 - **Installment Sales Act**: registered with METI as a comprehensive credit purchase intermediary
 - **Credit-card-number handling contract acquirer**: METI registration
 - **Bank agent**: handles bank-agency business related to JR East group, a distinctive license not held by many other card companies
-- **Industry association**: member of [[JapanFG/jcb|日本クレジット協会]] (JCA)
+- **Industry association**: member of [[JapanFG/jcb|日本credit協会]] (JCA)
 - **International brand partnerships**: JCB, VISA, Mastercard
-- **Issuance cooperation**: in addition to its own issuance, coordinates card functions in the [[JapanFG/jr-east-financial|JR東日本ファイナンシャル]] lineage
+- **Issuance cooperation**: in addition to its own issuance, coordinates card functions in the [[JapanFG/jr-east-financial|JR East Financial]] lineage
 
 ## 3. Product line
 
@@ -43,16 +43,16 @@ Viewcard Co., Ltd. is **a wholly owned JR East subsidiary that issues and operat
 - **View Card**: basic standard card
 - **Bic Camera Suica Card**: Bic Camera co-branded card
 - **JRE CARD / JRE CARD Gold**: enhanced JRE POINT rewards
-- **JAL Card Suica**: co-issued with [[JapanFG/jal-card|JAL カード]], integrating air and rail miles
+- **JAL Card Suica**: co-issued with [[JapanFG/jal-card|JAL Card]], integrating air and rail miles
 - **Otona no Kyujitsu Club Zipangu**: JR discount card for seniors
 - **View Gold Plus Card**: gold-class card
 - **Viewcard Premium**: upper-tier product
 
 ## 4. Main KPIs (public basis)
 
-- **Members**: more than about 600 万 people, based on JR East group integrated reports
+- **Members**: more than about 6 million people, based on JR East group integrated reports
 - **Suica charging transaction volume**: main channel through auto-charge and JRE POINT rewards
-- **JRE POINT economy members**: more than 1,900 万 people across JR East overall, integrating Suica + Viewcard IDs
+- **JRE POINT economy members**: more than 19 million people across JR East overall, integrating Suica + Viewcard IDs
 - **Transaction volume**: not separately disclosed; integrated into parent JR East's "IT / Suica business" segment
 
 ## 5. Industry position
@@ -60,7 +60,7 @@ Viewcard Co., Ltd. is **a wholly owned JR East subsidiary that issues and operat
 - As a **railway-affinity card**, it is a core transportation-card economy alongside **ICOCA (JR West), PASMO-affiliated cards (private railway operators), and TOICA (JR Central)**.
 - It has a unique position as the **sole dedicated credit-card issuer for JR East's Suica + JRE POINT ecosystem**.
 - It is an important payment hub in **JR East's MaaS (mobility-as-a-service) strategy**.
-- Competitors include [[JapanFG/jal-card|JAL カード]] (airline), [[JapanFG/credit-saison|セゾン]] / [[JapanFG/epos-card|エポス]] / [[JapanFG/seven-card-service|セブンカード]] (retail), and [[JapanFG/aeon-financial-service|イオン]] (retail-affiliated).
+- Competitors include [[JapanFG/jal-card|JAL Card]] (airline), [[JapanFG/credit-saison|Saison]] / [[JapanFG/epos-card|EPOS]] / [[JapanFG/seven-card-service|SevenCard]] (retail), and [[JapanFG/aeon-financial-service|AEON]] (retail-affiliated).
 - Its importance as a payment platform is expanding with the spread and growth of **Mobile Suica**.
 
 ## 6. History
@@ -81,7 +81,7 @@ Viewcard Co., Ltd. is **a wholly owned JR East subsidiary that issues and operat
 
 - **Parent company**: [[JapanFG/jr-east-financial|JR East Financial]] / East Japan Railway Company
 - **International brands**: JCB, VISA, Mastercard
-- **Co-issued cards**: [[JapanFG/jal-card|JAL カード Suica]]
+- **Co-issued cards**: [[JapanFG/jal-card|JAL Card Suica]]
 - **Merchant partners**: Bic Camera (Bic Camera Suica Card), JR East station-retail network such as NewDays and ecute
 - **Suica charging / Mobile Suica**: linked to JR East's system infrastructure
 
@@ -94,13 +94,13 @@ The JR East parent [[JapanFG/jr-east-financial|JR East Financial]] page needs a 
 - [[JapanFG/jr-east-financial|JR East Financial]] -- parent company / group financial parent
 - [[JapanFG/jal-card|JAL Card]] -- co-issued JAL Card Suica
 - [[JapanFG/credit-saison|Credit Saison]] -- retail-affiliated comparison
-- [[JapanFG/epos-card|エポスカード]] -- retail-affiliated comparison
-- [[JapanFG/seven-card-service|セブン・カードサービス]] -- retail-affiliated comparison
-- [[JapanFG/aeon-financial-service|イオンフィナンシャルサービス]] -- retail-affiliated comparison
+- [[JapanFG/epos-card|EPOSCard]] -- retail-affiliated comparison
+- [[JapanFG/seven-card-service|Seven Card Service]] -- retail-affiliated comparison
+- [[JapanFG/aeon-financial-service|AEONFinancialService]] -- retail-affiliated comparison
 - [[JapanFG/jcb|JCB]] -- international brand partner
-- [[JapanFG/smbc-card|三井住友カード]] -- competitor / VISA and Mastercard partner card company
-- [[payments/credit-purchase-card-operators-japan-index|JP 信用購入あっせん業者 index]]
-- [[payments/cashless-jp-landscape|JP キャッシュレス景観]]
+- [[JapanFG/smbc-card|三井住友Card]] -- competitor / VISA and Mastercard partner card company
+- [[payments/credit-purchase-card-operators-japan-index|Japan credit-purchase intermediary index]]
+- [[payments/cashless-jp-landscape|JP cashless景観]]
 
 ## Sources
 
@@ -112,4 +112,4 @@ The JR East parent [[JapanFG/jr-east-financial|JR East Financial]] page needs a 
 ---
 
 > [!info] Verification status
-> confidence: **likely** based on public company profile and JR East integrated report. Capital 50 億円 and employee count 590 名 are official as of 2024-04-01. Precise transaction-volume and member-count values are integrated into parent-company disclosure.
+> confidence: **likely** based on public company profile and JR East integrated report. Capital 50 hundred million yen and employee count 590 名 are official as of 2024-04-01. Precise transaction-volume and member-count values are integrated into parent-company disclosure.

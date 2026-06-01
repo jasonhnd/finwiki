@@ -12,24 +12,24 @@ translated_at: 2026-05-30T16:40:11.492Z
 
 ## TL;DR
 
-- 2026 年中盘,agent 经济的支付协议格局已从「7协议混战」([[agent-economy/ai-agent-payment-protocols-overview|seven-protocol overview]])收敛为 4 条主轴 — **AP2**(Google + FIDO/AAIF 联盟)·**x402**(Coinbase + Cloudflare + AWS edge)·**Skyfire**(闭环 card-network issuer + Visa Trusted Agent)·**Nevermined**(compute / inference marketplace)
-- 4 协议在 **transport / settlement asset / authorization / mainnet adoption / merchant target / regulatory model** 的 6 轴上差异化,不存在 winner-takes-all 的命题 — 各自解决不同层的课题(transport vs identity vs issuance vs metering)
-- **辅助层**:**ERC-7715** 在 wallet 侧提供 `wallet_grantPermissions` scope 语义,**Lit Protocol PKP** 提供基于 threshold-cryptography 的 key custody。两者并非独立 rail,而是横向 plug-in
+- 2026 年中，agent 经济的支付协议格局已从“7 协议混战”([[agent-economy/ai-agent-payment-protocols-overview|seven-protocol overview]])收敛为 4 条主轴：**AP2**（Google + FIDO / AAIF 联盟）、**x402**（Coinbase + Cloudflare + AWS edge）、**Skyfire**（闭环 card-network issuer + Visa Trusted Agent）、**Nevermined**（compute / inference marketplace）。
+- 4 个协议在 **传输层 / 结算资产 / 授权模型 / mainnet 采用 / 商户对象 / 监管模型** 六个轴上分化，不存在 winner-takes-all 命题；各自解决不同层的问题，即 transport vs identity vs issuance vs metering。
+- **辅助层**：**ERC-7715** 在 wallet 侧提供 `wallet_grantPermissions` scope 语义，**Lit Protocol PKP** 提供基于 threshold cryptography 的 key custody。两者并非独立 rail，而是横向 plug-in。
 - 2026 mainnet 的实需图景:**x402 月 single-digit billion req**(Cloudflare + AWS facilitator GA)·**AP2 ~4 production pilots**(60+ consortium 但 production 稀疏)·**Skyfire Series A 后 ~$X00M annualized**(visa + card-network 闭环)·**Nevermined niche compute marketplace**
-- 路线:[[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]](production readiness)·[[agent-economy/ai-agent-payment-protocols-commoditization|プロトコル commoditization と価値の上方移動]](long-term thesis)·本矩阵专注于 four-way feature comparison
+- 路线：[[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]]（production readiness）· [[agent-economy/ai-agent-payment-protocols-commoditization|协议商品化与价值上移]]（long-term thesis）· 本矩阵专注于四方功能比较。
 
-## Wiki route
+## Wiki 路径
 
-This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it against [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]] for the broader seven-protocol landscape, [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]] for production-readiness deltas, and [[agent-economy/ai-agent-payment-protocols-commoditization|commoditization thesis]] for the value-capture trajectory. For protocol-specific deep dives see [[agent-economy/x402-http-payment-overview|x402 overview]] · [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge integration]] · [[agent-economy/ap2-overview|AP2 overview]] · [[agent-economy/ap2-adoption|AP2 adoption]] · [[agent-economy/ap2-technical-spec|AP2 technical spec]] · [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire closed-loop issuer]] · [[agent-economy/nevermined-compute-payment-protocol|Nevermined compute payment protocol]] · [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]] · [[agent-economy/erc-7715-overview|ERC-7715 overview]] · [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]]. For wallet substrate see [[systems/erc-4337-overview|ERC-4337 overview]] · [[systems/erc-7702-overview|ERC-7702 overview]] · [[agent-economy/erc-4337-account-abstraction-primer-for-agents|ERC-4337 primer for agents]]. For regulatory framing see [[agent-economy/visa-mastercard-agentic-commerce-pilots|Visa / Mastercard agentic pilots]] and [[agent-economy/agent-legal-tax-liability-framework|agent legal-tax liability framework]].
+本条目位于 [[agent-economy/INDEX|agent-economy index]]。可与 [[agent-economy/ai-agent-payment-protocols-overview|AI agent 支付协议全景 · 7 协议概览]] 对照，理解更大的七协议格局；用 [[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption 2026]] 比较生产就绪度差异；用 [[agent-economy/ai-agent-payment-protocols-commoditization|协议商品化 thesis]] 阅读价值捕获轨迹。协议深挖可参见 [[agent-economy/x402-http-payment-overview|x402 概览]] · [[agent-economy/x402-cloudflare-aws-edge-integration|x402 edge 集成]] · [[agent-economy/ap2-overview|AP2 概览]] · [[agent-economy/ap2-adoption|AP2 采用]] · [[agent-economy/ap2-technical-spec|AP2 技术规格]] · [[agent-economy/skyfire-closed-loop-agent-issuer|Skyfire 闭环发行方]] · [[agent-economy/nevermined-compute-payment-protocol|Nevermined compute payment protocol]] · [[agent-economy/lit-protocol-pkp-agent-keys|Lit Protocol PKP agent keys]] · [[agent-economy/erc-7715-overview|ERC-7715 概览]] · [[agent-economy/erc-7715-agent-payment-stack|ERC-7715 agent payment stack]]。
 
 ## 为何这个矩阵重要
 
 在 2026 选一条 agent 支付 rail 不是「挑最好的协议」— 而是「正确地组合这块层叠蛋糕,使商家接受、wallet 授权、监管不拦截」。四个协议各自回答一个不同的问题:
 
-- **x402** 回答「一个 HTTP 请求如何在 API edge 携带支付元数据?」
-- **AP2** 回答「商家如何用可验证凭证核实 agent 确实拥有用户授权?」
-- **Skyfire** 回答「我们如何给 agent 一个真正可注资的 card-network 身份,使没有 crypto 集成的现有商家仍能收款?」
-- **Nevermined** 回答「compute / inference 提供方如何按调用计量用量并以 stablecoin 结算,而无需逐客户账户?」
+- **x402** 回答“一个 HTTP 请求如何在 API edge 携带支付元数据？”
+- **AP2** 回答“商家如何用可验证凭证核实 agent 确实拥有用户授权？”
+- **Skyfire** 回答“如何给 agent 一个真正可注资的 card-network 身份，使没有 crypto 集成的现有商家仍能收款？”
+- **Nevermined** 回答“compute / inference 提供方如何按调用计量用量并以 stablecoin 结算，而无需逐客户开账户？”
 
 加上 **ERC-7715**(wallet permission scope)和 **Lit PKP**(threshold key custody)作为横向构件,一个生产级 agent 支付堆栈会挑选其中 2-4 来组合。本矩阵揭示这六轴比较,使团队选择最小可行堆栈而非过度工程。
 
@@ -113,11 +113,11 @@ This entry sits under [[agent-economy/INDEX|agent-economy index]]. Read it again
 
 **四个主要协议 + 两个补充层的六轴比较**(2026-Q2 状态):
 
-| 观点 | **AP2 (Google → AAIF)** | **x402 (Coinbase / CF / AWS)** | **Skyfire (Visa closed-loop)** | **Nevermined (compute mp)** | **ERC-7715 (补充)** | **Lit PKP (补充)** |
+| 维度 | **AP2 (Google → AAIF)** | **x402 (Coinbase / CF / AWS)** | **Skyfire (Visa closed-loop)** | **Nevermined (compute marketplace)** | **ERC-7715 (补充)** | **Lit PKP (补充)** |
 |---|---|---|---|---|---|---|
-| **Transport** | HTTPS + W3C Verifiable Credential mandate 链 | HTTP 402 + `X-Payment` 头 | Card-rail REST API (Visa) | 智能合约 escrow + token-gated 端点 | Wallet RPC `wallet_grantPermissions` | Lit-network threshold sign + Lit Actions JS |
-| **Settlement asset** | 资产无关(Google Pay / card / USDC / bank rails) | **USDC stablecoin** 于 Base / Solana / EVM L2 | **法币虚拟卡**(主要 USD;可 USDC 充值) | **Stablecoin compute credit**(USDC / Nevermined credit) | 不适用(为其他 rail 把关) | 不适用(为任何链签名) |
-| **Authorization model** | 类 OAuth VC mandate(Intent → Cart → Payment) | 委托 session key(ERC-7715 / 4337 / 7702) | Card issuance + 银行赞助 BIN | Token-gated escrow(NFT 或 ERC-20 access token) | Wallet 预授权 scope 带 cap + period + targets | Threshold MPC + Lit Action 中的运行时策略 |
+| **传输层** | HTTPS + W3C Verifiable Credential mandate 链 | HTTP 402 + `X-Payment` 头 | Card-rail REST API (Visa) | 智能合约 escrow + token-gated 端点 | Wallet RPC `wallet_grantPermissions` | Lit-network threshold signing + Lit Actions JS |
+| **结算资产** | 资产无关（Google Pay / card / USDC / bank rails） | **USDC stablecoin** 于 Base / Solana / EVM L2 | **法币虚拟卡**（主要 USD，可由 USDC 充值） | **Stablecoin compute credit**（USDC / Nevermined credit） | 不适用，为其他 rail 把关 | 不适用，为任何链签名 |
+| **授权模型** | 类 OAuth VC mandate（Intent → Cart → Payment） | 委托 session key（ERC-7715 / 4337 / 7702） | Card issuance + 银行赞助 BIN | Token-gated escrow（NFT 或 ERC-20 access token） | Wallet 预授权 scope，含 cap / period / targets | Threshold MPC + Lit Action 中的运行时策略 |
 | **Q1-Q2 2026 mainnet** | 60+ consortium · ~4 production pilots · AAIF 移交 2026-Q2 | **Cloudflare GA Q1 + AWS GA Q2 · single-digit B req/mo · Vercel SDK · 10k+ Bazaar 端点** | Series A · Visa 合作上线 · 低 tens-M USD annualized | niche AI compute marketplace · 集成 x402 用于即时结算 | MetaMask + Coinbase Smart Wallet + Safe 上线 · 可移植性缺口 | 成熟 mainnet · 为自主 agent 提供 production key custody |
 | **Target merchant** | Web2 企业 SaaS · card-network 零售商 · 金融机构 | AI compute / API 提供方 · DeFi 原生 · 按调用 HTTP 服务 | **任何接受 Visa 的商家**(商家不知 agent 身份) | AI compute 提供方 · 模型 inference · GPU 租赁 · 数据集访问 | (任何)— wallet scope 层 | (任何)— key custody 层 |
 | **Regulatory model** | **open-loop interop** — 可插拔结算,AAIF 作为标准 | **open-loop crypto** — facilitator 在大多数辖区不受监管 · MiCA 于发行方 · GENIUS Act 待定 | **闭环 card issuance** — 银行赞助 BIN · KYC / AML / PCI 全在范围内 | **crypto 原生 marketplace** — 智能合约平台 · DAO 争议 | (无 — wallet 功能) | (无 — key custody) |

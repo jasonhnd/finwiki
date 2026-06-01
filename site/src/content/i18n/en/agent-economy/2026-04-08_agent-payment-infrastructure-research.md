@@ -13,7 +13,7 @@ translated_at: 2026-05-30T16:40:11.484Z
 
 ## Wiki route
 
-This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI Agent 決済プロトコル全体図 · 7プロトコル俯瞰]]. Read it against [[agent-economy/skill-market-monetization|Skill マーケット有料化]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[agent-economy/ai-agent-payment-protocols-overview|AI agent payment protocols overview: seven-protocol map]]. Read it against [[agent-economy/skill-market-monetization|paid skill-market monetization]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
 > Public-source protocol snapshot | 2026-04-08
@@ -52,12 +52,12 @@ The current Agent payments space has already formed a **4 -protocol coexistence*
 - In 2025 年, AI agents completed **1.4 億payments**, at an average of just $0.31 each ([Source](https://nevermined.ai/blog/ai-agent-payment-statistics))
 - Stablecoin 2025 年transaction volume reached [[fintech/usd-stablecoin-interchange|**$33 兆**]], with 98.6% of Agent payments settled in USDC
 - The AI Agent market is forecast to grow from 2025 年 $78.4 億 → 2030 年 $526.2 億 (CAGR 46.3%)
-- a16z's forecast: pricing will shift from "seat-based" to "outcome-based," with crypto micropayments becoming [[agent-economy/skill-market-monetization|Agent 間リアルタイム決済ツール]] ([Source](https://a16z.com/newsletter/big-ideas-2026-part-2/))
+- a16z's forecast: pricing will shift from "seat-based" to "outcome-based," with crypto micropayments becoming [[agent-economy/skill-market-monetization|real-time inter-agent payment tools]] ([Source](https://a16z.com/newsletter/big-ideas-2026-part-2/))
 
 ## 5. Implications for Agent payment projects
 
 1. **A timing window exists but is narrowing**: The 4 major protocols are already established, and Crossmint/Skyfire and others have taken the lead, but daily active transaction volume is extremely low (x402  is only $28K/day), indicating that the market is still in an early stage.
-2. **Directions for differentiation**: Most existing solutions are concentrated on crypto-native scenarios. [[fintech/ai-payment-two-tracks|法定通貨 - ステーブルコインのブリッジ]], compliant KYA integration, and payment methods for the China/Asia market (Alipay/WeChat → stablecoin) remain a blank space.
+2. **Directions for differentiation**: Most existing solutions are concentrated on crypto-native scenarios. [[fintech/ai-payment-two-tracks|fiat-to-stablecoin bridge]], compliant KYA integration, and payment methods for the China/Asia market (Alipay/WeChat -> stablecoin) remain a blank space.
 3. **Protocol-compatible, not reinvented**: One should support x402/ACP/AP2/MPP and build a value-added layer on top of them rather than starting from scratch.
 4. **The economics of microtransactions**: The average value of an Agent payment is $0.31 , demanding extremely low fees. The sub-cent fees on Base/Solana already meet the requirement, but the key lies in settlement efficiency and batching.
 5. **Bundling ID + payment**: ERC-8004 + KYA is becoming the compliance baseline; a payment solution that embeds the identity layer holds a regulatory advantage.
@@ -85,8 +85,8 @@ Sources:
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[agent-economy/agent-actorship-debate|Agent 主体性論争:4つの陣営]]
-- [[agent-economy/claude-code-extension-architecture|Claude Code 拡張コンポーネントアーキテクチャ — Agent エコシステムのインフラ階層]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造(JPYC・USDC・Project Pax)]]
-- [[fintech/ai-payment-two-tracks|AI 産業の二つの決済軌道:Stripe モデル vs ステーブルコインモデル]]
+- [[agent-economy/agent-actorship-debate|agent actorship debate: four camps]]
+- [[agent-economy/claude-code-extension-architecture|Claude Code extension architecture: infrastructure layers in the agent ecosystem]]
+- [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal architecture: JPYC, USDC, Project Pax]]
+- [[fintech/ai-payment-two-tracks|two payment tracks in the AI industry: Stripe model vs stablecoin model]]
 <!-- /wiki-links:managed -->

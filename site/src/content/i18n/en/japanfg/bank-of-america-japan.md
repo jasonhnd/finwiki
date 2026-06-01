@@ -11,11 +11,11 @@ translated_at: 2026-05-31T11:13:44.954Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/socgen-japan|ソシエテ・ジェネラル日本 (Societe Generale Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG/socgen-japan|Societe Generale Japan]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Bank of America is the Japan presence of a major U.S. financial group that began operations in Japan in 1947年. Today it is centered on the 2  legal entities BofA Securities Japan Co., Ltd. and Bank of America, N.A., Tokyo Branch, providing securities and investment banking, corporate banking, foreign exchange, trade finance, yen and foreign-currency accounts, and credit extension. It is a comparison target for U.S. wholesale banks and IBs alongside [[JapanFG/wells-fargo-japan|wells-fargo-japan]], [[JapanFG/citigroup-japan|citigroup-japan]], and [[JapanFG/jpmorgan-japan|jpmorgan-japan]].
+Bank of America is the Japan presence of a major U.S. financial group that began operations in Japan in 1947. Today it is centered on the 2  legal entities BofA Securities Japan Co., Ltd. and Bank of America, N.A., Tokyo Branch, providing securities and investment banking, corporate banking, foreign exchange, trade finance, yen and foreign-currency accounts, and credit extension. It is a comparison target for U.S. wholesale banks and IBs alongside [[JapanFG/wells-fargo-japan|Wells Fargo Japan]], [[JapanFG/citigroup-japan|Citigroup Japan]], and [[JapanFG/jpmorgan-japan|JPMorgan Japan]].
 
 ## 1. Company overview
 
@@ -24,8 +24,8 @@ Bank of America is the Japan presence of a major U.S. financial group that began
 | Parent company | Bank of America Corporation |
 | Japan bank | Bank of America, N.A., Tokyo Branch |
 | Japan securities | BofA Securities Japan Co., Ltd. |
-| Start of Japan business | 1947年 |
-| Main location | Nihonbashi 1-chome Mitsui Building, 4-1号 Nihonbashi 1-chome, Chuo-ku, Tokyo |
+| Start of Japan business | 1947 |
+| Main location | Nihonbashi 1-chome Mitsui Building, 4-1 Nihonbashi 1-chome, Chuo-ku, Tokyo |
 | Phone | 03-6758-5000 |
 | Supervision | FSA, U.S. OCC / FRB, etc. |
 
@@ -46,7 +46,7 @@ Bank of America's official Japan page explains that its Japan business is operat
 - **U.S. universal-bank model**: Bank of America is a U.S. integrated financial group combining commercial banking with Merrill Lynch-related securities and IB. In Japan it targets corporates and institutional investors, not retail.
 - **Comparison with Wells Fargo**: [[JapanFG/wells-fargo-japan|Wells Fargo]] has a stronger U.S. domestic commercial-bank color and is more niche in Japan. BofA has clear dual engines in securities / IB and corporate banking.
 - **Competition with JPMorgan / Citi**: [[JapanFG/jpmorgan-japan|JPMorgan]] is one of the largest global IBs, and [[JapanFG/citigroup-japan|Citi]] is strong in treasury / markets. BofA differentiates through U.S. corporate and U.S. market access plus Merrill Lynch-related IB.
-- **No Japan retail business**: As with the former Citibank retail withdrawal history, major U.S. banks are basically wholesale-focused in Japan.
+- **No Japan retail business**: As with the former Citibank retail withdrawal history, major U.S. banks are predominantly wholesale-focused in Japan.
 
 ## 4. Regulation / policy
 
@@ -56,8 +56,8 @@ Bank of America's official Japan page explains that its Japan business is operat
 
 ## Related
 
-- [[JapanFG/wells-fargo-japan|wells-fargo-japan]] ? [[JapanFG/citigroup-japan|citigroup-japan]]
-- [[JapanFG/jpmorgan-japan|jpmorgan-japan]] ? [[JapanFG/goldman-sachs-japan|goldman-sachs-japan]]
+- [[JapanFG/wells-fargo-japan|Wells Fargo Japan]] / [[JapanFG/citigroup-japan|Citigroup Japan]]
+- [[JapanFG/jpmorgan-japan|JPMorgan Japan]] / [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]
 - [[finance/INDEX|finance INDEX]] ? [[securities/INDEX|securities INDEX]] ? [[INDEX|FinWiki index]]
 
 ## Sources

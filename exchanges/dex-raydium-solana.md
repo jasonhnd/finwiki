@@ -67,8 +67,8 @@ Raydium が 2024–2026 年に最大の存在感を発揮しているのは **Pu
 | 項目 | Raydium | Orca | Meteora |
 |---|---|---|---|
 | 設計 | constant product + CLMM + orderbook hook | 集中流動性（Whirlpools） | DLMM（Dynamic Liquidity） |
-| 主用途 | memecoin + 一般 spot | retail 友好 swap | memecoin + 高度 LP |
-| token | RAY | ORCA | MET（TBD） |
+| 主用途 | memecoin + 一般 spot | リテール向けスワップ | memecoin + 高度 LP |
+| token | RAY | ORCA | MET（未発行 / 公開情報なし） |
 | TVL 規模 | $1.5–2.5B | $300–500M | $400–800M |
 | 強み | memecoin migration、aggregator 経由量 | UX、安定 LP | LP 効率、dynamic fee |
 
