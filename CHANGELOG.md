@@ -31,6 +31,19 @@
 
 ## 2026-06-01
 
+### GPT i18n 継続バッチ（zh/en 883 件へ）/ GPT i18n continuation batch (zh/en 883 each) / GPT i18n 续跑批次（zh/en 各 883）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-01 09:00 JST。
+- **背景**: ユーザー指定どおり Sonnet ではなく GPT/Codex worker で FinWiki 三語 i18n を継続した。前 batch 後の公開 i18n surface に加え、作業途中に残っていた verified output も含め、current snapshot の zh/en 件数を実数で同期した。
+- **範囲**: `site/src/content/i18n/{zh,en}/`, `.cache/jobs/w0..w9/`, `README.md`, `CHANGELOG.md`, `releases/v2026.06.01-2.md`。公開済み wiki 原文本文は変更せず、機械翻訳 surface、release 記録、AI discovery / count surface を更新した。
+- **実行手順**: `bun scripts/prep-parallel.mjs --workers 10 --size 13` 由来の 130 source jobs を回収した。worker outputs の一部が別 worker directory に保存されていたため、同名 `{base}.{lang}.md` を `.json` 所在 directory へ戻した。w4 の `jaccs` は手動で zh/en を補完し、未生成 23 entries は GPT/Codex recovery workers で再処理した。最後に `mufg.zh.md` のみ単独 GPT/Codex recovery worker で補完し、完了後の active FinWiki worker list は current controlling session のみになった。
+- **結果**: `bun scripts/commit-translate.mjs` は **ok=260, needs_review=0, missing=0**。累計 i18n は **zh 883 / en 883** へ進捗した。
+- **検証結果**: `bun run build` pass (4147 pages built)。`jaccs` の手動補完は source と zh/en の placeholder order が 88/88 で一致。`python tools/release.py --write` pass（markdown_files=1454, sitemap_urls=1454, domains=23）、`python tools/release.py --check --strict` pass。
+- **既知の注意点**: 作業途中で一度 `commit-translate` を早く走らせたため、後続で同名 output を正規 directory に戻してから全件再実行した。最終 verify は needs_review / missing とも 0。
+- **次の作業**: 次の GPT/Codex batch で未翻訳分を継続し、prep が 0 jobs を返すまで繰り返す。全量完了後に residual needs_review があれば別途精査する。
+- **EN**: Continued the i18n run with GPT/Codex workers rather than Sonnet. Recovered the 130-source batch, fixed misplaced worker outputs by exact filename, manually completed `jaccs`, and used smaller GPT/Codex recovery workers for the remaining missing files, including a final single-file recovery for `mufg.zh.md`. Final `commit-translate`: ok=260, needs_review=0, missing=0. Cumulative i18n is now zh 883 / en 883. Astro build passed with 4147 pages.
+- **中文**: 按用户要求继续使用 GPT/Codex，而不是 Sonnet。本轮回收 130 个 source jobs；先按精确文件名修复 worker 输出错目录问题，手动补齐 `jaccs`，再用更小粒度的 GPT/Codex recovery worker 补剩余缺失文件，最后单独补 `mufg.zh.md`。最终 `commit-translate` 为 ok=260、needs_review=0、missing=0；累计 i18n 为 zh 883 / en 883。Astro 构建通过，生成 4147 页。
+
 ### GPT i18n 継続バッチ（zh/en 740 件へ）/ GPT i18n continuation batch (zh/en 740 each) / GPT i18n 续跑批次（zh/en 各 740）
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-01 00:30 JST。
