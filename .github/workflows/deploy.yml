@@ -1,9 +1,8 @@
 name: Deploy FinWiki
 
-# corpus / site の変更を push するたびに、人類版(Astro)を CI で build し、
-# 既存の公開ルート(raw MD + AI surface + index.html)と合わせて GitHub Pages へ配信する。
-# 本地ビルドや成果物の git コミットは不要(産物は git に入れない)。
-
+# Build the Astro human site and publish it together with the raw Markdown and
+# AI discovery surfaces. Local build outputs and generated dependencies stay
+# outside git.
 on:
   push:
     branches: [main]
@@ -22,7 +21,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - uses: oven-sh/setup-bun@v2
         with:
@@ -36,17 +35,20 @@ jobs:
         working-directory: site
         run: bun scripts/sync-corpus.ts
 
-      - name: Build human site (Astro → site/dist, base /)
+      - name: Build human site
         working-directory: site
         run: bun run build
 
-      - name: Assemble publish dir (_site = 人類版を根 + raw MD / AI surface 共存)
+      - name: Check duplicate HTML ids
+        run: python tools/check_duplicate_html_ids.py site/dist
+
+      - name: Assemble publish dir
         run: |
           mkdir -p _site
-          # 1) 人類版(Astro)を根に展開（index.html / ja,en,zh / _astro 資産）
+          # 1) Expand the Astro site at the Pages root.
           cp -r site/dist/. _site/
-          # 2) corpus(raw MD) と AI surface を埋める。Astro 産物は --ignore-existing で上書きしない。
-          #    旧 index.html は Astro の root index で置き換えるため除外。
+          # 2) Copy raw Markdown and AI surfaces without overwriting Astro output.
+          #    The repository root index.html is excluded because Astro owns /.
           rsync -a --ignore-existing \
             --exclude='.git' --exclude='.github' --exclude='_site' \
             --exclude='site' --exclude='node_modules' --exclude='app' \
@@ -55,7 +57,7 @@ jobs:
             ./ _site/
           test -f _site/.nojekyll || touch _site/.nojekyll
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -67,4 +69,4 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

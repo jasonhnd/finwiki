@@ -270,6 +270,18 @@ def verify() -> list[str]:
     for line in crlf.splitlines():
         if "w/crlf" in line:
             problems.append(f"CRLF in working tree: {line.split(chr(9))[-1]}")
+    dist_dir = ROOT / "site" / "dist"
+    if dist_dir.exists():
+        proc = subprocess.run(
+            [sys.executable, str(TOOLS_DIR / "check_duplicate_html_ids.py"), str(dist_dir)],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            cwd=str(ROOT),
+        )
+        if proc.returncode != 0:
+            output = ((proc.stdout or "") + (proc.stderr or "")).strip()
+            problems.append(f"duplicate HTML ids: {output[:500]}")
     return problems
 
 

@@ -13,7 +13,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 31 |
+| Changed or new entries in current worktree | 0 |
 
 ## Wiki Linking Standard
 
@@ -31,37 +31,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/foreign-bank-branches-japan-index.md` | `M` | 81 | ok |
-| `agent-economy/skyfire-closed-loop-agent-issuer.md` | `M` | 15 | ok |
-| `agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md` | `M` | 6 | ok |
-| `agent-economy/visa-mastercard-agentic-commerce-pilots.md` | `M` | 20 | ok |
-| `banking/japan-net-bank-deposit-feature-matrix-2026.md` | `M` | 141 | ok |
-| `business/founder-pivot-outcome-template-matrix.md` | `M` | 38 | ok |
-| `derivatives/retail-fx-margin-trade-japan.md` | `M` | 18 | ok |
-| `exchanges/dex-raydium-solana.md` | `M` | 5 | ok |
-| `exchanges/japan-cex-parent-fg-adjacency-matrix.md` | `M` | 97 | ok |
-| `exchanges/jp-exchange-trek-labs-japan.md` | `M` | 3 | ok |
-| `exchanges/solana-ecosystem-dex-comparison.md` | `M` | 12 | ok |
-| `fintech/bis-agora-vs-mbridge-2026-update.md` | `M` | 22 | ok |
-| `fintech/boe-digital-pound-consultation.md` | `M` | 13 | ok |
-| `fintech/brazil-mexico-cbdc-stablecoin-push-2026.md` | `M` | 18 | ok |
-| `fintech/e-euro-retail-rollout.md` | `M` | 13 | ok |
-| `fintech/franklin-templeton-stablecoin-migration.md` | `M` | 12 | ok |
-| `fintech/global-cbdc-retail-pilot-matrix-africa-caribbean.md` | `M` | 21 | ok |
-| `fintech/occ-bank-charter-crypto-2025.md` | `M` | 22 | ok |
-| `fintech/regulatory-reset-2025-usa-crypto-policy.md` | `M` | 34 | ok |
-| `fintech/wholesale-settlement-network-matrix.md` | `M` | 18 | ok |
-| `loyalty/au-pay-loyalty-ecosystem-deep.md` | `M` | 30 | ok |
-| `payments/japan-merchant-psp-competitive-scorecard.md` | `M` | 82 | ok |
-| `policy-finance/nexi.md` | `M` | 20 | ok |
-| `securities/japan-fiea-operator-registry-segment-matrix.md` | `M` | 141 | ok |
-| `systems/cross-chain-bridge-eight-pole-comparison.md` | `M` | 36 | ok |
-| `systems/cross-chain-five-pole-comparison-matrix.md` | `M` | 8 | ok |
-| `systems/eigenlayer-overview.md` | `M` | 5 | ok |
-| `systems/hyperlane-ism-modular-security.md` | `M` | 4 | ok |
-| `systems/hyperlane-overview.md` | `M` | 4 | ok |
-| `systems/zk-evm-rollup-maturity-comparison-matrix-2026.md` | `M` | 23 | ok |
-| `trade/INDEX.md` | `M` | 9 | ok |
 
 ## Domain Snapshot
 

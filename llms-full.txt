@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-01T16:33:07+09:00
+Generated: 2026-06-02T01:05:26+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1459
-Public pages listed: 1458
+Markdown files: 1460
+Public pages listed: 1459
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1458
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-01, 三語語彙品質監査・専門語彙 polish / Trilingual lexical-quality audit and specialist wording polish / 三语词汇质量审计与专业语域 polish, GPT i18n 全量完了・zh/en 1380 件 + 封面ホーム更新 / GPT i18n full completion (zh/en 1380 each) + homepage cover / GPT i18n 全量完成（zh/en 各 1380）+ 封面首页
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-02, CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate, 2026-06-01
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13107,6 +13107,15 @@ Public pages listed: 1458
 - Type: release_note
 - Summary: 2026-06-01 JST の GPT/Codex i18n 継続バッチです。前回の zh/en 610 件から、placeholder verify を通過した訳文だけを公開 i18n surface に追加し、累計を zh 740 / en 740 へ進めました。
 - Headings: GPT i18n 翻訳バッチ継続・740/740 進捗, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+
+### CI 警告整理と HTML ID 検証ゲート追加
+- URL: https://finwiki.zksc.io/releases/v2026.06.02
+- Source path: releases/v2026.06.02.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02.md
+- Domain: releases
+- Type: release_note
+- Summary: 2026-06-02 JST の FinWiki CI 品質リリースです。前回 release の残タスクだった Astro duplicate id warning と GitHub Actions Node.js 20 deprecation annotation を整理しました。
+- Headings: CI 警告整理と HTML ID 検証ゲート追加, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
