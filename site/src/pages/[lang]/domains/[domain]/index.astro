@@ -24,55 +24,170 @@ const entries = (await getCollection('entries'))
 const translations = await getCollection('i18n');
 const translationMap = new Map(translations.map((entry) => [entry.id, entry]));
 
-function entryTitle(entry: (typeof entries)[number]): string {
-  const translated = translationMap.get(i18nEntryId(lang, entry));
-  return String(translated?.data?.title || entry.data.title || entryRoute(entry));
+function titleFor(entry: (typeof entries)[number]): string {
+  const tr = translationMap.get(i18nEntryId(lang, entry));
+  return String(tr?.data?.title || entry.data.title || entryRoute(entry));
 }
-
 const translatedCount = entries.filter((entry) => translationMap.has(i18nEntryId(lang, entry))).length;
+const showFilter = entries.length > 24;
 ---
-<Base lang={lang} title={domainName(domain, lang)}>
-  <nav class="breadcrumbs" aria-label="Breadcrumb">
-    <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
-    <span>/</span>
-    <span>{domainName(domain, lang)}</span>
-  </nav>
+<Base lang={lang} title={domainName(domain, lang)} active="domains">
+  <div class="container domain">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
+      <span aria-hidden="true">/</span>
+      <span>{domainName(domain, lang)}</span>
+    </nav>
 
-  <section class="domain-head">
-    <p class="kicker">{domain}</p>
-    <h1>{domainName(domain, lang)}</h1>
-    <div class="stats">
-      <span><strong>{entries.length.toLocaleString('en-US')}</strong> entries</span>
-      <span><strong>{translatedCount.toLocaleString('en-US')}</strong> translated in this language</span>
-    </div>
-  </section>
+    <header class="domain__head">
+      <p class="eyebrow">{domain}</p>
+      <h1>{domainName(domain, lang)}</h1>
+      <div class="domain__stats">
+        <span class="chip"><b>{entries.length.toLocaleString('en-US')}</b> {t(lang, 'domain.entries')}</span>
+        {lang !== 'ja' && (
+          <span class="chip"><b>{translatedCount.toLocaleString('en-US')}</b> {t(lang, 'domain.translated')}</span>
+        )}
+      </div>
+    </header>
 
-  <section class="entry-list" aria-labelledby="entries-title">
-    <h2 id="entries-title">{t(lang, 'nav.browse')}</h2>
-    <ol>
-      {entries.map((entry) => (
-        <li>
-          <a href={u(lang, `${entryRoute(entry)}/`)}>{entryTitle(entry)}</a>
-          <span>{entryRoute(entry)}</span>
-        </li>
-      ))}
-    </ol>
-  </section>
+    {showFilter && (
+      <div class="domain__bar">
+        <input id="domain-filter" type="search" class="domain__filter" placeholder={t(lang, 'browse.filter')} autocomplete="off" aria-label={t(lang, 'browse.filter')} />
+        <p id="domain-empty" class="muted" hidden>{t(lang, 'browse.noMatch')}</p>
+      </div>
+    )}
+
+    <ul class="domain__list">
+      {entries.map((entry) => {
+        const name = titleFor(entry);
+        const translated = lang !== 'ja' && translationMap.has(i18nEntryId(lang, entry));
+        return (
+          <li class="domain__item" data-name={`${name} ${entryRoute(entry)}`.toLowerCase()}>
+            <a href={u(lang, `${entryRoute(entry)}/`)}>
+              <span class="domain__name">{name}</span>
+              {translated && <span class="domain__tdot" title={t(lang, 'domain.translated')}></span>}
+              <span class="domain__route">{entryRoute(entry)}</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
 </Base>
 
 <style>
-  .breadcrumbs { display: flex; flex-wrap: wrap; gap: 0.35rem; color: var(--muted); font-size: 0.85rem; margin-bottom: 1.4rem; }
-  .breadcrumbs a { color: var(--accent); text-decoration: none; }
-  .domain-head { margin-bottom: 1.5rem; }
-  .kicker { color: var(--accent); font-size: 0.8rem; font-weight: 700; margin: 0 0 0.2rem; text-transform: uppercase; }
-  h1 { font-size: clamp(1.7rem, 1.2rem + 2vw, 2.35rem); margin: 0; }
-  .stats { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.8rem; }
-  .stats span { border: 1px solid var(--line); border-radius: 8px; padding: 0.35rem 0.7rem; color: var(--muted); font-size: 0.85rem; }
-  .stats strong { color: var(--accent); }
-  .entry-list h2 { font-size: 1.15rem; margin: 1.8rem 0 0.7rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
-  .entry-list ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.45rem; }
-  .entry-list li { border: 1px solid var(--line); border-radius: 8px; padding: 0.65rem 0.75rem; background: var(--soft); }
-  .entry-list a { display: block; color: var(--fg); text-decoration: none; font-weight: 650; }
-  .entry-list a:hover { color: var(--accent); }
-  .entry-list span { display: block; margin-top: 0.15rem; color: var(--muted); font-size: 0.78rem; word-break: break-all; }
+  .domain {
+    padding-top: var(--sp-6);
+  }
+  .crumbs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    align-items: center;
+    font-size: var(--fs-sm);
+    color: var(--muted);
+    margin-bottom: 1.1rem;
+  }
+  .crumbs a {
+    color: var(--accent-2);
+    text-decoration: none;
+  }
+  .domain__head {
+    margin-bottom: 1.5rem;
+  }
+  .domain__head h1 {
+    font-size: var(--fs-xl);
+    margin: 0 0 0.7rem;
+  }
+  .domain__stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .domain__stats b {
+    color: var(--accent);
+  }
+  .domain__bar {
+    margin-bottom: 1.25rem;
+  }
+  .domain__filter {
+    width: 100%;
+    max-width: 26rem;
+    font: inherit;
+    font-size: var(--fs-base);
+    padding: 0.55rem 0.85rem;
+    border: 1px solid var(--line-2);
+    border-radius: var(--r);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  .domain__filter:focus-visible {
+    border-color: var(--accent);
+    outline: none;
+  }
+  .domain__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: 0.4rem 1.25rem;
+  }
+  .domain__item[hidden] {
+    display: none;
+  }
+  .domain__item a {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.5rem 0.6rem;
+    border-radius: var(--r);
+    text-decoration: none;
+    color: var(--ink);
+    border-bottom: 1px solid var(--line);
+  }
+  .domain__item a:hover {
+    background: var(--surface-2);
+  }
+  .domain__name {
+    font-weight: 550;
+  }
+  .domain__tdot {
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 50%;
+    background: var(--accent);
+    flex: none;
+    align-self: center;
+  }
+  .domain__route {
+    margin-left: auto;
+    color: var(--muted);
+    font-size: var(--fs-xs);
+    font-family: var(--font-mono);
+    text-align: right;
+    word-break: break-all;
+  }
 </style>
+
+<script>
+  const input = document.getElementById('domain-filter') as HTMLInputElement | null;
+  if (input) {
+    const empty = document.getElementById('domain-empty');
+    const items = Array.from(document.querySelectorAll('.domain__item')) as HTMLElement[];
+    let raf = 0;
+    input.addEventListener('input', () => {
+      cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(() => {
+        const q = input.value.trim().toLowerCase();
+        let visible = 0;
+        for (const el of items) {
+          const match = !q || (el.dataset.name || '').includes(q);
+          el.hidden = !match;
+          if (match) visible++;
+        }
+        if (empty) empty.hidden = visible > 0;
+      });
+    });
+  }
+</script>

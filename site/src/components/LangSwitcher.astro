@@ -3,20 +3,16 @@ import { languages, type Lang, restOf, u } from '../i18n/ui';
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const rest = restOf(Astro.url.pathname);
+const short: Record<Lang, string> = { ja: '日', en: 'EN', zh: '中' };
 ---
 <div class="lang-switch" role="group" aria-label="Language">
-  {Object.entries(languages).map(([code, label]) => (
+  {Object.entries(languages).map(([code]) => (
     <a
-      class:list={['lang', { active: code === lang }]}
+      class:list={['', { active: code === lang }]}
       href={u(code as Lang, rest)}
       hreflang={code}
       aria-current={code === lang ? 'true' : undefined}
-    >{label}</a>
+      title={languages[code as Lang]}
+    >{short[code as Lang]}</a>
   ))}
 </div>
-<style>
-  .lang-switch { display: flex; gap: 0.4rem; font-size: 0.82rem; }
-  .lang { text-decoration: none; color: var(--muted, #666); padding: 0.15rem 0.5rem; border-radius: 6px; border: 1px solid transparent; }
-  .lang:hover { border-color: var(--line, #e5e5e5); }
-  .lang.active { background: var(--accent, #0b6); color: #fff; }
-</style>

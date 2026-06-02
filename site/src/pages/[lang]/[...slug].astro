@@ -2,30 +2,46 @@
 import EntryLayout from '../../layouts/EntryLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { langCodes, type Lang } from '../../i18n/ui';
-import { entryRoute, i18nEntryId } from '../../lib/routes';
+import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
+
+  const counts = new Map<string, number>();
+  for (const e of entries) {
+    const d = entryDomain(e);
+    counts.set(d, (counts.get(d) ?? 0) + 1);
+  }
+  const domains = [...counts.entries()]
+    .map(([slug, count]) => ({ slug, count }))
+    .sort((a, b) => b.count - a.count);
+
   let i18nMap = new Map<string, any>();
   try {
     const all = await getCollection('i18n');
-    i18nMap = new Map(all.map((t) => [t.id, t]));
+    i18nMap = new Map(all.map((entry) => [entry.id, entry]));
   } catch {}
+
   return langCodes.flatMap((lang) =>
     entries.map((entry) => {
       const route = entryRoute(entry);
       return {
         params: { lang, slug: route },
-        props: { entry, tr: i18nMap.get(i18nEntryId(lang, entry)) ?? null, lang: lang as Lang },
+        props: { entry, tr: i18nMap.get(i18nEntryId(lang, entry)) ?? null, lang: lang as Lang, domains },
       };
     }),
   );
 }
 
-const { entry, tr, lang } = Astro.props as { entry: any; tr: any; lang: Lang };
-// 译文があればそれを、なければ原文(日文)を render（fallback）。
-const { Content } = await render(tr ?? entry);
+const { entry, tr, lang, domains } = Astro.props as {
+  entry: any;
+  tr: any;
+  lang: Lang;
+  domains: { slug: string; count: number }[];
+};
+// Render the translation when present, else fall back to the Japanese source.
+const { Content, headings } = await render(tr ?? entry);
 ---
-<EntryLayout lang={lang} entry={entry} tr={tr}>
+<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains}>
   <Content />
 </EntryLayout>
