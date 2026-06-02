@@ -31,6 +31,19 @@
 
 ## 2026-06-02
 
+### Bun工具体系への全面移行 / Full Bun tooling migration / Bun 工具体系全面迁移
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-02 13:12 JST。
+- **背景**: Vercel ecosystem への移行準備と静的検索追加後、root tooling にはまだ Python / Node `.mjs` の入口が残っていた。ユーザー要望に従い、release / discovery / audit / publish まわりを Bun + TypeScript へ統一し、GitHub Pages と Vercel が同じ build gate を通るようにした。
+- **範囲**: `tools/*.ts`、`lib/markdown_helpers.ts`、root `package.json`、`vercel.json`、`.github/workflows/deploy.yml`、`.githooks/pre-push`、`AGENTS.md`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02-7.md`、release-generated `robots.txt` / `sitemap.xml` / `llms*.txt` / `ai-index.json` / `api/entries/*.json`。
+- **主要変更**: `tools/generate_ai_discovery.ts` と `lib/markdown_helpers.ts` を導入し、crawler / LLM discovery surface と static JSON API を Bun で生成する。`tools/release.ts` は Bun runner とし、wikilink audit、count drift sync、JSON / LF / duplicate HTML id verification を行う。`tools/check_duplicate_html_ids.ts` は Bun 内蔵 `HTMLRewriter` を使い、追加 npm dependency なしで rendered HTML を検査する。`tools/vercel_build.ts` と `tools/assemble_static_publish.ts` により Vercel / GitHub Pages publish assembly を同じ Bun pipeline に寄せた。旧 `tools/*.py` と root `.mjs` build tools は削除した。
+- **実行手順**: 10 並列 worker の草案を統合し、`.cache` worker output を削除して discovery walker 汚染を防いだ。`package.json` scripts、Vercel build command、GitHub Actions、pre-push hook、AGENTS / README の運用コマンドを Bun へ更新した。`bun tools/release.ts --write` で AI discovery surface、footer timestamp、README / index counts を同期した。
+- **検証結果**: `bun tools/generate_ai_discovery.ts` は markdown_files=1466 / public_pages=1465 / sitemap_urls=1466 / domains=23 / link_audited_entries=1411 / api_entries=1404。`bun tools/release.ts --check --strict` は link audit 1411 / 0、counts in sync、JSON valid、LF endings OK、duplicate HTML id check OK。`bun tools/check_duplicate_html_ids.ts site/dist` は checked=4147 / duplicate_id_pages=0 / duplicate_ids=0。`bun tools/vercel_build.ts` は PASS し、Astro 4147 pages、Pagefind 4147 pages / 3 languages / 136151 words、static assembly astro_files=8697 / root_surface_files=2838 を確認した。current operational docs / workflow / hooks / tools には `python tools`、`python3 tools`、`node tools`、root `tools/*.py` / `tools/*.mjs` references を残していない。
+- **既知の注意点**: `CHANGELOG.md` の過去履歴には、その時点で実行した Python / Node コマンドが historical evidence として残る。Astro 側の `.mjs` config / plugins は Bun で実行される site framework files であり、今回の root release tooling migration の対象外。
+- **次の作業**: push 後に remote HEAD、GitHub Release、GitHub Actions deployment、public URL の AI surface / search / homepage verification を実行する。
+- **EN**: Migrated FinWiki's root release, discovery, audit, and publish tooling from Python / Node `.mjs` entry points to Bun + TypeScript. Added Bun discovery generation, release gating, duplicate-id checking via Bun `HTMLRewriter`, Vercel / Pages static assembly, and Bun-only package scripts. GitHub Actions and the pre-push hook now call Bun commands. Old root Python and `.mjs` tools were removed. Validation currently passes through discovery generation, strict release check, duplicate HTML id scan, and active-reference scanning; historical CHANGELOG command records remain unchanged.
+- **中文**: 本轮把 FinWiki 根目录的 release、discovery、audit、publish 工具从 Python / Node `.mjs` 入口迁到 Bun + TypeScript。新增 Bun discovery 生成、release gate、基于 Bun `HTMLRewriter` 的 duplicate-id 检查、Vercel / Pages 静态组装，以及 Bun-only package scripts。GitHub Actions 和 pre-push hook 都改为调用 Bun 命令，旧的 root Python 和 `.mjs` 工具已删除。当前已通过 discovery 生成、strict release check、duplicate HTML id scan 和活跃引用扫描；历史 CHANGELOG 中记录的旧命令作为历史证据保留。
+
 ### Pagefind静的全文検索追加 / Pagefind static full-text search / Pagefind 静态全文搜索
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-02 12:25 JST。

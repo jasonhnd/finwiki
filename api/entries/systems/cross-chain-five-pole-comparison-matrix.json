@@ -9,41 +9,19 @@
   "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
-    "aliases": [
-      "cross chain five pole comparison matrix",
-      "cctp ccip layerzero hyperlane wormhole comparison",
-      "bridge protocol nine dimensions matrix"
-    ],
-    "domain": "systems",
-    "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
-    "confidence": "likely",
-    "tags": [
-      "systems",
-      "cross-chain",
-      "bridge",
-      "cctp",
-      "ccip",
-      "layerzero",
-      "hyperlane",
-      "wormhole",
-      "comparison-matrix"
-    ],
-    "status": "active",
-    "sources": [
-      "https://developers.circle.com/stablecoins/docs/cctp-getting-started",
-      "https://docs.chain.link/ccip",
-      "https://docs.layerzero.network/v2",
-      "https://docs.hyperlane.xyz/",
-      "https://docs.wormhole.com/",
-      "https://defillama.com/bridges",
-      "https://tokenterminal.com/"
-    ]
+    "title": null,
+    "aliases": [],
+    "domain": null,
+    "created": null,
+    "last_updated": null,
+    "last_tended": null,
+    "review_by": null,
+    "confidence": null,
+    "tags": [],
+    "status": null,
+    "sources": []
   },
-  "summary": "このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl",
+  "summary": "title: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元 aliases: [cross chain five pole comparison matrix, cctp ccip layerzero hyperlane wormhole comparison, bridge protocol nine dimensions matrix] domain: systems created: 2026-05-24 lastupdated: 2026-05-26 lasttended",
   "headings": [
     "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
     "Wiki route",
@@ -86,7 +64,7 @@
   },
   "metrics": {
     "nonspace_chars": 6735,
-    "word_like_tokens": 1082,
+    "word_like_tokens": 1122,
     "inbound_wikilinks_count": 23,
     "last_modified": "2026-06-01"
   }

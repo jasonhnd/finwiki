@@ -3,7 +3,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "vercel:build": "node tools/vercel_build.mjs",
-    "publish:assemble": "node tools/assemble_static_publish.mjs --out _vercel_public"
+    "ai:discovery": "bun tools/generate_ai_discovery.ts",
+    "footer:timestamp": "bun tools/update_footer_timestamp.ts",
+    "html:check": "bun tools/check_duplicate_html_ids.ts site/dist",
+    "release:check": "bun tools/release.ts --check --strict",
+    "release:write": "bun tools/release.ts --write",
+    "wiki:audit": "bun tools/wiki_link_audit.ts --report wiki-link-improvement-plan.md --fail-on-issues",
+    "wiki:audit:ci": "bun tools/wiki_link_audit.ts --fail-on-issues",
+    "publish:assemble": "bun tools/assemble_static_publish.ts --out _vercel_public",
+    "vercel:build": "bun tools/vercel_build.ts"
   }
 }
