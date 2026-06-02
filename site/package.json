@@ -6,11 +6,15 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "index:search": "pagefind --site dist",
     "preview": "astro preview",
     "check": "astro check"
   },
   "dependencies": {
     "astro": "^5.0.0",
     "unist-util-visit": "^5.1.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }

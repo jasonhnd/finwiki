@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-02T10:32:37+09:00",
+  "generated_at": "2026-06-02T12:29:25+09:00",
   "counts": {
-    "markdown_files": 1464,
-    "public_markdown_pages": 1463,
-    "site_urls_in_sitemap": 1464,
+    "markdown_files": 1465,
+    "public_markdown_pages": 1464,
+    "site_urls_in_sitemap": 1465,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9923407,
-    "word_like_tokens": 1577445
+    "nonspace_utf8_chars": 9933059,
+    "word_like_tokens": 1579130
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-02",
+        "Pagefind静的全文検索追加 / Pagefind static full-text search / Pagefind 静态全文搜索",
         "Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备",
         "Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复",
-        "i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复",
-        "deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制"
+        "i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复"
       ],
       "wikilinks": [
         "...",
@@ -468,8 +468,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 454160,
-      "word_like_tokens": 80109,
+      "nonspace_chars": 457378,
+      "word_like_tokens": 80677,
       "last_modified": "2026-06-02"
     },
     {
@@ -34248,8 +34248,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 29710,
-      "word_like_tokens": 4665,
+      "nonspace_chars": 30555,
+      "word_like_tokens": 4811,
       "last_modified": "2026-06-02"
     },
     {
@@ -75129,6 +75129,33 @@
       "markdown_links": [],
       "nonspace_chars": 6149,
       "word_like_tokens": 1027,
+      "last_modified": "2026-06-02"
+    },
+    {
+      "source_path": "releases/v2026.06.02-6.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.02-6",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-6.md",
+      "title": "Pagefind静的全文検索追加",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-06-02 JST の FinWiki 静的検索追加リリースです。FinWiki は引き続き完全静的サイトとして運用し、データベース、検索 API、外部検索サービスを追加せず、Pagefind による build-time index を /pagefind/* として生成します。",
+      "headings": [
+        "Pagefind静的全文検索追加",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 5589,
+      "word_like_tokens": 971,
       "last_modified": "2026-06-02"
     },
     {
