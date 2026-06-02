@@ -5,6 +5,7 @@ import { t, u, langCodes, type Lang } from '../../i18n/ui';
 import { domainName } from '../../i18n/domains';
 import { domainGroups, groupName } from '../../i18n/groups';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
+import { isoDate } from '../../lib/format';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -28,7 +29,7 @@ function titleFor(entry: (typeof all)[number]): string {
 
 const recent = [...all]
   .filter((e) => e.data.last_updated)
-  .sort((a, b) => String(b.data.last_updated).localeCompare(String(a.data.last_updated)))
+  .sort((a, b) => isoDate(b.data.last_updated).localeCompare(isoDate(a.data.last_updated)))
   .slice(0, 8);
 
 const entryCount = all.length;
@@ -65,7 +66,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
           <a class="card" href={u(lang, `${entryRoute(e)}/`)}>
             <span class="card__kicker">{domainName(d, lang)}</span>
             <span class="card__title">{titleFor(e)}</span>
-            <span class="card__meta">{t(lang, 'entry.updated')} {String(e.data.last_updated).slice(0, 10)}</span>
+            <span class="card__meta">{t(lang, 'entry.updated')} {isoDate(e.data.last_updated)}</span>
           </a>
         );
       })}

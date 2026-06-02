@@ -4,6 +4,7 @@ import { t, u, type Lang } from '../i18n/ui';
 import { domainName } from '../i18n/domains';
 import { domainGroups, groupName } from '../i18n/groups';
 import { entryDomain, entryRoute } from '../lib/routes';
+import { isoDate } from '../lib/format';
 
 interface DomainCount { slug: string; count: number }
 interface Heading { depth: number; slug: string; text: string }
@@ -20,8 +21,8 @@ const fm = entry.data ?? {};
 const route = entryRoute(entry);
 const domain = entryDomain(entry);
 const sources = Array.isArray(fm.sources) ? fm.sources : [];
-const updated = fm.last_updated ? String(fm.last_updated).slice(0, 10) : null;
-const reviewBy = fm.review_by ? String(fm.review_by).slice(0, 10) : null;
+const updated = isoDate(fm.last_updated) || null;
+const reviewBy = isoDate(fm.review_by) || null;
 const confidence = fm.confidence ? String(fm.confidence) : null;
 const tags = Array.isArray(fm.tags) ? fm.tags.slice(0, 6) : [];
 const title = (tr?.data?.title && String(tr.data.title)) || fm.title;
