@@ -58,6 +58,7 @@ async function main() {
   await run('bun', ['scripts/sync-corpus.ts'], { cwd: SITE });
   await run('bun', ['run', 'build'], { cwd: SITE });
   await run(python, ['tools/check_duplicate_html_ids.py', 'site/dist']);
+  await run('bun', ['run', 'index:search'], { cwd: SITE });
   await run('node', ['tools/assemble_static_publish.mjs', '--out', '_vercel_public']);
 }
 

@@ -31,6 +31,18 @@
 
 ## 2026-06-02
 
+### Pagefind静的全文検索追加 / Pagefind static full-text search / Pagefind 静态全文搜索
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-02 12:25 JST。
+- **背景**: FinWiki の人間向け Astro サイトは完全静的に保つ方針だが、読者が 4,000 ページ超の三語ページを横断して語句検索できる入口が必要になった。データベースや検索 API を追加せず、ビルド時に静的 index を生成する Pagefind を採用した。
+- **範囲**: `.github/workflows/deploy.yml`、`site/package.json`、`site/bun.lock`、`site/src/i18n/ui.ts`、`site/src/layouts/Base.astro`、`site/src/pages/index.astro`、`site/src/pages/[lang]/browse/index.astro`、`tools/vercel_build.mjs`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02-6.md`、release-generated discovery surfaces。
+- **主要変更**: `pagefind` を site devDependency に追加し、`bun run index:search` で `site/dist` から `/pagefind/*` を生成するようにした。GitHub Pages workflow と Vercel build script の両方で Astro build / duplicate-id check 後に search index を生成する。共通 layout と root cover homepage に Pagefind modal trigger を追加し、`Ctrl/Cmd+K` でも検索できるようにした。本文領域には `data-pagefind-body` を付け、header / footer / browse list には `data-pagefind-ignore` を付けて検索 index を本文中心にした。
+- **検証結果**: `node tools/vercel_build.mjs` は PASS。wiki-link audit は entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0。release strict check は counts in sync。Astro build は 4147 pages。duplicate HTML id check は checked=4147 / duplicate_id_pages=0 / duplicate_ids=0。Pagefind は 4147 pages / 3 languages (ja, zh, en) / 136151 words を index し、`/pagefind/*` を生成した。ローカル browser check では `/`、`/en/`、`/zh/` で modal を開き、`銀行` 561 件、`bank` 1063 件、`银行` 941 件を返し、中国語結果から `/zh/banking/paypay-bank/` へ遷移できることを確認した。
+- **既知の注意点**: Pagefind は日本語・中国語の stemming を行わないという warning を出すが、検索 index と UI は生成される。検索は静的 index のみで動作し、database / backend / external search API は追加していない。現在の設計は表示中の言語ページを中心に検索する。
+- **次の作業**: push 後に GitHub Pages deployment と public URL の `/pagefind/pagefind-component-ui.js`、`/`、`/zh/` を確認する。Vercel 側では同じ `node tools/vercel_build.mjs` が `/pagefind/*` を `_vercel_public` に含めるため、shadow deployment 作成後に同じ検索操作を再確認する。
+- **EN**: Added Pagefind static full-text search while keeping FinWiki fully static. The site now installs `pagefind`, exposes `bun run index:search`, and generates `/pagefind/*` from `site/dist`. Both GitHub Pages and Vercel build paths run the search indexer after Astro build and duplicate-id validation. The shared layout and root cover homepage now include a Pagefind modal trigger with `Ctrl/Cmd+K`; `data-pagefind-body` scopes indexing to main content while headers, footers, and browse lists are ignored. Validation passed through `node tools/vercel_build.mjs`: graph audit 1411/0, dead refs/targets 0, strict counts in sync, 4147 Astro pages, duplicate ids 0, and Pagefind indexed 4147 pages across ja/zh/en with 136151 words. Browser checks opened the modal on `/`, `/en/`, and `/zh/`; searches returned 561 Japanese results for `銀行`, 1063 English results for `bank`, and 941 Chinese results for `银行`, including navigation to `/zh/banking/paypay-bank/`. The search remains static and backend-free.
+- **中文**: 增加 Pagefind 静态全文搜索，同时保持 FinWiki 完全静态。站点新增 `pagefind`、`bun run index:search`，在 `site/dist` 构建后生成 `/pagefind/*`。GitHub Pages 与 Vercel 两条构建路径都会在 Astro build 和 duplicate-id 检查后生成搜索索引。通用 layout 与根封面首页加入 Pagefind modal trigger，并支持 `Ctrl/Cmd+K`；`data-pagefind-body` 让索引聚焦正文，header / footer / browse list 则通过 `data-pagefind-ignore` 排除。验证通过 `node tools/vercel_build.mjs`：graph audit 1411/0、dead refs/targets 0、strict counts in sync、Astro 4147 页、duplicate ids 0，Pagefind 索引 4147 页、ja/zh/en 三种语言、136151 words。浏览器检查确认 `/`、`/en/`、`/zh/` 可打开搜索弹窗，`銀行` 返回 561 条，`bank` 返回 1063 条，`银行` 返回 941 条，并可从中文结果跳转到 `/zh/banking/paypay-bank/`。本次没有引入数据库、后端或外部搜索 API。
+
 ### Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备
 
 #### 日本語記録 / English / 中文

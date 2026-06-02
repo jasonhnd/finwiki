@@ -24,7 +24,7 @@ const domains = [...byDomain.keys()].sort();
   {domains.map((d) => (
     <section id={d} class="dom">
       <h2>{domainName(d, lang)} <span class="dn">{byDomain.get(d)!.length}</span></h2>
-      <ul>
+      <ul data-pagefind-ignore>
         {byDomain.get(d)!.map((e) => (
           <li><a href={u(lang, e.id + '/')}>{e.data.title}</a></li>
         ))}

@@ -45,6 +45,10 @@ jobs:
       - name: Check duplicate HTML ids
         run: python tools/check_duplicate_html_ids.py site/dist
 
+      - name: Build static search index
+        working-directory: site
+        run: bun run index:search
+
       - name: Assemble publish dir
         run: |
           mkdir -p _site

@@ -13,22 +13,26 @@ const desc = description ?? t(lang, 'site.tagline');
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={desc} />
+    <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
+    <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
     <link rel="alternate" hreflang="ja" href={u('ja')} />
     <link rel="alternate" hreflang="en" href={u('en')} />
     <link rel="alternate" hreflang="zh" href={u('zh')} />
   </head>
   <body>
-    <header class="site-header">
+    <header class="site-header" data-pagefind-ignore>
       <a class="brand" href={u(lang)}>FinWiki</a>
       <nav class="site-nav">
         <a href={u(lang)}>{t(lang, 'nav.domains')}</a>
         <a href={u(lang, 'guide/')}>{t(lang, 'nav.guide')}</a>
         <a href={u(lang, 'matrices/')}>{t(lang, 'nav.matrices')}</a>
       </nav>
+      <pagefind-modal-trigger class="site-search" placeholder={t(lang, 'nav.search')} shortcut="mod+k"></pagefind-modal-trigger>
       <LangSwitcher lang={lang} />
     </header>
-    <main><slot /></main>
-    <footer class="site-footer">{t(lang, 'footer.note')}</footer>
+    <main data-pagefind-body><slot /></main>
+    <pagefind-modal reset-on-close></pagefind-modal>
+    <footer class="site-footer" data-pagefind-ignore>{t(lang, 'footer.note')}</footer>
     <script define:vars={{ base: import.meta.env.BASE_URL, lang }}>
       // wikilink は言語非依存で出力されるので、現在言語の href をクライアントで付与。
       // アンカー（browse/#domain）は末尾スラッシュを付けない。
@@ -59,6 +63,7 @@ const desc = description ?? t(lang, 'site.tagline');
       .site-nav { display: flex; gap: 1rem; margin-right: auto; }
       .site-nav a { text-decoration: none; color: var(--muted); font-size: 0.9rem; }
       .site-nav a:hover { color: var(--accent); }
+      .site-search { display: inline-flex; flex: 0 0 auto; }
       main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.5rem; }
       .site-footer { border-top: 1px solid var(--line); padding: 1.75rem 1.5rem; color: var(--muted); font-size: 0.8rem; text-align: center; }
     </style>
