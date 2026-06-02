@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../i18n/ui';
 import { domainName } from '../../i18n/domains';
+import { entryDomain } from '../../lib/routes';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -12,7 +13,7 @@ const { lang } = Astro.params as { lang: Lang };
 const all = await getCollection('entries');
 const counts = new Map<string, number>();
 for (const e of all) {
-  const d = e.id.split('/')[0];
+  const d = entryDomain(e);
   counts.set(d, (counts.get(d) ?? 0) + 1);
 }
 const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
@@ -24,13 +25,13 @@ const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
 
   <div class="stats">
     <a class="stat" href={u(lang, 'browse/')}><strong>{all.length}</strong> entries</a>
-    <span class="stat"><strong>{domains.length}</strong> domains</span>
+    <a class="stat" href={u(lang, 'domains/')}><strong>{domains.length}</strong> domains</a>
   </div>
 
   <h2 class="sec">{t(lang, 'nav.domains')}</h2>
   <div class="grid">
     {domains.map(([d, n]) => (
-      <a class="card" href={u(lang, `browse/#${d}`)}>
+      <a class="card" href={u(lang, `domains/${d.toLowerCase()}/`)}>
         <span class="d">{domainName(d, lang)}</span>
         <span class="n">{n}</span>
       </a>

@@ -12,10 +12,8 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 
 import { join, dirname } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask, unmask, verify } from './protect.mjs';
+import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 
-const HERE = import.meta.dir;
-const ENTRIES = join(HERE, '..', 'src', 'content', 'entries');
-const I18N = join(HERE, '..', 'src', 'content', 'i18n');
 const MODEL = process.env.FINWIKI_TRANSLATE_MODEL || 'claude-haiku-4-5-20251001';
 const TARGET = { en: 'English', zh: '简体中文 (Simplified Chinese)' };
 
@@ -44,7 +42,7 @@ function* walk(dir, rel = '') {
   for (const e of readdirSync(dir, { withFileTypes: true })) {
     const r = rel ? `${rel}/${e.name}` : e.name;
     if (e.isDirectory()) yield* walk(join(dir, e.name), r);
-    else if (e.name.endsWith('.md')) yield r;
+    else if (e.name.endsWith('.md') && e.name !== 'INDEX.md') yield r;
   }
 }
 
@@ -95,10 +93,10 @@ async function translateProtected(text, lang) {
 async function main() {
   let done = 0;
   let reviews = 0;
-  for (const rel of walk(ENTRIES)) {
+  for (const rel of walkEntries(walk)) {
     if (done >= LIMIT) break;
-    if (ONLY_DOMAIN && !rel.startsWith(ONLY_DOMAIN + '/')) continue;
-    const [fm, body] = splitFm(readFileSync(join(ENTRIES, rel), 'utf8'));
+    if (ONLY_DOMAIN && !rel.toLowerCase().startsWith(ONLY_DOMAIN.toLowerCase() + '/')) continue;
+    const [fm, body] = splitFm(readFileSync(join(REPO, rel), 'utf8'));
     const title = fmTitle(fm);
     const h = sha(body);
     for (const lang of LANGS) {

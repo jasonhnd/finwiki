@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { domainNames } from '../i18n/domains';
+import { entryDomain } from '../lib/routes';
 
 const entries = await getCollection('entries');
 const translations = await getCollection('i18n');
@@ -8,7 +9,7 @@ const translations = await getCollection('i18n');
 const counts = new Map<string, number>();
 const knownDomains = new Set(Object.keys(domainNames));
 for (const entry of entries) {
-  const domain = entry.id.split('/')[0].toLowerCase();
+  const domain = entryDomain(entry);
   if (!knownDomains.has(domain)) continue;
   counts.set(domain, (counts.get(domain) ?? 0) + 1);
 }
@@ -173,7 +174,7 @@ const updatedAt = new Intl.DateTimeFormat('en-US', {
         </div>
         <div class="domain-grid" aria-label="Featured domains">
           {featured.map(({ domain, count, ja, en, zh, tone }) => (
-            <a class={`domain-tile tone-${tone}`} href={`/ja/browse/#${domain}`}>
+            <a class={`domain-tile tone-${tone}`} href={`/ja/domains/${domain}/`}>
               <span>{ja}</span>
               <strong>{en}</strong>
               <em>{zh}</em>

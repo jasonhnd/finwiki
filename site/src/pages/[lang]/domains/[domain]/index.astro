@@ -1,0 +1,78 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
+import { domainName } from '../../../../i18n/domains';
+import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('entries');
+  const domains = [...new Set(entries.map((entry) => entryDomain(entry)))].sort();
+  return langCodes.flatMap((lang) =>
+    domains.map((domain) => ({
+      params: { lang, domain },
+      props: { lang: lang as Lang, domain },
+    })),
+  );
+}
+
+const { lang, domain } = Astro.props as { lang: Lang; domain: string };
+const entries = (await getCollection('entries'))
+  .filter((entry) => entryDomain(entry) === domain)
+  .sort(compareEntryRoute);
+
+const translations = await getCollection('i18n');
+const translationMap = new Map(translations.map((entry) => [entry.id, entry]));
+
+function entryTitle(entry: (typeof entries)[number]): string {
+  const translated = translationMap.get(i18nEntryId(lang, entry));
+  return String(translated?.data?.title || entry.data.title || entryRoute(entry));
+}
+
+const translatedCount = entries.filter((entry) => translationMap.has(i18nEntryId(lang, entry))).length;
+---
+<Base lang={lang} title={domainName(domain, lang)}>
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
+    <span>/</span>
+    <span>{domainName(domain, lang)}</span>
+  </nav>
+
+  <section class="domain-head">
+    <p class="kicker">{domain}</p>
+    <h1>{domainName(domain, lang)}</h1>
+    <div class="stats">
+      <span><strong>{entries.length.toLocaleString('en-US')}</strong> entries</span>
+      <span><strong>{translatedCount.toLocaleString('en-US')}</strong> translated in this language</span>
+    </div>
+  </section>
+
+  <section class="entry-list" aria-labelledby="entries-title">
+    <h2 id="entries-title">{t(lang, 'nav.browse')}</h2>
+    <ol>
+      {entries.map((entry) => (
+        <li>
+          <a href={u(lang, `${entryRoute(entry)}/`)}>{entryTitle(entry)}</a>
+          <span>{entryRoute(entry)}</span>
+        </li>
+      ))}
+    </ol>
+  </section>
+</Base>
+
+<style>
+  .breadcrumbs { display: flex; flex-wrap: wrap; gap: 0.35rem; color: var(--muted); font-size: 0.85rem; margin-bottom: 1.4rem; }
+  .breadcrumbs a { color: var(--accent); text-decoration: none; }
+  .domain-head { margin-bottom: 1.5rem; }
+  .kicker { color: var(--accent); font-size: 0.8rem; font-weight: 700; margin: 0 0 0.2rem; text-transform: uppercase; }
+  h1 { font-size: clamp(1.7rem, 1.2rem + 2vw, 2.35rem); margin: 0; }
+  .stats { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.8rem; }
+  .stats span { border: 1px solid var(--line); border-radius: 8px; padding: 0.35rem 0.7rem; color: var(--muted); font-size: 0.85rem; }
+  .stats strong { color: var(--accent); }
+  .entry-list h2 { font-size: 1.15rem; margin: 1.8rem 0 0.7rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
+  .entry-list ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.45rem; }
+  .entry-list li { border: 1px solid var(--line); border-radius: 8px; padding: 0.65rem 0.75rem; background: var(--soft); }
+  .entry-list a { display: block; color: var(--fg); text-decoration: none; font-weight: 650; }
+  .entry-list a:hover { color: var(--accent); }
+  .entry-list span { display: block; margin-top: 0.15rem; color: var(--muted); font-size: 0.78rem; word-break: break-all; }
+</style>

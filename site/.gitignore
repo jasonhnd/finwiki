@@ -2,6 +2,7 @@ node_modules/
 dist/
 .astro/
 .cache/
+# Deprecated generated mirror; Astro now reads the root corpus directly.
 src/content/entries/
 .DS_Store
 *.log

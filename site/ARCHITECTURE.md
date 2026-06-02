@@ -5,6 +5,51 @@
 
 ---
 
+## 0. 当前有效静态架构（2026-06-02 Phase 1）
+
+本节是当前实现事实。下方旧草案中的 `site/src/content/entries` mirror、`postbuild-search.ts`、Python AI surface 切分、以及 4140 / 4147 pages 估算均按历史设计记录理解；当前构建以这里为准。
+
+### 0.1 数据源
+
+- canonical corpus 是 repository root 下的 23 个 domain 目录，例如 `banking/`、`exchanges/`、`security/`、`systems/`。
+- Astro `entries` collection 通过 `glob({ base: '../' })` 直接读取 root domain corpus，并排除 `INDEX.md`。
+- `site/src/content/entries/` 只保留为 deprecated generated mirror；它不再是 build input，也不再需要 build-time sync。
+- 翻译仍在 `site/src/content/i18n/{zh,en}/<domain>/<slug>.md`，缺译时页面 fallback 到日文原文。
+
+### 0.2 路由契约
+
+- 所有 entry URL 由 `site/src/lib/routes.ts` 统一生成：`entryRoute()`、`entryDomain()`、`i18nEntryId()`。
+- 这样可以避免 frontmatter `slug` 被 Astro collection 当作 flat `id` 后造成错误路径。
+- 规范 entry URL 是 `/{lang}/{domain}/{slug}/`，domain landing URL 是 `/{lang}/domains/{domain}/`。
+- root cover page 是 `/`，三语首页是 `/ja/`、`/en/`、`/zh/`，全量浏览页是 `/{lang}/browse/`。
+
+### 0.3 Wikilink 与索引
+
+- `site/src/lib/siteIndex.mjs` 从 root corpus 构建 alias / path / stem resolver，`remark-wikilink` 在渲染时直接输出静态 `href`。
+- `site/src/plugins/localize-wikilinks.mjs` 在 `astro:build:done` 阶段把 en / zh HTML 中的 wikilink href 本地化到当前语言，避免浏览器端二次改写。
+- `Pagefind` 仍是静态全文检索。build 后索引 `site/dist`，不引入数据库、SSR 或外部 search API。
+
+### 0.4 构建与发布管线
+
+当前 root build gate 是：
+
+```bash
+bun tools/vercel_build.ts
+```
+
+它串联执行 wikilink audit、release strict check、Astro build、duplicate HTML id check、Pagefind index、以及 `_vercel_public` 静态发布组装。GitHub Pages 与 Vercel 使用同一套 Bun pipeline。
+
+当前验证基线：
+
+- Astro rendered pages: 4219
+- Domain landing pages: ja / en / zh 各 23 个
+- Duplicate HTML ids: 0
+- Wikilink audit: entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0
+- Pagefind: 4219 pages / 3 languages / 132788 words
+- Static publish assembly: astro_files=8846 / root_surface_files=2838
+
+---
+
 ## 1. 技术栈
 
 | 层 | 选型 | 理由 |

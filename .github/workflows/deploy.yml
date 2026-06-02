@@ -34,10 +34,6 @@ jobs:
         working-directory: site
         run: bun install
 
-      - name: Sync corpus into site
-        working-directory: site
-        run: bun scripts/sync-corpus.ts
-
       - name: Build human site
         working-directory: site
         run: bun run build

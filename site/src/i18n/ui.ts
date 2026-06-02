@@ -10,8 +10,10 @@ export const ui = {
     'site.title': 'FinWiki — 金融ナレッジグラフ',
     'site.tagline': '公開一次情報にもとづく、三言語・AI 可読の金融事実ベース。',
     'nav.domains': '領域マップ',
+    'nav.browse': '全項目',
     'nav.guide': '読み方ガイド',
     'nav.matrices': '比較マトリクス',
+    'nav.ai': 'AI surface',
     'nav.search': '検索',
     'home.intro':
       'FinWiki は日本と世界の金融機関・制度・市場構造を、出典付きで構造化した公開ナレッジベースです。本サイトは精選した中核項目を三言語で読める「人間版」と、AI 向けの機械可読 surface を同一サイトで配信します。',
@@ -24,8 +26,10 @@ export const ui = {
     'site.title': 'FinWiki — Financial Knowledge Graph',
     'site.tagline': 'A trilingual, AI-readable financial fact base built on public primary sources.',
     'nav.domains': 'Domain map',
+    'nav.browse': 'All entries',
     'nav.guide': 'Reading guide',
     'nav.matrices': 'Comparison matrices',
+    'nav.ai': 'AI surface',
     'nav.search': 'Search',
     'home.intro':
       'FinWiki is a public knowledge base that structures Japanese and global financial institutions, regimes, and market plumbing with sourced facts. This site serves a curated trilingual "human edition" of the core entries and machine-readable AI surfaces from one unified site.',
@@ -38,8 +42,10 @@ export const ui = {
     'site.title': 'FinWiki — 金融知识图谱',
     'site.tagline': '基于公开一手信源的三语、AI 可读金融事实库。',
     'nav.domains': '领域地图',
+    'nav.browse': '全部条目',
     'nav.guide': '阅读指南',
     'nav.matrices': '对照矩阵',
+    'nav.ai': 'AI surface',
     'nav.search': '搜索',
     'home.intro':
       'FinWiki 是一个公开知识库，用带出处的事实结构化呈现日本与全球的金融机构、制度与市场基础设施。本站在同一站点上同时提供：面向人类、精选并三语化的「人类版」，以及面向 AI 的机器可读 surface。',

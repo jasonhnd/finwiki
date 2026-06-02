@@ -1,0 +1,57 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { t, u, langCodes, type Lang } from '../../../i18n/ui';
+import { domainName } from '../../../i18n/domains';
+import { entryDomain } from '../../../lib/routes';
+
+export function getStaticPaths() {
+  return langCodes.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const entries = await getCollection('entries');
+const counts = new Map<string, number>();
+
+for (const entry of entries) {
+  const domain = entryDomain(entry);
+  counts.set(domain, (counts.get(domain) ?? 0) + 1);
+}
+
+const domains = [...counts.entries()].sort((left, right) => {
+  if (right[1] !== left[1]) return right[1] - left[1];
+  return left[0].localeCompare(right[0]);
+});
+---
+<Base lang={lang} title={t(lang, 'nav.domains')}>
+  <section class="domains-head">
+    <p class="kicker">{t(lang, 'nav.domains')}</p>
+    <h1>{t(lang, 'nav.domains')}</h1>
+    <p>{entries.length.toLocaleString('en-US')} entries across {domains.length} domains.</p>
+  </section>
+
+  <div class="domain-grid">
+    {domains.map(([domain, count]) => (
+      <a class="domain-card" href={u(lang, `domains/${domain}/`)}>
+        <span>{domainName(domain, lang)}</span>
+        <strong>{count.toLocaleString('en-US')}</strong>
+      </a>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .domains-head { margin-bottom: 1.5rem; }
+  .kicker { color: var(--accent); font-size: 0.8rem; font-weight: 700; margin: 0 0 0.2rem; text-transform: uppercase; }
+  h1 { font-size: clamp(1.7rem, 1.2rem + 2vw, 2.35rem); margin: 0; }
+  .domains-head p:last-child { color: var(--muted); margin: 0.4rem 0 0; }
+  .domain-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.65rem; }
+  .domain-card {
+    display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+    border: 1px solid var(--line); border-radius: 8px; background: var(--soft);
+    padding: 0.75rem 0.85rem; color: var(--fg); text-decoration: none;
+  }
+  .domain-card:hover { border-color: var(--accent); }
+  .domain-card span { font-weight: 650; }
+  .domain-card strong { color: var(--accent); font-size: 0.95rem; }
+</style>
