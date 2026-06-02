@@ -8,6 +8,7 @@ aliases:
   - "Japan equity, bond, derivative market map"
   - "日本資本市場エコシステム概要"
   - "日本資本市場概要"
+  - "JapanFG/jiipf"
 domain: securities
 created: 2026-05-25
 last_updated: 2026-05-25

@@ -1,6 +1,14 @@
 ---
 title: SMBC 日興証券 (SMBC Nikko Securities)
-aliases: ["SMBC Nikko Securities", "SMBC 日興証券株式会社", "SMBC Nikko", "日興コーディアル証券", "Nikko Cordial Securities", "日興証券", "Nikko Securities"]
+aliases:
+  - "SMBC Nikko Securities"
+  - "SMBC 日興証券株式会社"
+  - "SMBC Nikko"
+  - "日興コーディアル証券"
+  - "Nikko Cordial Securities"
+  - "日興証券"
+  - "Nikko Securities"
+  - "JapanFG/smbc-nikko-securities"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

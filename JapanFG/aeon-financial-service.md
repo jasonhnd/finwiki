@@ -1,6 +1,11 @@
 ---
 title: "イオンフィナンシャルサービス (AEON Financial Service)"
-aliases: ["AEON Financial Service", "イオンフィナンシャルサービス", "イオンフィナンシャルサービス株式会社", "AFS"]
+aliases:
+  - "AEON Financial Service"
+  - "イオンフィナンシャルサービス"
+  - "イオンフィナンシャルサービス株式会社"
+  - "AFS"
+  - "JapanFG/aeon-card"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

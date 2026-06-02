@@ -1,6 +1,12 @@
 ---
 title: MS&AD インシュアランス グループ ホールディングス
-aliases: ["MS&AD", "MS&AD Insurance Group Holdings", "MS&AD HD", "エムエスアンドエーディー", "8725"]
+aliases:
+  - "MS&AD"
+  - "MS&AD Insurance Group Holdings"
+  - "MS&AD HD"
+  - "エムエスアンドエーディー"
+  - "8725"
+  - "JapanFG/ms-ad"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

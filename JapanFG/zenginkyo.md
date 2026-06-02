@@ -9,6 +9,7 @@ aliases:
   - "全国銀行協会"
   - "全銀協"
   - "JBA"
+  - "JapanFG/jbatibor"
 domain: JapanFG
 created: 2026-05-24
 last_updated: 2026-05-24

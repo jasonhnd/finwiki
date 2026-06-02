@@ -13,7 +13,8 @@
     "aliases": [
       "Daiwa Asset Management",
       "大和アセットマネジメント",
-      "大和アセットマネジメント株式会社"
+      "大和アセットマネジメント株式会社",
+      "JapanFG/daiwa-am"
     ],
     "domain": "JapanFG",
     "created": "2026-05-20",
@@ -71,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1611,
-    "word_like_tokens": 237,
+    "nonspace_chars": 1629,
+    "word_like_tokens": 240,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

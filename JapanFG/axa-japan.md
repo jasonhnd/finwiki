@@ -1,6 +1,14 @@
 ---
 title: アクサ・ジャパン (AXA Japan)
-aliases: ["AXA Japan", "アクサジャパンホールディング", "アクサ生命", "アクサ損保", "アクサダイレクト生命", "AXA Life Insurance Japan", "AXA Direct"]
+aliases:
+  - "AXA Japan"
+  - "アクサジャパンホールディング"
+  - "アクサ生命"
+  - "アクサ損保"
+  - "アクサダイレクト生命"
+  - "AXA Life Insurance Japan"
+  - "AXA Direct"
+  - "insurance/axa-direct"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19

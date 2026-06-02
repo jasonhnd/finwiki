@@ -1,6 +1,12 @@
 ---
 title: 農林中央金庫 (Norinchukin Bank)
-aliases: ["農林中金", "農中", "Norinchukin", "The Norinchukin Bank", "Nochu"]
+aliases:
+  - "農林中金"
+  - "農中"
+  - "Norinchukin"
+  - "The Norinchukin Bank"
+  - "Nochu"
+  - "JapanFG/nochu-securities"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

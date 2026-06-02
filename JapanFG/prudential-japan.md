@@ -1,6 +1,16 @@
 ---
 title: プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)
-aliases: ["Prudential Japan", "プルデンシャル生命", "プルデンシャル・ホールディング・オブ・ジャパン", "ジブラルタ生命", "Gibraltar Life", "PGF生命", "プルデンシャル ジブラルタ ファイナンシャル生命", "Prudential of Japan"]
+aliases:
+  - "Prudential Japan"
+  - "プルデンシャル生命"
+  - "プルデンシャル・ホールディング・オブ・ジャパン"
+  - "ジブラルタ生命"
+  - "Gibraltar Life"
+  - "PGF生命"
+  - "プルデンシャル ジブラルタ ファイナンシャル生命"
+  - "Prudential of Japan"
+  - "JapanFG/kyoei-life"
+  - "JapanFG/prudential-life-japan"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

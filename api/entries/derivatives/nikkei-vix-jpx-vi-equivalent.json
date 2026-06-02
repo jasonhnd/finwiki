@@ -18,7 +18,8 @@
       "日経平均ボラティリティー・インデックス",
       "日経VI",
       "Japan VIX equivalent",
-      "Nikkei implied volatility index"
+      "Nikkei implied volatility index",
+      "derivatives/nikkei-vix-and-volatility"
     ],
     "domain": "derivatives",
     "created": "2026-05-25",
@@ -119,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16342,
-    "word_like_tokens": 2751,
+    "nonspace_chars": 16382,
+    "word_like_tokens": 2756,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

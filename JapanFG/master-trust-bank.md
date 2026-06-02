@@ -1,6 +1,13 @@
 ---
 title: 日本マスタートラスト信託銀行
-aliases: ["Master Trust Bank", "MTBJ", "The Master Trust Bank of Japan", "日本マスタートラスト信託銀行", "マスタートラスト", "Master Trust"]
+aliases:
+  - "Master Trust Bank"
+  - "MTBJ"
+  - "The Master Trust Bank of Japan"
+  - "日本マスタートラスト信託銀行"
+  - "マスタートラスト"
+  - "Master Trust"
+  - "JapanFG/master-trust-bank-of-japan"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

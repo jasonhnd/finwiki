@@ -1,6 +1,11 @@
 ---
 title: "三菱UFJ信託銀行 (MUTB)"
-aliases: ["MUTB", "Mitsubishi UFJ Trust and Banking", "三菱UFJ信託銀行", "三菱UFJ信託銀行株式会社"]
+aliases:
+  - "MUTB"
+  - "Mitsubishi UFJ Trust and Banking"
+  - "三菱UFJ信託銀行"
+  - "三菱UFJ信託銀行株式会社"
+  - "JapanFG/mitsubishi-ufj-trust"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

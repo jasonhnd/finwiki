@@ -6,6 +6,8 @@ aliases:
   - "Japan FX hedge ratio"
   - "Japan interest rate swap policy"
   - "日本 corporate hedge policy"
+  - "derivatives/corporate-fx-hedge-instruments"
+  - "finance/japan-corporate-treasury-and-cash-management"
 domain: finance
 created: 2026-05-25
 last_updated: 2026-05-25

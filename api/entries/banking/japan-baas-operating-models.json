@@ -13,7 +13,8 @@
     "aliases": [
       "Japan BaaS operating models",
       "BaaS operating models Japan",
-      "日本 BaaS operating models"
+      "日本 BaaS operating models",
+      "banking/baas-rakuten-jre-bank"
     ],
     "domain": "banking",
     "created": "2026-05-22",
@@ -95,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6208,
-    "word_like_tokens": 983,
+    "nonspace_chars": 6240,
+    "word_like_tokens": 988,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-02"
   }
 }

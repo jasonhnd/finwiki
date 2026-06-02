@@ -14,16 +14,16 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1462 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1463 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` が確認する public wiki entries |
-| Unresolved link issues | 0 | body route / peer / system link audit の未解決 issue |
-| Text volume | 約990万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,896,519） |
-| Word-like tokens | 約157万 | English / CJK mixed corpus の近似 token count |
+| Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
+| Text volume | 約992万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,915,336） |
+| Word-like tokens | 約158万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-02 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と GitHub Pages 配信後に確認します。
 
-> i18n / 語彙品質 / CI 品質: 2026-06-01 JST の GPT 翻訳完了後、`site/src/content/i18n` は zh 1380 / en 1380 ファイルです。v2026.06.01-7 では 10 並列 GPT/Codex worker による日英中語彙監査・修復・最終 polish を実施し、大学学部水準を超える専門語彙へ寄せました。v2026.06.02 では Astro build 後の duplicate HTML id gate を追加し、`site/dist` 4147 pages を checked=4147 / duplicate_ids=0 で確認しました。GitHub Actions は `actions/checkout@v6`、`actions/upload-pages-artifact@v5`、`actions/deploy-pages@v5` へ更新し、Node.js 24 runtime 系へ寄せています。v2026.06.02-2 では deploy step に限定して Node deprecation notice を抑制し、上流 action 由来の `punycode` warning も公開ログから除去します。v2026.06.02-3 では残存していた `fidelity: needs_review` 54 件を 10 並列 GPT/Codex worker と手動検証で 0 件まで解消し、QZX placeholder 破損と mojibake 残差を修復しました。
+> i18n / 語彙品質 / CI 品質: 2026-06-01 JST の GPT 翻訳完了後、`site/src/content/i18n` は zh 1380 / en 1380 ファイルです。v2026.06.01-7 では 10 並列 GPT/Codex worker による日英中語彙監査・修復・最終 polish を実施し、大学学部水準を超える専門語彙へ寄せました。v2026.06.02 では Astro build 後の duplicate HTML id gate を追加し、`site/dist` 4147 pages を checked=4147 / duplicate_ids=0 で確認しました。GitHub Actions は `actions/checkout@v6`、`actions/upload-pages-artifact@v5`、`actions/deploy-pages@v5` へ更新し、Node.js 24 runtime 系へ寄せています。v2026.06.02-2 では deploy step に限定して Node deprecation notice を抑制し、上流 action 由来の `punycode` warning も公開ログから除去します。v2026.06.02-3 では残存していた `fidelity: needs_review` 54 件を 10 並列 GPT/Codex worker と手動検証で 0 件まで解消し、QZX placeholder 破損と mojibake 残差を修復しました。v2026.06.02-4 では wikilink target 実在性 gate を追加し、agent の過大な `*/INDEX` 置換を戻したうえで 144 件の明示 alias と 7 件の非金融背景リンク plain text 化により entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0 を確認しました。
 
 ### 🚪 まず見る場所
 
@@ -36,7 +36,7 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 | [ai-index.json](ai-index.json) | programmatic traversal / retrieval 用の machine-readable JSON manifest。 |
 | [sitemap.xml](sitemap.xml), [robots.txt](robots.txt) | crawler / search engine / AI browser 向けの discoverability surface。 |
 | [SCHEMA.md](SCHEMA.md) | wiki エントリーの構造、frontmatter、管理ルール。 |
-| [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 本文内 `[[wikilink]]` の密度と、経路・同格・制度背景リンクの監査レポート。 |
+| [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 本文内 `[[wikilink]]` の密度、経路・同格・制度背景リンク、dead target 実在性の監査レポート。 |
 | [OBSIDIAN-SETUP.md](OBSIDIAN-SETUP.md) | Obsidian で読む・検索するための汎用セットアップ。 |
 | [CHANGELOG.md](CHANGELOG.md) | 詳細な作業履歴、同期記録、変更理由、検証結果。 |
 | [AGENTS.md](AGENTS.md) | agent / Codex がこのリポジトリで守る運用ルール。 |
@@ -82,7 +82,7 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 4. 個人情報や非公開情報を含む可能性がある内容は、公開面に載せる前に削除または公開情報だけに書き換えます。
 5. `origin/main` へ push するたびに、詳細な `README.md` / `CHANGELOG.md` / Releases の更新を同時に行います。
 6. 同期前後には `git status --short --branch` とリモート HEAD を確認します。
-7. push 前に `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` を実行し、本文内の経路・同格・制度背景リンクに未解決 issue を残しません。
+7. push 前に `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` を実行し、本文内の経路・同格・制度背景リンクと全 wikilink target 実在性に未解決 issue を残しません。
 8. wiki 内容、索引、領域数、公開スナップショットを更新した場合は、同じ作業内で root `index.html` も現在の内容地図として更新します。
 9. wiki 内容、索引、領域数、公開スナップショットを更新した場合は、同じ作業内で `python3 tools/generate_ai_discovery.py` を実行し、`robots.txt`、`sitemap.xml`、`llms.txt`、`llms-full.txt`、`ai-index.json` を同期します。
 
@@ -139,16 +139,16 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1462 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1463 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.py` |
-| Unresolved link issues | 0 | Open body route / peer / system-link audit issues |
-| Text volume | ~9.90M chars | ~9,896,519 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.57M | Approximate English / CJK mixed-corpus token count |
+| Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
+| Text volume | ~9.92M chars | ~9,915,336 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.58M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-02 JST. Public-site reflection is verified after push to `origin/main` and GitHub Pages deployment.
 
-> i18n / lexical / CI quality: after the 2026-06-01 JST GPT translation completion, `site/src/content/i18n` contains 1380 zh files and 1380 en files. v2026.06.01-7 ran 10 parallel GPT/Codex workers for Japanese / English / Chinese lexical audit, repair, and final polish, raising wording toward post-undergraduate specialist register. v2026.06.02 adds a rendered HTML duplicate-id gate after Astro build; the local `site/dist` scan checked 4147 pages with duplicate_ids=0. GitHub Actions now uses `actions/checkout@v6`, `actions/upload-pages-artifact@v5`, and `actions/deploy-pages@v5` on the Node.js 24 runtime generation. v2026.06.02-2 scopes Node deprecation suppression to the deploy step so the upstream `punycode` warning no longer appears in public deployment logs. v2026.06.02-3 clears the remaining 54 `fidelity: needs_review` i18n files to 0 through 10 parallel GPT/Codex workers plus manual verification, including QZX placeholder corruption and mojibake-residue repairs.
+> i18n / lexical / CI quality: after the 2026-06-01 JST GPT translation completion, `site/src/content/i18n` contains 1380 zh files and 1380 en files. v2026.06.01-7 ran 10 parallel GPT/Codex workers for Japanese / English / Chinese lexical audit, repair, and final polish, raising wording toward post-undergraduate specialist register. v2026.06.02 adds a rendered HTML duplicate-id gate after Astro build; the local `site/dist` scan checked 4147 pages with duplicate_ids=0. GitHub Actions now uses `actions/checkout@v6`, `actions/upload-pages-artifact@v5`, and `actions/deploy-pages@v5` on the Node.js 24 runtime generation. v2026.06.02-2 scopes Node deprecation suppression to the deploy step so the upstream `punycode` warning no longer appears in public deployment logs. v2026.06.02-3 clears the remaining 54 `fidelity: needs_review` i18n files to 0 through 10 parallel GPT/Codex workers plus manual verification, including QZX placeholder corruption and mojibake-residue repairs. v2026.06.02-4 adds wikilink target-existence gating, reverts overbroad agent-generated `*/INDEX` replacements, then resolves the graph with 144 explicit aliases and 7 non-financial background links converted to plain text; the final audit reports entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0.
 
 ### 🚪 Primary Entrances
 
@@ -161,7 +161,7 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 | [ai-index.json](ai-index.json) | Machine-readable JSON manifest for programmatic traversal and retrieval. |
 | [sitemap.xml](sitemap.xml), [robots.txt](robots.txt) | Discoverability surface for crawlers, search engines, and AI browsers. |
 | [SCHEMA.md](SCHEMA.md) | Schema for wiki entries, frontmatter guidelines, and maintenance conventions. |
-| [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | Audit report for body `[[wikilink]]` density plus route / peer / system links. |
+| [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | Audit report for body `[[wikilink]]` density, route / peer / system links, and dead-target existence. |
 | [OBSIDIAN-SETUP.md](OBSIDIAN-SETUP.md) | Generic setup guide for reading and searching in Obsidian. |
 | [CHANGELOG.md](CHANGELOG.md) | Detailed timeline of operations, sync logs, and validation results. |
 | [AGENTS.md](AGENTS.md) | Local agent rules and constraints in this repository. |
@@ -205,7 +205,7 @@ The public site is deployed via GitHub Pages at: [finwiki.zksc.io](http://finwik
 2. **Maintenance synchrony:** README, CHANGELOG, and Releases are kept fully consistent.
 3. **Snapshot releases:** Push commits trigger updating of the release notes file and the corresponding GitHub Release.
 4. **Privacy filtration:** Ensure all private and local variables are completely stripped before pushing.
-5. **Wiki graph check:** Before push, run `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` and leave no unresolved body route / peer / system link issue.
+5. **Wiki graph check:** Before push, run `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` and leave no unresolved body route / peer / system or dead-target issue.
 6. **Homepage synchrony:** When wiki content, indexes, domain counts, or public snapshots change, update root `index.html` in the same work as the current content map.
 7. **AI discovery synchrony:** When wiki content, indexes, domain counts, or public snapshots change, run `python3 tools/generate_ai_discovery.py` and update `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, and `ai-index.json` in the same work.
 
@@ -249,16 +249,16 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1462 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1463 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.py` 覆盖的 public wiki entries |
-| Unresolved link issues | 0 | body route / peer / system link audit 的未解决 issue |
-| Text volume | 约990万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,896,519） |
-| Word-like tokens | 约157万 | English / CJK mixed corpus 的近似 token count |
+| Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
+| Text volume | 约992万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,915,336） |
+| Word-like tokens | 约158万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-02 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成 GitHub Pages 配信后确认。
 
-> i18n / 词汇质量 / CI 质量：2026-06-01 JST 的 GPT 翻译完成后，`site/src/content/i18n` 为 zh 1380 / en 1380 文件。v2026.06.01-7 已用 10 路并行 GPT/Codex worker 完成日 / 英 / 中词汇审计、修复和最终 polish，把措辞推向超过大学本科层级的专业语域。v2026.06.02 增加 Astro build 后的 duplicate HTML id gate；本地 `site/dist` 扫描 checked=4147 / duplicate_ids=0。GitHub Actions 已更新到 `actions/checkout@v6`、`actions/upload-pages-artifact@v5`、`actions/deploy-pages@v5`，对应 Node.js 24 runtime 世代。v2026.06.02-2 仅在 deploy step 范围内抑制 Node deprecation notice，清掉上游 action 的 `punycode` warning 日志噪音。v2026.06.02-3 已用 10 路并行 GPT/Codex worker 加人工核验，把剩余 54 个 `fidelity: needs_review` i18n 文件清到 0，并修复 QZX placeholder 破损与 mojibake 残留。
+> i18n / 词汇质量 / CI 质量：2026-06-01 JST 的 GPT 翻译完成后，`site/src/content/i18n` 为 zh 1380 / en 1380 文件。v2026.06.01-7 已用 10 路并行 GPT/Codex worker 完成日 / 英 / 中词汇审计、修复和最终 polish，把措辞推向超过大学本科层级的专业语域。v2026.06.02 增加 Astro build 后的 duplicate HTML id gate；本地 `site/dist` 扫描 checked=4147 / duplicate_ids=0。GitHub Actions 已更新到 `actions/checkout@v6`、`actions/upload-pages-artifact@v5`、`actions/deploy-pages@v5`，对应 Node.js 24 runtime 世代。v2026.06.02-2 仅在 deploy step 范围内抑制 Node deprecation notice，清掉上游 action 的 `punycode` warning 日志噪音。v2026.06.02-3 已用 10 路并行 GPT/Codex worker 加人工核验，把剩余 54 个 `fidelity: needs_review` i18n 文件清到 0，并修复 QZX placeholder 破损与 mojibake 残留。v2026.06.02-4 增加 wikilink target 实在性 gate，先回滚 agent 过度生成的 `*/INDEX` 替换，再用 144 个显式 alias 和 7 个非金融背景链接 plain text 化把图谱修到 entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0。
 
 ### 🚪 优先入口
 
@@ -271,7 +271,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 | [ai-index.json](ai-index.json) | 供程序化遍历和检索使用的 machine-readable JSON manifest。 |
 | [sitemap.xml](sitemap.xml), [robots.txt](robots.txt) | 面向 crawler、search engine、AI browser 的 discoverability surface。 |
 | [SCHEMA.md](SCHEMA.md) | wiki 条目的结构、frontmatter 与管理规则。 |
-| [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 正文 `[[wikilink]]` 密度，以及路径、同类项、制度背景链接的审计报告。 |
+| [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md) | 正文 `[[wikilink]]` 密度、路径、同类项、制度背景链接与 dead target 实在性的审计报告。 |
 | [OBSIDIAN-SETUP.md](OBSIDIAN-SETUP.md) | 在 Obsidian 中阅读和搜索的通用设置说明。 |
 | [CHANGELOG.md](CHANGELOG.md) | 详细工作历史、同步记录、变更原因和验证结果。 |
 | [AGENTS.md](AGENTS.md) | agent / Codex 在本仓库必须遵守的本地规则。 |
@@ -317,7 +317,7 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 4. 任何可能包含个人信息或非公开信息的内容，发布前必须删除，或改写成只基于公开信息的版本。
 5. 每次 push 到 `origin/main`，都必须同步更新详细的 `README.md` / `CHANGELOG.md` / Releases。
 6. 同步前后都要检查 `git status --short --branch` 与远端 HEAD。
-7. push 前执行 `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`，不留下正文路径、同类项、制度背景链接的未解决 issue。
+7. push 前执行 `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues`，不留下正文路径、同类项、制度背景链接或 wikilink target 实在性的未解决 issue。
 8. 今后每次更新 wiki 内容、索引、领域数量或公开快照时，必须在同一轮工作里同步更新根目录 `index.html`，把它重写为最新内容地图。
 9. 今后每次更新 wiki 内容、索引、领域数量或公开快照时，必须在同一轮工作里执行 `python3 tools/generate_ai_discovery.py`，同步更新 `robots.txt`、`sitemap.xml`、`llms.txt`、`llms-full.txt`、`ai-index.json`。
 

@@ -18,7 +18,8 @@
       "Japan equity-linked note retail",
       "Japan reverse convertible retail",
       "Japan currency-linked deposit",
-      "FSA suitability crackdown structured bond"
+      "FSA suitability crackdown structured bond",
+      "derivatives/japan-structured-bonds"
     ],
     "domain": "derivatives",
     "created": "2026-05-25",
@@ -121,9 +122,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13999,
-    "word_like_tokens": 2087,
+    "nonspace_chars": 14036,
+    "word_like_tokens": 2091,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

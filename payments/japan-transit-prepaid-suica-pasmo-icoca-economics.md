@@ -6,6 +6,11 @@ aliases:
   - "Suica PASMO ICOCA transit prepaid"
   - "10 IC mutual-use prepaid scheme"
   - "FeliCa transit prepaid Japan"
+  - "JapanFG/jr-central"
+  - "JapanFG/jr-hokkaido"
+  - "JapanFG/jr-kyushu"
+  - "JapanFG/jr-west"
+  - "payments/suica-pasmo-fares"
 domain: payments
 created: 2026-05-25
 last_updated: 2026-05-25

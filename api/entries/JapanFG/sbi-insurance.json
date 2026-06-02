@@ -14,7 +14,8 @@
       "SBI損保",
       "SBI Insurance",
       "SBI Non-life",
-      "SBI損害保険株式会社"
+      "SBI損害保険株式会社",
+      "insurance/saa"
     ],
     "domain": "JapanFG",
     "created": "2026-05-21",
@@ -78,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1992,
-    "word_like_tokens": 318,
+    "nonspace_chars": 2007,
+    "word_like_tokens": 320,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

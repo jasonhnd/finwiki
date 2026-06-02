@@ -15,7 +15,8 @@
       "Sony Group Finance Arm",
       "Sony Financial Holdings parent context",
       "ソニー金融事業",
-      "ソニーグループ金融セグメント"
+      "ソニーグループ金融セグメント",
+      "JapanFG/sony-finance"
     ],
     "domain": "manufacturing",
     "created": "2026-05-25",
@@ -89,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5271,
-    "word_like_tokens": 774,
+    "nonspace_chars": 5294,
+    "word_like_tokens": 777,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

@@ -1,6 +1,12 @@
 ---
 title: マニュライフ生命保険 (Manulife Life Insurance Japan)
-aliases: ["マニュライフ生命", "Manulife Japan", "Manulife Life Insurance", "旧 第百生命", "旧 マニュライフ・センチュリー生命"]
+aliases:
+  - "マニュライフ生命"
+  - "Manulife Japan"
+  - "Manulife Life Insurance"
+  - "旧 第百生命"
+  - "旧 マニュライフ・センチュリー生命"
+  - "JapanFG/dai-hyaku-life"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

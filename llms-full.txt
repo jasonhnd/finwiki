@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-02T08:51:44+09:00
+Generated: 2026-06-02T09:42:32+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1462
-Public pages listed: 1461
+Markdown files: 1463
+Public pages listed: 1462
 
 ## Reading Rules
 
@@ -28,8 +28,8 @@ Public pages listed: 1461
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-02, i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复, deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept, https://finwiki.zksc.io/JapanFG/boj-payment-settlement-dept
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-02, Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复, i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复
+- First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE
@@ -2819,7 +2819,7 @@ Public pages listed: 1461
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against ふくおかフィナンシャルグループ（福岡銀行・熊本銀行・十八親和銀行）と 西日本フィナンシャルホールディングス（西日本シティ銀行）for the Kyushu commercial-bank counterparts, against 北九州銀行（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against Japan shinkin bank registry for the broader 254-
 - Headings: 北九州信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. 系統内位置（Systemic position）, 4. Why this page matters, 5. 関連 / 地域論点
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-bank, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/JapanFG/kitakyushu-bank, https://finwiki.zksc.io/JapanFG/kumamoto-bank, https://finwiki.zksc.io/JapanFG/nagoya-shinkin, https://finwiki.zksc.io/JapanFG/nippon-steel, https://finwiki.zksc.io/JapanFG/nishi-nippon-city-bank, https://finwiki.zksc.io/JapanFG/nishi-nippon-fh, https://finwiki.zksc.io/JapanFG/sapporo-shinkin, https://finwiki.zksc.io/JapanFG/sendai-shinkin
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-bank, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/JapanFG/kitakyushu-bank, https://finwiki.zksc.io/JapanFG/kumamoto-bank, https://finwiki.zksc.io/JapanFG/nagoya-shinkin, https://finwiki.zksc.io/JapanFG/nishi-nippon-city-bank, https://finwiki.zksc.io/JapanFG/nishi-nippon-fh, https://finwiki.zksc.io/JapanFG/sapporo-shinkin, https://finwiki.zksc.io/JapanFG/sendai-shinkin, https://finwiki.zksc.io/JapanFG/shinkin-central
 
 ### 株式会社紀陽銀行 (The Kiyo Bank)
 - URL: https://finwiki.zksc.io/JapanFG/kiyo-bank
@@ -5949,7 +5949,7 @@ Public pages listed: 1461
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For the financial-serv
 - Headings: 豊田通商 (Toyota Tsusho Corporation), Wiki route, 1. 会社概要, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 事業セグメント・マップ, 3. Financial-services adjacency, Toyota グループ系商社の identity
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aichi-fg, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp, https://finwiki.zksc.io/JapanFG/tepco-hd, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aichi-fg, https://finwiki.zksc.io/JapanFG/itochu-corp, https://finwiki.zksc.io/JapanFG/marubeni-corp, https://finwiki.zksc.io/JapanFG/mitsubishi-corp, https://finwiki.zksc.io/JapanFG/mitsui-co, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/sojitz-corp, https://finwiki.zksc.io/JapanFG/sumitomo-corp, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance, https://finwiki.zksc.io/finance/INDEX
 
 ### 豊田通商フィナンス (Toyota Tsusho Finance)
 - URL: https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance
@@ -12178,7 +12178,7 @@ Public pages listed: 1461
 - Type: wiki_entry
 - Summary: This entry sits under policy-finance index as one of the 51 prefecture / city-level members of Japan's credit guarantee system. Read it alongside the system overview at Japan credit guarantee system and the coordinating body at Japan Federation of Credit Guarantee Corporations. Peer-compare with the
 - Headings: 兵庫県信用保証協会 (Hyogo Credit Guarantee Corporation), Wiki route, TL;DR, 1. 機関概要, 2. 主要保証商品, 3. 県内産業構造との関係, 4. Co-lending and JFC overlay, 5. 代位弁済と求償
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/kawasaki-shipyard, https://finwiki.zksc.io/JapanFG/minato-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/JapanFG/shoko-chukin, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tajima-bank, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jfc, https://finwiki.zksc.io/JapanFG/minato-bank, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/resona-hd, https://finwiki.zksc.io/JapanFG/shoko-chukin, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tajima-bank, https://finwiki.zksc.io/JapanFG/yokohama-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern
 
 ### Japan credit guarantee system
 - URL: https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system
@@ -13126,6 +13126,16 @@ Public pages listed: 1461
 - Summary: 2026-06-02 JST の FinWiki i18n 品質仕上げリリースです。全量 zh/en 1380 件完了後に残っていた fidelity: needs_review 54 件を解消し、公開 i18n surface をレビュー残 0 の状態へ戻しました。
 - Headings: i18n 残存レビュー完了と語彙破損修復, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
+### Wikiリンク実在性ゲート追加と死リンク修復
+- URL: https://finwiki.zksc.io/releases/v2026.06.02-4
+- Source path: releases/v2026.06.02-4.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-4.md
+- Domain: releases
+- Type: release_note
+- Summary: 2026-06-02 JST の FinWiki graph integrity リリースです。本文内 wikilink が存在しない target を指す場合も release-blocking issue として検出するよう、wiki-link audit と CI gate を強化しました。
+- Headings: Wikiリンク実在性ゲート追加と死リンク修復, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+- First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/wikilink
+
 ### CI 警告整理と HTML ID 検証ゲート追加
 - URL: https://finwiki.zksc.io/releases/v2026.06.02
 - Source path: releases/v2026.06.02.md
@@ -13433,7 +13443,7 @@ Public pages listed: 1461
 - Type: wiki_entry
 - Summary: Between 2023 and 2026 a sequence of large Japan TOB / MBO transactions (each over ¥100bn deal value, several over ¥1tn) repriced the fair-M&A process expectations for listed targets under Japan tender offer process and Japan MBO and squeeze-out process. This matrix collects the major cases — Toshiba
 - Headings: Japan TOB / MBO large-deal 2023-2026 case matrix, TL;DR, Wiki route, Why a 2023-2026 large-deal matrix matters, Cases in scope, Master comparison matrix, Dimension reading, Target type (parent-subsidiary vs unrelated PE / strategic)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/chubu-electric-power, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix, https://finwiki.zksc.io/JapanFG/smbc, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/JapanFG/tokio-marine-nichido, https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix, https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-bank, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix, https://finwiki.zksc.io/JapanFG/smbc, https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust, https://finwiki.zksc.io/JapanFG/tokio-marine-nichido, https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix, https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan, https://finwiki.zksc.io/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case
 
 ### Japan underwriting market structure
 - URL: https://finwiki.zksc.io/securities/japan-underwriting-market-structure
@@ -14582,4 +14592,5 @@ Public pages listed: 1461
 - Domain: root
 - Type: control_doc
 - Summary: 1. Fix Priority A first with hand-written body sentences, not footer-only links. 2. For large registry pages, add one short prose paragraph that names the registry route, the nearest domain index, and one adjacent system page. 3. Re-run python3 tools/wikilinkaudit.py --report wiki-link-improvement-p
-- Headings: FinWiki Internal Link Improvement Plan, Summary, Wiki Linking Standard, Priority A: Failing Entries, Priority B: Current Worktree Entries To Review, Domain Snapshot, Execution Notes
+- Headings: FinWiki Internal Link Improvement Plan, Summary, Wiki Linking Standard, Priority A0: Dead Wikilink Targets, Priority A: Failing Entries, Priority B: Current Worktree Entries To Review, Domain Snapshot, Execution Notes
+- First resolved wikilinks: https://finwiki.zksc.io/wikilink

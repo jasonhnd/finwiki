@@ -17,7 +17,10 @@
       "KG KS ship financing",
       "MUFG SMBC Mizuho ship finance",
       "NYK MOL K-Line offtake",
-      "structured-finance/ship-financing-japan-megabank"
+      "structured-finance/ship-financing-japan-megabank",
+      "JapanFG/k-line",
+      "JapanFG/mitsui-osk-lines",
+      "JapanFG/nyk-line"
     ],
     "domain": "structured-finance",
     "created": "2026-05-25",
@@ -124,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12507,
-    "word_like_tokens": 2005,
+    "nonspace_chars": 12570,
+    "word_like_tokens": 2015,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

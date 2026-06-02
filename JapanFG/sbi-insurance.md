@@ -1,6 +1,11 @@
 ---
 title: "SBI損害保険"
-aliases: ["SBI損保", "SBI Insurance", "SBI Non-life", "SBI損害保険株式会社"]
+aliases:
+  - "SBI損保"
+  - "SBI Insurance"
+  - "SBI Non-life"
+  - "SBI損害保険株式会社"
+  - "insurance/saa"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

@@ -17,7 +17,8 @@
       "Honda Finance ABS",
       "Nissan Credit ABS",
       "SMBC Auto ABS",
-      "Japan auto-finance securitization"
+      "Japan auto-finance securitization",
+      "JapanFG/nissan-finance"
     ],
     "domain": "structured-finance",
     "created": "2026-05-25",
@@ -85,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6520,
-    "word_like_tokens": 1045,
+    "nonspace_chars": 6545,
+    "word_like_tokens": 1048,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

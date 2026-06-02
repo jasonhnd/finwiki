@@ -1,6 +1,12 @@
 ---
 title: "東京海上日動火災保険"
-aliases: ["東京海上日動", "東京海上日動火災", "Tokio Marine & Nichido Fire", "Tokio Marine Nichido Fire Insurance", "東京海上日動火災保険株式会社"]
+aliases:
+  - "東京海上日動"
+  - "東京海上日動火災"
+  - "Tokio Marine & Nichido Fire"
+  - "Tokio Marine Nichido Fire Insurance"
+  - "東京海上日動火災保険株式会社"
+  - "JapanFG/tokio-marine-nichido"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

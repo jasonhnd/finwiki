@@ -1,6 +1,11 @@
 ---
 title: "野村アセットマネジメント"
-aliases: ["Nomura Asset Management", "野村アセットマネジメント", "野村アセットマネジメント株式会社", "NAM"]
+aliases:
+  - "Nomura Asset Management"
+  - "野村アセットマネジメント"
+  - "野村アセットマネジメント株式会社"
+  - "NAM"
+  - "JapanFG/nomura-am"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

@@ -9,6 +9,7 @@ aliases:
   - "Japan reverse convertible retail"
   - "Japan currency-linked deposit"
   - "FSA suitability crackdown structured bond"
+  - "derivatives/japan-structured-bonds"
 domain: derivatives
 created: 2026-05-25
 last_updated: 2026-05-25

@@ -9,6 +9,9 @@ aliases:
   - "J-REIT GRESB"
   - "ESG ratings comparison"
   - "ESG due diligence Japan"
+  - "banking/japan-decarbonization-financing-roadmap"
+  - "finance/issb"
+  - "finance/ssbj"
 domain: finance
 created: 2026-05-25
 last_updated: 2026-05-25

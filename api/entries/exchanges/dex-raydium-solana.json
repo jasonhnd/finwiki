@@ -13,7 +13,8 @@
     "aliases": [
       "Raydium",
       "RAY",
-      "Raydium AMM"
+      "Raydium AMM",
+      "exchanges/openbook-fork-solana"
     ],
     "domain": "exchanges",
     "created": "2026-05-25",
@@ -73,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3570,
-    "word_like_tokens": 617,
+    "nonspace_chars": 3609,
+    "word_like_tokens": 621,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-06-02"
   }
 }

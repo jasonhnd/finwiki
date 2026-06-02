@@ -7,6 +7,7 @@ aliases:
   - "Payment and Settlement Systems Department"
   - "決済機構局"
   - "BoJ PSSD"
+  - "systems/bojnet"
 domain: JapanFG
 created: 2026-05-24
 last_updated: 2026-05-24

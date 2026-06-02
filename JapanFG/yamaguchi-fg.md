@@ -1,6 +1,12 @@
 ---
 title: 山口 FG (YMFG)
-aliases: ["YMFG", "Yamaguchi FG", "Yamaguchi Financial Group", "山口フィナンシャルグループ", "株式会社山口フィナンシャルグループ"]
+aliases:
+  - "YMFG"
+  - "Yamaguchi FG"
+  - "Yamaguchi Financial Group"
+  - "山口フィナンシャルグループ"
+  - "株式会社山口フィナンシャルグループ"
+  - "JapanFG/yamaguchi-bank"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

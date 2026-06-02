@@ -46,7 +46,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## 2. Operating model
 
-北九州信用金庫は、北九州市内の中小企業（鉄鋼・化学・機械・物流・港湾関連・建設・サービス業）・個人事業主向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。北九州市は日本四大工業地帯の一つ（北九州工業地帯）で、新日鉄住金（現 [[JapanFG/nippon-steel|日本製鉄]]）・三菱化学・TOTO 等の大企業集積地。これら大企業の二次・三次サプライヤー SME 向け融資が同庫の特徴。
+北九州信用金庫は、北九州市内の中小企業（鉄鋼・化学・機械・物流・港湾関連・建設・サービス業）・個人事業主向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。北九州市は日本四大工業地帯の一つ（北九州工業地帯）で、新日鉄住金（現 日本製鉄）・三菱化学・TOTO 等の大企業集積地。これら大企業の二次・三次サプライヤー SME 向け融資が同庫の特徴。
 
 福岡県金融市場の構造は以下のように整理される：
 - **福岡市側**: [[JapanFG/fukuoka-fg|ふくおか FG]]（[[JapanFG/fukuoka-bank|福岡銀行]] = 九州最大地銀）+ [[JapanFG/nishi-nippon-fh|西日本 FH]]（[[JapanFG/nishi-nippon-city-bank|西日本シティ銀行]]）
@@ -76,7 +76,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ### 北九州工業地帯との結びつき
 
-- [[JapanFG/nippon-steel|日本製鉄]] 八幡製鉄所・[[JapanFG/toto|TOTO]]（北九州市本社）・三菱化学等の大企業集積地。
+- 日本製鉄 八幡製鉄所・TOTO（北九州市本社）・三菱化学等の大企業集積地。
 - これら大企業の二次・三次サプライヤーは中小企業が多く、北九州信用金庫の中核取引先となる。
 - 鉄鋼業の構造調整・脱炭素化（[[banking/japan-decarbonization-financing-roadmap|Japan decarbonization financing roadmap]] 関連）の影響を受ける SME ポートフォリオを抱える。
 

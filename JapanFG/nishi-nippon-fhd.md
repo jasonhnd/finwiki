@@ -1,6 +1,13 @@
 ---
 title: 西日本 FHD (Nishi-Nippon FHD)
-aliases: ["NNFHD", "Nishi-Nippon Financial Holdings", "西日本フィナンシャルホールディングス", "西日本 FHD", "西日本シティ銀行 持株会社"]
+aliases:
+  - "NNFHD"
+  - "Nishi-Nippon Financial Holdings"
+  - "西日本フィナンシャルホールディングス"
+  - "西日本 FHD"
+  - "西日本シティ銀行 持株会社"
+  - "JapanFG/nishi-nippon-fh"
+  - "JapanFG/nnfh"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

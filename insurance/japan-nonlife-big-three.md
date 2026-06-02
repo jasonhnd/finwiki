@@ -4,6 +4,7 @@ aliases:
   - "Japan non-life big three"
   - "Japan P&C big three"
   - "日本 損保 big three"
+  - "insurance/direct-nonlife-insurance-japan"
 domain: "insurance"
 created: 2026-05-22
 last_updated: 2026-05-22

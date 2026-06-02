@@ -18,7 +18,8 @@
       "target redemption forward Japan",
       "risk reversal JPY",
       "vanilla FX option Japan corp",
-      "knock-out FX option Japan"
+      "knock-out FX option Japan",
+      "derivatives/japan-fx-options-market"
     ],
     "domain": "derivatives",
     "created": "2026-05-25",
@@ -98,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15014,
-    "word_like_tokens": 2497,
+    "nonspace_chars": 15052,
+    "word_like_tokens": 2502,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

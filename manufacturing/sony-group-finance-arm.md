@@ -6,6 +6,7 @@ aliases:
   - "Sony Financial Holdings parent context"
   - "ソニー金融事業"
   - "ソニーグループ金融セグメント"
+  - "JapanFG/sony-finance"
 domain: "manufacturing"
 created: 2026-05-25
 last_updated: 2026-05-25

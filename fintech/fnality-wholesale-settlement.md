@@ -1,6 +1,13 @@
 ---
 title: Fnality International · 銀行連合のホールセール決済トークン · BoE ライセンス取得 GBP は既稼働
-aliases: [fnality-wholesale-settlement, Fnality, FnPS, Fnality Payment System, USC, Utility Settlement Coin]
+aliases:
+  - "fnality-wholesale-settlement"
+  - "Fnality"
+  - "FnPS"
+  - "Fnality Payment System"
+  - "USC"
+  - "Utility Settlement Coin"
+  - "systems/cls-bank-overview"
 domain: fintech
 created: 2026-05-25
 last_updated: 2026-05-26

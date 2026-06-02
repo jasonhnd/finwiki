@@ -1,6 +1,13 @@
 ---
 title: "DGフィナンシャルテクノロジー (DGFT)"
-aliases: ["DG Financial Technology", "DGFT", "DGフィナンシャルテクノロジー", "株式会社DGフィナンシャルテクノロジー", "ベリトランス", "VeriTrans"]
+aliases:
+  - "DG Financial Technology"
+  - "DGFT"
+  - "DGフィナンシャルテクノロジー"
+  - "株式会社DGフィナンシャルテクノロジー"
+  - "ベリトランス"
+  - "VeriTrans"
+  - "JapanFG/digital-garage"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

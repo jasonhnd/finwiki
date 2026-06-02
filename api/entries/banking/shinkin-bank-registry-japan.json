@@ -14,7 +14,8 @@
       "信用金庫 registry",
       "信用金庫一覧",
       "Japan shinkin banks",
-      "Shinkin bank registry Japan"
+      "Shinkin bank registry Japan",
+      "JapanFG/fukuoka-shinkin"
     ],
     "domain": "banking",
     "created": "2026-05-21",
@@ -68,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 20610,
-    "word_like_tokens": 2868,
+    "nonspace_chars": 20636,
+    "word_like_tokens": 2871,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

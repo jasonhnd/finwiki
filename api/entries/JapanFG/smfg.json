@@ -16,7 +16,8 @@
       "SMBCグループ",
       "Sumitomo Mitsui FG",
       "三井住友フィナンシャルグループ",
-      "三井住友 FG"
+      "三井住友 FG",
+      "JapanFG/smbc-group"
     ],
     "domain": "JapanFG",
     "created": "2026-05-18",
@@ -97,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13849,
-    "word_like_tokens": 2740,
+    "nonspace_chars": 13869,
+    "word_like_tokens": 2743,
     "inbound_wikilinks_count": 103,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

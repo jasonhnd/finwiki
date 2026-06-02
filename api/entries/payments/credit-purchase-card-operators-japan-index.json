@@ -14,7 +14,9 @@
       "Japan credit purchase registry",
       "METI Installment Sales Act operator index",
       "割賦販売法 registered operators",
-      "クレジットカード番号等取扱契約締結事業者 registry"
+      "クレジットカード番号等取扱契約締結事業者 registry",
+      "JapanFG/odakyu-cards",
+      "JapanFG/tokyu-card"
     ],
     "domain": "payments",
     "created": "2026-05-21",
@@ -136,9 +138,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5558,
-    "word_like_tokens": 782,
+    "nonspace_chars": 5602,
+    "word_like_tokens": 788,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

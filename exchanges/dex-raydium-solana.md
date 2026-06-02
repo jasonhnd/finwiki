@@ -1,9 +1,10 @@
 ---
 title: Raydium — Solana 系老舗 AMM / memecoin 流動性 hub
 aliases:
-  - Raydium
-  - RAY
-  - Raydium AMM
+  - "Raydium"
+  - "RAY"
+  - "Raydium AMM"
+  - "exchanges/openbook-fork-solana"
 domain: exchanges
 slug: dex-raydium-solana
 created: 2026-05-25

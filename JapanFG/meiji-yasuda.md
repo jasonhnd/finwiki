@@ -1,6 +1,12 @@
 ---
 title: 明治安田生命保険相互会社
-aliases: ["明治安田生命", "Meiji Yasuda Life", "Meiji Yasuda", "明治安田", "MY 生命"]
+aliases:
+  - "明治安田生命"
+  - "Meiji Yasuda Life"
+  - "Meiji Yasuda"
+  - "明治安田"
+  - "MY 生命"
+  - "JapanFG/meiji-yasuda-life"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

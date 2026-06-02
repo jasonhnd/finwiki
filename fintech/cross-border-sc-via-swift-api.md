@@ -1,6 +1,10 @@
 ---
 title: 跨境 SC via SWIFT API —— Project Pax / Project Agorá 与 SWIFT 集成パターン
-aliases: [cross-border SC via SWIFT API, SWIFT API + blockchain settlement, Project Pax pattern]
+aliases:
+  - "cross-border SC via SWIFT API"
+  - "SWIFT API + blockchain settlement"
+  - "Project Pax pattern"
+  - "systems/swift-iso-20022-overview"
 domain: fintech
 created: 2026-05-18
 last_updated: 2026-05-18

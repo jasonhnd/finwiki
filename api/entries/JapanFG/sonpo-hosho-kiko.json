@@ -14,7 +14,8 @@
       "損保契約者保護機構",
       "Non-life Insurance Policyholders Protection Corporation of Japan",
       "NLIPP",
-      "損害保険契約者保護機構"
+      "損害保険契約者保護機構",
+      "JapanFG/dai-ichi-mutual"
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
@@ -83,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4052,
-    "word_like_tokens": 554,
+    "nonspace_chars": 4077,
+    "word_like_tokens": 558,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

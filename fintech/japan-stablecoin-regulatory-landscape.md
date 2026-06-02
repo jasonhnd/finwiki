@@ -1,6 +1,10 @@
 ---
 title: 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）
-aliases: ["Japan stablecoin regulatory landscape", "日本ステーブルコイン制度", "JPYC USDC Progmat"]
+aliases:
+  - "Japan stablecoin regulatory landscape"
+  - "日本ステーブルコイン制度"
+  - "JPYC USDC Progmat"
+  - "fintech/japan-stablecoin-and-crypto-regulation"
 domain: fintech
 kind: knowledge
 topic: japan-stablecoin-regulatory-landscape

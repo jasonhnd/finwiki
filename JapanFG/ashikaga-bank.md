@@ -1,6 +1,10 @@
 ---
 title: "足利銀行"
-aliases: ["Ashikaga Bank", "The Ashikaga Bank", "株式会社足利銀行"]
+aliases:
+  - "Ashikaga Bank"
+  - "The Ashikaga Bank"
+  - "株式会社足利銀行"
+  - "JapanFG/ashikaga-hd"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

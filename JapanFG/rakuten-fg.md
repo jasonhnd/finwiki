@@ -1,6 +1,13 @@
 ---
 title: 楽天グループ金融事業 (Rakuten FG)
-aliases: ["Rakuten FG", "楽天 FinTech", "Rakuten FinTech", "楽天金融", "Rakuten Group Financial"]
+aliases:
+  - "Rakuten FG"
+  - "楽天 FinTech"
+  - "Rakuten FinTech"
+  - "楽天金融"
+  - "Rakuten Group Financial"
+  - "JapanFG/rakuten-group"
+  - "payments/rakuten-pay"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

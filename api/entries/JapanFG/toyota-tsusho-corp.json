@@ -59,7 +59,7 @@
     "5. 規制・政策"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "JapanFG/INDEX",
       "JapanFG/aichi-fg",
@@ -70,7 +70,6 @@
       "JapanFG/mufg",
       "JapanFG/sojitz-corp",
       "JapanFG/sumitomo-corp",
-      "JapanFG/tepco-hd",
       "JapanFG/toyota-financial",
       "JapanFG/toyota-tsusho-finance",
       "finance/INDEX",
@@ -86,7 +85,6 @@
       "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/sojitz-corp",
       "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
-      "https://finwiki.zksc.io/JapanFG/tepco-hd",
       "https://finwiki.zksc.io/JapanFG/toyota-financial",
       "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
       "https://finwiki.zksc.io/finance/INDEX",
@@ -96,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5063,
-    "word_like_tokens": 755,
+    "nonspace_chars": 5021,
+    "word_like_tokens": 749,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

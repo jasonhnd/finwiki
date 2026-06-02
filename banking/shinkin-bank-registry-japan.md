@@ -5,6 +5,7 @@ aliases:
   - "信用金庫一覧"
   - "Japan shinkin banks"
   - "Shinkin bank registry Japan"
+  - "JapanFG/fukuoka-shinkin"
 domain: "banking"
 created: 2026-05-21
 last_updated: 2026-05-21

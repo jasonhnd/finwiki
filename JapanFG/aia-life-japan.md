@@ -6,6 +6,7 @@ aliases:
   - "AIA International"
   - "AIA生命"
   - "AIA Japan branch"
+  - "JapanFG/aia"
 domain: JapanFG
 created: 2026-05-24
 last_updated: 2026-05-24

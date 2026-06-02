@@ -9,6 +9,7 @@ aliases:
   - "Japan listed equity options matrix"
   - "Japan equity derivative product comparison"
   - "日本 株式デリバティブ比較マトリクス"
+  - "derivatives/equity-options-ose"
 domain: "derivatives"
 created: 2026-05-25
 last_updated: 2026-05-25

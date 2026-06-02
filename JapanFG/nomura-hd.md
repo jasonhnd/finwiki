@@ -1,6 +1,13 @@
 ---
 title: 野村ホールディングス (Nomura HD)
-aliases: ["Nomura HD", "Nomura Holdings", "野村 HD", "野村ホールディングス", "Nomura"]
+aliases:
+  - "Nomura HD"
+  - "Nomura Holdings"
+  - "野村 HD"
+  - "野村ホールディングス"
+  - "Nomura"
+  - "JapanFG/nomura-holdings"
+  - "JapanFG/nomura-securities"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

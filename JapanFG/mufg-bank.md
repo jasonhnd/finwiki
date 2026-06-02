@@ -1,6 +1,11 @@
 ---
 title: "三菱UFJ銀行 (MUFG Bank)"
-aliases: ["MUFG Bank", "三菱UFJ銀行", "株式会社三菱UFJ銀行", "BTMU"]
+aliases:
+  - "MUFG Bank"
+  - "三菱UFJ銀行"
+  - "株式会社三菱UFJ銀行"
+  - "BTMU"
+  - "JapanFG/mitsubishi-ufj-bank"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

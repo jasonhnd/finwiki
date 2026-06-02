@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-02T08:51:44+09:00",
+  "generated_at": "2026-06-02T09:42:32+09:00",
   "counts": {
-    "markdown_files": 1462,
-    "public_markdown_pages": 1461,
-    "site_urls_in_sitemap": 1462,
+    "markdown_files": 1463,
+    "public_markdown_pages": 1462,
+    "site_urls_in_sitemap": 1463,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9896519,
-    "word_like_tokens": 1572960
+    "nonspace_utf8_chars": 9915336,
+    "word_like_tokens": 1576135
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,12 +230,13 @@
         "English",
         "中文",
         "2026-06-02",
+        "Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复",
         "i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复",
         "deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制",
-        "CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate",
-        "2026-06-01"
+        "CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate"
       ],
       "wikilinks": [
+        "...",
         "JapanFG",
         "JapanFG/INDEX",
         "JapanFG/aia-life-japan",
@@ -383,6 +384,7 @@
         "wikilink"
       ],
       "resolved_wikilinks": [
+        "https://finwiki.zksc.io/...",
         "https://finwiki.zksc.io/JapanFG",
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/aia-life-japan",
@@ -461,14 +463,13 @@
         "https://finwiki.zksc.io/JapanFG/munich-re-japan",
         "https://finwiki.zksc.io/JapanFG/nec-leasing",
         "https://finwiki.zksc.io/JapanFG/net-protections-hd",
-        "https://finwiki.zksc.io/JapanFG/nippon-kaiji-kyokai",
-        "https://finwiki.zksc.io/JapanFG/nissay-asset-management"
+        "https://finwiki.zksc.io/JapanFG/nippon-kaiji-kyokai"
       ],
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 447246,
-      "word_like_tokens": 78898,
+      "nonspace_chars": 450759,
+      "word_like_tokens": 79532,
       "last_modified": "2026-06-02"
     },
     {
@@ -689,7 +690,7 @@
       "markdown_links": [],
       "nonspace_chars": 18538,
       "word_like_tokens": 2838,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "INDEX.md",
@@ -2161,7 +2162,7 @@
       "markdown_links": [],
       "nonspace_chars": 5967,
       "word_like_tokens": 916,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/aeon-financial-service.md",
@@ -2202,9 +2203,9 @@
         "https://finwiki.zksc.io/retail/seven-and-i-hd"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1896,
-      "word_like_tokens": 281,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1915,
+      "word_like_tokens": 284,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/aflac-japan.md",
@@ -2349,9 +2350,9 @@
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4392,
-      "word_like_tokens": 725,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4406,
+      "word_like_tokens": 727,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/aichi-bank.md",
@@ -2498,9 +2499,9 @@
       "markdown_links": [
         "https://www.iryoushin.com/"
       ],
-      "nonspace_chars": 5197,
-      "word_like_tokens": 728,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5227,
+      "word_like_tokens": 732,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/aichi-shogin-shinkumi.md",
@@ -2649,9 +2650,9 @@
         "https://finwiki.zksc.io/tokio-marine"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3652,
-      "word_like_tokens": 556,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3676,
+      "word_like_tokens": 560,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/aioi-nissay-dowa-insurance.md",
@@ -3565,9 +3566,9 @@
         "https://finwiki.zksc.io/tochigi-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1678,
-      "word_like_tokens": 270,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 1699,
+      "word_like_tokens": 273,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/asset-management-one.md",
@@ -3801,7 +3802,7 @@
       "markdown_links": [],
       "nonspace_chars": 4099,
       "word_like_tokens": 677,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/au-payment.md",
@@ -3940,9 +3941,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4028,
-      "word_like_tokens": 568,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4050,
+      "word_like_tokens": 571,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/banco-do-brasil-japan.md",
@@ -5019,9 +5020,9 @@
         "https://finwiki.zksc.io/money-market/japan-money-market"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5591,
-      "word_like_tokens": 926,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 5608,
+      "word_like_tokens": 928,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/boj.md",
@@ -5078,7 +5079,7 @@
       "markdown_links": [],
       "nonspace_chars": 4191,
       "word_like_tokens": 718,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/capital-insurance.md",
@@ -5244,7 +5245,7 @@
       "markdown_links": [],
       "nonspace_chars": 2332,
       "word_like_tokens": 366,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/castglobal-trust.md",
@@ -6571,9 +6572,9 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5166,
-      "word_like_tokens": 854,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 5203,
+      "word_like_tokens": 859,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/dai-ichi-frontier-life.md",
@@ -6747,9 +6748,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6098,
-      "word_like_tokens": 1119,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6124,
+      "word_like_tokens": 1124,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/dai-ichi-neo-life.md",
@@ -6789,9 +6790,9 @@
         "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1655,
-      "word_like_tokens": 260,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 1679,
+      "word_like_tokens": 264,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/dai-shi-hokuetsu-fg.md",
@@ -7179,9 +7180,9 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1611,
-      "word_like_tokens": 237,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1629,
+      "word_like_tokens": 240,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/daiwa-living-trust.md",
@@ -7317,9 +7318,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5116,
-      "word_like_tokens": 759,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5175,
+      "word_like_tokens": 766,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/dbj.md",
@@ -7548,9 +7549,9 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2115,
-      "word_like_tokens": 316,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 2139,
+      "word_like_tokens": 319,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/dic.md",
@@ -7605,9 +7606,9 @@
         "https://finwiki.zksc.io/banking/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3805,
-      "word_like_tokens": 564,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3832,
+      "word_like_tokens": 568,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/diners-club-japan.md",
@@ -7752,7 +7753,7 @@
       "markdown_links": [],
       "nonspace_chars": 5812,
       "word_like_tokens": 882,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/ehime-bank.md",
@@ -9266,7 +9267,7 @@
       "markdown_links": [],
       "nonspace_chars": 4261,
       "word_like_tokens": 626,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/fukoku-life.md",
@@ -9592,7 +9593,7 @@
       ],
       "nonspace_chars": 4479,
       "word_like_tokens": 642,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/fukushi-trust.md",
@@ -9814,7 +9815,7 @@
       "markdown_links": [],
       "nonspace_chars": 2781,
       "word_like_tokens": 410,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/gibraltar-life.md",
@@ -11459,9 +11460,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3575,
-      "word_like_tokens": 630,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3665,
+      "word_like_tokens": 643,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/howa-bank.md",
@@ -12524,7 +12525,7 @@
       ],
       "nonspace_chars": 4846,
       "word_like_tokens": 760,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/iwaki-shinkumi.md",
@@ -12575,7 +12576,7 @@
       ],
       "nonspace_chars": 4380,
       "word_like_tokens": 652,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/iwate-bank.md",
@@ -13829,7 +13830,7 @@
       "markdown_links": [],
       "nonspace_chars": 13000,
       "word_like_tokens": 2177,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/japan-post-holdings.md",
@@ -13874,7 +13875,7 @@
       "markdown_links": [],
       "nonspace_chars": 3984,
       "word_like_tokens": 605,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/japan-securities-finance.md",
@@ -14219,7 +14220,7 @@
       "markdown_links": [],
       "nonspace_chars": 6568,
       "word_like_tokens": 1044,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/jf-shingyoren.md",
@@ -14419,7 +14420,7 @@
       "markdown_links": [],
       "nonspace_chars": 2244,
       "word_like_tokens": 353,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/jia-trust.md",
@@ -14782,9 +14783,9 @@
         "https://finwiki.zksc.io/payments/suica-prepaid-jr-east"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6273,
-      "word_like_tokens": 1066,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 6291,
+      "word_like_tokens": 1069,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/jsda.md",
@@ -15194,9 +15195,9 @@
         "https://finwiki.zksc.io/tokio-marine"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4143,
-      "word_like_tokens": 605,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4163,
+      "word_like_tokens": 608,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/kanagawa-bank.md",
@@ -15800,7 +15801,6 @@
         "JapanFG/kitakyushu-bank",
         "JapanFG/kumamoto-bank",
         "JapanFG/nagoya-shinkin",
-        "JapanFG/nippon-steel",
         "JapanFG/nishi-nippon-city-bank",
         "JapanFG/nishi-nippon-fh",
         "JapanFG/sapporo-shinkin",
@@ -15808,7 +15808,6 @@
         "JapanFG/shinkin-central",
         "JapanFG/shinkin-network-services",
         "JapanFG/sumitomo-mitsui-trust",
-        "JapanFG/toto",
         "JapanFG/yokin-hoken-kiko",
         "JapanFG/zenshin-kyo",
         "banking/INDEX",
@@ -15825,7 +15824,6 @@
         "https://finwiki.zksc.io/JapanFG/kitakyushu-bank",
         "https://finwiki.zksc.io/JapanFG/kumamoto-bank",
         "https://finwiki.zksc.io/JapanFG/nagoya-shinkin",
-        "https://finwiki.zksc.io/JapanFG/nippon-steel",
         "https://finwiki.zksc.io/JapanFG/nishi-nippon-city-bank",
         "https://finwiki.zksc.io/JapanFG/nishi-nippon-fh",
         "https://finwiki.zksc.io/JapanFG/sapporo-shinkin",
@@ -15833,7 +15831,6 @@
         "https://finwiki.zksc.io/JapanFG/shinkin-central",
         "https://finwiki.zksc.io/JapanFG/shinkin-network-services",
         "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
-        "https://finwiki.zksc.io/JapanFG/toto",
         "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
         "https://finwiki.zksc.io/JapanFG/zenshin-kyo",
         "https://finwiki.zksc.io/banking/INDEX",
@@ -15843,9 +15840,9 @@
         "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4953,
-      "word_like_tokens": 659,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 4886,
+      "word_like_tokens": 651,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/kiyo-bank.md",
@@ -16035,7 +16032,7 @@
       "markdown_links": [],
       "nonspace_chars": 2420,
       "word_like_tokens": 375,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/kpmg-azsa.md",
@@ -17756,9 +17753,9 @@
         "https://finwiki.zksc.io/prudential-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4783,
-      "word_like_tokens": 648,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4807,
+      "word_like_tokens": 652,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/marubeni-corp.md",
@@ -17995,9 +17992,9 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4491,
-      "word_like_tokens": 649,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4527,
+      "word_like_tokens": 655,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mastercard-japan.md",
@@ -18496,9 +18493,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3778,
-      "word_like_tokens": 548,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3805,
+      "word_like_tokens": 552,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mercari-hd.md",
@@ -19459,9 +19456,9 @@
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5634,
-      "word_like_tokens": 895,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5711,
+      "word_like_tokens": 904,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mitsubishi-hc-capital.md",
@@ -19544,9 +19541,9 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1712,
-      "word_like_tokens": 270,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1742,
+      "word_like_tokens": 274,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mitsui-bussan-financial-services.md",
@@ -19795,9 +19792,9 @@
         "https://finwiki.zksc.io/msad"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2054,
-      "word_like_tokens": 319,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2102,
+      "word_like_tokens": 325,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/miyazaki-bank.md",
@@ -20205,9 +20202,9 @@
         "https://finwiki.zksc.io/securities/japan-securities-depository-center"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1674,
-      "word_like_tokens": 242,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1704,
+      "word_like_tokens": 246,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/momiji-bank.md",
@@ -20295,9 +20292,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4450,
-      "word_like_tokens": 585,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4498,
+      "word_like_tokens": 590,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/money-forward.md",
@@ -20472,9 +20469,9 @@
         "https://finwiki.zksc.io/banking/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5465,
-      "word_like_tokens": 867,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5480,
+      "word_like_tokens": 870,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mufg-asset-management.md",
@@ -20515,9 +20512,9 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1656,
-      "word_like_tokens": 255,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1725,
+      "word_like_tokens": 264,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mufg-bank.md",
@@ -20558,9 +20555,9 @@
         "https://finwiki.zksc.io/banking/post-megabank-positioning"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1659,
-      "word_like_tokens": 265,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1688,
+      "word_like_tokens": 269,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mufg-esmart-securities.md",
@@ -20601,9 +20598,9 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1719,
-      "word_like_tokens": 291,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1750,
+      "word_like_tokens": 295,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mufg-mums.md",
@@ -20651,9 +20648,9 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2892,
-      "word_like_tokens": 429,
-      "last_modified": "2026-05-20"
+      "nonspace_chars": 2953,
+      "word_like_tokens": 437,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/mufg-nicos.md",
@@ -21337,9 +21334,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6726,
-      "word_like_tokens": 1150,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 6744,
+      "word_like_tokens": 1153,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nec-capital-solutions.md",
@@ -21703,9 +21700,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6771,
-      "word_like_tokens": 1144,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6802,
+      "word_like_tokens": 1148,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nippon-post.md",
@@ -21754,9 +21751,9 @@
         "https://finwiki.zksc.io/yucho"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4982,
-      "word_like_tokens": 790,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5026,
+      "word_like_tokens": 797,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nishi-nippon-city-bank.md",
@@ -21862,9 +21859,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3894,
-      "word_like_tokens": 574,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3934,
+      "word_like_tokens": 580,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nissay-asset-management.md",
@@ -22130,9 +22127,9 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1640,
-      "word_like_tokens": 243,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1659,
+      "word_like_tokens": 246,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nomura-hd.md",
@@ -22179,9 +22176,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6785,
-      "word_like_tokens": 1150,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6838,
+      "word_like_tokens": 1156,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nomura-trust-bank.md",
@@ -22248,7 +22245,7 @@
       "markdown_links": [],
       "nonspace_chars": 4571,
       "word_like_tokens": 708,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/nonlife-insurer-registry-japan-index.md",
@@ -22486,9 +22483,9 @@
         "https://finwiki.zksc.io/sumitomo-mitsui-trust"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5734,
-      "word_like_tokens": 887,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5760,
+      "word_like_tokens": 890,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/ntt-docomo-sompo-hd.md",
@@ -22932,9 +22929,9 @@
         "https://finwiki.zksc.io/ryukyu-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1740,
-      "word_like_tokens": 275,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 1765,
+      "word_like_tokens": 279,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/okinawa-fg.md",
@@ -23261,7 +23258,7 @@
       "markdown_links": [],
       "nonspace_chars": 6753,
       "word_like_tokens": 963,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/orix-bank.md",
@@ -23826,9 +23823,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8010,
-      "word_like_tokens": 1481,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 8028,
+      "word_like_tokens": 1484,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/paypay-securities.md",
@@ -24226,9 +24223,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4497,
-      "word_like_tokens": 656,
-      "last_modified": "2026-05-30"
+      "nonspace_chars": 4543,
+      "word_like_tokens": 662,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/progmat.md",
@@ -24322,9 +24319,9 @@
         "https://finwiki.zksc.io/sony-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5186,
-      "word_like_tokens": 727,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5238,
+      "word_like_tokens": 734,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/pwc-aarata.md",
@@ -24561,9 +24558,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6114,
-      "word_like_tokens": 1145,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6160,
+      "word_like_tokens": 1151,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/rakuten-general-insurance.md",
@@ -25517,7 +25514,7 @@
       "markdown_links": [],
       "nonspace_chars": 6091,
       "word_like_tokens": 877,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/saison-automobile-fire-insurance.md",
@@ -25570,7 +25567,7 @@
       "markdown_links": [],
       "nonspace_chars": 5791,
       "word_like_tokens": 840,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/saitama-resona-bank.md",
@@ -26216,9 +26213,9 @@
         "https://finwiki.zksc.io/tokio-marine-direct"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1992,
-      "word_like_tokens": 318,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2007,
+      "word_like_tokens": 320,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sbi-life.md",
@@ -26451,9 +26448,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3786,
-      "word_like_tokens": 607,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3807,
+      "word_like_tokens": 610,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sbi-shinsei-trust-bank.md",
@@ -26740,9 +26737,9 @@
         "https://finwiki.zksc.io/insurance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8012,
-      "word_like_tokens": 1234,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 8042,
+      "word_like_tokens": 1238,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/seimei-hokensha-hogo-kiko.md",
@@ -26807,9 +26804,9 @@
         "https://finwiki.zksc.io/insurance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4412,
-      "word_like_tokens": 650,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4521,
+      "word_like_tokens": 665,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sekisui-house-trust.md",
@@ -26959,7 +26956,7 @@
       "markdown_links": [],
       "nonspace_chars": 4487,
       "word_like_tokens": 611,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/seven-bank.md",
@@ -27394,9 +27391,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5123,
-      "word_like_tokens": 640,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 5151,
+      "word_like_tokens": 644,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/shinkin-shoken.md",
@@ -27461,7 +27458,7 @@
       "markdown_links": [],
       "nonspace_chars": 5796,
       "word_like_tokens": 722,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/shinsei-financial.md",
@@ -28055,9 +28052,9 @@
         "https://finwiki.zksc.io/payments/cashless-jp-landscape"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2210,
-      "word_like_tokens": 336,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2240,
+      "word_like_tokens": 340,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/smbc-consumer-finance.md",
@@ -28153,9 +28150,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5883,
-      "word_like_tokens": 896,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5914,
+      "word_like_tokens": 900,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/smbc-trust-bank.md",
@@ -28359,9 +28356,9 @@
         "https://finwiki.zksc.io/ssnb"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13849,
-      "word_like_tokens": 2740,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 13869,
+      "word_like_tokens": 2743,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/smfl.md",
@@ -28819,9 +28816,9 @@
         "https://finwiki.zksc.io/tokio-marine-nichido-fire"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1952,
-      "word_like_tokens": 303,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1973,
+      "word_like_tokens": 306,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sompo.md",
@@ -28870,9 +28867,9 @@
       "markdown_links": [
         "https://www.sompo-hd.com/"
       ],
-      "nonspace_chars": 6285,
-      "word_like_tokens": 991,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6307,
+      "word_like_tokens": 994,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sonpo-hosho-kiko.md",
@@ -28923,9 +28920,9 @@
         "https://finwiki.zksc.io/insurance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4052,
-      "word_like_tokens": 554,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4077,
+      "word_like_tokens": 558,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sonpo-kyokai.md",
@@ -29149,9 +29146,9 @@
         "https://finwiki.zksc.io/sony-life"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1864,
-      "word_like_tokens": 283,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 1890,
+      "word_like_tokens": 286,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/sony-life.md",
@@ -29289,9 +29286,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6142,
-      "word_like_tokens": 1154,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6205,
+      "word_like_tokens": 1164,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/standard-chartered-japan.md",
@@ -30713,9 +30710,9 @@
         "https://finwiki.zksc.io/sony-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3454,
-      "word_like_tokens": 566,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3494,
+      "word_like_tokens": 574,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/toa-reinsurance.md",
@@ -31179,9 +31176,9 @@
         "https://finwiki.zksc.io/tokio-marine-nichido-life"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2084,
-      "word_like_tokens": 318,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2114,
+      "word_like_tokens": 322,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/tokio-marine-nichido-life.md",
@@ -31263,9 +31260,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5013,
-      "word_like_tokens": 831,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5072,
+      "word_like_tokens": 839,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/tokushima-taisho-bank.md",
@@ -31974,7 +31971,6 @@
         "JapanFG/mufg",
         "JapanFG/sojitz-corp",
         "JapanFG/sumitomo-corp",
-        "JapanFG/tepco-hd",
         "JapanFG/toyota-financial",
         "JapanFG/toyota-tsusho-finance",
         "finance/INDEX",
@@ -31990,16 +31986,15 @@
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/sojitz-corp",
         "https://finwiki.zksc.io/JapanFG/sumitomo-corp",
-        "https://finwiki.zksc.io/JapanFG/tepco-hd",
         "https://finwiki.zksc.io/JapanFG/toyota-financial",
         "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
         "https://finwiki.zksc.io/finance/INDEX",
         "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5063,
-      "word_like_tokens": 755,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5021,
+      "word_like_tokens": 749,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/toyota-tsusho-finance.md",
@@ -33136,9 +33131,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3552,
-      "word_like_tokens": 532,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3576,
+      "word_like_tokens": 535,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/yamaguchi-leasing.md",
@@ -33839,9 +33834,9 @@
         "https://finwiki.zksc.io/banking/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8594,
-      "word_like_tokens": 1346,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 8613,
+      "word_like_tokens": 1348,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "JapanFG/zenkankyo-reiwa-insurance.md",
@@ -34252,8 +34247,8 @@
         "systems/",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 25286,
-      "word_like_tokens": 3911,
+      "nonspace_chars": 26158,
+      "word_like_tokens": 4072,
       "last_modified": "2026-06-02"
     },
     {
@@ -37127,7 +37122,7 @@
       "markdown_links": [],
       "nonspace_chars": 11076,
       "word_like_tokens": 1751,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/foreign-bank-japan-retreat.md",
@@ -37419,9 +37414,9 @@
         "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6208,
-      "word_like_tokens": 983,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 6240,
+      "word_like_tokens": 988,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/japan-banking-license-tier-comparison-matrix.md",
@@ -37764,7 +37759,7 @@
       "markdown_links": [],
       "nonspace_chars": 27918,
       "word_like_tokens": 4635,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/japan-master-trust-and-custody-bank-landscape.md",
@@ -37978,7 +37973,7 @@
       "markdown_links": [],
       "nonspace_chars": 18936,
       "word_like_tokens": 3132,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md",
@@ -38190,9 +38185,9 @@
         "https://finwiki.zksc.io/JapanFG/sbi-regional-bank-hd\\"
       ],
       "markdown_links": [],
-      "nonspace_chars": 30996,
-      "word_like_tokens": 5466,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 31035,
+      "word_like_tokens": 5471,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/japan-stablecoin-bank-perimeter-2025.md",
@@ -38635,7 +38630,7 @@
       "markdown_links": [],
       "nonspace_chars": 17260,
       "word_like_tokens": 2602,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/mercari-bank-license-stack.md",
@@ -39242,9 +39237,9 @@
         "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern"
       ],
       "markdown_links": [],
-      "nonspace_chars": 20610,
-      "word_like_tokens": 2868,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 20636,
+      "word_like_tokens": 2871,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/sony-bank.md",
@@ -39309,7 +39304,7 @@
       "markdown_links": [],
       "nonspace_chars": 8214,
       "word_like_tokens": 1341,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/trust-bank-custody-operating-comparison.md",
@@ -39455,7 +39450,7 @@
       "markdown_links": [],
       "nonspace_chars": 14868,
       "word_like_tokens": 2372,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "banking/ui-bank.md",
@@ -40287,7 +40282,7 @@
       "markdown_links": [],
       "nonspace_chars": 9110,
       "word_like_tokens": 1472,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "business/paolo-ardoino-tether-business-model-template.md",
@@ -40392,7 +40387,7 @@
       "markdown_links": [],
       "nonspace_chars": 10416,
       "word_like_tokens": 1626,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "business/sandeep-nailwal-polygon-india-dpi-pattern.md",
@@ -40566,7 +40561,7 @@
       "markdown_links": [],
       "nonspace_chars": 9294,
       "word_like_tokens": 1491,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "corporate-strategy/INDEX.md",
@@ -40823,7 +40818,7 @@
       "markdown_links": [],
       "nonspace_chars": 11226,
       "word_like_tokens": 1806,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md",
@@ -40969,7 +40964,7 @@
       "markdown_links": [],
       "nonspace_chars": 9759,
       "word_like_tokens": 1580,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/INDEX.md",
@@ -41068,7 +41063,7 @@
       "markdown_links": [],
       "nonspace_chars": 7905,
       "word_like_tokens": 1187,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/basis-trade-bond-cds-japan.md",
@@ -41139,9 +41134,9 @@
         "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 12737,
-      "word_like_tokens": 2147,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 12772,
+      "word_like_tokens": 2152,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/cds-japan-corporate-spread-mechanics.md",
@@ -41514,7 +41509,7 @@
       "markdown_links": [],
       "nonspace_chars": 18464,
       "word_like_tokens": 2871,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/fx-options-japan-corporate-treasury.md",
@@ -41575,9 +41570,9 @@
         "https://finwiki.zksc.io/money-market/japan-money-market"
       ],
       "markdown_links": [],
-      "nonspace_chars": 15014,
-      "word_like_tokens": 2497,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 15052,
+      "word_like_tokens": 2502,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/fx-stp-broker-aggregation.md",
@@ -41721,7 +41716,7 @@
       "markdown_links": [],
       "nonspace_chars": 15516,
       "word_like_tokens": 2507,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/japan-cds-market-overview.md",
@@ -41794,9 +41789,9 @@
         "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13540,
-      "word_like_tokens": 2142,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 13573,
+      "word_like_tokens": 2146,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/japan-cms-constant-maturity-swap.md",
@@ -41920,9 +41915,9 @@
         "https://finwiki.zksc.io/securities/japan-securities-clearing-corp"
       ],
       "markdown_links": [],
-      "nonspace_chars": 21643,
-      "word_like_tokens": 3452,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 21676,
+      "word_like_tokens": 3456,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/japan-inflation-swap.md",
@@ -42793,9 +42788,9 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16342,
-      "word_like_tokens": 2751,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 16382,
+      "word_like_tokens": 2756,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/ois-tona-curve.md",
@@ -43006,9 +43001,9 @@
         "https://finwiki.zksc.io/money-market/japan-money-market"
       ],
       "markdown_links": [],
-      "nonspace_chars": 15080,
-      "word_like_tokens": 2472,
-      "last_modified": "2026-06-01"
+      "nonspace_chars": 15127,
+      "word_like_tokens": 2478,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/structured-bond-japan-retail-issuance.md",
@@ -43081,9 +43076,9 @@
         "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13999,
-      "word_like_tokens": 2087,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 14036,
+      "word_like_tokens": 2091,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "derivatives/structured-product-eb-knockin-japan-retail.md",
@@ -43650,7 +43645,7 @@
       "markdown_links": [],
       "nonspace_chars": 10666,
       "word_like_tokens": 1843,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "exchanges/INDEX.md",
@@ -44988,9 +44983,9 @@
         "https://finwiki.zksc.io/exchanges/solana-ecosystem-dex-comparison"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3570,
-      "word_like_tokens": 617,
-      "last_modified": "2026-06-01"
+      "nonspace_chars": 3609,
+      "word_like_tokens": 621,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis.md",
@@ -45275,7 +45270,7 @@
       ],
       "nonspace_chars": 6906,
       "word_like_tokens": 1296,
-      "last_modified": "2026-05-30"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "exchanges/fsa-vasp-registration-system.md",
@@ -52276,9 +52271,9 @@
         "https://finwiki.zksc.io/structured-finance/project-finance-spv-japan-renewable"
       ],
       "markdown_links": [],
-      "nonspace_chars": 12516,
-      "word_like_tokens": 1848,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 12596,
+      "word_like_tokens": 1857,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "finance/fire-math-reverse-derivation.md",
@@ -52605,9 +52600,9 @@
         "https://finwiki.zksc.io/securities/japan-underwriting-market-structure"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13757,
-      "word_like_tokens": 2046,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 13857,
+      "word_like_tokens": 2058,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "finance/japan-cross-shareholding-unwinding-economics.md",
@@ -53208,9 +53203,9 @@
         "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing"
       ],
       "markdown_links": [],
-      "nonspace_chars": 27728,
-      "word_like_tokens": 4395,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 27767,
+      "word_like_tokens": 4400,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "finance/japan-private-equity-operating-model.md",
@@ -53360,9 +53355,9 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7339,
-      "word_like_tokens": 1072,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 7391,
+      "word_like_tokens": 1079,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "finance/japan-takeover-defense-poison-pill.md",
@@ -53467,9 +53462,9 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5578,
-      "word_like_tokens": 836,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 5625,
+      "word_like_tokens": 841,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "finance/jftc-merger-control-process.md",
@@ -55640,9 +55635,9 @@
         "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3753,
-      "word_like_tokens": 656,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3793,
+      "word_like_tokens": 661,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/dora-eu-digital-operational-resilience-ctpp.md",
@@ -56308,9 +56303,9 @@
         "https://finwiki.zksc.io/systems/sepa-instant-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4823,
-      "word_like_tokens": 781,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4864,
+      "word_like_tokens": 785,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/fatf-travel-rule-cross-border-stack.md",
@@ -56506,9 +56501,9 @@
         "https://finwiki.zksc.io/systems/swift-iso-20022-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5204,
-      "word_like_tokens": 804,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5243,
+      "word_like_tokens": 808,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/four-motive-classes-asymmetric-competition.md",
@@ -57841,9 +57836,9 @@
         "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1933,
-      "word_like_tokens": 273,
-      "last_modified": "2026-05-28"
+      "nonspace_chars": 1971,
+      "word_like_tokens": 278,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/japan-listed-company-disclosure-monitoring.md",
@@ -57980,9 +57975,9 @@
         "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2371,
-      "word_like_tokens": 366,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 2419,
+      "word_like_tokens": 372,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/japan-third-party-allotment-5-step-flow.md",
@@ -58241,7 +58236,7 @@
       "markdown_links": [],
       "nonspace_chars": 5074,
       "word_like_tokens": 782,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/jpmorgan-jpmd-coin.md",
@@ -59327,7 +59322,7 @@
       "markdown_links": [],
       "nonspace_chars": 4944,
       "word_like_tokens": 757,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "fintech/paxos-paxg-post-binance-pivot.md",
@@ -61391,7 +61386,7 @@
       "markdown_links": [],
       "nonspace_chars": 10908,
       "word_like_tokens": 1871,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "governance/INDEX.md",
@@ -61884,9 +61879,9 @@
         "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics"
       ],
       "markdown_links": [],
-      "nonspace_chars": 18455,
-      "word_like_tokens": 2840,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 18481,
+      "word_like_tokens": 2844,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/captive-insurance-japan-market.md",
@@ -62024,7 +62019,7 @@
       "markdown_links": [],
       "nonspace_chars": 14540,
       "word_like_tokens": 2232,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/earthquake-insurance-public-private-scheme.md",
@@ -62565,7 +62560,7 @@
       "markdown_links": [],
       "nonspace_chars": 13277,
       "word_like_tokens": 2098,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/japan-bancassurance-distribution-overlay-matrix.md",
@@ -62718,9 +62713,9 @@
         "https://www.smfg.co.jp/english/",
         "https://www.zenginkyo.or.jp/en/"
       ],
-      "nonspace_chars": 33042,
-      "word_like_tokens": 5069,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 33088,
+      "word_like_tokens": 5074,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/japan-iaig-ics-mapping.md",
@@ -63054,9 +63049,9 @@
         "https://www.sonpo.or.jp/about/gaiyo/",
         "https://www.zenrosai.coop/"
       ],
-      "nonspace_chars": 32058,
-      "word_like_tokens": 4934,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 32125,
+      "word_like_tokens": 4943,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/japan-life-big-four-overlay-comparison-matrix.md",
@@ -63157,7 +63152,7 @@
       "markdown_links": [],
       "nonspace_chars": 33330,
       "word_like_tokens": 5185,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/japan-life-insurance-alm-overview.md",
@@ -63629,9 +63624,9 @@
         "https://finwiki.zksc.io/insurance/saison-automobile-fire"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6344,
-      "word_like_tokens": 934,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 6387,
+      "word_like_tokens": 939,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/kampo-japan-post-insurance.md",
@@ -63702,7 +63697,7 @@
       "markdown_links": [],
       "nonspace_chars": 13249,
       "word_like_tokens": 2187,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/life-insurance-channel-mix.md",
@@ -63978,7 +63973,7 @@
       "markdown_links": [],
       "nonspace_chars": 14489,
       "word_like_tokens": 2254,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "insurance/mutual-vs-stock-life-insurer.md",
@@ -64347,7 +64342,7 @@
       "markdown_links": [],
       "nonspace_chars": 16611,
       "word_like_tokens": 2851,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
@@ -64676,7 +64671,7 @@
       "markdown_links": [],
       "nonspace_chars": 12982,
       "word_like_tokens": 2234,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "loyalty/point-liability-accounting-boundary.md",
@@ -65321,9 +65316,9 @@
         "https://finwiki.zksc.io/manufacturing/toyota-financial-services"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5271,
-      "word_like_tokens": 774,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5294,
+      "word_like_tokens": 777,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "manufacturing/toyota-financial-services.md",
@@ -65769,7 +65764,7 @@
       "markdown_links": [],
       "nonspace_chars": 8929,
       "word_like_tokens": 1434,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "money-market/japan-mmf-money-market-mutual-fund.md",
@@ -66049,7 +66044,7 @@
       "markdown_links": [],
       "nonspace_chars": 25355,
       "word_like_tokens": 4204,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "money-market/japan-tbill-treasury-discount-bill.md",
@@ -66181,9 +66176,9 @@
         "https://finwiki.zksc.io/money-market/japan-money-market"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5160,
-      "word_like_tokens": 847,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5196,
+      "word_like_tokens": 851,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "money-market/tanshi-company-business-model.md",
@@ -66833,9 +66828,9 @@
         "https://finwiki.zksc.io/payments/psp-merchant-settlement-risk"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5558,
-      "word_like_tokens": 782,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5602,
+      "word_like_tokens": 788,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "payments/edy-rakuten-prepaid.md",
@@ -67990,9 +67985,9 @@
         "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency"
       ],
       "markdown_links": [],
-      "nonspace_chars": 26563,
-      "word_like_tokens": 4396,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 26661,
+      "word_like_tokens": 4408,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "payments/japan-interchange-and-merchant-fee-stack.md",
@@ -68388,9 +68383,9 @@
         "https://finwiki.zksc.io/payments/merchant-bank-pay-account-direct-acquiring"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8284,
-      "word_like_tokens": 1265,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 8326,
+      "word_like_tokens": 1270,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "payments/japan-payment-fraud-incident-timeline-2023-2025.md",
@@ -68536,7 +68531,7 @@
       "markdown_links": [],
       "nonspace_chars": 22655,
       "word_like_tokens": 3822,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "payments/japan-prepaid-electronic-money-operator-matrix.md",
@@ -68700,9 +68695,9 @@
         "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14953,
-      "word_like_tokens": 2438,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 15063,
+      "word_like_tokens": 2454,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "payments/jcb-three-party-operating-model.md",
@@ -70058,7 +70053,6 @@
       "wikilinks": [
         "INDEX",
         "JapanFG/jfc",
-        "JapanFG/kawasaki-shipyard",
         "JapanFG/minato-bank",
         "JapanFG/mizuho-fg",
         "JapanFG/mufg",
@@ -70082,7 +70076,6 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
         "https://finwiki.zksc.io/JapanFG/jfc",
-        "https://finwiki.zksc.io/JapanFG/kawasaki-shipyard",
         "https://finwiki.zksc.io/JapanFG/minato-bank",
         "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
@@ -70104,9 +70097,9 @@
         "https://finwiki.zksc.io/policy-finance/tokyo-credit-guarantee-corp"
       ],
       "markdown_links": [],
-      "nonspace_chars": 12131,
-      "word_like_tokens": 1851,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 12100,
+      "word_like_tokens": 1848,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "policy-finance/japan-credit-guarantee-system.md",
@@ -70616,9 +70609,9 @@
         "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4599,
-      "word_like_tokens": 651,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4642,
+      "word_like_tokens": 656,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "policy-finance/japan-project-finance-stack-diagram.md",
@@ -71576,7 +71569,7 @@
       "markdown_links": [],
       "nonspace_chars": 17727,
       "word_like_tokens": 2700,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "policy-finance/osaka-credit-guarantee-corp.md",
@@ -72141,7 +72134,7 @@
       "markdown_links": [],
       "nonspace_chars": 14051,
       "word_like_tokens": 2360,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "real-estate-finance/glp-j-reit-3281.md",
@@ -72771,7 +72764,7 @@
       "markdown_links": [],
       "nonspace_chars": 15128,
       "word_like_tokens": 2418,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "real-estate-finance/japan-real-estate-appraisal-methodology.md",
@@ -72842,7 +72835,7 @@
       "markdown_links": [],
       "nonspace_chars": 13904,
       "word_like_tokens": 2240,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "real-estate-finance/japan-real-estate-j-reit-8952.md",
@@ -73055,9 +73048,9 @@
         "https://finwiki.zksc.io/real-estate-finance/real-estate-private-credit-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14238,
-      "word_like_tokens": 2262,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 14276,
+      "word_like_tokens": 2267,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison.md",
@@ -75078,6 +75071,39 @@
       "last_modified": "2026-06-02"
     },
     {
+      "source_path": "releases/v2026.06.02-4.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.02-4",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-4.md",
+      "title": "Wikiリンク実在性ゲート追加と死リンク修復",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-06-02 JST の FinWiki graph integrity リリースです。本文内 wikilink が存在しない target を指す場合も release-blocking issue として検出するよう、wiki-link audit と CI gate を強化しました。",
+      "headings": [
+        "Wikiリンク実在性ゲート追加と死リンク修復",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [
+        "...",
+        "wikilink"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/...",
+        "https://finwiki.zksc.io/wikilink"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5334,
+      "word_like_tokens": 947,
+      "last_modified": "2026-06-02"
+    },
+    {
       "source_path": "releases/v2026.06.02.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.02",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02.md",
@@ -75289,7 +75315,7 @@
       "markdown_links": [],
       "nonspace_chars": 13788,
       "word_like_tokens": 2165,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "retail/japan-retail-financial-distribution-wedge-matrix.md",
@@ -75439,7 +75465,7 @@
       ],
       "nonspace_chars": 6269,
       "word_like_tokens": 1086,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md",
@@ -75893,9 +75919,9 @@
         "https://finwiki.zksc.io/securities/osaka-digital-exchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4542,
-      "word_like_tokens": 647,
-      "last_modified": "2026-05-21"
+      "nonspace_chars": 4677,
+      "word_like_tokens": 661,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "securities/japan-asset-manager-landscape-matrix.md",
@@ -75996,9 +76022,9 @@
         "https://finwiki.zksc.io/securities/nisa-2024-flow"
       ],
       "markdown_links": [],
-      "nonspace_chars": 19048,
-      "word_like_tokens": 3058,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 19123,
+      "word_like_tokens": 3068,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "securities/japan-best-execution-sor-pts.md",
@@ -76224,9 +76250,9 @@
         "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13271,
-      "word_like_tokens": 1794,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 13287,
+      "word_like_tokens": 1796,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "securities/japan-equity-analyst-and-sell-side-research-ecosystem.md",
@@ -76522,7 +76548,7 @@
       "markdown_links": [],
       "nonspace_chars": 36440,
       "word_like_tokens": 5573,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md",
@@ -77602,7 +77628,6 @@
       ],
       "wikilinks": [
         "INDEX",
-        "JapanFG/chubu-electric-power",
         "JapanFG/mizuho-bank",
         "JapanFG/mufg",
         "JapanFG/orix",
@@ -77636,7 +77661,6 @@
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
-        "https://finwiki.zksc.io/JapanFG/chubu-electric-power",
         "https://finwiki.zksc.io/JapanFG/mizuho-bank",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/orix",
@@ -77669,9 +77693,9 @@
         "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
       ],
       "markdown_links": [],
-      "nonspace_chars": 19867,
-      "word_like_tokens": 3041,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 19834,
+      "word_like_tokens": 3037,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "securities/japan-underwriting-market-structure.md",
@@ -78718,7 +78742,7 @@
       "markdown_links": [],
       "nonspace_chars": 4903,
       "word_like_tokens": 746,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/abcp-conduit-japan-megabank.md",
@@ -78907,9 +78931,9 @@
         "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6520,
-      "word_like_tokens": 1045,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6545,
+      "word_like_tokens": 1048,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/consumer-loan-abs-japan-card-issuer.md",
@@ -79082,9 +79106,9 @@
         "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
       ],
       "markdown_links": [],
-      "nonspace_chars": 10677,
-      "word_like_tokens": 1814,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 10734,
+      "word_like_tokens": 1822,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/infrastructure-finance-spv-japan.md",
@@ -79492,9 +79516,9 @@
         "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
       ],
       "markdown_links": [],
-      "nonspace_chars": 14878,
-      "word_like_tokens": 2387,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 14913,
+      "word_like_tokens": 2391,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/japan-covered-bond-mufg-smbc.md",
@@ -79569,7 +79593,7 @@
       "markdown_links": [],
       "nonspace_chars": 11406,
       "word_like_tokens": 1782,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/japan-credit-card-receivable-abs.md",
@@ -79642,7 +79666,7 @@
       "markdown_links": [],
       "nonspace_chars": 15289,
       "word_like_tokens": 2465,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/japan-equipment-lease-abs.md",
@@ -80004,7 +80028,7 @@
       "markdown_links": [],
       "nonspace_chars": 36998,
       "word_like_tokens": 5790,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/japan-trust-beneficial-interest-vs-spv.md",
@@ -80425,7 +80449,7 @@
       "markdown_links": [],
       "nonspace_chars": 11451,
       "word_like_tokens": 1771,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/ship-financing-japan-megabank.md",
@@ -80506,9 +80530,9 @@
         "https://finwiki.zksc.io/structured-finance/synthetic-securitization-japan-bank-rwa-relief"
       ],
       "markdown_links": [],
-      "nonspace_chars": 12507,
-      "word_like_tokens": 2005,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 12570,
+      "word_like_tokens": 2015,
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "structured-finance/spv-tk-gk-vehicle-japan-tax.md",
@@ -80705,7 +80729,7 @@
       "markdown_links": [],
       "nonspace_chars": 11300,
       "word_like_tokens": 1749,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "systems/INDEX.md",
@@ -83885,7 +83909,7 @@
       "markdown_links": [],
       "nonspace_chars": 15856,
       "word_like_tokens": 2240,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-06-02"
     },
     {
       "source_path": "trade/INDEX.md",
@@ -84078,16 +84102,21 @@
         "FinWiki Internal Link Improvement Plan",
         "Summary",
         "Wiki Linking Standard",
+        "Priority A0: Dead Wikilink Targets",
         "Priority A: Failing Entries",
         "Priority B: Current Worktree Entries To Review",
         "Domain Snapshot",
         "Execution Notes"
       ],
-      "wikilinks": [],
-      "resolved_wikilinks": [],
+      "wikilinks": [
+        "wikilink"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/wikilink"
+      ],
       "markdown_links": [],
-      "nonspace_chars": 1969,
-      "word_like_tokens": 374,
+      "nonspace_chars": 7249,
+      "word_like_tokens": 1300,
       "last_modified": "2026-06-02"
     }
   ]

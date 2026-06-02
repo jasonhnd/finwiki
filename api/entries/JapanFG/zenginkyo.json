@@ -18,7 +18,8 @@
       "Japanese Bankers Association",
       "全国銀行協会",
       "全銀協",
-      "JBA"
+      "JBA",
+      "JapanFG/jbatibor"
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
@@ -109,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8594,
-    "word_like_tokens": 1346,
+    "nonspace_chars": 8613,
+    "word_like_tokens": 1348,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-02"
   }
 }

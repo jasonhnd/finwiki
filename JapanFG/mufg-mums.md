@@ -5,6 +5,8 @@ aliases:
   - "MUMSS"
   - "Mitsubishi UFJ Morgan Stanley Securities"
   - "三菱UFJモルガン・スタンレー証券"
+  - "JapanFG/mufg-morgan-stanley-securities"
+  - "JapanFG/mufg-msms"
 domain: "JapanFG"
 created: 2026-05-19
 last_updated: 2026-05-20

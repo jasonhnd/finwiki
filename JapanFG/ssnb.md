@@ -1,6 +1,14 @@
 ---
 title: 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行
-aliases: ["SBI Sumishin Net Bank", "住信 SBI", "SSNB", "住信 SBI ネット銀行", "NEOBANK", "ドコモ SMTB ネット銀行"]
+aliases:
+  - "SBI Sumishin Net Bank"
+  - "住信 SBI"
+  - "SSNB"
+  - "住信 SBI ネット銀行"
+  - "NEOBANK"
+  - "ドコモ SMTB ネット銀行"
+  - "JapanFG/sbi-sumishin-net-bank"
+  - "banking/sumishin-sbi-net-bank"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

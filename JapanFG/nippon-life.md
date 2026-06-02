@@ -1,6 +1,13 @@
 ---
 title: 日本生命保険相互会社 (Nippon Life)
-aliases: ["Nippon Life", "Nippon Life Insurance Company", "日本生命", "日生", "ニッセイ", "Nissay"]
+aliases:
+  - "Nippon Life"
+  - "Nippon Life Insurance Company"
+  - "日本生命"
+  - "日生"
+  - "ニッセイ"
+  - "Nissay"
+  - "JapanFG/nippon-life-insurance"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

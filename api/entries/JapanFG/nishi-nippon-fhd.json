@@ -15,7 +15,9 @@
       "Nishi-Nippon Financial Holdings",
       "西日本フィナンシャルホールディングス",
       "西日本 FHD",
-      "西日本シティ銀行 持株会社"
+      "西日本シティ銀行 持株会社",
+      "JapanFG/nishi-nippon-fh",
+      "JapanFG/nnfh"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -93,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3894,
-    "word_like_tokens": 574,
+    "nonspace_chars": 3934,
+    "word_like_tokens": 580,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

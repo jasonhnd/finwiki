@@ -9,6 +9,9 @@ aliases:
   - "日本 共済 保険業法 比較マトリクス"
   - "JA Zenkyoren Zenrosai Kenmin COOP perimeter matrix"
   - "Japan cooperative insurance vs commercial insurance matrix"
+  - "JapanFG/coop-kyosai"
+  - "JapanFG/japan-coop"
+  - "JapanFG/kenmin-kyosai"
 domain: insurance
 created: 2026-05-25
 last_updated: 2026-05-25

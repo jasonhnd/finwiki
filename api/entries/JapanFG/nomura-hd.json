@@ -15,7 +15,9 @@
       "Nomura Holdings",
       "野村 HD",
       "野村ホールディングス",
-      "Nomura"
+      "Nomura",
+      "JapanFG/nomura-holdings",
+      "JapanFG/nomura-securities"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -76,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6785,
-    "word_like_tokens": 1150,
+    "nonspace_chars": 6838,
+    "word_like_tokens": 1156,
     "inbound_wikilinks_count": 78,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

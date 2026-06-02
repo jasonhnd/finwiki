@@ -1,6 +1,10 @@
 ---
 title: "大和アセットマネジメント"
-aliases: ["Daiwa Asset Management", "大和アセットマネジメント", "大和アセットマネジメント株式会社"]
+aliases:
+  - "Daiwa Asset Management"
+  - "大和アセットマネジメント"
+  - "大和アセットマネジメント株式会社"
+  - "JapanFG/daiwa-am"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

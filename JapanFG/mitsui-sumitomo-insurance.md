@@ -1,6 +1,12 @@
 ---
 title: "三井住友海上火災保険"
-aliases: ["三井住友海上", "MSI", "Mitsui Sumitomo Insurance", "三井住友海上火災保険株式会社"]
+aliases:
+  - "三井住友海上"
+  - "MSI"
+  - "Mitsui Sumitomo Insurance"
+  - "三井住友海上火災保険株式会社"
+  - "JapanFG/mitsui-sumitomo"
+  - "JapanFG/taisho-kasai"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

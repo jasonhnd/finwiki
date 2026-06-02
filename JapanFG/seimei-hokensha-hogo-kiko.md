@@ -1,6 +1,15 @@
 ---
 title: 生命保険契約者保護機構
-aliases: ["生保契約者保護機構", "Life Insurance Policyholders Protection Corporation of Japan", "LIPP", "生命保険契約者保護機構"]
+aliases:
+  - "生保契約者保護機構"
+  - "Life Insurance Policyholders Protection Corporation of Japan"
+  - "LIPP"
+  - "生命保険契約者保護機構"
+  - "JapanFG/chiyoda-life"
+  - "JapanFG/nissan-life"
+  - "JapanFG/taisho-life"
+  - "JapanFG/tokyo-life"
+  - "JapanFG/yamato-life"
 domain: JapanFG
 created: 2026-05-25
 last_updated: 2026-05-25

@@ -1,6 +1,13 @@
 ---
 title: 三井住友 FG (SMFG / SMBC グループ)
-aliases: ["SMFG", "SMBC Group", "SMBCグループ", "Sumitomo Mitsui FG", "三井住友フィナンシャルグループ", "三井住友 FG"]
+aliases:
+  - "SMFG"
+  - "SMBC Group"
+  - "SMBCグループ"
+  - "Sumitomo Mitsui FG"
+  - "三井住友フィナンシャルグループ"
+  - "三井住友 FG"
+  - "JapanFG/smbc-group"
 domain: JapanFG
 created: 2026-05-18
 last_updated: 2026-05-26

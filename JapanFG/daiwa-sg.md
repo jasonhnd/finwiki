@@ -1,6 +1,14 @@
 ---
 title: 大和証券グループ本社 (Daiwa Securities Group)
-aliases: ["Daiwa Securities Group", "大和証券グループ本社", "Daiwa SG", "8601", "大和証券", "Daiwa Securities"]
+aliases:
+  - "Daiwa Securities Group"
+  - "大和証券グループ本社"
+  - "Daiwa SG"
+  - "8601"
+  - "大和証券"
+  - "Daiwa Securities"
+  - "JapanFG/daiwa-securities"
+  - "JapanFG/daiwa-securities-group"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

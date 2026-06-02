@@ -55,7 +55,7 @@
     "北九州市の人口減少と地域経済"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 21,
     "wikilinks": [
       "JapanFG/18-shinwa-bank",
       "JapanFG/INDEX",
@@ -64,7 +64,6 @@
       "JapanFG/kitakyushu-bank",
       "JapanFG/kumamoto-bank",
       "JapanFG/nagoya-shinkin",
-      "JapanFG/nippon-steel",
       "JapanFG/nishi-nippon-city-bank",
       "JapanFG/nishi-nippon-fh",
       "JapanFG/sapporo-shinkin",
@@ -72,7 +71,6 @@
       "JapanFG/shinkin-central",
       "JapanFG/shinkin-network-services",
       "JapanFG/sumitomo-mitsui-trust",
-      "JapanFG/toto",
       "JapanFG/yokin-hoken-kiko",
       "JapanFG/zenshin-kyo",
       "banking/INDEX",
@@ -89,7 +87,6 @@
       "https://finwiki.zksc.io/JapanFG/kitakyushu-bank",
       "https://finwiki.zksc.io/JapanFG/kumamoto-bank",
       "https://finwiki.zksc.io/JapanFG/nagoya-shinkin",
-      "https://finwiki.zksc.io/JapanFG/nippon-steel",
       "https://finwiki.zksc.io/JapanFG/nishi-nippon-city-bank",
       "https://finwiki.zksc.io/JapanFG/nishi-nippon-fh",
       "https://finwiki.zksc.io/JapanFG/sapporo-shinkin",
@@ -97,7 +94,6 @@
       "https://finwiki.zksc.io/JapanFG/shinkin-central",
       "https://finwiki.zksc.io/JapanFG/shinkin-network-services",
       "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
-      "https://finwiki.zksc.io/JapanFG/toto",
       "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
       "https://finwiki.zksc.io/JapanFG/zenshin-kyo",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -110,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4953,
-    "word_like_tokens": 659,
+    "nonspace_chars": 4886,
+    "word_like_tokens": 651,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

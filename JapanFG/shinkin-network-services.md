@@ -8,6 +8,7 @@ aliases:
   - "Shinkin Network Services Co., Ltd."
   - "信金 ATM ネットワーク"
   - "信金共同センター"
+  - "banking/atm-network-japan"
 domain: JapanFG
 created: 2026-05-25
 last_updated: 2026-05-25

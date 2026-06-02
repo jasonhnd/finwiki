@@ -18,7 +18,9 @@
       "Gibraltar Life",
       "PGF生命",
       "プルデンシャル ジブラルタ ファイナンシャル生命",
-      "Prudential of Japan"
+      "Prudential of Japan",
+      "JapanFG/kyoei-life",
+      "JapanFG/prudential-life-japan"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -82,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5186,
-    "word_like_tokens": 727,
+    "nonspace_chars": 5238,
+    "word_like_tokens": 734,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

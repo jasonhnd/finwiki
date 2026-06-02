@@ -14,7 +14,12 @@
       "FIEA operator registry",
       "Japan FIBO registry",
       "金融商品取引業者 registry",
-      "金融商品取引業者登録一覧"
+      "金融商品取引業者登録一覧",
+      "JapanFG/crowdcredit-incorporated",
+      "JapanFG/funds-incorporated",
+      "JapanFG/jiaa",
+      "JapanFG/jiaa-advisory",
+      "JapanFG/securite-crowdfunding"
     ],
     "domain": "securities",
     "created": "2026-05-21",
@@ -141,9 +146,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4542,
-    "word_like_tokens": 647,
+    "nonspace_chars": 4677,
+    "word_like_tokens": 661,
     "inbound_wikilinks_count": 41,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

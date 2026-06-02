@@ -1,6 +1,13 @@
 ---
 title: かんぽ生命保険 (Japan Post Insurance)
-aliases: ["Japan Post Insurance", "かんぽ生命", "かんぽ", "Kampo Life", "株式会社かんぽ生命保険", "7181"]
+aliases:
+  - "Japan Post Insurance"
+  - "かんぽ生命"
+  - "かんぽ"
+  - "Kampo Life"
+  - "株式会社かんぽ生命保険"
+  - "7181"
+  - "JapanFG/kanpo-life"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

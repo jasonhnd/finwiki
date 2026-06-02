@@ -1,6 +1,14 @@
 ---
 title: 日本郵政 (Japan Post Holdings)
-aliases: ["Japan Post", "Japan Post Holdings", "日本郵政", "日本郵政株式会社", "JP HD", "JPHD"]
+aliases:
+  - "Japan Post"
+  - "Japan Post Holdings"
+  - "日本郵政"
+  - "日本郵政株式会社"
+  - "JP HD"
+  - "JPHD"
+  - "JapanFG/japan-post"
+  - "JapanFG/japan-post-co"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

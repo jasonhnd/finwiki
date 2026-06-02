@@ -1,6 +1,12 @@
 ---
 title: "第一ネオ生命保険"
-aliases: ["第一ネオ生命", "Neo First Life", "Dai-ichi Neo Life", "第一ネオ生命保険株式会社", "ネオファースト生命"]
+aliases:
+  - "第一ネオ生命"
+  - "Neo First Life"
+  - "Dai-ichi Neo Life"
+  - "第一ネオ生命保険株式会社"
+  - "ネオファースト生命"
+  - "JapanFG/neo-first-life"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

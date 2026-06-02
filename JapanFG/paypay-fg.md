@@ -1,6 +1,11 @@
 ---
 title: PayPay 金融グループ
-aliases: ["PayPay FG", "PayPay 金融グループ", "PayPay Financial Group", "SoftBank 系金融事業"]
+aliases:
+  - "PayPay FG"
+  - "PayPay 金融グループ"
+  - "PayPay Financial Group"
+  - "SoftBank 系金融事業"
+  - "JapanFG/line-pay"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

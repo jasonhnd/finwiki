@@ -8,6 +8,8 @@ aliases:
   - "mitsubishi-corp"
   - "mitsubishi-shoji"
   - "三菱商事株式会社"
+  - "finance/japan-trading-house-finance-arm-landscape"
+  - "mitsubishi-corporation"
 domain: JapanFG
 created: 2026-05-24
 last_updated: 2026-05-26

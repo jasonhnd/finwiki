@@ -17,7 +17,9 @@
       "S&P Japan securitization criteria",
       "Global vs domestic agency split rating Japan",
       "Sovereign rating cap Japan ABS",
-      "structured-finance/fitch-moody-sp-japan-criteria"
+      "structured-finance/fitch-moody-sp-japan-criteria",
+      "JapanFG/moodys-japan",
+      "JapanFG/sp-global-ratings-japan"
     ],
     "domain": "structured-finance",
     "created": "2026-05-25",
@@ -102,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10677,
-    "word_like_tokens": 1814,
+    "nonspace_chars": 10734,
+    "word_like_tokens": 1822,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

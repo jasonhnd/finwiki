@@ -9,6 +9,7 @@ aliases:
   - "Japan regional bank merger family tree"
   - "Japan FG holding-company genealogy"
   - "Japan post-1990 regional bank consolidations"
+  - "banking/regional-bank-tier-structure"
 domain: "banking"
 created: 2026-05-25
 last_updated: 2026-05-25

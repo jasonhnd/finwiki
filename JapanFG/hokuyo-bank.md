@@ -1,6 +1,15 @@
 ---
 title: 北洋銀行
-aliases: ["Hokuyo Bank", "株式会社北洋銀行", "北洋", "Hokuyou Bank", "札幌北洋HD", "Sapporo Hokuyo Holdings"]
+aliases:
+  - "Hokuyo Bank"
+  - "株式会社北洋銀行"
+  - "北洋"
+  - "Hokuyou Bank"
+  - "札幌北洋HD"
+  - "Sapporo Hokuyo Holdings"
+  - "JapanFG/north-pacific-bank"
+  - "JapanFG/north-pacific-bank-hd"
+  - "JapanFG/sapporo-hokuyo-bank"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

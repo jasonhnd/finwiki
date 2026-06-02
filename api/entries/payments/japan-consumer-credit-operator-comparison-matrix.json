@@ -15,7 +15,9 @@
       "japan-consumer-credit-operator-comparison-matrix",
       "Japan consumer credit operator categories",
       "card vs shoko-loan vs shinpan vs BNPL vs auto-captive Japan",
-      "日本消費者信用オペレーター比較マトリクス"
+      "日本消費者信用オペレーター比較マトリクス",
+      "JapanFG/yamada-financial-services",
+      "finance/japan-consumer-credit-and-leasing-finance-landscape"
     ],
     "domain": "payments",
     "created": "2026-05-24",
@@ -162,9 +164,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 26563,
-    "word_like_tokens": 4396,
+    "nonspace_chars": 26661,
+    "word_like_tokens": 4408,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

@@ -14,7 +14,12 @@
       "生保契約者保護機構",
       "Life Insurance Policyholders Protection Corporation of Japan",
       "LIPP",
-      "生命保険契約者保護機構"
+      "生命保険契約者保護機構",
+      "JapanFG/chiyoda-life",
+      "JapanFG/nissan-life",
+      "JapanFG/taisho-life",
+      "JapanFG/tokyo-life",
+      "JapanFG/yamato-life"
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
@@ -97,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4412,
-    "word_like_tokens": 650,
+    "nonspace_chars": 4521,
+    "word_like_tokens": 665,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

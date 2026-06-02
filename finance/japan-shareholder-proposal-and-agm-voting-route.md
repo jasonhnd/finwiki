@@ -4,6 +4,7 @@ aliases:
   - "Japan shareholder proposal AGM voting"
   - "Japan AGM voting route"
   - "株主提案 AGM voting Japan"
+  - "finance/japan-shareholder-proposal-and-agm-voting"
 domain: "finance"
 created: 2026-05-22
 last_updated: 2026-05-22
