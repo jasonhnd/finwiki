@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/AGENTS</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7910,6 +7910,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.02-6</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.02-7</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

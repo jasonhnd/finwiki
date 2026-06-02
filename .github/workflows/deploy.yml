@@ -28,7 +28,7 @@ jobs:
           bun-version: latest
 
       - name: Check wiki link graph
-        run: python tools/wiki_link_audit.py --fail-on-issues
+        run: bun run wiki:audit:ci
 
       - name: Install site deps
         working-directory: site
@@ -43,26 +43,14 @@ jobs:
         run: bun run build
 
       - name: Check duplicate HTML ids
-        run: python tools/check_duplicate_html_ids.py site/dist
+        run: bun run html:check
 
       - name: Build static search index
         working-directory: site
         run: bun run index:search
 
       - name: Assemble publish dir
-        run: |
-          mkdir -p _site
-          # 1) Expand the Astro site at the Pages root.
-          cp -r site/dist/. _site/
-          # 2) Copy raw Markdown and AI surfaces without overwriting Astro output.
-          #    The repository root index.html is excluded because Astro owns /.
-          rsync -a --ignore-existing \
-            --exclude='.git' --exclude='.github' --exclude='_site' \
-            --exclude='site' --exclude='node_modules' --exclude='app' \
-            --exclude='.opinions' --exclude='.templates' --exclude='tools' \
-            --exclude='releases' --exclude='index.html' \
-            ./ _site/
-          test -f _site/.nojekyll || touch _site/.nojekyll
+        run: bun tools/assemble_static_publish.ts --out _site
 
       - uses: actions/upload-pages-artifact@v5
         with:
