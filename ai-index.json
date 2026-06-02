@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-02T13:16:17+09:00",
+  "generated_at": "2026-06-02T18:21:42+09:00",
   "counts": {
-    "markdown_files": 1466,
-    "public_markdown_pages": 1465,
-    "site_urls_in_sitemap": 1466,
+    "markdown_files": 1467,
+    "public_markdown_pages": 1466,
+    "site_urls_in_sitemap": 1467,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9942460,
-    "word_like_tokens": 1606670
+    "nonspace_utf8_chars": 9951539,
+    "word_like_tokens": 1608221
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-02",
+        "静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1",
         "Bun工具体系への全面移行 / Full Bun tooling migration / Bun 工具体系全面迁移",
         "Pagefind静的全文検索追加 / Pagefind static full-text search / Pagefind 静态全文搜索",
-        "Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备",
-        "Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复"
+        "Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备"
       ],
       "wikilinks": [
         "...",
@@ -468,8 +468,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 460502,
-      "word_like_tokens": 81648,
+      "nonspace_chars": 464037,
+      "word_like_tokens": 82254,
       "last_modified": "2026-06-02"
     },
     {
@@ -34248,8 +34248,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 30919,
-      "word_like_tokens": 4959,
+      "nonspace_chars": 31848,
+      "word_like_tokens": 5135,
       "last_modified": "2026-06-02"
     },
     {
@@ -75183,6 +75183,33 @@
       "markdown_links": [],
       "nonspace_chars": 5783,
       "word_like_tokens": 996,
+      "last_modified": "2026-06-02"
+    },
+    {
+      "source_path": "releases/v2026.06.02-8.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.02-8",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-8.md",
+      "title": "静的サイト構造の第一段階整理",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "FinWiki の静的サイト構造 Phase 1 release です。Astro が root domain corpus を直接読む構造へ移行し、generated mirror と build-time corpus sync への依存を外しました。",
+      "headings": [
+        "静的サイト構造の第一段階整理",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 4615,
+      "word_like_tokens": 769,
       "last_modified": "2026-06-02"
     },
     {

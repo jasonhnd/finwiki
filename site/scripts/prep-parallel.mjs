@@ -5,10 +5,9 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, rmSync
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
 import { mask } from './protect.mjs';
+import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 
 const HERE = import.meta.dir;
-const ENTRIES = join(HERE, '..', 'src', 'content', 'entries');
-const I18N = join(HERE, '..', 'src', 'content', 'i18n');
 const JOBS = join(HERE, '..', '.cache', 'jobs');
 const LANGS = ['zh', 'en'];
 
@@ -30,7 +29,7 @@ function* walk(dir, rel = '') {
   for (const e of readdirSync(dir, { withFileTypes: true })) {
     const r = rel ? `${rel}/${e.name}` : e.name;
     if (e.isDirectory()) yield* walk(join(dir, e.name), r);
-    else if (e.name.endsWith('.md')) yield r;
+    else if (e.name.endsWith('.md') && e.name !== 'INDEX.md') yield r;
   }
 }
 
@@ -38,10 +37,10 @@ rmSync(JOBS, { recursive: true, force: true });
 for (let w = 0; w < WORKERS; w++) mkdirSync(join(JOBS, `w${w}`), { recursive: true });
 
 const todo = [];
-for (const rel of walk(ENTRIES)) {
+for (const rel of walkEntries(walk)) {
   if (todo.length >= TOTAL) break;
   const relLc = rel.toLowerCase();
-  const body = stripFm(readFileSync(join(ENTRIES, rel), 'utf8'));
+  const body = stripFm(readFileSync(join(REPO, rel), 'utf8'));
   const h = sha(body);
   const done = LANGS.every((lang) => {
     const p = join(I18N, lang, relLc);

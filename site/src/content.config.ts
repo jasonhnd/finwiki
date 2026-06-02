@@ -1,10 +1,42 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-// corpus 经 scripts/sync-corpus.ts 同步到 src/content/entries/（标准位置，零跨目录风险）。
-// schema 极宽容：只保证 title 是字符串，其余 frontmatter 原样透传（兼容 1380 篇差异）。
+const ENTRY_DOMAIN_DIRS = [
+  'agent-economy',
+  'banking',
+  'business',
+  'corporate-strategy',
+  'derivatives',
+  'exchanges',
+  'finance',
+  'fintech',
+  'governance',
+  'insurance',
+  'JapanFG',
+  'loyalty',
+  'manufacturing',
+  'money-market',
+  'payments',
+  'policy-finance',
+  'real-estate-finance',
+  'retail',
+  'securities',
+  'security',
+  'structured-finance',
+  'systems',
+  'trade',
+];
+
+// Astro reads the canonical root corpus directly. site/src/content/entries is no
+// longer a build input; it only exists in old ignored worktrees.
 const entries = defineCollection({
-  loader: glob({ base: './src/content/entries', pattern: '**/*.md' }),
+  loader: glob({
+    base: '../',
+    pattern: [
+      ...ENTRY_DOMAIN_DIRS.map((domain) => `${domain}/**/*.md`),
+      '!**/INDEX.md',
+    ],
+  }),
   schema: z
     .object({
       title: z.coerce.string().default('(untitled)'),
@@ -12,7 +44,7 @@ const entries = defineCollection({
     .passthrough(),
 });
 
-// 机翻成果物（translate.mjs 生成）。id = {lang}/{domain}/{slug}（小文字、entry.id と一致）。
+// Machine translation output. id = {lang}/{domain}/{slug}.
 const i18n = defineCollection({
   loader: glob({ base: './src/content/i18n', pattern: '**/*.md' }),
   schema: z

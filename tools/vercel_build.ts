@@ -46,11 +46,6 @@ function pipeline(): Step[] {
       command: ["bun", "tools/release.ts", "--check", "--strict"],
     },
     {
-      label: "Sync Astro content corpus",
-      cwd: SITE,
-      command: ["bun", "scripts/sync-corpus.ts"],
-    },
-    {
       label: "Build Astro site",
       cwd: SITE,
       command: ["bun", "run", "build"],

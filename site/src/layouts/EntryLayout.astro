@@ -1,21 +1,24 @@
 ---
 import Base from './Base.astro';
 import { u, type Lang } from '../i18n/ui';
+import { domainName } from '../i18n/domains';
+import { entryDomain, entryRoute } from '../lib/routes';
 interface Props { lang: Lang; entry: any; tr?: any }
 const { lang, entry, tr } = Astro.props;
 const fm = entry.data ?? {};
-const domain = fm.domain ?? entry.id.split('/')[0];
+const route = entryRoute(entry);
+const domain = entryDomain(entry);
 const sources = Array.isArray(fm.sources) ? fm.sources : [];
 const updated = fm.last_updated ? String(fm.last_updated).slice(0, 10) : null;
 const title = (tr?.data?.title && String(tr.data.title)) || fm.title;
 const machine = !!tr && tr.data?.status === 'machine';
 const needsReview = tr?.data?.fidelity === 'needs_review';
-const origHref = lang !== 'ja' ? u('ja', entry.id + '/') : null;
+const origHref = lang !== 'ja' ? u('ja', `${route}/`) : null;
 ---
 <Base lang={lang} title={title}>
   <article class="entry">
     <div class="entry-meta">
-      <a class="domain" href={u(lang)}>{domain}</a>
+      <a class="domain" href={u(lang, `domains/${domain}/`)}>{domainName(domain, lang)}</a>
       {fm.confidence && <span class="badge">confidence: {fm.confidence}</span>}
       {updated && <span class="badge">updated {updated}</span>}
       {sources.length > 0 && <span class="badge">{sources.length} sources</span>}

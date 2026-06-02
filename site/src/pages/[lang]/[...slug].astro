@@ -2,6 +2,7 @@
 import EntryLayout from '../../layouts/EntryLayout.astro';
 import { getCollection, render } from 'astro:content';
 import { langCodes, type Lang } from '../../i18n/ui';
+import { entryRoute, i18nEntryId } from '../../lib/routes';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
@@ -11,10 +12,13 @@ export async function getStaticPaths() {
     i18nMap = new Map(all.map((t) => [t.id, t]));
   } catch {}
   return langCodes.flatMap((lang) =>
-    entries.map((entry) => ({
-      params: { lang, slug: entry.id },
-      props: { entry, tr: i18nMap.get(`${lang}/${entry.id}`) ?? null, lang: lang as Lang },
-    })),
+    entries.map((entry) => {
+      const route = entryRoute(entry);
+      return {
+        params: { lang, slug: route },
+        props: { entry, tr: i18nMap.get(i18nEntryId(lang, entry)) ?? null, lang: lang as Lang },
+      };
+    }),
   );
 }
 

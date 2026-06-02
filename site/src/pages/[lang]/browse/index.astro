@@ -3,16 +3,17 @@ import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
 import { domainName } from '../../../i18n/domains';
+import { compareEntryRoute, entryDomain, entryRoute } from '../../../lib/routes';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
 }
 const { lang } = Astro.params as { lang: Lang };
 
-const all = (await getCollection('entries')).sort((a, b) => a.id.localeCompare(b.id));
+const all = (await getCollection('entries')).sort(compareEntryRoute);
 const byDomain = new Map<string, typeof all>();
 for (const e of all) {
-  const d = e.id.split('/')[0];
+  const d = entryDomain(e);
   if (!byDomain.has(d)) byDomain.set(d, [] as unknown as typeof all);
   byDomain.get(d)!.push(e);
 }
@@ -26,7 +27,7 @@ const domains = [...byDomain.keys()].sort();
       <h2>{domainName(d, lang)} <span class="dn">{byDomain.get(d)!.length}</span></h2>
       <ul data-pagefind-ignore>
         {byDomain.get(d)!.map((e) => (
-          <li><a href={u(lang, e.id + '/')}>{e.data.title}</a></li>
+          <li><a href={u(lang, `${entryRoute(e)}/`)}>{e.data.title}</a></li>
         ))}
       </ul>
     </section>

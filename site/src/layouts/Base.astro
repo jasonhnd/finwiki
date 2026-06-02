@@ -23,9 +23,9 @@ const desc = description ?? t(lang, 'site.tagline');
     <header class="site-header" data-pagefind-ignore>
       <a class="brand" href={u(lang)}>FinWiki</a>
       <nav class="site-nav">
-        <a href={u(lang)}>{t(lang, 'nav.domains')}</a>
-        <a href={u(lang, 'guide/')}>{t(lang, 'nav.guide')}</a>
-        <a href={u(lang, 'matrices/')}>{t(lang, 'nav.matrices')}</a>
+        <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
+        <a href={u(lang, 'browse/')}>{t(lang, 'nav.browse')}</a>
+        <a href="/llms.txt">{t(lang, 'nav.ai')}</a>
       </nav>
       <pagefind-modal-trigger class="site-search" placeholder={t(lang, 'nav.search')} shortcut="mod+k"></pagefind-modal-trigger>
       <LangSwitcher lang={lang} />
@@ -33,14 +33,6 @@ const desc = description ?? t(lang, 'site.tagline');
     <main data-pagefind-body><slot /></main>
     <pagefind-modal reset-on-close></pagefind-modal>
     <footer class="site-footer" data-pagefind-ignore>{t(lang, 'footer.note')}</footer>
-    <script define:vars={{ base: import.meta.env.BASE_URL, lang }}>
-      // wikilink は言語非依存で出力されるので、現在言語の href をクライアントで付与。
-      // アンカー（browse/#domain）は末尾スラッシュを付けない。
-      for (const a of document.querySelectorAll('a.wl[data-wl]')) {
-        const w = a.getAttribute('data-wl');
-        a.setAttribute('href', base + lang + '/' + w + (w.includes('#') ? '' : '/'));
-      }
-    </script>
     <style>
       :root {
         --max: 56rem; --fg: #1a1a1a; --muted: #666; --accent: #0b6;
