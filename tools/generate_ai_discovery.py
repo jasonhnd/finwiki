@@ -74,7 +74,10 @@ def site_url(path: str = "") -> str:
 def iter_markdown_files() -> Iterable[Path]:
     for path in ROOT.rglob("*.md"):
         rel = path.relative_to(ROOT)
-        if any(p in rel.parts for p in (".git", ".opinions", "site", "app")):
+        if any(
+            p in rel.parts
+            for p in (".git", ".opinions", "site", "app", ".vercel", "_site", "_vercel_public")
+        ):
             continue
         yield path
 

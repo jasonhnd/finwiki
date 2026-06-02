@@ -1,0 +1,9 @@
+{
+  "name": "finwiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "vercel:build": "node tools/vercel_build.mjs",
+    "publish:assemble": "node tools/assemble_static_publish.mjs --out _vercel_public"
+  }
+}

@@ -9,6 +9,7 @@ const OUT = join(HERE, '..', 'src', 'content', 'entries');
 const SKIP = new Set([
   '.git', '.opinions', 'site', 'tools', 'api', 'releases',
   '.templates', '.github', 'node_modules', '.cache', '.vscode', 'dist',
+  '.vercel', '_site', '_vercel_public', 'app',
 ]);
 
 async function* walk(dir: string): AsyncGenerator<string> {
