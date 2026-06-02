@@ -9,6 +9,7 @@ aliases:
   - "日経VI"
   - "Japan VIX equivalent"
   - "Nikkei implied volatility index"
+  - "derivatives/nikkei-vix-and-volatility"
 domain: derivatives
 created: 2026-05-25
 last_updated: 2026-05-25

@@ -19,7 +19,9 @@
       "利息制限法 consumer ABS",
       "Japan unsecured-loan ABS",
       "Dynamic-pool consumer ABS Japan",
-      "structured-finance/japan-consumer-loan-abs-structure"
+      "structured-finance/japan-consumer-loan-abs-structure",
+      "JapanFG/funds",
+      "JapanFG/lendable"
     ],
     "domain": "structured-finance",
     "created": "2026-05-25",
@@ -118,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14878,
-    "word_like_tokens": 2387,
+    "nonspace_chars": 14913,
+    "word_like_tokens": 2391,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

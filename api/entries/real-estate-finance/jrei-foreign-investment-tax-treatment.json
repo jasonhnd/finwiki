@@ -17,7 +17,8 @@
       "TK investor tax efficiency",
       "J-REIT 90% distribution rule",
       "Japan PE FPI distinction real-estate",
-      "Japan real-estate double tax treaty"
+      "Japan real-estate double tax treaty",
+      "JapanFG/japan-real-estate-institute"
     ],
     "domain": "real-estate-finance",
     "created": "2026-05-25",
@@ -114,9 +115,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14238,
-    "word_like_tokens": 2262,
+    "nonspace_chars": 14276,
+    "word_like_tokens": 2267,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

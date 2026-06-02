@@ -13,7 +13,8 @@
     "aliases": [
       "japan-tender-offer-process",
       "Japan TOB process",
-      "公開買付け process"
+      "公開買付け process",
+      "corporate-strategy/parent-subsidiary-listing"
     ],
     "domain": "finance",
     "created": "2026-05-22",
@@ -94,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5578,
-    "word_like_tokens": 836,
+    "nonspace_chars": 5625,
+    "word_like_tokens": 841,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-02"
   }
 }

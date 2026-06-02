@@ -1,6 +1,12 @@
 ---
 title: 日本カストディ銀行 (CBJ)
-aliases: ["CBJ", "日本カストディ銀行", "株式会社日本カストディ銀行", "Custody Bank of Japan", "日本カストディ銀行 (信託口)"]
+aliases:
+  - "CBJ"
+  - "日本カストディ銀行"
+  - "株式会社日本カストディ銀行"
+  - "Custody Bank of Japan"
+  - "日本カストディ銀行 (信託口)"
+  - "JapanFG/japan-trustee-services-bank"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

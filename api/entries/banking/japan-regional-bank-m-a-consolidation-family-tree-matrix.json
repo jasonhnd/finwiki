@@ -18,7 +18,8 @@
       "地銀再編 family tree",
       "Japan regional bank merger family tree",
       "Japan FG holding-company genealogy",
-      "Japan post-1990 regional bank consolidations"
+      "Japan post-1990 regional bank consolidations",
+      "banking/regional-bank-tier-structure"
     ],
     "domain": "banking",
     "created": "2026-05-25",
@@ -232,9 +233,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 30996,
-    "word_like_tokens": 5466,
+    "nonspace_chars": 31035,
+    "word_like_tokens": 5471,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

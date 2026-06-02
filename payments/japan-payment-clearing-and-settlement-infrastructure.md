@@ -4,6 +4,8 @@ aliases:
   - "Japan payment clearing infrastructure"
   - "Japan payment settlement infrastructure"
   - "日本 決済 清算 settlement infrastructure"
+  - "banking/zengin-network"
+  - "systems/zengin"
 domain: "payments"
 created: 2026-05-22
 last_updated: 2026-05-22

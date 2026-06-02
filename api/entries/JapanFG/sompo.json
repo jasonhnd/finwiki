@@ -15,7 +15,8 @@
       "Sompo Holdings",
       "SOMPO ホールディングス",
       "損保ジャパン HD",
-      "旧 NKSJ HD"
+      "旧 NKSJ HD",
+      "JapanFG/taisei-kasai"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -81,9 +82,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6285,
-    "word_like_tokens": 991,
+    "nonspace_chars": 6307,
+    "word_like_tokens": 994,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

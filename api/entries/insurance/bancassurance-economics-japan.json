@@ -16,7 +16,8 @@
       "銀行窓販",
       "ginkou-mado-han",
       "bank-channel insurance Japan",
-      "post-2007 bancassurance deregulation"
+      "post-2007 bancassurance deregulation",
+      "JapanFG/mufg-life-japan"
     ],
     "domain": "insurance",
     "created": "2026-05-25",
@@ -138,9 +139,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18455,
-    "word_like_tokens": 2840,
+    "nonspace_chars": 18481,
+    "word_like_tokens": 2844,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

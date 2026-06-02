@@ -27,6 +27,9 @@ jobs:
         with:
           bun-version: latest
 
+      - name: Check wiki link graph
+        run: python tools/wiki_link_audit.py --fail-on-issues
+
       - name: Install site deps
         working-directory: site
         run: bun install

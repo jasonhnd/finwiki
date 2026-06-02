@@ -1,6 +1,11 @@
 ---
 title: "三井住友カード (SMCC)"
-aliases: ["SMBC Card", "Sumitomo Mitsui Card", "三井住友カード", "三井住友カード株式会社"]
+aliases:
+  - "SMBC Card"
+  - "Sumitomo Mitsui Card"
+  - "三井住友カード"
+  - "三井住友カード株式会社"
+  - "JapanFG/sumitomo-mitsui-card"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

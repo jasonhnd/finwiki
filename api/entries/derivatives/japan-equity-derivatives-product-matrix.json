@@ -18,7 +18,8 @@
       "OSE equity derivatives matrix",
       "Japan listed equity options matrix",
       "Japan equity derivative product comparison",
-      "日本 株式デリバティブ比較マトリクス"
+      "日本 株式デリバティブ比較マトリクス",
+      "derivatives/equity-options-ose"
     ],
     "domain": "derivatives",
     "created": "2026-05-25",
@@ -111,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21643,
-    "word_like_tokens": 3452,
+    "nonspace_chars": 21676,
+    "word_like_tokens": 3456,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

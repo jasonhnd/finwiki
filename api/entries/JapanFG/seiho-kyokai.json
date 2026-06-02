@@ -18,7 +18,8 @@
       "Life Insurance Association of Japan",
       "生命保険協会",
       "生保協会",
-      "LIAJ"
+      "LIAJ",
+      "JapanFG/seimei-bunka-center"
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
@@ -128,9 +129,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8012,
-    "word_like_tokens": 1234,
+    "nonspace_chars": 8042,
+    "word_like_tokens": 1238,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-02"
   }
 }

@@ -6,6 +6,10 @@ aliases:
   - "Japan asset management competitive matrix"
   - "日本 資産運用業界 landscape"
   - "日本 運用会社 競争マトリクス"
+  - "JapanFG/commons-am"
+  - "JapanFG/hifumi"
+  - "JapanFG/jita"
+  - "JapanFG/sawakami-am"
 domain: "securities"
 created: 2026-05-24
 last_updated: 2026-05-24

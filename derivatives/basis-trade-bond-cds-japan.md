@@ -8,6 +8,7 @@ aliases:
   - "long-cash-short-CDS Japan"
   - "日本 ベーシス トレード"
   - "日本社債 CDS ベーシス"
+  - "derivatives/bond-cds-basis-trade"
 domain: derivatives
 created: 2026-05-25
 last_updated: 2026-05-25

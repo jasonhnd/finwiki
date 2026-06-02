@@ -8,6 +8,7 @@ aliases:
   - "Japan corporate CDS"
   - "日本 CDS マーケット"
   - "日本クレジット・デフォルト・スワップ市場"
+  - "derivatives/itraxx-japan-index"
 domain: derivatives
 created: 2026-05-25
 last_updated: 2026-05-25

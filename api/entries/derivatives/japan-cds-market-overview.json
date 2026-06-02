@@ -17,7 +17,8 @@
       "Japan single-name CDS",
       "Japan corporate CDS",
       "日本 CDS マーケット",
-      "日本クレジット・デフォルト・スワップ市場"
+      "日本クレジット・デフォルト・スワップ市場",
+      "derivatives/itraxx-japan-index"
     ],
     "domain": "derivatives",
     "created": "2026-05-25",
@@ -117,9 +118,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13540,
-    "word_like_tokens": 2142,
+    "nonspace_chars": 13573,
+    "word_like_tokens": 2146,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

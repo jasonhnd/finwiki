@@ -1,6 +1,11 @@
 ---
 title: "ソニー損害保険"
-aliases: ["ソニー損保", "Sony Assurance", "Sony Insurance", "ソニー損害保険株式会社"]
+aliases:
+  - "ソニー損保"
+  - "Sony Assurance"
+  - "Sony Insurance"
+  - "ソニー損害保険株式会社"
+  - "insurance/sony-assurance"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

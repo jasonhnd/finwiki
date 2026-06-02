@@ -11,6 +11,7 @@ aliases:
   - "Suica Pay"
   - "JR東日本ペイメントサービス"
   - "JR East Payment Service"
+  - "JapanFG/jr-east"
 domain: JapanFG
 created: 2026-05-25
 last_updated: 2026-05-25

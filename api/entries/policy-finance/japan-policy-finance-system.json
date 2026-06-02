@@ -13,7 +13,8 @@
     "aliases": [
       "policy-finance/japan-policy-finance-system",
       "japan-policy-finance-system",
-      "日本政策金融システム"
+      "日本政策金融システム",
+      "banking/japan-disaster-finance-framework"
     ],
     "domain": "policy-finance",
     "created": "2026-05-19",
@@ -85,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4599,
-    "word_like_tokens": 651,
+    "nonspace_chars": 4642,
+    "word_like_tokens": 656,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

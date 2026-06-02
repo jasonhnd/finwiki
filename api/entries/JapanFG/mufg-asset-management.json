@@ -14,7 +14,9 @@
       "Mitsubishi UFJ Asset Management",
       "三菱UFJアセットマネジメント",
       "三菱UFJアセットマネジメント株式会社",
-      "MUAM"
+      "MUAM",
+      "JapanFG/mitsubishi-ufj-am",
+      "JapanFG/mitsubishi-ufj-asset-management"
     ],
     "domain": "JapanFG",
     "created": "2026-05-20",
@@ -72,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1656,
-    "word_like_tokens": 255,
+    "nonspace_chars": 1725,
+    "word_like_tokens": 264,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

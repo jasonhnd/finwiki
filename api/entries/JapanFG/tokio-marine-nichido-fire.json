@@ -15,7 +15,8 @@
       "東京海上日動火災",
       "Tokio Marine & Nichido Fire",
       "Tokio Marine Nichido Fire Insurance",
-      "東京海上日動火災保険株式会社"
+      "東京海上日動火災保険株式会社",
+      "JapanFG/tokio-marine-nichido"
     ],
     "domain": "JapanFG",
     "created": "2026-05-21",
@@ -76,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2084,
-    "word_like_tokens": 318,
+    "nonspace_chars": 2114,
+    "word_like_tokens": 322,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

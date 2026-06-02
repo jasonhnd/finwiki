@@ -9,6 +9,7 @@ aliases:
   - "JFSA retail FX rules"
   - "FFAJ retail FX"
   - "25x leverage cap Japan"
+  - "derivatives/non-deliverable-forward-jpy-asia"
 domain: derivatives
 created: 2026-05-25
 last_updated: 2026-05-25

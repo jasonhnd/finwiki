@@ -1,6 +1,13 @@
 ---
 title: マネックスグループ (Monex Group)
-aliases: ["Monex Group", "マネックスグループ", "Monex Group, Inc.", "8698", "マネックス"]
+aliases:
+  - "Monex Group"
+  - "マネックスグループ"
+  - "Inc."
+  - "8698"
+  - "マネックス"
+  - "JapanFG/monex-asset-management"
+  - "JapanFG/monex-securities"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

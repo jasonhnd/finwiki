@@ -9,6 +9,7 @@ aliases:
   - "risk reversal JPY"
   - "vanilla FX option Japan corp"
   - "knock-out FX option Japan"
+  - "derivatives/japan-fx-options-market"
 domain: derivatives
 created: 2026-05-25
 last_updated: 2026-05-25

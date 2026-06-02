@@ -1,6 +1,11 @@
 ---
 title: "損害保険ジャパン"
-aliases: ["損保ジャパン", "Sompo Japan", "Sompo Japan Insurance", "損害保険ジャパン株式会社"]
+aliases:
+  - "損保ジャパン"
+  - "Sompo Japan"
+  - "Sompo Japan Insurance"
+  - "損害保険ジャパン株式会社"
+  - "JapanFG/sompo-japan"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

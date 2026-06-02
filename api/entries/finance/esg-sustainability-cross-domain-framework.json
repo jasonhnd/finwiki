@@ -18,7 +18,10 @@
       "Japan green bond SLB transition finance",
       "J-REIT GRESB",
       "ESG ratings comparison",
-      "ESG due diligence Japan"
+      "ESG due diligence Japan",
+      "banking/japan-decarbonization-financing-roadmap",
+      "finance/issb",
+      "finance/ssbj"
     ],
     "domain": "finance",
     "created": "2026-05-25",
@@ -115,9 +118,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12516,
-    "word_like_tokens": 1848,
+    "nonspace_chars": 12596,
+    "word_like_tokens": 1857,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

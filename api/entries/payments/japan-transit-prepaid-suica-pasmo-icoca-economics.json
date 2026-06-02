@@ -15,7 +15,12 @@
       "Japan IC card e-money economics",
       "Suica PASMO ICOCA transit prepaid",
       "10 IC mutual-use prepaid scheme",
-      "FeliCa transit prepaid Japan"
+      "FeliCa transit prepaid Japan",
+      "JapanFG/jr-central",
+      "JapanFG/jr-hokkaido",
+      "JapanFG/jr-kyushu",
+      "JapanFG/jr-west",
+      "payments/suica-pasmo-fares"
     ],
     "domain": "payments",
     "created": "2026-05-25",
@@ -121,9 +126,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14953,
-    "word_like_tokens": 2438,
+    "nonspace_chars": 15063,
+    "word_like_tokens": 2454,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

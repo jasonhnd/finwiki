@@ -4,6 +4,7 @@ aliases:
   - "japan-tender-offer-process"
   - "Japan TOB process"
   - "公開買付け process"
+  - "corporate-strategy/parent-subsidiary-listing"
 domain: "finance"
 created: 2026-05-22
 last_updated: 2026-05-22

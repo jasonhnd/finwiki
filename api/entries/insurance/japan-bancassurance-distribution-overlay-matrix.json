@@ -18,7 +18,8 @@
       "Japan foreign-currency annuity bancassurance",
       "日本 銀行窓販 比較マトリクス",
       "Japan ginko madohan insurer matrix",
-      "Japan bancassurance commission overlay"
+      "Japan bancassurance commission overlay",
+      "insurance/life-insurance-distribution-japan"
     ],
     "domain": "insurance",
     "created": "2026-05-25",
@@ -202,9 +203,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 33042,
-    "word_like_tokens": 5069,
+    "nonspace_chars": 33088,
+    "word_like_tokens": 5074,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

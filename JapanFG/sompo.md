@@ -1,6 +1,12 @@
 ---
 title: SOMPO ホールディングス (Sompo Holdings)
-aliases: ["SOMPO HD", "Sompo Holdings", "SOMPO ホールディングス", "損保ジャパン HD", "旧 NKSJ HD"]
+aliases:
+  - "SOMPO HD"
+  - "Sompo Holdings"
+  - "SOMPO ホールディングス"
+  - "損保ジャパン HD"
+  - "旧 NKSJ HD"
+  - "JapanFG/taisei-kasai"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

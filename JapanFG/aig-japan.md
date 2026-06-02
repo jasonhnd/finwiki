@@ -1,6 +1,14 @@
 ---
 title: AIG ジャパン (AIG 損害保険)
-aliases: ["AIG Japan", "AIG ジャパン・ホールディングス", "AIG 損害保険", "AIG Sonpo", "AIU 保険", "AIU 損害保険", "富士火災海上保険"]
+aliases:
+  - "AIG Japan"
+  - "AIG ジャパン・ホールディングス"
+  - "AIG 損害保険"
+  - "AIG Sonpo"
+  - "AIU 保険"
+  - "AIU 損害保険"
+  - "富士火災海上保険"
+  - "JapanFG/aig-life-japan"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-19

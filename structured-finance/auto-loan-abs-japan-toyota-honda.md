@@ -8,6 +8,7 @@ aliases:
   - "Nissan Credit ABS"
   - "SMBC Auto ABS"
   - "Japan auto-finance securitization"
+  - "JapanFG/nissan-finance"
 domain: structured-finance
 created: 2026-05-25
 last_updated: 2026-05-25

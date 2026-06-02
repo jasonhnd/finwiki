@@ -8,46 +8,158 @@
 |---|---:|
 | Entries checked | 1411 |
 | Entries with any issue | 0 |
+| Dead wikilink references | 0 |
+| Unique dead wikilink targets | 0 |
 | Body links below 3 | 0 |
 | Missing H1 | 0 |
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 104 |
 
 ## Wiki Linking Standard
 
 - Each entry should have at least three body wikilinks before `## Related` / `## Sources`.
+- Every `[[wikilink]]` target anywhere in the public entry body must resolve to an existing entry, domain index, or explicit alias.
 - Body links should include one route link, one peer / contrast link, and one system / regulatory link.
 - `## Related` remains useful as a footer, but it does not count as body linkage.
 - Registry-control pages may link to official workbooks in Sources, but should still connect to wiki routes in prose.
 
+## Priority A0: Dead Wikilink Targets
+
+| Target | Refs | Example source |
+|---|---:|---|
+
 ## Priority A: Failing Entries
 
-| Path | Body | In | Issues | Suggested links |
-|---|---:|---:|---|---|
+| Path | Body | In | Dead | Issues | Suggested links |
+|---|---:|---:|---:|---|---|
 
 ## Priority B: Current Worktree Entries To Review
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `JapanFG/aeon-financial-service.md` | `M` | 7 | ok |
+| `JapanFG/aia-life-japan.md` | `M` | 13 | ok |
+| `JapanFG/aichi-iryo-shinkumi.md` | `M` | 11 | ok |
+| `JapanFG/aig-japan.md` | `M` | 11 | ok |
+| `JapanFG/ashikaga-bank.md` | `M` | 10 | ok |
+| `JapanFG/axa-japan.md` | `M` | 13 | ok |
+| `JapanFG/boj-payment-settlement-dept.md` | `M` | 14 | ok |
+| `JapanFG/custody-bank.md` | `M` | 19 | ok |
+| `JapanFG/dai-ichi-life.md` | `M` | 10 | ok |
+| `JapanFG/dai-ichi-neo-life.md` | `M` | 9 | ok |
+| `JapanFG/daiwa-asset-management.md` | `M` | 7 | ok |
+| `JapanFG/daiwa-sg.md` | `M` | 13 | ok |
+| `JapanFG/dg-financial-technology.md` | `M` | 6 | ok |
+| `JapanFG/dic.md` | `M` | 15 | ok |
+| `JapanFG/hokuyo-bank.md` | `M` | 8 | ok |
+| `JapanFG/jr-east-financial.md` | `M` | 24 | ok |
+| `JapanFG/kampo-life.md` | `M` | 4 | ok |
+| `JapanFG/kitakyushu-shinkin.md` | `M` | 30 | ok |
+| `JapanFG/manulife-japan.md` | `M` | 7 | ok |
+| `JapanFG/master-trust-bank.md` | `M` | 18 | ok |
+| `JapanFG/meiji-yasuda.md` | `M` | 16 | ok |
+| `JapanFG/mitsubishi-corp.md` | `M` | 21 | ok |
+| `JapanFG/mitsubishi-ufj-trust-bank.md` | `M` | 9 | ok |
+| `JapanFG/mitsui-sumitomo-insurance.md` | `M` | 9 | ok |
+| `JapanFG/mizuho-trust-bank.md` | `M` | 9 | ok |
+| `JapanFG/monex-group.md` | `M` | 9 | ok |
+| `JapanFG/msad.md` | `M` | 6 | ok |
+| `JapanFG/mufg-asset-management.md` | `M` | 8 | ok |
+| `JapanFG/mufg-bank.md` | `M` | 8 | ok |
+| `JapanFG/mufg-esmart-securities.md` | `M` | 7 | ok |
+| `JapanFG/mufg-mums.md` | `M` | 11 | ok |
+| `JapanFG/ndfg.md` | `M` | 9 | ok |
+| `JapanFG/nippon-life.md` | `M` | 6 | ok |
+| `JapanFG/nippon-post.md` | `M` | 25 | ok |
+| `JapanFG/nishi-nippon-fhd.md` | `M` | 30 | ok |
+| `JapanFG/nomura-asset-management.md` | `M` | 7 | ok |
+| `JapanFG/nomura-hd.md` | `M` | 7 | ok |
+| `JapanFG/norinchukin.md` | `M` | 12 | ok |
+| `JapanFG/okinawa-bank.md` | `M` | 10 | ok |
+| `JapanFG/paypay-fg.md` | `M` | 6 | ok |
+| `JapanFG/proclair-hd.md` | `M` | 7 | ok |
+| `JapanFG/prudential-japan.md` | `M` | 8 | ok |
+| `JapanFG/rakuten-fg.md` | `M` | 14 | ok |
+| `JapanFG/sbi-insurance.md` | `M` | 12 | ok |
+| `JapanFG/sbi-shinsei-bank.md` | `M` | 16 | ok |
+| `JapanFG/seiho-kyokai.md` | `M` | 27 | ok |
+| `JapanFG/seimei-hokensha-hogo-kiko.md` | `M` | 35 | ok |
+| `JapanFG/shinkin-network-services.md` | `M` | 17 | ok |
+| `JapanFG/smbc-card.md` | `M` | 6 | ok |
+| `JapanFG/smbc-nikko.md` | `M` | 39 | ok |
+| `JapanFG/smfg.md` | `M` | 7 | ok |
+| `JapanFG/sompo-japan-insurance.md` | `M` | 7 | ok |
+| `JapanFG/sompo.md` | `M` | 6 | ok |
+| `JapanFG/sonpo-hosho-kiko.md` | `M` | 24 | ok |
+| `JapanFG/sony-insurance.md` | `M` | 8 | ok |
+| `JapanFG/ssnb.md` | `M` | 13 | ok |
+| `JapanFG/td-hd.md` | `M` | 7 | ok |
+| `JapanFG/tokio-marine-nichido-fire.md` | `M` | 9 | ok |
+| `JapanFG/tokio-marine.md` | `M` | 7 | ok |
+| `JapanFG/toyota-tsusho-corp.md` | `M` | 16 | ok |
+| `JapanFG/yamaguchi-fg.md` | `M` | 11 | ok |
+| `JapanFG/zenginkyo.md` | `M` | 15 | ok |
+| `banking/japan-baas-operating-models.md` | `M` | 23 | ok |
+| `banking/japan-regional-bank-m-a-consolidation-family-tree-matrix.md` | `M` | 334 | ok |
+| `banking/shinkin-bank-registry-japan.md` | `M` | 5 | ok |
+| `derivatives/basis-trade-bond-cds-japan.md` | `M` | 14 | ok |
+| `derivatives/fx-options-japan-corporate-treasury.md` | `M` | 18 | ok |
+| `derivatives/japan-cds-market-overview.md` | `M` | 32 | ok |
+| `derivatives/japan-equity-derivatives-product-matrix.md` | `M` | 16 | ok |
+| `derivatives/nikkei-vix-jpx-vi-equivalent.md` | `M` | 28 | ok |
+| `derivatives/retail-fx-margin-trade-japan.md` | `M` | 18 | ok |
+| `derivatives/structured-bond-japan-retail-issuance.md` | `M` | 31 | ok |
+| `exchanges/dex-raydium-solana.md` | `M` | 5 | ok |
+| `finance/esg-sustainability-cross-domain-framework.md` | `M` | 21 | ok |
+| `finance/japan-corporate-fx-and-rate-hedge-policy.md` | `M` | 25 | ok |
+| `finance/japan-private-equity-fund-structure-matrix.md` | `M` | 43 | ok |
+| `finance/japan-shareholder-proposal-and-agm-voting-route.md` | `M` | 18 | ok |
+| `finance/japan-tender-offer-process.md` | `M` | 20 | ok |
+| `fintech/cross-border-sc-via-swift-api.md` | `M` | 4 | ok |
+| `fintech/european-payments-initiative-wero.md` | `M` | 12 | ok |
+| `fintech/fnality-wholesale-settlement.md` | `M` | 16 | ok |
+| `fintech/japan-financial-regulation.md` | `M` | 7 | ok |
+| `fintech/japan-stablecoin-regulatory-landscape.md` | `M` | 6 | ok |
+| `insurance/bancassurance-economics-japan.md` | `M` | 66 | ok |
+| `insurance/japan-bancassurance-distribution-overlay-matrix.md` | `M` | 174 | ok |
+| `insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix.md` | `M` | 74 | ok |
+| `insurance/japan-nonlife-big-three.md` | `M` | 30 | ok |
+| `manufacturing/sony-group-finance-arm.md` | `M` | 10 | ok |
+| `money-market/jgb-repo-market-japan.md` | `M` | 13 | ok |
+| `payments/credit-purchase-card-operators-japan-index.md` | `M` | 34 | ok |
+| `payments/japan-consumer-credit-operator-comparison-matrix.md` | `M` | 70 | ok |
+| `payments/japan-payment-clearing-and-settlement-infrastructure.md` | `M` | 10 | ok |
+| `payments/japan-transit-prepaid-suica-pasmo-icoca-economics.md` | `M` | 23 | ok |
+| `policy-finance/hyogo-credit-guarantee-corp.md` | `M` | 37 | ok |
+| `policy-finance/japan-policy-finance-system.md` | `M` | 20 | ok |
+| `real-estate-finance/jrei-foreign-investment-tax-treatment.md` | `M` | 26 | ok |
+| `securities/financial-instruments-business-operators-japan-index.md` | `M` | 36 | ok |
+| `securities/japan-asset-manager-landscape-matrix.md` | `M` | 68 | ok |
+| `securities/japan-capital-markets-ecosystem-overview.md` | `M` | 80 | ok |
+| `securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md` | `M` | 44 | ok |
+| `structured-finance/auto-loan-abs-japan-toyota-honda.md` | `M` | 15 | ok |
+| `structured-finance/fitch-moody-sp-japan-criteria.md` | `M` | 18 | ok |
+| `structured-finance/japan-consumer-loan-abs-structure.md` | `M` | 27 | ok |
+| `structured-finance/ship-financing-japan-megabank.md` | `M` | 35 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
-| `FinWiki` | 1 | 0 | 30.0 |
-| `JapanFG` | 631 | 0 | 16.1 |
+| `FinWiki` | 1 | 0 | 29.0 |
+| `JapanFG` | 631 | 0 | 15.8 |
 | `agent-economy` | 41 | 0 | 13.5 |
-| `banking` | 40 | 0 | 43.1 |
+| `banking` | 40 | 0 | 42.8 |
 | `business` | 19 | 0 | 16.4 |
 | `control` | 1 | 0 | 207.0 |
-| `control-anchor` | 1 | 0 | 32.0 |
+| `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
 | `control-cluster` | 1 | 0 | 146.0 |
-| `control-mirror` | 1 | 0 | 26.0 |
-| `control-proposal` | 1 | 0 | 25.0 |
-| `corporate-strategy` | 6 | 0 | 13.3 |
+| `control-mirror` | 1 | 0 | 25.0 |
+| `control-proposal` | 1 | 0 | 24.0 |
+| `corporate-strategy` | 6 | 0 | 13.2 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
@@ -55,15 +167,15 @@
 | `governance` | 4 | 0 | 8.5 |
 | `insurance` | 33 | 0 | 42.6 |
 | `loyalty` | 12 | 0 | 18.8 |
-| `manufacturing` | 8 | 0 | 14.0 |
+| `manufacturing` | 8 | 0 | 13.6 |
 | `money-market` | 12 | 0 | 21.6 |
 | `payments` | 41 | 0 | 34.9 |
-| `policy-finance` | 35 | 0 | 27.2 |
+| `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
 | `retail` | 8 | 0 | 23.9 |
-| `securities` | 33 | 0 | 32.2 |
+| `securities` | 33 | 0 | 32.1 |
 | `security` | 6 | 0 | 9.5 |
-| `structured-finance` | 30 | 0 | 23.5 |
+| `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 4 | 0 | 11.2 |
 

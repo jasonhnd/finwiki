@@ -1,6 +1,11 @@
 ---
 title: 預金保険機構 (DIC)
-aliases: ["DIC", "Deposit Insurance Corporation of Japan", "預金保険機構", "預保機構"]
+aliases:
+  - "DIC"
+  - "Deposit Insurance Corporation of Japan"
+  - "預金保険機構"
+  - "預保機構"
+  - "JapanFG/japan-shinko-bank"
 domain: JapanFG
 created: 2026-05-25
 last_updated: 2026-05-25

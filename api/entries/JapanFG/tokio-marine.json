@@ -16,7 +16,9 @@
       "東京海上ホールディングス",
       "Tokio Marine Holdings",
       "Inc.",
-      "8766"
+      "8766",
+      "JapanFG/tokio-marine-hd",
+      "JapanFG/tokio-marine-holdings"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -72,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5013,
-    "word_like_tokens": 831,
+    "nonspace_chars": 5072,
+    "word_like_tokens": 839,
     "inbound_wikilinks_count": 28,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

@@ -17,7 +17,8 @@
       "アクサ損保",
       "アクサダイレクト生命",
       "AXA Life Insurance Japan",
-      "AXA Direct"
+      "AXA Direct",
+      "insurance/axa-direct"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -90,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4028,
-    "word_like_tokens": 568,
+    "nonspace_chars": 4050,
+    "word_like_tokens": 571,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

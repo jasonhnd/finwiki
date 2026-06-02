@@ -1,6 +1,13 @@
 ---
 title: プロクレアホールディングス (ProCrea HD)
-aliases: ["ProCrea HD", "プロクレア HD", "ProCrea Holdings", "Aomori-Michinoku FG", "7384"]
+aliases:
+  - "ProCrea HD"
+  - "プロクレア HD"
+  - "ProCrea Holdings"
+  - "Aomori-Michinoku FG"
+  - "7384"
+  - "JapanFG/aomori-bank"
+  - "JapanFG/michinoku-bank"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

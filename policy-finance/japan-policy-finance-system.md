@@ -4,6 +4,7 @@ aliases:
   - "policy-finance/japan-policy-finance-system"
   - "japan-policy-finance-system"
   - "日本政策金融システム"
+  - "banking/japan-disaster-finance-framework"
 domain: "policy-finance"
 created: 2026-05-19
 last_updated: 2026-05-21

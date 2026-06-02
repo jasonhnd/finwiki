@@ -10,6 +10,8 @@ aliases:
   - "Japan unsecured-loan ABS"
   - "Dynamic-pool consumer ABS Japan"
   - "structured-finance/japan-consumer-loan-abs-structure"
+  - "JapanFG/funds"
+  - "JapanFG/lendable"
 domain: structured-finance
 created: 2026-05-25
 last_updated: 2026-05-25

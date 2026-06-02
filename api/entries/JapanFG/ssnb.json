@@ -16,7 +16,9 @@
       "SSNB",
       "住信 SBI ネット銀行",
       "NEOBANK",
-      "ドコモ SMTB ネット銀行"
+      "ドコモ SMTB ネット銀行",
+      "JapanFG/sbi-sumishin-net-bank",
+      "banking/sumishin-sbi-net-bank"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -88,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6142,
-    "word_like_tokens": 1154,
+    "nonspace_chars": 6205,
+    "word_like_tokens": 1164,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

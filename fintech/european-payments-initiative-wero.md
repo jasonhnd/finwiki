@@ -1,6 +1,12 @@
 ---
 title: European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗
-aliases: [european-payments-initiative-wero, EPI, Wero, EPI Wero, European Payments Initiative]
+aliases:
+  - "european-payments-initiative-wero"
+  - "EPI"
+  - "Wero"
+  - "EPI Wero"
+  - "European Payments Initiative"
+  - "systems/sepa-instant-overview"
 domain: fintech
 created: 2026-05-25
 last_updated: 2026-05-26

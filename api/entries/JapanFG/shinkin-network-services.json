@@ -17,7 +17,8 @@
       "SNS",
       "Shinkin Network Services Co., Ltd.",
       "信金 ATM ネットワーク",
-      "信金共同センター"
+      "信金共同センター",
+      "banking/atm-network-japan"
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
@@ -98,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5123,
-    "word_like_tokens": 640,
+    "nonspace_chars": 5151,
+    "word_like_tokens": 644,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-02"
   }
 }

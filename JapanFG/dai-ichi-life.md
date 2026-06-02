@@ -1,6 +1,16 @@
 ---
 title: 第一ライフグループ / 旧 第一生命 HD
-aliases: ["Dai-ichi Life", "Daiichi Life Group", "Dai-ichi Life Group", "株式会社第一ライフグループ", "第一ライフグループ", "第一生命ホールディングス", "第一生命 HD", "Dai-ichi Life Holdings", "8750"]
+aliases:
+  - "Dai-ichi Life"
+  - "Daiichi Life Group"
+  - "Dai-ichi Life Group"
+  - "株式会社第一ライフグループ"
+  - "第一ライフグループ"
+  - "第一生命ホールディングス"
+  - "第一生命 HD"
+  - "Dai-ichi Life Holdings"
+  - "8750"
+  - "JapanFG/dai-ichi-life-hd"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

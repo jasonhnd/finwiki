@@ -1,6 +1,12 @@
 ---
 title: "三菱UFJアセットマネジメント"
-aliases: ["Mitsubishi UFJ Asset Management", "三菱UFJアセットマネジメント", "三菱UFJアセットマネジメント株式会社", "MUAM"]
+aliases:
+  - "Mitsubishi UFJ Asset Management"
+  - "三菱UFJアセットマネジメント"
+  - "三菱UFJアセットマネジメント株式会社"
+  - "MUAM"
+  - "JapanFG/mitsubishi-ufj-am"
+  - "JapanFG/mitsubishi-ufj-asset-management"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

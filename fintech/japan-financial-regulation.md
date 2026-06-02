@@ -1,6 +1,7 @@
 ---
 title: 日本金融規制 — トークン・暗号資産・決済に関する法体系
-aliases: []
+aliases:
+  - "regulators-japan/financial-laws-stack"
 domain: fintech
 kind: knowledge
 topic: japan-financial-regulation

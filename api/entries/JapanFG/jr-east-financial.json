@@ -20,7 +20,8 @@
       "JRE Bank",
       "Suica Pay",
       "JR東日本ペイメントサービス",
-      "JR East Payment Service"
+      "JR East Payment Service",
+      "JapanFG/jr-east"
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
@@ -97,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6273,
-    "word_like_tokens": 1066,
+    "nonspace_chars": 6291,
+    "word_like_tokens": 1069,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-30"
+    "last_modified": "2026-06-02"
   }
 }

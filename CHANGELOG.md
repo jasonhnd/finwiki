@@ -31,6 +31,22 @@
 
 ## 2026-06-02
 
+### Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-02 09:37 JST。
+- **背景**: 全量 i18n と語彙 polish 後の公開 graph で、本文内 `[[wikilink]]` が存在しない target を指す場合も CI で阻止する必要があった。従来 gate は本文 link density と route / peer / system link 不足を中心に見ていたため、実在しない target を release-blocking issue として明示する。
+- **範囲**: `tools/wiki_link_audit.py`、`.github/workflows/deploy.yml`、`wiki-link-improvement-plan.md`、100 件の既存 wiki entry frontmatter alias、7 件の非金融背景リンクの本文表記、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02-4.md`、release-generated discovery surfaces。
+- **実行手順**: 10 並列の dead-wikilink repair worker を使って候補修復を試し、完了 worker thread は archive した。ただし worker の自己申告は採用せず、親側の audit だけを正とした。agent 出力の一部は semantic route を失う `*/INDEX` 置換を大量生成したため、該当 Markdown 本文変更を revert し、frontend resolver と整合する alias / slug / root-file 解決に audit tool を寄せたうえで再修復した。
+- **主要変更**: `tools/wiki_link_audit.py` は fenced code / inline code 内の `[[...]]` を無視し、table escape の trailing backslash を正規化し、alias を case-insensitive に登録し、root public files と末尾 slug fallback を解決する。各 entry の unresolved target は `dead_wikilinks:N` として issue 化し、JSON / Markdown report / CLI summary に `dead_links`、dead reference 数、unique dead target 数を出す。`.github/workflows/deploy.yml` には build 前の `python tools/wiki_link_audit.py --fail-on-issues` gate を追加した。
+- **修復結果**: 100 entry に 144 件の明示 alias を追加し、旧 slug / 表記ゆれ / 統合前リンクを既存の実体 entry へ吸収した。金融 wiki の主対象ではない背景 entity 7 件は、無理に新規 entry 化せず plain text に戻した。agent が生成した `*/INDEX` degradation は追加差分から除去した。
+- **検証結果**: `python tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` は entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0 で PASS。`python tools/release.py --write` と `python tools/release.py --check --strict` は md=1463 / domains=23 / entries=1411 / counts in sync / JSON valid / LF endings OK。`bun run build` は 4147 pages 生成で PASS。`python tools/check_duplicate_html_ids.py site/dist` は checked=4147 / duplicate_id_pages=0 / duplicate_ids=0。`git diff --check`、changed-file EOL check、added-line private-surface scan、added-line mojibake scan、追加差分 `*/INDEX` degradation scan はすべて clean。
+- **既知の注意点**: 本作業は graph integrity と alias 解決の修復であり、新しい金融事実を追加しない。frontmatter alias は旧 target を安全に解決するための互換 surface として維持する。
+- **次の作業**: release surface を再生成し、CI / Pages deployment で新しい wikilink graph gate が通ることを確認する。今後の entry 追加時は新規 wikilink target の実在性も同じ gate で検出する。
+- **EN**: Added target-existence enforcement to the wiki-link audit and CI. Ten parallel repair workers were used to explore fixes, then archived, but their self-reports were ignored in favor of the parent audit. Overbroad agent output that rewrote links to `*/INDEX` was reverted. The audit now ignores fenced / inline code, normalizes escaped table pipes, registers aliases case-insensitively, resolves root public files and final-slug fallbacks, and reports dead links in CLI / JSON / Markdown output. The graph was repaired through 144 explicit aliases across 100 entries plus 7 non-financial background links converted to plain text. Validation passed: graph audit 1411/0 with dead references/targets 0, release write and strict check in sync, Astro build 4147 pages, duplicate_id_pages=0 / duplicate_ids=0, whitespace and EOL clean, private-surface and mojibake added-line scans clean, and no added `*/INDEX` degradation.
+- **中文**：本轮给 wiki-link audit 和 CI 增加 target 实在性门禁。先用 10 路并行 repair worker 探索修复并归档完成线程，但不采信 worker 自述，只以父进程 audit 为准。由于部分 agent 输出把语义链接过度替换成 `*/INDEX`，已回滚这些正文改动。审计工具现在会忽略 fenced / inline code，规范化表格中的转义管道符，按大小写不敏感方式注册 alias，支持 root public files 和末尾 slug fallback，并在 CLI / JSON / Markdown report 中输出 dead links。最终通过 100 个 entry 的 144 个显式 alias，以及 7 个非金融背景链接 plain text 化完成修复。验证已通过：图谱审计 1411/0 且 dead references / targets 均为 0，release write 与 strict check 同步，Astro build 4147 页，duplicate_id_pages=0 / duplicate_ids=0，空白和 EOL clean，公开面与 mojibake added-line scan clean，新增差分中没有 `*/INDEX` degradation。
+
 ### i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复
 
 #### 日本語記録 / English / 中文

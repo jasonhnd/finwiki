@@ -1,6 +1,11 @@
 ---
 title: "三菱UFJ eスマート証券"
-aliases: ["Mitsubishi UFJ eSmart Securities", "三菱UFJ eスマート証券", "三菱UFJ eスマート証券株式会社", "auカブコム証券"]
+aliases:
+  - "Mitsubishi UFJ eSmart Securities"
+  - "三菱UFJ eスマート証券"
+  - "三菱UFJ eスマート証券株式会社"
+  - "auカブコム証券"
+  - "JapanFG/au-kabucom-securities"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

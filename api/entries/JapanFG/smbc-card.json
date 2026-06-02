@@ -14,7 +14,8 @@
       "SMBC Card",
       "Sumitomo Mitsui Card",
       "三井住友カード",
-      "三井住友カード株式会社"
+      "三井住友カード株式会社",
+      "JapanFG/sumitomo-mitsui-card"
     ],
     "domain": "JapanFG",
     "created": "2026-05-21",
@@ -73,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2210,
-    "word_like_tokens": 336,
+    "nonspace_chars": 2240,
+    "word_like_tokens": 340,
     "inbound_wikilinks_count": 28,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-02"
   }
 }

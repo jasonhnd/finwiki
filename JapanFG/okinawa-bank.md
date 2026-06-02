@@ -1,6 +1,11 @@
 ---
 title: "沖縄銀行"
-aliases: ["Okinawa Bank", "The Bank of Okinawa", "株式会社沖縄銀行", "おきぎん"]
+aliases:
+  - "Okinawa Bank"
+  - "The Bank of Okinawa"
+  - "株式会社沖縄銀行"
+  - "おきぎん"
+  - "banking/bank-of-okinawa"
 domain: JapanFG
 created: 2026-05-21
 last_updated: 2026-05-21

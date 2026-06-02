@@ -5,6 +5,11 @@ aliases:
   - "Japan FIBO registry"
   - "金融商品取引業者 registry"
   - "金融商品取引業者登録一覧"
+  - "JapanFG/crowdcredit-incorporated"
+  - "JapanFG/funds-incorporated"
+  - "JapanFG/jiaa"
+  - "JapanFG/jiaa-advisory"
+  - "JapanFG/securite-crowdfunding"
 domain: "securities"
 created: 2026-05-21
 last_updated: 2026-05-21

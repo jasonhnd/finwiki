@@ -8,6 +8,8 @@ aliases:
   - "Global vs domestic agency split rating Japan"
   - "Sovereign rating cap Japan ABS"
   - "structured-finance/fitch-moody-sp-japan-criteria"
+  - "JapanFG/moodys-japan"
+  - "JapanFG/sp-global-ratings-japan"
 domain: structured-finance
 created: 2026-05-25
 last_updated: 2026-05-25

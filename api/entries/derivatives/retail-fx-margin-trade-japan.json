@@ -18,7 +18,8 @@
       "Japan margin FX",
       "JFSA retail FX rules",
       "FFAJ retail FX",
-      "25x leverage cap Japan"
+      "25x leverage cap Japan",
+      "derivatives/non-deliverable-forward-jpy-asia"
     ],
     "domain": "derivatives",
     "created": "2026-05-25",
@@ -93,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15080,
-    "word_like_tokens": 2472,
+    "nonspace_chars": 15127,
+    "word_like_tokens": 2478,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-06-02"
   }
 }

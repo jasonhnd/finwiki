@@ -1,6 +1,12 @@
 ---
 title: NTT ドコモ・フィナンシャルグループ (NDFG)
-aliases: ["NDFG", "NTT DOCOMO Financial Holdings", "NTT ドコモ・フィナンシャルグループ", "ドコモ FG", "docomo FG"]
+aliases:
+  - "NDFG"
+  - "NTT DOCOMO Financial Holdings"
+  - "NTT ドコモ・フィナンシャルグループ"
+  - "ドコモ FG"
+  - "docomo FG"
+  - "payments/d-barai"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

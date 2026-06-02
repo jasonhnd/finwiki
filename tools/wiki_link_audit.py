@@ -284,9 +284,20 @@ def core_body(body: str) -> str:
 
 def extract_wikilinks(text: str) -> list[WikiLink]:
     links: list[WikiLink] = []
+    in_fence = False
     for line_no, line in enumerate(text.splitlines(), 1):
-        for raw in re.findall(r"\[\[([^\]]+)\]\]", line):
+        if re.match(r"^\s*(```|~~~)", line):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        search_line = re.sub(r"`[^`]*`", "", line)
+        for raw in re.findall(r"\[\[([^\]]+)\]\]", search_line):
             target = raw.split("|", 1)[0].split("#", 1)[0].strip()
+            # Markdown tables often escape Obsidian alias pipes as \| to avoid
+            # splitting the table cell. The escape belongs to Markdown syntax,
+            # not to the vault-root target path.
+            target = target.rstrip("\\")
             if not target:
                 continue
             if target.startswith(("http://", "https://", "mailto:")):
@@ -330,20 +341,29 @@ def as_list(value: object) -> list[str]:
     return []
 
 
+def register_alias(alias_map: dict[str, str], key: str, rel: str) -> None:
+    if not key:
+        return
+    alias_map.setdefault(key, rel)
+    alias_map.setdefault(key.lower(), rel)
+
+
 def build_alias_map(entries: dict[str, Entry]) -> dict[str, str]:
     alias_map: dict[str, str] = {}
     for rel, entry in entries.items():
         stem = Path(rel).stem
-        alias_map.setdefault(stem, rel)
-        alias_map.setdefault(rel.removesuffix(".md"), rel)
-        alias_map.setdefault(entry.title, rel)
+        register_alias(alias_map, stem, rel)
+        register_alias(alias_map, rel.removesuffix(".md"), rel)
+        register_alias(alias_map, entry.title, rel)
         for alias in entry.aliases:
-            alias_map.setdefault(alias, rel)
+            register_alias(alias_map, alias, rel)
     return alias_map
 
 
 def resolve_link(entry: Entry, target: str, entries: dict[str, Entry], alias_map: dict[str, str]) -> str | None:
     normalized = target.removesuffix(".md")
+    if (ROOT / target).is_file() or (ROOT / normalized).is_file():
+        return normalized
     candidates: list[str] = []
     if "/" in normalized:
         candidates.extend([f"{normalized}.md", f"{normalized}/INDEX.md"])
@@ -360,7 +380,15 @@ def resolve_link(entry: Entry, target: str, entries: dict[str, Entry], alias_map
     for candidate in candidates:
         if candidate in entries:
             return candidate
-    return alias_map.get(target) or alias_map.get(normalized)
+        if (ROOT / candidate).is_file():
+            return candidate
+    return (
+        alias_map.get(target)
+        or alias_map.get(normalized)
+        or alias_map.get(target.lower())
+        or alias_map.get(normalized.lower())
+        or alias_map.get(normalized.rsplit("/", 1)[-1].lower())
+    )
 
 
 def attach_resolved_links(entries: dict[str, Entry]) -> None:
@@ -520,9 +548,16 @@ def entry_status(entry: Entry, entries: dict[str, Entry], min_body_links: int) -
     route = has_route_link(entry, entries)
     peer = has_peer_link(entry, entries)
     system = has_system_link(entry)
+    dead_links = [
+        {"raw": link.raw, "target": link.target, "line": link.line}
+        for link in entry.all_links
+        if not link.resolved
+    ]
     issues: list[str] = []
     if not has_h1 and not entry.is_index:
         issues.append("missing_h1")
+    if dead_links:
+        issues.append(f"dead_wikilinks:{len(dead_links)}")
     if body_count < min_body_links:
         issues.append(f"body_links<{min_body_links}")
     if not route:
@@ -539,6 +574,7 @@ def entry_status(entry: Entry, entries: dict[str, Entry], min_body_links: int) -
         "route": route,
         "peer": peer,
         "system": system,
+        "dead_links": dead_links,
         "issues": issues,
     }
 
@@ -780,6 +816,14 @@ def audit(entries: dict[str, Entry], min_body_links: int) -> list[dict[str, obje
 def write_markdown_report(rows: list[dict[str, object]], report_path: Path, min_body_links: int) -> None:
     total = len(rows)
     failures = [row for row in rows if row["issues"]]
+    dead_rows = [row for row in rows if row["dead_links"]]
+    dead_by_target: dict[str, list[tuple[str, int, str]]] = {}
+    for row in dead_rows:
+        for link in row["dead_links"]:
+            target = str(link["target"])
+            dead_by_target.setdefault(target, []).append(
+                (str(row["path"]), int(link["line"]), str(link["raw"]))
+            )
     low_body = [row for row in rows if "body_links<%d" % min_body_links in row["issues"]]
     missing_route = [row for row in rows if "missing_route_link" in row["issues"]]
     missing_peer = [row for row in rows if "missing_peer_link" in row["issues"]]
@@ -798,6 +842,8 @@ def write_markdown_report(rows: list[dict[str, object]], report_path: Path, min_
     lines.append("|---|---:|")
     lines.append(f"| Entries checked | {total} |")
     lines.append(f"| Entries with any issue | {len(failures)} |")
+    lines.append(f"| Dead wikilink references | {sum(len(row['dead_links']) for row in dead_rows)} |")
+    lines.append(f"| Unique dead wikilink targets | {len(dead_by_target)} |")
     lines.append(f"| Body links below {min_body_links} | {len(low_body)} |")
     lines.append(f"| Missing H1 | {len(missing_h1)} |")
     lines.append(f"| Missing route link | {len(missing_route)} |")
@@ -808,22 +854,35 @@ def write_markdown_report(rows: list[dict[str, object]], report_path: Path, min_
     lines.append("## Wiki Linking Standard")
     lines.append("")
     lines.append("- Each entry should have at least three body wikilinks before `## Related` / `## Sources`.")
+    lines.append("- Every `[[wikilink]]` target anywhere in the public entry body must resolve to an existing entry, domain index, or explicit alias.")
     lines.append("- Body links should include one route link, one peer / contrast link, and one system / regulatory link.")
     lines.append("- `## Related` remains useful as a footer, but it does not count as body linkage.")
     lines.append("- Registry-control pages may link to official workbooks in Sources, but should still connect to wiki routes in prose.")
     lines.append("")
+    lines.append("## Priority A0: Dead Wikilink Targets")
+    lines.append("")
+    lines.append("| Target | Refs | Example source |")
+    lines.append("|---|---:|---|")
+    for target, refs in sorted(dead_by_target.items(), key=lambda item: (-len(item[1]), item[0]))[:240]:
+        example_path, example_line, example_raw = refs[0]
+        lines.append(
+            f"| `[[{target}]]` | {len(refs)} | `{example_path}:{example_line}` (`[[{example_raw}]]`) |"
+        )
+    if len(dead_by_target) > 240:
+        lines.append(f"| ... | ... | {len(dead_by_target) - 240} more targets omitted |")
+    lines.append("")
     lines.append("## Priority A: Failing Entries")
     lines.append("")
-    lines.append("| Path | Body | In | Issues | Suggested links |")
-    lines.append("|---|---:|---:|---|---|")
-    for row in sorted(failures, key=lambda item: (len(item["issues"]), item["body_links"], item["path"]))[:200]:
+    lines.append("| Path | Body | In | Dead | Issues | Suggested links |")
+    lines.append("|---|---:|---:|---:|---|---|")
+    for row in sorted(failures, key=lambda item: (len(item["dead_links"]), len(item["issues"]), item["body_links"], item["path"]))[:200]:
         suggestions = ", ".join(f"`[[{item}]]`" for item in row["suggestions"]) or "-"
         issues = ", ".join(f"`{item}`" for item in row["issues"])
         lines.append(
-            f"| `{row['path']}` | {row['body_links']} | {row['inlinks']} | {issues} | {suggestions} |"
+            f"| `{row['path']}` | {row['body_links']} | {row['inlinks']} | {len(row['dead_links'])} | {issues} | {suggestions} |"
         )
     if len(failures) > 200:
-        lines.append(f"| ... | ... | ... | {len(failures) - 200} more entries omitted | ... |")
+        lines.append(f"| ... | ... | ... | ... | {len(failures) - 200} more entries omitted | ... |")
     lines.append("")
     lines.append("## Priority B: Current Worktree Entries To Review")
     lines.append("")
@@ -881,8 +940,12 @@ def main() -> int:
     if args.json:
         args.json.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8", newline="\n")
     failures = [row for row in rows if row["issues"]]
+    dead_refs = sum(len(row["dead_links"]) for row in rows)
+    dead_targets = len({link["target"] for row in rows for link in row["dead_links"]})
     print(f"entries_checked={len(rows)}")
     print(f"entries_with_issues={len(failures)}")
+    print(f"dead_wikilink_references={dead_refs}")
+    print(f"dead_wikilink_targets={dead_targets}")
     print(f"body_link_threshold={args.min_body_links}")
     if args.report:
         print(f"report={args.report}")

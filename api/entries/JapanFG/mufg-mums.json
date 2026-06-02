@@ -14,7 +14,9 @@
       "mufg-mums",
       "MUMSS",
       "Mitsubishi UFJ Morgan Stanley Securities",
-      "三菱UFJモルガン・スタンレー証券"
+      "三菱UFJモルガン・スタンレー証券",
+      "JapanFG/mufg-morgan-stanley-securities",
+      "JapanFG/mufg-msms"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -82,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2892,
-    "word_like_tokens": 429,
+    "nonspace_chars": 2953,
+    "word_like_tokens": 437,
     "inbound_wikilinks_count": 42,
-    "last_modified": "2026-05-20"
+    "last_modified": "2026-06-02"
   }
 }

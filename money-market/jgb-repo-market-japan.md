@@ -5,6 +5,7 @@ aliases:
   - "jgb-repo-market-japan"
   - "Japan JGB repo market"
   - "日本国債レポ市場"
+  - "JapanFG/japanese-government-bonds"
 domain: "money-market"
 created: 2026-05-20
 last_updated: 2026-05-20

@@ -1,6 +1,11 @@
 ---
 title: "みずほ信託銀行 (Mizuho Trust & Banking)"
-aliases: ["Mizuho Trust", "Mizuho Trust & Banking", "みずほ信託銀行", "みずほ信託銀行株式会社"]
+aliases:
+  - "Mizuho Trust"
+  - "Mizuho Trust & Banking"
+  - "みずほ信託銀行"
+  - "みずほ信託銀行株式会社"
+  - "JapanFG/mizuho-trust-banking"
 domain: JapanFG
 created: 2026-05-20
 last_updated: 2026-05-20

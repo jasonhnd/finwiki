@@ -16,7 +16,8 @@
       "DGフィナンシャルテクノロジー",
       "株式会社DGフィナンシャルテクノロジー",
       "ベリトランス",
-      "VeriTrans"
+      "VeriTrans",
+      "JapanFG/digital-garage"
     ],
     "domain": "JapanFG",
     "created": "2026-05-21",
@@ -73,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2115,
-    "word_like_tokens": 316,
+    "nonspace_chars": 2139,
+    "word_like_tokens": 319,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-02"
   }
 }

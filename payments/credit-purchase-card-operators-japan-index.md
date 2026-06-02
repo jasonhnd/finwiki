@@ -5,6 +5,8 @@ aliases:
   - "METI Installment Sales Act operator index"
   - "割賦販売法 registered operators"
   - "クレジットカード番号等取扱契約締結事業者 registry"
+  - "JapanFG/odakyu-cards"
+  - "JapanFG/tokyu-card"
 domain: "payments"
 created: 2026-05-21
 last_updated: 2026-05-21

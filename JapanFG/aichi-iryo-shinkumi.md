@@ -4,6 +4,7 @@ aliases:
   - "Aichi-Iryo-Shinkumi"
   - "愛知県医療信組"
   - "Aichi Medical Credit Co-operative"
+  - "JapanFG/aichi-ishi-shinkumi"
 domain: JapanFG
 created: 2026-05-25
 last_updated: 2026-05-25

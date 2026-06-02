@@ -1,6 +1,13 @@
 ---
 title: T&D ホールディングス (T&D Holdings)
-aliases: ["T&D HD", "T&D Holdings", "T&D ホールディングス", "T&D フィナンシャル ホールディングス", "8795"]
+aliases:
+  - "T&D HD"
+  - "T&D Holdings"
+  - "T&D ホールディングス"
+  - "T&D フィナンシャル ホールディングス"
+  - "8795"
+  - "JapanFG/t-and-d-hd"
+  - "JapanFG/toho-life"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

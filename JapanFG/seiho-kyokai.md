@@ -9,6 +9,7 @@ aliases:
   - "生命保険協会"
   - "生保協会"
   - "LIAJ"
+  - "JapanFG/seimei-bunka-center"
 domain: JapanFG
 created: 2026-05-24
 last_updated: 2026-05-24

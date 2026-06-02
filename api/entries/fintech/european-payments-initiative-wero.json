@@ -15,7 +15,8 @@
       "EPI",
       "Wero",
       "EPI Wero",
-      "European Payments Initiative"
+      "European Payments Initiative",
+      "systems/sepa-instant-overview"
     ],
     "domain": "fintech",
     "created": "2026-05-25",
@@ -88,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4823,
-    "word_like_tokens": 781,
+    "nonspace_chars": 4864,
+    "word_like_tokens": 785,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

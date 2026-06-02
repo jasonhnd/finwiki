@@ -6,6 +6,8 @@ aliases:
   - "Japan consumer credit operator categories"
   - "card vs shoko-loan vs shinpan vs BNPL vs auto-captive Japan"
   - "日本消費者信用オペレーター比較マトリクス"
+  - "JapanFG/yamada-financial-services"
+  - "finance/japan-consumer-credit-and-leasing-finance-landscape"
 domain: payments
 created: 2026-05-24
 last_updated: 2026-05-24

@@ -15,7 +15,8 @@
       "AIA Group Japan",
       "AIA International",
       "AIA生命",
-      "AIA Japan branch"
+      "AIA Japan branch",
+      "JapanFG/aia"
     ],
     "domain": "JapanFG",
     "created": "2026-05-24",
@@ -85,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4392,
-    "word_like_tokens": 725,
+    "nonspace_chars": 4406,
+    "word_like_tokens": 727,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

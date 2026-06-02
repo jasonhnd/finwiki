@@ -1,6 +1,14 @@
 ---
 title: SBI 新生銀行
-aliases: ["SBI 新生銀行", "SBI Shinsei Bank", "新生銀行", "Shinsei Bank", "日本長期信用銀行", "LTCB", "Long-Term Credit Bank of Japan"]
+aliases:
+  - "SBI 新生銀行"
+  - "SBI Shinsei Bank"
+  - "新生銀行"
+  - "Shinsei Bank"
+  - "日本長期信用銀行"
+  - "LTCB"
+  - "Long-Term Credit Bank of Japan"
+  - "JapanFG/sbi-shinsei"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

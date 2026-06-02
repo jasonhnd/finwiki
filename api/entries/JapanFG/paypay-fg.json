@@ -14,7 +14,8 @@
       "PayPay FG",
       "PayPay 金融グループ",
       "PayPay Financial Group",
-      "SoftBank 系金融事業"
+      "SoftBank 系金融事業",
+      "JapanFG/line-pay"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -87,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8010,
-    "word_like_tokens": 1481,
+    "nonspace_chars": 8028,
+    "word_like_tokens": 1484,
     "inbound_wikilinks_count": 31,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

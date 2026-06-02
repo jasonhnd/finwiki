@@ -1,6 +1,14 @@
 ---
 title: 東京海上ホールディングス (Tokio Marine Holdings)
-aliases: ["Tokio Marine HD", "東京海上 HD", "東京海上ホールディングス", "Tokio Marine Holdings, Inc.", "8766"]
+aliases:
+  - "Tokio Marine HD"
+  - "東京海上 HD"
+  - "東京海上ホールディングス"
+  - "Tokio Marine Holdings"
+  - "Inc."
+  - "8766"
+  - "JapanFG/tokio-marine-hd"
+  - "JapanFG/tokio-marine-holdings"
 domain: JapanFG
 created: 2026-05-19
 last_updated: 2026-05-26

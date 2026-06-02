@@ -13,7 +13,8 @@
     "aliases": [
       "Aichi-Iryo-Shinkumi",
       "愛知県医療信組",
-      "Aichi Medical Credit Co-operative"
+      "Aichi Medical Credit Co-operative",
+      "JapanFG/aichi-ishi-shinkumi"
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
@@ -91,9 +92,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5197,
-    "word_like_tokens": 728,
+    "nonspace_chars": 5227,
+    "word_like_tokens": 732,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

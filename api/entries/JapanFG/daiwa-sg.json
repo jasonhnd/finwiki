@@ -16,7 +16,9 @@
       "Daiwa SG",
       "8601",
       "大和証券",
-      "Daiwa Securities"
+      "Daiwa Securities",
+      "JapanFG/daiwa-securities",
+      "JapanFG/daiwa-securities-group"
     ],
     "domain": "JapanFG",
     "created": "2026-05-19",
@@ -85,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5116,
-    "word_like_tokens": 759,
+    "nonspace_chars": 5175,
+    "word_like_tokens": 766,
     "inbound_wikilinks_count": 68,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

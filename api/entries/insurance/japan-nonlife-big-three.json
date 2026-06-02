@@ -13,7 +13,8 @@
     "aliases": [
       "Japan non-life big three",
       "Japan P&C big three",
-      "日本 損保 big three"
+      "日本 損保 big three",
+      "insurance/direct-nonlife-insurance-japan"
     ],
     "domain": "insurance",
     "created": "2026-05-22",
@@ -96,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6344,
-    "word_like_tokens": 934,
+    "nonspace_chars": 6387,
+    "word_like_tokens": 939,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-02"
   }
 }

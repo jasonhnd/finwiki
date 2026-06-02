@@ -8,6 +8,7 @@ aliases:
   - "J-REIT 90% distribution rule"
   - "Japan PE FPI distinction real-estate"
   - "Japan real-estate double tax treaty"
+  - "JapanFG/japan-real-estate-institute"
 domain: real-estate-finance
 created: 2026-05-25
 last_updated: 2026-05-25

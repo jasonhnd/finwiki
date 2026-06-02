@@ -4,6 +4,7 @@ aliases:
   - "Japan BaaS operating models"
   - "BaaS operating models Japan"
   - "日本 BaaS operating models"
+  - "banking/baas-rakuten-jre-bank"
 domain: "banking"
 created: 2026-05-22
 last_updated: 2026-05-22

@@ -13,7 +13,8 @@
     "aliases": [
       "Ashikaga Bank",
       "The Ashikaga Bank",
-      "株式会社足利銀行"
+      "株式会社足利銀行",
+      "JapanFG/ashikaga-hd"
     ],
     "domain": "JapanFG",
     "created": "2026-05-21",
@@ -70,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1678,
-    "word_like_tokens": 270,
+    "nonspace_chars": 1699,
+    "word_like_tokens": 273,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-02"
   }
 }

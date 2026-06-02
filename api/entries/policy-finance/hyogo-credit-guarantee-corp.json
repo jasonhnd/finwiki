@@ -53,11 +53,10 @@
     "7. Federation-system anchor"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
       "JapanFG/jfc",
-      "JapanFG/kawasaki-shipyard",
       "JapanFG/minato-bank",
       "JapanFG/mizuho-fg",
       "JapanFG/mufg",
@@ -81,7 +80,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/kawasaki-shipyard",
       "https://finwiki.zksc.io/JapanFG/minato-bank",
       "https://finwiki.zksc.io/JapanFG/mizuho-fg",
       "https://finwiki.zksc.io/JapanFG/mufg",
@@ -106,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12131,
-    "word_like_tokens": 1851,
+    "nonspace_chars": 12100,
+    "word_like_tokens": 1848,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-02"
   }
 }

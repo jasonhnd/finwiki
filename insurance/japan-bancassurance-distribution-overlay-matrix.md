@@ -9,6 +9,7 @@ aliases:
   - "日本 銀行窓販 比較マトリクス"
   - "Japan ginko madohan insurer matrix"
   - "Japan bancassurance commission overlay"
+  - "insurance/life-insurance-distribution-japan"
 domain: insurance
 created: 2026-05-25
 last_updated: 2026-05-25

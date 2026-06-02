@@ -1,6 +1,11 @@
 ---
 title: 損害保険契約者保護機構
-aliases: ["損保契約者保護機構", "Non-life Insurance Policyholders Protection Corporation of Japan", "NLIPP", "損害保険契約者保護機構"]
+aliases:
+  - "損保契約者保護機構"
+  - "Non-life Insurance Policyholders Protection Corporation of Japan"
+  - "NLIPP"
+  - "損害保険契約者保護機構"
+  - "JapanFG/dai-ichi-mutual"
 domain: JapanFG
 created: 2026-05-25
 last_updated: 2026-05-25

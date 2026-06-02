@@ -8,6 +8,9 @@ aliases:
   - "MUFG SMBC Mizuho ship finance"
   - "NYK MOL K-Line offtake"
   - "structured-finance/ship-financing-japan-megabank"
+  - "JapanFG/k-line"
+  - "JapanFG/mitsui-osk-lines"
+  - "JapanFG/nyk-line"
 domain: structured-finance
 created: 2026-05-25
 last_updated: 2026-05-25

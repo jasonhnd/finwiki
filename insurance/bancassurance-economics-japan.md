@@ -7,6 +7,7 @@ aliases:
   - "ginkou-mado-han"
   - "bank-channel insurance Japan"
   - "post-2007 bancassurance deregulation"
+  - "JapanFG/mufg-life-japan"
 domain: insurance
 created: 2026-05-25
 last_updated: 2026-05-25

@@ -65,7 +65,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 | 2012 | CFAO (フランス、アフリカ最大級の流通商社) 株式取得 |
 | **2016** | **CFAO 完全子会社化** — アフリカ大陸最大級の自動車・医薬品・食品流通網を統合 |
 | 2020s〜 | リチウム・レアアース・EV 電池サプライチェーン (Toyota EV 戦略連動) 強化 |
-| 2023 | Eurus Energy (再エネ大手) を [[JapanFG/tepco-hd|TEPCO HD]] と JV 化、洋上風力含む |
+| 2023 | Eurus Energy (再エネ大手) を TEPCO HD と JV 化、洋上風力含む |
 
 ## 2. 事業セグメント・マップ
 
@@ -108,7 +108,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 - **CFAO** のアフリカ事業の中長期収益化、追加 M&A の方向性
 - **Toyota EV 戦略** との連動 (リチウム / レアアース / 電池サプライチェーン 投資の進度)
-- **Eurus Energy** + [[JapanFG/tepco-hd|TEPCO HD]] JV の再エネポートフォリオ拡大
+- **Eurus Energy** + TEPCO HD JV の再エネポートフォリオ拡大
 - **5 大商社級** への成長 (純利益 5,000 億円超え)
 - **Toyota Motor** との関係 (持分追加 or 縮小、グループ系列再編)
 - **[[JapanFG/toyota-financial|TFS]]** との戦略連携深化 (車両 captive finance × ディーラー網シナジー)
