@@ -3,55 +3,108 @@ import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
 import { domainName } from '../../../i18n/domains';
+import { domainGroups, groupName } from '../../../i18n/groups';
 import { entryDomain } from '../../../lib/routes';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
 }
-
 const { lang } = Astro.params as { lang: Lang };
+
 const entries = await getCollection('entries');
 const counts = new Map<string, number>();
-
 for (const entry of entries) {
   const domain = entryDomain(entry);
   counts.set(domain, (counts.get(domain) ?? 0) + 1);
 }
-
-const domains = [...counts.entries()].sort((left, right) => {
-  if (right[1] !== left[1]) return right[1] - left[1];
-  return left[0].localeCompare(right[0]);
-});
+const note = t(lang, 'domains.note')
+  .replace('{entries}', entries.length.toLocaleString('en-US'))
+  .replace('{domains}', String(counts.size));
 ---
-<Base lang={lang} title={t(lang, 'nav.domains')}>
-  <section class="domains-head">
-    <p class="kicker">{t(lang, 'nav.domains')}</p>
-    <h1>{t(lang, 'nav.domains')}</h1>
-    <p>{entries.length.toLocaleString('en-US')} entries across {domains.length} domains.</p>
-  </section>
+<Base lang={lang} title={t(lang, 'domains.title')} active="domains">
+  <div class="container domains">
+    <header class="domains__head">
+      <p class="eyebrow">{t(lang, 'nav.domains')}</p>
+      <h1>{t(lang, 'domains.title')}</h1>
+      <p class="muted">{note}</p>
+    </header>
 
-  <div class="domain-grid">
-    {domains.map(([domain, count]) => (
-      <a class="domain-card" href={u(lang, `domains/${domain}/`)}>
-        <span>{domainName(domain, lang)}</span>
-        <strong>{count.toLocaleString('en-US')}</strong>
-      </a>
-    ))}
+    <div class="domains__groups">
+      {domainGroups.map((g) => {
+        const ds = g.domains.filter((d) => counts.has(d));
+        if (!ds.length) return null;
+        const total = ds.reduce((sum, d) => sum + (counts.get(d) ?? 0), 0);
+        return (
+          <section class="dgroup">
+            <div class="dgroup__head">
+              <h2>{groupName(g, lang)}</h2>
+              <span class="muted">{total.toLocaleString('en-US')}</span>
+            </div>
+            <div class="dgroup__grid">
+              {ds.map((d) => (
+                <a class="card dcard" href={u(lang, `domains/${d}/`)}>
+                  <span class="dcard__name">{domainName(d, lang)}</span>
+                  <span class="dcard__count">{(counts.get(d) ?? 0).toLocaleString('en-US')}</span>
+                </a>
+              ))}
+            </div>
+          </section>
+        );
+      })}
+    </div>
   </div>
 </Base>
 
 <style>
-  .domains-head { margin-bottom: 1.5rem; }
-  .kicker { color: var(--accent); font-size: 0.8rem; font-weight: 700; margin: 0 0 0.2rem; text-transform: uppercase; }
-  h1 { font-size: clamp(1.7rem, 1.2rem + 2vw, 2.35rem); margin: 0; }
-  .domains-head p:last-child { color: var(--muted); margin: 0.4rem 0 0; }
-  .domain-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.65rem; }
-  .domain-card {
-    display: flex; justify-content: space-between; align-items: center; gap: 1rem;
-    border: 1px solid var(--line); border-radius: 8px; background: var(--soft);
-    padding: 0.75rem 0.85rem; color: var(--fg); text-decoration: none;
+  .domains {
+    padding-top: var(--sp-6);
   }
-  .domain-card:hover { border-color: var(--accent); }
-  .domain-card span { font-weight: 650; }
-  .domain-card strong { color: var(--accent); font-size: 0.95rem; }
+  .domains__head {
+    margin-bottom: var(--sp-6);
+  }
+  .domains__head h1 {
+    font-size: var(--fs-xl);
+    margin: 0 0 0.3rem;
+  }
+  .domains__groups {
+    display: flex;
+    flex-direction: column;
+    gap: var(--sp-7);
+  }
+  .dgroup__head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.7rem;
+    margin-bottom: 1rem;
+  }
+  .dgroup__head h2 {
+    font-size: var(--fs-md);
+    margin: 0;
+  }
+  .dgroup__head .muted {
+    font-variant-numeric: tabular-nums;
+    font-size: var(--fs-sm);
+  }
+  .dgroup__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+    gap: 0.75rem;
+  }
+  .dcard {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 0.85rem 1rem;
+  }
+  .dcard__name {
+    font-family: var(--font-display);
+    font-size: var(--fs-base);
+    font-weight: 600;
+  }
+  .dcard__count {
+    color: var(--accent);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
 </style>

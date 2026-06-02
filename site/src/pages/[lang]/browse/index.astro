@@ -3,7 +3,7 @@ import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
 import { domainName } from '../../../i18n/domains';
-import { compareEntryRoute, entryDomain, entryRoute } from '../../../lib/routes';
+import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../lib/routes';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -11,38 +11,203 @@ export function getStaticPaths() {
 const { lang } = Astro.params as { lang: Lang };
 
 const all = (await getCollection('entries')).sort(compareEntryRoute);
+const translations = await getCollection('i18n');
+const i18nMap = new Map(translations.map((entry) => [entry.id, entry]));
+
 const byDomain = new Map<string, typeof all>();
 for (const e of all) {
   const d = entryDomain(e);
   if (!byDomain.has(d)) byDomain.set(d, [] as unknown as typeof all);
   byDomain.get(d)!.push(e);
 }
-const domains = [...byDomain.keys()].sort();
+const domains = [...byDomain.entries()].sort((a, b) => b[1].length - a[1].length);
+
+function titleFor(entry: (typeof all)[number]): string {
+  const tr = i18nMap.get(i18nEntryId(lang, entry));
+  return String(tr?.data?.title || entry.data.title || entryRoute(entry));
+}
 ---
-<Base lang={lang} title="Browse">
-  <h1>{t(lang, 'nav.domains')}</h1>
-  <p class="count">{all.length} entries · {domains.length} domains</p>
-  {domains.map((d) => (
-    <section id={d} class="dom">
-      <h2>{domainName(d, lang)} <span class="dn">{byDomain.get(d)!.length}</span></h2>
-      <ul data-pagefind-ignore>
-        {byDomain.get(d)!.map((e) => (
-          <li><a href={u(lang, `${entryRoute(e)}/`)}>{e.data.title}</a></li>
-        ))}
-      </ul>
-    </section>
-  ))}
+<Base lang={lang} title={t(lang, 'browse.title')} active="browse" wide>
+  <div class="container--wide container browse">
+    <header class="browse__head">
+      <h1>{t(lang, 'browse.title')}</h1>
+      <p class="muted">{t(lang, 'domains.note').replace('{entries}', all.length.toLocaleString('en-US')).replace('{domains}', String(domains.length))}</p>
+    </header>
+
+    <div class="browse__bar">
+      <input id="browse-filter" type="search" class="browse__filter" placeholder={t(lang, 'browse.filter')} autocomplete="off" aria-label={t(lang, 'browse.filter')} />
+    </div>
+
+    <nav class="browse__jump" aria-label="Jump to domain">
+      {domains.map(([d, list]) => (
+        <a href={`#${d}`} data-jump={d}>{domainName(d, lang)} <b>{list.length}</b></a>
+      ))}
+    </nav>
+
+    <p id="browse-empty" class="browse__empty" hidden>{t(lang, 'browse.noMatch')}</p>
+
+    <div class="browse__sections">
+      {domains.map(([d, list]) => (
+        <section id={d} class="browse__section" data-domain={d}>
+          <h2>{domainName(d, lang)} <span class="muted">{list.length}</span></h2>
+          <ul>
+            {list.map((e) => {
+              const name = titleFor(e);
+              return (
+                <li class="browse__item" data-name={`${name} ${entryRoute(e)}`.toLowerCase()}>
+                  <a href={u(lang, `${entryRoute(e)}/`)}>{name}</a>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      ))}
+    </div>
+  </div>
 </Base>
 
 <style>
-  h1 { font-size: 1.8rem; margin: 0 0 0.2rem; }
-  .count { color: var(--muted); font-size: 0.9rem; margin: 0 0 1.5rem; }
-  .dom { margin: 1.5rem 0; scroll-margin-top: 5rem; }
-  .dom h2 { font-size: 1.2rem; border-bottom: 1px solid var(--line); padding-bottom: 0.3rem; }
-  .dom .dn { color: var(--muted); font-size: 0.85rem; font-weight: 400; }
-  .dom ul { columns: 2; column-gap: 2rem; padding-left: 1.1rem; margin: 0.6rem 0; }
-  .dom li { margin: 0.15rem 0; break-inside: avoid; }
-  .dom a { color: var(--accent); text-decoration: none; font-size: 0.92rem; }
-  .dom a:hover { text-decoration: underline; }
-  @media (max-width: 640px) { .dom ul { columns: 1; } }
+  .browse {
+    padding-top: var(--sp-6);
+  }
+  .browse__head h1 {
+    font-size: var(--fs-xl);
+    margin: 0 0 0.2rem;
+  }
+  .browse__bar {
+    position: sticky;
+    top: var(--header-h);
+    z-index: 5;
+    background: var(--paper);
+    padding: 1rem 0 0.75rem;
+    margin-top: 0.5rem;
+  }
+  .browse__filter {
+    width: 100%;
+    max-width: 30rem;
+    font: inherit;
+    font-size: var(--fs-base);
+    padding: 0.6rem 0.9rem;
+    border: 1px solid var(--line-2);
+    border-radius: var(--r);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  .browse__filter:focus-visible {
+    border-color: var(--accent);
+    outline: none;
+  }
+  .browse__jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1.5rem;
+  }
+  .browse__jump a {
+    font-size: var(--fs-xs);
+    text-decoration: none;
+    color: var(--ink-2);
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    border-radius: var(--r-pill);
+    padding: 0.2rem 0.65rem;
+  }
+  .browse__jump a:hover {
+    border-color: var(--accent);
+    color: var(--ink);
+  }
+  .browse__jump a[hidden] {
+    display: none;
+  }
+  .browse__jump b {
+    color: var(--muted);
+    font-weight: 500;
+  }
+  .browse__empty {
+    color: var(--muted);
+    padding: 2rem 0;
+  }
+  .browse__section {
+    margin: 0 0 2rem;
+    scroll-margin-top: calc(var(--header-h) + 4rem);
+  }
+  .browse__section[hidden] {
+    display: none;
+  }
+  .browse__section h2 {
+    font-size: var(--fs-md);
+    margin: 0 0 0.7rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .browse__section ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    columns: 3;
+    column-gap: 2rem;
+  }
+  .browse__item {
+    break-inside: avoid;
+    margin: 0.18rem 0;
+  }
+  .browse__item[hidden] {
+    display: none;
+  }
+  .browse__item a {
+    text-decoration: none;
+    color: var(--accent-2);
+    font-size: var(--fs-sm);
+  }
+  .browse__item a:hover {
+    text-decoration: underline;
+  }
+  @media (max-width: 900px) {
+    .browse__section ul {
+      columns: 2;
+    }
+  }
+  @media (max-width: 560px) {
+    .browse__section ul {
+      columns: 1;
+    }
+  }
 </style>
+
+<script>
+  const input = document.getElementById('browse-filter') as HTMLInputElement | null;
+  const empty = document.getElementById('browse-empty');
+  const items = Array.from(document.querySelectorAll('.browse__item')) as HTMLElement[];
+  const sections = Array.from(document.querySelectorAll('.browse__section')) as HTMLElement[];
+  const jumps = new Map(
+    Array.from(document.querySelectorAll('.browse__jump a[data-jump]')).map((a) => [
+      (a as HTMLElement).dataset.jump,
+      a as HTMLElement,
+    ]),
+  );
+
+  function apply(q: string) {
+    const needle = q.trim().toLowerCase();
+    let anyVisible = false;
+    for (const s of sections) {
+      let visible = 0;
+      for (const li of s.querySelectorAll('.browse__item')) {
+        const el = li as HTMLElement;
+        const match = !needle || (el.dataset.name || '').includes(needle);
+        el.hidden = !match;
+        if (match) visible++;
+      }
+      s.hidden = visible === 0;
+      const jump = jumps.get(s.dataset.domain);
+      if (jump) jump.hidden = visible === 0;
+      if (visible) anyVisible = true;
+    }
+    if (empty) empty.hidden = anyVisible;
+  }
+
+  let raf = 0;
+  input?.addEventListener('input', () => {
+    cancelAnimationFrame(raf);
+    raf = requestAnimationFrame(() => apply(input.value));
+  });
+</script>

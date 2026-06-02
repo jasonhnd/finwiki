@@ -1,8 +1,17 @@
 ---
+import '../styles/global.css';
 import LangSwitcher from '../components/LangSwitcher.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
 import { t, u, type Lang } from '../i18n/ui';
-interface Props { lang: Lang; title?: string; description?: string }
-const { lang, title, description } = Astro.props;
+
+interface Props {
+  lang: Lang;
+  title?: string;
+  description?: string;
+  active?: 'home' | 'domains' | 'browse' | null;
+  wide?: boolean;
+}
+const { lang, title, description, active = null, wide = false } = Astro.props;
 const pageTitle = title ? `${title} · FinWiki` : t(lang, 'site.title');
 const desc = description ?? t(lang, 'site.tagline');
 ---
@@ -13,51 +22,80 @@ const desc = description ?? t(lang, 'site.tagline');
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={desc} />
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('finwiki-theme');
+          if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+        } catch (e) {}
+      })();
+    </script>
     <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
     <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
     <link rel="alternate" hreflang="ja" href={u('ja')} />
     <link rel="alternate" hreflang="en" href={u('en')} />
     <link rel="alternate" hreflang="zh" href={u('zh')} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header" data-pagefind-ignore>
-      <a class="brand" href={u(lang)}>FinWiki</a>
-      <nav class="site-nav">
-        <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
-        <a href={u(lang, 'browse/')}>{t(lang, 'nav.browse')}</a>
-        <a href="/llms.txt">{t(lang, 'nav.ai')}</a>
-      </nav>
-      <pagefind-modal-trigger class="site-search" placeholder={t(lang, 'nav.search')} shortcut="mod+k"></pagefind-modal-trigger>
-      <LangSwitcher lang={lang} />
+      <div class="site-header__inner">
+        <a class="brand" href={u(lang)} aria-label="FinWiki home">
+          <span>Fin<b>Wiki</b></span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href={u(lang, 'domains/')} aria-current={active === 'domains' ? 'page' : undefined}>{t(lang, 'nav.domains')}</a>
+          <a href={u(lang, 'browse/')} aria-current={active === 'browse' ? 'page' : undefined}>{t(lang, 'nav.browse')}</a>
+          <a href="/llms.txt">{t(lang, 'nav.ai')}</a>
+        </nav>
+        <div class="header-tools">
+          <pagefind-modal-trigger class="pf-trigger" placeholder={t(lang, 'nav.search')} shortcut="mod+k"></pagefind-modal-trigger>
+          <ThemeToggle />
+          <LangSwitcher lang={lang} />
+        </div>
+      </div>
     </header>
-    <main data-pagefind-body><slot /></main>
+
+    <main id="main" class={`site-main${wide ? ' is-wide' : ''}`} data-pagefind-body><slot /></main>
+
     <pagefind-modal reset-on-close></pagefind-modal>
-    <footer class="site-footer" data-pagefind-ignore>{t(lang, 'footer.note')}</footer>
+
+    <footer class="site-footer" data-pagefind-ignore>
+      <div class="site-footer__inner">
+        <div>
+          <div class="site-footer__brand">Fin<span style="color:var(--accent)">Wiki</span></div>
+          <p class="site-footer__note">{t(lang, 'footer.note')}</p>
+        </div>
+        <nav class="site-footer__links" aria-label="Footer">
+          <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
+          <a href={u(lang, 'browse/')}>{t(lang, 'nav.browse')}</a>
+          <a href="/llms.txt">llms.txt</a>
+          <a href="/ai-index.json">ai-index.json</a>
+          <a href="/sitemap.xml">sitemap.xml</a>
+        </nav>
+        <div class="site-footer__meta">
+          <span>© FinWiki</span>
+          <span>JA · EN · ZH</span>
+        </div>
+      </div>
+    </footer>
+
     <style>
-      :root {
-        --max: 56rem; --fg: #1a1a1a; --muted: #666; --accent: #0b6;
-        --line: #e6e6e6; --bg: #fff; --soft: #fafafa;
+      .pf-trigger {
+        display: inline-flex;
+        font-size: var(--fs-sm);
       }
-      * { box-sizing: border-box; }
-      html { color-scheme: light; }
-      body {
-        margin: 0; background: var(--bg); color: var(--fg);
-        font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans SC", sans-serif;
-        line-height: 1.75;
+      @media (max-width: 560px) {
+        .site-nav {
+          gap: 0.75rem;
+        }
+        .brand small {
+          display: none;
+        }
       }
-      .site-header {
-        display: flex; gap: 1.25rem; align-items: center; flex-wrap: wrap;
-        padding: 0.9rem 1.5rem; border-bottom: 1px solid var(--line);
-        position: sticky; top: 0; background: color-mix(in srgb, var(--bg) 88%, transparent);
-        backdrop-filter: blur(8px); z-index: 10;
-      }
-      .brand { font-weight: 800; font-size: 1.1rem; text-decoration: none; color: var(--fg); letter-spacing: -0.01em; }
-      .site-nav { display: flex; gap: 1rem; margin-right: auto; }
-      .site-nav a { text-decoration: none; color: var(--muted); font-size: 0.9rem; }
-      .site-nav a:hover { color: var(--accent); }
-      .site-search { display: inline-flex; flex: 0 0 auto; }
-      main { max-width: var(--max); margin: 0 auto; padding: 2.5rem 1.5rem; }
-      .site-footer { border-top: 1px solid var(--line); padding: 1.75rem 1.5rem; color: var(--muted); font-size: 0.8rem; text-align: center; }
     </style>
   </body>
 </html>

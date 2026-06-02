@@ -1,51 +1,23 @@
 ---
+import '../styles/global.css';
+import ThemeToggle from '../components/ThemeToggle.astro';
 import { getCollection } from 'astro:content';
-import { domainNames } from '../i18n/domains';
+import { domainName } from '../i18n/domains';
 import { entryDomain } from '../lib/routes';
 
 const entries = await getCollection('entries');
 const translations = await getCollection('i18n');
 
 const counts = new Map<string, number>();
-const knownDomains = new Set(Object.keys(domainNames));
 for (const entry of entries) {
-  const domain = entryDomain(entry);
-  if (!knownDomains.has(domain)) continue;
-  counts.set(domain, (counts.get(domain) ?? 0) + 1);
+  counts.set(entryDomain(entry), (counts.get(entryDomain(entry)) ?? 0) + 1);
 }
+const featured = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
 
-const domainMeta: Record<string, { ja: string; en: string; zh: string; tone: string }> = {
-  japanfg: { ja: '日本金融機関', en: 'Japanese Financial Groups', zh: '日本金融机构', tone: 'teal' },
-  fintech: { ja: 'フィンテック', en: 'Fintech', zh: '金融科技', tone: 'gold' },
-  exchanges: { ja: '取引所・VASP', en: 'Exchanges & VASP', zh: '交易所与 VASP', tone: 'rose' },
-  payments: { ja: '決済', en: 'Payments', zh: '支付', tone: 'green' },
-  insurance: { ja: '保険', en: 'Insurance', zh: '保险', tone: 'blue' },
-  securities: { ja: '証券', en: 'Securities', zh: '证券', tone: 'teal' },
-  derivatives: { ja: 'デリバティブ', en: 'Derivatives', zh: '衍生品', tone: 'gold' },
-  'policy-finance': { ja: '政策金融', en: 'Policy Finance', zh: '政策金融', tone: 'green' },
-  'real-estate-finance': { ja: '不動産金融', en: 'Real-Estate Finance', zh: '房地产金融', tone: 'rose' },
-  banking: { ja: '銀行・政策', en: 'Banking', zh: '银行', tone: 'blue' },
-};
-
-const featured = [
-  'japanfg',
-  'payments',
-  'policy-finance',
-  'real-estate-finance',
-  'securities',
-  'exchanges',
-]
-  .filter((domain) => counts.has(domain))
-  .map((domain) => ({
-    domain,
-    count: counts.get(domain)!,
-    ...(domainMeta[domain] ?? { ja: domain, en: domain, zh: domain, tone: 'teal' }),
-  }));
-
+const entryCount = entries.length;
+const domainCount = counts.size;
 const zhCount = translations.filter((entry) => entry.id.startsWith('zh/')).length;
 const enCount = translations.filter((entry) => entry.id.startsWith('en/')).length;
-const domainCount = counts.size;
-const entryCount = entries.length;
 
 const updatedAt = new Intl.DateTimeFormat('en-US', {
   timeZone: 'Asia/Tokyo',
@@ -53,721 +25,279 @@ const updatedAt = new Intl.DateTimeFormat('en-US', {
   month: 'short',
   day: '2-digit',
 }).format(new Date());
+
+const entrances = [
+  { href: '/ja/', code: '日本語', label: '日本語版', note: '公開ソースに基づく wiki 本文（原文）。' },
+  { href: '/en/', code: 'English', label: 'English edition', note: 'Verified English translations, falling back to the source.' },
+  { href: '/zh/', code: '简体中文', label: '简体中文版', note: '已校验的简体中文译文，缺失时回退日文原文。' },
+];
 ---
 <!doctype html>
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>FinWiki | Public Financial Knowledge Graph</title>
+    <title>FinWiki — Public Financial Knowledge Graph</title>
     <meta
       name="description"
-      content="FinWiki is a public-source financial knowledge graph with Japanese, English, and Simplified Chinese reading surfaces."
+      content="FinWiki is a trilingual, public-source financial knowledge graph covering Japanese and global financial institutions, regimes, and market plumbing."
     />
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('finwiki-theme');
+          if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+        } catch (e) {}
+      })();
+    </script>
     <link rel="alternate" hreflang="ja" href="/ja/" />
     <link rel="alternate" hreflang="en" href="/en/" />
     <link rel="alternate" hreflang="zh" href="/zh/" />
     <link rel="alternate" hreflang="x-default" href="/" />
-    <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet" />
-    <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
     <meta property="og:title" content="FinWiki" />
-    <meta
-      property="og:description"
-      content="A trilingual public-source financial knowledge graph for reading, retrieval, and AI traversal."
-    />
+    <meta property="og:description" content="A trilingual public-source financial knowledge graph." />
     <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
-    <header class="topbar" aria-label="Primary navigation" data-pagefind-ignore>
-      <a class="brand" href="/" aria-label="FinWiki home">
-        <span class="brand-mark">F</span>
-        <span>FinWiki</span>
-      </a>
-      <nav class="topnav" aria-label="Language and resource links">
-        <a href="/ja/">日本語</a>
-        <a href="/en/">English</a>
-        <a href="/zh/">简体中文</a>
-        <pagefind-modal-trigger class="top-search" placeholder="Search" shortcut="mod+k"></pagefind-modal-trigger>
-        <a href="/llms.txt">AI index</a>
-      </nav>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="/" aria-label="FinWiki"><span>Fin<b>Wiki</b></span></a>
+        <div style="margin-left:auto"><ThemeToggle /></div>
+      </div>
     </header>
 
-    <main data-pagefind-body>
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
-          <p class="eyebrow">
-            <span>Public-source finance</span>
-            <span>金融知識グラフ</span>
-            <span>公开金融知识库</span>
-          </p>
-          <h1 id="hero-title">FinWiki</h1>
-          <p class="lede-ja">
-            日本の金融機関、決済、証券、政策金融、暗号資産、資本市場を横断する公開ソース型 wiki。
-          </p>
-          <p class="lede-en">
-            A trilingual financial knowledge graph built for human reading, source-aware retrieval, and AI traversal.
-          </p>
-          <p class="lede-zh">
-            面向人工阅读、检索和 AI 遍历的三语公开金融知识图谱，覆盖日本金融与跨境市场主题。
-          </p>
-          <div class="hero-actions" aria-label="Primary entrances">
-            <a class="primary-action" href="/ja/">日本語で読む</a>
-            <a href="/en/">Read English</a>
-            <a href="/zh/">阅读中文</a>
-          </div>
+    <main class="site-main">
+      <section class="root-hero container">
+        <p class="eyebrow">Public-source financial knowledge graph</p>
+        <h1 class="root-title">FinWiki</h1>
+        <div class="root-taglines">
+          <p><span class="rt">JA</span>公開一次情報にもとづく、三言語・出典つきの金融事実ベース。</p>
+          <p><span class="rt">EN</span>A trilingual, source-backed financial fact base built on public primary information.</p>
+          <p><span class="rt">ZH</span>基于公开一手信源的三语、带出处金融事实库。</p>
+        </div>
+        <div class="root-stats">
+          <span><b>{entryCount.toLocaleString('en-US')}</b> entries</span>
+          <span><b>{domainCount}</b> domains</span>
+          <span><b>{zhCount.toLocaleString('en-US')}</b> 中文</span>
+          <span><b>{enCount.toLocaleString('en-US')}</b> EN</span>
         </div>
       </section>
 
-      <section class="overview" aria-labelledby="overview-title">
-        <div class="section-head">
-          <p class="kicker">Snapshot</p>
-          <h2 id="overview-title">Current public corpus</h2>
-        </div>
-        <div class="stats" aria-label="Current site statistics">
-          <div class="metric">
-            <strong>{entryCount.toLocaleString('en-US')}</strong>
-            <span>entries</span>
-          </div>
-          <div class="metric">
-            <strong>{domainCount}</strong>
-            <span>domains</span>
-          </div>
-          <div class="metric">
-            <strong>{zhCount.toLocaleString('en-US')}</strong>
-            <span>Chinese translations</span>
-          </div>
-          <div class="metric">
-            <strong>{enCount.toLocaleString('en-US')}</strong>
-            <span>English translations</span>
-          </div>
-        </div>
-      </section>
-
-      <section class="entrances" aria-labelledby="entrances-title">
-        <div class="section-head">
-          <p class="kicker">Entrances</p>
-          <h2 id="entrances-title">Choose a reading surface</h2>
-        </div>
-        <div class="language-grid">
-          <a class="language-tile" href="/ja/">
-            <span class="tile-label">日本語</span>
-            <strong>原文コーパス</strong>
-            <span>公開ソースに基づく wiki 本文を日本語で閲覧します。</span>
-          </a>
-          <a class="language-tile" href="/en/">
-            <span class="tile-label">English</span>
-            <strong>Translated surface</strong>
-            <span>Open verified English translations where available, with fallback to the source corpus.</span>
-          </a>
-          <a class="language-tile" href="/zh/">
-            <span class="tile-label">简体中文</span>
-            <strong>中文译文入口</strong>
-            <span>查看已通过占位符校验的简体中文译文，缺失时回退到日文原文。</span>
-          </a>
-        </div>
-      </section>
-
-      <section class="coverage" aria-labelledby="coverage-title">
-        <div class="section-head">
-          <p class="kicker">Coverage</p>
-          <h2 id="coverage-title">Featured domains</h2>
-        </div>
-        <div class="domain-grid" aria-label="Featured domains">
-          {featured.map(({ domain, count, ja, en, zh, tone }) => (
-            <a class={`domain-tile tone-${tone}`} href={`/ja/domains/${domain}/`}>
-              <span>{ja}</span>
-              <strong>{en}</strong>
-              <em>{zh}</em>
-              <b>{count.toLocaleString('en-US')}</b>
+      <section class="container root-block">
+        <div class="entrances">
+          {entrances.map((e) => (
+            <a class="card entrance" href={e.href}>
+              <span class="entrance__code">{e.code}</span>
+              <span class="card__title">{e.label}</span>
+              <span class="muted entrance__note">{e.note}</span>
+              <span class="entrance__go">→</span>
             </a>
           ))}
         </div>
       </section>
 
-      <section class="machine" aria-labelledby="machine-title">
-        <div class="machine-copy">
-          <p class="kicker">Machine-readable</p>
-          <h2 id="machine-title">AI and crawler entry points</h2>
-          <p>
-            Human pages and machine-readable manifests are published from the same corpus. The surface is regenerated on
-            release so readers, crawlers, and AI agents see the same public snapshot.
-          </p>
+      <section class="container root-block">
+        <p class="eyebrow">Coverage</p>
+        <h2 class="section-title">Featured domains</h2>
+        <div class="root-domains">
+          {featured.map(([d, n]) => (
+            <a class="card root-dcard" href={`/ja/domains/${d}/`}>
+              <span class="root-dcard__ja">{domainName(d, 'ja')}</span>
+              <span class="muted root-dcard__en">{domainName(d, 'en')}</span>
+              <b class="root-dcard__n">{n.toLocaleString('en-US')}</b>
+            </a>
+          ))}
         </div>
-        <div class="surface-links">
-          <a href="/llms.txt">
-            <span>llms.txt</span>
-            <strong>Short guide</strong>
-          </a>
-          <a href="/llms-full.txt">
-            <span>llms-full.txt</span>
-            <strong>Full manifest</strong>
-          </a>
-          <a href="/ai-index.json">
-            <span>ai-index.json</span>
-            <strong>Retrieval map</strong>
-          </a>
-          <a href="/sitemap.xml">
-            <span>sitemap.xml</span>
-            <strong>URL inventory</strong>
-          </a>
+      </section>
+
+      <section class="container root-block">
+        <div class="root-ai">
+          <div>
+            <p class="eyebrow">Machine-readable</p>
+            <h2 class="section-title">AI & crawler surface</h2>
+          </div>
+          <div class="root-ai__links">
+            <a href="/llms.txt">llms.txt</a>
+            <a href="/llms-full.txt">llms-full.txt</a>
+            <a href="/ai-index.json">ai-index.json</a>
+            <a href="/sitemap.xml">sitemap.xml</a>
+          </div>
         </div>
       </section>
     </main>
-    <pagefind-modal reset-on-close></pagefind-modal>
 
-    <footer class="footer" data-pagefind-ignore>
-      <span>FinWiki</span>
-      <span>Last public snapshot: {updatedAt} JST</span>
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <div>
+          <div class="site-footer__brand">Fin<span style="color:var(--accent)">Wiki</span></div>
+          <p class="site-footer__note">A public-source financial knowledge base. Every fact traces back to the sources cited in each entry.</p>
+        </div>
+        <nav class="site-footer__links" aria-label="Footer">
+          <a href="/ja/">日本語</a>
+          <a href="/en/">English</a>
+          <a href="/zh/">简体中文</a>
+          <a href="/llms.txt">llms.txt</a>
+        </nav>
+        <div class="site-footer__meta">
+          <span>© FinWiki</span>
+          <span>Last public snapshot: {updatedAt} JST</span>
+        </div>
+      </div>
     </footer>
+
+    <style>
+      .root-hero {
+        padding-top: clamp(3rem, 2rem + 5vw, 6rem);
+        padding-bottom: var(--sp-5);
+      }
+      .root-title {
+        font-size: var(--fs-3xl);
+        line-height: 0.95;
+        margin: 0 0 1.4rem;
+        letter-spacing: -0.03em;
+      }
+      .root-taglines {
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        max-width: 50rem;
+      }
+      .root-taglines p {
+        margin: 0;
+        color: var(--ink-2);
+        font-size: var(--fs-md);
+        line-height: 1.5;
+      }
+      .root-taglines p:first-child {
+        color: var(--ink);
+        font-weight: 550;
+      }
+      .rt {
+        display: inline-block;
+        width: 2.2rem;
+        font-family: var(--font-mono);
+        font-size: 0.7rem;
+        font-weight: 700;
+        color: var(--accent);
+        letter-spacing: 0.05em;
+      }
+      .root-stats {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.75rem;
+        margin-top: 1.8rem;
+        color: var(--muted);
+        font-size: var(--fs-sm);
+      }
+      .root-stats b {
+        font-family: var(--font-display);
+        font-size: 1.6rem;
+        color: var(--accent);
+        margin-right: 0.35rem;
+      }
+
+      .root-block {
+        padding-top: var(--gap-section);
+      }
+      .entrances {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+      }
+      .entrance {
+        position: relative;
+        min-height: 9rem;
+        padding: 1.25rem 1.4rem;
+      }
+      .entrance__code {
+        font-family: var(--font-mono);
+        font-size: var(--fs-xs);
+        font-weight: 700;
+        color: var(--accent);
+        letter-spacing: 0.04em;
+      }
+      .entrance__note {
+        font-size: var(--fs-sm);
+      }
+      .entrance__go {
+        position: absolute;
+        right: 1.2rem;
+        bottom: 1rem;
+        color: var(--accent);
+        font-size: 1.3rem;
+        transition: transform var(--dur) var(--ease);
+      }
+      .entrance:hover .entrance__go {
+        transform: translateX(4px);
+      }
+
+      .root-domains {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+        gap: 0.85rem;
+      }
+      .root-dcard {
+        position: relative;
+        gap: 0.15rem;
+        padding: 1rem 1.1rem 1.4rem;
+        overflow: hidden;
+      }
+      .root-dcard__ja {
+        font-family: var(--font-display);
+        font-weight: 600;
+        font-size: var(--fs-base);
+      }
+      .root-dcard__en {
+        font-size: var(--fs-xs);
+      }
+      .root-dcard__n {
+        position: absolute;
+        right: 1rem;
+        bottom: 0.7rem;
+        font-family: var(--font-display);
+        font-size: 1.7rem;
+        color: color-mix(in srgb, var(--accent) 22%, transparent);
+        font-weight: 600;
+      }
+
+      .root-ai {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1.25rem;
+        background: var(--surface-2);
+        border: 1px solid var(--line);
+        border-radius: var(--r-lg);
+        padding: clamp(1.5rem, 1rem + 2vw, 2.25rem);
+      }
+      .root-ai .section-title {
+        margin: 0;
+      }
+      .root-ai__links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.6rem;
+      }
+      .root-ai__links a {
+        font-family: var(--font-mono);
+        font-size: var(--fs-sm);
+        text-decoration: none;
+        color: var(--accent-2);
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: var(--r);
+        padding: 0.5rem 0.8rem;
+      }
+      .root-ai__links a:hover {
+        border-color: var(--accent);
+      }
+
+      @media (max-width: 720px) {
+        .entrances {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
   </body>
 </html>
-
-<style>
-  :root {
-    --ink: #071817;
-    --ink-soft: #17312e;
-    --paper: #f7f4ec;
-    --panel: #ffffff;
-    --muted: #61706d;
-    --line: #d8ded8;
-    --teal: #15b8a6;
-    --gold: #d99a22;
-    --rose: #d85f56;
-    --green: #4f9f68;
-    --blue: #497dc1;
-    --max: 1180px;
-  }
-
-  * {
-    box-sizing: border-box;
-  }
-
-  html {
-    color-scheme: light;
-  }
-
-  body {
-    margin: 0;
-    background: var(--paper);
-    color: var(--ink);
-    font-family:
-      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      "Hiragino Sans", "Noto Sans CJK JP", "Noto Sans SC", sans-serif;
-    line-height: 1.6;
-    overflow-x: hidden;
-  }
-
-  a {
-    color: inherit;
-  }
-
-  .topbar {
-    position: absolute;
-    inset: 0 0 auto;
-    z-index: 5;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-    width: 100%;
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 18px 24px;
-    color: white;
-  }
-
-  .brand,
-  .topnav a,
-  .hero-actions a,
-  .language-tile,
-  .domain-tile,
-  .surface-links a {
-    text-decoration: none;
-  }
-
-  .brand {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    font-size: 17px;
-    font-weight: 800;
-  }
-
-  .brand-mark {
-    width: 32px;
-    height: 32px;
-    display: inline-grid;
-    place-items: center;
-    border: 1px solid rgb(255 255 255 / 0.35);
-    border-radius: 6px;
-    background: rgb(255 255 255 / 0.12);
-  }
-
-  .topnav {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-
-  .topnav a {
-    min-height: 36px;
-    display: inline-flex;
-    align-items: center;
-    border: 1px solid rgb(255 255 255 / 0.24);
-    border-radius: 999px;
-    padding: 7px 12px;
-    font-size: 14px;
-    color: rgb(255 255 255 / 0.88);
-    background: rgb(7 24 23 / 0.28);
-  }
-
-  .topnav pagefind-modal-trigger {
-    display: inline-flex;
-  }
-
-  .topnav a:hover,
-  .topnav a:focus-visible {
-    color: white;
-    border-color: var(--teal);
-    outline: none;
-  }
-
-  .hero {
-    position: relative;
-    isolation: isolate;
-    min-height: 72svh;
-    display: flex;
-    align-items: center;
-    overflow: hidden;
-    background: var(--ink);
-    color: white;
-  }
-
-  .hero::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: -2;
-    opacity: 0.42;
-    background: url("/og-image.png") right center / auto 100% no-repeat;
-  }
-
-  .hero::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-    background:
-      linear-gradient(90deg, rgb(7 24 23 / 0.98) 0%, rgb(7 24 23 / 0.9) 48%, rgb(7 24 23 / 0.48) 100%),
-      linear-gradient(180deg, transparent 70%, rgb(7 24 23 / 0.68));
-  }
-
-  .hero-copy {
-    width: 100%;
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 150px 24px 86px;
-  }
-
-  .eyebrow,
-  .kicker {
-    margin: 0 0 12px;
-    font-size: 13px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0;
-    overflow-wrap: anywhere;
-  }
-
-  .eyebrow {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    color: #71efe5;
-  }
-
-  .eyebrow span:not(:last-child)::after {
-    content: "/";
-    margin-left: 8px;
-    color: rgb(255 255 255 / 0.42);
-  }
-
-  h1 {
-    margin: 0 0 16px;
-    font-size: 112px;
-    line-height: 0.92;
-    letter-spacing: 0;
-  }
-
-  .lede-ja,
-  .lede-en,
-  .lede-zh {
-    max-width: 760px;
-    margin: 8px 0 0;
-    color: rgb(255 255 255 / 0.88);
-    overflow-wrap: anywhere;
-  }
-
-  .lede-ja {
-    font-size: 24px;
-    font-weight: 750;
-    color: white;
-  }
-
-  .lede-en,
-  .lede-zh {
-    font-size: 17px;
-  }
-
-  .hero-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-top: 30px;
-  }
-
-  .hero-actions a {
-    min-height: 44px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid rgb(255 255 255 / 0.28);
-    border-radius: 999px;
-    padding: 9px 16px;
-    color: white;
-    background: rgb(255 255 255 / 0.09);
-    font-weight: 750;
-  }
-
-  .hero-actions .primary-action {
-    color: var(--ink);
-    background: #71efe5;
-    border-color: #71efe5;
-  }
-
-  .hero-actions a:hover,
-  .hero-actions a:focus-visible {
-    transform: translateY(-1px);
-    outline: none;
-    border-color: var(--gold);
-  }
-
-  .overview,
-  .entrances,
-  .coverage,
-  .machine {
-    width: 100%;
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 58px 24px;
-  }
-
-  .section-head {
-    display: flex;
-    align-items: end;
-    justify-content: space-between;
-    gap: 16px;
-    margin-bottom: 18px;
-  }
-
-  .section-head h2,
-  .machine-copy h2 {
-    margin: 0;
-    font-size: 32px;
-    line-height: 1.15;
-    letter-spacing: 0;
-  }
-
-  .kicker {
-    color: var(--rose);
-  }
-
-  .stats,
-  .language-grid,
-  .domain-grid,
-  .surface-links {
-    display: grid;
-    gap: 14px;
-  }
-
-  .stats {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-
-  .language-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .domain-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .surface-links {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-
-  .metric,
-  .language-tile,
-  .domain-tile,
-  .surface-links a {
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    background: var(--panel);
-  }
-
-  .metric {
-    min-height: 116px;
-    padding: 18px;
-  }
-
-  .metric strong {
-    display: block;
-    color: var(--ink-soft);
-    font-size: 48px;
-    line-height: 1;
-  }
-
-  .metric span {
-    display: block;
-    margin-top: 10px;
-    color: var(--muted);
-    font-size: 14px;
-  }
-
-  .language-tile {
-    min-height: 176px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 18px;
-  }
-
-  .tile-label,
-  .surface-links span {
-    color: var(--muted);
-    font-size: 14px;
-    font-weight: 750;
-  }
-
-  .language-tile strong,
-  .surface-links strong {
-    display: block;
-    font-size: 18px;
-    line-height: 1.2;
-  }
-
-  .language-tile span:last-child {
-    color: var(--muted);
-    font-size: 15px;
-  }
-
-  .coverage {
-    border-top: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
-  }
-
-  .domain-tile {
-    min-height: 164px;
-    position: relative;
-    display: grid;
-    align-content: start;
-    gap: 7px;
-    padding: 18px;
-    overflow: hidden;
-  }
-
-  .domain-tile::before {
-    content: "";
-    width: 46px;
-    height: 4px;
-    border-radius: 999px;
-    background: var(--teal);
-  }
-
-  .domain-tile span,
-  .domain-tile em {
-    color: var(--muted);
-    font-size: 14px;
-    font-style: normal;
-  }
-
-  .domain-tile strong {
-    font-size: 19px;
-    line-height: 1.2;
-  }
-
-  .domain-tile b {
-    position: absolute;
-    right: 18px;
-    bottom: 14px;
-    color: rgb(7 24 23 / 0.14);
-    font-size: 54px;
-    line-height: 1;
-  }
-
-  .tone-gold::before {
-    background: var(--gold);
-  }
-
-  .tone-rose::before {
-    background: var(--rose);
-  }
-
-  .tone-green::before {
-    background: var(--green);
-  }
-
-  .tone-blue::before {
-    background: var(--blue);
-  }
-
-  .language-tile:hover,
-  .language-tile:focus-visible,
-  .domain-tile:hover,
-  .domain-tile:focus-visible,
-  .surface-links a:hover,
-  .surface-links a:focus-visible {
-    border-color: var(--ink);
-    outline: none;
-  }
-
-  .machine {
-    display: grid;
-    grid-template-columns: 0.85fr 1.15fr;
-    gap: 28px;
-    align-items: start;
-  }
-
-  .machine-copy p:last-child {
-    margin: 14px 0 0;
-    color: var(--muted);
-    font-size: 16px;
-  }
-
-  .surface-links a {
-    min-height: 112px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 18px;
-  }
-
-  .footer {
-    display: flex;
-    justify-content: space-between;
-    gap: 16px;
-    width: 100%;
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 28px 24px 38px;
-    color: var(--muted);
-    font-size: 14px;
-  }
-
-  .footer span:first-child {
-    color: var(--ink);
-    font-weight: 800;
-  }
-
-  @media (max-width: 920px) {
-    .stats,
-    .domain-grid,
-    .surface-links {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-
-    .language-grid,
-    .machine {
-      grid-template-columns: 1fr;
-    }
-
-    h1 {
-      font-size: 82px;
-    }
-  }
-
-  @media (max-width: 620px) {
-    .topbar {
-      align-items: flex-start;
-      flex-direction: column;
-      padding: 16px;
-    }
-
-    .topnav {
-      justify-content: flex-start;
-    }
-
-    .hero {
-      min-height: 78svh;
-    }
-
-    .hero::before {
-      opacity: 0.25;
-      background-position: center;
-      background-size: auto 82%;
-    }
-
-    .hero-copy {
-      padding: 178px 16px 56px;
-    }
-
-    h1 {
-      font-size: 56px;
-    }
-
-    .lede-ja {
-      font-size: 19px;
-    }
-
-    .lede-en,
-    .lede-zh {
-      font-size: 15px;
-    }
-
-    .hero-actions a {
-      width: 100%;
-    }
-
-    .overview,
-    .entrances,
-    .coverage,
-    .machine {
-      padding: 42px 16px;
-    }
-
-    .section-head {
-      align-items: flex-start;
-      flex-direction: column;
-    }
-
-    .section-head h2,
-    .machine-copy h2 {
-      font-size: 26px;
-    }
-
-    .stats,
-    .domain-grid,
-    .surface-links {
-      grid-template-columns: 1fr;
-    }
-
-    .metric,
-    .language-tile,
-    .domain-tile,
-    .surface-links a {
-      min-height: auto;
-    }
-
-    .footer {
-      display: block;
-      padding: 24px 16px 32px;
-    }
-
-    .footer span {
-      display: block;
-      margin-top: 6px;
-    }
-  }
-</style>

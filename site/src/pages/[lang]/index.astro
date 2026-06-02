@@ -3,7 +3,8 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../i18n/ui';
 import { domainName } from '../../i18n/domains';
-import { entryDomain } from '../../lib/routes';
+import { domainGroups, groupName } from '../../i18n/groups';
+import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -11,54 +12,268 @@ export function getStaticPaths() {
 const { lang } = Astro.params as { lang: Lang };
 
 const all = await getCollection('entries');
+const translations = await getCollection('i18n');
+const i18nMap = new Map(translations.map((entry) => [entry.id, entry]));
+
 const counts = new Map<string, number>();
 for (const e of all) {
   const d = entryDomain(e);
   counts.set(d, (counts.get(d) ?? 0) + 1);
 }
-const domains = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+
+function titleFor(entry: (typeof all)[number]): string {
+  const tr = i18nMap.get(i18nEntryId(lang, entry));
+  return String(tr?.data?.title || entry.data.title || entryRoute(entry));
+}
+
+const recent = [...all]
+  .filter((e) => e.data.last_updated)
+  .sort((a, b) => String(b.data.last_updated).localeCompare(String(a.data.last_updated)))
+  .slice(0, 8);
+
+const entryCount = all.length;
+const domainCount = counts.size;
+const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).length;
 ---
-<Base lang={lang}>
-  <h1>{t(lang, 'site.title')}</h1>
-  <p class="tagline">{t(lang, 'site.tagline')}</p>
-  <p class="intro">{t(lang, 'home.intro')}</p>
+<Base lang={lang} active="home">
+  <section class="hero container">
+    <p class="eyebrow">FinWiki</p>
+    <h1 class="hero__title">{t(lang, 'site.tagline')}</h1>
+    <p class="lead hero__lead">{t(lang, 'home.intro')}</p>
 
-  <div class="stats">
-    <a class="stat" href={u(lang, 'browse/')}><strong>{all.length}</strong> entries</a>
-    <a class="stat" href={u(lang, 'domains/')}><strong>{domains.length}</strong> domains</a>
-  </div>
+    <pagefind-modal-trigger class="pf-hero" placeholder={t(lang, 'home.searchPlaceholder')} shortcut="mod+k"></pagefind-modal-trigger>
 
-  <h2 class="sec">{t(lang, 'nav.domains')}</h2>
-  <div class="grid">
-    {domains.map(([d, n]) => (
-      <a class="card" href={u(lang, `domains/${d.toLowerCase()}/`)}>
-        <span class="d">{domainName(d, lang)}</span>
-        <span class="n">{n}</span>
-      </a>
-    ))}
-  </div>
+    <div class="hero__stats">
+      <span><b>{entryCount.toLocaleString('en-US')}</b> {t(lang, 'domain.entries')}</span>
+      <span><b>{domainCount}</b> {t(lang, 'nav.domains')}</span>
+      {lang !== 'ja' && <span><b>{translatedCount.toLocaleString('en-US')}</b> {t(lang, 'domain.translated')}</span>}
+    </div>
+  </section>
 
-  <h2 class="sec">{t(lang, 'home.ai')}</h2>
-  <ul class="ai">
-    <li><a href="/llms.txt">llms.txt</a></li>
-    <li><a href="/llms-full.txt">llms-full.txt</a></li>
-    <li><a href="/ai-index.json">ai-index.json</a></li>
-  </ul>
+  <section class="container block">
+    <div class="block__head">
+      <div>
+        <p class="eyebrow">{t(lang, 'home.startReading')}</p>
+        <h2 class="section-title">{t(lang, 'home.recent')}</h2>
+      </div>
+      <p class="muted block__note">{t(lang, 'home.recentNote')}</p>
+    </div>
+    <div class="recent-grid">
+      {recent.map((e) => {
+        const d = entryDomain(e);
+        return (
+          <a class="card" href={u(lang, `${entryRoute(e)}/`)}>
+            <span class="card__kicker">{domainName(d, lang)}</span>
+            <span class="card__title">{titleFor(e)}</span>
+            <span class="card__meta">{t(lang, 'entry.updated')} {String(e.data.last_updated).slice(0, 10)}</span>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="container block">
+    <div class="block__head">
+      <div>
+        <p class="eyebrow">{t(lang, 'nav.domains')}</p>
+        <h2 class="section-title">{t(lang, 'home.domainMap')}</h2>
+      </div>
+      <a class="btn block__cta" href={u(lang, 'domains/')}>{t(lang, 'home.viewAllDomains')} →</a>
+    </div>
+    <div class="groups">
+      {domainGroups.map((g) => {
+        const ds = g.domains.filter((d) => counts.has(d));
+        if (!ds.length) return null;
+        return (
+          <div class="group">
+            <h3 class="group__name">{groupName(g, lang)}</h3>
+            <div class="group__domains">
+              {ds.map((d) => (
+                <a class="dpill" href={u(lang, `domains/${d}/`)}>
+                  <span>{domainName(d, lang)}</span>
+                  <b>{counts.get(d)}</b>
+                </a>
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="container block">
+    <div class="ai-band">
+      <div>
+        <p class="eyebrow">{t(lang, 'nav.ai')}</p>
+        <h2 class="section-title">{t(lang, 'home.ai')}</h2>
+        <p class="muted ai-band__note">{t(lang, 'home.aiNote')}</p>
+      </div>
+      <div class="ai-links">
+        <a href="/llms.txt"><b>llms.txt</b><span>guide</span></a>
+        <a href="/llms-full.txt"><b>llms-full.txt</b><span>manifest</span></a>
+        <a href="/ai-index.json"><b>ai-index.json</b><span>retrieval map</span></a>
+        <a href="/sitemap.xml"><b>sitemap.xml</b><span>URL inventory</span></a>
+      </div>
+    </div>
+  </section>
 </Base>
 
 <style>
-  h1 { font-size: clamp(1.8rem, 1.2rem + 2vw, 2.6rem); margin: 0 0 0.3rem; letter-spacing: -0.02em; }
-  .tagline { color: var(--muted); margin: 0 0 1rem; font-size: 1.05rem; }
-  .intro { font-size: 1rem; }
-  .stats { display: flex; gap: 0.7rem; margin: 1.5rem 0; }
-  .stat { border: 1px solid var(--line); border-radius: 10px; padding: 0.45rem 0.9rem; text-decoration: none; color: var(--fg); font-size: 0.85rem; }
-  .stat strong { color: var(--accent); font-size: 1.15rem; }
-  .sec { font-size: 1.15rem; margin: 2rem 0 0.8rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.6rem; }
-  .card { display: flex; justify-content: space-between; align-items: center; border: 1px solid var(--line); border-radius: 10px; padding: 0.6rem 0.9rem; text-decoration: none; color: var(--fg); background: var(--soft); transition: border-color 0.15s; }
-  .card:hover { border-color: var(--accent); }
-  .card .d { font-weight: 600; font-size: 0.9rem; }
-  .card .n { color: var(--muted); font-size: 0.85rem; }
-  .ai { columns: 2; font-size: 0.9rem; margin: 0; }
-  .ai a { color: var(--accent); }
+  .hero {
+    padding-top: clamp(2.5rem, 1.5rem + 4vw, 5rem);
+    padding-bottom: var(--sp-5);
+  }
+  .hero__title {
+    font-size: var(--fs-2xl);
+    line-height: 1.1;
+    margin: 0 0 1rem;
+    max-width: 22ch;
+  }
+  .hero__lead {
+    margin: 0 0 1.6rem;
+  }
+  .pf-hero {
+    display: block;
+    max-width: 36rem;
+    --pagefind-ui-scale: 1.05;
+  }
+  .hero__stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 1.6rem;
+    color: var(--muted);
+    font-size: var(--fs-sm);
+  }
+  .hero__stats b {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    color: var(--accent);
+    margin-right: 0.3rem;
+  }
+
+  .block {
+    padding-top: var(--gap-section);
+  }
+  .block__head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.4rem;
+    flex-wrap: wrap;
+  }
+  .block__head .section-title {
+    margin: 0;
+  }
+  .block__note {
+    font-size: var(--fs-sm);
+    margin: 0;
+  }
+  .block__cta {
+    flex: none;
+  }
+
+  .recent-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 1rem;
+  }
+  .recent-grid .card {
+    min-height: 8.5rem;
+  }
+
+  .groups {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: 1.5rem 2rem;
+  }
+  .group__name {
+    font-size: var(--fs-sm);
+    font-weight: 700;
+    color: var(--ink-2);
+    margin: 0 0 0.7rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .group__domains {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+  .dpill {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.4rem 0.6rem;
+    border-radius: var(--r);
+    text-decoration: none;
+    color: var(--ink);
+    transition: background var(--dur) var(--ease);
+  }
+  .dpill:hover {
+    background: var(--surface-2);
+  }
+  .dpill b {
+    color: var(--muted);
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .ai-band {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr;
+    gap: 1.5rem 2.5rem;
+    align-items: center;
+    background: var(--surface-2);
+    border: 1px solid var(--line);
+    border-radius: var(--r-lg);
+    padding: clamp(1.5rem, 1rem + 2vw, 2.5rem);
+  }
+  .ai-band .section-title {
+    margin: 0;
+  }
+  .ai-band__note {
+    font-size: var(--fs-sm);
+    margin: 0.6rem 0 0;
+  }
+  .ai-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.7rem;
+  }
+  .ai-links a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.7rem 0.9rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--r);
+    text-decoration: none;
+  }
+  .ai-links a:hover {
+    border-color: var(--accent);
+  }
+  .ai-links b {
+    font-family: var(--font-mono);
+    font-size: var(--fs-sm);
+    color: var(--accent-2);
+  }
+  .ai-links span {
+    font-size: var(--fs-xs);
+    color: var(--muted);
+  }
+
+  @media (max-width: 720px) {
+    .ai-band {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media (max-width: 460px) {
+    .ai-links {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>

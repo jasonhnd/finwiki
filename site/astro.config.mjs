@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import remarkWikilink from './src/plugins/remark-wikilink.mjs';
 import remarkProvenance from './src/plugins/remark-provenance.mjs';
+import remarkStripTitle from './src/plugins/remark-strip-title.mjs';
 import localizeWikilinks from './src/plugins/localize-wikilinks.mjs';
 
 // FinWiki human site: trilingual static pages under /ja, /en, and /zh.
@@ -13,6 +14,6 @@ export default defineConfig({
   build: { format: 'directory' },
   integrations: [localizeWikilinks()],
   markdown: {
-    remarkPlugins: [remarkWikilink, remarkProvenance],
+    remarkPlugins: [remarkStripTitle, remarkWikilink, remarkProvenance],
   },
 });
