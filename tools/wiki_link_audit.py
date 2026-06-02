@@ -27,6 +27,9 @@ IGNORED_DIRS = {
     "tools",
     "site",
     "app",
+    ".vercel",
+    "_site",
+    "_vercel_public",
 }
 
 CONTROL_DOCS = {

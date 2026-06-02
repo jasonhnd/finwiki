@@ -6,4 +6,6 @@ __pycache__/
 # 人類版サイトのビルド成果物は git に入れない（GitHub Actions が CI で生成・配信）
 /app/
 /_site/
+/_vercel_public/
+.vercel/
 site/dist/

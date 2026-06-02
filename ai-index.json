@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-02T09:42:32+09:00",
+  "generated_at": "2026-06-02T10:32:37+09:00",
   "counts": {
-    "markdown_files": 1463,
-    "public_markdown_pages": 1462,
-    "site_urls_in_sitemap": 1463,
+    "markdown_files": 1464,
+    "public_markdown_pages": 1463,
+    "site_urls_in_sitemap": 1464,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9915336,
-    "word_like_tokens": 1576135
+    "nonspace_utf8_chars": 9923407,
+    "word_like_tokens": 1577445
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-02",
+        "Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备",
         "Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复",
         "i18n 残存レビュー解消と語彙破損修復 / i18n residual review closure and lexical-corruption repair / i18n 剩余复核清零与词汇破损修复",
-        "deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制",
-        "CI 警告整理と duplicate HTML id gate 追加 / CI warning cleanup and duplicate HTML id gate / CI 警告清理与 duplicate HTML id gate"
+        "deploy-pages deprecation warning 抑制 / deploy-pages deprecation-warning suppression / deploy-pages deprecation warning 抑制"
       ],
       "wikilinks": [
         "...",
@@ -468,8 +468,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 450759,
-      "word_like_tokens": 79532,
+      "nonspace_chars": 454160,
+      "word_like_tokens": 80109,
       "last_modified": "2026-06-02"
     },
     {
@@ -34204,7 +34204,7 @@
         "🔍 使い方",
         "🛠️ 運用ルール",
         "📦 GitHub Releases",
-        "🌐 GitHub Pages"
+        "🌐 Hosting / Vercel 移行"
       ],
       "wikilinks": [
         "wikilink"
@@ -34245,10 +34245,11 @@
         "sitemap.xml",
         "structured-finance/",
         "systems/",
+        "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 26158,
-      "word_like_tokens": 4072,
+      "nonspace_chars": 29710,
+      "word_like_tokens": 4665,
       "last_modified": "2026-06-02"
     },
     {
@@ -75104,6 +75105,33 @@
       "last_modified": "2026-06-02"
     },
     {
+      "source_path": "releases/v2026.06.02-5.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.02-5",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02-5.md",
+      "title": "Vercel shadow deployment 準備",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "2026-06-02 JST の FinWiki hosting migration 準備リリースです。finwiki.zksc.io の本番配信は GitHub Pages のまま維持し、Vercel ecosystem へ移行するための shadow deployment 設定と静的出力 assembly を追加しました。",
+      "headings": [
+        "Vercel shadow deployment 準備",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 6149,
+      "word_like_tokens": 1027,
+      "last_modified": "2026-06-02"
+    },
+    {
       "source_path": "releases/v2026.06.02.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.02",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.02.md",
@@ -84115,8 +84143,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7249,
-      "word_like_tokens": 1300,
+      "nonspace_chars": 2218,
+      "word_like_tokens": 413,
       "last_modified": "2026-06-02"
     }
   ]

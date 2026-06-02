@@ -31,6 +31,21 @@
 
 ## 2026-06-02
 
+### Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-02 10:31 JST。
+- **背景**: `finwiki.zksc.io` を GitHub Pages から Vercel ecosystem へ移行する前段階として、DNS を即時 cutover せず、GitHub Pages を現行本番・rollback 先として残したまま Vercel preview / production で同一静的 surface を検証できるようにする必要があった。
+- **範囲**: `vercel.json`、root `package.json`、`tools/vercel_build.mjs`、`tools/assemble_static_publish.mjs`、`.gitignore`、`site/scripts/sync-corpus.ts`、`tools/wiki_link_audit.py`、`tools/generate_ai_discovery.py`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.02-5.md`、release-generated discovery surfaces。
+- **主要変更**: root の Vercel 設定は Install: `cd site && bun install --frozen-lockfile`、Build: `node tools/vercel_build.mjs`、Output: `_vercel_public` とした。Vercel build script は wiki-link audit、strict release check、corpus sync、Astro build、duplicate HTML id check、static publish assembly を同じ順序で実行する。assembly script は `site/dist` の Astro HTML を先にコピーし、その後 raw Markdown、`llms.txt`、`llms-full.txt`、`ai-index.json`、`sitemap.xml`、`robots.txt`、`api/entries/*.json` などの public root surface を同じ output に組み立てる。
+- **再帰汚染防止**: `_vercel_public`、`_site`、`.vercel`、`app` を corpus sync / wikilink audit / AI discovery の除外対象へ追加し、ローカル出力ディレクトリが次回の entry count や rendered content に取り込まれないようにした。
+- **検証結果**: `node tools/vercel_build.mjs` は PASS。wikilink audit は entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0、release strict check は counts in sync、Astro build は 4147 pages、duplicate HTML id check は checked=4147 / duplicate_id_pages=0 / duplicate_ids=0、static publish assembly は `_vercel_public` に astro_files=4149 / root_surface_files=2837 を出力した。除外修正後、recursive output 由来の duplicate id warning は再発していない。
+- **既知の注意点**: DNS はまだ Vercel へ切り替えない。Vercel project 側で repository root、install/build/output 設定、production URL、custom domain、certificate provisioning を確認するまで、GitHub Pages workflow と `CNAME` file を維持する。
+- **次の作業**: Vercel で repository を import し、preview / production URL で `/`、`/ja/`、`/en/`、`/zh/`、`/llms.txt`、`/ai-index.json`、`api/entries/index.json` を確認する。確認後に Cloudflare `finwiki` CNAME を Vercel 指定 target へ変更し、必要なら次回 release で GitHub Pages workflow の扱いを整理する。
+- **EN**: Prepared a Vercel shadow-deployment path while keeping GitHub Pages as current production and rollback. Added root `vercel.json`, root package scripts, a deterministic `tools/vercel_build.mjs`, and `tools/assemble_static_publish.mjs`. The build now runs graph audit, strict release check, corpus sync, Astro build, duplicate-id check, and static assembly into `_vercel_public`. The assembly combines Astro HTML with the raw Markdown and AI discovery surfaces. `_vercel_public`, `_site`, `.vercel`, and `app` are excluded from sync/audit/discovery so local publish outputs cannot recursively contaminate counts or routes. Local validation passed with graph audit 1411/0, dead refs/targets 0, strict counts in sync, 4147 Astro pages, duplicate ids 0, and assembled output astro_files=4149 / root_surface_files=2837. DNS cutover remains pending until Vercel URL, custom-domain, SSL, and AI-surface checks pass.
+- **中文**：本轮先准备 Vercel 影子部署，不立即切 DNS，继续把 GitHub Pages 保留为当前生产和 rollback。新增 root `vercel.json`、root package scripts、确定性的 `tools/vercel_build.mjs` 与 `tools/assemble_static_publish.mjs`。Vercel build 会按顺序执行图谱审计、strict release check、corpus sync、Astro build、duplicate-id check，并把静态发布面组装到 `_vercel_public`。组装输出同时包含 Astro HTML、raw Markdown 和 AI discovery surface。`_vercel_public`、`_site`、`.vercel`、`app` 已加入 sync / audit / discovery 排除，避免本地输出目录递归污染计数或路由。本地验证通过：graph audit 1411/0，dead refs / targets 为 0，strict counts in sync，Astro 4147 页，duplicate ids 0，组装输出 astro_files=4149 / root_surface_files=2837。DNS cutover 等 Vercel URL、自定义域名、SSL 和 AI surface 验证通过后再做。
+
 ### Wikiリンク実在性ゲート追加と死リンク修復 / Wikilink target-existence gate and dead-link repair / Wiki 链接实在性门禁与死链修复
 
 #### 日本語記録 / English / 中文
