@@ -38,7 +38,7 @@
       "https://www.sompo-direct.co.jp/company/disclosure/"
     ]
   },
-  "summary": "This entry sits under insurance index. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under insurance index. The canonical entity anchor for this insurer is its JapanFG entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for",
   "headings": [
     "Saison Automobile & Fire / SOMPO Direct",
     "Wiki route",
@@ -50,11 +50,12 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
       "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/saison-automobile-fire-insurance",
       "JapanFG/sompo",
       "JapanFG/sony-fg",
       "insurance/INDEX",
@@ -65,6 +66,7 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance",
       "https://finwiki.zksc.io/JapanFG/sompo",
       "https://finwiki.zksc.io/JapanFG/sony-fg",
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -75,8 +77,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2861,
-    "word_like_tokens": 453,
+    "nonspace_chars": 3046,
+    "word_like_tokens": 486,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-03"
   }

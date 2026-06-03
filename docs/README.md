@@ -6,12 +6,23 @@
 
 ## 目录
 
+### 参考型（系统怎么运作）
+
 | 文档 | 内容 |
 |---|---|
 | [architecture.md](architecture.md) | 仓库结构、corpus 数据模型、domain / i18n / site 分层、**双排除机制**、如何新增 entry/domain |
 | [toolchain.md](toolchain.md) | `tools/` 与 `lib/` 各脚本职责、命令速查表 |
 | [release-process.md](release-process.md) | 发布 SOP：三语文档 → `release.ts` → commit/push/tag/`gh release` → GitHub Actions 验证 |
 | [gotchas.md](gotchas.md) | 维护陷阱集（clone-mtime 污染、self-ref count、`site/` 盲推、假死链、字面 `[[ ]]` 等） |
+
+### 进度 / 规划型（接下来做什么、做到哪了、为什么）
+
+| 文档 | 内容 |
+|---|---|
+| [roadmap.md](roadmap.md) | 路线图：已完成里程碑（v5→v10）+ 近期重点（P1 canonical_anchor Phase 2 / P2 JapanFG / P3 内容扩充）+ 中长期 |
+| [backlog.md](backlog.md) | 待办清单：从历史 CHANGELOG 沉淀的 open-items，带状态 / 优先级 |
+| [decisions.md](decisions.md) | 架构决策记录（ADR）：物理改名 / canonical_anchor 分期 / docs 双排除 / JapanFG sub-INDEX / Astro allowlist |
+| [domains.md](domains.md) | 23 领域现状表：entry 数 / 体量 / 扩充优先级 + 领域边界备忘 |
 
 ## 一句话速记
 
