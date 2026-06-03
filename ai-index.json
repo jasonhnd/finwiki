@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T11:19:08+09:00",
+  "generated_at": "2026-06-03T13:34:12+09:00",
   "counts": {
-    "markdown_files": 1469,
-    "public_markdown_pages": 1468,
-    "site_urls_in_sitemap": 1469,
+    "markdown_files": 1470,
+    "public_markdown_pages": 1469,
+    "site_urls_in_sitemap": 1470,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9964610,
-    "word_like_tokens": 1610625
+    "nonspace_utf8_chars": 9973303,
+    "word_like_tokens": 1612164
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-03",
+        "日本語サイト表示層の英語残留修正 / Japanese-site display-layer English residue cleanup / 日文站点显示层英文残留修正",
         "human site カラートークンの冷灰テーマ化 / Human-site color-token refresh / human site 颜色 token 冷灰主题化",
         "日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加",
-        "2026-06-02",
-        "静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1"
+        "2026-06-02"
       ],
       "wikilinks": [
         "...",
@@ -468,8 +468,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 469376,
-      "word_like_tokens": 83248,
+      "nonspace_chars": 472579,
+      "word_like_tokens": 83818,
       "last_modified": "2026-06-03"
     },
     {
@@ -34248,8 +34248,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 32753,
-      "word_like_tokens": 5330,
+      "nonspace_chars": 33514,
+      "word_like_tokens": 5472,
       "last_modified": "2026-06-03"
     },
     {
@@ -75264,6 +75264,37 @@
       "markdown_links": [],
       "nonspace_chars": 3050,
       "word_like_tokens": 521,
+      "last_modified": "2026-06-03"
+    },
+    {
+      "source_path": "releases/v2026.06.03-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03-3",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-3.md",
+      "title": "日本語サイト表示層の英語残留修正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "",
+      "headings": [
+        "日本語サイト表示層の英語残留修正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [
+        "..."
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/..."
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 4729,
+      "word_like_tokens": 827,
       "last_modified": "2026-06-03"
     },
     {

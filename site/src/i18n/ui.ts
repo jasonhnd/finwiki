@@ -13,7 +13,7 @@ export const ui = {
     'nav.home': 'ホーム',
     'nav.domains': '領域マップ',
     'nav.browse': '全項目',
-    'nav.ai': 'AI surface',
+    'nav.ai': 'AI向け資料',
     'nav.search': '検索',
 
     'home.intro':
@@ -25,8 +25,12 @@ export const ui = {
     'home.domainMap': '領域マップ',
     'home.domainMapNote': '関心のある領域から辿る。',
     'home.viewAllDomains': 'すべての領域を見る',
-    'home.ai': 'AI・クローラー向け surface',
+    'home.ai': 'AI・クローラー向け資料',
     'home.aiNote': '人間向けページと機械可読マニフェストは同一コーパスから生成されます。',
+    'home.aiGuide': '案内',
+    'home.aiManifest': '全体マニフェスト',
+    'home.aiIndex': '検索用マップ',
+    'home.aiSitemap': 'URL一覧',
 
     'domains.title': '領域マップ',
     'domains.note': '{entries} 項目 / {domains} 領域',
@@ -53,6 +57,20 @@ export const ui = {
 
     'footer.note': '公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。',
     'footer.snapshot': '最終公開スナップショット',
+    'footer.llms': 'LLM向け案内',
+    'footer.aiIndex': 'AIインデックス',
+    'footer.sitemap': 'サイトマップ',
+    'footer.langs': '日本語 · 英語 · 中国語',
+
+    'skip.content': '本文へスキップ',
+    'aria.home': 'FinWiki ホーム',
+    'aria.primary': '主要ナビゲーション',
+    'aria.footer': 'フッター',
+    'aria.language': '言語',
+    'aria.breadcrumb': 'パンくずリスト',
+    'aria.jumpToDomain': '領域へのジャンプ',
+    'theme.toggle': '配色テーマを切り替え',
+    'theme.toggleTitle': '配色テーマ',
   },
   en: {
     'site.title': 'FinWiki — Financial Knowledge Graph',
@@ -75,6 +93,10 @@ export const ui = {
     'home.viewAllDomains': 'View all domains',
     'home.ai': 'AI & crawler surface',
     'home.aiNote': 'Human pages and machine-readable manifests are generated from the same corpus.',
+    'home.aiGuide': 'guide',
+    'home.aiManifest': 'manifest',
+    'home.aiIndex': 'retrieval map',
+    'home.aiSitemap': 'URL inventory',
 
     'domains.title': 'Domain map',
     'domains.note': '{entries} entries · {domains} domains',
@@ -101,6 +123,20 @@ export const ui = {
 
     'footer.note': 'A public-source financial knowledge base. Every fact traces back to the sources cited in each entry.',
     'footer.snapshot': 'Last public snapshot',
+    'footer.llms': 'llms.txt',
+    'footer.aiIndex': 'ai-index.json',
+    'footer.sitemap': 'sitemap.xml',
+    'footer.langs': 'JA · EN · ZH',
+
+    'skip.content': 'Skip to content',
+    'aria.home': 'FinWiki home',
+    'aria.primary': 'Primary navigation',
+    'aria.footer': 'Footer',
+    'aria.language': 'Language',
+    'aria.breadcrumb': 'Breadcrumb',
+    'aria.jumpToDomain': 'Jump to domain',
+    'theme.toggle': 'Toggle color theme',
+    'theme.toggleTitle': 'Toggle theme',
   },
   zh: {
     'site.title': 'FinWiki — 金融知识图谱',
@@ -109,7 +145,7 @@ export const ui = {
     'nav.home': '首页',
     'nav.domains': '领域地图',
     'nav.browse': '全部条目',
-    'nav.ai': 'AI surface',
+    'nav.ai': 'AI 资料',
     'nav.search': '搜索',
 
     'home.intro':
@@ -121,8 +157,12 @@ export const ui = {
     'home.domainMap': '领域地图',
     'home.domainMapNote': '从你关心的领域进入。',
     'home.viewAllDomains': '查看全部领域',
-    'home.ai': '面向 AI 与爬虫的 surface',
+    'home.ai': '面向 AI 与爬虫的资料',
     'home.aiNote': '人类页面与机器可读清单由同一套语料生成。',
+    'home.aiGuide': '指南',
+    'home.aiManifest': '完整清单',
+    'home.aiIndex': '检索地图',
+    'home.aiSitemap': 'URL 清单',
 
     'domains.title': '领域地图',
     'domains.note': '{entries} 条目 · {domains} 个领域',
@@ -149,6 +189,20 @@ export const ui = {
 
     'footer.note': '基于公开一手信源的金融事实库。每条事实都可回溯到条目所列出处。',
     'footer.snapshot': '最近公开快照',
+    'footer.llms': 'LLM 指南',
+    'footer.aiIndex': 'AI 索引',
+    'footer.sitemap': '站点地图',
+    'footer.langs': '日文 · 英文 · 中文',
+
+    'skip.content': '跳到正文',
+    'aria.home': 'FinWiki 首页',
+    'aria.primary': '主导航',
+    'aria.footer': '页脚',
+    'aria.language': '语言',
+    'aria.breadcrumb': '面包屑',
+    'aria.jumpToDomain': '跳转到领域',
+    'theme.toggle': '切换配色主题',
+    'theme.toggleTitle': '配色主题',
   },
 } as const;
 
@@ -156,6 +210,49 @@ export type UIKey = keyof (typeof ui)['ja'];
 
 export function t(lang: Lang, key: UIKey): string {
   return ui[lang]?.[key] ?? ui[defaultLang][key];
+}
+
+const confidenceLabels: Record<Lang, Record<string, string>> = {
+  ja: {
+    certain: '確定',
+    confirmed: '確認済み',
+    high: '高い',
+    likely: '概ね確度あり',
+    possible: '可能性あり',
+    tentative: '暫定',
+    extracted: '抽出済み',
+    unlikely: '可能性低い',
+    'needs-review': '要確認',
+  },
+  en: {
+    certain: 'Certain',
+    confirmed: 'Confirmed',
+    high: 'High',
+    likely: 'Likely',
+    possible: 'Possible',
+    tentative: 'Tentative',
+    extracted: 'Extracted',
+    unlikely: 'Unlikely',
+    'needs-review': 'Needs review',
+  },
+  zh: {
+    certain: '确定',
+    confirmed: '已确认',
+    high: '高',
+    likely: '大致可信',
+    possible: '可能',
+    tentative: '暂定',
+    extracted: '已抽取',
+    unlikely: '可能性低',
+    'needs-review': '待校',
+  },
+};
+
+export function confidenceLabel(lang: Lang, value: string): string {
+  const raw = String(value ?? '').trim();
+  const token = raw.match(/^[\s*_`]*([A-Za-z][A-Za-z-]*)/)?.[1]?.toLowerCase();
+  if (!token) return raw;
+  return confidenceLabels[lang]?.[token] ?? confidenceLabels[defaultLang][token] ?? raw;
 }
 
 // base path (supports subpath hosting). Normalized without trailing slash.

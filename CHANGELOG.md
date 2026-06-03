@@ -31,6 +31,19 @@
 
 ## 2026-06-03
 
+### 日本語サイト表示層の英語残留修正 / Japanese-site display-layer English residue cleanup / 日文站点显示层英文残留修正
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-03 13:32 JST。
+- **背景**: ja i18n 翻訳層は全量追加済みだったが、日本語ユーザー目線で `/ja/` を見ると、UI chrome、root homepage、entry title fallback、confidence chip、wikilink 表示 label に英語がまだ残っていた。翻訳本文だけでなく、rendered site として自然に日本語で読める状態へ寄せる必要があった。
+- **範囲**: `site/src/i18n/ui.ts`、`site/src/layouts/Base.astro`、`site/src/layouts/EntryLayout.astro`、`site/src/components/LangSwitcher.astro`、`site/src/components/ThemeToggle.astro`、`site/src/pages/index.astro`、`site/src/pages/[lang]/index.astro`、`site/src/pages/[lang]/browse/index.astro`、`site/src/pages/[lang]/domains/[domain]/index.astro`、`site/src/lib/siteIndex.mjs`、`site/src/plugins/localize-wikilinks.mjs`、`site/src/styles/global.css`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.03-3.md`。
+- **主要変更**: ja UI 辞書に footer、aria、skip link、theme toggle、AI discovery link label、confidence label を追加した。root homepage を日本語 first-view へ変更した。entry / browse / domain / home の title fallback を localized title へ接続した。`siteIndex` は ja / en / zh の domain label と i18n title map を持つようにし、frontmatter title または先頭 H1 を fallback 表示 title として使う。`localize-wikilinks` は build 後の ja HTML で `data-wl` label を ja i18n title へ置換し、source 側 alias が英語でも通常リンク表示を日本語へ寄せる。見出しと brand の letter-spacing は 0 に揃えた。
+- **実行手順**: `/ja/` の rendered HTML で残留英語 UI pattern を `rg` で確認し、UI 辞書と layout を更新した。localized title map を追加し、build hook で ja HTML の wikilink label を書き換えるようにした。代表 entry を build output で確認し、root homepage と entry chrome の表示を調整した。最後に build、Pagefind index、duplicate HTML id gate、残留英語 pattern scan を実行した。
+- **検証結果**: `bun run build` は PASS、4,219 pages。build log は `localized wikilink hrefs: en=0 zh=0 ja-labels=17603`。`bun run index:search` は PASS、Pagefind 4,218 pages / 3 languages / 128,744 words。`bun tools/check_duplicate_html_ids.ts site/dist` は checked=4219 / duplicate_id_pages=0 / duplicate_ids=0。`site/dist/ja` と root homepage で `AI surface`、`Skip to content`、`Featured domains`、`Machine-readable`、`Last public snapshot`、`Toggle color theme`、`Jump to domain`、`Breadcrumb` の通常 UI 残留は 0 件。代表 entry では H1、confidence chip、domain link、関連 wikilink label が日本語表示になった。
+- **既知の注意点**: proper noun、abbreviation、product name、official English name は意図的に英語のまま残す。code block 内の raw wikilink label と、本文中の source prose として残る英語語句は今回の表示層修正の対象外。`package.json` の既存未コミット変更は本作業の範囲外として維持する。
+- **次の作業**: push 後に remote HEAD、GitHub Actions、GitHub Release、公開 `/ja/` 代表ページを確認する。必要に応じて、UI ではなく ja 翻訳本文そのものの content-level 残留英語 QA を別途実施する。
+- **EN**: Cleaned up English residue in the Japanese human-site display layer after the full ja i18n layer was added. The change localizes header / footer / root / browse / domain / entry chrome, aria and theme labels, confidence chips, title fallback, and rendered wikilink labels. `siteIndex` now exposes localized title lookup from i18n frontmatter titles or first H1 values, and `localize-wikilinks` rewrites ja HTML `data-wl` labels after build. Validation passed through Astro build 4219 pages, ja-labels=17603, Pagefind 4218 pages / 3 languages / 128744 words, duplicate_ids=0, and rendered-output scans for common English UI residue.
+- **中文**: 本轮在完整 ja i18n 层之后，继续清理日文站点显示层的英文残留。改动覆盖 header / footer / root / browse / domain / entry chrome、aria 与 theme 标签、confidence chip、标题 fallback 和渲染后的 wikilink label。`siteIndex` 现在会从 i18n frontmatter title 或首个 H1 提供本地化标题，`localize-wikilinks` 会在 build 后重写 ja HTML 的 `data-wl` label。验证已通过 Astro build 4219 pages、ja-labels=17603、Pagefind 4218 pages / 3 languages / 128744 words、duplicate_ids=0，以及常见英文 UI 残留的 rendered-output 扫描。
+
 ### human site カラートークンの冷灰テーマ化 / Human-site color-token refresh / human site 颜色 token 冷灰主题化
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-03 11:18 JST。

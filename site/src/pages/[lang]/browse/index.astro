@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
 import { domainName } from '../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../lib/routes';
+import { localizedTitle } from '../../../lib/siteIndex.mjs';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -24,7 +25,7 @@ const domains = [...byDomain.entries()].sort((a, b) => b[1].length - a[1].length
 
 function titleFor(entry: (typeof all)[number]): string {
   const tr = i18nMap.get(i18nEntryId(lang, entry));
-  return String(tr?.data?.title || entry.data.title || entryRoute(entry));
+  return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
 ---
 <Base lang={lang} title={t(lang, 'browse.title')} active="browse" wide>
@@ -38,7 +39,7 @@ function titleFor(entry: (typeof all)[number]): string {
       <input id="browse-filter" type="search" class="browse__filter" placeholder={t(lang, 'browse.filter')} autocomplete="off" aria-label={t(lang, 'browse.filter')} />
     </div>
 
-    <nav class="browse__jump" aria-label="Jump to domain">
+    <nav class="browse__jump" aria-label={t(lang, 'aria.jumpToDomain')}>
       {domains.map(([d, list]) => (
         <a href={`#${d}`} data-jump={d}>{domainName(d, lang)} <b>{list.length}</b></a>
       ))}

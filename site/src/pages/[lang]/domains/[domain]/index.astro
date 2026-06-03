@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
 import { domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
+import { localizedTitle } from '../../../../lib/siteIndex.mjs';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
@@ -26,14 +27,14 @@ const translationMap = new Map(translations.map((entry) => [entry.id, entry]));
 
 function titleFor(entry: (typeof entries)[number]): string {
   const tr = translationMap.get(i18nEntryId(lang, entry));
-  return String(tr?.data?.title || entry.data.title || entryRoute(entry));
+  return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
 const translatedCount = entries.filter((entry) => translationMap.has(i18nEntryId(lang, entry))).length;
 const showFilter = entries.length > 24;
 ---
 <Base lang={lang} title={domainName(domain, lang)} active="domains">
   <div class="container domain">
-    <nav class="crumbs" aria-label="Breadcrumb">
+    <nav class="crumbs" aria-label={t(lang, 'aria.breadcrumb')}>
       <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
       <span aria-hidden="true">/</span>
       <span>{domainName(domain, lang)}</span>

@@ -40,20 +40,21 @@ const desc = description ?? t(lang, 'site.tagline');
     <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
-    <a class="skip-link" href="#main">Skip to content</a>
+    <pagefind-config lang={lang}></pagefind-config>
+    <a class="skip-link" href="#main">{t(lang, 'skip.content')}</a>
     <header class="site-header" data-pagefind-ignore>
       <div class="site-header__inner">
-        <a class="brand" href={u(lang)} aria-label="FinWiki home">
+        <a class="brand" href={u(lang)} aria-label={t(lang, 'aria.home')}>
           <span>Fin<b>Wiki</b></span>
         </a>
-        <nav class="site-nav" aria-label="Primary">
+        <nav class="site-nav" aria-label={t(lang, 'aria.primary')}>
           <a href={u(lang, 'domains/')} aria-current={active === 'domains' ? 'page' : undefined}>{t(lang, 'nav.domains')}</a>
           <a href={u(lang, 'browse/')} aria-current={active === 'browse' ? 'page' : undefined}>{t(lang, 'nav.browse')}</a>
           <a href="/llms.txt">{t(lang, 'nav.ai')}</a>
         </nav>
         <div class="header-tools">
           <pagefind-modal-trigger class="pf-trigger" placeholder={t(lang, 'nav.search')} shortcut="mod+k"></pagefind-modal-trigger>
-          <ThemeToggle />
+          <ThemeToggle lang={lang} />
           <LangSwitcher lang={lang} />
         </div>
       </div>
@@ -69,16 +70,16 @@ const desc = description ?? t(lang, 'site.tagline');
           <div class="site-footer__brand">Fin<span style="color:var(--accent)">Wiki</span></div>
           <p class="site-footer__note">{t(lang, 'footer.note')}</p>
         </div>
-        <nav class="site-footer__links" aria-label="Footer">
+        <nav class="site-footer__links" aria-label={t(lang, 'aria.footer')}>
           <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
           <a href={u(lang, 'browse/')}>{t(lang, 'nav.browse')}</a>
-          <a href="/llms.txt">llms.txt</a>
-          <a href="/ai-index.json">ai-index.json</a>
-          <a href="/sitemap.xml">sitemap.xml</a>
+          <a href="/llms.txt">{t(lang, 'footer.llms')}</a>
+          <a href="/ai-index.json">{t(lang, 'footer.aiIndex')}</a>
+          <a href="/sitemap.xml">{t(lang, 'footer.sitemap')}</a>
         </nav>
         <div class="site-footer__meta">
           <span>© FinWiki</span>
-          <span>JA · EN · ZH</span>
+          <span>{t(lang, 'footer.langs')}</span>
         </div>
       </div>
     </footer>
