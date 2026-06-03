@@ -17,8 +17,8 @@ sources:
   - SCHEMA.md (current FinWiki frontmatter spec)
   - AGENTS.md (FinWiki maintenance protocol)
   - INDEX.md (domain map and entry counts)
-  - tools/wiki_link_audit.py (current body-link audit script)
-  - tools/generate_ai_discovery.py (current AI-discovery surface generator)
+  - tools/wiki_link_audit.ts (current body-link audit script)
+  - tools/generate_ai_discovery.ts (current AI-discovery surface generator)
 ---
 
 # Frontmatter canonical_anchor Field · 提议 / Proposal
@@ -28,7 +28,7 @@ sources:
 This proposal sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[cross-domain-anchor-convention|cross-domain anchor convention]] for the prose rules it would formalize, with [[entity-mirror-page-policy|mirror-page policy]] for the case that motivates the field, and with [[domain-bridge-navigation-guide|domain bridge navigation guide]] for the reader-side benefit.
 
 > [!info] TL;DR
-> Proposal: add a recommended (not required) frontmatter field `canonical_anchor:` that points cross-domain pages (mirrors, sibling sub-product pages, public-figure pages, macro-tracker pages) at the single source-of-truth anchor for the underlying entity. This is a forward-looking proposal — it is **not** yet adopted in [[SCHEMA]]. The field would make machine-readable what is currently a prose convention, enable an audit-tool extension that flags drift, and improve `tools/generate_ai_discovery.py` output by exposing entity-level graph edges to AI / crawler consumers.
+> Proposal: add a recommended (not required) frontmatter field `canonical_anchor:` that points cross-domain pages (mirrors, sibling sub-product pages, public-figure pages, macro-tracker pages) at the single source-of-truth anchor for the underlying entity. This is a forward-looking proposal — it is **not** yet adopted in [[SCHEMA]]. The field would make machine-readable what is currently a prose convention, enable an audit-tool extension that flags drift, and improve `tools/generate_ai_discovery.ts` output by exposing entity-level graph edges to AI / crawler consumers.
 
 ## 1. Motivation
 
@@ -42,8 +42,8 @@ This convention works for human readers, but it is invisible to tooling. The cur
 
 The result:
 
-- `tools/wiki_link_audit.py` cannot detect orphan mirrors (a mirror page that does not cross-link back to its sibling).
-- `tools/generate_ai_discovery.py` emits page-level metadata in `llms.txt`, `llms-full.txt`, and `ai-index.json`, but cannot emit **entity-level graph edges** (page X and page Y describe the same real-world entity from different angles).
+- `tools/wiki_link_audit.ts` cannot detect orphan mirrors (a mirror page that does not cross-link back to its sibling).
+- `tools/generate_ai_discovery.ts` emits page-level metadata in `llms.txt`, `llms-full.txt`, and `ai-index.json`, but cannot emit **entity-level graph edges** (page X and page Y describe the same real-world entity from different angles).
 - Reviewers have to remember which pages are mirror siblings and which are merely cross-referenced. This is a maintenance tax that scales poorly past 1500 entries.
 
 ## 2. The proposed field
@@ -101,15 +101,15 @@ The field is **not** a duplicate-detection mechanism. It declares entity identit
 
 ### Pros
 
-- **Audit tool can detect mirror-pair drift.** `tools/wiki_link_audit.py` could be extended to verify that every page that declares `canonical_anchor: X` cross-links to X in the body, and that page X cross-links back if it is a mirror sibling.
-- **AI-discovery output gains entity edges.** `tools/generate_ai_discovery.py` could emit an `entities[]` section in `ai-index.json` that groups pages by canonical anchor, exposing entity-level identity to AI consumers. This raises the quality of LLM context that downstream tools assemble.
+- **Audit tool can detect mirror-pair drift.** `tools/wiki_link_audit.ts` could be extended to verify that every page that declares `canonical_anchor: X` cross-links to X in the body, and that page X cross-links back if it is a mirror sibling.
+- **AI-discovery output gains entity edges.** `tools/generate_ai_discovery.ts` could emit an `entities[]` section in `ai-index.json` that groups pages by canonical anchor, exposing entity-level identity to AI consumers. This raises the quality of LLM context that downstream tools assemble.
 - **Reviewers gain explicit memory.** Anyone touching a page knows from frontmatter whether it is part of a mirror pair or a cross-product split.
 - **Backwards compatible.** Optional field; existing entries continue to validate.
 
 ### Cons
 
 - **Maintenance cost.** Every new mirror or cross-product page is one more field to set. Misconfiguration (pointing at a non-existent anchor) becomes a new audit failure mode.
-- **Tooling change required.** `tools/wiki_link_audit.py` and `tools/generate_ai_discovery.py` both need extensions. The audit script currently checks body-link density only; entity-edge checks are a new layer of logic.
+- **Tooling change required.** `tools/wiki_link_audit.ts` and `tools/generate_ai_discovery.ts` both need extensions. The audit script currently checks body-link density only; entity-edge checks are a new layer of logic.
 - **Ambiguity in cross-product splits.** When JPM-the-group is the entity but each product has its own canonical anchor, the field becomes editorial. Different reviewers may disagree on whether [[fintech/jpmorgan-jpmd-coin]] should set `canonical_anchor: JapanFG/jpmorgan-japan` or leave it self-pointing.
 - **Risk of overuse.** If reviewers start filling in `canonical_anchor:` on every cross-referenced page, the field stops being a signal for mirror / cross-product pairs and becomes noise.
 
@@ -122,11 +122,11 @@ Tooling cost is modest because both existing tools already parse frontmatter. Ed
 If adopted, migration would be **incremental and opt-in**:
 
 1. **Phase 0 (preparatory).** Update [[SCHEMA]] §"Optional / Legacy Fields" to add `canonical_anchor:` as an optional field with the semantics described above. Update [[entity-mirror-page-policy]] §7 to recommend setting the field on every confirmed mirror pair. Update [[cross-domain-anchor-convention]] §6 to mention the field. No code changes yet.
-2. **Phase 1 (audit-only).** Extend `tools/wiki_link_audit.py` to:
+2. **Phase 1 (audit-only).** Extend `tools/wiki_link_audit.ts` to:
    - Resolve `canonical_anchor:` values to existing pages (flag broken anchors).
    - Verify reciprocal body links between mirror siblings (both pages must cross-link to each other if they declare the same canonical anchor).
    - Emit a new section in [[wiki-link-improvement-plan]] listing entity clusters and any orphan mirrors.
-3. **Phase 2 (discovery output).** Extend `tools/generate_ai_discovery.py` to emit an `entities[]` section in `ai-index.json` that groups pages by canonical anchor. Update `llms-full.txt` to surface the canonical anchor for each page (one extra line per page).
+3. **Phase 2 (discovery output).** Extend `tools/generate_ai_discovery.ts` to emit an `entities[]` section in `ai-index.json` that groups pages by canonical anchor. Update `llms-full.txt` to surface the canonical anchor for each page (one extra line per page).
 4. **Phase 3 (back-fill).** Back-fill `canonical_anchor:` on all known mirror pairs (current count is small — the Saison Automobile & Fire pair plus a handful of others; specifics to be enumerated during phase 1 audit). Do not back-fill cross-references except where the page explicitly cites a single canonical entity.
 5. **Phase 4 (steady state).** Make `canonical_anchor:` a hard requirement on new mirror pages going forward. Keep it optional on cross-reference-heavy pages.
 
@@ -166,6 +166,6 @@ Defer phases 1-4 until the pilot reveals whether the field carries enough signal
 - [[SCHEMA]] — current frontmatter spec, optional / legacy field section.
 - [[AGENTS]] — public-surface rule, trilingual maintenance protocol, AI-discovery refresh requirement.
 - [[INDEX]] — domain map and current entry counts.
-- `tools/wiki_link_audit.py` — current body-link audit script (extension target for phase 1).
-- `tools/generate_ai_discovery.py` — current AI-discovery surface generator (extension target for phase 2).
+- `tools/wiki_link_audit.ts` — current body-link audit script (extension target for phase 1).
+- `tools/generate_ai_discovery.ts` — current AI-discovery surface generator (extension target for phase 2).
 - Worked examples: [[insurance/saison-automobile-fire]] + [[JapanFG/saison-automobile-fire-insurance]] (mirror pair); [[JapanFG/jpmorgan-japan]] + [[fintech/jpmorgan-jpmd-coin]] + [[fintech/jpm-onyx-wholesale-network]] + [[business/jamie-dimon-anti-crypto-pivot-case]] (cross-product split); [[fintech/circle-usdc-stablecoin]] (canonical-only).

@@ -17,8 +17,8 @@
     ],
     "domain": "trade",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-20",
     "confidence": "certain",
     "tags": [
@@ -37,7 +37,7 @@
       "https://www.jetro.go.jp/en/jetro/members/"
     ]
   },
-  "summary": "This domain routes Japan trade-promotion institutional structure — currently anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization). Both entries are scoping pages that correct common misconceptions: JETRO is not a membership chamber, and the paid JETRO Members program is a B2B-proposal",
+  "summary": "This domain routes Japan trade-promotion institutional structure — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit. The three entries answer two distinct questions: a decision page that splits JETRO, NEXI, and JBIC (the promotion / insu",
   "headings": [
     "Trade domain",
     "TL;DR",
@@ -49,7 +49,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -60,6 +60,7 @@
       "trade/jetro-members-gateway-model\\",
       "trade/jetro-organization-structure",
       "trade/jetro-organization-structure\\",
+      "trade/jetro-vs-nexi-vs-jbic-comparison",
       "trade/jetro-vs-nexi-vs-jbic-comparison\\"
     ],
     "resolved_wikilinks": [
@@ -72,15 +73,16 @@
       "https://finwiki.zksc.io/trade/jetro-members-gateway-model\\",
       "https://finwiki.zksc.io/trade/jetro-organization-structure",
       "https://finwiki.zksc.io/trade/jetro-organization-structure\\",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
       "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\\"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4411,
-    "word_like_tokens": 737,
+    "nonspace_chars": 5192,
+    "word_like_tokens": 873,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-06-03"
   }
 }

@@ -17,8 +17,8 @@
     ],
     "domain": "corporate-strategy",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-20",
     "confidence": "certain",
     "tags": [
@@ -36,7 +36,7 @@
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "This domain routes tax-driven corporate-restructuring strategy in Japan — currently anchored on the single entry for partial spinoff tax deferral (パーシャルスピンオフ税制), the 2023 reform that lets a parent retain a minority stake in a spun-off subsidiary while still qualifying for tax-deferred treatment.",
+  "summary": "This domain routes tax-driven corporate-restructuring strategy in Japan — anchored on the partial spinoff tax deferral (パーシャルスピンオフ税制) regime, the 2023 reform that lets a parent retain a minority stake in a spun-off subsidiary while still qualifying for tax-deferred treatment, and now spanning the ad",
   "headings": [
     "Corporate strategy domain",
     "TL;DR",
@@ -48,16 +48,24 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
       "business/INDEX",
       "business/gmo-internet-group",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime\\",
+      "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "corporate-strategy/kabushiki-koufu-stock-distribution-regime\\",
       "corporate-strategy/partial-spinoff-tax-deferral",
       "corporate-strategy/partial-spinoff-tax-deferral\\",
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "corporate-strategy/spinoff-decision-tree-japan\\",
+      "corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case",
+      "corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case\\",
       "finance/INDEX",
+      "finance/japan-tender-offer-process\\",
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
@@ -65,19 +73,27 @@
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime\\",
+      "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime\\",
       "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral\\",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan\\",
+      "https://finwiki.zksc.io/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case",
+      "https://finwiki.zksc.io/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case\\",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process\\",
       "https://finwiki.zksc.io/policy-finance/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4155,
-    "word_like_tokens": 662,
+    "nonspace_chars": 6536,
+    "word_like_tokens": 1050,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-03"
   }
 }

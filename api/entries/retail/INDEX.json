@@ -17,8 +17,8 @@
     ],
     "domain": "retail",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -41,13 +41,16 @@
     "retail domain",
     "TL;DR",
     "Active Entries",
+    "Group overviews",
+    "Cross-case comparison",
+    "Deep dives",
     "Retail Finance Pattern",
     "Related Domains",
     "Expansion Backlog",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -59,9 +62,13 @@
       "payments/INDEX",
       "payments/cashless-jp-landscape",
       "retail/aeon-group",
+      "retail/familymart-itochu-financial-integration",
+      "retail/japan-retail-financial-distribution-wedge-matrix",
       "retail/japan-retail-financial-distribution-wedge-matrix\\",
       "retail/lawson-kddi-retail-finance",
-      "retail/seven-and-i-hd"
+      "retail/lawson-mitsubishi-corporation-tie-up-2024-deep",
+      "retail/seven-and-i-hd",
+      "retail/seven-i-holdings-finance-deep-dive"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -74,17 +81,21 @@
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/familymart-itochu-financial-integration",
+      "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix",
       "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix\\",
       "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/retail/lawson-mitsubishi-corporation-tie-up-2024-deep",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd",
+      "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3278,
-    "word_like_tokens": 517,
+    "nonspace_chars": 4757,
+    "word_like_tokens": 731,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-03"
   }
 }

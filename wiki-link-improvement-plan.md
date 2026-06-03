@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 15 |
 
 ## Wiki Linking Standard
 
@@ -39,6 +39,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `corporate-strategy/INDEX.md` | `M` | 19 | ok |
+| `cross-domain-anchor-convention.md` | `M` | 30 | ok |
+| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 24 | ok |
+| `governance/INDEX.md` | `M` | 11 | ok |
+| `HOW-TO-NAVIGATE.md` | `M` | 207 | ok |
+| `INDEX.md` | `M` | 29 | ok |
+| `loyalty/INDEX.md` | `M` | 35 | ok |
+| `manufacturing/INDEX.md` | `M` | 10 | ok |
+| `money-market/INDEX.md` | `M` | 26 | ok |
+| `retail/INDEX.md` | `M` | 16 | ok |
+| `retail/japan-retail-financial-distribution-wedge-matrix.md` | `M` | 60 | ok |
+| `retail/lawson-kddi-retail-finance.md` | `M` | 17 | ok |
+| `retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md` | `M` | 25 | ok |
+| `security/INDEX.md` | `M` | 19 | ok |
+| `trade/INDEX.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 
@@ -54,26 +69,26 @@
 | `control-cluster` | 1 | 0 | 146.0 |
 | `control-mirror` | 1 | 0 | 25.0 |
 | `control-proposal` | 1 | 0 | 24.0 |
-| `corporate-strategy` | 6 | 0 | 13.2 |
+| `corporate-strategy` | 6 | 0 | 14.8 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 29.0 |
-| `governance` | 4 | 0 | 8.5 |
+| `governance` | 4 | 0 | 9.0 |
 | `insurance` | 33 | 0 | 42.6 |
-| `loyalty` | 12 | 0 | 18.8 |
-| `manufacturing` | 8 | 0 | 13.6 |
-| `money-market` | 12 | 0 | 21.6 |
+| `loyalty` | 12 | 0 | 20.3 |
+| `manufacturing` | 8 | 0 | 14.4 |
+| `money-market` | 12 | 0 | 22.2 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
-| `retail` | 8 | 0 | 23.9 |
+| `retail` | 8 | 0 | 24.9 |
 | `securities` | 33 | 0 | 32.1 |
 | `security` | 6 | 0 | 9.5 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
-| `trade` | 4 | 0 | 11.3 |
+| `trade` | 4 | 0 | 11.5 |
 
 ## Execution Notes
 

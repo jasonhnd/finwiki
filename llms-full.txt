@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-03T15:10:00+09:00
+Generated: 2026-06-03T16:29:51+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1472
-Public pages listed: 1471
+Markdown files: 1473
+Public pages listed: 1472
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1471
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, AI タスク入口の死リンク修正とスナップショット同期 / AI task-entry dead-link repair and snapshot sync / AI 任务入口死链修复与快照同步, package metadata の公開同期 / Public package metadata sync / package metadata 公开同步
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, 全領域 INDEX 同期と meta 文書整理 / Domain-INDEX sync and meta-doc cleanup / 全领域 INDEX 同步与 meta 文档整理, AI タスク入口の死リンク修正とスナップショット同期 / AI task-entry dead-link repair and snapshot sync / AI 任务入口死链修复与快照同步
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -37,7 +37,7 @@ Public pages listed: 1471
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/HOW-TO-NAVIGATE.md
 - Domain: root
 - Type: wiki_entry
-- Summary: FinWiki currently routes around 1465+ wiki entries across 24+ domains through INDEX.md plus per-domain INDEX.md files. The corpus is built primarily for AI agents to read, retrieve, cite, and connect, but the structure is also designed to be readable for humans who need to research finance topics fr
+- Summary: FinWiki currently routes around 1,400+ wiki entries across 23 domains through INDEX.md plus per-domain INDEX.md files. The corpus is built primarily for AI agents to read, retrieve, cite, and connect, but the structure is also designed to be readable for humans who need to research finance topics fr
 - Headings: How to navigate FinWiki — reader profile guide, TL;DR, How to find anything in five steps, Reader profile starting points, Regulator / supervisor, Banker / corporate-finance practitioner, Investor / capital-allocator, Researcher / academic
 - First resolved wikilinks: https://finwiki.zksc.io/AGENTS, https://finwiki.zksc.io/CHANGELOG, https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/OBSIDIAN-SETUP, https://finwiki.zksc.io/README.md, https://finwiki.zksc.io/SCHEMA
 
@@ -7397,9 +7397,9 @@ Public pages listed: 1471
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/INDEX.md
 - Domain: corporate-strategy
 - Type: domain_index
-- Summary: This domain routes tax-driven corporate-restructuring strategy in Japan — currently anchored on the single entry for partial spinoff tax deferral (パーシャルスピンオフ税制), the 2023 reform that lets a parent retain a minority stake in a spun-off subsidiary while still qualifying for tax-deferred treatment.
+- Summary: This domain routes tax-driven corporate-restructuring strategy in Japan — anchored on the partial spinoff tax deferral (パーシャルスピンオフ税制) regime, the 2023 reform that lets a parent retain a minority stake in a spun-off subsidiary while still qualifying for tax-deferred treatment, and now spanning the ad
 - Headings: Corporate strategy domain, TL;DR, Entries, Start here, Expansion rules, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime\, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral\, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/policy-finance/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/business/gmo-internet-group, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime, https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime\, https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime, https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime\, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral\, https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan, https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan\
 
 ### 会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession
 - URL: https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime
@@ -11006,9 +11006,9 @@ Public pages listed: 1471
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/governance/INDEX.md
 - Domain: governance
 - Type: domain_index
-- Summary: This domain routes non-profit / public-interest legal structure and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route and the institutional map for research grants. Both entries are operational reference pages: "if you wanted to actually do this, here is the path
+- Summary: This domain routes non-profit / public-interest legal structure and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, and the institutional map for research grants. All three entries are operational reference pages: "if you wanted to actua
 - Headings: Governance domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements\, https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison\, https://finwiki.zksc.io/governance/japan-research-grant-map-2026, https://finwiki.zksc.io/governance/japan-research-grant-map-2026\, https://finwiki.zksc.io/policy-finance/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements\, https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison\, https://finwiki.zksc.io/governance/japan-research-grant-map-2026, https://finwiki.zksc.io/governance/japan-research-grant-map-2026\, https://finwiki.zksc.io/policy-finance/INDEX
 
 ### 日本 一般財団法人 設立要件・プロセス
 - URL: https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements
@@ -11378,7 +11378,7 @@ Public pages listed: 1471
 - Type: domain_index
 - Summary: This domain routes point programs, loyalty liabilities, campaign economics, and retail / payment data loops. The current anchor is Japan points and loyalty landscape.
 - Headings: loyalty domain, TL;DR, Route Map, Active Entries, Expansion Backlog, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/ndfg, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation\, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary, https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/retail/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jal-card, https://finwiki.zksc.io/JapanFG/jr-east-financial, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/ndfg, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/loyalty/au-pay-loyalty-ecosystem-deep, https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation\, https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem, https://finwiki.zksc.io/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison
 
 ### au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack
 - URL: https://finwiki.zksc.io/loyalty/au-pay-loyalty-ecosystem-deep
@@ -11496,9 +11496,9 @@ Public pages listed: 1471
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/INDEX.md
 - Domain: manufacturing
 - Type: domain_index
-- Summary: manufacturing/ contains 7 active entries (excluding INDEX, 8 total) for non-financial operating companies referenced from JapanFG pages, with Wave 12 adding deep operating profiles for Hitachi industrial finance, Sony Group finance arm, Panasonic captive finance, Mitsubishi Heavy export finance, and
-- Headings: manufacturing — Japanese manufacturing company index, TL;DR, Entries, Expansion rules, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hachijuni-bank, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/manufacturing/seiko-epson, https://finwiki.zksc.io/manufacturing/toyota-motor
+- Summary: manufacturing/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-perspective finance anchors, complementary to JapanFG entity pages and structured-finance ABS — the captive/vendor/export finance arms run by industrial groups, plus the operating-company and region
+- Headings: manufacturing — Japanese manufacturing company index, TL;DR, Entries, Tier 1 — Manufacturer-finance profiles, Tier 2 — Operating-company / regional anchors, Expansion rules, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hachijuni-bank, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturing/panasonic-captive-finance, https://finwiki.zksc.io/manufacturing/seiko-epson, https://finwiki.zksc.io/manufacturing/sony-group-finance-arm, https://finwiki.zksc.io/manufacturing/toyota-financial-services
 
 ### Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)
 - URL: https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform
@@ -11577,7 +11577,7 @@ Public pages listed: 1471
 - Domain: money-market
 - Type: domain_index
 - Summary: This domain routes Japan short-term money-market knowledge: call-rate formation, BoJ open market operations, and the connection between monetary policy, banks, securities firms, and tanshi companies.
-- Headings: Money market domain, TL;DR, Start Here, JapanFG Anchors, Research Control, Backlog, Related, Sources
+- Headings: Money market domain, TL;DR, Start Here, Instruments, JapanFG Anchors, Research Control, Backlog, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mizuho-securities, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/mufg-mums, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-tanshi
 
 ### BoJ open market operations
@@ -13215,6 +13215,14 @@ Public pages listed: 1471
 - Type: release_note
 - Headings: AI タスク入口の死リンク修正とスナップショット同期, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 全領域 INDEX 同期と meta 文書整理
+- URL: https://finwiki.zksc.io/releases/v2026.06.03-6
+- Source path: releases/v2026.06.03-6.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-6.md
+- Domain: releases
+- Type: release_note
+- Headings: 全領域 INDEX 同期と meta 文書整理, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 日本語 i18n 翻訳層の全量追加
 - URL: https://finwiki.zksc.io/releases/v2026.06.03
 - Source path: releases/v2026.06.03.md
@@ -13231,8 +13239,8 @@ Public pages listed: 1471
 - Domain: retail
 - Type: domain_index
 - Summary: This domain routes retail groups when they matter to finance: store traffic, card issuing, prepaid electronic money, loyalty points, ATM networks, retail media, and embedded financial distribution.
-- Headings: retail domain, TL;DR, Active Entries, Retail Finance Pattern, Related Domains, Expansion Backlog, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aeon-bank, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/seven-bank, https://finwiki.zksc.io/loyalty/INDEX, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/retail/aeon-group, https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix\, https://finwiki.zksc.io/retail/lawson-kddi-retail-finance
+- Headings: retail domain, TL;DR, Active Entries, Group overviews, Cross-case comparison, Deep dives, Retail Finance Pattern, Related Domains
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aeon-bank, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/seven-bank, https://finwiki.zksc.io/loyalty/INDEX, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/retail/aeon-group, https://finwiki.zksc.io/retail/familymart-itochu-financial-integration, https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix
 
 ### AEON Group
 - URL: https://finwiki.zksc.io/retail/aeon-group
@@ -13270,7 +13278,7 @@ Public pages listed: 1471
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/lawson-kddi-retail-finance.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥4,952 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitti
+- Summary: After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥10,360 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitt
 - Headings: Lawson + KDDI Retail Finance, TL;DR, Ownership and structure, Finance assets in the channel, Comparison with Seven & i and AEON, Why this is a third model, not a copy, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aeon-bank, https://finwiki.zksc.io/JapanFG/au-fh, https://finwiki.zksc.io/JapanFG/au-payment, https://finwiki.zksc.io/JapanFG/lawson-bank, https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-bank, https://finwiki.zksc.io/JapanFG/seven-bank, https://finwiki.zksc.io/loyalty/japan-points-landscape, https://finwiki.zksc.io/payments/cashless-jp-landscape, https://finwiki.zksc.io/retail/INDEX, https://finwiki.zksc.io/retail/aeon-group, https://finwiki.zksc.io/retail/seven-and-i-hd
 
@@ -14630,9 +14638,9 @@ Public pages listed: 1471
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/INDEX.md
 - Domain: trade
 - Type: domain_index
-- Summary: This domain routes Japan trade-promotion institutional structure — currently anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization). Both entries are scoping pages that correct common misconceptions: JETRO is not a membership chamber, and the paid JETRO Members program is a B2B-proposal
+- Summary: This domain routes Japan trade-promotion institutional structure — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit. The three entries answer two distinct questions: a decision page that splits JETRO, NEXI, and JBIC (the promotion / insu
 - Headings: Trade domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/jetro-members-gateway-model, https://finwiki.zksc.io/trade/jetro-members-gateway-model\, https://finwiki.zksc.io/trade/jetro-organization-structure, https://finwiki.zksc.io/trade/jetro-organization-structure\, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/jetro-members-gateway-model, https://finwiki.zksc.io/trade/jetro-members-gateway-model\, https://finwiki.zksc.io/trade/jetro-organization-structure, https://finwiki.zksc.io/trade/jetro-organization-structure\, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\
 
 ### JETRO Members 有料会員制は B2B 提案の入口ゲート
 - URL: https://finwiki.zksc.io/trade/jetro-members-gateway-model

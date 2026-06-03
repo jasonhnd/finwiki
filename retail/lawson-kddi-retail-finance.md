@@ -26,7 +26,7 @@ sources:
 
 ## TL;DR
 
-After the February 2024 joint tender offer in which **KDDI and Mitsubishi Corp each took 50% of Lawson** at ¥4,952 per share, Lawson became a **telco-anchored convenience-store finance case** rather than a pure trading-house retail asset. For FinWiki, this is the **third convenience-store finance model**, sitting beside [[retail/seven-and-i-hd|Seven & i Holdings]] (ATM-first) and [[retail/aeon-group|AEON Group]] (mall-and-bank stack). The wedge here is different: Lawson does not own a credit-card-and-bank stack like AEON, and its [[JapanFG/lawson-bank|Lawson Bank]] ATM platform is materially smaller than [[JapanFG/seven-bank|Seven Bank]], so the real story is **how KDDI's au economic zone gets injected into a convenience-store channel**.
+After the February 2024 joint tender offer in which **KDDI and Mitsubishi Corp each took 50% of Lawson** at ¥10,360 per share, Lawson became a **telco-anchored convenience-store finance case** rather than a pure trading-house retail asset. For FinWiki, this is the **third convenience-store finance model**, sitting beside [[retail/seven-and-i-hd|Seven & i Holdings]] (ATM-first) and [[retail/aeon-group|AEON Group]] (mall-and-bank stack). The wedge here is different: Lawson does not own a credit-card-and-bank stack like AEON, and its [[JapanFG/lawson-bank|Lawson Bank]] ATM platform is materially smaller than [[JapanFG/seven-bank|Seven Bank]], so the real story is **how KDDI's au economic zone gets injected into a convenience-store channel**.
 
 Route this entry from the [[retail/INDEX|retail index]] as the missing convenience-store-finance peer.
 
@@ -41,7 +41,7 @@ Route this entry from the [[retail/INDEX|retail index]] as the missing convenien
 | Loppi (in-store multimedia terminal) | Lawson channel for ticketing, bill payment, prepaid top-up | Soft-finance distribution surface that complements the ATM and POS |
 | au Financial Holdings ecosystem | KDDI-side finance brand | Carries au PAY app, au PAY Card, au じぶん銀行, asset management — see [[JapanFG/au-fh|au FH]] |
 
-The headline number from the [TOB announcement on KDDI's newsroom](https://www.kddi.com/corporate/newsrelease/) is the **¥4,952 / share** joint bid that took KDDI and Mitsubishi to a 50/50 governance JV rather than a single-controlling-shareholder structure. That governance design matters: neither side fully controls Lawson's finance strategy.
+The headline number from the [TOB announcement on KDDI's newsroom](https://www.kddi.com/corporate/newsrelease/) is the **¥10,360 / share** joint bid that took KDDI and Mitsubishi to a 50/50 governance JV rather than a single-controlling-shareholder structure. That governance design matters: neither side fully controls Lawson's finance strategy.
 
 ## Finance assets in the channel
 

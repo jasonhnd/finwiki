@@ -25,7 +25,7 @@ sources:
 
 ## TL;DR
 
-FinWiki currently routes around **1465+ wiki entries across 24+ domains** through [[INDEX|INDEX.md]] plus per-domain `INDEX.md` files. The corpus is built primarily for AI agents to read, retrieve, cite, and connect, but the structure is also designed to be readable for humans who need to research finance topics from public sources.
+FinWiki currently routes around **1,400+ wiki entries across 23 domains** through [[INDEX|INDEX.md]] plus per-domain `INDEX.md` files. The corpus is built primarily for AI agents to read, retrieve, cite, and connect, but the structure is also designed to be readable for humans who need to research finance topics from public sources.
 
 This guide is the front-door. It tells you, by reader profile, **where to start, which comparison matrices to keep open, and which bedrock pages anchor each topic cluster**.
 
@@ -33,7 +33,7 @@ There is no single linear reading order. Instead, FinWiki is a graph: every entr
 
 ## How to find anything in five steps
 
-1. **Start at [[INDEX|INDEX.md]]** to see all 24+ domains, entry counts, and the public-surface rule.
+1. **Start at [[INDEX|INDEX.md]]** to see all 23 domains, entry counts, and the public-surface rule.
 2. **Drill down by domain** to the relevant `domain/INDEX.md` file (e.g. [[banking/INDEX]], [[fintech/INDEX]], [[derivatives/INDEX]]).
 3. **Use a comparison matrix** to compare peers or regimes side-by-side (52+ matrices exist across domains).
 4. **Open the entity-specific operating page** for the company, regulator, instrument, or system you need.

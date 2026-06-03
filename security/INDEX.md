@@ -6,8 +6,8 @@ aliases:
   - "セキュリティ domain"
 domain: "security"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-06-03
+last_tended: 2026-06-03
 review_by: 2026-11-20
 confidence: certain
 tags: [security, index, forensics, supply-chain, bytecode, wayback, audit]
@@ -30,7 +30,9 @@ The unifying frame is *adversarial verification* — every entry assumes the pub
 
 ## Entries
 
-| Status | Slug | Title | Why it exists |
+All five entries currently carry `status: candidate`; the column below reports each entry's `confidence:` level, not its lifecycle status. Note that **fork-and-rebrand-5-layer-audit-framework** is `confidence: certain` while still `status: candidate` — high confidence in the technique, but the page itself is not yet promoted past candidate.
+
+| Confidence | Slug | Title | Why it exists |
 |---|---|---|---|
 | possible | [[security/bytecode-forensic-three-tier-verify\|bytecode-forensic-three-tier-verify]] | Smart contract bytecode forensic — three-tier verify technique | How to verify deployed contract bytecode against claimed source across three levels |
 | possible | [[security/forensic-identity-anchor-chain\|forensic-identity-anchor-chain]] | Team-real-identity forensic anchor chain — multi-source fingerprint stitching | How to reconstruct true team identity from scattered weak signals |
@@ -75,12 +77,14 @@ When expanding this domain:
 
 ## Backlog
 
-| Priority | Page | Why |
+**Planned — not yet created.** Every page listed below is a placeholder for future work; none of these files exist yet. Do not expect to follow these as live links.
+
+| Priority | Page (planned) | Why |
 |---|---|---|
-| P1 | `security/proxy-upgrade-rug-pattern.md` | Proxy-upgradeable contract rug-pull pattern is the most common adversarial use of admin upgrade rights and pairs with bytecode forensic. |
-| P1 | `security/etherscan-verified-source-poisoning.md` | "Verified source" on block explorers is not the same as on-chain bytecode; needs a dedicated entry. |
-| P2 | `security/git-history-rewrite-detection.md` | Companion to Wayback for source-code forensics — detect rebased / squashed git history that hides earlier states. |
-| P2 | `security/typosquatting-package-detection-checklist.md` | Generalize the module-path-confusion entry to a reusable package-typosquat detection checklist. |
+| P1 | `security/proxy-upgrade-rug-pattern.md` _(not yet created)_ | Proxy-upgradeable contract rug-pull pattern is the most common adversarial use of admin upgrade rights and pairs with bytecode forensic. |
+| P1 | `security/etherscan-verified-source-poisoning.md` _(not yet created)_ | "Verified source" on block explorers is not the same as on-chain bytecode; needs a dedicated entry. |
+| P2 | `security/git-history-rewrite-detection.md` _(not yet created)_ | Companion to Wayback for source-code forensics — detect rebased / squashed git history that hides earlier states. |
+| P2 | `security/typosquatting-package-detection-checklist.md` _(not yet created)_ | Generalize the module-path-confusion entry to a reusable package-typosquat detection checklist. |
 
 ## Sources
 
