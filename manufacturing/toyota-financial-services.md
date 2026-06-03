@@ -20,6 +20,7 @@ sources:
   - "https://www.toyotafinancial.com/us/en.html"
   - "https://www.toyota-finance.co.jp/"
   - "https://disclosure2.edinet-fsa.go.jp/"
+canonical_anchor: JapanFG/toyota-financial
 ---
 
 # Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)

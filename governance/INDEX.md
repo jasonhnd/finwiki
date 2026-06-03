@@ -25,9 +25,11 @@ sources:
 
 ## TL;DR
 
-This domain routes **non-profit / public-interest legal structure and research-funding plumbing in Japan** — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, and the institutional map for research grants. All three entries are operational reference pages: "if you wanted to actually do this, here is the path."
+This domain routes **non-profit / public-interest legal structures and research-funding plumbing in Japan** — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational reference pages: "if you wanted to actually do this, here is the path."
 
-This is the only domain that intentionally talks about *Japanese non-profit governance* rather than for-profit finance. Corporate / listed-company governance (boards, disclosure, shareholder structure) is out of scope here — that lives under [[finance/INDEX|finance]] / securities / exchanges. For policy-finance institutions (JFC, DBJ, JBIC) see [[policy-finance/INDEX|policy-finance]]; for general financial-system context see [[finance/INDEX|finance]] and [[INDEX|FinWiki index]].
+> **Scope / disambiguation.** "Governance" here means **Japanese non-profit and public-interest *legal* governance** — the legal form, supervisory regime, and funding plumbing of foundations, associations, NPOs, and research grants. It is **not** corporate or listed-company governance. The Corporate Governance Code, stewardship, board structures, shareholder activism, and disclosure obligations live under [[finance/INDEX|finance]], [[securities/INDEX|securities]], and [[exchanges/INDEX|exchanges]] — start there if you arrived searching for "governance" in the listed-company sense. For policy-finance institutions (JFC, DBJ, JBIC) see [[policy-finance/INDEX|policy-finance]]; for general financial-system context see [[finance/INDEX|finance]] and [[INDEX|FinWiki index]].
+
+This is the only domain that intentionally talks about *Japanese non-profit governance* rather than for-profit finance.
 
 ## Entries
 

@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1411 |
+| Entries checked | 1420 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -39,27 +39,27 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `corporate-strategy/INDEX.md` | `M` | 19 | ok |
-| `cross-domain-anchor-convention.md` | `M` | 30 | ok |
-| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 24 | ok |
-| `governance/INDEX.md` | `M` | 11 | ok |
-| `HOW-TO-NAVIGATE.md` | `M` | 207 | ok |
-| `INDEX.md` | `M` | 29 | ok |
-| `loyalty/INDEX.md` | `M` | 35 | ok |
-| `manufacturing/INDEX.md` | `M` | 10 | ok |
-| `money-market/INDEX.md` | `M` | 26 | ok |
-| `retail/INDEX.md` | `M` | 16 | ok |
-| `retail/japan-retail-financial-distribution-wedge-matrix.md` | `M` | 60 | ok |
-| `retail/lawson-kddi-retail-finance.md` | `M` | 17 | ok |
-| `retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md` | `M` | 25 | ok |
-| `security/INDEX.md` | `M` | 19 | ok |
-| `trade/INDEX.md` | `M` | 10 | ok |
+| `JapanFG/cooperative-finance-index.md` | `??` | 44 | ok |
+| `JapanFG/foreign-institutions-index.md` | `??` | 58 | ok |
+| `JapanFG/insurance-index.md` | `??` | 103 | ok |
+| `JapanFG/megabanks-and-fg-index.md` | `??` | 20 | ok |
+| `JapanFG/payments-cards-leasing-finance-index.md` | `??` | 113 | ok |
+| `JapanFG/regional-banks-index.md` | `??` | 135 | ok |
+| `JapanFG/regulators-sro-policy-index.md` | `??` | 52 | ok |
+| `JapanFG/securities-and-asset-management-index.md` | `??` | 52 | ok |
+| `JapanFG/trust-index.md` | `??` | 48 | ok |
+| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 28 | ok |
+| `governance/INDEX.md` | `M` | 13 | ok |
+| `insurance/saison-automobile-fire.md` | `M` | 11 | ok |
+| `JapanFG/INDEX.md` | `M` | 1412 | ok |
+| `manufacturing/INDEX.md` | `M` | 12 | ok |
+| `manufacturing/toyota-financial-services.md` | `M` | 17 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
-| `JapanFG` | 631 | 0 | 15.8 |
+| `JapanFG` | 640 | 0 | 16.6 |
 | `agent-economy` | 41 | 0 | 13.5 |
 | `banking` | 40 | 0 | 42.8 |
 | `business` | 19 | 0 | 16.4 |
@@ -68,17 +68,17 @@
 | `control-bridge` | 1 | 0 | 116.0 |
 | `control-cluster` | 1 | 0 | 146.0 |
 | `control-mirror` | 1 | 0 | 25.0 |
-| `control-proposal` | 1 | 0 | 24.0 |
+| `control-proposal` | 1 | 0 | 28.0 |
 | `corporate-strategy` | 6 | 0 | 14.8 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 29.0 |
-| `governance` | 4 | 0 | 9.0 |
+| `governance` | 4 | 0 | 9.5 |
 | `insurance` | 33 | 0 | 42.6 |
 | `loyalty` | 12 | 0 | 20.3 |
-| `manufacturing` | 8 | 0 | 14.4 |
+| `manufacturing` | 8 | 0 | 14.6 |
 | `money-market` | 12 | 0 | 22.2 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |

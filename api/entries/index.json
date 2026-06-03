@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-03T16:29:52+09:00",
+  "generated_at": "2026-06-03T16:57:17+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1404,
+  "total_entries": 1413,
   "entries": [
     {
       "slug": "JapanFG/01-bank",
@@ -649,6 +649,13 @@
       "html_url": "https://finwiki.zksc.io/JapanFG/concordia-fg"
     },
     {
+      "slug": "JapanFG/cooperative-finance-index",
+      "domain": "JapanFG",
+      "title": "JapanFG cooperative finance sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/cooperative-finance-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/cooperative-finance-index"
+    },
+    {
       "slug": "JapanFG/cpaaob",
       "domain": "JapanFG",
       "title": "公認会計士・監査審査会 (CPAAOB)",
@@ -969,6 +976,13 @@
       "title": "Foreign bank branches in Japan registry index",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/foreign-bank-branches-japan-index.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index"
+    },
+    {
+      "slug": "JapanFG/foreign-institutions-index",
+      "domain": "JapanFG",
+      "title": "JapanFG foreign institutions sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/foreign-institutions-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/foreign-institutions-index"
     },
     {
       "slug": "JapanFG/fpg-trust",
@@ -1452,6 +1466,13 @@
       "title": "割賦販売法 2020 改正",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/installment-sales-act-2020-amendment.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/installment-sales-act-2020-amendment"
+    },
+    {
+      "slug": "JapanFG/insurance-index",
+      "domain": "JapanFG",
+      "title": "JapanFG insurance sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/insurance-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/insurance-index"
     },
     {
       "slug": "JapanFG/intesa-sanpaolo-japan",
@@ -2245,6 +2266,13 @@
       "html_url": "https://finwiki.zksc.io/JapanFG/mega-icbc-japan"
     },
     {
+      "slug": "JapanFG/megabanks-and-fg-index",
+      "domain": "JapanFG",
+      "title": "JapanFG megabanks and financial groups sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/megabanks-and-fg-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/megabanks-and-fg-index"
+    },
+    {
       "slug": "JapanFG/meiji-yasuda-general-insurance",
       "domain": "JapanFG",
       "title": "明治安田損害保険",
@@ -2945,6 +2973,13 @@
       "html_url": "https://finwiki.zksc.io/JapanFG/pasona-ip-trust"
     },
     {
+      "slug": "JapanFG/payments-cards-leasing-finance-index",
+      "domain": "JapanFG",
+      "title": "JapanFG payments, cards, leasing and non-bank finance sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/payments-cards-leasing-finance-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/payments-cards-leasing-finance-index"
+    },
+    {
       "slug": "JapanFG/payoneer-japan",
       "domain": "JapanFG",
       "title": "Payoneer Japan",
@@ -3139,6 +3174,20 @@
       "title": "リクルートMUFGビジネス",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/recruit-mufg-business.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/recruit-mufg-business"
+    },
+    {
+      "slug": "JapanFG/regional-banks-index",
+      "domain": "JapanFG",
+      "title": "JapanFG regional banks sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/regional-banks-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/regional-banks-index"
+    },
+    {
+      "slug": "JapanFG/regulators-sro-policy-index",
+      "domain": "JapanFG",
+      "title": "JapanFG regulators, SROs and policy-finance sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/regulators-sro-policy-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/regulators-sro-policy-index"
     },
     {
       "slug": "JapanFG/rescue-insurance",
@@ -3398,6 +3447,13 @@
       "title": "セコム損害保険",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/secom-insurance.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/secom-insurance"
+    },
+    {
+      "slug": "JapanFG/securities-and-asset-management-index",
+      "domain": "JapanFG",
+      "title": "JapanFG securities and asset management sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/securities-and-asset-management-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/securities-and-asset-management-index"
     },
     {
       "slug": "JapanFG/seiho-kyokai",
@@ -4161,6 +4217,13 @@
       "title": "Japan trust companies registry index",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/trust-companies-japan-index.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index"
+    },
+    {
+      "slug": "JapanFG/trust-index",
+      "domain": "JapanFG",
+      "title": "JapanFG trust banks and trust companies sub-index",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/trust-index.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/trust-index"
     },
     {
       "slug": "JapanFG/tsukuba-bank",
