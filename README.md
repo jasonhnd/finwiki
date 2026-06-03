@@ -14,12 +14,12 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1471 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1472 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約998万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,977,842） |
-| Word-like tokens | 約161万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約999万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,990,916） |
+| Word-like tokens | 約162万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-03 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
 
@@ -28,6 +28,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > 日本語表示層: v2026.06.03-3 では `/ja/` を日語ユーザー目線で見直し、header / footer / root page / browse / domain / entry chrome、confidence 表示、title fallback、build 後 wikilink 表示ラベルを日本語化しました。`localize-wikilinks` は ja HTML の `data-wl` label を ja i18n title へ置換し、build log では ja-labels=17603 を確認しています。
 
 > package metadata: v2026.06.03-4 では root `package.json` に version、description、repository、bugs、homepage などの公開メタデータを追加し、npm / GitHub 側の project metadata と repository entry を揃えました。
+
+> AI タスク入口: v2026.06.03-5 では手動管理の `llms-tasks.txt` を現行スナップショットへ同期しました。entry の改名・再編で生じた 10 件の死リンク（money-market / derivatives / payments / policy-finance / securities / systems）を現存 entry へ再マッピングし、Snapshot 行を `1,472 files / 1,411 link-audited entries / 23 domains / ~9.99M non-space chars`（2026-06-03 JST）へ更新しました。`.txt` は `wiki:audit` の対象外で死リンクが潜在していたため、160 件の link target を実在性照合しました。本 release で release notes を追加したことで corpus は 1,471 から 1,472 files になり、discovery surface を再生成しました。fresh clone は fs mtime を一律 reset するため、commit 済み `sitemap.xml` の lastmod から各ページの mtime を復元してから再生成し、既存 1,469 ページの lastmod を保持しています。`bun tools/release.ts --check --strict` は link audit PASS（entries=1411 / issues=0）と counts in sync を確認しています。
 
 > 表示テーマ: v2026.06.03-2 では human site の CSS token を暖色紙面・赭色系から、冷灰の紙面、青緑の primary action、低彩度の補助色へ変更しました。CSS の実質的な theme template は `site/src/styles/global.css` の `:root` と `[data-theme="dark"]` にある custom properties です。
 
@@ -151,12 +153,12 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1471 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1472 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~9.98M chars | ~9,977,842 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.61M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~9.99M chars | ~9,990,916 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.62M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-03 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
 
@@ -165,6 +167,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > Japanese display layer: v2026.06.03-3 reviews `/ja/` from a Japanese-reader perspective and localizes the header, footer, root page, browse / domain / entry chrome, confidence labels, title fallback, and rendered wikilink labels. `localize-wikilinks` now rewrites ja HTML `data-wl` labels to ja i18n titles; the build log reports ja-labels=17603.
 
 > Package metadata: v2026.06.03-4 adds public metadata to the root `package.json`, including version, description, repository, bugs, and homepage fields, aligning npm / GitHub project metadata with the repository entry point.
+
+> AI task entry: v2026.06.03-5 syncs the manually maintained `llms-tasks.txt` to the current snapshot. It remaps 10 dead links (across money-market / derivatives / payments / policy-finance / securities / systems) left by entry renames and reorganizations to their existing targets, and updates the snapshot line to `1,472 files / 1,411 link-audited entries / 23 domains / ~9.99M non-space chars` (2026-06-03 JST). Because `.txt` files fall outside the `wiki:audit` scope these dead links had stayed latent, so all 160 link targets were existence-checked. Adding the release notes moves the corpus from 1,471 to 1,472 files, so the discovery surfaces were regenerated; since a fresh clone resets every fs mtime, page mtimes were first restored from the committed `sitemap.xml` lastmod values, preserving the lastmod of all 1,469 existing pages. `bun tools/release.ts --check --strict` confirms link audit PASS (entries=1411 / issues=0) and counts in sync.
 
 > Site presentation: v2026.06.03-2 changes the human-site CSS tokens from warm paper / ochre tones to cool gray surfaces, teal-blue primary actions, and restrained secondary colors. The practical theme template is the custom-property block in `site/src/styles/global.css` under `:root` and `[data-theme="dark"]`.
 
@@ -282,12 +286,12 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1471 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1472 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约998万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,977,842） |
-| Word-like tokens | 约161万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约999万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,990,916） |
+| Word-like tokens | 约162万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
 
@@ -296,6 +300,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > 日文显示层：v2026.06.03-3 从日语用户视角重新检查 `/ja/`，把 header / footer / root page / browse / domain / entry chrome、confidence 显示、标题 fallback、构建后的 wikilink 显示标签改为日文。`localize-wikilinks` 现在会把 ja HTML 的 `data-wl` label 替换成 ja i18n title；build log 显示 ja-labels=17603。
 
 > package metadata：v2026.06.03-4 在 root `package.json` 中补充 version、description、repository、bugs、homepage 等公开元数据，让 npm / GitHub 项目元信息与仓库入口一致。
+
+> AI 任务入口：v2026.06.03-5 把手动维护的 `llms-tasks.txt` 同步到当前快照。将 entry 改名 / 重组遗留的 10 个死链（涉及 money-market / derivatives / payments / policy-finance / securities / systems）逐个重映射到现存目标，并把 Snapshot 行更新为 `1,472 files / 1,411 link-audited entries / 23 domains / ~9.99M non-space chars`（2026-06-03 JST）。由于 `.txt` 不在 `wiki:audit` 范围内、这些死链此前一直潜伏，本次对全部 160 个 link target 做了实在性核对。新增 release notes 使 corpus 从 1,471 增至 1,472 files，因此重新生成了 discovery surface；由于 fresh clone 会重置所有 fs mtime，本次先从已提交的 `sitemap.xml` lastmod 恢复各页面 mtime 再重新生成，保持了既有 1,469 个页面的 lastmod。`bun tools/release.ts --check --strict` 确认 link audit PASS（entries=1411 / issues=0）、counts in sync。
 
 > 站点视觉主题：v2026.06.03-2 将 human site 的 CSS token 从暖纸面 / 赭色系改为冷灰纸面、青蓝 primary action 和低饱和辅助色。实际可复用的 theme template 是 `site/src/styles/global.css` 中 `:root` 与 `[data-theme="dark"]` 的 custom properties。
 

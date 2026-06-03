@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-03T13:49:29+09:00
+Generated: 2026-06-03T15:10:00+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1471
-Public pages listed: 1470
+Markdown files: 1472
+Public pages listed: 1471
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1470
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, package metadata の公開同期 / Public package metadata sync / package metadata 公开同步, 日本語サイト表示層の英語残留修正 / Japanese-site display-layer English residue cleanup / 日文站点显示层英文残留修正
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, AI タスク入口の死リンク修正とスナップショット同期 / AI task-entry dead-link repair and snapshot sync / AI 任务入口死链修复与快照同步, package metadata の公開同期 / Public package metadata sync / package metadata 公开同步
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13207,6 +13207,14 @@ Public pages listed: 1470
 - Type: release_note
 - Headings: package metadata の公開同期, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### AI タスク入口の死リンク修正とスナップショット同期
+- URL: https://finwiki.zksc.io/releases/v2026.06.03-5
+- Source path: releases/v2026.06.03-5.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-5.md
+- Domain: releases
+- Type: release_note
+- Headings: AI タスク入口の死リンク修正とスナップショット同期, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 日本語 i18n 翻訳層の全量追加
 - URL: https://finwiki.zksc.io/releases/v2026.06.03
 - Source path: releases/v2026.06.03.md
@@ -14172,7 +14180,7 @@ Public pages listed: 1470
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/systems/cross-chain-five-pole-comparison-matrix.md
 - Domain: systems
 - Type: wiki_entry
-- Summary: title: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元 aliases: [cross chain five pole comparison matrix, cctp ccip layerzero hyperlane wormhole comparison, bridge protocol nine dimensions matrix] domain: systems created: 2026-05-24 lastupdated: 2026-05-26 lasttended
+- Summary: このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl
 - Headings: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/fintech/usd-stablecoin-interchange, https://finwiki.zksc.io/systems/INDEX, https://finwiki.zksc.io/systems/cctp-v2-overview, https://finwiki.zksc.io/systems/cctp-v2-vs-canton, https://finwiki.zksc.io/systems/chainlink-ccip-institutional-messaging, https://finwiki.zksc.io/systems/cross-chain-four-poles-overview, https://finwiki.zksc.io/systems/cross-chain-four-poles-selection-decision, https://finwiki.zksc.io/systems/hyperlane-overview, https://finwiki.zksc.io/systems/hyperlane-vs-layerzero-ccip, https://finwiki.zksc.io/systems/layerzero-v2-omnichain-messaging
 
