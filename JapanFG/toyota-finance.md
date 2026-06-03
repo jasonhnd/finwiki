@@ -23,7 +23,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 
 ## Overview
 
-トヨタファイナンス株式会社 is the domestic core finance company of the [[manufacturing/toyota-motor|Toyota Motor]] group and a wholly owned subsidiary of [[JapanFG/toyota-financial|Toyota Financial Services]]. Its official company profile states that it provides financial businesses such as sales finance and credit cards.
+トヨタファイナンス株式会社 is the domestic core finance company of the [[manufacturer-finance/toyota-motor|Toyota Motor]] group and a wholly owned subsidiary of [[JapanFG/toyota-financial|Toyota Financial Services]]. Its official company profile states that it provides financial businesses such as sales finance and credit cards.
 
 This page splits the Japan operating company from the global TFS holding page. That separation matters because Toyota Finance is where domestic auto credit, dealer-linked finance, card products, and customer-facing financial services converge.
 
@@ -34,7 +34,7 @@ This page splits the Japan operating company from the global TFS holding page. T
 | Legal entity | トヨタファイナンス株式会社 / TOYOTA FINANCE CORPORATION |
 | Established | 1988-11-28 |
 | Shareholder | [[JapanFG/toyota-financial|Toyota Financial Services]] 100% |
-| Parent group | [[manufacturing/toyota-motor|Toyota Motor]] group |
+| Parent group | [[manufacturer-finance/toyota-motor|Toyota Motor]] group |
 | Main lanes | Sales finance, credit card, mobility finance, dealer-linked finance |
 
 ## 2. Business Role
@@ -50,7 +50,7 @@ This page splits the Japan operating company from the global TFS holding page. T
 ## Related
 
 - [[JapanFG/toyota-financial]]
-- [[manufacturing/toyota-motor]]
+- [[manufacturer-finance/toyota-motor]]
 - [[JapanFG/orix-corp]]
 - [[JapanFG/orico]]
 - [[JapanFG/jaccs]]

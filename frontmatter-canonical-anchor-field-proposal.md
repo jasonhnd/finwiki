@@ -124,7 +124,7 @@ If adopted, migration would be **incremental and opt-in**:
 
 1. **Phase 0 (preparatory). — ADOPTED 2026-06-03.** [[SCHEMA]] now documents `canonical_anchor:` as an optional field: a row in the §"Optional / Legacy Fields" table (Type: string; vault-root path to the single source-of-truth anchor entry for a multi-domain entity or mirror page) plus an entry in the §"Canonical Key Order" block immediately after `related`. The field has been set as a manual pilot on two confirmed mirror pairs, with the **JapanFG operating-company page** designated as the canonical anchor in each case and the other-domain page (the secondary/mirror "view") pointing at it:
    - [[insurance/saison-automobile-fire]] → `canonical_anchor: JapanFG/saison-automobile-fire-insurance` (the insurance page is the product/channel deep-dive; [[JapanFG/saison-automobile-fire-insurance]] is the operating-company anchor).
-   - [[manufacturing/toyota-financial-services]] → `canonical_anchor: JapanFG/toyota-financial` (the manufacturing page is the parent-OEM strategy view; [[JapanFG/toyota-financial]] is the entity profile / operating-company anchor).
+   - [[manufacturer-finance/toyota-financial-services]] → `canonical_anchor: JapanFG/toyota-financial` (the manufacturing page is the parent-OEM strategy view; [[JapanFG/toyota-financial]] is the entity profile / operating-company anchor).
 
    Still outstanding from this phase: updating [[entity-mirror-page-policy]] §7 to recommend setting the field on every confirmed mirror pair, and [[cross-domain-anchor-convention]] §6 to mention the field. No code changes were made (`tools/*` untouched).
 2. **Phase 1 (audit-only).** Extend `tools/wiki_link_audit.ts` to:

@@ -187,7 +187,7 @@ Cross-border deals using Japanese 会社分割 to feed into a non-Japanese spin-
 - **Pre-IPO carve-out playbook**: parent uses 適格 新設分割 to put the carve-out business into a 100%-owned newco at historic basis. Newco builds independent management and audit history for 3-5 years. Newco lists via IPO (parent's interest dilutes through primary offering and possible secondary placement) — see [[finance/japan-ib-league-table|Japan IB league table]] for advisory landscape on these structures.
 - **Holding-company conversion**: parent uses 新設分割 to spin operating business into operating newco, leaving parent as pure HoldCo. 適格 treatment makes this routinely tax-neutral.
 - **Loss carryforward limitation matters**: the anti-trafficking provisions in Corporation Tax Act art. 57-3 restrict the use of loss carryforwards after qualified splits if specified ownership-change tests trigger. This is a quiet but consequential constraint in distressed restructurings.
-- **Workforce-heavy splits hinge on procedure**: the [[governance/INDEX|governance]] cost of a 会社分割 with thousands of transferring employees is dominated by 7条措置 + 5条協議 execution, not by tax structuring. Plan with HR and legal jointly from day one.
+- **Workforce-heavy splits hinge on procedure**: the [[non-profit/INDEX|governance]] cost of a 会社分割 with thousands of transferring employees is dominated by 7条措置 + 5条協議 execution, not by tax structuring. Plan with HR and legal jointly from day one.
 
 ## Related
 

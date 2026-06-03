@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T17:25:14+09:00",
+  "generated_at": "2026-06-03T18:09:39+09:00",
   "counts": {
-    "markdown_files": 1484,
-    "public_markdown_pages": 1483,
-    "site_urls_in_sitemap": 1484,
+    "markdown_files": 1485,
+    "public_markdown_pages": 1484,
+    "site_urls_in_sitemap": 1485,
     "topical_domains": 23,
     "link_audited_entries": 1420,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10079420,
-    "word_like_tokens": 1629649
+    "nonspace_utf8_chars": 10094949,
+    "word_like_tokens": 1632339
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -115,18 +115,18 @@
       "scope": "Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure."
     },
     {
-      "domain": "governance",
+      "domain": "non-profit",
       "entries": 4,
-      "route": "governance/INDEX",
-      "url": "https://finwiki.zksc.io/governance/INDEX",
-      "scope": "Public legal and grant information for Japanese foundations and research grants."
+      "route": "non-profit/INDEX",
+      "url": "https://finwiki.zksc.io/non-profit/INDEX",
+      "scope": "Japanese non-profit / public-interest legal structures (foundations, associations, NPOs) and research-grant information. Corporate / listed-company governance lives in finance / securities / exchanges."
     },
     {
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entries": 8,
-      "route": "manufacturing/INDEX",
-      "url": "https://finwiki.zksc.io/manufacturing/INDEX",
-      "scope": "Manufacturing companies relevant to finance, regional banks, and captive finance."
+      "route": "manufacturer-finance/INDEX",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "scope": "Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance."
     },
     {
       "domain": "retail",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-03",
+        "領域物理改名 governance→non-profit・manufacturing→manufacturer-finance / Domain physical rename governance→non-profit, manufacturing→manufacturer-finance / 领域物理改名 governance→non-profit、manufacturing→manufacturer-finance",
         "canonicalanchor 全量 back-fill と Phase 1 report-only audit / canonicalanchor back-fill and Phase 1 report-only audit / canonical_anchor 全量 back-fill 与 Phase 1 report-only audit",
         "領域再定位・JapanFG sub-INDEX・canonicalanchor Phase 0 / Domain rescope, JapanFG sub-indexes, canonicalanchor Phase 0 / 领域再定位、JapanFG sub-INDEX、canonical_anchor Phase 0",
-        "全領域 INDEX 同期と meta 文書整理 / Domain-INDEX sync and meta-doc cleanup / 全领域 INDEX 同步与 meta 文档整理",
-        "AI タスク入口の死リンク修正とスナップショット同期 / AI task-entry dead-link repair and snapshot sync / AI 任务入口死链修复与快照同步"
+        "全領域 INDEX 同期と meta 文書整理 / Domain-INDEX sync and meta-doc cleanup / 全领域 INDEX 同步与 meta 文档整理"
       ],
       "wikilinks": [
         "...",
@@ -466,10 +466,11 @@
         "https://finwiki.zksc.io/JapanFG/nippon-kaiji-kyokai"
       ],
       "markdown_links": [
+        "governance/...",
         "origin repository"
       ],
-      "nonspace_chars": 490906,
-      "word_like_tokens": 87137,
+      "nonspace_chars": 495956,
+      "word_like_tokens": 88012,
       "last_modified": "2026-06-03"
     },
     {
@@ -554,7 +555,6 @@
         "fintech/japan-epi-three-types-overview",
         "fintech/mica-overview",
         "fintech/usd-stablecoin-issuer-eight-way-matrix",
-        "governance/INDEX",
         "insurance/INDEX",
         "insurance/bancassurance-economics-japan",
         "insurance/earthquake-insurance-public-private-scheme",
@@ -568,11 +568,12 @@
         "llms-full.txt",
         "llms.txt",
         "loyalty/INDEX",
-        "manufacturing/INDEX",
+        "manufacturer-finance/INDEX",
         "money-market/INDEX",
         "money-market/boj-open-market-operations",
         "money-market/japan-money-market",
         "money-market/jgb-repo-market-japan",
+        "non-profit/INDEX",
         "payments/INDEX",
         "payments/cashless-jp-landscape",
         "payments/japan-code-payment-operator-2025-market-share-matrix",
@@ -667,7 +668,6 @@
         "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
         "https://finwiki.zksc.io/fintech/mica-overview",
         "https://finwiki.zksc.io/fintech/usd-stablecoin-issuer-eight-way-matrix",
-        "https://finwiki.zksc.io/governance/INDEX",
         "https://finwiki.zksc.io/insurance/INDEX",
         "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
         "https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme",
@@ -681,15 +681,16 @@
         "https://finwiki.zksc.io/llms-full.txt",
         "https://finwiki.zksc.io/llms.txt",
         "https://finwiki.zksc.io/loyalty/INDEX",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
         "https://finwiki.zksc.io/money-market/INDEX",
         "https://finwiki.zksc.io/money-market/boj-open-market-operations",
         "https://finwiki.zksc.io/money-market/japan-money-market",
-        "https://finwiki.zksc.io/money-market/jgb-repo-market-japan"
+        "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+        "https://finwiki.zksc.io/non-profit/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 18537,
-      "word_like_tokens": 2839,
+      "nonspace_chars": 18544,
+      "word_like_tokens": 2841,
       "last_modified": "2026-06-03"
     },
     {
@@ -726,11 +727,11 @@
         "finance/INDEX",
         "fintech/INDEX",
         "fintech/mica-overview",
-        "governance/INDEX",
         "insurance/INDEX",
         "loyalty/INDEX",
-        "manufacturing/INDEX",
+        "manufacturer-finance/INDEX",
         "money-market/INDEX",
+        "non-profit/INDEX",
         "payments/INDEX",
         "policy-finance/INDEX",
         "real-estate-finance/INDEX",
@@ -758,11 +759,11 @@
         "https://finwiki.zksc.io/finance/INDEX",
         "https://finwiki.zksc.io/fintech/INDEX",
         "https://finwiki.zksc.io/fintech/mica-overview",
-        "https://finwiki.zksc.io/governance/INDEX",
         "https://finwiki.zksc.io/insurance/INDEX",
         "https://finwiki.zksc.io/loyalty/INDEX",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
         "https://finwiki.zksc.io/money-market/INDEX",
+        "https://finwiki.zksc.io/non-profit/INDEX",
         "https://finwiki.zksc.io/payments/INDEX",
         "https://finwiki.zksc.io/policy-finance/INDEX",
         "https://finwiki.zksc.io/real-estate-finance/INDEX",
@@ -794,13 +795,13 @@
         "finance/INDEX",
         "fintech/INDEX",
         "frontmatter-canonical-anchor-field-proposal.md",
-        "governance/INDEX",
         "insurance/INDEX",
         "llms-full.txt",
         "llms.txt",
         "loyalty/INDEX",
-        "manufacturing/INDEX",
+        "manufacturer-finance/INDEX",
         "money-market/INDEX",
+        "non-profit/INDEX",
         "payments/INDEX",
         "policy-finance/INDEX",
         "real-estate-finance/INDEX",
@@ -815,8 +816,8 @@
         "trade/INDEX",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 10957,
-      "word_like_tokens": 1635,
+      "nonspace_chars": 11170,
+      "word_like_tokens": 1666,
       "last_modified": "2026-06-03"
     },
     {
@@ -9906,7 +9907,7 @@
         "JapanFG/hogaraka-trust",
         "JapanFG/trust-companies-japan-index",
         "banking/japan-trust-bank-custody-map",
-        "governance/japan-general-foundation-establishment-requirements"
+        "non-profit/japan-general-foundation-establishment-requirements"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
@@ -9914,12 +9915,12 @@
         "https://finwiki.zksc.io/JapanFG/hogaraka-trust",
         "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
         "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-        "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements"
+        "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements"
       ],
       "markdown_links": [],
       "nonspace_chars": 3132,
-      "word_like_tokens": 465,
-      "last_modified": "2026-05-22"
+      "word_like_tokens": 467,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "JapanFG/fukushima-bank.md",
@@ -10675,7 +10676,7 @@
         "fukuoka-fg",
         "hachijuni-nagano-bank",
         "hokuhoku-fg",
-        "manufacturing/seiko-epson",
+        "manufacturer-finance/seiko-epson",
         "mebuki-fg",
         "mizuho-fg",
         "mufg",
@@ -10692,7 +10693,7 @@
         "https://finwiki.zksc.io/fukuoka-fg",
         "https://finwiki.zksc.io/hachijuni-nagano-bank",
         "https://finwiki.zksc.io/hokuhoku-fg",
-        "https://finwiki.zksc.io/manufacturing/seiko-epson",
+        "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
         "https://finwiki.zksc.io/mebuki-fg",
         "https://finwiki.zksc.io/mizuho-fg",
         "https://finwiki.zksc.io/mufg",
@@ -10700,9 +10701,9 @@
         "https://finwiki.zksc.io/smfg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4552,
-      "word_like_tokens": 710,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4559,
+      "word_like_tokens": 711,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "JapanFG/hachijuni-nagano-bank.md",
@@ -28157,7 +28158,7 @@
         "JapanFG/starts-trust",
         "JapanFG/trust-companies-japan-index",
         "banking/japan-trust-bank-custody-map",
-        "manufacturing/INDEX",
+        "manufacturer-finance/INDEX",
         "policy-finance/japan-housing-finance-agency"
       ],
       "resolved_wikilinks": [
@@ -28167,13 +28168,13 @@
         "https://finwiki.zksc.io/JapanFG/starts-trust",
         "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
         "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
         "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3215,
-      "word_like_tokens": 502,
-      "last_modified": "2026-05-22"
+      "nonspace_chars": 3222,
+      "word_like_tokens": 503,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "JapanFG/sendai-bank.md",
@@ -33204,7 +33205,7 @@
         "JapanFG/orico",
         "JapanFG/orix-corp",
         "JapanFG/toyota-financial",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/toyota-motor",
         "payments/credit-purchase-card-operators-japan-index"
       ],
       "resolved_wikilinks": [
@@ -33213,13 +33214,13 @@
         "https://finwiki.zksc.io/JapanFG/orico",
         "https://finwiki.zksc.io/JapanFG/orix-corp",
         "https://finwiki.zksc.io/JapanFG/toyota-financial",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2804,
-      "word_like_tokens": 433,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2825,
+      "word_like_tokens": 436,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "JapanFG/toyota-financial.md",
@@ -33245,7 +33246,7 @@
         "JapanFG/INDEX",
         "JapanFG/mufg",
         "banking/INDEX",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/toyota-motor",
         "mufg",
         "orix-corp",
         "tokyo-century"
@@ -33254,15 +33255,15 @@
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/banking/INDEX",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/mufg",
         "https://finwiki.zksc.io/orix-corp",
         "https://finwiki.zksc.io/tokyo-century"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4373,
-      "word_like_tokens": 693,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 4387,
+      "word_like_tokens": 695,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "JapanFG/toyota-tsusho-corp.md",
@@ -35686,7 +35687,7 @@
         "llms-full.txt",
         "llms.txt",
         "loyalty/",
-        "manufacturing/",
+        "manufacturer-finance/",
         "money-market/",
         "payments/",
         "policy-finance/",
@@ -35701,8 +35702,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 42855,
-      "word_like_tokens": 7224,
+      "nonspace_chars": 45641,
+      "word_like_tokens": 7725,
       "last_modified": "2026-06-03"
     },
     {
@@ -42109,7 +42110,7 @@
         "finance/japan-mbo-and-squeeze-out-process",
         "finance/japan-tender-offer-process",
         "finance/multi-jurisdiction-identity-tax-leverage",
-        "governance/INDEX"
+        "non-profit/INDEX"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
@@ -42122,12 +42123,12 @@
         "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
         "https://finwiki.zksc.io/finance/japan-tender-offer-process",
         "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-        "https://finwiki.zksc.io/governance/INDEX"
+        "https://finwiki.zksc.io/non-profit/INDEX"
       ],
       "markdown_links": [],
       "nonspace_chars": 14646,
-      "word_like_tokens": 2404,
-      "last_modified": "2026-05-29"
+      "word_like_tokens": 2405,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
@@ -62832,7 +62833,7 @@
         "fintech/jpm-onyx-wholesale-network",
         "fintech/jpmorgan-jpmd-coin",
         "insurance/saison-automobile-fire",
-        "manufacturing/toyota-financial-services",
+        "manufacturer-finance/toyota-financial-services",
         "topic-cluster-reference",
         "wiki-link-improvement-plan"
       ],
@@ -62853,190 +62854,14 @@
         "https://finwiki.zksc.io/fintech/jpm-onyx-wholesale-network",
         "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
         "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-        "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
         "https://finwiki.zksc.io/topic-cluster-reference",
         "https://finwiki.zksc.io/wiki-link-improvement-plan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 12223,
-      "word_like_tokens": 2101,
+      "nonspace_chars": 12230,
+      "word_like_tokens": 2102,
       "last_modified": "2026-06-03"
-    },
-    {
-      "source_path": "governance/INDEX.md",
-      "url": "https://finwiki.zksc.io/governance/INDEX",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/governance/INDEX.md",
-      "title": "Governance domain",
-      "domain": "governance",
-      "entry_type": "domain_index",
-      "summary": "This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational refer",
-      "headings": [
-        "Governance domain",
-        "TL;DR",
-        "Entries",
-        "Start here",
-        "Research control",
-        "Related domains",
-        "Backlog",
-        "Sources"
-      ],
-      "wikilinks": [
-        "INDEX",
-        "JapanFG/INDEX",
-        "exchanges/INDEX",
-        "finance/INDEX",
-        "governance/japan-general-foundation-establishment-requirements",
-        "governance/japan-general-foundation-establishment-requirements\\",
-        "governance/japan-koeki-vs-general-zaidan-comparison",
-        "governance/japan-koeki-vs-general-zaidan-comparison\\",
-        "governance/japan-research-grant-map-2026",
-        "governance/japan-research-grant-map-2026\\",
-        "policy-finance/INDEX",
-        "securities/INDEX"
-      ],
-      "resolved_wikilinks": [
-        "https://finwiki.zksc.io/INDEX",
-        "https://finwiki.zksc.io/JapanFG/INDEX",
-        "https://finwiki.zksc.io/exchanges/INDEX",
-        "https://finwiki.zksc.io/finance/INDEX",
-        "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
-        "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements\\",
-        "https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison",
-        "https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison\\",
-        "https://finwiki.zksc.io/governance/japan-research-grant-map-2026",
-        "https://finwiki.zksc.io/governance/japan-research-grant-map-2026\\",
-        "https://finwiki.zksc.io/policy-finance/INDEX",
-        "https://finwiki.zksc.io/securities/INDEX"
-      ],
-      "markdown_links": [],
-      "nonspace_chars": 5535,
-      "word_like_tokens": 909,
-      "last_modified": "2026-06-03"
-    },
-    {
-      "source_path": "governance/japan-general-foundation-establishment-requirements.md",
-      "url": "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/governance/japan-general-foundation-establishment-requirements.md",
-      "title": "日本 一般財団法人 設立要件・プロセス",
-      "domain": "governance",
-      "entry_type": "wiki_entry",
-      "summary": "This entry sits under 日本 研究助成金 map（2026 年度） and should be read with FinWiki index.",
-      "headings": [
-        "日本 一般財団法人 設立要件・プロセス",
-        "Wiki route",
-        "法的根拠",
-        "必要機関（全て強制）",
-        "兼任禁止（重要）",
-        "財産要件",
-        "任期",
-        "理事会開催頻度の実質要件",
-        "設立費用（ミニマム）",
-        "標準設立期間：1〜2 ヶ月"
-      ],
-      "wikilinks": [
-        "INDEX",
-        "JapanFG/INDEX",
-        "business/INDEX",
-        "finance/INDEX",
-        "fintech/japan-financial-regulation",
-        "governance/japan-research-grant-map-2026",
-        "policy-finance/INDEX"
-      ],
-      "resolved_wikilinks": [
-        "https://finwiki.zksc.io/INDEX",
-        "https://finwiki.zksc.io/JapanFG/INDEX",
-        "https://finwiki.zksc.io/business/INDEX",
-        "https://finwiki.zksc.io/finance/INDEX",
-        "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-        "https://finwiki.zksc.io/governance/japan-research-grant-map-2026",
-        "https://finwiki.zksc.io/policy-finance/INDEX"
-      ],
-      "markdown_links": [],
-      "nonspace_chars": 2557,
-      "word_like_tokens": 462,
-      "last_modified": "2026-05-24"
-    },
-    {
-      "source_path": "governance/japan-koeki-vs-general-zaidan-comparison.md",
-      "url": "https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/governance/japan-koeki-vs-general-zaidan-comparison.md",
-      "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
-      "domain": "governance",
-      "entry_type": "wiki_entry",
-      "summary": "This entry sits under governance INDEX and routes into corporate-strategy INDEX for entity selection in mission-driven structures. Read with Japan 一般財団法人 establishment requirements for the foundation-mechanics detail and Japan research grant map 2026 for the downstream grant-eligibility question.",
-      "headings": [
-        "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
-        "Wiki route",
-        "TL;DR",
-        "Side-by-Side Comparison Table",
-        "Choosing Between Foundation and Association",
-        "When Public-Interest 公益 Status Matters",
-        "NPO法人 — Different Statute, Different Logic",
-        "A Decision Tree",
-        "Governance Comparison — Required Organs",
-        "Tax Treatment in More Detail"
-      ],
-      "wikilinks": [
-        "INDEX",
-        "corporate-strategy/INDEX",
-        "governance/INDEX",
-        "governance/japan-general-foundation-establishment-requirements",
-        "governance/japan-research-grant-map-2026"
-      ],
-      "resolved_wikilinks": [
-        "https://finwiki.zksc.io/INDEX",
-        "https://finwiki.zksc.io/corporate-strategy/INDEX",
-        "https://finwiki.zksc.io/governance/INDEX",
-        "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
-        "https://finwiki.zksc.io/governance/japan-research-grant-map-2026"
-      ],
-      "markdown_links": [],
-      "nonspace_chars": 12961,
-      "word_like_tokens": 2131,
-      "last_modified": "2026-05-29"
-    },
-    {
-      "source_path": "governance/japan-research-grant-map-2026.md",
-      "url": "https://finwiki.zksc.io/governance/japan-research-grant-map-2026",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/governance/japan-research-grant-map-2026.md",
-      "title": "日本 研究助成金 map（2026 年度）",
-      "domain": "governance",
-      "entry_type": "wiki_entry",
-      "summary": "This entry sits under 日本 一般財団法人 設立要件・プロセス and should be read with FinWiki index.",
-      "headings": [
-        "日本 研究助成金 map（2026 年度）",
-        "Wiki route",
-        "主要候補（2026 年度）",
-        "重要注意",
-        "1. 金額は年度ごとに変動する",
-        "2. 「1 件あたり上限額」の記載がない場合",
-        "3. 応募期間は 12 月〜翌 4 月に集中",
-        "適用案",
-        "関連 wiki",
-        "来源"
-      ],
-      "wikilinks": [
-        "INDEX",
-        "JapanFG/INDEX",
-        "business/INDEX",
-        "finance/INDEX",
-        "governance/japan-general-foundation-establishment-requirements",
-        "policy-finance/INDEX",
-        "policy-finance/japan-student-services-organization"
-      ],
-      "resolved_wikilinks": [
-        "https://finwiki.zksc.io/INDEX",
-        "https://finwiki.zksc.io/JapanFG/INDEX",
-        "https://finwiki.zksc.io/business/INDEX",
-        "https://finwiki.zksc.io/finance/INDEX",
-        "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
-        "https://finwiki.zksc.io/policy-finance/INDEX",
-        "https://finwiki.zksc.io/policy-finance/japan-student-services-organization"
-      ],
-      "markdown_links": [],
-      "nonspace_chars": 2777,
-      "word_like_tokens": 424,
-      "last_modified": "2026-05-24"
     },
     {
       "source_path": "insurance/INDEX.md",
@@ -66501,13 +66326,13 @@
       "last_modified": "2026-05-29"
     },
     {
-      "source_path": "manufacturing/INDEX.md",
-      "url": "https://finwiki.zksc.io/manufacturing/INDEX",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/INDEX.md",
+      "source_path": "manufacturer-finance/INDEX.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/INDEX.md",
       "title": "manufacturing — Japanese manufacturing company index",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "domain_index",
-      "summary": "manufacturing/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-finance: the captive, vendor, and export-finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind — not a general manufacturer encyclopedi",
+      "summary": "manufacturer-finance/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-finance: the captive, vendor, and export-finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind — not a general manufacturer ency",
       "headings": [
         "manufacturing — Japanese manufacturing company index",
         "TL;DR",
@@ -66524,13 +66349,13 @@
         "JapanFG/toyota-financial",
         "banking/INDEX",
         "finance/INDEX",
-        "manufacturing/hitachi-industrial-finance-platform",
-        "manufacturing/mitsubishi-heavy-export-finance",
-        "manufacturing/panasonic-captive-finance",
-        "manufacturing/seiko-epson",
-        "manufacturing/sony-group-finance-arm",
-        "manufacturing/toyota-financial-services",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/hitachi-industrial-finance-platform",
+        "manufacturer-finance/mitsubishi-heavy-export-finance",
+        "manufacturer-finance/panasonic-captive-finance",
+        "manufacturer-finance/seiko-epson",
+        "manufacturer-finance/sony-group-finance-arm",
+        "manufacturer-finance/toyota-financial-services",
+        "manufacturer-finance/toyota-motor",
         "structured-finance/INDEX"
       ],
       "resolved_wikilinks": [
@@ -66540,26 +66365,26 @@
         "https://finwiki.zksc.io/JapanFG/toyota-financial",
         "https://finwiki.zksc.io/banking/INDEX",
         "https://finwiki.zksc.io/finance/INDEX",
-        "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
-        "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
-        "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
-        "https://finwiki.zksc.io/manufacturing/seiko-epson",
-        "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
-        "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+        "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+        "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/structured-finance/INDEX"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3661,
-      "word_like_tokens": 518,
+      "nonspace_chars": 3724,
+      "word_like_tokens": 527,
       "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/hitachi-industrial-finance-platform.md",
-      "url": "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/hitachi-industrial-finance-platform.md",
+      "source_path": "manufacturer-finance/hitachi-industrial-finance-platform.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/hitachi-industrial-finance-platform.md",
       "title": "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and JapanFG index for the broader system / r",
       "headings": [
@@ -66585,12 +66410,12 @@
         "JapanFG/orix-corp",
         "JapanFG/smfg",
         "JapanFG/tokyo-century",
-        "manufacturing/INDEX",
-        "manufacturing/mitsubishi-heavy-export-finance",
-        "manufacturing/panasonic-captive-finance",
-        "manufacturing/sony-group-finance-arm",
-        "manufacturing/toyota-financial-services",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/mitsubishi-heavy-export-finance",
+        "manufacturer-finance/panasonic-captive-finance",
+        "manufacturer-finance/sony-group-finance-arm",
+        "manufacturer-finance/toyota-financial-services",
+        "manufacturer-finance/toyota-motor",
         "policy-finance/nexi"
       ],
       "resolved_wikilinks": [
@@ -66604,25 +66429,25 @@
         "https://finwiki.zksc.io/JapanFG/orix-corp",
         "https://finwiki.zksc.io/JapanFG/smfg",
         "https://finwiki.zksc.io/JapanFG/tokyo-century",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
-        "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
-        "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
-        "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/policy-finance/nexi"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5798,
-      "word_like_tokens": 913,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5861,
+      "word_like_tokens": 922,
+      "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/mitsubishi-heavy-export-finance.md",
-      "url": "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/mitsubishi-heavy-export-finance.md",
+      "source_path": "manufacturer-finance/mitsubishi-heavy-export-finance.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/mitsubishi-heavy-export-finance.md",
       "title": "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Panasonic 顧客金融, Sony FG, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with JBIC・NEXI for the policy-finance counterpart, JETRO vs NEXI vs JBIC for the export-support stack overview, and 三菱商事",
       "headings": [
@@ -66646,13 +66471,13 @@
         "JapanFG/mizuho-fg",
         "JapanFG/mufg",
         "JapanFG/smfg",
-        "manufacturing/INDEX",
-        "manufacturing/hitachi-industrial-finance-platform",
-        "manufacturing/panasonic-captive-finance",
-        "manufacturing/seiko-epson",
-        "manufacturing/sony-group-finance-arm",
-        "manufacturing/toyota-financial-services",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/hitachi-industrial-finance-platform",
+        "manufacturer-finance/panasonic-captive-finance",
+        "manufacturer-finance/seiko-epson",
+        "manufacturer-finance/sony-group-finance-arm",
+        "manufacturer-finance/toyota-financial-services",
+        "manufacturer-finance/toyota-motor",
         "policy-finance/nexi",
         "trade/jetro-vs-nexi-vs-jbic-comparison"
       ],
@@ -66665,27 +66490,27 @@
         "https://finwiki.zksc.io/JapanFG/mizuho-fg",
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/smfg",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
-        "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
-        "https://finwiki.zksc.io/manufacturing/seiko-epson",
-        "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
-        "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+        "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+        "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/policy-finance/nexi",
         "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6615,
-      "word_like_tokens": 1029,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 6706,
+      "word_like_tokens": 1042,
+      "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/panasonic-captive-finance.md",
-      "url": "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/panasonic-captive-finance.md",
+      "source_path": "manufacturer-finance/panasonic-captive-finance.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/panasonic-captive-finance.md",
       "title": "Panasonic Captive Finance (パナソニック顧客金融)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with SMFL (三井住友ファイナンス&リース) and MUFG for the bank-side counterpart of Panasonic's B2B vendor-finance flows, JapanFG index for t",
       "headings": [
@@ -66709,13 +66534,13 @@
         "JapanFG/orix-corp",
         "JapanFG/smfg",
         "JapanFG/smfl",
-        "manufacturing/INDEX",
-        "manufacturing/hitachi-industrial-finance-platform",
-        "manufacturing/mitsubishi-heavy-export-finance",
-        "manufacturing/seiko-epson",
-        "manufacturing/sony-group-finance-arm",
-        "manufacturing/toyota-financial-services",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/hitachi-industrial-finance-platform",
+        "manufacturer-finance/mitsubishi-heavy-export-finance",
+        "manufacturer-finance/seiko-epson",
+        "manufacturer-finance/sony-group-finance-arm",
+        "manufacturer-finance/toyota-financial-services",
+        "manufacturer-finance/toyota-motor",
         "policy-finance/nexi"
       ],
       "resolved_wikilinks": [
@@ -66727,26 +66552,26 @@
         "https://finwiki.zksc.io/JapanFG/orix-corp",
         "https://finwiki.zksc.io/JapanFG/smfg",
         "https://finwiki.zksc.io/JapanFG/smfl",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
-        "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
-        "https://finwiki.zksc.io/manufacturing/seiko-epson",
-        "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
-        "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+        "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+        "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/policy-finance/nexi"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5690,
-      "word_like_tokens": 893,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 5781,
+      "word_like_tokens": 906,
+      "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/seiko-epson.md",
-      "url": "https://finwiki.zksc.io/manufacturing/seiko-epson",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/seiko-epson.md",
+      "source_path": "manufacturer-finance/seiko-epson.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/seiko-epson.md",
       "title": "Seiko Epson Corporation (セイコーエプソン)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.",
       "headings": [
@@ -66763,26 +66588,26 @@
       "wikilinks": [
         "INDEX",
         "JapanFG/hachijuni-bank",
-        "manufacturing/INDEX",
-        "manufacturing/toyota-motor"
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/toyota-motor"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
         "https://finwiki.zksc.io/JapanFG/hachijuni-bank",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor"
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2397,
-      "word_like_tokens": 341,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2432,
+      "word_like_tokens": 346,
+      "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/sony-group-finance-arm.md",
-      "url": "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/sony-group-finance-arm.md",
+      "source_path": "manufacturer-finance/sony-group-finance-arm.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/sony-group-finance-arm.md",
       "title": "Sony Group Finance Arm (ソニーグループ 金融事業アーム)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index. Read it against Hitachi industrial finance, Panasonic captive finance, Toyota Financial Services, and MHI 輸出金融 for peer industrial-conglomerate finance arms. Pair with ソニーフィナンシャルグループ (SFG) for the entity profile, Sony FG partial spinoff case for the 2025 ca",
       "headings": [
@@ -66806,11 +66631,11 @@
         "JapanFG/sony-life",
         "business/sony-fg-partial-spinoff-case",
         "corporate-strategy/partial-spinoff-tax-deferral",
-        "manufacturing/INDEX",
-        "manufacturing/hitachi-industrial-finance-platform",
-        "manufacturing/mitsubishi-heavy-export-finance",
-        "manufacturing/panasonic-captive-finance",
-        "manufacturing/toyota-financial-services"
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/hitachi-industrial-finance-platform",
+        "manufacturer-finance/mitsubishi-heavy-export-finance",
+        "manufacturer-finance/panasonic-captive-finance",
+        "manufacturer-finance/toyota-financial-services"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
@@ -66821,23 +66646,23 @@
         "https://finwiki.zksc.io/JapanFG/sony-life",
         "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
         "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
-        "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
-        "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
-        "https://finwiki.zksc.io/manufacturing/toyota-financial-services"
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+        "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5326,
-      "word_like_tokens": 877,
+      "nonspace_chars": 5403,
+      "word_like_tokens": 888,
       "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/toyota-financial-services.md",
-      "url": "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/toyota-financial-services.md",
+      "source_path": "manufacturer-finance/toyota-financial-services.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/toyota-financial-services.md",
       "title": "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w",
       "headings": [
@@ -66864,12 +66689,12 @@
         "JapanFG/toyota-finance",
         "JapanFG/toyota-financial",
         "JapanFG/toyota-tsusho-finance",
-        "manufacturing/INDEX",
-        "manufacturing/hitachi-industrial-finance-platform",
-        "manufacturing/mitsubishi-heavy-export-finance",
-        "manufacturing/panasonic-captive-finance",
-        "manufacturing/sony-group-finance-arm",
-        "manufacturing/toyota-motor",
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/hitachi-industrial-finance-platform",
+        "manufacturer-finance/mitsubishi-heavy-export-finance",
+        "manufacturer-finance/panasonic-captive-finance",
+        "manufacturer-finance/sony-group-finance-arm",
+        "manufacturer-finance/toyota-motor",
         "structured-finance/auto-loan-abs-japan-toyota-honda"
       ],
       "resolved_wikilinks": [
@@ -66884,25 +66709,25 @@
         "https://finwiki.zksc.io/JapanFG/toyota-finance",
         "https://finwiki.zksc.io/JapanFG/toyota-financial",
         "https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
-        "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
-        "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
-        "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
-        "https://finwiki.zksc.io/manufacturing/toyota-motor",
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+        "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+        "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+        "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
         "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7043,
-      "word_like_tokens": 1098,
+      "nonspace_chars": 7141,
+      "word_like_tokens": 1112,
       "last_modified": "2026-06-03"
     },
     {
-      "source_path": "manufacturing/toyota-motor.md",
-      "url": "https://finwiki.zksc.io/manufacturing/toyota-motor",
-      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturing/toyota-motor.md",
+      "source_path": "manufacturer-finance/toyota-motor.md",
+      "url": "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/toyota-motor.md",
       "title": "Toyota Motor Corporation (トヨタ自動車)",
-      "domain": "manufacturing",
+      "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "summary": "This entry sits under manufacturing index. Read it against Seiko Epson Corporation (セイコーエプソン) for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
       "headings": [
@@ -66923,8 +66748,8 @@
         "JapanFG/mufg",
         "JapanFG/smfg",
         "JapanFG/toyota-financial",
-        "manufacturing/INDEX",
-        "manufacturing/seiko-epson"
+        "manufacturer-finance/INDEX",
+        "manufacturer-finance/seiko-epson"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX",
@@ -66933,13 +66758,13 @@
         "https://finwiki.zksc.io/JapanFG/mufg",
         "https://finwiki.zksc.io/JapanFG/smfg",
         "https://finwiki.zksc.io/JapanFG/toyota-financial",
-        "https://finwiki.zksc.io/manufacturing/INDEX",
-        "https://finwiki.zksc.io/manufacturing/seiko-epson"
+        "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+        "https://finwiki.zksc.io/manufacturer-finance/seiko-epson"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2804,
-      "word_like_tokens": 430,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2832,
+      "word_like_tokens": 434,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "money-market/INDEX.md",
@@ -67757,6 +67582,182 @@
       "nonspace_chars": 9500,
       "word_like_tokens": 1578,
       "last_modified": "2026-05-29"
+    },
+    {
+      "source_path": "non-profit/INDEX.md",
+      "url": "https://finwiki.zksc.io/non-profit/INDEX",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/INDEX.md",
+      "title": "Governance domain",
+      "domain": "non-profit",
+      "entry_type": "domain_index",
+      "summary": "This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational refer",
+      "headings": [
+        "Governance domain",
+        "TL;DR",
+        "Entries",
+        "Start here",
+        "Research control",
+        "Related domains",
+        "Backlog",
+        "Sources"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/INDEX",
+        "exchanges/INDEX",
+        "finance/INDEX",
+        "non-profit/japan-general-foundation-establishment-requirements",
+        "non-profit/japan-general-foundation-establishment-requirements\\",
+        "non-profit/japan-koeki-vs-general-zaidan-comparison",
+        "non-profit/japan-koeki-vs-general-zaidan-comparison\\",
+        "non-profit/japan-research-grant-map-2026",
+        "non-profit/japan-research-grant-map-2026\\",
+        "policy-finance/INDEX",
+        "securities/INDEX"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/exchanges/INDEX",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+        "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements\\",
+        "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+        "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison\\",
+        "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
+        "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026\\",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/securities/INDEX"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5535,
+      "word_like_tokens": 916,
+      "last_modified": "2026-06-03"
+    },
+    {
+      "source_path": "non-profit/japan-general-foundation-establishment-requirements.md",
+      "url": "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-general-foundation-establishment-requirements.md",
+      "title": "日本 一般財団法人 設立要件・プロセス",
+      "domain": "non-profit",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under 日本 研究助成金 map（2026 年度） and should be read with FinWiki index.",
+      "headings": [
+        "日本 一般財団法人 設立要件・プロセス",
+        "Wiki route",
+        "法的根拠",
+        "必要機関（全て強制）",
+        "兼任禁止（重要）",
+        "財産要件",
+        "任期",
+        "理事会開催頻度の実質要件",
+        "設立費用（ミニマム）",
+        "標準設立期間：1〜2 ヶ月"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/INDEX",
+        "business/INDEX",
+        "finance/INDEX",
+        "fintech/japan-financial-regulation",
+        "non-profit/japan-research-grant-map-2026",
+        "policy-finance/INDEX"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/business/INDEX",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+        "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
+        "https://finwiki.zksc.io/policy-finance/INDEX"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 2557,
+      "word_like_tokens": 466,
+      "last_modified": "2026-06-03"
+    },
+    {
+      "source_path": "non-profit/japan-koeki-vs-general-zaidan-comparison.md",
+      "url": "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-vs-general-zaidan-comparison.md",
+      "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
+      "domain": "non-profit",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under governance INDEX and routes into corporate-strategy INDEX for entity selection in mission-driven structures. Read with Japan 一般財団法人 establishment requirements for the foundation-mechanics detail and Japan research grant map 2026 for the downstream grant-eligibility question.",
+      "headings": [
+        "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
+        "Wiki route",
+        "TL;DR",
+        "Side-by-Side Comparison Table",
+        "Choosing Between Foundation and Association",
+        "When Public-Interest 公益 Status Matters",
+        "NPO法人 — Different Statute, Different Logic",
+        "A Decision Tree",
+        "Governance Comparison — Required Organs",
+        "Tax Treatment in More Detail"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "corporate-strategy/INDEX",
+        "non-profit/INDEX",
+        "non-profit/japan-general-foundation-establishment-requirements",
+        "non-profit/japan-research-grant-map-2026"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/corporate-strategy/INDEX",
+        "https://finwiki.zksc.io/non-profit/INDEX",
+        "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+        "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 12961,
+      "word_like_tokens": 2141,
+      "last_modified": "2026-06-03"
+    },
+    {
+      "source_path": "non-profit/japan-research-grant-map-2026.md",
+      "url": "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-research-grant-map-2026.md",
+      "title": "日本 研究助成金 map（2026 年度）",
+      "domain": "non-profit",
+      "entry_type": "wiki_entry",
+      "summary": "This entry sits under 日本 一般財団法人 設立要件・プロセス and should be read with FinWiki index.",
+      "headings": [
+        "日本 研究助成金 map（2026 年度）",
+        "Wiki route",
+        "主要候補（2026 年度）",
+        "重要注意",
+        "1. 金額は年度ごとに変動する",
+        "2. 「1 件あたり上限額」の記載がない場合",
+        "3. 応募期間は 12 月〜翌 4 月に集中",
+        "適用案",
+        "関連 wiki",
+        "来源"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "JapanFG/INDEX",
+        "business/INDEX",
+        "finance/INDEX",
+        "non-profit/japan-general-foundation-establishment-requirements",
+        "policy-finance/INDEX",
+        "policy-finance/japan-student-services-organization"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/JapanFG/INDEX",
+        "https://finwiki.zksc.io/business/INDEX",
+        "https://finwiki.zksc.io/finance/INDEX",
+        "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+        "https://finwiki.zksc.io/policy-finance/INDEX",
+        "https://finwiki.zksc.io/policy-finance/japan-student-services-organization"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 2777,
+      "word_like_tokens": 429,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "payments/INDEX.md",
@@ -75856,7 +75857,7 @@
       "markdown_links": [],
       "nonspace_chars": 7716,
       "word_like_tokens": 1206,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "releases/v2026.05.23-2.md",
@@ -76954,6 +76955,35 @@
       "markdown_links": [],
       "nonspace_chars": 5820,
       "word_like_tokens": 1042,
+      "last_modified": "2026-06-03"
+    },
+    {
+      "source_path": "releases/v2026.06.03-9.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03-9",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-9.md",
+      "title": "領域物理改名 governance→non-profit・manufacturing→manufacturer-finance",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "",
+      "headings": [
+        "領域物理改名 governance→non-profit・manufacturing→manufacturer-finance",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [
+        "governance/..."
+      ],
+      "nonspace_chars": 6675,
+      "word_like_tokens": 1132,
       "last_modified": "2026-06-03"
     },
     {
@@ -85797,7 +85827,7 @@
         "INDEX",
         "JapanFG/INDEX",
         "finance/INDEX",
-        "governance/INDEX",
+        "non-profit/INDEX",
         "policy-finance/INDEX",
         "trade/jetro-members-gateway-model",
         "trade/jetro-members-gateway-model\\",
@@ -85810,7 +85840,7 @@
         "https://finwiki.zksc.io/INDEX",
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/finance/INDEX",
-        "https://finwiki.zksc.io/governance/INDEX",
+        "https://finwiki.zksc.io/non-profit/INDEX",
         "https://finwiki.zksc.io/policy-finance/INDEX",
         "https://finwiki.zksc.io/trade/jetro-members-gateway-model",
         "https://finwiki.zksc.io/trade/jetro-members-gateway-model\\",
@@ -85821,7 +85851,7 @@
       ],
       "markdown_links": [],
       "nonspace_chars": 5192,
-      "word_like_tokens": 873,
+      "word_like_tokens": 874,
       "last_modified": "2026-06-03"
     },
     {
@@ -85982,8 +86012,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3075,
-      "word_like_tokens": 555,
+      "nonspace_chars": 3271,
+      "word_like_tokens": 588,
       "last_modified": "2026-06-03"
     }
   ]

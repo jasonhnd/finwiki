@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/hitachi-industrial-finance-platform",
+  "source_path": "manufacturer-finance/hitachi-industrial-finance-platform.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/hitachi-industrial-finance-platform.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/hitachi-industrial-finance-platform.md",
+  "domain": "manufacturer-finance",
+  "title": "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
+    "aliases": [
+      "hitachi-industrial-finance-platform",
+      "Hitachi Industrial Finance",
+      "Hitachi Capital Legacy",
+      "Hitachi Group Finance",
+      "日立産業金融",
+      "日立社会インフラ金融"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "hitachi",
+      "industrial-finance",
+      "vendor-finance",
+      "infrastructure-finance",
+      "social-innovation",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.hitachi.com/IR-e/library/integrated/",
+      "https://www.hitachi.com/IR-e/library/annual/",
+      "https://www.hitachi.com/businesses/",
+      "https://www.mitsubishi-hc-capital.com/english/ir/library/",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and JapanFG index for the broader system / r",
+  "headings": [
+    "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社構造と金融部門の位置",
+    "金融部門の位置 (post-2021)",
+    "2. 事業ライン × 金融組成パターン",
+    "3. KPI (FY2024, 連結ベース)",
+    "4. 戦略 (Connect, Build, Finance)",
+    "5. 規制・政策",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/hitachi-capital",
+      "JapanFG/jbic",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/orix-corp",
+      "JapanFG/smfg",
+      "JapanFG/tokyo-century",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "manufacturer-finance/panasonic-captive-finance",
+      "manufacturer-finance/sony-group-finance-arm",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/toyota-motor",
+      "policy-finance/nexi"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/hitachi-capital",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/policy-finance/nexi"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5861,
+    "word_like_tokens": 922,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-03"
+  }
+}

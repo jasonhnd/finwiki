@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-Fukushi Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[governance/japan-general-foundation-establishment-requirements|Japan foundation requirements]], and [[JapanFG/hogaraka-trust|Hogaraka Trust]].
+Fukushi Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[non-profit/japan-general-foundation-establishment-requirements|Japan foundation requirements]], and [[JapanFG/hogaraka-trust|Hogaraka Trust]].
 
 Use this page for welfare-oriented trust, guardianship-adjacent planning, parent-after-death planning, and family asset administration questions.
 
@@ -69,7 +69,7 @@ Do not infer legal suitability for an individual family situation. Product desig
 - [[JapanFG/INDEX]]
 - [[JapanFG/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
-- [[governance/japan-general-foundation-establishment-requirements]]
+- [[non-profit/japan-general-foundation-establishment-requirements]]
 - [[JapanFG/hogaraka-trust]]
 - [[INDEX|FinWiki index]]
 

@@ -66,14 +66,14 @@ export const domainGroups: DomainGroup[] = [
     ja: 'コーポレート・事業',
     en: 'Corporate & business',
     zh: '公司与业务',
-    domains: ['finance', 'business', 'corporate-strategy', 'manufacturing', 'retail', 'trade'],
+    domains: ['finance', 'business', 'corporate-strategy', 'manufacturer-finance', 'retail', 'trade'],
   },
   {
     id: 'governance',
     ja: '制度・ガバナンス',
     en: 'Governance & security',
     zh: '治理与安全',
-    domains: ['governance', 'security'],
+    domains: ['non-profit', 'security'],
   },
 ];
 

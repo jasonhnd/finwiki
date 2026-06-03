@@ -956,7 +956,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/fukushi-trust</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1052,7 +1052,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/hachijuni-bank</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3002,7 +3002,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/sekisui-house-trust</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3602,13 +3602,13 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/toyota-finance</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/toyota-financial</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4496,7 +4496,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6655,30 +6655,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://finwiki.zksc.io/governance/INDEX</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/governance/japan-research-grant-map-2026</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://finwiki.zksc.io/insurance/INDEX</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -6949,50 +6925,50 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://finwiki.zksc.io/manufacturing/INDEX</loc>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/INDEX</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/manufacturing/panasonic-captive-finance</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/manufacturing/seiko-epson</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://finwiki.zksc.io/manufacturing/sony-group-finance-arm</loc>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://finwiki.zksc.io/manufacturing/toyota-financial-services</loc>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://finwiki.zksc.io/manufacturing/toyota-motor</loc>
-    <lastmod>2026-05-29</lastmod>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/seiko-epson</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/manufacturer-finance/toyota-motor</loc>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7065,6 +7041,30 @@
   <url>
     <loc>https://finwiki.zksc.io/money-market/tanshi-company-business-model</loc>
     <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/non-profit/INDEX</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026</loc>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7796,7 +7796,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.05.22</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8024,6 +8024,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.03-8</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.03-9</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

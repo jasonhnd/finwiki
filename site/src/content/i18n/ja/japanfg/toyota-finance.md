@@ -15,7 +15,7 @@ translated_at: 2026-06-02T16:33:58.523Z
 
 ## 概要
 
-トヨタファイナンス株式会社は、[[manufacturing/toyota-motor|Toyota Motor]] グループの国内中核金融会社であり、[[JapanFG/toyota-financial|Toyota Financial Services]] の完全子会社である。同社の公式会社概要では、販売金融やクレジットカードなどの金融事業を提供していると説明されている。
+トヨタファイナンス株式会社は、[[manufacturer-finance/toyota-motor|Toyota Motor]] グループの国内中核金融会社であり、[[JapanFG/toyota-financial|Toyota Financial Services]] の完全子会社である。同社の公式会社概要では、販売金融やクレジットカードなどの金融事業を提供していると説明されている。
 
 このページでは、日本の事業会社をグローバルな TFS 持株ページから切り分ける。この分離が重要なのは、Toyota Finance が国内オートクレジット、販売店連動金融、カード商品、顧客向け金融サービスの結節点だからである。
 
@@ -26,7 +26,7 @@ translated_at: 2026-06-02T16:33:58.523Z
 | 法人 | トヨタファイナンス株式会社 / TOYOTA FINANCE CORPORATION |
 | 設立 | 1988-11-28 |
 | 株主 | [[JapanFG/toyota-financial|Toyota Financial Services]] 100% |
-| 親グループ | [[manufacturing/toyota-motor|Toyota Motor]] group |
+| 親グループ | [[manufacturer-finance/toyota-motor|Toyota Motor]] group |
 | 主要領域 | 販売金融、クレジットカード、モビリティ金融、販売店連動金融 |
 
 ## 2. 事業上の役割
@@ -42,7 +42,7 @@ translated_at: 2026-06-02T16:33:58.523Z
 ## 関連項目
 
 - [[JapanFG/toyota-financial]]
-- [[manufacturing/toyota-motor]]
+- [[manufacturer-finance/toyota-motor]]
 - [[JapanFG/orix-corp]]
 - [[JapanFG/orico]]
 - [[JapanFG/jaccs]]

@@ -56,7 +56,7 @@
       "JapanFG/orico",
       "JapanFG/orix-corp",
       "JapanFG/toyota-financial",
-      "manufacturing/toyota-motor",
+      "manufacturer-finance/toyota-motor",
       "payments/credit-purchase-card-operators-japan-index"
     ],
     "resolved_wikilinks": [
@@ -65,16 +65,16 @@
       "https://finwiki.zksc.io/JapanFG/orico",
       "https://finwiki.zksc.io/JapanFG/orix-corp",
       "https://finwiki.zksc.io/JapanFG/toyota-financial",
-      "https://finwiki.zksc.io/manufacturing/toyota-motor",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
       "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2804,
-    "word_like_tokens": 433,
+    "nonspace_chars": 2825,
+    "word_like_tokens": 436,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-03"
   }
 }

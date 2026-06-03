@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-03T17:25:14+09:00
+Generated: 2026-06-03T18:09:39+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1484
-Public pages listed: 1483
+Markdown files: 1485
+Public pages listed: 1484
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1483
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, canonicalanchor 全量 back-fill と Phase 1 report-only audit / canonicalanchor back-fill and Phase 1 report-only audit / canonical_anchor 全量 back-fill 与 Phase 1 report-only audit, 領域再定位・JapanFG sub-INDEX・canonicalanchor Phase 0 / Domain rescope, JapanFG sub-indexes, canonicalanchor Phase 0 / 领域再定位、JapanFG sub-INDEX、canonical_anchor Phase 0
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, 領域物理改名 governance→non-profit・manufacturing→manufacturer-finance / Domain physical rename governance→non-profit, manufacturing→manufacturer-finance / 领域物理改名 governance→non-profit、manufacturing→manufacturer-finance, canonicalanchor 全量 back-fill と Phase 1 report-only audit / canonicalanchor back-fill and Phase 1 report-only audit / canonical_anchor 全量 back-fill 与 Phase 1 report-only audit
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -1599,7 +1599,7 @@ Public pages listed: 1483
 - Type: wiki_entry
 - Summary: Fukushi Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan foundation requirements, and Hogaraka Trust.
 - Headings: ふくし信託 (Fukushi Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hogaraka-trust, https://finwiki.zksc.io/JapanFG/trust-companies-japan-index, https://finwiki.zksc.io/banking/japan-trust-bank-custody-map, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hogaraka-trust, https://finwiki.zksc.io/JapanFG/trust-companies-japan-index, https://finwiki.zksc.io/banking/japan-trust-bank-custody-map, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements
 
 ### 福島銀行
 - URL: https://finwiki.zksc.io/JapanFG/fukushima-bank
@@ -1759,7 +1759,7 @@ Public pages listed: 1483
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: 株式会社八十二銀行 (The Hachijuni Bank), Wiki route, TL;DR, 1. 会社概要, 主要子会社・持分, 合併経緯・前身, 重要年表（抜粋）, 2. 事業セグメント・マップ
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hachijuni-nagano-bank, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/manufacturing/seiko-epson, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mizuho-fg
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/fukuoka-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/hachijuni-nagano-bank, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/manufacturer-finance/seiko-epson, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/mizuho-fg
 
 ### 八十二長野銀行
 - URL: https://finwiki.zksc.io/JapanFG/hachijuni-nagano-bank
@@ -5009,7 +5009,7 @@ Public pages listed: 1483
 - Type: wiki_entry
 - Summary: Sekisui House Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan Housing Finance Agency, and Daiwa Living Trust.
 - Headings: 積水ハウス信託 (Sekisui House Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-living-trust, https://finwiki.zksc.io/JapanFG/starts-trust, https://finwiki.zksc.io/JapanFG/trust-companies-japan-index, https://finwiki.zksc.io/banking/japan-trust-bank-custody-map, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/daiwa-living-trust, https://finwiki.zksc.io/JapanFG/starts-trust, https://finwiki.zksc.io/JapanFG/trust-companies-japan-index, https://finwiki.zksc.io/banking/japan-trust-bank-custody-map, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency
 
 ### 仙台銀行
 - URL: https://finwiki.zksc.io/JapanFG/sendai-bank
@@ -6009,7 +6009,7 @@ Public pages listed: 1483
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against Toyota Financial Services for parent / operating-company separation and Japan credit purchase and card operator registry index for the installment-credit and card boundary.
 - Headings: トヨタファイナンス, Wiki route, Overview, 1. 法人・グループ境界, 2. Business Role, 3. Why This Standalone Page Matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jaccs, https://finwiki.zksc.io/JapanFG/orico, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/manufacturing/toyota-motor, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jaccs, https://finwiki.zksc.io/JapanFG/orico, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/manufacturer-finance/toyota-motor, https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index
 
 ### トヨタファイナンシャルサービス (TFS)
 - URL: https://finwiki.zksc.io/JapanFG/toyota-financial
@@ -6019,7 +6019,7 @@ Public pages listed: 1483
 - Type: wiki_entry
 - Summary: This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: トヨタファイナンシャルサービス (TFS), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ会社, 業態カテゴリ, 2. 沿革・年表, 3. 事業セグメント・マップ
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/manufacturing/toyota-motor, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/orix-corp, https://finwiki.zksc.io/tokyo-century
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/manufacturer-finance/toyota-motor, https://finwiki.zksc.io/mufg, https://finwiki.zksc.io/orix-corp, https://finwiki.zksc.io/tokyo-century
 
 ### 豊田通商 (Toyota Tsusho Corporation)
 - URL: https://finwiki.zksc.io/JapanFG/toyota-tsusho-corp
@@ -7499,7 +7499,7 @@ Public pages listed: 1483
 - Type: wiki_entry
 - Summary: This entry sits under corporate-strategy INDEX and routes into finance INDEX for the transaction-finance overlay. Read with partial spinoff tax deferral for the comparison to distribution-type spinoffs, Japan MBO / squeeze-out process for the contrast with private take-out routes, and Japan tender o
 - Headings: 会社分割 (Japan corporate split) — 吸収 / 新設 split types, 適格 tax regime, and employee succession, Wiki route, TL;DR, Two-Axis Structural Map, 吸収分割 (absorption-type, Companies Act art. 757-766), 新設分割 (incorporation-type, Companies Act art. 762-766), Tax Axis — 適格 vs 非適格, 適格分割 tests (simplified)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-ib-league-table, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-tender-offer-process, https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage, https://finwiki.zksc.io/governance/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/finance/cross-border-m-a-japan, https://finwiki.zksc.io/finance/japan-acquisition-finance, https://finwiki.zksc.io/finance/japan-ib-league-table, https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process, https://finwiki.zksc.io/finance/japan-tender-offer-process, https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage, https://finwiki.zksc.io/non-profit/INDEX
 
 ### 株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision
 - URL: https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime
@@ -11090,46 +11090,6 @@ Public pages listed: 1483
 - Headings: Frontmatter canonical_anchor Field · 提议 / Proposal, Wiki route, 1. Motivation, 2. The proposed field, Example: mirror pair, Example: cross-product split (JPM family), 3. Tradeoffs, Pros
 - First resolved wikilinks: https://finwiki.zksc.io/AGENTS, https://finwiki.zksc.io/CHANGELOG, https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/jpmorgan-japan, https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/SCHEMA, https://finwiki.zksc.io/X, https://finwiki.zksc.io/business/jamie-dimon-anti-crypto-pivot-case, https://finwiki.zksc.io/cross-domain-anchor-convention, https://finwiki.zksc.io/domain-bridge-navigation-guide, https://finwiki.zksc.io/entity-mirror-page-policy
 
-### Governance domain
-- URL: https://finwiki.zksc.io/governance/INDEX
-- Source path: governance/INDEX.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/governance/INDEX.md
-- Domain: governance
-- Type: domain_index
-- Summary: This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational refer
-- Headings: Governance domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements\, https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison\, https://finwiki.zksc.io/governance/japan-research-grant-map-2026, https://finwiki.zksc.io/governance/japan-research-grant-map-2026\, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/securities/INDEX
-
-### 日本 一般財団法人 設立要件・プロセス
-- URL: https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements
-- Source path: governance/japan-general-foundation-establishment-requirements.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/governance/japan-general-foundation-establishment-requirements.md
-- Domain: governance
-- Type: wiki_entry
-- Summary: This entry sits under 日本 研究助成金 map（2026 年度） and should be read with FinWiki index.
-- Headings: 日本 一般財団法人 設立要件・プロセス, Wiki route, 法的根拠, 必要機関（全て強制）, 兼任禁止（重要）, 財産要件, 任期, 理事会開催頻度の実質要件
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/governance/japan-research-grant-map-2026, https://finwiki.zksc.io/policy-finance/INDEX
-
-### 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison
-- URL: https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison
-- Source path: governance/japan-koeki-vs-general-zaidan-comparison.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/governance/japan-koeki-vs-general-zaidan-comparison.md
-- Domain: governance
-- Type: wiki_entry
-- Summary: This entry sits under governance INDEX and routes into corporate-strategy INDEX for entity selection in mission-driven structures. Read with Japan 一般財団法人 establishment requirements for the foundation-mechanics detail and Japan research grant map 2026 for the downstream grant-eligibility question.
-- Headings: 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison, Wiki route, TL;DR, Side-by-Side Comparison Table, Choosing Between Foundation and Association, When Public-Interest 公益 Status Matters, NPO法人 — Different Statute, Different Logic, A Decision Tree
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/governance/INDEX, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/governance/japan-research-grant-map-2026
-
-### 日本 研究助成金 map（2026 年度）
-- URL: https://finwiki.zksc.io/governance/japan-research-grant-map-2026
-- Source path: governance/japan-research-grant-map-2026.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/governance/japan-research-grant-map-2026.md
-- Domain: governance
-- Type: wiki_entry
-- Summary: This entry sits under 日本 一般財団法人 設立要件・プロセス and should be read with FinWiki index.
-- Headings: 日本 研究助成金 map（2026 年度）, Wiki route, 主要候補（2026 年度）, 重要注意, 1. 金額は年度ごとに変動する, 2. 「1 件あたり上限額」の記載がない場合, 3. 応募期間は 12 月〜翌 4 月に集中, 適用案
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-student-services-organization
-
 ### Insurance domain
 - URL: https://finwiki.zksc.io/insurance/INDEX
 - Source path: insurance/INDEX.md
@@ -11581,84 +11541,84 @@ Public pages listed: 1483
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/aeon-bank, https://finwiki.zksc.io/JapanFG/au-fh, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/ndfg, https://finwiki.zksc.io/JapanFG/paypay-fg, https://finwiki.zksc.io/JapanFG/rakuten-fg, https://finwiki.zksc.io/JapanFG/seven-bank, https://finwiki.zksc.io/JapanFG/smbc-card, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/loyalty/INDEX
 
 ### manufacturing — Japanese manufacturing company index
-- URL: https://finwiki.zksc.io/manufacturing/INDEX
-- Source path: manufacturing/INDEX.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/INDEX.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/INDEX
+- Source path: manufacturer-finance/INDEX.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/INDEX.md
+- Domain: manufacturer-finance
 - Type: domain_index
-- Summary: manufacturing/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-finance: the captive, vendor, and export-finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind — not a general manufacturer encyclopedi
+- Summary: manufacturer-finance/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-finance: the captive, vendor, and export-finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind — not a general manufacturer ency
 - Headings: manufacturing — Japanese manufacturing company index, TL;DR, Entries, Tier 1 — Manufacturer-finance profiles, Tier 2 — Operating-company / regional anchors, Expansion rules, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hachijuni-bank, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturing/panasonic-captive-finance, https://finwiki.zksc.io/manufacturing/seiko-epson, https://finwiki.zksc.io/manufacturing/sony-group-finance-arm, https://finwiki.zksc.io/manufacturing/toyota-financial-services
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hachijuni-bank, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance, https://finwiki.zksc.io/manufacturer-finance/seiko-epson, https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm, https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services
 
 ### Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)
-- URL: https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform
-- Source path: manufacturing/hitachi-industrial-finance-platform.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/hitachi-industrial-finance-platform.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform
+- Source path: manufacturer-finance/hitachi-industrial-finance-platform.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/hitachi-industrial-finance-platform.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and JapanFG index for the broader system / r
 - Headings: Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム), Wiki route, TL;DR, 1. 会社構造と金融部門の位置, 金融部門の位置 (post-2021), 2. 事業ライン × 金融組成パターン, 3. KPI (FY2024, 連結ベース), 4. 戦略 (Connect, Build, Finance)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hitachi-capital, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/hitachi-capital, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance
 
 ### Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)
-- URL: https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance
-- Source path: manufacturing/mitsubishi-heavy-export-finance.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/mitsubishi-heavy-export-finance.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance
+- Source path: manufacturer-finance/mitsubishi-heavy-export-finance.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/mitsubishi-heavy-export-finance.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Hitachi 産業金融, Panasonic 顧客金融, Sony FG, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with JBIC・NEXI for the policy-finance counterpart, JETRO vs NEXI vs JBIC for the export-support stack overview, and 三菱商事
 - Headings: Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム), Wiki route, TL;DR, 1. 会社構造と金融部門の位置, 金融組成の位置 (プログラム別), 2. 製品 / 事業ライン × 輸出金融組成パターン, 主要プログラム (2024-2026), 3. KPI (FY2024 連結)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturing/panasonic-captive-finance, https://finwiki.zksc.io/manufacturing/seiko-epson
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance, https://finwiki.zksc.io/manufacturer-finance/seiko-epson
 
 ### Panasonic Captive Finance (パナソニック顧客金融)
-- URL: https://finwiki.zksc.io/manufacturing/panasonic-captive-finance
-- Source path: manufacturing/panasonic-captive-finance.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/panasonic-captive-finance.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance
+- Source path: manufacturer-finance/panasonic-captive-finance.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/panasonic-captive-finance.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with SMFL (三井住友ファイナンス&リース) and MUFG for the bank-side counterpart of Panasonic's B2B vendor-finance flows, JapanFG index for t
 - Headings: Panasonic Captive Finance (パナソニック顧客金融), Wiki route, TL;DR, 1. 会社構造と金融部門の位置, 金融部門の位置 (2022 持株会社制移行後), 2. 製品 / 事業ライン × 金融組成パターン, 3. KPI (FY2024 連結), 4. 戦略 (Operational Excellence + Energy)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/smfl, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturing/seiko-epson
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/jbic, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/smfl, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturer-finance/seiko-epson
 
 ### Seiko Epson Corporation (セイコーエプソン)
-- URL: https://finwiki.zksc.io/manufacturing/seiko-epson
-- Source path: manufacturing/seiko-epson.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/seiko-epson.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/seiko-epson
+- Source path: manufacturer-finance/seiko-epson.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/seiko-epson.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it with Toyota Motor Corporation (トヨタ自動車) for adjacent context and FinWiki index for the broader system boundary.
 - Headings: Seiko Epson Corporation (セイコーエプソン), Wiki route, TL;DR, 1. 会社構造, 2. 事業ライン map, 3. 戦略と競合, 4. 規制と政策, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/hachijuni-bank, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/manufacturing/toyota-motor
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/hachijuni-bank, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/toyota-motor
 
 ### Sony Group Finance Arm (ソニーグループ 金融事業アーム)
-- URL: https://finwiki.zksc.io/manufacturing/sony-group-finance-arm
-- Source path: manufacturing/sony-group-finance-arm.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/sony-group-finance-arm.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm
+- Source path: manufacturer-finance/sony-group-finance-arm.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/sony-group-finance-arm.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Hitachi industrial finance, Panasonic captive finance, Toyota Financial Services, and MHI 輸出金融 for peer industrial-conglomerate finance arms. Pair with ソニーフィナンシャルグループ (SFG) for the entity profile, Sony FG partial spinoff case for the 2025 ca
 - Headings: Sony Group Finance Arm (ソニーグループ 金融事業アーム), Wiki route, TL;DR, 1. ソニーグループにおける金融部門の位置, 主要子会社 (FY2025 想定), 2. 製品 / 事業ライン (グループ全体マップ), 3. KPI (FY2024 連結 + SFG セグメント), 4. 戦略 (金融分離と再上場)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sony-bank, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/sony-insurance, https://finwiki.zksc.io/JapanFG/sony-life, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturing/panasonic-captive-finance
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/sony-bank, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/sony-insurance, https://finwiki.zksc.io/JapanFG/sony-life, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance
 
 ### Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)
-- URL: https://finwiki.zksc.io/manufacturing/toyota-financial-services
-- Source path: manufacturing/toyota-financial-services.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/toyota-financial-services.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services
+- Source path: manufacturer-finance/toyota-financial-services.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/toyota-financial-services.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w
 - Headings: Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー), Wiki route, TL;DR, 1. 会社構造と製造業視点, 製造業視点のグループ構造, Toyota Motor 本体との関係, 2. 製品 / 事業ライン × 製造業視点での意義, 自動車 ABS との接続
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/JapanFG/toyota-finance, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance, https://finwiki.zksc.io/manufacturing/INDEX
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/orix-corp, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/tokyo-century, https://finwiki.zksc.io/JapanFG/toyota-finance, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/JapanFG/toyota-tsusho-finance, https://finwiki.zksc.io/manufacturer-finance/INDEX
 
 ### Toyota Motor Corporation (トヨタ自動車)
-- URL: https://finwiki.zksc.io/manufacturing/toyota-motor
-- Source path: manufacturing/toyota-motor.md
-- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturing/toyota-motor.md
-- Domain: manufacturing
+- URL: https://finwiki.zksc.io/manufacturer-finance/toyota-motor
+- Source path: manufacturer-finance/toyota-motor.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/toyota-motor.md
+- Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Seiko Epson Corporation (セイコーエプソン) for peer / contrast context and JapanFG index for the broader system / regulatory boundary.
 - Headings: Toyota Motor Corporation (トヨタ自動車), Wiki route, TL;DR, 1. 会社構造, 2. 事業ライン map, 3. 戦略と競合, 4. 規制と政策, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/manufacturing/INDEX, https://finwiki.zksc.io/manufacturing/seiko-epson
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/mizuho-fg, https://finwiki.zksc.io/JapanFG/mufg, https://finwiki.zksc.io/JapanFG/smfg, https://finwiki.zksc.io/JapanFG/toyota-financial, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/seiko-epson
 
 ### Money market domain
 - URL: https://finwiki.zksc.io/money-market/INDEX
@@ -11779,6 +11739,46 @@ Public pages listed: 1483
 - Summary: This entry sits under money-market index. Read it against call market structure for the peer / contrast surface where tanshi brokerage actually happens, and against BoJ open market operations for the broader system / regulatory boundary where tanshi flows interact with central-bank policy implementa
 - Headings: Tanshi company business model, Wiki route, TL;DR, What Tanshi Do, The Three Firms and Their Differentiation, Relationship to BoJ Open Market Operations, Fee / Revenue Model, Historical Context
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/boj-monetary-policy, https://finwiki.zksc.io/JapanFG/central-tanshi, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/local-bond-market, https://finwiki.zksc.io/JapanFG/tokyo-tanshi, https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi, https://finwiki.zksc.io/money-market/INDEX, https://finwiki.zksc.io/money-market/boj-open-market-operations, https://finwiki.zksc.io/money-market/call-market-structure, https://finwiki.zksc.io/money-market/japan-money-market, https://finwiki.zksc.io/money-market/jgb-repo-market-japan
+
+### Governance domain
+- URL: https://finwiki.zksc.io/non-profit/INDEX
+- Source path: non-profit/INDEX.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/INDEX.md
+- Domain: non-profit
+- Type: domain_index
+- Summary: This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational refer
+- Headings: Governance domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements\, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison\, https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026, https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026\, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/securities/INDEX
+
+### 日本 一般財団法人 設立要件・プロセス
+- URL: https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements
+- Source path: non-profit/japan-general-foundation-establishment-requirements.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-general-foundation-establishment-requirements.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under 日本 研究助成金 map（2026 年度） and should be read with FinWiki index.
+- Headings: 日本 一般財団法人 設立要件・プロセス, Wiki route, 法的根拠, 必要機関（全て強制）, 兼任禁止（重要）, 財産要件, 任期, 理事会開催頻度の実質要件
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026, https://finwiki.zksc.io/policy-finance/INDEX
+
+### 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison
+- URL: https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison
+- Source path: non-profit/japan-koeki-vs-general-zaidan-comparison.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-vs-general-zaidan-comparison.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under governance INDEX and routes into corporate-strategy INDEX for entity selection in mission-driven structures. Read with Japan 一般財団法人 establishment requirements for the foundation-mechanics detail and Japan research grant map 2026 for the downstream grant-eligibility question.
+- Headings: 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison, Wiki route, TL;DR, Side-by-Side Comparison Table, Choosing Between Foundation and Association, When Public-Interest 公益 Status Matters, NPO法人 — Different Statute, Different Logic, A Decision Tree
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026
+
+### 日本 研究助成金 map（2026 年度）
+- URL: https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026
+- Source path: non-profit/japan-research-grant-map-2026.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-research-grant-map-2026.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under 日本 一般財団法人 設立要件・プロセス and should be read with FinWiki index.
+- Headings: 日本 研究助成金 map（2026 年度）, Wiki route, 主要候補（2026 年度）, 重要注意, 1. 金額は年度ごとに変動する, 2. 「1 件あたり上限額」の記載がない場合, 3. 応募期間は 12 月〜翌 4 月に集中, 適用案
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-student-services-organization
 
 ### payments domain
 - URL: https://finwiki.zksc.io/payments/INDEX
@@ -13329,6 +13329,14 @@ Public pages listed: 1483
 - Type: release_note
 - Headings: canonical_anchor 全量 back-fill と Phase 1 report-only audit, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 領域物理改名 governance→non-profit・manufacturing→manufacturer-finance
+- URL: https://finwiki.zksc.io/releases/v2026.06.03-9
+- Source path: releases/v2026.06.03-9.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-9.md
+- Domain: releases
+- Type: release_note
+- Headings: 領域物理改名 governance→non-profit・manufacturing→manufacturer-finance, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 日本語 i18n 翻訳層の全量追加
 - URL: https://finwiki.zksc.io/releases/v2026.06.03
 - Source path: releases/v2026.06.03.md
@@ -14746,7 +14754,7 @@ Public pages listed: 1483
 - Type: domain_index
 - Summary: This domain routes Japan trade-promotion institutional structure — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit. The three entries answer two distinct questions: a decision page that splits JETRO, NEXI, and JBIC (the promotion / insu
 - Headings: Trade domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/governance/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/jetro-members-gateway-model, https://finwiki.zksc.io/trade/jetro-members-gateway-model\, https://finwiki.zksc.io/trade/jetro-organization-structure, https://finwiki.zksc.io/trade/jetro-organization-structure\, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/jetro-members-gateway-model, https://finwiki.zksc.io/trade/jetro-members-gateway-model\, https://finwiki.zksc.io/trade/jetro-organization-structure, https://finwiki.zksc.io/trade/jetro-organization-structure\, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\
 
 ### JETRO Members 有料会員制は B2B 提案の入口ゲート
 - URL: https://finwiki.zksc.io/trade/jetro-members-gateway-model

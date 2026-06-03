@@ -68,7 +68,7 @@
       "finance/japan-mbo-and-squeeze-out-process",
       "finance/japan-tender-offer-process",
       "finance/multi-jurisdiction-identity-tax-leverage",
-      "governance/INDEX"
+      "non-profit/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -81,15 +81,15 @@
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
       "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
-      "https://finwiki.zksc.io/governance/INDEX"
+      "https://finwiki.zksc.io/non-profit/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
     "nonspace_chars": 14646,
-    "word_like_tokens": 2404,
+    "word_like_tokens": 2405,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-03"
   }
 }

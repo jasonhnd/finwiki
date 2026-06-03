@@ -24,7 +24,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[JapanFG
 **Established**: 2000-07-03
 **Head office**: Nishi-ku, Nagoya, Aichi Prefecture, near Toyota Motor group bases
 **Listing**: Unlisted — 100% consolidated subsidiary of Toyota Motor Corporation, TSE PRIME 7203
-**Parent company**: Toyota Motor Corporation ([[manufacturing/toyota-motor|toyota-motor]])
+**Parent company**: Toyota Motor Corporation ([[manufacturer-finance/toyota-motor|toyota-motor]])
 **Positioning**: **Financial-business control holding company** of the Toyota group
 
 ### Major subsidiaries / group companies
@@ -129,7 +129,7 @@ Through the combination of Toyota distributor channels and residual-credit produ
 
 ## Related
 
-- [[manufacturing/toyota-motor|toyota-motor]] (parent company)
+- [[manufacturer-finance/toyota-motor|toyota-motor]] (parent company)
 - [[orix-corp]] · [[tokyo-century]] (independent leasing competitors)
 - [[mufg]] (leasing competitor through Mitsubishi HC Capital)
 - Other auto finance: Nissan NMAC · Honda Finance

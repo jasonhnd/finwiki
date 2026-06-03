@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 6 |
+| Changed or new entries in current worktree | 10 |
 | canonical_anchor declarations checked (informational) | 8 |
 | canonical_anchor drift (informational, non-gating) | 1 |
 
@@ -41,12 +41,16 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `banking/daiwa-next-bank.md` | `M` | 35 | ok |
-| `banking/gmo-aozora-net-bank.md` | `M` | 36 | ok |
-| `banking/sony-bank.md` | `M` | 20 | ok |
-| `banking/ui-bank.md` | `M` | 31 | ok |
-| `JapanFG/japan-post-bank.md` | `M` | 22 | ok |
-| `manufacturing/sony-group-finance-arm.md` | `M` | 10 | ok |
+| `corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md` | `M` | 15 | ok |
+| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 28 | ok |
+| `HOW-TO-NAVIGATE.md` | `M` | 207 | ok |
+| `INDEX.md` | `M` | 29 | ok |
+| `JapanFG/fukushi-trust.md` | `M` | 5 | ok |
+| `JapanFG/hachijuni-bank.md` | `M` | 18 | ok |
+| `JapanFG/sekisui-house-trust.md` | `M` | 8 | ok |
+| `JapanFG/toyota-finance.md` | `M` | 8 | ok |
+| `JapanFG/toyota-financial.md` | `M` | 7 | ok |
+| `trade/INDEX.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 
@@ -68,11 +72,12 @@
 | `finance` | 27 | 0 | 23.0 |
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 29.0 |
-| `governance` | 4 | 0 | 9.5 |
+| `governance` | 1 | 0 | 13.0 |
 | `insurance` | 33 | 0 | 42.6 |
 | `loyalty` | 12 | 0 | 20.3 |
-| `manufacturing` | 8 | 0 | 14.6 |
+| `manufacturer-finance` | 8 | 0 | 14.6 |
 | `money-market` | 12 | 0 | 22.2 |
+| `non-profit` | 3 | 0 | 8.3 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |

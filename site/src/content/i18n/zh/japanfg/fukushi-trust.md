@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.889Z
 
 ## Wiki 路径
 
-福祉信托是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司入口，并由 [[JapanFG/trust-companies-japan-index|日本信托公司登记索引]]提升为单独页面。请与 [[banking/japan-trust-bank-custody-map|日本信托银行托管地图]]、[[governance/japan-general-foundation-establishment-requirements|日本一般财团法人设立要求]] 和 [[JapanFG/hogaraka-trust|Hogaraka Trust]] 配套阅读。
+福祉信托是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司入口，并由 [[JapanFG/trust-companies-japan-index|日本信托公司登记索引]]提升为单独页面。请与 [[banking/japan-trust-bank-custody-map|日本信托银行托管地图]]、[[non-profit/japan-general-foundation-establishment-requirements|日本一般财团法人设立要求]] 和 [[JapanFG/hogaraka-trust|Hogaraka Trust]] 配套阅读。
 
 本页用于福利取向信托、成年监护邻接规划、亲亡后规划以及家庭资产管理等问题。
 
@@ -61,7 +61,7 @@ translated_at: 2026-05-31T15:29:03.889Z
 - [[JapanFG/INDEX]]
 - [[JapanFG/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
-- [[governance/japan-general-foundation-establishment-requirements]]
+- [[non-profit/japan-general-foundation-establishment-requirements]]
 - [[JapanFG/hogaraka-trust]]
 - [[INDEX|FinWiki index]]
 

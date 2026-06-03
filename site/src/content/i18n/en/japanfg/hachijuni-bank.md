@@ -80,7 +80,7 @@ Hachijuni Bank (former standalone listed bank, 8359)
 
 ### Prefectural ground strategy
 
-- **Nagano Prefecture = electronics industry cluster**: Nagano Prefecture is home to leading mid-sized manufacturing companies such as [[manufacturing/seiko-epson|Seiko Epson]] (Suwa head office, printers, watches, and semiconductors) and MinebeaMitsumi. These main-bank positions are the profit base.
+- **Nagano Prefecture = electronics industry cluster**: Nagano Prefecture is home to leading mid-sized manufacturing companies such as [[manufacturer-finance/seiko-epson|Seiko Epson]] (Suwa head office, printers, watches, and semiconductors) and MinebeaMitsumi. These main-bank positions are the profit base.
 - **Tourism industry financing**: Nagano Prefecture is a major tourism industry prefecture, including Karuizawa (luxury resorts), Hakuba (skiing/inbound visitors to Japan), Suwa (hot springs/Lake Suwa), Ueda/Saku (historic tourism), and the Zenkoji area, and tourist hotel/resort financing is an important segment of regional banks' portfolios.
 - **Overwhelming share in the prefecture** However, Nagano Prefecture's population decline and outflow of young people are more pronounced than the national average, creating medium- to long-term structural issues. We have developed a sales network throughout the prefectures of Nagano City, Matsumoto City, Suwa, Ueda, Saku, Hokushin (Iiyama, etc.) from 5 to 6 .
 

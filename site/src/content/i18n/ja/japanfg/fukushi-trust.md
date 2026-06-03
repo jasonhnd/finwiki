@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.420Z
 
 ## ウィキ上の位置づけ
 
-ふくし信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートで、[[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]] から昇格させた項目である。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[governance/japan-general-foundation-establishment-requirements|Japan foundation requirements]]、[[JapanFG/hogaraka-trust|Hogaraka Trust]] と併読する。
+ふくし信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートで、[[JapanFG/trust-companies-japan-index|the Japan trust companies registry index]] から昇格させた項目である。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[non-profit/japan-general-foundation-establishment-requirements|Japan foundation requirements]]、[[JapanFG/hogaraka-trust|Hogaraka Trust]] と併読する。
 
 福祉志向の信託、成年後見に隣接する設計、親亡き後の備え、家族財産管理に関する論点でこのページを使う。
 
@@ -60,7 +60,7 @@ translated_at: 2026-06-02T14:25:12.420Z
 - [[JapanFG/INDEX]]
 - [[JapanFG/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
-- [[governance/japan-general-foundation-establishment-requirements]]
+- [[non-profit/japan-general-foundation-establishment-requirements]]
 - [[JapanFG/hogaraka-trust]]
 - [[INDEX|FinWiki index]]
 

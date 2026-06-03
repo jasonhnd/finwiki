@@ -32,7 +32,7 @@ Sekisui House Trust 是与积水住宅集团相关的管理型信托公司。其
 | Group context | 积水住宅集团 |
 | Registry route | 金融厅信托公司名单 |
 
-本页应聚焦于信托公司。若需要讨论住宅 / 建筑的运营公司侧，请使用 [[manufacturing/INDEX|manufacturing]] 或业务页面。
+本页应聚焦于信托公司。若需要讨论住宅 / 建筑的运营公司侧，请使用 [[manufacturer-finance/INDEX|manufacturing]] 或业务页面。
 
 ## Business Role Map
 

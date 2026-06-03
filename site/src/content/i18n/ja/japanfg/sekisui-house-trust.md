@@ -32,7 +32,7 @@ translated_at: 2026-06-02T15:14:17.151Z
 | グループ文脈 | Sekisui House group |
 | 登録上の経路 | 金融庁の信託会社一覧 |
 
-このページは信託会社に焦点を絞る。住宅・建設の事業会社側は、必要に応じて [[manufacturing/INDEX|manufacturing]] または事業ページを使う。
+このページは信託会社に焦点を絞る。住宅・建設の事業会社側は、必要に応じて [[manufacturer-finance/INDEX|manufacturing]] または事業ページを使う。
 
 ## 事業上の役割マップ
 
