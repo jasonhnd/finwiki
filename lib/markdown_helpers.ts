@@ -18,6 +18,7 @@ export const EXCLUDED_WALK_DIRS = new Set([
   ".git",
   ".cache",
   ".opinions",
+  "docs",
   "site",
   "app",
   ".vercel",

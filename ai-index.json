@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T18:09:39+09:00",
+  "generated_at": "2026-06-03T19:23:38+09:00",
   "counts": {
-    "markdown_files": 1485,
-    "public_markdown_pages": 1484,
-    "site_urls_in_sitemap": 1485,
+    "markdown_files": 1486,
+    "public_markdown_pages": 1485,
+    "site_urls_in_sitemap": 1486,
     "topical_domains": 23,
     "link_audited_entries": 1420,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10094949,
-    "word_like_tokens": 1632339
+    "nonspace_utf8_chars": 10105853,
+    "word_like_tokens": 1634263
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -211,9 +211,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4504,
-      "word_like_tokens": 709,
-      "last_modified": "2026-06-02"
+      "nonspace_chars": 5541,
+      "word_like_tokens": 894,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "CHANGELOG.md",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-03",
+        "開発文書システム docs/ の新設 / Internal developer-docs system under docs/ / 新建内部开发文档系统 docs/",
         "領域物理改名 governance→non-profit・manufacturing→manufacturer-finance / Domain physical rename governance→non-profit, manufacturing→manufacturer-finance / 领域物理改名 governance→non-profit、manufacturing→manufacturer-finance",
         "canonicalanchor 全量 back-fill と Phase 1 report-only audit / canonicalanchor back-fill and Phase 1 report-only audit / canonical_anchor 全量 back-fill 与 Phase 1 report-only audit",
-        "領域再定位・JapanFG sub-INDEX・canonicalanchor Phase 0 / Domain rescope, JapanFG sub-indexes, canonicalanchor Phase 0 / 领域再定位、JapanFG sub-INDEX、canonical_anchor Phase 0",
-        "全領域 INDEX 同期と meta 文書整理 / Domain-INDEX sync and meta-doc cleanup / 全领域 INDEX 同步与 meta 文档整理"
+        "領域再定位・JapanFG sub-INDEX・canonicalanchor Phase 0 / Domain rescope, JapanFG sub-indexes, canonicalanchor Phase 0 / 领域再定位、JapanFG sub-INDEX、canonical_anchor Phase 0"
       ],
       "wikilinks": [
         "...",
@@ -469,8 +469,8 @@
         "governance/...",
         "origin repository"
       ],
-      "nonspace_chars": 495956,
-      "word_like_tokens": 88012,
+      "nonspace_chars": 499582,
+      "word_like_tokens": 88654,
       "last_modified": "2026-06-03"
     },
     {
@@ -35702,8 +35702,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 45641,
-      "word_like_tokens": 7725,
+      "nonspace_chars": 47251,
+      "word_like_tokens": 8029,
       "last_modified": "2026-06-03"
     },
     {
@@ -76765,6 +76765,33 @@
       "last_modified": "2026-06-02"
     },
     {
+      "source_path": "releases/v2026.06.03-10.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03-10",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-10.md",
+      "title": "開発文書システム docs/ の新設",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "",
+      "headings": [
+        "開発文書システム docs/ の新設",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 5040,
+      "word_like_tokens": 867,
+      "last_modified": "2026-06-03"
+    },
+    {
       "source_path": "releases/v2026.06.03-2.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.03-2",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-2.md",
@@ -86012,8 +86039,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3271,
-      "word_like_tokens": 588,
+      "nonspace_chars": 2862,
+      "word_like_tokens": 514,
       "last_modified": "2026-06-03"
     }
   ]

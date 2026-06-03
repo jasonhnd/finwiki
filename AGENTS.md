@@ -17,6 +17,7 @@
 - `CHANGELOG.md` は詳細なタイムラインと作業記録を残します。短い要約だけで済ませてはいけません。最低限、JST 時刻、背景、範囲、主要ファイルまたはディレクトリ、実行手順、検証結果、残タスクを記録します。
 - 明示的に要求されない限り、既存 Markdown の大規模なフォーマット整理は行いません。同期作業では原文の形を優先して保持します。
 - コミット前に `git status --short --branch` を確認し、コミット後は `origin/main` に push してリモート HEAD を確認します。
+- `docs/` ディレクトリは内部開発文書（アーキテクチャ、ツールチェーン、リリース手順、落とし穴集）であり、公開しません。`lib/markdown_helpers.ts` の `EXCLUDED_WALK_DIRS` と `tools/wiki_link_audit.ts` の `IGNORED_DIRS` に登録済みで、corpus（md / entries 計数）、`sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro サイト、死リンク監査のいずれにも含まれません。この排除を解除してはいけません。`docs/` に wiki 本文を置かず、wiki 本文に開発文書を置きません。
 
 ### English
 
@@ -33,6 +34,7 @@
 - `CHANGELOG.md` must preserve a detailed timeline and work log. A single-sentence summary is not acceptable. At minimum, record JST time, context, scope, primary files or directories, execution steps, validation results, and follow-up tasks.
 - Unless explicitly requested, do not perform large-scale formatting cleanups on existing Markdown. For sync-class commits, preserve original formatting.
 - Before committing, check `git status --short --branch`. After committing, push to `origin/main` and verify the remote HEAD.
+- The `docs/` directory holds internal developer documentation (architecture, toolchain, release process, gotchas) and is NOT published. It is registered in `EXCLUDED_WALK_DIRS` (`lib/markdown_helpers.ts`) and `IGNORED_DIRS` (`tools/wiki_link_audit.ts`), so it is excluded from the corpus (md / entries counts), `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`, the Astro site, and the dead-link audit. Do not remove this exclusion. Do not place wiki body content under `docs/`, and do not place developer docs in the wiki body.
 
 ### 中文
 
@@ -49,3 +51,4 @@
 - `CHANGELOG.md` 必须保留详细时间线和工作记录，不允许只写一句概括。至少记录 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果、后续事项。
 - 除非任务明确要求，不要对既有 Markdown 做大规模格式清理。同步类提交优先保持原文形态。
 - 提交前检查 `git status --short --branch`，提交后推送到 `origin/main`，并确认远端 HEAD。
+- `docs/` 目录是内部开发文档（架构、工具链、发布流程、陷阱集），不对外发布。它已注册进 `lib/markdown_helpers.ts` 的 `EXCLUDED_WALK_DIRS` 与 `tools/wiki_link_audit.ts` 的 `IGNORED_DIRS`，因此不计入 corpus（md / entries 计数），也不进 `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro 站点或死链审计。不要移除这个排除。不要把 wiki 正文放进 `docs/`，也不要把开发文档放进 wiki 正文。

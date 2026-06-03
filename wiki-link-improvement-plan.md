@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 10 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 8 |
 | canonical_anchor drift (informational, non-gating) | 1 |
 
@@ -41,16 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md` | `M` | 15 | ok |
-| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 28 | ok |
-| `HOW-TO-NAVIGATE.md` | `M` | 207 | ok |
-| `INDEX.md` | `M` | 29 | ok |
-| `JapanFG/fukushi-trust.md` | `M` | 5 | ok |
-| `JapanFG/hachijuni-bank.md` | `M` | 18 | ok |
-| `JapanFG/sekisui-house-trust.md` | `M` | 8 | ok |
-| `JapanFG/toyota-finance.md` | `M` | 8 | ok |
-| `JapanFG/toyota-financial.md` | `M` | 7 | ok |
-| `trade/INDEX.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 

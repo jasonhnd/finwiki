@@ -14,11 +14,11 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1485 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1486 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1420 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1009万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,094,949） |
+| Text volume | 約1011万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,105,853） |
 | Word-like tokens | 約163万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-03 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
@@ -34,6 +34,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > 内容整理: v2026.06.03-6 では並列 subagent で全領域を棚卸しし、内容品質を保ったまま整理しました。2026-05-25 の拡充以降 stale だった 8 領域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）を実際の entry へ同期（漏れていた entry の追加、`single entry` 等の古い記述修正、stale backlog 整理）。Bun 移行後に残っていた `tools/*.py` 参照を `SCHEMA.md` / `INDEX.md` / convention / proposal で `.ts` へ修正、`HOW-TO-NAVIGATE.md` の count drift（1465+/24+ → 1,400+/23）を是正、孤立していた 5 件の convention/proposal 文書を `INDEX.md` Control Documents に収録、security INDEX の Status 列ラベルを confidence へ修正しました。Lawson TOB 価格は公開開示に基づき ¥4,952 → ¥10,360 へ統一しました（web 照合）。link audit は entries=1411 / issues=0 で PASS、wiki 本文の死リンクは 0 のままです。
 
 > 構造整理: v2026.06.03-7 では並列 subagent で構造系の整理 B/C/D を落地しました。(B) mislabel だった governance（実体は非営利・公益法人）と manufacturing（実体は manufacturer-finance）の INDEX に scope/disambiguation を追加（corporate governance は finance/securities/exchanges、entity ページは JapanFG、ABS は structured-finance へ案内）。(C) 631 件が flat だった JapanFG に frontmatter tags 駆動で 9 件の機構類型別 sub-INDEX（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy、計 609 entry）を新設し、`JapanFG/INDEX` に類型別導航ブロックを追加。file は一切移動せず（Option A）既存リンク・URL を保全。(D) canonical_anchor proposal の Phase 0 を落地: `canonical_anchor` を SCHEMA の optional field と canonical key order に追加、Saison / Toyota Financial Services の 2 mirror pair に pilot 設定、proposal を status: active へ更新（Phase 1 の audit tooling は後続）。link audit は entries=1420 / issues=0 で PASS（新 sub-INDEX の wikilink 全 resolve、死リンク 0）。
+
+> 開発文書システム: v2026.06.03-10 では repo 内部の開発者向け文書を `docs/` に新設しました（README 索引 / architecture / toolchain / release-process / gotchas の 5 件）。アーキテクチャ、ツールチェーン、リリース SOP、落とし穴集を集約。`docs/` は `lib/markdown_helpers.ts` の `EXCLUDED_WALK_DIRS` と `tools/wiki_link_audit.ts` の `IGNORED_DIRS` に登録し、corpus（md / entries 計数）・sitemap / llms / ai-index / api・Astro サイト・死リンク監査のいずれにも含めない内部専用としました。検証: `bun tools/release.ts --check --strict` EXIT=0、md=1485 据え置き（docs 5 件は不計）、entries=1420 / domains=23、sitemap / llms / ai-index の docs URL は 0。`AGENTS.md` にも docs/ を公開しない旨の規則を三語で追記。
 
 > 領域物理改名（C-A）: v2026.06.03-9 では mislabel だった 2 領域を実体に合わせて物理ディレクトリ改名しました。`governance/` → `non-profit/`（実体は非営利・公益法人 4 ページ）、`manufacturing/` → `manufacturer-finance/`（実体は製造業金融・captive finance 8 ページ）。root + i18n（ja/zh/en）を `git mv`、約 460 件の path wikilink を精確置換（`governance/…`→`non-profit/…` 等、正文の語や historical CHANGELOG/releases の史実記述は不変）、frontmatter `domain`、site build 設定（`content.config.ts`・`siteIndex.mjs` の `ENTRY_DOMAIN_DIRS` + `DOMAIN_TITLES`、`i18n/groups.ts` の super-group）、`wiki_link_audit.ts` の domain 配置、root INDEX domain 表、discovery surface を一括同期。表示名は「非営利 / Non-Profit / 非营利」「製造業金融 / Manufacturer Finance / 厂商金融」。link audit は entries=1420 / issues=0 で PASS（死リンク 0）、sitemap は non-profit 4 / manufacturer-finance 8 URL、旧 `governance/`・`manufacturing/` URL は 0、lastmod 汚染 0。**公開 URL が変わります**（`/ja/governance/x`→`/ja/non-profit/x` 等、旧 URL は消滅）。site/ に node_modules が無く Astro build を本地検証できないため、build 健全性は GitHub Actions で検証します。
 
@@ -161,11 +163,11 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1485 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1486 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1420 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~10.09M chars | ~10,094,949 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.11M chars | ~10,105,853 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.63M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-03 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -181,6 +183,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > Content cleanup: v2026.06.03-6 audited every domain with parallel subagents and tidied the corpus without changing content quality. The 8 domain INDEXes that had gone stale since the 2026-05-25 expansion (corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security) were synced to their real entries (adding omitted entries, fixing stale "single entry" wording, cleaning stale backlogs). Lingering post-Bun-migration `tools/*.py` references in `SCHEMA.md` / `INDEX.md` / convention / proposal were corrected to `.ts`; the `HOW-TO-NAVIGATE.md` count drift (1465+/24+ → 1,400+/23) was fixed; the 5 orphaned convention/proposal docs were added to the `INDEX.md` Control Documents; and the security INDEX "Status" column was relabeled to confidence. The Lawson TOB price was unified to ¥10,360 (from an erroneous ¥4,952) per public disclosure (web-verified). Link audit passes at entries=1411 / issues=0 with zero dead links in the wiki body.
 
 > Structural cleanup: v2026.06.03-7 landed the structural tasks B/C/D with parallel subagents. (B) Added scope/disambiguation to the mislabeled governance (actually non-profit / public-interest) and manufacturing (actually manufacturer-finance) INDEXes, routing corporate governance to finance/securities/exchanges, entity pages to JapanFG, and ABS to structured-finance. (C) Gave the flat 631-entry JapanFG domain 9 institution-type sub-indexes driven by frontmatter tags (megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy; 609 entries grouped) plus a navigation block in `JapanFG/INDEX` — with zero file moves (Option A), preserving every existing link and URL. (D) Landed Phase 0 of the canonical_anchor proposal: added `canonical_anchor` as an optional SCHEMA field and to the canonical key order, set it as a pilot on the Saison and Toyota Financial Services mirror pairs, and marked the proposal status: active (Phase 1 audit tooling is future work). Link audit passes at entries=1420 / issues=0 (every new sub-index wikilink resolves; zero dead links).
+
+> Developer docs system: v2026.06.03-10 adds an internal developer-documentation tree under `docs/` (5 files: README index / architecture / toolchain / release-process / gotchas) covering architecture, the toolchain, the release SOP, and gotchas. `docs/` is registered in `EXCLUDED_WALK_DIRS` (`lib/markdown_helpers.ts`) and `IGNORED_DIRS` (`tools/wiki_link_audit.ts`), making it internal-only: excluded from the corpus (md / entries counts), sitemap / llms / ai-index / api, the Astro site, and the dead-link audit. Verification: `bun tools/release.ts --check --strict` EXIT=0, md=1485 unchanged (the 5 docs files are not counted), entries=1420 / domains=23, 0 docs URLs in sitemap / llms / ai-index. `AGENTS.md` also gained a trilingual rule that docs/ is not published.
 
 > Domain physical rename (C-A): v2026.06.03-9 physically renamed the two mislabeled domains to match their actual scope. `governance/` → `non-profit/` (real scope: non-profit / public-interest foundations, 4 pages) and `manufacturing/` → `manufacturer-finance/` (real scope: manufacturer / captive finance, 8 pages). `git mv` for root + i18n (ja/zh/en), ~460 path wikilinks precisely rewritten (`governance/…`→`non-profit/…` etc.; prose words and the historical CHANGELOG/releases records left intact), plus frontmatter `domain`, the site build config (`ENTRY_DOMAIN_DIRS` + `DOMAIN_TITLES` in `content.config.ts`/`siteIndex.mjs`, the super-group in `i18n/groups.ts`), the `wiki_link_audit.ts` domain map, the root INDEX domain table, and discovery surfaces — all synced. Display names are now "非営利 / Non-Profit / 非营利" and "製造業金融 / Manufacturer Finance / 厂商金融". Link audit PASSES at entries=1420 / issues=0 (0 dead links); the sitemap carries 4 non-profit / 8 manufacturer-finance URLs, 0 old `governance/` or `manufacturing/` URLs, 0 lastmod pollution. **Public URLs change** (`/en/governance/x`→`/en/non-profit/x` etc.; old URLs disappear rather than 301). site/ has no node_modules so the Astro build can't be verified locally — build health is validated on GitHub Actions.
 
@@ -302,11 +306,11 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1485 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1486 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1420 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1009万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,094,949） |
+| Text volume | 约1011万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,105,853） |
 | Word-like tokens | 约163万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
@@ -322,6 +326,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > 内容整理：v2026.06.03-6 用并行 subagent 盘点了全部领域，在不改变内容质量的前提下做了整理。把 2026-05-25 扩充后 stale 的 8 个领域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）同步到实际 entry（补全漏列 entry、修正 `single entry` 等过时表述、清理 stale backlog）。修正了 Bun 迁移后遗留在 `SCHEMA.md` / `INDEX.md` / convention / proposal 中的 `tools/*.py` 引用为 `.ts`；纠正 `HOW-TO-NAVIGATE.md` 的 count drift（1465+/24+ → 1,400+/23）；把 5 个孤立的 convention/proposal 文档收录进 `INDEX.md` 的 Control Documents；并把 security INDEX 的 Status 列改标为 confidence。依据公开披露（已 web 核实）把 Lawson TOB 价格从错误的 ¥4,952 统一为 ¥10,360。link audit 通过 entries=1411 / issues=0，wiki 正文死链保持 0。
 
 > 结构整理：v2026.06.03-7 用并行 subagent 落地了结构类任务 B/C/D。(B) 给 mislabel 的 governance（实为非营利 / 公益法人）和 manufacturing（实为厂商金融）INDEX 加 scope/disambiguation，把 corporate governance 路由到 finance/securities/exchanges、entity 页到 JapanFG、ABS 到 structured-finance。(C) 给 631 个 entry 扁平的 JapanFG 用 frontmatter tags 驱动新建 9 个机构类型 sub-index（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy，分组 609 个 entry），并在 `JapanFG/INDEX` 加类型导航块 —— 零文件移动（Option A），保全所有既有链接与 URL。(D) 落地 canonical_anchor proposal 的 Phase 0：把 `canonical_anchor` 加为 SCHEMA optional 字段和 canonical key order，在 Saison / Toyota Financial Services 两个 mirror pair 设 pilot，并把 proposal 标为 status: active（Phase 1 的 audit tooling 留作后续）。link audit 通过 entries=1420 / issues=0（新 sub-index 的 wikilink 全部 resolve、零死链）。
+
+> 开发文档系统: v2026.06.03-10 在 `docs/` 新建 repo 内部开发者文档（5 个文件：README 索引 / architecture / toolchain / release-process / gotchas），汇集架构、工具链、发布 SOP、陷阱集。`docs/` 已注册进 `lib/markdown_helpers.ts` 的 `EXCLUDED_WALK_DIRS` 与 `tools/wiki_link_audit.ts` 的 `IGNORED_DIRS`，设为内部专用：不计入 corpus（md / entries 计数），也不进 sitemap / llms / ai-index / api、Astro 站点或死链审计。验证：`bun tools/release.ts --check --strict` EXIT=0、md=1485 不变（docs 5 文件不计）、entries=1420 / domains=23、sitemap / llms / ai-index 的 docs URL 均为 0。`AGENTS.md` 也三语追加 docs/ 不发布的规则。
 
 > 领域物理改名（C-A）：v2026.06.03-9 把两个 mislabel 的领域按实体物理改名目录。`governance/` → `non-profit/`（实体是非营利・公益法人 4 页）、`manufacturing/` → `manufacturer-finance/`（实体是厂商金融・captive finance 8 页）。root + i18n（ja/zh/en）`git mv`、约 460 处 path wikilink 精确置换（`governance/…`→`non-profit/…` 等；正文词语与 historical CHANGELOG/releases 的史实记述不变）、frontmatter `domain`、site build 配置（`content.config.ts`・`siteIndex.mjs` 的 `ENTRY_DOMAIN_DIRS` + `DOMAIN_TITLES`、`i18n/groups.ts` 的 super-group）、`wiki_link_audit.ts` 的 domain 配置、root INDEX domain 表、discovery surface 全部同步。显示名为「非営利 / Non-Profit / 非营利」「製造業金融 / Manufacturer Finance / 厂商金融」。link audit 通过 entries=1420 / issues=0（死链 0）；sitemap 含 non-profit 4 / manufacturer-finance 8 个 URL，旧 `governance/`・`manufacturing/` URL 为 0，lastmod 污染 0。**公开 URL 会变**（`/zh/governance/x`→`/zh/non-profit/x` 等；旧 URL 消失而非 301）。site/ 无 node_modules 无法本地验证 Astro build，build 健全性由 GitHub Actions 验证。
 
