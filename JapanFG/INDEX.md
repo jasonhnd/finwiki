@@ -43,6 +43,24 @@ sources:
 
 ---
 
+## Sub-indexes by institution type
+
+この namespace は 600+ entity ページのフラット集合のため、業態別の type-grouped sub-index で discoverability を補う。**entity ファイルは移動せず `JapanFG/` に残り**、各 sub-index は bare `[[JapanFG/slug]]` wikilink で該当業態のメンバーをまとめるナビゲーション面。
+
+- [[JapanFG/megabanks-and-fg-index]] — megabanks and financial-group holding companies (3 メガ + 通信系 / 決済系 / 郵政 / ネット金融 FG)
+- [[JapanFG/regional-banks-index]] — regional banks and second-regional banks (地銀 / 第二地銀 / 地銀 FG / ネット銀, 地域別)
+- [[JapanFG/cooperative-finance-index]] — cooperative finance (信金 / 信組 / JA・JF / 労金 / 系統中央機関)
+- [[JapanFG/trust-index]] — trust banks and trust companies (信託銀行 / 信託会社)
+- [[JapanFG/insurance-index]] — insurance (生保 / 損保 / 再保険 / 持株会社 / 専門・外資・共済)
+- [[JapanFG/securities-and-asset-management-index]] — securities and asset management (証券 / ネット証券・FX / 資産運用)
+- [[JapanFG/payments-cards-leasing-finance-index]] — payments, cards, leasing and non-bank finance (決済 / カード / ウォレット / 送金 / 暗号資産 / リース / 消費者金融)
+- [[JapanFG/foreign-institutions-index]] — foreign institutions (外銀支店 / 外資 IB / ICSD / 外資系日本子会社, 国別)
+- [[JapanFG/regulators-sro-policy-index]] — regulators, SROs and policy finance (日銀 / 金融庁 / 政策金融 / 自主規制・業界団体 / 監査法人 / 格付 / セーフティネット / 短資)
+
+これらは横断ナビ面であり、`registry of record` ではない。業態別の FSA 登録 registry がある場合は registry ページを source of truth とする（[[JapanFG/foreign-bank-branches-japan-index]] / [[JapanFG/trust-companies-japan-index]] / [[JapanFG/nonlife-insurer-registry-japan-index]]）。法規・牌照横断は [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]。
+
+---
+
 ## Cross-cutting overview
 
 - [[JapanFG/japan-financial-conglomerate-structure-overview|Japan financial conglomerate structure overview]] — six-cluster taxonomy of Japan's financial conglomerates (mega-bank FG / trust-dominant FG / postal-and-policy-finance / communications-and-payment FG / independent securities-and-asset-management FG / regional bank FG), FSA conglomerate supervision, and structural history.

@@ -19,6 +19,7 @@ sources:
   - "https://www.sompo-direct.co.jp/company/profile.html"
   - "https://www.sompo-direct.co.jp/"
   - "https://www.sompo-direct.co.jp/company/disclosure/"
+canonical_anchor: JapanFG/saison-automobile-fire-insurance
 ---
 
 # Saison Automobile & Fire / SOMPO Direct

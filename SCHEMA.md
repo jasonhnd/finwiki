@@ -56,6 +56,7 @@ FinWiki entries must work as connected wiki nodes, not as isolated notes with on
 | `evidence_count` | number | Legacy corroboration count. |
 | `challenges` | list | Legacy counter-evidence field. |
 | `related` | list | Cross-references. |
+| `canonical_anchor` | string | Vault-root path to the single source-of-truth anchor entry for a multi-domain entity or mirror page. |
 | `note` | string | Caveats or disclaimers. |
 | `type` | string | Usually `wiki` if present. |
 
@@ -98,6 +99,7 @@ sources:
 evidence_count:
 challenges:
 related:
+canonical_anchor:
 type:
 note:
 ```

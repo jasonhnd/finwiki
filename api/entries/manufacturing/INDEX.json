@@ -29,7 +29,7 @@
       "Domain index maintained from public FinWiki entries and source-backed entry frontmatter."
     ]
   },
-  "summary": "manufacturing/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-perspective finance anchors, complementary to JapanFG entity pages and structured-finance ABS — the captive/vendor/export finance arms run by industrial groups, plus the operating-company and region",
+  "summary": "manufacturing/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-finance: the captive, vendor, and export-finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind — not a general manufacturer encyclopedi",
   "headings": [
     "manufacturing — Japanese manufacturing company index",
     "TL;DR",
@@ -40,7 +40,7 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -54,7 +54,8 @@
       "manufacturing/seiko-epson",
       "manufacturing/sony-group-finance-arm",
       "manufacturing/toyota-financial-services",
-      "manufacturing/toyota-motor"
+      "manufacturing/toyota-motor",
+      "structured-finance/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -69,14 +70,15 @@
       "https://finwiki.zksc.io/manufacturing/seiko-epson",
       "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
       "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
-      "https://finwiki.zksc.io/manufacturing/toyota-motor"
+      "https://finwiki.zksc.io/manufacturing/toyota-motor",
+      "https://finwiki.zksc.io/structured-finance/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3386,
-    "word_like_tokens": 476,
+    "nonspace_chars": 3661,
+    "word_like_tokens": 518,
     "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-03"
   }

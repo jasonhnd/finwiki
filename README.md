@@ -14,12 +14,12 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1473 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1483 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
-| Link-audited entries | 1411 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
+| Link-audited entries | 1420 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1001万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,014,863） |
-| Word-like tokens | 約162万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1007万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,067,157） |
+| Word-like tokens | 約163万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-03 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
 
@@ -32,6 +32,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > AI タスク入口: v2026.06.03-5 では手動管理の `llms-tasks.txt` を現行スナップショットへ同期しました。entry の改名・再編で生じた 10 件の死リンク（money-market / derivatives / payments / policy-finance / securities / systems）を現存 entry へ再マッピングし、Snapshot 行を `1,472 files / 1,411 link-audited entries / 23 domains / ~9.99M non-space chars`（2026-06-03 JST）へ更新しました。`.txt` は `wiki:audit` の対象外で死リンクが潜在していたため、160 件の link target を実在性照合しました。本 release で release notes を追加したことで corpus は 1,471 から 1,472 files になり、discovery surface を再生成しました。fresh clone は fs mtime を一律 reset するため、commit 済み `sitemap.xml` の lastmod から各ページの mtime を復元してから再生成し、既存 1,469 ページの lastmod を保持しています。`bun tools/release.ts --check --strict` は link audit PASS（entries=1411 / issues=0）と counts in sync を確認しています。
 
 > 内容整理: v2026.06.03-6 では並列 subagent で全領域を棚卸しし、内容品質を保ったまま整理しました。2026-05-25 の拡充以降 stale だった 8 領域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）を実際の entry へ同期（漏れていた entry の追加、`single entry` 等の古い記述修正、stale backlog 整理）。Bun 移行後に残っていた `tools/*.py` 参照を `SCHEMA.md` / `INDEX.md` / convention / proposal で `.ts` へ修正、`HOW-TO-NAVIGATE.md` の count drift（1465+/24+ → 1,400+/23）を是正、孤立していた 5 件の convention/proposal 文書を `INDEX.md` Control Documents に収録、security INDEX の Status 列ラベルを confidence へ修正しました。Lawson TOB 価格は公開開示に基づき ¥4,952 → ¥10,360 へ統一しました（web 照合）。link audit は entries=1411 / issues=0 で PASS、wiki 本文の死リンクは 0 のままです。
+
+> 構造整理: v2026.06.03-7 では並列 subagent で構造系の整理 B/C/D を落地しました。(B) mislabel だった governance（実体は非営利・公益法人）と manufacturing（実体は manufacturer-finance）の INDEX に scope/disambiguation を追加（corporate governance は finance/securities/exchanges、entity ページは JapanFG、ABS は structured-finance へ案内）。(C) 631 件が flat だった JapanFG に frontmatter tags 駆動で 9 件の機構類型別 sub-INDEX（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy、計 609 entry）を新設し、`JapanFG/INDEX` に類型別導航ブロックを追加。file は一切移動せず（Option A）既存リンク・URL を保全。(D) canonical_anchor proposal の Phase 0 を落地: `canonical_anchor` を SCHEMA の optional field と canonical key order に追加、Saison / Toyota Financial Services の 2 mirror pair に pilot 設定、proposal を status: active へ更新（Phase 1 の audit tooling は後続）。link audit は entries=1420 / issues=0 で PASS（新 sub-INDEX の wikilink 全 resolve、死リンク 0）。
 
 > 表示テーマ: v2026.06.03-2 では human site の CSS token を暖色紙面・赭色系から、冷灰の紙面、青緑の primary action、低彩度の補助色へ変更しました。CSS の実質的な theme template は `site/src/styles/global.css` の `:root` と `[data-theme="dark"]` にある custom properties です。
 
@@ -155,12 +157,12 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1473 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1483 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
-| Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
+| Link-audited entries | 1420 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~10.01M chars | ~10,014,863 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.62M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.07M chars | ~10,067,157 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.63M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-03 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
 
@@ -173,6 +175,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > AI task entry: v2026.06.03-5 syncs the manually maintained `llms-tasks.txt` to the current snapshot. It remaps 10 dead links (across money-market / derivatives / payments / policy-finance / securities / systems) left by entry renames and reorganizations to their existing targets, and updates the snapshot line to `1,472 files / 1,411 link-audited entries / 23 domains / ~9.99M non-space chars` (2026-06-03 JST). Because `.txt` files fall outside the `wiki:audit` scope these dead links had stayed latent, so all 160 link targets were existence-checked. Adding the release notes moves the corpus from 1,471 to 1,472 files, so the discovery surfaces were regenerated; since a fresh clone resets every fs mtime, page mtimes were first restored from the committed `sitemap.xml` lastmod values, preserving the lastmod of all 1,469 existing pages. `bun tools/release.ts --check --strict` confirms link audit PASS (entries=1411 / issues=0) and counts in sync.
 
 > Content cleanup: v2026.06.03-6 audited every domain with parallel subagents and tidied the corpus without changing content quality. The 8 domain INDEXes that had gone stale since the 2026-05-25 expansion (corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security) were synced to their real entries (adding omitted entries, fixing stale "single entry" wording, cleaning stale backlogs). Lingering post-Bun-migration `tools/*.py` references in `SCHEMA.md` / `INDEX.md` / convention / proposal were corrected to `.ts`; the `HOW-TO-NAVIGATE.md` count drift (1465+/24+ → 1,400+/23) was fixed; the 5 orphaned convention/proposal docs were added to the `INDEX.md` Control Documents; and the security INDEX "Status" column was relabeled to confidence. The Lawson TOB price was unified to ¥10,360 (from an erroneous ¥4,952) per public disclosure (web-verified). Link audit passes at entries=1411 / issues=0 with zero dead links in the wiki body.
+
+> Structural cleanup: v2026.06.03-7 landed the structural tasks B/C/D with parallel subagents. (B) Added scope/disambiguation to the mislabeled governance (actually non-profit / public-interest) and manufacturing (actually manufacturer-finance) INDEXes, routing corporate governance to finance/securities/exchanges, entity pages to JapanFG, and ABS to structured-finance. (C) Gave the flat 631-entry JapanFG domain 9 institution-type sub-indexes driven by frontmatter tags (megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy; 609 entries grouped) plus a navigation block in `JapanFG/INDEX` — with zero file moves (Option A), preserving every existing link and URL. (D) Landed Phase 0 of the canonical_anchor proposal: added `canonical_anchor` as an optional SCHEMA field and to the canonical key order, set it as a pilot on the Saison and Toyota Financial Services mirror pairs, and marked the proposal status: active (Phase 1 audit tooling is future work). Link audit passes at entries=1420 / issues=0 (every new sub-index wikilink resolves; zero dead links).
 
 > Site presentation: v2026.06.03-2 changes the human-site CSS tokens from warm paper / ochre tones to cool gray surfaces, teal-blue primary actions, and restrained secondary colors. The practical theme template is the custom-property block in `site/src/styles/global.css` under `:root` and `[data-theme="dark"]`.
 
@@ -290,12 +294,12 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1473 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1483 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
-| Link-audited entries | 1411 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
+| Link-audited entries | 1420 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1001万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,014,863） |
-| Word-like tokens | 约162万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1007万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,067,157） |
+| Word-like tokens | 约163万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
 
@@ -308,6 +312,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > AI 任务入口：v2026.06.03-5 把手动维护的 `llms-tasks.txt` 同步到当前快照。将 entry 改名 / 重组遗留的 10 个死链（涉及 money-market / derivatives / payments / policy-finance / securities / systems）逐个重映射到现存目标，并把 Snapshot 行更新为 `1,472 files / 1,411 link-audited entries / 23 domains / ~9.99M non-space chars`（2026-06-03 JST）。由于 `.txt` 不在 `wiki:audit` 范围内、这些死链此前一直潜伏，本次对全部 160 个 link target 做了实在性核对。新增 release notes 使 corpus 从 1,471 增至 1,472 files，因此重新生成了 discovery surface；由于 fresh clone 会重置所有 fs mtime，本次先从已提交的 `sitemap.xml` lastmod 恢复各页面 mtime 再重新生成，保持了既有 1,469 个页面的 lastmod。`bun tools/release.ts --check --strict` 确认 link audit PASS（entries=1411 / issues=0）、counts in sync。
 
 > 内容整理：v2026.06.03-6 用并行 subagent 盘点了全部领域，在不改变内容质量的前提下做了整理。把 2026-05-25 扩充后 stale 的 8 个领域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）同步到实际 entry（补全漏列 entry、修正 `single entry` 等过时表述、清理 stale backlog）。修正了 Bun 迁移后遗留在 `SCHEMA.md` / `INDEX.md` / convention / proposal 中的 `tools/*.py` 引用为 `.ts`；纠正 `HOW-TO-NAVIGATE.md` 的 count drift（1465+/24+ → 1,400+/23）；把 5 个孤立的 convention/proposal 文档收录进 `INDEX.md` 的 Control Documents；并把 security INDEX 的 Status 列改标为 confidence。依据公开披露（已 web 核实）把 Lawson TOB 价格从错误的 ¥4,952 统一为 ¥10,360。link audit 通过 entries=1411 / issues=0，wiki 正文死链保持 0。
+
+> 结构整理：v2026.06.03-7 用并行 subagent 落地了结构类任务 B/C/D。(B) 给 mislabel 的 governance（实为非营利 / 公益法人）和 manufacturing（实为厂商金融）INDEX 加 scope/disambiguation，把 corporate governance 路由到 finance/securities/exchanges、entity 页到 JapanFG、ABS 到 structured-finance。(C) 给 631 个 entry 扁平的 JapanFG 用 frontmatter tags 驱动新建 9 个机构类型 sub-index（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy，分组 609 个 entry），并在 `JapanFG/INDEX` 加类型导航块 —— 零文件移动（Option A），保全所有既有链接与 URL。(D) 落地 canonical_anchor proposal 的 Phase 0：把 `canonical_anchor` 加为 SCHEMA optional 字段和 canonical key order，在 Saison / Toyota Financial Services 两个 mirror pair 设 pilot，并把 proposal 标为 status: active（Phase 1 的 audit tooling 留作后续）。link audit 通过 entries=1420 / issues=0（新 sub-index 的 wikilink 全部 resolve、零死链）。
 
 > 站点视觉主题：v2026.06.03-2 将 human site 的 CSS token 从暖纸面 / 赭色系改为冷灰纸面、青蓝 primary action 和低饱和辅助色。实际可复用的 theme template 是 `site/src/styles/global.css` 中 `:root` 与 `[data-theme="dark"]` 的 custom properties。
 

@@ -7,12 +7,12 @@ aliases:
   - schema-extension-canonical-anchor
 domain: control-proposal
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-06-03
+last_tended: 2026-06-03
 review_by: 2027-05-25
-confidence: possible
+confidence: likely
 tags: [meta, proposal, schema-extension, frontmatter, canonical-anchor, navigation]
-status: candidate
+status: active
 sources:
   - SCHEMA.md (current FinWiki frontmatter spec)
   - AGENTS.md (FinWiki maintenance protocol)
@@ -28,7 +28,9 @@ sources:
 This proposal sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]. Read it together with [[cross-domain-anchor-convention|cross-domain anchor convention]] for the prose rules it would formalize, with [[entity-mirror-page-policy|mirror-page policy]] for the case that motivates the field, and with [[domain-bridge-navigation-guide|domain bridge navigation guide]] for the reader-side benefit.
 
 > [!info] TL;DR
-> Proposal: add a recommended (not required) frontmatter field `canonical_anchor:` that points cross-domain pages (mirrors, sibling sub-product pages, public-figure pages, macro-tracker pages) at the single source-of-truth anchor for the underlying entity. This is a forward-looking proposal — it is **not** yet adopted in [[SCHEMA]]. The field would make machine-readable what is currently a prose convention, enable an audit-tool extension that flags drift, and improve `tools/generate_ai_discovery.ts` output by exposing entity-level graph edges to AI / crawler consumers.
+> Proposal: add an optional (not required) frontmatter field `canonical_anchor:` that points cross-domain pages (mirrors, sibling sub-product pages, public-figure pages, macro-tracker pages) at the single source-of-truth anchor for the underlying entity. The field makes machine-readable what is currently a prose convention, would enable an audit-tool extension that flags drift, and would improve `tools/generate_ai_discovery.ts` output by exposing entity-level graph edges to AI / crawler consumers.
+>
+> **Status (2026-06-03): Phase 0 adopted.** `canonical_anchor:` is now documented in [[SCHEMA]] as an optional field (added to the "Optional / Legacy Fields" table and to the "Canonical Key Order" block, right after `related`). It has been set as a manual pilot on the Saison and Toyota Financial Services mirror pairs (see §4). Phases 1-4 (audit tooling, discovery-output edges, full back-fill, hard requirement) remain future work.
 
 ## 1. Motivation
 
@@ -70,21 +72,20 @@ The field is **recommended, not required**. Existing entries do not need to be b
 title: Saison Automobile & Fire / SOMPO Direct
 aliases: [saison-automobile-fire, Saison Automobile & Fire, セゾン自動車火災保険, SOMPO Direct]
 domain: insurance
-canonical_anchor: insurance/saison-automobile-fire
+canonical_anchor: JapanFG/saison-automobile-fire-insurance
 ...
 ```
 
-`JapanFG/saison-automobile-fire-insurance.md`:
+`JapanFG/saison-automobile-fire-insurance.md` (the canonical anchor — self-pointing field optional, omitted in the Phase 0 pilot):
 
 ```yaml
 title: セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)
 aliases: [Saison Automobile & Fire, セゾン自動車火災保険, SOMPO Direct, ...]
 domain: JapanFG
-canonical_anchor: insurance/saison-automobile-fire
 ...
 ```
 
-Both mirrors point at the insurance page as the designated canonical. (The choice of which mirror is canonical is editorial; here, the insurance page is more product-focused, so it carries the canonical role.)
+The choice of which page is canonical is editorial. The Phase 0 adoption designates the **JapanFG operating-company page** as the canonical anchor (it self-describes as "the operating-company anchor for the direct non-life insurer"), and the insurance page — the product/channel deep-dive "case" — points at it.
 
 ### Example: cross-product split (JPM family)
 
@@ -121,7 +122,11 @@ Tooling cost is modest because both existing tools already parse frontmatter. Ed
 
 If adopted, migration would be **incremental and opt-in**:
 
-1. **Phase 0 (preparatory).** Update [[SCHEMA]] §"Optional / Legacy Fields" to add `canonical_anchor:` as an optional field with the semantics described above. Update [[entity-mirror-page-policy]] §7 to recommend setting the field on every confirmed mirror pair. Update [[cross-domain-anchor-convention]] §6 to mention the field. No code changes yet.
+1. **Phase 0 (preparatory). — ADOPTED 2026-06-03.** [[SCHEMA]] now documents `canonical_anchor:` as an optional field: a row in the §"Optional / Legacy Fields" table (Type: string; vault-root path to the single source-of-truth anchor entry for a multi-domain entity or mirror page) plus an entry in the §"Canonical Key Order" block immediately after `related`. The field has been set as a manual pilot on two confirmed mirror pairs, with the **JapanFG operating-company page** designated as the canonical anchor in each case and the other-domain page (the secondary/mirror "view") pointing at it:
+   - [[insurance/saison-automobile-fire]] → `canonical_anchor: JapanFG/saison-automobile-fire-insurance` (the insurance page is the product/channel deep-dive; [[JapanFG/saison-automobile-fire-insurance]] is the operating-company anchor).
+   - [[manufacturing/toyota-financial-services]] → `canonical_anchor: JapanFG/toyota-financial` (the manufacturing page is the parent-OEM strategy view; [[JapanFG/toyota-financial]] is the entity profile / operating-company anchor).
+
+   Still outstanding from this phase: updating [[entity-mirror-page-policy]] §7 to recommend setting the field on every confirmed mirror pair, and [[cross-domain-anchor-convention]] §6 to mention the field. No code changes were made (`tools/*` untouched).
 2. **Phase 1 (audit-only).** Extend `tools/wiki_link_audit.ts` to:
    - Resolve `canonical_anchor:` values to existing pages (flag broken anchors).
    - Verify reciprocal body links between mirror siblings (both pages must cross-link to each other if they declare the same canonical anchor).
@@ -141,9 +146,9 @@ Each phase can ship independently. Phases 0-2 are zero-risk additions. Phase 3 i
 
 ## 6. Decision recommendation
 
-Adopt **phase 0 only** in the near term: update [[SCHEMA]] to document the optional field, update [[entity-mirror-page-policy]] and [[cross-domain-anchor-convention]] to reference it, and set the field on the small number of existing mirror pairs as a manual pilot.
+**Phase 0 adopted (2026-06-03).** [[SCHEMA]] now documents the optional field, and the field is set on the Saison and Toyota Financial Services mirror pairs as a manual pilot. Remaining Phase 0 prose touch-ups ([[entity-mirror-page-policy]] §7 and [[cross-domain-anchor-convention]] §6) are outstanding.
 
-Defer phases 1-4 until the pilot reveals whether the field carries enough signal to justify tooling investment. If after six months the field has been useful in audits and reviews, proceed to phase 1.
+Phases 1-4 stay deferred until the pilot reveals whether the field carries enough signal to justify tooling investment. If after six months the field has been useful in audits and reviews, proceed to phase 1.
 
 ## 7. Risks of not adopting
 

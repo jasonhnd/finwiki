@@ -39,15 +39,15 @@
     "Overview",
     "命名・位置 convention",
     "テンプレート（8 段固定）",
+    "Sub-indexes by institution type",
     "Cross-cutting overview",
     "P0 メガバンク + 主要 FG（8 家）✅ 完了",
     "P1 ネオバンク・証券・暗号資産（8 家）✅ 完了",
     "P2 生損保・クレカ・政策金融（9 家）✅ 完了",
-    "P3 大手系・信託・郵政・政策金融（10 家）✅ 完了",
-    "P4 地銀 FG 第 1 波（10 家）✅ 完了"
+    "P3 大手系・信託・郵政・政策金融（10 家）✅ 完了"
   ],
   "body_links": {
-    "wikilinks_count": 887,
+    "wikilinks_count": 897,
     "wikilinks": [
       "01-bank",
       "18-shinwa-bank",
@@ -96,6 +96,7 @@
       "JapanFG/clearstream-banking-japan",
       "JapanFG/commerzbank-japan",
       "JapanFG/commonwealth-bank-japan",
+      "JapanFG/cooperative-finance-index",
       "JapanFG/credit-agricole-bank-japan",
       "JapanFG/credit-agricole-life",
       "JapanFG/ctbc-bank-japan",
@@ -121,14 +122,13 @@
       "JapanFG/first-commercial-bank-japan",
       "JapanFG/first-trust",
       "JapanFG/foreign-bank-branches-japan-index",
+      "JapanFG/foreign-institutions-index",
       "JapanFG/fpg-trust",
       "JapanFG/fukoku-life",
       "JapanFG/fukokushinrai-life",
       "JapanFG/fukui-bank",
       "JapanFG/fukuoka-bank",
-      "JapanFG/fukuoka-chuo-bank",
-      "JapanFG/fukushi-trust",
-      "JapanFG/fukushima-bank"
+      "JapanFG/fukuoka-chuo-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/01-bank",
@@ -178,6 +178,7 @@
       "https://finwiki.zksc.io/JapanFG/clearstream-banking-japan",
       "https://finwiki.zksc.io/JapanFG/commerzbank-japan",
       "https://finwiki.zksc.io/JapanFG/commonwealth-bank-japan",
+      "https://finwiki.zksc.io/JapanFG/cooperative-finance-index",
       "https://finwiki.zksc.io/JapanFG/credit-agricole-bank-japan",
       "https://finwiki.zksc.io/JapanFG/credit-agricole-life",
       "https://finwiki.zksc.io/JapanFG/ctbc-bank-japan",
@@ -203,22 +204,21 @@
       "https://finwiki.zksc.io/JapanFG/first-commercial-bank-japan",
       "https://finwiki.zksc.io/JapanFG/first-trust",
       "https://finwiki.zksc.io/JapanFG/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/JapanFG/foreign-institutions-index",
       "https://finwiki.zksc.io/JapanFG/fpg-trust",
       "https://finwiki.zksc.io/JapanFG/fukoku-life",
       "https://finwiki.zksc.io/JapanFG/fukokushinrai-life",
       "https://finwiki.zksc.io/JapanFG/fukui-bank",
       "https://finwiki.zksc.io/JapanFG/fukuoka-bank",
-      "https://finwiki.zksc.io/JapanFG/fukuoka-chuo-bank",
-      "https://finwiki.zksc.io/JapanFG/fukushi-trust",
-      "https://finwiki.zksc.io/JapanFG/fukushima-bank"
+      "https://finwiki.zksc.io/JapanFG/fukuoka-chuo-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 94584,
-    "word_like_tokens": 14166,
-    "inbound_wikilinks_count": 690,
-    "last_modified": "2026-05-30"
+    "nonspace_chars": 95925,
+    "word_like_tokens": 14378,
+    "inbound_wikilinks_count": 699,
+    "last_modified": "2026-06-03"
   }
 }

@@ -19,7 +19,9 @@ sources:
 
 ## TL;DR
 
-`manufacturing/` contains **7 active entries** (excluding INDEX, 8 total). The domain scope is **manufacturer-perspective finance anchors, complementary to JapanFG entity pages and structured-finance ABS** — the captive/vendor/export finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind. Wave 12 added deep manufacturer-finance profiles for Toyota Financial Services, Sony Group finance arm, Hitachi industrial finance, Panasonic captive finance, and Mitsubishi Heavy export finance, alongside the existing operating-company anchors (Toyota Motor, Seiko Epson). Use this domain when a bank / finance page needs the underlying industrial borrower, captive-finance arm, parent company, or regional manufacturing anchor.
+`manufacturing/` contains **7 active entries** (excluding INDEX, 8 total). The domain scope is **manufacturer-*finance*: the captive, vendor, and export-finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind** — not a general manufacturer encyclopedia. Wave 12 added deep manufacturer-finance profiles for Toyota Financial Services, Sony Group finance arm, Hitachi industrial finance, Panasonic captive finance, and Mitsubishi Heavy export finance, alongside the existing operating-company anchors (Toyota Motor, Seiko Epson). Use this domain when a bank / finance page needs the underlying industrial borrower, captive-finance arm, parent company, or regional manufacturing anchor.
+
+> **Scope / disambiguation.** This domain is manufacturer-finance, not corporate profiles. For financial-group *entity* pages see [[JapanFG/INDEX|JapanFG]]; for the asset-backed securitisation (ABS) side of captive finance see [[structured-finance/INDEX|structured-finance]]. The pages here are the manufacturer-side complement to those two homes.
 
 ## Entries
 
