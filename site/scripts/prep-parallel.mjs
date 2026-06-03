@@ -9,13 +9,13 @@ import { I18N, REPO, walkEntries } from './corpus-roots.mjs';
 
 const HERE = import.meta.dir;
 const JOBS = join(HERE, '..', '.cache', 'jobs');
-const LANGS = ['zh', 'en'];
 
 const args = process.argv.slice(2);
 const opt = (n, d) => {
   const i = args.indexOf(`--${n}`);
   return i >= 0 && args[i + 1] ? args[i + 1] : d;
 };
+const LANGS = opt('langs', 'zh,en').split(',').map((s) => s.trim()).filter(Boolean);
 const WORKERS = Number(opt('workers', '10'));
 const SIZE = Number(opt('size', '13'));
 const TOTAL = WORKERS * SIZE;

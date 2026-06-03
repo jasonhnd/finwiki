@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-02T18:21:42+09:00",
+  "generated_at": "2026-06-03T10:13:36+09:00",
   "counts": {
-    "markdown_files": 1467,
-    "public_markdown_pages": 1466,
-    "site_urls_in_sitemap": 1467,
+    "markdown_files": 1468,
+    "public_markdown_pages": 1467,
+    "site_urls_in_sitemap": 1468,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9951539,
-    "word_like_tokens": 1608221
+    "nonspace_utf8_chars": 9958674,
+    "word_like_tokens": 1609578
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -229,11 +229,11 @@
         "日本語",
         "English",
         "中文",
+        "2026-06-03",
+        "日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加",
         "2026-06-02",
         "静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1",
-        "Bun工具体系への全面移行 / Full Bun tooling migration / Bun 工具体系全面迁移",
-        "Pagefind静的全文検索追加 / Pagefind static full-text search / Pagefind 静态全文搜索",
-        "Vercel shadow deployment 準備 / Vercel shadow-deployment preparation / Vercel 影子部署准备"
+        "Bun工具体系への全面移行 / Full Bun tooling migration / Bun 工具体系全面迁移"
       ],
       "wikilinks": [
         "...",
@@ -468,9 +468,9 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 464037,
-      "word_like_tokens": 82254,
-      "last_modified": "2026-06-02"
+      "nonspace_chars": 467129,
+      "word_like_tokens": 82845,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -34248,9 +34248,9 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 31848,
-      "word_like_tokens": 5135,
-      "last_modified": "2026-06-02"
+      "nonspace_chars": 32114,
+      "word_like_tokens": 5207,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "SCHEMA.md",
@@ -75240,6 +75240,33 @@
       "last_modified": "2026-06-02"
     },
     {
+      "source_path": "releases/v2026.06.03.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03.md",
+      "title": "日本語 i18n 翻訳層の全量追加",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "FinWiki の ja i18n 翻訳層を全 1,380 entry に追加しました。これにより /ja/ は source fallback の日英混在本文ではなく、site/src/content/i18n/ja/ の機械翻訳 layer を優先して表示します。",
+      "headings": [
+        "日本語 i18n 翻訳層の全量追加",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 3777,
+      "word_like_tokens": 694,
+      "last_modified": "2026-06-03"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -84226,7 +84253,7 @@
       "markdown_links": [],
       "nonspace_chars": 2210,
       "word_like_tokens": 413,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-06-03"
     }
   ]
 }

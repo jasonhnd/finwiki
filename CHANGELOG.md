@@ -29,6 +29,21 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-03
+
+### 日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-03 10:09 JST。
+- **背景**: FinWiki の source corpus は英語骨子と日本語本文が混在するため、`/ja/` が i18n layer なしで source fallback を表示すると、公開日本語 site に英語見出しや英語説明が残る状態だった。zh/en は既に 1,380 件へ到達しており、公開三語 site として ja layer も同じ entry set へ揃える必要があった。
+- **範囲**: `site/src/content/i18n/ja/`、`site/scripts/prep-parallel.mjs`、`site/scripts/commit-translate.mjs`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.03.md`、root `index.html`、AI discovery surface (`robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json`, `api/entries/index.json`)。
+- **主要変更**: ja machine translation layer を全 1,380 entry へ追加した。各 file は source path / `source_hash` / `lang: ja` / `status: machine` / `fidelity: ok` を持ち、source 更新時に再翻訳 queue へ戻せる。`prep-parallel.mjs` と `commit-translate.mjs` は `--langs ja` を受け取れるようにし、引数なしでは従来どおり zh/en default を維持した。
+- **実行手順**: 10 worker 以下の並列制限で ja batch を継続し、完了済み worker は順次 archive した。placeholder mask / unmask pipeline を使い、各 worker directory の `.masked.md` と `.ja.md` count、wrong suffix、placeholder verify、英語残存 heuristic を確認した。最終 batch では 50 件を commit し、累計 ja count を 1,380 件へ到達させた。
+- **検証結果**: `bun scripts/commit-translate.mjs --langs ja` の最終 batch は ok=50 / needs_review=0 / missing=0。`site/src/content/i18n/ja/` は 1,380 files。`rg "fidelity:\s*needs_review" site/src/content/i18n/ja` は hit なし。`bun scripts/prep-parallel.mjs --workers 10 --size 15 --langs ja` は 0 jobs を返した。`bun run build` は PASS で 4,219 pages。`bun tools/check_duplicate_html_ids.ts site/dist` は checked=4219 / duplicate_ids=0。`bun tools/release.ts --write` は link audit entries=1411 / issues=0 で discovery / footer / README / index count を再同期した。`bun tools/release.ts --check --strict` は PASS。UTF-8 rendered ja samples では日本語 h1 / h2 と「機械翻訳」badge を確認した。`git diff --check` は PASS。
+- **既知の注意点**: ja entry は machine translation badge を表示する。mask された wikilink display label は source 側 label を保持する場合がある。これは placeholder 保護による既知の制約として受け入れる。
+- **残タスク**: push 後に remote HEAD、GitHub Actions、公開 `/ja/`、代表 entry、AI discovery surface を確認し、GitHub Release を同じ tag で公開する。
+- **EN**: Added the complete ja machine-translation layer for all 1,380 entries, so `/ja/` no longer depends on mixed Japanese / English source fallback. The translation prep and collection scripts now accept `--langs ja` while keeping zh/en defaults unchanged. Work was run under the 10-worker limit, completed workers were archived, and each worker output was checked for file count, wrong suffixes, placeholder integrity, and hard English residue. Final validation: final `commit-translate --langs ja` ok=50 / needs_review=0 / missing=0, cumulative ja files=1,380, no `fidelity: needs_review`, final prep 0 jobs, Astro build PASS with 4,219 pages, duplicate_ids=0, release write regenerated discovery after link audit 1411/0, strict release check PASS, UTF-8 rendered ja samples show Japanese text and the machine-translation badge, and `git diff --check` PASS.
+- **中文**: 已为全部 1,380 个 entry 增加 ja 机器翻译层，`/ja/` 不再依赖日英混杂的 source fallback。翻译 prep / collection scripts 现在支持 `--langs ja`，同时保留 zh/en 默认行为。执行过程中严格保持最多 10 个 worker，完成即 archive；每个 worker 输出都检查文件数量、错误后缀、placeholder 完整性和硬性英文残留。最终验证：`commit-translate --langs ja` 为 ok=50 / needs_review=0 / missing=0，累计 ja files=1,380，无 `fidelity: needs_review`，最终 prep 0 jobs，Astro build 4,219 pages 通过，duplicate_ids=0，release write 在 link audit 1411/0 后重新生成 discovery，strict release check 通过，UTF-8 渲染后的 ja 抽样可见日文正文和「機械翻訳」徽章，`git diff --check` 通过。
+
 ## 2026-06-02
 
 ### 静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1

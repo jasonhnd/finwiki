@@ -17,13 +17,13 @@
 
 ## Current Snapshot
 
-- Markdown files: 1467
-- Public Markdown pages in machine manifest: 1466
+- Markdown files: 1468
+- Public Markdown pages in machine manifest: 1467
 - Topical domains: 23
 - Link-audited entries: 1411
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 9,951,539
-- Word-like tokens: 1,608,221
+- Non-space UTF-8 characters across Markdown: 9,958,674
+- Word-like tokens: 1,609,578
 
 ## URL Rules for AI Readers
 
