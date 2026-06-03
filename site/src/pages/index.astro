@@ -19,17 +19,17 @@ const domainCount = counts.size;
 const zhCount = translations.filter((entry) => entry.id.startsWith('zh/')).length;
 const enCount = translations.filter((entry) => entry.id.startsWith('en/')).length;
 
-const updatedAt = new Intl.DateTimeFormat('en-US', {
+const updatedAt = new Intl.DateTimeFormat('ja-JP', {
   timeZone: 'Asia/Tokyo',
   year: 'numeric',
-  month: 'short',
-  day: '2-digit',
+  month: 'long',
+  day: 'numeric',
 }).format(new Date());
 
 const entrances = [
-  { href: '/ja/', code: '日本語', label: '日本語版', note: '公開ソースに基づく wiki 本文（原文）。' },
-  { href: '/en/', code: 'English', label: 'English edition', note: 'Verified English translations, falling back to the source.' },
-  { href: '/zh/', code: '简体中文', label: '简体中文版', note: '已校验的简体中文译文，缺失时回退日文原文。' },
+  { href: '/ja/', code: '日本語', label: '日本語版', note: '公開一次情報にもとづく日本語版。' },
+  { href: '/en/', code: 'English', label: '英語版', note: '英語訳で読む。未整備項目は日本語版へ戻ります。' },
+  { href: '/zh/', code: '简体中文', label: '簡体中文版', note: '簡体字中国語訳で読む。未整備項目は日本語版へ戻ります。' },
 ];
 ---
 <!doctype html>
@@ -37,10 +37,10 @@ const entrances = [
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>FinWiki — Public Financial Knowledge Graph</title>
+    <title>FinWiki — 公開金融ナレッジグラフ</title>
     <meta
       name="description"
-      content="FinWiki is a trilingual, public-source financial knowledge graph covering Japanese and global financial institutions, regimes, and market plumbing."
+      content="FinWiki は公開一次情報にもとづき、日本と世界の金融機関・制度・市場構造を三言語で整理する金融ナレッジグラフです。"
     />
     <script is:inline>
       (function () {
@@ -55,20 +55,20 @@ const entrances = [
     <link rel="alternate" hreflang="zh" href="/zh/" />
     <link rel="alternate" hreflang="x-default" href="/" />
     <meta property="og:title" content="FinWiki" />
-    <meta property="og:description" content="A trilingual public-source financial knowledge graph." />
+    <meta property="og:description" content="公開一次情報にもとづく三言語の金融ナレッジグラフ。" />
     <meta property="og:image" content="/og-image.png" />
   </head>
   <body>
     <header class="site-header">
       <div class="site-header__inner">
         <a class="brand" href="/" aria-label="FinWiki"><span>Fin<b>Wiki</b></span></a>
-        <div style="margin-left:auto"><ThemeToggle /></div>
+        <div style="margin-left:auto"><ThemeToggle lang="ja" /></div>
       </div>
     </header>
 
     <main class="site-main">
       <section class="root-hero container">
-        <p class="eyebrow">Public-source financial knowledge graph</p>
+        <p class="eyebrow">公開金融ナレッジグラフ</p>
         <h1 class="root-title">FinWiki</h1>
         <div class="root-taglines">
           <p><span class="rt">JA</span>公開一次情報にもとづく、三言語・出典つきの金融事実ベース。</p>
@@ -76,10 +76,10 @@ const entrances = [
           <p><span class="rt">ZH</span>基于公开一手信源的三语、带出处金融事实库。</p>
         </div>
         <div class="root-stats">
-          <span><b>{entryCount.toLocaleString('en-US')}</b> entries</span>
-          <span><b>{domainCount}</b> domains</span>
+          <span><b>{entryCount.toLocaleString('ja-JP')}</b> 項目</span>
+          <span><b>{domainCount}</b> 領域</span>
           <span><b>{zhCount.toLocaleString('en-US')}</b> 中文</span>
-          <span><b>{enCount.toLocaleString('en-US')}</b> EN</span>
+          <span><b>{enCount.toLocaleString('en-US')}</b> 英語</span>
         </div>
       </section>
 
@@ -97,13 +97,13 @@ const entrances = [
       </section>
 
       <section class="container root-block">
-        <p class="eyebrow">Coverage</p>
-        <h2 class="section-title">Featured domains</h2>
+        <p class="eyebrow">収録領域</p>
+        <h2 class="section-title">主要領域</h2>
         <div class="root-domains">
           {featured.map(([d, n]) => (
             <a class="card root-dcard" href={`/ja/domains/${d}/`}>
               <span class="root-dcard__ja">{domainName(d, 'ja')}</span>
-              <span class="muted root-dcard__en">{domainName(d, 'en')}</span>
+              <span class="muted root-dcard__meta">{n.toLocaleString('ja-JP')} 項目</span>
               <b class="root-dcard__n">{n.toLocaleString('en-US')}</b>
             </a>
           ))}
@@ -113,8 +113,8 @@ const entrances = [
       <section class="container root-block">
         <div class="root-ai">
           <div>
-            <p class="eyebrow">Machine-readable</p>
-            <h2 class="section-title">AI & crawler surface</h2>
+            <p class="eyebrow">機械可読</p>
+            <h2 class="section-title">AI・クローラー向け資料</h2>
           </div>
           <div class="root-ai__links">
             <a href="/llms.txt">llms.txt</a>
@@ -130,9 +130,9 @@ const entrances = [
       <div class="site-footer__inner">
         <div>
           <div class="site-footer__brand">Fin<span style="color:var(--accent)">Wiki</span></div>
-          <p class="site-footer__note">A public-source financial knowledge base. Every fact traces back to the sources cited in each entry.</p>
+          <p class="site-footer__note">公開一次情報にもとづく金融ナレッジベース。事実は各項目の出典に遡れます。</p>
         </div>
-        <nav class="site-footer__links" aria-label="Footer">
+        <nav class="site-footer__links" aria-label="フッター">
           <a href="/ja/">日本語</a>
           <a href="/en/">English</a>
           <a href="/zh/">简体中文</a>
@@ -140,7 +140,7 @@ const entrances = [
         </nav>
         <div class="site-footer__meta">
           <span>© FinWiki</span>
-          <span>Last public snapshot: {updatedAt} JST</span>
+          <span>最終公開スナップショット: {updatedAt} JST</span>
         </div>
       </div>
     </footer>
@@ -154,7 +154,7 @@ const entrances = [
         font-size: var(--fs-3xl);
         line-height: 0.95;
         margin: 0 0 1.4rem;
-        letter-spacing: -0.03em;
+        letter-spacing: 0;
       }
       .root-taglines {
         display: flex;
@@ -247,7 +247,7 @@ const entrances = [
         font-weight: 600;
         font-size: var(--fs-base);
       }
-      .root-dcard__en {
+      .root-dcard__meta {
         font-size: var(--fs-xs);
       }
       .root-dcard__n {

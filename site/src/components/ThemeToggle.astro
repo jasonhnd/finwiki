@@ -1,8 +1,12 @@
 ---
 // Light/dark toggle. The no-FOUC init script lives in Base.astro <head>;
 // this only wires the click + persists the choice.
+import { t, type Lang } from '../i18n/ui';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
 ---
-<button class="icon-btn" type="button" id="theme-toggle" aria-label="Toggle color theme" title="Toggle theme">
+<button class="icon-btn" type="button" id="theme-toggle" aria-label={t(lang, 'theme.toggle')} title={t(lang, 'theme.toggleTitle')}>
   <svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
     <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z" />
   </svg>

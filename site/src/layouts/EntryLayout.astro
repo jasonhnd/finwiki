@@ -1,10 +1,11 @@
 ---
 import Base from './Base.astro';
-import { t, u, type Lang } from '../i18n/ui';
+import { confidenceLabel, t, u, type Lang } from '../i18n/ui';
 import { domainName } from '../i18n/domains';
 import { domainGroups, groupName } from '../i18n/groups';
 import { entryDomain, entryRoute } from '../lib/routes';
 import { isoDate } from '../lib/format';
+import { localizedTitle } from '../lib/siteIndex.mjs';
 
 interface DomainCount { slug: string; count: number }
 interface Heading { depth: number; slug: string; text: string }
@@ -25,7 +26,8 @@ const updated = isoDate(fm.last_updated) || null;
 const reviewBy = isoDate(fm.review_by) || null;
 const confidence = fm.confidence ? String(fm.confidence) : null;
 const tags = Array.isArray(fm.tags) ? fm.tags.slice(0, 6) : [];
-const title = (tr?.data?.title && String(tr.data.title)) || fm.title;
+const title = (tr?.data?.title && String(tr.data.title)) || localizedTitle(lang, route) || fm.title;
+const confidenceText = confidence ? confidenceLabel(lang, confidence) : null;
 const machine = !!tr && tr.data?.status === 'machine';
 const needsReview = tr?.data?.fidelity === 'needs_review';
 const origHref = lang !== 'ja' ? u('ja', `${route}/`) : null;
@@ -72,7 +74,7 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
     </aside>
 
     <article class="doc-article">
-      <nav class="crumbs" aria-label="Breadcrumb">
+      <nav class="crumbs" aria-label={t(lang, 'aria.breadcrumb')}>
         <a href={u(lang, 'domains/')}>{t(lang, 'nav.domains')}</a>
         <span aria-hidden="true">/</span>
         <a href={u(lang, `domains/${domain}/`)}>{domainName(domain, lang)}</a>
@@ -84,7 +86,7 @@ const overdue = reviewBy ? reviewBy < '2026-06-02' : false;
           {confidence && (
             <span class={`chip chip--${confTone === 'accent' ? 'accent' : confTone === 'warn' ? 'warn' : ''}`.trim()}>
               <span class="dot" style={`color:var(--${confTone === 'muted' ? 'muted' : confTone})`}></span>
-              {t(lang, 'entry.confidence')}: {confidence}
+              {t(lang, 'entry.confidence')}: {confidenceText}
             </span>
           )}
           {updated && <span class="chip">{t(lang, 'entry.updated')} {updated}</span>}

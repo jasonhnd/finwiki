@@ -6,6 +6,7 @@ import { domainName } from '../../i18n/domains';
 import { domainGroups, groupName } from '../../i18n/groups';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 import { isoDate } from '../../lib/format';
+import { localizedTitle } from '../../lib/siteIndex.mjs';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -24,7 +25,7 @@ for (const e of all) {
 
 function titleFor(entry: (typeof all)[number]): string {
   const tr = i18nMap.get(i18nEntryId(lang, entry));
-  return String(tr?.data?.title || entry.data.title || entryRoute(entry));
+  return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
 
 const recent = [...all]
@@ -110,10 +111,10 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
         <p class="muted ai-band__note">{t(lang, 'home.aiNote')}</p>
       </div>
       <div class="ai-links">
-        <a href="/llms.txt"><b>llms.txt</b><span>guide</span></a>
-        <a href="/llms-full.txt"><b>llms-full.txt</b><span>manifest</span></a>
-        <a href="/ai-index.json"><b>ai-index.json</b><span>retrieval map</span></a>
-        <a href="/sitemap.xml"><b>sitemap.xml</b><span>URL inventory</span></a>
+        <a href="/llms.txt"><b>llms.txt</b><span>{t(lang, 'home.aiGuide')}</span></a>
+        <a href="/llms-full.txt"><b>llms-full.txt</b><span>{t(lang, 'home.aiManifest')}</span></a>
+        <a href="/ai-index.json"><b>ai-index.json</b><span>{t(lang, 'home.aiIndex')}</span></a>
+        <a href="/sitemap.xml"><b>sitemap.xml</b><span>{t(lang, 'home.aiSitemap')}</span></a>
       </div>
     </div>
   </section>
