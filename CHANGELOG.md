@@ -31,6 +31,19 @@
 
 ## 2026-06-03
 
+### human site カラートークンの冷灰テーマ化 / Human-site color-token refresh / human site 颜色 token 冷灰主题化
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-03 11:18 JST。
+- **背景**: human site の既存 palette は暖色紙面、ベージュ系 surface、赭色に近い補助色が強く、公開金融 reference として別ブランド連想を避けつつ、より中立で実務的な見え方へ寄せる必要があった。
+- **範囲**: `site/src/styles/global.css`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.03-2.md`。wiki 本文、i18n entry、AI discovery count、root content map は変更していない。
+- **主要変更**: CSS の実質的な theme template である `:root` と `[data-theme="dark"]` の custom properties を、warm paper / ochre 系から cool ledger neutral へ変更した。light theme は冷灰 paper と白 surface、青緑 primary action、低彩度の補助色へ寄せた。dark theme は neutral charcoal surface、明るい teal accent、読みやすい ink / muted / line token へ調整した。`--on-accent`、`--code-bg`、`--code-ink` を追加し、言語切替、primary button、skip link、code block の硬い色指定を token 化した。
+- **実行手順**: 既存 CSS の color token と hard-coded color を `rg` で棚卸しした。`global.css` の top-level token を置換し、旧 warm palette の代表色が残っていないことを確認した。Astro build を再実行した。
+- **検証結果**: `bun run build` は PASS し、4,219 pages を生成した。旧 warm palette の代表色 (`#faf8f2`, `#f4f0e7`, `#ece6d8`, `#8a6516`, `#d6a85c`, `#0f6b53`, `#0a4f3d`) は active CSS から除去済み。変更は `site/src/styles/global.css` に限定され、CSS template は同ファイルの custom properties として維持した。
+- **既知の注意点**: 色調整のみで layout / routing / content count は変更していない。`package.json` の既存の未コミット変更は本作業の範囲外として維持する。
+- **次の作業**: duplicate HTML id gate、release strict check、commit whitespace check を再確認し、push 後に GitHub Actions と公開 `/ja/` / `/en/` / `/zh/` を確認する。必要に応じて後続で visual regression 用の screenshot workflow を追加する。
+- **EN**: Refreshed the human-site color tokens away from the previous warm paper / ochre palette toward cool ledger neutrals. The practical CSS theme template remains the custom-property block in `site/src/styles/global.css` under `:root` and `[data-theme="dark"]`. Added `--on-accent`, `--code-bg`, and `--code-ink`, then routed the language switcher, primary button, skip link, and prose code block through tokens. Validation so far: `bun run build` PASS with 4,219 pages, and the representative old warm palette colors are no longer present in active CSS. No wiki body, i18n entry, route, content-count, or AI discovery change was made.
+- **中文**: 本轮把 human site 的颜色 token 从原来的暖纸面 / 赭色系改成冷灰账本式中性色。实际 CSS 模板仍是 `site/src/styles/global.css` 里 `:root` 与 `[data-theme="dark"]` 的 custom properties。新增 `--on-accent`、`--code-bg`、`--code-ink`，并把语言切换、primary button、skip link、正文代码块接到 token 上。当前验证：`bun run build` 通过，生成 4,219 pages；旧暖色 palette 的代表色已不再出现在 active CSS。本次没有修改 wiki 正文、i18n entry、路由、内容计数或 AI discovery。
+
 ### 日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-03 10:09 JST。

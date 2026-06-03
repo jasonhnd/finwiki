@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T10:13:36+09:00",
+  "generated_at": "2026-06-03T11:19:08+09:00",
   "counts": {
-    "markdown_files": 1468,
-    "public_markdown_pages": 1467,
-    "site_urls_in_sitemap": 1468,
+    "markdown_files": 1469,
+    "public_markdown_pages": 1468,
+    "site_urls_in_sitemap": 1469,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9958674,
-    "word_like_tokens": 1609578
+    "nonspace_utf8_chars": 9964610,
+    "word_like_tokens": 1610625
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-03",
+        "human site カラートークンの冷灰テーマ化 / Human-site color-token refresh / human site 颜色 token 冷灰主题化",
         "日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加",
         "2026-06-02",
-        "静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1",
-        "Bun工具体系への全面移行 / Full Bun tooling migration / Bun 工具体系全面迁移"
+        "静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1"
       ],
       "wikilinks": [
         "...",
@@ -468,8 +468,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 467129,
-      "word_like_tokens": 82845,
+      "nonspace_chars": 469376,
+      "word_like_tokens": 83248,
       "last_modified": "2026-06-03"
     },
     {
@@ -34248,8 +34248,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 32114,
-      "word_like_tokens": 5207,
+      "nonspace_chars": 32753,
+      "word_like_tokens": 5330,
       "last_modified": "2026-06-03"
     },
     {
@@ -75238,6 +75238,33 @@
       "nonspace_chars": 4139,
       "word_like_tokens": 747,
       "last_modified": "2026-06-02"
+    },
+    {
+      "source_path": "releases/v2026.06.03-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03-2",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-2.md",
+      "title": "human site カラートークンの冷灰テーマ化",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "human site の CSS color token を、暖色紙面・赭色系から、冷灰の紙面、青緑の primary action、低彩度の補助色へ変更しました。金融 reference としてより中立で実務的な見え方に寄せます。",
+      "headings": [
+        "human site カラートークンの冷灰テーマ化",
+        "日本語",
+        "概要",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Overview"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 3050,
+      "word_like_tokens": 521,
+      "last_modified": "2026-06-03"
     },
     {
       "source_path": "releases/v2026.06.03.md",

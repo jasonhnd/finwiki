@@ -1,7 +1,7 @@
 /* ==========================================================================
    FinWiki — editorial financial-reference design system
    One stylesheet, imported once by the shell. Tokens drive light + dark.
-   Direction: warm paper + ink, restrained pine accent, serif display +
+   Direction: cool ledger neutrals, teal-blue accent, serif display +
    sans body, hairline structure, sources/provenance as first-class.
    ========================================================================== */
 
@@ -9,31 +9,35 @@
 :root {
   color-scheme: light;
 
-  --paper: #faf8f2;
+  --paper: #f6f8fb;
   --surface: #ffffff;
-  --surface-2: #f4f0e7;
-  --surface-3: #ece6d8;
-  --ink: #1b1916;
-  --ink-2: #46423b;
-  --muted: #7c766b;
-  --line: #e6e0d4;
-  --line-2: #d6cfbf;
+  --surface-2: #eef3f7;
+  --surface-3: #e2e9ef;
+  --ink: #15191f;
+  --ink-2: #3e4650;
+  --muted: #66717d;
+  --line: #dbe3eb;
+  --line-2: #c6d2dc;
 
-  --accent: #0f6b53;
-  --accent-2: #0a4f3d;
-  --accent-soft: #e3efe9;
-  --gold: #8a6516;
-  --gold-soft: #f3ead6;
+  --accent: #006b83;
+  --accent-2: #004f63;
+  --accent-soft: #dceff3;
+  --on-accent: #ffffff;
+  --gold: #596b1f;
+  --gold-soft: #e7efd4;
 
-  --ok: #2f7d4f;
-  --warn: #9c6f1e;
-  --bad: #b04438;
+  --ok: #247a57;
+  --warn: #7f6816;
+  --bad: #aa3d3d;
 
-  --sh-1: 0 1px 2px rgb(27 25 22 / 0.06);
-  --sh-2: 0 4px 16px -6px rgb(27 25 22 / 0.14);
-  --sh-3: 0 18px 48px -18px rgb(27 25 22 / 0.26);
+  --code-bg: #101820;
+  --code-ink: #e8f0f2;
 
-  --selection: #cfe7df;
+  --sh-1: 0 1px 2px rgb(21 25 31 / 0.06);
+  --sh-2: 0 4px 16px -6px rgb(21 25 31 / 0.14);
+  --sh-3: 0 18px 48px -18px rgb(21 25 31 / 0.24);
+
+  --selection: #cbe6ee;
 
   /* type */
   --font-display: "Iowan Old Style", "Palatino Linotype", "Source Serif 4", Charter, Georgia, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", "Noto Serif SC", serif;
@@ -83,31 +87,35 @@
 [data-theme="dark"] {
   color-scheme: dark;
 
-  --paper: #15161b;
-  --surface: #1c1e25;
-  --surface-2: #23262e;
-  --surface-3: #2b2f39;
-  --ink: #ece6da;
-  --ink-2: #c3bdb0;
-  --muted: #8b857a;
-  --line: #2d313a;
-  --line-2: #3b404b;
+  --paper: #111417;
+  --surface: #191d21;
+  --surface-2: #20262b;
+  --surface-3: #293139;
+  --ink: #eef2f5;
+  --ink-2: #c6d0d8;
+  --muted: #8d98a3;
+  --line: #2b333b;
+  --line-2: #394550;
 
-  --accent: #54c8a6;
-  --accent-2: #7adcc0;
-  --accent-soft: #163a30;
-  --gold: #d6a85c;
-  --gold-soft: #2c2719;
+  --accent: #67d2cf;
+  --accent-2: #9de7e2;
+  --accent-soft: #153538;
+  --on-accent: #071719;
+  --gold: #c5d66a;
+  --gold-soft: #252d18;
 
-  --ok: #5cbd85;
-  --warn: #d6a445;
-  --bad: #e0827a;
+  --ok: #61c894;
+  --warn: #d2bf54;
+  --bad: #e07f84;
+
+  --code-bg: #0b1117;
+  --code-ink: #e6eef3;
 
   --sh-1: 0 1px 2px rgb(0 0 0 / 0.4);
   --sh-2: 0 6px 20px -8px rgb(0 0 0 / 0.55);
   --sh-3: 0 22px 54px -20px rgb(0 0 0 / 0.7);
 
-  --selection: #1f4a3c;
+  --selection: #1c4b53;
 }
 
 /* ----- Reset / base ----- */
@@ -410,10 +418,7 @@ hr {
 }
 .lang-switch a.active {
   background: var(--accent);
-  color: #fff;
-}
-[data-theme="dark"] .lang-switch a.active {
-  color: #0b1512;
+  color: var(--on-accent);
 }
 
 /* ----- Footer ----- */
@@ -534,10 +539,7 @@ hr {
 .btn--primary {
   background: var(--accent);
   border-color: var(--accent);
-  color: #fff;
-}
-[data-theme="dark"] .btn--primary {
-  color: #0b1512;
+  color: var(--on-accent);
 }
 .btn--primary:hover {
   background: var(--accent-2);
@@ -676,8 +678,8 @@ a.wl:hover {
   border: 1px solid var(--line);
 }
 .prose pre {
-  background: #0e1411;
-  color: #e6efe9;
+  background: var(--code-bg);
+  color: var(--code-ink);
   padding: 1rem 1.1rem;
   border-radius: var(--r-lg);
   overflow-x: auto;
@@ -754,7 +756,7 @@ a.wl:hover {
   top: -3rem;
   z-index: 100;
   background: var(--accent);
-  color: #fff;
+  color: var(--on-accent);
   padding: 0.5rem 0.9rem;
   border-radius: var(--r);
   text-decoration: none;
