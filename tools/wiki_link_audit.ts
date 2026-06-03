@@ -10,6 +10,7 @@ const IGNORED_DIRS = new Set([
   ".git",
   ".templates",
   ".opinions",
+  "docs",
   "releases",
   "tools",
   "site",
