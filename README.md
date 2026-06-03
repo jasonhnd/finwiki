@@ -14,11 +14,11 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1470 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1471 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約997万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,973,303） |
+| Text volume | 約998万字 | Markdown 全体の空白除外 UTF-8 文字数（約 9,977,842） |
 | Word-like tokens | 約161万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-03 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
@@ -26,6 +26,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > i18n / 語彙品質 / CI 品質: 2026-06-03 JST の ja 翻訳層完了後、`site/src/content/i18n` は ja 1380 / zh 1380 / en 1380 ファイルです。2026-06-01 JST の zh/en GPT 翻訳完了後、v2026.06.01-7 では 10 並列 GPT/Codex worker による日英中語彙監査・修復・最終 polish を実施し、大学学部水準を超える専門語彙へ寄せました。v2026.06.02 では Astro build 後の duplicate HTML id gate を追加し、`site/dist` 4147 pages を checked=4147 / duplicate_ids=0 で確認しました。GitHub Actions は `actions/checkout@v6`、`actions/upload-pages-artifact@v5`、`actions/deploy-pages@v5` へ更新し、Node.js 24 runtime 系へ寄せています。v2026.06.02-2 では deploy step に限定して Node deprecation notice を抑制し、上流 action 由来の `punycode` warning も公開ログから除去します。v2026.06.02-3 では残存していた `fidelity: needs_review` 54 件を 10 並列 GPT/Codex worker と手動検証で 0 件まで解消し、QZX placeholder 破損と mojibake 残差を修復しました。v2026.06.02-4 では wikilink target 実在性 gate を追加し、agent の過大な `*/INDEX` 置換を戻したうえで 144 件の明示 alias と 7 件の非金融背景リンク plain text 化により entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0 を確認しました。v2026.06.02-5 では Vercel shadow deployment 用の `vercel.json`、`bun tools/vercel_build.ts`、`tools/assemble_static_publish.ts` を追加し、Astro HTML と raw Markdown / AI discovery surface を `_vercel_public` に同時出力できるようにしました。v2026.06.02-6 では Pagefind による静的全文検索を追加し、build 後に `/pagefind/*` を生成して三語の現在言語別検索を提供します。v2026.06.02-7 では root release / discovery / audit / publish tooling を Bun + TypeScript に統一し、GitHub Pages と Vercel が同じ Bun pipeline を使います。v2026.06.02-8 では静的サイト構造 Phase 1 として root domain corpus 直読、canonical route helper、domain landing、build-time wikilink localization を導入し、`site/src/content/entries` mirror / sync step を build input から外しました。v2026.06.03 では ja 機械翻訳 layer 1380 件を追加し、`prep-parallel --langs ja` は 0 jobs、`fidelity: needs_review` は 0 件、Astro build は 4219 pages、duplicate_ids=0 で PASS しました。
 
 > 日本語表示層: v2026.06.03-3 では `/ja/` を日語ユーザー目線で見直し、header / footer / root page / browse / domain / entry chrome、confidence 表示、title fallback、build 後 wikilink 表示ラベルを日本語化しました。`localize-wikilinks` は ja HTML の `data-wl` label を ja i18n title へ置換し、build log では ja-labels=17603 を確認しています。
+
+> package metadata: v2026.06.03-4 では root `package.json` に version、description、repository、bugs、homepage などの公開メタデータを追加し、npm / GitHub 側の project metadata と repository entry を揃えました。
 
 > 表示テーマ: v2026.06.03-2 では human site の CSS token を暖色紙面・赭色系から、冷灰の紙面、青緑の primary action、低彩度の補助色へ変更しました。CSS の実質的な theme template は `site/src/styles/global.css` の `:root` と `[data-theme="dark"]` にある custom properties です。
 
@@ -149,11 +151,11 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1470 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1471 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1411 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~9.97M chars | ~9,973,303 non-space UTF-8 characters across Markdown |
+| Text volume | ~9.98M chars | ~9,977,842 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.61M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-03 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -161,6 +163,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > i18n / lexical / CI quality: after the 2026-06-03 JST ja translation-layer completion, `site/src/content/i18n` contains 1380 ja files, 1380 zh files, and 1380 en files. After the 2026-06-01 JST zh/en GPT translation completion, v2026.06.01-7 ran 10 parallel GPT/Codex workers for Japanese / English / Chinese lexical audit, repair, and final polish, raising wording toward post-undergraduate specialist register. v2026.06.02 adds a rendered HTML duplicate-id gate after Astro build; the local `site/dist` scan checked 4147 pages with duplicate_ids=0. GitHub Actions now uses `actions/checkout@v6`, `actions/upload-pages-artifact@v5`, and `actions/deploy-pages@v5` on the Node.js 24 runtime generation. v2026.06.02-2 scopes Node deprecation suppression to the deploy step so the upstream `punycode` warning no longer appears in public deployment logs. v2026.06.02-3 clears the remaining 54 `fidelity: needs_review` i18n files to 0 through 10 parallel GPT/Codex workers plus manual verification, including QZX placeholder corruption and mojibake-residue repairs. v2026.06.02-4 adds wikilink target-existence gating, reverts overbroad agent-generated `*/INDEX` replacements, then resolves the graph with 144 explicit aliases and 7 non-financial background links converted to plain text; the final audit reports entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0. v2026.06.02-5 adds Vercel shadow-deployment config through `vercel.json`, `bun tools/vercel_build.ts`, and `tools/assemble_static_publish.ts`, assembling Astro HTML plus raw Markdown / AI discovery surfaces into `_vercel_public`. v2026.06.02-6 adds Pagefind static full-text search, generating `/pagefind/*` after the build and exposing language-scoped search across the trilingual human site. v2026.06.02-7 unifies root release / discovery / audit / publish tooling on Bun + TypeScript, so GitHub Pages and Vercel now share the same Bun pipeline. v2026.06.02-8 completes static-site architecture Phase 1: Astro reads the root domain corpus directly, routes are centralized through canonical helpers, domain landing pages are generated, and wikilinks are localized at build time. The deprecated `site/src/content/entries` mirror and sync step are no longer build inputs. v2026.06.03 adds the complete ja machine-translation layer, with `prep-parallel --langs ja` at 0 jobs, `fidelity: needs_review` at 0 files, Astro build at 4219 pages, and duplicate_ids=0.
 
 > Japanese display layer: v2026.06.03-3 reviews `/ja/` from a Japanese-reader perspective and localizes the header, footer, root page, browse / domain / entry chrome, confidence labels, title fallback, and rendered wikilink labels. `localize-wikilinks` now rewrites ja HTML `data-wl` labels to ja i18n titles; the build log reports ja-labels=17603.
+
+> Package metadata: v2026.06.03-4 adds public metadata to the root `package.json`, including version, description, repository, bugs, and homepage fields, aligning npm / GitHub project metadata with the repository entry point.
 
 > Site presentation: v2026.06.03-2 changes the human-site CSS tokens from warm paper / ochre tones to cool gray surfaces, teal-blue primary actions, and restrained secondary colors. The practical theme template is the custom-property block in `site/src/styles/global.css` under `:root` and `[data-theme="dark"]`.
 
@@ -278,11 +282,11 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1470 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1471 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1411 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约997万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,973,303） |
+| Text volume | 约998万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 9,977,842） |
 | Word-like tokens | 约161万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
@@ -290,6 +294,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > i18n / 词汇质量 / CI 质量：2026-06-03 JST 的 ja 翻译层完成后，`site/src/content/i18n` 为 ja 1380 / zh 1380 / en 1380 文件。2026-06-01 JST 的 zh/en GPT 翻译完成后，v2026.06.01-7 已用 10 路并行 GPT/Codex worker 完成日 / 英 / 中词汇审计、修复和最终 polish，把措辞推向超过大学本科层级的专业语域。v2026.06.02 增加 Astro build 后的 duplicate HTML id gate；本地 `site/dist` 扫描 checked=4147 / duplicate_ids=0。GitHub Actions 已更新到 `actions/checkout@v6`、`actions/upload-pages-artifact@v5`、`actions/deploy-pages@v5`，对应 Node.js 24 runtime 世代。v2026.06.02-2 仅在 deploy step 范围内抑制 Node deprecation notice，清掉上游 action 的 `punycode` warning 日志噪音。v2026.06.02-3 已用 10 路并行 GPT/Codex worker 加人工核验，把剩余 54 个 `fidelity: needs_review` i18n 文件清到 0，并修复 QZX placeholder 破损与 mojibake 残留。v2026.06.02-4 增加 wikilink target 实在性 gate，先回滚 agent 过度生成的 `*/INDEX` 替换，再用 144 个显式 alias 和 7 个非金融背景链接 plain text 化把图谱修到 entries_checked=1411 / entries_with_issues=0 / dead_wikilink_references=0 / dead_wikilink_targets=0。v2026.06.02-5 新增 Vercel shadow deployment 配置：`vercel.json`、`bun tools/vercel_build.ts`、`tools/assemble_static_publish.ts`，把 Astro HTML 和 raw Markdown / AI discovery surface 一起组装到 `_vercel_public`。v2026.06.02-6 新增 Pagefind 静态全文搜索，build 后生成 `/pagefind/*`，并在三语 human site 上按当前语言检索。v2026.06.02-7 将 root release / discovery / audit / publish 工具统一到 Bun + TypeScript，GitHub Pages 与 Vercel 共用同一套 Bun pipeline。v2026.06.02-8 完成静态站点架构 Phase 1：Astro 直接读取 root domain corpus，路由统一走 canonical helper，新增 domain landing pages，并在 build time 本地化 wikilink。废弃的 `site/src/content/entries` mirror 和 sync step 不再作为 build input。v2026.06.03 新增完整 ja 机器翻译层，`prep-parallel --langs ja` 为 0 jobs，`fidelity: needs_review` 为 0，Astro build 生成 4219 pages，duplicate_ids=0。
 
 > 日文显示层：v2026.06.03-3 从日语用户视角重新检查 `/ja/`，把 header / footer / root page / browse / domain / entry chrome、confidence 显示、标题 fallback、构建后的 wikilink 显示标签改为日文。`localize-wikilinks` 现在会把 ja HTML 的 `data-wl` label 替换成 ja i18n title；build log 显示 ja-labels=17603。
+
+> package metadata：v2026.06.03-4 在 root `package.json` 中补充 version、description、repository、bugs、homepage 等公开元数据，让 npm / GitHub 项目元信息与仓库入口一致。
 
 > 站点视觉主题：v2026.06.03-2 将 human site 的 CSS token 从暖纸面 / 赭色系改为冷灰纸面、青蓝 primary action 和低饱和辅助色。实际可复用的 theme template 是 `site/src/styles/global.css` 中 `:root` 与 `[data-theme="dark"]` 的 custom properties。
 
