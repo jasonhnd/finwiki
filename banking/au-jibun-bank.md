@@ -16,13 +16,14 @@ tags: [banking, net-bank, au, kddi, digital-bank]
 status: active
 sources:
   - "https://www.jibunbank.co.jp/corporate/outline/"
+canonical_anchor: JapanFG/au-jibun-bank
 ---
 
 # auじぶん銀行 (au Jibun Bank)
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
+This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[JapanFG/au-jibun-bank|auじぶん銀行 (au Jibun Bank) entity anchor]]; this banking-domain page is the net-bank operating view of that same entity. Read it against [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

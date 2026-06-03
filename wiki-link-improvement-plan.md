@@ -15,8 +15,8 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 57 |
-| canonical_anchor declarations checked (informational) | 8 |
+| Changed or new entries in current worktree | 4 |
+| canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
 ## Wiki Linking Standard
@@ -41,63 +41,10 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `business/aeon-financial-service-retail-bank-case.md` | `??` | 23 | ok |
-| `business/kddi-au-financial-bundling-case.md` | `??` | 31 | ok |
-| `business/mizuho-rakuten-finance-stake-accumulation-case.md` | `??` | 34 | ok |
-| `business/seven-bank-atm-platform-deconsolidation-case.md` | `??` | 26 | ok |
-| `business/softbank-paypay-financial-integration-case.md` | `??` | 37 | ok |
-| `business/toyota-financial-services-captive-finance-case.md` | `??` | 27 | ok |
-| `corporate-strategy/japan-business-succession-jigyou-shoukei.md` | `??` | 17 | ok |
-| `corporate-strategy/japan-gappei-merger-regime.md` | `??` | 24 | ok |
-| `corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md` | `??` | 19 | ok |
-| `corporate-strategy/japan-holding-company-conversion.md` | `??` | 22 | ok |
-| `corporate-strategy/japan-kabushiki-bunpai-spinoff-regime.md` | `??` | 21 | ok |
-| `corporate-strategy/japan-kabushiki-koukan-iten-regime.md` | `??` | 23 | ok |
-| `JapanFG/gifu-shinkin.md` | `??` | 13 | ok |
-| `JapanFG/kyoto-shinkin.md` | `??` | 12 | ok |
-| `JapanFG/osaka-shoko-shinkin.md` | `??` | 8 | ok |
-| `loyalty/loyalty-liability-customer-funded-float.md` | `??` | 29 | ok |
-| `loyalty/point-economy-funding-source-comparison.md` | `??` | 30 | ok |
-| `loyalty/point-exchange-network-risk.md` | `??` | 17 | ok |
-| `loyalty/point-program-unit-economics.md` | `??` | 18 | ok |
-| `loyalty/rakuten-point-ecosystem-deep.md` | `??` | 26 | ok |
-| `loyalty/retail-media-points-data-loop.md` | `??` | 21 | ok |
-| `manufacturer-finance/export-finance-mechanism.md` | `??` | 20 | ok |
-| `manufacturer-finance/floorplan-finance-mechanism.md` | `??` | 23 | ok |
-| `manufacturer-finance/honda-finance.md` | `??` | 16 | ok |
-| `manufacturer-finance/komatsu-captive-finance.md` | `??` | 19 | ok |
-| `manufacturer-finance/nissan-financial-services.md` | `??` | 20 | ok |
-| `manufacturer-finance/vendor-finance-mechanism.md` | `??` | 22 | ok |
-| `money-market/boj-net-funds-transfer-system-rtgs-settlement.md` | `??` | 20 | ok |
-| `money-market/japan-money-market-benchmark-reform-tona.md` | `??` | 23 | ok |
-| `money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending.md` | `??` | 28 | ok |
-| `money-market/japan-tibor-benchmark-rate.md` | `??` | 20 | ok |
-| `money-market/japan-torf-term-risk-free-rate.md` | `??` | 23 | ok |
-| `money-market/japan-uncollateralized-vs-collateralized-call-market.md` | `??` | 23 | ok |
-| `non-profit/japan-ippan-vs-koeki-shadan-houjin.md` | `??` | 8 | ok |
-| `non-profit/japan-nintei-npo-houjin-tax-benefits.md` | `??` | 8 | ok |
-| `non-profit/japan-npo-houjin-overview.md` | `??` | 10 | ok |
-| `retail/japan-retail-economic-sphere-comparison.md` | `??` | 22 | ok |
-| `retail/japan-retail-media-finance-loop.md` | `??` | 16 | ok |
-| `retail/store-traffic-as-financial-distribution.md` | `??` | 14 | ok |
-| `security/etherscan-verified-source-poisoning.md` | `??` | 8 | ok |
-| `security/git-history-rewrite-detection.md` | `??` | 6 | ok |
-| `security/proxy-upgrade-rug-pattern.md` | `??` | 9 | ok |
-| `security/typosquatting-package-detection-checklist.md` | `??` | 5 | ok |
-| `trade/documentary-collection-vs-letter-of-credit.md` | `??` | 12 | ok |
-| `trade/incoterms-2020-trade-terms-framework.md` | `??` | 11 | ok |
-| `trade/letter-of-credit-documentary-mechanism.md` | `??` | 13 | ok |
-| `business/INDEX.md` | `M` | 45 | ok |
-| `corporate-strategy/INDEX.md` | `M` | 28 | ok |
-| `INDEX.md` | `M` | 29 | ok |
-| `JapanFG/cooperative-finance-index.md` | `M` | 47 | ok |
-| `loyalty/INDEX.md` | `M` | 58 | ok |
-| `manufacturer-finance/INDEX.md` | `M` | 18 | ok |
-| `money-market/INDEX.md` | `M` | 37 | ok |
-| `non-profit/INDEX.md` | `M` | 19 | ok |
-| `retail/INDEX.md` | `M` | 19 | ok |
-| `security/INDEX.md` | `M` | 33 | ok |
-| `trade/INDEX.md` | `M` | 16 | ok |
+| `banking/au-jibun-bank.md` | `M` | 8 | ok |
+| `insurance/ja-kyosai-zenkyoren-overview.md` | `M` | 29 | ok |
+| `insurance/kampo-japan-post-insurance.md` | `M` | 31 | ok |
+| `insurance/sony-life-group-life-operating-model.md` | `M` | 48 | ok |
 
 ## Domain Snapshot
 
@@ -105,7 +52,7 @@
 |---|---:|---:|---:|
 | `JapanFG` | 643 | 0 | 16.6 |
 | `agent-economy` | 41 | 0 | 13.5 |
-| `banking` | 40 | 0 | 42.8 |
+| `banking` | 40 | 0 | 42.9 |
 | `business` | 25 | 0 | 20.0 |
 | `control` | 1 | 0 | 207.0 |
 | `control-anchor` | 1 | 0 | 30.0 |
@@ -142,7 +89,7 @@
 > `canonical_anchor:` frontmatter either points at a non-existent entry or is
 > not cross-linked from the declaring page's core body (before `## Related`).
 
-Declarations checked: 8. Drift: 0.
+Declarations checked: 12. Drift: 0.
 
 | Path | Declared anchor | Resolves | Core-body link | Issue |
 |---|---|---|---|---|

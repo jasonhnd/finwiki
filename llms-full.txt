@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-03T23:00:36+09:00
+Generated: 2026-06-03T23:42:03+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1534
-Public pages listed: 1533
+Markdown files: 1535
+Public pages listed: 1534
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1533
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, 並列 10 領域開発（46 entry 追加）/ Parallel 10-domain development (46 entries) / 并行 10 领域开发（新增 46 entry）, 開発進度ドキュメント拡充と canonicalanchor Phase 2 起動 / Dev-progress docs + canonicalanchor Phase 2 kickoff / 开发进度文档扩充与 canonical_anchor Phase 2 起步
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, canonicalanchor Phase 2 back-fill（mirror 4 件）/ canonicalanchor Phase 2 back-fill (4 mirrors) / canonical_anchor Phase 2 back-fill（4 个 mirror）, 並列 10 領域開発（46 entry 追加）/ Parallel 10-domain development (46 entries) / 并行 10 领域开发（新增 46 entry）
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -6937,9 +6937,9 @@ Public pages listed: 1533
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/au-jibun-bank.md
 - Domain: banking
 - Type: wiki_entry
-- Summary: This entry sits under banking index. Read it against 楽天銀行 (Rakuten Bank) for peer / contrast context and Cooperative banking in Japan for the broader system / regulatory boundary.
+- Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at auじぶん銀行 (au Jibun Bank) entity anchor; this banking-domain page is the net-bank operating view of that same entity. Read it against 楽天銀行 (Rakuten Bank) for peer / contrast context and Cooperative banking i
 - Headings: auじぶん銀行 (au Jibun Bank), Wiki route, TL;DR, Structure, Strategic read, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/au-fh, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/au-fh, https://finwiki.zksc.io/JapanFG/au-jibun-bank, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/JapanFG/ssnb, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank
 
 ### Japan BaaS landscape
 - URL: https://finwiki.zksc.io/banking/baas-japan-landscape
@@ -13654,6 +13654,14 @@ Public pages listed: 1533
 - Domain: releases
 - Type: release_note
 - Headings: 並列 10 領域開発（46 entry 追加）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### canonical_anchor Phase 2 back-fill（mirror 4 件）
+- URL: https://finwiki.zksc.io/releases/v2026.06.03-13
+- Source path: releases/v2026.06.03-13.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-13.md
+- Domain: releases
+- Type: release_note
+- Headings: canonical_anchor Phase 2 back-fill（mirror 4 件）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### human site カラートークンの冷灰テーマ化
 - URL: https://finwiki.zksc.io/releases/v2026.06.03-2
