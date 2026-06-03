@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T13:49:29+09:00",
+  "generated_at": "2026-06-03T15:10:00+09:00",
   "counts": {
-    "markdown_files": 1471,
-    "public_markdown_pages": 1470,
-    "site_urls_in_sitemap": 1471,
+    "markdown_files": 1472,
+    "public_markdown_pages": 1471,
+    "site_urls_in_sitemap": 1472,
     "topical_domains": 23,
     "link_audited_entries": 1411,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 9977842,
-    "word_like_tokens": 1612904
+    "nonspace_utf8_chars": 9990916,
+    "word_like_tokens": 1615271
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-03",
+        "AI タスク入口の死リンク修正とスナップショット同期 / AI task-entry dead-link repair and snapshot sync / AI 任务入口死链修复与快照同步",
         "package metadata の公開同期 / Public package metadata sync / package metadata 公开同步",
         "日本語サイト表示層の英語残留修正 / Japanese-site display-layer English residue cleanup / 日文站点显示层英文残留修正",
-        "human site カラートークンの冷灰テーマ化 / Human-site color-token refresh / human site 颜色 token 冷灰主题化",
-        "日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加"
+        "human site カラートークンの冷灰テーマ化 / Human-site color-token refresh / human site 颜色 token 冷灰主题化"
       ],
       "wikilinks": [
         "...",
@@ -468,8 +468,8 @@
       "markdown_links": [
         "origin repository"
       ],
-      "nonspace_chars": 474125,
-      "word_like_tokens": 84072,
+      "nonspace_chars": 478904,
+      "word_like_tokens": 84937,
       "last_modified": "2026-06-03"
     },
     {
@@ -34248,8 +34248,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 33997,
-      "word_like_tokens": 5552,
+      "nonspace_chars": 35993,
+      "word_like_tokens": 5941,
       "last_modified": "2026-06-03"
     },
     {
@@ -75325,6 +75325,33 @@
       "last_modified": "2026-06-03"
     },
     {
+      "source_path": "releases/v2026.06.03-5.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03-5",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-5.md",
+      "title": "AI タスク入口の死リンク修正とスナップショット同期",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "",
+      "headings": [
+        "AI タスク入口の死リンク修正とスナップショット同期",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 6299,
+      "word_like_tokens": 1113,
+      "last_modified": "2026-06-03"
+    },
+    {
       "source_path": "releases/v2026.06.03.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.03",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03.md",
@@ -81885,7 +81912,7 @@
       "title": "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
       "domain": "systems",
       "entry_type": "wiki_entry",
-      "summary": "title: クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元 aliases: [cross chain five pole comparison matrix, cctp ccip layerzero hyperlane wormhole comparison, bridge protocol nine dimensions matrix] domain: systems created: 2026-05-24 lastupdated: 2026-05-26 lasttended",
+      "summary": "このページは systems index 配下の比較マトリクスであり、systems/cross-chain-four-poles-overview を親概観、クロスチェーン選定意思決定ツリー を実務上の選択軸として読む。個別プロトコルは systems/cctp-v2-overview、systems/chainlink-ccip-institutional-messaging、systems/layerzero-v2-omnichain-messaging、systems/hyperlane-overview と接続し、ステーブルコイン移転の需要側文脈は fintech/usd-stabl",
       "headings": [
         "クロスチェーン 5 極対照マトリクス · CCTP V2 / CCIP / LayerZero v2 / Hyperlane / Wormhole の 9 次元",
         "Wiki route",

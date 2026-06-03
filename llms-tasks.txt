@@ -11,8 +11,8 @@
 > `http://finwiki.zksc.io/` (or raw on GitHub:
 > `https://raw.githubusercontent.com/jasonhnd/finwiki/main/`).
 >
-> Snapshot: 1,449 files / 1,411 link-audited entries / 23 domains /
-> ~10.43M chars. Last refreshed 2026-05-25 JST.
+> Snapshot: 1,472 files / 1,411 link-audited entries / 23 domains /
+> ~9.99M non-space chars. Last refreshed 2026-06-03 JST.
 
 ---
 
@@ -61,7 +61,7 @@
 ## TASK: Map Japan payment ecosystem (card / code / A2A / prepaid)
 
 - **Start**: [payments/INDEX](payments/INDEX)
-- **Cashless overview**: [payments/japan-cashless-payment-market-overview](payments/japan-cashless-payment-market-overview)
+- **Cashless overview**: [payments/cashless-jp-landscape](payments/cashless-jp-landscape)
 - **Card four-brand**: [payments/visa-mastercard-amex-jcb-japan-operating-comparison](payments/visa-mastercard-amex-jcb-japan-operating-comparison)
 - **Code payment 2025**: [payments/japan-code-payment-operator-2025-market-share-matrix](payments/japan-code-payment-operator-2025-market-share-matrix)
 - **Prepaid major issuers**: [payments/waon-prepaid-aeon](payments/waon-prepaid-aeon), [payments/nanaco-prepaid-seven-i](payments/nanaco-prepaid-seven-i), [payments/suica-prepaid-jr-east](payments/suica-prepaid-jr-east), [payments/pasmo-prepaid-tokyo-metro](payments/pasmo-prepaid-tokyo-metro)
@@ -79,7 +79,7 @@
 ## TASK: Research cross-chain infrastructure + bridge security
 
 - **Start**: [systems/cross-chain-bridge-eight-pole-comparison](systems/cross-chain-bridge-eight-pole-comparison)
-- **Per-bridge**: [systems/ibc-cosmos-cross-chain](systems/ibc-cosmos-cross-chain), [systems/cctp-v2-overview](systems/cctp-v2-overview), [systems/polkadot-xcm-parachain-messaging](systems/polkadot-xcm-parachain-messaging), [systems/hyperlane-permissionless-interop-overview](systems/hyperlane-permissionless-interop-overview)
+- **Per-bridge**: [systems/ibc-cosmos-cross-chain](systems/ibc-cosmos-cross-chain), [systems/cctp-v2-overview](systems/cctp-v2-overview), [systems/polkadot-xcm-parachain-messaging](systems/polkadot-xcm-parachain-messaging), [systems/hyperlane-overview](systems/hyperlane-overview)
 - **Security matrix**: [systems/cross-chain-bridge-security-insurance-matrix-2026](systems/cross-chain-bridge-security-insurance-matrix-2026)
 - **L2 economics**: [systems/l2-agent-economics-arbitrum-base-op-comparison](systems/l2-agent-economics-arbitrum-base-op-comparison)
 - **Ecosystems**: [systems/sui-aptos-move-l1-ecosystem](systems/sui-aptos-move-l1-ecosystem), [systems/ton-telegram-openwallet-ecosystem](systems/ton-telegram-openwallet-ecosystem)
@@ -96,15 +96,15 @@
 - **Start**: [policy-finance/INDEX](policy-finance/INDEX)
 - **System overview**: [policy-finance/japan-policy-finance-system](policy-finance/japan-policy-finance-system)
 - **Each institution deep**: [policy-finance/jbic-overseas-investment-underwriting-process](policy-finance/jbic-overseas-investment-underwriting-process), [policy-finance/jica](policy-finance/jica), [policy-finance/nexi](policy-finance/nexi), [policy-finance/jogmec](policy-finance/jogmec), [policy-finance/jfc-sme-division-operating-model](policy-finance/jfc-sme-division-operating-model), [JapanFG/dbj](JapanFG/dbj), [policy-finance/dbj-mandate-deep-dive](policy-finance/dbj-mandate-deep-dive)
-- **Credit guarantee**: [policy-finance/japan-credit-guarantee-system](policy-finance/japan-credit-guarantee-system), [policy-finance/hokkaido-credit-guarantee-corporation](policy-finance/hokkaido-credit-guarantee-corporation)
+- **Credit guarantee**: [policy-finance/japan-credit-guarantee-system](policy-finance/japan-credit-guarantee-system), [policy-finance/hokkaido-credit-guarantee-corp](policy-finance/hokkaido-credit-guarantee-corp)
 
 ## TASK: Compare derivatives products (rates / equity / FX / credit)
 
 - **Rates**: [derivatives/japan-rates-derivative-product-matrix](derivatives/japan-rates-derivative-product-matrix)
 - **Equity**: [derivatives/japan-equity-derivatives-product-matrix](derivatives/japan-equity-derivatives-product-matrix)
-- **FX**: [derivatives/cross-currency-basis-swap-japan](derivatives/cross-currency-basis-swap-japan), [derivatives/japan-fx-options-otc-market](derivatives/japan-fx-options-otc-market)
+- **FX**: [derivatives/cross-currency-basis-swap-japan](derivatives/cross-currency-basis-swap-japan), [derivatives/fx-options-japan-corporate-treasury](derivatives/fx-options-japan-corporate-treasury)
 - **Credit**: [derivatives/japan-cds-market-overview](derivatives/japan-cds-market-overview), [derivatives/structured-product-eb-knockin-japan-retail](derivatives/structured-product-eb-knockin-japan-retail)
-- **OTC clearing**: [derivatives/jscc-otc-clearing-infrastructure](derivatives/jscc-otc-clearing-infrastructure), [derivatives/isda-2020-protocol-japan-implementation](derivatives/isda-2020-protocol-japan-implementation)
+- **OTC clearing**: [derivatives/otc-clearing-jp-trade-repository](derivatives/otc-clearing-jp-trade-repository), [derivatives/isda-2020-protocol-japan-implementation](derivatives/isda-2020-protocol-japan-implementation)
 - **OTC market overview**: [derivatives/japan-otc-derivative-market-overview](derivatives/japan-otc-derivative-market-overview)
 
 ## TASK: Understand agent-economy protocols (x402 / AP2 / Skyfire / Nevermined)
@@ -132,16 +132,16 @@
 
 ## TASK: Map Japan money-market structure (call / repo / CP / NCD / TBill / MMF / BoJ ops)
 
-- **Start**: [money-market/japan-money-market-structure](money-market/japan-money-market-structure) + [money-market/japan-short-term-funding-instrument-matrix](money-market/japan-short-term-funding-instrument-matrix)
-- **Per-instrument**: [money-market/japan-call-money-market](money-market/japan-call-money-market), [money-market/japan-jgb-repo-securities-financing](money-market/japan-jgb-repo-securities-financing), [money-market/japan-cp-commercial-paper-market](money-market/japan-cp-commercial-paper-market), [money-market/japan-ncd-negotiable-cd-market](money-market/japan-ncd-negotiable-cd-market), [money-market/japan-tbill-treasury-discount-bill](money-market/japan-tbill-treasury-discount-bill), [money-market/japan-mmf-money-market-mutual-fund](money-market/japan-mmf-money-market-mutual-fund)
-- **BoJ ops post-2024**: [money-market/boj-post-2024-floor-system-complementary-deposit-facility](money-market/boj-post-2024-floor-system-complementary-deposit-facility), [money-market/boj-open-market-operations-overview](money-market/boj-open-market-operations-overview)
+- **Start**: [money-market/japan-money-market](money-market/japan-money-market) + [money-market/japan-short-term-funding-instrument-matrix](money-market/japan-short-term-funding-instrument-matrix)
+- **Per-instrument**: [money-market/call-market-structure](money-market/call-market-structure), [money-market/jgb-repo-market-japan](money-market/jgb-repo-market-japan), [money-market/japan-cp-commercial-paper-market](money-market/japan-cp-commercial-paper-market), [money-market/japan-ncd-negotiable-cd-market](money-market/japan-ncd-negotiable-cd-market), [money-market/japan-tbill-treasury-discount-bill](money-market/japan-tbill-treasury-discount-bill), [money-market/japan-mmf-money-market-mutual-fund](money-market/japan-mmf-money-market-mutual-fund)
+- **BoJ ops post-2024**: [money-market/boj-post-2024-floor-system-complementary-deposit-facility](money-market/boj-post-2024-floor-system-complementary-deposit-facility), [money-market/boj-open-market-operations](money-market/boj-open-market-operations)
 
 ## TASK: Understand Japan capital markets ecosystem (IPO / NISA / PTS / margin / short-selling)
 
 - **Start**: [securities/japan-capital-markets-ecosystem-overview](securities/japan-capital-markets-ecosystem-overview)
 - **NISA 2024 + 2025 reform**: [securities/nisa-2024-flow](securities/nisa-2024-flow), [securities/nisa-2025-tax-reform-update](securities/nisa-2025-tax-reform-update)
 - **IPO route + case studies**: [securities/japan-ipo-listing-disclosure-route](securities/japan-ipo-listing-disclosure-route), [securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro](securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro)
-- **PTS / best execution**: [securities/japan-best-execution-sor-pts](securities/japan-best-execution-sor-pts), [securities/japan-pts-liquidity-data](securities/japan-pts-liquidity-data)
+- **PTS / best execution**: [securities/japan-best-execution-sor-pts](securities/japan-best-execution-sor-pts), [securities/japan-pts-liquidity-data-guide](securities/japan-pts-liquidity-data-guide)
 - **Margin + short-selling**: [securities/japan-margin-trading-and-securities-finance](securities/japan-margin-trading-and-securities-finance), [securities/japan-short-selling-and-stock-loan-controls](securities/japan-short-selling-and-stock-loan-controls)
 
 ## TASK: Find a specific entity (Japanese bank / insurer / securities firm / regulator)

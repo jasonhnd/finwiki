@@ -44,7 +44,6 @@
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
-| `FinWiki` | 1 | 0 | 29.0 |
 | `JapanFG` | 631 | 0 | 15.8 |
 | `agent-economy` | 41 | 0 | 13.5 |
 | `banking` | 40 | 0 | 42.8 |
@@ -60,6 +59,7 @@
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
 | `fintech` | 144 | 0 | 10.9 |
+| `finwiki` | 1 | 0 | 29.0 |
 | `governance` | 4 | 0 | 8.5 |
 | `insurance` | 33 | 0 | 42.6 |
 | `loyalty` | 12 | 0 | 18.8 |

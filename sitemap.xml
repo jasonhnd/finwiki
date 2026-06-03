@@ -7951,6 +7951,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.03-5</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.03</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
