@@ -8,7 +8,7 @@ aliases:
   - "あおぞら信託銀行 (旧称) operating profile"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
+last_updated: 2026-06-03
 last_tended: 2026-05-25
 review_by: 2026-11-25
 confidence: likely
@@ -24,6 +24,7 @@ sources:
   - "https://www.aozorabank.co.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "Wikipedia: GMOあおぞらネット銀行 (株主構成・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)"
+canonical_anchor: JapanFG/gmo-aozora-net
 ---
 
 # GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)

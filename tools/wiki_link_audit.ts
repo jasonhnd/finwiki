@@ -168,12 +168,31 @@ type Entry = {
   title: string;
   aliases: string[];
   tags: string[];
+  canonicalAnchor: string;
   body: string;
   coreBody: string;
   allLinks: WikiLink[];
   bodyLinks: WikiLink[];
   inlinks: number;
   gitState: string;
+};
+
+// Report-only canonical_anchor integrity check (proposal Phase 1, audit-only).
+// Intentionally isolated from the AuditRow/issues pipeline: drift here is purely
+// informational and must never affect entries_with_issues, dead_wikilink_*,
+// or any exit-code path.
+type CanonicalAnchorDrift = {
+  rel: string;
+  domain: string;
+  declared: string;
+  resolved: string | null;
+  brokenAnchor: boolean;
+  missingBodyLink: boolean;
+};
+
+type CanonicalAnchorSummary = {
+  checked: number;
+  drift: CanonicalAnchorDrift[];
 };
 
 type DeadLink = {
@@ -214,9 +233,16 @@ function main(): number {
   attachResolvedLinks(entries);
   attachGitState(entries);
   const rows = audit(entries, args.minBodyLinks);
+  // Report-only canonical_anchor integrity layer (does not feed `rows`/issues).
+  const canonicalAnchors = auditCanonicalAnchors(entries);
 
   if (args.report) {
-    writeMarkdownReport(rows, path.resolve(ROOT, args.report), args.minBodyLinks);
+    writeMarkdownReport(
+      rows,
+      path.resolve(ROOT, args.report),
+      args.minBodyLinks,
+      canonicalAnchors,
+    );
   }
   if (args.json) {
     writeFileSync(
@@ -237,6 +263,9 @@ function main(): number {
   if (args.report) {
     console.log(`report=${args.report}`);
   }
+  // Informational only: canonical_anchor integrity never gates the release.
+  console.log(`canonical_anchor_checked=${canonicalAnchors.checked}`);
+  console.log(`canonical_anchor_drift=${canonicalAnchors.drift.length}`);
 
   if (args.failOnLowBodyLinks) {
     const lowIssue = `body_links<${args.minBodyLinks}`;
@@ -311,6 +340,7 @@ function loadEntriesSync(): Map<string, Entry> {
     const title = asString(frontmatter.title) || path.basename(filePath, ".md");
     const aliases = asList(frontmatter.aliases);
     const tags = asList(frontmatter.tags);
+    const canonicalAnchor = asString(frontmatter.canonical_anchor).trim();
     const core = coreBody(body);
     entries.set(rel, {
       path: filePath,
@@ -319,6 +349,7 @@ function loadEntriesSync(): Map<string, Entry> {
       title,
       aliases,
       tags,
+      canonicalAnchor,
       body,
       coreBody: core,
       allLinks: extractWikilinks(body),
@@ -647,6 +678,47 @@ function audit(entries: Map<string, Entry>, minBodyLinks: number): AuditRow[] {
   return rows;
 }
 
+// Report-only: verify each declared canonical_anchor (a) resolves to an existing
+// entry via the shared alias/resolve machinery, and (b) is cross-linked from the
+// declaring page's core body. Returns informational counters only; never mutates
+// AuditRow.issues and never influences any exit code.
+function auditCanonicalAnchors(entries: Map<string, Entry>): CanonicalAnchorSummary {
+  const aliasMap = buildAliasMap(entries);
+  const drift: CanonicalAnchorDrift[] = [];
+  let checked = 0;
+  for (const rel of [...entries.keys()].sort()) {
+    const entry = entries.get(rel)!;
+    const declared = entry.canonicalAnchor;
+    if (!declared) {
+      continue;
+    }
+    checked += 1;
+    const resolvedRaw = resolveLink(entry, declared, entries, aliasMap);
+    const resolved = resolvedRaw ? normalizeRel(resolvedRaw) : null;
+    const brokenAnchor = !resolved || !entries.has(resolved);
+    // Self-pointing anchors (a canonical page declaring itself) satisfy the
+    // body-link requirement by definition.
+    const selfPointing = resolved !== null && resolved === entry.rel;
+    const missingBodyLink =
+      !brokenAnchor &&
+      !selfPointing &&
+      !entry.bodyLinks.some(
+        (link) => link.resolved && normalizeRel(link.resolved) === resolved,
+      );
+    if (brokenAnchor || missingBodyLink) {
+      drift.push({
+        rel,
+        domain: entry.domain,
+        declared,
+        resolved: brokenAnchor ? null : resolved,
+        brokenAnchor,
+        missingBodyLink,
+      });
+    }
+  }
+  return { checked, drift };
+}
+
 function entryStatus(entry: Entry, entries: Map<string, Entry>, minBodyLinks: number): Omit<AuditRow, "path" | "domain" | "title" | "git_state" | "suggestions"> {
   const bodyCount = entry.bodyLinks.length;
   const hasH1 = /^#\s+.+/m.test(entry.body);
@@ -897,7 +969,12 @@ function candidateExists(candidate: string, entries: Map<string, Entry>): boolea
   );
 }
 
-function writeMarkdownReport(rows: AuditRow[], reportPath: string, minBodyLinks: number): void {
+function writeMarkdownReport(
+  rows: AuditRow[],
+  reportPath: string,
+  minBodyLinks: number,
+  canonicalAnchors: CanonicalAnchorSummary,
+): void {
   const total = rows.length;
   const failures = rows.filter((row) => row.issues.length > 0);
   const deadRows = rows.filter((row) => row.dead_links.length > 0);
@@ -935,6 +1012,8 @@ function writeMarkdownReport(rows: AuditRow[], reportPath: string, minBodyLinks:
   lines.push(`| Missing peer link | ${missingPeer.length} |`);
   lines.push(`| Missing system / regulatory link | ${missingSystem.length} |`);
   lines.push(`| Changed or new entries in current worktree | ${changed.length} |`);
+  lines.push(`| canonical_anchor declarations checked (informational) | ${canonicalAnchors.checked} |`);
+  lines.push(`| canonical_anchor drift (informational, non-gating) | ${canonicalAnchors.drift.length} |`);
   lines.push("");
   lines.push("## Wiki Linking Standard");
   lines.push("");
@@ -1016,6 +1095,30 @@ function writeMarkdownReport(rows: AuditRow[], reportPath: string, minBodyLinks:
     const failing = domainRows.filter((row) => row.issues.length > 0);
     const avg = domainRows.reduce((sum, row) => sum + row.body_links, 0) / domainRows.length;
     lines.push(`| \`${domain}\` | ${domainRows.length} | ${failing.length} | ${avg.toFixed(1)} |`);
+  }
+  lines.push("");
+  lines.push("## Informational: canonical_anchor Integrity");
+  lines.push("");
+  lines.push("> Report-only (proposal Phase 1, audit-only). These rows never increment");
+  lines.push("> entries-with-issues and never fail the release gate. They flag pages whose");
+  lines.push("> `canonical_anchor:` frontmatter either points at a non-existent entry or is");
+  lines.push("> not cross-linked from the declaring page's core body (before `## Related`).");
+  lines.push("");
+  lines.push(`Declarations checked: ${canonicalAnchors.checked}. Drift: ${canonicalAnchors.drift.length}.`);
+  lines.push("");
+  lines.push("| Path | Declared anchor | Resolves | Core-body link | Issue |");
+  lines.push("|---|---|---|---|---|");
+  const driftRows = [...canonicalAnchors.drift].sort((left, right) =>
+    left.rel.localeCompare(right.rel),
+  );
+  if (driftRows.length === 0) {
+    lines.push("| _none_ | - | - | - | - |");
+  }
+  for (const row of driftRows) {
+    const resolves = row.brokenAnchor ? "no" : "yes";
+    const coreBodyLink = row.brokenAnchor ? "-" : row.missingBodyLink ? "no" : "yes";
+    const issue = row.brokenAnchor ? "broken_anchor" : "missing_core_body_link";
+    lines.push(`| \`${row.rel}\` | \`${row.declared}\` | ${resolves} | ${coreBodyLink} | \`${issue}\` |`);
   }
   lines.push("");
   lines.push("## Execution Notes");

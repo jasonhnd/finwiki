@@ -8,7 +8,7 @@ aliases:
   - "Kiraboshi UI Bank"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
+last_updated: 2026-06-03
 last_tended: 2026-05-25
 review_by: 2026-11-25
 confidence: likely
@@ -23,6 +23,7 @@ sources:
   - "https://www.tokyo-kiraboshifg.co.jp/"
   - "https://www.tokyo-kiraboshifg.co.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+canonical_anchor: JapanFG/ui-bank
 ---
 
 # UI Bank operating profile (UI銀行 / きらぼし FG 系)

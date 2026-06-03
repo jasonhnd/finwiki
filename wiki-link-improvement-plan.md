@@ -15,7 +15,9 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 15 |
+| Changed or new entries in current worktree | 6 |
+| canonical_anchor declarations checked (informational) | 8 |
+| canonical_anchor drift (informational, non-gating) | 1 |
 
 ## Wiki Linking Standard
 
@@ -39,21 +41,12 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `JapanFG/cooperative-finance-index.md` | `??` | 44 | ok |
-| `JapanFG/foreign-institutions-index.md` | `??` | 58 | ok |
-| `JapanFG/insurance-index.md` | `??` | 103 | ok |
-| `JapanFG/megabanks-and-fg-index.md` | `??` | 20 | ok |
-| `JapanFG/payments-cards-leasing-finance-index.md` | `??` | 113 | ok |
-| `JapanFG/regional-banks-index.md` | `??` | 135 | ok |
-| `JapanFG/regulators-sro-policy-index.md` | `??` | 52 | ok |
-| `JapanFG/securities-and-asset-management-index.md` | `??` | 52 | ok |
-| `JapanFG/trust-index.md` | `??` | 48 | ok |
-| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 28 | ok |
-| `governance/INDEX.md` | `M` | 13 | ok |
-| `insurance/saison-automobile-fire.md` | `M` | 11 | ok |
-| `JapanFG/INDEX.md` | `M` | 1412 | ok |
-| `manufacturing/INDEX.md` | `M` | 12 | ok |
-| `manufacturing/toyota-financial-services.md` | `M` | 17 | ok |
+| `banking/daiwa-next-bank.md` | `M` | 35 | ok |
+| `banking/gmo-aozora-net-bank.md` | `M` | 36 | ok |
+| `banking/sony-bank.md` | `M` | 20 | ok |
+| `banking/ui-bank.md` | `M` | 31 | ok |
+| `JapanFG/japan-post-bank.md` | `M` | 22 | ok |
+| `manufacturing/sony-group-finance-arm.md` | `M` | 10 | ok |
 
 ## Domain Snapshot
 
@@ -89,6 +82,19 @@
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 4 | 0 | 11.5 |
+
+## Informational: canonical_anchor Integrity
+
+> Report-only (proposal Phase 1, audit-only). These rows never increment
+> entries-with-issues and never fail the release gate. They flag pages whose
+> `canonical_anchor:` frontmatter either points at a non-existent entry or is
+> not cross-linked from the declaring page's core body (before `## Related`).
+
+Declarations checked: 8. Drift: 1.
+
+| Path | Declared anchor | Resolves | Core-body link | Issue |
+|---|---|---|---|---|
+| `insurance/saison-automobile-fire.md` | `JapanFG/saison-automobile-fire-insurance` | yes | no | `missing_core_body_link` |
 
 ## Execution Notes
 
