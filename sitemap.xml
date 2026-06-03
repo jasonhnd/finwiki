@@ -1448,7 +1448,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/JapanFG/japan-post-bank</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4172,7 +4172,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/banking/daiwa-next-bank</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4184,7 +4184,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/banking/gmo-aozora-net-bank</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4352,7 +4352,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/banking/sony-bank</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4370,7 +4370,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/banking/ui-bank</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6980,7 +6980,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/manufacturing/sony-group-finance-arm</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8018,6 +8018,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.03-7</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.03-8</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

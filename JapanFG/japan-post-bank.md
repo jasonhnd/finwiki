@@ -9,7 +9,7 @@ aliases:
   - "Japan Post Bank profile"
 domain: JapanFG
 created: 2026-05-25
-last_updated: 2026-05-25
+last_updated: 2026-06-03
 last_tended: 2026-05-25
 review_by: 2026-11-25
 confidence: likely
@@ -28,6 +28,7 @@ sources:
   - "https://www.jp-bank.japanpost.jp/aboutus/company/outline/abt_cmp_ol_profile.html"
   - "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html"
   - "https://www.japanpost.jp/ir/stock/index10/"
+canonical_anchor: JapanFG/yucho
 ---
 
 # Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile

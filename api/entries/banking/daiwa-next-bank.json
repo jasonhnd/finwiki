@@ -19,7 +19,7 @@
     ],
     "domain": "banking",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-03",
     "last_tended": "2026-05-25",
     "review_by": "2026-11-25",
     "confidence": "likely",
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11076,
-    "word_like_tokens": 1753,
+    "nonspace_chars": 11116,
+    "word_like_tokens": 1759,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-03"
   }
 }

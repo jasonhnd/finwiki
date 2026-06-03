@@ -9,7 +9,7 @@ aliases:
   - "JapanFG/sony-finance"
 domain: "manufacturing"
 created: 2026-05-25
-last_updated: 2026-05-25
+last_updated: 2026-06-03
 last_tended: 2026-05-25
 review_by: 2026-11-25
 confidence: likely
@@ -21,6 +21,7 @@ sources:
   - "https://www.sony.com/en/SonyInfo/News/Press/202405/24-026E/"
   - "https://www.sonyfh.co.jp/"
   - "https://disclosure2.edinet-fsa.go.jp/"
+canonical_anchor: JapanFG/sony-fg
 ---
 
 # Sony Group Finance Arm (ソニーグループ 金融事業アーム)

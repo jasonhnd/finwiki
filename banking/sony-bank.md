@@ -8,7 +8,7 @@ aliases:
   - "MoneyKit"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
+last_updated: 2026-06-03
 last_tended: 2026-05-25
 review_by: 2026-11-25
 confidence: likely
@@ -24,6 +24,7 @@ sources:
   - "https://moneykit.net/visitor/fx/ (外貨預金 取扱 12 通貨)"
   - "https://sonybank.jp/corporate/pdf/disclosure2025h.pdf (中間期ディスクロージャー 2025.09.30 預金残高 4兆5,369億円)"
   - "Nikkei: ソニーフィナンシャルグループ スピンオフ上場 2025-09-29 初値205円 (https://www.nikkei.com/article/DGXZQOTG282HO0Y5A920C2000000/)"
+canonical_anchor: JapanFG/sony-bank
 ---
 
 # Sony Bank operating profile (ソニー銀行)

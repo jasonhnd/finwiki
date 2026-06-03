@@ -8,7 +8,7 @@ aliases:
   - "Daiwa Securities Group bank"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
+last_updated: 2026-06-03
 last_tended: 2026-05-25
 review_by: 2026-11-25
 confidence: likely
@@ -22,6 +22,7 @@ sources:
   - "https://www.daiwa-grp.jp/"
   - "https://www.daiwa-grp.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+canonical_anchor: JapanFG/daiwa-next-bank
 ---
 
 # Daiwa Next Bank operating profile (大和ネクスト銀行)

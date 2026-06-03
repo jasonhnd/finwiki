@@ -20,7 +20,7 @@
     ],
     "domain": "JapanFG",
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-03",
     "last_tended": "2026-05-25",
     "review_by": "2026-11-25",
     "confidence": "likely",
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13000,
-    "word_like_tokens": 2180,
+    "nonspace_chars": 13030,
+    "word_like_tokens": 2184,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-03"
   }
 }
