@@ -19,6 +19,7 @@ sources:
   - "https://www.sonyfh.co.jp/en/financial_info/"
   - "https://www.seiho.or.jp/english/about/companies/"
   - "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
+canonical_anchor: JapanFG/sony-life
 ---
 
 # Sony Life group-life and Lifeplanner operating model

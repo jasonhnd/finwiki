@@ -4160,7 +4160,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/banking/au-jibun-bank</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6818,7 +6818,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/insurance/ja-kyosai-zenkyoren-overview</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6890,7 +6890,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/insurance/kampo-japan-post-insurance</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6938,7 +6938,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8216,6 +8216,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.03-12</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.03-13</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
